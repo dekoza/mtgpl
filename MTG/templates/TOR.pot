@@ -1,0 +1,1521 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 23:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../TOR.rst:5
+msgid ":mtgexp:`TOR` Torment"
+msgstr ""
+
+#: ../../TOR.rst:10
+msgid ":mtgtip:`Angel of Retribution<https://img.scryfall.com/cards/border_crop/en/tor/1.jpg?1529069812|https://scryfall.com/card/tor/1/angel-of-retribution?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:9
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../TOR.rst:16
+msgid ":mtgtip:`Aven Trooper<https://img.scryfall.com/cards/border_crop/en/tor/2.jpg?1529070970|https://scryfall.com/card/tor/2/aven-trooper?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:13
+#: ../../TOR.rst:53
+#: ../../TOR.rst:69
+#: ../../TOR.rst:147
+#: ../../TOR.rst:223
+#: ../../TOR.rst:249
+#: ../../TOR.rst:259
+#: ../../TOR.rst:279
+#: ../../TOR.rst:341
+#: ../../TOR.rst:359
+#: ../../TOR.rst:483
+msgid "Flying"
+msgstr ""
+
+#: ../../TOR.rst:15
+msgid "|mana_2|\\ |mana_w|, Discard a card: Aven Trooper gets +1/+2 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:22
+msgid ":mtgtip:`Cleansing Meditation<https://img.scryfall.com/cards/border_crop/en/tor/3.jpg?1529069817|https://scryfall.com/card/tor/3/cleansing-meditation?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:19
+msgid "Destroy all enchantments."
+msgstr ""
+
+#: ../../TOR.rst:21
+msgid "Threshold — If seven or more cards are in your graveyard, instead destroy all enchantments, then return all cards in your graveyard destroyed this way to the battlefield."
+msgstr ""
+
+#: ../../TOR.rst:28
+msgid ":mtgtip:`Equal Treatment<https://img.scryfall.com/cards/border_crop/en/tor/4.jpg?1529069830|https://scryfall.com/card/tor/4/equal-treatment?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:25
+msgid "If any source would deal 1 or more damage to a permanent or player this turn, it deals 2 damage to that permanent or player instead."
+msgstr ""
+
+#: ../../TOR.rst:27
+#: ../../TOR.rst:239
+#: ../../TOR.rst:501
+#: ../../TOR.rst:519
+#: ../../TOR.rst:595
+#: ../../TOR.rst:723
+msgid "Draw a card."
+msgstr ""
+
+#: ../../TOR.rst:38
+msgid ":mtgtip:`Floating Shield<https://img.scryfall.com/cards/border_crop/en/tor/5.jpg?1529069860|https://scryfall.com/card/tor/5/floating-shield?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:31
+#: ../../TOR.rst:101
+#: ../../TOR.rst:211
+#: ../../TOR.rst:265
+#: ../../TOR.rst:457
+#: ../../TOR.rst:491
+#: ../../TOR.rst:533
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../TOR.rst:33
+msgid "As Floating Shield enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../TOR.rst:35
+msgid "Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield."
+msgstr ""
+
+#: ../../TOR.rst:37
+msgid "Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:44
+msgid ":mtgtip:`Frantic Purification<https://img.scryfall.com/cards/border_crop/en/tor/6.jpg?1529069862|https://scryfall.com/card/tor/6/frantic-purification?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:41
+msgid "Destroy target enchantment."
+msgstr ""
+
+#: ../../TOR.rst:43
+#: ../../TOR.rst:105
+msgid "Madness |mana_w| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TOR.rst:50
+msgid ":mtgtip:`Hypochondria<https://img.scryfall.com/cards/border_crop/en/tor/7.jpg?1529069864|https://scryfall.com/card/tor/7/hypochondria?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:47
+msgid "|mana_w|, Discard a card: Prevent the next 3 damage that would be dealt to any target this turn."
+msgstr ""
+
+#: ../../TOR.rst:49
+msgid "|mana_w|, Sacrifice Hypochondria: Prevent the next 3 damage that would be dealt to any target this turn."
+msgstr ""
+
+#: ../../TOR.rst:56
+msgid ":mtgtip:`Major Teroh<https://img.scryfall.com/cards/border_crop/en/tor/8.jpg?1529069866|https://scryfall.com/card/tor/8/major-teroh?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:55
+msgid "|mana_3|\\ |mana_w|\\ |mana_w|, Sacrifice Major Teroh: Exile all black creatures."
+msgstr ""
+
+#: ../../TOR.rst:62
+msgid ":mtgtip:`Militant Monk<https://img.scryfall.com/cards/border_crop/en/tor/9.jpg?1529069902|https://scryfall.com/card/tor/9/militant-monk?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:59
+#: ../../TOR.rst:79
+#: ../../TOR.rst:85
+msgid "Vigilance"
+msgstr ""
+
+#: ../../TOR.rst:61
+msgid "|tap|: Prevent the next 1 damage that would be dealt to any target this turn."
+msgstr ""
+
+#: ../../TOR.rst:66
+msgid ":mtgtip:`Morningtide<https://img.scryfall.com/cards/border_crop/en/tor/10.jpg?1529069904|https://scryfall.com/card/tor/10/morningtide?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:65
+msgid "Exile all cards from all graveyards."
+msgstr ""
+
+#: ../../TOR.rst:72
+msgid ":mtgtip:`Mystic Familiar<https://img.scryfall.com/cards/border_crop/en/tor/11.jpg?1529069906|https://scryfall.com/card/tor/11/mystic-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:71
+msgid "Threshold — As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black."
+msgstr ""
+
+#: ../../TOR.rst:76
+msgid ":mtgtip:`Pay No Heed<https://img.scryfall.com/cards/border_crop/en/tor/12.jpg?1529069909|https://scryfall.com/card/tor/12/pay-no-heed?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:75
+msgid "Prevent all damage a source of your choice would deal this turn."
+msgstr ""
+
+#: ../../TOR.rst:82
+msgid ":mtgtip:`Possessed Nomad<https://img.scryfall.com/cards/border_crop/en/tor/13.jpg?1529069942|https://scryfall.com/card/tor/13/possessed-nomad?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:81
+msgid "Threshold — As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has \"|mana_2|\\ |mana_b|, |tap|: Destroy target white creature.\""
+msgstr ""
+
+#: ../../TOR.rst:88
+msgid ":mtgtip:`Reborn Hero<https://img.scryfall.com/cards/border_crop/en/tor/14.jpg?1529069944|https://scryfall.com/card/tor/14/reborn-hero?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:87
+msgid "Threshold — As long as seven or more cards are in your graveyard, Reborn Hero has \"When Reborn Hero dies, you may pay |mana_w|\\ |mana_w|. If you do, return Reborn Hero to the battlefield under your control.\""
+msgstr ""
+
+#: ../../TOR.rst:94
+msgid ":mtgtip:`Spirit Flare<https://img.scryfall.com/cards/border_crop/en/tor/15.jpg?1529069945|https://scryfall.com/card/tor/15/spirit-flare?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:91
+msgid "Tap target untapped creature you control. If you do, it deals damage equal to its power to target attacking or blocking creature an opponent controls."
+msgstr ""
+
+#: ../../TOR.rst:93
+msgid "Flashback—|mana_1|\\ |mana_w|, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:98
+msgid ":mtgtip:`Stern Judge<https://img.scryfall.com/cards/border_crop/en/tor/16.jpg?1529069948|https://scryfall.com/card/tor/16/stern-judge?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:97
+msgid "|tap|: Each player loses 1 life for each Swamp they control."
+msgstr ""
+
+#: ../../TOR.rst:106
+msgid ":mtgtip:`Strength of Isolation<https://img.scryfall.com/cards/border_crop/en/tor/17.jpg?1529070165|https://scryfall.com/card/tor/17/strength-of-isolation?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:103
+msgid "Enchanted creature gets +1/+2 and has protection from black."
+msgstr ""
+
+#: ../../TOR.rst:110
+msgid ":mtgtip:`Teroh's Faithful<https://img.scryfall.com/cards/border_crop/en/tor/18.jpg?1529070166|https://scryfall.com/card/tor/18/terohs-faithful?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:109
+msgid "When Teroh's Faithful enters the battlefield, you gain 4 life."
+msgstr ""
+
+#: ../../TOR.rst:116
+msgid ":mtgtip:`Teroh's Vanguard<https://img.scryfall.com/cards/border_crop/en/tor/19.jpg?1529070168|https://scryfall.com/card/tor/19/terohs-vanguard?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:113
+msgid "Flash"
+msgstr ""
+
+#: ../../TOR.rst:115
+msgid "Threshold — As long as seven or more cards are in your graveyard, Teroh's Vanguard has \"When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn.\""
+msgstr ""
+
+#: ../../TOR.rst:124
+msgid ":mtgtip:`Transcendence<https://img.scryfall.com/cards/border_crop/en/tor/20.jpg?1529070461|https://scryfall.com/card/tor/20/transcendence?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:119
+msgid "You don't lose the game for having 0 or less life."
+msgstr ""
+
+#: ../../TOR.rst:121
+msgid "When you have 20 or more life, you lose the game."
+msgstr ""
+
+#: ../../TOR.rst:123
+msgid "Whenever you lose life, you gain 2 life for each 1 life you lost. (Damage dealt to you causes you to lose life.)"
+msgstr ""
+
+#: ../../TOR.rst:130
+msgid ":mtgtip:`Vengeful Dreams<https://img.scryfall.com/cards/border_crop/en/tor/21.jpg?1529070463|https://scryfall.com/card/tor/21/vengeful-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:127
+#: ../../TOR.rst:273
+#: ../../TOR.rst:375
+#: ../../TOR.rst:445
+#: ../../TOR.rst:469
+#: ../../TOR.rst:765
+msgid "As an additional cost to cast this spell, discard X cards."
+msgstr ""
+
+#: ../../TOR.rst:129
+msgid "Exile X target attacking creatures."
+msgstr ""
+
+#: ../../TOR.rst:136
+msgid ":mtgtip:`Alter Reality<https://img.scryfall.com/cards/border_crop/en/tor/22.jpg?1529070466|https://scryfall.com/card/tor/22/alter-reality?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:133
+msgid "Change the text of target spell or permanent by replacing all instances of one color word with another. (This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../TOR.rst:135
+msgid "Flashback |mana_1|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:140
+msgid ":mtgtip:`Ambassador Laquatus<https://img.scryfall.com/cards/border_crop/en/tor/23.jpg?1529070468|https://scryfall.com/card/tor/23/ambassador-laquatus?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:139
+msgid "|mana_3|: Target player puts the top three cards of their library into their graveyard."
+msgstr ""
+
+#: ../../TOR.rst:144
+msgid ":mtgtip:`Aquamoeba<https://img.scryfall.com/cards/border_crop/en/tor/24.jpg?1529070469|https://scryfall.com/card/tor/24/aquamoeba?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:143
+msgid "Discard a card: Switch Aquamoeba's power and toughness until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:150
+msgid ":mtgtip:`Balshan Collaborator<https://img.scryfall.com/cards/border_crop/en/tor/25.jpg?1529070473|https://scryfall.com/card/tor/25/balshan-collaborator?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:149
+msgid "|mana_b|: Balshan Collaborator gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:154
+msgid ":mtgtip:`Breakthrough<https://img.scryfall.com/cards/border_crop/en/tor/26.jpg?1529070506|https://scryfall.com/card/tor/26/breakthrough?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:153
+msgid "Draw four cards, then choose X cards in your hand and discard the rest."
+msgstr ""
+
+#: ../../TOR.rst:158
+msgid ":mtgtip:`Cephalid Aristocrat<https://img.scryfall.com/cards/border_crop/en/tor/27.jpg?1517813031|https://scryfall.com/card/tor/27/cephalid-aristocrat?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:157
+msgid "Whenever Cephalid Aristocrat becomes the target of a spell or ability, put the top two cards of your library into your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:164
+msgid ":mtgtip:`Cephalid Illusionist<https://img.scryfall.com/cards/border_crop/en/tor/28.jpg?1517813031|https://scryfall.com/card/tor/28/cephalid-illusionist?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:161
+msgid "Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:163
+msgid "|mana_2|\\ |mana_u|, |tap|: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn."
+msgstr ""
+
+#: ../../TOR.rst:168
+msgid ":mtgtip:`Cephalid Sage<https://img.scryfall.com/cards/border_crop/en/tor/29.jpg?1517813031|https://scryfall.com/card/tor/29/cephalid-sage?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:167
+msgid "Threshold — As long as seven or more cards are in your graveyard, Cephalid Sage has \"When Cephalid Sage enters the battlefield, draw three cards, then discard two cards.\""
+msgstr ""
+
+#: ../../TOR.rst:172
+msgid ":mtgtip:`Cephalid Snitch<https://img.scryfall.com/cards/border_crop/en/tor/30.jpg?1517813031|https://scryfall.com/card/tor/30/cephalid-snitch?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:171
+msgid "Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:176
+msgid ":mtgtip:`Cephalid Vandal<https://img.scryfall.com/cards/border_crop/en/tor/31.jpg?1517813031|https://scryfall.com/card/tor/31/cephalid-vandal?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:175
+msgid "At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal."
+msgstr ""
+
+#: ../../TOR.rst:180
+msgid ":mtgtip:`Churning Eddy<https://img.scryfall.com/cards/border_crop/en/tor/32.jpg?1517813031|https://scryfall.com/card/tor/32/churning-eddy?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:179
+msgid "Return target creature and target land to their owners' hands."
+msgstr ""
+
+#: ../../TOR.rst:186
+msgid ":mtgtip:`Circular Logic<https://img.scryfall.com/cards/border_crop/en/tor/33.jpg?1517813031|https://scryfall.com/card/tor/33/circular-logic?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:183
+msgid "Counter target spell unless its controller pays |mana_1| for each card in your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:185
+#: ../../TOR.rst:241
+msgid "Madness |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TOR.rst:192
+msgid ":mtgtip:`Compulsion<https://img.scryfall.com/cards/border_crop/en/tor/34.jpg?1517813031|https://scryfall.com/card/tor/34/compulsion?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:189
+msgid "|mana_1|\\ |mana_u|, Discard a card: Draw a card."
+msgstr ""
+
+#: ../../TOR.rst:191
+msgid "|mana_1|\\ |mana_u|, Sacrifice Compulsion: Draw a card."
+msgstr ""
+
+#: ../../TOR.rst:198
+msgid ":mtgtip:`Coral Net<https://img.scryfall.com/cards/border_crop/en/tor/35.jpg?1517813031|https://scryfall.com/card/tor/35/coral-net?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:195
+msgid "Enchant green or white creature"
+msgstr ""
+
+#: ../../TOR.rst:197
+msgid "Enchanted creature has \"At the beginning of your upkeep, sacrifice this creature unless you discard a card.\""
+msgstr ""
+
+#: ../../TOR.rst:204
+msgid ":mtgtip:`Deep Analysis<https://img.scryfall.com/cards/border_crop/en/tor/36.jpg?1517813031|https://scryfall.com/card/tor/36/deep-analysis?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:201
+msgid "Target player draws two cards."
+msgstr ""
+
+#: ../../TOR.rst:203
+msgid "Flashback—|mana_1|\\ |mana_u|, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:208
+msgid ":mtgtip:`False Memories<https://img.scryfall.com/cards/border_crop/en/tor/37.jpg?1517813031|https://scryfall.com/card/tor/37/false-memories?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:207
+msgid "Put the top seven cards of your library into your graveyard. At the beginning of the next end step, exile seven cards from your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:216
+msgid ":mtgtip:`Ghostly Wings<https://img.scryfall.com/cards/border_crop/en/tor/38.jpg?1517813031|https://scryfall.com/card/tor/38/ghostly-wings?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:213
+msgid "Enchanted creature gets +1/+1 and has flying."
+msgstr ""
+
+#: ../../TOR.rst:215
+msgid "Discard a card: Return enchanted creature to its owner's hand."
+msgstr ""
+
+#: ../../TOR.rst:220
+msgid ":mtgtip:`Hydromorph Guardian<https://img.scryfall.com/cards/border_crop/en/tor/39.jpg?1517813031|https://scryfall.com/card/tor/39/hydromorph-guardian?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:219
+msgid "|mana_u|, Sacrifice Hydromorph Guardian: Counter target spell that targets a creature you control."
+msgstr ""
+
+#: ../../TOR.rst:226
+msgid ":mtgtip:`Hydromorph Gull<https://img.scryfall.com/cards/border_crop/en/tor/40.jpg?1517813031|https://scryfall.com/card/tor/40/hydromorph-gull?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:225
+msgid "|mana_u|, Sacrifice Hydromorph Gull: Counter target spell that targets a creature you control."
+msgstr ""
+
+#: ../../TOR.rst:230
+msgid ":mtgtip:`Liquify<https://img.scryfall.com/cards/border_crop/en/tor/41.jpg?1517813031|https://scryfall.com/card/tor/41/liquify?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:229
+msgid "Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+msgstr ""
+
+#: ../../TOR.rst:236
+msgid ":mtgtip:`Llawan, Cephalid Empress<https://img.scryfall.com/cards/border_crop/en/tor/42.jpg?1517813031|https://scryfall.com/card/tor/42/llawan-cephalid-empress?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:233
+msgid "When Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands."
+msgstr ""
+
+#: ../../TOR.rst:235
+msgid "Your opponents can't cast blue creature spells."
+msgstr ""
+
+#: ../../TOR.rst:242
+msgid ":mtgtip:`Obsessive Search<https://img.scryfall.com/cards/border_crop/en/tor/43.jpg?1517813031|https://scryfall.com/card/tor/43/obsessive-search?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:246
+msgid ":mtgtip:`Plagiarize<https://img.scryfall.com/cards/border_crop/en/tor/44.jpg?1517813031|https://scryfall.com/card/tor/44/plagiarize?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:245
+msgid "Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card."
+msgstr ""
+
+#: ../../TOR.rst:252
+msgid ":mtgtip:`Possessed Aven<https://img.scryfall.com/cards/border_crop/en/tor/45.jpg?1517813031|https://scryfall.com/card/tor/45/possessed-aven?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:251
+msgid "Threshold — As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has \"|mana_2|\\ |mana_b|, |tap|: Destroy target blue creature.\""
+msgstr ""
+
+#: ../../TOR.rst:256
+msgid ":mtgtip:`Retraced Image<https://img.scryfall.com/cards/border_crop/en/tor/46.jpg?1517813031|https://scryfall.com/card/tor/46/retraced-image?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:255
+msgid "Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent."
+msgstr ""
+
+#: ../../TOR.rst:262
+msgid ":mtgtip:`Skywing Aven<https://img.scryfall.com/cards/border_crop/en/tor/47.jpg?1517813031|https://scryfall.com/card/tor/47/skywing-aven?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:261
+msgid "Discard a card: Return Skywing Aven to its owner's hand."
+msgstr ""
+
+#: ../../TOR.rst:270
+msgid ":mtgtip:`Stupefying Touch<https://img.scryfall.com/cards/border_crop/en/tor/48.jpg?1517813031|https://scryfall.com/card/tor/48/stupefying-touch?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:267
+msgid "When Stupefying Touch enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../TOR.rst:269
+msgid "Enchanted creature's activated abilities can't be activated."
+msgstr ""
+
+#: ../../TOR.rst:276
+msgid ":mtgtip:`Turbulent Dreams<https://img.scryfall.com/cards/border_crop/en/tor/49.jpg?1517813031|https://scryfall.com/card/tor/49/turbulent-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:275
+msgid "Return X target nonland permanents to their owners' hands."
+msgstr ""
+
+#: ../../TOR.rst:282
+msgid ":mtgtip:`Boneshard Slasher<https://img.scryfall.com/cards/border_crop/en/tor/50.jpg?1517813031|https://scryfall.com/card/tor/50/boneshard-slasher?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:281
+msgid "Threshold — As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has \"When Boneshard Slasher becomes the target of a spell or ability, sacrifice it.\""
+msgstr ""
+
+#: ../../TOR.rst:288
+msgid ":mtgtip:`Cabal Ritual<https://img.scryfall.com/cards/border_crop/en/tor/51.jpg?1517813031|https://scryfall.com/card/tor/51/cabal-ritual?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:285
+msgid "Add |mana_b|\\ |mana_b|\\ |mana_b|."
+msgstr ""
+
+#: ../../TOR.rst:287
+msgid "Threshold — Add |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b| instead if seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:292
+msgid ":mtgtip:`Cabal Surgeon<https://img.scryfall.com/cards/border_crop/en/tor/52.jpg?1517813031|https://scryfall.com/card/tor/52/cabal-surgeon?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:291
+msgid "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, Exile two cards from your graveyard: Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../TOR.rst:298
+msgid ":mtgtip:`Cabal Torturer<https://img.scryfall.com/cards/border_crop/en/tor/53.jpg?1517813031|https://scryfall.com/card/tor/53/cabal-torturer?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:295
+msgid "|mana_b|, |tap|: Target creature gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:297
+msgid "Threshold — |mana_3|\\ |mana_b|\\ |mana_b|, |tap|: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:302
+msgid ":mtgtip:`Carrion Rats<https://img.scryfall.com/cards/border_crop/en/tor/54.jpg?1517813031|https://scryfall.com/card/tor/54/carrion-rats?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:301
+msgid "Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
+msgstr ""
+
+#: ../../TOR.rst:306
+msgid ":mtgtip:`Carrion Wurm<https://img.scryfall.com/cards/border_crop/en/tor/55.jpg?1517813031|https://scryfall.com/card/tor/55/carrion-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:305
+msgid "Whenever Carrion Wurm attacks or blocks, any player may exile three cards from their graveyard. If a player does, Carrion Wurm assigns no combat damage this turn."
+msgstr ""
+
+#: ../../TOR.rst:314
+msgid ":mtgtip:`Chainer, Dementia Master<https://img.scryfall.com/cards/border_crop/en/tor/56.jpg?1517813031|https://scryfall.com/card/tor/56/chainer-dementia-master?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:309
+msgid "Nightmare creatures get +1/+1."
+msgstr ""
+
+#: ../../TOR.rst:311
+msgid "|mana_b|\\ |mana_b|\\ |mana_b|, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types."
+msgstr ""
+
+#: ../../TOR.rst:313
+msgid "When Chainer, Dementia Master leaves the battlefield, exile all Nightmares."
+msgstr ""
+
+#: ../../TOR.rst:320
+msgid ":mtgtip:`Chainer's Edict<https://img.scryfall.com/cards/border_crop/en/tor/57.jpg?1517813031|https://scryfall.com/card/tor/57/chainers-edict?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:317
+msgid "Target player sacrifices a creature."
+msgstr ""
+
+#: ../../TOR.rst:319
+msgid "Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:326
+msgid ":mtgtip:`Crippling Fatigue<https://img.scryfall.com/cards/border_crop/en/tor/58.jpg?1517813031|https://scryfall.com/card/tor/58/crippling-fatigue?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:323
+msgid "Target creature gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:325
+msgid "Flashback—|mana_1|\\ |mana_b|, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:332
+msgid ":mtgtip:`Dawn of the Dead<https://img.scryfall.com/cards/border_crop/en/tor/59.jpg?1517813031|https://scryfall.com/card/tor/59/dawn-of-the-dead?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:329
+msgid "At the beginning of your upkeep, you lose 1 life."
+msgstr ""
+
+#: ../../TOR.rst:331
+msgid "At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step."
+msgstr ""
+
+#: ../../TOR.rst:338
+msgid ":mtgtip:`Faceless Butcher<https://img.scryfall.com/cards/border_crop/en/tor/60.jpg?1517813031|https://scryfall.com/card/tor/60/faceless-butcher?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:335
+msgid "When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher."
+msgstr ""
+
+#: ../../TOR.rst:337
+msgid "When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+msgstr ""
+
+#: ../../TOR.rst:344
+msgid ":mtgtip:`Gloomdrifter<https://img.scryfall.com/cards/border_crop/en/tor/61.jpg?1517813031|https://scryfall.com/card/tor/61/gloomdrifter?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:343
+msgid "Threshold — As long as seven or more cards are in your graveyard, Gloomdrifter has \"When Gloomdrifter enters the battlefield, nonblack creatures get -2/-2 until end of turn.\""
+msgstr ""
+
+#: ../../TOR.rst:350
+msgid ":mtgtip:`Gravegouger<https://img.scryfall.com/cards/border_crop/en/tor/62.jpg?1517813031|https://scryfall.com/card/tor/62/gravegouger?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:347
+msgid "When Gravegouger enters the battlefield, exile up to two target cards from a single graveyard."
+msgstr ""
+
+#: ../../TOR.rst:349
+msgid "When Gravegouger leaves the battlefield, return the exiled cards to their owner's graveyard."
+msgstr ""
+
+#: ../../TOR.rst:356
+msgid ":mtgtip:`Grotesque Hybrid<https://img.scryfall.com/cards/border_crop/en/tor/63.jpg?1517813031|https://scryfall.com/card/tor/63/grotesque-hybrid?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:353
+msgid "Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated."
+msgstr ""
+
+#: ../../TOR.rst:355
+msgid "Discard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:364
+msgid ":mtgtip:`Hypnox<https://img.scryfall.com/cards/border_crop/en/tor/64.jpg?1517813031|https://scryfall.com/card/tor/64/hypnox?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:361
+msgid "When Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand."
+msgstr ""
+
+#: ../../TOR.rst:363
+msgid "When Hypnox leaves the battlefield, return the exiled cards to their owner's hand."
+msgstr ""
+
+#: ../../TOR.rst:372
+msgid ":mtgtip:`Ichorid<https://img.scryfall.com/cards/border_crop/en/tor/65.jpg?1517813031|https://scryfall.com/card/tor/65/ichorid?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:367
+#: ../../TOR.rst:693
+msgid "Haste"
+msgstr ""
+
+#: ../../TOR.rst:369
+msgid "At the beginning of the end step, sacrifice Ichorid."
+msgstr ""
+
+#: ../../TOR.rst:371
+msgid "At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield."
+msgstr ""
+
+#: ../../TOR.rst:378
+msgid ":mtgtip:`Insidious Dreams<https://img.scryfall.com/cards/border_crop/en/tor/66.jpg?1517813031|https://scryfall.com/card/tor/66/insidious-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:377
+msgid "Search your library for X cards. Then shuffle your library and put those cards on top of it in any order."
+msgstr ""
+
+#: ../../TOR.rst:386
+msgid ":mtgtip:`Laquatus's Champion<https://img.scryfall.com/cards/border_crop/en/tor/67.jpg?1517813031|https://scryfall.com/card/tor/67/laquatuss-champion?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:381
+msgid "When Laquatus's Champion enters the battlefield, target player loses 6 life."
+msgstr ""
+
+#: ../../TOR.rst:383
+msgid "When Laquatus's Champion leaves the battlefield, that player gains 6 life."
+msgstr ""
+
+#: ../../TOR.rst:385
+msgid "|mana_b|: Regenerate Laquatus's Champion."
+msgstr ""
+
+#: ../../TOR.rst:392
+msgid ":mtgtip:`Last Laugh<https://img.scryfall.com/cards/border_crop/en/tor/68.jpg?1517813031|https://scryfall.com/card/tor/68/last-laugh?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:389
+msgid "Whenever a permanent other than Last Laugh is put into a graveyard from the battlefield, Last Laugh deals 1 damage to each creature and each player."
+msgstr ""
+
+#: ../../TOR.rst:391
+msgid "When no creatures are on the battlefield, sacrifice Last Laugh."
+msgstr ""
+
+#: ../../TOR.rst:398
+msgid ":mtgtip:`Mesmeric Fiend<https://img.scryfall.com/cards/border_crop/en/tor/69.jpg?1517813031|https://scryfall.com/card/tor/69/mesmeric-fiend?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:395
+msgid "When Mesmeric Fiend enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card."
+msgstr ""
+
+#: ../../TOR.rst:397
+msgid "When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand."
+msgstr ""
+
+#: ../../TOR.rst:402
+msgid ":mtgtip:`Mind Sludge<https://img.scryfall.com/cards/border_crop/en/tor/70.jpg?1517813031|https://scryfall.com/card/tor/70/mind-sludge?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:401
+msgid "Target player discards a card for each Swamp you control."
+msgstr ""
+
+#: ../../TOR.rst:406
+msgid ":mtgtip:`Mortal Combat<https://img.scryfall.com/cards/border_crop/en/tor/71.jpg?1517813031|https://scryfall.com/card/tor/71/mortal-combat?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:405
+msgid "At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game."
+msgstr ""
+
+#: ../../TOR.rst:412
+msgid ":mtgtip:`Mortiphobia<https://img.scryfall.com/cards/border_crop/en/tor/72.jpg?1517813031|https://scryfall.com/card/tor/72/mortiphobia?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:409
+msgid "|mana_1|\\ |mana_b|, Discard a card: Exile target card from a graveyard."
+msgstr ""
+
+#: ../../TOR.rst:411
+msgid "|mana_1|\\ |mana_b|, Sacrifice Mortiphobia: Exile target card from a graveyard."
+msgstr ""
+
+#: ../../TOR.rst:416
+msgid ":mtgtip:`Mutilate<https://img.scryfall.com/cards/border_crop/en/tor/73.jpg?1517813031|https://scryfall.com/card/tor/73/mutilate?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:415
+msgid "All creatures get -1/-1 until end of turn for each Swamp you control."
+msgstr ""
+
+#: ../../TOR.rst:420
+msgid ":mtgtip:`Nantuko Shade<https://img.scryfall.com/cards/border_crop/en/tor/74.jpg?1517813031|https://scryfall.com/card/tor/74/nantuko-shade?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:419
+msgid "|mana_b|: Nantuko Shade gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:424
+msgid ":mtgtip:`Organ Grinder<https://img.scryfall.com/cards/border_crop/en/tor/75.jpg?1517813031|https://scryfall.com/card/tor/75/organ-grinder?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:423
+msgid "|tap|, Exile three cards from your graveyard: Target player loses 3 life."
+msgstr ""
+
+#: ../../TOR.rst:430
+msgid ":mtgtip:`Psychotic Haze<https://img.scryfall.com/cards/border_crop/en/tor/76.jpg?1517813031|https://scryfall.com/card/tor/76/psychotic-haze?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:427
+msgid "Psychotic Haze deals 1 damage to each creature and each player."
+msgstr ""
+
+#: ../../TOR.rst:429
+msgid "Madness |mana_1|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TOR.rst:436
+msgid ":mtgtip:`Putrid Imp<https://img.scryfall.com/cards/border_crop/en/tor/77.jpg?1517813031|https://scryfall.com/card/tor/77/putrid-imp?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:433
+msgid "Discard a card: Putrid Imp gains flying until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:435
+msgid "Threshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block."
+msgstr ""
+
+#: ../../TOR.rst:442
+msgid ":mtgtip:`Rancid Earth<https://img.scryfall.com/cards/border_crop/en/tor/78.jpg?1517813031|https://scryfall.com/card/tor/78/rancid-earth?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:439
+msgid "Destroy target land."
+msgstr ""
+
+#: ../../TOR.rst:441
+msgid "Threshold — If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player."
+msgstr ""
+
+#: ../../TOR.rst:448
+msgid ":mtgtip:`Restless Dreams<https://img.scryfall.com/cards/border_crop/en/tor/79.jpg?1517813031|https://scryfall.com/card/tor/79/restless-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:447
+msgid "Return X target creature cards from your graveyard to your hand."
+msgstr ""
+
+#: ../../TOR.rst:454
+msgid ":mtgtip:`Sengir Vampire<https://img.scryfall.com/cards/border_crop/en/tor/80.jpg?1517813031|https://scryfall.com/card/tor/80/sengir-vampire?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:451
+msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
+msgstr ""
+
+#: ../../TOR.rst:453
+msgid "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
+msgstr ""
+
+#: ../../TOR.rst:462
+msgid ":mtgtip:`Shade's Form<https://img.scryfall.com/cards/border_crop/en/tor/81.jpg?1517813031|https://scryfall.com/card/tor/81/shades-form?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:459
+msgid "Enchanted creature has \"|mana_b|: This creature gets +1/+1 until end of turn.\""
+msgstr ""
+
+#: ../../TOR.rst:461
+msgid "When enchanted creature dies, return that card to the battlefield under your control."
+msgstr ""
+
+#: ../../TOR.rst:466
+msgid ":mtgtip:`Shambling Swarm<https://img.scryfall.com/cards/border_crop/en/tor/82.jpg?1517813031|https://scryfall.com/card/tor/82/shambling-swarm?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:465
+msgid "When Shambling Swarm dies, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step."
+msgstr ""
+
+#: ../../TOR.rst:472
+msgid ":mtgtip:`Sickening Dreams<https://img.scryfall.com/cards/border_crop/en/tor/83.jpg?1517813031|https://scryfall.com/card/tor/83/sickening-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:471
+msgid "Sickening Dreams deals X damage to each creature and each player."
+msgstr ""
+
+#: ../../TOR.rst:480
+msgid ":mtgtip:`Slithery Stalker<https://img.scryfall.com/cards/border_crop/en/tor/84.jpg?1517813031|https://scryfall.com/card/tor/84/slithery-stalker?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:475
+#: ../../TOR.rst:731
+msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
+msgstr ""
+
+#: ../../TOR.rst:477
+msgid "When Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls."
+msgstr ""
+
+#: ../../TOR.rst:479
+msgid "When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+msgstr ""
+
+#: ../../TOR.rst:488
+msgid ":mtgtip:`Soul Scourge<https://img.scryfall.com/cards/border_crop/en/tor/85.jpg?1517813031|https://scryfall.com/card/tor/85/soul-scourge?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:485
+msgid "When Soul Scourge enters the battlefield, target player loses 3 life."
+msgstr ""
+
+#: ../../TOR.rst:487
+msgid "When Soul Scourge leaves the battlefield, that player gains 3 life."
+msgstr ""
+
+#: ../../TOR.rst:496
+msgid ":mtgtip:`Strength of Lunacy<https://img.scryfall.com/cards/border_crop/en/tor/86.jpg?1517813031|https://scryfall.com/card/tor/86/strength-of-lunacy?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:493
+msgid "Enchanted creature gets +2/+1 and has protection from white."
+msgstr ""
+
+#: ../../TOR.rst:495
+msgid "Madness |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TOR.rst:502
+msgid ":mtgtip:`Unhinge<https://img.scryfall.com/cards/border_crop/en/tor/87.jpg?1517813031|https://scryfall.com/card/tor/87/unhinge?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:499
+msgid "Target player discards a card."
+msgstr ""
+
+#: ../../TOR.rst:508
+msgid ":mtgtip:`Waste Away<https://img.scryfall.com/cards/border_crop/en/tor/88.jpg?1517813031|https://scryfall.com/card/tor/88/waste-away?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:505
+msgid "As an additional cost to cast this spell, discard a card."
+msgstr ""
+
+#: ../../TOR.rst:507
+msgid "Target creature gets -5/-5 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:514
+msgid ":mtgtip:`Zombie Trailblazer<https://img.scryfall.com/cards/border_crop/en/tor/89.jpg?1517813031|https://scryfall.com/card/tor/89/zombie-trailblazer?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:511
+msgid "Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:513
+msgid "Tap an untapped Zombie you control: Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)"
+msgstr ""
+
+#: ../../TOR.rst:520
+msgid ":mtgtip:`Accelerate<https://img.scryfall.com/cards/border_crop/en/tor/90.jpg?1517813031|https://scryfall.com/card/tor/90/accelerate?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:517
+msgid "Target creature gains haste until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:526
+msgid ":mtgtip:`Balthor the Stout<https://img.scryfall.com/cards/border_crop/en/tor/91.jpg?1517813031|https://scryfall.com/card/tor/91/balthor-the-stout?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:523
+msgid "Other Barbarian creatures get +1/+1."
+msgstr ""
+
+#: ../../TOR.rst:525
+msgid "|mana_r|: Another target Barbarian creature gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:530
+msgid ":mtgtip:`Barbarian Outcast<https://img.scryfall.com/cards/border_crop/en/tor/92.jpg?1517813031|https://scryfall.com/card/tor/92/barbarian-outcast?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:529
+msgid "When you control no Swamps, sacrifice Barbarian Outcast."
+msgstr ""
+
+#: ../../TOR.rst:538
+msgid ":mtgtip:`Crackling Club<https://img.scryfall.com/cards/border_crop/en/tor/93.jpg?1517813031|https://scryfall.com/card/tor/93/crackling-club?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:535
+msgid "Enchanted creature gets +1/+0."
+msgstr ""
+
+#: ../../TOR.rst:537
+msgid "Sacrifice Crackling Club: It deals 1 damage to target creature."
+msgstr ""
+
+#: ../../TOR.rst:542
+msgid ":mtgtip:`Crazed Firecat<https://img.scryfall.com/cards/border_crop/en/tor/94.jpg?1517813031|https://scryfall.com/card/tor/94/crazed-firecat?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:541
+msgid "When Crazed Firecat enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on Crazed Firecat for each flip you win."
+msgstr ""
+
+#: ../../TOR.rst:548
+msgid ":mtgtip:`Devastating Dreams<https://img.scryfall.com/cards/border_crop/en/tor/95.jpg?1517813031|https://scryfall.com/card/tor/95/devastating-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:545
+msgid "As an additional cost to cast this spell, discard X cards at random."
+msgstr ""
+
+#: ../../TOR.rst:547
+msgid "Each player sacrifices X lands. Devastating Dreams deals X damage to each creature."
+msgstr ""
+
+#: ../../TOR.rst:552
+msgid ":mtgtip:`Enslaved Dwarf<https://img.scryfall.com/cards/border_crop/en/tor/96.jpg?1517813031|https://scryfall.com/card/tor/96/enslaved-dwarf?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:551
+msgid "|mana_r|, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:558
+msgid ":mtgtip:`Fiery Temper<https://img.scryfall.com/cards/border_crop/en/tor/97.jpg?1517813031|https://scryfall.com/card/tor/97/fiery-temper?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:555
+msgid "Fiery Temper deals 3 damage to any target."
+msgstr ""
+
+#: ../../TOR.rst:557
+msgid "Madness |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TOR.rst:564
+msgid ":mtgtip:`Flaming Gambit<https://img.scryfall.com/cards/border_crop/en/tor/98.jpg?1517813031|https://scryfall.com/card/tor/98/flaming-gambit?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:561
+msgid "Flaming Gambit deals X damage to target player or planeswalker. That player or that planeswalker's controller may choose a creature they control and have Flaming Gambit deal that damage to it instead."
+msgstr ""
+
+#: ../../TOR.rst:563
+msgid "Flashback |mana_x|\\ |mana_r|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:570
+msgid ":mtgtip:`Flash of Defiance<https://img.scryfall.com/cards/border_crop/en/tor/99.jpg?1517813031|https://scryfall.com/card/tor/99/flash-of-defiance?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:567
+msgid "Green creatures and white creatures can't block this turn."
+msgstr ""
+
+#: ../../TOR.rst:569
+msgid "Flashback—|mana_1|\\ |mana_r|, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:574
+msgid ":mtgtip:`Grim Lavamancer<https://img.scryfall.com/cards/border_crop/en/tor/100.jpg?1517813031|https://scryfall.com/card/tor/100/grim-lavamancer?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:573
+msgid "|mana_r|, |tap|, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to any target."
+msgstr ""
+
+#: ../../TOR.rst:580
+msgid ":mtgtip:`Hell-Bent Raider<https://img.scryfall.com/cards/border_crop/en/tor/101.jpg?1517813031|https://scryfall.com/card/tor/101/hell-bent-raider?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:577
+msgid "First strike, haste"
+msgstr ""
+
+#: ../../TOR.rst:579
+msgid "Discard a card at random: Hell-Bent Raider gains protection from white until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:586
+msgid ":mtgtip:`Kamahl's Sledge<https://img.scryfall.com/cards/border_crop/en/tor/102.jpg?1517813031|https://scryfall.com/card/tor/102/kamahls-sledge?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:583
+msgid "Kamahl's Sledge deals 4 damage to target creature."
+msgstr ""
+
+#: ../../TOR.rst:585
+msgid "Threshold — If seven or more cards are in your graveyard, instead Kamahl's Sledge deals 4 damage to that creature and 4 damage to that creature's controller."
+msgstr ""
+
+#: ../../TOR.rst:590
+msgid ":mtgtip:`Longhorn Firebeast<https://img.scryfall.com/cards/border_crop/en/tor/103.jpg?1517813031|https://scryfall.com/card/tor/103/longhorn-firebeast?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:589
+msgid "When Longhorn Firebeast enters the battlefield, any opponent may have it deal 5 damage to them. If a player does, sacrifice Longhorn Firebeast."
+msgstr ""
+
+#: ../../TOR.rst:596
+msgid ":mtgtip:`Overmaster<https://img.scryfall.com/cards/border_crop/en/tor/104.jpg?1517813031|https://scryfall.com/card/tor/104/overmaster?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:593
+msgid "The next instant or sorcery spell you cast this turn can't be countered."
+msgstr ""
+
+#: ../../TOR.rst:600
+msgid ":mtgtip:`Pardic Arsonist<https://img.scryfall.com/cards/border_crop/en/tor/105.jpg?1517813031|https://scryfall.com/card/tor/105/pardic-arsonist?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:599
+msgid "Threshold — As long as seven or more cards are in your graveyard, Pardic Arsonist has \"When Pardic Arsonist enters the battlefield, it deals 3 damage to any target.\""
+msgstr ""
+
+#: ../../TOR.rst:606
+msgid ":mtgtip:`Pardic Collaborator<https://img.scryfall.com/cards/border_crop/en/tor/106.jpg?1517813031|https://scryfall.com/card/tor/106/pardic-collaborator?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:603
+#: ../../TOR.rst:633
+msgid "First strike"
+msgstr ""
+
+#: ../../TOR.rst:605
+msgid "|mana_b|: Pardic Collaborator gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:610
+msgid ":mtgtip:`Pardic Lancer<https://img.scryfall.com/cards/border_crop/en/tor/107.jpg?1517813031|https://scryfall.com/card/tor/107/pardic-lancer?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:609
+msgid "Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:618
+msgid ":mtgtip:`Petradon<https://img.scryfall.com/cards/border_crop/en/tor/108.jpg?1517813031|https://scryfall.com/card/tor/108/petradon?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:613
+msgid "When Petradon enters the battlefield, exile two target lands."
+msgstr ""
+
+#: ../../TOR.rst:615
+msgid "When Petradon leaves the battlefield, return the exiled cards to the battlefield under their owners' control."
+msgstr ""
+
+#: ../../TOR.rst:617
+msgid "|mana_r|: Petradon gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:624
+msgid ":mtgtip:`Petravark<https://img.scryfall.com/cards/border_crop/en/tor/109.jpg?1517813031|https://scryfall.com/card/tor/109/petravark?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:621
+msgid "When Petravark enters the battlefield, exile target land."
+msgstr ""
+
+#: ../../TOR.rst:623
+msgid "When Petravark leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+msgstr ""
+
+#: ../../TOR.rst:630
+msgid ":mtgtip:`Pitchstone Wall<https://img.scryfall.com/cards/border_crop/en/tor/110.jpg?1517813031|https://scryfall.com/card/tor/110/pitchstone-wall?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:627
+msgid "Defender (This creature can't attack.)"
+msgstr ""
+
+#: ../../TOR.rst:629
+msgid "Whenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand."
+msgstr ""
+
+#: ../../TOR.rst:636
+msgid ":mtgtip:`Possessed Barbarian<https://img.scryfall.com/cards/border_crop/en/tor/111.jpg?1517813031|https://scryfall.com/card/tor/111/possessed-barbarian?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:635
+msgid "Threshold — As long as seven or more cards are in your graveyard, Possessed Barbarian gets +1/+1, is black, and has \"|mana_2|\\ |mana_b|, |tap|: Destroy target red creature.\""
+msgstr ""
+
+#: ../../TOR.rst:642
+msgid ":mtgtip:`Pyromania<https://img.scryfall.com/cards/border_crop/en/tor/112.jpg?1517813031|https://scryfall.com/card/tor/112/pyromania?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:639
+msgid "|mana_1|\\ |mana_r|, Discard a card at random: Pyromania deals 1 damage to any target."
+msgstr ""
+
+#: ../../TOR.rst:641
+msgid "|mana_1|\\ |mana_r|, Sacrifice Pyromania: It deals 1 damage to any target."
+msgstr ""
+
+#: ../../TOR.rst:646
+msgid ":mtgtip:`Radiate<https://img.scryfall.com/cards/border_crop/en/tor/113.jpg?1517813031|https://scryfall.com/card/tor/113/radiate?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:645
+msgid "Choose target instant or sorcery spell that targets only a single permanent or player. Copy that spell for each other permanent or player the spell could target. Each copy targets a different one of those permanents and players."
+msgstr ""
+
+#: ../../TOR.rst:650
+msgid ":mtgtip:`Skullscorch<https://img.scryfall.com/cards/border_crop/en/tor/114.jpg?1517813031|https://scryfall.com/card/tor/114/skullscorch?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:649
+msgid "Target player discards two cards at random unless that player has Skullscorch deal 4 damage to them."
+msgstr ""
+
+#: ../../TOR.rst:656
+msgid ":mtgtip:`Sonic Seizure<https://img.scryfall.com/cards/border_crop/en/tor/115.jpg?1517813031|https://scryfall.com/card/tor/115/sonic-seizure?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:653
+msgid "As an additional cost to cast this spell, discard a card at random."
+msgstr ""
+
+#: ../../TOR.rst:655
+msgid "Sonic Seizure deals 3 damage to any target."
+msgstr ""
+
+#: ../../TOR.rst:660
+msgid ":mtgtip:`Temporary Insanity<https://img.scryfall.com/cards/border_crop/en/tor/116.jpg?1517813031|https://scryfall.com/card/tor/116/temporary-insanity?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:659
+msgid "Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:666
+msgid ":mtgtip:`Violent Eruption<https://img.scryfall.com/cards/border_crop/en/tor/117.jpg?1517813031|https://scryfall.com/card/tor/117/violent-eruption?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:663
+msgid "Violent Eruption deals 4 damage divided as you choose among any number of targets."
+msgstr ""
+
+#: ../../TOR.rst:665
+msgid "Madness |mana_1|\\ |mana_r|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TOR.rst:672
+msgid ":mtgtip:`Acorn Harvest<https://img.scryfall.com/cards/border_crop/en/tor/118.jpg?1517813031|https://scryfall.com/card/tor/118/acorn-harvest?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:669
+msgid "Create two 1/1 green Squirrel creature tokens."
+msgstr ""
+
+#: ../../TOR.rst:671
+msgid "Flashback—|mana_1|\\ |mana_g|, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:678
+msgid ":mtgtip:`Anurid Scavenger<https://img.scryfall.com/cards/border_crop/en/tor/119.jpg?1517813031|https://scryfall.com/card/tor/119/anurid-scavenger?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:675
+#: ../../TOR.rst:743
+msgid "Protection from black"
+msgstr ""
+
+#: ../../TOR.rst:677
+msgid "At the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library."
+msgstr ""
+
+#: ../../TOR.rst:684
+msgid ":mtgtip:`Arrogant Wurm<https://img.scryfall.com/cards/border_crop/en/tor/120.jpg?1517813031|https://scryfall.com/card/tor/120/arrogant-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:681
+#: ../../TOR.rst:699
+#: ../../TOR.rst:777
+msgid "Trample"
+msgstr ""
+
+#: ../../TOR.rst:683
+msgid "Madness |mana_2|\\ |mana_g| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TOR.rst:690
+msgid ":mtgtip:`Basking Rootwalla<https://img.scryfall.com/cards/border_crop/en/tor/121.jpg?1517813031|https://scryfall.com/card/tor/121/basking-rootwalla?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:687
+msgid "|mana_1|\\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../TOR.rst:689
+msgid "Madness |mana_0| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TOR.rst:696
+msgid ":mtgtip:`Centaur Chieftain<https://img.scryfall.com/cards/border_crop/en/tor/122.jpg?1517813031|https://scryfall.com/card/tor/122/centaur-chieftain?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:695
+msgid "Threshold — As long as seven or more cards are in your graveyard, Centaur Chieftain has \"When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn.\""
+msgstr ""
+
+#: ../../TOR.rst:702
+msgid ":mtgtip:`Centaur Veteran<https://img.scryfall.com/cards/border_crop/en/tor/123.jpg?1517813031|https://scryfall.com/card/tor/123/centaur-veteran?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:701
+msgid "|mana_g|, Discard a card: Regenerate Centaur Veteran."
+msgstr ""
+
+#: ../../TOR.rst:706
+msgid ":mtgtip:`Dwell on the Past<https://img.scryfall.com/cards/border_crop/en/tor/124.jpg?1517813031|https://scryfall.com/card/tor/124/dwell-on-the-past?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:705
+msgid "Target player shuffles up to four target cards from their graveyard into their library."
+msgstr ""
+
+#: ../../TOR.rst:712
+msgid ":mtgtip:`Far Wanderings<https://img.scryfall.com/cards/border_crop/en/tor/125.jpg?1522168634|https://scryfall.com/card/tor/125/far-wanderings?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:709
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../TOR.rst:711
+msgid "Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../TOR.rst:718
+msgid ":mtgtip:`Gurzigost<https://img.scryfall.com/cards/border_crop/en/tor/126.jpg?1517813031|https://scryfall.com/card/tor/126/gurzigost?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:715
+msgid "At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library."
+msgstr ""
+
+#: ../../TOR.rst:717
+msgid "|mana_g|\\ |mana_g|, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked."
+msgstr ""
+
+#: ../../TOR.rst:724
+msgid ":mtgtip:`Insist<https://img.scryfall.com/cards/border_crop/en/tor/127.jpg?1517813031|https://scryfall.com/card/tor/127/insist?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:721
+msgid "The next creature spell you cast this turn can't be countered."
+msgstr ""
+
+#: ../../TOR.rst:728
+msgid ":mtgtip:`Invigorating Falls<https://img.scryfall.com/cards/border_crop/en/tor/128.jpg?1517813031|https://scryfall.com/card/tor/128/invigorating-falls?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:727
+msgid "You gain life equal to the number of creature cards in all graveyards."
+msgstr ""
+
+#: ../../TOR.rst:734
+msgid ":mtgtip:`Krosan Constrictor<https://img.scryfall.com/cards/border_crop/en/tor/129.jpg?1517813031|https://scryfall.com/card/tor/129/krosan-constrictor?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:733
+msgid "|tap|: Target black creature gets -2/-0 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:740
+msgid ":mtgtip:`Krosan Restorer<https://img.scryfall.com/cards/border_crop/en/tor/130.jpg?1517813031|https://scryfall.com/card/tor/130/krosan-restorer?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:737
+msgid "|tap|: Untap target land."
+msgstr ""
+
+#: ../../TOR.rst:739
+msgid "Threshold — |tap|: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:746
+msgid ":mtgtip:`Nantuko Blightcutter<https://img.scryfall.com/cards/border_crop/en/tor/131.jpg?1517813031|https://scryfall.com/card/tor/131/nantuko-blightcutter?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:745
+msgid "Threshold — Nantuko Blightcutter gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:752
+msgid ":mtgtip:`Nantuko Calmer<https://img.scryfall.com/cards/border_crop/en/tor/132.jpg?1517813031|https://scryfall.com/card/tor/132/nantuko-calmer?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:749
+msgid "|mana_g|, |tap|, Sacrifice Nantuko Calmer: Destroy target enchantment."
+msgstr ""
+
+#: ../../TOR.rst:751
+msgid "Threshold — Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:756
+msgid ":mtgtip:`Nantuko Cultivator<https://img.scryfall.com/cards/border_crop/en/tor/133.jpg?1517813031|https://scryfall.com/card/tor/133/nantuko-cultivator?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:755
+msgid "When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards."
+msgstr ""
+
+#: ../../TOR.rst:762
+msgid ":mtgtip:`Narcissism<https://img.scryfall.com/cards/border_crop/en/tor/134.jpg?1517813031|https://scryfall.com/card/tor/134/narcissism?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:759
+msgid "|mana_g|, Discard a card: Target creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:761
+msgid "|mana_g|, Sacrifice Narcissism: Target creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../TOR.rst:768
+msgid ":mtgtip:`Nostalgic Dreams<https://img.scryfall.com/cards/border_crop/en/tor/135.jpg?1517813031|https://scryfall.com/card/tor/135/nostalgic-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:767
+msgid "Return X target cards from your graveyard to your hand. Exile Nostalgic Dreams."
+msgstr ""
+
+#: ../../TOR.rst:774
+msgid ":mtgtip:`Parallel Evolution<https://img.scryfall.com/cards/border_crop/en/tor/136.jpg?1517813031|https://scryfall.com/card/tor/136/parallel-evolution?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:771
+msgid "For each creature token on the battlefield, its controller creates a token that's a copy of that creature."
+msgstr ""
+
+#: ../../TOR.rst:773
+msgid "Flashback |mana_4|\\ |mana_g|\\ |mana_g|\\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../TOR.rst:780
+msgid ":mtgtip:`Possessed Centaur<https://img.scryfall.com/cards/border_crop/en/tor/137.jpg?1517813031|https://scryfall.com/card/tor/137/possessed-centaur?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:779
+msgid "Threshold — As long as seven or more cards are in your graveyard, Possessed Centaur gets +1/+1, is black, and has \"|mana_2|\\ |mana_b|, |tap|: Destroy target green creature.\""
+msgstr ""
+
+#: ../../TOR.rst:786
+msgid ":mtgtip:`Seton's Scout<https://img.scryfall.com/cards/border_crop/en/tor/138.jpg?1517813031|https://scryfall.com/card/tor/138/setons-scout?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:783
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../TOR.rst:785
+msgid "Threshold — Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../TOR.rst:790
+msgid ":mtgtip:`Cabal Coffers<https://img.scryfall.com/cards/border_crop/en/tor/139.jpg?1517813031|https://scryfall.com/card/tor/139/cabal-coffers?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:789
+msgid "|mana_2|, |tap|: Add |mana_b| for each Swamp you control."
+msgstr ""
+
+#: ../../TOR.rst:796
+msgid ":mtgtip:`Tainted Field<https://img.scryfall.com/cards/border_crop/en/tor/140.jpg?1517813031|https://scryfall.com/card/tor/140/tainted-field?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:793
+#: ../../TOR.rst:799
+#: ../../TOR.rst:805
+#: ../../TOR.rst:811
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../TOR.rst:795
+msgid "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a Swamp."
+msgstr ""
+
+#: ../../TOR.rst:802
+msgid ":mtgtip:`Tainted Isle<https://img.scryfall.com/cards/border_crop/en/tor/141.jpg?1517813031|https://scryfall.com/card/tor/141/tainted-isle?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:801
+msgid "|tap|: Add |mana_u| or |mana_b|. Activate this ability only if you control a Swamp."
+msgstr ""
+
+#: ../../TOR.rst:808
+msgid ":mtgtip:`Tainted Peak<https://img.scryfall.com/cards/border_crop/en/tor/142.jpg?1517813031|https://scryfall.com/card/tor/142/tainted-peak?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:807
+msgid "|tap|: Add |mana_b| or |mana_r|. Activate this ability only if you control a Swamp."
+msgstr ""
+
+#: ../../TOR.rst:813
+msgid ":mtgtip:`Tainted Wood<https://img.scryfall.com/cards/border_crop/en/tor/143.jpg?1517813031|https://scryfall.com/card/tor/143/tainted-wood?utm_source=api>`"
+msgstr ""
+
+#: ../../TOR.rst:813
+msgid "|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a Swamp."
+msgstr ""
+

@@ -1369,7 +1369,7 @@ Słownik słów kluczowych, podstawowych pojęć oraz slangu.
       A supertype that's normally relevant on permanents. See :mtgrule:`rule 205.4, "Supertypes."`
 
    Snow Mana Symbol
-      The snow mana symbol |mana_snow| represents a cost that can be paid with one mana produced by a snow permanent. See :mtgrule:`rule 107.4h.``
+      The snow mana symbol |mana_s| represents a cost that can be paid with one mana produced by a snow permanent. See :mtgrule:`rule 107.4h.``
 
    Snow-Covered
       (Obsolete) Some older cards were printed with the term "snow-covered" in their rules text. Except when referencing card names, such cards have received errata in the Oracle card reference to reference the supertype "snow" instead. See :term:`Snow`.

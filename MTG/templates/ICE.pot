@@ -1,0 +1,3649 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 23:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../ICE.rst:5
+msgid ":mtgexp:`ICE` Ice Age"
+msgstr ""
+
+#: ../../ICE.rst:10
+msgid ":mtgtip:`Adarkar Unicorn<https://img.scryfall.com/cards/border_crop/en/ice/1.jpg?1517813031|https://scryfall.com/card/ice/1/adarkar-unicorn?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:9
+msgid "|tap|: Add |mana_u| or |colorless|\\ |mana_u|. Spend this mana only to pay cumulative upkeep costs."
+msgstr ""
+
+#: ../../ICE.rst:14
+msgid ":mtgtip:`Arctic Foxes<https://img.scryfall.com/cards/border_crop/en/ice/2.jpg?1517813031|https://scryfall.com/card/ice/2/arctic-foxes?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:13
+msgid "Arctic Foxes can't be blocked by creatures with power 2 or greater as long as defending player controls a snow land."
+msgstr ""
+
+#: ../../ICE.rst:20
+msgid ":mtgtip:`Arenson's Aura<https://img.scryfall.com/cards/border_crop/en/ice/3.jpg?1517813031|https://scryfall.com/card/ice/3/arensons-aura?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:17
+msgid "|mana_w|, Sacrifice an enchantment: Destroy target enchantment."
+msgstr ""
+
+#: ../../ICE.rst:19
+msgid "|mana_3|\\ |mana_u|\\ |mana_u|: Counter target enchantment spell."
+msgstr ""
+
+#: ../../ICE.rst:28
+msgid ":mtgtip:`Armor of Faith<https://img.scryfall.com/cards/border_crop/en/ice/4.jpg?1517813031|https://scryfall.com/card/ice/4/armor-of-faith?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:23
+#: ../../ICE.rst:37
+#: ../../ICE.rst:55
+#: ../../ICE.rst:105
+#: ../../ICE.rst:153
+#: ../../ICE.rst:167
+#: ../../ICE.rst:263
+#: ../../ICE.rst:275
+#: ../../ICE.rst:309
+#: ../../ICE.rst:331
+#: ../../ICE.rst:375
+#: ../../ICE.rst:381
+#: ../../ICE.rst:565
+#: ../../ICE.rst:787
+#: ../../ICE.rst:803
+#: ../../ICE.rst:833
+#: ../../ICE.rst:891
+#: ../../ICE.rst:907
+#: ../../ICE.rst:985
+#: ../../ICE.rst:1021
+#: ../../ICE.rst:1073
+#: ../../ICE.rst:1201
+#: ../../ICE.rst:1367
+#: ../../ICE.rst:1373
+#: ../../ICE.rst:1421
+#: ../../ICE.rst:1519
+#: ../../ICE.rst:1615
+#: ../../ICE.rst:1631
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../ICE.rst:25
+#: ../../ICE.rst:791
+msgid "Enchanted creature gets +1/+1."
+msgstr ""
+
+#: ../../ICE.rst:27
+msgid "|mana_w|: Enchanted creature gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:34
+msgid ":mtgtip:`Battle Cry<https://img.scryfall.com/cards/border_crop/en/ice/5.jpg?1517813031|https://scryfall.com/card/ice/5/battle-cry?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:31
+msgid "Untap all white creatures you control."
+msgstr ""
+
+#: ../../ICE.rst:33
+msgid "Whenever a creature blocks this turn, it gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:42
+msgid ":mtgtip:`Black Scarab<https://img.scryfall.com/cards/border_crop/en/ice/6.jpg?1517813031|https://scryfall.com/card/ice/6/black-scarab?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:39
+msgid "Enchanted creature can't be blocked by black creatures."
+msgstr ""
+
+#: ../../ICE.rst:41
+msgid "Enchanted creature gets +2/+2 as long as an opponent controls a black permanent."
+msgstr ""
+
+#: ../../ICE.rst:48
+msgid ":mtgtip:`Blessed Wine<https://img.scryfall.com/cards/border_crop/en/ice/7.jpg?1517813031|https://scryfall.com/card/ice/7/blessed-wine?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:45
+msgid "You gain 1 life."
+msgstr ""
+
+#: ../../ICE.rst:47
+#: ../../ICE.rst:149
+#: ../../ICE.rst:181
+#: ../../ICE.rst:237
+#: ../../ICE.rst:353
+#: ../../ICE.rst:371
+#: ../../ICE.rst:391
+#: ../../ICE.rst:459
+#: ../../ICE.rst:519
+#: ../../ICE.rst:533
+#: ../../ICE.rst:597
+#: ../../ICE.rst:729
+#: ../../ICE.rst:825
+#: ../../ICE.rst:933
+#: ../../ICE.rst:1033
+#: ../../ICE.rst:1169
+#: ../../ICE.rst:1295
+#: ../../ICE.rst:1457
+msgid "Draw a card at the beginning of the next turn's upkeep."
+msgstr ""
+
+#: ../../ICE.rst:52
+msgid ":mtgtip:`Blinking Spirit<https://img.scryfall.com/cards/border_crop/en/ice/8.jpg?1517813031|https://scryfall.com/card/ice/8/blinking-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:51
+msgid "|mana_0|: Return Blinking Spirit to its owner's hand."
+msgstr ""
+
+#: ../../ICE.rst:60
+msgid ":mtgtip:`Blue Scarab<https://img.scryfall.com/cards/border_crop/en/ice/9.jpg?1517813031|https://scryfall.com/card/ice/9/blue-scarab?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:57
+msgid "Enchanted creature can't be blocked by blue creatures."
+msgstr ""
+
+#: ../../ICE.rst:59
+msgid "Enchanted creature gets +2/+2 as long as an opponent controls a blue permanent."
+msgstr ""
+
+#: ../../ICE.rst:68
+msgid ":mtgtip:`Call to Arms<https://img.scryfall.com/cards/border_crop/en/ice/10.jpg?1517813031|https://scryfall.com/card/ice/10/call-to-arms?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:63
+msgid "As Call to Arms enters the battlefield, choose a color and an opponent."
+msgstr ""
+
+#: ../../ICE.rst:65
+msgid "White creatures get +1/+1 as long as the chosen color is the most common color among nontoken permanents the chosen player controls but isn't tied for most common."
+msgstr ""
+
+#: ../../ICE.rst:67
+msgid "When the chosen color isn't the most common color among nontoken permanents the chosen player controls or is tied for most common, sacrifice Call to Arms."
+msgstr ""
+
+#: ../../ICE.rst:76
+msgid ":mtgtip:`Caribou Range<https://img.scryfall.com/cards/border_crop/en/ice/11.jpg?1517813031|https://scryfall.com/card/ice/11/caribou-range?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:71
+#: ../../ICE.rst:489
+#: ../../ICE.rst:1261
+#: ../../ICE.rst:1345
+msgid "Enchant land you control"
+msgstr ""
+
+#: ../../ICE.rst:73
+msgid "Enchanted land has \"|mana_w|\\ |mana_w|, |tap|: Create a 0/1 white Caribou creature token.\""
+msgstr ""
+
+#: ../../ICE.rst:75
+msgid "Sacrifice a Caribou token: You gain 1 life."
+msgstr ""
+
+#: ../../ICE.rst:80
+msgid ":mtgtip:`Circle of Protection: Black<https://img.scryfall.com/cards/border_crop/en/ice/12.jpg?1517813031|https://scryfall.com/card/ice/12/circle-of-protection:-black?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:79
+msgid "|mana_1|: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
+msgstr ""
+
+#: ../../ICE.rst:84
+msgid ":mtgtip:`Circle of Protection: Blue<https://img.scryfall.com/cards/border_crop/en/ice/13.jpg?1517813031|https://scryfall.com/card/ice/13/circle-of-protection:-blue?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:83
+msgid "|mana_1|: The next time a blue source of your choice would deal damage to you this turn, prevent that damage."
+msgstr ""
+
+#: ../../ICE.rst:88
+msgid ":mtgtip:`Circle of Protection: Green<https://img.scryfall.com/cards/border_crop/en/ice/14.jpg?1517813031|https://scryfall.com/card/ice/14/circle-of-protection:-green?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:87
+msgid "|mana_1|: The next time a green source of your choice would deal damage to you this turn, prevent that damage."
+msgstr ""
+
+#: ../../ICE.rst:92
+msgid ":mtgtip:`Circle of Protection: Red<https://img.scryfall.com/cards/border_crop/en/ice/15.jpg?1517813031|https://scryfall.com/card/ice/15/circle-of-protection:-red?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:91
+msgid "|mana_1|: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+msgstr ""
+
+#: ../../ICE.rst:96
+msgid ":mtgtip:`Circle of Protection: White<https://img.scryfall.com/cards/border_crop/en/ice/16.jpg?1517813031|https://scryfall.com/card/ice/16/circle-of-protection:-white?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:95
+msgid "|mana_1|: The next time a white source of your choice would deal damage to you this turn, prevent that damage."
+msgstr ""
+
+#: ../../ICE.rst:102
+msgid ":mtgtip:`Cold Snap<https://img.scryfall.com/cards/border_crop/en/ice/17.jpg?1517813031|https://scryfall.com/card/ice/17/cold-snap?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:99
+#: ../../ICE.rst:435
+#: ../../ICE.rst:449
+#: ../../ICE.rst:1243
+#: ../../ICE.rst:1407
+msgid "Cumulative upkeep |mana_2| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:101
+msgid "At the beginning of each player's upkeep, Cold Snap deals damage to that player equal to the number of snow lands they control."
+msgstr ""
+
+#: ../../ICE.rst:108
+msgid ":mtgtip:`Cooperation<https://img.scryfall.com/cards/border_crop/en/ice/18.jpg?1517813031|https://scryfall.com/card/ice/18/cooperation?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:107
+msgid "Enchanted creature has banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+msgstr ""
+
+#: ../../ICE.rst:112
+msgid ":mtgtip:`Death Ward<https://img.scryfall.com/cards/border_crop/en/ice/19.jpg?1517813031|https://scryfall.com/card/ice/19/death-ward?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:111
+msgid "Regenerate target creature."
+msgstr ""
+
+#: ../../ICE.rst:116
+msgid ":mtgtip:`Disenchant<https://img.scryfall.com/cards/border_crop/en/ice/20.jpg?1520457089|https://scryfall.com/card/ice/20/disenchant?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:115
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../ICE.rst:124
+msgid ":mtgtip:`Drought<https://img.scryfall.com/cards/border_crop/en/ice/21.jpg?1517813031|https://scryfall.com/card/ice/21/drought?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:119
+msgid "At the beginning of your upkeep, sacrifice Drought unless you pay |mana_w|\\ |mana_w|."
+msgstr ""
+
+#: ../../ICE.rst:121
+msgid "Spells cost an additional \"Sacrifice a Swamp\" to cast for each black mana symbol in their mana costs."
+msgstr ""
+
+#: ../../ICE.rst:123
+msgid "Activated abilities cost an additional \"Sacrifice a Swamp\" to activate for each black mana symbol in their activation costs."
+msgstr ""
+
+#: ../../ICE.rst:128
+msgid ":mtgtip:`Elvish Healer<https://img.scryfall.com/cards/border_crop/en/ice/22.jpg?1517813031|https://scryfall.com/card/ice/22/elvish-healer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:127
+msgid "|tap|: Prevent the next 1 damage that would be dealt to any target this turn. If it's a green creature, prevent the next 2 damage instead."
+msgstr ""
+
+#: ../../ICE.rst:136
+msgid ":mtgtip:`Enduring Renewal<https://img.scryfall.com/cards/border_crop/en/ice/23.jpg?1517813031|https://scryfall.com/card/ice/23/enduring-renewal?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:131
+msgid "Play with your hand revealed."
+msgstr ""
+
+#: ../../ICE.rst:133
+msgid "If you would draw a card, reveal the top card of your library instead. If it's a creature card, put it into your graveyard. Otherwise, draw a card."
+msgstr ""
+
+#: ../../ICE.rst:135
+msgid "Whenever a creature is put into your graveyard from the battlefield, return it to your hand."
+msgstr ""
+
+#: ../../ICE.rst:144
+msgid ":mtgtip:`Energy Storm<https://img.scryfall.com/cards/border_crop/en/ice/24.jpg?1517813031|https://scryfall.com/card/ice/24/energy-storm?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:139
+#: ../../ICE.rst:473
+#: ../../ICE.rst:483
+#: ../../ICE.rst:497
+#: ../../ICE.rst:707
+#: ../../ICE.rst:1327
+#: ../../ICE.rst:1795
+#: ../../ICE.rst:1875
+msgid "Cumulative upkeep |mana_1| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:141
+msgid "Prevent all damage that would be dealt by instant and sorcery spells."
+msgstr ""
+
+#: ../../ICE.rst:143
+#: ../../ICE.rst:1245
+msgid "Creatures with flying don't untap during their controllers' untap steps."
+msgstr ""
+
+#: ../../ICE.rst:150
+msgid ":mtgtip:`Formation<https://img.scryfall.com/cards/border_crop/en/ice/25.jpg?1517813031|https://scryfall.com/card/ice/25/formation?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:147
+msgid "Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+msgstr ""
+
+#: ../../ICE.rst:160
+msgid ":mtgtip:`Fylgja<https://img.scryfall.com/cards/border_crop/en/ice/26.jpg?1517813031|https://scryfall.com/card/ice/26/fylgja?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:155
+msgid "Fylgja enters the battlefield with four healing counters on it."
+msgstr ""
+
+#: ../../ICE.rst:157
+msgid "Remove a healing counter from Fylgja: Prevent the next 1 damage that would be dealt to enchanted creature this turn."
+msgstr ""
+
+#: ../../ICE.rst:159
+msgid "|mana_2|\\ |mana_w|: Put a healing counter on Fylgja."
+msgstr ""
+
+#: ../../ICE.rst:164
+msgid ":mtgtip:`General Jarkeld<https://img.scryfall.com/cards/border_crop/en/ice/27.jpg?1517813031|https://scryfall.com/card/ice/27/general-jarkeld?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:163
+msgid "|tap|: Switch the blocking creatures of two target attacking creatures. Activate this ability only during the declare blockers step."
+msgstr ""
+
+#: ../../ICE.rst:172
+msgid ":mtgtip:`Green Scarab<https://img.scryfall.com/cards/border_crop/en/ice/28.jpg?1517813031|https://scryfall.com/card/ice/28/green-scarab?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:169
+msgid "Enchanted creature can't be blocked by green creatures."
+msgstr ""
+
+#: ../../ICE.rst:171
+msgid "Enchanted creature gets +2/+2 as long as an opponent controls a green permanent."
+msgstr ""
+
+#: ../../ICE.rst:176
+msgid ":mtgtip:`Hallowed Ground<https://img.scryfall.com/cards/border_crop/en/ice/29.jpg?1517813031|https://scryfall.com/card/ice/29/hallowed-ground?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:175
+msgid "|mana_w|\\ |mana_w|: Return target nonsnow land you control to its owner's hand."
+msgstr ""
+
+#: ../../ICE.rst:182
+msgid ":mtgtip:`Heal<https://img.scryfall.com/cards/border_crop/en/ice/30.jpg?1517813031|https://scryfall.com/card/ice/30/heal?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:179
+msgid "Prevent the next 1 damage that would be dealt to any target this turn."
+msgstr ""
+
+#: ../../ICE.rst:186
+msgid ":mtgtip:`Hipparion<https://img.scryfall.com/cards/border_crop/en/ice/31.jpg?1517813031|https://scryfall.com/card/ice/31/hipparion?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:185
+msgid "Hipparion can't block creatures with power 3 or greater unless you pay |mana_1|."
+msgstr ""
+
+#: ../../ICE.rst:192
+msgid ":mtgtip:`Justice<https://img.scryfall.com/cards/border_crop/en/ice/32.jpg?1517813031|https://scryfall.com/card/ice/32/justice?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:189
+msgid "At the beginning of your upkeep, sacrifice Justice unless you pay |mana_w|\\ |mana_w|."
+msgstr ""
+
+#: ../../ICE.rst:191
+msgid "Whenever a red creature or spell deals damage, Justice deals that much damage to that creature's or spell's controller."
+msgstr ""
+
+#: ../../ICE.rst:196
+msgid ":mtgtip:`Kelsinko Ranger<https://img.scryfall.com/cards/border_crop/en/ice/33.jpg?1517813031|https://scryfall.com/card/ice/33/kelsinko-ranger?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:195
+msgid "|mana_1|\\ |mana_w|: Target green creature gains first strike until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:200
+msgid ":mtgtip:`Kjeldoran Elite Guard<https://img.scryfall.com/cards/border_crop/en/ice/34.jpg?1520457221|https://scryfall.com/card/ice/34/kjeldoran-elite-guard?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:199
+msgid "|tap|: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate this ability only during combat."
+msgstr ""
+
+#: ../../ICE.rst:204
+msgid ":mtgtip:`Kjeldoran Guard<https://img.scryfall.com/cards/border_crop/en/ice/35.jpg?1517813031|https://scryfall.com/card/ice/35/kjeldoran-guard?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:203
+msgid "|tap|: Target creature gets +1/+1 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate this ability only during combat and only if defending player controls no snow lands."
+msgstr ""
+
+#: ../../ICE.rst:212
+msgid ":mtgtip:`Kjeldoran Knight<https://img.scryfall.com/cards/border_crop/en/ice/36.jpg?1517813031|https://scryfall.com/card/ice/36/kjeldoran-knight?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:207
+#: ../../ICE.rst:231
+#: ../../ICE.rst:293
+msgid "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+msgstr ""
+
+#: ../../ICE.rst:209
+msgid "|mana_1|\\ |mana_w|: Kjeldoran Knight gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:211
+msgid "|mana_w|\\ |mana_w|: Kjeldoran Knight gets +0/+2 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:216
+msgid ":mtgtip:`Kjeldoran Phalanx<https://img.scryfall.com/cards/border_crop/en/ice/37.jpg?1517813031|https://scryfall.com/card/ice/37/kjeldoran-phalanx?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:215
+msgid "First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+msgstr ""
+
+#: ../../ICE.rst:220
+msgid ":mtgtip:`Kjeldoran Royal Guard<https://img.scryfall.com/cards/border_crop/en/ice/38.jpg?1517813031|https://scryfall.com/card/ice/38/kjeldoran-royal-guard?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:219
+msgid "|tap|: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead."
+msgstr ""
+
+#: ../../ICE.rst:224
+msgid ":mtgtip:`Kjeldoran Skycaptain<https://img.scryfall.com/cards/border_crop/en/ice/39.jpg?1517813031|https://scryfall.com/card/ice/39/kjeldoran-skycaptain?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:223
+#: ../../ICE.rst:227
+msgid "Flying; first strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+msgstr ""
+
+#: ../../ICE.rst:228
+msgid ":mtgtip:`Kjeldoran Skyknight<https://img.scryfall.com/cards/border_crop/en/ice/40.jpg?1517813031|https://scryfall.com/card/ice/40/kjeldoran-skyknight?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:232
+msgid ":mtgtip:`Kjeldoran Warrior<https://img.scryfall.com/cards/border_crop/en/ice/41.jpg?1517813031|https://scryfall.com/card/ice/41/kjeldoran-warrior?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:238
+msgid ":mtgtip:`Lightning Blow<https://img.scryfall.com/cards/border_crop/en/ice/42.jpg?1517813031|https://scryfall.com/card/ice/42/lightning-blow?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:235
+msgid "Target creature gains first strike until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:244
+msgid ":mtgtip:`Lost Order of Jarkeld<https://img.scryfall.com/cards/border_crop/en/ice/43.jpg?1517813031|https://scryfall.com/card/ice/43/lost-order-of-jarkeld?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:241
+msgid "As Lost Order of Jarkeld enters the battlefield, choose an opponent."
+msgstr ""
+
+#: ../../ICE.rst:243
+msgid "Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls."
+msgstr ""
+
+#: ../../ICE.rst:248
+msgid ":mtgtip:`Mercenaries<https://img.scryfall.com/cards/border_crop/en/ice/44.jpg?1517813031|https://scryfall.com/card/ice/44/mercenaries?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:247
+msgid "|mana_3|: The next time Mercenaries would deal damage to you this turn, prevent that damage. Any player may activate this ability."
+msgstr ""
+
+#: ../../ICE.rst:252
+msgid ":mtgtip:`Order of the Sacred Torch<https://img.scryfall.com/cards/border_crop/en/ice/45.jpg?1517813031|https://scryfall.com/card/ice/45/order-of-the-sacred-torch?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:251
+msgid "|tap|, Pay 1 life: Counter target black spell."
+msgstr ""
+
+#: ../../ICE.rst:260
+msgid ":mtgtip:`Order of the White Shield<https://img.scryfall.com/cards/border_crop/en/ice/46.jpg?1517813031|https://scryfall.com/card/ice/46/order-of-the-white-shield?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:255
+#: ../../ICE.rst:839
+msgid "Protection from black"
+msgstr ""
+
+#: ../../ICE.rst:257
+msgid "|mana_w|: Order of the White Shield gains first strike until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:259
+msgid "|mana_w|\\ |mana_w|: Order of the White Shield gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:268
+msgid ":mtgtip:`Prismatic Ward<https://img.scryfall.com/cards/border_crop/en/ice/47.jpg?1517813031|https://scryfall.com/card/ice/47/prismatic-ward?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:265
+msgid "As Prismatic Ward enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../ICE.rst:267
+msgid "Prevent all damage that would be dealt to enchanted creature by sources of the chosen color."
+msgstr ""
+
+#: ../../ICE.rst:272
+msgid ":mtgtip:`Rally<https://img.scryfall.com/cards/border_crop/en/ice/48.jpg?1517813031|https://scryfall.com/card/ice/48/rally?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:271
+msgid "Blocking creatures get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:280
+msgid ":mtgtip:`Red Scarab<https://img.scryfall.com/cards/border_crop/en/ice/49.jpg?1517813031|https://scryfall.com/card/ice/49/red-scarab?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:277
+msgid "Enchanted creature can't be blocked by red creatures."
+msgstr ""
+
+#: ../../ICE.rst:279
+msgid "Enchanted creature gets +2/+2 as long as an opponent controls a red permanent."
+msgstr ""
+
+#: ../../ICE.rst:284
+msgid ":mtgtip:`Sacred Boon<https://img.scryfall.com/cards/border_crop/en/ice/50.jpg?1517813031|https://scryfall.com/card/ice/50/sacred-boon?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:283
+msgid "Prevent the next 3 damage that would be dealt to target creature this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way."
+msgstr ""
+
+#: ../../ICE.rst:290
+msgid ":mtgtip:`Seraph<https://img.scryfall.com/cards/border_crop/en/ice/51.jpg?1517813031|https://scryfall.com/card/ice/51/seraph?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:287
+#: ../../ICE.rst:423
+#: ../../ICE.rst:503
+#: ../../ICE.rst:551
+#: ../../ICE.rst:589
+#: ../../ICE.rst:601
+#: ../../ICE.rst:639
+#: ../../ICE.rst:1503
+#: ../../ICE.rst:1621
+msgid "Flying"
+msgstr ""
+
+#: ../../ICE.rst:289
+msgid "Whenever a creature dealt damage by Seraph this turn dies, put that card onto the battlefield under your control at the beginning of the next end step. Sacrifice the creature when you lose control of Seraph."
+msgstr ""
+
+#: ../../ICE.rst:294
+msgid ":mtgtip:`Shield Bearer<https://img.scryfall.com/cards/border_crop/en/ice/52.jpg?1517813031|https://scryfall.com/card/ice/52/shield-bearer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:298
+msgid ":mtgtip:`Snow Hound<https://img.scryfall.com/cards/border_crop/en/ice/53.jpg?1517813031|https://scryfall.com/card/ice/53/snow-hound?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:297
+msgid "|mana_1|, |tap|: Return Snow Hound and target green or blue creature you control to their owner's hand."
+msgstr ""
+
+#: ../../ICE.rst:302
+msgid ":mtgtip:`Swords to Plowshares<https://img.scryfall.com/cards/border_crop/en/ice/54.jpg?1520457330|https://scryfall.com/card/ice/54/swords-to-plowshares?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:301
+msgid "Exile target creature. Its controller gains life equal to its power."
+msgstr ""
+
+#: ../../ICE.rst:306
+msgid ":mtgtip:`Warning<https://img.scryfall.com/cards/border_crop/en/ice/55.jpg?1517813031|https://scryfall.com/card/ice/55/warning?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:305
+msgid "Prevent all combat damage that would be dealt by target attacking creature this turn."
+msgstr ""
+
+#: ../../ICE.rst:314
+msgid ":mtgtip:`White Scarab<https://img.scryfall.com/cards/border_crop/en/ice/56.jpg?1517813031|https://scryfall.com/card/ice/56/white-scarab?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:311
+msgid "Enchanted creature can't be blocked by white creatures."
+msgstr ""
+
+#: ../../ICE.rst:313
+msgid "Enchanted creature gets +2/+2 as long as an opponent controls a white permanent."
+msgstr ""
+
+#: ../../ICE.rst:320
+msgid ":mtgtip:`Arnjlot's Ascent<https://img.scryfall.com/cards/border_crop/en/ice/57.jpg?1517813031|https://scryfall.com/card/ice/57/arnjlots-ascent?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:317
+#: ../../ICE.rst:345
+#: ../../ICE.rst:425
+#: ../../ICE.rst:429
+#: ../../ICE.rst:445
+#: ../../ICE.rst:573
+msgid "Cumulative upkeep |mana_u| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:319
+msgid "|mana_1|: Target creature gains flying until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:324
+msgid ":mtgtip:`Balduvian Conjurer<https://img.scryfall.com/cards/border_crop/en/ice/58.jpg?1517813031|https://scryfall.com/card/ice/58/balduvian-conjurer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:323
+msgid "|tap|: Target snow land becomes a 2/2 creature until end of turn. It's still a land."
+msgstr ""
+
+#: ../../ICE.rst:328
+msgid ":mtgtip:`Balduvian Shaman<https://img.scryfall.com/cards/border_crop/en/ice/59.jpg?1517813031|https://scryfall.com/card/ice/59/balduvian-shaman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:327
+msgid "|tap|: Change the text of target white enchantment you control that doesn't have cumulative upkeep by replacing all instances of one color word with another. (For example, you may change \"black creatures can't attack\" to \"blue creatures can't attack.\") That enchantment gains \"Cumulative upkeep |mana_1|.\" (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless they pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:338
+msgid ":mtgtip:`Binding Grasp<https://img.scryfall.com/cards/border_crop/en/ice/60.jpg?1520457063|https://scryfall.com/card/ice/60/binding-grasp?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:333
+msgid "At the beginning of your upkeep, sacrifice Binding Grasp unless you pay |mana_1|\\ |mana_u|."
+msgstr ""
+
+#: ../../ICE.rst:335
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../ICE.rst:337
+msgid "Enchanted creature gets +0/+1."
+msgstr ""
+
+#: ../../ICE.rst:342
+msgid ":mtgtip:`Brainstorm<https://img.scryfall.com/cards/border_crop/en/ice/61.jpg?1520457070|https://scryfall.com/card/ice/61/brainstorm?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:341
+msgid "Draw three cards, then put two cards from your hand on top of your library in any order."
+msgstr ""
+
+#: ../../ICE.rst:348
+msgid ":mtgtip:`Breath of Dreams<https://img.scryfall.com/cards/border_crop/en/ice/62.jpg?1517813031|https://scryfall.com/card/ice/62/breath-of-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:347
+msgid "Green creatures have \"Cumulative upkeep |mana_1|.\""
+msgstr ""
+
+#: ../../ICE.rst:354
+msgid ":mtgtip:`Clairvoyance<https://img.scryfall.com/cards/border_crop/en/ice/63.jpg?1517813031|https://scryfall.com/card/ice/63/clairvoyance?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:351
+msgid "Look at target player's hand."
+msgstr ""
+
+#: ../../ICE.rst:358
+msgid ":mtgtip:`Counterspell<https://img.scryfall.com/cards/border_crop/en/ice/64.jpg?1517813031|https://scryfall.com/card/ice/64/counterspell?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:357
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../ICE.rst:362
+msgid ":mtgtip:`Deflection<https://img.scryfall.com/cards/border_crop/en/ice/65.jpg?1517813031|https://scryfall.com/card/ice/65/deflection?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:361
+msgid "Change the target of target spell with a single target."
+msgstr ""
+
+#: ../../ICE.rst:366
+msgid ":mtgtip:`Dreams of the Dead<https://img.scryfall.com/cards/border_crop/en/ice/66.jpg?1517813031|https://scryfall.com/card/ice/66/dreams-of-the-dead?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:365
+msgid "|mana_1|\\ |mana_u|: Return target white or black creature card from your graveyard to the battlefield. That creature gains \"Cumulative upkeep |mana_2|.\" If the creature would leave the battlefield, exile it instead of putting it anywhere else. (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless they pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:372
+msgid ":mtgtip:`Enervate<https://img.scryfall.com/cards/border_crop/en/ice/67.jpg?1517813031|https://scryfall.com/card/ice/67/enervate?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:369
+msgid "Tap target artifact, creature, or land."
+msgstr ""
+
+#: ../../ICE.rst:378
+msgid ":mtgtip:`Errant Minion<https://img.scryfall.com/cards/border_crop/en/ice/68.jpg?1517813031|https://scryfall.com/card/ice/68/errant-minion?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:377
+msgid "At the beginning of the upkeep of enchanted creature's controller, that player may pay any amount of mana. Errant Minion deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way."
+msgstr ""
+
+#: ../../ICE.rst:386
+msgid ":mtgtip:`Essence Flare<https://img.scryfall.com/cards/border_crop/en/ice/69.jpg?1520457144|https://scryfall.com/card/ice/69/essence-flare?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:383
+msgid "Enchanted creature gets +2/+0."
+msgstr ""
+
+#: ../../ICE.rst:385
+msgid "At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature."
+msgstr ""
+
+#: ../../ICE.rst:392
+msgid ":mtgtip:`Force Void<https://img.scryfall.com/cards/border_crop/en/ice/70.jpg?1517813031|https://scryfall.com/card/ice/70/force-void?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:389
+msgid "Counter target spell unless its controller pays |mana_1|."
+msgstr ""
+
+#: ../../ICE.rst:396
+msgid ":mtgtip:`Glacial Wall<https://img.scryfall.com/cards/border_crop/en/ice/71.jpg?1517813031|https://scryfall.com/card/ice/71/glacial-wall?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:395
+#: ../../ICE.rst:587
+#: ../../ICE.rst:695
+#: ../../ICE.rst:1221
+#: ../../ICE.rst:1447
+#: ../../ICE.rst:1469
+#: ../../ICE.rst:1779
+#: ../../ICE.rst:1835
+msgid "Defender (This creature can't attack.)"
+msgstr ""
+
+#: ../../ICE.rst:404
+msgid ":mtgtip:`Hydroblast<https://img.scryfall.com/cards/border_crop/en/ice/72.jpg?1517813031|https://scryfall.com/card/ice/72/hydroblast?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:399
+#: ../../ICE.rst:1173
+msgid "Choose one —"
+msgstr ""
+
+#: ../../ICE.rst:401
+msgid "Counter target spell if it's red."
+msgstr ""
+
+#: ../../ICE.rst:403
+msgid "Destroy target permanent if it's red."
+msgstr ""
+
+#: ../../ICE.rst:412
+msgid ":mtgtip:`Iceberg<https://img.scryfall.com/cards/border_crop/en/ice/73.jpg?1520457177|https://scryfall.com/card/ice/73/iceberg?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:407
+msgid "Iceberg enters the battlefield with X ice counters on it."
+msgstr ""
+
+#: ../../ICE.rst:409
+msgid "|mana_3|: Put an ice counter on Iceberg."
+msgstr ""
+
+#: ../../ICE.rst:411
+msgid "Remove an ice counter from Iceberg: Add |colorless|."
+msgstr ""
+
+#: ../../ICE.rst:420
+msgid ":mtgtip:`Icy Prison<https://img.scryfall.com/cards/border_crop/en/ice/74.jpg?1517813031|https://scryfall.com/card/ice/74/icy-prison?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:415
+msgid "When Icy Prison enters the battlefield, exile target creature."
+msgstr ""
+
+#: ../../ICE.rst:417
+msgid "At the beginning of your upkeep, sacrifice Icy Prison unless any player pays |mana_3|."
+msgstr ""
+
+#: ../../ICE.rst:419
+msgid "When Icy Prison leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+msgstr ""
+
+#: ../../ICE.rst:426
+msgid ":mtgtip:`Illusionary Forces<https://img.scryfall.com/cards/border_crop/en/ice/75.jpg?1517813031|https://scryfall.com/card/ice/75/illusionary-forces?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:432
+msgid ":mtgtip:`Illusionary Presence<https://img.scryfall.com/cards/border_crop/en/ice/76.jpg?1517813031|https://scryfall.com/card/ice/76/illusionary-presence?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:431
+msgid "At the beginning of your upkeep, choose a land type. Illusionary Presence gains landwalk of the chosen type until end of turn. (It can't be blocked as long as defending player controls a land of that type.)"
+msgstr ""
+
+#: ../../ICE.rst:440
+msgid ":mtgtip:`Illusionary Terrain<https://img.scryfall.com/cards/border_crop/en/ice/77.jpg?1517813031|https://scryfall.com/card/ice/77/illusionary-terrain?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:437
+msgid "As Illusionary Terrain enters the battlefield, choose two basic land types."
+msgstr ""
+
+#: ../../ICE.rst:439
+msgid "Basic lands of the first chosen type are the second chosen type."
+msgstr ""
+
+#: ../../ICE.rst:446
+msgid ":mtgtip:`Illusionary Wall<https://img.scryfall.com/cards/border_crop/en/ice/78.jpg?1517813031|https://scryfall.com/card/ice/78/illusionary-wall?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:443
+msgid "Defender, flying, first strike"
+msgstr ""
+
+#: ../../ICE.rst:454
+msgid ":mtgtip:`Illusions of Grandeur<https://img.scryfall.com/cards/border_crop/en/ice/79.jpg?1517813031|https://scryfall.com/card/ice/79/illusions-of-grandeur?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:451
+msgid "When Illusions of Grandeur enters the battlefield, you gain 20 life."
+msgstr ""
+
+#: ../../ICE.rst:453
+msgid "When Illusions of Grandeur leaves the battlefield, you lose 20 life."
+msgstr ""
+
+#: ../../ICE.rst:460
+msgid ":mtgtip:`Infuse<https://img.scryfall.com/cards/border_crop/en/ice/80.jpg?1517813031|https://scryfall.com/card/ice/80/infuse?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:457
+msgid "Untap target artifact, creature, or land."
+msgstr ""
+
+#: ../../ICE.rst:466
+msgid ":mtgtip:`Krovikan Sorcerer<https://img.scryfall.com/cards/border_crop/en/ice/81.jpg?1517813031|https://scryfall.com/card/ice/81/krovikan-sorcerer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:463
+msgid "|tap|, Discard a nonblack card: Draw a card."
+msgstr ""
+
+#: ../../ICE.rst:465
+msgid "|tap|, Discard a black card: Draw two cards, then discard one of them."
+msgstr ""
+
+#: ../../ICE.rst:470
+msgid ":mtgtip:`Magus of the Unseen<https://img.scryfall.com/cards/border_crop/en/ice/82.jpg?1517813031|https://scryfall.com/card/ice/82/magus-of-the-unseen?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:469
+msgid "|mana_1|\\ |mana_u|, |tap|: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it."
+msgstr ""
+
+#: ../../ICE.rst:476
+msgid ":mtgtip:`Mesmeric Trance<https://img.scryfall.com/cards/border_crop/en/ice/83.jpg?1517813031|https://scryfall.com/card/ice/83/mesmeric-trance?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:475
+msgid "|mana_u|, Discard a card: Draw a card."
+msgstr ""
+
+#: ../../ICE.rst:480
+msgid ":mtgtip:`Mistfolk<https://img.scryfall.com/cards/border_crop/en/ice/84.jpg?1521827406|https://scryfall.com/card/ice/84/mistfolk?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:479
+msgid "|mana_u|: Counter target spell that targets Mistfolk."
+msgstr ""
+
+#: ../../ICE.rst:486
+msgid ":mtgtip:`Musician<https://img.scryfall.com/cards/border_crop/en/ice/85.jpg?1517813031|https://scryfall.com/card/ice/85/musician?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:485
+msgid "|tap|: Put a music counter on target creature. If it doesn't have \"At the beginning of your upkeep, destroy this creature unless you pay |mana_1| for each music counter on it,\" it gains that ability."
+msgstr ""
+
+#: ../../ICE.rst:494
+msgid ":mtgtip:`Mystic Might<https://img.scryfall.com/cards/border_crop/en/ice/86.jpg?1517813031|https://scryfall.com/card/ice/86/mystic-might?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:491
+msgid "Cumulative upkeep |mana_1|\\ |mana_u| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:493
+msgid "Enchanted land has \"|tap|: Target creature gets +2/+2 until end of turn.\""
+msgstr ""
+
+#: ../../ICE.rst:500
+msgid ":mtgtip:`Mystic Remora<https://img.scryfall.com/cards/border_crop/en/ice/87.jpg?1517813031|https://scryfall.com/card/ice/87/mystic-remora?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:499
+msgid "Whenever an opponent casts a noncreature spell, you may draw a card unless that player pays |mana_4|."
+msgstr ""
+
+#: ../../ICE.rst:506
+msgid ":mtgtip:`Phantasmal Mount<https://img.scryfall.com/cards/border_crop/en/ice/88.jpg?1517813031|https://scryfall.com/card/ice/88/phantasmal-mount?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:505
+msgid "|tap|: Target creature you control with toughness 2 or less gets +1/+1 and gains flying until end of turn. When Phantasmal Mount leaves the battlefield this turn, sacrifice that creature. When the creature leaves the battlefield this turn, sacrifice Phantasmal Mount."
+msgstr ""
+
+#: ../../ICE.rst:514
+msgid ":mtgtip:`Polar Kraken<https://img.scryfall.com/cards/border_crop/en/ice/89.jpg?1517813031|https://scryfall.com/card/ice/89/polar-kraken?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:509
+#: ../../ICE.rst:1045
+#: ../../ICE.rst:1231
+msgid "Trample"
+msgstr ""
+
+#: ../../ICE.rst:511
+msgid "Polar Kraken enters the battlefield tapped."
+msgstr ""
+
+#: ../../ICE.rst:513
+msgid "Cumulative upkeep—Sacrifice a land. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:520
+msgid ":mtgtip:`Portent<https://img.scryfall.com/cards/border_crop/en/ice/90.jpg?1520457291|https://scryfall.com/card/ice/90/portent?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:517
+msgid "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle their library."
+msgstr ""
+
+#: ../../ICE.rst:524
+msgid ":mtgtip:`Power Sink<https://img.scryfall.com/cards/border_crop/en/ice/91.jpg?1517813031|https://scryfall.com/card/ice/91/power-sink?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:523
+msgid "Counter target spell unless its controller pays |mana_x|. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
+msgstr ""
+
+#: ../../ICE.rst:528
+msgid ":mtgtip:`Ray of Command<https://img.scryfall.com/cards/border_crop/en/ice/92.jpg?1517813031|https://scryfall.com/card/ice/92/ray-of-command?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:527
+msgid "Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it."
+msgstr ""
+
+#: ../../ICE.rst:534
+msgid ":mtgtip:`Ray of Erasure<https://img.scryfall.com/cards/border_crop/en/ice/93.jpg?1517813031|https://scryfall.com/card/ice/93/ray-of-erasure?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:531
+msgid "Target player puts the top card of their library into their graveyard."
+msgstr ""
+
+#: ../../ICE.rst:540
+msgid ":mtgtip:`Reality Twist<https://img.scryfall.com/cards/border_crop/en/ice/94.jpg?1536027000|https://scryfall.com/card/ice/94/reality-twist?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:537
+msgid "Cumulative upkeep |mana_1|\\ |mana_u|\\ |mana_u| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:539
+msgid "If tapped for mana, Plains produce |mana_r|, Swamps produce |mana_g|, Mountains produce |mana_w|, and Forests produce |mana_b| instead of any other type."
+msgstr ""
+
+#: ../../ICE.rst:544
+msgid ":mtgtip:`Sea Spirit<https://img.scryfall.com/cards/border_crop/en/ice/95.jpg?1517813031|https://scryfall.com/card/ice/95/sea-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:543
+msgid "|mana_u|: Sea Spirit gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:548
+msgid ":mtgtip:`Shyft<https://img.scryfall.com/cards/border_crop/en/ice/96.jpg?1517813031|https://scryfall.com/card/ice/96/shyft?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:547
+msgid "At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. (This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../ICE.rst:554
+msgid ":mtgtip:`Sibilant Spirit<https://img.scryfall.com/cards/border_crop/en/ice/97.jpg?1517813031|https://scryfall.com/card/ice/97/sibilant-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:553
+msgid "Whenever Sibilant Spirit attacks, defending player may draw a card."
+msgstr ""
+
+#: ../../ICE.rst:558
+msgid ":mtgtip:`Silver Erne<https://img.scryfall.com/cards/border_crop/en/ice/98.jpg?1517813031|https://scryfall.com/card/ice/98/silver-erne?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:557
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../ICE.rst:562
+msgid ":mtgtip:`Sleight of Mind<https://img.scryfall.com/cards/border_crop/en/ice/99.jpg?1517813031|https://scryfall.com/card/ice/99/sleight-of-mind?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:561
+msgid "Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change \"target black spell\" to \"target blue spell.\" This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../ICE.rst:570
+msgid ":mtgtip:`Snow Devil<https://img.scryfall.com/cards/border_crop/en/ice/100.jpg?1521827423|https://scryfall.com/card/ice/100/snow-devil?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:567
+msgid "Enchanted creature has flying."
+msgstr ""
+
+#: ../../ICE.rst:569
+msgid "Enchanted creature has first strike as long as it's blocking and you control a snow land."
+msgstr ""
+
+#: ../../ICE.rst:576
+msgid ":mtgtip:`Snowfall<https://img.scryfall.com/cards/border_crop/en/ice/101.jpg?1517813031|https://scryfall.com/card/ice/101/snowfall?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:575
+msgid "Whenever an Island is tapped for mana, its controller may add an additional |mana_u|. If that Island is snow, its controller may add an additional |mana_u|\\ |mana_u| instead. Spend this mana only to pay cumulative upkeep costs."
+msgstr ""
+
+#: ../../ICE.rst:580
+msgid ":mtgtip:`Soldevi Machinist<https://img.scryfall.com/cards/border_crop/en/ice/102.jpg?1517813031|https://scryfall.com/card/ice/102/soldevi-machinist?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:579
+msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to activate abilities of artifacts."
+msgstr ""
+
+#: ../../ICE.rst:584
+msgid ":mtgtip:`Soul Barrier<https://img.scryfall.com/cards/border_crop/en/ice/103.jpg?1517813031|https://scryfall.com/card/ice/103/soul-barrier?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:583
+msgid "Whenever an opponent casts a creature spell, Soul Barrier deals 2 damage to that player unless they pay |mana_2|."
+msgstr ""
+
+#: ../../ICE.rst:592
+msgid ":mtgtip:`Thunder Wall<https://img.scryfall.com/cards/border_crop/en/ice/104.jpg?1517813031|https://scryfall.com/card/ice/104/thunder-wall?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:591
+msgid "|mana_u|: Thunder Wall gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:598
+msgid ":mtgtip:`Updraft<https://img.scryfall.com/cards/border_crop/en/ice/105.jpg?1517813031|https://scryfall.com/card/ice/105/updraft?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:595
+msgid "Target creature gains flying until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:604
+msgid ":mtgtip:`Wind Spirit<https://img.scryfall.com/cards/border_crop/en/ice/106.jpg?1517813031|https://scryfall.com/card/ice/106/wind-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:603
+msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../ICE.rst:612
+msgid ":mtgtip:`Winter's Chill<https://img.scryfall.com/cards/border_crop/en/ice/107.jpg?1517813031|https://scryfall.com/card/ice/107/winters-chill?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:607
+#: ../../ICE.rst:1165
+msgid "Cast this spell only during combat before blockers are declared."
+msgstr ""
+
+#: ../../ICE.rst:609
+msgid "X can't be greater than the number of snow lands you control."
+msgstr ""
+
+#: ../../ICE.rst:611
+msgid "Choose X target attacking creatures. For each of those creatures, its controller may pay |mana_1| or |mana_2|. If that player doesn't, destroy that creature at end of combat. If that player pays only |mana_1|, prevent all combat damage that would be dealt to and dealt by that creature this combat."
+msgstr ""
+
+#: ../../ICE.rst:616
+msgid ":mtgtip:`Word of Undoing<https://img.scryfall.com/cards/border_crop/en/ice/108.jpg?1517813031|https://scryfall.com/card/ice/108/word-of-undoing?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:615
+msgid "Return target creature and all white Auras you own attached to it to their owners' hands."
+msgstr ""
+
+#: ../../ICE.rst:622
+msgid ":mtgtip:`Wrath of Marit Lage<https://img.scryfall.com/cards/border_crop/en/ice/109.jpg?1517813031|https://scryfall.com/card/ice/109/wrath-of-marit-lage?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:619
+msgid "When Wrath of Marit Lage enters the battlefield, tap all red creatures."
+msgstr ""
+
+#: ../../ICE.rst:621
+msgid "Red creatures don't untap during their controllers' untap steps."
+msgstr ""
+
+#: ../../ICE.rst:628
+msgid ":mtgtip:`Zur's Weirding<https://img.scryfall.com/cards/border_crop/front/e/1/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c.jpg?1537149533|https://scryfall.com/card/ice/110/zurs-weirding?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:625
+msgid "Players play with their hands revealed."
+msgstr ""
+
+#: ../../ICE.rst:627
+msgid "If a player would draw a card, they reveal it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card."
+msgstr ""
+
+#: ../../ICE.rst:632
+msgid ":mtgtip:`Zuran Enchanter<https://img.scryfall.com/cards/border_crop/front/7/2/721edcef-f40a-4d43-9d80-26161dc425cb.jpg?1537149819|https://scryfall.com/card/ice/111/zuran-enchanter?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:631
+msgid "|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate this ability only during your turn."
+msgstr ""
+
+#: ../../ICE.rst:636
+msgid ":mtgtip:`Zuran Spellcaster<https://img.scryfall.com/cards/border_crop/front/1/5/152a72b1-a7b7-4e5c-8558-fab97465f549.jpg?1537149530|https://scryfall.com/card/ice/112/zuran-spellcaster?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:635
+msgid "|tap|: Zuran Spellcaster deals 1 damage to any target."
+msgstr ""
+
+#: ../../ICE.rst:642
+msgid ":mtgtip:`Abyssal Specter<https://img.scryfall.com/cards/border_crop/en/ice/113.jpg?1517813031|https://scryfall.com/card/ice/113/abyssal-specter?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:641
+msgid "Whenever Abyssal Specter deals damage to a player, that player discards a card."
+msgstr ""
+
+#: ../../ICE.rst:648
+msgid ":mtgtip:`Ashen Ghoul<https://img.scryfall.com/cards/border_crop/en/ice/114.jpg?1520457039|https://scryfall.com/card/ice/114/ashen-ghoul?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:645
+msgid "Haste"
+msgstr ""
+
+#: ../../ICE.rst:647
+msgid "|mana_b|: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul."
+msgstr ""
+
+#: ../../ICE.rst:654
+msgid ":mtgtip:`Brine Shaman<https://img.scryfall.com/cards/border_crop/en/ice/115.jpg?1517813031|https://scryfall.com/card/ice/115/brine-shaman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:651
+msgid "|tap|, Sacrifice a creature: Target creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:653
+msgid "|mana_1|\\ |mana_u|\\ |mana_u|, Sacrifice a creature: Counter target creature spell."
+msgstr ""
+
+#: ../../ICE.rst:660
+msgid ":mtgtip:`Burnt Offering<https://img.scryfall.com/cards/border_crop/en/ice/116.jpg?1517813031|https://scryfall.com/card/ice/116/burnt-offering?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:657
+#: ../../ICE.rst:1509
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../ICE.rst:659
+msgid "Add X mana in any combination of |mana_b| and/or |mana_r|, where X is the sacrificed creature's converted mana cost."
+msgstr ""
+
+#: ../../ICE.rst:666
+msgid ":mtgtip:`Cloak of Confusion<https://img.scryfall.com/cards/border_crop/en/ice/117.jpg?1517813031|https://scryfall.com/card/ice/117/cloak-of-confusion?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:663
+msgid "Enchant creature you control"
+msgstr ""
+
+#: ../../ICE.rst:665
+msgid "Whenever enchanted creature attacks and isn't blocked, you may have it assign no combat damage this turn. If you do, defending player discards a card at random."
+msgstr ""
+
+#: ../../ICE.rst:676
+msgid ":mtgtip:`Dance of the Dead<https://img.scryfall.com/cards/border_crop/en/ice/118.jpg?1517813031|https://scryfall.com/card/ice/118/dance-of-the-dead?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:669
+msgid "Enchant creature card in a graveyard"
+msgstr ""
+
+#: ../../ICE.rst:671
+msgid "When Dance of the Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Dance of the Dead.\" Put enchanted creature card onto the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it."
+msgstr ""
+
+#: ../../ICE.rst:673
+msgid "Enchanted creature gets +1/+1 and doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../ICE.rst:675
+msgid "At the beginning of the upkeep of enchanted creature's controller, that player may pay |mana_1|\\ |mana_b|. If the player does, untap that creature."
+msgstr ""
+
+#: ../../ICE.rst:680
+msgid ":mtgtip:`Dark Banishing<https://img.scryfall.com/cards/border_crop/en/ice/119.jpg?1520457077|https://scryfall.com/card/ice/119/dark-banishing?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:679
+msgid "Destroy target nonblack creature. It can't be regenerated."
+msgstr ""
+
+#: ../../ICE.rst:684
+msgid ":mtgtip:`Dark Ritual<https://img.scryfall.com/cards/border_crop/en/ice/120.jpg?1520457082|https://scryfall.com/card/ice/120/dark-ritual?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:683
+msgid "Add |mana_b|\\ |mana_b|\\ |mana_b|."
+msgstr ""
+
+#: ../../ICE.rst:688
+msgid ":mtgtip:`Demonic Consultation<https://img.scryfall.com/cards/border_crop/en/ice/121.jpg?1517813031|https://scryfall.com/card/ice/121/demonic-consultation?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:687
+msgid "Choose a card name. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal a card with the chosen name. Put that card into your hand and exile all other cards revealed this way."
+msgstr ""
+
+#: ../../ICE.rst:692
+msgid ":mtgtip:`Dread Wight<https://img.scryfall.com/cards/border_crop/en/ice/122.jpg?1517813031|https://scryfall.com/card/ice/122/dread-wight?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:691
+msgid "At end of combat, put a paralyzation counter on each creature blocking or blocked by Dread Wight and tap those creatures. Each of those creatures doesn't untap during its controller's untap step for as long as it has a paralyzation counter on it. Each of those creatures gains \"|mana_4|: Remove a paralyzation counter from this creature.\""
+msgstr ""
+
+#: ../../ICE.rst:698
+msgid ":mtgtip:`Drift of the Dead<https://img.scryfall.com/cards/border_crop/en/ice/123.jpg?1520457138|https://scryfall.com/card/ice/123/drift-of-the-dead?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:697
+msgid "Drift of the Dead's power and toughness are each equal to the number of snow lands you control."
+msgstr ""
+
+#: ../../ICE.rst:704
+msgid ":mtgtip:`Fear<https://img.scryfall.com/cards/border_crop/en/ice/124.jpg?1517813031|https://scryfall.com/card/ice/124/fear?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:701
+#: ../../ICE.rst:1397
+msgid "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)"
+msgstr ""
+
+#: ../../ICE.rst:703
+msgid "Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)"
+msgstr ""
+
+#: ../../ICE.rst:710
+msgid ":mtgtip:`Flow of Maggots<https://img.scryfall.com/cards/border_crop/en/ice/125.jpg?1517813031|https://scryfall.com/card/ice/125/flow-of-maggots?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:709
+msgid "Flow of Maggots can't be blocked by non-Wall creatures."
+msgstr ""
+
+#: ../../ICE.rst:716
+msgid ":mtgtip:`Foul Familiar<https://img.scryfall.com/cards/border_crop/en/ice/126.jpg?1517813031|https://scryfall.com/card/ice/126/foul-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:713
+msgid "Foul Familiar can't block."
+msgstr ""
+
+#: ../../ICE.rst:715
+msgid "|mana_b|, Pay 1 life: Return Foul Familiar to its owner's hand."
+msgstr ""
+
+#: ../../ICE.rst:720
+msgid ":mtgtip:`Gangrenous Zombies<https://img.scryfall.com/cards/border_crop/en/ice/127.jpg?1520457163|https://scryfall.com/card/ice/127/gangrenous-zombies?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:719
+msgid "|tap|, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead."
+msgstr ""
+
+#: ../../ICE.rst:724
+msgid ":mtgtip:`Gaze of Pain<https://img.scryfall.com/cards/border_crop/en/ice/128.jpg?1517813031|https://scryfall.com/card/ice/128/gaze-of-pain?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:723
+msgid "Until end of turn, whenever a creature you control attacks and isn't blocked, you may choose to have it deal damage equal to its power to a target creature. If you do, it assigns no combat damage this turn."
+msgstr ""
+
+#: ../../ICE.rst:730
+msgid ":mtgtip:`Gravebind<https://img.scryfall.com/cards/border_crop/en/ice/129.jpg?1517813031|https://scryfall.com/card/ice/129/gravebind?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:727
+msgid "Target creature can't be regenerated this turn."
+msgstr ""
+
+#: ../../ICE.rst:736
+msgid ":mtgtip:`Hecatomb<https://img.scryfall.com/cards/border_crop/en/ice/130.jpg?1517813031|https://scryfall.com/card/ice/130/hecatomb?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:733
+msgid "When Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures."
+msgstr ""
+
+#: ../../ICE.rst:735
+msgid "Tap an untapped Swamp you control: Hecatomb deals 1 damage to any target."
+msgstr ""
+
+#: ../../ICE.rst:740
+msgid ":mtgtip:`Hoar Shade<https://img.scryfall.com/cards/border_crop/en/ice/131.jpg?1517813031|https://scryfall.com/card/ice/131/hoar-shade?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:739
+msgid "|mana_b|: Hoar Shade gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:744
+msgid ":mtgtip:`Howl from Beyond<https://img.scryfall.com/cards/border_crop/en/ice/132.jpg?1517813031|https://scryfall.com/card/ice/132/howl-from-beyond?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:743
+msgid "Target creature gets +X/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:748
+msgid ":mtgtip:`Hyalopterous Lemure<https://img.scryfall.com/cards/border_crop/en/ice/133.jpg?1517813031|https://scryfall.com/card/ice/133/hyalopterous-lemure?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:747
+msgid "|mana_0|: Hyalopterous Lemure gets -1/-0 and gains flying until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:752
+msgid ":mtgtip:`Icequake<https://img.scryfall.com/cards/border_crop/en/ice/134.jpg?1517813031|https://scryfall.com/card/ice/134/icequake?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:751
+msgid "Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land's controller."
+msgstr ""
+
+#: ../../ICE.rst:758
+msgid ":mtgtip:`Infernal Darkness<https://img.scryfall.com/cards/border_crop/en/ice/135.jpg?1517813031|https://scryfall.com/card/ice/135/infernal-darkness?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:755
+msgid "Cumulative upkeep—Pay |mana_b| and 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:757
+msgid "If a land is tapped for mana, it produces |mana_b| instead of any other type."
+msgstr ""
+
+#: ../../ICE.rst:764
+msgid ":mtgtip:`Infernal Denizen<https://img.scryfall.com/cards/border_crop/en/ice/136.jpg?1517813031|https://scryfall.com/card/ice/136/infernal-denizen?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:761
+msgid "At the beginning of your upkeep, sacrifice two Swamps. If you can't, tap Infernal Denizen, and an opponent may gain control of a creature you control of their choice for as long as Infernal Denizen remains on the battlefield."
+msgstr ""
+
+#: ../../ICE.rst:763
+msgid "|tap|: Gain control of target creature for as long as Infernal Denizen remains on the battlefield."
+msgstr ""
+
+#: ../../ICE.rst:770
+msgid ":mtgtip:`Kjeldoran Dead<https://img.scryfall.com/cards/border_crop/en/ice/137.jpg?1520457215|https://scryfall.com/card/ice/137/kjeldoran-dead?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:767
+msgid "When Kjeldoran Dead enters the battlefield, sacrifice a creature."
+msgstr ""
+
+#: ../../ICE.rst:769
+msgid "|mana_b|: Regenerate Kjeldoran Dead."
+msgstr ""
+
+#: ../../ICE.rst:778
+msgid ":mtgtip:`Knight of Stromgald<https://img.scryfall.com/cards/border_crop/en/ice/138.jpg?1517813031|https://scryfall.com/card/ice/138/knight-of-stromgald?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:773
+msgid "Protection from white"
+msgstr ""
+
+#: ../../ICE.rst:775
+msgid "|mana_b|: Knight of Stromgald gains first strike until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:777
+msgid "|mana_b|\\ |mana_b|: Knight of Stromgald gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:784
+msgid ":mtgtip:`Krovikan Elementalist<https://img.scryfall.com/cards/border_crop/en/ice/139.jpg?1517813031|https://scryfall.com/card/ice/139/krovikan-elementalist?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:781
+msgid "|mana_2|\\ |mana_r|: Target creature gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:783
+msgid "|mana_u|\\ |mana_u|: Target creature you control gains flying until end of turn. Sacrifice it at the beginning of the next end step."
+msgstr ""
+
+#: ../../ICE.rst:792
+msgid ":mtgtip:`Krovikan Fetish<https://img.scryfall.com/cards/border_crop/en/ice/140.jpg?1517813031|https://scryfall.com/card/ice/140/krovikan-fetish?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:789
+msgid "When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep."
+msgstr ""
+
+#: ../../ICE.rst:796
+msgid ":mtgtip:`Krovikan Vampire<https://img.scryfall.com/cards/border_crop/en/ice/141.jpg?1517813031|https://scryfall.com/card/ice/141/krovikan-vampire?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:795
+msgid "At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire."
+msgstr ""
+
+#: ../../ICE.rst:800
+msgid ":mtgtip:`Legions of Lim-Dûl<https://img.scryfall.com/cards/border_crop/en/ice/142.jpg?1521827868|https://scryfall.com/card/ice/142/legions-of-lim-d%C3%BBl?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:799
+msgid "Snow swampwalk (This creature can't be blocked as long as defending player controls a snow Swamp.)"
+msgstr ""
+
+#: ../../ICE.rst:806
+msgid ":mtgtip:`Leshrac's Rite<https://img.scryfall.com/cards/border_crop/en/ice/143.jpg?1517813031|https://scryfall.com/card/ice/143/leshracs-rite?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:805
+msgid "Enchanted creature has swampwalk. (It can't be blocked as long as defending player controls a Swamp.)"
+msgstr ""
+
+#: ../../ICE.rst:812
+msgid ":mtgtip:`Leshrac's Sigil<https://img.scryfall.com/cards/border_crop/en/ice/144.jpg?1517813031|https://scryfall.com/card/ice/144/leshracs-sigil?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:809
+msgid "Whenever an opponent casts a green spell, you may pay |mana_b|\\ |mana_b|. If you do, look at that player's hand and choose a card from it. The player discards that card."
+msgstr ""
+
+#: ../../ICE.rst:811
+msgid "|mana_b|\\ |mana_b|: Return Leshrac's Sigil to its owner's hand."
+msgstr ""
+
+#: ../../ICE.rst:816
+msgid ":mtgtip:`Lim-Dûl's Cohort<https://img.scryfall.com/cards/border_crop/en/ice/145.jpg?1517813031|https://scryfall.com/card/ice/145/lim-d%C3%BBls-cohort?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:815
+msgid "Whenever Lim-Dûl's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn."
+msgstr ""
+
+#: ../../ICE.rst:820
+msgid ":mtgtip:`Lim-Dûl's Hex<https://img.scryfall.com/cards/border_crop/en/ice/146.jpg?1517813031|https://scryfall.com/card/ice/146/lim-d%C3%BBls-hex?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:819
+msgid "At the beginning of your upkeep, for each player, Lim-Dûl's Hex deals 1 damage to that player unless they pay |mana_b| or |mana_3|."
+msgstr ""
+
+#: ../../ICE.rst:826
+msgid ":mtgtip:`Mind Ravel<https://img.scryfall.com/cards/border_crop/en/ice/147.jpg?1517813031|https://scryfall.com/card/ice/147/mind-ravel?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:823
+msgid "Target player discards a card."
+msgstr ""
+
+#: ../../ICE.rst:830
+msgid ":mtgtip:`Mind Warp<https://img.scryfall.com/cards/border_crop/en/ice/148.jpg?1517813031|https://scryfall.com/card/ice/148/mind-warp?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:829
+msgid "Look at target player's hand and choose X cards from it. That player discards those cards."
+msgstr ""
+
+#: ../../ICE.rst:836
+msgid ":mtgtip:`Mind Whip<https://img.scryfall.com/cards/border_crop/en/ice/149.jpg?1517813031|https://scryfall.com/card/ice/149/mind-whip?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:835
+msgid "At the beginning of the upkeep of enchanted creature's controller, that player may pay |mana_3|. If they don't, Mind Whip deals 2 damage to that player and you tap that creature."
+msgstr ""
+
+#: ../../ICE.rst:844
+msgid ":mtgtip:`Minion of Leshrac<https://img.scryfall.com/cards/border_crop/en/ice/150.jpg?1517813031|https://scryfall.com/card/ice/150/minion-of-leshrac?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:841
+msgid "At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it."
+msgstr ""
+
+#: ../../ICE.rst:843
+msgid "|tap|: Destroy target creature or land."
+msgstr ""
+
+#: ../../ICE.rst:850
+msgid ":mtgtip:`Minion of Tevesh Szat<https://img.scryfall.com/cards/border_crop/en/ice/151.jpg?1517813031|https://scryfall.com/card/ice/151/minion-of-tevesh-szat?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:847
+msgid "At the beginning of your upkeep, Minion of Tevesh Szat deals 2 damage to you unless you pay |mana_b|\\ |mana_b|."
+msgstr ""
+
+#: ../../ICE.rst:849
+msgid "|tap|: Target creature gets +3/-2 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:856
+msgid ":mtgtip:`Mole Worms<https://img.scryfall.com/cards/border_crop/en/ice/152.jpg?1517813031|https://scryfall.com/card/ice/152/mole-worms?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:853
+msgid "You may choose not to untap Mole Worms during your untap step."
+msgstr ""
+
+#: ../../ICE.rst:855
+msgid "|tap|: Tap target land. It doesn't untap during its controller's untap step for as long as Mole Worms remains tapped."
+msgstr ""
+
+#: ../../ICE.rst:860
+msgid ":mtgtip:`Moor Fiend<https://img.scryfall.com/cards/border_crop/en/ice/153.jpg?1517813031|https://scryfall.com/card/ice/153/moor-fiend?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:859
+#: ../../ICE.rst:1389
+msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
+msgstr ""
+
+#: ../../ICE.rst:868
+msgid ":mtgtip:`Necropotence<https://img.scryfall.com/cards/border_crop/en/ice/154.jpg?1517813031|https://scryfall.com/card/ice/154/necropotence?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:863
+msgid "Skip your draw step."
+msgstr ""
+
+#: ../../ICE.rst:865
+msgid "Whenever you discard a card, exile that card from your graveyard."
+msgstr ""
+
+#: ../../ICE.rst:867
+msgid "Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+msgstr ""
+
+#: ../../ICE.rst:874
+msgid ":mtgtip:`Norritt<https://img.scryfall.com/cards/border_crop/en/ice/155.jpg?1517813031|https://scryfall.com/card/ice/155/norritt?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:871
+msgid "|tap|: Untap target blue creature."
+msgstr ""
+
+#: ../../ICE.rst:873
+msgid "|tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate this ability only before attackers are declared."
+msgstr ""
+
+#: ../../ICE.rst:880
+msgid ":mtgtip:`Oath of Lim-Dûl<https://img.scryfall.com/cards/border_crop/en/ice/156.jpg?1517813031|https://scryfall.com/card/ice/156/oath-of-lim-d%C3%BBl?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:877
+msgid "Whenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dûl unless you discard a card. (Damage dealt to you causes you to lose life.)"
+msgstr ""
+
+#: ../../ICE.rst:879
+msgid "|mana_b|\\ |mana_b|: Draw a card."
+msgstr ""
+
+#: ../../ICE.rst:884
+msgid ":mtgtip:`Pestilence Rats<https://img.scryfall.com/cards/border_crop/en/ice/157.jpg?1517813031|https://scryfall.com/card/ice/157/pestilence-rats?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:883
+msgid "Pestilence Rats's power is equal to the number of other Rats on the battlefield. (For example, as long as there are two other Rats on the battlefield, Pestilence Rats's power and toughness are 2/3.)"
+msgstr ""
+
+#: ../../ICE.rst:888
+msgid ":mtgtip:`Pox<https://img.scryfall.com/cards/border_crop/en/ice/158.jpg?1517813031|https://scryfall.com/card/ice/158/pox?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:887
+msgid "Each player loses a third of their life, then discards a third of the cards in their hand, then sacrifices a third of the creatures they control, then sacrifices a third of the lands they control. Round up each time."
+msgstr ""
+
+#: ../../ICE.rst:894
+msgid ":mtgtip:`Seizures<https://img.scryfall.com/cards/border_crop/en/ice/159.jpg?1517813031|https://scryfall.com/card/ice/159/seizures?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:893
+msgid "Whenever enchanted creature becomes tapped, Seizures deals 3 damage to that creature's controller unless that player pays |mana_3|."
+msgstr ""
+
+#: ../../ICE.rst:898
+msgid ":mtgtip:`Songs of the Damned<https://img.scryfall.com/cards/border_crop/en/ice/160.jpg?1517813031|https://scryfall.com/card/ice/160/songs-of-the-damned?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:897
+msgid "Add |mana_b| for each creature card in your graveyard."
+msgstr ""
+
+#: ../../ICE.rst:904
+msgid ":mtgtip:`Soul Burn<https://img.scryfall.com/cards/border_crop/en/ice/161.jpg?1520457303|https://scryfall.com/card/ice/161/soul-burn?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:901
+msgid "Spend only black and/or red mana on X."
+msgstr ""
+
+#: ../../ICE.rst:903
+msgid "Soul Burn deals X damage to any target. You gain life equal to the damage dealt, but not more than the amount of |mana_b| spent on X, the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness."
+msgstr ""
+
+#: ../../ICE.rst:910
+msgid ":mtgtip:`Soul Kiss<https://img.scryfall.com/cards/border_crop/en/ice/162.jpg?1517813031|https://scryfall.com/card/ice/162/soul-kiss?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:909
+msgid "|mana_b|, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate this ability no more than three times each turn."
+msgstr ""
+
+#: ../../ICE.rst:914
+msgid ":mtgtip:`Spoils of Evil<https://img.scryfall.com/cards/border_crop/en/ice/163.jpg?1517813031|https://scryfall.com/card/ice/163/spoils-of-evil?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:913
+msgid "For each artifact or creature card in target opponent's graveyard, add |colorless| and you gain 1 life."
+msgstr ""
+
+#: ../../ICE.rst:920
+msgid ":mtgtip:`Spoils of War<https://img.scryfall.com/cards/border_crop/en/ice/164.jpg?1517813031|https://scryfall.com/card/ice/164/spoils-of-war?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:917
+msgid "X is the number of artifact and/or creature cards in an opponent's graveyard as you cast this spell."
+msgstr ""
+
+#: ../../ICE.rst:919
+msgid "Distribute X +1/+1 counters among any number of target creatures."
+msgstr ""
+
+#: ../../ICE.rst:924
+msgid ":mtgtip:`Stench of Evil<https://img.scryfall.com/cards/border_crop/en/ice/165.jpg?1517813031|https://scryfall.com/card/ice/165/stench-of-evil?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:923
+msgid "Destroy all Plains. For each land destroyed this way, Stench of Evil deals 1 damage to that land's controller unless they pay |mana_2|."
+msgstr ""
+
+#: ../../ICE.rst:928
+msgid ":mtgtip:`Stromgald Cabal<https://img.scryfall.com/cards/border_crop/en/ice/166.jpg?1517813031|https://scryfall.com/card/ice/166/stromgald-cabal?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:927
+msgid "|tap|, Pay 1 life: Counter target white spell."
+msgstr ""
+
+#: ../../ICE.rst:934
+msgid ":mtgtip:`Touch of Death<https://img.scryfall.com/cards/border_crop/en/ice/167.jpg?1517813031|https://scryfall.com/card/ice/167/touch-of-death?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:931
+msgid "Touch of Death deals 1 damage to target player or planeswalker. You gain 1 life."
+msgstr ""
+
+#: ../../ICE.rst:940
+msgid ":mtgtip:`Withering Wisps<https://img.scryfall.com/cards/border_crop/en/ice/168.jpg?1517813031|https://scryfall.com/card/ice/168/withering-wisps?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:937
+msgid "At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps."
+msgstr ""
+
+#: ../../ICE.rst:939
+msgid "|mana_b|: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control."
+msgstr ""
+
+#: ../../ICE.rst:948
+msgid ":mtgtip:`Aggression<https://img.scryfall.com/cards/border_crop/en/ice/169.jpg?1517813031|https://scryfall.com/card/ice/169/aggression?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:943
+msgid "Enchant non-Wall creature"
+msgstr ""
+
+#: ../../ICE.rst:945
+msgid "Enchanted creature has first strike and trample."
+msgstr ""
+
+#: ../../ICE.rst:947
+msgid "At the beginning of the end step of enchanted creature's controller, destroy that creature if it didn't attack this turn."
+msgstr ""
+
+#: ../../ICE.rst:952
+msgid ":mtgtip:`Anarchy<https://img.scryfall.com/cards/border_crop/en/ice/170.jpg?1517813031|https://scryfall.com/card/ice/170/anarchy?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:951
+msgid "Destroy all white permanents."
+msgstr ""
+
+#: ../../ICE.rst:956
+msgid ":mtgtip:`Avalanche<https://img.scryfall.com/cards/border_crop/en/ice/171.jpg?1517813031|https://scryfall.com/card/ice/171/avalanche?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:955
+msgid "Destroy X target snow lands."
+msgstr ""
+
+#: ../../ICE.rst:958
+msgid ":mtgtip:`Balduvian Barbarians<https://img.scryfall.com/cards/border_crop/en/ice/172.jpg?1517813031|https://scryfall.com/card/ice/172/balduvian-barbarians?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:968
+msgid ":mtgtip:`Balduvian Hydra<https://img.scryfall.com/cards/border_crop/en/ice/173.jpg?1517813031|https://scryfall.com/card/ice/173/balduvian-hydra?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:963
+msgid "Balduvian Hydra enters the battlefield with X +1/+0 counters on it."
+msgstr ""
+
+#: ../../ICE.rst:965
+msgid "Remove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn."
+msgstr ""
+
+#: ../../ICE.rst:967
+msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Put a +1/+0 counter on Balduvian Hydra. Activate this ability only during your upkeep."
+msgstr ""
+
+#: ../../ICE.rst:972
+msgid ":mtgtip:`Barbarian Guides<https://img.scryfall.com/cards/border_crop/en/ice/174.jpg?1517813031|https://scryfall.com/card/ice/174/barbarian-guides?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:971
+msgid "|mana_2|\\ |mana_r|, |tap|: Choose a land type. Target creature you control gains snow landwalk of the chosen type until end of turn. Return that creature to its owner's hand at the beginning of the next end step. (It can't be blocked as long as defending player controls a snow land of that type.)"
+msgstr ""
+
+#: ../../ICE.rst:978
+msgid ":mtgtip:`Battle Frenzy<https://img.scryfall.com/cards/border_crop/en/ice/175.jpg?1517813031|https://scryfall.com/card/ice/175/battle-frenzy?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:975
+msgid "Green creatures you control get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:977
+msgid "Nongreen creatures you control get +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:982
+msgid ":mtgtip:`Bone Shaman<https://img.scryfall.com/cards/border_crop/en/ice/176.jpg?1517813031|https://scryfall.com/card/ice/176/bone-shaman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:981
+msgid "|mana_b|: Until end of turn, Bone Shaman gains \"Creatures dealt damage by Bone Shaman this turn can't be regenerated this turn.\""
+msgstr ""
+
+#: ../../ICE.rst:990
+msgid ":mtgtip:`Brand of Ill Omen<https://img.scryfall.com/cards/border_crop/en/ice/177.jpg?1517813031|https://scryfall.com/card/ice/177/brand-of-ill-omen?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:987
+msgid "Cumulative upkeep |mana_r| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:989
+msgid "Enchanted creature's controller can't cast creature spells."
+msgstr ""
+
+#: ../../ICE.rst:998
+msgid ":mtgtip:`Chaos Lord<https://img.scryfall.com/cards/border_crop/en/ice/178.jpg?1517813031|https://scryfall.com/card/ice/178/chaos-lord?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:993
+#: ../../ICE.rst:1185
+msgid "First strike"
+msgstr ""
+
+#: ../../ICE.rst:995
+msgid "At the beginning of your upkeep, target opponent gains control of Chaos Lord if the number of permanents is even."
+msgstr ""
+
+#: ../../ICE.rst:997
+msgid "Chaos Lord can attack as though it had haste unless it entered the battlefield this turn."
+msgstr ""
+
+#: ../../ICE.rst:1002
+msgid ":mtgtip:`Chaos Moon<https://img.scryfall.com/cards/border_crop/en/ice/179.jpg?1517813031|https://scryfall.com/card/ice/179/chaos-moon?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1001
+msgid "At the beginning of each upkeep, count the number of permanents. If the number is odd, until end of turn, red creatures get +1/+1 and whenever a player taps a Mountain for mana, that player adds an additional |mana_r|. If the number is even, until end of turn, red creatures get -1/-1 and if a player taps a Mountain for mana, that Mountain produces colorless mana instead of any other type."
+msgstr ""
+
+#: ../../ICE.rst:1008
+msgid ":mtgtip:`Conquer<https://img.scryfall.com/cards/border_crop/en/ice/180.jpg?1517813031|https://scryfall.com/card/ice/180/conquer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1005
+#: ../../ICE.rst:1283
+#: ../../ICE.rst:1487
+msgid "Enchant land"
+msgstr ""
+
+#: ../../ICE.rst:1007
+msgid "You control enchanted land."
+msgstr ""
+
+#: ../../ICE.rst:1014
+msgid ":mtgtip:`Curse of Marit Lage<https://img.scryfall.com/cards/border_crop/en/ice/181.jpg?1517813031|https://scryfall.com/card/ice/181/curse-of-marit-lage?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1011
+msgid "When Curse of Marit Lage enters the battlefield, tap all Islands."
+msgstr ""
+
+#: ../../ICE.rst:1013
+msgid "Islands don't untap during their controllers' untap steps."
+msgstr ""
+
+#: ../../ICE.rst:1018
+msgid ":mtgtip:`Dwarven Armory<https://img.scryfall.com/cards/border_crop/en/ice/182.jpg?1517813031|https://scryfall.com/card/ice/182/dwarven-armory?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1017
+msgid "|mana_2|, Sacrifice a land: Put a +2/+2 counter on target creature. Activate this ability only during any upkeep step."
+msgstr ""
+
+#: ../../ICE.rst:1024
+msgid ":mtgtip:`Errantry<https://img.scryfall.com/cards/border_crop/en/ice/183.jpg?1517813031|https://scryfall.com/card/ice/183/errantry?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1023
+msgid "Enchanted creature gets +3/+0 and can only attack alone."
+msgstr ""
+
+#: ../../ICE.rst:1028
+msgid ":mtgtip:`Flame Spirit<https://img.scryfall.com/cards/border_crop/en/ice/184.jpg?1517813031|https://scryfall.com/card/ice/184/flame-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1027
+msgid "|mana_r|: Flame Spirit gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1034
+msgid ":mtgtip:`Flare<https://img.scryfall.com/cards/border_crop/en/ice/185.jpg?1517813031|https://scryfall.com/card/ice/185/flare?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1031
+msgid "Flare deals 1 damage to any target."
+msgstr ""
+
+#: ../../ICE.rst:1038
+msgid ":mtgtip:`Game of Chaos<https://img.scryfall.com/cards/border_crop/en/ice/186.jpg?1517813031|https://scryfall.com/card/ice/186/game-of-chaos?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1037
+msgid "Flip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip."
+msgstr ""
+
+#: ../../ICE.rst:1042
+msgid ":mtgtip:`Glacial Crevasses<https://img.scryfall.com/cards/border_crop/en/ice/187.jpg?1517813031|https://scryfall.com/card/ice/187/glacial-crevasses?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1041
+msgid "Sacrifice a snow Mountain: Prevent all combat damage that would be dealt this turn."
+msgstr ""
+
+#: ../../ICE.rst:1050
+msgid ":mtgtip:`Goblin Mutant<https://img.scryfall.com/cards/border_crop/en/ice/188.jpg?1517813031|https://scryfall.com/card/ice/188/goblin-mutant?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1047
+msgid "Goblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater."
+msgstr ""
+
+#: ../../ICE.rst:1049
+msgid "Goblin Mutant can't block creatures with power 3 or greater."
+msgstr ""
+
+#: ../../ICE.rst:1056
+msgid ":mtgtip:`Goblin Sappers<https://img.scryfall.com/cards/border_crop/en/ice/189.jpg?1517813031|https://scryfall.com/card/ice/189/goblin-sappers?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1053
+msgid "|mana_r|\\ |mana_r|, |tap|: Target creature you control can't be blocked this turn. Destroy it and Goblin Sappers at end of combat."
+msgstr ""
+
+#: ../../ICE.rst:1055
+msgid "|mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|, |tap|: Target creature you control can't be blocked this turn. Destroy it at end of combat."
+msgstr ""
+
+#: ../../ICE.rst:1060
+msgid ":mtgtip:`Goblin Ski Patrol<https://img.scryfall.com/cards/border_crop/en/ice/190.jpg?1517813031|https://scryfall.com/card/ice/190/goblin-ski-patrol?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1059
+msgid "|mana_1|\\ |mana_r|: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain."
+msgstr ""
+
+#: ../../ICE.rst:1066
+msgid ":mtgtip:`Goblin Snowman<https://img.scryfall.com/cards/border_crop/en/ice/191.jpg?1517813031|https://scryfall.com/card/ice/191/goblin-snowman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1063
+msgid "Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn."
+msgstr ""
+
+#: ../../ICE.rst:1065
+msgid "|tap|: Goblin Snowman deals 1 damage to target creature it's blocking."
+msgstr ""
+
+#: ../../ICE.rst:1070
+msgid ":mtgtip:`Grizzled Wolverine<https://img.scryfall.com/cards/border_crop/en/ice/192.jpg?1517813031|https://scryfall.com/card/ice/192/grizzled-wolverine?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1069
+msgid "|mana_r|: Grizzled Wolverine gets +2/+0 until end of turn. Activate this ability only during the declare blockers step, only if at least one creature is blocking Grizzled Wolverine, and only once each turn."
+msgstr ""
+
+#: ../../ICE.rst:1076
+msgid ":mtgtip:`Imposing Visage<https://img.scryfall.com/cards/border_crop/en/ice/193.jpg?1517813031|https://scryfall.com/card/ice/193/imposing-visage?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1075
+msgid "Enchanted creature has menace. (It can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../ICE.rst:1080
+msgid ":mtgtip:`Incinerate<https://img.scryfall.com/cards/border_crop/en/ice/194.jpg?1520457183|https://scryfall.com/card/ice/194/incinerate?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1079
+msgid "Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn."
+msgstr ""
+
+#: ../../ICE.rst:1084
+msgid ":mtgtip:`Jokulhaups<https://img.scryfall.com/cards/border_crop/en/ice/195.jpg?1517813031|https://scryfall.com/card/ice/195/jokulhaups?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1083
+msgid "Destroy all artifacts, creatures, and lands. They can't be regenerated."
+msgstr ""
+
+#: ../../ICE.rst:1088
+msgid ":mtgtip:`Karplusan Giant<https://img.scryfall.com/cards/border_crop/en/ice/196.jpg?1517813031|https://scryfall.com/card/ice/196/karplusan-giant?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1087
+msgid "Tap an untapped snow land you control: Karplusan Giant gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1092
+msgid ":mtgtip:`Karplusan Yeti<https://img.scryfall.com/cards/border_crop/en/ice/197.jpg?1517813031|https://scryfall.com/card/ice/197/karplusan-yeti?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1091
+msgid "|tap|: Karplusan Yeti deals damage equal to its power to target creature. That creature deals damage equal to its power to Karplusan Yeti."
+msgstr ""
+
+#: ../../ICE.rst:1096
+msgid ":mtgtip:`Lava Burst<https://img.scryfall.com/cards/border_crop/en/ice/198.jpg?1517813031|https://scryfall.com/card/ice/198/lava-burst?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1095
+msgid "Lava Burst deals X damage to any target. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another permanent or player."
+msgstr ""
+
+#: ../../ICE.rst:1102
+msgid ":mtgtip:`Márton Stromgald<https://img.scryfall.com/cards/border_crop/front/7/8/7880e815-53e7-43e0-befd-e368f00a75d8.jpg?1537149522|https://scryfall.com/card/ice/199/m%C3%A1rton-stromgald?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1099
+msgid "Whenever Márton Stromgald attacks, other attacking creatures get +1/+1 until end of turn for each attacking creature other than Márton Stromgald."
+msgstr ""
+
+#: ../../ICE.rst:1101
+msgid "Whenever Márton Stromgald blocks, other blocking creatures get +1/+1 until end of turn for each blocking creature other than Márton Stromgald."
+msgstr ""
+
+#: ../../ICE.rst:1110
+msgid ":mtgtip:`Melee<https://img.scryfall.com/cards/border_crop/front/b/1/b13a064d-bff4-4a48-a158-1b61951b0ac3.jpg?1537149830|https://scryfall.com/card/ice/200/melee?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1105
+msgid "Cast this spell only during your turn and only during combat before blockers are declared."
+msgstr ""
+
+#: ../../ICE.rst:1107
+msgid "You choose which creatures block this combat and how those creatures block."
+msgstr ""
+
+#: ../../ICE.rst:1109
+msgid "Whenever a creature attacks and isn't blocked this combat, untap it and remove it from combat."
+msgstr ""
+
+#: ../../ICE.rst:1114
+msgid ":mtgtip:`Melting<https://img.scryfall.com/cards/border_crop/front/8/d/8d90065e-2c7e-44e5-9f59-015d468214bf.jpg?1537149815|https://scryfall.com/card/ice/201/melting?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1113
+msgid "All lands are no longer snow."
+msgstr ""
+
+#: ../../ICE.rst:1118
+msgid ":mtgtip:`Meteor Shower<https://img.scryfall.com/cards/border_crop/front/5/0/50b4851e-677b-468e-9baa-e47a3b4b8339.jpg?1537149826|https://scryfall.com/card/ice/202/meteor-shower?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1117
+msgid "Meteor Shower deals X plus 1 damage divided as you choose among any number of targets."
+msgstr ""
+
+#: ../../ICE.rst:1122
+msgid ":mtgtip:`Mountain Goat<https://img.scryfall.com/cards/border_crop/front/c/c/ccf70276-a40c-4d25-b584-4c8a07a00602.jpg?1537149243|https://scryfall.com/card/ice/203/mountain-goat?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1121
+msgid "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)"
+msgstr ""
+
+#: ../../ICE.rst:1128
+msgid ":mtgtip:`Mudslide<https://img.scryfall.com/cards/border_crop/front/6/5/65acce56-8674-471e-9d5e-91b7e3f672c1.jpg?1537149269|https://scryfall.com/card/ice/204/mudslide?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1125
+msgid "Creatures without flying don't untap during their controllers' untap steps."
+msgstr ""
+
+#: ../../ICE.rst:1127
+msgid "At the beginning of each player's upkeep, that player may choose any number of tapped creatures without flying they control and pay |mana_2| for each creature chosen this way. If the player does, untap those creatures."
+msgstr ""
+
+#: ../../ICE.rst:1132
+msgid ":mtgtip:`Orcish Cannoneers<https://img.scryfall.com/cards/border_crop/en/ice/205.jpg?1517813031|https://scryfall.com/card/ice/205/orcish-cannoneers?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1131
+msgid "|tap|: Orcish Cannoneers deals 2 damage to any target and 3 damage to you."
+msgstr ""
+
+#: ../../ICE.rst:1138
+msgid ":mtgtip:`Orcish Conscripts<https://img.scryfall.com/cards/border_crop/en/ice/206.jpg?1517813031|https://scryfall.com/card/ice/206/orcish-conscripts?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1135
+msgid "Orcish Conscripts can't attack unless at least two other creatures attack."
+msgstr ""
+
+#: ../../ICE.rst:1137
+msgid "Orcish Conscripts can't block unless at least two other creatures block."
+msgstr ""
+
+#: ../../ICE.rst:1142
+msgid ":mtgtip:`Orcish Farmer<https://img.scryfall.com/cards/border_crop/en/ice/207.jpg?1517813031|https://scryfall.com/card/ice/207/orcish-farmer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1141
+msgid "|tap|: Target land becomes a Swamp until its controller's next untap step."
+msgstr ""
+
+#: ../../ICE.rst:1150
+msgid ":mtgtip:`Orcish Healer<https://img.scryfall.com/cards/border_crop/en/ice/208.jpg?1521827888|https://scryfall.com/card/ice/208/orcish-healer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1145
+msgid "|mana_r|\\ |mana_r|, |tap|: Target creature can't be regenerated this turn."
+msgstr ""
+
+#: ../../ICE.rst:1147
+msgid "|mana_b|\\ |mana_b|\\ |mana_r|, |tap|: Regenerate target black or green creature."
+msgstr ""
+
+#: ../../ICE.rst:1149
+msgid "|mana_r|\\ |mana_g|\\ |mana_g|, |tap|: Regenerate target black or green creature."
+msgstr ""
+
+#: ../../ICE.rst:1154
+msgid ":mtgtip:`Orcish Librarian<https://img.scryfall.com/cards/border_crop/en/ice/209.jpg?1517813031|https://scryfall.com/card/ice/209/orcish-librarian?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1153
+msgid "|mana_r|, |tap|: Look at the top eight cards of your library. Exile four of them at random, then put the rest on top of your library in any order."
+msgstr ""
+
+#: ../../ICE.rst:1158
+msgid ":mtgtip:`Orcish Lumberjack<https://img.scryfall.com/cards/border_crop/en/ice/210.jpg?1520457248|https://scryfall.com/card/ice/210/orcish-lumberjack?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1157
+msgid "|tap|, Sacrifice a Forest: Add three mana in any combination of |mana_r| and/or |mana_g|."
+msgstr ""
+
+#: ../../ICE.rst:1162
+msgid ":mtgtip:`Orcish Squatters<https://img.scryfall.com/cards/border_crop/en/ice/211.jpg?1517813031|https://scryfall.com/card/ice/211/orcish-squatters?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1161
+msgid "Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn."
+msgstr ""
+
+#: ../../ICE.rst:1170
+msgid ":mtgtip:`Panic<https://img.scryfall.com/cards/border_crop/en/ice/212.jpg?1517813031|https://scryfall.com/card/ice/212/panic?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1167
+msgid "Target creature can't block this turn."
+msgstr ""
+
+#: ../../ICE.rst:1178
+msgid ":mtgtip:`Pyroblast<https://img.scryfall.com/cards/border_crop/en/ice/213.jpg?1517813031|https://scryfall.com/card/ice/213/pyroblast?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1175
+msgid "Counter target spell if it's blue."
+msgstr ""
+
+#: ../../ICE.rst:1177
+msgid "Destroy target permanent if it's blue."
+msgstr ""
+
+#: ../../ICE.rst:1182
+msgid ":mtgtip:`Pyroclasm<https://img.scryfall.com/cards/border_crop/en/ice/214.jpg?1517813031|https://scryfall.com/card/ice/214/pyroclasm?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1181
+msgid "Pyroclasm deals 2 damage to each creature."
+msgstr ""
+
+#: ../../ICE.rst:1186
+msgid ":mtgtip:`Sabretooth Tiger<https://img.scryfall.com/cards/border_crop/en/ice/215.jpg?1517813031|https://scryfall.com/card/ice/215/sabretooth-tiger?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1190
+msgid ":mtgtip:`Shatter<https://img.scryfall.com/cards/border_crop/en/ice/216.jpg?1517813031|https://scryfall.com/card/ice/216/shatter?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1189
+msgid "Destroy target artifact."
+msgstr ""
+
+#: ../../ICE.rst:1194
+msgid ":mtgtip:`Stone Rain<https://img.scryfall.com/cards/border_crop/en/ice/217.jpg?1517813031|https://scryfall.com/card/ice/217/stone-rain?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1193
+msgid "Destroy target land."
+msgstr ""
+
+#: ../../ICE.rst:1198
+msgid ":mtgtip:`Stone Spirit<https://img.scryfall.com/cards/border_crop/en/ice/218.jpg?1517813031|https://scryfall.com/card/ice/218/stone-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1197
+msgid "Stone Spirit can't be blocked by creatures with flying."
+msgstr ""
+
+#: ../../ICE.rst:1206
+msgid ":mtgtip:`Stonehands<https://img.scryfall.com/cards/border_crop/en/ice/219.jpg?1517813031|https://scryfall.com/card/ice/219/stonehands?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1203
+msgid "Enchanted creature gets +0/+2."
+msgstr ""
+
+#: ../../ICE.rst:1205
+msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1208
+msgid ":mtgtip:`Tor Giant<https://img.scryfall.com/cards/border_crop/en/ice/220.jpg?1517813031|https://scryfall.com/card/ice/220/tor-giant?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1214
+msgid ":mtgtip:`Total War<https://img.scryfall.com/cards/border_crop/en/ice/221.jpg?1517813031|https://scryfall.com/card/ice/221/total-war?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1213
+msgid "Whenever a player attacks with one or more creatures, destroy all untapped non-Wall creatures that player controls that didn't attack, except for creatures the player hasn't controlled continuously since the beginning of the turn."
+msgstr ""
+
+#: ../../ICE.rst:1218
+msgid ":mtgtip:`Vertigo<https://img.scryfall.com/cards/border_crop/en/ice/222.jpg?1517813031|https://scryfall.com/card/ice/222/vertigo?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1217
+msgid "Vertigo deals 2 damage to target creature with flying. That creature loses flying until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1224
+msgid ":mtgtip:`Wall of Lava<https://img.scryfall.com/cards/border_crop/en/ice/223.jpg?1517813031|https://scryfall.com/card/ice/223/wall-of-lava?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1223
+msgid "|mana_r|: Wall of Lava gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1228
+msgid ":mtgtip:`Word of Blasting<https://img.scryfall.com/cards/border_crop/en/ice/224.jpg?1517813031|https://scryfall.com/card/ice/224/word-of-blasting?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1227
+msgid "Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller."
+msgstr ""
+
+#: ../../ICE.rst:1234
+msgid ":mtgtip:`Aurochs<https://img.scryfall.com/cards/border_crop/en/ice/225.jpg?1520457044|https://scryfall.com/card/ice/225/aurochs?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1233
+msgid "Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs."
+msgstr ""
+
+#: ../../ICE.rst:1236
+msgid ":mtgtip:`Balduvian Bears<https://img.scryfall.com/cards/border_crop/en/ice/226.jpg?1517813031|https://scryfall.com/card/ice/226/balduvian-bears?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1246
+msgid ":mtgtip:`Blizzard<https://img.scryfall.com/cards/border_crop/en/ice/227.jpg?1517813031|https://scryfall.com/card/ice/227/blizzard?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1241
+msgid "Cast this spell only if you control a snow land."
+msgstr ""
+
+#: ../../ICE.rst:1250
+msgid ":mtgtip:`Brown Ouphe<https://img.scryfall.com/cards/border_crop/en/ice/228.jpg?1517813031|https://scryfall.com/card/ice/228/brown-ouphe?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1249
+msgid "|mana_1|\\ |mana_g|, |tap|: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)"
+msgstr ""
+
+#: ../../ICE.rst:1254
+msgid ":mtgtip:`Chub Toad<https://img.scryfall.com/cards/border_crop/en/ice/229.jpg?1517813031|https://scryfall.com/card/ice/229/chub-toad?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1253
+msgid "Whenever Chub Toad blocks or becomes blocked, it gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1258
+msgid ":mtgtip:`Dire Wolves<https://img.scryfall.com/cards/border_crop/en/ice/230.jpg?1517813031|https://scryfall.com/card/ice/230/dire-wolves?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1257
+msgid "Dire Wolves has banding as long as you control a Plains. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+msgstr ""
+
+#: ../../ICE.rst:1264
+msgid ":mtgtip:`Earthlore<https://img.scryfall.com/cards/border_crop/en/ice/231.jpg?1517813031|https://scryfall.com/card/ice/231/earthlore?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1263
+msgid "Tap enchanted land: Target blocking creature gets +1/+2 until end of turn. Activate this ability only if enchanted land is untapped."
+msgstr ""
+
+#: ../../ICE.rst:1268
+msgid ":mtgtip:`Elder Druid<https://img.scryfall.com/cards/border_crop/en/ice/232.jpg?1517813031|https://scryfall.com/card/ice/232/elder-druid?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1267
+msgid "|mana_3|\\ |mana_g|, |tap|: You may tap or untap target artifact, creature, or land."
+msgstr ""
+
+#: ../../ICE.rst:1272
+msgid ":mtgtip:`Essence Filter<https://img.scryfall.com/cards/border_crop/en/ice/233.jpg?1517813031|https://scryfall.com/card/ice/233/essence-filter?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1271
+msgid "Destroy all enchantments or all nonwhite enchantments."
+msgstr ""
+
+#: ../../ICE.rst:1276
+msgid ":mtgtip:`Fanatical Fever<https://img.scryfall.com/cards/border_crop/en/ice/234.jpg?1517813031|https://scryfall.com/card/ice/234/fanatical-fever?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1275
+msgid "Target creature gets +3/+0 and gains trample until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1280
+msgid ":mtgtip:`Folk of the Pines<https://img.scryfall.com/cards/border_crop/en/ice/235.jpg?1517813031|https://scryfall.com/card/ice/235/folk-of-the-pines?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1279
+msgid "|mana_1|\\ |mana_g|: Folk of the Pines gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1286
+msgid ":mtgtip:`Forbidden Lore<https://img.scryfall.com/cards/border_crop/en/ice/236.jpg?1517813031|https://scryfall.com/card/ice/236/forbidden-lore?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1285
+msgid "Enchanted land has \"|tap|: Target creature gets +2/+1 until end of turn.\""
+msgstr ""
+
+#: ../../ICE.rst:1290
+msgid ":mtgtip:`Forgotten Lore<https://img.scryfall.com/cards/border_crop/en/ice/237.jpg?1517813031|https://scryfall.com/card/ice/237/forgotten-lore?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1289
+msgid "Target opponent chooses a card in your graveyard. You may pay |mana_g|. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand."
+msgstr ""
+
+#: ../../ICE.rst:1296
+msgid ":mtgtip:`Foxfire<https://img.scryfall.com/cards/border_crop/en/ice/238.jpg?1517813031|https://scryfall.com/card/ice/238/foxfire?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1293
+msgid "Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn."
+msgstr ""
+
+#: ../../ICE.rst:1300
+msgid ":mtgtip:`Freyalise Supplicant<https://img.scryfall.com/cards/border_crop/en/ice/239.jpg?1517813031|https://scryfall.com/card/ice/239/freyalise-supplicant?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1299
+msgid "|tap|, Sacrifice a red or white creature: Freyalise Supplicant deals damage to any target equal to half the sacrificed creature's power, rounded down."
+msgstr ""
+
+#: ../../ICE.rst:1306
+msgid ":mtgtip:`Freyalise's Charm<https://img.scryfall.com/cards/border_crop/en/ice/240.jpg?1517813031|https://scryfall.com/card/ice/240/freyalises-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1303
+msgid "Whenever an opponent casts a black spell, you may pay |mana_g|\\ |mana_g|. If you do, you draw a card."
+msgstr ""
+
+#: ../../ICE.rst:1305
+msgid "|mana_g|\\ |mana_g|: Return Freyalise's Charm to its owner's hand."
+msgstr ""
+
+#: ../../ICE.rst:1312
+msgid ":mtgtip:`Freyalise's Winds<https://img.scryfall.com/cards/border_crop/en/ice/241.jpg?1517813031|https://scryfall.com/card/ice/241/freyalises-winds?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1309
+msgid "Whenever a permanent becomes tapped, put a wind counter on it."
+msgstr ""
+
+#: ../../ICE.rst:1311
+msgid "If a permanent with a wind counter on it would untap during its controller's untap step, remove all wind counters from it instead."
+msgstr ""
+
+#: ../../ICE.rst:1316
+msgid ":mtgtip:`Fyndhorn Brownie<https://img.scryfall.com/cards/border_crop/en/ice/242.jpg?1517813031|https://scryfall.com/card/ice/242/fyndhorn-brownie?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1315
+msgid "|mana_2|\\ |mana_g|, |tap|: Untap target creature."
+msgstr ""
+
+#: ../../ICE.rst:1320
+msgid ":mtgtip:`Fyndhorn Elder<https://img.scryfall.com/cards/border_crop/en/ice/243.jpg?1517813031|https://scryfall.com/card/ice/243/fyndhorn-elder?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1319
+msgid "|tap|: Add |mana_g|\\ |mana_g|."
+msgstr ""
+
+#: ../../ICE.rst:1324
+msgid ":mtgtip:`Fyndhorn Elves<https://img.scryfall.com/cards/border_crop/en/ice/244.jpg?1517813031|https://scryfall.com/card/ice/244/fyndhorn-elves?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1323
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../ICE.rst:1332
+msgid ":mtgtip:`Fyndhorn Pollen<https://img.scryfall.com/cards/border_crop/en/ice/245.jpg?1517813031|https://scryfall.com/card/ice/245/fyndhorn-pollen?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1329
+msgid "All creatures get -1/-0."
+msgstr ""
+
+#: ../../ICE.rst:1331
+msgid "|mana_1|\\ |mana_g|: All creatures get -1/-0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1336
+msgid ":mtgtip:`Giant Growth<https://img.scryfall.com/cards/border_crop/en/ice/246.jpg?1517813031|https://scryfall.com/card/ice/246/giant-growth?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1335
+msgid "Target creature gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1342
+msgid ":mtgtip:`Gorilla Pack<https://img.scryfall.com/cards/border_crop/en/ice/247.jpg?1517813031|https://scryfall.com/card/ice/247/gorilla-pack?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1339
+msgid "Gorilla Pack can't attack unless defending player controls a Forest."
+msgstr ""
+
+#: ../../ICE.rst:1341
+msgid "When you control no Forests, sacrifice Gorilla Pack."
+msgstr ""
+
+#: ../../ICE.rst:1348
+msgid ":mtgtip:`Hot Springs<https://img.scryfall.com/cards/border_crop/en/ice/248.jpg?1517813031|https://scryfall.com/card/ice/248/hot-springs?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1347
+msgid "Enchanted land has \"|tap|: Prevent the next 1 damage that would be dealt to any target this turn.\""
+msgstr ""
+
+#: ../../ICE.rst:1352
+msgid ":mtgtip:`Hurricane<https://img.scryfall.com/cards/border_crop/en/ice/249.jpg?1517813031|https://scryfall.com/card/ice/249/hurricane?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1351
+msgid "Hurricane deals X damage to each creature with flying and each player."
+msgstr ""
+
+#: ../../ICE.rst:1356
+msgid ":mtgtip:`Johtull Wurm<https://img.scryfall.com/cards/border_crop/en/ice/250.jpg?1517813031|https://scryfall.com/card/ice/250/johtull-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1355
+msgid "Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first."
+msgstr ""
+
+#: ../../ICE.rst:1360
+msgid ":mtgtip:`Juniper Order Druid<https://img.scryfall.com/cards/border_crop/en/ice/251.jpg?1517813031|https://scryfall.com/card/ice/251/juniper-order-druid?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1359
+msgid "|tap|: Untap target land."
+msgstr ""
+
+#: ../../ICE.rst:1364
+msgid ":mtgtip:`Lhurgoyf<https://img.scryfall.com/cards/border_crop/en/ice/252.jpg?1517813031|https://scryfall.com/card/ice/252/lhurgoyf?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1363
+msgid "Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1."
+msgstr ""
+
+#: ../../ICE.rst:1370
+msgid ":mtgtip:`Lure<https://img.scryfall.com/cards/border_crop/en/ice/253.jpg?1517813031|https://scryfall.com/card/ice/253/lure?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1369
+msgid "All creatures able to block enchanted creature do so."
+msgstr ""
+
+#: ../../ICE.rst:1378
+msgid ":mtgtip:`Maddening Wind<https://img.scryfall.com/cards/border_crop/en/ice/254.jpg?1517813031|https://scryfall.com/card/ice/254/maddening-wind?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1375
+msgid "Cumulative upkeep |mana_g| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:1377
+msgid "At the beginning of the upkeep of enchanted creature's controller, Maddening Wind deals 2 damage to that player."
+msgstr ""
+
+#: ../../ICE.rst:1382
+msgid ":mtgtip:`Nature's Lore<https://img.scryfall.com/cards/border_crop/en/ice/255.jpg?1517813031|https://scryfall.com/card/ice/255/natures-lore?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1381
+msgid "Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library."
+msgstr ""
+
+#: ../../ICE.rst:1386
+msgid ":mtgtip:`Pale Bears<https://img.scryfall.com/cards/border_crop/en/ice/256.jpg?1517813031|https://scryfall.com/card/ice/256/pale-bears?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1385
+msgid "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)"
+msgstr ""
+
+#: ../../ICE.rst:1390
+msgid ":mtgtip:`Pygmy Allosaurus<https://img.scryfall.com/cards/border_crop/en/ice/257.jpg?1517813031|https://scryfall.com/card/ice/257/pygmy-allosaurus?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1394
+msgid ":mtgtip:`Pyknite<https://img.scryfall.com/cards/border_crop/en/ice/258.jpg?1517813031|https://scryfall.com/card/ice/258/pyknite?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1393
+msgid "When Pyknite enters the battlefield, draw a card at the beginning of the next turn's upkeep."
+msgstr ""
+
+#: ../../ICE.rst:1400
+msgid ":mtgtip:`Regeneration<https://img.scryfall.com/cards/border_crop/en/ice/259.jpg?1517813031|https://scryfall.com/card/ice/259/regeneration?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1399
+msgid "|mana_g|: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+msgstr ""
+
+#: ../../ICE.rst:1404
+msgid ":mtgtip:`Rime Dryad<https://img.scryfall.com/cards/border_crop/en/ice/260.jpg?1517813031|https://scryfall.com/card/ice/260/rime-dryad?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1403
+msgid "Snow forestwalk (This creature can't be blocked as long as defending player controls a snow Forest.)"
+msgstr ""
+
+#: ../../ICE.rst:1410
+msgid ":mtgtip:`Ritual of Subdual<https://img.scryfall.com/cards/border_crop/en/ice/261.jpg?1517813031|https://scryfall.com/card/ice/261/ritual-of-subdual?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1409
+msgid "If a land is tapped for mana, it produces colorless mana instead of any other type."
+msgstr ""
+
+#: ../../ICE.rst:1412
+msgid ":mtgtip:`Scaled Wurm<https://img.scryfall.com/cards/border_crop/en/ice/262.jpg?1517813031|https://scryfall.com/card/ice/262/scaled-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1418
+msgid ":mtgtip:`Shambling Strider<https://img.scryfall.com/cards/border_crop/en/ice/263.jpg?1517813031|https://scryfall.com/card/ice/263/shambling-strider?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1417
+msgid "|mana_r|\\ |mana_g|: Shambling Strider gets +1/-1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1424
+msgid ":mtgtip:`Snowblind<https://img.scryfall.com/cards/border_crop/en/ice/264.jpg?1517813031|https://scryfall.com/card/ice/264/snowblind?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1423
+msgid "Enchanted creature gets -X/-Y. If that creature is attacking, X is the number of snow lands defending player controls. Otherwise, X is the number of snow lands its controller controls. Y is equal to X or to enchanted creature's toughness minus 1, whichever is smaller."
+msgstr ""
+
+#: ../../ICE.rst:1428
+msgid ":mtgtip:`Stampede<https://img.scryfall.com/cards/border_crop/en/ice/265.jpg?1517813031|https://scryfall.com/card/ice/265/stampede?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1427
+msgid "Attacking creatures get +1/+0 and gain trample until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1432
+msgid ":mtgtip:`Stunted Growth<https://img.scryfall.com/cards/border_crop/en/ice/266.jpg?1517813031|https://scryfall.com/card/ice/266/stunted-growth?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1431
+msgid "Target player chooses three cards from their hand and puts them on top of their library in any order."
+msgstr ""
+
+#: ../../ICE.rst:1436
+msgid ":mtgtip:`Tarpan<https://img.scryfall.com/cards/border_crop/en/ice/267.jpg?1517813031|https://scryfall.com/card/ice/267/tarpan?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1435
+msgid "When Tarpan dies, you gain 1 life."
+msgstr ""
+
+#: ../../ICE.rst:1440
+msgid ":mtgtip:`Thermokarst<https://img.scryfall.com/cards/border_crop/en/ice/268.jpg?1517813031|https://scryfall.com/card/ice/268/thermokarst?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1439
+msgid "Destroy target land. If that land was a snow land, you gain 1 life."
+msgstr ""
+
+#: ../../ICE.rst:1444
+msgid ":mtgtip:`Thoughtleech<https://img.scryfall.com/cards/border_crop/en/ice/269.jpg?1517813031|https://scryfall.com/card/ice/269/thoughtleech?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1443
+msgid "Whenever an Island an opponent controls becomes tapped, you may gain 1 life."
+msgstr ""
+
+#: ../../ICE.rst:1452
+msgid ":mtgtip:`Tinder Wall<https://img.scryfall.com/cards/border_crop/en/ice/270.jpg?1520457336|https://scryfall.com/card/ice/270/tinder-wall?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1449
+msgid "Sacrifice Tinder Wall: Add |mana_r|\\ |mana_r|."
+msgstr ""
+
+#: ../../ICE.rst:1451
+msgid "|mana_r|, Sacrifice Tinder Wall: It deals 2 damage to target creature it's blocking."
+msgstr ""
+
+#: ../../ICE.rst:1458
+msgid ":mtgtip:`Touch of Vitae<https://img.scryfall.com/cards/border_crop/en/ice/271.jpg?1517813031|https://scryfall.com/card/ice/271/touch-of-vitae?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1455
+msgid "Until end of turn, target creature gains haste and \"|mana_0|: Untap this creature. Activate this ability only once.\""
+msgstr ""
+
+#: ../../ICE.rst:1462
+msgid ":mtgtip:`Trailblazer<https://img.scryfall.com/cards/border_crop/en/ice/272.jpg?1517813031|https://scryfall.com/card/ice/272/trailblazer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1461
+msgid "Target creature can't be blocked this turn."
+msgstr ""
+
+#: ../../ICE.rst:1466
+msgid ":mtgtip:`Venomous Breath<https://img.scryfall.com/cards/border_crop/en/ice/273.jpg?1517813031|https://scryfall.com/card/ice/273/venomous-breath?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1465
+msgid "Choose target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn."
+msgstr ""
+
+#: ../../ICE.rst:1472
+msgid ":mtgtip:`Wall of Pine Needles<https://img.scryfall.com/cards/border_crop/en/ice/274.jpg?1517813031|https://scryfall.com/card/ice/274/wall-of-pine-needles?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1471
+msgid "|mana_g|: Regenerate Wall of Pine Needles."
+msgstr ""
+
+#: ../../ICE.rst:1478
+msgid ":mtgtip:`Whiteout<https://img.scryfall.com/cards/border_crop/en/ice/275.jpg?1517813031|https://scryfall.com/card/ice/275/whiteout?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1475
+msgid "All creatures lose flying until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1477
+msgid "Sacrifice a snow land: Return Whiteout from your graveyard to your hand."
+msgstr ""
+
+#: ../../ICE.rst:1484
+msgid ":mtgtip:`Wiitigo<https://img.scryfall.com/cards/border_crop/en/ice/276.jpg?1517813031|https://scryfall.com/card/ice/276/wiitigo?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1481
+msgid "Wiitigo enters the battlefield with six +1/+1 counters on it."
+msgstr ""
+
+#: ../../ICE.rst:1483
+msgid "At the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it."
+msgstr ""
+
+#: ../../ICE.rst:1490
+msgid ":mtgtip:`Wild Growth<https://img.scryfall.com/cards/border_crop/en/ice/277.jpg?1517813031|https://scryfall.com/card/ice/277/wild-growth?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1489
+msgid "Whenever enchanted land is tapped for mana, its controller adds an additional |mana_g|."
+msgstr ""
+
+#: ../../ICE.rst:1494
+msgid ":mtgtip:`Woolly Mammoths<https://img.scryfall.com/cards/border_crop/en/ice/278.jpg?1520457350|https://scryfall.com/card/ice/278/woolly-mammoths?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1493
+msgid "Woolly Mammoths has trample as long as you control a snow land."
+msgstr ""
+
+#: ../../ICE.rst:1500
+msgid ":mtgtip:`Woolly Spider<https://img.scryfall.com/cards/border_crop/en/ice/279.jpg?1517813031|https://scryfall.com/card/ice/279/woolly-spider?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1497
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../ICE.rst:1499
+msgid "Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1506
+msgid ":mtgtip:`Yavimaya Gnats<https://img.scryfall.com/cards/border_crop/en/ice/280.jpg?1517813031|https://scryfall.com/card/ice/280/yavimaya-gnats?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1505
+msgid "|mana_g|: Regenerate Yavimaya Gnats."
+msgstr ""
+
+#: ../../ICE.rst:1512
+msgid ":mtgtip:`Altar of Bone<https://img.scryfall.com/cards/border_crop/en/ice/281.jpg?1517813031|https://scryfall.com/card/ice/281/altar-of-bone?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1511
+msgid "Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library."
+msgstr ""
+
+#: ../../ICE.rst:1516
+msgid ":mtgtip:`Centaur Archer<https://img.scryfall.com/cards/border_crop/en/ice/282.jpg?1517813031|https://scryfall.com/card/ice/282/centaur-archer?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1515
+msgid "|tap|: Centaur Archer deals 1 damage to target creature with flying."
+msgstr ""
+
+#: ../../ICE.rst:1528
+msgid ":mtgtip:`Chromatic Armor<https://img.scryfall.com/cards/border_crop/en/ice/283.jpg?1517813031|https://scryfall.com/card/ice/283/chromatic-armor?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1521
+msgid "As Chromatic Armor enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../ICE.rst:1523
+msgid "Chromatic Armor enters the battlefield with a sleight counter on it."
+msgstr ""
+
+#: ../../ICE.rst:1525
+msgid "Prevent all damage that would be dealt to enchanted creature by sources of the last chosen color."
+msgstr ""
+
+#: ../../ICE.rst:1527
+msgid "|mana_x|: Put a sleight counter on Chromatic Armor and choose a color. X is the number of sleight counters on Chromatic Armor."
+msgstr ""
+
+#: ../../ICE.rst:1532
+msgid ":mtgtip:`Diabolic Vision<https://img.scryfall.com/cards/border_crop/en/ice/284.jpg?1517813031|https://scryfall.com/card/ice/284/diabolic-vision?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1531
+msgid "Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order."
+msgstr ""
+
+#: ../../ICE.rst:1538
+msgid ":mtgtip:`Earthlink<https://img.scryfall.com/cards/border_crop/en/ice/285.jpg?1517813031|https://scryfall.com/card/ice/285/earthlink?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1535
+msgid "At the beginning of your upkeep, sacrifice Earthlink unless you pay |mana_2|."
+msgstr ""
+
+#: ../../ICE.rst:1537
+msgid "Whenever a creature dies, that creature's controller sacrifices a land."
+msgstr ""
+
+#: ../../ICE.rst:1542
+msgid ":mtgtip:`Elemental Augury<https://img.scryfall.com/cards/border_crop/en/ice/286.jpg?1517813031|https://scryfall.com/card/ice/286/elemental-augury?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1541
+msgid "|mana_3|: Look at the top three cards of target player's library, then put them back in any order."
+msgstr ""
+
+#: ../../ICE.rst:1546
+msgid ":mtgtip:`Essence Vortex<https://img.scryfall.com/cards/border_crop/en/ice/287.jpg?1517813031|https://scryfall.com/card/ice/287/essence-vortex?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1545
+msgid "Destroy target creature unless its controller pays life equal to its toughness. A creature destroyed this way can't be regenerated."
+msgstr ""
+
+#: ../../ICE.rst:1550
+msgid ":mtgtip:`Fiery Justice<https://img.scryfall.com/cards/border_crop/en/ice/288.jpg?1517813031|https://scryfall.com/card/ice/288/fiery-justice?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1549
+msgid "Fiery Justice deals 5 damage divided as you choose among any number of targets. Target opponent gains 5 life."
+msgstr ""
+
+#: ../../ICE.rst:1556
+msgid ":mtgtip:`Fire Covenant<https://img.scryfall.com/cards/border_crop/en/ice/289.jpg?1517813031|https://scryfall.com/card/ice/289/fire-covenant?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1553
+msgid "As an additional cost to cast this spell, pay X life."
+msgstr ""
+
+#: ../../ICE.rst:1555
+msgid "Fire Covenant deals X damage divided as you choose among any number of target creatures."
+msgstr ""
+
+#: ../../ICE.rst:1560
+msgid ":mtgtip:`Flooded Woodlands<https://img.scryfall.com/cards/border_crop/en/ice/290.jpg?1517813031|https://scryfall.com/card/ice/290/flooded-woodlands?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1559
+msgid "Green creatures can't attack unless their controller sacrifices a land for each green creature they control that's attacking. (This cost is paid as attackers are declared.)"
+msgstr ""
+
+#: ../../ICE.rst:1566
+msgid ":mtgtip:`Fumarole<https://img.scryfall.com/cards/border_crop/en/ice/291.jpg?1517813031|https://scryfall.com/card/ice/291/fumarole?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1563
+msgid "As an additional cost to cast this spell, pay 3 life."
+msgstr ""
+
+#: ../../ICE.rst:1565
+msgid "Destroy target creature and target land."
+msgstr ""
+
+#: ../../ICE.rst:1570
+msgid ":mtgtip:`Ghostly Flame<https://img.scryfall.com/cards/border_crop/en/ice/292.jpg?1517813031|https://scryfall.com/card/ice/292/ghostly-flame?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1569
+msgid "Black and/or red permanents and spells are colorless sources of damage."
+msgstr ""
+
+#: ../../ICE.rst:1574
+msgid ":mtgtip:`Giant Trap Door Spider<https://img.scryfall.com/cards/border_crop/en/ice/293.jpg?1520457170|https://scryfall.com/card/ice/293/giant-trap-door-spider?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1573
+msgid "|mana_1|\\ |mana_r|\\ |mana_g|, |tap|: Exile Giant Trap Door Spider and target creature without flying that's attacking you."
+msgstr ""
+
+#: ../../ICE.rst:1580
+msgid ":mtgtip:`Glaciers<https://img.scryfall.com/cards/border_crop/en/ice/294.jpg?1517813031|https://scryfall.com/card/ice/294/glaciers?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1577
+msgid "At the beginning of your upkeep, sacrifice Glaciers unless you pay |mana_w|\\ |mana_u|."
+msgstr ""
+
+#: ../../ICE.rst:1579
+msgid "All Mountains are Plains."
+msgstr ""
+
+#: ../../ICE.rst:1584
+msgid ":mtgtip:`Hymn of Rebirth<https://img.scryfall.com/cards/border_crop/en/ice/295.jpg?1517813031|https://scryfall.com/card/ice/295/hymn-of-rebirth?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1583
+msgid "Put target creature card from a graveyard onto the battlefield under your control."
+msgstr ""
+
+#: ../../ICE.rst:1588
+msgid ":mtgtip:`Kjeldoran Frostbeast<https://img.scryfall.com/cards/border_crop/en/ice/296.jpg?1517813031|https://scryfall.com/card/ice/296/kjeldoran-frostbeast?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1587
+msgid "At end of combat, destroy all creatures blocking or blocked by Kjeldoran Frostbeast."
+msgstr ""
+
+#: ../../ICE.rst:1594
+msgid ":mtgtip:`Merieke Ri Berit<https://img.scryfall.com/cards/border_crop/en/ice/297.jpg?1517813031|https://scryfall.com/card/ice/297/merieke-ri-berit?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1591
+msgid "Merieke Ri Berit doesn't untap during your untap step."
+msgstr ""
+
+#: ../../ICE.rst:1593
+msgid "|tap|: Gain control of target creature for as long as you control Merieke Ri Berit. When Merieke Ri Berit leaves the battlefield or becomes untapped, destroy that creature. It can't be regenerated."
+msgstr ""
+
+#: ../../ICE.rst:1598
+msgid ":mtgtip:`Monsoon<https://img.scryfall.com/cards/border_crop/en/ice/298.jpg?1517813031|https://scryfall.com/card/ice/298/monsoon?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1597
+msgid "At the beginning of each player's end step, tap all untapped Islands that player controls and Monsoon deals X damage to the player, where X is the number of Islands tapped this way."
+msgstr ""
+
+#: ../../ICE.rst:1602
+msgid ":mtgtip:`Mountain Titan<https://img.scryfall.com/cards/border_crop/en/ice/299.jpg?1517813031|https://scryfall.com/card/ice/299/mountain-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1601
+msgid "|mana_1|\\ |mana_r|\\ |mana_r|: Until end of turn, whenever you cast a black spell, put a +1/+1 counter on Mountain Titan."
+msgstr ""
+
+#: ../../ICE.rst:1606
+msgid ":mtgtip:`Reclamation<https://img.scryfall.com/cards/border_crop/en/ice/300.jpg?1517813031|https://scryfall.com/card/ice/300/reclamation?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1605
+msgid "Black creatures can't attack unless their controller sacrifices a land for each black creature they control that's attacking. (This cost is paid as attackers are declared.)"
+msgstr ""
+
+#: ../../ICE.rst:1612
+msgid ":mtgtip:`Skeleton Ship<https://img.scryfall.com/cards/border_crop/en/ice/301.jpg?1517813031|https://scryfall.com/card/ice/301/skeleton-ship?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1609
+msgid "When you control no Islands, sacrifice Skeleton Ship."
+msgstr ""
+
+#: ../../ICE.rst:1611
+msgid "|tap|: Put a -1/-1 counter on target creature."
+msgstr ""
+
+#: ../../ICE.rst:1618
+msgid ":mtgtip:`Spectral Shield<https://img.scryfall.com/cards/border_crop/en/ice/302.jpg?1517813031|https://scryfall.com/card/ice/302/spectral-shield?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1617
+msgid "Enchanted creature gets +0/+2 and can't be the target of spells."
+msgstr ""
+
+#: ../../ICE.rst:1624
+msgid ":mtgtip:`Storm Spirit<https://img.scryfall.com/cards/border_crop/en/ice/303.jpg?1517813031|https://scryfall.com/card/ice/303/storm-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1623
+msgid "|tap|: Storm Spirit deals 2 damage to target creature."
+msgstr ""
+
+#: ../../ICE.rst:1628
+msgid ":mtgtip:`Stormbind<https://img.scryfall.com/cards/border_crop/en/ice/304.jpg?1517813031|https://scryfall.com/card/ice/304/stormbind?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1627
+msgid "|mana_2|, Discard a card at random: Stormbind deals 2 damage to any target."
+msgstr ""
+
+#: ../../ICE.rst:1634
+msgid ":mtgtip:`Wings of Aesthir<https://img.scryfall.com/cards/border_crop/en/ice/305.jpg?1520457343|https://scryfall.com/card/ice/305/wings-of-aesthir?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1633
+msgid "Enchanted creature gets +1/+0 and has flying and first strike."
+msgstr ""
+
+#: ../../ICE.rst:1638
+msgid ":mtgtip:`Adarkar Sentinel<https://img.scryfall.com/cards/border_crop/en/ice/306.jpg?1517813031|https://scryfall.com/card/ice/306/adarkar-sentinel?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1637
+msgid "|mana_1|: Adarkar Sentinel gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1642
+msgid ":mtgtip:`Aegis of the Meek<https://img.scryfall.com/cards/border_crop/en/ice/307.jpg?1517813031|https://scryfall.com/card/ice/307/aegis-of-the-meek?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1641
+msgid "|mana_1|, |tap|: Target 1/1 creature gets +1/+2 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1648
+msgid ":mtgtip:`Amulet of Quoz<https://img.scryfall.com/cards/border_crop/en/ice/308.jpg?1517813031|https://scryfall.com/card/ice/308/amulet-of-quoz?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1645
+msgid "Remove Amulet of Quoz from your deck before playing if you're not playing for ante."
+msgstr ""
+
+#: ../../ICE.rst:1647
+msgid "|tap|, Sacrifice Amulet of Quoz: Target opponent may ante the top card of their library. If they don't, you flip a coin. If you win the flip, that player loses the game. If you lose the flip, you lose the game. Activate this ability only during your upkeep."
+msgstr ""
+
+#: ../../ICE.rst:1652
+msgid ":mtgtip:`Arcum's Sleigh<https://img.scryfall.com/cards/border_crop/en/ice/309.jpg?1517813031|https://scryfall.com/card/ice/309/arcums-sleigh?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1651
+msgid "|mana_2|, |tap|: Target creature gains vigilance until end of turn. Activate this ability only during combat and only if defending player controls a snow land."
+msgstr ""
+
+#: ../../ICE.rst:1658
+msgid ":mtgtip:`Arcum's Weathervane<https://img.scryfall.com/cards/border_crop/en/ice/310.jpg?1521827909|https://scryfall.com/card/ice/310/arcums-weathervane?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1655
+msgid "|mana_2|, |tap|: Target snow land is no longer snow."
+msgstr ""
+
+#: ../../ICE.rst:1657
+msgid "|mana_2|, |tap|: Target nonsnow basic land becomes snow."
+msgstr ""
+
+#: ../../ICE.rst:1662
+msgid ":mtgtip:`Arcum's Whistle<https://img.scryfall.com/cards/border_crop/en/ice/311.jpg?1517813031|https://scryfall.com/card/ice/311/arcums-whistle?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1661
+msgid "|mana_3|, |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That player may pay |mana_x|, where X is that creature's converted mana cost. If they don't pay, the creature attacks this turn if able, and at the beginning of the next end step, destroy it if it didn't attack this turn. Activate this ability only before attackers are declared."
+msgstr ""
+
+#: ../../ICE.rst:1666
+msgid ":mtgtip:`Barbed Sextant<https://img.scryfall.com/cards/border_crop/en/ice/312.jpg?1520457057|https://scryfall.com/card/ice/312/barbed-sextant?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1665
+msgid "|mana_1|, |tap|, Sacrifice Barbed Sextant: Add one mana of any color. Draw a card at the beginning of the next turn's upkeep."
+msgstr ""
+
+#: ../../ICE.rst:1670
+msgid ":mtgtip:`Baton of Morale<https://img.scryfall.com/cards/border_crop/en/ice/313.jpg?1517813031|https://scryfall.com/card/ice/313/baton-of-morale?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1669
+msgid "|mana_2|: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+msgstr ""
+
+#: ../../ICE.rst:1674
+msgid ":mtgtip:`Celestial Sword<https://img.scryfall.com/cards/border_crop/en/ice/314.jpg?1517813031|https://scryfall.com/card/ice/314/celestial-sword?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1673
+msgid "|mana_3|, |tap|: Target creature you control gets +3/+3 until end of turn. Its controller sacrifices it at the beginning of the next end step."
+msgstr ""
+
+#: ../../ICE.rst:1678
+msgid ":mtgtip:`Crown of the Ages<https://img.scryfall.com/cards/border_crop/en/ice/315.jpg?1517813031|https://scryfall.com/card/ice/315/crown-of-the-ages?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1677
+msgid "|mana_4|, |tap|: Attach target Aura attached to a creature to another creature."
+msgstr ""
+
+#: ../../ICE.rst:1682
+msgid ":mtgtip:`Despotic Scepter<https://img.scryfall.com/cards/border_crop/en/ice/316.jpg?1517813031|https://scryfall.com/card/ice/316/despotic-scepter?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1681
+msgid "|tap|: Destroy target permanent you own. It can't be regenerated."
+msgstr ""
+
+#: ../../ICE.rst:1686
+msgid ":mtgtip:`Elkin Bottle<https://img.scryfall.com/cards/border_crop/en/ice/317.jpg?1517813031|https://scryfall.com/card/ice/317/elkin-bottle?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1685
+msgid "|mana_3|, |tap|: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card."
+msgstr ""
+
+#: ../../ICE.rst:1690
+msgid ":mtgtip:`Fyndhorn Bow<https://img.scryfall.com/cards/border_crop/en/ice/318.jpg?1517813031|https://scryfall.com/card/ice/318/fyndhorn-bow?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1689
+msgid "|mana_3|, |tap|: Target creature gains first strike until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1694
+msgid ":mtgtip:`Goblin Lyre<https://img.scryfall.com/cards/border_crop/en/ice/319.jpg?1517813031|https://scryfall.com/card/ice/319/goblin-lyre?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1693
+msgid "Sacrifice Goblin Lyre: Flip a coin. If you win the flip, Goblin Lyre deals damage to target opponent or planeswalker equal to the number of creatures you control. If you lose the flip, Goblin Lyre deals damage to you equal to the number of creatures that opponent or that planeswalker's controller controls."
+msgstr ""
+
+#: ../../ICE.rst:1698
+msgid ":mtgtip:`Hematite Talisman<https://img.scryfall.com/cards/border_crop/en/ice/320.jpg?1517813031|https://scryfall.com/card/ice/320/hematite-talisman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1697
+msgid "Whenever a player casts a red spell, you may pay |mana_3|. If you do, untap target permanent."
+msgstr ""
+
+#: ../../ICE.rst:1704
+msgid ":mtgtip:`Ice Cauldron<https://img.scryfall.com/cards/border_crop/en/ice/321.jpg?1517813031|https://scryfall.com/card/ice/321/ice-cauldron?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1701
+msgid "|mana_x|, |tap|: Put a charge counter on Ice Cauldron and exile a nonland card from your hand. You may cast that card for as long as it remains exiled. Note the type and amount of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Ice Cauldron."
+msgstr ""
+
+#: ../../ICE.rst:1703
+msgid "|tap|, Remove a charge counter from Ice Cauldron: Add Ice Cauldron's last noted type and amount of mana. Spend this mana only to cast the last card exiled with Ice Cauldron."
+msgstr ""
+
+#: ../../ICE.rst:1708
+msgid ":mtgtip:`Icy Manipulator<https://img.scryfall.com/cards/border_crop/en/ice/322.jpg?1517813031|https://scryfall.com/card/ice/322/icy-manipulator?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1707
+msgid "|mana_1|, |tap|: Tap target artifact, creature, or land."
+msgstr ""
+
+#: ../../ICE.rst:1716
+msgid ":mtgtip:`Infinite Hourglass<https://img.scryfall.com/cards/border_crop/en/ice/323.jpg?1517813031|https://scryfall.com/card/ice/323/infinite-hourglass?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1711
+msgid "At the beginning of your upkeep, put a time counter on Infinite Hourglass."
+msgstr ""
+
+#: ../../ICE.rst:1713
+msgid "All creatures get +1/+0 for each time counter on Infinite Hourglass."
+msgstr ""
+
+#: ../../ICE.rst:1715
+msgid "|mana_3|: Remove a time counter from Infinite Hourglass. Any player may activate this ability but only during any upkeep step."
+msgstr ""
+
+#: ../../ICE.rst:1720
+msgid ":mtgtip:`Jester's Cap<https://img.scryfall.com/cards/border_crop/en/ice/324.jpg?1517813031|https://scryfall.com/card/ice/324/jesters-cap?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1719
+msgid "|mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles their library."
+msgstr ""
+
+#: ../../ICE.rst:1726
+msgid ":mtgtip:`Jester's Mask<https://img.scryfall.com/cards/border_crop/en/ice/325.jpg?1517813031|https://scryfall.com/card/ice/325/jesters-mask?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1723
+msgid "Jester's Mask enters the battlefield tapped."
+msgstr ""
+
+#: ../../ICE.rst:1725
+msgid "|mana_1|, |tap|, Sacrifice Jester's Mask: Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. That player puts those cards into their hand, then shuffles their library."
+msgstr ""
+
+#: ../../ICE.rst:1732
+msgid ":mtgtip:`Jeweled Amulet<https://img.scryfall.com/cards/border_crop/en/ice/326.jpg?1517813031|https://scryfall.com/card/ice/326/jeweled-amulet?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1729
+msgid "|mana_1|, |tap|: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet."
+msgstr ""
+
+#: ../../ICE.rst:1731
+msgid "|tap|, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type."
+msgstr ""
+
+#: ../../ICE.rst:1736
+msgid ":mtgtip:`Lapis Lazuli Talisman<https://img.scryfall.com/cards/border_crop/en/ice/327.jpg?1517813031|https://scryfall.com/card/ice/327/lapis-lazuli-talisman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1735
+msgid "Whenever a player casts a blue spell, you may pay |mana_3|. If you do, untap target permanent."
+msgstr ""
+
+#: ../../ICE.rst:1740
+msgid ":mtgtip:`Malachite Talisman<https://img.scryfall.com/cards/border_crop/en/ice/328.jpg?1517813031|https://scryfall.com/card/ice/328/malachite-talisman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1739
+msgid "Whenever a player casts a green spell, you may pay |mana_3|. If you do, untap target permanent."
+msgstr ""
+
+#: ../../ICE.rst:1744
+msgid ":mtgtip:`Nacre Talisman<https://img.scryfall.com/cards/border_crop/en/ice/329.jpg?1517813031|https://scryfall.com/card/ice/329/nacre-talisman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1743
+msgid "Whenever a player casts a white spell, you may pay |mana_3|. If you do, untap target permanent."
+msgstr ""
+
+#: ../../ICE.rst:1750
+msgid ":mtgtip:`Naked Singularity<https://img.scryfall.com/cards/border_crop/en/ice/330.jpg?1517813031|https://scryfall.com/card/ice/330/naked-singularity?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1747
+msgid "Cumulative upkeep |mana_3| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:1749
+msgid "If tapped for mana, Plains produce |mana_r|, Islands produce |mana_g|, Swamps produce |mana_w|, Mountains produce |mana_u|, and Forests produce |mana_b| instead of any other type."
+msgstr ""
+
+#: ../../ICE.rst:1754
+msgid ":mtgtip:`Onyx Talisman<https://img.scryfall.com/cards/border_crop/en/ice/331.jpg?1517813031|https://scryfall.com/card/ice/331/onyx-talisman?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1753
+msgid "Whenever a player casts a black spell, you may pay |mana_3|. If you do, untap target permanent."
+msgstr ""
+
+#: ../../ICE.rst:1758
+msgid ":mtgtip:`Pentagram of the Ages<https://img.scryfall.com/cards/border_crop/en/ice/332.jpg?1517813031|https://scryfall.com/card/ice/332/pentagram-of-the-ages?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1757
+msgid "|mana_4|, |tap|: The next time a source of your choice would deal damage to you this turn, prevent that damage."
+msgstr ""
+
+#: ../../ICE.rst:1762
+msgid ":mtgtip:`Pit Trap<https://img.scryfall.com/cards/border_crop/en/ice/333.jpg?1517813031|https://scryfall.com/card/ice/333/pit-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1761
+msgid "|mana_2|, |tap|, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated."
+msgstr ""
+
+#: ../../ICE.rst:1768
+msgid ":mtgtip:`Runed Arch<https://img.scryfall.com/cards/border_crop/en/ice/334.jpg?1517813031|https://scryfall.com/card/ice/334/runed-arch?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1765
+msgid "Runed Arch enters the battlefield tapped."
+msgstr ""
+
+#: ../../ICE.rst:1767
+msgid "|mana_x|, |tap|, Sacrifice Runed Arch: X target creatures with power 2 or less can't be blocked this turn."
+msgstr ""
+
+#: ../../ICE.rst:1772
+msgid ":mtgtip:`Shield of the Ages<https://img.scryfall.com/cards/border_crop/en/ice/335.jpg?1517813031|https://scryfall.com/card/ice/335/shield-of-the-ages?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1771
+msgid "|mana_2|: Prevent the next 1 damage that would be dealt to you this turn."
+msgstr ""
+
+#: ../../ICE.rst:1776
+msgid ":mtgtip:`Skull Catapult<https://img.scryfall.com/cards/border_crop/en/ice/336.jpg?1520457297|https://scryfall.com/card/ice/336/skull-catapult?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1775
+msgid "|mana_1|, |tap|, Sacrifice a creature: Skull Catapult deals 2 damage to any target."
+msgstr ""
+
+#: ../../ICE.rst:1786
+msgid ":mtgtip:`Snow Fortress<https://img.scryfall.com/cards/border_crop/en/ice/337.jpg?1517813031|https://scryfall.com/card/ice/337/snow-fortress?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1781
+msgid "|mana_1|: Snow Fortress gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1783
+msgid "|mana_1|: Snow Fortress gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1785
+msgid "|mana_3|: Snow Fortress deals 1 damage to target creature without flying that's attacking you."
+msgstr ""
+
+#: ../../ICE.rst:1792
+msgid ":mtgtip:`Soldevi Golem<https://img.scryfall.com/cards/border_crop/en/ice/338.jpg?1517813031|https://scryfall.com/card/ice/338/soldevi-golem?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1789
+msgid "Soldevi Golem doesn't untap during your untap step."
+msgstr ""
+
+#: ../../ICE.rst:1791
+msgid "At the beginning of your upkeep, you may untap target tapped creature an opponent controls. If you do, untap Soldevi Golem."
+msgstr ""
+
+#: ../../ICE.rst:1798
+msgid ":mtgtip:`Soldevi Simulacrum<https://img.scryfall.com/cards/border_crop/en/ice/339.jpg?1517813031|https://scryfall.com/card/ice/339/soldevi-simulacrum?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1797
+msgid "|mana_1|: Soldevi Simulacrum gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1802
+msgid ":mtgtip:`Staff of the Ages<https://img.scryfall.com/cards/border_crop/en/ice/340.jpg?1517813031|https://scryfall.com/card/ice/340/staff-of-the-ages?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1801
+msgid "Creatures with landwalk abilities can be blocked as though they didn't have those abilities."
+msgstr ""
+
+#: ../../ICE.rst:1806
+msgid ":mtgtip:`Sunstone<https://img.scryfall.com/cards/border_crop/en/ice/341.jpg?1517813031|https://scryfall.com/card/ice/341/sunstone?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1805
+msgid "|mana_2|, Sacrifice a snow land: Prevent all combat damage that would be dealt this turn."
+msgstr ""
+
+#: ../../ICE.rst:1812
+msgid ":mtgtip:`Time Bomb<https://img.scryfall.com/cards/border_crop/en/ice/342.jpg?1517813031|https://scryfall.com/card/ice/342/time-bomb?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1809
+msgid "At the beginning of your upkeep, put a time counter on Time Bomb."
+msgstr ""
+
+#: ../../ICE.rst:1811
+msgid "|mana_1|, |tap|, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player."
+msgstr ""
+
+#: ../../ICE.rst:1816
+msgid ":mtgtip:`Urza's Bauble<https://img.scryfall.com/cards/border_crop/en/ice/343.jpg?1517813031|https://scryfall.com/card/ice/343/urzas-bauble?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1815
+msgid "|tap|, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep."
+msgstr ""
+
+#: ../../ICE.rst:1820
+msgid ":mtgtip:`Vexing Arcanix<https://img.scryfall.com/cards/border_crop/en/ice/344.jpg?1517813031|https://scryfall.com/card/ice/344/vexing-arcanix?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1819
+msgid "|mana_3|, |tap|: Target player chooses a card name, then reveals the top card of their library. If that card has the chosen name, that player puts it into their hand. Otherwise, they put it into their graveyard and Vexing Arcanix deals 2 damage to them."
+msgstr ""
+
+#: ../../ICE.rst:1826
+msgid ":mtgtip:`Vibrating Sphere<https://img.scryfall.com/cards/border_crop/en/ice/345.jpg?1517813031|https://scryfall.com/card/ice/345/vibrating-sphere?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1823
+msgid "As long as it's your turn, creatures you control get +2/+0."
+msgstr ""
+
+#: ../../ICE.rst:1825
+msgid "As long as it's not your turn, creatures you control get -0/-2."
+msgstr ""
+
+#: ../../ICE.rst:1832
+msgid ":mtgtip:`Walking Wall<https://img.scryfall.com/cards/border_crop/en/ice/346.jpg?1517813031|https://scryfall.com/card/ice/346/walking-wall?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1829
+msgid "Defender"
+msgstr ""
+
+#: ../../ICE.rst:1831
+msgid "|mana_3|: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../ICE.rst:1838
+msgid ":mtgtip:`Wall of Shields<https://img.scryfall.com/cards/border_crop/en/ice/347.jpg?1517813031|https://scryfall.com/card/ice/347/wall-of-shields?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1837
+msgid "Banding (If any creatures with banding you control are blocking a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by.)"
+msgstr ""
+
+#: ../../ICE.rst:1842
+msgid ":mtgtip:`War Chariot<https://img.scryfall.com/cards/border_crop/en/ice/348.jpg?1517813031|https://scryfall.com/card/ice/348/war-chariot?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1841
+msgid "|mana_3|, |tap|: Target creature gains trample until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1846
+msgid ":mtgtip:`Whalebone Glider<https://img.scryfall.com/cards/border_crop/en/ice/349.jpg?1521827971|https://scryfall.com/card/ice/349/whalebone-glider?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1845
+msgid "|mana_2|, |tap|: Target creature with power 3 or less gains flying until end of turn."
+msgstr ""
+
+#: ../../ICE.rst:1850
+msgid ":mtgtip:`Zuran Orb<https://img.scryfall.com/cards/border_crop/en/ice/350.jpg?1517813031|https://scryfall.com/card/ice/350/zuran-orb?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1849
+msgid "Sacrifice a land: You gain 2 life."
+msgstr ""
+
+#: ../../ICE.rst:1856
+msgid ":mtgtip:`Adarkar Wastes<https://img.scryfall.com/cards/border_crop/en/ice/351.jpg?1517813031|https://scryfall.com/card/ice/351/adarkar-wastes?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1853
+#: ../../ICE.rst:1859
+#: ../../ICE.rst:1887
+#: ../../ICE.rst:1917
+#: ../../ICE.rst:1931
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../ICE.rst:1855
+msgid "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
+msgstr ""
+
+#: ../../ICE.rst:1862
+msgid ":mtgtip:`Brushland<https://img.scryfall.com/cards/border_crop/en/ice/352.jpg?1517813031|https://scryfall.com/card/ice/352/brushland?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1861
+msgid "|tap|: Add |mana_g| or |mana_w|. Brushland deals 1 damage to you."
+msgstr ""
+
+#: ../../ICE.rst:1872
+msgid ":mtgtip:`Glacial Chasm<https://img.scryfall.com/cards/border_crop/en/ice/353.jpg?1517813031|https://scryfall.com/card/ice/353/glacial-chasm?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1865
+msgid "Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../ICE.rst:1867
+msgid "When Glacial Chasm enters the battlefield, sacrifice a land."
+msgstr ""
+
+#: ../../ICE.rst:1869
+msgid "Creatures you control can't attack."
+msgstr ""
+
+#: ../../ICE.rst:1871
+msgid "Prevent all damage that would be dealt to you."
+msgstr ""
+
+#: ../../ICE.rst:1878
+msgid ":mtgtip:`Halls of Mist<https://img.scryfall.com/cards/border_crop/en/ice/354.jpg?1517813031|https://scryfall.com/card/ice/354/halls-of-mist?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1877
+msgid "Creatures that attacked during their controller's last turn can't attack."
+msgstr ""
+
+#: ../../ICE.rst:1884
+msgid ":mtgtip:`Ice Floe<https://img.scryfall.com/cards/border_crop/en/ice/355.jpg?1517813031|https://scryfall.com/card/ice/355/ice-floe?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1881
+msgid "You may choose not to untap Ice Floe during your untap step."
+msgstr ""
+
+#: ../../ICE.rst:1883
+msgid "|tap|: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped."
+msgstr ""
+
+#: ../../ICE.rst:1890
+msgid ":mtgtip:`Karplusan Forest<https://img.scryfall.com/cards/border_crop/en/ice/356.jpg?1517813031|https://scryfall.com/card/ice/356/karplusan-forest?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1889
+msgid "|tap|: Add |mana_r| or |mana_g|. Karplusan Forest deals 1 damage to you."
+msgstr ""
+
+#: ../../ICE.rst:1898
+msgid ":mtgtip:`Land Cap<https://img.scryfall.com/cards/border_crop/en/ice/357.jpg?1517813031|https://scryfall.com/card/ice/357/land-cap?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1893
+msgid "Land Cap doesn't untap during your untap step if it has a depletion counter on it."
+msgstr ""
+
+#: ../../ICE.rst:1895
+msgid "At the beginning of your upkeep, remove a depletion counter from Land Cap."
+msgstr ""
+
+#: ../../ICE.rst:1897
+msgid "|tap|: Add |mana_w| or |mana_u|. Put a depletion counter on Land Cap."
+msgstr ""
+
+#: ../../ICE.rst:1906
+msgid ":mtgtip:`Lava Tubes<https://img.scryfall.com/cards/border_crop/en/ice/358.jpg?1517813031|https://scryfall.com/card/ice/358/lava-tubes?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1901
+msgid "Lava Tubes doesn't untap during your untap step if it has a depletion counter on it."
+msgstr ""
+
+#: ../../ICE.rst:1903
+msgid "At the beginning of your upkeep, remove a depletion counter from Lava Tubes."
+msgstr ""
+
+#: ../../ICE.rst:1905
+msgid "|tap|: Add |mana_b| or |mana_r|. Put a depletion counter on Lava Tubes."
+msgstr ""
+
+#: ../../ICE.rst:1914
+msgid ":mtgtip:`River Delta<https://img.scryfall.com/cards/border_crop/en/ice/359.jpg?1517813031|https://scryfall.com/card/ice/359/river-delta?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1909
+msgid "River Delta doesn't untap during your untap step if it has a depletion counter on it."
+msgstr ""
+
+#: ../../ICE.rst:1911
+msgid "At the beginning of your upkeep, remove a depletion counter from River Delta."
+msgstr ""
+
+#: ../../ICE.rst:1913
+msgid "|tap|: Add |mana_u| or |mana_b|. Put a depletion counter on River Delta."
+msgstr ""
+
+#: ../../ICE.rst:1920
+msgid ":mtgtip:`Sulfurous Springs<https://img.scryfall.com/cards/border_crop/en/ice/360.jpg?1517813031|https://scryfall.com/card/ice/360/sulfurous-springs?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1919
+msgid "|tap|: Add |mana_b| or |mana_r|. Sulfurous Springs deals 1 damage to you."
+msgstr ""
+
+#: ../../ICE.rst:1928
+msgid ":mtgtip:`Timberline Ridge<https://img.scryfall.com/cards/border_crop/en/ice/361.jpg?1517813031|https://scryfall.com/card/ice/361/timberline-ridge?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1923
+msgid "Timberline Ridge doesn't untap during your untap step if it has a depletion counter on it."
+msgstr ""
+
+#: ../../ICE.rst:1925
+msgid "At the beginning of your upkeep, remove a depletion counter from Timberline Ridge."
+msgstr ""
+
+#: ../../ICE.rst:1927
+msgid "|tap|: Add |mana_r| or |mana_g|. Put a depletion counter on Timberline Ridge."
+msgstr ""
+
+#: ../../ICE.rst:1934
+msgid ":mtgtip:`Underground River<https://img.scryfall.com/cards/border_crop/en/ice/362.jpg?1517813031|https://scryfall.com/card/ice/362/underground-river?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1933
+msgid "|tap|: Add |mana_u| or |mana_b|. Underground River deals 1 damage to you."
+msgstr ""
+
+#: ../../ICE.rst:1942
+msgid ":mtgtip:`Veldt<https://img.scryfall.com/cards/border_crop/en/ice/363.jpg?1517813031|https://scryfall.com/card/ice/363/veldt?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1937
+msgid "Veldt doesn't untap during your untap step if it has a depletion counter on it."
+msgstr ""
+
+#: ../../ICE.rst:1939
+msgid "At the beginning of your upkeep, remove a depletion counter from Veldt."
+msgstr ""
+
+#: ../../ICE.rst:1941
+msgid "|tap|: Add |mana_g| or |mana_w|. Put a depletion counter on Veldt."
+msgstr ""
+
+#: ../../ICE.rst:1946
+msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/ice/364.jpg?1517813031|https://scryfall.com/card/ice/364/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1945
+#: ../../ICE.rst:1949
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../ICE.rst:1950
+msgid ":mtgtip:`Snow-Covered Plains<https://img.scryfall.com/cards/border_crop/en/ice/367.jpg?1517813031|https://scryfall.com/card/ice/367/snow-covered-plains?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1954
+msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/ice/368.jpg?1517813031|https://scryfall.com/card/ice/368/island?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1953
+#: ../../ICE.rst:1957
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../ICE.rst:1958
+msgid ":mtgtip:`Snow-Covered Island<https://img.scryfall.com/cards/border_crop/en/ice/371.jpg?1537068230|https://scryfall.com/card/ice/371/snow-covered-island?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1962
+msgid ":mtgtip:`Snow-Covered Swamp<https://img.scryfall.com/cards/border_crop/en/ice/372.jpg?1520457006|https://scryfall.com/card/ice/372/snow-covered-swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1961
+#: ../../ICE.rst:1965
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../ICE.rst:1966
+msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/ice/373.jpg?1520457309|https://scryfall.com/card/ice/373/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1970
+msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/ice/376.jpg?1520457227|https://scryfall.com/card/ice/376/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1969
+#: ../../ICE.rst:1973
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../ICE.rst:1974
+msgid ":mtgtip:`Snow-Covered Mountain<https://img.scryfall.com/cards/border_crop/en/ice/379.jpg?1520457014|https://scryfall.com/card/ice/379/snow-covered-mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1978
+msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/ice/380.jpg?1520457150|https://scryfall.com/card/ice/380/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../ICE.rst:1977
+#: ../../ICE.rst:1981
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+
+#: ../../ICE.rst:1981
+msgid ":mtgtip:`Snow-Covered Forest<https://img.scryfall.com/cards/border_crop/en/ice/383.jpg?1517813031|https://scryfall.com/card/ice/383/snow-covered-forest?utm_source=api>`"
+msgstr ""
+

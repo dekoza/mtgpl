@@ -1,0 +1,2363 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 23:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../VIS.rst:5
+msgid ":mtgexp:`VIS` Visions"
+msgstr ""
+
+#: ../../VIS.rst:10
+msgid ":mtgtip:`Archangel<https://img.scryfall.com/cards/border_crop/en/vis/1.jpg?1517813031|https://scryfall.com/card/vis/1/archangel?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:9 ../../VIS.rst:737
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../VIS.rst:16
+msgid ""
+":mtgtip:`Daraja "
+"Griffin<https://img.scryfall.com/cards/border_crop/en/vis/2.jpg?1517813031|https://scryfall.com/card/vis/2"
+"/daraja-griffin?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:13 ../../VIS.rst:141 ../../VIS.rst:151 ../../VIS.rst:213
+#: ../../VIS.rst:219 ../../VIS.rst:227 ../../VIS.rst:265 ../../VIS.rst:395
+#: ../../VIS.rst:407 ../../VIS.rst:509 ../../VIS.rst:595 ../../VIS.rst:699
+#: ../../VIS.rst:741 ../../VIS.rst:835
+msgid "Flying"
+msgstr ""
+
+#: ../../VIS.rst:15
+msgid "Sacrifice Daraja Griffin: Destroy target black creature."
+msgstr ""
+
+#: ../../VIS.rst:20
+msgid ":mtgtip:`Equipoise<https://img.scryfall.com/cards/border_crop/en/vis/3.jpg?1517813031|https://scryfall.com/card/vis/3/equipoise?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:19
+msgid ""
+"At the beginning of your upkeep, for each land target player controls in "
+"excess of the number you control, choose a land that player controls, "
+"then the chosen permanents phase out. Repeat this process for artifacts "
+"and creatures. (While they're phased out, they're treated as though they "
+"don't exist. They phase in before that player untaps during their next "
+"untap step.)"
+msgstr ""
+
+#: ../../VIS.rst:26
+msgid ""
+":mtgtip:`Eye of "
+"Singularity<https://img.scryfall.com/cards/border_crop/en/vis/4.jpg?1517813031|https://scryfall.com/card/vis/4"
+"/eye-of-singularity?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:23
+msgid ""
+"When Eye of Singularity enters the battlefield, destroy each permanent "
+"with the same name as another permanent, except for basic lands. They "
+"can't be regenerated."
+msgstr ""
+
+#: ../../VIS.rst:25
+msgid ""
+"Whenever a permanent other than a basic land enters the battlefield, "
+"destroy all other permanents with that name. They can't be regenerated."
+msgstr ""
+
+#: ../../VIS.rst:30
+msgid ""
+":mtgtip:`Freewind "
+"Falcon<https://img.scryfall.com/cards/border_crop/en/vis/5.jpg?1517813031|https://scryfall.com/card/vis/5"
+"/freewind-falcon?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:29
+msgid "Flying, protection from red"
+msgstr ""
+
+#: ../../VIS.rst:34
+msgid ""
+":mtgtip:`Gossamer "
+"Chains<https://img.scryfall.com/cards/border_crop/en/vis/6.jpg?1517813031|https://scryfall.com/card/vis/6"
+"/gossamer-chains?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:33
+msgid ""
+"Return Gossamer Chains to its owner's hand: Prevent all combat damage "
+"that would be dealt by target unblocked creature this turn."
+msgstr ""
+
+#: ../../VIS.rst:38
+msgid ""
+":mtgtip:`Honorable "
+"Passage<https://img.scryfall.com/cards/border_crop/en/vis/7.jpg?1517813031|https://scryfall.com/card/vis/7"
+"/honorable-passage?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:37
+msgid ""
+"The next time a source of your choice would deal damage to any target "
+"this turn, prevent that damage. If damage from a red source is prevented "
+"this way, Honorable Passage deals that much damage to the source's "
+"controller."
+msgstr ""
+
+#: ../../VIS.rst:48
+msgid ""
+":mtgtip:`Hope "
+"Charm<https://img.scryfall.com/cards/border_crop/en/vis/8.jpg?1517813031|https://scryfall.com/card/vis/8"
+"/hope-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:41 ../../VIS.rst:255 ../../VIS.rst:321 ../../VIS.rst:435
+#: ../../VIS.rst:565
+msgid "Choose one —"
+msgstr ""
+
+#: ../../VIS.rst:43
+msgid "Target creature gains first strike until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:45
+msgid "Target player gains 2 life."
+msgstr ""
+
+#: ../../VIS.rst:47
+msgid "Destroy target Aura."
+msgstr ""
+
+#: ../../VIS.rst:52
+msgid ""
+":mtgtip:`Infantry "
+"Veteran<https://img.scryfall.com/cards/border_crop/en/vis/9.jpg?1517813031|https://scryfall.com/card/vis/9"
+"/infantry-veteran?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:51
+msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:56
+msgid ""
+":mtgtip:`Jamuraan "
+"Lion<https://img.scryfall.com/cards/border_crop/en/vis/10.jpg?1517813031|https://scryfall.com/card/vis/10"
+"/jamuraan-lion?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:55
+msgid "|mana_w|, |tap|: Target creature can't block this turn."
+msgstr ""
+
+#: ../../VIS.rst:62
+msgid ""
+":mtgtip:`Knight of "
+"Valor<https://img.scryfall.com/cards/border_crop/en/vis/11.jpg?1517813031|https://scryfall.com/card/vis/11"
+"/knight-of-valor?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:59 ../../VIS.rst:115 ../../VIS.rst:129 ../../VIS.rst:185
+#: ../../VIS.rst:311 ../../VIS.rst:517
+msgid ""
+"Flanking (Whenever a creature without flanking blocks this creature, the "
+"blocking creature gets -1/-1 until end of turn.)"
+msgstr ""
+
+#: ../../VIS.rst:61
+msgid ""
+"|mana_1|\\ |mana_w|: Each creature without flanking blocking Knight of "
+"Valor gets -1/-1 until end of turn. Activate this ability only once each "
+"turn."
+msgstr ""
+
+#: ../../VIS.rst:66
+msgid ""
+":mtgtip:`Longbow "
+"Archer<https://img.scryfall.com/cards/border_crop/en/vis/12.jpg?1517813031|https://scryfall.com/card/vis/12"
+"/longbow-archer?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:65
+msgid "First strike; reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../VIS.rst:70
+msgid ""
+":mtgtip:`Miraculous "
+"Recovery<https://img.scryfall.com/cards/border_crop/en/vis/13.jpg?1517813031|https://scryfall.com/card/vis/13"
+"/miraculous-recovery?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:69
+msgid ""
+"Return target creature card from your graveyard to the battlefield. Put a"
+" +1/+1 counter on it."
+msgstr ""
+
+#: ../../VIS.rst:76
+msgid ":mtgtip:`Parapet<https://img.scryfall.com/cards/border_crop/en/vis/14.jpg?1517813031|https://scryfall.com/card/vis/14/parapet?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:73
+msgid ""
+"You may cast Parapet as though it had flash. If you cast it any time a "
+"sorcery couldn't have been cast, the controller of the permanent it "
+"becomes sacrifices it at the beginning of the next cleanup step."
+msgstr ""
+
+#: ../../VIS.rst:75
+msgid "Creatures you control get +0/+1."
+msgstr ""
+
+#: ../../VIS.rst:80
+msgid ""
+":mtgtip:`Peace "
+"Talks<https://img.scryfall.com/cards/border_crop/en/vis/15.jpg?1517813031|https://scryfall.com/card/vis/15"
+"/peace-talks?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:79
+msgid ""
+"This turn and next turn, creatures can't attack, and players and "
+"permanents can't be the targets of spells or activated abilities."
+msgstr ""
+
+#: ../../VIS.rst:88
+msgid ""
+":mtgtip:`Relic "
+"Ward<https://img.scryfall.com/cards/border_crop/en/vis/16.jpg?1517813031|https://scryfall.com/card/vis/16"
+"/relic-ward?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:83
+msgid ""
+"You may cast Relic Ward as though it had flash. If you cast it any time a"
+" sorcery couldn't have been cast, the controller of the permanent it "
+"becomes sacrifices it at the beginning of the next cleanup step."
+msgstr ""
+
+#: ../../VIS.rst:85
+msgid "Enchant artifact"
+msgstr ""
+
+#: ../../VIS.rst:87
+msgid ""
+"Enchanted artifact has shroud. (It can't be the target of spells or "
+"abilities.)"
+msgstr ""
+
+#: ../../VIS.rst:92
+msgid ":mtgtip:`Remedy<https://img.scryfall.com/cards/border_crop/en/vis/17.jpg?1517813031|https://scryfall.com/card/vis/17/remedy?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:91
+msgid ""
+"Prevent the next 5 damage that would be dealt this turn to any number of "
+"targets, divided as you choose."
+msgstr ""
+
+#: ../../VIS.rst:96
+msgid ""
+":mtgtip:`Resistance "
+"Fighter<https://img.scryfall.com/cards/border_crop/en/vis/18.jpg?1517813031|https://scryfall.com/card/vis/18"
+"/resistance-fighter?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:95
+msgid ""
+"Sacrifice Resistance Fighter: Prevent all combat damage target creature "
+"would deal this turn."
+msgstr ""
+
+#: ../../VIS.rst:100
+msgid ""
+":mtgtip:`Retribution of the "
+"Meek<https://img.scryfall.com/cards/border_crop/en/vis/19.jpg?1517813031|https://scryfall.com/card/vis/19"
+"/retribution-of-the-meek?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:99
+msgid "Destroy all creatures with power 4 or greater. They can't be regenerated."
+msgstr ""
+
+#: ../../VIS.rst:104
+msgid ""
+":mtgtip:`Righteous "
+"Aura<https://img.scryfall.com/cards/border_crop/en/vis/20.jpg?1517813031|https://scryfall.com/card/vis/20"
+"/righteous-aura?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:103
+msgid ""
+"|mana_w|, Pay 2 life: The next time a source of your choice would deal "
+"damage to you this turn, prevent that damage."
+msgstr ""
+
+#: ../../VIS.rst:112
+msgid ""
+":mtgtip:`Sun "
+"Clasp<https://img.scryfall.com/cards/border_crop/en/vis/21.jpg?1517813031|https://scryfall.com/card/vis/21"
+"/sun-clasp?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:107 ../../VIS.rst:197 ../../VIS.rst:249 ../../VIS.rst:293
+#: ../../VIS.rst:301 ../../VIS.rst:385 ../../VIS.rst:473 ../../VIS.rst:609
+#: ../../VIS.rst:645
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../VIS.rst:109
+msgid "Enchanted creature gets +1/+3."
+msgstr ""
+
+#: ../../VIS.rst:111
+msgid "|mana_w|: Return enchanted creature to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:118
+msgid ""
+":mtgtip:`Teferi's Honor "
+"Guard<https://img.scryfall.com/cards/border_crop/en/vis/22.jpg?1517813031|https://scryfall.com/card/vis/22"
+"/teferis-honor-guard?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:117
+msgid ""
+"|mana_u|\\ |mana_u|: Teferi's Honor Guard phases out. (While it's phased "
+"out, it's treated as though it doesn't exist. It phases in before you "
+"untap during your next untap step.)"
+msgstr ""
+
+#: ../../VIS.rst:122
+msgid ":mtgtip:`Tithe<https://img.scryfall.com/cards/border_crop/en/vis/23.jpg?1517813031|https://scryfall.com/card/vis/23/tithe?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:121
+msgid ""
+"Search your library for a Plains card. If target opponent controls more "
+"lands than you, you may search your library for an additional Plains "
+"card. Reveal those cards and put them into your hand. Then shuffle your "
+"library."
+msgstr ""
+
+#: ../../VIS.rst:126
+msgid ""
+":mtgtip:`Warrior's "
+"Honor<https://img.scryfall.com/cards/border_crop/en/vis/24.jpg?1517813031|https://scryfall.com/card/vis/24"
+"/warriors-honor?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:125
+msgid "Creatures you control get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:132
+msgid ""
+":mtgtip:`Zhalfirin "
+"Crusader<https://img.scryfall.com/cards/border_crop/en/vis/25.jpg?1517813031|https://scryfall.com/card/vis/25"
+"/zhalfirin-crusader?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:131
+msgid ""
+"|mana_1|\\ |mana_w|: The next 1 damage that would be dealt to Zhalfirin "
+"Crusader this turn is dealt to any target instead."
+msgstr ""
+
+#: ../../VIS.rst:138
+msgid ":mtgtip:`Betrayal<https://img.scryfall.com/cards/border_crop/en/vis/26.jpg?1517813031|https://scryfall.com/card/vis/26/betrayal?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:135
+msgid "Enchant creature an opponent controls"
+msgstr ""
+
+#: ../../VIS.rst:137
+msgid "Whenever enchanted creature becomes tapped, you draw a card."
+msgstr ""
+
+#: ../../VIS.rst:144
+msgid ":mtgtip:`Breezekeeper<https://img.scryfall.com/cards/border_crop/en/vis/27.jpg?1517813031|https://scryfall.com/card/vis/27/breezekeeper?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:143 ../../VIS.rst:221 ../../VIS.rst:585
+msgid ""
+"Phasing (This phases in or out before you untap during each of your untap"
+" steps. While it's phased out, it's treated as though it doesn't exist.)"
+msgstr ""
+
+#: ../../VIS.rst:148
+msgid ":mtgtip:`Chronatog<https://img.scryfall.com/cards/border_crop/en/vis/28.jpg?1517813031|https://scryfall.com/card/vis/28/chronatog?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:147
+msgid ""
+"|mana_0|: Chronatog gets +3/+3 until end of turn. You skip your next "
+"turn. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../VIS.rst:154
+msgid ""
+":mtgtip:`Cloud "
+"Elemental<https://img.scryfall.com/cards/border_crop/en/vis/29.jpg?1517813031|https://scryfall.com/card/vis/29"
+"/cloud-elemental?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:153
+msgid "Cloud Elemental can block only creatures with flying."
+msgstr ""
+
+#: ../../VIS.rst:158
+msgid ":mtgtip:`Desertion<https://img.scryfall.com/cards/border_crop/en/vis/30.jpg?1517813031|https://scryfall.com/card/vis/30/desertion?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:157
+msgid ""
+"Counter target spell. If an artifact or creature spell is countered this "
+"way, put that card onto the battlefield under your control instead of "
+"into its owner's graveyard."
+msgstr ""
+
+#: ../../VIS.rst:164
+msgid ""
+":mtgtip:`Dream "
+"Tides<https://img.scryfall.com/cards/border_crop/en/vis/31.jpg?1517813031|https://scryfall.com/card/vis/31"
+"/dream-tides?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:161
+msgid "Creatures don't untap during their controllers' untap steps."
+msgstr ""
+
+#: ../../VIS.rst:163
+msgid ""
+"At the beginning of each player's upkeep, that player may choose any "
+"number of tapped nongreen creatures they control and pay |mana_2| for "
+"each creature chosen this way. If the player does, untap those creatures."
+msgstr ""
+
+#: ../../VIS.rst:168
+msgid ""
+":mtgtip:`Flooded "
+"Shoreline<https://img.scryfall.com/cards/border_crop/en/vis/32.jpg?1517813031|https://scryfall.com/card/vis/32"
+"/flooded-shoreline?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:167
+msgid ""
+"|mana_u|\\ |mana_u|, Return two Islands you control to their owner's "
+"hand: Return target creature to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:174
+msgid ":mtgtip:`Foreshadow<https://img.scryfall.com/cards/border_crop/en/vis/33.jpg?1517813031|https://scryfall.com/card/vis/33/foreshadow?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:171
+msgid ""
+"Choose a card name, then target opponent puts the top card of their "
+"library into their graveyard. If that card has the chosen name, you draw "
+"a card."
+msgstr ""
+
+#: ../../VIS.rst:173 ../../VIS.rst:499 ../../VIS.rst:577
+msgid "Draw a card at the beginning of the next turn's upkeep."
+msgstr ""
+
+#: ../../VIS.rst:178
+msgid ":mtgtip:`Impulse<https://img.scryfall.com/cards/border_crop/en/vis/34.jpg?1517813031|https://scryfall.com/card/vis/34/impulse?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:177
+msgid ""
+"Look at the top four cards of your library. Put one of them into your "
+"hand and the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../VIS.rst:182
+msgid ":mtgtip:`Inspiration<https://img.scryfall.com/cards/border_crop/en/vis/35.jpg?1517813031|https://scryfall.com/card/vis/35/inspiration?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:181
+msgid "Target player draws two cards."
+msgstr ""
+
+#: ../../VIS.rst:188
+msgid ""
+":mtgtip:`Knight of the "
+"Mists<https://img.scryfall.com/cards/border_crop/en/vis/36.jpg?1517813031|https://scryfall.com/card/vis/36"
+"/knight-of-the-mists?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:187
+msgid ""
+"When Knight of the Mists enters the battlefield, you may pay |mana_u|. If"
+" you don't, destroy target Knight and it can't be regenerated."
+msgstr ""
+
+#: ../../VIS.rst:192
+msgid ":mtgtip:`Man-o'-War<https://img.scryfall.com/cards/border_crop/en/vis/37.jpg?1517813031|https://scryfall.com/card/vis/37/man-o-war?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:191
+msgid ""
+"When Man-o'-War enters the battlefield, return target creature to its "
+"owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:200
+msgid ""
+":mtgtip:`Mystic "
+"Veil<https://img.scryfall.com/cards/border_crop/en/vis/38.jpg?1517813031|https://scryfall.com/card/vis/38"
+"/mystic-veil?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:195
+msgid ""
+"You may cast Mystic Veil as though it had flash. If you cast it any time "
+"a sorcery couldn't have been cast, the controller of the permanent it "
+"becomes sacrifices it at the beginning of the next cleanup step."
+msgstr ""
+
+#: ../../VIS.rst:199
+msgid ""
+"Enchanted creature has shroud. (It can't be the target of spells or "
+"abilities.)"
+msgstr ""
+
+#: ../../VIS.rst:206
+msgid ":mtgtip:`Ovinomancer<https://img.scryfall.com/cards/border_crop/en/vis/39.jpg?1517813031|https://scryfall.com/card/vis/39/ovinomancer?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:203
+msgid ""
+"When Ovinomancer enters the battlefield, sacrifice it unless you return "
+"three basic lands you control to their owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:205
+msgid ""
+"|tap|, Return Ovinomancer to its owner's hand: Destroy target creature. "
+"It can't be regenerated. That creature's controller creates a 0/1 green "
+"Sheep creature token."
+msgstr ""
+
+#: ../../VIS.rst:210
+msgid ":mtgtip:`Prosperity<https://img.scryfall.com/cards/border_crop/en/vis/40.jpg?1517813031|https://scryfall.com/card/vis/40/prosperity?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:209
+msgid "Each player draws X cards."
+msgstr ""
+
+#: ../../VIS.rst:216
+msgid ""
+":mtgtip:`Rainbow "
+"Efreet<https://img.scryfall.com/cards/border_crop/en/vis/41.jpg?1517813031|https://scryfall.com/card/vis/41"
+"/rainbow-efreet?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:215
+msgid ""
+"|mana_u|\\ |mana_u|: Rainbow Efreet phases out. (While it's phased out, "
+"it's treated as though it doesn't exist. It phases in before you untap "
+"during your next untap step.)"
+msgstr ""
+
+#: ../../VIS.rst:224
+msgid ""
+":mtgtip:`Shimmering "
+"Efreet<https://img.scryfall.com/cards/border_crop/en/vis/42.jpg?1517813031|https://scryfall.com/card/vis/42"
+"/shimmering-efreet?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:223
+msgid ""
+"Whenever Shimmering Efreet phases in, target creature phases out. (It "
+"phases in before its controller untaps during their next untap step.)"
+msgstr ""
+
+#: ../../VIS.rst:230
+msgid ""
+":mtgtip:`Shrieking "
+"Drake<https://img.scryfall.com/cards/border_crop/en/vis/43.jpg?1517813031|https://scryfall.com/card/vis/43"
+"/shrieking-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:229
+msgid ""
+"When Shrieking Drake enters the battlefield, return a creature you "
+"control to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:234
+msgid ""
+":mtgtip:`Teferi's "
+"Realm<https://img.scryfall.com/cards/border_crop/en/vis/44.jpg?1517813031|https://scryfall.com/card/vis/44"
+"/teferis-realm?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:233
+msgid ""
+"At the beginning of each player's upkeep, that player chooses artifact, "
+"creature, land, or non-Aura enchantment. All nontoken permanents of that "
+"type phase out. (While they're phased out, they're treated as though they"
+" don't exist. Each one phases in before its controller untaps during "
+"their next untap step.)"
+msgstr ""
+
+#: ../../VIS.rst:238
+msgid ""
+":mtgtip:`Three "
+"Wishes<https://img.scryfall.com/cards/border_crop/en/vis/45.jpg?1517813031|https://scryfall.com/card/vis/45"
+"/three-wishes?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:237
+msgid ""
+"Exile the top three cards of your library face down. You may look at "
+"those cards for as long as they remain exiled. Until your next turn, you "
+"may play those cards. At the beginning of your next upkeep, put any of "
+"those cards you didn't play into your graveyard."
+msgstr ""
+
+#: ../../VIS.rst:242
+msgid ""
+":mtgtip:`Time and "
+"Tide<https://img.scryfall.com/cards/border_crop/en/vis/46.jpg?1517813031|https://scryfall.com/card/vis/46"
+"/time-and-tide?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:241
+msgid ""
+"Simultaneously, all phased-out creatures phase in and all creatures with "
+"phasing phase out."
+msgstr ""
+
+#: ../../VIS.rst:246
+msgid ":mtgtip:`Undo<https://img.scryfall.com/cards/border_crop/en/vis/47.jpg?1517813031|https://scryfall.com/card/vis/47/undo?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:245
+msgid "Return two target creatures to their owners' hands."
+msgstr ""
+
+#: ../../VIS.rst:252
+msgid ":mtgtip:`Vanishing<https://img.scryfall.com/cards/border_crop/en/vis/48.jpg?1517813031|https://scryfall.com/card/vis/48/vanishing?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:251
+msgid ""
+"|mana_u|\\ |mana_u|: Enchanted creature phases out. (While it's phased "
+"out, it's treated as though it doesn't exist. It phases in before its "
+"controller untaps during their next untap step.)"
+msgstr ""
+
+#: ../../VIS.rst:262
+msgid ""
+":mtgtip:`Vision "
+"Charm<https://img.scryfall.com/cards/border_crop/en/vis/49.jpg?1517813031|https://scryfall.com/card/vis/49"
+"/vision-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:257
+msgid ""
+"Target player puts the top four cards of their library into their "
+"graveyard."
+msgstr ""
+
+#: ../../VIS.rst:259
+msgid ""
+"Choose a land type and a basic land type. Each land of the first chosen "
+"type becomes the second chosen type until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:261
+msgid ""
+"Target artifact phases out. (While it's phased out, it's treated as "
+"though it doesn't exist. It phases in before its controller untaps during"
+" their next untap step.)"
+msgstr ""
+
+#: ../../VIS.rst:268
+msgid ""
+":mtgtip:`Waterspout "
+"Djinn<https://img.scryfall.com/cards/border_crop/en/vis/50.jpg?1517813031|https://scryfall.com/card/vis/50"
+"/waterspout-djinn?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:267
+msgid ""
+"At the beginning of your upkeep, sacrifice Waterspout Djinn unless you "
+"return an untapped Island you control to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:274
+msgid ""
+":mtgtip:`Aku "
+"Djinn<https://img.scryfall.com/cards/border_crop/en/vis/51.jpg?1517813031|https://scryfall.com/card/vis/51"
+"/aku-djinn?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:271 ../../VIS.rst:461 ../../VIS.rst:789
+msgid "Trample"
+msgstr ""
+
+#: ../../VIS.rst:273
+msgid ""
+"At the beginning of your upkeep, put a +1/+1 counter on each creature "
+"each opponent controls."
+msgstr ""
+
+#: ../../VIS.rst:278
+msgid ""
+":mtgtip:`Blanket of "
+"Night<https://img.scryfall.com/cards/border_crop/en/vis/52.jpg?1517813031|https://scryfall.com/card/vis/52"
+"/blanket-of-night?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:277
+msgid "Each land is a Swamp in addition to its other land types."
+msgstr ""
+
+#: ../../VIS.rst:282
+msgid ""
+":mtgtip:`Brood of "
+"Cockroaches<https://img.scryfall.com/cards/border_crop/en/vis/53.jpg?1517813031|https://scryfall.com/card/vis/53"
+"/brood-of-cockroaches?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:281
+msgid ""
+"When Brood of Cockroaches is put into your graveyard from the "
+"battlefield, at the beginning of the next end step, you lose 1 life and "
+"return Brood of Cockroaches to your hand."
+msgstr ""
+
+#: ../../VIS.rst:286
+msgid ":mtgtip:`Coercion<https://img.scryfall.com/cards/border_crop/en/vis/54.jpg?1517813031|https://scryfall.com/card/vis/54/coercion?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:285
+msgid ""
+"Target opponent reveals their hand. You choose a card from it. That "
+"player discards that card."
+msgstr ""
+
+#: ../../VIS.rst:290
+msgid ""
+":mtgtip:`Crypt "
+"Rats<https://img.scryfall.com/cards/border_crop/en/vis/55.jpg?1517813031|https://scryfall.com/card/vis/55"
+"/crypt-rats?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:289
+msgid ""
+"|mana_x|: Crypt Rats deals X damage to each creature and each player. "
+"Spend only black mana on X."
+msgstr ""
+
+#: ../../VIS.rst:298
+msgid ""
+":mtgtip:`Dark "
+"Privilege<https://img.scryfall.com/cards/border_crop/en/vis/56.jpg?1517813031|https://scryfall.com/card/vis/56"
+"/dark-privilege?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:295
+msgid "Enchanted creature gets +1/+1."
+msgstr ""
+
+#: ../../VIS.rst:297
+msgid "Sacrifice a creature: Regenerate enchanted creature."
+msgstr ""
+
+#: ../../VIS.rst:304
+msgid ""
+":mtgtip:`Death "
+"Watch<https://img.scryfall.com/cards/border_crop/en/vis/57.jpg?1517813031|https://scryfall.com/card/vis/57"
+"/death-watch?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:303
+msgid ""
+"When enchanted creature dies, its controller loses life equal to its "
+"power and you gain life equal to its toughness."
+msgstr ""
+
+#: ../../VIS.rst:308
+msgid ":mtgtip:`Desolation<https://img.scryfall.com/cards/border_crop/en/vis/58.jpg?1517813031|https://scryfall.com/card/vis/58/desolation?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:307
+msgid ""
+"At the beginning of each end step, each player who tapped a land for mana"
+" this turn sacrifices a land. Desolation deals 2 damage to each player "
+"who sacrificed a Plains this way."
+msgstr ""
+
+#: ../../VIS.rst:314
+msgid ""
+":mtgtip:`Fallen "
+"Askari<https://img.scryfall.com/cards/border_crop/en/vis/59.jpg?1517813031|https://scryfall.com/card/vis/59"
+"/fallen-askari?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:313
+msgid "Fallen Askari can't block."
+msgstr ""
+
+#: ../../VIS.rst:318
+msgid ""
+":mtgtip:`Forbidden "
+"Ritual<https://img.scryfall.com/cards/border_crop/en/vis/60.jpg?1517813031|https://scryfall.com/card/vis/60"
+"/forbidden-ritual?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:317
+msgid ""
+"Sacrifice a nontoken permanent. If you do, target opponent loses 2 life "
+"unless that player sacrifices a permanent or discards a card. You may "
+"repeat this process any number of times."
+msgstr ""
+
+#: ../../VIS.rst:328
+msgid ""
+":mtgtip:`Funeral "
+"Charm<https://img.scryfall.com/cards/border_crop/en/vis/61.jpg?1517813031|https://scryfall.com/card/vis/61"
+"/funeral-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:323
+msgid "Target player discards a card."
+msgstr ""
+
+#: ../../VIS.rst:325
+msgid "Target creature gets +2/-1 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:327
+msgid ""
+"Target creature gains swampwalk until end of turn. (It can't be blocked "
+"as long as defending player controls a Swamp.)"
+msgstr ""
+
+#: ../../VIS.rst:334
+msgid ""
+":mtgtip:`Infernal "
+"Harvest<https://img.scryfall.com/cards/border_crop/en/vis/62.jpg?1517813031|https://scryfall.com/card/vis/62"
+"/infernal-harvest?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:331
+msgid ""
+"As an additional cost to cast this spell, return X Swamps you control to "
+"their owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:333
+msgid ""
+"Infernal Harvest deals X damage divided as you choose among any number of"
+" target creatures."
+msgstr ""
+
+#: ../../VIS.rst:340
+msgid ""
+":mtgtip:`Kaervek's "
+"Spite<https://img.scryfall.com/cards/border_crop/en/vis/63.jpg?1517813031|https://scryfall.com/card/vis/63"
+"/kaerveks-spite?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:337
+msgid ""
+"As an additional cost to cast this spell, sacrifice all permanents you "
+"control and discard your hand."
+msgstr ""
+
+#: ../../VIS.rst:339
+msgid "Target player loses 5 life."
+msgstr ""
+
+#: ../../VIS.rst:346
+msgid ":mtgtip:`Necromancy<https://img.scryfall.com/cards/border_crop/en/vis/64.jpg?1517813031|https://scryfall.com/card/vis/64/necromancy?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:343
+msgid ""
+"You may cast Necromancy as though it had flash. If you cast it any time a"
+" sorcery couldn't have been cast, the controller of the permanent it "
+"becomes sacrifices it at the beginning of the next cleanup step."
+msgstr ""
+
+#: ../../VIS.rst:345
+msgid ""
+"When Necromancy enters the battlefield, if it's on the battlefield, it "
+"becomes an Aura with \"enchant creature put onto the battlefield with "
+"Necromancy.\" Put target creature card from a graveyard onto the "
+"battlefield under your control and attach Necromancy to it. When "
+"Necromancy leaves the battlefield, that creature's controller sacrifices "
+"it."
+msgstr ""
+
+#: ../../VIS.rst:350
+msgid ":mtgtip:`Necrosavant<https://img.scryfall.com/cards/border_crop/en/vis/65.jpg?1517813031|https://scryfall.com/card/vis/65/necrosavant?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:349
+msgid ""
+"|mana_3|\\ |mana_b|\\ |mana_b|, Sacrifice a creature: Return Necrosavant "
+"from your graveyard to the battlefield. Activate this ability only during"
+" your upkeep."
+msgstr ""
+
+#: ../../VIS.rst:356
+msgid ":mtgtip:`Nekrataal<https://img.scryfall.com/cards/border_crop/en/vis/66.jpg?1517813031|https://scryfall.com/card/vis/66/nekrataal?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:353 ../../VIS.rst:521 ../../VIS.rst:755
+msgid "First strike"
+msgstr ""
+
+#: ../../VIS.rst:355
+msgid ""
+"When Nekrataal enters the battlefield, destroy target nonartifact, "
+"nonblack creature. That creature can't be regenerated."
+msgstr ""
+
+#: ../../VIS.rst:360
+msgid ""
+":mtgtip:`Pillar Tombs of "
+"Aku<https://img.scryfall.com/cards/border_crop/en/vis/67.jpg?1517813031|https://scryfall.com/card/vis/67"
+"/pillar-tombs-of-aku?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:359
+msgid ""
+"At the beginning of each player's upkeep, that player may sacrifice a "
+"creature. If that player doesn't, they lose 5 life and you sacrifice "
+"Pillar Tombs of Aku."
+msgstr ""
+
+#: ../../VIS.rst:362
+msgid ":mtgtip:`Python<https://img.scryfall.com/cards/border_crop/en/vis/68.jpg?1517813031|https://scryfall.com/card/vis/68/python?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:370
+msgid ""
+":mtgtip:`Suq'Ata "
+"Assassin<https://img.scryfall.com/cards/border_crop/en/vis/69.jpg?1517813031|https://scryfall.com/card/vis/69"
+"/suqata-assassin?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:367
+msgid ""
+"Fear (This creature can't be blocked except by artifact creatures and/or "
+"black creatures.)"
+msgstr ""
+
+#: ../../VIS.rst:369
+msgid ""
+"Whenever Suq'Ata Assassin attacks and isn't blocked, defending player "
+"gets a poison counter. (A player with ten or more poison counters loses "
+"the game.)"
+msgstr ""
+
+#: ../../VIS.rst:374
+msgid ""
+":mtgtip:`Tar Pit "
+"Warrior<https://img.scryfall.com/cards/border_crop/en/vis/70.jpg?1517813031|https://scryfall.com/card/vis/70"
+"/tar-pit-warrior?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:373
+msgid ""
+"When Tar Pit Warrior becomes the target of a spell or ability, sacrifice "
+"it."
+msgstr ""
+
+#: ../../VIS.rst:378
+msgid ""
+":mtgtip:`Urborg "
+"Mindsucker<https://img.scryfall.com/cards/border_crop/en/vis/71.jpg?1517813031|https://scryfall.com/card/vis/71"
+"/urborg-mindsucker?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:377
+msgid ""
+"|mana_b|, Sacrifice Urborg Mindsucker: Target opponent discards a card at"
+" random. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../VIS.rst:382
+msgid ""
+":mtgtip:`Vampiric "
+"Tutor<https://img.scryfall.com/cards/border_crop/en/vis/72.jpg?1517813031|https://scryfall.com/card/vis/72"
+"/vampiric-tutor?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:381
+msgid ""
+"Search your library for a card, then shuffle your library and put that "
+"card on top of it. You lose 2 life."
+msgstr ""
+
+#: ../../VIS.rst:392
+msgid ":mtgtip:`Vampirism<https://img.scryfall.com/cards/border_crop/en/vis/73.jpg?1517813031|https://scryfall.com/card/vis/73/vampirism?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:387
+msgid ""
+"When Vampirism enters the battlefield, draw a card at the beginning of "
+"the next turn's upkeep."
+msgstr ""
+
+#: ../../VIS.rst:389
+msgid "Enchanted creature gets +1/+1 for each other creature you control."
+msgstr ""
+
+#: ../../VIS.rst:391
+msgid "Other creatures you control get -1/-1."
+msgstr ""
+
+#: ../../VIS.rst:398
+msgid ""
+":mtgtip:`Wake of "
+"Vultures<https://img.scryfall.com/cards/border_crop/en/vis/74.jpg?1517813031|https://scryfall.com/card/vis/74"
+"/wake-of-vultures?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:397
+msgid "|mana_1|\\ |mana_b|, Sacrifice a creature: Regenerate Wake of Vultures."
+msgstr ""
+
+#: ../../VIS.rst:404
+msgid ""
+":mtgtip:`Wicked "
+"Reward<https://img.scryfall.com/cards/border_crop/en/vis/75.jpg?1517813031|https://scryfall.com/card/vis/75"
+"/wicked-reward?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:401
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../VIS.rst:403
+msgid "Target creature gets +4/+2 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:410
+msgid ""
+":mtgtip:`Bogardan "
+"Phoenix<https://img.scryfall.com/cards/border_crop/en/vis/76.jpg?1517813031|https://scryfall.com/card/vis/76"
+"/bogardan-phoenix?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:409
+msgid ""
+"When Bogardan Phoenix dies, exile it if it had a death counter on it. "
+"Otherwise, return it to the battlefield under your control and put a "
+"death counter on it."
+msgstr ""
+
+#: ../../VIS.rst:414
+msgid ""
+":mtgtip:`Dwarven "
+"Vigilantes<https://img.scryfall.com/cards/border_crop/en/vis/77.jpg?1517813031|https://scryfall.com/card/vis/77"
+"/dwarven-vigilantes?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:413
+msgid ""
+"Whenever Dwarven Vigilantes attacks and isn't blocked, you may have it "
+"deal damage equal to its power to target creature. If you do, Dwarven "
+"Vigilantes assigns no combat damage this turn."
+msgstr ""
+
+#: ../../VIS.rst:418
+msgid ""
+":mtgtip:`Elkin "
+"Lair<https://img.scryfall.com/cards/border_crop/en/vis/78.jpg?1517813031|https://scryfall.com/card/vis/78"
+"/elkin-lair?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:417
+msgid ""
+"At the beginning of each player's upkeep, that player exiles a card at "
+"random from their hand. The player may play that card this turn. At the "
+"beginning of the next end step, if the player hasn't played the card, "
+"they put it into their graveyard."
+msgstr ""
+
+#: ../../VIS.rst:424
+msgid ":mtgtip:`Fireblast<https://img.scryfall.com/cards/border_crop/en/vis/79.jpg?1517813031|https://scryfall.com/card/vis/79/fireblast?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:421
+msgid "You may sacrifice two Mountains rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../VIS.rst:423
+msgid "Fireblast deals 4 damage to any target."
+msgstr ""
+
+#: ../../VIS.rst:428
+msgid ""
+":mtgtip:`Goblin "
+"Recruiter<https://img.scryfall.com/cards/border_crop/en/vis/80.jpg?1517813031|https://scryfall.com/card/vis/80"
+"/goblin-recruiter?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:427
+msgid ""
+"When Goblin Recruiter enters the battlefield, search your library for any"
+" number of Goblin cards and reveal those cards. Shuffle your library, "
+"then put them on top of it in any order."
+msgstr ""
+
+#: ../../VIS.rst:432
+msgid ""
+":mtgtip:`Goblin Swine-"
+"Rider<https://img.scryfall.com/cards/border_crop/en/vis/81.jpg?1517813031|https://scryfall.com/card/vis/81"
+"/goblin-swine-rider?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:431
+msgid ""
+"Whenever Goblin Swine-Rider becomes blocked, it deals 2 damage to each "
+"attacking creature and each blocking creature."
+msgstr ""
+
+#: ../../VIS.rst:442
+msgid ""
+":mtgtip:`Hearth "
+"Charm<https://img.scryfall.com/cards/border_crop/en/vis/82.jpg?1517813031|https://scryfall.com/card/vis/82"
+"/hearth-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:437
+msgid "Destroy target artifact creature."
+msgstr ""
+
+#: ../../VIS.rst:439
+msgid "Attacking creatures get +1/+0 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:441
+msgid "Target creature with power 2 or less can't be blocked this turn."
+msgstr ""
+
+#: ../../VIS.rst:450
+msgid ""
+":mtgtip:`Heat "
+"Wave<https://img.scryfall.com/cards/border_crop/en/vis/83.jpg?1517813031|https://scryfall.com/card/vis/83"
+"/heat-wave?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:445
+msgid ""
+"Cumulative upkeep |mana_r| (At the beginning of your upkeep, put an age "
+"counter on this permanent, then sacrifice it unless you pay its upkeep "
+"cost for each age counter on it.)"
+msgstr ""
+
+#: ../../VIS.rst:447
+msgid "Blue creatures can't block creatures you control."
+msgstr ""
+
+#: ../../VIS.rst:449
+msgid ""
+"Nonblue creatures can't block creatures you control unless their "
+"controller pays 1 life for each blocking creature they control."
+msgstr ""
+
+#: ../../VIS.rst:454
+msgid ""
+":mtgtip:`Hulking "
+"Cyclops<https://img.scryfall.com/cards/border_crop/en/vis/84.jpg?1517813031|https://scryfall.com/card/vis/84"
+"/hulking-cyclops?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:453
+msgid "Hulking Cyclops can't block."
+msgstr ""
+
+#: ../../VIS.rst:458
+msgid ""
+":mtgtip:`Keeper of "
+"Kookus<https://img.scryfall.com/cards/border_crop/en/vis/85.jpg?1517813031|https://scryfall.com/card/vis/85"
+"/keeper-of-kookus?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:457
+msgid "|mana_r|: Keeper of Kookus gains protection from red until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:466
+msgid ":mtgtip:`Kookus<https://img.scryfall.com/cards/border_crop/en/vis/86.jpg?1517813031|https://scryfall.com/card/vis/86/kookus?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:463
+msgid ""
+"At the beginning of your upkeep, if you don't control a creature named "
+"Keeper of Kookus, Kookus deals 3 damage to you and attacks this turn if "
+"able."
+msgstr ""
+
+#: ../../VIS.rst:465
+msgid "|mana_r|: Kookus gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:470
+msgid ""
+":mtgtip:`Lightning "
+"Cloud<https://img.scryfall.com/cards/border_crop/en/vis/87.jpg?1517813031|https://scryfall.com/card/vis/87"
+"/lightning-cloud?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:469
+msgid ""
+"Whenever a player casts a red spell, you may pay |mana_r|. If you do, "
+"Lightning Cloud deals 1 damage to any target."
+msgstr ""
+
+#: ../../VIS.rst:478
+msgid ""
+":mtgtip:`Mob "
+"Mentality<https://img.scryfall.com/cards/border_crop/en/vis/88.jpg?1517813031|https://scryfall.com/card/vis/88"
+"/mob-mentality?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:475
+msgid "Enchanted creature has trample."
+msgstr ""
+
+#: ../../VIS.rst:477
+msgid ""
+"Whenever all non-Wall creatures you control attack, enchanted creature "
+"gets +X/+0 until end of turn, where X is the number of attacking "
+"creatures."
+msgstr ""
+
+#: ../../VIS.rst:482
+msgid ""
+":mtgtip:`Ogre "
+"Enforcer<https://img.scryfall.com/cards/border_crop/en/vis/89.jpg?1517813031|https://scryfall.com/card/vis/89"
+"/ogre-enforcer?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:481
+msgid ""
+"Ogre Enforcer can't be destroyed by lethal damage unless lethal damage "
+"dealt by a single source is marked on it."
+msgstr ""
+
+#: ../../VIS.rst:486
+msgid ""
+":mtgtip:`Raging "
+"Gorilla<https://img.scryfall.com/cards/border_crop/en/vis/90.jpg?1517813031|https://scryfall.com/card/vis/90"
+"/raging-gorilla?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:485
+msgid ""
+"Whenever Raging Gorilla blocks or becomes blocked, it gets +2/-2 until "
+"end of turn."
+msgstr ""
+
+#: ../../VIS.rst:490
+msgid ""
+":mtgtip:`Relentless "
+"Assault<https://img.scryfall.com/cards/border_crop/en/vis/91.jpg?1517813031|https://scryfall.com/card/vis/91"
+"/relentless-assault?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:489
+msgid ""
+"Untap all creatures that attacked this turn. After this main phase, there"
+" is an additional combat phase followed by an additional main phase."
+msgstr ""
+
+#: ../../VIS.rst:494
+msgid ""
+":mtgtip:`Rock "
+"Slide<https://img.scryfall.com/cards/border_crop/en/vis/92.jpg?1517813031|https://scryfall.com/card/vis/92"
+"/rock-slide?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:493
+msgid ""
+"Rock Slide deals X damage divided as you choose among any number of "
+"target attacking or blocking creatures without flying."
+msgstr ""
+
+#: ../../VIS.rst:500
+msgid ":mtgtip:`Solfatara<https://img.scryfall.com/cards/border_crop/en/vis/93.jpg?1517813031|https://scryfall.com/card/vis/93/solfatara?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:497
+msgid "Target player can't play lands this turn."
+msgstr ""
+
+#: ../../VIS.rst:506
+msgid ""
+":mtgtip:`Song of "
+"Blood<https://img.scryfall.com/cards/border_crop/en/vis/94.jpg?1517813031|https://scryfall.com/card/vis/94"
+"/song-of-blood?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:503
+msgid "Put the top four cards of your library into your graveyard."
+msgstr ""
+
+#: ../../VIS.rst:505
+msgid ""
+"Whenever a creature attacks this turn, it gets +1/+0 until end of turn "
+"for each creature card put into your graveyard this way."
+msgstr ""
+
+#: ../../VIS.rst:512
+msgid ""
+":mtgtip:`Spitting "
+"Drake<https://img.scryfall.com/cards/border_crop/en/vis/95.jpg?1517813031|https://scryfall.com/card/vis/95"
+"/spitting-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:511
+msgid ""
+"|mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate this "
+"ability only once each turn."
+msgstr ""
+
+#: ../../VIS.rst:518
+msgid ""
+":mtgtip:`Suq'Ata "
+"Lancer<https://img.scryfall.com/cards/border_crop/en/vis/96.jpg?1517813031|https://scryfall.com/card/vis/96"
+"/suqata-lancer?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:515
+msgid "Haste"
+msgstr ""
+
+#: ../../VIS.rst:524
+msgid ""
+":mtgtip:`Talruum "
+"Champion<https://img.scryfall.com/cards/border_crop/en/vis/97.jpg?1517813031|https://scryfall.com/card/vis/97"
+"/talruum-champion?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:523
+msgid ""
+"Whenever Talruum Champion blocks or becomes blocked by a creature, that "
+"creature loses first strike until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:528
+msgid ""
+":mtgtip:`Talruum "
+"Piper<https://img.scryfall.com/cards/border_crop/en/vis/98.jpg?1517813031|https://scryfall.com/card/vis/98"
+"/talruum-piper?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:527
+msgid "All creatures with flying able to block Talruum Piper do so."
+msgstr ""
+
+#: ../../VIS.rst:532
+msgid ":mtgtip:`Tremor<https://img.scryfall.com/cards/border_crop/en/vis/99.jpg?1517813031|https://scryfall.com/card/vis/99/tremor?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:531
+msgid "Tremor deals 1 damage to each creature without flying."
+msgstr ""
+
+#: ../../VIS.rst:538
+msgid ""
+":mtgtip:`Viashino "
+"Sandstalker<https://img.scryfall.com/cards/border_crop/en/vis/100.jpg?1517813031|https://scryfall.com/card/vis/100"
+"/viashino-sandstalker?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:535
+msgid ""
+"Haste (This creature can attack and |tap| as soon as it comes under your "
+"control.)"
+msgstr ""
+
+#: ../../VIS.rst:537
+msgid ""
+"At the beginning of the end step, return Viashino Sandstalker to its "
+"owner's hand. (Return it only if it's on the battlefield.)"
+msgstr ""
+
+#: ../../VIS.rst:542
+msgid ""
+":mtgtip:`Bull "
+"Elephant<https://img.scryfall.com/cards/border_crop/en/vis/101.jpg?1517813031|https://scryfall.com/card/vis/101"
+"/bull-elephant?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:541
+msgid ""
+"When Bull Elephant enters the battlefield, sacrifice it unless you return"
+" two Forests you control to their owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:546
+msgid ""
+":mtgtip:`City of "
+"Solitude<https://img.scryfall.com/cards/border_crop/en/vis/102.jpg?1517813031|https://scryfall.com/card/vis/102"
+"/city-of-solitude?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:545
+msgid ""
+"Players can cast spells and activate abilities only during their own "
+"turns."
+msgstr ""
+
+#: ../../VIS.rst:550
+msgid ""
+":mtgtip:`Creeping "
+"Mold<https://img.scryfall.com/cards/border_crop/en/vis/103.jpg?1517813031|https://scryfall.com/card/vis/103"
+"/creeping-mold?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:549
+msgid "Destroy target artifact, enchantment, or land."
+msgstr ""
+
+#: ../../VIS.rst:558
+msgid ""
+":mtgtip:`Elephant "
+"Grass<https://img.scryfall.com/cards/border_crop/en/vis/104.jpg?1517813031|https://scryfall.com/card/vis/104"
+"/elephant-grass?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:553 ../../VIS.rst:681 ../../VIS.rst:781
+msgid ""
+"Cumulative upkeep |mana_1| (At the beginning of your upkeep, put an age "
+"counter on this permanent, then sacrifice it unless you pay its upkeep "
+"cost for each age counter on it.)"
+msgstr ""
+
+#: ../../VIS.rst:555
+msgid "Black creatures can't attack you."
+msgstr ""
+
+#: ../../VIS.rst:557
+msgid ""
+"Nonblack creatures can't attack you unless their controller pays |mana_2|"
+" for each creature they control that's attacking you."
+msgstr ""
+
+#: ../../VIS.rst:562
+msgid ""
+":mtgtip:`Elven "
+"Cache<https://img.scryfall.com/cards/border_crop/en/vis/105.jpg?1517813031|https://scryfall.com/card/vis/105"
+"/elven-cache?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:561
+msgid "Return target card from your graveyard to your hand."
+msgstr ""
+
+#: ../../VIS.rst:572
+msgid ""
+":mtgtip:`Emerald "
+"Charm<https://img.scryfall.com/cards/border_crop/en/vis/106.jpg?1517813031|https://scryfall.com/card/vis/106"
+"/emerald-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:567
+msgid "Untap target permanent."
+msgstr ""
+
+#: ../../VIS.rst:569
+msgid "Destroy target non-Aura enchantment."
+msgstr ""
+
+#: ../../VIS.rst:571
+msgid "Target creature loses flying until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:578
+msgid ""
+":mtgtip:`Feral "
+"Instinct<https://img.scryfall.com/cards/border_crop/en/vis/107.jpg?1517813031|https://scryfall.com/card/vis/107"
+"/feral-instinct?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:575
+msgid "Target creature gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:582
+msgid ""
+":mtgtip:`Giant "
+"Caterpillar<https://img.scryfall.com/cards/border_crop/en/vis/108.jpg?1517813031|https://scryfall.com/card/vis/108"
+"/giant-caterpillar?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:581
+msgid ""
+"|mana_g|, Sacrifice Giant Caterpillar: Create a 1/1 green Insect creature"
+" token with flying named Butterfly at the beginning of the next end step."
+msgstr ""
+
+#: ../../VIS.rst:588
+msgid ""
+":mtgtip:`Katabatic "
+"Winds<https://img.scryfall.com/cards/border_crop/en/vis/109.jpg?1517813031|https://scryfall.com/card/vis/109"
+"/katabatic-winds?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:587
+msgid ""
+"Creatures with flying can't attack or block, and their activated "
+"abilities with |tap| in their costs can't be activated."
+msgstr ""
+
+#: ../../VIS.rst:592
+msgid ""
+":mtgtip:`King "
+"Cheetah<https://img.scryfall.com/cards/border_crop/en/vis/110.jpg?1517813031|https://scryfall.com/card/vis/110"
+"/king-cheetah?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:591
+msgid "Flash"
+msgstr ""
+
+#: ../../VIS.rst:600
+msgid ""
+":mtgtip:`Kyscu "
+"Drake<https://img.scryfall.com/cards/border_crop/en/vis/111.jpg?1517813031|https://scryfall.com/card/vis/111"
+"/kyscu-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:597
+msgid ""
+"|mana_g|: Kyscu Drake gets +0/+1 until end of turn. Activate this ability"
+" only once each turn."
+msgstr ""
+
+#: ../../VIS.rst:599
+msgid ""
+"Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your "
+"library for a card named Viashivan Dragon and put that card onto the "
+"battlefield. Then shuffle your library."
+msgstr ""
+
+#: ../../VIS.rst:606
+msgid ":mtgtip:`Lichenthrope<https://img.scryfall.com/cards/border_crop/en/vis/112.jpg?1517813031|https://scryfall.com/card/vis/112/lichenthrope?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:603
+msgid ""
+"If damage would be dealt to Lichenthrope, put that many -1/-1 counters on"
+" it instead."
+msgstr ""
+
+#: ../../VIS.rst:605
+msgid "At the beginning of your upkeep, remove a -1/-1 counter from Lichenthrope."
+msgstr ""
+
+#: ../../VIS.rst:612
+msgid ""
+":mtgtip:`Mortal "
+"Wound<https://img.scryfall.com/cards/border_crop/en/vis/113.jpg?1517813031|https://scryfall.com/card/vis/113"
+"/mortal-wound?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:611
+msgid "When enchanted creature is dealt damage, destroy it."
+msgstr ""
+
+#: ../../VIS.rst:618
+msgid ""
+":mtgtip:`Natural "
+"Order<https://img.scryfall.com/cards/border_crop/en/vis/114.jpg?1517813031|https://scryfall.com/card/vis/114"
+"/natural-order?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:615
+msgid "As an additional cost to cast this spell, sacrifice a green creature."
+msgstr ""
+
+#: ../../VIS.rst:617
+msgid ""
+"Search your library for a green creature card and put it onto the "
+"battlefield. Then shuffle your library."
+msgstr ""
+
+#: ../../VIS.rst:620
+msgid ""
+":mtgtip:`Panther "
+"Warriors<https://img.scryfall.com/cards/border_crop/en/vis/115.jpg?1517813031|https://scryfall.com/card/vis/115"
+"/panther-warriors?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:626
+msgid ""
+":mtgtip:`Quirion "
+"Druid<https://img.scryfall.com/cards/border_crop/en/vis/116.jpg?1517813031|https://scryfall.com/card/vis/116"
+"/quirion-druid?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:625
+msgid ""
+"|mana_g|, |tap|: Target land becomes a 2/2 green creature that's still a "
+"land. (This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../VIS.rst:630
+msgid ""
+":mtgtip:`Quirion "
+"Ranger<https://img.scryfall.com/cards/border_crop/en/vis/117.jpg?1517813031|https://scryfall.com/card/vis/117"
+"/quirion-ranger?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:629
+msgid ""
+"Return a Forest you control to its owner's hand: Untap target creature. "
+"Activate this ability only once each turn."
+msgstr ""
+
+#: ../../VIS.rst:636
+msgid ""
+":mtgtip:`River "
+"Boa<https://img.scryfall.com/cards/border_crop/en/vis/118.jpg?1517813031|https://scryfall.com/card/vis/118"
+"/river-boa?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:633
+msgid ""
+"Islandwalk (This creature can't be blocked as long as defending player "
+"controls an Island.)"
+msgstr ""
+
+#: ../../VIS.rst:635
+msgid "|mana_g|: Regenerate River Boa."
+msgstr ""
+
+#: ../../VIS.rst:640
+msgid ":mtgtip:`Rowen<https://img.scryfall.com/cards/border_crop/en/vis/119.jpg?1517813031|https://scryfall.com/card/vis/119/rowen?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:639
+msgid ""
+"Reveal the first card you draw each turn. Whenever you reveal a basic "
+"land card this way, draw a card."
+msgstr ""
+
+#: ../../VIS.rst:648
+msgid ""
+":mtgtip:`Spider "
+"Climb<https://img.scryfall.com/cards/border_crop/en/vis/120.jpg?1517813031|https://scryfall.com/card/vis/120"
+"/spider-climb?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:643
+msgid ""
+"You may cast Spider Climb as though it had flash. If you cast it any time"
+" a sorcery couldn't have been cast, the controller of the permanent it "
+"becomes sacrifices it at the beginning of the next cleanup step."
+msgstr ""
+
+#: ../../VIS.rst:647
+msgid ""
+"Enchanted creature gets +0/+3 and has reach. (It can block creatures with"
+" flying.)"
+msgstr ""
+
+#: ../../VIS.rst:654
+msgid ""
+":mtgtip:`Stampeding "
+"Wildebeests<https://img.scryfall.com/cards/border_crop/en/vis/121.jpg?1517813031|https://scryfall.com/card/vis/121"
+"/stampeding-wildebeests?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:651
+msgid ""
+"Trample (This creature can deal excess combat damage to the player or "
+"planeswalker it's attacking.)"
+msgstr ""
+
+#: ../../VIS.rst:653
+msgid ""
+"At the beginning of your upkeep, return a green creature you control to "
+"its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:658
+msgid ""
+":mtgtip:`Summer "
+"Bloom<https://img.scryfall.com/cards/border_crop/en/vis/122.jpg?1517813031|https://scryfall.com/card/vis/122"
+"/summer-bloom?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:657
+msgid "You may play up to three additional lands this turn."
+msgstr ""
+
+#: ../../VIS.rst:662
+msgid ""
+":mtgtip:`Uktabi "
+"Orangutan<https://img.scryfall.com/cards/border_crop/en/vis/123.jpg?1517813031|https://scryfall.com/card/vis/123"
+"/uktabi-orangutan?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:661
+msgid "When Uktabi Orangutan enters the battlefield, destroy target artifact."
+msgstr ""
+
+#: ../../VIS.rst:666
+msgid ":mtgtip:`Warthog<https://img.scryfall.com/cards/border_crop/en/vis/124.jpg?1517813031|https://scryfall.com/card/vis/124/warthog?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:665
+msgid ""
+"Swampwalk (This creature can't be blocked as long as defending player "
+"controls a Swamp.)"
+msgstr ""
+
+#: ../../VIS.rst:670
+msgid ""
+":mtgtip:`Wind "
+"Shear<https://img.scryfall.com/cards/border_crop/en/vis/125.jpg?1517813031|https://scryfall.com/card/vis/125"
+"/wind-shear?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:669
+msgid ""
+"Attacking creatures with flying get -2/-2 and lose flying until end of "
+"turn."
+msgstr ""
+
+#: ../../VIS.rst:674
+msgid ""
+":mtgtip:`Army "
+"Ants<https://img.scryfall.com/cards/border_crop/en/vis/126.jpg?1517813031|https://scryfall.com/card/vis/126"
+"/army-ants?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:673
+msgid "|tap|, Sacrifice a land: Destroy target land."
+msgstr ""
+
+#: ../../VIS.rst:678
+msgid ""
+":mtgtip:`Breathstealer's "
+"Crypt<https://img.scryfall.com/cards/border_crop/en/vis/127.jpg?1517813031|https://scryfall.com/card/vis/127"
+"/breathstealers-crypt?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:677
+msgid ""
+"If a player would draw a card, instead they draw a card and reveal it. If"
+" it's a creature card, that player discards it unless they pay 3 life."
+msgstr ""
+
+#: ../../VIS.rst:686
+msgid ":mtgtip:`Corrosion<https://img.scryfall.com/cards/border_crop/en/vis/128.jpg?1517813031|https://scryfall.com/card/vis/128/corrosion?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:683
+msgid ""
+"At the beginning of your upkeep, put a rust counter on each artifact "
+"target opponent controls. Then destroy each artifact with converted mana "
+"cost less than or equal to the number of rust counters on it. Artifacts "
+"destroyed this way can't be regenerated."
+msgstr ""
+
+#: ../../VIS.rst:685
+msgid ""
+"When Corrosion leaves the battlefield, remove all rust counters from all "
+"permanents."
+msgstr ""
+
+#: ../../VIS.rst:690
+msgid ""
+":mtgtip:`Femeref "
+"Enchantress<https://img.scryfall.com/cards/border_crop/en/vis/129.jpg?1517813031|https://scryfall.com/card/vis/129"
+"/femeref-enchantress?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:689
+msgid ""
+"Whenever an enchantment is put into a graveyard from the battlefield, "
+"draw a card."
+msgstr ""
+
+#: ../../VIS.rst:696
+msgid ""
+":mtgtip:`Firestorm "
+"Hellkite<https://img.scryfall.com/cards/border_crop/en/vis/130.jpg?1517813031|https://scryfall.com/card/vis/130"
+"/firestorm-hellkite?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:693
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../VIS.rst:695
+msgid ""
+"Cumulative upkeep |mana_u|\\ |mana_r| (At the beginning of your upkeep, "
+"put an age counter on this permanent, then sacrifice it unless you pay "
+"its upkeep cost for each age counter on it.)"
+msgstr ""
+
+#: ../../VIS.rst:702
+msgid ""
+":mtgtip:`Guiding "
+"Spirit<https://img.scryfall.com/cards/border_crop/en/vis/131.jpg?1517813031|https://scryfall.com/card/vis/131"
+"/guiding-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:701
+msgid ""
+"|tap|: If the top card of target player's graveyard is a creature card, "
+"put that card on top of that player's library."
+msgstr ""
+
+#: ../../VIS.rst:706
+msgid ":mtgtip:`Mundungu<https://img.scryfall.com/cards/border_crop/en/vis/132.jpg?1517813031|https://scryfall.com/card/vis/132/mundungu?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:705
+msgid ""
+"|tap|: Counter target spell unless its controller pays |mana_1| and 1 "
+"life."
+msgstr ""
+
+#: ../../VIS.rst:710
+msgid ""
+":mtgtip:`Pygmy "
+"Hippo<https://img.scryfall.com/cards/border_crop/en/vis/133.jpg?1517813031|https://scryfall.com/card/vis/133"
+"/pygmy-hippo?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:709
+msgid ""
+"Whenever Pygmy Hippo attacks and isn't blocked, you may have defending "
+"player activate a mana ability of each land they control and lose all "
+"unspent mana. If you do, Pygmy Hippo assigns no combat damage this turn "
+"and at the beginning of your next main phase this turn, you add an amount"
+" of |colorless| equal to the amount of mana that player lost this way."
+msgstr ""
+
+#: ../../VIS.rst:716
+msgid ""
+":mtgtip:`Righteous "
+"War<https://img.scryfall.com/cards/border_crop/en/vis/134.jpg?1517813031|https://scryfall.com/card/vis/134"
+"/righteous-war?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:713
+msgid "White creatures you control have protection from black."
+msgstr ""
+
+#: ../../VIS.rst:715
+msgid "Black creatures you control have protection from white."
+msgstr ""
+
+#: ../../VIS.rst:720
+msgid ""
+":mtgtip:`Scalebane's "
+"Elite<https://img.scryfall.com/cards/border_crop/en/vis/135.jpg?1517813031|https://scryfall.com/card/vis/135"
+"/scalebanes-elite?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:719
+msgid "Protection from black"
+msgstr ""
+
+#: ../../VIS.rst:724
+msgid ":mtgtip:`Simoon<https://img.scryfall.com/cards/border_crop/en/vis/136.jpg?1517813031|https://scryfall.com/card/vis/136/simoon?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:723
+msgid "Simoon deals 1 damage to each creature target opponent controls."
+msgstr ""
+
+#: ../../VIS.rst:728
+msgid ""
+":mtgtip:`Squandered "
+"Resources<https://img.scryfall.com/cards/border_crop/en/vis/137.jpg?1517813031|https://scryfall.com/card/vis/137"
+"/squandered-resources?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:727
+msgid ""
+"Sacrifice a land: Add one mana of any type the sacrificed land could "
+"produce."
+msgstr ""
+
+#: ../../VIS.rst:734
+msgid ""
+":mtgtip:`Suleiman's "
+"Legacy<https://img.scryfall.com/cards/border_crop/en/vis/138.jpg?1517813031|https://scryfall.com/card/vis/138"
+"/suleimans-legacy?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:731
+msgid ""
+"When Suleiman's Legacy enters the battlefield, destroy all Djinns and "
+"Efreets. They can't be regenerated."
+msgstr ""
+
+#: ../../VIS.rst:733
+msgid ""
+"Whenever a Djinn or Efreet enters the battlefield, destroy it. It can't "
+"be regenerated."
+msgstr ""
+
+#: ../../VIS.rst:738
+msgid ""
+":mtgtip:`Tempest "
+"Drake<https://img.scryfall.com/cards/border_crop/en/vis/139.jpg?1517813031|https://scryfall.com/card/vis/139"
+"/tempest-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:746
+msgid ""
+":mtgtip:`Viashivan "
+"Dragon<https://img.scryfall.com/cards/border_crop/en/vis/140.jpg?1517813031|https://scryfall.com/card/vis/140"
+"/viashivan-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:743
+msgid "|mana_r|: Viashivan Dragon gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:745
+msgid "|mana_g|: Viashivan Dragon gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:752
+msgid ""
+":mtgtip:`Anvil of "
+"Bogardan<https://img.scryfall.com/cards/border_crop/en/vis/141.jpg?1517813031|https://scryfall.com/card/vis/141"
+"/anvil-of-bogardan?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:749
+msgid "Players have no maximum hand size."
+msgstr ""
+
+#: ../../VIS.rst:751
+msgid ""
+"At the beginning of each player's draw step, that player draws an "
+"additional card, then discards a card."
+msgstr ""
+
+#: ../../VIS.rst:758
+msgid ""
+":mtgtip:`Brass-Talon "
+"Chimera<https://img.scryfall.com/cards/border_crop/en/vis/142.jpg?1517813031|https://scryfall.com/card/vis/142"
+"/brass-talon-chimera?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:757
+msgid ""
+"Sacrifice Brass-Talon Chimera: Put a +2/+2 counter on target Chimera "
+"creature. It gains first strike. (This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../VIS.rst:764
+msgid ""
+":mtgtip:`Diamond "
+"Kaleidoscope<https://img.scryfall.com/cards/border_crop/en/vis/143.jpg?1517813031|https://scryfall.com/card/vis/143"
+"/diamond-kaleidoscope?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:761
+msgid "|mana_3|, |tap|: Create a 0/1 colorless Prism artifact creature token."
+msgstr ""
+
+#: ../../VIS.rst:763
+msgid "Sacrifice a Prism token: Add one mana of any color."
+msgstr ""
+
+#: ../../VIS.rst:768
+msgid ""
+":mtgtip:`Dragon "
+"Mask<https://img.scryfall.com/cards/border_crop/en/vis/144.jpg?1517813031|https://scryfall.com/card/vis/144"
+"/dragon-mask?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:767
+msgid ""
+"|mana_3|, |tap|: Target creature you control gets +2/+2 until end of "
+"turn. Return it to its owner's hand at the beginning of the next end "
+"step. (Return it only if it's on the battlefield.)"
+msgstr ""
+
+#: ../../VIS.rst:772
+msgid ""
+":mtgtip:`Helm of "
+"Awakening<https://img.scryfall.com/cards/border_crop/en/vis/145.jpg?1517813031|https://scryfall.com/card/vis/145"
+"/helm-of-awakening?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:771
+msgid "Spells cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../VIS.rst:778
+msgid ""
+":mtgtip:`Iron-Heart "
+"Chimera<https://img.scryfall.com/cards/border_crop/en/vis/146.jpg?1517813031|https://scryfall.com/card/vis/146"
+"/iron-heart-chimera?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:775
+msgid "Vigilance"
+msgstr ""
+
+#: ../../VIS.rst:777
+msgid ""
+"Sacrifice Iron-Heart Chimera: Put a +2/+2 counter on target Chimera "
+"creature. It gains vigilance. (This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../VIS.rst:786
+msgid ""
+":mtgtip:`Juju "
+"Bubble<https://img.scryfall.com/cards/border_crop/en/vis/147.jpg?1517813031|https://scryfall.com/card/vis/147"
+"/juju-bubble?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:783
+msgid "When you play a card, sacrifice Juju Bubble."
+msgstr ""
+
+#: ../../VIS.rst:785
+msgid "|mana_2|: You gain 1 life."
+msgstr ""
+
+#: ../../VIS.rst:792
+msgid ""
+":mtgtip:`Lead-Belly "
+"Chimera<https://img.scryfall.com/cards/border_crop/en/vis/148.jpg?1517813031|https://scryfall.com/card/vis/148"
+"/lead-belly-chimera?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:791
+msgid ""
+"Sacrifice Lead-Belly Chimera: Put a +2/+2 counter on target Chimera "
+"creature. It gains trample. (This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../VIS.rst:798
+msgid ""
+":mtgtip:`Magma "
+"Mine<https://img.scryfall.com/cards/border_crop/en/vis/149.jpg?1517813031|https://scryfall.com/card/vis/149"
+"/magma-mine?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:795
+msgid "|mana_4|: Put a pressure counter on Magma Mine."
+msgstr ""
+
+#: ../../VIS.rst:797
+msgid ""
+"|tap|, Sacrifice Magma Mine: It deals damage equal to the number of "
+"pressure counters on it to any target."
+msgstr ""
+
+#: ../../VIS.rst:802
+msgid ""
+":mtgtip:`Matopi "
+"Golem<https://img.scryfall.com/cards/border_crop/en/vis/150.jpg?1517813031|https://scryfall.com/card/vis/150"
+"/matopi-golem?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:801
+msgid ""
+"|mana_1|: Regenerate Matopi Golem. When it regenerates this way, put a "
+"-1/-1 counter on it."
+msgstr ""
+
+#: ../../VIS.rst:810
+msgid ""
+":mtgtip:`Phyrexian "
+"Marauder<https://img.scryfall.com/cards/border_crop/en/vis/151.jpg?1517813031|https://scryfall.com/card/vis/151"
+"/phyrexian-marauder?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:805
+msgid "Phyrexian Marauder enters the battlefield with X +1/+1 counters on it."
+msgstr ""
+
+#: ../../VIS.rst:807
+msgid "Phyrexian Marauder can't block."
+msgstr ""
+
+#: ../../VIS.rst:809
+msgid ""
+"Phyrexian Marauder can't attack unless you pay |mana_1| for each +1/+1 "
+"counter on it."
+msgstr ""
+
+#: ../../VIS.rst:812
+msgid ""
+":mtgtip:`Phyrexian "
+"Walker<https://img.scryfall.com/cards/border_crop/en/vis/152.jpg?1517813031|https://scryfall.com/card/vis/152"
+"/phyrexian-walker?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:820
+msgid ""
+":mtgtip:`Sands of "
+"Time<https://img.scryfall.com/cards/border_crop/en/vis/153.jpg?1517813031|https://scryfall.com/card/vis/153"
+"/sands-of-time?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:817
+msgid "Each player skips their untap step."
+msgstr ""
+
+#: ../../VIS.rst:819
+msgid ""
+"At the beginning of each player's upkeep, that player simultaneously "
+"untaps each tapped artifact, creature, and land they control and taps "
+"each untapped artifact, creature, and land they control."
+msgstr ""
+
+#: ../../VIS.rst:824
+msgid ""
+":mtgtip:`Sisay's "
+"Ring<https://img.scryfall.com/cards/border_crop/en/vis/154.jpg?1517813031|https://scryfall.com/card/vis/154"
+"/sisays-ring?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:823
+msgid "|tap|: Add |colorless|\\ |colorless|."
+msgstr ""
+
+#: ../../VIS.rst:828
+msgid ""
+":mtgtip:`Snake "
+"Basket<https://img.scryfall.com/cards/border_crop/en/vis/155.jpg?1517813031|https://scryfall.com/card/vis/155"
+"/snake-basket?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:827
+msgid ""
+"|mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature "
+"tokens. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../VIS.rst:832
+msgid ""
+":mtgtip:`Teferi's Puzzle "
+"Box<https://img.scryfall.com/cards/border_crop/en/vis/156.jpg?1517813031|https://scryfall.com/card/vis/156"
+"/teferis-puzzle-box?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:831
+msgid ""
+"At the beginning of each player's draw step, that player puts the cards "
+"in their hand on the bottom of their library in any order, then draws "
+"that many cards."
+msgstr ""
+
+#: ../../VIS.rst:838
+msgid ""
+":mtgtip:`Tin-Wing "
+"Chimera<https://img.scryfall.com/cards/border_crop/en/vis/157.jpg?1517813031|https://scryfall.com/card/vis/157"
+"/tin-wing-chimera?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:837
+msgid ""
+"Sacrifice Tin-Wing Chimera: Put a +2/+2 counter on target Chimera "
+"creature. It gains flying. (This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../VIS.rst:842
+msgid ""
+":mtgtip:`Triangle of "
+"War<https://img.scryfall.com/cards/border_crop/en/vis/158.jpg?1517813031|https://scryfall.com/card/vis/158"
+"/triangle-of-war?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:841
+msgid ""
+"|mana_2|, Sacrifice Triangle of War: Target creature you control fights "
+"target creature an opponent controls. (Each deals damage equal to its "
+"power to the other.)"
+msgstr ""
+
+#: ../../VIS.rst:846
+msgid ""
+":mtgtip:`Wand of "
+"Denial<https://img.scryfall.com/cards/border_crop/en/vis/159.jpg?1517813031|https://scryfall.com/card/vis/159"
+"/wand-of-denial?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:845
+msgid ""
+"|tap|: Look at the top card of target player's library. If it's a nonland"
+" card, you may pay 2 life. If you do, put it into that player's "
+"graveyard."
+msgstr ""
+
+#: ../../VIS.rst:854
+msgid ""
+":mtgtip:`Coral "
+"Atoll<https://img.scryfall.com/cards/border_crop/en/vis/160.jpg?1517813031|https://scryfall.com/card/vis/160"
+"/coral-atoll?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:849
+msgid "Coral Atoll enters the battlefield tapped."
+msgstr ""
+
+#: ../../VIS.rst:851
+msgid ""
+"When Coral Atoll enters the battlefield, sacrifice it unless you return "
+"an untapped Island you control to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:853
+msgid "|tap|: Add |colorless|\\ |mana_u|."
+msgstr ""
+
+#: ../../VIS.rst:862
+msgid ""
+":mtgtip:`Dormant "
+"Volcano<https://img.scryfall.com/cards/border_crop/en/vis/161.jpg?1517813031|https://scryfall.com/card/vis/161"
+"/dormant-volcano?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:857
+msgid "Dormant Volcano enters the battlefield tapped."
+msgstr ""
+
+#: ../../VIS.rst:859
+msgid ""
+"When Dormant Volcano enters the battlefield, sacrifice it unless you "
+"return an untapped Mountain you control to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:861
+msgid "|tap|: Add |colorless|\\ |mana_r|."
+msgstr ""
+
+#: ../../VIS.rst:870
+msgid ":mtgtip:`Everglades<https://img.scryfall.com/cards/border_crop/en/vis/162.jpg?1517813031|https://scryfall.com/card/vis/162/everglades?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:865
+msgid "Everglades enters the battlefield tapped."
+msgstr ""
+
+#: ../../VIS.rst:867
+msgid ""
+"When Everglades enters the battlefield, sacrifice it unless you return an"
+" untapped Swamp you control to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:869
+msgid "|tap|: Add |colorless|\\ |mana_b|."
+msgstr ""
+
+#: ../../VIS.rst:876
+msgid ""
+":mtgtip:`Griffin "
+"Canyon<https://img.scryfall.com/cards/border_crop/en/vis/163.jpg?1517813031|https://scryfall.com/card/vis/163"
+"/griffin-canyon?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:873 ../../VIS.rst:895
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../VIS.rst:875
+msgid ""
+"|tap|: Untap target Griffin. If it's a creature, it gets +1/+1 until end "
+"of turn."
+msgstr ""
+
+#: ../../VIS.rst:884
+msgid ""
+":mtgtip:`Jungle "
+"Basin<https://img.scryfall.com/cards/border_crop/en/vis/164.jpg?1517813031|https://scryfall.com/card/vis/164"
+"/jungle-basin?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:879
+msgid "Jungle Basin enters the battlefield tapped."
+msgstr ""
+
+#: ../../VIS.rst:881
+msgid ""
+"When Jungle Basin enters the battlefield, sacrifice it unless you return "
+"an untapped Forest you control to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:883
+msgid "|tap|: Add |colorless|\\ |mana_g|."
+msgstr ""
+
+#: ../../VIS.rst:892
+msgid ":mtgtip:`Karoo<https://img.scryfall.com/cards/border_crop/en/vis/165.jpg?1517813031|https://scryfall.com/card/vis/165/karoo?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:887
+msgid "Karoo enters the battlefield tapped."
+msgstr ""
+
+#: ../../VIS.rst:889
+msgid ""
+"When Karoo enters the battlefield, sacrifice it unless you return an "
+"untapped Plains you control to its owner's hand."
+msgstr ""
+
+#: ../../VIS.rst:891
+msgid "|tap|: Add |colorless|\\ |mana_w|."
+msgstr ""
+
+#: ../../VIS.rst:898
+msgid ":mtgtip:`Quicksand<https://img.scryfall.com/cards/border_crop/en/vis/166.jpg?1517813031|https://scryfall.com/card/vis/166/quicksand?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:897
+msgid ""
+"|tap|, Sacrifice Quicksand: Target attacking creature without flying gets"
+" -1/-2 until end of turn."
+msgstr ""
+
+#: ../../VIS.rst:901
+msgid ""
+":mtgtip:`Undiscovered "
+"Paradise<https://img.scryfall.com/cards/border_crop/en/vis/167.jpg?1517813031|https://scryfall.com/card/vis/167"
+"/undiscovered-paradise?utm_source=api>`"
+msgstr ""
+
+#: ../../VIS.rst:901
+msgid ""
+"|tap|: Add one mana of any color. During your next untap step, as you "
+"untap your permanents, return Undiscovered Paradise to its owner's hand."
+msgstr ""
+

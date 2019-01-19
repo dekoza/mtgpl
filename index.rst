@@ -29,18 +29,20 @@ Standard
 --------
 
 * :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
-* :mtgexp:`M19` :doc:`Magic 2019 Core Set<M19>` |p100|
+* :mtgexp:`M19` :doc:`Magic 2019<M19>` |p100|
 * :mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|
 * :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|
 * :mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|
 
 Modern
 ------
+
 * :doc:`Lista dodatków<modern>`
 
-Legacy
-------
-* Wkrótce
+Legacy / Vintage
+----------------
+
+* :doc:`Lista dodatków<legacy>`
 
 
 Pozostałe produkty
@@ -144,62 +146,9 @@ Legal notice
    DOM
    RIX
    XLN
-   HOU
-   AKH
-   AER
-   KLD
-   EMN
-   SOI
-   OGW
-   BFZ
-   ORI
-   DTK
-   FRF
-   KTK
-   M15
-   JOU
-   BNG
-   THS
-   M14
-   DGM
-   GTC
-   RTR
-   M13
-   AVR
-   DKA
-   ISD
-   M12
-   NPH
-   MBS
-   SOM
-   M11
-   ROE
-   WWK
-   ZEN
-   M10
-   ARB
-   CON
-   ALA
-   EVE
-   SHM
-   MOR
-   LRW
-   10E
-   FUT
-   PLC
-   TSP
-   CSP
-   DIS
-   GPT
-   RAV
-   9ED
-   SOK
-   BOK
-   CHK
-   5DN
-   DST
-   MRD
-   8ED
+
+   modern
+   legacy
 
    E02
    BBD
@@ -211,6 +160,7 @@ Legal notice
    C13
 
    EMA
+   GK2
    GK1
    GNT
    IMA

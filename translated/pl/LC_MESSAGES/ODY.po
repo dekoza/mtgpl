@@ -1,0 +1,4473 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 23:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../ODY.rst:5
+msgid ":mtgexp:`ODY` Odyssey"
+msgstr ""
+
+#: ../../ODY.rst:10
+msgid ""
+":mtgtip:`Aegis of "
+"Honor<https://img.scryfall.com/cards/border_crop/en/ody/1.jpg?1517813031|https://scryfall.com/card/ody/1"
+"/aegis-of-honor?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:9
+msgid ""
+"|mana_1|: The next time an instant or sorcery spell would deal damage to "
+"you this turn, that spell deals that damage to its controller instead."
+msgstr ""
+
+#: ../../ODY.rst:16
+msgid ""
+":mtgtip:`Ancestral "
+"Tribute<https://img.scryfall.com/cards/border_crop/en/ody/2.jpg?1517813031|https://scryfall.com/card/ody/2"
+"/ancestral-tribute?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:13
+msgid "You gain 2 life for each card in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:15
+msgid ""
+"Flashback |mana_9|\\ |mana_w|\\ |mana_w|\\ |mana_w| (You may cast this "
+"card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:22
+msgid ""
+":mtgtip:`Angelic "
+"Wall<https://img.scryfall.com/cards/border_crop/en/ody/3.jpg?1517813031|https://scryfall.com/card/ody/3"
+"/angelic-wall?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:19
+msgid "Defender (This creature can't attack.)"
+msgstr ""
+
+#: ../../ODY.rst:21 ../../ODY.rst:35 ../../ODY.rst:155 ../../ODY.rst:249
+#: ../../ODY.rst:321 ../../ODY.rst:351 ../../ODY.rst:381 ../../ODY.rst:397
+#: ../../ODY.rst:493 ../../ODY.rst:531 ../../ODY.rst:537 ../../ODY.rst:543
+#: ../../ODY.rst:585 ../../ODY.rst:621 ../../ODY.rst:637 ../../ODY.rst:663
+#: ../../ODY.rst:787 ../../ODY.rst:819 ../../ODY.rst:1493
+msgid "Flying"
+msgstr ""
+
+#: ../../ODY.rst:28
+msgid ""
+":mtgtip:`Animal "
+"Boneyard<https://img.scryfall.com/cards/border_crop/en/ody/4.jpg?1517813031|https://scryfall.com/card/ody/4"
+"/animal-boneyard?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:25 ../../ODY.rst:391 ../../ODY.rst:615 ../../ODY.rst:1121
+#: ../../ODY.rst:1379
+msgid "Enchant land"
+msgstr ""
+
+#: ../../ODY.rst:27
+msgid ""
+"Enchanted land has \"|tap|, Sacrifice a creature: You gain life equal to "
+"the sacrificed creature's toughness.\""
+msgstr ""
+
+#: ../../ODY.rst:32
+msgid ":mtgtip:`Auramancer<https://img.scryfall.com/cards/border_crop/en/ody/5.jpg?1517813031|https://scryfall.com/card/ody/5/auramancer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:31
+msgid ""
+"When Auramancer enters the battlefield, you may return target enchantment"
+" card from your graveyard to your hand."
+msgstr ""
+
+#: ../../ODY.rst:38
+msgid ""
+":mtgtip:`Aven "
+"Archer<https://img.scryfall.com/cards/border_crop/en/ody/6.jpg?1517813031|https://scryfall.com/card/ody/6"
+"/aven-archer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:37
+msgid ""
+"|mana_2|\\ |mana_w|, |tap|: Aven Archer deals 2 damage to target "
+"attacking or blocking creature."
+msgstr ""
+
+#: ../../ODY.rst:44
+msgid ""
+":mtgtip:`Aven "
+"Cloudchaser<https://img.scryfall.com/cards/border_crop/en/ody/7.jpg?1517813031|https://scryfall.com/card/ody/7"
+"/aven-cloudchaser?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:41 ../../ODY.rst:47 ../../ODY.rst:331 ../../ODY.rst:341
+msgid ""
+"Flying (This creature can't be blocked except by creatures with flying or"
+" reach.)"
+msgstr ""
+
+#: ../../ODY.rst:43
+msgid "When Aven Cloudchaser enters the battlefield, destroy target enchantment."
+msgstr ""
+
+#: ../../ODY.rst:50
+msgid ""
+":mtgtip:`Aven "
+"Flock<https://img.scryfall.com/cards/border_crop/en/ody/8.jpg?1517813031|https://scryfall.com/card/ody/8"
+"/aven-flock?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:49
+msgid "|mana_w|: Aven Flock gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:54
+msgid ""
+":mtgtip:`Aven "
+"Shrine<https://img.scryfall.com/cards/border_crop/en/ody/9.jpg?1517813031|https://scryfall.com/card/ody/9"
+"/aven-shrine?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:53
+msgid ""
+"Whenever a player casts a spell, that player gains X life, where X is the"
+" number of cards in all graveyards with the same name as that spell."
+msgstr ""
+
+#: ../../ODY.rst:58
+msgid ""
+":mtgtip:`Balancing "
+"Act<https://img.scryfall.com/cards/border_crop/en/ody/10.jpg?1517813031|https://scryfall.com/card/ody/10"
+"/balancing-act?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:57
+msgid ""
+"Each player chooses a number of permanents they control equal to the "
+"number of permanents controlled by the player who controls the fewest, "
+"then sacrifices the rest. Each player discards cards the same way."
+msgstr ""
+
+#: ../../ODY.rst:62
+msgid ""
+":mtgtip:`Beloved "
+"Chaplain<https://img.scryfall.com/cards/border_crop/en/ody/11.jpg?1517813031|https://scryfall.com/card/ody/11"
+"/beloved-chaplain?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:61
+msgid "Protection from creatures"
+msgstr ""
+
+#: ../../ODY.rst:66
+msgid ""
+":mtgtip:`Blessed "
+"Orator<https://img.scryfall.com/cards/border_crop/en/ody/12.jpg?1517813031|https://scryfall.com/card/ody/12"
+"/blessed-orator?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:65
+msgid "Other creatures you control get +0/+1."
+msgstr ""
+
+#: ../../ODY.rst:72
+msgid ":mtgtip:`Cantivore<https://img.scryfall.com/cards/border_crop/en/ody/13.jpg?1517813031|https://scryfall.com/card/ody/13/cantivore?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:69 ../../ODY.rst:181
+msgid "Vigilance"
+msgstr ""
+
+#: ../../ODY.rst:71
+msgid ""
+"Cantivore's power and toughness are each equal to the number of "
+"enchantment cards in all graveyards."
+msgstr ""
+
+#: ../../ODY.rst:78
+msgid ""
+":mtgtip:`Cease-"
+"Fire<https://img.scryfall.com/cards/border_crop/en/ody/14.jpg?1517813031|https://scryfall.com/card/ody/14"
+"/cease-fire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:75
+msgid "Target player can't cast creature spells this turn."
+msgstr ""
+
+#: ../../ODY.rst:77 ../../ODY.rst:121 ../../ODY.rst:239 ../../ODY.rst:245
+#: ../../ODY.rst:277 ../../ODY.rst:469 ../../ODY.rst:555 ../../ODY.rst:581
+#: ../../ODY.rst:673 ../../ODY.rst:1331 ../../ODY.rst:1417
+msgid "Draw a card."
+msgstr ""
+
+#: ../../ODY.rst:82
+msgid ":mtgtip:`Confessor<https://img.scryfall.com/cards/border_crop/en/ody/15.jpg?1517813031|https://scryfall.com/card/ody/15/confessor?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:81
+msgid "Whenever a player discards a card, you may gain 1 life."
+msgstr ""
+
+#: ../../ODY.rst:86
+msgid ""
+":mtgtip:`Dedicated "
+"Martyr<https://img.scryfall.com/cards/border_crop/en/ody/16.jpg?1517813031|https://scryfall.com/card/ody/16"
+"/dedicated-martyr?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:85
+msgid "|mana_w|, Sacrifice Dedicated Martyr: You gain 3 life."
+msgstr ""
+
+#: ../../ODY.rst:92
+msgid ""
+":mtgtip:`Delaying "
+"Shield<https://img.scryfall.com/cards/border_crop/en/ody/17.jpg?1517813031|https://scryfall.com/card/ody/17"
+"/delaying-shield?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:89
+msgid ""
+"If damage would be dealt to you, put that many delay counters on Delaying"
+" Shield instead."
+msgstr ""
+
+#: ../../ODY.rst:91
+msgid ""
+"At the beginning of your upkeep, remove all delay counters from Delaying "
+"Shield. For each delay counter removed this way, you lose 1 life unless "
+"you pay |mana_1|\\ |mana_w|."
+msgstr ""
+
+#: ../../ODY.rst:96
+msgid ""
+":mtgtip:`Devoted "
+"Caretaker<https://img.scryfall.com/cards/border_crop/en/ody/18.jpg?1517813031|https://scryfall.com/card/ody/18"
+"/devoted-caretaker?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:95
+msgid ""
+"|mana_w|, |tap|: Target permanent you control gains protection from "
+"instant spells and from sorcery spells until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:102
+msgid ""
+":mtgtip:`Divine "
+"Sacrament<https://img.scryfall.com/cards/border_crop/en/ody/19.jpg?1517813031|https://scryfall.com/card/ody/19"
+"/divine-sacrament?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:99
+msgid "White creatures get +1/+1."
+msgstr ""
+
+#: ../../ODY.rst:101
+msgid ""
+"Threshold — White creatures get an additional +1/+1 as long as seven or "
+"more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:106
+msgid ""
+":mtgtip:`Dogged "
+"Hunter<https://img.scryfall.com/cards/border_crop/en/ody/20.jpg?1517813031|https://scryfall.com/card/ody/20"
+"/dogged-hunter?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:105
+msgid "|tap|: Destroy target creature token."
+msgstr ""
+
+#: ../../ODY.rst:110
+msgid ""
+":mtgtip:`Earnest "
+"Fellowship<https://img.scryfall.com/cards/border_crop/en/ody/21.jpg?1517813031|https://scryfall.com/card/ody/21"
+"/earnest-fellowship?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:109
+msgid "Each creature has protection from its colors."
+msgstr ""
+
+#: ../../ODY.rst:116
+msgid ":mtgtip:`Embolden<https://img.scryfall.com/cards/border_crop/en/ody/22.jpg?1517813031|https://scryfall.com/card/ody/22/embolden?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:113
+msgid ""
+"Prevent the next 4 damage that would be dealt this turn to any number of "
+"targets, divided as you choose."
+msgstr ""
+
+#: ../../ODY.rst:115
+msgid ""
+"Flashback |mana_1|\\ |mana_w| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:122
+msgid ":mtgtip:`Gallantry<https://img.scryfall.com/cards/border_crop/en/ody/23.jpg?1517813031|https://scryfall.com/card/ody/23/gallantry?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:119
+msgid "Target blocking creature gets +4/+4 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:128
+msgid ""
+":mtgtip:`Graceful "
+"Antelope<https://img.scryfall.com/cards/border_crop/en/ody/24.jpg?1517813031|https://scryfall.com/card/ody/24"
+"/graceful-antelope?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:125
+msgid ""
+"Plainswalk (This creature can't be blocked as long as defending player "
+"controls a Plains.)"
+msgstr ""
+
+#: ../../ODY.rst:127
+msgid ""
+"Whenever Graceful Antelope deals combat damage to a player, you may have "
+"target land become a Plains until Graceful Antelope leaves the "
+"battlefield."
+msgstr ""
+
+#: ../../ODY.rst:134
+msgid ""
+":mtgtip:`Hallowed "
+"Healer<https://img.scryfall.com/cards/border_crop/en/ody/25.jpg?1517813031|https://scryfall.com/card/ody/25"
+"/hallowed-healer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:131
+msgid ""
+"|tap|: Prevent the next 2 damage that would be dealt to any target this "
+"turn."
+msgstr ""
+
+#: ../../ODY.rst:133
+msgid ""
+"Threshold — |tap|: Prevent the next 4 damage that would be dealt to any "
+"target this turn. Activate this ability only if seven or more cards are "
+"in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:138
+msgid ""
+":mtgtip:`Karmic "
+"Justice<https://img.scryfall.com/cards/border_crop/en/ody/26.jpg?1517813031|https://scryfall.com/card/ody/26"
+"/karmic-justice?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:137
+msgid ""
+"Whenever a spell or ability an opponent controls destroys a noncreature "
+"permanent you control, you may destroy target permanent that opponent "
+"controls."
+msgstr ""
+
+#: ../../ODY.rst:146
+msgid ""
+":mtgtip:`Kirtar's "
+"Desire<https://img.scryfall.com/cards/border_crop/en/ody/27.jpg?1517813031|https://scryfall.com/card/ody/27"
+"/kirtars-desire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:141 ../../ODY.rst:281 ../../ODY.rst:309 ../../ODY.rst:447
+#: ../../ODY.rst:487 ../../ODY.rst:779 ../../ODY.rst:833 ../../ODY.rst:997
+#: ../../ODY.rst:1207 ../../ODY.rst:1319 ../../ODY.rst:1349
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../ODY.rst:143
+msgid "Enchanted creature can't attack."
+msgstr ""
+
+#: ../../ODY.rst:145
+msgid ""
+"Threshold — Enchanted creature can't block as long as seven or more cards"
+" are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:152
+msgid ""
+":mtgtip:`Kirtar's "
+"Wrath<https://img.scryfall.com/cards/border_crop/en/ody/28.jpg?1517813031|https://scryfall.com/card/ody/28"
+"/kirtars-wrath?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:149
+msgid "Destroy all creatures. They can't be regenerated."
+msgstr ""
+
+#: ../../ODY.rst:151
+msgid ""
+"Threshold — If seven or more cards are in your graveyard, instead destroy"
+" all creatures, then create two 1/1 white Spirit creature tokens with "
+"flying. Creatures destroyed this way can't be regenerated."
+msgstr ""
+
+#: ../../ODY.rst:158
+msgid ""
+":mtgtip:`Lieutenant "
+"Kirtar<https://img.scryfall.com/cards/border_crop/en/ody/29.jpg?1517813031|https://scryfall.com/card/ody/29"
+"/lieutenant-kirtar?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:157
+msgid ""
+"|mana_1|\\ |mana_w|, Sacrifice Lieutenant Kirtar: Exile target attacking "
+"creature."
+msgstr ""
+
+#: ../../ODY.rst:162
+msgid ""
+":mtgtip:`Life "
+"Burst<https://img.scryfall.com/cards/border_crop/en/ody/30.jpg?1517813031|https://scryfall.com/card/ody/30"
+"/life-burst?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:161
+msgid ""
+"Target player gains 4 life, then gains 4 life for each card named Life "
+"Burst in each graveyard."
+msgstr ""
+
+#: ../../ODY.rst:168
+msgid ""
+":mtgtip:`Luminous "
+"Guardian<https://img.scryfall.com/cards/border_crop/en/ody/31.jpg?1517813031|https://scryfall.com/card/ody/31"
+"/luminous-guardian?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:165
+msgid "|mana_w|: Luminous Guardian gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:167
+msgid "|mana_2|: Luminous Guardian can block an additional creature this turn."
+msgstr ""
+
+#: ../../ODY.rst:172
+msgid ""
+":mtgtip:`Master "
+"Apothecary<https://img.scryfall.com/cards/border_crop/en/ody/32.jpg?1517813031|https://scryfall.com/card/ody/32"
+"/master-apothecary?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:171
+msgid ""
+"Tap an untapped Cleric you control: Prevent the next 2 damage that would "
+"be dealt to any target this turn."
+msgstr ""
+
+#: ../../ODY.rst:178
+msgid ""
+":mtgtip:`Mystic "
+"Crusader<https://img.scryfall.com/cards/border_crop/en/ody/33.jpg?1517813031|https://scryfall.com/card/ody/33"
+"/mystic-crusader?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:175
+msgid "Protection from black and from red"
+msgstr ""
+
+#: ../../ODY.rst:177
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, Mystic "
+"Crusader gets +1/+1 and has flying."
+msgstr ""
+
+#: ../../ODY.rst:184
+msgid ""
+":mtgtip:`Mystic "
+"Penitent<https://img.scryfall.com/cards/border_crop/en/ody/34.jpg?1517813031|https://scryfall.com/card/ody/34"
+"/mystic-penitent?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:183
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, Mystic "
+"Penitent gets +1/+1 and has flying."
+msgstr ""
+
+#: ../../ODY.rst:188
+msgid ""
+":mtgtip:`Mystic "
+"Visionary<https://img.scryfall.com/cards/border_crop/en/ody/35.jpg?1517813031|https://scryfall.com/card/ody/35"
+"/mystic-visionary?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:187
+msgid ""
+"Threshold — Mystic Visionary has flying as long as seven or more cards "
+"are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:192
+msgid ""
+":mtgtip:`Mystic "
+"Zealot<https://img.scryfall.com/cards/border_crop/en/ody/36.jpg?1517813031|https://scryfall.com/card/ody/36"
+"/mystic-zealot?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:191
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, Mystic "
+"Zealot gets +1/+1 and has flying."
+msgstr ""
+
+#: ../../ODY.rst:198
+msgid ""
+":mtgtip:`Nomad "
+"Decoy<https://img.scryfall.com/cards/border_crop/en/ody/37.jpg?1517813031|https://scryfall.com/card/ody/37"
+"/nomad-decoy?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:195
+msgid "|mana_w|, |tap|: Tap target creature."
+msgstr ""
+
+#: ../../ODY.rst:197
+msgid ""
+"Threshold — |mana_w|\\ |mana_w|, |tap|: Tap two target creatures. "
+"Activate this ability only if seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:202
+msgid ""
+":mtgtip:`Patrol "
+"Hound<https://img.scryfall.com/cards/border_crop/en/ody/38.jpg?1517813031|https://scryfall.com/card/ody/38"
+"/patrol-hound?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:201
+msgid "Discard a card: Patrol Hound gains first strike until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:206
+msgid ""
+":mtgtip:`Pianna, Nomad "
+"Captain<https://img.scryfall.com/cards/border_crop/en/ody/39.jpg?1517813031|https://scryfall.com/card/ody/39"
+"/pianna-nomad-captain?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:205
+msgid ""
+"Whenever Pianna, Nomad Captain attacks, attacking creatures get +1/+1 "
+"until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:212
+msgid ""
+":mtgtip:`Pilgrim of "
+"Justice<https://img.scryfall.com/cards/border_crop/en/ody/40.jpg?1517813031|https://scryfall.com/card/ody/40"
+"/pilgrim-of-justice?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:209
+msgid "Protection from red"
+msgstr ""
+
+#: ../../ODY.rst:211
+msgid ""
+"|mana_w|, Sacrifice Pilgrim of Justice: The next time a red source of "
+"your choice would deal damage this turn, prevent that damage."
+msgstr ""
+
+#: ../../ODY.rst:218
+msgid ""
+":mtgtip:`Pilgrim of "
+"Virtue<https://img.scryfall.com/cards/border_crop/en/ody/41.jpg?1517813031|https://scryfall.com/card/ody/41"
+"/pilgrim-of-virtue?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:215 ../../ODY.rst:1457
+msgid "Protection from black"
+msgstr ""
+
+#: ../../ODY.rst:217
+msgid ""
+"|mana_w|, Sacrifice Pilgrim of Virtue: The next time a black source of "
+"your choice would deal damage this turn, prevent that damage."
+msgstr ""
+
+#: ../../ODY.rst:224
+msgid ""
+":mtgtip:`Ray of "
+"Distortion<https://img.scryfall.com/cards/border_crop/en/ody/42.jpg?1517813031|https://scryfall.com/card/ody/42"
+"/ray-of-distortion?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:221
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../ODY.rst:223
+msgid ""
+"Flashback |mana_4|\\ |mana_w|\\ |mana_w| (You may cast this card from "
+"your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:230
+msgid ""
+":mtgtip:`Resilient "
+"Wanderer<https://img.scryfall.com/cards/border_crop/en/ody/43.jpg?1517813031|https://scryfall.com/card/ody/43"
+"/resilient-wanderer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:227 ../../ODY.rst:983
+msgid "First strike"
+msgstr ""
+
+#: ../../ODY.rst:229
+msgid ""
+"Discard a card: Resilient Wanderer gains protection from the color of "
+"your choice until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:234
+msgid ""
+":mtgtip:`Sacred "
+"Rites<https://img.scryfall.com/cards/border_crop/en/ody/44.jpg?1517813031|https://scryfall.com/card/ody/44"
+"/sacred-rites?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:233
+msgid ""
+"Discard any number of cards. Creatures you control get +0/+1 until end of"
+" turn for each card discarded this way."
+msgstr ""
+
+#: ../../ODY.rst:240
+msgid ""
+":mtgtip:`Second "
+"Thoughts<https://img.scryfall.com/cards/border_crop/en/ody/45.jpg?1517813031|https://scryfall.com/card/ody/45"
+"/second-thoughts?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:237
+msgid "Exile target attacking creature."
+msgstr ""
+
+#: ../../ODY.rst:246
+msgid ":mtgtip:`Shelter<https://img.scryfall.com/cards/border_crop/en/ody/46.jpg?1517813031|https://scryfall.com/card/ody/46/shelter?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:243
+msgid ""
+"Target creature you control gains protection from the color of your "
+"choice until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:252
+msgid ":mtgtip:`Soulcatcher<https://img.scryfall.com/cards/border_crop/en/ody/47.jpg?1517813031|https://scryfall.com/card/ody/47/soulcatcher?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:251
+msgid "Whenever a creature with flying dies, put a +1/+1 counter on Soulcatcher."
+msgstr ""
+
+#: ../../ODY.rst:256
+msgid ""
+":mtgtip:`Sphere of "
+"Duty<https://img.scryfall.com/cards/border_crop/en/ody/48.jpg?1517813031|https://scryfall.com/card/ody/48"
+"/sphere-of-duty?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:255
+msgid "If a green source would deal damage to you, prevent 2 of that damage."
+msgstr ""
+
+#: ../../ODY.rst:260
+msgid ""
+":mtgtip:`Sphere of "
+"Grace<https://img.scryfall.com/cards/border_crop/en/ody/49.jpg?1517813031|https://scryfall.com/card/ody/49"
+"/sphere-of-grace?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:259
+msgid "If a black source would deal damage to you, prevent 2 of that damage."
+msgstr ""
+
+#: ../../ODY.rst:264
+msgid ""
+":mtgtip:`Sphere of "
+"Law<https://img.scryfall.com/cards/border_crop/en/ody/50.jpg?1517813031|https://scryfall.com/card/ody/50"
+"/sphere-of-law?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:263
+msgid "If a red source would deal damage to you, prevent 2 of that damage."
+msgstr ""
+
+#: ../../ODY.rst:268
+msgid ""
+":mtgtip:`Sphere of "
+"Reason<https://img.scryfall.com/cards/border_crop/en/ody/51.jpg?1517813031|https://scryfall.com/card/ody/51"
+"/sphere-of-reason?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:267
+msgid "If a blue source would deal damage to you, prevent 2 of that damage."
+msgstr ""
+
+#: ../../ODY.rst:272
+msgid ""
+":mtgtip:`Sphere of "
+"Truth<https://img.scryfall.com/cards/border_crop/en/ody/52.jpg?1517813031|https://scryfall.com/card/ody/52"
+"/sphere-of-truth?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:271
+msgid "If a white source would deal damage to you, prevent 2 of that damage."
+msgstr ""
+
+#: ../../ODY.rst:278
+msgid ":mtgtip:`Spiritualize<https://img.scryfall.com/cards/border_crop/en/ody/53.jpg?1517813031|https://scryfall.com/card/ody/53/spiritualize?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:275
+msgid ""
+"Until end of turn, whenever target creature deals damage, you gain that "
+"much life."
+msgstr ""
+
+#: ../../ODY.rst:286
+msgid ""
+":mtgtip:`Tattoo "
+"Ward<https://img.scryfall.com/cards/border_crop/en/ody/54.jpg?1517813031|https://scryfall.com/card/ody/54"
+"/tattoo-ward?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:283
+msgid ""
+"Enchanted creature gets +1/+1 and has protection from enchantments. This "
+"effect doesn't remove Tattoo Ward."
+msgstr ""
+
+#: ../../ODY.rst:285
+msgid "Sacrifice Tattoo Ward: Destroy target enchantment."
+msgstr ""
+
+#: ../../ODY.rst:290
+msgid ""
+":mtgtip:`Testament of "
+"Faith<https://img.scryfall.com/cards/border_crop/en/ody/55.jpg?1517813031|https://scryfall.com/card/ody/55"
+"/testament-of-faith?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:289
+msgid ""
+"|mana_x|: Testament of Faith becomes an X/X Wall creature with defender "
+"in addition to its other types until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:294
+msgid ""
+":mtgtip:`Tireless "
+"Tribe<https://img.scryfall.com/cards/border_crop/en/ody/56.jpg?1517813031|https://scryfall.com/card/ody/56"
+"/tireless-tribe?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:293
+msgid "Discard a card: Tireless Tribe gets +0/+4 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:300
+msgid ""
+":mtgtip:`Wayward "
+"Angel<https://img.scryfall.com/cards/border_crop/en/ody/57.jpg?1517813031|https://scryfall.com/card/ody/57"
+"/wayward-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:297
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../ODY.rst:299
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, Wayward"
+" Angel gets +3/+3, is black, has trample, and has \"At the beginning of "
+"your upkeep, sacrifice a creature.\""
+msgstr ""
+
+#: ../../ODY.rst:306
+msgid ""
+":mtgtip:`Aboshan, Cephalid "
+"Emperor<https://img.scryfall.com/cards/border_crop/en/ody/58.jpg?1517813031|https://scryfall.com/card/ody/58"
+"/aboshan-cephalid-emperor?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:303
+msgid "Tap an untapped Cephalid you control: Tap target permanent."
+msgstr ""
+
+#: ../../ODY.rst:305
+msgid "|mana_u|\\ |mana_u|\\ |mana_u|: Tap all creatures without flying."
+msgstr ""
+
+#: ../../ODY.rst:314
+msgid ""
+":mtgtip:`Aboshan's "
+"Desire<https://img.scryfall.com/cards/border_crop/en/ody/59.jpg?1517813031|https://scryfall.com/card/ody/59"
+"/aboshans-desire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:311
+msgid "Enchanted creature has flying."
+msgstr ""
+
+#: ../../ODY.rst:313
+msgid ""
+"Threshold — Enchanted creature has shroud as long as seven or more cards "
+"are in your graveyard. (It can't be the target of spells or abilities.)"
+msgstr ""
+
+#: ../../ODY.rst:318
+msgid ""
+":mtgtip:`Aether "
+"Burst<https://img.scryfall.com/cards/border_crop/en/ody/60.jpg?1517813031|https://scryfall.com/card/ody/60"
+"/aether-burst?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:317
+msgid ""
+"Return up to X target creatures to their owners' hands, where X is one "
+"plus the number of cards named Aether Burst in all graveyards as you cast"
+" this spell."
+msgstr ""
+
+#: ../../ODY.rst:324
+msgid ":mtgtip:`Amugaba<https://img.scryfall.com/cards/border_crop/en/ody/61.jpg?1517813031|https://scryfall.com/card/ody/61/amugaba?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:323
+msgid "|mana_2|\\ |mana_u|, Discard a card: Return Amugaba to its owner's hand."
+msgstr ""
+
+#: ../../ODY.rst:328
+msgid ""
+":mtgtip:`Aura "
+"Graft<https://img.scryfall.com/cards/border_crop/en/ody/62.jpg?1517813031|https://scryfall.com/card/ody/62"
+"/aura-graft?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:327
+msgid ""
+"Gain control of target Aura that's attached to a permanent. Attach it to "
+"another permanent it can enchant."
+msgstr ""
+
+#: ../../ODY.rst:334
+msgid ""
+":mtgtip:`Aven "
+"Fisher<https://img.scryfall.com/cards/border_crop/en/ody/63.jpg?1517813031|https://scryfall.com/card/ody/63"
+"/aven-fisher?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:333
+msgid "When Aven Fisher dies, you may draw a card."
+msgstr ""
+
+#: ../../ODY.rst:338
+msgid ""
+":mtgtip:`Aven "
+"Smokeweaver<https://img.scryfall.com/cards/border_crop/en/ody/64.jpg?1517813031|https://scryfall.com/card/ody/64"
+"/aven-smokeweaver?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:337
+msgid "Flying, protection from red"
+msgstr ""
+
+#: ../../ODY.rst:344
+msgid ""
+":mtgtip:`Aven "
+"Windreader<https://img.scryfall.com/cards/border_crop/en/ody/65.jpg?1517813031|https://scryfall.com/card/ody/65"
+"/aven-windreader?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:343
+msgid "|mana_1|\\ |mana_u|: Target player reveals the top card of their library."
+msgstr ""
+
+#: ../../ODY.rst:348
+msgid ""
+":mtgtip:`Balshan "
+"Beguiler<https://img.scryfall.com/cards/border_crop/en/ody/66.jpg?1517813031|https://scryfall.com/card/ody/66"
+"/balshan-beguiler?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:347
+msgid ""
+"Whenever Balshan Beguiler deals combat damage to a player, that player "
+"reveals the top two cards of their library. You choose one of those cards"
+" and put it into their graveyard."
+msgstr ""
+
+#: ../../ODY.rst:354
+msgid ""
+":mtgtip:`Balshan "
+"Griffin<https://img.scryfall.com/cards/border_crop/en/ody/67.jpg?1517813031|https://scryfall.com/card/ody/67"
+"/balshan-griffin?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:353
+msgid ""
+"|mana_1|\\ |mana_u|, Discard a card: Return Balshan Griffin to its "
+"owner's hand."
+msgstr ""
+
+#: ../../ODY.rst:358
+msgid ":mtgtip:`Bamboozle<https://img.scryfall.com/cards/border_crop/en/ody/68.jpg?1517813031|https://scryfall.com/card/ody/68/bamboozle?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:357
+msgid ""
+"Target player reveals the top four cards of their library. You choose two"
+" of those cards and put them into that player's graveyard. Put the rest "
+"on top of their library in any order."
+msgstr ""
+
+#: ../../ODY.rst:362
+msgid ""
+":mtgtip:`Battle of "
+"Wits<https://img.scryfall.com/cards/border_crop/en/ody/69.jpg?1517813031|https://scryfall.com/card/ody/69"
+"/battle-of-wits?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:361
+msgid ""
+"At the beginning of your upkeep, if you have 200 or more cards in your "
+"library, you win the game."
+msgstr ""
+
+#: ../../ODY.rst:366
+msgid ""
+":mtgtip:`Careful "
+"Study<https://img.scryfall.com/cards/border_crop/en/ody/70.jpg?1517813031|https://scryfall.com/card/ody/70"
+"/careful-study?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:365
+msgid "Draw two cards, then discard two cards."
+msgstr ""
+
+#: ../../ODY.rst:370
+msgid ""
+":mtgtip:`Cephalid "
+"Broker<https://img.scryfall.com/cards/border_crop/en/ody/71.jpg?1517813031|https://scryfall.com/card/ody/71"
+"/cephalid-broker?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:369
+msgid "|tap|: Target player draws two cards, then discards two cards."
+msgstr ""
+
+#: ../../ODY.rst:374
+msgid ""
+":mtgtip:`Cephalid "
+"Looter<https://img.scryfall.com/cards/border_crop/en/ody/72.jpg?1517813031|https://scryfall.com/card/ody/72"
+"/cephalid-looter?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:373
+msgid "|tap|: Target player draws a card, then discards a card."
+msgstr ""
+
+#: ../../ODY.rst:378
+msgid ""
+":mtgtip:`Cephalid "
+"Retainer<https://img.scryfall.com/cards/border_crop/en/ody/73.jpg?1517813031|https://scryfall.com/card/ody/73"
+"/cephalid-retainer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:377
+msgid "|mana_u|\\ |mana_u|: Tap target creature without flying."
+msgstr ""
+
+#: ../../ODY.rst:384
+msgid ""
+":mtgtip:`Cephalid "
+"Scout<https://img.scryfall.com/cards/border_crop/en/ody/74.jpg?1517813031|https://scryfall.com/card/ody/74"
+"/cephalid-scout?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:383
+msgid "|mana_2|\\ |mana_u|, Sacrifice a land: Draw a card."
+msgstr ""
+
+#: ../../ODY.rst:388
+msgid ""
+":mtgtip:`Cephalid "
+"Shrine<https://img.scryfall.com/cards/border_crop/en/ody/75.jpg?1517813031|https://scryfall.com/card/ody/75"
+"/cephalid-shrine?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:387
+msgid ""
+"Whenever a player casts a spell, counter that spell unless that player "
+"pays |mana_x|, where X is the number of cards in all graveyards with the "
+"same name as the spell."
+msgstr ""
+
+#: ../../ODY.rst:394
+msgid ""
+":mtgtip:`Chamber of "
+"Manipulation<https://img.scryfall.com/cards/border_crop/en/ody/76.jpg?1517813031|https://scryfall.com/card/ody/76"
+"/chamber-of-manipulation?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:393
+msgid ""
+"Enchanted land has \"|tap|, Discard a card: Gain control of target "
+"creature until end of turn.\""
+msgstr ""
+
+#: ../../ODY.rst:400
+msgid ":mtgtip:`Cognivore<https://img.scryfall.com/cards/border_crop/en/ody/77.jpg?1517813031|https://scryfall.com/card/ody/77/cognivore?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:399
+msgid ""
+"Cognivore's power and toughness are each equal to the number of instant "
+"cards in all graveyards."
+msgstr ""
+
+#: ../../ODY.rst:404
+msgid ":mtgtip:`Concentrate<https://img.scryfall.com/cards/border_crop/en/ody/78.jpg?1517813031|https://scryfall.com/card/ody/78/concentrate?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:403
+msgid "Draw three cards."
+msgstr ""
+
+#: ../../ODY.rst:408
+msgid ""
+":mtgtip:`Cultural "
+"Exchange<https://img.scryfall.com/cards/border_crop/en/ody/79.jpg?1517813031|https://scryfall.com/card/ody/79"
+"/cultural-exchange?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:407
+msgid ""
+"Choose any number of creatures target player controls. Choose the same "
+"number of creatures another target player controls. Those players "
+"exchange control of those creatures. (This effect lasts indefinitely.)"
+msgstr ""
+
+#: ../../ODY.rst:412
+msgid ":mtgtip:`Deluge<https://img.scryfall.com/cards/border_crop/en/ody/80.jpg?1517813031|https://scryfall.com/card/ody/80/deluge?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:411
+msgid "Tap all creatures without flying."
+msgstr ""
+
+#: ../../ODY.rst:418
+msgid ":mtgtip:`Dematerialize<https://img.scryfall.com/cards/border_crop/en/ody/81.jpg?1517813031|https://scryfall.com/card/ody/81/dematerialize?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:415
+msgid "Return target permanent to its owner's hand."
+msgstr ""
+
+#: ../../ODY.rst:417 ../../ODY.rst:443
+msgid ""
+"Flashback |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card from "
+"your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:422
+msgid ":mtgtip:`Divert<https://img.scryfall.com/cards/border_crop/en/ody/82.jpg?1517813031|https://scryfall.com/card/ody/82/divert?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:421
+msgid ""
+"Change the target of target spell with a single target unless that "
+"spell's controller pays |mana_2|."
+msgstr ""
+
+#: ../../ODY.rst:428
+msgid ":mtgtip:`Dreamwinder<https://img.scryfall.com/cards/border_crop/en/ody/83.jpg?1517813031|https://scryfall.com/card/ody/83/dreamwinder?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:425
+msgid "Dreamwinder can't attack unless defending player controls an Island."
+msgstr ""
+
+#: ../../ODY.rst:427
+msgid ""
+"|mana_u|, Sacrifice an Island: Target land becomes an Island until end of"
+" turn."
+msgstr ""
+
+#: ../../ODY.rst:434
+msgid ""
+":mtgtip:`Escape "
+"Artist<https://img.scryfall.com/cards/border_crop/en/ody/84.jpg?1517813031|https://scryfall.com/card/ody/84"
+"/escape-artist?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:431
+msgid "Escape Artist can't be blocked."
+msgstr ""
+
+#: ../../ODY.rst:433
+msgid "|mana_u|, Discard a card: Return Escape Artist to its owner's hand."
+msgstr ""
+
+#: ../../ODY.rst:438
+msgid ":mtgtip:`Extract<https://img.scryfall.com/cards/border_crop/en/ody/85.jpg?1517813031|https://scryfall.com/card/ody/85/extract?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:437
+msgid ""
+"Search target player's library for a card and exile it. Then that player "
+"shuffles their library."
+msgstr ""
+
+#: ../../ODY.rst:444
+msgid ""
+":mtgtip:`Fervent "
+"Denial<https://img.scryfall.com/cards/border_crop/en/ody/86.jpg?1517813031|https://scryfall.com/card/ody/86"
+"/fervent-denial?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:441
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../ODY.rst:452
+msgid ""
+":mtgtip:`Immobilizing "
+"Ink<https://img.scryfall.com/cards/border_crop/en/ody/87.jpg?1517813031|https://scryfall.com/card/ody/87"
+"/immobilizing-ink?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:449
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../ODY.rst:451
+msgid "Enchanted creature has \"|mana_1|, Discard a card: Untap this creature.\""
+msgstr ""
+
+#: ../../ODY.rst:456
+msgid ""
+":mtgtip:`Laquatus's "
+"Creativity<https://img.scryfall.com/cards/border_crop/en/ody/88.jpg?1517813031|https://scryfall.com/card/ody/88"
+"/laquatuss-creativity?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:455
+msgid ""
+"Target player draws cards equal to the number of cards in their hand, "
+"then discards that many cards."
+msgstr ""
+
+#: ../../ODY.rst:460
+msgid ""
+":mtgtip:`Patron "
+"Wizard<https://img.scryfall.com/cards/border_crop/en/ody/89.jpg?1517813031|https://scryfall.com/card/ody/89"
+"/patron-wizard?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:459
+msgid ""
+"Tap an untapped Wizard you control: Counter target spell unless its "
+"controller pays |mana_1|."
+msgstr ""
+
+#: ../../ODY.rst:464
+msgid ""
+":mtgtip:`Pedantic "
+"Learning<https://img.scryfall.com/cards/border_crop/en/ody/90.jpg?1517813031|https://scryfall.com/card/ody/90"
+"/pedantic-learning?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:463
+msgid ""
+"Whenever a land card is put into your graveyard from your library, you "
+"may pay |mana_1|. If you do, draw a card."
+msgstr ""
+
+#: ../../ODY.rst:470
+msgid ":mtgtip:`Peek<https://img.scryfall.com/cards/border_crop/en/ody/91.jpg?1517813031|https://scryfall.com/card/ody/91/peek?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:467
+msgid "Look at target player's hand."
+msgstr ""
+
+#: ../../ODY.rst:476
+msgid ":mtgtip:`Persuasion<https://img.scryfall.com/cards/border_crop/en/ody/92.jpg?1517813031|https://scryfall.com/card/ody/92/persuasion?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:473
+msgid ""
+"Enchant creature (Target a creature as you cast this. This card enters "
+"the battlefield attached to that creature.)"
+msgstr ""
+
+#: ../../ODY.rst:475
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../ODY.rst:480
+msgid ""
+":mtgtip:`Phantom "
+"Whelp<https://img.scryfall.com/cards/border_crop/en/ody/93.jpg?1517813031|https://scryfall.com/card/ody/93"
+"/phantom-whelp?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:479
+msgid ""
+"When Phantom Whelp attacks or blocks, return it to its owner's hand at "
+"end of combat. (Return it only if it's on the battlefield.)"
+msgstr ""
+
+#: ../../ODY.rst:484
+msgid ":mtgtip:`Predict<https://img.scryfall.com/cards/border_crop/en/ody/94.jpg?1517813031|https://scryfall.com/card/ody/94/predict?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:483
+msgid ""
+"Choose a card name, then target player puts the top card of their library"
+" into their graveyard. If that card has the chosen name, you draw two "
+"cards. Otherwise, you draw a card."
+msgstr ""
+
+#: ../../ODY.rst:490
+msgid ""
+":mtgtip:`Psionic "
+"Gift<https://img.scryfall.com/cards/border_crop/en/ody/95.jpg?1517813031|https://scryfall.com/card/ody/95"
+"/psionic-gift?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:489
+msgid ""
+"Enchanted creature has \"|tap|: This creature deals 1 damage to any "
+"target.\""
+msgstr ""
+
+#: ../../ODY.rst:496
+msgid ""
+":mtgtip:`Pulsating "
+"Illusion<https://img.scryfall.com/cards/border_crop/en/ody/96.jpg?1517813031|https://scryfall.com/card/ody/96"
+"/pulsating-illusion?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:495
+msgid ""
+"Discard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate"
+" this ability only once each turn."
+msgstr ""
+
+#: ../../ODY.rst:500
+msgid ":mtgtip:`Puppeteer<https://img.scryfall.com/cards/border_crop/en/ody/97.jpg?1517813031|https://scryfall.com/card/ody/97/puppeteer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:499
+msgid "|mana_u|, |tap|: You may tap or untap target creature."
+msgstr ""
+
+#: ../../ODY.rst:504
+msgid ":mtgtip:`Repel<https://img.scryfall.com/cards/border_crop/en/ody/98.jpg?1517813031|https://scryfall.com/card/ody/98/repel?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:503
+msgid "Put target creature on top of its owner's library."
+msgstr ""
+
+#: ../../ODY.rst:508
+msgid ""
+":mtgtip:`Rites of "
+"Refusal<https://img.scryfall.com/cards/border_crop/en/ody/99.jpg?1517813031|https://scryfall.com/card/ody/99"
+"/rites-of-refusal?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:507
+msgid ""
+"Discard any number of cards. Counter target spell unless its controller "
+"pays |mana_3| for each card discarded this way."
+msgstr ""
+
+#: ../../ODY.rst:512
+msgid ":mtgtip:`Scrivener<https://img.scryfall.com/cards/border_crop/en/ody/100.jpg?1517813031|https://scryfall.com/card/ody/100/scrivener?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:511
+msgid ""
+"When Scrivener enters the battlefield, you may return target instant card"
+" from your graveyard to your hand."
+msgstr ""
+
+#: ../../ODY.rst:516
+msgid ""
+":mtgtip:`Shifty "
+"Doppelganger<https://img.scryfall.com/cards/border_crop/en/ody/101.jpg?1517813031|https://scryfall.com/card/ody/101"
+"/shifty-doppelganger?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:515
+msgid ""
+"|mana_3|\\ |mana_u|, Exile Shifty Doppelganger: You may put a creature "
+"card from your hand onto the battlefield. If you do, that creature gains "
+"haste until end of turn. At the beginning of the next end step, sacrifice"
+" that creature. If you do, return Shifty Doppelganger to the battlefield."
+msgstr ""
+
+#: ../../ODY.rst:520
+msgid ":mtgtip:`Standstill<https://img.scryfall.com/cards/border_crop/en/ody/102.jpg?1517813031|https://scryfall.com/card/ody/102/standstill?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:519
+msgid ""
+"When a player casts a spell, sacrifice Standstill. If you do, each of "
+"that player's opponents draws three cards."
+msgstr ""
+
+#: ../../ODY.rst:524
+msgid ":mtgtip:`Syncopate<https://img.scryfall.com/cards/border_crop/en/ody/103.jpg?1517813031|https://scryfall.com/card/ody/103/syncopate?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:523
+msgid ""
+"Counter target spell unless its controller pays |mana_x|. If that spell "
+"is countered this way, exile it instead of putting it into its owner's "
+"graveyard."
+msgstr ""
+
+#: ../../ODY.rst:528
+msgid ""
+":mtgtip:`Think "
+"Tank<https://img.scryfall.com/cards/border_crop/en/ody/104.jpg?1517813031|https://scryfall.com/card/ody/104"
+"/think-tank?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:527
+msgid ""
+"At the beginning of your upkeep, look at the top card of your library. "
+"You may put that card into your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:534
+msgid ""
+":mtgtip:`Thought "
+"Devourer<https://img.scryfall.com/cards/border_crop/en/ody/105.jpg?1517813031|https://scryfall.com/card/ody/105"
+"/thought-devourer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:533
+msgid "Your maximum hand size is reduced by four."
+msgstr ""
+
+#: ../../ODY.rst:540
+msgid ""
+":mtgtip:`Thought "
+"Eater<https://img.scryfall.com/cards/border_crop/en/ody/106.jpg?1517813031|https://scryfall.com/card/ody/106"
+"/thought-eater?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:539
+msgid "Your maximum hand size is reduced by three."
+msgstr ""
+
+#: ../../ODY.rst:546
+msgid ""
+":mtgtip:`Thought "
+"Nibbler<https://img.scryfall.com/cards/border_crop/en/ody/107.jpg?1517813031|https://scryfall.com/card/ody/107"
+"/thought-nibbler?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:545
+msgid "Your maximum hand size is reduced by two."
+msgstr ""
+
+#: ../../ODY.rst:550
+msgid ""
+":mtgtip:`Time "
+"Stretch<https://img.scryfall.com/cards/border_crop/en/ody/108.jpg?1517813031|https://scryfall.com/card/ody/108"
+"/time-stretch?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:549
+msgid "Target player takes two extra turns after this one."
+msgstr ""
+
+#: ../../ODY.rst:556
+msgid ""
+":mtgtip:`Touch of "
+"Invisibility<https://img.scryfall.com/cards/border_crop/en/ody/109.jpg?1517813031|https://scryfall.com/card/ody/109"
+"/touch-of-invisibility?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:553
+msgid "Target creature can't be blocked this turn."
+msgstr ""
+
+#: ../../ODY.rst:560
+msgid ":mtgtip:`Traumatize<https://img.scryfall.com/cards/border_crop/en/ody/110.jpg?1517813031|https://scryfall.com/card/ody/110/traumatize?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:559
+msgid ""
+"Target player puts the top half of their library, rounded down, into "
+"their graveyard."
+msgstr ""
+
+#: ../../ODY.rst:564
+msgid ""
+":mtgtip:`Treetop "
+"Sentinel<https://img.scryfall.com/cards/border_crop/en/ody/111.jpg?1517813031|https://scryfall.com/card/ody/111"
+"/treetop-sentinel?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:563
+msgid "Flying, protection from green"
+msgstr ""
+
+#: ../../ODY.rst:568
+msgid ""
+":mtgtip:`Unifying "
+"Theory<https://img.scryfall.com/cards/border_crop/en/ody/112.jpg?1517813031|https://scryfall.com/card/ody/112"
+"/unifying-theory?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:567
+msgid ""
+"Whenever a player casts a spell, that player may pay |mana_2|. If the "
+"player does, they draw a card."
+msgstr ""
+
+#: ../../ODY.rst:572
+msgid ":mtgtip:`Upheaval<https://img.scryfall.com/cards/border_crop/en/ody/113.jpg?1517813031|https://scryfall.com/card/ody/113/upheaval?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:571
+msgid "Return all permanents to their owners' hands."
+msgstr ""
+
+#: ../../ODY.rst:576
+msgid ""
+":mtgtip:`Words of "
+"Wisdom<https://img.scryfall.com/cards/border_crop/en/ody/114.jpg?1517813031|https://scryfall.com/card/ody/114"
+"/words-of-wisdom?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:575
+msgid "You draw two cards, then each other player draws a card."
+msgstr ""
+
+#: ../../ODY.rst:582
+msgid ":mtgtip:`Afflict<https://img.scryfall.com/cards/border_crop/en/ody/115.jpg?1517813031|https://scryfall.com/card/ody/115/afflict?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:579
+msgid "Target creature gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:590
+msgid ":mtgtip:`Bloodcurdler<https://img.scryfall.com/cards/border_crop/en/ody/116.jpg?1517813031|https://scryfall.com/card/ody/116/bloodcurdler?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:587
+msgid ""
+"At the beginning of your upkeep, put the top card of your library into "
+"your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:589
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, "
+"Bloodcurdler gets +1/+1 and has \"At the beginning of your end step, "
+"exile two cards from your graveyard.\""
+msgstr ""
+
+#: ../../ODY.rst:594
+msgid ""
+":mtgtip:`Braids, Cabal "
+"Minion<https://img.scryfall.com/cards/border_crop/en/ody/117.jpg?1517813031|https://scryfall.com/card/ody/117"
+"/braids-cabal-minion?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:593
+msgid ""
+"At the beginning of each player's upkeep, that player sacrifices an "
+"artifact, creature, or land."
+msgstr ""
+
+#: ../../ODY.rst:598
+msgid ""
+":mtgtip:`Buried "
+"Alive<https://img.scryfall.com/cards/border_crop/en/ody/118.jpg?1517813031|https://scryfall.com/card/ody/118"
+"/buried-alive?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:597
+msgid ""
+"Search your library for up to three creature cards, put them into your "
+"graveyard, then shuffle your library."
+msgstr ""
+
+#: ../../ODY.rst:602
+msgid ""
+":mtgtip:`Cabal "
+"Inquisitor<https://img.scryfall.com/cards/border_crop/en/ody/119.jpg?1517813031|https://scryfall.com/card/ody/119"
+"/cabal-inquisitor?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:601
+msgid ""
+"Threshold — |mana_1|\\ |mana_b|, |tap|, Exile two cards from your "
+"graveyard: Target player discards a card. Activate this ability only any "
+"time you could cast a sorcery and only if seven or more cards are in your"
+" graveyard."
+msgstr ""
+
+#: ../../ODY.rst:608
+msgid ""
+":mtgtip:`Cabal "
+"Patriarch<https://img.scryfall.com/cards/border_crop/en/ody/120.jpg?1526949545|https://scryfall.com/card/ody/120"
+"/cabal-patriarch?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:605
+msgid ""
+"|mana_2|\\ |mana_b|, Sacrifice a creature: Target creature gets -2/-2 "
+"until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:607
+msgid ""
+"|mana_2|\\ |mana_b|, Exile a creature card from your graveyard: Target "
+"creature gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:612
+msgid ""
+":mtgtip:`Cabal "
+"Shrine<https://img.scryfall.com/cards/border_crop/en/ody/121.jpg?1517813031|https://scryfall.com/card/ody/121"
+"/cabal-shrine?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:611
+msgid ""
+"Whenever a player casts a spell, that player discards X cards, where X is"
+" the number of cards in all graveyards with the same name as that spell."
+msgstr ""
+
+#: ../../ODY.rst:618
+msgid ""
+":mtgtip:`Caustic "
+"Tar<https://img.scryfall.com/cards/border_crop/en/ody/122.jpg?1517813031|https://scryfall.com/card/ody/122"
+"/caustic-tar?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:617
+msgid "Enchanted land has \"|tap|: Target player loses 3 life.\""
+msgstr ""
+
+#: ../../ODY.rst:624
+msgid ""
+":mtgtip:`Childhood "
+"Horror<https://img.scryfall.com/cards/border_crop/en/ody/123.jpg?1517813031|https://scryfall.com/card/ody/123"
+"/childhood-horror?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:623
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, "
+"Childhood Horror gets +2/+2 and can't block."
+msgstr ""
+
+#: ../../ODY.rst:630
+msgid ""
+":mtgtip:`Coffin "
+"Purge<https://img.scryfall.com/cards/border_crop/en/ody/124.jpg?1517813031|https://scryfall.com/card/ody/124"
+"/coffin-purge?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:627
+msgid "Exile target card from a graveyard."
+msgstr ""
+
+#: ../../ODY.rst:629
+msgid ""
+"Flashback |mana_b| (You may cast this card from your graveyard for its "
+"flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:634
+msgid ""
+":mtgtip:`Crypt "
+"Creeper<https://img.scryfall.com/cards/border_crop/en/ody/125.jpg?1517813031|https://scryfall.com/card/ody/125"
+"/crypt-creeper?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:633
+msgid "Sacrifice Crypt Creeper: Exile target card from a graveyard."
+msgstr ""
+
+#: ../../ODY.rst:640
+msgid ""
+":mtgtip:`Cursed "
+"Monstrosity<https://img.scryfall.com/cards/border_crop/en/ody/126.jpg?1517813031|https://scryfall.com/card/ody/126"
+"/cursed-monstrosity?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:639
+msgid ""
+"Whenever Cursed Monstrosity becomes the target of a spell or ability, "
+"sacrifice it unless you discard a land card."
+msgstr ""
+
+#: ../../ODY.rst:646
+msgid ""
+":mtgtip:`Decaying "
+"Soil<https://img.scryfall.com/cards/border_crop/en/ody/127.jpg?1517813031|https://scryfall.com/card/ody/127"
+"/decaying-soil?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:643
+msgid "At the beginning of your upkeep, exile a card from your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:645
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, "
+"Decaying Soil has \"Whenever a nontoken creature is put into your "
+"graveyard from the battlefield, you may pay |mana_1|. If you do, return "
+"that card to your hand.\""
+msgstr ""
+
+#: ../../ODY.rst:650
+msgid ":mtgtip:`Decompose<https://img.scryfall.com/cards/border_crop/en/ody/128.jpg?1517813031|https://scryfall.com/card/ody/128/decompose?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:649
+msgid "Exile up to three target cards from a single graveyard."
+msgstr ""
+
+#: ../../ODY.rst:654
+msgid ""
+":mtgtip:`Diabolic "
+"Tutor<https://img.scryfall.com/cards/border_crop/en/ody/129.jpg?1517813031|https://scryfall.com/card/ody/129"
+"/diabolic-tutor?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:653
+msgid ""
+"Search your library for a card and put that card into your hand. Then "
+"shuffle your library."
+msgstr ""
+
+#: ../../ODY.rst:660
+msgid ""
+":mtgtip:`Dirty "
+"Wererat<https://img.scryfall.com/cards/border_crop/en/ody/130.jpg?1517813031|https://scryfall.com/card/ody/130"
+"/dirty-wererat?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:657
+msgid "|mana_b|, Discard a card: Regenerate Dirty Wererat."
+msgstr ""
+
+#: ../../ODY.rst:659
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, Dirty "
+"Wererat gets +2/+2 and can't block."
+msgstr ""
+
+#: ../../ODY.rst:664
+msgid ""
+":mtgtip:`Dusk "
+"Imp<https://img.scryfall.com/cards/border_crop/en/ody/131.jpg?1517813031|https://scryfall.com/card/ody/131"
+"/dusk-imp?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:668
+msgid ":mtgtip:`Entomb<https://img.scryfall.com/cards/border_crop/en/ody/132.jpg?1517813031|https://scryfall.com/card/ody/132/entomb?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:667
+msgid ""
+"Search your library for a card and put that card into your graveyard. "
+"Then shuffle your library."
+msgstr ""
+
+#: ../../ODY.rst:674
+msgid ":mtgtip:`Execute<https://img.scryfall.com/cards/border_crop/en/ody/133.jpg?1517813031|https://scryfall.com/card/ody/133/execute?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:671
+msgid "Destroy target white creature. It can't be regenerated."
+msgstr ""
+
+#: ../../ODY.rst:678
+msgid ""
+":mtgtip:`Face of "
+"Fear<https://img.scryfall.com/cards/border_crop/en/ody/134.jpg?1517813031|https://scryfall.com/card/ody/134"
+"/face-of-fear?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:677
+msgid ""
+"|mana_2|\\ |mana_b|, Discard a card: Face of Fear gains fear until end of"
+" turn. (It can't be blocked except by artifact creatures and/or black "
+"creatures.)"
+msgstr ""
+
+#: ../../ODY.rst:682
+msgid ""
+":mtgtip:`Famished "
+"Ghoul<https://img.scryfall.com/cards/border_crop/en/ody/135.jpg?1517813031|https://scryfall.com/card/ody/135"
+"/famished-ghoul?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:681
+msgid ""
+"|mana_1|\\ |mana_b|, Sacrifice Famished Ghoul: Exile up to two target "
+"cards from a single graveyard."
+msgstr ""
+
+#: ../../ODY.rst:686
+msgid ""
+":mtgtip:`Filthy "
+"Cur<https://img.scryfall.com/cards/border_crop/en/ody/136.jpg?1517813031|https://scryfall.com/card/ody/136"
+"/filthy-cur?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:685
+msgid "Whenever Filthy Cur is dealt damage, you lose that much life."
+msgstr ""
+
+#: ../../ODY.rst:690
+msgid ""
+":mtgtip:`Fledgling "
+"Imp<https://img.scryfall.com/cards/border_crop/en/ody/137.jpg?1517813031|https://scryfall.com/card/ody/137"
+"/fledgling-imp?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:689
+msgid "|mana_b|, Discard a card: Fledgling Imp gains flying until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:696
+msgid ":mtgtip:`Frightcrawler<https://img.scryfall.com/cards/border_crop/en/ody/138.jpg?1517813031|https://scryfall.com/card/ody/138/frightcrawler?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:693 ../../ODY.rst:1481
+msgid ""
+"Fear (This creature can't be blocked except by artifact creatures and/or "
+"black creatures.)"
+msgstr ""
+
+#: ../../ODY.rst:695
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, "
+"Frightcrawler gets +2/+2 and can't block."
+msgstr ""
+
+#: ../../ODY.rst:700
+msgid ""
+":mtgtip:`Ghastly "
+"Demise<https://img.scryfall.com/cards/border_crop/en/ody/139.jpg?1517813031|https://scryfall.com/card/ody/139"
+"/ghastly-demise?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:699
+msgid ""
+"Destroy target nonblack creature if its toughness is less than or equal "
+"to the number of cards in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:704
+msgid ":mtgtip:`Gravedigger<https://img.scryfall.com/cards/border_crop/en/ody/140.jpg?1517813031|https://scryfall.com/card/ody/140/gravedigger?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:703
+msgid ""
+"When Gravedigger enters the battlefield, you may return target creature "
+"card from your graveyard to your hand."
+msgstr ""
+
+#: ../../ODY.rst:708
+msgid ":mtgtip:`Gravestorm<https://img.scryfall.com/cards/border_crop/en/ody/141.jpg?1517813031|https://scryfall.com/card/ody/141/gravestorm?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:707
+msgid ""
+"At the beginning of your upkeep, target opponent may exile a card from "
+"their graveyard. If that player doesn't, you may draw a card."
+msgstr ""
+
+#: ../../ODY.rst:712
+msgid ""
+":mtgtip:`Haunting "
+"Echoes<https://img.scryfall.com/cards/border_crop/en/ody/142.jpg?1517813031|https://scryfall.com/card/ody/142"
+"/haunting-echoes?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:711
+msgid ""
+"Exile all cards from target player's graveyard other than basic land "
+"cards. For each card exiled this way, search that player's library for "
+"all cards with the same name as that card and exile them. Then that "
+"player shuffles their library."
+msgstr ""
+
+#: ../../ODY.rst:716
+msgid ""
+":mtgtip:`Hint of "
+"Insanity<https://img.scryfall.com/cards/border_crop/en/ody/143.jpg?1517813031|https://scryfall.com/card/ody/143"
+"/hint-of-insanity?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:715
+msgid ""
+"Target player reveals their hand. That player discards all nonland cards "
+"with the same name as another card in their hand."
+msgstr ""
+
+#: ../../ODY.rst:722
+msgid ""
+":mtgtip:`Infected "
+"Vermin<https://img.scryfall.com/cards/border_crop/en/ody/144.jpg?1517813031|https://scryfall.com/card/ody/144"
+"/infected-vermin?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:719
+msgid ""
+"|mana_2|\\ |mana_b|: Infected Vermin deals 1 damage to each creature and "
+"each player."
+msgstr ""
+
+#: ../../ODY.rst:721
+msgid ""
+"Threshold — |mana_3|\\ |mana_b|: Infected Vermin deals 3 damage to each "
+"creature and each player. Activate this ability only if seven or more "
+"cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:726
+msgid ""
+":mtgtip:`Innocent "
+"Blood<https://img.scryfall.com/cards/border_crop/en/ody/145.jpg?1517813031|https://scryfall.com/card/ody/145"
+"/innocent-blood?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:725
+msgid "Each player sacrifices a creature."
+msgstr ""
+
+#: ../../ODY.rst:730
+msgid ""
+":mtgtip:`Last "
+"Rites<https://img.scryfall.com/cards/border_crop/en/ody/146.jpg?1517813031|https://scryfall.com/card/ody/146"
+"/last-rites?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:729
+msgid ""
+"Discard any number of cards. Target player reveals their hand, then you "
+"choose a nonland card from it for each card discarded this way. That "
+"player discards those cards."
+msgstr ""
+
+#: ../../ODY.rst:734
+msgid ""
+":mtgtip:`Malevolent "
+"Awakening<https://img.scryfall.com/cards/border_crop/en/ody/147.jpg?1517813031|https://scryfall.com/card/ody/147"
+"/malevolent-awakening?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:733
+msgid ""
+"|mana_1|\\ |mana_b|\\ |mana_b|, Sacrifice a creature: Return target "
+"creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../ODY.rst:738
+msgid ""
+":mtgtip:`Mind "
+"Burst<https://img.scryfall.com/cards/border_crop/en/ody/148.jpg?1517813031|https://scryfall.com/card/ody/148"
+"/mind-burst?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:737
+msgid ""
+"Target player discards X cards, where X is one plus the number of cards "
+"named Mind Burst in all graveyards."
+msgstr ""
+
+#: ../../ODY.rst:742
+msgid ":mtgtip:`Mindslicer<https://img.scryfall.com/cards/border_crop/en/ody/149.jpg?1517813031|https://scryfall.com/card/ody/149/mindslicer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:741
+msgid "When Mindslicer dies, each player discards their hand."
+msgstr ""
+
+#: ../../ODY.rst:748
+msgid ""
+":mtgtip:`Morbid "
+"Hunger<https://img.scryfall.com/cards/border_crop/en/ody/150.jpg?1517813031|https://scryfall.com/card/ody/150"
+"/morbid-hunger?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:745
+msgid "Morbid Hunger deals 3 damage to any target. You gain 3 life."
+msgstr ""
+
+#: ../../ODY.rst:747
+msgid ""
+"Flashback |mana_7|\\ |mana_b|\\ |mana_b| (You may cast this card from "
+"your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:754
+msgid ""
+":mtgtip:`Morgue "
+"Theft<https://img.scryfall.com/cards/border_crop/en/ody/151.jpg?1517813031|https://scryfall.com/card/ody/151"
+"/morgue-theft?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:751
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../ODY.rst:753
+msgid ""
+"Flashback |mana_4|\\ |mana_b| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:760
+msgid ":mtgtip:`Mortivore<https://img.scryfall.com/cards/border_crop/en/ody/152.jpg?1517813031|https://scryfall.com/card/ody/152/mortivore?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:757
+msgid ""
+"Mortivore's power and toughness are each equal to the number of creature "
+"cards in all graveyards."
+msgstr ""
+
+#: ../../ODY.rst:759
+msgid "|mana_b|: Regenerate Mortivore."
+msgstr ""
+
+#: ../../ODY.rst:768
+msgid ""
+":mtgtip:`Nefarious "
+"Lich<https://img.scryfall.com/cards/border_crop/en/ody/153.jpg?1517813031|https://scryfall.com/card/ody/153"
+"/nefarious-lich?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:763
+msgid ""
+"If damage would be dealt to you, exile that many cards from your "
+"graveyard instead. If you can't, you lose the game."
+msgstr ""
+
+#: ../../ODY.rst:765
+msgid "If you would gain life, draw that many cards instead."
+msgstr ""
+
+#: ../../ODY.rst:767
+msgid "When Nefarious Lich leaves the battlefield, you lose the game."
+msgstr ""
+
+#: ../../ODY.rst:772
+msgid ""
+":mtgtip:`Overeager "
+"Apprentice<https://img.scryfall.com/cards/border_crop/en/ody/154.jpg?1517813031|https://scryfall.com/card/ody/154"
+"/overeager-apprentice?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:771
+msgid ""
+"Discard a card, Sacrifice Overeager Apprentice: Add |mana_b|\\ |mana_b|\\"
+" |mana_b|."
+msgstr ""
+
+#: ../../ODY.rst:776
+msgid ":mtgtip:`Painbringer<https://img.scryfall.com/cards/border_crop/en/ody/155.jpg?1517813031|https://scryfall.com/card/ody/155/painbringer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:775
+msgid ""
+"|tap|, Exile any number of cards from your graveyard: Target creature "
+"gets -X/-X until end of turn, where X is the number of cards exiled this "
+"way."
+msgstr ""
+
+#: ../../ODY.rst:784
+msgid ""
+":mtgtip:`Patriarch's "
+"Desire<https://img.scryfall.com/cards/border_crop/en/ody/156.jpg?1517813031|https://scryfall.com/card/ody/156"
+"/patriarchs-desire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:781
+msgid "Enchanted creature gets +2/-2."
+msgstr ""
+
+#: ../../ODY.rst:783
+msgid ""
+"Threshold — Enchanted creature gets an additional +2/-2 as long as seven "
+"or more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:792
+msgid ""
+":mtgtip:`Repentant "
+"Vampire<https://img.scryfall.com/cards/border_crop/en/ody/157.jpg?1517813031|https://scryfall.com/card/ody/157"
+"/repentant-vampire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:789
+msgid ""
+"Whenever a creature dealt damage by Repentant Vampire this turn dies, put"
+" a +1/+1 counter on Repentant Vampire."
+msgstr ""
+
+#: ../../ODY.rst:791
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, "
+"Repentant Vampire is white and has \"|tap|: Destroy target black "
+"creature.\""
+msgstr ""
+
+#: ../../ODY.rst:796
+msgid ""
+":mtgtip:`Rotting "
+"Giant<https://img.scryfall.com/cards/border_crop/en/ody/158.jpg?1517813031|https://scryfall.com/card/ody/158"
+"/rotting-giant?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:795
+msgid ""
+"Whenever Rotting Giant attacks or blocks, sacrifice it unless you exile a"
+" card from your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:800
+msgid ""
+":mtgtip:`Sadistic "
+"Hypnotist<https://img.scryfall.com/cards/border_crop/en/ody/159.jpg?1517813031|https://scryfall.com/card/ody/159"
+"/sadistic-hypnotist?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:799
+msgid ""
+"Sacrifice a creature: Target player discards two cards. Activate this "
+"ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../ODY.rst:804
+msgid ""
+":mtgtip:`Screams of the "
+"Damned<https://img.scryfall.com/cards/border_crop/en/ody/160.jpg?1517813031|https://scryfall.com/card/ody/160"
+"/screams-of-the-damned?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:803
+msgid ""
+"|mana_1|\\ |mana_b|, Exile a card from your graveyard: Screams of the "
+"Damned deals 1 damage to each creature and each player."
+msgstr ""
+
+#: ../../ODY.rst:810
+msgid ""
+":mtgtip:`Skeletal "
+"Scrying<https://img.scryfall.com/cards/border_crop/en/ody/161.jpg?1517813031|https://scryfall.com/card/ody/161"
+"/skeletal-scrying?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:807
+msgid ""
+"As an additional cost to cast this spell, exile X cards from your "
+"graveyard."
+msgstr ""
+
+#: ../../ODY.rst:809
+msgid "You draw X cards and you lose X life."
+msgstr ""
+
+#: ../../ODY.rst:816
+msgid ""
+":mtgtip:`Skull "
+"Fracture<https://img.scryfall.com/cards/border_crop/en/ody/162.jpg?1517813031|https://scryfall.com/card/ody/162"
+"/skull-fracture?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:813
+msgid "Target player discards a card."
+msgstr ""
+
+#: ../../ODY.rst:815
+msgid ""
+"Flashback |mana_3|\\ |mana_b| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:822
+msgid ""
+":mtgtip:`Stalking "
+"Bloodsucker<https://img.scryfall.com/cards/border_crop/en/ody/163.jpg?1517813031|https://scryfall.com/card/ody/163"
+"/stalking-bloodsucker?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:821
+msgid ""
+"|mana_1|\\ |mana_b|, Discard a card: Stalking Bloodsucker gets +2/+2 "
+"until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:826
+msgid ""
+":mtgtip:`Tainted "
+"Pact<https://img.scryfall.com/cards/border_crop/en/ody/164.jpg?1517813031|https://scryfall.com/card/ody/164"
+"/tainted-pact?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:825
+msgid ""
+"Exile the top card of your library. You may put that card into your hand "
+"unless it has the same name as another card exiled this way. Repeat this "
+"process until you put a card into your hand or you exile two cards with "
+"the same name, whichever comes first."
+msgstr ""
+
+#: ../../ODY.rst:830
+msgid ":mtgtip:`Tombfire<https://img.scryfall.com/cards/border_crop/en/ody/165.jpg?1517813031|https://scryfall.com/card/ody/165/tombfire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:829
+msgid "Target player exiles all cards with flashback from their graveyard."
+msgstr ""
+
+#: ../../ODY.rst:840
+msgid ""
+":mtgtip:`Traveling "
+"Plague<https://img.scryfall.com/cards/border_crop/en/ody/166.jpg?1517813031|https://scryfall.com/card/ody/166"
+"/traveling-plague?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:835
+msgid "At the beginning of each upkeep, put a plague counter on Traveling Plague."
+msgstr ""
+
+#: ../../ODY.rst:837
+msgid "Enchanted creature gets -1/-1 for each plague counter on Traveling Plague."
+msgstr ""
+
+#: ../../ODY.rst:839
+msgid ""
+"When enchanted creature leaves the battlefield, that creature's "
+"controller returns Traveling Plague from its owner's graveyard to the "
+"battlefield."
+msgstr ""
+
+#: ../../ODY.rst:846
+msgid ""
+":mtgtip:`Whispering "
+"Shade<https://img.scryfall.com/cards/border_crop/en/ody/167.jpg?1517813031|https://scryfall.com/card/ody/167"
+"/whispering-shade?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:843
+msgid ""
+"Swampwalk (This creature can't be blocked as long as defending player "
+"controls a Swamp.)"
+msgstr ""
+
+#: ../../ODY.rst:845
+msgid "|mana_b|: Whispering Shade gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:850
+msgid ""
+":mtgtip:`Zombie "
+"Assassin<https://img.scryfall.com/cards/border_crop/en/ody/168.jpg?1517813031|https://scryfall.com/card/ody/168"
+"/zombie-assassin?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:849
+msgid ""
+"|tap|, Exile two cards from your graveyard and Zombie Assassin: Destroy "
+"target nonblack creature. It can't be regenerated."
+msgstr ""
+
+#: ../../ODY.rst:854
+msgid ""
+":mtgtip:`Zombie "
+"Cannibal<https://img.scryfall.com/cards/border_crop/en/ody/169.jpg?1517813031|https://scryfall.com/card/ody/169"
+"/zombie-cannibal?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:853
+msgid ""
+"Whenever Zombie Cannibal deals combat damage to a player, you may exile "
+"target card from that player's graveyard."
+msgstr ""
+
+#: ../../ODY.rst:858
+msgid ""
+":mtgtip:`Zombie "
+"Infestation<https://img.scryfall.com/cards/border_crop/en/ody/170.jpg?1517813031|https://scryfall.com/card/ody/170"
+"/zombie-infestation?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:857
+msgid "Discard two cards: Create a 2/2 black Zombie creature token."
+msgstr ""
+
+#: ../../ODY.rst:862
+msgid ":mtgtip:`Zombify<https://img.scryfall.com/cards/border_crop/en/ody/171.jpg?1517813031|https://scryfall.com/card/ody/171/zombify?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:861
+msgid "Return target creature card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../ODY.rst:868
+msgid ""
+":mtgtip:`Acceptable "
+"Losses<https://img.scryfall.com/cards/border_crop/en/ody/172.jpg?1517813031|https://scryfall.com/card/ody/172"
+"/acceptable-losses?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:865
+msgid "As an additional cost to cast this spell, discard a card at random."
+msgstr ""
+
+#: ../../ODY.rst:867
+msgid "Acceptable Losses deals 5 damage to target creature."
+msgstr ""
+
+#: ../../ODY.rst:872
+msgid ":mtgtip:`Anarchist<https://img.scryfall.com/cards/border_crop/en/ody/173.jpg?1517813031|https://scryfall.com/card/ody/173/anarchist?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:871
+msgid ""
+"When Anarchist enters the battlefield, you may return target sorcery card"
+" from your graveyard to your hand."
+msgstr ""
+
+#: ../../ODY.rst:876
+msgid ""
+":mtgtip:`Ashen "
+"Firebeast<https://img.scryfall.com/cards/border_crop/en/ody/174.jpg?1517813031|https://scryfall.com/card/ody/174"
+"/ashen-firebeast?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:875
+msgid ""
+"|mana_1|\\ |mana_r|: Ashen Firebeast deals 1 damage to each creature "
+"without flying."
+msgstr ""
+
+#: ../../ODY.rst:880
+msgid ""
+":mtgtip:`Barbarian "
+"Lunatic<https://img.scryfall.com/cards/border_crop/en/ody/175.jpg?1517813031|https://scryfall.com/card/ody/175"
+"/barbarian-lunatic?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:879
+msgid ""
+"|mana_2|\\ |mana_r|, Sacrifice Barbarian Lunatic: It deals 2 damage to "
+"target creature."
+msgstr ""
+
+#: ../../ODY.rst:886
+msgid ""
+":mtgtip:`Bash to "
+"Bits<https://img.scryfall.com/cards/border_crop/en/ody/176.jpg?1517813031|https://scryfall.com/card/ody/176"
+"/bash-to-bits?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:883
+msgid "Destroy target artifact."
+msgstr ""
+
+#: ../../ODY.rst:885
+msgid ""
+"Flashback |mana_4|\\ |mana_r|\\ |mana_r| (You may cast this card from "
+"your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:890
+msgid ""
+":mtgtip:`Battle "
+"Strain<https://img.scryfall.com/cards/border_crop/en/ody/177.jpg?1517813031|https://scryfall.com/card/ody/177"
+"/battle-strain?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:889
+msgid ""
+"Whenever a creature blocks, Battle Strain deals 1 damage to that "
+"creature's controller."
+msgstr ""
+
+#: ../../ODY.rst:894
+msgid ""
+":mtgtip:`Blazing "
+"Salvo<https://img.scryfall.com/cards/border_crop/en/ody/178.jpg?1517813031|https://scryfall.com/card/ody/178"
+"/blazing-salvo?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:893
+msgid ""
+"Blazing Salvo deals 3 damage to target creature unless that creature's "
+"controller has Blazing Salvo deal 5 damage to them."
+msgstr ""
+
+#: ../../ODY.rst:902
+msgid ""
+":mtgtip:`Bomb "
+"Squad<https://img.scryfall.com/cards/border_crop/en/ody/179.jpg?1517813031|https://scryfall.com/card/ody/179"
+"/bomb-squad?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:897
+msgid "|tap|: Put a fuse counter on target creature."
+msgstr ""
+
+#: ../../ODY.rst:899
+msgid ""
+"At the beginning of your upkeep, put a fuse counter on each creature with"
+" a fuse counter on it."
+msgstr ""
+
+#: ../../ODY.rst:901
+msgid ""
+"Whenever a creature has four or more fuse counters on it, remove all fuse"
+" counters from it and destroy it. That creature deals 4 damage to its "
+"controller."
+msgstr ""
+
+#: ../../ODY.rst:906
+msgid ""
+":mtgtip:`Burning "
+"Sands<https://img.scryfall.com/cards/border_crop/en/ody/180.jpg?1517813031|https://scryfall.com/card/ody/180"
+"/burning-sands?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:905
+msgid "Whenever a creature dies, that creature's controller sacrifices a land."
+msgstr ""
+
+#: ../../ODY.rst:912
+msgid ":mtgtip:`Chainflinger<https://img.scryfall.com/cards/border_crop/en/ody/181.jpg?1517813031|https://scryfall.com/card/ody/181/chainflinger?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:909
+msgid "|mana_1|\\ |mana_r|, |tap|: Chainflinger deals 1 damage to any target."
+msgstr ""
+
+#: ../../ODY.rst:911
+msgid ""
+"Threshold — |mana_2|\\ |mana_r|, |tap|: Chainflinger deals 2 damage to "
+"any target. Activate this ability only if seven or more cards are in your"
+" graveyard."
+msgstr ""
+
+#: ../../ODY.rst:918
+msgid ""
+":mtgtip:`Chance "
+"Encounter<https://img.scryfall.com/cards/border_crop/en/ody/182.jpg?1517813031|https://scryfall.com/card/ody/182"
+"/chance-encounter?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:915
+msgid "Whenever you win a coin flip, put a luck counter on Chance Encounter."
+msgstr ""
+
+#: ../../ODY.rst:917
+msgid ""
+"At the beginning of your upkeep, if Chance Encounter has ten or more luck"
+" counters on it, you win the game."
+msgstr ""
+
+#: ../../ODY.rst:922
+msgid ":mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/en/ody/183.jpg?1517813031|https://scryfall.com/card/ody/183/demolish?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:921
+msgid "Destroy target artifact or land."
+msgstr ""
+
+#: ../../ODY.rst:928
+msgid ":mtgtip:`Demoralize<https://img.scryfall.com/cards/border_crop/en/ody/184.jpg?1517813031|https://scryfall.com/card/ody/184/demoralize?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:925
+msgid ""
+"All creatures gain menace until end of turn. (They can't be blocked "
+"except by two or more creatures.)"
+msgstr ""
+
+#: ../../ODY.rst:927
+msgid ""
+"Threshold — If seven or more cards are in your graveyard, creatures can't"
+" block this turn."
+msgstr ""
+
+#: ../../ODY.rst:932
+msgid ""
+":mtgtip:`Dwarven "
+"Grunt<https://img.scryfall.com/cards/border_crop/en/ody/185.jpg?1517813031|https://scryfall.com/card/ody/185"
+"/dwarven-grunt?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:931
+msgid ""
+"Mountainwalk (This creature can't be blocked as long as defending player "
+"controls a Mountain.)"
+msgstr ""
+
+#: ../../ODY.rst:936
+msgid ""
+":mtgtip:`Dwarven "
+"Recruiter<https://img.scryfall.com/cards/border_crop/en/ody/186.jpg?1517813031|https://scryfall.com/card/ody/186"
+"/dwarven-recruiter?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:935
+msgid ""
+"When Dwarven Recruiter enters the battlefield, search your library for "
+"any number of Dwarf cards and reveal those cards. Shuffle your library, "
+"then put them on top of it in any order."
+msgstr ""
+
+#: ../../ODY.rst:940
+msgid ""
+":mtgtip:`Dwarven "
+"Shrine<https://img.scryfall.com/cards/border_crop/en/ody/187.jpg?1517813031|https://scryfall.com/card/ody/187"
+"/dwarven-shrine?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:939
+msgid ""
+"Whenever a player casts a spell, Dwarven Shrine deals X damage to that "
+"player, where X is twice the number of cards in all graveyards with the "
+"same name as that spell."
+msgstr ""
+
+#: ../../ODY.rst:944
+msgid ""
+":mtgtip:`Dwarven Strike "
+"Force<https://img.scryfall.com/cards/border_crop/en/ody/188.jpg?1517813031|https://scryfall.com/card/ody/188"
+"/dwarven-strike-force?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:943
+msgid ""
+"Discard a card at random: Dwarven Strike Force gains first strike and "
+"haste until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:950
+msgid ""
+":mtgtip:`Earth "
+"Rift<https://img.scryfall.com/cards/border_crop/en/ody/189.jpg?1517813031|https://scryfall.com/card/ody/189"
+"/earth-rift?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:947
+msgid "Destroy target land."
+msgstr ""
+
+#: ../../ODY.rst:949
+msgid ""
+"Flashback |mana_5|\\ |mana_r|\\ |mana_r| (You may cast this card from "
+"your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:954
+msgid ""
+":mtgtip:`Ember "
+"Beast<https://img.scryfall.com/cards/border_crop/en/ody/190.jpg?1517813031|https://scryfall.com/card/ody/190"
+"/ember-beast?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:953
+msgid "Ember Beast can't attack or block alone."
+msgstr ""
+
+#: ../../ODY.rst:960
+msgid ""
+":mtgtip:`Engulfing "
+"Flames<https://img.scryfall.com/cards/border_crop/en/ody/191.jpg?1517813031|https://scryfall.com/card/ody/191"
+"/engulfing-flames?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:957
+msgid ""
+"Engulfing Flames deals 1 damage to target creature. It can't be "
+"regenerated this turn."
+msgstr ""
+
+#: ../../ODY.rst:959 ../../ODY.rst:1083
+msgid ""
+"Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:966
+msgid ":mtgtip:`Epicenter<https://img.scryfall.com/cards/border_crop/en/ody/192.jpg?1517813031|https://scryfall.com/card/ody/192/epicenter?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:963
+msgid "Target player sacrifices a land."
+msgstr ""
+
+#: ../../ODY.rst:965
+msgid ""
+"Threshold — Each player sacrifices all lands they control instead if "
+"seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:972
+msgid ":mtgtip:`Firebolt<https://img.scryfall.com/cards/border_crop/en/ody/193.jpg?1517813031|https://scryfall.com/card/ody/193/firebolt?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:969
+msgid "Firebolt deals 2 damage to any target."
+msgstr ""
+
+#: ../../ODY.rst:971
+msgid ""
+"Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:976
+msgid ""
+":mtgtip:`Flame "
+"Burst<https://img.scryfall.com/cards/border_crop/en/ody/194.jpg?1517813031|https://scryfall.com/card/ody/194"
+"/flame-burst?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:975
+msgid ""
+"Flame Burst deals X damage to any target, where X is 2 plus the number of"
+" cards named Flame Burst in all graveyards."
+msgstr ""
+
+#: ../../ODY.rst:980
+msgid ""
+":mtgtip:`Frenetic "
+"Ogre<https://img.scryfall.com/cards/border_crop/en/ody/195.jpg?1517813031|https://scryfall.com/card/ody/195"
+"/frenetic-ogre?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:979
+msgid ""
+"|mana_r|, Discard a card at random: Frenetic Ogre gets +3/+0 until end of"
+" turn."
+msgstr ""
+
+#: ../../ODY.rst:984
+msgid ":mtgtip:`Halberdier<https://img.scryfall.com/cards/border_crop/en/ody/196.jpg?1517813031|https://scryfall.com/card/ody/196/halberdier?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:988
+msgid ""
+":mtgtip:`Impulsive "
+"Maneuvers<https://img.scryfall.com/cards/border_crop/en/ody/197.jpg?1517813031|https://scryfall.com/card/ody/197"
+"/impulsive-maneuvers?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:987
+msgid ""
+"Whenever a creature attacks, flip a coin. If you win the flip, the next "
+"time that creature would deal combat damage this turn, it deals double "
+"that damage instead. If you lose the flip, the next time that creature "
+"would deal combat damage this turn, prevent that damage."
+msgstr ""
+
+#: ../../ODY.rst:994
+msgid ""
+":mtgtip:`Kamahl, Pit "
+"Fighter<https://img.scryfall.com/cards/border_crop/en/ody/198.jpg?1517813031|https://scryfall.com/card/ody/198"
+"/kamahl-pit-fighter?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:991 ../../ODY.rst:1023
+msgid ""
+"Haste (This creature can attack and |tap| as soon as it comes under your "
+"control.)"
+msgstr ""
+
+#: ../../ODY.rst:993
+msgid "|tap|: Kamahl, Pit Fighter deals 3 damage to any target."
+msgstr ""
+
+#: ../../ODY.rst:1002
+msgid ""
+":mtgtip:`Kamahl's "
+"Desire<https://img.scryfall.com/cards/border_crop/en/ody/199.jpg?1517813031|https://scryfall.com/card/ody/199"
+"/kamahls-desire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:999
+msgid "Enchanted creature has first strike."
+msgstr ""
+
+#: ../../ODY.rst:1001
+msgid ""
+"Threshold — Enchanted creature gets +3/+0 as long as seven or more cards "
+"are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1006
+msgid ""
+":mtgtip:`Lava "
+"Blister<https://img.scryfall.com/cards/border_crop/en/ody/200.jpg?1517813031|https://scryfall.com/card/ody/200"
+"/lava-blister?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1005
+msgid ""
+"Destroy target nonbasic land unless its controller has Lava Blister deal "
+"6 damage to them."
+msgstr ""
+
+#: ../../ODY.rst:1012
+msgid ""
+":mtgtip:`Liquid "
+"Fire<https://img.scryfall.com/cards/border_crop/en/ody/201.jpg?1517813031|https://scryfall.com/card/ody/201"
+"/liquid-fire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1009
+msgid "As an additional cost to cast this spell, choose a number between 0 and 5."
+msgstr ""
+
+#: ../../ODY.rst:1011
+msgid ""
+"Liquid Fire deals X damage to target creature and 5 minus X damage to "
+"that creature's controller, where X is the chosen number."
+msgstr ""
+
+#: ../../ODY.rst:1016
+msgid ""
+":mtgtip:`Mad "
+"Dog<https://img.scryfall.com/cards/border_crop/en/ody/202.jpg?1517813031|https://scryfall.com/card/ody/202"
+"/mad-dog?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1015
+msgid ""
+"At the beginning of your end step, if Mad Dog didn't attack or come under"
+" your control this turn, sacrifice it."
+msgstr ""
+
+#: ../../ODY.rst:1020
+msgid ""
+":mtgtip:`Magma "
+"Vein<https://img.scryfall.com/cards/border_crop/en/ody/203.jpg?1517813031|https://scryfall.com/card/ody/203"
+"/magma-vein?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1019
+msgid ""
+"|mana_r|, Sacrifice a land: Magma Vein deals 1 damage to each creature "
+"without flying."
+msgstr ""
+
+#: ../../ODY.rst:1026
+msgid ":mtgtip:`Magnivore<https://img.scryfall.com/cards/border_crop/en/ody/204.jpg?1517813031|https://scryfall.com/card/ody/204/magnivore?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1025
+msgid ""
+"Magnivore's power and toughness are each equal to the number of sorcery "
+"cards in all graveyards."
+msgstr ""
+
+#: ../../ODY.rst:1034
+msgid ""
+":mtgtip:`Mine "
+"Layer<https://img.scryfall.com/cards/border_crop/en/ody/205.jpg?1517813031|https://scryfall.com/card/ody/205"
+"/mine-layer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1029
+msgid "|mana_1|\\ |mana_r|, |tap|: Put a mine counter on target land."
+msgstr ""
+
+#: ../../ODY.rst:1031
+msgid "Whenever a land with a mine counter on it becomes tapped, destroy it."
+msgstr ""
+
+#: ../../ODY.rst:1033
+msgid ""
+"When Mine Layer leaves the battlefield, remove all mine counters from all"
+" lands."
+msgstr ""
+
+#: ../../ODY.rst:1038
+msgid ""
+":mtgtip:`Minotaur "
+"Explorer<https://img.scryfall.com/cards/border_crop/en/ody/206.jpg?1517813031|https://scryfall.com/card/ody/206"
+"/minotaur-explorer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1037
+msgid ""
+"When Minotaur Explorer enters the battlefield, sacrifice it unless you "
+"discard a card at random."
+msgstr ""
+
+#: ../../ODY.rst:1042
+msgid ""
+":mtgtip:`Molten "
+"Influence<https://img.scryfall.com/cards/border_crop/en/ody/207.jpg?1517813031|https://scryfall.com/card/ody/207"
+"/molten-influence?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1041
+msgid ""
+"Counter target instant or sorcery spell unless its controller has Molten "
+"Influence deal 4 damage to them."
+msgstr ""
+
+#: ../../ODY.rst:1046
+msgid ":mtgtip:`Mudhole<https://img.scryfall.com/cards/border_crop/en/ody/208.jpg?1517813031|https://scryfall.com/card/ody/208/mudhole?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1045
+msgid "Target player exiles all land cards from their graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1050
+msgid ""
+":mtgtip:`Need for "
+"Speed<https://img.scryfall.com/cards/border_crop/en/ody/209.jpg?1517813031|https://scryfall.com/card/ody/209"
+"/need-for-speed?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1049
+msgid "Sacrifice a land: Target creature gains haste until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1054
+msgid ""
+":mtgtip:`Obstinate "
+"Familiar<https://img.scryfall.com/cards/border_crop/en/ody/210.jpg?1517813031|https://scryfall.com/card/ody/210"
+"/obstinate-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1053
+msgid "If you would draw a card, you may skip that draw instead."
+msgstr ""
+
+#: ../../ODY.rst:1060
+msgid ""
+":mtgtip:`Pardic "
+"Firecat<https://img.scryfall.com/cards/border_crop/en/ody/211.jpg?1517813031|https://scryfall.com/card/ody/211"
+"/pardic-firecat?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1057
+msgid "Haste"
+msgstr ""
+
+#: ../../ODY.rst:1059
+msgid ""
+"If Pardic Firecat is in a graveyard, effects from spells named Flame "
+"Burst count it as a card named Flame Burst."
+msgstr ""
+
+#: ../../ODY.rst:1064
+msgid ""
+":mtgtip:`Pardic "
+"Miner<https://img.scryfall.com/cards/border_crop/en/ody/212.jpg?1517813031|https://scryfall.com/card/ody/212"
+"/pardic-miner?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1063
+msgid "Sacrifice Pardic Miner: Target player can't play lands this turn."
+msgstr ""
+
+#: ../../ODY.rst:1068
+msgid ""
+":mtgtip:`Pardic "
+"Swordsmith<https://img.scryfall.com/cards/border_crop/en/ody/213.jpg?1517813031|https://scryfall.com/card/ody/213"
+"/pardic-swordsmith?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1067
+msgid ""
+"|mana_r|, Discard a card at random: Pardic Swordsmith gets +2/+0 until "
+"end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1072
+msgid ""
+":mtgtip:`Price of "
+"Glory<https://img.scryfall.com/cards/border_crop/en/ody/214.jpg?1517813031|https://scryfall.com/card/ody/214"
+"/price-of-glory?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1071
+msgid ""
+"Whenever a player taps a land for mana, if it's not that player's turn, "
+"destroy that land."
+msgstr ""
+
+#: ../../ODY.rst:1078
+msgid ""
+":mtgtip:`Reckless "
+"Charge<https://img.scryfall.com/cards/border_crop/en/ody/215.jpg?1517813031|https://scryfall.com/card/ody/215"
+"/reckless-charge?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1075
+msgid "Target creature gets +3/+0 and gains haste until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1077 ../../ODY.rst:1107
+msgid ""
+"Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1084
+msgid ":mtgtip:`Recoup<https://img.scryfall.com/cards/border_crop/en/ody/216.jpg?1517813031|https://scryfall.com/card/ody/216/recoup?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1081
+msgid ""
+"Target sorcery card in your graveyard gains flashback until end of turn. "
+"The flashback cost is equal to its mana cost. (Mana cost includes color.)"
+msgstr ""
+
+#: ../../ODY.rst:1088
+msgid ""
+":mtgtip:`Rites of "
+"Initiation<https://img.scryfall.com/cards/border_crop/en/ody/217.jpg?1517813031|https://scryfall.com/card/ody/217"
+"/rites-of-initiation?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1087
+msgid ""
+"Discard any number of cards at random. Creatures you control get +1/+0 "
+"until end of turn for each card discarded this way."
+msgstr ""
+
+#: ../../ODY.rst:1096
+msgid ""
+":mtgtip:`Savage "
+"Firecat<https://img.scryfall.com/cards/border_crop/en/ody/218.jpg?1517813031|https://scryfall.com/card/ody/218"
+"/savage-firecat?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1091 ../../ODY.rst:1219 ../../ODY.rst:1251 ../../ODY.rst:1401
+msgid "Trample"
+msgstr ""
+
+#: ../../ODY.rst:1093
+msgid "Savage Firecat enters the battlefield with seven +1/+1 counters on it."
+msgstr ""
+
+#: ../../ODY.rst:1095
+msgid ""
+"Whenever you tap a land for mana, remove a +1/+1 counter from Savage "
+"Firecat."
+msgstr ""
+
+#: ../../ODY.rst:1102
+msgid ""
+":mtgtip:`Scorching "
+"Missile<https://img.scryfall.com/cards/border_crop/en/ody/219.jpg?1517813031|https://scryfall.com/card/ody/219"
+"/scorching-missile?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1099
+msgid "Scorching Missile deals 4 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../ODY.rst:1101
+msgid ""
+"Flashback |mana_9|\\ |mana_r| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1108
+msgid ""
+":mtgtip:`Seize the "
+"Day<https://img.scryfall.com/cards/border_crop/en/ody/220.jpg?1517813031|https://scryfall.com/card/ody/220"
+"/seize-the-day?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1105
+msgid ""
+"Untap target creature. After this main phase, there is an additional "
+"combat phase followed by an additional main phase."
+msgstr ""
+
+#: ../../ODY.rst:1114
+msgid ""
+":mtgtip:`Shower of "
+"Coals<https://img.scryfall.com/cards/border_crop/en/ody/221.jpg?1517813031|https://scryfall.com/card/ody/221"
+"/shower-of-coals?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1111
+msgid "Shower of Coals deals 2 damage to each of up to three targets."
+msgstr ""
+
+#: ../../ODY.rst:1113
+msgid ""
+"Threshold — Shower of Coals deals 4 damage to each of those permanents "
+"and/or players instead if seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1118
+msgid ""
+":mtgtip:`Spark "
+"Mage<https://img.scryfall.com/cards/border_crop/en/ody/222.jpg?1517813031|https://scryfall.com/card/ody/222"
+"/spark-mage?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1117
+msgid ""
+"Whenever Spark Mage deals combat damage to a player, you may have Spark "
+"Mage deal 1 damage to target creature that player controls."
+msgstr ""
+
+#: ../../ODY.rst:1124
+msgid ""
+":mtgtip:`Steam "
+"Vines<https://img.scryfall.com/cards/border_crop/en/ody/223.jpg?1517813031|https://scryfall.com/card/ody/223"
+"/steam-vines?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1123
+msgid ""
+"When enchanted land becomes tapped, destroy it and Steam Vines deals 1 "
+"damage to that land's controller. That player attaches Steam Vines to a "
+"land of their choice."
+msgstr ""
+
+#: ../../ODY.rst:1130
+msgid ""
+":mtgtip:`Thermal "
+"Blast<https://img.scryfall.com/cards/border_crop/en/ody/224.jpg?1517813031|https://scryfall.com/card/ody/224"
+"/thermal-blast?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1127
+msgid "Thermal Blast deals 3 damage to target creature."
+msgstr ""
+
+#: ../../ODY.rst:1129
+msgid ""
+"Threshold — Thermal Blast deals 5 damage to that creature instead if "
+"seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1134
+msgid ":mtgtip:`Tremble<https://img.scryfall.com/cards/border_crop/en/ody/225.jpg?1517813031|https://scryfall.com/card/ody/225/tremble?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1133
+msgid "Each player sacrifices a land."
+msgstr ""
+
+#: ../../ODY.rst:1140
+msgid ""
+":mtgtip:`Volcanic "
+"Spray<https://img.scryfall.com/cards/border_crop/en/ody/226.jpg?1517813031|https://scryfall.com/card/ody/226"
+"/volcanic-spray?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1137
+msgid ""
+"Volcanic Spray deals 1 damage to each creature without flying and each "
+"player."
+msgstr ""
+
+#: ../../ODY.rst:1139
+msgid ""
+"Flashback |mana_1|\\ |mana_r| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1146
+msgid ""
+":mtgtip:`Volley of "
+"Boulders<https://img.scryfall.com/cards/border_crop/en/ody/227.jpg?1517813031|https://scryfall.com/card/ody/227"
+"/volley-of-boulders?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1143
+msgid ""
+"Volley of Boulders deals 6 damage divided as you choose among any number "
+"of targets."
+msgstr ""
+
+#: ../../ODY.rst:1145
+msgid ""
+"Flashback |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|"
+" (You may cast this card from your graveyard for its flashback cost. Then"
+" exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1150
+msgid ":mtgtip:`Whipkeeper<https://img.scryfall.com/cards/border_crop/en/ody/228.jpg?1517813031|https://scryfall.com/card/ody/228/whipkeeper?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1149
+msgid ""
+"|tap|: Whipkeeper deals damage to target creature equal to the damage "
+"already dealt to it this turn."
+msgstr ""
+
+#: ../../ODY.rst:1154
+msgid ":mtgtip:`Bearscape<https://img.scryfall.com/cards/border_crop/en/ody/229.jpg?1517813031|https://scryfall.com/card/ody/229/bearscape?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1153
+msgid ""
+"|mana_1|\\ |mana_g|, Exile two cards from your graveyard: Create a 2/2 "
+"green Bear creature token."
+msgstr ""
+
+#: ../../ODY.rst:1160
+msgid ""
+":mtgtip:`Beast "
+"Attack<https://img.scryfall.com/cards/border_crop/en/ody/230.jpg?1517813031|https://scryfall.com/card/ody/230"
+"/beast-attack?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1157
+msgid "Create a 4/4 green Beast creature token."
+msgstr ""
+
+#: ../../ODY.rst:1159
+msgid ""
+"Flashback |mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_g| (You may cast this "
+"card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1166
+msgid ""
+":mtgtip:`Call of the "
+"Herd<https://img.scryfall.com/cards/border_crop/en/ody/231.jpg?1517813031|https://scryfall.com/card/ody/231"
+"/call-of-the-herd?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1163 ../../ODY.rst:1213
+msgid "Create a 3/3 green Elephant creature token."
+msgstr ""
+
+#: ../../ODY.rst:1165 ../../ODY.rst:1341
+msgid ""
+"Flashback |mana_3|\\ |mana_g| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1170
+msgid ":mtgtip:`Cartographer<https://img.scryfall.com/cards/border_crop/en/ody/232.jpg?1517813031|https://scryfall.com/card/ody/232/cartographer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1169
+msgid ""
+"When Cartographer enters the battlefield, you may return target land card"
+" from your graveyard to your hand."
+msgstr ""
+
+#: ../../ODY.rst:1176
+msgid ""
+":mtgtip:`Chatter of the "
+"Squirrel<https://img.scryfall.com/cards/border_crop/en/ody/233.jpg?1517813031|https://scryfall.com/card/ody/233"
+"/chatter-of-the-squirrel?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1173
+msgid "Create a 1/1 green Squirrel creature token."
+msgstr ""
+
+#: ../../ODY.rst:1175 ../../ODY.rst:1237
+msgid ""
+"Flashback |mana_1|\\ |mana_g| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1182
+msgid ":mtgtip:`Chlorophant<https://img.scryfall.com/cards/border_crop/en/ody/234.jpg?1517813031|https://scryfall.com/card/ody/234/chlorophant?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1179
+msgid ""
+"At the beginning of your upkeep, you may put a +1/+1 counter on "
+"Chlorophant."
+msgstr ""
+
+#: ../../ODY.rst:1181
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, "
+"Chlorophant has \"At the beginning of your upkeep, you may put another "
+"+1/+1 counter on Chlorophant.\""
+msgstr ""
+
+#: ../../ODY.rst:1188
+msgid ""
+":mtgtip:`Crashing "
+"Centaur<https://img.scryfall.com/cards/border_crop/en/ody/235.jpg?1517813031|https://scryfall.com/card/ody/235"
+"/crashing-centaur?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1185
+msgid ""
+"|mana_g|, Discard a card: Crashing Centaur gains trample until end of "
+"turn."
+msgstr ""
+
+#: ../../ODY.rst:1187
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, "
+"Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of "
+"spells or abilities.)"
+msgstr ""
+
+#: ../../ODY.rst:1194
+msgid ""
+":mtgtip:`Deep "
+"Reconnaissance<https://img.scryfall.com/cards/border_crop/en/ody/236.jpg?1517813031|https://scryfall.com/card/ody/236"
+"/deep-reconnaissance?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1191
+msgid ""
+"Search your library for a basic land card and put that card onto the "
+"battlefield tapped. Then shuffle your library."
+msgstr ""
+
+#: ../../ODY.rst:1193
+msgid ""
+"Flashback |mana_4|\\ |mana_g| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1200
+msgid ""
+":mtgtip:`Diligent "
+"Farmhand<https://img.scryfall.com/cards/border_crop/en/ody/237.jpg?1517813031|https://scryfall.com/card/ody/237"
+"/diligent-farmhand?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1197
+msgid ""
+"|mana_1|\\ |mana_g|, Sacrifice Diligent Farmhand: Search your library for"
+" a basic land card and put that card onto the battlefield tapped. Then "
+"shuffle your library."
+msgstr ""
+
+#: ../../ODY.rst:1199
+msgid ""
+"If Diligent Farmhand is in a graveyard, effects from spells named Muscle "
+"Burst count it as a card named Muscle Burst."
+msgstr ""
+
+#: ../../ODY.rst:1204
+msgid ""
+":mtgtip:`Druid "
+"Lyrist<https://img.scryfall.com/cards/border_crop/en/ody/238.jpg?1517813031|https://scryfall.com/card/ody/238"
+"/druid-lyrist?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1203
+msgid "|mana_g|, |tap|, Sacrifice Druid Lyrist: Destroy target enchantment."
+msgstr ""
+
+#: ../../ODY.rst:1210
+msgid ""
+":mtgtip:`Druid's "
+"Call<https://img.scryfall.com/cards/border_crop/en/ody/239.jpg?1517813031|https://scryfall.com/card/ody/239"
+"/druids-call?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1209
+msgid ""
+"Whenever enchanted creature is dealt damage, its controller creates that "
+"many 1/1 green Squirrel creature tokens."
+msgstr ""
+
+#: ../../ODY.rst:1216
+msgid ""
+":mtgtip:`Elephant "
+"Ambush<https://img.scryfall.com/cards/border_crop/en/ody/240.jpg?1517813031|https://scryfall.com/card/ody/240"
+"/elephant-ambush?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1215
+msgid ""
+"Flashback |mana_6|\\ |mana_g|\\ |mana_g| (You may cast this card from "
+"your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1222
+msgid ""
+":mtgtip:`Gorilla "
+"Titan<https://img.scryfall.com/cards/border_crop/en/ody/241.jpg?1517813031|https://scryfall.com/card/ody/241"
+"/gorilla-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1221
+msgid "Gorilla Titan gets +4/+4 as long as there are no cards in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1228
+msgid ""
+":mtgtip:`Ground "
+"Seal<https://img.scryfall.com/cards/border_crop/en/ody/242.jpg?1517813031|https://scryfall.com/card/ody/242"
+"/ground-seal?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1225
+msgid "When Ground Seal enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../ODY.rst:1227
+msgid "Cards in graveyards can't be the targets of spells or abilities."
+msgstr ""
+
+#: ../../ODY.rst:1232
+msgid ""
+":mtgtip:`Holistic "
+"Wisdom<https://img.scryfall.com/cards/border_crop/en/ody/243.jpg?1517813031|https://scryfall.com/card/ody/243"
+"/holistic-wisdom?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1231
+msgid ""
+"|mana_2|, Exile a card from your hand: Return target card from your "
+"graveyard to your hand if it shares a card type with the card exiled this"
+" way. (Artifact, creature, enchantment, instant, land, planeswalker, "
+"sorcery, and tribal are card types.)"
+msgstr ""
+
+#: ../../ODY.rst:1238
+msgid ""
+":mtgtip:`Howling "
+"Gale<https://img.scryfall.com/cards/border_crop/en/ody/244.jpg?1517813031|https://scryfall.com/card/ody/244"
+"/howling-gale?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1235
+msgid "Howling Gale deals 1 damage to each creature with flying and each player."
+msgstr ""
+
+#: ../../ODY.rst:1242
+msgid ""
+":mtgtip:`Ivy "
+"Elemental<https://img.scryfall.com/cards/border_crop/en/ody/245.jpg?1517813031|https://scryfall.com/card/ody/245"
+"/ivy-elemental?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1241
+msgid "Ivy Elemental enters the battlefield with X +1/+1 counters on it."
+msgstr ""
+
+#: ../../ODY.rst:1248
+msgid ""
+":mtgtip:`Krosan "
+"Archer<https://img.scryfall.com/cards/border_crop/en/ody/246.jpg?1517813031|https://scryfall.com/card/ody/246"
+"/krosan-archer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1245 ../../ODY.rst:1361
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../ODY.rst:1247
+msgid "|mana_g|, Discard a card: Krosan Archer gets +0/+2 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1254
+msgid ""
+":mtgtip:`Krosan "
+"Avenger<https://img.scryfall.com/cards/border_crop/en/ody/247.jpg?1517813031|https://scryfall.com/card/ody/247"
+"/krosan-avenger?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1253
+msgid ""
+"Threshold — |mana_1|\\ |mana_g|: Regenerate Krosan Avenger. Activate this"
+" ability only if seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1258
+msgid ""
+":mtgtip:`Krosan "
+"Beast<https://img.scryfall.com/cards/border_crop/en/ody/248.jpg?1517813031|https://scryfall.com/card/ody/248"
+"/krosan-beast?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1257
+msgid ""
+"Threshold — Krosan Beast gets +7/+7 as long as seven or more cards are in"
+" your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1262
+msgid ""
+":mtgtip:`Leaf "
+"Dancer<https://img.scryfall.com/cards/border_crop/en/ody/249.jpg?1517813031|https://scryfall.com/card/ody/249"
+"/leaf-dancer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1261
+msgid ""
+"Forestwalk (This creature can't be blocked as long as defending player "
+"controls a Forest.)"
+msgstr ""
+
+#: ../../ODY.rst:1266
+msgid ""
+":mtgtip:`Metamorphic "
+"Wurm<https://img.scryfall.com/cards/border_crop/en/ody/250.jpg?1517813031|https://scryfall.com/card/ody/250"
+"/metamorphic-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1265
+msgid ""
+"Threshold — Metamorphic Wurm gets +4/+4 as long as seven or more cards "
+"are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1272
+msgid ""
+":mtgtip:`Moment's "
+"Peace<https://img.scryfall.com/cards/border_crop/en/ody/251.jpg?1517813031|https://scryfall.com/card/ody/251"
+"/moments-peace?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1269
+msgid "Prevent all combat damage that would be dealt this turn."
+msgstr ""
+
+#: ../../ODY.rst:1271
+msgid ""
+"Flashback |mana_2|\\ |mana_g| (You may cast this card from your graveyard"
+" for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1276
+msgid ""
+":mtgtip:`Muscle "
+"Burst<https://img.scryfall.com/cards/border_crop/en/ody/252.jpg?1517813031|https://scryfall.com/card/ody/252"
+"/muscle-burst?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1275
+msgid ""
+"Target creature gets +X/+X until end of turn, where X is 3 plus the "
+"number of cards named Muscle Burst in all graveyards."
+msgstr ""
+
+#: ../../ODY.rst:1280
+msgid ""
+":mtgtip:`Nantuko "
+"Disciple<https://img.scryfall.com/cards/border_crop/en/ody/253.jpg?1517813031|https://scryfall.com/card/ody/253"
+"/nantuko-disciple?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1279
+msgid "|mana_g|, |tap|: Target creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1284
+msgid ""
+":mtgtip:`Nantuko "
+"Elder<https://img.scryfall.com/cards/border_crop/en/ody/254.jpg?1517813031|https://scryfall.com/card/ody/254"
+"/nantuko-elder?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1283
+msgid "|tap|: Add |colorless|\\ |mana_g|."
+msgstr ""
+
+#: ../../ODY.rst:1288
+msgid ""
+":mtgtip:`Nantuko "
+"Mentor<https://img.scryfall.com/cards/border_crop/en/ody/255.jpg?1517813031|https://scryfall.com/card/ody/255"
+"/nantuko-mentor?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1287
+msgid ""
+"|mana_2|\\ |mana_g|, |tap|: Target creature gets +X/+X until end of turn,"
+" where X is that creature's power."
+msgstr ""
+
+#: ../../ODY.rst:1292
+msgid ""
+":mtgtip:`Nantuko "
+"Shrine<https://img.scryfall.com/cards/border_crop/en/ody/256.jpg?1517813031|https://scryfall.com/card/ody/256"
+"/nantuko-shrine?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1291
+msgid ""
+"Whenever a player casts a spell, that player creates X 1/1 green Squirrel"
+" creature tokens, where X is the number of cards in all graveyards with "
+"the same name as that spell."
+msgstr ""
+
+#: ../../ODY.rst:1296
+msgid ""
+":mtgtip:`New "
+"Frontiers<https://img.scryfall.com/cards/border_crop/en/ody/257.jpg?1517813031|https://scryfall.com/card/ody/257"
+"/new-frontiers?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1295
+msgid ""
+"Each player may search their library for up to X basic land cards and put"
+" them onto the battlefield tapped. Then each player who searched their "
+"library this way shuffles it."
+msgstr ""
+
+#: ../../ODY.rst:1302
+msgid ""
+":mtgtip:`Nimble "
+"Mongoose<https://img.scryfall.com/cards/border_crop/en/ody/258.jpg?1517813031|https://scryfall.com/card/ody/258"
+"/nimble-mongoose?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1299
+msgid "Shroud (This creature can't be the target of spells or abilities.)"
+msgstr ""
+
+#: ../../ODY.rst:1301
+msgid ""
+"Threshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are"
+" in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1308
+msgid ""
+":mtgtip:`Nut "
+"Collector<https://img.scryfall.com/cards/border_crop/en/ody/259.jpg?1517813031|https://scryfall.com/card/ody/259"
+"/nut-collector?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1305
+msgid ""
+"At the beginning of your upkeep, you may create a 1/1 green Squirrel "
+"creature token."
+msgstr ""
+
+#: ../../ODY.rst:1307
+msgid ""
+"Threshold — Squirrel creatures get +2/+2 as long as seven or more cards "
+"are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1312
+msgid ":mtgtip:`Overrun<https://img.scryfall.com/cards/border_crop/en/ody/260.jpg?1517813031|https://scryfall.com/card/ody/260/overrun?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1311
+msgid "Creatures you control get +3/+3 and gain trample until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1316
+msgid ""
+":mtgtip:`Piper's "
+"Melody<https://img.scryfall.com/cards/border_crop/en/ody/261.jpg?1517813031|https://scryfall.com/card/ody/261"
+"/pipers-melody?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1315
+msgid ""
+"Shuffle any number of target creature cards from your graveyard into your"
+" library."
+msgstr ""
+
+#: ../../ODY.rst:1322
+msgid ""
+":mtgtip:`Primal "
+"Frenzy<https://img.scryfall.com/cards/border_crop/en/ody/262.jpg?1517813031|https://scryfall.com/card/ody/262"
+"/primal-frenzy?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1321
+msgid "Enchanted creature has trample."
+msgstr ""
+
+#: ../../ODY.rst:1326
+msgid ""
+":mtgtip:`Rabid "
+"Elephant<https://img.scryfall.com/cards/border_crop/en/ody/263.jpg?1517813031|https://scryfall.com/card/ody/263"
+"/rabid-elephant?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1325
+msgid ""
+"Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn "
+"for each creature blocking it."
+msgstr ""
+
+#: ../../ODY.rst:1332
+msgid ":mtgtip:`Refresh<https://img.scryfall.com/cards/border_crop/en/ody/264.jpg?1517813031|https://scryfall.com/card/ody/264/refresh?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1329
+msgid "Regenerate target creature."
+msgstr ""
+
+#: ../../ODY.rst:1336
+msgid ""
+":mtgtip:`Rites of "
+"Spring<https://img.scryfall.com/cards/border_crop/en/ody/265.jpg?1517813031|https://scryfall.com/card/ody/265"
+"/rites-of-spring?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1335
+msgid ""
+"Discard any number of cards. Search your library for up to that many "
+"basic land cards, reveal those cards, and put them into your hand. Then "
+"shuffle your library."
+msgstr ""
+
+#: ../../ODY.rst:1342
+msgid ""
+":mtgtip:`Roar of the "
+"Wurm<https://img.scryfall.com/cards/border_crop/en/ody/266.jpg?1517813031|https://scryfall.com/card/ody/266"
+"/roar-of-the-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1339
+msgid "Create a 6/6 green Wurm creature token."
+msgstr ""
+
+#: ../../ODY.rst:1346
+msgid ""
+":mtgtip:`Seton, Krosan "
+"Protector<https://img.scryfall.com/cards/border_crop/en/ody/267.jpg?1517813031|https://scryfall.com/card/ody/267"
+"/seton-krosan-protector?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1345
+msgid "Tap an untapped Druid you control: Add |mana_g|."
+msgstr ""
+
+#: ../../ODY.rst:1354
+msgid ""
+":mtgtip:`Seton's "
+"Desire<https://img.scryfall.com/cards/border_crop/en/ody/268.jpg?1517813031|https://scryfall.com/card/ody/268"
+"/setons-desire?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1351
+msgid "Enchanted creature gets +2/+2."
+msgstr ""
+
+#: ../../ODY.rst:1353
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, all "
+"creatures able to block enchanted creature do so."
+msgstr ""
+
+#: ../../ODY.rst:1358
+msgid ":mtgtip:`Simplify<https://img.scryfall.com/cards/border_crop/en/ody/269.jpg?1517813031|https://scryfall.com/card/ody/269/simplify?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1357
+msgid "Each player sacrifices an enchantment."
+msgstr ""
+
+#: ../../ODY.rst:1364
+msgid ":mtgtip:`Skyshooter<https://img.scryfall.com/cards/border_crop/en/ody/270.jpg?1517813031|https://scryfall.com/card/ody/270/skyshooter?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1363
+msgid ""
+"|tap|, Sacrifice Skyshooter: Destroy target attacking or blocking "
+"creature with flying."
+msgstr ""
+
+#: ../../ODY.rst:1368
+msgid ""
+":mtgtip:`Spellbane "
+"Centaur<https://img.scryfall.com/cards/border_crop/en/ody/271.jpg?1517813031|https://scryfall.com/card/ody/271"
+"/spellbane-centaur?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1367
+msgid ""
+"Creatures you control can't be the targets of blue spells or abilities "
+"from blue sources."
+msgstr ""
+
+#: ../../ODY.rst:1372
+msgid ""
+":mtgtip:`Springing "
+"Tiger<https://img.scryfall.com/cards/border_crop/en/ody/272.jpg?1517813031|https://scryfall.com/card/ody/272"
+"/springing-tiger?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1371
+msgid ""
+"Threshold — Springing Tiger gets +2/+2 as long as seven or more cards are"
+" in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1376
+msgid ""
+":mtgtip:`Squirrel "
+"Mob<https://img.scryfall.com/cards/border_crop/en/ody/273.jpg?1517813031|https://scryfall.com/card/ody/273"
+"/squirrel-mob?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1375
+msgid "Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield."
+msgstr ""
+
+#: ../../ODY.rst:1382
+msgid ""
+":mtgtip:`Squirrel "
+"Nest<https://img.scryfall.com/cards/border_crop/en/ody/274.jpg?1517813031|https://scryfall.com/card/ody/274"
+"/squirrel-nest?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1381
+msgid "Enchanted land has \"|tap|: Create a 1/1 green Squirrel creature token.\""
+msgstr ""
+
+#: ../../ODY.rst:1386
+msgid ""
+":mtgtip:`Still "
+"Life<https://img.scryfall.com/cards/border_crop/en/ody/275.jpg?1517813031|https://scryfall.com/card/ody/275"
+"/still-life?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1385
+msgid ""
+"|mana_g|\\ |mana_g|: Still Life becomes a 4/3 Centaur creature in "
+"addition to its other types until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1392
+msgid ""
+":mtgtip:`Stone-Tongue "
+"Basilisk<https://img.scryfall.com/cards/border_crop/en/ody/276.jpg?1517813031|https://scryfall.com/card/ody/276"
+"/stone-tongue-basilisk?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1389
+msgid ""
+"Whenever Stone-Tongue Basilisk deals combat damage to a creature, destroy"
+" that creature at end of combat."
+msgstr ""
+
+#: ../../ODY.rst:1391
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, all "
+"creatures able to block Stone-Tongue Basilisk do so."
+msgstr ""
+
+#: ../../ODY.rst:1398
+msgid ""
+":mtgtip:`Sylvan "
+"Might<https://img.scryfall.com/cards/border_crop/en/ody/277.jpg?1517813031|https://scryfall.com/card/ody/277"
+"/sylvan-might?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1395
+msgid "Target creature gets +2/+2 and gains trample until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1397
+msgid ""
+"Flashback |mana_2|\\ |mana_g|\\ |mana_g| (You may cast this card from "
+"your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ODY.rst:1404
+msgid ":mtgtip:`Terravore<https://img.scryfall.com/cards/border_crop/en/ody/278.jpg?1517813031|https://scryfall.com/card/ody/278/terravore?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1403
+msgid ""
+"Terravore's power and toughness are each equal to the number of land "
+"cards in all graveyards."
+msgstr ""
+
+#: ../../ODY.rst:1408
+msgid ":mtgtip:`Twigwalker<https://img.scryfall.com/cards/border_crop/en/ody/279.jpg?1517813031|https://scryfall.com/card/ody/279/twigwalker?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1407
+msgid ""
+"|mana_1|\\ |mana_g|, Sacrifice Twigwalker: Two target creatures each get "
+"+2/+2 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1412
+msgid ""
+":mtgtip:`Verdant "
+"Succession<https://img.scryfall.com/cards/border_crop/en/ody/280.jpg?1517813031|https://scryfall.com/card/ody/280"
+"/verdant-succession?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1411
+msgid ""
+"Whenever a green nontoken creature dies, that creature's controller may "
+"search their library for a card with the same name as that creature and "
+"put it onto the battlefield. If that player does, they shuffle their "
+"library."
+msgstr ""
+
+#: ../../ODY.rst:1418
+msgid ":mtgtip:`Vivify<https://img.scryfall.com/cards/border_crop/en/ody/281.jpg?1517813031|https://scryfall.com/card/ody/281/vivify?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1415
+msgid "Target land becomes a 3/3 creature until end of turn. It's still a land."
+msgstr ""
+
+#: ../../ODY.rst:1424
+msgid ":mtgtip:`Werebear<https://img.scryfall.com/cards/border_crop/en/ody/282.jpg?1517813031|https://scryfall.com/card/ody/282/werebear?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1421 ../../ODY.rst:1679
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../ODY.rst:1423
+msgid ""
+"Threshold — Werebear gets +3/+3 as long as seven or more cards are in "
+"your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1428
+msgid ""
+":mtgtip:`Wild "
+"Mongrel<https://img.scryfall.com/cards/border_crop/en/ody/283.jpg?1517813031|https://scryfall.com/card/ody/283"
+"/wild-mongrel?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1427
+msgid ""
+"Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your "
+"choice until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1430
+msgid ""
+":mtgtip:`Woodland "
+"Druid<https://img.scryfall.com/cards/border_crop/en/ody/284.jpg?1517813031|https://scryfall.com/card/ody/284"
+"/woodland-druid?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1436
+msgid ":mtgtip:`Zoologist<https://img.scryfall.com/cards/border_crop/en/ody/285.jpg?1517813031|https://scryfall.com/card/ody/285/zoologist?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1435
+msgid ""
+"|mana_3|\\ |mana_g|, |tap|: Reveal the top card of your library. If it's "
+"a creature card, put it onto the battlefield. Otherwise, put it into your"
+" graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1440
+msgid ":mtgtip:`Atogatog<https://img.scryfall.com/cards/border_crop/en/ody/286.jpg?1517813031|https://scryfall.com/card/ody/286/atogatog?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1439
+msgid ""
+"Sacrifice an Atog creature: Atogatog gets +X/+X until end of turn, where "
+"X is the sacrificed creature's power."
+msgstr ""
+
+#: ../../ODY.rst:1444
+msgid ":mtgtip:`Decimate<https://img.scryfall.com/cards/border_crop/en/ody/287.jpg?1517813031|https://scryfall.com/card/ody/287/decimate?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1443
+msgid ""
+"Destroy target artifact, target creature, target enchantment, and target "
+"land."
+msgstr ""
+
+#: ../../ODY.rst:1448
+msgid ""
+":mtgtip:`Iridescent "
+"Angel<https://img.scryfall.com/cards/border_crop/en/ody/288.jpg?1517813031|https://scryfall.com/card/ody/288"
+"/iridescent-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1447
+msgid "Flying, protection from all colors"
+msgstr ""
+
+#: ../../ODY.rst:1454
+msgid ":mtgtip:`Lithatog<https://img.scryfall.com/cards/border_crop/en/ody/289.jpg?1517813031|https://scryfall.com/card/ody/289/lithatog?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1451
+msgid "Sacrifice an artifact: Lithatog gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1453
+msgid "Sacrifice a land: Lithatog gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1460
+msgid ""
+":mtgtip:`Mystic "
+"Enforcer<https://img.scryfall.com/cards/border_crop/en/ody/290.jpg?1517813031|https://scryfall.com/card/ody/290"
+"/mystic-enforcer?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1459
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, Mystic "
+"Enforcer gets +3/+3 and has flying."
+msgstr ""
+
+#: ../../ODY.rst:1466
+msgid ":mtgtip:`Phantatog<https://img.scryfall.com/cards/border_crop/en/ody/291.jpg?1517813031|https://scryfall.com/card/ody/291/phantatog?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1463
+msgid "Sacrifice an enchantment: Phantatog gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1465
+msgid "Discard a card: Phantatog gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1472
+msgid ":mtgtip:`Psychatog<https://img.scryfall.com/cards/border_crop/en/ody/292.jpg?1517813031|https://scryfall.com/card/ody/292/psychatog?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1469
+msgid "Discard a card: Psychatog gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1471
+msgid ""
+"Exile two cards from your graveyard: Psychatog gets +1/+1 until end of "
+"turn."
+msgstr ""
+
+#: ../../ODY.rst:1478
+msgid ":mtgtip:`Sarcatog<https://img.scryfall.com/cards/border_crop/en/ody/293.jpg?1517813031|https://scryfall.com/card/ody/293/sarcatog?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1475
+msgid ""
+"Exile two cards from your graveyard: Sarcatog gets +1/+1 until end of "
+"turn."
+msgstr ""
+
+#: ../../ODY.rst:1477
+msgid "Sacrifice an artifact: Sarcatog gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1484
+msgid ""
+":mtgtip:`Shadowmage "
+"Infiltrator<https://img.scryfall.com/cards/border_crop/en/ody/294.jpg?1528749696|https://scryfall.com/card/ody/294"
+"/shadowmage-infiltrator?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1483
+msgid ""
+"Whenever Shadowmage Infiltrator deals combat damage to a player, you may "
+"draw a card."
+msgstr ""
+
+#: ../../ODY.rst:1490
+msgid ":mtgtip:`Thaumatog<https://img.scryfall.com/cards/border_crop/en/ody/295.jpg?1517813031|https://scryfall.com/card/ody/295/thaumatog?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1487
+msgid "Sacrifice a land: Thaumatog gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1489
+msgid "Sacrifice an enchantment: Thaumatog gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ODY.rst:1498
+msgid ""
+":mtgtip:`Vampiric "
+"Dragon<https://img.scryfall.com/cards/border_crop/en/ody/296.jpg?1517813031|https://scryfall.com/card/ody/296"
+"/vampiric-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1495
+msgid ""
+"Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a"
+" +1/+1 counter on Vampiric Dragon."
+msgstr ""
+
+#: ../../ODY.rst:1497
+msgid "|mana_1|\\ |mana_r|: Vampiric Dragon deals 1 damage to target creature."
+msgstr ""
+
+#: ../../ODY.rst:1504
+msgid ""
+":mtgtip:`Catalyst "
+"Stone<https://img.scryfall.com/cards/border_crop/en/ody/297.jpg?1517813031|https://scryfall.com/card/ody/297"
+"/catalyst-stone?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1501
+msgid "Flashback costs you pay cost up to |mana_2| less."
+msgstr ""
+
+#: ../../ODY.rst:1503
+msgid "Flashback costs your opponents pay cost |mana_2| more."
+msgstr ""
+
+#: ../../ODY.rst:1508
+msgid ""
+":mtgtip:`Charmed "
+"Pendant<https://img.scryfall.com/cards/border_crop/en/ody/298.jpg?1517813031|https://scryfall.com/card/ody/298"
+"/charmed-pendant?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1507
+msgid ""
+"|tap|, Put the top card of your library into your graveyard: For each "
+"colored mana symbol in that card's mana cost, add one mana of that color."
+" Activate this ability only any time you could cast an instant. (For "
+"example, if the card's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|\\ "
+"|mana_b|, you add |mana_u|\\ |mana_u|\\ |mana_b|.)"
+msgstr ""
+
+#: ../../ODY.rst:1512
+msgid ""
+":mtgtip:`Darkwater "
+"Egg<https://img.scryfall.com/cards/border_crop/en/ody/299.jpg?1517813031|https://scryfall.com/card/ody/299"
+"/darkwater-egg?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1511
+msgid ""
+"|mana_2|, |tap|, Sacrifice Darkwater Egg: Add |mana_u|\\ |mana_b|. Draw a"
+" card."
+msgstr ""
+
+#: ../../ODY.rst:1520
+msgid ""
+":mtgtip:`Junk "
+"Golem<https://img.scryfall.com/cards/border_crop/en/ody/300.jpg?1517813031|https://scryfall.com/card/ody/300"
+"/junk-golem?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1515
+msgid "Junk Golem enters the battlefield with three +1/+1 counters on it."
+msgstr ""
+
+#: ../../ODY.rst:1517
+msgid ""
+"At the beginning of your upkeep, sacrifice Junk Golem unless you remove a"
+" +1/+1 counter from it."
+msgstr ""
+
+#: ../../ODY.rst:1519
+msgid "|mana_1|, Discard a card: Put a +1/+1 counter on Junk Golem."
+msgstr ""
+
+#: ../../ODY.rst:1524
+msgid ""
+":mtgtip:`Limestone "
+"Golem<https://img.scryfall.com/cards/border_crop/en/ody/301.jpg?1517813031|https://scryfall.com/card/ody/301"
+"/limestone-golem?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1523
+msgid "|mana_2|, Sacrifice Limestone Golem: Target player draws a card."
+msgstr ""
+
+#: ../../ODY.rst:1528
+msgid ":mtgtip:`Millikin<https://img.scryfall.com/cards/border_crop/en/ody/302.jpg?1517813031|https://scryfall.com/card/ody/302/millikin?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1527
+msgid ""
+"|tap|, Put the top card of your library into your graveyard: Add "
+"|colorless|."
+msgstr ""
+
+#: ../../ODY.rst:1532
+msgid ":mtgtip:`Mirari<https://img.scryfall.com/cards/border_crop/en/ody/303.jpg?1517813031|https://scryfall.com/card/ody/303/mirari?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1531
+msgid ""
+"Whenever you cast an instant or sorcery spell, you may pay |mana_3|. If "
+"you do, copy that spell. You may choose new targets for the copy."
+msgstr ""
+
+#: ../../ODY.rst:1536
+msgid ""
+":mtgtip:`Mossfire "
+"Egg<https://img.scryfall.com/cards/border_crop/en/ody/304.jpg?1517813031|https://scryfall.com/card/ody/304"
+"/mossfire-egg?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1535
+msgid ""
+"|mana_2|, |tap|, Sacrifice Mossfire Egg: Add |mana_r|\\ |mana_g|. Draw a "
+"card."
+msgstr ""
+
+#: ../../ODY.rst:1542
+msgid ""
+":mtgtip:`Otarian "
+"Juggernaut<https://img.scryfall.com/cards/border_crop/en/ody/305.jpg?1517813031|https://scryfall.com/card/ody/305"
+"/otarian-juggernaut?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1539
+msgid "Otarian Juggernaut can't be blocked by Walls."
+msgstr ""
+
+#: ../../ODY.rst:1541
+msgid ""
+"Threshold — As long as seven or more cards are in your graveyard, Otarian"
+" Juggernaut gets +3/+0 and attacks each combat if able."
+msgstr ""
+
+#: ../../ODY.rst:1546
+msgid ""
+":mtgtip:`Patchwork "
+"Gnomes<https://img.scryfall.com/cards/border_crop/en/ody/306.jpg?1517813031|https://scryfall.com/card/ody/306"
+"/patchwork-gnomes?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1545
+msgid "Discard a card: Regenerate Patchwork Gnomes."
+msgstr ""
+
+#: ../../ODY.rst:1550
+msgid ""
+":mtgtip:`Sandstone "
+"Deadfall<https://img.scryfall.com/cards/border_crop/en/ody/307.jpg?1517813031|https://scryfall.com/card/ody/307"
+"/sandstone-deadfall?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1549
+msgid ""
+"|tap|, Sacrifice two lands and Sandstone Deadfall: Destroy target "
+"attacking creature."
+msgstr ""
+
+#: ../../ODY.rst:1554
+msgid ""
+":mtgtip:`Shadowblood "
+"Egg<https://img.scryfall.com/cards/border_crop/en/ody/308.jpg?1517813031|https://scryfall.com/card/ody/308"
+"/shadowblood-egg?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1553
+msgid ""
+"|mana_2|, |tap|, Sacrifice Shadowblood Egg: Add |mana_b|\\ |mana_r|. Draw"
+" a card."
+msgstr ""
+
+#: ../../ODY.rst:1558
+msgid ""
+":mtgtip:`Skycloud "
+"Egg<https://img.scryfall.com/cards/border_crop/en/ody/309.jpg?1517813031|https://scryfall.com/card/ody/309"
+"/skycloud-egg?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1557
+msgid ""
+"|mana_2|, |tap|, Sacrifice Skycloud Egg: Add |mana_w|\\ |mana_u|. Draw a "
+"card."
+msgstr ""
+
+#: ../../ODY.rst:1564
+msgid ":mtgtip:`Steamclaw<https://img.scryfall.com/cards/border_crop/en/ody/310.jpg?1517813031|https://scryfall.com/card/ody/310/steamclaw?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1561
+msgid "|mana_3|, |tap|: Exile target card from a graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1563
+msgid "|mana_1|, Sacrifice Steamclaw: Exile target card from a graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1568
+msgid ""
+":mtgtip:`Sungrass "
+"Egg<https://img.scryfall.com/cards/border_crop/en/ody/311.jpg?1517813031|https://scryfall.com/card/ody/311"
+"/sungrass-egg?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1567
+msgid ""
+"|mana_2|, |tap|, Sacrifice Sungrass Egg: Add |mana_g|\\ |mana_w|. Draw a "
+"card."
+msgstr ""
+
+#: ../../ODY.rst:1576
+msgid ""
+":mtgtip:`Abandoned "
+"Outpost<https://img.scryfall.com/cards/border_crop/en/ody/312.jpg?1517813031|https://scryfall.com/card/ody/312"
+"/abandoned-outpost?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1571
+msgid "Abandoned Outpost enters the battlefield tapped."
+msgstr ""
+
+#: ../../ODY.rst:1573
+msgid "|tap|: Add |mana_w|."
+msgstr ""
+
+#: ../../ODY.rst:1575
+msgid "|tap|, Sacrifice Abandoned Outpost: Add one mana of any color."
+msgstr ""
+
+#: ../../ODY.rst:1582
+msgid ""
+":mtgtip:`Barbarian "
+"Ring<https://img.scryfall.com/cards/border_crop/en/ody/313.jpg?1517813031|https://scryfall.com/card/ody/313"
+"/barbarian-ring?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1579
+msgid "|tap|: Add |mana_r|. Barbarian Ring deals 1 damage to you."
+msgstr ""
+
+#: ../../ODY.rst:1581
+msgid ""
+"Threshold — |mana_r|, |tap|, Sacrifice Barbarian Ring: It deals 2 damage "
+"to any target. Activate this ability only if seven or more cards are in "
+"your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1590
+msgid ""
+":mtgtip:`Bog "
+"Wreckage<https://img.scryfall.com/cards/border_crop/en/ody/314.jpg?1517813031|https://scryfall.com/card/ody/314"
+"/bog-wreckage?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1585
+msgid "Bog Wreckage enters the battlefield tapped."
+msgstr ""
+
+#: ../../ODY.rst:1587
+msgid "|tap|: Add |mana_b|."
+msgstr ""
+
+#: ../../ODY.rst:1589
+msgid "|tap|, Sacrifice Bog Wreckage: Add one mana of any color."
+msgstr ""
+
+#: ../../ODY.rst:1596
+msgid ""
+":mtgtip:`Cabal "
+"Pit<https://img.scryfall.com/cards/border_crop/en/ody/315.jpg?1517813031|https://scryfall.com/card/ody/315"
+"/cabal-pit?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1593
+msgid "|tap|: Add |mana_b|. Cabal Pit deals 1 damage to you."
+msgstr ""
+
+#: ../../ODY.rst:1595
+msgid ""
+"Threshold — |mana_b|, |tap|, Sacrifice Cabal Pit: Target creature gets "
+"-2/-2 until end of turn. Activate this ability only if seven or more "
+"cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1602
+msgid ""
+":mtgtip:`Centaur "
+"Garden<https://img.scryfall.com/cards/border_crop/en/ody/316.jpg?1517813031|https://scryfall.com/card/ody/316"
+"/centaur-garden?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1599
+msgid "|tap|: Add |mana_g|. Centaur Garden deals 1 damage to you."
+msgstr ""
+
+#: ../../ODY.rst:1601
+msgid ""
+"Threshold — |mana_g|, |tap|, Sacrifice Centaur Garden: Target creature "
+"gets +3/+3 until end of turn. Activate this ability only if seven or more"
+" cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1608
+msgid ""
+":mtgtip:`Cephalid "
+"Coliseum<https://img.scryfall.com/cards/border_crop/en/ody/317.jpg?1517813031|https://scryfall.com/card/ody/317"
+"/cephalid-coliseum?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1605
+msgid "|tap|: Add |mana_u|. Cephalid Coliseum deals 1 damage to you."
+msgstr ""
+
+#: ../../ODY.rst:1607
+msgid ""
+"Threshold — |mana_u|, |tap|, Sacrifice Cephalid Coliseum: Target player "
+"draws three cards, then discards three cards. Activate this ability only "
+"if seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1614
+msgid ""
+":mtgtip:`Crystal "
+"Quarry<https://img.scryfall.com/cards/border_crop/en/ody/318.jpg?1517813031|https://scryfall.com/card/ody/318"
+"/crystal-quarry?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1611 ../../ODY.rst:1621 ../../ODY.rst:1637 ../../ODY.rst:1671
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../ODY.rst:1613
+msgid "|mana_5|, |tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
+msgstr ""
+
+#: ../../ODY.rst:1618
+msgid ""
+":mtgtip:`Darkwater "
+"Catacombs<https://img.scryfall.com/cards/border_crop/en/ody/319.jpg?1517813031|https://scryfall.com/card/ody/319"
+"/darkwater-catacombs?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1617
+msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
+msgstr ""
+
+#: ../../ODY.rst:1624
+msgid ""
+":mtgtip:`Deserted "
+"Temple<https://img.scryfall.com/cards/border_crop/en/ody/320.jpg?1517813031|https://scryfall.com/card/ody/320"
+"/deserted-temple?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1623
+msgid "|mana_1|, |tap|: Untap target land."
+msgstr ""
+
+#: ../../ODY.rst:1628
+msgid ""
+":mtgtip:`Mossfire "
+"Valley<https://img.scryfall.com/cards/border_crop/en/ody/321.jpg?1517813031|https://scryfall.com/card/ody/321"
+"/mossfire-valley?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1627
+msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_g|."
+msgstr ""
+
+#: ../../ODY.rst:1634
+msgid ""
+":mtgtip:`Nomad "
+"Stadium<https://img.scryfall.com/cards/border_crop/en/ody/322.jpg?1517813031|https://scryfall.com/card/ody/322"
+"/nomad-stadium?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1631
+msgid "|tap|: Add |mana_w|. Nomad Stadium deals 1 damage to you."
+msgstr ""
+
+#: ../../ODY.rst:1633
+msgid ""
+"Threshold — |mana_w|, |tap|, Sacrifice Nomad Stadium: You gain 4 life. "
+"Activate this ability only if seven or more cards are in your graveyard."
+msgstr ""
+
+#: ../../ODY.rst:1640
+msgid ""
+":mtgtip:`Petrified "
+"Field<https://img.scryfall.com/cards/border_crop/en/ody/323.jpg?1517813031|https://scryfall.com/card/ody/323"
+"/petrified-field?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1639
+msgid ""
+"|tap|, Sacrifice Petrified Field: Return target land card from your "
+"graveyard to your hand."
+msgstr ""
+
+#: ../../ODY.rst:1648
+msgid ""
+":mtgtip:`Ravaged "
+"Highlands<https://img.scryfall.com/cards/border_crop/en/ody/324.jpg?1517813031|https://scryfall.com/card/ody/324"
+"/ravaged-highlands?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1643
+msgid "Ravaged Highlands enters the battlefield tapped."
+msgstr ""
+
+#: ../../ODY.rst:1645
+msgid "|tap|: Add |mana_r|."
+msgstr ""
+
+#: ../../ODY.rst:1647
+msgid "|tap|, Sacrifice Ravaged Highlands: Add one mana of any color."
+msgstr ""
+
+#: ../../ODY.rst:1656
+msgid ""
+":mtgtip:`Seafloor "
+"Debris<https://img.scryfall.com/cards/border_crop/en/ody/325.jpg?1517813031|https://scryfall.com/card/ody/325"
+"/seafloor-debris?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1651
+msgid "Seafloor Debris enters the battlefield tapped."
+msgstr ""
+
+#: ../../ODY.rst:1653
+msgid "|tap|: Add |mana_u|."
+msgstr ""
+
+#: ../../ODY.rst:1655
+msgid "|tap|, Sacrifice Seafloor Debris: Add one mana of any color."
+msgstr ""
+
+#: ../../ODY.rst:1660
+msgid ""
+":mtgtip:`Shadowblood "
+"Ridge<https://img.scryfall.com/cards/border_crop/en/ody/326.jpg?1517813031|https://scryfall.com/card/ody/326"
+"/shadowblood-ridge?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1659
+msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
+msgstr ""
+
+#: ../../ODY.rst:1664
+msgid ""
+":mtgtip:`Skycloud "
+"Expanse<https://img.scryfall.com/cards/border_crop/en/ody/327.jpg?1517813031|https://scryfall.com/card/ody/327"
+"/skycloud-expanse?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1663
+msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_u|."
+msgstr ""
+
+#: ../../ODY.rst:1668
+msgid ""
+":mtgtip:`Sungrass "
+"Prairie<https://img.scryfall.com/cards/border_crop/en/ody/328.jpg?1517813031|https://scryfall.com/card/ody/328"
+"/sungrass-prairie?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1667
+msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
+msgstr ""
+
+#: ../../ODY.rst:1674
+msgid ""
+":mtgtip:`Tarnished "
+"Citadel<https://img.scryfall.com/cards/border_crop/en/ody/329.jpg?1517813031|https://scryfall.com/card/ody/329"
+"/tarnished-citadel?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1673
+msgid "|tap|: Add one mana of any color. Tarnished Citadel deals 3 damage to you."
+msgstr ""
+
+#: ../../ODY.rst:1682
+msgid ""
+":mtgtip:`Timberland "
+"Ruins<https://img.scryfall.com/cards/border_crop/en/ody/330.jpg?1517813031|https://scryfall.com/card/ody/330"
+"/timberland-ruins?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1677
+msgid "Timberland Ruins enters the battlefield tapped."
+msgstr ""
+
+#: ../../ODY.rst:1681
+msgid "|tap|, Sacrifice Timberland Ruins: Add one mana of any color."
+msgstr ""
+
+#: ../../ODY.rst:1686
+msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/ody/331.jpg?1517813031|https://scryfall.com/card/ody/331/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1685
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../ODY.rst:1690
+msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/ody/335.jpg?1517813031|https://scryfall.com/card/ody/335/island?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1689
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../ODY.rst:1694
+msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/ody/339.jpg?1517813031|https://scryfall.com/card/ody/339/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1693
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../ODY.rst:1698
+msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/ody/343.jpg?1517813031|https://scryfall.com/card/ody/343/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1697
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../ODY.rst:1701
+msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/ody/347.jpg?1517813031|https://scryfall.com/card/ody/347/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../ODY.rst:1701
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+

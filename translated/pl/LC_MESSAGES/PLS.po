@@ -1,0 +1,2155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 23:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../PLS.rst:5
+msgid ":mtgexp:`PLS` Planeshift"
+msgstr ""
+
+#: ../../PLS.rst:12
+msgid ""
+":mtgtip:`Aura "
+"Blast<https://img.scryfall.com/cards/border_crop/en/pls/1.jpg?1517813031|https://scryfall.com/card/pls/1"
+"/aura-blast?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:9 ../../PLS.rst:605 ../../PLS.rst:713
+msgid "Destroy target enchantment."
+msgstr ""
+
+#: ../../PLS.rst:11 ../../PLS.rst:127 ../../PLS.rst:307 ../../PLS.rst:341
+#: ../../PLS.rst:489
+msgid "Draw a card."
+msgstr ""
+
+#: ../../PLS.rst:18
+msgid ""
+":mtgtip:`Aurora "
+"Griffin<https://img.scryfall.com/cards/border_crop/en/pls/2.jpg?1517813031|https://scryfall.com/card/pls/2"
+"/aurora-griffin?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:15 ../../PLS.rst:107 ../../PLS.rst:149 ../../PLS.rst:205
+#: ../../PLS.rst:217 ../../PLS.rst:311 ../../PLS.rst:515 ../../PLS.rst:555
+#: ../../PLS.rst:675 ../../PLS.rst:689 ../../PLS.rst:727
+msgid "Flying"
+msgstr ""
+
+#: ../../PLS.rst:17
+msgid "|mana_w|: Target permanent becomes white until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:22
+msgid ""
+":mtgtip:`Disciple of "
+"Kangee<https://img.scryfall.com/cards/border_crop/en/pls/3.jpg?1517813031|https://scryfall.com/card/pls/3"
+"/disciple-of-kangee?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:21
+msgid ""
+"|mana_u|, |tap|: Target creature gains flying and becomes blue until end "
+"of turn."
+msgstr ""
+
+#: ../../PLS.rst:26
+msgid ""
+":mtgtip:`Dominaria's "
+"Judgment<https://img.scryfall.com/cards/border_crop/en/pls/4.jpg?1517813031|https://scryfall.com/card/pls/4"
+"/dominarias-judgment?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:25
+msgid ""
+"Until end of turn, creatures you control gain protection from white if "
+"you control a Plains, from blue if you control an Island, from black if "
+"you control a Swamp, from red if you control a Mountain, and from green "
+"if you control a Forest."
+msgstr ""
+
+#: ../../PLS.rst:30
+msgid ""
+":mtgtip:`Guard "
+"Dogs<https://img.scryfall.com/cards/border_crop/en/pls/5.jpg?1517813031|https://scryfall.com/card/pls/5"
+"/guard-dogs?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:29
+msgid ""
+"|mana_2|\\ |mana_w|, |tap|: Choose a permanent you control. Prevent all "
+"combat damage target creature would deal this turn if it shares a color "
+"with that permanent."
+msgstr ""
+
+#: ../../PLS.rst:36
+msgid ""
+":mtgtip:`Heroic "
+"Defiance<https://img.scryfall.com/cards/border_crop/en/pls/6.jpg?1517813031|https://scryfall.com/card/pls/6"
+"/heroic-defiance?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:33 ../../PLS.rst:39 ../../PLS.rst:179 ../../PLS.rst:187
+#: ../../PLS.rst:299 ../../PLS.rst:345 ../../PLS.rst:355 ../../PLS.rst:449
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../PLS.rst:35
+msgid ""
+"Enchanted creature gets +3/+3 unless it shares a color with the most "
+"common color among all permanents or a color tied for most common."
+msgstr ""
+
+#: ../../PLS.rst:46
+msgid ":mtgtip:`Hobble<https://img.scryfall.com/cards/border_crop/en/pls/7.jpg?1517813031|https://scryfall.com/card/pls/7/hobble?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:41
+msgid "When Hobble enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../PLS.rst:43
+msgid "Enchanted creature can't attack."
+msgstr ""
+
+#: ../../PLS.rst:45
+msgid "Enchanted creature can't block if it's black."
+msgstr ""
+
+#: ../../PLS.rst:50
+msgid ""
+":mtgtip:`Honorable "
+"Scout<https://img.scryfall.com/cards/border_crop/en/pls/8.jpg?1517813031|https://scryfall.com/card/pls/8"
+"/honorable-scout?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:49
+msgid ""
+"When Honorable Scout enters the battlefield, you gain 2 life for each "
+"black and/or red creature target opponent controls."
+msgstr ""
+
+#: ../../PLS.rst:56
+msgid ""
+":mtgtip:`Lashknife "
+"Barrier<https://img.scryfall.com/cards/border_crop/en/pls/9.jpg?1517813031|https://scryfall.com/card/pls/9"
+"/lashknife-barrier?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:53
+msgid "When Lashknife Barrier enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../PLS.rst:55
+msgid ""
+"If a source would deal damage to a creature you control, it deals that "
+"much damage minus 1 to that creature instead."
+msgstr ""
+
+#: ../../PLS.rst:60
+msgid ""
+":mtgtip:`March of "
+"Souls<https://img.scryfall.com/cards/border_crop/en/pls/10.jpg?1517813031|https://scryfall.com/card/pls/10"
+"/march-of-souls?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:59
+msgid ""
+"Destroy all creatures. They can't be regenerated. For each creature "
+"destroyed this way, its controller creates a 1/1 white Spirit creature "
+"token with flying."
+msgstr ""
+
+#: ../../PLS.rst:66
+msgid ""
+":mtgtip:`Orim's "
+"Chant<https://img.scryfall.com/cards/border_crop/en/pls/11.jpg?1517813031|https://scryfall.com/card/pls/11"
+"/orims-chant?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:63
+msgid ""
+"Kicker |mana_w| (You may pay an additional |mana_w| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../PLS.rst:65
+msgid ""
+"Target player can't cast spells this turn. If this spell was kicked, "
+"creatures can't attack this turn."
+msgstr ""
+
+#: ../../PLS.rst:70
+msgid ""
+":mtgtip:`Planeswalker's "
+"Mirth<https://img.scryfall.com/cards/border_crop/en/pls/12.jpg?1517813031|https://scryfall.com/card/pls/12"
+"/planeswalkers-mirth?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:69
+msgid ""
+"|mana_3|\\ |mana_w|: Target opponent reveals a card at random from their "
+"hand. You gain life equal to that card's converted mana cost."
+msgstr ""
+
+#: ../../PLS.rst:76
+msgid ""
+":mtgtip:`Pollen "
+"Remedy<https://img.scryfall.com/cards/border_crop/en/pls/13.jpg?1517813031|https://scryfall.com/card/pls/13"
+"/pollen-remedy?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:73 ../../PLS.rst:163 ../../PLS.rst:427
+msgid ""
+"Kicker—Sacrifice a land. (You may sacrifice a land in addition to any "
+"other costs as you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:75
+msgid ""
+"Prevent the next 3 damage that would be dealt this turn to any number of "
+"targets, divided as you choose. If this spell was kicked, prevent the "
+"next 6 damage this way instead."
+msgstr ""
+
+#: ../../PLS.rst:80
+msgid ""
+":mtgtip:`Samite "
+"Elder<https://img.scryfall.com/cards/border_crop/en/pls/14.jpg?1517813031|https://scryfall.com/card/pls/14"
+"/samite-elder?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:79
+msgid ""
+"|tap|: Creatures you control gain protection from the colors of target "
+"permanent you control until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:84
+msgid ""
+":mtgtip:`Samite "
+"Pilgrim<https://img.scryfall.com/cards/border_crop/en/pls/15.jpg?1517813031|https://scryfall.com/card/pls/15"
+"/samite-pilgrim?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:83
+msgid ""
+"Domain — |tap|: Prevent the next X damage that would be dealt to target "
+"creature this turn, where X is the number of basic land types among lands"
+" you control."
+msgstr ""
+
+#: ../../PLS.rst:92
+msgid ""
+":mtgtip:`Sunscape "
+"Battlemage<https://img.scryfall.com/cards/border_crop/en/pls/16.jpg?1517813031|https://scryfall.com/card/pls/16"
+"/sunscape-battlemage?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:87
+msgid ""
+"Kicker |mana_1|\\ |mana_g| and/or |mana_2|\\ |mana_u| (You may pay an "
+"additional |mana_1|\\ |mana_g| and/or |mana_2|\\ |mana_u| as you cast "
+"this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:89
+msgid ""
+"When Sunscape Battlemage enters the battlefield, if it was kicked with "
+"its |mana_1|\\ |mana_g| kicker, destroy target creature with flying."
+msgstr ""
+
+#: ../../PLS.rst:91
+msgid ""
+"When Sunscape Battlemage enters the battlefield, if it was kicked with "
+"its |mana_2|\\ |mana_u| kicker, draw two cards."
+msgstr ""
+
+#: ../../PLS.rst:98
+msgid ""
+":mtgtip:`Sunscape "
+"Familiar<https://img.scryfall.com/cards/border_crop/en/pls/17.jpg?1517813031|https://scryfall.com/card/pls/17"
+"/sunscape-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:95
+msgid "Defender (This creature can't attack.)"
+msgstr ""
+
+#: ../../PLS.rst:97
+msgid "Green spells and blue spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../PLS.rst:104
+msgid ""
+":mtgtip:`Surprise "
+"Deployment<https://img.scryfall.com/cards/border_crop/en/pls/18.jpg?1517813031|https://scryfall.com/card/pls/18"
+"/surprise-deployment?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:101
+msgid "Cast this spell only during combat."
+msgstr ""
+
+#: ../../PLS.rst:103
+msgid ""
+"You may put a nonwhite creature card from your hand onto the battlefield."
+" At the beginning of the next end step, return that creature to your "
+"hand. (Return it only if it's on the battlefield.)"
+msgstr ""
+
+#: ../../PLS.rst:112
+msgid ""
+":mtgtip:`Voice of "
+"All<https://img.scryfall.com/cards/border_crop/en/pls/19.jpg?1517813031|https://scryfall.com/card/pls/19"
+"/voice-of-all?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:109
+msgid "As Voice of All enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../PLS.rst:111
+msgid "Voice of All has protection from the chosen color."
+msgstr ""
+
+#: ../../PLS.rst:116
+msgid ""
+":mtgtip:`Allied "
+"Strategies<https://img.scryfall.com/cards/border_crop/en/pls/20.jpg?1517813031|https://scryfall.com/card/pls/20"
+"/allied-strategies?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:115
+msgid ""
+"Domain — Target player draws a card for each basic land type among lands "
+"they control."
+msgstr ""
+
+#: ../../PLS.rst:122
+msgid ""
+":mtgtip:`Arctic "
+"Merfolk<https://img.scryfall.com/cards/border_crop/en/pls/21.jpg?1517813031|https://scryfall.com/card/pls/21"
+"/arctic-merfolk?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:119
+msgid ""
+"Kicker—Return a creature you control to its owner's hand. (You may return"
+" a creature you control to its owner's hand in addition to any other "
+"costs as you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:121
+msgid ""
+"If Arctic Merfolk was kicked, it enters the battlefield with a +1/+1 "
+"counter on it."
+msgstr ""
+
+#: ../../PLS.rst:128
+msgid ":mtgtip:`Confound<https://img.scryfall.com/cards/border_crop/en/pls/22.jpg?1517813031|https://scryfall.com/card/pls/22/confound?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:125
+msgid "Counter target spell that targets a creature."
+msgstr ""
+
+#: ../../PLS.rst:134
+msgid ""
+":mtgtip:`Dralnu's "
+"Pet<https://img.scryfall.com/cards/border_crop/en/pls/23.jpg?1517813031|https://scryfall.com/card/pls/23"
+"/dralnus-pet?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:131
+msgid ""
+"Kicker—|mana_2|\\ |mana_b|, Discard a creature card. (You may pay "
+"|mana_2|\\ |mana_b| and discard a creature card in addition to any other "
+"costs as you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:133
+msgid ""
+"If Dralnu's Pet was kicked, it enters the battlefield with flying and "
+"with X +1/+1 counters on it, where X is the discarded card's converted "
+"mana cost."
+msgstr ""
+
+#: ../../PLS.rst:138
+msgid ""
+":mtgtip:`Ertai's "
+"Trickery<https://img.scryfall.com/cards/border_crop/en/pls/24.jpg?1517813031|https://scryfall.com/card/pls/24"
+"/ertais-trickery?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:137
+msgid "Counter target spell if it was kicked."
+msgstr ""
+
+#: ../../PLS.rst:142
+msgid ""
+":mtgtip:`Escape "
+"Routes<https://img.scryfall.com/cards/border_crop/en/pls/25.jpg?1517813031|https://scryfall.com/card/pls/25"
+"/escape-routes?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:141
+msgid ""
+"|mana_2|\\ |mana_u|: Return target white or black creature you control to"
+" its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:146
+msgid ":mtgtip:`Gainsay<https://img.scryfall.com/cards/border_crop/en/pls/26.jpg?1517813031|https://scryfall.com/card/pls/26/gainsay?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:145
+msgid "Counter target blue spell."
+msgstr ""
+
+#: ../../PLS.rst:152
+msgid ""
+":mtgtip:`Hunting "
+"Drake<https://img.scryfall.com/cards/border_crop/en/pls/27.jpg?1517813031|https://scryfall.com/card/pls/27"
+"/hunting-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:151
+msgid ""
+"When Hunting Drake enters the battlefield, put target red or green "
+"creature on top of its owner's library."
+msgstr ""
+
+#: ../../PLS.rst:156
+msgid ""
+":mtgtip:`Planar "
+"Overlay<https://img.scryfall.com/cards/border_crop/en/pls/28.jpg?1517813031|https://scryfall.com/card/pls/28"
+"/planar-overlay?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:155
+msgid ""
+"Each player chooses a land they control of each basic land type. Return "
+"those lands to their owners' hands."
+msgstr ""
+
+#: ../../PLS.rst:160
+msgid ""
+":mtgtip:`Planeswalker's "
+"Mischief<https://img.scryfall.com/cards/border_crop/en/pls/29.jpg?1517813031|https://scryfall.com/card/pls/29"
+"/planeswalkers-mischief?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:159
+msgid ""
+"|mana_3|\\ |mana_u|: Target opponent reveals a card at random from their "
+"hand. If it's an instant or sorcery card, exile it. You may cast it "
+"without paying its mana cost for as long as it remains exiled. (If it has"
+" X in its mana cost, X is 0.) At the beginning of the next end step, if "
+"you haven't cast it, return it to its owner's hand. Activate this ability"
+" only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../PLS.rst:166
+msgid ""
+":mtgtip:`Rushing "
+"River<https://img.scryfall.com/cards/border_crop/en/pls/30.jpg?1517813031|https://scryfall.com/card/pls/30"
+"/rushing-river?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:165
+msgid ""
+"Return target nonland permanent to its owner's hand. If this spell was "
+"kicked, return another target nonland permanent to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:170
+msgid ""
+":mtgtip:`Sea "
+"Snidd<https://img.scryfall.com/cards/border_crop/en/pls/31.jpg?1517813031|https://scryfall.com/card/pls/31"
+"/sea-snidd?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:169
+msgid ""
+"|tap|: Target land becomes the basic land type of your choice until end "
+"of turn."
+msgstr ""
+
+#: ../../PLS.rst:176
+msgid ""
+":mtgtip:`Shifting "
+"Sky<https://img.scryfall.com/cards/border_crop/en/pls/32.jpg?1517813031|https://scryfall.com/card/pls/32"
+"/shifting-sky?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:173
+msgid "As Shifting Sky enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../PLS.rst:175
+msgid "All nonland permanents are the chosen color."
+msgstr ""
+
+#: ../../PLS.rst:184
+msgid ""
+":mtgtip:`Sisay's "
+"Ingenuity<https://img.scryfall.com/cards/border_crop/en/pls/33.jpg?1517813031|https://scryfall.com/card/pls/33"
+"/sisays-ingenuity?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:181
+msgid "When Sisay's Ingenuity enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../PLS.rst:183
+msgid ""
+"Enchanted creature has \"|mana_2|\\ |mana_u|: Target creature becomes the"
+" color of your choice until end of turn.\""
+msgstr ""
+
+#: ../../PLS.rst:194
+msgid ""
+":mtgtip:`Sleeping "
+"Potion<https://img.scryfall.com/cards/border_crop/en/pls/34.jpg?1517813031|https://scryfall.com/card/pls/34"
+"/sleeping-potion?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:189
+msgid "When Sleeping Potion enters the battlefield, tap enchanted creature."
+msgstr ""
+
+#: ../../PLS.rst:191
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../PLS.rst:193
+msgid ""
+"When enchanted creature becomes the target of a spell or ability, "
+"sacrifice Sleeping Potion."
+msgstr ""
+
+#: ../../PLS.rst:202
+msgid ""
+":mtgtip:`Stormscape "
+"Battlemage<https://img.scryfall.com/cards/border_crop/en/pls/35.jpg?1517813031|https://scryfall.com/card/pls/35"
+"/stormscape-battlemage?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:197
+msgid ""
+"Kicker |mana_w| and/or |mana_2|\\ |mana_b| (You may pay an additional "
+"|mana_w| and/or |mana_2|\\ |mana_b| as you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:199
+msgid ""
+"When Stormscape Battlemage enters the battlefield, if it was kicked with "
+"its |mana_w| kicker, you gain 3 life."
+msgstr ""
+
+#: ../../PLS.rst:201
+msgid ""
+"When Stormscape Battlemage enters the battlefield, if it was kicked with "
+"its |mana_2|\\ |mana_b| kicker, destroy target nonblack creature. That "
+"creature can't be regenerated."
+msgstr ""
+
+#: ../../PLS.rst:208
+msgid ""
+":mtgtip:`Stormscape "
+"Familiar<https://img.scryfall.com/cards/border_crop/en/pls/36.jpg?1517813031|https://scryfall.com/card/pls/36"
+"/stormscape-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:207
+msgid "White spells and black spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../PLS.rst:212
+msgid ""
+":mtgtip:`Sunken "
+"Hope<https://img.scryfall.com/cards/border_crop/en/pls/37.jpg?1517813031|https://scryfall.com/card/pls/37"
+"/sunken-hope?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:211
+msgid ""
+"At the beginning of each player's upkeep, that player returns a creature "
+"they control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:220
+msgid ""
+":mtgtip:`Waterspout "
+"Elemental<https://img.scryfall.com/cards/border_crop/en/pls/38.jpg?1517813031|https://scryfall.com/card/pls/38"
+"/waterspout-elemental?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:215
+msgid ""
+"Kicker |mana_u| (You may pay an additional |mana_u| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../PLS.rst:219
+msgid ""
+"When Waterspout Elemental enters the battlefield, if it was kicked, "
+"return all other creatures to their owners' hands and you skip your next "
+"turn."
+msgstr ""
+
+#: ../../PLS.rst:226
+msgid ""
+":mtgtip:`Bog "
+"Down<https://img.scryfall.com/cards/border_crop/en/pls/39.jpg?1517813031|https://scryfall.com/card/pls/39"
+"/bog-down?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:223 ../../PLS.rst:365
+msgid ""
+"Kicker—Sacrifice two lands. (You may sacrifice two lands in addition to "
+"any other costs as you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:225
+msgid ""
+"Target player discards two cards. If this spell was kicked, that player "
+"discards three cards instead."
+msgstr ""
+
+#: ../../PLS.rst:230
+msgid ""
+":mtgtip:`Dark "
+"Suspicions<https://img.scryfall.com/cards/border_crop/en/pls/40.jpg?1517813031|https://scryfall.com/card/pls/40"
+"/dark-suspicions?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:229
+msgid ""
+"At the beginning of each opponent's upkeep, that player loses X life, "
+"where X is the number of cards in that player's hand minus the number of "
+"cards in your hand."
+msgstr ""
+
+#: ../../PLS.rst:236
+msgid ""
+":mtgtip:`Death "
+"Bomb<https://img.scryfall.com/cards/border_crop/en/pls/41.jpg?1517813031|https://scryfall.com/card/pls/41"
+"/death-bomb?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:233 ../../PLS.rst:239
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../PLS.rst:235
+msgid ""
+"Destroy target nonblack creature. It can't be regenerated. Its controller"
+" loses 2 life."
+msgstr ""
+
+#: ../../PLS.rst:242
+msgid ""
+":mtgtip:`Diabolic "
+"Intent<https://img.scryfall.com/cards/border_crop/en/pls/42.jpg?1517813031|https://scryfall.com/card/pls/42"
+"/diabolic-intent?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:241
+msgid ""
+"Search your library for a card and put that card into your hand. Then "
+"shuffle your library."
+msgstr ""
+
+#: ../../PLS.rst:246
+msgid ""
+":mtgtip:`Exotic "
+"Disease<https://img.scryfall.com/cards/border_crop/en/pls/43.jpg?1517813031|https://scryfall.com/card/pls/43"
+"/exotic-disease?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:245
+msgid ""
+"Domain — Target player loses X life and you gain X life, where X is the "
+"number of basic land types among lands you control."
+msgstr ""
+
+#: ../../PLS.rst:252
+msgid ""
+":mtgtip:`Lord of the "
+"Undead<https://img.scryfall.com/cards/border_crop/en/pls/44.jpg?1517813031|https://scryfall.com/card/pls/44"
+"/lord-of-the-undead?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:249
+msgid "Other Zombie creatures get +1/+1."
+msgstr ""
+
+#: ../../PLS.rst:251
+msgid ""
+"|mana_1|\\ |mana_b|, |tap|: Return target Zombie card from your graveyard"
+" to your hand."
+msgstr ""
+
+#: ../../PLS.rst:256
+msgid ""
+":mtgtip:`Maggot "
+"Carrier<https://img.scryfall.com/cards/border_crop/en/pls/45.jpg?1517813031|https://scryfall.com/card/pls/45"
+"/maggot-carrier?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:255
+msgid "When Maggot Carrier enters the battlefield, each player loses 1 life."
+msgstr ""
+
+#: ../../PLS.rst:260
+msgid ""
+":mtgtip:`Morgue "
+"Toad<https://img.scryfall.com/cards/border_crop/en/pls/46.jpg?1517813031|https://scryfall.com/card/pls/46"
+"/morgue-toad?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:259
+msgid "Sacrifice Morgue Toad: Add |mana_u|\\ |mana_r|."
+msgstr ""
+
+#: ../../PLS.rst:268
+msgid ""
+":mtgtip:`Nightscape "
+"Battlemage<https://img.scryfall.com/cards/border_crop/en/pls/47.jpg?1517813031|https://scryfall.com/card/pls/47"
+"/nightscape-battlemage?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:263
+msgid ""
+"Kicker |mana_2|\\ |mana_u| and/or |mana_2|\\ |mana_r| (You may pay an "
+"additional |mana_2|\\ |mana_u| and/or |mana_2|\\ |mana_r| as you cast "
+"this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:265
+msgid ""
+"When Nightscape Battlemage enters the battlefield, if it was kicked with "
+"its |mana_2|\\ |mana_u| kicker, return up to two target nonblack "
+"creatures to their owners' hands."
+msgstr ""
+
+#: ../../PLS.rst:267
+msgid ""
+"When Nightscape Battlemage enters the battlefield, if it was kicked with "
+"its |mana_2|\\ |mana_r| kicker, destroy target land."
+msgstr ""
+
+#: ../../PLS.rst:274
+msgid ""
+":mtgtip:`Nightscape "
+"Familiar<https://img.scryfall.com/cards/border_crop/en/pls/48.jpg?1517813031|https://scryfall.com/card/pls/48"
+"/nightscape-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:271
+msgid "Blue spells and red spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../PLS.rst:273
+msgid "|mana_1|\\ |mana_b|: Regenerate Nightscape Familiar."
+msgstr ""
+
+#: ../../PLS.rst:278
+msgid ""
+":mtgtip:`Noxious "
+"Vapors<https://img.scryfall.com/cards/border_crop/en/pls/49.jpg?1517813031|https://scryfall.com/card/pls/49"
+"/noxious-vapors?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:277
+msgid ""
+"Each player reveals their hand, chooses one card of each color from it, "
+"then discards all other nonland cards."
+msgstr ""
+
+#: ../../PLS.rst:282
+msgid ""
+":mtgtip:`Phyrexian "
+"Bloodstock<https://img.scryfall.com/cards/border_crop/en/pls/50.jpg?1517813031|https://scryfall.com/card/pls/50"
+"/phyrexian-bloodstock?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:281
+msgid ""
+"When Phyrexian Bloodstock leaves the battlefield, destroy target white "
+"creature. It can't be regenerated."
+msgstr ""
+
+#: ../../PLS.rst:288
+msgid ""
+":mtgtip:`Phyrexian "
+"Scuta<https://img.scryfall.com/cards/border_crop/en/pls/51.jpg?1517813031|https://scryfall.com/card/pls/51"
+"/phyrexian-scuta?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:285
+msgid ""
+"Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as "
+"you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:287
+msgid ""
+"If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 "
+"counters on it."
+msgstr ""
+
+#: ../../PLS.rst:292
+msgid ""
+":mtgtip:`Planeswalker's "
+"Scorn<https://img.scryfall.com/cards/border_crop/en/pls/52.jpg?1526949232|https://scryfall.com/card/pls/52"
+"/planeswalkers-scorn?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:291
+msgid ""
+"|mana_3|\\ |mana_b|: Target opponent reveals a card at random from their "
+"hand. Target creature gets -X/-X until end of turn, where X is the "
+"revealed card's converted mana cost. Activate this ability only any time "
+"you could cast a sorcery."
+msgstr ""
+
+#: ../../PLS.rst:296
+msgid ""
+":mtgtip:`Shriek of "
+"Dread<https://img.scryfall.com/cards/border_crop/en/pls/53.jpg?1517813031|https://scryfall.com/card/pls/53"
+"/shriek-of-dread?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:295
+msgid ""
+"Target creature gains fear until end of turn. (It can't be blocked except"
+" by artifact creatures and/or black creatures.)"
+msgstr ""
+
+#: ../../PLS.rst:302
+msgid ""
+":mtgtip:`Sinister "
+"Strength<https://img.scryfall.com/cards/border_crop/en/pls/54.jpg?1517813031|https://scryfall.com/card/pls/54"
+"/sinister-strength?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:301
+msgid "Enchanted creature gets +3/+1 and is black."
+msgstr ""
+
+#: ../../PLS.rst:308
+msgid ":mtgtip:`Slay<https://img.scryfall.com/cards/border_crop/en/pls/55.jpg?1517813031|https://scryfall.com/card/pls/55/slay?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:305
+msgid "Destroy target green creature. It can't be regenerated."
+msgstr ""
+
+#: ../../PLS.rst:314
+msgid ""
+":mtgtip:`Volcano "
+"Imp<https://img.scryfall.com/cards/border_crop/en/pls/56.jpg?1517813031|https://scryfall.com/card/pls/56"
+"/volcano-imp?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:313
+msgid "|mana_1|\\ |mana_r|: Volcano Imp gains first strike until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:318
+msgid ""
+":mtgtip:`Warped "
+"Devotion<https://img.scryfall.com/cards/border_crop/en/pls/57.jpg?1517813031|https://scryfall.com/card/pls/57"
+"/warped-devotion?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:317
+msgid ""
+"Whenever a permanent is returned to a player's hand, that player discards"
+" a card."
+msgstr ""
+
+#: ../../PLS.rst:324
+msgid ""
+":mtgtip:`Caldera "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/58.jpg?1517813031|https://scryfall.com/card/pls/58"
+"/caldera-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:321
+msgid "|mana_1|\\ |mana_b|: Caldera Kavu gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:323
+msgid "|mana_g|: Caldera Kavu becomes the color of your choice until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:328
+msgid ":mtgtip:`Deadapult<https://img.scryfall.com/cards/border_crop/en/pls/59.jpg?1517813031|https://scryfall.com/card/pls/59/deadapult?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:327
+msgid "|mana_r|, Sacrifice a Zombie: Deadapult deals 2 damage to any target."
+msgstr ""
+
+#: ../../PLS.rst:332
+msgid ""
+":mtgtip:`Flametongue "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/60.jpg?1517813031|https://scryfall.com/card/pls/60"
+"/flametongue-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:331
+msgid ""
+"When Flametongue Kavu enters the battlefield, it deals 4 damage to target"
+" creature."
+msgstr ""
+
+#: ../../PLS.rst:336
+msgid ""
+":mtgtip:`Goblin "
+"Game<https://img.scryfall.com/cards/border_crop/en/pls/61.jpg?1517813031|https://scryfall.com/card/pls/61"
+"/goblin-game?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:335
+msgid ""
+"Each player hides at least one item, then all players reveal them "
+"simultaneously. Each player loses life equal to the number of items they "
+"revealed. The player who revealed the fewest items then loses half their "
+"life, rounded up. If two or more players are tied for fewest, each loses "
+"half their life, rounded up."
+msgstr ""
+
+#: ../../PLS.rst:342
+msgid ":mtgtip:`Implode<https://img.scryfall.com/cards/border_crop/en/pls/62.jpg?1517813031|https://scryfall.com/card/pls/62/implode?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:339
+msgid "Destroy target land."
+msgstr ""
+
+#: ../../PLS.rst:348
+msgid ":mtgtip:`Insolence<https://img.scryfall.com/cards/border_crop/en/pls/63.jpg?1517813031|https://scryfall.com/card/pls/63/insolence?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:347
+msgid ""
+"Whenever enchanted creature becomes tapped, Insolence deals 2 damage to "
+"that creature's controller."
+msgstr ""
+
+#: ../../PLS.rst:352
+msgid ""
+":mtgtip:`Kavu "
+"Recluse<https://img.scryfall.com/cards/border_crop/en/pls/64.jpg?1517813031|https://scryfall.com/card/pls/64"
+"/kavu-recluse?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:351
+msgid "|tap|: Target land becomes a Forest until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:362
+msgid ""
+":mtgtip:`Keldon "
+"Mantle<https://img.scryfall.com/cards/border_crop/en/pls/65.jpg?1517813031|https://scryfall.com/card/pls/65"
+"/keldon-mantle?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:357
+msgid "|mana_b|: Regenerate enchanted creature."
+msgstr ""
+
+#: ../../PLS.rst:359
+msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:361
+msgid "|mana_g|: Enchanted creature gains trample until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:368
+msgid ""
+":mtgtip:`Magma "
+"Burst<https://img.scryfall.com/cards/border_crop/en/pls/66.jpg?1517813031|https://scryfall.com/card/pls/66"
+"/magma-burst?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:367
+msgid ""
+"Magma Burst deals 3 damage to any target. If this spell was kicked, it "
+"deals 3 damage to another target."
+msgstr ""
+
+#: ../../PLS.rst:372
+msgid ""
+":mtgtip:`Mire "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/67.jpg?1517813031|https://scryfall.com/card/pls/67"
+"/mire-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:371
+msgid "Mire Kavu gets +1/+1 as long as you control a Swamp."
+msgstr ""
+
+#: ../../PLS.rst:376
+msgid ""
+":mtgtip:`Mogg "
+"Jailer<https://img.scryfall.com/cards/border_crop/en/pls/68.jpg?1517813031|https://scryfall.com/card/pls/68"
+"/mogg-jailer?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:375
+msgid ""
+"Mogg Jailer can't attack if defending player controls an untapped "
+"creature with power 2 or less."
+msgstr ""
+
+#: ../../PLS.rst:380
+msgid ""
+":mtgtip:`Mogg "
+"Sentry<https://img.scryfall.com/cards/border_crop/en/pls/69.jpg?1517813031|https://scryfall.com/card/pls/69"
+"/mogg-sentry?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:379
+msgid ""
+"Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of "
+"turn."
+msgstr ""
+
+#: ../../PLS.rst:384
+msgid ""
+":mtgtip:`Planeswalker's "
+"Fury<https://img.scryfall.com/cards/border_crop/en/pls/70.jpg?1517813031|https://scryfall.com/card/pls/70"
+"/planeswalkers-fury?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:383
+msgid ""
+"|mana_3|\\ |mana_r|: Target opponent reveals a card at random from their "
+"hand. Planeswalker's Fury deals damage equal to that card's converted "
+"mana cost to that player. Activate this ability only any time you could "
+"cast a sorcery."
+msgstr ""
+
+#: ../../PLS.rst:388
+msgid ":mtgtip:`Singe<https://img.scryfall.com/cards/border_crop/en/pls/71.jpg?1517813031|https://scryfall.com/card/pls/71/singe?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:387
+msgid ""
+"Singe deals 1 damage to target creature. That creature becomes black "
+"until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:392
+msgid ""
+":mtgtip:`Slingshot "
+"Goblin<https://img.scryfall.com/cards/border_crop/en/pls/72.jpg?1517813031|https://scryfall.com/card/pls/72"
+"/slingshot-goblin?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:391
+msgid "|mana_r|, |tap|: Slingshot Goblin deals 2 damage to target blue creature."
+msgstr ""
+
+#: ../../PLS.rst:396
+msgid ":mtgtip:`Strafe<https://img.scryfall.com/cards/border_crop/en/pls/73.jpg?1517813031|https://scryfall.com/card/pls/73/strafe?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:395
+msgid "Strafe deals 3 damage to target nonred creature."
+msgstr ""
+
+#: ../../PLS.rst:402
+msgid ""
+":mtgtip:`Tahngarth, Talruum "
+"Hero<https://img.scryfall.com/cards/border_crop/en/pls/74.jpg?1517813031|https://scryfall.com/card/pls/74"
+"/tahngarth-talruum-hero?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:399
+msgid "Vigilance"
+msgstr ""
+
+#: ../../PLS.rst:401
+msgid ""
+"|mana_1|\\ |mana_r|, |tap|: Tahngarth, Talruum Hero deals damage equal to"
+" its power to target creature. That creature deals damage equal to its "
+"power to Tahngarth."
+msgstr ""
+
+#: ../../PLS.rst:410
+msgid ""
+":mtgtip:`Thunderscape "
+"Battlemage<https://img.scryfall.com/cards/border_crop/en/pls/75.jpg?1517813031|https://scryfall.com/card/pls/75"
+"/thunderscape-battlemage?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:405
+msgid ""
+"Kicker |mana_1|\\ |mana_b| and/or |mana_g| (You may pay an additional "
+"|mana_1|\\ |mana_b| and/or |mana_g| as you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:407
+msgid ""
+"When Thunderscape Battlemage enters the battlefield, if it was kicked "
+"with its |mana_1|\\ |mana_b| kicker, target player discards two cards."
+msgstr ""
+
+#: ../../PLS.rst:409
+msgid ""
+"When Thunderscape Battlemage enters the battlefield, if it was kicked "
+"with its |mana_g| kicker, destroy target enchantment."
+msgstr ""
+
+#: ../../PLS.rst:416
+msgid ""
+":mtgtip:`Thunderscape "
+"Familiar<https://img.scryfall.com/cards/border_crop/en/pls/76.jpg?1517813031|https://scryfall.com/card/pls/76"
+"/thunderscape-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:413 ../../PLS.rst:701
+msgid "First strike"
+msgstr ""
+
+#: ../../PLS.rst:415
+msgid "Black spells and green spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../PLS.rst:420
+msgid ""
+":mtgtip:`Alpha "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/77.jpg?1517813031|https://scryfall.com/card/pls/77"
+"/alpha-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:419
+msgid "|mana_1|\\ |mana_g|: Target Kavu creature gets -1/+1 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:424
+msgid ""
+":mtgtip:`Amphibious "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/78.jpg?1517813031|https://scryfall.com/card/pls/78"
+"/amphibious-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:423
+msgid ""
+"Whenever Amphibious Kavu blocks or becomes blocked by one or more blue "
+"and/or black creatures, Amphibious Kavu gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:430
+msgid ""
+":mtgtip:`Falling "
+"Timber<https://img.scryfall.com/cards/border_crop/en/pls/79.jpg?1517813031|https://scryfall.com/card/pls/79"
+"/falling-timber?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:429
+msgid ""
+"Prevent all combat damage target creature would deal this turn. If this "
+"spell was kicked, prevent all combat damage another target creature would"
+" deal this turn."
+msgstr ""
+
+#: ../../PLS.rst:434
+msgid ""
+":mtgtip:`Gaea's "
+"Herald<https://img.scryfall.com/cards/border_crop/en/pls/80.jpg?1517813031|https://scryfall.com/card/pls/80"
+"/gaeas-herald?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:433
+msgid "Creature spells can't be countered."
+msgstr ""
+
+#: ../../PLS.rst:438
+msgid ""
+":mtgtip:`Gaea's "
+"Might<https://img.scryfall.com/cards/border_crop/en/pls/81.jpg?1517813031|https://scryfall.com/card/pls/81"
+"/gaeas-might?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:437
+msgid ""
+"Domain — Target creature gets +1/+1 until end of turn for each basic land"
+" type among lands you control."
+msgstr ""
+
+#: ../../PLS.rst:442
+msgid ""
+":mtgtip:`Magnigoth "
+"Treefolk<https://img.scryfall.com/cards/border_crop/en/pls/82.jpg?1517813031|https://scryfall.com/card/pls/82"
+"/magnigoth-treefolk?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:441
+msgid ""
+"Domain — For each basic land type among lands you control, Magnigoth "
+"Treefolk has landwalk of that type. (It can't be blocked as long as "
+"defending player controls a land of that type.)"
+msgstr ""
+
+#: ../../PLS.rst:446
+msgid ""
+":mtgtip:`Mirrorwood "
+"Treefolk<https://img.scryfall.com/cards/border_crop/en/pls/83.jpg?1517813031|https://scryfall.com/card/pls/83"
+"/mirrorwood-treefolk?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:445
+msgid ""
+"|mana_2|\\ |mana_r|\\ |mana_w|: The next time damage would be dealt to "
+"Mirrorwood Treefolk this turn, that damage is dealt to any target "
+"instead."
+msgstr ""
+
+#: ../../PLS.rst:452
+msgid ""
+":mtgtip:`Multani's "
+"Harmony<https://img.scryfall.com/cards/border_crop/en/pls/84.jpg?1517813031|https://scryfall.com/card/pls/84"
+"/multanis-harmony?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:451
+msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
+msgstr ""
+
+#: ../../PLS.rst:458
+msgid ""
+":mtgtip:`Nemata, Grove "
+"Guardian<https://img.scryfall.com/cards/border_crop/en/pls/85.jpg?1517813031|https://scryfall.com/card/pls/85"
+"/nemata-grove-guardian?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:455
+msgid "|mana_2|\\ |mana_g|: Create a 1/1 green Saproling creature token."
+msgstr ""
+
+#: ../../PLS.rst:457
+msgid "Sacrifice a Saproling: Saproling creatures get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:462
+msgid ""
+":mtgtip:`Planeswalker's "
+"Favor<https://img.scryfall.com/cards/border_crop/en/pls/86.jpg?1517813031|https://scryfall.com/card/pls/86"
+"/planeswalkers-favor?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:461
+msgid ""
+"|mana_3|\\ |mana_g|: Target opponent reveals a card at random from their "
+"hand. Target creature gets +X/+X until end of turn, where X is the "
+"revealed card's converted mana cost."
+msgstr ""
+
+#: ../../PLS.rst:468
+msgid ""
+":mtgtip:`Primal "
+"Growth<https://img.scryfall.com/cards/border_crop/en/pls/87.jpg?1517813031|https://scryfall.com/card/pls/87"
+"/primal-growth?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:465
+msgid ""
+"Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to"
+" any other costs as you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:467
+msgid ""
+"Search your library for a basic land card, put that card onto the "
+"battlefield, then shuffle your library. If this spell was kicked, instead"
+" search your library for up to two basic land cards, put them onto the "
+"battlefield, then shuffle your library."
+msgstr ""
+
+#: ../../PLS.rst:472
+msgid ""
+":mtgtip:`Pygmy "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/88.jpg?1517813031|https://scryfall.com/card/pls/88"
+"/pygmy-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:471
+msgid ""
+"When Pygmy Kavu enters the battlefield, draw a card for each black "
+"creature your opponents control."
+msgstr ""
+
+#: ../../PLS.rst:476
+msgid ""
+":mtgtip:`Quirion "
+"Dryad<https://img.scryfall.com/cards/border_crop/en/pls/89.jpg?1517813031|https://scryfall.com/card/pls/89"
+"/quirion-dryad?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:475
+msgid ""
+"Whenever you cast a white, blue, black, or red spell, put a +1/+1 counter"
+" on Quirion Dryad."
+msgstr ""
+
+#: ../../PLS.rst:480
+msgid ""
+":mtgtip:`Quirion "
+"Explorer<https://img.scryfall.com/cards/border_crop/en/pls/90.jpg?1517813031|https://scryfall.com/card/pls/90"
+"/quirion-explorer?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:479
+msgid ""
+"|tap|: Add one mana of any color that a land an opponent controls could "
+"produce."
+msgstr ""
+
+#: ../../PLS.rst:484
+msgid ""
+":mtgtip:`Root "
+"Greevil<https://img.scryfall.com/cards/border_crop/en/pls/91.jpg?1517813031|https://scryfall.com/card/pls/91"
+"/root-greevil?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:483
+msgid ""
+"|mana_2|\\ |mana_g|, |tap|, Sacrifice Root Greevil: Destroy all "
+"enchantments of the color of your choice."
+msgstr ""
+
+#: ../../PLS.rst:490
+msgid ""
+":mtgtip:`Skyshroud "
+"Blessing<https://img.scryfall.com/cards/border_crop/en/pls/92.jpg?1517813031|https://scryfall.com/card/pls/92"
+"/skyshroud-blessing?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:487
+msgid ""
+"All lands gain shroud until end of turn. (They can't be the targets of "
+"spells or abilities.)"
+msgstr ""
+
+#: ../../PLS.rst:496
+msgid ""
+":mtgtip:`Stone "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/93.jpg?1517813031|https://scryfall.com/card/pls/93"
+"/stone-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:493
+msgid "|mana_r|: Stone Kavu gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:495
+msgid "|mana_w|: Stone Kavu gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:504
+msgid ""
+":mtgtip:`Thornscape "
+"Battlemage<https://img.scryfall.com/cards/border_crop/en/pls/94.jpg?1517813031|https://scryfall.com/card/pls/94"
+"/thornscape-battlemage?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:499
+msgid ""
+"Kicker |mana_r| and/or |mana_w| (You may pay an additional |mana_r| "
+"and/or |mana_w| as you cast this spell.)"
+msgstr ""
+
+#: ../../PLS.rst:501
+msgid ""
+"When Thornscape Battlemage enters the battlefield, if it was kicked with "
+"its |mana_r| kicker, it deals 2 damage to any target."
+msgstr ""
+
+#: ../../PLS.rst:503
+msgid ""
+"When Thornscape Battlemage enters the battlefield, if it was kicked with "
+"its |mana_w| kicker, destroy target artifact."
+msgstr ""
+
+#: ../../PLS.rst:508
+msgid ""
+":mtgtip:`Thornscape "
+"Familiar<https://img.scryfall.com/cards/border_crop/en/pls/95.jpg?1517813031|https://scryfall.com/card/pls/95"
+"/thornscape-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:507
+msgid "Red spells and white spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../PLS.rst:512
+msgid ""
+":mtgtip:`Ancient "
+"Spider<https://img.scryfall.com/cards/border_crop/en/pls/96.jpg?1517813031|https://scryfall.com/card/pls/96"
+"/ancient-spider?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:511
+msgid "First strike; reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../PLS.rst:520
+msgid ""
+":mtgtip:`Cavern "
+"Harpy<https://img.scryfall.com/cards/border_crop/en/pls/97.jpg?1517813031|https://scryfall.com/card/pls/97"
+"/cavern-harpy?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:517
+msgid ""
+"When Cavern Harpy enters the battlefield, return a blue or black creature"
+" you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:519
+msgid "Pay 1 life: Return Cavern Harpy to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:524
+msgid ""
+":mtgtip:`Cloud "
+"Cover<https://img.scryfall.com/cards/border_crop/en/pls/98.jpg?1517813031|https://scryfall.com/card/pls/98"
+"/cloud-cover?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:523
+msgid ""
+"Whenever another permanent you control becomes the target of a spell or "
+"ability an opponent controls, you may return that permanent to its "
+"owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:534
+msgid ""
+":mtgtip:`Crosis's "
+"Charm<https://img.scryfall.com/cards/border_crop/en/pls/99.jpg?1517813031|https://scryfall.com/card/pls/99"
+"/crosiss-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:527 ../../PLS.rst:537 ../../PLS.rst:569 ../../PLS.rst:601
+#: ../../PLS.rst:665 ../../PLS.rst:711
+msgid "Choose one —"
+msgstr ""
+
+#: ../../PLS.rst:529
+msgid "Return target permanent to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:531
+msgid "Destroy target nonblack creature. It can't be regenerated."
+msgstr ""
+
+#: ../../PLS.rst:533 ../../PLS.rst:603
+msgid "Destroy target artifact."
+msgstr ""
+
+#: ../../PLS.rst:544
+msgid ""
+":mtgtip:`Darigaaz's "
+"Charm<https://img.scryfall.com/cards/border_crop/en/pls/100.jpg?1517813031|https://scryfall.com/card/pls/100"
+"/darigaazs-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:539
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../PLS.rst:541
+msgid "Darigaaz's Charm deals 3 damage to any target."
+msgstr ""
+
+#: ../../PLS.rst:543
+msgid "Target creature gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:548
+msgid ""
+":mtgtip:`Daring "
+"Leap<https://img.scryfall.com/cards/border_crop/en/pls/101.jpg?1517813031|https://scryfall.com/card/pls/101"
+"/daring-leap?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:547
+msgid ""
+"Target creature gets +1/+1 and gains flying and first strike until end of"
+" turn."
+msgstr ""
+
+#: ../../PLS.rst:552
+msgid ""
+":mtgtip:`Destructive "
+"Flow<https://img.scryfall.com/cards/border_crop/en/pls/102.jpg?1517813031|https://scryfall.com/card/pls/102"
+"/destructive-flow?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:551
+msgid ""
+"At the beginning of each player's upkeep, that player sacrifices a "
+"nonbasic land."
+msgstr ""
+
+#: ../../PLS.rst:560
+msgid ""
+":mtgtip:`Doomsday "
+"Specter<https://img.scryfall.com/cards/border_crop/en/pls/103.jpg?1517813031|https://scryfall.com/card/pls/103"
+"/doomsday-specter?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:557
+msgid ""
+"When Doomsday Specter enters the battlefield, return a blue or black "
+"creature you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:559
+msgid ""
+"Whenever Doomsday Specter deals combat damage to a player, look at that "
+"player's hand and choose a card from it. The player discards that card."
+msgstr ""
+
+#: ../../PLS.rst:566
+msgid ""
+":mtgtip:`Dralnu's "
+"Crusade<https://img.scryfall.com/cards/border_crop/en/pls/104.jpg?1517813031|https://scryfall.com/card/pls/104"
+"/dralnus-crusade?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:563
+msgid "Goblin creatures get +1/+1."
+msgstr ""
+
+#: ../../PLS.rst:565
+msgid ""
+"All Goblins are black and are Zombies in addition to their other creature"
+" types."
+msgstr ""
+
+#: ../../PLS.rst:576
+msgid ""
+":mtgtip:`Dromar's "
+"Charm<https://img.scryfall.com/cards/border_crop/en/pls/105.jpg?1517813031|https://scryfall.com/card/pls/105"
+"/dromars-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:571
+msgid "You gain 5 life."
+msgstr ""
+
+#: ../../PLS.rst:573
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../PLS.rst:575
+msgid "Target creature gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:580
+msgid ""
+":mtgtip:`Eladamri's "
+"Call<https://img.scryfall.com/cards/border_crop/en/pls/106.jpg?1517813031|https://scryfall.com/card/pls/106"
+"/eladamris-call?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:579
+msgid ""
+"Search your library for a creature card, reveal that card, put it into "
+"your hand, then shuffle your library."
+msgstr ""
+
+#: ../../PLS.rst:584
+msgid ""
+":mtgtip:`Ertai, the "
+"Corrupted<https://img.scryfall.com/cards/border_crop/en/pls/107.jpg?1517813031|https://scryfall.com/card/pls/107"
+"/ertai-the-corrupted?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:583
+msgid ""
+"|mana_u|, |tap|, Sacrifice a creature or enchantment: Counter target "
+"spell."
+msgstr ""
+
+#: ../../PLS.rst:590
+msgid ""
+":mtgtip:`Fleetfoot "
+"Panther<https://img.scryfall.com/cards/border_crop/en/pls/108.jpg?1517813031|https://scryfall.com/card/pls/108"
+"/fleetfoot-panther?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:587
+msgid "Flash"
+msgstr ""
+
+#: ../../PLS.rst:589
+msgid ""
+"When Fleetfoot Panther enters the battlefield, return a green or white "
+"creature you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:594
+msgid ""
+":mtgtip:`Gerrard's "
+"Command<https://img.scryfall.com/cards/border_crop/en/pls/109.jpg?1517813031|https://scryfall.com/card/pls/109"
+"/gerrards-command?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:593
+msgid "Untap target creature. It gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:598
+msgid ""
+":mtgtip:`Horned "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/110.jpg?1531565610|https://scryfall.com/card/pls/110"
+"/horned-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:597
+msgid ""
+"When Horned Kavu enters the battlefield, return a red or green creature "
+"you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:608
+msgid ""
+":mtgtip:`Hull "
+"Breach<https://img.scryfall.com/cards/border_crop/en/pls/111.jpg?1517813031|https://scryfall.com/card/pls/111"
+"/hull-breach?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:607
+msgid "Destroy target artifact and target enchantment."
+msgstr ""
+
+#: ../../PLS.rst:612
+msgid ""
+":mtgtip:`Keldon "
+"Twilight<https://img.scryfall.com/cards/border_crop/en/pls/112.jpg?1517813031|https://scryfall.com/card/pls/112"
+"/keldon-twilight?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:611
+msgid ""
+"At the beginning of each player's end step, if no creatures attacked this"
+" turn, that player sacrifices a creature they controlled since the "
+"beginning of the turn."
+msgstr ""
+
+#: ../../PLS.rst:618
+msgid ""
+":mtgtip:`Lava "
+"Zombie<https://img.scryfall.com/cards/border_crop/en/pls/113.jpg?1517813031|https://scryfall.com/card/pls/113"
+"/lava-zombie?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:615
+msgid ""
+"When Lava Zombie enters the battlefield, return a black or red creature "
+"you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:617
+msgid "|mana_2|: Lava Zombie gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../PLS.rst:622
+msgid ""
+":mtgtip:`Malicious "
+"Advice<https://img.scryfall.com/cards/border_crop/en/pls/114.jpg?1517813031|https://scryfall.com/card/pls/114"
+"/malicious-advice?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:621
+msgid "Tap X target artifacts, creatures, and/or lands. You lose X life."
+msgstr ""
+
+#: ../../PLS.rst:628
+msgid ""
+":mtgtip:`Marsh "
+"Crocodile<https://img.scryfall.com/cards/border_crop/en/pls/115.jpg?1517813031|https://scryfall.com/card/pls/115"
+"/marsh-crocodile?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:625
+msgid ""
+"When Marsh Crocodile enters the battlefield, return a blue or black "
+"creature you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:627
+msgid "When Marsh Crocodile enters the battlefield, each player discards a card."
+msgstr ""
+
+#: ../../PLS.rst:634
+msgid ""
+":mtgtip:`Meddling "
+"Mage<https://img.scryfall.com/cards/border_crop/en/pls/116.jpg?1528749714|https://scryfall.com/card/pls/116"
+"/meddling-mage?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:631
+msgid "As Meddling Mage enters the battlefield, choose a nonland card name."
+msgstr ""
+
+#: ../../PLS.rst:633
+msgid "Spells with the chosen name can't be cast."
+msgstr ""
+
+#: ../../PLS.rst:640
+msgid ""
+":mtgtip:`Natural "
+"Emergence<https://img.scryfall.com/cards/border_crop/en/pls/117.jpg?1517813031|https://scryfall.com/card/pls/117"
+"/natural-emergence?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:637
+msgid ""
+"When Natural Emergence enters the battlefield, return a red or green "
+"enchantment you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:639
+msgid ""
+"Lands you control are 2/2 creatures with first strike. They're still "
+"lands."
+msgstr ""
+
+#: ../../PLS.rst:644
+msgid ""
+":mtgtip:`Phyrexian "
+"Tyranny<https://img.scryfall.com/cards/border_crop/en/pls/118.jpg?1517813031|https://scryfall.com/card/pls/118"
+"/phyrexian-tyranny?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:643
+msgid ""
+"Whenever a player draws a card, that player loses 2 life unless they pay "
+"|mana_2|."
+msgstr ""
+
+#: ../../PLS.rst:652
+msgid ""
+":mtgtip:`Questing "
+"Phelddagrif<https://img.scryfall.com/cards/border_crop/en/pls/119.jpg?1517813031|https://scryfall.com/card/pls/119"
+"/questing-phelddagrif?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:647
+msgid ""
+"|mana_g|: Questing Phelddagrif gets +1/+1 until end of turn. Target "
+"opponent creates a 1/1 green Hippo creature token."
+msgstr ""
+
+#: ../../PLS.rst:649
+msgid ""
+"|mana_w|: Questing Phelddagrif gains protection from black and from red "
+"until end of turn. Target opponent gains 2 life."
+msgstr ""
+
+#: ../../PLS.rst:651
+msgid ""
+"|mana_u|: Questing Phelddagrif gains flying until end of turn. Target "
+"opponent may draw a card."
+msgstr ""
+
+#: ../../PLS.rst:656
+msgid ""
+":mtgtip:`Radiant "
+"Kavu<https://img.scryfall.com/cards/border_crop/en/pls/120.jpg?1517813031|https://scryfall.com/card/pls/120"
+"/radiant-kavu?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:655
+msgid ""
+"|mana_r|\\ |mana_g|\\ |mana_w|: Prevent all combat damage blue creatures "
+"and black creatures would deal this turn."
+msgstr ""
+
+#: ../../PLS.rst:662
+msgid ""
+":mtgtip:`Razing "
+"Snidd<https://img.scryfall.com/cards/border_crop/en/pls/121.jpg?1517813031|https://scryfall.com/card/pls/121"
+"/razing-snidd?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:659
+msgid ""
+"When Razing Snidd enters the battlefield, return a black or red creature "
+"you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:661
+msgid "When Razing Snidd enters the battlefield, each player sacrifices a land."
+msgstr ""
+
+#: ../../PLS.rst:672
+msgid ""
+":mtgtip:`Rith's "
+"Charm<https://img.scryfall.com/cards/border_crop/en/pls/122.jpg?1517813031|https://scryfall.com/card/pls/122"
+"/riths-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:667
+msgid "Destroy target nonbasic land."
+msgstr ""
+
+#: ../../PLS.rst:669
+msgid "Create three 1/1 green Saproling creature tokens."
+msgstr ""
+
+#: ../../PLS.rst:671
+msgid "Prevent all damage a source of your choice would deal this turn."
+msgstr ""
+
+#: ../../PLS.rst:680
+msgid ""
+":mtgtip:`Sawtooth "
+"Loon<https://img.scryfall.com/cards/border_crop/en/pls/123.jpg?1517813031|https://scryfall.com/card/pls/123"
+"/sawtooth-loon?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:677
+msgid ""
+"When Sawtooth Loon enters the battlefield, return a white or blue "
+"creature you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:679
+msgid ""
+"When Sawtooth Loon enters the battlefield, draw two cards, then put two "
+"cards from your hand on the bottom of your library."
+msgstr ""
+
+#: ../../PLS.rst:686
+msgid ""
+":mtgtip:`Shivan "
+"Wurm<https://img.scryfall.com/cards/border_crop/en/pls/124.jpg?1517813031|https://scryfall.com/card/pls/124"
+"/shivan-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:683 ../../PLS.rst:751
+msgid "Trample"
+msgstr ""
+
+#: ../../PLS.rst:685
+msgid ""
+"When Shivan Wurm enters the battlefield, return a red or green creature "
+"you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:692
+msgid ""
+":mtgtip:`Silver "
+"Drake<https://img.scryfall.com/cards/border_crop/en/pls/125.jpg?1517813031|https://scryfall.com/card/pls/125"
+"/silver-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:691
+msgid ""
+"When Silver Drake enters the battlefield, return a white or blue creature"
+" you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:698
+msgid ":mtgtip:`Sparkcaster<https://img.scryfall.com/cards/border_crop/en/pls/126.jpg?1517813031|https://scryfall.com/card/pls/126/sparkcaster?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:695
+msgid ""
+"When Sparkcaster enters the battlefield, return a red or green creature "
+"you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:697
+msgid ""
+"When Sparkcaster enters the battlefield, it deals 1 damage to target "
+"player or planeswalker."
+msgstr ""
+
+#: ../../PLS.rst:704
+msgid ""
+":mtgtip:`Steel Leaf "
+"Paladin<https://img.scryfall.com/cards/border_crop/en/pls/127.jpg?1517813031|https://scryfall.com/card/pls/127"
+"/steel-leaf-paladin?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:703
+msgid ""
+"When Steel Leaf Paladin enters the battlefield, return a green or white "
+"creature you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:708
+msgid ":mtgtip:`Terminate<https://img.scryfall.com/cards/border_crop/en/pls/128.jpg?1517813031|https://scryfall.com/card/pls/128/terminate?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:707
+msgid "Destroy target creature. It can't be regenerated."
+msgstr ""
+
+#: ../../PLS.rst:718
+msgid ""
+":mtgtip:`Treva's "
+"Charm<https://img.scryfall.com/cards/border_crop/en/pls/129.jpg?1517813031|https://scryfall.com/card/pls/129"
+"/trevas-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:715
+msgid "Exile target attacking creature."
+msgstr ""
+
+#: ../../PLS.rst:717
+msgid "Draw a card, then discard a card."
+msgstr ""
+
+#: ../../PLS.rst:722
+msgid ""
+":mtgtip:`Urza's "
+"Guilt<https://img.scryfall.com/cards/border_crop/en/pls/130.jpg?1517813031|https://scryfall.com/card/pls/130"
+"/urzas-guilt?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:721
+msgid "Each player draws two cards, then discards three cards, then loses 4 life."
+msgstr ""
+
+#: ../../PLS.rst:730
+msgid ":mtgtip:`Draco<https://img.scryfall.com/cards/border_crop/en/pls/131.jpg?1517813031|https://scryfall.com/card/pls/131/draco?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:725
+msgid ""
+"Domain — This spell costs |mana_2| less to cast for each basic land type "
+"among lands you control."
+msgstr ""
+
+#: ../../PLS.rst:729
+msgid ""
+"Domain — At the beginning of your upkeep, sacrifice Draco unless you pay "
+"|mana_10|. This cost is reduced by |mana_2| for each basic land type "
+"among lands you control."
+msgstr ""
+
+#: ../../PLS.rst:734
+msgid ""
+":mtgtip:`Mana "
+"Cylix<https://img.scryfall.com/cards/border_crop/en/pls/132.jpg?1517813031|https://scryfall.com/card/pls/132"
+"/mana-cylix?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:733
+msgid "|mana_1|, |tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../PLS.rst:740
+msgid ""
+":mtgtip:`Skyship "
+"Weatherlight<https://img.scryfall.com/cards/border_crop/en/pls/133.jpg?1517813031|https://scryfall.com/card/pls/133"
+"/skyship-weatherlight?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:737
+msgid ""
+"When Skyship Weatherlight enters the battlefield, search your library for"
+" any number of artifact and/or creature cards and exile them. Then "
+"shuffle your library."
+msgstr ""
+
+#: ../../PLS.rst:739
+msgid ""
+"|mana_4|, |tap|: Choose a card at random that was exiled with Skyship "
+"Weatherlight. Put that card into its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:746
+msgid ""
+":mtgtip:`Star "
+"Compass<https://img.scryfall.com/cards/border_crop/en/pls/134.jpg?1517813031|https://scryfall.com/card/pls/134"
+"/star-compass?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:743
+msgid "Star Compass enters the battlefield tapped."
+msgstr ""
+
+#: ../../PLS.rst:745
+msgid ""
+"|tap|: Add one mana of any color that a basic land you control could "
+"produce."
+msgstr ""
+
+#: ../../PLS.rst:752
+msgid ":mtgtip:`Stratadon<https://img.scryfall.com/cards/border_crop/en/pls/135.jpg?1517813031|https://scryfall.com/card/pls/135/stratadon?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:749
+msgid ""
+"Domain — This spell costs |mana_1| less to cast for each basic land type "
+"among lands you control."
+msgstr ""
+
+#: ../../PLS.rst:758
+msgid ""
+":mtgtip:`Crosis's "
+"Catacombs<https://img.scryfall.com/cards/border_crop/en/pls/136.jpg?1517813031|https://scryfall.com/card/pls/136"
+"/crosiss-catacombs?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:755
+msgid ""
+"When Crosis's Catacombs enters the battlefield, sacrifice it unless you "
+"return a non-Lair land you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:757
+msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
+msgstr ""
+
+#: ../../PLS.rst:764
+msgid ""
+":mtgtip:`Darigaaz's "
+"Caldera<https://img.scryfall.com/cards/border_crop/en/pls/137.jpg?1517813031|https://scryfall.com/card/pls/137"
+"/darigaazs-caldera?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:761
+msgid ""
+"When Darigaaz's Caldera enters the battlefield, sacrifice it unless you "
+"return a non-Lair land you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:763
+msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
+msgstr ""
+
+#: ../../PLS.rst:770
+msgid ""
+":mtgtip:`Dromar's "
+"Cavern<https://img.scryfall.com/cards/border_crop/en/pls/138.jpg?1517813031|https://scryfall.com/card/pls/138"
+"/dromars-cavern?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:767
+msgid ""
+"When Dromar's Cavern enters the battlefield, sacrifice it unless you "
+"return a non-Lair land you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:769
+msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
+msgstr ""
+
+#: ../../PLS.rst:778
+msgid ""
+":mtgtip:`Forsaken "
+"City<https://img.scryfall.com/cards/border_crop/en/pls/139.jpg?1517813031|https://scryfall.com/card/pls/139"
+"/forsaken-city?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:773
+msgid "Forsaken City doesn't untap during your untap step."
+msgstr ""
+
+#: ../../PLS.rst:775
+msgid ""
+"At the beginning of your upkeep, you may exile a card from your hand. If "
+"you do, untap Forsaken City."
+msgstr ""
+
+#: ../../PLS.rst:777
+msgid "|tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../PLS.rst:782
+msgid ""
+":mtgtip:`Meteor "
+"Crater<https://img.scryfall.com/cards/border_crop/en/pls/140.jpg?1517813031|https://scryfall.com/card/pls/140"
+"/meteor-crater?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:781
+msgid ""
+"|tap|: Choose a color of a permanent you control. Add one mana of that "
+"color."
+msgstr ""
+
+#: ../../PLS.rst:788
+msgid ""
+":mtgtip:`Rith's "
+"Grove<https://img.scryfall.com/cards/border_crop/en/pls/141.jpg?1517813031|https://scryfall.com/card/pls/141"
+"/riths-grove?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:785
+msgid ""
+"When Rith's Grove enters the battlefield, sacrifice it unless you return "
+"a non-Lair land you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:787
+msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
+msgstr ""
+
+#: ../../PLS.rst:794
+msgid ""
+":mtgtip:`Terminal "
+"Moraine<https://img.scryfall.com/cards/border_crop/en/pls/142.jpg?1517813031|https://scryfall.com/card/pls/142"
+"/terminal-moraine?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:791
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../PLS.rst:793
+msgid ""
+"|mana_2|, |tap|, Sacrifice Terminal Moraine: Search your library for a "
+"basic land card and put that card onto the battlefield tapped. Then "
+"shuffle your library."
+msgstr ""
+
+#: ../../PLS.rst:799
+msgid ""
+":mtgtip:`Treva's "
+"Ruins<https://img.scryfall.com/cards/border_crop/en/pls/143.jpg?1517813031|https://scryfall.com/card/pls/143"
+"/trevas-ruins?utm_source=api>`"
+msgstr ""
+
+#: ../../PLS.rst:797
+msgid ""
+"When Treva's Ruins enters the battlefield, sacrifice it unless you return"
+" a non-Lair land you control to its owner's hand."
+msgstr ""
+
+#: ../../PLS.rst:799
+msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
+msgstr ""
+

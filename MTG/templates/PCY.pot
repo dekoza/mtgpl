@@ -1,0 +1,1338 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 23:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../PCY.rst:5
+msgid ":mtgexp:`PCY` Prophecy"
+msgstr ""
+
+#: ../../PCY.rst:12
+msgid ":mtgtip:`Abolish<https://img.scryfall.com/cards/border_crop/en/pcy/1.jpg?1517813031|https://scryfall.com/card/pcy/1/abolish?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:9
+msgid "You may discard a Plains card rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../PCY.rst:11
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../PCY.rst:16
+msgid ":mtgtip:`Aura Fracture<https://img.scryfall.com/cards/border_crop/en/pcy/2.jpg?1517813031|https://scryfall.com/card/pcy/2/aura-fracture?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:15
+msgid "Sacrifice a land: Destroy target enchantment."
+msgstr ""
+
+#: ../../PCY.rst:24
+msgid ":mtgtip:`Avatar of Hope<https://img.scryfall.com/cards/border_crop/en/pcy/3.jpg?1517813031|https://scryfall.com/card/pcy/3/avatar-of-hope?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:19
+msgid "If you have 3 or less life, this spell costs |mana_6| less to cast."
+msgstr ""
+
+#: ../../PCY.rst:21
+#: ../../PCY.rst:69
+#: ../../PCY.rst:155
+#: ../../PCY.rst:225
+#: ../../PCY.rst:235
+#: ../../PCY.rst:247
+#: ../../PCY.rst:259
+#: ../../PCY.rst:265
+#: ../../PCY.rst:293
+#: ../../PCY.rst:409
+#: ../../PCY.rst:669
+msgid "Flying"
+msgstr ""
+
+#: ../../PCY.rst:23
+msgid "Avatar of Hope can block any number of creatures."
+msgstr ""
+
+#: ../../PCY.rst:28
+msgid ":mtgtip:`Blessed Wind<https://img.scryfall.com/cards/border_crop/en/pcy/4.jpg?1517813031|https://scryfall.com/card/pcy/4/blessed-wind?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:27
+msgid "Target player's life total becomes 20."
+msgstr ""
+
+#: ../../PCY.rst:34
+msgid ":mtgtip:`Celestial Convergence<https://img.scryfall.com/cards/border_crop/en/pcy/5.jpg?1517813031|https://scryfall.com/card/pcy/5/celestial-convergence?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:31
+msgid "Celestial Convergence enters the battlefield with seven omen counters on it."
+msgstr ""
+
+#: ../../PCY.rst:33
+msgid "At the beginning of your upkeep, remove an omen counter from Celestial Convergence. If there are no omen counters on Celestial Convergence, the player with the highest life total wins the game. If two or more players are tied for highest life total, the game is a draw."
+msgstr ""
+
+#: ../../PCY.rst:38
+msgid ":mtgtip:`Diving Griffin<https://img.scryfall.com/cards/border_crop/en/pcy/6.jpg?1517813031|https://scryfall.com/card/pcy/6/diving-griffin?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:37
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../PCY.rst:44
+msgid ":mtgtip:`Entangler<https://img.scryfall.com/cards/border_crop/en/pcy/7.jpg?1517813031|https://scryfall.com/card/pcy/7/entangler?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:41
+#: ../../PCY.rst:81
+#: ../../PCY.rst:147
+#: ../../PCY.rst:335
+#: ../../PCY.rst:475
+#: ../../PCY.rst:571
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../PCY.rst:43
+msgid "Enchanted creature can block any number of creatures."
+msgstr ""
+
+#: ../../PCY.rst:48
+msgid ":mtgtip:`Excise<https://img.scryfall.com/cards/border_crop/en/pcy/8.jpg?1517813031|https://scryfall.com/card/pcy/8/excise?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:47
+msgid "Exile target attacking creature unless its controller pays |mana_x|."
+msgstr ""
+
+#: ../../PCY.rst:54
+msgid ":mtgtip:`Flowering Field<https://img.scryfall.com/cards/border_crop/en/pcy/9.jpg?1517813031|https://scryfall.com/card/pcy/9/flowering-field?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:51
+#: ../../PCY.rst:253
+#: ../../PCY.rst:349
+#: ../../PCY.rst:415
+#: ../../PCY.rst:577
+#: ../../PCY.rst:637
+msgid "Enchant land"
+msgstr ""
+
+#: ../../PCY.rst:53
+msgid "Enchanted land has \"|tap|: Prevent the next 1 damage that would be dealt to any target this turn.\""
+msgstr ""
+
+#: ../../PCY.rst:60
+msgid ":mtgtip:`Glittering Lion<https://img.scryfall.com/cards/border_crop/en/pcy/10.jpg?1517813031|https://scryfall.com/card/pcy/10/glittering-lion?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:57
+msgid "Prevent all damage that would be dealt to Glittering Lion."
+msgstr ""
+
+#: ../../PCY.rst:59
+msgid "|mana_3|: Until end of turn, Glittering Lion loses \"Prevent all damage that would be dealt to Glittering Lion.\" Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:66
+msgid ":mtgtip:`Glittering Lynx<https://img.scryfall.com/cards/border_crop/en/pcy/11.jpg?1517813031|https://scryfall.com/card/pcy/11/glittering-lynx?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:63
+msgid "Prevent all damage that would be dealt to Glittering Lynx."
+msgstr ""
+
+#: ../../PCY.rst:65
+msgid "|mana_2|: Until end of turn, Glittering Lynx loses \"Prevent all damage that would be dealt to Glittering Lynx.\" Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:72
+msgid ":mtgtip:`Jeweled Spirit<https://img.scryfall.com/cards/border_crop/en/pcy/12.jpg?1517813031|https://scryfall.com/card/pcy/12/jeweled-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:71
+msgid "Sacrifice two lands: Jeweled Spirit gains protection from artifacts or from the color of your choice until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:76
+msgid ":mtgtip:`Mageta the Lion<https://img.scryfall.com/cards/border_crop/en/pcy/13.jpg?1517813031|https://scryfall.com/card/pcy/13/mageta-the-lion?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:75
+msgid "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Discard two cards: Destroy all creatures except for Mageta the Lion. Those creatures can't be regenerated."
+msgstr ""
+
+#: ../../PCY.rst:84
+msgid ":mtgtip:`Mageta's Boon<https://img.scryfall.com/cards/border_crop/en/pcy/14.jpg?1517813031|https://scryfall.com/card/pcy/14/magetas-boon?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:79
+#: ../../PCY.rst:145
+#: ../../PCY.rst:333
+#: ../../PCY.rst:473
+#: ../../PCY.rst:569
+msgid "Flash"
+msgstr ""
+
+#: ../../PCY.rst:83
+msgid "Enchanted creature gets +1/+2."
+msgstr ""
+
+#: ../../PCY.rst:90
+msgid ":mtgtip:`Mercenary Informer<https://img.scryfall.com/cards/border_crop/en/pcy/15.jpg?1517813031|https://scryfall.com/card/pcy/15/mercenary-informer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:87
+msgid "Mercenary Informer can't be the target of black spells or abilities from black sources."
+msgstr ""
+
+#: ../../PCY.rst:89
+msgid "|mana_2|\\ |mana_w|: Put target nontoken Mercenary on the bottom of its owner's library."
+msgstr ""
+
+#: ../../PCY.rst:94
+msgid ":mtgtip:`Mine Bearer<https://img.scryfall.com/cards/border_crop/en/pcy/16.jpg?1517813031|https://scryfall.com/card/pcy/16/mine-bearer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:93
+msgid "|tap|, Sacrifice Mine Bearer: Destroy target attacking creature."
+msgstr ""
+
+#: ../../PCY.rst:98
+msgid ":mtgtip:`Mirror Strike<https://img.scryfall.com/cards/border_crop/en/pcy/17.jpg?1517813031|https://scryfall.com/card/pcy/17/mirror-strike?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:97
+msgid "All combat damage that would be dealt to you this turn by target unblocked creature is dealt to its controller instead."
+msgstr ""
+
+#: ../../PCY.rst:102
+msgid ":mtgtip:`Reveille Squad<https://img.scryfall.com/cards/border_crop/en/pcy/18.jpg?1517813031|https://scryfall.com/card/pcy/18/reveille-squad?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:101
+msgid "Whenever one or more creatures attack you, if Reveille Squad is untapped, you may untap all creatures you control."
+msgstr ""
+
+#: ../../PCY.rst:106
+msgid ":mtgtip:`Rhystic Circle<https://img.scryfall.com/cards/border_crop/en/pcy/19.jpg?1517813031|https://scryfall.com/card/pcy/19/rhystic-circle?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:105
+msgid "|mana_1|: Any player may pay |mana_1|. If no one does, the next time a source of your choice would deal damage to you this turn, prevent that damage."
+msgstr ""
+
+#: ../../PCY.rst:110
+msgid ":mtgtip:`Rhystic Shield<https://img.scryfall.com/cards/border_crop/en/pcy/20.jpg?1517813031|https://scryfall.com/card/pcy/20/rhystic-shield?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:109
+msgid "Creatures you control get +0/+1 until end of turn. They get an additional +0/+2 until end of turn unless any player pays |mana_2|."
+msgstr ""
+
+#: ../../PCY.rst:114
+msgid ":mtgtip:`Samite Sanctuary<https://img.scryfall.com/cards/border_crop/en/pcy/21.jpg?1517813031|https://scryfall.com/card/pcy/21/samite-sanctuary?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:113
+msgid "|mana_2|: Prevent the next 1 damage that would be dealt to target creature this turn. Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:118
+msgid ":mtgtip:`Sheltering Prayers<https://img.scryfall.com/cards/border_crop/en/pcy/22.jpg?1517813031|https://scryfall.com/card/pcy/22/sheltering-prayers?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:117
+msgid "Basic lands each player controls have shroud as long as that player controls three or fewer lands. (They can't be the targets of spells or abilities.)"
+msgstr ""
+
+#: ../../PCY.rst:122
+msgid ":mtgtip:`Shield Dancer<https://img.scryfall.com/cards/border_crop/en/pcy/23.jpg?1517813031|https://scryfall.com/card/pcy/23/shield-dancer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:121
+msgid "|mana_2|\\ |mana_w|: The next time target attacking creature would deal combat damage to Shield Dancer this turn, that creature deals that damage to itself instead."
+msgstr ""
+
+#: ../../PCY.rst:126
+msgid ":mtgtip:`Soul Charmer<https://img.scryfall.com/cards/border_crop/en/pcy/24.jpg?1517813031|https://scryfall.com/card/pcy/24/soul-charmer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:125
+msgid "Whenever Soul Charmer deals combat damage to a creature, you gain 2 life unless that creature's controller pays |mana_2|."
+msgstr ""
+
+#: ../../PCY.rst:130
+msgid ":mtgtip:`Sword Dancer<https://img.scryfall.com/cards/border_crop/en/pcy/25.jpg?1517813031|https://scryfall.com/card/pcy/25/sword-dancer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:129
+msgid "|mana_w|\\ |mana_w|: Target attacking creature gets -1/-0 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:134
+msgid ":mtgtip:`Trenching Steed<https://img.scryfall.com/cards/border_crop/en/pcy/26.jpg?1517813031|https://scryfall.com/card/pcy/26/trenching-steed?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:133
+msgid "Sacrifice a land: Trenching Steed gets +0/+3 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:138
+msgid ":mtgtip:`Troubled Healer<https://img.scryfall.com/cards/border_crop/en/pcy/27.jpg?1517813031|https://scryfall.com/card/pcy/27/troubled-healer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:137
+msgid "Sacrifice a land: Prevent the next 2 damage that would be dealt to any target this turn."
+msgstr ""
+
+#: ../../PCY.rst:142
+msgid ":mtgtip:`Alexi, Zephyr Mage<https://img.scryfall.com/cards/border_crop/en/pcy/28.jpg?1517813031|https://scryfall.com/card/pcy/28/alexi-zephyr-mage?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:141
+msgid "|mana_x|\\ |mana_u|, |tap|, Discard two cards: Return X target creatures to their owners' hands."
+msgstr ""
+
+#: ../../PCY.rst:150
+msgid ":mtgtip:`Alexi's Cloak<https://img.scryfall.com/cards/border_crop/en/pcy/29.jpg?1517813031|https://scryfall.com/card/pcy/29/alexis-cloak?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:149
+msgid "Enchanted creature has shroud. (It can't be the target of spells or abilities.)"
+msgstr ""
+
+#: ../../PCY.rst:156
+msgid ":mtgtip:`Avatar of Will<https://img.scryfall.com/cards/border_crop/en/pcy/30.jpg?1517813031|https://scryfall.com/card/pcy/30/avatar-of-will?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:153
+msgid "If an opponent has no cards in hand, this spell costs |mana_6| less to cast."
+msgstr ""
+
+#: ../../PCY.rst:160
+msgid ":mtgtip:`Coastal Hornclaw<https://img.scryfall.com/cards/border_crop/en/pcy/31.jpg?1517813031|https://scryfall.com/card/pcy/31/coastal-hornclaw?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:159
+msgid "Sacrifice a land: Coastal Hornclaw gains flying until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:164
+msgid ":mtgtip:`Denying Wind<https://img.scryfall.com/cards/border_crop/en/pcy/32.jpg?1517813031|https://scryfall.com/card/pcy/32/denying-wind?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:163
+msgid "Search target player's library for up to seven cards and exile them. Then that player shuffles their library."
+msgstr ""
+
+#: ../../PCY.rst:168
+msgid ":mtgtip:`Excavation<https://img.scryfall.com/cards/border_crop/en/pcy/33.jpg?1517813031|https://scryfall.com/card/pcy/33/excavation?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:167
+msgid "|mana_1|, Sacrifice a land: Draw a card. Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:174
+msgid ":mtgtip:`Foil<https://img.scryfall.com/cards/border_crop/en/pcy/34.jpg?1517813031|https://scryfall.com/card/pcy/34/foil?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:171
+msgid "You may discard an Island card and another card rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../PCY.rst:173
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../PCY.rst:178
+msgid ":mtgtip:`Gulf Squid<https://img.scryfall.com/cards/border_crop/en/pcy/35.jpg?1517813031|https://scryfall.com/card/pcy/35/gulf-squid?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:177
+msgid "When Gulf Squid enters the battlefield, tap all lands target player controls."
+msgstr ""
+
+#: ../../PCY.rst:182
+msgid ":mtgtip:`Hazy Homunculus<https://img.scryfall.com/cards/border_crop/en/pcy/36.jpg?1517813031|https://scryfall.com/card/pcy/36/hazy-homunculus?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:181
+msgid "Hazy Homunculus can't be blocked as long as defending player controls an untapped land."
+msgstr ""
+
+#: ../../PCY.rst:188
+msgid ":mtgtip:`Heightened Awareness<https://img.scryfall.com/cards/border_crop/en/pcy/37.jpg?1517813031|https://scryfall.com/card/pcy/37/heightened-awareness?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:185
+msgid "As Heightened Awareness enters the battlefield, discard your hand."
+msgstr ""
+
+#: ../../PCY.rst:187
+msgid "At the beginning of your draw step, draw an additional card."
+msgstr ""
+
+#: ../../PCY.rst:192
+msgid ":mtgtip:`Mana Vapors<https://img.scryfall.com/cards/border_crop/en/pcy/38.jpg?1517813031|https://scryfall.com/card/pcy/38/mana-vapors?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:191
+msgid "Lands target player controls don't untap during their next untap step."
+msgstr ""
+
+#: ../../PCY.rst:196
+msgid ":mtgtip:`Overburden<https://img.scryfall.com/cards/border_crop/en/pcy/39.jpg?1517813031|https://scryfall.com/card/pcy/39/overburden?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:195
+msgid "Whenever a player puts a nontoken creature onto the battlefield, that player returns a land they control to its owner's hand."
+msgstr ""
+
+#: ../../PCY.rst:200
+msgid ":mtgtip:`Psychic Theft<https://img.scryfall.com/cards/border_crop/en/pcy/40.jpg?1517813031|https://scryfall.com/card/pcy/40/psychic-theft?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:199
+msgid "Target player reveals their hand. You choose an instant or sorcery card from it and exile that card. You may cast that card for as long as it remains exiled. At the beginning of the next end step, if you haven't cast the card, return it to its owner's hand."
+msgstr ""
+
+#: ../../PCY.rst:206
+msgid ":mtgtip:`Quicksilver Wall<https://img.scryfall.com/cards/border_crop/en/pcy/41.jpg?1517813031|https://scryfall.com/card/pcy/41/quicksilver-wall?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:203
+#: ../../PCY.rst:397
+msgid "Defender (This creature can't attack.)"
+msgstr ""
+
+#: ../../PCY.rst:205
+msgid "|mana_4|: Return Quicksilver Wall to its owner's hand. Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:210
+msgid ":mtgtip:`Rethink<https://img.scryfall.com/cards/border_crop/en/pcy/42.jpg?1517813031|https://scryfall.com/card/pcy/42/rethink?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:209
+msgid "Counter target spell unless its controller pays |mana_x|, where X is its converted mana cost."
+msgstr ""
+
+#: ../../PCY.rst:214
+msgid ":mtgtip:`Rhystic Deluge<https://img.scryfall.com/cards/border_crop/en/pcy/43.jpg?1517813031|https://scryfall.com/card/pcy/43/rhystic-deluge?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:213
+msgid "|mana_u|: Tap target creature unless its controller pays |mana_1|."
+msgstr ""
+
+#: ../../PCY.rst:218
+msgid ":mtgtip:`Rhystic Scrying<https://img.scryfall.com/cards/border_crop/en/pcy/44.jpg?1517813031|https://scryfall.com/card/pcy/44/rhystic-scrying?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:217
+msgid "Draw three cards. Then if any player pays |mana_2|, discard three cards."
+msgstr ""
+
+#: ../../PCY.rst:222
+msgid ":mtgtip:`Rhystic Study<https://img.scryfall.com/cards/border_crop/en/pcy/45.jpg?1517813031|https://scryfall.com/card/pcy/45/rhystic-study?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:221
+msgid "Whenever an opponent casts a spell, you may draw a card unless that player pays |mana_1|."
+msgstr ""
+
+#: ../../PCY.rst:228
+msgid ":mtgtip:`Ribbon Snake<https://img.scryfall.com/cards/border_crop/en/pcy/46.jpg?1517813031|https://scryfall.com/card/pcy/46/ribbon-snake?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:227
+msgid "|mana_2|: Ribbon Snake loses flying until end of turn. Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:232
+msgid ":mtgtip:`Shrouded Serpent<https://img.scryfall.com/cards/border_crop/en/pcy/47.jpg?1517813031|https://scryfall.com/card/pcy/47/shrouded-serpent?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:231
+msgid "Whenever Shrouded Serpent attacks, defending player may pay |mana_4|. If that player doesn't, Shrouded Serpent can't be blocked this turn."
+msgstr ""
+
+#: ../../PCY.rst:238
+msgid ":mtgtip:`Spiketail Drake<https://img.scryfall.com/cards/border_crop/en/pcy/48.jpg?1517813031|https://scryfall.com/card/pcy/48/spiketail-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:237
+msgid "Sacrifice Spiketail Drake: Counter target spell unless its controller pays |mana_3|."
+msgstr ""
+
+#: ../../PCY.rst:244
+msgid ":mtgtip:`Spiketail Hatchling<https://img.scryfall.com/cards/border_crop/en/pcy/49.jpg?1517813031|https://scryfall.com/card/pcy/49/spiketail-hatchling?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:241
+msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
+msgstr ""
+
+#: ../../PCY.rst:243
+msgid "Sacrifice Spiketail Hatchling: Counter target spell unless its controller pays |mana_1|."
+msgstr ""
+
+#: ../../PCY.rst:250
+msgid ":mtgtip:`Stormwatch Eagle<https://img.scryfall.com/cards/border_crop/en/pcy/50.jpg?1517813031|https://scryfall.com/card/pcy/50/stormwatch-eagle?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:249
+msgid "Sacrifice a land: Return Stormwatch Eagle to its owner's hand."
+msgstr ""
+
+#: ../../PCY.rst:256
+msgid ":mtgtip:`Sunken Field<https://img.scryfall.com/cards/border_crop/en/pcy/51.jpg?1517813031|https://scryfall.com/card/pcy/51/sunken-field?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:255
+msgid "Enchanted land has \"|tap|: Counter target spell unless its controller pays |mana_1|.\""
+msgstr ""
+
+#: ../../PCY.rst:262
+msgid ":mtgtip:`Troublesome Spirit<https://img.scryfall.com/cards/border_crop/en/pcy/52.jpg?1517813031|https://scryfall.com/card/pcy/52/troublesome-spirit?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:261
+msgid "At the beginning of your end step, tap all lands you control."
+msgstr ""
+
+#: ../../PCY.rst:268
+msgid ":mtgtip:`Windscouter<https://img.scryfall.com/cards/border_crop/en/pcy/53.jpg?1517813031|https://scryfall.com/card/pcy/53/windscouter?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:267
+msgid "When Windscouter attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)"
+msgstr ""
+
+#: ../../PCY.rst:272
+msgid ":mtgtip:`Withdraw<https://img.scryfall.com/cards/border_crop/en/pcy/54.jpg?1517813031|https://scryfall.com/card/pcy/54/withdraw?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:271
+msgid "Return target creature to its owner's hand. Then return another target creature to its owner's hand unless its controller pays |mana_1|."
+msgstr ""
+
+#: ../../PCY.rst:276
+msgid ":mtgtip:`Agent of Shauku<https://img.scryfall.com/cards/border_crop/en/pcy/55.jpg?1517813031|https://scryfall.com/card/pcy/55/agent-of-shauku?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:275
+msgid "|mana_1|\\ |mana_b|, Sacrifice a land: Target creature gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:284
+msgid ":mtgtip:`Avatar of Woe<https://img.scryfall.com/cards/border_crop/en/pcy/56.jpg?1517813031|https://scryfall.com/card/pcy/56/avatar-of-woe?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:279
+msgid "If there are ten or more creature cards total in all graveyards, this spell costs |mana_6| less to cast."
+msgstr ""
+
+#: ../../PCY.rst:281
+msgid "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)"
+msgstr ""
+
+#: ../../PCY.rst:283
+msgid "|tap|: Destroy target creature. It can't be regenerated."
+msgstr ""
+
+#: ../../PCY.rst:290
+msgid ":mtgtip:`Bog Elemental<https://img.scryfall.com/cards/border_crop/en/pcy/57.jpg?1517813031|https://scryfall.com/card/pcy/57/bog-elemental?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:287
+msgid "Protection from white"
+msgstr ""
+
+#: ../../PCY.rst:289
+msgid "At the beginning of your upkeep, sacrifice Bog Elemental unless you sacrifice a land."
+msgstr ""
+
+#: ../../PCY.rst:296
+msgid ":mtgtip:`Bog Glider<https://img.scryfall.com/cards/border_crop/en/pcy/58.jpg?1517813031|https://scryfall.com/card/pcy/58/bog-glider?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:295
+msgid "|tap|, Sacrifice a land: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library."
+msgstr ""
+
+#: ../../PCY.rst:302
+msgid ":mtgtip:`Chilling Apparition<https://img.scryfall.com/cards/border_crop/en/pcy/59.jpg?1517813031|https://scryfall.com/card/pcy/59/chilling-apparition?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:299
+msgid "|mana_b|: Regenerate Chilling Apparition."
+msgstr ""
+
+#: ../../PCY.rst:301
+msgid "Whenever Chilling Apparition deals combat damage to a player, that player discards a card."
+msgstr ""
+
+#: ../../PCY.rst:306
+msgid ":mtgtip:`Coffin Puppets<https://img.scryfall.com/cards/border_crop/en/pcy/60.jpg?1517813031|https://scryfall.com/card/pcy/60/coffin-puppets?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:305
+msgid "Sacrifice two lands: Return Coffin Puppets from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control a Swamp."
+msgstr ""
+
+#: ../../PCY.rst:310
+msgid ":mtgtip:`Death Charmer<https://img.scryfall.com/cards/border_crop/en/pcy/61.jpg?1517813031|https://scryfall.com/card/pcy/61/death-charmer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:309
+msgid "Whenever Death Charmer deals combat damage to a creature, that creature's controller loses 2 life unless they pay |mana_2|."
+msgstr ""
+
+#: ../../PCY.rst:314
+msgid ":mtgtip:`Despoil<https://img.scryfall.com/cards/border_crop/en/pcy/62.jpg?1517813031|https://scryfall.com/card/pcy/62/despoil?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:313
+msgid "Destroy target land. Its controller loses 2 life."
+msgstr ""
+
+#: ../../PCY.rst:318
+msgid ":mtgtip:`Endbringer's Revel<https://img.scryfall.com/cards/border_crop/en/pcy/63.jpg?1517813031|https://scryfall.com/card/pcy/63/endbringers-revel?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:317
+msgid "|mana_4|: Return target creature card from a graveyard to its owner's hand. Any player may activate this ability but only any time they could cast a sorcery."
+msgstr ""
+
+#: ../../PCY.rst:322
+msgid ":mtgtip:`Fen Stalker<https://img.scryfall.com/cards/border_crop/en/pcy/64.jpg?1517813031|https://scryfall.com/card/pcy/64/fen-stalker?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:321
+msgid "Fen Stalker has fear as long as you control no untapped lands. (It can't be blocked except by artifact creatures and/or black creatures.)"
+msgstr ""
+
+#: ../../PCY.rst:326
+msgid ":mtgtip:`Flay<https://img.scryfall.com/cards/border_crop/en/pcy/65.jpg?1517813031|https://scryfall.com/card/pcy/65/flay?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:325
+msgid "Target player discards a card at random. Then that player discards another card at random unless they pay |mana_1|."
+msgstr ""
+
+#: ../../PCY.rst:330
+msgid ":mtgtip:`Greel, Mind Raker<https://img.scryfall.com/cards/border_crop/en/pcy/66.jpg?1517813031|https://scryfall.com/card/pcy/66/greel-mind-raker?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:329
+msgid "|mana_x|\\ |mana_b|, |tap|, Discard two cards: Target player discards X cards at random."
+msgstr ""
+
+#: ../../PCY.rst:338
+msgid ":mtgtip:`Greel's Caress<https://img.scryfall.com/cards/border_crop/en/pcy/67.jpg?1517813031|https://scryfall.com/card/pcy/67/greels-caress?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:337
+msgid "Enchanted creature gets -3/-0."
+msgstr ""
+
+#: ../../PCY.rst:342
+msgid ":mtgtip:`Infernal Genesis<https://img.scryfall.com/cards/border_crop/en/pcy/68.jpg?1517813031|https://scryfall.com/card/pcy/68/infernal-genesis?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:341
+msgid "At the beginning of each player's upkeep, that player puts the top card of their library into their graveyard. Then they create X 1/1 black Minion creature tokens, where X is that card's converted mana cost."
+msgstr ""
+
+#: ../../PCY.rst:346
+msgid ":mtgtip:`Nakaya Shade<https://img.scryfall.com/cards/border_crop/en/pcy/69.jpg?1517813031|https://scryfall.com/card/pcy/69/nakaya-shade?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:345
+msgid "|mana_b|: Nakaya Shade gets +1/+1 until end of turn unless any player pays |mana_2|."
+msgstr ""
+
+#: ../../PCY.rst:352
+msgid ":mtgtip:`Noxious Field<https://img.scryfall.com/cards/border_crop/en/pcy/70.jpg?1517813031|https://scryfall.com/card/pcy/70/noxious-field?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:351
+msgid "Enchanted land has \"|tap|: This land deals 1 damage to each creature and each player.\""
+msgstr ""
+
+#: ../../PCY.rst:358
+msgid ":mtgtip:`Outbreak<https://img.scryfall.com/cards/border_crop/en/pcy/71.jpg?1517813031|https://scryfall.com/card/pcy/71/outbreak?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:355
+msgid "You may discard a Swamp card rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../PCY.rst:357
+msgid "Choose a creature type. All creatures of that type get -1/-1 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:364
+msgid ":mtgtip:`Pit Raptor<https://img.scryfall.com/cards/border_crop/en/pcy/72.jpg?1517813031|https://scryfall.com/card/pcy/72/pit-raptor?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:361
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../PCY.rst:363
+msgid "At the beginning of your upkeep, sacrifice Pit Raptor unless you pay |mana_2|\\ |mana_b|\\ |mana_b|."
+msgstr ""
+
+#: ../../PCY.rst:368
+msgid ":mtgtip:`Plague Fiend<https://img.scryfall.com/cards/border_crop/en/pcy/73.jpg?1517813031|https://scryfall.com/card/pcy/73/plague-fiend?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:367
+msgid "Whenever Plague Fiend deals combat damage to a creature, destroy that creature unless its controller pays |mana_2|."
+msgstr ""
+
+#: ../../PCY.rst:372
+msgid ":mtgtip:`Plague Wind<https://img.scryfall.com/cards/border_crop/en/pcy/74.jpg?1517813031|https://scryfall.com/card/pcy/74/plague-wind?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:371
+msgid "Destroy all creatures you don't control. They can't be regenerated."
+msgstr ""
+
+#: ../../PCY.rst:378
+msgid ":mtgtip:`Rebel Informer<https://img.scryfall.com/cards/border_crop/en/pcy/75.jpg?1517813031|https://scryfall.com/card/pcy/75/rebel-informer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:375
+msgid "Rebel Informer can't be the target of white spells or abilities from white sources."
+msgstr ""
+
+#: ../../PCY.rst:377
+msgid "|mana_3|: Put target nontoken Rebel on the bottom of its owner's library."
+msgstr ""
+
+#: ../../PCY.rst:382
+msgid ":mtgtip:`Rhystic Syphon<https://img.scryfall.com/cards/border_crop/en/pcy/76.jpg?1517813031|https://scryfall.com/card/pcy/76/rhystic-syphon?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:381
+msgid "Unless target player pays |mana_3|, that player loses 5 life and you gain 5 life."
+msgstr ""
+
+#: ../../PCY.rst:386
+msgid ":mtgtip:`Rhystic Tutor<https://img.scryfall.com/cards/border_crop/en/pcy/77.jpg?1517813031|https://scryfall.com/card/pcy/77/rhystic-tutor?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:385
+msgid "Unless any player pays |mana_2|, search your library for a card, put that card into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../PCY.rst:390
+msgid ":mtgtip:`Soul Strings<https://img.scryfall.com/cards/border_crop/en/pcy/78.jpg?1517813031|https://scryfall.com/card/pcy/78/soul-strings?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:389
+msgid "Return two target creature cards from your graveyard to your hand unless any player pays |mana_x|."
+msgstr ""
+
+#: ../../PCY.rst:394
+msgid ":mtgtip:`Steal Strength<https://img.scryfall.com/cards/border_crop/en/pcy/79.jpg?1517813031|https://scryfall.com/card/pcy/79/steal-strength?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:393
+msgid "Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:400
+msgid ":mtgtip:`Wall of Vipers<https://img.scryfall.com/cards/border_crop/en/pcy/80.jpg?1517813031|https://scryfall.com/card/pcy/80/wall-of-vipers?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:399
+msgid "|mana_3|: Destroy Wall of Vipers and target creature it's blocking. Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:404
+msgid ":mtgtip:`Whipstitched Zombie<https://img.scryfall.com/cards/border_crop/en/pcy/81.jpg?1517813031|https://scryfall.com/card/pcy/81/whipstitched-zombie?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:403
+msgid "At the beginning of your upkeep, sacrifice Whipstitched Zombie unless you pay |mana_b|."
+msgstr ""
+
+#: ../../PCY.rst:412
+msgid ":mtgtip:`Avatar of Fury<https://img.scryfall.com/cards/border_crop/en/pcy/82.jpg?1517813031|https://scryfall.com/card/pcy/82/avatar-of-fury?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:407
+msgid "If an opponent controls seven or more lands, this spell costs |mana_6| less to cast."
+msgstr ""
+
+#: ../../PCY.rst:411
+msgid "|mana_r|: Avatar of Fury gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:418
+msgid ":mtgtip:`Barbed Field<https://img.scryfall.com/cards/border_crop/en/pcy/83.jpg?1517813031|https://scryfall.com/card/pcy/83/barbed-field?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:417
+msgid "Enchanted land has \"|tap|: This land deals 1 damage to any target.\""
+msgstr ""
+
+#: ../../PCY.rst:424
+msgid ":mtgtip:`Branded Brawlers<https://img.scryfall.com/cards/border_crop/en/pcy/84.jpg?1517813031|https://scryfall.com/card/pcy/84/branded-brawlers?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:421
+msgid "Branded Brawlers can't attack if defending player controls an untapped land."
+msgstr ""
+
+#: ../../PCY.rst:423
+msgid "Branded Brawlers can't block if you control an untapped land."
+msgstr ""
+
+#: ../../PCY.rst:428
+msgid ":mtgtip:`Brutal Suppression<https://img.scryfall.com/cards/border_crop/en/pcy/85.jpg?1517813031|https://scryfall.com/card/pcy/85/brutal-suppression?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:427
+msgid "Activated abilities of nontoken Rebels cost an additional \"Sacrifice a land\" to activate."
+msgstr ""
+
+#: ../../PCY.rst:432
+msgid ":mtgtip:`Citadel of Pain<https://img.scryfall.com/cards/border_crop/en/pcy/86.jpg?1517813031|https://scryfall.com/card/pcy/86/citadel-of-pain?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:431
+msgid "At the beginning of each player's end step, Citadel of Pain deals X damage to that player, where X is the number of untapped lands they control."
+msgstr ""
+
+#: ../../PCY.rst:436
+msgid ":mtgtip:`Devastate<https://img.scryfall.com/cards/border_crop/en/pcy/87.jpg?1517813031|https://scryfall.com/card/pcy/87/devastate?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:435
+msgid "Destroy target land. Devastate deals 1 damage to each creature and each player."
+msgstr ""
+
+#: ../../PCY.rst:440
+msgid ":mtgtip:`Fault Riders<https://img.scryfall.com/cards/border_crop/en/pcy/88.jpg?1517813031|https://scryfall.com/card/pcy/88/fault-riders?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:439
+msgid "Sacrifice a land: Fault Riders gets +2/+0 and gains first strike until end of turn. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../PCY.rst:444
+msgid ":mtgtip:`Fickle Efreet<https://img.scryfall.com/cards/border_crop/en/pcy/89.jpg?1517813031|https://scryfall.com/card/pcy/89/fickle-efreet?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:443
+msgid "Whenever Fickle Efreet attacks or blocks, flip a coin at end of combat. If you lose the flip, an opponent gains control of Fickle Efreet."
+msgstr ""
+
+#: ../../PCY.rst:450
+msgid ":mtgtip:`Flameshot<https://img.scryfall.com/cards/border_crop/en/pcy/90.jpg?1517813031|https://scryfall.com/card/pcy/90/flameshot?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:447
+msgid "You may discard a Mountain card rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../PCY.rst:449
+msgid "Flameshot deals 3 damage divided as you choose among one, two, or three target creatures."
+msgstr ""
+
+#: ../../PCY.rst:454
+msgid ":mtgtip:`Inflame<https://img.scryfall.com/cards/border_crop/en/pcy/91.jpg?1517813031|https://scryfall.com/card/pcy/91/inflame?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:453
+msgid "Inflame deals 2 damage to each creature dealt damage this turn."
+msgstr ""
+
+#: ../../PCY.rst:458
+msgid ":mtgtip:`Keldon Arsonist<https://img.scryfall.com/cards/border_crop/en/pcy/92.jpg?1517813031|https://scryfall.com/card/pcy/92/keldon-arsonist?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:457
+msgid "|mana_1|, Sacrifice two lands: Destroy target land."
+msgstr ""
+
+#: ../../PCY.rst:462
+msgid ":mtgtip:`Keldon Berserker<https://img.scryfall.com/cards/border_crop/en/pcy/93.jpg?1517813031|https://scryfall.com/card/pcy/93/keldon-berserker?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:461
+msgid "Whenever Keldon Berserker attacks, if you control no untapped lands, it gets +3/+0 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:466
+msgid ":mtgtip:`Keldon Firebombers<https://img.scryfall.com/cards/border_crop/en/pcy/94.jpg?1517813031|https://scryfall.com/card/pcy/94/keldon-firebombers?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:465
+msgid "When Keldon Firebombers enters the battlefield, each player sacrifices all lands they control except for three."
+msgstr ""
+
+#: ../../PCY.rst:470
+msgid ":mtgtip:`Latulla, Keldon Overseer<https://img.scryfall.com/cards/border_crop/en/pcy/95.jpg?1517813031|https://scryfall.com/card/pcy/95/latulla-keldon-overseer?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:469
+msgid "|mana_x|\\ |mana_r|, |tap|, Discard two cards: Latulla, Keldon Overseer deals X damage to any target."
+msgstr ""
+
+#: ../../PCY.rst:478
+msgid ":mtgtip:`Latulla's Orders<https://img.scryfall.com/cards/border_crop/en/pcy/96.jpg?1517813031|https://scryfall.com/card/pcy/96/latullas-orders?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:477
+msgid "Whenever enchanted creature deals combat damage to defending player, you may destroy target artifact that player controls."
+msgstr ""
+
+#: ../../PCY.rst:482
+msgid ":mtgtip:`Lesser Gargadon<https://img.scryfall.com/cards/border_crop/en/pcy/97.jpg?1517813031|https://scryfall.com/card/pcy/97/lesser-gargadon?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:481
+msgid "Whenever Lesser Gargadon attacks or blocks, sacrifice a land."
+msgstr ""
+
+#: ../../PCY.rst:486
+msgid ":mtgtip:`Panic Attack<https://img.scryfall.com/cards/border_crop/en/pcy/98.jpg?1517813031|https://scryfall.com/card/pcy/98/panic-attack?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:485
+msgid "Up to three target creatures can't block this turn."
+msgstr ""
+
+#: ../../PCY.rst:490
+msgid ":mtgtip:`Rhystic Lightning<https://img.scryfall.com/cards/border_crop/en/pcy/99.jpg?1517813031|https://scryfall.com/card/pcy/99/rhystic-lightning?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:489
+msgid "Rhystic Lightning deals 4 damage to any target unless that permanent's controller or that player pays |mana_2|. If they do, Rhystic Lightning deals 2 damage to the permanent or player."
+msgstr ""
+
+#: ../../PCY.rst:494
+msgid ":mtgtip:`Ridgeline Rager<https://img.scryfall.com/cards/border_crop/en/pcy/100.jpg?1517813031|https://scryfall.com/card/pcy/100/ridgeline-rager?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:493
+msgid "|mana_r|: Ridgeline Rager gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:498
+msgid ":mtgtip:`Scoria Cat<https://img.scryfall.com/cards/border_crop/en/pcy/101.jpg?1517813031|https://scryfall.com/card/pcy/101/scoria-cat?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:497
+msgid "Scoria Cat gets +3/+3 as long as you control no untapped lands."
+msgstr ""
+
+#: ../../PCY.rst:502
+msgid ":mtgtip:`Search for Survivors<https://img.scryfall.com/cards/border_crop/en/pcy/102.jpg?1517813031|https://scryfall.com/card/pcy/102/search-for-survivors?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:501
+msgid "Reorder your graveyard at random. An opponent chooses a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, exile it."
+msgstr ""
+
+#: ../../PCY.rst:506
+msgid ":mtgtip:`Searing Wind<https://img.scryfall.com/cards/border_crop/en/pcy/103.jpg?1517813031|https://scryfall.com/card/pcy/103/searing-wind?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:505
+msgid "Searing Wind deals 10 damage to any target."
+msgstr ""
+
+#: ../../PCY.rst:510
+msgid ":mtgtip:`Spur Grappler<https://img.scryfall.com/cards/border_crop/en/pcy/104.jpg?1517813031|https://scryfall.com/card/pcy/104/spur-grappler?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:509
+msgid "Spur Grappler gets +2/+1 as long as you control no untapped lands."
+msgstr ""
+
+#: ../../PCY.rst:516
+msgid ":mtgtip:`Task Mage Assembly<https://img.scryfall.com/cards/border_crop/en/pcy/105.jpg?1517813031|https://scryfall.com/card/pcy/105/task-mage-assembly?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:513
+msgid "When there are no creatures on the battlefield, sacrifice Task Mage Assembly."
+msgstr ""
+
+#: ../../PCY.rst:515
+msgid "|mana_2|: Task Mage Assembly deals 1 damage to target creature. Any player may activate this ability but only any time they could cast a sorcery."
+msgstr ""
+
+#: ../../PCY.rst:522
+msgid ":mtgtip:`Veteran Brawlers<https://img.scryfall.com/cards/border_crop/en/pcy/106.jpg?1517813031|https://scryfall.com/card/pcy/106/veteran-brawlers?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:519
+msgid "Veteran Brawlers can't attack if defending player controls an untapped land."
+msgstr ""
+
+#: ../../PCY.rst:521
+msgid "Veteran Brawlers can't block if you control an untapped land."
+msgstr ""
+
+#: ../../PCY.rst:526
+msgid ":mtgtip:`Whip Sergeant<https://img.scryfall.com/cards/border_crop/en/pcy/107.jpg?1517813031|https://scryfall.com/card/pcy/107/whip-sergeant?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:525
+msgid "|mana_r|: Target creature gains haste until end of turn. (It can attack this turn.)"
+msgstr ""
+
+#: ../../PCY.rst:532
+msgid ":mtgtip:`Zerapa Minotaur<https://img.scryfall.com/cards/border_crop/en/pcy/108.jpg?1517813031|https://scryfall.com/card/pcy/108/zerapa-minotaur?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:529
+msgid "First strike"
+msgstr ""
+
+#: ../../PCY.rst:531
+msgid "|mana_2|: Zerapa Minotaur loses first strike until end of turn. Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:538
+msgid ":mtgtip:`Avatar of Might<https://img.scryfall.com/cards/border_crop/en/pcy/109.jpg?1517813031|https://scryfall.com/card/pcy/109/avatar-of-might?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:535
+msgid "If an opponent controls at least four more creatures than you, this spell costs |mana_6| less to cast."
+msgstr ""
+
+#: ../../PCY.rst:537
+msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
+msgstr ""
+
+#: ../../PCY.rst:542
+msgid ":mtgtip:`Calming Verse<https://img.scryfall.com/cards/border_crop/en/pcy/110.jpg?1517813031|https://scryfall.com/card/pcy/110/calming-verse?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:541
+msgid "Destroy all enchantments you don't control. Then if you control an untapped land, destroy all enchantments you control."
+msgstr ""
+
+#: ../../PCY.rst:546
+msgid ":mtgtip:`Darba<https://img.scryfall.com/cards/border_crop/en/pcy/111.jpg?1517813031|https://scryfall.com/card/pcy/111/darba?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:545
+msgid "At the beginning of your upkeep, sacrifice Darba unless you pay |mana_g|\\ |mana_g|."
+msgstr ""
+
+#: ../../PCY.rst:554
+msgid ":mtgtip:`Dual Nature<https://img.scryfall.com/cards/border_crop/en/pcy/112.jpg?1517813031|https://scryfall.com/card/pcy/112/dual-nature?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:549
+msgid "Whenever a nontoken creature enters the battlefield, its controller creates a token that's a copy of that creature."
+msgstr ""
+
+#: ../../PCY.rst:551
+msgid "Whenever a nontoken creature leaves the battlefield, exile all tokens with the same name as that creature."
+msgstr ""
+
+#: ../../PCY.rst:553
+msgid "When Dual Nature leaves the battlefield, exile all tokens created with Dual Nature."
+msgstr ""
+
+#: ../../PCY.rst:558
+msgid ":mtgtip:`Elephant Resurgence<https://img.scryfall.com/cards/border_crop/en/pcy/113.jpg?1517813031|https://scryfall.com/card/pcy/113/elephant-resurgence?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:557
+msgid "Each player creates a green Elephant creature token. Those creatures have \"This creature's power and toughness are each equal to the number of creature cards in its controller's graveyard.\""
+msgstr ""
+
+#: ../../PCY.rst:562
+msgid ":mtgtip:`Forgotten Harvest<https://img.scryfall.com/cards/border_crop/en/pcy/114.jpg?1517813031|https://scryfall.com/card/pcy/114/forgotten-harvest?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:561
+msgid "At the beginning of your upkeep, you may exile a land card from your graveyard. If you do, put a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../PCY.rst:566
+msgid ":mtgtip:`Jolrael, Empress of Beasts<https://img.scryfall.com/cards/border_crop/en/pcy/115.jpg?1517813031|https://scryfall.com/card/pcy/115/jolrael-empress-of-beasts?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:565
+msgid "|mana_2|\\ |mana_g|, |tap|, Discard two cards: All lands target player controls become 3/3 creatures until end of turn. They're still lands."
+msgstr ""
+
+#: ../../PCY.rst:574
+msgid ":mtgtip:`Jolrael's Favor<https://img.scryfall.com/cards/border_crop/en/pcy/116.jpg?1517813031|https://scryfall.com/card/pcy/116/jolraels-favor?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:573
+msgid "|mana_1|\\ |mana_g|: Regenerate enchanted creature."
+msgstr ""
+
+#: ../../PCY.rst:580
+msgid ":mtgtip:`Living Terrain<https://img.scryfall.com/cards/border_crop/en/pcy/117.jpg?1517813031|https://scryfall.com/card/pcy/117/living-terrain?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:579
+msgid "Enchanted land is a 5/6 green Treefolk creature that's still a land."
+msgstr ""
+
+#: ../../PCY.rst:584
+msgid ":mtgtip:`Marsh Boa<https://img.scryfall.com/cards/border_crop/en/pcy/118.jpg?1517813031|https://scryfall.com/card/pcy/118/marsh-boa?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:583
+msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
+msgstr ""
+
+#: ../../PCY.rst:588
+msgid ":mtgtip:`Mungha Wurm<https://img.scryfall.com/cards/border_crop/en/pcy/119.jpg?1517813031|https://scryfall.com/card/pcy/119/mungha-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:587
+msgid "You can't untap more than one land during your untap step."
+msgstr ""
+
+#: ../../PCY.rst:592
+msgid ":mtgtip:`Pygmy Razorback<https://img.scryfall.com/cards/border_crop/en/pcy/120.jpg?1517813031|https://scryfall.com/card/pcy/120/pygmy-razorback?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:591
+#: ../../PCY.rst:643
+#: ../../PCY.rst:679
+msgid "Trample"
+msgstr ""
+
+#: ../../PCY.rst:596
+msgid ":mtgtip:`Rib Cage Spider<https://img.scryfall.com/cards/border_crop/en/pcy/121.jpg?1517813031|https://scryfall.com/card/pcy/121/rib-cage-spider?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:595
+#: ../../PCY.rst:613
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../PCY.rst:600
+msgid ":mtgtip:`Root Cage<https://img.scryfall.com/cards/border_crop/en/pcy/122.jpg?1517813031|https://scryfall.com/card/pcy/122/root-cage?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:599
+msgid "Mercenaries don't untap during their controllers' untap steps."
+msgstr ""
+
+#: ../../PCY.rst:604
+msgid ":mtgtip:`Silt Crawler<https://img.scryfall.com/cards/border_crop/en/pcy/123.jpg?1517813031|https://scryfall.com/card/pcy/123/silt-crawler?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:603
+msgid "When Silt Crawler enters the battlefield, tap all lands you control."
+msgstr ""
+
+#: ../../PCY.rst:610
+msgid ":mtgtip:`Snag<https://img.scryfall.com/cards/border_crop/en/pcy/124.jpg?1517813031|https://scryfall.com/card/pcy/124/snag?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:607
+msgid "You may discard a Forest card rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../PCY.rst:609
+msgid "Prevent all combat damage that would be dealt by unblocked creatures this turn."
+msgstr ""
+
+#: ../../PCY.rst:616
+msgid ":mtgtip:`Spitting Spider<https://img.scryfall.com/cards/border_crop/en/pcy/125.jpg?1517813031|https://scryfall.com/card/pcy/125/spitting-spider?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:615
+msgid "Sacrifice a land: Spitting Spider deals 1 damage to each creature with flying."
+msgstr ""
+
+#: ../../PCY.rst:620
+msgid ":mtgtip:`Spore Frog<https://img.scryfall.com/cards/border_crop/en/pcy/126.jpg?1517813031|https://scryfall.com/card/pcy/126/spore-frog?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:619
+msgid "Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn."
+msgstr ""
+
+#: ../../PCY.rst:626
+msgid ":mtgtip:`Squirrel Wrangler<https://img.scryfall.com/cards/border_crop/en/pcy/127.jpg?1517813031|https://scryfall.com/card/pcy/127/squirrel-wrangler?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:623
+msgid "|mana_1|\\ |mana_g|, Sacrifice a land: Create two 1/1 green Squirrel creature tokens."
+msgstr ""
+
+#: ../../PCY.rst:625
+msgid "|mana_1|\\ |mana_g|, Sacrifice a land: Squirrel creatures get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:630
+msgid ":mtgtip:`Thresher Beast<https://img.scryfall.com/cards/border_crop/en/pcy/128.jpg?1517813031|https://scryfall.com/card/pcy/128/thresher-beast?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:629
+msgid "Whenever Thresher Beast becomes blocked, defending player sacrifices a land."
+msgstr ""
+
+#: ../../PCY.rst:634
+msgid ":mtgtip:`Thrive<https://img.scryfall.com/cards/border_crop/en/pcy/129.jpg?1517813031|https://scryfall.com/card/pcy/129/thrive?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:633
+msgid "Put a +1/+1 counter on each of X target creatures."
+msgstr ""
+
+#: ../../PCY.rst:640
+msgid ":mtgtip:`Verdant Field<https://img.scryfall.com/cards/border_crop/en/pcy/130.jpg?1517813031|https://scryfall.com/card/pcy/130/verdant-field?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:639
+msgid "Enchanted land has \"|tap|: Target creature gets +1/+1 until end of turn.\""
+msgstr ""
+
+#: ../../PCY.rst:646
+msgid ":mtgtip:`Vintara Elephant<https://img.scryfall.com/cards/border_crop/en/pcy/131.jpg?1517813031|https://scryfall.com/card/pcy/131/vintara-elephant?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:645
+msgid "|mana_3|: Vintara Elephant loses trample until end of turn. Any player may activate this ability."
+msgstr ""
+
+#: ../../PCY.rst:650
+msgid ":mtgtip:`Vintara Snapper<https://img.scryfall.com/cards/border_crop/en/pcy/132.jpg?1517813031|https://scryfall.com/card/pcy/132/vintara-snapper?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:649
+msgid "Vintara Snapper has shroud as long as you control no untapped lands. (It can't be the target of spells or abilities.)"
+msgstr ""
+
+#: ../../PCY.rst:654
+msgid ":mtgtip:`Vitalizing Wind<https://img.scryfall.com/cards/border_crop/en/pcy/133.jpg?1517813031|https://scryfall.com/card/pcy/133/vitalizing-wind?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:653
+msgid "Creatures you control get +7/+7 until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:658
+msgid ":mtgtip:`Wild Might<https://img.scryfall.com/cards/border_crop/en/pcy/134.jpg?1517813031|https://scryfall.com/card/pcy/134/wild-might?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:657
+msgid "Target creature gets +1/+1 until end of turn. That creature gets an additional +4/+4 until end of turn unless any player pays |mana_2|."
+msgstr ""
+
+#: ../../PCY.rst:662
+msgid ":mtgtip:`Wing Storm<https://img.scryfall.com/cards/border_crop/en/pcy/135.jpg?1517813031|https://scryfall.com/card/pcy/135/wing-storm?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:661
+msgid "Wing Storm deals damage to each player equal to twice the number of creatures with flying that player controls."
+msgstr ""
+
+#: ../../PCY.rst:666
+msgid ":mtgtip:`Chimeric Idol<https://img.scryfall.com/cards/border_crop/en/pcy/136.jpg?1517813031|https://scryfall.com/card/pcy/136/chimeric-idol?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:665
+msgid "|mana_0|: Tap all lands you control. Chimeric Idol becomes a 3/3 Turtle artifact creature until end of turn."
+msgstr ""
+
+#: ../../PCY.rst:672
+msgid ":mtgtip:`Copper-Leaf Angel<https://img.scryfall.com/cards/border_crop/en/pcy/137.jpg?1517813031|https://scryfall.com/card/pcy/137/copper-leaf-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:671
+msgid "|tap|, Sacrifice X lands: Put X +1/+1 counters on Copper-Leaf Angel."
+msgstr ""
+
+#: ../../PCY.rst:676
+msgid ":mtgtip:`Hollow Warrior<https://img.scryfall.com/cards/border_crop/en/pcy/138.jpg?1517813031|https://scryfall.com/card/pcy/138/hollow-warrior?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:675
+msgid "Hollow Warrior can't attack or block unless you tap an untapped creature you control not declared as an attacking or blocking creature this combat. (This cost is paid as attackers or blockers are declared.)"
+msgstr ""
+
+#: ../../PCY.rst:686
+msgid ":mtgtip:`Keldon Battlewagon<https://img.scryfall.com/cards/border_crop/en/pcy/139.jpg?1517813031|https://scryfall.com/card/pcy/139/keldon-battlewagon?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:681
+msgid "Keldon Battlewagon can't block."
+msgstr ""
+
+#: ../../PCY.rst:683
+msgid "When Keldon Battlewagon attacks, sacrifice it at end of combat."
+msgstr ""
+
+#: ../../PCY.rst:685
+msgid "Tap an untapped creature you control: Keldon Battlewagon gets +X/+0 until end of turn, where X is the power of the creature tapped this way."
+msgstr ""
+
+#: ../../PCY.rst:690
+msgid ":mtgtip:`Well of Discovery<https://img.scryfall.com/cards/border_crop/en/pcy/140.jpg?1517813031|https://scryfall.com/card/pcy/140/well-of-discovery?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:689
+msgid "At the beginning of your end step, if you control no untapped lands, draw a card."
+msgstr ""
+
+#: ../../PCY.rst:694
+msgid ":mtgtip:`Well of Life<https://img.scryfall.com/cards/border_crop/en/pcy/141.jpg?1517813031|https://scryfall.com/card/pcy/141/well-of-life?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:693
+msgid "At the beginning of your end step, if you control no untapped lands, you gain 2 life."
+msgstr ""
+
+#: ../../PCY.rst:698
+msgid ":mtgtip:`Rhystic Cave<https://img.scryfall.com/cards/border_crop/en/pcy/142.jpg?1546561316|https://scryfall.com/card/pcy/142/rhystic-cave?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:697
+msgid "|tap|: Choose a color. Add one mana of that color unless any player pays |mana_1|. Activate this ability only any time you could cast an instant."
+msgstr ""
+
+#: ../../PCY.rst:705
+msgid ":mtgtip:`Wintermoon Mesa<https://img.scryfall.com/cards/border_crop/en/pcy/143.jpg?1517813031|https://scryfall.com/card/pcy/143/wintermoon-mesa?utm_source=api>`"
+msgstr ""
+
+#: ../../PCY.rst:701
+msgid "Wintermoon Mesa enters the battlefield tapped."
+msgstr ""
+
+#: ../../PCY.rst:703
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../PCY.rst:705
+msgid "|mana_2|, |tap|, Sacrifice Wintermoon Mesa: Tap two target lands."
+msgstr ""
+
