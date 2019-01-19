@@ -2,14 +2,14 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-18 08:46+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-19 20:41+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -74,14 +74,13 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../HOU.rst:21
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_w|, |tap|: Exile another target creature. Return that card "
 "to the battlefield under its owner's control at the beginning of the next "
 "end step."
 msgstr ""
 "|mana_2|\\ |mana_w|, |tap|: Wygnaj innego wskazanego stwora. Przywróć ową "
-"kartę na pole walki pod władanie jej właściciela na początku najbliższego "
+"kartę na pole walki pod władaniem jej właściciela na początku najbliższego "
 "kroku końcowego."
 
 #: ../../HOU.rst:23
@@ -513,7 +512,7 @@ msgstr ""
 
 #: ../../HOU.rst:155
 msgid "Target creature gets +3/+3 and gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +3/+3 i zyskuje latanie do końca tury."
 
 #: ../../HOU.rst:157
 msgid ""
