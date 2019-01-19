@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 20:41+0000\n"
+"PO-Revision-Date: 2019-01-19 20:50+0000\n"
 "Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -791,7 +791,7 @@ msgstr ""
 
 #: ../../HOU.rst:247
 msgid "|mana_2|\\ |mana_u|: Scry 1."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Wróż 1."
 
 #: ../../HOU.rst:252
 msgid ""
@@ -805,6 +805,8 @@ msgid ""
 "|mana_u|, |tap|, Discard a card: Target player puts the top three cards of "
 "their library into their graveyard."
 msgstr ""
+"|mana_u|, |tap|, odrzuć kartę: Wskazany przeciwnik umieszcza trzy wierzchnie "
+"karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../HOU.rst:258
 msgid ""
@@ -815,7 +817,7 @@ msgstr ""
 
 #: ../../HOU.rst:255
 msgid "|mana_u|: Sinuous Striker gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór dostaje +1/-1 do końca tury."
 
 #: ../../HOU.rst:257
 msgid ""
@@ -897,6 +899,8 @@ msgid ""
 "Look at the top four cards of your library. Put one of them into your hand "
 "and the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe w losowej kolejności na spodzie twojej biblioteki."
 
 #: ../../HOU.rst:286
 msgid ""
@@ -910,6 +914,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may copy that spell. You "
 "may choose new targets for the copy."
 msgstr ""
+"Ilekroć rzucasz czar sztuczki lub obrzędu w tej turze, możesz skopiować ów "
+"czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../HOU.rst:290
 msgid ""
@@ -923,6 +929,8 @@ msgid ""
 "Draw two cards. Then discard a card unless you return a land you control to "
 "its owner's hand."
 msgstr ""
+"Dobierz dwie karty. Następnie odrzuć kartę, chyba że zwrócisz ląd pod twoim "
+"władaniem do ręki jego właściciela."
 
 #: ../../HOU.rst:298
 msgid ""
@@ -933,7 +941,7 @@ msgstr ""
 
 #: ../../HOU.rst:295
 msgid "Sphinx spells you cast cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Sfinksów kosztuje cię o {2} mniej."
 
 #: ../../HOU.rst:297
 msgid ""
