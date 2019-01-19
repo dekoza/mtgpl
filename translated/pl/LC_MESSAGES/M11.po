@@ -1,0 +1,2933 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 16:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../M11.rst:5
+msgid ":mtgexp:`M11` Magic 2011"
+msgstr ""
+
+#: ../../M11.rst:14
+msgid ""
+":mtgtip:`Ajani "
+"Goldmane<https://img.scryfall.com/cards/border_crop/en/m11/1.jpg?1517813031|https://scryfall.com/card/m11/1"
+"/ajani-goldmane?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:9
+msgid "+1: You gain 2 life."
+msgstr ""
+
+#: ../../M11.rst:11
+msgid ""
+"−1: Put a +1/+1 counter on each creature you control. Those creatures "
+"gain vigilance until end of turn."
+msgstr ""
+
+#: ../../M11.rst:13
+msgid ""
+"−6: Create a white Avatar creature token. It has \"This creature's power "
+"and toughness are each equal to your life total.\""
+msgstr ""
+
+#: ../../M11.rst:18
+msgid ""
+":mtgtip:`Ajani's "
+"Mantra<https://img.scryfall.com/cards/border_crop/en/m11/2.jpg?1517813031|https://scryfall.com/card/m11/2"
+"/ajanis-mantra?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:17
+msgid "At the beginning of your upkeep, you may gain 1 life."
+msgstr ""
+
+#: ../../M11.rst:22
+msgid ""
+":mtgtip:`Ajani's "
+"Pridemate<https://img.scryfall.com/cards/border_crop/en/m11/3.jpg?1517813031|https://scryfall.com/card/m11/3"
+"/ajanis-pridemate?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:21
+msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
+msgstr ""
+
+#: ../../M11.rst:30
+msgid ""
+":mtgtip:`Angelic "
+"Arbiter<https://img.scryfall.com/cards/border_crop/en/m11/4.jpg?1517813031|https://scryfall.com/card/m11/4"
+"/angelic-arbiter?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:25 ../../M11.rst:39 ../../M11.rst:55 ../../M11.rst:77
+#: ../../M11.rst:163 ../../M11.rst:169 ../../M11.rst:183 ../../M11.rst:199
+#: ../../M11.rst:207 ../../M11.rst:221 ../../M11.rst:227 ../../M11.rst:243
+#: ../../M11.rst:249 ../../M11.rst:483 ../../M11.rst:507 ../../M11.rst:533
+#: ../../M11.rst:597 ../../M11.rst:633 ../../M11.rst:703 ../../M11.rst:737
+#: ../../M11.rst:809 ../../M11.rst:1031 ../../M11.rst:1035
+msgid "Flying"
+msgstr ""
+
+#: ../../M11.rst:27
+msgid "Each opponent who cast a spell this turn can't attack with creatures."
+msgstr ""
+
+#: ../../M11.rst:29
+msgid "Each opponent who attacked with a creature this turn can't cast spells."
+msgstr ""
+
+#: ../../M11.rst:36
+msgid ""
+":mtgtip:`Armored "
+"Ascension<https://img.scryfall.com/cards/border_crop/en/m11/5.jpg?1517813031|https://scryfall.com/card/m11/5"
+"/armored-ascension?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:33 ../../M11.rst:83 ../../M11.rst:117 ../../M11.rst:279
+#: ../../M11.rst:333 ../../M11.rst:521 ../../M11.rst:547 ../../M11.rst:583
+#: ../../M11.rst:765 ../../M11.rst:777 ../../M11.rst:827 ../../M11.rst:933
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../M11.rst:35
+msgid "Enchanted creature gets +1/+1 for each Plains you control and has flying."
+msgstr ""
+
+#: ../../M11.rst:40
+msgid ""
+":mtgtip:`Assault "
+"Griffin<https://img.scryfall.com/cards/border_crop/en/m11/6.jpg?1517813031|https://scryfall.com/card/m11/6"
+"/assault-griffin?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:44
+msgid ""
+":mtgtip:`Baneslayer "
+"Angel<https://img.scryfall.com/cards/border_crop/en/m11/7.jpg?1517813031|https://scryfall.com/card/m11/7"
+"/baneslayer-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:43
+msgid "Flying, first strike, lifelink, protection from Demons and from Dragons"
+msgstr ""
+
+#: ../../M11.rst:48
+msgid ""
+":mtgtip:`Blinding "
+"Mage<https://img.scryfall.com/cards/border_crop/en/m11/8.jpg?1517813031|https://scryfall.com/card/m11/8"
+"/blinding-mage?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:47
+msgid "|mana_w|, |tap|: Tap target creature."
+msgstr ""
+
+#: ../../M11.rst:52
+msgid ""
+":mtgtip:`Celestial "
+"Purge<https://img.scryfall.com/cards/border_crop/en/m11/9.jpg?1517813031|https://scryfall.com/card/m11/9"
+"/celestial-purge?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:51
+msgid "Exile target black or red permanent."
+msgstr ""
+
+#: ../../M11.rst:58
+msgid ""
+":mtgtip:`Cloud "
+"Crusader<https://img.scryfall.com/cards/border_crop/en/m11/10.jpg?1517813031|https://scryfall.com/card/m11/10"
+"/cloud-crusader?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:57 ../../M11.rst:101 ../../M11.rst:193 ../../M11.rst:407
+msgid ""
+"First strike (This creature deals combat damage before creatures without "
+"first strike.)"
+msgstr ""
+
+#: ../../M11.rst:62
+msgid ":mtgtip:`Condemn<https://img.scryfall.com/cards/border_crop/en/m11/11.jpg?1517813031|https://scryfall.com/card/m11/11/condemn?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:61
+msgid ""
+"Put target attacking creature on the bottom of its owner's library. Its "
+"controller gains life equal to its toughness."
+msgstr ""
+
+#: ../../M11.rst:66
+msgid ""
+":mtgtip:`Day of "
+"Judgment<https://img.scryfall.com/cards/border_crop/en/m11/12.jpg?1517813031|https://scryfall.com/card/m11/12"
+"/day-of-judgment?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:65
+msgid "Destroy all creatures."
+msgstr ""
+
+#: ../../M11.rst:68
+msgid ""
+":mtgtip:`Elite "
+"Vanguard<https://img.scryfall.com/cards/border_crop/en/m11/13.jpg?1517813031|https://scryfall.com/card/m11/13"
+"/elite-vanguard?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:74
+msgid ":mtgtip:`Excommunicate<https://img.scryfall.com/cards/border_crop/en/m11/14.jpg?1517813031|https://scryfall.com/card/m11/14/excommunicate?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:73
+msgid "Put target creature on top of its owner's library."
+msgstr ""
+
+#: ../../M11.rst:80
+msgid ""
+":mtgtip:`Goldenglow "
+"Moth<https://img.scryfall.com/cards/border_crop/en/m11/15.jpg?1517813031|https://scryfall.com/card/m11/15"
+"/goldenglow-moth?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:79
+msgid "Whenever Goldenglow Moth blocks, you may gain 4 life."
+msgstr ""
+
+#: ../../M11.rst:86
+msgid ""
+":mtgtip:`Holy "
+"Strength<https://img.scryfall.com/cards/border_crop/en/m11/16.jpg?1517813031|https://scryfall.com/card/m11/16"
+"/holy-strength?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:85
+msgid "Enchanted creature gets +1/+2."
+msgstr ""
+
+#: ../../M11.rst:90
+msgid ""
+":mtgtip:`Honor of the "
+"Pure<https://img.scryfall.com/cards/border_crop/en/m11/17.jpg?1517813031|https://scryfall.com/card/m11/17"
+"/honor-of-the-pure?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:89
+msgid "White creatures you control get +1/+1."
+msgstr ""
+
+#: ../../M11.rst:94
+msgid ""
+":mtgtip:`Infantry "
+"Veteran<https://img.scryfall.com/cards/border_crop/en/m11/18.jpg?1517813031|https://scryfall.com/card/m11/18"
+"/infantry-veteran?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:93
+msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:98
+msgid ""
+":mtgtip:`Inspired "
+"Charge<https://img.scryfall.com/cards/border_crop/en/m11/19.jpg?1517813031|https://scryfall.com/card/m11/19"
+"/inspired-charge?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:97
+msgid "Creatures you control get +2/+1 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:104
+msgid ""
+":mtgtip:`Knight "
+"Exemplar<https://img.scryfall.com/cards/border_crop/en/m11/20.jpg?1517813031|https://scryfall.com/card/m11/20"
+"/knight-exemplar?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:103
+msgid ""
+"Other Knight creatures you control get +1/+1 and have indestructible. "
+"(Damage and effects that say \"destroy\" don't destroy them.)"
+msgstr ""
+
+#: ../../M11.rst:110
+msgid ""
+":mtgtip:`Leyline of "
+"Sanctity<https://img.scryfall.com/cards/border_crop/en/m11/21.jpg?1517813031|https://scryfall.com/card/m11/21"
+"/leyline-of-sanctity?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:107
+msgid ""
+"If Leyline of Sanctity is in your opening hand, you may begin the game "
+"with it on the battlefield."
+msgstr ""
+
+#: ../../M11.rst:109
+msgid ""
+"You have hexproof. (You can't be the target of spells or abilities your "
+"opponents control.)"
+msgstr ""
+
+#: ../../M11.rst:114
+msgid ""
+":mtgtip:`Mighty "
+"Leap<https://img.scryfall.com/cards/border_crop/en/m11/22.jpg?1517813031|https://scryfall.com/card/m11/22"
+"/mighty-leap?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:113
+msgid "Target creature gets +2/+2 and gains flying until end of turn."
+msgstr ""
+
+#: ../../M11.rst:120
+msgid ":mtgtip:`Pacifism<https://img.scryfall.com/cards/border_crop/en/m11/23.jpg?1517813031|https://scryfall.com/card/m11/23/pacifism?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:119
+msgid "Enchanted creature can't attack or block."
+msgstr ""
+
+#: ../../M11.rst:124
+msgid ""
+":mtgtip:`Palace "
+"Guard<https://img.scryfall.com/cards/border_crop/en/m11/24.jpg?1517813031|https://scryfall.com/card/m11/24"
+"/palace-guard?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:123
+msgid "Palace Guard can block any number of creatures."
+msgstr ""
+
+#: ../../M11.rst:130
+msgid ""
+":mtgtip:`Roc "
+"Egg<https://img.scryfall.com/cards/border_crop/en/m11/25.jpg?1517813031|https://scryfall.com/card/m11/25"
+"/roc-egg?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:127 ../../M11.rst:975 ../../M11.rst:1009
+msgid "Defender (This creature can't attack.)"
+msgstr ""
+
+#: ../../M11.rst:129
+msgid "When Roc Egg dies, create a 3/3 white Bird creature token with flying."
+msgstr ""
+
+#: ../../M11.rst:134
+msgid ""
+":mtgtip:`Safe "
+"Passage<https://img.scryfall.com/cards/border_crop/en/m11/26.jpg?1517813031|https://scryfall.com/card/m11/26"
+"/safe-passage?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:133
+msgid ""
+"Prevent all damage that would be dealt to you and creatures you control "
+"this turn."
+msgstr ""
+
+#: ../../M11.rst:138
+msgid ""
+":mtgtip:`Serra "
+"Angel<https://img.scryfall.com/cards/border_crop/en/m11/27.jpg?1517813031|https://scryfall.com/card/m11/27"
+"/serra-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:137
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../M11.rst:144
+msgid ""
+":mtgtip:`Serra "
+"Ascendant<https://img.scryfall.com/cards/border_crop/en/m11/28.jpg?1517813031|https://scryfall.com/card/m11/28"
+"/serra-ascendant?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:141
+msgid ""
+"Lifelink (Damage dealt by this creature also causes you to gain that much"
+" life.)"
+msgstr ""
+
+#: ../../M11.rst:143
+msgid ""
+"As long as you have 30 or more life, Serra Ascendant gets +5/+5 and has "
+"flying."
+msgstr ""
+
+#: ../../M11.rst:146
+msgid ""
+":mtgtip:`Siege "
+"Mastodon<https://img.scryfall.com/cards/border_crop/en/m11/29.jpg?1517813031|https://scryfall.com/card/m11/29"
+"/siege-mastodon?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:152
+msgid ":mtgtip:`Silence<https://img.scryfall.com/cards/border_crop/en/m11/30.jpg?1517813031|https://scryfall.com/card/m11/30/silence?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:151
+msgid ""
+"Your opponents can't cast spells this turn. (Spells cast before this "
+"resolves are unaffected.)"
+msgstr ""
+
+#: ../../M11.rst:154
+msgid ""
+":mtgtip:`Silvercoat "
+"Lion<https://img.scryfall.com/cards/border_crop/en/m11/31.jpg?1517813031|https://scryfall.com/card/m11/31"
+"/silvercoat-lion?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:160
+msgid ""
+":mtgtip:`Solemn "
+"Offering<https://img.scryfall.com/cards/border_crop/en/m11/32.jpg?1517813031|https://scryfall.com/card/m11/32"
+"/solemn-offering?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:159
+msgid "Destroy target artifact or enchantment. You gain 4 life."
+msgstr ""
+
+#: ../../M11.rst:166
+msgid ""
+":mtgtip:`Squadron "
+"Hawk<https://img.scryfall.com/cards/border_crop/en/m11/33.jpg?1517813031|https://scryfall.com/card/m11/33"
+"/squadron-hawk?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:165
+msgid ""
+"When Squadron Hawk enters the battlefield, you may search your library "
+"for up to three cards named Squadron Hawk, reveal them, put them into "
+"your hand, then shuffle your library."
+msgstr ""
+
+#: ../../M11.rst:170
+msgid ""
+":mtgtip:`Stormfront "
+"Pegasus<https://img.scryfall.com/cards/border_crop/en/m11/34.jpg?1517813031|https://scryfall.com/card/m11/34"
+"/stormfront-pegasus?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:176
+msgid ""
+":mtgtip:`Sun "
+"Titan<https://img.scryfall.com/cards/border_crop/en/m11/35.jpg?1517813031|https://scryfall.com/card/m11/35"
+"/sun-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:173
+msgid "Vigilance"
+msgstr ""
+
+#: ../../M11.rst:175
+msgid ""
+"Whenever Sun Titan enters the battlefield or attacks, you may return "
+"target permanent card with converted mana cost 3 or less from your "
+"graveyard to the battlefield."
+msgstr ""
+
+#: ../../M11.rst:180
+msgid ""
+":mtgtip:`Tireless "
+"Missionaries<https://img.scryfall.com/cards/border_crop/en/m11/36.jpg?1517813031|https://scryfall.com/card/m11/36"
+"/tireless-missionaries?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:179
+msgid "When Tireless Missionaries enters the battlefield, you gain 3 life."
+msgstr ""
+
+#: ../../M11.rst:186
+msgid ""
+":mtgtip:`Vengeful "
+"Archon<https://img.scryfall.com/cards/border_crop/en/m11/37.jpg?1517813031|https://scryfall.com/card/m11/37"
+"/vengeful-archon?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:185
+msgid ""
+"|mana_x|: Prevent the next X damage that would be dealt to you this turn."
+" If damage is prevented this way, Vengeful Archon deals that much damage "
+"to target player or planeswalker."
+msgstr ""
+
+#: ../../M11.rst:190
+msgid ""
+":mtgtip:`War Priest of "
+"Thune<https://img.scryfall.com/cards/border_crop/en/m11/38.jpg?1517813031|https://scryfall.com/card/m11/38"
+"/war-priest-of-thune?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:189
+msgid ""
+"When War Priest of Thune enters the battlefield, you may destroy target "
+"enchantment."
+msgstr ""
+
+#: ../../M11.rst:196
+msgid ""
+":mtgtip:`White "
+"Knight<https://img.scryfall.com/cards/border_crop/en/m11/39.jpg?1517813031|https://scryfall.com/card/m11/39"
+"/white-knight?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:195
+msgid ""
+"Protection from black (This creature can't be blocked, targeted, dealt "
+"damage, or enchanted by anything black.)"
+msgstr ""
+
+#: ../../M11.rst:200
+msgid ""
+":mtgtip:`Wild "
+"Griffin<https://img.scryfall.com/cards/border_crop/en/m11/40.jpg?1517813031|https://scryfall.com/card/m11/40"
+"/wild-griffin?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:204
+msgid ""
+":mtgtip:`Aether "
+"Adept<https://img.scryfall.com/cards/border_crop/en/m11/41.jpg?1517813031|https://scryfall.com/card/m11/41"
+"/aether-adept?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:203
+msgid ""
+"When Aether Adept enters the battlefield, return target creature to its "
+"owner's hand."
+msgstr ""
+
+#: ../../M11.rst:210
+msgid ""
+":mtgtip:`Air "
+"Servant<https://img.scryfall.com/cards/border_crop/en/m11/42.jpg?1517813031|https://scryfall.com/card/m11/42"
+"/air-servant?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:209
+msgid "|mana_2|\\ |mana_u|: Tap target creature with flying."
+msgstr ""
+
+#: ../../M11.rst:214
+msgid ""
+":mtgtip:`Alluring "
+"Siren<https://img.scryfall.com/cards/border_crop/en/m11/43.jpg?1517813031|https://scryfall.com/card/m11/43"
+"/alluring-siren?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:213
+msgid "|tap|: Target creature an opponent controls attacks you this turn if able."
+msgstr ""
+
+#: ../../M11.rst:216
+msgid ""
+":mtgtip:`Armored "
+"Cancrix<https://img.scryfall.com/cards/border_crop/en/m11/44.jpg?1517813031|https://scryfall.com/card/m11/44"
+"/armored-cancrix?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:224
+msgid ""
+":mtgtip:`Augury "
+"Owl<https://img.scryfall.com/cards/border_crop/en/m11/45.jpg?1517813031|https://scryfall.com/card/m11/45"
+"/augury-owl?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:223
+msgid ""
+"When Augury Owl enters the battlefield, scry 3. (Look at the top three "
+"cards of your library, then put any number of them on the bottom of your "
+"library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../M11.rst:228
+msgid ""
+":mtgtip:`Azure "
+"Drake<https://img.scryfall.com/cards/border_crop/en/m11/46.jpg?1517813031|https://scryfall.com/card/m11/46"
+"/azure-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:232
+msgid ""
+":mtgtip:`Call to "
+"Mind<https://img.scryfall.com/cards/border_crop/en/m11/47.jpg?1517813031|https://scryfall.com/card/m11/47"
+"/call-to-mind?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:231
+msgid "Return target instant or sorcery card from your graveyard to your hand."
+msgstr ""
+
+#: ../../M11.rst:236
+msgid ":mtgtip:`Cancel<https://img.scryfall.com/cards/border_crop/en/m11/48.jpg?1517813031|https://scryfall.com/card/m11/48/cancel?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:235
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../M11.rst:240
+msgid ":mtgtip:`Clone<https://img.scryfall.com/cards/border_crop/en/m11/49.jpg?1517813031|https://scryfall.com/card/m11/49/clone?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:239
+msgid ""
+"You may have Clone enter the battlefield as a copy of any creature on the"
+" battlefield."
+msgstr ""
+
+#: ../../M11.rst:246
+msgid ""
+":mtgtip:`Cloud "
+"Elemental<https://img.scryfall.com/cards/border_crop/en/m11/50.jpg?1517813031|https://scryfall.com/card/m11/50"
+"/cloud-elemental?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:245
+msgid "Cloud Elemental can block only creatures with flying."
+msgstr ""
+
+#: ../../M11.rst:252
+msgid ""
+":mtgtip:`Conundrum "
+"Sphinx<https://img.scryfall.com/cards/border_crop/en/m11/51.jpg?1517813031|https://scryfall.com/card/m11/51"
+"/conundrum-sphinx?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:251
+msgid ""
+"Whenever Conundrum Sphinx attacks, each player chooses a card name. Then "
+"each player reveals the top card of their library. If the card a player "
+"revealed has the name they chose, that player puts it into their hand. If"
+" it doesn't, that player puts it on the bottom of their library."
+msgstr ""
+
+#: ../../M11.rst:256
+msgid ":mtgtip:`Diminish<https://img.scryfall.com/cards/border_crop/en/m11/52.jpg?1517813031|https://scryfall.com/card/m11/52/diminish?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:255
+msgid "Target creature has base power and toughness 1/1 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:260
+msgid ":mtgtip:`Flashfreeze<https://img.scryfall.com/cards/border_crop/en/m11/53.jpg?1517813031|https://scryfall.com/card/m11/53/flashfreeze?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:259
+msgid "Counter target red or green spell."
+msgstr ""
+
+#: ../../M11.rst:264
+msgid ":mtgtip:`Foresee<https://img.scryfall.com/cards/border_crop/en/m11/54.jpg?1517813031|https://scryfall.com/card/m11/54/foresee?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:263
+msgid ""
+"Scry 4, then draw two cards. (To scry 4, look at the top four cards of "
+"your library, then put any number of them on the bottom of your library "
+"and the rest on top in any order.)"
+msgstr ""
+
+#: ../../M11.rst:270
+msgid ""
+":mtgtip:`Frost "
+"Titan<https://img.scryfall.com/cards/border_crop/en/m11/55.jpg?1517813031|https://scryfall.com/card/m11/55"
+"/frost-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:267
+msgid ""
+"Whenever Frost Titan becomes the target of a spell or ability an opponent"
+" controls, counter that spell or ability unless its controller pays "
+"|mana_2|."
+msgstr ""
+
+#: ../../M11.rst:269
+msgid ""
+"Whenever Frost Titan enters the battlefield or attacks, tap target "
+"permanent. It doesn't untap during its controller's next untap step."
+msgstr ""
+
+#: ../../M11.rst:276
+msgid ""
+":mtgtip:`Harbor "
+"Serpent<https://img.scryfall.com/cards/border_crop/en/m11/56.jpg?1517813031|https://scryfall.com/card/m11/56"
+"/harbor-serpent?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:273 ../../M11.rst:327 ../../M11.rst:363
+msgid ""
+"Islandwalk (This creature can't be blocked as long as defending player "
+"controls an Island.)"
+msgstr ""
+
+#: ../../M11.rst:275
+msgid ""
+"Harbor Serpent can't attack unless there are five or more Islands on the "
+"battlefield."
+msgstr ""
+
+#: ../../M11.rst:284
+msgid ""
+":mtgtip:`Ice "
+"Cage<https://img.scryfall.com/cards/border_crop/en/m11/57.jpg?1517813031|https://scryfall.com/card/m11/57"
+"/ice-cage?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:281
+msgid ""
+"Enchanted creature can't attack or block, and its activated abilities "
+"can't be activated."
+msgstr ""
+
+#: ../../M11.rst:283
+msgid ""
+"When enchanted creature becomes the target of a spell or ability, destroy"
+" Ice Cage."
+msgstr ""
+
+#: ../../M11.rst:292
+msgid ""
+":mtgtip:`Jace "
+"Beleren<https://img.scryfall.com/cards/border_crop/en/m11/58.jpg?1517813031|https://scryfall.com/card/m11/58"
+"/jace-beleren?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:287
+msgid "+2: Each player draws a card."
+msgstr ""
+
+#: ../../M11.rst:289
+msgid "−1: Target player draws a card."
+msgstr ""
+
+#: ../../M11.rst:291
+msgid ""
+"−10: Target player puts the top twenty cards of their library into their "
+"graveyard."
+msgstr ""
+
+#: ../../M11.rst:296
+msgid ""
+":mtgtip:`Jace's "
+"Erasure<https://img.scryfall.com/cards/border_crop/en/m11/59.jpg?1517813031|https://scryfall.com/card/m11/59"
+"/jaces-erasure?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:295
+msgid ""
+"Whenever you draw a card, you may have target player put the top card of "
+"their library into their graveyard."
+msgstr ""
+
+#: ../../M11.rst:300
+msgid ""
+":mtgtip:`Jace's "
+"Ingenuity<https://img.scryfall.com/cards/border_crop/en/m11/60.jpg?1517813031|https://scryfall.com/card/m11/60"
+"/jaces-ingenuity?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:299
+msgid "Draw three cards."
+msgstr ""
+
+#: ../../M11.rst:306
+msgid ""
+":mtgtip:`Leyline of "
+"Anticipation<https://img.scryfall.com/cards/border_crop/en/m11/61.jpg?1517813031|https://scryfall.com/card/m11/61"
+"/leyline-of-anticipation?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:303
+msgid ""
+"If Leyline of Anticipation is in your opening hand, you may begin the "
+"game with it on the battlefield."
+msgstr ""
+
+#: ../../M11.rst:305
+msgid ""
+"You may cast spells as though they had flash. (You may cast them any time"
+" you could cast an instant.)"
+msgstr ""
+
+#: ../../M11.rst:310
+msgid ""
+":mtgtip:`Mana "
+"Leak<https://img.scryfall.com/cards/border_crop/en/m11/62.jpg?1517813031|https://scryfall.com/card/m11/62"
+"/mana-leak?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:309
+msgid "Counter target spell unless its controller pays |mana_3|."
+msgstr ""
+
+#: ../../M11.rst:312
+msgid ""
+":mtgtip:`Maritime "
+"Guard<https://img.scryfall.com/cards/border_crop/en/m11/63.jpg?1517813031|https://scryfall.com/card/m11/63"
+"/maritime-guard?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:318
+msgid ""
+":mtgtip:`Mass "
+"Polymorph<https://img.scryfall.com/cards/border_crop/en/m11/64.jpg?1517813031|https://scryfall.com/card/m11/64"
+"/mass-polymorph?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:317
+msgid ""
+"Exile all creatures you control, then reveal cards from the top of your "
+"library until you reveal that many creature cards. Put all creature cards"
+" revealed this way onto the battlefield, then shuffle the rest of the "
+"revealed cards into your library."
+msgstr ""
+
+#: ../../M11.rst:324
+msgid ""
+":mtgtip:`Merfolk "
+"Sovereign<https://img.scryfall.com/cards/border_crop/en/m11/65.jpg?1517813031|https://scryfall.com/card/m11/65"
+"/merfolk-sovereign?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:321
+msgid "Other Merfolk creatures you control get +1/+1."
+msgstr ""
+
+#: ../../M11.rst:323
+msgid "|tap|: Target Merfolk creature can't be blocked this turn."
+msgstr ""
+
+#: ../../M11.rst:330
+msgid ""
+":mtgtip:`Merfolk "
+"Spy<https://img.scryfall.com/cards/border_crop/en/m11/66.jpg?1517813031|https://scryfall.com/card/m11/66"
+"/merfolk-spy?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:329
+msgid ""
+"Whenever Merfolk Spy deals combat damage to a player, that player reveals"
+" a card at random from their hand."
+msgstr ""
+
+#: ../../M11.rst:336
+msgid ""
+":mtgtip:`Mind "
+"Control<https://img.scryfall.com/cards/border_crop/en/m11/67.jpg?1517813031|https://scryfall.com/card/m11/67"
+"/mind-control?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:335
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../M11.rst:340
+msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/en/m11/68.jpg?1517813031|https://scryfall.com/card/m11/68/negate?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:339
+msgid "Counter target noncreature spell."
+msgstr ""
+
+#: ../../M11.rst:344
+msgid ""
+":mtgtip:`Phantom "
+"Beast<https://img.scryfall.com/cards/border_crop/en/m11/69.jpg?1517813031|https://scryfall.com/card/m11/69"
+"/phantom-beast?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:343
+msgid "When Phantom Beast becomes the target of a spell or ability, sacrifice it."
+msgstr ""
+
+#: ../../M11.rst:348
+msgid ":mtgtip:`Preordain<https://img.scryfall.com/cards/border_crop/en/m11/70.jpg?1517813031|https://scryfall.com/card/m11/70/preordain?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:347
+msgid ""
+"Scry 2, then draw a card. (To scry 2, look at the top two cards of your "
+"library, then put any number of them on the bottom of your library and "
+"the rest on top in any order.)"
+msgstr ""
+
+#: ../../M11.rst:352
+msgid ":mtgtip:`Redirect<https://img.scryfall.com/cards/border_crop/en/m11/71.jpg?1517813031|https://scryfall.com/card/m11/71/redirect?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:351
+msgid "You may choose new targets for target spell."
+msgstr ""
+
+#: ../../M11.rst:356
+msgid ""
+":mtgtip:`Scroll "
+"Thief<https://img.scryfall.com/cards/border_crop/en/m11/72.jpg?1517813031|https://scryfall.com/card/m11/72"
+"/scroll-thief?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:355
+msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
+msgstr ""
+
+#: ../../M11.rst:360
+msgid ":mtgtip:`Sleep<https://img.scryfall.com/cards/border_crop/en/m11/73.jpg?1517813031|https://scryfall.com/card/m11/73/sleep?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:359
+msgid ""
+"Tap all creatures target player controls. Those creatures don't untap "
+"during that player's next untap step."
+msgstr ""
+
+#: ../../M11.rst:368
+msgid ""
+":mtgtip:`Stormtide "
+"Leviathan<https://img.scryfall.com/cards/border_crop/en/m11/74.jpg?1517813031|https://scryfall.com/card/m11/74"
+"/stormtide-leviathan?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:365
+msgid "All lands are Islands in addition to their other types."
+msgstr ""
+
+#: ../../M11.rst:367
+msgid "Creatures without flying or islandwalk can't attack."
+msgstr ""
+
+#: ../../M11.rst:372
+msgid ""
+":mtgtip:`Time "
+"Reversal<https://img.scryfall.com/cards/border_crop/en/m11/75.jpg?1517813031|https://scryfall.com/card/m11/75"
+"/time-reversal?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:371
+msgid ""
+"Each player shuffles their hand and graveyard into their library, then "
+"draws seven cards. Exile Time Reversal."
+msgstr ""
+
+#: ../../M11.rst:376
+msgid ""
+":mtgtip:`Tome "
+"Scour<https://img.scryfall.com/cards/border_crop/en/m11/76.jpg?1517813031|https://scryfall.com/card/m11/76"
+"/tome-scour?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:375
+msgid ""
+"Target player puts the top five cards of their library into their "
+"graveyard."
+msgstr ""
+
+#: ../../M11.rst:380
+msgid ":mtgtip:`Traumatize<https://img.scryfall.com/cards/border_crop/en/m11/77.jpg?1517813031|https://scryfall.com/card/m11/77/traumatize?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:379
+msgid ""
+"Target player puts the top half of their library, rounded down, into "
+"their graveyard."
+msgstr ""
+
+#: ../../M11.rst:384
+msgid ":mtgtip:`Unsummon<https://img.scryfall.com/cards/border_crop/en/m11/78.jpg?1517813031|https://scryfall.com/card/m11/78/unsummon?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:383
+msgid "Return target creature to its owner's hand."
+msgstr ""
+
+#: ../../M11.rst:390
+msgid ""
+":mtgtip:`Wall of "
+"Frost<https://img.scryfall.com/cards/border_crop/en/m11/79.jpg?1517813031|https://scryfall.com/card/m11/79"
+"/wall-of-frost?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:387
+msgid "Defender"
+msgstr ""
+
+#: ../../M11.rst:389
+msgid ""
+"Whenever Wall of Frost blocks a creature, that creature doesn't untap "
+"during its controller's next untap step."
+msgstr ""
+
+#: ../../M11.rst:396
+msgid ""
+":mtgtip:`Water "
+"Servant<https://img.scryfall.com/cards/border_crop/en/m11/80.jpg?1517813031|https://scryfall.com/card/m11/80"
+"/water-servant?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:393
+msgid "|mana_u|: Water Servant gets +1/-1 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:395
+msgid "|mana_u|: Water Servant gets -1/+1 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:400
+msgid ":mtgtip:`Assassinate<https://img.scryfall.com/cards/border_crop/en/m11/81.jpg?1517813031|https://scryfall.com/card/m11/81/assassinate?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:399
+msgid "Destroy target tapped creature."
+msgstr ""
+
+#: ../../M11.rst:402
+msgid ""
+":mtgtip:`Barony "
+"Vampire<https://img.scryfall.com/cards/border_crop/en/m11/82.jpg?1517813031|https://scryfall.com/card/m11/82"
+"/barony-vampire?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:410
+msgid ""
+":mtgtip:`Black "
+"Knight<https://img.scryfall.com/cards/border_crop/en/m11/83.jpg?1517813031|https://scryfall.com/card/m11/83"
+"/black-knight?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:409
+msgid ""
+"Protection from white (This creature can't be blocked, targeted, dealt "
+"damage, or enchanted by anything white.)"
+msgstr ""
+
+#: ../../M11.rst:414
+msgid ""
+":mtgtip:`Blood "
+"Tithe<https://img.scryfall.com/cards/border_crop/en/m11/84.jpg?1517813031|https://scryfall.com/card/m11/84"
+"/blood-tithe?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:413
+msgid "Each opponent loses 3 life. You gain life equal to the life lost this way."
+msgstr ""
+
+#: ../../M11.rst:418
+msgid ""
+":mtgtip:`Bloodthrone "
+"Vampire<https://img.scryfall.com/cards/border_crop/en/m11/85.jpg?1517813031|https://scryfall.com/card/m11/85"
+"/bloodthrone-vampire?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:417
+msgid "Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:422
+msgid ""
+":mtgtip:`Bog "
+"Raiders<https://img.scryfall.com/cards/border_crop/en/m11/86.jpg?1517813031|https://scryfall.com/card/m11/86"
+"/bog-raiders?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:421
+msgid ""
+"Swampwalk (This creature can't be blocked as long as defending player "
+"controls a Swamp.)"
+msgstr ""
+
+#: ../../M11.rst:428
+msgid ""
+":mtgtip:`Captivating "
+"Vampire<https://img.scryfall.com/cards/border_crop/en/m11/87.jpg?1517813031|https://scryfall.com/card/m11/87"
+"/captivating-vampire?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:425
+msgid "Other Vampire creatures you control get +1/+1."
+msgstr ""
+
+#: ../../M11.rst:427
+msgid ""
+"Tap five untapped Vampires you control: Gain control of target creature. "
+"It becomes a Vampire in addition to its other types."
+msgstr ""
+
+#: ../../M11.rst:432
+msgid ""
+":mtgtip:`Child of "
+"Night<https://img.scryfall.com/cards/border_crop/en/m11/88.jpg?1517813031|https://scryfall.com/card/m11/88"
+"/child-of-night?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:431
+msgid "Lifelink"
+msgstr ""
+
+#: ../../M11.rst:436
+msgid ":mtgtip:`Corrupt<https://img.scryfall.com/cards/border_crop/en/m11/89.jpg?1517813031|https://scryfall.com/card/m11/89/corrupt?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:435
+msgid ""
+"Corrupt deals damage to any target equal to the number of Swamps you "
+"control. You gain life equal to the damage dealt this way."
+msgstr ""
+
+#: ../../M11.rst:440
+msgid ""
+":mtgtip:`Dark "
+"Tutelage<https://img.scryfall.com/cards/border_crop/en/m11/90.jpg?1517813031|https://scryfall.com/card/m11/90"
+"/dark-tutelage?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:439
+msgid ""
+"At the beginning of your upkeep, reveal the top card of your library and "
+"put that card into your hand. You lose life equal to its converted mana "
+"cost."
+msgstr ""
+
+#: ../../M11.rst:444
+msgid ":mtgtip:`Deathmark<https://img.scryfall.com/cards/border_crop/en/m11/91.jpg?1517813031|https://scryfall.com/card/m11/91/deathmark?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:443
+msgid "Destroy target green or white creature."
+msgstr ""
+
+#: ../../M11.rst:450
+msgid ""
+":mtgtip:`Demon of Death's "
+"Gate<https://img.scryfall.com/cards/border_crop/en/m11/92.jpg?1517813031|https://scryfall.com/card/m11/92"
+"/demon-of-deaths-gate?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:447
+msgid ""
+"You may pay 6 life and sacrifice three black creatures rather than pay "
+"this spell's mana cost."
+msgstr ""
+
+#: ../../M11.rst:449
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../M11.rst:454
+msgid ""
+":mtgtip:`Diabolic "
+"Tutor<https://img.scryfall.com/cards/border_crop/en/m11/93.jpg?1517813031|https://scryfall.com/card/m11/93"
+"/diabolic-tutor?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:453
+msgid ""
+"Search your library for a card and put that card into your hand. Then "
+"shuffle your library."
+msgstr ""
+
+#: ../../M11.rst:458
+msgid ":mtgtip:`Disentomb<https://img.scryfall.com/cards/border_crop/en/m11/94.jpg?1517813031|https://scryfall.com/card/m11/94/disentomb?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:457
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../M11.rst:462
+msgid ""
+":mtgtip:`Doom "
+"Blade<https://img.scryfall.com/cards/border_crop/en/m11/95.jpg?1517813031|https://scryfall.com/card/m11/95"
+"/doom-blade?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:461
+msgid "Destroy target nonblack creature."
+msgstr ""
+
+#: ../../M11.rst:466
+msgid ":mtgtip:`Duress<https://img.scryfall.com/cards/border_crop/en/m11/96.jpg?1517813031|https://scryfall.com/card/m11/96/duress?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:465
+msgid ""
+"Target opponent reveals their hand. You choose a noncreature, nonland "
+"card from it. That player discards that card."
+msgstr ""
+
+#: ../../M11.rst:472
+msgid ""
+":mtgtip:`Grave "
+"Titan<https://img.scryfall.com/cards/border_crop/en/m11/97.jpg?1517813031|https://scryfall.com/card/m11/97"
+"/grave-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:469
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../M11.rst:471
+msgid ""
+"Whenever Grave Titan enters the battlefield or attacks, create two 2/2 "
+"black Zombie creature tokens."
+msgstr ""
+
+#: ../../M11.rst:476
+msgid ":mtgtip:`Gravedigger<https://img.scryfall.com/cards/border_crop/en/m11/98.jpg?1517813031|https://scryfall.com/card/m11/98/gravedigger?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:475
+msgid ""
+"When Gravedigger enters the battlefield, you may return target creature "
+"card from your graveyard to your hand."
+msgstr ""
+
+#: ../../M11.rst:480
+msgid ""
+":mtgtip:`Haunting "
+"Echoes<https://img.scryfall.com/cards/border_crop/en/m11/99.jpg?1517813031|https://scryfall.com/card/m11/99"
+"/haunting-echoes?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:479
+msgid ""
+"Exile all cards from target player's graveyard other than basic land "
+"cards. For each card exiled this way, search that player's library for "
+"all cards with the same name as that card and exile them. Then that "
+"player shuffles their library."
+msgstr ""
+
+#: ../../M11.rst:486
+msgid ""
+":mtgtip:`Howling "
+"Banshee<https://img.scryfall.com/cards/border_crop/en/m11/100.jpg?1517813031|https://scryfall.com/card/m11/100"
+"/howling-banshee?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:485
+msgid "When Howling Banshee enters the battlefield, each player loses 3 life."
+msgstr ""
+
+#: ../../M11.rst:492
+msgid ""
+":mtgtip:`Leyline of the "
+"Void<https://img.scryfall.com/cards/border_crop/en/m11/101.jpg?1517813031|https://scryfall.com/card/m11/101"
+"/leyline-of-the-void?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:489
+msgid ""
+"If Leyline of the Void is in your opening hand, you may begin the game "
+"with it on the battlefield."
+msgstr ""
+
+#: ../../M11.rst:491
+msgid ""
+"If a card would be put into an opponent's graveyard from anywhere, exile "
+"it instead."
+msgstr ""
+
+#: ../../M11.rst:500
+msgid ""
+":mtgtip:`Liliana "
+"Vess<https://img.scryfall.com/cards/border_crop/en/m11/102.jpg?1517813031|https://scryfall.com/card/m11/102"
+"/liliana-vess?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:495
+msgid "+1: Target player discards a card."
+msgstr ""
+
+#: ../../M11.rst:497
+msgid ""
+"−2: Search your library for a card, then shuffle your library and put "
+"that card on top of it."
+msgstr ""
+
+#: ../../M11.rst:499
+msgid ""
+"−8: Put all creature cards from all graveyards onto the battlefield under"
+" your control."
+msgstr ""
+
+#: ../../M11.rst:504
+msgid ""
+":mtgtip:`Liliana's "
+"Caress<https://img.scryfall.com/cards/border_crop/en/m11/103.jpg?1517813031|https://scryfall.com/card/m11/103"
+"/lilianas-caress?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:503
+msgid "Whenever an opponent discards a card, that player loses 2 life."
+msgstr ""
+
+#: ../../M11.rst:510
+msgid ""
+":mtgtip:`Liliana's "
+"Specter<https://img.scryfall.com/cards/border_crop/en/m11/104.jpg?1517813031|https://scryfall.com/card/m11/104"
+"/lilianas-specter?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:509
+msgid ""
+"When Liliana's Specter enters the battlefield, each opponent discards a "
+"card."
+msgstr ""
+
+#: ../../M11.rst:514
+msgid ""
+":mtgtip:`Mind "
+"Rot<https://img.scryfall.com/cards/border_crop/en/m11/105.jpg?1517813031|https://scryfall.com/card/m11/105"
+"/mind-rot?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:513
+msgid "Target player discards two cards."
+msgstr ""
+
+#: ../../M11.rst:518
+msgid ""
+":mtgtip:`Nantuko "
+"Shade<https://img.scryfall.com/cards/border_crop/en/m11/106.jpg?1517813031|https://scryfall.com/card/m11/106"
+"/nantuko-shade?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:517
+msgid "|mana_b|: Nantuko Shade gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:526
+msgid ""
+":mtgtip:`Necrotic "
+"Plague<https://img.scryfall.com/cards/border_crop/en/m11/107.jpg?1517813031|https://scryfall.com/card/m11/107"
+"/necrotic-plague?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:523
+msgid ""
+"Enchanted creature has \"At the beginning of your upkeep, sacrifice this "
+"creature.\""
+msgstr ""
+
+#: ../../M11.rst:525
+msgid ""
+"When enchanted creature dies, its controller chooses target creature one "
+"of their opponents controls. Return Necrotic Plague from its owner's "
+"graveyard to the battlefield attached to that creature."
+msgstr ""
+
+#: ../../M11.rst:528
+msgid ""
+":mtgtip:`Nether "
+"Horror<https://img.scryfall.com/cards/border_crop/en/m11/108.jpg?1517813031|https://scryfall.com/card/m11/108"
+"/nether-horror?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:536
+msgid ""
+":mtgtip:`Nightwing "
+"Shade<https://img.scryfall.com/cards/border_crop/en/m11/109.jpg?1517813031|https://scryfall.com/card/m11/109"
+"/nightwing-shade?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:535
+msgid "|mana_1|\\ |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:544
+msgid ""
+":mtgtip:`Phylactery "
+"Lich<https://img.scryfall.com/cards/border_crop/en/m11/110.jpg?1517813031|https://scryfall.com/card/m11/110"
+"/phylactery-lich?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:539
+msgid "Indestructible"
+msgstr ""
+
+#: ../../M11.rst:541
+msgid ""
+"As Phylactery Lich enters the battlefield, put a phylactery counter on an"
+" artifact you control."
+msgstr ""
+
+#: ../../M11.rst:543
+msgid ""
+"When you control no permanents with phylactery counters on them, "
+"sacrifice Phylactery Lich."
+msgstr ""
+
+#: ../../M11.rst:550
+msgid ""
+":mtgtip:`Quag "
+"Sickness<https://img.scryfall.com/cards/border_crop/en/m11/111.jpg?1517813031|https://scryfall.com/card/m11/111"
+"/quag-sickness?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:549
+msgid "Enchanted creature gets -1/-1 for each Swamp you control."
+msgstr ""
+
+#: ../../M11.rst:554
+msgid ""
+":mtgtip:`Reassembling "
+"Skeleton<https://img.scryfall.com/cards/border_crop/en/m11/112.jpg?1517813031|https://scryfall.com/card/m11/112"
+"/reassembling-skeleton?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:553
+msgid ""
+"|mana_1|\\ |mana_b|: Return Reassembling Skeleton from your graveyard to "
+"the battlefield tapped."
+msgstr ""
+
+#: ../../M11.rst:560
+msgid ""
+":mtgtip:`Relentless "
+"Rats<https://img.scryfall.com/cards/border_crop/en/m11/113.jpg?1517813031|https://scryfall.com/card/m11/113"
+"/relentless-rats?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:557
+msgid ""
+"Relentless Rats gets +1/+1 for each other creature on the battlefield "
+"named Relentless Rats."
+msgstr ""
+
+#: ../../M11.rst:559
+msgid "A deck can have any number of cards named Relentless Rats."
+msgstr ""
+
+#: ../../M11.rst:564
+msgid ""
+":mtgtip:`Rise from the "
+"Grave<https://img.scryfall.com/cards/border_crop/en/m11/114.jpg?1517813031|https://scryfall.com/card/m11/114"
+"/rise-from-the-grave?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:563
+msgid ""
+"Put target creature card from a graveyard onto the battlefield under your"
+" control. That creature is a black Zombie in addition to its other colors"
+" and types."
+msgstr ""
+
+#: ../../M11.rst:568
+msgid ""
+":mtgtip:`Rotting "
+"Legion<https://img.scryfall.com/cards/border_crop/en/m11/115.jpg?1517813031|https://scryfall.com/card/m11/115"
+"/rotting-legion?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:567
+msgid "Rotting Legion enters the battlefield tapped."
+msgstr ""
+
+#: ../../M11.rst:572
+msgid ""
+":mtgtip:`Royal "
+"Assassin<https://img.scryfall.com/cards/border_crop/en/m11/116.jpg?1517813031|https://scryfall.com/card/m11/116"
+"/royal-assassin?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:571
+msgid "|tap|: Destroy target tapped creature."
+msgstr ""
+
+#: ../../M11.rst:576
+msgid ""
+":mtgtip:`Sign in "
+"Blood<https://img.scryfall.com/cards/border_crop/en/m11/117.jpg?1517813031|https://scryfall.com/card/m11/117"
+"/sign-in-blood?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:575
+msgid "Target player draws two cards and loses 2 life."
+msgstr ""
+
+#: ../../M11.rst:580
+msgid ""
+":mtgtip:`Stabbing "
+"Pain<https://img.scryfall.com/cards/border_crop/en/m11/118.jpg?1517813031|https://scryfall.com/card/m11/118"
+"/stabbing-pain?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:579
+msgid "Target creature gets -1/-1 until end of turn. Tap that creature."
+msgstr ""
+
+#: ../../M11.rst:586
+msgid ""
+":mtgtip:`Unholy "
+"Strength<https://img.scryfall.com/cards/border_crop/en/m11/119.jpg?1517813031|https://scryfall.com/card/m11/119"
+"/unholy-strength?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:585
+msgid "Enchanted creature gets +2/+1."
+msgstr ""
+
+#: ../../M11.rst:590
+msgid ""
+":mtgtip:`Viscera "
+"Seer<https://img.scryfall.com/cards/border_crop/en/m11/120.jpg?1517813031|https://scryfall.com/card/m11/120"
+"/viscera-seer?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:589
+msgid ""
+"Sacrifice a creature: Scry 1. (Look at the top card of your library. You "
+"may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../M11.rst:594
+msgid ""
+":mtgtip:`Act of "
+"Treason<https://img.scryfall.com/cards/border_crop/en/m11/121.jpg?1517813031|https://scryfall.com/card/m11/121"
+"/act-of-treason?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:593
+msgid ""
+"Gain control of target creature until end of turn. Untap that creature. "
+"It gains haste until end of turn."
+msgstr ""
+
+#: ../../M11.rst:600
+msgid ""
+":mtgtip:`Ancient "
+"Hellkite<https://img.scryfall.com/cards/border_crop/en/m11/122.jpg?1517813031|https://scryfall.com/card/m11/122"
+"/ancient-hellkite?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:599
+msgid ""
+"|mana_r|: Ancient Hellkite deals 1 damage to target creature defending "
+"player controls. Activate this ability only if Ancient Hellkite is "
+"attacking."
+msgstr ""
+
+#: ../../M11.rst:606
+msgid ""
+":mtgtip:`Arc "
+"Runner<https://img.scryfall.com/cards/border_crop/en/m11/123.jpg?1517813031|https://scryfall.com/card/m11/123"
+"/arc-runner?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:603 ../../M11.rst:689 ../../M11.rst:783
+msgid ""
+"Haste (This creature can attack and |tap| as soon as it comes under your "
+"control.)"
+msgstr ""
+
+#: ../../M11.rst:605
+msgid "At the beginning of the end step, sacrifice Arc Runner."
+msgstr ""
+
+#: ../../M11.rst:610
+msgid ""
+":mtgtip:`Berserkers of Blood "
+"Ridge<https://img.scryfall.com/cards/border_crop/en/m11/124.jpg?1517813031|https://scryfall.com/card/m11/124"
+"/berserkers-of-blood-ridge?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:609
+msgid "Berserkers of Blood Ridge attacks each combat if able."
+msgstr ""
+
+#: ../../M11.rst:614
+msgid ""
+":mtgtip:`Bloodcrazed "
+"Goblin<https://img.scryfall.com/cards/border_crop/en/m11/125.jpg?1517813031|https://scryfall.com/card/m11/125"
+"/bloodcrazed-goblin?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:613
+msgid ""
+"Bloodcrazed Goblin can't attack unless an opponent has been dealt damage "
+"this turn."
+msgstr ""
+
+#: ../../M11.rst:616
+msgid ""
+":mtgtip:`Canyon "
+"Minotaur<https://img.scryfall.com/cards/border_crop/en/m11/126.jpg?1517813031|https://scryfall.com/card/m11/126"
+"/canyon-minotaur?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:626
+msgid ""
+":mtgtip:`Chandra "
+"Nalaar<https://img.scryfall.com/cards/border_crop/en/m11/127.jpg?1517813031|https://scryfall.com/card/m11/127"
+"/chandra-nalaar?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:621
+msgid "+1: Chandra Nalaar deals 1 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../M11.rst:623
+msgid "−X: Chandra Nalaar deals X damage to target creature."
+msgstr ""
+
+#: ../../M11.rst:625
+msgid ""
+"−8: Chandra Nalaar deals 10 damage to target player or planeswalker and "
+"each creature that player or that planeswalker's controller controls."
+msgstr ""
+
+#: ../../M11.rst:630
+msgid ""
+":mtgtip:`Chandra's "
+"Outrage<https://img.scryfall.com/cards/border_crop/en/m11/128.jpg?1517813031|https://scryfall.com/card/m11/128"
+"/chandras-outrage?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:629
+msgid ""
+"Chandra's Outrage deals 4 damage to target creature and 2 damage to that "
+"creature's controller."
+msgstr ""
+
+#: ../../M11.rst:636
+msgid ""
+":mtgtip:`Chandra's "
+"Spitfire<https://img.scryfall.com/cards/border_crop/en/m11/129.jpg?1517813031|https://scryfall.com/card/m11/129"
+"/chandras-spitfire?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:635
+msgid ""
+"Whenever an opponent is dealt noncombat damage, Chandra's Spitfire gets "
+"+3/+0 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:642
+msgid ":mtgtip:`Combust<https://img.scryfall.com/cards/border_crop/en/m11/130.jpg?1517813031|https://scryfall.com/card/m11/130/combust?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:639 ../../M11.rst:851
+msgid "This spell can't be countered."
+msgstr ""
+
+#: ../../M11.rst:641
+msgid ""
+"Combust deals 5 damage to target white or blue creature. The damage can't"
+" be prevented."
+msgstr ""
+
+#: ../../M11.rst:646
+msgid ""
+":mtgtip:`Cyclops "
+"Gladiator<https://img.scryfall.com/cards/border_crop/en/m11/131.jpg?1517813031|https://scryfall.com/card/m11/131"
+"/cyclops-gladiator?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:645
+msgid ""
+"Whenever Cyclops Gladiator attacks, you may have it deal damage equal to "
+"its power to target creature defending player controls. If you do, that "
+"creature deals damage equal to its power to Cyclops Gladiator."
+msgstr ""
+
+#: ../../M11.rst:650
+msgid ":mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/en/m11/132.jpg?1517813031|https://scryfall.com/card/m11/132/demolish?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:649
+msgid "Destroy target artifact or land."
+msgstr ""
+
+#: ../../M11.rst:654
+msgid ""
+":mtgtip:`Destructive "
+"Force<https://img.scryfall.com/cards/border_crop/en/m11/133.jpg?1517813031|https://scryfall.com/card/m11/133"
+"/destructive-force?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:653
+msgid ""
+"Each player sacrifices five lands. Destructive Force deals 5 damage to "
+"each creature."
+msgstr ""
+
+#: ../../M11.rst:658
+msgid ""
+":mtgtip:`Earth "
+"Servant<https://img.scryfall.com/cards/border_crop/en/m11/134.jpg?1517813031|https://scryfall.com/card/m11/134"
+"/earth-servant?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:657
+msgid "Earth Servant gets +0/+1 for each Mountain you control."
+msgstr ""
+
+#: ../../M11.rst:662
+msgid ""
+":mtgtip:`Ember "
+"Hauler<https://img.scryfall.com/cards/border_crop/en/m11/135.jpg?1517813031|https://scryfall.com/card/m11/135"
+"/ember-hauler?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:661
+msgid ""
+"|mana_1|, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to any "
+"target."
+msgstr ""
+
+#: ../../M11.rst:666
+msgid ""
+":mtgtip:`Fiery "
+"Hellhound<https://img.scryfall.com/cards/border_crop/en/m11/136.jpg?1517813031|https://scryfall.com/card/m11/136"
+"/fiery-hellhound?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:665
+msgid "|mana_r|: Fiery Hellhound gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:670
+msgid ""
+":mtgtip:`Fire "
+"Servant<https://img.scryfall.com/cards/border_crop/en/m11/137.jpg?1517813031|https://scryfall.com/card/m11/137"
+"/fire-servant?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:669
+msgid ""
+"If a red instant or sorcery spell you control would deal damage, it deals"
+" double that damage instead."
+msgstr ""
+
+#: ../../M11.rst:676
+msgid ":mtgtip:`Fireball<https://img.scryfall.com/cards/border_crop/en/m11/138.jpg?1517813031|https://scryfall.com/card/m11/138/fireball?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:673
+msgid "This spell costs |mana_1| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../M11.rst:675
+msgid ""
+"Fireball deals X damage divided evenly, rounded down, among any number of"
+" targets."
+msgstr ""
+
+#: ../../M11.rst:682
+msgid ":mtgtip:`Fling<https://img.scryfall.com/cards/border_crop/en/m11/139.jpg?1517813031|https://scryfall.com/card/m11/139/fling?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:679
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../M11.rst:681
+msgid "Fling deals damage equal to the sacrificed creature's power to any target."
+msgstr ""
+
+#: ../../M11.rst:686
+msgid ""
+":mtgtip:`Goblin Balloon "
+"Brigade<https://img.scryfall.com/cards/border_crop/en/m11/140.jpg?1517813031|https://scryfall.com/card/m11/140"
+"/goblin-balloon-brigade?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:685
+msgid "|mana_r|: Goblin Balloon Brigade gains flying until end of turn."
+msgstr ""
+
+#: ../../M11.rst:692
+msgid ""
+":mtgtip:`Goblin "
+"Chieftain<https://img.scryfall.com/cards/border_crop/en/m11/141.jpg?1517813031|https://scryfall.com/card/m11/141"
+"/goblin-chieftain?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:691
+msgid "Other Goblin creatures you control get +1/+1 and have haste."
+msgstr ""
+
+#: ../../M11.rst:694
+msgid ""
+":mtgtip:`Goblin "
+"Piker<https://img.scryfall.com/cards/border_crop/en/m11/142.jpg?1517813031|https://scryfall.com/card/m11/142"
+"/goblin-piker?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:700
+msgid ""
+":mtgtip:`Goblin "
+"Tunneler<https://img.scryfall.com/cards/border_crop/en/m11/143.jpg?1517813031|https://scryfall.com/card/m11/143"
+"/goblin-tunneler?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:699
+msgid "|tap|: Target creature with power 2 or less can't be blocked this turn."
+msgstr ""
+
+#: ../../M11.rst:708
+msgid ""
+":mtgtip:`Hoarding "
+"Dragon<https://img.scryfall.com/cards/border_crop/en/m11/144.jpg?1517813031|https://scryfall.com/card/m11/144"
+"/hoarding-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:705
+msgid ""
+"When Hoarding Dragon enters the battlefield, you may search your library "
+"for an artifact card, exile it, then shuffle your library."
+msgstr ""
+
+#: ../../M11.rst:707
+msgid ""
+"When Hoarding Dragon dies, you may put the exiled card into its owner's "
+"hand."
+msgstr ""
+
+#: ../../M11.rst:712
+msgid ":mtgtip:`Incite<https://img.scryfall.com/cards/border_crop/en/m11/145.jpg?1517813031|https://scryfall.com/card/m11/145/incite?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:711
+msgid ""
+"Target creature becomes red until end of turn and attacks this turn if "
+"able."
+msgstr ""
+
+#: ../../M11.rst:718
+msgid ""
+":mtgtip:`Inferno "
+"Titan<https://img.scryfall.com/cards/border_crop/en/m11/146.jpg?1517813031|https://scryfall.com/card/m11/146"
+"/inferno-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:715
+msgid "|mana_r|: Inferno Titan gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:717
+msgid ""
+"Whenever Inferno Titan enters the battlefield or attacks, it deals 3 "
+"damage divided as you choose among one, two, or three targets."
+msgstr ""
+
+#: ../../M11.rst:722
+msgid ""
+":mtgtip:`Lava "
+"Axe<https://img.scryfall.com/cards/border_crop/en/m11/147.jpg?1517813031|https://scryfall.com/card/m11/147"
+"/lava-axe?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:721
+msgid "Lava Axe deals 5 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../M11.rst:730
+msgid ""
+":mtgtip:`Leyline of "
+"Punishment<https://img.scryfall.com/cards/border_crop/en/m11/148.jpg?1517813031|https://scryfall.com/card/m11/148"
+"/leyline-of-punishment?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:725
+msgid ""
+"If Leyline of Punishment is in your opening hand, you may begin the game "
+"with it on the battlefield."
+msgstr ""
+
+#: ../../M11.rst:727
+msgid "Players can't gain life."
+msgstr ""
+
+#: ../../M11.rst:729
+msgid "Damage can't be prevented."
+msgstr ""
+
+#: ../../M11.rst:734
+msgid ""
+":mtgtip:`Lightning "
+"Bolt<https://img.scryfall.com/cards/border_crop/en/m11/149.jpg?1517813031|https://scryfall.com/card/m11/149"
+"/lightning-bolt?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:733
+msgid "Lightning Bolt deals 3 damage to any target."
+msgstr ""
+
+#: ../../M11.rst:742
+msgid ""
+":mtgtip:`Magma "
+"Phoenix<https://img.scryfall.com/cards/border_crop/en/m11/150.jpg?1517813031|https://scryfall.com/card/m11/150"
+"/magma-phoenix?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:739
+msgid ""
+"When Magma Phoenix dies, it deals 3 damage to each creature and each "
+"player."
+msgstr ""
+
+#: ../../M11.rst:741
+msgid ""
+"|mana_3|\\ |mana_r|\\ |mana_r|: Return Magma Phoenix from your graveyard "
+"to your hand."
+msgstr ""
+
+#: ../../M11.rst:746
+msgid ""
+":mtgtip:`Manic "
+"Vandal<https://img.scryfall.com/cards/border_crop/en/m11/151.jpg?1517813031|https://scryfall.com/card/m11/151"
+"/manic-vandal?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:745
+msgid "When Manic Vandal enters the battlefield, destroy target artifact."
+msgstr ""
+
+#: ../../M11.rst:750
+msgid ""
+":mtgtip:`Prodigal "
+"Pyromancer<https://img.scryfall.com/cards/border_crop/en/m11/152.jpg?1517813031|https://scryfall.com/card/m11/152"
+"/prodigal-pyromancer?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:749
+msgid "|tap|: Prodigal Pyromancer deals 1 damage to any target."
+msgstr ""
+
+#: ../../M11.rst:754
+msgid ""
+":mtgtip:`Pyretic "
+"Ritual<https://img.scryfall.com/cards/border_crop/en/m11/153.jpg?1517813031|https://scryfall.com/card/m11/153"
+"/pyretic-ritual?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:753
+msgid "Add |mana_r|\\ |mana_r|\\ |mana_r|."
+msgstr ""
+
+#: ../../M11.rst:758
+msgid ":mtgtip:`Pyroclasm<https://img.scryfall.com/cards/border_crop/en/m11/154.jpg?1517813031|https://scryfall.com/card/m11/154/pyroclasm?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:757
+msgid "Pyroclasm deals 2 damage to each creature."
+msgstr ""
+
+#: ../../M11.rst:762
+msgid ":mtgtip:`Reverberate<https://img.scryfall.com/cards/border_crop/en/m11/155.jpg?1517813031|https://scryfall.com/card/m11/155/reverberate?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:761
+msgid ""
+"Copy target instant or sorcery spell. You may choose new targets for the "
+"copy."
+msgstr ""
+
+#: ../../M11.rst:770
+msgid ""
+":mtgtip:`Shiv's "
+"Embrace<https://img.scryfall.com/cards/border_crop/en/m11/156.jpg?1517813031|https://scryfall.com/card/m11/156"
+"/shivs-embrace?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:767
+msgid "Enchanted creature gets +2/+2 and has flying."
+msgstr ""
+
+#: ../../M11.rst:769
+msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:774
+msgid ""
+":mtgtip:`Thunder "
+"Strike<https://img.scryfall.com/cards/border_crop/en/m11/157.jpg?1517813031|https://scryfall.com/card/m11/157"
+"/thunder-strike?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:773
+msgid ""
+"Target creature gets +2/+0 and gains first strike until end of turn. (It "
+"deals combat damage before creatures without first strike.)"
+msgstr ""
+
+#: ../../M11.rst:780
+msgid ""
+":mtgtip:`Volcanic "
+"Strength<https://img.scryfall.com/cards/border_crop/en/m11/158.jpg?1517813031|https://scryfall.com/card/m11/158"
+"/volcanic-strength?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:779
+msgid ""
+"Enchanted creature gets +2/+2 and has mountainwalk. (It can't be blocked "
+"as long as defending player controls a Mountain.)"
+msgstr ""
+
+#: ../../M11.rst:784
+msgid ""
+":mtgtip:`Vulshok "
+"Berserker<https://img.scryfall.com/cards/border_crop/en/m11/159.jpg?1517813031|https://scryfall.com/card/m11/159"
+"/vulshok-berserker?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:788
+msgid ""
+":mtgtip:`Wild "
+"Evocation<https://img.scryfall.com/cards/border_crop/en/m11/160.jpg?1517813031|https://scryfall.com/card/m11/160"
+"/wild-evocation?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:787
+msgid ""
+"At the beginning of each player's upkeep, that player reveals a card at "
+"random from their hand. If it's a land card, the player puts it onto the "
+"battlefield. Otherwise, the player casts it without paying its mana cost "
+"if able."
+msgstr ""
+
+#: ../../M11.rst:794
+msgid ""
+":mtgtip:`Acidic "
+"Slime<https://img.scryfall.com/cards/border_crop/en/m11/161.jpg?1517813031|https://scryfall.com/card/m11/161"
+"/acidic-slime?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:791 ../../M11.rst:883
+msgid ""
+"Deathtouch (Any amount of damage this deals to a creature is enough to "
+"destroy it.)"
+msgstr ""
+
+#: ../../M11.rst:793
+msgid ""
+"When Acidic Slime enters the battlefield, destroy target artifact, "
+"enchantment, or land."
+msgstr ""
+
+#: ../../M11.rst:798
+msgid ""
+":mtgtip:`Autumn's "
+"Veil<https://img.scryfall.com/cards/border_crop/en/m11/162.jpg?1517813031|https://scryfall.com/card/m11/162"
+"/autumns-veil?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:797
+msgid ""
+"Spells you control can't be countered by blue or black spells this turn, "
+"and creatures you control can't be the targets of blue or black spells "
+"this turn."
+msgstr ""
+
+#: ../../M11.rst:802
+msgid ""
+":mtgtip:`Awakener "
+"Druid<https://img.scryfall.com/cards/border_crop/en/m11/163.jpg?1517813031|https://scryfall.com/card/m11/163"
+"/awakener-druid?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:801
+msgid ""
+"When Awakener Druid enters the battlefield, target Forest becomes a 4/5 "
+"green Treefolk creature for as long as Awakener Druid remains on the "
+"battlefield. It's still a land."
+msgstr ""
+
+#: ../../M11.rst:806
+msgid ""
+":mtgtip:`Back to "
+"Nature<https://img.scryfall.com/cards/border_crop/en/m11/164.jpg?1517813031|https://scryfall.com/card/m11/164"
+"/back-to-nature?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:805
+msgid "Destroy all enchantments."
+msgstr ""
+
+#: ../../M11.rst:812
+msgid ""
+":mtgtip:`Birds of "
+"Paradise<https://img.scryfall.com/cards/border_crop/en/m11/165.jpg?1517813031|https://scryfall.com/card/m11/165"
+"/birds-of-paradise?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:811
+msgid "|tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../M11.rst:816
+msgid ""
+":mtgtip:`Brindle "
+"Boar<https://img.scryfall.com/cards/border_crop/en/m11/166.jpg?1517813031|https://scryfall.com/card/m11/166"
+"/brindle-boar?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:815
+msgid "Sacrifice Brindle Boar: You gain 4 life."
+msgstr ""
+
+#: ../../M11.rst:820
+msgid ""
+":mtgtip:`Cudgel "
+"Troll<https://img.scryfall.com/cards/border_crop/en/m11/167.jpg?1517813031|https://scryfall.com/card/m11/167"
+"/cudgel-troll?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:819
+msgid ""
+"|mana_g|: Regenerate Cudgel Troll. (The next time this creature would be "
+"destroyed this turn, it isn't. Instead tap it, remove all damage from it,"
+" and remove it from combat.)"
+msgstr ""
+
+#: ../../M11.rst:824
+msgid ":mtgtip:`Cultivate<https://img.scryfall.com/cards/border_crop/en/m11/168.jpg?1517813031|https://scryfall.com/card/m11/168/cultivate?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:823
+msgid ""
+"Search your library for up to two basic land cards, reveal those cards, "
+"and put one onto the battlefield tapped and the other into your hand. "
+"Then shuffle your library."
+msgstr ""
+
+#: ../../M11.rst:830
+msgid ""
+":mtgtip:`Dryad's "
+"Favor<https://img.scryfall.com/cards/border_crop/en/m11/169.jpg?1517813031|https://scryfall.com/card/m11/169"
+"/dryads-favor?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:829
+msgid ""
+"Enchanted creature has forestwalk. (It can't be blocked as long as "
+"defending player controls a Forest.)"
+msgstr ""
+
+#: ../../M11.rst:834
+msgid ""
+":mtgtip:`Duskdale "
+"Wurm<https://img.scryfall.com/cards/border_crop/en/m11/170.jpg?1517813031|https://scryfall.com/card/m11/170"
+"/duskdale-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:833 ../../M11.rst:867 ../../M11.rst:981
+msgid ""
+"Trample (This creature can deal excess combat damage to the player or "
+"planeswalker it's attacking.)"
+msgstr ""
+
+#: ../../M11.rst:840
+msgid ""
+":mtgtip:`Elvish "
+"Archdruid<https://img.scryfall.com/cards/border_crop/en/m11/171.jpg?1517813031|https://scryfall.com/card/m11/171"
+"/elvish-archdruid?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:837
+msgid "Other Elf creatures you control get +1/+1."
+msgstr ""
+
+#: ../../M11.rst:839
+msgid "|tap|: Add |mana_g| for each Elf you control."
+msgstr ""
+
+#: ../../M11.rst:844
+msgid ""
+":mtgtip:`Fauna "
+"Shaman<https://img.scryfall.com/cards/border_crop/en/m11/172.jpg?1517813031|https://scryfall.com/card/m11/172"
+"/fauna-shaman?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:843
+msgid ""
+"|mana_g|, |tap|, Discard a creature card: Search your library for a "
+"creature card, reveal it, put it into your hand, then shuffle your "
+"library."
+msgstr ""
+
+#: ../../M11.rst:848
+msgid ":mtgtip:`Fog<https://img.scryfall.com/cards/border_crop/en/m11/173.jpg?1517813031|https://scryfall.com/card/m11/173/fog?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:847
+msgid "Prevent all combat damage that would be dealt this turn."
+msgstr ""
+
+#: ../../M11.rst:856
+msgid ""
+":mtgtip:`Gaea's "
+"Revenge<https://img.scryfall.com/cards/border_crop/en/m11/174.jpg?1517813031|https://scryfall.com/card/m11/174"
+"/gaeas-revenge?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:853
+msgid "Haste"
+msgstr ""
+
+#: ../../M11.rst:855
+msgid ""
+"Gaea's Revenge can't be the target of nongreen spells or abilities from "
+"nongreen sources."
+msgstr ""
+
+#: ../../M11.rst:864
+msgid ""
+":mtgtip:`Garruk "
+"Wildspeaker<https://img.scryfall.com/cards/border_crop/en/m11/175.jpg?1517813031|https://scryfall.com/card/m11/175"
+"/garruk-wildspeaker?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:859
+msgid "+1: Untap two target lands."
+msgstr ""
+
+#: ../../M11.rst:861
+msgid "−1: Create a 3/3 green Beast creature token."
+msgstr ""
+
+#: ../../M11.rst:863
+msgid "−4: Creatures you control get +3/+3 and gain trample until end of turn."
+msgstr ""
+
+#: ../../M11.rst:868
+msgid ""
+":mtgtip:`Garruk's "
+"Companion<https://img.scryfall.com/cards/border_crop/en/m11/176.jpg?1517813031|https://scryfall.com/card/m11/176"
+"/garruks-companion?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:872
+msgid ""
+":mtgtip:`Garruk's "
+"Packleader<https://img.scryfall.com/cards/border_crop/en/m11/177.jpg?1517813031|https://scryfall.com/card/m11/177"
+"/garruks-packleader?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:871
+msgid ""
+"Whenever another creature with power 3 or greater enters the battlefield "
+"under your control, you may draw a card."
+msgstr ""
+
+#: ../../M11.rst:876
+msgid ""
+":mtgtip:`Giant "
+"Growth<https://img.scryfall.com/cards/border_crop/en/m11/178.jpg?1517813031|https://scryfall.com/card/m11/178"
+"/giant-growth?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:875
+msgid "Target creature gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../M11.rst:880
+msgid ""
+":mtgtip:`Giant "
+"Spider<https://img.scryfall.com/cards/border_crop/en/m11/179.jpg?1517813031|https://scryfall.com/card/m11/179"
+"/giant-spider?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:879 ../../M11.rst:977
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../M11.rst:884
+msgid ""
+":mtgtip:`Greater "
+"Basilisk<https://img.scryfall.com/cards/border_crop/en/m11/180.jpg?1517813031|https://scryfall.com/card/m11/180"
+"/greater-basilisk?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:888
+msgid ""
+":mtgtip:`Hornet "
+"Sting<https://img.scryfall.com/cards/border_crop/en/m11/181.jpg?1517813031|https://scryfall.com/card/m11/181"
+"/hornet-sting?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:887
+msgid "Hornet Sting deals 1 damage to any target."
+msgstr ""
+
+#: ../../M11.rst:892
+msgid ""
+":mtgtip:`Hunters' "
+"Feast<https://img.scryfall.com/cards/border_crop/en/m11/182.jpg?1517813031|https://scryfall.com/card/m11/182"
+"/hunters-feast?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:891
+msgid "Any number of target players each gain 6 life."
+msgstr ""
+
+#: ../../M11.rst:900
+msgid ""
+":mtgtip:`Leyline of "
+"Vitality<https://img.scryfall.com/cards/border_crop/en/m11/183.jpg?1517813031|https://scryfall.com/card/m11/183"
+"/leyline-of-vitality?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:895
+msgid ""
+"If Leyline of Vitality is in your opening hand, you may begin the game "
+"with it on the battlefield."
+msgstr ""
+
+#: ../../M11.rst:897
+msgid "Creatures you control get +0/+1."
+msgstr ""
+
+#: ../../M11.rst:899
+msgid ""
+"Whenever a creature enters the battlefield under your control, you may "
+"gain 1 life."
+msgstr ""
+
+#: ../../M11.rst:904
+msgid ""
+":mtgtip:`Llanowar "
+"Elves<https://img.scryfall.com/cards/border_crop/en/m11/184.jpg?1517813031|https://scryfall.com/card/m11/184"
+"/llanowar-elves?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:903
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../M11.rst:908
+msgid ""
+":mtgtip:`Mitotic "
+"Slime<https://img.scryfall.com/cards/border_crop/en/m11/185.jpg?1517813031|https://scryfall.com/card/m11/185"
+"/mitotic-slime?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:907
+msgid ""
+"When Mitotic Slime dies, create two 2/2 green Ooze creature tokens. They "
+"have \"When this creature dies, create two 1/1 green Ooze creature "
+"tokens.\""
+msgstr ""
+
+#: ../../M11.rst:912
+msgid ":mtgtip:`Naturalize<https://img.scryfall.com/cards/border_crop/en/m11/186.jpg?1517813031|https://scryfall.com/card/m11/186/naturalize?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:911
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../M11.rst:916
+msgid ""
+":mtgtip:`Nature's "
+"Spiral<https://img.scryfall.com/cards/border_crop/en/m11/187.jpg?1517813031|https://scryfall.com/card/m11/187"
+"/natures-spiral?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:915
+msgid "Return target permanent card from your graveyard to your hand."
+msgstr ""
+
+#: ../../M11.rst:922
+msgid ""
+":mtgtip:`Obstinate "
+"Baloth<https://img.scryfall.com/cards/border_crop/en/m11/188.jpg?1517813031|https://scryfall.com/card/m11/188"
+"/obstinate-baloth?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:919
+msgid "When Obstinate Baloth enters the battlefield, you gain 4 life."
+msgstr ""
+
+#: ../../M11.rst:921
+msgid ""
+"If a spell or ability an opponent controls causes you to discard "
+"Obstinate Baloth, put it onto the battlefield instead of putting it into "
+"your graveyard."
+msgstr ""
+
+#: ../../M11.rst:926
+msgid ""
+":mtgtip:`Overwhelming "
+"Stampede<https://img.scryfall.com/cards/border_crop/en/m11/189.jpg?1517813031|https://scryfall.com/card/m11/189"
+"/overwhelming-stampede?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:925
+msgid ""
+"Until end of turn, creatures you control gain trample and get +X/+X, "
+"where X is the greatest power among creatures you control."
+msgstr ""
+
+#: ../../M11.rst:930
+msgid ":mtgtip:`Plummet<https://img.scryfall.com/cards/border_crop/en/m11/190.jpg?1517813031|https://scryfall.com/card/m11/190/plummet?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:929
+msgid "Destroy target creature with flying."
+msgstr ""
+
+#: ../../M11.rst:938
+msgid ""
+":mtgtip:`Primal "
+"Cocoon<https://img.scryfall.com/cards/border_crop/en/m11/191.jpg?1517813031|https://scryfall.com/card/m11/191"
+"/primal-cocoon?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:935
+msgid ""
+"At the beginning of your upkeep, put a +1/+1 counter on enchanted "
+"creature."
+msgstr ""
+
+#: ../../M11.rst:937
+msgid "When enchanted creature attacks or blocks, sacrifice Primal Cocoon."
+msgstr ""
+
+#: ../../M11.rst:944
+msgid ""
+":mtgtip:`Primeval "
+"Titan<https://img.scryfall.com/cards/border_crop/en/m11/192.jpg?1517813031|https://scryfall.com/card/m11/192"
+"/primeval-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:941
+msgid "Trample"
+msgstr ""
+
+#: ../../M11.rst:943
+msgid ""
+"Whenever Primeval Titan enters the battlefield or attacks, you may search"
+" your library for up to two land cards, put them onto the battlefield "
+"tapped, then shuffle your library."
+msgstr ""
+
+#: ../../M11.rst:948
+msgid ""
+":mtgtip:`Prized "
+"Unicorn<https://img.scryfall.com/cards/border_crop/en/m11/193.jpg?1517813031|https://scryfall.com/card/m11/193"
+"/prized-unicorn?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:947
+msgid "All creatures able to block Prized Unicorn do so."
+msgstr ""
+
+#: ../../M11.rst:956
+msgid ""
+":mtgtip:`Protean "
+"Hydra<https://img.scryfall.com/cards/border_crop/en/m11/194.jpg?1517813031|https://scryfall.com/card/m11/194"
+"/protean-hydra?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:951
+msgid "Protean Hydra enters the battlefield with X +1/+1 counters on it."
+msgstr ""
+
+#: ../../M11.rst:953
+msgid ""
+"If damage would be dealt to Protean Hydra, prevent that damage and remove"
+" that many +1/+1 counters from it."
+msgstr ""
+
+#: ../../M11.rst:955
+msgid ""
+"Whenever a +1/+1 counter is removed from Protean Hydra, put two +1/+1 "
+"counters on it at the beginning of the next end step."
+msgstr ""
+
+#: ../../M11.rst:958
+msgid ""
+":mtgtip:`Runeclaw "
+"Bear<https://img.scryfall.com/cards/border_crop/en/m11/195.jpg?1517813031|https://scryfall.com/card/m11/195"
+"/runeclaw-bear?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:964
+msgid ""
+":mtgtip:`Sacred "
+"Wolf<https://img.scryfall.com/cards/border_crop/en/m11/196.jpg?1517813031|https://scryfall.com/card/m11/196"
+"/sacred-wolf?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:963
+msgid ""
+"Hexproof (This creature can't be the target of spells or abilities your "
+"opponents control.)"
+msgstr ""
+
+#: ../../M11.rst:966
+msgid ""
+":mtgtip:`Spined "
+"Wurm<https://img.scryfall.com/cards/border_crop/en/m11/197.jpg?1517813031|https://scryfall.com/card/m11/197"
+"/spined-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:972
+msgid ""
+":mtgtip:`Sylvan "
+"Ranger<https://img.scryfall.com/cards/border_crop/en/m11/198.jpg?1517813031|https://scryfall.com/card/m11/198"
+"/sylvan-ranger?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:971
+msgid ""
+"When Sylvan Ranger enters the battlefield, you may search your library "
+"for a basic land card, reveal it, put it into your hand, then shuffle "
+"your library."
+msgstr ""
+
+#: ../../M11.rst:978
+msgid ""
+":mtgtip:`Wall of "
+"Vines<https://img.scryfall.com/cards/border_crop/en/m11/199.jpg?1517813031|https://scryfall.com/card/m11/199"
+"/wall-of-vines?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:982
+msgid ""
+":mtgtip:`Yavimaya "
+"Wurm<https://img.scryfall.com/cards/border_crop/en/m11/200.jpg?1517813031|https://scryfall.com/card/m11/200"
+"/yavimaya-wurm?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:986
+msgid ""
+":mtgtip:`Angel's "
+"Feather<https://img.scryfall.com/cards/border_crop/en/m11/201.jpg?1517813031|https://scryfall.com/card/m11/201"
+"/angels-feather?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:985
+msgid "Whenever a player casts a white spell, you may gain 1 life."
+msgstr ""
+
+#: ../../M11.rst:990
+msgid ""
+":mtgtip:`Brittle "
+"Effigy<https://img.scryfall.com/cards/border_crop/en/m11/202.jpg?1517813031|https://scryfall.com/card/m11/202"
+"/brittle-effigy?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:989
+msgid "|mana_4|, |tap|, Exile Brittle Effigy: Exile target creature."
+msgstr ""
+
+#: ../../M11.rst:994
+msgid ""
+":mtgtip:`Crystal "
+"Ball<https://img.scryfall.com/cards/border_crop/en/m11/203.jpg?1517813031|https://scryfall.com/card/m11/203"
+"/crystal-ball?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:993
+msgid ""
+"|mana_1|, |tap|: Scry 2. (Look at the top two cards of your library, then"
+" put any number of them on the bottom of your library and the rest on top"
+" in any order.)"
+msgstr ""
+
+#: ../../M11.rst:998
+msgid ""
+":mtgtip:`Demon's "
+"Horn<https://img.scryfall.com/cards/border_crop/en/m11/204.jpg?1517813031|https://scryfall.com/card/m11/204"
+"/demons-horn?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:997
+msgid "Whenever a player casts a black spell, you may gain 1 life."
+msgstr ""
+
+#: ../../M11.rst:1002
+msgid ""
+":mtgtip:`Dragon's "
+"Claw<https://img.scryfall.com/cards/border_crop/en/m11/205.jpg?1517813031|https://scryfall.com/card/m11/205"
+"/dragons-claw?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1001
+msgid "Whenever a player casts a red spell, you may gain 1 life."
+msgstr ""
+
+#: ../../M11.rst:1006
+msgid ""
+":mtgtip:`Elixir of "
+"Immortality<https://img.scryfall.com/cards/border_crop/en/m11/206.jpg?1517813031|https://scryfall.com/card/m11/206"
+"/elixir-of-immortality?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1005
+msgid ""
+"|mana_2|, |tap|: You gain 5 life. Shuffle Elixir of Immortality and your "
+"graveyard into their owner's library."
+msgstr ""
+
+#: ../../M11.rst:1012
+msgid ""
+":mtgtip:`Gargoyle "
+"Sentinel<https://img.scryfall.com/cards/border_crop/en/m11/207.jpg?1517813031|https://scryfall.com/card/m11/207"
+"/gargoyle-sentinel?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1011
+msgid ""
+"|mana_3|: Until end of turn, Gargoyle Sentinel loses defender and gains "
+"flying."
+msgstr ""
+
+#: ../../M11.rst:1018
+msgid ""
+":mtgtip:`Jinxed "
+"Idol<https://img.scryfall.com/cards/border_crop/en/m11/208.jpg?1517813031|https://scryfall.com/card/m11/208"
+"/jinxed-idol?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1015
+msgid "At the beginning of your upkeep, Jinxed Idol deals 2 damage to you."
+msgstr ""
+
+#: ../../M11.rst:1017
+msgid "Sacrifice a creature: Target opponent gains control of Jinxed Idol."
+msgstr ""
+
+#: ../../M11.rst:1024
+msgid ":mtgtip:`Juggernaut<https://img.scryfall.com/cards/border_crop/en/m11/209.jpg?1517813031|https://scryfall.com/card/m11/209/juggernaut?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1021
+msgid "Juggernaut attacks each combat if able."
+msgstr ""
+
+#: ../../M11.rst:1023
+msgid "Juggernaut can't be blocked by Walls."
+msgstr ""
+
+#: ../../M11.rst:1028
+msgid ""
+":mtgtip:`Kraken's "
+"Eye<https://img.scryfall.com/cards/border_crop/en/m11/210.jpg?1517813031|https://scryfall.com/card/m11/210"
+"/krakens-eye?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1027
+msgid "Whenever a player casts a blue spell, you may gain 1 life."
+msgstr ""
+
+#: ../../M11.rst:1032
+msgid ":mtgtip:`Ornithopter<https://img.scryfall.com/cards/border_crop/en/m11/211.jpg?1517813031|https://scryfall.com/card/m11/211/ornithopter?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1038
+msgid ""
+":mtgtip:`Platinum "
+"Angel<https://img.scryfall.com/cards/border_crop/en/m11/212.jpg?1517813031|https://scryfall.com/card/m11/212"
+"/platinum-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1037
+msgid "You can't lose the game and your opponents can't win the game."
+msgstr ""
+
+#: ../../M11.rst:1042
+msgid ""
+":mtgtip:`Sorcerer's "
+"Strongbox<https://img.scryfall.com/cards/border_crop/en/m11/213.jpg?1517813031|https://scryfall.com/card/m11/213"
+"/sorcerers-strongbox?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1041
+msgid ""
+"|mana_2|, |tap|: Flip a coin. If you win the flip, sacrifice Sorcerer's "
+"Strongbox and draw three cards."
+msgstr ""
+
+#: ../../M11.rst:1046
+msgid ""
+":mtgtip:`Steel "
+"Overseer<https://img.scryfall.com/cards/border_crop/en/m11/214.jpg?1517813031|https://scryfall.com/card/m11/214"
+"/steel-overseer?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1045
+msgid "|tap|: Put a +1/+1 counter on each artifact creature you control."
+msgstr ""
+
+#: ../../M11.rst:1048
+msgid ""
+":mtgtip:`Stone "
+"Golem<https://img.scryfall.com/cards/border_crop/en/m11/215.jpg?1517813031|https://scryfall.com/card/m11/215"
+"/stone-golem?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1056
+msgid ""
+":mtgtip:`Sword of "
+"Vengeance<https://img.scryfall.com/cards/border_crop/en/m11/216.jpg?1517813031|https://scryfall.com/card/m11/216"
+"/sword-of-vengeance?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1053
+msgid ""
+"Equipped creature gets +2/+0 and has first strike, vigilance, trample, "
+"and haste."
+msgstr ""
+
+#: ../../M11.rst:1055
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: ../../M11.rst:1060
+msgid ""
+":mtgtip:`Temple "
+"Bell<https://img.scryfall.com/cards/border_crop/en/m11/217.jpg?1517813031|https://scryfall.com/card/m11/217"
+"/temple-bell?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1059
+msgid "|tap|: Each player draws a card."
+msgstr ""
+
+#: ../../M11.rst:1066
+msgid ":mtgtip:`Triskelion<https://img.scryfall.com/cards/border_crop/en/m11/218.jpg?1517813031|https://scryfall.com/card/m11/218/triskelion?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1063
+msgid "Triskelion enters the battlefield with three +1/+1 counters on it."
+msgstr ""
+
+#: ../../M11.rst:1065
+msgid "Remove a +1/+1 counter from Triskelion: It deals 1 damage to any target."
+msgstr ""
+
+#: ../../M11.rst:1070
+msgid ""
+":mtgtip:`Voltaic "
+"Key<https://img.scryfall.com/cards/border_crop/en/m11/219.jpg?1517813031|https://scryfall.com/card/m11/219"
+"/voltaic-key?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1069
+msgid "|mana_1|, |tap|: Untap target artifact."
+msgstr ""
+
+#: ../../M11.rst:1076
+msgid ""
+":mtgtip:`Warlord's "
+"Axe<https://img.scryfall.com/cards/border_crop/en/m11/220.jpg?1517813031|https://scryfall.com/card/m11/220"
+"/warlords-axe?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1073
+msgid "Equipped creature gets +3/+1."
+msgstr ""
+
+#: ../../M11.rst:1075
+msgid ""
+"Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip "
+"only as a sorcery.)"
+msgstr ""
+
+#: ../../M11.rst:1082
+msgid ""
+":mtgtip:`Whispersilk "
+"Cloak<https://img.scryfall.com/cards/border_crop/en/m11/221.jpg?1517813031|https://scryfall.com/card/m11/221"
+"/whispersilk-cloak?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1079
+msgid ""
+"Equipped creature can't be blocked and has shroud. (It can't be the "
+"target of spells or abilities.)"
+msgstr ""
+
+#: ../../M11.rst:1081
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../M11.rst:1086
+msgid ""
+":mtgtip:`Wurm's "
+"Tooth<https://img.scryfall.com/cards/border_crop/en/m11/222.jpg?1517813031|https://scryfall.com/card/m11/222"
+"/wurms-tooth?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1085
+msgid "Whenever a player casts a green spell, you may gain 1 life."
+msgstr ""
+
+#: ../../M11.rst:1092
+msgid ""
+":mtgtip:`Dragonskull "
+"Summit<https://img.scryfall.com/cards/border_crop/en/m11/223.jpg?1517813031|https://scryfall.com/card/m11/223"
+"/dragonskull-summit?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1089
+msgid ""
+"Dragonskull Summit enters the battlefield tapped unless you control a "
+"Swamp or a Mountain."
+msgstr ""
+
+#: ../../M11.rst:1091
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../M11.rst:1098
+msgid ""
+":mtgtip:`Drowned "
+"Catacomb<https://img.scryfall.com/cards/border_crop/en/m11/224.jpg?1517813031|https://scryfall.com/card/m11/224"
+"/drowned-catacomb?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1095
+msgid ""
+"Drowned Catacomb enters the battlefield tapped unless you control an "
+"Island or a Swamp."
+msgstr ""
+
+#: ../../M11.rst:1097
+msgid "|tap|: Add |mana_u| or |mana_b|."
+msgstr ""
+
+#: ../../M11.rst:1104
+msgid ""
+":mtgtip:`Glacial "
+"Fortress<https://img.scryfall.com/cards/border_crop/en/m11/225.jpg?1517813031|https://scryfall.com/card/m11/225"
+"/glacial-fortress?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1101
+msgid ""
+"Glacial Fortress enters the battlefield tapped unless you control a "
+"Plains or an Island."
+msgstr ""
+
+#: ../../M11.rst:1103
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../M11.rst:1110
+msgid ""
+":mtgtip:`Mystifying "
+"Maze<https://img.scryfall.com/cards/border_crop/en/m11/226.jpg?1517813031|https://scryfall.com/card/m11/226"
+"/mystifying-maze?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1107
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../M11.rst:1109
+msgid ""
+"|mana_4|, |tap|: Exile target attacking creature an opponent controls. At"
+" the beginning of the next end step, return it to the battlefield tapped "
+"under its owner's control."
+msgstr ""
+
+#: ../../M11.rst:1116
+msgid ""
+":mtgtip:`Rootbound "
+"Crag<https://img.scryfall.com/cards/border_crop/en/m11/227.jpg?1517813031|https://scryfall.com/card/m11/227"
+"/rootbound-crag?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1113
+msgid ""
+"Rootbound Crag enters the battlefield tapped unless you control a "
+"Mountain or a Forest."
+msgstr ""
+
+#: ../../M11.rst:1115
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../M11.rst:1122
+msgid ""
+":mtgtip:`Sunpetal "
+"Grove<https://img.scryfall.com/cards/border_crop/en/m11/228.jpg?1517813031|https://scryfall.com/card/m11/228"
+"/sunpetal-grove?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1119
+msgid ""
+"Sunpetal Grove enters the battlefield tapped unless you control a Forest "
+"or a Plains."
+msgstr ""
+
+#: ../../M11.rst:1121
+msgid "|tap|: Add |mana_g| or |mana_w|."
+msgstr ""
+
+#: ../../M11.rst:1126
+msgid ""
+":mtgtip:`Terramorphic "
+"Expanse<https://img.scryfall.com/cards/border_crop/en/m11/229.jpg?1517813031|https://scryfall.com/card/m11/229"
+"/terramorphic-expanse?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1125
+msgid ""
+"|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
+"land card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../M11.rst:1130
+msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/m11/230.jpg?1517813031|https://scryfall.com/card/m11/230/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1129
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../M11.rst:1134
+msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/m11/234.jpg?1517813031|https://scryfall.com/card/m11/234/island?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1133
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../M11.rst:1138
+msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/m11/238.jpg?1517813031|https://scryfall.com/card/m11/238/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1137
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../M11.rst:1142
+msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/m11/242.jpg?1517813031|https://scryfall.com/card/m11/242/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1141
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../M11.rst:1145
+msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/m11/246.jpg?1517813031|https://scryfall.com/card/m11/246/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../M11.rst:1145
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+

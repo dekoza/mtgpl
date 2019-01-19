@@ -1,0 +1,3548 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 20:58+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../ZEN.rst:5
+msgid ":mtgexp:`ZEN` Zendikar"
+msgstr ""
+
+#: ../../ZEN.rst:10
+msgid ""
+":mtgtip:`Armament "
+"Master<https://img.scryfall.com/cards/border_crop/en/zen/1.jpg?1517813031|https://scryfall.com/card/zen/1"
+"/armament-master?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:9
+msgid ""
+"Other Kor creatures you control get +2/+2 for each Equipment attached to "
+"Armament Master."
+msgstr ""
+
+#: ../../ZEN.rst:16
+msgid ""
+":mtgtip:`Arrow Volley "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/2.jpg?1517813031|https://scryfall.com/card/zen/2"
+"/arrow-volley-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:13
+msgid ""
+"If four or more creatures are attacking, you may pay |mana_1|\\ |mana_w| "
+"rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:15
+msgid ""
+"Arrow Volley Trap deals 5 damage divided as you choose among any number "
+"of target attacking creatures."
+msgstr ""
+
+#: ../../ZEN.rst:22
+msgid ""
+":mtgtip:`Bold "
+"Defense<https://img.scryfall.com/cards/border_crop/en/zen/3.jpg?1517813031|https://scryfall.com/card/zen/3"
+"/bold-defense?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:19
+msgid ""
+"Kicker |mana_3|\\ |mana_w| (You may pay an additional |mana_3|\\ |mana_w|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:21
+msgid ""
+"Creatures you control get +1/+1 until end of turn. If this spell was "
+"kicked, instead creatures you control get +2/+2 and gain first strike "
+"until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:26
+msgid ""
+":mtgtip:`Brave the "
+"Elements<https://img.scryfall.com/cards/border_crop/en/zen/4.jpg?1517813031|https://scryfall.com/card/zen/4"
+"/brave-the-elements?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:25
+msgid ""
+"Choose a color. White creatures you control gain protection from the "
+"chosen color until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:30
+msgid ""
+":mtgtip:`Caravan "
+"Hurda<https://img.scryfall.com/cards/border_crop/en/zen/5.jpg?1517813031|https://scryfall.com/card/zen/5"
+"/caravan-hurda?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:29
+msgid ""
+"Lifelink (Damage dealt by this creature also causes you to gain that much"
+" life.)"
+msgstr ""
+
+#: ../../ZEN.rst:38
+msgid ""
+":mtgtip:`Celestial "
+"Mantle<https://img.scryfall.com/cards/border_crop/en/zen/6.jpg?1517813031|https://scryfall.com/card/zen/6"
+"/celestial-mantle?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:33 ../../ZEN.rst:153 ../../ZEN.rst:309 ../../ZEN.rst:561
+#: ../../ZEN.rst:697 ../../ZEN.rst:867 ../../ZEN.rst:941 ../../ZEN.rst:973
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../ZEN.rst:35
+msgid "Enchanted creature gets +3/+3."
+msgstr ""
+
+#: ../../ZEN.rst:37
+msgid ""
+"Whenever enchanted creature deals combat damage to a player, double its "
+"controller's life total."
+msgstr ""
+
+#: ../../ZEN.rst:42
+msgid ""
+":mtgtip:`Cliff "
+"Threader<https://img.scryfall.com/cards/border_crop/en/zen/7.jpg?1517813031|https://scryfall.com/card/zen/7"
+"/cliff-threader?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:41
+msgid ""
+"Mountainwalk (This creature can't be blocked as long as defending player "
+"controls a Mountain.)"
+msgstr ""
+
+#: ../../ZEN.rst:48
+msgid ""
+":mtgtip:`Conqueror's "
+"Pledge<https://img.scryfall.com/cards/border_crop/en/zen/8.jpg?1517813031|https://scryfall.com/card/zen/8"
+"/conquerors-pledge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:45
+msgid ""
+"Kicker |mana_6| (You may pay an additional |mana_6| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:47
+msgid ""
+"Create six 1/1 white Kor Soldier creature tokens. If this spell was "
+"kicked, create twelve of those tokens instead."
+msgstr ""
+
+#: ../../ZEN.rst:52
+msgid ""
+":mtgtip:`Day of "
+"Judgment<https://img.scryfall.com/cards/border_crop/en/zen/9.jpg?1517813031|https://scryfall.com/card/zen/9"
+"/day-of-judgment?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:51
+msgid "Destroy all creatures."
+msgstr ""
+
+#: ../../ZEN.rst:58
+msgid ""
+":mtgtip:`Devout "
+"Lightcaster<https://img.scryfall.com/cards/border_crop/en/zen/10.jpg?1517813031|https://scryfall.com/card/zen/10"
+"/devout-lightcaster?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:55
+msgid "Protection from black"
+msgstr ""
+
+#: ../../ZEN.rst:57
+msgid ""
+"When Devout Lightcaster enters the battlefield, exile target black "
+"permanent."
+msgstr ""
+
+#: ../../ZEN.rst:64
+msgid ""
+":mtgtip:`Emeria "
+"Angel<https://img.scryfall.com/cards/border_crop/en/zen/11.jpg?1517813031|https://scryfall.com/card/zen/11"
+"/emeria-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:61 ../../ZEN.rst:73 ../../ZEN.rst:99 ../../ZEN.rst:127
+#: ../../ZEN.rst:159 ../../ZEN.rst:275 ../../ZEN.rst:297 ../../ZEN.rst:331
+#: ../../ZEN.rst:351 ../../ZEN.rst:359 ../../ZEN.rst:369 ../../ZEN.rst:389
+#: ../../ZEN.rst:403 ../../ZEN.rst:421 ../../ZEN.rst:497 ../../ZEN.rst:527
+msgid "Flying"
+msgstr ""
+
+#: ../../ZEN.rst:63
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may create a 1/1 white Bird creature token with flying."
+msgstr ""
+
+#: ../../ZEN.rst:70
+msgid ""
+":mtgtip:`Felidar "
+"Sovereign<https://img.scryfall.com/cards/border_crop/en/zen/12.jpg?1517813031|https://scryfall.com/card/zen/12"
+"/felidar-sovereign?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:67
+msgid "Vigilance, lifelink"
+msgstr ""
+
+#: ../../ZEN.rst:69
+msgid ""
+"At the beginning of your upkeep, if you have 40 or more life, you win the"
+" game."
+msgstr ""
+
+#: ../../ZEN.rst:78
+msgid ""
+":mtgtip:`Iona, Shield of "
+"Emeria<https://img.scryfall.com/cards/border_crop/en/zen/13.jpg?1517813031|https://scryfall.com/card/zen/13"
+"/iona-shield-of-emeria?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:75
+msgid "As Iona, Shield of Emeria enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../ZEN.rst:77
+msgid "Your opponents can't cast spells of the chosen color."
+msgstr ""
+
+#: ../../ZEN.rst:84
+msgid ""
+":mtgtip:`Journey to "
+"Nowhere<https://img.scryfall.com/cards/border_crop/en/zen/14.jpg?1517813031|https://scryfall.com/card/zen/14"
+"/journey-to-nowhere?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:81
+msgid "When Journey to Nowhere enters the battlefield, exile target creature."
+msgstr ""
+
+#: ../../ZEN.rst:83
+msgid ""
+"When Journey to Nowhere leaves the battlefield, return the exiled card to"
+" the battlefield under its owner's control."
+msgstr ""
+
+#: ../../ZEN.rst:88
+msgid ""
+":mtgtip:`Kabira "
+"Evangel<https://img.scryfall.com/cards/border_crop/en/zen/15.jpg?1517813031|https://scryfall.com/card/zen/15"
+"/kabira-evangel?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:87
+msgid ""
+"Whenever Kabira Evangel or another Ally enters the battlefield under your"
+" control, you may choose a color. If you do, Allies you control gain "
+"protection from the chosen color until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:94
+msgid ""
+":mtgtip:`Kazandu "
+"Blademaster<https://img.scryfall.com/cards/border_crop/en/zen/16.jpg?1517813031|https://scryfall.com/card/zen/16"
+"/kazandu-blademaster?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:91
+msgid "First strike, vigilance"
+msgstr ""
+
+#: ../../ZEN.rst:93
+msgid ""
+"Whenever Kazandu Blademaster or another Ally enters the battlefield under"
+" your control, you may put a +1/+1 counter on Kazandu Blademaster."
+msgstr ""
+
+#: ../../ZEN.rst:102
+msgid ""
+":mtgtip:`Kor "
+"Aeronaut<https://img.scryfall.com/cards/border_crop/en/zen/17.jpg?1517813031|https://scryfall.com/card/zen/17"
+"/kor-aeronaut?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:97
+msgid ""
+"Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:101
+msgid ""
+"When Kor Aeronaut enters the battlefield, if it was kicked, target "
+"creature gains flying until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:106
+msgid ""
+":mtgtip:`Kor "
+"Cartographer<https://img.scryfall.com/cards/border_crop/en/zen/18.jpg?1517813031|https://scryfall.com/card/zen/18"
+"/kor-cartographer?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:105
+msgid ""
+"When Kor Cartographer enters the battlefield, you may search your library"
+" for a Plains card, put it onto the battlefield tapped, then shuffle your"
+" library."
+msgstr ""
+
+#: ../../ZEN.rst:110
+msgid ""
+":mtgtip:`Kor "
+"Duelist<https://img.scryfall.com/cards/border_crop/en/zen/19.jpg?1517813031|https://scryfall.com/card/zen/19"
+"/kor-duelist?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:109
+msgid ""
+"As long as Kor Duelist is equipped, it has double strike. (It deals both "
+"first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../ZEN.rst:114
+msgid ""
+":mtgtip:`Kor "
+"Hookmaster<https://img.scryfall.com/cards/border_crop/en/zen/20.jpg?1517813031|https://scryfall.com/card/zen/20"
+"/kor-hookmaster?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:113
+msgid ""
+"When Kor Hookmaster enters the battlefield, tap target creature an "
+"opponent controls. That creature doesn't untap during its controller's "
+"next untap step."
+msgstr ""
+
+#: ../../ZEN.rst:118
+msgid ""
+":mtgtip:`Kor "
+"Outfitter<https://img.scryfall.com/cards/border_crop/en/zen/21.jpg?1517813031|https://scryfall.com/card/zen/21"
+"/kor-outfitter?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:117
+msgid ""
+"When Kor Outfitter enters the battlefield, you may attach target "
+"Equipment you control to target creature you control."
+msgstr ""
+
+#: ../../ZEN.rst:124
+msgid ""
+":mtgtip:`Kor "
+"Sanctifiers<https://img.scryfall.com/cards/border_crop/en/zen/22.jpg?1517813031|https://scryfall.com/card/zen/22"
+"/kor-sanctifiers?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:121
+msgid ""
+"Kicker |mana_w| (You may pay an additional |mana_w| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:123
+msgid ""
+"When Kor Sanctifiers enters the battlefield, if it was kicked, destroy "
+"target artifact or enchantment."
+msgstr ""
+
+#: ../../ZEN.rst:130
+msgid ""
+":mtgtip:`Kor "
+"Skyfisher<https://img.scryfall.com/cards/border_crop/en/zen/23.jpg?1517813031|https://scryfall.com/card/zen/23"
+"/kor-skyfisher?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:129
+msgid ""
+"When Kor Skyfisher enters the battlefield, return a permanent you control"
+" to its owner's hand."
+msgstr ""
+
+#: ../../ZEN.rst:134
+msgid ""
+":mtgtip:`Landbind "
+"Ritual<https://img.scryfall.com/cards/border_crop/en/zen/24.jpg?1517813031|https://scryfall.com/card/zen/24"
+"/landbind-ritual?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:133
+msgid "You gain 2 life for each Plains you control."
+msgstr ""
+
+#: ../../ZEN.rst:140
+msgid ""
+":mtgtip:`Luminarch "
+"Ascension<https://img.scryfall.com/cards/border_crop/en/zen/25.jpg?1517813031|https://scryfall.com/card/zen/25"
+"/luminarch-ascension?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:137
+msgid ""
+"At the beginning of each opponent's end step, if you didn't lose life "
+"this turn, you may put a quest counter on Luminarch Ascension. (Damage "
+"causes loss of life.)"
+msgstr ""
+
+#: ../../ZEN.rst:139
+msgid ""
+"|mana_1|\\ |mana_w|: Create a 4/4 white Angel creature token with flying."
+" Activate this ability only if Luminarch Ascension has four or more quest"
+" counters on it."
+msgstr ""
+
+#: ../../ZEN.rst:146
+msgid ""
+":mtgtip:`Makindi "
+"Shieldmate<https://img.scryfall.com/cards/border_crop/en/zen/26.jpg?1517813031|https://scryfall.com/card/zen/26"
+"/makindi-shieldmate?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:143 ../../ZEN.rst:345
+msgid "Defender"
+msgstr ""
+
+#: ../../ZEN.rst:145
+msgid ""
+"Whenever Makindi Shieldmate or another Ally enters the battlefield under "
+"your control, you may put a +1/+1 counter on Makindi Shieldmate."
+msgstr ""
+
+#: ../../ZEN.rst:150
+msgid ""
+":mtgtip:`Narrow "
+"Escape<https://img.scryfall.com/cards/border_crop/en/zen/27.jpg?1517813031|https://scryfall.com/card/zen/27"
+"/narrow-escape?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:149
+msgid "Return target permanent you control to its owner's hand. You gain 4 life."
+msgstr ""
+
+#: ../../ZEN.rst:156
+msgid ""
+":mtgtip:`Nimbus "
+"Wings<https://img.scryfall.com/cards/border_crop/en/zen/28.jpg?1517813031|https://scryfall.com/card/zen/28"
+"/nimbus-wings?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:155
+msgid "Enchanted creature gets +1/+2 and has flying."
+msgstr ""
+
+#: ../../ZEN.rst:162
+msgid ""
+":mtgtip:`Noble "
+"Vestige<https://img.scryfall.com/cards/border_crop/en/zen/29.jpg?1517813031|https://scryfall.com/card/zen/29"
+"/noble-vestige?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:161
+msgid ""
+"|tap|: Prevent the next 1 damage that would be dealt to target player or "
+"planeswalker this turn."
+msgstr ""
+
+#: ../../ZEN.rst:166
+msgid ""
+":mtgtip:`Ondu "
+"Cleric<https://img.scryfall.com/cards/border_crop/en/zen/30.jpg?1517813031|https://scryfall.com/card/zen/30"
+"/ondu-cleric?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:165
+msgid ""
+"Whenever Ondu Cleric or another Ally enters the battlefield under your "
+"control, you may gain life equal to the number of Allies you control."
+msgstr ""
+
+#: ../../ZEN.rst:168
+msgid ""
+":mtgtip:`Pillarfield "
+"Ox<https://img.scryfall.com/cards/border_crop/en/zen/31.jpg?1517813031|https://scryfall.com/card/zen/31"
+"/pillarfield-ox?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:176
+msgid ""
+":mtgtip:`Pitfall "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/32.jpg?1517813031|https://scryfall.com/card/zen/32"
+"/pitfall-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:173
+msgid ""
+"If exactly one creature is attacking, you may pay |mana_w| rather than "
+"pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:175
+msgid "Destroy target attacking creature without flying."
+msgstr ""
+
+#: ../../ZEN.rst:182
+msgid ""
+":mtgtip:`Quest for the Holy "
+"Relic<https://img.scryfall.com/cards/border_crop/en/zen/33.jpg?1517813031|https://scryfall.com/card/zen/33"
+"/quest-for-the-holy-relic?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:179
+msgid ""
+"Whenever you cast a creature spell, you may put a quest counter on Quest "
+"for the Holy Relic."
+msgstr ""
+
+#: ../../ZEN.rst:181
+msgid ""
+"Remove five quest counters from Quest for the Holy Relic and sacrifice "
+"it: Search your library for an Equipment card, put it onto the "
+"battlefield, and attach it to a creature you control. Then shuffle your "
+"library."
+msgstr ""
+
+#: ../../ZEN.rst:186
+msgid ""
+":mtgtip:`Shepherd of the "
+"Lost<https://img.scryfall.com/cards/border_crop/en/zen/34.jpg?1517813031|https://scryfall.com/card/zen/34"
+"/shepherd-of-the-lost?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:185
+msgid "Flying, first strike, vigilance"
+msgstr ""
+
+#: ../../ZEN.rst:190
+msgid ""
+":mtgtip:`Shieldmate's "
+"Blessing<https://img.scryfall.com/cards/border_crop/en/zen/35.jpg?1517813031|https://scryfall.com/card/zen/35"
+"/shieldmates-blessing?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:189
+msgid "Prevent the next 3 damage that would be dealt to any target this turn."
+msgstr ""
+
+#: ../../ZEN.rst:194
+msgid ""
+":mtgtip:`Steppe "
+"Lynx<https://img.scryfall.com/cards/border_crop/en/zen/36.jpg?1517813031|https://scryfall.com/card/zen/36"
+"/steppe-lynx?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:193
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Steppe Lynx gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:200
+msgid ""
+":mtgtip:`Sunspring "
+"Expedition<https://img.scryfall.com/cards/border_crop/en/zen/37.jpg?1517813031|https://scryfall.com/card/zen/37"
+"/sunspring-expedition?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:197
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may put a quest counter on Sunspring Expedition."
+msgstr ""
+
+#: ../../ZEN.rst:199
+msgid ""
+"Remove three quest counters from Sunspring Expedition and sacrifice it: "
+"You gain 8 life."
+msgstr ""
+
+#: ../../ZEN.rst:204
+msgid ""
+":mtgtip:`Windborne "
+"Charge<https://img.scryfall.com/cards/border_crop/en/zen/38.jpg?1517813031|https://scryfall.com/card/zen/38"
+"/windborne-charge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:203
+msgid ""
+"Two target creatures you control each get +2/+2 and gain flying until end"
+" of turn."
+msgstr ""
+
+#: ../../ZEN.rst:208
+msgid ""
+":mtgtip:`World "
+"Queller<https://img.scryfall.com/cards/border_crop/en/zen/39.jpg?1517813031|https://scryfall.com/card/zen/39"
+"/world-queller?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:207
+msgid ""
+"At the beginning of your upkeep, you may choose a card type. If you do, "
+"each player sacrifices a permanent of that type."
+msgstr ""
+
+#: ../../ZEN.rst:216
+msgid ""
+":mtgtip:`Aether "
+"Figment<https://img.scryfall.com/cards/border_crop/en/zen/40.jpg?1517813031|https://scryfall.com/card/zen/40"
+"/aether-figment?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:211 ../../ZEN.rst:547
+msgid ""
+"Kicker |mana_3| (You may pay an additional |mana_3| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:213
+msgid "Aether Figment can't be blocked."
+msgstr ""
+
+#: ../../ZEN.rst:215
+msgid ""
+"If Aether Figment was kicked, it enters the battlefield with two +1/+1 "
+"counters on it."
+msgstr ""
+
+#: ../../ZEN.rst:222
+msgid ""
+":mtgtip:`Archive "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/41.jpg?1517813031|https://scryfall.com/card/zen/41"
+"/archive-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:219
+msgid ""
+"If an opponent searched their library this turn, you may pay |mana_0| "
+"rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:221
+msgid ""
+"Target opponent puts the top thirteen cards of their library into their "
+"graveyard."
+msgstr ""
+
+#: ../../ZEN.rst:228
+msgid ""
+":mtgtip:`Archmage "
+"Ascension<https://img.scryfall.com/cards/border_crop/en/zen/42.jpg?1517813031|https://scryfall.com/card/zen/42"
+"/archmage-ascension?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:225
+msgid ""
+"At the beginning of each end step, if you drew two or more cards this "
+"turn, you may put a quest counter on Archmage Ascension."
+msgstr ""
+
+#: ../../ZEN.rst:227
+msgid ""
+"As long as Archmage Ascension has six or more quest counters on it, if "
+"you would draw a card, you may instead search your library for a card, "
+"put that card into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:232
+msgid ""
+":mtgtip:`Caller of "
+"Gales<https://img.scryfall.com/cards/border_crop/en/zen/43.jpg?1517813031|https://scryfall.com/card/zen/43"
+"/caller-of-gales?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:231
+msgid ""
+"|mana_1|\\ |mana_u|, |tap|: Target creature gains flying until end of "
+"turn."
+msgstr ""
+
+#: ../../ZEN.rst:236
+msgid ":mtgtip:`Cancel<https://img.scryfall.com/cards/border_crop/en/zen/44.jpg?1517813031|https://scryfall.com/card/zen/44/cancel?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:235
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../ZEN.rst:240
+msgid ""
+":mtgtip:`Cosi's "
+"Trickster<https://img.scryfall.com/cards/border_crop/en/zen/45.jpg?1517813031|https://scryfall.com/card/zen/45"
+"/cosis-trickster?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:239
+msgid ""
+"Whenever an opponent shuffles their library, you may put a +1/+1 counter "
+"on Cosi's Trickster."
+msgstr ""
+
+#: ../../ZEN.rst:246
+msgid ":mtgtip:`Gomazoa<https://img.scryfall.com/cards/border_crop/en/zen/46.jpg?1517813031|https://scryfall.com/card/zen/46/gomazoa?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:243
+msgid "Defender, flying"
+msgstr ""
+
+#: ../../ZEN.rst:245
+msgid ""
+"|tap|: Put Gomazoa and each creature it's blocking on top of their "
+"owners' libraries, then those players shuffle their libraries."
+msgstr ""
+
+#: ../../ZEN.rst:250
+msgid ""
+":mtgtip:`Hedron "
+"Crab<https://img.scryfall.com/cards/border_crop/en/zen/47.jpg?1517813031|https://scryfall.com/card/zen/47"
+"/hedron-crab?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:249
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"target player puts the top three cards of their library into their "
+"graveyard."
+msgstr ""
+
+#: ../../ZEN.rst:256
+msgid ""
+":mtgtip:`Into the "
+"Roil<https://img.scryfall.com/cards/border_crop/en/zen/48.jpg?1517813031|https://scryfall.com/card/zen/48"
+"/into-the-roil?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:253 ../../ZEN.rst:367
+msgid ""
+"Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:255
+msgid ""
+"Return target nonland permanent to its owner's hand. If this spell was "
+"kicked, draw a card."
+msgstr ""
+
+#: ../../ZEN.rst:262
+msgid ""
+":mtgtip:`Ior Ruin "
+"Expedition<https://img.scryfall.com/cards/border_crop/en/zen/49.jpg?1517813031|https://scryfall.com/card/zen/49"
+"/ior-ruin-expedition?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:259
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may put a quest counter on Ior Ruin Expedition."
+msgstr ""
+
+#: ../../ZEN.rst:261
+msgid ""
+"Remove three quest counters from Ior Ruin Expedition and sacrifice it: "
+"Draw two cards."
+msgstr ""
+
+#: ../../ZEN.rst:264
+msgid ""
+":mtgtip:`Kraken "
+"Hatchling<https://img.scryfall.com/cards/border_crop/en/zen/50.jpg?1517813031|https://scryfall.com/card/zen/50"
+"/kraken-hatchling?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:272
+msgid ""
+":mtgtip:`Lethargy "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/51.jpg?1517813031|https://scryfall.com/card/zen/51"
+"/lethargy-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:269
+msgid ""
+"If three or more creatures are attacking, you may pay |mana_u| rather "
+"than pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:271
+msgid "Attacking creatures get -3/-0 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:278
+msgid ""
+":mtgtip:`Living "
+"Tsunami<https://img.scryfall.com/cards/border_crop/en/zen/52.jpg?1517813031|https://scryfall.com/card/zen/52"
+"/living-tsunami?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:277
+msgid ""
+"At the beginning of your upkeep, sacrifice Living Tsunami unless you "
+"return a land you control to its owner's hand."
+msgstr ""
+
+#: ../../ZEN.rst:282
+msgid ""
+":mtgtip:`Lorthos, the "
+"Tidemaker<https://img.scryfall.com/cards/border_crop/en/zen/53.jpg?1517813031|https://scryfall.com/card/zen/53"
+"/lorthos-the-tidemaker?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:281
+msgid ""
+"Whenever Lorthos, the Tidemaker attacks, you may pay |mana_8|. If you do,"
+" tap up to eight target permanents. Those permanents don't untap during "
+"their controllers' next untap steps."
+msgstr ""
+
+#: ../../ZEN.rst:288
+msgid ""
+":mtgtip:`Lullmage "
+"Mentor<https://img.scryfall.com/cards/border_crop/en/zen/54.jpg?1517813031|https://scryfall.com/card/zen/54"
+"/lullmage-mentor?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:285
+msgid ""
+"Whenever a spell or ability you control counters a spell, you may create "
+"a 1/1 blue Merfolk creature token."
+msgstr ""
+
+#: ../../ZEN.rst:287
+msgid "Tap seven untapped Merfolk you control: Counter target spell."
+msgstr ""
+
+#: ../../ZEN.rst:294
+msgid ""
+":mtgtip:`Merfolk "
+"Seastalkers<https://img.scryfall.com/cards/border_crop/en/zen/55.jpg?1517813031|https://scryfall.com/card/zen/55"
+"/merfolk-seastalkers?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:291 ../../ZEN.rst:967
+msgid ""
+"Islandwalk (This creature can't be blocked as long as defending player "
+"controls an Island.)"
+msgstr ""
+
+#: ../../ZEN.rst:293
+msgid "|mana_2|\\ |mana_u|: Tap target creature without flying."
+msgstr ""
+
+#: ../../ZEN.rst:300
+msgid ""
+":mtgtip:`Merfolk "
+"Wayfinder<https://img.scryfall.com/cards/border_crop/en/zen/56.jpg?1517813031|https://scryfall.com/card/zen/56"
+"/merfolk-wayfinder?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:299
+msgid ""
+"When Merfolk Wayfinder enters the battlefield, reveal the top three cards"
+" of your library. Put all Island cards revealed this way into your hand "
+"and the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../ZEN.rst:306
+msgid ""
+":mtgtip:`Mindbreak "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/57.jpg?1517813031|https://scryfall.com/card/zen/57"
+"/mindbreak-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:303
+msgid ""
+"If an opponent cast three or more spells this turn, you may pay |mana_0| "
+"rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:305
+msgid "Exile any number of target spells."
+msgstr ""
+
+#: ../../ZEN.rst:312
+msgid ""
+":mtgtip:`Paralyzing "
+"Grasp<https://img.scryfall.com/cards/border_crop/en/zen/58.jpg?1517813031|https://scryfall.com/card/zen/58"
+"/paralyzing-grasp?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:311
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../ZEN.rst:318
+msgid ""
+":mtgtip:`Quest for Ancient "
+"Secrets<https://img.scryfall.com/cards/border_crop/en/zen/59.jpg?1517813031|https://scryfall.com/card/zen/59"
+"/quest-for-ancient-secrets?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:315
+msgid ""
+"Whenever a card is put into your graveyard from anywhere, you may put a "
+"quest counter on Quest for Ancient Secrets."
+msgstr ""
+
+#: ../../ZEN.rst:317
+msgid ""
+"Remove five quest counters from Quest for Ancient Secrets and sacrifice "
+"it: Target player shuffles their graveyard into their library."
+msgstr ""
+
+#: ../../ZEN.rst:322
+msgid ""
+":mtgtip:`Reckless "
+"Scholar<https://img.scryfall.com/cards/border_crop/en/zen/60.jpg?1517813031|https://scryfall.com/card/zen/60"
+"/reckless-scholar?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:321
+msgid "|tap|: Target player draws a card, then discards a card."
+msgstr ""
+
+#: ../../ZEN.rst:328
+msgid ""
+":mtgtip:`Rite of "
+"Replication<https://img.scryfall.com/cards/border_crop/en/zen/61.jpg?1517813031|https://scryfall.com/card/zen/61"
+"/rite-of-replication?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:325 ../../ZEN.rst:663
+msgid ""
+"Kicker |mana_5| (You may pay an additional |mana_5| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:327
+msgid ""
+"Create a token that's a copy of target creature. If this spell was "
+"kicked, create five of those tokens instead."
+msgstr ""
+
+#: ../../ZEN.rst:334
+msgid ""
+":mtgtip:`Roil "
+"Elemental<https://img.scryfall.com/cards/border_crop/en/zen/62.jpg?1517813031|https://scryfall.com/card/zen/62"
+"/roil-elemental?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:333
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may gain control of target creature for as long as you control Roil "
+"Elemental."
+msgstr ""
+
+#: ../../ZEN.rst:338
+msgid ""
+":mtgtip:`Sea Gate "
+"Loremaster<https://img.scryfall.com/cards/border_crop/en/zen/63.jpg?1517813031|https://scryfall.com/card/zen/63"
+"/sea-gate-loremaster?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:337
+msgid "|tap|: Draw a card for each Ally you control."
+msgstr ""
+
+#: ../../ZEN.rst:342
+msgid ""
+":mtgtip:`Seascape "
+"Aerialist<https://img.scryfall.com/cards/border_crop/en/zen/64.jpg?1517813031|https://scryfall.com/card/zen/64"
+"/seascape-aerialist?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:341
+msgid ""
+"Whenever Seascape Aerialist or another Ally enters the battlefield under "
+"your control, you may have Ally creatures you control gain flying until "
+"end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:348
+msgid ""
+":mtgtip:`Shoal "
+"Serpent<https://img.scryfall.com/cards/border_crop/en/zen/65.jpg?1517813031|https://scryfall.com/card/zen/65"
+"/shoal-serpent?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:347
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Shoal Serpent loses defender until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:352
+msgid ""
+":mtgtip:`Sky Ruin "
+"Drake<https://img.scryfall.com/cards/border_crop/en/zen/66.jpg?1517813031|https://scryfall.com/card/zen/66"
+"/sky-ruin-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:356
+msgid ""
+":mtgtip:`Spell "
+"Pierce<https://img.scryfall.com/cards/border_crop/en/zen/67.jpg?1517813031|https://scryfall.com/card/zen/67"
+"/spell-pierce?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:355
+msgid "Counter target noncreature spell unless its controller pays |mana_2|."
+msgstr ""
+
+#: ../../ZEN.rst:364
+msgid ""
+":mtgtip:`Sphinx of Jwar "
+"Isle<https://img.scryfall.com/cards/border_crop/en/zen/68.jpg?1517813031|https://scryfall.com/card/zen/68"
+"/sphinx-of-jwar-isle?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:361 ../../ZEN.rst:983
+msgid "Shroud (This creature can't be the target of spells or abilities.)"
+msgstr ""
+
+#: ../../ZEN.rst:363
+msgid "You may look at the top card of your library any time."
+msgstr ""
+
+#: ../../ZEN.rst:372
+msgid ""
+":mtgtip:`Sphinx of Lost "
+"Truths<https://img.scryfall.com/cards/border_crop/en/zen/69.jpg?1517813031|https://scryfall.com/card/zen/69"
+"/sphinx-of-lost-truths?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:371
+msgid ""
+"When Sphinx of Lost Truths enters the battlefield, draw three cards. Then"
+" if it wasn't kicked, discard three cards."
+msgstr ""
+
+#: ../../ZEN.rst:380
+msgid ""
+":mtgtip:`Spreading "
+"Seas<https://img.scryfall.com/cards/border_crop/en/zen/70.jpg?1517813031|https://scryfall.com/card/zen/70"
+"/spreading-seas?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:375
+msgid "Enchant land"
+msgstr ""
+
+#: ../../ZEN.rst:377
+msgid "When Spreading Seas enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../ZEN.rst:379
+msgid "Enchanted land is an Island."
+msgstr ""
+
+#: ../../ZEN.rst:384
+msgid ""
+":mtgtip:`Summoner's "
+"Bane<https://img.scryfall.com/cards/border_crop/en/zen/71.jpg?1517813031|https://scryfall.com/card/zen/71"
+"/summoners-bane?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:383
+msgid "Counter target creature spell. Create a 2/2 blue Illusion creature token."
+msgstr ""
+
+#: ../../ZEN.rst:392
+msgid ""
+":mtgtip:`Tempest "
+"Owl<https://img.scryfall.com/cards/border_crop/en/zen/72.jpg?1517813031|https://scryfall.com/card/zen/72"
+"/tempest-owl?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:387
+msgid ""
+"Kicker |mana_4|\\ |mana_u| (You may pay an additional |mana_4|\\ |mana_u|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:391
+msgid ""
+"When Tempest Owl enters the battlefield, if it was kicked, tap up to "
+"three target permanents."
+msgstr ""
+
+#: ../../ZEN.rst:396
+msgid ""
+":mtgtip:`Trapfinder's "
+"Trick<https://img.scryfall.com/cards/border_crop/en/zen/73.jpg?1517813031|https://scryfall.com/card/zen/73"
+"/trapfinders-trick?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:395
+msgid "Target player reveals their hand and discards all Trap cards."
+msgstr ""
+
+#: ../../ZEN.rst:400
+msgid ""
+":mtgtip:`Trapmaker's "
+"Snare<https://img.scryfall.com/cards/border_crop/en/zen/74.jpg?1517813031|https://scryfall.com/card/zen/74"
+"/trapmakers-snare?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:399
+msgid ""
+"Search your library for a Trap card, reveal it, and put it into your "
+"hand. Then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:406
+msgid ""
+":mtgtip:`Umara "
+"Raptor<https://img.scryfall.com/cards/border_crop/en/zen/75.jpg?1517813031|https://scryfall.com/card/zen/75"
+"/umara-raptor?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:405
+msgid ""
+"Whenever Umara Raptor or another Ally enters the battlefield under your "
+"control, you may put a +1/+1 counter on Umara Raptor."
+msgstr ""
+
+#: ../../ZEN.rst:412
+msgid ""
+":mtgtip:`Welkin "
+"Tern<https://img.scryfall.com/cards/border_crop/en/zen/76.jpg?1517813031|https://scryfall.com/card/zen/76"
+"/welkin-tern?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:409
+msgid ""
+"Flying (This creature can't be blocked except by creatures with flying or"
+" reach.)"
+msgstr ""
+
+#: ../../ZEN.rst:411
+msgid "Welkin Tern can block only creatures with flying."
+msgstr ""
+
+#: ../../ZEN.rst:418
+msgid ""
+":mtgtip:`Whiplash "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/77.jpg?1517813031|https://scryfall.com/card/zen/77"
+"/whiplash-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:415
+msgid ""
+"If an opponent had two or more creatures enter the battlefield under "
+"their control this turn, you may pay |mana_u| rather than pay this "
+"spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:417
+msgid "Return two target creatures to their owners' hands."
+msgstr ""
+
+#: ../../ZEN.rst:424
+msgid ""
+":mtgtip:`Windrider "
+"Eel<https://img.scryfall.com/cards/border_crop/en/zen/78.jpg?1517813031|https://scryfall.com/card/zen/78"
+"/windrider-eel?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:423
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Windrider Eel gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:428
+msgid ""
+":mtgtip:`Bala Ged "
+"Thief<https://img.scryfall.com/cards/border_crop/en/zen/79.jpg?1517813031|https://scryfall.com/card/zen/79"
+"/bala-ged-thief?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:427
+msgid ""
+"Whenever Bala Ged Thief or another Ally enters the battlefield under your"
+" control, target player reveals a number of cards from their hand equal "
+"to the number of Allies you control. You choose one of them. That player "
+"discards that card."
+msgstr ""
+
+#: ../../ZEN.rst:432
+msgid ""
+":mtgtip:`Blood "
+"Seeker<https://img.scryfall.com/cards/border_crop/en/zen/80.jpg?1517813031|https://scryfall.com/card/zen/80"
+"/blood-seeker?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:431
+msgid ""
+"Whenever a creature enters the battlefield under an opponent's control, "
+"you may have that player lose 1 life."
+msgstr ""
+
+#: ../../ZEN.rst:438
+msgid ""
+":mtgtip:`Blood "
+"Tribute<https://img.scryfall.com/cards/border_crop/en/zen/81.jpg?1517813031|https://scryfall.com/card/zen/81"
+"/blood-tribute?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:435
+msgid ""
+"Kicker—Tap an untapped Vampire you control. (You may tap a Vampire you "
+"control in addition to any other costs as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:437
+msgid ""
+"Target opponent loses half their life, rounded up. If this spell was "
+"kicked, you gain life equal to the life lost this way."
+msgstr ""
+
+#: ../../ZEN.rst:444
+msgid ""
+":mtgtip:`Bloodchief "
+"Ascension<https://img.scryfall.com/cards/border_crop/en/zen/82.jpg?1517813031|https://scryfall.com/card/zen/82"
+"/bloodchief-ascension?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:441
+msgid ""
+"At the beginning of each end step, if an opponent lost 2 or more life "
+"this turn, you may put a quest counter on Bloodchief Ascension. (Damage "
+"causes loss of life.)"
+msgstr ""
+
+#: ../../ZEN.rst:443
+msgid ""
+"Whenever a card is put into an opponent's graveyard from anywhere, if "
+"Bloodchief Ascension has three or more quest counters on it, you may have"
+" that player lose 2 life. If you do, you gain 2 life."
+msgstr ""
+
+#: ../../ZEN.rst:452
+msgid ":mtgtip:`Bloodghast<https://img.scryfall.com/cards/border_crop/en/zen/83.jpg?1517813031|https://scryfall.com/card/zen/83/bloodghast?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:447
+msgid "Bloodghast can't block."
+msgstr ""
+
+#: ../../ZEN.rst:449
+msgid "Bloodghast has haste as long as an opponent has 10 or less life."
+msgstr ""
+
+#: ../../ZEN.rst:451
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may return Bloodghast from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../ZEN.rst:456
+msgid ""
+":mtgtip:`Bog "
+"Tatters<https://img.scryfall.com/cards/border_crop/en/zen/84.jpg?1517813031|https://scryfall.com/card/zen/84"
+"/bog-tatters?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:455
+msgid ""
+"Swampwalk (This creature can't be blocked as long as defending player "
+"controls a Swamp.)"
+msgstr ""
+
+#: ../../ZEN.rst:462
+msgid ""
+":mtgtip:`Crypt "
+"Ripper<https://img.scryfall.com/cards/border_crop/en/zen/85.jpg?1517813031|https://scryfall.com/card/zen/85"
+"/crypt-ripper?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:459 ../../ZEN.rst:679 ../../ZEN.rst:687 ../../ZEN.rst:811
+msgid "Haste"
+msgstr ""
+
+#: ../../ZEN.rst:461
+msgid "|mana_b|: Crypt Ripper gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:466
+msgid ""
+":mtgtip:`Desecrated "
+"Earth<https://img.scryfall.com/cards/border_crop/en/zen/86.jpg?1517813031|https://scryfall.com/card/zen/86"
+"/desecrated-earth?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:465
+msgid "Destroy target land. Its controller discards a card."
+msgstr ""
+
+#: ../../ZEN.rst:470
+msgid ":mtgtip:`Disfigure<https://img.scryfall.com/cards/border_crop/en/zen/87.jpg?1517813031|https://scryfall.com/card/zen/87/disfigure?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:469
+msgid "Target creature gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:476
+msgid ""
+":mtgtip:`Feast of "
+"Blood<https://img.scryfall.com/cards/border_crop/en/zen/88.jpg?1517813031|https://scryfall.com/card/zen/88"
+"/feast-of-blood?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:473
+msgid "Cast this spell only if you control two or more Vampires."
+msgstr ""
+
+#: ../../ZEN.rst:475
+msgid "Destroy target creature. You gain 4 life."
+msgstr ""
+
+#: ../../ZEN.rst:482
+msgid ""
+":mtgtip:`Gatekeeper of "
+"Malakir<https://img.scryfall.com/cards/border_crop/en/zen/89.jpg?1517813031|https://scryfall.com/card/zen/89"
+"/gatekeeper-of-malakir?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:479
+msgid ""
+"Kicker |mana_b| (You may pay an additional |mana_b| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:481
+msgid ""
+"When Gatekeeper of Malakir enters the battlefield, if it was kicked, "
+"target player sacrifices a creature."
+msgstr ""
+
+#: ../../ZEN.rst:486
+msgid ""
+":mtgtip:`Giant "
+"Scorpion<https://img.scryfall.com/cards/border_crop/en/zen/90.jpg?1517813031|https://scryfall.com/card/zen/90"
+"/giant-scorpion?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:485 ../../ZEN.rst:1017
+msgid ""
+"Deathtouch (Any amount of damage this deals to a creature is enough to "
+"destroy it.)"
+msgstr ""
+
+#: ../../ZEN.rst:494
+msgid ""
+":mtgtip:`Grim "
+"Discovery<https://img.scryfall.com/cards/border_crop/en/zen/91.jpg?1517813031|https://scryfall.com/card/zen/91"
+"/grim-discovery?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:489
+msgid "Choose one or both —"
+msgstr ""
+
+#: ../../ZEN.rst:491
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../ZEN.rst:493
+msgid "Return target land card from your graveyard to your hand."
+msgstr ""
+
+#: ../../ZEN.rst:502
+msgid ""
+":mtgtip:`Guul Draz "
+"Specter<https://img.scryfall.com/cards/border_crop/en/zen/92.jpg?1517813031|https://scryfall.com/card/zen/92"
+"/guul-draz-specter?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:499
+msgid "Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand."
+msgstr ""
+
+#: ../../ZEN.rst:501
+msgid ""
+"Whenever Guul Draz Specter deals combat damage to a player, that player "
+"discards a card."
+msgstr ""
+
+#: ../../ZEN.rst:506
+msgid ""
+":mtgtip:`Guul Draz "
+"Vampire<https://img.scryfall.com/cards/border_crop/en/zen/93.jpg?1517813031|https://scryfall.com/card/zen/93"
+"/guul-draz-vampire?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:505
+msgid ""
+"As long as an opponent has 10 or less life, Guul Draz Vampire gets +2/+1 "
+"and has intimidate. (It can't be blocked except by artifact creatures "
+"and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../ZEN.rst:512
+msgid ""
+":mtgtip:`Hagra "
+"Crocodile<https://img.scryfall.com/cards/border_crop/en/zen/94.jpg?1517813031|https://scryfall.com/card/zen/94"
+"/hagra-crocodile?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:509
+msgid "Hagra Crocodile can't block."
+msgstr ""
+
+#: ../../ZEN.rst:511
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Hagra Crocodile gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:516
+msgid ""
+":mtgtip:`Hagra "
+"Diabolist<https://img.scryfall.com/cards/border_crop/en/zen/95.jpg?1517813031|https://scryfall.com/card/zen/95"
+"/hagra-diabolist?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:515
+msgid ""
+"Whenever Hagra Diabolist or another Ally enters the battlefield under "
+"your control, you may have target player lose life equal to the number of"
+" Allies you control."
+msgstr ""
+
+#: ../../ZEN.rst:522
+msgid ""
+":mtgtip:`Halo "
+"Hunter<https://img.scryfall.com/cards/border_crop/en/zen/96.jpg?1517813031|https://scryfall.com/card/zen/96"
+"/halo-hunter?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:519 ../../ZEN.rst:637
+msgid ""
+"Intimidate (This creature can't be blocked except by artifact creatures "
+"and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../ZEN.rst:521
+msgid "When Halo Hunter enters the battlefield, destroy target Angel."
+msgstr ""
+
+#: ../../ZEN.rst:530
+msgid ""
+":mtgtip:`Heartstabber "
+"Mosquito<https://img.scryfall.com/cards/border_crop/en/zen/97.jpg?1517813031|https://scryfall.com/card/zen/97"
+"/heartstabber-mosquito?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:525 ../../ZEN.rst:631
+msgid ""
+"Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:529
+msgid ""
+"When Heartstabber Mosquito enters the battlefield, if it was kicked, "
+"destroy target creature."
+msgstr ""
+
+#: ../../ZEN.rst:534
+msgid ""
+":mtgtip:`Hideous "
+"End<https://img.scryfall.com/cards/border_crop/en/zen/98.jpg?1517813031|https://scryfall.com/card/zen/98"
+"/hideous-end?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:533
+msgid "Destroy target nonblack creature. Its controller loses 2 life."
+msgstr ""
+
+#: ../../ZEN.rst:538
+msgid ""
+":mtgtip:`Kalitas, Bloodchief of "
+"Ghet<https://img.scryfall.com/cards/border_crop/en/zen/99.jpg?1517813031|https://scryfall.com/card/zen/99"
+"/kalitas-bloodchief-of-ghet?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:537
+msgid ""
+"|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Destroy target creature. If that "
+"creature dies this way, create a black Vampire creature token. Its power "
+"is equal to that creature's power and its toughness is equal to that "
+"creature's toughness."
+msgstr ""
+
+#: ../../ZEN.rst:544
+msgid ""
+":mtgtip:`Malakir "
+"Bloodwitch<https://img.scryfall.com/cards/border_crop/en/zen/100.jpg?1517813031|https://scryfall.com/card/zen/100"
+"/malakir-bloodwitch?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:541
+msgid "Flying, protection from white"
+msgstr ""
+
+#: ../../ZEN.rst:543
+msgid ""
+"When Malakir Bloodwitch enters the battlefield, each opponent loses life "
+"equal to the number of Vampires you control. You gain life equal to the "
+"life lost this way."
+msgstr ""
+
+#: ../../ZEN.rst:550
+msgid ""
+":mtgtip:`Marsh "
+"Casualties<https://img.scryfall.com/cards/border_crop/en/zen/101.jpg?1517813031|https://scryfall.com/card/zen/101"
+"/marsh-casualties?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:549
+msgid ""
+"Creatures target player controls get -1/-1 until end of turn. If this "
+"spell was kicked, those creatures get -2/-2 until end of turn instead."
+msgstr ""
+
+#: ../../ZEN.rst:554
+msgid ""
+":mtgtip:`Mind "
+"Sludge<https://img.scryfall.com/cards/border_crop/en/zen/102.jpg?1517813031|https://scryfall.com/card/zen/102"
+"/mind-sludge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:553
+msgid "Target player discards a card for each Swamp you control."
+msgstr ""
+
+#: ../../ZEN.rst:558
+msgid ""
+":mtgtip:`Mindless "
+"Null<https://img.scryfall.com/cards/border_crop/en/zen/103.jpg?1517813031|https://scryfall.com/card/zen/103"
+"/mindless-null?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:557
+msgid "Mindless Null can't block unless you control a Vampire."
+msgstr ""
+
+#: ../../ZEN.rst:564
+msgid ""
+":mtgtip:`Mire "
+"Blight<https://img.scryfall.com/cards/border_crop/en/zen/104.jpg?1517813031|https://scryfall.com/card/zen/104"
+"/mire-blight?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:563
+msgid "When enchanted creature is dealt damage, destroy it."
+msgstr ""
+
+#: ../../ZEN.rst:570
+msgid ""
+":mtgtip:`Needlebite "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/105.jpg?1517813031|https://scryfall.com/card/zen/105"
+"/needlebite-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:567
+msgid ""
+"If an opponent gained life this turn, you may pay |mana_b| rather than "
+"pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:569
+msgid "Target player loses 5 life and you gain 5 life."
+msgstr ""
+
+#: ../../ZEN.rst:574
+msgid ""
+":mtgtip:`Nimana Sell-"
+"Sword<https://img.scryfall.com/cards/border_crop/en/zen/106.jpg?1517813031|https://scryfall.com/card/zen/106"
+"/nimana-sell-sword?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:573
+msgid ""
+"Whenever Nimana Sell-Sword or another Ally enters the battlefield under "
+"your control, you may put a +1/+1 counter on Nimana Sell-Sword."
+msgstr ""
+
+#: ../../ZEN.rst:578
+msgid ""
+":mtgtip:`Ob Nixilis, the "
+"Fallen<https://img.scryfall.com/cards/border_crop/en/zen/107.jpg?1517813031|https://scryfall.com/card/zen/107"
+"/ob-nixilis-the-fallen?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:577
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may have target player lose 3 life. If you do, put three +1/+1 counters "
+"on Ob Nixilis, the Fallen."
+msgstr ""
+
+#: ../../ZEN.rst:584
+msgid ""
+":mtgtip:`Quest for the "
+"Gravelord<https://img.scryfall.com/cards/border_crop/en/zen/108.jpg?1517813031|https://scryfall.com/card/zen/108"
+"/quest-for-the-gravelord?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:581
+msgid ""
+"Whenever a creature dies, you may put a quest counter on Quest for the "
+"Gravelord."
+msgstr ""
+
+#: ../../ZEN.rst:583
+msgid ""
+"Remove three quest counters from Quest for the Gravelord and sacrifice "
+"it: Create a 5/5 black Zombie Giant creature token."
+msgstr ""
+
+#: ../../ZEN.rst:590
+msgid ""
+":mtgtip:`Ravenous "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/109.jpg?1517813031|https://scryfall.com/card/zen/109"
+"/ravenous-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:587
+msgid ""
+"If an opponent had three or more cards put into their graveyard from "
+"anywhere this turn, you may pay |mana_0| rather than pay this spell's "
+"mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:589
+msgid "Exile all cards from target player's graveyard."
+msgstr ""
+
+#: ../../ZEN.rst:596
+msgid ""
+":mtgtip:`Sadistic "
+"Sacrament<https://img.scryfall.com/cards/border_crop/en/zen/110.jpg?1517813031|https://scryfall.com/card/zen/110"
+"/sadistic-sacrament?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:593
+msgid ""
+"Kicker |mana_7| (You may pay an additional |mana_7| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:595
+msgid ""
+"Search target player's library for up to three cards, exile them, then "
+"that player shuffles their library. If this spell was kicked, instead "
+"search that player's library for up to fifteen cards, exile them, then "
+"that player shuffles their library."
+msgstr ""
+
+#: ../../ZEN.rst:604
+msgid ""
+":mtgtip:`Sorin "
+"Markov<https://img.scryfall.com/cards/border_crop/en/zen/111.jpg?1517813031|https://scryfall.com/card/zen/111"
+"/sorin-markov?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:599
+msgid "+2: Sorin Markov deals 2 damage to any target and you gain 2 life."
+msgstr ""
+
+#: ../../ZEN.rst:601
+msgid "−3: Target opponent's life total becomes 10."
+msgstr ""
+
+#: ../../ZEN.rst:603
+msgid "−7: You control target player during that player's next turn."
+msgstr ""
+
+#: ../../ZEN.rst:610
+msgid ""
+":mtgtip:`Soul Stair "
+"Expedition<https://img.scryfall.com/cards/border_crop/en/zen/112.jpg?1517813031|https://scryfall.com/card/zen/112"
+"/soul-stair-expedition?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:607
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may put a quest counter on Soul Stair Expedition."
+msgstr ""
+
+#: ../../ZEN.rst:609
+msgid ""
+"Remove three quest counters from Soul Stair Expedition and sacrifice it: "
+"Return up to two target creature cards from your graveyard to your hand."
+msgstr ""
+
+#: ../../ZEN.rst:614
+msgid ""
+":mtgtip:`Surrakar "
+"Marauder<https://img.scryfall.com/cards/border_crop/en/zen/113.jpg?1517813031|https://scryfall.com/card/zen/113"
+"/surrakar-marauder?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:613
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Surrakar Marauder gains intimidate until end of turn. (It can't be "
+"blocked except by artifact creatures and/or creatures that share a color "
+"with it.)"
+msgstr ""
+
+#: ../../ZEN.rst:620
+msgid ""
+":mtgtip:`Vampire "
+"Hexmage<https://img.scryfall.com/cards/border_crop/en/zen/114.jpg?1517813031|https://scryfall.com/card/zen/114"
+"/vampire-hexmage?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:617 ../../ZEN.rst:755
+msgid "First strike"
+msgstr ""
+
+#: ../../ZEN.rst:619
+msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
+msgstr ""
+
+#: ../../ZEN.rst:624
+msgid ""
+":mtgtip:`Vampire "
+"Lacerator<https://img.scryfall.com/cards/border_crop/en/zen/115.jpg?1517813031|https://scryfall.com/card/zen/115"
+"/vampire-lacerator?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:623
+msgid ""
+"At the beginning of your upkeep, you lose 1 life unless an opponent has "
+"10 or less life."
+msgstr ""
+
+#: ../../ZEN.rst:628
+msgid ""
+":mtgtip:`Vampire "
+"Nighthawk<https://img.scryfall.com/cards/border_crop/en/zen/116.jpg?1517813031|https://scryfall.com/card/zen/116"
+"/vampire-nighthawk?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:627
+msgid "Flying, deathtouch, lifelink"
+msgstr ""
+
+#: ../../ZEN.rst:634
+msgid ""
+":mtgtip:`Vampire's "
+"Bite<https://img.scryfall.com/cards/border_crop/en/zen/117.jpg?1517813031|https://scryfall.com/card/zen/117"
+"/vampires-bite?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:633
+msgid ""
+"Target creature gets +3/+0 until end of turn. If this spell was kicked, "
+"that creature gains lifelink until end of turn. (Damage dealt by the "
+"creature also causes its controller to gain that much life.)"
+msgstr ""
+
+#: ../../ZEN.rst:638
+msgid ""
+":mtgtip:`Bladetusk "
+"Boar<https://img.scryfall.com/cards/border_crop/en/zen/118.jpg?1517813031|https://scryfall.com/card/zen/118"
+"/bladetusk-boar?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:644
+msgid ""
+":mtgtip:`Burst "
+"Lightning<https://img.scryfall.com/cards/border_crop/en/zen/119.jpg?1517813031|https://scryfall.com/card/zen/119"
+"/burst-lightning?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:641
+msgid ""
+"Kicker |mana_4| (You may pay an additional |mana_4| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:643
+msgid ""
+"Burst Lightning deals 2 damage to any target. If this spell was kicked, "
+"it deals 4 damage to that permanent or player instead."
+msgstr ""
+
+#: ../../ZEN.rst:652
+msgid ""
+":mtgtip:`Chandra "
+"Ablaze<https://img.scryfall.com/cards/border_crop/en/zen/120.jpg?1517813031|https://scryfall.com/card/zen/120"
+"/chandra-ablaze?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:647
+msgid ""
+"+1: Discard a card. If a red card is discarded this way, Chandra Ablaze "
+"deals 4 damage to any target."
+msgstr ""
+
+#: ../../ZEN.rst:649
+msgid "−2: Each player discards their hand, then draws three cards."
+msgstr ""
+
+#: ../../ZEN.rst:651
+msgid ""
+"−7: Cast any number of red instant and/or sorcery cards from your "
+"graveyard without paying their mana costs."
+msgstr ""
+
+#: ../../ZEN.rst:656
+msgid ":mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/en/zen/121.jpg?1517813031|https://scryfall.com/card/zen/121/demolish?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:655
+msgid "Destroy target artifact or land."
+msgstr ""
+
+#: ../../ZEN.rst:660
+msgid ":mtgtip:`Electropotence<https://img.scryfall.com/cards/border_crop/en/zen/122.jpg?1517813031|https://scryfall.com/card/zen/122/electropotence?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:659
+msgid ""
+"Whenever a creature enters the battlefield under your control, you may "
+"pay |mana_2|\\ |mana_r|. If you do, that creature deals damage equal to "
+"its power to any target."
+msgstr ""
+
+#: ../../ZEN.rst:666
+msgid ""
+":mtgtip:`Elemental "
+"Appeal<https://img.scryfall.com/cards/border_crop/en/zen/123.jpg?1517813031|https://scryfall.com/card/zen/123"
+"/elemental-appeal?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:665
+msgid ""
+"Create a 7/1 red Elemental creature token with trample and haste. Exile "
+"it at the beginning of the next end step. If this spell was kicked, that "
+"creature gets +7/+0 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:670
+msgid ""
+":mtgtip:`Geyser "
+"Glider<https://img.scryfall.com/cards/border_crop/en/zen/124.jpg?1517813031|https://scryfall.com/card/zen/124"
+"/geyser-glider?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:669
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Geyser Glider gains flying until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:676
+msgid ""
+":mtgtip:`Goblin "
+"Bushwhacker<https://img.scryfall.com/cards/border_crop/en/zen/125.jpg?1517813031|https://scryfall.com/card/zen/125"
+"/goblin-bushwhacker?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:673 ../../ZEN.rst:685
+msgid ""
+"Kicker |mana_r| (You may pay an additional |mana_r| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:675
+msgid ""
+"When Goblin Bushwhacker enters the battlefield, if it was kicked, "
+"creatures you control get +1/+0 and gain haste until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:682
+msgid ""
+":mtgtip:`Goblin "
+"Guide<https://img.scryfall.com/cards/border_crop/en/zen/126.jpg?1517813031|https://scryfall.com/card/zen/126"
+"/goblin-guide?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:681
+msgid ""
+"Whenever Goblin Guide attacks, defending player reveals the top card of "
+"their library. If it's a land card, that player puts it into their hand."
+msgstr ""
+
+#: ../../ZEN.rst:690
+msgid ""
+":mtgtip:`Goblin "
+"Ruinblaster<https://img.scryfall.com/cards/border_crop/en/zen/127.jpg?1517813031|https://scryfall.com/card/zen/127"
+"/goblin-ruinblaster?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:689
+msgid ""
+"When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy"
+" target nonbasic land."
+msgstr ""
+
+#: ../../ZEN.rst:694
+msgid ""
+":mtgtip:`Goblin "
+"Shortcutter<https://img.scryfall.com/cards/border_crop/en/zen/128.jpg?1517813031|https://scryfall.com/card/zen/128"
+"/goblin-shortcutter?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:693
+msgid ""
+"When Goblin Shortcutter enters the battlefield, target creature can't "
+"block this turn."
+msgstr ""
+
+#: ../../ZEN.rst:700
+msgid ""
+":mtgtip:`Goblin War "
+"Paint<https://img.scryfall.com/cards/border_crop/en/zen/129.jpg?1517813031|https://scryfall.com/card/zen/129"
+"/goblin-war-paint?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:699
+msgid "Enchanted creature gets +2/+2 and has haste."
+msgstr ""
+
+#: ../../ZEN.rst:704
+msgid ""
+":mtgtip:`Hellfire "
+"Mongrel<https://img.scryfall.com/cards/border_crop/en/zen/130.jpg?1517813031|https://scryfall.com/card/zen/130"
+"/hellfire-mongrel?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:703
+msgid ""
+"At the beginning of each opponent's upkeep, if that player has two or "
+"fewer cards in hand, Hellfire Mongrel deals 2 damage to that player."
+msgstr ""
+
+#: ../../ZEN.rst:710
+msgid ""
+":mtgtip:`Hellkite "
+"Charger<https://img.scryfall.com/cards/border_crop/en/zen/131.jpg?1517813031|https://scryfall.com/card/zen/131"
+"/hellkite-charger?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:707
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../ZEN.rst:709
+msgid ""
+"Whenever Hellkite Charger attacks, you may pay |mana_5|\\ |mana_r|\\ "
+"|mana_r|. If you do, untap all attacking creatures and after this phase, "
+"there is an additional combat phase."
+msgstr ""
+
+#: ../../ZEN.rst:714
+msgid ""
+":mtgtip:`Highland "
+"Berserker<https://img.scryfall.com/cards/border_crop/en/zen/132.jpg?1517813031|https://scryfall.com/card/zen/132"
+"/highland-berserker?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:713
+msgid ""
+"Whenever Highland Berserker or another Ally enters the battlefield under "
+"your control, you may have Ally creatures you control gain first strike "
+"until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:720
+msgid ""
+":mtgtip:`Inferno "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/133.jpg?1517813031|https://scryfall.com/card/zen/133"
+"/inferno-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:717
+msgid ""
+"If you've been dealt damage by two or more creatures this turn, you may "
+"pay |mana_r| rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:719
+msgid "Inferno Trap deals 4 damage to target creature."
+msgstr ""
+
+#: ../../ZEN.rst:724
+msgid ""
+":mtgtip:`Kazuul "
+"Warlord<https://img.scryfall.com/cards/border_crop/en/zen/134.jpg?1517813031|https://scryfall.com/card/zen/134"
+"/kazuul-warlord?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:723
+msgid ""
+"Whenever Kazuul Warlord or another Ally enters the battlefield under your"
+" control, you may put a +1/+1 counter on each Ally creature you control."
+msgstr ""
+
+#: ../../ZEN.rst:730
+msgid ""
+":mtgtip:`Lavaball "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/135.jpg?1517813031|https://scryfall.com/card/zen/135"
+"/lavaball-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:727
+msgid ""
+"If an opponent had two or more lands enter the battlefield under their "
+"control this turn, you may pay |mana_3|\\ |mana_r|\\ |mana_r| rather than"
+" pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:729
+msgid "Destroy two target lands. Lavaball Trap deals 4 damage to each creature."
+msgstr ""
+
+#: ../../ZEN.rst:736
+msgid ""
+":mtgtip:`Magma "
+"Rift<https://img.scryfall.com/cards/border_crop/en/zen/136.jpg?1517813031|https://scryfall.com/card/zen/136"
+"/magma-rift?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:733 ../../ZEN.rst:883
+msgid "As an additional cost to cast this spell, sacrifice a land."
+msgstr ""
+
+#: ../../ZEN.rst:735
+msgid "Magma Rift deals 5 damage to target creature."
+msgstr ""
+
+#: ../../ZEN.rst:740
+msgid ""
+":mtgtip:`Mark of "
+"Mutiny<https://img.scryfall.com/cards/border_crop/en/zen/137.jpg?1517813031|https://scryfall.com/card/zen/137"
+"/mark-of-mutiny?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:739
+msgid ""
+"Gain control of target creature until end of turn. Put a +1/+1 counter on"
+" it and untap it. That creature gains haste until end of turn. (It can "
+"attack and |tap| this turn.)"
+msgstr ""
+
+#: ../../ZEN.rst:744
+msgid ""
+":mtgtip:`Molten "
+"Ravager<https://img.scryfall.com/cards/border_crop/en/zen/138.jpg?1517813031|https://scryfall.com/card/zen/138"
+"/molten-ravager?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:743
+msgid "|mana_r|: Molten Ravager gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:748
+msgid ""
+":mtgtip:`Murasa "
+"Pyromancer<https://img.scryfall.com/cards/border_crop/en/zen/139.jpg?1517813031|https://scryfall.com/card/zen/139"
+"/murasa-pyromancer?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:747
+msgid ""
+"Whenever Murasa Pyromancer or another Ally enters the battlefield under "
+"your control, you may have Murasa Pyromancer deal damage to target "
+"creature equal to the number of Allies you control."
+msgstr ""
+
+#: ../../ZEN.rst:752
+msgid ""
+":mtgtip:`Obsidian "
+"Fireheart<https://img.scryfall.com/cards/border_crop/en/zen/140.jpg?1517813031|https://scryfall.com/card/zen/140"
+"/obsidian-fireheart?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:751
+msgid ""
+"|mana_1|\\ |mana_r|\\ |mana_r|: Put a blaze counter on target land "
+"without a blaze counter on it. For as long as that land has a blaze "
+"counter on it, it has \"At the beginning of your upkeep, this land deals "
+"1 damage to you.\" (The land continues to burn after Obsidian Fireheart "
+"has left the battlefield.)"
+msgstr ""
+
+#: ../../ZEN.rst:758
+msgid ""
+":mtgtip:`Plated "
+"Geopede<https://img.scryfall.com/cards/border_crop/en/zen/141.jpg?1517813031|https://scryfall.com/card/zen/141"
+"/plated-geopede?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:757
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Plated Geopede gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:764
+msgid ""
+":mtgtip:`Punishing "
+"Fire<https://img.scryfall.com/cards/border_crop/en/zen/142.jpg?1517813031|https://scryfall.com/card/zen/142"
+"/punishing-fire?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:761
+msgid "Punishing Fire deals 2 damage to any target."
+msgstr ""
+
+#: ../../ZEN.rst:763
+msgid ""
+"Whenever an opponent gains life, you may pay |mana_r|. If you do, return "
+"Punishing Fire from your graveyard to your hand."
+msgstr ""
+
+#: ../../ZEN.rst:770
+msgid ""
+":mtgtip:`Pyromancer "
+"Ascension<https://img.scryfall.com/cards/border_crop/en/zen/143.jpg?1517813031|https://scryfall.com/card/zen/143"
+"/pyromancer-ascension?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:767
+msgid ""
+"Whenever you cast an instant or sorcery spell that has the same name as a"
+" card in your graveyard, you may put a quest counter on Pyromancer "
+"Ascension."
+msgstr ""
+
+#: ../../ZEN.rst:769
+msgid ""
+"Whenever you cast an instant or sorcery spell while Pyromancer Ascension "
+"has two or more quest counters on it, you may copy that spell. You may "
+"choose new targets for the copy."
+msgstr ""
+
+#: ../../ZEN.rst:776
+msgid ""
+":mtgtip:`Quest for Pure "
+"Flame<https://img.scryfall.com/cards/border_crop/en/zen/144.jpg?1517813031|https://scryfall.com/card/zen/144"
+"/quest-for-pure-flame?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:773
+msgid ""
+"Whenever a source you control deals damage to an opponent, you may put a "
+"quest counter on Quest for Pure Flame."
+msgstr ""
+
+#: ../../ZEN.rst:775
+msgid ""
+"Remove four quest counters from Quest for Pure Flame and sacrifice it: If"
+" any source you control would deal damage to a permanent or player this "
+"turn, it deals double that damage to that permanent or player instead."
+msgstr ""
+
+#: ../../ZEN.rst:780
+msgid ""
+":mtgtip:`Ruinous "
+"Minotaur<https://img.scryfall.com/cards/border_crop/en/zen/145.jpg?1517813031|https://scryfall.com/card/zen/145"
+"/ruinous-minotaur?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:779
+msgid "Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land."
+msgstr ""
+
+#: ../../ZEN.rst:786
+msgid ""
+":mtgtip:`Runeflare "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/146.jpg?1517813031|https://scryfall.com/card/zen/146"
+"/runeflare-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:783
+msgid ""
+"If an opponent drew three or more cards this turn, you may pay |mana_r| "
+"rather than pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:785
+msgid ""
+"Runeflare Trap deals damage to target player equal to the number of cards"
+" in that player's hand."
+msgstr ""
+
+#: ../../ZEN.rst:790
+msgid ""
+":mtgtip:`Seismic "
+"Shudder<https://img.scryfall.com/cards/border_crop/en/zen/147.jpg?1517813031|https://scryfall.com/card/zen/147"
+"/seismic-shudder?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:789
+msgid "Seismic Shudder deals 1 damage to each creature without flying."
+msgstr ""
+
+#: ../../ZEN.rst:792
+msgid ""
+":mtgtip:`Shatterskull "
+"Giant<https://img.scryfall.com/cards/border_crop/en/zen/148.jpg?1517813031|https://scryfall.com/card/zen/148"
+"/shatterskull-giant?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:798
+msgid ""
+":mtgtip:`Slaughter "
+"Cry<https://img.scryfall.com/cards/border_crop/en/zen/149.jpg?1517813031|https://scryfall.com/card/zen/149"
+"/slaughter-cry?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:797
+msgid ""
+"Target creature gets +3/+0 and gains first strike until end of turn. (It "
+"deals combat damage before creatures without first strike.)"
+msgstr ""
+
+#: ../../ZEN.rst:802
+msgid ""
+":mtgtip:`Spire "
+"Barrage<https://img.scryfall.com/cards/border_crop/en/zen/150.jpg?1517813031|https://scryfall.com/card/zen/150"
+"/spire-barrage?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:801
+msgid ""
+"Spire Barrage deals damage to any target equal to the number of Mountains"
+" you control."
+msgstr ""
+
+#: ../../ZEN.rst:808
+msgid ""
+":mtgtip:`Torch "
+"Slinger<https://img.scryfall.com/cards/border_crop/en/zen/151.jpg?1517813031|https://scryfall.com/card/zen/151"
+"/torch-slinger?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:805
+msgid ""
+"Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:807
+msgid ""
+"When Torch Slinger enters the battlefield, if it was kicked, it deals 2 "
+"damage to target creature."
+msgstr ""
+
+#: ../../ZEN.rst:814
+msgid ""
+":mtgtip:`Tuktuk "
+"Grunts<https://img.scryfall.com/cards/border_crop/en/zen/152.jpg?1517813031|https://scryfall.com/card/zen/152"
+"/tuktuk-grunts?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:813
+msgid ""
+"Whenever Tuktuk Grunts or another Ally enters the battlefield under your "
+"control, you may put a +1/+1 counter on Tuktuk Grunts."
+msgstr ""
+
+#: ../../ZEN.rst:820
+msgid ""
+":mtgtip:`Unstable "
+"Footing<https://img.scryfall.com/cards/border_crop/en/zen/153.jpg?1517813031|https://scryfall.com/card/zen/153"
+"/unstable-footing?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:817
+msgid ""
+"Kicker |mana_3|\\ |mana_r| (You may pay an additional |mana_3|\\ |mana_r|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:819
+msgid ""
+"Damage can't be prevented this turn. If this spell was kicked, it deals 5"
+" damage to target player or planeswalker."
+msgstr ""
+
+#: ../../ZEN.rst:826
+msgid ""
+":mtgtip:`Warren "
+"Instigator<https://img.scryfall.com/cards/border_crop/en/zen/154.jpg?1517813031|https://scryfall.com/card/zen/154"
+"/warren-instigator?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:823
+msgid "Double strike"
+msgstr ""
+
+#: ../../ZEN.rst:825
+msgid ""
+"Whenever Warren Instigator deals damage to an opponent, you may put a "
+"Goblin creature card from your hand onto the battlefield."
+msgstr ""
+
+#: ../../ZEN.rst:832
+msgid ""
+":mtgtip:`Zektar Shrine "
+"Expedition<https://img.scryfall.com/cards/border_crop/en/zen/155.jpg?1517813031|https://scryfall.com/card/zen/155"
+"/zektar-shrine-expedition?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:829
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may put a quest counter on Zektar Shrine Expedition."
+msgstr ""
+
+#: ../../ZEN.rst:831
+msgid ""
+"Remove three quest counters from Zektar Shrine Expedition and sacrifice "
+"it: Create a 7/1 red Elemental creature token with trample and haste. "
+"Exile it at the beginning of the next end step."
+msgstr ""
+
+#: ../../ZEN.rst:838
+msgid ""
+":mtgtip:`Baloth Cage "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/156.jpg?1517813031|https://scryfall.com/card/zen/156"
+"/baloth-cage-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:835
+msgid ""
+"If an opponent had an artifact enter the battlefield under their control "
+"this turn, you may pay |mana_1|\\ |mana_g| rather than pay this spell's "
+"mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:837
+msgid "Create a 4/4 green Beast creature token."
+msgstr ""
+
+#: ../../ZEN.rst:842
+msgid ""
+":mtgtip:`Baloth "
+"Woodcrasher<https://img.scryfall.com/cards/border_crop/en/zen/157.jpg?1517813031|https://scryfall.com/card/zen/157"
+"/baloth-woodcrasher?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:841
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Baloth Woodcrasher gets +4/+4 and gains trample until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:846
+msgid ""
+":mtgtip:`Beast "
+"Hunt<https://img.scryfall.com/cards/border_crop/en/zen/158.jpg?1517813031|https://scryfall.com/card/zen/158"
+"/beast-hunt?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:845
+msgid ""
+"Reveal the top three cards of your library. Put all creature cards "
+"revealed this way into your hand and the rest into your graveyard."
+msgstr ""
+
+#: ../../ZEN.rst:852
+msgid ""
+":mtgtip:`Beastmaster "
+"Ascension<https://img.scryfall.com/cards/border_crop/en/zen/159.jpg?1517813031|https://scryfall.com/card/zen/159"
+"/beastmaster-ascension?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:849
+msgid ""
+"Whenever a creature you control attacks, you may put a quest counter on "
+"Beastmaster Ascension."
+msgstr ""
+
+#: ../../ZEN.rst:851
+msgid ""
+"As long as Beastmaster Ascension has seven or more quest counters on it, "
+"creatures you control get +5/+5."
+msgstr ""
+
+#: ../../ZEN.rst:858
+msgid ""
+":mtgtip:`Cobra "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/160.jpg?1517813031|https://scryfall.com/card/zen/160"
+"/cobra-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:855
+msgid ""
+"If a noncreature permanent under your control was destroyed this turn by "
+"a spell or ability an opponent controlled, you may pay |mana_g| rather "
+"than pay this spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:857
+msgid "Create four 1/1 green Snake creature tokens."
+msgstr ""
+
+#: ../../ZEN.rst:862
+msgid ""
+":mtgtip:`Frontier "
+"Guide<https://img.scryfall.com/cards/border_crop/en/zen/161.jpg?1517813031|https://scryfall.com/card/zen/161"
+"/frontier-guide?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:861
+msgid ""
+"|mana_3|\\ |mana_g|, |tap|: Search your library for a basic land card and"
+" put it onto the battlefield tapped. Then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:872
+msgid ":mtgtip:`Gigantiform<https://img.scryfall.com/cards/border_crop/en/zen/162.jpg?1517813031|https://scryfall.com/card/zen/162/gigantiform?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:865
+msgid "Kicker |mana_4|"
+msgstr ""
+
+#: ../../ZEN.rst:869
+msgid "Enchanted creature has base power and toughness 8/8 and has trample."
+msgstr ""
+
+#: ../../ZEN.rst:871
+msgid ""
+"When Gigantiform enters the battlefield, if it was kicked, you may search"
+" your library for a card named Gigantiform, put it onto the battlefield, "
+"then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:876
+msgid ""
+":mtgtip:`Grazing "
+"Gladehart<https://img.scryfall.com/cards/border_crop/en/zen/163.jpg?1517813031|https://scryfall.com/card/zen/163"
+"/grazing-gladehart?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:875
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may gain 2 life."
+msgstr ""
+
+#: ../../ZEN.rst:880
+msgid ""
+":mtgtip:`Greenweaver "
+"Druid<https://img.scryfall.com/cards/border_crop/en/zen/164.jpg?1517813031|https://scryfall.com/card/zen/164"
+"/greenweaver-druid?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:879
+msgid "|tap|: Add |mana_g|\\ |mana_g|."
+msgstr ""
+
+#: ../../ZEN.rst:886
+msgid ":mtgtip:`Harrow<https://img.scryfall.com/cards/border_crop/en/zen/165.jpg?1517813031|https://scryfall.com/card/zen/165/harrow?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:885
+msgid ""
+"Search your library for up to two basic land cards, put them onto the "
+"battlefield, then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:890
+msgid ""
+":mtgtip:`Joraga "
+"Bard<https://img.scryfall.com/cards/border_crop/en/zen/166.jpg?1517813031|https://scryfall.com/card/zen/166"
+"/joraga-bard?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:889
+msgid ""
+"Whenever Joraga Bard or another Ally enters the battlefield under your "
+"control, you may have Ally creatures you control gain vigilance until end"
+" of turn."
+msgstr ""
+
+#: ../../ZEN.rst:896
+msgid ""
+":mtgtip:`Khalni Heart "
+"Expedition<https://img.scryfall.com/cards/border_crop/en/zen/167.jpg?1517813031|https://scryfall.com/card/zen/167"
+"/khalni-heart-expedition?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:893
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may put a quest counter on Khalni Heart Expedition."
+msgstr ""
+
+#: ../../ZEN.rst:895
+msgid ""
+"Remove three quest counters from Khalni Heart Expedition and sacrifice "
+"it: Search your library for up to two basic land cards, put them onto the"
+" battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:900
+msgid ""
+":mtgtip:`Lotus "
+"Cobra<https://img.scryfall.com/cards/border_crop/en/zen/168.jpg?1517813031|https://scryfall.com/card/zen/168"
+"/lotus-cobra?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:899
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may add one mana of any color."
+msgstr ""
+
+#: ../../ZEN.rst:906
+msgid ""
+":mtgtip:`Mold "
+"Shambler<https://img.scryfall.com/cards/border_crop/en/zen/169.jpg?1517813031|https://scryfall.com/card/zen/169"
+"/mold-shambler?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:903
+msgid ""
+"Kicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |mana_g|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:905
+msgid ""
+"When Mold Shambler enters the battlefield, if it was kicked, destroy "
+"target noncreature permanent."
+msgstr ""
+
+#: ../../ZEN.rst:914
+msgid ""
+":mtgtip:`Nissa "
+"Revane<https://img.scryfall.com/cards/border_crop/en/zen/170.jpg?1517813031|https://scryfall.com/card/zen/170"
+"/nissa-revane?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:909
+msgid ""
+"+1: Search your library for a card named Nissa's Chosen and put it onto "
+"the battlefield. Then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:911
+msgid "+1: You gain 2 life for each Elf you control."
+msgstr ""
+
+#: ../../ZEN.rst:913
+msgid ""
+"−7: Search your library for any number of Elf creature cards and put them"
+" onto the battlefield. Then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:918
+msgid ""
+":mtgtip:`Nissa's "
+"Chosen<https://img.scryfall.com/cards/border_crop/en/zen/171.jpg?1517813031|https://scryfall.com/card/zen/171"
+"/nissas-chosen?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:917
+msgid ""
+"If Nissa's Chosen would die, put it on the bottom of its owner's library "
+"instead."
+msgstr ""
+
+#: ../../ZEN.rst:926
+msgid ""
+":mtgtip:`Oracle of Mul "
+"Daya<https://img.scryfall.com/cards/border_crop/en/zen/172.jpg?1517813031|https://scryfall.com/card/zen/172"
+"/oracle-of-mul-daya?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:921
+msgid "You may play an additional land on each of your turns."
+msgstr ""
+
+#: ../../ZEN.rst:923
+msgid "Play with the top card of your library revealed."
+msgstr ""
+
+#: ../../ZEN.rst:925
+msgid "You may play the top card of your library if it's a land card."
+msgstr ""
+
+#: ../../ZEN.rst:934
+msgid ""
+":mtgtip:`Oran-Rief "
+"Recluse<https://img.scryfall.com/cards/border_crop/en/zen/173.jpg?1517813031|https://scryfall.com/card/zen/173"
+"/oran-rief-recluse?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:929
+msgid ""
+"Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g|"
+" as you cast this spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:931
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../ZEN.rst:933
+msgid ""
+"When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy "
+"target creature with flying."
+msgstr ""
+
+#: ../../ZEN.rst:938
+msgid ""
+":mtgtip:`Oran-Rief "
+"Survivalist<https://img.scryfall.com/cards/border_crop/en/zen/174.jpg?1517813031|https://scryfall.com/card/zen/174"
+"/oran-rief-survivalist?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:937
+msgid ""
+"Whenever Oran-Rief Survivalist or another Ally enters the battlefield "
+"under your control, you may put a +1/+1 counter on Oran-Rief Survivalist."
+msgstr ""
+
+#: ../../ZEN.rst:944
+msgid ""
+":mtgtip:`Predatory "
+"Urge<https://img.scryfall.com/cards/border_crop/en/zen/175.jpg?1517813031|https://scryfall.com/card/zen/175"
+"/predatory-urge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:943
+msgid ""
+"Enchanted creature has \"|tap|: This creature deals damage equal to its "
+"power to target creature. That creature deals damage equal to its power "
+"to this creature.\""
+msgstr ""
+
+#: ../../ZEN.rst:948
+msgid ""
+":mtgtip:`Primal "
+"Bellow<https://img.scryfall.com/cards/border_crop/en/zen/176.jpg?1535998505|https://scryfall.com/card/zen/176"
+"/primal-bellow?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:947
+msgid "Target creature gets +1/+1 until end of turn for each Forest you control."
+msgstr ""
+
+#: ../../ZEN.rst:954
+msgid ""
+":mtgtip:`Quest for the "
+"Gemblades<https://img.scryfall.com/cards/border_crop/en/zen/177.jpg?1517813031|https://scryfall.com/card/zen/177"
+"/quest-for-the-gemblades?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:951
+msgid ""
+"Whenever a creature you control deals combat damage to a creature, you "
+"may put a quest counter on Quest for the Gemblades."
+msgstr ""
+
+#: ../../ZEN.rst:953
+msgid ""
+"Remove a quest counter from Quest for the Gemblades and sacrifice it: Put"
+" four +1/+1 counters on target creature."
+msgstr ""
+
+#: ../../ZEN.rst:960
+msgid ""
+":mtgtip:`Rampaging "
+"Baloths<https://img.scryfall.com/cards/border_crop/en/zen/178.jpg?1517813031|https://scryfall.com/card/zen/178"
+"/rampaging-baloths?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:957
+msgid "Trample"
+msgstr ""
+
+#: ../../ZEN.rst:959
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may create a 4/4 green Beast creature token."
+msgstr ""
+
+#: ../../ZEN.rst:964
+msgid ""
+":mtgtip:`Relic "
+"Crush<https://img.scryfall.com/cards/border_crop/en/zen/179.jpg?1517813031|https://scryfall.com/card/zen/179"
+"/relic-crush?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:963
+msgid ""
+"Destroy target artifact or enchantment and up to one other target "
+"artifact or enchantment."
+msgstr ""
+
+#: ../../ZEN.rst:970
+msgid ""
+":mtgtip:`River "
+"Boa<https://img.scryfall.com/cards/border_crop/en/zen/180.jpg?1517813031|https://scryfall.com/card/zen/180"
+"/river-boa?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:969
+msgid "|mana_g|: Regenerate River Boa."
+msgstr ""
+
+#: ../../ZEN.rst:976
+msgid ""
+":mtgtip:`Savage "
+"Silhouette<https://img.scryfall.com/cards/border_crop/en/zen/181.jpg?1517813031|https://scryfall.com/card/zen/181"
+"/savage-silhouette?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:975
+msgid ""
+"Enchanted creature gets +2/+2 and has \"|mana_1|\\ |mana_g|: Regenerate "
+"this creature.\""
+msgstr ""
+
+#: ../../ZEN.rst:980
+msgid ""
+":mtgtip:`Scute "
+"Mob<https://img.scryfall.com/cards/border_crop/en/zen/182.jpg?1517813031|https://scryfall.com/card/zen/182"
+"/scute-mob?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:979
+msgid ""
+"At the beginning of your upkeep, if you control five or more lands, put "
+"four +1/+1 counters on Scute Mob."
+msgstr ""
+
+#: ../../ZEN.rst:986
+msgid ""
+":mtgtip:`Scythe "
+"Tiger<https://img.scryfall.com/cards/border_crop/en/zen/183.jpg?1517813031|https://scryfall.com/card/zen/183"
+"/scythe-tiger?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:985
+msgid ""
+"When Scythe Tiger enters the battlefield, sacrifice it unless you "
+"sacrifice a land."
+msgstr ""
+
+#: ../../ZEN.rst:992
+msgid ""
+":mtgtip:`Summoning "
+"Trap<https://img.scryfall.com/cards/border_crop/en/zen/184.jpg?1517813031|https://scryfall.com/card/zen/184"
+"/summoning-trap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:989
+msgid ""
+"If a creature spell you cast this turn was countered by a spell or "
+"ability an opponent controlled, you may pay |mana_0| rather than pay this"
+" spell's mana cost."
+msgstr ""
+
+#: ../../ZEN.rst:991
+msgid ""
+"Look at the top seven cards of your library. You may put a creature card "
+"from among them onto the battlefield. Put the rest on the bottom of your "
+"library in any order."
+msgstr ""
+
+#: ../../ZEN.rst:996
+msgid ""
+":mtgtip:`Tajuru "
+"Archer<https://img.scryfall.com/cards/border_crop/en/zen/185.jpg?1517813031|https://scryfall.com/card/zen/185"
+"/tajuru-archer?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:995
+msgid ""
+"Whenever Tajuru Archer or another Ally enters the battlefield under your "
+"control, you may have Tajuru Archer deal damage to target creature with "
+"flying equal to the number of Allies you control."
+msgstr ""
+
+#: ../../ZEN.rst:1000
+msgid ":mtgtip:`Tanglesap<https://img.scryfall.com/cards/border_crop/en/zen/186.jpg?1517813031|https://scryfall.com/card/zen/186/tanglesap?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:999
+msgid ""
+"Prevent all combat damage that would be dealt this turn by creatures "
+"without trample."
+msgstr ""
+
+#: ../../ZEN.rst:1006
+msgid ""
+":mtgtip:`Terra "
+"Stomper<https://img.scryfall.com/cards/border_crop/en/zen/187.jpg?1517813031|https://scryfall.com/card/zen/187"
+"/terra-stomper?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1003
+msgid "This spell can't be countered."
+msgstr ""
+
+#: ../../ZEN.rst:1005
+msgid ""
+"Trample (This creature can deal excess combat damage to the player or "
+"planeswalker it's attacking.)"
+msgstr ""
+
+#: ../../ZEN.rst:1010
+msgid ""
+":mtgtip:`Territorial "
+"Baloth<https://img.scryfall.com/cards/border_crop/en/zen/188.jpg?1517813031|https://scryfall.com/card/zen/188"
+"/territorial-baloth?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1009
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Territorial Baloth gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:1014
+msgid ""
+":mtgtip:`Timbermaw "
+"Larva<https://img.scryfall.com/cards/border_crop/en/zen/189.jpg?1517813031|https://scryfall.com/card/zen/189"
+"/timbermaw-larva?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1013
+msgid ""
+"Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for "
+"each Forest you control."
+msgstr ""
+
+#: ../../ZEN.rst:1020
+msgid ""
+":mtgtip:`Turntimber "
+"Basilisk<https://img.scryfall.com/cards/border_crop/en/zen/190.jpg?1517813031|https://scryfall.com/card/zen/190"
+"/turntimber-basilisk?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1019
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may have target creature block Turntimber Basilisk this turn if able."
+msgstr ""
+
+#: ../../ZEN.rst:1024
+msgid ""
+":mtgtip:`Turntimber "
+"Ranger<https://img.scryfall.com/cards/border_crop/en/zen/191.jpg?1517813031|https://scryfall.com/card/zen/191"
+"/turntimber-ranger?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1023
+msgid ""
+"Whenever Turntimber Ranger or another Ally enters the battlefield under "
+"your control, you may create a 2/2 green Wolf creature token. If you do, "
+"put a +1/+1 counter on Turntimber Ranger."
+msgstr ""
+
+#: ../../ZEN.rst:1026
+msgid ""
+":mtgtip:`Vastwood "
+"Gorger<https://img.scryfall.com/cards/border_crop/en/zen/192.jpg?1517813031|https://scryfall.com/card/zen/192"
+"/vastwood-gorger?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1034
+msgid ""
+":mtgtip:`Vines of "
+"Vastwood<https://img.scryfall.com/cards/border_crop/en/zen/193.jpg?1517813031|https://scryfall.com/card/zen/193"
+"/vines-of-vastwood?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1031
+msgid ""
+"Kicker |mana_g| (You may pay an additional |mana_g| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../ZEN.rst:1033
+msgid ""
+"Target creature can't be the target of spells or abilities your opponents"
+" control this turn. If this spell was kicked, that creature gets +4/+4 "
+"until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:1038
+msgid ""
+":mtgtip:`Zendikar "
+"Farguide<https://img.scryfall.com/cards/border_crop/en/zen/194.jpg?1517813031|https://scryfall.com/card/zen/194"
+"/zendikar-farguide?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1037
+msgid ""
+"Forestwalk (This creature can't be blocked as long as defending player "
+"controls a Forest.)"
+msgstr ""
+
+#: ../../ZEN.rst:1044
+msgid ""
+":mtgtip:`Adventuring "
+"Gear<https://img.scryfall.com/cards/border_crop/en/zen/195.jpg?1517813031|https://scryfall.com/card/zen/195"
+"/adventuring-gear?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1041
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"equipped creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:1043 ../../ZEN.rst:1057 ../../ZEN.rst:1083
+msgid ""
+"Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip "
+"only as a sorcery.)"
+msgstr ""
+
+#: ../../ZEN.rst:1050
+msgid ""
+":mtgtip:`Blade of the "
+"Bloodchief<https://img.scryfall.com/cards/border_crop/en/zen/196.jpg?1517813031|https://scryfall.com/card/zen/196"
+"/blade-of-the-bloodchief?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1047
+msgid ""
+"Whenever a creature dies, put a +1/+1 counter on equipped creature. If "
+"equipped creature is a Vampire, put two +1/+1 counters on it instead."
+msgstr ""
+
+#: ../../ZEN.rst:1049
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../ZEN.rst:1058
+msgid ""
+":mtgtip:`Blazing "
+"Torch<https://img.scryfall.com/cards/border_crop/en/zen/197.jpg?1517813031|https://scryfall.com/card/zen/197"
+"/blazing-torch?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1053
+msgid "Equipped creature can't be blocked by Vampires or Zombies."
+msgstr ""
+
+#: ../../ZEN.rst:1055
+msgid ""
+"Equipped creature has \"|tap|, Sacrifice Blazing Torch: Blazing Torch "
+"deals 2 damage to any target.\""
+msgstr ""
+
+#: ../../ZEN.rst:1062
+msgid ""
+":mtgtip:`Carnage "
+"Altar<https://img.scryfall.com/cards/border_crop/en/zen/198.jpg?1517813031|https://scryfall.com/card/zen/198"
+"/carnage-altar?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1061
+msgid "|mana_3|, Sacrifice a creature: Draw a card."
+msgstr ""
+
+#: ../../ZEN.rst:1068
+msgid ""
+":mtgtip:`Eldrazi "
+"Monument<https://img.scryfall.com/cards/border_crop/en/zen/199.jpg?1517813031|https://scryfall.com/card/zen/199"
+"/eldrazi-monument?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1065
+msgid "Creatures you control get +1/+1 and have flying and indestructible."
+msgstr ""
+
+#: ../../ZEN.rst:1067
+msgid ""
+"At the beginning of your upkeep, sacrifice a creature. If you can't, "
+"sacrifice Eldrazi Monument."
+msgstr ""
+
+#: ../../ZEN.rst:1074
+msgid ""
+":mtgtip:`Eternity "
+"Vessel<https://img.scryfall.com/cards/border_crop/en/zen/200.jpg?1517813031|https://scryfall.com/card/zen/200"
+"/eternity-vessel?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1071
+msgid ""
+"Eternity Vessel enters the battlefield with X charge counters on it, "
+"where X is your life total."
+msgstr ""
+
+#: ../../ZEN.rst:1073
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may have your life total become the number of charge counters on "
+"Eternity Vessel."
+msgstr ""
+
+#: ../../ZEN.rst:1078
+msgid ""
+":mtgtip:`Expedition "
+"Map<https://img.scryfall.com/cards/border_crop/en/zen/201.jpg?1517813031|https://scryfall.com/card/zen/201"
+"/expedition-map?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1077
+msgid ""
+"|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land"
+" card, reveal it, and put it into your hand. Then shuffle your library."
+msgstr ""
+
+#: ../../ZEN.rst:1084
+msgid ""
+":mtgtip:`Explorer's "
+"Scope<https://img.scryfall.com/cards/border_crop/en/zen/202.jpg?1517813031|https://scryfall.com/card/zen/202"
+"/explorers-scope?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1081
+msgid ""
+"Whenever equipped creature attacks, look at the top card of your library."
+" If it's a land card, you may put it onto the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1092
+msgid ""
+":mtgtip:`Grappling "
+"Hook<https://img.scryfall.com/cards/border_crop/en/zen/203.jpg?1517813031|https://scryfall.com/card/zen/203"
+"/grappling-hook?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1087
+msgid "Equipped creature has double strike."
+msgstr ""
+
+#: ../../ZEN.rst:1089
+msgid ""
+"Whenever equipped creature attacks, you may have target creature block it"
+" this turn if able."
+msgstr ""
+
+#: ../../ZEN.rst:1091
+msgid "Equip |mana_4|"
+msgstr ""
+
+#: ../../ZEN.rst:1096
+msgid ""
+":mtgtip:`Hedron "
+"Scrabbler<https://img.scryfall.com/cards/border_crop/en/zen/204.jpg?1517813031|https://scryfall.com/card/zen/204"
+"/hedron-scrabbler?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1095
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, "
+"Hedron Scrabbler gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:1102
+msgid ""
+":mtgtip:`Khalni "
+"Gem<https://img.scryfall.com/cards/border_crop/en/zen/205.jpg?1517813031|https://scryfall.com/card/zen/205"
+"/khalni-gem?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1099
+msgid ""
+"When Khalni Gem enters the battlefield, return two lands you control to "
+"their owner's hand."
+msgstr ""
+
+#: ../../ZEN.rst:1101
+msgid "|tap|: Add two mana of any one color."
+msgstr ""
+
+#: ../../ZEN.rst:1108
+msgid ""
+":mtgtip:`Spidersilk "
+"Net<https://img.scryfall.com/cards/border_crop/en/zen/206.jpg?1517813031|https://scryfall.com/card/zen/206"
+"/spidersilk-net?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1105
+msgid ""
+"Equipped creature gets +0/+2 and has reach. (It can block creatures with "
+"flying.)"
+msgstr ""
+
+#: ../../ZEN.rst:1107
+msgid ""
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
+"only as a sorcery.)"
+msgstr ""
+
+#: ../../ZEN.rst:1110
+msgid ""
+":mtgtip:`Stonework "
+"Puma<https://img.scryfall.com/cards/border_crop/en/zen/207.jpg?1517813031|https://scryfall.com/card/zen/207"
+"/stonework-puma?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1118
+msgid ""
+":mtgtip:`Trailblazer's "
+"Boots<https://img.scryfall.com/cards/border_crop/en/zen/208.jpg?1517813031|https://scryfall.com/card/zen/208"
+"/trailblazers-boots?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1115
+msgid ""
+"Equipped creature has nonbasic landwalk. (It can't be blocked as long as "
+"defending player controls a nonbasic land.)"
+msgstr ""
+
+#: ../../ZEN.rst:1117 ../../ZEN.rst:1123
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../ZEN.rst:1124
+msgid ""
+":mtgtip:`Trusty "
+"Machete<https://img.scryfall.com/cards/border_crop/en/zen/209.jpg?1528934921|https://scryfall.com/card/zen/209"
+"/trusty-machete?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1121
+msgid "Equipped creature gets +2/+1."
+msgstr ""
+
+#: ../../ZEN.rst:1132
+msgid ""
+":mtgtip:`Akoum "
+"Refuge<https://img.scryfall.com/cards/border_crop/en/zen/210.jpg?1517813031|https://scryfall.com/card/zen/210"
+"/akoum-refuge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1127
+msgid "Akoum Refuge enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1129
+msgid "When Akoum Refuge enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../ZEN.rst:1131
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../ZEN.rst:1136
+msgid ""
+":mtgtip:`Arid "
+"Mesa<https://img.scryfall.com/cards/border_crop/en/zen/211.jpg?1517813031|https://scryfall.com/card/zen/211"
+"/arid-mesa?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1135
+msgid ""
+"|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a "
+"Mountain or Plains card, put it onto the battlefield, then shuffle your "
+"library."
+msgstr ""
+
+#: ../../ZEN.rst:1144
+msgid ""
+":mtgtip:`Crypt of "
+"Agadeem<https://img.scryfall.com/cards/border_crop/en/zen/212.jpg?1517813031|https://scryfall.com/card/zen/212"
+"/crypt-of-agadeem?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1139
+msgid "Crypt of Agadeem enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1141 ../../ZEN.rst:1217
+msgid "|tap|: Add |mana_b|."
+msgstr ""
+
+#: ../../ZEN.rst:1143
+msgid ""
+"|mana_2|, |tap|: Add |mana_b| for each black creature card in your "
+"graveyard."
+msgstr ""
+
+#: ../../ZEN.rst:1152
+msgid ""
+":mtgtip:`Emeria, the Sky "
+"Ruin<https://img.scryfall.com/cards/border_crop/en/zen/213.jpg?1517813031|https://scryfall.com/card/zen/213"
+"/emeria-the-sky-ruin?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1147
+msgid "Emeria, the Sky Ruin enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1149
+msgid ""
+"At the beginning of your upkeep, if you control seven or more Plains, you"
+" may return target creature card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../ZEN.rst:1151 ../../ZEN.rst:1175
+msgid "|tap|: Add |mana_w|."
+msgstr ""
+
+#: ../../ZEN.rst:1160
+msgid ""
+":mtgtip:`Graypelt "
+"Refuge<https://img.scryfall.com/cards/border_crop/en/zen/214.jpg?1517813031|https://scryfall.com/card/zen/214"
+"/graypelt-refuge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1155
+msgid "Graypelt Refuge enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1157
+msgid "When Graypelt Refuge enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../ZEN.rst:1159
+msgid "|tap|: Add |mana_g| or |mana_w|."
+msgstr ""
+
+#: ../../ZEN.rst:1168
+msgid ""
+":mtgtip:`Jwar Isle "
+"Refuge<https://img.scryfall.com/cards/border_crop/en/zen/215.jpg?1517813031|https://scryfall.com/card/zen/215"
+"/jwar-isle-refuge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1163
+msgid "Jwar Isle Refuge enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1165
+msgid "When Jwar Isle Refuge enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../ZEN.rst:1167
+msgid "|tap|: Add |mana_u| or |mana_b|."
+msgstr ""
+
+#: ../../ZEN.rst:1176
+msgid ""
+":mtgtip:`Kabira "
+"Crossroads<https://img.scryfall.com/cards/border_crop/en/zen/216.jpg?1517813031|https://scryfall.com/card/zen/216"
+"/kabira-crossroads?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1171
+msgid "Kabira Crossroads enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1173
+msgid "When Kabira Crossroads enters the battlefield, you gain 2 life."
+msgstr ""
+
+#: ../../ZEN.rst:1184
+msgid ""
+":mtgtip:`Kazandu "
+"Refuge<https://img.scryfall.com/cards/border_crop/en/zen/217.jpg?1517813031|https://scryfall.com/card/zen/217"
+"/kazandu-refuge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1179
+msgid "Kazandu Refuge enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1181
+msgid "When Kazandu Refuge enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../ZEN.rst:1183
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../ZEN.rst:1194
+msgid ""
+":mtgtip:`Magosi, the "
+"Waterveil<https://img.scryfall.com/cards/border_crop/en/zen/218.jpg?1517813031|https://scryfall.com/card/zen/218"
+"/magosi-the-waterveil?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1187
+msgid "Magosi, the Waterveil enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1189 ../../ZEN.rst:1237
+msgid "|tap|: Add |mana_u|."
+msgstr ""
+
+#: ../../ZEN.rst:1191
+msgid ""
+"|mana_u|, |tap|: Put an eon counter on Magosi, the Waterveil. Skip your "
+"next turn."
+msgstr ""
+
+#: ../../ZEN.rst:1193
+msgid ""
+"|tap|, Remove an eon counter from Magosi, the Waterveil and return it to "
+"its owner's hand: Take an extra turn after this one."
+msgstr ""
+
+#: ../../ZEN.rst:1198
+msgid ""
+":mtgtip:`Marsh "
+"Flats<https://img.scryfall.com/cards/border_crop/en/zen/219.jpg?1517813031|https://scryfall.com/card/zen/219"
+"/marsh-flats?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1197
+msgid ""
+"|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a "
+"Plains or Swamp card, put it onto the battlefield, then shuffle your "
+"library."
+msgstr ""
+
+#: ../../ZEN.rst:1202
+msgid ""
+":mtgtip:`Misty "
+"Rainforest<https://img.scryfall.com/cards/border_crop/en/zen/220.jpg?1517813031|https://scryfall.com/card/zen/220"
+"/misty-rainforest?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1201
+msgid ""
+"|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
+"Forest or Island card, put it onto the battlefield, then shuffle your "
+"library."
+msgstr ""
+
+#: ../../ZEN.rst:1210
+msgid ""
+":mtgtip:`Oran-Rief, the "
+"Vastwood<https://img.scryfall.com/cards/border_crop/en/zen/221.jpg?1517813031|https://scryfall.com/card/zen/221"
+"/oran-rief-the-vastwood?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1205
+msgid "Oran-Rief, the Vastwood enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1207 ../../ZEN.rst:1253
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../ZEN.rst:1209
+msgid ""
+"|tap|: Put a +1/+1 counter on each green creature that entered the "
+"battlefield this turn."
+msgstr ""
+
+#: ../../ZEN.rst:1218
+msgid ""
+":mtgtip:`Piranha "
+"Marsh<https://img.scryfall.com/cards/border_crop/en/zen/222.jpg?1517813031|https://scryfall.com/card/zen/222"
+"/piranha-marsh?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1213
+msgid "Piranha Marsh enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1215
+msgid "When Piranha Marsh enters the battlefield, target player loses 1 life."
+msgstr ""
+
+#: ../../ZEN.rst:1222
+msgid ""
+":mtgtip:`Scalding "
+"Tarn<https://img.scryfall.com/cards/border_crop/en/zen/223.jpg?1517813031|https://scryfall.com/card/zen/223"
+"/scalding-tarn?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1221
+msgid ""
+"|tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an "
+"Island or Mountain card, put it onto the battlefield, then shuffle your "
+"library."
+msgstr ""
+
+#: ../../ZEN.rst:1230
+msgid ""
+":mtgtip:`Sejiri "
+"Refuge<https://img.scryfall.com/cards/border_crop/en/zen/224.jpg?1517813031|https://scryfall.com/card/zen/224"
+"/sejiri-refuge?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1225
+msgid "Sejiri Refuge enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1227
+msgid "When Sejiri Refuge enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../ZEN.rst:1229
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../ZEN.rst:1238
+msgid ""
+":mtgtip:`Soaring "
+"Seacliff<https://img.scryfall.com/cards/border_crop/en/zen/225.jpg?1517813031|https://scryfall.com/card/zen/225"
+"/soaring-seacliff?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1233
+msgid "Soaring Seacliff enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1235
+msgid ""
+"When Soaring Seacliff enters the battlefield, target creature gains "
+"flying until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:1246
+msgid ""
+":mtgtip:`Teetering "
+"Peaks<https://img.scryfall.com/cards/border_crop/en/zen/226.jpg?1517813031|https://scryfall.com/card/zen/226"
+"/teetering-peaks?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1241
+msgid "Teetering Peaks enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1243
+msgid ""
+"When Teetering Peaks enters the battlefield, target creature gets +2/+0 "
+"until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:1245 ../../ZEN.rst:1261
+msgid "|tap|: Add |mana_r|."
+msgstr ""
+
+#: ../../ZEN.rst:1254
+msgid ""
+":mtgtip:`Turntimber "
+"Grove<https://img.scryfall.com/cards/border_crop/en/zen/227.jpg?1517813031|https://scryfall.com/card/zen/227"
+"/turntimber-grove?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1249
+msgid "Turntimber Grove enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1251
+msgid ""
+"When Turntimber Grove enters the battlefield, target creature gets +1/+1 "
+"until end of turn."
+msgstr ""
+
+#: ../../ZEN.rst:1262
+msgid ""
+":mtgtip:`Valakut, the Molten "
+"Pinnacle<https://img.scryfall.com/cards/border_crop/en/zen/228.jpg?1517813031|https://scryfall.com/card/zen/228"
+"/valakut-the-molten-pinnacle?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1257
+msgid "Valakut, the Molten Pinnacle enters the battlefield tapped."
+msgstr ""
+
+#: ../../ZEN.rst:1259
+msgid ""
+"Whenever a Mountain enters the battlefield under your control, if you "
+"control at least five other Mountains, you may have Valakut, the Molten "
+"Pinnacle deal 3 damage to any target."
+msgstr ""
+
+#: ../../ZEN.rst:1266
+msgid ""
+":mtgtip:`Verdant "
+"Catacombs<https://img.scryfall.com/cards/border_crop/en/zen/229.jpg?1517813031|https://scryfall.com/card/zen/229"
+"/verdant-catacombs?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1265
+msgid ""
+"|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a"
+" Swamp or Forest card, put it onto the battlefield, then shuffle your "
+"library."
+msgstr ""
+
+#: ../../ZEN.rst:1270
+msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/zen/230.jpg?1517813031|https://scryfall.com/card/zen/230/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1269
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../ZEN.rst:1274
+msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/zen/234.jpg?1517813031|https://scryfall.com/card/zen/234/island?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1273
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../ZEN.rst:1278
+msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/zen/238.jpg?1517813031|https://scryfall.com/card/zen/238/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1277
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../ZEN.rst:1282
+msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/zen/242.jpg?1517813031|https://scryfall.com/card/zen/242/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1281
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../ZEN.rst:1285
+msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/zen/246.jpg?1517813031|https://scryfall.com/card/zen/246/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../ZEN.rst:1285
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+
