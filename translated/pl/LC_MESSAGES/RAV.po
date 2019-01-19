@@ -2,19 +2,22 @@
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
-#, fuzzy
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/rav/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../RAV.rst:5
@@ -83,7 +86,7 @@ msgstr ""
 #: ../../RAV.rst:779 ../../RAV.rst:1101 ../../RAV.rst:1199 ../../RAV.rst:1221
 #: ../../RAV.rst:1383
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../RAV.rst:25
 msgid "Creatures can't attack you."
@@ -184,7 +187,7 @@ msgstr ""
 #: ../../RAV.rst:565 ../../RAV.rst:651 ../../RAV.rst:693 ../../RAV.rst:831
 #: ../../RAV.rst:883 ../../RAV.rst:1117
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../RAV.rst:63
 msgid "Enchanted creature gets +0/+2 for each other creature you control."
@@ -199,7 +202,7 @@ msgstr ""
 
 #: ../../RAV.rst:67
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../RAV.rst:74
 msgid ""
@@ -2623,7 +2626,7 @@ msgstr ""
 
 #: ../../RAV.rst:1015
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../RAV.rst:1017
 msgid "Target player draws two cards."
@@ -3921,4 +3924,3 @@ msgstr ""
 #: ../../RAV.rst:1533
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
-

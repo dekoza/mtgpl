@@ -2,19 +2,22 @@
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
-#, fuzzy
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/tor/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../TOR.rst:5
@@ -43,7 +46,7 @@ msgstr ""
 #: ../../TOR.rst:223 ../../TOR.rst:249 ../../TOR.rst:259 ../../TOR.rst:279
 #: ../../TOR.rst:341 ../../TOR.rst:359 ../../TOR.rst:483
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../TOR.rst:15
 msgid ""
@@ -97,7 +100,7 @@ msgstr ""
 #: ../../TOR.rst:31 ../../TOR.rst:101 ../../TOR.rst:211 ../../TOR.rst:265
 #: ../../TOR.rst:457 ../../TOR.rst:491 ../../TOR.rst:533
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../TOR.rst:33
 msgid "As Floating Shield enters the battlefield, choose a color."
@@ -2131,4 +2134,3 @@ msgid ""
 "|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you "
 "control a Swamp."
 msgstr ""
-

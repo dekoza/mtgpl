@@ -2,19 +2,22 @@
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
-#, fuzzy
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/hml/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../HML.rst:5
@@ -141,7 +144,7 @@ msgstr ""
 #: ../../HML.rst:45 ../../HML.rst:137 ../../HML.rst:209 ../../HML.rst:297
 #: ../../HML.rst:441 ../../HML.rst:511 ../../HML.rst:565
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../HML.rst:47
 msgid "|mana_1|\\ |mana_w|: Mesa Falcon gets +0/+1 until end of turn."
@@ -213,7 +216,7 @@ msgstr ""
 #: ../../HML.rst:71 ../../HML.rst:245 ../../HML.rst:251 ../../HML.rst:309
 #: ../../HML.rst:385 ../../HML.rst:429 ../../HML.rst:467
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../HML.rst:73
 msgid ""
@@ -1631,4 +1634,3 @@ msgstr ""
 #: ../../HML.rst:615
 msgid "|mana_2|, |tap|: Add |mana_w| or |mana_b|."
 msgstr ""
-

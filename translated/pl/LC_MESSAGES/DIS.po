@@ -2,19 +2,22 @@
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
-#, fuzzy
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/dis/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../DIS.rst:5
@@ -73,7 +76,7 @@ msgstr ""
 #: ../../DIS.rst:431 ../../DIS.rst:501 ../../DIS.rst:633 ../../DIS.rst:693
 #: ../../DIS.rst:729 ../../DIS.rst:741 ../../DIS.rst:767 ../../DIS.rst:785
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../DIS.rst:25
 msgid ""
@@ -96,7 +99,7 @@ msgstr ""
 #: ../../DIS.rst:423 ../../DIS.rst:543 ../../DIS.rst:685 ../../DIS.rst:823
 #: ../../DIS.rst:831
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../DIS.rst:33
 msgid "Enchanted creature gets +1/+1 for each of its colors."
@@ -2825,4 +2828,3 @@ msgstr ""
 #: ../../DIS.rst:1053
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
-

@@ -2,19 +2,22 @@
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
-#, fuzzy
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/dst/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../DST.rst:5
@@ -32,7 +35,7 @@ msgstr ""
 msgid ""
 "As long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first "
 "strike."
-msgstr ""
+msgstr "O ile ten stwór jest wyposażony, dostaje +1/+1 i ma pierwszy cios."
 
 #: ../../DST.rst:14
 msgid ""
@@ -59,13 +62,15 @@ msgstr ""
 #: ../../DST.rst:331 ../../DST.rst:545 ../../DST.rst:589 ../../DST.rst:629
 #: ../../DST.rst:793
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../DST.rst:19
 msgid ""
 "Whenever Emissary of Hope deals combat damage to a player, you gain 1 "
 "life for each artifact that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, zyskujesz 1 życie za każdy "
+"artefakt pod władaniem owego gracza."
 
 #: ../../DST.rst:24
 msgid ":mtgtip:`Hallow<https://img.scryfall.com/cards/border_crop/en/dst/4.jpg?1517813031|https://scryfall.com/card/dst/4/hallow?utm_source=api>`"
@@ -86,11 +91,11 @@ msgstr ""
 
 #: ../../DST.rst:27
 msgid "|tap|: Target creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany stwór dostaje +1/+1 do końca tury."
 
 #: ../../DST.rst:29
 msgid "Whenever you cast a spell, you may untap Leonin Battlemage."
-msgstr ""
+msgstr "Ilekroć rzucisz czar, możesz odkręcić tego stwora."
 
 #: ../../DST.rst:34
 msgid ""
@@ -101,7 +106,7 @@ msgstr ""
 
 #: ../../DST.rst:33
 msgid "You may activate equip abilities any time you could cast an instant."
-msgstr ""
+msgstr "Możesz aktywować zdolności wyposażania jak sztuczki."
 
 #: ../../DST.rst:38
 msgid ""
@@ -123,7 +128,7 @@ msgstr ""
 
 #: ../../DST.rst:41
 msgid "Tap all artifacts."
-msgstr ""
+msgstr "Przekręć wszystkie artefakty."
 
 #: ../../DST.rst:50
 msgid ""
@@ -140,7 +145,7 @@ msgstr ""
 
 #: ../../DST.rst:49
 msgid "Whenever you cast a spell, you may untap Pristine Angel."
-msgstr ""
+msgstr "Ilekroć rzucisz czar, możesz odkręcić tego stwora."
 
 #: ../../DST.rst:56
 msgid ""
@@ -151,7 +156,7 @@ msgstr ""
 
 #: ../../DST.rst:55
 msgid "Sacrifice Pteron Ghost: Regenerate target artifact."
-msgstr ""
+msgstr "Poświęć tego stwora: Zregeneruj wskazany artefakt."
 
 #: ../../DST.rst:60
 msgid ""
@@ -175,6 +180,7 @@ msgid ""
 "Destroy target artifact creature or black creature. It can't be "
 "regenerated."
 msgstr ""
+"Zniszcz wskazany artefakt lub czarnego stwora. Nie może zostać zregenerowany."
 
 #: ../../DST.rst:68
 msgid ""
@@ -193,7 +199,7 @@ msgstr ""
 
 #: ../../DST.rst:71
 msgid "Destroy all nonartifact permanents."
-msgstr ""
+msgstr "Zniszcz wszystkie nieartefaktyczne permanenty."
 
 #: ../../DST.rst:76
 msgid ""
@@ -219,21 +225,24 @@ msgstr ""
 #: ../../DST.rst:79 ../../DST.rst:179 ../../DST.rst:283 ../../DST.rst:293
 #: ../../DST.rst:355 ../../DST.rst:425
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../DST.rst:81
 msgid "Creatures you control get +2/+2 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+2 do końca tury."
 
 #: ../../DST.rst:83
 msgid ""
 "Until end of turn, creatures you control gain \"Whenever this creature "
 "deals damage, you gain that much life.\""
 msgstr ""
+"Do końca tury stwory pod twoim władaniem zyskują \"Ilekroć ten stwór zada "
+"obrażenie, zyskujesz tyle samo życia.\""
 
 #: ../../DST.rst:85
 msgid "Entwine |mana_1|\\ |mana_w| (Choose both if you pay the entwine cost.)"
 msgstr ""
+"Splątanie |mana_1|\\ |mana_w| (Wybierz oba jeśli zapłaciłeś koszt splątania.)"
 
 #: ../../DST.rst:90
 msgid ""
@@ -271,7 +280,7 @@ msgstr ""
 
 #: ../../DST.rst:97
 msgid "Enchant Equipment"
-msgstr ""
+msgstr "Zaurocz Ekwipunek"
 
 #: ../../DST.rst:99
 msgid "When Carry Away enters the battlefield, unattach enchanted Equipment."
@@ -279,7 +288,7 @@ msgstr ""
 
 #: ../../DST.rst:101
 msgid "You control enchanted Equipment."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym Ekwipunkiem."
 
 #: ../../DST.rst:110
 msgid ""
@@ -728,7 +737,7 @@ msgstr ""
 
 #: ../../DST.rst:271
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../DST.rst:273
 msgid "Enchanted creature gets -1/-1."
@@ -2381,4 +2390,3 @@ msgid ""
 "|tap|, Remove a charge counter from Mirrodin's Core: Add one mana of any "
 "color."
 msgstr ""
-

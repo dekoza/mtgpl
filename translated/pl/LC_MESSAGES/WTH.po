@@ -2,19 +2,22 @@
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
-#, fuzzy
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/wth/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../WTH.rst:5
@@ -47,7 +50,7 @@ msgstr ""
 #: ../../WTH.rst:283 ../../WTH.rst:293 ../../WTH.rst:299 ../../WTH.rst:337
 #: ../../WTH.rst:367 ../../WTH.rst:393 ../../WTH.rst:399
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../WTH.rst:17
 msgid "When Alabaster Dragon dies, shuffle it into its owner's library."
@@ -199,7 +202,7 @@ msgstr ""
 #: ../../WTH.rst:227 ../../WTH.rst:265 ../../WTH.rst:345 ../../WTH.rst:465
 #: ../../WTH.rst:625 ../../WTH.rst:699
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../WTH.rst:67
 msgid "Enchanted creature gets +1/+1 for each card in your hand."
@@ -1581,7 +1584,7 @@ msgstr ""
 
 #: ../../WTH.rst:593
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../WTH.rst:595
 msgid "Thunderbolt deals 3 damage to target player or planeswalker."
@@ -2278,4 +2281,3 @@ msgid ""
 "|mana_2|, |tap|: You may cast creature spells this turn as though they "
 "had flash."
 msgstr ""
-

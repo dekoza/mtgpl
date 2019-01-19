@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/lrw/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../LRW.rst:5
 msgid ":mtgexp:`LRW` Lorwyn"
@@ -126,7 +129,7 @@ msgstr ""
 #: ../../LRW.rst:819
 #: ../../LRW.rst:1399
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../LRW.rst:44
 msgid ":mtgtip:`Battle Mastery<https://img.scryfall.com/cards/border_crop/en/lrw/5.jpg?1517813031|https://scryfall.com/card/lrw/5/battle-mastery?utm_source=api>`"
@@ -141,7 +144,7 @@ msgstr ""
 #: ../../LRW.rst:1163
 #: ../../LRW.rst:1257
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../LRW.rst:43
 msgid "Enchanted creature has double strike. (It deals both first-strike and regular combat damage.)"
@@ -1206,7 +1209,7 @@ msgstr ""
 #: ../../LRW.rst:907
 #: ../../LRW.rst:991
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../LRW.rst:651
 msgid "All creatures get +2/+0 until end of turn."
