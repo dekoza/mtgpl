@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-18 08:46+0000\n"
+"PO-Revision-Date: 2019-01-19 20:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
@@ -446,6 +446,8 @@ msgid ""
 "When Inspiring Captain enters the battlefield, creatures you control get +1/"
 "+1 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają +1/"
+"+1 do końca tury."
 
 #: ../../SOI.rst:164
 msgid ""
@@ -1316,7 +1318,7 @@ msgstr ""
 
 #: ../../SOI.rst:479
 msgid "|tap|: Target player draws a card, then discards a card."
-msgstr ""
+msgstr "|tap|: Wskazany gracz dobiera kartę, następnie odrzuca kartę."
 
 #: ../../SOI.rst:484
 msgid ""
