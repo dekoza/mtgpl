@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 20:54+0000\n"
+"PO-Revision-Date: 2019-01-19 22:36+0000\n"
 "Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -1032,13 +1032,15 @@ msgstr ""
 #: ../../HOU.rst:325
 msgid ""
 "Whenever an opponent casts a spell, put a -1/-1 counter on Ammit Eternal."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuca czar, umieść znacznik -1/-1 na tym stworze."
 
 #: ../../HOU.rst:327
 msgid ""
 "Whenever Ammit Eternal deals combat damage to a player, remove all -1/-1 "
 "counters from it."
 msgstr ""
+"Ilekroć ten stwór zadaje obrażenia bojowe graczowi, zdejmij z niego "
+"wszystkie znaczniki -1/-1."
 
 #: ../../HOU.rst:336
 msgid ""
@@ -1052,12 +1054,15 @@ msgid ""
 "Apocalypse Demon's power and toughness are each equal to the number of cards "
 "in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tego stwora są równe liczbie kart w twoim cmentarzu."
 
 #: ../../HOU.rst:335
 msgid ""
 "At the beginning of your upkeep, tap Apocalypse Demon unless you sacrifice "
 "another creature."
 msgstr ""
+"Na początku twojego kroku utrzymania, przekręć tego stwora, chyba że "
+"poświęcisz innego stwora."
 
 #: ../../HOU.rst:342
 msgid ""
@@ -1071,12 +1076,16 @@ msgid ""
 "When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter "
 "on target creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz położyć znacznik -1/-1 na "
+"wskazanym stworze."
 
 #: ../../HOU.rst:341
 msgid ""
 "|mana_b|, Sacrifice Banewhip Punisher: Destroy target creature that has a "
 "-1/-1 counter on it."
 msgstr ""
+"|mana_b|, poświęć tego stwora: Zniszcz wskazanego stwora, który ma na sobie "
+"znacznik -1/-1."
 
 #: ../../HOU.rst:346
 msgid ""
@@ -1133,6 +1142,8 @@ msgid ""
 "Whenever Dreamstealer deals combat damage to a player, that player discards "
 "that many cards."
 msgstr ""
+"Ilekroć ten stwór zadaje obrażenia bojowe graczowi, ten gracz odrzuca tyle "
+"samo kart."
 
 #: ../../HOU.rst:365
 msgid ""
@@ -1158,6 +1169,8 @@ msgid ""
 "Whenever you cycle or discard a card, Grisly Survivor gets +2/+0 until end "
 "of turn."
 msgstr ""
+"Ilekroć recyklujesz lub odrzucasz kartę, ten stwór otrzymuje +2/+0 do końca "
+"tury."
 
 #: ../../HOU.rst:374
 msgid ""
@@ -1196,6 +1209,8 @@ msgid ""
 "As an additional cost to cast this spell, put a -1/-1 counter on a creature "
 "you control."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru, umieść znacznik -1/-1 na stworze "
+"pod twoim władaniem."
 
 #: ../../HOU.rst:383
 msgid "Destroy target creature."
@@ -1234,7 +1249,7 @@ msgstr ""
 
 #: ../../HOU.rst:395
 msgid "Marauding Boneslasher can't block unless you control another Zombie."
-msgstr ""
+msgstr "Ten stwór nie może blokować, chyba że władasz innym Zombi."
 
 #: ../../HOU.rst:402
 msgid ""
@@ -1248,6 +1263,7 @@ msgid ""
 "|mana_2|\\ |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end "
 "of turn."
 msgstr ""
+"|mana_2|\\ |mana_b|, odrzuć kartę: Ten stwór otrzymuje +2/+2 do końca tury."
 
 #: ../../HOU.rst:408
 msgid ""
@@ -1275,6 +1291,8 @@ msgid ""
 "Pay 2 life, Sacrifice another creature: Search your library for a card and "
 "put that card into your hand. Then shuffle your library."
 msgstr ""
+"Zapłać 2 życia, poświęć innego stwora: Poszukaj w twojej bibliotece karty i "
+"dołóż ją do twojej ręki. Następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:420
 msgid ""
@@ -1301,7 +1319,7 @@ msgstr "Dotyk śmierci"
 
 #: ../../HOU.rst:425
 msgid "When Ruin Rat dies, exile target card from an opponent's graveyard."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wygnaj wskazaną kartę z cmentarza przeciwnika."
 
 #: ../../HOU.rst:430
 msgid ""
@@ -1343,6 +1361,8 @@ msgid ""
 "At the beginning of enchanted player's upkeep, that player loses 3 life "
 "unless they sacrifice a nonland permanent or discard a card."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, ów gracz traci 3 życia, "
+"chyba że poświęci nielądowy permanent lub odrzuci kartę."
 
 #: ../../HOU.rst:444
 msgid ""
@@ -1356,6 +1376,8 @@ msgid ""
 "Put three -1/-1 counters on target creature. Its controller loses 3 life "
 "unless they sacrifice another nonland permanent or discards a card."
 msgstr ""
+"Umieść trzy znaczniki -1/-1 na wskazanym stworze. Jego władca traci 3 życia, "
+"chyba że poświęci nielądowy permanent lub odrzuci kartę."
 
 #: ../../HOU.rst:450
 msgid ""
@@ -1396,6 +1418,8 @@ msgid ""
 "When Wretched Camel dies, if you control a Desert or there is a Desert card "
 "in your graveyard, target player discards a card."
 msgstr ""
+"Kiedy ten stwór umrze, jeśli władasz Pustynią lub w twoim cmentarzu znajduje "
+"się karta Pustyni, wskazany gracz odrzuca kartę."
 
 #: ../../HOU.rst:468
 msgid ""
@@ -1405,7 +1429,7 @@ msgstr ""
 
 #: ../../HOU.rst:465
 msgid "Abrade deals 3 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia wskazanemu stworowi."
 
 #: ../../HOU.rst:467
 msgid "Destroy target artifact."
@@ -1423,6 +1447,8 @@ msgid ""
 "Put a -1/-1 counter on target creature. Blur of Blades deals 2 damage to "
 "that creature's controller."
 msgstr ""
+"Umieść znacznik -1/-1 na wskazanym stworze. Ten czar zadaje 2 obrażenia "
+"władcy owego stwora."
 
 #: ../../HOU.rst:478
 msgid ""
@@ -1440,6 +1466,7 @@ msgid ""
 "|mana_1|\\ |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until "
 "end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|, odrzuć kartę: Ten stwór dostaje +2/+0 do końca tury."
 
 #: ../../HOU.rst:482
 msgid ""
@@ -1454,6 +1481,9 @@ msgid ""
 "If that permanent is a Chandra planeswalker, you may discard a card. If you "
 "do, draw a card."
 msgstr ""
+"Ten czar zadaje 5 obrażeń wskazanemu czerwonemu stworowi lub czerwonemu "
+"wędrowcowi. Jeśli ów permanent jest wędrowcem o typie Chandra, możesz "
+"odrzucić kartę. Jeśli to zrobisz, dobierz kartę."
 
 #: ../../HOU.rst:486
 msgid ""
@@ -1466,6 +1496,8 @@ msgid ""
 "When Chaos Maw enters the battlefield, it deals 3 damage to each other "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje 3 obrażenia każdemu innemu "
+"stworowi."
 
 #: ../../HOU.rst:492
 msgid ""
@@ -1511,6 +1543,8 @@ msgid ""
 "When Earthshaker Khenra enters the battlefield, target creature with power "
 "less than or equal to Earthshaker Khenra's power can't block this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór o sile mniejszej lub "
+"równej sile tego stwora nie może blokować w tej turze."
 
 #: ../../HOU.rst:503
 msgid ""
@@ -1534,13 +1568,15 @@ msgstr ""
 #: ../../HOU.rst:507
 msgid ""
 "|tap|: Fervent Paincaster deals 1 damage to target player or planeswalker."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje 1 obrażenie wskazanemu graczowi lub wędrowcowi."
 
 #: ../../HOU.rst:509
 msgid ""
 "|tap|, Exert Fervent Paincaster: It deals 1 damage to target creature. (An "
 "exerted creature won't untap during your next untap step.)"
 msgstr ""
+"|tap|, wytęż tego stwora: Ten stwór zadaje 1 obrażenie wskazanemu stworowi. ("
+"Wytężony stwór nie odkręci się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:514
 msgid ""
@@ -1554,6 +1590,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to "
 "each opponent."
 msgstr ""
+"Ilekroć rzucasz czar nie będący stworem, ten stwór zadaje 1 obrażenie "
+"każdemu przeciwnikowi."
 
 #: ../../HOU.rst:520
 msgid ""
@@ -1564,7 +1602,7 @@ msgstr ""
 
 #: ../../HOU.rst:519
 msgid "|mana_1|\\ |mana_r|: Frontline Devastator gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../HOU.rst:524
 msgid ""
@@ -1578,6 +1616,8 @@ msgid ""
 "Whenever Gilded Cerodon attacks, if you control a Desert or there is a "
 "Desert card in your graveyard, target creature can't block this turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, jeśli władasz Pustynią lub w twoim cmentarzu "
+"znajduje się karta Pustyni, wskazany stwór nie może blokować w tej turze."
 
 #: ../../HOU.rst:530
 msgid ""
@@ -1600,6 +1640,10 @@ msgid ""
 "paying their mana costs. Lands you control don't untap during your next "
 "untap step."
 msgstr ""
+"Przetasuj swoją bibliotekę, a następnie wygnaj jej cztery wierzchnie karty. "
+"Możesz rzucić dowolną liczbę nielądowych kart o skróconym koszcie many 5 lub "
+"mniejszym spośród nich bez płacenia ich kosztów many. Lądy, którymi władasz, "
+"nie odkręcą się w twoim najbliższym kroku odkręcania."
 
 #: ../../HOU.rst:538
 msgid ""
@@ -1613,6 +1657,8 @@ msgid ""
 "All creatures lose indestructible until end of turn. Hour of Devastation "
 "deals 5 damage to each creature and each non-Bolas planeswalker."
 msgstr ""
+"Wszystkie stwory tracą niezniszczalność do końca tury. Ten czar zadaje 5 "
+"obrażeń każdemu stworowi i każdemu wędrowcowi bez typu Bolas."
 
 #: ../../HOU.rst:544
 msgid ""
@@ -1623,7 +1669,7 @@ msgstr ""
 
 #: ../../HOU.rst:541
 msgid "Imminent Doom enters the battlefield with a doom counter on it."
-msgstr ""
+msgstr "Ten urok wchodzi na pole walki ze znacznikiem zagłady."
 
 #: ../../HOU.rst:543
 msgid ""
@@ -1631,6 +1677,9 @@ msgid ""
 "doom counters on Imminent Doom, Imminent Doom deals that much damage to any "
 "target. Then put a doom counter on Imminent Doom."
 msgstr ""
+"Ilekroć rzucasz czar o skróconym koszcie many równym liczbie znaczników "
+"zagłady na tym uroku, ten urok zadaje tyle obrażeń dowolnie wskazanemu "
+"celowi. Następnie umieść znacznik zagłady na tym uroku."
 
 #: ../../HOU.rst:550
 msgid ""
@@ -1640,7 +1689,7 @@ msgstr ""
 
 #: ../../HOU.rst:547
 msgid "Inferno Jet deals 6 damage to target opponent or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 6 obrażeń wskazanemu przeciwnikowi lub wędrowcowi."
 
 #: ../../HOU.rst:556
 msgid ""
@@ -1655,6 +1704,9 @@ msgid ""
 "until end of turn. (An exerted creature won't untap during your next untap "
 "step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, otrzymuje on +2/+0 "
+"do końca tury. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
+"odkręcania.)"
 
 #: ../../HOU.rst:560
 msgid ""
@@ -1665,7 +1717,7 @@ msgstr ""
 
 #: ../../HOU.rst:559
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór otrzymuje +1/+0 i zyskuje pierwszy cios do końca tury."
 
 #: ../../HOU.rst:566
 msgid ""
@@ -1676,11 +1728,14 @@ msgstr ""
 #: ../../HOU.rst:563
 msgid "At the beginning of your upkeep, put a -1/-1 counter on Magmaroth."
 msgstr ""
+"Na początku twojego kroku utrzymania, połóż znacznik -1/-1 na tym stworze."
 
 #: ../../HOU.rst:565
 msgid ""
 "Whenever you cast a noncreature spell, remove a -1/-1 counter from Magmaroth."
 msgstr ""
+"Ilekroć rzucasz czar nie będący stworem, zdejmij znacznik -1/-1 z tego "
+"stwora."
 
 #: ../../HOU.rst:572
 msgid ""
@@ -1691,7 +1746,7 @@ msgstr ""
 
 #: ../../HOU.rst:571
 msgid "Manticore Eternal attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../HOU.rst:578
 msgid ""
@@ -1705,6 +1760,8 @@ msgid ""
 "At the beginning of your postcombat main phase, add |mana_r| for each 1 life "
 "your opponents have lost this turn."
 msgstr ""
+"Na początku twojej drugiej fazy głównej, dostajesz |mana_r| za każde 1 "
+"życie, które w tej turze stracili twoi przeciwnicy."
 
 #: ../../HOU.rst:582
 msgid ""
@@ -1714,7 +1771,7 @@ msgstr ""
 
 #: ../../HOU.rst:581
 msgid "Open Fire deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia w dowolnie wskazany cel."
 
 #: ../../HOU.rst:586
 msgid ""
@@ -1728,6 +1785,8 @@ msgid ""
 "Puncturing Blow deals 5 damage to target creature. If that creature would "
 "die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 5 obrażeń. Jeśli ów stwór miałby umrzeć "
+"w tej turze, zamiast tego wygnaj go."
 
 #: ../../HOU.rst:590
 msgid ""
@@ -1742,6 +1801,9 @@ msgid ""
 "is a Desert card in your graveyard, you may have Sand Strangler deal 3 "
 "damage to target creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz Pustynią lub w twoim "
+"cmentarzu znajduje się karta Pustyni, możesz sprawić, by ten stwór zadał "
+"wskazanemu stworowi 3 obrażenia."
 
 #: ../../HOU.rst:596
 msgid ""
@@ -1752,7 +1814,7 @@ msgstr ""
 
 #: ../../HOU.rst:595
 msgid "Thorned Moloch has first strike as long as it's attacking."
-msgstr ""
+msgstr "O ile ten stwór atakuje, ma pierwszy cios."
 
 #: ../../HOU.rst:602
 msgid ""
@@ -1772,6 +1834,8 @@ msgid ""
 "Whenever Wildfire Eternal attacks and isn't blocked, you may cast an instant "
 "or sorcery card from your hand without paying its mana cost."
 msgstr ""
+"Ilekroć ten stwór atakuje i nie zostaje zablokowany, możesz rzucić kartę "
+"sztuczki lub obrzędu z twojej ręki bez płacenia jej kosztu many."
 
 #: ../../HOU.rst:606
 msgid ""
