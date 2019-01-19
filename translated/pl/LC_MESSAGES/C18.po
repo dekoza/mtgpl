@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-18 08:46+0000\n"
+"PO-Revision-Date: 2019-01-19 20:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -827,7 +827,7 @@ msgstr ""
 #: ../../C18.rst:393
 #: ../../C18.rst:1019
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../C18.rst:395
 msgid "|tap|: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control."
@@ -1355,10 +1355,14 @@ msgstr ""
 #: ../../C18.rst:685
 msgid "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../C18.rst:687
 msgid "Tap two untapped artifacts you control: Target creature can't be blocked this turn."
 msgstr ""
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Wskazany stwór nie "
+"może być blokowany w tej turze."
 
 #: ../../C18.rst:692
 msgid ":mtgtip:`Whitewater Naiads<https://img.scryfall.com/cards/border_crop/en/c18/112.jpg?1535503495|https://scryfall.com/card/c18/112/whitewater-naiads?utm_source=api>`"

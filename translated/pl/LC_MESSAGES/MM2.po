@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-19 15:34+0000\n"
+"PO-Revision-Date: 2019-01-19 20:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -156,7 +156,7 @@ msgstr ""
 #: ../../MM2.rst:727
 #: ../../MM2.rst:1011
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../MM2.rst:69
 msgid "Enchanted creature can't attack or block, and its activated abilities can't be activated."
@@ -554,7 +554,7 @@ msgstr ""
 #: ../../MM2.rst:491
 #: ../../MM2.rst:963
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../MM2.rst:264
 msgid ":mtgtip:`Faerie Mechanist<https://img.scryfall.com/cards/border_crop/en/mm2/44.jpg?1517813031|https://scryfall.com/card/mm2/44/faerie-mechanist?utm_source=api>`"
@@ -846,11 +846,11 @@ msgstr ""
 
 #: ../../MM2.rst:427
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../MM2.rst:429
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../MM2.rst:436
 msgid ":mtgtip:`Daggerclaw Imp<https://img.scryfall.com/cards/border_crop/en/mm2/74.jpg?1517813031|https://scryfall.com/card/mm2/74/daggerclaw-imp?utm_source=api>`"
@@ -1614,7 +1614,7 @@ msgstr ""
 #: ../../MM2.rst:871
 #: ../../MM2.rst:1225
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../MM2.rst:861
 msgid "When Pelakka Wurm enters the battlefield, you gain 7 life."

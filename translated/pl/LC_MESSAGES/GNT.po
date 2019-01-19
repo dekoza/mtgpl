@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-01-19 20:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/gnt/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../GNT.rst:5
 msgid ":mtgexp:`GNT` Game Night"
@@ -26,11 +29,13 @@ msgstr ""
 
 #: ../../GNT.rst:9
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../GNT.rst:11
 msgid "When Militant Angel enters the battlefield, create a number of 2/2 white Knight creature tokens with vigilance equal to the number of opponents you attacked this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów białego stwora "
+"Rycerz 2/2 z czujnością, ilu przeciwników zaatakowałeś w tej turze."
 
 #: ../../GNT.rst:20
 msgid ":mtgtip:`Inspired Sphinx<https://img.scryfall.com/cards/border_crop/front/3/a/3a679564-9bd1-4dec-81ee-d97d0291a040.jpg?1543674508|https://scryfall.com/card/gnt/2/inspired-sphinx?utm_source=api>`"
@@ -43,15 +48,19 @@ msgstr ""
 #: ../../GNT.rst:141
 #: ../../GNT.rst:271
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../GNT.rst:17
 msgid "When Inspired Sphinx enters the battlefield, draw cards equal to the number of opponents you have."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dobierz tyle kart, ilu masz "
+"przeciwników."
 
 #: ../../GNT.rst:19
 msgid "|mana_3|\\ |mana_u|: Create a 1/1 colorless Thopter artifact creature token with flying."
 msgstr ""
+"|mana_3|\\ |mana_u|: Stwórz żeton bezkolorowego artefaktycznego stwora "
+"Topter 1/1 z lataniem."
 
 #: ../../GNT.rst:26
 msgid ":mtgtip:`Rot Hulk<https://img.scryfall.com/cards/border_crop/front/c/e/ce9cf26d-f214-4e76-b000-8dd895cce8d9.jpg?1543674517|https://scryfall.com/card/gnt/3/rot-hulk?utm_source=api>`"
@@ -59,11 +68,14 @@ msgstr ""
 
 #: ../../GNT.rst:23
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../GNT.rst:25
 msgid "When Rot Hulk enters the battlefield, return up to X target Zombie cards from your graveyard to the battlefield, where X is the number of opponents you have."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć co najwyżej X wskazanych "
+"kart Zombi z twojego cmentarza na pole walki, gdzie X jest liczbą twoich "
+"przeciwników."
 
 #: ../../GNT.rst:32
 msgid ":mtgtip:`Goblin Goliath<https://img.scryfall.com/cards/border_crop/front/5/9/5973744a-72c3-48e6-b99a-8f6d634c06bb.jpg?1543674526|https://scryfall.com/card/gnt/4/goblin-goliath?utm_source=api>`"
@@ -72,10 +84,15 @@ msgstr ""
 #: ../../GNT.rst:29
 msgid "When Goblin Goliath enters the battlefield, create a number of 1/1 red Goblin creature tokens equal to the number of opponents you have."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów czerwonego stwora "
+"Goblin 1/1, ilu masz przeciwników."
 
 #: ../../GNT.rst:31
 msgid "|mana_3|\\ |mana_r|, |tap|: If a source you control would deal damage to an opponent this turn, it deals double that damage to that player instead."
 msgstr ""
+"|mana_3|\\ |mana_r|, |tap|: Jeśli źródło pod twoim władaniem miałoby zadać "
+"przeciwnikowi obrażenia w tej turze, zamiast tego zadaje owemu graczowi "
+"dwukrotnie tyle obrażeń."
 
 #: ../../GNT.rst:40
 msgid ":mtgtip:`Avatar of Growth<https://img.scryfall.com/cards/border_crop/front/f/5/f524a232-7158-4f85-880e-fede2f9d35d1.jpg?1543674537|https://scryfall.com/card/gnt/5/avatar-of-growth?utm_source=api>`"
@@ -84,15 +101,20 @@ msgstr ""
 #: ../../GNT.rst:35
 msgid "This spell costs |mana_1| less to cast for each opponent you have."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego z posiadanych "
+"przeciwników."
 
 #: ../../GNT.rst:37
 #: ../../GNT.rst:225
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../GNT.rst:39
 msgid "When Avatar of Growth enters the battlefield, each player searches their library for up to two basic land cards, puts them onto the battlefield, then shuffles their library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy gracz szuka w swojej bibliotece "
+"co najwyżej dwóch kart bazowych lądów, umieszcza je na polu walki, następnie "
+"tasuje swoją bibliotekę."
 
 #: ../../GNT.rst:44
 msgid ":mtgtip:`Aerial Responder<https://img.scryfall.com/cards/border_crop/front/b/9/b94b1649-2ce7-40f3-8dff-87bf60d274df.jpg?1543674546|https://scryfall.com/card/gnt/6/aerial-responder?utm_source=api>`"
@@ -100,7 +122,7 @@ msgstr ""
 
 #: ../../GNT.rst:43
 msgid "Flying, vigilance, lifelink"
-msgstr ""
+msgstr "Latanie, czujność, więź życia"
 
 #: ../../GNT.rst:48
 msgid ":mtgtip:`Always Watching<https://img.scryfall.com/cards/border_crop/front/c/f/cf65bfa0-9c05-4e9e-b4c7-d705e1a822c1.jpg?1543674555|https://scryfall.com/card/gnt/7/always-watching?utm_source=api>`"
@@ -108,7 +130,7 @@ msgstr ""
 
 #: ../../GNT.rst:47
 msgid "Nontoken creatures you control get +1/+1 and have vigilance."
-msgstr ""
+msgstr "Nie-żetonowe stwory pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../GNT.rst:52
 msgid ":mtgtip:`Benalish Marshal<https://img.scryfall.com/cards/border_crop/front/f/c/fc395215-a2ec-49e1-9b1b-f8fcfe73e361.jpg?1543674564|https://scryfall.com/card/gnt/8/benalish-marshal?utm_source=api>`"
@@ -116,7 +138,7 @@ msgstr ""
 
 #: ../../GNT.rst:51
 msgid "Other creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../GNT.rst:58
 msgid ":mtgtip:`Bright Reprisal<https://img.scryfall.com/cards/border_crop/front/0/f/0f3044c9-865b-4869-a2c0-ed11a5841bf5.jpg?1543674571|https://scryfall.com/card/gnt/9/bright-reprisal?utm_source=api>`"
@@ -124,12 +146,12 @@ msgstr ""
 
 #: ../../GNT.rst:55
 msgid "Destroy target attacking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora."
 
 #: ../../GNT.rst:57
 #: ../../GNT.rst:119
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../GNT.rst:62
 msgid ":mtgtip:`Call the Cavalry<https://img.scryfall.com/cards/border_crop/front/5/f/5ffd9de5-c0b9-4d41-ab11-c77ce6f67c60.jpg?1543674580|https://scryfall.com/card/gnt/10/call-the-cavalry?utm_source=api>`"
@@ -137,7 +159,7 @@ msgstr ""
 
 #: ../../GNT.rst:61
 msgid "Create two 2/2 white Knight creature tokens with vigilance."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../GNT.rst:66
 msgid ":mtgtip:`Everdawn Champion<https://img.scryfall.com/cards/border_crop/front/4/6/46c38e2a-3a82-402f-a436-f9ebb2ba2ea4.jpg?1543674590|https://scryfall.com/card/gnt/11/everdawn-champion?utm_source=api>`"
@@ -146,6 +168,7 @@ msgstr ""
 #: ../../GNT.rst:65
 msgid "Prevent all combat damage that would be dealt to Everdawn Champion."
 msgstr ""
+"Zażegnaj wszelkie obrażenia bitewne, jakie mogłyby być zadane temu stworowi."
 
 #: ../../GNT.rst:70
 msgid ":mtgtip:`Fan Bearer<https://img.scryfall.com/cards/border_crop/front/4/f/4f587d8d-1bef-4e4b-9b94-94c0ae11bc8f.jpg?1543674599|https://scryfall.com/card/gnt/12/fan-bearer?utm_source=api>`"
@@ -153,7 +176,7 @@ msgstr ""
 
 #: ../../GNT.rst:69
 msgid "|mana_2|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_2|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../GNT.rst:74
 msgid ":mtgtip:`Inspired Charge<https://img.scryfall.com/cards/border_crop/front/8/f/8f5c465a-06bb-4d37-a078-fb4aa10d4da6.jpg?1543674611|https://scryfall.com/card/gnt/13/inspired-charge?utm_source=api>`"
@@ -161,7 +184,7 @@ msgstr ""
 
 #: ../../GNT.rst:73
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../GNT.rst:78
 msgid ":mtgtip:`Inspiring Captain<https://img.scryfall.com/cards/border_crop/front/d/1/d1aab968-fdf2-4035-8c04-04169c113153.jpg?1543674622|https://scryfall.com/card/gnt/14/inspiring-captain?utm_source=api>`"
@@ -170,6 +193,8 @@ msgstr ""
 #: ../../GNT.rst:77
 msgid "When Inspiring Captain enters the battlefield, creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają +1/"
+"+1 do końca tury."
 
 #: ../../GNT.rst:82
 msgid ":mtgtip:`Mesa Unicorn<https://img.scryfall.com/cards/border_crop/front/f/e/fed11288-5c3d-47de-bbad-6ca5912a3bce.jpg?1543674631|https://scryfall.com/card/gnt/15/mesa-unicorn?utm_source=api>`"
@@ -177,7 +202,7 @@ msgstr ""
 
 #: ../../GNT.rst:81
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../GNT.rst:86
 msgid ":mtgtip:`Serra Angel<https://img.scryfall.com/cards/border_crop/front/8/8/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5.jpg?1543674641|https://scryfall.com/card/gnt/16/serra-angel?utm_source=api>`"
@@ -185,7 +210,7 @@ msgstr ""
 
 #: ../../GNT.rst:85
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../GNT.rst:92
 msgid ":mtgtip:`Subjugator Angel<https://img.scryfall.com/cards/border_crop/front/2/3/23b909f8-ad6b-43f0-b517-7d02f2a97cd4.jpg?1543674649|https://scryfall.com/card/gnt/17/subjugator-angel?utm_source=api>`"
@@ -194,6 +219,8 @@ msgstr ""
 #: ../../GNT.rst:91
 msgid "When Subjugator Angel enters the battlefield, tap all creatures your opponents control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wszystkie stwory pod "
+"władaniem twoich przeciwników."
 
 #: ../../GNT.rst:98
 msgid ":mtgtip:`Advanced Stitchwing<https://img.scryfall.com/cards/border_crop/front/f/9/f9c9e68a-6b73-456b-8895-065d26446430.jpg?1543674657|https://scryfall.com/card/gnt/18/advanced-stitchwing?utm_source=api>`"
@@ -202,6 +229,8 @@ msgstr ""
 #: ../../GNT.rst:97
 msgid "|mana_2|\\ |mana_u|, Discard two cards: Return Advanced Stitchwing from your graveyard to the battlefield tapped."
 msgstr ""
+"|mana_2|\\ |mana_u|, odrzuć dwie karty: Przywróć tę kartę z twojego "
+"cmentarza przekręconą na pole walki."
 
 #: ../../GNT.rst:102
 msgid ":mtgtip:`Air Elemental<https://img.scryfall.com/cards/border_crop/front/e/0/e0d11beb-2066-4319-aa56-e63328219509.jpg?1543674665|https://scryfall.com/card/gnt/19/air-elemental?utm_source=api>`"
@@ -210,6 +239,8 @@ msgstr ""
 #: ../../GNT.rst:101
 msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../GNT.rst:110
 msgid ":mtgtip:`Claustrophobia<https://img.scryfall.com/cards/border_crop/front/5/7/57423c8b-ebbc-4d5f-97a7-55a66251cdd8.jpg?1543674673|https://scryfall.com/card/gnt/20/claustrophobia?utm_source=api>`"
@@ -217,15 +248,15 @@ msgstr ""
 
 #: ../../GNT.rst:105
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../GNT.rst:107
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../GNT.rst:109
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../GNT.rst:114
 msgid ":mtgtip:`Favorable Winds<https://img.scryfall.com/cards/border_crop/front/1/d/1de89026-13a6-4ae3-9059-460bdd657285.jpg?1543674681|https://scryfall.com/card/gnt/21/favorable-winds?utm_source=api>`"
@@ -233,7 +264,7 @@ msgstr ""
 
 #: ../../GNT.rst:113
 msgid "Creatures you control with flying get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mające latanie dostają +1/+1."
 
 #: ../../GNT.rst:120
 msgid ":mtgtip:`Hydrolash<https://img.scryfall.com/cards/border_crop/front/5/d/5d219ee8-ca60-4850-9652-a7274eb4c443.jpg?1543674688|https://scryfall.com/card/gnt/22/hydrolash?utm_source=api>`"
@@ -241,7 +272,7 @@ msgstr ""
 
 #: ../../GNT.rst:117
 msgid "Attacking creatures get -2/-0 until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają -2/-0 do końca tury."
 
 #: ../../GNT.rst:124
 msgid ":mtgtip:`Reckless Scholar<https://img.scryfall.com/cards/border_crop/front/5/7/57f29737-40ef-4e2c-a4d3-24b47ff8f97c.jpg?1543674696|https://scryfall.com/card/gnt/23/reckless-scholar?utm_source=api>`"
@@ -249,7 +280,7 @@ msgstr ""
 
 #: ../../GNT.rst:123
 msgid "|tap|: Target player draws a card, then discards a card."
-msgstr ""
+msgstr "|tap|: Wskazany gracz dobiera kartę, następnie odrzuca kartę."
 
 #: ../../GNT.rst:130
 msgid ":mtgtip:`Soulblade Djinn<https://img.scryfall.com/cards/border_crop/front/7/b/7b891276-1645-4e96-b774-647b82bf0e60.jpg?1543674704|https://scryfall.com/card/gnt/24/soulblade-djinn?utm_source=api>`"
@@ -258,6 +289,8 @@ msgstr ""
 #: ../../GNT.rst:129
 msgid "Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem dostają +"
+"1/+1 do końca tury."
 
 #: ../../GNT.rst:136
 msgid ":mtgtip:`Whirler Rogue<https://img.scryfall.com/cards/border_crop/front/0/d/0db2339c-c792-42fd-805b-dc942e7fd91a.jpg?1543674711|https://scryfall.com/card/gnt/25/whirler-rogue?utm_source=api>`"
@@ -266,10 +299,14 @@ msgstr ""
 #: ../../GNT.rst:133
 msgid "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../GNT.rst:135
 msgid "Tap two untapped artifacts you control: Target creature can't be blocked this turn."
 msgstr ""
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Wskazany stwór nie "
+"może być blokowany w tej turze."
 
 #: ../../GNT.rst:142
 msgid ":mtgtip:`Zahid, Djinn of the Lamp<https://img.scryfall.com/cards/border_crop/front/4/6/469e18c7-d023-4293-85e4-1aaf336f5d8c.jpg?1543674719|https://scryfall.com/card/gnt/26/zahid-djinn-of-the-lamp?utm_source=api>`"
@@ -278,6 +315,8 @@ msgstr ""
 #: ../../GNT.rst:139
 msgid "You may pay |mana_3|\\ |mana_u| and tap an untapped artifact you control rather than pay this spell's mana cost."
 msgstr ""
+"Możesz zapłacić |mana_3|\\ |mana_u| i przekręcić odkręcony artefakt pod "
+"twoim władaniem zamiast płacić koszt many tego czaru."
 
 #: ../../GNT.rst:148
 msgid ":mtgtip:`Bone Splinters<https://img.scryfall.com/cards/border_crop/front/5/8/58618b80-0c7e-421a-9f9f-d51a9a7784a4.jpg?1543674727|https://scryfall.com/card/gnt/27/bone-splinters?utm_source=api>`"
@@ -285,11 +324,11 @@ msgstr ""
 
 #: ../../GNT.rst:145
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../GNT.rst:147
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../GNT.rst:152
 msgid ":mtgtip:`Cruel Revival<https://img.scryfall.com/cards/border_crop/front/5/f/5f4b76ac-550e-4450-bade-66b176add109.jpg?1543674735|https://scryfall.com/card/gnt/28/cruel-revival?utm_source=api>`"
