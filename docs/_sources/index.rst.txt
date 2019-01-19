@@ -36,36 +36,12 @@ Standard
 
 Modern
 ------
+* :doc:`Lista dodatków<modern>`
 
-* :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p25|
-* :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|
-* :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|
-* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|
-* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p25|
-* :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p25|
-* :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p25|
-* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p25|
-* :mtgexp:`ORI` :doc:`Origins<ORI>` |p25|
-* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p25|
-* :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|
-* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p75|
-* :mtgexp:`M15` :doc:`Magic 2015 Core Set<M15>` |p25|
-* :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p50|
-* :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|
-* :mtgexp:`THS` :doc:`Theros<THS>` |p100|
-* :mtgexp:`M14` :doc:`Magic 2014 Core Set<M14>` |p100|
-* :mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` |p100|
-* :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|
-* :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|
-* :mtgexp:`M13` :doc:`Core Set 2013<M13>` |p25|
-* :mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|
-* :mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|
-* :mtgexp:`ISD` :doc:`Innistrad<ISD>` |p25|
-* :mtgexp:`M12` :doc:`Core Set 2012<M12>` |p25|
-* :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p25|
+Legacy
+------
+* Wkrótce
 
-* :mtgexp:`M11` :doc:`Core Set 2011<M11>` |p25|
-* :mtgexp:`M10` :doc:`Core Set 2010<M10>` |p25|
 
 Pozostałe produkty
 ==================
@@ -194,9 +170,36 @@ Legal notice
    ISD
    M12
    NPH
-
+   MBS
+   SOM
    M11
+   ROE
+   WWK
+   ZEN
    M10
+   ARB
+   CON
+   ALA
+   EVE
+   SHM
+   MOR
+   LRW
+   10E
+   FUT
+   PLC
+   TSP
+   CSP
+   DIS
+   GPT
+   RAV
+   9ED
+   SOK
+   BOK
+   CHK
+   5DN
+   DST
+   MRD
+   8ED
 
    E02
    BBD
