@@ -57,10 +57,15 @@ Modern
 * :mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` |p100|
 * :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|
 * :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|
+* :mtgexp:`M13` :doc:`Core Set 2013<M13>` |p25|
 * :mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|
 * :mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|
 * :mtgexp:`ISD` :doc:`Innistrad<ISD>` |p25|
+* :mtgexp:`M12` :doc:`Core Set 2012<M12>` |p25|
 * :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p25|
+
+* :mtgexp:`M11` :doc:`Core Set 2011<M11>` |p25|
+* :mtgexp:`M10` :doc:`Core Set 2010<M10>` |p25|
 
 Pozostałe produkty
 ==================
@@ -183,10 +188,15 @@ Legal notice
    DGM
    GTC
    RTR
+   M13
    AVR
    DKA
    ISD
+   M12
    NPH
+
+   M11
+   M10
 
    E02
    BBD
