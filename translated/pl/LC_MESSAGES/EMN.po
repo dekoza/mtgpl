@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-18 08:46+0000\n"
+"PO-Revision-Date: 2019-01-19 15:34+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/emn/pl/>\n"
 "Language: pl\n"
@@ -42,6 +42,8 @@ msgstr ""
 msgid ""
 "When you cast this spell, target opponent loses 3 life and you gain 3 life."
 msgstr ""
+"Kiedy rzucisz ten czar, wskazany przeciwnik traci 3 życia, a ty zyskujesz 3 "
+"życia."
 
 #: ../../EMN.rst:20
 msgid ""
@@ -62,6 +64,8 @@ msgid ""
 "When you cast this spell, creatures you control get +2/+2 and gain trample "
 "until end of turn."
 msgstr ""
+"Kiedy rzucisz ten czar, stwory pod twoim władaniem dostają do końca tury +2/+"
+"2 i tratowanie."
 
 #: ../../EMN.rst:19 ../../EMN.rst:801 ../../EMN.rst:811
 msgid "Trample, haste"
@@ -87,6 +91,9 @@ msgid ""
 "from it a nonland card with converted mana cost 3 or less and a card with "
 "converted mana cost 4 or greater. That player discards those cards."
 msgstr ""
+"Kiedy rzucisz ten czar, wskazany przeciwnik ujawnia swoją rękę. Wybierz z "
+"niej kartę nie będącą lądem o skróconym koszcie many 3 lub mniejszym oraz "
+"kartę o skróconym koszcie many 4 lub większym. Ów gracz odrzuca owe karty."
 
 #: ../../EMN.rst:34
 msgid ""
@@ -134,6 +141,7 @@ msgstr ""
 #: ../../EMN.rst:41
 msgid "When you cast this spell, tap up to four target permanents."
 msgstr ""
+"Kiedy rzucisz ten czar, przekręć co najwyżej cztery wskazane permanenty."
 
 #: ../../EMN.rst:50
 msgid ""
@@ -147,16 +155,21 @@ msgid ""
 "This spell costs |mana_1| less to cast for each card type among cards in "
 "your graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy typ karty spośród "
+"kart w twoim cmentarzu."
 
 #: ../../EMN.rst:47
 msgid ""
 "When you cast this spell, you gain control of target opponent during that "
 "player's next turn. After that turn, that player takes an extra turn."
 msgstr ""
+"Kiedy rzucisz ten czar, zyskujesz władanie nad wskazanym przeciwnikiem w "
+"czasie najbliższej tury owego gracza. Po owej turze ów grasz bierze "
+"dodatkową turę."
 
 #: ../../EMN.rst:49
 msgid "Flying, trample, protection from instants"
-msgstr ""
+msgstr "Latanie, tratowanie, ochrona przed sztuczkami"
 
 #: ../../EMN.rst:56
 msgid ""
@@ -167,13 +180,15 @@ msgstr ""
 
 #: ../../EMN.rst:53
 msgid "You may cast Eternal Scourge from exile."
-msgstr ""
+msgstr "Możesz rzucić tę kartę z wygnania."
 
 #: ../../EMN.rst:55
 msgid ""
 "When Eternal Scourge becomes the target of a spell or ability an opponent "
 "controls, exile Eternal Scourge."
 msgstr ""
+"Kiedy ten stwór zostaje wskazany przez czar lub zdolność pod władaniem "
+"przeciwnika, wygnaj tego stwora."
 
 #: ../../EMN.rst:62
 msgid ""
@@ -191,7 +206,7 @@ msgstr ""
 
 #: ../../EMN.rst:61
 msgid "When you cast this spell, create two 1/1 green Insect creature tokens."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, stwórz dwa żetony zielonego stwora Insekt 1/1."
 
 #: ../../EMN.rst:68
 msgid ""
@@ -212,6 +227,8 @@ msgid ""
 "When you cast this spell, you may put target nonland permanent on top of its "
 "owner's library."
 msgstr ""
+"Kiedy rzucisz ten czar, możesz umieścić wskazany permanent nie będący lądem "
+"na wierzchu biblioteki jego właściciela."
 
 #: ../../EMN.rst:74
 msgid ""
@@ -230,7 +247,7 @@ msgstr ""
 #: ../../EMN.rst:73
 msgid ""
 "When you cast this spell, you may destroy target artifact or enchantment."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, możesz zniszczyć wskazany artefakt lub urok."
 
 #: ../../EMN.rst:80
 msgid ""
@@ -268,7 +285,7 @@ msgstr ""
 
 #: ../../EMN.rst:85
 msgid "When you cast this spell, draw a card."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, dobierz kartę."
 
 #: ../../EMN.rst:87 ../../EMN.rst:151 ../../EMN.rst:267 ../../EMN.rst:291
 #: ../../EMN.rst:313 ../../EMN.rst:353 ../../EMN.rst:359 ../../EMN.rst:429
@@ -288,7 +305,7 @@ msgstr ""
 #: ../../EMN.rst:91 ../../EMN.rst:507
 msgid ""
 "Escalate |mana_2| (Pay this cost for each mode chosen beyond the first.)"
-msgstr ""
+msgstr "Eskalacja |mana_2| (Opłać ten koszt za każdy dodatkowo wybrany tryb.)"
 
 #: ../../EMN.rst:93 ../../EMN.rst:137 ../../EMN.rst:527 ../../EMN.rst:751
 #: ../../EMN.rst:857
@@ -297,15 +314,15 @@ msgstr "Wybierz jedno lub więcej —"
 
 #: ../../EMN.rst:95
 msgid "Target player gains 4 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 4 życia."
 
 #: ../../EMN.rst:97
 msgid "Untap up to two target creatures."
-msgstr ""
+msgstr "Odkręć co najwyżej dwa wskazane stwory."
 
 #: ../../EMN.rst:99
 msgid "Target opponent sacrifices an attacking creature."
-msgstr ""
+msgstr "Wskazany przeciwnik poświęca atakującego stwora."
 
 #: ../../EMN.rst:110
 msgid ""
@@ -319,6 +336,8 @@ msgid ""
 "Escalate |mana_1|\\ |mana_w| (Pay this cost for each mode chosen beyond the "
 "first.)"
 msgstr ""
+"Eskalacja |mana_1|\\ |mana_w| (Opłać ten koszt za każdy dodatkowo wybrany "
+"tryb.)"
 
 #: ../../EMN.rst:105 ../../EMN.rst:509 ../../EMN.rst:737
 msgid "Choose one or both —"
@@ -403,6 +422,8 @@ msgid ""
 "Escalate—Tap an untapped creature you control. (Pay this cost for each mode "
 "chosen beyond the first.)"
 msgstr ""
+"Eskalacja—Przekręć odkręconego stwora pod twoim władaniem. (Opłać ten koszt "
+"za każdy dodatkowo wybrany tryb.)"
 
 #: ../../EMN.rst:139
 msgid "Destroy target creature with power 4 or greater."
@@ -1443,6 +1464,7 @@ msgid ""
 "Escalate—Discard a card. (Pay this cost for each mode chosen beyond the "
 "first.)"
 msgstr ""
+"Eskalacja—Odrzuć kartę. (Opłać ten koszt za każdy dodatkowo wybrany tryb.)"
 
 #: ../../EMN.rst:529
 msgid ""
@@ -2012,7 +2034,7 @@ msgstr ""
 #: ../../EMN.rst:735
 msgid ""
 "Escalate |mana_3| (Pay this cost for each mode chosen beyond the first.)"
-msgstr ""
+msgstr "Eskalacja |mana_3| (Opłać ten koszt za każdy dodatkowo wybrany tryb.)"
 
 #: ../../EMN.rst:739
 msgid "Target creature gets +3/+0 until end of turn."
@@ -2043,7 +2065,7 @@ msgstr ""
 #: ../../EMN.rst:749 ../../EMN.rst:855
 msgid ""
 "Escalate |mana_1| (Pay this cost for each mode chosen beyond the first.)"
-msgstr ""
+msgstr "Eskalacja |mana_1| (Opłać ten koszt za każdy dodatkowo wybrany tryb.)"
 
 #: ../../EMN.rst:753
 msgid ""
