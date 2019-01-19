@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-16 08:38+0000\n"
+"PO-Revision-Date: 2019-01-19 15:34+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/nph/pl/>\n"
 "Language: pl\n"
@@ -32,11 +32,11 @@ msgstr ""
 
 #: ../../NPH.rst:9
 msgid "+4: Target player exiles a card from their hand."
-msgstr ""
+msgstr "+4: Wskazany gracz wydania kartę ze swojej ręki."
 
 #: ../../NPH.rst:11
 msgid "−3: Exile target permanent."
-msgstr ""
+msgstr "–3: Wygnaj wskazany permanent."
 
 #: ../../NPH.rst:13
 msgid ""
@@ -44,6 +44,9 @@ msgid ""
 "with Karn Liberated. Then put those cards onto the battlefield under your "
 "control."
 msgstr ""
+"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
+"będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
+"karty na polu walki pod twoim władaniem."
 
 #: ../../NPH.rst:20
 msgid ""
@@ -60,7 +63,7 @@ msgstr ""
 #: ../../NPH.rst:17 ../../NPH.rst:33 ../../NPH.rst:99 ../../NPH.rst:111
 #: ../../NPH.rst:123
 msgid "(|mana_wp| can be paid with either |mana_w| or 2 life.)"
-msgstr ""
+msgstr "(|mana_wp| może być opłacone przez |mana_w| lub 2 życia.)"
 
 # 43c8b6d8216046eb95203791e4e59097
 #: ../../NPH.rst:19
@@ -101,7 +104,7 @@ msgstr ""
 # 780f0cbf1c33448fba5a772868d314c8
 #: ../../NPH.rst:29
 msgid "Golem creatures you control have first strike."
-msgstr ""
+msgstr "Golemy pod twoim władaniem mają pierwszy cios."
 
 #: ../../NPH.rst:38
 msgid ""
@@ -121,6 +124,8 @@ msgid ""
 "When Cathedral Membrane dies during combat, it deals 6 damage to each "
 "creature it blocked this combat."
 msgstr ""
+"Kiedy ten stwór umrze w trakcie walki, zadaje 6 obrażeń każdemu stworowi, "
+"którego blokował w tej walce."
 
 #: ../../NPH.rst:46
 msgid ""
@@ -135,6 +140,9 @@ msgid ""
 "opponent casts their first spell of the game, counter that spell unless that "
 "player pays |mana_1|."
 msgstr ""
+"Możesz ujawnić tę kartę z twojej początkowej ręki. Jeśli to zrobisz, kiedy "
+"każdy z przeciwników rzuci swój pierwszy czar w grze, skontruj ów czar, "
+"chyba że gracz rzucający go zapłaci |mana_1|."
 
 # fc88ad96ccb84c5a8aa86afa24efd4c8
 # f66a7773e4944a72b50d50c11a6e93e0
@@ -160,6 +168,8 @@ msgid ""
 "Whenever an opponent casts a spell, counter it unless that player pays |"
 "mana_1|."
 msgstr ""
+"Ilekroć przeciwnik rzuca czar, skontruj go, chyba że ów gracz zapłaci "
+"|mana_1|."
 
 #: ../../NPH.rst:52
 msgid ""
@@ -177,6 +187,8 @@ msgstr "Przekręć wskazanego stwora."
 msgid ""
 "Metalcraft — If you control three or more artifacts, exile that creature."
 msgstr ""
+"Metalurgia — Jeśli władasz co najmniej trzema artefaktami, wygnaj owego "
+"stwora."
 
 #: ../../NPH.rst:58
 msgid ""
@@ -187,7 +199,7 @@ msgstr ""
 # 7026f0838a074e42a5656c2797ff5a85
 #: ../../NPH.rst:55
 msgid "Permanents enter the battlefield tapped this turn."
-msgstr ""
+msgstr "W tej turze permanenty wchodzą na pole walki przekręcone."
 
 # bebfab61af8a4746aca95624c8ac5d80
 # b4445deb78854be58856e88455303bc0
@@ -211,12 +223,12 @@ msgstr "Czujność"
 # 85dd054cf1034b169dc92d3f64c60747
 #: ../../NPH.rst:63
 msgid "Other creatures you control get +2/+2."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +2/+2."
 
 # 8294faa87a4445e4be9ee4d4c0dbe53c
 #: ../../NPH.rst:65
 msgid "Creatures your opponents control get -2/-2."
-msgstr ""
+msgstr "Stwory pod władaniem twoich przeciwników dostają -2/-2."
 
 #: ../../NPH.rst:72
 msgid ""
@@ -231,11 +243,13 @@ msgid ""
 "Imprint — When Exclusion Ritual enters the battlefield, exile target nonland "
 "permanent."
 msgstr ""
+"Odlew — Kiedy ta karta wejdzie na pole walki, wygnaj wskazany permanent nie "
+"będący lądem."
 
 # 25d8b2283e4e4792b6db6536f862803a
 #: ../../NPH.rst:71
 msgid "Players can't cast spells with the same name as the exiled card."
-msgstr ""
+msgstr "Gracze nie mogą rzucać czarów o tej samej nazwie, co wygnana karta."
 
 #: ../../NPH.rst:80
 msgid ""
@@ -261,7 +275,7 @@ msgstr "Zauroczony stwór nie może atakować."
 
 #: ../../NPH.rst:79
 msgid "|mana_2|\\ |mana_w|: Return Forced Worship to its owner's hand."
-msgstr ""
+msgstr "|mana_2|\\ |mana_2|: Przywróć ten urok to ręki jego właściciela."
 
 #: ../../NPH.rst:88
 msgid ""
@@ -272,15 +286,15 @@ msgstr ""
 
 #: ../../NPH.rst:83
 msgid "When Inquisitor Exarch enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, wybierz jedno —"
 
 #: ../../NPH.rst:85
 msgid "You gain 2 life."
-msgstr ""
+msgstr "Zyskujesz 2 życia."
 
 #: ../../NPH.rst:87
 msgid "Target opponent loses 2 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 2 życia."
 
 #: ../../NPH.rst:92
 msgid ""
@@ -419,6 +433,8 @@ msgid ""
 "Metalcraft — Equipment you control have equip |mana_0| as long as you "
 "control three or more artifacts."
 msgstr ""
+"Metalurgia — Ekwipunki pod twoim władaniem mają \"Wyposaż |mana_0|\" o ile "
+"władasz przynajmniej trzema artefaktami."
 
 #: ../../NPH.rst:140
 msgid ""
@@ -2044,6 +2060,8 @@ msgid ""
 "Metalcraft — Creatures you control get +3/+0 as long as you control three or "
 "more artifacts."
 msgstr ""
+"Metalurgia — Stwory pod twoim władaniem dostają +3/+0 o ile władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../NPH.rst:756
 msgid ""
