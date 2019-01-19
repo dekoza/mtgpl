@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-18 08:46+0000\n"
+"PO-Revision-Date: 2019-01-19 15:34+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -77,15 +77,18 @@ msgstr ""
 
 #: ../../MM2.rst:29
 msgid "+4: Target player exiles a card from their hand."
-msgstr ""
+msgstr "+4: Wskazany gracz wydania kartę ze swojej ręki."
 
 #: ../../MM2.rst:31
 msgid "−3: Exile target permanent."
-msgstr ""
+msgstr "–3: Wygnaj wskazany permanent."
 
 #: ../../MM2.rst:33
 msgid "−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control."
 msgstr ""
+"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
+"będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
+"karty na polu walki pod twoim władaniem."
 
 #: ../../MM2.rst:42
 msgid ":mtgtip:`Kozilek, Butcher of Truth<https://img.scryfall.com/cards/border_crop/en/mm2/5.jpg?1517813031|https://scryfall.com/card/mm2/5/kozilek-butcher-of-truth?utm_source=api>`"
@@ -137,7 +140,7 @@ msgstr ""
 
 #: ../../MM2.rst:61
 msgid "(|mana_wp| can be paid with either |mana_w| or 2 life.)"
-msgstr ""
+msgstr "(|mana_wp| może być opłacone przez |mana_w| lub 2 życia.)"
 
 #: ../../MM2.rst:63
 msgid "Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn."
@@ -255,6 +258,8 @@ msgstr ""
 #: ../../MM2.rst:103
 msgid "Metalcraft — If you control three or more artifacts, exile that creature."
 msgstr ""
+"Metalurgia — Jeśli władasz co najmniej trzema artefaktami, wygnaj owego "
+"stwora."
 
 #: ../../MM2.rst:112
 msgid ":mtgtip:`Elesh Norn, Grand Cenobite<https://img.scryfall.com/cards/border_crop/en/mm2/16.jpg?1517813031|https://scryfall.com/card/mm2/16/elesh-norn-grand-cenobite?utm_source=api>`"
@@ -266,11 +271,11 @@ msgstr ""
 
 #: ../../MM2.rst:109
 msgid "Other creatures you control get +2/+2."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +2/+2."
 
 #: ../../MM2.rst:111
 msgid "Creatures your opponents control get -2/-2."
-msgstr ""
+msgstr "Stwory pod władaniem twoich przeciwników dostają -2/-2."
 
 #: ../../MM2.rst:120
 msgid ":mtgtip:`Fortify<https://img.scryfall.com/cards/border_crop/en/mm2/17.jpg?1517813031|https://scryfall.com/card/mm2/17/fortify?utm_source=api>`"
