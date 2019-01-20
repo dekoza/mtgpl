@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"PO-Revision-Date: 2019-01-20 15:23+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -1735,15 +1735,14 @@ msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
 
 #: ../../C14.rst:599
-#, fuzzy
 msgid ""
 "Overload |mana_6|\\ |mana_u| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../C14.rst:608
 msgid ""

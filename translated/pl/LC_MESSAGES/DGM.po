@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 14:24+0000\n"
+"PO-Revision-Date: 2019-01-20 15:23+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -712,15 +712,14 @@ msgstr ""
 "tury."
 
 #: ../../DGM.rst:201
-#, fuzzy
 msgid ""
 "Overload |mana_1|\\ |mana_r| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_1|\\ |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przeciążenie |mana_1|\\ |mana_r| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../DGM.rst:208
 msgid ""
@@ -1167,24 +1166,23 @@ msgstr ""
 
 # 3b932b5a75bb4337829cdfe23d6dff32
 #: ../../DGM.rst:331
-#, fuzzy
 msgid ""
 "Until end of turn, target creature you control becomes a blue and red Dragon "
 "with base power and toughness 4/4, loses all abilities, and gains flying."
 msgstr ""
 "Do końca tury, wskazany stwór pod twoim władaniem staje się niebiesko-"
-"czerwonym Smokiem 4/4, traci wszystkie zdolności i zyskuje latanie."
+"czerwonym Smokiem o bazowych sile i wytrzymałości 4/4, traci wszystkie "
+"zdolności i zyskuje latanie."
 
 #: ../../DGM.rst:333
-#, fuzzy
 msgid ""
 "Overload |mana_3|\\ |mana_u|\\ |mana_u|\\ |mana_r|\\ |mana_r| (You may cast "
 "this spell for its overload cost. If you do, change its text by replacing "
 "all instances of \"target\" with \"each.\")"
 msgstr ""
 "Przeciążenie |mana_3|\\ |mana_u|\\ |mana_u|\\ |mana_r|\\ |mana_r| (Możesz "
-"rzucić czar po jego przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego "
-"tekst zamieniając wszystkie słowa \"wskazany\" na \"każdy.\")"
+"rzucić ten czar za jego koszt przeciążenia. Jeśli to zrobisz, zmień jego "
+"tekst zastępując wszystkie wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../DGM.rst:338
 msgid ""

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 13:34+0000\n"
+"PO-Revision-Date: 2019-01-20 15:23+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -503,15 +503,14 @@ msgid "Tap target creature you don't control."
 msgstr "Zaznacz wskazanego stwora, którym nie władasz."
 
 #: ../../RTR.rst:149
-#, fuzzy
 msgid ""
 "Overload |mana_3|\\ |mana_u| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_3| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \\"
-"\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_3|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:154
 msgid ""
@@ -585,15 +584,14 @@ msgstr ""
 "właściciela."
 
 #: ../../RTR.rst:173
-#, fuzzy
 msgid ""
 "Overload |mana_6|\\ |mana_u| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_6| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \\"
-"\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:178
 msgid ""
@@ -638,15 +636,14 @@ msgid "Target creature you don't control gets -4/-0 until end of turn."
 msgstr "Wskazany stwór, którym nie władasz dostaje -4/-0 do końca tury."
 
 #: ../../RTR.rst:189
-#, fuzzy
 msgid ""
 "Overload |mana_2|\\ |mana_u| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_2| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \\"
-"\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_2|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:196
 msgid ""
@@ -773,15 +770,14 @@ msgstr ""
 "tury."
 
 #: ../../RTR.rst:229
-#, fuzzy
 msgid ""
 "Overload |mana_1|\\ |mana_u| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_1| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \\"
-"\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_1|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:236
 msgid ""
@@ -1440,15 +1436,14 @@ msgid "Target creature you control gets +2/+0 until end of turn."
 msgstr "Wskazany stwór pod twoim władaniem dostaje +2/+0 do końca tury."
 
 #: ../../RTR.rst:473
-#, fuzzy
 msgid ""
 "Overload |mana_2|\\ |mana_r| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_2| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \\"
-"\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_2|\\ |mana_r| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:480
 msgid ""
@@ -1458,19 +1453,17 @@ msgstr ""
 
 #: ../../RTR.rst:477
 msgid "Electrickery deals 1 damage to target creature you don't control."
-msgstr ""
-"Wskazany stwór, którym nie władasz, dostaje od Electrickery 1 obrażenie."
+msgstr "Wskazany stwór poza twoim władaniem dostaje od tego czaru 1 obrażenie."
 
 #: ../../RTR.rst:479
-#, fuzzy
 msgid ""
 "Overload |mana_1|\\ |mana_r| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_1| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \\"
-"\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_1|\\ |mana_r| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:484
 msgid ""
@@ -1491,9 +1484,8 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:487
-#, fuzzy
 msgid "Create four 1/1 red Goblin creature tokens."
-msgstr "Umieść na polu walki cztery żetony czerwonego stwora Goblin 1/1."
+msgstr "Stwórz cztery żetony czerwonego stwora Goblin 1/1."
 
 #: ../../RTR.rst:492
 msgid ""
@@ -1534,7 +1526,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to "
 "each opponent."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, Guttersnipe zadaje każdemu "
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór zadaje każdemu "
 "przeciwnikowi po 2 obrażenia."
 
 #: ../../RTR.rst:508
@@ -1571,15 +1563,14 @@ msgstr ""
 "Wskazany stwór, którym nie władasz dostaje od Mizzium Mortars 4 obrażenia."
 
 #: ../../RTR.rst:517
-#, fuzzy
 msgid ""
 "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell "
 "for its overload cost. If you do, change its text by replacing all instances "
 "of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie |mana_3| |mana_r| |mana_r| |mana_r| (Możesz rzucić czar po jego "
-"przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając "
-"wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (Możesz rzucić ten "
+"czar za jego koszt przeciążenia. Jeśli to zrobisz, zmień jego tekst "
+"zastępując wszystkie wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:524
 msgid ""
@@ -1650,15 +1641,14 @@ msgstr ""
 "obrażeń."
 
 #: ../../RTR.rst:545
-#, fuzzy
 msgid ""
 "Overload |mana_x|\\ |mana_x|\\ |mana_r|\\ |mana_r| (You may cast this spell "
 "for its overload cost. If you do, change its text by replacing all instances "
 "of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie |mana_x| |mana_x| |mana_r| |mana_r| (Możesz rzucić czar po jego "
-"przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając "
-"wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_x|\\ |mana_x|\\ |mana_r|\\ |mana_r| (Możesz rzucić ten "
+"czar za jego koszt przeciążenia. Jeśli to zrobisz, zmień jego tekst "
+"zastępując wszystkie wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:550
 msgid ""
@@ -1727,15 +1717,14 @@ msgid "Destroy target artifact you don't control."
 msgstr "Zniszcz wskazany artefakt, którym nie władasz."
 
 #: ../../RTR.rst:569
-#, fuzzy
 msgid ""
 "Overload |mana_4|\\ |mana_r| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_4| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \\"
-"\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_4|\\ |mana_r| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:574
 msgid ""
@@ -2307,15 +2296,14 @@ msgstr ""
 "tej turze jeśli to możliwe."
 
 #: ../../RTR.rst:755 ../../RTR.rst:1063
-#, fuzzy
 msgid ""
 "Overload |mana_3|\\ |mana_u|\\ |mana_r| (You may cast this spell for its "
 "overload cost. If you do, change its text by replacing all instances of "
 "\"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie |mana_3| |mana_u| |mana_r| (Możesz rzucić czar po jego "
-"przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając "
-"wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_3|\\ |mana_u|\\ |mana_r| (Możesz rzucić ten czar za jego "
+"koszt przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:760
 msgid ""
@@ -2367,15 +2355,14 @@ msgid "Counter target spell you don't control."
 msgstr "Skontruj wskazany czar, którym nie władasz."
 
 #: ../../RTR.rst:777
-#, fuzzy
 msgid ""
 "Overload |mana_1|\\ |mana_u|\\ |mana_u|\\ |mana_r| (You may cast this spell "
 "for its overload cost. If you do, change its text by replacing all instances "
 "of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie |mana_1| |mana_u| |mana_u| |mana_r| (Możesz rzucić czar po jego "
-"przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając "
-"wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
+"Przeciążenie |mana_1|\\ |mana_u|\\ |mana_u|\\ |mana_r| (Możesz rzucić ten "
+"czar za jego koszt przeciążenia. Jeśli to zrobisz, zmień jego tekst "
+"zastępując wszystkie wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../RTR.rst:782
 msgid ""
