@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:15+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -2203,13 +2203,12 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:721
-#, fuzzy
 msgid ""
 "When Armada Wurm enters the battlefield, create a 5/5 green Wurm creature "
 "token with trample."
 msgstr ""
-"Kiedy Armada Wurm wchodzi na pole walki, stwórz żeton zielonego stwora Wurm "
-"5/5 z tratowaniem."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora Żmij 5/"
+"5 z tratowaniem."
 
 #: ../../RTR.rst:726
 msgid ""
@@ -2253,7 +2252,7 @@ msgstr ""
 
 #: ../../RTR.rst:739
 msgid "Create a 3/3 green Centaur creature token."
-msgstr "Umieść na polu walki żeton zielonego stwora Centaur 3/3."
+msgstr "Stwórz żeton zielonego stwora Centaur 3/3."
 
 #: ../../RTR.rst:746
 msgid ""
@@ -2271,7 +2270,7 @@ msgstr ""
 
 #: ../../RTR.rst:749
 msgid "When Centaur Healer enters the battlefield, you gain 3 life."
-msgstr "Kiedy Centaur Healer wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../RTR.rst:756
 msgid ""
@@ -3051,21 +3050,16 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1017
-#, fuzzy
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
 
 #: ../../RTR.rst:1019
-#, fuzzy
 msgid "Exile target creature with power 5 or greater."
-msgstr "Wygnaj wskazaną kartę z cmentarza."
+msgstr "Wygnaj wskazanego stwora o sile 5 lub większej."
 
 #: ../../RTR.rst:1021
-#, fuzzy
 msgid "Create a 2/2 white Knight creature token with vigilance."
-msgstr ""
-"Kiedy Knightly Valor wchodzi na pole walki, stwórz żeton białego stwora "
-"Rycerz 2/2 z czujnością."
+msgstr "Stwórz żeton białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../RTR.rst:1026
 msgid ""
@@ -3231,17 +3225,16 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain life equal to that creature's toughness."
 msgstr ""
-"Ilekroć inny stwór wchodzi na pole walki pod twoje władanie, zyskujesz życie "
-"równe wytrzymałości owego stwora."
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, zyskujesz "
+"życia równe wytrzymałości owego stwora."
 
 #: ../../RTR.rst:1085
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Populate. (Create a token that's a "
 "copy of a creature token you control.)"
 msgstr ""
-"|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Zaludnij. (Umieść na polu walki "
-"żeton, będący kopią władanego przez ciebie żetonu stwora.)"
+"|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Zaludnij. (Stwórz żeton będący kopią "
+"żetonowego stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1092
 msgid ""
@@ -3418,8 +3411,8 @@ msgid ""
 "If an instant or sorcery card would be put into a graveyard from anywhere, "
 "exile it instead."
 msgstr ""
-"Jeśli karta sztuczki lub obrzędu miałaby skądkolwiek trawić na cmentarz, "
-"zamiast tego wypędź ją."
+"Jeśli karta sztuczki lub obrzędu miałaby zostać umieszczona skądkolwiek w "
+"cmentarzu, zamiast tego wygnaj ją."
 
 #: ../../RTR.rst:1138
 msgid ""
@@ -3448,13 +3441,12 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1145
-#, fuzzy
 msgid ""
 "At the beginning of your upkeep, populate. (Create a token that's a copy of "
 "a creature token you control.)"
 msgstr ""
-"Na początku twojego utrzymania, zaludnij. (Umieść na polu walki żeton będący "
-"kopią władanego przez ciebie żetonu stwora.)"
+"Na początku twojego kroku utrzymania, zaludnij. (Stwórz żeton będący kopią "
+"żetonowego stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1152
 msgid ""
@@ -3524,13 +3516,12 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1171
-#, fuzzy
 msgid ""
 "Destroy target artifact or enchantment, then populate. (Create a token "
 "that's a copy of a creature token you control.)"
 msgstr ""
-"Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Umieść na polu "
-"walki żeton, będący kopią władanego przez ciebie żetonu stwora.)"
+"Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Stwórz żeton będący "
+"kopią żetonowego stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1176
 msgid ""
@@ -3834,15 +3825,14 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../RTR.rst:1275
-#, fuzzy
 msgid ""
 "|mana_3|\\ |mana_g|\\ |mana_w|, |tap|, Tap two untapped creatures you "
 "control, Sacrifice Grove of the Guardian: Create an 8/8 green and white "
 "Elemental creature token with vigilance."
 msgstr ""
-"|mana_3|\\ |mana_g|\\ |mana_w|, |tap|, przekręć dwa odznaczone stwory pod "
-"twoim władaniem poświęć Grove of the Guardian: Umieść na polu walki żeton "
-"biało-zielonego stwora Elemental 8/8 z czujnością."
+"|mana_3|\\ |mana_g|\\ |mana_w|, |tap|, przekręć dwa odkręcone stwory pod "
+"twoim władaniem, poświęć ten ląd: Stwórz żeton zielono-białego stwora "
+"Żywiołak 8/8 z czujnością."
 
 #: ../../RTR.rst:1282
 msgid ""

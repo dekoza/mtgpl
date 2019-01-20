@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -1799,6 +1799,10 @@ msgid ""
 "from the top of your library into your graveyard. If you do, return this "
 "card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 2 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie dwie karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../C16.rst:668
 msgid ""
@@ -3654,12 +3658,12 @@ msgstr ""
 
 #: ../../C16.rst:1333
 msgid "|mana_3|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|: Stwórz żeton zielonego stwora Saproling 1/1."
 
 #: ../../C16.rst:1335
-#, fuzzy
 msgid "|mana_3|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
-msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
+msgstr ""
+"|mana_3|\\ |mana_w|: Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../C16.rst:1342
 msgid ""
@@ -4381,18 +4385,19 @@ msgstr ""
 
 #: ../../C16.rst:1615
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1617
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C16.rst:1619
-#, fuzzy
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../C16.rst:1626
 msgid ""
@@ -5025,18 +5030,19 @@ msgstr ""
 
 #: ../../C16.rst:1887
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1889
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C16.rst:1891
-#, fuzzy
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../C16.rst:1896
 msgid ""
@@ -5092,9 +5098,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1915
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../C16.rst:1922
 msgid ""

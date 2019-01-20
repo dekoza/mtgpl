@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/fut/pl/>\n"
 "Language: pl\n"
@@ -778,7 +778,7 @@ msgstr ""
 
 #: ../../FUT.rst:279
 msgid "Enchanted creature has flying."
-msgstr ""
+msgstr "Zauroczony stwór ma latanie."
 
 #: ../../FUT.rst:281
 msgid ""
@@ -2042,6 +2042,9 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's"
 " color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"kolorze owego stwora.)"
 
 #: ../../FUT.rst:743
 msgid ""
@@ -2688,6 +2691,10 @@ msgid ""
 " from the top of your library into your graveyard. If you do, return this"
 " card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 2 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie dwie karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../FUT.rst:980
 msgid ""

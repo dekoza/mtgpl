@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 16:04+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2019-01-20 22:08+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -85,14 +85,13 @@ msgstr ""
 "kroku końcowego."
 
 #: ../../HOU.rst:23
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_w|, |tap|, Exert Angel of Condemnation: Exile another "
 "target creature until Angel of Condemnation leaves the battlefield. (An "
 "exerted creature won't untap during your next untap step.)"
 msgstr ""
 "|mana_2|\\ |mana_w|, |tap|, wytęż tego stwora: Wygnaj innego wskazanego "
-"stwora dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odkręci "
+"stwora, dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odkręci "
 "się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:30
@@ -1849,6 +1848,8 @@ msgid ""
 "Target creature you control gets +1/+0 until end of turn. It deals damage "
 "equal to its power to target creature an opponent controls."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje +1/+0 do końca tury i zadaje "
+"obrażenia równe swojej sile wskazanemu stworowi pod władaniem przeciwnika."
 
 #: ../../HOU.rst:612
 msgid ""
@@ -1874,7 +1875,7 @@ msgstr ""
 
 #: ../../HOU.rst:615
 msgid "Vigilance, reach"
-msgstr ""
+msgstr "Czujność, zasięg"
 
 #: ../../HOU.rst:620
 msgid ""
@@ -1885,7 +1886,7 @@ msgstr ""
 
 #: ../../HOU.rst:619
 msgid "|mana_4|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "|mana_4|\\ |mana_g|: Wskazany stwór dostaje +2/+2 do końca tury."
 
 #: ../../HOU.rst:624
 msgid ""
@@ -1897,6 +1898,8 @@ msgstr ""
 #: ../../HOU.rst:623
 msgid "|mana_1|, Tap an untapped Desert you control: You gain 1 life."
 msgstr ""
+"|mana_1|, przekręć nieprzekręconą Pustynię pod twoim władaniem: Zyskujesz 1 "
+"życie."
 
 #: ../../HOU.rst:628
 msgid ""
@@ -1907,7 +1910,7 @@ msgstr ""
 
 #: ../../HOU.rst:627
 msgid "When Feral Prowler dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../HOU.rst:632
 msgid ""
@@ -1921,6 +1924,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten stwór dostaje +2/+2 do końca tury. Aktywuj tę "
+"zdolność co najwyżej raz na turę."
 
 #: ../../HOU.rst:636
 msgid ""
@@ -1948,13 +1953,15 @@ msgstr ""
 
 #: ../../HOU.rst:643
 msgid "|mana_1|, |tap|: Untap target land."
-msgstr ""
+msgstr "|mana_1|, |tap|: Odkręć wskazany ląd."
 
 #: ../../HOU.rst:645
 msgid ""
 "|mana_1|, |tap|, Exert Hope Tender: Untap two target lands. (An exerted "
 "creature won't untap during your next untap step.)"
 msgstr ""
+"|mana_1|, |tap|, wytęż tego stwora: Odkręć dwa wskazane lądy. (Wytężony "
+"stwór nie odkręci się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:650
 msgid ""
@@ -1969,6 +1976,10 @@ msgid ""
 "tapped, then shuffle your library. Then if you control three or more "
 "Deserts, create two 2/2 black Zombie creature tokens."
 msgstr ""
+"Poszukaj w twojej bibliotece co najwyżej dwóch kart lądów, umieść je "
+"przekręcone na polu walki, następnie przetasuj twoją bibliotekę. Następnie, "
+"jeśli władasz co najmniej trzema Pustyniami, stwórz dwa żetony czarnego "
+"stwora Zombi 2/2."
 
 #: ../../HOU.rst:654
 msgid ""
@@ -1980,6 +1991,8 @@ msgstr ""
 #: ../../HOU.rst:653
 msgid "You gain 4 life. If a creature died this turn, you gain 8 life instead."
 msgstr ""
+"Zyskujesz 4 życia. Jeśli w tej turze zginął stwór, zamiast tego zyskujesz 8 "
+"żyć."
 
 #: ../../HOU.rst:660
 msgid ""
@@ -1993,6 +2006,8 @@ msgid ""
 "Majestic Myriarch's power and toughness are each equal to twice the number "
 "of creatures you control."
 msgstr ""
+"Siła i wytrzymałość tego stwora są równe dwukrotności liczby stworów pod "
+"twoim władaniem."
 
 #: ../../HOU.rst:659
 msgid ""
@@ -2001,6 +2016,10 @@ msgid ""
 "strike, double strike, deathtouch, haste, hexproof, indestructible, "
 "lifelink, menace, reach, trample, and vigilance."
 msgstr ""
+"Na początku każdej walki, jeśli władasz stworem z lataniem, ten stwór "
+"zyskuje latanie. To samo dotyczy pierwszego ciosu, podwójnego ciosu, dotyku "
+"śmierci, pośpiechu, antyklątwy, niezniszczalności, więzi życia, złowrogości, "
+"zasięgu, tratowania i czujności."
 
 #: ../../HOU.rst:664
 msgid ""
@@ -2014,6 +2033,8 @@ msgid ""
 "Destroy target Forest, green enchantment, or green planeswalker. If that "
 "permanent was a Nissa planeswalker, draw a card."
 msgstr ""
+"Zniszcz wskazany ląd, zielony urok, lub zielonego wędrowca. Jeśli ów "
+"permanent był wędrowcem o typie Nissa, dobierz kartę."
 
 #: ../../HOU.rst:670
 msgid ""
@@ -2031,6 +2052,8 @@ msgid ""
 "|tap|, Exert Oasis Ritualist: Add two mana of any one color. (An exerted "
 "creature won't untap during your next untap step.)"
 msgstr ""
+"|tap|, wytęż tego stwora: Dostajesz dwie many w dowolnym jednym kolorze. ("
+"Wytężony stwór nie odkręci się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:674
 msgid ""
@@ -2051,7 +2074,7 @@ msgstr ""
 
 #: ../../HOU.rst:677
 msgid "Pride Sovereign gets +1/+1 for each other Cat you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdego innego Kota pod twoim władaniem."
 
 #: ../../HOU.rst:679
 msgid ""
@@ -2059,6 +2082,9 @@ msgid ""
 "tokens with lifelink. (An exerted creature won't untap during your next "
 "untap step.)"
 msgstr ""
+"|mana_w|, |tap|, wytęż tego stwora: Stwórz dwa żetony białego stwora Kot 1/1 "
+"z więzią życia. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
+"odkręcania.)"
 
 #: ../../HOU.rst:684
 msgid ""
@@ -2072,6 +2098,8 @@ msgid ""
 "When Quarry Beetle enters the battlefield, you may return target land card "
 "from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę lądu "
+"z twojego cmentarza na pole walki."
 
 #: ../../HOU.rst:690
 msgid ""
@@ -2104,7 +2132,7 @@ msgstr ""
 
 #: ../../HOU.rst:697
 msgid "Vigilance, reach, trample"
-msgstr ""
+msgstr "Czujność, zasięg, tratowanie"
 
 #: ../../HOU.rst:699
 msgid "Ramunap Hydra gets +1/+1 as long as you control a Desert."

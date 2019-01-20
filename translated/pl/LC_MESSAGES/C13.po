@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -3646,21 +3646,16 @@ msgstr ""
 
 # 3791fe90945e4dcdaa67a3ebfeaf4c33
 #: ../../C13.rst:1213
-#, fuzzy
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Ekwipowany stwór dostaje +2/+2 oraz ma więź życia oraz tratowanie."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
 
 #: ../../C13.rst:1215
-#, fuzzy
 msgid "Exile target creature with power 5 or greater."
-msgstr "Wygnaj wskazaną kartę z cmentarza."
+msgstr "Wygnaj wskazanego stwora o sile 5 lub większej."
 
 #: ../../C13.rst:1217
-#, fuzzy
 msgid "Create a 2/2 white Knight creature token with vigilance."
-msgstr ""
-"Kiedy Knightly Valor wchodzi na pole walki, stwórz żeton białego stwora "
-"Rycerz 2/2 z czujnością."
+msgstr "Stwórz żeton białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../C13.rst:1224
 msgid ""
@@ -3986,7 +3981,7 @@ msgstr ""
 # e20979f416444907bfccef66c209f6a5
 #: ../../C13.rst:1331
 msgid "Other green creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne zielone stwory pod twoim władaniem dostają +1/+1."
 
 # 10675d79ad3f4589899de52922d9fc0c
 #: ../../C13.rst:1333
@@ -4009,13 +4004,13 @@ msgstr ""
 
 #: ../../C13.rst:1339
 msgid "|mana_3|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|: Stwórz żeton zielonego stwora Saproling 1/1."
 
 # c14e0e501fb9403ab74ef577e02f7c51
 #: ../../C13.rst:1341
-#, fuzzy
 msgid "|mana_3|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
-msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
+msgstr ""
+"|mana_3|\\ |mana_w|: Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../C13.rst:1348
 msgid ""
@@ -4421,9 +4416,8 @@ msgstr ""
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1469
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|mana_1|, |tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../C13.rst:1474
 msgid ""
@@ -4783,7 +4777,7 @@ msgstr ""
 # 893f0eaf3b8d43058b4635fa325ac17f
 #: ../../C13.rst:1595
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 85286dc295ba49c0b0e2d30bc9ab80c3
 #: ../../C13.rst:1597
@@ -4791,12 +4785,13 @@ msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1599
-#, fuzzy
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../C13.rst:1606
 msgid ""
@@ -5557,7 +5552,7 @@ msgstr ""
 # bc0007215ab64e83bb167a093ec8d96e
 #: ../../C13.rst:1889
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 5dcf45c6a6ca4e25870816e71325a84d
 #: ../../C13.rst:1891
@@ -5565,12 +5560,13 @@ msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1893
-#, fuzzy
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../C13.rst:1900
 msgid ""

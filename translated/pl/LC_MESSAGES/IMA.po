@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ima/pl/>\n"
 "Language: pl\n"
@@ -2490,7 +2490,7 @@ msgstr ""
 
 #: ../../IMA.rst:997
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
 
 #: ../../IMA.rst:1006
 msgid ""
@@ -2618,7 +2618,7 @@ msgstr ""
 
 #: ../../IMA.rst:1049
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
 
 #: ../../IMA.rst:1062
 msgid ""
@@ -2824,7 +2824,7 @@ msgstr ""
 
 #: ../../IMA.rst:1133
 msgid "Lightning Helix deals 3 damage to any target and you gain 3 life."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia we wskazany cel, a ty zyskujesz 3 życia."
 
 #: ../../IMA.rst:1140
 msgid ":mtgtip:`Malfegor<https://img.scryfall.com/cards/border_crop/en/ima/205.jpg?1530592573|https://scryfall.com/card/ima/205/malfegor?utm_source=api>`"
@@ -3244,17 +3244,19 @@ msgstr ""
 
 #: ../../IMA.rst:1295
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../IMA.rst:1297
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../IMA.rst:1299
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../IMA.rst:1308
 msgid ""
@@ -3489,17 +3491,19 @@ msgstr ""
 
 #: ../../IMA.rst:1391
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../IMA.rst:1393
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control"
 " to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../IMA.rst:1395
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../IMA.rst:1402
 msgid ""

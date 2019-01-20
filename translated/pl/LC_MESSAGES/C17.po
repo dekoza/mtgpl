@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -3304,9 +3304,8 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1203
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|mana_1|, |tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../C17.rst:1210
 msgid ""
@@ -3819,18 +3818,19 @@ msgstr ""
 
 #: ../../C17.rst:1413
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1415
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C17.rst:1417
-#, fuzzy
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../C17.rst:1424
 msgid ""
@@ -3845,7 +3845,7 @@ msgstr ""
 
 #: ../../C17.rst:1423 ../../C17.rst:1705 ../../C17.rst:1789
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../C17.rst:1430
 msgid ""
@@ -4459,18 +4459,19 @@ msgstr ""
 
 #: ../../C17.rst:1687
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1689
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control"
 " to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C17.rst:1691
-#, fuzzy
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../C17.rst:1700
 msgid ""
@@ -4694,9 +4695,8 @@ msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/c17/295.jpg
 msgstr ""
 
 #: ../../C17.rst:1793
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../C17.rst:1798
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/c17/298.jpg?1517813031|https://scryfall.com/card/c17/298/island?utm_source=api>`"

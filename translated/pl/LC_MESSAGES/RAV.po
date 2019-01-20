@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rav/pl/>\n"
 "Language: pl\n"
@@ -133,6 +133,9 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's"
 " color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"kolorze owego stwora.)"
 
 #: ../../RAV.rst:39
 msgid ""
@@ -213,7 +216,7 @@ msgstr ""
 
 #: ../../RAV.rst:73
 msgid "Exile target attacking or blocking creature."
-msgstr ""
+msgstr "Wygnaj wskazanego atakującego lub blokującego stwora."
 
 #: ../../RAV.rst:80
 msgid ""
@@ -322,7 +325,7 @@ msgstr ""
 
 #: ../../RAV.rst:117
 msgid "Destroy all nontoken creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie nieżetonowe stwory."
 
 #: ../../RAV.rst:124
 msgid ""
@@ -685,7 +688,7 @@ msgstr ""
 
 #: ../../RAV.rst:259 ../../RAV.rst:1119
 msgid "Enchanted creature has flying."
-msgstr ""
+msgstr "Zauroczony stwór ma latanie."
 
 #: ../../RAV.rst:264
 msgid ""
@@ -1111,6 +1114,10 @@ msgid ""
 "cards from the top of your library into your graveyard. If you do, return"
 " this card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 3 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie trzy karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../RAV.rst:440
 msgid ""
@@ -1180,6 +1187,10 @@ msgid ""
 "cards from the top of your library into your graveyard. If you do, return"
 " this card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 4 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie cztery karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../RAV.rst:464
 msgid ":mtgtip:`Helldozer<https://img.scryfall.com/cards/border_crop/en/rav/88.jpg?1517813031|https://scryfall.com/card/rav/88/helldozer?utm_source=api>`"
@@ -1321,6 +1332,10 @@ msgid ""
 " from the top of your library into your graveyard. If you do, return this"
 " card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 2 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie dwie karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../RAV.rst:520
 msgid ""
@@ -1449,6 +1464,10 @@ msgid ""
 "cards from the top of your library into your graveyard. If you do, return"
 " this card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 5 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie pięć kart z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli to "
+"zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../RAV.rst:570
 msgid ""
@@ -2199,7 +2218,7 @@ msgstr ""
 
 #: ../../RAV.rst:841
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
 
 #: ../../RAV.rst:848
 msgid ""
@@ -2239,6 +2258,10 @@ msgid ""
 " from the top of your library into your graveyard. If you do, return this"
 " card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 6 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie sześć kart z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../RAV.rst:860
 msgid ""
@@ -2401,7 +2424,7 @@ msgstr ""
 
 #: ../../RAV.rst:925
 msgid "Create three 1/1 green Saproling creature tokens."
-msgstr ""
+msgstr "Stwórz trzy żetony zielonego stwora Saproling 1/1."
 
 #: ../../RAV.rst:930
 msgid ""
@@ -2791,6 +2814,8 @@ msgstr ""
 #: ../../RAV.rst:1057
 msgid "Tap an untapped creature you control: Tap target artifact or creature."
 msgstr ""
+"Przekręć odkręconego stwora pod twoim władaniem: Przekręć wskazany artefakt "
+"lub stwora."
 
 #: ../../RAV.rst:1062
 msgid ""
@@ -2848,6 +2873,10 @@ msgid ""
 "from the top of your library into your graveyard. If you do, return this "
 "card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 1 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie jedną kartę z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../RAV.rst:1082
 msgid ""
@@ -2865,7 +2894,7 @@ msgstr ""
 
 #: ../../RAV.rst:1085
 msgid "Lightning Helix deals 3 damage to any target and you gain 3 life."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia we wskazany cel, a ty zyskujesz 3 życia."
 
 #: ../../RAV.rst:1092
 msgid ""
@@ -2876,13 +2905,15 @@ msgstr ""
 
 #: ../../RAV.rst:1089
 msgid "When Loxodon Hierarch enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 4 życia."
 
 #: ../../RAV.rst:1091
 msgid ""
 "|mana_g|\\ |mana_w|, Sacrifice Loxodon Hierarch: Regenerate each creature"
 " you control."
 msgstr ""
+"|mana_g|\\ |mana_w|, poświęć tego stwora: Zregeneruj każdego stwora pod "
+"twoim władaniem."
 
 #: ../../RAV.rst:1098
 msgid ""
@@ -2936,6 +2967,8 @@ msgid ""
 "Whenever enchanted creature deals combat damage to a player, create that "
 "many 1/1 green Saproling creature tokens."
 msgstr ""
+"Ilekroć zauroczony stwór zada graczowi obrażenia bojowe, stwórz tyle samo "
+"żetonów zielonego stwora Saproling 1/1."
 
 #: ../../RAV.rst:1126
 msgid ""
@@ -2987,6 +3020,9 @@ msgid ""
 "|tap|: The next 3 damage that would be dealt to target creature you "
 "control this turn is dealt to another target creature instead."
 msgstr ""
+"|tap|: Najbliższe 3 obrażenia, które mogłyby zostać zadane w tej turze "
+"wskazanemu stworowi pod twoim władaniem, zamiast tego zostaną zadane innemu "
+"wskazanemu stworowi."
 
 #: ../../RAV.rst:1144
 msgid ""
@@ -3056,6 +3092,8 @@ msgid ""
 "|mana_1|, |tap|, Tap an untapped creature you control: Create a 1/1 green"
 " Saproling creature token."
 msgstr ""
+"|mana_1|, |tap|, przekręć odkręconego stwora pod twoim władaniem: Stwórz "
+"żeton zielonego stwora Saproling 1/1."
 
 #: ../../RAV.rst:1172
 msgid ""
@@ -3166,17 +3204,18 @@ msgstr ""
 
 #: ../../RAV.rst:1209
 msgid "Other green creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne zielone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../RAV.rst:1211
 msgid "Other white creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne białe stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../RAV.rst:1213
 msgid ""
 "|tap|: Create a legendary 2/2 green and white Wolf creature token named "
 "Voja."
 msgstr ""
+"|tap|: Stwórz legendarny żeton zielono-białego stwora Wilk 2/2 o nazwie Voja."
 
 #: ../../RAV.rst:1218
 msgid ""
@@ -3370,15 +3409,15 @@ msgstr ""
 
 #: ../../RAV.rst:1291
 msgid "Cast this spell only before attackers are declared."
-msgstr ""
+msgstr "Rzuć ten czar tylko przed deklaracją atakujących."
 
 #: ../../RAV.rst:1293
 msgid "You choose which creatures attack this turn."
-msgstr ""
+msgstr "Ty decydujesz, które stwory zaatakują w tej turze."
 
 #: ../../RAV.rst:1295
 msgid "You choose which creatures block this turn and how those creatures block."
-msgstr ""
+msgstr "Ty decydujesz, które stwory będą blokować w tej turze i w jaki sposób."
 
 #: ../../RAV.rst:1302
 msgid ""
@@ -3392,6 +3431,8 @@ msgid ""
 "Other permanents you control have hexproof. (They can't be the targets of"
 " spells or abilities your opponents control.)"
 msgstr ""
+"Inne permanenty pod twoim władaniem mają antyklątwę. (Nie mogą być "
+"wskazywane przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../RAV.rst:1308
 msgid ""
@@ -3402,11 +3443,12 @@ msgstr ""
 
 #: ../../RAV.rst:1305
 msgid "|mana_3|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|: Stwórz żeton zielonego stwora Saproling 1/1."
 
 #: ../../RAV.rst:1307
 msgid "|mana_3|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
+"|mana_3|\\ |mana_w|: Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../RAV.rst:1316
 msgid ""
@@ -3445,7 +3487,7 @@ msgstr ""
 
 #: ../../RAV.rst:1325
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../RAV.rst:1332
 msgid ""
@@ -3672,7 +3714,7 @@ msgstr ""
 
 #: ../../RAV.rst:1409
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../RAV.rst:1414
 msgid ""
@@ -3743,17 +3785,19 @@ msgstr ""
 
 #: ../../RAV.rst:1437
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../RAV.rst:1439
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../RAV.rst:1441
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../RAV.rst:1450
 msgid ""
@@ -3861,17 +3905,19 @@ msgstr ""
 
 #: ../../RAV.rst:1479
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../RAV.rst:1481
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control"
 " to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../RAV.rst:1483
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../RAV.rst:1490
 msgid ""
@@ -3885,6 +3931,8 @@ msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Target creature gains double "
 "strike until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór zyskuje do końca tury "
+"podwójny cios."
 
 #: ../../RAV.rst:1496
 msgid ""

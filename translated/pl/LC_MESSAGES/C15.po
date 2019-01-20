@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -142,7 +142,7 @@ msgstr ""
 
 #: ../../C15.rst:43
 msgid "Create a 2/2 white Knight creature token with vigilance."
-msgstr ""
+msgstr "Stwórz żeton białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../C15.rst:45
 msgid "Exile target enchantment."
@@ -3852,7 +3852,7 @@ msgstr ""
 
 #: ../../C15.rst:1377 ../../C15.rst:1541 ../../C15.rst:1569 ../../C15.rst:1857
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../C15.rst:1379
 msgid "|mana_r|\\ |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
@@ -3866,9 +3866,8 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1383
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../C15.rst:1388
 msgid ""
@@ -4314,18 +4313,19 @@ msgstr ""
 
 #: ../../C15.rst:1559
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C15.rst:1561
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C15.rst:1563
-#, fuzzy
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
 
 #: ../../C15.rst:1570
 msgid ""

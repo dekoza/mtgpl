@@ -2,12 +2,13 @@
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -631,7 +632,7 @@ msgstr ""
 
 #: ../../C18.rst:299
 msgid "Vigilance, reach"
-msgstr ""
+msgstr "Czujność, zasięg"
 
 #: ../../C18.rst:301
 msgid "All creatures attack each combat if able."
@@ -3189,15 +3190,17 @@ msgstr ""
 
 #: ../../C18.rst:1705
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C18.rst:1707
 msgid "When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C18.rst:1709
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
 
 #: ../../C18.rst:1718
 msgid ":mtgtip:`Simic Growth Chamber<https://img.scryfall.com/cards/border_crop/en/c18/282.jpg?1535505875|https://scryfall.com/card/c18/282/simic-growth-chamber?utm_source=api>`"

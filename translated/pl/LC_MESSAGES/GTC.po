@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-20 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -160,8 +160,8 @@ msgid ""
 "Battalion — Whenever Boros Elite and at least two other creatures attack, "
 "Boros Elite gets +2/+2 until end of turn."
 msgstr ""
-"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, "
-"niniejszy stwór dostaje +2/+2 do końca tury."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór dostaje +2/+2 do końca tury."
 
 #: ../../GTC.rst:44
 msgid ""
@@ -191,8 +191,8 @@ msgid ""
 "Battalion — Whenever Daring Skyjek and at least two other creatures attack, "
 "Daring Skyjek gains flying until end of turn."
 msgstr ""
-"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, "
-"niniejszy stwór zyskuje latanie do końca tury."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór zyskuje latanie do końca tury."
 
 #: ../../GTC.rst:54
 msgid ""
@@ -240,8 +240,8 @@ msgid ""
 "Battalion — Whenever Frontline Medic and at least two other creatures "
 "attack, creatures you control gain indestructible until end of turn."
 msgstr ""
-"Batalion — Ilekroć Frontline Medic i co najmniej dwa inne stwory atakują, "
-"stwory, którymi władasz zyskują niezniszczalność do końca tury."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, stwory pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 # 51c5a1abbc8741b1be4d175c8f5b7253
 #: ../../GTC.rst:63
@@ -443,8 +443,8 @@ msgid ""
 "Battalion — Whenever Nav Squad Commandos and at least two other creatures "
 "attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it."
 msgstr ""
-"Batalion — Ilekroć Nav Squad Commandos i co najmniej dwa inne stwory "
-"atakują, Nav Squad Commandos dostaje +1/+1 do końca tury. Odkręć go."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór dostaje +1/+1 do końca tury. Odkręć go."
 
 #: ../../GTC.rst:126
 msgid ""
@@ -1433,8 +1433,8 @@ msgid ""
 "Battalion — Whenever Bomber Corps and at least two other creatures attack, "
 "Bomber Corps deals 1 damage to any target."
 msgstr ""
-"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, "
-"niniejszy stwór zadaje 1 obrażenie we wskazany cel."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór zadaje 1 obrażenie we wskazany cel."
 
 #: ../../GTC.rst:458
 msgid ""
@@ -1493,8 +1493,8 @@ msgid ""
 "Battalion — Whenever Firefist Striker and at least two other creatures "
 "attack, target creature can't block this turn."
 msgstr ""
-"Batalion — Ilekroć Firefist Striker i co najmniej dwa inne stwory atakują, "
-"wskazany stwór nie może blokować w tej turze."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, wskazany stwór nie może blokować w tej turze."
 
 #: ../../GTC.rst:476
 msgid ""
@@ -1633,9 +1633,9 @@ msgid ""
 "attack, creatures you control gain first strike and trample until end of "
 "turn and can't be blocked by creature tokens this turn."
 msgstr ""
-"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, stwory "
-"pod twoim władaniem zyskują do końca tury pierwszy cios i tratowanie oraz "
-"nie mogą być w tej turze blokowane przez żetonowe stwory."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, stwory pod twoim władaniem zyskują do końca tury pierwszy cios i "
+"tratowanie oraz nie mogą być w tej turze blokowane przez żetonowe stwory."
 
 #: ../../GTC.rst:512
 msgid ""
@@ -1858,8 +1858,8 @@ msgid ""
 "Battalion — Whenever Warmind Infantry and at least two other creatures "
 "attack, Warmind Infantry gets +2/+0 until end of turn."
 msgstr ""
-"Batalion — Ilekroć Warmind Infantry i co najmniej dwa inne stwory atakują, "
-"Warmind Infantry dostaje +2/+0 do końca tury."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór dostaje +2/+0 do końca tury."
 
 #: ../../GTC.rst:576
 msgid ""
@@ -2750,14 +2750,13 @@ msgstr ""
 
 # 81a60a5798c6486bb6c6bfa97194d588
 #: ../../GTC.rst:851
-#, fuzzy
 msgid ""
 "Battalion — Whenever Firemane Avenger and at least two other creatures "
 "attack, Firemane Avenger deals 3 damage to any target and you gain 3 life."
 msgstr ""
-"Batalion — Ilekroć Firemane Avenger i co najmniej dwa inne stwory atakują, "
-"Firemane Avenger zadaje 3 obrażenia wskazanemu stworowi lub graczowi, a ty "
-"zyskujesz 3 życia."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór zadaje 3 obrażenia we wskazany cel, a ty zyskujesz "
+"3 życia."
 
 #: ../../GTC.rst:858
 msgid ""
@@ -3136,9 +3135,9 @@ msgid ""
 "attack, Ordruun Veteran gains double strike until end of turn. (It deals "
 "both first-strike and regular combat damage.)"
 msgstr ""
-"Batalion — Ilekroć Orduun Vetera i co najmniej dwa inne stwory atakują, "
-"Orduun Veteran zyskuje podwójny cios do końca tury. (Zadaje obrażenia "
-"zarówno jako pierwszy cios i normalnie.)"
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór zyskuje do końca tury podwójny cios. (Zadaje "
+"obrażenia zarówno jako pierwszy cios i normalnie.)"
 
 #: ../../GTC.rst:982
 msgid ""
@@ -3409,12 +3408,12 @@ msgstr ""
 # e507018665184ed2af133e54c7b84e22
 #: ../../GTC.rst:1059
 msgid "Trample, lifelink, haste"
-msgstr "Tratowanie, Więź Życia, Pośpiech"
+msgstr "Tratowanie, więź życia, pośpiech"
 
 # 0a41d02fd7a84537942d4ee5fcf87abc
 #: ../../GTC.rst:1061
 msgid "At the beginning of the end step, sacrifice Spark Trooper."
-msgstr "Na początku kroku końcowego, poświęć Spark Trooper."
+msgstr "Na początku kroku końcowego, poświęć tego stwora."
 
 #: ../../GTC.rst:1068
 msgid ""
@@ -3425,23 +3424,21 @@ msgstr ""
 
 # d583b9170dd545feab897216ea575cd0
 #: ../../GTC.rst:1065
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_w|: Creatures you control get +1/+0 until end of "
 "turn."
 msgstr ""
-"|mana_1|\\ |mana_r|\\ |mana_w|: Stwory, którymi władasz dostają +1/+0 do "
+"|mana_1|\\ |mana_r|\\ |mana_w|: Stwory pod twoim władaniem dostają +1/+0 do "
 "końca tury."
 
 # a6f1e2212fdf4cecaa5ef6534efffc40
 #: ../../GTC.rst:1067
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_w|: Create a 1/1 red and white Soldier creature "
 "token with haste."
 msgstr ""
-"|mana_2|\\ |mana_r|\\ |mana_w|: Umieść na polu walki żeton czerwono-białego "
-"stwora Piechur 1/1 z pośpiechem."
+"|mana_2|\\ |mana_r|\\ |mana_w|: Stwórz żeton czerwono-białego stwora Piechur "
+"1/1 z pośpiechem."
 
 #: ../../GTC.rst:1074
 msgid ""
@@ -3587,8 +3584,8 @@ msgid ""
 "Battalion — Whenever Wojek Halberdiers and at least two other creatures "
 "attack, Wojek Halberdiers gains first strike until end of turn."
 msgstr ""
-"Batalion — Ilekroć Wojek Halberdiers i co najmniej dwa inne stwory atakują, "
-"Wojek Halberdiers dostaje pierwszy cios do końca tury."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../GTC.rst:1118
 msgid ""
@@ -3892,15 +3889,14 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 # 8e33418d001b4ceea85ef29d599598e7
 #: ../../GTC.rst:1199
-#, fuzzy
 msgid ""
 "|mana_r|\\ |mana_w|: Boros Keyrune becomes a 1/1 red and white Soldier "
 "artifact creature with double strike until end of turn. (It deals both first-"
 "strike and regular combat damage.)"
 msgstr ""
-"|mana_r|\\ |mana_w|: Do końca tury Boros Keyrune staje się czerwono-białym "
-"artefaktycznym stworem Soldier 1/1 z podwójnym ciosem. (Zadaje obrażenia "
-"bitewne jako pierwszy cios oraz normalnie.)"
+"|mana_r|\\ |mana_w|: Ten artefakt staje się do końca tury czerwono-białym "
+"artefaktycznym stworem Piechur 1/1 z podwójnym ciosem. (Zadaje obrażenia w "
+"pierwszym ciosie oraz normalnie.)"
 
 #: ../../GTC.rst:1206
 msgid ""
