@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 13:33+0000\n"
+"PO-Revision-Date: 2019-01-20 13:40+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gk1/pl/>\n"
 "Language: pl\n"
@@ -189,18 +189,24 @@ msgid ""
 "Whenever you cast a blue spell, exile the top card of target player's "
 "library."
 msgstr ""
+"Ilekroć rzucisz niebieski czar, wygnaj wierzchnią kartę biblioteki "
+"wskazanego gracza."
 
 #: ../../GK1.rst:51
 msgid ""
 "Whenever you cast a black spell, exile the top card of target player's "
 "library."
 msgstr ""
+"Ilekroć rzucisz czarny czar, wygnaj wierzchnią kartę biblioteki wskazanego "
+"gracza."
 
 #: ../../GK1.rst:53
 msgid ""
 "Your opponents can't cast spells with the same name as a card exiled with"
 " Circu, Dimir Lobotomist."
 msgstr ""
+"Twoi przeciwnicy nie mogą rzucać czarów o takiej samej nazwie, co "
+"jakakolwiek karta wygnana z użyciem tego stwora."
 
 #: ../../GK1.rst:60
 msgid ""
@@ -214,6 +220,8 @@ msgid ""
 "Consuming Aberration's power and toughness are each equal to the number "
 "of cards in your opponents' graveyards."
 msgstr ""
+"Siła oraz wytrzymałość tego stwora są obie równe liczbie kart w cmentarzach "
+"twoich przeciwników."
 
 #: ../../GK1.rst:59
 msgid ""
@@ -221,6 +229,9 @@ msgid ""
 "their library until they reveal a land card, then puts those cards into "
 "their graveyard."
 msgstr ""
+"Ilekroć rzucisz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
+"biblioteki dopóki nie ujawni karty lądu, następnie umieszcza owe karty w "
+"swoim cmentarzu."
 
 #: ../../GK1.rst:70
 msgid ""
@@ -233,21 +244,23 @@ msgstr ""
 #: ../../GK1.rst:63 ../../GK1.rst:229 ../../GK1.rst:237 ../../GK1.rst:355
 #: ../../GK1.rst:473 ../../GK1.rst:655
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../GK1.rst:65
 msgid "Counter target sorcery spell."
-msgstr ""
+msgstr "Skontruj wskazany czar obrzędu."
 
 #: ../../GK1.rst:67
 msgid "Destroy target creature with power 2 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 2 lub mniejszej."
 
 #: ../../GK1.rst:69
 msgid ""
 "Look at the top three cards of target player's library. Put one back and "
 "the rest into that player's graveyard."
 msgstr ""
+"Spójrz na trzy wierzchnie karty biblioteki wskazanego gracza. Umieść jedną z "
+"nich z powrotem, a pozostałe w cmentarzu owego gracza."
 
 #: ../../GK1.rst:74
 msgid ""

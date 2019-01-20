@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 13:33+0000\n"
+"PO-Revision-Date: 2019-01-20 13:40+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -2550,20 +2550,19 @@ msgid ""
 "Consuming Aberration's power and toughness are each equal to the number of "
 "cards in your opponents' graveyards."
 msgstr ""
-"Siła i wytrzymałość Consuming Aberration są równe całkowitej liczbie kart w "
-"cmentarzach twoich przeciwników."
+"Siła oraz wytrzymałość tego stwora są obie równe liczbie kart w cmentarzach "
+"twoich przeciwników."
 
 # 25e33789c48f41768d66dc90df217bab
 #: ../../GTC.rst:785
-#, fuzzy
 msgid ""
 "Whenever you cast a spell, each opponent reveals cards from the top of their "
 "library until they reveal a land card, then puts those cards into their "
 "graveyard."
 msgstr ""
-"Ilekroć rzucasz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
-"biblioteki aż ujawni kartę lądu, po czym przekłada wszystkie ujawnione w ten "
-"sposób karty na swój cmentarz."
+"Ilekroć rzucisz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
+"biblioteki dopóki nie ujawni karty lądu, następnie umieszcza owe karty w "
+"swoim cmentarzu."
 
 #: ../../GTC.rst:792
 msgid ""
@@ -2598,19 +2597,16 @@ msgstr "Skontruj wskazany czar obrzędu."
 
 # 6127e832b03a4b5db6266ba39c9c4342
 #: ../../GTC.rst:799
-#, fuzzy
 msgid "Destroy target creature with power 2 or less."
-msgstr "Zniszcz wskazanego stwora o sile X lub mniejszej."
+msgstr "Zniszcz wskazanego stwora o sile 2 lub mniejszej."
 
 #: ../../GTC.rst:801
-#, fuzzy
 msgid ""
 "Look at the top three cards of target player's library. Put one back and the "
 "rest into that player's graveyard."
 msgstr ""
-" albo spójrz na trzy wierzchnie karty biblioteki wskazanego gracza, "
-"następnie umieść jedną z powrotem, a pozostałe umieść w cmentarzu owego "
-"gracza."
+"Spójrz na trzy wierzchnie karty biblioteki wskazanego gracza. Umieść jedną z "
+"nich z powrotem, a pozostałe w cmentarzu owego gracza."
 
 #: ../../GTC.rst:806
 msgid ""
