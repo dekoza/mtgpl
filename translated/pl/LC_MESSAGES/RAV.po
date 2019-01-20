@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 16:04+0000\n"
+"PO-Revision-Date: 2019-01-20 17:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rav/pl/>\n"
 "Language: pl\n"
@@ -1504,6 +1504,9 @@ msgid ""
 "|mana_g| was spent to cast Vigor Mortis, that creature enters the "
 "battlefield with an additional +1/+1 counter on it."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli do "
+"rzucenia tego czaru użyto |mana_g|, ów stwór wchodzi na pole walki z "
+"dodatkowym znacznikiem +1/+1."
 
 #: ../../RAV.rst:590
 msgid ""
@@ -2143,7 +2146,7 @@ msgstr ""
 
 #: ../../RAV.rst:819
 msgid "|tap|: Add |mana_b|. Elves of Deep Shadow deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|. Ten stwór zadaje tobie 1 obrażenie."
 
 #: ../../RAV.rst:824
 msgid ""
@@ -2825,7 +2828,7 @@ msgstr ""
 
 #: ../../RAV.rst:1073
 msgid "|mana_1|, Sacrifice Grave-Shell Scarab: Draw a card."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../RAV.rst:1075
 msgid ""

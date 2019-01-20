@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 16:04+0000\n"
+"PO-Revision-Date: 2019-01-20 17:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ema/pl/>\n"
 "Language: pl\n"
@@ -1340,7 +1340,7 @@ msgstr ""
 
 #: ../../EMA.rst:507
 msgid "All creatures get -1/-1 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają -1/-1 do końca tury."
 
 #: ../../EMA.rst:516
 msgid ":mtgtip:`Necropotence<https://img.scryfall.com/cards/border_crop/en/ema/98.jpg?1519048447|https://scryfall.com/card/ema/98/necropotence?utm_source=api>`"
@@ -2946,18 +2946,23 @@ msgstr ""
 #: ../../EMA.rst:1135
 msgid "|tap|: Exile target land card from a graveyard. Add one mana of any color."
 msgstr ""
+"|tap|: Wygnaj wskazaną kartę lądu z cmentarza. Dostajesz jedną manę "
+"dowolnego koloru."
 
 #: ../../EMA.rst:1137
 msgid ""
 "|mana_b|, |tap|: Exile target instant or sorcery card from a graveyard. "
 "Each opponent loses 2 life."
 msgstr ""
+"|mana_b|, |tap|: Wygnaj wskazaną kartę sztuczki lub obrzędu z cmentarza. "
+"Każdy przeciwnik traci 2 życia."
 
 #: ../../EMA.rst:1139
 msgid ""
 "|mana_g|, |tap|: Exile target creature card from a graveyard. You gain 2 "
 "life."
 msgstr ""
+"|mana_g|, |tap|: Wygnaj wskazaną kartę stwora z cmentarza. Zyskujesz 2 życia."
 
 #: ../../EMA.rst:1146
 msgid ""

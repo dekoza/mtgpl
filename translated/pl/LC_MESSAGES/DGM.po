@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 16:03+0000\n"
+"PO-Revision-Date: 2019-01-20 17:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -879,15 +879,14 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 # 0bfc5ca1ff294d4d907355e731e172ad
 #: ../../DGM.rst:253
-#, fuzzy
 msgid ""
 "Scavenge |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
 "Exile this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 "Czystka |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
-"wypędź tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
-"znaczników +1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
+"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../DGM.rst:258
 msgid ""
@@ -1107,8 +1106,8 @@ msgid ""
 "When Deadbridge Chant enters the battlefield, put the top ten cards of your "
 "library into your graveyard."
 msgstr ""
-"Kiedy Deadbridge Chant wchodzi na pole walki, umieść dziesięć wierzchnich "
-"kart z twojej biblioteki do twojego cmentarza."
+"Kiedy ta karta wejdzie na pole walki, umieść dziesięć wierzchnich kart "
+"twojej biblioteki w twoim cmentarzu."
 
 # 7f229971227c4f26a6587d829e1101c8
 #: ../../DGM.rst:317
@@ -1117,9 +1116,9 @@ msgid ""
 "If it's a creature card, put it onto the battlefield. Otherwise, put it into "
 "your hand."
 msgstr ""
-"Na początku twojego utrzymania wybierz losowo kartę z twojego cmentarza. "
-"Jeśli jest to karta stwora, umieść go na polu walki. W przeciwnym razie weź "
-"ową kartę do ręki."
+"Na początku twojego kroku utrzymania wybierz losową kartę z twojego "
+"cmentarza. Jeśli to karta stwora, umieść ją na polu walki. W przeciwnym "
+"razie umieść ją w swojej ręce."
 
 #: ../../DGM.rst:322
 msgid ""
@@ -1198,9 +1197,9 @@ msgid ""
 "graveyard, then that creature gets -1/-1 until end of turn for each land "
 "card in your graveyard."
 msgstr ""
-"Wskaż stwora. Umieść 4 wierzchnie karty twojej biblioteki do twojego "
-"cmentarza i ów stwór otrzymuje -1/-1 do końca tury za każdą kartę lądu w "
-"twoim cmentarzu."
+"Wskaż stwora. Umieść cztery wierzchnie karty twojej biblioteki w twoim "
+"cmentarzu, następnie ów stwór dostaje -1/-1 do końca tury za każdą kartę "
+"lądu w twoim cmentarzu."
 
 #: ../../DGM.rst:342
 msgid ""
@@ -1274,7 +1273,7 @@ msgstr ""
 #: ../../DGM.rst:363
 msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgstr ""
-"Zniszcz każdy nielądowy permanent mający łączny koszt many X lub mniej."
+"Zniszcz każdy nielądowy permanent o skróconym koszcie many X lub mniejszym."
 
 #: ../../DGM.rst:368
 msgid ""
@@ -2017,10 +2016,10 @@ msgid ""
 "its mana cost: Put a number of +1/+1 counters equal to that card's power on "
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Każda karta stwora w twoim cmentarzy ma czystkę. Koszt czystki jest równy "
-"kosztowi many tej karty. (Wygnaj kartę stwora z twojego cmentarza i opłać "
-"jej koszt many: Umieść na wskazanym stworze tyle znaczników +1/+1, ile "
-"wynosi siła wypędzonej karty. Używaj jedynie jako obrzęd.)"
+"Każda karta stwora w twoim cmentarzu ma czystkę o koszcie równym jej "
+"kosztowi many . (Wygnaj kartę stwora z twojego cmentarza i zapłać jej koszt "
+"many: Umieść na wskazanym stworze tyle znaczników +1/+1 , ile wynosi siła "
+"owej karty. Aktywuj tylko jako obrzęd.)"
 
 # 91404f6bc0374b80b4f2436bc5b6cf13
 #: ../../DGM.rst:577

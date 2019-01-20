@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 16:03+0000\n"
+"PO-Revision-Date: 2019-01-20 17:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -1106,7 +1106,7 @@ msgstr ""
 
 #: ../../C15.rst:407 ../../C15.rst:1231
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../C15.rst:414
 msgid ""
@@ -3445,11 +3445,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../C15.rst:1229
 msgid "All creatures get -1/-1 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają -1/-1 do końca tury."
 
 #: ../../C15.rst:1233
 msgid "Regenerate each creature you control."
-msgstr ""
+msgstr "Zregeneruj każdego stwora pod twoim władaniem."
 
 #: ../../C15.rst:1238
 msgid ""
@@ -3463,6 +3463,9 @@ msgid ""
 "Reveal the top five cards of your library. You may put a creature or land "
 "card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora lub lądu spośród nich w twojej ręce. Umieść pozostałe w twoim "
+"cmentarzu."
 
 #: ../../C15.rst:1246
 msgid ""
@@ -3474,19 +3477,22 @@ msgstr ""
 #: ../../C15.rst:1241
 msgid ""
 "Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../C15.rst:1243
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_g|, Sacrifice another creature: Each opponent "
 "loses life equal to the sacrificed creature's power."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_g|, poświęć innego stwora: Każdy przeciwnik "
+"traci tyle żyć, ile wynosiła siła poświęconego stwora."
 
 #: ../../C15.rst:1245
 msgid ""
 "Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your "
 "hand."
 msgstr ""
+"Poświęć Bagno oraz Las: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../C15.rst:1252
 msgid ""
@@ -3501,6 +3507,9 @@ msgid ""
 "intimidate until end of turn. (It can't be blocked except by artifact "
 "creatures and/or creatures that share a color with it.)"
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_g|: Wskazany stwór dostaje do końca tury +1/+1 "
+"oraz zastraszenie. (Nie może być blokowany, chyba że przez stwory "
+"artefaktyczne i/lub współdzielące z nim kolor.)"
 
 #: ../../C15.rst:1251
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-20 16:03+0000\n"
+"PO-Revision-Date: 2019-01-20 17:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -2053,7 +2053,7 @@ msgstr ""
 
 #: ../../C18.rst:1075
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../C18.rst:1077
 msgid "Draw two cards."
@@ -2082,6 +2082,7 @@ msgstr ""
 #: ../../C18.rst:1089
 msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgstr ""
+"Zniszcz każdy nielądowy permanent o skróconym koszcie many X lub mniejszym."
 
 #: ../../C18.rst:1094
 msgid ":mtgtip:`Grisly Salvage<https://img.scryfall.com/cards/border_crop/en/c18/182.jpg?1535504434|https://scryfall.com/card/c18/182/grisly-salvage?utm_source=api>`"
@@ -2090,6 +2091,9 @@ msgstr ""
 #: ../../C18.rst:1093
 msgid "Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora lub lądu spośród nich w twojej ręce. Umieść pozostałe w twoim "
+"cmentarzu."
 
 #: ../../C18.rst:1098
 msgid ":mtgtip:`High Priest of Penance<https://img.scryfall.com/cards/border_crop/en/c18/183.jpg?1535504453|https://scryfall.com/card/c18/183/high-priest-of-penance?utm_source=api>`"

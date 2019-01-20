@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 16:04+0000\n"
+"PO-Revision-Date: 2019-01-20 17:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gk1/pl/>\n"
 "Language: pl\n"
@@ -1008,6 +1008,9 @@ msgid ""
 "|mana_g| was spent to cast Vigor Mortis, that creature enters the "
 "battlefield with an additional +1/+1 counter on it."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli do "
+"rzucenia tego czaru użyto |mana_g|, ów stwór wchodzi na pole walki z "
+"dodatkowym znacznikiem +1/+1."
 
 #: ../../GK1.rst:320
 msgid ""
@@ -1024,6 +1027,9 @@ msgid ""
 "Exile this card from your graveyard: Put a number of +1/+1 counters equal"
 " to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
+"wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
+"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../GK1.rst:324
 msgid ""
@@ -1035,7 +1041,7 @@ msgstr ""
 
 #: ../../GK1.rst:323
 msgid "|tap|: Add |mana_b|. Elves of Deep Shadow deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|. Ten stwór zadaje tobie 1 obrażenie."
 
 #: ../../GK1.rst:330
 msgid ""
@@ -1047,11 +1053,13 @@ msgstr ""
 
 #: ../../GK1.rst:327
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../GK1.rst:329
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
+"Zniszcz wskazany nie-lądowy permanent o skróconym koszcie many 3 lub "
+"mniejszym."
 
 #: ../../GK1.rst:336
 msgid ""
@@ -1066,6 +1074,8 @@ msgid ""
 "When Deadbridge Chant enters the battlefield, put the top ten cards of "
 "your library into your graveyard."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, umieść dziesięć wierzchnich kart "
+"twojej biblioteki w twoim cmentarzu."
 
 #: ../../GK1.rst:335
 msgid ""
@@ -1073,6 +1083,9 @@ msgid ""
 "graveyard. If it's a creature card, put it onto the battlefield. "
 "Otherwise, put it into your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania wybierz losową kartę z twojego "
+"cmentarza. Jeśli to karta stwora, umieść ją na polu walki. W przeciwnym "
+"razie umieść ją w swojej ręce."
 
 #: ../../GK1.rst:344
 msgid ""
@@ -1085,18 +1098,23 @@ msgstr ""
 #: ../../GK1.rst:339
 msgid "|tap|: Exile target land card from a graveyard. Add one mana of any color."
 msgstr ""
+"|tap|: Wygnaj wskazaną kartę lądu z cmentarza. Dostajesz jedną manę "
+"dowolnego koloru."
 
 #: ../../GK1.rst:341
 msgid ""
 "|mana_b|, |tap|: Exile target instant or sorcery card from a graveyard. "
 "Each opponent loses 2 life."
 msgstr ""
+"|mana_b|, |tap|: Wygnaj wskazaną kartę sztuczki lub obrzędu z cmentarza. "
+"Każdy przeciwnik traci 2 życia."
 
 #: ../../GK1.rst:343
 msgid ""
 "|mana_g|, |tap|: Exile target creature card from a graveyard. You gain 2 "
 "life."
 msgstr ""
+"|mana_g|, |tap|: Wygnaj wskazaną kartę stwora z cmentarza. Zyskujesz 2 życia."
 
 #: ../../GK1.rst:348
 msgid ""
@@ -1112,6 +1130,9 @@ msgid ""
 "graveyard, then that creature gets -1/-1 until end of turn for each land "
 "card in your graveyard."
 msgstr ""
+"Wskaż stwora. Umieść cztery wierzchnie karty twojej biblioteki w twoim "
+"cmentarzu, następnie ów stwór dostaje -1/-1 do końca tury za każdą kartę "
+"lądu w twoim cmentarzu."
 
 #: ../../GK1.rst:352
 msgid ""
@@ -1125,6 +1146,7 @@ msgstr ""
 #: ../../GK1.rst:351
 msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgstr ""
+"Zniszcz każdy nielądowy permanent o skróconym koszcie many X lub mniejszym."
 
 #: ../../GK1.rst:362
 msgid ""
@@ -1136,15 +1158,15 @@ msgstr ""
 
 #: ../../GK1.rst:357
 msgid "All creatures get -1/-1 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają -1/-1 do końca tury."
 
 #: ../../GK1.rst:359
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../GK1.rst:361
 msgid "Regenerate each creature you control."
-msgstr ""
+msgstr "Zregeneruj każdego stwora pod twoim władaniem."
 
 #: ../../GK1.rst:368
 msgid ""
@@ -1155,7 +1177,7 @@ msgstr ""
 
 #: ../../GK1.rst:365
 msgid "|mana_1|, Sacrifice Grave-Shell Scarab: Draw a card."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../GK1.rst:367
 msgid ""
@@ -1176,6 +1198,9 @@ msgid ""
 "Reveal the top five cards of your library. You may put a creature or land"
 " card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora lub lądu spośród nich w twojej ręce. Umieść pozostałe w twoim "
+"cmentarzu."
 
 #: ../../GK1.rst:380
 msgid ""
@@ -1189,19 +1214,22 @@ msgstr ""
 msgid ""
 "Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your "
 "graveyard."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GK1.rst:377
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_g|, Sacrifice another creature: Each opponent"
 " loses life equal to the sacrificed creature's power."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_g|, poświęć innego stwora: Każdy przeciwnik "
+"traci tyle żyć, ile wynosiła siła poświęconego stwora."
 
 #: ../../GK1.rst:379
 msgid ""
 "Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your "
 "hand."
 msgstr ""
+"Poświęć Bagno oraz Las: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../GK1.rst:386
 msgid ""
@@ -1217,6 +1245,9 @@ msgid ""
 "intimidate until end of turn. (It can't be blocked except by artifact "
 "creatures and/or creatures that share a color with it.)"
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_g|: Wskazany stwór dostaje do końca tury +1/+1 "
+"oraz zastraszenie. (Nie może być blokowany, chyba że przez stwory "
+"artefaktyczne i/lub współdzielące z nim kolor.)"
 
 #: ../../GK1.rst:385
 msgid ""

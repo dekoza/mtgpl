@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 16:04+0000\n"
+"PO-Revision-Date: 2019-01-20 17:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm3/pl/>\n"
 "Language: pl\n"
@@ -2111,11 +2111,13 @@ msgstr ""
 
 #: ../../MM3.rst:761
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../MM3.rst:763
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
+"Zniszcz wskazany nie-lądowy permanent o skróconym koszcie many 3 lub "
+"mniejszym."
 
 #: ../../MM3.rst:768
 msgid ""
