@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-19 23:31+0000\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/all/pl/>\n"
 "Language: pl\n"
@@ -643,7 +643,7 @@ msgstr ""
 
 #: ../../ALL.rst:223
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../ALL.rst:225
 msgid "|mana_1|\\ |mana_u|: Return Viscerid Armor to its owner's hand."
@@ -870,7 +870,7 @@ msgstr ""
 
 #: ../../ALL.rst:307
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../ALL.rst:309
 msgid "|mana_1|\\ |mana_b|: Regenerate Lim-Dûl's High Guard."
@@ -2146,7 +2146,7 @@ msgstr ""
 
 #: ../../ALL.rst:751
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../ALL.rst:753
 msgid "|tap|: Target creature gets +1/+1 until end of turn."

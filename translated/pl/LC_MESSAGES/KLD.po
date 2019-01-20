@@ -2,14 +2,14 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-16 08:38+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -3167,6 +3167,9 @@ msgid ""
 "scry 1, look at the top card of your library, then you may put that card on "
 "the bottom of your library.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy gracz może wróżyć 1. (By wróżyć "
+"1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz umieścić "
+"ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../KLD.rst:1130
 msgid ""
@@ -3213,11 +3216,11 @@ msgstr ""
 
 #: ../../KLD.rst:1139
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 2 życia."
 
 #: ../../KLD.rst:1141
 msgid "When Filigree Familiar dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../KLD.rst:1148
 msgid ""

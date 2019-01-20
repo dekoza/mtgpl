@@ -1,15 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 20:05+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 00:26+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -1392,6 +1391,9 @@ msgid ""
 "Destroy target non-Zombie creature. It can't be regenerated. Return up to "
 "one target Zombie card from your graveyard to your hand."
 msgstr ""
+"Zniszcz wskazanego stwora nie będącego Zombi. Nie może być zregenerowany. "
+"Przywróć co najwyżej jedną wskazaną kartę Zombi z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../ORI.rst:506
 msgid ""
@@ -1556,7 +1558,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr "Kiedy ta karta wejdzie na pole walki, każdy gracz poświęca stwora."
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
 
 #: ../../ORI.rst:564
 msgid ""
@@ -1670,7 +1672,7 @@ msgstr ""
 
 #: ../../ORI.rst:595
 msgid "All creatures get -4/-4 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają -4/-4 do końca tury."
 
 #: ../../ORI.rst:602
 msgid ""
@@ -2049,8 +2051,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
-"Pierwszy Cios (Ten stwór zadaje obrażenia bitewne przed stworami bez "
-"Pierwszego Ciosu.)"
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../ORI.rst:736
 msgid ""
@@ -2197,7 +2199,7 @@ msgstr ""
 
 #: ../../ORI.rst:785
 msgid "Create two 1/1 red Goblin creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony czerwonego stwora Goblin 1/1."
 
 #: ../../ORI.rst:792
 msgid ""
@@ -2504,6 +2506,8 @@ msgid ""
 "When Seismic Elemental enters the battlefield, creatures without flying "
 "can't block this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwory bez latania nie mogą blokować "
+"w tej turze."
 
 #: ../../ORI.rst:904
 msgid ""
@@ -2965,6 +2969,9 @@ msgid ""
 "Scry 5, then reveal the top card of your library. If it's a creature card, "
 "you draw cards equal to its power and you gain life equal to its toughness."
 msgstr ""
+"Wróż 5, następnie ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
+"stwora, dobierasz tyle kart, ile ma siły oraz dostajesz tyle życia, ile ma "
+"wytrzymałości."
 
 #: ../../ORI.rst:1058
 msgid ""

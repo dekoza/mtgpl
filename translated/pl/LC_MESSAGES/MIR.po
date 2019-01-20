@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mir/pl/>\n"
 "Language: pl\n"
@@ -33,6 +33,8 @@ msgid ""
 "Destroy target creature. It can't be regenerated. Its controller creates "
 "a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Zniszcz wskazanego stwora. Nie może być zregenerowany. Jego władca tworzy "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../MIR.rst:14
 msgid ":mtgtip:`Alarum<https://img.scryfall.com/cards/border_crop/en/mir/2.jpg?1517813031|https://scryfall.com/card/mir/2/alarum?utm_source=api>`"
@@ -51,13 +53,15 @@ msgstr ""
 
 #: ../../MIR.rst:17
 msgid "When Auspicious Ancestor dies, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zyskujesz 3 życia."
 
 #: ../../MIR.rst:19
 msgid ""
 "Whenever a player casts a white spell, you may pay |mana_1|. If you do, "
 "you gain 1 life."
 msgstr ""
+"Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
+"to zrobisz, zyskujesz 1 życie."
 
 #: ../../MIR.rst:24
 msgid ""
@@ -81,7 +85,7 @@ msgstr ""
 
 #: ../../MIR.rst:27
 msgid "Tap all nonwhite creatures."
-msgstr ""
+msgstr "Przekręć wszystkie nie-białe stwory."
 
 #: ../../MIR.rst:36
 msgid ""
@@ -92,7 +96,7 @@ msgstr ""
 
 #: ../../MIR.rst:31
 msgid "Lands you control are Plains."
-msgstr ""
+msgstr "Lądy pod twoim władaniem są Równinami."
 
 #: ../../MIR.rst:33
 msgid ""
@@ -3287,7 +3291,7 @@ msgstr ""
 
 #: ../../MIR.rst:1265 ../../MIR.rst:1667
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../MIR.rst:1267
 msgid "|tap|: Add one mana of the chosen color."
@@ -4640,7 +4644,7 @@ msgstr ""
 
 #: ../../MIR.rst:1765
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../MIR.rst:1770
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/mir/335.jpg?1517813031|https://scryfall.com/card/mir/335/island?utm_source=api>`"
@@ -4648,7 +4652,7 @@ msgstr ""
 
 #: ../../MIR.rst:1769
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../MIR.rst:1774
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/mir/339.jpg?1517813031|https://scryfall.com/card/mir/339/swamp?utm_source=api>`"
@@ -4656,7 +4660,7 @@ msgstr ""
 
 #: ../../MIR.rst:1773
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../MIR.rst:1778
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/mir/343.jpg?1517813031|https://scryfall.com/card/mir/343/mountain?utm_source=api>`"
@@ -4664,7 +4668,7 @@ msgstr ""
 
 #: ../../MIR.rst:1777
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../MIR.rst:1781
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/mir/347.jpg?1517813031|https://scryfall.com/card/mir/347/forest?utm_source=api>`"
@@ -4672,4 +4676,4 @@ msgstr ""
 
 #: ../../MIR.rst:1781
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"

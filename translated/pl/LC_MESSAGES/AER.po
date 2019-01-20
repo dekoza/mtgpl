@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 22:36+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/aer/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2830,6 +2831,7 @@ msgstr ""
 #: ../../AER.rst:995
 msgid "|mana_3|\\ |mana_r|: Welder Automaton deals 1 damage to each opponent."
 msgstr ""
+"|mana_3|\\ |mana_r|: Ten stwór zadaje każdemu przeciwnikowi 1 obrażenie."
 
 #: ../../AER.rst:1002
 msgid ""

@@ -2,21 +2,22 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 20:05+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2\n"
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../C16.rst:5
@@ -569,7 +570,7 @@ msgstr ""
 
 #: ../../C16.rst:203 ../../C16.rst:737
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../C16.rst:205
 msgid "Whenever an opponent casts their second spell each turn, draw a card."
@@ -1774,7 +1775,7 @@ msgstr ""
 
 #: ../../C16.rst:651
 msgid "All creatures get -4/-4 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają -4/-4 do końca tury."
 
 #: ../../C16.rst:660
 msgid ""
@@ -3590,7 +3591,7 @@ msgstr ""
 
 #: ../../C16.rst:1315 ../../C16.rst:1773
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../C16.rst:1317
 msgid ""
@@ -3849,7 +3850,7 @@ msgstr ""
 #: ../../C16.rst:1411 ../../C16.rst:1431 ../../C16.rst:1693 ../../C16.rst:1859
 #: ../../C16.rst:1953
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../C16.rst:1418
 msgid ""
@@ -4751,7 +4752,7 @@ msgstr ""
 
 #: ../../C16.rst:1779 ../../C16.rst:1987
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../C16.rst:1781
 msgid ""
@@ -5215,9 +5216,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1971
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../C16.rst:1976
 msgid ""
@@ -5226,9 +5226,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1975
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../C16.rst:1980
 msgid ""
@@ -5237,9 +5236,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1979
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../C16.rst:1984
 msgid ""
@@ -5248,9 +5246,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1983
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../C16.rst:1987
 msgid ""

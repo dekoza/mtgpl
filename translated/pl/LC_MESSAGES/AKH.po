@@ -2,14 +2,14 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 20:05+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -1515,13 +1515,15 @@ msgstr ""
 
 #: ../../AKH.rst:545
 msgid "Zombies you control get +1/+1."
-msgstr ""
+msgstr "Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../AKH.rst:547
 msgid ""
 "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony czarnego stwora "
+"Zombi 2/2."
 
 #: ../../AKH.rst:554
 msgid ""
@@ -1532,11 +1534,12 @@ msgstr ""
 
 #: ../../AKH.rst:551
 msgid "Other Zombies you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem mają +1/+1."
 
 #: ../../AKH.rst:553
 msgid "|mana_1|\\ |mana_b|, |tap|: All Zombies gain menace until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wszystkie Zombi zyskują złowrogość do końca tury."
 
 #: ../../AKH.rst:558
 msgid ""
@@ -3771,13 +3774,15 @@ msgstr ""
 
 #: ../../AKH.rst:1363
 msgid "Green creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów zielonych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../AKH.rst:1365
 msgid ""
 "Whenever you cast a creature spell, target creature you control gets +2/+2 "
 "and gains trample until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar stwora, wskazany stwór pod twoim władaniem dostaje do "
+"końca tury +2/+2 i tratowanie."
 
 #: ../../AKH.rst:1370
 msgid ""

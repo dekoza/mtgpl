@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -329,15 +329,14 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
-"Pierwszy Cios (Ten stwór zadaje obrażenia bitewne przed stworami bez "
-"Pierwszego Ciosu.)"
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 # 42a8253a9c474398af4aca3ec6f49c52
 # 7d890483a44f4efc99df234fb92358fc
 #: ../../M14.rst:63
-#, fuzzy
 msgid "|mana_1|\\ |mana_w|: Capashen Knight gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_w|: Rycerz z Capashen dostaje +1/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../M14.rst:68
 msgid ""

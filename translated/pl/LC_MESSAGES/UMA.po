@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"PO-Revision-Date: 2019-01-20 00:26+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/uma/pl/>\n"
 "Language: pl\n"
@@ -195,6 +195,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../UMA.rst:69
 msgid ""
@@ -918,7 +920,7 @@ msgstr ""
 
 #: ../../UMA.rst:317
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../UMA.rst:328
 msgid ""
@@ -2570,7 +2572,7 @@ msgstr ""
 
 #: ../../UMA.rst:889
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../UMA.rst:891
 msgid "Put a -1/-1 counter on Devoted Druid: Untap Devoted Druid."
@@ -3652,7 +3654,7 @@ msgstr ""
 
 #: ../../UMA.rst:1287
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../UMA.rst:1292
 msgid ""
@@ -3859,7 +3861,7 @@ msgstr ""
 
 #: ../../UMA.rst:1369
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../UMA.rst:1371
 msgid "Mistveil Plains enters the battlefield tapped."

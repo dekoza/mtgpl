@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ice/pl/>\n"
 "Language: pl\n"
@@ -84,7 +84,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../ICE.rst:25 ../../ICE.rst:791
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../ICE.rst:27
 msgid "|mana_w|: Enchanted creature gets +0/+1 until end of turn."
@@ -2579,7 +2579,7 @@ msgstr ""
 
 #: ../../ICE.rst:993 ../../ICE.rst:1185
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../ICE.rst:995
 msgid ""
@@ -3441,7 +3441,7 @@ msgstr ""
 
 #: ../../ICE.rst:1323
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../ICE.rst:1332
 msgid ""
@@ -5084,7 +5084,7 @@ msgstr ""
 
 #: ../../ICE.rst:1945 ../../ICE.rst:1949
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../ICE.rst:1950
 msgid ""
@@ -5099,7 +5099,7 @@ msgstr ""
 
 #: ../../ICE.rst:1953 ../../ICE.rst:1957
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../ICE.rst:1958
 msgid ""
@@ -5117,7 +5117,7 @@ msgstr ""
 
 #: ../../ICE.rst:1961 ../../ICE.rst:1965
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../ICE.rst:1966
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/ice/373.jpg?1520457309|https://scryfall.com/card/ice/373/swamp?utm_source=api>`"
@@ -5129,7 +5129,7 @@ msgstr ""
 
 #: ../../ICE.rst:1969 ../../ICE.rst:1973
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../ICE.rst:1974
 msgid ""
@@ -5144,7 +5144,7 @@ msgstr ""
 
 #: ../../ICE.rst:1977 ../../ICE.rst:1981
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../ICE.rst:1981
 msgid ""

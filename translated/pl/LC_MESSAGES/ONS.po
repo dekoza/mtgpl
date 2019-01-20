@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"PO-Revision-Date: 2019-01-20 00:26+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ons/pl/>\n"
 "Language: pl\n"
@@ -299,7 +299,7 @@ msgstr ""
 
 #: ../../ONS.rst:103 ../../ONS.rst:115 ../../ONS.rst:1007
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../ONS.rst:105
 msgid ""
@@ -1917,6 +1917,9 @@ msgid ""
 "Destroy target non-Zombie creature. It can't be regenerated. Return up to"
 " one target Zombie card from your graveyard to your hand."
 msgstr ""
+"Zniszcz wskazanego stwora nie będącego Zombi. Nie może być zregenerowany. "
+"Przywróć co najwyżej jedną wskazaną kartę Zombi z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../ONS.rst:742
 msgid ""
@@ -3169,7 +3172,7 @@ msgstr ""
 
 #: ../../ONS.rst:1201
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../ONS.rst:1206
 msgid ""
@@ -3575,7 +3578,7 @@ msgstr ""
 
 #: ../../ONS.rst:1349
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../ONS.rst:1351
 msgid ""
@@ -4217,7 +4220,7 @@ msgstr ""
 
 #: ../../ONS.rst:1587 ../../ONS.rst:1729
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../ONS.rst:1592
 msgid ""
@@ -4643,7 +4646,7 @@ msgstr ""
 
 #: ../../ONS.rst:1755
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../ONS.rst:1760
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/ons/335.jpg?1517813031|https://scryfall.com/card/ons/335/island?utm_source=api>`"
@@ -4651,7 +4654,7 @@ msgstr ""
 
 #: ../../ONS.rst:1759
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../ONS.rst:1764
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/ons/339.jpg?1517813031|https://scryfall.com/card/ons/339/swamp?utm_source=api>`"
@@ -4659,7 +4662,7 @@ msgstr ""
 
 #: ../../ONS.rst:1763
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../ONS.rst:1768
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/ons/343.jpg?1517813031|https://scryfall.com/card/ons/343/mountain?utm_source=api>`"
@@ -4667,7 +4670,7 @@ msgstr ""
 
 #: ../../ONS.rst:1767
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../ONS.rst:1771
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/ons/347.jpg?1517813031|https://scryfall.com/card/ons/347/forest?utm_source=api>`"
@@ -4675,4 +4678,4 @@ msgstr ""
 
 #: ../../ONS.rst:1771
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"

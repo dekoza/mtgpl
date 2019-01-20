@@ -1,15 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-15 17:22+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2187,8 +2186,7 @@ msgid ""
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_r|: Zyskujesz władanie nad wskazanym stworem do końca tury. "
-"Odkręć owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj tę zdolność "
-"tylko wtedy, gdy możesz rzucić obrzęd."
+"Odkręć owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj jako obrzęd."
 
 #: ../../XLN.rst:696
 msgid ""
@@ -3082,7 +3080,7 @@ msgstr ""
 
 #: ../../XLN.rst:983
 msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on Jungle Delver."
-msgstr "|mana_3|\\ |mana_g|: Umieść znacznik +1/+1 na tej karcie."
+msgstr "|mana_3|\\ |mana_g|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../XLN.rst:988
 msgid ""

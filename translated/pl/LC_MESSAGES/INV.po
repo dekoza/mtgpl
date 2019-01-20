@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/inv/pl/>\n"
 "Language: pl\n"
@@ -169,7 +169,7 @@ msgstr ""
 
 #: ../../INV.rst:55
 msgid "Tap all nonwhite creatures."
-msgstr ""
+msgstr "Przekręć wszystkie nie-białe stwory."
 
 #: ../../INV.rst:60
 msgid ""
@@ -469,6 +469,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../INV.rst:164
 msgid ":mtgtip:`Restrain<https://img.scryfall.com/cards/border_crop/en/inv/30.jpg?1517813031|https://scryfall.com/card/inv/30/restrain?utm_source=api>`"
@@ -546,7 +548,7 @@ msgstr ""
 
 #: ../../INV.rst:189 ../../INV.rst:865 ../../INV.rst:879 ../../INV.rst:1535
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../INV.rst:191
 msgid ""
@@ -1141,7 +1143,7 @@ msgstr ""
 
 #: ../../INV.rst:427
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../INV.rst:436
 msgid ""
@@ -1754,7 +1756,7 @@ msgstr ""
 
 #: ../../INV.rst:677
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../INV.rst:684
 msgid ""
@@ -2863,7 +2865,7 @@ msgstr ""
 
 #: ../../INV.rst:1103 ../../INV.rst:1761
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../INV.rst:1105
 msgid "|tap|: Add one mana of the chosen color."
@@ -3058,7 +3060,7 @@ msgstr ""
 
 #: ../../INV.rst:1181 ../../INV.rst:1633
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../INV.rst:1190
 msgid ""
@@ -3294,7 +3296,7 @@ msgstr ""
 
 #: ../../INV.rst:1269
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../INV.rst:1271
 msgid ""
@@ -4584,7 +4586,7 @@ msgstr ""
 
 #: ../../INV.rst:1773
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../INV.rst:1778
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/inv/335.jpg?1517813031|https://scryfall.com/card/inv/335/island?utm_source=api>`"
@@ -4592,7 +4594,7 @@ msgstr ""
 
 #: ../../INV.rst:1777
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../INV.rst:1782
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/inv/339.jpg?1517813031|https://scryfall.com/card/inv/339/swamp?utm_source=api>`"
@@ -4600,7 +4602,7 @@ msgstr ""
 
 #: ../../INV.rst:1781
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../INV.rst:1786
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/inv/343.jpg?1517813031|https://scryfall.com/card/inv/343/mountain?utm_source=api>`"
@@ -4608,7 +4610,7 @@ msgstr ""
 
 #: ../../INV.rst:1785
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../INV.rst:1789
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/inv/347.jpg?1517813031|https://scryfall.com/card/inv/347/forest?utm_source=api>`"
@@ -4616,4 +4618,4 @@ msgstr ""
 
 #: ../../INV.rst:1789
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"

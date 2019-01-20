@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"PO-Revision-Date: 2019-01-20 00:26+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/tsp/pl/>\n"
 "Language: pl\n"
@@ -774,6 +774,7 @@ msgid ""
 "Shadow (This creature can block or be blocked by only creatures with "
 "shadow.)"
 msgstr ""
+"Cień (Ten stwór może blokować i być blokowany tylko przez stwory z cieniem.)"
 
 #: ../../TSP.rst:295
 msgid ""
@@ -1947,7 +1948,7 @@ msgstr ""
 
 #: ../../TSP.rst:741 ../../TSP.rst:1001
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../TSP.rst:743
 msgid ""
@@ -2389,7 +2390,7 @@ msgstr ""
 
 #: ../../TSP.rst:911
 msgid "Create two 1/1 red Goblin creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony czerwonego stwora Goblin 1/1."
 
 #: ../../TSP.rst:913
 msgid ""
@@ -4193,7 +4194,7 @@ msgstr ""
 
 #: ../../TSP.rst:1575
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../TSP.rst:1577
 msgid ""
@@ -4402,7 +4403,7 @@ msgstr ""
 
 #: ../../TSP.rst:1667
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../TSP.rst:1672
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/tsp/286.jpg?1517813031|https://scryfall.com/card/tsp/286/island?utm_source=api>`"
@@ -4410,7 +4411,7 @@ msgstr ""
 
 #: ../../TSP.rst:1671
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../TSP.rst:1676
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/tsp/290.jpg?1517813031|https://scryfall.com/card/tsp/290/swamp?utm_source=api>`"
@@ -4418,7 +4419,7 @@ msgstr ""
 
 #: ../../TSP.rst:1675
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../TSP.rst:1680
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/tsp/294.jpg?1517813031|https://scryfall.com/card/tsp/294/mountain?utm_source=api>`"
@@ -4426,7 +4427,7 @@ msgstr ""
 
 #: ../../TSP.rst:1679
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../TSP.rst:1683
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/tsp/298.jpg?1517813031|https://scryfall.com/card/tsp/298/forest?utm_source=api>`"
@@ -4434,4 +4435,4 @@ msgstr ""
 
 #: ../../TSP.rst:1683
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"

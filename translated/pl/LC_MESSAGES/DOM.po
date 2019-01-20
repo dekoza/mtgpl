@@ -1,15 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 20:05+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2411,7 +2410,7 @@ msgid ""
 "When Siege-Gang Commander enters the battlefield, create three 1/1 red "
 "Goblin creature tokens."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz trzy żetony czerwonego stwora "
+"Kiedy ten stwór wejdzie na pole walki, stwórz trzy żetony czerwonego stwora "
 "Goblin 1/1."
 
 #: ../../DOM.rst:809
@@ -2419,8 +2418,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
 msgstr ""
-"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w dowolny "
-"cel."
+"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w "
+"dowolnie wskazany cel."
 
 #: ../../DOM.rst:814
 msgid ""

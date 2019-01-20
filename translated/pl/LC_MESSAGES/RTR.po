@@ -1,19 +1,21 @@
 # Dominik <Kozaczko>, 2013.
 # Dominik <dominik@kozaczko.info>, 2013.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-18 08:46+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 00:26+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2\n"
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../RTR.rst:5
@@ -4021,9 +4023,8 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1335
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../RTR.rst:1340
 msgid ""
@@ -4032,9 +4033,8 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1339
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../RTR.rst:1344
 msgid ""
@@ -4043,9 +4043,8 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1343
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b| lub |mana_r|.)"
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../RTR.rst:1348
 msgid ""
@@ -4054,9 +4053,8 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1347
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../RTR.rst:1351
 msgid ""
@@ -4065,9 +4063,8 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1351
-#, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #~ msgid "Choose one — Creatures you control gain lifelink until end of turn"
 #~ msgstr ""

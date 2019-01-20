@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-19 23:32+0000\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/leg/pl/>\n"
 "Language: pl\n"
@@ -570,6 +570,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../LEG.rst:200
 msgid ":mtgtip:`Visions<https://img.scryfall.com/cards/border_crop/en/leg/41.jpg?1517813031|https://scryfall.com/card/leg/41/visions?utm_source=api>`"
@@ -1243,7 +1245,7 @@ msgstr ""
 #: ../../LEG.rst:453 ../../LEG.rst:759 ../../LEG.rst:929 ../../LEG.rst:1107
 #: ../../LEG.rst:1175 ../../LEG.rst:1217 ../../LEG.rst:1303
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../LEG.rst:455
 msgid ""
@@ -3994,7 +3996,7 @@ msgstr ""
 
 #: ../../LEG.rst:1501
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../LEG.rst:1503
 msgid "|tap|: Target 1/1 creature gets +1/+2 until end of turn."

@@ -1,15 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-19 20:05+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gnt/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -337,6 +336,9 @@ msgstr ""
 #: ../../GNT.rst:151
 msgid "Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand."
 msgstr ""
+"Zniszcz wskazanego stwora nie będącego Zombi. Nie może być zregenerowany. "
+"Przywróć co najwyżej jedną wskazaną kartę Zombi z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../GNT.rst:156
 msgid ":mtgtip:`Fleshbag Marauder<https://img.scryfall.com/cards/border_crop/front/4/d/4d481e22-328a-478c-9dee-3ef715c2ced3.jpg?1543674743|https://scryfall.com/card/gnt/29/fleshbag-marauder?utm_source=api>`"
@@ -344,7 +346,7 @@ msgstr ""
 
 #: ../../GNT.rst:155
 msgid "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
 
 #: ../../GNT.rst:160
 msgid ":mtgtip:`Gruesome Fate<https://img.scryfall.com/cards/border_crop/front/6/1/611e1c69-1343-48ad-a669-8ccd1c1efe24.jpg?1543674750|https://scryfall.com/card/gnt/30/gruesome-fate?utm_source=api>`"
@@ -352,7 +354,7 @@ msgstr ""
 
 #: ../../GNT.rst:159
 msgid "Each opponent loses 1 life for each creature you control."
-msgstr ""
+msgstr "Każdy przeciwnik traci 1 życie za każdego stwora pod twoim władaniem."
 
 #: ../../GNT.rst:164
 msgid ":mtgtip:`Languish<https://img.scryfall.com/cards/border_crop/front/c/a/ca2a667b-2ca1-4756-9524-5bcd3bca0f41.jpg?1543674761|https://scryfall.com/card/gnt/31/languish?utm_source=api>`"
@@ -360,7 +362,7 @@ msgstr ""
 
 #: ../../GNT.rst:163
 msgid "All creatures get -4/-4 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają -4/-4 do końca tury."
 
 #: ../../GNT.rst:170
 msgid ":mtgtip:`Liliana's Mastery<https://img.scryfall.com/cards/border_crop/front/4/f/4ff4a2f3-f923-428c-a402-4ff0e602139e.jpg?1543674769|https://scryfall.com/card/gnt/32/lilianas-mastery?utm_source=api>`"
@@ -368,11 +370,13 @@ msgstr ""
 
 #: ../../GNT.rst:167
 msgid "Zombies you control get +1/+1."
-msgstr ""
+msgstr "Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../GNT.rst:169
 msgid "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie creature tokens."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony czarnego stwora "
+"Zombi 2/2."
 
 #: ../../GNT.rst:176
 msgid ":mtgtip:`Lord of the Accursed<https://img.scryfall.com/cards/border_crop/front/0/b/0bf248d8-80ff-4d5b-a616-0b0bc42c7f7a.jpg?1543674777|https://scryfall.com/card/gnt/33/lord-of-the-accursed?utm_source=api>`"
@@ -380,11 +384,12 @@ msgstr ""
 
 #: ../../GNT.rst:173
 msgid "Other Zombies you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem mają +1/+1."
 
 #: ../../GNT.rst:175
 msgid "|mana_1|\\ |mana_b|, |tap|: All Zombies gain menace until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wszystkie Zombi zyskują złowrogość do końca tury."
 
 #: ../../GNT.rst:180
 msgid ":mtgtip:`Tattered Mummy<https://img.scryfall.com/cards/border_crop/front/2/8/2816e903-71a0-4b3f-abee-de275d47b721.jpg?1543674784|https://scryfall.com/card/gnt/34/tattered-mummy?utm_source=api>`"
@@ -392,7 +397,7 @@ msgstr ""
 
 #: ../../GNT.rst:179
 msgid "When Tattered Mummy dies, each opponent loses 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci 2 życia."
 
 #: ../../GNT.rst:184
 msgid ":mtgtip:`Thallid Soothsayer<https://img.scryfall.com/cards/border_crop/front/f/f/ff6c08d7-9b2d-475f-9acb-f8a995e7e804.jpg?1543674792|https://scryfall.com/card/gnt/35/thallid-soothsayer?utm_source=api>`"
@@ -400,7 +405,7 @@ msgstr ""
 
 #: ../../GNT.rst:183
 msgid "|mana_2|, Sacrifice a creature: Draw a card."
-msgstr ""
+msgstr "|mana_2|, poświęć stwora: Dobierz kartę."
 
 #: ../../GNT.rst:188
 msgid ":mtgtip:`Zulaport Cutthroat<https://img.scryfall.com/cards/border_crop/front/f/c/fc2de819-1e93-4112-96e8-fb60be3c0707.jpg?1543674801|https://scryfall.com/card/gnt/36/zulaport-cutthroat?utm_source=api>`"
@@ -409,6 +414,8 @@ msgstr ""
 #: ../../GNT.rst:187
 msgid "Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life."
 msgstr ""
+"Kiedy ten lub inny stwór pod twoim władaniem umrze, każdy przeciwnik traci 1 "
+"życia, a ty zyskujesz 1 życie."
 
 #: ../../GNT.rst:192
 msgid ":mtgtip:`Bombard<https://img.scryfall.com/cards/border_crop/front/1/f/1f391555-4697-4492-9854-32393f473104.jpg?1543674809|https://scryfall.com/card/gnt/37/bombard?utm_source=api>`"
@@ -416,7 +423,7 @@ msgstr ""
 
 #: ../../GNT.rst:191
 msgid "Bombard deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia wskazanemu stworowi."
 
 #: ../../GNT.rst:196
 msgid ":mtgtip:`Captivating Crew<https://img.scryfall.com/cards/border_crop/front/a/c/ac7c37f3-c719-404d-993d-f5bebff92edf.jpg?1543674819|https://scryfall.com/card/gnt/38/captivating-crew?utm_source=api>`"
@@ -425,6 +432,8 @@ msgstr ""
 #: ../../GNT.rst:195
 msgid "|mana_3|\\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_r|: Zyskujesz władanie nad wskazanym stworem do końca tury. "
+"Odkręć owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj jako obrzęd."
 
 #: ../../GNT.rst:200
 msgid ":mtgtip:`Dragon Fodder<https://img.scryfall.com/cards/border_crop/front/f/8/f86c2fae-4e0d-435f-a378-0231d566fbad.jpg?1543674827|https://scryfall.com/card/gnt/39/dragon-fodder?utm_source=api>`"
@@ -432,7 +441,7 @@ msgstr ""
 
 #: ../../GNT.rst:199
 msgid "Create two 1/1 red Goblin creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony czerwonego stwora Goblin 1/1."
 
 #: ../../GNT.rst:204
 msgid ":mtgtip:`Rolling Thunder<https://img.scryfall.com/cards/border_crop/front/0/d/0df50703-5655-4bc4-adc9-d719c2da3bfd.jpg?1543674835|https://scryfall.com/card/gnt/40/rolling-thunder?utm_source=api>`"
@@ -441,6 +450,8 @@ msgstr ""
 #: ../../GNT.rst:203
 msgid "Rolling Thunder deals X damage divided as you choose among any number of targets."
 msgstr ""
+"Ten czar zadaje X obrażeń rozdzielone według twojego uznania pomiędzy "
+"dowolną liczbę wskazanych celów."
 
 #: ../../GNT.rst:208
 msgid ":mtgtip:`Seismic Elemental<https://img.scryfall.com/cards/border_crop/front/9/9/998e5964-b758-413e-8360-4df4cb119f58.jpg?1543674844|https://scryfall.com/card/gnt/41/seismic-elemental?utm_source=api>`"
@@ -449,6 +460,8 @@ msgstr ""
 #: ../../GNT.rst:207
 msgid "When Seismic Elemental enters the battlefield, creatures without flying can't block this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwory bez latania nie mogą blokować "
+"w tej turze."
 
 #: ../../GNT.rst:214
 msgid ":mtgtip:`Siege-Gang Commander<https://img.scryfall.com/cards/border_crop/front/5/f/5ffd5cb7-7002-4c9e-b04f-6ee6d168afc3.jpg?1543674852|https://scryfall.com/card/gnt/42/siege-gang-commander?utm_source=api>`"
@@ -457,10 +470,14 @@ msgstr ""
 #: ../../GNT.rst:211
 msgid "When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz trzy żetony czerwonego stwora "
+"Goblin 1/1."
 
 #: ../../GNT.rst:213
 msgid "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target."
 msgstr ""
+"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w "
+"dowolnie wskazany cel."
 
 #: ../../GNT.rst:220
 msgid ":mtgtip:`Tormenting Voice<https://img.scryfall.com/cards/border_crop/front/5/a/5abc82e3-465c-4c54-8e87-6cd6d99eaff2.jpg?1543674861|https://scryfall.com/card/gnt/43/tormenting-voice?utm_source=api>`"
@@ -468,11 +485,11 @@ msgstr ""
 
 #: ../../GNT.rst:217
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, odrzuć kartę."
 
 #: ../../GNT.rst:219
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../GNT.rst:226
 msgid ":mtgtip:`Ghalta, Primal Hunger<https://img.scryfall.com/cards/border_crop/front/b/2/b2a93747-720a-4ddf-8325-36db78e0a584.jpg?1543674869|https://scryfall.com/card/gnt/44/ghalta-primal-hunger?utm_source=api>`"
@@ -481,6 +498,8 @@ msgstr ""
 #: ../../GNT.rst:223
 msgid "Ghalta, Primal Hunger costs |mana_x| less to cast, where X is the total power of creatures you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje |mana_x| mniej, gdzie X jest sumą siły stworów "
+"pod twoim władaniem."
 
 #: ../../GNT.rst:230
 msgid ":mtgtip:`Jungle Delver<https://img.scryfall.com/cards/border_crop/front/a/e/ae4328fc-20d2-487b-9a74-57c39b0810c0.jpg?1543674877|https://scryfall.com/card/gnt/45/jungle-delver?utm_source=api>`"
@@ -488,7 +507,7 @@ msgstr ""
 
 #: ../../GNT.rst:229
 msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on Jungle Delver."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../GNT.rst:234
 msgid ":mtgtip:`Llanowar Elves<https://img.scryfall.com/cards/border_crop/front/8/b/8bbcfb77-daa1-4ce5-b5f9-48d0a8edbba9.jpg?1543674886|https://scryfall.com/card/gnt/46/llanowar-elves?utm_source=api>`"
@@ -496,7 +515,7 @@ msgstr ""
 
 #: ../../GNT.rst:233
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../GNT.rst:238
 msgid ":mtgtip:`Nissa's Revelation<https://img.scryfall.com/cards/border_crop/front/a/2/a229b53f-f34b-44f5-b0b4-94239b85a15b.jpg?1543674895|https://scryfall.com/card/gnt/47/nissas-revelation?utm_source=api>`"
@@ -505,6 +524,9 @@ msgstr ""
 #: ../../GNT.rst:237
 msgid "Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness."
 msgstr ""
+"Wróż 5, następnie ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
+"stwora, dobierasz tyle kart, ile ma siły oraz dostajesz tyle życia, ile ma "
+"wytrzymałości."
 
 #: ../../GNT.rst:242
 msgid ":mtgtip:`Overcome<https://img.scryfall.com/cards/border_crop/front/0/f/0f1e7344-390c-49b4-943d-2056b41fd3ae.jpg?1543674904|https://scryfall.com/card/gnt/48/overcome?utm_source=api>`"
@@ -512,7 +534,7 @@ msgstr ""
 
 #: ../../GNT.rst:241
 msgid "Creatures you control get +2/+2 and gain trample until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+2 i tratowanie."
 
 #: ../../GNT.rst:246
 msgid ":mtgtip:`Seek the Wilds<https://img.scryfall.com/cards/border_crop/front/4/a/4ac58ffa-a9ea-4bc3-bd43-76b0764742bb.jpg?1543674912|https://scryfall.com/card/gnt/49/seek-the-wilds?utm_source=api>`"
@@ -521,6 +543,9 @@ msgstr ""
 #: ../../GNT.rst:245
 msgid "Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę stwora lub lądu i umieścić ja w twojej ręce. Umieść pozostałe w "
+"dowolnej kolejności na spodzie twojej biblioteki."
 
 #: ../../GNT.rst:250
 msgid ":mtgtip:`Thrashing Brontodon<https://img.scryfall.com/cards/border_crop/front/d/3/d3a45c57-9dc5-418b-99f3-b770a94eea47.jpg?1543674922|https://scryfall.com/card/gnt/50/thrashing-brontodon?utm_source=api>`"
@@ -528,7 +553,7 @@ msgstr ""
 
 #: ../../GNT.rst:249
 msgid "|mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../GNT.rst:254
 msgid ":mtgtip:`Eager Construct<https://img.scryfall.com/cards/border_crop/front/a/4/a4beab22-6824-4039-9266-8e6bcf1c91e5.jpg?1543674932|https://scryfall.com/card/gnt/51/eager-construct?utm_source=api>`"
@@ -537,6 +562,9 @@ msgstr ""
 #: ../../GNT.rst:253
 msgid "When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy gracz może wróżyć 1. (By wróżyć "
+"1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz umieścić "
+"ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../GNT.rst:260
 msgid ":mtgtip:`Filigree Familiar<https://img.scryfall.com/cards/border_crop/front/d/f/df50ecad-6af3-40c5-a4cf-8e3c24a78f77.jpg?1543674943|https://scryfall.com/card/gnt/52/filigree-familiar?utm_source=api>`"
@@ -544,11 +572,11 @@ msgstr ""
 
 #: ../../GNT.rst:257
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 2 życia."
 
 #: ../../GNT.rst:259
 msgid "When Filigree Familiar dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../GNT.rst:264
 msgid ":mtgtip:`Howling Golem<https://img.scryfall.com/cards/border_crop/front/2/4/24c4089d-8af1-490e-b12f-9d3f0918ce66.jpg?1543674951|https://scryfall.com/card/gnt/53/howling-golem?utm_source=api>`"
@@ -556,7 +584,7 @@ msgstr ""
 
 #: ../../GNT.rst:263
 msgid "Whenever Howling Golem attacks or blocks, each player draws a card."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje lub blokuje, każdy gracz dobiera kartę."
 
 #: ../../GNT.rst:268
 msgid ":mtgtip:`Manalith<https://img.scryfall.com/cards/border_crop/front/f/0/f0d7d904-f29b-4524-9223-27910d748bdb.jpg?1543674962|https://scryfall.com/card/gnt/54/manalith?utm_source=api>`"
@@ -564,7 +592,7 @@ msgstr ""
 
 #: ../../GNT.rst:267
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../GNT.rst:274
 msgid ":mtgtip:`Pilgrim's Eye<https://img.scryfall.com/cards/border_crop/front/3/b/3bef04f5-4498-40c7-bfc2-0e2e619fcca1.jpg?1543674969|https://scryfall.com/card/gnt/55/pilgrims-eye?utm_source=api>`"
@@ -573,6 +601,9 @@ msgstr ""
 #: ../../GNT.rst:273
 msgid "When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, następnie ujawnij ją, umieść w twojej ręce i przetasuj "
+"twoją bibliotekę."
 
 #: ../../GNT.rst:280
 msgid ":mtgtip:`Rhonas's Monument<https://img.scryfall.com/cards/border_crop/front/7/d/7d24b200-5cab-406a-a0e6-71a4d33b26fb.jpg?1543674978|https://scryfall.com/card/gnt/56/rhonass-monument?utm_source=api>`"
@@ -580,11 +611,13 @@ msgstr ""
 
 #: ../../GNT.rst:277
 msgid "Green creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów zielonych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../GNT.rst:279
 msgid "Whenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar stwora, wskazany stwór pod twoim władaniem dostaje do "
+"końca tury +2/+2 i tratowanie."
 
 #: ../../GNT.rst:284
 msgid ":mtgtip:`Snare Thopter<https://img.scryfall.com/cards/border_crop/front/5/2/52b0ba0d-078e-4f54-81da-88f86227df4f.jpg?1543674986|https://scryfall.com/card/gnt/57/snare-thopter?utm_source=api>`"
@@ -592,7 +625,7 @@ msgstr ""
 
 #: ../../GNT.rst:283
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../GNT.rst:288
 msgid ":mtgtip:`Welder Automaton<https://img.scryfall.com/cards/border_crop/front/9/3/938066de-d111-4df2-87f0-9eb72aa4cdac.jpg?1543674994|https://scryfall.com/card/gnt/58/welder-automaton?utm_source=api>`"
@@ -601,6 +634,7 @@ msgstr ""
 #: ../../GNT.rst:287
 msgid "|mana_3|\\ |mana_r|: Welder Automaton deals 1 damage to each opponent."
 msgstr ""
+"|mana_3|\\ |mana_r|: Ten stwór zadaje każdemu przeciwnikowi 1 obrażenie."
 
 #: ../../GNT.rst:292
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/f/e/feada93b-aabf-45d6-ac46-98b33caf9112.jpg?1543675002|https://scryfall.com/card/gnt/59/plains?utm_source=api>`"
@@ -608,7 +642,7 @@ msgstr ""
 
 #: ../../GNT.rst:291
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../GNT.rst:296
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/0/b/0ba8851d-0b25-4232-acd3-594b5b25f16e.jpg?1543675020|https://scryfall.com/card/gnt/61/island?utm_source=api>`"
@@ -616,7 +650,7 @@ msgstr ""
 
 #: ../../GNT.rst:295
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../GNT.rst:300
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/8/b/8bc682cd-b13b-4670-913c-70542f161316.jpg?1543675036|https://scryfall.com/card/gnt/63/swamp?utm_source=api>`"
@@ -624,7 +658,7 @@ msgstr ""
 
 #: ../../GNT.rst:299
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../GNT.rst:304
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/4/9/49ac3fd1-f732-4d96-ac93-560e4e86051e.jpg?1543675054|https://scryfall.com/card/gnt/65/mountain?utm_source=api>`"
@@ -632,7 +666,7 @@ msgstr ""
 
 #: ../../GNT.rst:303
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../GNT.rst:307
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/5/8/58fe058d-7796-4233-8d74-2a12f9bd0023.jpg?1543675077|https://scryfall.com/card/gnt/67/forest?utm_source=api>`"
@@ -640,4 +674,4 @@ msgstr ""
 
 #: ../../GNT.rst:307
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"
