@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 20:14+0000\n"
+"PO-Revision-Date: 2019-01-20 20:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/a25/pl/>\n"
 "Language: pl\n"
@@ -1899,6 +1899,8 @@ msgid ""
 "Whenever Frenzied Goblin attacks, you may pay |mana_r|. If you do, target"
 " creature can't block this turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_r|. Jeśli to zrobisz, "
+"wskazany stwór nie może blokować w tej turze."
 
 #: ../../A25.rst:702
 msgid ""
@@ -2007,7 +2009,7 @@ msgstr ""
 
 #: ../../A25.rst:729
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../A25.rst:731
 msgid "|mana_r|, |tap|: Exile target instant or sorcery card from your graveyard."
@@ -2834,15 +2836,15 @@ msgstr ""
 
 #: ../../A25.rst:1031
 msgid "Boros Charm deals 4 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
 #: ../../A25.rst:1033
 msgid "Permanents you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Permanenty pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../A25.rst:1035
 msgid "Target creature gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../A25.rst:1042
 msgid ""
@@ -2905,7 +2907,7 @@ msgstr ""
 
 #: ../../A25.rst:1059
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../A25.rst:1061
 msgid ""

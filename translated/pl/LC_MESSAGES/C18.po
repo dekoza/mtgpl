@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-20 20:14+0000\n"
+"PO-Revision-Date: 2019-01-20 20:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -319,7 +319,7 @@ msgstr ""
 #: ../../C18.rst:141
 #: ../../C18.rst:293
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../C18.rst:143
 msgid "Lieutenant — At the beginning of combat on your turn, if you control your commander, create a 1/1 colorless Thopter artifact creature token with flying. That token gains haste until end of turn."
@@ -2795,10 +2795,12 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 #: ../../C18.rst:1479
 msgid "When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C18.rst:1481
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../C18.rst:1486
 msgid ":mtgtip:`Great Furnace<https://img.scryfall.com/cards/border_crop/en/c18/250.jpg?1535505419|https://scryfall.com/card/c18/250/great-furnace?utm_source=api>`"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 20:15+0000\n"
+"PO-Revision-Date: 2019-01-20 20:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm3/pl/>\n"
 "Language: pl\n"
@@ -1377,7 +1377,7 @@ msgstr ""
 #: ../../MM3.rst:495 ../../MM3.rst:507 ../../MM3.rst:597 ../../MM3.rst:633
 #: ../../MM3.rst:983
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../MM3.rst:497
 msgid ""
@@ -2933,10 +2933,12 @@ msgid ""
 "Whenever Boros Reckoner is dealt damage, it deals that much damage to any"
 " target."
 msgstr ""
+"Ilekroć ten stwór otrzymuje obrażenia, zadaje tyle samo obrażeń we wskazany "
+"cel."
 
 #: ../../MM3.rst:1073
 msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_rw|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../MM3.rst:1078
 msgid ""

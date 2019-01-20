@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 17:59+0000\n"
+"PO-Revision-Date: 2019-01-20 20:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -458,7 +458,7 @@ msgstr ""
 
 #: ../../C17.rst:161
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../C17.rst:163
 msgid "|mana_r|, |tap|: Exile target instant or sorcery card from your graveyard."
@@ -4727,9 +4727,8 @@ msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/c17/307.jpg
 msgstr ""
 
 #: ../../C17.rst:1809
-#, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #~ msgid "Commander 2017"
 #~ msgstr ""

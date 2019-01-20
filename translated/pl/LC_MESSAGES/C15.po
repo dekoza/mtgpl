@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:14+0000\n"
+"PO-Revision-Date: 2019-01-20 20:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -511,7 +511,7 @@ msgstr ""
 
 #: ../../C15.rst:183 ../../C15.rst:891
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../C15.rst:190
 msgid ""
@@ -4441,11 +4441,12 @@ msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C15.rst:1613
-#, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../C15.rst:1620
 msgid ""

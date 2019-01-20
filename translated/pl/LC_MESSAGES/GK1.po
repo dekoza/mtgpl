@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 20:14+0000\n"
+"PO-Revision-Date: 2019-01-20 20:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gk1/pl/>\n"
 "Language: pl\n"
@@ -1394,10 +1394,12 @@ msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../GK1.rst:433
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../GK1.rst:438
 msgid ""
@@ -1408,7 +1410,7 @@ msgstr ""
 
 #: ../../GK1.rst:437
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../GK1.rst:444
 msgid ""
@@ -1421,7 +1423,7 @@ msgstr ""
 
 #: ../../GK1.rst:441 ../../GK1.rst:529
 msgid "Flying, vigilance, haste"
-msgstr ""
+msgstr "Latanie, czujność, pośpiech"
 
 #: ../../GK1.rst:443
 msgid ""
@@ -1429,6 +1431,8 @@ msgid ""
 "untap all creatures you control. After this phase, there is an additional"
 " combat phase."
 msgstr ""
+"Ilekroć ten stwór atakuje po raz pierwszy w danej turze, odkręć wszystkie "
+"stwory pod twoim władaniem. Po tej fazie następuje dodatkowa faza walki."
 
 #: ../../GK1.rst:448
 msgid ""
@@ -1443,6 +1447,8 @@ msgid ""
 "Battalion — Whenever Boros Elite and at least two other creatures attack,"
 " Boros Elite gets +2/+2 until end of turn."
 msgstr ""
+"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, "
+"niniejszy stwór dostaje +2/+2 do końca tury."
 
 #: ../../GK1.rst:452
 msgid ""
@@ -1457,6 +1463,8 @@ msgid ""
 "Battalion — Whenever Daring Skyjek and at least two other creatures "
 "attack, Daring Skyjek gains flying until end of turn."
 msgstr ""
+"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, "
+"niniejszy stwór zyskuje latanie do końca tury."
 
 #: ../../GK1.rst:456
 msgid ""
@@ -1471,6 +1479,8 @@ msgid ""
 "Battalion — Whenever Bomber Corps and at least two other creatures "
 "attack, Bomber Corps deals 1 damage to any target."
 msgstr ""
+"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, "
+"niniejszy stwór zadaje 1 obrażenie we wskazany cel."
 
 #: ../../GK1.rst:460
 msgid ""
@@ -1485,6 +1495,8 @@ msgid ""
 "Whenever Frenzied Goblin attacks, you may pay |mana_r|. If you do, target"
 " creature can't block this turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_r|. Jeśli to zrobisz, "
+"wskazany stwór nie może blokować w tej turze."
 
 #: ../../GK1.rst:466
 msgid ""
@@ -1495,7 +1507,7 @@ msgstr ""
 
 #: ../../GK1.rst:463
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../GK1.rst:465
 msgid ""
@@ -1503,6 +1515,9 @@ msgid ""
 "attack, creatures you control gain first strike and trample until end of "
 "turn and can't be blocked by creature tokens this turn."
 msgstr ""
+"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, stwory "
+"pod twoim władaniem zyskują do końca tury pierwszy cios i tratowanie oraz "
+"nie mogą być w tej turze blokowane przez żetonowe stwory."
 
 #: ../../GK1.rst:470
 msgid ""
@@ -1517,6 +1532,8 @@ msgid ""
 "Whenever Agrus Kos, Wojek Veteran attacks, attacking red creatures get "
 "+2/+0 and attacking white creatures get +0/+2 until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, do końca tury atakujące czerwone stwory dostają +"
+"2/+0 oraz atakujące białe stwory dostają +0/+2."
 
 #: ../../GK1.rst:480
 msgid ""
@@ -1528,15 +1545,15 @@ msgstr ""
 
 #: ../../GK1.rst:475
 msgid "Boros Charm deals 4 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
 #: ../../GK1.rst:477
 msgid "Permanents you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Permanenty pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../GK1.rst:479
 msgid "Target creature gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../GK1.rst:486
 msgid ""
@@ -1551,10 +1568,12 @@ msgid ""
 "Whenever Boros Reckoner is dealt damage, it deals that much damage to any"
 " target."
 msgstr ""
+"Ilekroć ten stwór otrzymuje obrażenia, zadaje tyle samo obrażeń we wskazany "
+"cel."
 
 #: ../../GK1.rst:485
 msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_rw|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../GK1.rst:490
 msgid ""
@@ -1566,7 +1585,7 @@ msgstr ""
 
 #: ../../GK1.rst:489
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../GK1.rst:494
 msgid ""
@@ -1581,6 +1600,9 @@ msgid ""
 "creature that shares a color with it. You gain life equal to the damage "
 "dealt this way."
 msgstr ""
+"Promienistość — Ten czar zadaje X obrażeń wskazanemu stworowi i każdemu "
+"innemu stworowi współdzielącemu z nim kolor. Zyskujesz życia równe "
+"obrażeniom zadanym w ten sposób."
 
 #: ../../GK1.rst:502
 msgid ""
@@ -1591,13 +1613,15 @@ msgstr ""
 
 #: ../../GK1.rst:497
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../GK1.rst:499
 msgid ""
 "At the beginning of your upkeep, if Firemane Angel is in your graveyard "
 "or on the battlefield, you may gain 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ta karta jest w twoim cmentarzu "
+"lub na polu walki, możesz zyskać 1 życie."
 
 #: ../../GK1.rst:501
 msgid ""
@@ -1605,6 +1629,9 @@ msgid ""
 "Angel from your graveyard to the battlefield. Activate this ability only "
 "during your upkeep."
 msgstr ""
+"|mana_6|\\ |mana_r|\\ |mana_r|\\ |mana_w|\\ |mana_w|: Przywróć tę kartę z "
+"twojego cmentarza na pole walki. Aktywuj tylko podczas twojego kroku "
+"utrzymania."
 
 #: ../../GK1.rst:508
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:14+0000\n"
+"PO-Revision-Date: 2019-01-20 20:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -3104,15 +3104,15 @@ msgstr ""
 
 #: ../../C13.rst:1001
 msgid "Boros Charm deals 4 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
 #: ../../C13.rst:1003
 msgid "Permanents you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Permanenty pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../C13.rst:1005
 msgid "Target creature gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../C13.rst:1012
 msgid ""
@@ -5007,13 +5007,14 @@ msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1675
-#, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../C13.rst:1682
 msgid ""

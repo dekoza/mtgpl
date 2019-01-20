@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 20:14+0000\n"
+"PO-Revision-Date: 2019-01-20 20:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ima/pl/>\n"
 "Language: pl\n"
@@ -1860,7 +1860,7 @@ msgstr ""
 
 #: ../../IMA.rst:753 ../../IMA.rst:771
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../IMA.rst:755
 msgid ""
@@ -2733,13 +2733,15 @@ msgstr ""
 
 #: ../../IMA.rst:1103
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../IMA.rst:1105
 msgid ""
 "At the beginning of your upkeep, if Firemane Angel is in your graveyard "
 "or on the battlefield, you may gain 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ta karta jest w twoim cmentarzu "
+"lub na polu walki, możesz zyskać 1 życie."
 
 #: ../../IMA.rst:1107
 msgid ""
@@ -2747,6 +2749,9 @@ msgid ""
 "Angel from your graveyard to the battlefield. Activate this ability only "
 "during your upkeep."
 msgstr ""
+"|mana_6|\\ |mana_r|\\ |mana_r|\\ |mana_w|\\ |mana_w|: Przywróć tę kartę z "
+"twojego cmentarza na pole walki. Aktywuj tylko podczas twojego kroku "
+"utrzymania."
 
 #: ../../IMA.rst:1112
 msgid ""
@@ -2853,7 +2858,7 @@ msgstr ""
 
 #: ../../IMA.rst:1147
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../IMA.rst:1149
 msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
@@ -3308,7 +3313,7 @@ msgstr ""
 
 #: ../../IMA.rst:1319
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../IMA.rst:1326
 msgid ""
