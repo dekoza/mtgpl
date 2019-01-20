@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 15:23+0000\n"
+"PO-Revision-Date: 2019-01-20 16:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gk1/pl/>\n"
 "Language: pl\n"
@@ -614,7 +614,7 @@ msgstr ""
 
 #: ../../GK1.rst:181
 msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
-msgstr ""
+msgstr "Wskazany stwór poza twoim władaniem dostaje od tego czaru 4 obrażenia."
 
 #: ../../GK1.rst:183
 msgid ""
@@ -642,7 +642,7 @@ msgstr ""
 
 #: ../../GK1.rst:189
 msgid "Pyromatics deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 1 obrażenie we wskazany cel."
 
 #: ../../GK1.rst:196
 msgid ""
@@ -662,7 +662,7 @@ msgstr ""
 
 #: ../../GK1.rst:195
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../GK1.rst:200
 msgid ""
@@ -678,6 +678,8 @@ msgid ""
 "Target player draws two cards, then Cerebral Vortex deals damage to that "
 "player equal to the number of cards they've drawn this turn."
 msgstr ""
+"Wskazany gracz dobiera dwie karty, następnie ten czar zadaje owemu graczowi "
+"tyle obrażeń, ile dobrał on kart w tej turze."
 
 #: ../../GK1.rst:208
 msgid ""
@@ -711,10 +713,12 @@ msgstr ""
 #: ../../GK1.rst:211
 msgid "Electrolyze deals 2 damage divided as you choose among one or two targets."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone według twojego uznania pomiędzy "
+"jeden lub dwa wskazane cele."
 
 #: ../../GK1.rst:213
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../GK1.rst:220
 msgid ""
@@ -725,11 +729,11 @@ msgstr ""
 
 #: ../../GK1.rst:217
 msgid "|tap|: Gelectrode deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje 1 obrażenie we wskazany cel."
 
 #: ../../GK1.rst:219
 msgid "Whenever you cast an instant or sorcery spell, you may untap Gelectrode."
-msgstr ""
+msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, możesz odkręcić tego stwora."
 
 #: ../../GK1.rst:226
 msgid ""
@@ -740,13 +744,15 @@ msgstr ""
 
 #: ../../GK1.rst:223
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../GK1.rst:225
 msgid ""
 "You may cast sorcery spells as though they had flash. (You may cast them "
 "any time you could cast an instant.)"
 msgstr ""
+"Możesz rzucać karty obrzędów, jakby miały błysk. (Możesz je rzucać jak "
+"sztuczki.)"
 
 #: ../../GK1.rst:234
 msgid ""
@@ -759,11 +765,11 @@ msgstr ""
 
 #: ../../GK1.rst:231
 msgid "Draw X cards."
-msgstr ""
+msgstr "Dobierz X kart."
 
 #: ../../GK1.rst:233
 msgid "Invoke the Firemind deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń we wskazany cel."
 
 #: ../../GK1.rst:244
 msgid ""
@@ -776,14 +782,16 @@ msgstr ""
 #: ../../GK1.rst:239
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
+"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci "
+"|mana_2|."
 
 #: ../../GK1.rst:241
 msgid "Izzet Charm deals 2 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../GK1.rst:243
 msgid "Draw two cards, then discard two cards."
-msgstr ""
+msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
 
 #: ../../GK1.rst:250
 msgid ""
@@ -794,13 +802,15 @@ msgstr ""
 
 #: ../../GK1.rst:247
 msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../GK1.rst:249
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_r|: Copy target instant or sorcery spell you "
 "control. You may choose new targets for the copy."
 msgstr ""
+"|mana_2|\\ |mana_u|\\ |mana_r|: Skopiuj wskazany czar sztuczki lub obrzędu "
+"pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../GK1.rst:254
 msgid ""
@@ -812,7 +822,7 @@ msgstr ""
 
 #: ../../GK1.rst:253
 msgid "Flip a coin. If you win the flip, take an extra turn after this one."
-msgstr ""
+msgstr "Rzuć monetą. Jeśli wygrasz rzut, dostajesz dodatkową turę po obecnej."
 
 #: ../../GK1.rst:260
 msgid ""
@@ -826,12 +836,15 @@ msgid ""
 "Whenever you cast a blue spell, target creature gains flying until end of"
 " turn."
 msgstr ""
+"Ilekroć rzucisz niebieski czar, wskazany stwór zyskuje latanie do końca tury."
 
 #: ../../GK1.rst:259
 msgid ""
 "Whenever you cast a red spell, Tibor and Lumia deals 1 damage to each "
 "creature without flying."
 msgstr ""
+"Ilekroć rzucisz czerwony czar, ten stwór zadaje 1 obrażenie każdemu stworowi "
+"bez latania."
 
 #: ../../GK1.rst:266
 msgid ""
@@ -844,10 +857,12 @@ msgid ""
 "Until end of turn, target creature loses all abilities and becomes a red "
 "Weird with base power and toughness 0/1."
 msgstr ""
+"Do końca tury wskazany stwór traci wszystkie zdolności i staje się czerwonym "
+"stworem Dziwadło o bazowych sile i wytrzymałości 0/1."
 
 #: ../../GK1.rst:265 ../../GK1.rst:271
 msgid "Fuse (You may cast one or both halves of this card from your hand.)"
-msgstr ""
+msgstr "Fuzja (Możesz rzucić z ręki jedną lub obie połowy tej karty.)"
 
 #: ../../GK1.rst:272
 msgid ""
@@ -857,7 +872,7 @@ msgstr ""
 
 #: ../../GK1.rst:269
 msgid "Burn deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 2 obrażenia we wskazany cel."
 
 #: ../../GK1.rst:276
 msgid ""
@@ -869,7 +884,7 @@ msgstr ""
 
 #: ../../GK1.rst:275
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_r|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../GK1.rst:284
 msgid ""
@@ -880,17 +895,19 @@ msgstr ""
 
 #: ../../GK1.rst:279
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GK1.rst:281
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../GK1.rst:283
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../GK1.rst:288
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/8/4/84c3e407-2828-40e5-b335-7a0a3df1e5ad.jpg?1541002913|https://scryfall.com/card/gk1/49/mountain?utm_source=api>`"
@@ -898,7 +915,7 @@ msgstr ""
 
 #: ../../GK1.rst:287
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../GK1.rst:294
 msgid ""
@@ -914,6 +931,8 @@ msgid ""
 "1/1 black and green Insect creature token for each creature card in your "
 "graveyard."
 msgstr ""
+"Ściółka — Kiedy ten stwór wejdzie na pole walki, stwórz po jednym żetonie "
+"czarno-zielonego stwora Insekt 1/1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GK1.rst:293
 msgid ""
@@ -929,7 +948,7 @@ msgstr ""
 
 #: ../../GK1.rst:297
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -1/-1 do końca tury."
 
 #: ../../GK1.rst:299 ../../GK1.rst:409
 msgid ""
@@ -950,7 +969,7 @@ msgstr ""
 msgid ""
 "When Slum Reaper enters the battlefield, each player sacrifices a "
 "creature."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
 
 #: ../../GK1.rst:312
 msgid ""
@@ -965,6 +984,8 @@ msgid ""
 "Whenever Stinkweed Imp deals combat damage to a creature, destroy that "
 "creature."
 msgstr ""
+"Kiedy ten stwór zada jakiemuś stworowi obrażenia bojowe, zniszcz owego "
+"stwora."
 
 #: ../../GK1.rst:311
 msgid ""

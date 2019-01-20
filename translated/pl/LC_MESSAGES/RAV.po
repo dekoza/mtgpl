@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 15:23+0000\n"
+"PO-Revision-Date: 2019-01-20 16:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rav/pl/>\n"
 "Language: pl\n"
@@ -274,7 +274,7 @@ msgstr ""
 #: ../../RAV.rst:97 ../../RAV.rst:327 ../../RAV.rst:333 ../../RAV.rst:717
 #: ../../RAV.rst:737 ../../RAV.rst:1315
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../RAV.rst:104
 msgid ":mtgtip:`Flickerform<https://img.scryfall.com/cards/border_crop/en/rav/18.jpg?1517813031|https://scryfall.com/card/rav/18/flickerform?utm_source=api>`"
@@ -1103,7 +1103,7 @@ msgstr ""
 
 #: ../../RAV.rst:429
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -1/-1 do końca tury."
 
 #: ../../RAV.rst:431 ../../RAV.rst:863 ../../RAV.rst:879 ../../RAV.rst:1177
 msgid ""
@@ -1440,6 +1440,8 @@ msgid ""
 "Whenever Stinkweed Imp deals combat damage to a creature, destroy that "
 "creature."
 msgstr ""
+"Kiedy ten stwór zada jakiemuś stworowi obrażenia bojowe, zniszcz owego "
+"stwora."
 
 #: ../../RAV.rst:561
 msgid ""
@@ -1908,7 +1910,7 @@ msgstr ""
 
 #: ../../RAV.rst:735
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../RAV.rst:742
 msgid ""

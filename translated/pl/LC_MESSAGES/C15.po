@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 15:23+0000\n"
+"PO-Revision-Date: 2019-01-20 16:03+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -436,7 +436,7 @@ msgstr ""
 
 #: ../../C15.rst:159
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../C15.rst:164
 msgid ""
@@ -2409,7 +2409,7 @@ msgstr ""
 
 #: ../../C15.rst:867
 msgid "Draw two cards, then discard two cards."
-msgstr ""
+msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
 
 #: ../../C15.rst:874
 msgid ""
@@ -2554,7 +2554,7 @@ msgstr ""
 
 #: ../../C15.rst:919
 msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
-msgstr ""
+msgstr "Wskazany stwór poza twoim władaniem dostaje od tego czaru 4 obrażenia."
 
 #: ../../C15.rst:921
 msgid ""
@@ -3979,9 +3979,8 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1429
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../C15.rst:1436
 msgid ""
@@ -4468,18 +4467,19 @@ msgstr ""
 
 #: ../../C15.rst:1629
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C15.rst:1631
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C15.rst:1633
-#, fuzzy
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../C15.rst:1640
 msgid ""

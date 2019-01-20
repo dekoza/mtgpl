@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 15:23+0000\n"
+"PO-Revision-Date: 2019-01-20 16:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm3/pl/>\n"
 "Language: pl\n"
@@ -503,7 +503,7 @@ msgstr ""
 
 #: ../../MM3.rst:175 ../../MM3.rst:427 ../../MM3.rst:651
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../MM3.rst:182
 msgid ""
@@ -748,6 +748,8 @@ msgstr ""
 #: ../../MM3.rst:259 ../../MM3.rst:881
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
+"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci "
+"|mana_2|."
 
 #: ../../MM3.rst:266
 msgid ""
@@ -1255,7 +1257,7 @@ msgstr ""
 
 #: ../../MM3.rst:455
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../MM3.rst:457
 msgid ""
@@ -1442,7 +1444,7 @@ msgstr ""
 
 #: ../../MM3.rst:523
 msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
-msgstr ""
+msgstr "Wskazany stwór poza twoim władaniem dostaje od tego czaru 4 obrażenia."
 
 #: ../../MM3.rst:525
 msgid ""
@@ -2346,7 +2348,7 @@ msgstr ""
 
 #: ../../MM3.rst:843 ../../MM3.rst:959
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../MM3.rst:845
 msgid ""
@@ -2453,11 +2455,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../MM3.rst:883
 msgid "Izzet Charm deals 2 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../MM3.rst:885
 msgid "Draw two cards, then discard two cards."
-msgstr ""
+msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
 
 #: ../../MM3.rst:894
 msgid ""
@@ -3158,7 +3160,7 @@ msgstr ""
 
 #: ../../MM3.rst:1151
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_r|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../MM3.rst:1156
 msgid ""

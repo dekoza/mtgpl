@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 15:23+0000\n"
+"PO-Revision-Date: 2019-01-20 16:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -1237,7 +1237,7 @@ msgstr ""
 #: ../../RTR.rst:393
 msgid ""
 "When Slum Reaper enters the battlefield, each player sacrifices a creature."
-msgstr "Kiedy Slum Reaper wchodzi na pole walki, każdy gracz poświęca stwora."
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
 
 #: ../../RTR.rst:402
 msgid ""
@@ -1559,8 +1559,7 @@ msgstr ""
 
 #: ../../RTR.rst:515
 msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
-msgstr ""
-"Wskazany stwór, którym nie władasz dostaje od Mizzium Mortars 4 obrażenia."
+msgstr "Wskazany stwór poza twoim władaniem dostaje od tego czaru 4 obrażenia."
 
 #: ../../RTR.rst:517
 msgid ""
@@ -2650,18 +2649,16 @@ msgstr ""
 #: ../../RTR.rst:875
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem dopóki jego władca nie dopłaci |"
-"mana_2|."
+"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci "
+"|mana_2|."
 
 #: ../../RTR.rst:877
-#, fuzzy
 msgid "Izzet Charm deals 2 damage to target creature."
-msgstr "Explosive Impact zadaje 5 obrażeń wskazanemu stworowi lub graczowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../RTR.rst:879
-#, fuzzy
 msgid "Draw two cards, then discard two cards."
-msgstr "Dobierz cztery karty, następnie odrzuć dwie karty."
+msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
 
 #: ../../RTR.rst:888
 msgid ""
@@ -2851,12 +2848,10 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:941
-#, fuzzy
 msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
-msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, po czym odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../RTR.rst:943
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_r|: Copy target instant or sorcery spell you "
 "control. You may choose new targets for the copy."

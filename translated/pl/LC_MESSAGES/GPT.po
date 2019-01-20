@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 15:23+0000\n"
+"PO-Revision-Date: 2019-01-20 16:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gpt/pl/>\n"
 "Language: pl\n"
@@ -320,7 +320,7 @@ msgstr ""
 #: ../../GPT.rst:193 ../../GPT.rst:227 ../../GPT.rst:257 ../../GPT.rst:547
 #: ../../GPT.rst:605 ../../GPT.rst:619
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../GPT.rst:130
 msgid ":mtgtip:`Withstand<https://img.scryfall.com/cards/border_crop/en/gpt/21.jpg?1517813031|https://scryfall.com/card/gpt/21/withstand?utm_source=api>`"
@@ -1039,7 +1039,7 @@ msgstr ""
 
 #: ../../GPT.rst:407
 msgid "Pyromatics deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 1 obrażenie we wskazany cel."
 
 #: ../../GPT.rst:414
 msgid ""
@@ -1084,7 +1084,7 @@ msgstr ""
 
 #: ../../GPT.rst:423
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../GPT.rst:430
 msgid ""
@@ -1513,6 +1513,8 @@ msgid ""
 "Target player draws two cards, then Cerebral Vortex deals damage to that "
 "player equal to the number of cards they've drawn this turn."
 msgstr ""
+"Wskazany gracz dobiera dwie karty, następnie ten czar zadaje owemu graczowi "
+"tyle obrażeń, ile dobrał on kart w tej turze."
 
 #: ../../GPT.rst:606
 msgid ""
@@ -1558,6 +1560,8 @@ msgstr ""
 #: ../../GPT.rst:617
 msgid "Electrolyze deals 2 damage divided as you choose among one or two targets."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone według twojego uznania pomiędzy "
+"jeden lub dwa wskazane cele."
 
 #: ../../GPT.rst:624
 msgid ""
@@ -1578,11 +1582,11 @@ msgstr ""
 
 #: ../../GPT.rst:627
 msgid "|tap|: Gelectrode deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje 1 obrażenie we wskazany cel."
 
 #: ../../GPT.rst:629
 msgid "Whenever you cast an instant or sorcery spell, you may untap Gelectrode."
-msgstr ""
+msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, możesz odkręcić tego stwora."
 
 #: ../../GPT.rst:636
 msgid ""
@@ -1662,11 +1666,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../GPT.rst:655
 msgid "Draw X cards."
-msgstr ""
+msgstr "Dobierz X kart."
 
 #: ../../GPT.rst:657
 msgid "Invoke the Firemind deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń we wskazany cel."
 
 #: ../../GPT.rst:662
 msgid ""
@@ -1864,7 +1868,7 @@ msgstr ""
 
 #: ../../GPT.rst:735
 msgid "Flip a coin. If you win the flip, take an extra turn after this one."
-msgstr ""
+msgstr "Rzuć monetą. Jeśli wygrasz rzut, dostajesz dodatkową turę po obecnej."
 
 #: ../../GPT.rst:738
 msgid ""
@@ -1902,12 +1906,15 @@ msgid ""
 "Whenever you cast a blue spell, target creature gains flying until end of"
 " turn."
 msgstr ""
+"Ilekroć rzucisz niebieski czar, wskazany stwór zyskuje latanie do końca tury."
 
 #: ../../GPT.rst:751
 msgid ""
 "Whenever you cast a red spell, Tibor and Lumia deals 1 damage to each "
 "creature without flying."
 msgstr ""
+"Ilekroć rzucisz czerwony czar, ten stwór zadaje 1 obrażenie każdemu stworowi "
+"bez latania."
 
 #: ../../GPT.rst:762
 msgid ""
@@ -2166,7 +2173,7 @@ msgstr ""
 
 #: ../../GPT.rst:859
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_r|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../GPT.rst:866
 msgid ""
@@ -2290,17 +2297,19 @@ msgstr ""
 
 #: ../../GPT.rst:903
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GPT.rst:905
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../GPT.rst:907
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../GPT.rst:914
 msgid ""

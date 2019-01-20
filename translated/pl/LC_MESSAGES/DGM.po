@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 15:23+0000\n"
+"PO-Revision-Date: 2019-01-20 16:03+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -2544,13 +2544,12 @@ msgstr ""
 
 # faea0a9b9fe040f994df1c9ec9759140
 #: ../../DGM.rst:775
-#, fuzzy
 msgid ""
 "Until end of turn, target creature loses all abilities and becomes a red "
 "Weird with base power and toughness 0/1."
 msgstr ""
-"Wskazany stwór do końca tury traci wszystkie zdolności i staje się czerwonym "
-"stworem Weird 0/1."
+"Do końca tury wskazany stwór traci wszystkie zdolności i staje się czerwonym "
+"stworem Dziwadło o bazowych sile i wytrzymałości 0/1."
 
 #: ../../DGM.rst:784
 msgid ""
@@ -2560,9 +2559,8 @@ msgstr ""
 
 # 2060a9ffecf84df7a6be32cc3cea8371
 #: ../../DGM.rst:781
-#, fuzzy
 msgid "Burn deals 2 damage to any target."
-msgstr "Burn zadaje 2 obrażenia wskazanemu stworowi lub graczowi."
+msgstr "Ten czar zadaje 2 obrażenia we wskazany cel."
 
 #: ../../DGM.rst:790
 msgid ""

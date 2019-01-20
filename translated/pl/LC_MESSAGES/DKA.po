@@ -2,13 +2,14 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-17 23:27+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 16:03+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dka/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -1281,7 +1282,7 @@ msgstr ""
 # e2c5cd10d07f4b8e89a80b1a7b2a5d5b
 #: ../../DKA.rst:437
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -1/-1 do końca tury."
 
 # 27259cedc4b54ce8813847f93c852c37
 #: ../../DKA.rst:439
@@ -1470,7 +1471,7 @@ msgstr ""
 # 1e8fe64f8a374b71b220428269d432aa
 #: ../../DKA.rst:497
 msgid "Draw two cards, then discard two cards."
-msgstr ""
+msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
 
 #: ../../DKA.rst:506
 msgid ""

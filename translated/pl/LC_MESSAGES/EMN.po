@@ -2,14 +2,14 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 20:05+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 16:03+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/emn/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -1429,7 +1429,7 @@ msgstr "Wskazany stwór dostaje +1/+1 do końca tury."
 
 #: ../../EMN.rst:513
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -1/-1 do końca tury."
 
 #: ../../EMN.rst:518
 msgid ""

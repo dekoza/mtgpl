@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 14:24+0000\n"
+"PO-Revision-Date: 2019-01-20 16:03+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -2375,7 +2375,7 @@ msgstr ""
 
 #: ../../C17.rst:839 ../../C17.rst:889 ../../C17.rst:971 ../../C17.rst:1107
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../C17.rst:844
 msgid ":mtgtip:`Cultivate<https://img.scryfall.com/cards/border_crop/en/c17/147.jpg?1517813031|https://scryfall.com/card/c17/147/cultivate?utm_source=api>`"
@@ -2995,13 +2995,15 @@ msgstr ""
 
 #: ../../C17.rst:1075
 msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../C17.rst:1077
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_r|: Copy target instant or sorcery spell you "
 "control. You may choose new targets for the copy."
 msgstr ""
+"|mana_2|\\ |mana_u|\\ |mana_r|: Skopiuj wskazany czar sztuczki lub obrzędu "
+"pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../C17.rst:1084
 msgid ""
@@ -4071,18 +4073,19 @@ msgstr ""
 
 #: ../../C17.rst:1521
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1523
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C17.rst:1525
-#, fuzzy
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../C17.rst:1532
 msgid ""
@@ -4716,9 +4719,8 @@ msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/c17/304.j
 msgstr ""
 
 #: ../../C17.rst:1805
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../C17.rst:1809
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/c17/307.jpg?1517813031|https://scryfall.com/card/c17/307/forest?utm_source=api>`"

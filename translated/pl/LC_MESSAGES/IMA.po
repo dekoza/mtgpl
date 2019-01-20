@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 15:23+0000\n"
+"PO-Revision-Date: 2019-01-20 16:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ima/pl/>\n"
 "Language: pl\n"
@@ -371,7 +371,7 @@ msgstr ""
 #: ../../IMA.rst:141 ../../IMA.rst:253 ../../IMA.rst:287 ../../IMA.rst:405
 #: ../../IMA.rst:441 ../../IMA.rst:1051 ../../IMA.rst:1059 ../../IMA.rst:1099
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../IMA.rst:146
 msgid ""
@@ -1764,7 +1764,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../IMA.rst:715
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../IMA.rst:717
 msgid "Target creature gets +1/+1 and gains trample until end of turn."
@@ -2721,6 +2721,8 @@ msgstr ""
 #: ../../IMA.rst:1097
 msgid "Electrolyze deals 2 damage divided as you choose among one or two targets."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone według twojego uznania pomiędzy "
+"jeden lub dwa wskazane cele."
 
 #: ../../IMA.rst:1108
 msgid ""
@@ -2777,6 +2779,8 @@ msgid ""
 "You may cast sorcery spells as though they had flash. (You may cast them "
 "any time you could cast an instant.)"
 msgstr ""
+"Możesz rzucać karty obrzędów, jakby miały błysk. (Możesz je rzucać jak "
+"sztuczki.)"
 
 #: ../../IMA.rst:1124
 msgid ""
@@ -3376,17 +3380,19 @@ msgstr ""
 
 #: ../../IMA.rst:1349
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../IMA.rst:1351
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../IMA.rst:1353
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
 
 #: ../../IMA.rst:1362
 msgid ""
