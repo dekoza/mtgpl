@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 13:45+0000\n"
+"PO-Revision-Date: 2019-01-20 14:24+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -1874,11 +1874,11 @@ msgstr ""
 
 #: ../../MM2.rst:1005
 msgid "Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any target."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, ten stwór zadaje 1 obrażenie we wskazany cel."
 
 #: ../../MM2.rst:1007
 msgid "|tap|: Draw a card."
-msgstr ""
+msgstr "|tap|: Dobierz kartę."
 
 #: ../../MM2.rst:1016
 msgid ":mtgtip:`Pillory of the Sleepless<https://img.scryfall.com/cards/border_crop/en/mm2/183.jpg?1517813031|https://scryfall.com/card/mm2/183/pillory-of-the-sleepless?utm_source=api>`"
@@ -1984,10 +1984,12 @@ msgstr "(|mana_ub| można opłacić używając |mana_u| albo |mana_b|.)"
 #: ../../MM2.rst:1063
 msgid "|mana_3|\\ |mana_u|: Target player draws a card. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_u|: Wskazany gracz dobiera kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../MM2.rst:1065
 msgid "|mana_3|\\ |mana_b|: Target player discards a card. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_b|: Wskazany gracz odrzuca kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../MM2.rst:1070
 msgid ":mtgtip:`Fulminator Mage<https://img.scryfall.com/cards/border_crop/en/mm2/193.jpg?1517813031|https://scryfall.com/card/mm2/193/fulminator-mage?utm_source=api>`"
@@ -2480,15 +2482,17 @@ msgstr ""
 
 #: ../../MM2.rst:1339
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../MM2.rst:1341
 msgid "When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../MM2.rst:1343
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../MM2.rst:1350
 msgid ":mtgtip:`Eldrazi Temple<https://img.scryfall.com/cards/border_crop/en/mm2/240.jpg?1517813031|https://scryfall.com/card/mm2/240/eldrazi-temple?utm_source=api>`"

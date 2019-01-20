@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 13:40+0000\n"
+"PO-Revision-Date: 2019-01-20 14:24+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -2621,8 +2621,8 @@ msgid ""
 "When Dinrova Horror enters the battlefield, return target permanent to its "
 "owner's hand, then that player discards a card."
 msgstr ""
-"Kiedy Dinrova Horror wchodzi na pole walki, przywróć wskazany permanent do "
-"ręki jego właściciela, następnie ów gracz odrzuca kartę."
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany permanent do ręki "
+"właściciela, następnie ów gracz odrzuca kartę."
 
 #: ../../GTC.rst:814
 msgid ""
@@ -2946,17 +2946,15 @@ msgstr "Antyklątwa"
 
 # 2ed90581fe7f4353b9c2e3c1f3ef5210
 #: ../../GTC.rst:913
-#, fuzzy
 msgid ""
 "Whenever a creature card is put into an opponent's graveyard from anywhere, "
 "you may have Lazav, Dimir Mastermind become a copy of that card, except its "
 "name is Lazav, Dimir Mastermind, it's legendary in addition to its other "
 "types, and it has hexproof and this ability."
 msgstr ""
-"Ilekroć karta stwora trafia skądkolwiek do cmentarza przeciwnika, możesz "
-"sprawić, by Lazav stał się kopią owej karty, z wyjątkiem tego, że jego nazwa "
-"to wciąż Lazav, Dimir Mastermind, jego typ jest dodatkowo legendarny, "
-"zyskuje antyklątwę oraz niniejszą zdolność."
+"Ilekroć karta stwora jest umieszczana skądkolwiek w cmentarzu przeciwnika, "
+"możesz sprawić, by niniejszy stwór stał się kopią owej karty, ale zachowuje "
+"swoją nazwę, jest dodatkowo legendarny, ma antyklątwę i niniejszą zdolność."
 
 #: ../../GTC.rst:920
 msgid ""
@@ -3817,18 +3815,17 @@ msgstr ""
 
 # 2c2d160d1a9146aeb234e226dfb8ffb0
 #: ../../GTC.rst:1175
-#, fuzzy
 msgid ""
 "Whenever Nightveil Specter deals combat damage to a player, that player "
 "exiles the top card of their library."
 msgstr ""
-"Ilekroć Nightveil Specter zadaje graczowi obrażenia bitewne, ów gracz "
-"wypędza wierzchnią kartę swojej biblioteki."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz wygania "
+"wierzchnią kartę swojej biblioteki."
 
 # b23e07fdbb3c4b56812ada90949eb618
 #: ../../GTC.rst:1177
 msgid "You may play cards exiled with Nightveil Specter."
-msgstr "Możesz zagrywać karty wypędzone przez Nightveil Spectera."
+msgstr "Możesz zagrywać karty wygnane z użyciem tego stwora."
 
 #: ../../GTC.rst:1182
 msgid ""

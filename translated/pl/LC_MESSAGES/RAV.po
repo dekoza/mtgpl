@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 13:45+0000\n"
+"PO-Revision-Date: 2019-01-20 14:24+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rav/pl/>\n"
 "Language: pl\n"
@@ -2787,6 +2787,8 @@ msgid ""
 "Target player puts the top ten cards of their library into their "
 "graveyard."
 msgstr ""
+"Wskazany gracz umieszcza dziesięć wierzchnich kart swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../RAV.rst:1066
 msgid ""
@@ -2885,7 +2887,7 @@ msgstr ""
 
 #: ../../RAV.rst:1103
 msgid "At the beginning of your upkeep, you lose 1 life."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania tracisz 1 życie."
 
 #: ../../RAV.rst:1110
 msgid ":mtgtip:`Perplex<https://img.scryfall.com/cards/border_crop/en/rav/217.jpg?1517813031|https://scryfall.com/card/rav/217/perplex?utm_source=api>`"
@@ -3116,6 +3118,9 @@ msgid ""
 "put that many +1/+1 counters on Szadek and that player puts that many "
 "cards from the top of their library into their graveyard."
 msgstr ""
+"Gdy ten stwór miałby zadać graczowi obrażenia bojowe, zamiast tego umieść na "
+"tym stworze tyle samo znaczników +1/+1, a ów gracz umieszcza tyle samo kart "
+"z wierzchu swojej biblioteki w swoim cmentarzu."
 
 #: ../../RAV.rst:1206
 msgid ""
@@ -3266,12 +3271,14 @@ msgid ""
 "|mana_3|\\ |mana_u|: Target player draws a card. Activate this ability "
 "only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_u|: Wskazany gracz dobiera kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../RAV.rst:1261
 msgid ""
 "|mana_3|\\ |mana_b|: Target player discards a card. Activate this ability"
 " only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_b|: Wskazany gracz odrzuca kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../RAV.rst:1268
 msgid ""
@@ -3494,7 +3501,7 @@ msgstr ""
 
 #: ../../RAV.rst:1351
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../RAV.rst:1354
 msgid ""
@@ -3733,17 +3740,19 @@ msgstr ""
 
 #: ../../RAV.rst:1445
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../RAV.rst:1447
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../RAV.rst:1449
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../RAV.rst:1456
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 13:33+0000\n"
+"PO-Revision-Date: 2019-01-20 14:24+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -2980,11 +2980,11 @@ msgstr ""
 msgid ""
 "Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any "
 "target."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, ten stwór zadaje 1 obrażenie we wskazany cel."
 
 #: ../../C17.rst:1071
 msgid "|tap|: Draw a card."
-msgstr ""
+msgstr "|tap|: Dobierz kartę."
 
 #: ../../C17.rst:1078
 msgid ""
@@ -3905,18 +3905,19 @@ msgstr ""
 
 #: ../../C17.rst:1451
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1453
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C17.rst:1455
-#, fuzzy
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../C17.rst:1464
 msgid ""
@@ -4699,18 +4700,16 @@ msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/c17/298.jpg
 msgstr ""
 
 #: ../../C17.rst:1797
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../C17.rst:1802
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/c17/301.jpg?1517813031|https://scryfall.com/card/c17/301/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../C17.rst:1801
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../C17.rst:1806
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/c17/304.jpg?1517813031|https://scryfall.com/card/c17/304/mountain?utm_source=api>`"

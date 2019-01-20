@@ -2,19 +2,22 @@
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
-#, fuzzy
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 09:37+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-20 14:24+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/gk2/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../GK2.rst:5
@@ -31,7 +34,7 @@ msgstr ""
 
 #: ../../GK2.rst:9
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../GK2.rst:11
 msgid ""
@@ -56,7 +59,7 @@ msgstr ""
 
 #: ../../GK2.rst:19
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../GK2.rst:26
 msgid ""
@@ -85,7 +88,7 @@ msgstr ""
 
 #: ../../GK2.rst:29
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../GK2.rst:38
 msgid ""
@@ -173,4 +176,3 @@ msgstr ""
 #: ../../GK2.rst:61
 msgid "Each creature you control with a +1/+1 counter on it has trample."
 msgstr ""
-

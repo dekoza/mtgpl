@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-20 13:33+0000\n"
+"PO-Revision-Date: 2019-01-20 14:24+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -2283,7 +2283,7 @@ msgstr ""
 
 #: ../../C18.rst:1199
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../C18.rst:1206
 msgid ":mtgtip:`Dreamstone Hedron<https://img.scryfall.com/cards/border_crop/en/c18/204.jpg?1535504753|https://scryfall.com/card/c18/204/dreamstone-hedron?utm_source=api>`"
@@ -2694,15 +2694,17 @@ msgstr ""
 
 #: ../../C18.rst:1431
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C18.rst:1433
 msgid "When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C18.rst:1435
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../C18.rst:1442
 msgid ":mtgtip:`Dimir Guildgate<https://img.scryfall.com/cards/border_crop/en/c18/243.jpg?1535505320|https://scryfall.com/card/c18/243/dimir-guildgate?utm_source=api>`"

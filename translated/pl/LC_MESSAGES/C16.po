@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 13:40+0000\n"
+"PO-Revision-Date: 2019-01-20 14:24+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -4449,9 +4449,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1651
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../C16.rst:1660
 msgid ""
@@ -4462,18 +4461,19 @@ msgstr ""
 
 #: ../../C16.rst:1655
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1657
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C16.rst:1659
-#, fuzzy
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../C16.rst:1668
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 13:47+0000\n"
+"PO-Revision-Date: 2019-01-20 14:24+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gk1/pl/>\n"
 "Language: pl\n"
@@ -296,12 +296,14 @@ msgid ""
 "|mana_3|\\ |mana_u|: Target player draws a card. Activate this ability "
 "only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_u|: Wskazany gracz dobiera kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../GK1.rst:81
 msgid ""
 "|mana_3|\\ |mana_b|: Target player discards a card. Activate this ability"
 " only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_b|: Wskazany gracz odrzuca kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../GK1.rst:86
 msgid ""
@@ -315,6 +317,8 @@ msgid ""
 "When Dinrova Horror enters the battlefield, return target permanent to "
 "its owner's hand, then that player discards a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany permanent do ręki "
+"właściciela, następnie ów gracz odrzuca kartę."
 
 #: ../../GK1.rst:90
 msgid ""
@@ -330,6 +334,8 @@ msgid ""
 "Target player puts the top ten cards of their library into their "
 "graveyard."
 msgstr ""
+"Wskazany gracz umieszcza dziesięć wierzchnich kart swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../GK1.rst:96
 msgid ""
@@ -341,7 +347,7 @@ msgstr ""
 
 #: ../../GK1.rst:93
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: ../../GK1.rst:95
 msgid ""
@@ -350,6 +356,9 @@ msgid ""
 "card, except its name is Lazav, Dimir Mastermind, it's legendary in "
 "addition to its other types, and it has hexproof and this ability."
 msgstr ""
+"Ilekroć karta stwora jest umieszczana skądkolwiek w cmentarzu przeciwnika, "
+"możesz sprawić, by niniejszy stwór stał się kopią owej karty, ale zachowuje "
+"swoją nazwę, jest dodatkowo legendarny, ma antyklątwę i niniejszą zdolność."
 
 #: ../../GK1.rst:102
 msgid ""
@@ -362,7 +371,7 @@ msgstr ""
 #: ../../GK1.rst:99 ../../GK1.rst:105 ../../GK1.rst:111 ../../GK1.rst:119
 #: ../../GK1.rst:149 ../../GK1.rst:205 ../../GK1.rst:307 ../../GK1.rst:505
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../GK1.rst:101
 msgid ""
@@ -370,6 +379,9 @@ msgid ""
 "player reveals cards from the top of their library until they reveal four"
 " land cards, then puts those cards into their graveyard."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz ujawnia karty z "
+"wierzchu swojej biblioteki dopóki nie ujawni czterech kart lądów, następnie "
+"umieszcza owe karty w swoim cmentarzu."
 
 #: ../../GK1.rst:108
 msgid ""
@@ -380,7 +392,7 @@ msgstr ""
 
 #: ../../GK1.rst:107
 msgid "At the beginning of your upkeep, you lose 1 life."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania tracisz 1 życie."
 
 #: ../../GK1.rst:116
 msgid ""
@@ -394,10 +406,12 @@ msgid ""
 "Whenever Nightveil Specter deals combat damage to a player, that player "
 "exiles the top card of their library."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz wygania "
+"wierzchnią kartę swojej biblioteki."
 
 #: ../../GK1.rst:115
 msgid "You may play cards exiled with Nightveil Specter."
-msgstr ""
+msgstr "Możesz zagrywać karty wygnane z użyciem tego stwora."
 
 #: ../../GK1.rst:122
 msgid ""
@@ -414,6 +428,9 @@ msgid ""
 "put that many +1/+1 counters on Szadek and that player puts that many "
 "cards from the top of their library into their graveyard."
 msgstr ""
+"Gdy ten stwór miałby zadać graczowi obrażenia bojowe, zamiast tego umieść na "
+"tym stworze tyle samo znaczników +1/+1, a ów gracz umieszcza tyle samo kart "
+"z wierzchu swojej biblioteki w swoim cmentarzu."
 
 #: ../../GK1.rst:126
 msgid ""
@@ -428,6 +445,8 @@ msgid ""
 "Target creature gets +X/-X until end of turn, where X is the number of "
 "cards in your hand."
 msgstr ""
+"Wskazany stwór dostaje +X/-X do końca tury, gdzie X jest liczbą kart w "
+"twojej ręce."
 
 #: ../../GK1.rst:130
 msgid ""
@@ -439,7 +458,7 @@ msgstr ""
 
 #: ../../GK1.rst:129
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../GK1.rst:138
 msgid ""
@@ -452,17 +471,19 @@ msgstr ""
 
 #: ../../GK1.rst:133
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GK1.rst:135
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../GK1.rst:137
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
 
 #: ../../GK1.rst:142
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/2/3/23300152-6da8-4444-b368-1fb00e74a4b2.jpg?1541002792|https://scryfall.com/card/gk1/24/island?utm_source=api>`"
@@ -470,7 +491,7 @@ msgstr ""
 
 #: ../../GK1.rst:141
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../GK1.rst:146
 msgid ""
@@ -481,7 +502,7 @@ msgstr ""
 
 #: ../../GK1.rst:145
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../GK1.rst:154
 msgid ""
@@ -494,11 +515,11 @@ msgstr ""
 msgid ""
 "Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any "
 "target."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, ten stwór zadaje 1 obrażenie we wskazany cel."
 
 #: ../../GK1.rst:153
 msgid "|tap|: Draw a card."
-msgstr ""
+msgstr "|tap|: Dobierz kartę."
 
 #: ../../GK1.rst:160
 msgid ""
@@ -512,6 +533,8 @@ msgid ""
 "Replicate |mana_2|\\ |mana_u| (When you cast this spell, copy it for each"
 " time you paid its replicate cost.)"
 msgstr ""
+"Replikacja |mana_2|\\ |mana_u| (Kiedy rzucisz ten czar, skopiuj go tyle "
+"razy, ile razy opłaciłeś jego koszt replikacji.)"
 
 #: ../../GK1.rst:159
 msgid ""
@@ -603,6 +626,9 @@ msgid ""
 " time you paid its replicate cost. You may choose new targets for the "
 "copies.)"
 msgstr ""
+"Replikacja |mana_1|\\ |mana_r| (Kiedy rzucisz ten czar, skopiuj go tyle "
+"razy, ile razy opłaciłeś jego koszt replikacji. Możesz wskazać nowe cele dla "
+"kopii.)"
 
 #: ../../GK1.rst:189
 msgid "Pyromatics deals 1 damage to any target."
@@ -621,6 +647,8 @@ msgid ""
 "Replicate |mana_r| (When you cast this spell, copy it for each time you "
 "paid its replicate cost. You may choose new targets for the copies.)"
 msgstr ""
+"Replikacja |mana_r| (Kiedy rzucisz ten czar, skopiuj go tyle razy, ile razy "
+"opłaciłeś jego koszt replikacji. Możesz wskazać nowe cele dla kopii.)"
 
 #: ../../GK1.rst:195
 msgid "Destroy target artifact."
@@ -659,6 +687,9 @@ msgid ""
 " is equal to its mana cost. (When you cast it, copy it for each time you "
 "paid its replicate cost. You may choose new targets for the copies.)"
 msgstr ""
+"Każdy rzucany przez ciebie czar sztuczki lub obrzędu ma replikację o koszcie "
+"równym jego kosztowi many. (Kiedy go rzucisz, skopiuj go tyle razy, ile razy "
+"opłaciłeś jego koszt replikacji. Możesz wskazać nowe cele dla kopii.)"
 
 #: ../../GK1.rst:214
 msgid ""
