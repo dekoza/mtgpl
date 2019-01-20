@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 17:59+0000\n"
+"PO-Revision-Date: 2019-01-20 20:15+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rav/pl/>\n"
 "Language: pl\n"
@@ -1208,7 +1208,7 @@ msgstr ""
 
 #: ../../RAV.rst:471 ../../RAV.rst:975 ../../RAV.rst:1095 ../../RAV.rst:1273
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../RAV.rst:473
 msgid ""
@@ -2944,7 +2944,7 @@ msgstr ""
 
 #: ../../RAV.rst:1129
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
 
 #: ../../RAV.rst:1134
 msgid ""
@@ -3001,10 +3001,12 @@ msgid ""
 "Whenever you sacrifice a black creature, you may pay 2 life. If you do, "
 "each other player sacrifices a creature."
 msgstr ""
+"Ilekroć poświęcisz czarnego stwora, możesz zapłacić 2 życia. Jeśli to "
+"zrobisz, każdy inny gracz poświęca stwora."
 
 #: ../../RAV.rst:1149
 msgid "Whenever you sacrifice a green creature, you may gain 2 life."
-msgstr ""
+msgstr "Ilekroć poświęcisz zielonego stwora, możesz zyskać 2 życia."
 
 #: ../../RAV.rst:1154
 msgid ""
@@ -3063,7 +3065,7 @@ msgstr ""
 
 #: ../../RAV.rst:1175
 msgid "Sacrifice Shambling Shell: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "Poświęć tego stwora: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../RAV.rst:1186
 msgid ""
@@ -3075,18 +3077,23 @@ msgstr ""
 #: ../../RAV.rst:1181
 msgid "|mana_g|: Target creature blocks Sisters of Stone Death this turn if able."
 msgstr ""
+"|mana_g|: Wskazany stwór blokuje tego stwora w tej turze, jeśli to możliwe."
 
 #: ../../RAV.rst:1183
 msgid ""
 "|mana_b|\\ |mana_g|: Exile target creature blocking or blocked by Sisters"
 " of Stone Death."
 msgstr ""
+"|mana_b|\\ |mana_g|: Wygnaj wskazanego stwora blokującego lub blokowanego  "
+"przez tego stwora."
 
 #: ../../RAV.rst:1185
 msgid ""
 "|mana_2|\\ |mana_b|: Put a creature card exiled with Sisters of Stone "
 "Death onto the battlefield under your control."
 msgstr ""
+"|mana_2|\\ |mana_b|: Umieść kartę stwora wygnaną z użyciem tego stwora na "
+"polu walki pod twoim władaniem."
 
 #: ../../RAV.rst:1190
 msgid ""
@@ -3524,7 +3531,7 @@ msgstr ""
 
 #: ../../RAV.rst:1359
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../RAV.rst:1370
 msgid ""
@@ -3785,13 +3792,15 @@ msgstr ""
 
 #: ../../RAV.rst:1459
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../RAV.rst:1461
 msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../RAV.rst:1463
 msgid "|tap|: Add |mana_b|\\ |mana_g|."

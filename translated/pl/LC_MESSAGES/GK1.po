@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 17:59+0000\n"
+"PO-Revision-Date: 2019-01-20 20:14+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gk1/pl/>\n"
 "Language: pl\n"
@@ -1255,6 +1255,9 @@ msgid ""
 "1/1 green Saproling creature tokens, where X is the sacrificed creature's"
 " toughness."
 msgstr ""
+"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Stwórz X "
+"żetonów zielonego stwora Saproling 1/1, gdzie X jest wytrzymałością "
+"poświęconego stwora."
 
 #: ../../GK1.rst:394
 msgid ""
@@ -1266,15 +1269,15 @@ msgstr ""
 
 #: ../../GK1.rst:389 ../../GK1.rst:609
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../GK1.rst:391
 msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
-msgstr ""
+msgstr "Odrzuć kartę stwora: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../GK1.rst:393
 msgid "|mana_b|: Regenerate Lotleth Troll."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../GK1.rst:398
 msgid ""
@@ -1285,7 +1288,7 @@ msgstr ""
 
 #: ../../GK1.rst:397
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
 
 #: ../../GK1.rst:404
 msgid ""
@@ -1300,10 +1303,12 @@ msgid ""
 "Whenever you sacrifice a black creature, you may pay 2 life. If you do, "
 "each other player sacrifices a creature."
 msgstr ""
+"Ilekroć poświęcisz czarnego stwora, możesz zapłacić 2 życia. Jeśli to "
+"zrobisz, każdy inny gracz poświęca stwora."
 
 #: ../../GK1.rst:403
 msgid "Whenever you sacrifice a green creature, you may gain 2 life."
-msgstr ""
+msgstr "Ilekroć poświęcisz zielonego stwora, możesz zyskać 2 życia."
 
 #: ../../GK1.rst:410
 msgid ""
@@ -1315,7 +1320,7 @@ msgstr ""
 
 #: ../../GK1.rst:407
 msgid "Sacrifice Shambling Shell: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "Poświęć tego stwora: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../GK1.rst:418
 msgid ""
@@ -1328,18 +1333,23 @@ msgstr ""
 #: ../../GK1.rst:413
 msgid "|mana_g|: Target creature blocks Sisters of Stone Death this turn if able."
 msgstr ""
+"|mana_g|: Wskazany stwór blokuje tego stwora w tej turze, jeśli to możliwe."
 
 #: ../../GK1.rst:415
 msgid ""
 "|mana_b|\\ |mana_g|: Exile target creature blocking or blocked by Sisters"
 " of Stone Death."
 msgstr ""
+"|mana_b|\\ |mana_g|: Wygnaj wskazanego stwora blokującego lub blokowanego  "
+"przez tego stwora."
 
 #: ../../GK1.rst:417
 msgid ""
 "|mana_2|\\ |mana_b|: Put a creature card exiled with Sisters of Stone "
 "Death onto the battlefield under your control."
 msgstr ""
+"|mana_2|\\ |mana_b|: Umieść kartę stwora wygnaną z użyciem tego stwora na "
+"polu walki pod twoim władaniem."
 
 #: ../../GK1.rst:422
 msgid ""
@@ -1351,6 +1361,8 @@ msgstr ""
 #: ../../GK1.rst:421
 msgid "Return target card from your graveyard to your hand. Exile Treasured Find."
 msgstr ""
+"Przywróć wskazaną kartę z twojego cmentarza do twojej ręki. Wygnaj niniejszą "
+"kartę."
 
 #: ../../GK1.rst:426
 msgid ""
@@ -1363,7 +1375,7 @@ msgstr ""
 
 #: ../../GK1.rst:425
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../GK1.rst:434
 msgid ""
@@ -1375,7 +1387,7 @@ msgstr ""
 
 #: ../../GK1.rst:429
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GK1.rst:431
 msgid ""

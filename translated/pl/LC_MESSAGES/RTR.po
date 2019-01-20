@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 17:59+0000\n"
+"PO-Revision-Date: 2019-01-20 20:15+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -2729,14 +2729,13 @@ msgstr ""
 "artefaktyczne i/lub współdzielące z nim kolor.)"
 
 #: ../../RTR.rst:905
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, Sacrifice a nontoken creature: Create X 1/1 "
 "green Saproling creature tokens, where X is the sacrificed creature's "
 "toughness."
 msgstr ""
-"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Umieść na polu "
-"walki X żetonów zielonego stwora Saproling 1/1, gdzie X to wytrzymałość "
+"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Stwórz X "
+"żetonów zielonego stwora Saproling 1/1, gdzie X jest wytrzymałością "
 "poświęconego stwora."
 
 #: ../../RTR.rst:914
@@ -2748,11 +2747,11 @@ msgstr ""
 
 #: ../../RTR.rst:911
 msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
-msgstr "Odrzuć kartę stwora: Umieść znacznik +1/+1 na Lotleth Troll."
+msgstr "Odrzuć kartę stwora: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../RTR.rst:913
 msgid "|mana_b|: Regenerate Lotleth Troll."
-msgstr "|mana_b|: Zregeneruj Lotleth Troll."
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../RTR.rst:920
 msgid ""
@@ -3205,8 +3204,8 @@ msgstr ""
 msgid ""
 "Return target card from your graveyard to your hand. Exile Treasured Find."
 msgstr ""
-"Zwróć wskazaną kartę z twojego cmentarza do twojej ręki. Wygnaj Treasured "
-"Find."
+"Przywróć wskazaną kartę z twojego cmentarza do twojej ręki. Wygnaj niniejszą "
+"kartę."
 
 #: ../../RTR.rst:1080
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 17:59+0000\n"
+"PO-Revision-Date: 2019-01-20 20:14+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -3517,6 +3517,9 @@ msgid ""
 "green Saproling creature tokens, where X is the sacrificed creature's "
 "toughness."
 msgstr ""
+"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Stwórz X "
+"żetonów zielonego stwora Saproling 1/1, gdzie X jest wytrzymałością "
+"poświęconego stwora."
 
 #: ../../C15.rst:1256
 msgid ""
@@ -3539,11 +3542,11 @@ msgstr ""
 
 #: ../../C15.rst:1261
 msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
-msgstr ""
+msgstr "Odrzuć kartę stwora: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C15.rst:1263
 msgid "|mana_b|: Regenerate Lotleth Troll."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../C15.rst:1272
 msgid ""
@@ -3637,7 +3640,7 @@ msgstr ""
 
 #: ../../C15.rst:1297
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
 
 #: ../../C15.rst:1302
 msgid ""
@@ -3976,9 +3979,8 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1425
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../C15.rst:1430
 msgid ""
@@ -4432,7 +4434,7 @@ msgstr ""
 
 #: ../../C15.rst:1609
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C15.rst:1611
 msgid ""

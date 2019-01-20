@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 17:59+0000\n"
+"PO-Revision-Date: 2019-01-20 20:14+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -3252,6 +3252,9 @@ msgid ""
 "green Saproling creature tokens, where X is the sacrificed creature's "
 "toughness."
 msgstr ""
+"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Stwórz X "
+"żetonów zielonego stwora Saproling 1/1, gdzie X jest wytrzymałością "
+"poświęconego stwora."
 
 #: ../../C16.rst:1184
 msgid ""
@@ -3385,7 +3388,7 @@ msgstr ""
 
 #: ../../C16.rst:1231
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
 
 #: ../../C16.rst:1242
 msgid ""
@@ -3973,9 +3976,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1459
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|mana_1|, |tap|: Dostajesz |mana_b|\\ |mana_g|."
 
 #: ../../C16.rst:1464
 msgid ""
@@ -4588,7 +4590,7 @@ msgstr ""
 
 #: ../../C16.rst:1705
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1707
 msgid ""
