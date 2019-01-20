@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"PO-Revision-Date: 2019-01-20 13:33+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mmq/pl/>\n"
 "Language: pl\n"
@@ -3709,7 +3709,7 @@ msgstr ""
 
 #: ../../MMQ.rst:1395
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../MMQ.rst:1397
 msgid "Sacrifice Eye of Ramos: Add |mana_u|."
@@ -3977,7 +3977,7 @@ msgstr ""
 
 #: ../../MMQ.rst:1489
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../MMQ.rst:1491
 msgid "Sacrifice Tooth of Ramos: Add |mana_w|."
@@ -4017,7 +4017,7 @@ msgstr ""
 #: ../../MMQ.rst:1503 ../../MMQ.rst:1517 ../../MMQ.rst:1529 ../../MMQ.rst:1555
 #: ../../MMQ.rst:1597
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../MMQ.rst:1505
 msgid "|mana_3|, |tap|, Sacrifice a land: Destroy target nonbasic land."

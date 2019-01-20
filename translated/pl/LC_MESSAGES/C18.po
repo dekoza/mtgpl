@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"PO-Revision-Date: 2019-01-20 13:33+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -1304,6 +1304,9 @@ msgstr ""
 #: ../../C18.rst:657
 msgid "Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, jedna na wierzchu twojej biblioteki, a jedną na spodzie twojej "
+"biblioteki."
 
 #: ../../C18.rst:662
 msgid ":mtgtip:`Thirst for Knowledge<https://img.scryfall.com/cards/border_crop/en/c18/106.jpg?1535503409|https://scryfall.com/card/c18/106/thirst-for-knowledge?utm_source=api>`"
@@ -2835,7 +2838,7 @@ msgstr ""
 #: ../../C18.rst:1585
 #: ../../C18.rst:1685
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../C18.rst:1514
 msgid ":mtgtip:`Haunted Fengraf<https://img.scryfall.com/cards/border_crop/en/c18/254.jpg?1535505472|https://scryfall.com/card/c18/254/haunted-fengraf?utm_source=api>`"
@@ -3048,7 +3051,7 @@ msgstr ""
 #: ../../C18.rst:1631
 #: ../../C18.rst:1691
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../C18.rst:1640
 msgid ":mtgtip:`Orzhov Basilica<https://img.scryfall.com/cards/border_crop/en/c18/271.jpg?1535505712|https://scryfall.com/card/c18/271/orzhov-basilica?utm_source=api>`"

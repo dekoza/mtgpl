@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"PO-Revision-Date: 2019-01-20 13:33+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/leg/pl/>\n"
 "Language: pl\n"
@@ -3194,7 +3194,7 @@ msgstr ""
 
 #: ../../LEG.rst:1209 ../../LEG.rst:1515
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../LEG.rst:1214
 msgid ":mtgtip:`Ragnar<https://img.scryfall.com/cards/border_crop/en/leg/250.jpg?1517813031|https://scryfall.com/card/leg/250/ragnar?utm_source=api>`"
@@ -3965,7 +3965,7 @@ msgstr ""
 
 #: ../../LEG.rst:1491
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../LEG.rst:1493
 msgid "|tap|: Return target legendary creature to its owner's hand."

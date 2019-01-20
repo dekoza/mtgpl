@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 00:26+0000\n"
+"PO-Revision-Date: 2019-01-20 13:34+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -724,6 +724,9 @@ msgstr ""
 #: ../../MM2.rst:359
 msgid "Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, jedna na wierzchu twojej biblioteki, a jedną na spodzie twojej "
+"biblioteki."
 
 #: ../../MM2.rst:368
 msgid ":mtgtip:`Tezzeret the Seeker<https://img.scryfall.com/cards/border_crop/en/mm2/62.jpg?1517813031|https://scryfall.com/card/mm2/62/tezzeret-the-seeker?utm_source=api>`"
@@ -2441,7 +2444,7 @@ msgstr ""
 #: ../../MM2.rst:1335
 #: ../../MM2.rst:1347
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../MM2.rst:1319
 msgid "|mana_1|: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land."

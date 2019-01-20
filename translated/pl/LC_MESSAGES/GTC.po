@@ -1,12 +1,13 @@
 # Dominik <Kozaczko>, 2013.
 # Dominik <dominik@kozaczko.info>, 2013.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-16 20:43+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-20 13:33+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -685,9 +686,9 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
-"Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze pod twoim "
-"władaniem. Ilekroć ów stwór zada graczowi obrażenia bitewne, jego władca "
-"może rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
+"Szyfruj (Następnie możesz wygnać tę kartę kodując ją na stworze pod twoim "
+"władaniem. Ilekroć ów stwór zada graczowi obrażenia bojowe, jego władca może "
+"rzucić kopię zakodowanej karty bez płacenia jej kosztu many.)"
 
 #: ../../GTC.rst:198
 msgid ""
@@ -935,10 +936,8 @@ msgstr ""
 
 # 40d9498605e8462b97b1ac7df615490f
 #: ../../GTC.rst:277
-#, fuzzy
 msgid "Create a token that's a copy of target artifact or creature."
-msgstr ""
-"Umieść na polu walki żeton będący kopią wskazanego artefaktu lub stwora."
+msgstr "Stwórz żeton będący kopią wskazanego artefaktu lub stwora."
 
 #: ../../GTC.rst:284
 msgid ""
@@ -2493,10 +2492,8 @@ msgstr ""
 
 # 084bb521e5e84a3c9cbb02d02c696a90
 #: ../../GTC.rst:763
-#, fuzzy
 msgid "Create a 1/1 blue and black Horror creature token with flying."
-msgstr ""
-"Umieść na polu walki żeton niebiesko-czarnego stwora Horror 1/1 z lataniem."
+msgstr "Stwórz żeton niebiesko-czarnego stwora Horror 1/1 z lataniem."
 
 #: ../../GTC.rst:770
 msgid ""

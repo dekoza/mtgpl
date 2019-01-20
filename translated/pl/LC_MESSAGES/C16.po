@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 00:25+0000\n"
+"PO-Revision-Date: 2019-01-20 13:33+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -3549,6 +3549,9 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
+"Szyfruj (Następnie możesz wygnać tę kartę kodując ją na stworze pod twoim "
+"władaniem. Ilekroć ów stwór zada graczowi obrażenia bojowe, jego władca może "
+"rzucić kopię zakodowanej karty bez płacenia jej kosztu many.)"
 
 #: ../../C16.rst:1306
 msgid ""
@@ -4999,7 +5002,7 @@ msgstr ""
 
 #: ../../C16.rst:1883
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../C16.rst:1892
 msgid ""
@@ -5201,7 +5204,7 @@ msgstr ""
 
 #: ../../C16.rst:1965
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../C16.rst:1967
 msgid ""
