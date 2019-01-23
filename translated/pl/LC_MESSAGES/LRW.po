@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 12:42+0000\n"
+"PO-Revision-Date: 2019-01-23 14:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lrw/pl/>\n"
 "Language: pl\n"
@@ -197,6 +197,8 @@ msgstr ""
 #: ../../LRW.rst:159
 msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../LRW.rst:74
 msgid ":mtgtip:`Cloudgoat Ranger<https://img.scryfall.com/cards/border_crop/en/lrw/10.jpg?1517813031|https://scryfall.com/card/lrw/10/cloudgoat-ranger?utm_source=api>`"
@@ -408,7 +410,7 @@ msgstr ""
 
 #: ../../LRW.rst:179
 msgid "Destroy target attacking or blocking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego lub blokującego stwora."
 
 #: ../../LRW.rst:184
 msgid ":mtgtip:`Oaken Brawler<https://img.scryfall.com/cards/border_crop/en/lrw/33.jpg?1517813031|https://scryfall.com/card/lrw/33/oaken-brawler?utm_source=api>`"

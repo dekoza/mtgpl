@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 12:43+0000\n"
+"PO-Revision-Date: 2019-01-23 14:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ala/pl/>\n"
 "Language: pl\n"
@@ -67,6 +67,8 @@ msgid ""
 "Whenever a creature you control attacks alone, you may tap target "
 "creature."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem atakuje samotnie, możesz przekręcić "
+"wskazanego stwora."
 
 #: ../../ALA.rst:26
 msgid ":mtgtip:`Angelsong<https://img.scryfall.com/cards/border_crop/en/ala/4.jpg?1517813031|https://scryfall.com/card/ala/4/angelsong?utm_source=api>`"
@@ -194,7 +196,7 @@ msgstr ""
 
 #: ../../ALA.rst:67
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../ALA.rst:76
 msgid ""
@@ -899,7 +901,7 @@ msgstr ""
 
 #: ../../ALA.rst:331
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../ALA.rst:333
 msgid ""
@@ -2852,6 +2854,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much"
 " life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../ALA.rst:1103
 msgid ""

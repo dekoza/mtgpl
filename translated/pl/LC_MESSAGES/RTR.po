@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 14:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -2629,7 +2629,7 @@ msgid ""
 "Whenever a creature attacks you or a planeswalker you control, you may draw "
 "a card."
 msgstr ""
-"Ilekroć jakiś stwór atakuje ciebie lub wędrowca pod twoim władaniem możesz "
+"Ilekroć jakiś stwór atakuje ciebie lub wędrowca pod twoim władaniem, możesz "
 "dobrać kartę."
 
 #: ../../RTR.rst:880
@@ -2929,11 +2929,9 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:977
-#, fuzzy
 msgid "You can't cast this spell unless an opponent lost life this turn."
 msgstr ""
-"Nie możesz rzucić Rakdos, Lord of Riots dopóki przeciwnik nie stracił "
-"punktów życia w tej turze."
+"Nie możesz rzucić tego czaru, chyba że przeciwnik stracił życie w tej turze."
 
 #: ../../RTR.rst:979
 msgid "Flying, trample"
@@ -2944,8 +2942,8 @@ msgid ""
 "Creature spells you cast cost |mana_1| less to cast for each 1 life your "
 "opponents have lost this turn."
 msgstr ""
-"Czary stworów kosztują cię o |mana_1| za każde 1 życie stracone przez "
-"przeciwników w tej turze."
+"Rzucanie czarów stworów kosztuje cię o |mana_1| mniej za każde życie "
+"stracone przez twoich przeciwników w tej turze."
 
 #: ../../RTR.rst:986
 msgid ""

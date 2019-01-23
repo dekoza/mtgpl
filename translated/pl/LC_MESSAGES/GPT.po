@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 12:42+0000\n"
+"PO-Revision-Date: 2019-01-23 14:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gpt/pl/>\n"
 "Language: pl\n"
@@ -217,7 +217,7 @@ msgstr ""
 
 #: ../../GPT.rst:81 ../../GPT.rst:729
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../GPT.rst:83
 msgid "As Order of the Stars enters the battlefield, choose a color."
@@ -1763,7 +1763,7 @@ msgstr ""
 
 #: ../../GPT.rst:691
 msgid "Creatures you control get +1/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../GPT.rst:693
 msgid "Creatures you don't control get -1/-1 until end of turn."
@@ -1886,13 +1886,15 @@ msgstr ""
 
 #: ../../GPT.rst:743
 msgid "Sacrifice three white creatures: Exile target creature."
-msgstr ""
+msgstr "Poświęć trzy białe stwory: Wygnaj wskazanego stwora."
 
 #: ../../GPT.rst:745
 msgid ""
 "Whenever another black creature you control dies, create a 1/1 white "
 "Spirit creature token with flying."
 msgstr ""
+"Ilekroć umrze inny czarny stwór pod twoim władaniem, stwórz żeton białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../GPT.rst:752
 msgid ""

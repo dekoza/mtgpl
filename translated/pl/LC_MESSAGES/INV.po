@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-23 12:42+0000\n"
+"PO-Revision-Date: 2019-01-23 14:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/inv/pl/>\n"
 "Language: pl\n"
@@ -397,7 +397,7 @@ msgstr ""
 
 #: ../../INV.rst:135
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../INV.rst:137 ../../INV.rst:443
 msgid ""
@@ -1460,7 +1460,7 @@ msgstr ""
 
 #: ../../INV.rst:553
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../INV.rst:555
 msgid "At the beginning of your upkeep, sacrifice a creature."

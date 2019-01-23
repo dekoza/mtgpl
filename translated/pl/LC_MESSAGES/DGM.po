@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 14:26+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -1780,9 +1780,8 @@ msgstr "Czujność, zasięg"
 
 # 112ee48f86e64955a4d2da5b15525d91
 #: ../../DGM.rst:509
-#, fuzzy
 msgid "Ruric Thar, the Unbowed attacks each combat if able."
-msgstr "Ruric Thar, the Unbowed atakuje każdej tury jeśli to możliwe."
+msgstr "Ten stwór atakuje w każdej walce, jeśli to możliwe."
 
 # 354e09e617c840188d2c1e830c9b7299
 #: ../../DGM.rst:511
@@ -1790,7 +1789,7 @@ msgid ""
 "Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to "
 "that player."
 msgstr ""
-"Ilekroć gracz rzuca czar nie będący stworem, Ruric Thar zadaje temu graczowi "
+"Ilekroć gracz rzuca czar nie będący stworem, ten stwór zadaje owemu graczowi "
 "6 obrażeń."
 
 #: ../../DGM.rst:520

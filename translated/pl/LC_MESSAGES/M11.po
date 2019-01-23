@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-23 12:43+0000\n"
+"PO-Revision-Date: 2019-01-23 14:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m11/pl/>\n"
 "Language: pl\n"
@@ -325,7 +325,7 @@ msgstr ""
 
 #: ../../M11.rst:127 ../../M11.rst:975 ../../M11.rst:1009
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../M11.rst:129
 msgid "When Roc Egg dies, create a 3/3 white Bird creature token with flying."
@@ -367,6 +367,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much"
 " life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../M11.rst:143
 msgid ""
@@ -1133,7 +1135,7 @@ msgstr ""
 
 #: ../../M11.rst:449
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../M11.rst:454
 msgid ""
