@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m12/pl/>\n"
 "Language: pl\n"
@@ -36,6 +36,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../M12.rst:11
 msgid ""
@@ -506,7 +508,7 @@ msgstr ""
 
 #: ../../M12.rst:193
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../M12.rst:195
 msgid ""
@@ -2844,7 +2846,7 @@ msgstr ""
 
 #: ../../M12.rst:1129
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../M12.rst:1136
 msgid ""

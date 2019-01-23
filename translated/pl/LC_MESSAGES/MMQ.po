@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mmq/pl/>\n"
 "Language: pl\n"
@@ -194,7 +194,7 @@ msgstr ""
 #: ../../MMQ.rst:61 ../../MMQ.rst:293 ../../MMQ.rst:695 ../../MMQ.rst:917
 #: ../../MMQ.rst:1319 ../../MMQ.rst:1347
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../MMQ.rst:65
 msgid "As Cho-Manno's Blessing enters the battlefield, choose a color."
@@ -352,7 +352,7 @@ msgstr ""
 
 #: ../../MMQ.rst:123
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../MMQ.rst:128
 msgid ""
@@ -876,6 +876,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../MMQ.rst:319
 msgid "Cloud Sprite can block only creatures with flying."

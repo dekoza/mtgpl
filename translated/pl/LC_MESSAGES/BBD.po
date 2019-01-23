@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bbd/pl/>\n"
 "Language: pl\n"
@@ -225,7 +225,7 @@ msgstr ""
 
 #: ../../BBD.rst:73 ../../BBD.rst:1187 ../../BBD.rst:1291
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../BBD.rst:75
 msgid ""
@@ -1423,7 +1423,7 @@ msgstr ""
 
 #: ../../BBD.rst:499
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../BBD.rst:506
 msgid ""
@@ -1909,6 +1909,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../BBD.rst:696
 msgid ":mtgtip:`Omenspeaker<https://img.scryfall.com/cards/border_crop/en/bbd/125.jpg?1529062146|https://scryfall.com/card/bbd/125/omenspeaker?utm_source=api>`"
@@ -2073,7 +2075,7 @@ msgstr ""
 
 #: ../../BBD.rst:761
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../BBD.rst:768
 msgid ""

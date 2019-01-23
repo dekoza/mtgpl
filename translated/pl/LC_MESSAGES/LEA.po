@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lea/pl/>\n"
 "Language: pl\n"
@@ -33,11 +33,11 @@ msgstr ""
 
 #: ../../LEA.rst:9
 msgid "Enchant Wall"
-msgstr ""
+msgstr "Zaurocz Ścianę"
 
 #: ../../LEA.rst:11
 msgid "Enchanted Wall can attack as though it didn't have defender."
-msgstr ""
+msgstr "Zauroczona Ściana może atakować tak, jakby nie miała obronności."
 
 #: ../../LEA.rst:16
 msgid ":mtgtip:`Armageddon<https://img.scryfall.com/cards/border_crop/en/lea/2.jpg?1525122858|https://scryfall.com/card/lea/2/armageddon?utm_source=api>`"
@@ -607,6 +607,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../LEA.rst:234
 msgid ""
@@ -2673,7 +2675,7 @@ msgstr ""
 
 #: ../../LEA.rst:1083
 msgid "Target player gains X life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje X żyć."
 
 #: ../../LEA.rst:1088
 msgid ""

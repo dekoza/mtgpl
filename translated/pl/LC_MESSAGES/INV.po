@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/inv/pl/>\n"
 "Language: pl\n"
@@ -53,7 +53,7 @@ msgstr "Latanie"
 
 #: ../../INV.rst:15
 msgid "When Angel of Mercy enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../INV.rst:24
 msgid ""
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../INV.rst:21 ../../INV.rst:1287 ../../INV.rst:1419
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../INV.rst:23
 msgid ""
@@ -463,6 +463,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../INV.rst:157
 msgid ""
@@ -3657,7 +3659,7 @@ msgstr ""
 
 #: ../../INV.rst:1401
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../INV.rst:1408
 msgid ""
@@ -4318,7 +4320,7 @@ msgstr ""
 
 #: ../../INV.rst:1657 ../../INV.rst:1707
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../INV.rst:1662
 msgid ""

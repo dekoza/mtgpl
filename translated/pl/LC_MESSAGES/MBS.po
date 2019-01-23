@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mbs/pl/>\n"
 "Language: pl\n"
@@ -106,7 +106,7 @@ msgstr ""
 #: ../../MBS.rst:45
 #: ../../MBS.rst:77
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../MBS.rst:47
 msgid "Kemba's Legion can block an additional creature each combat for each Equipment attached to Kemba's Legion."
@@ -947,6 +947,8 @@ msgstr ""
 #: ../../MBS.rst:503
 msgid "|tap|: Attach target Equipment you control to target creature you control."
 msgstr ""
+"|tap|: Dołącz wskazany Ekwipunek pod twoim władaniem do wskazanego stwora "
+"pod twoim władaniem."
 
 #: ../../MBS.rst:510
 msgid ":mtgtip:`Copper Carapace<https://img.scryfall.com/cards/border_crop/en/mbs/102.jpg?1520720118|https://scryfall.com/card/mbs/102/copper-carapace?utm_source=api>`"
@@ -974,7 +976,7 @@ msgstr ""
 
 #: ../../MBS.rst:519
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../MBS.rst:521
 msgid "Equipped creature has indestructible."
@@ -1196,7 +1198,7 @@ msgstr ""
 
 #: ../../MBS.rst:649
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../MBS.rst:651
 msgid "You may cast artifact spells as though they had flash."

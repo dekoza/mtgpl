@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -502,7 +502,7 @@ msgstr ""
 
 #: ../../C16.rst:171
 msgid "You gain 5 life."
-msgstr ""
+msgstr "Zyskujesz 5 żyć."
 
 #: ../../C16.rst:178
 msgid ""
@@ -2844,6 +2844,10 @@ msgid ""
 "paying its mana cost. Put the exiled cards on the bottom of your library in "
 "a random order.)"
 msgstr ""
+"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nielądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Umieść wygnane karty w losowej kolejności na "
+"spodzie twojej biblioteki.)"
 
 #: ../../C16.rst:1025
 msgid "Bituminous Blast deals 4 damage to target creature."

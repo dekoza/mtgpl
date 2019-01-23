@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/5ed/pl/>\n"
 "Language: pl\n"
@@ -61,11 +61,13 @@ msgstr "Wybierz jedno —"
 
 #: ../../5ED.rst:19 ../../5ED.rst:1633
 msgid "Target player gains X life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje X żyć."
 
 #: ../../5ED.rst:21
 msgid "Prevent the next X damage that would be dealt to any target this turn."
 msgstr ""
+"Zażegnaj najbliższe X obrażeń, które mogłyby zostać zadane wskazanemu celowi "
+"w tej turze."
 
 #: ../../5ED.rst:28
 msgid ""
@@ -95,11 +97,11 @@ msgstr ""
 
 #: ../../5ED.rst:31
 msgid "Enchant Wall"
-msgstr ""
+msgstr "Zaurocz Ścianę"
 
 #: ../../5ED.rst:33
 msgid "Enchanted Wall can attack as though it didn't have defender."
-msgstr ""
+msgstr "Zauroczona Ściana może atakować tak, jakby nie miała obronności."
 
 #: ../../5ED.rst:40
 msgid ""
@@ -122,7 +124,7 @@ msgstr ""
 
 #: ../../5ED.rst:43
 msgid "Destroy all lands."
-msgstr ""
+msgstr "Zniszcz wszystkie lądy."
 
 #: ../../5ED.rst:52
 msgid ""
@@ -943,6 +945,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../5ED.rst:360
 msgid ""
@@ -3931,7 +3935,7 @@ msgstr ""
 
 #: ../../5ED.rst:1593
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../5ED.rst:1595
 msgid "Rabid Wombat gets +2/+2 for each Aura attached to it."

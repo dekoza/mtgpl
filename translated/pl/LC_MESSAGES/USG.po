@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/usg/pl/>\n"
 "Language: pl\n"
@@ -76,6 +76,7 @@ msgstr "Latanie"
 #: ../../USG.rst:23
 msgid "|tap|: Target attacking or blocking creature gets +1/+1 until end of turn."
 msgstr ""
+"|tap|: Wskazany atakujący lub blokujący stwór dostaje +1/+1 do końca tury."
 
 #: ../../USG.rst:32
 msgid ""
@@ -416,6 +417,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../USG.rst:151
 msgid ""

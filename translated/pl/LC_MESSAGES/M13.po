@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m13/pl/>\n"
 "Language: pl\n"
@@ -81,6 +81,8 @@ msgid ""
 "Exalted (Whenever a creature you control attacks alone, that creature "
 "gets +1/+1 until end of turn.)"
 msgstr ""
+"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
+"dostaje +1/+1 do końca tury.)"
 
 #: ../../M13.rst:27
 msgid ""
@@ -993,6 +995,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../M13.rst:399
 msgid "Welkin Tern can block only creatures with flying."
@@ -1306,7 +1310,7 @@ msgstr ""
 
 #: ../../M13.rst:527 ../../M13.rst:1087
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../M13.rst:529
 msgid ""
@@ -2892,7 +2896,7 @@ msgstr ""
 
 #: ../../M13.rst:1137
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../M13.rst:1146
 msgid ""

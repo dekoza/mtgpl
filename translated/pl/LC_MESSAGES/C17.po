@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -387,7 +388,7 @@ msgstr ""
 
 #: ../../C17.rst:133
 msgid "Target opponent discards two cards."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../C17.rst:135
 msgid "Target opponent loses 5 life."
@@ -2754,6 +2755,10 @@ msgid ""
 "without paying its mana cost. Put the exiled cards on the bottom of your "
 "library in a random order.)"
 msgstr ""
+"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nielądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Umieść wygnane karty w losowej kolejności na "
+"spodzie twojej biblioteki.)"
 
 #: ../../C17.rst:990
 msgid ""
@@ -3056,6 +3061,8 @@ msgid ""
 "Exalted (Whenever a creature you control attacks alone, that creature "
 "gets +1/+1 until end of turn.)"
 msgstr ""
+"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
+"dostaje +1/+1 do końca tury.)"
 
 #: ../../C17.rst:1099
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 22:08+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -2136,12 +2136,13 @@ msgstr "Czujność, zasięg, tratowanie"
 
 #: ../../HOU.rst:699
 msgid "Ramunap Hydra gets +1/+1 as long as you control a Desert."
-msgstr ""
+msgstr "O ile władasz Pustynią, ten stwór dostaje +1/+1."
 
 #: ../../HOU.rst:701
 msgid ""
 "Ramunap Hydra gets +1/+1 as long as there is a Desert card in your graveyard."
 msgstr ""
+"O ile w twoim cmentarzu znajduje się karta Pustyni, ten stwór dostaje +1/+1."
 
 #: ../../HOU.rst:708
 msgid ""
@@ -2155,6 +2156,8 @@ msgid ""
 "When Resilient Khenra enters the battlefield, you may have target creature "
 "get +X/+X until end of turn, where X is Resilient Khenra's power."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, by wskazany stwór "
+"dostał +X/+X do końca tury, gdzie X jest siłą tego stwora."
 
 #: ../../HOU.rst:707
 msgid ""
@@ -2180,6 +2183,8 @@ msgid ""
 "Create a 5/4 green Snake creature token. Lands you control don't untap "
 "during your next untap step."
 msgstr ""
+"Stwórz żeton zielonego stwora Wąż 5/4. Lądy, którymi władasz, nie odkręcą "
+"się w twoim najbliższym kroku odkręcania."
 
 #: ../../HOU.rst:716
 msgid ""
@@ -2207,6 +2212,8 @@ msgid ""
 "As long as you control a Desert or there is a Desert card in your graveyard, "
 "Sidewinder Naga gets +1/+0 and has trample."
 msgstr ""
+"O ile władasz Pustynią lub w twoim cmentarzu znajduje się karta Pustyni, ten "
+"stwór dostaje +1/+0 i ma tratowanie."
 
 #: ../../HOU.rst:726
 msgid ""
@@ -2219,6 +2226,9 @@ msgid ""
 "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of "
 "your library. You gain life equal to that card's converted mana cost."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wróż 3, a następnie ujawnij "
+"wierzchnią kartę twojej biblioteki. Zyskujesz tyle żyć, ile wynosi skrócony "
+"koszt many owej karty."
 
 #: ../../HOU.rst:730
 msgid ""
@@ -2232,6 +2242,8 @@ msgid ""
 "As long as a creature has a -1/-1 counter on it, Tenacious Hunter has "
 "vigilance and deathtouch."
 msgstr ""
+"O ile stwór ma na sobie znacznik -1/-1, ten stwór ma czujność i dotyk "
+"śmierci."
 
 #: ../../HOU.rst:734
 msgid ""
@@ -2246,6 +2258,9 @@ msgid ""
 "each have converted mana cost X, reveal them, put them into your hand, then "
 "shuffle your library."
 msgstr ""
+"Poszukaj w twojej bibliotece co najwyżej X kart stworów o różnych nazwach i "
+"skróconym koszcie many X, ujawnij je i dołóż je na swoją rękę, a następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:742
 msgid ""
@@ -2259,6 +2274,8 @@ msgid ""
 "When Bloodwater Entity enters the battlefield, you may put target instant or "
 "sorcery card from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz umieścić wskazaną kartę "
+"sztuczki lub obrzędu z twojego cmentarza na wierzchu swojej biblioteki."
 
 #: ../../HOU.rst:752
 msgid ""
@@ -2272,19 +2289,21 @@ msgid ""
 "Whenever you draw a card, create a 1/1 blue and red Insect creature token "
 "with flying and haste."
 msgstr ""
+"Ilekroć dobierasz kartę, stwórz żeton niebiesko-czerwonego stwora Insekt 1/1 "
+"z lataniem i pośpiechem."
 
 #: ../../HOU.rst:749
-#, fuzzy
 msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
 msgstr ""
-"Recykling |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|, odrzuć tę kartę: Dobierz "
-"kartę.)"
+"|mana_2|\\ |mana_u|\\ |mana_r|: Dobierz kartę, a następnie odrzuć kartę."
 
 #: ../../HOU.rst:751
 msgid ""
 "When The Locust God dies, return it to its owner's hand at the beginning of "
 "the next end step."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go do ręki jego właściciela na początku "
+"następnego kroku końcowego."
 
 #: ../../HOU.rst:762
 msgid ""
@@ -2299,20 +2318,26 @@ msgid ""
 "exile a nonland card. Until end of turn, you may cast that card without "
 "paying its mana cost."
 msgstr ""
+"+2: Wskazany przeciwnik wygania karty z wierzchu swojej biblioteki, aż wygna "
+"kartę nie będącą lądem. Do końca tury możesz zagrać ową kartę bez płacenia "
+"jej kosztu many."
 
 #: ../../HOU.rst:757
 msgid "+1: Each opponent exiles two cards from their hand."
-msgstr ""
+msgstr "+1: Każdy przeciwnik wygania dwie karty ze swojej ręki."
 
 #: ../../HOU.rst:759
 msgid ""
 "−4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an "
 "opponent controls, or planeswalker an opponent controls."
 msgstr ""
+"-4: Ten wędrowiec zadaje 7 obrażeń wskazanemu przeciwnikowi, stworowi pod "
+"władaniem przeciwnika, lub wędrowcowi pod władaniem przeciwnika."
 
 #: ../../HOU.rst:761
 msgid "−12: Exile each nonland permanent your opponents control."
 msgstr ""
+"-12: Wygnaj wszystkie nielądowe permanenty pod władaniem twoich przeciwników."
 
 #: ../../HOU.rst:770
 msgid ""
@@ -2330,12 +2355,16 @@ msgid ""
 "Whenever Obelisk Spider deals combat damage to a creature, put a -1/-1 "
 "counter on that creature."
 msgstr ""
+"Ilekroć ten stwór zadaje obrażenia bojowe stworowi, umieść znacznik -1/-1 na "
+"owym stworze."
 
 #: ../../HOU.rst:769
 msgid ""
 "Whenever you put one or more -1/-1 counters on a creature, each opponent "
 "loses 1 life and you gain 1 life."
 msgstr ""
+"Ilekroć umieszczasz jeden lub więcej znaczników -1/-1 na stworze, każdy "
+"przeciwnik traci 1 życie, a ty zyskujesz 1 życie."
 
 #: ../../HOU.rst:776
 msgid ""
@@ -2349,12 +2378,16 @@ msgid ""
 "You may exert Resolute Survivors as it attacks. (It won't untap during your "
 "next untap step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. (Nie odkręci się w twoim "
+"najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:775
 msgid ""
 "Whenever you exert a creature, Resolute Survivors deals 1 damage to each "
 "opponent and you gain 1 life."
 msgstr ""
+"Ilekroć wytężasz stwora, ten stwór zadaje 1 obrażenie każdemu przeciwnikowi, "
+"a ty zyskujesz 1 życie."
 
 #: ../../HOU.rst:782
 msgid ""
@@ -2364,11 +2397,8 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:781
-#, fuzzy
 msgid "|mana_3|\\ |mana_g|\\ |mana_u|: You gain 2 life and draw a card."
-msgstr ""
-"Recykling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę kartę: Dobierz "
-"kartę.)"
+msgstr "|mana_3|\\ |mana_g|\\ |mana_u|: Zyskujesz 2 życia i dobierasz kartę."
 
 #: ../../HOU.rst:790
 msgid ""
@@ -2380,18 +2410,23 @@ msgstr ""
 #: ../../HOU.rst:785
 msgid "+1: Up to one target creature gains double strike until end of turn."
 msgstr ""
+"+1: Co najwyżej jeden wskazany stwór zyskuje podwójny cios do końca tury."
 
 #: ../../HOU.rst:787
 msgid ""
 "−2: Samut, the Tested deals 2 damage divided as you choose among one or two "
 "targets."
 msgstr ""
+"-2: Ten wędrowiec zadaje 2 obrażenia rozdzielone według twojego wyboru "
+"pomiędzy jeden lub dwa dowolnie wskazane cele."
 
 #: ../../HOU.rst:789
 msgid ""
 "−7: Search your library for up to two creature and/or planeswalker cards, "
 "put them onto the battlefield, then shuffle your library."
 msgstr ""
+"-7: Poszukaj w swojej bibliotece co najwyżej dwóch kart stworów i/lub "
+"wędrowców, umieść je na polu walki, a następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:798
 msgid ""
@@ -2411,12 +2446,16 @@ msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_b|: Exile target creature card from a graveyard. "
 "Create a token that's a copy of it, except it's a 4/4 black Zombie."
 msgstr ""
+"|mana_2|\\ |mana_u|\\ |mana_b|: Wygnaj wskazaną kartę stwora z cmentarza. "
+"Stwórz żeton będący jej kopią z wyjątkiem tego, że jest to czarny Zombi 4/4."
 
 #: ../../HOU.rst:797
 msgid ""
 "When The Scarab God dies, return it to its owner's hand at the beginning of "
 "the next end step."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go do ręki jego właściciela na początku "
+"następnego kroku końcowego."
 
 #: ../../HOU.rst:806
 msgid ""
@@ -2427,19 +2466,23 @@ msgstr ""
 
 #: ../../HOU.rst:801
 msgid "Whenever a creature with a -1/-1 counter on it dies, draw a card."
-msgstr ""
+msgstr "Ilekroć stwór ze znacznikiem -1/-1 na sobie umrze, dobierz kartę."
 
 #: ../../HOU.rst:803
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_r|: Put a -1/-1 counter on another target "
 "creature."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_r|: Umieść znacznik -1/-1 na innym wskazanym "
+"stworze."
 
 #: ../../HOU.rst:805
 msgid ""
 "When The Scorpion God dies, return it to its owner's hand at the beginning "
 "of the next end step."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go do ręki jego właściciela na początku "
+"następnego kroku końcowego."
 
 #: ../../HOU.rst:812
 msgid ""
@@ -2453,12 +2496,16 @@ msgid ""
 "|mana_1|\\ |mana_w|: Target attacking Zombie gains lifelink until end of "
 "turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Wskazany atakujący Zombi zyskuje więź życia do końca "
+"tury."
 
 #: ../../HOU.rst:811
 msgid ""
 "|mana_1|\\ |mana_b|: Target attacking Zombie gains deathtouch until end of "
 "turn."
 msgstr ""
+"|mana_1|\\ |mana_b|: Wskazany atakujący Zombi zyskuje dotyk śmierci do końca "
+"tury."
 
 #: ../../HOU.rst:816
 msgid ""
@@ -2481,6 +2528,8 @@ msgstr ""
 #: ../../HOU.rst:899 ../../HOU.rst:909
 msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
+"Pokłosie (Możesz rzucić ten czar tylko z twojego cmentarza. Następnie go "
+"wygnaj.)"
 
 #: ../../HOU.rst:821
 msgid "Draw two cards, then discard two cards."
@@ -2495,7 +2544,7 @@ msgstr ""
 
 #: ../../HOU.rst:825
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 
 #: ../../HOU.rst:832
 msgid ""
@@ -2506,7 +2555,7 @@ msgstr ""
 
 #: ../../HOU.rst:831
 msgid "Target opponent discards two cards."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../HOU.rst:836
 msgid ""
@@ -2519,6 +2568,8 @@ msgid ""
 "Return target creature card with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Zwróć wskazaną kartę stwora o skróconym koszcie many 2 lub mniejszym z "
+"twojego cmentarza na pole walki."
 
 #: ../../HOU.rst:842
 msgid ""
@@ -2528,7 +2579,7 @@ msgstr ""
 
 #: ../../HOU.rst:841
 msgid "Target creature gets +2/+0 and gains haste until end of turn."
-msgstr ""
+msgstr "Wskazany stwór otrzymuje +2/+0 i zyskuje pośpiech do końca tury."
 
 #: ../../HOU.rst:846
 msgid ""
@@ -2542,6 +2593,8 @@ msgid ""
 "Struggle deals damage to target creature equal to the number of lands you "
 "control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi obrażenia równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../HOU.rst:852
 msgid ""
@@ -2552,7 +2605,7 @@ msgstr ""
 
 #: ../../HOU.rst:851
 msgid "Each player shuffles their graveyard into their library."
-msgstr ""
+msgstr "Każdy gracz wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../HOU.rst:856
 msgid ""
@@ -2566,6 +2619,8 @@ msgid ""
 "Until end of turn, target creature gains trample and gets +X/+X, where X is "
 "the number of creatures you control."
 msgstr ""
+"Do końca tury wskazany stwór zyskuje tratowanie i dostaje +X/+X, gdzie X "
+"jest liczbą stworów pod twoim władaniem."
 
 #: ../../HOU.rst:862
 msgid ""
@@ -2579,6 +2634,8 @@ msgid ""
 "Tap up to two target creatures your opponents control. Creatures you control "
 "gain vigilance until end of turn."
 msgstr ""
+"Przekręć co najwyżej dwa stwory pod władaniem twoich przeciwników. Stwory "
+"pod twoim władaniem zyskują czujność do końca tury."
 
 #: ../../HOU.rst:866
 msgid ""
@@ -2589,6 +2646,8 @@ msgstr ""
 #: ../../HOU.rst:865
 msgid "Return any number of target permanents you own to your hand."
 msgstr ""
+"Przywróć dowolną liczbę wskazanych permanentów, które posiadasz do swojej "
+"ręki."
 
 #: ../../HOU.rst:872
 msgid ""
@@ -2598,7 +2657,7 @@ msgstr ""
 
 #: ../../HOU.rst:871
 msgid "Discard any number of cards, then draw that many cards."
-msgstr ""
+msgstr "Odrzuć dowolną liczbę kart, a następnie dobierz tyle samo kart."
 
 #: ../../HOU.rst:876
 msgid ""
@@ -2608,7 +2667,7 @@ msgstr ""
 
 #: ../../HOU.rst:875
 msgid "Scry 3."
-msgstr ""
+msgstr "Wróż 3."
 
 #: ../../HOU.rst:882
 msgid ""
@@ -2621,6 +2680,8 @@ msgid ""
 "Look at the top card of your library. You may put it onto the battlefield if "
 "it's a creature card. If you don't, put it into your hand."
 msgstr ""
+"Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to karta stwora, możesz "
+"umieścić ją na polu walki. Jeśli tego nie zrobisz, umieść ją w twojej ręce."
 
 #: ../../HOU.rst:886
 msgid ""
@@ -2630,7 +2691,7 @@ msgstr ""
 
 #: ../../HOU.rst:885
 msgid "Put a -1/-1 counter on each of up to two target creatures."
-msgstr ""
+msgstr "Umieść znacznik -1/-1 na każdym z co najwyżej dwóch wskazanych stworów."
 
 #: ../../HOU.rst:892
 msgid ""
@@ -2641,6 +2702,7 @@ msgstr ""
 #: ../../HOU.rst:891
 msgid "Exile any number of target creatures that have -1/-1 counters on them."
 msgstr ""
+"Wygnaj dowolną ilość wskazanych stworów, które mają na sobie znaczniki -1/-1."
 
 #: ../../HOU.rst:896
 msgid ""
@@ -2654,6 +2716,8 @@ msgid ""
 "Refuse deals damage to target spell's controller equal to that spell's "
 "converted mana cost."
 msgstr ""
+"Ten czar zadaje władcy wskazanego czaru obrażenia równe skróconemu kosztowi "
+"many owego czaru."
 
 #: ../../HOU.rst:902
 msgid ""
@@ -2667,6 +2731,8 @@ msgid ""
 "Copy target instant or sorcery spell. You may choose new targets for the "
 "copy."
 msgstr ""
+"Skopiuj wskazany czar sztuczki lub obrzędu. Możesz wskazać nowe cele dla "
+"owej kopii."
 
 #: ../../HOU.rst:906
 msgid ""
@@ -2679,6 +2745,8 @@ msgid ""
 "Until end of turn, creatures you control gain trample and \"Whenever this "
 "creature deals combat damage to a player, draw a card.\""
 msgstr ""
+"Do końca tury stwory pod twoim władaniem zyskują tratowanie i zdolność \""
+"Ilekroć ten stwór zada graczowi obrażenia bitewne, dobierz kartę.\""
 
 #: ../../HOU.rst:912
 msgid ""
@@ -2691,6 +2759,8 @@ msgid ""
 "Until end of turn, creatures you control gain menace and \"Whenever this "
 "creature deals combat damage to a player, that player discards a card.\""
 msgstr ""
+"Do końca tury stwory pod twoim władaniem zyskują złowrogość i zdolność \""
+"Ilekroć ten stwór zada graczowi obrażenia bitewne, ów gracz odrzuca kartę.\""
 
 #: ../../HOU.rst:918
 msgid ""
@@ -2720,12 +2790,14 @@ msgstr ""
 
 #: ../../HOU.rst:921
 msgid "|mana_1|, |tap|: Exile target card from a graveyard."
-msgstr ""
+msgstr "|mana_1|, |tap|: Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../HOU.rst:923
 msgid ""
 "|mana_1|, Exile Crook of Condemnation: Exile all cards from all graveyards."
 msgstr ""
+"|mana_1|, wygnaj ten artefakt: Wygnaj wszystkie karty ze wszystkich "
+"cmentarzy."
 
 #: ../../HOU.rst:930
 msgid ""
@@ -2761,6 +2833,9 @@ msgid ""
 "your graveyard. If you do, create a token that's a copy of that card, except "
 "it's a 4/4 black Zombie. It gains haste until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, możesz wygnać kartę stwora z twojego "
+"cmentarza. Jeśli to zrobisz, stwórz żeton będący jej kopią z wyjątkiem tego, "
+"że jest to czarny Zombi 4/4. Ów żeton zyskuje pośpiech do końca tury."
 
 #: ../../HOU.rst:938
 msgid ""
@@ -2774,6 +2849,8 @@ msgid ""
 "Whenever Graven Abomination attacks, exile target card from defending "
 "player's graveyard."
 msgstr ""
+"Ilekroć ten stwór atakuje, wygnaj wskazaną kartę z cmentarza broniącego się "
+"gracza."
 
 #: ../../HOU.rst:944
 msgid ""
@@ -2786,6 +2863,8 @@ msgid ""
 "This spell costs |mana_2| less to cast for each card you've cycled or "
 "discarded this turn."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_2| mniej za każdą kartę, którą "
+"zrecyklowałeś lub odrzuciłeś w tej turze."
 
 #: ../../HOU.rst:948
 msgid ""
@@ -2805,6 +2884,8 @@ msgid ""
 "|mana_2|: Mirage Mirror becomes a copy of target artifact, creature, "
 "enchantment, or land until end of turn."
 msgstr ""
+"|mana_2|: Ten artefakt do końca tury staje się kopią wskazanego artefaktu, "
+"stwora, uroku lub lądu."
 
 #: ../../HOU.rst:960
 msgid ""
@@ -2815,16 +2896,17 @@ msgstr ""
 
 #: ../../HOU.rst:955
 msgid "Sunset Pyramid enters the battlefield with three brick counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki z trzema znacznikami cegieł."
 
 #: ../../HOU.rst:957
 msgid ""
 "|mana_2|, |tap|, Remove a brick counter from Sunset Pyramid: Draw a card."
 msgstr ""
+"|mana_2|, |tap|, zdejmij z tego artefaktu znacznik cegły: Dobierz kartę."
 
 #: ../../HOU.rst:959
 msgid "|mana_2|, |tap|: Scry 1."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wróż 1."
 
 #: ../../HOU.rst:964
 msgid ""
@@ -2838,6 +2920,9 @@ msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
 "card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|mana_1|, poświęć ten artefakt.: Poszukaj w twojej bibliotece karty bazowego "
+"lądu, ujawnij ją i dołóż do twojej ręki. Następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../HOU.rst:970
 msgid ""
@@ -2852,6 +2937,9 @@ msgid ""
 "planeswalker. Activate this ability only if you control a Desert or there is "
 "a Desert card in your graveyard."
 msgstr ""
+"|tap|: Ten stwór zadaje 1 obrażenie wskazanemu stworowi lub wędrowcowi. "
+"Aktywuj tę zdolność tylko jeśli władasz Pustynią lub w twoim cmentarzu "
+"znajduje się karta Pustyni."
 
 #: ../../HOU.rst:978
 msgid ""
@@ -2862,7 +2950,7 @@ msgstr ""
 
 #: ../../HOU.rst:973
 msgid "When Crypt of the Eternals enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../HOU.rst:975 ../../HOU.rst:1021 ../../HOU.rst:1027 ../../HOU.rst:1035
 #: ../../HOU.rst:1043 ../../HOU.rst:1049 ../../HOU.rst:1057 ../../HOU.rst:1065
@@ -2872,7 +2960,7 @@ msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../HOU.rst:977
 msgid "|mana_1|, |tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../HOU.rst:986
 msgid ""
@@ -2883,7 +2971,7 @@ msgstr ""
 
 #: ../../HOU.rst:981
 msgid "Desert of the Fervent enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:983
 msgid "|tap|: Add |mana_r|."
@@ -2907,7 +2995,7 @@ msgstr ""
 
 #: ../../HOU.rst:989
 msgid "Desert of the Glorified enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:991
 msgid "|tap|: Add |mana_b|."
@@ -2931,7 +3019,7 @@ msgstr ""
 
 #: ../../HOU.rst:997
 msgid "Desert of the Indomitable enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:999
 msgid "|tap|: Add |mana_g|."
@@ -2955,7 +3043,7 @@ msgstr ""
 
 #: ../../HOU.rst:1005
 msgid "Desert of the Mindful enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:1007
 msgid "|tap|: Add |mana_u|."
@@ -2979,14 +3067,13 @@ msgstr ""
 
 #: ../../HOU.rst:1013
 msgid "Desert of the True enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:1015
 msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../HOU.rst:1017
-#, fuzzy
 msgid ""
 "Cycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Draw a "
 "card.)"
@@ -3006,6 +3093,8 @@ msgid ""
 "When Dunes of the Dead is put into a graveyard from the battlefield, create "
 "a 2/2 black Zombie creature token."
 msgstr ""
+"Kiedy ten ląd zostanie umieszczony w cmentarzu z pola walki, stwórz żeton "
+"czarnego stwora Zombi 2/2."
 
 #: ../../HOU.rst:1032
 msgid ""
@@ -3016,13 +3105,15 @@ msgstr ""
 
 #: ../../HOU.rst:1029
 msgid "|mana_2|, |tap|: Exile target creature you control."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wygnaj wskazanego stwora pod twoim władaniem."
 
 #: ../../HOU.rst:1031
 msgid ""
 "|mana_4|, |tap|, Sacrifice Endless Sands: Return each creature card exiled "
 "with Endless Sands to the battlefield under its owner's control."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten ląd: Przywróć wszystkie karty stworów wygnane "
+"przez ten ląd na pole walki pod władaniem ich właścicieli."
 
 #: ../../HOU.rst:1040
 msgid ""
@@ -3033,7 +3124,7 @@ msgstr ""
 
 #: ../../HOU.rst:1037
 msgid "|tap|, Pay 1 life: Add |mana_g|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_g|."
 
 #: ../../HOU.rst:1039
 msgid ""
@@ -3041,6 +3132,9 @@ msgid ""
 "gets +3/+3 until end of turn. Activate this ability only any time you could "
 "cast a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, poświęć Pustynię: Wskazany stwór "
+"dostaje +3/+3 do końca tury. Aktywuj tę zdolność tylko wtedy, gdy możesz "
+"rzucić obrzęd."
 
 #: ../../HOU.rst:1046
 msgid ""

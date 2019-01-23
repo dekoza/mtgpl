@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 20:51+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/arb/pl/>\n"
 "Language: pl\n"
@@ -37,6 +37,8 @@ msgid ""
 "Exalted (Whenever a creature you control attacks alone, that creature "
 "gets +1/+1 until end of turn.)"
 msgstr ""
+"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
+"dostaje +1/+1 do końca tury.)"
 
 #: ../../ARB.rst:11 ../../ARB.rst:83 ../../ARB.rst:113 ../../ARB.rst:139
 #: ../../ARB.rst:199 ../../ARB.rst:221 ../../ARB.rst:293 ../../ARB.rst:359
@@ -47,6 +49,10 @@ msgid ""
 "without paying its mana cost. Put the exiled cards on the bottom of your "
 "library in a random order.)"
 msgstr ""
+"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nielądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Umieść wygnane karty w losowej kolejności na "
+"spodzie twojej biblioteki.)"
 
 #: ../../ARB.rst:18
 msgid ""
@@ -85,7 +91,7 @@ msgstr ""
 
 #: ../../ARB.rst:25
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../ARB.rst:27
 msgid ""
@@ -113,7 +119,7 @@ msgstr ""
 
 #: ../../ARB.rst:35
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../ARB.rst:42
 msgid ""
@@ -144,7 +150,7 @@ msgstr ""
 
 #: ../../ARB.rst:47
 msgid "Cycling |mana_wu| (|mana_wu|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_wu| (|mana_wu|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../ARB.rst:54
 msgid ""

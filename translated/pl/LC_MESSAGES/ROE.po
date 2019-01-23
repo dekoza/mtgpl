@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/roe/pl/>\n"
 "Language: pl\n"
@@ -34,6 +34,8 @@ msgstr ""
 #: ../../ROE.rst:9
 msgid "Each player sacrifices all colored permanents they control."
 msgstr ""
+"Każdy gracz poświęca wszystkie posiadające kolor permanenty pod swoim "
+"władaniem."
 
 #: ../../ROE.rst:16
 msgid ""
@@ -53,6 +55,8 @@ msgid ""
 "Annihilator 2 (Whenever this creature attacks, defending player "
 "sacrifices two permanents.)"
 msgstr ""
+"Anihilacja 2 (Ilekroć ten stwór atakuje, broniący się gracz poświęca dwa "
+"permanenty.)"
 
 #: ../../ROE.rst:22
 msgid ""
@@ -74,6 +78,8 @@ msgid ""
 "Enchanted creature gets +10/+10 and has trample and annihilator 2. "
 "(Whenever it attacks, defending player sacrifices two permanents.)"
 msgstr ""
+"Zauroczony stwór dostaje +10/+10, i ma tratowanie i anihilację 2. (Ilekroć "
+"zaatakuje, broniący się gracz poświęca dwa permanenty.)"
 
 #: ../../ROE.rst:32
 msgid ""
@@ -88,17 +94,19 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../ROE.rst:27
 msgid "When you cast this spell, take an extra turn after this one."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, dostajesz dodatkową turę po aktualnej."
 
 #: ../../ROE.rst:29
 msgid "Flying, protection from colored spells, annihilator 6"
-msgstr ""
+msgstr "Latanie, ochrona przed kolorowymi czarami, anihilacja 6"
 
 #: ../../ROE.rst:31
 msgid ""
 "When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its "
 "owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../ROE.rst:38
 msgid ""
@@ -128,19 +136,23 @@ msgstr ""
 
 #: ../../ROE.rst:41
 msgid "When you cast this spell, draw four cards."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, dobierz cztery karty."
 
 #: ../../ROE.rst:43 ../../ROE.rst:83
 msgid ""
 "Annihilator 4 (Whenever this creature attacks, defending player "
 "sacrifices four permanents.)"
 msgstr ""
+"Anihilacja 4 (Ilekroć ten stwór atakuje, broniący się gracz poświęca cztery "
+"permanenty.)"
 
 #: ../../ROE.rst:45
 msgid ""
 "When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its"
 " owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../ROE.rst:52
 msgid ""
@@ -230,17 +242,19 @@ msgstr ""
 
 #: ../../ROE.rst:79
 msgid "When you cast this spell, destroy target permanent."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, zniszcz wskazany permanent."
 
 #: ../../ROE.rst:81
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../ROE.rst:85
 msgid ""
 "When Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its"
 " owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../ROE.rst:92
 msgid ""
@@ -251,7 +265,7 @@ msgstr ""
 
 #: ../../ROE.rst:91
 msgid "Ulamog's Crusher attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli to możliwe."
 
 #: ../../ROE.rst:98
 msgid ""
@@ -508,7 +522,7 @@ msgstr ""
 
 #: ../../ROE.rst:197 ../../ROE.rst:203
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../ROE.rst:199 ../../ROE.rst:231 ../../ROE.rst:403 ../../ROE.rst:467
 #: ../../ROE.rst:781 ../../ROE.rst:847 ../../ROE.rst:1179
@@ -744,7 +758,7 @@ msgstr ""
 
 #: ../../ROE.rst:309
 msgid "Whenever another creature enters the battlefield, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć inny stwór wejdzie na pole walki, możesz zyskać 1 życie."
 
 #: ../../ROE.rst:314
 msgid ""

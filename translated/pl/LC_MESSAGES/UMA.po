@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/uma/pl/>\n"
 "Language: pl\n"
@@ -35,6 +35,8 @@ msgstr ""
 #: ../../UMA.rst:9
 msgid "Each player sacrifices all colored permanents they control."
 msgstr ""
+"Każdy gracz poświęca wszystkie posiadające kolor permanenty pod swoim "
+"władaniem."
 
 #: ../../UMA.rst:16
 msgid ""
@@ -54,6 +56,8 @@ msgid ""
 "Annihilator 2 (Whenever this creature attacks, defending player "
 "sacrifices two permanents.)"
 msgstr ""
+"Anihilacja 2 (Ilekroć ten stwór atakuje, broniący się gracz poświęca dwa "
+"permanenty.)"
 
 #: ../../UMA.rst:22
 msgid ""
@@ -75,6 +79,8 @@ msgid ""
 "Enchanted creature gets +10/+10 and has trample and annihilator 2. "
 "(Whenever it attacks, defending player sacrifices two permanents.)"
 msgstr ""
+"Zauroczony stwór dostaje +10/+10, i ma tratowanie i anihilację 2. (Ilekroć "
+"zaatakuje, broniący się gracz poświęca dwa permanenty.)"
 
 #: ../../UMA.rst:32
 msgid ""
@@ -90,17 +96,19 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../UMA.rst:27
 msgid "When you cast this spell, take an extra turn after this one."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, dostajesz dodatkową turę po aktualnej."
 
 #: ../../UMA.rst:29
 msgid "Flying, protection from colored spells, annihilator 6"
-msgstr ""
+msgstr "Latanie, ochrona przed kolorowymi czarami, anihilacja 6"
 
 #: ../../UMA.rst:31
 msgid ""
 "When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its "
 "owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../UMA.rst:40
 msgid ""
@@ -112,11 +120,11 @@ msgstr ""
 
 #: ../../UMA.rst:35
 msgid "+4: Target player exiles a card from their hand."
-msgstr ""
+msgstr "+4: Wskazany gracz wygania kartę ze swojej ręki."
 
 #: ../../UMA.rst:37
 msgid "−3: Exile target permanent."
-msgstr ""
+msgstr "–3: Wygnaj wskazany permanent."
 
 #: ../../UMA.rst:39
 msgid ""
@@ -124,6 +132,9 @@ msgid ""
 "exiled with Karn Liberated. Then put those cards onto the battlefield "
 "under your control."
 msgstr ""
+"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
+"będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
+"karty na polu walki pod twoim władaniem."
 
 #: ../../UMA.rst:48
 msgid ""
@@ -135,19 +146,23 @@ msgstr ""
 
 #: ../../UMA.rst:43
 msgid "When you cast this spell, draw four cards."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, dobierz cztery karty."
 
 #: ../../UMA.rst:45 ../../UMA.rst:55
 msgid ""
 "Annihilator 4 (Whenever this creature attacks, defending player "
 "sacrifices four permanents.)"
 msgstr ""
+"Anihilacja 4 (Ilekroć ten stwór atakuje, broniący się gracz poświęca cztery "
+"permanenty.)"
 
 #: ../../UMA.rst:47
 msgid ""
 "When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its"
 " owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../UMA.rst:58
 msgid ""
@@ -159,17 +174,19 @@ msgstr ""
 
 #: ../../UMA.rst:51
 msgid "When you cast this spell, destroy target permanent."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, zniszcz wskazany permanent."
 
 #: ../../UMA.rst:53
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../UMA.rst:57
 msgid ""
 "When Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its"
 " owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../UMA.rst:64
 msgid ""
@@ -181,7 +198,7 @@ msgstr ""
 
 #: ../../UMA.rst:63
 msgid "Ulamog's Crusher attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli to możliwe."
 
 #: ../../UMA.rst:70
 msgid ""
@@ -230,7 +247,7 @@ msgstr ""
 #: ../../UMA.rst:77 ../../UMA.rst:417 ../../UMA.rst:605 ../../UMA.rst:1093
 #: ../../UMA.rst:1191
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../UMA.rst:79
 msgid ""
@@ -674,6 +691,8 @@ msgid ""
 "Exalted (Whenever a creature you control attacks alone, that creature "
 "gets +1/+1 until end of turn.)"
 msgstr ""
+"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
+"dostaje +1/+1 do końca tury.)"
 
 #: ../../UMA.rst:237
 msgid ""
@@ -697,7 +716,7 @@ msgstr ""
 
 #: ../../UMA.rst:243
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../UMA.rst:248
 msgid ""
@@ -1104,6 +1123,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../UMA.rst:390
 msgid ""
@@ -3719,7 +3740,7 @@ msgstr ""
 
 #: ../../UMA.rst:1305
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../UMA.rst:1307
 msgid ""

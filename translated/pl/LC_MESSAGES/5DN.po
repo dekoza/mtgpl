@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/5dn/pl/>\n"
 "Language: pl\n"
@@ -38,7 +38,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../5DN.rst:11
 msgid "You gain 5 life."
-msgstr ""
+msgstr "Zyskujesz 5 żyć."
 
 #: ../../5DN.rst:13
 msgid ""
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../../5DN.rst:15 ../../5DN.rst:195
 msgid "Entwine |mana_2| (Choose both if you pay the entwine cost.)"
-msgstr ""
+msgstr "Splątanie |mana_2| (Wybierz oba jeśli opłaciłeś koszt splątania.)"
 
 #: ../../5DN.rst:20
 msgid ""
@@ -72,11 +72,11 @@ msgstr ""
 
 #: ../../5DN.rst:23
 msgid "Protection from black and from red"
-msgstr ""
+msgstr "Ochrona przed czarnym i czerwonym"
 
 #: ../../5DN.rst:25
 msgid "Whenever another creature enters the battlefield, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć inny stwór wejdzie na pole walki, możesz zyskać 1 życie."
 
 #: ../../5DN.rst:30
 msgid ""
@@ -106,6 +106,8 @@ msgstr "Latanie"
 #: ../../5DN.rst:35
 msgid "|tap|: Attach target Equipment you control to target creature you control."
 msgstr ""
+"|tap|: Dołącz wskazany Ekwipunek pod twoim władaniem do wskazanego stwora "
+"pod twoim władaniem."
 
 #: ../../5DN.rst:40
 msgid ""
@@ -193,7 +195,7 @@ msgstr ""
 
 #: ../../5DN.rst:63 ../../5DN.rst:69
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../5DN.rst:65
 msgid "|mana_w|: Loxodon Stalwart gets +0/+1 until end of turn."
@@ -892,6 +894,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or"
 " reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../5DN.rst:337
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
@@ -1414,7 +1418,7 @@ msgstr ""
 
 #: ../../5DN.rst:525
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../5DN.rst:527 ../../5DN.rst:549 ../../5DN.rst:597 ../../5DN.rst:671
 #: ../../5DN.rst:693 ../../5DN.rst:737 ../../5DN.rst:751

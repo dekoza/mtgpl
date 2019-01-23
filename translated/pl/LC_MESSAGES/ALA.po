@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-20 20:52+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ala/pl/>\n"
 "Language: pl\n"
@@ -38,6 +38,8 @@ msgid ""
 "Exalted (Whenever a creature you control attacks alone, that creature "
 "gets +1/+1 until end of turn.)"
 msgstr ""
+"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
+"dostaje +1/+1 do końca tury.)"
 
 #: ../../ALA.rst:14
 msgid ""
@@ -573,7 +575,7 @@ msgstr ""
 
 #: ../../ALA.rst:215
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../ALA.rst:217
 msgid "|mana_b|, |tap|, Sacrifice an artifact: Draw a card."
@@ -2053,7 +2055,7 @@ msgstr ""
 
 #: ../../ALA.rst:775
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../ALA.rst:777
 msgid ""
@@ -2341,7 +2343,7 @@ msgstr ""
 
 #: ../../ALA.rst:893 ../../ALA.rst:1051
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../ALA.rst:895
 msgid "|tap|: Create an 8/8 Beast creature token that's red, green, and white."

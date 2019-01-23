@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:43+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -60,7 +60,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../MM2.rst:21
 msgid "When you cast this spell, take an extra turn after this one."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, dostajesz dodatkową turę po aktualnej."
 
 #: ../../MM2.rst:23
 msgid "Flying, protection from colored spells, annihilator 6"
@@ -69,6 +69,8 @@ msgstr "Latanie, ochrona przed kolorowymi czarami, anihilacja 6"
 #: ../../MM2.rst:25
 msgid "When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../MM2.rst:34
 msgid ":mtgtip:`Karn Liberated<https://img.scryfall.com/cards/border_crop/en/mm2/4.jpg?1517813031|https://scryfall.com/card/mm2/4/karn-liberated?utm_source=api>`"
@@ -76,7 +78,7 @@ msgstr ""
 
 #: ../../MM2.rst:29
 msgid "+4: Target player exiles a card from their hand."
-msgstr "+4: Wskazany gracz wydania kartę ze swojej ręki."
+msgstr "+4: Wskazany gracz wygania kartę ze swojej ręki."
 
 #: ../../MM2.rst:31
 msgid "−3: Exile target permanent."
@@ -95,7 +97,7 @@ msgstr ""
 
 #: ../../MM2.rst:37
 msgid "When you cast this spell, draw four cards."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, dobierz cztery karty."
 
 #: ../../MM2.rst:39
 #: ../../MM2.rst:49
@@ -107,6 +109,8 @@ msgstr ""
 #: ../../MM2.rst:41
 msgid "When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../MM2.rst:52
 msgid ":mtgtip:`Ulamog, the Infinite Gyre<https://img.scryfall.com/cards/border_crop/en/mm2/6.jpg?1517813031|https://scryfall.com/card/mm2/6/ulamog-the-infinite-gyre?utm_source=api>`"
@@ -114,7 +118,7 @@ msgstr ""
 
 #: ../../MM2.rst:45
 msgid "When you cast this spell, destroy target permanent."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, zniszcz wskazany permanent."
 
 #: ../../MM2.rst:47
 #: ../../MM2.rst:1333
@@ -124,6 +128,8 @@ msgstr "Niezniszczalność"
 #: ../../MM2.rst:51
 msgid "When Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór zostanie umieszczony skądkolwiek w cmentarzu, jego "
+"właściciel wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../MM2.rst:58
 msgid ":mtgtip:`Ulamog's Crusher<https://img.scryfall.com/cards/border_crop/en/mm2/7.jpg?1517813031|https://scryfall.com/card/mm2/7/ulamogs-crusher?utm_source=api>`"
@@ -131,7 +137,7 @@ msgstr ""
 
 #: ../../MM2.rst:57
 msgid "Ulamog's Crusher attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli to możliwe."
 
 #: ../../MM2.rst:64
 msgid ":mtgtip:`Apostle's Blessing<https://img.scryfall.com/cards/border_crop/en/mm2/8.jpg?1517813031|https://scryfall.com/card/mm2/8/apostles-blessing?utm_source=api>`"
@@ -196,6 +202,8 @@ msgstr "Latanie"
 #: ../../MM2.rst:967
 msgid "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
 msgstr ""
+"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
+"dostaje +1/+1 do końca tury.)"
 
 #: ../../MM2.rst:77
 msgid "Whenever a creature you control attacks alone, it gains lifelink until end of turn."
@@ -269,7 +277,7 @@ msgstr ""
 
 #: ../../MM2.rst:107
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../MM2.rst:109
 msgid "Other creatures you control get +2/+2."
@@ -790,7 +798,7 @@ msgstr ""
 #: ../../MM2.rst:393
 #: ../../MM2.rst:993
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../MM2.rst:397
 msgid "When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card."
@@ -1835,7 +1843,7 @@ msgstr ""
 
 #: ../../MM2.rst:979
 msgid "Cycling |mana_wu| (|mana_wu|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_wu| (|mana_wu|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../MM2.rst:986
 msgid ":mtgtip:`Horde of Notions<https://img.scryfall.com/cards/border_crop/en/mm2/178.jpg?1517813031|https://scryfall.com/card/mm2/178/horde-of-notions?utm_source=api>`"

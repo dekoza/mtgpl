@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-23 12:42+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -312,6 +312,8 @@ msgstr ""
 #: ../../C18.rst:137
 msgid "Copy target instant or sorcery spell. You may choose new targets for the copy."
 msgstr ""
+"Skopiuj wskazany czar sztuczki lub obrzędu. Możesz wskazać nowe cele dla "
+"owej kopii."
 
 #: ../../C18.rst:144
 msgid ":mtgtip:`Loyal Apprentice<https://img.scryfall.com/cards/border_crop/en/c18/23.jpg?1535502170|https://scryfall.com/card/c18/23/loyal-apprentice?utm_source=api>`"
@@ -2047,6 +2049,10 @@ msgstr ""
 #: ../../C18.rst:1069
 msgid "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
 msgstr ""
+"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nielądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Umieść wygnane karty w losowej kolejności na "
+"spodzie twojej biblioteki.)"
 
 #: ../../C18.rst:1080
 msgid ":mtgtip:`Esper Charm<https://img.scryfall.com/cards/border_crop/en/c18/179.jpg?1536717752|https://scryfall.com/card/c18/179/esper-charm?utm_source=api>`"
@@ -2071,6 +2077,8 @@ msgstr ""
 #: ../../C18.rst:1083
 msgid "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
 msgstr ""
+"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
+"dostaje +1/+1 do końca tury.)"
 
 #: ../../C18.rst:1085
 msgid "Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase."
@@ -2620,7 +2628,7 @@ msgstr ""
 #: ../../C18.rst:1701
 #: ../../C18.rst:1755
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../C18.rst:1390
 msgid ":mtgtip:`Barren Moor<https://img.scryfall.com/cards/border_crop/en/c18/235.jpg?1535505202|https://scryfall.com/card/c18/235/barren-moor?utm_source=api>`"
