@@ -20,14 +20,13 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
-Nadochodzące
-------------
-
-* :mtgexp:`RNA` :doc:`Ravnica Allegiance spoiler (pełny)<RNA>` |p100|
+.. Nadochodzące
+.. ------------
 
 Standard
 --------
 
+* :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|
 * :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
 * :mtgexp:`M19` :doc:`Magic 2019<M19>` |p100|
 * :mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|
@@ -52,7 +51,7 @@ Zestawy gildyjne
 ----------------
 
 * :mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` |p25|
-* :mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |p50|
+* :mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |p100|
 
 
 Seria 'Masters'

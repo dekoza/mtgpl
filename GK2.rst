@@ -25,7 +25,7 @@
    Whenever another black creature you control dies, create a 1/1 white Spirit creature token with flying.
 
 
-:mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/c/2/c2c1107c-5026-416f-88d4-543c5df26ca7.jpg?1547568200|https://scryfall.com/card/gk2/51/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/c/2/c2c1107c-5026-416f-88d4-543c5df26ca7.jpg?1547809829|https://scryfall.com/card/gk2/51/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
