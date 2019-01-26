@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-26 13:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -1278,7 +1278,7 @@ msgstr ""
 # 01650903471649c09cfb63a31e0d9afe
 #: ../../ISD.rst:399
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki jego właściciela."
+msgstr "Zwróć wskazanego stwora do ręki właściciela."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:401
@@ -3393,6 +3393,8 @@ msgid ""
 "If an effect would create one or more tokens under your control, it creates "
 "twice that many of those tokens instead."
 msgstr ""
+"Jeśli jakiś efekt miałby stworzyć co najmniej jeden żeton pod twoim "
+"władaniem, zamiast tego tworzy dwa razy więcej owych żetonów."
 
 #: ../../ISD.rst:1134
 msgid ""

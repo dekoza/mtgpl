@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 13:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/uma/pl/>\n"
 "Language: pl\n"
@@ -472,6 +472,8 @@ msgid ""
 "When Lotus-Eye Mystics enters the battlefield, return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę uroku z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../UMA.rst:164
 msgid ""
@@ -835,6 +837,8 @@ msgid ""
 "Counter target spell unless its controller pays |mana_1| for each card in"
 " your graveyard."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1| za każdą kartę "
+"w twoim cmentarzu."
 
 #: ../../UMA.rst:283 ../../UMA.rst:363
 msgid ""
@@ -886,6 +890,8 @@ msgid ""
 "Delve (Each card you exile from your graveyard while casting this spell "
 "pays for |mana_1|.)"
 msgstr ""
+"Wykopywanie (Każda karta, którą wygnasz z twojego cmentarza podczas rzucania "
+"tego czaru opłaca |mana_1|.)"
 
 #: ../../UMA.rst:299
 msgid ""
@@ -1054,7 +1060,7 @@ msgstr ""
 
 #: ../../UMA.rst:361
 msgid "Return target creature to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazanego stwora do ręki właściciela."
 
 #: ../../UMA.rst:368
 msgid ""
@@ -1136,13 +1142,15 @@ msgstr ""
 
 #: ../../UMA.rst:387
 msgid "Marang River Prowler can't block and can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może blokować i nie może być blokowany."
 
 #: ../../UMA.rst:389
 msgid ""
 "You may cast Marang River Prowler from your graveyard as long as you "
 "control a black or green permanent."
 msgstr ""
+"Możesz rzucić tego stwora z twojego cmentarza o ile władasz czarnym lub "
+"zielonym permanentem."
 
 #: ../../UMA.rst:396
 msgid ""
@@ -1279,6 +1287,8 @@ msgid ""
 "When Sultai Skullkeeper enters the battlefield, put the top two cards of "
 "your library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../UMA.rst:442
 msgid ""
@@ -1677,6 +1687,9 @@ msgid ""
 " graveyard, then put a +1/+1 counter on that creature for each creature "
 "card in your graveyard."
 msgstr ""
+"Wybierz wskazanego stwora. Umieść trzy wierzchnie karty twojej biblioteki w "
+"twoim cmentarzu, następnie umieść tyle znaczników +1/+1 na owym stworze, ile "
+"masz kart stworów w cmentarzu."
 
 #: ../../UMA.rst:570
 msgid ""
@@ -1923,6 +1936,9 @@ msgid ""
 "into your graveyard, then return a nonland card of an opponent's choice "
 "from your graveyard to your hand."
 msgstr ""
+"|mana_2|\\ |mana_gu|\\ |mana_gu|:  Umieść dwie wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu, następnie przywróć z twojego cmentarza do "
+"twojej ręki nielądową kartę wybraną przez przeciwnika."
 
 #: ../../UMA.rst:656
 msgid ""
@@ -3266,7 +3282,7 @@ msgstr ""
 
 #: ../../UMA.rst:1129
 msgid "Flying, hexproof"
-msgstr ""
+msgstr "Latanie, antyklątwa"
 
 #: ../../UMA.rst:1131
 msgid ""

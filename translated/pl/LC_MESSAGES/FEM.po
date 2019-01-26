@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-23 14:26+0000\n"
+"PO-Revision-Date: 2019-01-26 13:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/fem/pl/>\n"
 "Language: pl\n"
@@ -36,6 +36,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: Prevent the next 1 damage that would be dealt to any"
 " target this turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Zażegnaj najbliższe 1 obrażenie, które mogłoby zostać "
+"zadane wskazanemu celowi w tej turze."
 
 #: ../../FEM.rst:16
 msgid ""
@@ -630,7 +632,7 @@ msgstr ""
 
 #: ../../FEM.rst:217
 msgid "First strike, trample"
-msgstr ""
+msgstr "Pierwszy cios, tratowanie"
 
 #: ../../FEM.rst:219
 msgid "At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor."

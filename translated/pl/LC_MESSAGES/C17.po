@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-23 14:26+0000\n"
+"PO-Revision-Date: 2019-01-26 13:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -1500,13 +1500,15 @@ msgstr ""
 
 #: ../../C17.rst:519
 msgid "As Monastery Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki wybierz Chanów lub Smoki."
 
 #: ../../C17.rst:521
 msgid ""
 "Khans — At the beginning of your draw step, draw an additional card, then"
 " discard a card."
 msgstr ""
+"Chanowie — Na początku twojego kroku dobierania dobierz dodatkową kartę, a "
+"następnie odrzuć kartę."
 
 #: ../../C17.rst:523
 msgid ""
@@ -1966,19 +1968,23 @@ msgstr ""
 
 #: ../../C17.rst:681
 msgid "As Palace Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki wybierz Chanów lub Smoki."
 
 #: ../../C17.rst:683
 msgid ""
 "Khans — At the beginning of your upkeep, return target creature card from"
 " your graveyard to your hand."
 msgstr ""
+"Chanowie — Na początku twojego kroku utrzymania przywróć wskazaną kartę "
+"stwora z twojego cmentarza do twojej ręki."
 
 #: ../../C17.rst:685
 msgid ""
 "Dragons — At the beginning of your upkeep, each opponent loses 2 life and"
 " you gain 2 life."
 msgstr ""
+"Smoki — Z początkiem twojego kroku utrzymania każdy przeciwnik traci po 2 "
+"życia a ty zyskujesz 2 życia."
 
 #: ../../C17.rst:690
 msgid ""
@@ -2266,19 +2272,23 @@ msgstr ""
 
 #: ../../C17.rst:793
 msgid "As Outpost Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki wybierz Chanów lub Smoki."
 
 #: ../../C17.rst:795
 msgid ""
 "Khans — At the beginning of your upkeep, exile the top card of your "
 "library. Until end of turn, you may play that card."
 msgstr ""
+"Chanowie — Na początku twojego kroku utrzymania wygnaj wierzchnią kartę "
+"twojej biblioteki. Do końca tury możesz zagrać ową kartę."
 
 #: ../../C17.rst:797
 msgid ""
 "Dragons — Whenever a creature you control leaves the battlefield, Outpost"
 " Siege deals 1 damage to any target."
 msgstr ""
+"Smoki — Ilekroć stwór pod twoim władaniem opuszcza pole walki, ten urok "
+"zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../C17.rst:802
 msgid ""
@@ -2421,19 +2431,23 @@ msgstr ""
 
 #: ../../C17.rst:855
 msgid "As Frontier Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki wybierz Chanów lub Smoki."
 
 #: ../../C17.rst:857
 msgid ""
 "Khans — At the beginning of each of your main phases, add |mana_g|\\ "
 "|mana_g|."
 msgstr ""
+"Chanowie — Z początkiem każdej z twoich faz głównych dodaj |mana_g|\\ "
+"|mana_g| do twojej puli many."
 
 #: ../../C17.rst:859
 msgid ""
 "Dragons — Whenever a creature with flying enters the battlefield under "
 "your control, you may have it fight target creature you don't control."
 msgstr ""
+"Smoki — Ilekroć stwór z lataniem wejdzie na pole walki pod twoim władaniem, "
+"możesz sprawić, by walczył ze wskazanym stworem poza twoim władaniem."
 
 #: ../../C17.rst:864
 msgid ":mtgtip:`Harmonize<https://img.scryfall.com/cards/border_crop/en/c17/151.jpg?1517813031|https://scryfall.com/card/c17/151/harmonize?utm_source=api>`"
@@ -2591,6 +2605,8 @@ msgid ""
 "Whenever a Dragon you control attacks, it gains double strike until end "
 "of turn."
 msgstr ""
+"Ilekroć Smok pod twoim władaniem atakuje, zyskuje on do końca tury podwójny "
+"cios."
 
 #: ../../C17.rst:924
 msgid ""
@@ -2734,6 +2750,9 @@ msgid ""
 " the least toughness among creatures you control and put two +1/+1 "
 "counters on it.)"
 msgstr ""
+"Ilekroć atakuje Smok pod twoim władaniem, wesprzyj 2. (Wybierz stwora z "
+"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
+"na nim dwa znaczniki +1/+1.)"
 
 #: ../../C17.rst:984
 msgid ""
@@ -2834,6 +2853,8 @@ msgid ""
 "Whenever a Dragon you control attacks, creatures you control get +1/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć Smok pod twoim władaniem atakuje, stwory pod twoim władaniem dostają "
+"do końca tury +1/+0."
 
 #: ../../C17.rst:1011
 msgid ""
@@ -2841,6 +2862,9 @@ msgid ""
 " cost. If you do, it gains haste, and it's returned from the battlefield "
 "to its owner's hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_3|\\ |mana_b|\\ |mana_r| (Możesz rzucić ten czar za koszt "
+"brawury. Jeśli tak zrobisz, dostaje on pośpiech i jest przywracany z pola "
+"walki do ręki właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../C17.rst:1020
 msgid ""
@@ -3027,6 +3051,9 @@ msgid ""
 "opponent controls. That permanent doesn't untap during its controller's "
 "next untap step."
 msgstr ""
+"Ilekroć Smok pod twoim władaniem atakuje, przekręć wskazany nielądowy "
+"permanent pod władaniem przeciwnika. Ów permanent nie odkręci się w "
+"najbliższym kroku odkręcania swojego władcy."
 
 #: ../../C17.rst:1094
 msgid ""
@@ -3141,13 +3168,15 @@ msgstr ""
 
 #: ../../C17.rst:1131
 msgid "Flying, hexproof"
-msgstr ""
+msgstr "Latanie, antyklątwa"
 
 #: ../../C17.rst:1133
 msgid ""
 "Whenever a Dragon you control attacks, creatures defending player "
 "controls get -1/-1 until end of turn."
 msgstr ""
+"Ilekroć atakuje Smok pod twoim władaniem, stwory pod władaniem broniącego "
+"się gracza dostają do końca tury -1/-1."
 
 #: ../../C17.rst:1146
 msgid ""
@@ -3458,6 +3487,8 @@ msgid ""
 "Whenever a legendary creature enters the battlefield under your control, "
 "you may attach Hero's Blade to it."
 msgstr ""
+"Ilekroć legendarny stwór wejdzie na pole walki pod twoim władaniem możesz "
+"dołączyć do niego ten artefakt."
 
 #: ../../C17.rst:1266
 msgid ""
@@ -3769,11 +3800,11 @@ msgstr ""
 
 #: ../../C17.rst:1389
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1391
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1402
 msgid ""
@@ -3784,11 +3815,11 @@ msgstr ""
 
 #: ../../C17.rst:1397
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1399
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1401 ../../C17.rst:1469 ../../C17.rst:1503 ../../C17.rst:1683
 #: ../../C17.rst:1697 ../../C17.rst:1727
@@ -3881,7 +3912,7 @@ msgstr ""
 
 #: ../../C17.rst:1439
 msgid "|mana_1|, |tap|: Put a storage counter on Crucible of the Spirit Dragon."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../C17.rst:1441
 msgid ""
@@ -3889,6 +3920,9 @@ msgid ""
 "X mana in any combination of colors. Spend this mana only to cast Dragon "
 "spells or activate abilities of Dragons."
 msgstr ""
+"|tap|, usuń X znaczników magazynu z tego lądu: Dostajesz X many w dowolnej "
+"kombinacji kolorów. Użyj tej many tylko do rzucania czarów Smoków lub "
+"aktywowania zdolności Smoków."
 
 #: ../../C17.rst:1448
 msgid ""
@@ -3903,7 +3937,7 @@ msgstr ""
 
 #: ../../C17.rst:1447
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../C17.rst:1456
 msgid ""
@@ -3937,11 +3971,11 @@ msgstr ""
 
 #: ../../C17.rst:1459
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1461
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1463 ../../C17.rst:1539
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4410,11 +4444,11 @@ msgstr ""
 
 #: ../../C17.rst:1659
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1661
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1670
 msgid ""
@@ -4518,11 +4552,11 @@ msgstr ""
 
 #: ../../C17.rst:1709
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1711
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1713
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4691,11 +4725,11 @@ msgstr ""
 
 #: ../../C17.rst:1785
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1787
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1794
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/c17/295.jpg?1517813031|https://scryfall.com/card/c17/295/plains?utm_source=api>`"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 13:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gpt/pl/>\n"
 "Language: pl\n"
@@ -581,7 +581,7 @@ msgstr ""
 
 #: ../../GPT.rst:233
 msgid "Return target creature to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazanego stwora do ręki właściciela."
 
 #: ../../GPT.rst:238
 msgid ""
@@ -695,6 +695,7 @@ msgstr ""
 #: ../../GPT.rst:279
 msgid "Douse in Gloom deals 2 damage to target creature and you gain 2 life."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 2 obrażenia, a ty zyskujesz 2 życia."
 
 #: ../../GPT.rst:286
 msgid ""

@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 20:51+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -44,6 +45,8 @@ msgid ""
 "permanent an opponent controls until Angel of Sanctions leaves the "
 "battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazany nielądowy "
+"permanent pod władaniem wroga, dopóki ten stwór nie opuści pola walki."
 
 #: ../../AKH.rst:13
 msgid ""
@@ -67,6 +70,8 @@ msgid ""
 "If an effect would create one or more tokens under your control, it creates "
 "twice that many of those tokens instead."
 msgstr ""
+"Jeśli jakiś efekt miałby stworzyć co najmniej jeden żeton pod twoim "
+"władaniem, zamiast tego tworzy dwa razy więcej owych żetonów."
 
 #: ../../AKH.rst:24
 msgid ""
@@ -80,6 +85,8 @@ msgid ""
 "Whenever a creature token enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć żeton stwora wejdzie na pole walki pod twoim władaniem, zyskujesz 1 "
+"życie."
 
 #: ../../AKH.rst:23
 msgid ""
@@ -105,6 +112,9 @@ msgid ""
 "Approach of the Second Sun into its owner's library seventh from the top and "
 "you gain 7 life."
 msgstr ""
+"Jeśli ten czar został rzucony z twojej ręki i rzuciłeś inny czar o tej samej "
+"nazwie w tej grze, wygrywasz grę. W przeciwnym razie umieść tę kartę w "
+"bibliotece jej właściciela jako siódmą licząc od wierzchu i zyskujesz 7 żyć."
 
 #: ../../AKH.rst:36
 msgid ""
@@ -123,6 +133,8 @@ msgid ""
 "If an opponent would search a library, that player searches the top four "
 "cards of that library instead."
 msgstr ""
+"Jeśli przeciwnik miałby przeszukać bibliotekę, zamiast tego ów gracz "
+"przeszukuje cztery wierzchnie karty owej biblioteki."
 
 #: ../../AKH.rst:40
 msgid ""
@@ -136,6 +148,8 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, you may "
 "tap target artifact or creature."
 msgstr ""
+"Ilekroć inny Zombi wejdzie na pole walki pod twoim władaniem, możesz "
+"przekręcić wskazany artefakt lub stwora."
 
 #: ../../AKH.rst:48
 msgid ""
@@ -154,10 +168,12 @@ msgid ""
 "When Cartouche of Solidarity enters the battlefield, create a 1/1 white "
 "Warrior creature token with vigilance."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Wojownik 1/"
+"1."
 
 #: ../../AKH.rst:47
 msgid "Enchanted creature gets +1/+1 and has first strike."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma pierwszy cios."
 
 #: ../../AKH.rst:56
 msgid ""
@@ -171,6 +187,8 @@ msgid ""
 "When Cast Out enters the battlefield, exile target nonland permanent an "
 "opponent controls until Cast Out leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nielądowy permanent "
+"pod władaniem przeciwnika, dopóki ten urok nie opuści pola walki."
 
 #: ../../AKH.rst:55 ../../AKH.rst:225
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
@@ -196,6 +214,8 @@ msgid ""
 "Enchanted creature has \"|mana_2|, Sacrifice this creature: You gain 2 life."
 "\""
 msgstr ""
+"Zauroczony stwór ma zdolność \"|mana_2|, poświęć tego stwora: Zyskujesz 2 "
+"życia.\""
 
 #: ../../AKH.rst:68
 msgid ""
@@ -210,6 +230,10 @@ msgid ""
 "creature card with converted mana cost 2 or less from your graveyard to the "
 "battlefield. (An exerted creature won't untap during your next untap step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, przywróć wskazaną "
+"kartę stwora o skróconym koszcie many 2 lub mniejszym z twojego cmentarza na "
+"pole walki. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
+"odkręcania.)"
 
 #: ../../AKH.rst:74
 msgid ""
@@ -223,6 +247,8 @@ msgid ""
 "Untap target creature. Prevent all damage that would be dealt to it this "
 "turn."
 msgstr ""
+"Odkręć wskazanego stwora. Zażegnaj wszystkie obrażenia, jakie miałby "
+"otrzymać w tej turze."
 
 #: ../../AKH.rst:73 ../../AKH.rst:83 ../../AKH.rst:133 ../../AKH.rst:301
 #: ../../AKH.rst:353 ../../AKH.rst:395 ../../AKH.rst:441 ../../AKH.rst:631
@@ -265,6 +291,8 @@ msgstr ""
 msgid ""
 "+1: Until your next turn, prevent all damage target permanent would deal."
 msgstr ""
+"+1: Do twojej następnej tury zażegnaj wszystkie obrażenia, jakie miałby "
+"zadać wskazany permanent."
 
 #: ../../AKH.rst:89
 msgid ""
@@ -272,12 +300,17 @@ msgid ""
 "creature with indestructible that's still a planeswalker. Prevent all damage "
 "that would be dealt to him this turn."
 msgstr ""
+"0: Do końca tury ten wędrowiec staje się stworem Człowiek Żołnierz 4/4 z "
+"niezniszczalnością. Nadal jest wędrowcem. Zażegnaj wszystkie obrażenia, "
+"jakie miałby otrzymać w tej turze."
 
 #: ../../AKH.rst:91
 msgid ""
 "0: You get an emblem with \"As long as you control a Gideon planeswalker, "
 "you can't lose the game and your opponents can't win the game.\""
 msgstr ""
+"0: Dostajesz emblemat o treści „O ile władasz wędrowcem o typie Gideon, nie "
+"możesz przegrać gry, a twoi przeciwnicy nie mogą wygrać gry.”"
 
 #: ../../AKH.rst:100
 msgid ""
@@ -288,17 +321,19 @@ msgstr ""
 
 #: ../../AKH.rst:95
 msgid "As Gideon's Intervention enters the battlefield, choose a card name."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki, wybierz dowolną nazwę karty."
 
 #: ../../AKH.rst:97
 msgid "Your opponents can't cast spells with the chosen name."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów z wybraną nazwą."
 
 #: ../../AKH.rst:99
 msgid ""
 "Prevent all damage that would be dealt to you and permanents you control by "
 "sources with the chosen name."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie źródła o wybranej nazwie miałyby zadać "
+"tobie lub permanentom, którymi władasz."
 
 #: ../../AKH.rst:104
 msgid ""
@@ -313,6 +348,9 @@ msgid ""
 "and gains lifelink until end of turn. (An exerted creature won't untap "
 "during your next untap step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, otrzymuje on +1/+3 "
+"i zyskuje więź życia do końca tury. (Wytężony stwór nie odkręci się w twoim "
+"najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:108
 msgid ""
@@ -327,6 +365,9 @@ msgid ""
 "gains flying until end of turn. (An exerted creature won't untap during your "
 "next untap step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, otrzymuje on +1/+1 "
+"i zyskuje latanie do końca tury. (Wytężony stwór nie odkręci się w twoim "
+"najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:112
 msgid ""
@@ -353,6 +394,8 @@ msgid ""
 "Zombies you control get +2/+1 until end of turn. Other creatures you control "
 "get +1/+1 until end of turn."
 msgstr ""
+"Zombi, którymi władasz otrzymują +2/+1 do końca tury. Pozostałe stwory, "
+"którymi władasz otrzymują +1/+1 do końca tury."
 
 #: ../../AKH.rst:120
 msgid ""
@@ -374,19 +417,22 @@ msgstr ""
 
 #: ../../AKH.rst:123
 msgid "Double strike, indestructible"
-msgstr ""
+msgstr "Podwójny cios, niezniszczalność"
 
 #: ../../AKH.rst:125
 msgid ""
 "Oketra the True can't attack or block unless you control at least three "
 "other creatures."
 msgstr ""
+"Ten stwór nie może atakować ani blokować, chyba że władasz co najmniej "
+"trzema innymi stworami."
 
 #: ../../AKH.rst:127
 msgid ""
 "|mana_3|\\ |mana_w|: Create a 1/1 white Warrior creature token with "
 "vigilance."
 msgstr ""
+"|mana_3|\\ |mana_w|: Stwórz żeton białego stwora Wojownik 1/1 z czujnością."
 
 #: ../../AKH.rst:136
 msgid ""
@@ -419,6 +465,8 @@ msgid ""
 "If a source an opponent controls would deal damage to you, prevent 1 of that "
 "damage."
 msgstr ""
+"Jeśli jakieś źródło pod władaniem przeciwnika miałoby zadać ci obrażenia, "
+"zażegnaj 1 z owych obrażeń."
 
 #: ../../AKH.rst:146
 msgid ""
@@ -429,13 +477,15 @@ msgstr ""
 
 #: ../../AKH.rst:143
 msgid "Other Cats you control get +1/+1 and have lifelink."
-msgstr ""
+msgstr "Inne Koty pod twoim władaniem otrzymują +1/+1 i mają więź życia."
 
 #: ../../AKH.rst:145
 msgid ""
 "When Regal Caracal enters the battlefield, create two 1/1 white Cat creature "
 "tokens with lifelink."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony białych stworów Kot "
+"1/1 z więzią życia."
 
 #: ../../AKH.rst:154
 msgid ""
@@ -446,7 +496,7 @@ msgstr ""
 
 #: ../../AKH.rst:149
 msgid "You gain 6 life."
-msgstr ""
+msgstr "Zyskujesz 6 żyć."
 
 #: ../../AKH.rst:151
 #, fuzzy
@@ -459,7 +509,7 @@ msgstr ""
 
 #: ../../AKH.rst:153
 msgid "When you cycle Renewed Faith, you may gain 2 life."
-msgstr ""
+msgstr "Kiedy recyklujesz tą kartę, możesz zyskać 2 życia."
 
 #: ../../AKH.rst:158
 msgid ""
@@ -474,6 +524,9 @@ msgid ""
 "+0 and gains first strike until end of turn. (An exerted creature won't "
 "untap during your next untap step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, otrzymuje on +1/+0 "
+"i zyskuje pierwszy cios do końca tury. (Wytężony stwór nie odkręci się w "
+"twoim najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:164
 msgid ""
@@ -519,7 +572,7 @@ msgstr ""
 
 #: ../../AKH.rst:173
 msgid "When Sparring Mummy enters the battlefield, untap target creature."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, odkręć wskazanego stwora."
 
 #: ../../AKH.rst:178
 msgid ""
@@ -533,6 +586,8 @@ msgid ""
 "When Supply Caravan enters the battlefield, if you control a tapped "
 "creature, create a 1/1 white Warrior creature token with vigilance."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz przekręconym stworem, "
+"stwórz żeton białego stwora Wojownik 1/1 z czujnością."
 
 #: ../../AKH.rst:184
 msgid ""
@@ -547,6 +602,9 @@ msgid ""
 "control get +1/+1 until end of turn. (An exerted creature won't untap during "
 "your next untap step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, stwory, którymi "
+"władasz otrzymują +1/+1 do końca tury. (Wytężony stwór nie odkręci się w "
+"twoim najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:186
 msgid ""
@@ -566,6 +624,8 @@ msgstr ""
 msgid ""
 "Exile target creature that blocked or was blocked by a Zombie this turn."
 msgstr ""
+"Wygnaj wskazanego stwora, który w tej turze blokował lub został zablokowany "
+"przez Zombi."
 
 #: ../../AKH.rst:198
 msgid ""
@@ -579,12 +639,16 @@ msgid ""
 "When Trial of Solidarity enters the battlefield, creatures you control get "
 "+2/+1 and gain vigilance until end of turn."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwory, którymi władasz otrzymują +2/+"
+"1 i zyskują czujność do końca tury."
 
 #: ../../AKH.rst:197
 msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Solidarity to its owner's hand."
 msgstr ""
+"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, zwróć ten urok do "
+"ręki jego właściciela."
 
 #: ../../AKH.rst:204
 msgid ""
@@ -595,7 +659,7 @@ msgstr ""
 
 #: ../../AKH.rst:201
 msgid "Trueheart Duelist can block an additional creature each combat."
-msgstr ""
+msgstr "Ten stwór w każdej walce może blokować dodatkowego stwora."
 
 #: ../../AKH.rst:203
 msgid ""
@@ -643,6 +707,10 @@ msgid ""
 "creature if it attacked or blocked this turn. Return that card to the "
 "battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazanego stwora, "
+"jeśli w tej turze ów stwór atakował lub blokował. Na początku następnego "
+"kroku końcowego, przywróć owego stwora na pole walki pod władaniem jego "
+"właściciela."
 
 #: ../../AKH.rst:220
 msgid ""
@@ -813,7 +881,7 @@ msgid ""
 "Tap up to two target creatures. Those creatures don't untap during their "
 "controller's next untap step."
 msgstr ""
-"Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
+"Przekręć co najwyżej dwa wskazane stwory. Owe stwory nie odkręcą się w "
 "najbliższym kroku odkręcania swojego władcy."
 
 #: ../../AKH.rst:292

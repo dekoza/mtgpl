@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-23 14:26+0000\n"
+"PO-Revision-Date: 2019-01-26 13:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -1011,19 +1012,23 @@ msgstr ""
 
 #: ../../C16.rst:385
 msgid "As Citadel Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki wybierz Chanów lub Smoki."
 
 #: ../../C16.rst:387
 msgid ""
 "Khans — At the beginning of combat on your turn, put two +1/+1 counters on "
 "target creature you control."
 msgstr ""
+"Chanowie — Na początku walki w twojej turze, umieść dwa znaczniki +1/+1 na "
+"wskazanym stworze pod twoim władaniem."
 
 #: ../../C16.rst:389
 msgid ""
 "Dragons — At the beginning of combat on each opponent's turn, tap target "
 "creature that player controls."
 msgstr ""
+"Smoki — Z początkiem walki w turze każdego z przeciwników, przekręć "
+"wskazanego stwora pod władaniem owego gracza."
 
 #: ../../C16.rst:396
 msgid ""
@@ -1070,6 +1075,9 @@ msgid ""
 "with the least toughness among creatures you control and put two +1/+1 "
 "counters on it.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Wybierz stwora z "
+"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
+"na nim dwa znaczniki +1/+1.)"
 
 #: ../../C16.rst:405
 msgid ""
@@ -1580,6 +1588,8 @@ msgid ""
 "Delve (Each card you exile from your graveyard while casting this spell pays "
 "for |mana_1|.)"
 msgstr ""
+"Wykopywanie (Każda karta, którą wygnasz z twojego cmentarza podczas rzucania "
+"tego czaru opłaca |mana_1|.)"
 
 #: ../../C16.rst:589
 msgid "Draw three cards."
@@ -1691,6 +1701,8 @@ msgid ""
 "|mana_3|\\ |mana_rw|\\ |mana_rw|: Creatures your opponents control block "
 "this turn if able, and you choose how those creatures block."
 msgstr ""
+"|mana_3|\\ |mana_rw|\\ |mana_rw|: Stwory pod władaniem twoich przeciwników "
+"blokują w tej turze jeśli mogą, a ty wybierasz jak owe stwory blokują."
 
 #: ../../C16.rst:628
 msgid ""
@@ -1735,6 +1747,10 @@ msgid ""
 "onto the battlefield face down as a 2/2 creature. Turn it face up any time "
 "for its mana cost if it's a creature card.)"
 msgstr ""
+"Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
+"zakrytego stosu, przetasuj ów stos, a następnie objaw owe karty. (Aby "
+"objawić kartę, umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w "
+"dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 #: ../../C16.rst:644
 msgid ""
@@ -1865,6 +1881,9 @@ msgid ""
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli to "
+"zrobisz, przywróć wskazaną kartę stwora o sile 2 lub mniejszej z twojego "
+"cmentarza na pole walki przekręconą i atakującą."
 
 #: ../../C16.rst:692
 msgid ""
@@ -2049,6 +2068,8 @@ msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
 "Activate this ability only during your turn."
 msgstr ""
+"|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
+"stworem. Aktywuj tę zdolność tylko w twojej turze."
 
 #: ../../C16.rst:756
 msgid ""
@@ -4446,7 +4467,7 @@ msgstr ""
 
 #: ../../C16.rst:1641
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../C16.rst:1648
 msgid ""
@@ -4498,11 +4519,11 @@ msgstr ""
 
 #: ../../C16.rst:1663
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1665
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1667
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4692,11 +4713,11 @@ msgstr ""
 
 #: ../../C16.rst:1743
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1745
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1747
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4942,11 +4963,11 @@ msgstr ""
 
 #: ../../C16.rst:1847
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1849
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1860
 msgid ""
@@ -5131,11 +5152,11 @@ msgstr ""
 
 #: ../../C16.rst:1925
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1927
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1929
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -5176,11 +5197,11 @@ msgstr ""
 
 #: ../../C16.rst:1941
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C16.rst:1943
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1945
 msgid "|tap|: Add |mana_g| or |mana_u|."

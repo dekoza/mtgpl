@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-23 12:42+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -606,8 +606,8 @@ msgid ""
 "Counter target spell unless its controller pays |mana_1| for each card in "
 "your graveyard."
 msgstr ""
-"Skontruj wskazany czar dopóki jego władca nie zapłaci |mana_1| za każdą "
-"kartę w twoim cmentarzu."
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1| za każdą kartę "
+"w twoim cmentarzu."
 
 #: ../../HOU.rst:192
 msgid ""
@@ -978,7 +978,7 @@ msgstr ""
 
 #: ../../HOU.rst:309
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki jego właściciela."
+msgstr "Zwróć wskazanego stwora do ręki właściciela."
 
 #: ../../HOU.rst:316
 msgid ""
@@ -3074,6 +3074,7 @@ msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../HOU.rst:1017
+#, fuzzy
 msgid ""
 "Cycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Draw a "
 "card.)"
@@ -3148,6 +3149,8 @@ msgid ""
 "|mana_2|, Exile a land card from your graveyard: Hostile Desert becomes a "
 "3/4 Elemental creature until end of turn. It's still a land."
 msgstr ""
+"|mana_2|, wygnaj kartę lądu z twojego cmentarza: Ten ląd do końca tury staje "
+"się stworem Żywiołak 3/4. Nadal jest lądem."
 
 #: ../../HOU.rst:1054
 msgid ""
@@ -3158,7 +3161,7 @@ msgstr ""
 
 #: ../../HOU.rst:1051
 msgid "|tap|, Pay 1 life: Add |mana_b|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_b|."
 
 #: ../../HOU.rst:1053
 msgid ""
@@ -3166,6 +3169,9 @@ msgid ""
 "counters on target creature an opponent controls. Activate this ability only "
 "any time you could cast a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, poświęć Pustynię: Umieść dwa "
+"znaczniki -1/-1 na wskazanym stworze pod władaniem przeciwnika. Aktywuj tę "
+"zdolność tylko wtedy, gdy możesz rzucić obrzęd."
 
 #: ../../HOU.rst:1062
 msgid ""
@@ -3176,13 +3182,15 @@ msgstr ""
 
 #: ../../HOU.rst:1059
 msgid "|tap|, Pay 1 life: Add |mana_u|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_u|."
 
 #: ../../HOU.rst:1061
 msgid ""
 "|mana_1|\\ |mana_u|, |tap|, Sacrifice a Desert: Target player puts the top "
 "four cards of their library into their graveyard."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|, poświęć Pustynię: Wskazany gracz umieszcza "
+"cztery wierzchnie karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../HOU.rst:1070
 msgid ""
@@ -3193,13 +3201,15 @@ msgstr ""
 
 #: ../../HOU.rst:1067
 msgid "|tap|, Pay 1 life: Add |mana_r|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_r|."
 
 #: ../../HOU.rst:1069
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins "
 "deals 2 damage to each opponent."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_r|, |tap|, poświęć Pustynię: Ten ląd zadaje 2 "
+"obrażenia każdemu przeciwnikowi."
 
 #: ../../HOU.rst:1076
 msgid ""
@@ -3212,6 +3222,8 @@ msgstr ""
 msgid ""
 "|mana_2|, |tap|, Sacrifice a Desert: Exile all cards from all graveyards."
 msgstr ""
+"|mana_2|, |tap|, poświęć Pustynię: Wygnaj wszystkie karty ze wszystkich "
+"cmentarzy."
 
 #: ../../HOU.rst:1084
 msgid ""
@@ -3222,7 +3234,7 @@ msgstr ""
 
 #: ../../HOU.rst:1081
 msgid "|tap|, Pay 1 life: Add |mana_w|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_w|."
 
 #: ../../HOU.rst:1083
 msgid ""
@@ -3230,6 +3242,9 @@ msgid ""
 "control get +1/+1 until end of turn. Activate this ability only any time you "
 "could cast a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, poświęć Pustynię: Stwory pod twoim "
+"władaniem dostają +1/+1 do końca tury. Aktywuj tę zdolność tylko wtedy, gdy "
+"możesz rzucić obrzęd."
 
 #: ../../HOU.rst:1090
 msgid ""
@@ -3303,11 +3318,11 @@ msgstr ""
 
 #: ../../HOU.rst:1113
 msgid "+2: Untap up to two target creatures and up to two target lands."
-msgstr ""
+msgstr "+2: Odkręć co najwyżej dwa stwory i co najwyżej dwa lądy."
 
 #: ../../HOU.rst:1115
 msgid "−3: Target creature gets +5/+5 until end of turn."
-msgstr ""
+msgstr "-3: Wskazany stwór dostaje +5/+5 do końca tury."
 
 #: ../../HOU.rst:1117
 msgid ""
@@ -3315,6 +3330,9 @@ msgid ""
 "creature and/or land cards from among them onto the battlefield. Put the "
 "rest on the bottom of your library in a random order."
 msgstr ""
+"-10: Spójrz na dziesięć wierzchnich kart twojej biblioteki. Możesz umieścić "
+"dowolną liczbę kart stworów i/lub lądów spośród nich na polu walki. Umieść "
+"pozostałe w losowej kolejności na spodzie twojej biblioteki."
 
 #: ../../HOU.rst:1122
 msgid ""
@@ -3328,6 +3346,8 @@ msgid ""
 "|tap|: Add |mana_g| or |mana_u|. If you control a Nissa planeswalker, you "
 "gain 2 life."
 msgstr ""
+"|tap|: Dostajesz |mana_g| lub |mana_u|. Jeśli władasz wędrowcem o typie "
+"Nissa, dostajesz 2 życia."
 
 #: ../../HOU.rst:1126
 msgid ""
@@ -3357,6 +3377,10 @@ msgid ""
 "Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those "
 "cards, put them into your hand, then shuffle your library."
 msgstr ""
+"Poszukaj w twojej bibliotece i cmentarzu karty o nazwie «Forest», karty o "
+"nazwie «Brambleweft Behemoth» i karty o nazwie «Nissa, Genesis Mage». "
+"Ujawnij te karty, umieść je w swojej ręce, a następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../HOU.rst:1136
 msgid ""
@@ -3385,16 +3409,20 @@ msgid ""
 "+3: Each opponent loses 3 life unless that player sacrifices a nonland "
 "permanent or discards a card."
 msgstr ""
+"+3: Każdy przeciwnik traci 3 życia, chyba że poświęci nielądowy permament "
+"lub odrzuci kartę."
 
 #: ../../HOU.rst:1141
 msgid "−3: Destroy target creature. Draw a card."
-msgstr ""
+msgstr "-3: Zniszcz wskazanego stwora. Dobierz kartę."
 
 #: ../../HOU.rst:1143
 msgid ""
 "−11: Nicol Bolas, the Deceiver deals 7 damage to each opponent. You draw "
 "seven cards."
 msgstr ""
+"-11: Ten wędrowiec zadaje 7 obrażeń każdemu przeciwnikowi. Dobierz siedem "
+"kart."
 
 #: ../../HOU.rst:1150
 msgid ""
@@ -3408,6 +3436,8 @@ msgid ""
 "Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the "
 "Bitter End. If you do, destroy target creature."
 msgstr ""
+"Ilekroć rzucasz czar wędrowca o typie Bolas, możesz poświęcić tego stwora. "
+"Jeśli to zrobisz, zniszcz wskazanego stwora."
 
 #: ../../HOU.rst:1154
 msgid ""
@@ -3421,6 +3451,8 @@ msgid ""
 "|mana_4|\\ |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target "
 "opponent or planeswalker."
 msgstr ""
+"|mana_4|\\ |mana_r|: Ten stwór zadaje 2 obrażenia wskazanemu przeciwnikowi "
+"lub wędrowcowi."
 
 #: ../../HOU.rst:1160
 msgid ""
@@ -3435,10 +3467,14 @@ msgid ""
 "or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put "
 "it into your hand. If you search your library this way, shuffle it."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, możesz poszukać w swojej "
+"bibliotece i/lub cmentarzu karty o nazwie «Nicol Bolas, the Deceiver», "
+"ujawnić ją i umieścić ją w swojej ręce. Jeśli przeszukałeś tak swoją "
+"bibliotekę, przetasuj ją."
 
 #: ../../HOU.rst:1159
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../HOU.rst:1165
 msgid ""

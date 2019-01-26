@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-26 13:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -144,8 +144,8 @@ msgid ""
 "Enchanted creature has double strike. (It deals both first-strike and "
 "regular combat damage.)"
 msgstr ""
-"Zauroczony stwór ma Podwójny Cios.(Zadaje zarówno obrażenia bitewne jako "
-"Pierwszy Cios oraz normalnie.)"
+"Zauroczony stwór ma podwójny cios.(Zadaje zarówno obrażenia bitewne jako "
+"pierwszy cios oraz normalnie.)"
 
 #: ../../DTK.rst:52
 msgid ""
@@ -698,7 +698,7 @@ msgstr ""
 
 #: ../../DTK.rst:251
 msgid "Flying, hexproof"
-msgstr ""
+msgstr "Latanie, antyklątwa"
 
 #: ../../DTK.rst:253
 msgid ""
@@ -1346,14 +1346,13 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:503
-#, fuzzy
 msgid ""
 "Dash |mana_3|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
 "Brawura |mana_3|\\ |mana_b| (Możesz rzucić ten czar za koszt brawury. Jeśli "
-"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"tak zrobisz, dostaje on pośpiech i jest przywracany z pola walki do ręki "
 "właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:508
@@ -1615,14 +1614,13 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:593
-#, fuzzy
 msgid ""
 "Dash |mana_2|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
 "Brawura |mana_2|\\ |mana_b| (Możesz rzucić ten czar za koszt brawury. Jeśli "
-"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"tak zrobisz, dostaje on pośpiech i jest przywracany z pola walki do ręki "
 "właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:600
@@ -1741,14 +1739,13 @@ msgid "Reckless Imp can't block."
 msgstr ""
 
 #: ../../DTK.rst:639
-#, fuzzy
 msgid ""
 "Dash |mana_1|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
 "Brawura |mana_1|\\ |mana_b| (Możesz rzucić ten czar za koszt brawury. Jeśli "
-"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"tak zrobisz, dostaje on pośpiech i jest przywracany z pola walki do ręki "
 "właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:648
@@ -2183,14 +2180,13 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:793 ../../DTK.rst:917
-#, fuzzy
 msgid ""
 "Dash |mana_2|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
 "Brawura |mana_2|\\ |mana_r| (Możesz rzucić ten czar za koszt brawury. Jeśli "
-"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"tak zrobisz, dostaje on pośpiech i jest przywracany z pola walki do ręki "
 "właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:802
@@ -2336,14 +2332,13 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:847 ../../DTK.rst:923
-#, fuzzy
 msgid ""
 "Dash |mana_1|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
 "Brawura |mana_1|\\ |mana_r| (Możesz rzucić ten czar za koszt brawury. Jeśli "
-"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"tak zrobisz, dostaje on pośpiech i jest przywracany z pola walki do ręki "
 "właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:852
