@@ -78,6 +78,12 @@ Commander i pokrewne
 * :mtgexp:`C14` :doc:`Commander 2014<C14>` |p25|
 * :mtgexp:`C13` :doc:`Commander 2013<C13>` |p25|
 
+Conspiracy
+----------
+
+* :mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` |p25|
+* :mtgexp:`CNS` :doc:`Conspiracy<CNS>` |p25|
+
 Pozostałe produkty
 ==================
 
