@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 12:43+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/shm/pl/>\n"
 "Language: pl\n"
@@ -744,7 +744,7 @@ msgstr ""
 
 #: ../../SHM.rst:269
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../SHM.rst:271
 msgid ""
@@ -1078,7 +1078,7 @@ msgstr ""
 
 #: ../../SHM.rst:395
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../SHM.rst:397
 msgid ""
@@ -1607,7 +1607,7 @@ msgstr ""
 
 #: ../../SHM.rst:603
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../SHM.rst:612
 msgid ":mtgtip:`Gloomwidow<https://img.scryfall.com/cards/border_crop/en/shm/117.jpg?1517813031|https://scryfall.com/card/shm/117/gloomwidow?utm_source=api>`"
@@ -1615,7 +1615,7 @@ msgstr ""
 
 #: ../../SHM.rst:609
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../SHM.rst:611
 msgid "Gloomwidow can block only creatures with flying."
@@ -3297,7 +3297,7 @@ msgstr ""
 
 #: ../../SHM.rst:1287
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../SHM.rst:1292
 msgid ""

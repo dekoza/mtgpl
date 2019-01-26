@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ima/pl/>\n"
 "Language: pl\n"
@@ -249,7 +249,7 @@ msgstr ""
 
 #: ../../IMA.rst:93
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../IMA.rst:98
 msgid ""
@@ -368,7 +368,7 @@ msgstr ""
 
 #: ../../IMA.rst:139
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../IMA.rst:141 ../../IMA.rst:253 ../../IMA.rst:287 ../../IMA.rst:405
 #: ../../IMA.rst:441 ../../IMA.rst:1051 ../../IMA.rst:1059 ../../IMA.rst:1099
@@ -667,7 +667,7 @@ msgstr ""
 
 #: ../../IMA.rst:265
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../IMA.rst:270
 msgid ":mtgtip:`Condescend<https://img.scryfall.com/cards/border_crop/en/ima/46.jpg?1530591830|https://scryfall.com/card/ima/46/condescend?utm_source=api>`"
@@ -700,7 +700,7 @@ msgstr ""
 
 #: ../../IMA.rst:281
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../IMA.rst:283
 msgid "Return target permanent to its owner's hand."
@@ -769,7 +769,7 @@ msgstr ""
 #: ../../IMA.rst:311 ../../IMA.rst:387 ../../IMA.rst:847 ../../IMA.rst:937
 #: ../../IMA.rst:985 ../../IMA.rst:1043
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../IMA.rst:313
 msgid ""
@@ -1206,7 +1206,7 @@ msgstr ""
 
 #: ../../IMA.rst:495
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../IMA.rst:500
 msgid ":mtgtip:`Duress<https://img.scryfall.com/cards/border_crop/en/ima/88.jpg?1530592045|https://scryfall.com/card/ima/88/duress?utm_source=api>`"
@@ -1217,6 +1217,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../IMA.rst:506
 msgid ""
@@ -1530,7 +1532,7 @@ msgstr ""
 
 #: ../../IMA.rst:617
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../IMA.rst:624
 msgid ":mtgtip:`Ulcerate<https://img.scryfall.com/cards/border_crop/en/ima/112.jpg?1530592149|https://scryfall.com/card/ima/112/ulcerate?utm_source=api>`"
@@ -2032,6 +2034,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../IMA.rst:827
 msgid ""
@@ -2263,6 +2267,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../IMA.rst:916
 msgid ""
@@ -2918,7 +2924,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../IMA.rst:1171
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../IMA.rst:1178
 msgid ""
@@ -2993,7 +2999,7 @@ msgstr ""
 
 #: ../../IMA.rst:1197 ../../IMA.rst:1283
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../IMA.rst:1202
 msgid ""
@@ -3520,7 +3526,7 @@ msgstr ""
 
 #: ../../IMA.rst:1401
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../IMA.rst:1409
 msgid ""

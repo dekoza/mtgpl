@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m13/pl/>\n"
 "Language: pl\n"
@@ -350,6 +350,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../M13.rst:127
 msgid ""
@@ -364,7 +366,7 @@ msgstr ""
 
 #: ../../M13.rst:133
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../M13.rst:136
 msgid ""
@@ -445,7 +447,7 @@ msgstr ""
 
 #: ../../M13.rst:165
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../M13.rst:172
 msgid ""
@@ -638,7 +640,7 @@ msgstr ""
 
 #: ../../M13.rst:247 ../../M13.rst:779
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../M13.rst:252
 msgid ":mtgtip:`Downpour<https://img.scryfall.com/cards/border_crop/en/m13/48.jpg?1517813031|https://scryfall.com/card/m13/48/downpour?utm_source=api>`"
@@ -654,7 +656,7 @@ msgstr ""
 
 #: ../../M13.rst:255
 msgid "Enchant artifact or creature"
-msgstr ""
+msgstr "Zaurocz artefakt lub stwora"
 
 #: ../../M13.rst:257
 msgid ""
@@ -671,7 +673,7 @@ msgstr ""
 
 #: ../../M13.rst:261
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../M13.rst:268
 msgid ""
@@ -818,7 +820,7 @@ msgstr ""
 
 #: ../../M13.rst:321
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../M13.rst:326
 msgid ":mtgtip:`Omniscience<https://img.scryfall.com/cards/border_crop/en/m13/63.jpg?1517813031|https://scryfall.com/card/m13/63/omniscience?utm_source=api>`"
@@ -853,7 +855,7 @@ msgstr ""
 
 #: ../../M13.rst:337
 msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bitewne, dobierz kartę."
 
 #: ../../M13.rst:342
 msgid ":mtgtip:`Sleep<https://img.scryfall.com/cards/border_crop/en/m13/67.jpg?1517813031|https://scryfall.com/card/m13/67/sleep?utm_source=api>`"
@@ -1124,7 +1126,7 @@ msgstr ""
 
 #: ../../M13.rst:447
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M13.rst:452
 msgid ":mtgtip:`Duress<https://img.scryfall.com/cards/border_crop/en/m13/90.jpg?1517813031|https://scryfall.com/card/m13/90/duress?utm_source=api>`"
@@ -1135,6 +1137,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../M13.rst:458
 msgid ""
@@ -1148,6 +1152,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../M13.rst:464
 msgid ""
@@ -1186,6 +1192,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../M13.rst:478
 msgid ""
@@ -1601,7 +1609,7 @@ msgstr ""
 
 #: ../../M13.rst:631
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../M13.rst:638
 msgid ""
@@ -1730,7 +1738,7 @@ msgstr ""
 
 #: ../../M13.rst:683
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../M13.rst:688
 msgid ""
@@ -1991,6 +1999,8 @@ msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok albo "
+"ląd."
 
 #: ../../M13.rst:794
 msgid ""
@@ -2236,7 +2246,7 @@ msgstr ""
 
 #: ../../M13.rst:881
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../M13.rst:886
 msgid ":mtgtip:`Plummet<https://img.scryfall.com/cards/border_crop/en/m13/179.jpg?1517813031|https://scryfall.com/card/m13/179/plummet?utm_source=api>`"
@@ -2244,7 +2254,7 @@ msgstr ""
 
 #: ../../M13.rst:885
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../M13.rst:890
 msgid ""
@@ -2398,7 +2408,7 @@ msgstr ""
 
 #: ../../M13.rst:943
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../M13.rst:945
 msgid ""
@@ -2601,7 +2611,7 @@ msgstr ""
 
 #: ../../M13.rst:1019
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../M13.rst:1026
 msgid ":mtgtip:`Kitesail<https://img.scryfall.com/cards/border_crop/en/m13/208.jpg?1517813031|https://scryfall.com/card/m13/208/kitesail?utm_source=api>`"
@@ -2616,6 +2626,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../M13.rst:1028
 msgid ""

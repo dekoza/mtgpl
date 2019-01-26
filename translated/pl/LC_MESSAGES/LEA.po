@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lea/pl/>\n"
 "Language: pl\n"
@@ -251,7 +251,7 @@ msgstr ""
 
 #: ../../LEA.rst:91
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../LEA.rst:98
 msgid ":mtgtip:`Farmstead<https://img.scryfall.com/cards/border_crop/en/lea/19.jpg?1525123740|https://scryfall.com/card/lea/19/farmstead?utm_source=api>`"
@@ -702,7 +702,7 @@ msgstr ""
 
 #: ../../LEA.rst:269
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../LEA.rst:276
 msgid ""
@@ -1548,7 +1548,7 @@ msgstr ""
 
 #: ../../LEA.rst:607
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../LEA.rst:609
 msgid ""
@@ -1592,7 +1592,7 @@ msgstr ""
 
 #: ../../LEA.rst:623
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../LEA.rst:628
 msgid ""
@@ -1611,7 +1611,7 @@ msgstr ""
 
 #: ../../LEA.rst:631
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../LEA.rst:633
 msgid ""
@@ -1675,7 +1675,7 @@ msgstr ""
 
 #: ../../LEA.rst:657 ../../LEA.rst:889 ../../LEA.rst:1005
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../LEA.rst:662
 msgid ":mtgtip:`Terror<https://img.scryfall.com/cards/border_crop/en/lea/130.jpg?1525124049|https://scryfall.com/card/lea/130/terror?utm_source=api>`"
@@ -2545,7 +2545,7 @@ msgstr ""
 
 #: ../../LEA.rst:1027
 msgid "|tap|: Untap target land."
-msgstr ""
+msgstr "|tap|: Odkręć wskazany ląd."
 
 #: ../../LEA.rst:1032
 msgid ":mtgtip:`Lifeforce<https://img.scryfall.com/cards/border_crop/en/lea/206.jpg?1525123503|https://scryfall.com/card/lea/206/lifeforce?utm_source=api>`"
@@ -3145,7 +3145,7 @@ msgstr ""
 
 #: ../../LEA.rst:1253
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../LEA.rst:1260
 msgid ":mtgtip:`Juggernaut<https://img.scryfall.com/cards/border_crop/en/lea/255.jpg?1525123461|https://scryfall.com/card/lea/255/juggernaut?utm_source=api>`"
@@ -3247,7 +3247,7 @@ msgstr ""
 
 #: ../../LEA.rst:1297
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../LEA.rst:1302
 msgid ""
@@ -3504,7 +3504,7 @@ msgstr ""
 
 #: ../../LEA.rst:1397
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
 
 #: ../../LEA.rst:1402
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/lea/286.jpg?1525123704|https://scryfall.com/card/lea/286/plains?utm_source=api>`"

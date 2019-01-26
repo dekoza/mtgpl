@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bbd/pl/>\n"
 "Language: pl\n"
@@ -201,7 +201,7 @@ msgstr ""
 
 #: ../../BBD.rst:65 ../../BBD.rst:135
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../BBD.rst:67
 msgid ""
@@ -748,7 +748,7 @@ msgstr ""
 
 #: ../../BBD.rst:259
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../BBD.rst:264
 msgid ""
@@ -1642,7 +1642,7 @@ msgstr ""
 
 #: ../../BBD.rst:583
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../BBD.rst:586
 msgid ""
@@ -1804,7 +1804,7 @@ msgstr ""
 
 #: ../../BBD.rst:647
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../BBD.rst:652
 msgid ""
@@ -1899,7 +1899,7 @@ msgstr ""
 
 #: ../../BBD.rst:687
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../BBD.rst:692
 msgid ""
@@ -2097,7 +2097,7 @@ msgstr ""
 
 #: ../../BBD.rst:771
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../BBD.rst:773
 msgid ""
@@ -2168,6 +2168,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../BBD.rst:798
 msgid ""
@@ -2413,7 +2415,7 @@ msgstr ""
 
 #: ../../BBD.rst:887 ../../BBD.rst:1211
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../BBD.rst:889
 msgid "|tap|: Target creature gains haste until end of turn."

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -388,9 +388,7 @@ msgstr ""
 
 #: ../../C15.rst:139
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
-"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../C15.rst:144
 msgid ""
@@ -601,7 +599,7 @@ msgstr ""
 
 #: ../../C15.rst:219 ../../C15.rst:979 ../../C15.rst:1013 ../../C15.rst:1137
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../C15.rst:221
 msgid ""
@@ -634,6 +632,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../C15.rst:231
 msgid ""
@@ -1033,7 +1033,7 @@ msgstr ""
 
 #: ../../C15.rst:377
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../C15.rst:379
 msgid "|mana_1|\\ |mana_w|: Return Cage of Hands to its owner's hand."
@@ -2720,6 +2720,8 @@ msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok albo "
+"ląd."
 
 #: ../../C15.rst:984
 msgid ""
@@ -2961,7 +2963,7 @@ msgstr ""
 
 #: ../../C15.rst:1065
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../C15.rst:1070
 msgid ""
@@ -3289,7 +3291,7 @@ msgstr ""
 
 #: ../../C15.rst:1175
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../C15.rst:1177
 msgid "When Wall of Blossoms enters the battlefield, draw a card."
@@ -4060,7 +4062,7 @@ msgstr ""
 
 #: ../../C15.rst:1457 ../../C15.rst:1699 ../../C15.rst:1727
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../C15.rst:1459
 msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
@@ -4290,7 +4292,7 @@ msgstr ""
 
 #: ../../C15.rst:1547 ../../C15.rst:1705 ../../C15.rst:1839
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../C15.rst:1549
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"

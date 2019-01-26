@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -968,7 +968,7 @@ msgstr ""
 
 #: ../../HOU.rst:305
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../HOU.rst:310
 msgid ""
@@ -1717,7 +1717,7 @@ msgstr ""
 
 #: ../../HOU.rst:559
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór otrzymuje +1/+0 i zyskuje pierwszy cios do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../HOU.rst:566
 msgid ""

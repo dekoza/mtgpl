@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -324,7 +324,7 @@ msgstr "Kiedy ta karta wejdzie na pole walki, przekręć zauroczonego stwora."
 # b11b8bdc1868491595ad7792ee959a9b
 #: ../../DGM.rst:89
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../DGM.rst:96
 msgid ""

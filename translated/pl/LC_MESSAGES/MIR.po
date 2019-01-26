@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mir/pl/>\n"
 "Language: pl\n"
@@ -163,7 +163,7 @@ msgstr ""
 
 #: ../../MIR.rst:57
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../MIR.rst:62
 msgid ""
@@ -492,7 +492,7 @@ msgstr ""
 
 #: ../../MIR.rst:175
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../MIR.rst:182
 msgid ""
@@ -1413,7 +1413,7 @@ msgstr ""
 
 #: ../../MIR.rst:533
 msgid "Enchant artifact or creature"
-msgstr ""
+msgstr "Zaurocz artefakt lub stwora"
 
 #: ../../MIR.rst:535
 msgid ""
@@ -1454,7 +1454,7 @@ msgstr ""
 
 #: ../../MIR.rst:559
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../MIR.rst:561
 msgid "At the beginning of your upkeep, sacrifice Thirst unless you pay |mana_u|."
@@ -1606,7 +1606,7 @@ msgstr ""
 
 #: ../../MIR.rst:619
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../MIR.rst:621
 msgid ""
@@ -2203,7 +2203,7 @@ msgstr ""
 
 #: ../../MIR.rst:841
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../MIR.rst:848
 msgid ""
@@ -2762,7 +2762,7 @@ msgstr ""
 
 #: ../../MIR.rst:1059
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../MIR.rst:1066
 msgid ""
@@ -2848,6 +2848,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../MIR.rst:1102
 msgid ""
@@ -2931,7 +2933,7 @@ msgstr ""
 
 #: ../../MIR.rst:1127
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../MIR.rst:1134
 msgid ""
@@ -3544,7 +3546,7 @@ msgstr ""
 
 #: ../../MIR.rst:1359
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../MIR.rst:1361
 msgid ""
@@ -4154,7 +4156,7 @@ msgstr ""
 
 #: ../../MIR.rst:1587
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../MIR.rst:1592
 msgid ""
@@ -4318,7 +4320,7 @@ msgstr ""
 
 #: ../../MIR.rst:1645
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../MIR.rst:1652
 msgid ""

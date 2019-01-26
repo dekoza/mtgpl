@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/tsp/pl/>\n"
 "Language: pl\n"
@@ -307,7 +307,7 @@ msgstr ""
 
 #: ../../TSP.rst:109 ../../TSP.rst:849 ../../TSP.rst:1323
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../TSP.rst:111
 msgid "Foriysian Interceptor can block an additional creature each combat."
@@ -827,6 +827,8 @@ msgid ""
 " a 2/2 creature for |mana_3|. Turn it face up any time for its morph "
 "cost.)"
 msgstr ""
+"Przemiana |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za "
+"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSP.rst:313
 msgid ""
@@ -840,7 +842,7 @@ msgstr ""
 
 #: ../../TSP.rst:317
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../TSP.rst:322
 msgid ""
@@ -998,7 +1000,7 @@ msgstr ""
 
 #: ../../TSP.rst:381
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../TSP.rst:388
 msgid ""
@@ -1606,7 +1608,7 @@ msgstr ""
 
 #: ../../TSP.rst:615
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../TSP.rst:617
 msgid ""
@@ -2737,7 +2739,7 @@ msgstr ""
 
 #: ../../TSP.rst:1043
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../TSP.rst:1045
 msgid ""
@@ -2927,7 +2929,7 @@ msgstr ""
 
 #: ../../TSP.rst:1113
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../TSP.rst:1122
 msgid ""
@@ -3142,7 +3144,7 @@ msgstr ""
 
 #: ../../TSP.rst:1197
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../TSP.rst:1202
 msgid ""
@@ -3245,7 +3247,7 @@ msgstr ""
 
 #: ../../TSP.rst:1231
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../TSP.rst:1233
 msgid ""
@@ -4073,7 +4075,7 @@ msgstr ""
 
 #: ../../TSP.rst:1527
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../TSP.rst:1529
 msgid ""
@@ -4102,7 +4104,7 @@ msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../TSP.rst:1537
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../TSP.rst:1544
 msgid ""

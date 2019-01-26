@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/fut/pl/>\n"
 "Language: pl\n"
@@ -363,7 +363,7 @@ msgstr ""
 
 #: ../../FUT.rst:123
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../FUT.rst:130
 msgid ""
@@ -683,7 +683,7 @@ msgstr ""
 
 #: ../../FUT.rst:241
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../FUT.rst:243
 msgid ""
@@ -1248,7 +1248,7 @@ msgstr ""
 
 #: ../../FUT.rst:449
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../FUT.rst:451
 msgid ""
@@ -2119,7 +2119,7 @@ msgstr ""
 
 #: ../../FUT.rst:765
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../FUT.rst:767
 msgid ""
@@ -2444,6 +2444,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../FUT.rst:892
 msgid ""
@@ -2612,7 +2614,7 @@ msgstr ""
 
 #: ../../FUT.rst:943
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../FUT.rst:945
 msgid ""
@@ -2687,7 +2689,7 @@ msgstr ""
 
 #: ../../FUT.rst:969
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../FUT.rst:971
 msgid ""

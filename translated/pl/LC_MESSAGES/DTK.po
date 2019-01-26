@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -838,7 +838,7 @@ msgstr ""
 
 #: ../../DTK.rst:303
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../DTK.rst:308
 msgid ""
@@ -2148,7 +2148,7 @@ msgstr ""
 
 #: ../../DTK.rst:781
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../DTK.rst:786
 msgid ""
@@ -2490,7 +2490,7 @@ msgstr "Zniszcz wskazany artefakt."
 
 #: ../../DTK.rst:903
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../DTK.rst:908
 msgid ""
@@ -3423,9 +3423,7 @@ msgstr ""
 
 #: ../../DTK.rst:1239
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
-"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../DTK.rst:1241
 msgid "Target player discards a card."

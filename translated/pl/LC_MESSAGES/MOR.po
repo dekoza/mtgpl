@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mor/pl/>\n"
 "Language: pl\n"
@@ -647,7 +647,7 @@ msgstr ""
 
 #: ../../MOR.rst:239
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../MOR.rst:248
 msgid ":mtgtip:`Nevermaker<https://img.scryfall.com/cards/border_crop/en/mor/44.jpg?1517813031|https://scryfall.com/card/mor/44/nevermaker?utm_source=api>`"
@@ -1375,7 +1375,7 @@ msgstr ""
 
 #: ../../MOR.rst:503
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../MOR.rst:510
 msgid ""
@@ -1973,7 +1973,7 @@ msgstr ""
 
 #: ../../MOR.rst:711
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../MOR.rst:713
 msgid ""
@@ -2203,7 +2203,7 @@ msgstr ""
 
 #: ../../MOR.rst:793
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../MOR.rst:802
 msgid ""

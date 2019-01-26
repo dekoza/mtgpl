@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m12/pl/>\n"
 "Language: pl\n"
@@ -185,7 +185,7 @@ msgstr ""
 
 #: ../../M12.rst:61
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../M12.rst:66
 msgid ":mtgtip:`Demystify<https://img.scryfall.com/cards/border_crop/en/m12/13.jpg?1517813031|https://scryfall.com/card/m12/13/demystify?utm_source=api>`"
@@ -381,7 +381,7 @@ msgstr ""
 
 #: ../../M12.rst:141
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../M12.rst:148
 msgid ""
@@ -395,6 +395,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../M12.rst:152
 msgid ""
@@ -416,7 +418,7 @@ msgstr ""
 
 #: ../../M12.rst:155
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../M12.rst:157
 msgid "Whenever Pride Guardian blocks, you gain 3 life."
@@ -446,7 +448,7 @@ msgstr ""
 
 #: ../../M12.rst:167
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../M12.rst:170
 msgid ""
@@ -606,7 +608,7 @@ msgstr ""
 
 #: ../../M12.rst:231
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../M12.rst:238
 msgid ""
@@ -634,7 +636,7 @@ msgstr ""
 
 #: ../../M12.rst:245
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../M12.rst:254
 msgid ""
@@ -891,7 +893,7 @@ msgstr ""
 
 #: ../../M12.rst:341
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../M12.rst:346
 msgid ""
@@ -1201,7 +1203,7 @@ msgstr ""
 
 #: ../../M12.rst:463
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M12.rst:468
 msgid ":mtgtip:`Distress<https://img.scryfall.com/cards/border_crop/en/m12/94.jpg?1517813031|https://scryfall.com/card/m12/94/distress?utm_source=api>`"
@@ -1222,7 +1224,7 @@ msgstr ""
 
 #: ../../M12.rst:471
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../M12.rst:478
 msgid ""
@@ -1251,7 +1253,7 @@ msgstr ""
 
 #: ../../M12.rst:487
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../M12.rst:489
 msgid ""
@@ -1499,6 +1501,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../M12.rst:577
 msgid ""
@@ -1616,6 +1620,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../M12.rst:627
 msgid ""
@@ -1716,7 +1722,7 @@ msgstr ""
 
 #: ../../M12.rst:667
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../M12.rst:669
 msgid "Fling deals damage equal to the sacrificed creature's power to any target."
@@ -2015,6 +2021,8 @@ msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok albo "
+"ląd."
 
 #: ../../M12.rst:800
 msgid ""
@@ -2025,7 +2033,7 @@ msgstr ""
 
 #: ../../M12.rst:797 ../../M12.rst:977
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../M12.rst:799
 msgid ""
@@ -2070,7 +2078,7 @@ msgstr ""
 
 #: ../../M12.rst:817 ../../M12.rst:1051
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../M12.rst:822
 msgid ""
@@ -2092,7 +2100,7 @@ msgstr ""
 
 #: ../../M12.rst:825
 msgid "Sacrifice Brindle Boar: You gain 4 life."
-msgstr ""
+msgstr "Poświęć tego stwora: Zyskujesz 4 życia."
 
 #: ../../M12.rst:832
 msgid ""
@@ -2273,7 +2281,7 @@ msgstr ""
 
 #: ../../M12.rst:899
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../M12.rst:906
 msgid ":mtgtip:`Lure<https://img.scryfall.com/cards/border_crop/en/m12/183.jpg?1517813031|https://scryfall.com/card/m12/183/lure?utm_source=api>`"
@@ -2296,7 +2304,7 @@ msgstr ""
 
 #: ../../M12.rst:915
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../M12.rst:920
 msgid ":mtgtip:`Overrun<https://img.scryfall.com/cards/border_crop/en/m12/186.jpg?1517813031|https://scryfall.com/card/m12/186/overrun?utm_source=api>`"
@@ -2312,7 +2320,7 @@ msgstr ""
 
 #: ../../M12.rst:923
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../M12.rst:930
 msgid ""

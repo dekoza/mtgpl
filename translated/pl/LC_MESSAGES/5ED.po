@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/5ed/pl/>\n"
 "Language: pl\n"
@@ -371,7 +371,7 @@ msgstr ""
 
 #: ../../5ED.rst:131
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../5ED.rst:136
 msgid ""
@@ -878,6 +878,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../5ED.rst:334
 msgid ""
@@ -1013,7 +1015,7 @@ msgstr ""
 
 #: ../../5ED.rst:385
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../5ED.rst:396
 msgid ""
@@ -1514,7 +1516,7 @@ msgstr ""
 
 #: ../../5ED.rst:589
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../5ED.rst:596
 msgid ""
@@ -1754,7 +1756,7 @@ msgstr ""
 
 #: ../../5ED.rst:691
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../5ED.rst:698
 msgid ""
@@ -2391,7 +2393,7 @@ msgstr ""
 
 #: ../../5ED.rst:947
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../5ED.rst:949
 msgid ""
@@ -2474,7 +2476,7 @@ msgstr ""
 
 #: ../../5ED.rst:975
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../5ED.rst:978
 msgid ""
@@ -2704,6 +2706,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../5ED.rst:1077
 msgid "At the beginning of the end step, sacrifice Ball Lightning."
@@ -2964,7 +2968,7 @@ msgstr ""
 
 #: ../../5ED.rst:1189
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../5ED.rst:1194
 msgid ""
@@ -3388,7 +3392,7 @@ msgstr ""
 
 #: ../../5ED.rst:1361
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../5ED.rst:1366
 msgid ""
@@ -3506,7 +3510,7 @@ msgstr ""
 
 #: ../../5ED.rst:1413 ../../5ED.rst:2035
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../5ED.rst:1422
 msgid ":mtgtip:`Carapace<https://img.scryfall.com/cards/border_crop/en/5ed/281.jpg?1517813031|https://scryfall.com/card/5ed/281/carapace?utm_source=api>`"
@@ -3808,7 +3812,7 @@ msgstr ""
 
 #: ../../5ED.rst:1543
 msgid "|tap|: Untap target land."
-msgstr ""
+msgstr "|tap|: Odkręć wskazany ląd."
 
 #: ../../5ED.rst:1548
 msgid ":mtgtip:`Lhurgoyf<https://img.scryfall.com/cards/border_crop/en/5ed/309.jpg?1517813031|https://scryfall.com/card/5ed/309/lhurgoyf?utm_source=api>`"
@@ -3867,7 +3871,7 @@ msgstr ""
 
 #: ../../5ED.rst:1567 ../../5ED.rst:2067
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../5ED.rst:1574
 msgid ":mtgtip:`Lure<https://img.scryfall.com/cards/border_crop/en/5ed/314.jpg?1517813031|https://scryfall.com/card/5ed/314/lure?utm_source=api>`"
@@ -4687,6 +4691,8 @@ msgid ""
 "Whenever a player casts a white spell, you may pay |mana_1|. If you do, "
 "you gain 1 life."
 msgstr ""
+"Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
+"to zrobisz, zyskujesz 1 życie."
 
 #: ../../5ED.rst:1876
 msgid ""
@@ -4732,7 +4738,7 @@ msgstr ""
 
 #: ../../5ED.rst:1887
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../5ED.rst:1892
 msgid ""
@@ -5201,7 +5207,7 @@ msgstr ""
 
 #: ../../5ED.rst:2059
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../5ED.rst:2061
 msgid "|tap|, Sacrifice Ebon Stronghold: Add |mana_b|\\ |mana_b|."

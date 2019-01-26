@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/4ed/pl/>\n"
 "Language: pl\n"
@@ -147,6 +147,8 @@ msgid ""
 "Enchanted creature has protection from black. This effect doesn't remove "
 "Black Ward."
 msgstr ""
+"Zauroczony stwór ma ochronę przed czarnym. Ten efekt nie usuwa niniejszego "
+"uroku."
 
 #: ../../4ED.rst:54
 msgid ":mtgtip:`Blessing<https://img.scryfall.com/cards/border_crop/en/4ed/9.jpg?1517813031|https://scryfall.com/card/4ed/9/blessing?utm_source=api>`"
@@ -154,7 +156,7 @@ msgstr ""
 
 #: ../../4ED.rst:53
 msgid "|mana_w|: Enchanted creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Zauroczony stwór dostaje +1/+1 do końca tury."
 
 #: ../../4ED.rst:60
 msgid ""
@@ -302,7 +304,7 @@ msgstr ""
 
 #: ../../4ED.rst:111
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../4ED.rst:118
 msgid ""
@@ -657,7 +659,7 @@ msgstr ""
 
 #: ../../4ED.rst:249 ../../4ED.rst:595
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../4ED.rst:256
 msgid ""
@@ -699,6 +701,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../4ED.rst:268
 msgid ":mtgtip:`Visions<https://img.scryfall.com/cards/border_crop/en/4ed/54.jpg?1517813031|https://scryfall.com/card/4ed/54/visions?utm_source=api>`"
@@ -847,7 +851,7 @@ msgstr ""
 
 #: ../../4ED.rst:327
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../4ED.rst:334
 msgid ""
@@ -1929,7 +1933,7 @@ msgstr ""
 
 #: ../../4ED.rst:769
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../4ED.rst:771
 msgid ""
@@ -2000,7 +2004,7 @@ msgstr ""
 
 #: ../../4ED.rst:793
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../4ED.rst:798
 msgid ""
@@ -2250,6 +2254,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../4ED.rst:897
 msgid "At the beginning of the end step, sacrifice Ball Lightning."
@@ -2466,7 +2472,7 @@ msgstr ""
 
 #: ../../4ED.rst:993
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../4ED.rst:998
 msgid ""
@@ -2778,7 +2784,7 @@ msgstr ""
 
 #: ../../4ED.rst:1119
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../4ED.rst:1126
 msgid ""
@@ -2903,7 +2909,7 @@ msgstr ""
 
 #: ../../4ED.rst:1173
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../4ED.rst:1178
 msgid ""
@@ -2914,7 +2920,7 @@ msgstr ""
 
 #: ../../4ED.rst:1177
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../4ED.rst:1182
 msgid ":mtgtip:`Channel<https://img.scryfall.com/cards/border_crop/en/4ed/236.jpg?1517813031|https://scryfall.com/card/4ed/236/channel?utm_source=api>`"
@@ -3129,7 +3135,7 @@ msgstr ""
 
 #: ../../4ED.rst:1273
 msgid "|tap|: Untap target land."
-msgstr ""
+msgstr "|tap|: Odkręć wskazany ląd."
 
 #: ../../4ED.rst:1278
 msgid ":mtgtip:`Lifeforce<https://img.scryfall.com/cards/border_crop/en/4ed/257.jpg?1517813031|https://scryfall.com/card/4ed/257/lifeforce?utm_source=api>`"
@@ -3188,7 +3194,7 @@ msgstr ""
 
 #: ../../4ED.rst:1297
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../4ED.rst:1304
 msgid ":mtgtip:`Lure<https://img.scryfall.com/cards/border_crop/en/4ed/262.jpg?1517813031|https://scryfall.com/card/4ed/262/lure?utm_source=api>`"
@@ -4053,6 +4059,8 @@ msgid ""
 "Whenever a player casts a white spell, you may pay |mana_1|. If you do, "
 "you gain 1 life."
 msgstr ""
+"Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
+"to zrobisz, zyskujesz 1 życie."
 
 #: ../../4ED.rst:1622
 msgid ""
@@ -4100,7 +4108,7 @@ msgstr ""
 
 #: ../../4ED.rst:1633
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../4ED.rst:1638
 msgid ""

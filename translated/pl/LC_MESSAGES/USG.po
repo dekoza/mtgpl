@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/usg/pl/>\n"
 "Language: pl\n"
@@ -184,7 +184,7 @@ msgstr ""
 
 #: ../../USG.rst:65
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../USG.rst:70
 msgid ""
@@ -382,7 +382,7 @@ msgstr ""
 
 #: ../../USG.rst:135
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../USG.rst:142
 msgid ":mtgtip:`Pariah<https://img.scryfall.com/cards/border_crop/en/usg/28.jpg?1517813031|https://scryfall.com/card/usg/28/pariah?utm_source=api>`"
@@ -700,7 +700,7 @@ msgstr ""
 
 #: ../../USG.rst:261
 msgid "|tap|: You gain 1 life."
-msgstr ""
+msgstr "|tap|: Zyskujesz 1 życie."
 
 #: ../../USG.rst:266
 msgid ":mtgtip:`Songstitcher<https://img.scryfall.com/cards/border_crop/en/usg/52.jpg?1517813031|https://scryfall.com/card/usg/52/songstitcher?utm_source=api>`"
@@ -1677,6 +1677,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../USG.rst:664
 msgid ""
@@ -2517,7 +2519,7 @@ msgstr ""
 
 #: ../../USG.rst:989 ../../USG.rst:1023
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../USG.rst:1000
 msgid ""
@@ -2764,6 +2766,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../USG.rst:1100
 msgid ""
@@ -4047,7 +4051,7 @@ msgstr ""
 
 #: ../../USG.rst:1595
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../USG.rst:1606
 msgid ""

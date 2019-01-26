@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 14:26+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bok/pl/>\n"
 "Language: pl\n"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: ../../BOK.rst:53
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../BOK.rst:55
 msgid ""
@@ -1006,7 +1006,7 @@ msgstr ""
 
 #: ../../BOK.rst:363
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../BOK.rst:365
 msgid ""
@@ -2356,7 +2356,7 @@ msgstr ""
 
 #: ../../BOK.rst:825
 msgid "You gain 3 life."
-msgstr ""
+msgstr "Zyskujesz 3 życia."
 
 #: ../../BOK.rst:827
 msgid ""
@@ -2425,6 +2425,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../BOK.rst:852
 msgid ""
@@ -2459,7 +2461,7 @@ msgstr ""
 
 #: ../../BOK.rst:859 ../../BOK.rst:911
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../BOK.rst:864
 msgid ""

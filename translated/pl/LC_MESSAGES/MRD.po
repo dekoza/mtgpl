@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mrd/pl/>\n"
 "Language: pl\n"
@@ -1498,6 +1498,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../MRD.rst:594
 msgid ""
@@ -2268,7 +2270,7 @@ msgstr ""
 
 #: ../../MRD.rst:885
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../MRD.rst:892
 msgid ""
@@ -2317,6 +2319,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../MRD.rst:906
 msgid ":mtgtip:`Frogmite<https://img.scryfall.com/cards/border_crop/en/mrd/172.jpg?1517813031|https://scryfall.com/card/mrd/172/frogmite?utm_source=api>`"
@@ -2577,7 +2581,7 @@ msgstr ""
 
 #: ../../MRD.rst:997 ../../MRD.rst:1501
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../MRD.rst:1004
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/leb/pl/>\n"
 "Language: pl\n"
@@ -264,7 +264,7 @@ msgstr ""
 
 #: ../../LEB.rst:95
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../LEB.rst:102
 msgid ":mtgtip:`Farmstead<https://img.scryfall.com/cards/border_crop/en/leb/20.jpg?1525123448|https://scryfall.com/card/leb/20/farmstead?utm_source=api>`"
@@ -715,7 +715,7 @@ msgstr ""
 
 #: ../../LEB.rst:273
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../LEB.rst:280
 msgid ""
@@ -1561,7 +1561,7 @@ msgstr ""
 
 #: ../../LEB.rst:611
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../LEB.rst:613
 msgid ""
@@ -1605,7 +1605,7 @@ msgstr ""
 
 #: ../../LEB.rst:627
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../LEB.rst:632
 msgid ""
@@ -1624,7 +1624,7 @@ msgstr ""
 
 #: ../../LEB.rst:635
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../LEB.rst:637
 msgid ""
@@ -1688,7 +1688,7 @@ msgstr ""
 
 #: ../../LEB.rst:661 ../../LEB.rst:893 ../../LEB.rst:1009
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../LEB.rst:666
 msgid ":mtgtip:`Terror<https://img.scryfall.com/cards/border_crop/en/leb/131.jpg?1525124579|https://scryfall.com/card/leb/131/terror?utm_source=api>`"
@@ -2558,7 +2558,7 @@ msgstr ""
 
 #: ../../LEB.rst:1031
 msgid "|tap|: Untap target land."
-msgstr ""
+msgstr "|tap|: Odkręć wskazany ląd."
 
 #: ../../LEB.rst:1036
 msgid ":mtgtip:`Lifeforce<https://img.scryfall.com/cards/border_crop/en/leb/207.jpg?1525123835|https://scryfall.com/card/leb/207/lifeforce?utm_source=api>`"
@@ -3158,7 +3158,7 @@ msgstr ""
 
 #: ../../LEB.rst:1257
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../LEB.rst:1264
 msgid ":mtgtip:`Juggernaut<https://img.scryfall.com/cards/border_crop/en/leb/256.jpg?1525124322|https://scryfall.com/card/leb/256/juggernaut?utm_source=api>`"
@@ -3260,7 +3260,7 @@ msgstr ""
 
 #: ../../LEB.rst:1301
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../LEB.rst:1306
 msgid ""
@@ -3517,7 +3517,7 @@ msgstr ""
 
 #: ../../LEB.rst:1401
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
 
 #: ../../LEB.rst:1406
 msgid ""

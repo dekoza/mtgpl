@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -688,7 +688,7 @@ msgstr ""
 # f57d543f9cc04cac99b73eae63a17a26
 #: ../../C13.rst:217
 msgid "Target player draws two cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty."
 
 # 4dc371cb4d4a420db836abecf46c4361
 #: ../../C13.rst:219
@@ -2333,8 +2333,8 @@ msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
-"Kiedy Kwasowy Szlam wchodzi na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok albo "
+"ląd."
 
 #: ../../C13.rst:756
 msgid ""
@@ -2856,9 +2856,8 @@ msgstr "Zniszcz wskazany urok."
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
 #: ../../C13.rst:919
-#, fuzzy
 msgid "Destroy target land."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../C13.rst:926
 msgid ""
@@ -3259,6 +3258,8 @@ msgid ""
 "When Filigree Angel enters the battlefield, you gain 3 life for each "
 "artifact you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskujesz 3 życia za każdy artefakt "
+"pod twoim władaniem."
 
 #: ../../C13.rst:1074
 msgid ""
@@ -3724,16 +3725,13 @@ msgstr ""
 
 # cbaed5bb64354a5ca16ed7981aa9a0f2
 #: ../../C13.rst:1243
-#, fuzzy
 msgid "Counter target creature spell."
-msgstr "Skontruj wskazany czar."
+msgstr "Skontruj wskazany czar stwora."
 
 # d198f92a685445b8a36e9398093a758a
 #: ../../C13.rst:1245
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
-"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../C13.rst:1252
 msgid ""

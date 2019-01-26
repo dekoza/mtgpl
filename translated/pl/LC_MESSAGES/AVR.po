@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -1046,7 +1046,7 @@ msgstr ""
 
 #: ../../AVR.rst:389
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../AVR.rst:391
 msgid ""
@@ -2620,9 +2620,8 @@ msgid "Destroy target enchantment."
 msgstr "Zniszcz wskazany urok."
 
 #: ../../AVR.rst:981
-#, fuzzy
 msgid "Destroy target land."
-msgstr "Zniszcz wskazany artefakt lub ląd."
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../AVR.rst:988
 msgid ""

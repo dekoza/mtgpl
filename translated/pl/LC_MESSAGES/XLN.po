@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-20 16:03+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -1795,9 +1795,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../XLN.rst:571
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
-"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../XLN.rst:573
 msgid "Return two target Pirate cards from your graveyard to your hand."
@@ -4408,7 +4406,7 @@ msgstr "Kiedy ta karta wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../XLN.rst:1419
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../XLN.rst:1426
 msgid ""

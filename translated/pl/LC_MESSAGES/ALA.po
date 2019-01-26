@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ala/pl/>\n"
 "Language: pl\n"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: ../../ALA.rst:99
 msgid "|tap|: You gain 1 life."
-msgstr ""
+msgstr "|tap|: Zyskujesz 1 życie."
 
 #: ../../ALA.rst:104
 msgid ":mtgtip:`Metallurgeon<https://img.scryfall.com/cards/border_crop/en/ala/19.jpg?1517813031|https://scryfall.com/card/ala/19/metallurgeon?utm_source=api>`"
@@ -472,7 +472,7 @@ msgstr ""
 
 #: ../../ALA.rst:175
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../ALA.rst:180
 msgid ""
@@ -507,7 +507,7 @@ msgstr ""
 
 #: ../../ALA.rst:189
 msgid "Enchant artifact or creature"
-msgstr ""
+msgstr "Zaurocz artefakt lub stwora"
 
 #: ../../ALA.rst:191
 msgid "Enchanted permanent doesn't untap during its controller's untap step."
@@ -948,7 +948,7 @@ msgstr ""
 
 #: ../../ALA.rst:347
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../ALA.rst:349
 msgid "Destroy target creature."
@@ -1705,7 +1705,7 @@ msgstr ""
 
 #: ../../ALA.rst:629
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../ALA.rst:636
 msgid ""
@@ -1938,7 +1938,7 @@ msgstr ""
 
 #: ../../ALA.rst:725
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../ALA.rst:732
 msgid ""
@@ -2446,6 +2446,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../ALA.rst:944
 msgid ""
@@ -2549,7 +2551,7 @@ msgstr ""
 
 #: ../../ALA.rst:977
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../ALA.rst:979
 msgid ""

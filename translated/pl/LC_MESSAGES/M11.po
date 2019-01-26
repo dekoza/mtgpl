@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m11/pl/>\n"
 "Language: pl\n"
@@ -162,6 +162,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../M11.rst:62
 msgid ":mtgtip:`Condemn<https://img.scryfall.com/cards/border_crop/en/m11/11.jpg?1517813031|https://scryfall.com/card/m11/11/condemn?utm_source=api>`"
@@ -182,7 +184,7 @@ msgstr ""
 
 #: ../../M11.rst:65
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../M11.rst:68
 msgid ""
@@ -303,7 +305,7 @@ msgstr ""
 
 #: ../../M11.rst:119
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../M11.rst:124
 msgid ""
@@ -353,7 +355,7 @@ msgstr ""
 
 #: ../../M11.rst:137
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../M11.rst:144
 msgid ""
@@ -588,7 +590,7 @@ msgstr ""
 
 #: ../../M11.rst:235
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../M11.rst:240
 msgid ":mtgtip:`Clone<https://img.scryfall.com/cards/border_crop/en/m11/49.jpg?1517813031|https://scryfall.com/card/m11/49/clone?utm_source=api>`"
@@ -853,7 +855,7 @@ msgstr ""
 
 #: ../../M11.rst:339
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../M11.rst:344
 msgid ""
@@ -894,7 +896,7 @@ msgstr ""
 
 #: ../../M11.rst:355
 msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bitewne, dobierz kartę."
 
 #: ../../M11.rst:360
 msgid ":mtgtip:`Sleep<https://img.scryfall.com/cards/border_crop/en/m11/73.jpg?1517813031|https://scryfall.com/card/m11/73/sleep?utm_source=api>`"
@@ -974,7 +976,7 @@ msgstr ""
 
 #: ../../M11.rst:387
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../M11.rst:389
 msgid ""
@@ -1156,7 +1158,7 @@ msgstr ""
 
 #: ../../M11.rst:457
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M11.rst:462
 msgid ""
@@ -1167,7 +1169,7 @@ msgstr ""
 
 #: ../../M11.rst:461
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../M11.rst:466
 msgid ":mtgtip:`Duress<https://img.scryfall.com/cards/border_crop/en/m11/96.jpg?1517813031|https://scryfall.com/card/m11/96/duress?utm_source=api>`"
@@ -1178,6 +1180,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../M11.rst:472
 msgid ""
@@ -1188,7 +1192,7 @@ msgstr ""
 
 #: ../../M11.rst:469
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../M11.rst:471
 msgid ""
@@ -1543,6 +1547,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../M11.rst:605
 msgid "At the beginning of the end step, sacrifice Arc Runner."
@@ -1660,7 +1666,7 @@ msgstr ""
 
 #: ../../M11.rst:649
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../M11.rst:654
 msgid ""
@@ -1743,7 +1749,7 @@ msgstr ""
 
 #: ../../M11.rst:679
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../M11.rst:681
 msgid "Fling deals damage equal to the sacrificed creature's power to any target."
@@ -2023,12 +2029,16 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../M11.rst:793
 msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok albo "
+"ląd."
 
 #: ../../M11.rst:798
 msgid ""
@@ -2078,7 +2088,7 @@ msgstr ""
 
 #: ../../M11.rst:811
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../M11.rst:816
 msgid ""
@@ -2089,7 +2099,7 @@ msgstr ""
 
 #: ../../M11.rst:815
 msgid "Sacrifice Brindle Boar: You gain 4 life."
-msgstr ""
+msgstr "Poświęć tego stwora: Zyskujesz 4 życia."
 
 #: ../../M11.rst:820
 msgid ""
@@ -2318,7 +2328,7 @@ msgstr ""
 
 #: ../../M11.rst:903
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../M11.rst:908
 msgid ""
@@ -2340,7 +2350,7 @@ msgstr ""
 
 #: ../../M11.rst:911
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../M11.rst:916
 msgid ""
@@ -2390,7 +2400,7 @@ msgstr ""
 
 #: ../../M11.rst:929
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../M11.rst:938
 msgid ""
@@ -2767,7 +2777,7 @@ msgstr ""
 
 #: ../../M11.rst:1081
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../M11.rst:1086
 msgid ""

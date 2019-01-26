@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/3ed/pl/>\n"
 "Language: pl\n"
@@ -95,6 +95,8 @@ msgid ""
 "Enchanted creature has protection from black. This effect doesn't remove "
 "Black Ward."
 msgstr ""
+"Zauroczony stwór ma ochronę przed czarnym. Ten efekt nie usuwa niniejszego "
+"uroku."
 
 #: ../../3ED.rst:36
 msgid ":mtgtip:`Blessing<https://img.scryfall.com/cards/border_crop/en/3ed/6.jpg?1517813031|https://scryfall.com/card/3ed/6/blessing?utm_source=api>`"
@@ -102,7 +104,7 @@ msgstr ""
 
 #: ../../3ED.rst:35
 msgid "|mana_w|: Enchanted creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Zauroczony stwór dostaje +1/+1 do końca tury."
 
 #: ../../3ED.rst:42
 msgid ""
@@ -229,7 +231,7 @@ msgstr ""
 
 #: ../../3ED.rst:83
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../3ED.rst:88
 msgid ""
@@ -514,7 +516,7 @@ msgstr ""
 
 #: ../../3ED.rst:195
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../3ED.rst:200
 msgid ""
@@ -571,6 +573,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../3ED.rst:215
 msgid ""
@@ -699,7 +703,7 @@ msgstr ""
 
 #: ../../3ED.rst:265
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../3ED.rst:272
 msgid ""
@@ -1583,7 +1587,7 @@ msgstr ""
 
 #: ../../3ED.rst:613
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../3ED.rst:615
 msgid ""
@@ -1627,7 +1631,7 @@ msgstr ""
 
 #: ../../3ED.rst:629
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../3ED.rst:634
 msgid ""
@@ -1646,7 +1650,7 @@ msgstr ""
 
 #: ../../3ED.rst:637
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../3ED.rst:639
 msgid ""
@@ -2264,7 +2268,7 @@ msgstr ""
 
 #: ../../3ED.rst:899
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../3ED.rst:904
 msgid ":mtgtip:`Tunnel<https://img.scryfall.com/cards/border_crop/en/3ed/181.jpg?1517813031|https://scryfall.com/card/3ed/181/tunnel?utm_source=api>`"
@@ -2337,7 +2341,7 @@ msgstr ""
 
 #: ../../3ED.rst:933
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../3ED.rst:938
 msgid ":mtgtip:`Channel<https://img.scryfall.com/cards/border_crop/en/3ed/188.jpg?1517813031|https://scryfall.com/card/3ed/188/channel?utm_source=api>`"
@@ -2548,7 +2552,7 @@ msgstr ""
 
 #: ../../3ED.rst:1023
 msgid "|tap|: Untap target land."
-msgstr ""
+msgstr "|tap|: Odkręć wskazany ląd."
 
 #: ../../3ED.rst:1028
 msgid ":mtgtip:`Lifeforce<https://img.scryfall.com/cards/border_crop/en/3ed/207.jpg?1517813031|https://scryfall.com/card/3ed/207/lifeforce?utm_source=api>`"
@@ -2607,7 +2611,7 @@ msgstr ""
 
 #: ../../3ED.rst:1047
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../3ED.rst:1054
 msgid ":mtgtip:`Lure<https://img.scryfall.com/cards/border_crop/en/3ed/212.jpg?1517813031|https://scryfall.com/card/3ed/212/lure?utm_source=api>`"
@@ -3119,6 +3123,8 @@ msgid ""
 "Whenever a player casts a white spell, you may pay |mana_1|. If you do, "
 "you gain 1 life."
 msgstr ""
+"Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
+"to zrobisz, zyskujesz 1 życie."
 
 #: ../../3ED.rst:1248
 msgid ""
@@ -3177,7 +3183,7 @@ msgstr ""
 
 #: ../../3ED.rst:1263
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../3ED.rst:1270
 msgid ":mtgtip:`Juggernaut<https://img.scryfall.com/cards/border_crop/en/3ed/259.jpg?1517813031|https://scryfall.com/card/3ed/259/juggernaut?utm_source=api>`"
@@ -3543,7 +3549,7 @@ msgstr ""
 
 #: ../../3ED.rst:1409
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
 
 #: ../../3ED.rst:1414
 msgid ""

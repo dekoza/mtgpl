@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/wwk/pl/>\n"
 "Language: pl\n"
@@ -260,7 +260,7 @@ msgstr ""
 
 #: ../../WWK.rst:93
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../WWK.rst:95
 msgid "Whenever a creature you control with defender blocks, you may gain 2 life."
@@ -1823,7 +1823,7 @@ msgstr ""
 
 #: ../../WWK.rst:655 ../../WWK.rst:671 ../../WWK.rst:697
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../WWK.rst:664
 msgid ""
@@ -1891,6 +1891,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../WWK.rst:686
 msgid ""
@@ -1976,7 +1978,7 @@ msgstr ""
 
 #: ../../WWK.rst:713
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../WWK.rst:722
 msgid ""

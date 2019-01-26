@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ulg/pl/>\n"
 "Language: pl\n"
@@ -278,7 +278,7 @@ msgstr ""
 
 #: ../../ULG.rst:97
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../ULG.rst:99
 msgid ""
@@ -1253,6 +1253,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../ULG.rst:495
 msgid ""
@@ -1546,7 +1548,7 @@ msgstr ""
 
 #: ../../ULG.rst:603
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../ULG.rst:610
 msgid ""
@@ -1914,7 +1916,7 @@ msgstr ""
 
 #: ../../ULG.rst:737
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../ULG.rst:739
 msgid ""

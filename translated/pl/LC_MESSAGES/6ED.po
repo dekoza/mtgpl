@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/6ed/pl/>\n"
 "Language: pl\n"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: ../../6ED.rst:15
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../6ED.rst:20
 msgid ""
@@ -216,7 +216,7 @@ msgstr ""
 
 #: ../../6ED.rst:77
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../6ED.rst:84
 msgid ""
@@ -420,7 +420,7 @@ msgstr ""
 
 #: ../../6ED.rst:157
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../6ED.rst:164
 msgid ""
@@ -592,6 +592,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../6ED.rst:232
 msgid ""
@@ -731,7 +733,7 @@ msgstr ""
 
 #: ../../6ED.rst:287
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../6ED.rst:292
 msgid ""
@@ -883,7 +885,7 @@ msgstr ""
 
 #: ../../6ED.rst:355
 msgid "Target player draws two cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty."
 
 #: ../../6ED.rst:360
 msgid ":mtgtip:`Juxtapose<https://img.scryfall.com/cards/border_crop/en/6ed/77.jpg?1517813031|https://scryfall.com/card/6ed/77/juxtapose?utm_source=api>`"
@@ -1106,7 +1108,7 @@ msgstr ""
 
 #: ../../6ED.rst:437
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../6ED.rst:444
 msgid ""
@@ -1760,7 +1762,7 @@ msgstr ""
 
 #: ../../6ED.rst:707
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../6ED.rst:712
 msgid ""
@@ -2065,7 +2067,7 @@ msgstr ""
 
 #: ../../6ED.rst:837
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../6ED.rst:842
 msgid ""
@@ -2287,6 +2289,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../6ED.rst:920
 msgid ""
@@ -2384,7 +2388,7 @@ msgstr ""
 
 #: ../../6ED.rst:953
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../6ED.rst:958
 msgid ""
@@ -2460,7 +2464,7 @@ msgstr ""
 
 #: ../../6ED.rst:991 ../../6ED.rst:1441
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../6ED.rst:996
 msgid ""
@@ -2699,7 +2703,7 @@ msgstr ""
 
 #: ../../6ED.rst:1079 ../../6ED.rst:1347 ../../6ED.rst:1469
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../6ED.rst:1086
 msgid ":mtgtip:`Lure<https://img.scryfall.com/cards/border_crop/en/6ed/240.jpg?1517813031|https://scryfall.com/card/6ed/240/lure?utm_source=api>`"
@@ -3104,7 +3108,7 @@ msgstr ""
 
 #: ../../6ED.rst:1243 ../../6ED.rst:1461
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../6ED.rst:1248
 msgid ""
@@ -3290,6 +3294,8 @@ msgid ""
 "Whenever a player casts a white spell, you may pay |mana_1|. If you do, "
 "you gain 1 life."
 msgstr ""
+"Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
+"to zrobisz, zyskujesz 1 życie."
 
 #: ../../6ED.rst:1310
 msgid ""
@@ -3324,7 +3330,7 @@ msgstr ""
 
 #: ../../6ED.rst:1317
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../6ED.rst:1322
 msgid ""
@@ -3353,7 +3359,7 @@ msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../6ED.rst:1327
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../6ED.rst:1334
 msgid ""

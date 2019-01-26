@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/9ed/pl/>\n"
 "Language: pl\n"
@@ -447,7 +447,7 @@ msgstr ""
 
 #: ../../9ED.rst:177
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../9ED.rst:182
 msgid ""
@@ -486,6 +486,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../9ED.rst:196
 msgid ""
@@ -587,7 +589,7 @@ msgstr ""
 
 #: ../../9ED.rst:227
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../9ED.rst:232
 msgid ""
@@ -886,7 +888,7 @@ msgstr ""
 
 #: ../../9ED.rst:343
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../9ED.rst:348
 msgid ":mtgtip:`Cowardice<https://img.scryfall.com/cards/border_crop/en/9ed/70.jpg?1517813031|https://scryfall.com/card/9ed/70/cowardice?utm_source=api>`"
@@ -927,7 +929,7 @@ msgstr ""
 
 #: ../../9ED.rst:361
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../9ED.rst:366
 msgid ""
@@ -1123,7 +1125,7 @@ msgstr ""
 
 #: ../../9ED.rst:447
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../9ED.rst:452
 msgid ":mtgtip:`Rewind<https://img.scryfall.com/cards/border_crop/en/9ed/94.jpg?1517813031|https://scryfall.com/card/9ed/94/rewind?utm_source=api>`"
@@ -1834,7 +1836,7 @@ msgstr ""
 
 #: ../../9ED.rst:731
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../9ED.rst:736
 msgid ""
@@ -2075,7 +2077,7 @@ msgstr ""
 
 #: ../../9ED.rst:835
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../9ED.rst:840
 msgid ":mtgtip:`Enrage<https://img.scryfall.com/cards/border_crop/en/9ed/180.jpg?1517813031|https://scryfall.com/card/9ed/180/enrage?utm_source=api>`"
@@ -2216,6 +2218,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../9ED.rst:894
 msgid ""
@@ -2545,7 +2549,7 @@ msgstr ""
 
 #: ../../9ED.rst:1025
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../9ED.rst:1030
 msgid ""
@@ -2875,7 +2879,7 @@ msgstr ""
 
 #: ../../9ED.rst:1153
 msgid "|tap|: Untap target land."
-msgstr ""
+msgstr "|tap|: Odkręć wskazany ląd."
 
 #: ../../9ED.rst:1158
 msgid ""
@@ -2899,7 +2903,7 @@ msgstr ""
 
 #: ../../9ED.rst:1161
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../9ED.rst:1166
 msgid ":mtgtip:`Maro<https://img.scryfall.com/cards/border_crop/en/9ed/254.jpg?1517813031|https://scryfall.com/card/9ed/254/maro?utm_source=api>`"
@@ -2950,7 +2954,7 @@ msgstr ""
 
 #: ../../9ED.rst:1181
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../9ED.rst:1186
 msgid ""
@@ -3080,7 +3084,7 @@ msgstr ""
 
 #: ../../9ED.rst:1237
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../9ED.rst:1239
 msgid ""
@@ -3146,7 +3150,7 @@ msgstr ""
 
 #: ../../9ED.rst:1265
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../9ED.rst:1270
 msgid ""
@@ -3600,6 +3604,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../9ED.rst:1432
 msgid ""

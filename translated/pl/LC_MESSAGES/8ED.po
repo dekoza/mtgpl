@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/8ed/pl/>\n"
 "Language: pl\n"
@@ -290,7 +290,7 @@ msgstr ""
 
 #: ../../8ED.rst:115 ../../8ED.rst:237
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../8ED.rst:120
 msgid ""
@@ -481,7 +481,7 @@ msgstr ""
 
 #: ../../8ED.rst:187
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../8ED.rst:192
 msgid ""
@@ -517,6 +517,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../8ED.rst:206
 msgid ":mtgtip:`Redeem<https://img.scryfall.com/cards/border_crop/en/8ed/37.jpg?1517813031|https://scryfall.com/card/8ed/37/redeem?utm_source=api>`"
@@ -915,7 +917,7 @@ msgstr ""
 
 #: ../../8ED.rst:375
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../8ED.rst:380
 msgid ":mtgtip:`Evacuation<https://img.scryfall.com/cards/border_crop/en/8ed/76.jpg?1517813031|https://scryfall.com/card/8ed/76/evacuation?utm_source=api>`"
@@ -1000,7 +1002,7 @@ msgstr ""
 
 #: ../../8ED.rst:419
 msgid "Target player draws two cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty."
 
 #: ../../8ED.rst:426
 msgid ""
@@ -1110,7 +1112,7 @@ msgstr ""
 
 #: ../../8ED.rst:463
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../8ED.rst:468
 msgid ":mtgtip:`Rewind<https://img.scryfall.com/cards/border_crop/en/8ed/96.jpg?1517813031|https://scryfall.com/card/8ed/96/rewind?utm_source=api>`"
@@ -1818,7 +1820,7 @@ msgstr ""
 
 #: ../../8ED.rst:747
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../8ED.rst:752
 msgid ""
@@ -2081,7 +2083,7 @@ msgstr ""
 
 #: ../../8ED.rst:853
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../8ED.rst:855
 msgid "When Cinder Wall blocks, destroy it at end of combat."
@@ -2093,7 +2095,7 @@ msgstr ""
 
 #: ../../8ED.rst:859
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../8ED.rst:864
 msgid ""
@@ -2147,6 +2149,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../8ED.rst:886
 msgid ""
@@ -2552,7 +2556,7 @@ msgstr ""
 
 #: ../../8ED.rst:1043
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../8ED.rst:1048
 msgid ""
@@ -2649,7 +2653,7 @@ msgstr ""
 
 #: ../../8ED.rst:1085 ../../8ED.rst:1475
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../8ED.rst:1092
 msgid ""
@@ -3041,7 +3045,7 @@ msgstr ""
 
 #: ../../8ED.rst:1241
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../8ED.rst:1244
 msgid ""
@@ -3239,7 +3243,7 @@ msgstr ""
 
 #: ../../8ED.rst:1321
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../8ED.rst:1326
 msgid ""
@@ -3250,7 +3254,7 @@ msgstr ""
 
 #: ../../8ED.rst:1325
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../8ED.rst:1330
 msgid ""
@@ -3476,6 +3480,8 @@ msgid ""
 "Whenever a player casts a white spell, you may pay |mana_1|. If you do, "
 "you gain 1 life."
 msgstr ""
+"Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
+"to zrobisz, zyskujesz 1 życie."
 
 #: ../../8ED.rst:1402
 msgid ""
@@ -3486,7 +3492,7 @@ msgstr ""
 
 #: ../../8ED.rst:1401
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../8ED.rst:1406
 msgid ":mtgtip:`Millstone<https://img.scryfall.com/cards/border_crop/en/8ed/307.jpg?1517813031|https://scryfall.com/card/8ed/307/millstone?utm_source=api>`"

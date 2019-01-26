@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 12:43+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/som/pl/>\n"
 "Language: pl\n"
@@ -407,7 +407,7 @@ msgstr ""
 
 #: ../../SOM.rst:149
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../SOM.rst:156
 msgid ""
@@ -635,7 +635,7 @@ msgstr ""
 
 #: ../../SOM.rst:237
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../SOM.rst:244
 msgid ":mtgtip:`Thrummingbird<https://img.scryfall.com/cards/border_crop/en/som/47.jpg?1517813031|https://scryfall.com/card/som/47/thrummingbird?utm_source=api>`"
@@ -840,7 +840,7 @@ msgstr ""
 
 #: ../../SOM.rst:317
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../SOM.rst:319
 msgid ""
@@ -1437,7 +1437,7 @@ msgstr ""
 
 #: ../../SOM.rst:543
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../SOM.rst:545
 msgid ""
@@ -1678,7 +1678,7 @@ msgstr ""
 
 #: ../../SOM.rst:639
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../SOM.rst:648
 msgid ""
@@ -1852,7 +1852,7 @@ msgstr ""
 #: ../../SOM.rst:707 ../../SOM.rst:713 ../../SOM.rst:765 ../../SOM.rst:841
 #: ../../SOM.rst:895 ../../SOM.rst:1091
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../SOM.rst:714
 msgid ""
@@ -2330,7 +2330,7 @@ msgstr ""
 
 #: ../../SOM.rst:885
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../SOM.rst:890
 msgid ""
@@ -3135,7 +3135,7 @@ msgstr ""
 
 #: ../../SOM.rst:1175
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../SOM.rst:1177
 msgid ""

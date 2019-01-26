@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-26 13:37+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mma/pl/>\n"
 "Language: pl\n"
@@ -164,7 +164,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../MMA.rst:51
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../MMA.rst:58
 msgid ""
@@ -611,7 +611,7 @@ msgstr ""
 
 #: ../../MMA.rst:211 ../../MMA.rst:321 ../../MMA.rst:393
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../MMA.rst:213
 msgid "Return target permanent to its owner's hand."
@@ -1463,7 +1463,7 @@ msgstr ""
 
 #: ../../MMA.rst:557
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../MMA.rst:559
 msgid ""
@@ -2057,6 +2057,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../MMA.rst:784
 msgid ""
@@ -2284,7 +2286,7 @@ msgstr ""
 
 #: ../../MMA.rst:855
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../MMA.rst:862
 msgid ""
@@ -2367,7 +2369,7 @@ msgstr ""
 
 #: ../../MMA.rst:885
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../MMA.rst:887
 msgid ""
@@ -2573,7 +2575,7 @@ msgstr ""
 
 #: ../../MMA.rst:959
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../MMA.rst:961
 msgid ""
@@ -3260,7 +3262,7 @@ msgstr ""
 
 #: ../../MMA.rst:1227 ../../MMA.rst:1241 ../../MMA.rst:1249
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../MMA.rst:1234
 msgid ""
@@ -3384,7 +3386,7 @@ msgstr ""
 
 #: ../../MMA.rst:1281 ../../MMA.rst:1323
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../MMA.rst:1290
 msgid ":mtgtip:`Glimmervoid<https://img.scryfall.com/cards/border_crop/en/mma/223.jpg?1517813031|https://scryfall.com/card/mma/223/glimmervoid?utm_source=api>`"

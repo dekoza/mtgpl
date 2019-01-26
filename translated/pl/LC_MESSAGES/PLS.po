@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/pls/pl/>\n"
 "Language: pl\n"
@@ -538,7 +538,7 @@ msgstr ""
 
 #: ../../PLS.rst:191
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../PLS.rst:193
 msgid ""
@@ -658,7 +658,7 @@ msgstr ""
 
 #: ../../PLS.rst:233 ../../PLS.rst:239
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../PLS.rst:235
 msgid ""
@@ -947,7 +947,7 @@ msgstr ""
 
 #: ../../PLS.rst:339
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../PLS.rst:348
 msgid ":mtgtip:`Insolence<https://img.scryfall.com/cards/border_crop/en/pls/63.jpg?1517813031|https://scryfall.com/card/pls/63/insolence?utm_source=api>`"
@@ -1483,7 +1483,7 @@ msgstr ""
 
 #: ../../PLS.rst:539
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../PLS.rst:541
 msgid "Darigaaz's Charm deals 3 damage to any target."
@@ -1568,7 +1568,7 @@ msgstr "Zyskujesz 5 żyć."
 
 #: ../../PLS.rst:573
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../PLS.rst:575
 msgid "Target creature gets -2/-2 until end of turn."
@@ -1720,11 +1720,11 @@ msgstr ""
 
 #: ../../PLS.rst:631
 msgid "As Meddling Mage enters the battlefield, choose a nonland card name."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu walki wybierz nazwę nielądowej karty."
 
 #: ../../PLS.rst:633
 msgid "Spells with the chosen name can't be cast."
-msgstr ""
+msgstr "Czary o wybranej nazwie nie mogą być rzucane."
 
 #: ../../PLS.rst:640
 msgid ""
@@ -1970,7 +1970,7 @@ msgstr ""
 
 #: ../../PLS.rst:733
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../PLS.rst:740
 msgid ""

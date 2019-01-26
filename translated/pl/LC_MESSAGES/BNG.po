@@ -2,13 +2,14 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 06:26+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -815,7 +816,7 @@ msgstr "Kiedy Sidła Wieczności wchodzą na pole walki, dobierz kartę."
 # 209c6fc406084fb1a47f761ed0a99140
 #: ../../BNG.rst:203
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../BNG.rst:210
 msgid ""

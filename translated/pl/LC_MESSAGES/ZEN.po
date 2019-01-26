@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-23 14:27+0000\n"
+"PO-Revision-Date: 2019-01-26 21:48+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/zen/pl/>\n"
 "Language: pl\n"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: ../../ZEN.rst:51
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../ZEN.rst:58
 msgid ""
@@ -432,7 +432,7 @@ msgstr ""
 
 #: ../../ZEN.rst:143 ../../ZEN.rst:345
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../ZEN.rst:145
 msgid ""
@@ -694,7 +694,7 @@ msgstr ""
 
 #: ../../ZEN.rst:235
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../ZEN.rst:240
 msgid ""
@@ -900,7 +900,7 @@ msgstr ""
 
 #: ../../ZEN.rst:311
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../ZEN.rst:318
 msgid ""
@@ -1366,6 +1366,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../ZEN.rst:494
 msgid ""
@@ -1380,7 +1382,7 @@ msgstr ""
 
 #: ../../ZEN.rst:491
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../ZEN.rst:493
 msgid "Return target land card from your graveyard to your hand."
@@ -1837,7 +1839,7 @@ msgstr ""
 
 #: ../../ZEN.rst:655
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../ZEN.rst:660
 msgid ":mtgtip:`Electropotence<https://img.scryfall.com/cards/border_crop/en/zen/122.jpg?1517813031|https://scryfall.com/card/zen/122/electropotence?utm_source=api>`"
@@ -3121,6 +3123,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../ZEN.rst:1110
 msgid ""
@@ -3144,7 +3148,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1117 ../../ZEN.rst:1123
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../ZEN.rst:1124
 msgid ""
@@ -3203,7 +3207,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1141 ../../ZEN.rst:1217
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../ZEN.rst:1143
 msgid ""
