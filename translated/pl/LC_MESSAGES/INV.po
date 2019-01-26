@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-26 22:20+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/inv/pl/>\n"
 "Language: pl\n"
@@ -326,6 +326,7 @@ msgstr ""
 #: ../../INV.rst:109 ../../INV.rst:1149
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
 
 #: ../../INV.rst:114
 msgid ":mtgtip:`Liberate<https://img.scryfall.com/cards/border_crop/en/inv/21.jpg?1517813031|https://scryfall.com/card/inv/21/liberate?utm_source=api>`"
@@ -821,7 +822,7 @@ msgstr ""
 
 #: ../../INV.rst:293
 msgid "Enchant permanent"
-msgstr ""
+msgstr "Zaurocz permanent"
 
 #: ../../INV.rst:295
 msgid ""

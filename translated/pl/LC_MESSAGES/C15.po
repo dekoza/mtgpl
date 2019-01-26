@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-26 22:20+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -1144,17 +1144,19 @@ msgstr ""
 
 #: ../../C15.rst:423
 msgid "Enchant permanent"
-msgstr ""
+msgstr "Zaurocz permanent"
 
 #: ../../C15.rst:425
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 4 życia."
 
 #: ../../C15.rst:427
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated unless they're mana abilities."
 msgstr ""
+"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
+"zdolności nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../C15.rst:436
 msgid ""

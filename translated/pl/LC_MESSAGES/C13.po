@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-26 22:20+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -252,6 +252,7 @@ msgid ""
 "When Fiend Hunter enters the battlefield, you may exile another target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki możesz wygnać innego wskazanego stwora."
 
 # e21b4e8dd33046ebb69949c1e6c8d8c4
 #: ../../C13.rst:69
@@ -259,6 +260,8 @@ msgid ""
 "When Fiend Hunter leaves the battlefield, return the exiled card to the "
 "battlefield under its owner's control."
 msgstr ""
+"Kiedy ten stwór opuści pole walki, przywróć wygnaną kartę na pole walki pod "
+"władaniem jej właściciela."
 
 #: ../../C13.rst:76
 msgid ""

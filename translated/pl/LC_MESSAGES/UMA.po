@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-26 21:48+0000\n"
+"PO-Revision-Date: 2019-01-26 22:20+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/uma/pl/>\n"
 "Language: pl\n"
@@ -222,6 +222,8 @@ msgid ""
 "When Ancestor's Chosen enters the battlefield, you gain 1 life for each "
 "card in your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskujesz 1 życie za każdą kartę w "
+"twoim cmentarzu."
 
 #: ../../UMA.rst:74
 msgid ""
@@ -236,6 +238,8 @@ msgid ""
 "may sacrifice Angelic Renewal. If you do, return that card to the "
 "battlefield."
 msgstr ""
+"Ilekroć stwór jest umieszczany w twoim cmentarzu z pola walki, możesz "
+"poświęcić ten urok. Jeśli tak zrobisz, przywróć ową kartę na pole walki."
 
 #: ../../UMA.rst:80
 msgid ""
@@ -256,6 +260,8 @@ msgid ""
 "If a nontoken creature would enter the battlefield and it wasn't cast, "
 "exile it instead."
 msgstr ""
+"Jeśli nieżetonowy stwór miałby wejść na pole walki, a nie został rzucony, "
+"zamiast tego wygnaj go."
 
 #: ../../UMA.rst:88
 msgid ":mtgtip:`Conviction<https://img.scryfall.com/cards/border_crop/front/9/4/94507660-cf60-4fd8-a796-7a6e6f28396d.jpg?1547228302|https://scryfall.com/card/uma/12/conviction?utm_source=api>`"
@@ -267,7 +273,7 @@ msgstr "Zauroczony stwór dostaje +1/+3."
 
 #: ../../UMA.rst:87
 msgid "|mana_w|: Return Conviction to its owner's hand."
-msgstr ""
+msgstr "|mana_w|: Przywróć ten urok do ręki właściciela."
 
 #: ../../UMA.rst:98
 msgid ""
@@ -284,14 +290,15 @@ msgstr "Wybierz jedno —"
 #: ../../UMA.rst:93
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
 
 #: ../../UMA.rst:95
 msgid "Regenerate target creature."
-msgstr ""
+msgstr "Zregeneruj wskazanego stwora."
 
 #: ../../UMA.rst:97
 msgid "Counter target spell that targets you."
-msgstr ""
+msgstr "Skontruj wskazany czar, który wskazuje ciebie."
 
 #: ../../UMA.rst:104
 msgid ""
@@ -304,7 +311,7 @@ msgstr ""
 
 #: ../../UMA.rst:101
 msgid "Enchant creature with another Aura attached to it"
-msgstr ""
+msgstr "Zaurocz stwora mającego dołączoną inną Aurę"
 
 #: ../../UMA.rst:103
 msgid ""
@@ -312,6 +319,9 @@ msgid ""
 "lifelink. (Damage dealt by the creature also causes its controller to "
 "gain that much life.)"
 msgstr ""
+"Zauroczony stwór dostaje +3/+3 i ma pierwszy cios, czujność i więź życia. ("
+"Zadane przez niego obrażenia dodatkowo sprawiają, że jego władca zyskuje "
+"tyle samo życia.)"
 
 #: ../../UMA.rst:110
 msgid ""
@@ -332,6 +342,8 @@ msgid ""
 "When Emancipation Angel enters the battlefield, return a permanent you "
 "control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć permanent pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../UMA.rst:118
 msgid ""
@@ -343,17 +355,19 @@ msgstr ""
 
 #: ../../UMA.rst:113
 msgid "Enchant permanent"
-msgstr ""
+msgstr "Zaurocz permanent"
 
 #: ../../UMA.rst:115
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 4 życia."
 
 #: ../../UMA.rst:117
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities "
 "can't be activated unless they're mana abilities."
 msgstr ""
+"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
+"zdolności nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../UMA.rst:124
 msgid ""
@@ -368,12 +382,15 @@ msgid ""
 "When Fiend Hunter enters the battlefield, you may exile another target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki możesz wygnać innego wskazanego stwora."
 
 #: ../../UMA.rst:123
 msgid ""
 "When Fiend Hunter leaves the battlefield, return the exiled card to the "
 "battlefield under its owner's control."
 msgstr ""
+"Kiedy ten stwór opuści pole walki, przywróć wygnaną kartę na pole walki pod "
+"władaniem jej właściciela."
 
 #: ../../UMA.rst:128
 msgid ""
@@ -390,6 +407,9 @@ msgid ""
 "choice until end of turn. Scry 1. (Look at the top card of your library. "
 "You may put that card on the bottom of your library.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje ochronę przed wybranym kolorem do "
+"końca tury. Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
+"umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../UMA.rst:132
 msgid ""
@@ -404,6 +424,9 @@ msgid ""
 " for an Aura card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę Aury, ujawnić ją, umieścić w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../UMA.rst:138
 msgid ""
@@ -415,13 +438,15 @@ msgstr ""
 
 #: ../../UMA.rst:135
 msgid "Aura spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Aur kosztuje cię o |mana_1| mniej."
 
 #: ../../UMA.rst:137
 msgid ""
 "Heroic — Whenever you cast a spell that targets Hero of Iroas, put a "
 "+1/+1 counter on Hero of Iroas."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący na tego stwora, umieść na nim "
+"znacznik +1/+1."
 
 #: ../../UMA.rst:146
 msgid ""
@@ -433,7 +458,7 @@ msgstr ""
 
 #: ../../UMA.rst:143
 msgid "Enchanted creature gets +1/+1 and has first strike."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma pierwszy cios."
 
 #: ../../UMA.rst:145 ../../UMA.rst:163 ../../UMA.rst:319 ../../UMA.rst:867
 #: ../../UMA.rst:993 ../../UMA.rst:1007

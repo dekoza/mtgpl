@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-26 22:20+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ema/pl/>\n"
 "Language: pl\n"
@@ -167,17 +167,19 @@ msgstr ""
 
 #: ../../EMA.rst:55
 msgid "Enchant permanent"
-msgstr ""
+msgstr "Zaurocz permanent"
 
 #: ../../EMA.rst:57
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 4 życia."
 
 #: ../../EMA.rst:59
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities "
 "can't be activated unless they're mana abilities."
 msgstr ""
+"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
+"zdolności nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../EMA.rst:64
 msgid ""
@@ -2314,6 +2316,7 @@ msgstr ""
 #: ../../EMA.rst:883
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
 
 #: ../../EMA.rst:892
 msgid ""

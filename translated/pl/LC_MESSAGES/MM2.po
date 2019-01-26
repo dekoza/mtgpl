@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-26 21:48+0000\n"
+"PO-Revision-Date: 2019-01-26 22:20+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -251,11 +251,14 @@ msgstr ""
 
 #: ../../MM2.rst:95
 msgid "Enchant creature with another Aura attached to it"
-msgstr ""
+msgstr "Zaurocz stwora mającego dołączoną inną Aurę"
 
 #: ../../MM2.rst:97
 msgid "Enchanted creature gets +3/+3 and has first strike, vigilance, and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
+"Zauroczony stwór dostaje +3/+3 i ma pierwszy cios, czujność i więź życia. ("
+"Zadane przez niego obrażenia dodatkowo sprawiają, że jego władca zyskuje "
+"tyle samo życia.)"
 
 #: ../../MM2.rst:104
 msgid ":mtgtip:`Dispatch<https://img.scryfall.com/cards/border_crop/en/mm2/15.jpg?1517813031|https://scryfall.com/card/mm2/15/dispatch?utm_source=api>`"

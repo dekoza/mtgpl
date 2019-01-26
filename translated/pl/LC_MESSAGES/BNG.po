@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-26 22:20+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
@@ -447,13 +447,12 @@ msgstr "Rzucanie czarów Aur kosztuje cię o |mana_1| mniej."
 # c4f3211d4c56422db3ff2f2dda2d9a62
 # aa2cd02b479f41539bf2fbd558880f4a
 #: ../../BNG.rst:99
-#, fuzzy
 msgid ""
 "Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 "
 "counter on Hero of Iroas."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Hero of Iroas, umieść znacznik +1/"
-"+1 na Hero of Iroas."
+"Heroizm — Ilekroć rzucasz czar wskazujący na tego stwora, umieść na nim "
+"znacznik +1/+1."
 
 #: ../../BNG.rst:104
 msgid ""

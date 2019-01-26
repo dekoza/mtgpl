@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-26 22:20+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lea/pl/>\n"
 "Language: pl\n"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: ../../LEA.rst:87
 msgid "Regenerate target creature."
-msgstr ""
+msgstr "Zregeneruj wskazanego stwora."
 
 #: ../../LEA.rst:92
 msgid ":mtgtip:`Disenchant<https://img.scryfall.com/cards/border_crop/en/lea/18.jpg?1525123229|https://scryfall.com/card/lea/18/disenchant?utm_source=api>`"
@@ -2409,6 +2409,7 @@ msgstr ""
 #: ../../LEA.rst:969
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
 
 #: ../../LEA.rst:976
 msgid ""
