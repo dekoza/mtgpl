@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/aer/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -736,6 +736,8 @@ msgid ""
 "Whenever Salvage Scuttler attacks, return an artifact you control to its "
 "owner's hand."
 msgstr ""
+"Ilekroć ten stwór atakuje, zwróć artefakt pod twoim władaniem do ręki jego "
+"właściciela."
 
 #: ../../AER.rst:252
 msgid ""
@@ -750,11 +752,11 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../AER.rst:249
 msgid "Whenever Shielded Aether Thief blocks, you get {E} (an energy counter)."
-msgstr ""
+msgstr "Ilekroć ten stwór blokuje, dostajesz {E} (znacznik energii)."
 
 #: ../../AER.rst:251
 msgid "|tap|, Pay {E}{E}{E}: Draw a card."
-msgstr ""
+msgstr "|tap|, zapłać {E}{E}{E}: Dobierz kartę."
 
 #: ../../AER.rst:258
 msgid ""
@@ -764,15 +766,16 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:255
-#, fuzzy
 msgid ""
 "When Shipwreck Moray enters the battlefield, you get {E}{E}{E}{E} (four "
 "energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dostajesz {E}{E}{E}{E} (cztery "
+"znaczniki energii)."
 
 #: ../../AER.rst:257
 msgid "Pay {E}: Shipwreck Moray gets +2/-2 until end of turn."
-msgstr ""
+msgstr "Zapłać {E}: Ten stwór dostaje +2/-2 do końca tury."
 
 #: ../../AER.rst:264
 msgid ""
@@ -816,6 +819,9 @@ msgid ""
 "artifact card with converted mana cost 3, reveal it, put it into your hand, "
 "then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz poszukać w swojej bibliotece "
+"karty artefaktu o skróconym koszcie many 3, ujawnić ją i umieścić ją w "
+"swojej ręce, a następnie przetasować swoją bibliotekę."
 
 #: ../../AER.rst:278
 msgid ""
@@ -829,6 +835,8 @@ msgid ""
 "Search your library for an artifact card with converted mana cost X or less, "
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
+"Poszukaj w swojej bibliotece karty artefaktu o skróconym koszcie many X lub "
+"mniejszym, umieść ją na polu walki, a następnie przetasuj swoją bibliotekę."
 
 #: ../../AER.rst:284
 msgid ""
@@ -853,20 +861,20 @@ msgstr ""
 "wystarcza, aby został zniszczony.)"
 
 #: ../../AER.rst:289
-#, fuzzy
 msgid ""
 "When Aether Poisoner enters the battlefield, you get {E}{E} (two energy "
 "counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dostajesz {E}{E} (dwa znaczniki "
+"energii)."
 
 #: ../../AER.rst:291
-#, fuzzy
 msgid ""
 "Whenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a "
 "1/1 colorless Servo artifact creature token."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
-"stwora Thopter 1/1 z lataniem."
+"Ilekroć ten stwór atakuje, możesz zapłacić {E}{E}. Jeśli to zrobisz, stwórz "
+"żeton bezkolorowego artefaktycznego stwora Serwo 1/1."
 
 #: ../../AER.rst:296
 msgid ""
@@ -888,7 +896,7 @@ msgstr ""
 
 #: ../../AER.rst:301
 msgid "Target creature gets -X/-X until end of turn. You gain X life."
-msgstr ""
+msgstr "Wskazany stwór dostaje -X/-X do końca tury. Dostajesz X żyć."
 
 #: ../../AER.rst:306
 msgid ""
@@ -902,6 +910,8 @@ msgid ""
 "Target creature gets -2/-2 until end of turn. Scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Wskazany stwór dostaje -2/-2 do końca tury. Wróż 1. (Spójrz na wierzchnią "
+"kartę swojej biblioteki. Możesz umieścić ją na spodzie swojej biblioteki.)"
 
 #: ../../AER.rst:310
 msgid ""
@@ -912,7 +922,7 @@ msgstr ""
 
 #: ../../AER.rst:309
 msgid "Destroy target creature or Vehicle."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub Pojazd."
 
 #: ../../AER.rst:314
 msgid ""
@@ -926,6 +936,8 @@ msgid ""
 "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"Poświęć artefakt lub stwora: Połóż znacznik +1/+1 na tym stworze. Aktywuj tę "
+"zdolność tylko wtedy, gdy możesz rzucić obrzęd."
 
 #: ../../AER.rst:320
 msgid ""
@@ -937,12 +949,17 @@ msgstr ""
 #: ../../AER.rst:317
 msgid "Destroy target creature if it has converted mana cost 2 or less."
 msgstr ""
+"Zniszcz wskazanego stwora, jeśli jego skrócony koszt many jest mniejszy lub "
+"równy 2."
 
 #: ../../AER.rst:319
 msgid ""
 "Revolt — Destroy that creature if it has converted mana cost 4 or less "
 "instead if a permanent you controlled left the battlefield this turn."
 msgstr ""
+"Rewolta -  Jeśli permanent pod twoim władaniem opuścił pole walki w tej "
+"turze, zamiast tego zniszcz owego stwora, jeśli jego skrócony koszt many "
+"jest mniejszy lub równy 4."
 
 #: ../../AER.rst:326
 msgid ""
@@ -953,7 +970,7 @@ msgstr ""
 
 #: ../../AER.rst:325
 msgid "Fen Hauler can't be blocked by artifact creatures."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez artefaktyczne stwory."
 
 #: ../../AER.rst:332
 msgid ""
@@ -968,6 +985,8 @@ msgid ""
 "+1/+1 counter on it, creatures your opponents control get -1/-1 until end of "
 "turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz stworem ze znacznikiem +"
+"1/+1, stwory pod władaniem twoich przeciwników dostają -1/-1 do końca tury."
 
 #: ../../AER.rst:336
 msgid ""
