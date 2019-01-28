@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"PO-Revision-Date: 2019-01-28 10:58+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -36,9 +36,10 @@ msgid ""
 "Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature "
 "with lifelink also causes its controller to gain that much life.)"
 msgstr ""
-"Batalion — Ilekroć ten stwór i co najmniej dwa inne stwory atakują, "
-"niniejszy stwór zyskuje więź życia do końca tury. (Obrażenia zadane przez "
-"stwora z więzią życia powodują, że jego władca zyskuje tyle samo życia.)"
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór zyskuje więź życia do końca tury. (Obrażenia "
+"zadane przez stwora z więzią życia powodują, że jego władca zyskuje tyle "
+"samo życia.)"
 
 #: ../../DGM.rst:14
 msgid ""
@@ -784,9 +785,9 @@ msgid ""
 "creature an opponent controls. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem posiadający znacznik +1/+1 bije się ze "
-"wskazanym stworem władanym przez przeciwnika. (Każdy zadaje drugiemu "
-"obrażenia równe swojej sile.)"
+"Wskazany stwór pod twoim władaniem mający znacznik +1/+1 walczy ze wskazanym "
+"stworem pod władaniem przeciwnika. (Zadają sobie nawzajem obrażenia równe "
+"swojej sile.)"
 
 #: ../../DGM.rst:230
 msgid ""
@@ -797,7 +798,7 @@ msgstr ""
 # 0d6fc97d8e1a4893b2fcfc7faa12fd20
 #: ../../DGM.rst:229
 msgid "Target creature gets +5/+5 until end of turn."
-msgstr "Wskazany stwór dostaje +5/+5 do końa tury."
+msgstr "Wskazany stwór dostaje +5/+5 do końca tury."
 
 #: ../../DGM.rst:236
 msgid ""
@@ -828,8 +829,8 @@ msgid ""
 "When Saruli Gatekeepers enters the battlefield, if you control two or more "
 "Gates, you gain 7 life."
 msgstr ""
-"Kiedy Saruli Gatekeepers wchodzi na pole walki, jeśli władasz przynajmniej "
-"dwiema Bramami zyskujesz 7 życia."
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz przynajmniej dwiema "
+"Bramami, zyskujesz 7 życia."
 
 #: ../../DGM.rst:248
 msgid ""
@@ -907,8 +908,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
-"władane przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../DGM.rst:272
 msgid ""
@@ -919,13 +920,12 @@ msgstr ""
 
 # a0ae77b4f50c4350b524dba878ba2d81
 #: ../../DGM.rst:271
-#, fuzzy
 msgid ""
 "|mana_g|\\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end "
 "of turn. Activate this ability only once each turn."
 msgstr ""
-"|mana_g|\\ |mana_u|: Żukokształtny Mag dostaje +2/+2 oraz latanie do końca "
-"tury. Aktywuj tę zdolność tylko raz na turę."
+"|mana_g|\\ |mana_u|: Ten stwór dostaje do końca tury +2/+2 oraz latanie. "
+"Aktywuj tę zdolność tylko raz na turę."
 
 #: ../../DGM.rst:276
 msgid ""
@@ -936,15 +936,14 @@ msgstr ""
 
 # a505e314cc604dac86b2965c5a3cfe85
 #: ../../DGM.rst:275
-#, fuzzy
 msgid ""
 "Choose any target. Draw three cards, then discard a card. Blast of Genius "
 "deals damage equal to the discarded card's converted mana cost to that "
 "permanent or player."
 msgstr ""
-"Wskaż stwora lub gracza. Dobierz trzy karty, a następnie odrzuć jedną kartę. "
-"Wybuch Geniuszu zadaje obrażenia równe łącznemu kosztowi odrzuconej karty w "
-"owego stwora lub gracza."
+"Wskaż dowolny cel. Dobierz trzy karty, następnie odrzuć kartę. Ten czar "
+"zadaje owemu celowi obrażenia równe skróconemu kosztowi many odrzuconej "
+"karty."
 
 #: ../../DGM.rst:280
 msgid ""
@@ -955,13 +954,12 @@ msgstr ""
 
 # cdae3396d816423a8f73a86f5eeeb16e
 #: ../../DGM.rst:279
-#, fuzzy
 msgid ""
 "Whenever an instant or sorcery spell you control deals damage, create two "
 "1/1 red and white Soldier creature tokens with haste."
 msgstr ""
 "Ilekroć czar sztuczki lub obrzędu pod twoim władaniem zada obrażenia, stwórz "
-"dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
+"dwa żetony czerwono-białego stwora Piechur 1/1 z pośpiechem."
 
 #: ../../DGM.rst:286
 msgid ""
@@ -974,7 +972,7 @@ msgstr ""
 # Jak wytłumaczysz "Wampiryzm" u białych stworów? Przecież to się kojarzy co najwyżej z czarnymi.
 #: ../../DGM.rst:283
 msgid "Lifelink, protection from white and from black"
-msgstr "Więź życia, ochrona przed białym i przed czarnym."
+msgstr "Więź życia, ochrona przed białym i czarnym."
 
 # 13d06793edcb418bb9490f0b2ae403f6
 #: ../../DGM.rst:285
@@ -982,8 +980,8 @@ msgid ""
 "As long as you have 30 or more life and an opponent has 10 or less life, "
 "Blood Baron of Vizkopa gets +6/+6 and has flying."
 msgstr ""
-"Dopóki posiadasz 30 lub więcej życia oraz przeciwnik posiada 10 lub mniej "
-"życia, Blood Baron of Vizkopa dostaje +6/+6 oraz latanie."
+"O ile masz co najmniej 30 żyć oraz przeciwnik ma co najwyżej 10 żyć, ten "
+"stwór dostaje +6/+6 i ma latanie."
 
 #: ../../DGM.rst:290
 msgid ""
@@ -999,8 +997,8 @@ msgid ""
 "this combat if able and up to one target creature can't attack or block this "
 "combat."
 msgstr ""
-"Na początku każdej walki, najwyżej jeden wskazany stwór atakuje lub blokuje "
-"w tej walce jeśli to możliwe i najwyżej jeden wskazany stwór nie może "
+"Na początku każdej walki, co najwyżej jeden wskazany stwór atakuje lub "
+"blokuje w tej walce, jeśli może, i co najwyżej jeden wskazany stwór nie może "
 "atakować lub blokować w tej walce."
 
 #: ../../DGM.rst:294
@@ -1032,8 +1030,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Bronzebeak Moa gets +3/+3 until end of turn."
 msgstr ""
-"Ilekroć jakiś inny stwór wchodzi na pole walki pod twoim władaniem, "
-"Bronzebeak Moa dostaje +3/+3 do końca tury."
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, ten stwór "
+"dostaje do końca tury +3/+3."
 
 #: ../../DGM.rst:304
 msgid ""
@@ -1045,13 +1043,12 @@ msgstr ""
 # ea67000317384b0c8d442dea6cc988d9
 #: ../../DGM.rst:301
 msgid "Whenever a creature blocks, that creature's controller loses 1 life."
-msgstr "Ilekroć jakiś stwór blokuje, władający nim gracz traci 1 życie."
+msgstr "Ilekroć dowolny stwór blokuje, jego władca traci 1 życie."
 
 # 1c7ee9fab1614b9ca669b00bb3ca7c11
 #: ../../DGM.rst:303
-#, fuzzy
 msgid "|mana_1|\\ |mana_b|\\ |mana_r|: Regenerate Carnage Gladiator."
-msgstr "|mana_1|\\ |mana_b|\\ |mana_r|: Zregeneruj Carnage Gladiator."
+msgstr "|mana_1|\\ |mana_b|\\ |mana_r|: Zregeneruj tego stwora."
 
 #: ../../DGM.rst:312
 msgid ""
@@ -1062,23 +1059,22 @@ msgstr ""
 
 # a00e358dd8b746e4a2e3d80da7348b15
 #: ../../DGM.rst:307
-#, fuzzy
 msgid ""
 "As Council of the Absolute enters the battlefield, choose a noncreature, "
 "nonland card name."
 msgstr ""
-"Kładąc Radę Absolutu na pole walki, nazwij kartę inną niż stwór lub ląd."
+"Umieszczając tę kartę na polu walki, wybierz nazwę karty nie będącej lądem "
+"lub stworem."
 
 # fdd015a3fa744e4abde9b67eb6c77582
 #: ../../DGM.rst:309
-#, fuzzy
 msgid "Your opponents can't cast spells with the chosen name."
-msgstr "Twoi przeciwnicy nie mogą zagrywać kart z wybraną nazwą."
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów o wybranej nazwie."
 
 # ff2094cdb6b74fbe9e81f7b0cc1897d9
 #: ../../DGM.rst:311
 msgid "Spells with the chosen name you cast cost |mana_2| less to cast."
-msgstr "Czary o wybranej nazwie, które ty rzucasz, kosztują |mana_2| mniej."
+msgstr "Rzucanie czarów o wybranej nazwie kosztuje cię o |mana_2| mniej."
 
 #: ../../DGM.rst:318
 msgid ""
@@ -1120,8 +1116,8 @@ msgid ""
 "Each opponent loses two times X life. You gain life equal to the life lost "
 "this way."
 msgstr ""
-"Każdy przeciwnik traci dwukrotność X życia. Zyskujesz życie równe życiu "
-"straconemu w ten sposób."
+"Każdy przeciwnik traci dwukrotność X żyć. Zyskujesz tyle żyć, ile zostało "
+"stracone w ten sposób."
 
 #: ../../DGM.rst:328
 msgid ""
@@ -1141,8 +1137,8 @@ msgid ""
 "When Deputy of Acquittals enters the battlefield, you may return another "
 "target creature you control to its owner's hand."
 msgstr ""
-"Kiedy Deputy of Acquittals wchodzi na pole walki, możesz wrócić innego "
-"stwora pod twoim władaniem na rękę jego właściciela."
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić innego stwora pod "
+"twoim władaniem do ręki jego właściciela."
 
 #: ../../DGM.rst:334
 msgid ""
@@ -1156,7 +1152,7 @@ msgid ""
 "Until end of turn, target creature you control becomes a blue and red Dragon "
 "with base power and toughness 4/4, loses all abilities, and gains flying."
 msgstr ""
-"Do końca tury, wskazany stwór pod twoim władaniem staje się niebiesko-"
+"Do końca tury wskazany stwór pod twoim władaniem staje się niebiesko-"
 "czerwonym Smokiem o bazowych sile i wytrzymałości 4/4, traci wszystkie "
 "zdolności i zyskuje latanie."
 
@@ -1232,7 +1228,7 @@ msgstr ""
 msgid ""
 "|mana_3|: Feral Animist gets +X/+0 until end of turn, where X is its power."
 msgstr ""
-"|mana_3|: Feral Animist dostaje +X/+0 do końca tury, gdzie X to jego siła."
+"|mana_3|: Ten stwór dostaje +X/+0 do końca tury, gdzie X jest jego siłą."
 
 #: ../../DGM.rst:360
 msgid ""
@@ -1246,8 +1242,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's "
 "power and toughness until end of turn."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, możesz do końca tury zamienić "
-"siłę i wytrzymałość Fluxchargera."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz do końca tury zamienić "
+"miejscami siłę i wytrzymałość tego stwora."
 
 #: ../../DGM.rst:364
 msgid ""
@@ -1284,11 +1280,8 @@ msgstr ""
 
 # 789de73a4974464ea9bbcf2ea5b4d08a
 #: ../../DGM.rst:373
-#, fuzzy
 msgid "|tap|: Goblin Test Pilot deals 2 damage to any target chosen at random."
-msgstr ""
-"|tap|: Goblin Test Pilot zadaje 2 obrażenia losowo wskazanemu stworowi lub "
-"graczowi."
+msgstr "|tap|: Ten stwór zadaje 2 obrażenia losowo wskazanemu celowi."
 
 #: ../../DGM.rst:378
 msgid ""
@@ -1300,7 +1293,7 @@ msgstr ""
 # d599b9f68b1142a7a130cbb301965908
 #: ../../DGM.rst:377
 msgid "Attacking creatures you control get +1/+0 and have menace."
-msgstr "Czerwone stwory pod twoim władaniem dostają +1/+0 i mają złowrogość."
+msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0 i mają złowrogość."
 
 #: ../../DGM.rst:382
 msgid ""
@@ -1332,8 +1325,7 @@ msgid ""
 "Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until "
 "end of turn."
 msgstr ""
-"Ilekroć Jelenn Sphinx atakuje, inne atakujące stwory dostają +1/+1 do końca "
-"tury."
+"Ilekroć ten stwór atakuje, inne atakujące stwory dostają +1/+1 do końca tury."
 
 #: ../../DGM.rst:394
 msgid ""
@@ -1374,13 +1366,12 @@ msgstr ""
 
 # 0fa2400824fb470590d551d3e4beadd3
 #: ../../DGM.rst:401
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_u|, Return Krasis Incubation to its owner's "
 "hand: Put two +1/+1 counters on enchanted creature."
 msgstr ""
-"|mana_1|\\ |mana_g|\\ |mana_u|, zwróć Krasis Incubation do ręki jego "
-"właściciela: Umieść dwa znaczniki +1/+1 na zauroczonym stworze."
+"|mana_1|\\ |mana_g|\\ |mana_u|, przywróć ten urok do ręki właściciela: "
+"Umieść dwa znaczniki +1/+1 na zauroczonym stworze."
 
 #: ../../DGM.rst:408
 msgid ""
@@ -1402,10 +1393,10 @@ msgid ""
 "your next turn, those permanents can't attack or block and their activated "
 "abilities can't be activated.)"
 msgstr ""
-"Kiedy Lavinia of the Tenth wchodzi na pole walki, uwięź każdy nielądowy "
-"permanent władany przez twoich przeciwników, którego łączny koszt many jest "
-"nie większy niż 4. (Do twojej następnej tury permanenty te nie mogą atakować "
-"lub blokować, a ich aktywowane zdolności nie mogą zostać aktywowane.)"
+"Kiedy ten stwór wejdzie na pole walki, uwięź każdy nielądowy permanent "
+"władany przez twoich przeciwników o skróconym koszcie many 4 lub mniejszym. ("
+"Do twojej następnej tury owe permanenty nie mogą atakować anie blokować, a "
+"ich aktywowane zdolności nie mogą zostać aktywowane.)"
 
 #: ../../DGM.rst:416
 msgid ""
@@ -1426,16 +1417,15 @@ msgstr "Białe stwory pod twoim władaniem dostają +0/+1."
 
 # f04c746e29844808bb7e5ba520ba1203
 #: ../../DGM.rst:415
-#, fuzzy
 msgid ""
 "|mana_r|\\ |mana_w|, Exile Legion's Initiative: Exile all creatures you "
 "control. At the beginning of the next combat, return those cards to the "
 "battlefield under their owner's control and those creatures gain haste until "
 "end of turn."
 msgstr ""
-"|mana_r|\\ |mana_w|, wypędź Legion's Initiative: Wygnaj wszystkie stwory, "
-"którymi władasz. Na początku następnej walki przywróć te karty na pole walki "
-"pod władzą ich właściciela. Stwory te dostają pośpiech do końca tury."
+"|mana_r|\\ |mana_w|, wygnaj ten urok: Wygnaj wszystkie stwory pod twoim "
+"władaniem. Na początku najbliższej walki przywróć owe karty na pole bitwy "
+"pod władaniem ich właścicieli. Dostają one pośpiech do końca tury."
 
 #: ../../DGM.rst:424
 msgid ""
@@ -1452,7 +1442,7 @@ msgstr "Pierwszy cios, dotyk śmierci"
 # e77eb441963d493182e2cb2eb27dc86c
 #: ../../DGM.rst:421
 msgid "Master of Cruelties can only attack alone."
-msgstr "Master of Cruelties może atakować wyłącznie sam."
+msgstr "Ten stwór może atakować wyłącznie sam."
 
 # 10798a5bd5cb470d96f6360b47178d5a
 #: ../../DGM.rst:423
@@ -1461,9 +1451,8 @@ msgid ""
 "player's life total becomes 1. Master of Cruelties assigns no combat damage "
 "this combat."
 msgstr ""
-"Ilekroć Master of Cruelties atakuje gracza i nie jest blokowany, punkty "
-"życia tego gracza stają się równe 1. Master of Cruelties nie zadaje obrażeń "
-"bojowych w tej walce."
+"Ilekroć ten stwór atakuje gracza i nie jest blokowany, liczba żyć owego "
+"gracza staje się równa 1. Ten stwór nie zadaje obrażeń bojowych w tej walce."
 
 #: ../../DGM.rst:428
 msgid ""
@@ -1506,7 +1495,7 @@ msgid ""
 "You may choose new targets for the copy."
 msgstr ""
 "Ilekroć rzucasz czar sztuczki lub obrzędu z twojej biblioteki, skopiuj ów "
-"czar. Możesz wskazać nowe cele dla owej kopii."
+"czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../DGM.rst:442
 msgid ""
@@ -1534,14 +1523,12 @@ msgstr ""
 
 # 1cda5d0600524f8ca0096e3e1e8462a2
 #: ../../DGM.rst:445
-#, fuzzy
 msgid ""
 "Return target creature card from your graveyard to your hand. Morgue Burst "
 "deals damage to any target equal to the power of the card returned this way."
 msgstr ""
-"Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. Morgue Burst "
-"zadaje wskazanemu stworowi lub graczowi obrażenia równe sile zwróconej w ten "
-"sposób karty."
+"Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. Ten czar "
+"zadaje wskazanemu celowi obrażenia równe sile zwróconej w ten sposób karty."
 
 #: ../../DGM.rst:452
 msgid ""
@@ -1556,8 +1543,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 "
 "until end of turn and can attack this turn as though it didn't have defender."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, Nivix Cyclops dostaje +3/+0 do "
-"końca tury i może atakować w tej turze, jak by nie miał obronności."
+"Ilekroć rzucasz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"3/+0 i może atakować w tej turze, jak by nie miał obronności."
 
 #: ../../DGM.rst:458
 msgid ""
@@ -1567,14 +1554,12 @@ msgstr ""
 
 # 531d0b23b9a847b799682663ea627668
 #: ../../DGM.rst:457
-#, fuzzy
 msgid ""
 "If an opponent would draw a card except the first one they draw in each of "
 "their draw steps, instead that player skips that draw and you draw a card."
 msgstr ""
-"Jeśli przeciwnik miałby dobrać kartę z wyjątkiem pierwszej, którą dobiera w "
-"swoim kroku dobierania, zamiast tego ów gracz pomija to dobieranie, a ty "
-"dobierasz kartę."
+"Jeśli przeciwnik miałby dobrać kartę oprócz pierwszej dobranej w swoim kroku "
+"dobierania, zamiast tego ów gracz pomija to dobieranie, a ty dobierasz kartę."
 
 #: ../../DGM.rst:462
 msgid ""
@@ -1596,13 +1581,12 @@ msgstr ""
 
 # 6f7a319cdc8f4dac909103bd638c7867
 #: ../../DGM.rst:465
-#, fuzzy
 msgid ""
 "Target player puts the top two cards of their library into their graveyard. "
 "Draw two cards."
 msgstr ""
-"Wskazany gracz wkłada dwie wierzchnie karty swojej biblioteki do swojego "
-"cmentarza. Dobierz dwie karty."
+"Wskazany gracz umieszcza dwie wierzchnie karty swojej biblioteki w swoim "
+"cmentarzu. Dobierz dwie karty."
 
 #: ../../DGM.rst:470
 msgid ""
@@ -1613,15 +1597,14 @@ msgstr ""
 
 # a8cf8a8d5dd04d8eb3b6a7d78d3cb533
 #: ../../DGM.rst:469
-#, fuzzy
 msgid ""
 "Counter target spell. At the beginning of your next precombat main phase, "
 "add X mana in any combination of colors, where X is that spell's converted "
 "mana cost."
 msgstr ""
-"Skontruj wskazany czar. Na początku twojej następnej fazy główniej "
-"poprzedzającej walkę, dodaj X many w dowolnej kombinacji kolorów do twojej "
-"puli many, gdzie X to łączny koszt skontrowanego czaru."
+"Skontruj wskazany czar. Na początku twojej najbliższej fazy główniej "
+"poprzedzającej walkę, dostajesz X many w dowolnej kombinacji kolorów, gdzie "
+"X jest skróconym kosztem many owego czaru."
 
 #: ../../DGM.rst:474
 msgid ""
@@ -1631,17 +1614,16 @@ msgid ""
 msgstr ""
 
 #: ../../DGM.rst:473
-#, fuzzy
 msgid ""
 "You may have Progenitor Mimic enter the battlefield as a copy of any "
 "creature on the battlefield, except it has \"At the beginning of your "
 "upkeep, if this creature isn't a token, create a token that's a copy of this "
 "creature.\""
 msgstr ""
-"Możesz wybrać, aby Progenitor Mimic wszedł na pole walki jako kopia dowolnej "
-"kreatury znajdującej sie na polu walki, z tym że zyskuje dodatkowo \"Na "
-"początku twojego utrzymania, jeśli ten stwór nie jest żetonem, umieść żeton, "
-"który jest kopią tej kreatury, na pole walki."
+"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
+"stwora na polu walki, ale dodatkowo ma zdolność \"Na początku twojego kroku "
+"utrzymania, jeśli ten stwór nie jest żetonem, stwórz żeton będący kopią tego "
+"stwora.\""
 
 #: ../../DGM.rst:478
 msgid ""
@@ -1652,7 +1634,7 @@ msgstr ""
 # 72a442b92de846dbacebb390467a83f6
 #: ../../DGM.rst:477
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: ../../DGM.rst:486
 msgid ""
@@ -1664,23 +1646,19 @@ msgstr ""
 #: ../../DGM.rst:481
 msgid "+1: Tap target permanent, then untap another target permanent."
 msgstr ""
-"+1: Zaznacz wskazany permanent, następnie odznacz inny wskazany permanent."
+"+1: Przekręć wskazany permanent, następnie odkręć inny wskazany permanent."
 
 # 42853b986aaa4f54b1d3b5b109bbe409
 #: ../../DGM.rst:483
-#, fuzzy
 msgid "−2: Ral Zarek deals 3 damage to any target."
-msgstr "-2: Ral Zarek zadaje 3 obrażenia wskazanemu stworowi lub graczowi."
+msgstr "-2: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia."
 
 # b0c7a52063704384b7af387356534472
 #: ../../DGM.rst:485
-#, fuzzy
 msgid ""
 "−7: Flip five coins. Take an extra turn after this one for each coin that "
 "comes up heads."
-msgstr ""
-"-7: Rzuć pięcioma monetami. Za każdego orła otrzymujesz dodatkową turę zaraz "
-"po tej."
+msgstr "-7: Rzuć pięcioma monetami. Dostajesz dodatkową turę za każdą reszkę."
 
 #: ../../DGM.rst:490
 msgid ""
@@ -1691,17 +1669,16 @@ msgstr ""
 
 # 431bb68fe03c4750b311ae84bd3601de
 #: ../../DGM.rst:489
-#, fuzzy
 msgid ""
 "Target opponent reveals their hand. You choose up to X nonland cards from it "
 "and exile them. For each card exiled this way, search that player's "
 "graveyard, hand, and library for any number of cards with the same name as "
 "that card and exile them. Then that player shuffles their library."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz do X kart nie będących "
-"lądami i wypędzasz je. Za każdą kartę wypędzoną w ten sposób, przeszukaj "
-"cmentarz, rękę i bibliotekę owego gracza w poszukiwaniu kart o tej samej "
-"nazwie i wypędź je. Następnie ów gracz tasuje swoja bibliotekę."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej co najwyżej X "
+"nielądowych kart i wygnaj je. Za każdą kartę wygnaną w ten sposób, wyszukaj "
+"w cmentarzu, ręce i bibliotece owego gracza kartę o tej samej nazwie i "
+"wygnaj ją. Następnie ów gracz tasuje swoja bibliotekę."
 
 #: ../../DGM.rst:494
 msgid ""
@@ -1727,7 +1704,7 @@ msgstr ""
 #: ../../DGM.rst:497
 msgid "Return each creature that dealt damage this turn to its owner's hand."
 msgstr ""
-"Zwróć każdego stwora, który zadał obrażenia w tej turze do ręki jego "
+"Przywróć każdego stwora, który zadał obrażenia w tej turze do ręki "
 "właściciela."
 
 #: ../../DGM.rst:504
@@ -1740,19 +1717,18 @@ msgstr ""
 # b790f81a920743b08d83b57697278356
 #: ../../DGM.rst:501
 msgid "Rot Farm Skeleton can't block."
-msgstr "Rot Farm Skeleton nie może blokować."
+msgstr "Ten stwór nie może blokować."
 
 # 704a4c9fc7374bdc9a0d3225975d04ac
 #: ../../DGM.rst:503
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, Put the top four cards of your library into "
 "your graveyard: Return Rot Farm Skeleton from your graveyard to the "
 "battlefield. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, umieść cztery wierzchnie karty z twojej "
-"biblioteki do twojego cmentarza: Zwróć Rot Farm Skeleton z twojego cmentarza "
-"na pole walki. Aktywuj tę zdolność tylko w chwili, gdy możesz rzucić obrzęd."
+"biblioteki w twoim cmentarzu: Przywróć tę kartę z twojego cmentarza na pole "
+"walki. Aktywuj tylko jako obrzęd."
 
 #: ../../DGM.rst:512
 msgid ""
@@ -1777,7 +1753,7 @@ msgid ""
 "Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to "
 "that player."
 msgstr ""
-"Ilekroć gracz rzuca czar nie będący stworem, ten stwór zadaje owemu graczowi "
+"Ilekroć gracz rzuci czar nie będący stworem, ten stwór zadaje owemu graczowi "
 "6 obrażeń."
 
 #: ../../DGM.rst:520
@@ -1795,17 +1771,16 @@ msgstr "Podwójny cios"
 # 4f6b6af6c30c4c1982b143032545eda1
 #: ../../DGM.rst:517
 msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Savageborn Hydra wchodzi na pole walki z X znacznikami +1/+1."
+msgstr "Ten stwór wchodzi na pole walki z X znacznikami +1/+1."
 
 # c99e61d3434f4809b98c0e46bf0d5556
 #: ../../DGM.rst:519
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this "
 "ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_1|\\ |mana_rg|: Umieść znacznik +1/+1 na Savageborn Hydrze. Aktywuj tę "
-"zdolność tylko wtedy, kiedy mógłbyś rzucić obrzęd."
+"|mana_1|\\ |mana_rg|: Umieść znacznik +1/+1 na tym stworze. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../DGM.rst:524
 msgid ""
@@ -1820,8 +1795,8 @@ msgid ""
 "When Scab-Clan Giant enters the battlefield, it fights target creature an "
 "opponent controls chosen at random."
 msgstr ""
-"Kiedy Scab-Clan Giant wchodzi na pole walki, bije się z losowo wskazanym "
-"stworem władanym przez przeciwnika."
+"Kiedy ten stwór wejdzie na pole walki, walczy z losowo wskazanym stworem pod "
+"władaniem przeciwnika."
 
 #: ../../DGM.rst:528
 msgid ""
@@ -1834,8 +1809,8 @@ msgid ""
 "Until end of turn, creatures you control gain \"When this creature dies, it "
 "deals 2 damage to target creature an opponent controls.\""
 msgstr ""
-"Stwory, którymi władasz zyskują do końca tury \"Kiedy ten stwór umiera, "
-"zadaje 2 obrażenia wskazanemu stworowi władanemu przez przeciwnika.\""
+"Do końca tury stwory pod twoim władaniem zyskują \"Kiedy ten stwór umrze, "
+"zadaje 2 obrażenia wskazanemu stworowi pod władaniem przeciwnika.\""
 
 #: ../../DGM.rst:532
 msgid ""
@@ -1846,13 +1821,12 @@ msgstr ""
 
 # 0585675619ef4e69aae6d086d5331780
 #: ../../DGM.rst:531
-#, fuzzy
 msgid ""
 "When Sin Collector enters the battlefield, target opponent reveals their "
 "hand. You choose an instant or sorcery card from it and exile that card."
 msgstr ""
-"Kiedy Sin Collector wchodzi na pole walki, wskazany przeciwnik ujawnia swoją "
-"rękę. Wybierasz z niej kartę sztuczki lub obrzędu i wypędzasz ją."
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"rękę. Wybierz z niej kartę sztuczki lub obrzędu i wygnaj ją."
 
 #: ../../DGM.rst:536
 msgid ""
@@ -1863,9 +1837,8 @@ msgstr ""
 
 # 8d2d270f77e248fc940098c6e3738237
 #: ../../DGM.rst:535
-#, fuzzy
 msgid "At the beginning of each end step, each player discards their hand."
-msgstr "Z początkiem każdego kroku końcowego, każdy gracz odrzuca swoją rękę."
+msgstr "Na początku każdego kroku końcowego, każdy gracz odrzuca swoją rękę."
 
 #: ../../DGM.rst:540
 msgid ""
@@ -1880,8 +1853,8 @@ msgid ""
 "At the beginning of your upkeep, return a creature you control to its "
 "owner's hand."
 msgstr ""
-"Na początku twojego utrzymania zwróć stwora pod twoim władaniem do ręki jego "
-"właściciela."
+"Na początku twojego kroku utrzymania przywróć stwora pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../DGM.rst:544
 msgid ""
@@ -1908,8 +1881,8 @@ msgid ""
 "Battalion — Whenever Tajic, Blade of the Legion and at least two other "
 "creatures attack, Tajic gets +5/+5 until end of turn."
 msgstr ""
-"Batalion — Ilekroś Tajic, Blade of the Legion i przynajmniej dwa inne stwory "
-"atakują, Tajic dostaje +5/+5 do końca tury."
+"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"stworami, ten stwór dostaje +5/+5 do końca tury."
 
 #: ../../DGM.rst:556
 msgid ""
@@ -1925,13 +1898,12 @@ msgstr "Czujność, ochrona przed stworami"
 
 # adb052756d564ae3807658e77dc5d69d
 #: ../../DGM.rst:555
-#, fuzzy
 msgid ""
 "Whenever a creature deals combat damage to you, destroy that creature. "
 "Create a 1/1 white and black Spirit creature token with flying."
 msgstr ""
-"Ilekroć jakiś stwór zada tobie obrażenia bitewne, zniszcz owego stwora. "
-"Umieść na polu walki żeton czarno-białego stwora Spirit 1/1 z lataniem."
+"Ilekroć jakiś stwór zada tobie obrażenia bojowe, zniszcz owego stwora. "
+"Umieść na polu walki żeton czarno-białego stwora Duch 1/1 z lataniem."
 
 #: ../../DGM.rst:562
 msgid ""
@@ -1958,15 +1930,14 @@ msgstr ""
 
 # 53dcb223c4b247e99eb9638d66b9a2ff
 #: ../../DGM.rst:565
-#, fuzzy
 msgid ""
 "When Trostani's Summoner enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 "
 "green Rhino creature token with trample."
 msgstr ""
-"Kiedy Trostani's Summoner wchodzi na pole walki stwórz żeton białego stwora "
-"Knight 2/2 z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton "
-"zielonego stwora Rhino 4/4 z tratowaniem."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/"
+"2 z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton zielonego "
+"stwora Nosorożec 4/4 z tratowaniem."
 
 #: ../../DGM.rst:572
 msgid ""
@@ -1977,14 +1948,13 @@ msgstr ""
 
 # 9829ca75b6624519a0686d4866c3eaff
 #: ../../DGM.rst:571
-#, fuzzy
 msgid ""
 "Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by "
 "a creature with lifelink also causes its controller to gain that much life.)"
 msgstr ""
-"Batalion — Ilekroć Boros Mastiff i przynajmniej dwa inne stwory atakują, "
-"Boros Mastiff zyskuje więź życia do końca tury. (Obrażenia zadane przez "
-"stwora z więzią życia powodują, że jego władca zyskuje tyle samo życia.)"
+"Zauroczony stwór dostaje +2/+2 i ma tratowanie oraz więź życia. (Obrażenia "
+"zadane przez stwora z więzią życia sprawiają, że jego władca zyskuje tyle "
+"samo żyć.)"
 
 #: ../../DGM.rst:578
 msgid ""
@@ -2009,7 +1979,7 @@ msgstr ""
 # 91404f6bc0374b80b4f2436bc5b6cf13
 #: ../../DGM.rst:577
 msgid "Sacrifice another creature: Regenerate Varolz, the Scar-Striped."
-msgstr "Poświęć innego stwora: Zregeneruj Varolz, the Scar-Striped."
+msgstr "Poświęć innego stwora: Zregeneruj tego stwora."
 
 #: ../../DGM.rst:584
 msgid ""
@@ -2023,8 +1993,7 @@ msgstr ""
 msgid ""
 "When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of "
 "turn."
-msgstr ""
-"Kiedy Viashino Firstblade wchodzi na pole walki, dostaje +2/+2 do końca tury."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dostaje +2/+2 do końca tury."
 
 #: ../../DGM.rst:588
 msgid ""
@@ -2034,17 +2003,15 @@ msgid ""
 msgstr ""
 
 #: ../../DGM.rst:587
-#, fuzzy
 msgid ""
 "Whenever an opponent casts a spell during your turn or when Voice of "
 "Resurgence dies, create a green and white Elemental creature token with "
 "\"This creature's power and toughness are each equal to the number of "
 "creatures you control.\""
 msgstr ""
-"Ilekroć przeciwnik rzuca czar w twojej turze lub kiedy Voice of Resurgence "
-"umiera, stwórz zielono-białego stwora Elemental posiadającego \"Siła i "
-"wytrzymałość tego stwora są równe liczbie stworów pod twoim w władaniem "
-"każde.\""
+"Ilekroć przeciwnik rzuci czar w twojej turze lub kiedy ten stwór umrze, "
+"stwórz zielono-biały żeton stwora Żywiołak ze zdolnością \"Siła oraz "
+"wytrzymałość tego stwora są obie równe liczbie stworów pod twoim władaniem.'"
 
 #: ../../DGM.rst:592
 msgid ""
@@ -2055,13 +2022,12 @@ msgstr ""
 
 # 6b5f698fa9594507beb7ec4dbd709709
 #: ../../DGM.rst:591
-#, fuzzy
 msgid ""
 "|mana_g|\\ |mana_u|, |tap|: Double the number of each kind of counter on "
 "target artifact, creature, or land."
 msgstr ""
-"|mana_g|\\ |mana_u|, |tap|: Dla każdego znacznika na wskazanym artefakcie, "
-"stworze lub lądzie, umieść na owym permanencie kolejny taki sam znacznik."
+"|mana_g|\\ |mana_u|, |tap|: Podwój liczbę każdego rodzaju znaczników na "
+"wskazanym artefakcie, stworze lub lądzie."
 
 #: ../../DGM.rst:596
 msgid ""
@@ -2072,11 +2038,8 @@ msgstr ""
 
 # da62428ddad84138bf98e9461bbdcf26
 #: ../../DGM.rst:595
-#, fuzzy
 msgid "Warleader's Helix deals 4 damage to any target and you gain 4 life."
-msgstr ""
-"Warleader's Helix zadaje 4 obrażenia wskazanemu stworowi lub graczowi, a ty "
-"zyskujesz 4 życia."
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia, a ty zyskujesz 4 życia."
 
 #: ../../DGM.rst:600
 msgid ""
@@ -2106,12 +2069,13 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 # 50954261c92d41ec8ae9c7ee355f704a
 #: ../../DGM.rst:605
-#, fuzzy
 msgid "Protection from green"
-msgstr "Ochrona przed czerwonym"
+msgstr "Ochrona przed zielonym"
 
 #: ../../DGM.rst:610
 msgid ""
@@ -2122,13 +2086,12 @@ msgstr ""
 
 # aa26294e9c544b478f71686420b15923
 #: ../../DGM.rst:609
-#, fuzzy
 msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
-"Ilekroć gracz tapuje ląd pobierając manę, ów gracz dodaje do swojej puli "
-"many jedną manę w kolorze, który został przez ów ląd wyprodukowany."
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
+"kolorze wyprodukowanym przez ów ląd."
 
 #: ../../DGM.rst:616
 msgid ""
@@ -2147,7 +2110,7 @@ msgstr "|tap|: Dostajesz |mana_g|."
 msgid ""
 "Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent."
 msgstr ""
-"Ilekroć tapujesz Zhur-Taa Druid pobierając manę, zadaje on po 1 obrażeniu "
+"Ilekroć przekręcasz tego stwora pobierając manę, zadaje on po 1 obrażeniu "
 "każdemu z przeciwników."
 
 #: ../../DGM.rst:622
@@ -2222,7 +2185,7 @@ msgstr ""
 # 726108b10f5540cea74715ca6eb373e3
 #: ../../DGM.rst:631
 msgid "Target creature gets +1/+1 and gains double strike until end of turn."
-msgstr "Wskazany stwór dostaje +1/+1 oraz podwójny cios do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +1/+1 oraz podwójny cios."
 
 #: ../../DGM.rst:640
 msgid ""
@@ -2235,7 +2198,7 @@ msgstr ""
 #: ../../DGM.rst:637
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
-"Wszystkie stwory mogące zablokować wskazanego stwora w tej turze, robią to."
+"Wszystkie stwory mogące blokować wskazanego stwora w tej turze, robią to."
 
 #: ../../DGM.rst:646
 msgid ""
@@ -2247,8 +2210,7 @@ msgstr ""
 #: ../../DGM.rst:643
 msgid ""
 "Whenever a creature enters the battlefield this turn, you may draw a card."
-msgstr ""
-"Ilekroć w tej turze jakiś stwór wejdzie na pole bitwy, możesz dobrać kartę."
+msgstr "Ilekroć w tej turze wejdzie stwór na pole bitwy, możesz dobrać kartę."
 
 #: ../../DGM.rst:652
 msgid ""
@@ -2258,10 +2220,8 @@ msgstr ""
 
 # acbcd483de27473f96bab08dbb448a8c
 #: ../../DGM.rst:649
-#, fuzzy
 msgid "Create four 1/1 white Bird creature tokens with flying."
-msgstr ""
-"Umieść na polu walki cztery żetony białych stworów Bird 1/1 z Lataniem."
+msgstr "Stwórz cztery żetony białego stwora Ptak 1/1 z lataniem."
 
 #: ../../DGM.rst:658
 msgid ""
@@ -2272,12 +2232,11 @@ msgstr ""
 
 # 4ec7f113f70f45b48fce82deaca30f29
 #: ../../DGM.rst:655
-#, fuzzy
 msgid ""
 "Target player puts the top eight cards of their library into their graveyard."
 msgstr ""
-"Wskazany gracz wkłada osiem wierzchnich kart ze swojej biblioteki do swojego "
-"cmentarza."
+"Wskazany gracz umieszcza osiem wierzchnich kart swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../DGM.rst:664
 msgid ""
@@ -2307,7 +2266,7 @@ msgid ""
 "Gain control of target permanent until end of turn. Untap it. It gains haste "
 "until end of turn."
 msgstr ""
-"Przejmij władanie nad wskazanym permanentem do końca tury. Odkręć go. "
+"Zyskujesz do końca tury władanie nad wskazanym permanentem. Odkręć go. "
 "Zyskuje on pośpiech do końca tury."
 
 #: ../../DGM.rst:676
@@ -2354,7 +2313,7 @@ msgstr ""
 # 772cb560d82841e8a7fb052982cb4da9
 #: ../../DGM.rst:691
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../DGM.rst:700
 msgid ""
@@ -2380,7 +2339,7 @@ msgid ""
 "creature, where X is the power of the card you exiled."
 msgstr ""
 "Wygnaj wskazaną kartę stwora z cmentarza. Umieść X znaczników +1/+1 na "
-"wskazanym stworze, gdzie X to siła karty, którą wypędzono."
+"wskazanym stworze, gdzie X to siła wygnanej karty."
 
 #: ../../DGM.rst:712
 msgid ""
@@ -2390,12 +2349,11 @@ msgstr ""
 
 # 6e692244d8b04bf1965aedf49a5dfbf7
 #: ../../DGM.rst:709
-#, fuzzy
 msgid ""
 "Target creature you control deals damage equal to its power to any target."
 msgstr ""
-"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
-"wskazanemu stworowi lub graczowi."
+"Wskazany stwór pod twoim władaniem zadaje wskazanemu celowi obrażenia równe "
+"swojej sile."
 
 #: ../../DGM.rst:718
 msgid ""
@@ -2420,7 +2378,7 @@ msgid ""
 "Remove all +1/+1 counters from target creature you control. Draw that many "
 "cards."
 msgstr ""
-"Zdejmij wszystkie znaczniki +1/+1 ze wskazanego stwora pod twoim władaniem. "
+"Usuń wszystkie znaczniki +1/+1 ze wskazanego stwora pod twoim władaniem. "
 "Dobierz tyle samo kart."
 
 #: ../../DGM.rst:730
@@ -2443,7 +2401,7 @@ msgstr ""
 # d556eeb6bd3240de963830424eda7be4
 #: ../../DGM.rst:733
 msgid "Creatures your opponents control get -1/-1 until end of turn."
-msgstr "Stwory władane przez twoich przeciwników dostają -1/-1 do końca tury."
+msgstr "Stwory pod władaniem twoich przeciwników dostają -1/-1 do końca tury."
 
 #: ../../DGM.rst:742
 msgid ""
@@ -2480,7 +2438,7 @@ msgid ""
 "creature you control."
 msgstr ""
 "Stwory pod twoim władaniem zyskują niezniszczalność do końca tury. Odkręć "
-"wszystkie stwory, którymi władasz."
+"każdego stwora pod twoim władaniem."
 
 #: ../../DGM.rst:760
 msgid ""
@@ -2492,7 +2450,7 @@ msgstr ""
 #: ../../DGM.rst:757
 msgid "Creatures you control gain deathtouch and lifelink until end of turn."
 msgstr ""
-"Stwory pod twoim władaniem dostają do końca tury dotyk śmierci oraz więź "
+"Stwory pod twoim władaniem zyskują do końca tury dotyk śmierci oraz więź "
 "życia."
 
 #: ../../DGM.rst:766
@@ -2518,7 +2476,8 @@ msgid ""
 "Trouble deals damage to target player equal to the number of cards in that "
 "player's hand."
 msgstr ""
-"Trouble zadaje wskazanemu graczowi tyle obrażeń, ile ów gracz ma kart w ręce."
+"Ten czar zadaje wskazanemu graczowi tyle obrażeń, ile ów gracz ma kart w "
+"ręce."
 
 #: ../../DGM.rst:778
 msgid ""
@@ -2533,7 +2492,7 @@ msgid ""
 "Weird with base power and toughness 0/1."
 msgstr ""
 "Do końca tury wskazany stwór traci wszystkie zdolności i staje się czerwonym "
-"stworem Dziwadło o bazowych sile i wytrzymałości 0/1."
+"Dziwadłem o bazowych sile i wytrzymałości 0/1."
 
 #: ../../DGM.rst:784
 msgid ""
@@ -2544,7 +2503,7 @@ msgstr ""
 # 2060a9ffecf84df7a6be32cc3cea8371
 #: ../../DGM.rst:781
 msgid "Burn deals 2 damage to any target."
-msgstr "Ten czar zadaje 2 obrażenia we wskazany cel."
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../DGM.rst:790
 msgid ""
@@ -2583,9 +2542,8 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 # 264919420397438689e0c9cef70d9c69
 #: ../../DGM.rst:801
-#, fuzzy
 msgid "|mana_w|\\ |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card."
-msgstr "|mana_w|\\ |mana_u|, |tap|, poświęć Azorius Cluestone: Dobierz kartę."
+msgstr "|mana_w|\\ |mana_u|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:808
 msgid ""
@@ -2603,9 +2561,8 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 # 01444424672440afaf0a5fdc052ee04d
 #: ../../DGM.rst:807
-#, fuzzy
 msgid "|mana_r|\\ |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
-msgstr "|mana_r|\\ |mana_w|, |tap|, poświęć Boros Cluestone: Dobierz kartę."
+msgstr "|mana_r|\\ |mana_w|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:814
 msgid ""
@@ -2622,9 +2579,8 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 # 62a1721c795c4062a68cda8932825489
 #: ../../DGM.rst:813
-#, fuzzy
 msgid "|mana_u|\\ |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card."
-msgstr "|mana_u|\\ |mana_b|, |tap|, poświęć Dimir Cluestone: Dobierz kartę."
+msgstr "|mana_u|\\ |mana_b|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:820
 msgid ""
@@ -2641,9 +2597,8 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 # 1ccf3f3659284404a60ec48e70027443
 #: ../../DGM.rst:819
-#, fuzzy
 msgid "|mana_b|\\ |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card."
-msgstr "|mana_b|\\ |mana_g|, |tap|, poświęć Golgari Cluestone: Dobierz kartę."
+msgstr "|mana_b|\\ |mana_g|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:826
 msgid ""
@@ -2660,9 +2615,8 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 # 30c2c321e26948ce99f633d7144074bd
 #: ../../DGM.rst:825
-#, fuzzy
 msgid "|mana_r|\\ |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card."
-msgstr "|mana_r|\\ |mana_g|, |tap|, poświęć Gruul Cluestone: dobierz kartę."
+msgstr "|mana_r|\\ |mana_g|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:832
 msgid ""
@@ -2679,9 +2633,8 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 # bae836dc29404492be78d47742a7bbb0
 #: ../../DGM.rst:831
-#, fuzzy
 msgid "|mana_u|\\ |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
-msgstr "|mana_u|\\ |mana_r|, |tap|, poświęć Izzet Cluestone: Dobierz kartę."
+msgstr "|mana_u|\\ |mana_r|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:838
 msgid ""
@@ -2698,9 +2651,8 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 # 320a659fd60543dda22033ba064ffa40
 #: ../../DGM.rst:837
-#, fuzzy
 msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
-msgstr "|mana_w|\\ |mana_b|, |tap|, poświęć Orzhov Cluestone: Dobierz kartę."
+msgstr "|mana_w|\\ |mana_b|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:844
 msgid ""
@@ -2717,9 +2669,8 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 # e49afd8ecb004eca8b78f32d5b73bd14
 #: ../../DGM.rst:843
-#, fuzzy
 msgid "|mana_b|\\ |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
-msgstr "|mana_b|\\ |mana_r|, |tap|, poświęć Rakdos Cluestone: Dobierz kartę."
+msgstr "|mana_b|\\ |mana_r|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:850
 msgid ""
@@ -2735,9 +2686,8 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 # 9267b84d8bfc4b69b34415c703541cb7
 #: ../../DGM.rst:849
-#, fuzzy
 msgid "|mana_g|\\ |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
-msgstr "|mana_g|\\ |mana_w|, |tap|, poświęć Selesnya Cluestone: Dobierz kartę."
+msgstr "|mana_g|\\ |mana_w|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:856
 msgid ""
@@ -2753,9 +2703,8 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 # 294799aa546843a6bcb9af2b262a63a4
 #: ../../DGM.rst:855
-#, fuzzy
 msgid "|mana_g|\\ |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
-msgstr "|mana_g|\\ |mana_u|, |tap|, poświęć Simic Cluestone: Dobierz kartę."
+msgstr "|mana_g|\\ |mana_u|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../DGM.rst:862
 msgid ""
@@ -2767,7 +2716,7 @@ msgstr ""
 # 9ba7e3ddf5144effb9cf7effc5812f3d
 #: ../../DGM.rst:859
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi przekręcona na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:868
 msgid ""
@@ -2780,7 +2729,7 @@ msgstr ""
 # Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
 #: ../../DGM.rst:865
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:874
 msgid ""
@@ -2792,7 +2741,7 @@ msgstr ""
 # d93cfb38da1e4c0cbfa29a11e0b1d940
 #: ../../DGM.rst:871
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:880
 msgid ""
@@ -2804,7 +2753,7 @@ msgstr ""
 # 8937f0f9805848479a9063ff1bc803ae
 #: ../../DGM.rst:877
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:886
 msgid ""
@@ -2816,7 +2765,7 @@ msgstr ""
 # 8a46b996b9dd4172993b88a2c9475053
 #: ../../DGM.rst:883
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi przekręcona na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:892
 msgid ""
@@ -2828,7 +2777,7 @@ msgstr ""
 # 4a489b9531c0469fa6d926cd61db27c5
 #: ../../DGM.rst:889
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:900
 msgid ""
@@ -2839,7 +2788,7 @@ msgstr ""
 # 6c33f58348e94deab947cc446a347fc2
 #: ../../DGM.rst:895
 msgid "Maze's End enters the battlefield tapped."
-msgstr "Maze's End wchodzi na pole walki jako przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:897
 msgid "|tap|: Add |colorless|."
@@ -2852,10 +2801,10 @@ msgid ""
 "for a Gate card, put it onto the battlefield, then shuffle your library. If "
 "you control ten or more Gates with different names, you win the game."
 msgstr ""
-"|mana_3|, |tap|, Zwróć Maze's End do ręki jego właściciela: Przeszukaj twoją "
-"bibliotekę w poszukiwaniu karty Bramy, umieść ją na polu walki, następnie "
-"przetasuj twoją bibliotekę. Jeśli masz we władaniu dziesięć lub więcej Bram "
-"z różnymi nazwami, wygrywasz grę."
+"|mana_3|, |tap|, przywróć ten ląd do ręki właściciela: Wyszukaj w twojej "
+"bibliotece kartę Bramy, umieść ją na polu walki, następnie przetasuj twoją "
+"bibliotekę. Jeśli masz we władaniu dziesięć lub więcej Bram o różnych "
+"nazwach, wygrywasz grę."
 
 #: ../../DGM.rst:906
 msgid ""
@@ -2867,7 +2816,7 @@ msgstr ""
 # 7a0e381ff1414d4ba23f8e20f228e939
 #: ../../DGM.rst:903
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi przekręcona na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:912
 msgid ""
@@ -2879,7 +2828,7 @@ msgstr ""
 # e872c2cf89fd4507a523725390a30cfb
 #: ../../DGM.rst:909
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi przekręcona na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:918
 msgid ""
@@ -2891,7 +2840,7 @@ msgstr ""
 # 52e297b443c24c27a8ee8ed6873d40c1
 #: ../../DGM.rst:915
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:923
 msgid ""
@@ -2903,7 +2852,7 @@ msgstr ""
 # 3223f92aa08c48df8b634855e6ba86cc
 #: ../../DGM.rst:921
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi przekręcona na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # ddc194a8ce10447783d299ae1e894f9b
 #~ msgid "Putrefy"
