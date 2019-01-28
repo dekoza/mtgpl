@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/inv/pl/>\n"
 "Language: pl\n"
@@ -193,7 +193,7 @@ msgstr ""
 
 #: ../../INV.rst:63 ../../INV.rst:1337
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../INV.rst:65
 msgid "|mana_w|: Target creature gains protection from red until end of turn."
@@ -1027,7 +1027,7 @@ msgstr ""
 
 #: ../../INV.rst:379
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../INV.rst:388
 msgid ""
@@ -2095,7 +2095,7 @@ msgstr ""
 
 #: ../../INV.rst:797
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../INV.rst:804
 msgid ""
@@ -2834,7 +2834,7 @@ msgstr ""
 
 #: ../../INV.rst:1091
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../INV.rst:1093
 msgid ""
@@ -3814,6 +3814,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../INV.rst:1470
 msgid ""
@@ -3979,7 +3981,7 @@ msgstr ""
 
 #: ../../INV.rst:1527
 msgid "Protection from green"
-msgstr ""
+msgstr "Ochrona przed zielonym"
 
 #: ../../INV.rst:1532
 msgid ":mtgtip:`Void<https://img.scryfall.com/cards/border_crop/en/inv/287.jpg?1517813031|https://scryfall.com/card/inv/287/void?utm_source=api>`"
@@ -4168,7 +4170,7 @@ msgstr ""
 
 #: ../../INV.rst:1603 ../../INV.rst:1769
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../INV.rst:1608
 msgid ""
@@ -4218,7 +4220,7 @@ msgstr ""
 
 #: ../../INV.rst:1619 ../../INV.rst:1741
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../INV.rst:1624
 msgid ""
@@ -4357,7 +4359,7 @@ msgstr ""
 
 #: ../../INV.rst:1669 ../../INV.rst:1713
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../INV.rst:1674
 msgid ""
@@ -4379,7 +4381,7 @@ msgstr ""
 
 #: ../../INV.rst:1677 ../../INV.rst:1747
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../INV.rst:1684
 msgid ""

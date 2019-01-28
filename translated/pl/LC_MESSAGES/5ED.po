@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/5ed/pl/>\n"
 "Language: pl\n"
@@ -529,7 +529,7 @@ msgstr ""
 
 #: ../../5ED.rst:197 ../../5ED.rst:269
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../5ED.rst:199
 msgid ""
@@ -1581,6 +1581,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../5ED.rst:622
 msgid ""
@@ -1706,7 +1708,7 @@ msgstr ""
 
 #: ../../5ED.rst:667
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../5ED.rst:674
 msgid ":mtgtip:`Updraft<https://img.scryfall.com/cards/border_crop/en/5ed/133.jpg?1517813031|https://scryfall.com/card/5ed/133/updraft?utm_source=api>`"
@@ -1889,6 +1891,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../5ED.rst:750
 msgid ""
@@ -2678,7 +2682,7 @@ msgstr ""
 
 #: ../../5ED.rst:1065
 msgid "First strike, haste"
-msgstr ""
+msgstr "Pierwszy cios, pośpiech"
 
 #: ../../5ED.rst:1070
 msgid ":mtgtip:`Atog<https://img.scryfall.com/cards/border_crop/en/5ed/209.jpg?1517813031|https://scryfall.com/card/5ed/209/atog?utm_source=api>`"
@@ -3147,6 +3151,8 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
+"kolorze wyprodukowanym przez ów ląd."
 
 #: ../../5ED.rst:1264
 msgid ":mtgtip:`Manabarbs<https://img.scryfall.com/cards/border_crop/en/5ed/250.jpg?1517813031|https://scryfall.com/card/5ed/250/manabarbs?utm_source=api>`"
@@ -3177,6 +3183,8 @@ msgid ""
 "Mountainwalk (This creature can't be blocked as long as defending player "
 "controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../5ED.rst:1276
 msgid ""
@@ -3536,6 +3544,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../5ED.rst:1430
 msgid ""
@@ -3726,7 +3736,7 @@ msgstr ""
 
 #: ../../5ED.rst:1505
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../5ED.rst:1508
 msgid ""

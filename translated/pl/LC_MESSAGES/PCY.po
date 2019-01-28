@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 21:48+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/pcy/pl/>\n"
 "Language: pl\n"
@@ -1611,6 +1611,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../PCY.rst:588
 msgid ""
@@ -1643,7 +1645,7 @@ msgstr ""
 
 #: ../../PCY.rst:595 ../../PCY.rst:613
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../PCY.rst:600
 msgid ""

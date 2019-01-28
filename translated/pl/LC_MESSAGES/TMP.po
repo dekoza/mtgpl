@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 21:48+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/tmp/pl/>\n"
 "Language: pl\n"
@@ -404,7 +404,7 @@ msgstr ""
 
 #: ../../TMP.rst:149 ../../TMP.rst:1079
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../TMP.rst:151
 msgid "|mana_w|: Mounted Archers can block an additional creature this turn."
@@ -609,7 +609,7 @@ msgstr ""
 
 #: ../../TMP.rst:225
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../TMP.rst:234
 msgid ""
@@ -713,6 +713,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../TMP.rst:274
 msgid ":mtgtip:`Capsize<https://img.scryfall.com/cards/border_crop/en/tmp/55.jpg?1517813031|https://scryfall.com/card/tmp/55/capsize?utm_source=api>`"
@@ -1621,7 +1623,7 @@ msgstr ""
 
 #: ../../TMP.rst:647
 msgid "Target player sacrifices a creature."
-msgstr ""
+msgstr "Wskazany gracz poświęca stwora."
 
 #: ../../TMP.rst:654
 msgid ""
@@ -2091,6 +2093,8 @@ msgid ""
 "Mountainwalk (This creature can't be blocked as long as defending player "
 "controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../TMP.rst:850
 msgid ""
@@ -2908,6 +2912,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../TMP.rst:1160
 msgid ""

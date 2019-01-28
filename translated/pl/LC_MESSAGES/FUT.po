@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/fut/pl/>\n"
 "Language: pl\n"
@@ -151,7 +151,7 @@ msgstr ""
 #: ../../FUT.rst:47 ../../FUT.rst:177 ../../FUT.rst:213 ../../FUT.rst:349
 #: ../../FUT.rst:419
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../FUT.rst:49 ../../FUT.rst:121 ../../FUT.rst:215 ../../FUT.rst:277
 #: ../../FUT.rst:327 ../../FUT.rst:421 ../../FUT.rst:511 ../../FUT.rst:559
@@ -652,7 +652,7 @@ msgstr ""
 
 #: ../../FUT.rst:229
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../FUT.rst:231
 msgid "You may play the top card of your library."
@@ -1444,6 +1444,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../FUT.rst:519
 msgid "Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)"
@@ -2440,7 +2442,7 @@ msgstr ""
 
 #: ../../FUT.rst:885
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../FUT.rst:887
 msgid ""

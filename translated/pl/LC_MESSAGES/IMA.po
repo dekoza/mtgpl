@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ima/pl/>\n"
 "Language: pl\n"
@@ -235,7 +235,7 @@ msgstr ""
 
 #: ../../IMA.rst:87
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../IMA.rst:89
 msgid ""
@@ -845,7 +845,7 @@ msgstr ""
 
 #: ../../IMA.rst:337 ../../IMA.rst:431
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../IMA.rst:339
 msgid "Whenever Illusory Ambusher is dealt damage, draw that many cards."
@@ -1491,6 +1491,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../IMA.rst:603
 msgid ""
@@ -2441,7 +2443,7 @@ msgstr ""
 
 #: ../../IMA.rst:973
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../IMA.rst:975
 msgid ""
@@ -2694,13 +2696,15 @@ msgstr ""
 
 #: ../../IMA.rst:1083
 msgid "Lifelink, protection from white and from black"
-msgstr ""
+msgstr "Więź życia, ochrona przed białym i czarnym."
 
 #: ../../IMA.rst:1085
 msgid ""
 "As long as you have 30 or more life and an opponent has 10 or less life, "
 "Blood Baron of Vizkopa gets +6/+6 and has flying."
 msgstr ""
+"O ile masz co najmniej 30 żyć oraz przeciwnik ma co najwyżej 10 żyć, ten "
+"stwór dostaje +6/+6 i ma latanie."
 
 #: ../../IMA.rst:1090
 msgid ""
@@ -2876,13 +2880,15 @@ msgstr "Podwójny cios"
 
 #: ../../IMA.rst:1149
 msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki z X znacznikami +1/+1."
 
 #: ../../IMA.rst:1151
 msgid ""
 "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate "
 "this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_rg|: Umieść znacznik +1/+1 na tym stworze. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../IMA.rst:1158
 msgid ""
@@ -3048,7 +3054,7 @@ msgstr ""
 
 #: ../../IMA.rst:1213
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../IMA.rst:1215
 msgid ""

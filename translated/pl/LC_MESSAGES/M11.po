@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m11/pl/>\n"
 "Language: pl\n"
@@ -687,6 +687,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../M11.rst:275
 msgid ""
@@ -706,6 +708,8 @@ msgid ""
 "Enchanted creature can't attack or block, and its activated abilities "
 "can't be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../M11.rst:283
 msgid ""
@@ -965,7 +969,7 @@ msgstr ""
 
 #: ../../M11.rst:383
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../M11.rst:390
 msgid ""
@@ -1061,6 +1065,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../M11.rst:428
 msgid ""
@@ -1311,7 +1317,7 @@ msgstr ""
 
 #: ../../M11.rst:513
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../M11.rst:518
 msgid ""
@@ -1471,7 +1477,7 @@ msgstr ""
 
 #: ../../M11.rst:575
 msgid "Target player draws two cards and loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: ../../M11.rst:580
 msgid ""
@@ -2266,7 +2272,7 @@ msgstr ""
 
 #: ../../M11.rst:879 ../../M11.rst:977
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../M11.rst:884
 msgid ""
@@ -2491,6 +2497,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../M11.rst:966
 msgid ""
@@ -2806,7 +2814,7 @@ msgstr ""
 
 #: ../../M11.rst:1091
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../M11.rst:1098
 msgid ""
@@ -2823,7 +2831,7 @@ msgstr ""
 
 #: ../../M11.rst:1097
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../M11.rst:1104
 msgid ""
@@ -2875,7 +2883,7 @@ msgstr ""
 
 #: ../../M11.rst:1115
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../M11.rst:1122
 msgid ""
@@ -2892,7 +2900,7 @@ msgstr ""
 
 #: ../../M11.rst:1121
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../M11.rst:1126
 msgid ""

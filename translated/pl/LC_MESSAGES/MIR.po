@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mir/pl/>\n"
 "Language: pl\n"
@@ -1109,6 +1109,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../MIR.rst:419 ../../MIR.rst:479 ../../MIR.rst:527 ../../MIR.rst:541
 #: ../../MIR.rst:547 ../../MIR.rst:1537 ../../MIR.rst:1757
@@ -1689,6 +1691,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../MIR.rst:649
 msgid "|mana_b|: Dirtwater Wraith gets +1/+0 until end of turn."
@@ -2773,7 +2777,7 @@ msgstr ""
 
 #: ../../MIR.rst:1063
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../MIR.rst:1065
 msgid "|tap|: Subterranean Spirit deals 1 damage to each creature without flying."
@@ -3077,7 +3081,7 @@ msgstr ""
 
 #: ../../MIR.rst:1183 ../../MIR.rst:1433
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../MIR.rst:1188
 msgid ""
@@ -3496,6 +3500,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../MIR.rst:1343
 msgid ""

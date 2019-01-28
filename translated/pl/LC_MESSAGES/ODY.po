@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ody/pl/>\n"
 "Language: pl\n"
@@ -351,6 +351,8 @@ msgid ""
 "Plainswalk (This creature can't be blocked as long as defending player "
 "controls a Plains.)"
 msgstr ""
+"Podbój równin (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Równiną.)"
 
 #: ../../ODY.rst:127
 msgid ""
@@ -594,7 +596,7 @@ msgstr ""
 
 #: ../../ODY.rst:209
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../ODY.rst:211
 msgid ""
@@ -2214,6 +2216,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../ODY.rst:845
 msgid "|mana_b|: Whispering Shade gets +1/+1 until end of turn."
@@ -2461,6 +2465,8 @@ msgid ""
 "Mountainwalk (This creature can't be blocked as long as defending player "
 "controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../ODY.rst:936
 msgid ""
@@ -3321,7 +3327,7 @@ msgstr ""
 
 #: ../../ODY.rst:1245 ../../ODY.rst:1361
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../ODY.rst:1247
 msgid "|mana_g|, Discard a card: Krosan Archer gets +0/+2 until end of turn."
@@ -3365,6 +3371,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../ODY.rst:1266
 msgid ""

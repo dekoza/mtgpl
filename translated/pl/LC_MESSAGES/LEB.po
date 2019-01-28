@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/leb/pl/>\n"
 "Language: pl\n"
@@ -1096,7 +1096,7 @@ msgstr ""
 
 #: ../../LEB.rst:433
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../LEB.rst:438
 msgid ""
@@ -1220,6 +1220,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../LEB.rst:484
 msgid ""
@@ -2055,6 +2057,8 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
+"kolorze wyprodukowanym przez ów ląd."
 
 #: ../../LEB.rst:824
 msgid ":mtgtip:`Manabarbs<https://img.scryfall.com/cards/border_crop/en/leb/164.jpg?1525123903|https://scryfall.com/card/leb/164/manabarbs?utm_source=api>`"
@@ -2492,7 +2496,7 @@ msgstr ""
 
 #: ../../LEB.rst:997
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../LEB.rst:1000
 msgid ""
@@ -2658,7 +2662,7 @@ msgstr ""
 
 #: ../../LEB.rst:1075
 msgid "Return target card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../LEB.rst:1080
 msgid ""
@@ -2679,6 +2683,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../LEB.rst:1088
 msgid ""

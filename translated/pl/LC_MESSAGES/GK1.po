@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-20 22:06+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gk1/pl/>\n"
 "Language: pl\n"
@@ -858,7 +858,7 @@ msgid ""
 "Weird with base power and toughness 0/1."
 msgstr ""
 "Do końca tury wskazany stwór traci wszystkie zdolności i staje się czerwonym "
-"stworem Dziwadło o bazowych sile i wytrzymałości 0/1."
+"Dziwadłem o bazowych sile i wytrzymałości 0/1."
 
 #: ../../GK1.rst:265 ../../GK1.rst:271
 msgid "Fuse (You may cast one or both halves of this card from your hand.)"
@@ -872,7 +872,7 @@ msgstr ""
 
 #: ../../GK1.rst:269
 msgid "Burn deals 2 damage to any target."
-msgstr "Ten czar zadaje 2 obrażenia we wskazany cel."
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../GK1.rst:276
 msgid ""
@@ -1300,7 +1300,7 @@ msgstr ""
 
 #: ../../GK1.rst:397
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: ../../GK1.rst:404
 msgid ""

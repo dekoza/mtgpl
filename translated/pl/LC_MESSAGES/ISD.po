@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -1050,8 +1050,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
-"władane przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 # 29b6526039f642408ece8030bd89bae2
 #: ../../ISD.rst:321
@@ -1281,7 +1281,7 @@ msgstr ""
 # 01650903471649c09cfb63a31e0d9afe
 #: ../../ISD.rst:399
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:401

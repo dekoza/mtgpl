@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/som/pl/>\n"
 "Language: pl\n"
@@ -56,6 +56,8 @@ msgid ""
 "Enchanted creature can't attack or block, and its activated abilities "
 "can't be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../SOM.rst:22
 msgid ""
@@ -403,7 +405,7 @@ msgstr ""
 
 #: ../../SOM.rst:145 ../../SOM.rst:781
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../SOM.rst:149
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -772,6 +774,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../SOM.rst:289
 msgid "When Blistergrub dies, each opponent loses 2 life."
@@ -1582,7 +1586,7 @@ msgstr ""
 
 #: ../../SOM.rst:601
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../SOM.rst:603
 msgid ""
@@ -3176,7 +3180,7 @@ msgstr ""
 
 #: ../../SOM.rst:1189
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../SOM.rst:1196
 msgid ""
@@ -3193,7 +3197,7 @@ msgstr ""
 
 #: ../../SOM.rst:1195
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../SOM.rst:1202
 msgid ""
@@ -3210,7 +3214,7 @@ msgstr ""
 
 #: ../../SOM.rst:1201
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../SOM.rst:1208
 msgid ":mtgtip:`Glimmerpost<https://img.scryfall.com/cards/border_crop/en/som/227.jpg?1517813031|https://scryfall.com/card/som/227/glimmerpost?utm_source=api>`"
@@ -3241,7 +3245,7 @@ msgstr ""
 
 #: ../../SOM.rst:1213
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../SOM.rst:1220
 msgid ""

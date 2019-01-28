@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lrw/pl/>\n"
 "Language: pl\n"
@@ -171,7 +171,7 @@ msgstr ""
 
 #: ../../LRW.rst:53
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../LRW.rst:55
 msgid "Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn."
@@ -313,6 +313,8 @@ msgstr ""
 #: ../../LRW.rst:121
 msgid "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../LRW.rst:128
 msgid ":mtgtip:`Hoofprints of the Stag<https://img.scryfall.com/cards/border_crop/en/lrw/21.jpg?1517813031|https://scryfall.com/card/lrw/21/hoofprints-of-the-stag?utm_source=api>`"
@@ -797,6 +799,8 @@ msgstr ""
 #: ../../LRW.rst:1385
 msgid "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../LRW.rst:401
 msgid "When Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order."
@@ -1101,6 +1105,8 @@ msgstr ""
 #: ../../LRW.rst:591
 msgid "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../LRW.rst:593
 msgid "|mana_2|\\ |mana_b|, Sacrifice Boggart Loggers: Destroy target Treefolk or Forest."
@@ -2022,6 +2028,8 @@ msgstr ""
 #: ../../LRW.rst:1099
 msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../LRW.rst:1101
 msgid "Whenever a player casts a Goblin spell, you may pay |mana_g|. If you do, you gain 2 life."
@@ -2049,7 +2057,7 @@ msgstr ""
 
 #: ../../LRW.rst:1119
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../LRW.rst:1130
 msgid ":mtgtip:`Cloudthresher<https://img.scryfall.com/cards/border_crop/en/lrw/202.jpg?1517813031|https://scryfall.com/card/lrw/202/cloudthresher?utm_source=api>`"
@@ -2696,7 +2704,7 @@ msgstr ""
 
 #: ../../LRW.rst:1471
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../LRW.rst:1478
 msgid ":mtgtip:`Gilt-Leaf Palace<https://img.scryfall.com/cards/border_crop/en/lrw/268.jpg?1517813031|https://scryfall.com/card/lrw/268/gilt-leaf-palace?utm_source=api>`"
@@ -2708,7 +2716,7 @@ msgstr ""
 
 #: ../../LRW.rst:1477
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../LRW.rst:1486
 msgid ":mtgtip:`Howltooth Hollow<https://img.scryfall.com/cards/border_crop/en/lrw/269.jpg?1521066879|https://scryfall.com/card/lrw/269/howltooth-hollow?utm_source=api>`"
@@ -2749,7 +2757,7 @@ msgstr ""
 
 #: ../../LRW.rst:1499
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../LRW.rst:1508
 msgid ":mtgtip:`Shelldock Isle<https://img.scryfall.com/cards/border_crop/en/lrw/272.jpg?1517813031|https://scryfall.com/card/lrw/272/shelldock-isle?utm_source=api>`"

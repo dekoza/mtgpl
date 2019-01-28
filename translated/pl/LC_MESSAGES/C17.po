@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -644,7 +644,7 @@ msgstr ""
 
 #: ../../C17.rst:221
 msgid "First strike, haste"
-msgstr ""
+msgstr "Pierwszy cios, pośpiech"
 
 #: ../../C17.rst:223
 msgid ""
@@ -2485,6 +2485,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../C17.rst:873
 msgid ""
@@ -2651,13 +2653,15 @@ msgstr ""
 
 #: ../../C17.rst:935
 msgid "Lifelink, protection from white and from black"
-msgstr ""
+msgstr "Więź życia, ochrona przed białym i czarnym."
 
 #: ../../C17.rst:937
 msgid ""
 "As long as you have 30 or more life and an opponent has 10 or less life, "
 "Blood Baron of Vizkopa gets +6/+6 and has flying."
 msgstr ""
+"O ile masz co najmniej 30 żyć oraz przeciwnik ma co najwyżej 10 żyć, ten "
+"stwór dostaje +6/+6 i ma latanie."
 
 #: ../../C17.rst:944
 msgid ""
@@ -3826,7 +3830,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 #: ../../C17.rst:1401 ../../C17.rst:1469 ../../C17.rst:1503 ../../C17.rst:1683
 #: ../../C17.rst:1697 ../../C17.rst:1727
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../C17.rst:1410
 msgid ""
@@ -3881,7 +3885,7 @@ msgstr ""
 
 #: ../../C17.rst:1421
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1423 ../../C17.rst:1705 ../../C17.rst:1789
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3981,7 +3985,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1463 ../../C17.rst:1539
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../C17.rst:1470
 msgid ""
@@ -4344,7 +4348,7 @@ msgstr ""
 
 #: ../../C17.rst:1613
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1624
 msgid ""
@@ -4377,7 +4381,7 @@ msgstr ""
 
 #: ../../C17.rst:1627
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1636
 msgid ""
@@ -4491,7 +4495,7 @@ msgstr ""
 
 #: ../../C17.rst:1681
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1692
 msgid ""
@@ -4562,7 +4566,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1713
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../C17.rst:1718
 msgid ""

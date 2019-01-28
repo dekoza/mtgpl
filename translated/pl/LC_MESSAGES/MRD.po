@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mrd/pl/>\n"
 "Language: pl\n"
@@ -48,6 +48,8 @@ msgid ""
 "Enchanted creature can't attack or block, and its activated abilities "
 "can't be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../MRD.rst:20
 msgid ""
@@ -1278,7 +1280,7 @@ msgstr ""
 
 #: ../../MRD.rst:499
 msgid "First strike, haste"
-msgstr ""
+msgstr "Pierwszy cios, pośpiech"
 
 #: ../../MRD.rst:510
 msgid ""
@@ -1535,6 +1537,7 @@ msgstr ""
 #: ../../MRD.rst:601
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
+"Wszystkie stwory mogące blokować wskazanego stwora w tej turze, robią to."
 
 #: ../../MRD.rst:606
 msgid ""
@@ -1713,6 +1716,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../MRD.rst:674
 msgid ""
@@ -2592,7 +2597,7 @@ msgstr ""
 
 #: ../../MRD.rst:1001
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../MRD.rst:1003
 msgid ""

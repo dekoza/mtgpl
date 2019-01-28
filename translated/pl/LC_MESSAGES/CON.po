@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/con/pl/>\n"
 "Language: pl\n"
@@ -366,7 +366,7 @@ msgstr ""
 
 #: ../../CON.rst:129
 msgid "Creatures your opponents control get -1/-0."
-msgstr ""
+msgstr "Stwory pod władaniem twoich przeciwników dostają -1/-0."
 
 #: ../../CON.rst:136
 msgid ":mtgtip:`Esperzoa<https://img.scryfall.com/cards/border_crop/en/con/25.jpg?1517813031|https://scryfall.com/card/con/25/esperzoa?utm_source=api>`"
@@ -446,6 +446,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../CON.rst:167
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
@@ -541,7 +543,7 @@ msgstr ""
 
 #: ../../CON.rst:199
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../CON.rst:204
 msgid ""
@@ -1177,7 +1179,7 @@ msgstr ""
 
 #: ../../CON.rst:427
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../CON.rst:429
 msgid ""
@@ -1859,7 +1861,7 @@ msgstr ""
 
 #: ../../CON.rst:693
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../CON.rst:698
 msgid ""
@@ -1870,7 +1872,7 @@ msgstr ""
 
 #: ../../CON.rst:697
 msgid "Protection from green"
-msgstr ""
+msgstr "Ochrona przed zielonym"
 
 #: ../../CON.rst:702
 msgid ""

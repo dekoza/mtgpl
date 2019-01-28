@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/7ed/pl/>\n"
 "Language: pl\n"
@@ -740,6 +740,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../7ED.rst:292
 msgid ":mtgtip:`Boomerang<https://img.scryfall.com/cards/border_crop/en/7ed/64.jpg?1517813031|https://scryfall.com/card/7ed/64/boomerang?utm_source=api>`"
@@ -1188,7 +1190,7 @@ msgstr ""
 
 #: ../../7ED.rst:483
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../7ED.rst:490
 msgid ""
@@ -1347,6 +1349,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../7ED.rst:560
 msgid ":mtgtip:`Corrupt<https://img.scryfall.com/cards/border_crop/en/7ed/124.jpg?1517813031|https://scryfall.com/card/7ed/124/corrupt?utm_source=api>`"
@@ -1610,7 +1614,7 @@ msgstr ""
 
 #: ../../7ED.rst:661
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../7ED.rst:666
 msgid ":mtgtip:`Nausea<https://img.scryfall.com/cards/border_crop/en/7ed/148.jpg?1517813031|https://scryfall.com/card/7ed/148/nausea?utm_source=api>`"
@@ -2118,6 +2122,8 @@ msgid ""
 "Mountainwalk (This creature can't be blocked as long as defending player "
 "controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../7ED.rst:866
 msgid ""
@@ -2542,7 +2548,7 @@ msgstr ""
 
 #: ../../7ED.rst:1041 ../../7ED.rst:1101
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../7ED.rst:1046
 msgid ":mtgtip:`Compost<https://img.scryfall.com/cards/border_crop/en/7ed/235.jpg?1517813031|https://scryfall.com/card/7ed/235/compost?utm_source=api>`"
@@ -2916,6 +2922,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../7ED.rst:1188
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rav/pl/>\n"
 "Language: pl\n"
@@ -728,6 +728,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../RAV.rst:284
 msgid ":mtgtip:`Grozoth<https://img.scryfall.com/cards/border_crop/en/rav/53.jpg?1530718836|https://scryfall.com/card/rav/53/grozoth?utm_source=api>`"
@@ -1415,6 +1417,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../RAV.rst:543
 msgid "Sacrifice Sewerdreg: Exile target card from a graveyard."
@@ -1753,6 +1757,8 @@ msgid ""
 "Mountainwalk (This creature can't be blocked as long as defending player "
 "controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../RAV.rst:672
 msgid ""
@@ -2276,7 +2282,7 @@ msgstr ""
 
 #: ../../RAV.rst:859 ../../RAV.rst:1169
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../RAV.rst:864
 msgid ""
@@ -2391,7 +2397,7 @@ msgstr ""
 
 #: ../../RAV.rst:909
 msgid "Return target card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../RAV.rst:914
 msgid ""
@@ -2606,6 +2612,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../RAV.rst:993
 msgid ""
@@ -2698,7 +2706,7 @@ msgstr "Wskazany gracz dobiera dwie karty."
 
 #: ../../RAV.rst:1019
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../RAV.rst:1024
 msgid ""
@@ -2993,7 +3001,7 @@ msgstr ""
 
 #: ../../RAV.rst:1129
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: ../../RAV.rst:1134
 msgid ""
@@ -3535,7 +3543,7 @@ msgstr ""
 
 #: ../../RAV.rst:1339
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../RAV.rst:1341
 msgid ""

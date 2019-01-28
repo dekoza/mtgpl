@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/jou/pl/>\n"
 "Language: pl\n"
@@ -2049,13 +2049,12 @@ msgstr ""
 
 # 4d8279c5b0654369b9eeb5b9c6eed474
 #: ../../JOU.rst:613
-#, fuzzy
 msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
-"Ilekroć gracz tapuje ląd pobierając manę, ów gracz dodaje do swojej puli "
-"many jedną manę w kolorze, który został przez ów ląd wyprodukowany."
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
+"kolorze wyprodukowanym przez ów ląd."
 
 #: ../../JOU.rst:618
 msgid ""

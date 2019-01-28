@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 21:48+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/tor/pl/>\n"
 "Language: pl\n"
@@ -842,7 +842,7 @@ msgstr ""
 
 #: ../../TOR.rst:317
 msgid "Target player sacrifices a creature."
-msgstr ""
+msgstr "Wskazany gracz poświęca stwora."
 
 #: ../../TOR.rst:319
 msgid ""
@@ -1266,6 +1266,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../TOR.rst:477
 msgid ""
@@ -1522,7 +1524,7 @@ msgstr ""
 
 #: ../../TOR.rst:577
 msgid "First strike, haste"
-msgstr ""
+msgstr "Pierwszy cios, pośpiech"
 
 #: ../../TOR.rst:579
 msgid ""
@@ -2064,7 +2066,7 @@ msgstr ""
 
 #: ../../TOR.rst:783
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../TOR.rst:785
 msgid ""

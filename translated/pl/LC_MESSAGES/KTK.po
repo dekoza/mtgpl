@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -736,7 +736,7 @@ msgstr ""
 # 4f6f8d818b524c0fbe44565b7821bcd2
 #: ../../KTK.rst:207
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 # 40788170bc4e4d1c806b534aec292ea5
 #: ../../KTK.rst:209
@@ -1115,8 +1115,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
-"władane przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../KTK.rst:350
 msgid ""
@@ -2411,6 +2411,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 # 399a4c57dc3047f68b28d33d7379dcce
 #: ../../KTK.rst:761
@@ -2494,7 +2496,7 @@ msgstr ""
 #: ../../KTK.rst:783
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
-"Wszystkie stwory mogące zablokować wskazanego stwora w tej turze, robią to."
+"Wszystkie stwory mogące blokować wskazanego stwora w tej turze, robią to."
 
 # 18c272f3a7544b9ba56d6ef5a5f05fde
 #: ../../KTK.rst:785

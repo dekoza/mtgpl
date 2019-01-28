@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -257,7 +257,7 @@ msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../C15.rst:89
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../C15.rst:91 ../../C15.rst:611 ../../C15.rst:1353
 msgid "Draw a card."
@@ -1554,6 +1554,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../C15.rst:565
 msgid ""
@@ -3568,18 +3570,22 @@ msgstr ""
 
 #: ../../C15.rst:1267
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../C15.rst:1269
 msgid ""
 "You may cast the top card of your library if it's an instant or sorcery card."
 msgstr ""
+"Możesz rzucać wierzchnią kartę twojej biblioteki jeśli jest kartą sztuczki "
+"lub obrzędu."
 
 #: ../../C15.rst:1271
 msgid ""
 "Whenever you cast an instant or sorcery spell from your library, copy it. "
 "You may choose new targets for the copy."
 msgstr ""
+"Ilekroć rzucasz czar sztuczki lub obrzędu z twojej biblioteki, skopiuj ów "
+"czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../C15.rst:1278
 msgid ""
@@ -3651,7 +3657,7 @@ msgstr ""
 
 #: ../../C15.rst:1297
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: ../../C15.rst:1302
 msgid ""
@@ -3676,13 +3682,15 @@ msgstr ""
 
 #: ../../C15.rst:1305
 msgid "Vigilance, protection from creatures"
-msgstr ""
+msgstr "Czujność, ochrona przed stworami"
 
 #: ../../C15.rst:1307
 msgid ""
 "Whenever a creature deals combat damage to you, destroy that creature. "
 "Create a 1/1 white and black Spirit creature token with flying."
 msgstr ""
+"Ilekroć jakiś stwór zada tobie obrażenia bojowe, zniszcz owego stwora. "
+"Umieść na polu walki żeton czarno-białego stwora Duch 1/1 z lataniem."
 
 #: ../../C15.rst:1314
 msgid ""
@@ -3790,6 +3798,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../C15.rst:1347
 msgid ""
@@ -3869,7 +3879,7 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../C15.rst:1379
 msgid "|mana_r|\\ |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
-msgstr ""
+msgstr "|mana_r|\\ |mana_w|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../C15.rst:1384
 msgid ""
@@ -4073,7 +4083,7 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../C15.rst:1459
 msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
-msgstr ""
+msgstr "|mana_w|\\ |mana_b|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../C15.rst:1464
 msgid ""
@@ -4349,7 +4359,7 @@ msgstr ""
 
 #: ../../C15.rst:1567
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C15.rst:1574
 msgid ""
@@ -4432,11 +4442,11 @@ msgstr ""
 
 #: ../../C15.rst:1603
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C15.rst:1605 ../../C15.rst:1647
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../C15.rst:1614
 msgid ""
@@ -4515,11 +4525,11 @@ msgstr ""
 
 #: ../../C15.rst:1637
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C15.rst:1639 ../../C15.rst:1781
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../C15.rst:1648
 msgid ""
@@ -4656,7 +4666,7 @@ msgstr ""
 
 #: ../../C15.rst:1697
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C15.rst:1708
 msgid ""
@@ -4748,7 +4758,7 @@ msgstr ""
 
 #: ../../C15.rst:1747
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C15.rst:1758
 msgid ""

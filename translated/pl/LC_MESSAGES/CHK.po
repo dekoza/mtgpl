@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/chk/pl/>\n"
 "Language: pl\n"
@@ -764,7 +764,7 @@ msgstr ""
 
 #: ../../CHK.rst:289
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../CHK.rst:291
 msgid ""
@@ -2118,7 +2118,7 @@ msgstr ""
 
 #: ../../CHK.rst:805
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../CHK.rst:810
 msgid ""
@@ -2181,7 +2181,7 @@ msgstr ""
 
 #: ../../CHK.rst:829
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../CHK.rst:831
 msgid ""
@@ -2669,6 +2669,8 @@ msgid ""
 "Mountainwalk (This creature can't be blocked as long as defending player "
 "controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../CHK.rst:1010
 msgid ""
@@ -2765,7 +2767,7 @@ msgstr ""
 
 #: ../../CHK.rst:1039
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../CHK.rst:1043
 msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
@@ -2992,6 +2994,8 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
+"kolorze wyprodukowanym przez ów ląd."
 
 #: ../../CHK.rst:1124
 msgid ""
@@ -3066,6 +3070,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../CHK.rst:1150
 msgid ""
@@ -3244,7 +3250,7 @@ msgstr ""
 
 #: ../../CHK.rst:1211 ../../CHK.rst:1301
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../CHK.rst:1213
 msgid ""

@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 13:36+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -325,7 +325,7 @@ msgstr "Umieszczając ten urok na polu walki, wybierz dowolną nazwę karty."
 
 #: ../../AKH.rst:97
 msgid "Your opponents can't cast spells with the chosen name."
-msgstr "Twoi przeciwnicy nie mogą rzucać czarów z wybraną nazwą."
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów o wybranej nazwie."
 
 #: ../../AKH.rst:99
 msgid ""
@@ -2847,8 +2847,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
-"władane przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../AKH.rst:1002
 msgid ""
@@ -3467,7 +3467,7 @@ msgstr ""
 #: ../../AKH.rst:1223
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
-"Wszystkie stwory mogące zablokować wskazanego stwora w tej turze, robią to."
+"Wszystkie stwory mogące blokować wskazanego stwora w tej turze, robią to."
 
 #: ../../AKH.rst:1228
 msgid ""

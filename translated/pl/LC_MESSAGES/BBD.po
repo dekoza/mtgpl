@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bbd/pl/>\n"
 "Language: pl\n"
@@ -1372,7 +1372,7 @@ msgstr ""
 
 #: ../../BBD.rst:481
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../BBD.rst:488
 msgid ""
@@ -1389,7 +1389,7 @@ msgstr ""
 
 #: ../../BBD.rst:487
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../BBD.rst:494
 msgid ""
@@ -1406,7 +1406,7 @@ msgstr ""
 
 #: ../../BBD.rst:493
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../BBD.rst:500
 msgid ""
@@ -1440,7 +1440,7 @@ msgstr ""
 
 #: ../../BBD.rst:505
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../BBD.rst:510
 msgid ""
@@ -1782,6 +1782,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../BBD.rst:640
 msgid ""
@@ -1891,7 +1893,7 @@ msgstr ""
 
 #: ../../BBD.rst:681
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../BBD.rst:688
 msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/en/bbd/123.jpg?1529062124|https://scryfall.com/card/bbd/123/negate?utm_source=api>`"
@@ -2278,7 +2280,7 @@ msgstr ""
 
 #: ../../BBD.rst:835
 msgid "Target player draws two cards and loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: ../../BBD.rst:838
 msgid ""
@@ -2753,7 +2755,7 @@ msgstr ""
 
 #: ../../BBD.rst:1013 ../../BBD.rst:1213
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../BBD.rst:1018
 msgid ""
@@ -3172,6 +3174,7 @@ msgid ""
 "Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until"
 " end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inne atakujące stwory dostają +1/+1 do końca tury."
 
 #: ../../BBD.rst:1176
 msgid ""
@@ -3242,6 +3245,9 @@ msgid ""
 " by a creature with lifelink also causes its controller to gain that much"
 " life.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma tratowanie oraz więź życia. (Obrażenia "
+"zadane przez stwora z więzią życia sprawiają, że jego władca zyskuje tyle "
+"samo żyć.)"
 
 #: ../../BBD.rst:1208
 msgid ""

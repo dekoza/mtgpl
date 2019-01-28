@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/4ed/pl/>\n"
 "Language: pl\n"
@@ -1296,6 +1296,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../4ED.rst:514
 msgid ":mtgtip:`Sindbad<https://img.scryfall.com/cards/border_crop/en/4ed/100.jpg?1517813031|https://scryfall.com/card/4ed/100/sindbad?utm_source=api>`"
@@ -1453,7 +1455,7 @@ msgstr ""
 
 #: ../../4ED.rst:573
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../4ED.rst:578
 msgid ""
@@ -1606,6 +1608,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../4ED.rst:640
 msgid ""
@@ -2642,6 +2646,8 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
+"kolorze wyprodukowanym przez ów ląd."
 
 #: ../../4ED.rst:1066
 msgid ":mtgtip:`Manabarbs<https://img.scryfall.com/cards/border_crop/en/4ed/212.jpg?1517813031|https://scryfall.com/card/4ed/212/manabarbs?utm_source=api>`"
@@ -3068,7 +3074,7 @@ msgstr ""
 
 #: ../../4ED.rst:1239
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../4ED.rst:1242
 msgid ""
@@ -3309,6 +3315,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../4ED.rst:1348
 msgid ""

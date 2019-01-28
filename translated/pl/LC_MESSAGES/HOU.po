@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 21:47+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -873,8 +873,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
-"władane przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../HOU.rst:273
 msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
@@ -978,7 +978,7 @@ msgstr ""
 
 #: ../../HOU.rst:309
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../HOU.rst:316
 msgid ""

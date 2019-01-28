@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/a25/pl/>\n"
 "Language: pl\n"
@@ -303,7 +303,7 @@ msgstr ""
 
 #: ../../A25.rst:103
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../A25.rst:105
 msgid "Whenever a player casts a red spell, you may gain 1 life."
@@ -562,7 +562,7 @@ msgstr ""
 
 #: ../../A25.rst:199
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../A25.rst:201
 msgid ""
@@ -1225,7 +1225,7 @@ msgstr ""
 
 #: ../../A25.rst:453
 msgid "Target player sacrifices a creature."
-msgstr ""
+msgstr "Wskazany gracz poświęca stwora."
 
 #: ../../A25.rst:462
 msgid ""
@@ -1560,6 +1560,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../A25.rst:575
 msgid "Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)"
@@ -2360,7 +2362,7 @@ msgstr ""
 
 #: ../../A25.rst:849
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../A25.rst:851
 msgid "You may play the top card of your library if it's a land card."
@@ -2436,7 +2438,7 @@ msgstr ""
 
 #: ../../A25.rst:875
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../A25.rst:877
 msgid ""
@@ -2679,7 +2681,7 @@ msgstr ""
 
 #: ../../A25.rst:969
 msgid "Return target card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../A25.rst:974
 msgid ""
@@ -3040,6 +3042,8 @@ msgid ""
 "of their draw steps, instead that player skips that draw and you draw a "
 "card."
 msgstr ""
+"Jeśli przeciwnik miałby dobrać kartę oprócz pierwszej dobranej w swoim kroku "
+"dobierania, zamiast tego ów gracz pomija to dobieranie, a ty dobierasz kartę."
 
 #: ../../A25.rst:1110
 msgid ""
@@ -3119,7 +3123,7 @@ msgid ""
 "Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to"
 " that player."
 msgstr ""
-"Ilekroć gracz rzuca czar nie będący stworem, ten stwór zadaje owemu graczowi "
+"Ilekroć gracz rzuci czar nie będący stworem, ten stwór zadaje owemu graczowi "
 "6 obrażeń."
 
 #: ../../A25.rst:1146

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/2ed/pl/>\n"
 "Language: pl\n"
@@ -1096,7 +1096,7 @@ msgstr ""
 
 #: ../../2ED.rst:433
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../2ED.rst:438
 msgid ""
@@ -1220,6 +1220,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../2ED.rst:484
 msgid ""
@@ -2055,6 +2057,8 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
+"kolorze wyprodukowanym przez ów ląd."
 
 #: ../../2ED.rst:824
 msgid ":mtgtip:`Manabarbs<https://img.scryfall.com/cards/border_crop/en/2ed/164.jpg?1525123028|https://scryfall.com/card/2ed/164/manabarbs?utm_source=api>`"
@@ -2492,7 +2496,7 @@ msgstr ""
 
 #: ../../2ED.rst:997
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../2ED.rst:1000
 msgid ""
@@ -2658,7 +2662,7 @@ msgstr ""
 
 #: ../../2ED.rst:1075
 msgid "Return target card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../2ED.rst:1080
 msgid ""
@@ -2679,6 +2683,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../2ED.rst:1088
 msgid ""

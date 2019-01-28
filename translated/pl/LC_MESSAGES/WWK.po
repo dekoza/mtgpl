@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 21:48+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/wwk/pl/>\n"
 "Language: pl\n"
@@ -184,7 +184,7 @@ msgstr ""
 
 #: ../../WWK.rst:63
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../WWK.rst:65
 msgid "Whenever a player casts a red spell, you may gain 1 life."
@@ -232,6 +232,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../WWK.rst:90
 msgid ""
@@ -428,6 +430,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../WWK.rst:151
 msgid ""
@@ -1537,7 +1541,7 @@ msgstr ""
 
 #: ../../WWK.rst:549
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../WWK.rst:556
 msgid ""
@@ -2015,7 +2019,7 @@ msgstr ""
 
 #: ../../WWK.rst:727
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../WWK.rst:729
 msgid ""
@@ -2113,7 +2117,7 @@ msgstr ""
 
 #: ../../WWK.rst:763
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../WWK.rst:765
 msgid ""
@@ -2145,7 +2149,7 @@ msgstr ""
 
 #: ../../WWK.rst:777
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../WWK.rst:779
 msgid ""
@@ -2209,7 +2213,7 @@ msgstr ""
 
 #: ../../WWK.rst:801
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../WWK.rst:803
 msgid ""

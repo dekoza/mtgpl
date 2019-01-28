@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 21:48+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/shm/pl/>\n"
 "Language: pl\n"
@@ -288,6 +288,8 @@ msgid ""
 "Enchanted creature can't attack or block, and its activated abilities "
 "can't be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../SHM.rst:97
 msgid ""
@@ -1120,7 +1122,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../SHM.rst:411
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../SHM.rst:413
 msgid ""
@@ -1194,6 +1196,8 @@ msgid ""
 "Plainswalk (This creature can't be blocked as long as defending player "
 "controls a Plains.)"
 msgstr ""
+"Podbój równin (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Równiną.)"
 
 #: ../../SHM.rst:445
 msgid ""
@@ -1671,7 +1675,7 @@ msgstr ""
 
 #: ../../SHM.rst:629
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../SHM.rst:636
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm3/pl/>\n"
 "Language: pl\n"
@@ -762,7 +762,7 @@ msgstr ""
 
 #: ../../MM3.rst:263 ../../MM3.rst:821
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../MM3.rst:272
 msgid ""
@@ -911,7 +911,7 @@ msgstr ""
 
 #: ../../MM3.rst:323
 msgid "Creatures your opponents control get -1/-1 until end of turn."
-msgstr ""
+msgstr "Stwory pod władaniem twoich przeciwników dostają -1/-1 do końca tury."
 
 #: ../../MM3.rst:328
 msgid ":mtgtip:`Damnation<https://img.scryfall.com/cards/border_crop/en/mm3/63.jpg?1517813031|https://scryfall.com/card/mm3/63/damnation?utm_source=api>`"
@@ -1721,6 +1721,8 @@ msgid ""
 "Enchanted creature can't attack or block, and its activated abilities "
 "can't be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../MM3.rst:613
 msgid ""
@@ -2206,6 +2208,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Bronzebeak Moa gets +3/+3 until end of turn."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, ten stwór "
+"dostaje do końca tury +3/+3."
 
 #: ../../MM3.rst:796
 msgid ""
@@ -2240,11 +2244,11 @@ msgstr ""
 
 #: ../../MM3.rst:803
 msgid "Whenever a creature blocks, that creature's controller loses 1 life."
-msgstr ""
+msgstr "Ilekroć dowolny stwór blokuje, jego władca traci 1 życie."
 
 #: ../../MM3.rst:805
 msgid "|mana_1|\\ |mana_b|\\ |mana_r|: Regenerate Carnage Gladiator."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|\\ |mana_r|: Zregeneruj tego stwora."
 
 #: ../../MM3.rst:810
 msgid ""
@@ -2297,6 +2301,8 @@ msgid ""
 "When Deputy of Acquittals enters the battlefield, you may return another "
 "target creature you control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić innego stwora pod "
+"twoim władaniem do ręki jego właściciela."
 
 #: ../../MM3.rst:828
 msgid ""
@@ -2451,7 +2457,7 @@ msgstr ""
 
 #: ../../MM3.rst:875
 msgid "Attacking creatures you control get +1/+0 and have menace."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0 i mają złowrogość."
 
 #: ../../MM3.rst:886
 msgid ""
@@ -2583,6 +2589,8 @@ msgid ""
 "Target player puts the top two cards of their library into their "
 "graveyard. Draw two cards."
 msgstr ""
+"Wskazany gracz umieszcza dwie wierzchnie karty swojej biblioteki w swoim "
+"cmentarzu. Dobierz dwie karty."
 
 #: ../../MM3.rst:934
 msgid ":mtgtip:`Putrefy<https://img.scryfall.com/cards/border_crop/en/mm3/179.jpg?1517813031|https://scryfall.com/card/mm3/179/putrefy?utm_source=api>`"
@@ -2590,7 +2598,7 @@ msgstr ""
 
 #: ../../MM3.rst:933
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: ../../MM3.rst:938
 msgid ""
@@ -2651,6 +2659,8 @@ msgid ""
 "When Sin Collector enters the battlefield, target opponent reveals their "
 "hand. You choose an instant or sorcery card from it and exile that card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"rękę. Wybierz z niej kartę sztuczki lub obrzędu i wygnaj ją."
 
 #: ../../MM3.rst:960
 msgid ""
@@ -2826,6 +2836,9 @@ msgid ""
 " by a creature with lifelink also causes its controller to gain that much"
 " life.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma tratowanie oraz więź życia. (Obrażenia "
+"zadane przez stwora z więzią życia sprawiają, że jego władca zyskuje tyle "
+"samo żyć.)"
 
 #: ../../MM3.rst:1032
 msgid ""
@@ -2867,6 +2880,9 @@ msgid ""
 "\"This creature's power and toughness are each equal to the number of "
 "creatures you control.\""
 msgstr ""
+"Ilekroć przeciwnik rzuci czar w twojej turze lub kiedy ten stwór umrze, "
+"stwórz zielono-biały żeton stwora Żywiołak ze zdolnością \"Siła oraz "
+"wytrzymałość tego stwora są obie równe liczbie stworów pod twoim władaniem.'"
 
 #: ../../MM3.rst:1046
 msgid ""
@@ -3263,7 +3279,7 @@ msgstr ""
 
 #: ../../MM3.rst:1181
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1183
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -3278,7 +3294,7 @@ msgstr ""
 
 #: ../../MM3.rst:1187
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1189
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3329,11 +3345,11 @@ msgstr ""
 
 #: ../../MM3.rst:1207
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1209
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../MM3.rst:1216
 msgid ""
@@ -3344,11 +3360,11 @@ msgstr ""
 
 #: ../../MM3.rst:1213
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1215
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../MM3.rst:1222
 msgid ""
@@ -3359,11 +3375,11 @@ msgstr ""
 
 #: ../../MM3.rst:1219
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1221
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../MM3.rst:1228
 msgid ""
@@ -3374,11 +3390,11 @@ msgstr ""
 
 #: ../../MM3.rst:1225
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1227
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../MM3.rst:1234
 msgid ""
@@ -3432,7 +3448,7 @@ msgstr ""
 
 #: ../../MM3.rst:1245
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1247
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -3447,11 +3463,11 @@ msgstr ""
 
 #: ../../MM3.rst:1251
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1253
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../MM3.rst:1260
 msgid ""
@@ -3506,11 +3522,11 @@ msgstr ""
 
 #: ../../MM3.rst:1273
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1275
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../MM3.rst:1282
 msgid ""
@@ -3532,7 +3548,7 @@ msgstr ""
 
 #: ../../MM3.rst:1285
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1287
 msgid "|tap|: Add |mana_g| or |mana_u|."

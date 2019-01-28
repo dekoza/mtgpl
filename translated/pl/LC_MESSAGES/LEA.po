@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lea/pl/>\n"
 "Language: pl\n"
@@ -1083,7 +1083,7 @@ msgstr ""
 
 #: ../../LEA.rst:429
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../LEA.rst:434
 msgid ""
@@ -1207,6 +1207,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../LEA.rst:480
 msgid ""
@@ -2042,6 +2044,8 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
+"kolorze wyprodukowanym przez ów ląd."
 
 #: ../../LEA.rst:820
 msgid ":mtgtip:`Manabarbs<https://img.scryfall.com/cards/border_crop/en/lea/163.jpg?1525123832|https://scryfall.com/card/lea/163/manabarbs?utm_source=api>`"
@@ -2479,7 +2483,7 @@ msgstr ""
 
 #: ../../LEA.rst:993
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../LEA.rst:996
 msgid ""
@@ -2645,7 +2649,7 @@ msgstr ""
 
 #: ../../LEA.rst:1071
 msgid "Return target card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../LEA.rst:1076
 msgid ""
@@ -2666,6 +2670,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../LEA.rst:1084
 msgid ""

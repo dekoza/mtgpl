@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"PO-Revision-Date: 2019-01-28 10:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -624,7 +624,7 @@ msgstr ""
 
 #: ../../C16.rst:227
 msgid "Create four 1/1 white Bird creature tokens with flying."
-msgstr ""
+msgstr "Stwórz cztery żetony białego stwora Ptak 1/1 z lataniem."
 
 #: ../../C16.rst:240
 msgid ""
@@ -2931,6 +2931,8 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it deals combat "
 "damage to a player, you may draw a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 zada graczowi "
+"obrażenia bitewne, możesz dobrać kartę."
 
 #: ../../C16.rst:1064
 msgid ""
@@ -3415,6 +3417,10 @@ msgid ""
 "upkeep, if this creature isn't a token, create a token that's a copy of this "
 "creature.\""
 msgstr ""
+"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
+"stwora na polu walki, ale dodatkowo ma zdolność \"Na początku twojego kroku "
+"utrzymania, jeśli ten stwór nie jest żetonem, stwórz żeton będący kopią tego "
+"stwora.\""
 
 #: ../../C16.rst:1232
 msgid ""
@@ -3424,7 +3430,7 @@ msgstr ""
 
 #: ../../C16.rst:1231
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr "Zniszcz wskazany artefakt lub stwora. Nie może zostać zregenerowany."
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: ../../C16.rst:1242
 msgid ""
@@ -3569,6 +3575,8 @@ msgid ""
 "|mana_g|\\ |mana_u|, |tap|: Double the number of each kind of counter on "
 "target artifact, creature, or land."
 msgstr ""
+"|mana_g|\\ |mana_u|, |tap|: Podwój liczbę każdego rodzaju znaczników na "
+"wskazanym artefakcie, stworze lub lądzie."
 
 #: ../../C16.rst:1294
 msgid ""
@@ -3647,6 +3655,8 @@ msgstr "|tap|: Dostajesz |mana_g|."
 msgid ""
 "Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent."
 msgstr ""
+"Ilekroć przekręcasz tego stwora pobierając manę, zadaje on po 1 obrażeniu "
+"każdemu z przeciwników."
 
 #: ../../C16.rst:1326
 msgid ""
@@ -4534,7 +4544,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1667
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../C16.rst:1674
 msgid ""
@@ -4728,7 +4738,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1747
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../C16.rst:1754
 msgid ""
@@ -4959,7 +4969,7 @@ msgstr ""
 
 #: ../../C16.rst:1843 ../../C16.rst:1851
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../C16.rst:1852
 msgid ""
@@ -5148,7 +5158,7 @@ msgstr ""
 
 #: ../../C16.rst:1921
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../C16.rst:1930
 msgid ""
@@ -5167,7 +5177,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1929
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../C16.rst:1934
 msgid ""

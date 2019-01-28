@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-26 22:20+0000\n"
+"PO-Revision-Date: 2019-01-28 11:00+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/9ed/pl/>\n"
 "Language: pl\n"
@@ -1388,6 +1388,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../9ED.rst:558
 msgid ":mtgtip:`Coercion<https://img.scryfall.com/cards/border_crop/en/9ed/118.jpg?1517813031|https://scryfall.com/card/9ed/118/coercion?utm_source=api>`"
@@ -1717,7 +1719,7 @@ msgstr ""
 
 #: ../../9ED.rst:681
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../9ED.rst:686
 msgid ":mtgtip:`Mindslicer<https://img.scryfall.com/cards/border_crop/en/9ed/146.jpg?1517813031|https://scryfall.com/card/9ed/146/mindslicer?utm_source=api>`"
@@ -2247,6 +2249,8 @@ msgid ""
 "Mountainwalk (This creature can't be blocked as long as defending player "
 "controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../9ED.rst:900
 msgid ""
@@ -2804,7 +2808,7 @@ msgstr ""
 
 #: ../../9ED.rst:1125 ../../9ED.rst:1255
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../9ED.rst:1130
 msgid ""
@@ -3040,6 +3044,8 @@ msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../9ED.rst:1222
 msgid ""
@@ -3248,6 +3254,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../9ED.rst:1304
 msgid ""
