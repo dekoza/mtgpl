@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-28 19:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -2236,15 +2236,14 @@ msgstr ""
 # 1070937d0d7947a3a581b067c086efec
 # c35ba884674e4d1cb948fbce51094b74
 #: ../../M14.rst:657
-#, fuzzy
 msgid ""
 "+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and "
 "1 damage to up to one target creature that player or that planeswalker's "
 "controller controls. That creature can't block this turn."
 msgstr ""
-"+1: Chandra, Pyromaster zadaje 1 obrażenie wskazanemu graczowi i 1 obrażenie "
-"najwyżej jednemu stworowi władanemu przez tego gracza. Ów stwór nie może "
-"blokować w tej turze."
+"+1: Ten wędrowiec zadaje 1 obrażenie wskazanemu graczowi lub wędrowcowi oraz "
+"1 obrażenie co najwyżej jednemu wskazanemu stworowi pod władaniem owego "
+"gracza lub władcy owego wędrowca. Ów stwór nie może blokować w tej turze."
 
 # e9c0f50673e0466fb937d9cec38576c8
 # 06c39dd0fd4440c1a5006da0ab73edce
@@ -2256,15 +2255,14 @@ msgstr ""
 # 4518c409cae5497bb9e7fa1b632230b9
 # a642a5124dbe412b9172860c7f308d82
 #: ../../M14.rst:661
-#, fuzzy
 msgid ""
 "−7: Exile the top ten cards of your library. Choose an instant or sorcery "
 "card exiled this way and copy it three times. You may cast the copies "
 "without paying their mana costs."
 msgstr ""
-"-7: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Wybierz spośród nich "
-"kartę sztuczki lub obrzędu i skopiuj trzykrotnie. Możesz rzucić te kopie bez "
-"płacenia kosztów many."
+"–7: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Wybierz spośród nich "
+"kartę sztuczki lub obrzędu i skopiuj trzykrotnie. Możesz rzucić owe kopie "
+"bez płacenia ich kosztów many."
 
 #: ../../M14.rst:666
 msgid ""
@@ -2280,8 +2278,8 @@ msgid ""
 "Chandra's Outrage deals 4 damage to target creature and 2 damage to that "
 "creature's controller."
 msgstr ""
-"Chandra's Outrage zadaje 4 obrażenia wskazanemu stworowi oraz 2 obrażenia "
-"władcy owego stwora."
+"Ten czar zadaje 4 obrażenia wskazanemu stworowi oraz 2 obrażenia władcy "
+"owego stwora."
 
 #: ../../M14.rst:674
 msgid ""
@@ -2308,9 +2306,9 @@ msgid ""
 "control or by a red planeswalker you control, return Chandra's Phoenix from "
 "your graveyard to your hand."
 msgstr ""
-"Ilekroć przeciwnik otrzymuje obrażenia od czerwonego czaru sztuczki lub "
-"obrzędu pod twoim władaniem lub od czerwonego wędrowca pod twoim władaniem "
-"przywróć Chandra's Phoenix z twojego cmentarza do twojej ręki."
+"Ilekroć przeciwnik otrzyma obrażenia od czerwonego czaru sztuczki lub "
+"obrzędu pod twoim władaniem lub od czerwonego wędrowca pod twoim władaniem, "
+"przywróć niniejszą kartę z twojego cmentarza do twojej ręki."
 
 #: ../../M14.rst:680
 msgid ""
@@ -2323,7 +2321,7 @@ msgstr ""
 # cee97542224a4f5180120b523d76ff30
 #: ../../M14.rst:679
 msgid "Cyclops Tyrant can't block creatures with power 2 or less."
-msgstr "Cyclops Tyrant nie może blokować stworów o sile 2 lub mniej."
+msgstr "Ten stwór nie może blokować stworów o sile 2 lub mniejszej."
 
 #: ../../M14.rst:684
 msgid ""
@@ -2362,7 +2360,7 @@ msgstr ""
 # de298874fef341238e273952fa995f76
 #: ../../M14.rst:695
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr "|mana_r|: Wykluty Smok dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../M14.rst:700
 msgid ""
@@ -2375,13 +2373,12 @@ msgstr ""
 # e70c71226091475aaa992042d3dd30b5
 # W języku polskim "lub" oznacza angielskie "and/or" ("or" to polskie "albo") - taka ciekawostka nomenklatury logiki matematycznej ;)
 #: ../../M14.rst:699
-#, fuzzy
 msgid ""
 "Flames of the Firebrand deals 3 damage divided as you choose among one, two, "
 "or three targets."
 msgstr ""
-"Flames of the Firebrand zadaje 3 obrażenia rozdzielone według twojego wyboru "
-"pomiędzy jednego, dwóch albo trzech wskazanych stworów lub graczy."
+"Ten czar zadaje 3 obrażenia rozdzielone według twojego wyboru pomiędzy "
+"jeden, dwa albo trzy wskazane cele."
 
 #: ../../M14.rst:704
 msgid ""

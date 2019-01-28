@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-28 19:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -2165,6 +2165,9 @@ msgid ""
 "1 damage to up to one target creature that player or that planeswalker's "
 "controller controls. That creature can't block this turn."
 msgstr ""
+"+1: Ten wędrowiec zadaje 1 obrażenie wskazanemu graczowi lub wędrowcowi oraz "
+"1 obrażenie co najwyżej jednemu wskazanemu stworowi pod władaniem owego "
+"gracza lub władcy owego wędrowca. Ów stwór nie może blokować w tej turze."
 
 # 3945c1cbdea2441f944b1952d5626125
 #: ../../M15.rst:703
@@ -2174,15 +2177,14 @@ msgstr ""
 
 # 94e0ff8ceab445698db142cc2e05ad0d
 #: ../../M15.rst:705
-#, fuzzy
 msgid ""
 "−7: Exile the top ten cards of your library. Choose an instant or sorcery "
 "card exiled this way and copy it three times. You may cast the copies "
 "without paying their mana costs."
 msgstr ""
-"-7: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Wybierz spośród nich "
-"kartę sztuczki lub obrzędu i skopiuj trzykrotnie. Możesz rzucić te kopie bez "
-"płacenia kosztów many."
+"–7: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Wybierz spośród nich "
+"kartę sztuczki lub obrzędu i skopiuj trzykrotnie. Możesz rzucić owe kopie "
+"bez płacenia ich kosztów many."
 
 #: ../../M15.rst:710
 msgid ""

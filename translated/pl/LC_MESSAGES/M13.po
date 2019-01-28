@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-28 19:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m13/pl/>\n"
 "Language: pl\n"
@@ -1658,7 +1658,7 @@ msgstr ""
 
 #: ../../M13.rst:643
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../M13.rst:648
 msgid ":mtgtip:`Fervor<https://img.scryfall.com/cards/border_crop/en/m13/129.jpg?1517813031|https://scryfall.com/card/m13/129/fervor?utm_source=api>`"
@@ -1702,6 +1702,8 @@ msgid ""
 "Flames of the Firebrand deals 3 damage divided as you choose among one, "
 "two, or three targets."
 msgstr ""
+"Ten czar zadaje 3 obrażenia rozdzielone według twojego wyboru pomiędzy "
+"jeden, dwa albo trzy wskazane cele."
 
 #: ../../M13.rst:668
 msgid ""
