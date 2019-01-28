@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -302,11 +302,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../MM2.rst:117
 msgid "Creatures you control get +2/+0 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+0 do końca tury."
 
 #: ../../MM2.rst:119
 msgid "Creatures you control get +0/+2 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +0/+2 do końca tury."
 
 #: ../../MM2.rst:126
 msgid ":mtgtip:`Hikari, Twilight Guardian<https://img.scryfall.com/cards/border_crop/en/mm2/18.jpg?1517813031|https://scryfall.com/card/mm2/18/hikari-twilight-guardian?utm_source=api>`"
@@ -522,7 +522,7 @@ msgstr ""
 
 #: ../../MM2.rst:233
 msgid "|mana_2|\\ |mana_u|: Tap target creature with flying."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Przekręć wskazanego stwora z lataniem."
 
 #: ../../MM2.rst:240
 msgid ":mtgtip:`Argent Sphinx<https://img.scryfall.com/cards/border_crop/en/mm2/41.jpg?1517813031|https://scryfall.com/card/mm2/41/argent-sphinx?utm_source=api>`"
@@ -828,11 +828,11 @@ msgstr ""
 
 #: ../../MM2.rst:407
 msgid "|mana_u|: Water Servant gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór dostaje +1/-1 do końca tury."
 
 #: ../../MM2.rst:409
 msgid "|mana_u|: Water Servant gets -1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór dostaje -1/+1 do końca tury."
 
 #: ../../MM2.rst:416
 msgid ":mtgtip:`Wings of Velis Vel<https://img.scryfall.com/cards/border_crop/en/mm2/70.jpg?1517813031|https://scryfall.com/card/mm2/70/wings-of-velis-vel?utm_source=api>`"
@@ -864,7 +864,7 @@ msgstr ""
 
 #: ../../MM2.rst:427
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../MM2.rst:429
 msgid "Destroy target creature."

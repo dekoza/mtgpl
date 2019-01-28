@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-26 21:56+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/cns/pl/>\n"
 "Language: pl\n"
@@ -274,7 +274,7 @@ msgstr ""
 #: ../../CNS.rst:577 ../../CNS.rst:583 ../../CNS.rst:615 ../../CNS.rst:639
 #: ../../CNS.rst:987
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../CNS.rst:107
 msgid ""
@@ -1096,7 +1096,7 @@ msgstr ""
 
 #: ../../CNS.rst:383
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../CNS.rst:388
 msgid ""
@@ -1217,7 +1217,7 @@ msgstr ""
 
 #: ../../CNS.rst:427 ../../CNS.rst:557 ../../CNS.rst:767 ../../CNS.rst:851
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../CNS.rst:429
 msgid "Whenever Pride Guardian blocks, you gain 3 life."
@@ -1394,7 +1394,7 @@ msgstr ""
 
 #: ../../CNS.rst:501
 msgid "|mana_2|\\ |mana_u|: Tap target creature with flying."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Przekręć wskazanego stwora z lataniem."
 
 #: ../../CNS.rst:506
 msgid ":mtgtip:`Brainstorm<https://img.scryfall.com/cards/border_crop/en/cns/91.jpg?1517813031|https://scryfall.com/card/cns/91/brainstorm?utm_source=api>`"
@@ -1457,7 +1457,7 @@ msgstr ""
 
 #: ../../CNS.rst:527 ../../CNS.rst:807 ../../CNS.rst:943
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../CNS.rst:536
 msgid ""
@@ -1617,7 +1617,7 @@ msgstr ""
 
 #: ../../CNS.rst:591
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../CNS.rst:593
 msgid "|mana_3|\\ |mana_u|: Attach Stasis Cell to target creature."
@@ -1685,11 +1685,11 @@ msgstr ""
 
 #: ../../CNS.rst:621 ../../CNS.rst:1039
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../CNS.rst:623
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../CNS.rst:628
 msgid ":mtgtip:`Assassinate<https://img.scryfall.com/cards/border_crop/en/cns/113.jpg?1517813031|https://scryfall.com/card/cns/113/assassinate?utm_source=api>`"
@@ -1949,6 +1949,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../CNS.rst:720
 msgid ""

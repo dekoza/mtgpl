@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ody/pl/>\n"
 "Language: pl\n"
@@ -100,6 +100,8 @@ msgid ""
 "When Auramancer enters the battlefield, you may return target enchantment"
 " card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"uroku z twojego cmentarza do twojej ręki."
 
 #: ../../ODY.rst:38
 msgid ""
@@ -1242,7 +1244,7 @@ msgstr ""
 
 #: ../../ODY.rst:475
 msgid "You control enchanted creature."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym stworem."
 
 #: ../../ODY.rst:480
 msgid ""
@@ -1308,7 +1310,7 @@ msgstr ""
 
 #: ../../ODY.rst:503
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 #: ../../ODY.rst:508
 msgid ""
@@ -1449,6 +1451,8 @@ msgid ""
 "Target player puts the top half of their library, rounded down, into "
 "their graveyard."
 msgstr ""
+"Wskazany gracz umieszcza wierzchnią połowę swojej biblioteki w swoim "
+"cmentarzu, zaokrąglając w dół."
 
 #: ../../ODY.rst:564
 msgid ""
@@ -1695,6 +1699,8 @@ msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../ODY.rst:660
 msgid ""

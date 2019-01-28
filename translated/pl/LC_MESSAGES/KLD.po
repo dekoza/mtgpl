@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -117,7 +117,7 @@ msgstr ""
 #: ../../KLD.rst:35
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą na pole walki przekręcone."
+"Stwory władane przez twoich przeciwników wchodzą przekręcone na pole walki."
 
 #: ../../KLD.rst:37
 msgid ""
@@ -1183,6 +1183,8 @@ msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../KLD.rst:414
 msgid ""

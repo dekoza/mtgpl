@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -631,7 +631,7 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
-"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
 "artefaktyczne lub współdzielące z nim kolor.)"
 
 #: ../../ISD.rst:190
@@ -1269,7 +1269,7 @@ msgstr ""
 # ea350c5e5f5645ee905088985de11c61
 #: ../../ISD.rst:395
 msgid "Enchanted creature gets -3/-0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -3/-0."
 
 #: ../../ISD.rst:402
 msgid ""
@@ -1479,7 +1479,7 @@ msgstr ""
 
 #: ../../ISD.rst:467 ../../ISD.rst:823
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 # 3964e206bd974aaea92691b1d899ff17
 #: ../../ISD.rst:469

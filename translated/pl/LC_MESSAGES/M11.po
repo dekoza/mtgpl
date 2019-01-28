@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m11/pl/>\n"
 "Language: pl\n"
@@ -199,7 +199,7 @@ msgstr ""
 
 #: ../../M11.rst:73
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 #: ../../M11.rst:80
 msgid ""
@@ -394,6 +394,8 @@ msgid ""
 "Your opponents can't cast spells this turn. (Spells cast before this "
 "resolves are unaffected.)"
 msgstr ""
+"Twoi przeciwnicy nie mogą rzucać czarów w tej turze. (Nie wpływa na czary "
+"rzucone przed rozpatrzeniem niniejszego.)"
 
 #: ../../M11.rst:154
 msgid ""
@@ -411,7 +413,7 @@ msgstr ""
 
 #: ../../M11.rst:159
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 #: ../../M11.rst:166
 msgid ""
@@ -532,7 +534,7 @@ msgstr ""
 
 #: ../../M11.rst:209
 msgid "|mana_2|\\ |mana_u|: Tap target creature with flying."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Przekręć wskazanego stwora z lataniem."
 
 #: ../../M11.rst:214
 msgid ""
@@ -601,6 +603,8 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the"
 " battlefield."
 msgstr ""
+"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
+"stwora znajdującego się na polu walki."
 
 #: ../../M11.rst:246
 msgid ""
@@ -841,6 +845,8 @@ msgid ""
 "Whenever Merfolk Spy deals combat damage to a player, that player reveals"
 " a card at random from their hand."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz ujawnia losową "
+"kartę ze swojej ręki."
 
 #: ../../M11.rst:336
 msgid ""
@@ -851,7 +857,7 @@ msgstr ""
 
 #: ../../M11.rst:335
 msgid "You control enchanted creature."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym stworem."
 
 #: ../../M11.rst:340
 msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/en/m11/68.jpg?1517813031|https://scryfall.com/card/m11/68/negate?utm_source=api>`"
@@ -900,7 +906,7 @@ msgstr ""
 
 #: ../../M11.rst:355
 msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
-msgstr "Ilekroć ten stwór zada graczowi obrażenia bitewne, dobierz kartę."
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../M11.rst:360
 msgid ":mtgtip:`Sleep<https://img.scryfall.com/cards/border_crop/en/m11/73.jpg?1517813031|https://scryfall.com/card/m11/73/sleep?utm_source=api>`"
@@ -952,6 +958,8 @@ msgid ""
 "Target player puts the top five cards of their library into their "
 "graveyard."
 msgstr ""
+"Wskazany gracz umieszcza pięć wierzchnich kart swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../M11.rst:380
 msgid ":mtgtip:`Traumatize<https://img.scryfall.com/cards/border_crop/en/m11/77.jpg?1517813031|https://scryfall.com/card/m11/77/traumatize?utm_source=api>`"
@@ -962,6 +970,8 @@ msgid ""
 "Target player puts the top half of their library, rounded down, into "
 "their graveyard."
 msgstr ""
+"Wskazany gracz umieszcza wierzchnią połowę swojej biblioteki w swoim "
+"cmentarzu, zaokrąglając w dół."
 
 #: ../../M11.rst:384
 msgid ":mtgtip:`Unsummon<https://img.scryfall.com/cards/border_crop/en/m11/78.jpg?1517813031|https://scryfall.com/card/m11/78/unsummon?utm_source=api>`"
@@ -987,6 +997,8 @@ msgid ""
 "Whenever Wall of Frost blocks a creature, that creature doesn't untap "
 "during its controller's next untap step."
 msgstr ""
+"Ilekroć ten stwór zablokuje stwora, ów stwór nie odkręci się w najbliższym "
+"kroku odkręcania swojego władcy."
 
 #: ../../M11.rst:396
 msgid ""
@@ -997,11 +1009,11 @@ msgstr ""
 
 #: ../../M11.rst:393
 msgid "|mana_u|: Water Servant gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór dostaje +1/-1 do końca tury."
 
 #: ../../M11.rst:395
 msgid "|mana_u|: Water Servant gets -1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór dostaje -1/+1 do końca tury."
 
 #: ../../M11.rst:400
 msgid ":mtgtip:`Assassinate<https://img.scryfall.com/cards/border_crop/en/m11/81.jpg?1517813031|https://scryfall.com/card/m11/81/assassinate?utm_source=api>`"
@@ -1094,7 +1106,7 @@ msgstr ""
 
 #: ../../M11.rst:431
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../M11.rst:436
 msgid ":mtgtip:`Corrupt<https://img.scryfall.com/cards/border_crop/en/m11/89.jpg?1517813031|https://scryfall.com/card/m11/89/corrupt?utm_source=api>`"
@@ -1105,6 +1117,8 @@ msgid ""
 "Corrupt deals damage to any target equal to the number of Swamps you "
 "control. You gain life equal to the damage dealt this way."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe liczbie Bagien pod twoim "
+"władaniem. Zyskujesz tyle żyć, ile obrażeń zadano w ten sposób."
 
 #: ../../M11.rst:440
 msgid ""
@@ -1157,6 +1171,8 @@ msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../M11.rst:458
 msgid ":mtgtip:`Disentomb<https://img.scryfall.com/cards/border_crop/en/m11/94.jpg?1517813031|https://scryfall.com/card/m11/94/disentomb?utm_source=api>`"
@@ -1186,7 +1202,7 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
 "stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../M11.rst:472
@@ -1366,7 +1382,7 @@ msgstr ""
 
 #: ../../M11.rst:535
 msgid "|mana_1|\\ |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje +1/+1 do końca tury."
 
 #: ../../M11.rst:544
 msgid ""
@@ -1400,7 +1416,7 @@ msgstr ""
 
 #: ../../M11.rst:549
 msgid "Enchanted creature gets -1/-1 for each Swamp you control."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -1/-1 za każde Bagno pod twoim władaniem."
 
 #: ../../M11.rst:554
 msgid ""
@@ -1755,7 +1771,7 @@ msgstr ""
 
 #: ../../M11.rst:679
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../M11.rst:681
 msgid "Fling deals damage equal to the sacrificed creature's power to any target."

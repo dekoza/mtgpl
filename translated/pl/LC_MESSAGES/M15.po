@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -167,6 +167,9 @@ msgid ""
 "battlefield, you may exile target creature an opponent controls until this "
 "creature leaves the battlefield.\""
 msgstr ""
+"Drzazgacze pod twoim władaniem mają \"Kiedy ten stwór wejdzie na pole walki, "
+"możesz wygnać wskazanego stwora pod władaniem przeciwnika dopóki niniejszy "
+"stwór nie opuści pola walki.\""
 
 #: ../../M15.rst:50
 msgid ""
@@ -244,7 +247,7 @@ msgstr ""
 # e0208112857d4ec3a0093934559f5216
 #: ../../M15.rst:61
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 3 życia."
 
 # deed217d815844a3b21ce3bd4661a4c8
 #: ../../M15.rst:63
@@ -1365,7 +1368,7 @@ msgstr ""
 # 15f60ed1c6284b2e804d21a9a2c28547
 #: ../../M15.rst:433
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
+msgstr "Zwróć wskazany nielądowy permanent do ręki właściciela."
 
 #: ../../M15.rst:440
 msgid ""
@@ -1384,8 +1387,8 @@ msgid ""
 "Whenever Wall of Frost blocks a creature, that creature doesn't untap during "
 "its controller's next untap step."
 msgstr ""
-"Ilekroć Wall of Frost blokuje stwora, ów stwór nie odznacza się w następnym "
-"kroku odkręcania władającego nim gracza."
+"Ilekroć ten stwór zablokuje stwora, ów stwór nie odkręci się w najbliższym "
+"kroku odkręcania swojego władcy."
 
 #: ../../M15.rst:446
 msgid ""
@@ -1412,7 +1415,7 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
-"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
 "artefaktyczne lub współdzielące z nim kolor.)"
 
 #: ../../M15.rst:454
@@ -2915,7 +2918,7 @@ msgstr ""
 
 #: ../../M15.rst:953
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 # d53852d48b9f433e9ef9b7184d177fed
 #: ../../M15.rst:955
@@ -4112,6 +4115,8 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
+"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"władaniem."
 
 #: ../../M15.rst:1374
 msgid ""
@@ -4126,8 +4131,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
-"Ilekroć umiera stwór, któremu Sengir Vampire zadał obrażenia w tej turze, "
-"umieść znacznik +1/+1 na Sengir Vampire."
+"Ilekroć umrze stwór, który otrzymał od tego stwora obrażenia w tej turze, "
+"umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../M15.rst:1376
 msgid ""

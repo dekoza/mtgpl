@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -959,6 +959,8 @@ msgid ""
 "2/2 white Cat creature token. If that enchantment is an Aura, you may attach "
 "it to the token."
 msgstr ""
+"Ilekroć na pole walki pod twoim władaniem wejdzie urok, stwórz żeton białego "
+"stwora Kot 2/2. Jeśli ów urok jest Aurą, możesz dołączyć go do owego żetonu."
 
 #: ../../C15.rst:356
 msgid ""
@@ -1786,7 +1788,7 @@ msgstr ""
 
 #: ../../C15.rst:645
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../C15.rst:647
 msgid "Draw two cards."
@@ -1846,7 +1848,7 @@ msgstr ""
 
 #: ../../C15.rst:669
 msgid "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć innego stwora: Ten stwór dostaje +2/+2 do końca tury."
 
 #: ../../C15.rst:676
 msgid ""
@@ -3704,7 +3706,7 @@ msgid ""
 "Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
-"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić |mana_wb|. Jeśli tak "
+"Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
 "zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
 
 #: ../../C15.rst:1313

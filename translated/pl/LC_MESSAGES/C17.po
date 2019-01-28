@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -1047,7 +1047,7 @@ msgid ""
 "Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each"
 " opponent loses 1 life and you gain that much life.)"
 msgstr ""
-"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić |mana_wb|. Jeśli tak "
+"Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
 "zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
 
 #: ../../C17.rst:365
@@ -1055,6 +1055,8 @@ msgid ""
 "Artifacts and creatures your opponents control enter the battlefield "
 "tapped."
 msgstr ""
+"Artefakty i stwory pod władaniem twoich przeciwników wchodzą przekręcone na "
+"pole walki."
 
 #: ../../C17.rst:370
 msgid ":mtgtip:`Condemn<https://img.scryfall.com/cards/border_crop/en/c17/58.jpg?1517813031|https://scryfall.com/card/c17/58/condemn?utm_source=api>`"
@@ -1401,6 +1403,8 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę sztuczki lub "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../C17.rst:492
 msgid ""
@@ -1524,7 +1528,7 @@ msgstr ""
 
 #: ../../C17.rst:527
 msgid "Target player draws four cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera cztery karty."
 
 #: ../../C17.rst:532
 msgid ""
@@ -2058,7 +2062,7 @@ msgstr ""
 
 #: ../../C17.rst:713
 msgid "Whenever you gain life, target opponent loses that much life."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, wskazany przeciwnik traci tyle samo żyć."
 
 #: ../../C17.rst:720
 msgid ""
@@ -3281,6 +3285,8 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures "
 "and/or creatures that share a color with it.)"
 msgstr ""
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
+"artefaktyczne lub współdzielące z nim kolor.)"
 
 #: ../../C17.rst:1179
 msgid "Other creatures you control have intimidate."

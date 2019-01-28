@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/a25/pl/>\n"
 "Language: pl\n"
@@ -101,6 +101,8 @@ msgid ""
 "When Auramancer enters the battlefield, you may return target enchantment"
 " card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"uroku z twojego cmentarza do twojej ręki."
 
 #: ../../A25.rst:38
 msgid ":mtgtip:`Cloudshift<https://img.scryfall.com/cards/border_crop/en/a25/7.jpg?1521723818|https://scryfall.com/card/a25/7/cloudshift?utm_source=api>`"
@@ -118,7 +120,7 @@ msgstr ""
 
 #: ../../A25.rst:41
 msgid "Target player gains 2 life for each creature on the battlefield."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 2 życia za każdego stwora na polu walki."
 
 #: ../../A25.rst:46
 msgid ""
@@ -163,6 +165,8 @@ msgid ""
 "Cycling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Discard this card: Draw"
 " a card.)"
 msgstr ""
+"Recykling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../A25.rst:57
 msgid ""
@@ -1926,7 +1930,7 @@ msgstr ""
 
 #: ../../A25.rst:697
 msgid "Enchant Mountain"
-msgstr ""
+msgstr "Zaurocz Górę"
 
 #: ../../A25.rst:699
 msgid ""
@@ -2873,7 +2877,7 @@ msgstr ""
 
 #: ../../A25.rst:1039
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../A25.rst:1041
 msgid ""

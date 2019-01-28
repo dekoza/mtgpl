@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -574,7 +574,7 @@ msgstr ""
 
 #: ../../C18.rst:267
 msgid "Enchanted creature gets +4/+4."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +4/+4."
 
 #: ../../C18.rst:269
 msgid "Whenever an enchanted creature or enchantment creature you control attacks, draw a card."
@@ -844,6 +844,8 @@ msgstr ""
 #: ../../C18.rst:399
 msgid "Whenever an enchantment enters the battlefield under your control, create a 2/2 white Cat creature token. If that enchantment is an Aura, you may attach it to the token."
 msgstr ""
+"Ilekroć na pole walki pod twoim władaniem wejdzie urok, stwórz żeton białego "
+"stwora Kot 2/2. Jeśli ów urok jest Aurą, możesz dołączyć go do owego żetonu."
 
 #: ../../C18.rst:406
 msgid ":mtgtip:`Akroma's Vengeance<https://img.scryfall.com/cards/border_crop/en/c18/62.jpg?1535502729|https://scryfall.com/card/c18/62/akromas-vengeance?utm_source=api>`"

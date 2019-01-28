@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/nph/pl/>\n"
 "Language: pl\n"
@@ -918,7 +918,7 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
-"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
 "artefaktyczne lub współdzielące z nim kolor.)"
 
 # 20a3d60789454a23a04ac67d5b0b5b62
@@ -1016,7 +1016,7 @@ msgstr ""
 # 9d04762c583b4e0ba9f4a07f84557b15
 #: ../../NPH.rst:357
 msgid "You control enchanted creature."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym stworem."
 
 # ab0d295dcc63457994e116ad03905a01
 #: ../../NPH.rst:359
@@ -1120,7 +1120,7 @@ msgstr ""
 
 #: ../../NPH.rst:395
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 # 5e90defdb57344caa45d9a0ba7f6bf55
 #: ../../NPH.rst:397
@@ -1619,7 +1619,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../NPH.rst:593
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą na pole walki przekręcone."
+"Stwory władane przez twoich przeciwników wchodzą przekręcone na pole walki."
 
 #: ../../NPH.rst:598
 msgid ""

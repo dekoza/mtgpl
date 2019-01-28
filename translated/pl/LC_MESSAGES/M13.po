@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m13/pl/>\n"
 "Language: pl\n"
@@ -33,17 +33,16 @@ msgstr ""
 
 #: ../../M13.rst:9
 msgid "+1: Put a +1/+1 counter on up to one target creature."
-msgstr "+1: Umieść znacznik +1/+1 na najwyżej jednym wskazanym stworze."
+msgstr "+1: Umieść znacznik +1/+1 na co najwyżej jednym wskazanym stworze."
 
 #: ../../M13.rst:11
 msgid "−3: Target creature gains flying and double strike until end of turn."
-msgstr "–3: Wskazany stwór dostaje do końca tury latanie oraz podwójny cios."
+msgstr "–3: Wskazany stwór zyskuje do końca tury latanie oraz podwójny cios."
 
 #: ../../M13.rst:13
 msgid "−8: Create X 2/2 white Cat creature tokens, where X is your life total."
 msgstr ""
-"–8: Stwórz X żetonów białego stwora Cat 2/2, gdzie X jest stanem twojego "
-"życia."
+"–8: Stwórz X żetonów białego stwora Kot 2/2, gdzie X jest liczbą twoich żyć."
 
 #: ../../M13.rst:18
 msgid ""
@@ -202,7 +201,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../M13.rst:67
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../M13.rst:69
 msgid "Enchanted creature gets +1/+3."
@@ -384,7 +383,7 @@ msgstr ""
 
 #: ../../M13.rst:141
 msgid "Destroy all nonland permanents."
-msgstr ""
+msgstr "Zniszcz wszystkie nielądowe permanenty."
 
 #: ../../M13.rst:148
 msgid ""
@@ -563,6 +562,8 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę sztuczki lub "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../M13.rst:226
 msgid ""
@@ -618,6 +619,8 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the"
 " battlefield."
 msgstr ""
+"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
+"stwora znajdującego się na polu walki."
 
 #: ../../M13.rst:244
 msgid ""
@@ -752,16 +755,21 @@ msgid ""
 "+1: Draw a card. Target player puts the top card of their library into "
 "their graveyard."
 msgstr ""
+"+1: Dobierz kartę. Wskazany gracz umieszcza wierzchnią kartę swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../M13.rst:293
 msgid ""
 "0: Target player puts the top ten cards of their library into their "
 "graveyard."
 msgstr ""
+"0: Wskazany gracz umieszcza dziesięć wierzchnich kart swojej biblioteki w "
+"swoim cmentarzu."
 
 #: ../../M13.rst:295
 msgid "−7: Any number of target players each draw twenty cards."
 msgstr ""
+"–7: Każdy z dowolnej liczby wskazanych graczy dobiera po dwadzieścia kart."
 
 #: ../../M13.rst:302
 msgid ""
@@ -857,7 +865,7 @@ msgstr ""
 
 #: ../../M13.rst:337
 msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
-msgstr "Ilekroć ten stwór zada graczowi obrażenia bitewne, dobierz kartę."
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../M13.rst:342
 msgid ":mtgtip:`Sleep<https://img.scryfall.com/cards/border_crop/en/m13/67.jpg?1517813031|https://scryfall.com/card/m13/67/sleep?utm_source=api>`"
@@ -1089,11 +1097,11 @@ msgstr ""
 
 #: ../../M13.rst:433
 msgid "When Dark Favor enters the battlefield, you lose 1 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, tracisz 1 życie."
 
 #: ../../M13.rst:435
 msgid "Enchanted creature gets +3/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+1."
 
 #: ../../M13.rst:440
 msgid ""
@@ -1139,7 +1147,7 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
 "stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../M13.rst:458
@@ -1237,18 +1245,24 @@ msgid ""
 "+1: Search your library for a Swamp card, reveal it, and put it into your"
 " hand. Then shuffle your library."
 msgstr ""
+"+1: Wyszukaj w twojej bibliotece kartę Bagna, ujawnij ją i umieść w twojej "
+"ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../M13.rst:489
 msgid ""
 "−3: Target creature gets +X/+X or -X/-X until end of turn, where X is the"
 " number of Swamps you control."
 msgstr ""
+"–3: Wskazany stwór dostaje do końca tury +X/+X albo -X/-X, gdzie X jest "
+"liczbą Bagien pod twoim władaniem."
 
 #: ../../M13.rst:491
 msgid ""
 "−6: You get an emblem with \"Swamps you control have '|tap|: Add "
 "|mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|.'\""
 msgstr ""
+"–6: Dostajesz emblemat o treści \"Bagna pod twoim władaniem mają '|tap|: "
+"Dostajesz |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|.'\""
 
 #: ../../M13.rst:498
 msgid ""
@@ -1277,7 +1291,7 @@ msgstr ""
 
 #: ../../M13.rst:503
 msgid "Enchanted creature gets +2/+2 and has lifelink."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma więź życia."
 
 #: ../../M13.rst:508
 msgid ""
@@ -1483,6 +1497,8 @@ msgid ""
 "Exile target creature card from a graveyard. Create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"Wygnaj wskazaną kartę stwora z cmentarza. Stwórz żeton czarnego stwora Zombi "
+"2/2."
 
 #: ../../M13.rst:584
 msgid ""
@@ -1549,6 +1565,8 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures "
 "and/or creatures that share a color with it.)"
 msgstr ""
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
+"artefaktyczne lub współdzielące z nim kolor.)"
 
 #: ../../M13.rst:610
 msgid ""

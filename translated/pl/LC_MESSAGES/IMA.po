@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ima/pl/>\n"
 "Language: pl\n"
@@ -121,6 +121,8 @@ msgid ""
 "At the beginning of each end step, if you gained 4 or more life this "
 "turn, create a 4/4 white Angel creature token with flying."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli zyskałeś 4 lub więcej żyć w tej "
+"turze, stwórz żeton białego stwora Anioł 4/4 z lataniem."
 
 #: ../../IMA.rst:50
 msgid ""
@@ -140,6 +142,8 @@ msgstr ""
 #: ../../IMA.rst:49
 msgid "Whenever you gain life, put a +1/+1 counter on each creature you control."
 msgstr ""
+"Ilekroć zyskujesz życie, umieść znacznik +1/+1 na każdym stworze pod twoim "
+"władaniem."
 
 #: ../../IMA.rst:56
 msgid ""
@@ -395,7 +399,7 @@ msgstr ""
 
 #: ../../IMA.rst:149
 msgid "Exile target creature or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora lub urok."
 
 #: ../../IMA.rst:156
 msgid ""
@@ -409,12 +413,16 @@ msgid ""
 "As long as your life total is greater than or equal to your starting life"
 " total, creatures you control get +1/+1."
 msgstr ""
+"O ile liczba twoich żyć jest większa lub równa startowej wartości, stwory "
+"pod twoim władaniem dostają +1/+1."
 
 #: ../../IMA.rst:155
 msgid ""
 "Whenever one or more creatures you control attack, you gain life equal to"
 " the number of attacking creatures."
 msgstr ""
+"Ilekroć co najmniej jeden stwór pod twoim władaniem atakuje, zyskujesz życia "
+"równe liczbie atakujących stworów."
 
 #: ../../IMA.rst:166
 msgid ""
@@ -663,7 +671,7 @@ msgstr ""
 
 #: ../../IMA.rst:263
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../IMA.rst:265
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1158,6 +1166,9 @@ msgid ""
 "Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
+"|mana_2|, |tap|: Wyszukaj w twojej bibliotece kartę Festering Newt lub "
+"Bubbling Cauldron, umieść ją przekręconą na polu walki, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../IMA.rst:484
 msgid ""
@@ -1182,7 +1193,7 @@ msgstr ""
 
 #: ../../IMA.rst:487
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../IMA.rst:492
 msgid ""
@@ -1219,7 +1230,7 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
 "stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../IMA.rst:506
@@ -1250,6 +1261,9 @@ msgid ""
 " until end of turn. That creature gets -4/-4 instead if you control a "
 "creature named Bogbrew Witch."
 msgstr ""
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje -1/-"
+"1 do końca tury. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz stworem o "
+"nazwie Bogbrew Witch."
 
 #: ../../IMA.rst:516
 msgid ""
@@ -1477,7 +1491,7 @@ msgstr ""
 
 #: ../../IMA.rst:597
 msgid "Whenever you gain life, target opponent loses that much life."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, wskazany przeciwnik traci tyle samo żyć."
 
 #: ../../IMA.rst:606
 msgid ""
@@ -2087,6 +2101,7 @@ msgstr ""
 #: ../../IMA.rst:843
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
+"Stwory władane przez twoich przeciwników wchodzą przekręcone na pole walki."
 
 #: ../../IMA.rst:850
 msgid ""

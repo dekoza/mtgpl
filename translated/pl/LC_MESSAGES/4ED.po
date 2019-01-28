@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/4ed/pl/>\n"
 "Language: pl\n"
@@ -843,7 +843,7 @@ msgstr ""
 
 #: ../../4ED.rst:323
 msgid "You control enchanted creature."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym stworem."
 
 #: ../../4ED.rst:328
 msgid ":mtgtip:`Counterspell<https://img.scryfall.com/cards/border_crop/en/4ed/65.jpg?1517813031|https://scryfall.com/card/4ed/65/counterspell?utm_source=api>`"
@@ -1358,6 +1358,8 @@ msgid ""
 "Counter target spell with converted mana cost X. (For example, if that "
 "spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
+"Skontruj wskazany czar o skróconym koszcie many równym X. (Np. jeśli koszt "
+"owego czaru to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
 #: ../../4ED.rst:536
 msgid ":mtgtip:`Stasis<https://img.scryfall.com/cards/border_crop/en/4ed/104.jpg?1517813031|https://scryfall.com/card/4ed/104/stasis?utm_source=api>`"
@@ -1926,6 +1928,8 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps "
 "you control."
 msgstr ""
+"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"władaniem."
 
 #: ../../4ED.rst:772
 msgid ":mtgtip:`Paralyze<https://img.scryfall.com/cards/border_crop/en/4ed/151.jpg?1517813031|https://scryfall.com/card/4ed/151/paralyze?utm_source=api>`"
@@ -2059,6 +2063,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a "
 "+1/+1 counter on Sengir Vampire."
 msgstr ""
+"Ilekroć umrze stwór, który otrzymał od tego stwora obrażenia w tej turze, "
+"umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../4ED.rst:818
 msgid ":mtgtip:`Simulacrum<https://img.scryfall.com/cards/border_crop/en/4ed/161.jpg?1517813031|https://scryfall.com/card/4ed/161/simulacrum?utm_source=api>`"

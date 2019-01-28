@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/5ed/pl/>\n"
 "Language: pl\n"
@@ -837,7 +837,7 @@ msgstr ""
 
 #: ../../5ED.rst:313
 msgid "Creatures you control get +0/+2 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +0/+2 do końca tury."
 
 #: ../../5ED.rst:320
 msgid ""
@@ -985,7 +985,7 @@ msgstr ""
 
 #: ../../5ED.rst:371
 msgid "You control enchanted creature."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym stworem."
 
 #: ../../5ED.rst:373
 msgid "Enchanted creature gets +0/+1."
@@ -1634,6 +1634,8 @@ msgid ""
 "Counter target spell with converted mana cost X. (For example, if that "
 "spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
+"Skontruj wskazany czar o skróconym koszcie many równym X. (Np. jeśli koszt "
+"owego czaru to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
 #: ../../5ED.rst:640
 msgid ":mtgtip:`Stasis<https://img.scryfall.com/cards/border_crop/en/5ed/127.jpg?1517813031|https://scryfall.com/card/5ed/127/stasis?utm_source=api>`"
@@ -2386,6 +2388,8 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps "
 "you control."
 msgstr ""
+"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"władaniem."
 
 #: ../../5ED.rst:950
 msgid ":mtgtip:`Paralyze<https://img.scryfall.com/cards/border_crop/en/5ed/185.jpg?1517813031|https://scryfall.com/card/5ed/185/paralyze?utm_source=api>`"

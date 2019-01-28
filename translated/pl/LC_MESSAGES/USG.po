@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/usg/pl/>\n"
 "Language: pl\n"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: ../../USG.rst:45
 msgid "Target player gains 2 life for each creature on the battlefield."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 2 życia za każdego stwora na polu walki."
 
 #: ../../USG.rst:50
 msgid ""
@@ -1564,6 +1564,8 @@ msgid ""
 "Corrupt deals damage to any target equal to the number of Swamps you "
 "control. You gain life equal to the damage dealt this way."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe liczbie Bagien pod twoim "
+"władaniem. Zyskujesz tyle żyć, ile obrażeń zadano w ten sposób."
 
 #: ../../USG.rst:620
 msgid ""
@@ -1679,7 +1681,7 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
 "stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../USG.rst:664

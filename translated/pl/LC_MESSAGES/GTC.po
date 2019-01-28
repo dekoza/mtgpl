@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -35,7 +35,7 @@ msgid ""
 "Target creature gets +1/+1 and gains flying and first strike until end of "
 "turn."
 msgstr ""
-"Wskazany stwór dostaje +1/+1 oraz latanie i pierwszy cios do końca tury."
+"Wskazany stwór dostaje do końca tury +1/+1 oraz latanie i pierwszy cios."
 
 #: ../../GTC.rst:14
 msgid ""
@@ -89,7 +89,7 @@ msgid ""
 "lifelink. Creatures you control gain that ability until end of turn."
 msgstr ""
 "Na początku każdej walki wybierz pierwszy cios, czujność lub więź życia. "
-"Stwory, którymi władasz dostają ową zdolność do końca tury."
+"Stwory pod twoim władaniem zyskują ową zdolność do końca tury."
 
 #: ../../GTC.rst:24
 msgid ""
@@ -130,7 +130,7 @@ msgid ""
 "Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
-"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić |mana_wb|. Jeśli tak "
+"Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
 "zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
 
 #: ../../GTC.rst:36
@@ -145,8 +145,8 @@ msgstr ""
 msgid ""
 "Artifacts and creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Artefakty i stwory, którymi władają twoi przeciwnicy wchodzą na pole walki "
-"przekręcone."
+"Artefakty i stwory pod władaniem twoich przeciwników wchodzą przekręcone na "
+"pole walki."
 
 #: ../../GTC.rst:40
 msgid ""
@@ -1263,7 +1263,7 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
-"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
 "artefaktyczne lub współdzielące z nim kolor.)"
 
 # ede9cf9aa052480d90551c1d0192d700
@@ -3385,7 +3385,7 @@ msgstr ""
 # 2d4545246bff43648c185757ad5508c8
 #: ../../GTC.rst:1053
 msgid "You control enchanted creature."
-msgstr "Władasz zauroczonym stworem."
+msgstr "Masz władanie nad zauroczonym stworem."
 
 # 798718a5590e4dabb0e2328c344760d2
 #: ../../GTC.rst:1055

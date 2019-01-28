@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-27 21:15+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -401,7 +401,7 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
-"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
 "artefaktyczne lub współdzielące z nim kolor.)"
 
 #: ../../C14.rst:133
@@ -1150,14 +1150,12 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:395
-#, fuzzy
 msgid ""
 "Choose a color. White creatures you control gain protection from the chosen "
 "color until end of turn."
 msgstr ""
-"Wybierz kolor. Białe stwory pod twoim władaniem dostają ochronę przed "
-"wskazanym kolorem do końca tury. (Nie mogą być blokowane, wskazywane, "
-"zauroczone, ani nie dostają obrażeń od czegokolwiek w tym kolorze.)"
+"Wybierz kolor. Białe stwory pod twoim władaniem dostają ochronę przed owym "
+"kolorem do końca tury."
 
 #: ../../C14.rst:400
 msgid ""
@@ -1219,7 +1217,6 @@ msgid "Create X 4/4 white Angel creature tokens with flying."
 msgstr ""
 
 #: ../../C14.rst:419
-#, fuzzy
 msgid ""
 "Cycling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Discard this card: Draw a "
 "card.)"
@@ -2280,7 +2277,7 @@ msgid ""
 "Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
-"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić |mana_wb|. Jeśli tak "
+"Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
 "zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
 
 #: ../../C14.rst:799
@@ -2396,14 +2393,12 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:841
-#, fuzzy
 msgid ""
 "Whenever Liliana's Reaver deals combat damage to a player, that player "
 "discards a card and you create a tapped 2/2 black Zombie creature token."
 msgstr ""
-"Ilekroć Liliana's Reaver zada graczowi obrażenia bitewne, ów gracz odrzuca "
-"kartę, a ty kładziesz na polu walki przekręcony żeton czarnego stwora Zombie "
-"2/2."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę, a "
+"ty umieszczasz na polu walki przekręcony żeton czarnego stwora Zombi 2/2."
 
 #: ../../C14.rst:846
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm3/pl/>\n"
 "Language: pl\n"
@@ -622,7 +622,7 @@ msgstr ""
 
 #: ../../MM3.rst:211
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 #: ../../MM3.rst:213
 msgid ""
@@ -675,7 +675,7 @@ msgstr ""
 
 #: ../../MM3.rst:233
 msgid "Target player draws four cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera cztery karty."
 
 #: ../../MM3.rst:238
 msgid ""
@@ -824,6 +824,8 @@ msgid ""
 "Whenever Wall of Frost blocks a creature, that creature doesn't untap "
 "during its controller's next untap step."
 msgstr ""
+"Ilekroć ten stwór zablokuje stwora, ów stwór nie odkręci się w najbliższym "
+"kroku odkręcania swojego władcy."
 
 #: ../../MM3.rst:296
 msgid ""
@@ -874,7 +876,7 @@ msgstr ""
 
 #: ../../MM3.rst:311
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../MM3.rst:313
 msgid "Destroy target creature."
@@ -1037,6 +1039,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice a creature: Target player loses 1 life and"
 " you gain 1 life."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć stwora: Wskazany gracz traci 1 życie, a ty "
+"zyskujesz 1 życie."
 
 #: ../../MM3.rst:378
 msgid ":mtgtip:`Griselbrand<https://img.scryfall.com/cards/border_crop/en/mm3/72.jpg?1523883086|https://scryfall.com/card/mm3/72/griselbrand?utm_source=api>`"
@@ -2609,7 +2613,7 @@ msgstr ""
 
 #: ../../MM3.rst:937
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../MM3.rst:946
 msgid ""
@@ -2693,7 +2697,7 @@ msgstr ""
 
 #: ../../MM3.rst:973
 msgid "You control enchanted creature."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym stworem."
 
 #: ../../MM3.rst:975
 msgid ""

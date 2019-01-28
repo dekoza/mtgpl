@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/7ed/pl/>\n"
 "Language: pl\n"
@@ -542,7 +542,7 @@ msgstr ""
 
 #: ../../7ED.rst:201
 msgid "Creatures you control get +0/+2 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +0/+2 do końca tury."
 
 #: ../../7ED.rst:206
 msgid ""
@@ -1005,7 +1005,7 @@ msgstr ""
 
 #: ../../7ED.rst:409
 msgid "Target player draws four cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera cztery karty."
 
 #: ../../7ED.rst:414
 msgid ":mtgtip:`Opposition<https://img.scryfall.com/cards/border_crop/en/7ed/92.jpg?1517813031|https://scryfall.com/card/7ed/92/opposition?utm_source=api>`"
@@ -1026,7 +1026,7 @@ msgstr ""
 
 #: ../../7ED.rst:417
 msgid "Phantom Warrior can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../7ED.rst:422
 msgid ""
@@ -1361,6 +1361,8 @@ msgid ""
 "Corrupt deals damage to any target equal to the number of Swamps you "
 "control. You gain life equal to the damage dealt this way."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe liczbie Bagien pod twoim "
+"władaniem. Zyskujesz tyle żyć, ile obrażeń zadano w ten sposób."
 
 #: ../../7ED.rst:564
 msgid ""
@@ -1444,7 +1446,7 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
 "stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../7ED.rst:592
@@ -1649,6 +1651,8 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps "
 "you control."
 msgstr ""
+"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"władaniem."
 
 #: ../../7ED.rst:684
 msgid ""

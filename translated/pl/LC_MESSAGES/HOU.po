@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -858,8 +858,8 @@ msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest into your graveyard."
 msgstr ""
-"Obejrzyj trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich do "
-"twojej ręki, a pozostałe do twojego cmentarza."
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../HOU.rst:274
 msgid ""
@@ -1306,6 +1306,8 @@ msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:426
 msgid ""
@@ -2544,7 +2546,7 @@ msgstr ""
 
 #: ../../HOU.rst:825
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
+msgstr "Zwróć wskazany nielądowy permanent do ręki właściciela."
 
 #: ../../HOU.rst:832
 msgid ""

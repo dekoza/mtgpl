@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-26 21:48+0000\n"
+"PO-Revision-Date: 2019-01-28 18:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -101,7 +101,7 @@ msgid ""
 "When Auramancer enters the battlefield, you may return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy Auromanta wchodzi na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
 "uroku z twojego cmentarza do twojej ręki."
 
 #: ../../ORI.rst:36
@@ -159,7 +159,7 @@ msgstr ""
 
 #: ../../ORI.rst:51
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Ilekroć Charging Griffin atakuje, dostaje +1/+1 do końca tury."
+msgstr "Ilekroć ten stwór atakuje, dostaje +1/+1 do końca tury."
 
 #: ../../ORI.rst:56
 msgid ""
@@ -858,7 +858,7 @@ msgstr ""
 
 #: ../../ORI.rst:309
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
+msgstr "Zwróć wskazany nielądowy permanent do ręki właściciela."
 
 #: ../../ORI.rst:314
 msgid ""
@@ -1356,6 +1356,7 @@ msgid ""
 "Whenever you cast an enchantment spell, you may have target creature get "
 "-2/-2 until end of turn."
 msgstr ""
+"Ilekroć rzucasz urok, możesz dać wskazanemu stworowi -2/-2 do końca tury."
 
 #: ../../ORI.rst:488
 msgid ""
@@ -1427,6 +1428,8 @@ msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:511
 msgid ""
@@ -1934,7 +1937,7 @@ msgstr ""
 
 #: ../../ORI.rst:683 ../../ORI.rst:805
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../ORI.rst:685
 msgid ""
@@ -3934,6 +3937,8 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
+"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"władaniem."
 
 #: ../../ORI.rst:1450
 msgid ""
@@ -3947,8 +3952,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
-"Ilekroć umiera stwór, któremu Sengir Vampire zadał obrażenia w tej turze, "
-"umieść znacznik +1/+1 na Sengir Vampire."
+"Ilekroć umrze stwór, który otrzymał od tego stwora obrażenia w tej turze, "
+"umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../ORI.rst:1454
 msgid ""

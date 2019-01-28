@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/scg/pl/>\n"
 "Language: pl\n"
@@ -153,6 +153,8 @@ msgid ""
 "Cycling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Discard this card: Draw"
 " a card.)"
 msgstr ""
+"Recykling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../SCG.rst:57
 msgid ""
@@ -1152,7 +1154,7 @@ msgstr ""
 
 #: ../../SCG.rst:429
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../SCG.rst:431
 msgid "Draw two cards."

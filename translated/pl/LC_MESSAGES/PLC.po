@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/plc/pl/>\n"
 "Language: pl\n"
@@ -244,6 +244,8 @@ msgstr ""
 #: ../../PLC.rst:81
 msgid "All Slivers have \"|mana_2|, |tap|: Regenerate target Sliver.\""
 msgstr ""
+"Wszystkie Drzazgacze mają |mana_2|, |tap|: Zregeneruj wskazanego Drzazgacza."
+"\""
 
 #: ../../PLC.rst:86
 msgid ""
@@ -519,7 +521,7 @@ msgstr ""
 
 #: ../../PLC.rst:193
 msgid "All Sliver creatures get +1/+1."
-msgstr ""
+msgstr "Wszystkie Drzazgacze dostają +1/+1."
 
 #: ../../PLC.rst:198
 msgid ":mtgtip:`Sunlance<https://img.scryfall.com/cards/border_crop/en/plc/31.jpg?1517813031|https://scryfall.com/card/plc/31/sunlance?utm_source=api>`"
@@ -1110,7 +1112,7 @@ msgstr ""
 
 #: ../../PLC.rst:409
 msgid "You control enchanted creature."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym stworem."
 
 #: ../../PLC.rst:411
 msgid ""
@@ -1281,7 +1283,7 @@ msgstr ""
 
 #: ../../PLC.rst:471
 msgid "All Sliver creatures have first strike."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają pierwszy cios."
 
 #: ../../PLC.rst:478
 msgid ""

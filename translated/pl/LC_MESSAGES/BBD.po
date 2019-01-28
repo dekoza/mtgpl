@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 10:59+0000\n"
+"PO-Revision-Date: 2019-01-28 18:36+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bbd/pl/>\n"
 "Language: pl\n"
@@ -1705,7 +1705,7 @@ msgstr ""
 
 #: ../../BBD.rst:609
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 #: ../../BBD.rst:614
 msgid ""
@@ -1802,7 +1802,7 @@ msgstr ""
 
 #: ../../BBD.rst:645
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../BBD.rst:647
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1935,7 +1935,7 @@ msgstr ""
 
 #: ../../BBD.rst:699
 msgid "Target player draws four cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera cztery karty."
 
 #: ../../BBD.rst:706
 msgid ""
@@ -1971,7 +1971,7 @@ msgstr ""
 
 #: ../../BBD.rst:715
 msgid "Phantom Warrior can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../BBD.rst:720
 msgid ""
@@ -2099,13 +2099,15 @@ msgstr ""
 
 #: ../../BBD.rst:771
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../BBD.rst:773
 msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../BBD.rst:778
 msgid ""
@@ -2193,7 +2195,7 @@ msgstr ""
 
 #: ../../BBD.rst:801
 msgid "Destroy target creature. Add |mana_b|\\ |mana_b|\\ |mana_b|."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Dostajesz |mana_b|\\ |mana_b|\\ |mana_b|."
 
 #: ../../BBD.rst:808
 msgid ""
@@ -2396,6 +2398,9 @@ msgid ""
 "When Tenacious Dead dies, you may pay |mana_1|\\ |mana_b|. If you do, "
 "return it to the battlefield tapped under its owner's control."
 msgstr ""
+"Kiedy ten stwór umrze, możesz zapłacić |mana_1|\\ |mana_b|. Jeśli tak "
+"zrobisz, przywróć go przekręconego na pole walki pod władaniem jego "
+"właściciela."
 
 #: ../../BBD.rst:884
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-28 18:37+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/tmp/pl/>\n"
 "Language: pl\n"
@@ -91,6 +91,8 @@ msgid ""
 "All Sliver creatures have \"|mana_2|: This creature gets +0/+1 until end "
 "of turn.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_2|: Ten stwór dostaje +0/+1 do końca tury."
+"\""
 
 #: ../../TMP.rst:32
 msgid ""
@@ -659,7 +661,7 @@ msgstr ""
 
 #: ../../TMP.rst:247
 msgid "All Sliver creatures have first strike."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają pierwszy cios."
 
 #: ../../TMP.rst:252
 msgid ":mtgtip:`Warmth<https://img.scryfall.com/cards/border_crop/en/tmp/51.jpg?1517813031|https://scryfall.com/card/tmp/51/warmth?utm_source=api>`"
@@ -695,7 +697,7 @@ msgstr ""
 
 #: ../../TMP.rst:261 ../../TMP.rst:1341
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../TMP.rst:263
 msgid "You gain life equal to the sacrificed creature's toughness."
@@ -1138,6 +1140,8 @@ msgid ""
 "Counter target spell with converted mana cost X. (For example, if that "
 "spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
+"Skontruj wskazany czar o skróconym koszcie many równym X. (Np. jeśli koszt "
+"owego czaru to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
 #: ../../TMP.rst:448
 msgid ""
@@ -1230,7 +1234,7 @@ msgstr ""
 
 #: ../../TMP.rst:481
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 #: ../../TMP.rst:486
 msgid ""
@@ -1350,7 +1354,7 @@ msgstr ""
 
 #: ../../TMP.rst:535
 msgid "All Sliver creatures have flying."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają latanie."
 
 #: ../../TMP.rst:542
 msgid ""
@@ -2973,7 +2977,7 @@ msgstr ""
 
 #: ../../TMP.rst:1177
 msgid "All Sliver creatures get +1/+1."
-msgstr ""
+msgstr "Wszystkie Drzazgacze dostają +1/+1."
 
 #: ../../TMP.rst:1182
 msgid ""
