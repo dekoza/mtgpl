@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 19:21+0000\n"
+"PO-Revision-Date: 2019-01-30 10:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -3083,8 +3083,8 @@ msgid ""
 "Target creature you control gets +1/+1 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje +1/+1 oraz Antyklątwę do końca "
-"tury. (Nie może być wskazywany przez czary lub zdolności władane przez "
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1 oraz "
+"antyklątwę. (Nie może być wskazywany przez czary lub zdolności władane przez "
 "twoich przeciwników.)"
 
 #: ../../M15.rst:1014
@@ -3266,17 +3266,15 @@ msgstr ""
 # 5b3ceaeaaa2f4ffc84889d9cd275d62a
 #: ../../M15.rst:1071
 msgid "When Verdant Haven enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 2 życia."
 
 #: ../../M15.rst:1073
-#, fuzzy
 msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional one mana of any color."
 msgstr ""
-"Ilekroć zauroczony ląd jest tapowany przy pobieraniu many, władający nim "
-"gracz dodaje jedną manę dowolnego koloru do swojej puli many (oprócz many, "
-"którą ten ląd produkuje)."
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"dostaje dodatkową jedną manę dowolnego koloru."
 
 #: ../../M15.rst:1082
 msgid ""

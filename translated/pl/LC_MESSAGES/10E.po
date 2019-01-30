@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-28 18:37+0000\n"
+"PO-Revision-Date: 2019-01-30 10:53+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/10e/pl/>\n"
 "Language: pl\n"
@@ -2350,7 +2350,7 @@ msgstr ""
 
 #: ../../10E.rst:925
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
 
 #: ../../10E.rst:930
 msgid ""
@@ -2525,7 +2525,7 @@ msgstr ""
 
 #: ../../10E.rst:991
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
 
 #: ../../10E.rst:996
 msgid ""
@@ -2687,7 +2687,7 @@ msgstr ""
 
 #: ../../10E.rst:1053
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../10E.rst:1060
 msgid ""
@@ -2706,7 +2706,7 @@ msgstr ""
 
 #: ../../10E.rst:1063
 msgid "Shock deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../10E.rst:1068
 msgid ":mtgtip:`Shunt<https://img.scryfall.com/cards/border_crop/en/10e/233.jpg?1517813031|https://scryfall.com/card/10e/233/shunt?utm_source=api>`"
@@ -3118,7 +3118,7 @@ msgstr ""
 
 #: ../../10E.rst:1225
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 
 #: ../../10E.rst:1230
 msgid ""
@@ -3300,7 +3300,7 @@ msgstr ""
 
 #: ../../10E.rst:1297
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../10E.rst:1299
 msgid ""
@@ -3420,6 +3420,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate "
 "this ability only once each turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten stwór dostaje +2/+2 do końca tury. Aktywuj tę "
+"zdolność tylko raz na turę."
 
 #: ../../10E.rst:1348
 msgid ""

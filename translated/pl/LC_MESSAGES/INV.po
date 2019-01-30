@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-01-30 10:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/inv/pl/>\n"
 "Language: pl\n"
@@ -956,7 +956,7 @@ msgstr ""
 
 #: ../../INV.rst:349 ../../INV.rst:691 ../../INV.rst:1023
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../INV.rst:351
 msgid "As Phantasmal Terrain enters the battlefield, choose a basic land type."
@@ -2050,7 +2050,7 @@ msgstr ""
 
 #: ../../INV.rst:781
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
 
 #: ../../INV.rst:783
 msgid "|mana_r|: Return Crown of Flames to its owner's hand."
@@ -2654,6 +2654,8 @@ msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional one mana of any color."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"dostaje dodatkową jedną manę dowolnego koloru."
 
 #: ../../INV.rst:1032
 msgid ":mtgtip:`Harrow<https://img.scryfall.com/cards/border_crop/en/inv/189.jpg?1517813031|https://scryfall.com/card/inv/189/harrow?utm_source=api>`"

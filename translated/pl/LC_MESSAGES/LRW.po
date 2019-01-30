@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-30 10:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lrw/pl/>\n"
 "Language: pl\n"
@@ -2008,6 +2008,8 @@ msgstr ""
 #: ../../LRW.rst:1089
 msgid "You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy."
 msgstr ""
+"Możesz wskazać nowe cele wskazanego czaru sztuczki lub obrzędu. Następnie "
+"skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../LRW.rst:1096
 msgid ":mtgtip:`Battlewand Oak<https://img.scryfall.com/cards/border_crop/en/lrw/197.jpg?1517813031|https://scryfall.com/card/lrw/197/battlewand-oak?utm_source=api>`"
@@ -2153,11 +2155,13 @@ msgstr ""
 
 #: ../../LRW.rst:1173
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../LRW.rst:1175
 msgid "Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"dostaje dodatkową jedną manę dowolnego koloru."
 
 #: ../../LRW.rst:1180
 msgid ":mtgtip:`Fistful of Force<https://img.scryfall.com/cards/border_crop/en/lrw/212.jpg?1517813031|https://scryfall.com/card/lrw/212/fistful-of-force?utm_source=api>`"

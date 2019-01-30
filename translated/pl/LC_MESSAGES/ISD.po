@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-30 10:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -2629,7 +2629,7 @@ msgstr ""
 
 #: ../../ISD.rst:881
 msgid "When Pitchburn Devils dies, it deals 3 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../ISD.rst:886
 msgid ""
@@ -2888,7 +2888,7 @@ msgstr ""
 # 28d09e7d45cc4688bffec695691ea5aa
 #: ../../ISD.rst:967
 msgid "Destroy target noncreature permanent."
-msgstr "Zniszcz wskazany niestworowy permanent."
+msgstr "Zniszcz wskazany permanent nie będący stworem."
 
 #: ../../ISD.rst:974
 msgid ""
@@ -2903,6 +2903,8 @@ msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 # 3a83b7b39f8f496199607eabdce37a87
 #: ../../ISD.rst:973
@@ -3426,8 +3428,8 @@ msgid ""
 "Target creature you control gets +1/+1 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje +1/+1 oraz Antyklątwę do końca "
-"tury. (Nie może być wskazywany przez czary lub zdolności władane przez "
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1 oraz "
+"antyklątwę. (Nie może być wskazywany przez czary lub zdolności władane przez "
 "twoich przeciwników.)"
 
 #: ../../ISD.rst:1144

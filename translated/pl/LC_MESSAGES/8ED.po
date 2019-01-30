@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-30 10:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/8ed/pl/>\n"
 "Language: pl\n"
@@ -2266,7 +2266,7 @@ msgstr ""
 
 #: ../../8ED.rst:921
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
 
 #: ../../8ED.rst:928
 msgid ""
@@ -2527,7 +2527,7 @@ msgstr ""
 
 #: ../../8ED.rst:1027
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../8ED.rst:1032
 msgid ":mtgtip:`Shock<https://img.scryfall.com/cards/border_crop/en/8ed/222.jpg?1517813031|https://scryfall.com/card/8ed/222/shock?utm_source=api>`"
@@ -2535,7 +2535,7 @@ msgstr ""
 
 #: ../../8ED.rst:1031
 msgid "Shock deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../8ED.rst:1036
 msgid ""
@@ -2826,13 +2826,15 @@ msgstr ""
 
 #: ../../8ED.rst:1147 ../../8ED.rst:1197
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../8ED.rst:1149
 msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional one mana of any color."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"dostaje dodatkową jedną manę dowolnego koloru."
 
 #: ../../8ED.rst:1154
 msgid ":mtgtip:`Foratog<https://img.scryfall.com/cards/border_crop/en/8ed/249.jpg?1517813031|https://scryfall.com/card/8ed/249/foratog?utm_source=api>`"
@@ -2892,7 +2894,7 @@ msgstr ""
 
 #: ../../8ED.rst:1173
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 
 #: ../../8ED.rst:1178
 msgid ""

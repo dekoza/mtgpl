@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-26 21:56+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-30 10:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/cn2/pl/>\n"
 "Language: pl\n"
@@ -1162,7 +1162,7 @@ msgstr ""
 
 #: ../../CN2.rst:411 ../../CN2.rst:421 ../../CN2.rst:931
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../CN2.rst:418
 msgid ""
@@ -1425,7 +1425,7 @@ msgstr ""
 
 #: ../../CN2.rst:505
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../CN2.rst:510
 msgid ""
@@ -2558,7 +2558,7 @@ msgstr ""
 
 #: ../../CN2.rst:955
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../CN2.rst:962
 msgid ""
@@ -2725,6 +2725,8 @@ msgid ""
 "Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../CN2.rst:1028
 msgid ":mtgtip:`Manaplasm<https://img.scryfall.com/cards/border_crop/en/cn2/186.jpg?1517813031|https://scryfall.com/card/cn2/186/manaplasm?utm_source=api>`"
@@ -2762,7 +2764,7 @@ msgstr ""
 
 #: ../../CN2.rst:1037
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../CN2.rst:1039
 msgid ""
@@ -2784,7 +2786,7 @@ msgstr ""
 
 #: ../../CN2.rst:1047
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../CN2.rst:1052
 msgid ""
@@ -2894,6 +2896,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../CN2.rst:1092
 msgid ""

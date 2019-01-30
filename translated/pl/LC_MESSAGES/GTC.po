@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-30 10:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -176,8 +176,8 @@ msgid ""
 "Whenever another white creature enters the battlefield under your control, "
 "tap target creature an opponent controls."
 msgstr ""
-"Ilekroć inny biały stwór wchodzi na pole walki pod twoim władaniem, przekręć "
-"wskazanego stwora władanego przez przeciwnika."
+"Ilekroć inny biały stwór wejdzie na pole walki pod twoim władaniem, przekręć "
+"wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../GTC.rst:48
 msgid ""
@@ -2268,18 +2268,16 @@ msgstr ""
 # fcc6ddb6342e4e25bb97ae8cb14f2751
 #: ../../GTC.rst:699
 msgid "When Verdant Haven enters the battlefield, you gain 2 life."
-msgstr "Kiedy Verdant Haven wchodzi na pole walki, zyskujesz 2 życia."
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 2 życia."
 
 # 6a881fe9c11c486eb540515f0fd7ac8c
 #: ../../GTC.rst:701
-#, fuzzy
 msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional one mana of any color."
 msgstr ""
-"Ilekroć zauroczony ląd jest tapowany przy pobieraniu many, władający nim "
-"gracz dodaje jedną manę dowolnego koloru do swojej puli many (oprócz many, "
-"którą ten ląd produkuje)."
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"dostaje dodatkową jedną manę dowolnego koloru."
 
 #: ../../GTC.rst:708
 msgid ""

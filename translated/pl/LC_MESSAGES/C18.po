@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-01-30 10:52+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -1696,7 +1696,7 @@ msgstr ""
 #: ../../C18.rst:977
 #: ../../C18.rst:989
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../C18.rst:849
 msgid "Whenever enchanted land is tapped for mana, its controller adds an additional two mana in any combination of colors."
@@ -1769,6 +1769,8 @@ msgstr ""
 #: ../../C18.rst:891
 msgid "Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"dostaje dodatkową jedną manę dowolnego koloru."
 
 #: ../../C18.rst:896
 msgid ":mtgtip:`Grapple with the Past<https://img.scryfall.com/cards/border_crop/en/c18/148.jpg?1535503981|https://scryfall.com/card/c18/148/grapple-with-the-past?utm_source=api>`"
