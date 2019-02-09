@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-02-09 23:18+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -44,6 +44,8 @@ msgid ""
 "When Angel of Glory's Rise enters the battlefield, exile all Zombies, then "
 "return all Human creature cards from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wszystkie Zombi, następnie "
+"przywróć wszystkie stwory typu Człowiek z twojego cmentarza na pole walki."
 
 #: ../../AVR.rst:20
 msgid ""
@@ -61,6 +63,8 @@ msgid ""
 "Players can't pay life or sacrifice creatures to cast spells or activate "
 "abilities."
 msgstr ""
+"Gracze nie mogą płacić życiem ani poświęcać stworów celem rzucenia czaru lub "
+"aktywacji zdolności."
 
 #: ../../AVR.rst:24
 msgid ""
@@ -119,12 +123,15 @@ msgid ""
 "Put target artifact, creature, or enchantment on the bottom of its owner's "
 "library."
 msgstr ""
+"Umieść wskazany artefakt, stwora lub urok na spodzie biblioteki właściciela."
 
 #: ../../AVR.rst:45 ../../AVR.rst:205
 msgid ""
 "Miracle |mana_w| (You may cast this card for its miracle cost when you draw "
 "it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_w| (Możesz rzucić tę kartę za koszt cudu w momencie jej dobrania, "
+"jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../AVR.rst:50
 msgid ""
@@ -152,6 +159,8 @@ msgid ""
 "Enchanted creature gets +1/+2, has flying, and is an Angel in addition to "
 "its other types."
 msgstr ""
+"Zauroczony stwór dostaje +1/+2, ma latanie i jest dodatkowo Aniołem oprócz "
+"swoich innych typów."
 
 #: ../../AVR.rst:60
 msgid ""
@@ -177,7 +186,7 @@ msgstr ""
 
 #: ../../AVR.rst:63
 msgid "When Cathedral Sanctifier enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AVR.rst:68
 msgid ""
@@ -190,6 +199,8 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under your control."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
+"na pole walki pod twoim władaniem."
 
 #: ../../AVR.rst:74
 msgid ""
@@ -210,6 +221,8 @@ msgid ""
 "Enchanted creature has \"At the beginning of your upkeep, create a 1/1 white "
 "Human creature token.\""
 msgstr ""
+"Zauroczony stwór ma \"Na początku twojego kroku utrzymania stwórz żeton "
+"białego stwora Człowiek 1/1.\""
 
 #: ../../AVR.rst:78
 msgid ""
@@ -305,6 +318,9 @@ msgid ""
 "Miracle |mana_x|\\ |mana_w|\\ |mana_w| (You may cast this card for its "
 "miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_x|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę za koszt cudu w "
+"momencie jej dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w "
+"tej turze.)"
 
 #: ../../AVR.rst:112
 msgid ""
@@ -710,6 +726,8 @@ msgid ""
 "Miracle |mana_1|\\ |mana_u| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_1|\\ |mana_u| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../AVR.rst:260
 msgid ""
@@ -1163,6 +1181,8 @@ msgid ""
 "Miracle |mana_u| (You may cast this card for its miracle cost when you draw "
 "it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_u| (Możesz rzucić tę kartę za koszt cudu w momencie jej dobrania, "
+"jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../AVR.rst:442
 msgid ""
@@ -1768,6 +1788,8 @@ msgid ""
 "Miracle |mana_x|\\ |mana_r| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_x|\\ |mana_r| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../AVR.rst:666
 msgid ""
@@ -2078,6 +2100,8 @@ msgid ""
 "Miracle |mana_1|\\ |mana_r| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_1|\\ |mana_r| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../AVR.rst:782
 msgid ""
@@ -2202,6 +2226,8 @@ msgid ""
 "Miracle |mana_r| (You may cast this card for its miracle cost when you draw "
 "it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_r| (Możesz rzucić tę kartę za koszt cudu w momencie jej dobrania, "
+"jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../AVR.rst:830
 msgid ""
@@ -2329,6 +2355,8 @@ msgid ""
 "Miracle |mana_g| (You may cast this card for its miracle cost when you draw "
 "it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_g| (Możesz rzucić tę kartę za koszt cudu w momencie jej dobrania, "
+"jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../AVR.rst:870
 msgid ""
@@ -2343,6 +2371,9 @@ msgid ""
 "for a basic land card, reveal it, and put it into your hand. If you do, "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnić ją i umieścić w twojej ręce. Jeśli to zrobisz, "
+"przetasuj twoją bibliotekę."
 
 #: ../../AVR.rst:874
 msgid ""
@@ -2700,6 +2731,8 @@ msgid ""
 "Whenever another nontoken creature enters the battlefield under your "
 "control, you may draw a card."
 msgstr ""
+"Ilekroć inny nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, "
+"możesz dobrać kartę."
 
 #: ../../AVR.rst:1010
 msgid ""

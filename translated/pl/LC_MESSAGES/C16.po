@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-02-09 23:18+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -1006,6 +1006,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/+"
+"1 na każdym stworze pod twoim władaniem."
 
 #: ../../C16.rst:390
 msgid ""
@@ -1411,6 +1413,8 @@ msgid ""
 "Miracle |mana_1|\\ |mana_u| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_1|\\ |mana_u| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../C16.rst:526
 msgid ""
@@ -1597,7 +1601,7 @@ msgstr ""
 
 #: ../../C16.rst:589
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../C16.rst:594
 msgid ""
@@ -2126,6 +2130,8 @@ msgid ""
 "Miracle |mana_1|\\ |mana_r| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_1|\\ |mana_r| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../C16.rst:772
 msgid ""
@@ -3355,7 +3361,7 @@ msgstr ""
 
 #: ../../C16.rst:1203
 msgid "Destroy target creature or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub urok."
 
 #: ../../C16.rst:1210
 msgid ""
@@ -4484,7 +4490,7 @@ msgstr ""
 
 #: ../../C16.rst:1639
 msgid "Crumbling Necropolis enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1641
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
@@ -4753,7 +4759,7 @@ msgstr ""
 
 #: ../../C16.rst:1751
 msgid "Jungle Shrine enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1753
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."

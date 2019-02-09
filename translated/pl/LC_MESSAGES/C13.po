@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-02-09 23:18+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -1677,9 +1677,8 @@ msgstr ""
 
 # 30da6bd97c794b1db2e0b944498444b6
 #: ../../C13.rst:547
-#, fuzzy
 msgid "Flying, deathtouch, lifelink"
-msgstr "Latanie, dotyk śmierci"
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../C13.rst:554
 msgid ""
@@ -1996,6 +1995,9 @@ msgid ""
 "controls until end of turn. Untap those creatures. They gain haste until end "
 "of turn."
 msgstr ""
+"Dla każdego z przeciwników, zyskujesz do końca tury władanie nad co najwyżej "
+"jednym wskazanym stworem pod władaniem owego gracza. Odkręć owe stwory. "
+"Zyskują one pośpiech do końca tury."
 
 #: ../../C13.rst:660
 msgid ""
@@ -4323,9 +4325,8 @@ msgstr ""
 # 39d6fd24a84e40228c9698f6190fa201
 # 23b23228fe684c71a904973d46f4515c
 #: ../../C13.rst:1439 ../../C13.rst:1621
-#, fuzzy
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr "|tap|: Dodaj |mana_w|, |mana_u|, lub |mana_b| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../C13.rst:1444
 msgid ""
@@ -4852,7 +4853,7 @@ msgstr ""
 # 7c65264189dc4928b413e38f91b398f7
 #: ../../C13.rst:1619
 msgid "Crumbling Necropolis enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C13.rst:1628
 msgid ""
@@ -5143,7 +5144,7 @@ msgstr ""
 # b8eb7afbc5534f23857b7a981ef77f91
 #: ../../C13.rst:1723
 msgid "Jungle Shrine enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1725

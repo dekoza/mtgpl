@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-02-09 23:18+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
@@ -2579,14 +2579,13 @@ msgstr ""
 # 13dc62f79141470f97f0ceefa709cd13
 # 2a8a9692f07b42efa0985a622b464952
 #: ../../BNG.rst:663
-#, fuzzy
 msgid ""
 "Until end of turn, target creature gets +3/+3 and gains trample and "
 "\"Whenever this creature deals combat damage to a player, draw that many "
 "cards.\""
 msgstr ""
-"Do końca tury wskazany stwór dostaje +3/+3, tratowanie oraz \"Ilekroć ten "
-"stwór zada graczowi obrażenia bitewne, dobierz tyle samo kart.\""
+"Do końca tury wskazany stwór dostaje +3/+3, tratowanie oraz zdolność \""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz tyle samo kart.\""
 
 #: ../../BNG.rst:672
 msgid ""

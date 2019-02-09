@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-30 10:53+0000\n"
+"PO-Revision-Date: 2019-02-09 23:19+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ulg/pl/>\n"
 "Language: pl\n"
@@ -1455,13 +1455,15 @@ msgstr ""
 
 #: ../../ULG.rst:567
 msgid "Enchanted creature gets +2/+0 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+0 i ma tratowanie."
 
 #: ../../ULG.rst:569
 msgid ""
 "When Rancor is put into a graveyard from the battlefield, return Rancor "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten urok jest umieszczany w cmentarzu z pola walki, przywróć go do "
+"ręki właściciela."
 
 #: ../../ULG.rst:576
 msgid ":mtgtip:`Repopulate<https://img.scryfall.com/cards/border_crop/en/ulg/111.jpg?1517813031|https://scryfall.com/card/ulg/111/repopulate?utm_source=api>`"
@@ -1727,6 +1729,7 @@ msgid ""
 "|mana_4|, |tap|: You may put a creature card from your hand onto the "
 "battlefield."
 msgstr ""
+"|mana_4|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu walki."
 
 #: ../../ULG.rst:670
 msgid ""

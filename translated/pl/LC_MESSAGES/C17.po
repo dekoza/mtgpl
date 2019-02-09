@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-02-09 23:18+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -2141,7 +2141,7 @@ msgstr ""
 
 #: ../../C17.rst:743
 msgid "Flying, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../C17.rst:752
 msgid ""
@@ -2464,7 +2464,7 @@ msgstr ""
 
 #: ../../C17.rst:863
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../C17.rst:868
 msgid ""
@@ -2479,6 +2479,8 @@ msgid ""
 "\"Whenever this creature deals combat damage to a player, draw that many "
 "cards.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +3/+3, tratowanie oraz zdolność \""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz tyle samo kart.\""
 
 #: ../../C17.rst:874
 msgid ""
@@ -2979,7 +2981,7 @@ msgstr ""
 
 #: ../../C17.rst:1051
 msgid "Destroy target creature or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub urok."
 
 #: ../../C17.rst:1056
 msgid ""
@@ -3948,7 +3950,7 @@ msgstr ""
 
 #: ../../C17.rst:1445
 msgid "Crumbling Necropolis enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1447
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
@@ -4152,7 +4154,7 @@ msgstr ""
 
 #: ../../C17.rst:1529
 msgid "Jungle Shrine enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1531
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."

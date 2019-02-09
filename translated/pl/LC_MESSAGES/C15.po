@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-02-09 23:18+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -166,13 +166,14 @@ msgstr "Zaurocz stwora"
 
 #: ../../C15.rst:53
 msgid "Enchanted creature has indestructible."
-msgstr ""
+msgstr "Zauroczony stwór ma niezniszczalność."
 
 #: ../../C15.rst:55
 msgid ""
 "Whenever a creature enters the battlefield, you may attach Shielded by Faith "
 "to that creature."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki, możesz dołączyć do niego ten artefakt."
 
 #: ../../C15.rst:60
 msgid ""
@@ -1387,6 +1388,8 @@ msgid ""
 "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a "
 "planeswalker you control."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma czujność i nie może atakować ciebie lub "
+"wędrowców pod twoim władaniem."
 
 #: ../../C15.rst:514
 msgid ""
@@ -1428,6 +1431,8 @@ msgstr ""
 msgid ""
 "For each opponent, gain control of target permanent that player controls."
 msgstr ""
+"Za każdego przeciwnika, zyskujesz władanie nad wskazanym permanentem pod "
+"władaniem owego gracza."
 
 #: ../../C15.rst:528
 msgid ""
@@ -2376,12 +2381,15 @@ msgid ""
 "As an additional cost to cast this spell, reveal a creature card from your "
 "hand."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru, ujawnij kartę stwora z twojej ręki."
 
 #: ../../C15.rst:853
 msgid ""
 "Disaster Radius deals X damage to each creature your opponents control, "
 "where X is the revealed card's converted mana cost."
 msgstr ""
+"Ten czar zadaje X obrażeń każdemu stworowi pod władaniem twoich "
+"przeciwników, gdzie X jest skróconym kosztem many ujawnionej karty."
 
 #: ../../C15.rst:860
 msgid ""
@@ -4824,6 +4832,7 @@ msgid ""
 "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a "
 "Swamp."
 msgstr ""
+"|tap|: Dostajesz |mana_w| lub |mana_b|. Aktywuj tylko jeśli władasz Bagnem."
 
 #: ../../C15.rst:1794
 msgid ""

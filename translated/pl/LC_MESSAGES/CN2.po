@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-26 21:56+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-02-09 23:19+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/cn2/pl/>\n"
 "Language: pl\n"
@@ -430,7 +430,7 @@ msgstr ""
 #: ../../CN2.rst:153 ../../CN2.rst:517 ../../CN2.rst:575 ../../CN2.rst:611
 #: ../../CN2.rst:661
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../CN2.rst:155
 msgid "Enchanted creature can't attack you or a planeswalker you control."
@@ -2800,6 +2800,8 @@ msgid ""
 "Target creature you control fights target creature you don't control. "
 "(Each deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
+"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../CN2.rst:1058
 msgid ""

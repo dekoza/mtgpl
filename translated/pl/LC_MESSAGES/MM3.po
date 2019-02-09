@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-02-09 23:19+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm3/pl/>\n"
 "Language: pl\n"
@@ -55,12 +55,15 @@ msgid ""
 "Put target artifact, creature, or enchantment on the bottom of its "
 "owner's library."
 msgstr ""
+"Umieść wskazany artefakt, stwora lub urok na spodzie biblioteki właściciela."
 
 #: ../../MM3.rst:17 ../../MM3.rst:139
 msgid ""
 "Miracle |mana_w| (You may cast this card for its miracle cost when you "
 "draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_w| (Możesz rzucić tę kartę za koszt cudu w momencie jej dobrania, "
+"jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../MM3.rst:24
 msgid ""
@@ -95,6 +98,9 @@ msgid ""
 "Miracle |mana_x|\\ |mana_w|\\ |mana_w| (You may cast this card for its "
 "miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_x|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę za koszt cudu w "
+"momencie jej dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w "
+"tej turze.)"
 
 #: ../../MM3.rst:34
 msgid ""
@@ -280,6 +286,9 @@ msgid ""
 "basic land card, put that card onto the battlefield tapped, then shuffle "
 "their library."
 msgstr ""
+"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu walki, następnie "
+"przetasować swoją bibliotekę."
 
 #: ../../MM3.rst:100
 msgid ""
@@ -794,6 +803,8 @@ msgid ""
 "Miracle |mana_1|\\ |mana_u| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_1|\\ |mana_u| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../MM3.rst:284
 msgid ""
@@ -1252,7 +1263,7 @@ msgstr ""
 
 #: ../../MM3.rst:451
 msgid "Flying, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../MM3.rst:458
 msgid ""
@@ -1313,6 +1324,8 @@ msgid ""
 "Miracle |mana_x|\\ |mana_r| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_x|\\ |mana_r| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../MM3.rst:476
 msgid ""
@@ -1650,6 +1663,8 @@ msgid ""
 "Miracle |mana_r| (You may cast this card for its miracle cost when you "
 "draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_r| (Możesz rzucić tę kartę za koszt cudu w momencie jej dobrania, "
+"jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../MM3.rst:588
 msgid ""
@@ -1866,7 +1881,7 @@ msgstr ""
 
 #: ../../MM3.rst:667
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../MM3.rst:674
 msgid ""
@@ -3338,11 +3353,11 @@ msgstr ""
 
 #: ../../MM3.rst:1201
 msgid "Crumbling Necropolis enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1203
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../MM3.rst:1210
 msgid ""
@@ -3413,11 +3428,11 @@ msgstr ""
 
 #: ../../MM3.rst:1231
 msgid "Jungle Shrine enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../MM3.rst:1233
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r|, |mana_g|, albo |mana_w|."
 
 #: ../../MM3.rst:1238
 msgid ""

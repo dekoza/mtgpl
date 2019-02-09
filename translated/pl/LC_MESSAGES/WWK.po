@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-01-30 10:53+0000\n"
+"PO-Revision-Date: 2019-02-09 23:19+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/wwk/pl/>\n"
 "Language: pl\n"
@@ -372,7 +372,7 @@ msgstr ""
 
 #: ../../WWK.rst:129
 msgid "Target creature gets +1/+1 until end of turn. Untap that creature."
-msgstr ""
+msgstr "Wskazany stwór dostaje +1/+1 do końca tury. Odkręć go."
 
 #: ../../WWK.rst:134
 msgid ""
@@ -1077,6 +1077,9 @@ msgid ""
 "untapped Vampire creatures you control. If you do, put a +1/+1 counter on"
 " each of those Vampires."
 msgstr ""
+"Wskazany stwór dostaje -3/-3 do końca tury. Możesz przekręcić dowolną liczbę "
+"odkręconych Wampirów pod twoim władaniem. Jeśli tak zrobisz, umieść znacznik "
+"+1/+1 na każdym z owych Wampirów."
 
 #: ../../WWK.rst:388
 msgid ""
