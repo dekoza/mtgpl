@@ -3,6 +3,10 @@
 Spis zmian
 ***********
 
+2019-02-10
+    * Explorers of Ixalan - 100%
+
+
 2019-01-13
     * Wystawienie seriwsu dla tłumaczy: https://weblate.mtgpopolsku.pl
     * Aktywacja SSL w całym serwisie, wyłączenie możliwości przeglądania serwisu bez HTTPS.

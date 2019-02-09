@@ -88,7 +88,7 @@ Pozostałe produkty
 ==================
 
 * :mtgexp:`GNT` :doc:`Game Night<GNT>` |p100|
-* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |p25|
+* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |p100|
 
 Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek.
 
