@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-02-10 17:56+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/5ed/pl/>\n"
 "Language: pl\n"
@@ -1150,7 +1150,7 @@ msgstr ""
 
 #: ../../5ED.rst:445
 msgid "Counter target spell unless its controller pays |mana_1|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|."
 
 #: ../../5ED.rst:450
 msgid ":mtgtip:`Forget<https://img.scryfall.com/cards/border_crop/en/5ed/89.jpg?1517813031|https://scryfall.com/card/5ed/89/forget?utm_source=api>`"
