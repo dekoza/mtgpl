@@ -5,6 +5,7 @@ Spis zmian
 
 2019-02-10
     * Explorers of Ixalan - 100%
+    * Amonkhet - 50%
 
 
 2019-01-13
