@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-26 21:56+0100\n"
-"PO-Revision-Date: 2019-02-10 17:56+0000\n"
+"PO-Revision-Date: 2019-02-11 09:31+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/cn2/pl/>\n"
 "Language: pl\n"
@@ -38,6 +38,9 @@ msgid ""
 "command zone and secretly choose a card name. You may turn this "
 "conspiracy face up any time and reveal that name.)"
 msgstr ""
+"Tajny plan (Zacznij grę z tą konspiracją zakrytą w strefie dowodzenia i "
+"potajemnie wybierz nazwę karty. Możesz odkryć tę konspirację w dowolnej "
+"chwili i ujawnić ową nazwę.)"
 
 #: ../../CN2.rst:11
 msgid ""
@@ -84,7 +87,7 @@ msgstr ""
 #: ../../CN2.rst:27 ../../CN2.rst:41 ../../CN2.rst:49 ../../CN2.rst:69
 #: ../../CN2.rst:85
 msgid "(Start the game with this conspiracy face up in the command zone.)"
-msgstr ""
+msgstr "(Zacznij grę z tą konspiracją odkrytą w strefie dowodzenia.)"
 
 #: ../../CN2.rst:29
 msgid "Before drawing your opening hand, choose 1, 2, or 3."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-02-10 17:56+0000\n"
+"PO-Revision-Date: 2019-02-11 09:31+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -2189,6 +2189,8 @@ msgid ""
 "Whenever you cycle or discard a card, Flameblade Adept gets +1/+0 until end "
 "of turn."
 msgstr ""
+"Ilekroć recyklujesz lub odrzucasz kartę, ten stwór dostaje +1/+0 do końca "
+"tury."
 
 #: ../../AKH.rst:726
 msgid ""
@@ -2205,6 +2207,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 msgid ""
 "Fling deals damage equal to the sacrificed creature's power to any target."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe sile poświęconego stwora."
 
 #: ../../AKH.rst:732
 msgid ""
@@ -2219,10 +2222,14 @@ msgid ""
 "card. The player whose turn it is discards down to their maximum hand size. "
 "Damage wears off, and \"this turn\" and \"until end of turn\" effects end.)"
 msgstr ""
+"Zakończ turę. (Wygnaj wszystkie czary i zdolności ze stosu, łącznie z "
+"niniejszą kartą. Aktywny gracz odrzuca karty do maksymalnego rozmiaru ręki. "
+"Obrażenia są usuwane, a efekty \"w tej turze\" oraz \"do końca tury\" kończą "
+"się.)"
 
 #: ../../AKH.rst:731
 msgid "At the beginning of your next end step, you lose the game."
-msgstr ""
+msgstr "Na początku twojego najbliższego kroku końcowego przegrywasz grę."
 
 #: ../../AKH.rst:738
 msgid ""
@@ -2259,6 +2266,9 @@ msgid ""
 "on the battlefield, if it isn't a mana ability, Harsh Mentor deals 2 damage "
 "to that player."
 msgstr ""
+"Ilekroć przeciwnik aktywuje zdolność artefaktu, stwora lub lądu na polu "
+"walki, jeśli nie jest to zdolność dająca manę, ten stwór zadaje 2 obrażenia "
+"owemu graczowi."
 
 #: ../../AKH.rst:750
 msgid ""
@@ -2269,18 +2279,22 @@ msgstr ""
 
 #: ../../AKH.rst:745
 msgid "Indestructible, haste"
-msgstr ""
+msgstr "Niezniszczalność, pośpiech"
 
 #: ../../AKH.rst:747
 msgid ""
 "Hazoret the Fervent can't attack or block unless you have one or fewer cards "
 "in hand."
 msgstr ""
+"Ten stwór nie może atakować ani blokować dopóki masz więcej niż jedną kartę "
+"na ręce."
 
 #: ../../AKH.rst:749
 msgid ""
 "|mana_2|\\ |mana_r|, Discard a card: Hazoret deals 2 damage to each opponent."
 msgstr ""
+"|mana_2|\\ |mana_r|, odrzuć kartę: Ten stwór zadaje każdemu przeciwnikowi po "
+"2 obrażenia."
 
 #: ../../AKH.rst:754
 msgid ""
