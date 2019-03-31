@@ -3,10 +3,13 @@
 Spis zmian
 ***********
 
+2019-03-31
+    * Guild Kits 2 - 0%
+    * Modern Horizons - 0%
+
 2019-02-10
     * Explorers of Ixalan - 100%
     * Amonkhet - 50%
-
 
 2019-01-13
     * Wystawienie seriwsu dla tłumaczy: https://weblate.mtgpopolsku.pl
