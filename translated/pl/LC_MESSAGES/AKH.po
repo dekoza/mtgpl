@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-02-11 09:31+0000\n"
+"PO-Revision-Date: 2019-02-22 20:25+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -2309,6 +2309,9 @@ msgid ""
 "control get +2/+0 and gain haste until end of turn. If you do, sacrifice it "
 "at the beginning of the next end step."
 msgstr ""
+"Na początku walki w twojej turze możesz sprawić, że wskazany stwór pod twoim "
+"władaniem odstanie do końca tury +2/+0 oraz pośpiech. Jeśli tak zrobisz, "
+"poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../AKH.rst:760
 msgid ""
@@ -2323,6 +2326,9 @@ msgid ""
 "another creature. When you do, Heart-Piercer Manticore deals damage equal to "
 "that creature's power to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić innego stwora. Kiedy "
+"tak zrobisz, ten stwór zadaje wskazanemu celowi obrażenia równe sile "
+"poświęconego stwora."
 
 #: ../../AKH.rst:759
 msgid ""
@@ -2353,6 +2359,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn."
 msgstr ""
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć go. Zyskuje "
+"on pośpiech do końca tury."
 
 #: ../../AKH.rst:774
 msgid ""
@@ -2366,6 +2374,8 @@ msgid ""
 "Magma Spray deals 2 damage to target creature. If that creature would die "
 "this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 2 obrażenia. Jeśli ów stwór miałby "
+"umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../AKH.rst:778
 msgid ""
@@ -2380,6 +2390,9 @@ msgid ""
 "on target creature you control. Manticore of the Gauntlet deals 3 damage to "
 "target opponent or planeswalker."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"stworze pod twoim władaniem. Ten stwór zadaje wskazanemu przeciwnikowi lub "
+"wędrowcowi 3 obrażenia."
 
 #: ../../AKH.rst:784
 msgid ""
@@ -2443,6 +2456,8 @@ msgstr ""
 #: ../../AKH.rst:797
 msgid "|tap|: Target creature with power 2 or less can't be blocked this turn."
 msgstr ""
+"|tap|: Wskazany stwór o sile 2 lub mniejszej nie może być blokowany w tej "
+"turze."
 
 #: ../../AKH.rst:804
 msgid ""
@@ -2464,13 +2479,16 @@ msgstr ""
 
 #: ../../AKH.rst:807
 msgid "Prowess"
-msgstr ""
+msgstr "Waleczność"
 
 #: ../../AKH.rst:809
 msgid ""
 "If a source you control would deal noncombat damage to a creature an "
 "opponent controls, put that many -1/-1 counters on that creature instead."
 msgstr ""
+"Jeśli źródło pod twoim władaniem miałoby zadać niebojowe obrażenia stworowi "
+"pod władaniem przeciwnika, zamiast tego umieść na nim tyle samo znaczników "
+"-1/-1."
 
 #: ../../AKH.rst:816
 msgid ""
@@ -2497,7 +2515,7 @@ msgstr ""
 #: ../../AKH.rst:819
 msgid ""
 "Thresher Lizard gets +1/+2 as long as you have one or fewer cards in hand."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+2 o ile masz co najwyżej jedną kartę w ręce."
 
 #: ../../AKH.rst:826
 msgid ""
@@ -2521,6 +2539,7 @@ msgstr ""
 msgid ""
 "When Trial of Zeal enters the battlefield, it deals 3 damage to any target."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../AKH.rst:831
 msgid ""
