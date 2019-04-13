@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-09 09:46+0200\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-04-13 00:31+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/war/pl/>\n"
 "Language: pl\n"
@@ -290,8 +290,7 @@ msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_2|."
 msgid "Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli "
-"żadną nie władasz, stwórz najpierw znacznik czarnego stwora Armia Zombich 0/"
-"0.)"
+"żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:124
 msgid ":mtgtip:`Erratic Visionary<https://img.scryfall.com/cards/border_crop/front/0/3/03188bc3-0ef1-40cd-9c3c-4bb4d806fb92.jpg?1554224477|https://scryfall.com/card/war/48/erratic-visionary?utm_source=api>`"
@@ -310,7 +309,7 @@ msgid "When Eternal Skylord enters the batttlefield, amass 2. (Put two +1/+1 cou
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/+"
 "1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"znacznik czarnego stwora Armia Zombich 0/0.)"
+"żeton czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:129
 msgid "Zombie tokens you control have flying."
@@ -415,7 +414,7 @@ msgstr ""
 msgid "Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim władaniem. Jeśli żadną "
-"nie władasz, stwórz najpierw znacznik czarnego stwora Armia Zombich 0/0.)"
+"nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:169
 msgid "You and permanents you control gain hexproof until end of turn. (You and they can't be the targets of spells or abilities your opponents control.)"
@@ -450,8 +449,7 @@ msgstr ""
 msgid "Amass 3. (Put three +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 3. (Umieść trzy znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli "
-"żadną nie władasz, stwórz najpierw znacznik czarnego stwora Armia Zombich 0/"
-"0.)"
+"żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:190
 msgid ":mtgtip:`Rescuer Sphinx<https://img.scryfall.com/cards/border_crop/front/0/0/00ba9fa2-bfd2-4dc7-b96d-d22a8886a6ae.jpg?1554427079|https://scryfall.com/card/war/65/rescuer-sphinx?utm_source=api>`"
@@ -582,7 +580,7 @@ msgid "At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+
 msgstr ""
 "Na początku twojego kroku utrzymania, strać 1 życie i zgromadź 1. (Umieść "
 "znacznik +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz "
-"najpierw znacznik czarnego stwora Armia Zombich 0/0.)"
+"najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:241
 msgid "Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn."
@@ -612,7 +610,7 @@ msgstr ""
 msgid "When Herald of the Dreadhorde dies, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Kiedy ten stwór umrze, zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod "
-"twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw znacznik czarnego "
+"twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego "
 "stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:258
@@ -641,7 +639,7 @@ msgstr ""
 msgid "When Lazotep Reaver enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
-"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw znacznik "
+"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
 "czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:276
@@ -869,7 +867,7 @@ msgstr "Pierwszy cios"
 msgid "When Grim Initiate dies, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Kiedy ten stwór umrze, zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim "
-"władaniem. Jeśli żadną nie władasz, stwórz najpierw znacznik czarnego stwora "
+"władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego stwora "
 "Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:372
@@ -896,7 +894,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 msgid "Draw two cards. Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Dobierz dwie karty. Zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim "
-"władaniem. Jeśli żadną nie władasz, stwórz najpierw znacznik czarnego stwora "
+"władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego stwora "
 "Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:382
@@ -908,7 +906,7 @@ msgid "When Invading Manticore enters the battlefield, amass 2. (Put two +1/+1 c
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/+"
 "1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"znacznik czarnego stwora Armia Zombich 0/0.)"
+"żeton czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:386
 msgid ":mtgtip:`Krenko, Tin Street Kingpin<https://img.scryfall.com/cards/border_crop/front/3/7/37ed04d3-cfa1-4778-aea6-b4c2c29e6e0a.jpg?1554403268|https://scryfall.com/card/war/137/krenko-tin-street-kingpin?utm_source=api>`"
@@ -1340,7 +1338,7 @@ msgstr ""
 msgid "When Gleaming Overseer enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
-"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw znacznik "
+"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
 "czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:573
@@ -1356,7 +1354,7 @@ msgid "Amass X, where X is the number of instant and sorcery cards in your grave
 msgstr ""
 "Zgromadź X, gdzie X jest liczbą kart sztuczek i obrzędów w twoim cmentarzu. ("
 "Umieść X znaczników +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
-"władasz, stwórz najpierw znacznik czarnego stwora Armia Zombich 0/0.)"
+"władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:584
 msgid ":mtgtip:`Leyline Prowler<https://img.scryfall.com/cards/border_crop/front/c/5/c56b4e8f-d48e-4bb0-883d-29f978033f65.jpg?1554293071|https://scryfall.com/card/war/202/leyline-prowler?utm_source=api>`"
@@ -1577,7 +1575,7 @@ msgstr ""
 "Zgromadź 2, następnie zgromadzona Armia zadaje obrażenia równe swojej sile "
 "każdemu stworowi nie będącemu Armią. (By zgromadzić 2, umieść dwa znaczniki +"
 "1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"znacznik czarnego stwora Armia Zombich 0/0.)"
+"żeton czarnego stwora Armia Zombich 0/0.)"
 
 #: ../../WAR.rst:678
 msgid ":mtgtip:`Angrath, Captain of Chaos<https://img.scryfall.com/cards/border_crop/front/a/a/aa3a4cb5-945e-4caf-8a18-1ef977879fe8.jpg?1554287122|https://scryfall.com/card/war/227/angrath-captain-of-chaos?utm_source=api>`"
@@ -1591,8 +1589,8 @@ msgstr "Stwory pod twoim władaniem mają złowrogość."
 msgid "-2: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "-2: Zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod twoim władaniem. "
-"Jeśli żadną nie władasz, stwórz najpierw znacznik czarnego stwora Armia "
-"Zombich 0/0.)"
+"Jeśli żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich "
+"0/0.)"
 
 #: ../../WAR.rst:684
 msgid ":mtgtip:`Kaya, Bane of the Dead<https://img.scryfall.com/cards/border_crop/front/a/9/a9b575d3-f3f9-4ff4-8e5c-da7c2ec69882.jpg?1554225485|https://scryfall.com/card/war/231/kaya-bane-of-the-dead?utm_source=api>`"
