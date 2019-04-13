@@ -177,6 +177,10 @@
    -8: Draw seven cards. Then if your library has no cards in it, you win the game.
 
 
+:mtgtip:`Jace's Triumph<https://img.scryfall.com/cards/border_crop/front/4/9/4924f177-5ee2-4d3f-9603-4b9aef4dac09.jpg?1555065864|https://scryfall.com/card/war/55/jaces-triumph?utm_source=api>`
+   Draw two cards. If you control a Jace planeswalker, draw three cards instead.
+
+
 :mtgtip:`Kasmina, Enigmatic Mentor<https://img.scryfall.com/cards/border_crop/front/c/7/c77d9454-a78c-4063-ad66-46b2f5a030aa.jpg?1554814668|https://scryfall.com/card/war/56/kasmina-enigmatic-mentor?utm_source=api>`
    Spells your opponents cast that target a creature or planeswalker you control cost |mana_2| more to cast.
 
@@ -775,6 +779,12 @@
    Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle your library.
 
 
+:mtgtip:`Niv-Mizzet Reborn<https://img.scryfall.com/cards/border_crop/front/5/6/56a2609d-b535-400b-81d9-72989a33c70f.jpg?1555083196|https://scryfall.com/card/war/208/niv-mizzet-reborn?utm_source=api>`
+   Flying
+
+   When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.
+
+
 :mtgtip:`Pledge of Unity<https://img.scryfall.com/cards/border_crop/front/c/a/ca9b3518-7fcd-49e2-a4c4-e5daa8be6c21.jpg?1555057182|https://scryfall.com/card/war/210/pledge-of-unity?utm_source=api>`
    Put a +1/+1 counter on each creature you control. You gain 1 life for each creature you control.
 
@@ -903,6 +913,12 @@
    Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.
 
    -2: Create a 1/1 black Assassin creature token with deathtouch and "Whenever this creature deals damage to a planeswalker, destroy that planeswalker."
+
+
+:mtgtip:`Firemind Vessel<https://img.scryfall.com/cards/border_crop/front/e/c/ec0ebb6b-d35a-47db-8071-7fef2a46c17b.jpg?1555065946|https://scryfall.com/card/war/237/firemind-vessel?utm_source=api>`
+   Firemind Vessel enters the battlefield tapped.
+
+   |tap|: Add two mana of different colors.
 
 
 :mtgtip:`God-Pharaoh's Statue<https://img.scryfall.com/cards/border_crop/front/7/d/7dce06ba-c1e1-45ec-82a7-fc10b0fa8870.jpg?1554297019|https://scryfall.com/card/war/238/god-pharaohs-statue?utm_source=api>`
