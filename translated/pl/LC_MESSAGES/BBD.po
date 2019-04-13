@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-02-22 20:26+0000\n"
+"PO-Revision-Date: 2019-04-13 00:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bbd/pl/>\n"
 "Language: pl\n"
@@ -821,7 +821,7 @@ msgstr ""
 
 #: ../../BBD.rst:289
 msgid "Your opponents can't gain life."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą zyskiwać życia."
 
 #: ../../BBD.rst:291
 msgid ""
@@ -2037,6 +2037,7 @@ msgstr ""
 #: ../../BBD.rst:743
 msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
+"Umieść wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
 
 #: ../../BBD.rst:750
 msgid ""

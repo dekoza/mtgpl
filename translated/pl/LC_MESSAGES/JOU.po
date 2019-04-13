@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-02-24 05:05+0000\n"
+"PO-Revision-Date: 2019-04-13 00:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/jou/pl/>\n"
 "Language: pl\n"
@@ -2625,9 +2625,8 @@ msgstr ""
 
 # b5cefaaf51834337bb0680d3852e7a06
 #: ../../JOU.rst:775
-#, fuzzy
 msgid "Creatures you control have menace."
-msgstr "Stwory, którymi władasz mają Pośpiech."
+msgstr "Stwory pod twoim władaniem mają złowrogość."
 
 # 5b478533ffad44f9a45a16a713be6150
 #: ../../JOU.rst:777

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-04-13 00:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -1542,10 +1542,8 @@ msgid "Target creature gets -1/-1 until end of turn."
 msgstr "Wskazany stwór dostaje -1/-1 do końca tury."
 
 #: ../../KLD.rst:541
-#, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr ""
-"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
+msgstr "Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../KLD.rst:546
 msgid ""

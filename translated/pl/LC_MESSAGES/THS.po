@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:37+0000\n"
+"PO-Revision-Date: 2019-04-13 00:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -3223,10 +3223,8 @@ msgstr ""
 "wskazanym stworze"
 
 #: ../../THS.rst:839
-#, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr ""
-"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
+msgstr "Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../THS.rst:841
 #, fuzzy
@@ -4143,9 +4141,8 @@ msgstr ""
 # c992b9b700e44498bb5af9948cc40c9e
 # 1c137fd910e04d709b6d54ac2f6aa9a3
 #: ../../THS.rst:1095
-#, fuzzy
 msgid "You may cast creature spells as though they had flash."
-msgstr "Możesz rzucać czary stworów tak jakby miały błysk."
+msgstr "Możesz rzucać czary stworów tak, jakby miały błysk."
 
 #: ../../THS.rst:1100
 msgid ""

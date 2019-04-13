@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-04-13 00:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -363,6 +363,8 @@ msgstr ""
 #: ../../MM2.rst:153
 msgid "You have hexproof. (You can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Masz antyklątwę. (Nie możesz być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 #: ../../MM2.rst:158
 msgid ":mtgtip:`Mighty Leap<https://img.scryfall.com/cards/border_crop/en/mm2/24.jpg?1517813031|https://scryfall.com/card/mm2/24/mighty-leap?utm_source=api>`"
@@ -1419,6 +1421,8 @@ msgstr ""
 #: ../../MM2.rst:735
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
+"dwa stwory.)"
 
 #: ../../MM2.rst:744
 msgid ":mtgtip:`Thunderblust<https://img.scryfall.com/cards/border_crop/en/mm2/131.jpg?1517813031|https://scryfall.com/card/mm2/131/thunderblust?utm_source=api>`"

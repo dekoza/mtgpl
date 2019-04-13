@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-02-11 09:31+0000\n"
+"PO-Revision-Date: 2019-04-13 00:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dka/pl/>\n"
 "Language: pl\n"
@@ -1962,10 +1962,8 @@ msgstr ""
 
 # 521e0ee6529d4bd8afeb1c6d5b9867cf
 #: ../../DKA.rst:675
-#, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr ""
-"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
+msgstr "Umieść znacznik +1/+1 na wskazanym stworze."
 
 # 8cdfe01c1f1245c0b14787af2a9d83aa
 #: ../../DKA.rst:677

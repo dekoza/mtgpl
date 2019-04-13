@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-31 16:40+0200\n"
-"PO-Revision-Date: 2019-04-12 14:36+0000\n"
+"PO-Revision-Date: 2019-04-13 00:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gk2/pl/>\n"
 "Language: pl\n"
@@ -172,7 +172,7 @@ msgstr ""
 
 #: ../../GK2.rst:53 ../../GK2.rst:265 ../../GK2.rst:423 ../../GK2.rst:563
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../GK2.rst:55
 msgid "Creatures you control gain lifelink until end of turn."
@@ -180,7 +180,7 @@ msgstr ""
 
 #: ../../GK2.rst:57
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../GK2.rst:59
 msgid "Put target attacking or blocking creature on top of its owner's library."
@@ -628,7 +628,7 @@ msgstr ""
 
 #: ../../GK2.rst:221 ../../GK2.rst:257 ../../GK2.rst:285 ../../GK2.rst:459
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../GK2.rst:223
 msgid "Enchanted creature gets -2/-2."
@@ -1042,7 +1042,7 @@ msgstr ""
 
 #: ../../GK2.rst:367
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../GK2.rst:376
 msgid ""
@@ -1227,7 +1227,7 @@ msgstr ""
 
 #: ../../GK2.rst:441
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../GK2.rst:450
 msgid ""
@@ -1407,7 +1407,7 @@ msgstr ""
 
 #: ../../GK2.rst:509
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../GK2.rst:514
 msgid ""
@@ -1485,9 +1485,8 @@ msgid ""
 msgstr ""
 
 #: ../../GK2.rst:537 ../../GK2.rst:551 ../../GK2.rst:605
-#, fuzzy
 msgid "Trample"
-msgstr "Latanie, tratowanie"
+msgstr "Tratowanie"
 
 #: ../../GK2.rst:539
 msgid ""

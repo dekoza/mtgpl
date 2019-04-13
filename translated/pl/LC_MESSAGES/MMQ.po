@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-02-10 17:56+0000\n"
+"PO-Revision-Date: 2019-04-13 00:21+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mmq/pl/>\n"
 "Language: pl\n"
@@ -751,7 +751,7 @@ msgstr ""
 
 #: ../../MMQ.rst:263
 msgid "Each creature deals damage to itself equal to its power."
-msgstr ""
+msgstr "Każdy stwór zadaje sobie obrażenia równe swojej sile."
 
 #: ../../MMQ.rst:268
 msgid ":mtgtip:`Wishmonger<https://img.scryfall.com/cards/border_crop/en/mmq/57.jpg?1517813031|https://scryfall.com/card/mmq/57/wishmonger?utm_source=api>`"
@@ -2839,6 +2839,8 @@ msgstr ""
 #: ../../MMQ.rst:1061
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
+"dwa stwory.)"
 
 #: ../../MMQ.rst:1063
 msgid "Two-Headed Dragon can block an additional creature each combat."
