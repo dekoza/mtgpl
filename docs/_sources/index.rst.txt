@@ -20,8 +20,10 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
-.. Nadochodzące
-.. ------------
+Nadochodzące
+------------
+
+* :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p50|
 
 Standard
 --------
@@ -145,6 +147,7 @@ Legal notice
    :hidden:
 
    rulebook
+   WAR
    RNA
    GRN
    M19

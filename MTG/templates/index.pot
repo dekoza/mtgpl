@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2019.3\n"
+"Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-31 16:40+0200\n"
+"POT-Creation-Date: 2019-04-14 23:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,268 +40,276 @@ msgstr ""
 msgid "Tłumaczenie dodatków"
 msgstr ""
 
-#: ../../index.rst:27
-msgid "Standard"
+#: ../../index.rst:24
+msgid "Nadochodzące"
+msgstr ""
+
+#: ../../index.rst:26
+msgid ":mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p50|"
 msgstr ""
 
 #: ../../index.rst:29
-msgid ":mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|"
-msgstr ""
-
-#: ../../index.rst:30
-msgid ":mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|"
+msgid "Standard"
 msgstr ""
 
 #: ../../index.rst:31
-msgid ":mtgexp:`M19` :doc:`Magic 2019<M19>` |p100|"
+msgid ":mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|"
 msgstr ""
 
 #: ../../index.rst:32
-msgid ":mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|"
+msgid ":mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|"
 msgstr ""
 
 #: ../../index.rst:33
-msgid ":mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|"
+msgid ":mtgexp:`M19` :doc:`Magic 2019<M19>` |p100|"
 msgstr ""
 
 #: ../../index.rst:34
+msgid ":mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|"
+msgstr ""
+
+#: ../../index.rst:35
+msgid ":mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|"
+msgstr ""
+
+#: ../../index.rst:36
 msgid ":mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|"
 msgstr ""
 
-#: ../../index.rst:37
+#: ../../index.rst:39
 msgid "Modern"
 msgstr ""
 
-#: ../../index.rst:39
+#: ../../index.rst:41
 msgid ":doc:`Lista dodatków<modern>`"
 msgstr ""
 
-#: ../../index.rst:42
+#: ../../index.rst:44
 msgid "Legacy / Vintage"
 msgstr ""
 
-#: ../../index.rst:44
+#: ../../index.rst:46
 msgid ":doc:`Lista dodatków<legacy>`"
 msgstr ""
 
-#: ../../index.rst:48
-#: ../../index.rst:88
+#: ../../index.rst:50
+#: ../../index.rst:90
 msgid "Pozostałe produkty"
 msgstr ""
 
-#: ../../index.rst:51
+#: ../../index.rst:53
 msgid "Zestawy gildyjne"
 msgstr ""
 
-#: ../../index.rst:53
+#: ../../index.rst:55
 msgid ":mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` |p25|"
 msgstr ""
 
-#: ../../index.rst:54
+#: ../../index.rst:56
 msgid ":mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |p100|"
 msgstr ""
 
-#: ../../index.rst:58
+#: ../../index.rst:60
 msgid "Seria 'Masters'"
 msgstr ""
 
-#: ../../index.rst:60
+#: ../../index.rst:62
 msgid ":mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |p25|"
 msgstr ""
 
-#: ../../index.rst:61
+#: ../../index.rst:63
 msgid ":mtgexp:`A25` :doc:`Masters 25<A25>` 2018 |p25|"
 msgstr ""
 
-#: ../../index.rst:62
+#: ../../index.rst:64
 msgid ":mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 |p25|"
 msgstr ""
 
-#: ../../index.rst:63
+#: ../../index.rst:65
 msgid ":mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` |p25|"
 msgstr ""
 
-#: ../../index.rst:64
+#: ../../index.rst:66
 msgid ":mtgexp:`EMA` :doc:`Eternal Masters<EMA>` 2016 |p25|"
 msgstr ""
 
-#: ../../index.rst:65
+#: ../../index.rst:67
 msgid ":mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` |p25|"
 msgstr ""
 
-#: ../../index.rst:66
+#: ../../index.rst:68
 msgid ":mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 |p25|"
 msgstr ""
 
-#: ../../index.rst:69
+#: ../../index.rst:71
 msgid "Commander i pokrewne"
 msgstr ""
 
-#: ../../index.rst:71
+#: ../../index.rst:73
 msgid ":doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|"
 msgstr ""
 
-#: ../../index.rst:73
+#: ../../index.rst:75
 msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` |p25|"
 msgstr ""
 
-#: ../../index.rst:74
+#: ../../index.rst:76
 msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` |p25|"
 msgstr ""
 
-#: ../../index.rst:75
+#: ../../index.rst:77
 msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` |p25|"
 msgstr ""
 
-#: ../../index.rst:76
+#: ../../index.rst:78
 msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` |p25|"
 msgstr ""
 
-#: ../../index.rst:77
+#: ../../index.rst:79
 msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` |p25|"
 msgstr ""
 
-#: ../../index.rst:78
+#: ../../index.rst:80
 msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` |p25|"
 msgstr ""
 
-#: ../../index.rst:79
+#: ../../index.rst:81
 msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` |p25|"
 msgstr ""
 
-#: ../../index.rst:82
+#: ../../index.rst:84
 msgid "Conspiracy"
 msgstr ""
 
-#: ../../index.rst:84
+#: ../../index.rst:86
 msgid ":mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` |p25|"
 msgstr ""
 
-#: ../../index.rst:85
+#: ../../index.rst:87
 msgid ":mtgexp:`CNS` :doc:`Conspiracy<CNS>` |p25|"
 msgstr ""
 
-#: ../../index.rst:90
+#: ../../index.rst:92
 msgid ":mtgexp:`GNT` :doc:`Game Night<GNT>` |p100|"
 msgstr ""
 
-#: ../../index.rst:91
+#: ../../index.rst:93
 msgid ":mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |p100|"
 msgstr ""
 
-#: ../../index.rst:93
+#: ../../index.rst:95
 msgid "Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek."
 msgstr ""
 
-#: ../../index.rst:95
+#: ../../index.rst:97
 msgid ":doc:`Bohaterowie<THS_heroes>` |p100|"
 msgstr ""
 
-#: ../../index.rst:96
+#: ../../index.rst:98
 msgid ":doc:`Pokonaj Bóstwo<JOU_god>` |p25|"
 msgstr ""
 
-#: ../../index.rst:97
+#: ../../index.rst:99
 msgid ":doc:`Walka z Hordą<BNG_horde>` |p100|"
 msgstr ""
 
-#: ../../index.rst:98
+#: ../../index.rst:100
 msgid ":doc:`Staw czoła Hydrze<THS_hydra>` |p100|"
 msgstr ""
 
-#: ../../index.rst:101
+#: ../../index.rst:103
 msgid "Warto przeczytać"
 msgstr ""
 
-#: ../../index.rst:103
+#: ../../index.rst:105
 msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
 msgstr ""
 
-#: ../../index.rst:104
+#: ../../index.rst:106
 msgid ":doc:`Nowe sposoby gry<game_variants>`"
 msgstr ""
 
-#: ../../index.rst:105
+#: ../../index.rst:107
 msgid ":doc:`Format Handicap<handicap>`"
 msgstr ""
 
-#: ../../index.rst:106
+#: ../../index.rst:108
 msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
 msgstr ""
 
-#: ../../index.rst:110
+#: ../../index.rst:112
 msgid "Glosariusz"
 msgstr ""
 
-#: ../../index.rst:112
+#: ../../index.rst:114
 msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
 msgstr ""
 
-#: ../../index.rst:115
+#: ../../index.rst:117
 msgid "Ostatnie zmiany"
 msgstr ""
 
-#: ../../index.rst:116
+#: ../../index.rst:118
 msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
 msgstr ""
 
-#: ../../index.rst:119
+#: ../../index.rst:121
 msgid "Ekipa"
 msgstr ""
 
-#: ../../index.rst:121
+#: ../../index.rst:123
 msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
 msgstr ""
 
-#: ../../index.rst:123
+#: ../../index.rst:125
 msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
 msgstr ""
 
-#: ../../index.rst:124
+#: ../../index.rst:126
 msgid "Bartek Pękala - tłumacz"
 msgstr ""
 
-#: ../../index.rst:125
+#: ../../index.rst:127
 msgid "Krzysztof Buniewicz - tłumacz"
 msgstr ""
 
-#: ../../index.rst:126
+#: ../../index.rst:128
 msgid "Zofia Wąchocka - tłumacz, filolog"
 msgstr ""
 
-#: ../../index.rst:127
+#: ../../index.rst:129
 msgid "Roman Cupek - nadzorca merytoryczny"
 msgstr ""
 
-#: ../../index.rst:130
+#: ../../index.rst:132
 msgid "Kwestie prawne"
 msgstr ""
 
-#: ../../index.rst:132
+#: ../../index.rst:134
 msgid "Niniejszy serwis działa zgodnie z zasadami zawartymi w dokumencie `Wizards of the Coast's Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_ (lub przynajmniej mocno się stara)."
 msgstr ""
 
-#: ../../index.rst:134
+#: ../../index.rst:136
 msgid "Zawartość niniejszego serwisu NIE JEST zatwierdzona lub sponsorowana przez Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:135
+#: ../../index.rst:137
 msgid "Tłumaczenia zawarte w tym serwisie (CC) copyleft Dominik Kozaczko. Some rights reversed."
 msgstr ""
 
-#: ../../index.rst:136
+#: ../../index.rst:138
 msgid "Licencja tłumaczeń: `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl>`_ (licencja ta nie dotyczy Wizards of the Coast LLC.)"
 msgstr ""
 
-#: ../../index.rst:139
+#: ../../index.rst:141
 msgid "Legal notice"
 msgstr ""
 
-#: ../../index.rst:141
+#: ../../index.rst:143
 msgid "MTGpoPolsku.pl is unofficial Fan Content permitted under the `Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:142
+#: ../../index.rst:144
 msgid "Translation work `(CC) copyleft <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode>`_ Dominik Kozaczko. Some rights reversed."
 msgstr ""
 

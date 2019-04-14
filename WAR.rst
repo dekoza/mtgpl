@@ -17,6 +17,10 @@
    Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.
 
 
+:mtgtip:`Bond of Discipline<https://img.scryfall.com/cards/border_crop/front/b/b/bb7c78bb-9f2a-47a4-adc4-b497bb38f46f.jpg?1555151364|https://scryfall.com/card/war/6/bond-of-discipline?utm_source=api>`
+   Tap all creatures your opponents control. Creatures you control gain lifelink until end of turn.
+
+
 :mtgtip:`Bulwark Giant<https://img.scryfall.com/cards/border_crop/front/1/1/11510817-edb3-40d4-bd27-6161fedadd11.jpg?1554403942|https://scryfall.com/card/war/7/bulwark-giant?utm_source=api>`
    When Bulwark Giant enters the battlefield, you gain 5 life.
 
@@ -135,6 +139,16 @@
    When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
 
+:mtgtip:`Bond of Insight<https://img.scryfall.com/cards/border_crop/front/6/4/648629af-e911-49e1-b564-c98f339b84a1.jpg?1555102502|https://scryfall.com/card/war/43/bond-of-insight?utm_source=api>`
+   Each player puts the top four cards of their library into their graveyard. Return up to two instant and/or sorcery cards from your graveyard to your hand. Exile Bond of Insight.
+
+
+:mtgtip:`Contentious Plan<https://img.scryfall.com/cards/border_crop/front/8/e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.jpg?1555102558|https://scryfall.com/card/war/46/contentious-plan?utm_source=api>`
+   Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+   Draw a card.
+
+
 :mtgtip:`Crush Dissent<https://img.scryfall.com/cards/border_crop/front/9/4/94c70f23-0ca9-425e-a53a-6c09921c0075.jpg?1554224442|https://scryfall.com/card/war/47/crush-dissent?utm_source=api>`
    Counter target spell unless its controller pays |mana_2|.
 
@@ -223,8 +237,8 @@
    As Rescuer Sphinx enters the battlefield, you may return a nonland permanent you control to its owner's hand. If you do, Rescuer Sphinx enters the battlefield with a +1/+1 counter on it.
 
 
-:mtgtip:`Silent Submarine<https://img.scryfall.com/cards/border_crop/front/a/e/ae2f3dee-1768-4562-9333-a50b9ee7570f.jpg?1554951852|https://scryfall.com/card/war/66/silent-submarine?utm_source=api>`
-   Whenever Silent Submarine deals combat damage to a player or planeswalker, draw a card.
+:mtgtip:`Silent Submersible<https://img.scryfall.com/cards/border_crop/front/a/e/ae2f3dee-1768-4562-9333-a50b9ee7570f.jpg?1555137159|https://scryfall.com/card/war/66/silent-submersible?utm_source=api>`
+   Whenever Silent Submersible deals combat damage to a player or planeswalker, draw a card.
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
@@ -271,6 +285,10 @@
    You may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost.
 
    |tap|, Sacrifice ten nonland permanents: Each opponent loses 10 life.
+
+
+:mtgtip:`Bond of Revival<https://img.scryfall.com/cards/border_crop/front/c/6/c6482fb9-f874-4e33-aa74-7a0da4c9760c.jpg?1555102629|https://scryfall.com/card/war/80/bond-of-revival?utm_source=api>`
+   Return target creature card from your graveyard to the battlefield. It gains haste until your next turn.
 
 
 :mtgtip:`Davriel, Rogue Shadowmage<https://img.scryfall.com/cards/border_crop/front/5/b/5b1a44f0-1db8-406a-b7d9-f883f947f7bd.jpg?1554224696|https://scryfall.com/card/war/83/davriel-rogue-shadowmage?utm_source=api>`
@@ -395,6 +413,10 @@
    Change the target of target spell or ability with a single target.
 
 
+:mtgtip:`Bond of Passion<https://img.scryfall.com/cards/border_crop/front/a/e/ae644e9d-9bc4-4ccd-aef4-3d0559948aa6.jpg?1555161783|https://scryfall.com/card/war/116/bond-of-passion?utm_source=api>`
+   Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Bond of Passion deals 2 damage to any other target.
+
+
 :mtgtip:`Burning Prophet<https://img.scryfall.com/cards/border_crop/front/0/1/01c5b095-13c9-4673-bf0c-553de455e521.jpg?1554225026|https://scryfall.com/card/war/117/burning-prophet?utm_source=api>`
    Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end of turn, then scry 1.
 
@@ -443,8 +465,8 @@
    Zombie tokens you control have trample.
 
 
-:mtgtip:`Finale of Promise<https://img.scryfall.com/cards/border_crop/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1555042347|https://scryfall.com/card/war/127/finale-of-promise?utm_source=api>`
-   You may cast up to one target instant and/or sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a card cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.
+:mtgtip:`Finale of Promise<https://img.scryfall.com/cards/border_crop/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1555084033|https://scryfall.com/card/war/127/finale-of-promise?utm_source=api>`
+   You may cast up to one target instant card and/or sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a card cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.
 
 
 :mtgtip:`Goblin Assailant<https://img.scryfall.com/cards/border_crop/front/e/4/e41acc81-7c22-4b59-97b8-54473623db6f.jpg?1554476601|https://scryfall.com/card/war/128/goblin-assailant?utm_source=api>`
@@ -569,6 +591,16 @@
 
 :mtgtip:`Bloom Hulk<https://img.scryfall.com/cards/border_crop/front/f/d/fd1c9129-254d-4d1d-9d95-112292bd6bcc.jpg?1554463694|https://scryfall.com/card/war/154/bloom-hulk?utm_source=api>`
    When Bloom Hulk enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Bond of Flourishing<https://img.scryfall.com/cards/border_crop/front/d/f/df901fdc-8672-44f5-ade5-7c4e0b5c5d81.jpg?1555102456|https://scryfall.com/card/war/155/bond-of-flourishing?utm_source=api>`
+   Look at the top three card of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. You gain 3 life.
+
+
+:mtgtip:`Centaur Nurturer<https://img.scryfall.com/cards/border_crop/front/b/f/bf020acb-e0c6-43b4-8324-0f2ec68b73d6.jpg?1555101824|https://scryfall.com/card/war/156/centaur-nurturer?utm_source=api>`
+   When Centaur Nurturer enters the battlefield, you gain 3 life.
+
+   |tap|: Add one mana of any color.
 
 
 :mtgtip:`Challenger Troll<https://img.scryfall.com/cards/border_crop/front/3/2/328d778a-ef16-437f-9a9d-204cf061919b.jpg?1554726012|https://scryfall.com/card/war/157/challenger-troll?utm_source=api>`
@@ -915,7 +947,7 @@
    -2: Create a 1/1 black Assassin creature token with deathtouch and "Whenever this creature deals damage to a planeswalker, destroy that planeswalker."
 
 
-:mtgtip:`Firemind Vessel<https://img.scryfall.com/cards/border_crop/front/e/c/ec0ebb6b-d35a-47db-8071-7fef2a46c17b.jpg?1555065946|https://scryfall.com/card/war/237/firemind-vessel?utm_source=api>`
+:mtgtip:`Firemind Vessel<https://img.scryfall.com/cards/border_crop/front/e/c/ec0ebb6b-d35a-47db-8071-7fef2a46c17b.jpg?1555098557|https://scryfall.com/card/war/237/firemind-vessel?utm_source=api>`
    Firemind Vessel enters the battlefield tapped.
 
    |tap|: Add two mana of different colors.
@@ -985,7 +1017,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Gideon, the Oathsworn<https://img.scryfall.com/cards/border_crop/front/4/3/43e7331d-98b8-420f-a346-3f3521c3b258.jpg?1555010284|https://scryfall.com/card/war/265/gideon-the-oathsworn?utm_source=api>`
+:mtgtip:`Gideon, the Oathsworn<https://img.scryfall.com/cards/border_crop/front/4/3/43e7331d-98b8-420f-a346-3f3521c3b258.jpg?1555210231|https://scryfall.com/card/war/265/gideon-the-oathsworn?utm_source=api>`
    Whenever you attack with two or more non-Gideon creatures, put a +1/+1 counter on each of those creatures.
 
    +2: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn. (He can't attack if he was cast this turn.)
