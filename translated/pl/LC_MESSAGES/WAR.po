@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-09 09:46+0200\n"
-"PO-Revision-Date: 2019-04-13 00:31+0000\n"
+"PO-Revision-Date: 2019-04-14 21:44+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/war/pl/>\n"
 "Language: pl\n"
@@ -1705,6 +1705,8 @@ msgstr "|tap|: Dostajesz |colorless|."
 #: ../../WAR.rst:725
 msgid "|mana_1|, |tap|, Sacrifice Emergence Zone: You may cast spells this turn as though they had flash."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten ląd: W tej turze możesz rzucać czary tak, jakby "
+"miały błysk."
 
 #: ../../WAR.rst:734
 msgid ":mtgtip:`Interplanar Beacon<https://img.scryfall.com/cards/border_crop/front/1/3/132d8e2a-e1dd-4867-8e8c-e48b9450b350.jpg?1554225805|https://scryfall.com/card/war/247/interplanar-beacon?utm_source=api>`"
@@ -1712,11 +1714,13 @@ msgstr ""
 
 #: ../../WAR.rst:729
 msgid "Whenever you cast a planeswalker spell, you gain 1 life."
-msgstr ""
+msgstr "Ilekroć rzucisz czar wędrowca, zyskujesz 1 życie."
 
 #: ../../WAR.rst:733
 msgid "|mana_1|, |tap|: Add two mana of different colors. Spend this mana only to cast planeswalker spells."
 msgstr ""
+"|mana_1|, |tap|: Dostajesz dwie many o różnych kolorach. Wydaj ową manę "
+"tylko na rzucanie czarów wędrowców."
 
 #: ../../WAR.rst:740
 msgid ":mtgtip:`Karn's Bastion<https://img.scryfall.com/cards/border_crop/front/b/9/b9d895af-7e8c-419f-bc5d-5596083fbfb6.jpg?1554227704|https://scryfall.com/card/war/248/karns-bastion?utm_source=api>`"
@@ -1736,6 +1740,9 @@ msgstr ""
 #: ../../WAR.rst:745
 msgid "|mana_4|: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs |mana_1| less to activate for each legendary creature and planeswalker you control."
 msgstr ""
+"|mana_4|: Ten ląd do końca tury staje się stworem Mieszkaniec 3/3 z "
+"czujnością. Nadal jest lądem. Aktywacja tej zdolności kosztuje o |mana_1| "
+"mniej za każdego legendarnego stwora lub wędrowca pod twoim władaniem."
 
 #: ../../WAR.rst:750
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/d/9/d92ef517-2417-43a2-8b1a-0673d1531c65.jpg?1554143744|https://scryfall.com/card/war/250/plains?utm_source=api>`"
@@ -1743,7 +1750,7 @@ msgstr ""
 
 #: ../../WAR.rst:749
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../WAR.rst:754
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/7/0/7014b9fc-a906-4ffd-a482-22ba8dbe3b4a.jpg?1554143753|https://scryfall.com/card/war/253/island?utm_source=api>`"
@@ -1751,7 +1758,7 @@ msgstr ""
 
 #: ../../WAR.rst:753
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../WAR.rst:758
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/2/4/24eeb424-235d-4346-9355-57914e740ec6.jpg?1554143736|https://scryfall.com/card/war/256/swamp?utm_source=api>`"
@@ -1759,7 +1766,7 @@ msgstr ""
 
 #: ../../WAR.rst:757
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../WAR.rst:762
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/4/8/489fdba7-5c25-4cf3-a1e0-3e0fda6c6ee6.jpg?1554725858|https://scryfall.com/card/war/259/mountain?utm_source=api>`"
@@ -1767,7 +1774,7 @@ msgstr ""
 
 #: ../../WAR.rst:761
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../WAR.rst:766
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/a/9/a9d61651-349e-40d0-a7c4-c9561e190405.jpg?1554143719|https://scryfall.com/card/war/262/forest?utm_source=api>`"
@@ -1775,7 +1782,7 @@ msgstr ""
 
 #: ../../WAR.rst:765
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../WAR.rst:775
 msgid ":mtgtip:`Tezzeret, Master of the Bridge<https://img.scryfall.com/cards/border_crop/front/9/e/9ee1eea2-961f-445d-b035-6baed454f289.jpg?1554153236|https://scryfall.com/card/war/275/tezzeret-master-of-the-bridge?utm_source=api>`"
@@ -1784,15 +1791,21 @@ msgstr ""
 #: ../../WAR.rst:769
 msgid "Creature and planeswalker spells you cast have affinity for artifacts."
 msgstr ""
+"Rzucane przez ciebie czary stworów i wędrowców mają koligację z artefaktami."
 
 #: ../../WAR.rst:771
 msgid "+2: Tezzeret, Master of the Bridge deals X damage to each opponent, where X is the number of artifacts you control. You gain X life."
 msgstr ""
+"+2: Ten wędrowiec zadaje każdemu przeciwnikowi X obrażeń, gdzie X jest "
+"liczbą artefaktów pod twoim władaniem. Zyskujesz X żyć."
 
 #: ../../WAR.rst:773
 msgid "-3: Return target artifact card from your graveyard to your hand."
 msgstr ""
+"-3: Przywróć wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../WAR.rst:775
 msgid "-8: Exile the top ten cards of your library. Put all artifact cards from among them onto the battlefield."
 msgstr ""
+"-8: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Umieść wszystkie "
+"karty artefaktów spośród nich na polu walki."
