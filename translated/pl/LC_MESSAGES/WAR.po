@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-09 09:46+0200\n"
+"POT-Creation-Date: 2019-04-14 23:55+0200\n"
 "PO-Revision-Date: 2019-04-14 21:44+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/war/pl/>\n"
@@ -23,1789 +23,3430 @@ msgstr ""
 msgid ":mtgexp:`WAR` War of the Spark"
 msgstr ""
 
-#: ../../WAR.rst:10
-msgid ":mtgtip:`Ajani's Pridemate<https://img.scryfall.com/cards/border_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1554224322|https://scryfall.com/card/war/4/ajanis-pridemate?utm_source=api>`"
+#: ../../WAR.rst:14
+msgid ""
+":mtgtip:`Karn, the Great Creator<https://img.scryfall.com/cards/border_crop/"
+"front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1555058780|https://"
+"scryfall.com/card/war/1/karn-the-great-creator?utm_source=api>`"
 msgstr ""
 
 #: ../../WAR.rst:9
-msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
-msgstr "Ilekroć zyskasz życie, umieść znacznik +1/+1 na tym stworze."
+msgid ""
+"Activated abilities of artifacts your opponents control can't be activated."
+msgstr ""
 
-#: ../../WAR.rst:14
-msgid ":mtgtip:`Bulwark Giant<https://img.scryfall.com/cards/border_crop/front/1/1/11510817-edb3-40d4-bd27-6161fedadd11.jpg?1554403942|https://scryfall.com/card/war/7/bulwark-giant?utm_source=api>`"
+#: ../../WAR.rst:11
+msgid ""
+"+1: Until your next turn, up to one target noncreature artifact becomes an "
+"artifact creature with power and toughness each equal to its converted mana "
+"cost."
 msgstr ""
 
 #: ../../WAR.rst:13
-msgid "When Bulwark Giant enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 5 żyć."
+msgid ""
+"-2: You may choose an artifact card you own from outside the game or in "
+"exile, reveal that card, and put it into your hand."
+msgstr ""
 
-#: ../../WAR.rst:20
-msgid ":mtgtip:`Defiant Strike<https://img.scryfall.com/cards/border_crop/front/d/c/dc183a40-7e15-40b1-9faa-b243401b3d10.jpg?1554466578|https://scryfall.com/card/war/9/defiant-strike?utm_source=api>`"
+#: ../../WAR.rst:18
+msgid ""
+":mtgtip:`Ajani's Pridemate<https://img.scryfall.com/cards/border_crop/front/"
+"b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1554224322|https://scryfall.com/"
+"card/war/4/ajanis-pridemate?utm_source=api>`"
 msgstr ""
 
 #: ../../WAR.rst:17
+msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
+msgstr "Ilekroć zyskasz życie, umieść znacznik +1/+1 na tym stworze."
+
+#: ../../WAR.rst:22
+msgid ""
+":mtgtip:`Bond of Discipline<https://img.scryfall.com/cards/border_crop/front/"
+"b/b/bb7c78bb-9f2a-47a4-adc4-b497bb38f46f.jpg?1555151364|https://scryfall.com/"
+"card/war/6/bond-of-discipline?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:21
+#, fuzzy
+msgid ""
+"Tap all creatures your opponents control. Creatures you control gain "
+"lifelink until end of turn."
+msgstr ""
+"Odkręć wszystkie stwory pod twoim władaniem. Stwory z lataniem pod twoim "
+"władaniem dostają +2/+2 do końca tury."
+
+#: ../../WAR.rst:26
+msgid ""
+":mtgtip:`Bulwark Giant<https://img.scryfall.com/cards/border_crop/"
+"front/1/1/11510817-edb3-40d4-bd27-6161fedadd11.jpg?1554403942|https://"
+"scryfall.com/card/war/7/bulwark-giant?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:25
+msgid "When Bulwark Giant enters the battlefield, you gain 5 life."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 5 żyć."
+
+#: ../../WAR.rst:32
+msgid ""
+":mtgtip:`Defiant Strike<https://img.scryfall.com/cards/border_crop/front/d/c/"
+"dc183a40-7e15-40b1-9faa-b243401b3d10.jpg?1554466578|https://scryfall.com/"
+"card/war/9/defiant-strike?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:29
 msgid "Target creature gets +1/+0 until end of turn."
 msgstr "Wskazany stwór dostaje +1/+0 do końca tury."
 
-#: ../../WAR.rst:19
-#: ../../WAR.rst:321
+#: ../../WAR.rst:31 ../../WAR.rst:119 ../../WAR.rst:149 ../../WAR.rst:407
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-#: ../../WAR.rst:24
-msgid ":mtgtip:`Gideon's Triumph<https://img.scryfall.com/cards/border_crop/front/d/6/d6610c6a-717f-406e-a49d-b6e548880946.jpg?1554224327|https://scryfall.com/card/war/15/gideons-triumph?utm_source=api>`"
+#: ../../WAR.rst:36
+msgid ""
+":mtgtip:`Gideon's Triumph<https://img.scryfall.com/cards/border_crop/front/"
+"d/6/d6610c6a-717f-406e-a49d-b6e548880946.jpg?1554224327|https://scryfall.com/"
+"card/war/15/gideons-triumph?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:23
-msgid "Target opponent sacrifices a creature that attacked or blocked this turn. If you control a Gideon planeswalker, that player sacrifices two of those creatures instead."
+#: ../../WAR.rst:35
+msgid ""
+"Target opponent sacrifices a creature that attacked or blocked this turn. If "
+"you control a Gideon planeswalker, that player sacrifices two of those "
+"creatures instead."
 msgstr ""
 "Wskazany przeciwnik poświęca stwora, który atakował lub blokował w tej "
 "turze. Jeśli władasz wędrowcem typu Gideon, zamiast tego ów gracz poświęca "
 "dwa z owych stworów."
 
-#: ../../WAR.rst:30
-msgid ":mtgtip:`Grateful Apparition<https://img.scryfall.com/cards/border_crop/front/7/d/7dcb1f9d-105d-48c6-bd66-d7e8839de9e1.jpg?1554427168|https://scryfall.com/card/war/17/grateful-apparition?utm_source=api>`"
+#: ../../WAR.rst:42
+msgid ""
+":mtgtip:`Grateful Apparition<https://img.scryfall.com/cards/border_crop/"
+"front/7/d/7dcb1f9d-105d-48c6-bd66-d7e8839de9e1.jpg?1554427168|https://"
+"scryfall.com/card/war/17/grateful-apparition?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:27
-#: ../../WAR.rst:89
-#: ../../WAR.rst:107
-#: ../../WAR.rst:187
-#: ../../WAR.rst:299
-#: ../../WAR.rst:565
-#: ../../WAR.rst:591
+#: ../../WAR.rst:39 ../../WAR.rst:109 ../../WAR.rst:133 ../../WAR.rst:179
+#: ../../WAR.rst:235 ../../WAR.rst:373 ../../WAR.rst:769 ../../WAR.rst:801
+#: ../../WAR.rst:815 ../../WAR.rst:969
 msgid "Flying"
 msgstr "Latanie"
 
-#: ../../WAR.rst:29
-msgid "Whenever Grateful Apparition deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+#: ../../WAR.rst:41
+msgid ""
+"Whenever Grateful Apparition deals combat damage to a player or "
+"planeswalker, proliferate. (Choose any number of permanents and/or players, "
+"then give each another counter of each kind already there.)"
 msgstr ""
-"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń. ("
-"Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj każdemu z "
+"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń. "
+"(Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj każdemu z "
 "nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
-#: ../../WAR.rst:34
-msgid ":mtgtip:`Ignite the Beacon<https://img.scryfall.com/cards/border_crop/front/4/e/4e11d6f9-0b80-4b19-ab96-23f80b66b409.jpg?1554251767|https://scryfall.com/card/war/18/ignite-the-beacon?utm_source=api>`"
+#: ../../WAR.rst:46
+msgid ""
+":mtgtip:`Ignite the Beacon<https://img.scryfall.com/cards/border_crop/"
+"front/4/e/4e11d6f9-0b80-4b19-ab96-23f80b66b409.jpg?1554251767|https://"
+"scryfall.com/card/war/18/ignite-the-beacon?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:33
-msgid "Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle your library."
+#: ../../WAR.rst:45
+msgid ""
+"Search your library for up to two planeswalker cards, reveal them, put them "
+"into your hand, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwóch kart wędrowca, ujawnij je, "
 "umieść je w twojej ręce, następnie przetasuj twoją bibliotekę."
 
-#: ../../WAR.rst:40
-msgid ":mtgtip:`Loxodon Sergeant<https://img.scryfall.com/cards/border_crop/front/c/5/c57f873b-5fb2-4638-b66c-f6d1aec156ba.jpg?1554466995|https://scryfall.com/card/war/21/loxodon-sergeant?utm_source=api>`"
+#: ../../WAR.rst:50
+msgid ""
+":mtgtip:`Law-Rune Enforcer<https://img.scryfall.com/cards/border_crop/front/"
+"a/3/a3d39238-e21d-4345-84c8-648ef3a66703.jpg?1554813747|https://scryfall.com/"
+"card/war/20/law-rune-enforcer?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:37
+#: ../../WAR.rst:49
+#, fuzzy
+msgid ""
+"|mana_1|, |tap|: Tap target creature with converted mana cost 2 or greater."
+msgstr "-2: Wygnaj wskazanego stwora o sile 4 lub większej."
+
+#: ../../WAR.rst:56
+msgid ""
+":mtgtip:`Loxodon Sergeant<https://img.scryfall.com/cards/border_crop/front/"
+"c/5/c57f873b-5fb2-4638-b66c-f6d1aec156ba.jpg?1554466995|https://scryfall.com/"
+"card/war/21/loxodon-sergeant?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:53
 msgid "Vigilance"
 msgstr "Czujność"
 
-#: ../../WAR.rst:39
-msgid "When Loxodon Sergeant enters the battlefield, other creatures you control gain vigilance until end of turn."
+#: ../../WAR.rst:55
+msgid ""
+"When Loxodon Sergeant enters the battlefield, other creatures you control "
+"gain vigilance until end of turn."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
 "zyskują czujność do końca tury."
 
-#: ../../WAR.rst:44
-msgid ":mtgtip:`Makeshift Battalion<https://img.scryfall.com/cards/border_crop/front/8/2/82293d58-d3b4-4cf6-8a16-32ae3e509696.jpg?1554439972|https://scryfall.com/card/war/22/makeshift-battalion?utm_source=api>`"
+#: ../../WAR.rst:60
+msgid ""
+":mtgtip:`Makeshift Battalion<https://img.scryfall.com/cards/border_crop/"
+"front/8/2/82293d58-d3b4-4cf6-8a16-32ae3e509696.jpg?1554439972|https://"
+"scryfall.com/card/war/22/makeshift-battalion?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:43
-msgid "Whenever Makeshift Battalion and at least two other creatures attack, put a +1/+1 counter on Makeshift Battalion."
+#: ../../WAR.rst:59
+msgid ""
+"Whenever Makeshift Battalion and at least two other creatures attack, put a "
+"+1/+1 counter on Makeshift Battalion."
 msgstr ""
 "Ilekroć ten stwór atakuje razem z co najmniej dwoma innymi stworami, umieść "
 "znacznik +1/+1 na niniejszym stworze."
 
-#: ../../WAR.rst:52
-msgid ":mtgtip:`Parhelion II<https://img.scryfall.com/cards/border_crop/front/2/6/261ba80e-3aca-423e-a0b7-19c2d4b44dbf.jpg?1554762137|https://scryfall.com/card/war/24/parhelion-ii?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:47
-msgid "Flying, first strike, vigilance"
-msgstr "Latanie, pierwszy cios, czujność"
-
-#: ../../WAR.rst:49
-msgid "Whenever Parhelion II attacks, create two 4/4 white Angel creature tokens with flying and vigilance that are attacking."
-msgstr ""
-"Ilekroć ten stwór atakuje, stwórz dwa atakujące żetony białego stwora Anioł "
-"4/4 z lataniem i czujnością."
-
-#: ../../WAR.rst:51
-msgid "Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)"
-msgstr ""
-"Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
-
-#: ../../WAR.rst:56
-msgid ":mtgtip:`Pouncing Lynx<https://img.scryfall.com/cards/border_crop/front/9/3/9383956f-90bc-40e4-ae5c-503e98e21832.jpg?1554402768|https://scryfall.com/card/war/25/pouncing-lynx?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:55
-msgid "As long as it's your turn, Pouncing Lynx has first strike."
-msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
-
-#: ../../WAR.rst:60
-msgid ":mtgtip:`\"I Thought I'd Just Be Guarding Garrisons, You Know?\"<https://img.scryfall.com/cards/border_crop/front/f/0/f043642d-35fe-4ea9-a1d3-78ddfdddeaf4.jpg?1554757683|https://scryfall.com/card/war/27/i-thought-id-just-be-guarding-garrisons-you-know%3F?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:59
-msgid "Untap all creature you control. Creatures you control with flying get +2/+2 until end of turn."
-msgstr ""
-"Odkręć wszystkie stwory pod twoim władaniem. Stwory z lataniem pod twoim "
-"władaniem dostają +2/+2 do końca tury."
-
 #: ../../WAR.rst:64
-msgid ":mtgtip:`Ravnica at War<https://img.scryfall.com/cards/border_crop/front/e/0/e0f83824-43c6-4101-88fd-9109958b23e2.jpg?1554224335|https://scryfall.com/card/war/28/ravnica-at-war?utm_source=api>`"
+msgid ""
+":mtgtip:`Martyr for the Cause<https://img.scryfall.com/cards/border_crop/"
+"front/a/c/acfbc8ca-a574-461e-92ea-c6010daa8230.jpg?1554895657|https://"
+"scryfall.com/card/war/23/martyr-for-the-cause?utm_source=api>`"
 msgstr ""
 
 #: ../../WAR.rst:63
-msgid "Exile all multicolored permanents."
-msgstr "Wygnaj wszystkie wielokolorowe permanenty."
-
-#: ../../WAR.rst:68
-msgid ":mtgtip:`Rising Populace<https://img.scryfall.com/cards/border_crop/front/e/d/edcacc28-aacf-4d40-b8cc-f8c028380340.jpg?1554224353|https://scryfall.com/card/war/29/rising-populace?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:67
-msgid "Whenever another creature or planeswalker you control dies, put a +1/+1 counter on Rising Populace."
-msgstr ""
-"Ilekroć umrze inny stwór lub wędrowiec pod twoim władaniem, umieść znacznik +"
-"1/+1 na tym stworze."
-
-#: ../../WAR.rst:72
-msgid ":mtgtip:`Single Combat<https://img.scryfall.com/cards/border_crop/front/c/e/ce0e7c6a-e628-4327-a16f-2062c5a662df.jpg?1554408027|https://scryfall.com/card/war/30/single-combat?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:71
-msgid "Each player chooses a creature or planeswalker they control, then sacrifices the rest. Players can't cast creature or planeswalker spells until the end of your next turn."
-msgstr ""
-"Każdy gracz wybiera stwora lub wędrowca pod swoim władaniem, następnie "
-"poświęca resztę. Gracze nie mogą rzucać czarów stworów lub wędrowców  do "
-"końca twojej następnej tury."
-
-#: ../../WAR.rst:76
-msgid ":mtgtip:`Sunblade Angel<https://img.scryfall.com/cards/border_crop/front/9/2/9211c0e1-b314-495f-9c43-9a0e95c9efb9.jpg?1554724982|https://scryfall.com/card/war/31/sunblade-angel?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:75
-msgid "Flying, first strike, vigilance, lifelink"
-msgstr "Latanie, pierwszy cios, czujność, więź życia"
-
-#: ../../WAR.rst:82
-msgid ":mtgtip:`Teyo, the Shieldmage<https://img.scryfall.com/cards/border_crop/front/a/9/a974571c-d8d5-4860-9077-2023e5f32a24.jpg?1554224358|https://scryfall.com/card/war/32/teyo-the-shieldmage?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:79
-msgid "You have hexproof. (You can't be the target of spells or abilities your opponents control.)"
-msgstr ""
-"Masz antyklątwę. (Nie możesz być celem czarów i zdolności władanych przez "
-"twoich przeciwników.)"
-
-#: ../../WAR.rst:81
-msgid "-2: Create a 0/3 white Wall creature token with defender."
-msgstr "-2: Stwórz żeton białego stwora Ściana 0/3 z obronnością."
-
-#: ../../WAR.rst:86
-msgid ":mtgtip:`Teyo's Lightshield<https://img.scryfall.com/cards/border_crop/front/d/f/dfffe235-98b1-43db-9461-1b2da5f0690e.jpg?1554224364|https://scryfall.com/card/war/33/teyos-lightshield?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:85
-msgid "When Teyo's Lightshield enters the battlefield, put a +1/+1 counter on target creature you control."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
-"stworze pod twoim władaniem."
-
-#: ../../WAR.rst:94
-msgid ":mtgtip:`Tomik, Distinguished Advokist<https://img.scryfall.com/cards/border_crop/front/f/3/f346387c-2f13-472b-b5b1-968b490eb38f.jpg?1554463820|https://scryfall.com/card/war/34/tomik-distinguished-advokist?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:91
-msgid "Lands on the battlefield and land cards in graveyards can't be the targets of spells or abilities your opponents control."
-msgstr ""
-"Lądy na polu walki i karty lądów w cmentarzach nie mogą być celami czarów "
-"lub zdolności pod władaniem twoich przeciwników."
-
-#: ../../WAR.rst:93
-msgid "Your opponents can't play land cards from graveyards."
-msgstr "Twoi przeciwnicy nie mogą grać kart lądów z cmentarzy."
-
-#: ../../WAR.rst:100
-msgid ":mtgtip:`The Wanderer<https://img.scryfall.com/cards/border_crop/front/d/0/d0f0e463-9eed-4348-af7c-fde5f0d8188c.jpg?1554224373|https://scryfall.com/card/war/37/the-wanderer?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:97
-msgid "Prevent all noncombat damage that would be dealt to you and other permanents you control."
-msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane tobie i "
-"innym permanentom pod twoim władaniem."
-
-#: ../../WAR.rst:99
-msgid "-2: Exile target creature with power 4 or greater."
-msgstr "-2: Wygnaj wskazanego stwora o sile 4 lub większej."
-
-#: ../../WAR.rst:104
-msgid ":mtgtip:`Wanderer's Strike<https://img.scryfall.com/cards/border_crop/front/8/5/85e1d63e-9692-4988-bda2-7c2c9b42217b.jpg?1554224413|https://scryfall.com/card/war/38/wanderers-strike?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:103
-msgid "Exile target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+#, fuzzy
+msgid ""
+"When Martyr for the Cause dies, proliferate. (Choose any number of "
+"permanents and/or players, then give each another counter of each kind "
+"already there.)"
 msgstr ""
 "Wygnaj wskazanego stwora, następnie rozpleń. (Wybierz dowolną liczbę "
 "permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
-#: ../../WAR.rst:110
-msgid ":mtgtip:`War Screecher<https://img.scryfall.com/cards/border_crop/front/d/2/d2ff7868-eeb9-4292-a2f4-cac18f9ba270.jpg?1554402864|https://scryfall.com/card/war/39/war-screecher?utm_source=api>`"
+#: ../../WAR.rst:72
+msgid ""
+":mtgtip:`Parhelion II<https://img.scryfall.com/cards/border_crop/"
+"front/2/6/261ba80e-3aca-423e-a0b7-19c2d4b44dbf.jpg?1554762137|https://"
+"scryfall.com/card/war/24/parhelion-ii?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:109
-msgid "|mana_5|\\ |mana_w|, |tap|: Other creatures you control get +1/+1 until end of turn."
+#: ../../WAR.rst:67
+msgid "Flying, first strike, vigilance"
+msgstr "Latanie, pierwszy cios, czujność"
+
+#: ../../WAR.rst:69
+msgid ""
+"Whenever Parhelion II attacks, create two 4/4 white Angel creature tokens "
+"with flying and vigilance that are attacking."
+msgstr ""
+"Ilekroć ten stwór atakuje, stwórz dwa atakujące żetony białego stwora Anioł "
+"4/4 z lataniem i czujnością."
+
+#: ../../WAR.rst:71
+msgid ""
+"Crew 4 (Tap any number of creatures you control with total power 4 or more: "
+"This Vehicle becomes an artifact creature until end of turn.)"
+msgstr ""
+"Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+
+#: ../../WAR.rst:76
+msgid ""
+":mtgtip:`Pouncing Lynx<https://img.scryfall.com/cards/border_crop/"
+"front/9/3/9383956f-90bc-40e4-ae5c-503e98e21832.jpg?1554402768|https://"
+"scryfall.com/card/war/25/pouncing-lynx?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:75
+msgid "As long as it's your turn, Pouncing Lynx has first strike."
+msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
+
+#: ../../WAR.rst:80
+msgid ""
+":mtgtip:`Rally of Wings<https://img.scryfall.com/cards/border_crop/front/f/0/"
+"f043642d-35fe-4ea9-a1d3-78ddfdddeaf4.jpg?1554817325|https://scryfall.com/"
+"card/war/27/rally-of-wings?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:79
+#, fuzzy
+msgid ""
+"Untap all creatures you control. Creatures you control with flying get +2/+2 "
+"until end of turn."
+msgstr ""
+"Odkręć wszystkie stwory pod twoim władaniem. Stwory z lataniem pod twoim "
+"władaniem dostają +2/+2 do końca tury."
+
+#: ../../WAR.rst:84
+msgid ""
+":mtgtip:`Ravnica at War<https://img.scryfall.com/cards/border_crop/front/e/0/"
+"e0f83824-43c6-4101-88fd-9109958b23e2.jpg?1554224335|https://scryfall.com/"
+"card/war/28/ravnica-at-war?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:83
+msgid "Exile all multicolored permanents."
+msgstr "Wygnaj wszystkie wielokolorowe permanenty."
+
+#: ../../WAR.rst:88
+msgid ""
+":mtgtip:`Rising Populace<https://img.scryfall.com/cards/border_crop/front/e/"
+"d/edcacc28-aacf-4d40-b8cc-f8c028380340.jpg?1554224353|https://scryfall.com/"
+"card/war/29/rising-populace?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:87
+msgid ""
+"Whenever another creature or planeswalker you control dies, put a +1/+1 "
+"counter on Rising Populace."
+msgstr ""
+"Ilekroć umrze inny stwór lub wędrowiec pod twoim władaniem, umieść znacznik "
+"+1/+1 na tym stworze."
+
+#: ../../WAR.rst:92
+msgid ""
+":mtgtip:`Single Combat<https://img.scryfall.com/cards/border_crop/front/c/e/"
+"ce0e7c6a-e628-4327-a16f-2062c5a662df.jpg?1554408027|https://scryfall.com/"
+"card/war/30/single-combat?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:91
+msgid ""
+"Each player chooses a creature or planeswalker they control, then sacrifices "
+"the rest. Players can't cast creature or planeswalker spells until the end "
+"of your next turn."
+msgstr ""
+"Każdy gracz wybiera stwora lub wędrowca pod swoim władaniem, następnie "
+"poświęca resztę. Gracze nie mogą rzucać czarów stworów lub wędrowców  do "
+"końca twojej następnej tury."
+
+#: ../../WAR.rst:96
+msgid ""
+":mtgtip:`Sunblade Angel<https://img.scryfall.com/cards/border_crop/"
+"front/9/2/9211c0e1-b314-495f-9c43-9a0e95c9efb9.jpg?1554724982|https://"
+"scryfall.com/card/war/31/sunblade-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:95
+msgid "Flying, first strike, vigilance, lifelink"
+msgstr "Latanie, pierwszy cios, czujność, więź życia"
+
+#: ../../WAR.rst:102
+msgid ""
+":mtgtip:`Teyo, the Shieldmage<https://img.scryfall.com/cards/border_crop/"
+"front/a/9/a974571c-d8d5-4860-9077-2023e5f32a24.jpg?1554224358|https://"
+"scryfall.com/card/war/32/teyo-the-shieldmage?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:99
+msgid ""
+"You have hexproof. (You can't be the target of spells or abilities your "
+"opponents control.)"
+msgstr ""
+"Masz antyklątwę. (Nie możesz być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
+
+#: ../../WAR.rst:101
+msgid "-2: Create a 0/3 white Wall creature token with defender."
+msgstr "-2: Stwórz żeton białego stwora Ściana 0/3 z obronnością."
+
+#: ../../WAR.rst:106
+msgid ""
+":mtgtip:`Teyo's Lightshield<https://img.scryfall.com/cards/border_crop/front/"
+"d/f/dfffe235-98b1-43db-9461-1b2da5f0690e.jpg?1554224364|https://scryfall.com/"
+"card/war/33/teyos-lightshield?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:105
+msgid ""
+"When Teyo's Lightshield enters the battlefield, put a +1/+1 counter on "
+"target creature you control."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
+
+#: ../../WAR.rst:114
+msgid ""
+":mtgtip:`Tomik, Distinguished Advokist<https://img.scryfall.com/cards/"
+"border_crop/front/f/3/f346387c-2f13-472b-b5b1-968b490eb38f.jpg?1554463820|"
+"https://scryfall.com/card/war/34/tomik-distinguished-advokist?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:111
+msgid ""
+"Lands on the battlefield and land cards in graveyards can't be the targets "
+"of spells or abilities your opponents control."
+msgstr ""
+"Lądy na polu walki i karty lądów w cmentarzach nie mogą być celami czarów "
+"lub zdolności pod władaniem twoich przeciwników."
+
+#: ../../WAR.rst:113
+msgid "Your opponents can't play land cards from graveyards."
+msgstr "Twoi przeciwnicy nie mogą grać kart lądów z cmentarzy."
+
+#: ../../WAR.rst:120
+msgid ""
+":mtgtip:`Topple the Statue<https://img.scryfall.com/cards/border_crop/"
+"front/2/8/2829fa40-92e4-4017-aacd-9d9feae04aa2.jpg?1554895744|https://"
+"scryfall.com/card/war/35/topple-the-statue?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:117
+msgid "Tap target permanent. If it's an artifact, destroy it."
+msgstr ""
+
+#: ../../WAR.rst:126
+msgid ""
+":mtgtip:`The Wanderer<https://img.scryfall.com/cards/border_crop/front/d/0/"
+"d0f0e463-9eed-4348-af7c-fde5f0d8188c.jpg?1554224373|https://scryfall.com/"
+"card/war/37/the-wanderer?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:123
+msgid ""
+"Prevent all noncombat damage that would be dealt to you and other permanents "
+"you control."
+msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane tobie i "
+"innym permanentom pod twoim władaniem."
+
+#: ../../WAR.rst:125
+msgid "-2: Exile target creature with power 4 or greater."
+msgstr "-2: Wygnaj wskazanego stwora o sile 4 lub większej."
+
+#: ../../WAR.rst:130
+msgid ""
+":mtgtip:`Wanderer's Strike<https://img.scryfall.com/cards/border_crop/"
+"front/8/5/85e1d63e-9692-4988-bda2-7c2c9b42217b.jpg?1554224413|https://"
+"scryfall.com/card/war/38/wanderers-strike?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:129
+msgid ""
+"Exile target creature, then proliferate. (Choose any number of permanents "
+"and/or players, then give each another counter of each kind already there.)"
+msgstr ""
+"Wygnaj wskazanego stwora, następnie rozpleń. (Wybierz dowolną liczbę "
+"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"każdego z już obecnych tam rodzajów.)"
+
+#: ../../WAR.rst:136
+msgid ""
+":mtgtip:`War Screecher<https://img.scryfall.com/cards/border_crop/front/d/2/"
+"d2ff7868-eeb9-4292-a2f4-cac18f9ba270.jpg?1554402864|https://scryfall.com/"
+"card/war/39/war-screecher?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:135
+msgid ""
+"|mana_5|\\ |mana_w|, |tap|: Other creatures you control get +1/+1 until end "
+"of turn."
 msgstr ""
 "|mana_5|\\ |mana_w|, |tap|: Inne stwory pod twoim władaniem dostają +1/+1 do "
 "końca tury."
 
-#: ../../WAR.rst:114
-msgid ":mtgtip:`Augur of Bolas<https://img.scryfall.com/cards/border_crop/front/d/1/d19fbfe6-69bb-452a-be3c-b9c625e23193.jpg?1554290607|https://scryfall.com/card/war/41/augur-of-bolas?utm_source=api>`"
+#: ../../WAR.rst:140
+msgid ""
+":mtgtip:`Augur of Bolas<https://img.scryfall.com/cards/border_crop/front/d/1/"
+"d19fbfe6-69bb-452a-be3c-b9c625e23193.jpg?1554290607|https://scryfall.com/"
+"card/war/41/augur-of-bolas?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:113
-msgid "When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+#: ../../WAR.rst:139
+msgid ""
+"When Augur of Bolas enters the battlefield, look at the top three cards of "
+"your library. You may reveal an instant or sorcery card from among them and "
+"put it into your hand. Put the rest on the bottom of your library in any "
+"order."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, spójrz na trzy wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę sztuczki lub obrzędu i "
 "umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
 "dowolnej kolejności."
 
-#: ../../WAR.rst:120
-msgid ":mtgtip:`Crush Dissent<https://img.scryfall.com/cards/border_crop/front/9/4/94c70f23-0ca9-425e-a53a-6c09921c0075.jpg?1554224442|https://scryfall.com/card/war/47/crush-dissent?utm_source=api>`"
+#: ../../WAR.rst:144
+msgid ""
+":mtgtip:`Bond of Insight<https://img.scryfall.com/cards/border_crop/"
+"front/6/4/648629af-e911-49e1-b564-c98f339b84a1.jpg?1555102502|https://"
+"scryfall.com/card/war/43/bond-of-insight?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:117
+#: ../../WAR.rst:143
+msgid ""
+"Each player puts the top four cards of their library into their graveyard. "
+"Return up to two instant and/or sorcery cards from your graveyard to your "
+"hand. Exile Bond of Insight."
+msgstr ""
+
+#: ../../WAR.rst:150
+msgid ""
+":mtgtip:`Contentious Plan<https://img.scryfall.com/cards/border_crop/front/8/"
+"e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.jpg?1555102558|https://scryfall.com/"
+"card/war/46/contentious-plan?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:147 ../../WAR.rst:675
+msgid ""
+"Proliferate. (Choose any number of permanents and/or players, then give each "
+"another counter of each kind already there.)"
+msgstr ""
+"Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj "
+"każdemu z nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
+
+#: ../../WAR.rst:156
+msgid ""
+":mtgtip:`Crush Dissent<https://img.scryfall.com/cards/border_crop/"
+"front/9/4/94c70f23-0ca9-425e-a53a-6c09921c0075.jpg?1554224442|https://"
+"scryfall.com/card/war/47/crush-dissent?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:153
 msgid "Counter target spell unless its controller pays |mana_2|."
 msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_2|."
 
-#: ../../WAR.rst:119
-msgid "Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:155
+msgid ""
+"Amass 2. (Put two +1/+1 counters on an Army you control. If you don't "
+"control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli "
 "żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:124
-msgid ":mtgtip:`Erratic Visionary<https://img.scryfall.com/cards/border_crop/front/0/3/03188bc3-0ef1-40cd-9c3c-4bb4d806fb92.jpg?1554224477|https://scryfall.com/card/war/48/erratic-visionary?utm_source=api>`"
+#: ../../WAR.rst:160
+msgid ""
+":mtgtip:`Erratic Visionary<https://img.scryfall.com/cards/border_crop/"
+"front/0/3/03188bc3-0ef1-40cd-9c3c-4bb4d806fb92.jpg?1554224477|https://"
+"scryfall.com/card/war/48/erratic-visionary?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:123
+#: ../../WAR.rst:159
 msgid "|mana_1|\\ |mana_u|, |tap|: Draw a card, then discard a card."
 msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
-#: ../../WAR.rst:130
-msgid ":mtgtip:`Eternal Skylord<https://img.scryfall.com/cards/border_crop/front/f/5/f5aacfc9-1d45-4250-9abc-698d8941699f.jpg?1554725076|https://scryfall.com/card/war/49/eternal-skylord?utm_source=api>`"
+#: ../../WAR.rst:166
+msgid ""
+":mtgtip:`Eternal Skylord<https://img.scryfall.com/cards/border_crop/front/"
+"f/5/f5aacfc9-1d45-4250-9abc-698d8941699f.jpg?1554868625|https://scryfall.com/"
+"card/war/49/eternal-skylord?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:127
-msgid "When Eternal Skylord enters the batttlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:163
+#, fuzzy
+msgid ""
+"When Eternal Skylord enters the battlefield, amass 2. (Put two +1/+1 "
+"counters on an Army you control. If you don't control one, create a 0/0 "
+"black Zombie Army creature token first.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/+"
-"1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/"
+"+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
 "żeton czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:129
+#: ../../WAR.rst:165
 msgid "Zombie tokens you control have flying."
 msgstr "Żetony Zombich  pod twoim władaniem mają latanie."
 
-#: ../../WAR.rst:136
-msgid ":mtgtip:`Fblthp, the Lost<https://img.scryfall.com/cards/border_crop/front/5/2/52558748-6893-4c72-a9e2-e87d31796b59.jpg?1554222856|https://scryfall.com/card/war/50/fblthp-the-lost?utm_source=api>`"
+#: ../../WAR.rst:172
+msgid ""
+":mtgtip:`Fblthp, the Lost<https://img.scryfall.com/cards/border_crop/"
+"front/5/2/52558748-6893-4c72-a9e2-e87d31796b59.jpg?1554222856|https://"
+"scryfall.com/card/war/50/fblthp-the-lost?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:133
-msgid "When Fblthp, the Lost enters the battlefield, draw a card. If it entered from your library or was cast from your library, draw two cards instead."
+#: ../../WAR.rst:169
+msgid ""
+"When Fblthp, the Lost enters the battlefield, draw a card. If it entered "
+"from your library or was cast from your library, draw two cards instead."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, dobierz kartę. Jeśli wszedł z twojej "
 "biblioteki albo został rzucony z twojej biblioteki, zamiast tego dobierz "
 "dwie karty."
 
-#: ../../WAR.rst:135
-msgid "When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library."
+#: ../../WAR.rst:171
+msgid ""
+"When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's "
+"library."
 msgstr ""
 "Kiedy ten stwór zostanie wskazany przez czar, wtasuj go do talii jego "
 "właściciela."
 
-#: ../../WAR.rst:140
-msgid ":mtgtip:`Flux Channeler<https://img.scryfall.com/cards/border_crop/front/c/6/c6202e82-e159-482f-9224-292cb533171c.jpg?1554224434|https://scryfall.com/card/war/52/flux-channeler?utm_source=api>`"
+#: ../../WAR.rst:176
+msgid ""
+":mtgtip:`Flux Channeler<https://img.scryfall.com/cards/border_crop/front/c/6/"
+"c6202e82-e159-482f-9224-292cb533171c.jpg?1554224434|https://scryfall.com/"
+"card/war/52/flux-channeler?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:139
-msgid "Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+#: ../../WAR.rst:175
+msgid ""
+"Whenever you cast a noncreature spell, proliferate. (Choose any number of "
+"permanents and/or players, then give each another counter of each kind "
+"already there.)"
 msgstr ""
 "Ilekroć rzucisz czar nie będący stworem, rozpleń. (Wybierz dowolną liczbę "
 "permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
-#: ../../WAR.rst:148
-msgid ":mtgtip:`Jace, Wielder of Mysteries<https://img.scryfall.com/cards/border_crop/front/6/a/6adb7d73-4482-4930-8497-cffd169b57e2.jpg?1554224438|https://scryfall.com/card/war/54/jace-wielder-of-mysteries?utm_source=api>`"
+#: ../../WAR.rst:184
+msgid ""
+":mtgtip:`God-Eternal Kefnet<https://img.scryfall.com/cards/border_crop/"
+"front/5/e/5e14060f-9167-4e28-a053-77689e066e30.jpg?1555024407|https://"
+"scryfall.com/card/war/53/god-eternal-kefnet?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:143
-msgid "If you would draw a card while your library has no cards in it, you win the game instead."
+#: ../../WAR.rst:181
+msgid ""
+"You may reveal the first card you draw each turn as you draw it. Whenever "
+"you reveal an instant or sorcery card this way, copy that card and you may "
+"cast the copy. That copy costs |mana_2| less to cast."
+msgstr ""
+
+#: ../../WAR.rst:183
+msgid ""
+"When God-Eternal Kefnet dies or is put into exile from the battlefield, you "
+"may put it into its owner's library third from the top."
+msgstr ""
+
+#: ../../WAR.rst:192
+msgid ""
+":mtgtip:`Jace, Wielder of Mysteries<https://img.scryfall.com/cards/"
+"border_crop/front/6/a/6adb7d73-4482-4930-8497-cffd169b57e2.jpg?1554224438|"
+"https://scryfall.com/card/war/54/jace-wielder-of-mysteries?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:187
+msgid ""
+"If you would draw a card while your library has no cards in it, you win the "
+"game instead."
 msgstr ""
 "Jeśli miałbyś dobrać kartę gdy twoja biblioteka nie zawiera kart, zamiast "
 "tego wygrywasz grę."
 
-#: ../../WAR.rst:145
-msgid "+1: Target player puts the top two cards of their library into their graveyard. Draw a card."
+#: ../../WAR.rst:189
+msgid ""
+"+1: Target player puts the top two cards of their library into their "
+"graveyard. Draw a card."
 msgstr ""
 "+1: Wskazany gracz umieszcza dwie wierzchnie karty swojej biblioteki w swoim "
 "cmentarzu. Dobierz kartę."
 
-#: ../../WAR.rst:147
-msgid "-8: Draw seven cards. Then if your library has no cards in it, you win the game."
+#: ../../WAR.rst:191
+msgid ""
+"-8: Draw seven cards. Then if your library has no cards in it, you win the "
+"game."
 msgstr ""
 "-8: Dobierz siedem kart. Następnie jeśli twoja biblioteka nie zawiera kart, "
 "wygrywasz grę."
 
-#: ../../WAR.rst:154
-msgid ":mtgtip:`Kasmina, Enigmatic Mentor<https://img.scryfall.com/cards/border_crop/front/c/7/c77d9454-a78c-4063-ad66-46b2f5a030aa.jpg?1554743905|https://scryfall.com/card/war/56/kasmina-enigmatic-mentor?utm_source=api>`"
+#: ../../WAR.rst:196
+msgid ""
+":mtgtip:`Jace's Triumph<https://img.scryfall.com/cards/border_crop/"
+"front/4/9/4924f177-5ee2-4d3f-9603-4b9aef4dac09.jpg?1555065864|https://"
+"scryfall.com/card/war/55/jaces-triumph?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:151
-msgid "Spells your opponents cast that target a creature or planeswalker you control cost |mana_2| more to cast."
+#: ../../WAR.rst:195
+msgid ""
+"Draw two cards. If you control a Jace planeswalker, draw three cards instead."
+msgstr ""
+
+#: ../../WAR.rst:202
+msgid ""
+":mtgtip:`Kasmina, Enigmatic Mentor<https://img.scryfall.com/cards/"
+"border_crop/front/c/7/c77d9454-a78c-4063-ad66-46b2f5a030aa.jpg?1554814668|"
+"https://scryfall.com/card/war/56/kasmina-enigmatic-mentor?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:199
+msgid ""
+"Spells your opponents cast that target a creature or planeswalker you "
+"control cost |mana_2| more to cast."
 msgstr ""
 "Rzucanie czarów wskazujących stwora lub wędrowca pod twoim władaniem "
 "kosztuje twoich przeciwników o |mana_2| więcej."
 
-#: ../../WAR.rst:153
-msgid "-2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card."
+#: ../../WAR.rst:201
+msgid ""
+"-2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a "
+"card."
 msgstr ""
 "-2: Stwórz żeton niebieskiego stwora Czarodziej 2/2. Dobierz kartę, "
 "następnie odrzuć kartę."
 
-#: ../../WAR.rst:160
-msgid ":mtgtip:`Kasmina's Transmutation<https://img.scryfall.com/cards/border_crop/front/a/9/a9771412-695a-4e89-b146-0e3a7336d319.jpg?1554744126|https://scryfall.com/card/war/57/kasminas-transmutation?utm_source=api>`"
+#: ../../WAR.rst:208
+msgid ""
+":mtgtip:`Kasmina's Transmutation<https://img.scryfall.com/cards/border_crop/"
+"front/a/9/a9771412-695a-4e89-b146-0e3a7336d319.jpg?1554814664|https://"
+"scryfall.com/card/war/57/kasminas-transmutation?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:157
+#: ../../WAR.rst:205
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
-#: ../../WAR.rst:159
-msgid "Enchanted creature loses all abilities and has base power and toughness 1/1."
+#: ../../WAR.rst:207
+msgid ""
+"Enchanted creature loses all abilities and has base power and toughness 1/1."
 msgstr ""
-"Zauroczony stwór traci wszystkie zdolności i ma bazową siłę i wytrzymałość 1/"
-"1."
+"Zauroczony stwór traci wszystkie zdolności i ma bazową siłę i wytrzymałość "
+"1/1."
 
-#: ../../WAR.rst:164
-msgid ":mtgtip:`Kiora's Dambreaker<https://img.scryfall.com/cards/border_crop/front/a/c/acd61fb0-a82b-4f46-8043-c6b89764720b.jpg?1554224478|https://scryfall.com/card/war/58/kioras-dambreaker?utm_source=api>`"
+#: ../../WAR.rst:212
+msgid ""
+":mtgtip:`Kiora's Dambreaker<https://img.scryfall.com/cards/border_crop/front/"
+"a/c/acd61fb0-a82b-4f46-8043-c6b89764720b.jpg?1554224478|https://scryfall.com/"
+"card/war/58/kioras-dambreaker?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:163
-msgid "When Kiora's Dambreaker enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each a counter of each kind already there.)"
+#: ../../WAR.rst:211
+msgid ""
+"When Kiora's Dambreaker enters the battlefield, proliferate. (Choose any "
+"number of permanents and/or players, then give each a counter of each kind "
+"already there.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, rozpleń. (Wybierz dowolną liczbę "
 "permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
-#: ../../WAR.rst:170
-msgid ":mtgtip:`Lazotep Plating<https://img.scryfall.com/cards/border_crop/front/f/0/f03b5405-6016-405b-a504-a454731b9276.jpg?1554296992|https://scryfall.com/card/war/59/lazotep-plating?utm_source=api>`"
+#: ../../WAR.rst:218
+msgid ""
+":mtgtip:`Lazotep Plating<https://img.scryfall.com/cards/border_crop/front/"
+"f/0/f03b5405-6016-405b-a504-a454731b9276.jpg?1554296992|https://scryfall.com/"
+"card/war/59/lazotep-plating?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:167
-msgid "Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:215 ../../WAR.rst:385
+msgid ""
+"Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control "
+"one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim władaniem. Jeśli żadną "
 "nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:169
-msgid "You and permanents you control gain hexproof until end of turn. (You and they can't be the targets of spells or abilities your opponents control.)"
+#: ../../WAR.rst:217
+msgid ""
+"You and permanents you control gain hexproof until end of turn. (You and "
+"they can't be the targets of spells or abilities your opponents control.)"
 msgstr ""
 "Ty i permanenty pod twoim władaniem zyskują antyklątwę do końca tury. (Ty i "
 "one nie możecie być wskazywane przez czary i zdolności pod władaniem twoich "
 "przeciwników.)"
 
-#: ../../WAR.rst:172
-msgid ":mtgtip:`Naga Eternal<https://img.scryfall.com/cards/border_crop/front/0/f/0f244233-f2e8-48f8-9106-e7cd186efd51.jpg?1554224522|https://scryfall.com/card/war/60/naga-eternal?utm_source=api>`"
+#: ../../WAR.rst:220
+msgid ""
+":mtgtip:`Naga Eternal<https://img.scryfall.com/cards/border_crop/front/0/"
+"f/0f244233-f2e8-48f8-9106-e7cd186efd51.jpg?1554224522|https://scryfall.com/"
+"card/war/60/naga-eternal?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:180
-msgid ":mtgtip:`No Escape<https://img.scryfall.com/cards/border_crop/front/b/c/bc9888a1-6f35-4802-b8fb-902017736d4a.jpg?1554224514|https://scryfall.com/card/war/63/no-escape?utm_source=api>`"
+#: ../../WAR.rst:228
+msgid ""
+":mtgtip:`No Escape<https://img.scryfall.com/cards/border_crop/front/b/c/"
+"bc9888a1-6f35-4802-b8fb-902017736d4a.jpg?1554224514|https://scryfall.com/"
+"card/war/63/no-escape?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:177
-msgid "Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+#: ../../WAR.rst:225
+msgid ""
+"Counter target creature or planeswalker spell. If that spell is countered "
+"this way, exile it instead of putting it into its owner's graveyard."
 msgstr ""
 "Skontruj wskazany czar stwora lub wędrowca. Jeśli ów czar został skontrowany "
 "w ten sposób, wygnaj go zamiast umieszczać go w cmentarzu jego właściciela."
 
-#: ../../WAR.rst:179
+#: ../../WAR.rst:227
 msgid "Scry 1."
 msgstr "Wróż 1."
 
-#: ../../WAR.rst:184
-msgid ":mtgtip:`Relentless Advance<https://img.scryfall.com/cards/border_crop/front/4/2/4258e242-91c6-4b30-86ec-7759705aa97c.jpg?1554251721|https://scryfall.com/card/war/64/relentless-advance?utm_source=api>`"
+#: ../../WAR.rst:232
+msgid ""
+":mtgtip:`Relentless Advance<https://img.scryfall.com/cards/border_crop/"
+"front/4/2/4258e242-91c6-4b30-86ec-7759705aa97c.jpg?1554251721|https://"
+"scryfall.com/card/war/64/relentless-advance?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:183
-msgid "Amass 3. (Put three +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:231
+msgid ""
+"Amass 3. (Put three +1/+1 counters on an Army you control. If you don't "
+"control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 3. (Umieść trzy znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli "
 "żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:190
-msgid ":mtgtip:`Rescuer Sphinx<https://img.scryfall.com/cards/border_crop/front/0/0/00ba9fa2-bfd2-4dc7-b96d-d22a8886a6ae.jpg?1554427079|https://scryfall.com/card/war/65/rescuer-sphinx?utm_source=api>`"
+#: ../../WAR.rst:238
+msgid ""
+":mtgtip:`Rescuer Sphinx<https://img.scryfall.com/cards/border_crop/"
+"front/0/0/00ba9fa2-bfd2-4dc7-b96d-d22a8886a6ae.jpg?1554427079|https://"
+"scryfall.com/card/war/65/rescuer-sphinx?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:189
-msgid "As Rescuer Sphinx enters the battlefield, you may return a nonland permanent you control to its owner's hand. If you do, Rescuer Sphinx enters the battlefield with a +1/+1 counter on it."
+#: ../../WAR.rst:237
+msgid ""
+"As Rescuer Sphinx enters the battlefield, you may return a nonland permanent "
+"you control to its owner's hand. If you do, Rescuer Sphinx enters the "
+"battlefield with a +1/+1 counter on it."
 msgstr ""
 "Umieszczając tego stwora na polu walki możesz przywrócić wskazany nielądowy "
 "permanent pod twoim władaniem do ręki właściciela. Jeśli to zrobisz, ten "
 "stwór wchodzi na pole walki z dodatkowym znacznikiem +1/+1."
 
-#: ../../WAR.rst:194
-msgid ":mtgtip:`Spellkeeper Weird<https://img.scryfall.com/cards/border_crop/front/7/4/74e42dad-5958-443f-a196-12b3f3e44213.jpg?1554374896|https://scryfall.com/card/war/69/spellkeeper-weird?utm_source=api>`"
+#: ../../WAR.rst:244
+msgid ""
+":mtgtip:`Silent Submersible<https://img.scryfall.com/cards/border_crop/front/"
+"a/e/ae2f3dee-1768-4562-9333-a50b9ee7570f.jpg?1555137159|https://scryfall.com/"
+"card/war/66/silent-submersible?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:193
-msgid "|mana_2|, |tap|, Sacrifice Spellkeeper Weird: Return target instant or sorcery card from your graveyard to your hand."
+#: ../../WAR.rst:241
+#, fuzzy
+msgid ""
+"Whenever Silent Submersible deals combat damage to a player or planeswalker, "
+"draw a card."
+msgstr ""
+"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, umieść na "
+"niniejszym stworze znacznik +1/+1."
+
+#: ../../WAR.rst:243
+#, fuzzy
+msgid ""
+"Crew 2 (Tap any number of creatures you control with total power 2 or more: "
+"This Vehicle becomes an artifact creature until end of turn.)"
+msgstr ""
+"Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+
+#: ../../WAR.rst:248
+msgid ""
+":mtgtip:`Spark Double<https://img.scryfall.com/cards/border_crop/front/b/b/"
+"bb8a103c-b776-4501-9441-a45b90391045.jpg?1554986030|https://scryfall.com/"
+"card/war/68/spark-double?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:247
+msgid ""
+"You may have Spark Double enter the battlefield as a copy of a creature or "
+"planeswalker you control, except it enters with an additional +1/+1 counter "
+"on it if it's a creature, it enters with an additional loyalty counter on it "
+"if it's a planeswalker, and it isn't legendary if that permanent is "
+"legendary."
+msgstr ""
+
+#: ../../WAR.rst:252
+msgid ""
+":mtgtip:`Spellkeeper Weird<https://img.scryfall.com/cards/border_crop/"
+"front/7/4/74e42dad-5958-443f-a196-12b3f3e44213.jpg?1554374896|https://"
+"scryfall.com/card/war/69/spellkeeper-weird?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:251
+msgid ""
+"|mana_2|, |tap|, Sacrifice Spellkeeper Weird: Return target instant or "
+"sorcery card from your graveyard to your hand."
 msgstr ""
 "|mana_2|, |tap|, poświęć tego stwora: Przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
-#: ../../WAR.rst:198
-msgid ":mtgtip:`Stealth Mission<https://img.scryfall.com/cards/border_crop/front/7/d/7ddfd4f5-7fe1-4a22-9a85-bd9b75b16380.jpg?1554439848|https://scryfall.com/card/war/70/stealth-mission?utm_source=api>`"
+#: ../../WAR.rst:256
+msgid ""
+":mtgtip:`Stealth Mission<https://img.scryfall.com/cards/border_crop/front/7/"
+"d/7ddfd4f5-7fe1-4a22-9a85-bd9b75b16380.jpg?1554439848|https://scryfall.com/"
+"card/war/70/stealth-mission?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:197
-msgid "Put two +1/+1 counters on target creature you control. That creature can't be blocked this turn."
+#: ../../WAR.rst:255
+msgid ""
+"Put two +1/+1 counters on target creature you control. That creature can't "
+"be blocked this turn."
 msgstr ""
 "Umieść dwa znaczniki +1/+1 na wskazanym stworze pod twoim władaniem. Ów "
 "stwór nie może być blokowany w tej turze."
 
-#: ../../WAR.rst:202
-msgid ":mtgtip:`Teferi's Time Twist<https://img.scryfall.com/cards/border_crop/front/c/8/c878bdc0-d697-4a2f-bba5-758b27f4247a.jpg?1554158480|https://scryfall.com/card/war/72/teferis-time-twist?utm_source=api>`"
+#: ../../WAR.rst:260
+msgid ""
+":mtgtip:`Tamiyo's Epiphany<https://img.scryfall.com/cards/border_crop/front/"
+"c/e/ce338cf3-46dc-4c87-8df5-af27097c7dd4.jpg?1554991969|https://scryfall.com/"
+"card/war/71/tamiyos-epiphany?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:201
-msgid "Exile target permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. If it enters the battlefield as a creature, it enters with an additional +1/+1 counter on it."
+#: ../../WAR.rst:259
+msgid "Scry 4, then draw two cards."
+msgstr ""
+
+#: ../../WAR.rst:264
+msgid ""
+":mtgtip:`Teferi's Time Twist<https://img.scryfall.com/cards/border_crop/"
+"front/c/8/c878bdc0-d697-4a2f-bba5-758b27f4247a.jpg?1554158480|https://"
+"scryfall.com/card/war/72/teferis-time-twist?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:263
+msgid ""
+"Exile target permanent you control. Return that card to the battlefield "
+"under its owner's control at the beginning of the next end step. If it "
+"enters the battlefield as a creature, it enters with an additional +1/+1 "
+"counter on it."
 msgstr ""
 "Wygnaj wskazany permanent pod twoim władaniem. Przywróć ową kartę na pole "
 "walki pod władaniem jej  właściciela na początku najbliższego kroku "
 "końcowego. Jeśli wejdzie na pole walki jako stwór, wchodzi z dodatkowym "
 "znacznikiem +1/+1."
 
-#: ../../WAR.rst:206
-msgid ":mtgtip:`Totally Lost<https://img.scryfall.com/cards/border_crop/front/a/d/adffef78-f776-42d3-ab40-3347c8e5c88b.jpg?1554236547|https://scryfall.com/card/war/74/totally-lost?utm_source=api>`"
+#: ../../WAR.rst:268
+msgid ""
+":mtgtip:`Totally Lost<https://img.scryfall.com/cards/border_crop/front/a/d/"
+"adffef78-f776-42d3-ab40-3347c8e5c88b.jpg?1554236547|https://scryfall.com/"
+"card/war/74/totally-lost?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:205
+#: ../../WAR.rst:267
 msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
 "Umieść wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
 
-#: ../../WAR.rst:214
-msgid ":mtgtip:`Aid the Fallen<https://img.scryfall.com/cards/border_crop/front/5/f/5f8bc010-f1af-42a2-9009-2039cf3d8f0a.jpg?1554488187|https://scryfall.com/card/war/76/aid-the-fallen?utm_source=api>`"
+#: ../../WAR.rst:276
+msgid ""
+":mtgtip:`Aid the Fallen<https://img.scryfall.com/cards/border_crop/front/5/"
+"f/5f8bc010-f1af-42a2-9009-2039cf3d8f0a.jpg?1554488187|https://scryfall.com/"
+"card/war/76/aid-the-fallen?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:209
+#: ../../WAR.rst:271
 msgid "Choose one or both—"
 msgstr "Wybierz jedno lub oba —"
 
-#: ../../WAR.rst:211
+#: ../../WAR.rst:273
 msgid "Return target creature card from your graveyard to your hand."
 msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
-#: ../../WAR.rst:213
+#: ../../WAR.rst:275
 msgid "Return target planeswalker card from your graveyard to your hand."
 msgstr "Przywróć wskazaną kartę wędrowca z twojego cmentarza do twojej reki."
 
-#: ../../WAR.rst:218
-msgid ":mtgtip:`Banehound<https://img.scryfall.com/cards/border_crop/front/b/9/b9e03567-c95a-40b8-a75a-971076093f57.jpg?1554477017|https://scryfall.com/card/war/77/banehound?utm_source=api>`"
+#: ../../WAR.rst:280
+msgid ""
+":mtgtip:`Banehound<https://img.scryfall.com/cards/border_crop/front/b/9/"
+"b9e03567-c95a-40b8-a75a-971076093f57.jpg?1554477017|https://scryfall.com/"
+"card/war/77/banehound?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:217
+#: ../../WAR.rst:279
 msgid "Lifelink, haste"
 msgstr "Więź życia, pośpiech"
 
-#: ../../WAR.rst:226
-msgid ":mtgtip:`Bolas's Citadel<https://img.scryfall.com/cards/border_crop/front/d/2/d2124603-d20e-40eb-97f0-a66323397ac2.jpg?1554039757|https://scryfall.com/card/war/79/bolass-citadel?utm_source=api>`"
+#: ../../WAR.rst:288
+msgid ""
+":mtgtip:`Bolas's Citadel<https://img.scryfall.com/cards/border_crop/front/"
+"d/2/d2124603-d20e-40eb-97f0-a66323397ac2.jpg?1554039757|https://scryfall.com/"
+"card/war/79/bolass-citadel?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:221
+#: ../../WAR.rst:283
 msgid "You may look at the top card of your library any time."
 msgstr ""
 "Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
-#: ../../WAR.rst:223
-msgid "You may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost."
+#: ../../WAR.rst:285
+msgid ""
+"You may play the top card of your library. If you cast a spell this way, pay "
+"life equal to its converted mana cost rather than pay its mana cost."
 msgstr ""
 "Możesz zagrywać wierzchnią kartę twojej biblioteki. Jeśli rzucisz w ten "
 "sposób czar, zapłać życie równe jego skróconemu kosztowi many zamiast płacić "
 "jego koszt many."
 
-#: ../../WAR.rst:225
+#: ../../WAR.rst:287
 msgid "|tap|, Sacrifice ten nonland permanents: Each opponent loses 10 life."
 msgstr ""
 "|tap|, poświęć dziesięć nielądowych permanentów: Każdy przeciwnik traci 10 "
 "żyć."
 
-#: ../../WAR.rst:232
-msgid ":mtgtip:`Davriel, Rogue Shadowmage<https://img.scryfall.com/cards/border_crop/front/5/b/5b1a44f0-1db8-406a-b7d9-f883f947f7bd.jpg?1554224696|https://scryfall.com/card/war/83/davriel-rogue-shadowmage?utm_source=api>`"
+#: ../../WAR.rst:292
+msgid ""
+":mtgtip:`Bond of Revival<https://img.scryfall.com/cards/border_crop/front/"
+"c/6/c6482fb9-f874-4e33-aa74-7a0da4c9760c.jpg?1555102629|https://scryfall.com/"
+"card/war/80/bond-of-revival?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:229
-msgid "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them."
+#: ../../WAR.rst:291
+#, fuzzy
+msgid ""
+"Return target creature card from your graveyard to the battlefield. It gains "
+"haste until your next turn."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+
+#: ../../WAR.rst:298
+msgid ""
+":mtgtip:`Davriel, Rogue Shadowmage<https://img.scryfall.com/cards/"
+"border_crop/front/5/b/5b1a44f0-1db8-406a-b7d9-f883f947f7bd.jpg?1554224696|"
+"https://scryfall.com/card/war/83/davriel-rogue-shadowmage?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:295
+msgid ""
+"At the beginning of each opponent's upkeep, if that player has one or fewer "
+"cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them."
 msgstr ""
 "Na początku kroku utrzymania każdego z przeciwników, jeśli ów gracz ma jedną "
 "lub mniej kart w ręce, ten wędrowiec zadaje mu 2 obrażenia."
 
-#: ../../WAR.rst:231
+#: ../../WAR.rst:297
 msgid "-1: Target player discards a card."
 msgstr "-1: Wskazany gracz odrzuca kartę."
 
-#: ../../WAR.rst:236
-msgid ":mtgtip:`Davriel's Shadowfugue<https://img.scryfall.com/cards/border_crop/front/0/9/09c8fe63-37a7-478d-b9ba-33a0f6519cf1.jpg?1554224700|https://scryfall.com/card/war/84/davriels-shadowfugue?utm_source=api>`"
+#: ../../WAR.rst:302
+msgid ""
+":mtgtip:`Davriel's Shadowfugue<https://img.scryfall.com/cards/border_crop/"
+"front/0/9/09c8fe63-37a7-478d-b9ba-33a0f6519cf1.jpg?1554224700|https://"
+"scryfall.com/card/war/84/davriels-shadowfugue?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:235
+#: ../../WAR.rst:301
 msgid "Target player discards two cards and loses 2 life."
 msgstr "Wskazany gracz odrzuca dwie karty i traci 2 życia."
 
-#: ../../WAR.rst:242
-msgid ":mtgtip:`Dreadhorde Invasion<https://img.scryfall.com/cards/border_crop/front/0/4/04c6e42d-991d-4e6b-a900-38480931f79e.jpg?1554224704|https://scryfall.com/card/war/86/dreadhorde-invasion?utm_source=api>`"
+#: ../../WAR.rst:308
+msgid ""
+":mtgtip:`Dreadhorde Invasion<https://img.scryfall.com/cards/border_crop/"
+"front/0/4/04c6e42d-991d-4e6b-a900-38480931f79e.jpg?1554224704|https://"
+"scryfall.com/card/war/86/dreadhorde-invasion?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:239
-msgid "At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:305
+msgid ""
+"At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 "
+"counter on an Army you control. If you don't control one, create a 0/0 black "
+"Zombie Army creature token first.)"
 msgstr ""
 "Na początku twojego kroku utrzymania, strać 1 życie i zgromadź 1. (Umieść "
 "znacznik +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz "
 "najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:241
-msgid "Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn."
+#: ../../WAR.rst:307
+msgid ""
+"Whenever a Zombie token you control with power 6 or greater attacks, it "
+"gains lifelink until end of turn."
 msgstr ""
 "Ilekroć atakuje żeton Zombi pod twoim władaniem o sile 6 lub większej, "
 "zyskuje on więź życia do końca tury."
 
-#: ../../WAR.rst:248
-msgid ":mtgtip:`Eternal Taskmaster<https://img.scryfall.com/cards/border_crop/front/7/7/7789188e-5caa-4500-b3e4-bb95f7657903.jpg?1554222951|https://scryfall.com/card/war/90/eternal-taskmaster?utm_source=api>`"
+#: ../../WAR.rst:314
+msgid ""
+":mtgtip:`Eternal Taskmaster<https://img.scryfall.com/cards/border_crop/"
+"front/7/7/7789188e-5caa-4500-b3e4-bb95f7657903.jpg?1554222951|https://"
+"scryfall.com/card/war/90/eternal-taskmaster?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:245
+#: ../../WAR.rst:311
 msgid "Eternal Taskmaster enters the battlefield tapped."
 msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
-#: ../../WAR.rst:247
-msgid "Whenever Eternal Taskmaster attacks, you may pay |mana_2|\\ |mana_b|. If you do, return target creature card from your graveyard to your hand."
+#: ../../WAR.rst:313
+msgid ""
+"Whenever Eternal Taskmaster attacks, you may pay |mana_2|\\ |mana_b|. If you "
+"do, return target creature card from your graveyard to your hand."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz zapłacić |mana_2|\\ |mana_b|. Jeśli tak "
 "zrobisz, przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
-#: ../../WAR.rst:252
-msgid ":mtgtip:`Herald of the Dreadhorde<https://img.scryfall.com/cards/border_crop/front/d/7/d7ae9cb7-a3af-4224-89a5-a72f4d09dacf.jpg?1554224712|https://scryfall.com/card/war/93/herald-of-the-dreadhorde?utm_source=api>`"
+#: ../../WAR.rst:322
+msgid ""
+":mtgtip:`God-Eternal Bontu<https://img.scryfall.com/cards/border_crop/"
+"front/3/7/3714a135-e2b9-43a7-a2a2-fa5a2e0ac61a.jpg?1554980629|https://"
+"scryfall.com/card/war/92/god-eternal-bontu?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:251
-msgid "When Herald of the Dreadhorde dies, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
-msgstr ""
-"Kiedy ten stwór umrze, zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod "
-"twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego "
-"stwora Armia Zombich 0/0.)"
-
-#: ../../WAR.rst:258
-msgid ":mtgtip:`Kaya's Ghostform<https://img.scryfall.com/cards/border_crop/front/9/8/98f3be88-24e2-433f-9138-f0cb59d09a0f.jpg?1554224903|https://scryfall.com/card/war/94/kayas-ghostform?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:255
-msgid "Enchant creature or planeswalker you control"
-msgstr "Zaurocz stwora lub wędrowca pod twoim władaniem"
-
-#: ../../WAR.rst:257
-msgid "When enchanted permanent dies or is put into exile, return that card to the battlefield under your control."
-msgstr ""
-"Kiedy zauroczony permanent umrze lub zostanie wygnany, przywróć ową kartę na "
-"pole walki pod twoim władaniem."
-
-#: ../../WAR.rst:260
-msgid ":mtgtip:`Lazotep Behemoth<https://img.scryfall.com/cards/border_crop/front/b/4/b4be6f22-e9e8-462a-956b-e1c78bbadacc.jpg?1554291025|https://scryfall.com/card/war/95/lazotep-behemoth?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:266
-msgid ":mtgtip:`Lazotep Reaver<https://img.scryfall.com/cards/border_crop/front/5/9/594bbe43-a8aa-42aa-bc49-cb4f3bc05cad.jpg?1554290980|https://scryfall.com/card/war/96/lazotep-reaver?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:265
-msgid "When Lazotep Reaver enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
-"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
-"czarnego stwora Armia Zombich 0/0.)"
-
-#: ../../WAR.rst:276
-msgid ":mtgtip:`Liliana, Dreadhorde General<https://img.scryfall.com/cards/border_crop/front/d/7/d75ebba8-34ca-47a0-bf13-8318ad73b343.jpg?1554224908|https://scryfall.com/card/war/97/liliana-dreadhorde-general?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:269
-msgid "Whenever a creature you control dies, draw a card."
-msgstr "Ilekroć umrze stwór pod twoim władaniem, dobierz kartę."
-
-#: ../../WAR.rst:271
-msgid "+1: Create a 2/2 black Zombie creature token."
-msgstr "+1: Stwórz żeton czarnego stwora Zombi 2/2."
-
-#: ../../WAR.rst:273
-msgid "-4: Each player sacrifices two creatures."
-msgstr "-4: Każdy gracz poświęca dwa stwory."
-
-#: ../../WAR.rst:275
-msgid "-9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest."
-msgstr ""
-"-9: Każdy przeciwnik wybiera pod swoim władaniem po jednym permanencie "
-"każdego typu i poświęca resztę."
-
-#: ../../WAR.rst:280
-msgid ":mtgtip:`Liliana's Triumph<https://img.scryfall.com/cards/border_crop/front/8/4/84803db8-fdb0-462b-92f6-33d591593d2d.jpg?1554117852|https://scryfall.com/card/war/98/lilianas-triumph?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:279
-msgid "Each opponent sacrifices a creature. If you control a Liliana planeswalker, each opponent also discards a card."
-msgstr ""
-"Każdy przeciwnik poświęca stwora. Jeśli władasz wędrowcem typu Liliana, "
-"każdy przeciwnik odrzuca także kartę."
-
-#: ../../WAR.rst:286
-msgid ":mtgtip:`Massacre Girl<https://img.scryfall.com/cards/border_crop/front/b/e/be8ec9e1-2c8e-496d-9111-4d453b75b578.jpg?1554463425|https://scryfall.com/card/war/99/massacre-girl?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:283
+#: ../../WAR.rst:317 ../../WAR.rst:357
 msgid "Menace"
 msgstr "Złowrogość"
 
-#: ../../WAR.rst:285
-msgid "When Massacre Girl enters the battlefield, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy inny stwór dostaje -1/-1 do "
-"końca tury. Ilekroć umrze stwór w tej turze, każdy stwór inny niż ten "
-"dostaje -1/-1 do końca tury."
-
-#: ../../WAR.rst:292
-msgid ":mtgtip:`Ob Nixilis, the Hate-Twisted<https://img.scryfall.com/cards/border_crop/front/1/4/14916e2d-73af-4747-a927-d2d4cb3e32db.jpg?1554224915|https://scryfall.com/card/war/100/ob-nixilis-the-hate-twisted?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:289
-msgid "Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player."
-msgstr ""
-"Ilekroć przeciwnik dobiera kartę, ten wędrowiec zadaje owemu graczowi 1 "
-"obrażenie."
-
-#: ../../WAR.rst:291
-msgid "-2: Destroy target creature. Its controller draws two cards."
-msgstr "-2: Zniszcz wskazanego stwora. Jego władca dobiera dwie karty."
-
-#: ../../WAR.rst:296
-msgid ":mtgtip:`Ob Nixilis's Cruelty<https://img.scryfall.com/cards/border_crop/front/9/4/94db72a8-57f7-4f17-9f09-cae90ef50304.jpg?1554224933|https://scryfall.com/card/war/101/ob-nixiliss-cruelty?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:295
-msgid "Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead."
-msgstr ""
-"Wskazany stwór dostaje -5/-5 do końca tury. Jeśli ów stwór miałby umrzeć w "
-"tej turze, zamiast tego wygnaj go."
-
-#: ../../WAR.rst:302
-msgid ":mtgtip:`Shriekdiver<https://img.scryfall.com/cards/border_crop/front/0/a/0a1c3148-7a6f-4963-af0b-18d9a156bf22.jpg?1554725483|https://scryfall.com/card/war/103/shriekdiver?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:301
-msgid "|mana_1|: Shriekdiver gains haste until end of turn."
-msgstr "|mana_1|: Ten stwór zyskuje pośpiech do końca tury."
-
-#: ../../WAR.rst:306
-msgid ":mtgtip:`Sorin's Thirst<https://img.scryfall.com/cards/border_crop/front/5/0/50eecfc2-452d-461c-a37c-8aa10183e5a0.jpg?1554408015|https://scryfall.com/card/war/104/sorins-thirst?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:305
-msgid "Sorin's Thirst deals 2 damage to target creature and you gain 2 life."
-msgstr ""
-"Ten czar zadaje 2 obrażenia wskazanemu stworowi, a ty zyskujesz 2 życia."
-
-#: ../../WAR.rst:310
-msgid ":mtgtip:`Vraska's Finisher<https://img.scryfall.com/cards/border_crop/front/f/8/f89fa379-7fae-4fbf-8e31-0ef3645353c5.jpg?1554224927|https://scryfall.com/card/war/112/vraskas-finisher?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:309
-msgid "When Vraska's Finisher enters the battlefield, destroy target creature or planeswalker an opponent controls that was dealt damage this turn."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz władanego przez przeciwnika "
-"wskazanego stwora lub wędrowca, który otrzymał obrażenia w tej turze."
-
-#: ../../WAR.rst:316
-msgid ":mtgtip:`Ahn-Crop Invader<https://img.scryfall.com/cards/border_crop/front/2/d/2dea2466-5c7f-40ce-b749-100ae89d2c90.jpg?1554225022|https://scryfall.com/card/war/113/ahn-crop-invader?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:313
-msgid "As long as it's your turn, Ahn-Crop Invader has first strike."
-msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
-
-#: ../../WAR.rst:315
-msgid "|mana_1|, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end of turn."
-msgstr "|mana_1|, poświęć innego stwora: Ten stwór dostaje +2/+0 do końca tury."
-
-#: ../../WAR.rst:322
-msgid ":mtgtip:`Blindblast<https://img.scryfall.com/cards/border_crop/front/1/d/1d49637b-2255-4f16-8f24-140145966bfa.jpg?1554726058|https://scryfall.com/card/war/114/blindblast?utm_source=api>`"
-msgstr ""
-
 #: ../../WAR.rst:319
-msgid "Blindblast deals 1 damage to target creature. That creature can't block this turn."
-msgstr ""
-"Ten czar zadaje wskazanemu stworowi 1 obrażenie. Ów stwór nie może blokować "
-"w tej turze."
-
-#: ../../WAR.rst:328
-msgid ":mtgtip:`Bolt Bend<https://img.scryfall.com/cards/border_crop/front/3/9/39b35408-3728-4e1b-9f58-b0775df914d6.jpg?1554748664|https://scryfall.com/card/war/115/bolt-bend?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:325
-msgid "This spell costs |mana_3| less to cast if you control a creature with power 4 or greater."
-msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli władasz stworem o sile 4 "
-"lub większej."
-
-#: ../../WAR.rst:327
-msgid "Change the target of target spell or ability with a single target."
-msgstr "Zmień cel wskazywany przez  wskazany czar lub zdolność o jednym celu."
-
-#: ../../WAR.rst:332
-msgid ":mtgtip:`Burning Prophet<https://img.scryfall.com/cards/border_crop/front/0/1/01c5b095-13c9-4673-bf0c-553de455e521.jpg?1554225026|https://scryfall.com/card/war/117/burning-prophet?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:331
-msgid "Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end of turn, then scry 1."
-msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, niniejszy stwór dostaje +1/+0 do "
-"końca tury, następnie wróż 1."
-
-#: ../../WAR.rst:336
-msgid ":mtgtip:`Cyclops Electromancer<https://img.scryfall.com/cards/border_crop/front/d/a/da0966a6-f378-4975-88ae-23b600d578bf.jpg?1554476756|https://scryfall.com/card/war/122/cyclops-electromancer?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:335
-msgid "When Cyclops Electromancer enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje X obrażeń wskazanemu stworowi "
-"pod władaniem przeciwnika, gdzie X jest liczbą kart sztuczek i obrzędów w "
-"twoim cmentarzu."
-
-#: ../../WAR.rst:340
-msgid ":mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/front/b/0/b00211dd-6dd7-40d9-80f3-f909f6d112db.jpg?1554725266|https://scryfall.com/card/war/123/demolish?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:339
-msgid "Destroy target artifact or land."
-msgstr "Zniszcz wskazany artefakt lub ląd."
-
-#: ../../WAR.rst:344
-msgid ":mtgtip:`Devouring Hellion<https://img.scryfall.com/cards/border_crop/front/8/8/88205574-bf2b-46e7-aac7-4b8ea217f94c.jpg?1554477064|https://scryfall.com/card/war/124/devouring-hellion?utm_source=api>`"
-msgstr ""
-
-#: ../../WAR.rst:343
-msgid "As Devouring Hellion enters the battlefield, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it."
+#, fuzzy
+msgid ""
+"When God-Eternal Bontu enters the battlefield, sacrifice any number of other "
+"permanents, then draw that many cards."
 msgstr ""
 "Umieszczając tego stwora na polu walki możesz poświęcić dowolną liczbę "
 "stworów i/lub wędrowców. Jeśli to zrobisz, wchodzi on na pole walki z "
 "dwukrotnością tej liczby znaczników +1/+1."
 
-#: ../../WAR.rst:350
-msgid ":mtgtip:`Dreadhorde Arcanist<https://img.scryfall.com/cards/border_crop/front/f/d/fd97b3cf-924e-4f77-bb82-0bf19592389f.jpg?1554290763|https://scryfall.com/card/war/125/dreadhorde-arcanist?utm_source=api>`"
+#: ../../WAR.rst:321
+msgid ""
+"When God-Eternal Bontu dies or is put into exile from the battlefield, you "
+"may put it into its owner's library third from the top."
 msgstr ""
 
+#: ../../WAR.rst:326
+msgid ""
+":mtgtip:`Herald of the Dreadhorde<https://img.scryfall.com/cards/border_crop/"
+"front/d/7/d7ae9cb7-a3af-4224-89a5-a72f4d09dacf.jpg?1554224712|https://"
+"scryfall.com/card/war/93/herald-of-the-dreadhorde?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:325
+msgid ""
+"When Herald of the Dreadhorde dies, amass 2. (Put two +1/+1 counters on an "
+"Army you control. If you don't control one, create a 0/0 black Zombie Army "
+"creature token first.)"
+msgstr ""
+"Kiedy ten stwór umrze, zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod "
+"twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego "
+"stwora Armia Zombich 0/0.)"
+
+#: ../../WAR.rst:332
+msgid ""
+":mtgtip:`Kaya's Ghostform<https://img.scryfall.com/cards/border_crop/"
+"front/9/8/98f3be88-24e2-433f-9138-f0cb59d09a0f.jpg?1554224903|https://"
+"scryfall.com/card/war/94/kayas-ghostform?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:329
+msgid "Enchant creature or planeswalker you control"
+msgstr "Zaurocz stwora lub wędrowca pod twoim władaniem"
+
+#: ../../WAR.rst:331
+msgid ""
+"When enchanted permanent dies or is put into exile, return that card to the "
+"battlefield under your control."
+msgstr ""
+"Kiedy zauroczony permanent umrze lub zostanie wygnany, przywróć ową kartę na "
+"pole walki pod twoim władaniem."
+
+#: ../../WAR.rst:334
+msgid ""
+":mtgtip:`Lazotep Behemoth<https://img.scryfall.com/cards/border_crop/front/"
+"b/4/b4be6f22-e9e8-462a-956b-e1c78bbadacc.jpg?1554291025|https://scryfall.com/"
+"card/war/95/lazotep-behemoth?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:340
+msgid ""
+":mtgtip:`Lazotep Reaver<https://img.scryfall.com/cards/border_crop/"
+"front/5/9/594bbe43-a8aa-42aa-bc49-cb4f3bc05cad.jpg?1554290980|https://"
+"scryfall.com/card/war/96/lazotep-reaver?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:339
+msgid ""
+"When Lazotep Reaver enters the battlefield, amass 1. (Put a +1/+1 counter on "
+"an Army you control. If you don't control one, create a 0/0 black Zombie "
+"Army creature token first.)"
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
+"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
+"czarnego stwora Armia Zombich 0/0.)"
+
+#: ../../WAR.rst:350
+msgid ""
+":mtgtip:`Liliana, Dreadhorde General<https://img.scryfall.com/cards/"
+"border_crop/front/d/7/d75ebba8-34ca-47a0-bf13-8318ad73b343.jpg?1554224908|"
+"https://scryfall.com/card/war/97/liliana-dreadhorde-general?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:343
+msgid "Whenever a creature you control dies, draw a card."
+msgstr "Ilekroć umrze stwór pod twoim władaniem, dobierz kartę."
+
+#: ../../WAR.rst:345
+msgid "+1: Create a 2/2 black Zombie creature token."
+msgstr "+1: Stwórz żeton czarnego stwora Zombi 2/2."
+
 #: ../../WAR.rst:347
+msgid "-4: Each player sacrifices two creatures."
+msgstr "-4: Każdy gracz poświęca dwa stwory."
+
+#: ../../WAR.rst:349
+msgid ""
+"-9: Each opponent chooses a permanent they control of each permanent type "
+"and sacrifices the rest."
+msgstr ""
+"-9: Każdy przeciwnik wybiera pod swoim władaniem po jednym permanencie "
+"każdego typu i poświęca resztę."
+
+#: ../../WAR.rst:354
+msgid ""
+":mtgtip:`Liliana's Triumph<https://img.scryfall.com/cards/border_crop/"
+"front/8/4/84803db8-fdb0-462b-92f6-33d591593d2d.jpg?1554117852|https://"
+"scryfall.com/card/war/98/lilianas-triumph?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:353
+msgid ""
+"Each opponent sacrifices a creature. If you control a Liliana planeswalker, "
+"each opponent also discards a card."
+msgstr ""
+"Każdy przeciwnik poświęca stwora. Jeśli władasz wędrowcem typu Liliana, "
+"każdy przeciwnik odrzuca także kartę."
+
+#: ../../WAR.rst:360
+msgid ""
+":mtgtip:`Massacre Girl<https://img.scryfall.com/cards/border_crop/front/b/e/"
+"be8ec9e1-2c8e-496d-9111-4d453b75b578.jpg?1554463425|https://scryfall.com/"
+"card/war/99/massacre-girl?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:359
+msgid ""
+"When Massacre Girl enters the battlefield, each other creature gets -1/-1 "
+"until end of turn. Whenever a creature dies this turn, each creature other "
+"than Massacre Girl gets -1/-1 until end of turn."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy inny stwór dostaje -1/-1 do "
+"końca tury. Ilekroć umrze stwór w tej turze, każdy stwór inny niż ten "
+"dostaje -1/-1 do końca tury."
+
+#: ../../WAR.rst:366
+msgid ""
+":mtgtip:`Ob Nixilis, the Hate-Twisted<https://img.scryfall.com/cards/"
+"border_crop/front/1/4/14916e2d-73af-4747-a927-d2d4cb3e32db.jpg?1554224915|"
+"https://scryfall.com/card/war/100/ob-nixilis-the-hate-twisted?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:363
+msgid ""
+"Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 "
+"damage to that player."
+msgstr ""
+"Ilekroć przeciwnik dobiera kartę, ten wędrowiec zadaje owemu graczowi 1 "
+"obrażenie."
+
+#: ../../WAR.rst:365
+msgid "-2: Destroy target creature. Its controller draws two cards."
+msgstr "-2: Zniszcz wskazanego stwora. Jego władca dobiera dwie karty."
+
+#: ../../WAR.rst:370
+msgid ""
+":mtgtip:`Ob Nixilis's Cruelty<https://img.scryfall.com/cards/border_crop/"
+"front/9/4/94db72a8-57f7-4f17-9f09-cae90ef50304.jpg?1554224933|https://"
+"scryfall.com/card/war/101/ob-nixiliss-cruelty?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:369
+msgid ""
+"Target creature gets -5/-5 until end of turn. If that creature would die "
+"this turn, exile it instead."
+msgstr ""
+"Wskazany stwór dostaje -5/-5 do końca tury. Jeśli ów stwór miałby umrzeć w "
+"tej turze, zamiast tego wygnaj go."
+
+#: ../../WAR.rst:376
+msgid ""
+":mtgtip:`Shriekdiver<https://img.scryfall.com/cards/border_crop/front/0/"
+"a/0a1c3148-7a6f-4963-af0b-18d9a156bf22.jpg?1554725483|https://scryfall.com/"
+"card/war/103/shriekdiver?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:375
+msgid "|mana_1|: Shriekdiver gains haste until end of turn."
+msgstr "|mana_1|: Ten stwór zyskuje pośpiech do końca tury."
+
+#: ../../WAR.rst:380
+msgid ""
+":mtgtip:`Sorin's Thirst<https://img.scryfall.com/cards/border_crop/"
+"front/5/0/50eecfc2-452d-461c-a37c-8aa10183e5a0.jpg?1554408015|https://"
+"scryfall.com/card/war/104/sorins-thirst?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:379
+msgid "Sorin's Thirst deals 2 damage to target creature and you gain 2 life."
+msgstr ""
+"Ten czar zadaje 2 obrażenia wskazanemu stworowi, a ty zyskujesz 2 życia."
+
+#: ../../WAR.rst:386
+msgid ""
+":mtgtip:`Toll of the Invasion<https://img.scryfall.com/cards/border_crop/"
+"front/4/4/4471c2a5-aa2c-47e2-8238-1eb366c8adc9.jpg?1555039608|https://"
+"scryfall.com/card/war/108/toll-of-the-invasion?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:383
+msgid ""
+"Target opponent reveals their hand. You choose a nonland card from it. That "
+"player discards that card."
+msgstr ""
+
+#: ../../WAR.rst:392
+msgid ""
+":mtgtip:`Vizier of the Scorpion<https://img.scryfall.com/cards/border_crop/"
+"front/2/4/2444c7dc-7aa1-4476-8660-19d26607306d.jpg?1554826375|https://"
+"scryfall.com/card/war/111/vizier-of-the-scorpion?utm_source=api>`"
+msgstr ""
+
 #: ../../WAR.rst:389
+#, fuzzy
+msgid ""
+"When Vizier of the Scorpion enters the battlefield, amass 1. (Put a +1/+1 "
+"counter on an Army you control. If you don't control one, create a 0/0 black "
+"Zombie Army creature token first.)"
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
+"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
+"czarnego stwora Armia Zombich 0/0.)"
+
+#: ../../WAR.rst:391
+#, fuzzy
+msgid "Zombie tokens you control have deathtouch."
+msgstr "Żetony Zombich  pod twoim władaniem mają latanie."
+
+#: ../../WAR.rst:396
+msgid ""
+":mtgtip:`Vraska's Finisher<https://img.scryfall.com/cards/border_crop/front/"
+"f/8/f89fa379-7fae-4fbf-8e31-0ef3645353c5.jpg?1554224927|https://scryfall.com/"
+"card/war/112/vraskas-finisher?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:395
+msgid ""
+"When Vraska's Finisher enters the battlefield, destroy target creature or "
+"planeswalker an opponent controls that was dealt damage this turn."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zniszcz władanego przez przeciwnika "
+"wskazanego stwora lub wędrowca, który otrzymał obrażenia w tej turze."
+
+#: ../../WAR.rst:402
+msgid ""
+":mtgtip:`Ahn-Crop Invader<https://img.scryfall.com/cards/border_crop/front/2/"
+"d/2dea2466-5c7f-40ce-b749-100ae89d2c90.jpg?1554225022|https://scryfall.com/"
+"card/war/113/ahn-crop-invader?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:399
+msgid "As long as it's your turn, Ahn-Crop Invader has first strike."
+msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
+
 #: ../../WAR.rst:401
-#: ../../WAR.rst:641
+msgid ""
+"|mana_1|, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end "
+"of turn."
+msgstr ""
+"|mana_1|, poświęć innego stwora: Ten stwór dostaje +2/+0 do końca tury."
+
+#: ../../WAR.rst:408
+msgid ""
+":mtgtip:`Blindblast<https://img.scryfall.com/cards/border_crop/front/1/"
+"d/1d49637b-2255-4f16-8f24-140145966bfa.jpg?1554726058|https://scryfall.com/"
+"card/war/114/blindblast?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:405
+msgid ""
+"Blindblast deals 1 damage to target creature. That creature can't block this "
+"turn."
+msgstr ""
+"Ten czar zadaje wskazanemu stworowi 1 obrażenie. Ów stwór nie może blokować "
+"w tej turze."
+
+#: ../../WAR.rst:414
+msgid ""
+":mtgtip:`Bolt Bend<https://img.scryfall.com/cards/border_crop/"
+"front/3/9/39b35408-3728-4e1b-9f58-b0775df914d6.jpg?1554748664|https://"
+"scryfall.com/card/war/115/bolt-bend?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:411
+msgid ""
+"This spell costs |mana_3| less to cast if you control a creature with power "
+"4 or greater."
+msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli władasz stworem o sile 4 "
+"lub większej."
+
+#: ../../WAR.rst:413
+msgid "Change the target of target spell or ability with a single target."
+msgstr "Zmień cel wskazywany przez  wskazany czar lub zdolność o jednym celu."
+
+#: ../../WAR.rst:418
+msgid ""
+":mtgtip:`Bond of Passion<https://img.scryfall.com/cards/border_crop/front/a/"
+"e/ae644e9d-9bc4-4ccd-aef4-3d0559948aa6.jpg?1555161783|https://scryfall.com/"
+"card/war/116/bond-of-passion?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:417
+msgid ""
+"Gain control of target creature until end of turn. Untap that creature. It "
+"gains haste until end of turn. Bond of Passion deals 2 damage to any other "
+"target."
+msgstr ""
+
+#: ../../WAR.rst:422
+msgid ""
+":mtgtip:`Burning Prophet<https://img.scryfall.com/cards/border_crop/"
+"front/0/1/01c5b095-13c9-4673-bf0c-553de455e521.jpg?1554225026|https://"
+"scryfall.com/card/war/117/burning-prophet?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:421
+msgid ""
+"Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end "
+"of turn, then scry 1."
+msgstr ""
+"Ilekroć rzucasz czar nie będący stworem, niniejszy stwór dostaje +1/+0 do "
+"końca tury, następnie wróż 1."
+
+#: ../../WAR.rst:426
+msgid ""
+":mtgtip:`Chainwhip Cyclops<https://img.scryfall.com/cards/border_crop/front/"
+"d/2/d2f18df2-5910-4c5d-8b04-6fe5d04e8150.jpg?1554900115|https://scryfall.com/"
+"card/war/118/chainwhip-cyclops?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:425
+#, fuzzy
+msgid "|mana_3|\\ |mana_r|: Target creature can't block this turn."
+msgstr ""
+"Ten czar zadaje wskazanemu stworowi 1 obrażenie. Ów stwór nie może blokować "
+"w tej turze."
+
+#: ../../WAR.rst:434
+msgid ""
+":mtgtip:`Chandra, Fire Artisan<https://img.scryfall.com/cards/border_crop/"
+"front/d/2/d21a7b23-8827-49f2-ade4-75a602d17743.jpg?1554813235|https://"
+"scryfall.com/card/war/119/chandra-fire-artisan?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:429
+#, fuzzy
+msgid ""
+"Whenever one or more loyalty counters are removed from Chandra, Fire "
+"Artisan, she deals that much damage to target opponent or planeswalker."
+msgstr ""
+"Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, ten wędrowiec "
+"zadaje wskazanemu przecwinikowi lub wędrowcowi 1 obrażenie."
+
+#: ../../WAR.rst:431
+#, fuzzy
+msgid "+1: Exile the top card of your library. You may play it this turn."
+msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
+
+#: ../../WAR.rst:433
+#, fuzzy
+msgid ""
+"-7: Exile the top seven cards of your library. You may play them this turn."
+msgstr ""
+"-8: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Umieść wszystkie "
+"karty artefaktów spośród nich na polu walki."
+
+#: ../../WAR.rst:438
+msgid ""
+":mtgtip:`Chandra's Pyrohelix<https://img.scryfall.com/cards/border_crop/"
+"front/1/c/1c482f51-9222-4e9e-a9fd-bb14a0afe156.jpg?1554813125|https://"
+"scryfall.com/card/war/120/chandras-pyrohelix?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:437
+msgid ""
+"Chandra's Pyrohelix deals 2 damage divided as you choose among one or two "
+"targets."
+msgstr ""
+
+#: ../../WAR.rst:442
+msgid ""
+":mtgtip:`Chandra's Triumph<https://img.scryfall.com/cards/border_crop/"
+"front/7/0/70f43c17-7022-4052-86b8-90b74382b7bf.jpg?1554835174|https://"
+"scryfall.com/card/war/121/chandras-triumph?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:441
+#, fuzzy
+msgid ""
+"Chandra's Triumph deals 3 damage to target creature or planeswalker an "
+"opponent controls. Chandra's Triumph deals 5 damage to that permanent "
+"instead if you control a Chandra planeswalker."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zniszcz władanego przez przeciwnika "
+"wskazanego stwora lub wędrowca, który otrzymał obrażenia w tej turze."
+
+#: ../../WAR.rst:446
+msgid ""
+":mtgtip:`Cyclops Electromancer<https://img.scryfall.com/cards/border_crop/"
+"front/d/a/da0966a6-f378-4975-88ae-23b600d578bf.jpg?1554476756|https://"
+"scryfall.com/card/war/122/cyclops-electromancer?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:445
+msgid ""
+"When Cyclops Electromancer enters the battlefield, it deals X damage to "
+"target creature an opponent controls, where X is the number of instant and "
+"sorcery cards in your graveyard."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje X obrażeń wskazanemu stworowi "
+"pod władaniem przeciwnika, gdzie X jest liczbą kart sztuczek i obrzędów w "
+"twoim cmentarzu."
+
+#: ../../WAR.rst:450
+msgid ""
+":mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/front/b/0/"
+"b00211dd-6dd7-40d9-80f3-f909f6d112db.jpg?1554725266|https://scryfall.com/"
+"card/war/123/demolish?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:449
+msgid "Destroy target artifact or land."
+msgstr "Zniszcz wskazany artefakt lub ląd."
+
+#: ../../WAR.rst:454
+msgid ""
+":mtgtip:`Devouring Hellion<https://img.scryfall.com/cards/border_crop/"
+"front/8/8/88205574-bf2b-46e7-aac7-4b8ea217f94c.jpg?1554477064|https://"
+"scryfall.com/card/war/124/devouring-hellion?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:453
+msgid ""
+"As Devouring Hellion enters the battlefield, you may sacrifice any number of "
+"creatures and/or planeswalkers. If you do, it enters with twice that many +1/"
+"+1 counters on it."
+msgstr ""
+"Umieszczając tego stwora na polu walki możesz poświęcić dowolną liczbę "
+"stworów i/lub wędrowców. Jeśli to zrobisz, wchodzi on na pole walki z "
+"dwukrotnością tej liczby znaczników +1/+1."
+
+#: ../../WAR.rst:460
+msgid ""
+":mtgtip:`Dreadhorde Arcanist<https://img.scryfall.com/cards/border_crop/"
+"front/f/d/fd97b3cf-924e-4f77-bb82-0bf19592389f.jpg?1554290763|https://"
+"scryfall.com/card/war/125/dreadhorde-arcanist?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:457 ../../WAR.rst:501 ../../WAR.rst:527 ../../WAR.rst:539
+#: ../../WAR.rst:641 ../../WAR.rst:687 ../../WAR.rst:861
 msgid "Trample"
 msgstr "Tratowanie"
 
-#: ../../WAR.rst:349
-msgid "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead."
+#: ../../WAR.rst:459
+msgid ""
+"Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery "
+"card with converted mana cost less than or equal to Dreadhorde Arcanist's "
+"power from your graveyard without paying its mana cost. If that card would "
+"be put into your graveyard this turn, exile it instead."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz rzucić bez płacenia kosztu many wskazaną "
 "kartę sztuczki lub obrzędu z twojego cmentarza o skróconym koszcie many "
 "mniejszym lub równym sile niniejszego stwora. Jeśli owa karta miałaby zostać "
 "umieszczona w cmentarzu w tej turze, zamiast tego wygnaj ją."
 
-#: ../../WAR.rst:352
-msgid ":mtgtip:`Goblin Assailant<https://img.scryfall.com/cards/border_crop/front/e/4/e41acc81-7c22-4b59-97b8-54473623db6f.jpg?1554476601|https://scryfall.com/card/war/128/goblin-assailant?utm_source=api>`"
+#: ../../WAR.rst:466
+msgid ""
+":mtgtip:`Dreadhorde Twins<https://img.scryfall.com/cards/border_crop/"
+"front/8/2/82017bf6-352f-4e81-8fd5-c1b0daf05b01.jpg?1554929317|https://"
+"scryfall.com/card/war/126/dreadhorde-twins?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:360
-msgid ":mtgtip:`Goblin Assault Team<https://img.scryfall.com/cards/border_crop/front/8/8/880047fd-d258-40fb-bcd5-37cb26678dfe.jpg?1554479301|https://scryfall.com/card/war/129/goblin-assault-team?utm_source=api>`"
+#: ../../WAR.rst:463
+#, fuzzy
+msgid ""
+"When Dreadhorde Twins enters the battlefield, amass 2. (Put two +1/+1 "
+"counters on an Army you control. If you don't control one, create a 0/0 "
+"black Zombie Army creature token first.)"
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/"
+"+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"żeton czarnego stwora Armia Zombich 0/0.)"
+
+#: ../../WAR.rst:465
+#, fuzzy
+msgid "Zombie tokens you control have trample."
+msgstr "Żetony Zombich  pod twoim władaniem mają latanie."
+
+#: ../../WAR.rst:470
+msgid ""
+":mtgtip:`Finale of Promise<https://img.scryfall.com/cards/border_crop/"
+"front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1555084033|https://"
+"scryfall.com/card/war/127/finale-of-promise?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:357
-#: ../../WAR.rst:557
-#: ../../WAR.rst:655
+#: ../../WAR.rst:469
+msgid ""
+"You may cast up to one target instant card and/or sorcery card from your "
+"graveyard each with converted mana cost X or less without paying their mana "
+"costs. If a card cast this way would be put into your graveyard this turn, "
+"exile it instead. If X is 10 or more, copy each of those spells twice. You "
+"may choose new targets for the copies."
+msgstr ""
+
+#: ../../WAR.rst:472
+msgid ""
+":mtgtip:`Goblin Assailant<https://img.scryfall.com/cards/border_crop/front/"
+"e/4/e41acc81-7c22-4b59-97b8-54473623db6f.jpg?1554476601|https://scryfall.com/"
+"card/war/128/goblin-assailant?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:480
+msgid ""
+":mtgtip:`Goblin Assault Team<https://img.scryfall.com/cards/border_crop/"
+"front/8/8/880047fd-d258-40fb-bcd5-37cb26678dfe.jpg?1554479301|https://"
+"scryfall.com/card/war/129/goblin-assault-team?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:477 ../../WAR.rst:757 ../../WAR.rst:883
 msgid "Haste"
 msgstr "Pośpiech"
 
-#: ../../WAR.rst:359
-msgid "When Goblin Assault Team dies, put a +1/+1 counter on target creature you control."
+#: ../../WAR.rst:479
+msgid ""
+"When Goblin Assault Team dies, put a +1/+1 counter on target creature you "
+"control."
 msgstr ""
 "Kiedy ten stwór umrze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
 "władaniem."
 
-#: ../../WAR.rst:366
-msgid ":mtgtip:`Grim Initiate<https://img.scryfall.com/cards/border_crop/front/2/9/29b6ec9d-3861-48bf-a198-dc7efba5d89c.jpg?1554223800|https://scryfall.com/card/war/130/grim-initiate?utm_source=api>`"
+#: ../../WAR.rst:486
+msgid ""
+":mtgtip:`Grim Initiate<https://img.scryfall.com/cards/border_crop/"
+"front/2/9/29b6ec9d-3861-48bf-a198-dc7efba5d89c.jpg?1554223800|https://"
+"scryfall.com/card/war/130/grim-initiate?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:363
+#: ../../WAR.rst:483
 msgid "First strike"
 msgstr "Pierwszy cios"
 
-#: ../../WAR.rst:365
-msgid "When Grim Initiate dies, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:485
+msgid ""
+"When Grim Initiate dies, amass 1. (Put a +1/+1 counter on an Army you "
+"control. If you don't control one, create a 0/0 black Zombie Army creature "
+"token first.)"
 msgstr ""
 "Kiedy ten stwór umrze, zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim "
 "władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego stwora "
 "Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:372
-msgid ":mtgtip:`Heartfire<https://img.scryfall.com/cards/border_crop/front/7/d/7db219ea-2ed1-4a86-955c-d61ecedbc019.jpg?1554476814|https://scryfall.com/card/war/131/heartfire?utm_source=api>`"
+#: ../../WAR.rst:492
+msgid ""
+":mtgtip:`Heartfire<https://img.scryfall.com/cards/border_crop/front/7/"
+"d/7db219ea-2ed1-4a86-955c-d61ecedbc019.jpg?1554476814|https://scryfall.com/"
+"card/war/131/heartfire?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:369
-msgid "As an additional cost to cast this spell, sacrifice a creature or planeswalker."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora lub wędrowca."
+#: ../../WAR.rst:489
+msgid ""
+"As an additional cost to cast this spell, sacrifice a creature or "
+"planeswalker."
+msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora lub wędrowca."
 
-#: ../../WAR.rst:371
+#: ../../WAR.rst:491
 msgid "Heartfire deals 4 damage to any target."
 msgstr "Ten czar zadaje 4 obrażenia w dowolnie wskazany cel."
 
-#: ../../WAR.rst:378
-msgid ":mtgtip:`Honor the God-Pharaoh<https://img.scryfall.com/cards/border_crop/front/7/5/75844d13-74f5-4008-9bc6-2f6d04f378aa.jpg?1554225032|https://scryfall.com/card/war/132/honor-the-god-pharaoh?utm_source=api>`"
+#: ../../WAR.rst:498
+msgid ""
+":mtgtip:`Honor the God-Pharaoh<https://img.scryfall.com/cards/border_crop/"
+"front/7/5/75844d13-74f5-4008-9bc6-2f6d04f378aa.jpg?1554225032|https://"
+"scryfall.com/card/war/132/honor-the-god-pharaoh?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:375
+#: ../../WAR.rst:495
 msgid "As an additional cost to cast this spell, discard a card."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
-#: ../../WAR.rst:377
-msgid "Draw two cards. Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:497
+msgid ""
+"Draw two cards. Amass 1. (Put a +1/+1 counter on an Army you control. If you "
+"don't control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Dobierz dwie karty. Zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim "
 "władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego stwora "
 "Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:382
-msgid ":mtgtip:`Invading Manticore<https://img.scryfall.com/cards/border_crop/front/6/7/674e408b-f052-451c-9bf9-ac6f98753a9d.jpg?1554290892|https://scryfall.com/card/war/134/invading-manticore?utm_source=api>`"
+#: ../../WAR.rst:506
+msgid ""
+":mtgtip:`Ilharg, the Raze-Boar<https://img.scryfall.com/cards/border_crop/"
+"front/c/0/c0109b60-09aa-4a03-92e7-0c651d976d51.jpg?1554913554|https://"
+"scryfall.com/card/war/133/ilharg-the-raze-boar?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:381
-msgid "When Invading Manticore enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:503
+msgid ""
+"Whenever Ilharg, the Raze-Boar attacks, you may put a creature card from "
+"your hand onto the battlefield tapped and attacking. Return that creature to "
+"your hand at the beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/+"
-"1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+
+#: ../../WAR.rst:505
+msgid ""
+"When Ilharg, the Raze-Boar dies or is put into exile from the battlefield, "
+"you may put it into its owner's library third from the top."
+msgstr ""
+
+#: ../../WAR.rst:510
+msgid ""
+":mtgtip:`Invading Manticore<https://img.scryfall.com/cards/border_crop/"
+"front/6/7/674e408b-f052-451c-9bf9-ac6f98753a9d.jpg?1554290892|https://"
+"scryfall.com/card/war/134/invading-manticore?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:509
+msgid ""
+"When Invading Manticore enters the battlefield, amass 2. (Put two +1/+1 "
+"counters on an Army you control. If you don't control one, create a 0/0 "
+"black Zombie Army creature token first.)"
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/"
+"+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
 "żeton czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:386
-msgid ":mtgtip:`Krenko, Tin Street Kingpin<https://img.scryfall.com/cards/border_crop/front/3/7/37ed04d3-cfa1-4778-aea6-b4c2c29e6e0a.jpg?1554403268|https://scryfall.com/card/war/137/krenko-tin-street-kingpin?utm_source=api>`"
+#: ../../WAR.rst:516
+msgid ""
+":mtgtip:`Jaya, Venerated Firemage<https://img.scryfall.com/cards/border_crop/"
+"front/1/2/129dc8a8-9fbc-4300-b559-243395dc6ed5.jpg?1554816178|https://"
+"scryfall.com/card/war/135/jaya-venerated-firemage?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:385
-msgid "Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
+#: ../../WAR.rst:513
+msgid ""
+"If another red source you control would deal damage to a permanent or "
+"player, it deals that much damage plus 1 to that permanent or player instead."
+msgstr ""
+
+#: ../../WAR.rst:515
+#, fuzzy
+msgid "-2: Jaya, Venerated Firemage deals 2 damage to any target."
+msgstr "Ten czar zadaje 4 obrażenia w dowolnie wskazany cel."
+
+#: ../../WAR.rst:520
+msgid ""
+":mtgtip:`Jaya's Greeting<https://img.scryfall.com/cards/border_crop/front/e/"
+"c/ec66f169-5cf9-4d7c-a5ab-c64fc4801358.jpg?1554816046|https://scryfall.com/"
+"card/war/136/jayas-greeting?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:519
+#, fuzzy
+msgid "Jaya's Greeting deals 3 damage to target creature. Scry 1."
+msgstr ""
+"Ten czar zadaje 2 obrażenia wskazanemu stworowi, a ty zyskujesz 2 życia."
+
+#: ../../WAR.rst:524
+msgid ""
+":mtgtip:`Krenko, Tin Street Kingpin<https://img.scryfall.com/cards/"
+"border_crop/front/3/7/37ed04d3-cfa1-4778-aea6-b4c2c29e6e0a.jpg?1554403268|"
+"https://scryfall.com/card/war/137/krenko-tin-street-kingpin?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:523
+msgid ""
+"Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then "
+"create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
 msgstr ""
 "Ilekroć ten stwór atakuje, umieść na nim znacznik +1/+1, następnie stwórz "
 "tyle żetonów czerwonego stwora Goblin 1/1, ile wynosi jego siła."
 
-#: ../../WAR.rst:394
-msgid ":mtgtip:`Mizzium Tank<https://img.scryfall.com/cards/border_crop/front/5/6/5643253b-0996-45a8-9488-5bcc9192f867.jpg?1554726126|https://scryfall.com/card/war/138/mizzium-tank?utm_source=api>`"
+#: ../../WAR.rst:532
+msgid ""
+":mtgtip:`Mizzium Tank<https://img.scryfall.com/cards/border_crop/"
+"front/5/6/5643253b-0996-45a8-9488-5bcc9192f867.jpg?1554726126|https://"
+"scryfall.com/card/war/138/mizzium-tank?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:391
-msgid "Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact creature and gets +1/+1 until end of turn."
+#: ../../WAR.rst:529
+msgid ""
+"Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact "
+"creature and gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć rzucisz czar nie będący stworem, ten permanent staje się "
 "artefaktycznym stworem i dostaje +1/+1 do końca tury."
 
-#: ../../WAR.rst:393
-msgid "Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+#: ../../WAR.rst:531
+msgid ""
+"Crew 1 (Tap any number of creatures you control with total power 1 or more: "
+"This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
-#: ../../WAR.rst:398
-msgid ":mtgtip:`Nahiri's Stoneblades<https://img.scryfall.com/cards/border_crop/front/0/a/0a14331e-8da5-4455-ac69-e510684e989c.jpg?1554289736|https://scryfall.com/card/war/139/nahiris-stoneblades?utm_source=api>`"
+#: ../../WAR.rst:536
+msgid ""
+":mtgtip:`Nahiri's Stoneblades<https://img.scryfall.com/cards/border_crop/"
+"front/0/a/0a14331e-8da5-4455-ac69-e510684e989c.jpg?1554289736|https://"
+"scryfall.com/card/war/139/nahiris-stoneblades?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:397
+#: ../../WAR.rst:535
 msgid "Up to two target creatures each get +2/+0 until end of turn."
 msgstr ""
 "Każdy z co najwyżej dwóch wskazanych stworów dostaje +2/+0 do końca tury."
 
-#: ../../WAR.rst:404
-msgid ":mtgtip:`Neheb, Dreadhorde Champion<https://img.scryfall.com/cards/border_crop/front/6/0/60c90d5d-7b3b-48d2-85f6-d6a2a452c0e9.jpg?1554222748|https://scryfall.com/card/war/140/neheb-dreadhorde-champion?utm_source=api>`"
+#: ../../WAR.rst:542
+msgid ""
+":mtgtip:`Neheb, Dreadhorde Champion<https://img.scryfall.com/cards/"
+"border_crop/front/6/0/60c90d5d-7b3b-48d2-85f6-d6a2a452c0e9.jpg?1554222748|"
+"https://scryfall.com/card/war/140/neheb-dreadhorde-champion?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:403
-msgid "Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much |mana_r|. Until end of turn, you don't lose this mana as steps and phases end."
+#: ../../WAR.rst:541
+msgid ""
+"Whenever Neheb, Dreadhorde Champion deals combat damage to a player or "
+"planeswalker, you may discard any number of cards. If you do, draw that many "
+"cards and add that much |mana_r|. Until end of turn, you don't lose this "
+"mana as steps and phases end."
 msgstr ""
 "Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, możesz "
 "odrzucić dowolną liczbę kart. Jeśli tak zrobisz, dobierz tyle samo kart i "
 "dostajesz tyle samo |mana_r|. Do końca tury nie tracisz owej many przy "
 "przechodzeniu między krokami i fazami."
 
-#: ../../WAR.rst:408
-msgid ":mtgtip:`Samut's Sprint<https://img.scryfall.com/cards/border_crop/front/9/4/94bda699-2b5d-4f5b-bee5-792b99d2b64a.jpg?1554225069|https://scryfall.com/card/war/142/samuts-sprint?utm_source=api>`"
+#: ../../WAR.rst:546
+msgid ""
+":mtgtip:`Raging Kronch<https://img.scryfall.com/cards/border_crop/front/a/e/"
+"ae38aa2d-6c0e-409a-bfc7-ed4281457670.jpg?1554900188|https://scryfall.com/"
+"card/war/141/raging-kronch?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:407
+#: ../../WAR.rst:545
+msgid "Raging Kronch can't attack alone."
+msgstr ""
+
+#: ../../WAR.rst:550
+msgid ""
+":mtgtip:`Samut's Sprint<https://img.scryfall.com/cards/border_crop/"
+"front/9/4/94bda699-2b5d-4f5b-bee5-792b99d2b64a.jpg?1554225069|https://"
+"scryfall.com/card/war/142/samuts-sprint?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:549
 msgid "Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
 msgstr "Wskazany stwór dostaje +2/+1 i zyskuje pośpiech do końca tury. Wróż 1."
 
-#: ../../WAR.rst:412
-msgid ":mtgtip:`Spellgorger Weird<https://img.scryfall.com/cards/border_crop/front/9/1/91551f85-4630-43a0-af72-8332d2ff0752.jpg?1554376277|https://scryfall.com/card/war/145/spellgorger-weird?utm_source=api>`"
+#: ../../WAR.rst:554
+msgid ""
+":mtgtip:`Spellgorger Weird<https://img.scryfall.com/cards/border_crop/"
+"front/9/1/91551f85-4630-43a0-af72-8332d2ff0752.jpg?1554376277|https://"
+"scryfall.com/card/war/145/spellgorger-weird?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:411
-msgid "Whenever you cast a noncreature spell, put a +1/+1 counter on Spellgorger Weird."
+#: ../../WAR.rst:553
+msgid ""
+"Whenever you cast a noncreature spell, put a +1/+1 counter on Spellgorger "
+"Weird."
 msgstr ""
 "Ilekroć rzucasz czar nie będący stworem, umieść znacznik +1/+1 na tym "
 "stworze."
 
-#: ../../WAR.rst:418
-msgid ":mtgtip:`Tibalt, Rakish Instigator<https://img.scryfall.com/cards/border_crop/front/7/f/7f9a24dc-8bc3-4528-8780-57fb108fdfbf.jpg?1554251673|https://scryfall.com/card/war/146/tibalt-rakish-instigator?utm_source=api>`"
+#: ../../WAR.rst:560
+msgid ""
+":mtgtip:`Tibalt, Rakish Instigator<https://img.scryfall.com/cards/"
+"border_crop/front/7/f/7f9a24dc-8bc3-4528-8780-57fb108fdfbf.jpg?1554251673|"
+"https://scryfall.com/card/war/146/tibalt-rakish-instigator?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:415
+#: ../../WAR.rst:557
 msgid "Your opponents can't gain life."
 msgstr "Twoi przeciwnicy nie mogą zyskiwać życia."
 
-#: ../../WAR.rst:417
-msgid "-2: Create a 1/1 red Devil creature token with \"Whenever this creature dies, it deals 1 damage to any target.\""
+#: ../../WAR.rst:559
+msgid ""
+"-2: Create a 1/1 red Devil creature token with \"Whenever this creature "
+"dies, it deals 1 damage to any target.\""
 msgstr ""
 "-2: Stwórz żeton czerwonego stwora Diabeł 1/1 ze zdolnością \"Ilekroć ten "
 "stwór umrze, zadaje w dowolnie wskazany cel 1 obrażenie.\""
 
-#: ../../WAR.rst:424
-msgid ":mtgtip:`Tibalt's Rager<https://img.scryfall.com/cards/border_crop/front/2/9/2985520d-dfce-414e-a4ac-61695be67406.jpg?1554225050|https://scryfall.com/card/war/147/tibalts-rager?utm_source=api>`"
+#: ../../WAR.rst:566
+msgid ""
+":mtgtip:`Tibalt's Rager<https://img.scryfall.com/cards/border_crop/"
+"front/2/9/2985520d-dfce-414e-a4ac-61695be67406.jpg?1554225050|https://"
+"scryfall.com/card/war/147/tibalts-rager?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:421
+#: ../../WAR.rst:563
 msgid "When Tibalt's Rager dies, it deals 1 damage to any target."
 msgstr "Kiedy ten stwór umrze, zadaje w dowolnie wskazany cel 1 obrażenie."
 
-#: ../../WAR.rst:423
+#: ../../WAR.rst:565
 msgid "|mana_1|\\ |mana_r|: Tibalt's Rager gets +2/+0 until end of turn."
 msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +2/+0 do końca tury."
 
-#: ../../WAR.rst:430
-msgid ":mtgtip:`Turret Ogre<https://img.scryfall.com/cards/border_crop/front/8/b/8b5f624f-c5eb-4150-b36e-6147b440ff56.jpg?1554725628|https://scryfall.com/card/war/148/turret-ogre?utm_source=api>`"
+#: ../../WAR.rst:572
+msgid ""
+":mtgtip:`Turret Ogre<https://img.scryfall.com/cards/border_crop/front/8/"
+"b/8b5f624f-c5eb-4150-b36e-6147b440ff56.jpg?1554725628|https://scryfall.com/"
+"card/war/148/turret-ogre?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:427
+#: ../../WAR.rst:569
 msgid "Reach"
 msgstr "Zasięg"
 
-#: ../../WAR.rst:429
-msgid "When Turret Ogre enters the battlefield, if you control another creature with power 4 or greater, Turret Ogre deals 2 damage to each opponent."
+#: ../../WAR.rst:571
+msgid ""
+"When Turret Ogre enters the battlefield, if you control another creature "
+"with power 4 or greater, Turret Ogre deals 2 damage to each opponent."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym stworem o sile 4 "
 "lub większej, niniejszy stwór zadaje każdemu przeciwnikowi 2 obrażenia."
 
-#: ../../WAR.rst:436
-msgid ":mtgtip:`Arlinn, Voice of the Pack<https://img.scryfall.com/cards/border_crop/front/5/3/5391d2f1-e8d3-4d39-98cf-367888e10534.jpg?1554225135|https://scryfall.com/card/war/150/arlinn-voice-of-the-pack?utm_source=api>`"
+#: ../../WAR.rst:578
+msgid ""
+":mtgtip:`Arlinn, Voice of the Pack<https://img.scryfall.com/cards/"
+"border_crop/front/5/3/5391d2f1-e8d3-4d39-98cf-367888e10534.jpg?1554225135|"
+"https://scryfall.com/card/war/150/arlinn-voice-of-the-pack?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:433
-msgid "Each creature you control that's a Wolf or Werewolf enters the battlefield with an additional +1/+1 counter on it."
+#: ../../WAR.rst:575
+msgid ""
+"Each creature you control that's a Wolf or Werewolf enters the battlefield "
+"with an additional +1/+1 counter on it."
 msgstr ""
 "Każdy stwór pod twoim władaniem będący Wilkiem lub Wilkołakiem wchodzi na "
 "pole walki z dodatkowym znacznikiem +1/+1."
 
-#: ../../WAR.rst:435
+#: ../../WAR.rst:577
 msgid "-2: Create a 2/2 green Wolf creature token."
 msgstr "-2: Stwórz żeton zielonego stwora Wilk 2/2."
 
-#: ../../WAR.rst:440
-msgid ":mtgtip:`Arlinn's Wolf<https://img.scryfall.com/cards/border_crop/front/7/4/747223a5-c669-4d0e-a062-265eb47710cd.jpg?1554225125|https://scryfall.com/card/war/151/arlinns-wolf?utm_source=api>`"
+#: ../../WAR.rst:582
+msgid ""
+":mtgtip:`Arlinn's Wolf<https://img.scryfall.com/cards/border_crop/"
+"front/7/4/747223a5-c669-4d0e-a062-265eb47710cd.jpg?1554225125|https://"
+"scryfall.com/card/war/151/arlinns-wolf?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:439
+#: ../../WAR.rst:581
 msgid "Arlinn's Wolf can't be blocked by creatures with power 2 or less."
 msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
-#: ../../WAR.rst:444
-msgid ":mtgtip:`Band Together<https://img.scryfall.com/cards/border_crop/front/4/d/4d1d8aa1-d742-477c-819a-0113912d5011.jpg?1554466364|https://scryfall.com/card/war/153/band-together?utm_source=api>`"
+#: ../../WAR.rst:586
+msgid ""
+":mtgtip:`Awakening of Vitu-Ghazi<https://img.scryfall.com/cards/border_crop/"
+"front/b/4/b42b2fb4-8016-462c-8764-2639adec931f.jpg?1554919348|https://"
+"scryfall.com/card/war/152/awakening-of-vitu-ghazi?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:443
-msgid "Up to two target creatures you control each deal damage equal to their power to another target creature."
+#: ../../WAR.rst:585
+msgid ""
+"Put nine +1/+1 counters on target land you control. It becomes a legendary "
+"0/0 Elemental creature with haste named Vitu-Ghazi. It's still a land."
+msgstr ""
+
+#: ../../WAR.rst:590
+msgid ""
+":mtgtip:`Band Together<https://img.scryfall.com/cards/border_crop/front/4/"
+"d/4d1d8aa1-d742-477c-819a-0113912d5011.jpg?1554466364|https://scryfall.com/"
+"card/war/153/band-together?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:589
+msgid ""
+"Up to two target creatures you control each deal damage equal to their power "
+"to another target creature."
 msgstr ""
 "Każdy z co najwyżej dwóch wskazanych stworów zadaje obrażenia równe swojej "
 "sile innemu wskazanemu stworowi."
 
-#: ../../WAR.rst:448
-msgid ":mtgtip:`Bloom Hulk<https://img.scryfall.com/cards/border_crop/front/f/d/fd1c9129-254d-4d1d-9d95-112292bd6bcc.jpg?1554463694|https://scryfall.com/card/war/154/bloom-hulk?utm_source=api>`"
+#: ../../WAR.rst:594
+msgid ""
+":mtgtip:`Bloom Hulk<https://img.scryfall.com/cards/border_crop/front/f/d/"
+"fd1c9129-254d-4d1d-9d95-112292bd6bcc.jpg?1554463694|https://scryfall.com/"
+"card/war/154/bloom-hulk?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:447
-msgid "When Bloom Hulk enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+#: ../../WAR.rst:593
+msgid ""
+"When Bloom Hulk enters the battlefield, proliferate. (Choose any number of "
+"permanents and/or players, then give each another counter of each kind "
+"already there.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, rozpleń. (Wybierz dowolną liczbę "
 "permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
-#: ../../WAR.rst:452
-msgid ":mtgtip:`Challenger Troll<https://img.scryfall.com/cards/border_crop/front/3/2/328d778a-ef16-437f-9a9d-204cf061919b.jpg?1554726012|https://scryfall.com/card/war/157/challenger-troll?utm_source=api>`"
+#: ../../WAR.rst:598
+msgid ""
+":mtgtip:`Bond of Flourishing<https://img.scryfall.com/cards/border_crop/"
+"front/d/f/df901fdc-8672-44f5-ade5-7c4e0b5c5d81.jpg?1555102456|https://"
+"scryfall.com/card/war/155/bond-of-flourishing?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:451
-msgid "Each creature you control with power 4 or greater can't be blocked by more than one creature."
+#: ../../WAR.rst:597
+#, fuzzy
+msgid ""
+"Look at the top three card of your library. You may reveal a permanent card "
+"from among them and put it into your hand. Put the rest on the bottom of "
+"your library in any order. You gain 3 life."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na trzy wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę sztuczki lub obrzędu i "
+"umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
+"dowolnej kolejności."
+
+#: ../../WAR.rst:604
+msgid ""
+":mtgtip:`Centaur Nurturer<https://img.scryfall.com/cards/border_crop/front/b/"
+"f/bf020acb-e0c6-43b4-8324-0f2ec68b73d6.jpg?1555101824|https://scryfall.com/"
+"card/war/156/centaur-nurturer?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:601
+#, fuzzy
+msgid "When Centaur Nurturer enters the battlefield, you gain 3 life."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 5 żyć."
+
+#: ../../WAR.rst:603 ../../WAR.rst:667 ../../WAR.rst:787
+msgid "|tap|: Add one mana of any color."
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+
+#: ../../WAR.rst:608
+msgid ""
+":mtgtip:`Challenger Troll<https://img.scryfall.com/cards/border_crop/"
+"front/3/2/328d778a-ef16-437f-9a9d-204cf061919b.jpg?1554726012|https://"
+"scryfall.com/card/war/157/challenger-troll?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:607
+msgid ""
+"Each creature you control with power 4 or greater can't be blocked by more "
+"than one creature."
 msgstr ""
 "Każdy stwór pod twoim władaniem o sile 4 lub większej nie może być blokowany "
 "przez więcej niż jednego stwora."
 
-#: ../../WAR.rst:456
-msgid ":mtgtip:`Courage in Crisis<https://img.scryfall.com/cards/border_crop/front/6/7/67a22083-9ef9-4ff7-8502-3a77e69299df.jpg?1554466444|https://scryfall.com/card/war/158/courage-in-crisis?utm_source=api>`"
+#: ../../WAR.rst:612
+msgid ""
+":mtgtip:`Courage in Crisis<https://img.scryfall.com/cards/border_crop/"
+"front/6/7/67a22083-9ef9-4ff7-8502-3a77e69299df.jpg?1554466444|https://"
+"scryfall.com/card/war/158/courage-in-crisis?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:455
-msgid "Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+#: ../../WAR.rst:611
+msgid ""
+"Put a +1/+1 counter on target creature, then proliferate. (Choose any number "
+"of permanents and/or players, then give each another counter of each kind "
+"already there.)"
 msgstr ""
 "Umieść znacznik +1/+1 na wskazanym stworze, następnie rozpleń. (Wybierz "
 "dowolną liczbę permanentów i/lub graczy, następnie daj każdemu z nich "
 "kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
-#: ../../WAR.rst:460
-msgid ":mtgtip:`Evolution Sage<https://img.scryfall.com/cards/border_crop/front/b/4/b4042db8-6032-49a2-bc96-ad15f55db6c3.jpg?1554725982|https://scryfall.com/card/war/159/evolution-sage?utm_source=api>`"
+#: ../../WAR.rst:616
+msgid ""
+":mtgtip:`Evolution Sage<https://img.scryfall.com/cards/border_crop/front/b/4/"
+"b4042db8-6032-49a2-bc96-ad15f55db6c3.jpg?1554725982|https://scryfall.com/"
+"card/war/159/evolution-sage?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:459
-msgid "Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+#: ../../WAR.rst:615
+msgid ""
+"Whenever a land enters the battlefield under your control, proliferate. "
+"(Choose any number of permanents and/or players, then give each another "
+"counter of each kind already there.)"
 msgstr ""
 "Ilekroć ląd wejdzie na pole walki pod twoim władaniem, rozpleń. (Wybierz "
 "dowolną liczbę permanentów i/lub graczy, następnie daj każdemu z nich "
 "kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
-#: ../../WAR.rst:464
-msgid ":mtgtip:`Forced Landing<https://img.scryfall.com/cards/border_crop/front/5/c/5cb319a7-564c-4748-82cf-c26ab110c32c.jpg?1554725374|https://scryfall.com/card/war/161/forced-landing?utm_source=api>`"
+#: ../../WAR.rst:620
+msgid ""
+":mtgtip:`Forced Landing<https://img.scryfall.com/cards/border_crop/front/5/"
+"c/5cb319a7-564c-4748-82cf-c26ab110c32c.jpg?1554725374|https://scryfall.com/"
+"card/war/161/forced-landing?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:463
+#: ../../WAR.rst:619
 msgid "Put target creature with flying on the bottom of its owner's library."
 msgstr ""
 "Umieść wskazanego stwora z lataniem na spodzie biblioteki jego właściciela."
 
-#: ../../WAR.rst:468
-msgid ":mtgtip:`Giant Growth<https://img.scryfall.com/cards/border_crop/front/0/6/06ec9e8b-4bd8-4caf-a559-6514b7ab4ca4.jpg?1554225121|https://scryfall.com/card/war/162/giant-growth?utm_source=api>`"
+#: ../../WAR.rst:624
+msgid ""
+":mtgtip:`Giant Growth<https://img.scryfall.com/cards/border_crop/"
+"front/0/6/06ec9e8b-4bd8-4caf-a559-6514b7ab4ca4.jpg?1554225121|https://"
+"scryfall.com/card/war/162/giant-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:467
+#: ../../WAR.rst:623
 msgid "Target creature gets +3/+3 until end of turn."
 msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 
-#: ../../WAR.rst:474
-msgid ":mtgtip:`Jiang Yanggu, Wildcrafter<https://img.scryfall.com/cards/border_crop/front/1/0/10e0d47d-b13c-4d48-881f-8aaa347ef209.jpg?1554225147|https://scryfall.com/card/war/164/jiang-yanggu-wildcrafter?utm_source=api>`"
+#: ../../WAR.rst:632
+msgid ""
+":mtgtip:`God-Eternal Rhonas<https://img.scryfall.com/cards/border_crop/"
+"front/0/e/0eb444f0-69cc-47c8-8cd6-1f9edad5d903.jpg?1555008040|https://"
+"scryfall.com/card/war/163/god-eternal-rhonas?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:471
-msgid "Each creature you control with a +1/+1 counter on it has \"|tap|: Add one mana of any color.\""
+#: ../../WAR.rst:627
+#, fuzzy
+msgid "Deathtouch"
+msgstr "Dotyk śmierci, więź życia"
+
+#: ../../WAR.rst:629
+#, fuzzy
+msgid ""
+"When God-Eternal Rhonas enters the battlefield, double the power of each "
+"other creature you control until end of turn. Those creatures gain vigilance "
+"until end of turn."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"zyskują czujność do końca tury."
+
+#: ../../WAR.rst:631
+msgid ""
+"When God-Eternal Rhonas dies or is put into exile from the battlefield, you "
+"may put it into its owner's library third from the top."
+msgstr ""
+
+#: ../../WAR.rst:638
+msgid ""
+":mtgtip:`Jiang Yanggu, Wildcrafter<https://img.scryfall.com/cards/"
+"border_crop/front/1/0/10e0d47d-b13c-4d48-881f-8aaa347ef209.jpg?1554225147|"
+"https://scryfall.com/card/war/164/jiang-yanggu-wildcrafter?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:635
+msgid ""
+"Each creature you control with a +1/+1 counter on it has \"|tap|: Add one "
+"mana of any color.\""
 msgstr ""
 "Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma \"|tap|: Dostajesz "
 "jedną manę dowolnego koloru.\""
 
-#: ../../WAR.rst:473
+#: ../../WAR.rst:637
 msgid "-1: Put a +1/+1 counter on target creature."
 msgstr "-1: Umieść znacznik +1/+1 na wskazanym stworze."
 
-#: ../../WAR.rst:480
-msgid ":mtgtip:`Mowu, Loyal Companion<https://img.scryfall.com/cards/border_crop/front/f/4/f41a191c-c42e-42ec-89bd-cc1bc215ffbc.jpg?1554225203|https://scryfall.com/card/war/167/mowu-loyal-companion?utm_source=api>`"
+#: ../../WAR.rst:644
+msgid ""
+":mtgtip:`Kronch Wrangler<https://img.scryfall.com/cards/border_crop/front/8/"
+"f/8f41d22a-ee37-4d69-a9ca-98c91315b9e6.jpg?1554900285|https://scryfall.com/"
+"card/war/166/kronch-wrangler?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:477
+#: ../../WAR.rst:643
+#, fuzzy
+msgid ""
+"Whenever a creature with power 4 or greater enters the battlefield under "
+"your control, put a +1/+1 counter on Kronch Wrangler."
+msgstr ""
+"Ilekroć stwór o sile 4 lub większej wejdzie na pole walki pod twoim "
+"władaniem, dobierz kartę."
+
+#: ../../WAR.rst:650
+msgid ""
+":mtgtip:`Mowu, Loyal Companion<https://img.scryfall.com/cards/border_crop/"
+"front/f/4/f41a191c-c42e-42ec-89bd-cc1bc215ffbc.jpg?1554225203|https://"
+"scryfall.com/card/war/167/mowu-loyal-companion?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:647
 msgid "Trample, vigilance"
 msgstr "Tratowanie, czujność"
 
-#: ../../WAR.rst:479
-msgid "If one or more +1/+1 counters would be put on Mowu, Loyal Companion, that many plus one +1/+1 counters are put on it instead."
+#: ../../WAR.rst:649
+msgid ""
+"If one or more +1/+1 counters would be put on Mowu, Loyal Companion, that "
+"many plus one +1/+1 counters are put on it instead."
 msgstr ""
 "Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać umieszczonych na tym "
 "stworze, zamiast tego zostaje ich umieszczonych o jeden więcej."
 
-#: ../../WAR.rst:486
-msgid ":mtgtip:`Paradise Druid<https://img.scryfall.com/cards/border_crop/front/6/e/6ed8d9e7-cdad-450d-8329-fa653d387a63.jpg?1554290554|https://scryfall.com/card/war/171/paradise-druid?utm_source=api>`"
+#: ../../WAR.rst:658
+msgid ""
+":mtgtip:`Nissa, Who Shakes the World<https://img.scryfall.com/cards/"
+"border_crop/front/f/8/f857bbe4-5619-4733-a0c7-69700f2ef4f3.jpg?1554912916|"
+"https://scryfall.com/card/war/169/nissa-who-shakes-the-world?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:483
+#: ../../WAR.rst:653
+msgid "Whenever you tap a Forest for mana, add an additional |mana_g|."
+msgstr ""
+
+#: ../../WAR.rst:655
+msgid ""
+"+1: Put three +1/+1 counters on up to one target noncreature land you "
+"control. Untap it. It becomes a 0/0 Elemental creature with vigilance and "
+"haste that's still a land."
+msgstr ""
+
+#: ../../WAR.rst:657
+#, fuzzy
+msgid ""
+"-8: You get an emblem with \"Lands you control have indestructible.\" Search "
+"your library for any number of Forest cards, put them onto the battlefield "
+"tapped, then shuffle your library."
+msgstr ""
+"Zniszcz wskazanego stwora. Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+
+#: ../../WAR.rst:662
+msgid ""
+":mtgtip:`Nissa's Triumph<https://img.scryfall.com/cards/border_crop/"
+"front/7/9/7946b256-ae79-4b99-8bf4-0d627baf9044.jpg?1554919391|https://"
+"scryfall.com/card/war/170/nissas-triumph?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:661
+#, fuzzy
+msgid ""
+"Search your library for up to two basic Forest cards. If you control a Nissa "
+"planeswalker, instead search your library for up to three land cards. Reveal "
+"those cards, put them into your hand, then shuffle your library."
+msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwóch kart wędrowca, ujawnij je, "
+"umieść je w twojej ręce, następnie przetasuj twoją bibliotekę."
+
+#: ../../WAR.rst:668
+msgid ""
+":mtgtip:`Paradise Druid<https://img.scryfall.com/cards/border_crop/front/6/"
+"e/6ed8d9e7-cdad-450d-8329-fa653d387a63.jpg?1554290554|https://scryfall.com/"
+"card/war/171/paradise-druid?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:665
 msgid "Paradise Druid has hexproof as long as it's untapped."
 msgstr "Ten stwór ma antyklątwę o ile jest odkręcony."
 
-#: ../../WAR.rst:485
-#: ../../WAR.rst:583
-msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
-
-#: ../../WAR.rst:494
-msgid ":mtgtip:`Pollenbright Druid<https://img.scryfall.com/cards/border_crop/front/4/b/4b0f478c-54f8-4087-ad52-d089e2049dda.jpg?1554464174|https://scryfall.com/card/war/173/pollenbright-druid?utm_source=api>`"
+#: ../../WAR.rst:676
+msgid ""
+":mtgtip:`Pollenbright Druid<https://img.scryfall.com/cards/border_crop/"
+"front/4/b/4b0f478c-54f8-4087-ad52-d089e2049dda.jpg?1554464174|https://"
+"scryfall.com/card/war/173/pollenbright-druid?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:489
+#: ../../WAR.rst:671
 msgid "When Pollenbright Druid enters the battlefield, choose one —"
 msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
 
-#: ../../WAR.rst:491
+#: ../../WAR.rst:673
 msgid "Put a +1/+1 counter on target creature."
 msgstr "Umieść znacznik +1/+1 na wskazanym stworze."
 
-#: ../../WAR.rst:493
-msgid "Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
-msgstr ""
-"Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj "
-"każdemu z nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
-
-#: ../../WAR.rst:496
-msgid ":mtgtip:`Primordial Wurm<https://img.scryfall.com/cards/border_crop/front/f/c/fc0e8298-adac-4922-8824-a1fafa089f72.jpg?1554402987|https://scryfall.com/card/war/174/primordial-wurm?utm_source=api>`"
+#: ../../WAR.rst:678
+msgid ""
+":mtgtip:`Primordial Wurm<https://img.scryfall.com/cards/border_crop/front/f/"
+"c/fc0e8298-adac-4922-8824-a1fafa089f72.jpg?1554402987|https://scryfall.com/"
+"card/war/174/primordial-wurm?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:502
-msgid ":mtgtip:`Steady Aim<https://img.scryfall.com/cards/border_crop/front/4/a/4af6a1b5-a561-4d92-b429-de13b2ccaf81.jpg?1554725554|https://scryfall.com/card/war/177/steady-aim?utm_source=api>`"
+#: ../../WAR.rst:684
+msgid ""
+":mtgtip:`Steady Aim<https://img.scryfall.com/cards/border_crop/front/4/"
+"a/4af6a1b5-a561-4d92-b429-de13b2ccaf81.jpg?1554725554|https://scryfall.com/"
+"card/war/177/steady-aim?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:501
+#: ../../WAR.rst:683
 msgid "Untap target creature. It gets +1/+4 and gains reach until end of turn."
 msgstr "Odkręć wskazanego stwora. Dostaje on do końca tury +1/+4 oraz zasięg."
 
-#: ../../WAR.rst:510
-msgid ":mtgtip:`Vivien, Champion of the Wilds<https://img.scryfall.com/cards/border_crop/front/f/f/ff3986d7-9b3d-4082-8d72-ce59c9fcd5d5.jpg?1554225210|https://scryfall.com/card/war/180/vivien-champion-of-the-wilds?utm_source=api>`"
+#: ../../WAR.rst:690
+msgid ""
+":mtgtip:`Thundering Ceratok<https://img.scryfall.com/cards/border_crop/"
+"front/9/8/9888d9a4-ad72-43f6-8031-1031877171a9.jpg?1554899996|https://"
+"scryfall.com/card/war/179/thundering-ceratok?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:505
+#: ../../WAR.rst:689
+#, fuzzy
+msgid ""
+"When Thundering Ceratok enters the battlefield, other creatures you control "
+"gain trample until end of turn."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"zyskują czujność do końca tury."
+
+#: ../../WAR.rst:698
+msgid ""
+":mtgtip:`Vivien, Champion of the Wilds<https://img.scryfall.com/cards/"
+"border_crop/front/f/f/ff3986d7-9b3d-4082-8d72-ce59c9fcd5d5.jpg?1554225210|"
+"https://scryfall.com/card/war/180/vivien-champion-of-the-wilds?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:693
 msgid "You may cast creature spells as though they had flash."
 msgstr "Możesz rzucać czary stworów tak, jakby miały błysk."
 
-#: ../../WAR.rst:507
-msgid "+1: Until your next turn, up to one target creature gains vigilance and reach."
+#: ../../WAR.rst:695
+msgid ""
+"+1: Until your next turn, up to one target creature gains vigilance and "
+"reach."
 msgstr ""
 "+1: Do twojej następnej tury, co najwyżej jeden wskazany stwór zyskuje "
 "czujność i zasięg."
 
-#: ../../WAR.rst:509
-msgid "-2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it's a creature card."
+#: ../../WAR.rst:697
+msgid ""
+"-2: Look at the top three cards of your library. Exile one face down and put "
+"the rest on the bottom of your library in any order. For as long as it "
+"remains exiled, you may look at that card and you may cast it if it's a "
+"creature card."
 msgstr ""
 "-2: Spójrz na trzy wierzchnie karty twojej biblioteki. Wygnaj jedną zakrytą "
 "i umieść pozostałe na spodzie twojej biblioteki w dowolnej kolejności. Tak "
 "długo jak pozostaje wygnana, możesz patrzeć na ową kartę i możesz ją rzucić "
 "jeśli to karta stwora."
 
-#: ../../WAR.rst:514
-msgid ":mtgtip:`Vivien's Arkbow<https://img.scryfall.com/cards/border_crop/front/e/e/eecc846f-5b78-4d54-8d29-642ad7a852bc.jpg?1554225219|https://scryfall.com/card/war/181/viviens-arkbow?utm_source=api>`"
+#: ../../WAR.rst:702
+msgid ""
+":mtgtip:`Vivien's Arkbow<https://img.scryfall.com/cards/border_crop/front/e/"
+"e/eecc846f-5b78-4d54-8d29-642ad7a852bc.jpg?1554225219|https://scryfall.com/"
+"card/war/181/viviens-arkbow?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:513
-msgid "|mana_x|, |tap|, Discard a card: Look at the top X cards of your library. You may put a creature card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
+#: ../../WAR.rst:701
+msgid ""
+"|mana_x|, |tap|, Discard a card: Look at the top X cards of your library. "
+"You may put a creature card with converted mana cost X or less from among "
+"them onto the battlefield. Put the rest on the bottom of your library in a "
+"random order."
 msgstr ""
 "|mana_x|, |tap|, odrzuć kartę: Spójrz na X wierzchnich kart twojej "
 "biblioteki. Możesz spośród nich umieścić na polu walki kartę stwora o "
 "skróconym koszcie many X lub mniejszym. Umieść pozostałe losowo na spodzie "
 "twojej biblioteki."
 
-#: ../../WAR.rst:518
-msgid ":mtgtip:`Vivien's Grizzly<https://img.scryfall.com/cards/border_crop/front/3/7/37f2571b-6756-462c-9e71-3121fa458160.jpg?1554225224|https://scryfall.com/card/war/182/viviens-grizzly?utm_source=api>`"
+#: ../../WAR.rst:706
+msgid ""
+":mtgtip:`Vivien's Grizzly<https://img.scryfall.com/cards/border_crop/"
+"front/3/7/37f2571b-6756-462c-9e71-3121fa458160.jpg?1554225224|https://"
+"scryfall.com/card/war/182/viviens-grizzly?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:517
-msgid "|mana_3|\\ |mana_g|: Look at the top card of your library. If it's a creature or planeswalker card, you may reveal it and put it into your hand. If you don't put the card into your hand, put it on the bottom of your library."
+#: ../../WAR.rst:705
+msgid ""
+"|mana_3|\\ |mana_g|: Look at the top card of your library. If it's a "
+"creature or planeswalker card, you may reveal it and put it into your hand. "
+"If you don't put the card into your hand, put it on the bottom of your "
+"library."
 msgstr ""
 "|mana_3|\\ |mana_g|: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to "
 "karta stwora lub wędrowca, możesz ujawnić ją i umieścić w twojej ręce. Jeśli "
 "nie umieścić owej karty w twojej ręce, umieść ją na spodzie twojej "
 "biblioteki."
 
-#: ../../WAR.rst:522
-msgid ":mtgtip:`Wardscale Crocodile<https://img.scryfall.com/cards/border_crop/front/a/a/aa5341b9-06e4-4360-a75d-f405d468276e.jpg?1554403933|https://scryfall.com/card/war/183/wardscale-crocodile?utm_source=api>`"
+#: ../../WAR.rst:710
+msgid ""
+":mtgtip:`Wardscale Crocodile<https://img.scryfall.com/cards/border_crop/"
+"front/a/a/aa5341b9-06e4-4360-a75d-f405d468276e.jpg?1554403933|https://"
+"scryfall.com/card/war/183/wardscale-crocodile?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:521
-msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+#: ../../WAR.rst:709
+msgid ""
+"Hexproof (This creature can't be the target of spells or abilities your "
+"opponents control.)"
 msgstr ""
 "Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
 "władaniem twoich przeciwników.)"
 
-#: ../../WAR.rst:530
-msgid ":mtgtip:`Ajani, the Greathearted<https://img.scryfall.com/cards/border_crop/front/6/c/6cc78151-8cb0-4521-9674-fb0c67e24a17.jpg?1554727096|https://scryfall.com/card/war/184/ajani-the-greathearted?utm_source=api>`"
+#: ../../WAR.rst:718
+msgid ""
+":mtgtip:`Ajani, the Greathearted<https://img.scryfall.com/cards/border_crop/"
+"front/6/c/6cc78151-8cb0-4521-9674-fb0c67e24a17.jpg?1554727096|https://"
+"scryfall.com/card/war/184/ajani-the-greathearted?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:525
+#: ../../WAR.rst:713
 msgid "Creatures you control have vigilance."
 msgstr "Stwory pod twoim władaniem mają czujność."
 
-#: ../../WAR.rst:527
+#: ../../WAR.rst:715
 msgid "+1: You gain 3 life."
 msgstr "+1: Zyskujesz 3 życia."
 
-#: ../../WAR.rst:529
-msgid "-2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control."
+#: ../../WAR.rst:717
+msgid ""
+"-2: Put a +1/+1 counter on each creature you control and a loyalty counter "
+"on each other planeswalker you control."
 msgstr ""
 "-2: Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem oraz "
 "znacznik lojalności na każdym wędrowcu pod twoim władaniem."
 
-#: ../../WAR.rst:540
-msgid ":mtgtip:`Angrath's Rampage<https://img.scryfall.com/cards/border_crop/front/f/5/f5a39379-7313-463a-9a02-e5157b9557f4.jpg?1554353874|https://scryfall.com/card/war/185/angraths-rampage?utm_source=api>`"
+#: ../../WAR.rst:728
+msgid ""
+":mtgtip:`Angrath's Rampage<https://img.scryfall.com/cards/border_crop/front/"
+"f/5/f5a39379-7313-463a-9a02-e5157b9557f4.jpg?1554353874|https://scryfall.com/"
+"card/war/185/angraths-rampage?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:533
+#: ../../WAR.rst:721
 msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
-#: ../../WAR.rst:535
+#: ../../WAR.rst:723
 msgid "Target player sacrifices an artifact."
 msgstr "Wskazany gracz poświęca artefakt."
 
-#: ../../WAR.rst:537
+#: ../../WAR.rst:725
 msgid "Target player sacrifices a creature."
 msgstr "Wskazany gracz poświęca stwora."
 
-#: ../../WAR.rst:539
+#: ../../WAR.rst:727
 msgid "Target player sacrifices a planeswalker."
 msgstr "Wskazany gracz poświęca wędrowca."
 
-#: ../../WAR.rst:544
-msgid ":mtgtip:`Cruel Celebrant<https://img.scryfall.com/cards/border_crop/front/8/7/87ead6ac-b1c5-4852-8413-7fa43c6cfc57.jpg?1554225429|https://scryfall.com/card/war/188/cruel-celebrant?utm_source=api>`"
+#: ../../WAR.rst:732
+msgid ""
+":mtgtip:`Cruel Celebrant<https://img.scryfall.com/cards/border_crop/"
+"front/8/7/87ead6ac-b1c5-4852-8413-7fa43c6cfc57.jpg?1554225429|https://"
+"scryfall.com/card/war/188/cruel-celebrant?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:543
-msgid "Whenever Cruel Celebrant or another creature or planeswalker you control dies, each opponent loses 1 life and you gain 1 life."
+#: ../../WAR.rst:731
+msgid ""
+"Whenever Cruel Celebrant or another creature or planeswalker you control "
+"dies, each opponent loses 1 life and you gain 1 life."
 msgstr ""
 "Ilekroć umrze ten lub inny stwór albo wędrowiec pod twoim władaniem, każdy "
 "przeciwnik traci 1 życie a ty zyskujesz 1 życie."
 
-#: ../../WAR.rst:548
-msgid ":mtgtip:`Deathsprout<https://img.scryfall.com/cards/border_crop/front/6/d/6d615557-aea8-4057-9fbd-d62dd98edc13.jpg?1554403443|https://scryfall.com/card/war/189/deathsprout?utm_source=api>`"
+#: ../../WAR.rst:736
+msgid ""
+":mtgtip:`Deathsprout<https://img.scryfall.com/cards/border_crop/front/6/"
+"d/6d615557-aea8-4057-9fbd-d62dd98edc13.jpg?1554403443|https://scryfall.com/"
+"card/war/189/deathsprout?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:547
-msgid "Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+#: ../../WAR.rst:735
+msgid ""
+"Destroy target creature. Search your library for a basic land card, put it "
+"onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Zniszcz wskazanego stwora. Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
-#: ../../WAR.rst:554
-msgid ":mtgtip:`Dovin's Veto<https://img.scryfall.com/cards/border_crop/front/5/d/5d6b5054-2224-4f68-9d82-3ed17c5dacc4.jpg?1554290680|https://scryfall.com/card/war/193/dovins-veto?utm_source=api>`"
+#: ../../WAR.rst:744
+msgid ""
+":mtgtip:`Domri, Anarch of Bolas<https://img.scryfall.com/cards/border_crop/"
+"front/c/1/c1af9881-e35b-4be2-8716-ea7c6664e22c.jpg?1554900707|https://"
+"scryfall.com/card/war/191/domri-anarch-of-bolas?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:551
+#: ../../WAR.rst:739
+#, fuzzy
+msgid "Creatures you control get +1/+0."
+msgstr "Stwory pod twoim władaniem mają pośpiech."
+
+#: ../../WAR.rst:741
+msgid ""
+"+1: Add |mana_r| or |mana_g|. Creature spells you cast this turn can't be "
+"countered."
+msgstr ""
+
+#: ../../WAR.rst:743
+msgid ""
+"-2: Target creature you control fights target creature you don't control."
+msgstr ""
+
+#: ../../WAR.rst:748
+msgid ""
+":mtgtip:`Domri's Ambush<https://img.scryfall.com/cards/border_crop/front/b/0/"
+"b0dcae59-e9be-45a8-8ed8-5b47309bb716.jpg?1554895584|https://scryfall.com/"
+"card/war/192/domris-ambush?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:747
+#, fuzzy
+msgid ""
+"Put a +1/+1 counter on target creature you control. Then that creature deals "
+"damage equal to its power to target creature or planeswalker you don't "
+"control."
+msgstr ""
+"-2: Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem oraz "
+"znacznik lojalności na każdym wędrowcu pod twoim władaniem."
+
+#: ../../WAR.rst:754
+msgid ""
+":mtgtip:`Dovin's Veto<https://img.scryfall.com/cards/border_crop/front/5/"
+"d/5d6b5054-2224-4f68-9d82-3ed17c5dacc4.jpg?1554290680|https://scryfall.com/"
+"card/war/193/dovins-veto?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:751
 msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
-#: ../../WAR.rst:553
+#: ../../WAR.rst:753
 msgid "Counter target noncreature spell."
 msgstr "Skontruj wskazany czar nie będący stworem."
 
-#: ../../WAR.rst:562
-msgid ":mtgtip:`Dreadhorde Butcher<https://img.scryfall.com/cards/border_crop/front/4/5/457bc402-4c31-465c-95e1-694f686e257e.jpg?1554223469|https://scryfall.com/card/war/194/dreadhorde-butcher?utm_source=api>`"
+#: ../../WAR.rst:762
+msgid ""
+":mtgtip:`Dreadhorde Butcher<https://img.scryfall.com/cards/border_crop/"
+"front/4/5/457bc402-4c31-465c-95e1-694f686e257e.jpg?1554223469|https://"
+"scryfall.com/card/war/194/dreadhorde-butcher?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:559
-msgid "Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, put a +1/+1 counter on Dreadhorde Butcher."
+#: ../../WAR.rst:759
+msgid ""
+"Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, "
+"put a +1/+1 counter on Dreadhorde Butcher."
 msgstr ""
 "Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, umieść na "
 "niniejszym stworze znacznik +1/+1."
 
-#: ../../WAR.rst:561
-msgid "When Dreadhorde Butcher dies, it deals damage equal to its power to any target."
+#: ../../WAR.rst:761
+msgid ""
+"When Dreadhorde Butcher dies, it deals damage equal to its power to any "
+"target."
 msgstr ""
 "Kiedy ten stwór umrze, zadaje dowolnie wskazanemu celowi obrażenia równe "
 "swojej sile."
 
-#: ../../WAR.rst:568
-msgid ":mtgtip:`Feather, the Redeemed<https://img.scryfall.com/cards/border_crop/front/e/4/e4a2d2c6-8eaa-4760-b620-921b807baa2e.jpg?1554734209|https://scryfall.com/card/war/197/feather-the-redeemed?utm_source=api>`"
+#: ../../WAR.rst:766
+msgid ""
+":mtgtip:`Enter the God-Eternals<https://img.scryfall.com/cards/border_crop/"
+"front/f/6/f67e7070-2266-4c93-8c89-084e12ba7a4e.jpg?1554979609|https://"
+"scryfall.com/card/war/196/enter-the-god-eternals?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:567
-msgid "Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step."
+#: ../../WAR.rst:765
+#, fuzzy
+msgid ""
+"Enter the God-Eternals deals 4 damage to target creature and you gain life "
+"equal to the damage dealt this way. Target player puts the top four cards of "
+"their library into their graveyard. Amass 4. (Put four +1/+1 counters on an "
+"Army you control. If you don't control one, create a 0/0 black Zombie Army "
+"creature token first.)"
+msgstr ""
+"Zgromadź X, gdzie X jest liczbą kart sztuczek i obrzędów w twoim cmentarzu. "
+"(Umieść X znaczników +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
+"władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+
+#: ../../WAR.rst:772
+msgid ""
+":mtgtip:`Feather, the Redeemed<https://img.scryfall.com/cards/border_crop/"
+"front/e/4/e4a2d2c6-8eaa-4760-b620-921b807baa2e.jpg?1554734209|https://"
+"scryfall.com/card/war/197/feather-the-redeemed?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:771
+msgid ""
+"Whenever you cast an instant or sorcery spell that targets a creature you "
+"control, exile that card instead of putting it into your graveyard as it "
+"resolves. If you do, return it to your hand at the beginning of the next end "
+"step."
 msgstr ""
 "Ilekroć rzucisz czar sztuczki lub obrzędu wskazujący stwora pod twoim "
 "władaniem, wygnaj ową kartę zamiast umieszczać ją w twoim cmentarzu przy jej "
 "rozpatrzeniu. Jeśli to zrobisz, przywróć ją do twojej ręki na początku "
 "najbliższego kroku końcowego."
 
-#: ../../WAR.rst:574
-msgid ":mtgtip:`Gleaming Overseer<https://img.scryfall.com/cards/border_crop/front/0/b/0b4604b4-df53-485c-a604-4d823b33d8ba.jpg?1554223770|https://scryfall.com/card/war/198/gleaming-overseer?utm_source=api>`"
+#: ../../WAR.rst:778
+msgid ""
+":mtgtip:`Gleaming Overseer<https://img.scryfall.com/cards/border_crop/"
+"front/0/b/0b4604b4-df53-485c-a604-4d823b33d8ba.jpg?1554223770|https://"
+"scryfall.com/card/war/198/gleaming-overseer?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:571
-msgid "When Gleaming Overseer enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:775
+msgid ""
+"When Gleaming Overseer enters the battlefield, amass 1. (Put a +1/+1 counter "
+"on an Army you control. If you don't control one, create a 0/0 black Zombie "
+"Army creature token first.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
 "Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
 "czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:573
+#: ../../WAR.rst:777
 msgid "Zombie tokens you control have hexproof and menace."
 msgstr "Żetony Zombich pod twoim władaniem mają antyklątwę i złowrogość."
 
-#: ../../WAR.rst:578
-msgid ":mtgtip:`Invade the City<https://img.scryfall.com/cards/border_crop/front/a/5/a587eb67-c2df-486c-9c48-dfeac540efe8.jpg?1554225434|https://scryfall.com/card/war/201/invade-the-city?utm_source=api>`"
+#: ../../WAR.rst:782
+msgid ""
+":mtgtip:`Invade the City<https://img.scryfall.com/cards/border_crop/front/"
+"a/5/a587eb67-c2df-486c-9c48-dfeac540efe8.jpg?1554225434|https://scryfall.com/"
+"card/war/201/invade-the-city?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:577
-msgid "Amass X, where X is the number of instant and sorcery cards in your graveyard. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:781
+msgid ""
+"Amass X, where X is the number of instant and sorcery cards in your "
+"graveyard. (Put X +1/+1 counters on an Army you control. If you don't "
+"control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
-"Zgromadź X, gdzie X jest liczbą kart sztuczek i obrzędów w twoim cmentarzu. ("
-"Umieść X znaczników +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
+"Zgromadź X, gdzie X jest liczbą kart sztuczek i obrzędów w twoim cmentarzu. "
+"(Umieść X znaczników +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
 "władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:584
-msgid ":mtgtip:`Leyline Prowler<https://img.scryfall.com/cards/border_crop/front/c/5/c56b4e8f-d48e-4bb0-883d-29f978033f65.jpg?1554293071|https://scryfall.com/card/war/202/leyline-prowler?utm_source=api>`"
+#: ../../WAR.rst:788
+msgid ""
+":mtgtip:`Leyline Prowler<https://img.scryfall.com/cards/border_crop/front/"
+"c/5/c56b4e8f-d48e-4bb0-883d-29f978033f65.jpg?1554293071|https://scryfall.com/"
+"card/war/202/leyline-prowler?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:581
+#: ../../WAR.rst:785
 msgid "Deathtouch, lifelink"
 msgstr "Dotyk śmierci, więź życia"
 
-#: ../../WAR.rst:588
-msgid ":mtgtip:`Mayhem Devil<https://img.scryfall.com/cards/border_crop/front/1/7/17416926-168b-49b3-9231-acbb8f8a1d13.jpg?1554464700|https://scryfall.com/card/war/204/mayhem-devil?utm_source=api>`"
+#: ../../WAR.rst:794
+msgid ""
+":mtgtip:`Living Twister<https://img.scryfall.com/cards/border_crop/front/c/8/"
+"c8d92676-a994-4031-834c-6cf7c43bd170.jpg?1554919425|https://scryfall.com/"
+"card/war/203/living-twister?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:587
-msgid "Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target."
+#: ../../WAR.rst:791
+msgid ""
+"|mana_1|\\ |mana_r|, Discard a land card: Living Twister deals 2 damage to "
+"any target."
+msgstr ""
+
+#: ../../WAR.rst:793
+#, fuzzy
+msgid "|mana_g|: Return a tapped land you control to its owner's hand."
+msgstr ""
+"Przywróć stwora pod twoim władaniem do ręki jego właściciela, następnie "
+"zniszcz wszystkie stwory."
+
+#: ../../WAR.rst:798
+msgid ""
+":mtgtip:`Mayhem Devil<https://img.scryfall.com/cards/border_crop/"
+"front/1/7/17416926-168b-49b3-9231-acbb8f8a1d13.jpg?1554464700|https://"
+"scryfall.com/card/war/204/mayhem-devil?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:797
+msgid ""
+"Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any "
+"target."
 msgstr ""
 "Ilekroć gracz poświęca permanent, niniejszy stwór zadaje 1 obrażenie w "
 "dowolnie wskazany cel."
 
-#: ../../WAR.rst:596
-msgid ":mtgtip:`Merfolk Skydiver<https://img.scryfall.com/cards/border_crop/front/2/b/2bf211eb-837b-4c02-b02e-8d9e62f1abb1.jpg?1554442587|https://scryfall.com/card/war/205/merfolk-skydiver?utm_source=api>`"
+#: ../../WAR.rst:806
+msgid ""
+":mtgtip:`Merfolk Skydiver<https://img.scryfall.com/cards/border_crop/front/2/"
+"b/2bf211eb-837b-4c02-b02e-8d9e62f1abb1.jpg?1554442587|https://scryfall.com/"
+"card/war/205/merfolk-skydiver?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:593
-msgid "When Merfolk Skydiver enters the battlefield, put a +1/+1 counter on target creature you control."
+#: ../../WAR.rst:803
+msgid ""
+"When Merfolk Skydiver enters the battlefield, put a +1/+1 counter on target "
+"creature you control."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
-#: ../../WAR.rst:595
-msgid "|mana_3|\\ |mana_g|\\ |mana_u|: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+#: ../../WAR.rst:805
+msgid ""
+"|mana_3|\\ |mana_g|\\ |mana_u|: Proliferate. (Choose any number of "
+"permanents and/or players, then give each another counter of each kind "
+"already there.)"
 msgstr ""
 "|mana_3|\\ |mana_g|\\ |mana_u|: Rozpleń. (Wybierz dowolną liczbę permanentów "
 "i/lub graczy, następnie daj każdemu z nich kolejny znacznik każdego z już "
 "obecnych tam rodzajów.)"
 
-#: ../../WAR.rst:602
-msgid ":mtgtip:`Neoform<https://img.scryfall.com/cards/border_crop/front/9/2/92d8f67e-4f2f-4a1f-b190-7c3f39e477e4.jpg?1554467042|https://scryfall.com/card/war/206/neoform?utm_source=api>`"
+#: ../../WAR.rst:812
+msgid ""
+":mtgtip:`Neoform<https://img.scryfall.com/cards/border_crop/"
+"front/9/2/92d8f67e-4f2f-4a1f-b190-7c3f39e477e4.jpg?1554467042|https://"
+"scryfall.com/card/war/206/neoform?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:599
+#: ../../WAR.rst:809
 msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
-#: ../../WAR.rst:601
-msgid "Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle your library."
+#: ../../WAR.rst:811
+msgid ""
+"Search your library for a creature card with converted mana cost equal to 1 "
+"plus the sacrificed creature's converted mana cost, put that card onto the "
+"battlefield with an additional +1/+1 counter on it, then shuffle your "
+"library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skróconym koszcie many większym "
 "o 1 od skróconego kosztu many poświęconego stwora, umieść ową kartę na polu "
 "walki z dodatkowym znacznikiem +1/+1, następnie przetasuj twoją bibliotekę."
 
-#: ../../WAR.rst:610
-msgid ":mtgtip:`Ral, Storm Conduit<https://img.scryfall.com/cards/border_crop/front/6/7/678ce3bf-152d-45ca-87ae-ad46c921328b.jpg?1554744439|https://scryfall.com/card/war/211/ral-storm-conduit?utm_source=api>`"
+#: ../../WAR.rst:818
+msgid ""
+":mtgtip:`Niv-Mizzet Reborn<https://img.scryfall.com/cards/border_crop/"
+"front/5/6/56a2609d-b535-400b-81d9-72989a33c70f.jpg?1555083196|https://"
+"scryfall.com/card/war/208/niv-mizzet-reborn?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:605
-msgid "Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker."
+#: ../../WAR.rst:817
+#, fuzzy
+msgid ""
+"When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of "
+"your library. For each color pair, choose a card that's exactly those colors "
+"from among them. Put the chosen cards into your hand and the rest on the "
+"bottom of your library in a random order."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na trzy wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę sztuczki lub obrzędu i "
+"umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
+"dowolnej kolejności."
+
+#: ../../WAR.rst:822
+msgid ""
+":mtgtip:`Pledge of Unity<https://img.scryfall.com/cards/border_crop/front/c/"
+"a/ca9b3518-7fcd-49e2-a4c4-e5daa8be6c21.jpg?1555057182|https://scryfall.com/"
+"card/war/210/pledge-of-unity?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:821
+#, fuzzy
+msgid ""
+"Put a +1/+1 counter on each creature you control. You gain 1 life for each "
+"creature you control."
+msgstr ""
+"-2: Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem oraz "
+"znacznik lojalności na każdym wędrowcu pod twoim władaniem."
+
+#: ../../WAR.rst:830
+msgid ""
+":mtgtip:`Ral, Storm Conduit<https://img.scryfall.com/cards/border_crop/"
+"front/6/7/678ce3bf-152d-45ca-87ae-ad46c921328b.jpg?1554744439|https://"
+"scryfall.com/card/war/211/ral-storm-conduit?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:825
+msgid ""
+"Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit "
+"deals 1 damage to target opponent or planeswalker."
 msgstr ""
 "Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, ten wędrowiec "
 "zadaje wskazanemu przecwinikowi lub wędrowcowi 1 obrażenie."
 
-#: ../../WAR.rst:607
+#: ../../WAR.rst:827
 msgid "+2: Scry 1."
 msgstr "+2: Wróż 1."
 
-#: ../../WAR.rst:609
-msgid "-2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+#: ../../WAR.rst:829
+msgid ""
+"-2: When you cast your next instant or sorcery spell this turn, copy that "
+"spell. You may choose new targets for the copy."
 msgstr ""
 "-2: Kiedy rzucisz swój najbliższy czar sztuczki lub obrzędu w tej turze, "
 "skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
 
-#: ../../WAR.rst:614
-msgid ":mtgtip:`Ral's Outburst<https://img.scryfall.com/cards/border_crop/front/6/b/6be3dd3e-50d2-4729-9caa-b2cd984f4c97.jpg?1554744373|https://scryfall.com/card/war/212/rals-outburst?utm_source=api>`"
+#: ../../WAR.rst:834
+msgid ""
+":mtgtip:`Ral's Outburst<https://img.scryfall.com/cards/border_crop/front/6/"
+"b/6be3dd3e-50d2-4729-9caa-b2cd984f4c97.jpg?1554744373|https://scryfall.com/"
+"card/war/212/rals-outburst?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:613
-msgid "Ral's Outburst deals 3 damage to any target. Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
+#: ../../WAR.rst:833
+msgid ""
+"Ral's Outburst deals 3 damage to any target. Look at the top two cards of "
+"your library. Put one of them into your hand and the other into your "
+"graveyard."
 msgstr ""
 "Ten czar zadaje w dowolnie wskazany cel 3 obrażenia. Spójrz na dwie "
 "wierzchnie karty twojej biblioteki. Umieść jedną z nich w twojej ręce, a "
 "pozostałą w twoim cmentarzu."
 
-#: ../../WAR.rst:622
-msgid ":mtgtip:`Roalesk, Apex Hybrid<https://img.scryfall.com/cards/border_crop/front/d/e/de14b4fd-fb4e-4986-9123-69ae68b5050a.jpg?1554748683|https://scryfall.com/card/war/213/roalesk-apex-hybrid?utm_source=api>`"
+#: ../../WAR.rst:842
+msgid ""
+":mtgtip:`Roalesk, Apex Hybrid<https://img.scryfall.com/cards/border_crop/"
+"front/d/e/de14b4fd-fb4e-4986-9123-69ae68b5050a.jpg?1554870248|https://"
+"scryfall.com/card/war/213/roalesk-apex-hybrid?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:617
+#: ../../WAR.rst:837
 msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
-#: ../../WAR.rst:619
-msgid "When Roalesk, Apex Hybrid enters the battlefield, put two +1/+1 counters on another target creature you control."
+#: ../../WAR.rst:839
+msgid ""
+"When Roalesk, Apex Hybrid enters the battlefield, put two +1/+1 counters on "
+"another target creature you control."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, umieść dwa znaczniki +1/+1 na innym "
 "wskazanym stworze pod twoim władaniem."
 
-#: ../../WAR.rst:621
-msgid "When Roalsk dies, proliferate, then proliferate again. (Choose any number of permanents and/or players, then give each another counter of each kind already there. Then do it again.)"
+#: ../../WAR.rst:841
+#, fuzzy
+msgid ""
+"When Roalesk dies, proliferate, then proliferate again. (Choose any number "
+"of permanents and/or players, then give each another counter of each kind "
+"already there. Then do it again.)"
 msgstr ""
 "Kiedy ten stwór umrze, rozpleń, następnie rozpleń ponownie. (Wybierz dowolną "
 "liczbę permanentów i/lub graczy, następnie daj każdemu z nich kolejny "
 "znacznik każdego z już obecnych tam rodzajów. Następnie powtórz to.)"
 
-#: ../../WAR.rst:626
-msgid ":mtgtip:`Role Reversal<https://img.scryfall.com/cards/border_crop/front/5/9/59b47017-d982-4d4c-94fc-f265a5b7f36a.jpg?1554477005|https://scryfall.com/card/war/214/role-reversal?utm_source=api>`"
+#: ../../WAR.rst:846
+msgid ""
+":mtgtip:`Role Reversal<https://img.scryfall.com/cards/border_crop/"
+"front/5/9/59b47017-d982-4d4c-94fc-f265a5b7f36a.jpg?1554477005|https://"
+"scryfall.com/card/war/214/role-reversal?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:625
+#: ../../WAR.rst:845
 msgid "Exchange control of two target permanents that share a permanent type."
 msgstr ""
 "Zamień władanie nad dwoma wskazanymi permanentami o tym samym typie "
 "permanentu."
 
-#: ../../WAR.rst:630
-msgid ":mtgtip:`Solar Blaze<https://img.scryfall.com/cards/border_crop/front/e/b/eb72ba0f-ab3a-41e6-906d-a84039efa0af.jpg?1554729007|https://scryfall.com/card/war/216/solar-blaze?utm_source=api>`"
+#: ../../WAR.rst:850
+msgid ""
+":mtgtip:`Solar Blaze<https://img.scryfall.com/cards/border_crop/front/e/b/"
+"eb72ba0f-ab3a-41e6-906d-a84039efa0af.jpg?1554729007|https://scryfall.com/"
+"card/war/216/solar-blaze?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:629
+#: ../../WAR.rst:849
 msgid "Each creature deals damage to itself equal to its power."
 msgstr "Każdy stwór zadaje sobie obrażenia równe swojej sile."
 
-#: ../../WAR.rst:638
-msgid ":mtgtip:`Sorin, Vengeful Bloodlord<https://img.scryfall.com/cards/border_crop/front/3/5/354fe9bd-4ec8-409c-8ce5-b29393f3d169.jpg?1554315474|https://scryfall.com/card/war/217/sorin-vengeful-bloodlord?utm_source=api>`"
+#: ../../WAR.rst:858
+msgid ""
+":mtgtip:`Sorin, Vengeful Bloodlord<https://img.scryfall.com/cards/"
+"border_crop/front/3/5/354fe9bd-4ec8-409c-8ce5-b29393f3d169.jpg?1554315474|"
+"https://scryfall.com/card/war/217/sorin-vengeful-bloodlord?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:633
-msgid "As long as it's your turn, creatures and planeswalkers you control have lifelink."
+#: ../../WAR.rst:853
+msgid ""
+"As long as it's your turn, creatures and planeswalkers you control have "
+"lifelink."
 msgstr ""
 "O ile jest twoja tura, stwory i wędrowcy pod twoim władaniem mają więź życia."
 
-#: ../../WAR.rst:635
-msgid "+2: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker."
+#: ../../WAR.rst:855
+msgid ""
+"+2: Sorin, Vengeful Bloodlord deals 1 damage to target player or "
+"planeswalker."
 msgstr ""
 "+2: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie."
 
-#: ../../WAR.rst:637
-msgid "-X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types."
+#: ../../WAR.rst:857
+msgid ""
+"-X: Return target creature card with converted mana cost X from your "
+"graveyard to the battlefield. That creature is a Vampire in addition to its "
+"other types."
 msgstr ""
 "-X: Przywróć wskazaną kartę stwora o skróconym koszcie many równym X z "
 "twojego cmentarza na pole walki. Ów stwór jest dodatkowo Wampirem oprócz "
 "swoich pozostałych typów."
 
-#: ../../WAR.rst:644
-msgid ":mtgtip:`Storrev, Devkarin Lich<https://img.scryfall.com/cards/border_crop/front/5/9/59c906bd-f443-4f4b-b40b-9218e71f1196.jpg?1554255648|https://scryfall.com/card/war/219/storrev-devkarin-lich?utm_source=api>`"
+#: ../../WAR.rst:864
+msgid ""
+":mtgtip:`Storrev, Devkarin Lich<https://img.scryfall.com/cards/border_crop/"
+"front/5/9/59c906bd-f443-4f4b-b40b-9218e71f1196.jpg?1554255648|https://"
+"scryfall.com/card/war/219/storrev-devkarin-lich?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:643
-msgid "Whenever Storrev, Devkarin Lich deals combat damage to a player or planeswalker, return to your hand target creature or planeswalker card in your graveyard that wasn't put there this combat."
+#: ../../WAR.rst:863
+msgid ""
+"Whenever Storrev, Devkarin Lich deals combat damage to a player or "
+"planeswalker, return to your hand target creature or planeswalker card in "
+"your graveyard that wasn't put there this combat."
 msgstr ""
 "Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, przywróć do "
 "twojej ręki wskazaną kartę stwora lub wędrowca w twoim cmentarzu, które nie "
 "została tam umieszczona w tej walce."
 
-#: ../../WAR.rst:652
-msgid ":mtgtip:`Teferi, Time Raveler<https://img.scryfall.com/cards/border_crop/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1554225533|https://scryfall.com/card/war/221/teferi-time-raveler?utm_source=api>`"
+#: ../../WAR.rst:872
+msgid ""
+":mtgtip:`Tamiyo, Collector of Tales<https://img.scryfall.com/cards/"
+"border_crop/front/7/6/76776b24-a2e1-4590-88e7-8a421baf2fc4.jpg?1554991900|"
+"https://scryfall.com/card/war/220/tamiyo-collector-of-tales?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:647
+#: ../../WAR.rst:867
+msgid ""
+"Spells and abilities your opponents control can't cause you to discard cards "
+"or sacrifice permanents."
+msgstr ""
+
+#: ../../WAR.rst:869
+#, fuzzy
+msgid ""
+"+1: Choose a nonland card name, then reveal the top four cards of your "
+"library. Put all cards with the chosen name from among them into your hand "
+"and the rest into your graveyard."
+msgstr ""
+"Ten czar zadaje w dowolnie wskazany cel 3 obrażenia. Spójrz na dwie "
+"wierzchnie karty twojej biblioteki. Umieść jedną z nich w twojej ręce, a "
+"pozostałą w twoim cmentarzu."
+
+#: ../../WAR.rst:871
+#, fuzzy
+msgid "-3: Return target card from your graveyard to your hand."
+msgstr ""
+"-3: Przywróć wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
+
+#: ../../WAR.rst:880
+msgid ""
+":mtgtip:`Teferi, Time Raveler<https://img.scryfall.com/cards/border_crop/"
+"front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1554225533|https://"
+"scryfall.com/card/war/221/teferi-time-raveler?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:875
 msgid "Each opponent can cast spells only any time they could cast a sorcery."
 msgstr "Każdy przeciwnik może rzucać czary tylko jako obrzędy."
 
-#: ../../WAR.rst:649
-msgid "+1: Until your next turn, you may cast sorcery spells as though they had flash."
+#: ../../WAR.rst:877
+msgid ""
+"+1: Until your next turn, you may cast sorcery spells as though they had "
+"flash."
 msgstr ""
 "+1: Do twojej następnej tury możesz rzucać czary obrzędu tak, jakby miały "
 "błysk."
 
-#: ../../WAR.rst:651
-msgid "-3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card."
+#: ../../WAR.rst:879
+msgid ""
+"-3: Return up to one target artifact, creature, or enchantment to its "
+"owner's hand. Draw a card."
 msgstr ""
 "-3: Przywróć co najwyżej jeden wskazany artefakt, stwora lub urok do ręki "
 "jego właściciela. Dobierz kartę."
 
-#: ../../WAR.rst:658
-msgid ":mtgtip:`Tenth District Legionnaire<https://img.scryfall.com/cards/border_crop/front/4/4/44f3090b-917b-4122-b522-27c30dca8e69.jpg?1554467019|https://scryfall.com/card/war/222/tenth-district-legionnaire?utm_source=api>`"
+#: ../../WAR.rst:886
+msgid ""
+":mtgtip:`Tenth District Legionnaire<https://img.scryfall.com/cards/"
+"border_crop/front/4/4/44f3090b-917b-4122-b522-27c30dca8e69.jpg?1554467019|"
+"https://scryfall.com/card/war/222/tenth-district-legionnaire?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:657
-msgid "Whenever you cast a spell that targets Tenth District Legionnaire, put a +1/+1 counter on Tenth District Legionnaire, then scry 1."
+#: ../../WAR.rst:885
+msgid ""
+"Whenever you cast a spell that targets Tenth District Legionnaire, put a +1/"
+"+1 counter on Tenth District Legionnaire, then scry 1."
 msgstr ""
 "Ilekroć rzucasz czar wskazujący tego stwora, umieść na nim znacznik +1/+1, "
 "następnie wróż 1."
 
-#: ../../WAR.rst:662
-msgid ":mtgtip:`Time Wipe<https://img.scryfall.com/cards/border_crop/front/6/2/62c59475-6f15-48d2-b105-f49901f20d44.jpg?1554039742|https://scryfall.com/card/war/223/time-wipe?utm_source=api>`"
+#: ../../WAR.rst:890
+msgid ""
+":mtgtip:`Time Wipe<https://img.scryfall.com/cards/border_crop/"
+"front/6/2/62c59475-6f15-48d2-b105-f49901f20d44.jpg?1554039742|https://"
+"scryfall.com/card/war/223/time-wipe?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:661
-msgid "Return a creature you control to its owner's hand, then destroy all creatures."
+#: ../../WAR.rst:889
+msgid ""
+"Return a creature you control to its owner's hand, then destroy all "
+"creatures."
 msgstr ""
 "Przywróć stwora pod twoim władaniem do ręki jego właściciela, następnie "
 "zniszcz wszystkie stwory."
 
-#: ../../WAR.rst:668
-msgid ":mtgtip:`Tolsimir, Friend to Wolves<https://img.scryfall.com/cards/border_crop/front/f/7/f7fce047-49f1-40ae-8410-6501cb0f8201.jpg?1554409416|https://scryfall.com/card/war/224/tolsimir-friend-to-wolves?utm_source=api>`"
+#: ../../WAR.rst:896
+msgid ""
+":mtgtip:`Tolsimir, Friend to Wolves<https://img.scryfall.com/cards/"
+"border_crop/front/f/7/f7fce047-49f1-40ae-8410-6501cb0f8201.jpg?1554409416|"
+"https://scryfall.com/card/war/224/tolsimir-friend-to-wolves?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:665
-msgid "When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token."
+#: ../../WAR.rst:893
+msgid ""
+"When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend "
+"to Elves, a legendary 3/3 green and white Wolf creature token."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwórz Voja, Przyjaciela Elfów, żeton "
 "legendarnego zielonego stwora 3/3 typu Wilk."
 
-#: ../../WAR.rst:667
-msgid "Whenever a Wolf enters the battlefield under your control, you gain 3 life and that creature fights up to one target creature an opponent controls."
+#: ../../WAR.rst:895
+msgid ""
+"Whenever a Wolf enters the battlefield under your control, you gain 3 life "
+"and that creature fights up to one target creature an opponent controls."
 msgstr ""
 "Ilekroć Wilk wejdzie na pole walki pod twoim władaniem, zyskujesz 3 życia, a "
 "ów stwór walczy z co najwyżej jednym wskazanym stworem pod władaniem "
 "przeciwnika."
 
-#: ../../WAR.rst:672
-msgid ":mtgtip:`Widespread Brutality<https://img.scryfall.com/cards/border_crop/front/9/7/97715d22-f432-4f67-b4ea-47b8fe6edca5.jpg?1554225527|https://scryfall.com/card/war/226/widespread-brutality?utm_source=api>`"
+#: ../../WAR.rst:900
+msgid ""
+":mtgtip:`Widespread Brutality<https://img.scryfall.com/cards/border_crop/"
+"front/9/7/97715d22-f432-4f67-b4ea-47b8fe6edca5.jpg?1554225527|https://"
+"scryfall.com/card/war/226/widespread-brutality?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:671
-msgid "Amass 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass 2, put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:899
+msgid ""
+"Amass 2, then the Army you amassed deals damage equal to its power to each "
+"non-Army creature. (To amass 2, put two +1/+1 counters on an Army you "
+"control. If you don't control one, create a 0/0 black Zombie Army creature "
+"token first.)"
 msgstr ""
 "Zgromadź 2, następnie zgromadzona Armia zadaje obrażenia równe swojej sile "
-"każdemu stworowi nie będącemu Armią. (By zgromadzić 2, umieść dwa znaczniki +"
-"1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"każdemu stworowi nie będącemu Armią. (By zgromadzić 2, umieść dwa znaczniki "
+"+1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
 "żeton czarnego stwora Armia Zombich 0/0.)"
 
-#: ../../WAR.rst:678
-msgid ":mtgtip:`Angrath, Captain of Chaos<https://img.scryfall.com/cards/border_crop/front/a/a/aa3a4cb5-945e-4caf-8a18-1ef977879fe8.jpg?1554287122|https://scryfall.com/card/war/227/angrath-captain-of-chaos?utm_source=api>`"
+#: ../../WAR.rst:906
+msgid ""
+":mtgtip:`Angrath, Captain of Chaos<https://img.scryfall.com/cards/"
+"border_crop/front/a/a/aa3a4cb5-945e-4caf-8a18-1ef977879fe8.jpg?1554287122|"
+"https://scryfall.com/card/war/227/angrath-captain-of-chaos?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:675
+#: ../../WAR.rst:903
 msgid "Creatures you control have menace."
 msgstr "Stwory pod twoim władaniem mają złowrogość."
 
-#: ../../WAR.rst:677
-msgid "-2: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)"
+#: ../../WAR.rst:905
+msgid ""
+"-2: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't "
+"control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "-2: Zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod twoim władaniem. "
 "Jeśli żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich "
 "0/0.)"
 
-#: ../../WAR.rst:684
-msgid ":mtgtip:`Kaya, Bane of the Dead<https://img.scryfall.com/cards/border_crop/front/a/9/a9b575d3-f3f9-4ff4-8e5c-da7c2ec69882.jpg?1554225485|https://scryfall.com/card/war/231/kaya-bane-of-the-dead?utm_source=api>`"
+#: ../../WAR.rst:912
+msgid ""
+":mtgtip:`Dovin, Hand of Control<https://img.scryfall.com/cards/border_crop/"
+"front/b/d/bd6ff745-919b-4688-9e9e-ab7835b3b891.jpg?1554813619|https://"
+"scryfall.com/card/war/229/dovin-hand-of-control?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:681
-msgid "Your opponents and permanents your opponents control with hexproof can be the target of spells and abilities you control as though they didn't have hexproof."
+#: ../../WAR.rst:909
+#, fuzzy
+msgid ""
+"Artifact, instant, and sorcery spells your opponents cast cost |mana_1| more "
+"to cast."
+msgstr "Rzucanie czarów kosztuje twoich przeciwników o |mana_2| więcej."
+
+#: ../../WAR.rst:911
+#, fuzzy
+msgid ""
+"-1: Until your next turn, prevent all damage that would be dealt to and "
+"dealt by target permanent an opponent controls."
+msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane tobie i "
+"innym permanentom pod twoim władaniem."
+
+#: ../../WAR.rst:918
+msgid ""
+":mtgtip:`Kaya, Bane of the Dead<https://img.scryfall.com/cards/border_crop/"
+"front/a/9/a9b575d3-f3f9-4ff4-8e5c-da7c2ec69882.jpg?1554225485|https://"
+"scryfall.com/card/war/231/kaya-bane-of-the-dead?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:915
+msgid ""
+"Your opponents and permanents your opponents control with hexproof can be "
+"the target of spells and abilities you control as though they didn't have "
+"hexproof."
 msgstr ""
 "Twoi przeciwnicy i permanenty pod władaniem twoich przeciwników z antyklątwą "
 "mogą być wskazywani przez czary i zdolności pod twoim władaniem tak, jakby "
 "nie miały antyklątwy."
 
-#: ../../WAR.rst:683
+#: ../../WAR.rst:917
 msgid "-3: Exile target creature."
 msgstr "-3: Wygnaj wskazanego stwora."
 
-#: ../../WAR.rst:690
-msgid ":mtgtip:`Kiora, Behemoth Beckoner<https://img.scryfall.com/cards/border_crop/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.jpg?1554225601|https://scryfall.com/card/war/232/kiora-behemoth-beckoner?utm_source=api>`"
+#: ../../WAR.rst:924
+msgid ""
+":mtgtip:`Kiora, Behemoth Beckoner<https://img.scryfall.com/cards/border_crop/"
+"front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.jpg?1554225601|https://"
+"scryfall.com/card/war/232/kiora-behemoth-beckoner?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:687
-msgid "Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card."
+#: ../../WAR.rst:921
+msgid ""
+"Whenever a creature with power 4 or greater enters the battlefield under "
+"your control, draw a card."
 msgstr ""
 "Ilekroć stwór o sile 4 lub większej wejdzie na pole walki pod twoim "
 "władaniem, dobierz kartę."
 
-#: ../../WAR.rst:689
+#: ../../WAR.rst:923
 msgid "-1: Untap target permanent."
 msgstr "-1: Odkręć wskazany permanent."
 
-#: ../../WAR.rst:696
-msgid ":mtgtip:`Nahiri, Storm of Stone<https://img.scryfall.com/cards/border_crop/front/8/8/8806605c-0cb7-4360-96e4-afb424ccad90.jpg?1554780694|https://scryfall.com/card/war/233/nahiri-storm-of-stone?utm_source=api>`"
+#: ../../WAR.rst:930
+msgid ""
+":mtgtip:`Nahiri, Storm of Stone<https://img.scryfall.com/cards/border_crop/"
+"front/8/8/8806605c-0cb7-4360-96e4-afb424ccad90.jpg?1554780694|https://"
+"scryfall.com/card/war/233/nahiri-storm-of-stone?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:693
-msgid "As long as it's your turn, creatures you control have first strike and equip abilities you activate cost |mana_1| less to activate."
+#: ../../WAR.rst:927
+msgid ""
+"As long as it's your turn, creatures you control have first strike and equip "
+"abilities you activate cost |mana_1| less to activate."
 msgstr ""
 "O ile jest twoja tura, stwory pod twoim władaniem mają pierwszy cios, a "
 "wyposażanie kosztuje cię o |mana_1| mniej."
 
-#: ../../WAR.rst:695
+#: ../../WAR.rst:929
 msgid "-X: Nahiri, Storm of Stone deals X damage to target tapped creature."
 msgstr "-X: Ten wędrowiec zadaje wskazanemu przekręconemu stworowi X obrażeń."
 
-#: ../../WAR.rst:702
-msgid ":mtgtip:`Samut, Tyrant Smasher<https://img.scryfall.com/cards/border_crop/front/e/0/e0457e3f-56c1-401b-8e08-f04b95c55e2d.jpg?1554225697|https://scryfall.com/card/war/235/samut-tyrant-smasher?utm_source=api>`"
+#: ../../WAR.rst:936
+msgid ""
+":mtgtip:`Saheeli, Sublime Artificer<https://img.scryfall.com/cards/"
+"border_crop/front/5/a/5a10b543-d5d4-42a8-9ee8-dada59a2ad7e.jpg?1554813351|"
+"https://scryfall.com/card/war/234/saheeli-sublime-artificer?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:699
+#: ../../WAR.rst:933
+#, fuzzy
+msgid ""
+"Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact "
+"creature token."
+msgstr ""
+"Ilekroć rzucasz czar nie będący stworem, umieść znacznik +1/+1 na tym "
+"stworze."
+
+#: ../../WAR.rst:935
+msgid ""
+"-2: Target artifact you control becomes a copy of another target artifact or "
+"creature you control until end of turn, except it's an artifact in addition "
+"to its other types."
+msgstr ""
+
+#: ../../WAR.rst:942
+msgid ""
+":mtgtip:`Samut, Tyrant Smasher<https://img.scryfall.com/cards/border_crop/"
+"front/e/0/e0457e3f-56c1-401b-8e08-f04b95c55e2d.jpg?1554225697|https://"
+"scryfall.com/card/war/235/samut-tyrant-smasher?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:939
 msgid "Creatures you control have haste."
 msgstr "Stwory pod twoim władaniem mają pośpiech."
 
-#: ../../WAR.rst:701
-msgid "-1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
+#: ../../WAR.rst:941
+msgid ""
+"-1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
 msgstr "-1: Wskazany stwór dostaje do końca tury +2/+1 i pośpiech. Wróż 1."
 
-#: ../../WAR.rst:708
-msgid ":mtgtip:`Vraska, Swarm's Eminence<https://img.scryfall.com/cards/border_crop/front/5/9/59ee2974-07e9-4506-903c-457cb7327dd8.jpg?1554225559|https://scryfall.com/card/war/236/vraska-swarms-eminence?utm_source=api>`"
+#: ../../WAR.rst:948
+msgid ""
+":mtgtip:`Vraska, Swarm's Eminence<https://img.scryfall.com/cards/border_crop/"
+"front/5/9/59ee2974-07e9-4506-903c-457cb7327dd8.jpg?1554225559|https://"
+"scryfall.com/card/war/236/vraska-swarms-eminence?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:705
-msgid "Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature."
+#: ../../WAR.rst:945
+msgid ""
+"Whenever a creature you control with deathtouch deals damage to a player or "
+"planeswalker, put a +1/+1 counter on that creature."
 msgstr ""
 "Ilekroć mający dotyk śmierci stwór pod twoim władaniem zada obrażenia "
 "graczowi lub wędrowcowi, umieść znacznik +1/+1 na owym stworze."
 
-#: ../../WAR.rst:707
-msgid "-2: Create a 1/1 black Assassin creature token with deathtouch and \"Whenever this creature deals damage to a planeswalker, destroy that planeswalker.\""
+#: ../../WAR.rst:947
+msgid ""
+"-2: Create a 1/1 black Assassin creature token with deathtouch and "
+"\"Whenever this creature deals damage to a planeswalker, destroy that "
+"planeswalker.\""
 msgstr ""
-"-2: Stwórz żeton czarnego stwora Zabójca 1/1 z dotykiem śmierci oraz \""
-"Ilekroć ten stwór zada obrażenia wędrowcowi, zniszcz owego wędrowca.\""
+"-2: Stwórz żeton czarnego stwora Zabójca 1/1 z dotykiem śmierci oraz "
+"\"Ilekroć ten stwór zada obrażenia wędrowcowi, zniszcz owego wędrowca.\""
 
-#: ../../WAR.rst:714
-msgid ":mtgtip:`God-Pharaoh's Statue<https://img.scryfall.com/cards/border_crop/front/7/d/7dce06ba-c1e1-45ec-82a7-fc10b0fa8870.jpg?1554297019|https://scryfall.com/card/war/238/god-pharaohs-statue?utm_source=api>`"
+#: ../../WAR.rst:954
+msgid ""
+":mtgtip:`Firemind Vessel<https://img.scryfall.com/cards/border_crop/front/e/"
+"c/ec0ebb6b-d35a-47db-8071-7fef2a46c17b.jpg?1555098557|https://scryfall.com/"
+"card/war/237/firemind-vessel?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:711
+#: ../../WAR.rst:951
+#, fuzzy
+msgid "Firemind Vessel enters the battlefield tapped."
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
+
+#: ../../WAR.rst:953
+#, fuzzy
+msgid "|tap|: Add two mana of different colors."
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+
+#: ../../WAR.rst:960
+msgid ""
+":mtgtip:`God-Pharaoh's Statue<https://img.scryfall.com/cards/border_crop/"
+"front/7/d/7dce06ba-c1e1-45ec-82a7-fc10b0fa8870.jpg?1554297019|https://"
+"scryfall.com/card/war/238/god-pharaohs-statue?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:957
 msgid "Spells your opponents cast cost |mana_2| more to cast."
 msgstr "Rzucanie czarów kosztuje twoich przeciwników o |mana_2| więcej."
 
-#: ../../WAR.rst:713
+#: ../../WAR.rst:959
 msgid "At the beginning of your end step, each opponent loses 1 life."
 msgstr "Na początku twojego kroku końcowego, każdy przeciwnik traci 1 życie."
 
-#: ../../WAR.rst:720
-msgid ":mtgtip:`Iron Bully<https://img.scryfall.com/cards/border_crop/front/d/e/ded2c66e-402c-4d5c-b987-402679aa914b.jpg?1554467057|https://scryfall.com/card/war/240/iron-bully?utm_source=api>`"
+#: ../../WAR.rst:966
+msgid ""
+":mtgtip:`Iron Bully<https://img.scryfall.com/cards/border_crop/front/d/e/"
+"ded2c66e-402c-4d5c-b987-402679aa914b.jpg?1554467057|https://scryfall.com/"
+"card/war/240/iron-bully?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:717
-msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+#: ../../WAR.rst:963
+msgid ""
+"Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
 "Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
 "dwa stwory.)"
 
-#: ../../WAR.rst:719
-msgid "When Iron Bully enters the battlefield, put a +1/+1 counter on target creature."
+#: ../../WAR.rst:965
+msgid ""
+"When Iron Bully enters the battlefield, put a +1/+1 counter on target "
+"creature."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
-#: ../../WAR.rst:726
-msgid ":mtgtip:`Emergence Zone<https://img.scryfall.com/cards/border_crop/front/a/b/ab95f6e7-b806-47fe-a071-6c38b3176d94.jpg?1554225716|https://scryfall.com/card/war/245/emergence-zone?utm_source=api>`"
+#: ../../WAR.rst:972
+msgid ""
+":mtgtip:`Saheeli's Silverwing<https://img.scryfall.com/cards/border_crop/"
+"front/d/b/dba77c07-5d23-4a1a-90a0-b8293848d637.jpg?1554813432|https://"
+"scryfall.com/card/war/243/saheelis-silverwing?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:723
-#: ../../WAR.rst:731
-#: ../../WAR.rst:737
-#: ../../WAR.rst:743
+#: ../../WAR.rst:971
+#, fuzzy
+msgid ""
+"When Saheeli's Silverwing enters the battlefield, look at the top card of "
+"target opponent's library."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
+
+#: ../../WAR.rst:978
+msgid ""
+":mtgtip:`Emergence Zone<https://img.scryfall.com/cards/border_crop/front/a/b/"
+"ab95f6e7-b806-47fe-a071-6c38b3176d94.jpg?1554225716|https://scryfall.com/"
+"card/war/245/emergence-zone?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:975 ../../WAR.rst:983 ../../WAR.rst:989 ../../WAR.rst:995
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
-#: ../../WAR.rst:725
-msgid "|mana_1|, |tap|, Sacrifice Emergence Zone: You may cast spells this turn as though they had flash."
+#: ../../WAR.rst:977
+msgid ""
+"|mana_1|, |tap|, Sacrifice Emergence Zone: You may cast spells this turn as "
+"though they had flash."
 msgstr ""
 "|mana_1|, |tap|, poświęć ten ląd: W tej turze możesz rzucać czary tak, jakby "
 "miały błysk."
 
-#: ../../WAR.rst:734
-msgid ":mtgtip:`Interplanar Beacon<https://img.scryfall.com/cards/border_crop/front/1/3/132d8e2a-e1dd-4867-8e8c-e48b9450b350.jpg?1554225805|https://scryfall.com/card/war/247/interplanar-beacon?utm_source=api>`"
+#: ../../WAR.rst:986
+msgid ""
+":mtgtip:`Interplanar Beacon<https://img.scryfall.com/cards/border_crop/"
+"front/1/3/132d8e2a-e1dd-4867-8e8c-e48b9450b350.jpg?1554225805|https://"
+"scryfall.com/card/war/247/interplanar-beacon?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:729
+#: ../../WAR.rst:981
 msgid "Whenever you cast a planeswalker spell, you gain 1 life."
 msgstr "Ilekroć rzucisz czar wędrowca, zyskujesz 1 życie."
 
-#: ../../WAR.rst:733
-msgid "|mana_1|, |tap|: Add two mana of different colors. Spend this mana only to cast planeswalker spells."
+#: ../../WAR.rst:985
+msgid ""
+"|mana_1|, |tap|: Add two mana of different colors. Spend this mana only to "
+"cast planeswalker spells."
 msgstr ""
 "|mana_1|, |tap|: Dostajesz dwie many o różnych kolorach. Wydaj ową manę "
 "tylko na rzucanie czarów wędrowców."
 
-#: ../../WAR.rst:740
-msgid ":mtgtip:`Karn's Bastion<https://img.scryfall.com/cards/border_crop/front/b/9/b9d895af-7e8c-419f-bc5d-5596083fbfb6.jpg?1554227704|https://scryfall.com/card/war/248/karns-bastion?utm_source=api>`"
+#: ../../WAR.rst:992
+msgid ""
+":mtgtip:`Karn's Bastion<https://img.scryfall.com/cards/border_crop/front/b/9/"
+"b9d895af-7e8c-419f-bc5d-5596083fbfb6.jpg?1554227704|https://scryfall.com/"
+"card/war/248/karns-bastion?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:739
-msgid "|mana_4|, |tap|: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+#: ../../WAR.rst:991
+msgid ""
+"|mana_4|, |tap|: Proliferate. (Choose any number of permanents and/or "
+"players, then give each another counter of each kind already there.)"
 msgstr ""
 "|mana_4|, |tap|: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, "
 "następnie daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
 "rodzajów.)"
 
-#: ../../WAR.rst:746
-msgid ":mtgtip:`Mobilized District<https://img.scryfall.com/cards/border_crop/front/2/1/214792e9-a172-4547-b148-b9b368cb3432.jpg?1554726082|https://scryfall.com/card/war/249/mobilized-district?utm_source=api>`"
+#: ../../WAR.rst:998
+msgid ""
+":mtgtip:`Mobilized District<https://img.scryfall.com/cards/border_crop/"
+"front/2/1/214792e9-a172-4547-b148-b9b368cb3432.jpg?1554726082|https://"
+"scryfall.com/card/war/249/mobilized-district?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:745
-msgid "|mana_4|: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs |mana_1| less to activate for each legendary creature and planeswalker you control."
+#: ../../WAR.rst:997
+msgid ""
+"|mana_4|: Mobilized District becomes a 3/3 Citizen creature with vigilance "
+"until end of turn. It's still a land. This ability costs |mana_1| less to "
+"activate for each legendary creature and planeswalker you control."
 msgstr ""
 "|mana_4|: Ten ląd do końca tury staje się stworem Mieszkaniec 3/3 z "
 "czujnością. Nadal jest lądem. Aktywacja tej zdolności kosztuje o |mana_1| "
 "mniej za każdego legendarnego stwora lub wędrowca pod twoim władaniem."
 
-#: ../../WAR.rst:750
-msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/d/9/d92ef517-2417-43a2-8b1a-0673d1531c65.jpg?1554143744|https://scryfall.com/card/war/250/plains?utm_source=api>`"
+#: ../../WAR.rst:1002
+msgid ""
+":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/d/9/"
+"d92ef517-2417-43a2-8b1a-0673d1531c65.jpg?1554143744|https://scryfall.com/"
+"card/war/250/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:749
+#: ../../WAR.rst:1001
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
-#: ../../WAR.rst:754
-msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/7/0/7014b9fc-a906-4ffd-a482-22ba8dbe3b4a.jpg?1554143753|https://scryfall.com/card/war/253/island?utm_source=api>`"
+#: ../../WAR.rst:1006
+msgid ""
+":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/"
+"front/7/0/7014b9fc-a906-4ffd-a482-22ba8dbe3b4a.jpg?1554143753|https://"
+"scryfall.com/card/war/253/island?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:753
+#: ../../WAR.rst:1005
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
-#: ../../WAR.rst:758
-msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/2/4/24eeb424-235d-4346-9355-57914e740ec6.jpg?1554143736|https://scryfall.com/card/war/256/swamp?utm_source=api>`"
+#: ../../WAR.rst:1010
+msgid ""
+":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/"
+"front/2/4/24eeb424-235d-4346-9355-57914e740ec6.jpg?1554143736|https://"
+"scryfall.com/card/war/256/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:757
+#: ../../WAR.rst:1009
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
-#: ../../WAR.rst:762
-msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/4/8/489fdba7-5c25-4cf3-a1e0-3e0fda6c6ee6.jpg?1554725858|https://scryfall.com/card/war/259/mountain?utm_source=api>`"
+#: ../../WAR.rst:1014
+msgid ""
+":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/"
+"front/4/8/489fdba7-5c25-4cf3-a1e0-3e0fda6c6ee6.jpg?1554725858|https://"
+"scryfall.com/card/war/259/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:761
+#: ../../WAR.rst:1013
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
-#: ../../WAR.rst:766
-msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/a/9/a9d61651-349e-40d0-a7c4-c9561e190405.jpg?1554143719|https://scryfall.com/card/war/262/forest?utm_source=api>`"
+#: ../../WAR.rst:1018
+msgid ""
+":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/a/9/"
+"a9d61651-349e-40d0-a7c4-c9561e190405.jpg?1554143719|https://scryfall.com/"
+"card/war/262/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:765
+#: ../../WAR.rst:1017
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_g|.)"
 
-#: ../../WAR.rst:775
-msgid ":mtgtip:`Tezzeret, Master of the Bridge<https://img.scryfall.com/cards/border_crop/front/9/e/9ee1eea2-961f-445d-b035-6baed454f289.jpg?1554153236|https://scryfall.com/card/war/275/tezzeret-master-of-the-bridge?utm_source=api>`"
+#: ../../WAR.rst:1026
+msgid ""
+":mtgtip:`Gideon, the Oathsworn<https://img.scryfall.com/cards/border_crop/"
+"front/4/3/43e7331d-98b8-420f-a346-3f3521c3b258.jpg?1555210231|https://"
+"scryfall.com/card/war/265/gideon-the-oathsworn?utm_source=api>`"
 msgstr ""
 
-#: ../../WAR.rst:769
+#: ../../WAR.rst:1021
+#, fuzzy
+msgid ""
+"Whenever you attack with two or more non-Gideon creatures, put a +1/+1 "
+"counter on each of those creatures."
+msgstr ""
+"Ilekroć rzucasz czar nie będący stworem, umieść znacznik +1/+1 na tym "
+"stworze."
+
+#: ../../WAR.rst:1023
+msgid ""
+"+2: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier "
+"creature that's still a planeswalker. Prevent all damage that would be dealt "
+"to him this turn. (He can't attack if he was cast this turn.)"
+msgstr ""
+
+#: ../../WAR.rst:1025
+msgid ""
+"-9: Exile Gideon, the Oathsworn and each creature your opponents control."
+msgstr ""
+
+#: ../../WAR.rst:1030
+msgid ""
+":mtgtip:`Desperate Lunge<https://img.scryfall.com/cards/border_crop/"
+"front/6/9/69ce134a-25ef-4f8d-a385-7c29fc5707dc.jpg?1555021038|https://"
+"scryfall.com/card/war/266/desperate-lunge?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:1029
+#, fuzzy
+msgid ""
+"Target creature gets +2/+2 and gains flying until end of turn. You gain 2 "
+"life."
+msgstr "Wskazany stwór dostaje +2/+1 i zyskuje pośpiech do końca tury. Wróż 1."
+
+#: ../../WAR.rst:1034
+msgid ""
+":mtgtip:`Gideon's Battle Cry<https://img.scryfall.com/cards/border_crop/"
+"front/5/2/52de8fc6-6d9b-402e-a6c8-4c39b0c92f07.jpg?1555006950|https://"
+"scryfall.com/card/war/267/gideons-battle-cry?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:1033
+msgid ""
+"Put a +1/+1 counter on each creature you control. You may search your "
+"library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, "
+"and put it into your hand. If you search your library this way, shuffle it."
+msgstr ""
+
+#: ../../WAR.rst:1040
+msgid ""
+":mtgtip:`Gideon's Company<https://img.scryfall.com/cards/border_crop/front/"
+"a/0/a0a64d2e-8b89-4642-84c2-b01dfe11312e.jpg?1555010306|https://scryfall.com/"
+"card/war/268/gideons-company?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:1037
+#, fuzzy
+msgid "Whenever you gain life, put two +1/+1 counters on Gideon's Company."
+msgstr "Ilekroć zyskasz życie, umieść znacznik +1/+1 na tym stworze."
+
+#: ../../WAR.rst:1039
+msgid ""
+"|mana_3|\\ |mana_w|: Put a loyalty counter on target Gideon planeswalker."
+msgstr ""
+
+#: ../../WAR.rst:1046
+msgid ""
+":mtgtip:`Orzhov Guildgate<https://img.scryfall.com/cards/border_crop/front/c/"
+"b/cbadf8cf-02bf-45f6-b3c1-a684d9bc5228.jpg?1555010167|https://scryfall.com/"
+"card/war/269/orzhov-guildgate?utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:1043
+#, fuzzy
+msgid "Orzhov Guildgate enters the battlefield tapped."
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
+
+#: ../../WAR.rst:1045
+#, fuzzy
+msgid "|tap|: Add |mana_w| or |mana_b|."
+msgstr "(|tap|: Dostajesz |mana_b|.)"
+
+#: ../../WAR.rst:1055
+msgid ""
+":mtgtip:`Tezzeret, Master of the Bridge<https://img.scryfall.com/cards/"
+"border_crop/front/9/e/9ee1eea2-961f-445d-b035-6baed454f289.jpg?1554786819|"
+"https://scryfall.com/card/war/275/tezzeret-master-of-the-bridge?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../WAR.rst:1049
 msgid "Creature and planeswalker spells you cast have affinity for artifacts."
 msgstr ""
 "Rzucane przez ciebie czary stworów i wędrowców mają koligację z artefaktami."
 
-#: ../../WAR.rst:771
-msgid "+2: Tezzeret, Master of the Bridge deals X damage to each opponent, where X is the number of artifacts you control. You gain X life."
+#: ../../WAR.rst:1051
+msgid ""
+"+2: Tezzeret, Master of the Bridge deals X damage to each opponent, where X "
+"is the number of artifacts you control. You gain X life."
 msgstr ""
 "+2: Ten wędrowiec zadaje każdemu przeciwnikowi X obrażeń, gdzie X jest "
 "liczbą artefaktów pod twoim władaniem. Zyskujesz X żyć."
 
-#: ../../WAR.rst:773
+#: ../../WAR.rst:1053
 msgid "-3: Return target artifact card from your graveyard to your hand."
 msgstr ""
 "-3: Przywróć wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
 
-#: ../../WAR.rst:775
-msgid "-8: Exile the top ten cards of your library. Put all artifact cards from among them onto the battlefield."
+#: ../../WAR.rst:1055
+msgid ""
+"-8: Exile the top ten cards of your library. Put all artifact cards from "
+"among them onto the battlefield."
 msgstr ""
 "-8: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Umieść wszystkie "
 "karty artefaktów spośród nich na polu walki."
