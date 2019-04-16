@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-02-09 23:18+0000\n"
+"PO-Revision-Date: 2019-04-29 00:11+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
@@ -36,7 +36,6 @@ msgstr ""
 # 838c6f860ab4459a97cb8ca719babf14
 # 13b1709993cc471f9c217d44c62be7ea
 #: ../../BNG.rst:9
-#, fuzzy
 msgid ""
 "Prevent the next X damage that would be dealt to target creature this turn, "
 "where X is your devotion to white. If damage is prevented this way, "
@@ -45,9 +44,9 @@ msgid ""
 msgstr ""
 "Zażegnaj najbliższe X obrażeń, które miałyby zostać zadane wskazanemu "
 "stworowi w tej turze, gdzie X jest twoim kultem białego. Jeśli obrażenia "
-"zostaną zażegnane w ten sposób, Acolyte's Reward zadaje tyle samo obrażeń "
-"wskazanemu stworowi lub graczowi. (Każdy symbol |mana_w| w kosztach many "
-"permanentów, którymi władasz wlicza się do twojego kultu białego.)"
+"zostaną zażegnane w ten sposób, ten czar zadaje tyle samo obrażeń wskazanemu "
+"stworowi lub graczowi. (Każdy symbol |mana_w| w kosztach many permanentów "
+"pod twoim władaniem wlicza się do twojego kultu białego.)"
 
 #: ../../BNG.rst:16
 msgid ""
