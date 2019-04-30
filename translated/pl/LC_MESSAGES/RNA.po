@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 11:00+0000\n"
+"PO-Revision-Date: 2019-04-30 00:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rna/pl/>\n"
 "Language: pl\n"
@@ -4187,14 +4187,15 @@ msgstr ""
 
 #: ../../RNA.rst:1381
 msgid "Gateway Plaza enters the battlefield tapped."
-msgstr "Ta karta wchodzi przekręcona na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../RNA.rst:1383
 msgid ""
 "When Gateway Plaza enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki poświęć go, chyba że zapłacisz |mana_1|."
+"Kiedy ten ląd wejdzie na pole walki, poświęć go dopóki nie zapłacisz "
+"|mana_1|."
 
 #: ../../RNA.rst:1392
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-04-30 00:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m13/pl/>\n"
 "Language: pl\n"
@@ -1314,7 +1314,7 @@ msgstr ""
 
 #: ../../M13.rst:511
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../M13.rst:516
 msgid ":mtgtip:`Mutilate<https://img.scryfall.com/cards/border_crop/en/m13/102.jpg?1517813031|https://scryfall.com/card/m13/102/mutilate?utm_source=api>`"
@@ -1595,6 +1595,8 @@ msgid ""
 "−2: When you cast your next instant or sorcery spell this turn, copy that"
 " spell. You may choose new targets for the copy."
 msgstr ""
+"–2: Kiedy rzucisz swój następny czar sztuczki lub obrzędu w tej turze, "
+"skopiuj go. Możesz wskazać nowe cele dla kopii."
 
 #: ../../M13.rst:619
 msgid "−6: Chandra, the Firebrand deals 6 damage to each of up to six targets."

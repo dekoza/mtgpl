@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-26 21:56+0100\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-04-30 00:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/cn2/pl/>\n"
 "Language: pl\n"
@@ -227,6 +227,8 @@ msgid ""
 "Each creature you control assigns combat damage equal to its toughness "
 "rather than its power."
 msgstr ""
+"Każdy stwór pod twoim władaniem przypisuje obrażenia bojowe równe swojej "
+"wytrzymałości, a nie sile."
 
 #: ../../CN2.rst:92
 msgid ""
@@ -1344,6 +1346,7 @@ msgstr ""
 #: ../../CN2.rst:473
 msgid "Each opponent can't draw more than one card each turn."
 msgstr ""
+"Każdy z przeciwników nie może dobrać więcej niż jednej karty w każdej turze."
 
 #: ../../CN2.rst:475
 msgid ""
@@ -2202,7 +2205,7 @@ msgstr ""
 
 #: ../../CN2.rst:825
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../CN2.rst:830
 msgid ""
