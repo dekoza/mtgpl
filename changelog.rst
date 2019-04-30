@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2019-04-30
+    * War of the Spark - 100%
+
 2019-03-31
     * Guild Kits 2 - 0%
     * Modern Horizons - 0%
