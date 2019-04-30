@@ -20,14 +20,15 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
-Nadochodzące
-------------
+.. Nadochodzące
+.. ------------
 
-* :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p50|
+
 
 Standard
 --------
 
+* :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p100|
 * :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|
 * :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
 * :mtgexp:`M19` :doc:`Magic 2019<M19>` |p100|
