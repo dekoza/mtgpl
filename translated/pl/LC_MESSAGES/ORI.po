@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-04-15 21:45+0000\n"
+"PO-Revision-Date: 2019-05-02 02:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -884,6 +884,8 @@ msgid ""
 "Target player puts the top X cards of their library into their graveyard, "
 "where X is the number of lands you control."
 msgstr ""
+"Wskazany gracz umieszcza X wierzchnich kart swojej biblioteki w swoim "
+"cmentarzu, gdzie X jest liczbą lądów pod twoim władaniem."
 
 #: ../../ORI.rst:324
 msgid ""
@@ -1093,7 +1095,7 @@ msgstr ""
 
 #: ../../ORI.rst:399
 msgid "Scrapskin Drake can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../ORI.rst:404
 msgid ""

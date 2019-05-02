@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-04-30 00:28+0000\n"
+"PO-Revision-Date: 2019-05-02 02:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/uma/pl/>\n"
 "Language: pl\n"
@@ -1432,6 +1432,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a card from it with "
 "converted mana cost 4 or greater and exile that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę o łącznym "
+"koszcie many 4 lub większym i wygnaj ją."
 
 #: ../../UMA.rst:484
 msgid ""
@@ -1470,7 +1472,7 @@ msgstr ""
 
 #: ../../UMA.rst:491
 msgid "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur."
-msgstr ""
+msgstr "Poświęć stwora: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../UMA.rst:498
 msgid ""

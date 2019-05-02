@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-05-02 02:53+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -272,6 +272,8 @@ msgid ""
 "|tap|, Tap two untapped Humans you control: Exile target artifact or "
 "enchantment."
 msgstr ""
+"|tap|, przekręć dwa odkręcone stwory typu Człowiek pod twoim władaniem: "
+"Wygnaj wskazany artefakt lub urok."
 
 #: ../../AVR.rst:96
 msgid ""
@@ -286,6 +288,10 @@ msgid ""
 "control this turn. If damage is prevented this way, Divine Deflection deals "
 "that much damage to any target."
 msgstr ""
+"Zażegnaj najbliższe X obrażeń, jakie mogłyby zostać zadane tobie i/lub "
+"permanentom pod twoim władaniem w tej turze. Jeśli obrażenia zostaną "
+"zażegnane w ten sposób, ten czar zadaje tyle samo obrażeń w dowolnie "
+"wskazany cel."
 
 #: ../../AVR.rst:102
 msgid ""
@@ -311,7 +317,7 @@ msgstr ""
 
 #: ../../AVR.rst:105
 msgid "Create X 4/4 white Angel creature tokens with flying."
-msgstr ""
+msgstr "Stwórz X żetonów białego stwora Anił 4/4 z lataniem."
 
 #: ../../AVR.rst:107
 msgid ""
@@ -349,6 +355,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, stwory pod "
+"twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../AVR.rst:122
 msgid ""
@@ -362,6 +370,8 @@ msgid ""
 "When Goldnight Redeemer enters the battlefield, you gain 2 life for each "
 "other creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskujesz 2 życia za każdego innego "
+"stwora pod twoim władaniem."
 
 #: ../../AVR.rst:130
 msgid ""
@@ -372,13 +382,15 @@ msgstr ""
 
 #: ../../AVR.rst:127
 msgid "Whenever Herald of War attacks, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, umieść na nim znacznik +1/+1."
 
 #: ../../AVR.rst:129
 msgid ""
 "Angel spells and Human spells you cast cost |mana_1| less to cast for each "
 "+1/+1 counter on Herald of War."
 msgstr ""
+"Rzucanie czarów typu Anioł i Człowiek kosztuje cię o |mana_1| mniej za każdy "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../AVR.rst:134
 msgid ""
@@ -392,6 +404,8 @@ msgid ""
 "|mana_2|\\ |mana_w|, |tap|: Tap target creature. If that creature is a "
 "Zombie, exile it."
 msgstr ""
+"|mana_2|\\ |mana_w|, |tap|: Przekręć wskazanego stwora. Jeśli ów stwór to "
+"Zombi, wygnaj go."
 
 #: ../../AVR.rst:138
 msgid ""
@@ -405,6 +419,8 @@ msgid ""
 "Target creature gains flying until end of turn. Prevent all damage that "
 "would be dealt to that creature this turn."
 msgstr ""
+"Wskazany stwór zyskuje latanie do końca tury. Zażegnaj obrażenia, które ów "
+"stwór mógłby otrzymać w tej turze."
 
 #: ../../AVR.rst:142
 msgid ""
@@ -415,7 +431,7 @@ msgstr ""
 
 #: ../../AVR.rst:141
 msgid "Protection from Vampires"
-msgstr ""
+msgstr "Ochrona przed Wampirami"
 
 #: ../../AVR.rst:146
 msgid ""
@@ -429,6 +445,8 @@ msgid ""
 "When Midvast Protector enters the battlefield, target creature you control "
 "gains protection from the color of your choice until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../AVR.rst:152
 msgid ""
@@ -438,13 +456,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:151
-#, fuzzy
 msgid ""
 "|mana_3|\\ |mana_w|: Prevent all combat damage that would be dealt to and "
 "dealt by Moonlight Geist this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia, które mogłyby zostać zadane zauroczonemu "
-"stworowi."
+"|mana_3|\\ |mana_w|: Zażegnaj wszystkie obrażenia bojowe, jakie ten stwór "
+"mógłby zadać lub otrzymać w tej turze."
 
 #: ../../AVR.rst:156
 msgid ""
@@ -457,7 +474,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_w|: Moorland Inquisitor gains first strike until end of "
 "turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../AVR.rst:162
 msgid ""
@@ -502,6 +519,9 @@ msgid ""
 "Angel creature you control, then return that card to the battlefield under "
 "your control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać innego nie będącego "
+"Aniołem stwora pod twoim władaniem, następnie przywróć ową kartę na pole "
+"walki pod twoim władaniem."
 
 #: ../../AVR.rst:178
 msgid ""
@@ -516,13 +536,15 @@ msgstr "Czujność"
 
 #: ../../AVR.rst:175
 msgid "As Riders of Gavony enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu walki wybierz typ stwora."
 
 #: ../../AVR.rst:177
 msgid ""
 "Human creatures you control have protection from creatures of the chosen "
 "type."
 msgstr ""
+"Stwory typu Człowiek pod twoim władaniem mają ochronę przed stworami "
+"wybranego typu."
 
 #: ../../AVR.rst:182
 msgid ""
@@ -585,7 +607,7 @@ msgstr ""
 
 #: ../../AVR.rst:203
 msgid "Put all creatures on the bottom of their owners' libraries."
-msgstr ""
+msgstr "Umieść wszystkie stwory na spodzie bibliotek ich właścicieli."
 
 #: ../../AVR.rst:210
 msgid ""
@@ -602,11 +624,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:215
-#, fuzzy
 msgid ""
 "When Voice of the Provinces enters the battlefield, create a 1/1 white Human "
 "creature token."
-msgstr "Wprowadzając Jaskinię Dusz na pole walki, wybierz typ stwora."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Człowiek "
+"1/1."
 
 #: ../../AVR.rst:220
 msgid ""
@@ -617,7 +640,7 @@ msgstr ""
 
 #: ../../AVR.rst:219
 msgid "Target creature gets +2/+2 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz pierwszy cios."
 
 #: ../../AVR.rst:224
 msgid ""
@@ -653,7 +676,7 @@ msgstr ""
 
 #: ../../AVR.rst:231
 msgid "Instant and sorcery spells cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje o |mana_2| mniej."
 
 #: ../../AVR.rst:238
 msgid ""
@@ -671,10 +694,9 @@ msgstr ""
 "Kapitana Mgieł."
 
 #: ../../AVR.rst:237
-#, fuzzy
 msgid "|mana_1|\\ |mana_u|, |tap|: You may tap or untap target permanent."
 msgstr ""
-"|mana_1|\\ |mana_u|, |tap|: Możesz przekręcić lub odtapować wskazany "
+"|mana_1|\\ |mana_u|, |tap|: Możesz przekręcić lub odkręcić wskazany "
 "permanent."
 
 #: ../../AVR.rst:244
@@ -719,7 +741,7 @@ msgstr ""
 
 #: ../../AVR.rst:253
 msgid "Return all nonland permanents to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie nielądowe permanenty do rąk ich właścicieli."
 
 #: ../../AVR.rst:255 ../../AVR.rst:429
 msgid ""
@@ -740,6 +762,8 @@ msgid ""
 "Target player puts the top X cards of their library into their graveyard, "
 "where X is the number of lands you control."
 msgstr ""
+"Wskazany gracz umieszcza X wierzchnich kart swojej biblioteki w swoim "
+"cmentarzu, gdzie X jest liczbą lądów pod twoim władaniem."
 
 #: ../../AVR.rst:266
 msgid ""
@@ -777,6 +801,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Fettergeist unless you pay |"
 "mana_1| for each other creature you control."
 msgstr ""
+"Na początku twojego kroku  utrzymania, poświęć tego stwora, chyba że "
+"zapłacisz |mana_1| za każdego innego stwora pod twoim władaniem."
 
 #: ../../AVR.rst:282
 msgid ""
@@ -787,7 +813,7 @@ msgstr ""
 
 #: ../../AVR.rst:279
 msgid "Target creature gets -1/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -1/-0 do końca tury."
 
 #: ../../AVR.rst:288
 msgid ""
@@ -813,6 +839,8 @@ msgid ""
 "Counter target creature spell. Create a 1/1 blue Spirit creature token with "
 "flying."
 msgstr ""
+"Skontruj wskazany czar stwora. Stwórz żeton niebieskiego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../AVR.rst:296
 msgid ""
@@ -836,6 +864,8 @@ msgid ""
 "Exile two target artifacts, creatures, and/or lands you control, then return "
 "those cards to the battlefield under your control."
 msgstr ""
+"Wygnaj dwa wskazane artefakty, stwory i/lub lądy pod twoim władaniem, "
+"następnie przywróć owe karty na pole walki pod twoim władaniem."
 
 #: ../../AVR.rst:306
 msgid ""
@@ -849,6 +879,8 @@ msgid ""
 "Enchanted creature has \"Whenever this creature attacks, you may tap or "
 "untap target permanent.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć ten stwór atakuje, możesz przekręcić lub "
+"odkręcić wskazany permanent.\""
 
 #: ../../AVR.rst:312
 msgid ""
@@ -859,7 +891,7 @@ msgstr ""
 
 #: ../../AVR.rst:311
 msgid "When Gryff Vanguard enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../AVR.rst:316
 msgid ""
@@ -873,6 +905,8 @@ msgid ""
 "Whenever Havengul Skaab attacks, return another creature you control to its "
 "owner's hand."
 msgstr ""
+"Ilekroć ten stwór atakuje, przywróć innego stwora pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../AVR.rst:324
 msgid ""
@@ -886,12 +920,16 @@ msgid ""
 "When Infinite Reflection enters the battlefield attached to a creature, each "
 "other nontoken creature you control becomes a copy of that creature."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki dołączony do stwora, każdy inny "
+"nieżetonowy stwór pod twoim władaniem staje się kopią owego stwora."
 
 #: ../../AVR.rst:323
 msgid ""
 "Nontoken creatures you control enter the battlefield as a copy of enchanted "
 "creature."
 msgstr ""
+"Nieżetonowe stwory pod twoim władaniem wchodzą na pole walki jako kopia "
+"zauroczonego stwora."
 
 #: ../../AVR.rst:328
 msgid ""
@@ -912,7 +950,7 @@ msgstr ""
 
 #: ../../AVR.rst:331
 msgid "Latch Seeker can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../AVR.rst:338
 msgid ""
@@ -935,6 +973,10 @@ msgid ""
 "other creatures, look at the top four cards of your library. Put one of them "
 "into your hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli nie masz we władaniu "
+"innych stworów, spójrz na cztery wierzchnie karty twojej biblioteki. Umieść "
+"jedną z nich w twojej ręce, a pozostałe w dowolnej kolejności na spodzie "
+"twojej biblioteki."
 
 #: ../../AVR.rst:342
 msgid ""
@@ -947,6 +989,8 @@ msgid ""
 "Whenever you cast an instant spell, you may pay |mana_1|. If you do, draw a "
 "card."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"dobierz kartę."
 
 #: ../../AVR.rst:346
 msgid ""
@@ -956,7 +1000,7 @@ msgstr ""
 
 #: ../../AVR.rst:345
 msgid "Draw a card for each Human you control."
-msgstr ""
+msgstr "Dobierz kartę za każdego Człowieka pod twoim władaniem."
 
 #: ../../AVR.rst:352
 msgid ""
@@ -969,6 +1013,8 @@ msgid ""
 "When Mist Raven enters the battlefield, return target creature to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora do ręki "
+"właściciela."
 
 #: ../../AVR.rst:358
 msgid ""
@@ -979,7 +1025,7 @@ msgstr ""
 
 #: ../../AVR.rst:357
 msgid "You may cast Misthollow Griffin from exile."
-msgstr ""
+msgstr "Możesz rzucić tego stwora z wygnania."
 
 #: ../../AVR.rst:362
 msgid ""
@@ -993,6 +1039,8 @@ msgid ""
 "|mana_3|\\ |mana_u|, |tap|: Exile another target creature you control, then "
 "return that card to the battlefield under your control."
 msgstr ""
+"|mana_3|\\ |mana_u|, |tap|: Wygnaj innego wskazanego stwora pod twoim "
+"władaniem, następnie przywróć ową kartę na pole walki pod twoim władaniem."
 
 #: ../../AVR.rst:366
 msgid ""
@@ -1002,7 +1050,7 @@ msgstr ""
 
 #: ../../AVR.rst:365
 msgid "Counter target spell that targets a player."
-msgstr ""
+msgstr "Skontruj wskazany czar wskazujący gracza."
 
 #: ../../AVR.rst:370
 msgid ""
@@ -1016,6 +1064,8 @@ msgid ""
 "Return target creature you control and target creature you don't control to "
 "their owners' hands."
 msgstr ""
+"Przywróć wskazanego stwora pod twoim władaniem oraz wskazanego stwora poza "
+"twoim władaniem do rąk ich właścicieli."
 
 #: ../../AVR.rst:374
 msgid ""
@@ -1029,6 +1079,8 @@ msgid ""
 "When Rotcrown Ghoul dies, target player puts the top five cards of their "
 "library into their graveyard."
 msgstr ""
+"Kiedy ten stwór umrze, wskazany gracz umieszcza pięć wierzchnich kart swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../AVR.rst:380
 msgid ""
@@ -1047,7 +1099,7 @@ msgstr ""
 
 #: ../../AVR.rst:379
 msgid "Scrapskin Drake can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../AVR.rst:384
 msgid ""
@@ -1057,7 +1109,7 @@ msgstr ""
 
 #: ../../AVR.rst:383
 msgid "Counter target spell that's the second spell cast this turn."
-msgstr ""
+msgstr "Skontruj wskazany czar będący drugim czarem rzuconym w tej turze."
 
 #: ../../AVR.rst:392
 msgid ""
@@ -1074,7 +1126,7 @@ msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy.
 msgid ""
 "When enchanted creature becomes the target of a spell, sacrifice Spectral "
 "Prison."
-msgstr ""
+msgstr "Kiedy zauroczony stwór zostanie wskazany przez czar, poświęć ten urok."
 
 #: ../../AVR.rst:400
 msgid ""
@@ -1115,6 +1167,9 @@ msgid ""
 "a nonland card. Until end of turn, you may cast that card without paying its "
 "mana cost."
 msgstr ""
+"Wskazany przeciwnik wygania karty z wierzchu swojej biblioteki dopóki nie "
+"wygna nielądowej karty. Do końca tury możesz rzucić ową kartę bez płacenia "
+"jej kosztu many."
 
 #: ../../AVR.rst:418
 msgid ""
@@ -1128,10 +1183,14 @@ msgid ""
 "+1: Tap target permanent. It doesn't untap during its controller's next "
 "untap step."
 msgstr ""
+"+1: Przekręć wskazany permanent. Nie odkręci się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../AVR.rst:415
 msgid "−2: Draw a card for each tapped creature target player controls."
 msgstr ""
+"–2: Dobierz kartę za każdego przekręconego stwora pod władaniem wskazanego "
+"gracza."
 
 #: ../../AVR.rst:417
 msgid ""
@@ -1139,6 +1198,9 @@ msgid ""
 "a card is put into your graveyard from anywhere, you may return it to your "
 "hand.\""
 msgstr ""
+"–8: Dostajesz emblemat o treści \"Nie masz limitu kart na ręce\" oraz \""
+"Ilekroć jakaś karta jest umieszczana skądkolwiek w twoim cmentarzu, możesz "
+"przywrócić ją do twojej ręki.\""
 
 #: ../../AVR.rst:424
 msgid ""
@@ -1163,7 +1225,7 @@ msgstr ""
 
 #: ../../AVR.rst:427
 msgid "Take an extra turn after this one. Exile Temporal Mastery."
-msgstr ""
+msgstr "Weź dodatkową turę po obecnej. Wygnaj ten czar."
 
 #: ../../AVR.rst:436
 msgid ""
@@ -1204,13 +1266,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:445
-#, fuzzy
 msgid ""
 "Target opponent reveals their hand. You choose a card from it with converted "
 "mana cost 4 or greater and exile that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz stamtąd kartę o łącznym "
-"koszcie many 4 lub większym i wypędzasz ową kartę."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę o łącznym "
+"koszcie many 4 lub większym i wygnaj ją."
 
 #: ../../AVR.rst:450
 msgid ""
@@ -1245,9 +1306,8 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:457
-#, fuzzy
 msgid "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur."
-msgstr "Poświęć stwora: Umieść znacznik +1/+1 na Bloodflow Connoisseur."
+msgstr "Poświęć stwora: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../AVR.rst:464
 msgid ""
