@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-02-09 23:19+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
@@ -337,7 +337,7 @@ msgstr ""
 
 #: ../../SOI.rst:117
 msgid "Tap up to two target creatures."
-msgstr ""
+msgstr "Przekręć co najwyżej dwa wskazane stwory."
 
 #: ../../SOI.rst:119 ../../SOI.rst:151 ../../SOI.rst:239 ../../SOI.rst:389
 #: ../../SOI.rst:409 ../../SOI.rst:465 ../../SOI.rst:1321
@@ -834,6 +834,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_3|\\ |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SOI.rst:300
 msgid ""
@@ -894,7 +897,7 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
 "do końca tury.)"
 
 #: ../../SOI.rst:319
@@ -1154,6 +1157,8 @@ msgid ""
 "Madness |mana_u| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SOI.rst:420
 msgid ""
@@ -1206,6 +1211,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SOI.rst:440
 msgid ""
@@ -1546,6 +1554,9 @@ msgid ""
 "into exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_x|\\ |mana_u|\\ |mana_u| (Odrzucając tę kartę odrzuć ją na "
+"wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją "
+"w twoim cmentarzu.)"
 
 #: ../../SOI.rst:569
 msgid ""
@@ -1553,6 +1564,9 @@ msgid ""
 "the Fold's madness cost was paid, instead gain control of that creature if "
 "its toughness is X or less."
 msgstr ""
+"Zyskaj władanie nad wskazanym stworem o wytrzymałości 2 lub mniejszej. Jeśli "
+"opłacono koszt szaleństwa tego czaru, zamiast tego zyskaj władanie nad owym "
+"stworem jeśli jego wytrzymałość wynosi X lub mniej."
 
 #: ../../SOI.rst:576
 msgid ""
@@ -1611,6 +1625,8 @@ msgid ""
 "Madness |mana_b| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SOI.rst:596
 msgid ""
@@ -1631,6 +1647,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SOI.rst:602
 msgid ""
@@ -1679,6 +1698,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SOI.rst:616
 msgid ""
@@ -1822,6 +1844,9 @@ msgid ""
 "into exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_x|\\ |mana_b|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na "
+"wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją "
+"w twoim cmentarzu.)"
 
 #: ../../SOI.rst:665
 msgid ""
@@ -1829,6 +1854,9 @@ msgid ""
 "From Under the Floorboards's madness cost was paid, instead create X of "
 "those tokens and you gain X life."
 msgstr ""
+"Stwórz trzy przekręcone żetony czarnego stwora Zombi 2/2 i zyskaj 3 życia. "
+"Jeśli opłacono koszt szaleństwa tego czaru, zamiast tego stwórz X owych "
+"żetonów i zyskaj X żyć."
 
 #: ../../SOI.rst:670
 msgid ""
@@ -2341,6 +2369,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_x|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SOI.rst:849
 msgid ""
@@ -2348,6 +2379,9 @@ msgid ""
 "targets. If Avacyn's Judgment's madness cost was paid, it deals X damage "
 "divided as you choose among those permanents and/or players instead."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone dowolnie pomiędzy dowolną liczbę "
+"wskazanych celów. Jeśli opłacono koszt szaleństwa tego czaru, zamiast tego "
+"zadaje on X obrażeń rozdzielonych dowolnie pomiędzy owe cele."
 
 #: ../../SOI.rst:856
 msgid ""
@@ -2368,6 +2402,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SOI.rst:860
 msgid ""
@@ -2518,6 +2555,10 @@ msgid ""
 "with madness, discard it into exile. When you do, cast it for its madness "
 "cost or put it into your graveyard.)"
 msgstr ""
+"Każda twoja karta stwora typu Wampir nie będąca na polu walki ma szaleństwo. "
+"Jej koszt szaleństwa jest równy jej kosztowi many. (Odrzucając kartę z "
+"szaleństwem, odrzuć ją na wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt "
+"szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SOI.rst:910
 msgid ""
@@ -2535,6 +2576,8 @@ msgid ""
 "Madness |mana_r| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SOI.rst:916
 msgid ""
@@ -2713,6 +2756,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SOI.rst:980
 msgid ""
@@ -2830,6 +2876,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_3|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SOI.rst:1026
 msgid ""

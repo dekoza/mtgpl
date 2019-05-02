@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/shm/pl/>\n"
 "Language: pl\n"
@@ -328,13 +328,15 @@ msgstr ""
 
 #: ../../SHM.rst:111
 msgid "As Runed Halo enters the battlefield, choose a card name."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki, wybierz nazwę karty."
 
 #: ../../SHM.rst:113
 msgid ""
 "You have protection from the chosen name. (You can't be targeted, dealt "
 "damage, or enchanted by anything with that name.)"
 msgstr ""
+"Masz ochronę przed wybraną nazwą. (Nic o tej nazwie nie może cię wskazać, "
+"zadać ci obrażeń, ani cię zauroczyć.)"
 
 #: ../../SHM.rst:118
 msgid ""
@@ -1976,7 +1978,7 @@ msgstr ""
 
 #: ../../SHM.rst:755 ../../SHM.rst:901
 msgid "Defender, flying"
-msgstr ""
+msgstr "Obronność, latanie"
 
 #: ../../SHM.rst:760
 msgid ""

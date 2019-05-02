@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-04-30 00:28+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ons/pl/>\n"
 "Language: pl\n"
@@ -799,6 +799,8 @@ msgid ""
 "Whenever a creature is put into your graveyard from the battlefield, you "
 "may pay |mana_1|\\ |mana_w|. If you do, return that card to your hand."
 msgstr ""
+"Ilekroć jakiś stwór trafi do twojego cmentarza z pola walki, możesz zapłacić "
+"|mana_1|\\ |mana_w|. Jeśli to zrobisz, przywróć ową kartę do twojej ręki."
 
 #: ../../ONS.rst:320
 msgid ""
@@ -1691,7 +1693,7 @@ msgstr ""
 
 #: ../../ONS.rst:653
 msgid "Target creature gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje latanie do końca tury."
 
 #: ../../ONS.rst:655
 msgid ""

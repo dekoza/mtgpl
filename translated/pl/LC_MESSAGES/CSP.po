@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-04-30 00:28+0000\n"
+"PO-Revision-Date: 2019-05-02 04:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/csp/pl/>\n"
 "Language: pl\n"
@@ -267,6 +267,8 @@ msgid ""
 "|mana_1|, Reveal X white cards from your hand, Sacrifice Martyr of Sands:"
 " You gain three times X life."
 msgstr ""
+"|mana_1|, ujawnij X białych kart z twojej ręki, poświęć tego stwora: "
+"Zyskujesz trzykrotność X żyć."
 
 #: ../../CSP.rst:92
 msgid ""
@@ -277,7 +279,7 @@ msgstr ""
 
 #: ../../CSP.rst:91
 msgid "Sacrifice Ronom Unicorn: Destroy target enchantment."
-msgstr ""
+msgstr "Poświęć tego stwora: Zniszcz wskazany urok."
 
 #: ../../CSP.rst:98
 msgid ""
@@ -387,7 +389,7 @@ msgstr ""
 
 #: ../../CSP.rst:133
 msgid "Defender, flying"
-msgstr ""
+msgstr "Obronność, latanie"
 
 #: ../../CSP.rst:135
 msgid ""

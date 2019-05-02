@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/tsp/pl/>\n"
 "Language: pl\n"
@@ -398,6 +398,8 @@ msgid ""
 "|mana_1|\\ |mana_w|, |tap|, Discard a card: Create two 1/1 white Citizen "
 "creature tokens."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|, odrzuć kartę: Stwórz dwa żetony białego stwora "
+"Mieszkaniec 1/1."
 
 #: ../../TSP.rst:154
 msgid ""
@@ -1540,6 +1542,8 @@ msgid ""
 "Madness |mana_0| (If you discard this card, discard it into exile. When "
 "you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_0| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../TSP.rst:600
 msgid ""
@@ -1617,6 +1621,8 @@ msgid ""
 "Madness |mana_b| (If you discard this card, discard it into exile. When "
 "you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../TSP.rst:626
 msgid ""
@@ -1672,7 +1678,7 @@ msgstr ""
 
 #: ../../TSP.rst:635
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
 
 #: ../../TSP.rst:637
 msgid ""
@@ -1969,6 +1975,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../TSP.rst:752
 msgid ":mtgtip:`Phthisis<https://img.scryfall.com/cards/border_crop/en/tsp/122.jpg?1517813031|https://scryfall.com/card/tsp/122/phthisis?utm_source=api>`"

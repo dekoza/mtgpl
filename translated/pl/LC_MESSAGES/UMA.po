@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-05-02 02:54+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/uma/pl/>\n"
 "Language: pl\n"
@@ -466,6 +466,8 @@ msgid ""
 "Totem armor (If enchanted creature would be destroyed, instead remove all"
 " damage from it and destroy this Aura.)"
 msgstr ""
+"Zbroja totemowa (Jeśli zauroczony stwór miałby zostać zniszczony, zamiast "
+"tego usuń z niego obrażenia i zniszcz tę Aurę.)"
 
 #: ../../UMA.rst:150
 msgid ""
@@ -480,6 +482,8 @@ msgid ""
 "|mana_1|\\ |mana_w|, |tap|, Discard a card: Create two 1/1 white Citizen "
 "creature tokens."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|, odrzuć kartę: Stwórz dwa żetony białego stwora "
+"Mieszkaniec 1/1."
 
 #: ../../UMA.rst:156
 msgid ""
@@ -493,6 +497,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 #: ../../UMA.rst:155
 msgid ""
@@ -513,7 +519,7 @@ msgstr ""
 
 #: ../../UMA.rst:161
 msgid "Enchanted creature gets +3/+3 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3 i ma czujność."
 
 #: ../../UMA.rst:168
 msgid ""
@@ -529,6 +535,8 @@ msgid ""
 "|mana_1|, Reveal X white cards from your hand, Sacrifice Martyr of Sands:"
 " You gain three times X life."
 msgstr ""
+"|mana_1|, ujawnij X białych kart z twojej ręki, poświęć tego stwora: "
+"Zyskujesz trzykrotność X żyć."
 
 #: ../../UMA.rst:172
 msgid ""
@@ -543,6 +551,8 @@ msgid ""
 "Return target creature card from your graveyard to the battlefield. Put a"
 " +1/+1 counter on it."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Umieść na "
+"nim znacznik +1/+1."
 
 #: ../../UMA.rst:176
 msgid ""
@@ -556,6 +566,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Phalanx Leader, put a "
 "+1/+1 counter on each creature you control."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść znacznik +1/+1 "
+"na każdym stworze pod twoim władaniem."
 
 #: ../../UMA.rst:182
 msgid ""
@@ -575,6 +587,8 @@ msgid ""
 "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard"
 " for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_2|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:188
 msgid ""
@@ -586,7 +600,7 @@ msgstr ""
 
 #: ../../UMA.rst:185
 msgid "Tap up to two target creatures."
-msgstr ""
+msgstr "Przekręć co najwyżej dwa wskazane stwory."
 
 #: ../../UMA.rst:187 ../../UMA.rst:449 ../../UMA.rst:1235
 msgid "Draw a card."
@@ -601,7 +615,7 @@ msgstr ""
 
 #: ../../UMA.rst:191 ../../UMA.rst:659
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
 
 #: ../../UMA.rst:200
 msgid ":mtgtip:`Reveillark<https://img.scryfall.com/cards/border_crop/front/4/b/4bcf9b52-d249-41e7-8ed1-ba9acc816f30.jpg?1547228493|https://scryfall.com/card/uma/31/reveillark?utm_source=api>`"
@@ -612,12 +626,16 @@ msgid ""
 "When Reveillark leaves the battlefield, return up to two target creature "
 "cards with power 2 or less from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór opuści pole walki, przywróć co najwyżej dwie wskazane karty "
+"stworów o sile 2 lub mniejszej z twojego cmentarza na pole walki."
 
 #: ../../UMA.rst:199
 msgid ""
 "Evoke |mana_5|\\ |mana_w| (You may cast this spell for its evoke cost. If"
 " you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_5|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../UMA.rst:206
 msgid ""
@@ -633,6 +651,8 @@ msgid ""
 "At the beginning of your upkeep, you may return target creature card from"
 " your graveyard to the battlefield."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz przywrócić wskazaną kartę "
+"stwora z twojego cmentarza na pole walki."
 
 #: ../../UMA.rst:210
 msgid ""
@@ -645,7 +665,7 @@ msgstr ""
 
 #: ../../UMA.rst:209
 msgid "Sacrifice Ronom Unicorn: Destroy target enchantment."
-msgstr ""
+msgstr "Poświęć tego stwora: Zniszcz wskazany urok."
 
 #: ../../UMA.rst:216
 msgid ""
@@ -657,13 +677,15 @@ msgstr ""
 
 #: ../../UMA.rst:213
 msgid "As Runed Halo enters the battlefield, choose a card name."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki, wybierz nazwę karty."
 
 #: ../../UMA.rst:215
 msgid ""
 "You have protection from the chosen name. (You can't be targeted, dealt "
 "damage, or enchanted by anything with that name.)"
 msgstr ""
+"Masz ochronę przed wybraną nazwą. (Nic o tej nazwie nie może cię wskazać, "
+"zadać ci obrażeń, ani cię zauroczyć.)"
 
 #: ../../UMA.rst:220
 msgid ""
@@ -677,6 +699,8 @@ msgid ""
 "Whenever a creature is put into your graveyard from the battlefield, you "
 "may pay |mana_1|\\ |mana_w|. If you do, return that card to your hand."
 msgstr ""
+"Ilekroć jakiś stwór trafi do twojego cmentarza z pola walki, możesz zapłacić "
+"|mana_1|\\ |mana_w|. Jeśli to zrobisz, przywróć ową kartę do twojej ręki."
 
 #: ../../UMA.rst:226
 msgid ""
@@ -691,6 +715,7 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
+"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
 
 #: ../../UMA.rst:230
 msgid ""
@@ -705,6 +730,8 @@ msgid ""
 "Whenever a player discards a card, you may pay |mana_w|. If you do, "
 "create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć jakiś gracz odrzuci kartę, możesz zapłacić |mana_w|. Jeśli to "
+"zrobisz, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../UMA.rst:238
 msgid ""
@@ -728,6 +755,8 @@ msgid ""
 "Other creatures you control have exalted. (If a creature has multiple "
 "instances of exalted, each triggers separately.)"
 msgstr ""
+"Inne stwory pod twoim władaniem mają egzaltację. (Jeśli stwór ma kilka "
+"egzaltacji, każda jest wyzwalana oddzielnie.)"
 
 #: ../../UMA.rst:244
 msgid ""
@@ -742,6 +771,9 @@ msgid ""
 "your graveyard, you may cast Swift Reckoning as though it had flash. (You"
 " may cast it any time you could cast an instant.)"
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, możesz rzucić ten czar tak, jakby miał błysk. ("
+"Możesz zagrać go jako sztuczkę.)"
 
 #: ../../UMA.rst:243
 msgid "Destroy target tapped creature."
@@ -760,6 +792,9 @@ msgid ""
 "return target creature card with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, przywróć wskazaną "
+"kartę stwora o skróconym koszcie many 2 lub mniejszym z twojego cmentarza na "
+"pole walki."
 
 #: ../../UMA.rst:254
 msgid ""
@@ -770,13 +805,15 @@ msgstr ""
 
 #: ../../UMA.rst:251 ../../UMA.rst:1193
 msgid "Defender, flying"
-msgstr ""
+msgstr "Obronność, latanie"
 
 #: ../../UMA.rst:253
 msgid ""
 "At the beginning of your end step, you may gain life equal to the power "
 "of target creature you control."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zyskać życie równe sile "
+"wskazanego stwora pod twoim władaniem."
 
 #: ../../UMA.rst:258
 msgid ""
@@ -792,6 +829,9 @@ msgid ""
 "control a blue or red permanent, you may discard a card. If you do, draw "
 "a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bitewne, jeśli władasz niebieskim "
+"lub czerwonym permanentem, możesz odrzucić kartę. Jeśli to zrobisz, dobierz "
+"kartę."
 
 #: ../../UMA.rst:264
 msgid ""
@@ -806,6 +846,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Wingsteed Rider, put a "
 "+1/+1 counter on Wingsteed Rider."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący tego stwora, umieść na nim "
+"znacznik +1/+1."
 
 #: ../../UMA.rst:270
 msgid ""
@@ -819,12 +861,17 @@ msgid ""
 "When Aethersnipe enters the battlefield, return target nonland permanent "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany nielądowy permanent "
+"do ręki właściciela."
 
 #: ../../UMA.rst:269
 msgid ""
 "Evoke |mana_1|\\ |mana_u|\\ |mana_u| (You may cast this spell for its "
 "evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_1|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar za jego "
+"koszt przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole "
+"walki.)"
 
 #: ../../UMA.rst:274
 msgid ""
@@ -851,7 +898,7 @@ msgstr ""
 
 #: ../../UMA.rst:277
 msgid "Nonbasic lands don't untap during their controllers' untap steps."
-msgstr ""
+msgstr "Niebazowe lądy nie odkręcają się podczas kroków odkręcania ich władców."
 
 #: ../../UMA.rst:284
 msgid ""
@@ -874,6 +921,8 @@ msgid ""
 "Madness |mana_u| (If you discard this card, discard it into exile. When "
 "you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../UMA.rst:290
 msgid ""
@@ -884,7 +933,7 @@ msgstr ""
 
 #: ../../UMA.rst:287
 msgid "Target creature gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje latanie do końca tury."
 
 #: ../../UMA.rst:289
 msgid ""
@@ -1701,6 +1750,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../UMA.rst:561
 msgid ""
@@ -1708,6 +1760,9 @@ msgid ""
 "paid, you may return target creature card from a graveyard to its owner's"
 " hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli zapłacono jego koszt "
+"szaleństwa, możesz przywrócić wskazaną kartę stwora z cmentarza do ręki "
+"właściciela."
 
 #: ../../UMA.rst:566
 msgid ""
@@ -1840,6 +1895,8 @@ msgid ""
 "Evoke |mana_b| (You may cast this spell for its evoke cost. If you do, "
 "it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_b| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
+"to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../UMA.rst:614
 msgid ""
@@ -1919,6 +1976,8 @@ msgid ""
 "Evoke |mana_1|\\ |mana_b| (You may cast this spell for its evoke cost. If"
 " you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_1|\\ |mana_b| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../UMA.rst:638
 msgid ""
@@ -1992,6 +2051,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../UMA.rst:662
 msgid ""
@@ -2163,6 +2225,8 @@ msgid ""
 "Madness |mana_r| (If you discard this card, discard it into exile. When "
 "you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../UMA.rst:722
 msgid ""
@@ -2249,6 +2313,8 @@ msgid ""
 "Evoke |mana_r| (You may cast this spell for its evoke cost. If you do, "
 "it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_r| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
+"to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../UMA.rst:748
 msgid ""
@@ -2308,6 +2374,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_3|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../UMA.rst:768
 msgid ""
@@ -2390,6 +2459,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../UMA.rst:796
 msgid ""
@@ -2584,6 +2656,8 @@ msgid ""
 "Madness |mana_0| (If you discard this card, discard it into exile. When "
 "you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_0| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../UMA.rst:860
 msgid ""
@@ -3111,6 +3185,8 @@ msgid ""
 "Evoke |mana_4|\\ |mana_g| (You may cast this spell for its evoke cost. If"
 " you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_4|\\ |mana_g| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../UMA.rst:1052
 msgid ""

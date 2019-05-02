@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/jud/pl/>\n"
 "Language: pl\n"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: ../../JUD.rst:75
 msgid "Tap up to two target creatures."
-msgstr ""
+msgstr "Przekręć co najwyżej dwa wskazane stwory."
 
 #: ../../JUD.rst:80
 msgid ""
@@ -411,6 +411,8 @@ msgid ""
 "Whenever a player discards a card, you may pay |mana_w|. If you do, "
 "create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć jakiś gracz odrzuci kartę, możesz zapłacić |mana_w|. Jeśli to "
+"zrobisz, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../JUD.rst:148
 msgid ""
@@ -563,7 +565,7 @@ msgstr ""
 
 #: ../../JUD.rst:199
 msgid "Target creature gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje latanie do końca tury."
 
 #: ../../JUD.rst:201
 msgid ""

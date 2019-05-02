@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-04-30 00:28+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m13/pl/>\n"
 "Language: pl\n"
@@ -508,6 +508,8 @@ msgid ""
 "Other creatures you control have exalted. (If a creature has multiple "
 "instances of exalted, each triggers separately.)"
 msgstr ""
+"Inne stwory pod twoim władaniem mają egzaltację. (Jeśli stwór ma kilka "
+"egzaltacji, każda jest wyzwalana oddzielnie.)"
 
 #: ../../M13.rst:200
 msgid ""
@@ -702,7 +704,7 @@ msgstr ""
 
 #: ../../M13.rst:271
 msgid "Defender, flying"
-msgstr ""
+msgstr "Obronność, latanie"
 
 #: ../../M13.rst:273
 msgid "Prevent all combat damage that would be dealt to and dealt by Fog Bank."

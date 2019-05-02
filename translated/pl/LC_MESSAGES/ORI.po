@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 02:54+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -588,6 +588,9 @@ msgid ""
 "your graveyard, you may cast Swift Reckoning as though it had flash. (You "
 "may cast it any time you could cast an instant.)"
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, możesz rzucić ten czar tak, jakby miał błysk. ("
+"Możesz zagrać go jako sztuczkę.)"
 
 #: ../../ORI.rst:205
 msgid "Destroy target tapped creature."
@@ -1003,7 +1006,7 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
 "do końca tury.)"
 
 #: ../../ORI.rst:359
@@ -1121,7 +1124,7 @@ msgstr ""
 
 #: ../../ORI.rst:407
 msgid "Tap up to two target creatures."
-msgstr ""
+msgstr "Przekręć co najwyżej dwa wskazane stwory."
 
 #: ../../ORI.rst:409
 msgid ""

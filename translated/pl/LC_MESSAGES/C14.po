@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 02:53+0000\n"
+"PO-Revision-Date: 2019-05-02 04:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -1827,7 +1827,7 @@ msgstr ""
 
 #: ../../C14.rst:633
 msgid "Defender, flying"
-msgstr ""
+msgstr "Obronność, latanie"
 
 #: ../../C14.rst:635
 msgid "Prevent all combat damage that would be dealt to and dealt by Fog Bank."
@@ -2325,7 +2325,7 @@ msgstr ""
 
 #: ../../C14.rst:813
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
 
 #: ../../C14.rst:815
 msgid ""
@@ -2606,14 +2606,12 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:919
-#, fuzzy
 msgid ""
 "Evoke |mana_1|\\ |mana_b| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
-"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przyzwanie |mana_1|\\ |mana_b| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../C14.rst:924
 msgid ""
@@ -2879,6 +2877,8 @@ msgid ""
 "Evoke |mana_r| (You may cast this spell for its evoke cost. If you do, it's "
 "sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_r| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
+"to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../C14.rst:1022
 msgid ""

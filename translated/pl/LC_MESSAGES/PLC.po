@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-02-10 17:56+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/plc/pl/>\n"
 "Language: pl\n"
@@ -1011,6 +1011,8 @@ msgid ""
 "Madness |mana_b| (If you discard this card, discard it into exile. When "
 "you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../PLC.rst:376
 msgid ":mtgtip:`Blightspeaker<https://img.scryfall.com/cards/border_crop/en/plc/64.jpg?1517813031|https://scryfall.com/card/plc/64/blightspeaker?utm_source=api>`"
@@ -1046,6 +1048,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../PLC.rst:388
 msgid ""
@@ -1216,6 +1221,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../PLC.rst:456
 msgid ":mtgtip:`Phantasmagorian<https://img.scryfall.com/cards/border_crop/en/plc/77.jpg?1517813031|https://scryfall.com/card/plc/77/phantasmagorian?utm_source=api>`"
@@ -1922,6 +1930,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../PLC.rst:724
 msgid ""
@@ -2040,7 +2051,7 @@ msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../PLC.rst:761
 msgid "Target creature gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje latanie do końca tury."
 
 #: ../../PLC.rst:770
 msgid ""

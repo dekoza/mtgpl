@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-05-02 04:27+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -523,7 +523,7 @@ msgstr ""
 # 2079277ce41b41589f84fdbc9260642f
 #: ../../C13.rst:155 ../../C13.rst:261 ../../C13.rst:267
 msgid "Defender, flying"
-msgstr ""
+msgstr "Obronność, latanie"
 
 # 75f7a272a09f40229fedfbfba5067522
 #: ../../C13.rst:157
@@ -531,6 +531,8 @@ msgid ""
 "At the beginning of your end step, you may gain life equal to the power of "
 "target creature you control."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zyskać życie równe sile "
+"wskazanego stwora pod twoim władaniem."
 
 #: ../../C13.rst:162
 msgid ""
@@ -3056,6 +3058,8 @@ msgid ""
 "Evoke |mana_4|\\ |mana_g| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_4|\\ |mana_g| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../C13.rst:984
 msgid ""

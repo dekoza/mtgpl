@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-02-09 23:19+0000\n"
+"PO-Revision-Date: 2019-05-02 04:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lrw/pl/>\n"
 "Language: pl\n"
@@ -595,10 +595,15 @@ msgstr ""
 #: ../../LRW.rst:283
 msgid "When Aethersnipe enters the battlefield, return target nonland permanent to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany nielądowy permanent "
+"do ręki właściciela."
 
 #: ../../LRW.rst:285
 msgid "Evoke |mana_1|\\ |mana_u|\\ |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_1|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar za jego "
+"koszt przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole "
+"walki.)"
 
 #: ../../LRW.rst:294
 msgid ":mtgtip:`Amoeboid Changeling<https://img.scryfall.com/cards/border_crop/en/lrw/51.jpg?1517813031|https://scryfall.com/card/lrw/51/amoeboid-changeling?utm_source=api>`"
@@ -1487,6 +1492,8 @@ msgstr ""
 #: ../../LRW.rst:799
 msgid "Evoke |mana_1|\\ |mana_b| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_1|\\ |mana_b| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../LRW.rst:806
 msgid ":mtgtip:`Skeletal Changeling<https://img.scryfall.com/cards/border_crop/en/lrw/140.jpg?1517813031|https://scryfall.com/card/lrw/140/skeletal-changeling?utm_source=api>`"
@@ -1880,6 +1887,8 @@ msgstr ""
 #: ../../LRW.rst:1025
 msgid "Evoke |mana_r| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_r| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
+"to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../LRW.rst:1026
 msgid ":mtgtip:`Inner-Flame Acolyte<https://img.scryfall.com/cards/border_crop/en/lrw/181.jpg?1517813031|https://scryfall.com/card/lrw/181/inner-flame-acolyte?utm_source=api>`"
