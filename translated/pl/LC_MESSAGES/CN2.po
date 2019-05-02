@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-26 21:56+0100\n"
-"PO-Revision-Date: 2019-05-02 02:54+0000\n"
+"PO-Revision-Date: 2019-05-02 09:11+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/cn2/pl/>\n"
 "Language: pl\n"
@@ -48,6 +48,9 @@ msgid ""
 " |mana_w|. If you do, that creature gains indestructible until end of "
 "turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Ilekroć atakuje stwór pod twoim władaniem o wybranej nazwie, możesz zapłacić "
+"|mana_w|. Jeśli tak zrobisz, ów stwór zyskuje niezniszczalność do końca "
+"tury. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../CN2.rst:18
 msgid ""
@@ -62,6 +65,9 @@ msgid ""
 "dies, you may pay |mana_b|. If you do, create a tapped 2/2 black Zombie "
 "creature token.\""
 msgstr ""
+"Stwory o wybranej nazwie pod twoim władaniem mają \"Kiedy ten stwór umrze, "
+"możesz zapłacić |mana_b|. Jeśli to zrobisz, stwórz przekręcony żeton stwora "
+"Zombi 2/2.\""
 
 #: ../../CN2.rst:24
 msgid ""
@@ -76,6 +82,9 @@ msgid ""
 "you control with the chosen name, you may copy that spell and may choose "
 "new targets for the copy."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, jeśli wskazuje on stwora o "
+"wybranej nazwie pod twoim władaniem, możesz skopiować ów czar i możesz "
+"wskazać nowe cele dla kopii."
 
 #: ../../CN2.rst:32
 msgid ""
@@ -91,13 +100,15 @@ msgstr "(Zacznij grę z tą konspiracją odkrytą w strefie dowodzenia.)"
 
 #: ../../CN2.rst:29
 msgid "Before drawing your opening hand, choose 1, 2, or 3."
-msgstr ""
+msgstr "Przed dobranie twojej startowej ręki, wybierz 1, 2 lub 3."
 
 #: ../../CN2.rst:31
 msgid ""
 "You may spend mana as though it were mana of any color to cast creature "
 "spells with converted mana cost equal to the chosen number."
 msgstr ""
+"Możesz wydawać manę tak, jakby była maną dowolnego koloru, by rzucać czary o "
+"skróconym koszcie many równym wybranej liczbie."
 
 #: ../../CN2.rst:38
 msgid ""
@@ -111,6 +122,8 @@ msgid ""
 "Whenever a creature you control with the chosen name deals combat damage "
 "to a player, you may pay |mana_u|. If you do, draw a card."
 msgstr ""
+"Ilekroć stwór o wybranej nazwie pod twoim władaniem zada graczowi obrażenia "
+"bojowe, możesz zapłacić |mana_u|. Jeśli to zrobisz, dobierz kartę."
 
 #: ../../CN2.rst:46
 msgid ""
@@ -124,12 +137,17 @@ msgid ""
 "At the beginning of your first upkeep, create a 1/2 white Soldier "
 "creature token with defender."
 msgstr ""
+"Na początku twojego pierwszego kroku utrzymania, stwórz żeton białego stwora "
+"Piechur 1/2 z obronnością."
 
 #: ../../CN2.rst:45
 msgid ""
 "At the beginning of each other player's first upkeep, that player creates"
 " a 1/1 red Goblin creature token with \"This creature can't block.\""
 msgstr ""
+"Na początku pierwszego kroku utrzymania każdego innego gracza, ów gracz "
+"tworzy żeton czerwonego stwora Goblin 1/1 ze zdolnością \"Ten stwór nie może "
+"blokować.\""
 
 #: ../../CN2.rst:54
 msgid ""
@@ -141,10 +159,12 @@ msgstr ""
 #: ../../CN2.rst:51
 msgid "The first creature spell you cast each turn costs |mana_1| less to cast."
 msgstr ""
+"W każdej turze rzucenie pierwszego czaru stwora kosztuje cię o |mana_1| "
+"mniej."
 
 #: ../../CN2.rst:53
 msgid "You can't cast instant or sorcery spells."
-msgstr ""
+msgstr "Nie możesz rzucać czarów sztuczek i obrzędów."
 
 #: ../../CN2.rst:60
 msgid ""
@@ -158,6 +178,8 @@ msgid ""
 "Creatures you control with the chosen name have \"|mana_r|: This creature"
 " gets +1/+0 until end of turn.\""
 msgstr ""
+"Stwory o wybranej nazwie pod twoim władaniem mają \"|mana_r|: Ten stwór "
+"dostaje +1/+0 do końca tury.\""
 
 #: ../../CN2.rst:66
 msgid ""
@@ -172,6 +194,9 @@ msgid ""
 "combat on your turn, you may pay |mana_g|. If you do, put a +1/+1 counter"
 " on this creature.\""
 msgstr ""
+"Stwory o wybranej pod twoim władaniem mają \"Na początku walki w twojej "
+"turze możesz zapłacić |mana_g|. Jeśli to zrobisz, umieść znacznik +1/+1 na "
+"tym stworze.\""
 
 #: ../../CN2.rst:76
 msgid ""
@@ -183,16 +208,22 @@ msgstr ""
 #: ../../CN2.rst:71
 msgid "Your deck can't have basic land cards and your starting hand size is five."
 msgstr ""
+"Twoja talia nie może mieć bazowych lądów, a liczba kart na twojej startowej "
+"ręce to pięć."
 
 #: ../../CN2.rst:73
 msgid ""
 "Exile a card from your hand: This turn, you may play basic land cards "
 "from outside the game."
 msgstr ""
+"Wygnaj kartę z twojej ręki: W tej turze możesz zagrywać karty bazowych lądów "
+"spoza gry."
 
 #: ../../CN2.rst:75
 msgid "Basic lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
+"Bazowe lądy pod twoim władaniem mają \"|tap|: Dostajesz jedną manę dowolnego "
+"koloru.\""
 
 #: ../../CN2.rst:82
 msgid ""
