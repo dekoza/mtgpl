@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 02:54+0000\n"
+"PO-Revision-Date: 2019-05-02 09:11+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -37,8 +37,8 @@ msgid ""
 "+1: Until end of turn, up to one target creature gets +1/+1 and gains first "
 "strike, vigilance, and lifelink."
 msgstr ""
-"+1: Do końca tury co najwyżej jeden wskazany stwór dostaje +1/+1, Pierwszy "
-"Cios, Czujność i Więź Życia."
+"+1: Do końca tury co najwyżej jeden wskazany stwór dostaje +1/+1, pierwszy "
+"cios, czujność i więź życia."
 
 # 4aa990b96d77431da66a5eab046305d1
 #: ../../M15.rst:11
@@ -54,6 +54,9 @@ msgid ""
 "−7: You get an emblem with \"If a source would deal damage to you or a "
 "planeswalker you control, prevent all but 1 of that damage.\""
 msgstr ""
+"–7: Dostajesz emblemat ze zdolnością \"Jeśli jakieś źródło miałoby zadać "
+"obrażenia tobie lub wędrowcowi pod twoim władaniem, zażegnaj je wszystkie z "
+"wyjątkiem jednego.\""
 
 #: ../../M15.rst:18
 msgid ""
@@ -66,7 +69,7 @@ msgstr ""
 #: ../../M15.rst:17
 msgid ""
 "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate."
-msgstr "Ilekroć zyskujesz życie, możesz położyć znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć zyskujesz życie, połóż znacznik +1/+1 na tym stworze."
 
 #: ../../M15.rst:26
 msgid ""
@@ -85,6 +88,9 @@ msgid ""
 "|mana_1|\\ |mana_w|: Prevent all damage that would be dealt to another "
 "target creature this turn by sources of the color of your choice."
 msgstr ""
+"|mana_1|\\ |mana_w|: Zażegnaj wszystkie obrażenia, jakie mogłyby zostać "
+"zadane wskazanemu stworowi w tej turze przez źródła o kolorze wybranym przez "
+"ciebie."
 
 #: ../../M15.rst:25
 msgid ""
@@ -92,6 +98,9 @@ msgid ""
 "target player or planeswalker this turn by sources of the color of your "
 "choice."
 msgstr ""
+"|mana_5|\\ |mana_w|\\ |mana_w|: Zażegnaj wszystkie obrażenia, jakie mogłyby "
+"zostać zadane wskazanemu graczowi lub wędrowcowi w tej turze przez źródła o "
+"kolorze wybranym przez ciebie."
 
 #: ../../M15.rst:32
 msgid ""
@@ -1520,6 +1529,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: Cruel "
 "Sadist deals X damage to target creature."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|, usuń X znaczników +1/+1 z tego stwora: Zadaje on "
+"wskazanemu stworowi X obrażeń."
 
 #: ../../M15.rst:498
 msgid ""
