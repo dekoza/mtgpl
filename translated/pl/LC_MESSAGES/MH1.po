@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-31 16:40+0200\n"
-"PO-Revision-Date: 2019-04-14 22:17+0000\n"
+"PO-Revision-Date: 2019-05-04 20:51+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mh1/pl/>\n"
 "Language: pl\n"
@@ -33,17 +33,20 @@ msgstr ""
 
 #: ../../MH1.rst:9
 msgid "+2: Creatures you control with flying get +1/+1 until end of turn."
-msgstr ""
+msgstr "+2: Stwory z lataniem pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../MH1.rst:11
 msgid "-3: Create a 4/4 white Angel creature token with flying and vigilance."
-msgstr ""
+msgstr "–3: Stwórz żeton białego stwora Anioł 4/4 z lataniem i czujnością."
 
 #: ../../MH1.rst:13
 msgid ""
 "-6: You get an emblem with \"If you control a creature, damage that would"
 " reduce your life total to less than 1 reduces it to 1 instead.\""
 msgstr ""
+"–6: Dostajesz emblemat o treści \"Jeśli władasz stworem, obrażenia mające "
+"zmniejszyć liczbę twoich żyć do mniej niż 1 zamiast tego zmniejszają ją do 1."
+"\""
 
 #: ../../MH1.rst:19
 msgid ""
@@ -64,3 +67,6 @@ msgid ""
 "creature. When you do, choose a nonland card name, then target player "
 "reveals their hand and discards all cards with that name."
 msgstr ""
+"Na początku twojej przedbitewnej fazy głównej możesz poświęcić stwora. Kiedy "
+"to zrobisz, wybierz nazwę nielądowej karty, następnie wskazany gracz ujawnia "
+"swoją rękę i odrzuca wszystkie karty o wybranej nazwie."
