@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 04:27+0000\n"
+"PO-Revision-Date: 2019-05-04 20:51+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -499,7 +499,6 @@ msgid "You gain 6 life."
 msgstr "Zyskujesz 6 żyć."
 
 #: ../../AKH.rst:151
-#, fuzzy
 msgid ""
 "Cycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Draw a "
 "card.)"
@@ -1294,7 +1293,6 @@ msgid "|tap|: Untap another target permanent."
 msgstr "|tap|: Odkręć inny wskazany permanent."
 
 #: ../../AKH.rst:421
-#, fuzzy
 msgid ""
 "Cycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Draw a "
 "card.)"
@@ -1856,7 +1854,6 @@ msgid "Create three 2/2 black Zombie creature tokens."
 msgstr "Stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../AKH.rst:607
-#, fuzzy
 msgid ""
 "Cycling |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|, Discard this card: Draw a "
 "card.)"
@@ -2124,7 +2121,6 @@ msgid "Deem Worthy deals 7 damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi 7 obrażeń."
 
 #: ../../AKH.rst:699
-#, fuzzy
 msgid ""
 "Cycling |mana_3|\\ |mana_r| (|mana_3|\\ |mana_r|, Discard this card: Draw a "
 "card.)"
@@ -2406,9 +2402,8 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../AKH.rst:783
-#, fuzzy
 msgid "|mana_1|\\ |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
-msgstr "Atakujące stwory dostają +2/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../AKH.rst:790
 msgid ""
@@ -2499,7 +2494,7 @@ msgstr ""
 
 #: ../../AKH.rst:813
 msgid "Sweltering Suns deals 3 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi 3 obrażenia."
 
 #: ../../AKH.rst:815 ../../AKH.rst:933
 msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
@@ -2596,6 +2591,9 @@ msgid ""
 "creature an opponent controls, where X is the number of instant and sorcery "
 "cards in your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje X obrażeń wskazanemu stworowi "
+"pod władaniem przeciwnika, gdzie X jest liczbą kart sztuczek i obrzędów w "
+"twoim cmentarzu."
 
 #: ../../AKH.rst:852
 msgid ""
@@ -2610,6 +2608,9 @@ msgid ""
 "or an enchantment card from among them into your hand. Put the rest into "
 "your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora oraz/lub kartę uroku spośród nich w twojej ręce. Umieść pozostałe w "
+"twoim cmentarzu."
 
 #: ../../AKH.rst:856
 msgid ""
