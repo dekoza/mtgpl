@@ -20,9 +20,10 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
-.. Nadochodzące
-.. ------------
+Nadochodzące
+------------
 
+* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p25|
 
 
 Standard
@@ -39,7 +40,6 @@ Standard
 Modern
 ------
 
-* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>`|p25| (nadchodzący)
 * :doc:`Lista pozostałych dodatków<modern>`
 
 Legacy / Vintage
