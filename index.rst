@@ -157,6 +157,7 @@ Legal notice
    RIX
    XLN
 
+   MH1
    modern
    legacy
 
