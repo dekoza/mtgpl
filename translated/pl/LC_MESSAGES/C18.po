@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-05-02 04:27+0000\n"
+"PO-Revision-Date: 2019-06-08 16:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -920,10 +920,14 @@ msgstr ""
 #: ../../C18.rst:429
 msgid "Kicker |mana_2|\\ |mana_u| (You may pay an additional |mana_2|\\ |mana_u| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_u| (Rzucając ten czar możesz zapłacić dodatkowo "
+"|mana_2|\\ |mana_u|.)"
 
 #: ../../C18.rst:431
 msgid "Destroy target artifact or enchantment. If this spell was kicked, draw two cards."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok. Jeśli ten czar został podbity, dobierz "
+"dwie karty."
 
 #: ../../C18.rst:438
 msgid ":mtgtip:`Entreat the Angels<https://img.scryfall.com/cards/border_crop/en/c18/67.jpg?1535502806|https://scryfall.com/card/c18/67/entreat-the-angels?utm_source=api>`"

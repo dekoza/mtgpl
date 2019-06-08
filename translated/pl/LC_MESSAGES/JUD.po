@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-05-02 04:28+0000\n"
+"PO-Revision-Date: 2019-06-08 16:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/jud/pl/>\n"
 "Language: pl\n"
@@ -81,6 +81,9 @@ msgid ""
 "Flashback—Tap three untapped white creatures you control. (You may cast "
 "this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
+"Następnie wygnaj ją.)"
 
 #: ../../JUD.rst:30
 msgid ""
@@ -2062,7 +2065,7 @@ msgstr ""
 
 #: ../../JUD.rst:741
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../JUD.rst:743
 msgid ""

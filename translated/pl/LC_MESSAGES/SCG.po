@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-05-04 20:51+0000\n"
+"PO-Revision-Date: 2019-06-08 16:59+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/scg/pl/>\n"
 "Language: pl\n"
@@ -298,10 +298,12 @@ msgid ""
 "You gain shroud until end of turn. (You can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Zyskujesz osłonę do końca tury. (Nie możesz być wskazany przez czary i "
+"zdolności.)"
 
 #: ../../SCG.rst:105 ../../SCG.rst:457 ../../SCG.rst:653 ../../SCG.rst:659
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../SCG.rst:112
 msgid ""

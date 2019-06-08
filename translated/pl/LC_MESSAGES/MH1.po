@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-01 13:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-06-08 16:59+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/mh1/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../MH1.rst:5
 msgid ":mtgexp:`MH1` Modern Horizons"
@@ -38,7 +41,7 @@ msgstr ""
 
 #: ../../MH1.rst:11
 msgid "As Morophon, the Boundless enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu walki wybierz typ stwora."
 
 #: ../../MH1.rst:13
 msgid "Spells of the chosen type you cast cost |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| less to cast. This effect reduces only the amount of colored mana you pay."
@@ -46,7 +49,7 @@ msgstr ""
 
 #: ../../MH1.rst:15
 msgid "Other creatures you control of the chosen type get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem będące wybranego typu dostają +1/+1."
 
 #: ../../MH1.rst:20
 msgid ":mtgtip:`Answered Prayers<https://img.scryfall.com/cards/border_crop/front/1/7/175b6e34-9cb3-4c8d-9cc0-960082a9ee71.jpg?1559074459|https://scryfall.com/card/mh1/2/answered-prayers?utm_source=api>`"
@@ -67,6 +70,8 @@ msgstr ""
 #: ../../MH1.rst:25
 msgid "Cycling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../MH1.rst:32
 msgid ":mtgtip:`Battle Screech<https://img.scryfall.com/cards/border_crop/front/e/a/eacf7dd0-5855-4e7b-b75c-8119cc3d1460.jpg?1558706968|https://scryfall.com/card/mh1/4/battle-screech?utm_source=api>`"
@@ -79,6 +84,9 @@ msgstr ""
 #: ../../MH1.rst:31
 msgid "Flashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
+"Następnie wygnaj ją.)"
 
 #: ../../MH1.rst:38
 msgid ":mtgtip:`Dismantling Blow<https://img.scryfall.com/cards/border_crop/front/7/0/70edc5da-4477-49f6-bbcc-f208fdaae0d3.jpg?1558435120|https://scryfall.com/card/mh1/5/dismantling-blow?utm_source=api>`"
@@ -87,10 +95,14 @@ msgstr ""
 #: ../../MH1.rst:35
 msgid "Kicker |mana_2|\\ |mana_u| (You may pay an additional |mana_2|\\ |mana_u| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_u| (Rzucając ten czar możesz zapłacić dodatkowo "
+"|mana_2|\\ |mana_u|.)"
 
 #: ../../MH1.rst:37
 msgid "Destroy target artifact or enchantment. If this spell was kicked, draw two cards."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok. Jeśli ten czar został podbity, dobierz "
+"dwie karty."
 
 #: ../../MH1.rst:44
 msgid ":mtgtip:`Enduring Sliver<https://img.scryfall.com/cards/border_crop/front/6/e/6ed0f6a5-ed40-44fc-a5e1-3f8bb968d1d9.jpg?1559214593|https://scryfall.com/card/mh1/6/enduring-sliver?utm_source=api>`"
@@ -112,6 +124,8 @@ msgstr ""
 #: ../../MH1.rst:163
 msgid "Exile target creature you control, then return it to the battlefield under its owner's control."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władanie, następnie przywróć go na pole "
+"walki pod władaniem jego właściciela."
 
 #: ../../MH1.rst:49
 msgid "Rebound (If you cast this spell from your hand, exile it as it resolves. at the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
@@ -129,11 +143,11 @@ msgstr ""
 #: ../../MH1.rst:625
 #: ../../MH1.rst:1073
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../MH1.rst:55
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../MH1.rst:57
 msgid "As long as another Aura is attached to enchanted creature, it has first strike and lifelink."
@@ -146,6 +160,9 @@ msgstr ""
 #: ../../MH1.rst:61
 msgid "Sliver creatures you control have exalted. (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)"
 msgstr ""
+"Drzazgacze pod twoim władaniem maja egzaltację. (Ilekroć stwór pod twoim "
+"władaniem atakuje samotnie, dostaje +1/+1 do końca tury za każde wystąpienie "
+"egzaltacji wśród permanentów pod twoim władaniem.)"
 
 #: ../../MH1.rst:70
 msgid ":mtgtip:`Force of Virtue<https://img.scryfall.com/cards/border_crop/front/9/7/9736d6f4-5ff6-4006-b45d-8e630382d160.jpg?1558618575|https://scryfall.com/card/mh1/10/force-of-virtue?utm_source=api>`"
@@ -160,11 +177,11 @@ msgstr ""
 #: ../../MH1.rst:1183
 #: ../../MH1.rst:1231
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../MH1.rst:69
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../MH1.rst:74
 msgid ":mtgtip:`Generous Gift<https://img.scryfall.com/cards/border_crop/front/9/8/983f4711-20a8-4023-8201-9a74deab10be.jpg?1558615802|https://scryfall.com/card/mh1/11/generous-gift?utm_source=api>`"
@@ -181,13 +198,15 @@ msgstr ""
 #: ../../MH1.rst:77
 msgid "You gain shroud until end of turn. (You can't be the target of spells or abilities.)"
 msgstr ""
+"Zyskujesz osłonę do końca tury. (Nie możesz być wskazany przez czary i "
+"zdolności.)"
 
 #: ../../MH1.rst:79
 #: ../../MH1.rst:395
 #: ../../MH1.rst:679
 #: ../../MH1.rst:875
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../MH1.rst:84
 msgid ":mtgtip:`Giver of Runes<https://img.scryfall.com/cards/border_crop/front/4/e/4e117771-5a8b-4812-b487-32ba34b7f724.jpg?1558466584|https://scryfall.com/card/mh1/13/giver-of-runes?utm_source=api>`"
@@ -215,7 +234,7 @@ msgstr ""
 
 #: ../../MH1.rst:97
 msgid "Other Cats you control get +2/+1."
-msgstr ""
+msgstr "Inne Koty pod twoim władaniem dostają +2/+1."
 
 #: ../../MH1.rst:104
 msgid ":mtgtip:`Knight of Old Benalia<https://img.scryfall.com/cards/border_crop/front/6/d/6d919fc0-0117-4dad-a368-e76b216cdd2a.jpg?1559300070|https://scryfall.com/card/mh1/17/knight-of-old-benalia?utm_source=api>`"
@@ -235,7 +254,7 @@ msgstr ""
 
 #: ../../MH1.rst:107
 msgid "Sliver creatures you control have first strike."
-msgstr ""
+msgstr "Drzazgacze pod twoim władaniem mają pierwszy cios."
 
 #: ../../MH1.rst:114
 msgid ":mtgtip:`Martyr's Soul<https://img.scryfall.com/cards/border_crop/front/7/c/7c17428c-e31d-42f3-8811-6734abd96b0b.jpg?1558464598|https://scryfall.com/card/mh1/19/martyrs-soul?utm_source=api>`"
@@ -245,6 +264,9 @@ msgstr ""
 #: ../../MH1.rst:537
 msgid "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of the creature's color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"kolorze owego stwora.)"
 
 #: ../../MH1.rst:113
 msgid "When Martyr's Soul enters the battlefield, if you control no tapped lands, put two +1/+1 counters on it."
@@ -256,7 +278,7 @@ msgstr ""
 
 #: ../../MH1.rst:117
 msgid "Enchant snow land you control"
-msgstr ""
+msgstr "Zaurocz śnieżny ląd pod twoim władaniem"
 
 #: ../../MH1.rst:119
 msgid "When On Thin Ice enters the battlefield, exile target creature an opponent controls until On Thin Ice leaves the battlefield."
@@ -312,7 +334,7 @@ msgstr ""
 
 #: ../../MH1.rst:147
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../MH1.rst:156
 msgid ":mtgtip:`Serra the Benevolent<https://img.scryfall.com/cards/border_crop/front/8/8/88bf4af9-4b14-43e7-9d50-0e6a895cece1.jpg?1558464604|https://scryfall.com/card/mh1/26/serra-the-benevolent?utm_source=api>`"
@@ -320,7 +342,7 @@ msgstr ""
 
 #: ../../MH1.rst:151
 msgid "+2: Creatures you control with flying get +1/+1 until end of turn."
-msgstr ""
+msgstr "+2: Stwory z lataniem pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../MH1.rst:153
 msgid "-3: Create a 4/4 white Angel creature token with flying and vigilance."
@@ -336,11 +358,11 @@ msgstr ""
 
 #: ../../MH1.rst:159
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedno lub oba —"
 
 #: ../../MH1.rst:161
 msgid "Exile target creature you don't control."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora poza twoim władaniem."
 
 #: ../../MH1.rst:170
 msgid ":mtgtip:`Shelter<https://img.scryfall.com/cards/border_crop/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.jpg?1559303303|https://scryfall.com/card/mh1/28/shelter?utm_source=api>`"
@@ -405,6 +427,9 @@ msgstr ""
 #: ../../MH1.rst:195
 msgid "Overload |mana_5|\\ |mana_w| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie |mana_5|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH1.rst:200
 msgid ":mtgtip:`Trustworthy Scout<https://img.scryfall.com/cards/border_crop/front/8/a/8a65f118-3812-4698-8f43-669ceb6b7982.jpg?1559300672|https://scryfall.com/card/mh1/33/trustworthy-scout?utm_source=api>`"
@@ -477,6 +502,9 @@ msgstr ""
 #: ../../MH1.rst:227
 msgid "Overload |mana_4|\\ |mana_w|\\ |mana_w| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie |mana_4|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH1.rst:234
 msgid ":mtgtip:`Wing Shards<https://img.scryfall.com/cards/border_crop/front/f/8/f8326bd2-83a8-4600-b12a-0bda47168f7b.jpg?1558464614|https://scryfall.com/card/mh1/38/wing-shards?utm_source=api>`"
@@ -1106,6 +1134,9 @@ msgstr ""
 #: ../../MH1.rst:577
 msgid "Overload |mana_1|\\ |mana_b| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each\".)"
 msgstr ""
+"Przeciążenie |mana_1|\\ |mana_b| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH1.rst:584
 msgid ":mtgtip:`Mob<https://img.scryfall.com/cards/border_crop/front/3/c/3c216e13-3779-4734-b481-9aad7aba9925.jpg?1559301760|https://scryfall.com/card/mh1/97/mob?utm_source=api>`"
@@ -1996,6 +2027,9 @@ msgstr ""
 #: ../../MH1.rst:1045
 msgid "Overload |mana_4|\\ |mana_g|\\ |mana_g| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie |mana_4|\\ |mana_g|\\ |mana_g| (Możesz rzucić ten czar za jego "
+"koszt przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH1.rst:1050
 msgid ":mtgtip:`Spore Frog<https://img.scryfall.com/cards/border_crop/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1558528414|https://scryfall.com/card/mh1/180/spore-frog?utm_source=api>`"
