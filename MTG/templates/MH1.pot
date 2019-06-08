@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-01 13:05+0200\n"
+"POT-Creation-Date: 2019-06-08 18:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid ":mtgexp:`MH1` Modern Horizons"
 msgstr ""
 
 #: ../../MH1.rst:16
-msgid ":mtgtip:`Morophon, the Boundless<https://img.scryfall.com/cards/border_crop/front/9/6/9693e59b-032d-4ddc-a7d1-88a0f52dcc6c.jpg?1558563542|https://scryfall.com/card/mh1/1/morophon-the-boundless?utm_source=api>`"
+msgid ":mtgtip:`Morophon, the Boundless<https://img.scryfall.com/cards/border_crop/front/9/6/9693e59b-032d-4ddc-a7d1-88a0f52dcc6c.jpg?1559959473|https://scryfall.com/card/mh1/1/morophon-the-boundless?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:9
@@ -29,6 +29,7 @@ msgstr ""
 #: ../../MH1.rst:91
 #: ../../MH1.rst:205
 #: ../../MH1.rst:495
+#: ../../MH1.rst:563
 #: ../../MH1.rst:683
 #: ../../MH1.rst:1117
 #: ../../MH1.rst:1267
@@ -101,7 +102,7 @@ msgid "Outlast |mana_2| (|mana_2|, |tap|: Put a +1/+1 counter on this creature. 
 msgstr ""
 
 #: ../../MH1.rst:43
-msgid "Other sliver creatures you control have outlast |mana_2|."
+msgid "Other Sliver creatures you control have outlast |mana_2|."
 msgstr ""
 
 #: ../../MH1.rst:50
@@ -114,7 +115,8 @@ msgid "Exile target creature you control, then return it to the battlefield unde
 msgstr ""
 
 #: ../../MH1.rst:49
-msgid "Rebound (If you cast this spell from your hand, exile it as it resolves. at the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+#: ../../MH1.rst:1089
+msgid "Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
 msgstr ""
 
 #: ../../MH1.rst:58
@@ -243,7 +245,8 @@ msgstr ""
 
 #: ../../MH1.rst:111
 #: ../../MH1.rst:537
-msgid "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of the creature's color.)"
+#: ../../MH1.rst:581
+msgid "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)"
 msgstr ""
 
 #: ../../MH1.rst:113
@@ -323,11 +326,11 @@ msgid "+2: Creatures you control with flying get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../MH1.rst:153
-msgid "-3: Create a 4/4 white Angel creature token with flying and vigilance."
+msgid "−3: Create a 4/4 white Angel creature token with flying and vigilance."
 msgstr ""
 
 #: ../../MH1.rst:155
-msgid "-6: You get an emblem with \"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.\""
+msgid "−6: You get an emblem with \"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.\""
 msgstr ""
 
 #: ../../MH1.rst:164
@@ -359,7 +362,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../MH1.rst:176
-msgid ":mtgtip:`Sisay, Weatherlight Captain<https://img.scryfall.com/cards/border_crop/front/5/a/5a293c45-1e73-4527-be2f-2dcd5c47b610.jpg?1558626483|https://scryfall.com/card/mh1/29/sisay-weatherlight-captain?utm_source=api>`"
+msgid ":mtgtip:`Sisay, Weatherlight Captain<https://img.scryfall.com/cards/border_crop/front/5/a/5a293c45-1e73-4527-be2f-2dcd5c47b610.jpg?1559959479|https://scryfall.com/card/mh1/29/sisay-weatherlight-captain?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:173
@@ -379,7 +382,7 @@ msgid "Enchanted creature gets +1/+1 and has vigilance."
 msgstr ""
 
 #: ../../MH1.rst:183
-msgid "When enchanted creature dies, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up at any time for its mana cost if it's a creature card.)"
+msgid "When enchanted creature dies, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
 
 #: ../../MH1.rst:190
@@ -395,7 +398,7 @@ msgid "Splice onto instant or sorcery |mana_3|\\ |mana_w| (As you cast an instan
 msgstr ""
 
 #: ../../MH1.rst:196
-msgid ":mtgtip:`Stirring Address<https://img.scryfall.com/cards/border_crop/front/2/d/2de3e3b0-6ecf-4bf6-9595-0e5e59ef1d6a.jpg?1559300619|https://scryfall.com/card/mh1/32/stirring-address?utm_source=api>`"
+msgid ":mtgtip:`Stirring Address<https://img.scryfall.com/cards/border_crop/front/2/d/2de3e3b0-6ecf-4bf6-9595-0e5e59ef1d6a.jpg?1559784493|https://scryfall.com/card/mh1/32/stirring-address?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:193
@@ -487,8 +490,8 @@ msgid "Target player sacrifices an attacking creature."
 msgstr ""
 
 #: ../../MH1.rst:233
-#: ../../MH1.rst:1113
-msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn.)"
+#: ../../MH1.rst:1507
+msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
 msgstr ""
 
 #: ../../MH1.rst:238
@@ -504,8 +507,10 @@ msgid ":mtgtip:`Archmage's Charm<https://img.scryfall.com/cards/border_crop/fron
 msgstr ""
 
 #: ../../MH1.rst:241
+#: ../../MH1.rst:437
 #: ../../MH1.rst:617
 #: ../../MH1.rst:631
+#: ../../MH1.rst:663
 #: ../../MH1.rst:773
 msgid "Choose one —"
 msgstr ""
@@ -825,7 +830,7 @@ msgid "Target player puts the top four cards of their library into their graveya
 msgstr ""
 
 #: ../../MH1.rst:425
-msgid "Replicate |mana_2|\\ |mana_u|\\ |mana_u| (When you cast this spell, copy it for each time you paid the replicate cost. You may choose new targets for the copies.)"
+msgid "Replicate |mana_2|\\ |mana_u|\\ |mana_u| (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)"
 msgstr ""
 
 #: ../../MH1.rst:430
@@ -837,7 +842,7 @@ msgid "Return target creature to its owner's hand. Then that creature's controll
 msgstr ""
 
 #: ../../MH1.rst:434
-msgid ":mtgtip:`Tribute Mage<https://img.scryfall.com/cards/border_crop/front/6/c/6c180888-6acd-401b-815a-6ed434482681.jpg?1559235001|https://scryfall.com/card/mh1/73/tribute-mage?utm_source=api>`"
+msgid ":mtgtip:`Tribute Mage<https://img.scryfall.com/cards/border_crop/front/6/c/6c180888-6acd-401b-815a-6ed434482681.jpg?1559588433|https://scryfall.com/card/mh1/73/tribute-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:433
@@ -846,11 +851,6 @@ msgstr ""
 
 #: ../../MH1.rst:444
 msgid ":mtgtip:`Twisted Reflection<https://img.scryfall.com/cards/border_crop/front/f/1/f1d4d408-df74-45f7-925b-3cbff9a0304c.jpg?1559179896|https://scryfall.com/card/mh1/74/twisted-reflection?utm_source=api>`"
-msgstr ""
-
-#: ../../MH1.rst:437
-#: ../../MH1.rst:663
-msgid "Choose one—"
 msgstr ""
 
 #: ../../MH1.rst:439
@@ -866,7 +866,7 @@ msgid "Entwine |mana_b| (Choose both if you pay the entwine cost.)"
 msgstr ""
 
 #: ../../MH1.rst:452
-msgid ":mtgtip:`Urza, Lord High Artificer<https://img.scryfall.com/cards/border_crop/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1558455067|https://scryfall.com/card/mh1/75/urza-lord-high-artificer?utm_source=api>`"
+msgid ":mtgtip:`Urza, Lord High Artificer<https://img.scryfall.com/cards/border_crop/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1559958791|https://scryfall.com/card/mh1/75/urza-lord-high-artificer?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:447
@@ -923,7 +923,7 @@ msgid ":mtgtip:`Azra Smokeshaper<https://img.scryfall.com/cards/border_crop/fron
 msgstr ""
 
 #: ../../MH1.rst:477
-msgid "Ninjutsu |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Return an unblocked attacker you control to your hand: Put this card onto the battlefield tapped and attacking)"
+msgid "Ninjutsu |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
 msgstr ""
 
 #: ../../MH1.rst:479
@@ -968,7 +968,7 @@ msgid ":mtgtip:`Cordial Vampire<https://img.scryfall.com/cards/border_crop/front
 msgstr ""
 
 #: ../../MH1.rst:501
-msgid "Whenever Cordial Vampire or another creature dies, put a +1/+1 counter on each vampire creature you control."
+msgid "Whenever Cordial Vampire or another creature dies, put a +1/+1 counter on each Vampire you control."
 msgstr ""
 
 #: ../../MH1.rst:506
@@ -1052,7 +1052,7 @@ msgid "When First-Sphere Gargantua enters the battlefield, you draw a card and y
 msgstr ""
 
 #: ../../MH1.rst:547
-msgid "Unearth |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery)"
+msgid "Unearth |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
 msgstr ""
 
 #: ../../MH1.rst:554
@@ -1072,15 +1072,11 @@ msgid ":mtgtip:`Gluttonous Slug<https://img.scryfall.com/cards/border_crop/front
 msgstr ""
 
 #: ../../MH1.rst:559
-msgid "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature)"
+msgid "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)"
 msgstr ""
 
 #: ../../MH1.rst:566
 msgid ":mtgtip:`Graveshifter<https://img.scryfall.com/cards/border_crop/front/1/2/128c516b-7eb1-4f81-8b54-428bd0649d92.jpg?1559301638|https://scryfall.com/card/mh1/94/graveshifter?utm_source=api>`"
-msgstr ""
-
-#: ../../MH1.rst:563
-msgid "Changeling (This card is every creature type)"
 msgstr ""
 
 #: ../../MH1.rst:565
@@ -1104,15 +1100,11 @@ msgid "Target player discards two cards."
 msgstr ""
 
 #: ../../MH1.rst:577
-msgid "Overload |mana_1|\\ |mana_b| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each\".)"
+msgid "Overload |mana_1|\\ |mana_b| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../MH1.rst:584
 msgid ":mtgtip:`Mob<https://img.scryfall.com/cards/border_crop/front/3/c/3c216e13-3779-4734-b481-9aad7aba9925.jpg?1559301760|https://scryfall.com/card/mh1/97/mob?utm_source=api>`"
-msgstr ""
-
-#: ../../MH1.rst:581
-msgid "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)"
 msgstr ""
 
 #: ../../MH1.rst:583
@@ -1303,7 +1295,7 @@ msgid "Whenever Warteye Witch or another creature you control dies, scry 1."
 msgstr ""
 
 #: ../../MH1.rst:698
-msgid ":mtgtip:`Yawgmoth, Thran Physician<https://img.scryfall.com/cards/border_crop/front/8/6/8690cbcc-f8fd-41f7-9e28-e61c12b04014.jpg?1558985352|https://scryfall.com/card/mh1/116/yawgmoth-thran-physician?utm_source=api>`"
+msgid ":mtgtip:`Yawgmoth, Thran Physician<https://img.scryfall.com/cards/border_crop/front/8/6/8690cbcc-f8fd-41f7-9e28-e61c12b04014.jpg?1559958786|https://scryfall.com/card/mh1/116/yawgmoth-thran-physician?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:693
@@ -1411,7 +1403,7 @@ msgid "Destroy target land. Its controller may search their library for a basic 
 msgstr ""
 
 #: ../../MH1.rst:750
-msgid ":mtgtip:`Goatnap<https://img.scryfall.com/cards/border_crop/front/7/0/709d4928-e976-4c7c-ba09-cce95d1797b2.jpg?1558963586|https://scryfall.com/card/mh1/126/goatnap?utm_source=api>`"
+msgid ":mtgtip:`Goatnap<https://img.scryfall.com/cards/border_crop/front/7/0/709d4928-e976-4c7c-ba09-cce95d1797b2.jpg?1559643016|https://scryfall.com/card/mh1/126/goatnap?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:749
@@ -1448,7 +1440,7 @@ msgid ":mtgtip:`Goblin Matron<https://img.scryfall.com/cards/border_crop/front/2
 msgstr ""
 
 #: ../../MH1.rst:765
-msgid "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library."
+msgid "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library."
 msgstr ""
 
 #: ../../MH1.rst:770
@@ -1460,7 +1452,7 @@ msgid "Attacking creatures you control get +1/+0."
 msgstr ""
 
 #: ../../MH1.rst:780
-msgid ":mtgtip:`Goblin War Party<https://img.scryfall.com/cards/border_crop/front/2/b/2b4155d1-0a87-4d2c-a1a0-06b2553eaae4.jpg?1558464693|https://scryfall.com/card/mh1/131/goblin-war-party?utm_source=api>`"
+msgid ":mtgtip:`Goblin War Party<https://img.scryfall.com/cards/border_crop/front/2/b/2b4155d1-0a87-4d2c-a1a0-06b2553eaae4.jpg?1559505879|https://scryfall.com/card/mh1/131/goblin-war-party?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:775
@@ -1512,7 +1504,7 @@ msgid ":mtgtip:`Magmatic Sinkhole<https://img.scryfall.com/cards/border_crop/fro
 msgstr ""
 
 #: ../../MH1.rst:799
-msgid "Delve (Each spell you exile from your graveyard while casting this spell pays for |mana_1|)"
+msgid "Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)"
 msgstr ""
 
 #: ../../MH1.rst:801
@@ -1544,7 +1536,7 @@ msgid "Flying, haste"
 msgstr ""
 
 #: ../../MH1.rst:820
-msgid ":mtgtip:`Pashalik Mons<https://img.scryfall.com/cards/border_crop/front/1/1/11616853-34b1-4bb1-9590-461e12970ec3.jpg?1559049122|https://scryfall.com/card/mh1/138/pashalik-mons?utm_source=api>`"
+msgid ":mtgtip:`Pashalik Mons<https://img.scryfall.com/cards/border_crop/front/1/1/11616853-34b1-4bb1-9590-461e12970ec3.jpg?1559958781|https://scryfall.com/card/mh1/138/pashalik-mons?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:817
@@ -1648,7 +1640,7 @@ msgid "As long as you've drawn two or more cards this turn, Spinehorn Minotaur h
 msgstr ""
 
 #: ../../MH1.rst:870
-msgid ":mtgtip:`Spiteful Sliver<https://img.scryfall.com/cards/border_crop/front/6/5/6506d58f-9825-4384-9012-1d037543fb59.jpg?1559076214|https://scryfall.com/card/mh1/148/spiteful-sliver?utm_source=api>`"
+msgid ":mtgtip:`Spiteful Sliver<https://img.scryfall.com/cards/border_crop/front/6/5/6506d58f-9825-4384-9012-1d037543fb59.jpg?1559932388|https://scryfall.com/card/mh1/148/spiteful-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:869
@@ -1727,7 +1719,7 @@ msgid "Until end of turn, creatures you control get +2/+0 and gain all creature 
 msgstr ""
 
 #: ../../MH1.rst:916
-msgid ":mtgtip:`Ayula, Queen Among Bears<https://img.scryfall.com/cards/border_crop/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1558806854|https://scryfall.com/card/mh1/155/ayula-queen-among-bears?utm_source=api>`"
+msgid ":mtgtip:`Ayula, Queen Among Bears<https://img.scryfall.com/cards/border_crop/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1559958776|https://scryfall.com/card/mh1/155/ayula-queen-among-bears?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:911
@@ -2034,7 +2026,7 @@ msgid "Sliver creatures you control have \"Whenever this creature deals combat d
 msgstr ""
 
 #: ../../MH1.rst:1070
-msgid ":mtgtip:`Thornado<https://img.scryfall.com/cards/border_crop/front/e/a/eadffd6b-d707-4fc5-a600-44eb9124b195.jpg?1559247458|https://scryfall.com/card/mh1/184/thornado?utm_source=api>`"
+msgid ":mtgtip:`Thornado<https://img.scryfall.com/cards/border_crop/front/e/a/eadffd6b-d707-4fc5-a600-44eb9124b195.jpg?1559784512|https://scryfall.com/card/mh1/184/thornado?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:1067
@@ -2075,10 +2067,6 @@ msgstr ""
 
 #: ../../MH1.rst:1087
 msgid "Create a 3/3 green Elephant creature token."
-msgstr ""
-
-#: ../../MH1.rst:1089
-msgid "Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
 msgstr ""
 
 #: ../../MH1.rst:1096
@@ -2127,6 +2115,10 @@ msgstr ""
 msgid "You gain 3 life."
 msgstr ""
 
+#: ../../MH1.rst:1113
+msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn.)"
+msgstr ""
+
 #: ../../MH1.rst:1122
 msgid ":mtgtip:`Webweaver Changeling<https://img.scryfall.com/cards/border_crop/front/9/1/91571765-8da8-49f9-a776-7778d86cfb99.jpg?1559127632|https://scryfall.com/card/mh1/192/webweaver-changeling?utm_source=api>`"
 msgstr ""
@@ -2168,7 +2160,7 @@ msgid ":mtgtip:`Collected Conjuring<https://img.scryfall.com/cards/border_crop/f
 msgstr ""
 
 #: ../../MH1.rst:1141
-msgid "Exile the top six cards of your library. You may cast up to two sorcery cards with converted mana costs 3 or less from among them without paying their mana cost. Put the exiled cards not cast this way on the bottom of your library in a random order."
+msgid "Exile the top six cards of your library. You may cast up to two sorcery cards with converted mana cost 3 or less from among them without paying their mana costs. Put the exiled cards not cast this way on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../MH1.rst:1146
@@ -2204,11 +2196,11 @@ msgid "Ninjutsu |mana_2|\\ |mana_u|\\ |mana_b| (|mana_2|\\ |mana_u|\\ |mana_b|, 
 msgstr ""
 
 #: ../../MH1.rst:1159
-msgid "Whenever Fallen Shinobi deals combat damage to a player, that player exiles the top two cards of their library. Until end of turn, you may play those cards without paying their mana cost."
+msgid "Whenever Fallen Shinobi deals combat damage to a player, that player exiles the top two cards of their library. Until end of turn, you may play those cards without paying their mana costs."
 msgstr ""
 
 #: ../../MH1.rst:1166
-msgid ":mtgtip:`The First Sliver<https://img.scryfall.com/cards/border_crop/front/0/6/06d4fbe1-8a2f-4958-bb85-1a1e5f1e8d87.jpg?1558525414|https://scryfall.com/card/mh1/200/the-first-sliver?utm_source=api>`"
+msgid ":mtgtip:`The First Sliver<https://img.scryfall.com/cards/border_crop/front/0/6/06d4fbe1-8a2f-4958-bb85-1a1e5f1e8d87.jpg?1559958796|https://scryfall.com/card/mh1/200/the-first-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:1165
@@ -2224,7 +2216,7 @@ msgid "Whenever another creature enters the battlefield under your control, put 
 msgstr ""
 
 #: ../../MH1.rst:1180
-msgid ":mtgtip:`Hogaak, Arisen Necropolis<https://img.scryfall.com/cards/border_crop/front/0/0/0049e68d-0caf-474f-9523-dad343f1250a.jpg?1559151695|https://scryfall.com/card/mh1/202/hogaak-arisen-necropolis?utm_source=api>`"
+msgid ":mtgtip:`Hogaak, Arisen Necropolis<https://img.scryfall.com/cards/border_crop/front/0/0/0049e68d-0caf-474f-9523-dad343f1250a.jpg?1559958800|https://scryfall.com/card/mh1/202/hogaak-arisen-necropolis?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:1173
@@ -2292,7 +2284,7 @@ msgid "Entwine |mana_3| (Choose all if you pay the entwine cost.)"
 msgstr ""
 
 #: ../../MH1.rst:1216
-msgid ":mtgtip:`Kess, Dissident Mage<https://img.scryfall.com/cards/border_crop/front/3/6/3651483f-6077-4b4e-b2c7-9d57f22c65dc.jpg?1558966567|https://scryfall.com/card/mh1/206/kess-dissident-mage?utm_source=api>`"
+msgid ":mtgtip:`Kess, Dissident Mage<https://img.scryfall.com/cards/border_crop/front/3/6/3651483f-6077-4b4e-b2c7-9d57f22c65dc.jpg?1559958805|https://scryfall.com/card/mh1/206/kess-dissident-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:1215
@@ -2396,11 +2388,11 @@ msgid "+1: Return up to one target land card from your graveyard to your hand."
 msgstr ""
 
 #: ../../MH1.rst:1275
-msgid "-1: Wrenn and Six deals 1 damage to any target."
+msgid "−1: Wrenn and Six deals 1 damage to any target."
 msgstr ""
 
 #: ../../MH1.rst:1277
-msgid "-7: You get an emblem with \"Instant and sorcery cards in your graveyard have retrace.\""
+msgid "−7: You get an emblem with \"Instant and sorcery cards in your graveyard have retrace.\" (You may cast instant and sorcery cards from your graveyard by discarding a land card in addition to paying their other costs.)"
 msgstr ""
 
 #: ../../MH1.rst:1282
@@ -2429,7 +2421,7 @@ msgstr ""
 
 #: ../../MH1.rst:1291
 #: ../../MH1.rst:1315
-msgid "(|mana_s| can be paid with one mana from a snow permanent.)"
+msgid "&lt;i&gt;(|mana_s| can be paid with one mana from a snow permanent.)&lt;/i&gt;"
 msgstr ""
 
 #: ../../MH1.rst:1293
@@ -2803,14 +2795,10 @@ msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
 #: ../../MH1.rst:1507
-msgid ":mtgtip:`Flusterstorm<https://img.scryfall.com/cards/border_crop/front/4/6/46a00405-13ad-4531-9bfb-fea0ca57f196.jpg?1558464775|https://scryfall.com/card/mh1/255/flusterstorm?utm_source=api>`"
+msgid ":mtgtip:`Flusterstorm<https://img.scryfall.com/cards/border_crop/front/4/6/46a00405-13ad-4531-9bfb-fea0ca57f196.jpg?1559901033|https://scryfall.com/card/mh1/255/flusterstorm?utm_source=api>`"
 msgstr ""
 
 #: ../../MH1.rst:1505
 msgid "Counter target instant or sorcery spell unless its controller pays |mana_1|."
-msgstr ""
-
-#: ../../MH1.rst:1507
-msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
 msgstr ""
 
