@@ -4,8 +4,11 @@ Modern
 
 .. include:: progress.rst
 
-Dodatki
--------
+* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p25|
+
+
+Post-Standard
+-------------
 
 * :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p25|
 * :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|
@@ -72,6 +75,7 @@ Edycje bazowe
 .. toctree::
    :hidden:
 
+   MH1
    HOU
    AKH
    AER
