@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-08 16:59+0000\n"
+"PO-Revision-Date: 2019-06-08 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -1085,7 +1085,7 @@ msgstr ""
 
 #: ../../C15.rst:397 ../../C15.rst:939 ../../C15.rst:1003
 msgid "Changeling (This card is every creature type.)"
-msgstr ""
+msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 
 #: ../../C15.rst:399
 msgid ""
@@ -1536,6 +1536,9 @@ msgid ""
 "into two piles. Put one pile into your hand and the other into your "
 "graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Przeciwnik rozdziela owe "
+"karty na dwa stosy. Umieść jeden stos w twojej ręce, a pozostały w twoim "
+"cmentarzu."
 
 #: ../../C15.rst:560
 msgid ""
@@ -2380,6 +2383,8 @@ msgid ""
 "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_2|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C15.rst:854
 msgid ""

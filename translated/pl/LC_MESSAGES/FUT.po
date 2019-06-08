@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-06-08 16:59+0000\n"
+"PO-Revision-Date: 2019-06-08 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/fut/pl/>\n"
 "Language: pl\n"
@@ -658,7 +658,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../FUT.rst:231
 msgid "You may play the top card of your library."
-msgstr ""
+msgstr "Możesz zagrywać górną kartę twojej biblioteki."
 
 #: ../../FUT.rst:238
 msgid ""
@@ -1607,6 +1607,8 @@ msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it "
 "this turn.)"
 msgstr ""
+"Sztorm (Rzucając ten czar skopiuj go za każdy czar rzucony przed nim w tej "
+"turze.)"
 
 #: ../../FUT.rst:582
 msgid ""
@@ -2224,6 +2226,8 @@ msgid ""
 "Buyback |mana_3| (You may pay an additional |mana_3| as you cast this "
 "spell. If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_3| (Rzucając ten czar możesz zapłacić dodatkowo |mana_3|. Jeśli "
+"to zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../FUT.rst:803
 msgid "Create a 1/1 green Saproling creature token."

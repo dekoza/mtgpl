@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-05-02 04:27+0000\n"
+"PO-Revision-Date: 2019-06-08 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ema/pl/>\n"
 "Language: pl\n"
@@ -436,6 +436,8 @@ msgid ""
 "Target creature you control gains protection from the color of your "
 "choice until end of turn."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"wybranym przez ciebie kolorem."
 
 #: ../../EMA.rst:158
 msgid ":mtgtip:`Soulcatcher<https://img.scryfall.com/cards/border_crop/en/ema/30.jpg?1519048028|https://scryfall.com/card/ema/30/soulcatcher?utm_source=api>`"
@@ -689,6 +691,9 @@ msgid ""
 "cards into two piles. Put one pile into your hand and the other into your"
 " graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Przeciwnik rozdziela owe "
+"karty na dwa stosy. Umieść jeden stos w twojej ręce, a pozostały w twoim "
+"cmentarzu."
 
 #: ../../EMA.rst:254
 msgid ""
@@ -716,7 +721,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../EMA.rst:259
 msgid "You may play the top card of your library."
-msgstr ""
+msgstr "Możesz zagrywać górną kartę twojej biblioteki."
 
 #: ../../EMA.rst:266
 msgid ""
@@ -1720,6 +1725,8 @@ msgid ""
 "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard"
 " for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_2|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../EMA.rst:658
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 04:27+0000\n"
+"PO-Revision-Date: 2019-06-08 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -941,6 +941,8 @@ msgid ""
 "Outlast |mana_w| (|mana_w|, |tap|: Put a +1/+1 counter on this creature. "
 "Outlast only as a sorcery.)"
 msgstr ""
+"Przetrwanie |mana_w| (|mana_w|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
+"Używaj jako obrzęd.)"
 
 #: ../../C16.rst:359
 msgid "Each creature you control with a +1/+1 counter on it has flying."
@@ -1157,7 +1159,7 @@ msgstr ""
 
 #: ../../C16.rst:431 ../../C16.rst:781
 msgid "Changeling (This card is every creature type.)"
-msgstr ""
+msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 
 #: ../../C16.rst:433
 msgid ""
@@ -2748,6 +2750,8 @@ msgid ""
 "Outlast |mana_g| (|mana_g|, |tap|: Put a +1/+1 counter on this creature. "
 "Outlast only as a sorcery.)"
 msgstr ""
+"Przetrwanie |mana_g| (|mana_g|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
+"Używaj jako obrzęd.)"
 
 #: ../../C16.rst:975
 msgid "Each creature you control with a +1/+1 counter on it has trample."

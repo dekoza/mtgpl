@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-01 13:05+0200\n"
-"PO-Revision-Date: 2019-06-08 16:59+0000\n"
+"PO-Revision-Date: 2019-06-08 21:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mh1/pl/>\n"
 "Language: pl\n"
@@ -37,7 +37,7 @@ msgstr ""
 #: ../../MH1.rst:1267
 #: ../../MH1.rst:1385
 msgid "Changeling (This card is every creature type.)"
-msgstr ""
+msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 
 #: ../../MH1.rst:11
 msgid "As Morophon, the Boundless enters the battlefield, choose a creature type."
@@ -46,6 +46,9 @@ msgstr "Umieszczając tego stwora na polu walki wybierz typ stwora."
 #: ../../MH1.rst:13
 msgid "Spells of the chosen type you cast cost |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| less to cast. This effect reduces only the amount of colored mana you pay."
 msgstr ""
+"Rzucenie czarów wybranego typu kosztuje cię o |mana_w|\\ |mana_u|\\ |mana_b|"
+"\\ |mana_r|\\ |mana_g| mniej. Ten efekt zmniejsza tylko wartość kolorowej "
+"many."
 
 #: ../../MH1.rst:15
 msgid "Other creatures you control of the chosen type get +1/+1."
@@ -58,6 +61,9 @@ msgstr ""
 #: ../../MH1.rst:19
 msgid "Whenever a creature enters the battlefield under your control, you gain 1 life. If Answered Prayers isn't a creature, it becomes a 3/3 Angel creature with flying in addition to its other types until end of turn."
 msgstr ""
+"Ilekroć na pole walki pod twoim władaniem wejdzie stwór, zyskaj 1 życie. "
+"Jeśli ta karta nie jest stworem, staje się do końca tury dodatkowo stworem "
+"Anioł 3/3 z lataniem oprócz swoich innych typów."
 
 #: ../../MH1.rst:26
 msgid ":mtgtip:`Astral Drift<https://img.scryfall.com/cards/border_crop/front/5/b/5be49ed9-a078-4a57-a84a-03cfaf184fef.jpg?1559303285|https://scryfall.com/card/mh1/3/astral-drift?utm_source=api>`"
@@ -66,6 +72,10 @@ msgstr ""
 #: ../../MH1.rst:23
 msgid "Whenever you cycle Astral Drift or cycle another card while Astral Drift is on the battlefield, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
+"Ilekroć recyklujesz tę kartę albo recyklujesz inną kartę gdy niniejsza karta "
+"jest na polu walki, możesz wygnać wskazanego stwora. Jeśli tak zrobisz, "
+"przywróć ową kartę na pole walki pod władaniem jej właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../MH1.rst:25
 msgid "Cycling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Discard this card: Draw a card.)"
@@ -79,7 +89,7 @@ msgstr ""
 
 #: ../../MH1.rst:29
 msgid "Create two 1/1 white Bird creature tokens with flying."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Ptak 1/1 z lataniem."
 
 #: ../../MH1.rst:31
 msgid "Flashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
@@ -111,10 +121,12 @@ msgstr ""
 #: ../../MH1.rst:41
 msgid "Outlast |mana_2| (|mana_2|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
 msgstr ""
+"Przetrwanie |mana_2| (|mana_2|, |tap|: Umieść znacznik +1/+1 na tym stworz. "
+"Używaj jako obrzęd.)"
 
 #: ../../MH1.rst:43
 msgid "Other sliver creatures you control have outlast |mana_2|."
-msgstr ""
+msgstr "Inne Drzazgacze pod twoim władają mają przetrwanie |mana_2|."
 
 #: ../../MH1.rst:50
 msgid ":mtgtip:`Ephemerate<https://img.scryfall.com/cards/border_crop/front/2/d/2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa.jpg?1559217700|https://scryfall.com/card/mh1/7/ephemerate?utm_source=api>`"
@@ -130,6 +142,9 @@ msgstr ""
 #: ../../MH1.rst:49
 msgid "Rebound (If you cast this spell from your hand, exile it as it resolves. at the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
 msgstr ""
+"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
+"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
 #: ../../MH1.rst:58
 msgid ":mtgtip:`Face of Divinity<https://img.scryfall.com/cards/border_crop/front/1/4/14167f33-00e2-41f9-b545-b476562881c6.jpg?1559299806|https://scryfall.com/card/mh1/8/face-of-divinity?utm_source=api>`"
@@ -152,6 +167,8 @@ msgstr "Zauroczony stwór dostaje +2/+2."
 #: ../../MH1.rst:57
 msgid "As long as another Aura is attached to enchanted creature, it has first strike and lifelink."
 msgstr ""
+"O ile inna Aura jest dołączona do zauroczonego stwora, ma on pierwszy cios i "
+"więź życia."
 
 #: ../../MH1.rst:62
 msgid ":mtgtip:`First Sliver's Chosen<https://img.scryfall.com/cards/border_crop/front/7/f/7f5c4368-4f2e-4f5f-8944-8b0d49ab3e38.jpg?1559303627|https://scryfall.com/card/mh1/9/first-slivers-chosen?utm_source=api>`"
@@ -171,6 +188,8 @@ msgstr ""
 #: ../../MH1.rst:65
 msgid "If it's not your turn, you may exile a white card from your hand rather than pay this spell's mana cost."
 msgstr ""
+"Jeśli nie jest twoja tura, możesz wygnać białą kartę z twojej ręki zamiast "
+"płacenia kosztu many tego czaru."
 
 #: ../../MH1.rst:67
 #: ../../MH1.rst:257
@@ -190,6 +209,8 @@ msgstr ""
 #: ../../MH1.rst:73
 msgid "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token."
 msgstr ""
+"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Słoń 3/"
+"3."
 
 #: ../../MH1.rst:80
 msgid ":mtgtip:`Gilded Light<https://img.scryfall.com/cards/border_crop/front/8/f/8ff59aa2-5e97-4e6c-b568-470ac2371bd7.jpg?1559172014|https://scryfall.com/card/mh1/12/gilded-light?utm_source=api>`"
@@ -215,6 +236,8 @@ msgstr ""
 #: ../../MH1.rst:83
 msgid "|tap|: Another target creature you control gains protection from colorless or from the color of your choice until end of turn."
 msgstr ""
+"|tap|: Inny wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę "
+"przed bezkolorowym lub od wybranego przez ciebie koloru."
 
 #: ../../MH1.rst:88
 msgid ":mtgtip:`Impostor of the Sixth Pride<https://img.scryfall.com/cards/border_crop/front/8/3/83298c8a-02c4-4ada-9a41-4b973bb58ac6.jpg?1559304280|https://scryfall.com/card/mh1/14/impostor-of-the-sixth-pride?utm_source=api>`"
@@ -227,6 +250,8 @@ msgstr ""
 #: ../../MH1.rst:93
 msgid "When Irregular Cohort enters the battlefield, create a 2/2 colorless Shapeshifter creature token with changeling."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego stwora "
+"Przemieniec 2/2 ze zmiennokształtnością."
 
 #: ../../MH1.rst:98
 msgid ":mtgtip:`King of the Pride<https://img.scryfall.com/cards/border_crop/front/c/4/c4e83abd-6f15-491e-9253-90af9f6f1025.jpg?1558687423|https://scryfall.com/card/mh1/16/king-of-the-pride?utm_source=api>`"
@@ -243,10 +268,16 @@ msgstr ""
 #: ../../MH1.rst:101
 msgid "Suspend 5—|mana_w| (Rather than cast this card from your hand, you may pay |mana_w| and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 5—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_w| i wygnać ją z pięcioma znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatnie znacznik czasu "
+"jest usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../MH1.rst:103
 msgid "When Knight of Old Benalia enters the battlefield, other creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"dostają +1/+1 do końca tury."
 
 #: ../../MH1.rst:108
 msgid ":mtgtip:`Lancer Sliver<https://img.scryfall.com/cards/border_crop/front/9/a/9a4f8d9a-3760-449e-b8a6-72b2a641ff23.jpg?1559300195|https://scryfall.com/card/mh1/18/lancer-sliver?utm_source=api>`"
@@ -271,6 +302,8 @@ msgstr ""
 #: ../../MH1.rst:113
 msgid "When Martyr's Soul enters the battlefield, if you control no tapped lands, put two +1/+1 counters on it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli nie władasz przekręconymi "
+"lądami, umieść na nim dwa znaczniki +1/+1."
 
 #: ../../MH1.rst:120
 msgid ":mtgtip:`On Thin Ice<https://img.scryfall.com/cards/border_crop/front/b/7/b7d4f6b0-ea17-4374-a80c-ba4dd207e9d6.jpg?1559045252|https://scryfall.com/card/mh1/20/on-thin-ice?utm_source=api>`"
@@ -283,6 +316,8 @@ msgstr "Zaurocz śnieżny ląd pod twoim władaniem"
 #: ../../MH1.rst:119
 msgid "When On Thin Ice enters the battlefield, exile target creature an opponent controls until On Thin Ice leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego stwora pod władaniem "
+"przeciwnika dopóki ten urok nie opuści pola walki."
 
 #: ../../MH1.rst:126
 msgid ":mtgtip:`Ranger-Captain of Eos<https://img.scryfall.com/cards/border_crop/front/a/f/af3928b4-813a-4120-8799-de34235d60ac.jpg?1558527252|https://scryfall.com/card/mh1/21/ranger-captain-of-eos?utm_source=api>`"
@@ -291,10 +326,15 @@ msgstr ""
 #: ../../MH1.rst:123
 msgid "When Ranger-Captain of Eos enters the battlefield, you may search your library for a creature card with converted mana cost 1 or less, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę stwora o skróconym koszcie many 1 lub mniejszym, ujawnić ją i umieścić "
+"w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../MH1.rst:125
 msgid "Sacrifice Ranger-Captain of Eos: Your opponents can't cast noncreature spells this turn."
 msgstr ""
+"Poświęć tego stwora: Twoi przeciwnicy nie mogą w tej turze rzucać czarów nie "
+"będących stworami."
 
 #: ../../MH1.rst:132
 msgid ":mtgtip:`Recruit the Worthy<https://img.scryfall.com/cards/border_crop/front/f/b/fb025c0c-7fdf-4f71-afd5-ef11cd2804eb.jpg?1559300260|https://scryfall.com/card/mh1/22/recruit-the-worthy?utm_source=api>`"
@@ -303,10 +343,12 @@ msgstr ""
 #: ../../MH1.rst:129
 msgid "Buyback |mana_3| (You may pay an additional |mana_3| as you cast this spell. If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_3| (Rzucając ten czar możesz zapłacić dodatkowo |mana_3|. Jeśli "
+"to zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../MH1.rst:131
 msgid "Create a 1/1 white Soldier creature token."
-msgstr ""
+msgstr "Stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../MH1.rst:138
 msgid ":mtgtip:`Reprobation<https://img.scryfall.com/cards/border_crop/front/b/1/b1349c3d-39ad-40ba-897e-59e5b76de853.jpg?1559300323|https://scryfall.com/card/mh1/23/reprobation?utm_source=api>`"
@@ -315,6 +357,9 @@ msgstr ""
 #: ../../MH1.rst:137
 msgid "Enchanted creature loses all abilities and is a Coward creature with base power and toughness 0/1. (It keeps all supertypes but loses all other types and creature types.)"
 msgstr ""
+"Zauroczony stwór traci wszystkie zdolności, jest typu Tchórz oraz ma bazowe "
+"siłę i wytrzymałość 0/1. (Zachowuje nadtypy, ale traci wszystkie inne typy i "
+"typy stwora.)"
 
 #: ../../MH1.rst:144
 msgid ":mtgtip:`Rhox Veteran<https://img.scryfall.com/cards/border_crop/front/6/3/6384e266-d0dc-4af1-b3ab-ecaf9be2553c.jpg?1559300381|https://scryfall.com/card/mh1/24/rhox-veteran?utm_source=api>`"
@@ -323,10 +368,14 @@ msgstr ""
 #: ../../MH1.rst:141
 msgid "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)"
 msgstr ""
+"Okrzyk bojowy (Ilekroć ten stwór atakuje, każdy inny atakujący stwór dostaje "
+"do końca tury +1/+0.)"
 
 #: ../../MH1.rst:143
 msgid "Whenever Rhox Veteran attacks, tap target creature an opponent controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
+"przeciwnika."
 
 #: ../../MH1.rst:148
 msgid ":mtgtip:`Segovian Angel<https://img.scryfall.com/cards/border_crop/front/b/5/b5dbaec5-502d-48c2-9e71-c12cd0bccc6a.jpg?1558959466|https://scryfall.com/card/mh1/25/segovian-angel?utm_source=api>`"
@@ -346,11 +395,14 @@ msgstr "+2: Stwory z lataniem pod twoim władaniem dostają do końca tury +1/+1
 
 #: ../../MH1.rst:153
 msgid "-3: Create a 4/4 white Angel creature token with flying and vigilance."
-msgstr ""
+msgstr "-3: Stwórz żeton białego stwora Anioł 4/4 z lataniem i czujnością."
 
 #: ../../MH1.rst:155
 msgid "-6: You get an emblem with \"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.\""
 msgstr ""
+"-6: Dostajesz emblemat o treści \"Jeśli władasz stworem, obrażenia mogące "
+"obniżyć liczbę twoich punktów życia poniżej 1 zamiast tego obniżają ją do 1."
+"\""
 
 #: ../../MH1.rst:164
 msgid ":mtgtip:`Settle Beyond Reality<https://img.scryfall.com/cards/border_crop/front/7/2/72ed8e57-61bb-4e89-9484-ff2be800a449.jpg?1559300443|https://scryfall.com/card/mh1/27/settle-beyond-reality?utm_source=api>`"
@@ -371,6 +423,8 @@ msgstr ""
 #: ../../MH1.rst:167
 msgid "Target creature you control gains protection from the color of your choice until end of turn."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"wybranym przez ciebie kolorem."
 
 #: ../../MH1.rst:169
 #: ../../MH1.rst:289
@@ -378,7 +432,7 @@ msgstr ""
 #: ../../MH1.rst:371
 #: ../../MH1.rst:745
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../MH1.rst:176
 msgid ":mtgtip:`Sisay, Weatherlight Captain<https://img.scryfall.com/cards/border_crop/front/5/a/5a293c45-1e73-4527-be2f-2dcd5c47b610.jpg?1558626483|https://scryfall.com/card/mh1/29/sisay-weatherlight-captain?utm_source=api>`"
@@ -387,10 +441,16 @@ msgstr ""
 #: ../../MH1.rst:173
 msgid "Sisay, Weatherlight Captain gets +1/+1 for each color among other legendary permanents you control."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdy kolor spośród innych legendarnych "
+"permanentów pod twoim władaniem."
 
 #: ../../MH1.rst:175
 msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Search your library for a legendary permanent card with converted mana cost less than Sisay's power, put that card onto the battlefield, then shuffle your library."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Wyszukaj w twojej "
+"bibliotece kartę legendarnego permanentu o skróconym koszcie many mniejszym "
+"niż siła tego stwora, umieść ową kartę na polu walki, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../MH1.rst:184
 msgid ":mtgtip:`Soul-Strike Technique<https://img.scryfall.com/cards/border_crop/front/b/6/b6ab5f70-8f69-467f-9fa5-f69181edcb80.jpg?1559300569|https://scryfall.com/card/mh1/30/soul-strike-technique?utm_source=api>`"
@@ -398,11 +458,14 @@ msgstr ""
 
 #: ../../MH1.rst:181
 msgid "Enchanted creature gets +1/+1 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma czujność."
 
 #: ../../MH1.rst:183
 msgid "When enchanted creature dies, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up at any time for its mana cost if it's a creature card.)"
 msgstr ""
+"Kiedy zauroczony stwór umrze, objaw wierzchnią kartę twojej biblioteki. ("
+"Umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w dowolnym "
+"momencie za jej koszt many jeśli jest kartą stwora.)"
 
 #: ../../MH1.rst:190
 msgid ":mtgtip:`Splicer's Skill<https://img.scryfall.com/cards/border_crop/front/c/5/c59dfb0f-45c7-431f-b5a3-d9b429fc6dde.jpg?1558615725|https://scryfall.com/card/mh1/31/splicers-skill?utm_source=api>`"
@@ -410,11 +473,14 @@ msgstr ""
 
 #: ../../MH1.rst:187
 msgid "Create a 3/3 colorless Golem artifact creature token."
-msgstr ""
+msgstr "Stwórz żeton bezkolorowego artefaktycznego stwora Golem 3/3."
 
 #: ../../MH1.rst:189
 msgid "Splice onto instant or sorcery |mana_3|\\ |mana_w| (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
 msgstr ""
+"Spleć ze sztuczką lub obrzędem |mana_3|\\ |mana_w| (Podczas rzucania czaru "
+"sztuczki lub obrzędu możesz ujawnić tę kartę z twojej ręki i zapłacić jej "
+"koszt splecenia. Jeśli to zrobisz dodaj efekt tej karty do owego czaru.)"
 
 #: ../../MH1.rst:196
 msgid ":mtgtip:`Stirring Address<https://img.scryfall.com/cards/border_crop/front/2/d/2de3e3b0-6ecf-4bf6-9595-0e5e59ef1d6a.jpg?1559300619|https://scryfall.com/card/mh1/32/stirring-address?utm_source=api>`"
@@ -422,7 +488,7 @@ msgstr ""
 
 #: ../../MH1.rst:193
 msgid "Target creature you control gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór pod twoim władaniem dostaje +2/+2 do końca tury."
 
 #: ../../MH1.rst:195
 msgid "Overload |mana_5|\\ |mana_w| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
@@ -438,6 +504,9 @@ msgstr ""
 #: ../../MH1.rst:199
 msgid "|mana_1|\\ |mana_w|, Exile Trustworthy Scout from your graveyard: Search your library for a card named Trustworthy Scout, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Wyszukaj w twojej "
+"bibliotece kartę o nazwie Trustworthy Scout, ujawnij ją, umieść w twojej "
+"ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../MH1.rst:208
 msgid ":mtgtip:`Valiant Changeling<https://img.scryfall.com/cards/border_crop/front/a/d/ad9fadff-a506-4546-b994-71e9e971b44e.jpg?1559127636|https://scryfall.com/card/mh1/34/valiant-changeling?utm_source=api>`"
@@ -446,10 +515,13 @@ msgstr ""
 #: ../../MH1.rst:203
 msgid "This spell costs |mana_1| less to cast for each creature type among creatures you control. This effect can't reduce the amount of mana this spell costs by more than |mana_5|."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy typ stwora spośród "
+"stworów pod twoim władaniem. Ten efekt nie może obniżyć kosztu many tego "
+"czaru o więcej niż |mana_5|."
 
 #: ../../MH1.rst:207
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../MH1.rst:216
 msgid ":mtgtip:`Vesperlark<https://img.scryfall.com/cards/border_crop/front/3/2/32776159-3fb6-4a70-be84-837ccd1d54a7.jpg?1559082426|https://scryfall.com/card/mh1/35/vesperlark?utm_source=api>`"
@@ -469,15 +541,19 @@ msgstr ""
 #: ../../MH1.rst:1213
 #: ../../MH1.rst:1261
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../MH1.rst:213
 msgid "When Vesperlark leaves the battlefield, return target creature card with power 1 or less from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór opuści pole walki, przywróć wskazaną kartę stwora o sile 1 "
+"lub mniejszej z twojego cmentarza na pole walki."
 
 #: ../../MH1.rst:215
 msgid "Evoke |mana_1|\\ |mana_w| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_1|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../MH1.rst:222
 msgid ":mtgtip:`Wall of One Thousand Cuts<https://img.scryfall.com/cards/border_crop/front/f/4/f4e5388a-1c1e-4809-99d0-bbdd93436c5e.jpg?1558464609|https://scryfall.com/card/mh1/36/wall-of-one-thousand-cuts?utm_source=api>`"
@@ -485,11 +561,12 @@ msgstr ""
 
 #: ../../MH1.rst:219
 msgid "Defender, flying"
-msgstr ""
+msgstr "Obronność, latanie"
 
 #: ../../MH1.rst:221
 msgid "|mana_w|: Wall of One Thousand Cuts can attack this turn as though it didn't have defender."
 msgstr ""
+"|mana_w|: Ten stwór może atakować w tej turze tak, jakby nie miał obronności."
 
 #: ../../MH1.rst:228
 msgid ":mtgtip:`Winds of Abandon<https://img.scryfall.com/cards/border_crop/front/3/b/3bb17913-fe4d-4acd-9b75-71f5a90f898b.jpg?1558676357|https://scryfall.com/card/mh1/37/winds-of-abandon?utm_source=api>`"
@@ -498,6 +575,10 @@ msgstr ""
 #: ../../MH1.rst:225
 msgid "Exile target creature you don't control. For each creature exiled this way, its controller searches their library for a basic land card. Those players put those cards onto the battlefield tapped, then shuffle their libraries."
 msgstr ""
+"Wygnaj wskazanego stwora poza twoim władaniem. Za każdego stwora wygnanego w "
+"ten sposób, jego władca wyszukuje w swojej bibliotece kartę bazowego lądu. "
+"Owi gracze umieszczają owe karty przekręcone na polu walki, następnie tasują "
+"swoje biblioteki."
 
 #: ../../MH1.rst:227
 msgid "Overload |mana_4|\\ |mana_w|\\ |mana_w| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
@@ -512,12 +593,14 @@ msgstr ""
 
 #: ../../MH1.rst:231
 msgid "Target player sacrifices an attacking creature."
-msgstr ""
+msgstr "Wskazany gracz poświęca atakującego stwora."
 
 #: ../../MH1.rst:233
 #: ../../MH1.rst:1113
 msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn.)"
 msgstr ""
+"Sztorm (Rzucając ten czar skopiuj go za każdy czar rzucony przed nim w tej "
+"turze.)"
 
 #: ../../MH1.rst:238
 msgid ":mtgtip:`Zhalfirin Decoy<https://img.scryfall.com/cards/border_crop/front/b/9/b93b824c-414d-4dd5-848f-bff678a289ba.jpg?1558720145|https://scryfall.com/card/mh1/39/zhalfirin-decoy?utm_source=api>`"
@@ -526,6 +609,8 @@ msgstr ""
 #: ../../MH1.rst:237
 msgid "|tap|: Tap target creature. Activate this ability only if you had a creature enter the battlefield under your control this turn."
 msgstr ""
+"|tap|: Przekręć wskazanego stwora. Aktywuj tę zdolność tylko jeśli w tej "
+"turze wszedł stwór na pole walki pod twoim władaniem."
 
 #: ../../MH1.rst:248
 msgid ":mtgtip:`Archmage's Charm<https://img.scryfall.com/cards/border_crop/front/5/7/57b852b6-4388-4a41-a5c0-bba37a5c1451.jpg?1558731929|https://scryfall.com/card/mh1/40/archmages-charm?utm_source=api>`"
@@ -536,20 +621,22 @@ msgstr ""
 #: ../../MH1.rst:631
 #: ../../MH1.rst:773
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../MH1.rst:243
 #: ../../MH1.rst:417
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../MH1.rst:245
 msgid "Target player draws two cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty."
 
 #: ../../MH1.rst:247
 msgid "Gain control of target nonland permanent with converted mana cost 1 or less."
 msgstr ""
+"Przejmij władanie nad wskazanym nielądowym permanentem o skróconym koszcie "
+"many 1 lub mniejszym."
 
 #: ../../MH1.rst:254
 msgid ":mtgtip:`Bazaar Trademage<https://img.scryfall.com/cards/border_crop/front/9/d/9d75faf7-fc27-4fc2-9e80-e35232c42542.jpg?1558628147|https://scryfall.com/card/mh1/41/bazaar-trademage?utm_source=api>`"
@@ -558,6 +645,8 @@ msgstr ""
 #: ../../MH1.rst:253
 msgid "When Bazaar Trademage enters the battlefield, draw two cards, then discard three cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dobierz dwie karty, następnie odrzuć "
+"trzy karty."
 
 #: ../../MH1.rst:262
 msgid ":mtgtip:`Blizzard Strix<https://img.scryfall.com/cards/border_crop/front/2/1/217dfa26-d3ad-4fe8-9db4-ddd753a4b679.jpg?1559300827|https://scryfall.com/card/mh1/42/blizzard-strix?utm_source=api>`"
@@ -566,6 +655,10 @@ msgstr ""
 #: ../../MH1.rst:261
 msgid "When Blizzard Strix enters the battlefield, if you control another snow permanent, exile target permanent other than Blizzard Strix. Return that card to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym śnieżnym "
+"permanentem, wygnaj wskazany permanent nie będący niniejszym. Przywróć ową "
+"kartę na pole walki pod władaniem jej właściciela na początku najbliższego "
+"kroku końcowego."
 
 #: ../../MH1.rst:268
 msgid ":mtgtip:`Chillerpillar<https://img.scryfall.com/cards/border_crop/front/7/f/7f57005c-414d-4c83-9b4f-cd26e547d54d.jpg?1558555322|https://scryfall.com/card/mh1/43/chillerpillar?utm_source=api>`"
@@ -574,10 +667,13 @@ msgstr ""
 #: ../../MH1.rst:265
 msgid "|mana_4|\\ |mana_s|\\ |mana_s|: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous. |mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
+"|mana_4|\\ |mana_s|\\ |mana_s|: Monstrualność 2. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim dwa znaczniki +1/+1 i staje się on monstrualny. "
+"|mana_s| można opłacić jedną maną pochodzącą ze śnieżnego permanentu.)"
 
 #: ../../MH1.rst:267
 msgid "As long as Chillerpillar is monstrous, it has flying."
-msgstr ""
+msgstr "O ile ten stwór jest monstrualny, ma latanie."
 
 #: ../../MH1.rst:276
 msgid ":mtgtip:`Choking Tethers<https://img.scryfall.com/cards/border_crop/front/e/b/eb0d0c81-8698-41db-a687-47af028e910e.jpg?1558464619|https://scryfall.com/card/mh1/44/choking-tethers?utm_source=api>`"
@@ -585,15 +681,17 @@ msgstr ""
 
 #: ../../MH1.rst:271
 msgid "Tap up to four target creatures."
-msgstr ""
+msgstr "Przekręć co najwyżej cztery wskazane stwory."
 
 #: ../../MH1.rst:273
 msgid "Cycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../MH1.rst:275
 msgid "When you cycle Choking Tethers, you may tap target creature."
-msgstr ""
+msgstr "Kiedy recyklujesz tę kartę, możesz przekręcić wskazanego stwora."
 
 #: ../../MH1.rst:280
 msgid ":mtgtip:`Cunning Evasion<https://img.scryfall.com/cards/border_crop/front/3/0/300a431c-48a9-4d63-8256-cb6bdaa67b4c.jpg?1559304867|https://scryfall.com/card/mh1/45/cunning-evasion?utm_source=api>`"
@@ -602,6 +700,8 @@ msgstr ""
 #: ../../MH1.rst:279
 msgid "Whenever a creature you control becomes blocked, you may return it to its owner's hand."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zostaje zablokowany, możesz go przywrócić "
+"do ręki właściciela."
 
 #: ../../MH1.rst:286
 msgid ":mtgtip:`Echo of Eons<https://img.scryfall.com/cards/border_crop/front/f/f/ff590af2-2d6c-4f16-a9b8-1a6dab6e9ad5.jpg?1559358227|https://scryfall.com/card/mh1/46/echo-of-eons?utm_source=api>`"
@@ -610,10 +710,14 @@ msgstr ""
 #: ../../MH1.rst:283
 msgid "Each player shuffles their hand and graveyard into their library, then draws seven cards."
 msgstr ""
+"Każdy gracz wstasowuje swoją rękę i cmentarz do swojej biblioteki, następnie "
+"dobiera siedem kart."
 
 #: ../../MH1.rst:285
 msgid "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_2|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MH1.rst:292
 msgid ":mtgtip:`Everdream<https://img.scryfall.com/cards/border_crop/front/e/7/e744c42c-6bcc-42c0-9346-102b8368c377.jpg?1559217650|https://scryfall.com/card/mh1/47/everdream?utm_source=api>`"
@@ -622,6 +726,9 @@ msgstr ""
 #: ../../MH1.rst:291
 msgid "Splice onto instant or sorcery |mana_2|\\ |mana_u| (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
 msgstr ""
+"Spleć ze sztuczką lub obrzędem |mana_2|\\ |mana_u| (Podczas rzucania czaru "
+"sztuczki lub obrzędu możesz ujawnić tę kartę z twojej ręki i zapłacić jej "
+"koszt splecenia. Jeśli to zrobisz dodaj efekt tej karty do owego czaru.)"
 
 #: ../../MH1.rst:298
 msgid ":mtgtip:`Exclude<https://img.scryfall.com/cards/border_crop/front/0/7/077ffa65-542f-4b83-9fcb-d3384b74633c.jpg?1558464625|https://scryfall.com/card/mh1/48/exclude?utm_source=api>`"
@@ -629,7 +736,7 @@ msgstr ""
 
 #: ../../MH1.rst:295
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../MH1.rst:304
 msgid ":mtgtip:`Eyekite<https://img.scryfall.com/cards/border_crop/front/4/9/49f7bda8-949a-42aa-9254-f39b791cb9a8.jpg?1559300956|https://scryfall.com/card/mh1/49/eyekite?utm_source=api>`"
@@ -638,6 +745,7 @@ msgstr ""
 #: ../../MH1.rst:303
 msgid "Eyekite gets +2/+0 as long as you've drawn two or more cards this turn."
 msgstr ""
+"Ten stwór dostaje +2/+0 o ile dobrałeś co najmniej dwie karty w tej turze."
 
 #: ../../MH1.rst:308
 msgid ":mtgtip:`Fact or Fiction<https://img.scryfall.com/cards/border_crop/front/5/5/55d51a2b-450c-4e6d-a660-67d58d1dd4ba.jpg?1558464629|https://scryfall.com/card/mh1/50/fact-or-fiction?utm_source=api>`"
@@ -646,6 +754,9 @@ msgstr ""
 #: ../../MH1.rst:307
 msgid "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Przeciwnik rozdziela owe "
+"karty na dwa stosy. Umieść jeden stos w twojej ręce, a pozostały w twoim "
+"cmentarzu."
 
 #: ../../MH1.rst:314
 msgid ":mtgtip:`Faerie Seer<https://img.scryfall.com/cards/border_crop/front/d/1/d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6.jpg?1559213150|https://scryfall.com/card/mh1/51/faerie-seer?utm_source=api>`"
@@ -653,7 +764,7 @@ msgstr ""
 
 #: ../../MH1.rst:313
 msgid "When Faerie Seer enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 2."
 
 #: ../../MH1.rst:320
 msgid ":mtgtip:`Force of Negation<https://img.scryfall.com/cards/border_crop/front/e/9/e9be371c-c688-44ad-ab71-bd4c9f242d58.jpg?1558464634|https://scryfall.com/card/mh1/52/force-of-negation?utm_source=api>`"
@@ -673,11 +784,11 @@ msgstr ""
 
 #: ../../MH1.rst:323
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../MH1.rst:325
 msgid "You may play the top card of your library."
-msgstr ""
+msgstr "Możesz zagrywać górną kartę twojej biblioteki."
 
 #: ../../MH1.rst:330
 msgid ":mtgtip:`Iceberg Cancrix<https://img.scryfall.com/cards/border_crop/front/d/8/d84b1444-a609-4c23-935d-fa25aef16179.jpg?1559301051|https://scryfall.com/card/mh1/54/iceberg-cancrix?utm_source=api>`"
