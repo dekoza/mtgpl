@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-22 13:50+0200\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 18:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m20/pl/>\n"
 "Language: pl\n"
@@ -732,6 +732,10 @@ msgstr ""
 #: ../../M20.rst:317
 msgid "Exile target creature an opponent controls with converted mana cost 2 or less and all other creatures that player controls with the same name as that creature. Then that player reveals their hand and exiles all cards with that name from their hand and graveyard."
 msgstr ""
+"Wygnaj wskazanego stwora o skróconym koszcie many 2 lub niższym pod "
+"władaniem przeciwnika i wszystkie inne stwory pod władaniem owego gracza o "
+"takiej samej nazwie. Następnie ów gracz ujawnia swoją rękę i wygania "
+"wszystkie karty o tej nazwie ze swojej ręki i cmentarza."
 
 #: ../../M20.rst:324
 msgid ":mtgtip:`Leyline of the Void<https://img.scryfall.com/cards/border_crop/front/0/4/04d5d429-e0c6-42cc-a477-da7dabb1c295.jpg?1560809867|https://scryfall.com/card/m20/107/leyline-of-the-void?utm_source=api>`"
@@ -746,6 +750,8 @@ msgstr ""
 #: ../../M20.rst:323
 msgid "If a card would be put into an opponent's graveyard from anywhere, exile it instead."
 msgstr ""
+"Jeśli karta miałaby trafić skądkolwiek do cmentarza przeciwnika, zamiast "
+"tego wygnaj ją."
 
 #: ../../M20.rst:328
 msgid ":mtgtip:`Murder<https://img.scryfall.com/cards/border_crop/front/6/a/6a2b22bc-e81b-4f27-a52b-9f3edad25439.jpg?1561121321|https://scryfall.com/card/m20/109/murder?utm_source=api>`"
@@ -758,6 +764,8 @@ msgstr ""
 #: ../../M20.rst:331
 msgid "Destroy target creature or planeswalker that's green or white. You gain 1 life."
 msgstr ""
+"Zniszcz wskazanego stwora lub wędrowca w kolorze białym lub zielonym. Zyskaj "
+"1 życie."
 
 #: ../../M20.rst:336
 msgid ":mtgtip:`Rotting Regisaur<https://img.scryfall.com/cards/border_crop/front/d/8/d88c61cb-dbf9-46c3-8795-8896ba1208d5.jpg?1561045122|https://scryfall.com/card/m20/111/rotting-regisaur?utm_source=api>`"
@@ -765,7 +773,7 @@ msgstr ""
 
 #: ../../M20.rst:335
 msgid "At the beginning of your upkeep, discard a card."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania odrzuć kartę."
 
 #: ../../M20.rst:340
 msgid ":mtgtip:`Scheming Symmetry<https://img.scryfall.com/cards/border_crop/front/0/1/01acc50b-856d-442d-9880-1a892b40643b.jpg?1560854397|https://scryfall.com/card/m20/113/scheming-symmetry?utm_source=api>`"
@@ -774,6 +782,8 @@ msgstr ""
 #: ../../M20.rst:339
 msgid "Choose two target players. Each of them searches their library for a card, then shuffles their library and puts that card on top of it."
 msgstr ""
+"Wskaż dwóch graczy. Każdy z nich wyszukuje kartę w swojej bibliotece, "
+"następnie tasuje swoją bibliotekę i umieszcza ową kartę na jej wierzchu."
 
 #: ../../M20.rst:348
 msgid ":mtgtip:`Sorin, Imperious Bloodlord<https://img.scryfall.com/cards/border_crop/front/9/f/9f764be3-dd3f-44b1-a4a6-807d1387590b.jpg?1561045106|https://scryfall.com/card/m20/115/sorin-imperious-bloodlord?utm_source=api>`"
@@ -782,14 +792,18 @@ msgstr ""
 #: ../../M20.rst:343
 msgid "+1: Target creature you control gains deathtouch and lifelink until end of turn. If it's a Vampire, put a +1/+1 counter on it."
 msgstr ""
+"+1: Wskazany stwór pod twoim władaniem zyskuje do końca tury dotyk śmierci i "
+"więź życia. Jeśli jest Wampirem, umieść na nim znacznik +1/+1."
 
 #: ../../M20.rst:345
 msgid "+1: You may sacrifice a Vampire. When you do, Sorin, Imperious Bloodlord deals 3 damage to any target and you gain 3 life."
 msgstr ""
+"+1: Możesz poświęcić Wampira. Kiedy tak zrobisz, ten wędrowiec zadaje w "
+"dowolnie wskazany cel 3 obrażenia a ty zyskaj 3 życia."
 
 #: ../../M20.rst:347
 msgid "−3: You may put a Vampire creature card from your hand onto the battlefield."
-msgstr ""
+msgstr "–3: Możesz umieścić kartę Wampira z twojej ręki na polu walki."
 
 #: ../../M20.rst:354
 msgid ":mtgtip:`Thought Distortion<https://img.scryfall.com/cards/border_crop/front/f/4/f4a9d636-6720-4d7e-8b81-12c20bce6495.jpg?1560791977|https://scryfall.com/card/m20/117/thought-distortion?utm_source=api>`"
@@ -805,6 +819,8 @@ msgstr "Ten czar nie może być skontrowany."
 #: ../../M20.rst:353
 msgid "Target opponent reveals their hand. Exile all noncreature, nonland cards from that player's hand and graveyard."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wygnaj wszystkie karty nie będące "
+"lądem lub stworem z ręki i cmentarza owego gracza."
 
 #: ../../M20.rst:360
 msgid ":mtgtip:`Vampire of the Dire Moon<https://img.scryfall.com/cards/border_crop/front/b/3/b3c185b9-5d97-4a5a-af0b-8b9c44dcd235.jpg?1560988687|https://scryfall.com/card/m20/120/vampire-of-the-dire-moon?utm_source=api>`"
@@ -830,11 +846,13 @@ msgstr ""
 
 #: ../../M20.rst:365
 msgid "|mana_b|, Pay 2 life: Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_b|, zapłać 2 życia: Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../M20.rst:367
 msgid "Whenever you lose life, draw that many cards. (Damage causes loss of life.)"
 msgstr ""
+"Ilekroć tracisz życia, dobierz tyle samo kart. (Obrażenia sprawiają utratę "
+"żyć.)"
 
 #: ../../M20.rst:374
 msgid ":mtgtip:`Yarok's Fenlurker<https://img.scryfall.com/cards/border_crop/front/1/6/16b122f8-fcd9-4b2a-92f6-f0ed7307ff58.jpg?1560790622|https://scryfall.com/card/m20/123/yaroks-fenlurker?utm_source=api>`"
@@ -843,10 +861,12 @@ msgstr ""
 #: ../../M20.rst:371
 msgid "When Yarok's Fenlurker enters the battlefield, each opponent exiles a card from their hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik wygania kartę ze "
+"swojej ręki."
 
 #: ../../M20.rst:373
 msgid "|mana_2|\\ |mana_b|: Yarok's Fenlurker gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../M20.rst:382
 msgid ":mtgtip:`Cavalier of Flame<https://img.scryfall.com/cards/border_crop/front/0/c/0c18c541-758b-4237-9961-9637e996e8a5.jpg?1560770185|https://scryfall.com/card/m20/125/cavalier-of-flame?utm_source=api>`"
@@ -855,14 +875,21 @@ msgstr ""
 #: ../../M20.rst:377
 msgid "|mana_1|\\ |mana_r|: Creatures you control get +1/+0 and gain haste until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|: Stwory pod twoim władaniem dostają do końca tury +1/+0 "
+"i pośpiech."
 
 #: ../../M20.rst:379
 msgid "When Cavalier of Flame enters the battlefield, discard any number of cards, then draw that many cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, odrzuć dowolną liczbę kart, następnie "
+"dobierz tyle samo kart."
 
 #: ../../M20.rst:381
 msgid "When Cavalier of Flame dies, it deals X damage to each opponent and each planeswalker they control, where X is the number of land cards in your graveyard."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje on X obrażeń każdemu przeciwnikowi i każdemu "
+"wędrowcowi pod ich władaniem, gdzie X jest liczbą kart lądów w twoim "
+"cmentarzu."
 
 #: ../../M20.rst:390
 msgid ":mtgtip:`Chandra, Acolyte of Flame<https://img.scryfall.com/cards/border_crop/front/2/c/2cabfcfe-012e-4cab-bba2-24052eac0946.jpg?1560940194|https://scryfall.com/card/m20/126/chandra-acolyte-of-flame?utm_source=api>`"
@@ -871,14 +898,21 @@ msgstr ""
 #: ../../M20.rst:385
 msgid "0: Put a loyalty counter on each red planeswalker you control."
 msgstr ""
+"0: Umieść znacznik lojalności na każdym czerwonym wędrowcu pod twoim "
+"władaniem."
 
 #: ../../M20.rst:387
 msgid "0: Create two 1/1 red Elemental creature tokens. They gain haste. Sacrifice them at the beginning of the next end step."
 msgstr ""
+"0: Stwórz dwa żetony czerwonego stwora Żywiołak 1/1. Zyskują one pośpiech. "
+"Poświęć je na początku najbliższego kroku końcowego."
 
 #: ../../M20.rst:389
 msgid "−2: You may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard. If that card would be put into your graveyard this turn, exile it instead."
 msgstr ""
+"–2: Możesz rzucić wskazaną kartę sztuczki lub obrzędu o skróconym koszcie "
+"many 3 lub mniejszym z twojego cmentarza. Jeśli ta karta miałaby być "
+"umieszczona w cmentarzu w tej turze, zamiast tego wygnaj ją."
 
 #: ../../M20.rst:400
 msgid ":mtgtip:`Chandra, Awakened Inferno<https://img.scryfall.com/cards/border_crop/front/4/9/49d2a680-4f3b-4bfa-b77b-d2dfaced9f23.jpg?1560940198|https://scryfall.com/card/m20/127/chandra-awakened-inferno?utm_source=api>`"
@@ -887,14 +921,21 @@ msgstr ""
 #: ../../M20.rst:395
 msgid "+2: Each opponent gets an emblem with \"At the beginning of your upkeep, this emblem deals 1 damage to you.\""
 msgstr ""
+"+2: Każdy przeciwnik dostaje emblemat o treści \"Na początku twojego kroku "
+"utrzymania, ten emblemat zadaje tobie 1 obrażenie.\""
 
 #: ../../M20.rst:397
 msgid "−3: Chandra, Awakened Inferno deals 3 damage to each non-Elemental creature."
 msgstr ""
+"–3: Ten wędrowiec zadaje 3 obrażenia każdemu stworowi nie będącemu "
+"Żywiołakiem."
 
 #: ../../M20.rst:399
 msgid "−X: Chandra, Awakened Inferno deals X damage to target creature or planeswalker. If a permanent dealt damage this way would die this turn, exile it instead."
 msgstr ""
+"–X: Ten wędrowiec zadaje X obrażeń wskazanemu stworowi lub wędrowcowi. Jeśli "
+"permanent z zadanymi w ten sposób obrażeniami miałby umrzeć w tej turze, "
+"zamiast tego wygnaj go."
 
 #: ../../M20.rst:408
 msgid ":mtgtip:`Chandra, Novice Pyromancer<https://img.scryfall.com/cards/border_crop/front/d/6/d678cf4c-60e3-40a1-a9cc-b0bd157bcf36.jpg?1560940203|https://scryfall.com/card/m20/128/chandra-novice-pyromancer?utm_source=api>`"
@@ -902,15 +943,15 @@ msgstr ""
 
 #: ../../M20.rst:403
 msgid "+1: Elementals you control get +2/+0 until end of turn."
-msgstr ""
+msgstr "+1: Żywiołaki pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../M20.rst:405
 msgid "−1: Add |mana_r|\\ |mana_r|."
-msgstr ""
+msgstr "–1: Dostajesz |mana_r|\\ |mana_r|."
 
 #: ../../M20.rst:407
 msgid "−2: Chandra, Novice Pyromancer deals 2 damage to any target."
-msgstr ""
+msgstr "–2: Ten wędrowiec zadaje 2 obrażenia w dowolnie wskazany cel."
 
 #: ../../M20.rst:412
 msgid ":mtgtip:`Chandra's Embercat<https://img.scryfall.com/cards/border_crop/front/3/0/30f9c266-f32e-4483-9709-f83675331688.jpg?1560854390|https://scryfall.com/card/m20/129/chandras-embercat?utm_source=api>`"
@@ -919,6 +960,8 @@ msgstr ""
 #: ../../M20.rst:411
 msgid "|tap|: Add |mana_r|. Spend this mana only to cast an Elemental spell or a Chandra planeswalker spell."
 msgstr ""
+"|tap|: Dostajesz |mana_r|. Użyj jej tylko do rzucenia czaru Żywiołaka lub "
+"wędrowca typu Chandra."
 
 #: ../../M20.rst:418
 msgid ":mtgtip:`Chandra's Regulator<https://img.scryfall.com/cards/border_crop/front/8/f/8f1b1d5c-f71e-4c68-8baf-c134e42ed6f2.jpg?1560770176|https://scryfall.com/card/m20/131/chandras-regulator?utm_source=api>`"
@@ -927,10 +970,13 @@ msgstr ""
 #: ../../M20.rst:415
 msgid "Whenever you activate a loyalty ability of a Chandra planeswalker, you may pay |mana_1|. If you do, copy that ability. You may choose new targets for the copy."
 msgstr ""
+"Ilekroć aktywujesz zdolność lojalnościową wędrowca typu Chandra, możesz "
+"zapłacić |mana_1|. Jeśli tak zrobisz skopiuj ową zdolność. Możesz wybrać "
+"nowe cele dla kopii."
 
 #: ../../M20.rst:417
 msgid "|mana_1|, |tap|, Discard a Mountain card or a red card: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, odrzuć Górę lub czerwoną kartę: Dobierz kartę."
 
 #: ../../M20.rst:424
 msgid ":mtgtip:`Chandra's Spitfire<https://img.scryfall.com/cards/border_crop/front/8/a/8a857da7-5438-465b-821a-bd5bfd780c69.jpg?1560813596|https://scryfall.com/card/m20/132/chandras-spitfire?utm_source=api>`"
@@ -939,6 +985,8 @@ msgstr ""
 #: ../../M20.rst:423
 msgid "Whenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn."
 msgstr ""
+"Ilekroć przeciwnik otrzymuje pozabojowe obrażenia, ten stwór dostaje do "
+"końca tury +3/+0."
 
 #: ../../M20.rst:428
 msgid ":mtgtip:`Destructive Digger<https://img.scryfall.com/cards/border_crop/front/d/9/d981b310-5e75-4f30-baf6-37f069f00aa3.jpg?1560950198|https://scryfall.com/card/m20/134/destructive-digger?utm_source=api>`"
@@ -946,7 +994,7 @@ msgstr ""
 
 #: ../../M20.rst:427
 msgid "|mana_3|, |tap|, Sacrifice an artifact or land: Draw a card."
-msgstr ""
+msgstr "|mana_3|, |tap|, poświęć artefakt lub ląd: Dobierz kartę."
 
 #: ../../M20.rst:434
 msgid ":mtgtip:`Dragon Mage<https://img.scryfall.com/cards/border_crop/front/5/1/5195abc4-cfa7-45dd-aa96-2e56f818a17b.jpg?1560792580|https://scryfall.com/card/m20/135/dragon-mage?utm_source=api>`"
@@ -955,6 +1003,8 @@ msgstr ""
 #: ../../M20.rst:433
 msgid "Whenever Dragon Mage deals combat damage to a player, each player discards their hand, then draws seven cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz odrzuca swoją "
+"rękę, następnie dobiera siedem kart."
 
 #: ../../M20.rst:438
 msgid ":mtgtip:`Ember Hauler<https://img.scryfall.com/cards/border_crop/front/1/5/159d476e-2f20-4f9b-adfd-9c541dc3e199.jpg?1560833948|https://scryfall.com/card/m20/137/ember-hauler?utm_source=api>`"
@@ -963,6 +1013,7 @@ msgstr ""
 #: ../../M20.rst:437
 msgid "|mana_1|, Sacrifice Ember Hauler: It deals 2 damage to any target."
 msgstr ""
+"|mana_1|, poświęć tego stwora: Zadaje on 2 obrażenia w dowolnie wskazany cel."
 
 #: ../../M20.rst:442
 msgid ":mtgtip:`Flame Sweep<https://img.scryfall.com/cards/border_crop/front/4/7/4702a838-8577-49b6-8b7a-f9b6d2929481.jpg?1560938463|https://scryfall.com/card/m20/139/flame-sweep?utm_source=api>`"
@@ -971,6 +1022,8 @@ msgstr ""
 #: ../../M20.rst:441
 msgid "Flame Sweep deals 2 damage to each creature except for creatures you control with flying."
 msgstr ""
+"Ten czar zadaje 2 obrażenia każdemu stworowi za wyjątkiem stworów z lataniem "
+"pod twoim władaniem."
 
 #: ../../M20.rst:448
 msgid ":mtgtip:`Fry<https://img.scryfall.com/cards/border_crop/front/0/7/070d7766-a662-443c-93c5-811dbdac2480.jpg?1560954720|https://scryfall.com/card/m20/140/fry?utm_source=api>`"
@@ -979,6 +1032,8 @@ msgstr ""
 #: ../../M20.rst:447
 msgid "Fry deals 5 damage to target creature or planeswalker that's white or blue."
 msgstr ""
+"Ten czar zadaje 5 obrażeń wskazanemu stworowi lub wędrowcowi w kolorze "
+"białym lub niebieskim."
 
 #: ../../M20.rst:452
 msgid ":mtgtip:`Goblin Bird-Grabber<https://img.scryfall.com/cards/border_crop/front/5/4/54fbbf39-cd52-474a-908e-b7a78cb5eb5b.jpg?1560950170|https://scryfall.com/card/m20/142/goblin-bird-grabber?utm_source=api>`"
@@ -987,6 +1042,8 @@ msgstr ""
 #: ../../M20.rst:451
 msgid "|mana_r|: Goblin Bird-Grabber gains flying until end of turn. Activate this ability only if you control a creature with flying."
 msgstr ""
+"|mana_r|: Ten stwór zyskuje latanie do końca tury. Aktywuj tę zdolność tylko "
+"jeśli władasz stworem z lataniem."
 
 #: ../../M20.rst:458
 msgid ":mtgtip:`Goblin Ringleader<https://img.scryfall.com/cards/border_crop/front/6/9/6911af4e-4abd-4cf9-8a86-ae5d680c6f12.jpg?1561000563|https://scryfall.com/card/m20/143/goblin-ringleader?utm_source=api>`"
@@ -999,6 +1056,9 @@ msgstr "Pośpiech"
 #: ../../M20.rst:457
 msgid "When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Umieść wszystkie karty Goblinów ujawnione w ten sposób w "
+"twojej ręce, a pozostałe w dowolnej kolejności na spodzie twojej biblioteki."
 
 #: ../../M20.rst:464
 msgid ":mtgtip:`Goblin Smuggler<https://img.scryfall.com/cards/border_crop/front/9/5/95dc1a65-271c-455a-ae0c-f652444a53ac.jpg?1561080515|https://scryfall.com/card/m20/144/goblin-smuggler?utm_source=api>`"
@@ -1013,6 +1073,8 @@ msgstr ""
 #: ../../M20.rst:463
 msgid "|tap|: Another target creature with power 2 or less can't be blocked this turn."
 msgstr ""
+"|tap|: Iny wskazany stwór o sile 2 lub mniejszej nie może być blokowany w "
+"tej turze."
 
 #: ../../M20.rst:468
 msgid ":mtgtip:`Infuriate<https://img.scryfall.com/cards/border_crop/front/7/a/7ac778f6-8997-47ee-a676-3eb9f8d1592f.jpg?1560792316|https://scryfall.com/card/m20/145/infuriate?utm_source=api>`"
@@ -1020,7 +1082,7 @@ msgstr ""
 
 #: ../../M20.rst:467
 msgid "Target creature gets +3/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+2."
 
 #: ../../M20.rst:472
 msgid ":mtgtip:`Lavakin Brawler<https://img.scryfall.com/cards/border_crop/front/3/e/3eeea9e5-3041-4439-bc52-fd00ec83c7a1.jpg?1561080595|https://scryfall.com/card/m20/147/lavakin-brawler?utm_source=api>`"
@@ -1029,6 +1091,8 @@ msgstr ""
 #: ../../M20.rst:471
 msgid "Whenever Lavakin Brawler attacks, it gets +1/+0 until end of turn for each Elemental you control."
 msgstr ""
+"Ilekroć ten stwór atakuje, dostaje +1/+0 do końca tury za każdego Żywiołaka "
+"pod twoim władaniem."
 
 #: ../../M20.rst:478
 msgid ":mtgtip:`Leyline of Combustion<https://img.scryfall.com/cards/border_crop/front/3/a/3a93c8e2-fb27-43af-83a7-2bd4d40e0eff.jpg?1560942903|https://scryfall.com/card/m20/148/leyline-of-combustion?utm_source=api>`"
