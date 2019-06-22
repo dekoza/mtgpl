@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2019, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-22 13:50+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-06-22 12:52+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/m20/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../M20.rst:5
 msgid ":mtgexp:`M20` Core Set 2020"
@@ -27,6 +29,8 @@ msgstr ""
 #: ../../M20.rst:9
 msgid "Destroy target tapped creature. You gain 1 life for each creature you control with flying."
 msgstr ""
+"Zniszcz wskazanego przekręconego stwora. Zyskujesz 1 życie za każdego stwora "
+"z lataniem pod twoim władaniem."
 
 #: ../../M20.rst:18
 msgid ":mtgtip:`Ajani, Strength of the Pride<https://img.scryfall.com/cards/border_crop/front/7/9/79883468-a37c-4894-8d05-6a4d150b7d59.jpg?1560940185|https://scryfall.com/card/m20/2/ajani-strength-of-the-pride?utm_source=api>`"
@@ -66,7 +70,7 @@ msgstr ""
 #: ../../M20.rst:693
 #: ../../M20.rst:939
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../M20.rst:23
 msgid "If you would gain life, you gain that much life plus 1 instead."
@@ -94,7 +98,7 @@ msgstr ""
 
 #: ../../M20.rst:35
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../M20.rst:37
 msgid "When Cavalier of Dawn enters the battlefield, destroy up to one target nonland permanent. Its controller creates a 3/3 colorless Golem artifact creature token."
@@ -118,7 +122,7 @@ msgstr ""
 
 #: ../../M20.rst:47
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../M20.rst:52
 msgid ":mtgtip:`Eternal Isolation<https://img.scryfall.com/cards/border_crop/front/0/2/021963bf-87fc-432f-b9a1-4f627885a7a9.jpg?1561158948|https://scryfall.com/card/m20/15/eternal-isolation?utm_source=api>`"
@@ -155,10 +159,14 @@ msgstr ""
 #: ../../M20.rst:69
 msgid "If Leyline of Sanctity is in your opening hand, you may begin the game with it on the battlefield."
 msgstr ""
+"Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
+"na polu walki."
 
 #: ../../M20.rst:71
 msgid "You have hexproof. (You can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Masz antyklątwę. (Nie możesz być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 #: ../../M20.rst:78
 msgid ":mtgtip:`Loxodon Lifechanter<https://img.scryfall.com/cards/border_crop/front/1/9/19610e6d-61bf-4c79-bfb2-e855eb944d11.jpg?1560887655|https://scryfall.com/card/m20/27/loxodon-lifechanter?utm_source=api>`"
@@ -178,7 +186,7 @@ msgstr ""
 
 #: ../../M20.rst:83
 msgid "Loyal Pegasus can't attack or block alone."
-msgstr ""
+msgstr "Ten stwór nie może samotnie atakować lub blokować."
 
 #: ../../M20.rst:90
 msgid ":mtgtip:`Pacifism<https://img.scryfall.com/cards/border_crop/front/3/1/31279d7c-5246-40b2-a8c7-0be4a5f24a29.jpg?1560877850|https://scryfall.com/card/m20/32/pacifism?utm_source=api>`"
@@ -188,11 +196,11 @@ msgstr ""
 #: ../../M20.rst:183
 #: ../../M20.rst:639
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../M20.rst:89
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../M20.rst:94
 msgid ":mtgtip:`Planar Cleansing<https://img.scryfall.com/cards/border_crop/front/5/e/5eddac86-947e-48c1-9f02-4634a7918c98.jpg?1560972665|https://scryfall.com/card/m20/33/planar-cleansing?utm_source=api>`"
@@ -200,7 +208,7 @@ msgstr ""
 
 #: ../../M20.rst:93
 msgid "Destroy all nonland permanents."
-msgstr ""
+msgstr "Zniszcz wszystkie nielądowe permanenty."
 
 #: ../../M20.rst:98
 msgid ":mtgtip:`Raise the Alarm<https://img.scryfall.com/cards/border_crop/front/7/6/764a7a53-314e-4b1f-aa33-0f312d06df71.jpg?1561000830|https://scryfall.com/card/m20/34/raise-the-alarm?utm_source=api>`"
@@ -208,7 +216,7 @@ msgstr ""
 
 #: ../../M20.rst:97
 msgid "Create two 1/1 white Soldier creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Piechur 1/1."
 
 #: ../../M20.rst:102
 msgid ":mtgtip:`Rule of Law<https://img.scryfall.com/cards/border_crop/front/a/1/a1f4e79b-b103-4380-afa0-61a2b1773c9e.jpg?1560840478|https://scryfall.com/card/m20/35/rule-of-law?utm_source=api>`"
@@ -216,7 +224,7 @@ msgstr ""
 
 #: ../../M20.rst:101
 msgid "Each player can't cast more than one spell each turn."
-msgstr ""
+msgstr "Każdy z graczy nie może rzucać więcej niż jednego czaru na turę."
 
 #: ../../M20.rst:110
 msgid ":mtgtip:`Sephara, Sky's Blade<https://img.scryfall.com/cards/border_crop/front/b/c/bc95881b-8fbf-4d82-b631-5e4404ccc28a.jpg?1561122718|https://scryfall.com/card/m20/36/sephara-skys-blade?utm_source=api>`"
@@ -228,7 +236,7 @@ msgstr ""
 
 #: ../../M20.rst:107
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../M20.rst:109
 msgid "Other creatures you control with flying have indestructible. (Damage and effects that say \"destroy\" don't destroy them.)"
@@ -241,7 +249,7 @@ msgstr ""
 #: ../../M20.rst:113
 #: ../../M20.rst:733
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 #: ../../M20.rst:115
 msgid "Squad Captain enters the battlefield with a +1/+1 counter on it for each other creature you control."
@@ -253,7 +261,7 @@ msgstr ""
 
 #: ../../M20.rst:119
 msgid "Enchantment spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie uroków kosztuje cię o |mana_1| mniej."
 
 #: ../../M20.rst:121
 msgid "Whenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on Starfield Mystic."
@@ -325,7 +333,7 @@ msgstr ""
 
 #: ../../M20.rst:161
 msgid "Counter target spell unless its controller pays |mana_4|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_4|."
 
 #: ../../M20.rst:166
 msgid ":mtgtip:`Drawn from Dreams<https://img.scryfall.com/cards/border_crop/front/5/6/5677cd48-de9f-4827-94d7-8a2301945742.jpg?1561002226|https://scryfall.com/card/m20/56/drawn-from-dreams?utm_source=api>`"
@@ -374,6 +382,8 @@ msgstr ""
 #: ../../M20.rst:189
 msgid "If Leyline of Anticipation is in your opening hand, you may begin the game with it on the battlefield."
 msgstr ""
+"Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
+"na polu walki."
 
 #: ../../M20.rst:191
 msgid "You may cast spells as though they had flash. (You may cast them any time you could cast an instant.)"
@@ -386,7 +396,7 @@ msgstr ""
 #: ../../M20.rst:195
 #: ../../M20.rst:501
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../M20.rst:197
 msgid "Create two 3/3 colorless Golem artifact creature tokens."
@@ -402,7 +412,7 @@ msgstr ""
 
 #: ../../M20.rst:203
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../M20.rst:212
 msgid ":mtgtip:`Mu Yanling, Sky Dancer<https://img.scryfall.com/cards/border_crop/front/0/2/0240f9eb-e1b2-4b41-94b0-b00ad2850825.jpg?1561044872|https://scryfall.com/card/m20/68/mu-yanling-sky-dancer?utm_source=api>`"
@@ -426,7 +436,7 @@ msgstr ""
 
 #: ../../M20.rst:215
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../M20.rst:220
 msgid ":mtgtip:`Octoprophet<https://img.scryfall.com/cards/border_crop/front/1/3/13becea1-e745-4c96-bfc2-6a277fb60ee1.jpg?1560794401|https://scryfall.com/card/m20/70/octoprophet?utm_source=api>`"
@@ -451,10 +461,15 @@ msgstr ""
 #: ../../M20.rst:227
 msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts."
 msgstr ""
+"|tap|: Dostajesz |colorless|\\ |colorless|. Użyj tej many tylko do rzucania "
+"czarów artefaktów lub aktywowania zdolności artefaktów."
 
 #: ../../M20.rst:229
 msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|mana_u|, |tap|: Poszukaj w twojej bibliotece karty o nazwie Heart-Piercer "
+"Bow lub Vial of Dragonfire, ujawnij ją i umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../M20.rst:234
 msgid ":mtgtip:`Scholar of the Ages<https://img.scryfall.com/cards/border_crop/front/8/0/80137c9a-ea56-4dc7-a503-43fe192c8fce.jpg?1560926258|https://scryfall.com/card/m20/74/scholar-of-the-ages?utm_source=api>`"
@@ -470,11 +485,11 @@ msgstr ""
 
 #: ../../M20.rst:237
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../M20.rst:241
 msgid "|mana_3|\\ |mana_u|: Draw a card."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Dobierz kartę."
 
 #: ../../M20.rst:246
 msgid ":mtgtip:`Unsummon<https://img.scryfall.com/cards/border_crop/front/7/a/7a960516-3864-4a7a-8117-d25dec0dd665.jpg?1560791255|https://scryfall.com/card/m20/78/unsummon?utm_source=api>`"
@@ -482,7 +497,7 @@ msgstr ""
 
 #: ../../M20.rst:245
 msgid "Return target creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../M20.rst:252
 msgid ":mtgtip:`Winged Words<https://img.scryfall.com/cards/border_crop/front/f/f/ff765065-b160-49b6-99ac-cd695bd0d903.jpg?1561080976|https://scryfall.com/card/m20/80/winged-words?utm_source=api>`"
@@ -494,7 +509,7 @@ msgstr ""
 
 #: ../../M20.rst:251
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../M20.rst:256
 msgid ":mtgtip:`\"Kill Stealer\"<https://img.scryfall.com/cards/border_crop/front/e/1/e1ff5e66-4718-43c3-8a58-1a0a8e788f83.jpg?1561099115|https://scryfall.com/card/m20/84/kill-stealer?utm_source=api>`"
@@ -531,7 +546,7 @@ msgstr ""
 #: ../../M20.rst:269
 #: ../../M20.rst:281
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../M20.rst:271
 msgid "Return a creature card from your graveyard to the battlefield, then return another creature card from your graveyard to your hand."
@@ -552,7 +567,7 @@ msgstr ""
 #: ../../M20.rst:283
 #: ../../M20.rst:327
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../M20.rst:288
 msgid ":mtgtip:`Boneclad Necromancer<https://img.scryfall.com/cards/border_crop/front/a/b/ab9ed2b9-5fb9-4633-8c9a-0594ae7c49c7.jpg?1561080293|https://scryfall.com/card/m20/93/boneclad-necromancer?utm_source=api>`"
@@ -568,7 +583,7 @@ msgstr ""
 
 #: ../../M20.rst:291
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../M20.rst:293
 msgid "When Cavalier of Night enters the battlefield, you may sacrifice another creature. When you do, destroy target creature an opponent controls."
@@ -584,7 +599,7 @@ msgstr ""
 
 #: ../../M20.rst:299
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -2/-2 do końca tury."
 
 #: ../../M20.rst:308
 msgid ":mtgtip:`Dread Presence<https://img.scryfall.com/cards/border_crop/front/0/4/0430db1a-5cad-4444-ba93-57fb32e65606.jpg?1560784570|https://scryfall.com/card/m20/96/dread-presence?utm_source=api>`"
@@ -629,6 +644,8 @@ msgstr ""
 #: ../../M20.rst:321
 msgid "If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield."
 msgstr ""
+"Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
+"na polu walki."
 
 #: ../../M20.rst:323
 msgid "If a card would be put into an opponent's graveyard from anywhere, exile it instead."
@@ -687,7 +704,7 @@ msgstr ""
 #: ../../M20.rst:445
 #: ../../M20.rst:595
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../M20.rst:353
 msgid "Target opponent reveals their hand. Exile all noncreature, nonland cards from that player's hand and graveyard."
@@ -701,11 +718,15 @@ msgstr ""
 #: ../../M20.rst:719
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
+"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"wystarcza, aby został zniszczony.)"
 
 #: ../../M20.rst:359
 #: ../../M20.rst:721
 msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../M20.rst:368
 msgid ":mtgtip:`Vilis, Broker of Blood<https://img.scryfall.com/cards/border_crop/front/e/c/ecdf2bd9-87b9-470a-ad2e-0ebf98560f87.jpg?1561117116|https://scryfall.com/card/m20/122/vilis-broker-of-blood?utm_source=api>`"
@@ -877,7 +898,7 @@ msgstr ""
 
 #: ../../M20.rst:455
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../M20.rst:457
 msgid "When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order."
@@ -890,6 +911,8 @@ msgstr ""
 #: ../../M20.rst:461
 msgid "Haste (This creature can attack and |tap| as soon as it comes under your control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../M20.rst:463
 msgid "|tap|: Another target creature with power 2 or less can't be blocked this turn."
@@ -918,6 +941,8 @@ msgstr ""
 #: ../../M20.rst:475
 msgid "If Leyline of Combustion is in your opening hand, you may begin the game with it on the battlefield."
 msgstr ""
+"Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
+"na polu walki."
 
 #: ../../M20.rst:477
 msgid "Whenever you and/or at least one permanent you control becomes the target of a spell or ability an opponent controls, Leyline of Combustion deals 2 damage to that player."
@@ -929,7 +954,7 @@ msgstr ""
 
 #: ../../M20.rst:481
 msgid "Creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../M20.rst:483
 msgid "Whenever another creature enters the battlefield under your control, Marauding Raptor deals 2 damage to it. If a Dinosaur is dealt damage this way, Marauding Raptor gets +2/+0 until end of turn."
@@ -950,6 +975,8 @@ msgstr ""
 #: ../../M20.rst:491
 msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../M20.rst:498
 msgid ":mtgtip:`Rapacious Dragon<https://img.scryfall.com/cards/border_crop/front/2/c/2c9bf6d8-ebf6-40ff-858a-3483d19bb584.jpg?1561120950|https://scryfall.com/card/m20/153/rapacious-dragon?utm_source=api>`"
@@ -969,7 +996,7 @@ msgstr ""
 
 #: ../../M20.rst:505
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../M20.rst:510
 msgid ":mtgtip:`Repeated Reverberation<https://img.scryfall.com/cards/border_crop/front/1/e/1e94c783-e474-4cbc-a38a-27ad8dd15a7b.jpg?1560926893|https://scryfall.com/card/m20/156/repeated-reverberation?utm_source=api>`"
@@ -1017,7 +1044,7 @@ msgstr ""
 
 #: ../../M20.rst:529
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../M20.rst:531
 msgid "When Cavalier of Thorns enters the battlefield, reveal the top five cards of your library. You may put a land card from among them onto the battlefield. Put the rest into your graveyard."
@@ -1070,6 +1097,8 @@ msgstr ""
 #: ../../M20.rst:555
 msgid "If Leyline of Abundance is in your opening hand, you may begin the game with it on the battlefield."
 msgstr ""
+"Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
+"na polu walki."
 
 #: ../../M20.rst:557
 msgid "Whenever you tap a creature for mana, add an additional |mana_g|."
@@ -1093,7 +1122,7 @@ msgstr ""
 
 #: ../../M20.rst:567
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../M20.rst:569
 msgid "Other Wolves and Werewolves you control get +1/+1."
@@ -1163,6 +1192,8 @@ msgstr ""
 #: ../../M20.rst:609
 msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../M20.rst:605
 msgid "When Silverback Shaman dies, draw a card."
@@ -1182,7 +1213,7 @@ msgstr ""
 
 #: ../../M20.rst:615
 msgid "|mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../M20.rst:620
 msgid ":mtgtip:`Veil of Summer<https://img.scryfall.com/cards/border_crop/front/a/a/aa686c34-1c11-469f-93c2-f9891aea521f.jpg?1560813972|https://scryfall.com/card/m20/198/veil-of-summer?utm_source=api>`"
@@ -1198,7 +1229,7 @@ msgstr ""
 
 #: ../../M20.rst:623
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../M20.rst:625
 msgid "Voracious Hydra enters the battlefield with X +1/+1 counters on it."
@@ -1234,7 +1265,7 @@ msgstr ""
 
 #: ../../M20.rst:643
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../M20.rst:652
 msgid ":mtgtip:`Wolfrider's Saddle<https://img.scryfall.com/cards/border_crop/front/b/a/ba18cc9a-411d-45c6-bcc3-9e02ef5e2d92.jpg?1560938537|https://scryfall.com/card/m20/204/wolfriders-saddle?utm_source=api>`"
@@ -1306,7 +1337,7 @@ msgstr ""
 
 #: ../../M20.rst:681
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../M20.rst:683
 msgid "When Kaalia, Zenith Seeker enters the battlefield, look at the top six cards of your library. You may reveal an Angel card, a Demon card, and/or a Dragon card from among them and put them into your hand. Put the rest on the bottom of your library in a random order."
@@ -1386,7 +1417,7 @@ msgstr ""
 
 #: ../../M20.rst:727
 msgid "Deathtouch, lifelink"
-msgstr ""
+msgstr "Dotyk śmierci, więź życia"
 
 #: ../../M20.rst:729
 msgid "If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
@@ -1434,7 +1465,7 @@ msgstr ""
 
 #: ../../M20.rst:753
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../M20.rst:762
 msgid ":mtgtip:`Icon of Ancestry<https://img.scryfall.com/cards/border_crop/front/9/b/9b78e53c-1aec-4c49-bf58-165dd7b59d64.jpg?1561117096|https://scryfall.com/card/m20/229/icon-of-ancestry?utm_source=api>`"
@@ -1446,7 +1477,7 @@ msgstr ""
 
 #: ../../M20.rst:759
 msgid "Creatures you control of the chosen type get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego typu pod twoim władaniem dostają +1/+1."
 
 #: ../../M20.rst:761
 msgid "|mana_3|, |tap|: Look at the top three cards of your library. You may reveal a creature card of the chosen type from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
@@ -1462,7 +1493,7 @@ msgstr ""
 
 #: ../../M20.rst:767
 msgid "|mana_3|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_3|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../M20.rst:774
 msgid ":mtgtip:`Retributive Wand<https://img.scryfall.com/cards/border_crop/front/5/5/5521cb92-03b0-44ab-a141-40dc0eb5a79f.jpg?1560972321|https://scryfall.com/card/m20/236/retributive-wand?utm_source=api>`"
@@ -1482,7 +1513,7 @@ msgstr ""
 
 #: ../../M20.rst:777
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../M20.rst:779
 msgid "|tap|: Target creature becomes the color or colors of your choice until end of turn."
@@ -1510,15 +1541,15 @@ msgstr ""
 
 #: ../../M20.rst:791
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:793
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:795
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../M20.rst:804
 msgid ":mtgtip:`Blossoming Sands<https://img.scryfall.com/cards/border_crop/front/3/1/31514c67-4c55-4f28-9872-08e4d9bc6505.jpg?1561121951|https://scryfall.com/card/m20/243/blossoming-sands?utm_source=api>`"
@@ -1526,15 +1557,15 @@ msgstr ""
 
 #: ../../M20.rst:799
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:801
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:803
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../M20.rst:810
 msgid ":mtgtip:`Cryptic Caves<https://img.scryfall.com/cards/border_crop/front/f/d/fde9e9cb-68ab-4856-8ad6-30f66666dd93.jpg?1560766547|https://scryfall.com/card/m20/244/cryptic-caves?utm_source=api>`"
@@ -1543,7 +1574,7 @@ msgstr ""
 #: ../../M20.rst:807
 #: ../../M20.rst:827
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../M20.rst:809
 msgid "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands."
@@ -1555,15 +1586,15 @@ msgstr ""
 
 #: ../../M20.rst:813
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:815
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:817
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../M20.rst:822
 msgid ":mtgtip:`Evolving Wilds<https://img.scryfall.com/cards/border_crop/front/a/d/ad0fa2fb-6770-4a81-b830-4acfa957655a.jpg?1561122092|https://scryfall.com/card/m20/246/evolving-wilds?utm_source=api>`"
@@ -1572,6 +1603,8 @@ msgstr ""
 #: ../../M20.rst:821
 msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../M20.rst:830
 msgid ":mtgtip:`Field of the Dead<https://img.scryfall.com/cards/border_crop/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1560862237|https://scryfall.com/card/m20/247/field-of-the-dead?utm_source=api>`"
@@ -1591,16 +1624,16 @@ msgstr ""
 
 #: ../../M20.rst:833
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:835
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:837
 #: ../../M20.rst:887
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../M20.rst:848
 msgid ":mtgtip:`Lotus Field<https://img.scryfall.com/cards/border_crop/front/0/e/0e013033-3995-4ba8-b0c3-0614c79aaaab.jpg?1561050584|https://scryfall.com/card/m20/249/lotus-field?utm_source=api>`"
@@ -1608,19 +1641,19 @@ msgstr ""
 
 #: ../../M20.rst:841
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: ../../M20.rst:843
 msgid "Lotus Field enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:845
 msgid "When Lotus Field enters the battlefield, sacrifice two lands."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, poświęć dwa lądy."
 
 #: ../../M20.rst:847
 msgid "|tap|: Add three mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz trzy many w jednym dowolnym kolorze."
 
 #: ../../M20.rst:856
 msgid ":mtgtip:`Rugged Highlands<https://img.scryfall.com/cards/border_crop/front/f/0/f05dd57c-91ca-4c79-b6da-1e504d806f28.jpg?1561121932|https://scryfall.com/card/m20/250/rugged-highlands?utm_source=api>`"
@@ -1628,15 +1661,15 @@ msgstr ""
 
 #: ../../M20.rst:851
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:853
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:855
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../M20.rst:864
 msgid ":mtgtip:`Scoured Barrens<https://img.scryfall.com/cards/border_crop/front/3/b/3b9edd33-a64e-4526-a89f-edd31ac4b175.jpg?1561121860|https://scryfall.com/card/m20/251/scoured-barrens?utm_source=api>`"
@@ -1644,16 +1677,16 @@ msgstr ""
 
 #: ../../M20.rst:859
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:861
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:863
 #: ../../M20.rst:903
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../M20.rst:872
 msgid ":mtgtip:`Swiftwater Cliffs<https://img.scryfall.com/cards/border_crop/front/8/0/804db4ef-712f-4a39-a00f-51e99b05274c.jpg?1561121894|https://scryfall.com/card/m20/252/swiftwater-cliffs?utm_source=api>`"
@@ -1661,16 +1694,16 @@ msgstr ""
 
 #: ../../M20.rst:867
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:869
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:871
 #: ../../M20.rst:879
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../M20.rst:880
 msgid ":mtgtip:`Temple of Epiphany<https://img.scryfall.com/cards/border_crop/front/0/0/00f8ec3c-d2cb-477c-a7e8-ff497df646d6.jpg?1560954664|https://scryfall.com/card/m20/253/temple-of-epiphany?utm_source=api>`"
@@ -1678,11 +1711,13 @@ msgstr ""
 
 #: ../../M20.rst:875
 msgid "Temple of Epiphany enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:877
 msgid "When Temple of Epiphany enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../M20.rst:888
 msgid ":mtgtip:`Temple of Malady<https://img.scryfall.com/cards/border_crop/front/6/e/6e327d94-5540-49f0-b1a2-a3fb614c9651.jpg?1560954747|https://scryfall.com/card/m20/254/temple-of-malady?utm_source=api>`"
@@ -1690,11 +1725,13 @@ msgstr ""
 
 #: ../../M20.rst:883
 msgid "Temple of Malady enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:885
 msgid "When Temple of Malady enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../M20.rst:896
 msgid ":mtgtip:`Temple of Mystery<https://img.scryfall.com/cards/border_crop/front/0/c/0c284acd-4407-42ad-9f4c-359041223609.jpg?1560954807|https://scryfall.com/card/m20/255/temple-of-mystery?utm_source=api>`"
@@ -1702,16 +1739,18 @@ msgstr ""
 
 #: ../../M20.rst:891
 msgid "Temple of Mystery enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:893
 msgid "When Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../M20.rst:895
 #: ../../M20.rst:919
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../M20.rst:904
 msgid ":mtgtip:`Temple of Silence<https://img.scryfall.com/cards/border_crop/front/6/4/64cbb241-7268-42ac-a3ae-d326c9b6247f.jpg?1560954863|https://scryfall.com/card/m20/256/temple-of-silence?utm_source=api>`"
@@ -1719,11 +1758,13 @@ msgstr ""
 
 #: ../../M20.rst:899
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:901
 msgid "When Temple of Silence enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../M20.rst:912
 msgid ":mtgtip:`Temple of Triumph<https://img.scryfall.com/cards/border_crop/front/a/8/a874dfe1-eb4d-4817-877f-8a4cd75107e1.jpg?1560954987|https://scryfall.com/card/m20/257/temple-of-triumph?utm_source=api>`"
@@ -1731,16 +1772,18 @@ msgstr ""
 
 #: ../../M20.rst:907
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:909
 msgid "When Temple of Triumph enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../M20.rst:911
 #: ../../M20.rst:935
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../M20.rst:920
 msgid ":mtgtip:`Thornwood Falls<https://img.scryfall.com/cards/border_crop/front/e/f/ef1b12d2-2f4f-4cfd-9728-edf8232c99e7.jpg?1561121964|https://scryfall.com/card/m20/258/thornwood-falls?utm_source=api>`"
@@ -1748,11 +1791,11 @@ msgstr ""
 
 #: ../../M20.rst:915
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:917
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:928
 msgid ":mtgtip:`Tranquil Cove<https://img.scryfall.com/cards/border_crop/front/7/5/75fa37aa-ef2e-49ff-9496-86b0e69128a7.jpg?1561129237|https://scryfall.com/card/m20/259/tranquil-cove?utm_source=api>`"
@@ -1760,15 +1803,15 @@ msgstr ""
 
 #: ../../M20.rst:923
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:925
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:927
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../M20.rst:936
 msgid ":mtgtip:`Wind-Scarred Crag<https://img.scryfall.com/cards/border_crop/front/9/1/91c0b1ba-fd3d-4f1c-9e8e-22280eeeff7d.jpg?1561121942|https://scryfall.com/card/m20/260/wind-scarred-crag?utm_source=api>`"
@@ -1776,11 +1819,11 @@ msgstr ""
 
 #: ../../M20.rst:931
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../M20.rst:933
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../M20.rst:944
 msgid ":mtgtip:`Rienne, Angel of Rebirth<https://img.scryfall.com/cards/border_crop/front/1/f/1fd040a8-b818-465b-a78b-d68402982abc.jpg?1560773208|https://scryfall.com/card/m20/281/rienne-angel-of-rebirth?utm_source=api>`"
