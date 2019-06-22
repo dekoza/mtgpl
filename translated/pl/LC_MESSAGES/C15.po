@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 22:04+0000\n"
+"PO-Revision-Date: 2019-06-22 23:38+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -2680,6 +2680,8 @@ msgid ""
 "Kicker |mana_8|\\ |mana_r| (You may pay an additional |mana_8|\\ |mana_r| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_8|\\ |mana_r| (Rzucając ten czar możesz zapłacić dodatkowo "
+"|mana_8|\\ |mana_r|.)"
 
 #: ../../C15.rst:951 ../../C15.rst:1189
 msgid "This spell can't be countered."
@@ -2691,6 +2693,9 @@ msgid ""
 "it deals 10 damage to that permanent or player and the damage can't be "
 "prevented."
 msgstr ""
+"Ten czar zadaje 3 obrażenia w dowolnie wskazany cel. Jeśli ten czar został "
+"podbity, zamiast tego zadaje on owemu permanentowi lub graczowi 10 obrażeń, "
+"których nie można zażegnać."
 
 #: ../../C15.rst:960
 msgid ""
@@ -3822,6 +3827,8 @@ msgid ""
 "Retrace (You may cast this card from your graveyard by discarding a land "
 "card in addition to paying its other costs.)"
 msgstr ""
+"Odtworzenie (Możesz rzucić tę kartę z twojego cmentarza odrzucając kartę "
+"lądu oprócz opłacenia innych jej kosztów.)"
 
 #: ../../C15.rst:1348
 msgid ""
@@ -4456,7 +4463,7 @@ msgstr "|tap|: Weź |mana_r|."
 
 #: ../../C15.rst:1593
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../C15.rst:1600
 msgid ""

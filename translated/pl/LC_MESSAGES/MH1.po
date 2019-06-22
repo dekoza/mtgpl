@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-01 13:05+0200\n"
-"PO-Revision-Date: 2019-06-22 22:05+0000\n"
+"PO-Revision-Date: 2019-06-22 23:38+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mh1/pl/>\n"
 "Language: pl\n"
@@ -1492,10 +1492,14 @@ msgstr ""
 #: ../../MH1.rst:641
 msgid "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)"
 msgstr ""
+"Wyzysk (Kiedy ten stwór wejdzie na pole walki, możesz poświęcić stwora.)"
 
 #: ../../MH1.rst:643
 msgid "Whenever another creature you control dies, put a +1/+1 counter on Silumgar Scavenger. It gains haste until end of turn if it exploited that creature."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze. Zyskuje on do końca tury pośpiech, jeśli ów stwór był "
+"wyzyskany."
 
 #: ../../MH1.rst:650
 msgid ":mtgtip:`Sling-Gang Lieutenant<https://img.scryfall.com/cards/border_crop/front/f/8/f82aec21-441b-4fcd-b666-61723bd79531.jpg?1558922219|https://scryfall.com/card/mh1/108/sling-gang-lieutenant?utm_source=api>`"
@@ -1857,10 +1861,15 @@ msgstr ""
 #: ../../MH1.rst:805
 msgid "Echo |mana_r| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_r| (Na początku twojego kroku utrzymania, jeśli ta karta weszła "
+"pod twoje władanie po twoim poprzednim kroku utrzymania, poświęć ją, chyba "
+"że opłacić koszt echa.)"
 
 #: ../../MH1.rst:807
 msgid "When Orcish Hellraiser dies, it deals 2 damage to target player or planeswalker."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje on wskazanemu graczowi lub wędrowcowi 2 "
+"obrażenia."
 
 #: ../../MH1.rst:814
 msgid ":mtgtip:`Ore-Scale Guardian<https://img.scryfall.com/cards/border_crop/front/e/7/e789333b-21ee-4613-8eba-52a719b0f1e5.jpg?1559033830|https://scryfall.com/card/mh1/137/ore-scale-guardian?utm_source=api>`"
@@ -1883,10 +1892,14 @@ msgstr ""
 #: ../../MH1.rst:817
 msgid "Whenever Pashalik Mons or another Goblin you control dies, Pashalik Mons deals 1 damage to any target."
 msgstr ""
+"Ilekroć ten stwór lub inny Goblin umrze, ten stwór zadaje 1 obrażenie w "
+"dowolnie wskazany cel."
 
 #: ../../MH1.rst:819
 msgid "|mana_3|\\ |mana_r|, Sacrifice a Goblin: Create two 1/1 red Goblin creature tokens."
 msgstr ""
+"|mana_3|\\ |mana_r|, poświęć Goblina: Stwórz dwa żetony czerwonego stwora "
+"Goblin 1/1."
 
 #: ../../MH1.rst:824
 msgid ":mtgtip:`Pillage<https://img.scryfall.com/cards/border_crop/front/b/d/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82.jpg?1558796106|https://scryfall.com/card/mh1/139/pillage?utm_source=api>`"
@@ -1894,7 +1907,7 @@ msgstr ""
 
 #: ../../MH1.rst:823
 msgid "Destroy target artifact or land. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd. Nie może być zregenerowany."
 
 #: ../../MH1.rst:828
 msgid ":mtgtip:`Planebound Accomplice<https://img.scryfall.com/cards/border_crop/front/8/5/85fb9418-a22b-4f92-b494-f68c29bcb92a.jpg?1558525676|https://scryfall.com/card/mh1/140/planebound-accomplice?utm_source=api>`"
@@ -1903,6 +1916,8 @@ msgstr ""
 #: ../../MH1.rst:827
 msgid "|mana_r|: You may put a planeswalker card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step."
 msgstr ""
+"mana_r|: Możesz umieścić kartę wędrowca z twojej ręki na polu walki. Poświęć "
+"go na początku najbliższego kroku końcowego."
 
 #: ../../MH1.rst:832
 msgid ":mtgtip:`Pyrophobia<https://img.scryfall.com/cards/border_crop/front/f/f/ff02b3f1-d70f-4e44-bc1c-7fc90ec611dc.jpg?1558617120|https://scryfall.com/card/mh1/141/pyrophobia?utm_source=api>`"
@@ -1911,6 +1926,8 @@ msgstr ""
 #: ../../MH1.rst:831
 msgid "Pyrophobia deals 3 damage to target creature. Cowards can't block this turn."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia. Tchórze nie mogą blokować w "
+"tej turze."
 
 #: ../../MH1.rst:840
 msgid ":mtgtip:`Quakefoot Cyclops<https://img.scryfall.com/cards/border_crop/front/2/7/27573ee0-156a-4bf3-95eb-5e7b63c638e7.jpg?1559302166|https://scryfall.com/card/mh1/142/quakefoot-cyclops?utm_source=api>`"
@@ -1919,14 +1936,19 @@ msgstr ""
 #: ../../MH1.rst:835
 msgid "When Quakefoot Cyclops enters the battlefield, up to two target creatures can't block this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, co najwyżej dwa wskazane stwory nie "
+"mogą blokować w tej turze."
 
 #: ../../MH1.rst:837
 msgid "Cycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../MH1.rst:839
 msgid "When you cycle Quakefoot Cyclops, target creature can't block this turn."
 msgstr ""
+"Kiedy recyklujesz tę kartę, wskazany stwór nie może blokować w tej turze."
 
 #: ../../MH1.rst:844
 msgid ":mtgtip:`Ravenous Giant<https://img.scryfall.com/cards/border_crop/front/5/2/52337d8d-e0ee-4229-848d-9bbd989e15b7.jpg?1558597650|https://scryfall.com/card/mh1/143/ravenous-giant?utm_source=api>`"
@@ -1935,6 +1957,7 @@ msgstr ""
 #: ../../MH1.rst:843
 msgid "At the beginning of your upkeep, Ravenous Giant deals 1 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten stwór zadaje tobie 1 obrażenie."
 
 #: ../../MH1.rst:850
 msgid ":mtgtip:`Reckless Charge<https://img.scryfall.com/cards/border_crop/front/1/7/1754a8db-060e-470f-94c0-37f12d82978a.jpg?1559234992|https://scryfall.com/card/mh1/144/reckless-charge?utm_source=api>`"
@@ -1942,7 +1965,7 @@ msgstr ""
 
 #: ../../MH1.rst:847
 msgid "Target creature gets +3/+0 and gains haste until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+0 i pośpiech."
 
 #: ../../MH1.rst:849
 msgid "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
@@ -1957,10 +1980,15 @@ msgstr ""
 #: ../../MH1.rst:853
 msgid "When Seasoned Pyromancer enters the battlefield, discard two cards, then draw two cards. For each nonland card discarded this way, create a 1/1 red Elemental creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, odrzuć dwie karty, następnie dobierz "
+"dwie karty. Za każdą nielądową kartę odrzuconą w ten sposób, stwórz żeton "
+"czerwonego stwora Żywiołak 1/1."
 
 #: ../../MH1.rst:855
 msgid "|mana_3|\\ |mana_r|\\ |mana_r|, Exile Seasoned Pyromancer from your graveyard: Create two 1/1 red Elemental creature tokens."
 msgstr ""
+"|mana_3|\\ |mana_r|\\ |mana_r|, wygnaj tego stwora z twojego cmentarza: "
+"Stwórz dwa żetony czerwonego stwora Żywiołak 1/1."
 
 #: ../../MH1.rst:862
 msgid ":mtgtip:`Shenanigans<https://img.scryfall.com/cards/border_crop/front/5/8/580c6fe2-ab43-491e-a1b2-d076a5c2a74e.jpg?1559303358|https://scryfall.com/card/mh1/146/shenanigans?utm_source=api>`"
@@ -1973,6 +2001,10 @@ msgstr "Zniszcz wskazany artefakt."
 #: ../../MH1.rst:861
 msgid "Dredge 1 (If you would draw a card, instead you may put exactly one card from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
+"Czerpak 1 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
+"dokładnie jedną kartę z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"przeciwnym razie dobierz kartę.)"
 
 #: ../../MH1.rst:866
 msgid ":mtgtip:`Spinehorn Minotaur<https://img.scryfall.com/cards/border_crop/front/8/6/86b9479d-7b6a-40c8-94ea-fdf0ec980b42.jpg?1559302228|https://scryfall.com/card/mh1/147/spinehorn-minotaur?utm_source=api>`"
@@ -1981,6 +2013,8 @@ msgstr ""
 #: ../../MH1.rst:865
 msgid "As long as you've drawn two or more cards this turn, Spinehorn Minotaur has double strike."
 msgstr ""
+"O ile dobrałeś co najmniej dwie karty w tej turze, ten stwór ma podwójny "
+"cios."
 
 #: ../../MH1.rst:870
 msgid ":mtgtip:`Spiteful Sliver<https://img.scryfall.com/cards/border_crop/front/6/5/6506d58f-9825-4384-9012-1d037543fb59.jpg?1559076214|https://scryfall.com/card/mh1/148/spiteful-sliver?utm_source=api>`"
@@ -1998,7 +2032,7 @@ msgstr ""
 
 #: ../../MH1.rst:873
 msgid "Each land card in your hand has cycling |mana_r|."
-msgstr ""
+msgstr "Każda karta lądu w twojej ręce ma recykling |mana_r|."
 
 #: ../../MH1.rst:882
 msgid ":mtgtip:`Throes of Chaos<https://img.scryfall.com/cards/border_crop/front/6/c/6c02cc57-f589-4c5d-b306-cceb0ab3ce8b.jpg?1559188879|https://scryfall.com/card/mh1/150/throes-of-chaos?utm_source=api>`"
@@ -2016,6 +2050,8 @@ msgstr ""
 #: ../../MH1.rst:881
 msgid "Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)"
 msgstr ""
+"Odtworzenie (Możesz rzucić tę kartę z twojego cmentarza odrzucając kartę "
+"lądu oprócz opłacenia innych jej kosztów.)"
 
 #: ../../MH1.rst:890
 msgid ":mtgtip:`Urza's Rage<https://img.scryfall.com/cards/border_crop/front/5/c/5c91e364-c157-494e-bb1b-f2cef004900f.jpg?1559247444|https://scryfall.com/card/mh1/151/urzas-rage?utm_source=api>`"
@@ -2024,6 +2060,8 @@ msgstr ""
 #: ../../MH1.rst:885
 msgid "Kicker |mana_8|\\ |mana_r| (You may pay an additional |mana_8|\\ |mana_r| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_8|\\ |mana_r| (Rzucając ten czar możesz zapłacić dodatkowo "
+"|mana_8|\\ |mana_r|.)"
 
 #: ../../MH1.rst:887
 msgid "This spell can't be countered."
@@ -2032,6 +2070,9 @@ msgstr "Ten czar nie może być skontrowany."
 #: ../../MH1.rst:889
 msgid "Urza's Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can't be prevented."
 msgstr ""
+"Ten czar zadaje 3 obrażenia w dowolnie wskazany cel. Jeśli ten czar został "
+"podbity, zamiast tego zadaje on owemu permanentowi lub graczowi 10 obrażeń, "
+"których nie można zażegnać."
 
 #: ../../MH1.rst:896
 msgid ":mtgtip:`Vengeful Devil<https://img.scryfall.com/cards/border_crop/front/1/2/1265d65e-3f26-46d9-8b8b-e75048a02e95.jpg?1559302302|https://scryfall.com/card/mh1/152/vengeful-devil?utm_source=api>`"
@@ -2040,6 +2081,8 @@ msgstr ""
 #: ../../MH1.rst:895
 msgid "Morbid — |tap|: Vengeful Devil deals 1 damage to any target. Activate this ability only if a creature died this turn."
 msgstr ""
+"Okropność — |tap|: Ten stwór zadaje 1 obrażenie w dowolnie wskazany cel. "
+"Aktywuj tę zdolność tylko jeśli w tej turze umarł stwór."
 
 #: ../../MH1.rst:904
 msgid ":mtgtip:`Viashino Sandsprinter<https://img.scryfall.com/cards/border_crop/front/f/7/f7d1def0-1450-44ec-b7c4-0fa50fe12c15.jpg?1559302432|https://scryfall.com/card/mh1/153/viashino-sandsprinter?utm_source=api>`"
@@ -2048,16 +2091,18 @@ msgstr ""
 #: ../../MH1.rst:899
 #: ../../MH1.rst:1223
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../MH1.rst:901
 msgid "At the beginning of the end step, return Viashino Sandsprinter to its owner's hand. (Return it only if it's on the battlefield.)"
 msgstr ""
+"Na początku kroku końcowego przywróć tego stwora do ręki właściciela. (Tylko "
+"jeśli jest na polu walki.)"
 
 #: ../../MH1.rst:903
 #: ../../MH1.rst:1415
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../MH1.rst:908
 msgid ":mtgtip:`Volatile Claws<https://img.scryfall.com/cards/border_crop/front/3/6/36cb119b-dd15-40d2-8f75-c92f5d41d1e1.jpg?1559302470|https://scryfall.com/card/mh1/154/volatile-claws?utm_source=api>`"
@@ -2066,6 +2111,8 @@ msgstr ""
 #: ../../MH1.rst:907
 msgid "Until end of turn, creatures you control get +2/+0 and gain all creature types."
 msgstr ""
+"Do końca tury stwory pod twoim władaniem dostają +2/+0 oraz wszystkie typy "
+"stwora."
 
 #: ../../MH1.rst:916
 msgid ":mtgtip:`Ayula, Queen Among Bears<https://img.scryfall.com/cards/border_crop/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1558806854|https://scryfall.com/card/mh1/155/ayula-queen-among-bears?utm_source=api>`"
@@ -2074,14 +2121,18 @@ msgstr ""
 #: ../../MH1.rst:911
 msgid "Whenever another Bear enters the battlefield under your control, choose one —"
 msgstr ""
+"Ilekroć inny Niedźwiedź wejdzie na pole walki pod twoim władaniem, wybierz "
+"jedno —"
 
 #: ../../MH1.rst:913
 msgid "Put two +1/+1 counters on target Bear."
-msgstr ""
+msgstr "Umieść dwa znaczniki +1/+1 na wskazanym Niedźwiedziu."
 
 #: ../../MH1.rst:915
 msgid "Target Bear you control fights target creature you don't control."
 msgstr ""
+"Wskazany Niedźwiedź pod twoim władaniem walczy ze wskazanym stworem poza "
+"twoim władaniem."
 
 #: ../../MH1.rst:920
 msgid ":mtgtip:`Ayula's Influence<https://img.scryfall.com/cards/border_crop/front/1/b/1b9296ca-39a8-4aad-be92-0a56c704e950.jpg?1558728656|https://scryfall.com/card/mh1/156/ayulas-influence?utm_source=api>`"
@@ -2089,7 +2140,7 @@ msgstr ""
 
 #: ../../MH1.rst:919
 msgid "Discard a land card: Create a 2/2 green Bear creature token."
-msgstr ""
+msgstr "Odrzuć kartę lądu: Stwórz żeton zielonego stwora Niedźwiedź 2/2."
 
 #: ../../MH1.rst:924
 msgid ":mtgtip:`Bellowing Elk<https://img.scryfall.com/cards/border_crop/front/c/e/cec6cf54-79ff-44e8-af83-786fd72867dd.jpg?1559302563|https://scryfall.com/card/mh1/157/bellowing-elk?utm_source=api>`"
@@ -2098,6 +2149,8 @@ msgstr ""
 #: ../../MH1.rst:923
 msgid "As long as you had another creature enter the battlefield under your control this turn, Bellowing Elk has trample and indestructible."
 msgstr ""
+"O ile inny stwór wszedł w tej turze na pole walki pod twoim władaniem, "
+"niniejszy stwór ma tratowanie i niezniszczalność."
 
 #: ../../MH1.rst:928
 msgid ":mtgtip:`Collector Ouphe<https://img.scryfall.com/cards/border_crop/front/0/8/085107a2-c1ec-473c-81d8-23e5a7197776.jpg?1558965298|https://scryfall.com/card/mh1/158/collector-ouphe?utm_source=api>`"
@@ -2105,7 +2158,7 @@ msgstr ""
 
 #: ../../MH1.rst:927
 msgid "Activated abilities of artifacts can't be activated."
-msgstr ""
+msgstr "Aktywowane zdolności artefaktów nie mogą być aktywowane."
 
 #: ../../MH1.rst:934
 msgid ":mtgtip:`Conifer Wurm<https://img.scryfall.com/cards/border_crop/front/8/4/84f99d23-5d3e-4f36-b1c7-3a893e4b4c32.jpg?1559304158|https://scryfall.com/card/mh1/159/conifer-wurm?utm_source=api>`"
@@ -2121,6 +2174,8 @@ msgstr "Tratowanie"
 #: ../../MH1.rst:933
 msgid "|mana_3|\\ |mana_g|: Conifer Wurm gets +X/+X until end of turn, where X is the number of snow permanents you control."
 msgstr ""
+"|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +X/+X, gdzie X jest "
+"liczbą śnieżnych permanentów pod twoim władaniem."
 
 #: ../../MH1.rst:940
 msgid ":mtgtip:`Crashing Footfalls<https://img.scryfall.com/cards/border_crop/front/a/8/a8cca2a2-69e3-4136-936c-7a2774c19351.jpg?1559004835|https://scryfall.com/card/mh1/160/crashing-footfalls?utm_source=api>`"
