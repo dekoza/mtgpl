@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-08 21:47+0000\n"
+"PO-Revision-Date: 2019-06-22 22:05+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -3881,8 +3881,8 @@ msgid ""
 "Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to "
 "target creature defending player controls."
 msgstr ""
-"Ilekroć wyposażony stwór atakuje, Heart-Piercer Bow zadaje 1 obrażenie "
-"wskazanemu stworowi władanemu przez broniącego się gracza."
+"Ilekroć wyposażony stwór atakuje, ten artefakt zadaje 1 obrażenie wskazanemu "
+"stworowi władanemu przez broniącego się gracza."
 
 # f8cd249d2b194c41b05a4c4032144e43
 #: ../../KTK.rst:1213
@@ -4040,7 +4040,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1259
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../KTK.rst:1264
 msgid ""
@@ -4081,7 +4081,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1271
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../KTK.rst:1280
 msgid ""
@@ -4103,7 +4103,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1279
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../KTK.rst:1284
 msgid ""
@@ -4156,7 +4156,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1297
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../KTK.rst:1304
 msgid ""
@@ -4232,7 +4232,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1327
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../KTK.rst:1334
 msgid ""
@@ -4266,7 +4266,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1341
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../KTK.rst:1350
 msgid ""
@@ -4288,7 +4288,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1349
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../KTK.rst:1358
 msgid ""
@@ -4310,7 +4310,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1357
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../KTK.rst:1364
 msgid ""
@@ -4321,7 +4321,7 @@ msgstr ""
 
 #: ../../KTK.rst:1361
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 # 82ab8b27f3ad45d2a6f956c95eca3391
 #: ../../KTK.rst:1363
@@ -4349,7 +4349,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1371
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../KTK.rst:1380
 msgid ""
@@ -4371,7 +4371,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1379
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../KTK.rst:1384
 msgid ""
@@ -4420,7 +4420,7 @@ msgstr ""
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1391
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../KTK.rst:1396
 msgid ""
@@ -4431,7 +4431,7 @@ msgstr ""
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1395
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../KTK.rst:1400
 msgid ""
@@ -4442,7 +4442,7 @@ msgstr ""
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1399
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../KTK.rst:1404
 msgid ""
@@ -4453,7 +4453,7 @@ msgstr ""
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1403
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../KTK.rst:1407
 msgid ""
@@ -4464,7 +4464,7 @@ msgstr ""
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1407
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 # a783357f428346299488d25519cea19e
 #, fuzzy

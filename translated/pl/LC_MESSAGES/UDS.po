@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-08 16:59+0000\n"
+"PO-Revision-Date: 2019-06-22 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/uds/pl/>\n"
 "Language: pl\n"
@@ -1002,7 +1002,7 @@ msgstr ""
 
 #: ../../UDS.rst:529
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../UDS.rst:531
 msgid "|mana_2|, Sacrifice Heart Warden: Draw a card."
@@ -1289,8 +1289,9 @@ msgid ":mtgtip:`Thran Dynamo<https://img.scryfall.com/cards/border_crop/en/uds/1
 msgstr ""
 
 #: ../../UDS.rst:679
+#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../UDS.rst:684
 msgid ":mtgtip:`Thran Foundry<https://img.scryfall.com/cards/border_crop/en/uds/140.jpg?1517813031|https://scryfall.com/card/uds/140/thran-foundry?utm_source=api>`"
@@ -1326,7 +1327,7 @@ msgstr ""
 
 #: ../../UDS.rst:697
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../UDS.rst:699
 msgid "|mana_g|, |tap|: Regenerate target creature."

@@ -1,10 +1,11 @@
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-30 12:39+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-06-22 22:06+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/war/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2759,7 +2760,7 @@ msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 3 życia."
 #: ../../WAR.rst:1323,
 #: ../../WAR.rst:1357
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../WAR.rst:818
 msgid ""
@@ -2895,8 +2896,8 @@ msgid ""
 "Each creature you control with a +1/+1 counter on it has \"|tap|: Add one "
 "mana of any color.\""
 msgstr ""
-"Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma \"|tap|: Dostajesz "
-"jedną manę dowolnego koloru.\""
+"Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma \"|tap|: Weź jedną "
+"manę dowolnego koloru.\""
 
 #: ../../WAR.rst:851
 msgid "−1: Put a +1/+1 counter on target creature."
@@ -2966,8 +2967,8 @@ msgstr ""
 #: ../../WAR.rst:875
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
 msgstr ""
-"Zauroczony ląd ma zdolność \"|tap|: Dostajesz dwie many w dowolnym jednym "
-"kolorze.\""
+"Zauroczony ląd ma zdolność \"|tap|: Weź dwie many w dowolnym jednym kolorze."
+"\""
 
 #: ../../WAR.rst:884
 msgid ""
@@ -3402,7 +3403,7 @@ msgid ""
 "+1: Add |mana_r| or |mana_g|. Creature spells you cast this turn can't be "
 "countered."
 msgstr ""
-"+1: Dostajesz |mana_r| lub |mana_g|. Rzucane przez ciebie w tej turze czary "
+"+1: Weź |mana_r| lub |mana_g|. Rzucane przez ciebie w tej turze czary "
 "stworów nie mogą zostać skontrowane."
 
 #: ../../WAR.rst:1027
@@ -4340,7 +4341,7 @@ msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../WAR.rst:1299
 msgid "|tap|: Add two mana of different colors."
-msgstr "|tap|: Dostajesz dwie many o różnych kolorach."
+msgstr "|tap|: Weź dwie many o różnych kolorach."
 
 #: ../../WAR.rst:1306
 msgid ""
@@ -4373,8 +4374,7 @@ msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Guild Globe: Add two mana of different colors."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten artefakt: Dostajesz dwie many w różnych "
-"kolorach."
+"|mana_2|, |tap|, poświęć ten artefakt: Weź dwie many w różnych kolorach."
 
 #: ../../WAR.rst:1318
 msgid ""
@@ -4411,7 +4411,7 @@ msgstr ""
 
 #: ../../WAR.rst:1327
 msgid "|mana_2|: Add one mana of any color."
-msgstr "|mana_2|: Dostajesz jedną manę w dowolnym kolorze."
+msgstr "|mana_2|: Weź jedną manę w dowolnym kolorze."
 
 #: ../../WAR.rst:1334
 msgid ""
@@ -4446,7 +4446,7 @@ msgstr "Ten ląd wchodzi na pole walki ze znacznikiem ładunku."
 #: ../../WAR.rst:1369,
 #: ../../WAR.rst:1375
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../WAR.rst:1341
 msgid "|mana_x|\\ |mana_x|, |tap|: Put X charge counters on Blast Zone."
@@ -4510,8 +4510,8 @@ msgid ""
 "|mana_1|, |tap|: Add two mana of different colors. Spend this mana only to "
 "cast planeswalker spells."
 msgstr ""
-"|mana_1|, |tap|: Dostajesz dwie many o różnych kolorach. Wydaj ową manę "
-"tylko na rzucanie czarów wędrowców."
+"|mana_1|, |tap|: Weź dwie many o różnych kolorach. Wydaj ową manę tylko na "
+"rzucanie czarów wędrowców."
 
 #: ../../WAR.rst:1372
 msgid ""
@@ -4555,7 +4555,7 @@ msgstr ""
 
 #: ../../WAR.rst:1381
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../WAR.rst:1386
 msgid ""
@@ -4566,7 +4566,7 @@ msgstr ""
 
 #: ../../WAR.rst:1385
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../WAR.rst:1390
 msgid ""
@@ -4577,7 +4577,7 @@ msgstr ""
 
 #: ../../WAR.rst:1389
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../WAR.rst:1394
 msgid ""
@@ -4588,7 +4588,7 @@ msgstr ""
 
 #: ../../WAR.rst:1393
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../WAR.rst:1398
 msgid ""
@@ -4599,7 +4599,7 @@ msgstr ""
 
 #: ../../WAR.rst:1397
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../WAR.rst:1406
 msgid ""
@@ -4698,7 +4698,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../WAR.rst:1425
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../WAR.rst:1434
 msgid ""
@@ -4791,7 +4791,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../WAR.rst:1455
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../WAR.rst:1465
 msgid ""

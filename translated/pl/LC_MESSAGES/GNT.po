@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gnt/pl/>\n"
 "Language: pl\n"
@@ -515,7 +515,7 @@ msgstr ""
 
 #: ../../GNT.rst:233
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../GNT.rst:238
 msgid ":mtgtip:`Nissa's Revelation<https://img.scryfall.com/cards/border_crop/front/a/2/a229b53f-f34b-44f5-b0b4-94239b85a15b.jpg?1543674895|https://scryfall.com/card/gnt/47/nissas-revelation?utm_source=api>`"
@@ -592,7 +592,7 @@ msgstr ""
 
 #: ../../GNT.rst:267
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../GNT.rst:274
 msgid ":mtgtip:`Pilgrim's Eye<https://img.scryfall.com/cards/border_crop/front/3/b/3bef04f5-4498-40c7-bfc2-0e2e619fcca1.jpg?1543674969|https://scryfall.com/card/gnt/55/pilgrims-eye?utm_source=api>`"
@@ -642,7 +642,7 @@ msgstr ""
 
 #: ../../GNT.rst:291
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../GNT.rst:296
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/0/b/0ba8851d-0b25-4232-acd3-594b5b25f16e.jpg?1543675020|https://scryfall.com/card/gnt/61/island?utm_source=api>`"
@@ -650,7 +650,7 @@ msgstr ""
 
 #: ../../GNT.rst:295
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../GNT.rst:300
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/8/b/8bc682cd-b13b-4670-913c-70542f161316.jpg?1543675036|https://scryfall.com/card/gnt/63/swamp?utm_source=api>`"
@@ -658,7 +658,7 @@ msgstr ""
 
 #: ../../GNT.rst:299
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../GNT.rst:304
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/4/9/49ac3fd1-f732-4d96-ac93-560e4e86051e.jpg?1543675054|https://scryfall.com/card/gnt/65/mountain?utm_source=api>`"
@@ -666,7 +666,7 @@ msgstr ""
 
 #: ../../GNT.rst:303
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../GNT.rst:307
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/5/8/58fe058d-7796-4233-8d74-2a12f9bd0023.jpg?1543675077|https://scryfall.com/card/gnt/67/forest?utm_source=api>`"
@@ -674,4 +674,4 @@ msgstr ""
 
 #: ../../GNT.rst:307
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"

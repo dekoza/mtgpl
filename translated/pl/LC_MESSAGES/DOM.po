@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -1223,8 +1223,7 @@ msgid ""
 "|tap|: Add |colorless|. Spend this mana only to cast an instant or sorcery "
 "spell."
 msgstr ""
-"|tap|: Dostajesz |colorless|. Wydaj tę manę tylko na rzucenie sztuczki lub "
-"obrzędu."
+"|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucenie sztuczki lub obrzędu."
 
 #: ../../DOM.rst:420
 msgid ""
@@ -2044,7 +2043,7 @@ msgstr "I — Ten permanent zadaje po 1 obrażeniu każdemu stworowi bez latania
 
 #: ../../DOM.rst:691
 msgid "II — Add |mana_r|\\ |mana_r|."
-msgstr "II — Dostajesz |mana_r|\\ |mana_r|."
+msgstr "II — Weź |mana_r|\\ |mana_r|."
 
 #: ../../DOM.rst:693
 msgid ""
@@ -2238,8 +2237,8 @@ msgid ""
 "+1: Add |mana_r|\\ |mana_r|\\ |mana_r|. Spend this mana only to cast instant "
 "or sorcery spells."
 msgstr ""
-"+1: Dostajesz |mana_r|\\ |mana_r|\\ |mana_r|. Wydaj tę mana tylko na "
-"rzucanie sztuczek lub obrzędów."
+"+1: Weź |mana_r|\\ |mana_r|\\ |mana_r|. Wydaj tę mana tylko na rzucanie "
+"sztuczek lub obrzędów."
 
 #: ../../DOM.rst:753
 msgid "+1: Discard up to three cards, then draw that many cards."
@@ -2428,7 +2427,7 @@ msgstr ""
 
 #: ../../DOM.rst:813
 msgid "Sacrifice a Goblin: Add |mana_r|."
-msgstr "Poświęć Goblina: Dostajesz |mana_r|."
+msgstr "Poświęć Goblina: Weź |mana_r|."
 
 #: ../../DOM.rst:822
 msgid ""
@@ -2664,14 +2663,14 @@ msgstr ""
 
 #: ../../DOM.rst:889 ../../DOM.rst:945 ../../DOM.rst:1383
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../DOM.rst:891
 msgid ""
 "|tap|: Add |mana_g|\\ |mana_g|. Spend this mana only to cast kicked spells."
 msgstr ""
-"|tap|: Dostajesz |mana_g|\\ |mana_g|. Wydaj tę manę tylko do rzucania "
-"podbitych czarów."
+"|tap|: Weź |mana_g|\\ |mana_g|. Wydaj tę manę tylko do rzucania podbitych "
+"czarów."
 
 #: ../../DOM.rst:898
 msgid ""
@@ -2845,7 +2844,7 @@ msgstr ""
 
 #: ../../DOM.rst:949
 msgid "|mana_1|\\ |mana_g|: Add one mana of any color."
-msgstr "|mana_1|\\ |mana_g|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|\\ |mana_g|: Weź jedną manę dowolnego koloru."
 
 #: ../../DOM.rst:954
 msgid ""
@@ -2886,7 +2885,7 @@ msgstr ""
 
 #: ../../DOM.rst:963
 msgid "|tap|: Add an amount of |mana_g| equal to Marwyn's power."
-msgstr "|tap|: Dostajesz tyle |mana_g|, ile wynosi siła tego stwora."
+msgstr "|tap|: Weź tyle |mana_g|, ile wynosi siła tego stwora."
 
 #: ../../DOM.rst:972
 msgid ""
@@ -2995,7 +2994,7 @@ msgid ""
 "mana of any color.\""
 msgstr ""
 "I, II — Do twojej następnej tury stwory pod twoim władaniem zyskują \"|tap|: "
-"Dostajesz jedną manę dowolnego koloru.\""
+"Weź jedną manę dowolnego koloru.\""
 
 #: ../../DOM.rst:1005
 msgid ""
@@ -3637,7 +3636,7 @@ msgstr ""
 
 #: ../../DOM.rst:1215
 msgid "|tap|: Add three mana of any one color."
-msgstr "|tap|: Dostajesz trzy many w dowolnym jednym kolorze."
+msgstr "|tap|: Weź trzy many w dowolnym jednym kolorze."
 
 #: ../../DOM.rst:1220
 msgid ""
@@ -3779,7 +3778,7 @@ msgid ""
 "|tap|: Add one mana of any color among legendary creatures and planeswalkers "
 "you control."
 msgstr ""
-"|tap|: Dostajesz jedną manę w kolorze występującym pośród będących pod twoim "
+"|tap|: Weź jedną manę w kolorze występującym pośród będących pod twoim "
 "władaniem legendarnych stworów i wędrowców."
 
 #: ../../DOM.rst:1268
@@ -3819,7 +3818,7 @@ msgstr ""
 msgid ""
 "|tap|: Add |colorless| for each artifact you control named Powerstone Shard."
 msgstr ""
-"|tap|: Dostajesz |colorless| za każdy artefakt pod twoim władaniem o nazwie "
+"|tap|: Weź |colorless| za każdy artefakt pod twoim władaniem o nazwie "
 "Powerstone Shard."
 
 #: ../../DOM.rst:1282
@@ -4004,13 +4003,12 @@ msgstr ""
 
 #: ../../DOM.rst:1333 ../../DOM.rst:1411
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../DOM.rst:1335
 msgid "|mana_3|, |tap|: Add |mana_b| for each basic Swamp you control."
 msgstr ""
-"|mana_3|, |tap|: Dostajesz |mana_b| za każde bazowe Bagno pod twoim "
-"władaniem."
+"|mana_3|, |tap|: Weź |mana_b| za każde bazowe Bagno pod twoim władaniem."
 
 #: ../../DOM.rst:1342
 msgid ""
@@ -4029,7 +4027,7 @@ msgstr ""
 
 #: ../../DOM.rst:1341
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../DOM.rst:1348
 msgid ""
@@ -4047,7 +4045,7 @@ msgstr ""
 
 #: ../../DOM.rst:1347
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../DOM.rst:1354
 msgid ""
@@ -4066,7 +4064,7 @@ msgstr ""
 
 #: ../../DOM.rst:1353
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../DOM.rst:1362
 msgid ""
@@ -4081,7 +4079,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1359
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../DOM.rst:1361
 msgid ""
@@ -4104,7 +4102,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1367
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../DOM.rst:1369
 msgid ""
@@ -4124,7 +4122,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1375
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../DOM.rst:1377
 msgid ""
@@ -4170,7 +4168,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1391
 msgid "|tap|: Add |mana_r|."
-msgstr "|tap|: Dostajesz |mana_r|."
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../DOM.rst:1393
 msgid ""
@@ -4194,7 +4192,7 @@ msgstr ""
 
 #: ../../DOM.rst:1399
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../DOM.rst:1406
 msgid ""
@@ -4213,7 +4211,7 @@ msgstr ""
 
 #: ../../DOM.rst:1405
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../DOM.rst:1412
 msgid ""
@@ -4238,7 +4236,7 @@ msgstr ""
 
 #: ../../DOM.rst:1415
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../DOM.rst:1420
 msgid ""
@@ -4248,7 +4246,7 @@ msgstr ""
 
 #: ../../DOM.rst:1419
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../DOM.rst:1424
 msgid ""
@@ -4258,7 +4256,7 @@ msgstr ""
 
 #: ../../DOM.rst:1423
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../DOM.rst:1428
 msgid ""
@@ -4268,7 +4266,7 @@ msgstr ""
 
 #: ../../DOM.rst:1427
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../DOM.rst:1432
 msgid ""
@@ -4278,7 +4276,7 @@ msgstr ""
 
 #: ../../DOM.rst:1431
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../DOM.rst:1440
 msgid ""
@@ -4357,7 +4355,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1457
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../DOM.rst:1466
 msgid ""
@@ -4371,8 +4369,8 @@ msgid ""
 "+1: Add |mana_r|\\ |mana_r|. Chandra, Bold Pyromancer deals 2 damage to "
 "target player."
 msgstr ""
-"+1: Dostajesz |mana_r|\\ |mana_r|. Ten permanent zadaje wskazanemu graczowi "
-"2 obrażenia."
+"+1: Weź |mana_r|\\ |mana_r|. Ten permanent zadaje wskazanemu graczowi 2 "
+"obrażenia."
 
 #: ../../DOM.rst:1463
 msgid ""
@@ -4453,7 +4451,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1485
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../DOM.rst:1491
 msgid ""

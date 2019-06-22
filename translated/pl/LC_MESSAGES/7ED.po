@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-22 16:45+0000\n"
+"PO-Revision-Date: 2019-06-22 22:05+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/7ed/pl/>\n"
 "Language: pl\n"
@@ -2525,7 +2525,7 @@ msgstr ""
 
 #: ../../7ED.rst:1027 ../../7ED.rst:1447
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../7ED.rst:1034
 msgid ""
@@ -2686,8 +2686,9 @@ msgid ""
 msgstr ""
 
 #: ../../7ED.rst:1089
+#, fuzzy
 msgid "|tap|: Add |mana_g|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../7ED.rst:1094
 msgid ""
@@ -2755,7 +2756,7 @@ msgstr ""
 
 #: ../../7ED.rst:1117 ../../7ED.rst:1359
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../7ED.rst:1122
 msgid ""
@@ -3159,7 +3160,7 @@ msgstr ""
 
 #: ../../7ED.rst:1271
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../7ED.rst:1276
 msgid ""
@@ -3251,7 +3252,7 @@ msgstr ""
 
 #: ../../7ED.rst:1301
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../7ED.rst:1306
 msgid ""
@@ -3377,7 +3378,7 @@ msgstr ""
 
 #: ../../7ED.rst:1345
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../7ED.rst:1350
 msgid ":mtgtip:`Meekstone<https://img.scryfall.com/cards/border_crop/en/7ed/307.jpg?1517813031|https://scryfall.com/card/7ed/307/meekstone?utm_source=api>`"
@@ -3479,8 +3480,9 @@ msgid ""
 msgstr ""
 
 #: ../../7ED.rst:1387
+#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../7ED.rst:1394
 msgid ""
@@ -3495,7 +3497,7 @@ msgstr ""
 
 #: ../../7ED.rst:1393
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../7ED.rst:1398
 msgid ""
@@ -3603,7 +3605,7 @@ msgstr ""
 #: ../../7ED.rst:1433 ../../7ED.rst:1439 ../../7ED.rst:1459 ../../7ED.rst:1473
 #: ../../7ED.rst:1483
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../7ED.rst:1435
 msgid "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
@@ -3634,7 +3636,7 @@ msgstr ""
 
 #: ../../7ED.rst:1451
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../7ED.rst:1456
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/7ed/332.jpg?1517813031|https://scryfall.com/card/7ed/332/island?utm_source=api>`"
@@ -3642,7 +3644,7 @@ msgstr ""
 
 #: ../../7ED.rst:1455
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../7ED.rst:1462
 msgid ""
@@ -3661,7 +3663,7 @@ msgstr ""
 
 #: ../../7ED.rst:1465
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../7ED.rst:1470
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/7ed/341.jpg?1517813031|https://scryfall.com/card/7ed/341/plains?utm_source=api>`"
@@ -3669,7 +3671,7 @@ msgstr ""
 
 #: ../../7ED.rst:1469
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../7ED.rst:1476
 msgid ""
@@ -3688,7 +3690,7 @@ msgstr ""
 
 #: ../../7ED.rst:1479
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../7ED.rst:1485
 msgid ""

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 16:45+0000\n"
+"PO-Revision-Date: 2019-06-22 22:06+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -3752,7 +3752,7 @@ msgstr "Obronność, antyklątwa"
 # f2eef534d824492cb514ecf7193a9277
 #: ../../THS.rst:991 ../../THS.rst:1207
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../THS.rst:996
 msgid ""
@@ -4662,7 +4662,7 @@ msgstr ""
 
 #: ../../THS.rst:1233 ../../THS.rst:1279
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 # a4ee14bf84a448e6a34f47d2ac051651
 # a280260d78a44baaa2bfdddeb763857c
@@ -4706,7 +4706,7 @@ msgstr ""
 # 74f28075af4642879170deb2ad5a7839
 #: ../../THS.rst:1243
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../THS.rst:1252
 msgid ""
@@ -4736,7 +4736,7 @@ msgstr ""
 # fb834ee568ba41d396836e0f88e4edda
 #: ../../THS.rst:1251
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../THS.rst:1260
 msgid ""
@@ -4765,7 +4765,7 @@ msgstr ""
 # bae965a474ec41f4bc9cda0bfd41180a
 #: ../../THS.rst:1259
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../THS.rst:1268
 msgid ""
@@ -4794,7 +4794,7 @@ msgstr ""
 # 0c1a722b59284718ba41fdae8f3276a6
 #: ../../THS.rst:1267
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../THS.rst:1276
 msgid ""
@@ -4823,7 +4823,7 @@ msgstr ""
 # d63db26bd91346d5babc001fbe168910
 #: ../../THS.rst:1275
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../THS.rst:1282
 msgid ""
@@ -4836,7 +4836,7 @@ msgstr ""
 # 76148186d52a42f9bbcb7a6ca97d3253
 #: ../../THS.rst:1281
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../THS.rst:1286
 msgid ""
@@ -4848,7 +4848,7 @@ msgstr ""
 # d63db26bd91346d5babc001fbe168910
 #: ../../THS.rst:1285
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../THS.rst:1290
 msgid ""
@@ -4860,7 +4860,7 @@ msgstr ""
 # bae965a474ec41f4bc9cda0bfd41180a
 #: ../../THS.rst:1289
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../THS.rst:1294
 msgid ""
@@ -4872,7 +4872,7 @@ msgstr ""
 # fb834ee568ba41d396836e0f88e4edda
 #: ../../THS.rst:1293
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../THS.rst:1298
 msgid ""
@@ -4884,7 +4884,7 @@ msgstr ""
 # 74f28075af4642879170deb2ad5a7839
 #: ../../THS.rst:1297
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../THS.rst:1301
 msgid ""
@@ -4896,7 +4896,7 @@ msgstr ""
 # 74f28075af4642879170deb2ad5a7839
 #: ../../THS.rst:1301
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 # cf7ee521875a459c9352819ad80d2edc
 # 887ff143b14348b2b7b52aec3a556c81

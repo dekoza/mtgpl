@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 04:28+0000\n"
+"PO-Revision-Date: 2019-06-22 22:05+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ogw/pl/>\n"
 "Language: pl\n"
@@ -221,7 +221,7 @@ msgstr "Czujność"
 #: ../../OGW.rst:79 ../../OGW.rst:971 ../../OGW.rst:975 ../../OGW.rst:999
 #: ../../OGW.rst:1009 ../../OGW.rst:1021 ../../OGW.rst:1053 ../../OGW.rst:1059
 msgid "|tap|: Add |colorless|. (|colorless| represents colorless mana.)"
-msgstr "|tap|: Dostajesz |colorless|. (|colorless| oznacza bezkolorową manę.)"
+msgstr "|tap|: Weź |colorless|. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:92
 msgid ""
@@ -247,7 +247,7 @@ msgid ""
 "creature: Add |colorless|.\""
 msgstr ""
 "Stwórz żeton bezkolorowego stwora Potomek Eldrazi 1/1 ze zdolnością \""
-"Poświęć tego stwora: Dostajesz |colorless|.\""
+"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../OGW.rst:98
 msgid ""
@@ -2090,6 +2090,8 @@ msgid ""
 "Return target creature or land card from a graveyard to its owner's hand. "
 "You gain 6 life."
 msgstr ""
+"Przywróć wskazaną kartę stwora lub lądu z cmentarza do ręki jego "
+"właściciela. Zyskaj 6 żyć."
 
 #: ../../OGW.rst:848
 msgid ""
@@ -2471,7 +2473,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../OGW.rst:995
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../OGW.rst:1002
 msgid ""
@@ -2485,7 +2487,7 @@ msgid ""
 "|tap|, Pay 1 life: Add one mana of any color. Spend this mana only to cast a "
 "spell with devoid."
 msgstr ""
-"|tap|, zapłać 1 życie: Dostajesz jedną manę dowolnego koloru. Wydaj tę manę "
+"|tap|, zapłać 1 życie: Weź jedną manę dowolnego koloru. Wydaj tę manę "
 "wyłącznie na rzucenie czaru z pustością."
 
 #: ../../OGW.rst:1010
@@ -2517,7 +2519,7 @@ msgstr ""
 
 #: ../../OGW.rst:1015
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../OGW.rst:1017
 msgid ""
@@ -2536,7 +2538,7 @@ msgstr ""
 #: ../../OGW.rst:1023
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
-"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dostajesz jedną manę "
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Weź jedną manę "
 "dowolnego koloru."
 
 #: ../../OGW.rst:1030
@@ -2552,7 +2554,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../OGW.rst:1029
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../OGW.rst:1040
 msgid ""
@@ -2566,7 +2568,7 @@ msgstr ""
 
 #: ../../OGW.rst:1035 ../../OGW.rst:1083 ../../OGW.rst:1097
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../OGW.rst:1037
 msgid ""
@@ -2593,7 +2595,7 @@ msgstr ""
 
 #: ../../OGW.rst:1045
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../OGW.rst:1047
 msgid ""
@@ -2644,7 +2646,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../OGW.rst:1067
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../OGW.rst:1074
 msgid ""
@@ -2659,7 +2661,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../OGW.rst:1073
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../OGW.rst:1080
 msgid ""
@@ -2674,7 +2676,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../OGW.rst:1079
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../OGW.rst:1086
 msgid ""
@@ -2685,7 +2687,7 @@ msgstr ""
 
 #: ../../OGW.rst:1085
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../OGW.rst:1094
 msgid ""
@@ -2700,7 +2702,7 @@ msgstr ""
 
 #: ../../OGW.rst:1091
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../OGW.rst:1093
 msgid ""

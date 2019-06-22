@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-04-30 00:28+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -1750,8 +1750,7 @@ msgid ""
 "Remove three +1/+1 counters from Runaway Steam-Kin: Add |mana_r|\\ |mana_r|"
 "\\ |mana_r|."
 msgstr ""
-"Usuń trzy znaczniki +1/+1 z tego stwora: Dostajesz |mana_r|\\ |mana_r|\\ |"
-"mana_r|."
+"Usuń trzy znaczniki +1/+1 z tego stwora: Weź |mana_r|\\ |mana_r|\\ |mana_r|."
 
 #: ../../GRN.rst:614
 msgid ""
@@ -2226,7 +2225,7 @@ msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
 
 #: ../../GRN.rst:781
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
-msgstr "Zauroczony ląd ma \"|tap|: Dostajesz jedną manę dowolnego koloru.\""
+msgstr "Zauroczony ląd ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../GRN.rst:788
 msgid ""
@@ -3751,7 +3750,7 @@ msgstr ""
 
 #: ../../GRN.rst:1279 ../../GRN.rst:1355
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../GRN.rst:1281
 msgid ""
@@ -3802,12 +3801,11 @@ msgstr ""
 #: ../../GRN.rst:1293
 msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
-"Lądy pod twoim władaniem mają \"|tap|: Dostajesz jedną manę dowolnego koloru."
-"\""
+"Lądy pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../GRN.rst:1295 ../../GRN.rst:1369
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../GRN.rst:1302
 msgid ""
@@ -3818,7 +3816,7 @@ msgstr ""
 
 #: ../../GRN.rst:1299 ../../GRN.rst:1361
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../GRN.rst:1301
 msgid ""
@@ -3877,7 +3875,7 @@ msgstr ""
 
 #: ../../GRN.rst:1317 ../../GRN.rst:1375
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../GRN.rst:1319
 msgid ""
@@ -3896,7 +3894,7 @@ msgstr ""
 
 #: ../../GRN.rst:1323 ../../GRN.rst:1387
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../GRN.rst:1325
 msgid ""
@@ -3934,7 +3932,7 @@ msgstr ""
 
 #: ../../GRN.rst:1337 ../../GRN.rst:1405
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../GRN.rst:1339
 msgid ""
@@ -4038,7 +4036,7 @@ msgstr ""
 
 #: ../../GRN.rst:1379
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../GRN.rst:1381
 msgid ""
@@ -4046,9 +4044,9 @@ msgid ""
 "multicolored creature spell, that creature enters the battlefield with an "
 "additional +1/+1 counter on it."
 msgstr ""
-"|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru. Jeśli ta mana "
-"zostanie zużyta na rzucenie czaru wielokolorowego stwora, ów stwór wchodzi "
-"na pole walki z dodatkowym znacznikiem +1/+1."
+"|mana_1|, |tap|: Weź jedną manę dowolnego koloru. Jeśli ta mana zostanie "
+"zużyta na rzucenie czaru wielokolorowego stwora, ów stwór wchodzi na pole "
+"walki z dodatkowym znacznikiem +1/+1."
 
 #: ../../GRN.rst:1388
 msgid ""
@@ -4070,7 +4068,7 @@ msgstr ""
 
 #: ../../GRN.rst:1391
 msgid "(|tap|: Add |mana_b| or |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_b| lub |mana_g|.)"
+msgstr "(|tap|: Weź |mana_b| lub |mana_g|.)"
 
 #: ../../GRN.rst:1393
 msgid ""
@@ -4089,7 +4087,7 @@ msgstr ""
 
 #: ../../GRN.rst:1397
 msgid "(|tap|: Add |mana_r| or |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_r| lub |mana_w|.)"
+msgstr "(|tap|: Weź |mana_r| lub |mana_w|.)"
 
 #: ../../GRN.rst:1399
 msgid ""
@@ -4119,7 +4117,7 @@ msgstr ""
 
 #: ../../GRN.rst:1409
 msgid "(|tap|: Add |mana_u| or |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_r|.)"
+msgstr "(|tap|: Weź |mana_u| lub |mana_r|.)"
 
 #: ../../GRN.rst:1411
 msgid ""
@@ -4138,7 +4136,7 @@ msgstr ""
 
 #: ../../GRN.rst:1415
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
+msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../GRN.rst:1417
 msgid ""
@@ -4157,7 +4155,7 @@ msgstr ""
 
 #: ../../GRN.rst:1421
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
+msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../GRN.rst:1423
 msgid ""
@@ -4176,7 +4174,7 @@ msgstr ""
 
 #: ../../GRN.rst:1427
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../GRN.rst:1432
 msgid ""
@@ -4187,7 +4185,7 @@ msgstr ""
 
 #: ../../GRN.rst:1431
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../GRN.rst:1436
 msgid ""
@@ -4198,7 +4196,7 @@ msgstr ""
 
 #: ../../GRN.rst:1435
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../GRN.rst:1440
 msgid ""
@@ -4209,7 +4207,7 @@ msgstr ""
 
 #: ../../GRN.rst:1439
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../GRN.rst:1444
 msgid ""
@@ -4220,7 +4218,7 @@ msgstr ""
 
 #: ../../GRN.rst:1443
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../GRN.rst:1452
 msgid ""

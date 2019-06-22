@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 11:55+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -2399,7 +2399,7 @@ msgstr ""
 
 #: ../../AVR.rst:859
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
-msgstr "Zauroczony ląd ma \"|tap|: Dostajesz jedną manę dowolnego koloru.\""
+msgstr "Zauroczony ląd ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../AVR.rst:866
 msgid ""
@@ -3218,7 +3218,7 @@ msgstr ""
 
 #: ../../AVR.rst:1153
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../AVR.rst:1160
 msgid ""
@@ -3230,7 +3230,7 @@ msgstr ""
 #: ../../AVR.rst:1157 ../../AVR.rst:1165 ../../AVR.rst:1171 ../../AVR.rst:1181
 #: ../../AVR.rst:1185
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../AVR.rst:1159
 #, fuzzy
@@ -3316,7 +3316,7 @@ msgstr ""
 # 88605acf55224fb8bf1fa0b4c0a5a210
 #: ../../AVR.rst:1191
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../AVR.rst:1196
 msgid ""
@@ -3331,7 +3331,7 @@ msgstr ""
 # 88605acf55224fb8bf1fa0b4c0a5a210
 #: ../../AVR.rst:1195
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../AVR.rst:1200
 msgid ""
@@ -3346,7 +3346,7 @@ msgstr ""
 # 88605acf55224fb8bf1fa0b4c0a5a210
 #: ../../AVR.rst:1199
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../AVR.rst:1204
 msgid ""
@@ -3356,7 +3356,7 @@ msgstr ""
 
 #: ../../AVR.rst:1203
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../AVR.rst:1207
 msgid ""
@@ -3371,7 +3371,7 @@ msgstr ""
 # 88605acf55224fb8bf1fa0b4c0a5a210
 #: ../../AVR.rst:1207
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #~ msgid "Plains"
 #~ msgstr "Plains (Równina)"

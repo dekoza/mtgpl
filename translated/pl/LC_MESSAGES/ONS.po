@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-22 11:56+0000\n"
+"PO-Revision-Date: 2019-06-22 22:05+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ons/pl/>\n"
 "Language: pl\n"
@@ -3274,7 +3274,7 @@ msgstr ""
 
 #: ../../ONS.rst:1231
 msgid "Sacrifice a Goblin: Add |mana_r|."
-msgstr ""
+msgstr "Poświęć Goblina: Weź |mana_r|."
 
 #: ../../ONS.rst:1238
 msgid ""
@@ -4239,7 +4239,7 @@ msgstr ""
 
 #: ../../ONS.rst:1587 ../../ONS.rst:1729
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../ONS.rst:1592
 msgid ""
@@ -4397,7 +4397,7 @@ msgstr ""
 
 #: ../../ONS.rst:1639
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../ONS.rst:1646
 msgid ""
@@ -4424,7 +4424,7 @@ msgstr ""
 #: ../../ONS.rst:1699 ../../ONS.rst:1705 ../../ONS.rst:1719 ../../ONS.rst:1735
 #: ../../ONS.rst:1745
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../ONS.rst:1651
 msgid ""
@@ -4471,7 +4471,7 @@ msgstr ""
 
 #: ../../ONS.rst:1667
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../ONS.rst:1669
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
@@ -4518,7 +4518,7 @@ msgstr ""
 
 #: ../../ONS.rst:1689
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../ONS.rst:1696
 msgid ""
@@ -4571,7 +4571,7 @@ msgstr ""
 
 #: ../../ONS.rst:1713
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../ONS.rst:1724
 msgid ""
@@ -4665,7 +4665,7 @@ msgstr ""
 
 #: ../../ONS.rst:1755
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../ONS.rst:1760
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/ons/335.jpg?1517813031|https://scryfall.com/card/ons/335/island?utm_source=api>`"
@@ -4673,7 +4673,7 @@ msgstr ""
 
 #: ../../ONS.rst:1759
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../ONS.rst:1764
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/ons/339.jpg?1517813031|https://scryfall.com/card/ons/339/swamp?utm_source=api>`"
@@ -4681,7 +4681,7 @@ msgstr ""
 
 #: ../../ONS.rst:1763
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../ONS.rst:1768
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/ons/343.jpg?1517813031|https://scryfall.com/card/ons/343/mountain?utm_source=api>`"
@@ -4689,7 +4689,7 @@ msgstr ""
 
 #: ../../ONS.rst:1767
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../ONS.rst:1771
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/ons/347.jpg?1517813031|https://scryfall.com/card/ons/347/forest?utm_source=api>`"
@@ -4697,4 +4697,4 @@ msgstr ""
 
 #: ../../ONS.rst:1771
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"

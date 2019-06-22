@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -2496,7 +2496,7 @@ msgstr ""
 #: ../../C13.rst:1753 ../../C13.rst:1775 ../../C13.rst:1791 ../../C13.rst:1805
 #: ../../C13.rst:1847 ../../C13.rst:1919 ../../C13.rst:1951 ../../C13.rst:1957
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C13.rst:794
 msgid ""
@@ -4084,7 +4084,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1359 ../../C13.rst:1569 ../../C13.rst:1879
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../C13.rst:1361
 msgid ""
@@ -4107,7 +4107,7 @@ msgstr ""
 #: ../../C13.rst:1367
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 # 552073d7aa2e4c518ebae22d9042b2c1
 #: ../../C13.rst:1369
@@ -4168,7 +4168,7 @@ msgstr "Niezniszczalność"
 # eb58dedf784c407b855dfda133d03ec7
 #: ../../C13.rst:1387 ../../C13.rst:1843 ../../C13.rst:1947
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../C13.rst:1392
 msgid ""
@@ -4341,7 +4341,7 @@ msgstr ""
 # 23b23228fe684c71a904973d46f4515c
 #: ../../C13.rst:1439 ../../C13.rst:1621
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
+msgstr "|tap|: Weź |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../C13.rst:1444
 msgid ""
@@ -4436,7 +4436,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1469
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_g|\\ |mana_w|."
+msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../C13.rst:1474
 msgid ""
@@ -4450,7 +4450,7 @@ msgstr ""
 #: ../../C13.rst:1473
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C13.rst:1478
 msgid ""
@@ -4461,7 +4461,7 @@ msgstr ""
 #: ../../C13.rst:1477
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C13.rst:1484
 msgid ""
@@ -4682,7 +4682,7 @@ msgstr ""
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1549 ../../C13.rst:1835
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C13.rst:1556
 msgid ""
@@ -4719,7 +4719,7 @@ msgstr ""
 #: ../../C13.rst:1563
 #, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_u|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C13.rst:1570
 msgid ""
@@ -4761,7 +4761,7 @@ msgstr ""
 
 #: ../../C13.rst:1581 ../../C13.rst:1591 ../../C13.rst:1989
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 # 479225d55fd44335ae63cbae61845578
 #: ../../C13.rst:1583
@@ -4810,7 +4810,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1599
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
+msgstr "|tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../C13.rst:1606
 msgid ""
@@ -4827,7 +4827,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1605
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../C13.rst:1610
 msgid ""
@@ -4886,7 +4886,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1627 ../../C13.rst:1733
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../C13.rst:1636
 msgid ""
@@ -4902,7 +4902,7 @@ msgstr ""
 
 #: ../../C13.rst:1633 ../../C13.rst:1801 ../../C13.rst:1869
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 # d35a6b20477d403e8dca46fd49c339b9
 # 4d8007b0c8fb4d0aa3b1abd7a8f21a2b
@@ -4956,7 +4956,7 @@ msgstr ""
 
 #: ../../C13.rst:1651 ../../C13.rst:1769 ../../C13.rst:1973
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../C13.rst:1653
 msgid ""
@@ -4978,7 +4978,7 @@ msgstr "Zapomniana Jaskinia wchodzi na pole walki przekręcona."
 
 #: ../../C13.rst:1659 ../../C13.rst:1913 ../../C13.rst:1965
 msgid "|tap|: Add |mana_r|."
-msgstr "|tap|: Dostajesz |mana_r|."
+msgstr "|tap|: Weź |mana_r|."
 
 # 4b3ca85105054227bc770adf8e474e2b
 #: ../../C13.rst:1661
@@ -5001,7 +5001,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1667
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../C13.rst:1676
 msgid ""
@@ -5028,7 +5028,7 @@ msgstr ""
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1675
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
+msgstr "|tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../C13.rst:1682
 msgid ""
@@ -5076,7 +5076,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1693 ../../C13.rst:1741
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../C13.rst:1700
 msgid ""
@@ -5114,7 +5114,7 @@ msgstr ""
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1707
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../C13.rst:1714
 msgid ""
@@ -5132,7 +5132,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1713
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../C13.rst:1720
 msgid ""
@@ -5164,7 +5164,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1725
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r|, |mana_g|, albo |mana_w|."
+msgstr "|tap|: Weź |mana_r|, |mana_g|, albo |mana_w|."
 
 #: ../../C13.rst:1734
 msgid ""
@@ -5223,7 +5223,7 @@ msgstr "Kiedy Baleful Strix wchodzi na pole walki, dobierz kartę."
 #: ../../C13.rst:1749 ../../C13.rst:1761 ../../C13.rst:1785 ../../C13.rst:1905
 #: ../../C13.rst:1937 ../../C13.rst:1981
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../C13.rst:1756
 msgid ""
@@ -5384,7 +5384,7 @@ msgstr ""
 #: ../../C13.rst:1815
 #, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C13.rst:1822
 msgid ""
@@ -5401,7 +5401,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1821
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../C13.rst:1830
 msgid ""
@@ -5427,7 +5427,7 @@ msgstr ""
 #: ../../C13.rst:1829
 #, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C13.rst:1836
 msgid ""
@@ -5559,7 +5559,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1885
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../C13.rst:1894
 msgid ""
@@ -5585,7 +5585,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1893
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
+msgstr "|tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../C13.rst:1900
 msgid ""
@@ -5603,7 +5603,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1899
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C13.rst:1908
 msgid ""
@@ -5818,7 +5818,7 @@ msgstr ""
 
 #: ../../C13.rst:1995
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../C13.rst:2000
 msgid ""
@@ -5828,7 +5828,7 @@ msgstr ""
 
 #: ../../C13.rst:1999
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../C13.rst:2004
 msgid ""
@@ -5838,7 +5838,7 @@ msgstr ""
 
 #: ../../C13.rst:2003
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../C13.rst:2008
 msgid ""
@@ -5848,7 +5848,7 @@ msgstr ""
 
 #: ../../C13.rst:2007
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../C13.rst:2011
 msgid ""
@@ -5858,7 +5858,7 @@ msgstr ""
 
 #: ../../C13.rst:2011
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 # dd0d92f2f9ef4152b3b14e70292202a7
 #, fuzzy

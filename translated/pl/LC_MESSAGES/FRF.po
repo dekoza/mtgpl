@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 04:27+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -969,8 +969,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast artifact "
 "spells or activate abilities of artifacts."
 msgstr ""
-"|tap|: Dostajesz |colorless|\\ |colorless|. Użyj tej many tylko do rzucania "
-"czarów artefaktów lub aktywowania zdolności artefaktów."
+"|tap|: Weź |colorless|\\ |colorless|. Użyj tej many tylko do rzucania czarów "
+"artefaktów lub aktywowania zdolności artefaktów."
 
 # d9ef164095934573b05dfd448687c712
 #: ../../FRF.rst:287
@@ -1843,9 +1843,9 @@ msgid ""
 "attacking creatures you control gain \"|mana_r|: This creature gets +1/+0 "
 "until end of turn.\""
 msgstr ""
-"Dostajesz |mana_r| za każdego atakującego stwora pod twoim władaniem. Do "
-"końca tury atakujące stwory pod twoim władaniem dostają \"|mana_r|: Ten "
-"stwór dostaje +1/+0 do końca tury.\""
+"Weź |mana_r| za każdego atakującego stwora pod twoim władaniem. Do końca "
+"tury atakujące stwory pod twoim władaniem dostają \"|mana_r|: Ten stwór "
+"dostaje +1/+0 do końca tury.\""
 
 #: ../../FRF.rst:548
 msgid ""
@@ -2760,7 +2760,7 @@ msgstr ""
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:803
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 # e6c4a5c282ad42288802c99116707328
 #: ../../FRF.rst:805
@@ -2768,8 +2768,8 @@ msgid ""
 "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if "
 "you control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — |tap|: Dostajesz |mana_g|\\ |mana_g|. Aktywuj tę zdolność tylko "
-"jeśli władasz stworem o sile 4 lub większej."
+"Zaciekłość — |tap|: Weź |mana_g|\\ |mana_g|. Aktywuj tę zdolność tylko jeśli "
+"władasz stworem o sile 4 lub większej."
 
 #: ../../FRF.rst:812
 msgid ""
@@ -3180,7 +3180,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # da5d7af39b4d4e1e93c10f01d7d47fdb
 #: ../../FRF.rst:921
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../FRF.rst:930
 msgid ""
@@ -3202,7 +3202,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:929
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../FRF.rst:938
 msgid ""
@@ -3213,7 +3213,7 @@ msgstr ""
 
 #: ../../FRF.rst:933
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 # 7ec22bf5ad414952a460d46eccef5448
 #: ../../FRF.rst:935
@@ -3228,7 +3228,7 @@ msgid ""
 "mana in any combination of colors. Spend this mana only to cast Dragon "
 "spells or activate abilities of Dragons."
 msgstr ""
-"|tap|, usuń X znaczników magazynu z tego lądu: Dostajesz X many w dowolnej "
+"|tap|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
 "kombinacji kolorów. Użyj tej many tylko do rzucania czarów Smoków lub "
 "aktywowania zdolności Smoków."
 
@@ -3252,7 +3252,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 4daf11d211054d209a644c0c4a1dd665
 #: ../../FRF.rst:945
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../FRF.rst:954
 msgid ""
@@ -3274,7 +3274,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 298af8ad32384d06997041fe369a02ff
 #: ../../FRF.rst:953
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../FRF.rst:962
 msgid ""
@@ -3296,7 +3296,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # f079dfdf9aad4305a2137b7f25636a16
 #: ../../FRF.rst:961
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../FRF.rst:970
 msgid ""
@@ -3318,7 +3318,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 29c9db40b05f4a00af9937d91ca0bf84
 #: ../../FRF.rst:969
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../FRF.rst:978
 msgid ""
@@ -3340,7 +3340,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 1920a00e207543fa8f7d3c20dee7f113
 #: ../../FRF.rst:977
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../FRF.rst:986
 msgid ""
@@ -3362,7 +3362,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:985
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../FRF.rst:994
 msgid ""
@@ -3384,7 +3384,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 68e08fa3841d42d2a339a5c7d9d710fd
 #: ../../FRF.rst:993
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../FRF.rst:1002
 msgid ""
@@ -3406,7 +3406,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 # 66c21d25dec049808f911c7fe9df5922
 #: ../../FRF.rst:1001
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../FRF.rst:1006
 msgid ""
@@ -3417,7 +3417,7 @@ msgstr ""
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1005
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../FRF.rst:1010
 msgid ""
@@ -3428,7 +3428,7 @@ msgstr ""
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1009
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../FRF.rst:1014
 msgid ""
@@ -3439,7 +3439,7 @@ msgstr ""
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1013
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../FRF.rst:1018
 msgid ""
@@ -3450,7 +3450,7 @@ msgstr ""
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1017
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../FRF.rst:1021
 msgid ""
@@ -3461,7 +3461,7 @@ msgstr ""
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1021
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 # 9930e613ed444861b24e15a042061661
 #, fuzzy

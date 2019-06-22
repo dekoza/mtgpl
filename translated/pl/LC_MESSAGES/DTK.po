@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-08 21:47+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -1136,9 +1136,9 @@ msgid ""
 "spell, pay a mana cost to turn a manifested creature face up, or pay a morph "
 "cost. (A megamorph cost is a morph cost.)"
 msgstr ""
-"|tap|: Dostajesz |colorless|. Wydaj tę manę tylko na rzucanie zakrytych "
-"czarów stworów, opłacenie kosztu many odkrycia objawionej karty lub zapłacić "
-"koszt przemiany. (Koszt nadprzemiany jest kosztem przemiany.)"
+"|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucanie zakrytych czarów "
+"stworów, opłacenie kosztu many odkrycia objawionej karty lub zapłacić koszt "
+"przemiany. (Koszt nadprzemiany jest kosztem przemiany.)"
 
 #: ../../DTK.rst:410
 msgid ""
@@ -3182,8 +3182,8 @@ msgstr "Zaurocz ląd"
 #: ../../DTK.rst:1121
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
 msgstr ""
-"Zauroczony ląd ma zdolność \"|tap|: Dostajesz dwie many w dowolnym jednym "
-"kolorze.\""
+"Zauroczony ląd ma zdolność \"|tap|: Weź dwie many w dowolnym jednym kolorze."
+"\""
 
 #: ../../DTK.rst:1126
 msgid ""
@@ -3649,7 +3649,7 @@ msgstr ""
 
 #: ../../DTK.rst:1323
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../DTK.rst:1325
 msgid ""
@@ -3690,7 +3690,7 @@ msgstr ""
 
 #: ../../DTK.rst:1339
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../DTK.rst:1341
 msgid ""
@@ -3738,7 +3738,7 @@ msgstr ""
 
 #: ../../DTK.rst:1357
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../DTK.rst:1359
 msgid ""
@@ -3755,7 +3755,7 @@ msgstr ""
 
 #: ../../DTK.rst:1363
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../DTK.rst:1365
 msgid ""
@@ -3772,7 +3772,7 @@ msgstr ""
 
 #: ../../DTK.rst:1369
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../DTK.rst:1371
 msgid ""
@@ -3847,6 +3847,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Vial of Dragonfire: It deals 2 damage to target "
 "creature."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu stworowi 2 "
+"obrażenia."
 
 #: ../../DTK.rst:1398
 msgid ""
@@ -3872,7 +3874,7 @@ msgstr ""
 
 #: ../../DTK.rst:1401
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../DTK.rst:1403
 msgid ""
@@ -3894,7 +3896,7 @@ msgstr ""
 
 #: ../../DTK.rst:1409
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../DTK.rst:1414
 msgid ""
@@ -3904,7 +3906,7 @@ msgstr ""
 
 #: ../../DTK.rst:1413
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../DTK.rst:1418
 msgid ""
@@ -3914,7 +3916,7 @@ msgstr ""
 
 #: ../../DTK.rst:1417
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../DTK.rst:1422
 msgid ""
@@ -3924,7 +3926,7 @@ msgstr ""
 
 #: ../../DTK.rst:1421
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../DTK.rst:1425
 msgid ""
@@ -3934,7 +3936,7 @@ msgstr ""
 
 #: ../../DTK.rst:1425
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #~ msgid "Negate"
 #~ msgstr "Negate"

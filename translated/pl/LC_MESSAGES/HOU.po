@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-04 20:51+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -2067,15 +2067,15 @@ msgstr ""
 
 #: ../../HOU.rst:667 ../../HOU.rst:947
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../HOU.rst:669
 msgid ""
 "|tap|, Exert Oasis Ritualist: Add two mana of any one color. (An exerted "
 "creature won't untap during your next untap step.)"
 msgstr ""
-"|tap|, wytęż tego stwora: Dostajesz dwie many w dowolnym jednym kolorze. ("
-"Wytężony stwór nie odkręci się w twoim najbliższym kroku odkręcania.)"
+"|tap|, wytęż tego stwora: Weź dwie many w dowolnym jednym kolorze. (Wytężony "
+"stwór nie odkręci się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:674
 msgid ""
@@ -2980,11 +2980,11 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 #: ../../HOU.rst:1043 ../../HOU.rst:1049 ../../HOU.rst:1057 ../../HOU.rst:1065
 #: ../../HOU.rst:1073 ../../HOU.rst:1079 ../../HOU.rst:1087
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../HOU.rst:977
 msgid "|mana_1|, |tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
+msgstr "|mana_1|, |tap|: Weź |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../HOU.rst:986
 msgid ""
@@ -2999,7 +2999,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:983
 msgid "|tap|: Add |mana_r|."
-msgstr "|tap|: Dostajesz |mana_r|."
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../HOU.rst:985
 #, fuzzy
@@ -3023,7 +3023,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:991
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../HOU.rst:993
 #, fuzzy
@@ -3047,7 +3047,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:999
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../HOU.rst:1001
 #, fuzzy
@@ -3071,7 +3071,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:1007
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../HOU.rst:1009
 msgid ""
@@ -3094,7 +3094,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../HOU.rst:1015
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../HOU.rst:1017
 msgid ""
@@ -3147,7 +3147,7 @@ msgstr ""
 
 #: ../../HOU.rst:1037
 msgid "|tap|, Pay 1 life: Add |mana_g|."
-msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_g|."
+msgstr "|tap|, zapłać 1 życie: Weź |mana_g|."
 
 #: ../../HOU.rst:1039
 msgid ""
@@ -3183,7 +3183,7 @@ msgstr ""
 
 #: ../../HOU.rst:1051
 msgid "|tap|, Pay 1 life: Add |mana_b|."
-msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_b|."
+msgstr "|tap|, zapłać 1 życie: Weź |mana_b|."
 
 #: ../../HOU.rst:1053
 msgid ""
@@ -3204,7 +3204,7 @@ msgstr ""
 
 #: ../../HOU.rst:1059
 msgid "|tap|, Pay 1 life: Add |mana_u|."
-msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_u|."
+msgstr "|tap|, zapłać 1 życie: Weź |mana_u|."
 
 #: ../../HOU.rst:1061
 msgid ""
@@ -3223,7 +3223,7 @@ msgstr ""
 
 #: ../../HOU.rst:1067
 msgid "|tap|, Pay 1 life: Add |mana_r|."
-msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_r|."
+msgstr "|tap|, zapłać 1 życie: Weź |mana_r|."
 
 #: ../../HOU.rst:1069
 msgid ""
@@ -3256,7 +3256,7 @@ msgstr ""
 
 #: ../../HOU.rst:1081
 msgid "|tap|, Pay 1 life: Add |mana_w|."
-msgstr "|tap|, zapłać 1 życie: Dostajesz |mana_w|."
+msgstr "|tap|, zapłać 1 życie: Weź |mana_w|."
 
 #: ../../HOU.rst:1083
 msgid ""
@@ -3278,7 +3278,7 @@ msgstr ""
 #: ../../HOU.rst:1089
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
-"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dostajesz jedną manę "
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Weź jedną manę "
 "dowolnego koloru."
 
 #: ../../HOU.rst:1094
@@ -3289,7 +3289,7 @@ msgstr ""
 
 #: ../../HOU.rst:1093
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../HOU.rst:1098
 msgid ""
@@ -3299,7 +3299,7 @@ msgstr ""
 
 #: ../../HOU.rst:1097
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../HOU.rst:1102
 msgid ""
@@ -3309,7 +3309,7 @@ msgstr ""
 
 #: ../../HOU.rst:1101
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../HOU.rst:1106
 msgid ""
@@ -3319,7 +3319,7 @@ msgstr ""
 
 #: ../../HOU.rst:1105
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../HOU.rst:1110
 msgid ""
@@ -3329,7 +3329,7 @@ msgstr ""
 
 #: ../../HOU.rst:1109
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../HOU.rst:1118
 msgid ""
@@ -3368,8 +3368,8 @@ msgid ""
 "|tap|: Add |mana_g| or |mana_u|. If you control a Nissa planeswalker, you "
 "gain 2 life."
 msgstr ""
-"|tap|: Dostajesz |mana_g| lub |mana_u|. Jeśli władasz wędrowcem o typie "
-"Nissa, dostajesz 2 życia."
+"|tap|: Weź |mana_g| lub |mana_u|. Jeśli władasz wędrowcem o typie Nissa, "
+"dostajesz 2 życia."
 
 #: ../../HOU.rst:1126
 msgid ""
@@ -3417,7 +3417,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../HOU.rst:1135
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../HOU.rst:1144
 msgid ""
@@ -3496,7 +3496,7 @@ msgstr ""
 
 #: ../../HOU.rst:1159
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
+msgstr "|tap|: Weź |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../HOU.rst:1165
 msgid ""
@@ -3511,7 +3511,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../HOU.rst:1165
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #~ msgid "Plains"
 #~ msgstr "Plains (Równina)"

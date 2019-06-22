@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-01 13:05+0200\n"
-"PO-Revision-Date: 2019-06-22 16:45+0000\n"
+"PO-Revision-Date: 2019-06-22 22:05+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mh1/pl/>\n"
 "Language: pl\n"
@@ -1071,7 +1071,7 @@ msgstr ""
 
 #: ../../MH1.rst:449
 msgid "Tap an untapped artifact you control: Add |mana_u|."
-msgstr "Przekręć odkręcony artefakt pod twoim władaniem: Dostajesz |mana_u|."
+msgstr "Przekręć odkręcony artefakt pod twoim władaniem: Weź |mana_u|."
 
 #: ../../MH1.rst:451
 msgid "|mana_5|: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost."
@@ -2796,7 +2796,7 @@ msgstr ""
 #: ../../MH1.rst:1295
 #: ../../MH1.rst:1399
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../MH1.rst:1300
 msgid ":mtgtip:`Birthing Boughs<https://img.scryfall.com/cards/border_crop/front/1/3/1345ee24-ffa3-44d1-a983-f25f54cda3f3.jpg?1559301610|https://scryfall.com/card/mh1/221/birthing-boughs?utm_source=api>`"
@@ -2827,7 +2827,7 @@ msgstr ""
 #: ../../MH1.rst:1309
 #: ../../MH1.rst:1329
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../MH1.rst:1311
 msgid "|mana_3|: Fountain of Ichor becomes a 3/3 Dinosaur artifact creature until end of turn."
@@ -2911,7 +2911,7 @@ msgstr ""
 #: ../../MH1.rst:1419
 #: ../../MH1.rst:1427
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../MH1.rst:1357
 msgid "|tap|: Add |mana_r| or |mana_w|. Talisman of Conviction deals 1 damage to you."
@@ -2963,7 +2963,7 @@ msgstr ""
 
 #: ../../MH1.rst:1391
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../MH1.rst:1393
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
@@ -2999,7 +2999,7 @@ msgstr ""
 
 #: ../../MH1.rst:1413
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../MH1.rst:1424
 msgid ":mtgtip:`Frostwalk Bastion<https://img.scryfall.com/cards/border_crop/front/b/f/bfb5d83f-2b7c-4c22-ac37-938e7cd1654a.jpg?1558617903|https://scryfall.com/card/mh1/240/frostwalk-bastion?utm_source=api>`"
@@ -3031,7 +3031,7 @@ msgstr ""
 
 #: ../../MH1.rst:1435
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../MH1.rst:1444
 msgid ":mtgtip:`Nurturing Peatland<https://img.scryfall.com/cards/border_crop/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.jpg?1558910359|https://scryfall.com/card/mh1/243/nurturing-peatland?utm_source=api>`"
@@ -3063,7 +3063,7 @@ msgstr ""
 
 #: ../../MH1.rst:1453
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../MH1.rst:1455
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
@@ -3103,7 +3103,7 @@ msgstr ""
 
 #: ../../MH1.rst:1473
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../MH1.rst:1475
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
@@ -3127,7 +3127,7 @@ msgstr ""
 
 #: ../../MH1.rst:1485
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../MH1.rst:1490
 msgid ":mtgtip:`Snow-Covered Island<https://img.scryfall.com/cards/border_crop/front/8/a/8ac1fceb-8427-409c-98a4-9a5c1ff980b4.jpg?1558464760|https://scryfall.com/card/mh1/251/snow-covered-island?utm_source=api>`"
@@ -3135,7 +3135,7 @@ msgstr ""
 
 #: ../../MH1.rst:1489
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../MH1.rst:1494
 msgid ":mtgtip:`Snow-Covered Swamp<https://img.scryfall.com/cards/border_crop/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1558464765|https://scryfall.com/card/mh1/252/snow-covered-swamp?utm_source=api>`"
@@ -3143,7 +3143,7 @@ msgstr ""
 
 #: ../../MH1.rst:1493
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../MH1.rst:1498
 msgid ":mtgtip:`Snow-Covered Mountain<https://img.scryfall.com/cards/border_crop/front/d/2/d2209e6f-1d9d-43bb-a314-a8fefc509e78.jpg?1558464769|https://scryfall.com/card/mh1/253/snow-covered-mountain?utm_source=api>`"
@@ -3151,7 +3151,7 @@ msgstr ""
 
 #: ../../MH1.rst:1497
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../MH1.rst:1502
 msgid ":mtgtip:`Snow-Covered Forest<https://img.scryfall.com/cards/border_crop/front/1/c/1c59fc48-704b-4187-b9d3-2a2cff6dd54b.jpg?1558463898|https://scryfall.com/card/mh1/254/snow-covered-forest?utm_source=api>`"
@@ -3159,7 +3159,7 @@ msgstr ""
 
 #: ../../MH1.rst:1501
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../MH1.rst:1507
 msgid ":mtgtip:`Flusterstorm<https://img.scryfall.com/cards/border_crop/front/4/6/46a00405-13ad-4531-9bfb-fea0ca57f196.jpg?1558464775|https://scryfall.com/card/mh1/255/flusterstorm?utm_source=api>`"

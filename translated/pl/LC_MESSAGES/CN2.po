@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-26 21:56+0100\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/cn2/pl/>\n"
 "Language: pl\n"
@@ -222,7 +222,7 @@ msgstr ""
 #: ../../CN2.rst:75
 msgid "Basic lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
-"Bazowe lądy pod twoim władaniem mają \"|tap|: Dostajesz jedną manę dowolnego "
+"Bazowe lądy pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego "
 "koloru.\""
 
 #: ../../CN2.rst:82
@@ -1432,7 +1432,7 @@ msgstr ""
 
 #: ../../CN2.rst:493 ../../CN2.rst:1181 ../../CN2.rst:1195 ../../CN2.rst:1201
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../CN2.rst:495
 msgid ""
@@ -2662,7 +2662,7 @@ msgstr ""
 
 #: ../../CN2.rst:981 ../../CN2.rst:1161
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../CN2.rst:986
 msgid ":mtgtip:`Brushstrider<https://img.scryfall.com/cards/border_crop/en/cn2/177.jpg?1517813031|https://scryfall.com/card/cn2/177/brushstrider?utm_source=api>`"
@@ -3235,4 +3235,4 @@ msgstr ""
 
 #: ../../CN2.rst:1203
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."

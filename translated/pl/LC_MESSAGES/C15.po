@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 18:28+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -933,7 +933,7 @@ msgstr ""
 #: ../../C15.rst:1713 ../../C15.rst:1717 ../../C15.rst:1785 ../../C15.rst:1791
 #: ../../C15.rst:1861
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C15.rst:344
 msgid ""
@@ -3016,6 +3016,8 @@ msgid ""
 "When Loaming Shaman enters the battlefield, target player shuffles any "
 "number of target cards from their graveyard into their library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany gracz wtasowuje dowolną "
+"liczbę wskazanych kart ze swojego cmentarza do swojej biblioteki."
 
 #: ../../C15.rst:1074
 msgid ""
@@ -3879,7 +3881,7 @@ msgstr ""
 #: ../../C15.rst:1363 ../../C15.rst:1409
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C15.rst:1365
 msgid "|mana_3|: Untap Basalt Monolith."
@@ -3910,7 +3912,7 @@ msgstr ""
 
 #: ../../C15.rst:1377 ../../C15.rst:1541 ../../C15.rst:1569 ../../C15.rst:1857
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../C15.rst:1379
 msgid "|mana_r|\\ |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
@@ -3925,7 +3927,7 @@ msgstr ""
 
 #: ../../C15.rst:1383
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_r|\\ |mana_w|."
+msgstr "|mana_1|, |tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../C15.rst:1388
 msgid ""
@@ -3985,7 +3987,7 @@ msgstr "Niezniszczalność"
 
 #: ../../C15.rst:1405
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../C15.rst:1412
 msgid ""
@@ -4037,7 +4039,7 @@ msgstr ""
 
 #: ../../C15.rst:1425
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_b|\\ |mana_g|."
+msgstr "|mana_1|, |tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../C15.rst:1430
 msgid ""
@@ -4048,7 +4050,7 @@ msgstr ""
 
 #: ../../C15.rst:1429
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_r|."
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../C15.rst:1436
 msgid ""
@@ -4114,7 +4116,7 @@ msgstr ""
 
 #: ../../C15.rst:1457 ../../C15.rst:1699 ../../C15.rst:1727
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../C15.rst:1459
 msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
@@ -4130,7 +4132,7 @@ msgstr ""
 #: ../../C15.rst:1463
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C15.rst:1470
 msgid ""
@@ -4171,7 +4173,7 @@ msgstr ""
 
 #: ../../C15.rst:1477 ../../C15.rst:1749 ../../C15.rst:1809
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C15.rst:1479
 msgid ""
@@ -4190,7 +4192,7 @@ msgstr ""
 #: ../../C15.rst:1483
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C15.rst:1492
 msgid ""
@@ -4219,7 +4221,7 @@ msgstr ""
 #: ../../C15.rst:1495 ../../C15.rst:1535
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C15.rst:1502
 msgid ""
@@ -4344,7 +4346,7 @@ msgstr ""
 
 #: ../../C15.rst:1547 ../../C15.rst:1705 ../../C15.rst:1839
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../C15.rst:1549
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
@@ -4383,7 +4385,7 @@ msgstr ""
 
 #: ../../C15.rst:1563
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
+msgstr "|tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../C15.rst:1570
 msgid ""
@@ -4420,7 +4422,7 @@ msgstr ""
 
 #: ../../C15.rst:1579 ../../C15.rst:1671 ../../C15.rst:1733 ../../C15.rst:1847
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../C15.rst:1586
 msgid ""
@@ -4450,7 +4452,7 @@ msgstr ""
 
 #: ../../C15.rst:1591 ../../C15.rst:1763 ../../C15.rst:1771 ../../C15.rst:1815
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../C15.rst:1593
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
@@ -4483,7 +4485,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C15.rst:1605 ../../C15.rst:1647
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../C15.rst:1614
 msgid ""
@@ -4506,7 +4508,7 @@ msgstr ""
 
 #: ../../C15.rst:1613
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
+msgstr "|tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../C15.rst:1620
 msgid ""
@@ -4551,7 +4553,7 @@ msgstr ""
 
 #: ../../C15.rst:1633
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../C15.rst:1640
 msgid ""
@@ -4566,7 +4568,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C15.rst:1639 ../../C15.rst:1781
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../C15.rst:1648
 msgid ""
@@ -4597,7 +4599,7 @@ msgstr ""
 #: ../../C15.rst:1653 ../../C15.rst:1661 ../../C15.rst:1683 ../../C15.rst:1755
 #: ../../C15.rst:1831
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../C15.rst:1655
 msgid ""
@@ -4692,7 +4694,7 @@ msgstr ""
 #: ../../C15.rst:1693
 #, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C15.rst:1700
 msgid ""
@@ -4782,9 +4784,8 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1743
-#, fuzzy
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g|\\ |mana_u|."
 
 #: ../../C15.rst:1750
 msgid ""
@@ -4858,8 +4859,7 @@ msgstr ""
 msgid ""
 "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a "
 "Swamp."
-msgstr ""
-"|tap|: Dostajesz |mana_w| lub |mana_b|. Aktywuj tylko jeśli władasz Bagnem."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|. Aktywuj tylko jeśli władasz Bagnem."
 
 #: ../../C15.rst:1794
 msgid ""
@@ -4944,7 +4944,7 @@ msgstr ""
 
 #: ../../C15.rst:1823
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../C15.rst:1825
 msgid ""
@@ -5038,7 +5038,7 @@ msgstr ""
 
 #: ../../C15.rst:1867
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../C15.rst:1872
 msgid ""
@@ -5048,7 +5048,7 @@ msgstr ""
 
 #: ../../C15.rst:1871
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../C15.rst:1876
 msgid ""
@@ -5058,7 +5058,7 @@ msgstr ""
 
 #: ../../C15.rst:1875
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../C15.rst:1880
 msgid ""
@@ -5068,7 +5068,7 @@ msgstr ""
 
 #: ../../C15.rst:1879
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../C15.rst:1883
 msgid ""
@@ -5078,4 +5078,4 @@ msgstr ""
 
 #: ../../C15.rst:1883
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"

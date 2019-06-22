@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -525,7 +525,7 @@ msgstr ""
 #: ../../C18.rst:239
 #: ../../C18.rst:1717
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|\\ |mana_u|."
 
 #: ../../C18.rst:246
 msgid ":mtgtip:`Brudiclad, Telchor Engineer<https://img.scryfall.com/cards/border_crop/en/c18/39.jpg?1535502405|https://scryfall.com/card/c18/39/brudiclad-telchor-engineer?utm_source=api>`"
@@ -752,7 +752,7 @@ msgstr ""
 
 #: ../../C18.rst:355
 msgid "|tap|: Add three mana of any one color."
-msgstr ""
+msgstr "|tap|: Weź trzy many w dowolnym jednym kolorze."
 
 #: ../../C18.rst:357
 msgid "Whenever one or more creatures an opponent controls attack you and aren't blocked, that player draws three cards and gains control of Coveted Jewel. Untap it."
@@ -815,7 +815,7 @@ msgstr ""
 #: ../../C18.rst:1621
 #: ../../C18.rst:1773
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C18.rst:383
 msgid "|tap|: Choose target commander that entered the battlefield this turn. Put a +1/+1 counter on it if it's a creature and a loyalty counter on it if it's a planeswalker."
@@ -2280,8 +2280,9 @@ msgid ":mtgtip:`Azorius Signet<https://img.scryfall.com/cards/border_crop/en/c18
 msgstr ""
 
 #: ../../C18.rst:1163
+#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_u|."
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../C18.rst:1168
 msgid ":mtgtip:`Blinkmoth Urn<https://img.scryfall.com/cards/border_crop/en/c18/197.jpg?1535504666|https://scryfall.com/card/c18/197/blinkmoth-urn?utm_source=api>`"
@@ -2351,15 +2352,16 @@ msgstr ""
 
 #: ../../C18.rst:1199
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_b|."
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../C18.rst:1206
 msgid ":mtgtip:`Dreamstone Hedron<https://img.scryfall.com/cards/border_crop/en/c18/204.jpg?1535504753|https://scryfall.com/card/c18/204/dreamstone-hedron?utm_source=api>`"
 msgstr ""
 
 #: ../../C18.rst:1203
+#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C18.rst:1205
 msgid "|mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards."
@@ -2384,8 +2386,9 @@ msgstr ""
 #: ../../C18.rst:1215
 #: ../../C18.rst:1303
 #: ../../C18.rst:1353
+#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C18.rst:1217
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
@@ -2397,7 +2400,7 @@ msgstr ""
 
 #: ../../C18.rst:1221
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_r|."
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../C18.rst:1228
 msgid ":mtgtip:`Magnifying Glass<https://img.scryfall.com/cards/border_crop/en/c18/208.jpg?1535504811|https://scryfall.com/card/c18/208/magnifying-glass?utm_source=api>`"
@@ -2452,8 +2455,9 @@ msgid ":mtgtip:`Orzhov Signet<https://img.scryfall.com/cards/border_crop/en/c18/
 msgstr ""
 
 #: ../../C18.rst:1253
+#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C18.rst:1260
 msgid ":mtgtip:`Pilgrim's Eye<https://img.scryfall.com/cards/border_crop/en/c18/214.jpg?1535504901|https://scryfall.com/card/c18/214/pilgrims-eye?utm_source=api>`"
@@ -2472,7 +2476,7 @@ msgstr ""
 
 #: ../../C18.rst:1265
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../C18.rst:1272
 msgid ":mtgtip:`Prototype Portal<https://img.scryfall.com/cards/border_crop/en/c18/216.jpg?1535504936|https://scryfall.com/card/c18/216/prototype-portal?utm_source=api>`"
@@ -2528,7 +2532,7 @@ msgstr ""
 
 #: ../../C18.rst:1293
 msgid "|tap|: Add |colorless|. (|colorless| represents colorless mana.)"
-msgstr "|tap|: Dostajesz |colorless|. (|colorless| oznacza bezkolorową manę.)"
+msgstr "|tap|: Weź |colorless|. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../C18.rst:1295
 msgid "|mana_2|, |tap|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
@@ -2616,7 +2620,7 @@ msgstr ""
 
 #: ../../C18.rst:1347
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../C18.rst:1354
 msgid ":mtgtip:`Worn Powerstone<https://img.scryfall.com/cards/border_crop/en/c18/230.jpg?1535505131|https://scryfall.com/card/c18/230/worn-powerstone?utm_source=api>`"
@@ -2640,7 +2644,7 @@ msgstr ""
 
 #: ../../C18.rst:1361
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C18.rst:1368
 msgid ":mtgtip:`Arcane Sanctum<https://img.scryfall.com/cards/border_crop/en/c18/232.jpg?1535505162|https://scryfall.com/card/c18/232/arcane-sanctum?utm_source=api>`"
@@ -2667,8 +2671,9 @@ msgid "When Azorius Chancery enters the battlefield, return a land you control t
 msgstr ""
 
 #: ../../C18.rst:1375
+#, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C18.rst:1382
 msgid ":mtgtip:`Azorius Guildgate<https://img.scryfall.com/cards/border_crop/en/c18/234.jpg?1535505188|https://scryfall.com/card/c18/234/azorius-guildgate?utm_source=api>`"
@@ -2683,7 +2688,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 #: ../../C18.rst:1701
 #: ../../C18.rst:1755
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../C18.rst:1390
 msgid ":mtgtip:`Barren Moor<https://img.scryfall.com/cards/border_crop/en/c18/235.jpg?1535505202|https://scryfall.com/card/c18/235/barren-moor?utm_source=api>`"
@@ -2697,7 +2702,7 @@ msgstr ""
 #: ../../C18.rst:1411
 #: ../../C18.rst:1601
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../C18.rst:1389
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
@@ -2726,7 +2731,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 #: ../../C18.rst:1403
 #: ../../C18.rst:1761
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../C18.rst:1412
 msgid ":mtgtip:`Bojuka Bog<https://img.scryfall.com/cards/border_crop/en/c18/238.jpg?1535505242|https://scryfall.com/card/c18/238/bojuka-bog?utm_source=api>`"
@@ -2772,7 +2777,7 @@ msgstr ""
 
 #: ../../C18.rst:1435
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../C18.rst:1442
 msgid ":mtgtip:`Dimir Guildgate<https://img.scryfall.com/cards/border_crop/en/c18/243.jpg?1535505320|https://scryfall.com/card/c18/243/dimir-guildgate?utm_source=api>`"
@@ -2787,7 +2792,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 #: ../../C18.rst:1555
 #: ../../C18.rst:1723
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../C18.rst:1450
 msgid ":mtgtip:`Dismal Backwater<https://img.scryfall.com/cards/border_crop/en/c18/244.jpg?1535505335|https://scryfall.com/card/c18/244/dismal-backwater?utm_source=api>`"
@@ -2822,7 +2827,7 @@ msgstr ""
 #: ../../C18.rst:1459
 #: ../../C18.rst:1485
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../C18.rst:1461
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
@@ -2840,7 +2845,7 @@ msgstr ""
 #: ../../C18.rst:1645
 #: ../../C18.rst:1673
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../C18.rst:1474
 msgid ":mtgtip:`Foundry of the Consuls<https://img.scryfall.com/cards/border_crop/en/c18/248.jpg?1535505391|https://scryfall.com/card/c18/248/foundry-of-the-consuls?utm_source=api>`"
@@ -2866,7 +2871,7 @@ msgstr ""
 
 #: ../../C18.rst:1481
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
+msgstr "|tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../C18.rst:1486
 msgid ":mtgtip:`Great Furnace<https://img.scryfall.com/cards/border_crop/en/c18/250.jpg?1535505419|https://scryfall.com/card/c18/250/great-furnace?utm_source=api>`"
@@ -2893,8 +2898,9 @@ msgid "When Gruul Turf enters the battlefield, return a land you control to its 
 msgstr ""
 
 #: ../../C18.rst:1499
+#, fuzzy
 msgid "|tap|: Add |mana_r|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C18.rst:1508
 msgid ":mtgtip:`Halimar Depths<https://img.scryfall.com/cards/border_crop/en/c18/253.jpg?1535505457|https://scryfall.com/card/c18/253/halimar-depths?utm_source=api>`"
@@ -2912,7 +2918,7 @@ msgstr ""
 #: ../../C18.rst:1585
 #: ../../C18.rst:1685
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../C18.rst:1514
 msgid ":mtgtip:`Haunted Fengraf<https://img.scryfall.com/cards/border_crop/en/c18/254.jpg?1535505472|https://scryfall.com/card/c18/254/haunted-fengraf?utm_source=api>`"
@@ -2934,7 +2940,7 @@ msgstr ""
 #: ../../C18.rst:1533
 #: ../../C18.rst:1731
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../C18.rst:1528
 msgid ":mtgtip:`Izzet Boilerworks<https://img.scryfall.com/cards/border_crop/en/c18/256.jpg?1535505497|https://scryfall.com/card/c18/256/izzet-boilerworks?utm_source=api>`"
@@ -2952,7 +2958,7 @@ msgstr ""
 
 #: ../../C18.rst:1527
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../C18.rst:1534
 msgid ":mtgtip:`Izzet Guildgate<https://img.scryfall.com/cards/border_crop/en/c18/257.jpg?1535505513|https://scryfall.com/card/c18/257/izzet-guildgate?utm_source=api>`"
@@ -2984,7 +2990,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C18.rst:1547
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../C18.rst:1556
 msgid ":mtgtip:`Jwar Isle Refuge<https://img.scryfall.com/cards/border_crop/en/c18/260.jpg?1535505557|https://scryfall.com/card/c18/260/jwar-isle-refuge?utm_source=api>`"
@@ -3012,7 +3018,7 @@ msgstr ""
 
 #: ../../C18.rst:1563
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../C18.rst:1572
 msgid ":mtgtip:`Khalni Garden<https://img.scryfall.com/cards/border_crop/en/c18/262.jpg?1535505584|https://scryfall.com/card/c18/262/khalni-garden?utm_source=api>`"
@@ -3030,7 +3036,7 @@ msgstr ""
 #: ../../C18.rst:1607
 #: ../../C18.rst:1767
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../C18.rst:1580
 msgid ":mtgtip:`Krosan Verge<https://img.scryfall.com/cards/border_crop/en/c18/263.jpg?1535505600|https://scryfall.com/card/c18/263/krosan-verge?utm_source=api>`"
@@ -3127,7 +3133,7 @@ msgstr ""
 #: ../../C18.rst:1631
 #: ../../C18.rst:1691
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../C18.rst:1640
 msgid ":mtgtip:`Orzhov Basilica<https://img.scryfall.com/cards/border_crop/en/c18/271.jpg?1535505712|https://scryfall.com/card/c18/271/orzhov-basilica?utm_source=api>`"
@@ -3142,8 +3148,9 @@ msgid "When Orzhov Basilica enters the battlefield, return a land you control to
 msgstr ""
 
 #: ../../C18.rst:1639
+#, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C18.rst:1646
 msgid ":mtgtip:`Orzhov Guildgate<https://img.scryfall.com/cards/border_crop/en/c18/272.jpg?1535505725|https://scryfall.com/card/c18/272/orzhov-guildgate?utm_source=api>`"
@@ -3166,8 +3173,9 @@ msgid "When Rakdos Carnarium enters the battlefield, return a land you control t
 msgstr ""
 
 #: ../../C18.rst:1653
+#, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C18.rst:1660
 msgid ":mtgtip:`Rocky Tar Pit<https://img.scryfall.com/cards/border_crop/en/c18/274.jpg?1535505756|https://scryfall.com/card/c18/274/rocky-tar-pit?utm_source=api>`"
@@ -3265,7 +3273,7 @@ msgstr ""
 
 #: ../../C18.rst:1709
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
+msgstr "|tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../C18.rst:1718
 msgid ":mtgtip:`Simic Growth Chamber<https://img.scryfall.com/cards/border_crop/en/c18/282.jpg?1535505875|https://scryfall.com/card/c18/282/simic-growth-chamber?utm_source=api>`"
@@ -3330,7 +3338,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 #: ../../C18.rst:1747
 #: ../../C18.rst:1781
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C18.rst:1756
 msgid ":mtgtip:`Tranquil Cove<https://img.scryfall.com/cards/border_crop/en/c18/288.jpg?1535505958|https://scryfall.com/card/c18/288/tranquil-cove?utm_source=api>`"
@@ -3386,7 +3394,7 @@ msgstr ""
 
 #: ../../C18.rst:1785
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../C18.rst:1790
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/c18/296.jpg?1535506080|https://scryfall.com/card/c18/296/island?utm_source=api>`"
@@ -3394,7 +3402,7 @@ msgstr ""
 
 #: ../../C18.rst:1789
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../C18.rst:1794
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/c18/299.jpg?1535506123|https://scryfall.com/card/c18/299/swamp?utm_source=api>`"
@@ -3402,7 +3410,7 @@ msgstr ""
 
 #: ../../C18.rst:1793
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../C18.rst:1798
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/c18/302.jpg?1535506164|https://scryfall.com/card/c18/302/mountain?utm_source=api>`"
@@ -3410,7 +3418,7 @@ msgstr ""
 
 #: ../../C18.rst:1797
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../C18.rst:1801
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/c18/305.jpg?1535506209|https://scryfall.com/card/c18/305/forest?utm_source=api>`"
@@ -3418,4 +3426,4 @@ msgstr ""
 
 #: ../../C18.rst:1801
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"

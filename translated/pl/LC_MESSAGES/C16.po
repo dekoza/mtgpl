@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 18:28+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -920,7 +920,7 @@ msgstr ""
 #: ../../C16.rst:1765 ../../C16.rst:1789 ../../C16.rst:1807 ../../C16.rst:1837
 #: ../../C16.rst:1957
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C16.rst:353
 msgid ""
@@ -3675,7 +3675,7 @@ msgstr ""
 
 #: ../../C16.rst:1315 ../../C16.rst:1773
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../C16.rst:1317
 msgid ""
@@ -3935,11 +3935,12 @@ msgstr ""
 #: ../../C16.rst:1409
 msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
+"Lądy pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../C16.rst:1411 ../../C16.rst:1431 ../../C16.rst:1693 ../../C16.rst:1859
 #: ../../C16.rst:1953
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../C16.rst:1418
 msgid ""
@@ -4052,7 +4053,7 @@ msgstr ""
 
 #: ../../C16.rst:1459
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_b|\\ |mana_g|."
+msgstr "|mana_1|, |tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../C16.rst:1464
 msgid ""
@@ -4064,7 +4065,7 @@ msgstr ""
 #: ../../C16.rst:1463
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C16.rst:1468
 msgid ""
@@ -4205,7 +4206,7 @@ msgstr ""
 #: ../../C16.rst:1511
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C16.rst:1518
 msgid ""
@@ -4234,7 +4235,7 @@ msgstr ""
 #: ../../C16.rst:1521 ../../C16.rst:1895
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C16.rst:1528
 msgid ""
@@ -4256,7 +4257,7 @@ msgstr ""
 #: ../../C16.rst:1531
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C16.rst:1540
 msgid ""
@@ -4281,7 +4282,7 @@ msgstr ""
 #: ../../C16.rst:1543
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C16.rst:1550
 msgid ""
@@ -4445,7 +4446,7 @@ msgstr ""
 #: ../../C16.rst:1611
 #, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C16.rst:1620
 msgid ""
@@ -4468,7 +4469,7 @@ msgstr ""
 
 #: ../../C16.rst:1619
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
+msgstr "|tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../C16.rst:1626
 msgid ""
@@ -4513,7 +4514,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1641
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
+msgstr "|tap|: Weź |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../C16.rst:1648
 msgid ""
@@ -4531,7 +4532,7 @@ msgstr ""
 
 #: ../../C16.rst:1651
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_u|\\ |mana_b|."
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../C16.rst:1660
 msgid ""
@@ -4554,7 +4555,7 @@ msgstr ""
 
 #: ../../C16.rst:1659
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../C16.rst:1668
 msgid ""
@@ -4573,7 +4574,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1667
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../C16.rst:1674
 msgid ""
@@ -4590,7 +4591,7 @@ msgstr ""
 
 #: ../../C16.rst:1673
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C16.rst:1682
 msgid ""
@@ -4680,7 +4681,7 @@ msgstr ""
 
 #: ../../C16.rst:1709
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b|\\ |mana_g|."
+msgstr "|tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../C16.rst:1718
 msgid ""
@@ -4716,7 +4717,7 @@ msgstr ""
 #: ../../C16.rst:1725
 #, fuzzy
 msgid "|tap|: Add |mana_r|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C16.rst:1732
 msgid ""
@@ -4750,7 +4751,7 @@ msgstr ""
 
 #: ../../C16.rst:1739
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../C16.rst:1748
 msgid ""
@@ -4769,7 +4770,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1747
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../C16.rst:1754
 msgid ""
@@ -4784,7 +4785,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1753
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r|, |mana_g|, albo |mana_w|."
+msgstr "|tap|: Weź |mana_r|, |mana_g|, albo |mana_w|."
 
 #: ../../C16.rst:1760
 msgid ""
@@ -4845,7 +4846,7 @@ msgstr ""
 
 #: ../../C16.rst:1779 ../../C16.rst:1987
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../C16.rst:1781
 msgid ""
@@ -4954,7 +4955,7 @@ msgstr ""
 #: ../../C16.rst:1823
 #, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C16.rst:1832
 msgid ""
@@ -4976,7 +4977,7 @@ msgstr ""
 #: ../../C16.rst:1831
 #, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C16.rst:1838
 msgid ""
@@ -5000,7 +5001,7 @@ msgstr ""
 
 #: ../../C16.rst:1843 ../../C16.rst:1851
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../C16.rst:1852
 msgid ""
@@ -5092,7 +5093,7 @@ msgstr ""
 
 #: ../../C16.rst:1883
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../C16.rst:1892
 msgid ""
@@ -5115,7 +5116,7 @@ msgstr ""
 
 #: ../../C16.rst:1891
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
+msgstr "|tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../C16.rst:1896
 msgid ""
@@ -5142,9 +5143,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1903
-#, fuzzy
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g|\\ |mana_u|."
 
 #: ../../C16.rst:1912
 msgid ""
@@ -5155,7 +5155,7 @@ msgstr ""
 
 #: ../../C16.rst:1909
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../C16.rst:1911
 msgid ""
@@ -5172,7 +5172,7 @@ msgstr ""
 
 #: ../../C16.rst:1915
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_g|\\ |mana_w|."
+msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../C16.rst:1922
 msgid ""
@@ -5189,7 +5189,7 @@ msgstr ""
 
 #: ../../C16.rst:1921
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../C16.rst:1930
 msgid ""
@@ -5208,7 +5208,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1929
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../C16.rst:1934
 msgid ""
@@ -5253,7 +5253,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C16.rst:1945
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C16.rst:1954
 msgid ""
@@ -5294,7 +5294,7 @@ msgstr ""
 
 #: ../../C16.rst:1965
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../C16.rst:1967
 msgid ""
@@ -5310,7 +5310,7 @@ msgstr ""
 
 #: ../../C16.rst:1971
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../C16.rst:1976
 msgid ""
@@ -5320,7 +5320,7 @@ msgstr ""
 
 #: ../../C16.rst:1975
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../C16.rst:1980
 msgid ""
@@ -5330,7 +5330,7 @@ msgstr ""
 
 #: ../../C16.rst:1979
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../C16.rst:1984
 msgid ""
@@ -5340,7 +5340,7 @@ msgstr ""
 
 #: ../../C16.rst:1983
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../C16.rst:1987
 msgid ""

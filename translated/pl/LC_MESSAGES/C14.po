@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -1016,7 +1016,7 @@ msgstr ""
 #: ../../C14.rst:1673 ../../C14.rst:1683 ../../C14.rst:1729 ../../C14.rst:1745
 #: ../../C14.rst:1781 ../../C14.rst:1803
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C14.rst:349
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
@@ -1051,7 +1051,7 @@ msgstr ""
 #: ../../C14.rst:361 ../../C14.rst:1331 ../../C14.rst:1661 ../../C14.rst:1679
 #: ../../C14.rst:1775
 msgid "|tap|: Add |mana_r|."
-msgstr "|tap|: Dostajesz |mana_r|."
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../C14.rst:363
 msgid "|mana_r|, |tap|: Target creature gains haste until end of turn."
@@ -3053,7 +3053,7 @@ msgstr ""
 #: ../../C14.rst:1079 ../../C14.rst:1143 ../../C14.rst:1399 ../../C14.rst:1691
 #: ../../C14.rst:1723 ../../C14.rst:1767 ../../C14.rst:1797
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../C14.rst:1084
 msgid ""
@@ -3692,7 +3692,7 @@ msgstr ""
 #: ../../C14.rst:1301 ../../C14.rst:1575 ../../C14.rst:1585 ../../C14.rst:1605
 #: ../../C14.rst:1737
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../C14.rst:1308
 msgid ""
@@ -3704,7 +3704,7 @@ msgstr ""
 #: ../../C14.rst:1305 ../../C14.rst:1535
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C14.rst:1307
 msgid "|mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards."
@@ -3873,7 +3873,7 @@ msgstr ""
 
 #: ../../C14.rst:1373 ../../C14.rst:1633 ../../C14.rst:1643 ../../C14.rst:1759
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../C14.rst:1380
 msgid ""
@@ -4016,7 +4016,7 @@ msgstr ""
 #: ../../C14.rst:1427 ../../C14.rst:1491 ../../C14.rst:1553 ../../C14.rst:1563
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C14.rst:1434
 msgid ""
@@ -4170,7 +4170,7 @@ msgstr ""
 
 #: ../../C14.rst:1487 ../../C14.rst:1715 ../../C14.rst:1751
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../C14.rst:1492
 msgid ""
@@ -4433,7 +4433,7 @@ msgstr ""
 #: ../../C14.rst:1599
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_u|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C14.rst:1608
 msgid ""
@@ -4493,7 +4493,7 @@ msgstr ""
 #: ../../C14.rst:1627
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C14.rst:1636
 msgid ""
@@ -4547,7 +4547,7 @@ msgstr ""
 #: ../../C14.rst:1651
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C14.rst:1656
 msgid ""
@@ -4661,7 +4661,7 @@ msgstr ""
 #: ../../C14.rst:1701
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_g|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C14.rst:1710
 msgid ""
@@ -4682,7 +4682,7 @@ msgstr ""
 #: ../../C14.rst:1709
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C14.rst:1718
 msgid ""
@@ -4873,7 +4873,7 @@ msgstr ""
 
 #: ../../C14.rst:1809
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../C14.rst:1814
 msgid ""
@@ -4883,7 +4883,7 @@ msgstr ""
 
 #: ../../C14.rst:1813
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../C14.rst:1818
 msgid ""
@@ -4893,7 +4893,7 @@ msgstr ""
 
 #: ../../C14.rst:1817
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../C14.rst:1822
 msgid ""
@@ -4903,7 +4903,7 @@ msgstr ""
 
 #: ../../C14.rst:1821
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../C14.rst:1825
 msgid ""
@@ -4913,7 +4913,7 @@ msgstr ""
 
 #: ../../C14.rst:1825
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #, fuzzy
 #~ msgid "Angel of the Dire Hour"

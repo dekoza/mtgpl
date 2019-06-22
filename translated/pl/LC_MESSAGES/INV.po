@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-22 16:45+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/inv/pl/>\n"
 "Language: pl\n"
@@ -2841,7 +2841,7 @@ msgstr ""
 
 #: ../../INV.rst:1085
 msgid "|mana_1|\\ |mana_g|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Weź jedną manę dowolnego koloru."
 
 #: ../../INV.rst:1094
 msgid ""
@@ -2886,7 +2886,7 @@ msgstr ""
 
 #: ../../INV.rst:1103 ../../INV.rst:1761
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../INV.rst:1105
 msgid "|tap|: Add one mana of the chosen color."
@@ -3081,7 +3081,7 @@ msgstr ""
 
 #: ../../INV.rst:1181 ../../INV.rst:1633
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../INV.rst:1190
 msgid ""
@@ -4188,7 +4188,7 @@ msgstr ""
 
 #: ../../INV.rst:1603 ../../INV.rst:1769
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../INV.rst:1608
 msgid ""
@@ -4238,7 +4238,7 @@ msgstr ""
 
 #: ../../INV.rst:1619 ../../INV.rst:1741
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../INV.rst:1624
 msgid ""
@@ -4341,7 +4341,7 @@ msgstr ""
 
 #: ../../INV.rst:1657 ../../INV.rst:1707
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../INV.rst:1662
 msgid ""
@@ -4377,7 +4377,7 @@ msgstr ""
 
 #: ../../INV.rst:1669 ../../INV.rst:1713
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../INV.rst:1674
 msgid ""
@@ -4399,7 +4399,7 @@ msgstr ""
 
 #: ../../INV.rst:1677 ../../INV.rst:1747
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../INV.rst:1684
 msgid ""
@@ -4442,7 +4442,7 @@ msgstr ""
 
 #: ../../INV.rst:1693
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../INV.rst:1695
 msgid "|tap|, Sacrifice Ancient Spring: Add |mana_w|\\ |mana_b|."
@@ -4457,7 +4457,7 @@ msgstr ""
 
 #: ../../INV.rst:1699 ../../INV.rst:1733
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../INV.rst:1701
 msgid "|tap|, Sacrifice Archaeological Dig: Add one mana of any color."
@@ -4498,7 +4498,7 @@ msgstr ""
 
 #: ../../INV.rst:1719
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../INV.rst:1721
 msgid "|tap|, Sacrifice Geothermal Crevice: Add |mana_b|\\ |mana_g|."
@@ -4517,7 +4517,7 @@ msgstr ""
 
 #: ../../INV.rst:1727
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../INV.rst:1729
 msgid "|tap|, Sacrifice Irrigation Ditch: Add |mana_g|\\ |mana_u|."
@@ -4571,7 +4571,7 @@ msgstr ""
 
 #: ../../INV.rst:1753
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../INV.rst:1755
 msgid "|tap|, Sacrifice Sulfur Vent: Add |mana_u|\\ |mana_r|."
@@ -4609,7 +4609,7 @@ msgstr ""
 
 #: ../../INV.rst:1773
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../INV.rst:1778
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/inv/335.jpg?1517813031|https://scryfall.com/card/inv/335/island?utm_source=api>`"
@@ -4617,7 +4617,7 @@ msgstr ""
 
 #: ../../INV.rst:1777
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../INV.rst:1782
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/inv/339.jpg?1517813031|https://scryfall.com/card/inv/339/swamp?utm_source=api>`"
@@ -4625,7 +4625,7 @@ msgstr ""
 
 #: ../../INV.rst:1781
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../INV.rst:1786
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/inv/343.jpg?1517813031|https://scryfall.com/card/inv/343/mountain?utm_source=api>`"
@@ -4633,7 +4633,7 @@ msgstr ""
 
 #: ../../INV.rst:1785
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../INV.rst:1789
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/inv/347.jpg?1517813031|https://scryfall.com/card/inv/347/forest?utm_source=api>`"
@@ -4641,4 +4641,4 @@ msgstr ""
 
 #: ../../INV.rst:1789
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"

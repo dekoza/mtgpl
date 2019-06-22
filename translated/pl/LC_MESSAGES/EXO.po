@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-08 21:47+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/exo/pl/>\n"
 "Language: pl\n"
@@ -1910,5 +1910,6 @@ msgid "When you play another land, sacrifice City of Traitors."
 msgstr ""
 
 #: ../../EXO.rst:705
+#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."

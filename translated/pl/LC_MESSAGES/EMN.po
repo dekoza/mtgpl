@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/emn/pl/>\n"
 "Language: pl\n"
@@ -992,8 +992,7 @@ msgid ""
 "|tap|: Add |colorless|. Spend this mana only to cast an instant or sorcery "
 "spell."
 msgstr ""
-"|tap|: Dostajesz |colorless|. Wydaj tę manę tylko na rzucenie sztuczki lub "
-"obrzędu."
+"|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucenie sztuczki lub obrzędu."
 
 #: ../../EMN.rst:339
 msgid ""
@@ -2928,7 +2927,7 @@ msgstr ""
 
 #: ../../EMN.rst:1073
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../EMN.rst:1075
 msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Transform Ulvenwald Captive."
@@ -2944,7 +2943,7 @@ msgstr ""
 #: ../../EMN.rst:1079
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../EMN.rst:1084
 msgid ""
@@ -2983,6 +2982,7 @@ msgid ""
 "When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf creature "
 "token."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../EMN.rst:1100
 msgid ""
@@ -3414,7 +3414,7 @@ msgstr ""
 
 #: ../../EMN.rst:1259 ../../EMN.rst:1265 ../../EMN.rst:1275
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../EMN.rst:1261
 msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."

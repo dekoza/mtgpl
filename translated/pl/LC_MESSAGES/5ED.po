@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/5ed/pl/>\n"
 "Language: pl\n"
@@ -3528,7 +3528,7 @@ msgstr ""
 
 #: ../../5ED.rst:1413 ../../5ED.rst:2035
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../5ED.rst:1422
 msgid ":mtgtip:`Carapace<https://img.scryfall.com/cards/border_crop/en/5ed/281.jpg?1517813031|https://scryfall.com/card/5ed/281/carapace?utm_source=api>`"
@@ -3709,8 +3709,9 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:1493
+#, fuzzy
 msgid "|tap|: Add |mana_g|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../5ED.rst:1498
 msgid ""
@@ -3892,7 +3893,7 @@ msgstr ""
 
 #: ../../5ED.rst:1567 ../../5ED.rst:2067
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../5ED.rst:1574
 msgid ":mtgtip:`Lure<https://img.scryfall.com/cards/border_crop/en/5ed/314.jpg?1517813031|https://scryfall.com/card/5ed/314/lure?utm_source=api>`"
@@ -4828,8 +4829,9 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:1911
+#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../5ED.rst:1916
 msgid ":mtgtip:`Meekstone<https://img.scryfall.com/cards/border_crop/en/5ed/389.jpg?1517813031|https://scryfall.com/card/5ed/389/meekstone?utm_source=api>`"
@@ -5117,7 +5119,7 @@ msgstr ""
 #: ../../5ED.rst:2011 ../../5ED.rst:2027 ../../5ED.rst:2099 ../../5ED.rst:2123
 #: ../../5ED.rst:2137
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../5ED.rst:2013
 msgid "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
@@ -5209,7 +5211,7 @@ msgstr ""
 
 #: ../../5ED.rst:2051
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../5ED.rst:2053
 msgid "|tap|, Sacrifice Dwarven Ruins: Add |mana_r|\\ |mana_r|."
@@ -5228,7 +5230,7 @@ msgstr ""
 
 #: ../../5ED.rst:2059
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../5ED.rst:2061
 msgid "|tap|, Sacrifice Ebon Stronghold: Add |mana_b|\\ |mana_b|."
@@ -5345,7 +5347,7 @@ msgstr ""
 
 #: ../../5ED.rst:2107
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../5ED.rst:2109
 msgid "|tap|, Sacrifice Ruins of Trokair: Add |mana_w|\\ |mana_w|."
@@ -5402,7 +5404,7 @@ msgstr ""
 
 #: ../../5ED.rst:2131
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../5ED.rst:2133
 msgid "|tap|, Sacrifice Svyelunite Temple: Add |mana_u|\\ |mana_u|."
@@ -5464,7 +5466,7 @@ msgstr ""
 
 #: ../../5ED.rst:2155
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../5ED.rst:2160
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/5ed/434.jpg?1517813031|https://scryfall.com/card/5ed/434/island?utm_source=api>`"
@@ -5472,7 +5474,7 @@ msgstr ""
 
 #: ../../5ED.rst:2159
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../5ED.rst:2164
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/5ed/438.jpg?1517813031|https://scryfall.com/card/5ed/438/swamp?utm_source=api>`"
@@ -5480,7 +5482,7 @@ msgstr ""
 
 #: ../../5ED.rst:2163
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../5ED.rst:2168
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/5ed/442.jpg?1517813031|https://scryfall.com/card/5ed/442/mountain?utm_source=api>`"
@@ -5488,7 +5490,7 @@ msgstr ""
 
 #: ../../5ED.rst:2167
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../5ED.rst:2171
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/5ed/446.jpg?1517813031|https://scryfall.com/card/5ed/446/forest?utm_source=api>`"
@@ -5496,4 +5498,4 @@ msgstr ""
 
 #: ../../5ED.rst:2171
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"

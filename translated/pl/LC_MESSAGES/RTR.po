@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-04-13 00:21+0000\n"
+"PO-Revision-Date: 2019-06-22 22:05+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -3377,8 +3377,8 @@ msgstr ""
 msgid ""
 "|tap|: Exile target land card from a graveyard. Add one mana of any color."
 msgstr ""
-"|tap|: Wygnaj wskazaną kartę lądu z cmentarza. Dostajesz jedną manę "
-"dowolnego koloru."
+"|tap|: Wygnaj wskazaną kartę lądu z cmentarza. Weź jedną manę dowolnego "
+"koloru."
 
 #: ../../RTR.rst:1127
 msgid ""
@@ -3534,7 +3534,7 @@ msgstr ""
 
 #: ../../RTR.rst:1179 ../../RTR.rst:1257
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../RTR.rst:1181
 #, fuzzy
@@ -3555,12 +3555,11 @@ msgstr ""
 #: ../../RTR.rst:1185
 msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
-"Lądy pod twoim władaniem mają \"|tap|: Dostajesz jedną manę dowolnego koloru."
-"\""
+"Lądy pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../RTR.rst:1187 ../../RTR.rst:1331
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../RTR.rst:1194
 msgid ""
@@ -3608,7 +3607,7 @@ msgstr ""
 
 #: ../../RTR.rst:1203 ../../RTR.rst:1269
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../RTR.rst:1205
 #, fuzzy
@@ -3628,7 +3627,7 @@ msgstr ""
 
 #: ../../RTR.rst:1209 ../../RTR.rst:1287
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../RTR.rst:1211
 #, fuzzy
@@ -3676,7 +3675,7 @@ msgstr ""
 
 #: ../../RTR.rst:1223 ../../RTR.rst:1299
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../RTR.rst:1225
 #, fuzzy
@@ -3696,7 +3695,7 @@ msgstr ""
 
 #: ../../RTR.rst:1229 ../../RTR.rst:1311
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../RTR.rst:1231
 #, fuzzy
@@ -3787,7 +3786,7 @@ msgstr ""
 
 #: ../../RTR.rst:1261
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_b| lub |mana_r|.)"
+msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../RTR.rst:1263
 #, fuzzy
@@ -3818,7 +3817,7 @@ msgstr ""
 
 #: ../../RTR.rst:1273 ../../RTR.rst:1303
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../RTR.rst:1275
 msgid ""
@@ -3839,7 +3838,7 @@ msgstr ""
 
 #: ../../RTR.rst:1279
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
+msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../RTR.rst:1281
 #, fuzzy
@@ -3870,7 +3869,7 @@ msgstr ""
 
 #: ../../RTR.rst:1291
 msgid "(|tap|: Add |mana_b| or |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_b| lub |mana_g|.)"
+msgstr "(|tap|: Weź |mana_b| lub |mana_g|.)"
 
 #: ../../RTR.rst:1293
 #, fuzzy
@@ -3922,7 +3921,7 @@ msgstr ""
 
 #: ../../RTR.rst:1315
 msgid "(|tap|: Add |mana_u| or |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_r|.)"
+msgstr "(|tap|: Weź |mana_u| lub |mana_r|.)"
 
 #: ../../RTR.rst:1317
 #, fuzzy
@@ -3942,7 +3941,7 @@ msgstr ""
 
 #: ../../RTR.rst:1321
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
+msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../RTR.rst:1323
 #, fuzzy
@@ -3979,7 +3978,7 @@ msgstr ""
 
 #: ../../RTR.rst:1335
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../RTR.rst:1340
 msgid ""
@@ -3989,7 +3988,7 @@ msgstr ""
 
 #: ../../RTR.rst:1339
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../RTR.rst:1344
 msgid ""
@@ -3999,7 +3998,7 @@ msgstr ""
 
 #: ../../RTR.rst:1343
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../RTR.rst:1348
 msgid ""
@@ -4009,7 +4008,7 @@ msgstr ""
 
 #: ../../RTR.rst:1347
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../RTR.rst:1351
 msgid ""
@@ -4019,7 +4018,7 @@ msgstr ""
 
 #: ../../RTR.rst:1351
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #~ msgid "Choose one — Creatures you control gain lifelink until end of turn"
 #~ msgstr ""

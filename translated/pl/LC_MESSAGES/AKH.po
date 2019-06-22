@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-08 21:47+0000\n"
+"PO-Revision-Date: 2019-06-22 22:03+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -2781,8 +2781,8 @@ msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 #: ../../AKH.rst:913
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
 msgstr ""
-"Zauroczony ląd ma zdolność \"|tap|: Dostajesz dwie many w dowolnym jednym "
-"kolorze.\""
+"Zauroczony ląd ma zdolność \"|tap|: Weź dwie many w dowolnym jednym kolorze."
+"\""
 
 #: ../../AKH.rst:920
 msgid ""
@@ -3450,7 +3450,7 @@ msgstr ""
 #: ../../AKH.rst:1141
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../AKH.rst:1146
 msgid ""
@@ -4073,7 +4073,7 @@ msgstr ""
 
 #: ../../AKH.rst:1377
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_b| lub |mana_r|.)"
+msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../AKH.rst:1379
 msgid "Canyon Slough enters the battlefield tapped."
@@ -4093,7 +4093,7 @@ msgstr "Niezniszczalność"
 #: ../../AKH.rst:1387 ../../AKH.rst:1393 ../../AKH.rst:1411 ../../AKH.rst:1425
 #: ../../AKH.rst:1449
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../AKH.rst:1389
 msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
@@ -4136,7 +4136,7 @@ msgstr ""
 
 #: ../../AKH.rst:1403
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
+msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../AKH.rst:1405
 msgid "Fetid Pools enters the battlefield tapped."
@@ -4164,7 +4164,7 @@ msgstr ""
 
 #: ../../AKH.rst:1417
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
+msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../AKH.rst:1419
 msgid "Irrigated Farmland enters the battlefield tapped."
@@ -4179,7 +4179,7 @@ msgstr ""
 
 #: ../../AKH.rst:1427
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../AKH.rst:1436
 msgid ""
@@ -4190,7 +4190,7 @@ msgstr ""
 
 #: ../../AKH.rst:1431
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
+msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../AKH.rst:1433
 msgid "Scattered Groves enters the battlefield tapped."
@@ -4205,7 +4205,7 @@ msgstr ""
 
 #: ../../AKH.rst:1439
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_r| lub |mana_g|.)"
+msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../AKH.rst:1441
 msgid "Sheltered Thicket enters the battlefield tapped."
@@ -4233,7 +4233,7 @@ msgstr ""
 
 #: ../../AKH.rst:1453
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../AKH.rst:1458
 msgid ""
@@ -4244,7 +4244,7 @@ msgstr ""
 
 #: ../../AKH.rst:1457
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../AKH.rst:1462
 msgid ""
@@ -4255,7 +4255,7 @@ msgstr ""
 
 #: ../../AKH.rst:1461
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../AKH.rst:1466
 msgid ""
@@ -4266,7 +4266,7 @@ msgstr ""
 
 #: ../../AKH.rst:1465
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../AKH.rst:1470
 msgid ""
@@ -4277,7 +4277,7 @@ msgstr ""
 
 #: ../../AKH.rst:1469
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../AKH.rst:1478
 msgid ""
@@ -4360,7 +4360,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1499
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../AKH.rst:1508
 msgid ""
@@ -4432,7 +4432,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1525
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../AKH.rst:1532
 msgid ""
@@ -4447,7 +4447,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1531
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../AKH.rst:1538
 msgid ""
@@ -4462,7 +4462,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1537
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../AKH.rst:1544
 msgid ""
@@ -4477,7 +4477,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1543
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../AKH.rst:1550
 msgid ""
@@ -4492,7 +4492,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1549
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../AKH.rst:1556
 msgid ""
@@ -4507,7 +4507,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1555
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../AKH.rst:1562
 msgid ""
@@ -4522,7 +4522,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1561
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../AKH.rst:1568
 msgid ""
@@ -4537,7 +4537,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1567
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../AKH.rst:1573
 msgid ""
@@ -4552,7 +4552,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1573
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #~ msgid "Cancel"
 #~ msgstr "Cancel"

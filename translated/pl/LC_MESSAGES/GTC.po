@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-30 10:52+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -3881,7 +3881,7 @@ msgstr ""
 # 039bc15b180c4a04bb01b657ce4c4c1b
 #: ../../GTC.rst:1197 ../../GTC.rst:1267
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 # 8e33418d001b4ceea85ef29d599598e7
 #: ../../GTC.rst:1199
@@ -3905,7 +3905,7 @@ msgstr ""
 # ce2f83c9691f4a0283fca8f6bf8805e3
 #: ../../GTC.rst:1203 ../../GTC.rst:1279
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 # b72a64c0b4ac4eddb1c0154c72e863ea
 #: ../../GTC.rst:1205
@@ -3954,7 +3954,7 @@ msgstr ""
 # c1bd5c73a17d4a2ab588b9b51d21fc56
 #: ../../GTC.rst:1215 ../../GTC.rst:1291
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 # 049e9fc991f74b4ba65987c50f1bac32
 #: ../../GTC.rst:1217
@@ -4007,7 +4007,7 @@ msgstr ""
 # ecb704438be442ba9e6cace881da355c
 #: ../../GTC.rst:1231 ../../GTC.rst:1297
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 # 8c874187c5d6426cba5513f7944db00a
 #: ../../GTC.rst:1233
@@ -4034,7 +4034,7 @@ msgstr "Kiedy Prophetic Prism wchodzi na pole walki, dobierz kartę."
 # 3133e8ee159b4d3baf96351c170914f4
 #: ../../GTC.rst:1239
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../GTC.rst:1244
 msgid ""
@@ -4083,7 +4083,7 @@ msgstr ""
 # 33dd5725685d4e989fdd39824b81df5b
 #: ../../GTC.rst:1253 ../../GTC.rst:1309
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 # 7d404c5e513144c1b4e6f1424d784739
 #: ../../GTC.rst:1255
@@ -4143,7 +4143,7 @@ msgstr ""
 # 911f6277850f4d29a090a08d14d48a5d
 #: ../../GTC.rst:1271
 msgid "(|tap|: Add |mana_g| or |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_g| lub |mana_u|.)"
+msgstr "(|tap|: Weź |mana_g| lub |mana_u|.)"
 
 # 1005acd2a66f4bfea05158329b3a0af0
 #: ../../GTC.rst:1273
@@ -4176,7 +4176,7 @@ msgstr ""
 # 16accc0a34814dea89f73329b1727669
 #: ../../GTC.rst:1283
 msgid "(|tap|: Add |mana_w| or |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_w| lub |mana_b|.)"
+msgstr "(|tap|: Weź |mana_w| lub |mana_b|.)"
 
 # 95cff7ee0262439e8862ecd670c7551e
 #: ../../GTC.rst:1285
@@ -4221,7 +4221,7 @@ msgstr ""
 # 229c63430fcb4c87a73179a1d09088a4
 #: ../../GTC.rst:1301
 msgid "(|tap|: Add |mana_r| or |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_r| lub |mana_w|.)"
+msgstr "(|tap|: Weź |mana_r| lub |mana_w|.)"
 
 # 295e2ebe1d7540e1adb870a86fa679e9
 #: ../../GTC.rst:1303
@@ -4255,7 +4255,7 @@ msgstr ""
 # 038d396e9a494a40aa049c08cac8de98
 #: ../../GTC.rst:1313
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_r| lub |mana_g|.)"
+msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 # 9589fa564bef4f7387075b23dccd0b43
 #: ../../GTC.rst:1315
@@ -4275,7 +4275,7 @@ msgstr ""
 
 #: ../../GTC.rst:1319
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 # 9259671adf2f45d0a5b9b5be9f054817
 #: ../../GTC.rst:1321
@@ -4297,7 +4297,7 @@ msgstr ""
 # cdf762e140a04a50ab34a79f958e5903
 #: ../../GTC.rst:1325
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
+msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 # ba0fa5df0cb1461dbf5fd52a2ddca2c6
 #: ../../GTC.rst:1327

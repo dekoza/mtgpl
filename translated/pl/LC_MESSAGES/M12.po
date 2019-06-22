@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2019-06-22 16:45+0000\n"
+"PO-Revision-Date: 2019-06-22 22:05+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m12/pl/>\n"
 "Language: pl\n"
@@ -2110,7 +2110,7 @@ msgstr ""
 
 #: ../../M12.rst:817 ../../M12.rst:1051
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../M12.rst:822
 msgid ""
@@ -2319,7 +2319,7 @@ msgstr ""
 
 #: ../../M12.rst:899
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../M12.rst:906
 msgid ":mtgtip:`Lure<https://img.scryfall.com/cards/border_crop/en/m12/183.jpg?1517813031|https://scryfall.com/card/m12/183/lure?utm_source=api>`"
@@ -2844,7 +2844,7 @@ msgstr ""
 
 #: ../../M12.rst:1109
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../M12.rst:1111
 msgid ""
@@ -2867,7 +2867,7 @@ msgstr ""
 
 #: ../../M12.rst:1117
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../M12.rst:1124
 msgid ""
@@ -2884,7 +2884,7 @@ msgstr ""
 
 #: ../../M12.rst:1123
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../M12.rst:1130
 msgid ""
@@ -2901,7 +2901,7 @@ msgstr ""
 
 #: ../../M12.rst:1129
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../M12.rst:1136
 msgid ""
@@ -2918,7 +2918,7 @@ msgstr ""
 
 #: ../../M12.rst:1135
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../M12.rst:1142
 msgid ""
@@ -2935,7 +2935,7 @@ msgstr ""
 
 #: ../../M12.rst:1141
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../M12.rst:1146
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/m12/230.jpg?1517813031|https://scryfall.com/card/m12/230/plains?utm_source=api>`"
@@ -2943,7 +2943,7 @@ msgstr ""
 
 #: ../../M12.rst:1145
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../M12.rst:1150
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/m12/234.jpg?1517813031|https://scryfall.com/card/m12/234/island?utm_source=api>`"
@@ -2951,7 +2951,7 @@ msgstr ""
 
 #: ../../M12.rst:1149
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../M12.rst:1154
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/m12/238.jpg?1517813031|https://scryfall.com/card/m12/238/swamp?utm_source=api>`"
@@ -2959,7 +2959,7 @@ msgstr ""
 
 #: ../../M12.rst:1153
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../M12.rst:1158
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/m12/242.jpg?1517813031|https://scryfall.com/card/m12/242/mountain?utm_source=api>`"
@@ -2967,7 +2967,7 @@ msgstr ""
 
 #: ../../M12.rst:1157
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../M12.rst:1161
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/m12/246.jpg?1517813031|https://scryfall.com/card/m12/246/forest?utm_source=api>`"
@@ -2975,4 +2975,4 @@ msgstr ""
 
 #: ../../M12.rst:1161
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"

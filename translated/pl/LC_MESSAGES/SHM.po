@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-06-22 11:56+0000\n"
+"PO-Revision-Date: 2019-06-22 22:05+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/shm/pl/>\n"
 "Language: pl\n"
@@ -1536,7 +1536,7 @@ msgstr ""
 
 #: ../../SHM.rst:575
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../SHM.rst:577
 msgid "Put a -1/-1 counter on Devoted Druid: Untap Devoted Druid."
@@ -3542,13 +3542,15 @@ msgstr ""
 
 #: ../../SHM.rst:1371
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../SHM.rst:1373
 msgid ""
 "|tap|: Target creature becomes the color or colors of your choice until "
 "end of turn."
 msgstr ""
+"|tap|: Wskazany stwór staje się do końca tury wybranego przez ciebie koloru "
+"lub kolorów."
 
 #: ../../SHM.rst:1380
 msgid ":mtgtip:`Tatterkite<https://img.scryfall.com/cards/border_crop/en/shm/264.jpg?1517813031|https://scryfall.com/card/shm/264/tatterkite?utm_source=api>`"
@@ -3664,7 +3666,7 @@ msgstr ""
 #: ../../SHM.rst:1415 ../../SHM.rst:1421 ../../SHM.rst:1459 ../../SHM.rst:1477
 #: ../../SHM.rst:1483
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../SHM.rst:1417
 msgid ""
@@ -3684,8 +3686,8 @@ msgid ""
 "|mana_br|, |tap|: Add |mana_b|\\ |mana_b|, |mana_b|\\ |mana_r|, or "
 "|mana_r|\\ |mana_r|."
 msgstr ""
-"|mana_br|, |tap|: Dostajesz |mana_b|\\ |mana_b|, |mana_b|\\ |mana_r| albo "
-"|mana_r|\\ |mana_r|."
+"|mana_br|, |tap|: Weź |mana_b|\\ |mana_b|, |mana_b|\\ |mana_r| albo |mana_r|"
+"\\ |mana_r|."
 
 #: ../../SHM.rst:1432
 msgid ""
@@ -3696,7 +3698,7 @@ msgstr ""
 
 #: ../../SHM.rst:1427 ../../SHM.rst:1497
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../SHM.rst:1429
 msgid "Leechridden Swamp enters the battlefield tapped."
@@ -3717,7 +3719,7 @@ msgstr ""
 
 #: ../../SHM.rst:1435 ../../SHM.rst:1501
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../SHM.rst:1437
 msgid "Madblind Mountain enters the battlefield tapped."
@@ -3738,7 +3740,7 @@ msgstr ""
 
 #: ../../SHM.rst:1443 ../../SHM.rst:1489
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../SHM.rst:1445
 msgid "Mistveil Plains enters the battlefield tapped."
@@ -3760,7 +3762,7 @@ msgstr ""
 
 #: ../../SHM.rst:1451 ../../SHM.rst:1493
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../SHM.rst:1453
 msgid "Moonring Island enters the battlefield tapped."
@@ -3805,7 +3807,7 @@ msgstr ""
 
 #: ../../SHM.rst:1469 ../../SHM.rst:1505
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../SHM.rst:1471
 msgid "Sapseep Forest enters the battlefield tapped."

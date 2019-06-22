@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ema/pl/>\n"
 "Language: pl\n"
@@ -1139,7 +1139,7 @@ msgstr ""
 
 #: ../../EMA.rst:427
 msgid "|tap|, Pay 1 life: Add |mana_g|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Weź |mana_g|."
 
 #: ../../EMA.rst:432
 msgid ""
@@ -2196,7 +2196,7 @@ msgstr ""
 
 #: ../../EMA.rst:825
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../EMA.rst:832
 msgid ""
@@ -2442,7 +2442,7 @@ msgstr ""
 
 #: ../../EMA.rst:923 ../../EMA.rst:1009
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../EMA.rst:928
 msgid ""
@@ -2901,7 +2901,7 @@ msgstr ""
 
 #: ../../EMA.rst:1101
 msgid "Other creatures you control with flying get +1/+1."
-msgstr ""
+msgstr "Inne stwory z lataniem pod twoim władaniem dostają +1/+1."
 
 #: ../../EMA.rst:1108
 msgid ""
@@ -2984,8 +2984,8 @@ msgstr ""
 #: ../../EMA.rst:1135
 msgid "|tap|: Exile target land card from a graveyard. Add one mana of any color."
 msgstr ""
-"|tap|: Wygnaj wskazaną kartę lądu z cmentarza. Dostajesz jedną manę "
-"dowolnego koloru."
+"|tap|: Wygnaj wskazaną kartę lądu z cmentarza. Weź jedną manę dowolnego "
+"koloru."
 
 #: ../../EMA.rst:1137
 msgid ""
@@ -3152,8 +3152,9 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:1191 ../../EMA.rst:1249
+#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../EMA.rst:1196
 msgid ":mtgtip:`Millikin<https://img.scryfall.com/cards/border_crop/en/ema/226.jpg?1519049173|https://scryfall.com/card/ema/226/millikin?utm_source=api>`"
@@ -3225,11 +3226,11 @@ msgstr ""
 
 #: ../../EMA.rst:1219 ../../EMA.rst:1295 ../../EMA.rst:1343
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../EMA.rst:1221
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../EMA.rst:1228
 msgid ""
@@ -3326,7 +3327,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1257
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../EMA.rst:1266
 msgid ""
@@ -3345,7 +3346,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1265
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../EMA.rst:1274
 msgid ""
@@ -3364,7 +3365,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1273
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../EMA.rst:1282
 msgid ""
@@ -3383,7 +3384,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1281
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../EMA.rst:1288
 msgid ":mtgtip:`Karakas<https://img.scryfall.com/cards/border_crop/en/ema/240.jpg?1519049251|https://scryfall.com/card/ema/240/karakas?utm_source=api>`"
@@ -3391,7 +3392,7 @@ msgstr ""
 
 #: ../../EMA.rst:1285
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../EMA.rst:1287
 msgid "|tap|: Return target legendary creature to its owner's hand."
@@ -3444,7 +3445,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1307
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../EMA.rst:1316
 msgid ""
@@ -3463,7 +3464,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1315
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../EMA.rst:1324
 msgid ""
@@ -3482,7 +3483,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1323
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../EMA.rst:1332
 msgid ""
@@ -3501,7 +3502,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1331
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../EMA.rst:1340
 msgid ""
@@ -3520,7 +3521,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1339
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../EMA.rst:1346
 msgid ":mtgtip:`Wasteland<https://img.scryfall.com/cards/border_crop/en/ema/248.jpg?1519049297|https://scryfall.com/card/ema/248/wasteland?utm_source=api>`"
@@ -3547,4 +3548,4 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../EMA.rst:1353
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."

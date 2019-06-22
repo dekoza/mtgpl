@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-02-09 23:19+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -1772,8 +1772,8 @@ msgid ""
 "−6: You get an emblem with \"Swamps you control have '|tap|: Add |mana_b|\\ |"
 "mana_b|\\ |mana_b|\\ |mana_b|.'\""
 msgstr ""
-"–6: Dostajesz emblemat o treści \"Bagna pod twoim władaniem mają '|tap|: "
-"Dostajesz |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|.'\""
+"–6: Dostajesz emblemat o treści \"Bagna pod twoim władaniem mają '|tap|: Weź "
+"|mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|.'\""
 
 #: ../../M14.rst:522
 msgid ""
@@ -1807,7 +1807,7 @@ msgstr ""
 # 20ad6e0a78fc4f128aa9d667bd78c8ca
 #: ../../M14.rst:525
 msgid "Destroy target creature. Add |mana_b|\\ |mana_b|\\ |mana_b|."
-msgstr "Zniszcz wskazanego stwora. Dostajesz |mana_b|\\ |mana_b|\\ |mana_b|."
+msgstr "Zniszcz wskazanego stwora. Weź |mana_b|\\ |mana_b|\\ |mana_b|."
 
 #: ../../M14.rst:532
 msgid ""
@@ -2832,7 +2832,7 @@ msgstr ""
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:839
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../M14.rst:844
 msgid ""
@@ -3096,8 +3096,8 @@ msgstr ""
 #: ../../M14.rst:911
 msgid "Sliver creatures you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
-"Drzazgacze pod twoim władaniem mają \"|tap|: Dostajesz jedną manę dowolnego "
-"koloru.\""
+"Drzazgacze pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru."
+"\""
 
 #: ../../M14.rst:916
 msgid ""
@@ -3519,7 +3519,7 @@ msgstr "Niezniszczalność"
 # 012b8bba9ae446a49e3f26d4ef913e3d
 #: ../../M14.rst:1025
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../M14.rst:1034
 msgid ""
@@ -3926,7 +3926,7 @@ msgstr ""
 
 #: ../../M14.rst:1127 ../../M14.rst:1133 ../../M14.rst:1139
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 # e0da49d1291e40cba22d7ceeccadac09
 #: ../../M14.rst:1129
@@ -3962,7 +3962,7 @@ msgstr ""
 # 27b960e90e3d490ca54e28d09106e199
 #: ../../M14.rst:1141
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../M14.rst:1146
 msgid ""
@@ -3974,7 +3974,7 @@ msgstr ""
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1145
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../M14.rst:1150
 msgid ""
@@ -3986,7 +3986,7 @@ msgstr ""
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1149
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../M14.rst:1154
 msgid ""
@@ -3998,7 +3998,7 @@ msgstr ""
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1153
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../M14.rst:1158
 msgid ""
@@ -4010,7 +4010,7 @@ msgstr ""
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1157
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../M14.rst:1161
 msgid ""
@@ -4022,7 +4022,7 @@ msgstr ""
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1161
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 # 34446830b7c949d8b59852b41945ee2c
 # 13a5a223cf9d45d19a919b30f1fc001d

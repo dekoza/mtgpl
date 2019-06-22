@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -3364,7 +3364,7 @@ msgstr ""
 
 #: ../../C17.rst:1203
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|mana_1|, |tap|: Dostajesz |mana_r|\\ |mana_w|."
+msgstr "|mana_1|, |tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../C17.rst:1210
 msgid ""
@@ -3394,7 +3394,7 @@ msgstr "Niezniszczalność"
 
 #: ../../C17.rst:1215
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../C17.rst:1224
 msgid ""
@@ -3429,7 +3429,7 @@ msgstr ""
 #: ../../C17.rst:1227
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C17.rst:1229
 msgid "|mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards."
@@ -3488,7 +3488,7 @@ msgstr ""
 #: ../../C17.rst:1249 ../../C17.rst:1311 ../../C17.rst:1365
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C17.rst:1251
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
@@ -3585,7 +3585,7 @@ msgstr ""
 #: ../../C17.rst:1287
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C17.rst:1296
 msgid ""
@@ -3614,7 +3614,7 @@ msgstr ""
 #: ../../C17.rst:1299
 #, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C17.rst:1308
 msgid ":mtgtip:`Skullclamp<https://img.scryfall.com/cards/border_crop/en/c17/222.jpg?1517813031|https://scryfall.com/card/c17/222/skullclamp?utm_source=api>`"
@@ -3721,7 +3721,7 @@ msgstr ""
 #: ../../C17.rst:1513 ../../C17.rst:1553 ../../C17.rst:1569 ../../C17.rst:1581
 #: ../../C17.rst:1593 ../../C17.rst:1633 ../../C17.rst:1639
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C17.rst:1351
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
@@ -3783,7 +3783,7 @@ msgstr ""
 #: ../../C17.rst:1373 ../../C17.rst:1393 ../../C17.rst:1429 ../../C17.rst:1629
 #: ../../C17.rst:1741
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C17.rst:1380
 msgid ""
@@ -3847,7 +3847,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 #: ../../C17.rst:1401 ../../C17.rst:1469 ../../C17.rst:1503 ../../C17.rst:1683
 #: ../../C17.rst:1697 ../../C17.rst:1727
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../C17.rst:1410
 msgid ""
@@ -3868,7 +3868,7 @@ msgstr ""
 
 #: ../../C17.rst:1409 ../../C17.rst:1771
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../C17.rst:1418
 msgid ""
@@ -3891,7 +3891,7 @@ msgstr ""
 
 #: ../../C17.rst:1417
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r|\\ |mana_w|."
+msgstr "|tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../C17.rst:1424
 msgid ""
@@ -3906,7 +3906,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1423 ../../C17.rst:1705 ../../C17.rst:1789
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../C17.rst:1430
 msgid ""
@@ -3943,7 +3943,7 @@ msgid ""
 "X mana in any combination of colors. Spend this mana only to cast Dragon "
 "spells or activate abilities of Dragons."
 msgstr ""
-"|tap|, usuń X znaczników magazynu z tego lądu: Dostajesz X many w dowolnej "
+"|tap|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
 "kombinacji kolorów. Użyj tej many tylko do rzucania czarów Smoków lub "
 "aktywowania zdolności Smoków."
 
@@ -3960,7 +3960,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1447
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|, |mana_b|, lub |mana_r|."
+msgstr "|tap|: Weź |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../C17.rst:1456
 msgid ""
@@ -3983,7 +3983,7 @@ msgstr ""
 
 #: ../../C17.rst:1455
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u|\\ |mana_b|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../C17.rst:1464
 msgid ""
@@ -4002,7 +4002,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1463 ../../C17.rst:1539
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../C17.rst:1470
 msgid ""
@@ -4050,7 +4050,7 @@ msgstr ""
 
 #: ../../C17.rst:1483 ../../C17.rst:1615 ../../C17.rst:1663
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../C17.rst:1490
 msgid ""
@@ -4151,7 +4151,7 @@ msgstr ""
 
 #: ../../C17.rst:1525
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u|\\ |mana_r|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../C17.rst:1532
 msgid ""
@@ -4166,7 +4166,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1531
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r|, |mana_g|, albo |mana_w|."
+msgstr "|tap|: Weź |mana_r|, |mana_g|, albo |mana_w|."
 
 #: ../../C17.rst:1540
 msgid ""
@@ -4200,7 +4200,7 @@ msgstr ""
 
 #: ../../C17.rst:1547 ../../C17.rst:1675 ../../C17.rst:1779
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../C17.rst:1556
 msgid ""
@@ -4236,7 +4236,7 @@ msgstr ""
 
 #: ../../C17.rst:1561 ../../C17.rst:1733 ../../C17.rst:1763
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../C17.rst:1563
 msgid ""
@@ -4356,7 +4356,7 @@ msgstr ""
 #: ../../C17.rst:1609
 #, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../C17.rst:1616
 msgid ""
@@ -4389,7 +4389,7 @@ msgstr ""
 #: ../../C17.rst:1623
 #, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../C17.rst:1630
 msgid ""
@@ -4537,7 +4537,7 @@ msgstr ""
 
 #: ../../C17.rst:1691
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g|\\ |mana_w|."
+msgstr "|tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../C17.rst:1700
 msgid ""
@@ -4585,7 +4585,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
 
 #: ../../C17.rst:1713
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../C17.rst:1718
 msgid ""
@@ -4663,7 +4663,7 @@ msgstr ""
 
 #: ../../C17.rst:1747
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../C17.rst:1749
 msgid "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
@@ -4682,7 +4682,7 @@ msgstr ""
 
 #: ../../C17.rst:1755
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../C17.rst:1757
 msgid ""
@@ -4762,7 +4762,7 @@ msgstr ""
 
 #: ../../C17.rst:1793
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../C17.rst:1798
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/c17/298.jpg?1517813031|https://scryfall.com/card/c17/298/island?utm_source=api>`"
@@ -4770,7 +4770,7 @@ msgstr ""
 
 #: ../../C17.rst:1797
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../C17.rst:1802
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/c17/301.jpg?1517813031|https://scryfall.com/card/c17/301/swamp?utm_source=api>`"
@@ -4778,7 +4778,7 @@ msgstr ""
 
 #: ../../C17.rst:1801
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../C17.rst:1806
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/c17/304.jpg?1517813031|https://scryfall.com/card/c17/304/mountain?utm_source=api>`"
@@ -4786,7 +4786,7 @@ msgstr ""
 
 #: ../../C17.rst:1805
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../C17.rst:1809
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/c17/307.jpg?1517813031|https://scryfall.com/card/c17/307/forest?utm_source=api>`"
@@ -4794,7 +4794,7 @@ msgstr ""
 
 #: ../../C17.rst:1809
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #~ msgid "Commander 2017"
 #~ msgstr ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-06-22 22:03+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -379,7 +379,7 @@ msgstr "(Transformuje z Legion's Landing.)"
 
 #: ../../XLN.rst:125
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../XLN.rst:127
 msgid ""
@@ -815,7 +815,7 @@ msgid ""
 msgstr ""
 "Przywróć wskazanego stwora do ręki jego właściciela. Stwórz żeton "
 "bezkolorowego artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: "
-"Dostajesz jedną manę dowolnego koloru.\""
+"Weź jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:268
 msgid ""
@@ -1062,7 +1062,7 @@ msgid ""
 "Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 "Dobierz dwie karty. Stwórz żeton bezkolorowego artefaktu Skarb ze zdolnością "
-"\"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego koloru.\""
+"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:350
 msgid ""
@@ -1078,8 +1078,8 @@ msgid ""
 "of any color.\""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
-"manę dowolnego koloru.\""
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:356
 msgid ""
@@ -1138,8 +1138,8 @@ msgid ""
 "color.\""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę "
-"dowolnego koloru.\""
+"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\""
 
 #: ../../XLN.rst:372
 msgid ""
@@ -1171,7 +1171,7 @@ msgstr "(Transformuje się z Search for Azcanta.)"
 
 #: ../../XLN.rst:377
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../XLN.rst:379
 msgid ""
@@ -1296,7 +1296,7 @@ msgid ""
 msgstr ""
 "Skontruj wskazany czar. Stwórz X żetonów bezkolorowego artefaktu Skarb, "
 "gdzie X jest skróconym kosztem many owego czaru. Mają one zdolność \"|tap|, "
-"poświęć ten artefakt: Dostajesz jedną manę dowolnego koloru.\""
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:422
 msgid ""
@@ -1432,7 +1432,7 @@ msgstr "(Transformuje z Arguel's Blood Fast.)"
 
 #: ../../XLN.rst:461
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../XLN.rst:463
 msgid ""
@@ -1519,8 +1519,8 @@ msgid ""
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 "Zniszcz wskazanego stwora. Stwórz dwa żetony bezkolorowego artefaktu Skarb "
-"ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
-"koloru.\""
+"ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
+"\""
 
 #: ../../XLN.rst:494
 msgid ""
@@ -1623,8 +1623,7 @@ msgid ""
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktu Skarb ze "
-"zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
-"koloru.\""
+"zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:526
 msgid ""
@@ -1747,8 +1746,8 @@ msgid ""
 "of any color.\""
 msgstr ""
 "Najazd — Jeśli zaatakowałeś stworem w tej turze, stwórz żeton bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
-"manę dowolnego koloru.\""
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:562
 msgid ""
@@ -1872,8 +1871,8 @@ msgid ""
 "color.\""
 msgstr ""
 "Ilekroć stwór pod władaniem przeciwnika umrze, stwórz żeton bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
-"manę dowolnego koloru.\""
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:601
 msgid ""
@@ -1913,8 +1912,8 @@ msgid ""
 "color.\""
 msgstr ""
 "|mana_2|\\ |mana_b|, poświęć stwora: Stwórz dwa żetony bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
-"manę dowolnego koloru.\""
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:611
 msgid "Sacrifice three Treasures: Draw a card."
@@ -2080,8 +2079,8 @@ msgid ""
 "color.\""
 msgstr ""
 "Kiedy ten stwór umrze, wskazany przeciwnik tworzy dwa żetony bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
-"manę dowolnego koloru.\""
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:666
 msgid ""
@@ -2161,8 +2160,7 @@ msgid ""
 "token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 "Ilekroć ten stwór atakuje, stwórz żeton bezkolorowego artefaktu Skarb ze "
-"zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
-"koloru.\""
+"zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:687
 msgid ""
@@ -2666,8 +2664,8 @@ msgid ""
 "token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 "Na początku twojego kroku końcowego, stwórz żeton bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę "
-"dowolnego koloru.\""
+"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\""
 
 #: ../../XLN.rst:860
 msgid ""
@@ -2716,7 +2714,7 @@ msgstr "(Transformuje z Vance's Blasting Cannons.)"
 
 #: ../../XLN.rst:871
 msgid "|tap|: Add |mana_r|."
-msgstr "|tap|: Dostajesz |mana_r|."
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../XLN.rst:873
 msgid ""
@@ -2736,8 +2734,8 @@ msgid ""
 "color.\""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę "
-"dowolnego koloru.\""
+"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\""
 
 #: ../../XLN.rst:880
 msgid ""
@@ -2923,7 +2921,7 @@ msgstr "Ten stwór dostaje +2/+2 o ile władasz Dinozaurem."
 
 #: ../../XLN.rst:939
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../XLN.rst:944
 msgid ""
@@ -3006,11 +3004,11 @@ msgstr "(Transformuje z Growing Rites of Itlimoc.)"
 
 #: ../../XLN.rst:963
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../XLN.rst:965
 msgid "|tap|: Add |mana_g| for each creature you control."
-msgstr "|tap|: Dostajesz |mana_g| za każdego stwora pod twoim władaniem."
+msgstr "|tap|: Weź |mana_g| za każdego stwora pod twoim władaniem."
 
 #: ../../XLN.rst:970
 msgid ""
@@ -3135,8 +3133,8 @@ msgstr ""
 #: ../../XLN.rst:999
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
 msgstr ""
-"Zauroczony ląd ma zdolność \"|tap|: Dostajesz dwie many w dowolnym jednym "
-"kolorze.\""
+"Zauroczony ląd ma zdolność \"|tap|: Weź dwie many w dowolnym jednym kolorze."
+"\""
 
 #: ../../XLN.rst:1004
 msgid ""
@@ -3479,8 +3477,8 @@ msgid ""
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 "|mana_2|\\ |mana_u|\\ |mana_b|: Stwórz żeton bezkolorowego artefaktu Skarb "
-"ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
-"koloru.\""
+"ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
+"\""
 
 #: ../../XLN.rst:1106
 msgid ""
@@ -3708,8 +3706,8 @@ msgid ""
 "of any color.\""
 msgstr ""
 "–3: Zniszcz wskazany artefakt, stwora lub urok. Stwórz żeton bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
-"manę dowolnego koloru.\""
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:1171
 msgid "−10: Target player's life total becomes 1."
@@ -3771,7 +3769,7 @@ msgstr "(Transformuje z Conqueror's Galleon.)"
 #: ../../XLN.rst:1189 ../../XLN.rst:1243 ../../XLN.rst:1311 ../../XLN.rst:1323
 #: ../../XLN.rst:1349 ../../XLN.rst:1375 ../../XLN.rst:1381
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../XLN.rst:1191
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
@@ -3830,7 +3828,7 @@ msgstr "(Transformuje z Dowsing Dagger.)"
 
 #: ../../XLN.rst:1211
 msgid "|tap|: Add three mana of any one color."
-msgstr "|tap|: Dostajesz trzy many w dowolnym jednym kolorze."
+msgstr "|tap|: Weź trzy many w dowolnym jednym kolorze."
 
 #: ../../XLN.rst:1218
 msgid ""
@@ -3934,8 +3932,8 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell of the chosen type."
 msgstr ""
-"|tap|: Dostajesz jedną manę w dowolnym kolorze. Wydaj tę manę tylko na "
-"rzucenie czaru stwora owego wybranego typu."
+"|tap|: Weź jedną manę w dowolnym kolorze. Wydaj tę manę tylko na rzucenie "
+"czaru stwora owego wybranego typu."
 
 #: ../../XLN.rst:1258
 msgid ""
@@ -3998,8 +3996,8 @@ msgid ""
 "or sorcery spell, copy that spell and you may choose new targets for the "
 "copy."
 msgstr ""
-"|tap|: Dostajesz jedną manę dowolnego koloru. Kiedy owa mana zostaje wydana "
-"na rzucenie czaru sztuczki lub obrzędu, skopiuj ów czar, możesz wybrać nowe "
+"|tap|: Weź jedną manę dowolnego koloru. Kiedy owa mana zostaje wydana na "
+"rzucenie czaru sztuczki lub obrzędu, skopiuj ów czar, możesz wybrać nowe "
 "cele dla kopii."
 
 #: ../../XLN.rst:1278
@@ -4021,7 +4019,7 @@ msgid ""
 msgstr ""
 "Ilekroć wyposażony stwór zadaje graczowi obrażenia bojowe, stwórz żeton "
 "bezkolorowego artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: "
-"Dostajesz jedną manę dowolnego koloru.\""
+"Weź jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:1284
 msgid ""
@@ -4155,8 +4153,8 @@ msgstr ""
 "|mana_1|, |tap|: Wróż 1. Umieść znacznik orientacji na tym artefakcie. "
 "Następnie jeśli są na nim trzy znaczniki orientacji, usuń owe znaczniki, "
 "transformuj ten artefakt i stwórz trzy żetony bezkolorowego artefaktu Skarb "
-"ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
-"koloru.\""
+"ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
+"\""
 
 #: ../../XLN.rst:1326
 msgid ""
@@ -4208,7 +4206,7 @@ msgstr ""
 
 #: ../../XLN.rst:1339
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../XLN.rst:1346
 msgid ""
@@ -4227,7 +4225,7 @@ msgstr ""
 
 #: ../../XLN.rst:1345
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../XLN.rst:1352
 msgid ""
@@ -4263,7 +4261,7 @@ msgstr ""
 
 #: ../../XLN.rst:1357
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../XLN.rst:1364
 msgid ""
@@ -4281,7 +4279,7 @@ msgstr ""
 
 #: ../../XLN.rst:1363
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../XLN.rst:1370
 msgid ""
@@ -4300,7 +4298,7 @@ msgstr ""
 
 #: ../../XLN.rst:1369
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../XLN.rst:1378
 msgid ""
@@ -4322,7 +4320,7 @@ msgstr ""
 
 #: ../../XLN.rst:1383
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../XLN.rst:1388
 msgid ""
@@ -4332,7 +4330,7 @@ msgstr ""
 
 #: ../../XLN.rst:1387
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../XLN.rst:1392
 msgid ""
@@ -4342,7 +4340,7 @@ msgstr ""
 
 #: ../../XLN.rst:1391
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../XLN.rst:1396
 msgid ""
@@ -4352,7 +4350,7 @@ msgstr ""
 
 #: ../../XLN.rst:1395
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../XLN.rst:1400
 msgid ""
@@ -4362,7 +4360,7 @@ msgstr ""
 
 #: ../../XLN.rst:1399
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../XLN.rst:1404
 msgid ""
@@ -4372,7 +4370,7 @@ msgstr ""
 
 #: ../../XLN.rst:1403
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../XLN.rst:1412
 msgid ""
@@ -4457,7 +4455,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../XLN.rst:1435
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../XLN.rst:1444
 msgid ""
@@ -4541,7 +4539,7 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../XLN.rst:1461
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #~ msgid "Ixalan"
 #~ msgstr "Ixalan"

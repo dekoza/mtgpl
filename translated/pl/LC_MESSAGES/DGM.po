@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-28 18:36+0000\n"
+"PO-Revision-Date: 2019-06-22 22:04+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -1658,7 +1658,7 @@ msgstr "-2: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia."
 msgid ""
 "−7: Flip five coins. Take an extra turn after this one for each coin that "
 "comes up heads."
-msgstr "-7: Rzuć pięcioma monetami. Dostajesz dodatkową turę za każdą reszkę."
+msgstr "-7: Rzuć pięcioma monetami. Weź dodatkową turę za każdą reszkę."
 
 #: ../../DGM.rst:490
 msgid ""
@@ -2103,7 +2103,7 @@ msgstr ""
 # c05ed33b21f14493ab5547d4d48f5a23
 #: ../../DGM.rst:613
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 # 9a8b2d0ece8640429847027cfa8a9ddf
 #: ../../DGM.rst:615
@@ -2538,7 +2538,7 @@ msgstr ""
 # 5f4ccf8634304c22bbc3637210aef57a
 #: ../../DGM.rst:799 ../../DGM.rst:861
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 # 264919420397438689e0c9cef70d9c69
 #: ../../DGM.rst:801
@@ -2557,7 +2557,7 @@ msgstr ""
 # Słusznie przetłumaczone "or" - musi być "albo", gdyż w języku polskim "lub" zawiera w sobie "oraz". Taka tam logiczna ciekawostka :P
 #: ../../DGM.rst:805 ../../DGM.rst:867
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 # 01444424672440afaf0a5fdc052ee04d
 #: ../../DGM.rst:807
@@ -2575,7 +2575,7 @@ msgstr ""
 # 4c4ea7a4ad59439d9402e05cc20d8410
 #: ../../DGM.rst:811 ../../DGM.rst:873
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 # 62a1721c795c4062a68cda8932825489
 #: ../../DGM.rst:813
@@ -2593,7 +2593,7 @@ msgstr ""
 # d1d9925c7f2e4696b40df667ddc0225f
 #: ../../DGM.rst:817 ../../DGM.rst:879
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 # 1ccf3f3659284404a60ec48e70027443
 #: ../../DGM.rst:819
@@ -2611,7 +2611,7 @@ msgstr ""
 # f8052abce71746be9554f405b2ad6f63
 #: ../../DGM.rst:823 ../../DGM.rst:885
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 # 30c2c321e26948ce99f633d7144074bd
 #: ../../DGM.rst:825
@@ -2629,7 +2629,7 @@ msgstr ""
 # 4d07e2d634d14e7fb6b2fad56cee1909
 #: ../../DGM.rst:829 ../../DGM.rst:891
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 # bae836dc29404492be78d47742a7bbb0
 #: ../../DGM.rst:831
@@ -2647,7 +2647,7 @@ msgstr ""
 # d43bf96cd7c542da875f6c1314e7fb86
 #: ../../DGM.rst:835 ../../DGM.rst:905
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 # 320a659fd60543dda22033ba064ffa40
 #: ../../DGM.rst:837
@@ -2665,7 +2665,7 @@ msgstr ""
 # 9b271a9a851446e78ba42421f4f8da0b
 #: ../../DGM.rst:841 ../../DGM.rst:911
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 # e49afd8ecb004eca8b78f32d5b73bd14
 #: ../../DGM.rst:843
@@ -2682,7 +2682,7 @@ msgstr ""
 # c05ed33b21f14493ab5547d4d48f5a23
 #: ../../DGM.rst:847 ../../DGM.rst:917
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 # 9267b84d8bfc4b69b34415c703541cb7
 #: ../../DGM.rst:849
@@ -2699,7 +2699,7 @@ msgstr ""
 # c05ed33b21f14493ab5547d4d48f5a23
 #: ../../DGM.rst:853 ../../DGM.rst:923
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 # 294799aa546843a6bcb9af2b262a63a4
 #: ../../DGM.rst:855
@@ -2792,7 +2792,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DGM.rst:897
 msgid "|tap|: Add |colorless|."
-msgstr "|tap|: Dostajesz |colorless|."
+msgstr "|tap|: Weź |colorless|."
 
 # 58d361e7edf64bf495f44a6d22451ee7
 #: ../../DGM.rst:899
