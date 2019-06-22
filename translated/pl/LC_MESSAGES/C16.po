@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-08 21:47+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2019-06-22 11:56+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2033,6 +2033,7 @@ msgstr ""
 #: ../../C16.rst:733
 msgid "Entwine |mana_2|\\ |mana_r| (Choose both if you pay the entwine cost.)"
 msgstr ""
+"Splątanie |mana_2|\\ |mana_r| (Wybierz oba jeśli opłaciłeś koszt splątania.)"
 
 #: ../../C16.rst:740
 msgid ""
@@ -2119,6 +2120,8 @@ msgid ""
 "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_4|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C16.rst:768
 msgid ""
@@ -2515,6 +2518,9 @@ msgid ""
 "creatures. This creature enters the battlefield with twice that many +1/+1 "
 "counters on it.)"
 msgstr ""
+"Pożarcie 2 (Umieszczając tego stwora na polu walki, możesz poświęcić dowolną "
+"liczbę stworów. Ten stwór wchodzi na pole walki z dwukrotnie większą liczbą "
+"znaczników +1/+1.)"
 
 #: ../../C16.rst:899
 msgid ""
@@ -3913,6 +3919,9 @@ msgid ""
 "return it to the battlefield under its owner's control with a -1/-1 counter "
 "on it.)"
 msgstr ""
+"|tap|: Wskaż dowolne stwory. Każdy z owych stworów zyskuje wytrwałość do "
+"końca tury. (Kiedy umrze, jeśli nie miał znaczników -1/-1, przywróć go na "
+"pole walki ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../C16.rst:1412
 msgid ""

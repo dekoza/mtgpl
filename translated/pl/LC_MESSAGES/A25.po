@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-06-08 21:47+0000\n"
+"PO-Revision-Date: 2019-06-22 11:56+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/a25/pl/>\n"
 "Language: pl\n"
@@ -957,6 +957,8 @@ msgid ""
 "When Man-o'-War enters the battlefield, return target creature to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora do ręki "
+"właściciela."
 
 #: ../../A25.rst:348
 msgid ""
@@ -1072,7 +1074,7 @@ msgstr ""
 
 #: ../../A25.rst:387
 msgid "Draw three cards, then discard a card."
-msgstr ""
+msgstr "Dobierz trzy karty, następnie odrzuć kartę."
 
 #: ../../A25.rst:392
 msgid ""
@@ -1095,7 +1097,7 @@ msgstr ""
 
 #: ../../A25.rst:395
 msgid "Switch target creature's power and toughness until end of turn."
-msgstr ""
+msgstr "Zamień u wskazanego stwora siłę z wytrzymałością do końca tury."
 
 #: ../../A25.rst:406
 msgid ""
