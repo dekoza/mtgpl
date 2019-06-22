@@ -23,7 +23,7 @@ Tłumaczenie dodatków
 Nadochodzące
 ------------
 
-* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p25|
+* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |p25|
 
 
 Standard
@@ -40,6 +40,7 @@ Standard
 Modern
 ------
 
+* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p25|
 * :doc:`Lista pozostałych dodatków<modern>`
 
 Legacy / Vintage
@@ -149,6 +150,7 @@ Legal notice
    :hidden:
 
    rulebook
+   M20
    WAR
    RNA
    GRN
