@@ -23,7 +23,7 @@ Tłumaczenie dodatków
 Nadochodzące
 ------------
 
-* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |p25|
+* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |p75|
 
 
 Standard
