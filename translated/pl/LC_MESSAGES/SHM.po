@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-05-02 04:28+0000\n"
+"PO-Revision-Date: 2019-06-22 11:56+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/shm/pl/>\n"
 "Language: pl\n"
@@ -399,6 +399,8 @@ msgid ""
 "return it to the battlefield under its owner's control with a -1/-1 "
 "counter on it.)"
 msgstr ""
+"Wytrwałość (Kiedy ten stwór umrze, jeśli nie miał znaczników -1/-1, przywróć "
+"go na pole walki ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../SHM.rst:140
 msgid ""
@@ -3323,6 +3325,9 @@ msgid ""
 "counters on it, return it to the battlefield under its owner's control "
 "with a -1/-1 counter on it.)"
 msgstr ""
+"|tap|: Wskaż dowolne stwory. Każdy z owych stworów zyskuje wytrwałość do "
+"końca tury. (Kiedy umrze, jeśli nie miał znaczników -1/-1, przywróć go na "
+"pole walki ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../SHM.rst:1298
 msgid ":mtgtip:`Chainbreaker<https://img.scryfall.com/cards/border_crop/en/shm/249.jpg?1517813031|https://scryfall.com/card/shm/249/chainbreaker?utm_source=api>`"
@@ -3479,10 +3484,13 @@ msgid ""
 "return it to the battlefield under its owner's control with a -1/-1 "
 "counter on it.)"
 msgstr ""
+"Ten stwór ma wytrwałość o ile władasz innym czarnym stworem. (Kiedy ten "
+"stwór umrze, jeśli nie miał znaczników -1/-1, przywróć go na pole walki ze "
+"znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../SHM.rst:1351
 msgid "Rattleblaze Scarecrow has haste as long as you control a red creature."
-msgstr ""
+msgstr "Ten stwór ma pośpiech o ile władasz czerwonym stworem."
 
 #: ../../SHM.rst:1360
 msgid ""
@@ -3642,6 +3650,9 @@ msgid ""
 " (When this creature dies, if it had no -1/-1 counters on it, return it "
 "to the battlefield under its owner's control with a -1/-1 counter on it.)"
 msgstr ""
+"Ten stwór ma wytrwałość o ile władasz czarnym stworem. (Kiedy ten stwór "
+"umrze, jeśli nie miał znaczników -1/-1, przywróć go na pole walki ze "
+"znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../SHM.rst:1418
 msgid ""

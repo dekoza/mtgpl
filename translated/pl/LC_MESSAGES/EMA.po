@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-06-08 21:47+0000\n"
+"PO-Revision-Date: 2019-06-22 11:56+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ema/pl/>\n"
 "Language: pl\n"
@@ -855,6 +855,8 @@ msgid ""
 "When Man-o'-War enters the battlefield, return target creature to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora do ręki "
+"właściciela."
 
 #: ../../EMA.rst:318
 msgid ""
@@ -1026,6 +1028,8 @@ msgid ""
 "Flashback |mana_4|\\ |mana_u| (You may cast this card from your graveyard"
 " for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_4|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../EMA.rst:386
 msgid ""
@@ -1191,11 +1195,11 @@ msgstr ""
 
 #: ../../EMA.rst:445
 msgid "Carrion Feeder can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../EMA.rst:447
 msgid "Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder."
-msgstr ""
+msgstr "Poświęć stwora: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../EMA.rst:452
 msgid ""
@@ -1797,6 +1801,8 @@ msgid ""
 "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard"
 " for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_4|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../EMA.rst:688
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-05-02 04:27+0000\n"
+"PO-Revision-Date: 2019-06-22 11:56+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/eve/pl/>\n"
 "Language: pl\n"
@@ -148,6 +148,8 @@ msgid ""
 "return it to the battlefield under its owner's control with a -1/-1 "
 "counter on it.)"
 msgstr ""
+"Wytrwałość (Kiedy ten stwór umrze, jeśli nie miał znaczników -1/-1, przywróć "
+"go na pole walki ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../EVE.rst:56
 msgid ""
@@ -1140,6 +1142,9 @@ msgid ""
 "it, return it to the battlefield under its owner's control with a -1/-1 "
 "counter on it.)"
 msgstr ""
+"Wskaż dowolne stwory. Każdy z owych stworów zyskuje wytrwałość do końca "
+"tury. (Kiedy umrze, jeśli nie miał znaczników -1/-1, przywróć go na pole "
+"walki ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../EVE.rst:456
 msgid ""
@@ -1430,7 +1435,7 @@ msgstr ""
 
 #: ../../EVE.rst:563
 msgid "Switch target creature's power and toughness until end of turn."
-msgstr ""
+msgstr "Zamień u wskazanego stwora siłę z wytrzymałością do końca tury."
 
 #: ../../EVE.rst:574
 msgid ""
@@ -2413,6 +2418,9 @@ msgid ""
 " dies, if it had no -1/-1 counters on it, return it to the battlefield "
 "under its owner's control with a -1/-1 counter on it.)"
 msgstr ""
+"|mana_2|: Wskazany biały stwór zyskuje wytrwałość do końca tury. (Kiedy "
+"umrze, jeśli nie miał znaczników -1/-1, przywróć go na pole walki ze "
+"znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../EVE.rst:932
 msgid ""
