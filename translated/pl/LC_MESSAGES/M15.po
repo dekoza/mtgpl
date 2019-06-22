@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 09:11+0000\n"
+"PO-Revision-Date: 2019-06-22 16:44+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -510,7 +510,7 @@ msgstr ""
 
 #: ../../M15.rst:145
 msgid "Create two 1/1 white Soldier creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Piechur 1/1."
 
 #: ../../M15.rst:152
 msgid ""
@@ -979,6 +979,9 @@ msgid ""
 "controls. That creature doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../M15.rst:298
 msgid ""

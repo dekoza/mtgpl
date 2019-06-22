@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-08 21:47+0000\n"
+"PO-Revision-Date: 2019-06-22 16:44+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -771,6 +771,9 @@ msgid ""
 "controls. That creature doesn't untap during its controller's untap step for "
 "as long as you control Dungeon Geists."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręca się w kroku odkręcania swojego "
+"władcy dopóki władasz niniejszym stworem."
 
 #: ../../C13.rst:258
 msgid ""
@@ -3249,7 +3252,7 @@ msgstr "Zyskujesz 5 żyć."
 
 #: ../../C13.rst:1057
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -2/-2 do końca tury."
 
 #: ../../C13.rst:1062
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 11:56+0000\n"
+"PO-Revision-Date: 2019-06-22 16:44+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -1646,9 +1646,8 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:569
-#, fuzzy
 msgid "|mana_3|\\ |mana_u|: Draw a card."
-msgstr "Recykling |mana_3| (|mana_3|, odrzuć tę kartę: Dobierz kartę.)"
+msgstr "|mana_3|\\ |mana_u|: Dobierz kartę."
 
 #: ../../C14.rst:576
 msgid ""

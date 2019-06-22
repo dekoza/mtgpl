@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-06-22 11:56+0000\n"
+"PO-Revision-Date: 2019-06-22 16:45+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mm2/pl/>\n"
 "Language: pl\n"
@@ -359,6 +359,8 @@ msgstr ""
 #: ../../MM2.rst:151
 msgid "If Leyline of Sanctity is in your opening hand, you may begin the game with it on the battlefield."
 msgstr ""
+"Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
+"na polu walki."
 
 #: ../../MM2.rst:153
 msgid "You have hexproof. (You can't be the target of spells or abilities your opponents control.)"
@@ -444,7 +446,7 @@ msgstr ""
 
 #: ../../MM2.rst:191
 msgid "Create two 1/1 white Soldier creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Piechur 1/1."
 
 #: ../../MM2.rst:196
 msgid ":mtgtip:`Skyhunter Skirmisher<https://img.scryfall.com/cards/border_crop/en/mm2/32.jpg?1517813031|https://scryfall.com/card/mm2/32/skyhunter-skirmisher?utm_source=api>`"
@@ -2165,7 +2167,7 @@ msgstr ""
 
 #: ../../MM2.rst:1147
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../MM2.rst:1154
 msgid ":mtgtip:`Culling Dais<https://img.scryfall.com/cards/border_crop/en/mm2/207.jpg?1517813031|https://scryfall.com/card/mm2/207/culling-dais?utm_source=api>`"
@@ -2543,6 +2545,8 @@ msgstr ""
 #: ../../MM2.rst:1353
 msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../MM2.rst:1360
 msgid ":mtgtip:`Eye of Ugin<https://img.scryfall.com/cards/border_crop/en/mm2/242.jpg?1530720129|https://scryfall.com/card/mm2/242/eye-of-ugin?utm_source=api>`"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-06-22 11:56+0000\n"
+"PO-Revision-Date: 2019-06-22 16:44+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/eve/pl/>\n"
 "Language: pl\n"
@@ -917,6 +917,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../EVE.rst:366
 msgid ""
@@ -1180,7 +1182,7 @@ msgstr ""
 
 #: ../../EVE.rst:459
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../EVE.rst:461
 msgid "Divinity of Pride gets +4/+4 as long as you have 25 or more life."

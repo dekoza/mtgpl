@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-01 13:05+0200\n"
-"PO-Revision-Date: 2019-06-22 11:56+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"PO-Revision-Date: 2019-06-22 16:45+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mh1/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -1968,7 +1968,7 @@ msgstr ""
 
 #: ../../MH1.rst:859
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../MH1.rst:861
 msgid "Dredge 1 (If you would draw a card, instead you may put exactly one card from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)"
@@ -2027,7 +2027,7 @@ msgstr ""
 
 #: ../../MH1.rst:887
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../MH1.rst:889
 msgid "Urza's Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can't be prevented."
@@ -2116,7 +2116,7 @@ msgstr ""
 #: ../../MH1.rst:1129
 #: ../../MH1.rst:1179
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../MH1.rst:933
 msgid "|mana_3|\\ |mana_g|: Conifer Wurm gets +X/+X until end of turn, where X is the number of snow permanents you control."
@@ -2435,7 +2435,7 @@ msgstr ""
 #: ../../MH1.rst:1119
 #: ../../MH1.rst:1245
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../MH1.rst:1095
 msgid "When Twin-Silk Spider enters the battlefield, create a 1/2 green Spider creature token with reach."
@@ -2537,7 +2537,7 @@ msgstr ""
 
 #: ../../MH1.rst:1151
 msgid "Creatures you control of the chosen type get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego typu pod twoim władaniem dostają +1/+1."
 
 #: ../../MH1.rst:1153
 msgid "|mana_1|, Sacrifice a creature of the chosen type: Target creature you control gains indestructible until end of turn."
@@ -2690,7 +2690,7 @@ msgstr ""
 
 #: ../../MH1.rst:1237
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../MH1.rst:1242
 msgid ":mtgtip:`Reap the Past<https://img.scryfall.com/cards/border_crop/front/c/0/c0b7e59a-5302-4a73-816a-b759adff3ee6.jpg?1559216598|https://scryfall.com/card/mh1/211/reap-the-past?utm_source=api>`"
@@ -2827,7 +2827,7 @@ msgstr ""
 #: ../../MH1.rst:1309
 #: ../../MH1.rst:1329
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../MH1.rst:1311
 msgid "|mana_3|: Fountain of Ichor becomes a 3/3 Dinosaur artifact creature until end of turn."
@@ -2911,7 +2911,7 @@ msgstr ""
 #: ../../MH1.rst:1419
 #: ../../MH1.rst:1427
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../MH1.rst:1357
 msgid "|tap|: Add |mana_r| or |mana_w|. Talisman of Conviction deals 1 damage to you."

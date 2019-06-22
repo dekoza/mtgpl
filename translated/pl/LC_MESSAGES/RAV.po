@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-05-02 02:54+0000\n"
+"PO-Revision-Date: 2019-06-22 16:45+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rav/pl/>\n"
 "Language: pl\n"
@@ -576,7 +576,7 @@ msgstr ""
 
 #: ../../RAV.rst:209
 msgid "Counter target spell unless its controller pays |mana_4|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_4|."
 
 #: ../../RAV.rst:214
 msgid ""
@@ -2463,6 +2463,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../RAV.rst:942
 msgid ""
@@ -3625,7 +3627,7 @@ msgstr ""
 
 #: ../../RAV.rst:1369
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../RAV.rst:1376
 msgid ":mtgtip:`Junktroller<https://img.scryfall.com/cards/border_crop/en/rav/264.jpg?1517813031|https://scryfall.com/card/rav/264/junktroller?utm_source=api>`"

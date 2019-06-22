@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-05-02 04:27+0000\n"
+"PO-Revision-Date: 2019-06-22 16:44+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bbd/pl/>\n"
 "Language: pl\n"
@@ -1597,7 +1597,7 @@ msgstr ""
 
 #: ../../BBD.rst:565
 msgid "Loyal Pegasus can't attack or block alone."
-msgstr ""
+msgstr "Ten stwór nie może samotnie atakować lub blokować."
 
 #: ../../BBD.rst:570
 msgid ""
@@ -1847,6 +1847,9 @@ msgid ""
 "controls. That creature doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../BBD.rst:666
 msgid ":mtgtip:`Impulse<https://img.scryfall.com/cards/border_crop/en/bbd/119.jpg?1529062085|https://scryfall.com/card/bbd/119/impulse?utm_source=api>`"

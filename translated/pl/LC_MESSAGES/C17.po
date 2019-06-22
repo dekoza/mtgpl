@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 11:56+0000\n"
+"PO-Revision-Date: 2019-06-22 16:44+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -955,7 +955,7 @@ msgstr ""
 
 #: ../../C17.rst:331 ../../C17.rst:1199 ../../C17.rst:1307 ../../C17.rst:1331
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../C17.rst:340
 msgid ""
@@ -4027,6 +4027,8 @@ msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C17.rst:1478
 msgid ""

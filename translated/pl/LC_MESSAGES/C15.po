@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 11:56+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"PO-Revision-Date: 2019-06-22 16:44+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -386,7 +386,7 @@ msgstr ""
 
 #: ../../C15.rst:137
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -2/-2 do końca tury."
 
 #: ../../C15.rst:139
 msgid "Return target creature card from your graveyard to your hand."
@@ -4206,7 +4206,7 @@ msgstr ""
 
 #: ../../C15.rst:1491 ../../C15.rst:1513
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../C15.rst:1496
 msgid ""
@@ -4432,6 +4432,8 @@ msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C15.rst:1594
 msgid ""
