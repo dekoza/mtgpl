@@ -733,7 +733,7 @@
    Draw a card. Until end of turn, target creature gains trample and gets +1/+0 for each card you've drawn this turn.
 
 
-:mtgtip:`Force of Rage<https://img.scryfall.com/cards/border_crop/front/0/a/0aaa2d10-3725-4b3a-94fe-3c6648db9a2a.jpg?1558796312|https://scryfall.com/card/mh1/124/force-of-rage?utm_source=api>`
+:mtgtip:`Force of Rage<https://img.scryfall.com/cards/border_crop/front/0/a/0aaa2d10-3725-4b3a-94fe-3c6648db9a2a.jpg?1560280455|https://scryfall.com/card/mh1/124/force-of-rage?utm_source=api>`
    If it's not your turn, you may exile a red card from your hand rather than pay this spell's mana cost.
 
    Create two 3/1 red Elemental creature tokens with trample and haste. Sacrifice those tokens at the beginning of your next upkeep.
@@ -1045,11 +1045,11 @@
    Overload |mana_4|\ |mana_g|\ |mana_g| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
 
 
-:mtgtip:`Spore Frog<https://img.scryfall.com/cards/border_crop/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1558528414|https://scryfall.com/card/mh1/180/spore-frog?utm_source=api>`
+:mtgtip:`Spore Frog<https://img.scryfall.com/cards/border_crop/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1560989308|https://scryfall.com/card/mh1/180/spore-frog?utm_source=api>`
    Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn.
 
 
-:mtgtip:`Springbloom Druid<https://img.scryfall.com/cards/border_crop/front/6/1/6161d2ed-7cff-4c90-9e74-1d179a6c1498.jpg?1558963837|https://scryfall.com/card/mh1/181/springbloom-druid?utm_source=api>`
+:mtgtip:`Springbloom Druid<https://img.scryfall.com/cards/border_crop/front/6/1/6161d2ed-7cff-4c90-9e74-1d179a6c1498.jpg?1560989300|https://scryfall.com/card/mh1/181/springbloom-druid?utm_source=api>`
    When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
 
 
@@ -1287,8 +1287,8 @@
    Equip |mana_3|
 
 
-:mtgtip:`Arcum's Astrolabe<https://img.scryfall.com/cards/border_crop/front/c/2/c2462fdf-a594-47d0-8e10-b55901e350d9.jpg?1559127760|https://scryfall.com/card/mh1/220/arcums-astrolabe?utm_source=api>`
-   &lt;i&gt;(|mana_s| can be paid with one mana from a snow permanent.)&lt;/i&gt;
+:mtgtip:`Arcum's Astrolabe<https://img.scryfall.com/cards/border_crop/front/c/2/c2462fdf-a594-47d0-8e10-b55901e350d9.jpg?1560433455|https://scryfall.com/card/mh1/220/arcums-astrolabe?utm_source=api>`
+   (|mana_s| can be paid with one mana from a snow permanent.)
 
    When Arcum's Astrolabe enters the battlefield, draw a card.
 
@@ -1311,8 +1311,8 @@
    |mana_3|: Fountain of Ichor becomes a 3/3 Dinosaur artifact creature until end of turn.
 
 
-:mtgtip:`Icehide Golem<https://img.scryfall.com/cards/border_crop/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1559127740|https://scryfall.com/card/mh1/224/icehide-golem?utm_source=api>`
-   &lt;i&gt;(|mana_s| can be paid with one mana from a snow permanent.)&lt;/i&gt;
+:mtgtip:`Icehide Golem<https://img.scryfall.com/cards/border_crop/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1560433429|https://scryfall.com/card/mh1/224/icehide-golem?utm_source=api>`
+   (|mana_s| can be paid with one mana from a snow permanent.)
 
 
 :mtgtip:`Lesser Masticore<https://img.scryfall.com/cards/border_crop/front/c/4/c4c7cba5-6111-40ce-828a-e811301bb283.jpg?1558963775|https://scryfall.com/card/mh1/225/lesser-masticore?utm_source=api>`
@@ -1501,7 +1501,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Flusterstorm<https://img.scryfall.com/cards/border_crop/front/4/6/46a00405-13ad-4531-9bfb-fea0ca57f196.jpg?1559901033|https://scryfall.com/card/mh1/255/flusterstorm?utm_source=api>`
+:mtgtip:`Flusterstorm<https://img.scryfall.com/cards/border_crop/front/4/6/46a00405-13ad-4531-9bfb-fea0ca57f196.jpg?1560716143|https://scryfall.com/card/mh1/255/flusterstorm?utm_source=api>`
    Counter target instant or sorcery spell unless its controller pays |mana_1|.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
