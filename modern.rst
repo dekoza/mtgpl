@@ -4,7 +4,7 @@ Modern
 
 .. include:: progress.rst
 
-* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p25|
+* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p100|
 
 
 Post-Standard
