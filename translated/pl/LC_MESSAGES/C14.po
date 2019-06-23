@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 22:04+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -1421,6 +1421,9 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
+"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
+"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
 #: ../../C14.rst:490
 msgid ""
@@ -2113,7 +2116,7 @@ msgstr ""
 
 #: ../../C14.rst:729
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../C14.rst:731
 msgid "You may look at the top card of your library any time."
@@ -2514,7 +2517,7 @@ msgstr ""
 
 #: ../../C14.rst:883
 msgid "Choose two —"
-msgstr ""
+msgstr "Wybierz dwie —"
 
 #: ../../C14.rst:885
 msgid "Target player loses X life."
@@ -4380,7 +4383,7 @@ msgstr ""
 
 #: ../../C14.rst:1573
 msgid "Barren Moor enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C14.rst:1577
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
@@ -4573,7 +4576,7 @@ msgstr ""
 
 #: ../../C14.rst:1659
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr "Zapomniana Jaskinia wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C14.rst:1663
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
@@ -4693,7 +4696,7 @@ msgstr ""
 
 #: ../../C14.rst:1713
 msgid "Lonely Sandbar enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C14.rst:1717
 msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
@@ -4768,7 +4771,7 @@ msgstr ""
 
 #: ../../C14.rst:1757
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C14.rst:1761
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
@@ -4844,7 +4847,7 @@ msgstr ""
 
 #: ../../C14.rst:1795
 msgid "Tranquil Thicket enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C14.rst:1799
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"

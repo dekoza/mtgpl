@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 22:04+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -698,6 +698,9 @@ msgid ""
 "your graveyard. If a card cast this way would be put into your graveyard,"
 " exile it instead."
 msgstr ""
+"W trakcie każdej ze swoich tur możesz rzucić kartę sztuczki lub obrzędu z "
+"twojego cmentarza. Jeśli karta rzucona w ten sposób miałaby zostać "
+"umieszczona w twoim cmentarzu, zamiast tego wygnaj ją."
 
 #: ../../C17.rst:248
 msgid ""
@@ -1773,6 +1776,9 @@ msgid ""
 "At the beginning of your next upkeep, you may cast this card from exile "
 "without paying its mana cost.)"
 msgstr ""
+"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
+"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
 #: ../../C17.rst:612
 msgid ""
@@ -2640,7 +2646,7 @@ msgstr ""
 
 #: ../../C17.rst:923 ../../C17.rst:1271 ../../C17.rst:1295 ../../C17.rst:1345
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../C17.rst:932
 msgid ""
@@ -3208,7 +3214,7 @@ msgstr ""
 
 #: ../../C17.rst:1137
 msgid "Choose two —"
-msgstr ""
+msgstr "Wybierz dwie —"
 
 #: ../../C17.rst:1139
 msgid "Counter target noncreature spell."
@@ -4499,11 +4505,11 @@ msgstr ""
 
 #: ../../C17.rst:1673
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1677
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../C17.rst:1684
 msgid ""
@@ -4633,11 +4639,11 @@ msgstr ""
 
 #: ../../C17.rst:1731
 msgid "Tranquil Thicket enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1735
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_g| (|mana_g|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../C17.rst:1742
 msgid ""

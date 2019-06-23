@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-22 23:38+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ody/pl/>\n"
 "Language: pl\n"
@@ -508,6 +508,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, Mystic "
 "Crusader gets +1/+1 and has flying."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1 i ma latanie."
 
 #: ../../ODY.rst:184
 msgid ""
@@ -521,6 +523,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, Mystic "
 "Penitent gets +1/+1 and has flying."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1 i ma latanie."
 
 #: ../../ODY.rst:188
 msgid ""
@@ -547,6 +551,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, Mystic "
 "Zealot gets +1/+1 and has flying."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1 i ma latanie."
 
 #: ../../ODY.rst:198
 msgid ""
@@ -824,6 +830,9 @@ msgid ""
 " Angel gets +3/+3, is black, has trample, and has \"At the beginning of "
 "your upkeep, sacrifice a creature.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +3/+3, jest czarny, ma tratowanie oraz \"Na początku twojego kroku "
+"utrzymania, poświęć stwora.\""
 
 #: ../../ODY.rst:306
 msgid ""
@@ -1523,6 +1532,9 @@ msgid ""
 "Bloodcurdler gets +1/+1 and has \"At the beginning of your end step, "
 "exile two cards from your graveyard.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1 i ma \"Na początku twojego kroku końcowego, wygnaj dwie karty "
+"z twojego cmentarza.\""
 
 #: ../../ODY.rst:594
 msgid ""
@@ -1620,6 +1632,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, "
 "Childhood Horror gets +2/+2 and can't block."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +2/+2 i nie może blokować."
 
 #: ../../ODY.rst:630
 msgid ""
@@ -1680,6 +1694,9 @@ msgid ""
 "graveyard from the battlefield, you may pay |mana_1|. If you do, return "
 "that card to your hand.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma \""
+"Ilekroć nieżetonowy stwór trafia do twojego cmentarza z pola wlaki, możesz "
+"zapłacić |mana_1|. Jeśli tak zrobisz, przywróć ową kartę do twojej ręki.\""
 
 #: ../../ODY.rst:650
 msgid ":mtgtip:`Decompose<https://img.scryfall.com/cards/border_crop/en/ody/128.jpg?1517813031|https://scryfall.com/card/ody/128/decompose?utm_source=api>`"
@@ -1720,6 +1737,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, Dirty "
 "Wererat gets +2/+2 and can't block."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +2/+2 i nie może blokować."
 
 #: ../../ODY.rst:664
 msgid ""
@@ -1810,6 +1829,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, "
 "Frightcrawler gets +2/+2 and can't block."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +2/+2 i nie może blokować."
 
 #: ../../ODY.rst:700
 msgid ""
@@ -2080,6 +2101,8 @@ msgid ""
 "Repentant Vampire is white and has \"|tap|: Destroy target black "
 "creature.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór jest "
+"biały i ma \"|tap|: Zniszcz wskazanego czarnego stwora.\""
 
 #: ../../ODY.rst:796
 msgid ""
@@ -3119,7 +3142,7 @@ msgstr ""
 
 #: ../../ODY.rst:1163 ../../ODY.rst:1213
 msgid "Create a 3/3 green Elephant creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Słoń 3/3."
 
 #: ../../ODY.rst:1165 ../../ODY.rst:1341
 msgid ""
@@ -3170,6 +3193,9 @@ msgid ""
 "Chlorophant has \"At the beginning of your upkeep, you may put another "
 "+1/+1 counter on Chlorophant.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma \""
+"Na początku twojego kroku utrzymania, możesz umieścić kolejny znacznik +1/+1 "
+"na tym stworze.\""
 
 #: ../../ODY.rst:1188
 msgid ""
@@ -3190,6 +3216,8 @@ msgid ""
 "Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of "
 "spells or abilities.)"
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +2/+2 i ma osłonę. (Nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../ODY.rst:1194
 msgid ""
@@ -3503,13 +3531,15 @@ msgstr ""
 
 #: ../../ODY.rst:1299
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../ODY.rst:1301
 msgid ""
 "Threshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are"
 " in your graveyard."
 msgstr ""
+"Próg — Ten stwór dostaje +2/+2 o ile w twoim cmentarzu jest przynajmniej "
+"siedem kart."
 
 #: ../../ODY.rst:1308
 msgid ""
@@ -3635,6 +3665,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, all "
 "creatures able to block enchanted creature do so."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, wszystkie "
+"stwory mogące blokować zauroczonego stwora, robią to."
 
 #: ../../ODY.rst:1358
 msgid ":mtgtip:`Simplify<https://img.scryfall.com/cards/border_crop/en/ody/269.jpg?1517813031|https://scryfall.com/card/ody/269/simplify?utm_source=api>`"
@@ -3700,7 +3732,7 @@ msgstr ""
 
 #: ../../ODY.rst:1381
 msgid "Enchanted land has \"|tap|: Create a 1/1 green Squirrel creature token.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Stwórz żeton zielonego stwora Wiewiór 1/1.\""
 
 #: ../../ODY.rst:1386
 msgid ""
@@ -3733,6 +3765,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, all "
 "creatures able to block Stone-Tongue Basilisk do so."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, wszystkie "
+"stwory mogące blokować tego stwora, robią to."
 
 #: ../../ODY.rst:1398
 msgid ""
@@ -3894,6 +3928,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, Mystic "
 "Enforcer gets +3/+3 and has flying."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +3/+3 i ma latanie."
 
 #: ../../ODY.rst:1466
 msgid ":mtgtip:`Phantatog<https://img.scryfall.com/cards/border_crop/en/ody/291.jpg?1517813031|https://scryfall.com/card/ody/291/phantatog?utm_source=api>`"
@@ -4102,6 +4138,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, Otarian"
 " Juggernaut gets +3/+0 and attacks each combat if able."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +3/+0 i atakuje w każdej bitwie, jeśli może."
 
 #: ../../ODY.rst:1546
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 23:38+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -995,6 +995,8 @@ msgstr "Stwory pod twoim władaniem mają czujność."
 #: ../../C16.rst:377
 msgid "Each creature you control can block an additional creature each combat."
 msgstr ""
+"Każdy stwór pod twoim władaniem może w każdej bitwie blokować dodatkowego "
+"stwora."
 
 #: ../../C16.rst:382
 msgid ""
@@ -2792,7 +2794,7 @@ msgstr "Obronność"
 
 #: ../../C16.rst:985
 msgid "When Wall of Blossoms enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../C16.rst:990
 msgid ""
@@ -3859,7 +3861,7 @@ msgstr ""
 
 #: ../../C16.rst:1383 ../../C16.rst:1487 ../../C16.rst:1565
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../C16.rst:1390
 msgid ""

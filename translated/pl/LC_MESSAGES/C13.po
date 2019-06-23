@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 22:04+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -482,6 +482,9 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
+"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
+"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
 #: ../../C13.rst:148
 msgid ""
@@ -786,16 +789,18 @@ msgid ""
 "Level up |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|: Put a level counter on "
 "this. Level up only as a sorcery.)"
 msgstr ""
+"Podnieś poziom |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|: Umieść na tym "
+"znacznik poziomu. Używaj jako obrzędu.)"
 
 # 449644af0efd4586bfce2990702aa9c5
 #: ../../C13.rst:247
 msgid "LEVEL 2-3"
-msgstr ""
+msgstr "POZIOM 2-3"
 
 # d3e023a628ea467dbdac1b655a6da55a
 #: ../../C13.rst:249
 msgid "2/4"
-msgstr ""
+msgstr "2/4"
 
 #: ../../C13.rst:251
 msgid ""
@@ -806,7 +811,7 @@ msgstr ""
 # ed723c39ec1a4a40b7975c0850dbf718
 #: ../../C13.rst:253
 msgid "LEVEL 4+"
-msgstr ""
+msgstr "POZIOM 4+"
 
 # 66b1f0618e7b47f48e9f2f17ea6971f1
 #: ../../C13.rst:255
@@ -854,16 +859,18 @@ msgid ""
 "Level up |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|: Put a level counter on "
 "this. Level up only as a sorcery.)"
 msgstr ""
+"Podnieś poziom |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|: Umieść na tym "
+"znacznik poziomu. Używaj jako obrzędu.)"
 
 # 3252d087fcfe4295af370fe89e0439d2
 #: ../../C13.rst:275
 msgid "LEVEL 1-2"
-msgstr ""
+msgstr "POZIOM 1-2"
 
 # b143c5a3f1de49b2b59c96c6468a71c2
 #: ../../C13.rst:277
 msgid "2/2"
-msgstr ""
+msgstr "2/2"
 
 # f9b384faad004261a5b110c7c210c129
 # 0903b5133a4b4c86b50f779d3a6a5fd1
@@ -874,16 +881,16 @@ msgstr ""
 # fbd194ed48644c7593733c3957db9c2d
 #: ../../C13.rst:281
 msgid "LEVEL 3+"
-msgstr ""
+msgstr "POZIOM 3+"
 
 # 794aeb5deebb46acb9c93f6b4bca5a92
 #: ../../C13.rst:283
 msgid "3/3"
-msgstr ""
+msgstr "3/3"
 
 #: ../../C13.rst:285
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../C13.rst:294
 msgid ""
@@ -1944,7 +1951,7 @@ msgstr ""
 
 #: ../../C13.rst:629
 msgid "Choose two —"
-msgstr ""
+msgstr "Wybierz dwie —"
 
 #: ../../C13.rst:631
 msgid "Incendiary Command deals 4 damage to target player or planeswalker."
@@ -2460,16 +2467,14 @@ msgstr ""
 
 # a6865b3ac2074e08b66f1c2ab1adb408
 #: ../../C13.rst:781
-#, fuzzy
 msgid ""
 "Vanishing 3 (This creature enters the battlefield with three time counters "
 "on it. At the beginning of your upkeep, remove a time counter from it. When "
 "the last is removed, sacrifice it.)"
 msgstr ""
-"Zawieszenie 5 — |mana_1|\\ |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
-"zapłacić |mana_1|\\ |mana_b| i wypędzić go z pięcioma znacznikami czasu. Na "
-"początku twojego utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik "
-"zostanie usunięty, rzuć go bez płacenia kosztu many.)"
+"Zanikanie 3 (Ten stwór wchodzi na pole walki z trzema znacznikami czasu. Na "
+"początku twojego kroku utzymania, usuń z niego znacznik czasu. Kiedy "
+"zostanie usunięty ostatnie, poświęć go.)"
 
 # a52d7ef1d7624b74861d8ebf59f4b0bc
 #: ../../C13.rst:783
@@ -2631,26 +2636,28 @@ msgid ""
 "Level up |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|: Put a level counter on "
 "this. Level up only as a sorcery.)"
 msgstr ""
+"Podnieś poziom |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|: Umieść na tym "
+"znacznik poziomu. Używaj jako obrzędu.)"
 
 # e2746c68afd34565a42e443378203f2e
 #: ../../C13.rst:833
 msgid "LEVEL 2-5"
-msgstr ""
+msgstr "POZIOM 2-5"
 
 # 11eaf1b24e6342f9a5883c3c01e0b97f
 # da54b7ecdeb743a5bcba5d443db71d21
 #: ../../C13.rst:835 ../../C13.rst:841
 msgid "1/1"
-msgstr ""
+msgstr "1/1"
 
 #: ../../C13.rst:837
 msgid "|tap|: Create a 3/3 green Elephant creature token."
-msgstr ""
+msgstr "|tap|: Stwórz żeton zielonego stwora Słoń 3/3."
 
 # 0fe96f7d92a143f1a2da02417159e9d3
 #: ../../C13.rst:839
 msgid "LEVEL 6+"
-msgstr ""
+msgstr "POZIOM 6+"
 
 #: ../../C13.rst:843
 msgid "|tap|: Create two 3/3 green Elephant creature tokens."
@@ -2677,25 +2684,23 @@ msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:853
-#, fuzzy
 msgid ""
 "Cycling |mana_2|\\ |mana_g| (|mana_2|\\ |mana_g|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_2|\\ |mana_g| (|mana_2|\\ |mana_g|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:855
-#, fuzzy
 msgid ""
 "When you cycle Krosan Tusker, you may search your library for a basic land "
 "card, reveal that card, put it into your hand, then shuffle your library. "
 "(Do this before you draw.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wchodzi na pole walki, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, a następnie przetasować twoją bibliotekę."
+"Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
+"bazowego lądu, ujawnić ją, umieścić w twojej ręce, następnie przetasować "
+"twoją bibliotekę. (Zrób to przed dobraniem.)"
 
 #: ../../C13.rst:862
 msgid ""
@@ -4757,7 +4762,7 @@ msgstr ""
 # d2c37d1092c9484fb90ed3bff1e30f58
 #: ../../C13.rst:1579
 msgid "Barren Moor enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C13.rst:1581 ../../C13.rst:1591 ../../C13.rst:1989
 msgid "|tap|: Add |mana_b|."
@@ -4974,7 +4979,7 @@ msgstr ""
 # e8323cc68807405eabd65f2a773173ad
 #: ../../C13.rst:1657
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr "Zapomniana Jaskinia wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../C13.rst:1659 ../../C13.rst:1913 ../../C13.rst:1965
 msgid "|tap|: Add |mana_r|."
@@ -5267,7 +5272,7 @@ msgstr ""
 # 58c48a54527d4e869a5be67924011ba9
 #: ../../C13.rst:1767
 msgid "Lonely Sandbar enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 16a94884c25444ccbec70c51b14490e0
 #: ../../C13.rst:1771
@@ -5520,7 +5525,7 @@ msgstr ""
 # ce095eb17fdb4a7d9f3ba1f0a788645f
 #: ../../C13.rst:1867
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # f2a01065e91f4825a9e18f1f6e48b90c
 #: ../../C13.rst:1871
@@ -5689,7 +5694,7 @@ msgstr ""
 # a31505a2ed3b4dac9c9e3b301b28ac39
 #: ../../C13.rst:1935
 msgid "Tranquil Thicket enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 8c1148b16f214805a2b8fbebb102c843
 #: ../../C13.rst:1939

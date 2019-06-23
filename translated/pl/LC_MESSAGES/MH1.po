@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-01 13:05+0200\n"
-"PO-Revision-Date: 2019-06-22 23:38+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mh1/pl/>\n"
 "Language: pl\n"
@@ -669,7 +669,7 @@ msgid "|mana_4|\\ |mana_s|\\ |mana_s|: Monstrosity 2. (If this creature isn't mo
 msgstr ""
 "|mana_4|\\ |mana_s|\\ |mana_s|: Monstrualność 2. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim dwa znaczniki +1/+1 i staje się on monstrualny. "
-"|mana_s| można opłacić jedną maną pochodzącą ze śnieżnego permanentu.)"
+"|mana_s| można opłacić jedną maną pobraną ze śnieżnego permanentu.)"
 
 #: ../../MH1.rst:267
 msgid "As long as Chillerpillar is monstrous, it has flying."
@@ -2184,10 +2184,14 @@ msgstr ""
 #: ../../MH1.rst:937
 msgid "Suspend 4—|mana_g| (Rather than cast this card from your hand, pay |mana_g| and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 4—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_g| i wygnać ją z czterema znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"jest usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH1.rst:939
 msgid "Create two 4/4 green Rhino creature tokens with trample."
-msgstr ""
+msgstr "Stwórz dwa żetony zielonego stwora Nosorożec 4/4 z tratowaniem."
 
 #: ../../MH1.rst:948
 msgid ":mtgtip:`Deep Forest Hermit<https://img.scryfall.com/cards/border_crop/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.jpg?1558464710|https://scryfall.com/card/mh1/161/deep-forest-hermit?utm_source=api>`"
@@ -2196,14 +2200,19 @@ msgstr ""
 #: ../../MH1.rst:943
 msgid "Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)"
 msgstr ""
+"Zanikanie 3 (Ten stwór wchodzi na pole walki z trzema znacznikami czasu. Na "
+"początku twojego kroku utzymania, usuń z niego znacznik czasu. Kiedy "
+"zostanie usunięty ostatnie, poświęć go.)"
 
 #: ../../MH1.rst:945
 msgid "When Deep Forest Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz cztery żetony zielonego stwora "
+"Wiewiór 1/1."
 
 #: ../../MH1.rst:947
 msgid "Squirrels you control get +1/+1."
-msgstr ""
+msgstr "Wiewióry pod twoim władaniem dostają +1/+1."
 
 #: ../../MH1.rst:954
 msgid ":mtgtip:`Elvish Fury<https://img.scryfall.com/cards/border_crop/front/e/5/e5a24943-0121-4c64-9624-2e4cff37e6ca.jpg?1558464716|https://scryfall.com/card/mh1/162/elvish-fury?utm_source=api>`"
@@ -2212,6 +2221,8 @@ msgstr ""
 #: ../../MH1.rst:951
 msgid "Buyback |mana_4| (You may pay an additional |mana_4| as you cast this spell. If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_4| (Rzucając ten czar możesz zapłacić dodatkowo |mana_4|. Jeśli "
+"to zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../MH1.rst:960
 msgid ":mtgtip:`Excavating Anurid<https://img.scryfall.com/cards/border_crop/front/d/3/d353d315-5790-417d-adf5-270df1ff34b0.jpg?1559302762|https://scryfall.com/card/mh1/163/excavating-anurid?utm_source=api>`"
@@ -2220,10 +2231,14 @@ msgstr ""
 #: ../../MH1.rst:957
 msgid "When Excavating Anurid enters the battlefield, you may sacrifice a land. If you do, draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić ląd. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../MH1.rst:959
 msgid "Threshold — As long as seven or more cards are in your graveyard, Excavating Anurid gets +1/+1 and has vigilance."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1 i ma czujność."
 
 #: ../../MH1.rst:966
 msgid ":mtgtip:`Force of Vigor<https://img.scryfall.com/cards/border_crop/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1558464721|https://scryfall.com/card/mh1/164/force-of-vigor?utm_source=api>`"
@@ -2232,10 +2247,12 @@ msgstr ""
 #: ../../MH1.rst:963
 msgid "If it's not your turn, you may exile a green card from your hand rather than pay this spell's mana cost."
 msgstr ""
+"Jeśli nie jest twoja tura, możesz wygnać zieloną kartę z twojej ręki zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../MH1.rst:965
 msgid "Destroy up to two target artifacts and/or enchantments."
-msgstr ""
+msgstr "Zniszcz co najwyżej dwa wskazane artefakty i/lub uroki."
 
 #: ../../MH1.rst:970
 msgid ":mtgtip:`Frostwalla<https://img.scryfall.com/cards/border_crop/front/f/a/fad4fc18-6f2c-45e4-a2c7-c2068b4f1a92.jpg?1559214225|https://scryfall.com/card/mh1/165/frostwalla?utm_source=api>`"
@@ -2244,6 +2261,9 @@ msgstr ""
 #: ../../MH1.rst:969
 msgid "|mana_s|: Frostwalla gets +2/+2 until end of turn. Activate this ability only once each turn. (|mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
+"|mana_s|: Ten stwór dostaje do końca tury +2/+2. Aktywuj tę zdolność tylko "
+"raz na turę. (|mana_s| można opłacić jedną maną pobraną ze śnieżnego "
+"permanentu.)"
 
 #: ../../MH1.rst:974
 msgid ":mtgtip:`Genesis<https://img.scryfall.com/cards/border_crop/front/9/b/9b741d88-513a-4f47-a4fd-af42c5e44b6d.jpg?1559303377|https://scryfall.com/card/mh1/166/genesis?utm_source=api>`"
@@ -2252,6 +2272,9 @@ msgstr ""
 #: ../../MH1.rst:973
 msgid "At the beginning of your upkeep, if Genesis is in your graveyard, you may pay |mana_2|\\ |mana_g|. If you do, return target creature card from your graveyard to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ta karta jest w twoim cmentarzu, "
+"możesz zapłacić |mana_2|\\ |mana_g|. Jeśli tak zrobisz, przywróć wskazaną "
+"kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../MH1.rst:978
 msgid ":mtgtip:`Glacial Revelation<https://img.scryfall.com/cards/border_crop/front/f/6/f615a5e9-deec-46cc-9444-de81cb0da9c0.jpg?1558597476|https://scryfall.com/card/mh1/167/glacial-revelation?utm_source=api>`"
@@ -2260,6 +2283,9 @@ msgstr ""
 #: ../../MH1.rst:977
 msgid "Reveal the top six cards of your library. You may put any number of snow permanent cards from among them into your hand. Put the rest into your graveyard."
 msgstr ""
+"Ujawnij sześć wierzchnich kart twojej biblioteki. Możesz umieścić dowolną "
+"liczbę kart śnieżnych permanentów spośród nich w twojej ręce. Umieść "
+"pozostałe w twoim cmentarzu."
 
 #: ../../MH1.rst:994
 msgid ":mtgtip:`Hexdrinker<https://img.scryfall.com/cards/border_crop/front/8/9/89f5cc05-5d9d-4709-b3c5-a6249c294acc.jpg?1559179960|https://scryfall.com/card/mh1/168/hexdrinker?utm_source=api>`"
@@ -2268,30 +2294,32 @@ msgstr ""
 #: ../../MH1.rst:981
 msgid "Level up |mana_1| (|mana_1|: Put a level counter on this. Level up only as a sorcery.)"
 msgstr ""
+"Podnieś poziom |mana_1| (|mana_1|: Umieść na tym znacznik poziomu. Używaj "
+"jako obrzędu.)"
 
 #: ../../MH1.rst:983
 msgid "LEVEL 3-7"
-msgstr ""
+msgstr "POZIOM 3-7"
 
 #: ../../MH1.rst:985
 msgid "4/4"
-msgstr ""
+msgstr "4/4"
 
 #: ../../MH1.rst:987
 msgid "Protection from instants"
-msgstr ""
+msgstr "Ochrona przed sztuczkami"
 
 #: ../../MH1.rst:989
 msgid "LEVEL 8+"
-msgstr ""
+msgstr "POZIOM 8+"
 
 #: ../../MH1.rst:991
 msgid "6/6"
-msgstr ""
+msgstr "6/6"
 
 #: ../../MH1.rst:993
 msgid "Protection from everything"
-msgstr ""
+msgstr "Ochrona przed wszystkim"
 
 #: ../../MH1.rst:1000
 msgid ":mtgtip:`Krosan Tusker<https://img.scryfall.com/cards/border_crop/front/6/3/6391ba8b-7d9a-4077-8eeb-1b2ced14d973.jpg?1559172018|https://scryfall.com/card/mh1/169/krosan-tusker?utm_source=api>`"
@@ -2300,10 +2328,15 @@ msgstr ""
 #: ../../MH1.rst:997
 msgid "Cycling |mana_2|\\ |mana_g| (|mana_2|\\ |mana_g|, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_2|\\ |mana_g| (|mana_2|\\ |mana_g|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../MH1.rst:999
 msgid "When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)"
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
+"bazowego lądu, ujawnić ją, umieścić w twojej ręce, następnie przetasować "
+"twoją bibliotekę. (Zrób to przed dobraniem.)"
 
 #: ../../MH1.rst:1004
 msgid ":mtgtip:`Llanowar Tribe<https://img.scryfall.com/cards/border_crop/front/7/2/723d3d8d-e78b-40b8-aed5-888a2d0baa60.jpg?1559068211|https://scryfall.com/card/mh1/170/llanowar-tribe?utm_source=api>`"
@@ -2311,7 +2344,7 @@ msgstr ""
 
 #: ../../MH1.rst:1003
 msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../MH1.rst:1008
 msgid ":mtgtip:`Mother Bear<https://img.scryfall.com/cards/border_crop/front/e/f/efae4d84-8134-461a-a352-a5bdff7259a7.jpg?1558616808|https://scryfall.com/card/mh1/171/mother-bear?utm_source=api>`"
@@ -2320,6 +2353,8 @@ msgstr ""
 #: ../../MH1.rst:1007
 msgid "|mana_3|\\ |mana_g|\\ |mana_g|, Exile Mother Bear from your graveyard: Create two 2/2 green Bear creature tokens. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_g|\\ |mana_g|, wygnaj tę kartę z twojego cmentarza: Stwórz "
+"dwa żetony zielonego stwora Niedźwiedź 2/2. Używaj jako obrzędu."
 
 #: ../../MH1.rst:1014
 msgid ":mtgtip:`Murasa Behemoth<https://img.scryfall.com/cards/border_crop/front/4/8/480ddde1-81d3-4939-b232-cb1ced6cfc4d.jpg?1559302822|https://scryfall.com/card/mh1/172/murasa-behemoth?utm_source=api>`"
@@ -2327,7 +2362,7 @@ msgstr ""
 
 #: ../../MH1.rst:1013
 msgid "Murasa Behemoth gets +3/+3 as long as there is a land card in your graveyard."
-msgstr ""
+msgstr "Ten stwór dostaje +3/+3 o ile w twoim cmentarzu jest karta lądu."
 
 #: ../../MH1.rst:1018
 msgid ":mtgtip:`Nantuko Cultivator<https://img.scryfall.com/cards/border_crop/front/3/3/33a7e43a-4028-41e5-b5dd-be8ef6a1b510.jpg?1558981049|https://scryfall.com/card/mh1/173/nantuko-cultivator?utm_source=api>`"
@@ -2336,6 +2371,9 @@ msgstr ""
 #: ../../MH1.rst:1017
 msgid "When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz odrzucić dowolną liczbę kart "
+"lądów. Umieść tyle samo znaczników +1/+1 na tym stworze i dobierz tyle samo "
+"kart."
 
 #: ../../MH1.rst:1024
 msgid ":mtgtip:`Nimble Mongoose<https://img.scryfall.com/cards/border_crop/front/8/a/8a6374ad-71be-422e-bd76-4f08fbf43048.jpg?1558555386|https://scryfall.com/card/mh1/174/nimble-mongoose?utm_source=api>`"
@@ -2343,11 +2381,13 @@ msgstr ""
 
 #: ../../MH1.rst:1021
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../MH1.rst:1023
 msgid "Threshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard."
 msgstr ""
+"Próg — Ten stwór dostaje +2/+2 o ile w twoim cmentarzu jest przynajmniej "
+"siedem kart."
 
 #: ../../MH1.rst:1028
 msgid ":mtgtip:`Regrowth<https://img.scryfall.com/cards/border_crop/front/d/7/d771fc5d-b9a1-4637-8241-3f54616b64af.jpg?1558618674|https://scryfall.com/card/mh1/175/regrowth?utm_source=api>`"
@@ -2355,7 +2395,7 @@ msgstr ""
 
 #: ../../MH1.rst:1027
 msgid "Return target card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../MH1.rst:1032
 msgid ":mtgtip:`Rime Tender<https://img.scryfall.com/cards/border_crop/front/8/c/8ce0ab73-4df6-479f-8710-61ef87cce3b4.jpg?1559302889|https://scryfall.com/card/mh1/176/rime-tender?utm_source=api>`"
@@ -2363,7 +2403,7 @@ msgstr ""
 
 #: ../../MH1.rst:1031
 msgid "|tap|: Untap another target snow permanent."
-msgstr ""
+msgstr "|tap|: Odkręć inny wskazany śnieżny permanent."
 
 #: ../../MH1.rst:1036
 msgid ":mtgtip:`Saddled Rimestag<https://img.scryfall.com/cards/border_crop/front/a/0/a0e8491f-9c51-41c0-994e-d3f0f5f6a411.jpg?1559302942|https://scryfall.com/card/mh1/177/saddled-rimestag?utm_source=api>`"
@@ -2372,6 +2412,8 @@ msgstr ""
 #: ../../MH1.rst:1035
 msgid "Saddled Rimestag gets +2/+2 as long as you had another creature enter the battlefield under your control this turn."
 msgstr ""
+"Ten stwór dostaje +2/+2 o ile w tej turze na pole walki wszedł inny stwór "
+"pod twoim władaniem."
 
 #: ../../MH1.rst:1040
 msgid ":mtgtip:`Savage Swipe<https://img.scryfall.com/cards/border_crop/front/e/e/eea7e77c-ede5-41bd-b766-9a76ce691607.jpg?1558464727|https://scryfall.com/card/mh1/178/savage-swipe?utm_source=api>`"
@@ -2380,6 +2422,9 @@ msgstr ""
 #: ../../MH1.rst:1039
 msgid "Target creature you control gets +2/+2 until end of turn if its power is 2. Then it fights target creature you don't control. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+2 jeśli ma siłę "
+"2. Następnie walczy on ze wskazanym stworem poza twoim władaniem. (Zadają "
+"sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../MH1.rst:1046
 msgid ":mtgtip:`Scale Up<https://img.scryfall.com/cards/border_crop/front/3/f/3f2d9bae-2753-486c-be79-2438208ac353.jpg?1559336397|https://scryfall.com/card/mh1/179/scale-up?utm_source=api>`"
@@ -2388,6 +2433,8 @@ msgstr ""
 #: ../../MH1.rst:1043
 msgid "Until end of turn, target creature you control becomes a green Wurm with base power and toughness 6/4."
 msgstr ""
+"Do końca tury, wskazany stwór pod twoim władaniem staje się zielonym Żmijem "
+"z bazowymi siłą i wytrzymałością 6/4."
 
 #: ../../MH1.rst:1045
 msgid "Overload |mana_4|\\ |mana_g|\\ |mana_g| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
@@ -2403,6 +2450,8 @@ msgstr ""
 #: ../../MH1.rst:1049
 msgid "Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Poświęć tego stwora: Zażegnaj wszystkie obrażenia bojowe, które mogłyby "
+"zostać zadane w tej turze."
 
 #: ../../MH1.rst:1054
 msgid ":mtgtip:`Springbloom Druid<https://img.scryfall.com/cards/border_crop/front/6/1/6161d2ed-7cff-4c90-9e74-1d179a6c1498.jpg?1558963837|https://scryfall.com/card/mh1/181/springbloom-druid?utm_source=api>`"
@@ -2411,6 +2460,9 @@ msgstr ""
 #: ../../MH1.rst:1053
 msgid "When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić ląd. Jeśli to "
+"zrobisz, wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, "
+"umieść je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../MH1.rst:1060
 msgid ":mtgtip:`Squirrel Nest<https://img.scryfall.com/cards/border_crop/front/6/9/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca.jpg?1558556651|https://scryfall.com/card/mh1/182/squirrel-nest?utm_source=api>`"
@@ -2418,11 +2470,11 @@ msgstr ""
 
 #: ../../MH1.rst:1057
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../MH1.rst:1059
 msgid "Enchanted land has \"|tap|: Create a 1/1 green Squirrel creature token.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Stwórz żeton zielonego stwora Wiewiór 1/1.\""
 
 #: ../../MH1.rst:1064
 msgid ":mtgtip:`Tempered Sliver<https://img.scryfall.com/cards/border_crop/front/6/9/69026075-adfa-48b0-b30e-04b0a76904c3.jpg?1558525492|https://scryfall.com/card/mh1/183/tempered-sliver?utm_source=api>`"
@@ -2440,11 +2492,13 @@ msgstr ""
 
 #: ../../MH1.rst:1067
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../MH1.rst:1069
 msgid "Cycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../MH1.rst:1078
 msgid ":mtgtip:`Treefolk Umbra<https://img.scryfall.com/cards/border_crop/front/6/7/677166cf-4e1e-43ac-a67b-afaf33c0d14e.jpg?1559303021|https://scryfall.com/card/mh1/185/treefolk-umbra?utm_source=api>`"
@@ -2453,10 +2507,14 @@ msgstr ""
 #: ../../MH1.rst:1075
 msgid "Enchanted creature gets +0/+2 and assigns combat damage equal to its toughness rather than its power."
 msgstr ""
+"Zauroczony stwór dostaje +0/+2 i zadaje obrażenia bojowe równe swojej "
+"wytrzymałości zamiast siły."
 
 #: ../../MH1.rst:1077
 msgid "Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)"
 msgstr ""
+"Zbroja totemowa (Jeśli zauroczony stwór miałby zostać zniszczony, zamiast "
+"tego usuń z niego obrażenia i zniszcz tę Aurę.)"
 
 #: ../../MH1.rst:1084
 msgid ":mtgtip:`Treetop Ambusher<https://img.scryfall.com/cards/border_crop/front/e/1/e1722a55-850c-4924-be98-45539f4676a2.jpg?1559303077|https://scryfall.com/card/mh1/186/treetop-ambusher?utm_source=api>`"
@@ -2465,10 +2523,15 @@ msgstr ""
 #: ../../MH1.rst:1081
 msgid "Dash |mana_1|\\ |mana_g| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_1|\\ |mana_g| (Możesz rzucić ten czar za koszt brawury. Jeśli "
+"tak zrobisz, dostaje on pośpiech i jest przywracany z pola walki do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../MH1.rst:1083
 msgid "Whenever Treetop Ambusher attacks, target creature you control gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, wskazany stwór pod twoim władaniem dostaje do "
+"końca tury +1/+1."
 
 #: ../../MH1.rst:1090
 msgid ":mtgtip:`Trumpeting Herd<https://img.scryfall.com/cards/border_crop/front/b/0/b0f3b68e-f616-4687-bc2d-075165162cd1.jpg?1559303156|https://scryfall.com/card/mh1/187/trumpeting-herd?utm_source=api>`"
@@ -2476,11 +2539,14 @@ msgstr ""
 
 #: ../../MH1.rst:1087
 msgid "Create a 3/3 green Elephant creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Słoń 3/3."
 
 #: ../../MH1.rst:1089
 msgid "Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
 msgstr ""
+"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
+"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
 #: ../../MH1.rst:1096
 msgid ":mtgtip:`Twin-Silk Spider<https://img.scryfall.com/cards/border_crop/front/7/c/7cf3188c-879b-4b18-88b4-6237d7162271.jpg?1559303200|https://scryfall.com/card/mh1/188/twin-silk-spider?utm_source=api>`"
@@ -2495,6 +2561,8 @@ msgstr "Zasięg"
 #: ../../MH1.rst:1095
 msgid "When Twin-Silk Spider enters the battlefield, create a 1/2 green Spider creature token with reach."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora Pająk 1/"
+"2 z zasięgiem."
 
 #: ../../MH1.rst:1102
 msgid ":mtgtip:`Unbound Flourishing<https://img.scryfall.com/cards/border_crop/front/6/f/6f594d07-932e-4fe6-832d-d0a0be3530aa.jpg?1558963746|https://scryfall.com/card/mh1/189/unbound-flourishing?utm_source=api>`"
@@ -2503,10 +2571,15 @@ msgstr ""
 #: ../../MH1.rst:1099
 msgid "Whenever you cast a permanent spell with a mana cost that contains |mana_x|, double the value of X."
 msgstr ""
+"Ilekroć rzucisz czar permanentu o koszcie many zawierającym |mana_x|, podwój "
+"wartość X."
 
 #: ../../MH1.rst:1101
 msgid "Whenever you cast an instant or sorcery spell or activate an ability, if that spell's mana cost or that ability's activation cost contains |mana_x|, copy that spell or ability. You may choose new targets for the copy."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu lub aktywujesz zdolność, jeśli "
+"koszt aktywacji owego czaru lub zdolności zawiera |mana_x|, skopiuj ów czar "
+"lub zdolność. Możesz wskazać nowe cele dla kopii."
 
 #: ../../MH1.rst:1108
 msgid ":mtgtip:`Wall of Blossoms<https://img.scryfall.com/cards/border_crop/front/0/5/05ef5786-7786-4418-b245-038b58fd7123.jpg?1559303386|https://scryfall.com/card/mh1/190/wall-of-blossoms?utm_source=api>`"
@@ -2514,11 +2587,11 @@ msgstr ""
 
 #: ../../MH1.rst:1105
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../MH1.rst:1107
 msgid "When Wall of Blossoms enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../MH1.rst:1114
 msgid ":mtgtip:`Weather the Storm<https://img.scryfall.com/cards/border_crop/front/f/6/f6a9fa51-78c3-42e6-8c2e-39658f59ed87.jpg?1559076227|https://scryfall.com/card/mh1/191/weather-the-storm?utm_source=api>`"
@@ -2526,7 +2599,7 @@ msgstr ""
 
 #: ../../MH1.rst:1111
 msgid "You gain 3 life."
-msgstr ""
+msgstr "Zyskaj 3 życia."
 
 #: ../../MH1.rst:1122
 msgid ":mtgtip:`Webweaver Changeling<https://img.scryfall.com/cards/border_crop/front/9/1/91571765-8da8-49f9-a776-7778d86cfb99.jpg?1559127632|https://scryfall.com/card/mh1/192/webweaver-changeling?utm_source=api>`"
@@ -2545,6 +2618,9 @@ msgstr ""
 #: ../../MH1.rst:1125
 msgid "Choose creature or land. Reveal the top four cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest into your graveyard."
 msgstr ""
+"Wybierz: stwór albo ląd. Ujawnij cztery wierzchnie karty twojej biblioteki. "
+"Umieść wszystkie ujawnione w ten sposób karty wybranego typu w twojej ręce, "
+"a pozostałe w twoim cmentarzu."
 
 #: ../../MH1.rst:1134
 msgid ":mtgtip:`Abominable Treefolk<https://img.scryfall.com/cards/border_crop/front/1/e/1eddb834-ea01-44e2-afca-bd9a4ebbdb94.jpg?1558464733|https://scryfall.com/card/mh1/194/abominable-treefolk?utm_source=api>`"
@@ -2553,10 +2629,15 @@ msgstr ""
 #: ../../MH1.rst:1131
 msgid "Abominable Treefolk's power and toughness are each equal to the number of snow permanents you control."
 msgstr ""
+"Siła i wytrzymałość tego stwora są równe liczbie śnieżnych permanentów pod "
+"twoim władaniem każda."
 
 #: ../../MH1.rst:1133
 msgid "When Abominable Treefolk enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../MH1.rst:1138
 msgid ":mtgtip:`Cloudshredder Sliver<https://img.scryfall.com/cards/border_crop/front/2/7/27933191-dad6-43d5-b02e-a94ad8033f2f.jpg?1558963573|https://scryfall.com/card/mh1/195/cloudshredder-sliver?utm_source=api>`"
@@ -2573,6 +2654,10 @@ msgstr ""
 #: ../../MH1.rst:1141
 msgid "Exile the top six cards of your library. You may cast up to two sorcery cards with converted mana costs 3 or less from among them without paying their mana cost. Put the exiled cards not cast this way on the bottom of your library in a random order."
 msgstr ""
+"Wygnaj sześć wierzchnich kart twojej biblioteki. Możesz rzucić spośród nich "
+"co najwyżej dwie karty obrzędu o skróconym koszcie many 3 lub mniejszym bez "
+"płacenia ich kosztu many. Umieść nie rzucone z tych wygnanych kart w losowej "
+"kolejności na spodzie twojej biblioteki."
 
 #: ../../MH1.rst:1146
 msgid ":mtgtip:`Eladamri's Call<https://img.scryfall.com/cards/border_crop/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1559303400|https://scryfall.com/card/mh1/197/eladamris-call?utm_source=api>`"
@@ -2581,6 +2666,8 @@ msgstr ""
 #: ../../MH1.rst:1145
 msgid "Search your library for a creature card, reveal that card, put it into your hand, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, umieść w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../MH1.rst:1154
 msgid ":mtgtip:`Etchings of the Chosen<https://img.scryfall.com/cards/border_crop/front/7/0/7036ab83-94a3-4634-9f0a-dde7af3be450.jpg?1558618078|https://scryfall.com/card/mh1/198/etchings-of-the-chosen?utm_source=api>`"
@@ -2588,7 +2675,7 @@ msgstr ""
 
 #: ../../MH1.rst:1149
 msgid "As Etchings of the Chosen enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu walki wybierz typ stwora."
 
 #: ../../MH1.rst:1151
 msgid "Creatures you control of the chosen type get +1/+1."
@@ -2597,6 +2684,8 @@ msgstr "Stwory wybranego typu pod twoim władaniem dostają +1/+1."
 #: ../../MH1.rst:1153
 msgid "|mana_1|, Sacrifice a creature of the chosen type: Target creature you control gains indestructible until end of turn."
 msgstr ""
+"|mana_1|, poświęć stwora wybranego typu: Wskazany stwór pod twoim władaniem "
+"zyskuje do końca tury niezniszczalność."
 
 #: ../../MH1.rst:1160
 msgid ":mtgtip:`Fallen Shinobi<https://img.scryfall.com/cards/border_crop/front/9/0/900c9dfd-ece1-4b09-a801-0fa05e1994b9.jpg?1558733934|https://scryfall.com/card/mh1/199/fallen-shinobi?utm_source=api>`"
@@ -2612,6 +2701,9 @@ msgstr ""
 #: ../../MH1.rst:1159
 msgid "Whenever Fallen Shinobi deals combat damage to a player, that player exiles the top two cards of their library. Until end of turn, you may play those cards without paying their mana cost."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz wygania dwie "
+"wierzchnie karty swojej biblioteki. Do końca tury możesz zagrać owe karty "
+"bez płacenia ich kosztów many."
 
 #: ../../MH1.rst:1166
 msgid ":mtgtip:`The First Sliver<https://img.scryfall.com/cards/border_crop/front/0/6/06d4fbe1-8a2f-4958-bb85-1a1e5f1e8d87.jpg?1558525414|https://scryfall.com/card/mh1/200/the-first-sliver?utm_source=api>`"
@@ -2628,6 +2720,8 @@ msgstr ""
 #: ../../MH1.rst:1169
 msgid "Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"znacznik +1/+1 na owym stworze."
 
 #: ../../MH1.rst:1180
 msgid ":mtgtip:`Hogaak, Arisen Necropolis<https://img.scryfall.com/cards/border_crop/front/0/0/0049e68d-0caf-474f-9523-dad343f1250a.jpg?1559151695|https://scryfall.com/card/mh1/202/hogaak-arisen-necropolis?utm_source=api>`"
@@ -2635,15 +2729,18 @@ msgstr ""
 
 #: ../../MH1.rst:1173
 msgid "You can't spend mana to cast this spell."
-msgstr ""
+msgstr "Nie możesz wydawać many na rzucenie tego czaru."
 
 #: ../../MH1.rst:1175
 msgid "Convoke, delve (Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color. Each card you exile from your graveyard pays for |mana_1|.)"
 msgstr ""
+"Współpraca, wykopywanie (Każdy stwór, którego przekręcisz podczas rzucania "
+"tego czaru płaci za |mana_1| lub jedną manę w kolorze owego stwora. Każda "
+"karta, którą wygnasz z twojego cmentarza, opłaca |mana_1|.)"
 
 #: ../../MH1.rst:1177
 msgid "You may cast Hogaak, Arisen Necropolis from your graveyard."
-msgstr ""
+msgstr "Możesz rzucić tego stwora z twojego cmentarza."
 
 #: ../../MH1.rst:1190
 msgid ":mtgtip:`Ice-Fang Coatl<https://img.scryfall.com/cards/border_crop/front/6/a/6a55cfed-e76c-4ade-ac78-a546e05fe8da.jpg?1558464738|https://scryfall.com/card/mh1/203/ice-fang-coatl?utm_source=api>`"
@@ -2651,11 +2748,13 @@ msgstr ""
 
 #: ../../MH1.rst:1187
 msgid "When Ice-Fang Coatl enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../MH1.rst:1189
 msgid "Ice-Fang Coatl has deathtouch as long as you control at least three other snow permanents."
 msgstr ""
+"Ten stwór ma dotyk śmierci o ile władasz przynajmniej trzema innymi "
+"śnieżnymi permanentami."
 
 #: ../../MH1.rst:1196
 msgid ":mtgtip:`Ingenious Infiltrator<https://img.scryfall.com/cards/border_crop/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1559127899|https://scryfall.com/card/mh1/204/ingenious-infiltrator?utm_source=api>`"
@@ -2671,6 +2770,8 @@ msgstr ""
 #: ../../MH1.rst:1195
 msgid "Whenever a Ninja you control deals combat damage to a player, draw a card."
 msgstr ""
+"Ilekroć Ninja pod twoim władaniem zada graczowi obrażenia bojowe, dobierz "
+"kartę."
 
 #: ../../MH1.rst:1210
 msgid ":mtgtip:`Kaya's Guile<https://img.scryfall.com/cards/border_crop/front/1/7/179bd74b-c458-49d6-90ac-6075454e43dd.jpg?1558984052|https://scryfall.com/card/mh1/205/kayas-guile?utm_source=api>`"
@@ -2678,27 +2779,27 @@ msgstr ""
 
 #: ../../MH1.rst:1199
 msgid "Choose two —"
-msgstr ""
+msgstr "Wybierz dwie —"
 
 #: ../../MH1.rst:1201
 msgid "Each opponent sacrifices a creature."
-msgstr ""
+msgstr "Każdy przeciwnik poświęca stwora."
 
 #: ../../MH1.rst:1203
 msgid "Exile all cards from each opponent's graveyard."
-msgstr ""
+msgstr "Wygnaj wszystkie karty z cmentarza każdego przeciwnika."
 
 #: ../../MH1.rst:1205
 msgid "Create a 1/1 white and black Spirit creature token with flying."
-msgstr ""
+msgstr "Stwórz żeton biało-czarnego stwora Duch 1/1 z lataniem."
 
 #: ../../MH1.rst:1207
 msgid "You gain 4 life."
-msgstr ""
+msgstr "Zyskaj 4 życia."
 
 #: ../../MH1.rst:1209
 msgid "Entwine |mana_3| (Choose all if you pay the entwine cost.)"
-msgstr ""
+msgstr "Splątanie |mana_3| (Wybierz wszystko jeśli opłacisz koszt splątania.)"
 
 #: ../../MH1.rst:1216
 msgid ":mtgtip:`Kess, Dissident Mage<https://img.scryfall.com/cards/border_crop/front/3/6/3651483f-6077-4b4e-b2c7-9d57f22c65dc.jpg?1558966567|https://scryfall.com/card/mh1/206/kess-dissident-mage?utm_source=api>`"
@@ -2707,6 +2808,9 @@ msgstr ""
 #: ../../MH1.rst:1215
 msgid "During each of your turns, you may cast an instant or sorcery card from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."
 msgstr ""
+"W trakcie każdej ze swoich tur możesz rzucić kartę sztuczki lub obrzędu z "
+"twojego cmentarza. Jeśli karta rzucona w ten sposób miałaby zostać "
+"umieszczona w twoim cmentarzu, zamiast tego wygnaj ją."
 
 #: ../../MH1.rst:1220
 msgid ":mtgtip:`Lavabelly Sliver<https://img.scryfall.com/cards/border_crop/front/f/6/f6f0c9d6-cffc-4d8c-b455-e9feb8748aa7.jpg?1558525338|https://scryfall.com/card/mh1/207/lavabelly-sliver?utm_source=api>`"
@@ -2726,10 +2830,12 @@ msgstr ""
 #: ../../MH1.rst:1225
 msgid "Whenever Lightning Skelemental deals combat damage to a player, that player discards two cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca dwie "
+"karty."
 
 #: ../../MH1.rst:1227
 msgid "At the beginning of the end step, sacrifice Lightning Skelemental."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć tego stwora."
 
 #: ../../MH1.rst:1234
 msgid ":mtgtip:`Munitions Expert<https://img.scryfall.com/cards/border_crop/front/a/8/a8572dfd-9da1-4727-b549-47f9b119f6ac.jpg?1558464743|https://scryfall.com/card/mh1/209/munitions-expert?utm_source=api>`"
@@ -2738,6 +2844,8 @@ msgstr ""
 #: ../../MH1.rst:1233
 msgid "When Munitions Expert enters the battlefield, you may have it deal damage to target creature or planeswalker equal to the number of Goblins you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, że zada wskazanemu "
+"graczowi lub wędrowcowi obrażenia równe liczbie Goblinów pod twoim władaniem."
 
 #: ../../MH1.rst:1238
 msgid ":mtgtip:`Nature's Chant<https://img.scryfall.com/cards/border_crop/front/9/a/9a17cbf6-3f38-4bc6-8448-881e19cffe06.jpg?1559304675|https://scryfall.com/card/mh1/210/natures-chant?utm_source=api>`"
@@ -2754,6 +2862,8 @@ msgstr ""
 #: ../../MH1.rst:1241
 msgid "Return X cards at random from your graveyard to your hand. Exile Reap the Past."
 msgstr ""
+"Przywróć X losowych kart z twojego cmentarza do twojej ręki. Wygnaj "
+"niniejszą kartę."
 
 #: ../../MH1.rst:1248
 msgid ":mtgtip:`Rotwidow Pack<https://img.scryfall.com/cards/border_crop/front/2/c/2cda35eb-ae42-43be-9015-3c468c7ebede.jpg?1559239012|https://scryfall.com/card/mh1/212/rotwidow-pack?utm_source=api>`"
@@ -2762,6 +2872,9 @@ msgstr ""
 #: ../../MH1.rst:1247
 msgid "|mana_3|\\ |mana_b|\\ |mana_g|, Exile a creature card from your graveyard: Create a 1/2 green Spider creature token with reach, then each opponent loses 1 life for each Spider you control."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_g|, wygnaj kartę stwora z twojego cmentarza: "
+"Stwórz żeton zielonego stwora Pająk 1/2 z zasięgiem, następnie każdy "
+"przeciwnik traci 1 życie za każdego Pająka pod twoim władaniem."
 
 #: ../../MH1.rst:1252
 msgid ":mtgtip:`Ruination Rioter<https://img.scryfall.com/cards/border_crop/front/5/a/5a00ac82-a884-40c4-9d09-3190a1099726.jpg?1559160180|https://scryfall.com/card/mh1/213/ruination-rioter?utm_source=api>`"
@@ -2770,6 +2883,8 @@ msgstr ""
 #: ../../MH1.rst:1251
 msgid "When Ruination Rioter dies, you may have it deal damage to any target equal to the number of land cards in your graveyard."
 msgstr ""
+"Kiedy ten stwór umrze, możesz sprawić, że zada w dowolnie wskazany cel "
+"obrażenia równe liczbie kart lądów w twoim cmentarzu."
 
 #: ../../MH1.rst:1258
 msgid ":mtgtip:`Soulherder<https://img.scryfall.com/cards/border_crop/front/e/a/ea23111b-ccc1-4d5c-a9d2-9db14c728820.jpg?1559304697|https://scryfall.com/card/mh1/214/soulherder?utm_source=api>`"
@@ -2778,10 +2893,15 @@ msgstr ""
 #: ../../MH1.rst:1255
 msgid "Whenever a creature is exiled from the battlefield, put a +1/+1 counter on Soulherder."
 msgstr ""
+"Ilekroć stwór zostaje wygnany z pola walki, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../MH1.rst:1257
 msgid "At the beginning of your end step, you may exile another target creature you control, then return that card to the battlefield under its owner's control."
 msgstr ""
+"Na początku twojego kroku końcowego możesz wygnać innego wskazanego stwora "
+"pod twoim władaniem, następnie przywróć ową kartę na pole walki pod "
+"władaniem jej właściciela."
 
 #: ../../MH1.rst:1264
 msgid ":mtgtip:`Thundering Djinn<https://img.scryfall.com/cards/border_crop/front/2/8/28642fbe-90c8-4beb-9950-91af28d93326.jpg?1558618064|https://scryfall.com/card/mh1/215/thundering-djinn?utm_source=api>`"
@@ -2790,6 +2910,8 @@ msgstr ""
 #: ../../MH1.rst:1263
 msgid "Whenever Thundering Djinn attacks, it deals damage to any target equal to the number of cards you've drawn this turn."
 msgstr ""
+"Kiedy ten stwór atakuje, zadaje w dowolnie wskazany cel obrażenia równe "
+"liczbie kart dobranych przez ciebie w tej turze."
 
 #: ../../MH1.rst:1270
 msgid ":mtgtip:`Unsettled Mariner<https://img.scryfall.com/cards/border_crop/front/e/a/eaea2e54-ee50-47b9-a2a5-e3353831248c.jpg?1559172243|https://scryfall.com/card/mh1/216/unsettled-mariner?utm_source=api>`"
@@ -2798,6 +2920,9 @@ msgstr ""
 #: ../../MH1.rst:1269
 msgid "Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays |mana_1|."
 msgstr ""
+"Ilekroć ty lub permanent pod twoim władaniem zostaniecie wskazani przez czar "
+"lub zdolność pod władaniem przeciwnika, skontruj ów czar lub zdolność, chyba "
+"że ich władca zapłaci |mana_1|."
 
 #: ../../MH1.rst:1278
 msgid ":mtgtip:`Wrenn and Six<https://img.scryfall.com/cards/border_crop/front/4/a/4a706ecf-3277-40e3-871c-4ba4ead16e20.jpg?1558963633|https://scryfall.com/card/mh1/217/wrenn-and-six?utm_source=api>`"
@@ -2806,14 +2931,18 @@ msgstr ""
 #: ../../MH1.rst:1273
 msgid "+1: Return up to one target land card from your graveyard to your hand."
 msgstr ""
+"+1: Przywróć co najwyżej jedną wskazaną kartę lądu z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../MH1.rst:1275
 msgid "-1: Wrenn and Six deals 1 damage to any target."
-msgstr ""
+msgstr "–1: Ten wędrowiec zadaje 1 obrażenie w dowolnie wskazany cel."
 
 #: ../../MH1.rst:1277
 msgid "-7: You get an emblem with \"Instant and sorcery cards in your graveyard have retrace.\""
 msgstr ""
+"–7: Dostajesz emblemat o treści \"Karty sztuczek i obrzędów w twoim "
+"cmentarzu mają odtworzenie.\""
 
 #: ../../MH1.rst:1282
 msgid ":mtgtip:`Altar of Dementia<https://img.scryfall.com/cards/border_crop/front/1/6/169356e0-46dc-4096-8e66-36726454f104.jpg?1558728736|https://scryfall.com/card/mh1/218/altar-of-dementia?utm_source=api>`"
@@ -2822,6 +2951,8 @@ msgstr ""
 #: ../../MH1.rst:1281
 msgid "Sacrifice a creature: Target player puts a number of cards equal to the sacrificed creature's power from the top of their library into their graveyard."
 msgstr ""
+"Poświęć stwora: Wskazany gracz umieszcza w swoim cmentarzu liczbę kart z "
+"wierzchu swojej biblioteki równą sile poświęconego stwora."
 
 #: ../../MH1.rst:1288
 msgid ":mtgtip:`Amorphous Axe<https://img.scryfall.com/cards/border_crop/front/8/d/8d149ede-3201-451a-a640-d0c10b024dbc.jpg?1559301570|https://scryfall.com/card/mh1/219/amorphous-axe?utm_source=api>`"
@@ -2829,11 +2960,11 @@ msgstr ""
 
 #: ../../MH1.rst:1285
 msgid "Equipped creature gets +3/+0 and is every creature type."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma każdy typ stwora."
 
 #: ../../MH1.rst:1287
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../MH1.rst:1296
 msgid ":mtgtip:`Arcum's Astrolabe<https://img.scryfall.com/cards/border_crop/front/c/2/c2462fdf-a594-47d0-8e10-b55901e350d9.jpg?1559127760|https://scryfall.com/card/mh1/220/arcums-astrolabe?utm_source=api>`"
@@ -2842,11 +2973,11 @@ msgstr ""
 #: ../../MH1.rst:1291
 #: ../../MH1.rst:1315
 msgid "(|mana_s| can be paid with one mana from a snow permanent.)"
-msgstr ""
+msgstr "(|mana_s| można opłacić jedną maną pobraną ze śnieżnego permanentu.)"
 
 #: ../../MH1.rst:1293
 msgid "When Arcum's Astrolabe enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
 
 #: ../../MH1.rst:1295
 #: ../../MH1.rst:1399
@@ -2869,11 +3000,13 @@ msgstr ""
 
 #: ../../MH1.rst:1303
 msgid "Farmstead Gleaner doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../MH1.rst:1305
 msgid "|mana_2|, |untap|: Put a +1/+1 counter on Farmstead Gleaner. (|untap| is the untap symbol.)"
 msgstr ""
+"|mana_2|, |untap|: Umieść znacznik +1/+1 na tym stworze. (|untap| jest "
+"symbolem odkręcenia.)"
 
 #: ../../MH1.rst:1312
 msgid ":mtgtip:`Fountain of Ichor<https://img.scryfall.com/cards/border_crop/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.jpg?1559301685|https://scryfall.com/card/mh1/223/fountain-of-ichor?utm_source=api>`"
@@ -2887,6 +3020,8 @@ msgstr "|tap|: Weź jedną manę dowolnego koloru."
 #: ../../MH1.rst:1311
 msgid "|mana_3|: Fountain of Ichor becomes a 3/3 Dinosaur artifact creature until end of turn."
 msgstr ""
+"|mana_3|: Ten artefakt staje się do końca tury artefaktycznym stworem "
+"Dinozaur 3/3."
 
 #: ../../MH1.rst:1316
 msgid ":mtgtip:`Icehide Golem<https://img.scryfall.com/cards/border_crop/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1559127740|https://scryfall.com/card/mh1/224/icehide-golem?utm_source=api>`"
@@ -2898,11 +3033,11 @@ msgstr ""
 
 #: ../../MH1.rst:1319
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../MH1.rst:1321
 msgid "|mana_4|: Lesser Masticore deals 1 damage to target creature."
-msgstr ""
+msgstr "|mana_4|: Ten stwór zadaje wskazanemu stworowi 1 obrażenie."
 
 #: ../../MH1.rst:1330
 msgid ":mtgtip:`Mox Tantalite<https://img.scryfall.com/cards/border_crop/front/d/c/dcd05b01-dc73-4dd2-970a-32ec6e153c86.jpg?1559303440|https://scryfall.com/card/mh1/226/mox-tantalite?utm_source=api>`"
@@ -2911,6 +3046,10 @@ msgstr ""
 #: ../../MH1.rst:1327
 msgid "Suspend 3—|mana_0| (Rather than cast this card from your hand, pay |mana_0| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu jest usunięty, "
+"rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH1.rst:1336
 msgid ":mtgtip:`Scrapyard Recombiner<https://img.scryfall.com/cards/border_crop/front/8/9/8945f5e0-c143-47ca-910e-32ad9ac34487.jpg?1558618170|https://scryfall.com/card/mh1/227/scrapyard-recombiner?utm_source=api>`"
@@ -2919,10 +3058,15 @@ msgstr ""
 #: ../../MH1.rst:1333
 msgid "Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
 msgstr ""
+"Modułowy 2 (Ten stwór wchodzi na pole walki z dwoma znacznikami +1/+1. Kiedy "
+"umrze, możesz umieścić jego znaczniki +1/+1 na wskazanym artefaktycznym "
+"stworze.)"
 
 #: ../../MH1.rst:1335
 msgid "|tap|, Sacrifice an artifact: Search your library for a Construct card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|tap|, poświęć artefakt: Wyszukaj w twojej bibliotece kartę typu Konstrukt, "
+"ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../MH1.rst:1344
 msgid ":mtgtip:`Sword of Sinew and Steel<https://img.scryfall.com/cards/border_crop/front/c/0/c081e5cf-81e2-4afb-a912-8267de29e88d.jpg?1558813693|https://scryfall.com/card/mh1/228/sword-of-sinew-and-steel?utm_source=api>`"
@@ -2930,16 +3074,18 @@ msgstr ""
 
 #: ../../MH1.rst:1339
 msgid "Equipped creature gets +2/+2 and has protection from black and from red."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma ochronę przed czarnym i czerwonym."
 
 #: ../../MH1.rst:1341
 msgid "Whenever equipped creature deals combat damage to a player, destroy up to one target planeswalker and up to one target artifact."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, zniszcz co najwyżej "
+"jednego wskazanego wędrowca i co najwyżej jeden wskazany artefakt."
 
 #: ../../MH1.rst:1343
 #: ../../MH1.rst:1351
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../MH1.rst:1352
 msgid ":mtgtip:`Sword of Truth and Justice<https://img.scryfall.com/cards/border_crop/front/2/b/2be8d24e-1370-4e85-90f2-66b6d6e9c4a4.jpg?1558963762|https://scryfall.com/card/mh1/229/sword-of-truth-and-justice?utm_source=api>`"
@@ -2947,11 +3093,15 @@ msgstr ""
 
 #: ../../MH1.rst:1347
 msgid "Equipped creature gets +2/+2 and has protection from white and from blue."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma ochronę przed białym i niebieskim."
 
 #: ../../MH1.rst:1349
 msgid "Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on a creature you control, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, umieść znacznik +1/+"
+"1 na stworze pod twoim władaniem, następnie rozpleń. (Wybierz dowolną liczbę "
+"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"każdego z już obecnych tam rodzajów.)"
 
 #: ../../MH1.rst:1358
 msgid ":mtgtip:`Talisman of Conviction<https://img.scryfall.com/cards/border_crop/front/7/1/71148fd3-0c2c-459e-b8f5-735a0a8dd87f.jpg?1559303454|https://scryfall.com/card/mh1/230/talisman-of-conviction?utm_source=api>`"
@@ -2971,6 +3121,7 @@ msgstr "|tap|: Weź |colorless|."
 #: ../../MH1.rst:1357
 msgid "|tap|: Add |mana_r| or |mana_w|. Talisman of Conviction deals 1 damage to you."
 msgstr ""
+"|tap|: Weź |mana_r| lub |mana_w|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../MH1.rst:1364
 msgid ":mtgtip:`Talisman of Creativity<https://img.scryfall.com/cards/border_crop/front/4/d/4d9dbadd-c1b6-44fe-92ac-6f69d7178342.jpg?1559303458|https://scryfall.com/card/mh1/231/talisman-of-creativity?utm_source=api>`"
@@ -2979,6 +3130,7 @@ msgstr ""
 #: ../../MH1.rst:1363
 msgid "|tap|: Add |mana_u| or |mana_r|. Talisman of Creativity deals 1 damage to you."
 msgstr ""
+"|tap|: Weź |mana_u| lub |mana_r|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../MH1.rst:1370
 msgid ":mtgtip:`Talisman of Curiosity<https://img.scryfall.com/cards/border_crop/front/f/d/fd52688a-39fd-430f-b950-cb56e0004396.jpg?1559303461|https://scryfall.com/card/mh1/232/talisman-of-curiosity?utm_source=api>`"
@@ -2987,6 +3139,7 @@ msgstr ""
 #: ../../MH1.rst:1369
 msgid "|tap|: Add |mana_g| or |mana_u|. Talisman of Curiosity deals 1 damage to you."
 msgstr ""
+"|tap|: Weź |mana_g| lub |mana_u|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../MH1.rst:1376
 msgid ":mtgtip:`Talisman of Hierarchy<https://img.scryfall.com/cards/border_crop/front/8/2/826f99c7-f534-4183-8f0d-efe1609808ac.jpg?1559303470|https://scryfall.com/card/mh1/233/talisman-of-hierarchy?utm_source=api>`"
@@ -2995,6 +3148,7 @@ msgstr ""
 #: ../../MH1.rst:1375
 msgid "|tap|: Add |mana_w| or |mana_b|. Talisman of Hierarchy deals 1 damage to you."
 msgstr ""
+"|tap|: Weź |mana_w| lub |mana_b|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../MH1.rst:1382
 msgid ":mtgtip:`Talisman of Resilience<https://img.scryfall.com/cards/border_crop/front/c/c/cc25a254-edd2-4817-ab80-7373239da7d2.jpg?1559303473|https://scryfall.com/card/mh1/234/talisman-of-resilience?utm_source=api>`"
@@ -3003,6 +3157,7 @@ msgstr ""
 #: ../../MH1.rst:1381
 msgid "|tap|: Add |mana_b| or |mana_g|. Talisman of Resilience deals 1 damage to you."
 msgstr ""
+"|tap|: Weź |mana_b| lub |mana_g|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../MH1.rst:1386
 msgid ":mtgtip:`Universal Automaton<https://img.scryfall.com/cards/border_crop/front/5/3/53c682e2-c90f-4f4b-9010-00b099e85518.jpg?1559212388|https://scryfall.com/card/mh1/235/universal-automaton?utm_source=api>`"
@@ -3014,7 +3169,7 @@ msgstr ""
 
 #: ../../MH1.rst:1389
 msgid "Barren Moor enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../MH1.rst:1391
 msgid "|tap|: Add |mana_b|."
@@ -3022,7 +3177,7 @@ msgstr "|tap|: Weź |mana_b|."
 
 #: ../../MH1.rst:1393
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../MH1.rst:1402
 msgid ":mtgtip:`Cave of Temptation<https://img.scryfall.com/cards/border_crop/front/d/8/d86e9149-6fd9-44fc-b765-3e646c7d83d6.jpg?1559301792|https://scryfall.com/card/mh1/237/cave-of-temptation?utm_source=api>`"
@@ -3031,6 +3186,8 @@ msgstr ""
 #: ../../MH1.rst:1401
 msgid "|mana_4|, |tap|, Sacrifice Cave of Temptation: Put two +1/+1 counters on target creature. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten ląd: Umieść na wskazanym stworze dwa znaczniki +"
+"1/+1. Używaj jako obrzędu."
 
 #: ../../MH1.rst:1408
 msgid ":mtgtip:`Fiery Islet<https://img.scryfall.com/cards/border_crop/front/a/3/a3aab13c-9d9d-4507-ae5d-da979990ae1b.jpg?1558910377|https://scryfall.com/card/mh1/238/fiery-islet?utm_source=api>`"
@@ -3038,11 +3195,11 @@ msgstr ""
 
 #: ../../MH1.rst:1405
 msgid "|tap|, Pay 1 life: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Weź |mana_u| lub |mana_r|."
 
 #: ../../MH1.rst:1407
 msgid "|mana_1|, |tap|, Sacrifice Fiery Islet: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę."
 
 #: ../../MH1.rst:1416
 msgid ":mtgtip:`Forgotten Cave<https://img.scryfall.com/cards/border_crop/front/9/d/9d41b5e4-6b9a-419a-ba49-611c4699eda2.jpg?1559126163|https://scryfall.com/card/mh1/239/forgotten-cave?utm_source=api>`"
@@ -3050,7 +3207,7 @@ msgstr ""
 
 #: ../../MH1.rst:1411
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../MH1.rst:1413
 msgid "|tap|: Add |mana_r|."
@@ -3063,10 +3220,15 @@ msgstr ""
 #: ../../MH1.rst:1421
 msgid "|mana_1|\\ |mana_s|: Until end of turn, Frostwalk Bastion becomes a 2/3 Construct artifact creature. It's still a land. (|mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
+"|mana_1|\\ |mana_s|: Do końca tury ten ląd staje się artefaktycznym stworem "
+"Konstrukt 2/3. Nadal jest lądem. (|mana_s| można opłacić jedną maną pobraną "
+"ze śnieżnego permanentu.)"
 
 #: ../../MH1.rst:1423
 msgid "Whenever Frostwalk Bastion deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step."
 msgstr ""
+"Ilekroć ta karta zada stworowi obrażenia bojowe, przekręć owego stwora i nie "
+"odkręci się on podczas najbliższego kroku odkręcania jego władcy."
 
 #: ../../MH1.rst:1430
 msgid ":mtgtip:`Hall of Heliod's Generosity<https://img.scryfall.com/cards/border_crop/front/b/5/b5cbd10a-b9a6-4c00-8280-72bb4add4390.jpg?1559128253|https://scryfall.com/card/mh1/241/hall-of-heliods-generosity?utm_source=api>`"
@@ -3075,6 +3237,8 @@ msgstr ""
 #: ../../MH1.rst:1429
 msgid "|mana_1|\\ |mana_w|, |tap|: Put target enchantment card from your graveyard on top of your library."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|: Umieść wskazaną kartę uroku z twojego cmentarza "
+"na wierzchu twojej biblioteki."
 
 #: ../../MH1.rst:1438
 msgid ":mtgtip:`Lonely Sandbar<https://img.scryfall.com/cards/border_crop/front/5/4/54e0fcc2-2409-4e00-95d5-418ffa161c20.jpg?1559126069|https://scryfall.com/card/mh1/242/lonely-sandbar?utm_source=api>`"
@@ -3082,7 +3246,7 @@ msgstr ""
 
 #: ../../MH1.rst:1433
 msgid "Lonely Sandbar enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../MH1.rst:1435
 msgid "|tap|: Add |mana_u|."
@@ -3094,11 +3258,11 @@ msgstr ""
 
 #: ../../MH1.rst:1441
 msgid "|tap|, Pay 1 life: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Weź |mana_b| lub |mana_g|."
 
 #: ../../MH1.rst:1443
 msgid "|mana_1|, |tap|, Sacrifice Nurturing Peatland: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę."
 
 #: ../../MH1.rst:1448
 msgid ":mtgtip:`Prismatic Vista<https://img.scryfall.com/cards/border_crop/front/e/3/e37da81e-be12-45a2-9128-376f1ad7b3e8.jpg?1558555436|https://scryfall.com/card/mh1/244/prismatic-vista?utm_source=api>`"
@@ -3107,6 +3271,8 @@ msgstr ""
 #: ../../MH1.rst:1447
 msgid "|tap|, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle your library."
 msgstr ""
+"|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../MH1.rst:1456
 msgid ":mtgtip:`Secluded Steppe<https://img.scryfall.com/cards/border_crop/front/c/b/cb40724c-62ca-43ab-b4cd-b5fd8e454bfe.jpg?1559126009|https://scryfall.com/card/mh1/245/secluded-steppe?utm_source=api>`"
@@ -3114,7 +3280,7 @@ msgstr ""
 
 #: ../../MH1.rst:1451
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../MH1.rst:1453
 msgid "|tap|: Add |mana_w|."
@@ -3122,7 +3288,7 @@ msgstr "|tap|: Weź |mana_w|."
 
 #: ../../MH1.rst:1455
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../MH1.rst:1462
 msgid ":mtgtip:`Silent Clearing<https://img.scryfall.com/cards/border_crop/front/a/c/ac07e230-0297-4e1d-bdfe-119010e0ad8e.jpg?1558910380|https://scryfall.com/card/mh1/246/silent-clearing?utm_source=api>`"
@@ -3130,11 +3296,11 @@ msgstr ""
 
 #: ../../MH1.rst:1459
 msgid "|tap|, Pay 1 life: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Weź |mana_w| lub |mana_b|."
 
 #: ../../MH1.rst:1461
 msgid "|mana_1|, |tap|, Sacrifice Silent Clearing: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę."
 
 #: ../../MH1.rst:1468
 msgid ":mtgtip:`Sunbaked Canyon<https://img.scryfall.com/cards/border_crop/front/c/3/c36820fa-ee86-4206-9a0d-737a67cf5208.jpg?1558910384|https://scryfall.com/card/mh1/247/sunbaked-canyon?utm_source=api>`"
@@ -3142,11 +3308,11 @@ msgstr ""
 
 #: ../../MH1.rst:1465
 msgid "|tap|, Pay 1 life: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Weź |mana_r| lub |mana_w|."
 
 #: ../../MH1.rst:1467
 msgid "|mana_1|, |tap|, Sacrifice Sunbaked Canyon: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę."
 
 #: ../../MH1.rst:1476
 msgid ":mtgtip:`Tranquil Thicket<https://img.scryfall.com/cards/border_crop/front/b/7/b73571bd-b6e5-4338-a9b1-d847a8ad43d1.jpg?1559126197|https://scryfall.com/card/mh1/248/tranquil-thicket?utm_source=api>`"
@@ -3154,7 +3320,7 @@ msgstr ""
 
 #: ../../MH1.rst:1471
 msgid "Tranquil Thicket enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../MH1.rst:1473
 msgid "|tap|: Add |mana_g|."
@@ -3162,7 +3328,7 @@ msgstr "|tap|: Weź |mana_g|."
 
 #: ../../MH1.rst:1475
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_g| (|mana_g|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../MH1.rst:1482
 msgid ":mtgtip:`Waterlogged Grove<https://img.scryfall.com/cards/border_crop/front/0/a/0ab6bfbd-d2e1-4c4c-9f91-6f69c5b8e3bb.jpg?1558910387|https://scryfall.com/card/mh1/249/waterlogged-grove?utm_source=api>`"
@@ -3170,11 +3336,11 @@ msgstr ""
 
 #: ../../MH1.rst:1479
 msgid "|tap|, Pay 1 life: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Weź |mana_g| lub |mana_u|."
 
 #: ../../MH1.rst:1481
 msgid "|mana_1|, |tap|, Sacrifice Waterlogged Grove: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę."
 
 #: ../../MH1.rst:1486
 msgid ":mtgtip:`Snow-Covered Plains<https://img.scryfall.com/cards/border_crop/front/7/a/7a961768-6166-4852-b518-23eb4cced47d.jpg?1558464754|https://scryfall.com/card/mh1/250/snow-covered-plains?utm_source=api>`"
@@ -3223,6 +3389,8 @@ msgstr ""
 #: ../../MH1.rst:1505
 msgid "Counter target instant or sorcery spell unless its controller pays |mana_1|."
 msgstr ""
+"Skontruj wskazany czar sztuczki  lub obrzędu, chyba że jego władca zapłaci "
+"|mana_1|."
 
 #: ../../MH1.rst:1507
 msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"

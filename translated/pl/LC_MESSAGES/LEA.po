@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-22 22:03+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/lea/pl/>\n"
 "Language: pl\n"
@@ -1456,7 +1456,7 @@ msgstr ""
 
 #: ../../LEA.rst:567
 msgid "You don't lose the game for having 0 or less life."
-msgstr ""
+msgstr "Nie przegrywasz gry za posiadanie 0 lub mniej żyć."
 
 #: ../../LEA.rst:569
 msgid "If you would gain life, draw that many cards instead."

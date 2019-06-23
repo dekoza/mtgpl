@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-22 22:05+0000\n"
+"PO-Revision-Date: 2019-06-23 19:55+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/sth/pl/>\n"
 "Language: pl\n"
@@ -836,6 +836,8 @@ msgid ""
 "Buyback |mana_4| (You may pay an additional |mana_4| as you cast this "
 "spell. If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_4| (Rzucając ten czar możesz zapłacić dodatkowo |mana_4|. Jeśli "
+"to zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../STH.rst:317
 msgid "Create a 1/1 black Rat creature token."
@@ -1660,7 +1662,7 @@ msgstr "Obronność"
 
 #: ../../STH.rst:641
 msgid "When Wall of Blossoms enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../STH.rst:646
 msgid ""

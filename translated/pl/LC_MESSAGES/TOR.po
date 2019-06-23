@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 23:25+0100\n"
-"PO-Revision-Date: 2019-06-22 22:06+0000\n"
+"PO-Revision-Date: 2019-06-23 19:55+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/tor/pl/>\n"
 "Language: pl\n"
@@ -203,6 +203,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, Mystic "
 "Familiar gets +1/+1 and has protection from black."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1 i ma ochronę przed czarnym."
 
 #: ../../TOR.rst:76
 msgid ""
@@ -230,6 +232,9 @@ msgid ""
 "Possessed Nomad gets +1/+1, is black, and has \"|mana_2|\\ |mana_b|, "
 "|tap|: Destroy target white creature.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1, jest czarny i ma \"|mana_2|\\ |mana_b|, |tap|: Zniszcz "
+"wskazanego białego stwora.\""
 
 #: ../../TOR.rst:88
 msgid ""
@@ -244,6 +249,9 @@ msgid ""
 "Hero has \"When Reborn Hero dies, you may pay |mana_w|\\ |mana_w|. If you"
 " do, return Reborn Hero to the battlefield under your control.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma \""
+"Kiedy ten stwór umrze, możesz zapłacić |mana_w|\\ |mana_w|. Jeśli tak "
+"zrobisz, przywróć go na pole walki pod twoim władaniem.\""
 
 #: ../../TOR.rst:94
 msgid ""
@@ -315,6 +323,9 @@ msgid ""
 " Vanguard has \"When Teroh's Vanguard enters the battlefield, creatures "
 "you control gain protection from black until end of turn.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma \""
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem zyskują do "
+"końca tury ochronę przed czarnym.\""
 
 #: ../../TOR.rst:124
 msgid ":mtgtip:`Transcendence<https://img.scryfall.com/cards/border_crop/en/tor/20.jpg?1529070461|https://scryfall.com/card/tor/20/transcendence?utm_source=api>`"
@@ -322,11 +333,11 @@ msgstr ""
 
 #: ../../TOR.rst:119
 msgid "You don't lose the game for having 0 or less life."
-msgstr ""
+msgstr "Nie przegrywasz gry za posiadanie 0 lub mniej żyć."
 
 #: ../../TOR.rst:121
 msgid "When you have 20 or more life, you lose the game."
-msgstr ""
+msgstr "Kiedy masz 20 lub więcej żyć, przegrywasz grę."
 
 #: ../../TOR.rst:123
 msgid ""
@@ -454,6 +465,9 @@ msgid ""
 "Cephalid Sage has \"When Cephalid Sage enters the battlefield, draw three"
 " cards, then discard two cards.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma \""
+"Kiedy ten stwór wejdzie na pole walki, dobierz trzy karty, następnie odrzuć "
+"dwie karty.\""
 
 #: ../../TOR.rst:172
 msgid ""
@@ -674,6 +688,9 @@ msgid ""
 "Possessed Aven gets +1/+1, is black, and has \"|mana_2|\\ |mana_b|, "
 "|tap|: Destroy target blue creature.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1, jest czarny i ma \"|mana_2|\\ |mana_b|, |tap|: Zniszcz "
+"wskazanego niebieskiego stwora.\""
 
 #: ../../TOR.rst:256
 msgid ""
@@ -738,6 +755,9 @@ msgid ""
 "Boneshard Slasher gets +2/+2 and has \"When Boneshard Slasher becomes the"
 " target of a spell or ability, sacrifice it.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +2/+2 i ma \"Kiedy ten stwór zostanie wskazany przez czar lub "
+"zdolność, poświęć go.\""
 
 #: ../../TOR.rst:288
 msgid ""
@@ -920,6 +940,9 @@ msgid ""
 "Gloomdrifter has \"When Gloomdrifter enters the battlefield, nonblack "
 "creatures get -2/-2 until end of turn.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma \""
+"Kiedy ten stwór wejdzie na pole walki, nieczarne stwory dostają do końca "
+"tury -2/-2.\""
 
 #: ../../TOR.rst:350
 msgid ":mtgtip:`Gravegouger<https://img.scryfall.com/cards/border_crop/en/tor/62.jpg?1517813031|https://scryfall.com/card/tor/62/gravegouger?utm_source=api>`"
@@ -1167,6 +1190,8 @@ msgid ""
 "Threshold — As long as seven or more cards are in your graveyard, Putrid "
 "Imp gets +1/+1 and can't block."
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1 i nie może blokować."
 
 #: ../../TOR.rst:442
 msgid ""
@@ -1599,6 +1624,9 @@ msgid ""
 "Arsonist has \"When Pardic Arsonist enters the battlefield, it deals 3 "
 "damage to any target.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma \""
+"Kiedy ten stwór wejdzie na pole walki, zadaje 3 obrażenia w dowolnie "
+"wskazany cel.\""
 
 #: ../../TOR.rst:606
 msgid ""
@@ -1690,6 +1718,9 @@ msgid ""
 "Possessed Barbarian gets +1/+1, is black, and has \"|mana_2|\\ |mana_b|, "
 "|tap|: Destroy target red creature.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1, jest czarny i ma \"|mana_2|\\ |mana_b|, |tap|: Zniszcz "
+"wskazanego czerwonego stwora.\""
 
 #: ../../TOR.rst:642
 msgid ":mtgtip:`Pyromania<https://img.scryfall.com/cards/border_crop/en/tor/112.jpg?1517813031|https://scryfall.com/card/tor/112/pyromania?utm_source=api>`"
@@ -1868,6 +1899,9 @@ msgid ""
 " Chieftain has \"When Centaur Chieftain enters the battlefield, creatures"
 " you control get +1/+1 and gain trample until end of turn.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma \""
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1 i tratowanie.\""
 
 #: ../../TOR.rst:702
 msgid ""
@@ -2019,6 +2053,9 @@ msgid ""
 "number of land cards. Put that many +1/+1 counters on Nantuko Cultivator "
 "and draw that many cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz odrzucić dowolną liczbę kart "
+"lądów. Umieść tyle samo znaczników +1/+1 na tym stworze i dobierz tyle samo "
+"kart."
 
 #: ../../TOR.rst:762
 msgid ":mtgtip:`Narcissism<https://img.scryfall.com/cards/border_crop/en/tor/134.jpg?1517813031|https://scryfall.com/card/tor/134/narcissism?utm_source=api>`"
@@ -2079,6 +2116,9 @@ msgid ""
 "Possessed Centaur gets +1/+1, is black, and has \"|mana_2|\\ |mana_b|, "
 "|tap|: Destroy target green creature.\""
 msgstr ""
+"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
+"dostaje +1/+1, jest czarny i ma \"|mana_2|\\ |mana_b|, |tap|: Zniszcz "
+"wskazanego zielonego stwora.\""
 
 #: ../../TOR.rst:786
 msgid ""

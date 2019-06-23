@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 23:38+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -93,6 +93,9 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
+"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
+"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
 #: ../../DTK.rst:34
 msgid ""
@@ -1732,6 +1735,9 @@ msgid ""
 "cost. If you do, it gains haste, and it's returned from the battlefield to "
 "its owner's hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_2|\\ |mana_b|\\ |mana_b| (Możesz rzucić ten czar za koszt "
+"brawury. Jeśli tak zrobisz, dostaje on pośpiech i jest przywracany z pola "
+"walki do ręki właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:626
 msgid ""
@@ -2255,6 +2261,9 @@ msgid ""
 "gains haste, and it's returned from the battlefield to its owner's hand at "
 "the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_r| (Możesz rzucić ten czar za koszt brawury. Jeśli tak "
+"zrobisz, dostaje on pośpiech i jest przywracany z pola walki do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:812
 msgid ""
@@ -2401,6 +2410,9 @@ msgid ""
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_3|\\ |mana_r| (Możesz rzucić ten czar za koszt brawury. Jeśli "
+"tak zrobisz, dostaje on pośpiech i jest przywracany z pola walki do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:864
 msgid ""
@@ -2560,6 +2572,8 @@ msgid ""
 "Dash costs you pay cost |mana_2| less (as long as this creature is on the "
 "battlefield)."
 msgstr ""
+"Opłacanie brawury kosztuje cię o |mana_2| mniej (o ile ten stwór jest na "
+"polu walki)."
 
 #: ../../DTK.rst:924
 msgid ""
@@ -3279,7 +3293,7 @@ msgstr ""
 #: ../../DTK.rst:1151 ../../DTK.rst:1211 ../../DTK.rst:1237 ../../DTK.rst:1263
 #: ../../DTK.rst:1301
 msgid "Choose two —"
-msgstr ""
+msgstr "Wybierz dwie —"
 
 #: ../../DTK.rst:1153
 msgid "Your opponents can't gain life this turn."
@@ -3528,7 +3542,7 @@ msgstr ""
 
 #: ../../DTK.rst:1267
 msgid "You gain 4 life."
-msgstr "Zyskujesz 4 życia."
+msgstr "Zyskaj 4 życia."
 
 #: ../../DTK.rst:1269
 msgid "Counter target creature spell."

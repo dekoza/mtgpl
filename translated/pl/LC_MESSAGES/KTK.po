@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 22:05+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -70,7 +70,6 @@ msgstr ""
 # fa58b4bf075645f9a0d6dc96bfeb0bd7
 # 0fd61520ce7c4e6e800f65ebe7bc14ba
 #: ../../KTK.rst:21 ../../KTK.rst:111
-#, fuzzy
 msgid ""
 "Outlast |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, |tap|: Put a +1/+1 counter "
 "on this creature. Outlast only as a sorcery.)"
@@ -110,9 +109,10 @@ msgstr "Stwory pod twoim władaniem mają czujność."
 
 # 2fbf3b254ae5474aaa34da0592499a93
 #: ../../KTK.rst:33
-#, fuzzy
 msgid "Each creature you control can block an additional creature each combat."
-msgstr "Każdy stwór pod twoim władaniem może blokować dodatkowego stwora."
+msgstr ""
+"Każdy stwór pod twoim władaniem może w każdej bitwie blokować dodatkowego "
+"stwora."
 
 #: ../../KTK.rst:40
 msgid ""
@@ -130,9 +130,8 @@ msgstr "Obronność"
 
 # c44180e848114ad0b9e5d73e0d9174cc
 #: ../../KTK.rst:39
-#, fuzzy
 msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature."
-msgstr "|mana_1|\\ |mana_w|, |tap|: Zaznacz wskazanego stwora."
+msgstr "|mana_1|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../KTK.rst:46
 msgid ""

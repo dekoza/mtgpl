@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 20:58+0100\n"
-"PO-Revision-Date: 2019-06-22 22:04+0000\n"
+"PO-Revision-Date: 2019-06-23 19:54+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/fut/pl/>\n"
 "Language: pl\n"
@@ -233,6 +233,9 @@ msgid ""
 "counters on it. At the beginning of your upkeep, remove a time counter "
 "from it. When the last is removed, sacrifice it.)"
 msgstr ""
+"Zanikanie 3 (Ten stwór wchodzi na pole walki z trzema znacznikami czasu. Na "
+"początku twojego kroku utzymania, usuń z niego znacznik czasu. Kiedy "
+"zostanie usunięty ostatnie, poświęć go.)"
 
 #: ../../FUT.rst:73
 msgid ""
@@ -2399,7 +2402,7 @@ msgstr ""
 
 #: ../../FUT.rst:865
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../FUT.rst:867
 msgid ""
