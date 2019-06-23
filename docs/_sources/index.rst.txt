@@ -40,7 +40,7 @@ Standard
 Modern
 ------
 
-* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p50|
+* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p100|
 * :doc:`Lista pozostałych dodatków<modern>`
 
 Legacy / Vintage
