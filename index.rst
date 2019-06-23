@@ -32,7 +32,7 @@ Standard
 * :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p100|
 * :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|
 * :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
-* :mtgexp:`M19` :doc:`Magic 2019<M19>` |p100|
+* :mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|
 * :mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|
 * :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|
 * :mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|
