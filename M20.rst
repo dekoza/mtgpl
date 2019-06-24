@@ -17,6 +17,14 @@
    0: If you have at least 15 life more than your starting life total, exile Ajani, Strength of the Pride and each artifact and creature your opponents control.
 
 
+:mtgtip:`Ancestral Blade<https://img.scryfall.com/cards/border_crop/front/2/b/2ba18114-af6c-48cd-82c9-eb6541d566bf.jpg?1561363012|https://scryfall.com/card/m20/3/ancestral-blade?utm_source=api>`
+   When Ancestral Blade enters the battlefield, create a 1/1 white Soldier creature token, then attach Ancestral Blade to it.
+
+   Equipped creature gets +1/+1.
+
+   Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)
+
+
 :mtgtip:`Angel of Vitality<https://img.scryfall.com/cards/border_crop/front/e/2/e2f39777-b80a-4618-9310-a9e5b91bb2a2.jpg?1560752511|https://scryfall.com/card/m20/4/angel-of-vitality?utm_source=api>`
    Flying
 
@@ -139,8 +147,22 @@
    Whenever Atemsis, All-Seeing deals damage to an opponent, you may reveal your hand. If cards with at least six different converted mana costs are revealed this way, that player loses the game.
 
 
+:mtgtip:`Brineborn Cutthroat<https://img.scryfall.com/cards/border_crop/front/0/8/0857765f-afd7-418a-a93b-c0bd1b1f037e.jpg?1561374748|https://scryfall.com/card/m20/50/brineborn-cutthroat?utm_source=api>`
+   Flash (You may cast this spell any time you could cast an instant.)
+
+   Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Brineborn Cutthroat.
+
+
 :mtgtip:`Captivating Gyre<https://img.scryfall.com/cards/border_crop/front/a/2/a2bd5c34-fa7e-4fa8-a5b1-c3aa928cc834.jpg?1560877637|https://scryfall.com/card/m20/51/captivating-gyre?utm_source=api>`
    Return up to three target creatures to their owners' hands.
+
+
+:mtgtip:`"Rainy Knight"<https://img.scryfall.com/cards/border_crop/front/a/5/a5356b11-e505-4838-aecb-327689eeead1.jpg?1561330167|https://scryfall.com/card/m20/52/rainy-knight?utm_source=api>`
+   Flying
+
+   When "Rainy Knight" enters the battlefield, draw three cards, then put two cards from your hand on top of your library in any order.
+
+   When "Rainy Knight" dies, shuffle it into its owner's library, then scry 2.
 
 
 :mtgtip:`Cerulean Drake<https://img.scryfall.com/cards/border_crop/front/b/1/b11f9e7d-3f56-4e28-9908-157735f6dfa9.jpg?1561043073|https://scryfall.com/card/m20/53/cerulean-drake?utm_source=api>`
@@ -251,6 +273,10 @@
    Draw two cards.
 
 
+:mtgtip:`Yarok's Wavecrasher<https://img.scryfall.com/cards/border_crop/front/c/8/c86a8974-df86-43ee-b07f-fd2837c08a6a.jpg?1561384109|https://scryfall.com/card/m20/81/yaroks-wavecrasher?utm_source=api>`
+   When Yarok's Wavecrasher enters the battlefield, return another creature you control to its owner's hand.
+
+
 :mtgtip:`"Kill Stealer"<https://img.scryfall.com/cards/border_crop/front/e/1/e1ff5e66-4718-43c3-8a58-1a0a8e788f83.jpg?1561099115|https://scryfall.com/card/m20/84/kill-stealer?utm_source=api>`
    Whenever "Kill Stealer" attacks, you draw a card and you lose 1 life.
 
@@ -269,6 +295,10 @@
    As an additional cost to cast this spell, sacrifice a creature.
 
    Return a creature card from your graveyard to the battlefield, then return another creature card from your graveyard to your hand.
+
+
+:mtgtip:`Bloodsoaked Altar<https://img.scryfall.com/cards/border_crop/front/b/9/b9169431-a5b1-42ea-bcf4-6c750d2a2dbb.jpg?1561235400|https://scryfall.com/card/m20/90/bloodsoaked-altar?utm_source=api>`
+   |tap|, Pay 2 life, Discard a card, Sacrifice a creature: Create a 5/5 black Demon creature token with flying. Activate this ability only any time you could play a sorcery.
 
 
 :mtgtip:`Bloodthirsty Aerialist<https://img.scryfall.com/cards/border_crop/front/2/9/29156f28-38d8-4f65-b416-089f3fd97109.jpg?1560986809|https://scryfall.com/card/m20/91/bloodthirsty-aerialist?utm_source=api>`
@@ -305,6 +335,18 @@
    • You draw a card and you lose 1 life.
 
    • Dread Presence deals 2 damage to any target and you gain 2 life.
+
+
+:mtgtip:`Embodiment of Agonies<https://img.scryfall.com/cards/border_crop/front/7/7/77972745-8689-4733-9a9d-39ae9d6273a2.jpg?1561333667|https://scryfall.com/card/m20/98/embodiment-of-agonies?utm_source=api>`
+   Flying, deathtouch
+
+   Embodiment of Agonies enters the battlefield with a +1/+1 counter on it for each different mana cost among nonland cards in your graveyard. (For example, |mana_2|\ |mana_b| and |mana_1|\ |mana_b|\ |mana_b| are different mana costs.)
+
+
+:mtgtip:`Gorging Vulture<https://img.scryfall.com/cards/border_crop/front/3/7/37cbe5f2-5b6b-41de-9586-c7cc83464cf2.jpg?1561383978|https://scryfall.com/card/m20/102/gorging-vulture?utm_source=api>`
+   Flying
+
+   When Gorging Vulture enters the battlefield, put the top four cards of your library into your graveyard. You gain 1 life for each creature card put into your graveyard this way.
 
 
 :mtgtip:`Knight of the Ebon Legion<https://img.scryfall.com/cards/border_crop/front/2/9/29425426-7bf2-4872-aa35-c12c22801edd.jpg?1561044941|https://scryfall.com/card/m20/105/knight-of-the-ebon-legion?utm_source=api>`
@@ -543,6 +585,14 @@
    When Ferocious Pup enters the battlefield, create a 2/2 green Wolf creature token.
 
 
+:mtgtip:`"Legendary Hydration"<https://img.scryfall.com/cards/border_crop/front/4/e/4e446e90-6e31-43ed-bcb1-a01422b503c0.jpg?1561318519|https://scryfall.com/card/m20/172/legendary-hydration?utm_source=api>`
+   Vigilance
+
+   Hydra spells you cast cost |mana_4| less to cast.
+
+   Whenever a creature you control becomes the target of a spell, "Legendary Hydration" fights up to one target creature you don't control.
+
+
 :mtgtip:`Growth Cycle<https://img.scryfall.com/cards/border_crop/front/1/e/1e619121-f2e8-4da5-8652-a2b5dae2e55c.jpg?1560857851|https://scryfall.com/card/m20/175/growth-cycle?utm_source=api>`
    Target creature gets +3/+3 until end of turn. It gets an additional +2/+2 until end of turn for each card named Growth Cycle in your graveyard.
 
@@ -619,6 +669,14 @@
    Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)
 
 
+:mtgtip:`Vivien, Arkbow Ranger<https://img.scryfall.com/cards/border_crop/front/5/9/592c5e27-c538-425e-b41f-1d6708428853.jpg?1561297034|https://scryfall.com/card/m20/199/vivien-arkbow-ranger?utm_source=api>`
+   +1: Distribute two +1/+1 counters among up to two target creatures. They gain trample until end of turn.
+
+   −3: Target creature you control deals damage equal to its power to target creature or planeswalker.
+
+   −5: You may choose a creature card you own from outside the game, reveal it, and put it into your hand.
+
+
 :mtgtip:`Voracious Hydra<https://img.scryfall.com/cards/border_crop/front/7/4/74bbe44f-864a-446c-bfc9-5f5188e663b8.jpg?1560950092|https://scryfall.com/card/m20/200/voracious-hydra?utm_source=api>`
    Trample
 
@@ -683,10 +741,10 @@
    When Kaalia, Zenith Seeker enters the battlefield, look at the top six cards of your library. You may reveal an Angel card, a Demon card, and/or a Dragon card from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Kethis, the Hidden Hand<https://img.scryfall.com/cards/border_crop/front/f/e/fe28de73-76f3-4a9e-a020-dbe5921b9be5.jpg?1561151661|https://scryfall.com/card/m20/211/kethis-the-hidden-hand?utm_source=api>`
+:mtgtip:`Kethis, the Hidden Hand<https://img.scryfall.com/cards/border_crop/front/f/e/fe28de73-76f3-4a9e-a020-dbe5921b9be5.jpg?1561196062|https://scryfall.com/card/m20/211/kethis-the-hidden-hand?utm_source=api>`
    Legendary spells you cast cost |mana_1| less to cast.
 
-   Exile two legendary cards from your graveyard: Until end of turn, each legendary card in your graveyard gains "You may pay this card from your graveyard."
+   Exile two legendary cards from your graveyard: Until end of turn, each legendary card in your graveyard gains "You may play this card from your graveyard."
 
 
 :mtgtip:`Kykar, Wind's Fury<https://img.scryfall.com/cards/border_crop/front/5/9/594cb7dc-ea88-4909-ab40-1d40fecc9817.jpg?1560792133|https://scryfall.com/card/m20/212/kykar-winds-fury?utm_source=api>`
@@ -697,11 +755,17 @@
    Sacrifice a Spirit: Add |mana_r|.
 
 
+:mtgtip:`Lightning Stormkin<https://img.scryfall.com/cards/border_crop/front/4/3/43c6db4e-cc37-4473-b0f5-48d8a0b82f33.jpg?1561383807|https://scryfall.com/card/m20/213/lightning-stormkin?utm_source=api>`
+   Flying
+
+   Haste (This creature can attack and |tap| as soon as it comes under your control.)
+
+
 :mtgtip:`Moldervine Reclamation<https://img.scryfall.com/cards/border_crop/front/6/1/618d21fe-8e3d-4887-b2e4-b92194ba1902.jpg?1560954478|https://scryfall.com/card/m20/214/moldervine-reclamation?utm_source=api>`
    Whenever a creature you control dies, you gain 1 life and draw a card.
 
 
-:mtgtip:`Ogre Siegebreaker<https://img.scryfall.com/cards/border_crop/front/0/a/0aba1c64-c552-4aeb-b669-da885c8c75b2.jpg?1561028389|https://scryfall.com/card/m20/215/ogre-siegebreaker?utm_source=api>`
+:mtgtip:`Ogre Siegebreaker<https://img.scryfall.com/cards/border_crop/front/0/a/0aba1c64-c552-4aeb-b669-da885c8c75b2.jpg?1561214818|https://scryfall.com/card/m20/215/ogre-siegebreaker?utm_source=api>`
    |mana_2|\ |mana_b|\ |mana_r|: Destroy target creature that was dealt damage this turn.
 
 
@@ -713,6 +777,12 @@
 
 :mtgtip:`Risen Reef<https://img.scryfall.com/cards/border_crop/front/8/2/82389aaa-9f32-4169-a71c-1aea5af9e935.jpg?1560794261|https://scryfall.com/card/m20/217/risen-reef?utm_source=api>`
    Whenever Risen Reef or another Elemental enters the battlefield under your control, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand.
+
+
+:mtgtip:`"Sir, are you aware there are men on the side of your hippogriff?"<https://img.scryfall.com/cards/border_crop/front/5/4/549634d8-1c33-401b-841d-a79ef4374dd1.jpg?1561381616|https://scryfall.com/card/m20/218/sir-are-you-aware-there-are-men-on-the-side-of-your-hippogriff%3F?utm_source=api>`
+   Flying
+
+   Whenever "Sir, are you aware there are men on the side of your hippogriff?" attacks, create a 1/1 white Soldier creature token that's tapped and attacking.
 
 
 :mtgtip:`Tomebound Lich<https://img.scryfall.com/cards/border_crop/front/5/f/5f305027-dfd2-4b17-a6af-6b0576389623.jpg?1561122292|https://scryfall.com/card/m20/219/tomebound-lich?utm_source=api>`
@@ -727,6 +797,12 @@
    Deathtouch, lifelink
 
    If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+
+:mtgtip:`Colossus Hammer<https://img.scryfall.com/cards/border_crop/front/f/a/fa35b2b5-3e91-4a6c-90b1-8581b4ecaf8b.jpg?1561365032|https://scryfall.com/card/m20/223/colossus-hammer?utm_source=api>`
+   Equipped creature gets +10/+10 and loses flying.
+
+   Equip |mana_8| (|mana_8|: Attach to target creature you control. Equip only as a sorcery.)
 
 
 :mtgtip:`Diamond Knight<https://img.scryfall.com/cards/border_crop/front/e/e/eeab4819-dd26-4f5c-8538-50f2caca292d.jpg?1561117223|https://scryfall.com/card/m20/224/diamond-knight?utm_source=api>`
@@ -765,6 +841,14 @@
    |mana_1|, |tap|: Untap another target artifact.
 
    |mana_3|, |tap|: Target creature can't be blocked this turn.
+
+
+:mtgtip:`Mystic Forge<https://img.scryfall.com/cards/border_crop/front/9/2/924a24e7-91b8-4ceb-a136-7a765d98c994.jpg?1561374583|https://scryfall.com/card/m20/233/mystic-forge?utm_source=api>`
+   You may look at the top card of your library any time.
+
+   You may cast the top card of your library if it's an artifact card or a colorless nonland card.
+
+   |tap|, Pay 1 life: Exile the top card of your library.
 
 
 :mtgtip:`Retributive Wand<https://img.scryfall.com/cards/border_crop/front/5/5/5521cb92-03b0-44ab-a141-40dc0eb5a79f.jpg?1560972321|https://scryfall.com/card/m20/236/retributive-wand?utm_source=api>`
@@ -967,7 +1051,7 @@
    −8: Until end of turn, each Vampire you control gains "|tap|: Gain control of target creature."
 
 
-:mtgtip:`Chandra, Flame's Fury<https://img.scryfall.com/cards/border_crop/front/5/d/5d1c6c4b-62ab-4d44-a2d7-64b44d163606.jpg?1561149421|https://scryfall.com/card/m20/294/chandra-flames-fury?utm_source=api>`
+:mtgtip:`Chandra, Flame's Fury<https://img.scryfall.com/cards/border_crop/front/5/d/5d1c6c4b-62ab-4d44-a2d7-64b44d163606.jpg?1561284587|https://scryfall.com/card/m20/294/chandra-flames-fury?utm_source=api>`
    +1: Chandra, Flame's Fury deals 2 damage to any target.
 
    −2: Chandra, Flame's Fury deals 4 damage to target creature and 2 damage to that creature's controller.
@@ -975,7 +1059,7 @@
    −8: Chandra, Flame's Fury deals 10 damage to target player and each creature that player controls.
 
 
-:mtgtip:`Vivien, Nature's Advantage<https://img.scryfall.com/cards/border_crop/front/f/7/f7ead409-3bce-47c8-ace7-498c38522369.jpg?1561149670|https://scryfall.com/card/m20/298/vivien-natures-advantage?utm_source=api>`
+:mtgtip:`Vivien, Nature's Avenger<https://img.scryfall.com/cards/border_crop/front/f/7/f7ead409-3bce-47c8-ace7-498c38522369.jpg?1561196044|https://scryfall.com/card/m20/298/vivien-natures-avenger?utm_source=api>`
    +1: Put three +1/+1 counters on up to one target creature.
 
    −1: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
