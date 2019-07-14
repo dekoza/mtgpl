@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-14 00:54+0200\n"
-"PO-Revision-Date: 2019-07-14 17:56+0000\n"
+"PO-Revision-Date: 2019-07-14 22:08+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m20/pl/>\n"
 "Language: pl\n"
@@ -577,11 +577,12 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:183
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_w|: Moorland Inquisitor gains first strike until end of "
 "turn. (It deals combat damage before creatures without first strike.)"
-msgstr "|mana_2|\\ |mana_w|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr ""
+"|mana_2|\\ |mana_w|: Ten stwór zyskuje do końca tury pierwszy cios. (Zadaje "
+"obrażenia bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../M20.rst:190
 msgid ""
@@ -3050,13 +3051,13 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1001
-#, fuzzy
 msgid ""
 "Creatures you control get +2/+2 and gain trample until end of turn. (They "
 "can deal excess combat damage to the player or planeswalker they're "
 "attacking.)"
 msgstr ""
-
+"Stwory pod twoim władaniem dostają do końca tury +2/+2 i tratowanie. (Mogą "
+"zadać nadmiar obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../M20.rst:1008
 msgid ""
@@ -3661,7 +3662,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
-
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../M20.rst:1210
 msgid ""
@@ -4791,13 +4793,14 @@ msgstr ""
 "lub zasięgiem.)"
 
 #: ../../M20.rst:1611
-#, fuzzy
 msgid ""
 "Whenever one or more creatures you control attack, they gain indestructible "
 "until end of turn. (Damage and effects that say \"destroy\" don't destroy "
 "them.)"
 msgstr ""
-
+"Ilekroć jeden lub więcej stworów pod twoim władaniem atakuje, zyskują one do "
+"końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"niszczą ich.)"
 
 #: ../../M20.rst:1614
 msgid ""
@@ -4821,12 +4824,12 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1623
-#, fuzzy
 msgid ""
 "When Haazda Officer enters the battlefield, target creature you control gets "
 "+1/+1 until end of turn."
 msgstr ""
-
+"Kiedy ta karta wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"dostaje +1/+1 do końca tury."
 
 #: ../../M20.rst:1628
 msgid ""
@@ -4840,6 +4843,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../M20.rst:1630
 msgid ""
@@ -4870,9 +4874,8 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1647
-#, fuzzy
 msgid "Other creatures you control have vigilance."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają czujność."
 
 #: ../../M20.rst:1652
 msgid ""
@@ -4911,12 +4914,12 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1665
-#, fuzzy
 msgid ""
 "Whenever Trusted Pegasus attacks, target attacking creature without flying "
 "gains flying until end of turn."
 msgstr ""
-
+"Ilekroć ten stwór atakuje, wskazany atakujący stwór bez latania zyskuje "
+"latanie do końca tury."
 
 #: ../../M20.rst:1668
 msgid ""
@@ -4934,7 +4937,7 @@ msgstr ""
 
 #: ../../M20.rst:1673
 msgid "Phantom Warrior can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../M20.rst:1680
 msgid ""
@@ -4944,11 +4947,12 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1679
-#, fuzzy
 msgid ""
 "When Riddlemaster Sphinx enters the battlefield, you may return target "
 "creature an opponent controls to its owner's hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazanego stwora "
+"pod władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../M20.rst:1684
 msgid ""
@@ -4991,7 +4995,7 @@ msgstr ""
 
 #: ../../M20.rst:1699
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M20.rst:1706
 msgid ""
@@ -5001,12 +5005,12 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1705
-#, fuzzy
 msgid ""
 "|mana_5|\\ |mana_b|\\ |mana_b|: Return target creature card from your "
 "graveyard to the battlefield tapped."
 msgstr ""
-
+"|mana_5|\\ |mana_b|\\ |mana_b|: Przywróć wskazaną kartę stwora z twojego "
+"cmentarza na pole walki, przekręconą."
 
 #: ../../M20.rst:1710
 msgid ""
@@ -5016,11 +5020,11 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1709
-#, fuzzy
 msgid ""
 "When Skeleton Archer enters the battlefield, it deals 1 damage to any target."
 msgstr ""
-
+"Kiedy ten stwór wejdzie na pole walki, zadaje 1 obrażenie w dowolnie "
+"wskazany cel 1."
 
 #: ../../M20.rst:1714
 msgid ""
@@ -5030,9 +5034,8 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1713
-#, fuzzy
 msgid "Sorin's Thirst deals 2 damage to target creature and you gain 2 life."
-msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia a ty zyskaj 2 życia."
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia, a ty zyskaj 2 życia."
 
 #: ../../M20.rst:1718
 msgid ""
@@ -5044,6 +5047,7 @@ msgstr ""
 #: ../../M20.rst:1717
 msgid "|mana_6|\\ |mana_b|: Each opponent loses 2 life and you gain 2 life."
 msgstr ""
+"|mana_6|\\ |mana_b|: Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../M20.rst:1720
 msgid ""
@@ -5092,9 +5096,8 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1743
-#, fuzzy
 msgid "When Immortal Phoenix dies, return it to its owner's hand."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, przywróć go do ręki właściciela."
 
 #: ../../M20.rst:1748
 msgid ""
@@ -5112,7 +5115,7 @@ msgstr ""
 
 #: ../../M20.rst:1751
 msgid "Rubblebelt Recluse attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../M20.rst:1758
 msgid ""
@@ -5152,8 +5155,7 @@ msgstr ""
 
 #: ../../M20.rst:1773
 msgid "Bristling Boar can't be blocked by more than one creature."
-msgstr ""
-
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../M20.rst:1778
 msgid ""
@@ -5170,12 +5172,12 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1781
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
-
+"|mana_1|\\ |mana_g|: Ten stwór dostaje +2/+2 do końca tury. Aktywuj tę "
+"zdolność co najwyżej raz na turę."
 
 #: ../../M20.rst:1788
 msgid ""
@@ -5197,7 +5199,7 @@ msgstr ""
 
 #: ../../M20.rst:1791
 msgid "All creatures able to block Prized Unicorn do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować tego stwora, robią to."
 
 #: ../../M20.rst:1796
 msgid ""
