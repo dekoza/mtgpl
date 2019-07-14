@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-30 12:39+0000\n"
-"PO-Revision-Date: 2019-06-23 19:55+0000\n"
+"PO-Revision-Date: 2019-07-14 19:57+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/war/pl/>\n"
 "Language: pl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #: ../../WAR.rst:5
 msgid ":mtgexp:`WAR` War of the Spark"
@@ -2966,9 +2966,7 @@ msgstr ""
 
 #: ../../WAR.rst:875
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
-msgstr ""
-"Zauroczony ląd ma zdolność \"|tap|: Weź dwie many w dowolnym jednym kolorze."
-"\""
+msgstr "Zauroczony ląd ma \"|tap|: Weź dwie many w dowolnym jednym kolorze.\""
 
 #: ../../WAR.rst:884
 msgid ""
