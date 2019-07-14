@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-25 04:31+0000\n"
+"PO-Revision-Date: 2019-07-14 19:57+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ogw/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.6.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../OGW.rst:5
@@ -1699,8 +1699,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn."
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć go. Zyskuje "
-"on pośpiech do końca tury."
+"Zyskaj władanie nad wskazanym stworem do końca tury. Odkręć go. Zyskuje on "
+"pośpiech do końca tury."
 
 #: ../../OGW.rst:690
 msgid ""
@@ -2021,6 +2021,7 @@ msgid ""
 "Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider "
 "gets +2/+0 until end of turn."
 msgstr ""
+"Ilekroć ten stwór blokuje stwora z lataniem, dostaje do końca tury +2/+0."
 
 #: ../../OGW.rst:828
 msgid ""
@@ -2266,7 +2267,7 @@ msgstr ""
 
 #: ../../OGW.rst:915
 msgid "Whenever you gain life, each opponent loses 1 life."
-msgstr "Ilekroć zyskujesz życie, każdy przeciwnik traci po 1 życiu."
+msgstr "Ilekroć zyskujesz życie, każdy przeciwnik traci 1 życie."
 
 #: ../../OGW.rst:920
 msgid ""
