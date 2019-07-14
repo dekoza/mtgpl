@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 22:05+0000\n"
+"PO-Revision-Date: 2019-07-14 22:08+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rna/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #: ../../RNA.rst:5
 #, fuzzy
@@ -210,8 +210,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, zyskujesz 1 "
-"życie."
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../RNA.rst:68
 msgid ""
