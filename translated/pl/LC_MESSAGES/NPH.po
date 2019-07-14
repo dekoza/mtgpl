@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-23 19:54+0000\n"
+"PO-Revision-Date: 2019-07-14 19:57+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/nph/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.6.1\n"
 "X-POOTLE-MTIME: 1391082081.559340\n"
 
 #: ../../NPH.rst:5
@@ -359,11 +359,13 @@ msgid ""
 "When Master Splicer enters the battlefield, create a 3/3 colorless Golem "
 "artifact creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
+"artefaktycznego stwora Golem 3/3."
 
 # 87ba05e1ace247cfa26b2e3b39bd8081
 #: ../../NPH.rst:107
 msgid "Golem creatures you control get +1/+1."
-msgstr ""
+msgstr "Golemy pod twoim władaniem dostają +1/+1."
 
 #: ../../NPH.rst:114
 msgid ""
