@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-25 04:31+0000\n"
+"PO-Revision-Date: 2019-07-14 19:57+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.6.1\n"
 "X-POOTLE-MTIME: 1385404032.966664\n"
 
 #: ../../M14.rst:5
@@ -721,7 +721,7 @@ msgstr ""
 # 04b19f2b2481461fb0870d619e4f9a40
 #: ../../M14.rst:193
 msgid "|tap|: You gain 1 life."
-msgstr "|tap|: Zyskujesz 1 życie."
+msgstr "|tap|: Zyskaj 1 życie."
 
 #: ../../M14.rst:198
 msgid ""
