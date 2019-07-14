@@ -20,15 +20,16 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
-Nadochodzące
-------------
+.. Nadochodzące
+.. ------------
 
-* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |p75|
+
 
 
 Standard
 --------
 
+* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |p100|
 * :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p100|
 * :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|
 * :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
