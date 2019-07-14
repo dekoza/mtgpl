@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-25 04:31+0000\n"
+"PO-Revision-Date: 2019-07-14 19:56+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #: ../../M19.rst:5
 msgid ":mtgexp:`M19` Core Set 2019"
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #: ../../M19.rst:479
 msgid "Whenever you gain life, each opponent loses 1 life."
-msgstr "Ilekroć zyskujesz życie, każdy przeciwnik traci po 1 życiu."
+msgstr "Ilekroć zyskujesz życie, każdy przeciwnik traci 1 życie."
 
 #: ../../M19.rst:488
 msgid ""
@@ -2658,13 +2658,11 @@ msgstr "Zaurocz ląd"
 
 #: ../../M19.rst:913
 msgid "When Gift of Paradise enters the battlefield, you gain 3 life."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../M19.rst:915
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
-msgstr ""
-"Zauroczony ląd ma zdolność \"|tap|: Weź dwie many w dowolnym jednym kolorze."
-"\""
+msgstr "Zauroczony ląd ma \"|tap|: Weź dwie many w dowolnym jednym kolorze.\""
 
 #: ../../M19.rst:918
 msgid ""
