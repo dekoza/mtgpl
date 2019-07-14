@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-26 21:56+0100\n"
-"PO-Revision-Date: 2019-06-25 04:31+0000\n"
+"PO-Revision-Date: 2019-07-14 19:57+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/cns/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.6.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../CNS.rst:5
@@ -1210,6 +1210,9 @@ msgid ""
 "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2 i więź życia. (Obrażenia zadane "
+"przez tego stwora dodatkowo sprawiają, że jego władca zyskuje tyle samo "
+"życia.)"
 
 #: ../../CNS.rst:420
 msgid ""
@@ -2780,7 +2783,7 @@ msgstr ""
 
 #: ../../CNS.rst:1027
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../CNS.rst:1036
 msgid ":mtgtip:`Spiritmonger<https://img.scryfall.com/cards/border_crop/en/cns/193.jpg?1517813031|https://scryfall.com/card/cns/193/spiritmonger?utm_source=api>`"
