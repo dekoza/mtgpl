@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-25 04:31+0000\n"
+"PO-Revision-Date: 2019-07-14 19:56+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.6.1\n"
 "X-POOTLE-MTIME: 1385404109.643633\n"
 
 #: ../../GTC.rst:5
@@ -766,7 +766,7 @@ msgstr ""
 # 37fdf62da8ac4d8b98034589794c96a9
 #: ../../GTC.rst:219
 msgid "|mana_u|: Metropolis Sprite gets +1/-1 until end of turn."
-msgstr "|mana_u|: Metropolis Sprite dostaje +1/-1 do końca tury."
+msgstr "|mana_u|: Ten stwór dostaje +1/-1 do końca tury."
 
 #: ../../GTC.rst:226
 msgid ""
@@ -828,14 +828,13 @@ msgstr ""
 
 # b5091ae1dfd04bc5b06911dea7d4a325
 #: ../../GTC.rst:239
-#, fuzzy
 msgid ""
 "Whenever another blue creature enters the battlefield under your control, "
 "target player puts the top two cards of their library into their graveyard."
 msgstr ""
-"Ilekroć inny niebieski stwór wchodzi na pole walki pod twoim władaniem, "
-"wskazany gracz wkłada dwie wierzchnie karty swojej biblioteki do swojego "
-"cmentarza."
+"Ilekroć inny niebieski stwór wejdzie na pole walki pod twoim władaniem, "
+"wskazany gracz umieszcza dwie wierzchnie karty swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../GTC.rst:246
 msgid ""
