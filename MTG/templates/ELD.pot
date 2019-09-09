@@ -1,0 +1,1022 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2019, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-09 08:45+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../ELD.rst:5
+msgid ":mtgexp:`ELD` Throne of Eldraine"
+msgstr ""
+
+#: ../../ELD.rst:12
+msgid ":mtgtip:`All That Glitters<https://img.scryfall.com/cards/border_crop/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1567699067|https://scryfall.com/card/eld/2/all-that-glitters?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:9
+#: ../../ELD.rst:61
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../ELD.rst:11
+msgid "Enchanted creature gets +1/+1 for each artifact and/or enchantment you control."
+msgstr ""
+
+#: ../../ELD.rst:22
+msgid ":mtgtip:`The Circle of Loyalty<https://img.scryfall.com/cards/border_crop/front/7/9/79093d00-362d-4d07-8a0a-cf5e1ccf9c0f.jpg?1567698953|https://scryfall.com/card/eld/9/the-circle-of-loyalty?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:15
+msgid "This spell costs |mana_1| less to cast for each Knight you control."
+msgstr ""
+
+#: ../../ELD.rst:17
+msgid "Creatures you control get +1/+1."
+msgstr ""
+
+#: ../../ELD.rst:19
+msgid "Whenever you cast a legendary spell, create a 2/2 white Knight creature token with vigilance."
+msgstr ""
+
+#: ../../ELD.rst:21
+msgid "|mana_3|\\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with vigilance."
+msgstr ""
+
+#: ../../ELD.rst:32
+msgid ":mtgtip:`Shining Armor<https://img.scryfall.com/cards/border_crop/front/7/7/7791f46e-f772-4d3f-824e-52b4fc721b58.jpg?1567698959|https://scryfall.com/card/eld/29/shining-armor?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:25
+#: ../../ELD.rst:53
+msgid "Flash"
+msgstr ""
+
+#: ../../ELD.rst:27
+msgid "When Shining Armor enters the battlefield, attach it to target Knight you control."
+msgstr ""
+
+#: ../../ELD.rst:29
+msgid "Equipped creature gets +0/+2 and has vigilance."
+msgstr ""
+
+#: ../../ELD.rst:31
+#: ../../ELD.rst:283
+msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../ELD.rst:38
+msgid ":mtgtip:`Silverflame Ritual<https://img.scryfall.com/cards/border_crop/front/c/a/cad7efd1-5f53-4466-9a02-c474c265298a.jpg?1567698936|https://scryfall.com/card/eld/30/silverflame-ritual?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:35
+msgid "Put a +1/+1 counter on each creature you control."
+msgstr ""
+
+#: ../../ELD.rst:37
+msgid "Adamant — If at least three white mana was spent to cast this spell, creatures you control gain vigilance until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:42
+msgid ":mtgtip:`Animating Faerie<https://img.scryfall.com/cards/border_crop/front/3/2/32158458-42eb-41bc-a15a-11af28463eb0.jpg?1567699081|https://scryfall.com/card/eld/38/animating-faerie-bring-to-life?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:41
+#: ../../ELD.rst:55
+#: ../../ELD.rst:81
+#: ../../ELD.rst:109
+#: ../../ELD.rst:123
+#: ../../ELD.rst:209
+#: ../../ELD.rst:251
+#: ../../ELD.rst:295
+#: ../../ELD.rst:345
+#: ../../ELD.rst:377
+#: ../../ELD.rst:413
+#: ../../ELD.rst:419
+#: ../../ELD.rst:497
+msgid "Flying"
+msgstr ""
+
+#: ../../ELD.rst:46
+msgid ":mtgtip:`Bring to Life<https://img.scryfall.com/cards/border_crop/front/3/2/32158458-42eb-41bc-a15a-11af28463eb0.jpg?1567699081|https://scryfall.com/card/eld/38/animating-faerie-bring-to-life?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:45
+msgid "Target noncreature artifact you control becomes a 0/0 artifact creature. Put four +1/+1 counters on it."
+msgstr ""
+
+#: ../../ELD.rst:50
+msgid ":mtgtip:`Corridor Monitor<https://img.scryfall.com/cards/border_crop/front/9/3/9347802a-0971-443c-867a-cb9400f18d5c.jpg?1567699095|https://scryfall.com/card/eld/41/corridor-monitor?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:49
+msgid "When Corridor Monitor enters the battlefield, untap target artifact or creature you control."
+msgstr ""
+
+#: ../../ELD.rst:58
+msgid ":mtgtip:`Faerie Vandal<https://img.scryfall.com/cards/border_crop/front/7/8/789c5c2b-3e51-4f6c-ac76-d276facf716f.jpg?1567699108|https://scryfall.com/card/eld/45/faerie-vandal?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:57
+msgid "Whenever you draw your second card each turn, put a +1/+1 counter on Faerie Vandal."
+msgstr ""
+
+#: ../../ELD.rst:64
+msgid ":mtgtip:`Frogify<https://img.scryfall.com/cards/border_crop/front/b/6/b69cbb20-3c4e-480b-a330-9c6d6b39d12f.jpg?1567699134|https://scryfall.com/card/eld/47/frogify?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:63
+msgid "Enchanted creature loses all abilities and is a blue Frog creature with base power and toughness 1/1. (It loses all other card types and creature types.)"
+msgstr ""
+
+#: ../../ELD.rst:74
+msgid ":mtgtip:`Midnight Clock<https://img.scryfall.com/cards/border_crop/front/0/f/0f7f1148-7b1b-4969-a2f8-428de1e2e8ff.jpg?1567699146|https://scryfall.com/card/eld/54/midnight-clock?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:67
+msgid "|tap|: Add |mana_u|."
+msgstr ""
+
+#: ../../ELD.rst:69
+msgid "|mana_2|\\ |mana_u|: Put an hour counter on Midnight Clock."
+msgstr ""
+
+#: ../../ELD.rst:71
+msgid "At the beginning of each upkeep, put an hour counter on Midnight Clock."
+msgstr ""
+
+#: ../../ELD.rst:73
+msgid "When the twelfth hour counter is put on Midnight Clock, shuffle your hand and graveyard into your library, then draw seven cards. Exile Midnight Clock."
+msgstr ""
+
+#: ../../ELD.rst:78
+msgid ":mtgtip:`Run Away Together<https://img.scryfall.com/cards/border_crop/front/a/e/aeffc3c0-567c-442f-ba06-b7d9617c5789.jpg?1567699154|https://scryfall.com/card/eld/62/run-away-together?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:77
+msgid "Choose two target creatures controlled by different players. Return those creatures to their owners' hands."
+msgstr ""
+
+#: ../../ELD.rst:84
+msgid ":mtgtip:`Tome Raider<https://img.scryfall.com/cards/border_crop/front/e/0/e04ad850-5801-4654-a388-f86be20a43bf.jpg?1567699163|https://scryfall.com/card/eld/68/tome-raider?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:83
+msgid "When Tome Raider enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../ELD.rst:90
+msgid ":mtgtip:`Wishful Merfolk<https://img.scryfall.com/cards/border_crop/front/f/9/f9358d5d-726e-43e0-a58e-4cfe7c755913.jpg?1567699164|https://scryfall.com/card/eld/73/wishful-merfolk?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:87
+msgid "Defender"
+msgstr ""
+
+#: ../../ELD.rst:89
+msgid "|mana_1|\\ |mana_u|: Wishful Merfolk loses defender and becomes a Human until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:96
+msgid ":mtgtip:`Witching Well<https://img.scryfall.com/cards/border_crop/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1567699181|https://scryfall.com/card/eld/74/witching-well?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:93
+msgid "When Witching Well enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../ELD.rst:95
+msgid "|mana_3|\\ |mana_u|, Sacrifice Witching Well: Draw two cards."
+msgstr ""
+
+#: ../../ELD.rst:100
+msgid ":mtgtip:`Bake into a Pie<https://img.scryfall.com/cards/border_crop/front/4/2/42a4d090-1bb7-4334-ab22-e2527391e79b.jpg?1567699206|https://scryfall.com/card/eld/76/bake-into-a-pie?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:99
+msgid "Destroy target creature. Create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
+msgstr ""
+
+#: ../../ELD.rst:106
+msgid ":mtgtip:`Belle of the Brawl<https://img.scryfall.com/cards/border_crop/front/2/c/2c3c992a-70b5-4d3c-9a96-93c3365691ac.jpg?1567704220|https://scryfall.com/card/eld/78/belle-of-the-brawl?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:103
+msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../ELD.rst:105
+msgid "Whenever Belle of the Brawl attacks, other Knights you control get +1/+0 until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:112
+msgid ":mtgtip:`Eye Collector<https://img.scryfall.com/cards/border_crop/front/2/b/2b9bb2f3-a7c7-4e8f-ba39-44e6acd9240b.jpg?1567823528|https://scryfall.com/card/eld/86/eye-collector?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:111
+msgid "Whenever Eye Collector deals combat damage to a player, each player puts the top card of their library into their graveyard."
+msgstr ""
+
+#: ../../ELD.rst:116
+msgid ":mtgtip:`Foulmire Knight<https://img.scryfall.com/cards/border_crop/front/c/5/c5f6c745-e46a-42eb-8eca-b7b74ab1245e.jpg?1567625553|https://scryfall.com/card/eld/90/foulmire-knight-profane-insight?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:115
+#: ../../ELD.rst:287
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../ELD.rst:120
+msgid ":mtgtip:`Profane Insight<https://img.scryfall.com/cards/border_crop/front/c/5/c5f6c745-e46a-42eb-8eca-b7b74ab1245e.jpg?1567625553|https://scryfall.com/card/eld/90/foulmire-knight-profane-insight?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:119
+msgid "You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.)"
+msgstr ""
+
+#: ../../ELD.rst:126
+msgid ":mtgtip:`Order of Midnight<https://img.scryfall.com/cards/border_crop/front/3/3/330cc452-4382-401d-9432-ac27ae6e27ad.jpg?1567592739|https://scryfall.com/card/eld/99/order-of-midnight-alter-fate?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:125
+msgid "Order of Midnight can't block."
+msgstr ""
+
+#: ../../ELD.rst:130
+msgid ":mtgtip:`Alter Fate<https://img.scryfall.com/cards/border_crop/front/3/3/330cc452-4382-401d-9432-ac27ae6e27ad.jpg?1567592739|https://scryfall.com/card/eld/99/order-of-midnight-alter-fate?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:129
+msgid "Return target creature card from your graveyard to your hand. (Then exile this card. You may cast the creature later from exile.)"
+msgstr ""
+
+#: ../../ELD.rst:138
+msgid ":mtgtip:`Piper of the Swarm<https://img.scryfall.com/cards/border_crop/front/0/a/0a7962fe-b715-4981-86c3-223bad9b1899.jpg?1567699376|https://scryfall.com/card/eld/100/piper-of-the-swarm?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:133
+msgid "Rats you control have menace."
+msgstr ""
+
+#: ../../ELD.rst:135
+msgid "|mana_1|\\ |mana_b|, |tap|: Create a 1/1 black Rat creature token."
+msgstr ""
+
+#: ../../ELD.rst:137
+msgid "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice three Rats: Gain control of target creature."
+msgstr ""
+
+#: ../../ELD.rst:150
+msgid ":mtgtip:`Rankle, Master of Pranks<https://img.scryfall.com/cards/border_crop/front/9/3/93c2c11d-dfc3-4ba9-8c0f-a98114090396.jpg?1567699379|https://scryfall.com/card/eld/101/rankle-master-of-pranks?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:141
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../ELD.rst:143
+msgid "Whenever Rankle, Master of Pranks deals combat damage to a player, choose any number —"
+msgstr ""
+
+#: ../../ELD.rst:145
+msgid "Each player discards a card."
+msgstr ""
+
+#: ../../ELD.rst:147
+msgid "Each player loses 1 life and draws a card."
+msgstr ""
+
+#: ../../ELD.rst:149
+msgid "Each player sacrifices a creature."
+msgstr ""
+
+#: ../../ELD.rst:154
+msgid ":mtgtip:`Smitten Swordmaster<https://img.scryfall.com/cards/border_crop/front/f/8/f82541f2-b17c-45b4-87ff-f9b46d23578c.jpg?1567699699|https://scryfall.com/card/eld/105/smitten-swordmaster-curry-favor?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:153
+msgid "Lifelink"
+msgstr ""
+
+#: ../../ELD.rst:158
+msgid ":mtgtip:`Curry Favor<https://img.scryfall.com/cards/border_crop/front/f/8/f82541f2-b17c-45b4-87ff-f9b46d23578c.jpg?1567699699|https://scryfall.com/card/eld/105/smitten-swordmaster-curry-favor?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:157
+msgid "You gain X life and each opponent loses X life, where X is the number of Knights you control."
+msgstr ""
+
+#: ../../ELD.rst:164
+msgid ":mtgtip:`Syr Konrad, the Grim<https://img.scryfall.com/cards/border_crop/front/a/8/a808868f-aea8-4651-9357-85a4d7b4f290.jpg?1567700418|https://scryfall.com/card/eld/107/syr-konrad-the-grim?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:161
+msgid "Whenever another creature dies, or a creature card is put into a graveyard from anywhere other than the battlefield, or a creature card leaves your graveyard, Syr Konrad, the Grim deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../ELD.rst:163
+msgid "|mana_1|\\ |mana_b|: Each player puts the top card of their library into their graveyard."
+msgstr ""
+
+#: ../../ELD.rst:170
+msgid ":mtgtip:`Crystal Slipper<https://img.scryfall.com/cards/border_crop/front/9/f/9f738ca6-5254-4dbc-9f59-854e81c8dac2.jpg?1567656806|https://scryfall.com/card/eld/119/crystal-slipper?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:167
+msgid "Equipped creature gets +1/+0 and has haste."
+msgstr ""
+
+#: ../../ELD.rst:169
+msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../ELD.rst:176
+msgid ":mtgtip:`Embereth Paladin<https://img.scryfall.com/cards/border_crop/front/6/b/6bcfe06b-3bb5-434e-acf4-4bfa8a94141d.jpg?1567613313|https://scryfall.com/card/eld/121/embereth-paladin?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:173
+msgid "Haste"
+msgstr ""
+
+#: ../../ELD.rst:175
+msgid "Adamant — If at least three red mana was spent to cast this spell, Embereth Paladin enters the battlefield with a +1/+1 counter on it."
+msgstr ""
+
+#: ../../ELD.rst:178
+msgid ":mtgtip:`Embereth Shieldbreaker<https://img.scryfall.com/cards/border_crop/front/6/c/6cc73d16-5ed7-4104-91f6-0997a2080e2e.jpg?1567699419|https://scryfall.com/card/eld/122/embereth-shieldbreaker-battle-display?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:184
+msgid ":mtgtip:`Battle Display<https://img.scryfall.com/cards/border_crop/front/6/c/6cc73d16-5ed7-4104-91f6-0997a2080e2e.jpg?1567699419|https://scryfall.com/card/eld/122/embereth-shieldbreaker-battle-display?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:183
+msgid "Destroy target artifact. (Then exile this card. You may cast the creature later from exile.)"
+msgstr ""
+
+#: ../../ELD.rst:190
+msgid ":mtgtip:`Slaying Fire<https://img.scryfall.com/cards/border_crop/front/8/3/83b5b110-c430-4ffe-9fc1-8e6987f52d1e.jpg?1567637901|https://scryfall.com/card/eld/143/slaying-fire?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:187
+msgid "Slaying Fire deals 3 damage to any target."
+msgstr ""
+
+#: ../../ELD.rst:189
+msgid "Adamant — If at least three red mana was spent to cast this spell, it deals 4 damage instead."
+msgstr ""
+
+#: ../../ELD.rst:194
+msgid ":mtgtip:`Beanstalk Giant<https://img.scryfall.com/cards/border_crop/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1567635707|https://scryfall.com/card/eld/149/beanstalk-giant-fertile-footsteps?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:193
+msgid "Beanstalk Giant's power and toughness are each equal to the number of lands you control."
+msgstr ""
+
+#: ../../ELD.rst:198
+msgid ":mtgtip:`Fertile Footsteps<https://img.scryfall.com/cards/border_crop/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1567635707|https://scryfall.com/card/eld/149/beanstalk-giant-fertile-footsteps?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:197
+msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle your library. (Then exile this card. You may cast the creature later from exile.)"
+msgstr ""
+
+#: ../../ELD.rst:202
+msgid ":mtgtip:`Flaxen Intruder<https://img.scryfall.com/cards/border_crop/front/0/6/06bd1ad2-fb5d-4aef-87d1-13a341c686fa.jpg?1567699505|https://scryfall.com/card/eld/155/flaxen-intruder-welcome-home?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:201
+msgid "Whenever Flaxen Intruder deals combat damage to a player, you may sacrifice it. When you do, destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../ELD.rst:206
+msgid ":mtgtip:`Welcome Home<https://img.scryfall.com/cards/border_crop/front/0/6/06bd1ad2-fb5d-4aef-87d1-13a341c686fa.jpg?1567699505|https://scryfall.com/card/eld/155/flaxen-intruder-welcome-home?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:205
+msgid "Create three 2/2 green Bear creature tokens. (Then exile this card. You may cast the creature later from exile.)"
+msgstr ""
+
+#: ../../ELD.rst:216
+msgid ":mtgtip:`Gilded Goose<https://img.scryfall.com/cards/border_crop/front/3/0/30377bf0-d9b1-4c14-8dde-f74b1e02d604.jpg?1567699467|https://scryfall.com/card/eld/160/gilded-goose?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:211
+msgid "When Gilded Goose enters the battlefield, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
+msgstr ""
+
+#: ../../ELD.rst:213
+msgid "|mana_1|\\ |mana_g|, |tap|: Create a Food token."
+msgstr ""
+
+#: ../../ELD.rst:215
+msgid "|tap|, Sacrifice a Food: Add one mana of any color."
+msgstr ""
+
+#: ../../ELD.rst:220
+msgid ":mtgtip:`Keeper of Fables<https://img.scryfall.com/cards/border_crop/front/6/7/6754d6cf-3506-48b5-a0ef-8a90b8dd2701.jpg?1567699488|https://scryfall.com/card/eld/163/keeper-of-fables?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:219
+msgid "Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card."
+msgstr ""
+
+#: ../../ELD.rst:224
+msgid ":mtgtip:`Lovestruck Beast<https://img.scryfall.com/cards/border_crop/front/4/c/4ccdef9c-1e85-4358-8059-8972479f7556.jpg?1567699624|https://scryfall.com/card/eld/165/lovestruck-beast-hearts-desire?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:223
+msgid "Lovestruck Beast can't attack unless you control a 1/1 creature."
+msgstr ""
+
+#: ../../ELD.rst:228
+msgid ":mtgtip:`Heart's Desire<https://img.scryfall.com/cards/border_crop/front/4/c/4ccdef9c-1e85-4358-8059-8972479f7556.jpg?1567699624|https://scryfall.com/card/eld/165/lovestruck-beast-hearts-desire?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:227
+msgid "Create a 1/1 white Human creature token. (Then exile this card. You may cast the creature later from exile.)"
+msgstr ""
+
+#: ../../ELD.rst:232
+msgid ":mtgtip:`Rosethorn Acolyte<https://img.scryfall.com/cards/border_crop/front/2/a/2a0d430f-da84-4752-940c-8457c525aac9.jpg?1567699662|https://scryfall.com/card/eld/174/rosethorn-acolyte-seasonal-ritual?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:231
+msgid "|tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../ELD.rst:236
+msgid ":mtgtip:`Seasonal Ritual<https://img.scryfall.com/cards/border_crop/front/2/a/2a0d430f-da84-4752-940c-8457c525aac9.jpg?1567699662|https://scryfall.com/card/eld/174/rosethorn-acolyte-seasonal-ritual?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:235
+msgid "Add one mana of any color. (Then exile this card. You may cast the creature later from exile.)"
+msgstr ""
+
+#: ../../ELD.rst:244
+msgid ":mtgtip:`Garruk, Cursed Huntsman<https://img.scryfall.com/cards/border_crop/front/a/b/abef512f-8f1d-4257-b16f-c0eed58670ec.jpg?1567709147|https://scryfall.com/card/eld/191/garruk-cursed-huntsman?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:239
+msgid "0: Create two 2/2 black and green Wolf creature tokens with \"When this creature dies, put a loyalty counter on each Garruk you control.\""
+msgstr ""
+
+#: ../../ELD.rst:241
+msgid "−3: Destroy target creature. Draw a card."
+msgstr ""
+
+#: ../../ELD.rst:243
+msgid "−6: You get an emblem with \"Creatures you control get +3/+3 and have trample.\""
+msgstr ""
+
+#: ../../ELD.rst:248
+msgid ":mtgtip:`Inspiring Veteran<https://img.scryfall.com/cards/border_crop/front/0/c/0c3f372d-259d-4a31-9491-2d369b3f3f8b.jpg?1567699782|https://scryfall.com/card/eld/194/inspiring-veteran?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:247
+msgid "Other Knights you control get +1/+1."
+msgstr ""
+
+#: ../../ELD.rst:254
+msgid ":mtgtip:`Maraleaf Pixie<https://img.scryfall.com/cards/border_crop/front/e/6/e6d7f9c9-dd83-4684-a949-1c22f316138a.jpg?1567560296|https://scryfall.com/card/eld/196/maraleaf-pixie?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:253
+#: ../../ELD.rst:393
+msgid "|tap|: Add |mana_g| or |mana_u|."
+msgstr ""
+
+#: ../../ELD.rst:262
+msgid ":mtgtip:`Oko, Thief of Crowns<https://img.scryfall.com/cards/border_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1567700076|https://scryfall.com/card/eld/197/oko-thief-of-crowns?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:257
+msgid "+2: Create a Food token."
+msgstr ""
+
+#: ../../ELD.rst:259
+msgid "+1: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3."
+msgstr ""
+
+#: ../../ELD.rst:261
+msgid "−5: Exchange control of target artifact or creature you control and target creature an opponent controls with power 3 or less."
+msgstr ""
+
+#: ../../ELD.rst:268
+msgid ":mtgtip:`Savvy Hunter<https://img.scryfall.com/cards/border_crop/front/1/5/15c98441-2b31-4e48-a399-f36dffcfa41d.jpg?1567699832|https://scryfall.com/card/eld/200/savvy-hunter?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:265
+msgid "Whenever Savvy Hunter attacks or blocks, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
+msgstr ""
+
+#: ../../ELD.rst:267
+msgid "Sacrifice two Foods: Draw a card."
+msgstr ""
+
+#: ../../ELD.rst:276
+msgid ":mtgtip:`Shinechaser<https://img.scryfall.com/cards/border_crop/front/f/6/f6d5314b-4994-4cd0-a680-12e56be7c1e2.jpg?1567699957|https://scryfall.com/card/eld/201/shinechaser?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:271
+#: ../../ELD.rst:405
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../ELD.rst:273
+msgid "Shinechaser gets +1/+1 as long as you control an artifact."
+msgstr ""
+
+#: ../../ELD.rst:275
+msgid "Shinechaser gets +1/+1 as long as you control an enchantment."
+msgstr ""
+
+#: ../../ELD.rst:284
+msgid ":mtgtip:`Steelclaw Lance<https://img.scryfall.com/cards/border_crop/front/c/a/cafcf909-d726-4bc2-adf6-c12ca242f0c1.jpg?1567699985|https://scryfall.com/card/eld/202/steelclaw-lance?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:279
+msgid "Equipped creature gets +2/+2."
+msgstr ""
+
+#: ../../ELD.rst:281
+msgid "Equip Knight |mana_1| (|mana_1|: Attach to target Knight creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../ELD.rst:292
+msgid ":mtgtip:`Wintermoor Commander<https://img.scryfall.com/cards/border_crop/front/0/6/06e8d715-025f-4578-b427-e401318a9c58.jpg?1567699998|https://scryfall.com/card/eld/205/wintermoor-commander?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:289
+msgid "Wintermoor Commander's toughness is equal to the number of Knights you control."
+msgstr ""
+
+#: ../../ELD.rst:291
+msgid "Whenever Wintermoor Commander attacks, another target Knight you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+msgstr ""
+
+#: ../../ELD.rst:298
+msgid ":mtgtip:`Arcanist's Owl<https://img.scryfall.com/cards/border_crop/front/b/4/b42e1359-c79d-4848-a0f1-3f274e0bf0d9.jpg?1567700033|https://scryfall.com/card/eld/206/arcanists-owl?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:297
+msgid "When Arcanist's Owl enters the battlefield, look at the top four cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../ELD.rst:304
+msgid ":mtgtip:`Fireborn Knight<https://img.scryfall.com/cards/border_crop/front/6/7/6716f46c-806d-4b3e-8a1c-fd6dcedacf8e.jpg?1567595232|https://scryfall.com/card/eld/210/fireborn-knight?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:301
+msgid "Double strike"
+msgstr ""
+
+#: ../../ELD.rst:303
+msgid "|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|: Fireborn Knight gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:312
+msgid ":mtgtip:`Golden Egg<https://img.scryfall.com/cards/border_crop/front/5/2/525142c3-f17c-4e02-a02d-fa385215aa12.jpg?1567861428|https://scryfall.com/card/eld/220/golden-egg?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:307
+msgid "When Golden Egg enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../ELD.rst:309
+msgid "|mana_1|, |tap|, Sacrifice Golden Egg: Add one mana of any color."
+msgstr ""
+
+#: ../../ELD.rst:311
+msgid "|mana_2|, |tap|, Sacrifice Golden Egg: You gain 3 life."
+msgstr ""
+
+#: ../../ELD.rst:320
+msgid ":mtgtip:`Heraldic Banner<https://img.scryfall.com/cards/border_crop/front/2/e/2e349af5-3f25-46d3-908e-83b2f6028b95.jpg?1567700133|https://scryfall.com/card/eld/222/heraldic-banner?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:315
+msgid "As Heraldic Banner enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../ELD.rst:317
+msgid "Creatures you control of the chosen color get +1/+0."
+msgstr ""
+
+#: ../../ELD.rst:319
+msgid "|tap|: Add one mana of the chosen color."
+msgstr ""
+
+#: ../../ELD.rst:326
+msgid ":mtgtip:`Tournament Grounds<https://img.scryfall.com/cards/border_crop/front/c/d/cd438d51-a778-4b38-8b4b-a6a9cd9b4b22.jpg?1567700054|https://scryfall.com/card/eld/248/tournament-grounds?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:323
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../ELD.rst:325
+msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|. Spend this mana only to cast a Knight or Equipment spell."
+msgstr ""
+
+#: ../../ELD.rst:334
+msgid ":mtgtip:`Witch's Cottage<https://img.scryfall.com/cards/border_crop/front/b/8/b87891cd-b457-4dff-8d18-a7eaf6748fc6.jpg?1567700051|https://scryfall.com/card/eld/249/witchs-cottage?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:329
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../ELD.rst:331
+msgid "Witch's Cottage enters the battlefield tapped unless you control three or more other Swamps."
+msgstr ""
+
+#: ../../ELD.rst:333
+msgid "When Witch's Cottage enters the battlefield untapped, you may put target creature card from your graveyard on top of your library."
+msgstr ""
+
+#: ../../ELD.rst:342
+msgid ":mtgtip:`\"Rowan's Not Messing Around Anymore\"<https://img.scryfall.com/cards/border_crop/front/0/3/030f4058-54e5-4333-bd6c-2789c334bf12.jpg?1567766011|https://scryfall.com/card/eld/304/rowans-not-messing-around-anymore?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:337
+msgid "+1: Up to one target creature gets +3/+0 and gains first strike until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:339
+msgid "−2: Choose two target creatures. \"Rowan's Not Messing Around Anymore\" deals 1 damage to each of them. Those creatures can't block this turn."
+msgstr ""
+
+#: ../../ELD.rst:341
+msgid "−9: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:348
+msgid ":mtgtip:`\"Griffin Wants Zoomies\"<https://img.scryfall.com/cards/border_crop/front/9/4/94a04717-5cd7-4982-bf36-00cea30b9ef1.jpg?1567759903|https://scryfall.com/card/eld/305/griffin-wants-zoomies?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:347
+msgid "Whenever \"Griffin Wants Zoomies\" attacks, target Knight you control gains flying until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:354
+msgid ":mtgtip:`\"Rowan's Badass Sidekick\"<https://img.scryfall.com/cards/border_crop/front/9/c/9c8a3119-ce9b-4fe5-aea3-871a7eee216e.jpg?1567850606|https://scryfall.com/card/eld/306/rowans-badass-sidekick?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:351
+msgid "First strike"
+msgstr ""
+
+#: ../../ELD.rst:353
+msgid "As long as you control a Rowan planeswalker, \"Rowan's Badass Sidekick\" gets +3/+0."
+msgstr ""
+
+#: ../../ELD.rst:358
+msgid ":mtgtip:`\"Rowan's Red Riding Hoods\"<https://img.scryfall.com/cards/border_crop/front/b/5/b537c4e3-88d1-430d-b4c8-16e0716d1927.jpg?1567760704|https://scryfall.com/card/eld/307/rowans-red-riding-hoods?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:357
+msgid "When \"Rowan's Red Riding Hoods\" enters the battlefield, you may search your library and/or graveyard for a card named \"Rowan's Not Messing Around Anymore\", reveal it, and put it into your hand. If you searched your library this way, shuffle it."
+msgstr ""
+
+#: ../../ELD.rst:366
+msgid ":mtgtip:`Wind-Scarred Crag<https://img.scryfall.com/cards/border_crop/front/7/5/75f5875e-487f-4586-95f3-3627050a6744.jpg?1567759340|https://scryfall.com/card/eld/308/wind-scarred-crag?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:361
+msgid "Wind-Scarred Crag enters the battlefield tapped."
+msgstr ""
+
+#: ../../ELD.rst:363
+msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../ELD.rst:365
+msgid "|tap|: Add |mana_r| or |mana_w|."
+msgstr ""
+
+#: ../../ELD.rst:374
+msgid ":mtgtip:`\"Oko's JoJo Reference\"<https://img.scryfall.com/cards/border_crop/front/8/3/83e61813-c4c8-4e80-8808-ac5107966ee3.jpg?1567759345|https://scryfall.com/card/eld/309/okos-jojo-reference?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:369
+msgid "+1: Put two +1/+1 counters on up to one target creature you control."
+msgstr ""
+
+#: ../../ELD.rst:371
+msgid "0: Until end of turn, \"Oko's JoJo Reference\" becomes a copy of a creature you control. Prevent all damage that would be dealt to him this turn."
+msgstr ""
+
+#: ../../ELD.rst:373
+msgid "−7: Until end of turn, each creature you control has base power and toughness 10/10 and gains trample."
+msgstr ""
+
+#: ../../ELD.rst:378
+msgid ":mtgtip:`\"Flying With Scissors\"<https://img.scryfall.com/cards/border_crop/front/7/1/71c52b50-35aa-4858-8c8e-c81dcb29a7fc.jpg?1567760027|https://scryfall.com/card/eld/310/flying-with-scissors?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:382
+msgid ":mtgtip:`\"Thorn Ouphe\"<https://img.scryfall.com/cards/border_crop/front/f/c/fc83a142-9d0f-4a39-baeb-4e2f62009204.jpg?1567759643|https://scryfall.com/card/eld/311/thorn-ouphe?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:381
+msgid "|mana_8|: \"Thorn Ouphe\" has base power and toughness 10/10 until end of turn. Activate this ability only if you control an Oko planeswalker."
+msgstr ""
+
+#: ../../ELD.rst:386
+msgid ":mtgtip:`\"Oko's Hospitality\"<https://img.scryfall.com/cards/border_crop/front/8/1/81fb103d-f07c-4113-9da7-843cc7dab340.jpg?1567759050|https://scryfall.com/card/eld/312/okos-hospitality?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:385
+msgid "Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named \"Oko's JoJo Reference\", reveal it, and put it into your hand. If you searched your library this way, shuffle it."
+msgstr ""
+
+#: ../../ELD.rst:394
+msgid ":mtgtip:`Thornwood Falls<https://img.scryfall.com/cards/border_crop/front/f/5/f5159db6-a87f-40eb-8c5c-821dfb67ff6d.jpg?1567759969|https://scryfall.com/card/eld/313/thornwood-falls?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:389
+msgid "Thornwood Falls enters the battlefield tapped."
+msgstr ""
+
+#: ../../ELD.rst:391
+msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../ELD.rst:402
+msgid ":mtgtip:`Mace of the Valiant<https://img.scryfall.com/cards/border_crop/front/6/c/6c141ed6-02ee-49c4-98af-938ebcefb2f5.jpg?1567714020|https://scryfall.com/card/eld/314/mace-of-the-valiant?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:397
+msgid "Equipped creature gets +1/+1 for each charge counter on Mace of the Valiant and has vigilance."
+msgstr ""
+
+#: ../../ELD.rst:399
+msgid "Whenever a creature enters the battlefield under your control, put a charge counter on Mace of the Valiant."
+msgstr ""
+
+#: ../../ELD.rst:401
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: ../../ELD.rst:410
+msgid ":mtgtip:`Silverwing Squadron<https://img.scryfall.com/cards/border_crop/front/4/3/4348513e-4a03-4e06-98e0-ac6c0dfb013d.jpg?1567700249|https://scryfall.com/card/eld/315/silverwing-squadron?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:407
+msgid "Silverwing Squadron's power and toughness are each equal to the number of creatures you control."
+msgstr ""
+
+#: ../../ELD.rst:409
+msgid "Whenever Silverwing Squadron attacks, create a number of 2/2 white Knight creature tokens with vigilance equal to the number of opponents you have."
+msgstr ""
+
+#: ../../ELD.rst:416
+msgid ":mtgtip:`Faerie Formation<https://img.scryfall.com/cards/border_crop/front/1/5/15709316-7382-46b9-9b70-53a5147e7051.jpg?1567700297|https://scryfall.com/card/eld/316/faerie-formation?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:415
+msgid "|mana_3|\\ |mana_u|: Create a 1/1 blue Faerie creature token with flying. Draw a card."
+msgstr ""
+
+#: ../../ELD.rst:424
+msgid ":mtgtip:`Shimmer Dragon<https://img.scryfall.com/cards/border_crop/front/5/b/5beffa4c-4188-48c1-8374-3ac3e8ea1900.jpg?1567700306|https://scryfall.com/card/eld/317/shimmer-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:421
+msgid "As long as you control four or more artifacts, Shimmer Dragon has hexproof."
+msgstr ""
+
+#: ../../ELD.rst:423
+msgid "Tap two untapped artifacts you control: Draw a card."
+msgstr ""
+
+#: ../../ELD.rst:430
+msgid ":mtgtip:`Workshop Elders<https://img.scryfall.com/cards/border_crop/front/5/3/53913e26-d98b-4ca6-aeea-23633d762d46.jpg?1567700328|https://scryfall.com/card/eld/318/workshop-elders?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:427
+msgid "Artifact creatures you control have flying."
+msgstr ""
+
+#: ../../ELD.rst:429
+msgid "At the beginning of combat on your turn, you may have target noncreature artifact you control become a 0/0 artifact creature. If you do, put four +1/+1 counters on it."
+msgstr ""
+
+#: ../../ELD.rst:436
+msgid ":mtgtip:`Chittering Witch<https://img.scryfall.com/cards/border_crop/front/8/c/8c298940-4277-4145-9f2f-a284fd2e1a9d.jpg?1567700334|https://scryfall.com/card/eld/319/chittering-witch?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:433
+msgid "When Chittering Witch enters the battlefield, create a number of 1/1 black Rat creature tokens equal to the number of opponents you have."
+msgstr ""
+
+#: ../../ELD.rst:435
+msgid "|mana_1|\\ |mana_b|, Sacrifice a creature: Target creature gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:440
+msgid ":mtgtip:`Taste of Death<https://img.scryfall.com/cards/border_crop/front/8/5/851066e5-d5f2-4e53-8b88-487441a77548.jpg?1567700220|https://scryfall.com/card/eld/320/taste-of-death?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:439
+msgid "Each player sacrifices three creatures. You create three Food tokens."
+msgstr ""
+
+#: ../../ELD.rst:446
+msgid ":mtgtip:`Embereth Skyblazer<https://img.scryfall.com/cards/border_crop/front/1/6/166ee7fc-a0f7-49af-85bf-d5b36bb2bff4.jpg?1567700347|https://scryfall.com/card/eld/321/embereth-skyblazer?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:443
+msgid "As long as it's your turn, Embereth Skyblazer has flying."
+msgstr ""
+
+#: ../../ELD.rst:445
+msgid "Whenever Embereth Skyblazer attacks, you may pay |mana_2|\\ |mana_r|. If you do, creatures you control get +X/+0 until end of turn, where X is the number of opponents you have."
+msgstr ""
+
+#: ../../ELD.rst:452
+msgid ":mtgtip:`Steelbane Hydra<https://img.scryfall.com/cards/border_crop/front/9/1/91d0e54d-6e18-44a5-adc2-d875d5b6784f.jpg?1567649709|https://scryfall.com/card/eld/322/steelbane-hydra?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:449
+msgid "Steelbane Hydra enters the battlefield with X +1/+1 counters on it."
+msgstr ""
+
+#: ../../ELD.rst:451
+msgid "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Steelbane Hydra: Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../ELD.rst:458
+msgid ":mtgtip:`Thorn Mammoth<https://img.scryfall.com/cards/border_crop/front/8/0/80138656-b2e2-43bf-9fe6-7a852f53f9e9.jpg?1567700190|https://scryfall.com/card/eld/323/thorn-mammoth?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:455
+#: ../../ELD.rst:483
+msgid "Trample"
+msgstr ""
+
+#: ../../ELD.rst:457
+msgid "Whenever Thorn Mammoth or another creature enters the battlefield under your control, Thorn Mammoth fights up to one target creature you don't control."
+msgstr ""
+
+#: ../../ELD.rst:466
+msgid ":mtgtip:`Alela, Artful Provocateur<https://img.scryfall.com/cards/border_crop/front/7/2/726e7dc5-2089-4758-93e1-79212aedf75f.jpg?1567700153|https://scryfall.com/card/eld/324/alela-artful-provocateur?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:461
+msgid "Flying, deathtouch, lifelink"
+msgstr ""
+
+#: ../../ELD.rst:463
+msgid "Other creatures you control with flying get +1/+0."
+msgstr ""
+
+#: ../../ELD.rst:465
+msgid "Whenever you cast an artifact or enchantment spell, create a 1/1 blue Faerie creature token with flying."
+msgstr ""
+
+#: ../../ELD.rst:472
+msgid ":mtgtip:`Banish into Fable<https://img.scryfall.com/cards/border_crop/front/2/b/2b5e4c5d-7d1d-4426-8351-35c12e29d9c3.jpg?1567700367|https://scryfall.com/card/eld/325/banish-into-fable?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:469
+msgid "When you cast this spell from your hand, copy it if you control an artifact, then copy it if you control an enchantment. You may choose new targets for the copies."
+msgstr ""
+
+#: ../../ELD.rst:471
+msgid "Return target nonland permanent to its owner's hand. You create a 2/2 white Knight creature token with vigilance."
+msgstr ""
+
+#: ../../ELD.rst:480
+msgid ":mtgtip:`Chulane, Teller of Tales<https://img.scryfall.com/cards/border_crop/front/8/3/83f43730-1c1f-4150-8771-d901c54bedc4.jpg?1567700153|https://scryfall.com/card/eld/326/chulane-teller-of-tales?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:475
+msgid "Vigilance"
+msgstr ""
+
+#: ../../ELD.rst:477
+msgid "Whenever you cast a creature spell, draw a card, then you may put a land card from your hand onto the battlefield."
+msgstr ""
+
+#: ../../ELD.rst:479
+msgid "|mana_3|, |tap|: Return target creature you control to its owner's hand."
+msgstr ""
+
+#: ../../ELD.rst:488
+msgid ":mtgtip:`Gluttonous Troll<https://img.scryfall.com/cards/border_crop/front/8/6/867e245b-6153-479c-9e09-682afb017ff3.jpg?1567649407|https://scryfall.com/card/eld/327/gluttonous-troll?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:485
+msgid "When Gluttonous Troll enters the battlefield, create a number of Food tokens equal to the number of opponents you have. (Food tokens are artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
+msgstr ""
+
+#: ../../ELD.rst:487
+msgid "|mana_1|\\ |mana_g|, Sacrifice another nonland permanent: Gluttonous Troll gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../ELD.rst:494
+msgid ":mtgtip:`Knights' Charge<https://img.scryfall.com/cards/border_crop/front/6/b/6b86f7db-ae1d-49fe-a9c5-488bbf3afac7.jpg?1567700379|https://scryfall.com/card/eld/328/knights-charge?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:491
+msgid "Whenever a Knight you control attacks, each opponent loses 1 life and you gain 1 life."
+msgstr ""
+
+#: ../../ELD.rst:493
+msgid "|mana_6|\\ |mana_w|\\ |mana_b|, Sacrifice Knights' Charge: Return all Knight creature cards from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../ELD.rst:502
+msgid ":mtgtip:`Korvold, Fae-Cursed King<https://img.scryfall.com/cards/border_crop/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1567700153|https://scryfall.com/card/eld/329/korvold-fae-cursed-king?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:499
+msgid "Whenever Korvold, Fae-Cursed King enters the battlefield or attacks, sacrifice another permanent."
+msgstr ""
+
+#: ../../ELD.rst:501
+msgid "Whenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card."
+msgstr ""
+
+#: ../../ELD.rst:510
+msgid ":mtgtip:`Syr Gwyn, Hero of Ashvale<https://img.scryfall.com/cards/border_crop/front/a/3/a33add37-379d-4a90-9c04-529dff676986.jpg?1567804903|https://scryfall.com/card/eld/330/syr-gwyn-hero-of-ashvale?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:505
+msgid "Vigilance, menace"
+msgstr ""
+
+#: ../../ELD.rst:507
+msgid "Whenever an equipped creature you control attacks, you draw a card and you lose 1 life."
+msgstr ""
+
+#: ../../ELD.rst:509
+msgid "Equipment you control have equip Knight |mana_0|."
+msgstr ""
+
+#: ../../ELD.rst:514
+msgid ":mtgtip:`Arcane Signet<https://img.scryfall.com/cards/border_crop/front/8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1567631723|https://scryfall.com/card/eld/331/arcane-signet?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:513
+#: ../../ELD.rst:525
+msgid "|tap|: Add one mana of any color in your commander's color identity."
+msgstr ""
+
+#: ../../ELD.rst:522
+msgid ":mtgtip:`Tome of Legends<https://img.scryfall.com/cards/border_crop/front/0/4/040301e8-20c1-4f4c-8766-d05f11415efd.jpg?1567700405|https://scryfall.com/card/eld/332/tome-of-legends?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:517
+msgid "Tome of Legends enters the battlefield with a page counter on it."
+msgstr ""
+
+#: ../../ELD.rst:519
+msgid "Whenever your commander enters the battlefield or attacks, put a page counter on Tome of Legends."
+msgstr ""
+
+#: ../../ELD.rst:521
+msgid "|mana_1|, |tap|, Remove a page counter from Tome of Legends: Draw a card."
+msgstr ""
+
+#: ../../ELD.rst:526
+msgid ":mtgtip:`Command Tower<https://img.scryfall.com/cards/border_crop/front/e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1567713988|https://scryfall.com/card/eld/333/command-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:530
+msgid ":mtgtip:`Shambling Suit<https://img.scryfall.com/cards/border_crop/front/1/1/1100b898-31a8-4fdf-a54f-a1470ec032f3.jpg?1567670950|https://scryfall.com/card/eld/999SS/shambling-suit?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:529
+msgid "Shambling Suit's power is equal to the number of artifacts and/or enchantments you control."
+msgstr ""
+
+#: ../../ELD.rst:534
+msgid ":mtgtip:`Venerable Knight<https://img.scryfall.com/cards/border_crop/front/0/0/0001f1ef-b957-4a55-b47f-14839cdbab6f.jpg?1567654606|https://scryfall.com/card/eld/999VN/venerable-knight?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:533
+msgid "When Venerable Knight dies, put a +1/+1 counter on target Knight you control."
+msgstr ""
+
+#: ../../ELD.rst:537
+msgid ":mtgtip:`Witch's Oven<https://img.scryfall.com/cards/border_crop/front/0/4/04ef8493-d986-45f8-a718-617b028f7ad4.jpg?1567656408|https://scryfall.com/card/eld/999WO/witchs-oven?utm_source=api>`"
+msgstr ""
+
+#: ../../ELD.rst:537
+msgid "|tap|, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
+msgstr ""
+

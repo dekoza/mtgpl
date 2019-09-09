@@ -5,3 +5,5 @@ _build
 *.mo
 weblate.db
 /translated/en/
+Pipfile
+Pipfile.lock
