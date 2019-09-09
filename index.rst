@@ -23,7 +23,7 @@ Tłumaczenie dodatków
 .. Nadochodzące
 .. ------------
 
-
+* :mtgexp:`ELD` :doc:`Thorne of Eldraine<ELD>` |p25|
 
 
 Standard
@@ -151,6 +151,7 @@ Legal notice
    :hidden:
 
    rulebook
+   ELD
    M20
    WAR
    RNA
