@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-11 18:15+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-11-17 18:00+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/eld/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #: ../../ELD.rst:5
 msgid ":mtgexp:`ELD` Throne of Eldraine"
@@ -27,6 +30,11 @@ msgstr ""
 #: ../../ELD.rst:9
 msgid "When Acclaimed Contender enters the battlefield, if you control another Knight, look at the top five cards of your library. You may reveal a Knight, Aura, Equipment, or legendary artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym Rycerzem, spójrz "
+"na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród nich "
+"kartę Rycerza, Aury, Wyposażenia lub legendarnego artefaktu i umieścić ją w "
+"twojej dłoni. Umieść pozostałe w losowej kolejności na spodzie twojej "
+"biblioteki."
 
 #: ../../ELD.rst:16
 msgid ":mtgtip:`All That Glitters<https://img.scryfall.com/cards/border_crop/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1569970909|https://scryfall.com/card/eld/2/all-that-glitters?utm_source=api>`"
@@ -39,11 +47,13 @@ msgstr ""
 #: ../../ELD.rst:1005
 #: ../../ELD.rst:1103
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../ELD.rst:15
 msgid "Enchanted creature gets +1/+1 for each artifact and/or enchantment you control."
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 za każdy artefakt i/lub urok pod twoim "
+"władaniem."
 
 #: ../../ELD.rst:24
 msgid ":mtgtip:`Archon of Absolution<https://img.scryfall.com/cards/border_crop/front/6/8/684ca60c-7ed4-49e1-b54a-91d129539375.jpg?1568766892|https://scryfall.com/card/eld/3/archon-of-absolution?utm_source=api>`"
@@ -78,15 +88,19 @@ msgstr ""
 #: ../../ELD.rst:1663
 #: ../../ELD.rst:1741
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../ELD.rst:21
 msgid "Protection from white (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)"
 msgstr ""
+"Ochrona przed białym (Nic białego nie może blokować, wskazać, zadać obrażeń "
+"zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../ELD.rst:23
 msgid "Creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures."
 msgstr ""
+"Stwory nie mogą atakować ciebie lub wędrowców pod twoim władaniem o ile ich "
+"władca nie zapłaci |mana_1| za każdego z owych stworów."
 
 #: ../../ELD.rst:28
 msgid ":mtgtip:`Ardenvale Paladin<https://img.scryfall.com/cards/border_crop/front/a/3/a32fa360-6c41-4146-931b-c19e9a766803.jpg?1568645113|https://scryfall.com/card/eld/4/ardenvale-paladin?utm_source=api>`"
@@ -107,6 +121,8 @@ msgstr ""
 #: ../../ELD.rst:35
 msgid "Tap up to two target creatures. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Przekręć co najwyżej dwa wskazane stwory. (Następnie wygnaj tę kartę. Możesz "
+"później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:40
 msgid ":mtgtip:`Bartered Cow<https://img.scryfall.com/cards/border_crop/front/1/d/1de43c67-7dfe-4282-b433-4e394366d2e9.jpg?1568597155|https://scryfall.com/card/eld/6/bartered-cow?utm_source=api>`"
@@ -124,7 +140,7 @@ msgstr ""
 #: ../../ELD.rst:605
 #: ../../ELD.rst:669
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../ELD.rst:45
 msgid "Beloved Princess can't be blocked by creatures with power 3 or greater."
@@ -140,11 +156,11 @@ msgstr ""
 
 #: ../../ELD.rst:51
 msgid "Scry 2."
-msgstr ""
+msgstr "Wróż 2."
 
 #: ../../ELD.rst:53
 msgid "You gain 3 life."
-msgstr ""
+msgstr "Zyskaj 3 życia."
 
 #: ../../ELD.rst:55
 msgid "Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step."
@@ -160,7 +176,7 @@ msgstr ""
 
 #: ../../ELD.rst:61
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../ELD.rst:63
 msgid "Whenever you cast a legendary spell, create a 2/2 white Knight creature token with vigilance."
@@ -189,6 +205,8 @@ msgstr ""
 #: ../../ELD.rst:77
 msgid "Target creature gets +2/+1 and gains flying until end of turn. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+1 i latanie. (Następnie wygnaj tę "
+"kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:82
 msgid ":mtgtip:`Flutterfox<https://img.scryfall.com/cards/border_crop/front/7/6/769cddf0-2078-456b-a622-057571464fe7.jpg?1568990471|https://scryfall.com/card/eld/12/flutterfox?utm_source=api>`"
@@ -216,7 +234,7 @@ msgstr ""
 
 #: ../../ELD.rst:91
 msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../ELD.rst:96
 msgid ":mtgtip:`Chop Down<https://img.scryfall.com/cards/border_crop/front/7/5/75754468-2850-42e6-ab22-61ff7b9d1214.jpg?1568114110|https://scryfall.com/card/eld/14/giant-killer-chop-down?utm_source=api>`"
@@ -225,6 +243,8 @@ msgstr ""
 #: ../../ELD.rst:95
 msgid "Destroy target creature with power 4 or greater. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Zniszcz wskazanego stwora o sile 4 lub większej. (Następnie wygnaj tę kartę. "
+"Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:100
 msgid ":mtgtip:`Glass Casket<https://img.scryfall.com/cards/border_crop/front/5/6/562f1c51-d245-4771-bf61-415297e4f9d5.jpg?1568302664|https://scryfall.com/card/eld/15/glass-casket?utm_source=api>`"
@@ -264,7 +284,7 @@ msgstr ""
 
 #: ../../ELD.rst:117
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../ELD.rst:119
 msgid "Creatures entering the battlefield or dying don't cause abilities to trigger."
@@ -285,7 +305,7 @@ msgstr ""
 #: ../../ELD.rst:1421
 #: ../../ELD.rst:1719
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../ELD.rst:129
 msgid "Whenever a white creature you control attacks, you gain 1 life."
@@ -302,6 +322,8 @@ msgstr ""
 #: ../../ELD.rst:137
 msgid "Create a 2/2 white Knight creature token with vigilance. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Stwórz żeton białego stwora Rycerz 2/2 z czujnością. (Następnie wygnaj tę "
+"kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:144
 msgid ":mtgtip:`Mysterious Pathlighter<https://img.scryfall.com/cards/border_crop/front/1/0/1028aa10-aded-4aeb-b70f-d7a9003ae846.jpg?1568808967|https://scryfall.com/card/eld/22/mysterious-pathlighter?utm_source=api>`"
@@ -346,6 +368,8 @@ msgstr ""
 #: ../../ELD.rst:165
 msgid "Destroy all non-Giant creatures. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Zniszcz wszystkie stwory nie będące Gigantami. (Następnie wygnaj tę kartę. "
+"Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:170
 msgid ":mtgtip:`Righteousness<https://img.scryfall.com/cards/border_crop/front/d/2/d2910df2-e288-4fa0-9859-c5ca35da2d55.jpg?1568285500|https://scryfall.com/card/eld/27/righteousness?utm_source=api>`"
@@ -353,7 +377,7 @@ msgstr ""
 
 #: ../../ELD.rst:169
 msgid "Target blocking creature gets +7/+7 until end of turn."
-msgstr ""
+msgstr "Wskazany blokujący stwór dostaje do końca tury +7/+7."
 
 #: ../../ELD.rst:172
 msgid ":mtgtip:`Shepherd of the Flock<https://img.scryfall.com/cards/border_crop/front/c/0/c0b4f0ce-0d18-4546-803d-94a2f4f30951.jpg?1568787289|https://scryfall.com/card/eld/28/shepherd-of-the-flock-usher-to-safety?utm_source=api>`"
@@ -366,6 +390,8 @@ msgstr ""
 #: ../../ELD.rst:177
 msgid "Return target permanent you control to its owner's hand. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Przywróć wskazany permanent pod twoim władaniem do ręki właściciela. ("
+"Następnie wygnaj tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:188
 msgid ":mtgtip:`Shining Armor<https://img.scryfall.com/cards/border_crop/front/7/7/7791f46e-f772-4d3f-824e-52b4fc721b58.jpg?1567698959|https://scryfall.com/card/eld/29/shining-armor?utm_source=api>`"
@@ -380,7 +406,7 @@ msgstr ""
 #: ../../ELD.rst:1129
 #: ../../ELD.rst:1203
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../ELD.rst:183
 msgid "When Shining Armor enters the battlefield, attach it to target Knight you control."
@@ -420,6 +446,8 @@ msgstr ""
 #: ../../ELD.rst:201
 msgid "Target creature gets +2/+2 until end of turn. Untap it. (Then exile this spell. You may cast the creature later from exile.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Odkręć go. (Następnie wygnaj tę "
+"kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:208
 msgid ":mtgtip:`Syr Alin, the Lion's Claw<https://img.scryfall.com/cards/border_crop/front/4/c/4cddb2d2-d813-4b83-a592-380ba4edf54f.jpg?1568647126|https://scryfall.com/card/eld/32/syr-alin-the-lions-claw?utm_source=api>`"
@@ -429,7 +457,7 @@ msgstr ""
 #: ../../ELD.rst:231
 #: ../../ELD.rst:1595
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../ELD.rst:207
 msgid "Whenever Syr Alin, the Lion's Claw attacks, other creatures you control get +1/+1 until end of turn."
@@ -441,11 +469,13 @@ msgstr ""
 
 #: ../../ELD.rst:211
 msgid "Enchant creature without flying"
-msgstr ""
+msgstr "Zaurocz stwora bez latania"
 
 #: ../../ELD.rst:213
 msgid "Enchanted creature can't attack or block, and its activated abilities can't be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../ELD.rst:220
 msgid ":mtgtip:`True Love's Kiss<https://img.scryfall.com/cards/border_crop/front/2/3/23a4bac2-f6cb-4712-8510-a63657c43a5c.jpg?1570648204|https://scryfall.com/card/eld/34/true-loves-kiss?utm_source=api>`"
@@ -453,7 +483,7 @@ msgstr ""
 
 #: ../../ELD.rst:217
 msgid "Exile target artifact or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt lub urok."
 
 #: ../../ELD.rst:219
 #: ../../ELD.rst:385
@@ -624,6 +654,8 @@ msgstr ""
 #: ../../ELD.rst:321
 msgid "Counter target spell with converted mana cost 3 or less. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Skontruj wskazany czar o skróconym koszcie many 3 lub mniejszym. (Następnie "
+"wygnaj tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:328
 msgid ":mtgtip:`Into the Story<https://img.scryfall.com/cards/border_crop/front/c/8/c838f08e-7fb6-46e7-83bb-dce8877d6c87.jpg?1568373241|https://scryfall.com/card/eld/50/into-the-story?utm_source=api>`"
@@ -676,6 +708,9 @@ msgstr ""
 #: ../../ELD.rst:351
 msgid "Target player puts the top four cards of their library into their graveyard. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Wskazany gracz umieszcza cztery wierzchnie karty swojej biblioteki w swoim "
+"cmentarzu. (Następnie wygnaj tę kartę. Możesz później rzucić z niej stwora z "
+"wygnania.)"
 
 #: ../../ELD.rst:362
 msgid ":mtgtip:`Midnight Clock<https://img.scryfall.com/cards/border_crop/front/0/f/0f7f1148-7b1b-4969-a2f8-428de1e2e8ff.jpg?1567699146|https://scryfall.com/card/eld/54/midnight-clock?utm_source=api>`"
@@ -765,6 +800,9 @@ msgstr ""
 #: ../../ELD.rst:397
 msgid "Tap target creature. It doesn't untap during its controller's next untap step. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Przekręć wskazanego stwora. Nie odkręci się on w najbliższym kroku "
+"odkręcania swojego władcy. (Następnie wygnaj tę kartę. Możesz później rzucić "
+"z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:402
 msgid ":mtgtip:`Run Away Together<https://img.scryfall.com/cards/border_crop/front/a/e/aeffc3c0-567c-442f-ba06-b7d9617c5789.jpg?1567699154|https://scryfall.com/card/eld/62/run-away-together?utm_source=api>`"
@@ -1080,6 +1118,8 @@ msgstr ""
 #: ../../ELD.rst:571
 msgid "You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Dobierz kartę i strać 1 życie. (Następnie wygnaj tę kartę. Możesz później "
+"rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:580
 msgid ":mtgtip:`Giant's Skewer<https://img.scryfall.com/cards/border_crop/front/0/5/050c03f9-ccbd-4dcc-9789-8013875ef470.jpg?1568736724|https://scryfall.com/card/eld/91/giants-skewer?utm_source=api>`"
@@ -1149,6 +1189,8 @@ msgstr ""
 #: ../../ELD.rst:611
 msgid "Destroy target creature or planeswalker. You lose 2 life. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Zniszcz wskazanego stwora lub wędrowca. Strać 2 życia. (Następnie wygnaj tę "
+"kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:620
 msgid ":mtgtip:`Oathsworn Knight<https://img.scryfall.com/cards/border_crop/front/9/1/9173ffda-1d3b-4dab-8dcb-de44717de464.jpg?1568390375|https://scryfall.com/card/eld/98/oathsworn-knight?utm_source=api>`"
@@ -1181,6 +1223,8 @@ msgstr ""
 #: ../../ELD.rst:629
 msgid "Return target creature card from your graveyard to your hand. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. ("
+"Następnie wygnaj tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:638
 msgid ":mtgtip:`Piper of the Swarm<https://img.scryfall.com/cards/border_crop/front/0/a/0a7962fe-b715-4981-86c3-223bad9b1899.jpg?1568311903|https://scryfall.com/card/eld/100/piper-of-the-swarm?utm_source=api>`"
@@ -1237,6 +1281,8 @@ msgstr ""
 #: ../../ELD.rst:657
 msgid "Target opponent discards two cards. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Wskazany przeciwnik odrzuca dwie karty. (Następnie wygnaj tę kartę. Możesz "
+"później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:662
 msgid ":mtgtip:`Reave Soul<https://img.scryfall.com/cards/border_crop/front/c/e/ce7ff657-aa44-4336-895a-87518159cef6.jpg?1568285806|https://scryfall.com/card/eld/103/reave-soul?utm_source=api>`"
@@ -1456,6 +1502,8 @@ msgstr ""
 #: ../../ELD.rst:773
 msgid "Destroy target artifact. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Zniszcz wskazany artefakt. (Następnie wygnaj tę kartę. Możesz później rzucić "
+"z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:778
 msgid ":mtgtip:`Ferocity of the Wilds<https://img.scryfall.com/cards/border_crop/front/8/f/8f7005fd-5917-4f7d-9a7d-7ccc044d0f87.jpg?1568386834|https://scryfall.com/card/eld/123/ferocity-of-the-wilds?utm_source=api>`"
@@ -1552,6 +1600,8 @@ msgstr ""
 #: ../../ELD.rst:821
 msgid "You may discard a card. If you do, draw a card. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Możesz odrzucić kartę. Jeśli tak zrobisz, dobierz kartę. (Następnie wygnaj "
+"tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:826
 msgid ":mtgtip:`Ogre Errant<https://img.scryfall.com/cards/border_crop/front/0/e/0e96f3dc-dc58-4034-8d3d-3ae74fa64562.jpg?1568302761|https://scryfall.com/card/eld/132/ogre-errant?utm_source=api>`"
@@ -1609,6 +1659,8 @@ msgstr ""
 #: ../../ELD.rst:851
 msgid "Target creature gets +2/+0 until end of turn. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+0. (Następnie wygnaj tę kartę. "
+"Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:858
 msgid ":mtgtip:`Robber of the Rich<https://img.scryfall.com/cards/border_crop/front/0/e/0ecbe097-ba51-42e5-957c-382eb66c08f0.jpg?1570413836|https://scryfall.com/card/eld/138/robber-of-the-rich?utm_source=api>`"
@@ -1737,6 +1789,9 @@ msgstr ""
 #: ../../ELD.rst:915
 msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle your library. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu walki, "
+"następnie przetasuj twoją bibliotekę. (Następnie wygnaj tę kartę. Możesz "
+"później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:918
 msgid ":mtgtip:`Curious Pair<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1569988800|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`"
@@ -1811,6 +1866,8 @@ msgstr ""
 #: ../../ELD.rst:953
 msgid "Create three 2/2 green Bear creature tokens. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Stwórz dwa żetony zielonego stwora Niedźwiedź 2/2. (Następnie wygnaj tę "
+"kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:956
 msgid ":mtgtip:`Garenbrig Carver<https://img.scryfall.com/cards/border_crop/front/1/9/194b7a1c-291a-470e-9a40-61b72a46793b.jpg?1568766019|https://scryfall.com/card/eld/156/garenbrig-carver-shields-might?utm_source=api>`"
@@ -1823,6 +1880,8 @@ msgstr ""
 #: ../../ELD.rst:961
 msgid "Target creature gets +2/+2 until end of turn. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. (Następnie wygnaj tę kartę. "
+"Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:968
 msgid ":mtgtip:`Garenbrig Paladin<https://img.scryfall.com/cards/border_crop/front/8/4/8445020a-6fab-47dd-9e57-886c28f68b3f.jpg?1568227342|https://scryfall.com/card/eld/157/garenbrig-paladin?utm_source=api>`"
@@ -2054,6 +2113,8 @@ msgstr ""
 #: ../../ELD.rst:1083
 msgid "Add one mana of any color. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Weź jedną manę dowolnego koloru. (Następnie wygnaj tę kartę. Możesz później "
+"rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:1092
 msgid ":mtgtip:`Rosethorn Halberd<https://img.scryfall.com/cards/border_crop/front/d/4/d4a66e33-af5c-42b5-bef6-0ff0197ecc14.jpg?1568881963|https://scryfall.com/card/eld/175/rosethorn-halberd?utm_source=api>`"
@@ -2114,6 +2175,8 @@ msgstr ""
 #: ../../ELD.rst:1119
 msgid "Put two +1/+1 counters on target creature. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Umieść dwa znaczniki +1/+1 na wskazanym stworze. (Następnie wygnaj tę kartę. "
+"Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:1126
 msgid ":mtgtip:`Wicked Wolf<https://img.scryfall.com/cards/border_crop/front/0/9/09476eac-55d2-4955-8951-ae4ce117c98b.jpg?1568114626|https://scryfall.com/card/eld/181/wicked-wolf?utm_source=api>`"
