@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 09:05+0200\n"
+"POT-Creation-Date: 2019-10-11 18:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid "When Acclaimed Contender enters the battlefield, if you control another K
 msgstr ""
 
 #: ../../ELD.rst:16
-msgid ":mtgtip:`All That Glitters<https://img.scryfall.com/cards/border_crop/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1567699067|https://scryfall.com/card/eld/2/all-that-glitters?utm_source=api>`"
+msgid ":mtgtip:`All That Glitters<https://img.scryfall.com/cards/border_crop/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1569970909|https://scryfall.com/card/eld/2/all-that-glitters?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:13
@@ -292,11 +292,11 @@ msgid "Whenever a white creature you control attacks, you gain 1 life."
 msgstr ""
 
 #: ../../ELD.rst:134
-msgid ":mtgtip:`Lonesome Unicorn<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1568643508|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`"
+msgid ":mtgtip:`Lonesome Unicorn<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1569972635|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:138
-msgid ":mtgtip:`Rider in Need<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1568643508|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`"
+msgid ":mtgtip:`Rider in Need<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1569972635|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:137
@@ -448,7 +448,7 @@ msgid "Enchanted creature can't attack or block, and its activated abilities can
 msgstr ""
 
 #: ../../ELD.rst:220
-msgid ":mtgtip:`True Love's Kiss<https://img.scryfall.com/cards/border_crop/front/2/3/23a4bac2-f6cb-4712-8510-a63657c43a5c.jpg?1568224721|https://scryfall.com/card/eld/34/true-loves-kiss?utm_source=api>`"
+msgid ":mtgtip:`True Love's Kiss<https://img.scryfall.com/cards/border_crop/front/2/3/23a4bac2-f6cb-4712-8510-a63657c43a5c.jpg?1570648204|https://scryfall.com/card/eld/34/true-loves-kiss?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:217
@@ -456,7 +456,9 @@ msgid "Exile target artifact or enchantment."
 msgstr ""
 
 #: ../../ELD.rst:219
-msgid "Draw a card"
+#: ../../ELD.rst:385
+#: ../../ELD.rst:563
+msgid "Draw a card."
 msgstr ""
 
 #: ../../ELD.rst:224
@@ -492,7 +494,7 @@ msgid "Target noncreature artifact you control becomes a 0/0 artifact creature. 
 msgstr ""
 
 #: ../../ELD.rst:248
-msgid ":mtgtip:`Brazen Borrower<https://img.scryfall.com/cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1568824963|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`"
+msgid ":mtgtip:`Brazen Borrower<https://img.scryfall.com/cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1570463276|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:247
@@ -500,7 +502,7 @@ msgid "Brazen Borrower can block only creatures with flying."
 msgstr ""
 
 #: ../../ELD.rst:252
-msgid ":mtgtip:`Petty Theft<https://img.scryfall.com/cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1568824963|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`"
+msgid ":mtgtip:`Petty Theft<https://img.scryfall.com/cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1570463276|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:251
@@ -536,7 +538,7 @@ msgid "Counter target spell. Its controller puts the top three cards of their li
 msgstr ""
 
 #: ../../ELD.rst:276
-msgid ":mtgtip:`Emry, Lurker of the Loch<https://img.scryfall.com/cards/border_crop/front/b/f/bf4b9a8a-b42a-46fb-b0d0-9cf800f63c8a.jpg?1568226971|https://scryfall.com/card/eld/43/emry-lurker-of-the-loch?utm_source=api>`"
+msgid ":mtgtip:`Emry, Lurker of the Loch<https://img.scryfall.com/cards/border_crop/front/b/f/bf4b9a8a-b42a-46fb-b0d0-9cf800f63c8a.jpg?1569985392|https://scryfall.com/card/eld/43/emry-lurker-of-the-loch?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:271
@@ -740,11 +742,6 @@ msgstr ""
 msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../ELD.rst:385
-#: ../../ELD.rst:563
-msgid "Draw a card."
-msgstr ""
-
 #: ../../ELD.rst:390
 msgid ":mtgtip:`Overwhelmed Apprentice<https://img.scryfall.com/cards/border_crop/front/8/6/8659092e-4fe8-42be-ab03-efc99ed37436.jpg?1568657265|https://scryfall.com/card/eld/60/overwhelmed-apprentice?utm_source=api>`"
 msgstr ""
@@ -778,11 +775,11 @@ msgid "Choose two target creatures controlled by different players. Return those
 msgstr ""
 
 #: ../../ELD.rst:406
-msgid ":mtgtip:`Sage of the Falls<https://img.scryfall.com/cards/border_crop/front/2/7/274e3aa4-4b46-4daa-a7a8-400a20c59435.jpg?1568978210|https://scryfall.com/card/eld/63/sage-of-the-falls?utm_source=api>`"
+msgid ":mtgtip:`Sage of the Falls<https://img.scryfall.com/cards/border_crop/front/2/7/274e3aa4-4b46-4daa-a7a8-400a20c59435.jpg?1570648219|https://scryfall.com/card/eld/63/sage-of-the-falls?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:405
-msgid "Whenever Sage of the Falls or another non-Human creature enters the battlefield under you control, you may draw a card. If you do, discard a card."
+msgid "Whenever Sage of the Falls or another non-Human creature enters the battlefield under your control, you may draw a card. If you do, discard a card."
 msgstr ""
 
 #: ../../ELD.rst:414
@@ -794,11 +791,11 @@ msgid "Enchanted creature gets -2/-0. It gets -6/-0 instead as long as its contr
 msgstr ""
 
 #: ../../ELD.rst:420
-msgid ":mtgtip:`Steelgaze Griffin<https://img.scryfall.com/cards/border_crop/front/6/d/6d361328-8b0a-40a0-b5c0-215398fdfb47.jpg?1568848489|https://scryfall.com/card/eld/65/steelgaze-griffin?utm_source=api>`"
+msgid ":mtgtip:`Steelgaze Griffin<https://img.scryfall.com/cards/border_crop/front/6/d/6d361328-8b0a-40a0-b5c0-215398fdfb47.jpg?1569822857|https://scryfall.com/card/eld/65/steelgaze-griffin?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:419
-msgid "When you draw your second card each turn, Steelgaze Griffin gets +2/+0 until end of turn."
+msgid "Whenever you draw your second card each turn, Steelgaze Griffin gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../ELD.rst:424
@@ -1047,7 +1044,7 @@ msgid "Target creature gets -X/-X until end of turn, where X is the number of ca
 msgstr ""
 
 #: ../../ELD.rst:558
-msgid ":mtgtip:`Foreboding Fruit<https://img.scryfall.com/cards/border_crop/front/c/5/c5f79ec4-3722-4fda-824b-e80dc7608d01.jpg?1568881085|https://scryfall.com/card/eld/88/foreboding-fruit?utm_source=api>`"
+msgid ":mtgtip:`Foreboding Fruit<https://img.scryfall.com/cards/border_crop/front/c/5/c5f79ec4-3722-4fda-824b-e80dc7608d01.jpg?1569932933|https://scryfall.com/card/eld/88/foreboding-fruit?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:555
@@ -1055,7 +1052,7 @@ msgid "Target player draws two cards and loses 2 life."
 msgstr ""
 
 #: ../../ELD.rst:557
-msgid "Adamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 2 life.\")"
+msgid "Adamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 
 #: ../../ELD.rst:564
@@ -1250,7 +1247,7 @@ msgid "Destroy target creature with power 3 or less."
 msgstr ""
 
 #: ../../ELD.rst:666
-msgid ":mtgtip:`Revenge of Ravens<https://img.scryfall.com/cards/border_crop/front/3/4/3474289a-193e-452d-b248-e53ee99e22c0.jpg?1568512141|https://scryfall.com/card/eld/104/revenge-of-ravens?utm_source=api>`"
+msgid ":mtgtip:`Revenge of Ravens<https://img.scryfall.com/cards/border_crop/front/3/4/3474289a-193e-452d-b248-e53ee99e22c0.jpg?1570761115|https://scryfall.com/card/eld/104/revenge-of-ravens?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:665
@@ -1517,7 +1514,7 @@ msgid "Add seven |mana_r|. You can cast only one more spell this turn."
 msgstr ""
 
 #: ../../ELD.rst:806
-msgid ":mtgtip:`Irencrag Pyromancer<https://img.scryfall.com/cards/border_crop/front/9/a/9a7b0ead-5629-429d-bede-8154f3fae96d.jpg?1568898944|https://scryfall.com/card/eld/128/irencrag-pyromancer?utm_source=api>`"
+msgid ":mtgtip:`Irencrag Pyromancer<https://img.scryfall.com/cards/border_crop/front/9/a/9a7b0ead-5629-429d-bede-8154f3fae96d.jpg?1570761318|https://scryfall.com/card/eld/128/irencrag-pyromancer?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:805
@@ -1614,7 +1611,7 @@ msgid "Target creature gets +2/+0 until end of turn. (Then exile this card. You 
 msgstr ""
 
 #: ../../ELD.rst:858
-msgid ":mtgtip:`Robber of the Rich<https://img.scryfall.com/cards/border_crop/front/0/e/0ecbe097-ba51-42e5-957c-382eb66c08f0.jpg?1568827771|https://scryfall.com/card/eld/138/robber-of-the-rich?utm_source=api>`"
+msgid ":mtgtip:`Robber of the Rich<https://img.scryfall.com/cards/border_crop/front/0/e/0ecbe097-ba51-42e5-957c-382eb66c08f0.jpg?1570413836|https://scryfall.com/card/eld/138/robber-of-the-rich?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:855
@@ -1742,15 +1739,15 @@ msgid "Search your library for a basic land card, put it onto the battlefield, t
 msgstr ""
 
 #: ../../ELD.rst:918
-msgid ":mtgtip:`Curious Pair<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1568227303|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`"
+msgid ":mtgtip:`Curious Pair<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1569988800|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:924
-msgid ":mtgtip:`Treats to Share<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1568227303|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`"
+msgid ":mtgtip:`Treats to Share<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1569988800|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:923
-msgid "Create a Food token. (Then exile this card. You may cast the creature later from exile.)"
+msgid "Create a Food token. (Then exile this card. You may cast the creature later from exile. A Food token is an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 
 #: ../../ELD.rst:928
@@ -1770,7 +1767,7 @@ msgid "Vigilance, trample"
 msgstr ""
 
 #: ../../ELD.rst:933
-msgid "When Feasting Troll King enters the battlefield, if you cast it from your hand, create three Food tokens."
+msgid "When Feasting Troll King enters the battlefield, if you cast it from your hand, create three Food tokens. (They're artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 
 #: ../../ELD.rst:935
@@ -1786,7 +1783,7 @@ msgid "Fell the Pheasant deals 5 damage to target creature with flying. Create a
 msgstr ""
 
 #: ../../ELD.rst:946
-msgid ":mtgtip:`Fierce Witchstalker<https://img.scryfall.com/cards/border_crop/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.jpg?1568345743|https://scryfall.com/card/eld/154/fierce-witchstalker?utm_source=api>`"
+msgid ":mtgtip:`Fierce Witchstalker<https://img.scryfall.com/cards/border_crop/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.jpg?1570414837|https://scryfall.com/card/eld/154/fierce-witchstalker?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:943
@@ -1848,7 +1845,7 @@ msgid "Whenever you cast a creature spell that has an Adventure, Garenbrig Squir
 msgstr ""
 
 #: ../../ELD.rst:976
-msgid ":mtgtip:`Giant Opportunity<https://img.scryfall.com/cards/border_crop/front/4/0/40383646-3fc4-4267-b9ad-bf90a85972fc.jpg?1568597040|https://scryfall.com/card/eld/159/giant-opportunity?utm_source=api>`"
+msgid ":mtgtip:`Giant Opportunity<https://img.scryfall.com/cards/border_crop/front/4/0/40383646-3fc4-4267-b9ad-bf90a85972fc.jpg?1570757026|https://scryfall.com/card/eld/159/giant-opportunity?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:975
@@ -1940,11 +1937,11 @@ msgid "Sacrifice a Food: Target creature blocks Maraleaf Rider this turn if able
 msgstr ""
 
 #: ../../ELD.rst:1030
-msgid ":mtgtip:`Oakhame Adversary<https://img.scryfall.com/cards/border_crop/front/9/f/9fb4e77f-e189-4ad3-9fca-8da04289e396.jpg?1568390645|https://scryfall.com/card/eld/167/oakhame-adversary?utm_source=api>`"
+msgid ":mtgtip:`Oakhame Adversary<https://img.scryfall.com/cards/border_crop/front/9/f/9fb4e77f-e189-4ad3-9fca-8da04289e396.jpg?1570760675|https://scryfall.com/card/eld/167/oakhame-adversary?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1025
-msgid "This spell costs |mana_2| less to cast if your opponent controls a green permanent."
+msgid "This spell costs |mana_2| less to cast if an opponent controls a green permanent."
 msgstr ""
 
 #: ../../ELD.rst:1029
@@ -2095,11 +2092,11 @@ msgid "Enchanted creature gets +3/+3, has reach, and is a Giant in addition to i
 msgstr ""
 
 #: ../../ELD.rst:1112
-msgid ":mtgtip:`Trail of Crumbs<https://img.scryfall.com/cards/border_crop/front/2/6/2688ac16-4ed6-4e79-815a-be173deb4603.jpg?1568227530|https://scryfall.com/card/eld/179/trail-of-crumbs?utm_source=api>`"
+msgid ":mtgtip:`Trail of Crumbs<https://img.scryfall.com/cards/border_crop/front/2/6/2688ac16-4ed6-4e79-815a-be173deb4603.jpg?1569988828|https://scryfall.com/card/eld/179/trail-of-crumbs?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1109
-msgid "When Trail of Crumbs enters the battlefield, create a Food token."
+msgid "When Trail of Crumbs enters the battlefield, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 
 #: ../../ELD.rst:1111
@@ -2151,7 +2148,7 @@ msgid "Whenever Wildwood Tracker attacks or blocks, if you control another non-H
 msgstr ""
 
 #: ../../ELD.rst:1142
-msgid ":mtgtip:`Wolf's Quarry<https://img.scryfall.com/cards/border_crop/front/5/d/5d21c15f-378e-4abf-992f-9743aa6ab6b8.jpg?1568420121|https://scryfall.com/card/eld/184/wolfs-quarry?utm_source=api>`"
+msgid ":mtgtip:`Wolf's Quarry<https://img.scryfall.com/cards/border_crop/front/5/d/5d21c15f-378e-4abf-992f-9743aa6ab6b8.jpg?1570757008|https://scryfall.com/card/eld/184/wolfs-quarry?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1141
@@ -2223,7 +2220,7 @@ msgid "|tap|: For each color among permanents you control, add one mana of that 
 msgstr ""
 
 #: ../../ELD.rst:1186
-msgid ":mtgtip:`Garruk, Cursed Huntsman<https://img.scryfall.com/cards/border_crop/front/a/b/abef512f-8f1d-4257-b16f-c0eed58670ec.jpg?1569350788|https://scryfall.com/card/eld/191/garruk-cursed-huntsman?utm_source=api>`"
+msgid ":mtgtip:`Garruk, Cursed Huntsman<https://img.scryfall.com/cards/border_crop/front/a/b/abef512f-8f1d-4257-b16f-c0eed58670ec.jpg?1569629585|https://scryfall.com/card/eld/191/garruk-cursed-huntsman?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1181
@@ -2239,11 +2236,11 @@ msgid "−6: You get an emblem with \"Creatures you control get +3/+3 and have t
 msgstr ""
 
 #: ../../ELD.rst:1190
-msgid ":mtgtip:`Grumgully, the Generous<https://img.scryfall.com/cards/border_crop/front/b/9/b9d50d26-3c44-4c8f-81bb-9093dacfb804.jpg?1568382477|https://scryfall.com/card/eld/192/grumgully-the-generous?utm_source=api>`"
+msgid ":mtgtip:`Grumgully, the Generous<https://img.scryfall.com/cards/border_crop/front/b/9/b9d50d26-3c44-4c8f-81bb-9093dacfb804.jpg?1569708569|https://scryfall.com/card/eld/192/grumgully-the-generous?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1189
-msgid "Each other non-Human creature you controls enters the battlefield with an additional +1/+1 counter on it."
+msgid "Each other non-Human creature you control enters the battlefield with an additional +1/+1 counter on it."
 msgstr ""
 
 #: ../../ELD.rst:1196
@@ -2296,7 +2293,7 @@ msgid ":mtgtip:`Oko, Thief of Crowns<https://img.scryfall.com/cards/border_crop/
 msgstr ""
 
 #: ../../ELD.rst:1219
-msgid "+2: Create a Food token."
+msgid "+2: Create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 
 #: ../../ELD.rst:1221
@@ -2926,7 +2923,7 @@ msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/f/8/f8f0
 msgstr ""
 
 #: ../../ELD.rst:1578
-msgid ":mtgtip:`Kenrith, the Returned King<https://img.scryfall.com/cards/border_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1568223039|https://scryfall.com/card/eld/303/kenrith-the-returned-king?utm_source=api>`"
+msgid ":mtgtip:`Kenrith, the Returned King<https://img.scryfall.com/cards/border_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1569985408|https://scryfall.com/card/eld/303/kenrith-the-returned-king?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1569
@@ -2950,7 +2947,7 @@ msgid "|mana_4|\\ |mana_b|: Put target creature card from a graveyard onto the b
 msgstr ""
 
 #: ../../ELD.rst:1586
-msgid ":mtgtip:`Rowan, Fearless Sparkmage<https://img.scryfall.com/cards/border_crop/front/0/3/030f4058-54e5-4333-bd6c-2789c334bf12.jpg?1568020111|https://scryfall.com/card/eld/304/rowan-fearless-sparkmage?utm_source=api>`"
+msgid ":mtgtip:`Rowan, Fearless Sparkmage<https://img.scryfall.com/cards/border_crop/front/0/3/030f4058-54e5-4333-bd6c-2789c334bf12.jpg?1570284451|https://scryfall.com/card/eld/304/rowan-fearless-sparkmage?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1581
@@ -3006,7 +3003,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
 #: ../../ELD.rst:1618
-msgid ":mtgtip:`Oko, the Trickster<https://img.scryfall.com/cards/border_crop/front/8/3/83e61813-c4c8-4e80-8808-ac5107966ee3.jpg?1568020350|https://scryfall.com/card/eld/309/oko-the-trickster?utm_source=api>`"
+msgid ":mtgtip:`Oko, the Trickster<https://img.scryfall.com/cards/border_crop/front/8/3/83e61813-c4c8-4e80-8808-ac5107966ee3.jpg?1570284447|https://scryfall.com/card/eld/309/oko-the-trickster?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1613
@@ -3122,11 +3119,11 @@ msgid "|mana_1|\\ |mana_b|, Sacrifice a creature: Target creature gets -2/-2 unt
 msgstr ""
 
 #: ../../ELD.rst:1684
-msgid ":mtgtip:`Taste of Death<https://img.scryfall.com/cards/border_crop/front/8/5/851066e5-d5f2-4e53-8b88-487441a77548.jpg?1568074550|https://scryfall.com/card/eld/320/taste-of-death?utm_source=api>`"
+msgid ":mtgtip:`Taste of Death<https://img.scryfall.com/cards/border_crop/front/8/5/851066e5-d5f2-4e53-8b88-487441a77548.jpg?1569933045|https://scryfall.com/card/eld/320/taste-of-death?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1683
-msgid "Each player sacrifices three creatures. You create three Food tokens."
+msgid "Each player sacrifices three creatures. You create three Food tokens. (They're artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 
 #: ../../ELD.rst:1690
@@ -3142,7 +3139,7 @@ msgid "Whenever Embereth Skyblazer attacks, you may pay |mana_2|\\ |mana_r|. If 
 msgstr ""
 
 #: ../../ELD.rst:1696
-msgid ":mtgtip:`Steelbane Hydra<https://img.scryfall.com/cards/border_crop/front/9/1/91d0e54d-6e18-44a5-adc2-d875d5b6784f.jpg?1567649709|https://scryfall.com/card/eld/322/steelbane-hydra?utm_source=api>`"
+msgid ":mtgtip:`Steelbane Hydra<https://img.scryfall.com/cards/border_crop/front/9/1/91d0e54d-6e18-44a5-adc2-d875d5b6784f.jpg?1570761075|https://scryfall.com/card/eld/322/steelbane-hydra?utm_source=api>`"
 msgstr ""
 
 #: ../../ELD.rst:1693

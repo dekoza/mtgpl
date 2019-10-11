@@ -9,7 +9,7 @@
    When Acclaimed Contender enters the battlefield, if you control another Knight, look at the top five cards of your library. You may reveal a Knight, Aura, Equipment, or legendary artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`All That Glitters<https://img.scryfall.com/cards/border_crop/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1567699067|https://scryfall.com/card/eld/2/all-that-glitters?utm_source=api>`
+:mtgtip:`All That Glitters<https://img.scryfall.com/cards/border_crop/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1569970909|https://scryfall.com/card/eld/2/all-that-glitters?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.
@@ -129,11 +129,11 @@
    Whenever a white creature you control attacks, you gain 1 life.
 
 
-:mtgtip:`Lonesome Unicorn<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1568643508|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`
+:mtgtip:`Lonesome Unicorn<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1569972635|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`
    Vigilance
 
 
-:mtgtip:`Rider in Need<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1568643508|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`
+:mtgtip:`Rider in Need<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1569972635|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`
    Create a 2/2 white Knight creature token with vigilance. (Then exile this card. You may cast the creature later from exile.)
 
 
@@ -213,10 +213,10 @@
    Enchanted creature can't attack or block, and its activated abilities can't be activated.
 
 
-:mtgtip:`True Love's Kiss<https://img.scryfall.com/cards/border_crop/front/2/3/23a4bac2-f6cb-4712-8510-a63657c43a5c.jpg?1568224721|https://scryfall.com/card/eld/34/true-loves-kiss?utm_source=api>`
+:mtgtip:`True Love's Kiss<https://img.scryfall.com/cards/border_crop/front/2/3/23a4bac2-f6cb-4712-8510-a63657c43a5c.jpg?1570648204|https://scryfall.com/card/eld/34/true-loves-kiss?utm_source=api>`
    Exile target artifact or enchantment.
 
-   Draw a card
+   Draw a card.
 
 
 :mtgtip:`Venerable Knight<https://img.scryfall.com/cards/border_crop/front/0/0/0001f1ef-b957-4a55-b47f-14839cdbab6f.jpg?1568302896|https://scryfall.com/card/eld/35/venerable-knight?utm_source=api>`
@@ -239,7 +239,7 @@
    Target noncreature artifact you control becomes a 0/0 artifact creature. Put four +1/+1 counters on it.
 
 
-:mtgtip:`Brazen Borrower<https://img.scryfall.com/cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1568824963|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`
+:mtgtip:`Brazen Borrower<https://img.scryfall.com/cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1570463276|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`
    Flash
 
    Flying
@@ -247,7 +247,7 @@
    Brazen Borrower can block only creatures with flying.
 
 
-:mtgtip:`Petty Theft<https://img.scryfall.com/cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1568824963|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`
+:mtgtip:`Petty Theft<https://img.scryfall.com/cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1570463276|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`
    Return target nonland permanent an opponent controls to its owner's hand.
 
 
@@ -267,7 +267,7 @@
    Counter target spell. Its controller puts the top three cards of their library into their graveyard.
 
 
-:mtgtip:`Emry, Lurker of the Loch<https://img.scryfall.com/cards/border_crop/front/b/f/bf4b9a8a-b42a-46fb-b0d0-9cf800f63c8a.jpg?1568226971|https://scryfall.com/card/eld/43/emry-lurker-of-the-loch?utm_source=api>`
+:mtgtip:`Emry, Lurker of the Loch<https://img.scryfall.com/cards/border_crop/front/b/f/bf4b9a8a-b42a-46fb-b0d0-9cf800f63c8a.jpg?1569985392|https://scryfall.com/card/eld/43/emry-lurker-of-the-loch?utm_source=api>`
    This spell costs |mana_1| less to cast for each artifact you control.
 
    When Emry, Lurker of the Loch enters the battlefield, put the top four cards of your library into your graveyard.
@@ -401,8 +401,8 @@
    Choose two target creatures controlled by different players. Return those creatures to their owners' hands.
 
 
-:mtgtip:`Sage of the Falls<https://img.scryfall.com/cards/border_crop/front/2/7/274e3aa4-4b46-4daa-a7a8-400a20c59435.jpg?1568978210|https://scryfall.com/card/eld/63/sage-of-the-falls?utm_source=api>`
-   Whenever Sage of the Falls or another non-Human creature enters the battlefield under you control, you may draw a card. If you do, discard a card.
+:mtgtip:`Sage of the Falls<https://img.scryfall.com/cards/border_crop/front/2/7/274e3aa4-4b46-4daa-a7a8-400a20c59435.jpg?1570648219|https://scryfall.com/card/eld/63/sage-of-the-falls?utm_source=api>`
+   Whenever Sage of the Falls or another non-Human creature enters the battlefield under your control, you may draw a card. If you do, discard a card.
 
 
 :mtgtip:`So Tiny<https://img.scryfall.com/cards/border_crop/front/4/2/421650f2-1b34-4a36-9675-9424997c9d0b.jpg?1568872628|https://scryfall.com/card/eld/64/so-tiny?utm_source=api>`
@@ -413,10 +413,10 @@
    Enchanted creature gets -2/-0. It gets -6/-0 instead as long as its controller has seven or more cards in their graveyard.
 
 
-:mtgtip:`Steelgaze Griffin<https://img.scryfall.com/cards/border_crop/front/6/d/6d361328-8b0a-40a0-b5c0-215398fdfb47.jpg?1568848489|https://scryfall.com/card/eld/65/steelgaze-griffin?utm_source=api>`
+:mtgtip:`Steelgaze Griffin<https://img.scryfall.com/cards/border_crop/front/6/d/6d361328-8b0a-40a0-b5c0-215398fdfb47.jpg?1569822857|https://scryfall.com/card/eld/65/steelgaze-griffin?utm_source=api>`
    Flying
 
-   When you draw your second card each turn, Steelgaze Griffin gets +2/+0 until end of turn.
+   Whenever you draw your second card each turn, Steelgaze Griffin gets +2/+0 until end of turn.
 
 
 :mtgtip:`Stolen by the Fae<https://img.scryfall.com/cards/border_crop/front/a/9/a98a7698-57fb-41f6-86d4-251c7d444c6a.jpg?1568288592|https://scryfall.com/card/eld/66/stolen-by-the-fae?utm_source=api>`
@@ -551,10 +551,10 @@
    Target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.
 
 
-:mtgtip:`Foreboding Fruit<https://img.scryfall.com/cards/border_crop/front/c/5/c5f79ec4-3722-4fda-824b-e80dc7608d01.jpg?1568881085|https://scryfall.com/card/eld/88/foreboding-fruit?utm_source=api>`
+:mtgtip:`Foreboding Fruit<https://img.scryfall.com/cards/border_crop/front/c/5/c5f79ec4-3722-4fda-824b-e80dc7608d01.jpg?1569932933|https://scryfall.com/card/eld/88/foreboding-fruit?utm_source=api>`
    Target player draws two cards and loses 2 life.
 
-   Adamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 2 life.")
+   Adamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
 
 :mtgtip:`Forever Young<https://img.scryfall.com/cards/border_crop/front/7/8/7873c1f9-572c-4740-82f8-cf3cbc7318d0.jpg?1568656892|https://scryfall.com/card/eld/89/forever-young?utm_source=api>`
@@ -661,7 +661,7 @@
    Destroy target creature with power 3 or less.
 
 
-:mtgtip:`Revenge of Ravens<https://img.scryfall.com/cards/border_crop/front/3/4/3474289a-193e-452d-b248-e53ee99e22c0.jpg?1568512141|https://scryfall.com/card/eld/104/revenge-of-ravens?utm_source=api>`
+:mtgtip:`Revenge of Ravens<https://img.scryfall.com/cards/border_crop/front/3/4/3474289a-193e-452d-b248-e53ee99e22c0.jpg?1570761115|https://scryfall.com/card/eld/104/revenge-of-ravens?utm_source=api>`
    Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life and you gain 1 life.
 
 
@@ -801,7 +801,7 @@
    Add seven |mana_r|. You can cast only one more spell this turn.
 
 
-:mtgtip:`Irencrag Pyromancer<https://img.scryfall.com/cards/border_crop/front/9/a/9a7b0ead-5629-429d-bede-8154f3fae96d.jpg?1568898944|https://scryfall.com/card/eld/128/irencrag-pyromancer?utm_source=api>`
+:mtgtip:`Irencrag Pyromancer<https://img.scryfall.com/cards/border_crop/front/9/a/9a7b0ead-5629-429d-bede-8154f3fae96d.jpg?1570761318|https://scryfall.com/card/eld/128/irencrag-pyromancer?utm_source=api>`
    Whenever you draw your second card each turn, Irencrag Pyromancer deals 3 damage to any target.
 
 
@@ -851,7 +851,7 @@
    Target creature gets +2/+0 until end of turn. (Then exile this card. You may cast the creature later from exile.)
 
 
-:mtgtip:`Robber of the Rich<https://img.scryfall.com/cards/border_crop/front/0/e/0ecbe097-ba51-42e5-957c-382eb66c08f0.jpg?1568827771|https://scryfall.com/card/eld/138/robber-of-the-rich?utm_source=api>`
+:mtgtip:`Robber of the Rich<https://img.scryfall.com/cards/border_crop/front/0/e/0ecbe097-ba51-42e5-957c-382eb66c08f0.jpg?1570413836|https://scryfall.com/card/eld/138/robber-of-the-rich?utm_source=api>`
    Reach, haste
 
    Whenever Robber of the Rich attacks, if defending player has more cards in hand than you, exile the top card of their library. During any turn you attacked with a Rogue, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.
@@ -915,12 +915,12 @@
    Search your library for a basic land card, put it onto the battlefield, then shuffle your library. (Then exile this card. You may cast the creature later from exile.)
 
 
-:mtgtip:`Curious Pair<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1568227303|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`
+:mtgtip:`Curious Pair<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1569988800|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`
    
 
 
-:mtgtip:`Treats to Share<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1568227303|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`
-   Create a Food token. (Then exile this card. You may cast the creature later from exile.)
+:mtgtip:`Treats to Share<https://img.scryfall.com/cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1569988800|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`
+   Create a Food token. (Then exile this card. You may cast the creature later from exile. A Food token is an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
 
 :mtgtip:`Edgewall Innkeeper<https://img.scryfall.com/cards/border_crop/front/7/c/7c5d0560-f9e6-4c70-8cce-cae61e4e74bc.jpg?1568302707|https://scryfall.com/card/eld/151/edgewall-innkeeper?utm_source=api>`
@@ -930,7 +930,7 @@
 :mtgtip:`Feasting Troll King<https://img.scryfall.com/cards/border_crop/front/9/a/9a6bb435-1205-416a-a5a0-ca6d37b4dcb2.jpg?1568227313|https://scryfall.com/card/eld/152/feasting-troll-king?utm_source=api>`
    Vigilance, trample
 
-   When Feasting Troll King enters the battlefield, if you cast it from your hand, create three Food tokens.
+   When Feasting Troll King enters the battlefield, if you cast it from your hand, create three Food tokens. (They're artifacts with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
    Sacrifice three Foods: Return Feasting Troll King from your graveyard to the battlefield. Activate this ability only during your turn.
 
@@ -939,7 +939,7 @@
    Fell the Pheasant deals 5 damage to target creature with flying. Create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
 
-:mtgtip:`Fierce Witchstalker<https://img.scryfall.com/cards/border_crop/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.jpg?1568345743|https://scryfall.com/card/eld/154/fierce-witchstalker?utm_source=api>`
+:mtgtip:`Fierce Witchstalker<https://img.scryfall.com/cards/border_crop/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.jpg?1570414837|https://scryfall.com/card/eld/154/fierce-witchstalker?utm_source=api>`
    Trample
 
    When Fierce Witchstalker enters the battlefield, create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
@@ -971,7 +971,7 @@
    Whenever you cast a creature spell that has an Adventure, Garenbrig Squire gets +1/+1 until end of turn. (It doesn't need to have gone on the adventure first.)
 
 
-:mtgtip:`Giant Opportunity<https://img.scryfall.com/cards/border_crop/front/4/0/40383646-3fc4-4267-b9ad-bf90a85972fc.jpg?1568597040|https://scryfall.com/card/eld/159/giant-opportunity?utm_source=api>`
+:mtgtip:`Giant Opportunity<https://img.scryfall.com/cards/border_crop/front/4/0/40383646-3fc4-4267-b9ad-bf90a85972fc.jpg?1570757026|https://scryfall.com/card/eld/159/giant-opportunity?utm_source=api>`
    You may sacrifice two Foods. If you do, create a 7/7 green Giant creature token. Otherwise, create three Food tokens. (They're artifacts with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
 
@@ -1021,8 +1021,8 @@
    Sacrifice a Food: Target creature blocks Maraleaf Rider this turn if able.
 
 
-:mtgtip:`Oakhame Adversary<https://img.scryfall.com/cards/border_crop/front/9/f/9fb4e77f-e189-4ad3-9fca-8da04289e396.jpg?1568390645|https://scryfall.com/card/eld/167/oakhame-adversary?utm_source=api>`
-   This spell costs |mana_2| less to cast if your opponent controls a green permanent.
+:mtgtip:`Oakhame Adversary<https://img.scryfall.com/cards/border_crop/front/9/f/9fb4e77f-e189-4ad3-9fca-8da04289e396.jpg?1570760675|https://scryfall.com/card/eld/167/oakhame-adversary?utm_source=api>`
+   This spell costs |mana_2| less to cast if an opponent controls a green permanent.
 
    Deathtouch
 
@@ -1105,8 +1105,8 @@
    Enchanted creature gets +3/+3, has reach, and is a Giant in addition to its other types.
 
 
-:mtgtip:`Trail of Crumbs<https://img.scryfall.com/cards/border_crop/front/2/6/2688ac16-4ed6-4e79-815a-be173deb4603.jpg?1568227530|https://scryfall.com/card/eld/179/trail-of-crumbs?utm_source=api>`
-   When Trail of Crumbs enters the battlefield, create a Food token.
+:mtgtip:`Trail of Crumbs<https://img.scryfall.com/cards/border_crop/front/2/6/2688ac16-4ed6-4e79-815a-be173deb4603.jpg?1569988828|https://scryfall.com/card/eld/179/trail-of-crumbs?utm_source=api>`
+   When Trail of Crumbs enters the battlefield, create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
    Whenever you sacrifice a Food, you may pay |mana_1|. If you do, look at the top two cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
@@ -1137,7 +1137,7 @@
    Whenever Wildwood Tracker attacks or blocks, if you control another non-Human creature, Wildwood Tracker gets +1/+1 until end of turn.
 
 
-:mtgtip:`Wolf's Quarry<https://img.scryfall.com/cards/border_crop/front/5/d/5d21c15f-378e-4abf-992f-9743aa6ab6b8.jpg?1568420121|https://scryfall.com/card/eld/184/wolfs-quarry?utm_source=api>`
+:mtgtip:`Wolf's Quarry<https://img.scryfall.com/cards/border_crop/front/5/d/5d21c15f-378e-4abf-992f-9743aa6ab6b8.jpg?1570757008|https://scryfall.com/card/eld/184/wolfs-quarry?utm_source=api>`
    Create three 1/1 green Boar creature tokens with "When this creature dies, create a Food token." (A Food token is an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
 
@@ -1177,7 +1177,7 @@
    |tap|: For each color among permanents you control, add one mana of that color.
 
 
-:mtgtip:`Garruk, Cursed Huntsman<https://img.scryfall.com/cards/border_crop/front/a/b/abef512f-8f1d-4257-b16f-c0eed58670ec.jpg?1569350788|https://scryfall.com/card/eld/191/garruk-cursed-huntsman?utm_source=api>`
+:mtgtip:`Garruk, Cursed Huntsman<https://img.scryfall.com/cards/border_crop/front/a/b/abef512f-8f1d-4257-b16f-c0eed58670ec.jpg?1569629585|https://scryfall.com/card/eld/191/garruk-cursed-huntsman?utm_source=api>`
    0: Create two 2/2 black and green Wolf creature tokens with "When this creature dies, put a loyalty counter on each Garruk you control."
 
    −3: Destroy target creature. Draw a card.
@@ -1185,8 +1185,8 @@
    −6: You get an emblem with "Creatures you control get +3/+3 and have trample."
 
 
-:mtgtip:`Grumgully, the Generous<https://img.scryfall.com/cards/border_crop/front/b/9/b9d50d26-3c44-4c8f-81bb-9093dacfb804.jpg?1568382477|https://scryfall.com/card/eld/192/grumgully-the-generous?utm_source=api>`
-   Each other non-Human creature you controls enters the battlefield with an additional +1/+1 counter on it.
+:mtgtip:`Grumgully, the Generous<https://img.scryfall.com/cards/border_crop/front/b/9/b9d50d26-3c44-4c8f-81bb-9093dacfb804.jpg?1569708569|https://scryfall.com/card/eld/192/grumgully-the-generous?utm_source=api>`
+   Each other non-Human creature you control enters the battlefield with an additional +1/+1 counter on it.
 
 
 :mtgtip:`Improbable Alliance<https://img.scryfall.com/cards/border_crop/front/0/4/0461867b-ec35-4d37-a398-5247e06c4afe.jpg?1568865753|https://scryfall.com/card/eld/193/improbable-alliance?utm_source=api>`
@@ -1216,7 +1216,7 @@
 
 
 :mtgtip:`Oko, Thief of Crowns<https://img.scryfall.com/cards/border_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1567700076|https://scryfall.com/card/eld/197/oko-thief-of-crowns?utm_source=api>`
-   +2: Create a Food token.
+   +2: Create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
    +1: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3.
 
@@ -1565,7 +1565,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Kenrith, the Returned King<https://img.scryfall.com/cards/border_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1568223039|https://scryfall.com/card/eld/303/kenrith-the-returned-king?utm_source=api>`
+:mtgtip:`Kenrith, the Returned King<https://img.scryfall.com/cards/border_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1569985408|https://scryfall.com/card/eld/303/kenrith-the-returned-king?utm_source=api>`
    |mana_r|: All creatures gain trample and haste until end of turn.
 
    |mana_1|\ |mana_g|: Put a +1/+1 counter on target creature.
@@ -1577,7 +1577,7 @@
    |mana_4|\ |mana_b|: Put target creature card from a graveyard onto the battlefield under its owner's control.
 
 
-:mtgtip:`Rowan, Fearless Sparkmage<https://img.scryfall.com/cards/border_crop/front/0/3/030f4058-54e5-4333-bd6c-2789c334bf12.jpg?1568020111|https://scryfall.com/card/eld/304/rowan-fearless-sparkmage?utm_source=api>`
+:mtgtip:`Rowan, Fearless Sparkmage<https://img.scryfall.com/cards/border_crop/front/0/3/030f4058-54e5-4333-bd6c-2789c334bf12.jpg?1570284451|https://scryfall.com/card/eld/304/rowan-fearless-sparkmage?utm_source=api>`
    +1: Up to one target creature gets +3/+0 and gains first strike until end of turn.
 
    −2: Rowan, Fearless Sparkmage deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.
@@ -1609,7 +1609,7 @@
    |tap|: Add |mana_r| or |mana_w|.
 
 
-:mtgtip:`Oko, the Trickster<https://img.scryfall.com/cards/border_crop/front/8/3/83e61813-c4c8-4e80-8808-ac5107966ee3.jpg?1568020350|https://scryfall.com/card/eld/309/oko-the-trickster?utm_source=api>`
+:mtgtip:`Oko, the Trickster<https://img.scryfall.com/cards/border_crop/front/8/3/83e61813-c4c8-4e80-8808-ac5107966ee3.jpg?1570284447|https://scryfall.com/card/eld/309/oko-the-trickster?utm_source=api>`
    +1: Put two +1/+1 counters on up to one target creature you control.
 
    0: Until end of turn, Oko, the Trickster becomes a copy of target creature you control. Prevent all damage that would be dealt to him this turn.
@@ -1679,8 +1679,8 @@
    |mana_1|\ |mana_b|, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
 
 
-:mtgtip:`Taste of Death<https://img.scryfall.com/cards/border_crop/front/8/5/851066e5-d5f2-4e53-8b88-487441a77548.jpg?1568074550|https://scryfall.com/card/eld/320/taste-of-death?utm_source=api>`
-   Each player sacrifices three creatures. You create three Food tokens.
+:mtgtip:`Taste of Death<https://img.scryfall.com/cards/border_crop/front/8/5/851066e5-d5f2-4e53-8b88-487441a77548.jpg?1569933045|https://scryfall.com/card/eld/320/taste-of-death?utm_source=api>`
+   Each player sacrifices three creatures. You create three Food tokens. (They're artifacts with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
 
 :mtgtip:`Embereth Skyblazer<https://img.scryfall.com/cards/border_crop/front/1/6/166ee7fc-a0f7-49af-85bf-d5b36bb2bff4.jpg?1567700347|https://scryfall.com/card/eld/321/embereth-skyblazer?utm_source=api>`
@@ -1689,7 +1689,7 @@
    Whenever Embereth Skyblazer attacks, you may pay |mana_2|\ |mana_r|. If you do, creatures you control get +X/+0 until end of turn, where X is the number of opponents you have.
 
 
-:mtgtip:`Steelbane Hydra<https://img.scryfall.com/cards/border_crop/front/9/1/91d0e54d-6e18-44a5-adc2-d875d5b6784f.jpg?1567649709|https://scryfall.com/card/eld/322/steelbane-hydra?utm_source=api>`
+:mtgtip:`Steelbane Hydra<https://img.scryfall.com/cards/border_crop/front/9/1/91d0e54d-6e18-44a5-adc2-d875d5b6784f.jpg?1570761075|https://scryfall.com/card/eld/322/steelbane-hydra?utm_source=api>`
    Steelbane Hydra enters the battlefield with X +1/+1 counters on it.
 
    |mana_2|\ |mana_g|, Remove a +1/+1 counter from Steelbane Hydra: Destroy target artifact or enchantment.
