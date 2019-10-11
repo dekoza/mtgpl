@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-07-14 19:57+0000\n"
+"PO-Revision-Date: 2019-10-11 19:13+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -151,6 +151,9 @@ msgid ""
 "attached to Boonweaver Giant. If you search your library this way, shuffle "
 "it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twoim cmentarzu, "
+"ręce i/lub bibliotece kartę typu Aura i umieść ją na polu walki dołączoną do "
+"tego stwora. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../M15.rst:40
 msgid ""
@@ -190,14 +193,12 @@ msgstr ""
 # db148462c3344dd8b6cd796420343ed5
 #: ../../M15.rst:47
 msgid "Dauntless River Marshal gets +1/+1 as long as you control an Island."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz Wyspą."
 
 # 9605d2a7bc254f368946d73881712696
 #: ../../M15.rst:49
-#, fuzzy
 msgid "|mana_3|\\ |mana_u|: Tap target creature."
-msgstr ""
-"|mana_2|\\ |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
+msgstr "|mana_3|\\ |mana_u|: Przekręć wskazanego stwora."
 
 #: ../../M15.rst:56
 msgid ""
@@ -275,6 +276,8 @@ msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../M15.rst:74
 msgid ""
@@ -288,6 +291,8 @@ msgid ""
 "At the beginning of each upkeep, if you lost life last turn, create a 1/1 "
 "white Soldier creature token."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli straciłeś życie w poprzedniej "
+"turze, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../M15.rst:78
 msgid ""
@@ -370,6 +375,8 @@ msgid ""
 "When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje +1/+1 do końca "
+"tury."
 
 #: ../../M15.rst:100
 msgid ""
@@ -384,6 +391,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has vigilance. (Attacking doesn't cause it "
 "to tap.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma czujność. (Atakowanie nie powoduje jego "
+"przekręcenia.)"
 
 #: ../../M15.rst:104
 msgid ""
@@ -394,7 +403,7 @@ msgstr ""
 # 4c00ede72ce34d6c89673e9c6b956ce5
 #: ../../M15.rst:103
 msgid "Destroy all nonwhite creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie nie-białe stwory."
 
 #: ../../M15.rst:110
 msgid ""
@@ -418,7 +427,7 @@ msgstr ""
 # 794119b1a1234d6d95ca61e75f60881f
 #: ../../M15.rst:113
 msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
-msgstr ""
+msgstr "Ilekroć inny stwór wejdzie na pole walki, odkręć tego stwora."
 
 #: ../../M15.rst:122
 msgid ""
@@ -432,12 +441,16 @@ msgstr ""
 msgid ""
 "Enchanted creature can't attack or block unless its controller pays |mana_3|."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, chyba że jego władca "
+"zapłaci |mana_3|."
 
 # 390cede3bdf94918acfec0c67e286c94
 #: ../../M15.rst:121
 msgid ""
 "Activated abilities of enchanted creature cost |mana_3| more to activate."
 msgstr ""
+"Aktywacja zdolności aktywowanych  zauroczonego stwora kosztuje o |mana_3| "
+"więcej."
 
 #: ../../M15.rst:124
 msgid ""
@@ -464,6 +477,8 @@ msgid ""
 "|mana_w|, |tap|: Another target white creature you control gains vigilance "
 "until end of turn. (Attacking doesn't cause it to tap.)"
 msgstr ""
+"|mana_w|, |tap|: Inny wskazany biały stwór pod twoim władaniem zyskuje "
+"czujność do końca tury. (Atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../M15.rst:136
 msgid ""
@@ -475,7 +490,7 @@ msgstr ""
 # c7c67a17f8de4dc7afcc50132f5995f6
 #: ../../M15.rst:135
 msgid "Exile target creature with toughness 4 or greater."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora o wytrzymałości 4 lub większej."
 
 #: ../../M15.rst:142
 msgid ""
@@ -500,6 +515,8 @@ msgid ""
 "Whenever Preeminent Captain attacks, you may put a Soldier creature card "
 "from your hand onto the battlefield tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz umieścić na polu walki przekręconą i "
+"atakującą kartę typu Piechur z twojej ręki."
 
 #: ../../M15.rst:146
 msgid ""
@@ -549,6 +566,8 @@ msgid ""
 "When Resolute Archangel enters the battlefield, if your life total is less "
 "than your starting life total, it becomes equal to your starting life total."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli liczba twoich punktów życia "
+"jest mniejsza niż wartość startowa, otrzymuje wartość startową."
 
 #: ../../M15.rst:164
 msgid ""
@@ -563,6 +582,8 @@ msgid ""
 "Return X target creature cards with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Przywróć X wskazanych kart stworów o skróconym koszcie many 2 lub mniejszym "
+"z twojego cmentarza na pole walki."
 
 #: ../../M15.rst:168
 msgid ""
@@ -578,6 +599,9 @@ msgid ""
 "control also gain first strike until end of turn. (They deal combat damage "
 "before creatures without first strike.)"
 msgstr ""
+"Stwory pod twoim władaniem dostają +2/+1 do końca tury. Białe stwory pod "
+"twoim władaniem zyskują także pierwszy cios do końca tury. (Zadają obrażenia "
+"bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../M15.rst:172
 msgid ""
@@ -588,11 +612,12 @@ msgstr ""
 
 # c7c5a03077d94788b4e304795b1cccfe
 #: ../../M15.rst:171
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/"
 "+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr ""
+"|mana_1|\\ |mana_w|, poświęć tego stwora: Stwory pod twoim władaniem dostają "
+"+1/+1 do końca tury."
 
 #: ../../M15.rst:180
 msgid ""
@@ -607,6 +632,8 @@ msgid ""
 "Seraph of the Masses's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tego stwora są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../M15.rst:184
 msgid ""
@@ -637,6 +664,8 @@ msgid ""
 "|mana_4|\\ |mana_w|\\ |mana_w|: Creatures you control get +2/+2 and gain "
 "first strike and lifelink until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_w|\\ |mana_w|: Stwory pod twoim władaniem dostają do końca "
+"tury +2/+2, pierwszy cios i więź życia."
 
 #: ../../M15.rst:191
 msgid ""
@@ -644,6 +673,8 @@ msgid ""
 "Creatures you control get +2/+2 and gain first strike and lifelink until end "
 "of turn."
 msgstr ""
+"|mana_4|\\ |mana_w|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza:  Stwory "
+"pod twoim władaniem dostają do końca tury +2/+2, pierwszy cios i więź życia."
 
 #: ../../M15.rst:196
 msgid ""
@@ -669,6 +700,10 @@ msgid ""
 "effect doesn't remove Auras. (It can't be blocked, targeted, or dealt damage "
 "by anything that's white, blue, black, red, or green.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma ochronę przed wszystkimi kolorami. Ten "
+"efekt nie usuwa Aur. (Nic białego, niebieskiego, czarnego, czerwonego czy "
+"zielonego nie może blokować, wskazać, zadać obrażeń ani wyposażyć tego "
+"stwora.)"
 
 #: ../../M15.rst:208
 msgid ""
@@ -682,6 +717,9 @@ msgid ""
 "may pay |mana_w|. If you do, create a 1/1 white Spirit creature token with "
 "flying."
 msgstr ""
+"Ilekroć nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, możesz "
+"zapłacić |mana_w|. Jeśli to zrobisz, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../M15.rst:207
 msgid ""
@@ -689,6 +727,9 @@ msgid ""
 "indestructible until end of turn. (Damage and effects that say \"destroy\" "
 "don't destroy it.)"
 msgstr ""
+"|mana_1|\\ |mana_w|, poświęć Ducha: Wskazany stwór nie będący Duchem zyskuje "
+"do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"niszczą go.)"
 
 #: ../../M15.rst:214
 msgid ""
@@ -717,7 +758,7 @@ msgstr ""
 # 6dfc755d575b447884748b16846b6a7a
 #: ../../M15.rst:217
 msgid "When Tireless Missionaries enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../M15.rst:224
 msgid ""
@@ -734,13 +775,12 @@ msgstr ""
 # 4149473aa7564cb6ae8aed727948adbd
 # eaa3d88f54c34b418d23b3c5a9a82a9c
 #: ../../M15.rst:223
-#, fuzzy
 msgid ""
 "Create three 1/1 white Spirit creature tokens with flying. (They can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
-"Latanie (Ten stwór może być blokowany tylko przez stwory z lataniem lub "
-"zasięgiem.)"
+"Stwórz trzy żetony białego stwora Duch 1/1 z lataniem. (Nie mogą być "
+"blokowane, chyba że przez stwory z lataniem lub zasięgiem.)"
 
 #: ../../M15.rst:230
 msgid ""
@@ -766,7 +806,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 #: ../../M15.rst:229
 msgid ""
 "Whenever Wall of Essence is dealt combat damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzymuje obrażenia bojowe, zyskaj tyle samo żyć."
 
 #: ../../M15.rst:236
 msgid ""
@@ -785,7 +825,7 @@ msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 #: ../../M15.rst:235
 msgid ""
 "Warden of the Beyond gets +2/+2 as long as an opponent owns a card in exile."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+2 o ile przeciwnik posiada kartę na wygnaniu."
 
 #: ../../M15.rst:240
 msgid ""
@@ -800,6 +840,8 @@ msgid ""
 "Aeronaut Tinkerer has flying as long as you control an artifact. (It can't "
 "be blocked except by creatures with flying or reach.)"
 msgstr ""
+"Ten stwór ma latanie o ile władasz artefaktem. (Nie może być blokowany, "
+"chyba że przez stwory z lataniem lub zasięgiem.)"
 
 #: ../../M15.rst:244
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-07-14 19:57+0000\n"
+"PO-Revision-Date: 2019-10-11 19:13+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dka/pl/>\n"
 "Language: pl\n"
@@ -311,7 +311,7 @@ msgstr ""
 # ddcfcbeed6f046209da24e422b733d2b
 #: ../../DKA.rst:87
 msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
-msgstr ""
+msgstr "Ilekroć inny stwór wejdzie na pole walki, odkręć tego stwora."
 
 #: ../../DKA.rst:94
 msgid ""
@@ -500,6 +500,8 @@ msgid ""
 "Flashback |mana_u| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_u| (Możesz zagrać tę kartę z twojego cmentarza za koszt "
+"wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:158
 msgid ""

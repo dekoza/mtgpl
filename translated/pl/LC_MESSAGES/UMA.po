@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 19:52+0100\n"
-"PO-Revision-Date: 2019-07-14 19:57+0000\n"
+"PO-Revision-Date: 2019-10-11 19:13+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/uma/pl/>\n"
 "Language: pl\n"
@@ -940,6 +940,8 @@ msgid ""
 "Flashback |mana_u| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_u| (Możesz zagrać tę kartę z twojego cmentarza za koszt "
+"wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:294
 msgid ""
@@ -954,6 +956,8 @@ msgid ""
 "|tap|, Put the top card of your library into your graveyard: Add "
 "|colorless|."
 msgstr ""
+"|tap|, umieść wierzchnią kartę twojej biblioteki w twoim cmentarzu: Weź "
+"|colorless|."
 
 #: ../../UMA.rst:300
 msgid ""
@@ -976,6 +980,8 @@ msgid ""
 "Look at the top seven cards of your library. Put two of them into your "
 "hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść dwie z nich w "
+"twojej ręce, a pozostałe w dowolnej kolejności na spodzie twojej biblioteki."
 
 #: ../../UMA.rst:306
 msgid ""
@@ -990,10 +996,12 @@ msgid ""
 "You may exile a blue card with converted mana cost X from your hand "
 "rather than pay this spell's mana cost."
 msgstr ""
+"Zamiast płacić koszt many tego czaru możesz wygnać z twojej ręki niebieską "
+"kartę o skróconym koszcie many X."
 
 #: ../../UMA.rst:305
 msgid "Counter target spell if its converted mana cost is X."
-msgstr ""
+msgstr "Skontruj wskazany czar jeśli jego skrócony koszt many to X."
 
 #: ../../UMA.rst:310
 msgid ""
