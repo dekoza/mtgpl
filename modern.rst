@@ -10,6 +10,9 @@ Modern
 Post-Standard
 -------------
 
+* :mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|
+* :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|
+* :mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|
 * :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p25|
 * :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|
 * :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|
@@ -61,6 +64,7 @@ Post-Standard
 Edycje bazowe
 -------------
 
+* :mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|
 * :mtgexp:`M15` :doc:`Magic 2015<M15>` |p25|
 * :mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|
 * :mtgexp:`M13` :doc:`Magic 2013<M13>` |p25|
@@ -75,6 +79,10 @@ Edycje bazowe
 .. toctree::
    :hidden:
 
+   M19
+   DOM
+   RIX
+   XLN
    MH1
    HOU
    AKH
