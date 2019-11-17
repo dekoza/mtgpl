@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-11 18:15+0200\n"
-"PO-Revision-Date: 2019-11-17 18:00+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2019-11-17 18:02+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/eld/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -109,6 +109,8 @@ msgstr ""
 #: ../../ELD.rst:27
 msgid "Adamant — If at least three white mana was spent to cast this spell, Ardenvale Paladin enters the battlefield with a +1/+1 counter on it."
 msgstr ""
+"Nieugięty - Jeśli na rzucenie tego czaru wydano co najmniej trzy białe many, "
+"ten stwór wchodzi na pole walki ze znacznikiem +1/+1."
 
 #: ../../ELD.rst:32
 msgid ":mtgtip:`Ardenvale Tactician<https://img.scryfall.com/cards/border_crop/front/c/7/c7d5e394-8e41-442e-ae97-a478a61e1b9d.jpg?1568302736|https://scryfall.com/card/eld/5/ardenvale-tactician-dizzying-swoop?utm_source=api>`"
@@ -131,6 +133,9 @@ msgstr ""
 #: ../../ELD.rst:39
 msgid "When Bartered Cow dies or when you discard it, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten stwór umrze lub zostanie odrzucony z ręki, stwórz żeton Jedzenia. ("
+"Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: "
+"Zyskujesz 3 życia.\""
 
 #: ../../ELD.rst:46
 msgid ":mtgtip:`Beloved Princess<https://img.scryfall.com/cards/border_crop/front/4/c/4c6ee4eb-70b2-4f99-9d54-5caf2d3713be.jpg?1568224747|https://scryfall.com/card/eld/7/beloved-princess?utm_source=api>`"
@@ -144,7 +149,7 @@ msgstr "Więź życia"
 
 #: ../../ELD.rst:45
 msgid "Beloved Princess can't be blocked by creatures with power 3 or greater."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 3 lub większej."
 
 #: ../../ELD.rst:56
 msgid ":mtgtip:`Charming Prince<https://img.scryfall.com/cards/border_crop/front/d/c/dcb94950-3f3e-4876-84f8-d5e4d9cfecee.jpg?1568245550|https://scryfall.com/card/eld/8/charming-prince?utm_source=api>`"
@@ -165,6 +170,8 @@ msgstr "Zyskaj 3 życia."
 #: ../../ELD.rst:55
 msgid "Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step."
 msgstr ""
+"Wygnaj innego wskazanego stwora, którego jesteś właścicielem. Na początku "
+"następnego kroku końcowego przywróć go na pole walki pod twoim władaniem."
 
 #: ../../ELD.rst:66
 msgid ":mtgtip:`The Circle of Loyalty<https://img.scryfall.com/cards/border_crop/front/7/9/79093d00-362d-4d07-8a0a-cf5e1ccf9c0f.jpg?1567698953|https://scryfall.com/card/eld/9/the-circle-of-loyalty?utm_source=api>`"
@@ -173,6 +180,8 @@ msgstr ""
 #: ../../ELD.rst:59
 msgid "This spell costs |mana_1| less to cast for each Knight you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego Rycerza pod twoim "
+"władaniem."
 
 #: ../../ELD.rst:61
 msgid "Creatures you control get +1/+1."
