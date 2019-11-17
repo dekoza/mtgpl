@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-11 18:15+0200\n"
-"PO-Revision-Date: 2019-11-17 18:02+0000\n"
+"PO-Revision-Date: 2019-12-23 08:39+0000\n"
 "Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/eld/pl/>\n"
 "Language: pl\n"
@@ -190,10 +190,14 @@ msgstr "Stwory pod twoim władaniem dostają +1/+1."
 #: ../../ELD.rst:63
 msgid "Whenever you cast a legendary spell, create a 2/2 white Knight creature token with vigilance."
 msgstr ""
+"Ilekroć rzucasz legendarny czar, stwórz żeton białego stwora Rycerz 2/2 z "
+"czujnością."
 
 #: ../../ELD.rst:65
 msgid "|mana_3|\\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with vigilance."
 msgstr ""
+"|mana_3|\\ |mana_w|, |tap|: Stwórz żeton białego stwora Rycerz 2/2 z "
+"czujnością."
 
 #: ../../ELD.rst:70
 msgid ":mtgtip:`Deafening Silence<https://img.scryfall.com/cards/border_crop/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1568303645|https://scryfall.com/card/eld/10/deafening-silence?utm_source=api>`"
@@ -202,6 +206,8 @@ msgstr ""
 #: ../../ELD.rst:69
 msgid "Each player can't cast more than one noncreature spell each turn."
 msgstr ""
+"Żaden gracz nie może rzucić więcej niż jednego czaru niebędącego stworem na "
+"turę."
 
 #: ../../ELD.rst:74
 msgid ":mtgtip:`Faerie Guidemother<https://img.scryfall.com/cards/border_crop/front/e/8/e8bbece8-9620-44d9-b991-350fe952538a.jpg?1568114092|https://scryfall.com/card/eld/11/faerie-guidemother-gift-of-the-fae?utm_source=api>`"
