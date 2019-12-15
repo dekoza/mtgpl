@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-11 18:15+0200\n"
 "PO-Revision-Date: 2019-12-23 08:39+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/eld/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr ""
 
 #: ../../ELD.rst:49
 msgid "When Charming Prince enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
 
 #: ../../ELD.rst:51
 msgid "Scry 2."
@@ -229,7 +229,7 @@ msgstr ""
 
 #: ../../ELD.rst:81
 msgid "As long as you control an artifact or enchantment, Flutterfox has flying."
-msgstr ""
+msgstr "O ile władasz artefaktem lub urokiem, ten stwór ma latanie."
 
 #: ../../ELD.rst:88
 msgid ":mtgtip:`Fortifying Provisions<https://img.scryfall.com/cards/border_crop/front/9/8/98ce113c-53da-4fab-b7c9-fc3df248b65e.jpg?1568738998|https://scryfall.com/card/eld/13/fortifying-provisions?utm_source=api>`"
@@ -237,11 +237,14 @@ msgstr ""
 
 #: ../../ELD.rst:85
 msgid "Creatures you control get +0/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +0/+1."
 
 #: ../../ELD.rst:87
 msgid "When Fortifying Provisions enters the battlefield, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"życia.\")"
 
 #: ../../ELD.rst:92
 msgid ":mtgtip:`Giant Killer<https://img.scryfall.com/cards/border_crop/front/7/5/75754468-2850-42e6-ab22-61ff7b9d1214.jpg?1568114110|https://scryfall.com/card/eld/14/giant-killer-chop-down?utm_source=api>`"
@@ -268,6 +271,9 @@ msgstr ""
 #: ../../ELD.rst:99
 msgid "When Glass Casket enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less until Glass Casket leaves the battlefield."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, wygnaj wskazanego stwora pod "
+"władaniem przeciwnika o skróconym koszcie many 3 lub mniejszym dopóki ten "
+"artefakt nie opuści pola walki."
 
 #: ../../ELD.rst:106
 msgid ":mtgtip:`Happily Ever After<https://img.scryfall.com/cards/border_crop/front/d/3/d32d85d5-a6f0-4cc5-9fd6-6b329aae2e5b.jpg?1568896800|https://scryfall.com/card/eld/16/happily-ever-after?utm_source=api>`"
@@ -276,10 +282,16 @@ msgstr ""
 #: ../../ELD.rst:103
 msgid "When Happily Ever After enters the battlefield, each player gains 5 life and draws a card."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, każdy gracz zyskuje 5 żyć oraz dobiera "
+"kartę."
 
 #: ../../ELD.rst:105
 msgid "At the beginning of your upkeep, if there are five colors among permanents you control, there are six or more card types among permanents you control and/or cards in your graveyard, and your life total is greater than or equal to your starting life total, you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli jest pięć kolorów pośród "
+"permanentów pod twoim władaniem oraz jest co najmniej sześć typów kart "
+"pośród kart pod twoim władaniem i/lub w twoim cmentarzu oraz twoja liczba "
+"żyć jest nie mniejsza niż początkowa, wygrywasz grę."
 
 #: ../../ELD.rst:114
 msgid ":mtgtip:`Harmonious Archon<https://img.scryfall.com/cards/border_crop/front/c/7/c7093834-9627-4da2-9322-c03bfd5b3a71.jpg?1568272651|https://scryfall.com/card/eld/17/harmonious-archon?utm_source=api>`"
@@ -287,11 +299,13 @@ msgstr ""
 
 #: ../../ELD.rst:111
 msgid "Non-Archon creatures have base power and toughness 3/3."
-msgstr ""
+msgstr "Stwory nie będące typu Archon mają bazowe siłę i wytrzymałość 3/3."
 
 #: ../../ELD.rst:113
 msgid "When Harmonious Archon enters the battlefield, create two 1/1 white Human creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony białego stwora "
+"Człowiek 1/1."
 
 #: ../../ELD.rst:120
 msgid ":mtgtip:`Hushbringer<https://img.scryfall.com/cards/border_crop/front/6/6/663b3e6f-1099-4de8-a0a7-6f1919c38010.jpg?1568919218|https://scryfall.com/card/eld/18/hushbringer?utm_source=api>`"
@@ -304,6 +318,8 @@ msgstr "Latanie, więź życia"
 #: ../../ELD.rst:119
 msgid "Creatures entering the battlefield or dying don't cause abilities to trigger."
 msgstr ""
+"Stwory wchodzące na pole walki lub umierające, nie powodują wyzwalania "
+"zdolności."
 
 #: ../../ELD.rst:122
 msgid ":mtgtip:`Knight of the Keep<https://img.scryfall.com/cards/border_crop/front/0/d/0d49653d-cd4e-40a7-99de-fc531b5d8594.jpg?1568302648|https://scryfall.com/card/eld/19/knight-of-the-keep?utm_source=api>`"
@@ -324,7 +340,7 @@ msgstr "Czujność"
 
 #: ../../ELD.rst:129
 msgid "Whenever a white creature you control attacks, you gain 1 life."
-msgstr ""
+msgstr "Ilekroć biały stwór pod twoim władaniem atakuje, zyskaj 1 życie."
 
 #: ../../ELD.rst:134
 msgid ":mtgtip:`Lonesome Unicorn<https://img.scryfall.com/cards/border_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1569972635|https://scryfall.com/card/eld/21/lonesome-unicorn-rider-in-need?utm_source=api>`"
@@ -976,6 +992,8 @@ msgstr ""
 #: ../../ELD.rst:487
 msgid "Destroy target creature. Create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Zniszcz wskazanego stwora. Stwórz żeton Jedzenia. (Jest to artefakt ze "
+"zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 życia.\")"
 
 #: ../../ELD.rst:492
 msgid ":mtgtip:`Barrow Witches<https://img.scryfall.com/cards/border_crop/front/4/5/45707c22-fce8-4dbd-9d19-73f08c68f449.jpg?1568978058|https://scryfall.com/card/eld/77/barrow-witches?utm_source=api>`"
@@ -1148,6 +1166,9 @@ msgstr ""
 #: ../../ELD.rst:577
 msgid "Whenever equipped creature deals combat damage to a creature, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Ilekroć wyposażony stwór zada stworowi obrażenia bojowe, stwórz żeton "
+"Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten "
+"artefakt: Zyskujesz 3 życia.\")"
 
 #: ../../ELD.rst:584
 msgid ":mtgtip:`Lash of Thorns<https://img.scryfall.com/cards/border_crop/front/e/a/ea45e972-6e4a-4854-9be3-6ffb24e7d7a5.jpg?1568978166|https://scryfall.com/card/eld/92/lash-of-thorns?utm_source=api>`"
@@ -1354,6 +1375,9 @@ msgstr ""
 #: ../../ELD.rst:687
 msgid "When Tempting Witch enters the battlefield, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"życia.\")"
 
 #: ../../ELD.rst:689
 msgid "|mana_2|, |tap|, Sacrifice a Food: Target player loses 3 life."
@@ -1819,6 +1843,9 @@ msgstr ""
 #: ../../ELD.rst:923
 msgid "Create a Food token. (Then exile this card. You may cast the creature later from exile. A Food token is an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Stwórz żeton Jedzenia. (Następnie wygnaj tę kartę. Możesz później rzucić z "
+"niej stwora z wygnania. Żeton Jedzenia to artefakt ze zdolnością \"|mana_2|, "
+"|tap|, poświęć ten artefakt: Zyskujesz 3 życia.\")"
 
 #: ../../ELD.rst:928
 msgid ":mtgtip:`Edgewall Innkeeper<https://img.scryfall.com/cards/border_crop/front/7/c/7c5d0560-f9e6-4c70-8cce-cae61e4e74bc.jpg?1568302707|https://scryfall.com/card/eld/151/edgewall-innkeeper?utm_source=api>`"
@@ -1851,6 +1878,9 @@ msgstr ""
 #: ../../ELD.rst:939
 msgid "Fell the Pheasant deals 5 damage to target creature with flying. Create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Ten czar zadaje 5 obrażeń wskazanemu stworowi z lataniem. Stwórz żeton "
+"Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten "
+"artefakt: Zyskujesz 3 życia.\")"
 
 #: ../../ELD.rst:946
 msgid ":mtgtip:`Fierce Witchstalker<https://img.scryfall.com/cards/border_crop/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.jpg?1570414837|https://scryfall.com/card/eld/154/fierce-witchstalker?utm_source=api>`"
@@ -1865,6 +1895,9 @@ msgstr ""
 #: ../../ELD.rst:945
 msgid "When Fierce Witchstalker enters the battlefield, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"życia.\")"
 
 #: ../../ELD.rst:950
 msgid ":mtgtip:`Flaxen Intruder<https://img.scryfall.com/cards/border_crop/front/0/6/06bd1ad2-fb5d-4aef-87d1-13a341c686fa.jpg?1567699505|https://scryfall.com/card/eld/155/flaxen-intruder-welcome-home?utm_source=api>`"
@@ -1925,6 +1958,10 @@ msgstr ""
 #: ../../ELD.rst:975
 msgid "You may sacrifice two Foods. If you do, create a 7/7 green Giant creature token. Otherwise, create three Food tokens. (They're artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Możesz poświęcić dwa Jedzenia. Jeśli to zrobisz, stwórz żeton zielonego "
+"stwora Gigant 7/7. W przeciwnym razie stwórz żeton Jedzenia. (Jest to "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"życia.\")"
 
 #: ../../ELD.rst:986
 msgid ":mtgtip:`Gilded Goose<https://img.scryfall.com/cards/border_crop/front/3/0/30377bf0-d9b1-4c14-8dde-f74b1e02d604.jpg?1567699467|https://scryfall.com/card/eld/160/gilded-goose?utm_source=api>`"
@@ -1933,10 +1970,13 @@ msgstr ""
 #: ../../ELD.rst:981
 msgid "When Gilded Goose enters the battlefield, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"życia.\")"
 
 #: ../../ELD.rst:983
 msgid "|mana_1|\\ |mana_g|, |tap|: Create a Food token."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|, |tap|: Stwórz żeton Jedzenia."
 
 #: ../../ELD.rst:985
 msgid "|tap|, Sacrifice a Food: Add one mana of any color."
@@ -2001,6 +2041,8 @@ msgstr ""
 #: ../../ELD.rst:1017
 msgid "Create a 1/1 white Human creature token. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Stwórz żeton białego stwora Człowiek 1/1. (Następnie wygnaj tę kartę. Możesz "
+"później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:1022
 msgid ":mtgtip:`Maraleaf Rider<https://img.scryfall.com/cards/border_crop/front/1/b/1b2b198d-493c-4d6c-bfb6-e842728522f6.jpg?1568285880|https://scryfall.com/card/eld/166/maraleaf-rider?utm_source=api>`"
@@ -2174,6 +2216,9 @@ msgstr ""
 #: ../../ELD.rst:1109
 msgid "When Trail of Crumbs enters the battlefield, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"życia.\")"
 
 #: ../../ELD.rst:1111
 msgid "Whenever you sacrifice a Food, you may pay |mana_1|. If you do, look at the top two cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
@@ -2232,6 +2277,9 @@ msgstr ""
 #: ../../ELD.rst:1141
 msgid "Create three 1/1 green Boar creature tokens with \"When this creature dies, create a Food token.\" (A Food token is an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Stwórz trzy żetony zielonego stwora Knur 1/1 ze zdolnością \"Kiedy ten stwór "
+"umrze, stwórz żeton Jedzenia.\" (Żeton Jedzenia to artefakt ze zdolnością \""
+"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 życia.\")"
 
 #: ../../ELD.rst:1148
 msgid ":mtgtip:`Yorvo, Lord of Garenbrig<https://img.scryfall.com/cards/border_crop/front/a/e/ae2998a1-1713-467e-a08e-0efd8720aa5b.jpg?1568767350|https://scryfall.com/card/eld/185/yorvo-lord-of-garenbrig?utm_source=api>`"
@@ -2373,6 +2421,8 @@ msgstr ""
 #: ../../ELD.rst:1219
 msgid "+2: Create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"+2: Stwórz żeton Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|"
+", poświęć ten artefakt: Zyskujesz 3 życia.\")"
 
 #: ../../ELD.rst:1221
 msgid "+1: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3."
@@ -2425,6 +2475,9 @@ msgstr ""
 #: ../../ELD.rst:1245
 msgid "Whenever Savvy Hunter attacks or blocks, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Ilekroć ten stwór atakuje lub blokuje, stwórz żeton Jedzenia. (Jest to "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"życia.\")"
 
 #: ../../ELD.rst:1247
 msgid "Sacrifice two Foods: Draw a card."
@@ -2554,6 +2607,8 @@ msgstr ""
 #: ../../ELD.rst:1323
 msgid "Create two 1/1 white Human creature tokens. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
+"Stwórz dwa żetony białego stwora Człowiek 1/1. (Następnie wygnaj tę kartę. "
+"Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:1328
 msgid ":mtgtip:`Rampart Smasher<https://img.scryfall.com/cards/border_crop/front/2/f/2fb9a632-a56b-48fb-bc24-14572b6a8a55.jpg?1568809187|https://scryfall.com/card/eld/213/rampart-smasher?utm_source=api>`"
@@ -2798,6 +2853,10 @@ msgstr ""
 #: ../../ELD.rst:1455
 msgid "|tap|, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"|tap|, poświęć stwora: Stwórz żeton Jedzenia. Jeśli wytrzymałość "
+"poświęconego stwora wynosiła 4 lub więcej, zamiast tego stwórz dwa żetony "
+"Jedzenia. (Są to artefakty ze zdolnością \"|mana_2|, |tap|, poświęć ten "
+"artefakt: Zyskujesz 3 życia.\")"
 
 #: ../../ELD.rst:1464
 msgid ":mtgtip:`Castle Ardenvale<https://img.scryfall.com/cards/border_crop/front/7/f/7f910495-8bd7-4134-a281-c16fd666d5cc.jpg?1568809232|https://scryfall.com/card/eld/238/castle-ardenvale?utm_source=api>`"
@@ -2907,7 +2966,7 @@ msgstr ""
 #: ../../ELD.rst:1511
 #: ../../ELD.rst:1565
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../ELD.rst:1513
 msgid "Gingerbread Cabin enters the battlefield tapped unless you control three or more other Forests."
@@ -2916,6 +2975,9 @@ msgstr ""
 #: ../../ELD.rst:1515
 msgid "When Gingerbread Cabin enters the battlefield untapped, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten ląd wejdzie odkręcony na pole walki, stwórz żeton Jedzenia. (Jest "
+"to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz "
+"3 życia.\")"
 
 #: ../../ELD.rst:1524
 msgid ":mtgtip:`Idyllic Grange<https://img.scryfall.com/cards/border_crop/front/c/a/ca2c611c-3a6f-44b0-9daa-837a465845e0.jpg?1568742247|https://scryfall.com/card/eld/246/idyllic-grange?utm_source=api>`"
@@ -2924,7 +2986,7 @@ msgstr ""
 #: ../../ELD.rst:1519
 #: ../../ELD.rst:1549
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../ELD.rst:1521
 msgid "Idyllic Grange enters the battlefield tapped unless you control three or more other Plains."
@@ -2941,7 +3003,7 @@ msgstr ""
 #: ../../ELD.rst:1527
 #: ../../ELD.rst:1553
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../ELD.rst:1529
 msgid "Mystic Sanctuary enters the battlefield tapped unless you control three or more other Islands."
@@ -2957,7 +3019,7 @@ msgstr ""
 
 #: ../../ELD.rst:1535
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../ELD.rst:1537
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|. Spend this mana only to cast a Knight or Equipment spell."
@@ -2970,7 +3032,7 @@ msgstr ""
 #: ../../ELD.rst:1541
 #: ../../ELD.rst:1557
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../ELD.rst:1543
 msgid "Witch's Cottage enters the battlefield tapped unless you control three or more other Swamps."
