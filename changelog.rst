@@ -2,6 +2,9 @@
 ***********
 Spis zmian
 ***********
+2020-01-12
+    * Throne of Eldraine - 50%
+    * Theros: Beyond Death - 25%
 
 2019-04-30
     * War of the Spark - 100%

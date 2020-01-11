@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 09:05+0200\n"
+"POT-Creation-Date: 2020-01-11 16:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,230 +29,246 @@ msgid "Post-Standard"
 msgstr ""
 
 #: ../../modern.rst:13
-msgid ":mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p25|"
+msgid ":mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:14
-msgid ":mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|"
+msgid ":mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:15
-msgid ":mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|"
+msgid ":mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:16
-msgid ":mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|"
+msgid ":mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:17
-msgid ":mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p25|"
+msgid ":mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:18
-msgid ":mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p25|"
+msgid ":mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:19
-msgid ":mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p25|"
+msgid ":mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:20
-msgid ":mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p25|"
+msgid ":mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:21
-msgid ":mtgexp:`ORI` :doc:`Origins<ORI>` |p25|"
+msgid ":mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:22
-msgid ":mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p25|"
+msgid ":mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:23
-msgid ":mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|"
+msgid ":mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:24
-msgid ":mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p75|"
+msgid ":mtgexp:`ORI` :doc:`Origins<ORI>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:25
-msgid ":mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p50|"
+msgid ":mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:26
-msgid ":mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|"
+msgid ":mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:27
-msgid ":mtgexp:`THS` :doc:`Theros<THS>` |p100|"
+msgid ":mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p75|"
 msgstr ""
 
 #: ../../modern.rst:28
-msgid ":mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` |p100|"
+msgid ":mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p50|"
 msgstr ""
 
 #: ../../modern.rst:29
-msgid ":mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|"
+msgid ":mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:30
-msgid ":mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|"
+msgid ":mtgexp:`THS` :doc:`Theros<THS>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:31
-msgid ":mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|"
+msgid ":mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:32
-msgid ":mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|"
+msgid ":mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:33
-msgid ":mtgexp:`ISD` :doc:`Innistrad<ISD>` |p25|"
+msgid ":mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:34
-msgid ":mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p25|"
+msgid ":mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:35
-msgid ":mtgexp:`MBS` :doc:`Mirrodin Besieged<MBS>` |p25|"
+msgid ":mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:36
-msgid ":mtgexp:`SOM` :doc:`Scars of Mirrodin<SOM>` |p25|"
+msgid ":mtgexp:`ISD` :doc:`Innistrad<ISD>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:37
-msgid ":mtgexp:`ROE` :doc:`Rise of the Eldrazi<ROE>` |p25|"
+msgid ":mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:38
-msgid ":mtgexp:`WWK` :doc:`Worldwake<WWK>` |p25|"
+msgid ":mtgexp:`MBS` :doc:`Mirrodin Besieged<MBS>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:39
-msgid ":mtgexp:`ZEN` :doc:`Zendikar<ZEN>` |p25|"
+msgid ":mtgexp:`SOM` :doc:`Scars of Mirrodin<SOM>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:40
-msgid ":mtgexp:`ARB` :doc:`Alara Reborn<ARB>` |p25|"
+msgid ":mtgexp:`ROE` :doc:`Rise of the Eldrazi<ROE>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:41
-msgid ":mtgexp:`CON` :doc:`Conflux<CON>` |p25|"
+msgid ":mtgexp:`WWK` :doc:`Worldwake<WWK>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:42
-msgid ":mtgexp:`ALA` :doc:`Shards of Alara<ALA>` |p25|"
+msgid ":mtgexp:`ZEN` :doc:`Zendikar<ZEN>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:43
-msgid ":mtgexp:`EVE` :doc:`Eventide<EVE>` |p25|"
+msgid ":mtgexp:`ARB` :doc:`Alara Reborn<ARB>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:44
-msgid ":mtgexp:`SHM` :doc:`Shadowmoor<SHM>` |p25|"
+msgid ":mtgexp:`CON` :doc:`Conflux<CON>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:45
-msgid ":mtgexp:`MOR` :doc:`Morningtide<MOR>` |p25|"
+msgid ":mtgexp:`ALA` :doc:`Shards of Alara<ALA>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:46
-msgid ":mtgexp:`LRW` :doc:`Lorwyn<LRW>` |p25|"
+msgid ":mtgexp:`EVE` :doc:`Eventide<EVE>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:47
-msgid ":mtgexp:`FUT` :doc:`Future Sight<FUT>` |p25|"
+msgid ":mtgexp:`SHM` :doc:`Shadowmoor<SHM>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:48
-msgid ":mtgexp:`PLC` :doc:`Planar Chaos<PLC>` |p25|"
+msgid ":mtgexp:`MOR` :doc:`Morningtide<MOR>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:49
-msgid ":mtgexp:`TSP` :doc:`Time Spiral<TSP>` |p25|"
+msgid ":mtgexp:`LRW` :doc:`Lorwyn<LRW>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:50
-msgid ":mtgexp:`CSP` :doc:`Coldsnap<CSP>` |p25|"
+msgid ":mtgexp:`FUT` :doc:`Future Sight<FUT>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:51
-msgid ":mtgexp:`DIS` :doc:`Dissension<DIS>` |p25|"
+msgid ":mtgexp:`PLC` :doc:`Planar Chaos<PLC>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:52
-msgid ":mtgexp:`GPT` :doc:`Guildpact<GPT>` |p25|"
+msgid ":mtgexp:`TSP` :doc:`Time Spiral<TSP>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:53
-msgid ":mtgexp:`RAV` :doc:`Ravnica: City of Guilds<RAV>` |p25|"
+msgid ":mtgexp:`CSP` :doc:`Coldsnap<CSP>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:54
-msgid ":mtgexp:`SOK` :doc:`Saviors of Kamigawa<SOK>` |p25|"
+msgid ":mtgexp:`DIS` :doc:`Dissension<DIS>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:55
-msgid ":mtgexp:`BOK` :doc:`Betrayers of Kamigawa<BOK>` |p25|"
+msgid ":mtgexp:`GPT` :doc:`Guildpact<GPT>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:56
-msgid ":mtgexp:`CHK` :doc:`Champions of Kamigawa<CHK>` |p25|"
+msgid ":mtgexp:`RAV` :doc:`Ravnica: City of Guilds<RAV>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:57
-msgid ":mtgexp:`5DN` :doc:`Fifth Dawn<5DN>` |p25|"
+msgid ":mtgexp:`SOK` :doc:`Saviors of Kamigawa<SOK>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:58
-msgid ":mtgexp:`DST` :doc:`Darksteel<DST>` |p25|"
+msgid ":mtgexp:`BOK` :doc:`Betrayers of Kamigawa<BOK>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:59
-msgid ":mtgexp:`MRD` :doc:`Mirrodin<MRD>` |p25|"
+msgid ":mtgexp:`CHK` :doc:`Champions of Kamigawa<CHK>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:60
+msgid ":mtgexp:`5DN` :doc:`Fifth Dawn<5DN>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:61
+msgid ":mtgexp:`DST` :doc:`Darksteel<DST>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:62
-msgid "Edycje bazowe"
-msgstr ""
-
-#: ../../modern.rst:64
-msgid ":mtgexp:`M15` :doc:`Magic 2015<M15>` |p25|"
+msgid ":mtgexp:`MRD` :doc:`Mirrodin<MRD>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:65
-msgid ":mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|"
-msgstr ""
-
-#: ../../modern.rst:66
-msgid ":mtgexp:`M13` :doc:`Magic 2013<M13>` |p25|"
+msgid "Edycje bazowe"
 msgstr ""
 
 #: ../../modern.rst:67
-msgid ":mtgexp:`M12` :doc:`Magic 2012<M12>` |p25|"
+msgid ":mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:68
-msgid ":mtgexp:`M11` :doc:`Magic 2011<M11>` |p25|"
+msgid ":mtgexp:`M15` :doc:`Magic 2015<M15>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:69
-msgid ":mtgexp:`M10` :doc:`Magic 2010<M10>` |p25|"
+msgid ":mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:70
-msgid ":mtgexp:`10E` :doc:`Tenth Edition<10E>` |p25|"
+msgid ":mtgexp:`M13` :doc:`Magic 2013<M13>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:71
-msgid ":mtgexp:`9ED` :doc:`Ninth Edition<9ED>` |p25|"
+msgid ":mtgexp:`M12` :doc:`Magic 2012<M12>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:72
+msgid ":mtgexp:`M11` :doc:`Magic 2011<M11>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:73
+msgid ":mtgexp:`M10` :doc:`Magic 2010<M10>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:74
+msgid ":mtgexp:`10E` :doc:`Tenth Edition<10E>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:75
+msgid ":mtgexp:`9ED` :doc:`Ninth Edition<9ED>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:76
 msgid ":mtgexp:`8ED` :doc:`Eighth Edition<8ED>` |p25|"
 msgstr ""
 

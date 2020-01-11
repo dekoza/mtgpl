@@ -20,10 +20,10 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
-.. Nadochodzące
-.. ------------
+Nadochodzące
+------------
 
-
+* :mtgexp:`TBD` :doc:`Theros: Beyond Death<TBD>` |p25|
 
 
 Standard
