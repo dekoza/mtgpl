@@ -2,22 +2,23 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
-# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-22 22:04+0000\n"
+"PO-Revision-Date: 2020-01-12 20:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/bng/pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bng/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.10.1\n"
 "X-POOTLE-MTIME: 1391098335.778030\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
@@ -138,7 +139,7 @@ msgstr ""
 # 670149e257da4eabb900001b72794d95
 #: ../../BNG.rst:25
 msgid "Creatures you control have first strike."
-msgstr "Stwory, którymi władasz mają pierwszy cios."
+msgstr "Stwory pod twoim władaniem mają pierwszy cios."
 
 # d02ca57e7be7432b92b1eb00a9f4975d
 # 2cd7623eb15545ad8607aac78f26cd56
@@ -192,11 +193,8 @@ msgstr "Wybierz jedno lub oba —"
 # 24dc57589a5244a1a4a0d3c10641ee88
 # de86b69b843547e5ae77cdb83a009c18
 #: ../../BNG.rst:41
-#, fuzzy
 msgid "Return target enchantment card from your graveyard to your hand."
-msgstr ""
-"|mana_w|, poświęć Odunos River Trawler: Przywróć wskazaną kartę uroku-stwora "
-"z twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną karte uroku z twojego cmentarza do twojej ręki."
 
 # ae36482d85ee4460805c93b1068959bf
 # ca9b2130e80b482eb40c5d942380b09b
@@ -345,7 +343,6 @@ msgstr ""
 # 12a22382e7b34eea9a54e4a4d6d8af8e
 # f151b39063b64a6db1a16b1c9cbdb9a4
 #: ../../BNG.rst:71
-#, fuzzy
 msgid ""
 "Bestow |mana_5|\\ |mana_w| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
@@ -619,8 +616,8 @@ msgid ""
 "Whenever Silent Sentinel attacks, you may return target enchantment card "
 "from your graveyard to the battlefield."
 msgstr ""
-"Ilekroć Silent Sentinel atakuje, możesz przywrócić wskazaną kartę uroku z "
-"twojego cmentarza na pole walki."
+"Ilekroć ten stwór atakuje, możesz przywrócić wskazaną kartę uroku z twojego "
+"cmentarza na pole walki."
 
 #: ../../BNG.rst:150
 msgid ""
@@ -722,7 +719,7 @@ msgstr ""
 # 2b26266bdf0f40f5a64d98cd9340855a
 #: ../../BNG.rst:175
 msgid "Creatures you control have flying."
-msgstr "Stwory, którymi władasz mają latanie."
+msgstr "Stwory pod twoim władaniem mają latanie."
 
 # a8ea5538dc504ec4b6f762cdf788a066
 # 33dd917b55554436afb64ba8db79af1e
@@ -730,7 +727,7 @@ msgstr "Stwory, którymi władasz mają latanie."
 msgid ""
 "Creatures your opponents control lose flying and can't have or gain flying."
 msgstr ""
-"Stwory władane przez twoich przeciwników tracą latanie i nie mogą mieć ani "
+"Stwory pod władaniem twoich przeciwników tracą latanie i nie mogą mieć ani "
 "zyskać latania."
 
 #: ../../BNG.rst:184
@@ -808,7 +805,7 @@ msgstr ""
 # 67ea6b02a30e4addb5b700719066225e
 #: ../../BNG.rst:201
 msgid "When Eternity Snare enters the battlefield, draw a card."
-msgstr "Kiedy Sidła Wieczności wchodzą na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 # a5c0468167944ed78d2aca3d65eda3fb
 # 209c6fc406084fb1a47f761ed0a99140
@@ -1020,7 +1017,6 @@ msgstr ""
 # 150d700c25ea46308c30e69f6665a54b
 # 8e5d1f39748e4be1acf8c9ab1546b3a4
 #: ../../BNG.rst:255
-#, fuzzy
 msgid ""
 "Enchanted creature has \"|tap|: Scry 1, then draw a card.\" (To scry 1, look "
 "at the top card of your library, then you may put that card on the bottom of "
@@ -1059,7 +1055,6 @@ msgstr ""
 # e854fed1765e46af9b7c2292b0700ad3
 # de14d3061cb440eea405864a28200c84
 #: ../../BNG.rst:263
-#, fuzzy
 msgid ""
 "Until end of turn, target creature gains \"|tap|: Return target nonland "
 "permanent to its owner's hand.\""
@@ -1130,11 +1125,12 @@ msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
 # fe4081e6b6dc498a83a9a2b4cb7e8941
 # c60834759b5543daaeb89b5c22acfeac
 #: ../../BNG.rst:285
-#, fuzzy
 msgid ""
 "Enchanted creature has flying. (It can't be blocked except by creatures with "
 "flying or reach.)"
-msgstr "Zauroczony stwór może blokować tylko stwory z lataniem."
+msgstr ""
+"Zauroczony stwór ma latanie. (Nie może być blokowany, chyba że przez stwory "
+"z lataniem i zasięgiem.)"
 
 # fe4081e6b6dc498a83a9a2b4cb7e8941
 # c60834759b5543daaeb89b5c22acfeac
@@ -1355,7 +1351,6 @@ msgstr ""
 # 5ccde7d7c55e4716ac36572666318bf9
 # 8e9e6e3754cf44039bea56aa33cf3d9e
 #: ../../BNG.rst:339
-#, fuzzy
 msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice X other creatures: Return X "
 "target creature cards from your graveyard to the battlefield."
@@ -1366,13 +1361,12 @@ msgstr ""
 # 51697ba747af4c779d1615adb3b0653a
 # ea665fd53201488d98baf937372beff7
 #: ../../BNG.rst:341
-#, fuzzy
 msgid ""
 "|mana_5|\\ |mana_b|\\ |mana_b|: Put Champion of Stray Souls on top of your "
 "library from your graveyard."
 msgstr ""
-"|mana_5|\\ |mana_b|\\ |mana_b|: Umieść Champion of Stray Souls na wierzchu "
-"twojej biblioteki z twojego cmentarza."
+"|mana_5|\\ |mana_b|\\ |mana_b|: Umieść tę kartę na wierzchu twojej "
+"biblioteki z twojego cmentarza."
 
 #: ../../BNG.rst:348
 msgid ""
@@ -1421,12 +1415,11 @@ msgstr ""
 # 0600c5bf78d34fa0a47af5c35b1fecf0
 #: ../../BNG.rst:357
 msgid "|mana_b|, Sacrifice another creature: Regenerate Eater of Hope."
-msgstr "|mana_b|, poświęć innego stwora: Zregeneruj Pożeracza Nadziei."
+msgstr "|mana_b|, poświęć innego stwora: Zregeneruj tego stwora."
 
 # da502c714b7443b383197222817619d8
 # d564aa3dc67c49bbb454c12664d134cb
 #: ../../BNG.rst:359
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice two other creatures: Destroy target creature."
 msgstr ""
@@ -1460,8 +1453,8 @@ msgid ""
 "Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that "
 "player."
 msgstr ""
-"Ilekroć przeciwnik dobiera kratę, Fate Unraveler zadaje 1 obrażenie owemu "
-"graczowi."
+"Ilekroć przeciwnik dobiera kratę, ten stwór zadaje owemu graczowi 1 "
+"obrażenie."
 
 #: ../../BNG.rst:372
 msgid ""
@@ -1553,14 +1546,12 @@ msgstr ""
 # 841ce6f7148844c48c763dd8ae23bf35
 # 51ac3818a346418eb9db6059fd952832
 #: ../../BNG.rst:389
-#, fuzzy
 msgid ""
 "Exile target creature. Create a colorless artifact token named Gold. It has "
 "\"Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
-"Wygnaj wskazanego stwora. Umieść na polu walki żeton bezkolorowego artefaktu "
-"Złoto z \"Poświęć ten artefakt: Dodaj jedną manę dowolnego koloru do twojej "
-"puli many.\""
+"Wygnaj wskazanego stwora. Stwórz żeton bezkolorowego artefaktu Złoto z \""
+"Poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
 
 #: ../../BNG.rst:398
 msgid ""
@@ -1628,15 +1619,14 @@ msgstr ""
 # 5c307f95e9d54143a1e47d52b858d013
 # 0c369d54c32746a3987076b937e1dd6f
 #: ../../BNG.rst:411
-#, fuzzy
 msgid ""
 "This spell costs |mana_x| less to cast, where X is your devotion to black. "
 "(Each |mana_b| in the mana costs of permanents you control counts toward "
 "your devotion to black.)"
 msgstr ""
-"Koszt rzucenia Marshmist Titan jest zmniejszony o |mana_x|, gdzie X jest "
-"twoim kultem czarnego. (Każdy symbol |mana_b| w kosztach permanentów pod "
-"twoim władaniem wlicza się w twój kult czarnego.)"
+"Koszt rzucenia tego czaru jest zmniejszony o |mana_x|, gdzie X jest twoim "
+"kultem czarnego. (Każdy symbol |mana_b| w kosztach permanentów pod twoim "
+"władaniem wlicza się w twój kult czarnego.)"
 
 #: ../../BNG.rst:416
 msgid ""
@@ -1889,7 +1879,7 @@ msgstr ""
 # feee9fbf4a1447d2847fb6e004a29a99
 #: ../../BNG.rst:475
 msgid "Creatures you control have trample."
-msgstr "Stwory, którymi władasz mają tratowanie."
+msgstr "Stwory pod twoim władaniem mają tratowanie."
 
 # af2f42d7e6004251ae27bac14b8ad067
 # 51d12f8c88384306992a3cbc06d0d5d6
@@ -2238,7 +2228,7 @@ msgstr ""
 # d63337119e514397b492d30c527b416b
 #: ../../BNG.rst:573
 msgid "|mana_r|, Sacrifice Reckless Reveler: Destroy target artifact."
-msgstr "|mana_r|, poświęć Lekkomyślnego Hulakę: Zniszcz wskazany artefakt."
+msgstr "|mana_r|, poświęć tego stwora: Zniszcz wskazany artefakt."
 
 #: ../../BNG.rst:578
 msgid ""
@@ -3443,7 +3433,7 @@ msgstr ""
 # 7c4876bccf344fae850ad5f79843a225
 #: ../../BNG.rst:893
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr "Świątynia Oświecenia wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # b801a48502e745119d66c2c5fb0b7528
 # e43902eacf5243ed95714f2313a430f2
@@ -3453,9 +3443,8 @@ msgid ""
 "top card of your library. You may put that card on the bottom of your "
 "library.)"
 msgstr ""
-"Kiedy Świątynia Oświecenia wchodzi na pole walki, wróż 1. (Spójrz na "
-"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
-"twojej biblioteki.)"
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # f596b33634df4613883696b88e96b943
 # 59dbde6caef54c9882ee8de59b74285b
@@ -3474,7 +3463,7 @@ msgstr ""
 # c480987f8be44e6d8873a6e90cda6c4e
 #: ../../BNG.rst:901
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr "Świątynia Złośliwości wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 8f25788fefff4ae5b297ba96c4ab45f2
 # 739718a7d265455d8c7a0db3031d6ce7
@@ -3483,9 +3472,8 @@ msgid ""
 "When Temple of Malice enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Świątynia Złośliwości wchodzi na pole walki, wróż 1. (Spójrz na "
-"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
-"twojej biblioteki.)"
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # f017992900704dad9038ee42469f42de
 # 0f3249c8d25e4c3889b9ab4e27a7c087
@@ -3504,7 +3492,7 @@ msgstr ""
 # 6914742025a945fcad1df6a1d0092b5f
 #: ../../BNG.rst:909
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr "Świątynia Dostatku wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 27365b13de4a4a37a7598567ccac8690
 # 79fe9ae300354fe0b59f45ac7e0ce58f
@@ -3513,9 +3501,8 @@ msgid ""
 "When Temple of Plenty enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Świątynia Dostatku wchodzi na pole walki, wróż 1. (Spójrz na "
-"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
-"twojej biblioteki.)"
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # f45703f6c4f84505a92b3071f1e4a611
 # d4afa495da1e406d96538697e0149979
