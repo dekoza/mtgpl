@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-13 21:34+0100\n"
+"POT-Creation-Date: 2019-09-26 09:05+0200\n"
 "PO-Revision-Date: 2019-10-11 19:13+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
@@ -67,8 +67,10 @@ msgstr ""
 
 # 4c86ac3267644f1598a537a9db77a73e
 #: ../../M15.rst:17
-msgid ""
-"Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate."
+#, fuzzy
+#| msgid ""
+#| "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate."
+msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
 msgstr "Ilekroć zyskujesz życie, połóż znacznik +1/+1 na tym stworze."
 
 #: ../../M15.rst:26
@@ -1570,9 +1572,13 @@ msgid "|mana_b|, |tap|, Pay 1 life: Put a +1/+1 counter on Cruel Sadist."
 msgstr ""
 
 #: ../../M15.rst:491
+#, fuzzy
+#| msgid ""
+#| "|mana_2|\\ |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: "
+#| "Cruel Sadist deals X damage to target creature."
 msgid ""
-"|mana_2|\\ |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: Cruel "
-"Sadist deals X damage to target creature."
+"|mana_2|\\ |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: It "
+"deals X damage to target creature."
 msgstr ""
 "|mana_2|\\ |mana_b|, |tap|, usuń X znaczników +1/+1 z tego stwora: Zadaje on "
 "wskazanemu stworowi X obrażeń."
@@ -2247,7 +2253,7 @@ msgstr ""
 #: ../../M15.rst:710
 msgid ""
 ":mtgtip:`Circle of Flame<https://img.scryfall.com/cards/border_crop/en/"
-"m15/135.jpg?1517813031|https://scryfall.com/card/m15/135/circle-of-flame?"
+"m15/135.jpg?1548081613|https://scryfall.com/card/m15/135/circle-of-flame?"
 "utm_source=api>`"
 msgstr ""
 
