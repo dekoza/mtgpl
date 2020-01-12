@@ -1,20 +1,23 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2019, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Dominik Kozaczko <dominik@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-01-12 20:28+0000\n"
+"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tbd/"
+"pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.10.1\n"
 
 #: ../../TBD.rst:5
 msgid ":mtgexp:`TBD` Theros Beyond Death"
@@ -28,11 +31,13 @@ msgstr ""
 #: ../../TBD.rst:569
 #: ../../TBD.rst:585
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../TBD.rst:11
 msgid "|mana_1|, Sacrifice Alseid of Life's Bounty: Target creature or enchantment you control gains protection from the color of your choice until end of turn."
 msgstr ""
+"|mana_1|, poświęć tego stwora: Wskazany stwór lub urok pod twoim władaniem "
+"zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../TBD.rst:18
 msgid ":mtgtip:`Archon of Falling Stars<https://img.scryfall.com/cards/border_crop/front/d/0/d0dd1e40-a514-42df-8cc1-364998c7700c.jpg?1578046144|https://scryfall.com/card/thb/2/archon-of-falling-stars?utm_source=api>`"
@@ -57,7 +62,7 @@ msgstr ""
 #: ../../TBD.rst:1587
 #: ../../TBD.rst:1609
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../TBD.rst:17
 msgid "When Archon of Falling Stars dies, you may return target enchantment card from your graveyard to the battlefield."
@@ -70,7 +75,7 @@ msgstr ""
 #: ../../TBD.rst:21
 #: ../../TBD.rst:1275
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../TBD.rst:23
 msgid "Pegasus creatures you control have lifelink."
@@ -99,6 +104,8 @@ msgstr ""
 #: ../../TBD.rst:987
 msgid "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
 msgstr ""
+"(Umieszczając tę Sagę oraz po kroku dobierania, dodaj znacznik opowieści. "
+"Poświęć po III.)"
 
 #: ../../TBD.rst:35
 msgid "I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle your library."
@@ -141,7 +148,7 @@ msgstr ""
 #: ../../TBD.rst:1065
 #: ../../TBD.rst:1375
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../TBD.rst:49
 msgid "Enchanted creature gets +2/+2 and has first strike and \"Whenever this creature deals combat damage to a player, create a 1/1 white Human Soldier creature token.\""
@@ -181,7 +188,7 @@ msgstr ""
 
 #: ../../TBD.rst:71
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../TBD.rst:73
 msgid "|mana_2|\\ |mana_w|: Exile enchanted creature."
@@ -271,7 +278,7 @@ msgstr ""
 #: ../../TBD.rst:1315
 #: ../../TBD.rst:1541
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../TBD.rst:115
 msgid "As long as your devotion to white is less than five, Heliod isn't a creature."
@@ -313,6 +320,9 @@ msgstr ""
 #: ../../TBD.rst:131
 msgid "When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę Aury, ujawnić ją, umieścić w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../TBD.rst:140
 msgid ":mtgtip:`Heliod's Punishment<https://img.scryfall.com/cards/border_crop/front/3/b/3b8e6878-06aa-4505-b3a5-172083b7d258.jpg?1578670123|https://scryfall.com/card/thb/21/heliods-punishment?utm_source=api>`"
@@ -370,7 +380,7 @@ msgstr ""
 #: ../../TBD.rst:1143
 #: ../../TBD.rst:1593
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../TBD.rst:161
 msgid "Enchanted creature gets +1/+2."
@@ -446,7 +456,7 @@ msgstr ""
 
 #: ../../TBD.rst:201
 msgid "Exile target artifact or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt lub urok."
 
 #: ../../TBD.rst:206
 msgid ":mtgtip:`Rumbling Sentry<https://img.scryfall.com/cards/border_crop/front/4/f/4f93f3c9-b317-40c1-87f5-0038c09b646d.jpg?1578662302|https://scryfall.com/card/thb/35/rumbling-sentry?utm_source=api>`"
@@ -462,7 +472,7 @@ msgstr ""
 
 #: ../../TBD.rst:211
 msgid "Enchanted creature gets +1/+1 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma czujność."
 
 #: ../../TBD.rst:213
 msgid "Escape—|mana_w|, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
@@ -491,7 +501,7 @@ msgstr ""
 #: ../../TBD.rst:227
 #: ../../TBD.rst:1599
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../TBD.rst:229
 msgid "Whenever Taranika, Akroan Veteran attacks, untap another target creature you control. Until end of turn, that creature has base power and toughness 4/4 and gains indestructible."
@@ -503,7 +513,7 @@ msgstr ""
 
 #: ../../TBD.rst:235
 msgid "Aura spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Aur kosztuje cię o |mana_1| mniej."
 
 #: ../../TBD.rst:240
 msgid ":mtgtip:`Triumphant Surge<https://img.scryfall.com/cards/border_crop/front/7/5/75d6eb18-a49d-4fa5-a333-78aafbc4abcb.jpg?1578669933|https://scryfall.com/card/thb/41/triumphant-surge?utm_source=api>`"
@@ -540,6 +550,8 @@ msgstr ""
 #: ../../TBD.rst:255
 msgid "Your opponents can't cast spells with the same name as the exiled card."
 msgstr ""
+"Twoi przeciwnicy nie mogą rzucać czarów z taką samą nazwą jak owa wygnana "
+"karta."
 
 #: ../../TBD.rst:257
 msgid "When Ashiok's Erasure leaves the battlefield, return the exiled card to its owner's hand."
@@ -642,6 +654,8 @@ msgstr ""
 #: ../../TBD.rst:1019
 msgid "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)"
 msgstr ""
+"(Umieszczając tę Sagę oraz po kroku dobierania, dodaj znacznik opowieści. "
+"Poświęć po IV.)"
 
 #: ../../TBD.rst:311
 msgid "I — Scry 2."
@@ -790,7 +804,7 @@ msgstr ""
 #: ../../TBD.rst:391
 #: ../../TBD.rst:837
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../TBD.rst:396
 msgid ":mtgtip:`Stern Dismissal<https://img.scryfall.com/cards/border_crop/front/0/a/0aec4d0f-ba1e-45f8-9764-9bcc3fa50e51.jpg?1578670686|https://scryfall.com/card/thb/68/stern-dismissal?utm_source=api>`"
@@ -991,10 +1005,13 @@ msgstr ""
 #: ../../TBD.rst:511
 msgid "This spell costs |mana_x| less to cast, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
 msgstr ""
+"Koszt rzucenia tego czaru jest zmniejszony o |mana_x|, gdzie X jest twoim "
+"kultem czarnego. (Każdy symbol |mana_b| w kosztach permanentów pod twoim "
+"władaniem wlicza się w twój kult czarnego.)"
 
 #: ../../TBD.rst:513
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../TBD.rst:518
 msgid ":mtgtip:`Eat to Extinction<https://img.scryfall.com/cards/border_crop/front/a/0/a0fae55a-6edd-42ea-b909-ccc39a64a0ed.jpg?1578344441|https://scryfall.com/card/thb/90/eat-to-extinction?utm_source=api>`"
@@ -1054,7 +1071,7 @@ msgstr ""
 
 #: ../../TBD.rst:549
 msgid "Target creature gets -X/-X until end of turn. You gain X life."
-msgstr ""
+msgstr "Wskazany stwór dostaje -X/-X do końca tury. Zyskaj X żyć."
 
 #: ../../TBD.rst:551
 msgid "Exile up to twice X target cards from graveyards."
@@ -1066,7 +1083,7 @@ msgstr ""
 
 #: ../../TBD.rst:555
 msgid "Exile target creature."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora."
 
 #: ../../TBD.rst:562
 msgid ":mtgtip:`Fruit of Tizerus<https://img.scryfall.com/cards/border_crop/front/6/6/66e577a0-e5d7-4e6a-919c-d85c2ae819ce.jpg?1578665044|https://scryfall.com/card/thb/96/fruit-of-tizerus?utm_source=api>`"
@@ -1543,7 +1560,7 @@ msgstr ""
 
 #: ../../TBD.rst:829
 msgid "Target creature gets +3/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+2."
 
 #: ../../TBD.rst:838
 msgid ":mtgtip:`Iroas's Blessing<https://img.scryfall.com/cards/border_crop/front/a/b/ab6e99a5-b105-489e-aff6-7d2ca50d8ba9.jpg?1578666487|https://scryfall.com/card/thb/142/iroass-blessing?utm_source=api>`"
@@ -1637,6 +1654,9 @@ msgstr ""
 #: ../../TBD.rst:883
 msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Przejmij władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
+"Dostaje on pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:894
 msgid ":mtgtip:`Purphoros, Bronze-Blooded<https://img.scryfall.com/cards/border_crop/front/a/f/af3af5c4-0960-44a2-976e-abdf7803c436.jpg?1577967505|https://scryfall.com/card/thb/150/purphoros-bronze-blooded?utm_source=api>`"
@@ -1645,6 +1665,8 @@ msgstr ""
 #: ../../TBD.rst:889
 msgid "As long as your devotion to red is less than five, Purphoros isn't a creature."
 msgstr ""
+"Dopóki twój kult czerwonego jest mniejszy niż pięć, Purphoros nie jest "
+"stworem."
 
 #: ../../TBD.rst:891
 msgid "Other creatures you control have haste."
@@ -1908,7 +1930,7 @@ msgstr ""
 
 #: ../../TBD.rst:1031
 msgid "Target creature gets +3/+3 and gains reach until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz zasięg."
 
 #: ../../TBD.rst:1040
 msgid ":mtgtip:`Hydra's Growth<https://img.scryfall.com/cards/border_crop/front/5/1/5112ee2a-a6f3-4280-a915-000a97a9cdef.jpg?1578526037|https://scryfall.com/card/thb/172/hydras-growth?utm_source=api>`"
@@ -1972,7 +1994,7 @@ msgstr ""
 
 #: ../../TBD.rst:1067
 msgid "Enchanted creature gets +4/+4."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +4/+4."
 
 #: ../../TBD.rst:1069
 msgid "When Mantle of the Wolf is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens."
@@ -2036,7 +2058,7 @@ msgstr ""
 
 #: ../../TBD.rst:1105
 msgid "Creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../TBD.rst:1107
 msgid "|mana_2|\\ |mana_g|: Reveal the top card of your library. If it's a creature card, put it into your hand. Otherwise, you may put it into your graveyard."
@@ -2116,7 +2138,7 @@ msgstr ""
 
 #: ../../TBD.rst:1155
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../TBD.rst:1160
 msgid ":mtgtip:`Relentless Pursuit<https://img.scryfall.com/cards/border_crop/front/7/5/752b9560-b1d6-441c-8bc8-bf6988112d25.jpg?1578623660|https://scryfall.com/card/thb/195/relentless-pursuit?utm_source=api>`"
@@ -2228,7 +2250,7 @@ msgstr ""
 
 #: ../../TBD.rst:1219
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../TBD.rst:1221
 msgid "Whenever enchanted land is tapped for mana, its controller adds an additional |mana_g|."
@@ -2317,6 +2339,8 @@ msgstr ""
 #: ../../TBD.rst:1263
 msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Użyj tej many tylko do rzucania czarów "
+"artefaktów lub aktywowania zdolności artefaktów."
 
 #: ../../TBD.rst:1265
 msgid "Equipped creatures you control have flying and haste."
@@ -2484,11 +2508,11 @@ msgstr ""
 
 #: ../../TBD.rst:1355
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedno lub oba —"
 
 #: ../../TBD.rst:1357
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
 
 #: ../../TBD.rst:1359
 msgid "Return target Aura card from your graveyard to the battlefield."
@@ -2568,7 +2592,7 @@ msgstr ""
 
 #: ../../TBD.rst:1401
 msgid "Equipped creature gets +2/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../TBD.rst:1403
 msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)"
@@ -2657,6 +2681,8 @@ msgstr ""
 #: ../../TBD.rst:1447
 msgid "Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../TBD.rst:1452
 msgid ":mtgtip:`Traveler's Amulet<https://img.scryfall.com/cards/border_crop/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1578671045|https://scryfall.com/card/thb/240/travelers-amulet?utm_source=api>`"
@@ -2665,6 +2691,9 @@ msgstr ""
 #: ../../TBD.rst:1451
 msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|mana_1|, poświęć ten artefakt: Poszukaj w twojej bibliotece karty bazowego "
+"lądu, ujawnij ją i dołóż do twojej ręki. Następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../TBD.rst:1460
 msgid ":mtgtip:`Wings of Hubris<https://img.scryfall.com/cards/border_crop/front/e/3/e3ef8f96-3e3c-4b1b-8180-3b38c7deaaff.jpg?1578668312|https://scryfall.com/card/thb/241/wings-of-hubris?utm_source=api>`"
@@ -2690,11 +2719,14 @@ msgstr ""
 #: ../../TBD.rst:1469
 #: ../../TBD.rst:1515
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../TBD.rst:1465
 msgid "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Zniszcz wskazany nie-bazowy ląd pod "
+"władaniem przeciwnika. Każdy gracz szuka w swojej bibliotece kartę bazowego "
+"lądu, umieszcza ją na polu walki, następnie tasuje swoją bibliotekę."
 
 #: ../../TBD.rst:1472
 msgid ":mtgtip:`Labyrinth of Skophos<https://img.scryfall.com/cards/border_crop/front/f/f/ff0dd221-2660-43f6-8e28-8000e3fe72a4.jpg?1578669550|https://scryfall.com/card/thb/243/labyrinth-of-skophos?utm_source=api>`"
@@ -2710,15 +2742,17 @@ msgstr ""
 
 #: ../../TBD.rst:1475
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../TBD.rst:1477
 msgid "When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1479
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../TBD.rst:1488
 msgid ":mtgtip:`Temple of Deceit<https://img.scryfall.com/cards/border_crop/front/e/3/e3d4fd29-dab5-481f-94c9-eeb70f3c29dd.jpg?1577716635|https://scryfall.com/card/thb/245/temple-of-deceit?utm_source=api>`"
@@ -2726,15 +2760,17 @@ msgstr ""
 
 #: ../../TBD.rst:1483
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../TBD.rst:1485
 msgid "When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1487
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../TBD.rst:1496
 msgid ":mtgtip:`Temple of Enlightenment<https://img.scryfall.com/cards/border_crop/front/a/d/adad8390-66d8-4022-a059-c68e44e718fe.jpg?1577716826|https://scryfall.com/card/thb/246/temple-of-enlightenment?utm_source=api>`"
@@ -2742,15 +2778,17 @@ msgstr ""
 
 #: ../../TBD.rst:1491
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../TBD.rst:1493
 msgid "When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1495
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../TBD.rst:1504
 msgid ":mtgtip:`Temple of Malice<https://img.scryfall.com/cards/border_crop/front/9/4/9490a495-9f17-45a8-b10c-7de4fcbd2778.jpg?1577717049|https://scryfall.com/card/thb/247/temple-of-malice?utm_source=api>`"
@@ -2758,15 +2796,17 @@ msgstr ""
 
 #: ../../TBD.rst:1499
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../TBD.rst:1501
 msgid "When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1503
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../TBD.rst:1512
 msgid ":mtgtip:`Temple of Plenty<https://img.scryfall.com/cards/border_crop/front/6/e/6e6256ea-ccb5-4595-8278-44266f922e31.jpg?1577717339|https://scryfall.com/card/thb/248/temple-of-plenty?utm_source=api>`"
@@ -2774,15 +2814,17 @@ msgstr ""
 
 #: ../../TBD.rst:1507
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../TBD.rst:1509
 msgid "When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1511
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../TBD.rst:1518
 msgid ":mtgtip:`Unknown Shores<https://img.scryfall.com/cards/border_crop/front/4/9/492181e4-5825-45d4-b8a1-37f29c32a845.jpg?1578603551|https://scryfall.com/card/thb/249/unknown-shores?utm_source=api>`"
@@ -2790,7 +2832,7 @@ msgstr ""
 
 #: ../../TBD.rst:1517
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../TBD.rst:1522
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1576937884|https://scryfall.com/card/thb/250/plains?utm_source=api>`"
@@ -2798,7 +2840,7 @@ msgstr ""
 
 #: ../../TBD.rst:1521
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../TBD.rst:1526
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1576937872|https://scryfall.com/card/thb/251/island?utm_source=api>`"
@@ -2806,7 +2848,7 @@ msgstr ""
 
 #: ../../TBD.rst:1525
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../TBD.rst:1530
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/0/2/02cb5cfd-018e-4c5e-bef1-166262aa5f1d.jpg?1576937846|https://scryfall.com/card/thb/252/swamp?utm_source=api>`"
@@ -2814,7 +2856,7 @@ msgstr ""
 
 #: ../../TBD.rst:1529
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../TBD.rst:1534
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1576937840|https://scryfall.com/card/thb/253/mountain?utm_source=api>`"
@@ -2830,7 +2872,7 @@ msgstr ""
 
 #: ../../TBD.rst:1537
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../TBD.rst:1548
 msgid ":mtgtip:`Athreos, Shroud-Veiled<https://img.scryfall.com/cards/border_crop/front/8/7/871c19fc-7d99-4022-9e13-d679a9e3547e.jpg?1576663168|https://scryfall.com/card/thb/269/athreos-shroud-veiled?utm_source=api>`"
@@ -2839,6 +2881,8 @@ msgstr ""
 #: ../../TBD.rst:1543
 msgid "As long as your devotion to white and black is less than seven, Athreos isn't a creature."
 msgstr ""
+"Dopóki twój kult czarnego i białego jest mniejszy niż siedem, Atheros nie "
+"jest stworem."
 
 #: ../../TBD.rst:1545
 msgid "At the beginning of your end step, put a coin counter on another target creature."
@@ -2974,7 +3018,7 @@ msgstr ""
 
 #: ../../TBD.rst:1619
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../TBD.rst:1621
 msgid "Whenever Demon of Loathing deals combat damage to a player, that player sacrifices a creature."
@@ -3006,7 +3050,7 @@ msgstr ""
 
 #: ../../TBD.rst:1635
 msgid "Flying, double strike"
-msgstr ""
+msgstr "Latanie, podwójny cios"
 
 #: ../../TBD.rst:1637
 msgid "When Terror of Mount Velus enters the battlefield, creatures you control gain double strike until end of turn."
@@ -3031,4 +3075,3 @@ msgstr ""
 #: ../../TBD.rst:1647
 msgid "When Treeshaker Chimera dies, draw three cards."
 msgstr ""
-
