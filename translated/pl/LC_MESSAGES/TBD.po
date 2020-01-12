@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-12 20:28+0000\n"
+"PO-Revision-Date: 2020-01-13 12:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tbd/"
 "pl/>\n"
@@ -62,6 +62,8 @@ msgid ""
 "When Archon of Falling Stars dies, you may return target enchantment card "
 "from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór umrze, możesz przywrócić wskazaną kartę uroku z twojego "
+"cmentarza na pole walki."
 
 #: ../../TBD.rst:26
 msgid ""
@@ -76,7 +78,7 @@ msgstr "Latanie, więź życia"
 
 #: ../../TBD.rst:23
 msgid "Pegasus creatures you control have lifelink."
-msgstr ""
+msgstr "Pegazy pod twoim władaniem mają więź życia."
 
 #: ../../TBD.rst:25
 msgid ""
@@ -97,6 +99,9 @@ msgid ""
 "an opponent controls until Banishing Light leaves the battlefield. (That "
 "permanent returns under its owner's control.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nielądowy permanent "
+"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki. (Ów "
+"permanent wraca pod władanie swojego właściciela.)"
 
 #: ../../TBD.rst:40
 msgid ""
@@ -119,14 +124,18 @@ msgid ""
 "I — Search your library for a basic Plains card, reveal it, put it into your "
 "hand, then shuffle your library."
 msgstr ""
+"I — Wyszukaj w twojej bibliotece kartę bazowej Równiny, ujawnij ją, umieść "
+"ją w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../TBD.rst:37
 msgid "II — Create a 0/4 colorless Wall artifact creature token with defender."
 msgstr ""
+"II — Stwórz żeton bezkolorowego artefaktycznego stwora Ściana 0/4 z "
+"obronnością."
 
 #: ../../TBD.rst:39
 msgid "III — You gain 2 life."
-msgstr ""
+msgstr "III — Zyskaj 2 życia."
 
 #: ../../TBD.rst:44
 msgid ""
@@ -161,6 +170,8 @@ msgid ""
 "creature deals combat damage to a player, create a 1/1 white Human Soldier "
 "creature token.\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma pierwszy cios oraz \"Ilekroć ten stwór "
+"zadaje graczowi obrażenia bojowe, stwórz żeton białego stwora Piechur 1/1.\""
 
 #: ../../TBD.rst:54
 msgid ""
@@ -175,6 +186,9 @@ msgid ""
 "target creature card with converted mana cost 2 or less from your graveyard "
 "to your hand."
 msgstr ""
+"Ilekroć umrze stwór, jeśli miał dołączoną Aurę pod twoim władaniem, przywróć "
+"wskazaną kartę stwora o skróconym koszcie many 2 lub mniejszym z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../TBD.rst:60
 msgid ""
@@ -188,12 +202,17 @@ msgid ""
 "Daxos's toughness is equal to your devotion to white. (Each |mana_w| in the "
 "mana costs of permanents you control counts toward your devotion to white.)"
 msgstr ""
+"Wytrzymałość tej karty jest równa twojemu kultowi białego. (Każdy symbol "
+"|mana_w| w kosztach permanentów pod twoim władaniem wlicza się do twojego "
+"kultu białego.)"
 
 #: ../../TBD.rst:59
 msgid ""
 "Whenever another creature you control enters the battlefield or dies, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć inny stwór pod twoim władaniem wejdzie na pole walki lub umrze, "
+"zyskaj 1 życie."
 
 #: ../../TBD.rst:66
 msgid ""
@@ -208,6 +227,9 @@ msgid ""
 "(Each |mana_w| in the mana costs of permanents you control counts towards "
 "your devotion to white.)"
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest twoim kultem "
+"białego. (Każdy symbol |mana_w| w kosztach permanentów pod twoim władaniem "
+"wlicza się do twojego kultu białego.)"
 
 #: ../../TBD.rst:74
 msgid ""
@@ -347,6 +369,7 @@ msgstr "Niezniszczalność"
 msgid ""
 "As long as your devotion to white is less than five, Heliod isn't a creature."
 msgstr ""
+"Dopóki twój kult białego jest mniejszy niż pięć, ta karta nie jest stworem."
 
 #: ../../TBD.rst:117
 msgid ""
@@ -579,6 +602,10 @@ msgid ""
 "mana_w| in the mana costs of permanents you control counts toward your "
 "devotion to white.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów białego stwora "
+"Człowiek Piechur 1/1, ile wynosi twój kult białego. (Każdy symbol |mana_w| w "
+"kosztach permanentów pod twoim władaniem wlicza się do twojego kultu "
+"białego.)"
 
 #: ../../TBD.rst:202
 msgid ""
@@ -754,6 +781,9 @@ msgid ""
 "Callaphe's power is equal to your to devotion to blue. (Each |mana_u| in the "
 "mana costs of permanents you control counts toward your devotion to blue.)"
 msgstr ""
+"Siła tej karty jest równa twojemu kultowi niebieskiego. (Każdy symbol "
+"|mana_u| w kosztach permanentów pod twoim władaniem wlicza się do twojego "
+"kultu niebieskiego.)"
 
 #: ../../TBD.rst:267
 msgid ""
@@ -1143,6 +1173,8 @@ msgstr ""
 msgid ""
 "As long as your devotion to blue is less than five, Thassa isn't a creature."
 msgstr ""
+"Dopóki twój kult niebieskiego jest mniejszy niż pięć, ta karta nie jest "
+"stworem."
 
 #: ../../TBD.rst:413
 msgid ""
@@ -1191,6 +1223,12 @@ msgid ""
 "win the game. (Each |mana_u| in the mana costs of permanents you control "
 "counts toward your devotion to blue.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na X wierzchnich kart twojej "
+"biblioteki, gdzie X jest twoim kultem niebieskiego. Umieść co najwyżej jedną "
+"z nich na wierzchu twojej biblioteki, a pozostałe na spodzie twojej "
+"biblioteki w losowej kolejności. Jeśli X jest większe lub równe liczbie kart "
+"w twojej bibliotece, wygrywasz grę. (Każdy symbol |mana_u| w kosztach "
+"permanentów pod twoim władaniem wlicza się do twojego kultu niebieskiego.)"
 
 #: ../../TBD.rst:432
 msgid ""
@@ -1219,6 +1257,10 @@ msgid ""
 "(Each |mana_u| in the mana costs of permanents you control counts towards "
 "your devotion to blue.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -X/-0, gdzie X jest twoim kultem "
+"niebieskiego. (Każdy symbol |mana_u| w kosztach permanentów pod twoim "
+"władaniem wlicza się do twojego kultu niebieskiego.)"
 
 #: ../../TBD.rst:448
 msgid ""
@@ -1359,6 +1401,10 @@ msgid ""
 "black. (Each |mana_b| in the mana costs of permanents you control counts "
 "toward your devotion to black.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -X/-X, gdzie X jest twoim kultem czarnego. "
+"(Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem wlicza się "
+"do twojego kultu czarnego.)"
 
 #: ../../TBD.rst:504
 msgid ""
@@ -1472,6 +1518,7 @@ msgstr ""
 msgid ""
 "As long as your devotion to black is less than five, Erebos isn't a creature."
 msgstr ""
+"Dopóki twój kult czarnego jest mniejszy niż pięć, ta karta nie jest stworem."
 
 #: ../../TBD.rst:541
 msgid ""
@@ -1572,6 +1619,10 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci X życia, gdzie "
+"X jest twoim kultem czarnego. Zyskaj tyle życia, ile stracono w ten sposób. ("
+"Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem wlicza się "
+"do twojego kultu czarnego.)"
 
 #: ../../TBD.rst:582
 msgid ""
@@ -1860,6 +1911,9 @@ msgid ""
 "the mana costs of permanents you control counts toward your devotion to "
 "black.)"
 msgstr ""
+"Wytrzymałość tej karty jest równa twojemu kultowi czarnego. (Każdy symbol "
+"|mana_b| w kosztach permanentów pod twoim władaniem wlicza się do twojego "
+"kultu czarnego.)"
 
 #: ../../TBD.rst:697
 msgid ""
@@ -1976,6 +2030,9 @@ msgid ""
 "Anax's power is equal to your devotion to red. (Each |mana_r| in the mana "
 "costs of permanents you control counts toward your devotion to red.)"
 msgstr ""
+"Siła tej karty jest równa twojemu kultowi czerwonego. (Każdy symbol |mana_r| "
+"w kosztach permanentów pod twoim władaniem wlicza się do twojego kultu "
+"czerwonego.)"
 
 #: ../../TBD.rst:741
 msgid ""
@@ -2371,7 +2428,7 @@ msgid ""
 "As long as your devotion to red is less than five, Purphoros isn't a "
 "creature."
 msgstr ""
-"Dopóki twój kult czerwonego jest mniejszy niż pięć, Purphoros nie jest "
+"Dopóki twój kult czerwonego jest mniejszy niż pięć, ta karta nie jest "
 "stworem."
 
 #: ../../TBD.rst:891
@@ -2822,6 +2879,9 @@ msgid ""
 "to green. (Each |mana_g| in the mana costs of permanents you control counts "
 "toward your devotion to green.)"
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +X/+X, gdzie X jest twoim "
+"kultem zielonego. (Każdy symbol |mana_g| w kosztach permanentów pod twoim "
+"władaniem wlicza się do twojego kultu zielonego.)"
 
 #: ../../TBD.rst:1062
 msgid ""
@@ -2944,6 +3004,7 @@ msgstr ""
 msgid ""
 "As long as your devotion to green is less than five, Nylea isn't a creature."
 msgstr ""
+"Dopóki twój kult zielonego jest mniejszy niż pięć, ta karta nie jest stworem."
 
 #: ../../TBD.rst:1105
 msgid "Creature spells you cast cost |mana_1| less to cast."
@@ -2980,6 +3041,10 @@ msgid ""
 "mana_g| in the mana costs of permanents you control counts towards your "
 "devotion to green.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"dostaje do końca tury +X/+0, gdzie X jest twoim kultem zielonego. (Każdy "
+"symbol |mana_g| w kosztach permanentów pod twoim władaniem wlicza się do "
+"twojego kultu zielonego.)"
 
 #: ../../TBD.rst:1126
 msgid ""
@@ -3101,6 +3166,9 @@ msgid ""
 "Renata's power is equal to your devotion to green. (Each |mana_g| in the "
 "mana costs of permanents you control counts towards your devotion to green.)"
 msgstr ""
+"Siła tej karty jest równa twojemu kultowi zielonego. (Każdy symbol |mana_g| "
+"w kosztach permanentów pod twoim władaniem wlicza się do twojego kultu "
+"zielonego.)"
 
 #: ../../TBD.rst:1165
 msgid ""
@@ -3149,6 +3217,9 @@ msgid ""
 "devotion to green. (Each |mana_g| in the mana costs of permanents you "
 "control counts toward your devotion to green.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskaj tyle życia, ile wynosi twój "
+"kult zielonego. (Każdy symbol |mana_g| w kosztach permanentów pod twoim "
+"władaniem wlicza się do twojego kultu zielonego.)"
 
 #: ../../TBD.rst:1188
 msgid ""
@@ -3537,6 +3608,8 @@ msgid ""
 "As long as your devotion to red and green is less than seven, Klothys isn't "
 "a creature."
 msgstr ""
+"Dopóki twój kult czerwonego i zielonego jest mniejszy niż siedem, ta karta "
+"nie jest stworem."
 
 #: ../../TBD.rst:1319
 msgid ""
@@ -3755,6 +3828,8 @@ msgid ""
 "Your devotion to each color and each combination of colors is increased by "
 "one."
 msgstr ""
+"Twój kult do każdego z kolorów i każdej kombinacji kolorów jest podniesiony "
+"o jeden."
 
 #: ../../TBD.rst:1397
 msgid ""
@@ -3834,6 +3909,9 @@ msgid ""
 "devotion to that color. (Your devotion to a color is the number of mana "
 "symbols of that color in the mana costs of permanents you control.)"
 msgstr ""
+"|tap|: Wybierz kolor. Weź tyle many tego koloru, ile wynosi twój kult tego "
+"koloru. (Twój kult danego koloru to liczba symboli many owego koloru w "
+"kosztach many permanentów pod twoim władaniem.)"
 
 #: ../../TBD.rst:1430
 msgid ""
@@ -4173,7 +4251,7 @@ msgid ""
 "As long as your devotion to white and black is less than seven, Athreos "
 "isn't a creature."
 msgstr ""
-"Dopóki twój kult czarnego i białego jest mniejszy niż siedem, Atheros nie "
+"Dopóki twój kult czarnego i białego jest mniejszy niż siedem, ta karta nie "
 "jest stworem."
 
 #: ../../TBD.rst:1547
@@ -4210,6 +4288,8 @@ msgid ""
 "−8: Until end of turn, creatures you control gain flying and get +X/+X, "
 "where X is your devotion to white."
 msgstr ""
+"–8: Do końca tury stwory pod twoim władaniem dostają latanie i +X/+X, gdzie "
+"X jest twoim kultem białego."
 
 #: ../../TBD.rst:1562
 msgid ""
