@@ -7,13 +7,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 20:58+0100\n"
+"POT-Creation-Date: 2020-01-12 21:37+0100\n"
 "PO-Revision-Date: 2019-07-14 19:57+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ala/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
@@ -26,52 +26,54 @@ msgstr ""
 
 #: ../../ALA.rst:10
 msgid ""
-":mtgtip:`Akrasan "
-"Squire<https://img.scryfall.com/cards/border_crop/en/ala/1.jpg?1517813031|https://scryfall.com/card/ala/1"
-"/akrasan-squire?utm_source=api>`"
+":mtgtip:`Akrasan Squire<https://img.scryfall.com/cards/border_crop/"
+"front/5/9/59fdc045-b938-4321-aec3-51685cbbaa52.jpg?1562704299|https://"
+"scryfall.com/card/ala/1/akrasan-squire?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:9 ../../ALA.rst:17 ../../ALA.rst:37 ../../ALA.rst:69
 #: ../../ALA.rst:139 ../../ALA.rst:147 ../../ALA.rst:203 ../../ALA.rst:269
 #: ../../ALA.rst:655 ../../ALA.rst:749 ../../ALA.rst:983 ../../ALA.rst:1097
 msgid ""
-"Exalted (Whenever a creature you control attacks alone, that creature "
-"gets +1/+1 until end of turn.)"
+"Exalted (Whenever a creature you control attacks alone, that creature gets "
+"+1/+1 until end of turn.)"
 msgstr ""
 "Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
 "dostaje +1/+1 do końca tury.)"
 
 #: ../../ALA.rst:14
 msgid ""
-":mtgtip:`Angel's "
-"Herald<https://img.scryfall.com/cards/border_crop/en/ala/2.jpg?1517813031|https://scryfall.com/card/ala/2"
-"/angels-herald?utm_source=api>`"
+":mtgtip:`Angel's Herald<https://img.scryfall.com/cards/border_crop/"
+"front/3/6/36197ed0-4382-4de3-8359-73cb74edc78b.jpg?1562702758|https://"
+"scryfall.com/card/ala/2/angels-herald?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:13
 msgid ""
-"|mana_2|\\ |mana_w|, |tap|, Sacrifice a green creature, a white creature,"
-" and a blue creature: Search your library for a card named Empyrial "
-"Archangel and put it onto the battlefield. Then shuffle your library."
+"|mana_2|\\ |mana_w|, |tap|, Sacrifice a green creature, a white creature, "
+"and a blue creature: Search your library for a card named Empyrial Archangel "
+"and put it onto the battlefield. Then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:20
 msgid ""
-":mtgtip:`Angelic "
-"Benediction<https://img.scryfall.com/cards/border_crop/en/ala/3.jpg?1517813031|https://scryfall.com/card/ala/3"
-"/angelic-benediction?utm_source=api>`"
+":mtgtip:`Angelic Benediction<https://img.scryfall.com/cards/border_crop/"
+"front/d/d/dd1b9071-7dde-4128-8b18-1d7b07904638.jpg?1562709790|https://"
+"scryfall.com/card/ala/3/angelic-benediction?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:19
 msgid ""
-"Whenever a creature you control attacks alone, you may tap target "
-"creature."
+"Whenever a creature you control attacks alone, you may tap target creature."
 msgstr ""
 "Ilekroć stwór pod twoim władaniem atakuje samotnie, możesz przekręcić "
 "wskazanego stwora."
 
 #: ../../ALA.rst:26
-msgid ":mtgtip:`Angelsong<https://img.scryfall.com/cards/border_crop/en/ala/4.jpg?1517813031|https://scryfall.com/card/ala/4/angelsong?utm_source=api>`"
+msgid ""
+":mtgtip:`Angelsong<https://img.scryfall.com/cards/border_crop/"
+"front/0/8/0832e87f-afef-41a5-ba36-3eaf65551576.jpg?1562700883|https://"
+"scryfall.com/card/ala/4/angelsong?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:23
@@ -86,9 +88,9 @@ msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../ALA.rst:32
 msgid ""
-":mtgtip:`Bant "
-"Battlemage<https://img.scryfall.com/cards/border_crop/en/ala/5.jpg?1517813031|https://scryfall.com/card/ala/5"
-"/bant-battlemage?utm_source=api>`"
+":mtgtip:`Bant Battlemage<https://img.scryfall.com/cards/border_crop/front/2/"
+"c/2c597b1d-d8b5-4922-a3f2-1f173a73ea2a.jpg?1562702304|https://scryfall.com/"
+"card/ala/5/bant-battlemage?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:29
@@ -101,9 +103,9 @@ msgstr ""
 
 #: ../../ALA.rst:40
 msgid ""
-":mtgtip:`Battlegrace "
-"Angel<https://img.scryfall.com/cards/border_crop/en/ala/6.jpg?1517813031|https://scryfall.com/card/ala/6"
-"/battlegrace-angel?utm_source=api>`"
+":mtgtip:`Battlegrace Angel<https://img.scryfall.com/cards/border_crop/front/"
+"b/9/b9be1142-3ba8-4915-9541-757e59ed046c.jpg?1562708276|https://scryfall.com/"
+"card/ala/6/battlegrace-angel?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:35 ../../ALA.rst:73 ../../ALA.rst:129 ../../ALA.rst:161
@@ -116,41 +118,41 @@ msgstr "Latanie"
 
 #: ../../ALA.rst:39
 msgid ""
-"Whenever a creature you control attacks alone, it gains lifelink until "
-"end of turn."
+"Whenever a creature you control attacks alone, it gains lifelink until end "
+"of turn."
 msgstr ""
 
 #: ../../ALA.rst:44
 msgid ""
-":mtgtip:`Cradle of "
-"Vitality<https://img.scryfall.com/cards/border_crop/en/ala/7.jpg?1517813031|https://scryfall.com/card/ala/7"
-"/cradle-of-vitality?utm_source=api>`"
+":mtgtip:`Cradle of Vitality<https://img.scryfall.com/cards/border_crop/front/"
+"c/5/c5e54ce5-b496-4669-af2b-04a41ba20423.jpg?1562708795|https://scryfall.com/"
+"card/ala/7/cradle-of-vitality?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:43
 msgid ""
-"Whenever you gain life, you may pay |mana_1|\\ |mana_w|. If you do, put a"
-" +1/+1 counter on target creature for each 1 life you gained."
+"Whenever you gain life, you may pay |mana_1|\\ |mana_w|. If you do, put a +1/"
+"+1 counter on target creature for each 1 life you gained."
 msgstr ""
 
 #: ../../ALA.rst:48
 msgid ""
-":mtgtip:`Dispeller's "
-"Capsule<https://img.scryfall.com/cards/border_crop/en/ala/8.jpg?1517813031|https://scryfall.com/card/ala/8"
-"/dispellers-capsule?utm_source=api>`"
+":mtgtip:`Dispeller's Capsule<https://img.scryfall.com/cards/border_crop/"
+"front/d/3/d3cf0771-10d6-427a-b4e5-3e1d4db14667.jpg?1562709385|https://"
+"scryfall.com/card/ala/8/dispellers-capsule?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:47
 msgid ""
-"|mana_2|\\ |mana_w|, |tap|, Sacrifice Dispeller's Capsule: Destroy target"
-" artifact or enchantment."
+"|mana_2|\\ |mana_w|, |tap|, Sacrifice Dispeller's Capsule: Destroy target "
+"artifact or enchantment."
 msgstr ""
 
 #: ../../ALA.rst:56
 msgid ""
-":mtgtip:`Elspeth, Knight-"
-"Errant<https://img.scryfall.com/cards/border_crop/en/ala/9.jpg?1517813031|https://scryfall.com/card/ala/9"
-"/elspeth-knight-errant?utm_source=api>`"
+":mtgtip:`Elspeth, Knight-Errant<https://img.scryfall.com/cards/border_crop/"
+"front/4/4/44c52e52-2b1c-4ca8-ab6d-20d97a342704.jpg?1562703288|https://"
+"scryfall.com/card/ala/9/elspeth-knight-errant?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:51
@@ -163,25 +165,28 @@ msgstr ""
 
 #: ../../ALA.rst:55
 msgid ""
-"−8: You get an emblem with \"Artifacts, creatures, enchantments, and "
-"lands you control have indestructible.\""
+"−8: You get an emblem with \"Artifacts, creatures, enchantments, and lands "
+"you control have indestructible.\""
 msgstr ""
 
 #: ../../ALA.rst:60
 msgid ""
-":mtgtip:`Ethersworn "
-"Canonist<https://img.scryfall.com/cards/border_crop/en/ala/10.jpg?1517813031|https://scryfall.com/card/ala/10"
-"/ethersworn-canonist?utm_source=api>`"
+":mtgtip:`Ethersworn Canonist<https://img.scryfall.com/cards/border_crop/"
+"front/2/a/2aebe7a8-b982-4be4-83ca-3594e8f606b4.jpg?1562702262|https://"
+"scryfall.com/card/ala/10/ethersworn-canonist?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:59
 msgid ""
-"Each player who has cast a nonartifact spell this turn can't cast "
-"additional nonartifact spells."
+"Each player who has cast a nonartifact spell this turn can't cast additional "
+"nonartifact spells."
 msgstr ""
 
 #: ../../ALA.rst:64
-msgid ":mtgtip:`Excommunicate<https://img.scryfall.com/cards/border_crop/en/ala/11.jpg?1517813031|https://scryfall.com/card/ala/11/excommunicate?utm_source=api>`"
+msgid ""
+":mtgtip:`Excommunicate<https://img.scryfall.com/cards/border_crop/front/6/"
+"f/6fe080bc-e642-4fce-b4ee-bbe25d735673.jpg?1562705237|https://scryfall.com/"
+"card/ala/11/excommunicate?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:63
@@ -190,9 +195,9 @@ msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 #: ../../ALA.rst:70
 msgid ""
-":mtgtip:`Guardians of "
-"Akrasa<https://img.scryfall.com/cards/border_crop/en/ala/12.jpg?1517813031|https://scryfall.com/card/ala/12"
-"/guardians-of-akrasa?utm_source=api>`"
+":mtgtip:`Guardians of Akrasa<https://img.scryfall.com/cards/border_crop/"
+"front/4/f/4f718030-cc41-4e0d-a1ca-a33f577dc1fb.jpg?1562703787|https://"
+"scryfall.com/card/ala/12/guardians-of-akrasa?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:67
@@ -201,22 +206,22 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../ALA.rst:76
 msgid ""
-":mtgtip:`Gustrider "
-"Exuberant<https://img.scryfall.com/cards/border_crop/en/ala/13.jpg?1517813031|https://scryfall.com/card/ala/13"
-"/gustrider-exuberant?utm_source=api>`"
+":mtgtip:`Gustrider Exuberant<https://img.scryfall.com/cards/border_crop/"
+"front/5/3/5343e6f2-7db7-4731-8e1b-70bf74316a79.jpg?1562703989|https://"
+"scryfall.com/card/ala/13/gustrider-exuberant?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:75
 msgid ""
-"Sacrifice Gustrider Exuberant: Creatures you control with power 5 or "
-"greater gain flying until end of turn."
+"Sacrifice Gustrider Exuberant: Creatures you control with power 5 or greater "
+"gain flying until end of turn."
 msgstr ""
 
 #: ../../ALA.rst:80
 msgid ""
-":mtgtip:`Invincible "
-"Hymn<https://img.scryfall.com/cards/border_crop/en/ala/14.jpg?1517813031|https://scryfall.com/card/ala/14"
-"/invincible-hymn?utm_source=api>`"
+":mtgtip:`Invincible Hymn<https://img.scryfall.com/cards/border_crop/"
+"front/7/1/712c64bc-ba0c-4bab-9329-54805f4efa8a.jpg?1562705286|https://"
+"scryfall.com/card/ala/14/invincible-hymn?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:79
@@ -227,22 +232,22 @@ msgstr ""
 
 #: ../../ALA.rst:84
 msgid ""
-":mtgtip:`Knight of the Skyward "
-"Eye<https://img.scryfall.com/cards/border_crop/en/ala/15.jpg?1517813031|https://scryfall.com/card/ala/15"
-"/knight-of-the-skyward-eye?utm_source=api>`"
+":mtgtip:`Knight of the Skyward Eye<https://img.scryfall.com/cards/"
+"border_crop/front/1/d/1d56e2bf-1937-42c1-8f61-1fd93e84cef7.jpg?1562701686|"
+"https://scryfall.com/card/ala/15/knight-of-the-skyward-eye?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:83
 msgid ""
-"|mana_3|\\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of "
-"turn. Activate this ability only once each turn."
+"|mana_3|\\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of turn. "
+"Activate this ability only once each turn."
 msgstr ""
 
 #: ../../ALA.rst:90
 msgid ""
-":mtgtip:`Knight of the White "
-"Orchid<https://img.scryfall.com/cards/border_crop/en/ala/16.jpg?1517813031|https://scryfall.com/card/ala/16"
-"/knight-of-the-white-orchid?utm_source=api>`"
+":mtgtip:`Knight of the White Orchid<https://img.scryfall.com/cards/"
+"border_crop/front/6/4/642c6354-4dab-45c9-a1a6-57bd16f16e30.jpg?1562704745|"
+"https://scryfall.com/card/ala/16/knight-of-the-white-orchid?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:87 ../../ALA.rst:145 ../../ALA.rst:585 ../../ALA.rst:859
@@ -253,15 +258,15 @@ msgstr "Pierwszy cios"
 #: ../../ALA.rst:89
 msgid ""
 "When Knight of the White Orchid enters the battlefield, if an opponent "
-"controls more lands than you, you may search your library for a Plains "
-"card, put it onto the battlefield, then shuffle your library."
+"controls more lands than you, you may search your library for a Plains card, "
+"put it onto the battlefield, then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:96
 msgid ""
-":mtgtip:`Knight-Captain of "
-"Eos<https://img.scryfall.com/cards/border_crop/en/ala/17.jpg?1517813031|https://scryfall.com/card/ala/17"
-"/knight-captain-of-eos?utm_source=api>`"
+":mtgtip:`Knight-Captain of Eos<https://img.scryfall.com/cards/border_crop/"
+"front/0/2/02ef25ce-4d6a-45ff-8b6b-fd5c29307099.jpg?1562700645|https://"
+"scryfall.com/card/ala/17/knight-captain-of-eos?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:93
@@ -272,15 +277,15 @@ msgstr ""
 
 #: ../../ALA.rst:95
 msgid ""
-"|mana_w|, Sacrifice a Soldier: Prevent all combat damage that would be "
-"dealt this turn."
+"|mana_w|, Sacrifice a Soldier: Prevent all combat damage that would be dealt "
+"this turn."
 msgstr ""
 
 #: ../../ALA.rst:100
 msgid ""
-":mtgtip:`Marble "
-"Chalice<https://img.scryfall.com/cards/border_crop/en/ala/18.jpg?1517813031|https://scryfall.com/card/ala/18"
-"/marble-chalice?utm_source=api>`"
+":mtgtip:`Marble Chalice<https://img.scryfall.com/cards/border_crop/front/b/7/"
+"b76e9580-9154-476b-923f-b23bf55db026.jpg?1562708194|https://scryfall.com/"
+"card/ala/18/marble-chalice?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:99
@@ -288,7 +293,10 @@ msgid "|tap|: You gain 1 life."
 msgstr "|tap|: Zyskaj 1 życie."
 
 #: ../../ALA.rst:104
-msgid ":mtgtip:`Metallurgeon<https://img.scryfall.com/cards/border_crop/en/ala/19.jpg?1517813031|https://scryfall.com/card/ala/19/metallurgeon?utm_source=api>`"
+msgid ""
+":mtgtip:`Metallurgeon<https://img.scryfall.com/cards/border_crop/front/4/"
+"a/4ad9f9d5-62c1-4dae-a2c8-5552210a70a4.jpg?1562703587|https://scryfall.com/"
+"card/ala/19/metallurgeon?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:103
@@ -297,9 +305,9 @@ msgstr ""
 
 #: ../../ALA.rst:110
 msgid ""
-":mtgtip:`Oblivion "
-"Ring<https://img.scryfall.com/cards/border_crop/en/ala/20.jpg?1517813031|https://scryfall.com/card/ala/20"
-"/oblivion-ring?utm_source=api>`"
+":mtgtip:`Oblivion Ring<https://img.scryfall.com/cards/border_crop/"
+"front/8/9/895c270d-84d8-4c7f-9df3-5a595e113dd7.jpg?1562706339|https://"
+"scryfall.com/card/ala/20/oblivion-ring?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:107
@@ -316,23 +324,23 @@ msgstr ""
 
 #: ../../ALA.rst:114
 msgid ""
-":mtgtip:`Ranger of "
-"Eos<https://img.scryfall.com/cards/border_crop/en/ala/21.jpg?1528749705|https://scryfall.com/card/ala/21"
-"/ranger-of-eos?utm_source=api>`"
+":mtgtip:`Ranger of Eos<https://img.scryfall.com/cards/border_crop/front/1/"
+"a/1a30ee26-5f78-4ac2-9105-1baa9ece8a21.jpg?1562701584|https://scryfall.com/"
+"card/ala/21/ranger-of-eos?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:113
 msgid ""
-"When Ranger of Eos enters the battlefield, you may search your library "
-"for up to two creature cards with converted mana cost 1 or less, reveal "
-"them, and put them into your hand. If you do, shuffle your library."
+"When Ranger of Eos enters the battlefield, you may search your library for "
+"up to two creature cards with converted mana cost 1 or less, reveal them, "
+"and put them into your hand. If you do, shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:122
 msgid ""
-":mtgtip:`Resounding "
-"Silence<https://img.scryfall.com/cards/border_crop/en/ala/22.jpg?1517813031|https://scryfall.com/card/ala/22"
-"/resounding-silence?utm_source=api>`"
+":mtgtip:`Resounding Silence<https://img.scryfall.com/cards/border_crop/"
+"front/5/b/5b3b0908-5408-41fd-8e69-2bc785e19304.jpg?1562704325|https://"
+"scryfall.com/card/ala/22/resounding-silence?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:117
@@ -341,8 +349,8 @@ msgstr ""
 
 #: ../../ALA.rst:119
 msgid ""
-"Cycling |mana_5|\\ |mana_g|\\ |mana_w|\\ |mana_u| (|mana_5|\\ |mana_g|\\ "
-"|mana_w|\\ |mana_u|, Discard this card: Draw a card.)"
+"Cycling |mana_5|\\ |mana_g|\\ |mana_w|\\ |mana_u| (|mana_5|\\ |mana_g|\\ |"
+"mana_w|\\ |mana_u|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../ALA.rst:121
@@ -353,65 +361,68 @@ msgstr ""
 
 #: ../../ALA.rst:126
 msgid ""
-":mtgtip:`Rockcaster "
-"Platoon<https://img.scryfall.com/cards/border_crop/en/ala/23.jpg?1517813031|https://scryfall.com/card/ala/23"
-"/rockcaster-platoon?utm_source=api>`"
+":mtgtip:`Rockcaster Platoon<https://img.scryfall.com/cards/border_crop/"
+"front/4/a/4ab62812-acc5-4b4b-97d3-106e399d69da.jpg?1562703576|https://"
+"scryfall.com/card/ala/23/rockcaster-platoon?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:125
 msgid ""
-"|mana_4|\\ |mana_g|: Rockcaster Platoon deals 2 damage to each creature "
-"with flying and each player."
+"|mana_4|\\ |mana_g|: Rockcaster Platoon deals 2 damage to each creature with "
+"flying and each player."
 msgstr ""
 
 #: ../../ALA.rst:132
 msgid ""
-":mtgtip:`Sanctum "
-"Gargoyle<https://img.scryfall.com/cards/border_crop/en/ala/24.jpg?1517813031|https://scryfall.com/card/ala/24"
-"/sanctum-gargoyle?utm_source=api>`"
+":mtgtip:`Sanctum Gargoyle<https://img.scryfall.com/cards/border_crop/front/1/"
+"d/1da1a2d5-d1fe-4aa2-aa83-64d6c269f7bc.jpg?1562701688|https://scryfall.com/"
+"card/ala/24/sanctum-gargoyle?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:131
 msgid ""
-"When Sanctum Gargoyle enters the battlefield, you may return target "
-"artifact card from your graveyard to your hand."
+"When Sanctum Gargoyle enters the battlefield, you may return target artifact "
+"card from your graveyard to your hand."
 msgstr ""
 
 #: ../../ALA.rst:136
-msgid ":mtgtip:`Scourglass<https://img.scryfall.com/cards/border_crop/en/ala/25.jpg?1517813031|https://scryfall.com/card/ala/25/scourglass?utm_source=api>`"
+msgid ""
+":mtgtip:`Scourglass<https://img.scryfall.com/cards/border_crop/front/b/8/"
+"b8993b57-3060-45ca-80ed-3366784ec61d.jpg?1562708227|https://scryfall.com/"
+"card/ala/25/scourglass?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:135
 msgid ""
-"|tap|, Sacrifice Scourglass: Destroy all permanents except for artifacts "
-"and lands. Activate this ability only during your upkeep."
+"|tap|, Sacrifice Scourglass: Destroy all permanents except for artifacts and "
+"lands. Activate this ability only during your upkeep."
 msgstr ""
 
 #: ../../ALA.rst:142
 msgid ""
-":mtgtip:`Sighted-Caste "
-"Sorcerer<https://img.scryfall.com/cards/border_crop/en/ala/26.jpg?1517813031|https://scryfall.com/card/ala/26"
-"/sighted-caste-sorcerer?utm_source=api>`"
+":mtgtip:`Sighted-Caste Sorcerer<https://img.scryfall.com/cards/border_crop/"
+"front/d/0/d07e2d4c-a33b-42b1-9576-2269d137a868.jpg?1562709205|https://"
+"scryfall.com/card/ala/26/sighted-caste-sorcerer?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:141
 msgid ""
-"|mana_u|: Sighted-Caste Sorcerer gains shroud until end of turn. (It "
-"can't be the target of spells or abilities.)"
+"|mana_u|: Sighted-Caste Sorcerer gains shroud until end of turn. (It can't "
+"be the target of spells or abilities.)"
 msgstr ""
 
 #: ../../ALA.rst:148
 msgid ""
-":mtgtip:`Sigiled "
-"Paladin<https://img.scryfall.com/cards/border_crop/en/ala/27.jpg?1517813031|https://scryfall.com/card/ala/27"
-"/sigiled-paladin?utm_source=api>`"
+":mtgtip:`Sigiled Paladin<https://img.scryfall.com/cards/border_crop/front/4/"
+"b/4b22520d-c495-4528-9b24-4aa19e046a9e.jpg?1562703599|https://scryfall.com/"
+"card/ala/27/sigiled-paladin?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:152
 msgid ""
-":mtgtip:`Soul's "
-"Grace<https://img.scryfall.com/cards/border_crop/en/ala/28.jpg?1517813031|https://scryfall.com/card/ala/28"
-"/souls-grace?utm_source=api>`"
+":mtgtip:`Soul's Grace<https://img.scryfall.com/cards/border_crop/front/3/"
+"d/3d2e8701-f2c3-4cc1-ac81-ba1987d80fec.jpg?1562702998|https://scryfall.com/"
+"card/ala/28/souls-grace?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:151
@@ -420,15 +431,15 @@ msgstr ""
 
 #: ../../ALA.rst:158
 msgid ""
-":mtgtip:`Sunseed "
-"Nurturer<https://img.scryfall.com/cards/border_crop/en/ala/29.jpg?1517813031|https://scryfall.com/card/ala/29"
-"/sunseed-nurturer?utm_source=api>`"
+":mtgtip:`Sunseed Nurturer<https://img.scryfall.com/cards/border_crop/front/9/"
+"d/9d44447e-09d1-450f-907f-42f79b004fe7.jpg?1562707122|https://scryfall.com/"
+"card/ala/29/sunseed-nurturer?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:155
 msgid ""
-"At the beginning of your end step, if you control a creature with power 5"
-" or greater, you may gain 2 life."
+"At the beginning of your end step, if you control a creature with power 5 or "
+"greater, you may gain 2 life."
 msgstr ""
 
 #: ../../ALA.rst:157 ../../ALA.rst:515 ../../ALA.rst:669 ../../ALA.rst:1167
@@ -438,9 +449,9 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../ALA.rst:164
 msgid ""
-":mtgtip:`Welkin "
-"Guide<https://img.scryfall.com/cards/border_crop/en/ala/30.jpg?1517813031|https://scryfall.com/card/ala/30"
-"/welkin-guide?utm_source=api>`"
+":mtgtip:`Welkin Guide<https://img.scryfall.com/cards/border_crop/"
+"front/1/9/198363f2-1a19-4954-b527-6d10ac277719.jpg?1562701540|https://"
+"scryfall.com/card/ala/30/welkin-guide?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:163
@@ -451,24 +462,28 @@ msgstr ""
 
 #: ../../ALA.rst:168
 msgid ""
-":mtgtip:`Yoked "
-"Plowbeast<https://img.scryfall.com/cards/border_crop/en/ala/31.jpg?1517813031|https://scryfall.com/card/ala/31"
-"/yoked-plowbeast?utm_source=api>`"
+":mtgtip:`Yoked Plowbeast<https://img.scryfall.com/cards/border_crop/front/d/"
+"d/ddbbc7dc-efdf-46e8-bf19-0daa4034f6ec.jpg?1562709823|https://scryfall.com/"
+"card/ala/31/yoked-plowbeast?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:172
 msgid ""
-":mtgtip:`Call to "
-"Heel<https://img.scryfall.com/cards/border_crop/en/ala/32.jpg?1517813031|https://scryfall.com/card/ala/32"
-"/call-to-heel?utm_source=api>`"
+":mtgtip:`Call to Heel<https://img.scryfall.com/cards/border_crop/"
+"front/0/2/0206c951-e38f-43ae-b4d2-0c71b6ccf8b1.jpg?1562700612|https://"
+"scryfall.com/card/ala/32/call-to-heel?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:171
-msgid "Return target creature to its owner's hand. Its controller draws a card."
+msgid ""
+"Return target creature to its owner's hand. Its controller draws a card."
 msgstr ""
 
 #: ../../ALA.rst:176
-msgid ":mtgtip:`Cancel<https://img.scryfall.com/cards/border_crop/en/ala/33.jpg?1517813031|https://scryfall.com/card/ala/33/cancel?utm_source=api>`"
+msgid ""
+":mtgtip:`Cancel<https://img.scryfall.com/cards/border_crop/"
+"front/4/7/479f56c2-8256-4325-909a-bf460505dbc5.jpg?1562703421|https://"
+"scryfall.com/card/ala/33/cancel?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:175
@@ -477,33 +492,33 @@ msgstr "Skontruj wskazany czar."
 
 #: ../../ALA.rst:180
 msgid ""
-":mtgtip:`Cathartic "
-"Adept<https://img.scryfall.com/cards/border_crop/en/ala/34.jpg?1517813031|https://scryfall.com/card/ala/34"
-"/cathartic-adept?utm_source=api>`"
+":mtgtip:`Cathartic Adept<https://img.scryfall.com/cards/border_crop/front/8/"
+"e/8e63626d-f55c-4155-9712-511f591c0614.jpg?1562706477|https://scryfall.com/"
+"card/ala/34/cathartic-adept?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:179
 msgid ""
-"|tap|: Target player puts the top card of their library into their "
-"graveyard."
+"|tap|: Target player puts the top card of their library into their graveyard."
 msgstr ""
 
 #: ../../ALA.rst:186
 msgid ""
-":mtgtip:`Cloudheath "
-"Drake<https://img.scryfall.com/cards/border_crop/en/ala/35.jpg?1517813031|https://scryfall.com/card/ala/35"
-"/cloudheath-drake?utm_source=api>`"
+":mtgtip:`Cloudheath Drake<https://img.scryfall.com/cards/border_crop/front/7/"
+"f/7f71ec76-47e1-4f55-bc57-e7b1c88baedd.jpg?1562705910|https://scryfall.com/"
+"card/ala/35/cloudheath-drake?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:185
-msgid "|mana_1|\\ |mana_w|: Cloudheath Drake gains vigilance until end of turn."
+msgid ""
+"|mana_1|\\ |mana_w|: Cloudheath Drake gains vigilance until end of turn."
 msgstr ""
 
 #: ../../ALA.rst:192
 msgid ""
-":mtgtip:`Coma "
-"Veil<https://img.scryfall.com/cards/border_crop/en/ala/36.jpg?1517813031|https://scryfall.com/card/ala/36"
-"/coma-veil?utm_source=api>`"
+":mtgtip:`Coma Veil<https://img.scryfall.com/cards/border_crop/front/2/"
+"d/2d5b820c-fd07-4e1f-9451-da9267347acd.jpg?1562702340|https://scryfall.com/"
+"card/ala/36/coma-veil?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:189
@@ -516,34 +531,35 @@ msgstr ""
 
 #: ../../ALA.rst:196
 msgid ""
-":mtgtip:`Courier's "
-"Capsule<https://img.scryfall.com/cards/border_crop/en/ala/37.jpg?1517813031|https://scryfall.com/card/ala/37"
-"/couriers-capsule?utm_source=api>`"
+":mtgtip:`Courier's Capsule<https://img.scryfall.com/cards/border_crop/"
+"front/3/9/39ae12ff-8039-4aac-aa50-f879376888a1.jpg?1562702873|https://"
+"scryfall.com/card/ala/37/couriers-capsule?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:195
-msgid "|mana_1|\\ |mana_u|, |tap|, Sacrifice Courier's Capsule: Draw two cards."
+msgid ""
+"|mana_1|\\ |mana_u|, |tap|, Sacrifice Courier's Capsule: Draw two cards."
 msgstr ""
 
 #: ../../ALA.rst:200
 msgid ""
-":mtgtip:`Covenant of "
-"Minds<https://img.scryfall.com/cards/border_crop/en/ala/38.jpg?1517813031|https://scryfall.com/card/ala/38"
-"/covenant-of-minds?utm_source=api>`"
+":mtgtip:`Covenant of Minds<https://img.scryfall.com/cards/border_crop/"
+"front/6/e/6ef9a534-8938-4f73-aa62-dd4d81a18cc1.jpg?1562705224|https://"
+"scryfall.com/card/ala/38/covenant-of-minds?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:199
 msgid ""
-"Reveal the top three cards of your library. Target opponent may choose to"
-" put those cards into your hand. If they don't, put those cards into your"
-" graveyard and draw five cards."
+"Reveal the top three cards of your library. Target opponent may choose to "
+"put those cards into your hand. If they don't, put those cards into your "
+"graveyard and draw five cards."
 msgstr ""
 
 #: ../../ALA.rst:206
 msgid ""
-":mtgtip:`Dawnray "
-"Archer<https://img.scryfall.com/cards/border_crop/en/ala/39.jpg?1517813031|https://scryfall.com/card/ala/39"
-"/dawnray-archer?utm_source=api>`"
+":mtgtip:`Dawnray Archer<https://img.scryfall.com/cards/border_crop/"
+"front/8/6/86c1ff65-8ad5-42e0-9e4c-1caf83ab86e0.jpg?1562706236|https://"
+"scryfall.com/card/ala/39/dawnray-archer?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:205
@@ -554,15 +570,15 @@ msgstr ""
 
 #: ../../ALA.rst:212
 msgid ""
-":mtgtip:`Esper "
-"Battlemage<https://img.scryfall.com/cards/border_crop/en/ala/40.jpg?1517813031|https://scryfall.com/card/ala/40"
-"/esper-battlemage?utm_source=api>`"
+":mtgtip:`Esper Battlemage<https://img.scryfall.com/cards/border_crop/front/2/"
+"c/2cac0076-8bd5-4fe2-bac8-fd102688fdcb.jpg?1562702316|https://scryfall.com/"
+"card/ala/40/esper-battlemage?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:209
 msgid ""
-"|mana_w|, |tap|: Prevent the next 2 damage that would be dealt to you "
-"this turn."
+"|mana_w|, |tap|: Prevent the next 2 damage that would be dealt to you this "
+"turn."
 msgstr ""
 
 #: ../../ALA.rst:211
@@ -571,9 +587,9 @@ msgstr ""
 
 #: ../../ALA.rst:218
 msgid ""
-":mtgtip:`Etherium "
-"Astrolabe<https://img.scryfall.com/cards/border_crop/en/ala/41.jpg?1517813031|https://scryfall.com/card/ala/41"
-"/etherium-astrolabe?utm_source=api>`"
+":mtgtip:`Etherium Astrolabe<https://img.scryfall.com/cards/border_crop/front/"
+"d/6/d60731c6-7a25-4f2b-8ed1-2469a2d300c6.jpg?1562709506|https://scryfall.com/"
+"card/ala/41/etherium-astrolabe?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:215
@@ -586,9 +602,9 @@ msgstr ""
 
 #: ../../ALA.rst:222
 msgid ""
-":mtgtip:`Etherium "
-"Sculptor<https://img.scryfall.com/cards/border_crop/en/ala/42.jpg?1517813031|https://scryfall.com/card/ala/42"
-"/etherium-sculptor?utm_source=api>`"
+":mtgtip:`Etherium Sculptor<https://img.scryfall.com/cards/border_crop/"
+"front/0/d/0d050f2d-bd65-4ab9-9ea6-9deba91b2792.jpg?1562701041|https://"
+"scryfall.com/card/ala/42/etherium-sculptor?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:221
@@ -596,7 +612,10 @@ msgid "Artifact spells you cast cost |mana_1| less to cast."
 msgstr ""
 
 #: ../../ALA.rst:228
-msgid ":mtgtip:`Fatestitcher<https://img.scryfall.com/cards/border_crop/en/ala/43.jpg?1517813031|https://scryfall.com/card/ala/43/fatestitcher?utm_source=api>`"
+msgid ""
+":mtgtip:`Fatestitcher<https://img.scryfall.com/cards/border_crop/front/7/"
+"e/7e4becff-8280-4e29-a370-bf82fb6734d5.jpg?1562705856|https://scryfall.com/"
+"card/ala/43/fatestitcher?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:225
@@ -606,15 +625,15 @@ msgstr ""
 #: ../../ALA.rst:227
 msgid ""
 "Unearth |mana_u| (|mana_u|: Return this card from your graveyard to the "
-"battlefield. It gains haste. Exile it at the beginning of the next end "
-"step or if it would leave the battlefield. Unearth only as a sorcery.)"
+"battlefield. It gains haste. Exile it at the beginning of the next end step "
+"or if it would leave the battlefield. Unearth only as a sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:232
 msgid ""
-":mtgtip:`Filigree "
-"Sages<https://img.scryfall.com/cards/border_crop/en/ala/44.jpg?1517813031|https://scryfall.com/card/ala/44"
-"/filigree-sages?utm_source=api>`"
+":mtgtip:`Filigree Sages<https://img.scryfall.com/cards/border_crop/"
+"front/0/8/08790aaf-0142-4b20-89cf-cdaffeea4582.jpg?1562700900|https://"
+"scryfall.com/card/ala/44/filigree-sages?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:231
@@ -623,44 +642,44 @@ msgstr ""
 
 #: ../../ALA.rst:236
 msgid ""
-":mtgtip:`Gather "
-"Specimens<https://img.scryfall.com/cards/border_crop/en/ala/45.jpg?1517813031|https://scryfall.com/card/ala/45"
-"/gather-specimens?utm_source=api>`"
+":mtgtip:`Gather Specimens<https://img.scryfall.com/cards/border_crop/front/b/"
+"b/bbadf982-f22e-4f4f-b5c9-ac387f25c15f.jpg?1562708387|https://scryfall.com/"
+"card/ala/45/gather-specimens?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:235
 msgid ""
-"If a creature would enter the battlefield under an opponent's control "
-"this turn, it enters the battlefield under your control instead."
+"If a creature would enter the battlefield under an opponent's control this "
+"turn, it enters the battlefield under your control instead."
 msgstr ""
 
 #: ../../ALA.rst:238
 msgid ""
-":mtgtip:`Jhessian "
-"Lookout<https://img.scryfall.com/cards/border_crop/en/ala/46.jpg?1517813031|https://scryfall.com/card/ala/46"
-"/jhessian-lookout?utm_source=api>`"
+":mtgtip:`Jhessian Lookout<https://img.scryfall.com/cards/border_crop/front/"
+"f/5/f55b1b92-575e-4b6f-9179-21d0bc1acd11.jpg?1562710807|https://scryfall.com/"
+"card/ala/46/jhessian-lookout?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:246
 msgid ""
-":mtgtip:`Kathari "
-"Screecher<https://img.scryfall.com/cards/border_crop/en/ala/47.jpg?1517813031|https://scryfall.com/card/ala/47"
-"/kathari-screecher?utm_source=api>`"
+":mtgtip:`Kathari Screecher<https://img.scryfall.com/cards/border_crop/"
+"front/1/5/150cf865-79e2-4f74-a872-44e1e5bc73c4.jpg?1562701354|https://"
+"scryfall.com/card/ala/47/kathari-screecher?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:245
 msgid ""
-"Unearth |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|: Return this card from "
-"your graveyard to the battlefield. It gains haste. Exile it at the "
-"beginning of the next end step or if it would leave the battlefield. "
-"Unearth only as a sorcery.)"
+"Unearth |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:252
 msgid ""
-":mtgtip:`Kederekt "
-"Leviathan<https://img.scryfall.com/cards/border_crop/en/ala/48.jpg?1517813031|https://scryfall.com/card/ala/48"
-"/kederekt-leviathan?utm_source=api>`"
+":mtgtip:`Kederekt Leviathan<https://img.scryfall.com/cards/border_crop/"
+"front/9/7/97e04b01-ba98-4b69-976e-9ab8be3b5f7a.jpg?1562706887|https://"
+"scryfall.com/card/ala/48/kederekt-leviathan?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:249
@@ -671,17 +690,17 @@ msgstr ""
 
 #: ../../ALA.rst:251
 msgid ""
-"Unearth |mana_6|\\ |mana_u| (|mana_6|\\ |mana_u|: Return this card from "
-"your graveyard to the battlefield. It gains haste. Exile it at the "
-"beginning of the next end step or if it would leave the battlefield. "
-"Unearth only as a sorcery.)"
+"Unearth |mana_6|\\ |mana_u| (|mana_6|\\ |mana_u|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:258
 msgid ""
-":mtgtip:`Master of "
-"Etherium<https://img.scryfall.com/cards/border_crop/en/ala/49.jpg?1517813031|https://scryfall.com/card/ala/49"
-"/master-of-etherium?utm_source=api>`"
+":mtgtip:`Master of Etherium<https://img.scryfall.com/cards/border_crop/"
+"front/3/2/322cdf67-5b36-43f9-99b3-f0e24d423314.jpg?1562702574|https://"
+"scryfall.com/card/ala/49/master-of-etherium?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:255
@@ -696,22 +715,22 @@ msgstr ""
 
 #: ../../ALA.rst:262
 msgid ""
-":mtgtip:`Memory "
-"Erosion<https://img.scryfall.com/cards/border_crop/en/ala/50.jpg?1517813031|https://scryfall.com/card/ala/50"
-"/memory-erosion?utm_source=api>`"
+":mtgtip:`Memory Erosion<https://img.scryfall.com/cards/border_crop/"
+"front/2/6/26fcee4c-58f4-43c6-832b-ca04ded704c7.jpg?1562702104|https://"
+"scryfall.com/card/ala/50/memory-erosion?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:261
 msgid ""
-"Whenever an opponent casts a spell, that player puts the top two cards of"
-" their library into their graveyard."
+"Whenever an opponent casts a spell, that player puts the top two cards of "
+"their library into their graveyard."
 msgstr ""
 
 #: ../../ALA.rst:266
 msgid ""
-":mtgtip:`Mindlock "
-"Orb<https://img.scryfall.com/cards/border_crop/en/ala/51.jpg?1517813031|https://scryfall.com/card/ala/51"
-"/mindlock-orb?utm_source=api>`"
+":mtgtip:`Mindlock Orb<https://img.scryfall.com/cards/border_crop/"
+"front/5/5/55c84e9f-ccbb-4fbc-98e1-4072968a1f8a.jpg?1562704123|https://"
+"scryfall.com/card/ala/51/mindlock-orb?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:265
@@ -720,16 +739,16 @@ msgstr ""
 
 #: ../../ALA.rst:270
 msgid ""
-":mtgtip:`Outrider of "
-"Jhess<https://img.scryfall.com/cards/border_crop/en/ala/52.jpg?1517813031|https://scryfall.com/card/ala/52"
-"/outrider-of-jhess?utm_source=api>`"
+":mtgtip:`Outrider of Jhess<https://img.scryfall.com/cards/border_crop/front/"
+"d/3/d3b681c8-6d20-4e43-95f8-e83d34626145.jpg?1562709384|https://scryfall.com/"
+"card/ala/52/outrider-of-jhess?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:274
 msgid ""
-":mtgtip:`Protomatter "
-"Powder<https://img.scryfall.com/cards/border_crop/en/ala/53.jpg?1517813031|https://scryfall.com/card/ala/53"
-"/protomatter-powder?utm_source=api>`"
+":mtgtip:`Protomatter Powder<https://img.scryfall.com/cards/border_crop/"
+"front/2/7/273e2198-5549-4e82-8580-8769284d729d.jpg?1562702121|https://"
+"scryfall.com/card/ala/53/protomatter-powder?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:273
@@ -740,9 +759,9 @@ msgstr ""
 
 #: ../../ALA.rst:282
 msgid ""
-":mtgtip:`Resounding "
-"Wave<https://img.scryfall.com/cards/border_crop/en/ala/54.jpg?1517813031|https://scryfall.com/card/ala/54"
-"/resounding-wave?utm_source=api>`"
+":mtgtip:`Resounding Wave<https://img.scryfall.com/cards/border_crop/front/"
+"f/3/f3eca679-076d-42f0-9ec0-b8116a94e373.jpg?1562710709|https://scryfall.com/"
+"card/ala/54/resounding-wave?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:277 ../../ALA.rst:901
@@ -751,8 +770,8 @@ msgstr ""
 
 #: ../../ALA.rst:279
 msgid ""
-"Cycling |mana_5|\\ |mana_w|\\ |mana_u|\\ |mana_b| (|mana_5|\\ |mana_w|\\ "
-"|mana_u|\\ |mana_b|, Discard this card: Draw a card.)"
+"Cycling |mana_5|\\ |mana_w|\\ |mana_u|\\ |mana_b| (|mana_5|\\ |mana_w|\\ |"
+"mana_u|\\ |mana_b|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../ALA.rst:281
@@ -763,23 +782,22 @@ msgstr ""
 
 #: ../../ALA.rst:288
 msgid ""
-":mtgtip:`Sharding "
-"Sphinx<https://img.scryfall.com/cards/border_crop/en/ala/55.jpg?1517813031|https://scryfall.com/card/ala/55"
-"/sharding-sphinx?utm_source=api>`"
+":mtgtip:`Sharding Sphinx<https://img.scryfall.com/cards/border_crop/"
+"front/1/7/1722d394-ef72-4265-bc5b-eed7b91f5cb4.jpg?1562701438|https://"
+"scryfall.com/card/ala/55/sharding-sphinx?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:287
 msgid ""
-"Whenever an artifact creature you control deals combat damage to a "
-"player, you may create a 1/1 blue Thopter artifact creature token with "
-"flying."
+"Whenever an artifact creature you control deals combat damage to a player, "
+"you may create a 1/1 blue Thopter artifact creature token with flying."
 msgstr ""
 
 #: ../../ALA.rst:294
 msgid ""
-":mtgtip:`Skill "
-"Borrower<https://img.scryfall.com/cards/border_crop/en/ala/56.jpg?1517813031|https://scryfall.com/card/ala/56"
-"/skill-borrower?utm_source=api>`"
+":mtgtip:`Skill Borrower<https://img.scryfall.com/cards/border_crop/front/a/c/"
+"ac7ac7c8-8e01-4f80-a3fa-d533cb594d7c.jpg?1562707691|https://scryfall.com/"
+"card/ala/56/skill-borrower?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:291
@@ -795,9 +813,9 @@ msgstr ""
 
 #: ../../ALA.rst:300
 msgid ""
-":mtgtip:`Spell "
-"Snip<https://img.scryfall.com/cards/border_crop/en/ala/57.jpg?1517813031|https://scryfall.com/card/ala/57"
-"/spell-snip?utm_source=api>`"
+":mtgtip:`Spell Snip<https://img.scryfall.com/cards/border_crop/front/d/6/"
+"d6870203-ece9-4fe0-912b-2dcf685f3eb0.jpg?1562709543|https://scryfall.com/"
+"card/ala/57/spell-snip?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:297
@@ -806,23 +824,23 @@ msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|."
 
 #: ../../ALA.rst:304
 msgid ""
-":mtgtip:`Sphinx's "
-"Herald<https://img.scryfall.com/cards/border_crop/en/ala/58.jpg?1517813031|https://scryfall.com/card/ala/58"
-"/sphinxs-herald?utm_source=api>`"
+":mtgtip:`Sphinx's Herald<https://img.scryfall.com/cards/border_crop/front/b/"
+"d/bd7e2501-2d36-41eb-a77a-747b62affc09.jpg?1562708453|https://scryfall.com/"
+"card/ala/58/sphinxs-herald?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:303
 msgid ""
-"|mana_2|\\ |mana_u|, |tap|, Sacrifice a white creature, a blue creature, "
-"and a black creature: Search your library for a card named Sphinx "
-"Sovereign and put it onto the battlefield. Then shuffle your library."
+"|mana_2|\\ |mana_u|, |tap|, Sacrifice a white creature, a blue creature, and "
+"a black creature: Search your library for a card named Sphinx Sovereign and "
+"put it onto the battlefield. Then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:308
 msgid ""
-":mtgtip:`Steelclad "
-"Serpent<https://img.scryfall.com/cards/border_crop/en/ala/59.jpg?1517813031|https://scryfall.com/card/ala/59"
-"/steelclad-serpent?utm_source=api>`"
+":mtgtip:`Steelclad Serpent<https://img.scryfall.com/cards/border_crop/"
+"front/7/1/71b02044-f3b4-425c-8e6c-697fff2c4ef7.jpg?1562705313|https://"
+"scryfall.com/card/ala/59/steelclad-serpent?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:307
@@ -831,9 +849,9 @@ msgstr ""
 
 #: ../../ALA.rst:316
 msgid ""
-":mtgtip:`Tezzeret the "
-"Seeker<https://img.scryfall.com/cards/border_crop/en/ala/60.jpg?1517813031|https://scryfall.com/card/ala/60"
-"/tezzeret-the-seeker?utm_source=api>`"
+":mtgtip:`Tezzeret the Seeker<https://img.scryfall.com/cards/border_crop/"
+"front/3/b/3b214b6f-4734-4200-8467-92d7e3469b5d.jpg?1562702928|https://"
+"scryfall.com/card/ala/60/tezzeret-the-seeker?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:311
@@ -842,8 +860,8 @@ msgstr ""
 
 #: ../../ALA.rst:313
 msgid ""
-"−X: Search your library for an artifact card with converted mana cost X "
-"or less and put it onto the battlefield. Then shuffle your library."
+"−X: Search your library for an artifact card with converted mana cost X or "
+"less and put it onto the battlefield. Then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:315
@@ -854,9 +872,9 @@ msgstr ""
 
 #: ../../ALA.rst:320
 msgid ""
-":mtgtip:`Tortoise "
-"Formation<https://img.scryfall.com/cards/border_crop/en/ala/61.jpg?1517813031|https://scryfall.com/card/ala/61"
-"/tortoise-formation?utm_source=api>`"
+":mtgtip:`Tortoise Formation<https://img.scryfall.com/cards/border_crop/"
+"front/5/9/59ff8324-42b8-4eeb-8d0b-ea679c984933.jpg?1562704301|https://"
+"scryfall.com/card/ala/61/tortoise-formation?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:319
@@ -867,37 +885,37 @@ msgstr ""
 
 #: ../../ALA.rst:324
 msgid ""
-":mtgtip:`Vectis "
-"Silencers<https://img.scryfall.com/cards/border_crop/en/ala/62.jpg?1517813031|https://scryfall.com/card/ala/62"
-"/vectis-silencers?utm_source=api>`"
+":mtgtip:`Vectis Silencers<https://img.scryfall.com/cards/border_crop/front/"
+"c/0/c0198220-073f-4479-a1c4-1bd626891e28.jpg?1562708547|https://scryfall.com/"
+"card/ala/62/vectis-silencers?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:323
 msgid ""
-"|mana_2|\\ |mana_b|: Vectis Silencers gains deathtouch until end of turn."
-" (Any amount of damage it deals to a creature is enough to destroy that "
+"|mana_2|\\ |mana_b|: Vectis Silencers gains deathtouch until end of turn. "
+"(Any amount of damage it deals to a creature is enough to destroy that "
 "creature.)"
 msgstr ""
 
 #: ../../ALA.rst:328
 msgid ""
-":mtgtip:`Ad "
-"Nauseam<https://img.scryfall.com/cards/border_crop/en/ala/63.jpg?1517813031|https://scryfall.com/card/ala/63"
-"/ad-nauseam?utm_source=api>`"
+":mtgtip:`Ad Nauseam<https://img.scryfall.com/cards/border_crop/front/0/"
+"a/0a4ce4a1-65e3-4b40-be35-8fc55a968ec8.jpg?1562700939|https://scryfall.com/"
+"card/ala/63/ad-nauseam?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:327
 msgid ""
-"Reveal the top card of your library and put that card into your hand. You"
-" lose life equal to its converted mana cost. You may repeat this process "
-"any number of times."
+"Reveal the top card of your library and put that card into your hand. You "
+"lose life equal to its converted mana cost. You may repeat this process any "
+"number of times."
 msgstr ""
 
 #: ../../ALA.rst:334
 msgid ""
-":mtgtip:`Archdemon of "
-"Unx<https://img.scryfall.com/cards/border_crop/en/ala/64.jpg?1517813031|https://scryfall.com/card/ala/64"
-"/archdemon-of-unx?utm_source=api>`"
+":mtgtip:`Archdemon of Unx<https://img.scryfall.com/cards/border_crop/front/"
+"b/2/b260fbe1-21cb-4a66-aca3-e504b67ed712.jpg?1562707978|https://scryfall.com/"
+"card/ala/64/archdemon-of-unx?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:331
@@ -912,9 +930,9 @@ msgstr ""
 
 #: ../../ALA.rst:340
 msgid ""
-":mtgtip:`Banewasp "
-"Affliction<https://img.scryfall.com/cards/border_crop/en/ala/65.jpg?1517813031|https://scryfall.com/card/ala/65"
-"/banewasp-affliction?utm_source=api>`"
+":mtgtip:`Banewasp Affliction<https://img.scryfall.com/cards/border_crop/"
+"front/f/e/fef85030-d591-407d-8045-c595326dd6fa.jpg?1562711188|https://"
+"scryfall.com/card/ala/65/banewasp-affliction?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:337 ../../ALA.rst:557 ../../ALA.rst:757
@@ -923,28 +941,28 @@ msgstr "Zaurocz stwora"
 
 #: ../../ALA.rst:339
 msgid ""
-"When enchanted creature dies, that creature's controller loses life equal"
-" to its toughness."
+"When enchanted creature dies, that creature's controller loses life equal to "
+"its toughness."
 msgstr ""
 
 #: ../../ALA.rst:344
 msgid ""
-":mtgtip:`Blister "
-"Beetle<https://img.scryfall.com/cards/border_crop/en/ala/66.jpg?1517813031|https://scryfall.com/card/ala/66"
-"/blister-beetle?utm_source=api>`"
+":mtgtip:`Blister Beetle<https://img.scryfall.com/cards/border_crop/front/7/"
+"f/7f42bdeb-5a51-4303-96d8-9722f95d2905.jpg?1562705893|https://scryfall.com/"
+"card/ala/66/blister-beetle?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:343
 msgid ""
-"When Blister Beetle enters the battlefield, target creature gets -1/-1 "
-"until end of turn."
+"When Blister Beetle enters the battlefield, target creature gets -1/-1 until "
+"end of turn."
 msgstr ""
 
 #: ../../ALA.rst:350
 msgid ""
-":mtgtip:`Bone "
-"Splinters<https://img.scryfall.com/cards/border_crop/en/ala/67.jpg?1517813031|https://scryfall.com/card/ala/67"
-"/bone-splinters?utm_source=api>`"
+":mtgtip:`Bone Splinters<https://img.scryfall.com/cards/border_crop/front/d/4/"
+"d4a4b3a3-b7ae-4210-8037-098fdf5808d0.jpg?1562709424|https://scryfall.com/"
+"card/ala/67/bone-splinters?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:347
@@ -957,31 +975,31 @@ msgstr "Zniszcz wskazanego stwora."
 
 #: ../../ALA.rst:356
 msgid ""
-":mtgtip:`Corpse "
-"Connoisseur<https://img.scryfall.com/cards/border_crop/en/ala/68.jpg?1517813031|https://scryfall.com/card/ala/68"
-"/corpse-connoisseur?utm_source=api>`"
+":mtgtip:`Corpse Connoisseur<https://img.scryfall.com/cards/border_crop/front/"
+"f/e/feecfe75-ca1e-4e89-af2f-0e4ed2df1ead.jpg?1562711176|https://scryfall.com/"
+"card/ala/68/corpse-connoisseur?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:353
 msgid ""
-"When Corpse Connoisseur enters the battlefield, you may search your "
-"library for a creature card and put that card into your graveyard. If you"
-" do, shuffle your library."
+"When Corpse Connoisseur enters the battlefield, you may search your library "
+"for a creature card and put that card into your graveyard. If you do, "
+"shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:355
 msgid ""
-"Unearth |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|: Return this card from "
-"your graveyard to the battlefield. It gains haste. Exile it at the "
-"beginning of the next end step or if it would leave the battlefield. "
-"Unearth only as a sorcery.)"
+"Unearth |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:360
 msgid ""
-":mtgtip:`Cunning "
-"Lethemancer<https://img.scryfall.com/cards/border_crop/en/ala/69.jpg?1517813031|https://scryfall.com/card/ala/69"
-"/cunning-lethemancer?utm_source=api>`"
+":mtgtip:`Cunning Lethemancer<https://img.scryfall.com/cards/border_crop/"
+"front/9/7/972891e6-6a23-40df-af22-adf8cd7ea582.jpg?1562706849|https://"
+"scryfall.com/card/ala/69/cunning-lethemancer?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:359
@@ -990,9 +1008,9 @@ msgstr ""
 
 #: ../../ALA.rst:364
 msgid ""
-":mtgtip:`Death "
-"Baron<https://img.scryfall.com/cards/border_crop/en/ala/70.jpg?1517813031|https://scryfall.com/card/ala/70"
-"/death-baron?utm_source=api>`"
+":mtgtip:`Death Baron<https://img.scryfall.com/cards/border_crop/front/4/"
+"d/4d59b5e5-fc16-4f1a-9f17-f42908473531.jpg?1562703660|https://scryfall.com/"
+"card/ala/70/death-baron?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:363
@@ -1002,7 +1020,10 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:368
-msgid ":mtgtip:`Deathgreeter<https://img.scryfall.com/cards/border_crop/en/ala/71.jpg?1517813031|https://scryfall.com/card/ala/71/deathgreeter?utm_source=api>`"
+msgid ""
+":mtgtip:`Deathgreeter<https://img.scryfall.com/cards/border_crop/front/d/e/"
+"de74fa19-943e-4606-a793-ab5ccbe8db4a.jpg?1562709869|https://scryfall.com/"
+"card/ala/71/deathgreeter?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:367
@@ -1011,57 +1032,57 @@ msgstr ""
 
 #: ../../ALA.rst:372
 msgid ""
-":mtgtip:`Demon's "
-"Herald<https://img.scryfall.com/cards/border_crop/en/ala/72.jpg?1517813031|https://scryfall.com/card/ala/72"
-"/demons-herald?utm_source=api>`"
+":mtgtip:`Demon's Herald<https://img.scryfall.com/cards/border_crop/front/f/5/"
+"f5aa309e-5df3-4419-9e9c-3fd928c1e360.jpg?1562710813|https://scryfall.com/"
+"card/ala/72/demons-herald?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:371
 msgid ""
-"|mana_2|\\ |mana_b|, |tap|, Sacrifice a blue creature, a black creature, "
-"and a red creature: Search your library for a card named Prince of "
-"Thralls and put it onto the battlefield. Then shuffle your library."
+"|mana_2|\\ |mana_b|, |tap|, Sacrifice a blue creature, a black creature, and "
+"a red creature: Search your library for a card named Prince of Thralls and "
+"put it onto the battlefield. Then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:374
 msgid ""
-":mtgtip:`Dreg "
-"Reaver<https://img.scryfall.com/cards/border_crop/en/ala/73.jpg?1517813031|https://scryfall.com/card/ala/73"
-"/dreg-reaver?utm_source=api>`"
+":mtgtip:`Dreg Reaver<https://img.scryfall.com/cards/border_crop/front/e/7/"
+"e7771eba-bc2d-40f2-bab4-5e9cc4fe8f34.jpg?1562710204|https://scryfall.com/"
+"card/ala/73/dreg-reaver?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:380
 msgid ""
-":mtgtip:`Dregscape "
-"Zombie<https://img.scryfall.com/cards/border_crop/en/ala/74.jpg?1517813031|https://scryfall.com/card/ala/74"
-"/dregscape-zombie?utm_source=api>`"
+":mtgtip:`Dregscape Zombie<https://img.scryfall.com/cards/border_crop/front/4/"
+"b/4b65b7ad-4ab0-4622-81f4-434254625a1e.jpg?1562703611|https://scryfall.com/"
+"card/ala/74/dregscape-zombie?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:379
 msgid ""
 "Unearth |mana_b| (|mana_b|: Return this card from your graveyard to the "
-"battlefield. It gains haste. Exile it at the beginning of the next end "
-"step or if it would leave the battlefield. Unearth only as a sorcery.)"
+"battlefield. It gains haste. Exile it at the beginning of the next end step "
+"or if it would leave the battlefield. Unearth only as a sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:384
 msgid ""
-":mtgtip:`Executioner's "
-"Capsule<https://img.scryfall.com/cards/border_crop/en/ala/75.jpg?1517813031|https://scryfall.com/card/ala/75"
-"/executioners-capsule?utm_source=api>`"
+":mtgtip:`Executioner's Capsule<https://img.scryfall.com/cards/border_crop/"
+"front/4/8/48185059-fff9-47b0-9774-ad37dee345ed.jpg?1562703439|https://"
+"scryfall.com/card/ala/75/executioners-capsule?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:383
 msgid ""
-"|mana_1|\\ |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy "
-"target nonblack creature."
+"|mana_1|\\ |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy target "
+"nonblack creature."
 msgstr ""
 
 #: ../../ALA.rst:388
 msgid ""
-":mtgtip:`Fleshbag "
-"Marauder<https://img.scryfall.com/cards/border_crop/en/ala/76.jpg?1517813031|https://scryfall.com/card/ala/76"
-"/fleshbag-marauder?utm_source=api>`"
+":mtgtip:`Fleshbag Marauder<https://img.scryfall.com/cards/border_crop/front/"
+"f/7/f71e4391-04a8-4df8-9d52-3a3480bcd5b6.jpg?1562710878|https://scryfall.com/"
+"card/ala/76/fleshbag-marauder?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:387
@@ -1072,22 +1093,22 @@ msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
 
 #: ../../ALA.rst:394
 msgid ""
-":mtgtip:`Glaze "
-"Fiend<https://img.scryfall.com/cards/border_crop/en/ala/77.jpg?1517813031|https://scryfall.com/card/ala/77"
-"/glaze-fiend?utm_source=api>`"
+":mtgtip:`Glaze Fiend<https://img.scryfall.com/cards/border_crop/front/2/"
+"e/2e030fb1-12a8-4c28-836f-8097ec753271.jpg?1562702375|https://scryfall.com/"
+"card/ala/77/glaze-fiend?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:393
 msgid ""
-"Whenever another artifact enters the battlefield under your control, "
-"Glaze Fiend gets +2/+2 until end of turn."
+"Whenever another artifact enters the battlefield under your control, Glaze "
+"Fiend gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../ALA.rst:400
 msgid ""
-":mtgtip:`Grixis "
-"Battlemage<https://img.scryfall.com/cards/border_crop/en/ala/78.jpg?1517813031|https://scryfall.com/card/ala/78"
-"/grixis-battlemage?utm_source=api>`"
+":mtgtip:`Grixis Battlemage<https://img.scryfall.com/cards/border_crop/"
+"front/4/d/4dbd260c-a625-42a4-8192-27e42e18ac0f.jpg?1562703682|https://"
+"scryfall.com/card/ala/78/grixis-battlemage?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:397
@@ -1100,9 +1121,9 @@ msgstr ""
 
 #: ../../ALA.rst:408
 msgid ""
-":mtgtip:`Immortal "
-"Coil<https://img.scryfall.com/cards/border_crop/en/ala/79.jpg?1517813031|https://scryfall.com/card/ala/79"
-"/immortal-coil?utm_source=api>`"
+":mtgtip:`Immortal Coil<https://img.scryfall.com/cards/border_crop/front/0/"
+"b/0b79ec57-7c45-4ef9-9051-449d473b65ea.jpg?1562700966|https://scryfall.com/"
+"card/ala/79/immortal-coil?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:403
@@ -1111,8 +1132,8 @@ msgstr ""
 
 #: ../../ALA.rst:405
 msgid ""
-"If damage would be dealt to you, prevent that damage. Exile a card from "
-"your graveyard for each 1 damage prevented this way."
+"If damage would be dealt to you, prevent that damage. Exile a card from your "
+"graveyard for each 1 damage prevented this way."
 msgstr ""
 
 #: ../../ALA.rst:407
@@ -1120,7 +1141,10 @@ msgid "When there are no cards in your graveyard, you lose the game."
 msgstr ""
 
 #: ../../ALA.rst:412
-msgid ":mtgtip:`Infest<https://img.scryfall.com/cards/border_crop/en/ala/80.jpg?1517813031|https://scryfall.com/card/ala/80/infest?utm_source=api>`"
+msgid ""
+":mtgtip:`Infest<https://img.scryfall.com/cards/border_crop/front/f/b/"
+"fb9dd080-5e13-4334-8614-8eec41ae89c2.jpg?1562711058|https://scryfall.com/"
+"card/ala/80/infest?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:411
@@ -1129,9 +1153,9 @@ msgstr ""
 
 #: ../../ALA.rst:416
 msgid ""
-":mtgtip:`Onyx "
-"Goblet<https://img.scryfall.com/cards/border_crop/en/ala/81.jpg?1517813031|https://scryfall.com/card/ala/81"
-"/onyx-goblet?utm_source=api>`"
+":mtgtip:`Onyx Goblet<https://img.scryfall.com/cards/border_crop/"
+"front/3/6/3686eb57-e9c8-480f-8ab4-2894e1b5fe20.jpg?1562702765|https://"
+"scryfall.com/card/ala/81/onyx-goblet?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:415
@@ -1140,9 +1164,9 @@ msgstr ""
 
 #: ../../ALA.rst:422
 msgid ""
-":mtgtip:`Puppet "
-"Conjurer<https://img.scryfall.com/cards/border_crop/en/ala/82.jpg?1517813031|https://scryfall.com/card/ala/82"
-"/puppet-conjurer?utm_source=api>`"
+":mtgtip:`Puppet Conjurer<https://img.scryfall.com/cards/border_crop/front/c/"
+"c/cc6ee904-95ca-4ec3-ad7d-ee084aa0c00f.jpg?1562709025|https://scryfall.com/"
+"card/ala/82/puppet-conjurer?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:419
@@ -1155,9 +1179,9 @@ msgstr ""
 
 #: ../../ALA.rst:430
 msgid ""
-":mtgtip:`Resounding "
-"Scream<https://img.scryfall.com/cards/border_crop/en/ala/83.jpg?1517813031|https://scryfall.com/card/ala/83"
-"/resounding-scream?utm_source=api>`"
+":mtgtip:`Resounding Scream<https://img.scryfall.com/cards/border_crop/"
+"front/6/4/64d27eb7-2d3b-4daf-9cf6-c254fdacceb0.jpg?1562704747|https://"
+"scryfall.com/card/ala/83/resounding-scream?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:425
@@ -1166,38 +1190,38 @@ msgstr ""
 
 #: ../../ALA.rst:427
 msgid ""
-"Cycling |mana_5|\\ |mana_u|\\ |mana_b|\\ |mana_r| (|mana_5|\\ |mana_u|\\ "
-"|mana_b|\\ |mana_r|, Discard this card: Draw a card.)"
+"Cycling |mana_5|\\ |mana_u|\\ |mana_b|\\ |mana_r| (|mana_5|\\ |mana_u|\\ |"
+"mana_b|\\ |mana_r|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../ALA.rst:429
 msgid ""
-"When you cycle Resounding Scream, target player discards two cards at "
-"random."
+"When you cycle Resounding Scream, target player discards two cards at random."
 msgstr ""
 
 #: ../../ALA.rst:436
 msgid ""
-":mtgtip:`Salvage "
-"Titan<https://img.scryfall.com/cards/border_crop/en/ala/84.jpg?1517813031|https://scryfall.com/card/ala/84"
-"/salvage-titan?utm_source=api>`"
+":mtgtip:`Salvage Titan<https://img.scryfall.com/cards/border_crop/front/2/"
+"b/2b02c538-c2f9-47ef-9a07-8a41fe172d10.jpg?1562702264|https://scryfall.com/"
+"card/ala/84/salvage-titan?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:433
-msgid "You may sacrifice three artifacts rather than pay this spell's mana cost."
+msgid ""
+"You may sacrifice three artifacts rather than pay this spell's mana cost."
 msgstr ""
 
 #: ../../ALA.rst:435
 msgid ""
-"Exile three artifact cards from your graveyard: Return Salvage Titan from"
-" your graveyard to your hand."
+"Exile three artifact cards from your graveyard: Return Salvage Titan from "
+"your graveyard to your hand."
 msgstr ""
 
 #: ../../ALA.rst:442
 msgid ""
-":mtgtip:`Scavenger "
-"Drake<https://img.scryfall.com/cards/border_crop/en/ala/85.jpg?1517813031|https://scryfall.com/card/ala/85"
-"/scavenger-drake?utm_source=api>`"
+":mtgtip:`Scavenger Drake<https://img.scryfall.com/cards/border_crop/"
+"front/3/0/30b7806f-c28f-40d4-b79e-f5a7725db298.jpg?1562702514|https://"
+"scryfall.com/card/ala/85/scavenger-drake?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:441
@@ -1207,7 +1231,10 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:446
-msgid ":mtgtip:`Shadowfeed<https://img.scryfall.com/cards/border_crop/en/ala/86.jpg?1517813031|https://scryfall.com/card/ala/86/shadowfeed?utm_source=api>`"
+msgid ""
+":mtgtip:`Shadowfeed<https://img.scryfall.com/cards/border_crop/"
+"front/1/9/19ccd8c7-7472-47df-9d3e-1b5fb1431118.jpg?1562701564|https://"
+"scryfall.com/card/ala/86/shadowfeed?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:445
@@ -1216,9 +1243,9 @@ msgstr ""
 
 #: ../../ALA.rst:450
 msgid ""
-":mtgtip:`Shore "
-"Snapper<https://img.scryfall.com/cards/border_crop/en/ala/87.jpg?1517813031|https://scryfall.com/card/ala/87"
-"/shore-snapper?utm_source=api>`"
+":mtgtip:`Shore Snapper<https://img.scryfall.com/cards/border_crop/"
+"front/1/5/157e5763-4892-47e4-8fd5-f576844c0a0d.jpg?1562701373|https://"
+"scryfall.com/card/ala/87/shore-snapper?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:449
@@ -1229,9 +1256,9 @@ msgstr ""
 
 #: ../../ALA.rst:456
 msgid ""
-":mtgtip:`Skeletal "
-"Kathari<https://img.scryfall.com/cards/border_crop/en/ala/88.jpg?1517813031|https://scryfall.com/card/ala/88"
-"/skeletal-kathari?utm_source=api>`"
+":mtgtip:`Skeletal Kathari<https://img.scryfall.com/cards/border_crop/front/"
+"a/3/a3e7e593-e5b0-4348-b8e5-20173d41aa39.jpg?1562707355|https://scryfall.com/"
+"card/ala/88/skeletal-kathari?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:455
@@ -1240,16 +1267,16 @@ msgstr ""
 
 #: ../../ALA.rst:462
 msgid ""
-":mtgtip:`Tar "
-"Fiend<https://img.scryfall.com/cards/border_crop/en/ala/89.jpg?1517813031|https://scryfall.com/card/ala/89"
-"/tar-fiend?utm_source=api>`"
+":mtgtip:`Tar Fiend<https://img.scryfall.com/cards/border_crop/front/f/a/"
+"fa1903f8-2863-4203-9552-a75759fa8c94.jpg?1562711007|https://scryfall.com/"
+"card/ala/89/tar-fiend?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:459 ../../ALA.rst:569 ../../ALA.rst:605 ../../ALA.rst:719
 msgid ""
-"Devour 2 (As this enters the battlefield, you may sacrifice any number of"
-" creatures. This creature enters the battlefield with twice that many "
-"+1/+1 counters on it.)"
+"Devour 2 (As this enters the battlefield, you may sacrifice any number of "
+"creatures. This creature enters the battlefield with twice that many +1/+1 "
+"counters on it.)"
 msgstr ""
 
 #: ../../ALA.rst:461
@@ -1260,9 +1287,9 @@ msgstr ""
 
 #: ../../ALA.rst:468
 msgid ""
-":mtgtip:`Undead "
-"Leotau<https://img.scryfall.com/cards/border_crop/en/ala/90.jpg?1517813031|https://scryfall.com/card/ala/90"
-"/undead-leotau?utm_source=api>`"
+":mtgtip:`Undead Leotau<https://img.scryfall.com/cards/border_crop/front/7/"
+"a/7ab9a62a-5503-430d-8b67-061a46b5c22c.jpg?1562705669|https://scryfall.com/"
+"card/ala/90/undead-leotau?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:465
@@ -1271,17 +1298,17 @@ msgstr ""
 
 #: ../../ALA.rst:467
 msgid ""
-"Unearth |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Return this card from "
-"your graveyard to the battlefield. It gains haste. Exile it at the "
-"beginning of the next end step or if it would leave the battlefield. "
-"Unearth only as a sorcery.)"
+"Unearth |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:476
 msgid ""
-":mtgtip:`Vein "
-"Drinker<https://img.scryfall.com/cards/border_crop/en/ala/91.jpg?1517813031|https://scryfall.com/card/ala/91"
-"/vein-drinker?utm_source=api>`"
+":mtgtip:`Vein Drinker<https://img.scryfall.com/cards/border_crop/front/b/6/"
+"b6402470-d829-4b9a-840c-1f97d6fd786f.jpg?1562708171|https://scryfall.com/"
+"card/ala/91/vein-drinker?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:473
@@ -1292,30 +1319,30 @@ msgstr ""
 
 #: ../../ALA.rst:475
 msgid ""
-"Whenever a creature dealt damage by Vein Drinker this turn dies, put a "
-"+1/+1 counter on Vein Drinker."
+"Whenever a creature dealt damage by Vein Drinker this turn dies, put a +1/+1 "
+"counter on Vein Drinker."
 msgstr ""
 
 #: ../../ALA.rst:482
 msgid ""
-":mtgtip:`Viscera "
-"Dragger<https://img.scryfall.com/cards/border_crop/en/ala/92.jpg?1517813031|https://scryfall.com/card/ala/92"
-"/viscera-dragger?utm_source=api>`"
+":mtgtip:`Viscera Dragger<https://img.scryfall.com/cards/border_crop/front/6/"
+"d/6d6d2d84-7141-4485-8379-b3c71af47cd1.jpg?1562705126|https://scryfall.com/"
+"card/ala/92/viscera-dragger?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:481 ../../ALA.rst:1023
 msgid ""
-"Unearth |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Return this card from "
-"your graveyard to the battlefield. It gains haste. Exile it at the "
-"beginning of the next end step or if it would leave the battlefield. "
-"Unearth only as a sorcery.)"
+"Unearth |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:486
 msgid ""
-":mtgtip:`Bloodpyre "
-"Elemental<https://img.scryfall.com/cards/border_crop/en/ala/93.jpg?1517813031|https://scryfall.com/card/ala/93"
-"/bloodpyre-elemental?utm_source=api>`"
+":mtgtip:`Bloodpyre Elemental<https://img.scryfall.com/cards/border_crop/"
+"front/8/9/89e39677-5e04-45af-8f4c-1d4b6e737213.jpg?1562706346|https://"
+"scryfall.com/card/ala/93/bloodpyre-elemental?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:485
@@ -1326,9 +1353,9 @@ msgstr ""
 
 #: ../../ALA.rst:492
 msgid ""
-":mtgtip:`Bloodthorn "
-"Taunter<https://img.scryfall.com/cards/border_crop/en/ala/94.jpg?1517813031|https://scryfall.com/card/ala/94"
-"/bloodthorn-taunter?utm_source=api>`"
+":mtgtip:`Bloodthorn Taunter<https://img.scryfall.com/cards/border_crop/"
+"front/8/7/8769e8f6-15ad-4f1b-bb4d-848ae6b7549e.jpg?1562706248|https://"
+"scryfall.com/card/ala/94/bloodthorn-taunter?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:489 ../../ALA.rst:1003
@@ -1337,21 +1364,20 @@ msgstr "Pośpiech"
 
 #: ../../ALA.rst:491
 msgid ""
-"|tap|: Target creature with power 5 or greater gains haste until end of "
-"turn."
+"|tap|: Target creature with power 5 or greater gains haste until end of turn."
 msgstr ""
 
 #: ../../ALA.rst:498
 msgid ""
-":mtgtip:`Caldera "
-"Hellion<https://img.scryfall.com/cards/border_crop/en/ala/95.jpg?1517813031|https://scryfall.com/card/ala/95"
-"/caldera-hellion?utm_source=api>`"
+":mtgtip:`Caldera Hellion<https://img.scryfall.com/cards/border_crop/"
+"front/8/8/88866ce7-0b81-4b6c-a17e-ce5e51a0f2da.jpg?1562706305|https://"
+"scryfall.com/card/ala/95/caldera-hellion?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:495 ../../ALA.rst:765
 msgid ""
-"Devour 1 (As this enters the battlefield, you may sacrifice any number of"
-" creatures. This creature enters the battlefield with that many +1/+1 "
+"Devour 1 (As this enters the battlefield, you may sacrifice any number of "
+"creatures. This creature enters the battlefield with that many +1/+1 "
 "counters on it.)"
 msgstr ""
 
@@ -1363,9 +1389,9 @@ msgstr ""
 
 #: ../../ALA.rst:502
 msgid ""
-":mtgtip:`Crucible of "
-"Fire<https://img.scryfall.com/cards/border_crop/en/ala/96.jpg?1517813031|https://scryfall.com/card/ala/96"
-"/crucible-of-fire?utm_source=api>`"
+":mtgtip:`Crucible of Fire<https://img.scryfall.com/cards/border_crop/"
+"front/3/8/38a2d4ba-7bd0-4852-aad3-dfdaf5368e3e.jpg?1562702835|https://"
+"scryfall.com/card/ala/96/crucible-of-fire?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:501
@@ -1374,9 +1400,9 @@ msgstr ""
 
 #: ../../ALA.rst:506
 msgid ""
-":mtgtip:`Dragon "
-"Fodder<https://img.scryfall.com/cards/border_crop/en/ala/97.jpg?1517813031|https://scryfall.com/card/ala/97"
-"/dragon-fodder?utm_source=api>`"
+":mtgtip:`Dragon Fodder<https://img.scryfall.com/cards/border_crop/front/9/"
+"e/9eab4120-e7d8-4132-a304-30b88e3175e2.jpg?1562707210|https://scryfall.com/"
+"card/ala/97/dragon-fodder?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:505
@@ -1385,56 +1411,56 @@ msgstr "Stwórz dwa żetony czerwonego stwora Goblin 1/1."
 
 #: ../../ALA.rst:510
 msgid ""
-":mtgtip:`Dragon's "
-"Herald<https://img.scryfall.com/cards/border_crop/en/ala/98.jpg?1517813031|https://scryfall.com/card/ala/98"
-"/dragons-herald?utm_source=api>`"
+":mtgtip:`Dragon's Herald<https://img.scryfall.com/cards/border_crop/front/2/"
+"d/2d5873e8-ba15-4a24-aab8-91f1f390d821.jpg?1562702338|https://scryfall.com/"
+"card/ala/98/dragons-herald?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:509
 msgid ""
-"|mana_2|\\ |mana_r|, |tap|, Sacrifice a black creature, a red creature, "
-"and a green creature: Search your library for a card named Hellkite "
-"Overlord and put it onto the battlefield. Then shuffle your library."
+"|mana_2|\\ |mana_r|, |tap|, Sacrifice a black creature, a red creature, and "
+"a green creature: Search your library for a card named Hellkite Overlord and "
+"put it onto the battlefield. Then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:516
 msgid ""
-":mtgtip:`Exuberant "
-"Firestoker<https://img.scryfall.com/cards/border_crop/en/ala/99.jpg?1517813031|https://scryfall.com/card/ala/99"
-"/exuberant-firestoker?utm_source=api>`"
+":mtgtip:`Exuberant Firestoker<https://img.scryfall.com/cards/border_crop/"
+"front/c/5/c5c08845-d195-447e-9e4d-020dcab5f80f.jpg?1562708783|https://"
+"scryfall.com/card/ala/99/exuberant-firestoker?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:513
 msgid ""
-"At the beginning of your end step, if you control a creature with power 5"
-" or greater, you may have Exuberant Firestoker deal 2 damage to target "
-"player or planeswalker."
+"At the beginning of your end step, if you control a creature with power 5 or "
+"greater, you may have Exuberant Firestoker deal 2 damage to target player or "
+"planeswalker."
 msgstr ""
 
 #: ../../ALA.rst:522
 msgid ""
-":mtgtip:`Flameblast "
-"Dragon<https://img.scryfall.com/cards/border_crop/en/ala/100.jpg?1517813031|https://scryfall.com/card/ala/100"
-"/flameblast-dragon?utm_source=api>`"
+":mtgtip:`Flameblast Dragon<https://img.scryfall.com/cards/border_crop/"
+"front/5/5/5544b26b-0bc4-4c1b-9616-613e9bf08557.jpg?1562704100|https://"
+"scryfall.com/card/ala/100/flameblast-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:521
 msgid ""
-"Whenever Flameblast Dragon attacks, you may pay |mana_x|\\ |mana_r|. If "
-"you do, Flameblast Dragon deals X damage to any target."
+"Whenever Flameblast Dragon attacks, you may pay |mana_x|\\ |mana_r|. If you "
+"do, Flameblast Dragon deals X damage to any target."
 msgstr ""
 
 #: ../../ALA.rst:528
 msgid ""
-":mtgtip:`Goblin "
-"Assault<https://img.scryfall.com/cards/border_crop/en/ala/101.jpg?1517813031|https://scryfall.com/card/ala/101"
-"/goblin-assault?utm_source=api>`"
+":mtgtip:`Goblin Assault<https://img.scryfall.com/cards/border_crop/front/d/0/"
+"d039402e-2c74-4bea-b360-b93979b52698.jpg?1562709193|https://scryfall.com/"
+"card/ala/101/goblin-assault?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:525
 msgid ""
-"At the beginning of your upkeep, create a 1/1 red Goblin creature token "
-"with haste."
+"At the beginning of your upkeep, create a 1/1 red Goblin creature token with "
+"haste."
 msgstr ""
 
 #: ../../ALA.rst:527
@@ -1443,9 +1469,9 @@ msgstr ""
 
 #: ../../ALA.rst:532
 msgid ""
-":mtgtip:`Goblin "
-"Mountaineer<https://img.scryfall.com/cards/border_crop/en/ala/102.jpg?1517813031|https://scryfall.com/card/ala/102"
-"/goblin-mountaineer?utm_source=api>`"
+":mtgtip:`Goblin Mountaineer<https://img.scryfall.com/cards/border_crop/"
+"front/1/a/1afa1475-797d-4cdc-93d6-e186c25e0bf5.jpg?1562701612|https://"
+"scryfall.com/card/ala/102/goblin-mountaineer?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:531
@@ -1458,9 +1484,9 @@ msgstr ""
 
 #: ../../ALA.rst:540
 msgid ""
-":mtgtip:`Hell's "
-"Thunder<https://img.scryfall.com/cards/border_crop/en/ala/103.jpg?1517813031|https://scryfall.com/card/ala/103"
-"/hells-thunder?utm_source=api>`"
+":mtgtip:`Hell's Thunder<https://img.scryfall.com/cards/border_crop/"
+"front/8/4/848f6c49-0913-4f12-886d-8b6defe8bfab.jpg?1562706117|https://"
+"scryfall.com/card/ala/103/hells-thunder?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:535 ../../ALA.rst:567
@@ -1473,37 +1499,37 @@ msgstr ""
 
 #: ../../ALA.rst:539
 msgid ""
-"Unearth |mana_4|\\ |mana_r| (|mana_4|\\ |mana_r|: Return this card from "
-"your graveyard to the battlefield. It gains haste. Exile it at the "
-"beginning of the next end step or if it would leave the battlefield. "
-"Unearth only as a sorcery.)"
+"Unearth |mana_4|\\ |mana_r| (|mana_4|\\ |mana_r|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:544
 msgid ""
-":mtgtip:`Hissing "
-"Iguanar<https://img.scryfall.com/cards/border_crop/en/ala/104.jpg?1517813031|https://scryfall.com/card/ala/104"
-"/hissing-iguanar?utm_source=api>`"
+":mtgtip:`Hissing Iguanar<https://img.scryfall.com/cards/border_crop/front/4/"
+"b/4b8b8b90-cb6e-4910-bc40-d96b78b0d70c.jpg?1562703618|https://scryfall.com/"
+"card/ala/104/hissing-iguanar?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:543
 msgid ""
-"Whenever another creature dies, you may have Hissing Iguanar deal 1 "
-"damage to target player or planeswalker."
+"Whenever another creature dies, you may have Hissing Iguanar deal 1 damage "
+"to target player or planeswalker."
 msgstr ""
 
 #: ../../ALA.rst:546
 msgid ""
-":mtgtip:`Incurable "
-"Ogre<https://img.scryfall.com/cards/border_crop/en/ala/105.jpg?1517813031|https://scryfall.com/card/ala/105"
-"/incurable-ogre?utm_source=api>`"
+":mtgtip:`Incurable Ogre<https://img.scryfall.com/cards/border_crop/front/5/"
+"a/5ad3381e-ae2f-40cf-8a7b-62375e9f453e.jpg?1562704324|https://scryfall.com/"
+"card/ala/105/incurable-ogre?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:554
 msgid ""
-":mtgtip:`Jund "
-"Battlemage<https://img.scryfall.com/cards/border_crop/en/ala/106.jpg?1517813031|https://scryfall.com/card/ala/106"
-"/jund-battlemage?utm_source=api>`"
+":mtgtip:`Jund Battlemage<https://img.scryfall.com/cards/border_crop/front/e/"
+"e/ee8c962f-11b0-48f7-bbba-a2212e41990f.jpg?1562710488|https://scryfall.com/"
+"card/ala/106/jund-battlemage?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:551
@@ -1516,46 +1542,46 @@ msgstr ""
 
 #: ../../ALA.rst:560
 msgid ""
-":mtgtip:`Lightning "
-"Talons<https://img.scryfall.com/cards/border_crop/en/ala/107.jpg?1517813031|https://scryfall.com/card/ala/107"
-"/lightning-talons?utm_source=api>`"
+":mtgtip:`Lightning Talons<https://img.scryfall.com/cards/border_crop/front/8/"
+"f/8fc1ad4c-b394-48b9-9a5a-ec9f42bf6a00.jpg?1562706538|https://scryfall.com/"
+"card/ala/107/lightning-talons?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:559
 msgid ""
-"Enchanted creature gets +3/+0 and has first strike. (It deals combat "
-"damage before creatures without first strike.)"
+"Enchanted creature gets +3/+0 and has first strike. (It deals combat damage "
+"before creatures without first strike.)"
 msgstr ""
 "Zauroczony stwór dostaje +3/+0 i ma pierwszy cios. (Zadaje obrażenia bojowe "
 "przed stworami bez pierwszego ciosu.)"
 
 #: ../../ALA.rst:564
 msgid ""
-":mtgtip:`Magma "
-"Spray<https://img.scryfall.com/cards/border_crop/en/ala/108.jpg?1517813031|https://scryfall.com/card/ala/108"
-"/magma-spray?utm_source=api>`"
+":mtgtip:`Magma Spray<https://img.scryfall.com/cards/border_crop/"
+"front/7/0/708ec768-f455-48e4-b834-e0a2b3768c45.jpg?1562705262|https://"
+"scryfall.com/card/ala/108/magma-spray?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:563
 msgid ""
-"Magma Spray deals 2 damage to target creature. If that creature would die"
-" this turn, exile it instead."
+"Magma Spray deals 2 damage to target creature. If that creature would die "
+"this turn, exile it instead."
 msgstr ""
 "Ten czar zadaje wskazanemu stworowi 2 obrażenia. Jeśli ów stwór miałby "
 "umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../ALA.rst:570
 msgid ""
-":mtgtip:`Predator "
-"Dragon<https://img.scryfall.com/cards/border_crop/en/ala/109.jpg?1517813031|https://scryfall.com/card/ala/109"
-"/predator-dragon?utm_source=api>`"
+":mtgtip:`Predator Dragon<https://img.scryfall.com/cards/border_crop/"
+"front/3/5/352c3c86-1662-4055-b814-026826632cff.jpg?1562702731|https://"
+"scryfall.com/card/ala/109/predator-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:578
 msgid ""
-":mtgtip:`Resounding "
-"Thunder<https://img.scryfall.com/cards/border_crop/en/ala/110.jpg?1517813031|https://scryfall.com/card/ala/110"
-"/resounding-thunder?utm_source=api>`"
+":mtgtip:`Resounding Thunder<https://img.scryfall.com/cards/border_crop/"
+"front/6/8/680b7955-d939-4195-aba8-b46a8c925616.jpg?1562704894|https://"
+"scryfall.com/card/ala/110/resounding-thunder?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:573
@@ -1564,8 +1590,8 @@ msgstr ""
 
 #: ../../ALA.rst:575
 msgid ""
-"Cycling |mana_5|\\ |mana_b|\\ |mana_r|\\ |mana_g| (|mana_5|\\ |mana_b|\\ "
-"|mana_r|\\ |mana_g|, Discard this card: Draw a card.)"
+"Cycling |mana_5|\\ |mana_b|\\ |mana_r|\\ |mana_g| (|mana_5|\\ |mana_b|\\ |"
+"mana_r|\\ |mana_g|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../ALA.rst:577
@@ -1574,16 +1600,16 @@ msgstr ""
 
 #: ../../ALA.rst:582
 msgid ""
-":mtgtip:`Ridge "
-"Rannet<https://img.scryfall.com/cards/border_crop/en/ala/111.jpg?1517813031|https://scryfall.com/card/ala/111"
-"/ridge-rannet?utm_source=api>`"
+":mtgtip:`Ridge Rannet<https://img.scryfall.com/cards/border_crop/"
+"front/4/2/4275a8dd-f777-4160-b773-9a868e743218.jpg?1562703177|https://"
+"scryfall.com/card/ala/111/ridge-rannet?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:588
 msgid ""
-":mtgtip:`Rockslide "
-"Elemental<https://img.scryfall.com/cards/border_crop/en/ala/112.jpg?1517813031|https://scryfall.com/card/ala/112"
-"/rockslide-elemental?utm_source=api>`"
+":mtgtip:`Rockslide Elemental<https://img.scryfall.com/cards/border_crop/"
+"front/d/4/d4f26025-8777-41a2-a871-ea8d1af164ae.jpg?1562709440|https://"
+"scryfall.com/card/ala/112/rockslide-elemental?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:587
@@ -1594,54 +1620,58 @@ msgstr ""
 
 #: ../../ALA.rst:594
 msgid ""
-":mtgtip:`Scourge "
-"Devil<https://img.scryfall.com/cards/border_crop/en/ala/113.jpg?1517813031|https://scryfall.com/card/ala/113"
-"/scourge-devil?utm_source=api>`"
+":mtgtip:`Scourge Devil<https://img.scryfall.com/cards/border_crop/"
+"front/9/7/976e2ba9-8d23-4aca-8b50-4beb598d4a60.jpg?1562706866|https://"
+"scryfall.com/card/ala/113/scourge-devil?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:591
 msgid ""
-"When Scourge Devil enters the battlefield, creatures you control get "
-"+1/+0 until end of turn."
+"When Scourge Devil enters the battlefield, creatures you control get +1/+0 "
+"until end of turn."
 msgstr ""
 
 #: ../../ALA.rst:593
 msgid ""
-"Unearth |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Return this card from "
-"your graveyard to the battlefield. It gains haste. Exile it at the "
-"beginning of the next end step or if it would leave the battlefield. "
-"Unearth only as a sorcery.)"
+"Unearth |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:598
-msgid ":mtgtip:`Skeletonize<https://img.scryfall.com/cards/border_crop/en/ala/114.jpg?1517813031|https://scryfall.com/card/ala/114/skeletonize?utm_source=api>`"
+msgid ""
+":mtgtip:`Skeletonize<https://img.scryfall.com/cards/border_crop/"
+"front/9/6/96c7f048-3e2b-4e97-a900-36da9b6ee2a8.jpg?1562706848|https://"
+"scryfall.com/card/ala/114/skeletonize?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:597
 msgid ""
-"Skeletonize deals 3 damage to target creature. When a creature dealt "
-"damage this way dies this turn, create a 1/1 black Skeleton creature "
-"token with \"|mana_b|: Regenerate this creature.\""
+"Skeletonize deals 3 damage to target creature. When a creature dealt damage "
+"this way dies this turn, create a 1/1 black Skeleton creature token with \"|"
+"mana_b|: Regenerate this creature.\""
 msgstr ""
 
 #: ../../ALA.rst:602
 msgid ""
-":mtgtip:`Soul's "
-"Fire<https://img.scryfall.com/cards/border_crop/en/ala/115.jpg?1517813031|https://scryfall.com/card/ala/115"
-"/souls-fire?utm_source=api>`"
+":mtgtip:`Soul's Fire<https://img.scryfall.com/cards/border_crop/front/e/5/"
+"e59a0305-65f8-45c4-859e-6c73544dfa3e.jpg?1562710127|https://scryfall.com/"
+"card/ala/115/souls-fire?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:601
-msgid "Target creature you control deals damage equal to its power to any target."
+msgid ""
+"Target creature you control deals damage equal to its power to any target."
 msgstr ""
 "Wskazany stwór pod twoim władaniem zadaje wskazanemu celowi obrażenia równe "
 "swojej sile."
 
 #: ../../ALA.rst:608
 msgid ""
-":mtgtip:`Thorn-Thrash "
-"Viashino<https://img.scryfall.com/cards/border_crop/en/ala/116.jpg?1517813031|https://scryfall.com/card/ala/116"
-"/thorn-thrash-viashino?utm_source=api>`"
+":mtgtip:`Thorn-Thrash Viashino<https://img.scryfall.com/cards/border_crop/"
+"front/e/7/e7987de9-d812-4615-845a-3a90572d9b44.jpg?1562710206|https://"
+"scryfall.com/card/ala/116/thorn-thrash-viashino?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:607
@@ -1650,23 +1680,23 @@ msgstr ""
 
 #: ../../ALA.rst:612
 msgid ""
-":mtgtip:`Thunder-Thrash "
-"Elder<https://img.scryfall.com/cards/border_crop/en/ala/117.jpg?1517813031|https://scryfall.com/card/ala/117"
-"/thunder-thrash-elder?utm_source=api>`"
+":mtgtip:`Thunder-Thrash Elder<https://img.scryfall.com/cards/border_crop/"
+"front/5/5/5552da28-01a3-4277-9e69-b297c3874ea4.jpg?1562704101|https://"
+"scryfall.com/card/ala/117/thunder-thrash-elder?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:611
 msgid ""
-"Devour 3 (As this enters the battlefield, you may sacrifice any number of"
-" creatures. This creature enters the battlefield with three times that "
-"many +1/+1 counters on it.)"
+"Devour 3 (As this enters the battlefield, you may sacrifice any number of "
+"creatures. This creature enters the battlefield with three times that many "
+"+1/+1 counters on it.)"
 msgstr ""
 
 #: ../../ALA.rst:616
 msgid ""
-":mtgtip:`Viashino "
-"Skeleton<https://img.scryfall.com/cards/border_crop/en/ala/118.jpg?1517813031|https://scryfall.com/card/ala/118"
-"/viashino-skeleton?utm_source=api>`"
+":mtgtip:`Viashino Skeleton<https://img.scryfall.com/cards/border_crop/front/"
+"b/9/b9451a62-31a4-4aaf-beef-2bf149f25ae3.jpg?1562708259|https://scryfall.com/"
+"card/ala/118/viashino-skeleton?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:615
@@ -1675,22 +1705,22 @@ msgstr ""
 
 #: ../../ALA.rst:620
 msgid ""
-":mtgtip:`Vicious "
-"Shadows<https://img.scryfall.com/cards/border_crop/en/ala/119.jpg?1517813031|https://scryfall.com/card/ala/119"
-"/vicious-shadows?utm_source=api>`"
+":mtgtip:`Vicious Shadows<https://img.scryfall.com/cards/border_crop/front/"
+"d/0/d040791e-eee4-4eef-ace1-507216a5d268.jpg?1562709199|https://scryfall.com/"
+"card/ala/119/vicious-shadows?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:619
 msgid ""
-"Whenever a creature dies, you may have Vicious Shadows deal damage to "
-"target player equal to the number of cards in that player's hand."
+"Whenever a creature dies, you may have Vicious Shadows deal damage to target "
+"player equal to the number of cards in that player's hand."
 msgstr ""
 
 #: ../../ALA.rst:626
 msgid ""
-":mtgtip:`Vithian "
-"Stinger<https://img.scryfall.com/cards/border_crop/en/ala/120.jpg?1517813031|https://scryfall.com/card/ala/120"
-"/vithian-stinger?utm_source=api>`"
+":mtgtip:`Vithian Stinger<https://img.scryfall.com/cards/border_crop/front/b/"
+"f/bf290e2f-2c78-4cf5-8925-0c598ec0d60e.jpg?1562708509|https://scryfall.com/"
+"card/ala/120/vithian-stinger?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:623
@@ -1699,17 +1729,17 @@ msgstr ""
 
 #: ../../ALA.rst:625
 msgid ""
-"Unearth |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|: Return this card from "
-"your graveyard to the battlefield. It gains haste. Exile it at the "
-"beginning of the next end step or if it would leave the battlefield. "
-"Unearth only as a sorcery.)"
+"Unearth |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:632
 msgid ""
-":mtgtip:`Volcanic "
-"Submersion<https://img.scryfall.com/cards/border_crop/en/ala/121.jpg?1517813031|https://scryfall.com/card/ala/121"
-"/volcanic-submersion?utm_source=api>`"
+":mtgtip:`Volcanic Submersion<https://img.scryfall.com/cards/border_crop/"
+"front/0/e/0ec1f1fa-41c9-4bc0-9171-902cd456aa73.jpg?1562701124|https://"
+"scryfall.com/card/ala/121/volcanic-submersion?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:629
@@ -1718,23 +1748,22 @@ msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../ALA.rst:636
 msgid ""
-":mtgtip:`Where Ancients "
-"Tread<https://img.scryfall.com/cards/border_crop/en/ala/122.jpg?1517813031|https://scryfall.com/card/ala/122"
-"/where-ancients-tread?utm_source=api>`"
+":mtgtip:`Where Ancients Tread<https://img.scryfall.com/cards/border_crop/"
+"front/7/9/797e3faa-9573-4639-be99-517708c06218.jpg?1562705626|https://"
+"scryfall.com/card/ala/122/where-ancients-tread?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:635
 msgid ""
 "Whenever a creature with power 5 or greater enters the battlefield under "
-"your control, you may have Where Ancients Tread deal 5 damage to any "
-"target."
+"your control, you may have Where Ancients Tread deal 5 damage to any target."
 msgstr ""
 
 #: ../../ALA.rst:642
 msgid ""
-":mtgtip:`Algae "
-"Gharial<https://img.scryfall.com/cards/border_crop/en/ala/123.jpg?1517813031|https://scryfall.com/card/ala/123"
-"/algae-gharial?utm_source=api>`"
+":mtgtip:`Algae Gharial<https://img.scryfall.com/cards/border_crop/"
+"front/9/4/946e08b5-1c99-467c-abba-07ddede07a6c.jpg?1562706729|https://"
+"scryfall.com/card/ala/123/algae-gharial?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:639 ../../ALA.rst:861 ../../ALA.rst:867
@@ -1743,29 +1772,28 @@ msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../ALA.rst:641
 msgid ""
-"Whenever another creature dies, you may put a +1/+1 counter on Algae "
-"Gharial."
+"Whenever another creature dies, you may put a +1/+1 counter on Algae Gharial."
 msgstr ""
 
 #: ../../ALA.rst:646
 msgid ""
-":mtgtip:`Behemoth's "
-"Herald<https://img.scryfall.com/cards/border_crop/en/ala/124.jpg?1517813031|https://scryfall.com/card/ala/124"
-"/behemoths-herald?utm_source=api>`"
+":mtgtip:`Behemoth's Herald<https://img.scryfall.com/cards/border_crop/front/"
+"b/5/b51e84d7-bf9f-454f-bdcd-a2458b1b5b33.jpg?1562708096|https://scryfall.com/"
+"card/ala/124/behemoths-herald?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:645
 msgid ""
-"|mana_2|\\ |mana_g|, |tap|, Sacrifice a red creature, a green creature, "
-"and a white creature: Search your library for a card named Godsire and "
-"put it onto the battlefield. Then shuffle your library."
+"|mana_2|\\ |mana_g|, |tap|, Sacrifice a red creature, a green creature, and "
+"a white creature: Search your library for a card named Godsire and put it "
+"onto the battlefield. Then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:650
 msgid ""
-":mtgtip:`Cavern "
-"Thoctar<https://img.scryfall.com/cards/border_crop/en/ala/125.jpg?1517813031|https://scryfall.com/card/ala/125"
-"/cavern-thoctar?utm_source=api>`"
+":mtgtip:`Cavern Thoctar<https://img.scryfall.com/cards/border_crop/"
+"front/3/4/34748acb-7045-42b6-a93f-a3f11a1bc839.jpg?1562702691|https://"
+"scryfall.com/card/ala/125/cavern-thoctar?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:649
@@ -1774,9 +1802,9 @@ msgstr ""
 
 #: ../../ALA.rst:656
 msgid ""
-":mtgtip:`Court "
-"Archers<https://img.scryfall.com/cards/border_crop/en/ala/126.jpg?1517813031|https://scryfall.com/card/ala/126"
-"/court-archers?utm_source=api>`"
+":mtgtip:`Court Archers<https://img.scryfall.com/cards/border_crop/front/a/3/"
+"a3776b1c-4a3f-43b9-962e-64010f286ba5.jpg?1562707331|https://scryfall.com/"
+"card/ala/126/court-archers?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:653 ../../ALA.rst:691
@@ -1785,16 +1813,16 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../ALA.rst:658
 msgid ""
-":mtgtip:`Cylian "
-"Elf<https://img.scryfall.com/cards/border_crop/en/ala/127.jpg?1517813031|https://scryfall.com/card/ala/127"
-"/cylian-elf?utm_source=api>`"
+":mtgtip:`Cylian Elf<https://img.scryfall.com/cards/border_crop/front/b/3/"
+"b3afaab6-4768-4852-a0b6-4e6a0295bde7.jpg?1562708032|https://scryfall.com/"
+"card/ala/127/cylian-elf?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:664
 msgid ""
-":mtgtip:`Druid of the "
-"Anima<https://img.scryfall.com/cards/border_crop/en/ala/128.jpg?1517813031|https://scryfall.com/card/ala/128"
-"/druid-of-the-anima?utm_source=api>`"
+":mtgtip:`Druid of the Anima<https://img.scryfall.com/cards/border_crop/front/"
+"d/e/de32bf78-73c2-4cd4-b3b3-ef8be53e1e5e.jpg?1562709851|https://scryfall.com/"
+"card/ala/128/druid-of-the-anima?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:663 ../../ALA.rst:1135 ../../ALA.rst:1199
@@ -1802,20 +1830,23 @@ msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
 msgstr "|tap|: Weź |mana_r|, |mana_g|, albo |mana_w|."
 
 #: ../../ALA.rst:670
-msgid ":mtgtip:`Drumhunter<https://img.scryfall.com/cards/border_crop/en/ala/129.jpg?1517813031|https://scryfall.com/card/ala/129/drumhunter?utm_source=api>`"
+msgid ""
+":mtgtip:`Drumhunter<https://img.scryfall.com/cards/border_crop/front/9/"
+"d/9d83b664-a17e-4a48-8b9a-bd3af2d9cd87.jpg?1562707139|https://scryfall.com/"
+"card/ala/129/drumhunter?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:667
 msgid ""
-"At the beginning of your end step, if you control a creature with power 5"
-" or greater, you may draw a card."
+"At the beginning of your end step, if you control a creature with power 5 or "
+"greater, you may draw a card."
 msgstr ""
 
 #: ../../ALA.rst:674
 msgid ""
-":mtgtip:`Elvish "
-"Visionary<https://img.scryfall.com/cards/border_crop/en/ala/130.jpg?1517813031|https://scryfall.com/card/ala/130"
-"/elvish-visionary?utm_source=api>`"
+":mtgtip:`Elvish Visionary<https://img.scryfall.com/cards/border_crop/front/f/"
+"a/faccfa5f-4d89-4a86-92d7-36cb5a16c5c9.jpg?1562711018|https://scryfall.com/"
+"card/ala/130/elvish-visionary?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:673
@@ -1824,9 +1855,9 @@ msgstr ""
 
 #: ../../ALA.rst:680
 msgid ""
-":mtgtip:`Feral "
-"Hydra<https://img.scryfall.com/cards/border_crop/en/ala/131.jpg?1517813031|https://scryfall.com/card/ala/131"
-"/feral-hydra?utm_source=api>`"
+":mtgtip:`Feral Hydra<https://img.scryfall.com/cards/border_crop/"
+"front/4/6/46f76986-e9fb-4c51-b946-880b501775b0.jpg?1562703397|https://"
+"scryfall.com/card/ala/131/feral-hydra?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:677
@@ -1835,59 +1866,62 @@ msgstr ""
 
 #: ../../ALA.rst:679
 msgid ""
-"|mana_3|: Put a +1/+1 counter on Feral Hydra. Any player may activate "
-"this ability."
+"|mana_3|: Put a +1/+1 counter on Feral Hydra. Any player may activate this "
+"ability."
 msgstr ""
 
 #: ../../ALA.rst:684
 msgid ""
-":mtgtip:`Gift of the "
-"Gargantuan<https://img.scryfall.com/cards/border_crop/en/ala/132.jpg?1517813031|https://scryfall.com/card/ala/132"
-"/gift-of-the-gargantuan?utm_source=api>`"
+":mtgtip:`Gift of the Gargantuan<https://img.scryfall.com/cards/border_crop/"
+"front/1/8/1850be87-54de-49b3-a407-6fb2b278b25c.jpg?1562701477|https://"
+"scryfall.com/card/ala/132/gift-of-the-gargantuan?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:683
 msgid ""
-"Look at the top four cards of your library. You may reveal a creature "
-"card and/or a land card from among them and put the revealed cards into "
-"your hand. Put the rest on the bottom of your library in any order."
+"Look at the top four cards of your library. You may reveal a creature card "
+"and/or a land card from among them and put the revealed cards into your "
+"hand. Put the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../ALA.rst:688
-msgid ":mtgtip:`Godtoucher<https://img.scryfall.com/cards/border_crop/en/ala/133.jpg?1517813031|https://scryfall.com/card/ala/133/godtoucher?utm_source=api>`"
+msgid ""
+":mtgtip:`Godtoucher<https://img.scryfall.com/cards/border_crop/"
+"front/0/3/032059cb-c1ad-4cc9-a89d-d68289800312.jpg?1562700656|https://"
+"scryfall.com/card/ala/133/godtoucher?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:687
 msgid ""
-"|mana_1|\\ |mana_w|, |tap|: Prevent all damage that would be dealt to "
-"target creature with power 5 or greater this turn."
+"|mana_1|\\ |mana_w|, |tap|: Prevent all damage that would be dealt to target "
+"creature with power 5 or greater this turn."
 msgstr ""
 
 #: ../../ALA.rst:694
 msgid ""
-":mtgtip:`Jungle "
-"Weaver<https://img.scryfall.com/cards/border_crop/en/ala/134.jpg?1517813031|https://scryfall.com/card/ala/134"
-"/jungle-weaver?utm_source=api>`"
+":mtgtip:`Jungle Weaver<https://img.scryfall.com/cards/border_crop/front/5/"
+"f/5f46870b-3d8d-4aae-8d59-6bd88a50b37c.jpg?1562704483|https://scryfall.com/"
+"card/ala/134/jungle-weaver?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:698
 msgid ""
-":mtgtip:`Keeper of "
-"Progenitus<https://img.scryfall.com/cards/border_crop/en/ala/135.jpg?1517813031|https://scryfall.com/card/ala/135"
-"/keeper-of-progenitus?utm_source=api>`"
+":mtgtip:`Keeper of Progenitus<https://img.scryfall.com/cards/border_crop/"
+"front/b/c/bcb023a2-e929-47e9-bd58-cbc6f241e7a4.jpg?1562708428|https://"
+"scryfall.com/card/ala/135/keeper-of-progenitus?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:697
 msgid ""
-"Whenever a player taps a Mountain, Forest, or Plains for mana, that "
-"player adds one mana of any type that land produced."
+"Whenever a player taps a Mountain, Forest, or Plains for mana, that player "
+"adds one mana of any type that land produced."
 msgstr ""
 
 #: ../../ALA.rst:704
 msgid ""
-":mtgtip:`Lush "
-"Growth<https://img.scryfall.com/cards/border_crop/en/ala/136.jpg?1517813031|https://scryfall.com/card/ala/136"
-"/lush-growth?utm_source=api>`"
+":mtgtip:`Lush Growth<https://img.scryfall.com/cards/border_crop/front/d/6/"
+"d62047f2-a41f-44b5-a6bc-28e35fad093b.jpg?1562709522|https://scryfall.com/"
+"card/ala/136/lush-growth?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:701
@@ -1900,9 +1934,9 @@ msgstr ""
 
 #: ../../ALA.rst:708
 msgid ""
-":mtgtip:`Mighty "
-"Emergence<https://img.scryfall.com/cards/border_crop/en/ala/137.jpg?1517813031|https://scryfall.com/card/ala/137"
-"/mighty-emergence?utm_source=api>`"
+":mtgtip:`Mighty Emergence<https://img.scryfall.com/cards/border_crop/front/8/"
+"e/8ee66318-4dbb-49a3-a3c8-ee0e1a9f02b7.jpg?1562706495|https://scryfall.com/"
+"card/ala/137/mighty-emergence?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:707
@@ -1912,37 +1946,49 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:712
-msgid ":mtgtip:`Manaplasm<https://img.scryfall.com/cards/border_crop/en/ala/138.jpg?1517813031|https://scryfall.com/card/ala/138/manaplasm?utm_source=api>`"
+msgid ""
+":mtgtip:`Manaplasm<https://img.scryfall.com/cards/border_crop/front/c/4/"
+"c48d2cc1-9868-4509-a541-728faf355b6d.jpg?1562708730|https://scryfall.com/"
+"card/ala/138/manaplasm?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:711
 msgid ""
-"Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where "
-"X is that spell's converted mana cost."
+"Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X "
+"is that spell's converted mana cost."
 msgstr ""
 
 #: ../../ALA.rst:716
-msgid ":mtgtip:`Mosstodon<https://img.scryfall.com/cards/border_crop/en/ala/139.jpg?1517813031|https://scryfall.com/card/ala/139/mosstodon?utm_source=api>`"
+msgid ""
+":mtgtip:`Mosstodon<https://img.scryfall.com/cards/border_crop/"
+"front/0/5/05afd921-ef3b-40fe-a1a8-582ee94ed3f0.jpg?1562700764|https://"
+"scryfall.com/card/ala/139/mosstodon?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:715
 msgid ""
-"|mana_1|: Target creature with power 5 or greater gains trample until end"
-" of turn."
+"|mana_1|: Target creature with power 5 or greater gains trample until end of "
+"turn."
 msgstr ""
 
 #: ../../ALA.rst:722
-msgid ":mtgtip:`Mycoloth<https://img.scryfall.com/cards/border_crop/en/ala/140.jpg?1517813031|https://scryfall.com/card/ala/140/mycoloth?utm_source=api>`"
+msgid ""
+":mtgtip:`Mycoloth<https://img.scryfall.com/cards/border_crop/"
+"front/1/5/15360a16-b785-4ffe-bfa8-6c7f6a37455d.jpg?1562701361|https://"
+"scryfall.com/card/ala/140/mycoloth?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:721
 msgid ""
-"At the beginning of your upkeep, create a 1/1 green Saproling creature "
-"token for each +1/+1 counter on Mycoloth."
+"At the beginning of your upkeep, create a 1/1 green Saproling creature token "
+"for each +1/+1 counter on Mycoloth."
 msgstr ""
 
 #: ../../ALA.rst:726
-msgid ":mtgtip:`Naturalize<https://img.scryfall.com/cards/border_crop/en/ala/141.jpg?1517813031|https://scryfall.com/card/ala/141/naturalize?utm_source=api>`"
+msgid ""
+":mtgtip:`Naturalize<https://img.scryfall.com/cards/border_crop/"
+"front/7/5/7531879b-d5fd-4b60-b838-733883571473.jpg?1562705476|https://"
+"scryfall.com/card/ala/141/naturalize?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:725
@@ -1951,9 +1997,9 @@ msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../ALA.rst:732
 msgid ""
-":mtgtip:`Naya "
-"Battlemage<https://img.scryfall.com/cards/border_crop/en/ala/142.jpg?1517813031|https://scryfall.com/card/ala/142"
-"/naya-battlemage?utm_source=api>`"
+":mtgtip:`Naya Battlemage<https://img.scryfall.com/cards/border_crop/front/4/"
+"f/4fe73f62-2e80-4d5f-b7b5-c54c895a3e4d.jpg?1562703809|https://scryfall.com/"
+"card/ala/142/naya-battlemage?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:729
@@ -1966,23 +2012,23 @@ msgstr ""
 
 #: ../../ALA.rst:736
 msgid ""
-":mtgtip:`Ooze "
-"Garden<https://img.scryfall.com/cards/border_crop/en/ala/143.jpg?1517813031|https://scryfall.com/card/ala/143"
-"/ooze-garden?utm_source=api>`"
+":mtgtip:`Ooze Garden<https://img.scryfall.com/cards/border_crop/"
+"front/6/2/623e57ed-7ed7-4283-b48f-77ecacad70b0.jpg?1562704660|https://"
+"scryfall.com/card/ala/143/ooze-garden?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:735
 msgid ""
-"|mana_1|\\ |mana_g|, Sacrifice a non-Ooze creature: Create an X/X green "
-"Ooze creature token, where X is the sacrificed creature's power. Activate"
-" this ability only any time you could cast a sorcery."
+"|mana_1|\\ |mana_g|, Sacrifice a non-Ooze creature: Create an X/X green Ooze "
+"creature token, where X is the sacrificed creature's power. Activate this "
+"ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../ALA.rst:744
 msgid ""
-":mtgtip:`Resounding "
-"Roar<https://img.scryfall.com/cards/border_crop/en/ala/144.jpg?1517813031|https://scryfall.com/card/ala/144"
-"/resounding-roar?utm_source=api>`"
+":mtgtip:`Resounding Roar<https://img.scryfall.com/cards/border_crop/"
+"front/2/1/217bf237-a758-4500-b221-5e88fed9d0fc.jpg?1562701871|https://"
+"scryfall.com/card/ala/144/resounding-roar?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:739
@@ -1991,21 +2037,20 @@ msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 
 #: ../../ALA.rst:741
 msgid ""
-"Cycling |mana_5|\\ |mana_r|\\ |mana_g|\\ |mana_w| (|mana_5|\\ |mana_r|\\ "
-"|mana_g|\\ |mana_w|, Discard this card: Draw a card.)"
+"Cycling |mana_5|\\ |mana_r|\\ |mana_g|\\ |mana_w| (|mana_5|\\ |mana_r|\\ |"
+"mana_g|\\ |mana_w|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../ALA.rst:743
 msgid ""
-"When you cycle Resounding Roar, target creature gets +6/+6 until end of "
-"turn."
+"When you cycle Resounding Roar, target creature gets +6/+6 until end of turn."
 msgstr ""
 
 #: ../../ALA.rst:750
 msgid ""
-":mtgtip:`Rhox "
-"Charger<https://img.scryfall.com/cards/border_crop/en/ala/145.jpg?1517813031|https://scryfall.com/card/ala/145"
-"/rhox-charger?utm_source=api>`"
+":mtgtip:`Rhox Charger<https://img.scryfall.com/cards/border_crop/front/8/"
+"a/8aaae6a3-ae3c-4b7e-82e8-69147f61ee18.jpg?1562706373|https://scryfall.com/"
+"card/ala/145/rhox-charger?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:747 ../../ALA.rst:889
@@ -2014,22 +2059,22 @@ msgstr "Tratowanie"
 
 #: ../../ALA.rst:754
 msgid ""
-":mtgtip:`Sacellum "
-"Godspeaker<https://img.scryfall.com/cards/border_crop/en/ala/146.jpg?1517813031|https://scryfall.com/card/ala/146"
-"/sacellum-godspeaker?utm_source=api>`"
+":mtgtip:`Sacellum Godspeaker<https://img.scryfall.com/cards/border_crop/"
+"front/c/a/cad80819-22d4-43a8-97b2-7cf20f61bca5.jpg?1562708949|https://"
+"scryfall.com/card/ala/146/sacellum-godspeaker?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:753
 msgid ""
-"|tap|: Reveal any number of creature cards with power 5 or greater from "
-"your hand. Add |mana_g| for each card revealed this way."
+"|tap|: Reveal any number of creature cards with power 5 or greater from your "
+"hand. Add |mana_g| for each card revealed this way."
 msgstr ""
 
 #: ../../ALA.rst:762
 msgid ""
-":mtgtip:`Savage "
-"Hunger<https://img.scryfall.com/cards/border_crop/en/ala/147.jpg?1517813031|https://scryfall.com/card/ala/147"
-"/savage-hunger?utm_source=api>`"
+":mtgtip:`Savage Hunger<https://img.scryfall.com/cards/border_crop/"
+"front/0/3/0367fac8-6990-4544-ac7d-ed363b55a9cf.jpg?1562700664|https://"
+"scryfall.com/card/ala/147/savage-hunger?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:759
@@ -2037,31 +2082,35 @@ msgid "Enchanted creature gets +1/+0 and has trample."
 msgstr ""
 
 #: ../../ALA.rst:768
-msgid ":mtgtip:`Skullmulcher<https://img.scryfall.com/cards/border_crop/en/ala/148.jpg?1517813031|https://scryfall.com/card/ala/148/skullmulcher?utm_source=api>`"
+msgid ""
+":mtgtip:`Skullmulcher<https://img.scryfall.com/cards/border_crop/front/b/5/"
+"b5178576-573d-4da8-97ae-a684e1e95fa4.jpg?1562708094|https://scryfall.com/"
+"card/ala/148/skullmulcher?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:767
 msgid ""
-"When Skullmulcher enters the battlefield, draw a card for each creature "
-"it devoured."
+"When Skullmulcher enters the battlefield, draw a card for each creature it "
+"devoured."
 msgstr ""
 
 #: ../../ALA.rst:772
 msgid ""
-":mtgtip:`Soul's "
-"Might<https://img.scryfall.com/cards/border_crop/en/ala/149.jpg?1517813031|https://scryfall.com/card/ala/149"
-"/souls-might?utm_source=api>`"
+":mtgtip:`Soul's Might<https://img.scryfall.com/cards/border_crop/"
+"front/7/7/77ef536d-d55b-447a-b6ab-04123f1cfaa3.jpg?1562705599|https://"
+"scryfall.com/card/ala/149/souls-might?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:771
-msgid "Put X +1/+1 counters on target creature, where X is that creature's power."
+msgid ""
+"Put X +1/+1 counters on target creature, where X is that creature's power."
 msgstr ""
 
 #: ../../ALA.rst:778
 msgid ""
-":mtgtip:`Spearbreaker "
-"Behemoth<https://img.scryfall.com/cards/border_crop/en/ala/150.jpg?1517813031|https://scryfall.com/card/ala/150"
-"/spearbreaker-behemoth?utm_source=api>`"
+":mtgtip:`Spearbreaker Behemoth<https://img.scryfall.com/cards/border_crop/"
+"front/1/3/132367ee-22e9-48e2-82e0-62ad9aaa62f3.jpg?1562701266|https://"
+"scryfall.com/card/ala/150/spearbreaker-behemoth?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:775
@@ -2070,28 +2119,28 @@ msgstr "Niezniszczalność"
 
 #: ../../ALA.rst:777
 msgid ""
-"|mana_1|: Target creature with power 5 or greater gains indestructible "
-"until end of turn."
+"|mana_1|: Target creature with power 5 or greater gains indestructible until "
+"end of turn."
 msgstr ""
 
 #: ../../ALA.rst:782
 msgid ""
-":mtgtip:`Topan "
-"Ascetic<https://img.scryfall.com/cards/border_crop/en/ala/151.jpg?1517813031|https://scryfall.com/card/ala/151"
-"/topan-ascetic?utm_source=api>`"
+":mtgtip:`Topan Ascetic<https://img.scryfall.com/cards/border_crop/front/6/"
+"d/6d0952ed-efc7-4ff5-a233-e64c0f11119b.jpg?1562705102|https://scryfall.com/"
+"card/ala/151/topan-ascetic?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:781
 msgid ""
-"Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end "
-"of turn."
+"Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of "
+"turn."
 msgstr ""
 
 #: ../../ALA.rst:788
 msgid ""
-":mtgtip:`Wild "
-"Nacatl<https://img.scryfall.com/cards/border_crop/en/ala/152.jpg?1517813031|https://scryfall.com/card/ala/152"
-"/wild-nacatl?utm_source=api>`"
+":mtgtip:`Wild Nacatl<https://img.scryfall.com/cards/border_crop/front/5/"
+"e/5eb18038-eb6a-4d27-ba52-52a1cee6b512.jpg?1562704462|https://scryfall.com/"
+"card/ala/152/wild-nacatl?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:785
@@ -2104,9 +2153,9 @@ msgstr ""
 
 #: ../../ALA.rst:794
 msgid ""
-":mtgtip:`Agony "
-"Warp<https://img.scryfall.com/cards/border_crop/en/ala/153.jpg?1517813031|https://scryfall.com/card/ala/153"
-"/agony-warp?utm_source=api>`"
+":mtgtip:`Agony Warp<https://img.scryfall.com/cards/border_crop/front/e/2/"
+"e246294f-7614-48e9-a655-647faf0bf697.jpg?1562710015|https://scryfall.com/"
+"card/ala/153/agony-warp?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:791
@@ -2119,15 +2168,14 @@ msgstr ""
 
 #: ../../ALA.rst:802
 msgid ""
-":mtgtip:`Ajani "
-"Vengeant<https://img.scryfall.com/cards/border_crop/en/ala/154.jpg?1517813031|https://scryfall.com/card/ala/154"
-"/ajani-vengeant?utm_source=api>`"
+":mtgtip:`Ajani Vengeant<https://img.scryfall.com/cards/border_crop/front/8/"
+"f/8fc108a3-15e5-44ab-a6e2-182b309f9c0c.jpg?1562706537|https://scryfall.com/"
+"card/ala/154/ajani-vengeant?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:797
 msgid ""
-"+1: Target permanent doesn't untap during its controller's next untap "
-"step."
+"+1: Target permanent doesn't untap during its controller's next untap step."
 msgstr ""
 
 #: ../../ALA.rst:799
@@ -2140,9 +2188,9 @@ msgstr ""
 
 #: ../../ALA.rst:812
 msgid ""
-":mtgtip:`Bant "
-"Charm<https://img.scryfall.com/cards/border_crop/en/ala/155.jpg?1517813031|https://scryfall.com/card/ala/155"
-"/bant-charm?utm_source=api>`"
+":mtgtip:`Bant Charm<https://img.scryfall.com/cards/border_crop/"
+"front/6/5/65b65c87-b084-44aa-b841-411a3c73e234.jpg?1562704776|https://"
+"scryfall.com/card/ala/155/bant-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:805 ../../ALA.rst:873 ../../ALA.rst:899 ../../ALA.rst:927
@@ -2163,20 +2211,23 @@ msgid "Counter target instant spell."
 msgstr ""
 
 #: ../../ALA.rst:816
-msgid ":mtgtip:`Blightning<https://img.scryfall.com/cards/border_crop/en/ala/156.jpg?1517813031|https://scryfall.com/card/ala/156/blightning?utm_source=api>`"
+msgid ""
+":mtgtip:`Blightning<https://img.scryfall.com/cards/border_crop/front/3/"
+"c/3c05e8a2-b7d0-4f24-b2ae-8e4db30e5842.jpg?1562702945|https://scryfall.com/"
+"card/ala/156/blightning?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:815
 msgid ""
-"Blightning deals 3 damage to target player or planeswalker. That player "
-"or that planeswalker's controller discards two cards."
+"Blightning deals 3 damage to target player or planeswalker. That player or "
+"that planeswalker's controller discards two cards."
 msgstr ""
 
 #: ../../ALA.rst:822
 msgid ""
-":mtgtip:`Blood "
-"Cultist<https://img.scryfall.com/cards/border_crop/en/ala/157.jpg?1517813031|https://scryfall.com/card/ala/157"
-"/blood-cultist?utm_source=api>`"
+":mtgtip:`Blood Cultist<https://img.scryfall.com/cards/border_crop/front/f/b/"
+"fb468da0-b72b-4b46-994a-20677206ffb7.jpg?1562711035|https://scryfall.com/"
+"card/ala/157/blood-cultist?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:819
@@ -2185,15 +2236,15 @@ msgstr ""
 
 #: ../../ALA.rst:821
 msgid ""
-"Whenever a creature dealt damage by Blood Cultist this turn dies, put a "
-"+1/+1 counter on Blood Cultist."
+"Whenever a creature dealt damage by Blood Cultist this turn dies, put a +1/"
+"+1 counter on Blood Cultist."
 msgstr ""
 
 #: ../../ALA.rst:830
 msgid ""
-":mtgtip:`Branching "
-"Bolt<https://img.scryfall.com/cards/border_crop/en/ala/158.jpg?1517813031|https://scryfall.com/card/ala/158"
-"/branching-bolt?utm_source=api>`"
+":mtgtip:`Branching Bolt<https://img.scryfall.com/cards/border_crop/front/e/7/"
+"e7468876-f401-4a75-81c0-bed09cdda3e1.jpg?1562710195|https://scryfall.com/"
+"card/ala/158/branching-bolt?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:825
@@ -2210,23 +2261,23 @@ msgstr ""
 
 #: ../../ALA.rst:834
 msgid ""
-":mtgtip:`Brilliant "
-"Ultimatum<https://img.scryfall.com/cards/border_crop/en/ala/159.jpg?1517813031|https://scryfall.com/card/ala/159"
-"/brilliant-ultimatum?utm_source=api>`"
+":mtgtip:`Brilliant Ultimatum<https://img.scryfall.com/cards/border_crop/"
+"front/5/9/593409fd-26ef-463e-9101-ec5ad53dfd67.jpg?1562704267|https://"
+"scryfall.com/card/ala/159/brilliant-ultimatum?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:833
 msgid ""
-"Exile the top five cards of your library. An opponent separates those "
-"cards into two piles. You may play any number of cards from one of those "
-"piles without paying their mana costs."
+"Exile the top five cards of your library. An opponent separates those cards "
+"into two piles. You may play any number of cards from one of those piles "
+"without paying their mana costs."
 msgstr ""
 
 #: ../../ALA.rst:840
 msgid ""
-":mtgtip:`Broodmate "
-"Dragon<https://img.scryfall.com/cards/border_crop/en/ala/160.jpg?1517813031|https://scryfall.com/card/ala/160"
-"/broodmate-dragon?utm_source=api>`"
+":mtgtip:`Broodmate Dragon<https://img.scryfall.com/cards/border_crop/front/a/"
+"e/aea1360e-7c6b-400c-893a-82d93e53101e.jpg?1562707795|https://scryfall.com/"
+"card/ala/160/broodmate-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:839
@@ -2237,9 +2288,9 @@ msgstr ""
 
 #: ../../ALA.rst:844
 msgid ""
-":mtgtip:`Bull "
-"Cerodon<https://img.scryfall.com/cards/border_crop/en/ala/161.jpg?1517813031|https://scryfall.com/card/ala/161"
-"/bull-cerodon?utm_source=api>`"
+":mtgtip:`Bull Cerodon<https://img.scryfall.com/cards/border_crop/front/b/b/"
+"bbae0fe2-5d52-434c-8ad1-4a5e42f4b7c4.jpg?1562708388|https://scryfall.com/"
+"card/ala/161/bull-cerodon?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:843
@@ -2248,70 +2299,69 @@ msgstr ""
 
 #: ../../ALA.rst:848
 msgid ""
-":mtgtip:`Carrion "
-"Thrash<https://img.scryfall.com/cards/border_crop/en/ala/162.jpg?1517813031|https://scryfall.com/card/ala/162"
-"/carrion-thrash?utm_source=api>`"
+":mtgtip:`Carrion Thrash<https://img.scryfall.com/cards/border_crop/front/f/1/"
+"f14c7b9e-eb80-4842-8aa3-1d0c46d9677e.jpg?1562710597|https://scryfall.com/"
+"card/ala/162/carrion-thrash?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:847
 msgid ""
-"When Carrion Thrash dies, you may pay |mana_2|. If you do, return another"
-" target creature card from your graveyard to your hand."
+"When Carrion Thrash dies, you may pay |mana_2|. If you do, return another "
+"target creature card from your graveyard to your hand."
 msgstr ""
 
 #: ../../ALA.rst:852
 msgid ""
-":mtgtip:`Clarion "
-"Ultimatum<https://img.scryfall.com/cards/border_crop/en/ala/163.jpg?1517813031|https://scryfall.com/card/ala/163"
-"/clarion-ultimatum?utm_source=api>`"
+":mtgtip:`Clarion Ultimatum<https://img.scryfall.com/cards/border_crop/"
+"front/3/9/39e8bf21-0baf-4ee9-b224-b9eee50df280.jpg?1562702886|https://"
+"scryfall.com/card/ala/163/clarion-ultimatum?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:851
 msgid ""
-"Choose five permanents you control. For each of those permanents, you may"
-" search your library for a card with the same name as that permanent. Put"
-" those cards onto the battlefield tapped, then shuffle your library."
+"Choose five permanents you control. For each of those permanents, you may "
+"search your library for a card with the same name as that permanent. Put "
+"those cards onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:856
 msgid ""
-":mtgtip:`Cruel "
-"Ultimatum<https://img.scryfall.com/cards/border_crop/en/ala/164.jpg?1517813031|https://scryfall.com/card/ala/164"
-"/cruel-ultimatum?utm_source=api>`"
+":mtgtip:`Cruel Ultimatum<https://img.scryfall.com/cards/border_crop/front/0/"
+"d/0d267804-23de-4521-ae64-4dd5cd836c6c.jpg?1562701048|https://scryfall.com/"
+"card/ala/164/cruel-ultimatum?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:855
 msgid ""
-"Target opponent sacrifices a creature, discards three cards, then loses 5"
-" life. You return a creature card from your graveyard to your hand, draw "
+"Target opponent sacrifices a creature, discards three cards, then loses 5 "
+"life. You return a creature card from your graveyard to your hand, draw "
 "three cards, then gain 5 life."
 msgstr ""
 
 #: ../../ALA.rst:862
 msgid ""
-":mtgtip:`Deft "
-"Duelist<https://img.scryfall.com/cards/border_crop/en/ala/165.jpg?1517813031|https://scryfall.com/card/ala/165"
-"/deft-duelist?utm_source=api>`"
+":mtgtip:`Deft Duelist<https://img.scryfall.com/cards/border_crop/front/c/4/"
+"c4885a83-9410-4c88-b45e-1e1626fe90ea.jpg?1562708728|https://scryfall.com/"
+"card/ala/165/deft-duelist?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:870
 msgid ""
-":mtgtip:`Empyrial "
-"Archangel<https://img.scryfall.com/cards/border_crop/en/ala/166.jpg?1517813031|https://scryfall.com/card/ala/166"
-"/empyrial-archangel?utm_source=api>`"
+":mtgtip:`Empyrial Archangel<https://img.scryfall.com/cards/border_crop/"
+"front/4/3/43b789ea-df50-49a5-bd64-3b74b4042f83.jpg?1562703229|https://"
+"scryfall.com/card/ala/166/empyrial-archangel?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:869
 msgid ""
-"All damage that would be dealt to you is dealt to Empyrial Archangel "
-"instead."
+"All damage that would be dealt to you is dealt to Empyrial Archangel instead."
 msgstr ""
 
 #: ../../ALA.rst:880
 msgid ""
-":mtgtip:`Esper "
-"Charm<https://img.scryfall.com/cards/border_crop/en/ala/167.jpg?1517813031|https://scryfall.com/card/ala/167"
-"/esper-charm?utm_source=api>`"
+":mtgtip:`Esper Charm<https://img.scryfall.com/cards/border_crop/front/a/3/"
+"a3d70a07-8d91-462c-aa96-901cc9a81531.jpg?1562707353|https://scryfall.com/"
+"card/ala/167/esper-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:875
@@ -2328,9 +2378,9 @@ msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../ALA.rst:886
 msgid ""
-":mtgtip:`Fire-Field "
-"Ogre<https://img.scryfall.com/cards/border_crop/en/ala/168.jpg?1517813031|https://scryfall.com/card/ala/168"
-"/fire-field-ogre?utm_source=api>`"
+":mtgtip:`Fire-Field Ogre<https://img.scryfall.com/cards/border_crop/"
+"front/7/0/70db6085-9707-4902-966d-b13bb6a0f62f.jpg?1562705269|https://"
+"scryfall.com/card/ala/168/fire-field-ogre?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:885
@@ -2343,13 +2393,16 @@ msgstr ""
 
 #: ../../ALA.rst:890
 msgid ""
-":mtgtip:`Goblin "
-"Deathraiders<https://img.scryfall.com/cards/border_crop/en/ala/169.jpg?1517813031|https://scryfall.com/card/ala/169"
-"/goblin-deathraiders?utm_source=api>`"
+":mtgtip:`Goblin Deathraiders<https://img.scryfall.com/cards/border_crop/"
+"front/7/6/76fd1253-1af1-42a7-9875-4d6ac9ce722c.jpg?1562705547|https://"
+"scryfall.com/card/ala/169/goblin-deathraiders?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:896
-msgid ":mtgtip:`Godsire<https://img.scryfall.com/cards/border_crop/en/ala/170.jpg?1517813031|https://scryfall.com/card/ala/170/godsire?utm_source=api>`"
+msgid ""
+":mtgtip:`Godsire<https://img.scryfall.com/cards/border_crop/front/e/2/"
+"e2539ff7-2b7d-47e3-bd77-3138a6c42d2b.jpg?1562710016|https://scryfall.com/"
+"card/ala/170/godsire?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:893 ../../ALA.rst:1051
@@ -2362,9 +2415,9 @@ msgstr ""
 
 #: ../../ALA.rst:906
 msgid ""
-":mtgtip:`Grixis "
-"Charm<https://img.scryfall.com/cards/border_crop/en/ala/171.jpg?1517813031|https://scryfall.com/card/ala/171"
-"/grixis-charm?utm_source=api>`"
+":mtgtip:`Grixis Charm<https://img.scryfall.com/cards/border_crop/front/a/9/"
+"a98a6695-44ce-445f-b476-e18a0b5dd8f2.jpg?1562707577|https://scryfall.com/"
+"card/ala/171/grixis-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:903
@@ -2377,9 +2430,9 @@ msgstr "Stwory pod twoim władaniem dostają +2/+0 do końca tury."
 
 #: ../../ALA.rst:914
 msgid ""
-":mtgtip:`Hellkite "
-"Overlord<https://img.scryfall.com/cards/border_crop/en/ala/172.jpg?1517813031|https://scryfall.com/card/ala/172"
-"/hellkite-overlord?utm_source=api>`"
+":mtgtip:`Hellkite Overlord<https://img.scryfall.com/cards/border_crop/"
+"front/8/9/89185829-5c93-4fd9-8c56-11820be6a970.jpg?1562706326|https://"
+"scryfall.com/card/ala/172/hellkite-overlord?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:909
@@ -2396,9 +2449,9 @@ msgstr ""
 
 #: ../../ALA.rst:920
 msgid ""
-":mtgtip:`Hindering "
-"Light<https://img.scryfall.com/cards/border_crop/en/ala/173.jpg?1517813031|https://scryfall.com/card/ala/173"
-"/hindering-light?utm_source=api>`"
+":mtgtip:`Hindering Light<https://img.scryfall.com/cards/border_crop/"
+"front/9/8/98e43870-4bed-4d76-a633-a6326c736d22.jpg?1562706936|https://"
+"scryfall.com/card/ala/173/hindering-light?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:917
@@ -2411,9 +2464,9 @@ msgstr "Dobierz kartę."
 
 #: ../../ALA.rst:924
 msgid ""
-":mtgtip:`Jhessian "
-"Infiltrator<https://img.scryfall.com/cards/border_crop/en/ala/174.jpg?1517813031|https://scryfall.com/card/ala/174"
-"/jhessian-infiltrator?utm_source=api>`"
+":mtgtip:`Jhessian Infiltrator<https://img.scryfall.com/cards/border_crop/"
+"front/1/7/1761d867-2eb0-406b-b175-97a90c457844.jpg?1562701439|https://"
+"scryfall.com/card/ala/174/jhessian-infiltrator?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:923
@@ -2422,9 +2475,9 @@ msgstr ""
 
 #: ../../ALA.rst:934
 msgid ""
-":mtgtip:`Jund "
-"Charm<https://img.scryfall.com/cards/border_crop/en/ala/175.jpg?1517813031|https://scryfall.com/card/ala/175"
-"/jund-charm?utm_source=api>`"
+":mtgtip:`Jund Charm<https://img.scryfall.com/cards/border_crop/front/7/"
+"a/7a0ddf00-926c-4283-a8b2-daa02fa99b8b.jpg?1562705657|https://scryfall.com/"
+"card/ala/175/jund-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:929
@@ -2441,13 +2494,14 @@ msgstr ""
 
 #: ../../ALA.rst:940
 msgid ""
-":mtgtip:`Kederekt "
-"Creeper<https://img.scryfall.com/cards/border_crop/en/ala/176.jpg?1517813031|https://scryfall.com/card/ala/176"
-"/kederekt-creeper?utm_source=api>`"
+":mtgtip:`Kederekt Creeper<https://img.scryfall.com/cards/border_crop/"
+"front/7/0/701498e5-1d4d-42f4-9dd0-5d4cf78f0e68.jpg?1562705243|https://"
+"scryfall.com/card/ala/176/kederekt-creeper?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:937
-msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+msgid ""
+"Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
 "Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
 "dwa stwory.)"
@@ -2462,9 +2516,9 @@ msgstr ""
 
 #: ../../ALA.rst:944
 msgid ""
-":mtgtip:`Kiss of the "
-"Amesha<https://img.scryfall.com/cards/border_crop/en/ala/177.jpg?1517813031|https://scryfall.com/card/ala/177"
-"/kiss-of-the-amesha?utm_source=api>`"
+":mtgtip:`Kiss of the Amesha<https://img.scryfall.com/cards/border_crop/"
+"front/9/9/993b094f-1d43-4240-9333-398464fc1ac6.jpg?1562706948|https://"
+"scryfall.com/card/ala/177/kiss-of-the-amesha?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:943
@@ -2473,37 +2527,37 @@ msgstr ""
 
 #: ../../ALA.rst:948
 msgid ""
-":mtgtip:`Kresh the "
-"Bloodbraided<https://img.scryfall.com/cards/border_crop/en/ala/178.jpg?1517813031|https://scryfall.com/card/ala/178"
-"/kresh-the-bloodbraided?utm_source=api>`"
+":mtgtip:`Kresh the Bloodbraided<https://img.scryfall.com/cards/border_crop/"
+"front/d/4/d485fe46-ed24-4b55-8ddc-ac2fdf4eec93.jpg?1562709423|https://"
+"scryfall.com/card/ala/178/kresh-the-bloodbraided?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:947
 msgid ""
-"Whenever another creature dies, you may put X +1/+1 counters on Kresh the"
-" Bloodbraided, where X is that creature's power."
+"Whenever another creature dies, you may put X +1/+1 counters on Kresh the "
+"Bloodbraided, where X is that creature's power."
 msgstr ""
 
 #: ../../ALA.rst:952
 msgid ""
-":mtgtip:`Mayael the "
-"Anima<https://img.scryfall.com/cards/border_crop/en/ala/179.jpg?1517813031|https://scryfall.com/card/ala/179"
-"/mayael-the-anima?utm_source=api>`"
+":mtgtip:`Mayael the Anima<https://img.scryfall.com/cards/border_crop/"
+"front/3/1/316b1fd1-5ec4-4bdc-938b-cbace1bb3f42.jpg?1562702547|https://"
+"scryfall.com/card/ala/179/mayael-the-anima?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:951
 msgid ""
-"|mana_3|\\ |mana_r|\\ |mana_g|\\ |mana_w|, |tap|: Look at the top five "
-"cards of your library. You may put a creature card with power 5 or "
-"greater from among them onto the battlefield. Put the rest on the bottom "
-"of your library in any order."
+"|mana_3|\\ |mana_r|\\ |mana_g|\\ |mana_w|, |tap|: Look at the top five cards "
+"of your library. You may put a creature card with power 5 or greater from "
+"among them onto the battlefield. Put the rest on the bottom of your library "
+"in any order."
 msgstr ""
 
 #: ../../ALA.rst:962
 msgid ""
-":mtgtip:`Naya "
-"Charm<https://img.scryfall.com/cards/border_crop/en/ala/180.jpg?1517813031|https://scryfall.com/card/ala/180"
-"/naya-charm?utm_source=api>`"
+":mtgtip:`Naya Charm<https://img.scryfall.com/cards/border_crop/"
+"front/4/7/47748c3a-c60a-4f2e-9eb8-2675c067bb9c.jpg?1562703420|https://"
+"scryfall.com/card/ala/180/naya-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:957
@@ -2519,34 +2573,37 @@ msgid "Tap all creatures target player controls."
 msgstr ""
 
 #: ../../ALA.rst:966
-msgid ":mtgtip:`Necrogenesis<https://img.scryfall.com/cards/border_crop/en/ala/181.jpg?1517813031|https://scryfall.com/card/ala/181/necrogenesis?utm_source=api>`"
+msgid ""
+":mtgtip:`Necrogenesis<https://img.scryfall.com/cards/border_crop/front/1/"
+"d/1dc3ea5f-1261-4f27-a87a-2b4475ad6a4b.jpg?1562701705|https://scryfall.com/"
+"card/ala/181/necrogenesis?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:965
 msgid ""
-"|mana_2|: Exile target creature card from a graveyard. Create a 1/1 green"
-" Saproling creature token."
+"|mana_2|: Exile target creature card from a graveyard. Create a 1/1 green "
+"Saproling creature token."
 msgstr ""
 
 #: ../../ALA.rst:970
 msgid ""
-":mtgtip:`Prince of "
-"Thralls<https://img.scryfall.com/cards/border_crop/en/ala/182.jpg?1517813031|https://scryfall.com/card/ala/182"
-"/prince-of-thralls?utm_source=api>`"
+":mtgtip:`Prince of Thralls<https://img.scryfall.com/cards/border_crop/"
+"front/5/6/56d6e8a2-d1b0-4aae-95f5-6ecc5718d454.jpg?1562704188|https://"
+"scryfall.com/card/ala/182/prince-of-thralls?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:969
 msgid ""
-"Whenever a permanent an opponent controls is put into a graveyard, put "
-"that card onto the battlefield under your control unless that opponent "
-"pays 3 life."
+"Whenever a permanent an opponent controls is put into a graveyard, put that "
+"card onto the battlefield under your control unless that opponent pays 3 "
+"life."
 msgstr ""
 
 #: ../../ALA.rst:974
 msgid ""
-":mtgtip:`Punish "
-"Ignorance<https://img.scryfall.com/cards/border_crop/en/ala/183.jpg?1517813031|https://scryfall.com/card/ala/183"
-"/punish-ignorance?utm_source=api>`"
+":mtgtip:`Punish Ignorance<https://img.scryfall.com/cards/border_crop/front/9/"
+"b/9bc37d01-ffe5-4dfe-b59e-204df82d1d36.jpg?1562707043|https://scryfall.com/"
+"card/ala/183/punish-ignorance?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:973
@@ -2555,9 +2612,9 @@ msgstr ""
 
 #: ../../ALA.rst:980
 msgid ""
-":mtgtip:`Qasali "
-"Ambusher<https://img.scryfall.com/cards/border_crop/en/ala/184.jpg?1517813031|https://scryfall.com/card/ala/184"
-"/qasali-ambusher?utm_source=api>`"
+":mtgtip:`Qasali Ambusher<https://img.scryfall.com/cards/border_crop/front/b/"
+"e/be4e1284-eea2-4fc4-99e4-ed53176939ba.jpg?1562708492|https://scryfall.com/"
+"card/ala/184/qasali-ambusher?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:977
@@ -2566,42 +2623,42 @@ msgstr "Zasięg"
 
 #: ../../ALA.rst:979
 msgid ""
-"If a creature is attacking you and you control a Forest and a Plains, you"
-" may cast Qasali Ambusher without paying its mana cost and as though it "
-"had flash."
+"If a creature is attacking you and you control a Forest and a Plains, you "
+"may cast Qasali Ambusher without paying its mana cost and as though it had "
+"flash."
 msgstr ""
 
 #: ../../ALA.rst:986
 msgid ""
-":mtgtip:`Rafiq of the "
-"Many<https://img.scryfall.com/cards/border_crop/en/ala/185.jpg?1517813031|https://scryfall.com/card/ala/185"
-"/rafiq-of-the-many?utm_source=api>`"
+":mtgtip:`Rafiq of the Many<https://img.scryfall.com/cards/border_crop/"
+"front/2/4/249c188d-c11d-46f7-a2d8-a67df4ba401b.jpg?1562701999|https://"
+"scryfall.com/card/ala/185/rafiq-of-the-many?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:985
 msgid ""
-"Whenever a creature you control attacks alone, it gains double strike "
-"until end of turn."
+"Whenever a creature you control attacks alone, it gains double strike until "
+"end of turn."
 msgstr ""
 
 #: ../../ALA.rst:990
 msgid ""
-":mtgtip:`Rakeclaw "
-"Gargantuan<https://img.scryfall.com/cards/border_crop/en/ala/186.jpg?1517813031|https://scryfall.com/card/ala/186"
-"/rakeclaw-gargantuan?utm_source=api>`"
+":mtgtip:`Rakeclaw Gargantuan<https://img.scryfall.com/cards/border_crop/"
+"front/d/1/d1995ab8-7382-4c2a-b8c7-8b9272cab4fb.jpg?1562709274|https://"
+"scryfall.com/card/ala/186/rakeclaw-gargantuan?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:989
 msgid ""
-"|mana_1|: Target creature with power 5 or greater gains first strike "
-"until end of turn."
+"|mana_1|: Target creature with power 5 or greater gains first strike until "
+"end of turn."
 msgstr ""
 
 #: ../../ALA.rst:996
 msgid ""
-":mtgtip:`Realm "
-"Razer<https://img.scryfall.com/cards/border_crop/en/ala/187.jpg?1517813031|https://scryfall.com/card/ala/187"
-"/realm-razer?utm_source=api>`"
+":mtgtip:`Realm Razer<https://img.scryfall.com/cards/border_crop/front/d/a/"
+"da3ecfc6-1f9e-443e-a445-51df518025a5.jpg?1562709702|https://scryfall.com/"
+"card/ala/187/realm-razer?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:993
@@ -2616,9 +2673,9 @@ msgstr ""
 
 #: ../../ALA.rst:1000
 msgid ""
-":mtgtip:`Rhox War "
-"Monk<https://img.scryfall.com/cards/border_crop/en/ala/188.jpg?1517813031|https://scryfall.com/card/ala/188"
-"/rhox-war-monk?utm_source=api>`"
+":mtgtip:`Rhox War Monk<https://img.scryfall.com/cards/border_crop/"
+"front/1/9/19fb67e1-b791-4246-aebc-49fcf0f92c6c.jpg?1562701577|https://"
+"scryfall.com/card/ala/188/rhox-war-monk?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:999
@@ -2627,16 +2684,16 @@ msgstr "Więź życia"
 
 #: ../../ALA.rst:1004
 msgid ""
-":mtgtip:`Rip-Clan "
-"Crasher<https://img.scryfall.com/cards/border_crop/en/ala/189.jpg?1517813031|https://scryfall.com/card/ala/189"
-"/rip-clan-crasher?utm_source=api>`"
+":mtgtip:`Rip-Clan Crasher<https://img.scryfall.com/cards/border_crop/front/8/"
+"d/8d61c4a0-054b-479e-82d9-dc60c5c708e2.jpg?1562706451|https://scryfall.com/"
+"card/ala/189/rip-clan-crasher?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1008
 msgid ""
-":mtgtip:`Sangrite "
-"Surge<https://img.scryfall.com/cards/border_crop/en/ala/190.jpg?1517813031|https://scryfall.com/card/ala/190"
-"/sangrite-surge?utm_source=api>`"
+":mtgtip:`Sangrite Surge<https://img.scryfall.com/cards/border_crop/"
+"front/1/6/16b4527e-e449-45d0-a551-634e2ceb21c4.jpg?1562701427|https://"
+"scryfall.com/card/ala/190/sangrite-surge?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1007
@@ -2645,9 +2702,9 @@ msgstr ""
 
 #: ../../ALA.rst:1016
 msgid ""
-":mtgtip:`Sarkhan "
-"Vol<https://img.scryfall.com/cards/border_crop/en/ala/191.jpg?1517813031|https://scryfall.com/card/ala/191"
-"/sarkhan-vol?utm_source=api>`"
+":mtgtip:`Sarkhan Vol<https://img.scryfall.com/cards/border_crop/front/c/e/"
+"ce89ded2-db31-43c0-b00c-999d5d3fa5c6.jpg?1562709114|https://scryfall.com/"
+"card/ala/191/sarkhan-vol?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1011
@@ -2656,8 +2713,8 @@ msgstr ""
 
 #: ../../ALA.rst:1013
 msgid ""
-"−2: Gain control of target creature until end of turn. Untap that "
-"creature. It gains haste until end of turn."
+"−2: Gain control of target creature until end of turn. Untap that creature. "
+"It gains haste until end of turn."
 msgstr ""
 
 #: ../../ALA.rst:1015
@@ -2666,9 +2723,9 @@ msgstr ""
 
 #: ../../ALA.rst:1024
 msgid ""
-":mtgtip:`Sedraxis "
-"Specter<https://img.scryfall.com/cards/border_crop/en/ala/192.jpg?1517813031|https://scryfall.com/card/ala/192"
-"/sedraxis-specter?utm_source=api>`"
+":mtgtip:`Sedraxis Specter<https://img.scryfall.com/cards/border_crop/front/"
+"c/6/c6ca8f2a-ee0e-4708-97d8-c1836d824d4e.jpg?1562708822|https://scryfall.com/"
+"card/ala/192/sedraxis-specter?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1021
@@ -2679,24 +2736,24 @@ msgstr ""
 
 #: ../../ALA.rst:1028
 msgid ""
-":mtgtip:`Sedris, the Traitor "
-"King<https://img.scryfall.com/cards/border_crop/en/ala/193.jpg?1517813031|https://scryfall.com/card/ala/193"
-"/sedris-the-traitor-king?utm_source=api>`"
+":mtgtip:`Sedris, the Traitor King<https://img.scryfall.com/cards/border_crop/"
+"front/7/0/70206cff-9f54-4e27-982c-b0093a51d358.jpg?1562705250|https://"
+"scryfall.com/card/ala/193/sedris-the-traitor-king?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1027
 msgid ""
-"Each creature card in your graveyard has unearth |mana_2|\\ |mana_b|. "
-"(|mana_2|\\ |mana_b|: Return the card to the battlefield. The creature "
-"gains haste. Exile it at the beginning of the next end step or if it "
-"would leave the battlefield. Unearth only as a sorcery.)"
+"Each creature card in your graveyard has unearth |mana_2|\\ |mana_b|. (|"
+"mana_2|\\ |mana_b|: Return the card to the battlefield. The creature gains "
+"haste. Exile it at the beginning of the next end step or if it would leave "
+"the battlefield. Unearth only as a sorcery.)"
 msgstr ""
 
 #: ../../ALA.rst:1034
 msgid ""
-":mtgtip:`Sharuum the "
-"Hegemon<https://img.scryfall.com/cards/border_crop/en/ala/194.jpg?1517813031|https://scryfall.com/card/ala/194"
-"/sharuum-the-hegemon?utm_source=api>`"
+":mtgtip:`Sharuum the Hegemon<https://img.scryfall.com/cards/border_crop/"
+"front/6/5/6589eaa8-95ec-4c97-8155-185487560ae6.jpg?1562704769|https://"
+"scryfall.com/card/ala/194/sharuum-the-hegemon?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1033
@@ -2707,9 +2764,9 @@ msgstr ""
 
 #: ../../ALA.rst:1038
 msgid ""
-":mtgtip:`Sigil "
-"Blessing<https://img.scryfall.com/cards/border_crop/en/ala/195.jpg?1517813031|https://scryfall.com/card/ala/195"
-"/sigil-blessing?utm_source=api>`"
+":mtgtip:`Sigil Blessing<https://img.scryfall.com/cards/border_crop/front/8/"
+"a/8ae9ce20-d283-4d29-8140-bc4cf8de66df.jpg?1562706379|https://scryfall.com/"
+"card/ala/195/sigil-blessing?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1037
@@ -2720,22 +2777,22 @@ msgstr ""
 
 #: ../../ALA.rst:1044
 msgid ""
-":mtgtip:`Sphinx "
-"Sovereign<https://img.scryfall.com/cards/border_crop/en/ala/196.jpg?1517813031|https://scryfall.com/card/ala/196"
-"/sphinx-sovereign?utm_source=api>`"
+":mtgtip:`Sphinx Sovereign<https://img.scryfall.com/cards/border_crop/front/"
+"d/0/d0fc130e-57ed-40a7-a9ba-d689e7dc3698.jpg?1562709247|https://scryfall.com/"
+"card/ala/196/sphinx-sovereign?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1043
 msgid ""
-"At the beginning of your end step, you gain 3 life if Sphinx Sovereign is"
-" untapped. Otherwise, each opponent loses 3 life."
+"At the beginning of your end step, you gain 3 life if Sphinx Sovereign is "
+"untapped. Otherwise, each opponent loses 3 life."
 msgstr ""
 
 #: ../../ALA.rst:1048
 msgid ""
-":mtgtip:`Sprouting "
-"Thrinax<https://img.scryfall.com/cards/border_crop/en/ala/197.jpg?1517813031|https://scryfall.com/card/ala/197"
-"/sprouting-thrinax?utm_source=api>`"
+":mtgtip:`Sprouting Thrinax<https://img.scryfall.com/cards/border_crop/"
+"front/8/9/8950df86-1e27-4b6b-8b5c-25298a3bda85.jpg?1562706338|https://"
+"scryfall.com/card/ala/197/sprouting-thrinax?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1047
@@ -2746,9 +2803,9 @@ msgstr ""
 
 #: ../../ALA.rst:1054
 msgid ""
-":mtgtip:`Steward of "
-"Valeron<https://img.scryfall.com/cards/border_crop/en/ala/198.jpg?1517813031|https://scryfall.com/card/ala/198"
-"/steward-of-valeron?utm_source=api>`"
+":mtgtip:`Steward of Valeron<https://img.scryfall.com/cards/border_crop/"
+"front/9/2/92e21ff9-0030-4e53-8ddf-86d8e78e347f.jpg?1562706676|https://"
+"scryfall.com/card/ala/198/steward-of-valeron?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1053
@@ -2757,9 +2814,9 @@ msgstr "|tap|: Weź |mana_g|."
 
 #: ../../ALA.rst:1060
 msgid ""
-":mtgtip:`Stoic "
-"Angel<https://img.scryfall.com/cards/border_crop/en/ala/199.jpg?1517813031|https://scryfall.com/card/ala/199"
-"/stoic-angel?utm_source=api>`"
+":mtgtip:`Stoic Angel<https://img.scryfall.com/cards/border_crop/"
+"front/6/2/62d559e0-ae4e-4e21-bd3b-726fffb87d2b.jpg?1562704677|https://"
+"scryfall.com/card/ala/199/stoic-angel?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1057
@@ -2771,7 +2828,10 @@ msgid "Players can't untap more than one creature during their untap steps."
 msgstr ""
 
 #: ../../ALA.rst:1064
-msgid ":mtgtip:`Swerve<https://img.scryfall.com/cards/border_crop/en/ala/200.jpg?1517813031|https://scryfall.com/card/ala/200/swerve?utm_source=api>`"
+msgid ""
+":mtgtip:`Swerve<https://img.scryfall.com/cards/border_crop/"
+"front/1/0/10affb59-7c57-4b72-892b-d813f385f4a9.jpg?1562701210|https://"
+"scryfall.com/card/ala/200/swerve?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1063
@@ -2780,9 +2840,9 @@ msgstr ""
 
 #: ../../ALA.rst:1068
 msgid ""
-":mtgtip:`Thoughtcutter "
-"Agent<https://img.scryfall.com/cards/border_crop/en/ala/201.jpg?1517813031|https://scryfall.com/card/ala/201"
-"/thoughtcutter-agent?utm_source=api>`"
+":mtgtip:`Thoughtcutter Agent<https://img.scryfall.com/cards/border_crop/"
+"front/8/c/8c9af048-43c2-44ff-9ca0-2a81609a4e91.jpg?1562706432|https://"
+"scryfall.com/card/ala/201/thoughtcutter-agent?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1067
@@ -2793,9 +2853,9 @@ msgstr ""
 
 #: ../../ALA.rst:1074
 msgid ""
-":mtgtip:`Tidehollow "
-"Sculler<https://img.scryfall.com/cards/border_crop/en/ala/202.jpg?1517813031|https://scryfall.com/card/ala/202"
-"/tidehollow-sculler?utm_source=api>`"
+":mtgtip:`Tidehollow Sculler<https://img.scryfall.com/cards/border_crop/"
+"front/1/a/1abecc77-07f2-43e4-8585-0a8199cdcf01.jpg?1562701606|https://"
+"scryfall.com/card/ala/202/tidehollow-sculler?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1071
@@ -2806,42 +2866,42 @@ msgstr ""
 
 #: ../../ALA.rst:1073
 msgid ""
-"When Tidehollow Sculler leaves the battlefield, return the exiled card to"
-" its owner's hand."
+"When Tidehollow Sculler leaves the battlefield, return the exiled card to "
+"its owner's hand."
 msgstr ""
 
 #: ../../ALA.rst:1080
 msgid ""
-":mtgtip:`Tidehollow "
-"Strix<https://img.scryfall.com/cards/border_crop/en/ala/203.jpg?1517813031|https://scryfall.com/card/ala/203"
-"/tidehollow-strix?utm_source=api>`"
+":mtgtip:`Tidehollow Strix<https://img.scryfall.com/cards/border_crop/front/4/"
+"a/4aafc65d-faa8-4bfe-83ac-7714c969022b.jpg?1562703569|https://scryfall.com/"
+"card/ala/203/tidehollow-strix?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1084
 msgid ""
-":mtgtip:`Titanic "
-"Ultimatum<https://img.scryfall.com/cards/border_crop/en/ala/204.jpg?1517813031|https://scryfall.com/card/ala/204"
-"/titanic-ultimatum?utm_source=api>`"
+":mtgtip:`Titanic Ultimatum<https://img.scryfall.com/cards/border_crop/"
+"front/8/d/8d28fd77-1f7c-47b4-b9ff-55835a7f2526.jpg?1562706449|https://"
+"scryfall.com/card/ala/204/titanic-ultimatum?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1083
 msgid ""
-"Until end of turn, creatures you control get +5/+5 and gain first strike,"
-" trample, and lifelink."
+"Until end of turn, creatures you control get +5/+5 and gain first strike, "
+"trample, and lifelink."
 msgstr ""
 
 #: ../../ALA.rst:1088
 msgid ""
-":mtgtip:`Tower "
-"Gargoyle<https://img.scryfall.com/cards/border_crop/en/ala/205.jpg?1517813031|https://scryfall.com/card/ala/205"
-"/tower-gargoyle?utm_source=api>`"
+":mtgtip:`Tower Gargoyle<https://img.scryfall.com/cards/border_crop/"
+"front/1/0/10504d1b-8d3e-411a-bf40-51a8e7a863a0.jpg?1562701192|https://"
+"scryfall.com/card/ala/205/tower-gargoyle?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1092
 msgid ""
-":mtgtip:`Violent "
-"Ultimatum<https://img.scryfall.com/cards/border_crop/en/ala/206.jpg?1517813031|https://scryfall.com/card/ala/206"
-"/violent-ultimatum?utm_source=api>`"
+":mtgtip:`Violent Ultimatum<https://img.scryfall.com/cards/border_crop/"
+"front/7/e/7e6ac9ce-e163-426f-8fbd-5ee1ec177dc1.jpg?1562705860|https://"
+"scryfall.com/card/ala/206/violent-ultimatum?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1091
@@ -2850,73 +2910,72 @@ msgstr ""
 
 #: ../../ALA.rst:1098
 msgid ""
-":mtgtip:`Waveskimmer "
-"Aven<https://img.scryfall.com/cards/border_crop/en/ala/207.jpg?1517813031|https://scryfall.com/card/ala/207"
-"/waveskimmer-aven?utm_source=api>`"
+":mtgtip:`Waveskimmer Aven<https://img.scryfall.com/cards/border_crop/front/"
+"e/7/e75ebcb4-5db8-4c72-9f65-8ee8f2c893ea.jpg?1562710196|https://scryfall.com/"
+"card/ala/207/waveskimmer-aven?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1104
 msgid ""
-":mtgtip:`Windwright "
-"Mage<https://img.scryfall.com/cards/border_crop/en/ala/208.jpg?1517813031|https://scryfall.com/card/ala/208"
-"/windwright-mage?utm_source=api>`"
+":mtgtip:`Windwright Mage<https://img.scryfall.com/cards/border_crop/front/9/"
+"a/9aba0e7d-9146-402f-898e-16a0ff08d368.jpg?1562706980|https://scryfall.com/"
+"card/ala/208/windwright-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1101
 msgid ""
-"Lifelink (Damage dealt by this creature also causes you to gain that much"
-" life.)"
+"Lifelink (Damage dealt by this creature also causes you to gain that much "
+"life.)"
 msgstr ""
 "Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
 "samo życia.)"
 
 #: ../../ALA.rst:1103
 msgid ""
-"Windwright Mage has flying as long as an artifact card is in your "
-"graveyard."
+"Windwright Mage has flying as long as an artifact card is in your graveyard."
 msgstr ""
 
 #: ../../ALA.rst:1106
 msgid ""
-":mtgtip:`Woolly "
-"Thoctar<https://img.scryfall.com/cards/border_crop/en/ala/209.jpg?1517813031|https://scryfall.com/card/ala/209"
-"/woolly-thoctar?utm_source=api>`"
+":mtgtip:`Woolly Thoctar<https://img.scryfall.com/cards/border_crop/front/7/"
+"d/7d5907d5-ae5c-4c9d-a5df-61f1c94f979d.jpg?1562705775|https://scryfall.com/"
+"card/ala/209/woolly-thoctar?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1112
 msgid ""
-":mtgtip:`Lich's "
-"Mirror<https://img.scryfall.com/cards/border_crop/en/ala/210.jpg?1517813031|https://scryfall.com/card/ala/210"
-"/lichs-mirror?utm_source=api>`"
+":mtgtip:`Lich's Mirror<https://img.scryfall.com/cards/border_crop/"
+"front/7/8/78aa9a89-b7bf-49bc-a6e8-793d52120a22.jpg?1562705615|https://"
+"scryfall.com/card/ala/210/lichs-mirror?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1111
 msgid ""
-"If you would lose the game, instead shuffle your hand, your graveyard, "
-"and all permanents you own into your library, then draw seven cards and "
-"your life total becomes 20."
+"If you would lose the game, instead shuffle your hand, your graveyard, and "
+"all permanents you own into your library, then draw seven cards and your "
+"life total becomes 20."
 msgstr ""
 
 #: ../../ALA.rst:1116
 msgid ""
-":mtgtip:`Minion "
-"Reflector<https://img.scryfall.com/cards/border_crop/en/ala/211.jpg?1517813031|https://scryfall.com/card/ala/211"
-"/minion-reflector?utm_source=api>`"
+":mtgtip:`Minion Reflector<https://img.scryfall.com/cards/border_crop/front/5/"
+"d/5d2a48f9-4f14-4d19-b3dc-3bf3fafac32d.jpg?1562704408|https://scryfall.com/"
+"card/ala/211/minion-reflector?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1115
 msgid ""
-"Whenever a nontoken creature enters the battlefield under your control, "
-"you may pay |mana_2|. If you do, create a token that's a copy of that "
-"creature, except it has haste and \"At the beginning of the end step, "
-"sacrifice this permanent.\""
+"Whenever a nontoken creature enters the battlefield under your control, you "
+"may pay |mana_2|. If you do, create a token that's a copy of that creature, "
+"except it has haste and \"At the beginning of the end step, sacrifice this "
+"permanent.\""
 msgstr ""
 
 #: ../../ALA.rst:1120
 msgid ""
-":mtgtip:`Obelisk of "
-"Bant<https://img.scryfall.com/cards/border_crop/en/ala/212.jpg?1517813031|https://scryfall.com/card/ala/212"
-"/obelisk-of-bant?utm_source=api>`"
+":mtgtip:`Obelisk of Bant<https://img.scryfall.com/cards/border_crop/front/0/"
+"c/0cefe6ab-c018-4b87-8948-295a28f63cb1.jpg?1562701035|https://scryfall.com/"
+"card/ala/212/obelisk-of-bant?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1119 ../../ALA.rst:1217
@@ -2925,9 +2984,9 @@ msgstr ""
 
 #: ../../ALA.rst:1124
 msgid ""
-":mtgtip:`Obelisk of "
-"Esper<https://img.scryfall.com/cards/border_crop/en/ala/213.jpg?1517813031|https://scryfall.com/card/ala/213"
-"/obelisk-of-esper?utm_source=api>`"
+":mtgtip:`Obelisk of Esper<https://img.scryfall.com/cards/border_crop/"
+"front/1/9/19869e75-0925-45dc-b5d9-6968fbfb35b5.jpg?1562701542|https://"
+"scryfall.com/card/ala/213/obelisk-of-esper?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1123 ../../ALA.rst:1163
@@ -2936,9 +2995,9 @@ msgstr ""
 
 #: ../../ALA.rst:1128
 msgid ""
-":mtgtip:`Obelisk of "
-"Grixis<https://img.scryfall.com/cards/border_crop/en/ala/214.jpg?1517813031|https://scryfall.com/card/ala/214"
-"/obelisk-of-grixis?utm_source=api>`"
+":mtgtip:`Obelisk of Grixis<https://img.scryfall.com/cards/border_crop/"
+"front/5/2/5200e41f-fe10-4c39-ab12-c6e13fb81a3d.jpg?1562703911|https://"
+"scryfall.com/card/ala/214/obelisk-of-grixis?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1127 ../../ALA.rst:1175
@@ -2947,9 +3006,9 @@ msgstr "|tap|: Weź |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../ALA.rst:1132
 msgid ""
-":mtgtip:`Obelisk of "
-"Jund<https://img.scryfall.com/cards/border_crop/en/ala/215.jpg?1517813031|https://scryfall.com/card/ala/215"
-"/obelisk-of-jund?utm_source=api>`"
+":mtgtip:`Obelisk of Jund<https://img.scryfall.com/cards/border_crop/front/f/"
+"f/ffe1a49a-5c1c-4274-a2ed-9a8a44abfaa6.jpg?1562711235|https://scryfall.com/"
+"card/ala/215/obelisk-of-jund?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1131 ../../ALA.rst:1211
@@ -2958,16 +3017,16 @@ msgstr ""
 
 #: ../../ALA.rst:1136
 msgid ""
-":mtgtip:`Obelisk of "
-"Naya<https://img.scryfall.com/cards/border_crop/en/ala/216.jpg?1517813031|https://scryfall.com/card/ala/216"
-"/obelisk-of-naya?utm_source=api>`"
+":mtgtip:`Obelisk of Naya<https://img.scryfall.com/cards/border_crop/front/d/"
+"f/df6317b0-15fd-4924-9302-41bed2354546.jpg?1562709895|https://scryfall.com/"
+"card/ala/216/obelisk-of-naya?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1144
 msgid ""
-":mtgtip:`Quietus "
-"Spike<https://img.scryfall.com/cards/border_crop/en/ala/217.jpg?1517813031|https://scryfall.com/card/ala/217"
-"/quietus-spike?utm_source=api>`"
+":mtgtip:`Quietus Spike<https://img.scryfall.com/cards/border_crop/front/e/9/"
+"e90d1b27-fb90-4649-a905-f8e90d4a1852.jpg?1562710265|https://scryfall.com/"
+"card/ala/217/quietus-spike?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1139
@@ -2986,9 +3045,9 @@ msgstr "Wyposaż |mana_3|"
 
 #: ../../ALA.rst:1150
 msgid ""
-":mtgtip:`Relic of "
-"Progenitus<https://img.scryfall.com/cards/border_crop/en/ala/218.jpg?1517813031|https://scryfall.com/card/ala/218"
-"/relic-of-progenitus?utm_source=api>`"
+":mtgtip:`Relic of Progenitus<https://img.scryfall.com/cards/border_crop/"
+"front/9/0/90c41192-64ef-43aa-9af0-75f0d3f56688.jpg?1562706585|https://"
+"scryfall.com/card/ala/218/relic-of-progenitus?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1147
@@ -2997,25 +3056,25 @@ msgstr ""
 
 #: ../../ALA.rst:1149
 msgid ""
-"|mana_1|, Exile Relic of Progenitus: Exile all cards from all graveyards."
-" Draw a card."
+"|mana_1|, Exile Relic of Progenitus: Exile all cards from all graveyards. "
+"Draw a card."
 msgstr ""
 
 #: ../../ALA.rst:1158
 msgid ""
-":mtgtip:`Sigil of "
-"Distinction<https://img.scryfall.com/cards/border_crop/en/ala/219.jpg?1517813031|https://scryfall.com/card/ala/219"
-"/sigil-of-distinction?utm_source=api>`"
+":mtgtip:`Sigil of Distinction<https://img.scryfall.com/cards/border_crop/"
+"front/a/4/a4ac2d98-bc5d-4823-9903-b880988ff0f4.jpg?1562707377|https://"
+"scryfall.com/card/ala/219/sigil-of-distinction?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1153
-msgid "Sigil of Distinction enters the battlefield with X charge counters on it."
+msgid ""
+"Sigil of Distinction enters the battlefield with X charge counters on it."
 msgstr ""
 
 #: ../../ALA.rst:1155
 msgid ""
-"Equipped creature gets +1/+1 for each charge counter on Sigil of "
-"Distinction."
+"Equipped creature gets +1/+1 for each charge counter on Sigil of Distinction."
 msgstr ""
 
 #: ../../ALA.rst:1157
@@ -3024,9 +3083,9 @@ msgstr ""
 
 #: ../../ALA.rst:1164
 msgid ""
-":mtgtip:`Arcane "
-"Sanctum<https://img.scryfall.com/cards/border_crop/en/ala/220.jpg?1528559644|https://scryfall.com/card/ala/220"
-"/arcane-sanctum?utm_source=api>`"
+":mtgtip:`Arcane Sanctum<https://img.scryfall.com/cards/border_crop/front/6/"
+"e/6edc0681-4252-4d3d-baf3-f03c22af1208.jpg?1562705213|https://scryfall.com/"
+"card/ala/220/arcane-sanctum?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1161
@@ -3035,23 +3094,23 @@ msgstr ""
 
 #: ../../ALA.rst:1170
 msgid ""
-":mtgtip:`Bant "
-"Panorama<https://img.scryfall.com/cards/border_crop/en/ala/221.jpg?1517813031|https://scryfall.com/card/ala/221"
-"/bant-panorama?utm_source=api>`"
+":mtgtip:`Bant Panorama<https://img.scryfall.com/cards/border_crop/front/b/2/"
+"b22c6b34-0066-47f8-8062-9363c024fa56.jpg?1562707961|https://scryfall.com/"
+"card/ala/221/bant-panorama?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1169
 msgid ""
-"|mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic"
-" Forest, Plains, or Island card and put it onto the battlefield tapped. "
-"Then shuffle your library."
+"|mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic "
+"Forest, Plains, or Island card and put it onto the battlefield tapped. Then "
+"shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:1176
 msgid ""
-":mtgtip:`Crumbling "
-"Necropolis<https://img.scryfall.com/cards/border_crop/en/ala/222.jpg?1528559657|https://scryfall.com/card/ala/222"
-"/crumbling-necropolis?utm_source=api>`"
+":mtgtip:`Crumbling Necropolis<https://img.scryfall.com/cards/border_crop/"
+"front/9/4/94da8e38-77a4-4d25-9e1f-f33c246f60c8.jpg?1562706751|https://"
+"scryfall.com/card/ala/222/crumbling-necropolis?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1173
@@ -3060,51 +3119,51 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ALA.rst:1182
 msgid ""
-":mtgtip:`Esper "
-"Panorama<https://img.scryfall.com/cards/border_crop/en/ala/223.jpg?1517813031|https://scryfall.com/card/ala/223"
-"/esper-panorama?utm_source=api>`"
+":mtgtip:`Esper Panorama<https://img.scryfall.com/cards/border_crop/"
+"front/0/3/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5.jpg?1562700663|https://"
+"scryfall.com/card/ala/223/esper-panorama?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1181
 msgid ""
-"|mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a "
-"basic Plains, Island, or Swamp card and put it onto the battlefield "
-"tapped. Then shuffle your library."
+"|mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a basic "
+"Plains, Island, or Swamp card and put it onto the battlefield tapped. Then "
+"shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:1188
 msgid ""
-":mtgtip:`Grixis "
-"Panorama<https://img.scryfall.com/cards/border_crop/en/ala/224.jpg?1517813031|https://scryfall.com/card/ala/224"
-"/grixis-panorama?utm_source=api>`"
+":mtgtip:`Grixis Panorama<https://img.scryfall.com/cards/border_crop/front/c/"
+"a/ca30ea9e-9302-4dd0-a572-b5c6e6894851.jpg?1562708911|https://scryfall.com/"
+"card/ala/224/grixis-panorama?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1187
 msgid ""
-"|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a "
-"basic Island, Swamp, or Mountain card and put it onto the battlefield "
-"tapped. Then shuffle your library."
+"|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic "
+"Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then "
+"shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:1194
 msgid ""
-":mtgtip:`Jund "
-"Panorama<https://img.scryfall.com/cards/border_crop/en/ala/225.jpg?1517813031|https://scryfall.com/card/ala/225"
-"/jund-panorama?utm_source=api>`"
+":mtgtip:`Jund Panorama<https://img.scryfall.com/cards/border_crop/front/a/2/"
+"a2b31fcd-43eb-44ad-b63e-4f2e6984963c.jpg?1562707314|https://scryfall.com/"
+"card/ala/225/jund-panorama?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1193
 msgid ""
-"|mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic"
-" Swamp, Mountain, or Forest card and put it onto the battlefield tapped. "
-"Then shuffle your library."
+"|mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic "
+"Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then "
+"shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:1200
 msgid ""
-":mtgtip:`Jungle "
-"Shrine<https://img.scryfall.com/cards/border_crop/en/ala/226.jpg?1528559666|https://scryfall.com/card/ala/226"
-"/jungle-shrine?utm_source=api>`"
+":mtgtip:`Jungle Shrine<https://img.scryfall.com/cards/border_crop/front/e/4/"
+"e4f0d262-cbfe-42d2-9066-0b48a38995d6.jpg?1562710101|https://scryfall.com/"
+"card/ala/226/jungle-shrine?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1197
@@ -3113,23 +3172,23 @@ msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ALA.rst:1206
 msgid ""
-":mtgtip:`Naya "
-"Panorama<https://img.scryfall.com/cards/border_crop/en/ala/227.jpg?1517813031|https://scryfall.com/card/ala/227"
-"/naya-panorama?utm_source=api>`"
+":mtgtip:`Naya Panorama<https://img.scryfall.com/cards/border_crop/front/f/b/"
+"fba31e86-0924-424d-b4e3-41a878e3e0e1.jpg?1562711059|https://scryfall.com/"
+"card/ala/227/naya-panorama?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1205
 msgid ""
-"|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic"
-" Mountain, Forest, or Plains card and put it onto the battlefield tapped."
-" Then shuffle your library."
+"|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic "
+"Mountain, Forest, or Plains card and put it onto the battlefield tapped. "
+"Then shuffle your library."
 msgstr ""
 
 #: ../../ALA.rst:1212
 msgid ""
-":mtgtip:`Savage "
-"Lands<https://img.scryfall.com/cards/border_crop/en/ala/228.jpg?1528559686|https://scryfall.com/card/ala/228"
-"/savage-lands?utm_source=api>`"
+":mtgtip:`Savage Lands<https://img.scryfall.com/cards/border_crop/front/f/6/"
+"f6bcded3-6eea-4533-a855-e03d4c4620d6.jpg?1562710850|https://scryfall.com/"
+"card/ala/228/savage-lands?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1209
@@ -3138,9 +3197,9 @@ msgstr ""
 
 #: ../../ALA.rst:1218
 msgid ""
-":mtgtip:`Seaside "
-"Citadel<https://img.scryfall.com/cards/border_crop/en/ala/229.jpg?1528559689|https://scryfall.com/card/ala/229"
-"/seaside-citadel?utm_source=api>`"
+":mtgtip:`Seaside Citadel<https://img.scryfall.com/cards/border_crop/front/"
+"c/1/c1995d2a-4550-4c84-ad44-183b06579e98.jpg?1562708600|https://scryfall.com/"
+"card/ala/229/seaside-citadel?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1215
@@ -3148,7 +3207,10 @@ msgid "Seaside Citadel enters the battlefield tapped."
 msgstr ""
 
 #: ../../ALA.rst:1222
-msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/ala/230.jpg?1517813031|https://scryfall.com/card/ala/230/plains?utm_source=api>`"
+msgid ""
+":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/e/9/"
+"e94e2710-7b95-46d0-8261-0afa6b192e70.jpg?1562710288|https://scryfall.com/"
+"card/ala/230/plains?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1221
@@ -3156,7 +3218,10 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../ALA.rst:1226
-msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/ala/234.jpg?1517813031|https://scryfall.com/card/ala/234/island?utm_source=api>`"
+msgid ""
+":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/2/"
+"f/2fdcf679-4269-4ed9-84f1-1ac7a513f475.jpg?1562702452|https://scryfall.com/"
+"card/ala/234/island?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1225
@@ -3164,7 +3229,10 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../ALA.rst:1230
-msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/ala/238.jpg?1517813031|https://scryfall.com/card/ala/238/swamp?utm_source=api>`"
+msgid ""
+":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/4/5/45cbe554-"
+"ffdc-4de6-bf27-57790b71effb.jpg?1562703357|https://scryfall.com/card/ala/238/"
+"swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1229
@@ -3172,7 +3240,10 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../ALA.rst:1234
-msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/ala/242.jpg?1517813031|https://scryfall.com/card/ala/242/mountain?utm_source=api>`"
+msgid ""
+":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/7/"
+"c/7c2cc19c-84ce-4c0b-b56f-7a2b3878a26e.jpg?1562705723|https://scryfall.com/"
+"card/ala/242/mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1233
@@ -3180,7 +3251,10 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../ALA.rst:1237
-msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/ala/246.jpg?1517813031|https://scryfall.com/card/ala/246/forest?utm_source=api>`"
+msgid ""
+":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/"
+"front/1/2/12495cfa-ab19-4e9e-a49e-a94499f664a2.jpg?1562701238|https://"
+"scryfall.com/card/ala/246/forest?utm_source=api>`"
 msgstr ""
 
 #: ../../ALA.rst:1237
