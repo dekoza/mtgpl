@@ -7,13 +7,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 20:58+0100\n"
+"POT-Creation-Date: 2020-01-12 21:37+0100\n"
 "PO-Revision-Date: 2019-10-11 19:13+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/mor/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
@@ -26,9 +26,9 @@ msgstr ""
 
 #: ../../MOR.rst:10
 msgid ""
-":mtgtip:`Ballyrush "
-"Banneret<https://img.scryfall.com/cards/border_crop/en/mor/1.jpg?1517813031|https://scryfall.com/card/mor/1"
-"/ballyrush-banneret?utm_source=api>`"
+":mtgtip:`Ballyrush Banneret<https://img.scryfall.com/cards/border_crop/front/"
+"a/0/a029814e-d84d-43e5-b483-e918871b3333.jpg?1562880417|https://scryfall.com/"
+"card/mor/1/ballyrush-banneret?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:9
@@ -37,22 +37,22 @@ msgstr ""
 
 #: ../../MOR.rst:14
 msgid ""
-":mtgtip:`Battletide "
-"Alchemist<https://img.scryfall.com/cards/border_crop/en/mor/2.jpg?1517813031|https://scryfall.com/card/mor/2"
-"/battletide-alchemist?utm_source=api>`"
+":mtgtip:`Battletide Alchemist<https://img.scryfall.com/cards/border_crop/"
+"front/9/a/9a5357e0-ff69-4bb9-9a02-b0372e0ea5e5.jpg?1562880264|https://"
+"scryfall.com/card/mor/2/battletide-alchemist?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:13
 msgid ""
-"If a source would deal damage to a player, you may prevent X of that "
-"damage, where X is the number of Clerics you control."
+"If a source would deal damage to a player, you may prevent X of that damage, "
+"where X is the number of Clerics you control."
 msgstr ""
 
 #: ../../MOR.rst:20
 msgid ""
-":mtgtip:`Burrenton "
-"Bombardier<https://img.scryfall.com/cards/border_crop/en/mor/3.jpg?1517813031|https://scryfall.com/card/mor/3"
-"/burrenton-bombardier?utm_source=api>`"
+":mtgtip:`Burrenton Bombardier<https://img.scryfall.com/cards/border_crop/"
+"front/9/b/9bb44500-0c07-4fb6-9525-ab41621be1b0.jpg?1562880290|https://"
+"scryfall.com/card/mor/3/burrenton-bombardier?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:17 ../../MOR.rst:109 ../../MOR.rst:117 ../../MOR.rst:161
@@ -64,28 +64,28 @@ msgstr "Latanie"
 
 #: ../../MOR.rst:19
 msgid ""
-"Reinforce 2—|mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Discard this card: "
-"Put two +1/+1 counters on target creature.)"
+"Reinforce 2—|mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Discard this card: Put "
+"two +1/+1 counters on target creature.)"
 msgstr ""
 
 #: ../../MOR.rst:24
 msgid ""
-":mtgtip:`Burrenton Shield-"
-"Bearers<https://img.scryfall.com/cards/border_crop/en/mor/4.jpg?1517813031|https://scryfall.com/card/mor/4"
-"/burrenton-shield-bearers?utm_source=api>`"
+":mtgtip:`Burrenton Shield-Bearers<https://img.scryfall.com/cards/border_crop/"
+"front/1/a/1afc1033-0004-43c1-9341-c5ed0b0048f2.jpg?1562877150|https://"
+"scryfall.com/card/mor/4/burrenton-shield-bearers?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:23
 msgid ""
-"Whenever Burrenton Shield-Bearers attacks, target creature gets +0/+3 "
-"until end of turn."
+"Whenever Burrenton Shield-Bearers attacks, target creature gets +0/+3 until "
+"end of turn."
 msgstr ""
 
 #: ../../MOR.rst:30
 msgid ""
-":mtgtip:`Cenn's "
-"Tactician<https://img.scryfall.com/cards/border_crop/en/mor/5.jpg?1517813031|https://scryfall.com/card/mor/5"
-"/cenns-tactician?utm_source=api>`"
+":mtgtip:`Cenn's Tactician<https://img.scryfall.com/cards/border_crop/front/"
+"d/9/d998c949-4791-477f-ab8d-e625199623ad.jpg?1562881769|https://scryfall.com/"
+"card/mor/5/cenns-tactician?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:27
@@ -94,15 +94,15 @@ msgstr ""
 
 #: ../../MOR.rst:29
 msgid ""
-"Each creature you control with a +1/+1 counter on it can block an "
-"additional creature each combat."
+"Each creature you control with a +1/+1 counter on it can block an additional "
+"creature each combat."
 msgstr ""
 
 #: ../../MOR.rst:36
 msgid ""
-":mtgtip:`Changeling "
-"Sentinel<https://img.scryfall.com/cards/border_crop/en/mor/6.jpg?1517813031|https://scryfall.com/card/mor/6"
-"/changeling-sentinel?utm_source=api>`"
+":mtgtip:`Changeling Sentinel<https://img.scryfall.com/cards/border_crop/"
+"front/f/e/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7.jpg?1562882676|https://"
+"scryfall.com/card/mor/6/changeling-sentinel?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:33 ../../MOR.rst:233 ../../MOR.rst:369 ../../MOR.rst:581
@@ -116,23 +116,23 @@ msgstr "Czujność"
 
 #: ../../MOR.rst:40
 msgid ""
-":mtgtip:`Coordinated "
-"Barrage<https://img.scryfall.com/cards/border_crop/en/mor/7.jpg?1517813031|https://scryfall.com/card/mor/7"
-"/coordinated-barrage?utm_source=api>`"
+":mtgtip:`Coordinated Barrage<https://img.scryfall.com/cards/border_crop/"
+"front/8/d/8d0b26b0-cc31-458b-8a92-aa3392d0ca0f.jpg?1562879927|https://"
+"scryfall.com/card/mor/7/coordinated-barrage?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:39
 msgid ""
-"Choose a creature type. Coordinated Barrage deals damage to target "
-"attacking or blocking creature equal to the number of permanents you "
-"control of the chosen type."
+"Choose a creature type. Coordinated Barrage deals damage to target attacking "
+"or blocking creature equal to the number of permanents you control of the "
+"chosen type."
 msgstr ""
 
 #: ../../MOR.rst:46
 msgid ""
-":mtgtip:`Daily "
-"Regimen<https://img.scryfall.com/cards/border_crop/en/mor/8.jpg?1517813031|https://scryfall.com/card/mor/8"
-"/daily-regimen?utm_source=api>`"
+":mtgtip:`Daily Regimen<https://img.scryfall.com/cards/border_crop/"
+"front/4/5/45d83dae-747b-4acf-adfd-7822dd64cfcc.jpg?1562878232|https://"
+"scryfall.com/card/mor/8/daily-regimen?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:43 ../../MOR.rst:145 ../../MOR.rst:709
@@ -145,19 +145,22 @@ msgstr ""
 
 #: ../../MOR.rst:50
 msgid ""
-":mtgtip:`Feudkiller's "
-"Verdict<https://img.scryfall.com/cards/border_crop/en/mor/9.jpg?1517813031|https://scryfall.com/card/mor/9"
-"/feudkillers-verdict?utm_source=api>`"
+":mtgtip:`Feudkiller's Verdict<https://img.scryfall.com/cards/border_crop/"
+"front/0/a/0a1fff8e-0379-4d56-b726-f5cc56e63d48.jpg?1562876753|https://"
+"scryfall.com/card/mor/9/feudkillers-verdict?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:49
 msgid ""
-"You gain 10 life. Then if you have more life than an opponent, create a "
-"5/5 white Giant Warrior creature token."
+"You gain 10 life. Then if you have more life than an opponent, create a 5/5 "
+"white Giant Warrior creature token."
 msgstr ""
 
 #: ../../MOR.rst:54
-msgid ":mtgtip:`Forfend<https://img.scryfall.com/cards/border_crop/en/mor/10.jpg?1517813031|https://scryfall.com/card/mor/10/forfend?utm_source=api>`"
+msgid ""
+":mtgtip:`Forfend<https://img.scryfall.com/cards/border_crop/front/a/4/"
+"a410e333-60f2-4e19-ad0f-5259d4feab37.jpg?1562880520|https://scryfall.com/"
+"card/mor/10/forfend?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:53
@@ -166,9 +169,9 @@ msgstr ""
 
 #: ../../MOR.rst:58
 msgid ""
-":mtgtip:`Graceful "
-"Reprieve<https://img.scryfall.com/cards/border_crop/en/mor/11.jpg?1517813031|https://scryfall.com/card/mor/11"
-"/graceful-reprieve?utm_source=api>`"
+":mtgtip:`Graceful Reprieve<https://img.scryfall.com/cards/border_crop/"
+"front/3/8/38748fbe-0d3e-4697-b9c4-d93a4ac59f9a.jpg?1562877919|https://"
+"scryfall.com/card/mor/11/graceful-reprieve?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:57
@@ -179,48 +182,48 @@ msgstr ""
 
 #: ../../MOR.rst:62
 msgid ""
-":mtgtip:`Idyllic "
-"Tutor<https://img.scryfall.com/cards/border_crop/en/mor/12.jpg?1517813031|https://scryfall.com/card/mor/12"
-"/idyllic-tutor?utm_source=api>`"
+":mtgtip:`Idyllic Tutor<https://img.scryfall.com/cards/border_crop/front/0/"
+"a/0a5e7a59-7322-46eb-9903-00131234b310.jpg?1562876759|https://scryfall.com/"
+"card/mor/12/idyllic-tutor?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:61
 msgid ""
-"Search your library for an enchantment card, reveal it, and put it into "
-"your hand. Then shuffle your library."
+"Search your library for an enchantment card, reveal it, and put it into your "
+"hand. Then shuffle your library."
 msgstr ""
 
 #: ../../MOR.rst:64
 msgid ""
-":mtgtip:`Indomitable "
-"Ancients<https://img.scryfall.com/cards/border_crop/en/mor/13.jpg?1517813031|https://scryfall.com/card/mor/13"
-"/indomitable-ancients?utm_source=api>`"
+":mtgtip:`Indomitable Ancients<https://img.scryfall.com/cards/border_crop/"
+"front/d/d/ddf33cb6-d159-4af3-8403-d0ac10af9894.jpg?1562881893|https://"
+"scryfall.com/card/mor/13/indomitable-ancients?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:72
 msgid ""
-":mtgtip:`Kinsbaile "
-"Borderguard<https://img.scryfall.com/cards/border_crop/en/mor/14.jpg?1517813031|https://scryfall.com/card/mor/14"
-"/kinsbaile-borderguard?utm_source=api>`"
+":mtgtip:`Kinsbaile Borderguard<https://img.scryfall.com/cards/border_crop/"
+"front/8/2/82a2e219-9e84-4f54-88e2-3925e48c4827.jpg?1562879675|https://"
+"scryfall.com/card/mor/14/kinsbaile-borderguard?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:69
 msgid ""
-"Kinsbaile Borderguard enters the battlefield with a +1/+1 counter on it "
-"for each other Kithkin you control."
+"Kinsbaile Borderguard enters the battlefield with a +1/+1 counter on it for "
+"each other Kithkin you control."
 msgstr ""
 
 #: ../../MOR.rst:71
 msgid ""
-"When Kinsbaile Borderguard dies, create a 1/1 white Kithkin Soldier "
-"creature token for each counter on it."
+"When Kinsbaile Borderguard dies, create a 1/1 white Kithkin Soldier creature "
+"token for each counter on it."
 msgstr ""
 
 #: ../../MOR.rst:76
 msgid ""
-":mtgtip:`Kinsbaile "
-"Cavalier<https://img.scryfall.com/cards/border_crop/en/mor/15.jpg?1517813031|https://scryfall.com/card/mor/15"
-"/kinsbaile-cavalier?utm_source=api>`"
+":mtgtip:`Kinsbaile Cavalier<https://img.scryfall.com/cards/border_crop/front/"
+"e/b/ebe3d840-95af-4664-ace0-625f89f06a41.jpg?1562882255|https://scryfall.com/"
+"card/mor/15/kinsbaile-cavalier?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:75
@@ -229,40 +232,43 @@ msgstr ""
 
 #: ../../MOR.rst:80
 msgid ""
-":mtgtip:`Kithkin "
-"Zephyrnaut<https://img.scryfall.com/cards/border_crop/en/mor/16.jpg?1517813031|https://scryfall.com/card/mor/16"
-"/kithkin-zephyrnaut?utm_source=api>`"
+":mtgtip:`Kithkin Zephyrnaut<https://img.scryfall.com/cards/border_crop/"
+"front/8/6/8671abe8-4333-4b23-a87e-58bcc65deef2.jpg?1562879790|https://"
+"scryfall.com/card/mor/16/kithkin-zephyrnaut?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:79
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Kithkin Zephyrnaut, "
-"you may reveal it. If you do, Kithkin Zephyrnaut gets +2/+2 and gains "
-"flying and vigilance until end of turn."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Kithkin Zephyrnaut, you may "
+"reveal it. If you do, Kithkin Zephyrnaut gets +2/+2 and gains flying and "
+"vigilance until end of turn."
 msgstr ""
 
 #: ../../MOR.rst:86
-msgid ":mtgtip:`Meadowboon<https://img.scryfall.com/cards/border_crop/en/mor/17.jpg?1517813031|https://scryfall.com/card/mor/17/meadowboon?utm_source=api>`"
+msgid ""
+":mtgtip:`Meadowboon<https://img.scryfall.com/cards/border_crop/front/a/7/"
+"a7f7a4e9-08c3-4600-9eb5-03ed01ea0738.jpg?1562880587|https://scryfall.com/"
+"card/mor/17/meadowboon?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:83
 msgid ""
-"When Meadowboon leaves the battlefield, put a +1/+1 counter on each "
-"creature target player controls."
+"When Meadowboon leaves the battlefield, put a +1/+1 counter on each creature "
+"target player controls."
 msgstr ""
 
 #: ../../MOR.rst:85
 msgid ""
-"Evoke |mana_3|\\ |mana_w| (You may cast this spell for its evoke cost. If"
-" you do, it's sacrificed when it enters the battlefield.)"
+"Evoke |mana_3|\\ |mana_w| (You may cast this spell for its evoke cost. If "
+"you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
 #: ../../MOR.rst:92
 msgid ""
-":mtgtip:`Mosquito "
-"Guard<https://img.scryfall.com/cards/border_crop/en/mor/18.jpg?1517813031|https://scryfall.com/card/mor/18"
-"/mosquito-guard?utm_source=api>`"
+":mtgtip:`Mosquito Guard<https://img.scryfall.com/cards/border_crop/front/5/"
+"e/5e5bca35-5098-4100-815b-de141c82eb6a.jpg?1562878773|https://scryfall.com/"
+"card/mor/18/mosquito-guard?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:89
@@ -271,28 +277,28 @@ msgstr "Pierwszy cios"
 
 #: ../../MOR.rst:91 ../../MOR.rst:823
 msgid ""
-"Reinforce 1—|mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: "
-"Put a +1/+1 counter on target creature.)"
+"Reinforce 1—|mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Put "
+"a +1/+1 counter on target creature.)"
 msgstr ""
 
 #: ../../MOR.rst:96
 msgid ""
-":mtgtip:`Order of the Golden "
-"Cricket<https://img.scryfall.com/cards/border_crop/en/mor/19.jpg?1517813031|https://scryfall.com/card/mor/19"
-"/order-of-the-golden-cricket?utm_source=api>`"
+":mtgtip:`Order of the Golden Cricket<https://img.scryfall.com/cards/"
+"border_crop/front/5/d/5d1c2f16-5661-4c17-8265-f4b88ff1e833.jpg?1562878752|"
+"https://scryfall.com/card/mor/19/order-of-the-golden-cricket?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:95
 msgid ""
-"Whenever Order of the Golden Cricket attacks, you may pay |mana_w|. If "
-"you do, it gains flying until end of turn."
+"Whenever Order of the Golden Cricket attacks, you may pay |mana_w|. If you "
+"do, it gains flying until end of turn."
 msgstr ""
 
 #: ../../MOR.rst:102
 msgid ""
-":mtgtip:`Preeminent "
-"Captain<https://img.scryfall.com/cards/border_crop/en/mor/20.jpg?1517813031|https://scryfall.com/card/mor/20"
-"/preeminent-captain?utm_source=api>`"
+":mtgtip:`Preeminent Captain<https://img.scryfall.com/cards/border_crop/"
+"front/4/1/41659773-8b26-41bf-afcc-805f373c0074.jpg?1562878124|https://"
+"scryfall.com/card/mor/20/preeminent-captain?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:99
@@ -313,22 +319,25 @@ msgstr ""
 
 #: ../../MOR.rst:106
 msgid ""
-":mtgtip:`Redeem the "
-"Lost<https://img.scryfall.com/cards/border_crop/en/mor/21.jpg?1517813031|https://scryfall.com/card/mor/21"
-"/redeem-the-lost?utm_source=api>`"
+":mtgtip:`Redeem the Lost<https://img.scryfall.com/cards/border_crop/front/6/"
+"a/6a0f1aa1-b5be-43f0-822d-c4fcf33270d9.jpg?1562879061|https://scryfall.com/"
+"card/mor/21/redeem-the-lost?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:105
 msgid ""
-"Target creature you control gains protection from the color of your "
-"choice until end of turn. Clash with an opponent. If you win, return "
-"Redeem the Lost to its owner's hand. (Each clashing player reveals the "
-"top card of their library, then puts that card on the top or bottom. A "
-"player wins if their card had a higher converted mana cost.)"
+"Target creature you control gains protection from the color of your choice "
+"until end of turn. Clash with an opponent. If you win, return Redeem the "
+"Lost to its owner's hand. (Each clashing player reveals the top card of "
+"their library, then puts that card on the top or bottom. A player wins if "
+"their card had a higher converted mana cost.)"
 msgstr ""
 
 #: ../../MOR.rst:114
-msgid ":mtgtip:`Reveillark<https://img.scryfall.com/cards/border_crop/en/mor/22.jpg?1517813031|https://scryfall.com/card/mor/22/reveillark?utm_source=api>`"
+msgid ""
+":mtgtip:`Reveillark<https://img.scryfall.com/cards/border_crop/"
+"front/5/6/5629edd4-b5d3-43f8-8c7c-f9d916e35158.jpg?1562878601|https://"
+"scryfall.com/card/mor/22/reveillark?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:111
@@ -341,14 +350,17 @@ msgstr ""
 
 #: ../../MOR.rst:113
 msgid ""
-"Evoke |mana_5|\\ |mana_w| (You may cast this spell for its evoke cost. If"
-" you do, it's sacrificed when it enters the battlefield.)"
+"Evoke |mana_5|\\ |mana_w| (You may cast this spell for its evoke cost. If "
+"you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_5|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
 "przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../MOR.rst:122
-msgid ":mtgtip:`Shinewend<https://img.scryfall.com/cards/border_crop/en/mor/23.jpg?1517813031|https://scryfall.com/card/mor/23/shinewend?utm_source=api>`"
+msgid ""
+":mtgtip:`Shinewend<https://img.scryfall.com/cards/border_crop/"
+"front/8/5/85dbd4a4-2a6f-477a-a267-27859ad73369.jpg?1562879769|https://"
+"scryfall.com/card/mor/23/shinewend?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:119
@@ -357,42 +369,42 @@ msgstr ""
 
 #: ../../MOR.rst:121
 msgid ""
-"|mana_1|\\ |mana_w|, Remove a +1/+1 counter from Shinewend: Destroy "
-"target enchantment."
+"|mana_1|\\ |mana_w|, Remove a +1/+1 counter from Shinewend: Destroy target "
+"enchantment."
 msgstr ""
 
 #: ../../MOR.rst:128
 msgid ""
-":mtgtip:`Stonehewer "
-"Giant<https://img.scryfall.com/cards/border_crop/en/mor/24.jpg?1517813031|https://scryfall.com/card/mor/24"
-"/stonehewer-giant?utm_source=api>`"
+":mtgtip:`Stonehewer Giant<https://img.scryfall.com/cards/border_crop/"
+"front/3/6/363c51c5-b0fc-4c84-b3d6-8cc17c2387a4.jpg?1562877876|https://"
+"scryfall.com/card/mor/24/stonehewer-giant?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:127
 msgid ""
-"|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and"
-" put it onto the battlefield. Attach it to a creature you control. Then "
+"|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and "
+"put it onto the battlefield. Attach it to a creature you control. Then "
 "shuffle your library."
 msgstr ""
 
 #: ../../MOR.rst:132
 msgid ""
-":mtgtip:`Stonybrook "
-"Schoolmaster<https://img.scryfall.com/cards/border_crop/en/mor/25.jpg?1517813031|https://scryfall.com/card/mor/25"
-"/stonybrook-schoolmaster?utm_source=api>`"
+":mtgtip:`Stonybrook Schoolmaster<https://img.scryfall.com/cards/border_crop/"
+"front/6/9/69fa2293-f398-4ad8-895e-c739ddea56d0.jpg?1562879054|https://"
+"scryfall.com/card/mor/25/stonybrook-schoolmaster?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:131
 msgid ""
-"Whenever Stonybrook Schoolmaster becomes tapped, you may create a 1/1 "
-"blue Merfolk Wizard creature token."
+"Whenever Stonybrook Schoolmaster becomes tapped, you may create a 1/1 blue "
+"Merfolk Wizard creature token."
 msgstr ""
 
 #: ../../MOR.rst:138
 msgid ""
-":mtgtip:`Swell of "
-"Courage<https://img.scryfall.com/cards/border_crop/en/mor/26.jpg?1517813031|https://scryfall.com/card/mor/26"
-"/swell-of-courage?utm_source=api>`"
+":mtgtip:`Swell of Courage<https://img.scryfall.com/cards/border_crop/"
+"front/1/6/162bba28-667d-4acd-97ed-3421d12e0453.jpg?1562877021|https://"
+"scryfall.com/card/mor/26/swell-of-courage?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:135
@@ -401,29 +413,29 @@ msgstr "Stwory pod twoim władaniem dostają +2/+2 do końca tury."
 
 #: ../../MOR.rst:137
 msgid ""
-"Reinforce X—|mana_x|\\ |mana_w|\\ |mana_w| (|mana_x|\\ |mana_w|\\ "
-"|mana_w|, Discard this card: Put X +1/+1 counters on target creature.)"
+"Reinforce X—|mana_x|\\ |mana_w|\\ |mana_w| (|mana_x|\\ |mana_w|\\ |mana_w|, "
+"Discard this card: Put X +1/+1 counters on target creature.)"
 msgstr ""
 
 #: ../../MOR.rst:142
 msgid ""
-":mtgtip:`Wandering "
-"Graybeard<https://img.scryfall.com/cards/border_crop/en/mor/27.jpg?1517813031|https://scryfall.com/card/mor/27"
-"/wandering-graybeard?utm_source=api>`"
+":mtgtip:`Wandering Graybeard<https://img.scryfall.com/cards/border_crop/"
+"front/e/a/ea5c82f9-4bc5-4326-92c0-d2aa4b4838a5.jpg?1562882224|https://"
+"scryfall.com/card/mor/27/wandering-graybeard?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:141
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Wandering Graybeard, "
-"you may reveal it. If you do, you gain 4 life."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Wandering Graybeard, you may "
+"reveal it. If you do, you gain 4 life."
 msgstr ""
 
 #: ../../MOR.rst:150
 msgid ""
-":mtgtip:`Weight of "
-"Conscience<https://img.scryfall.com/cards/border_crop/en/mor/28.jpg?1517813031|https://scryfall.com/card/mor/28"
-"/weight-of-conscience?utm_source=api>`"
+":mtgtip:`Weight of Conscience<https://img.scryfall.com/cards/border_crop/"
+"front/3/9/396c8c41-70b4-4189-9160-8b7367a817a2.jpg?1562877954|https://"
+"scryfall.com/card/mor/28/weight-of-conscience?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:147
@@ -438,9 +450,9 @@ msgstr ""
 
 #: ../../MOR.rst:156
 msgid ""
-":mtgtip:`Declaration of "
-"Naught<https://img.scryfall.com/cards/border_crop/en/mor/29.jpg?1517813031|https://scryfall.com/card/mor/29"
-"/declaration-of-naught?utm_source=api>`"
+":mtgtip:`Declaration of Naught<https://img.scryfall.com/cards/border_crop/"
+"front/2/e/2e67d62f-9629-463b-a445-4181f6fafd0f.jpg?1562877683|https://"
+"scryfall.com/card/mor/29/declaration-of-naught?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:153
@@ -453,9 +465,9 @@ msgstr ""
 
 #: ../../MOR.rst:164
 msgid ""
-":mtgtip:`Dewdrop "
-"Spy<https://img.scryfall.com/cards/border_crop/en/mor/30.jpg?1517813031|https://scryfall.com/card/mor/30"
-"/dewdrop-spy?utm_source=api>`"
+":mtgtip:`Dewdrop Spy<https://img.scryfall.com/cards/border_crop/"
+"front/6/4/64b14ad2-0ac7-4ae1-8a9e-eb49c8c5cc40.jpg?1562878923|https://"
+"scryfall.com/card/mor/30/dewdrop-spy?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:159 ../../MOR.rst:201 ../../MOR.rst:303 ../../MOR.rst:393
@@ -469,7 +481,10 @@ msgid ""
 msgstr ""
 
 #: ../../MOR.rst:168
-msgid ":mtgtip:`Disperse<https://img.scryfall.com/cards/border_crop/en/mor/31.jpg?1517813031|https://scryfall.com/card/mor/31/disperse?utm_source=api>`"
+msgid ""
+":mtgtip:`Disperse<https://img.scryfall.com/cards/border_crop/front/0/"
+"a/0ae239b2-1596-4906-9711-1d180a246d35.jpg?1562876761|https://scryfall.com/"
+"card/mor/31/disperse?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:167
@@ -478,22 +493,22 @@ msgstr "Zwróć wskazany nielądowy permanent do ręki właściciela."
 
 #: ../../MOR.rst:172
 msgid ""
-":mtgtip:`Distant "
-"Melody<https://img.scryfall.com/cards/border_crop/en/mor/32.jpg?1517813031|https://scryfall.com/card/mor/32"
-"/distant-melody?utm_source=api>`"
+":mtgtip:`Distant Melody<https://img.scryfall.com/cards/border_crop/front/5/"
+"a/5a28e4f9-3b68-40bb-bf77-850b08c6b096.jpg?1562878664|https://scryfall.com/"
+"card/mor/32/distant-melody?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:171
 msgid ""
-"Choose a creature type. Draw a card for each permanent you control of "
-"that type."
+"Choose a creature type. Draw a card for each permanent you control of that "
+"type."
 msgstr ""
 
 #: ../../MOR.rst:178
 msgid ""
-":mtgtip:`Fencer "
-"Clique<https://img.scryfall.com/cards/border_crop/en/mor/33.jpg?1517813031|https://scryfall.com/card/mor/33"
-"/fencer-clique?utm_source=api>`"
+":mtgtip:`Fencer Clique<https://img.scryfall.com/cards/border_crop/"
+"front/7/7/77c0929f-bee6-416d-8571-6540ae4f6e4f.jpg?1562879392|https://"
+"scryfall.com/card/mor/33/fencer-clique?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:177
@@ -501,7 +516,10 @@ msgid "|mana_u|: Put Fencer Clique on top of its owner's library."
 msgstr ""
 
 #: ../../MOR.rst:186
-msgid ":mtgtip:`Floodchaser<https://img.scryfall.com/cards/border_crop/en/mor/34.jpg?1517813031|https://scryfall.com/card/mor/34/floodchaser?utm_source=api>`"
+msgid ""
+":mtgtip:`Floodchaser<https://img.scryfall.com/cards/border_crop/"
+"front/7/1/71265bb0-bf51-4d9d-b94c-c90adf65c55b.jpg?1562879216|https://"
+"scryfall.com/card/mor/34/floodchaser?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:181
@@ -514,21 +532,21 @@ msgstr ""
 
 #: ../../MOR.rst:185
 msgid ""
-"|mana_u|, Remove a +1/+1 counter from Floodchaser: Target land becomes an"
-" Island until end of turn."
+"|mana_u|, Remove a +1/+1 counter from Floodchaser: Target land becomes an "
+"Island until end of turn."
 msgstr ""
 
 #: ../../MOR.rst:194
 msgid ""
-":mtgtip:`Grimoire "
-"Thief<https://img.scryfall.com/cards/border_crop/en/mor/35.jpg?1517813031|https://scryfall.com/card/mor/35"
-"/grimoire-thief?utm_source=api>`"
+":mtgtip:`Grimoire Thief<https://img.scryfall.com/cards/border_crop/"
+"front/5/9/59c4dceb-6889-4a79-87c2-98952f3478bb.jpg?1562878647|https://"
+"scryfall.com/card/mor/35/grimoire-thief?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:189
 msgid ""
-"Whenever Grimoire Thief becomes tapped, exile the top three cards of "
-"target opponent's library face down."
+"Whenever Grimoire Thief becomes tapped, exile the top three cards of target "
+"opponent's library face down."
 msgstr ""
 
 #: ../../MOR.rst:191
@@ -543,24 +561,24 @@ msgstr ""
 
 #: ../../MOR.rst:198
 msgid ""
-":mtgtip:`Ink "
-"Dissolver<https://img.scryfall.com/cards/border_crop/en/mor/36.jpg?1517813031|https://scryfall.com/card/mor/36"
-"/ink-dissolver?utm_source=api>`"
+":mtgtip:`Ink Dissolver<https://img.scryfall.com/cards/border_crop/front/6/"
+"e/6e1bf0ad-f718-4118-9e9b-19041cfbb5cf.jpg?1562879148|https://scryfall.com/"
+"card/mor/36/ink-dissolver?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:197
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Ink Dissolver, you may"
-" reveal it. If you do, each opponent puts the top three cards of their "
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Ink Dissolver, you may "
+"reveal it. If you do, each opponent puts the top three cards of their "
 "library into their graveyard."
 msgstr ""
 
 #: ../../MOR.rst:208
 msgid ""
-":mtgtip:`Inspired "
-"Sprite<https://img.scryfall.com/cards/border_crop/en/mor/37.jpg?1517813031|https://scryfall.com/card/mor/37"
-"/inspired-sprite?utm_source=api>`"
+":mtgtip:`Inspired Sprite<https://img.scryfall.com/cards/border_crop/"
+"front/0/9/0960dc0a-907b-4e02-a0b5-dd2613be8e65.jpg?1562876712|https://"
+"scryfall.com/card/mor/37/inspired-sprite?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:205
@@ -573,35 +591,35 @@ msgstr ""
 
 #: ../../MOR.rst:214
 msgid ""
-":mtgtip:`Knowledge "
-"Exploitation<https://img.scryfall.com/cards/border_crop/en/mor/38.jpg?1517813031|https://scryfall.com/card/mor/38"
-"/knowledge-exploitation?utm_source=api>`"
+":mtgtip:`Knowledge Exploitation<https://img.scryfall.com/cards/border_crop/"
+"front/3/d/3d283c49-2e81-4b2e-956a-69152cc4704e.jpg?1562878014|https://"
+"scryfall.com/card/mor/38/knowledge-exploitation?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:211
 msgid ""
-"Prowl |mana_3|\\ |mana_u| (You may cast this for its prowl cost if you "
-"dealt combat damage to a player this turn with a Rogue.)"
+"Prowl |mana_3|\\ |mana_u| (You may cast this for its prowl cost if you dealt "
+"combat damage to a player this turn with a Rogue.)"
 msgstr ""
 
 #: ../../MOR.rst:213
 msgid ""
 "Search target opponent's library for an instant or sorcery card. You may "
-"cast that card without paying its mana cost. Then that player shuffles "
-"their library."
+"cast that card without paying its mana cost. Then that player shuffles their "
+"library."
 msgstr ""
 
 #: ../../MOR.rst:222
 msgid ""
-":mtgtip:`Latchkey "
-"Faerie<https://img.scryfall.com/cards/border_crop/en/mor/39.jpg?1517813031|https://scryfall.com/card/mor/39"
-"/latchkey-faerie?utm_source=api>`"
+":mtgtip:`Latchkey Faerie<https://img.scryfall.com/cards/border_crop/front/e/"
+"f/ef32d51e-1ec0-46aa-b240-e28a1fb64d73.jpg?1562882311|https://scryfall.com/"
+"card/mor/39/latchkey-faerie?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:219
 msgid ""
-"Prowl |mana_2|\\ |mana_u| (You may cast this for its prowl cost if you "
-"dealt combat damage to a player this turn with a Faerie or Rogue.)"
+"Prowl |mana_2|\\ |mana_u| (You may cast this for its prowl cost if you dealt "
+"combat damage to a player this turn with a Faerie or Rogue.)"
 msgstr ""
 
 #: ../../MOR.rst:221
@@ -612,9 +630,9 @@ msgstr ""
 
 #: ../../MOR.rst:226
 msgid ""
-":mtgtip:`Merrow "
-"Witsniper<https://img.scryfall.com/cards/border_crop/en/mor/40.jpg?1517813031|https://scryfall.com/card/mor/40"
-"/merrow-witsniper?utm_source=api>`"
+":mtgtip:`Merrow Witsniper<https://img.scryfall.com/cards/border_crop/front/"
+"d/5/d5b4e77f-012f-47f4-8b44-930148250b1d.jpg?1562881669|https://scryfall.com/"
+"card/mor/40/merrow-witsniper?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:225
@@ -625,9 +643,9 @@ msgstr ""
 
 #: ../../MOR.rst:230
 msgid ""
-":mtgtip:`Mind "
-"Spring<https://img.scryfall.com/cards/border_crop/en/mor/41.jpg?1517813031|https://scryfall.com/card/mor/41"
-"/mind-spring?utm_source=api>`"
+":mtgtip:`Mind Spring<https://img.scryfall.com/cards/border_crop/front/7/"
+"b/7b7cd9b6-1ea8-423d-8aa0-8699fffbcf50.jpg?1562879449|https://scryfall.com/"
+"card/mor/41/mind-spring?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:229
@@ -636,19 +654,22 @@ msgstr "Dobierz X kart."
 
 #: ../../MOR.rst:236
 msgid ""
-":mtgtip:`Mothdust "
-"Changeling<https://img.scryfall.com/cards/border_crop/en/mor/42.jpg?1517813031|https://scryfall.com/card/mor/42"
-"/mothdust-changeling?utm_source=api>`"
+":mtgtip:`Mothdust Changeling<https://img.scryfall.com/cards/border_crop/"
+"front/9/5/95da9bc9-6ac5-432d-ac12-04088cc6c74d.jpg?1562880149|https://"
+"scryfall.com/card/mor/42/mothdust-changeling?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:235
 msgid ""
-"Tap an untapped creature you control: Mothdust Changeling gains flying "
-"until end of turn."
+"Tap an untapped creature you control: Mothdust Changeling gains flying until "
+"end of turn."
 msgstr ""
 
 #: ../../MOR.rst:240
-msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/en/mor/43.jpg?1517813031|https://scryfall.com/card/mor/43/negate?utm_source=api>`"
+msgid ""
+":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/front/5/"
+"a/5a501252-e722-4ebf-bcf7-f53a42745fa7.jpg?1562878670|https://scryfall.com/"
+"card/mor/43/negate?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:239
@@ -656,61 +677,64 @@ msgid "Counter target noncreature spell."
 msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../MOR.rst:248
-msgid ":mtgtip:`Nevermaker<https://img.scryfall.com/cards/border_crop/en/mor/44.jpg?1517813031|https://scryfall.com/card/mor/44/nevermaker?utm_source=api>`"
+msgid ""
+":mtgtip:`Nevermaker<https://img.scryfall.com/cards/border_crop/front/e/1/"
+"e1fa77d1-cd61-4ef8-a71f-7c92b1f3b074.jpg?1562882017|https://scryfall.com/"
+"card/mor/44/nevermaker?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:245
 msgid ""
-"When Nevermaker leaves the battlefield, put target nonland permanent on "
-"top of its owner's library."
+"When Nevermaker leaves the battlefield, put target nonland permanent on top "
+"of its owner's library."
 msgstr ""
 
 #: ../../MOR.rst:247 ../../MOR.rst:277
 msgid ""
-"Evoke |mana_3|\\ |mana_u| (You may cast this spell for its evoke cost. If"
-" you do, it's sacrificed when it enters the battlefield.)"
+"Evoke |mana_3|\\ |mana_u| (You may cast this spell for its evoke cost. If "
+"you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
 #: ../../MOR.rst:254
 msgid ""
-":mtgtip:`Notorious "
-"Throng<https://img.scryfall.com/cards/border_crop/en/mor/45.jpg?1517813031|https://scryfall.com/card/mor/45"
-"/notorious-throng?utm_source=api>`"
+":mtgtip:`Notorious Throng<https://img.scryfall.com/cards/border_crop/front/6/"
+"f/6f4b5890-21d3-4eb9-a959-645dd389dde6.jpg?1562879169|https://scryfall.com/"
+"card/mor/45/notorious-throng?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:251
 msgid ""
-"Prowl |mana_5|\\ |mana_u| (You may cast this for its prowl cost if you "
-"dealt combat damage to a player this turn with a Rogue.)"
+"Prowl |mana_5|\\ |mana_u| (You may cast this for its prowl cost if you dealt "
+"combat damage to a player this turn with a Rogue.)"
 msgstr ""
 
 #: ../../MOR.rst:253
 msgid ""
-"Create X 1/1 black Faerie Rogue creature tokens with flying, where X is "
-"the damage dealt to your opponents this turn. If Notorious Throng's prowl"
-" cost was paid, take an extra turn after this one."
+"Create X 1/1 black Faerie Rogue creature tokens with flying, where X is the "
+"damage dealt to your opponents this turn. If Notorious Throng's prowl cost "
+"was paid, take an extra turn after this one."
 msgstr ""
 
 #: ../../MOR.rst:258
 msgid ""
-":mtgtip:`Research the "
-"Deep<https://img.scryfall.com/cards/border_crop/en/mor/46.jpg?1517813031|https://scryfall.com/card/mor/46"
-"/research-the-deep?utm_source=api>`"
+":mtgtip:`Research the Deep<https://img.scryfall.com/cards/border_crop/"
+"front/9/2/927bab71-a208-4ff2-b6c9-51b63468db38.jpg?1562880060|https://"
+"scryfall.com/card/mor/46/research-the-deep?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:257
 msgid ""
-"Draw a card. Clash with an opponent. If you win, return Research the Deep"
-" to its owner's hand. (Each clashing player reveals the top card of their"
-" library, then puts that card on the top or bottom. A player wins if "
-"their card had a higher converted mana cost.)"
+"Draw a card. Clash with an opponent. If you win, return Research the Deep to "
+"its owner's hand. (Each clashing player reveals the top card of their "
+"library, then puts that card on the top or bottom. A player wins if their "
+"card had a higher converted mana cost.)"
 msgstr ""
 
 #: ../../MOR.rst:264
 msgid ""
-":mtgtip:`Sage of "
-"Fables<https://img.scryfall.com/cards/border_crop/en/mor/47.jpg?1517813031|https://scryfall.com/card/mor/47"
-"/sage-of-fables?utm_source=api>`"
+":mtgtip:`Sage of Fables<https://img.scryfall.com/cards/border_crop/"
+"front/3/7/37b3e46e-7a65-4c2a-989b-b626b20e1b14.jpg?1562877908|https://"
+"scryfall.com/card/mor/47/sage-of-fables?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:261
@@ -720,27 +744,28 @@ msgid ""
 msgstr ""
 
 #: ../../MOR.rst:263
-msgid "|mana_2|, Remove a +1/+1 counter from a creature you control: Draw a card."
+msgid ""
+"|mana_2|, Remove a +1/+1 counter from a creature you control: Draw a card."
 msgstr ""
 
 #: ../../MOR.rst:268
 msgid ""
-":mtgtip:`Sage's "
-"Dousing<https://img.scryfall.com/cards/border_crop/en/mor/48.jpg?1517813031|https://scryfall.com/card/mor/48"
-"/sages-dousing?utm_source=api>`"
+":mtgtip:`Sage's Dousing<https://img.scryfall.com/cards/border_crop/"
+"front/7/5/75ccd5f6-b363-433f-9e98-f65e10b10bc9.jpg?1562879335|https://"
+"scryfall.com/card/mor/48/sages-dousing?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:267
 msgid ""
-"Counter target spell unless its controller pays |mana_3|. If you control "
-"a Wizard, draw a card."
+"Counter target spell unless its controller pays |mana_3|. If you control a "
+"Wizard, draw a card."
 msgstr ""
 
 #: ../../MOR.rst:272
 msgid ""
-":mtgtip:`Sigil "
-"Tracer<https://img.scryfall.com/cards/border_crop/en/mor/49.jpg?1517813031|https://scryfall.com/card/mor/49"
-"/sigil-tracer?utm_source=api>`"
+":mtgtip:`Sigil Tracer<https://img.scryfall.com/cards/border_crop/front/7/"
+"c/7c9341e6-b899-418d-916f-550775af419f.jpg?1562879487|https://scryfall.com/"
+"card/mor/49/sigil-tracer?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:271
@@ -750,21 +775,23 @@ msgid ""
 msgstr ""
 
 #: ../../MOR.rst:278
-msgid ":mtgtip:`Slithermuse<https://img.scryfall.com/cards/border_crop/en/mor/50.jpg?1517813031|https://scryfall.com/card/mor/50/slithermuse?utm_source=api>`"
+msgid ""
+":mtgtip:`Slithermuse<https://img.scryfall.com/cards/border_crop/front/2/"
+"e/2ec9df4e-2ee7-4c77-91b0-ad6e624340cd.jpg?1562877699|https://scryfall.com/"
+"card/mor/50/slithermuse?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:275
 msgid ""
-"When Slithermuse leaves the battlefield, choose an opponent. If that "
-"player has more cards in hand than you, draw cards equal to the "
-"difference."
+"When Slithermuse leaves the battlefield, choose an opponent. If that player "
+"has more cards in hand than you, draw cards equal to the difference."
 msgstr ""
 
 #: ../../MOR.rst:284
 msgid ""
-":mtgtip:`Stonybrook "
-"Banneret<https://img.scryfall.com/cards/border_crop/en/mor/51.jpg?1517813031|https://scryfall.com/card/mor/51"
-"/stonybrook-banneret?utm_source=api>`"
+":mtgtip:`Stonybrook Banneret<https://img.scryfall.com/cards/border_crop/"
+"front/3/e/3e3e9c6c-e11a-4771-ae1a-3c13cc97e92e.jpg?1562878041|https://"
+"scryfall.com/card/mor/51/stonybrook-banneret?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:281
@@ -781,36 +808,36 @@ msgstr ""
 
 #: ../../MOR.rst:288
 msgid ""
-":mtgtip:`Stream of "
-"Unconsciousness<https://img.scryfall.com/cards/border_crop/en/mor/52.jpg?1517813031|https://scryfall.com/card/mor/52"
-"/stream-of-unconsciousness?utm_source=api>`"
+":mtgtip:`Stream of Unconsciousness<https://img.scryfall.com/cards/"
+"border_crop/front/5/4/54ba05db-6b09-4b6a-b7fe-13c1e1058e25.jpg?1562878558|"
+"https://scryfall.com/card/mor/52/stream-of-unconsciousness?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:287
 msgid ""
-"Target creature gets -4/-0 until end of turn. If you control a Wizard, "
-"draw a card."
+"Target creature gets -4/-0 until end of turn. If you control a Wizard, draw "
+"a card."
 msgstr ""
 
 #: ../../MOR.rst:294
 msgid ""
-":mtgtip:`Supreme "
-"Exemplar<https://img.scryfall.com/cards/border_crop/en/mor/53.jpg?1517813031|https://scryfall.com/card/mor/53"
-"/supreme-exemplar?utm_source=api>`"
+":mtgtip:`Supreme Exemplar<https://img.scryfall.com/cards/border_crop/front/2/"
+"b/2bea92ba-d6e3-4fba-be81-86b10852a9d1.jpg?1562877625|https://scryfall.com/"
+"card/mor/53/supreme-exemplar?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:293
 msgid ""
-"Champion an Elemental (When this enters the battlefield, sacrifice it "
-"unless you exile another Elemental you control. When this leaves the "
-"battlefield, that card returns to the battlefield.)"
+"Champion an Elemental (When this enters the battlefield, sacrifice it unless "
+"you exile another Elemental you control. When this leaves the battlefield, "
+"that card returns to the battlefield.)"
 msgstr ""
 
 #: ../../MOR.rst:300
 msgid ""
-":mtgtip:`Thieves' "
-"Fortune<https://img.scryfall.com/cards/border_crop/en/mor/54.jpg?1517813031|https://scryfall.com/card/mor/54"
-"/thieves-fortune?utm_source=api>`"
+":mtgtip:`Thieves' Fortune<https://img.scryfall.com/cards/border_crop/"
+"front/8/1/8175ec81-f4e2-45d2-a9d8-e8855e17ff4a.jpg?1562879642|https://"
+"scryfall.com/card/mor/54/thieves-fortune?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:297
@@ -821,45 +848,44 @@ msgstr ""
 
 #: ../../MOR.rst:299
 msgid ""
-"Look at the top four cards of your library. Put one of them into your "
-"hand and the rest on the bottom of your library in any order."
+"Look at the top four cards of your library. Put one of them into your hand "
+"and the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../MOR.rst:308
 msgid ""
-":mtgtip:`Vendilion "
-"Clique<https://img.scryfall.com/cards/border_crop/en/mor/55.jpg?1517813031|https://scryfall.com/card/mor/55"
-"/vendilion-clique?utm_source=api>`"
+":mtgtip:`Vendilion Clique<https://img.scryfall.com/cards/border_crop/front/"
+"f/5/f53d8540-fb6d-4d4c-b467-ebfbfa53c880.jpg?1562882446|https://scryfall.com/"
+"card/mor/55/vendilion-clique?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:307
 msgid ""
-"When Vendilion Clique enters the battlefield, look at target player's "
-"hand. You may choose a nonland card from it. If you do, that player "
-"reveals the chosen card, puts it on the bottom of their library, then "
-"draws a card."
+"When Vendilion Clique enters the battlefield, look at target player's hand. "
+"You may choose a nonland card from it. If you do, that player reveals the "
+"chosen card, puts it on the bottom of their library, then draws a card."
 msgstr ""
 
 #: ../../MOR.rst:312
 msgid ""
-":mtgtip:`Waterspout "
-"Weavers<https://img.scryfall.com/cards/border_crop/en/mor/56.jpg?1517813031|https://scryfall.com/card/mor/56"
-"/waterspout-weavers?utm_source=api>`"
+":mtgtip:`Waterspout Weavers<https://img.scryfall.com/cards/border_crop/"
+"front/7/d/7db5c04f-fd5e-4e4c-9146-f9e6ef20a159.jpg?1562879495|https://"
+"scryfall.com/card/mor/56/waterspout-weavers?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:311
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Waterspout Weavers, "
-"you may reveal it. If you do, each creature you control gains flying "
-"until end of turn."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Waterspout Weavers, you may "
+"reveal it. If you do, each creature you control gains flying until end of "
+"turn."
 msgstr ""
 
 #: ../../MOR.rst:320
 msgid ""
-":mtgtip:`Auntie's "
-"Snitch<https://img.scryfall.com/cards/border_crop/en/mor/57.jpg?1517813031|https://scryfall.com/card/mor/57"
-"/aunties-snitch?utm_source=api>`"
+":mtgtip:`Auntie's Snitch<https://img.scryfall.com/cards/border_crop/front/d/"
+"c/dc5caf12-9358-490b-aafa-fc4d2b8b9b22.jpg?1562881877|https://scryfall.com/"
+"card/mor/57/aunties-snitch?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:315
@@ -868,19 +894,22 @@ msgstr ""
 
 #: ../../MOR.rst:317 ../../MOR.rst:439
 msgid ""
-"Prowl |mana_1|\\ |mana_b| (You may cast this for its prowl cost if you "
-"dealt combat damage to a player this turn with a Goblin or Rogue.)"
+"Prowl |mana_1|\\ |mana_b| (You may cast this for its prowl cost if you dealt "
+"combat damage to a player this turn with a Goblin or Rogue.)"
 msgstr ""
 
 #: ../../MOR.rst:319
 msgid ""
-"Whenever a Goblin or Rogue you control deals combat damage to a player, "
-"if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch "
-"to your hand."
+"Whenever a Goblin or Rogue you control deals combat damage to a player, if "
+"Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your "
+"hand."
 msgstr ""
 
 #: ../../MOR.rst:324
-msgid ":mtgtip:`Bitterblossom<https://img.scryfall.com/cards/border_crop/en/mor/58.jpg?1517813031|https://scryfall.com/card/mor/58/bitterblossom?utm_source=api>`"
+msgid ""
+":mtgtip:`Bitterblossom<https://img.scryfall.com/cards/border_crop/"
+"front/8/1/8145fed6-6b51-420a-84cf-4ea5e0aa1883.jpg?1562879630|https://"
+"scryfall.com/card/mor/58/bitterblossom?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:323
@@ -891,9 +920,9 @@ msgstr ""
 
 #: ../../MOR.rst:328
 msgid ""
-":mtgtip:`Blightsoil "
-"Druid<https://img.scryfall.com/cards/border_crop/en/mor/59.jpg?1517813031|https://scryfall.com/card/mor/59"
-"/blightsoil-druid?utm_source=api>`"
+":mtgtip:`Blightsoil Druid<https://img.scryfall.com/cards/border_crop/front/"
+"c/6/c6355f5b-c136-466c-bcfd-f2bf561217cf.jpg?1562881284|https://scryfall.com/"
+"card/mor/59/blightsoil-druid?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:327
@@ -902,39 +931,42 @@ msgstr "|tap|, zapłać 1 życie: Weź |mana_g|."
 
 #: ../../MOR.rst:334
 msgid ""
-":mtgtip:`Earwig "
-"Squad<https://img.scryfall.com/cards/border_crop/en/mor/60.jpg?1517813031|https://scryfall.com/card/mor/60"
-"/earwig-squad?utm_source=api>`"
+":mtgtip:`Earwig Squad<https://img.scryfall.com/cards/border_crop/"
+"front/0/1/0116416b-ed95-4fa2-abc5-446de5c3106b.jpg?1562876483|https://"
+"scryfall.com/card/mor/60/earwig-squad?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:331
 msgid ""
-"Prowl |mana_2|\\ |mana_b| (You may cast this for its prowl cost if you "
-"dealt combat damage to a player this turn with a Goblin or Rogue.)"
+"Prowl |mana_2|\\ |mana_b| (You may cast this for its prowl cost if you dealt "
+"combat damage to a player this turn with a Goblin or Rogue.)"
 msgstr ""
 
 #: ../../MOR.rst:333
 msgid ""
-"When Earwig Squad enters the battlefield, if its prowl cost was paid, "
-"search target opponent's library for three cards and exile them. Then "
-"that player shuffles their library."
+"When Earwig Squad enters the battlefield, if its prowl cost was paid, search "
+"target opponent's library for three cards and exile them. Then that player "
+"shuffles their library."
 msgstr ""
 
 #: ../../MOR.rst:338
 msgid ""
-":mtgtip:`Fendeep "
-"Summoner<https://img.scryfall.com/cards/border_crop/en/mor/61.jpg?1517813031|https://scryfall.com/card/mor/61"
-"/fendeep-summoner?utm_source=api>`"
+":mtgtip:`Fendeep Summoner<https://img.scryfall.com/cards/border_crop/"
+"front/1/0/10fb2b62-eea7-469f-b237-fdce20b8bdcf.jpg?1562876919|https://"
+"scryfall.com/card/mor/61/fendeep-summoner?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:337
 msgid ""
-"|tap|: Up to two target Swamps each become 3/5 Treefolk Warrior creatures"
-" in addition to their other types until end of turn."
+"|tap|: Up to two target Swamps each become 3/5 Treefolk Warrior creatures in "
+"addition to their other types until end of turn."
 msgstr ""
 
 #: ../../MOR.rst:344
-msgid ":mtgtip:`Festercreep<https://img.scryfall.com/cards/border_crop/en/mor/62.jpg?1517813031|https://scryfall.com/card/mor/62/festercreep?utm_source=api>`"
+msgid ""
+":mtgtip:`Festercreep<https://img.scryfall.com/cards/border_crop/"
+"front/6/1/614a9456-0ebf-4fba-b085-225f8c7e4a98.jpg?1562878850|https://"
+"scryfall.com/card/mor/62/festercreep?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:341
@@ -949,22 +981,22 @@ msgstr ""
 
 #: ../../MOR.rst:350
 msgid ""
-":mtgtip:`Final-Sting "
-"Faerie<https://img.scryfall.com/cards/border_crop/en/mor/63.jpg?1517813031|https://scryfall.com/card/mor/63"
-"/final-sting-faerie?utm_source=api>`"
+":mtgtip:`Final-Sting Faerie<https://img.scryfall.com/cards/border_crop/front/"
+"f/b/fb237de0-bf73-445f-a42b-c3da4cd35973.jpg?1562882585|https://scryfall.com/"
+"card/mor/63/final-sting-faerie?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:349
 msgid ""
-"When Final-Sting Faerie enters the battlefield, destroy target creature "
-"that was dealt damage this turn."
+"When Final-Sting Faerie enters the battlefield, destroy target creature that "
+"was dealt damage this turn."
 msgstr ""
 
 #: ../../MOR.rst:356
 msgid ""
-":mtgtip:`Frogtosser "
-"Banneret<https://img.scryfall.com/cards/border_crop/en/mor/64.jpg?1517813031|https://scryfall.com/card/mor/64"
-"/frogtosser-banneret?utm_source=api>`"
+":mtgtip:`Frogtosser Banneret<https://img.scryfall.com/cards/border_crop/"
+"front/7/8/78543dac-7367-429f-88a5-83cb803193ef.jpg?1562879393|https://"
+"scryfall.com/card/mor/64/frogtosser-banneret?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:353
@@ -977,9 +1009,9 @@ msgstr ""
 
 #: ../../MOR.rst:362
 msgid ""
-":mtgtip:`Maralen of the "
-"Mornsong<https://img.scryfall.com/cards/border_crop/en/mor/65.jpg?1517813031|https://scryfall.com/card/mor/65"
-"/maralen-of-the-mornsong?utm_source=api>`"
+":mtgtip:`Maralen of the Mornsong<https://img.scryfall.com/cards/border_crop/"
+"front/b/a/ba98d363-194b-4bc0-b9fe-987c498ab6fa.jpg?1562880995|https://"
+"scryfall.com/card/mor/65/maralen-of-the-mornsong?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:359
@@ -989,15 +1021,15 @@ msgstr ""
 #: ../../MOR.rst:361
 msgid ""
 "At the beginning of each player's draw step, that player loses 3 life, "
-"searches their library for a card, puts it into their hand, then shuffles"
-" their library."
+"searches their library for a card, puts it into their hand, then shuffles "
+"their library."
 msgstr ""
 
 #: ../../MOR.rst:366
 msgid ""
-":mtgtip:`Mind "
-"Shatter<https://img.scryfall.com/cards/border_crop/en/mor/66.jpg?1517813031|https://scryfall.com/card/mor/66"
-"/mind-shatter?utm_source=api>`"
+":mtgtip:`Mind Shatter<https://img.scryfall.com/cards/border_crop/front/d/b/"
+"db6b2715-4d19-4980-8f5c-3ae20af6af72.jpg?1562881835|https://scryfall.com/"
+"card/mor/66/mind-shatter?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:365
@@ -1006,87 +1038,88 @@ msgstr ""
 
 #: ../../MOR.rst:372
 msgid ""
-":mtgtip:`Moonglove "
-"Changeling<https://img.scryfall.com/cards/border_crop/en/mor/67.jpg?1517813031|https://scryfall.com/card/mor/67"
-"/moonglove-changeling?utm_source=api>`"
+":mtgtip:`Moonglove Changeling<https://img.scryfall.com/cards/border_crop/"
+"front/6/9/6955348b-70e9-49c3-9343-9becf977abe8.jpg?1562879033|https://"
+"scryfall.com/card/mor/67/moonglove-changeling?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:371
 msgid ""
 "|mana_b|: Moonglove Changeling gains deathtouch until end of turn. (Any "
-"amount of damage it deals to a creature is enough to destroy that "
-"creature.)"
+"amount of damage it deals to a creature is enough to destroy that creature.)"
 msgstr ""
 
 #: ../../MOR.rst:378
 msgid ""
-":mtgtip:`Morsel "
-"Theft<https://img.scryfall.com/cards/border_crop/en/mor/68.jpg?1517813031|https://scryfall.com/card/mor/68"
-"/morsel-theft?utm_source=api>`"
+":mtgtip:`Morsel Theft<https://img.scryfall.com/cards/border_crop/front/c/a/"
+"cac48152-81c0-4cdc-8e3c-bfbe7b068b28.jpg?1562881395|https://scryfall.com/"
+"card/mor/68/morsel-theft?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:375 ../../MOR.rst:387
 msgid ""
-"Prowl |mana_1|\\ |mana_b| (You may cast this for its prowl cost if you "
-"dealt combat damage to a player this turn with a Rogue.)"
+"Prowl |mana_1|\\ |mana_b| (You may cast this for its prowl cost if you dealt "
+"combat damage to a player this turn with a Rogue.)"
 msgstr ""
 
 #: ../../MOR.rst:377
 msgid ""
-"Target player loses 3 life and you gain 3 life. If Morsel Theft's prowl "
-"cost was paid, draw a card."
+"Target player loses 3 life and you gain 3 life. If Morsel Theft's prowl cost "
+"was paid, draw a card."
 msgstr ""
 
 #: ../../MOR.rst:384
 msgid ""
-":mtgtip:`Nightshade "
-"Schemers<https://img.scryfall.com/cards/border_crop/en/mor/69.jpg?1517813031|https://scryfall.com/card/mor/69"
-"/nightshade-schemers?utm_source=api>`"
+":mtgtip:`Nightshade Schemers<https://img.scryfall.com/cards/border_crop/"
+"front/a/f/af9a61cd-3a26-4142-83ce-9c41cdb16eb4.jpg?1562880749|https://"
+"scryfall.com/card/mor/69/nightshade-schemers?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:383
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Nightshade Schemers, "
-"you may reveal it. If you do, each opponent loses 2 life."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Nightshade Schemers, you may "
+"reveal it. If you do, each opponent loses 2 life."
 msgstr ""
 
 #: ../../MOR.rst:390
 msgid ""
-":mtgtip:`Noggin "
-"Whack<https://img.scryfall.com/cards/border_crop/en/mor/70.jpg?1517813031|https://scryfall.com/card/mor/70"
-"/noggin-whack?utm_source=api>`"
+":mtgtip:`Noggin Whack<https://img.scryfall.com/cards/border_crop/"
+"front/9/3/932649ab-ed5e-405f-986f-855d8a7c8eb2.jpg?1562880071|https://"
+"scryfall.com/card/mor/70/noggin-whack?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:389
 msgid ""
-"Target player reveals three cards from their hand. You choose two of "
-"them. That player discards those cards."
+"Target player reveals three cards from their hand. You choose two of them. "
+"That player discards those cards."
 msgstr ""
 
 #: ../../MOR.rst:398
-msgid ":mtgtip:`Offalsnout<https://img.scryfall.com/cards/border_crop/en/mor/71.jpg?1517813031|https://scryfall.com/card/mor/71/offalsnout?utm_source=api>`"
+msgid ""
+":mtgtip:`Offalsnout<https://img.scryfall.com/cards/border_crop/"
+"front/6/3/632dcea3-53ad-4317-b8bc-457b1887e7b5.jpg?1562878886|https://"
+"scryfall.com/card/mor/71/offalsnout?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:395
 msgid ""
-"When Offalsnout leaves the battlefield, exile target card from a "
-"graveyard."
+"When Offalsnout leaves the battlefield, exile target card from a graveyard."
 msgstr ""
 
 #: ../../MOR.rst:397
 msgid ""
-"Evoke |mana_b| (You may cast this spell for its evoke cost. If you do, "
-"it's sacrificed when it enters the battlefield.)"
+"Evoke |mana_b| (You may cast this spell for its evoke cost. If you do, it's "
+"sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_b| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
 "to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../MOR.rst:406
 msgid ""
-":mtgtip:`Oona's "
-"Blackguard<https://img.scryfall.com/cards/border_crop/en/mor/72.jpg?1517813031|https://scryfall.com/card/mor/72"
-"/oonas-blackguard?utm_source=api>`"
+":mtgtip:`Oona's Blackguard<https://img.scryfall.com/cards/border_crop/"
+"front/1/8/180abc09-b098-4a51-bf4f-c1ad7c5e1c30.jpg?1562877061|https://"
+"scryfall.com/card/mor/72/oonas-blackguard?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:403
@@ -1103,9 +1136,9 @@ msgstr ""
 
 #: ../../MOR.rst:410
 msgid ""
-":mtgtip:`Pack's "
-"Disdain<https://img.scryfall.com/cards/border_crop/en/mor/73.jpg?1517813031|https://scryfall.com/card/mor/73"
-"/packs-disdain?utm_source=api>`"
+":mtgtip:`Pack's Disdain<https://img.scryfall.com/cards/border_crop/"
+"front/7/9/79713cf7-2715-44cc-9f15-4c809b82efb6.jpg?1562879411|https://"
+"scryfall.com/card/mor/73/packs-disdain?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:409
@@ -1116,9 +1149,9 @@ msgstr ""
 
 #: ../../MOR.rst:414
 msgid ""
-":mtgtip:`Prickly "
-"Boggart<https://img.scryfall.com/cards/border_crop/en/mor/74.jpg?1517813031|https://scryfall.com/card/mor/74"
-"/prickly-boggart?utm_source=api>`"
+":mtgtip:`Prickly Boggart<https://img.scryfall.com/cards/border_crop/"
+"front/5/5/55121b63-22a6-4923-82e9-c55f66742980.jpg?1562878564|https://"
+"scryfall.com/card/mor/74/prickly-boggart?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:413
@@ -1129,64 +1162,66 @@ msgstr ""
 
 #: ../../MOR.rst:418
 msgid ""
-":mtgtip:`Pulling "
-"Teeth<https://img.scryfall.com/cards/border_crop/en/mor/75.jpg?1517813031|https://scryfall.com/card/mor/75"
-"/pulling-teeth?utm_source=api>`"
+":mtgtip:`Pulling Teeth<https://img.scryfall.com/cards/border_crop/front/6/"
+"c/6cdce79d-c8a6-4172-8211-7cf2dcb8bf2d.jpg?1562879129|https://scryfall.com/"
+"card/mor/75/pulling-teeth?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:417
 msgid ""
 "Clash with an opponent. If you win, target player discards two cards. "
-"Otherwise, that player discards a card. (Each clashing player reveals the"
-" top card of their library, then puts that card on the top or bottom. A "
+"Otherwise, that player discards a card. (Each clashing player reveals the "
+"top card of their library, then puts that card on the top or bottom. A "
 "player wins if their card had a higher converted mana cost.)"
 msgstr ""
 
 #: ../../MOR.rst:422
 msgid ""
-":mtgtip:`Revive the "
-"Fallen<https://img.scryfall.com/cards/border_crop/en/mor/76.jpg?1517813031|https://scryfall.com/card/mor/76"
-"/revive-the-fallen?utm_source=api>`"
+":mtgtip:`Revive the Fallen<https://img.scryfall.com/cards/border_crop/"
+"front/8/b/8b0aa3c8-9e11-4917-956b-35b77a100761.jpg?1562879898|https://"
+"scryfall.com/card/mor/76/revive-the-fallen?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:421
 msgid ""
-"Return target creature card from a graveyard to its owner's hand. Clash "
-"with an opponent. If you win, return Revive the Fallen to its owner's "
-"hand. (Each clashing player reveals the top card of their library, then "
-"puts that card on the top or bottom. A player wins if their card had a "
-"higher converted mana cost.)"
+"Return target creature card from a graveyard to its owner's hand. Clash with "
+"an opponent. If you win, return Revive the Fallen to its owner's hand. (Each "
+"clashing player reveals the top card of their library, then puts that card "
+"on the top or bottom. A player wins if their card had a higher converted "
+"mana cost.)"
 msgstr ""
 
 #: ../../MOR.rst:426
 msgid ""
-":mtgtip:`Scarblade "
-"Elite<https://img.scryfall.com/cards/border_crop/en/mor/77.jpg?1517813031|https://scryfall.com/card/mor/77"
-"/scarblade-elite?utm_source=api>`"
+":mtgtip:`Scarblade Elite<https://img.scryfall.com/cards/border_crop/front/1/"
+"b/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a.jpg?1562877163|https://scryfall.com/"
+"card/mor/77/scarblade-elite?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:425
 msgid ""
-"|tap|, Exile an Assassin card from your graveyard: Destroy target "
-"creature."
+"|tap|, Exile an Assassin card from your graveyard: Destroy target creature."
 msgstr ""
 
 #: ../../MOR.rst:430
 msgid ""
-":mtgtip:`Squeaking Pie "
-"Grubfellows<https://img.scryfall.com/cards/border_crop/en/mor/78.jpg?1517813031|https://scryfall.com/card/mor/78"
-"/squeaking-pie-grubfellows?utm_source=api>`"
+":mtgtip:`Squeaking Pie Grubfellows<https://img.scryfall.com/cards/"
+"border_crop/front/8/1/81290ae9-9217-482a-ae1a-be1a0ef47b5d.jpg?1562879624|"
+"https://scryfall.com/card/mor/78/squeaking-pie-grubfellows?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:429
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Squeaking Pie "
-"Grubfellows, you may reveal it. If you do, each opponent discards a card."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Squeaking Pie Grubfellows, "
+"you may reveal it. If you do, each opponent discards a card."
 msgstr ""
 
 #: ../../MOR.rst:436
-msgid ":mtgtip:`Stenchskipper<https://img.scryfall.com/cards/border_crop/en/mor/79.jpg?1517813031|https://scryfall.com/card/mor/79/stenchskipper?utm_source=api>`"
+msgid ""
+":mtgtip:`Stenchskipper<https://img.scryfall.com/cards/border_crop/front/c/3/"
+"c376fd5f-596a-4208-b173-0b2e5165f2e9.jpg?1562881228|https://scryfall.com/"
+"card/mor/79/stenchskipper?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:435
@@ -1197,49 +1232,49 @@ msgstr ""
 
 #: ../../MOR.rst:442
 msgid ""
-":mtgtip:`Stinkdrinker "
-"Bandit<https://img.scryfall.com/cards/border_crop/en/mor/80.jpg?1517813031|https://scryfall.com/card/mor/80"
-"/stinkdrinker-bandit?utm_source=api>`"
+":mtgtip:`Stinkdrinker Bandit<https://img.scryfall.com/cards/border_crop/"
+"front/4/d/4d9818ad-db8d-41e2-945f-a8b487c2df76.jpg?1562878370|https://"
+"scryfall.com/card/mor/80/stinkdrinker-bandit?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:441
 msgid ""
-"Whenever a Rogue you control attacks and isn't blocked, it gets +2/+1 "
-"until end of turn."
+"Whenever a Rogue you control attacks and isn't blocked, it gets +2/+1 until "
+"end of turn."
 msgstr ""
 
 #: ../../MOR.rst:446
 msgid ""
-":mtgtip:`Violet "
-"Pall<https://img.scryfall.com/cards/border_crop/en/mor/81.jpg?1517813031|https://scryfall.com/card/mor/81"
-"/violet-pall?utm_source=api>`"
+":mtgtip:`Violet Pall<https://img.scryfall.com/cards/border_crop/front/b/d/"
+"bdfd0fa3-37d2-403e-99fe-8c9e57515e9d.jpg?1562881062|https://scryfall.com/"
+"card/mor/81/violet-pall?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:445
 msgid ""
-"Destroy target nonblack creature. Create a 1/1 black Faerie Rogue "
-"creature token with flying."
+"Destroy target nonblack creature. Create a 1/1 black Faerie Rogue creature "
+"token with flying."
 msgstr ""
 
 #: ../../MOR.rst:450
 msgid ""
-":mtgtip:`Warren "
-"Weirding<https://img.scryfall.com/cards/border_crop/en/mor/82.jpg?1517813031|https://scryfall.com/card/mor/82"
-"/warren-weirding?utm_source=api>`"
+":mtgtip:`Warren Weirding<https://img.scryfall.com/cards/border_crop/front/"
+"b/0/b0c1288b-5515-497f-b15d-520a29322f5b.jpg?1562880776|https://scryfall.com/"
+"card/mor/82/warren-weirding?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:449
 msgid ""
 "Target player sacrifices a creature. If a Goblin is sacrificed this way, "
-"that player creates two 1/1 black Goblin Rogue creature tokens, and those"
-" tokens gain haste until end of turn."
+"that player creates two 1/1 black Goblin Rogue creature tokens, and those "
+"tokens gain haste until end of turn."
 msgstr ""
 
 #: ../../MOR.rst:454
 msgid ""
-":mtgtip:`Weed-Pruner "
-"Poplar<https://img.scryfall.com/cards/border_crop/en/mor/83.jpg?1517813031|https://scryfall.com/card/mor/83"
-"/weed-pruner-poplar?utm_source=api>`"
+":mtgtip:`Weed-Pruner Poplar<https://img.scryfall.com/cards/border_crop/front/"
+"d/4/d44d2eb4-e5a3-4401-86cb-311374a2de04.jpg?1562881626|https://scryfall.com/"
+"card/mor/83/weed-pruner-poplar?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:453
@@ -1250,22 +1285,22 @@ msgstr ""
 
 #: ../../MOR.rst:458
 msgid ""
-":mtgtip:`Weirding "
-"Shaman<https://img.scryfall.com/cards/border_crop/en/mor/84.jpg?1517813031|https://scryfall.com/card/mor/84"
-"/weirding-shaman?utm_source=api>`"
+":mtgtip:`Weirding Shaman<https://img.scryfall.com/cards/border_crop/front/f/"
+"e/fe1d40cc-2871-4a33-bc58-5250fd3d4f0e.jpg?1562882673|https://scryfall.com/"
+"card/mor/84/weirding-shaman?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:457
 msgid ""
-"|mana_3|\\ |mana_b|, Sacrifice a Goblin: Create two 1/1 black Goblin "
-"Rogue creature tokens."
+"|mana_3|\\ |mana_b|, Sacrifice a Goblin: Create two 1/1 black Goblin Rogue "
+"creature tokens."
 msgstr ""
 
 #: ../../MOR.rst:464
 msgid ""
-":mtgtip:`Boldwyr "
-"Heavyweights<https://img.scryfall.com/cards/border_crop/en/mor/85.jpg?1517813031|https://scryfall.com/card/mor/85"
-"/boldwyr-heavyweights?utm_source=api>`"
+":mtgtip:`Boldwyr Heavyweights<https://img.scryfall.com/cards/border_crop/"
+"front/8/8/88d90bc4-7f70-4203-b554-800c70c775ef.jpg?1562879832|https://"
+"scryfall.com/card/mor/85/boldwyr-heavyweights?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:461 ../../MOR.rst:475 ../../MOR.rst:655 ../../MOR.rst:727
@@ -1274,16 +1309,16 @@ msgstr "Tratowanie"
 
 #: ../../MOR.rst:463
 msgid ""
-"When Boldwyr Heavyweights enters the battlefield, each opponent may "
-"search their library for a creature card and put it onto the battlefield."
-" Then each player who searched their library this way shuffles it."
+"When Boldwyr Heavyweights enters the battlefield, each opponent may search "
+"their library for a creature card and put it onto the battlefield. Then each "
+"player who searched their library this way shuffles it."
 msgstr ""
 
 #: ../../MOR.rst:472
 msgid ""
-":mtgtip:`Boldwyr "
-"Intimidator<https://img.scryfall.com/cards/border_crop/en/mor/86.jpg?1517813031|https://scryfall.com/card/mor/86"
-"/boldwyr-intimidator?utm_source=api>`"
+":mtgtip:`Boldwyr Intimidator<https://img.scryfall.com/cards/border_crop/"
+"front/1/6/16e9f546-7d34-4ec5-a017-913d7ebb7223.jpg?1562877043|https://"
+"scryfall.com/card/mor/86/boldwyr-intimidator?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:467
@@ -1295,14 +1330,15 @@ msgid "|mana_r|: Target creature becomes a Coward until end of turn."
 msgstr ""
 
 #: ../../MOR.rst:471
-msgid "|mana_2|\\ |mana_r|: Target creature becomes a Warrior until end of turn."
+msgid ""
+"|mana_2|\\ |mana_r|: Target creature becomes a Warrior until end of turn."
 msgstr ""
 
 #: ../../MOR.rst:478
 msgid ""
-":mtgtip:`Borderland "
-"Behemoth<https://img.scryfall.com/cards/border_crop/en/mor/87.jpg?1517813031|https://scryfall.com/card/mor/87"
-"/borderland-behemoth?utm_source=api>`"
+":mtgtip:`Borderland Behemoth<https://img.scryfall.com/cards/border_crop/"
+"front/2/8/28ccfc78-b2d6-4eb7-b8bf-ba8bd876d2b8.jpg?1562877530|https://"
+"scryfall.com/card/mor/87/borderland-behemoth?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:477
@@ -1311,26 +1347,27 @@ msgstr ""
 
 #: ../../MOR.rst:484
 msgid ""
-":mtgtip:`Brighthearth "
-"Banneret<https://img.scryfall.com/cards/border_crop/en/mor/88.jpg?1517813031|https://scryfall.com/card/mor/88"
-"/brighthearth-banneret?utm_source=api>`"
+":mtgtip:`Brighthearth Banneret<https://img.scryfall.com/cards/border_crop/"
+"front/c/b/cb44df5b-6c89-46ae-b068-5056b8c4c189.jpg?1562881406|https://"
+"scryfall.com/card/mor/88/brighthearth-banneret?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:481
-msgid "Elemental spells and Warrior spells you cast cost |mana_1| less to cast."
+msgid ""
+"Elemental spells and Warrior spells you cast cost |mana_1| less to cast."
 msgstr ""
 
 #: ../../MOR.rst:483
 msgid ""
-"Reinforce 1—|mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: "
-"Put a +1/+1 counter on target creature.)"
+"Reinforce 1—|mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: Put "
+"a +1/+1 counter on target creature.)"
 msgstr ""
 
 #: ../../MOR.rst:490
 msgid ""
-":mtgtip:`Countryside "
-"Crusher<https://img.scryfall.com/cards/border_crop/en/mor/89.jpg?1517813031|https://scryfall.com/card/mor/89"
-"/countryside-crusher?utm_source=api>`"
+":mtgtip:`Countryside Crusher<https://img.scryfall.com/cards/border_crop/"
+"front/8/c/8ca3f7a3-05e7-44c0-9e09-3f28378677c1.jpg?1562879926|https://"
+"scryfall.com/card/mor/89/countryside-crusher?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:487
@@ -1341,31 +1378,30 @@ msgstr ""
 
 #: ../../MOR.rst:489
 msgid ""
-"Whenever a land card is put into your graveyard from anywhere, put a "
-"+1/+1 counter on Countryside Crusher."
+"Whenever a land card is put into your graveyard from anywhere, put a +1/+1 "
+"counter on Countryside Crusher."
 msgstr ""
 
 #: ../../MOR.rst:494
 msgid ""
-":mtgtip:`Fire "
-"Juggler<https://img.scryfall.com/cards/border_crop/en/mor/90.jpg?1517813031|https://scryfall.com/card/mor/90"
-"/fire-juggler?utm_source=api>`"
+":mtgtip:`Fire Juggler<https://img.scryfall.com/cards/border_crop/front/f/0/"
+"f04d5eef-da88-496b-a902-b87b0b386f96.jpg?1562882327|https://scryfall.com/"
+"card/mor/90/fire-juggler?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:493
 msgid ""
-"Whenever Fire Juggler becomes blocked, clash with an opponent. If you "
-"win, Fire Juggler deals 4 damage to each creature blocking it. (Each "
-"clashing player reveals the top card of their library, then puts that "
-"card on the top or bottom. A player wins if their card had a higher "
-"converted mana cost.)"
+"Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, "
+"Fire Juggler deals 4 damage to each creature blocking it. (Each clashing "
+"player reveals the top card of their library, then puts that card on the top "
+"or bottom. A player wins if their card had a higher converted mana cost.)"
 msgstr ""
 
 #: ../../MOR.rst:500
 msgid ""
-":mtgtip:`Hostile "
-"Realm<https://img.scryfall.com/cards/border_crop/en/mor/91.jpg?1517813031|https://scryfall.com/card/mor/91"
-"/hostile-realm?utm_source=api>`"
+":mtgtip:`Hostile Realm<https://img.scryfall.com/cards/border_crop/front/e/1/"
+"e172b353-7a16-4831-b735-206230b22e59.jpg?1562882006|https://scryfall.com/"
+"card/mor/91/hostile-realm?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:497
@@ -1378,9 +1414,9 @@ msgstr ""
 
 #: ../../MOR.rst:504
 msgid ""
-":mtgtip:`Kindled "
-"Fury<https://img.scryfall.com/cards/border_crop/en/mor/92.jpg?1517813031|https://scryfall.com/card/mor/92"
-"/kindled-fury?utm_source=api>`"
+":mtgtip:`Kindled Fury<https://img.scryfall.com/cards/border_crop/"
+"front/9/9/993956c9-30d8-41ee-84c2-c06d0512aea4.jpg?1562880226|https://"
+"scryfall.com/card/mor/92/kindled-fury?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:503
@@ -1389,16 +1425,16 @@ msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../MOR.rst:510
 msgid ""
-":mtgtip:`Lightning "
-"Crafter<https://img.scryfall.com/cards/border_crop/en/mor/93.jpg?1517813031|https://scryfall.com/card/mor/93"
-"/lightning-crafter?utm_source=api>`"
+":mtgtip:`Lightning Crafter<https://img.scryfall.com/cards/border_crop/front/"
+"f/6/f68f5ac9-0345-4052-9f93-d9f7afc66932.jpg?1562882474|https://scryfall.com/"
+"card/mor/93/lightning-crafter?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:507
 msgid ""
-"Champion a Goblin or Shaman (When this enters the battlefield, sacrifice "
-"it unless you exile another Goblin or Shaman you control. When this "
-"leaves the battlefield, that card returns to the battlefield.)"
+"Champion a Goblin or Shaman (When this enters the battlefield, sacrifice it "
+"unless you exile another Goblin or Shaman you control. When this leaves the "
+"battlefield, that card returns to the battlefield.)"
 msgstr ""
 
 #: ../../MOR.rst:509
@@ -1407,113 +1443,110 @@ msgstr ""
 
 #: ../../MOR.rst:514
 msgid ""
-":mtgtip:`Lunk "
-"Errant<https://img.scryfall.com/cards/border_crop/en/mor/94.jpg?1517813031|https://scryfall.com/card/mor/94"
-"/lunk-errant?utm_source=api>`"
+":mtgtip:`Lunk Errant<https://img.scryfall.com/cards/border_crop/front/f/4/"
+"f459acfa-a9db-43c6-b0e9-ed66d772a335.jpg?1562882420|https://scryfall.com/"
+"card/mor/94/lunk-errant?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:513
 msgid ""
-"Whenever Lunk Errant attacks alone, it gets +1/+1 and gains trample until"
-" end of turn."
+"Whenever Lunk Errant attacks alone, it gets +1/+1 and gains trample until "
+"end of turn."
 msgstr ""
 
 #: ../../MOR.rst:518
 msgid ""
-":mtgtip:`Mudbutton "
-"Clanger<https://img.scryfall.com/cards/border_crop/en/mor/95.jpg?1517813031|https://scryfall.com/card/mor/95"
-"/mudbutton-clanger?utm_source=api>`"
+":mtgtip:`Mudbutton Clanger<https://img.scryfall.com/cards/border_crop/front/"
+"b/c/bc5e2771-ae35-4aff-a92d-7fc7f3ca915f.jpg?1562881041|https://scryfall.com/"
+"card/mor/95/mudbutton-clanger?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:517
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Mudbutton Clanger, you"
-" may reveal it. If you do, Mudbutton Clanger gets +1/+1 until end of "
-"turn."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Mudbutton Clanger, you may "
+"reveal it. If you do, Mudbutton Clanger gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../MOR.rst:522
 msgid ""
-":mtgtip:`Pyroclast "
-"Consul<https://img.scryfall.com/cards/border_crop/en/mor/96.jpg?1517813031|https://scryfall.com/card/mor/96"
-"/pyroclast-consul?utm_source=api>`"
+":mtgtip:`Pyroclast Consul<https://img.scryfall.com/cards/border_crop/"
+"front/1/7/17a1c7c8-1acd-4219-a272-69e855517a74.jpg?1562877055|https://"
+"scryfall.com/card/mor/96/pyroclast-consul?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:521
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Pyroclast Consul, you "
-"may reveal it. If you do, Pyroclast Consul deals 2 damage to each "
-"creature."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Pyroclast Consul, you may "
+"reveal it. If you do, Pyroclast Consul deals 2 damage to each creature."
 msgstr ""
 
 #: ../../MOR.rst:528
 msgid ""
-":mtgtip:`Rage "
-"Forger<https://img.scryfall.com/cards/border_crop/en/mor/97.jpg?1517813031|https://scryfall.com/card/mor/97"
-"/rage-forger?utm_source=api>`"
+":mtgtip:`Rage Forger<https://img.scryfall.com/cards/border_crop/front/f/e/"
+"fe140361-93b2-4382-b85e-8c263d2f446e.jpg?1562882666|https://scryfall.com/"
+"card/mor/97/rage-forger?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:525
 msgid ""
-"When Rage Forger enters the battlefield, put a +1/+1 counter on each "
-"other Shaman creature you control."
+"When Rage Forger enters the battlefield, put a +1/+1 counter on each other "
+"Shaman creature you control."
 msgstr ""
 
 #: ../../MOR.rst:527
 msgid ""
-"Whenever a creature you control with a +1/+1 counter on it attacks, you "
-"may have that creature deal 1 damage to target player or planeswalker."
+"Whenever a creature you control with a +1/+1 counter on it attacks, you may "
+"have that creature deal 1 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../MOR.rst:532
 msgid ""
-":mtgtip:`Release the "
-"Ants<https://img.scryfall.com/cards/border_crop/en/mor/98.jpg?1517813031|https://scryfall.com/card/mor/98"
-"/release-the-ants?utm_source=api>`"
+":mtgtip:`Release the Ants<https://img.scryfall.com/cards/border_crop/front/1/"
+"b/1b6f1afb-2451-4611-ac3e-3513a4651719.jpg?1562877157|https://scryfall.com/"
+"card/mor/98/release-the-ants?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:531
 msgid ""
-"Release the Ants deals 1 damage to any target. Clash with an opponent. If"
-" you win, return Release the Ants to its owner's hand. (Each clashing "
-"player reveals the top card of their library, then puts that card on the "
-"top or bottom. A player wins if their card had a higher converted mana "
-"cost.)"
+"Release the Ants deals 1 damage to any target. Clash with an opponent. If "
+"you win, return Release the Ants to its owner's hand. (Each clashing player "
+"reveals the top card of their library, then puts that card on the top or "
+"bottom. A player wins if their card had a higher converted mana cost.)"
 msgstr ""
 
 #: ../../MOR.rst:536
 msgid ""
-":mtgtip:`Rivals' "
-"Duel<https://img.scryfall.com/cards/border_crop/en/mor/99.jpg?1517813031|https://scryfall.com/card/mor/99"
-"/rivals-duel?utm_source=api>`"
+":mtgtip:`Rivals' Duel<https://img.scryfall.com/cards/border_crop/front/2/"
+"d/2d2eee8b-cc55-4a65-983f-0a91d7e4494a.jpg?1562877652|https://scryfall.com/"
+"card/mor/99/rivals-duel?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:535
 msgid ""
-"Choose two target creatures that share no creature types. Those creatures"
-" fight each other. (Each deals damage equal to its power to the other.)"
+"Choose two target creatures that share no creature types. Those creatures "
+"fight each other. (Each deals damage equal to its power to the other.)"
 msgstr ""
 
 #: ../../MOR.rst:540
 msgid ""
-":mtgtip:`Roar of the "
-"Crowd<https://img.scryfall.com/cards/border_crop/en/mor/100.jpg?1517813031|https://scryfall.com/card/mor/100"
-"/roar-of-the-crowd?utm_source=api>`"
+":mtgtip:`Roar of the Crowd<https://img.scryfall.com/cards/border_crop/front/"
+"e/4/e4b0e072-c51a-4e97-a089-8e5b540355aa.jpg?1562882084|https://scryfall.com/"
+"card/mor/100/roar-of-the-crowd?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:539
 msgid ""
-"Choose a creature type. Roar of the Crowd deals damage to any target "
-"equal to the number of permanents you control of the chosen type."
+"Choose a creature type. Roar of the Crowd deals damage to any target equal "
+"to the number of permanents you control of the chosen type."
 msgstr ""
 
 #: ../../MOR.rst:544
 msgid ""
-":mtgtip:`Seething "
-"Pathblazer<https://img.scryfall.com/cards/border_crop/en/mor/101.jpg?1517813031|https://scryfall.com/card/mor/101"
-"/seething-pathblazer?utm_source=api>`"
+":mtgtip:`Seething Pathblazer<https://img.scryfall.com/cards/border_crop/"
+"front/4/9/4971a447-29c8-47b6-863c-f13a69b4148b.jpg?1562878284|https://"
+"scryfall.com/card/mor/101/seething-pathblazer?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:543
@@ -1524,24 +1557,23 @@ msgstr ""
 
 #: ../../MOR.rst:548
 msgid ""
-":mtgtip:`Sensation "
-"Gorger<https://img.scryfall.com/cards/border_crop/en/mor/102.jpg?1517813031|https://scryfall.com/card/mor/102"
-"/sensation-gorger?utm_source=api>`"
+":mtgtip:`Sensation Gorger<https://img.scryfall.com/cards/border_crop/front/"
+"b/2/b2e5eb69-dcd9-4784-bf4c-20b674f4c035.jpg?1562880826|https://scryfall.com/"
+"card/mor/102/sensation-gorger?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:547
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Sensation Gorger, you "
-"may reveal it. If you do, each player discards their hand, then draws "
-"four cards."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Sensation Gorger, you may "
+"reveal it. If you do, each player discards their hand, then draws four cards."
 msgstr ""
 
 #: ../../MOR.rst:554
 msgid ""
-":mtgtip:`Shard "
-"Volley<https://img.scryfall.com/cards/border_crop/en/mor/103.jpg?1517813031|https://scryfall.com/card/mor/103"
-"/shard-volley?utm_source=api>`"
+":mtgtip:`Shard Volley<https://img.scryfall.com/cards/border_crop/"
+"front/4/3/43db4810-078e-487a-afef-57cbc1db0cc7.jpg?1562878159|https://"
+"scryfall.com/card/mor/103/shard-volley?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:551
@@ -1554,21 +1586,24 @@ msgstr ""
 
 #: ../../MOR.rst:558
 msgid ""
-":mtgtip:`Shared "
-"Animosity<https://img.scryfall.com/cards/border_crop/en/mor/104.jpg?1517813031|https://scryfall.com/card/mor/104"
-"/shared-animosity?utm_source=api>`"
+":mtgtip:`Shared Animosity<https://img.scryfall.com/cards/border_crop/front/f/"
+"e/fe332c46-90f0-4cc0-8bf1-35a3934ff8a0.jpg?1562882674|https://scryfall.com/"
+"card/mor/104/shared-animosity?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:557
 msgid ""
-"Whenever a creature you control attacks, it gets +1/+0 until end of turn "
-"for each other attacking creature that shares a creature type with it."
+"Whenever a creature you control attacks, it gets +1/+0 until end of turn for "
+"each other attacking creature that shares a creature type with it."
 msgstr ""
 "Ilekroć stwór pod twoim władaniem atakuje, dostaje on do końca tury +1/+0 za "
 "każdego innego stwora mającego z nim wspólny typ stwora."
 
 #: ../../MOR.rst:564
-msgid ":mtgtip:`Spitebellows<https://img.scryfall.com/cards/border_crop/en/mor/105.jpg?1517813031|https://scryfall.com/card/mor/105/spitebellows?utm_source=api>`"
+msgid ""
+":mtgtip:`Spitebellows<https://img.scryfall.com/cards/border_crop/"
+"front/4/3/43f2104d-aeff-493f-8227-cb95bf3e2eab.jpg?1562878171|https://"
+"scryfall.com/card/mor/105/spitebellows?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:561
@@ -1579,12 +1614,15 @@ msgstr ""
 
 #: ../../MOR.rst:563
 msgid ""
-"Evoke |mana_1|\\ |mana_r|\\ |mana_r| (You may cast this spell for its "
-"evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+"Evoke |mana_1|\\ |mana_r|\\ |mana_r| (You may cast this spell for its evoke "
+"cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
 #: ../../MOR.rst:570
-msgid ":mtgtip:`Stingmoggie<https://img.scryfall.com/cards/border_crop/en/mor/106.jpg?1517813031|https://scryfall.com/card/mor/106/stingmoggie?utm_source=api>`"
+msgid ""
+":mtgtip:`Stingmoggie<https://img.scryfall.com/cards/border_crop/"
+"front/2/7/27e0fdb4-187a-4178-a702-884bef9e029d.jpg?1562877504|https://"
+"scryfall.com/card/mor/106/stingmoggie?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:567
@@ -1593,15 +1631,15 @@ msgstr ""
 
 #: ../../MOR.rst:569
 msgid ""
-"|mana_3|\\ |mana_r|, Remove a +1/+1 counter from Stingmoggie: Destroy "
-"target artifact or land."
+"|mana_3|\\ |mana_r|, Remove a +1/+1 counter from Stingmoggie: Destroy target "
+"artifact or land."
 msgstr ""
 
 #: ../../MOR.rst:574
 msgid ""
-":mtgtip:`Stomping "
-"Slabs<https://img.scryfall.com/cards/border_crop/en/mor/107.jpg?1517813031|https://scryfall.com/card/mor/107"
-"/stomping-slabs?utm_source=api>`"
+":mtgtip:`Stomping Slabs<https://img.scryfall.com/cards/border_crop/"
+"front/8/2/820f1acf-7f0c-4ee5-9f18-b5627aac7c81.jpg?1562879653|https://"
+"scryfall.com/card/mor/107/stomping-slabs?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:573
@@ -1613,58 +1651,56 @@ msgstr ""
 
 #: ../../MOR.rst:578
 msgid ""
-":mtgtip:`Sunflare "
-"Shaman<https://img.scryfall.com/cards/border_crop/en/mor/108.jpg?1517813031|https://scryfall.com/card/mor/108"
-"/sunflare-shaman?utm_source=api>`"
+":mtgtip:`Sunflare Shaman<https://img.scryfall.com/cards/border_crop/front/6/"
+"d/6db24aa7-4922-4b39-9964-f76df09cba12.jpg?1562879147|https://scryfall.com/"
+"card/mor/108/sunflare-shaman?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:577
 msgid ""
-"|mana_1|\\ |mana_r|, |tap|: Sunflare Shaman deals X damage to any target "
-"and X damage to itself, where X is the number of Elemental cards in your "
+"|mana_1|\\ |mana_r|, |tap|: Sunflare Shaman deals X damage to any target and "
+"X damage to itself, where X is the number of Elemental cards in your "
 "graveyard."
 msgstr ""
 
 #: ../../MOR.rst:584
 msgid ""
-":mtgtip:`Taurean "
-"Mauler<https://img.scryfall.com/cards/border_crop/en/mor/109.jpg?1517813031|https://scryfall.com/card/mor/109"
-"/taurean-mauler?utm_source=api>`"
+":mtgtip:`Taurean Mauler<https://img.scryfall.com/cards/border_crop/front/d/5/"
+"d50b5df1-b658-4df0-900e-79c44599b93e.jpg?1562881647|https://scryfall.com/"
+"card/mor/109/taurean-mauler?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:583
 msgid ""
-"Whenever an opponent casts a spell, you may put a +1/+1 counter on "
-"Taurean Mauler."
+"Whenever an opponent casts a spell, you may put a +1/+1 counter on Taurean "
+"Mauler."
 msgstr ""
 
 #: ../../MOR.rst:588
 msgid ""
-":mtgtip:`Titan's "
-"Revenge<https://img.scryfall.com/cards/border_crop/en/mor/110.jpg?1517813031|https://scryfall.com/card/mor/110"
-"/titans-revenge?utm_source=api>`"
+":mtgtip:`Titan's Revenge<https://img.scryfall.com/cards/border_crop/front/"
+"b/1/b1b0f9ca-b752-4dd6-982b-06bb3a27ddbc.jpg?1562880793|https://scryfall.com/"
+"card/mor/110/titans-revenge?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:587
 msgid ""
-"Titan's Revenge deals X damage to any target. Clash with an opponent. If "
-"you win, return Titan's Revenge to its owner's hand. (Each clashing "
-"player reveals the top card of their library, then puts that card on the "
-"top or bottom. A player wins if their card had a higher converted mana "
-"cost.)"
+"Titan's Revenge deals X damage to any target. Clash with an opponent. If you "
+"win, return Titan's Revenge to its owner's hand. (Each clashing player "
+"reveals the top card of their library, then puts that card on the top or "
+"bottom. A player wins if their card had a higher converted mana cost.)"
 msgstr ""
 
 #: ../../MOR.rst:594
 msgid ""
-":mtgtip:`Vengeful "
-"Firebrand<https://img.scryfall.com/cards/border_crop/en/mor/111.jpg?1517813031|https://scryfall.com/card/mor/111"
-"/vengeful-firebrand?utm_source=api>`"
+":mtgtip:`Vengeful Firebrand<https://img.scryfall.com/cards/border_crop/front/"
+"e/5/e5db7e33-188f-4d66-a58b-7b5c5760a773.jpg?1562882114|https://scryfall.com/"
+"card/mor/111/vengeful-firebrand?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:591
 msgid ""
-"Vengeful Firebrand has haste as long as a Warrior card is in your "
-"graveyard."
+"Vengeful Firebrand has haste as long as a Warrior card is in your graveyard."
 msgstr ""
 
 #: ../../MOR.rst:593
@@ -1673,9 +1709,9 @@ msgstr ""
 
 #: ../../MOR.rst:600
 msgid ""
-":mtgtip:`War-Spike "
-"Changeling<https://img.scryfall.com/cards/border_crop/en/mor/112.jpg?1517813031|https://scryfall.com/card/mor/112"
-"/war-spike-changeling?utm_source=api>`"
+":mtgtip:`War-Spike Changeling<https://img.scryfall.com/cards/border_crop/"
+"front/9/1/917081e0-8a5f-4edc-b5e9-9a7302bb5c06.jpg?1562880038|https://"
+"scryfall.com/card/mor/112/war-spike-changeling?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:599
@@ -1684,22 +1720,22 @@ msgstr ""
 
 #: ../../MOR.rst:604
 msgid ""
-":mtgtip:`Ambassador "
-"Oak<https://img.scryfall.com/cards/border_crop/en/mor/113.jpg?1517813031|https://scryfall.com/card/mor/113"
-"/ambassador-oak?utm_source=api>`"
+":mtgtip:`Ambassador Oak<https://img.scryfall.com/cards/border_crop/"
+"front/9/0/904d3416-70bf-4043-8078-f5f033ecfb31.jpg?1562880006|https://"
+"scryfall.com/card/mor/113/ambassador-oak?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:603
 msgid ""
-"When Ambassador Oak enters the battlefield, create a 1/1 green Elf "
-"Warrior creature token."
+"When Ambassador Oak enters the battlefield, create a 1/1 green Elf Warrior "
+"creature token."
 msgstr ""
 
 #: ../../MOR.rst:608
 msgid ""
-":mtgtip:`Bosk "
-"Banneret<https://img.scryfall.com/cards/border_crop/en/mor/114.jpg?1517813031|https://scryfall.com/card/mor/114"
-"/bosk-banneret?utm_source=api>`"
+":mtgtip:`Bosk Banneret<https://img.scryfall.com/cards/border_crop/"
+"front/2/0/203f41a7-ecf5-4757-9162-01ffd2a42ee9.jpg?1562877309|https://"
+"scryfall.com/card/mor/114/bosk-banneret?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:607
@@ -1708,9 +1744,9 @@ msgstr ""
 
 #: ../../MOR.rst:614
 msgid ""
-":mtgtip:`Bramblewood "
-"Paragon<https://img.scryfall.com/cards/border_crop/en/mor/115.jpg?1517813031|https://scryfall.com/card/mor/115"
-"/bramblewood-paragon?utm_source=api>`"
+":mtgtip:`Bramblewood Paragon<https://img.scryfall.com/cards/border_crop/"
+"front/3/9/3910f5b2-17da-41e4-bf40-1c40b513fa12.jpg?1562877937|https://"
+"scryfall.com/card/mor/115/bramblewood-paragon?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:611
@@ -1725,9 +1761,9 @@ msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma tratowanie.
 
 #: ../../MOR.rst:622
 msgid ""
-":mtgtip:`Chameleon "
-"Colossus<https://img.scryfall.com/cards/border_crop/en/mor/116.jpg?1517813031|https://scryfall.com/card/mor/116"
-"/chameleon-colossus?utm_source=api>`"
+":mtgtip:`Chameleon Colossus<https://img.scryfall.com/cards/border_crop/"
+"front/5/4/5459f1e6-7019-427d-9e2d-e494b3cd52d2.jpg?1562878547|https://"
+"scryfall.com/card/mor/116/chameleon-colossus?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:619
@@ -1736,27 +1772,30 @@ msgstr ""
 
 #: ../../MOR.rst:621
 msgid ""
-"|mana_2|\\ |mana_g|\\ |mana_g|: Chameleon Colossus gets +X/+X until end "
-"of turn, where X is its power."
+"|mana_2|\\ |mana_g|\\ |mana_g|: Chameleon Colossus gets +X/+X until end of "
+"turn, where X is its power."
 msgstr ""
 
 #: ../../MOR.rst:626
 msgid ""
-":mtgtip:`Cream of the "
-"Crop<https://img.scryfall.com/cards/border_crop/en/mor/117.jpg?1517813031|https://scryfall.com/card/mor/117"
-"/cream-of-the-crop?utm_source=api>`"
+":mtgtip:`Cream of the Crop<https://img.scryfall.com/cards/border_crop/"
+"front/0/3/030b0a9d-d0cf-4f3a-97b3-3e1d59226ee6.jpg?1562876540|https://"
+"scryfall.com/card/mor/117/cream-of-the-crop?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:625
 msgid ""
-"Whenever a creature enters the battlefield under your control, you may "
-"look at the top X cards of your library, where X is that creature's "
-"power. If you do, put one of those cards on top of your library and the "
-"rest on the bottom of your library in any order."
+"Whenever a creature enters the battlefield under your control, you may look "
+"at the top X cards of your library, where X is that creature's power. If you "
+"do, put one of those cards on top of your library and the rest on the bottom "
+"of your library in any order."
 msgstr ""
 
 #: ../../MOR.rst:630
-msgid ":mtgtip:`Deglamer<https://img.scryfall.com/cards/border_crop/en/mor/118.jpg?1517813031|https://scryfall.com/card/mor/118/deglamer?utm_source=api>`"
+msgid ""
+":mtgtip:`Deglamer<https://img.scryfall.com/cards/border_crop/"
+"front/9/8/985b43aa-58f0-42fc-9ef0-a7925727d58f.jpg?1562880209|https://"
+"scryfall.com/card/mor/118/deglamer?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:629
@@ -1766,7 +1805,10 @@ msgid ""
 msgstr ""
 
 #: ../../MOR.rst:636
-msgid ":mtgtip:`Earthbrawn<https://img.scryfall.com/cards/border_crop/en/mor/119.jpg?1517813031|https://scryfall.com/card/mor/119/earthbrawn?utm_source=api>`"
+msgid ""
+":mtgtip:`Earthbrawn<https://img.scryfall.com/cards/border_crop/"
+"front/4/7/478208df-9776-4354-b8a9-8da16ae1f50a.jpg?1562878273|https://"
+"scryfall.com/card/mor/119/earthbrawn?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:633
@@ -1775,33 +1817,36 @@ msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 
 #: ../../MOR.rst:635
 msgid ""
-"Reinforce 1—|mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: "
-"Put a +1/+1 counter on target creature.)"
+"Reinforce 1—|mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Put "
+"a +1/+1 counter on target creature.)"
 msgstr ""
 
 #: ../../MOR.rst:638
 msgid ""
-":mtgtip:`Elvish "
-"Warrior<https://img.scryfall.com/cards/border_crop/en/mor/120.jpg?1517813031|https://scryfall.com/card/mor/120"
-"/elvish-warrior?utm_source=api>`"
+":mtgtip:`Elvish Warrior<https://img.scryfall.com/cards/border_crop/front/b/2/"
+"b2154a16-1fb8-45bb-9b9b-e995e701c330.jpg?1562880800|https://scryfall.com/"
+"card/mor/120/elvish-warrior?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:644
 msgid ""
-":mtgtip:`Everbark "
-"Shaman<https://img.scryfall.com/cards/border_crop/en/mor/121.jpg?1517813031|https://scryfall.com/card/mor/121"
-"/everbark-shaman?utm_source=api>`"
+":mtgtip:`Everbark Shaman<https://img.scryfall.com/cards/border_crop/"
+"front/0/7/077ae521-a176-4d93-92b1-89ba674f86e4.jpg?1562876679|https://"
+"scryfall.com/card/mor/121/everbark-shaman?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:643
 msgid ""
-"|tap|, Exile a Treefolk card from your graveyard: Search your library for"
-" up to two Forest cards and put them onto the battlefield tapped. Then "
-"shuffle your library."
+"|tap|, Exile a Treefolk card from your graveyard: Search your library for up "
+"to two Forest cards and put them onto the battlefield tapped. Then shuffle "
+"your library."
 msgstr ""
 
 #: ../../MOR.rst:650
-msgid ":mtgtip:`Fertilid<https://img.scryfall.com/cards/border_crop/en/mor/122.jpg?1517813031|https://scryfall.com/card/mor/122/fertilid?utm_source=api>`"
+msgid ""
+":mtgtip:`Fertilid<https://img.scryfall.com/cards/border_crop/front/a/d/"
+"ad8055f1-cf3a-4db4-844e-b10bbbb25255.jpg?1562880693|https://scryfall.com/"
+"card/mor/122/fertilid?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:647
@@ -1811,22 +1856,22 @@ msgstr ""
 #: ../../MOR.rst:649
 msgid ""
 "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
-"searches their library for a basic land card, puts it onto the "
-"battlefield tapped, then shuffles their library."
+"searches their library for a basic land card, puts it onto the battlefield "
+"tapped, then shuffles their library."
 msgstr ""
 
 #: ../../MOR.rst:656
 msgid ""
-":mtgtip:`Game-Trail "
-"Changeling<https://img.scryfall.com/cards/border_crop/en/mor/123.jpg?1517813031|https://scryfall.com/card/mor/123"
-"/game-trail-changeling?utm_source=api>`"
+":mtgtip:`Game-Trail Changeling<https://img.scryfall.com/cards/border_crop/"
+"front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.jpg?1562879466|https://"
+"scryfall.com/card/mor/123/game-trail-changeling?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:662
 msgid ""
-":mtgtip:`Gilt-Leaf "
-"Archdruid<https://img.scryfall.com/cards/border_crop/en/mor/124.jpg?1517813031|https://scryfall.com/card/mor/124"
-"/gilt-leaf-archdruid?utm_source=api>`"
+":mtgtip:`Gilt-Leaf Archdruid<https://img.scryfall.com/cards/border_crop/"
+"front/a/9/a913f9b3-abbd-424b-8dea-061e15364fb0.jpg?1562880598|https://"
+"scryfall.com/card/mor/124/gilt-leaf-archdruid?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:659
@@ -1841,9 +1886,9 @@ msgstr ""
 
 #: ../../MOR.rst:668
 msgid ""
-":mtgtip:`Greatbow "
-"Doyen<https://img.scryfall.com/cards/border_crop/en/mor/125.jpg?1517813031|https://scryfall.com/card/mor/125"
-"/greatbow-doyen?utm_source=api>`"
+":mtgtip:`Greatbow Doyen<https://img.scryfall.com/cards/border_crop/front/a/0/"
+"a0f64e8a-2775-4f64-8728-36e7d613f54c.jpg?1562880433|https://scryfall.com/"
+"card/mor/125/greatbow-doyen?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:665
@@ -1852,26 +1897,27 @@ msgstr ""
 
 #: ../../MOR.rst:667
 msgid ""
-"Whenever an Archer you control deals damage to a creature, that Archer "
-"deals that much damage to that creature's controller."
+"Whenever an Archer you control deals damage to a creature, that Archer deals "
+"that much damage to that creature's controller."
 msgstr ""
 
 #: ../../MOR.rst:672
 msgid ""
-":mtgtip:`Heritage "
-"Druid<https://img.scryfall.com/cards/border_crop/en/mor/126.jpg?1517813031|https://scryfall.com/card/mor/126"
-"/heritage-druid?utm_source=api>`"
+":mtgtip:`Heritage Druid<https://img.scryfall.com/cards/border_crop/front/a/7/"
+"a726acbd-724e-46c5-a4cf-4aee7c2abb16.jpg?1562880575|https://scryfall.com/"
+"card/mor/126/heritage-druid?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:671
-msgid "Tap three untapped Elves you control: Add |mana_g|\\ |mana_g|\\ |mana_g|."
+msgid ""
+"Tap three untapped Elves you control: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr ""
 
 #: ../../MOR.rst:678
 msgid ""
-":mtgtip:`Hunting "
-"Triad<https://img.scryfall.com/cards/border_crop/en/mor/127.jpg?1517813031|https://scryfall.com/card/mor/127"
-"/hunting-triad?utm_source=api>`"
+":mtgtip:`Hunting Triad<https://img.scryfall.com/cards/border_crop/"
+"front/0/9/093f039a-47af-4284-a7ab-67971c2bc5b2.jpg?1562876710|https://"
+"scryfall.com/card/mor/127/hunting-triad?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:675
@@ -1880,43 +1926,42 @@ msgstr ""
 
 #: ../../MOR.rst:677
 msgid ""
-"Reinforce 3—|mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, Discard this card: "
-"Put three +1/+1 counters on target creature.)"
+"Reinforce 3—|mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, Discard this card: Put "
+"three +1/+1 counters on target creature.)"
 msgstr ""
 
 #: ../../MOR.rst:682
 msgid ""
-":mtgtip:`Leaf-Crowned "
-"Elder<https://img.scryfall.com/cards/border_crop/en/mor/128.jpg?1517813031|https://scryfall.com/card/mor/128"
-"/leaf-crowned-elder?utm_source=api>`"
+":mtgtip:`Leaf-Crowned Elder<https://img.scryfall.com/cards/border_crop/front/"
+"c/6/c666dc97-8780-4982-b9e7-7d4a358f922c.jpg?1562881291|https://scryfall.com/"
+"card/mor/128/leaf-crowned-elder?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:681
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Leaf-Crowned Elder, "
-"you may reveal it. If you do, you may play that card without paying its "
-"mana cost."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Leaf-Crowned Elder, you may "
+"reveal it. If you do, you may play that card without paying its mana cost."
 msgstr ""
 
 #: ../../MOR.rst:686
 msgid ""
-":mtgtip:`Luminescent "
-"Rain<https://img.scryfall.com/cards/border_crop/en/mor/129.jpg?1517813031|https://scryfall.com/card/mor/129"
-"/luminescent-rain?utm_source=api>`"
+":mtgtip:`Luminescent Rain<https://img.scryfall.com/cards/border_crop/front/5/"
+"f/5f9903cc-350c-44cf-9c0b-5df7922ed766.jpg?1562878805|https://scryfall.com/"
+"card/mor/129/luminescent-rain?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:685
 msgid ""
-"Choose a creature type. You gain 2 life for each permanent you control of"
-" that type."
+"Choose a creature type. You gain 2 life for each permanent you control of "
+"that type."
 msgstr ""
 
 #: ../../MOR.rst:692
 msgid ""
-":mtgtip:`Lys Alana "
-"Bowmaster<https://img.scryfall.com/cards/border_crop/en/mor/130.jpg?1517813031|https://scryfall.com/card/mor/130"
-"/lys-alana-bowmaster?utm_source=api>`"
+":mtgtip:`Lys Alana Bowmaster<https://img.scryfall.com/cards/border_crop/"
+"front/f/a/fac845bd-becd-4c58-9561-7cdf2adca058.jpg?1562882579|https://"
+"scryfall.com/card/mor/130/lys-alana-bowmaster?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:689
@@ -1931,9 +1976,9 @@ msgstr ""
 
 #: ../../MOR.rst:696
 msgid ""
-":mtgtip:`Orchard "
-"Warden<https://img.scryfall.com/cards/border_crop/en/mor/131.jpg?1517813031|https://scryfall.com/card/mor/131"
-"/orchard-warden?utm_source=api>`"
+":mtgtip:`Orchard Warden<https://img.scryfall.com/cards/border_crop/front/7/"
+"a/7a4e2c5c-26ad-4b13-934b-e545038b6729.jpg?1562879433|https://scryfall.com/"
+"card/mor/131/orchard-warden?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:695
@@ -1944,9 +1989,9 @@ msgstr ""
 
 #: ../../MOR.rst:702
 msgid ""
-":mtgtip:`Reach of "
-"Branches<https://img.scryfall.com/cards/border_crop/en/mor/132.jpg?1517813031|https://scryfall.com/card/mor/132"
-"/reach-of-branches?utm_source=api>`"
+":mtgtip:`Reach of Branches<https://img.scryfall.com/cards/border_crop/"
+"front/7/4/74e2215c-fdc0-4135-83ef-ddf4151318ba.jpg?1562879318|https://"
+"scryfall.com/card/mor/132/reach-of-branches?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:699
@@ -1955,32 +2000,32 @@ msgstr ""
 
 #: ../../MOR.rst:701
 msgid ""
-"Whenever a Forest enters the battlefield under your control, you may "
-"return Reach of Branches from your graveyard to your hand."
+"Whenever a Forest enters the battlefield under your control, you may return "
+"Reach of Branches from your graveyard to your hand."
 msgstr ""
 
 #: ../../MOR.rst:706
 msgid ""
-":mtgtip:`Recross the "
-"Paths<https://img.scryfall.com/cards/border_crop/en/mor/133.jpg?1517813031|https://scryfall.com/card/mor/133"
-"/recross-the-paths?utm_source=api>`"
+":mtgtip:`Recross the Paths<https://img.scryfall.com/cards/border_crop/"
+"front/0/b/0bfe1d8e-ae3c-4144-a44b-e13ab33da95c.jpg?1562876797|https://"
+"scryfall.com/card/mor/133/recross-the-paths?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:705
 msgid ""
-"Reveal cards from the top of your library until you reveal a land card. "
-"Put that card onto the battlefield and the rest on the bottom of your "
-"library in any order. Clash with an opponent. If you win, return Recross "
-"the Paths to its owner's hand. (Each clashing player reveals the top card"
-" of their library, then puts that card on the top or bottom. A player "
-"wins if their card had a higher converted mana cost.)"
+"Reveal cards from the top of your library until you reveal a land card. Put "
+"that card onto the battlefield and the rest on the bottom of your library in "
+"any order. Clash with an opponent. If you win, return Recross the Paths to "
+"its owner's hand. (Each clashing player reveals the top card of their "
+"library, then puts that card on the top or bottom. A player wins if their "
+"card had a higher converted mana cost.)"
 msgstr ""
 
 #: ../../MOR.rst:714
 msgid ""
-":mtgtip:`Reins of the "
-"Vinesteed<https://img.scryfall.com/cards/border_crop/en/mor/134.jpg?1517813031|https://scryfall.com/card/mor/134"
-"/reins-of-the-vinesteed?utm_source=api>`"
+":mtgtip:`Reins of the Vinesteed<https://img.scryfall.com/cards/border_crop/"
+"front/4/0/407a0ef5-a63e-4013-b3d9-b42f2c42c7a4.jpg?1562878107|https://"
+"scryfall.com/card/mor/134/reins-of-the-vinesteed?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:711
@@ -1996,15 +2041,14 @@ msgstr ""
 
 #: ../../MOR.rst:720
 msgid ""
-":mtgtip:`Rhys the "
-"Exiled<https://img.scryfall.com/cards/border_crop/en/mor/135.jpg?1517813031|https://scryfall.com/card/mor/135"
-"/rhys-the-exiled?utm_source=api>`"
+":mtgtip:`Rhys the Exiled<https://img.scryfall.com/cards/border_crop/front/"
+"f/2/f26da029-9c95-4e9b-9a1b-62048c16acaf.jpg?1562882353|https://scryfall.com/"
+"card/mor/135/rhys-the-exiled?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:717
 msgid ""
-"Whenever Rhys the Exiled attacks, you gain 1 life for each Elf you "
-"control."
+"Whenever Rhys the Exiled attacks, you gain 1 life for each Elf you control."
 msgstr ""
 
 #: ../../MOR.rst:719
@@ -2012,41 +2056,43 @@ msgid "|mana_b|, Sacrifice an Elf: Regenerate Rhys the Exiled."
 msgstr ""
 
 #: ../../MOR.rst:724
-msgid ":mtgtip:`Scapeshift<https://img.scryfall.com/cards/border_crop/en/mor/136.jpg?1517813031|https://scryfall.com/card/mor/136/scapeshift?utm_source=api>`"
+msgid ""
+":mtgtip:`Scapeshift<https://img.scryfall.com/cards/border_crop/"
+"front/8/4/84829605-50eb-455d-a236-ebfa11e883c5.jpg?1562879722|https://"
+"scryfall.com/card/mor/136/scapeshift?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:723
 msgid ""
-"Sacrifice any number of lands. Search your library for up to that many "
-"land cards, put them onto the battlefield tapped, then shuffle your "
-"library."
+"Sacrifice any number of lands. Search your library for up to that many land "
+"cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../MOR.rst:732
 msgid ""
-":mtgtip:`Unstoppable "
-"Ash<https://img.scryfall.com/cards/border_crop/en/mor/137.jpg?1517813031|https://scryfall.com/card/mor/137"
-"/unstoppable-ash?utm_source=api>`"
+":mtgtip:`Unstoppable Ash<https://img.scryfall.com/cards/border_crop/front/"
+"c/9/c9de6380-6203-41ae-b134-8633eb5df076.jpg?1562881364|https://scryfall.com/"
+"card/mor/137/unstoppable-ash?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:729
 msgid ""
-"Champion a Treefolk or Warrior (When this enters the battlefield, "
-"sacrifice it unless you exile another Treefolk or Warrior you control. "
-"When this leaves the battlefield, that card returns to the battlefield.)"
+"Champion a Treefolk or Warrior (When this enters the battlefield, sacrifice "
+"it unless you exile another Treefolk or Warrior you control. When this "
+"leaves the battlefield, that card returns to the battlefield.)"
 msgstr ""
 
 #: ../../MOR.rst:731
 msgid ""
-"Whenever a creature you control becomes blocked, it gets +0/+5 until end "
-"of turn."
+"Whenever a creature you control becomes blocked, it gets +0/+5 until end of "
+"turn."
 msgstr ""
 
 #: ../../MOR.rst:738
 msgid ""
-":mtgtip:`Walker of the "
-"Grove<https://img.scryfall.com/cards/border_crop/en/mor/138.jpg?1517813031|https://scryfall.com/card/mor/138"
-"/walker-of-the-grove?utm_source=api>`"
+":mtgtip:`Walker of the Grove<https://img.scryfall.com/cards/border_crop/"
+"front/e/2/e2675b8b-a321-4982-b1d9-5c55d27b9bfd.jpg?1562882018|https://"
+"scryfall.com/card/mor/138/walker-of-the-grove?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:735
@@ -2057,45 +2103,45 @@ msgstr ""
 
 #: ../../MOR.rst:737
 msgid ""
-"Evoke |mana_4|\\ |mana_g| (You may cast this spell for its evoke cost. If"
-" you do, it's sacrificed when it enters the battlefield.)"
+"Evoke |mana_4|\\ |mana_g| (You may cast this spell for its evoke cost. If "
+"you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_4|\\ |mana_g| (Możesz rzucić ten czar za jego koszt "
 "przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../MOR.rst:742
 msgid ""
-":mtgtip:`Winnower "
-"Patrol<https://img.scryfall.com/cards/border_crop/en/mor/139.jpg?1517813031|https://scryfall.com/card/mor/139"
-"/winnower-patrol?utm_source=api>`"
+":mtgtip:`Winnower Patrol<https://img.scryfall.com/cards/border_crop/front/"
+"a/4/a47bed84-5a4a-4f16-af6c-789c542ce3a7.jpg?1562880532|https://scryfall.com/"
+"card/mor/139/winnower-patrol?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:741
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Winnower Patrol, you "
-"may reveal it. If you do, put a +1/+1 counter on Winnower Patrol."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Winnower Patrol, you may "
+"reveal it. If you do, put a +1/+1 counter on Winnower Patrol."
 msgstr ""
 
 #: ../../MOR.rst:746
 msgid ""
-":mtgtip:`Wolf-Skull "
-"Shaman<https://img.scryfall.com/cards/border_crop/en/mor/140.jpg?1517813031|https://scryfall.com/card/mor/140"
-"/wolf-skull-shaman?utm_source=api>`"
+":mtgtip:`Wolf-Skull Shaman<https://img.scryfall.com/cards/border_crop/"
+"front/8/0/804ef999-0d44-420e-ad0c-a6dcf8e9c392.jpg?1562879586|https://"
+"scryfall.com/card/mor/140/wolf-skull-shaman?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:745
 msgid ""
-"Kinship — At the beginning of your upkeep, you may look at the top card "
-"of your library. If it shares a creature type with Wolf-Skull Shaman, you"
-" may reveal it. If you do, create a 2/2 green Wolf creature token."
+"Kinship — At the beginning of your upkeep, you may look at the top card of "
+"your library. If it shares a creature type with Wolf-Skull Shaman, you may "
+"reveal it. If you do, create a 2/2 green Wolf creature token."
 msgstr ""
 
 #: ../../MOR.rst:754
 msgid ""
-":mtgtip:`Cloak and "
-"Dagger<https://img.scryfall.com/cards/border_crop/en/mor/141.jpg?1517813031|https://scryfall.com/card/mor/141"
-"/cloak-and-dagger?utm_source=api>`"
+":mtgtip:`Cloak and Dagger<https://img.scryfall.com/cards/border_crop/"
+"front/3/8/38bb3e3c-1a7d-4bc4-b69d-6a8e9f1b3fe7.jpg?1562877936|https://"
+"scryfall.com/card/mor/141/cloak-and-dagger?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:749
@@ -2106,8 +2152,8 @@ msgstr ""
 
 #: ../../MOR.rst:751
 msgid ""
-"Whenever a Rogue creature enters the battlefield, you may attach Cloak "
-"and Dagger to it."
+"Whenever a Rogue creature enters the battlefield, you may attach Cloak and "
+"Dagger to it."
 msgstr ""
 
 #: ../../MOR.rst:753 ../../MOR.rst:761 ../../MOR.rst:777
@@ -2116,28 +2162,28 @@ msgstr "Wyposaż |mana_3|"
 
 #: ../../MOR.rst:762
 msgid ""
-":mtgtip:`Diviner's "
-"Wand<https://img.scryfall.com/cards/border_crop/en/mor/142.jpg?1517813031|https://scryfall.com/card/mor/142"
-"/diviners-wand?utm_source=api>`"
+":mtgtip:`Diviner's Wand<https://img.scryfall.com/cards/border_crop/"
+"front/2/7/277eed87-6b78-456d-91fb-774c72b3ae8c.jpg?1562877497|https://"
+"scryfall.com/card/mor/142/diviners-wand?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:757
 msgid ""
-"Equipped creature has \"Whenever you draw a card, this creature gets "
-"+1/+1 and gains flying until end of turn\" and \"|mana_4|: Draw a card.\""
+"Equipped creature has \"Whenever you draw a card, this creature gets +1/+1 "
+"and gains flying until end of turn\" and \"|mana_4|: Draw a card.\""
 msgstr ""
 
 #: ../../MOR.rst:759
 msgid ""
-"Whenever a Wizard creature enters the battlefield, you may attach "
-"Diviner's Wand to it."
+"Whenever a Wizard creature enters the battlefield, you may attach Diviner's "
+"Wand to it."
 msgstr ""
 
 #: ../../MOR.rst:770
 msgid ""
-":mtgtip:`Door of "
-"Destinies<https://img.scryfall.com/cards/border_crop/en/mor/143.jpg?1517813031|https://scryfall.com/card/mor/143"
-"/door-of-destinies?utm_source=api>`"
+":mtgtip:`Door of Destinies<https://img.scryfall.com/cards/border_crop/front/"
+"a/c/ac4800be-5f77-42f5-914c-2a8e647e3af5.jpg?1562880656|https://scryfall.com/"
+"card/mor/143/door-of-destinies?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:765
@@ -2146,21 +2192,21 @@ msgstr ""
 
 #: ../../MOR.rst:767
 msgid ""
-"Whenever you cast a spell of the chosen type, put a charge counter on "
-"Door of Destinies."
+"Whenever you cast a spell of the chosen type, put a charge counter on Door "
+"of Destinies."
 msgstr ""
 
 #: ../../MOR.rst:769
 msgid ""
-"Creatures you control of the chosen type get +1/+1 for each charge "
-"counter on Door of Destinies."
+"Creatures you control of the chosen type get +1/+1 for each charge counter "
+"on Door of Destinies."
 msgstr ""
 
 #: ../../MOR.rst:778
 msgid ""
-":mtgtip:`Obsidian Battle-"
-"Axe<https://img.scryfall.com/cards/border_crop/en/mor/144.jpg?1517813031|https://scryfall.com/card/mor/144"
-"/obsidian-battle-axe?utm_source=api>`"
+":mtgtip:`Obsidian Battle-Axe<https://img.scryfall.com/cards/border_crop/"
+"front/c/7/c7978371-9ea8-4264-9a2f-38226ea25018.jpg?1562881317|https://"
+"scryfall.com/card/mor/144/obsidian-battle-axe?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:773
@@ -2169,27 +2215,27 @@ msgstr ""
 
 #: ../../MOR.rst:775
 msgid ""
-"Whenever a Warrior creature enters the battlefield, you may attach "
-"Obsidian Battle-Axe to it."
+"Whenever a Warrior creature enters the battlefield, you may attach Obsidian "
+"Battle-Axe to it."
 msgstr ""
 
 #: ../../MOR.rst:786
 msgid ""
-":mtgtip:`Thornbite "
-"Staff<https://img.scryfall.com/cards/border_crop/en/mor/145.jpg?1517813031|https://scryfall.com/card/mor/145"
-"/thornbite-staff?utm_source=api>`"
+":mtgtip:`Thornbite Staff<https://img.scryfall.com/cards/border_crop/front/"
+"c/1/c1ab3225-64a9-411e-b22b-1869e958b8e5.jpg?1562881171|https://scryfall.com/"
+"card/mor/145/thornbite-staff?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:781
 msgid ""
-"Equipped creature has \"|mana_2|, |tap|: This creature deals 1 damage to "
-"any target\" and \"Whenever a creature dies, untap this creature.\""
+"Equipped creature has \"|mana_2|, |tap|: This creature deals 1 damage to any "
+"target\" and \"Whenever a creature dies, untap this creature.\""
 msgstr ""
 
 #: ../../MOR.rst:783
 msgid ""
-"Whenever a Shaman creature enters the battlefield, you may attach "
-"Thornbite Staff to it."
+"Whenever a Shaman creature enters the battlefield, you may attach Thornbite "
+"Staff to it."
 msgstr ""
 
 #: ../../MOR.rst:785
@@ -2198,21 +2244,21 @@ msgstr ""
 
 #: ../../MOR.rst:794
 msgid ""
-":mtgtip:`Veteran's "
-"Armaments<https://img.scryfall.com/cards/border_crop/en/mor/146.jpg?1517813031|https://scryfall.com/card/mor/146"
-"/veterans-armaments?utm_source=api>`"
+":mtgtip:`Veteran's Armaments<https://img.scryfall.com/cards/border_crop/"
+"front/a/6/a6d0beb9-3381-423f-b54e-5490b892630a.jpg?1562880573|https://"
+"scryfall.com/card/mor/146/veterans-armaments?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:789
 msgid ""
-"Equipped creature has \"Whenever this creature attacks or blocks, it gets"
-" +1/+1 until end of turn for each attacking creature.\""
+"Equipped creature has \"Whenever this creature attacks or blocks, it gets +1/"
+"+1 until end of turn for each attacking creature.\""
 msgstr ""
 
 #: ../../MOR.rst:791
 msgid ""
-"Whenever a Soldier creature enters the battlefield, you may attach "
-"Veteran's Armaments to it."
+"Whenever a Soldier creature enters the battlefield, you may attach Veteran's "
+"Armaments to it."
 msgstr ""
 
 #: ../../MOR.rst:793
@@ -2221,9 +2267,9 @@ msgstr "Wyposaż |mana_2|"
 
 #: ../../MOR.rst:802
 msgid ""
-":mtgtip:`Murmuring "
-"Bosk<https://img.scryfall.com/cards/border_crop/en/mor/147.jpg?1517813031|https://scryfall.com/card/mor/147"
-"/murmuring-bosk?utm_source=api>`"
+":mtgtip:`Murmuring Bosk<https://img.scryfall.com/cards/border_crop/front/7/"
+"d/7d4f8cc7-3d02-4cf2-920f-2cc32b58f397.jpg?1562879494|https://scryfall.com/"
+"card/mor/147/murmuring-bosk?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:797
@@ -2233,8 +2279,7 @@ msgstr "(|tap|: Weź |mana_g|.)"
 #: ../../MOR.rst:799
 msgid ""
 "As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card "
-"from your hand. If you don't, Murmuring Bosk enters the battlefield "
-"tapped."
+"from your hand. If you don't, Murmuring Bosk enters the battlefield tapped."
 msgstr ""
 
 #: ../../MOR.rst:801
@@ -2242,7 +2287,10 @@ msgid "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
 msgstr ""
 
 #: ../../MOR.rst:808
-msgid ":mtgtip:`Mutavault<https://img.scryfall.com/cards/border_crop/en/mor/148.jpg?1517813031|https://scryfall.com/card/mor/148/mutavault?utm_source=api>`"
+msgid ""
+":mtgtip:`Mutavault<https://img.scryfall.com/cards/border_crop/front/8/"
+"c/8ca3c48b-f104-4292-9a4e-2ce87a65893c.jpg?1562879924|https://scryfall.com/"
+"card/mor/148/mutavault?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:805 ../../MOR.rst:813
@@ -2251,42 +2299,40 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../MOR.rst:807
 msgid ""
-"|mana_1|: Mutavault becomes a 2/2 creature with all creature types until "
-"end of turn. It's still a land."
+"|mana_1|: Mutavault becomes a 2/2 creature with all creature types until end "
+"of turn. It's still a land."
 msgstr ""
 
 #: ../../MOR.rst:816
 msgid ""
-":mtgtip:`Primal "
-"Beyond<https://img.scryfall.com/cards/border_crop/en/mor/149.jpg?1517813031|https://scryfall.com/card/mor/149"
-"/primal-beyond?utm_source=api>`"
+":mtgtip:`Primal Beyond<https://img.scryfall.com/cards/border_crop/front/b/4/"
+"b4c28c1d-0ebf-4e95-8d0a-56be10cc0ef2.jpg?1562880878|https://scryfall.com/"
+"card/mor/149/primal-beyond?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:811
 msgid ""
-"As Primal Beyond enters the battlefield, you may reveal an Elemental card"
-" from your hand. If you don't, Primal Beyond enters the battlefield "
-"tapped."
+"As Primal Beyond enters the battlefield, you may reveal an Elemental card "
+"from your hand. If you don't, Primal Beyond enters the battlefield tapped."
 msgstr ""
 
 #: ../../MOR.rst:815
 msgid ""
-"|tap|: Add one mana of any color. Spend this mana only to cast an "
-"Elemental spell or activate an ability of an Elemental."
+"|tap|: Add one mana of any color. Spend this mana only to cast an Elemental "
+"spell or activate an ability of an Elemental."
 msgstr ""
 
 #: ../../MOR.rst:823
 msgid ""
-":mtgtip:`Rustic "
-"Clachan<https://img.scryfall.com/cards/border_crop/en/mor/150.jpg?1517813031|https://scryfall.com/card/mor/150"
-"/rustic-clachan?utm_source=api>`"
+":mtgtip:`Rustic Clachan<https://img.scryfall.com/cards/border_crop/"
+"front/1/9/19bc170c-4a84-4c07-b481-b50b82f62f44.jpg?1562877109|https://"
+"scryfall.com/card/mor/150/rustic-clachan?utm_source=api>`"
 msgstr ""
 
 #: ../../MOR.rst:819
 msgid ""
-"As Rustic Clachan enters the battlefield, you may reveal a Kithkin card "
-"from your hand. If you don't, Rustic Clachan enters the battlefield "
-"tapped."
+"As Rustic Clachan enters the battlefield, you may reveal a Kithkin card from "
+"your hand. If you don't, Rustic Clachan enters the battlefield tapped."
 msgstr ""
 
 #: ../../MOR.rst:821
