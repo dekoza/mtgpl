@@ -1,23 +1,24 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-06-23 19:54+0000\n"
+"PO-Revision-Date: 2020-01-12 20:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c18/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.10.1\n"
 
 #: ../../C18.rst:5
 msgid ":mtgexp:`C18` Commander 2018"
@@ -1029,6 +1030,8 @@ msgstr ""
 #: ../../C18.rst:479
 msgid "Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz przywrócić wskazaną kartę uroku z twojego "
+"cmentarza na pole walki."
 
 #: ../../C18.rst:484
 msgid ":mtgtip:`Soul Snare<https://img.scryfall.com/cards/border_crop/en/c18/76.jpg?1535502947|https://scryfall.com/card/c18/76/soul-snare?utm_source=api>`"
@@ -1081,11 +1084,13 @@ msgstr ""
 
 #: ../../C18.rst:509
 msgid "Creatures you control have flying."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają latanie."
 
 #: ../../C18.rst:511
 msgid "Creatures your opponents control lose flying and can't have or gain flying."
 msgstr ""
+"Stwory pod władaniem twoich przeciwników tracą latanie i nie mogą mieć ani "
+"zyskać latania."
 
 #: ../../C18.rst:516
 msgid ":mtgtip:`Brainstorm<https://img.scryfall.com/cards/border_crop/en/c18/82.jpg?1535503035|https://scryfall.com/card/c18/82/brainstorm?utm_source=api>`"
