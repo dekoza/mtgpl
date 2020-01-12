@@ -1,21 +1,22 @@
 # Dominik <Kozaczko>, 2013.
 # Dominik <dominik@kozaczko.info>, 2013.
-# Dominik Kozaczko <dominik@kozaczko.info>, 2013, 2019.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2013, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-06-25 04:31+0000\n"
+"PO-Revision-Date: 2020-01-12 20:28+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/ths/pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ths/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.10.1\n"
 "X-POOTLE-MTIME: 1419174967.506886\n"
 
 #: ../../THS.rst:5
@@ -2780,7 +2781,7 @@ msgid ""
 "gains haste until end of turn. Scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Przejmij władanie nad wskazanym stworem do końca tury. Odkręć tego stwora. "
+"Przejmij władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
 "Dostaje on pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
@@ -4624,7 +4625,7 @@ msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
 "card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"|mana_1|, poświęć ten artefakt.: Poszukaj w twojej bibliotece karty bazowego "
+"|mana_1|, poświęć ten artefakt: Poszukaj w twojej bibliotece karty bazowego "
 "lądu, ujawnij ją i dołóż do twojej ręki. Następnie przetasuj twoją "
 "bibliotekę."
 
@@ -4689,7 +4690,7 @@ msgstr ""
 # 6f48b988594d41b9b20462460a592392
 #: ../../THS.rst:1239
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr "Temple of Abandon wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # cc039f90759b4e98a9e08067067d00cb
 # cdec0b76fd924755add288da40eb9285
@@ -4698,9 +4699,8 @@ msgid ""
 "When Temple of Abandon enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Temple of Abandon wchodzi na pole walki, wróż 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
-"biblioteki.)"
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # e46764f3aff84f7fa505dca28f961cb6
 # 74f28075af4642879170deb2ad5a7839
@@ -4719,7 +4719,7 @@ msgstr ""
 # f84592c740994963a388ff3f32d6b86d
 #: ../../THS.rst:1247
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr "Temple of Deceit  wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 0575bacf28cd4d43ba2f3ff3d5653d35
 # 723ce4d510a642c9a61306bf36b491bf
@@ -4728,9 +4728,8 @@ msgid ""
 "When Temple of Deceit enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Temple of Deceit wchodzi na pole walki, wróż 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
-"biblioteki.)"
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # 76bd4645501f4b8b8e98800903d443c3
 # fb834ee568ba41d396836e0f88e4edda
