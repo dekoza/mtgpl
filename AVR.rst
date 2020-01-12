@@ -5,13 +5,13 @@
 ==============================
 
 
-:mtgtip:`Angel of Glory's Rise<https://img.scryfall.com/cards/border_crop/en/avr/1.jpg?1517813031|https://scryfall.com/card/avr/1/angel-of-glorys-rise?utm_source=api>`
+:mtgtip:`Angel of Glory's Rise<https://img.scryfall.com/cards/border_crop/front/7/a/7a8be765-0949-491c-875c-0385fb83e4b9.jpg?1561872834|https://scryfall.com/card/avr/1/angel-of-glorys-rise?utm_source=api>`
    Flying
 
    When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.
 
 
-:mtgtip:`Angel of Jubilation<https://img.scryfall.com/cards/border_crop/en/avr/2.jpg?1517813031|https://scryfall.com/card/avr/2/angel-of-jubilation?utm_source=api>`
+:mtgtip:`Angel of Jubilation<https://img.scryfall.com/cards/border_crop/front/1/6/16c5dfed-4dee-4e48-a445-89f03d7794e6.jpg?1561857991|https://scryfall.com/card/avr/2/angel-of-jubilation?utm_source=api>`
    Flying
 
    Other nonblack creatures you control get +1/+1.
@@ -19,109 +19,109 @@
    Players can't pay life or sacrifice creatures to cast spells or activate abilities.
 
 
-:mtgtip:`Angel's Mercy<https://img.scryfall.com/cards/border_crop/en/avr/3.jpg?1517813031|https://scryfall.com/card/avr/3/angels-mercy?utm_source=api>`
+:mtgtip:`Angel's Mercy<https://img.scryfall.com/cards/border_crop/front/7/a/7a437999-26ae-49fa-8647-c8c2b4640702.jpg?1561872802|https://scryfall.com/card/avr/3/angels-mercy?utm_source=api>`
    You gain 7 life.
 
 
-:mtgtip:`Angelic Wall<https://img.scryfall.com/cards/border_crop/en/avr/4.jpg?1517813031|https://scryfall.com/card/avr/4/angelic-wall?utm_source=api>`
+:mtgtip:`Angelic Wall<https://img.scryfall.com/cards/border_crop/front/d/7/d7b2450d-87a7-46dc-b43a-2db2abeca44f.jpg?1561888244|https://scryfall.com/card/avr/4/angelic-wall?utm_source=api>`
    Defender (This creature can't attack.)
 
    Flying
 
 
-:mtgtip:`Archangel<https://img.scryfall.com/cards/border_crop/en/avr/5.jpg?1517813031|https://scryfall.com/card/avr/5/archangel?utm_source=api>`
+:mtgtip:`Archangel<https://img.scryfall.com/cards/border_crop/front/3/7/3741b2a7-7bda-481a-b8f8-9b04c96035b0.jpg?1561863022|https://scryfall.com/card/avr/5/archangel?utm_source=api>`
    Flying, vigilance
 
 
-:mtgtip:`Avacyn, Angel of Hope<https://img.scryfall.com/cards/border_crop/en/avr/6.jpg?1517813031|https://scryfall.com/card/avr/6/avacyn-angel-of-hope?utm_source=api>`
+:mtgtip:`Avacyn, Angel of Hope<https://img.scryfall.com/cards/border_crop/front/b/a/ba149706-cd17-4da6-8403-ccfe2d6cb437.jpg?1561883573|https://scryfall.com/card/avr/6/avacyn-angel-of-hope?utm_source=api>`
    Flying, vigilance, indestructible
 
    Other permanents you control have indestructible.
 
 
-:mtgtip:`Banishing Stroke<https://img.scryfall.com/cards/border_crop/en/avr/7.jpg?1517813031|https://scryfall.com/card/avr/7/banishing-stroke?utm_source=api>`
+:mtgtip:`Banishing Stroke<https://img.scryfall.com/cards/border_crop/front/2/3/238d8437-1abd-4bb7-8b5b-54f959bc2c79.jpg?1561860079|https://scryfall.com/card/avr/7/banishing-stroke?utm_source=api>`
    Put target artifact, creature, or enchantment on the bottom of its owner's library.
 
    Miracle |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Builder's Blessing<https://img.scryfall.com/cards/border_crop/en/avr/8.jpg?1517813031|https://scryfall.com/card/avr/8/builders-blessing?utm_source=api>`
+:mtgtip:`Builder's Blessing<https://img.scryfall.com/cards/border_crop/front/2/a/2ad27af1-b482-40d5-9dbb-11201ffa0410.jpg?1561861096|https://scryfall.com/card/avr/8/builders-blessing?utm_source=api>`
    Untapped creatures you control get +0/+2.
 
 
-:mtgtip:`Call to Serve<https://img.scryfall.com/cards/border_crop/en/avr/9.jpg?1517813031|https://scryfall.com/card/avr/9/call-to-serve?utm_source=api>`
+:mtgtip:`Call to Serve<https://img.scryfall.com/cards/border_crop/front/c/e/ce4a3e80-6e95-4346-8ab8-eecc1a09ca24.jpg?1561886799|https://scryfall.com/card/avr/9/call-to-serve?utm_source=api>`
    Enchant nonblack creature
 
    Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.
 
 
-:mtgtip:`Cathars' Crusade<https://img.scryfall.com/cards/border_crop/en/avr/10.jpg?1517813031|https://scryfall.com/card/avr/10/cathars-crusade?utm_source=api>`
+:mtgtip:`Cathars' Crusade<https://img.scryfall.com/cards/border_crop/front/7/8/78154978-9e7d-44e9-a03f-c578072a8ff7.jpg?1561872319|https://scryfall.com/card/avr/10/cathars-crusade?utm_source=api>`
    Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.
 
 
-:mtgtip:`Cathedral Sanctifier<https://img.scryfall.com/cards/border_crop/en/avr/11.jpg?1517813031|https://scryfall.com/card/avr/11/cathedral-sanctifier?utm_source=api>`
+:mtgtip:`Cathedral Sanctifier<https://img.scryfall.com/cards/border_crop/front/7/6/76cac47a-9e83-4039-8d80-fa9bdadb7527.jpg?1561871911|https://scryfall.com/card/avr/11/cathedral-sanctifier?utm_source=api>`
    When Cathedral Sanctifier enters the battlefield, you gain 3 life.
 
 
-:mtgtip:`Cloudshift<https://img.scryfall.com/cards/border_crop/en/avr/12.jpg?1517813031|https://scryfall.com/card/avr/12/cloudshift?utm_source=api>`
+:mtgtip:`Cloudshift<https://img.scryfall.com/cards/border_crop/front/3/5/35b06c8f-5f08-43bd-a548-2a98ba30fd41.jpg?1561862947|https://scryfall.com/card/avr/12/cloudshift?utm_source=api>`
    Exile target creature you control, then return that card to the battlefield under your control.
 
 
-:mtgtip:`Commander's Authority<https://img.scryfall.com/cards/border_crop/en/avr/13.jpg?1517813031|https://scryfall.com/card/avr/13/commanders-authority?utm_source=api>`
+:mtgtip:`Commander's Authority<https://img.scryfall.com/cards/border_crop/front/0/8/08ef4383-11e7-4426-a04a-058570f46e47.jpg?1561856223|https://scryfall.com/card/avr/13/commanders-authority?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "At the beginning of your upkeep, create a 1/1 white Human creature token."
 
 
-:mtgtip:`Cursebreak<https://img.scryfall.com/cards/border_crop/en/avr/14.jpg?1517813031|https://scryfall.com/card/avr/14/cursebreak?utm_source=api>`
+:mtgtip:`Cursebreak<https://img.scryfall.com/cards/border_crop/front/c/7/c71a0883-316c-4870-a029-25f16952fbc0.jpg?1561885386|https://scryfall.com/card/avr/14/cursebreak?utm_source=api>`
    Destroy target enchantment. You gain 2 life.
 
 
-:mtgtip:`Defang<https://img.scryfall.com/cards/border_crop/en/avr/15.jpg?1517813031|https://scryfall.com/card/avr/15/defang?utm_source=api>`
+:mtgtip:`Defang<https://img.scryfall.com/cards/border_crop/front/f/1/f12fee0b-c237-4188-a718-1572f72c63ba.jpg?1561892284|https://scryfall.com/card/avr/15/defang?utm_source=api>`
    Enchant creature
 
    Prevent all damage that would be dealt by enchanted creature.
 
 
-:mtgtip:`Defy Death<https://img.scryfall.com/cards/border_crop/en/avr/16.jpg?1517813031|https://scryfall.com/card/avr/16/defy-death?utm_source=api>`
+:mtgtip:`Defy Death<https://img.scryfall.com/cards/border_crop/front/0/2/028028d7-80ff-4d63-8b84-795f257a3456.jpg?1561854853|https://scryfall.com/card/avr/16/defy-death?utm_source=api>`
    Return target creature card from your graveyard to the battlefield. If it's an Angel, put two +1/+1 counters on it.
 
 
-:mtgtip:`Devout Chaplain<https://img.scryfall.com/cards/border_crop/en/avr/17.jpg?1517813031|https://scryfall.com/card/avr/17/devout-chaplain?utm_source=api>`
+:mtgtip:`Devout Chaplain<https://img.scryfall.com/cards/border_crop/front/8/4/84ceb7f1-14b7-4102-ade2-fbeb835d3804.jpg?1561874512|https://scryfall.com/card/avr/17/devout-chaplain?utm_source=api>`
    |tap|, Tap two untapped Humans you control: Exile target artifact or enchantment.
 
 
-:mtgtip:`Divine Deflection<https://img.scryfall.com/cards/border_crop/en/avr/18.jpg?1517813031|https://scryfall.com/card/avr/18/divine-deflection?utm_source=api>`
+:mtgtip:`Divine Deflection<https://img.scryfall.com/cards/border_crop/front/e/c/ec06e42f-e294-44ef-8fa8-1d1a4c2090d8.jpg?1561891351|https://scryfall.com/card/avr/18/divine-deflection?utm_source=api>`
    Prevent the next X damage that would be dealt to you and/or permanents you control this turn. If damage is prevented this way, Divine Deflection deals that much damage to any target.
 
 
-:mtgtip:`Emancipation Angel<https://img.scryfall.com/cards/border_crop/en/avr/19.jpg?1517813031|https://scryfall.com/card/avr/19/emancipation-angel?utm_source=api>`
+:mtgtip:`Emancipation Angel<https://img.scryfall.com/cards/border_crop/front/7/a/7a4bc00e-28ca-4152-b832-f36425d2b615.jpg?1561872818|https://scryfall.com/card/avr/19/emancipation-angel?utm_source=api>`
    Flying
 
    When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.
 
 
-:mtgtip:`Entreat the Angels<https://img.scryfall.com/cards/border_crop/en/avr/20.jpg?1517813031|https://scryfall.com/card/avr/20/entreat-the-angels?utm_source=api>`
+:mtgtip:`Entreat the Angels<https://img.scryfall.com/cards/border_crop/front/3/1/31292616-70e6-4d19-a883-e63ad860f50c.jpg?1561862074|https://scryfall.com/card/avr/20/entreat-the-angels?utm_source=api>`
    Create X 4/4 white Angel creature tokens with flying.
 
    Miracle |mana_x|\ |mana_w|\ |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Farbog Explorer<https://img.scryfall.com/cards/border_crop/en/avr/21.jpg?1517813031|https://scryfall.com/card/avr/21/farbog-explorer?utm_source=api>`
+:mtgtip:`Farbog Explorer<https://img.scryfall.com/cards/border_crop/front/4/8/489c6a2f-38b4-4ff9-95f7-431384480ed9.jpg?1561865645|https://scryfall.com/card/avr/21/farbog-explorer?utm_source=api>`
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
 
-:mtgtip:`Goldnight Commander<https://img.scryfall.com/cards/border_crop/en/avr/22.jpg?1517813031|https://scryfall.com/card/avr/22/goldnight-commander?utm_source=api>`
+:mtgtip:`Goldnight Commander<https://img.scryfall.com/cards/border_crop/front/c/6/c6ebec82-9d4a-4e78-b923-37c3a52133e7.jpg?1561885374|https://scryfall.com/card/avr/22/goldnight-commander?utm_source=api>`
    Whenever another creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn.
 
 
-:mtgtip:`Goldnight Redeemer<https://img.scryfall.com/cards/border_crop/en/avr/23.jpg?1517813031|https://scryfall.com/card/avr/23/goldnight-redeemer?utm_source=api>`
+:mtgtip:`Goldnight Redeemer<https://img.scryfall.com/cards/border_crop/front/d/f/df5656e3-5f53-41f8-9f24-04caad5e4ca3.jpg?1561889401|https://scryfall.com/card/avr/23/goldnight-redeemer?utm_source=api>`
    Flying
 
    When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.
 
 
-:mtgtip:`Herald of War<https://img.scryfall.com/cards/border_crop/en/avr/24.jpg?1517813031|https://scryfall.com/card/avr/24/herald-of-war?utm_source=api>`
+:mtgtip:`Herald of War<https://img.scryfall.com/cards/border_crop/front/7/7/77e92bbb-c22d-4879-9437-b87a3ff70a2d.jpg?1561872318|https://scryfall.com/card/avr/24/herald-of-war?utm_source=api>`
    Flying
 
    Whenever Herald of War attacks, put a +1/+1 counter on it.
@@ -129,39 +129,39 @@
    Angel spells and Human spells you cast cost |mana_1| less to cast for each +1/+1 counter on Herald of War.
 
 
-:mtgtip:`Holy Justiciar<https://img.scryfall.com/cards/border_crop/en/avr/25.jpg?1517813031|https://scryfall.com/card/avr/25/holy-justiciar?utm_source=api>`
+:mtgtip:`Holy Justiciar<https://img.scryfall.com/cards/border_crop/front/6/4/640cad49-1db3-4611-a80d-7ce95f000fad.jpg?1561869699|https://scryfall.com/card/avr/25/holy-justiciar?utm_source=api>`
    |mana_2|\ |mana_w|, |tap|: Tap target creature. If that creature is a Zombie, exile it.
 
 
-:mtgtip:`Leap of Faith<https://img.scryfall.com/cards/border_crop/en/avr/26.jpg?1517813031|https://scryfall.com/card/avr/26/leap-of-faith?utm_source=api>`
+:mtgtip:`Leap of Faith<https://img.scryfall.com/cards/border_crop/front/7/b/7ba52aed-440c-4b32-8f25-0c5364441712.jpg?1561872880|https://scryfall.com/card/avr/26/leap-of-faith?utm_source=api>`
    Target creature gains flying until end of turn. Prevent all damage that would be dealt to that creature this turn.
 
 
-:mtgtip:`Midnight Duelist<https://img.scryfall.com/cards/border_crop/en/avr/27.jpg?1517813031|https://scryfall.com/card/avr/27/midnight-duelist?utm_source=api>`
+:mtgtip:`Midnight Duelist<https://img.scryfall.com/cards/border_crop/front/2/3/2371bd0c-ca38-4a62-b525-bef4d1ca0646.jpg?1561860073|https://scryfall.com/card/avr/27/midnight-duelist?utm_source=api>`
    Protection from Vampires
 
 
-:mtgtip:`Midvast Protector<https://img.scryfall.com/cards/border_crop/en/avr/28.jpg?1517813031|https://scryfall.com/card/avr/28/midvast-protector?utm_source=api>`
+:mtgtip:`Midvast Protector<https://img.scryfall.com/cards/border_crop/front/d/4/d4f6214f-90cb-4575-b221-3c8d0ed65ffe.jpg?1561887732|https://scryfall.com/card/avr/28/midvast-protector?utm_source=api>`
    When Midvast Protector enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.
 
 
-:mtgtip:`Moonlight Geist<https://img.scryfall.com/cards/border_crop/en/avr/29.jpg?1517813031|https://scryfall.com/card/avr/29/moonlight-geist?utm_source=api>`
+:mtgtip:`Moonlight Geist<https://img.scryfall.com/cards/border_crop/front/4/c/4cf4c4cf-df35-4725-81ca-d62b70b8d0dd.jpg?1561866177|https://scryfall.com/card/avr/29/moonlight-geist?utm_source=api>`
    Flying
 
    |mana_3|\ |mana_w|: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.
 
 
-:mtgtip:`Moorland Inquisitor<https://img.scryfall.com/cards/border_crop/en/avr/30.jpg?1517813031|https://scryfall.com/card/avr/30/moorland-inquisitor?utm_source=api>`
-   |mana_2|\ |mana_w|: Moorland Inquisitor gains first strike until end of turn.
+:mtgtip:`Moorland Inquisitor<https://img.scryfall.com/cards/border_crop/front/5/8/581dbbea-9995-4e4b-ba5c-d6d5597e4ace.jpg?1561867859|https://scryfall.com/card/avr/30/moorland-inquisitor?utm_source=api>`
+   |mana_2|\ |mana_w|: Moorland Inquisitor gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
 
 
-:mtgtip:`Nearheath Pilgrim<https://img.scryfall.com/cards/border_crop/en/avr/31.jpg?1517813031|https://scryfall.com/card/avr/31/nearheath-pilgrim?utm_source=api>`
+:mtgtip:`Nearheath Pilgrim<https://img.scryfall.com/cards/border_crop/front/d/8/d81d6fe0-c7c2-46a6-811c-f121284937ea.jpg?1561888265|https://scryfall.com/card/avr/31/nearheath-pilgrim?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink.
 
 
-:mtgtip:`Restoration Angel<https://img.scryfall.com/cards/border_crop/en/avr/32.jpg?1517813031|https://scryfall.com/card/avr/32/restoration-angel?utm_source=api>`
+:mtgtip:`Restoration Angel<https://img.scryfall.com/cards/border_crop/front/c/2/c2ad8639-e586-47f4-baca-2a1af5aa281b.jpg?1561885115|https://scryfall.com/card/avr/32/restoration-angel?utm_source=api>`
    Flash
 
    Flying
@@ -169,7 +169,7 @@
    When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.
 
 
-:mtgtip:`Riders of Gavony<https://img.scryfall.com/cards/border_crop/en/avr/33.jpg?1517813031|https://scryfall.com/card/avr/33/riders-of-gavony?utm_source=api>`
+:mtgtip:`Riders of Gavony<https://img.scryfall.com/cards/border_crop/front/b/c/bcc1647b-9271-4426-9938-7eb620ad0769.jpg?1561884087|https://scryfall.com/card/avr/33/riders-of-gavony?utm_source=api>`
    Vigilance
 
    As Riders of Gavony enters the battlefield, choose a creature type.
@@ -177,145 +177,145 @@
    Human creatures you control have protection from creatures of the chosen type.
 
 
-:mtgtip:`Righteous Blow<https://img.scryfall.com/cards/border_crop/en/avr/34.jpg?1517813031|https://scryfall.com/card/avr/34/righteous-blow?utm_source=api>`
+:mtgtip:`Righteous Blow<https://img.scryfall.com/cards/border_crop/front/9/b/9b640fdc-7a19-475e-858f-e159f61e154e.jpg?1561878156|https://scryfall.com/card/avr/34/righteous-blow?utm_source=api>`
    Righteous Blow deals 2 damage to target attacking or blocking creature.
 
 
-:mtgtip:`Seraph of Dawn<https://img.scryfall.com/cards/border_crop/en/avr/35.jpg?1517813031|https://scryfall.com/card/avr/35/seraph-of-dawn?utm_source=api>`
+:mtgtip:`Seraph of Dawn<https://img.scryfall.com/cards/border_crop/front/5/d/5da345bd-8f2b-4966-97f5-c0e4c6cfe3b7.jpg?1561868752|https://scryfall.com/card/avr/35/seraph-of-dawn?utm_source=api>`
    Flying
 
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
 
-:mtgtip:`Silverblade Paladin<https://img.scryfall.com/cards/border_crop/en/avr/36.jpg?1517813031|https://scryfall.com/card/avr/36/silverblade-paladin?utm_source=api>`
+:mtgtip:`Silverblade Paladin<https://img.scryfall.com/cards/border_crop/front/1/6/16298ca0-80d4-4299-a550-500b7ef6ac67.jpg?1561857946|https://scryfall.com/card/avr/36/silverblade-paladin?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Silverblade Paladin is paired with another creature, both creatures have double strike.
 
 
-:mtgtip:`Spectral Gateguards<https://img.scryfall.com/cards/border_crop/en/avr/37.jpg?1517813031|https://scryfall.com/card/avr/37/spectral-gateguards?utm_source=api>`
+:mtgtip:`Spectral Gateguards<https://img.scryfall.com/cards/border_crop/front/f/7/f774e0eb-5c05-4a9e-8ab7-9ee4c7741591.jpg?1561893418|https://scryfall.com/card/avr/37/spectral-gateguards?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Spectral Gateguards is paired with another creature, both creatures have vigilance.
 
 
-:mtgtip:`Terminus<https://img.scryfall.com/cards/border_crop/en/avr/38.jpg?1517813031|https://scryfall.com/card/avr/38/terminus?utm_source=api>`
+:mtgtip:`Terminus<https://img.scryfall.com/cards/border_crop/front/0/9/0982ea7e-05a4-4e40-98ab-ea9aa6c7342e.jpg?1561856249|https://scryfall.com/card/avr/38/terminus?utm_source=api>`
    Put all creatures on the bottom of their owners' libraries.
 
    Miracle |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Thraben Valiant<https://img.scryfall.com/cards/border_crop/en/avr/39.jpg?1517813031|https://scryfall.com/card/avr/39/thraben-valiant?utm_source=api>`
+:mtgtip:`Thraben Valiant<https://img.scryfall.com/cards/border_crop/front/2/0/20558f69-9240-49b9-9695-caf75ee2db1b.jpg?1561859813|https://scryfall.com/card/avr/39/thraben-valiant?utm_source=api>`
    Vigilance
 
 
-:mtgtip:`Voice of the Provinces<https://img.scryfall.com/cards/border_crop/en/avr/40.jpg?1517813031|https://scryfall.com/card/avr/40/voice-of-the-provinces?utm_source=api>`
+:mtgtip:`Voice of the Provinces<https://img.scryfall.com/cards/border_crop/front/b/7/b785276b-3778-49f3-b46f-a1f3d91db097.jpg?1561883108|https://scryfall.com/card/avr/40/voice-of-the-provinces?utm_source=api>`
    Flying
 
    When Voice of the Provinces enters the battlefield, create a 1/1 white Human creature token.
 
 
-:mtgtip:`Zealous Strike<https://img.scryfall.com/cards/border_crop/en/avr/41.jpg?1517813031|https://scryfall.com/card/avr/41/zealous-strike?utm_source=api>`
+:mtgtip:`Zealous Strike<https://img.scryfall.com/cards/border_crop/front/a/e/ae8a01fb-dd47-44de-b528-8b7ca4b3388b.jpg?1561881679|https://scryfall.com/card/avr/41/zealous-strike?utm_source=api>`
    Target creature gets +2/+2 and gains first strike until end of turn.
 
 
-:mtgtip:`Alchemist's Apprentice<https://img.scryfall.com/cards/border_crop/en/avr/42.jpg?1517813031|https://scryfall.com/card/avr/42/alchemists-apprentice?utm_source=api>`
+:mtgtip:`Alchemist's Apprentice<https://img.scryfall.com/cards/border_crop/front/3/1/31abba67-1241-4fb3-88b5-4c4668ec5f25.jpg?1561862099|https://scryfall.com/card/avr/42/alchemists-apprentice?utm_source=api>`
    Sacrifice Alchemist's Apprentice: Draw a card.
 
 
-:mtgtip:`Amass the Components<https://img.scryfall.com/cards/border_crop/en/avr/43.jpg?1517813031|https://scryfall.com/card/avr/43/amass-the-components?utm_source=api>`
+:mtgtip:`Amass the Components<https://img.scryfall.com/cards/border_crop/front/f/5/f5b48d60-fc99-4d21-9293-4f7ce1c02928.jpg?1561893010|https://scryfall.com/card/avr/43/amass-the-components?utm_source=api>`
    Draw three cards, then put a card from your hand on the bottom of your library.
 
 
-:mtgtip:`Arcane Melee<https://img.scryfall.com/cards/border_crop/en/avr/44.jpg?1517813031|https://scryfall.com/card/avr/44/arcane-melee?utm_source=api>`
+:mtgtip:`Arcane Melee<https://img.scryfall.com/cards/border_crop/front/3/2/32355574-34ed-4427-86d9-72295d32ac4f.jpg?1561862468|https://scryfall.com/card/avr/44/arcane-melee?utm_source=api>`
    Instant and sorcery spells cost |mana_2| less to cast.
 
 
-:mtgtip:`Captain of the Mists<https://img.scryfall.com/cards/border_crop/en/avr/45.jpg?1517813031|https://scryfall.com/card/avr/45/captain-of-the-mists?utm_source=api>`
+:mtgtip:`Captain of the Mists<https://img.scryfall.com/cards/border_crop/front/c/4/c43aa68e-a182-4006-b4d6-b4fc67e68583.jpg?1561885288|https://scryfall.com/card/avr/45/captain-of-the-mists?utm_source=api>`
    Whenever another Human enters the battlefield under your control, untap Captain of the Mists.
 
    |mana_1|\ |mana_u|, |tap|: You may tap or untap target permanent.
 
 
-:mtgtip:`Crippling Chill<https://img.scryfall.com/cards/border_crop/en/avr/46.jpg?1517813031|https://scryfall.com/card/avr/46/crippling-chill?utm_source=api>`
+:mtgtip:`Crippling Chill<https://img.scryfall.com/cards/border_crop/front/7/9/79791bd9-aded-48d9-866d-9f7bd6848905.jpg?1561872390|https://scryfall.com/card/avr/46/crippling-chill?utm_source=api>`
    Tap target creature. It doesn't untap during its controller's next untap step.
 
    Draw a card.
 
 
-:mtgtip:`Deadeye Navigator<https://img.scryfall.com/cards/border_crop/en/avr/47.jpg?1517813031|https://scryfall.com/card/avr/47/deadeye-navigator?utm_source=api>`
+:mtgtip:`Deadeye Navigator<https://img.scryfall.com/cards/border_crop/front/f/a/fa94262b-f740-48fb-a937-75776864c9ee.jpg?1561893909|https://scryfall.com/card/avr/47/deadeye-navigator?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Deadeye Navigator is paired with another creature, each of those creatures has "|mana_1|\ |mana_u|: Exile this creature, then return it to the battlefield under your control."
 
 
-:mtgtip:`Devastation Tide<https://img.scryfall.com/cards/border_crop/en/avr/48.jpg?1517813031|https://scryfall.com/card/avr/48/devastation-tide?utm_source=api>`
+:mtgtip:`Devastation Tide<https://img.scryfall.com/cards/border_crop/front/2/3/23b62be6-1a80-4f16-a94a-374203052662.jpg?1561860091|https://scryfall.com/card/avr/48/devastation-tide?utm_source=api>`
    Return all nonland permanents to their owners' hands.
 
    Miracle |mana_1|\ |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Dreadwaters<https://img.scryfall.com/cards/border_crop/en/avr/49.jpg?1517813031|https://scryfall.com/card/avr/49/dreadwaters?utm_source=api>`
+:mtgtip:`Dreadwaters<https://img.scryfall.com/cards/border_crop/front/8/8/88245a41-d4d5-46bf-969f-48d4dd540e2c.jpg?1561875011|https://scryfall.com/card/avr/49/dreadwaters?utm_source=api>`
    Target player puts the top X cards of their library into their graveyard, where X is the number of lands you control.
 
 
-:mtgtip:`Elgaud Shieldmate<https://img.scryfall.com/cards/border_crop/en/avr/50.jpg?1517813031|https://scryfall.com/card/avr/50/elgaud-shieldmate?utm_source=api>`
+:mtgtip:`Elgaud Shieldmate<https://img.scryfall.com/cards/border_crop/front/e/7/e7d376ef-c900-4abb-9a0b-5eb9369f5739.jpg?1561890430|https://scryfall.com/card/avr/50/elgaud-shieldmate?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)
 
 
-:mtgtip:`Favorable Winds<https://img.scryfall.com/cards/border_crop/en/avr/51.jpg?1517813031|https://scryfall.com/card/avr/51/favorable-winds?utm_source=api>`
+:mtgtip:`Favorable Winds<https://img.scryfall.com/cards/border_crop/front/4/c/4cbd57f1-9883-40a4-9b52-1649cee83815.jpg?1561866160|https://scryfall.com/card/avr/51/favorable-winds?utm_source=api>`
    Creatures you control with flying get +1/+1.
 
 
-:mtgtip:`Fettergeist<https://img.scryfall.com/cards/border_crop/en/avr/52.jpg?1517813031|https://scryfall.com/card/avr/52/fettergeist?utm_source=api>`
+:mtgtip:`Fettergeist<https://img.scryfall.com/cards/border_crop/front/8/e/8e89ef0e-1bfe-4e12-90ee-38f993cd8110.jpg?1561876032|https://scryfall.com/card/avr/52/fettergeist?utm_source=api>`
    Flying
 
    At the beginning of your upkeep, sacrifice Fettergeist unless you pay |mana_1| for each other creature you control.
 
 
-:mtgtip:`Fleeting Distraction<https://img.scryfall.com/cards/border_crop/en/avr/53.jpg?1517813031|https://scryfall.com/card/avr/53/fleeting-distraction?utm_source=api>`
+:mtgtip:`Fleeting Distraction<https://img.scryfall.com/cards/border_crop/front/1/b/1ba49d16-e3e4-470a-8ca2-a93a5b358f6e.jpg?1561858929|https://scryfall.com/card/avr/53/fleeting-distraction?utm_source=api>`
    Target creature gets -1/-0 until end of turn.
 
    Draw a card.
 
 
-:mtgtip:`Galvanic Alchemist<https://img.scryfall.com/cards/border_crop/en/avr/54.jpg?1517813031|https://scryfall.com/card/avr/54/galvanic-alchemist?utm_source=api>`
+:mtgtip:`Galvanic Alchemist<https://img.scryfall.com/cards/border_crop/front/b/0/b0e24d65-0e6f-4978-8de1-c5e4acac12fb.jpg?1561882134|https://scryfall.com/card/avr/54/galvanic-alchemist?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Galvanic Alchemist is paired with another creature, each of those creatures has "|mana_2|\ |mana_u|: Untap this creature."
 
 
-:mtgtip:`Geist Snatch<https://img.scryfall.com/cards/border_crop/en/avr/55.jpg?1517813031|https://scryfall.com/card/avr/55/geist-snatch?utm_source=api>`
+:mtgtip:`Geist Snatch<https://img.scryfall.com/cards/border_crop/front/b/6/b6dac5db-ef96-4bd5-aabc-e5ae2b95c8c3.jpg?1561882731|https://scryfall.com/card/avr/55/geist-snatch?utm_source=api>`
    Counter target creature spell. Create a 1/1 blue Spirit creature token with flying.
 
 
-:mtgtip:`Ghostform<https://img.scryfall.com/cards/border_crop/en/avr/56.jpg?1517813031|https://scryfall.com/card/avr/56/ghostform?utm_source=api>`
+:mtgtip:`Ghostform<https://img.scryfall.com/cards/border_crop/front/1/f/1f6a20ba-6691-4844-9685-dfcd4184224e.jpg?1561859439|https://scryfall.com/card/avr/56/ghostform?utm_source=api>`
    Up to two target creatures can't be blocked this turn.
 
 
-:mtgtip:`Ghostly Flicker<https://img.scryfall.com/cards/border_crop/en/avr/57.jpg?1517813031|https://scryfall.com/card/avr/57/ghostly-flicker?utm_source=api>`
+:mtgtip:`Ghostly Flicker<https://img.scryfall.com/cards/border_crop/front/f/0/f0a44373-0c50-4e14-a7c6-0de66796b81e.jpg?1561892268|https://scryfall.com/card/avr/57/ghostly-flicker?utm_source=api>`
    Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.
 
 
-:mtgtip:`Ghostly Touch<https://img.scryfall.com/cards/border_crop/en/avr/58.jpg?1517813031|https://scryfall.com/card/avr/58/ghostly-touch?utm_source=api>`
+:mtgtip:`Ghostly Touch<https://img.scryfall.com/cards/border_crop/front/3/e/3ebae54a-47e0-4e82-8a29-b5d9354a748b.jpg?1561864174|https://scryfall.com/card/avr/58/ghostly-touch?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "Whenever this creature attacks, you may tap or untap target permanent."
 
 
-:mtgtip:`Gryff Vanguard<https://img.scryfall.com/cards/border_crop/en/avr/59.jpg?1517813031|https://scryfall.com/card/avr/59/gryff-vanguard?utm_source=api>`
+:mtgtip:`Gryff Vanguard<https://img.scryfall.com/cards/border_crop/front/b/7/b7238136-c8de-4949-9b54-ff75094e0569.jpg?1561882742|https://scryfall.com/card/avr/59/gryff-vanguard?utm_source=api>`
    Flying
 
    When Gryff Vanguard enters the battlefield, draw a card.
 
 
-:mtgtip:`Havengul Skaab<https://img.scryfall.com/cards/border_crop/en/avr/60.jpg?1517813031|https://scryfall.com/card/avr/60/havengul-skaab?utm_source=api>`
+:mtgtip:`Havengul Skaab<https://img.scryfall.com/cards/border_crop/front/4/c/4c7ff97f-fb06-4a61-98cd-50965a6522d4.jpg?1561866139|https://scryfall.com/card/avr/60/havengul-skaab?utm_source=api>`
    Whenever Havengul Skaab attacks, return another creature you control to its owner's hand.
 
 
-:mtgtip:`Infinite Reflection<https://img.scryfall.com/cards/border_crop/en/avr/61.jpg?1517813031|https://scryfall.com/card/avr/61/infinite-reflection?utm_source=api>`
+:mtgtip:`Infinite Reflection<https://img.scryfall.com/cards/border_crop/front/4/2/42506c54-e9bf-4d0f-8dd5-8b218668c925.jpg?1561864684|https://scryfall.com/card/avr/61/infinite-reflection?utm_source=api>`
    Enchant creature
 
    When Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature.
@@ -323,67 +323,67 @@
    Nontoken creatures you control enter the battlefield as a copy of enchanted creature.
 
 
-:mtgtip:`Into the Void<https://img.scryfall.com/cards/border_crop/en/avr/62.jpg?1517813031|https://scryfall.com/card/avr/62/into-the-void?utm_source=api>`
+:mtgtip:`Into the Void<https://img.scryfall.com/cards/border_crop/front/5/d/5ddd1050-8abd-4dfe-9e52-5b56af358653.jpg?1561868760|https://scryfall.com/card/avr/62/into-the-void?utm_source=api>`
    Return up to two target creatures to their owners' hands.
 
 
-:mtgtip:`Latch Seeker<https://img.scryfall.com/cards/border_crop/en/avr/63.jpg?1517813031|https://scryfall.com/card/avr/63/latch-seeker?utm_source=api>`
+:mtgtip:`Latch Seeker<https://img.scryfall.com/cards/border_crop/front/3/e/3e4e7589-9cee-4d57-8648-ce733781bfb2.jpg?1561864149|https://scryfall.com/card/avr/63/latch-seeker?utm_source=api>`
    Latch Seeker can't be blocked.
 
 
-:mtgtip:`Lone Revenant<https://img.scryfall.com/cards/border_crop/en/avr/64.jpg?1517813031|https://scryfall.com/card/avr/64/lone-revenant?utm_source=api>`
+:mtgtip:`Lone Revenant<https://img.scryfall.com/cards/border_crop/front/2/e/2e12186e-9c93-4136-9ea3-e8d2ae1ee2e5.jpg?1561861593|https://scryfall.com/card/avr/64/lone-revenant?utm_source=api>`
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 
    Whenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Lunar Mystic<https://img.scryfall.com/cards/border_crop/en/avr/65.jpg?1517813031|https://scryfall.com/card/avr/65/lunar-mystic?utm_source=api>`
+:mtgtip:`Lunar Mystic<https://img.scryfall.com/cards/border_crop/front/f/3/f346d236-528c-4164-9995-74cdc56597a9.jpg?1561892511|https://scryfall.com/card/avr/65/lunar-mystic?utm_source=api>`
    Whenever you cast an instant spell, you may pay |mana_1|. If you do, draw a card.
 
 
-:mtgtip:`Mass Appeal<https://img.scryfall.com/cards/border_crop/en/avr/66.jpg?1517813031|https://scryfall.com/card/avr/66/mass-appeal?utm_source=api>`
+:mtgtip:`Mass Appeal<https://img.scryfall.com/cards/border_crop/front/d/f/dfe9ae51-fd2b-45ca-a780-725f51f897b2.jpg?1561889423|https://scryfall.com/card/avr/66/mass-appeal?utm_source=api>`
    Draw a card for each Human you control.
 
 
-:mtgtip:`Mist Raven<https://img.scryfall.com/cards/border_crop/en/avr/67.jpg?1517813031|https://scryfall.com/card/avr/67/mist-raven?utm_source=api>`
+:mtgtip:`Mist Raven<https://img.scryfall.com/cards/border_crop/front/0/d/0d98f0c4-021a-407a-8b0c-5500d804f959.jpg?1561856505|https://scryfall.com/card/avr/67/mist-raven?utm_source=api>`
    Flying
 
    When Mist Raven enters the battlefield, return target creature to its owner's hand.
 
 
-:mtgtip:`Misthollow Griffin<https://img.scryfall.com/cards/border_crop/en/avr/68.jpg?1517813031|https://scryfall.com/card/avr/68/misthollow-griffin?utm_source=api>`
+:mtgtip:`Misthollow Griffin<https://img.scryfall.com/cards/border_crop/front/2/d/2db4fe28-e580-479b-910f-b719d69468b1.jpg?1561861573|https://scryfall.com/card/avr/68/misthollow-griffin?utm_source=api>`
    Flying
 
    You may cast Misthollow Griffin from exile.
 
 
-:mtgtip:`Nephalia Smuggler<https://img.scryfall.com/cards/border_crop/en/avr/69.jpg?1517813031|https://scryfall.com/card/avr/69/nephalia-smuggler?utm_source=api>`
+:mtgtip:`Nephalia Smuggler<https://img.scryfall.com/cards/border_crop/front/1/a/1a531b2f-2a9e-4cc9-aea6-9dce239f5511.jpg?1561858878|https://scryfall.com/card/avr/69/nephalia-smuggler?utm_source=api>`
    |mana_3|\ |mana_u|, |tap|: Exile another target creature you control, then return that card to the battlefield under your control.
 
 
-:mtgtip:`Outwit<https://img.scryfall.com/cards/border_crop/en/avr/70.jpg?1517813031|https://scryfall.com/card/avr/70/outwit?utm_source=api>`
+:mtgtip:`Outwit<https://img.scryfall.com/cards/border_crop/front/4/2/429f7cf0-579a-4003-b5cf-4baf5d420796.jpg?1561864692|https://scryfall.com/card/avr/70/outwit?utm_source=api>`
    Counter target spell that targets a player.
 
 
-:mtgtip:`Peel from Reality<https://img.scryfall.com/cards/border_crop/en/avr/71.jpg?1517813031|https://scryfall.com/card/avr/71/peel-from-reality?utm_source=api>`
+:mtgtip:`Peel from Reality<https://img.scryfall.com/cards/border_crop/front/7/f/7f41285b-5961-4653-96a0-fb6d27111390.jpg?1561873765|https://scryfall.com/card/avr/71/peel-from-reality?utm_source=api>`
    Return target creature you control and target creature you don't control to their owners' hands.
 
 
-:mtgtip:`Rotcrown Ghoul<https://img.scryfall.com/cards/border_crop/en/avr/72.jpg?1517813031|https://scryfall.com/card/avr/72/rotcrown-ghoul?utm_source=api>`
+:mtgtip:`Rotcrown Ghoul<https://img.scryfall.com/cards/border_crop/front/f/1/f13b5ba6-0de1-4f5c-867b-57e2c10bde8e.jpg?1561892285|https://scryfall.com/card/avr/72/rotcrown-ghoul?utm_source=api>`
    When Rotcrown Ghoul dies, target player puts the top five cards of their library into their graveyard.
 
 
-:mtgtip:`Scrapskin Drake<https://img.scryfall.com/cards/border_crop/en/avr/73.jpg?1517813031|https://scryfall.com/card/avr/73/scrapskin-drake?utm_source=api>`
+:mtgtip:`Scrapskin Drake<https://img.scryfall.com/cards/border_crop/front/c/9/c9f03bae-1d23-43ea-9079-4b09d61bbadd.jpg?1561886238|https://scryfall.com/card/avr/73/scrapskin-drake?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    Scrapskin Drake can block only creatures with flying.
 
 
-:mtgtip:`Second Guess<https://img.scryfall.com/cards/border_crop/en/avr/74.jpg?1517813031|https://scryfall.com/card/avr/74/second-guess?utm_source=api>`
+:mtgtip:`Second Guess<https://img.scryfall.com/cards/border_crop/front/0/d/0d22d093-8e89-4d54-ac04-14c8759de3ea.jpg?1561856504|https://scryfall.com/card/avr/74/second-guess?utm_source=api>`
    Counter target spell that's the second spell cast this turn.
 
 
-:mtgtip:`Spectral Prison<https://img.scryfall.com/cards/border_crop/en/avr/75.jpg?1517813031|https://scryfall.com/card/avr/75/spectral-prison?utm_source=api>`
+:mtgtip:`Spectral Prison<https://img.scryfall.com/cards/border_crop/front/8/9/89d141bc-7307-40c2-a7ed-427caaec5efc.jpg?1561875452|https://scryfall.com/card/avr/75/spectral-prison?utm_source=api>`
    Enchant creature
 
    Enchanted creature doesn't untap during its controller's untap step.
@@ -391,7 +391,7 @@
    When enchanted creature becomes the target of a spell, sacrifice Spectral Prison.
 
 
-:mtgtip:`Spirit Away<https://img.scryfall.com/cards/border_crop/en/avr/76.jpg?1517813031|https://scryfall.com/card/avr/76/spirit-away?utm_source=api>`
+:mtgtip:`Spirit Away<https://img.scryfall.com/cards/border_crop/front/d/8/d8823bdc-0467-47f1-9bef-a281b4a7071d.jpg?1561888270|https://scryfall.com/card/avr/76/spirit-away?utm_source=api>`
    Enchant creature
 
    You control enchanted creature.
@@ -399,17 +399,17 @@
    Enchanted creature gets +2/+2 and has flying.
 
 
-:mtgtip:`Stern Mentor<https://img.scryfall.com/cards/border_crop/en/avr/77.jpg?1517813031|https://scryfall.com/card/avr/77/stern-mentor?utm_source=api>`
+:mtgtip:`Stern Mentor<https://img.scryfall.com/cards/border_crop/front/f/f/ffe4d34f-68f0-4d79-9aab-58c5304224d9.jpg?1561894878|https://scryfall.com/card/avr/77/stern-mentor?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Stern Mentor is paired with another creature, each of those creatures has "|tap|: Target player puts the top two cards of their library into their graveyard."
 
 
-:mtgtip:`Stolen Goods<https://img.scryfall.com/cards/border_crop/en/avr/78.jpg?1517813031|https://scryfall.com/card/avr/78/stolen-goods?utm_source=api>`
+:mtgtip:`Stolen Goods<https://img.scryfall.com/cards/border_crop/front/5/3/53203dfc-5ad5-4c17-9802-ca2f874d327a.jpg?1561867150|https://scryfall.com/card/avr/78/stolen-goods?utm_source=api>`
    Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
 
 
-:mtgtip:`Tamiyo, the Moon Sage<https://img.scryfall.com/cards/border_crop/en/avr/79.jpg?1517813031|https://scryfall.com/card/avr/79/tamiyo-the-moon-sage?utm_source=api>`
+:mtgtip:`Tamiyo, the Moon Sage<https://img.scryfall.com/cards/border_crop/front/b/9/b9398926-13b9-47b8-b66b-1ab9d06bb704.jpg?1561883194|https://scryfall.com/card/avr/79/tamiyo-the-moon-sage?utm_source=api>`
    +1: Tap target permanent. It doesn't untap during its controller's next untap step.
 
    −2: Draw a card for each tapped creature target player controls.
@@ -417,85 +417,85 @@
    −8: You get an emblem with "You have no maximum hand size" and "Whenever a card is put into your graveyard from anywhere, you may return it to your hand."
 
 
-:mtgtip:`Tandem Lookout<https://img.scryfall.com/cards/border_crop/en/avr/80.jpg?1517813031|https://scryfall.com/card/avr/80/tandem-lookout?utm_source=api>`
+:mtgtip:`Tandem Lookout<https://img.scryfall.com/cards/border_crop/front/8/3/83564e67-2677-4955-a3b9-3b221dbb100b.jpg?1561874325|https://scryfall.com/card/avr/80/tandem-lookout?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Tandem Lookout is paired with another creature, each of those creatures has "Whenever this creature deals damage to an opponent, draw a card."
 
 
-:mtgtip:`Temporal Mastery<https://img.scryfall.com/cards/border_crop/en/avr/81.jpg?1517813031|https://scryfall.com/card/avr/81/temporal-mastery?utm_source=api>`
+:mtgtip:`Temporal Mastery<https://img.scryfall.com/cards/border_crop/front/2/6/266e5267-2288-4bb0-8c54-0c556521cec3.jpg?1561860568|https://scryfall.com/card/avr/81/temporal-mastery?utm_source=api>`
    Take an extra turn after this one. Exile Temporal Mastery.
 
    Miracle |mana_1|\ |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Vanishment<https://img.scryfall.com/cards/border_crop/en/avr/82.jpg?1517813031|https://scryfall.com/card/avr/82/vanishment?utm_source=api>`
+:mtgtip:`Vanishment<https://img.scryfall.com/cards/border_crop/front/d/e/dece40c1-790c-4471-a790-1d356b345603.jpg?1561889355|https://scryfall.com/card/avr/82/vanishment?utm_source=api>`
    Put target nonland permanent on top of its owner's library.
 
    Miracle |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Wingcrafter<https://img.scryfall.com/cards/border_crop/en/avr/83.jpg?1517813031|https://scryfall.com/card/avr/83/wingcrafter?utm_source=api>`
+:mtgtip:`Wingcrafter<https://img.scryfall.com/cards/border_crop/front/0/4/04a3059f-92f2-4163-b79a-154118a4e36d.jpg?1561855320|https://scryfall.com/card/avr/83/wingcrafter?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Wingcrafter is paired with another creature, both creatures have flying.
 
 
-:mtgtip:`Appetite for Brains<https://img.scryfall.com/cards/border_crop/en/avr/84.jpg?1517813031|https://scryfall.com/card/avr/84/appetite-for-brains?utm_source=api>`
+:mtgtip:`Appetite for Brains<https://img.scryfall.com/cards/border_crop/front/0/6/062ee892-cce7-42bd-97c7-032cec61faca.jpg?1561855389|https://scryfall.com/card/avr/84/appetite-for-brains?utm_source=api>`
    Target opponent reveals their hand. You choose a card from it with converted mana cost 4 or greater and exile that card.
 
 
-:mtgtip:`Barter in Blood<https://img.scryfall.com/cards/border_crop/en/avr/85.jpg?1517813031|https://scryfall.com/card/avr/85/barter-in-blood?utm_source=api>`
+:mtgtip:`Barter in Blood<https://img.scryfall.com/cards/border_crop/front/3/9/39b4fab6-73ce-4a56-a305-4d2e93dbb4ee.jpg?1561863492|https://scryfall.com/card/avr/85/barter-in-blood?utm_source=api>`
    Each player sacrifices two creatures.
 
 
-:mtgtip:`Blood Artist<https://img.scryfall.com/cards/border_crop/en/avr/86.jpg?1517813031|https://scryfall.com/card/avr/86/blood-artist?utm_source=api>`
+:mtgtip:`Blood Artist<https://img.scryfall.com/cards/border_crop/front/2/e/2e1fb442-68ff-4249-8e44-87edf6fae211.jpg?1561861595|https://scryfall.com/card/avr/86/blood-artist?utm_source=api>`
    Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.
 
 
-:mtgtip:`Bloodflow Connoisseur<https://img.scryfall.com/cards/border_crop/en/avr/87.jpg?1517813031|https://scryfall.com/card/avr/87/bloodflow-connoisseur?utm_source=api>`
+:mtgtip:`Bloodflow Connoisseur<https://img.scryfall.com/cards/border_crop/front/9/7/97485dbf-2f31-4ed2-a6cd-529ca22c9ac5.jpg?1561877881|https://scryfall.com/card/avr/87/bloodflow-connoisseur?utm_source=api>`
    Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.
 
 
-:mtgtip:`Bone Splinters<https://img.scryfall.com/cards/border_crop/en/avr/88.jpg?1517813031|https://scryfall.com/card/avr/88/bone-splinters?utm_source=api>`
+:mtgtip:`Bone Splinters<https://img.scryfall.com/cards/border_crop/front/3/8/387eda28-f35b-48b0-ba59-773d82902327.jpg?1561863433|https://scryfall.com/card/avr/88/bone-splinters?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Destroy target creature.
 
 
-:mtgtip:`Butcher Ghoul<https://img.scryfall.com/cards/border_crop/en/avr/89.jpg?1517813031|https://scryfall.com/card/avr/89/butcher-ghoul?utm_source=api>`
+:mtgtip:`Butcher Ghoul<https://img.scryfall.com/cards/border_crop/front/4/4/44a91e62-e946-4101-8cef-d1c147caebf2.jpg?1561865099|https://scryfall.com/card/avr/89/butcher-ghoul?utm_source=api>`
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-:mtgtip:`Corpse Traders<https://img.scryfall.com/cards/border_crop/en/avr/90.jpg?1517813031|https://scryfall.com/card/avr/90/corpse-traders?utm_source=api>`
+:mtgtip:`Corpse Traders<https://img.scryfall.com/cards/border_crop/front/d/f/df3eed10-7a8f-4c89-8be8-389f979e10b7.jpg?1561889390|https://scryfall.com/card/avr/90/corpse-traders?utm_source=api>`
    |mana_2|\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
 
 
-:mtgtip:`Crypt Creeper<https://img.scryfall.com/cards/border_crop/en/avr/91.jpg?1517813031|https://scryfall.com/card/avr/91/crypt-creeper?utm_source=api>`
+:mtgtip:`Crypt Creeper<https://img.scryfall.com/cards/border_crop/front/0/3/0382cb94-0836-4e23-99b7-034faa363203.jpg?1561854891|https://scryfall.com/card/avr/91/crypt-creeper?utm_source=api>`
    Sacrifice Crypt Creeper: Exile target card from a graveyard.
 
 
-:mtgtip:`Dark Impostor<https://img.scryfall.com/cards/border_crop/en/avr/92.jpg?1517813031|https://scryfall.com/card/avr/92/dark-impostor?utm_source=api>`
+:mtgtip:`Dark Impostor<https://img.scryfall.com/cards/border_crop/front/8/f/8f5e8815-cda8-407d-847c-968b72c061e8.jpg?1561876432|https://scryfall.com/card/avr/92/dark-impostor?utm_source=api>`
    |mana_4|\ |mana_b|\ |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor.
 
    Dark Impostor has all activated abilities of all creature cards exiled with it.
 
 
-:mtgtip:`Death Wind<https://img.scryfall.com/cards/border_crop/en/avr/93.jpg?1517813031|https://scryfall.com/card/avr/93/death-wind?utm_source=api>`
+:mtgtip:`Death Wind<https://img.scryfall.com/cards/border_crop/front/4/6/462a0961-cca5-4d63-867f-7426dbef8639.jpg?1561865167|https://scryfall.com/card/avr/93/death-wind?utm_source=api>`
    Target creature gets -X/-X until end of turn.
 
 
-:mtgtip:`Demonic Rising<https://img.scryfall.com/cards/border_crop/en/avr/94.jpg?1517813031|https://scryfall.com/card/avr/94/demonic-rising?utm_source=api>`
+:mtgtip:`Demonic Rising<https://img.scryfall.com/cards/border_crop/front/a/2/a2136a82-b535-47f6-9eee-5b7585ac5cf1.jpg?1561879554|https://scryfall.com/card/avr/94/demonic-rising?utm_source=api>`
    At the beginning of your end step, if you control exactly one creature, create a 5/5 black Demon creature token with flying.
 
 
-:mtgtip:`Demonic Taskmaster<https://img.scryfall.com/cards/border_crop/en/avr/95.jpg?1517813031|https://scryfall.com/card/avr/95/demonic-taskmaster?utm_source=api>`
+:mtgtip:`Demonic Taskmaster<https://img.scryfall.com/cards/border_crop/front/f/b/fb5d6266-30a7-4360-84bc-22b52fb782b3.jpg?1561893973|https://scryfall.com/card/avr/95/demonic-taskmaster?utm_source=api>`
    Flying
 
    At the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.
 
 
-:mtgtip:`Demonlord of Ashmouth<https://img.scryfall.com/cards/border_crop/en/avr/96.jpg?1517813031|https://scryfall.com/card/avr/96/demonlord-of-ashmouth?utm_source=api>`
+:mtgtip:`Demonlord of Ashmouth<https://img.scryfall.com/cards/border_crop/front/7/8/785da9a3-09af-45aa-bc04-4ab69cfb2ba4.jpg?1561872341|https://scryfall.com/card/avr/96/demonlord-of-ashmouth?utm_source=api>`
    Flying
 
    When Demonlord of Ashmouth enters the battlefield, exile it unless you sacrifice another creature.
@@ -503,97 +503,97 @@
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-:mtgtip:`Descent into Madness<https://img.scryfall.com/cards/border_crop/en/avr/97.jpg?1517813031|https://scryfall.com/card/avr/97/descent-into-madness?utm_source=api>`
+:mtgtip:`Descent into Madness<https://img.scryfall.com/cards/border_crop/front/f/a/fa016bb7-ad8b-40d5-90db-412a9cf19e4e.jpg?1561893893|https://scryfall.com/card/avr/97/descent-into-madness?utm_source=api>`
    At the beginning of your upkeep, put a despair counter on Descent into Madness, then each player exiles X permanents they control and/or cards from their hand, where X is the number of despair counters on Descent into Madness.
 
 
-:mtgtip:`Dread Slaver<https://img.scryfall.com/cards/border_crop/en/avr/98.jpg?1517813031|https://scryfall.com/card/avr/98/dread-slaver?utm_source=api>`
+:mtgtip:`Dread Slaver<https://img.scryfall.com/cards/border_crop/front/3/d/3d8a3abd-a4a2-48e6-b709-1c0240a76c5e.jpg?1561863786|https://scryfall.com/card/avr/98/dread-slaver?utm_source=api>`
    Whenever a creature dealt damage by Dread Slaver this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
 
 
-:mtgtip:`Driver of the Dead<https://img.scryfall.com/cards/border_crop/en/avr/99.jpg?1517813031|https://scryfall.com/card/avr/99/driver-of-the-dead?utm_source=api>`
+:mtgtip:`Driver of the Dead<https://img.scryfall.com/cards/border_crop/front/5/6/56113cde-4210-46be-bd53-8966c36ef2a3.jpg?1561867743|https://scryfall.com/card/avr/99/driver-of-the-dead?utm_source=api>`
    When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
 
 
-:mtgtip:`Essence Harvest<https://img.scryfall.com/cards/border_crop/en/avr/100.jpg?1517813031|https://scryfall.com/card/avr/100/essence-harvest?utm_source=api>`
+:mtgtip:`Essence Harvest<https://img.scryfall.com/cards/border_crop/front/7/c/7c3fac03-a019-4faa-bc1c-09e3a394fff7.jpg?1561873278|https://scryfall.com/card/avr/100/essence-harvest?utm_source=api>`
    Target player loses X life and you gain X life, where X is the greatest power among creatures you control.
 
 
-:mtgtip:`Evernight Shade<https://img.scryfall.com/cards/border_crop/en/avr/101.jpg?1517813031|https://scryfall.com/card/avr/101/evernight-shade?utm_source=api>`
+:mtgtip:`Evernight Shade<https://img.scryfall.com/cards/border_crop/front/1/0/1091fadf-97c4-4f87-8466-6a1246a72226.jpg?1561856980|https://scryfall.com/card/avr/101/evernight-shade?utm_source=api>`
    |mana_b|: Evernight Shade gets +1/+1 until end of turn.
 
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-:mtgtip:`Exquisite Blood<https://img.scryfall.com/cards/border_crop/en/avr/102.jpg?1517813031|https://scryfall.com/card/avr/102/exquisite-blood?utm_source=api>`
+:mtgtip:`Exquisite Blood<https://img.scryfall.com/cards/border_crop/front/4/c/4cd54279-57f5-4cd9-b524-4f094bd2fc36.jpg?1561866161|https://scryfall.com/card/avr/102/exquisite-blood?utm_source=api>`
    Whenever an opponent loses life, you gain that much life.
 
 
-:mtgtip:`Ghoulflesh<https://img.scryfall.com/cards/border_crop/en/avr/103.jpg?1517813031|https://scryfall.com/card/avr/103/ghoulflesh?utm_source=api>`
+:mtgtip:`Ghoulflesh<https://img.scryfall.com/cards/border_crop/front/2/e/2eed3d1b-3142-437c-99e9-85ba76e23e6d.jpg?1561861977|https://scryfall.com/card/avr/103/ghoulflesh?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.
 
 
-:mtgtip:`Gloom Surgeon<https://img.scryfall.com/cards/border_crop/en/avr/104.jpg?1517813031|https://scryfall.com/card/avr/104/gloom-surgeon?utm_source=api>`
+:mtgtip:`Gloom Surgeon<https://img.scryfall.com/cards/border_crop/front/1/b/1b00c711-007d-4c85-9dd9-dd9d52f1649d.jpg?1561858899|https://scryfall.com/card/avr/104/gloom-surgeon?utm_source=api>`
    If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.
 
 
-:mtgtip:`Grave Exchange<https://img.scryfall.com/cards/border_crop/en/avr/105.jpg?1517813031|https://scryfall.com/card/avr/105/grave-exchange?utm_source=api>`
+:mtgtip:`Grave Exchange<https://img.scryfall.com/cards/border_crop/front/1/4/14f420c4-801b-48e7-a10b-de44a2417265.jpg?1561857901|https://scryfall.com/card/avr/105/grave-exchange?utm_source=api>`
    Return target creature card from your graveyard to your hand. Target player sacrifices a creature.
 
 
-:mtgtip:`Griselbrand<https://img.scryfall.com/cards/border_crop/en/avr/106.jpg?1517813031|https://scryfall.com/card/avr/106/griselbrand?utm_source=api>`
+:mtgtip:`Griselbrand<https://img.scryfall.com/cards/border_crop/front/b/5/b51666ae-2aef-4cb1-9cd4-44aec81530f8.jpg?1561882662|https://scryfall.com/card/avr/106/griselbrand?utm_source=api>`
    Flying, lifelink
 
    Pay 7 life: Draw seven cards.
 
 
-:mtgtip:`Harvester of Souls<https://img.scryfall.com/cards/border_crop/en/avr/107.jpg?1517813031|https://scryfall.com/card/avr/107/harvester-of-souls?utm_source=api>`
+:mtgtip:`Harvester of Souls<https://img.scryfall.com/cards/border_crop/front/5/0/505c0d25-dc1f-402e-9183-01c273efe0e1.jpg?1561866659|https://scryfall.com/card/avr/107/harvester-of-souls?utm_source=api>`
    Deathtouch
 
    Whenever another nontoken creature dies, you may draw a card.
 
 
-:mtgtip:`Homicidal Seclusion<https://img.scryfall.com/cards/border_crop/en/avr/108.jpg?1517813031|https://scryfall.com/card/avr/108/homicidal-seclusion?utm_source=api>`
+:mtgtip:`Homicidal Seclusion<https://img.scryfall.com/cards/border_crop/front/0/2/022960a1-8223-4b83-aea2-85359c39f3b8.jpg?1561854837|https://scryfall.com/card/avr/108/homicidal-seclusion?utm_source=api>`
    As long as you control exactly one creature, that creature gets +3/+1 and has lifelink.
 
 
-:mtgtip:`Human Frailty<https://img.scryfall.com/cards/border_crop/en/avr/109.jpg?1517813031|https://scryfall.com/card/avr/109/human-frailty?utm_source=api>`
+:mtgtip:`Human Frailty<https://img.scryfall.com/cards/border_crop/front/1/d/1d1de712-86ac-4c03-be86-2403cd121f66.jpg?1561859340|https://scryfall.com/card/avr/109/human-frailty?utm_source=api>`
    Destroy target Human creature.
 
 
-:mtgtip:`Hunted Ghoul<https://img.scryfall.com/cards/border_crop/en/avr/110.jpg?1517813031|https://scryfall.com/card/avr/110/hunted-ghoul?utm_source=api>`
+:mtgtip:`Hunted Ghoul<https://img.scryfall.com/cards/border_crop/front/b/b/bb443cf7-70bd-4df7-b446-107e099c19e3.jpg?1561883637|https://scryfall.com/card/avr/110/hunted-ghoul?utm_source=api>`
    Hunted Ghoul can't block Humans.
 
 
-:mtgtip:`Killing Wave<https://img.scryfall.com/cards/border_crop/en/avr/111.jpg?1517813031|https://scryfall.com/card/avr/111/killing-wave?utm_source=api>`
+:mtgtip:`Killing Wave<https://img.scryfall.com/cards/border_crop/front/3/3/33de2371-175e-4f8a-9636-35f996e3cf24.jpg?1561862534|https://scryfall.com/card/avr/111/killing-wave?utm_source=api>`
    For each creature, its controller sacrifices it unless they pay X life.
 
 
-:mtgtip:`Maalfeld Twins<https://img.scryfall.com/cards/border_crop/en/avr/112.jpg?1517813031|https://scryfall.com/card/avr/112/maalfeld-twins?utm_source=api>`
+:mtgtip:`Maalfeld Twins<https://img.scryfall.com/cards/border_crop/front/c/6/c63dd203-bce9-4ab7-8a0c-059d19d384e9.jpg?1561885333|https://scryfall.com/card/avr/112/maalfeld-twins?utm_source=api>`
    When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens.
 
 
-:mtgtip:`Marrow Bats<https://img.scryfall.com/cards/border_crop/en/avr/113.jpg?1517813031|https://scryfall.com/card/avr/113/marrow-bats?utm_source=api>`
+:mtgtip:`Marrow Bats<https://img.scryfall.com/cards/border_crop/front/3/8/38dcbad0-267e-411f-8e99-5d90b537bf9b.jpg?1561863454|https://scryfall.com/card/avr/113/marrow-bats?utm_source=api>`
    Flying
 
    Pay 4 life: Regenerate Marrow Bats.
 
 
-:mtgtip:`Mental Agony<https://img.scryfall.com/cards/border_crop/en/avr/114.jpg?1517813031|https://scryfall.com/card/avr/114/mental-agony?utm_source=api>`
+:mtgtip:`Mental Agony<https://img.scryfall.com/cards/border_crop/front/4/f/4f8a1d51-aa7f-41fd-b97d-56bc48221615.jpg?1561866620|https://scryfall.com/card/avr/114/mental-agony?utm_source=api>`
    Target player discards two cards and loses 2 life.
 
 
-:mtgtip:`Necrobite<https://img.scryfall.com/cards/border_crop/en/avr/115.jpg?1517813031|https://scryfall.com/card/avr/115/necrobite?utm_source=api>`
+:mtgtip:`Necrobite<https://img.scryfall.com/cards/border_crop/front/5/2/52e59918-cf12-4d73-a4e0-31f38e792dc4.jpg?1561867119|https://scryfall.com/card/avr/115/necrobite?utm_source=api>`
    Target creature gains deathtouch until end of turn. Regenerate it. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)
 
 
-:mtgtip:`Polluted Dead<https://img.scryfall.com/cards/border_crop/en/avr/116.jpg?1517813031|https://scryfall.com/card/avr/116/polluted-dead?utm_source=api>`
+:mtgtip:`Polluted Dead<https://img.scryfall.com/cards/border_crop/front/0/3/036c1954-37d3-4787-8df8-f2d0dd39058a.jpg?1561854890|https://scryfall.com/card/avr/116/polluted-dead?utm_source=api>`
    When Polluted Dead dies, destroy target land.
 
 
-:mtgtip:`Predator's Gambit<https://img.scryfall.com/cards/border_crop/en/avr/117.jpg?1517813031|https://scryfall.com/card/avr/117/predators-gambit?utm_source=api>`
+:mtgtip:`Predator's Gambit<https://img.scryfall.com/cards/border_crop/front/8/8/88810a96-d5f8-4030-93f1-e2ad0d480317.jpg?1561875027|https://scryfall.com/card/avr/117/predators-gambit?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+1.
@@ -601,213 +601,213 @@
    Enchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
 
-:mtgtip:`Renegade Demon<https://img.scryfall.com/cards/border_crop/en/avr/118.jpg?1517813031|https://scryfall.com/card/avr/118/renegade-demon?utm_source=api>`
+:mtgtip:`Renegade Demon<https://img.scryfall.com/cards/border_crop/front/3/9/395696f8-9be2-4925-852f-b783850e1ca2.jpg?1561863476|https://scryfall.com/card/avr/118/renegade-demon?utm_source=api>`
    
 
 
-:mtgtip:`Searchlight Geist<https://img.scryfall.com/cards/border_crop/en/avr/119.jpg?1517813031|https://scryfall.com/card/avr/119/searchlight-geist?utm_source=api>`
+:mtgtip:`Searchlight Geist<https://img.scryfall.com/cards/border_crop/front/b/0/b0dc1a94-0193-464e-a481-730b34b57db5.jpg?1561881778|https://scryfall.com/card/avr/119/searchlight-geist?utm_source=api>`
    Flying
 
    |mana_3|\ |mana_b|: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
 
 
-:mtgtip:`Soulcage Fiend<https://img.scryfall.com/cards/border_crop/en/avr/120.jpg?1517813031|https://scryfall.com/card/avr/120/soulcage-fiend?utm_source=api>`
+:mtgtip:`Soulcage Fiend<https://img.scryfall.com/cards/border_crop/front/d/c/dce1b1d3-9602-42bf-b341-d96976ff1e60.jpg?1561888905|https://scryfall.com/card/avr/120/soulcage-fiend?utm_source=api>`
    When Soulcage Fiend dies, each player loses 3 life.
 
 
-:mtgtip:`Treacherous Pit-Dweller<https://img.scryfall.com/cards/border_crop/en/avr/121.jpg?1517813031|https://scryfall.com/card/avr/121/treacherous-pit-dweller?utm_source=api>`
+:mtgtip:`Treacherous Pit-Dweller<https://img.scryfall.com/cards/border_crop/front/e/e/eec7dfd7-d7b2-44fa-b351-022a19fe81b8.jpg?1561891829|https://scryfall.com/card/avr/121/treacherous-pit-dweller?utm_source=api>`
    When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it.
 
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-:mtgtip:`Triumph of Cruelty<https://img.scryfall.com/cards/border_crop/en/avr/122.jpg?1517813031|https://scryfall.com/card/avr/122/triumph-of-cruelty?utm_source=api>`
+:mtgtip:`Triumph of Cruelty<https://img.scryfall.com/cards/border_crop/front/9/0/906618e2-2638-4017-9d6e-e6f282967a81.jpg?1561876497|https://scryfall.com/card/avr/122/triumph-of-cruelty?utm_source=api>`
    At the beginning of your upkeep, target opponent discards a card if you control the creature with the greatest power or tied for the greatest power.
 
 
-:mtgtip:`Undead Executioner<https://img.scryfall.com/cards/border_crop/en/avr/123.jpg?1517813031|https://scryfall.com/card/avr/123/undead-executioner?utm_source=api>`
+:mtgtip:`Undead Executioner<https://img.scryfall.com/cards/border_crop/front/8/d/8d330058-16af-4486-aa89-b6be759e35d4.jpg?1561875942|https://scryfall.com/card/avr/123/undead-executioner?utm_source=api>`
    When Undead Executioner dies, you may have target creature get -2/-2 until end of turn.
 
 
-:mtgtip:`Unhallowed Pact<https://img.scryfall.com/cards/border_crop/en/avr/124.jpg?1517813031|https://scryfall.com/card/avr/124/unhallowed-pact?utm_source=api>`
+:mtgtip:`Unhallowed Pact<https://img.scryfall.com/cards/border_crop/front/b/2/b26d73e6-9138-43b2-8031-6e3b25fa33f9.jpg?1561882179|https://scryfall.com/card/avr/124/unhallowed-pact?utm_source=api>`
    Enchant creature
 
    When enchanted creature dies, return that card to the battlefield under your control.
 
 
-:mtgtip:`Aggravate<https://img.scryfall.com/cards/border_crop/en/avr/125.jpg?1517813031|https://scryfall.com/card/avr/125/aggravate?utm_source=api>`
+:mtgtip:`Aggravate<https://img.scryfall.com/cards/border_crop/front/9/9/999f40a7-b723-42e1-83c1-f45a72a26dd4.jpg?1561878087|https://scryfall.com/card/avr/125/aggravate?utm_source=api>`
    Aggravate deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able.
 
 
-:mtgtip:`Archwing Dragon<https://img.scryfall.com/cards/border_crop/en/avr/126.jpg?1517813031|https://scryfall.com/card/avr/126/archwing-dragon?utm_source=api>`
+:mtgtip:`Archwing Dragon<https://img.scryfall.com/cards/border_crop/front/6/c/6c6f1a8b-329e-4094-8141-6bc88311a08c.jpg?1561870744|https://scryfall.com/card/avr/126/archwing-dragon?utm_source=api>`
    Flying, haste
 
    At the beginning of the end step, return Archwing Dragon to its owner's hand.
 
 
-:mtgtip:`Banners Raised<https://img.scryfall.com/cards/border_crop/en/avr/127.jpg?1517813031|https://scryfall.com/card/avr/127/banners-raised?utm_source=api>`
+:mtgtip:`Banners Raised<https://img.scryfall.com/cards/border_crop/front/a/7/a7792df3-e2ab-4e60-abee-f24b72807107.jpg?1561880518|https://scryfall.com/card/avr/127/banners-raised?utm_source=api>`
    Creatures you control get +1/+0 until end of turn.
 
 
-:mtgtip:`Battle Hymn<https://img.scryfall.com/cards/border_crop/en/avr/128.jpg?1517813031|https://scryfall.com/card/avr/128/battle-hymn?utm_source=api>`
+:mtgtip:`Battle Hymn<https://img.scryfall.com/cards/border_crop/front/4/3/43b5d46e-7054-44f8-9a14-b412f2f0ab86.jpg?1561864718|https://scryfall.com/card/avr/128/battle-hymn?utm_source=api>`
    Add |mana_r| for each creature you control.
 
 
-:mtgtip:`Bonfire of the Damned<https://img.scryfall.com/cards/border_crop/en/avr/129.jpg?1517813031|https://scryfall.com/card/avr/129/bonfire-of-the-damned?utm_source=api>`
+:mtgtip:`Bonfire of the Damned<https://img.scryfall.com/cards/border_crop/front/e/6/e60610fe-891d-46de-b556-d03b637dccec.jpg?1561890377|https://scryfall.com/card/avr/129/bonfire-of-the-damned?utm_source=api>`
    Bonfire of the Damned deals X damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.
 
    Miracle |mana_x|\ |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Burn at the Stake<https://img.scryfall.com/cards/border_crop/en/avr/130.jpg?1517813031|https://scryfall.com/card/avr/130/burn-at-the-stake?utm_source=api>`
+:mtgtip:`Burn at the Stake<https://img.scryfall.com/cards/border_crop/front/d/4/d46e9902-81fb-4a3c-9f2f-d3faf031631d.jpg?1561887725|https://scryfall.com/card/avr/130/burn-at-the-stake?utm_source=api>`
    As an additional cost to cast this spell, tap any number of untapped creatures you control.
 
    Burn at the Stake deals damage to any target equal to three times the number of creatures tapped this way.
 
 
-:mtgtip:`Dangerous Wager<https://img.scryfall.com/cards/border_crop/en/avr/131.jpg?1517813031|https://scryfall.com/card/avr/131/dangerous-wager?utm_source=api>`
+:mtgtip:`Dangerous Wager<https://img.scryfall.com/cards/border_crop/front/6/3/636c4042-703f-4548-9a0f-cb550c468bf9.jpg?1561869669|https://scryfall.com/card/avr/131/dangerous-wager?utm_source=api>`
    Discard your hand, then draw two cards.
 
 
-:mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/en/avr/132.jpg?1517813031|https://scryfall.com/card/avr/132/demolish?utm_source=api>`
+:mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/front/4/6/4657aa15-8274-4bd7-afe4-504693064373.jpg?1561865178|https://scryfall.com/card/avr/132/demolish?utm_source=api>`
    Destroy target artifact or land.
 
 
-:mtgtip:`Dual Casting<https://img.scryfall.com/cards/border_crop/en/avr/133.jpg?1517813031|https://scryfall.com/card/avr/133/dual-casting?utm_source=api>`
+:mtgtip:`Dual Casting<https://img.scryfall.com/cards/border_crop/front/7/a/7aa45bfd-7075-470d-8aaa-16e34109eb5a.jpg?1561872841|https://scryfall.com/card/avr/133/dual-casting?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "|mana_r|, |tap|: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
 
 
-:mtgtip:`Falkenrath Exterminator<https://img.scryfall.com/cards/border_crop/en/avr/134.jpg?1517813031|https://scryfall.com/card/avr/134/falkenrath-exterminator?utm_source=api>`
+:mtgtip:`Falkenrath Exterminator<https://img.scryfall.com/cards/border_crop/front/4/0/40e23909-7e08-4686-ae59-e18e7d4cfd3c.jpg?1561864622|https://scryfall.com/card/avr/134/falkenrath-exterminator?utm_source=api>`
    Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.
 
    |mana_2|\ |mana_r|: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.
 
 
-:mtgtip:`Fervent Cathar<https://img.scryfall.com/cards/border_crop/en/avr/135.jpg?1517813031|https://scryfall.com/card/avr/135/fervent-cathar?utm_source=api>`
+:mtgtip:`Fervent Cathar<https://img.scryfall.com/cards/border_crop/front/0/f/0fceeb14-a22a-4ab6-9e6d-ba375b6865c0.jpg?1561856933|https://scryfall.com/card/avr/135/fervent-cathar?utm_source=api>`
    Haste
 
    When Fervent Cathar enters the battlefield, target creature can't block this turn.
 
 
-:mtgtip:`Gang of Devils<https://img.scryfall.com/cards/border_crop/en/avr/136.jpg?1517813031|https://scryfall.com/card/avr/136/gang-of-devils?utm_source=api>`
+:mtgtip:`Gang of Devils<https://img.scryfall.com/cards/border_crop/front/0/4/0430b9fa-3bc6-4183-ad5b-d70ad401fa97.jpg?1561855295|https://scryfall.com/card/avr/136/gang-of-devils?utm_source=api>`
    When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three targets.
 
 
-:mtgtip:`Guise of Fire<https://img.scryfall.com/cards/border_crop/en/avr/137.jpg?1517813031|https://scryfall.com/card/avr/137/guise-of-fire?utm_source=api>`
+:mtgtip:`Guise of Fire<https://img.scryfall.com/cards/border_crop/front/b/e/beb10d42-fa19-400c-bad8-ec3827f077bc.jpg?1561884144|https://scryfall.com/card/avr/137/guise-of-fire?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/-1 and attacks each combat if able.
 
 
-:mtgtip:`Hanweir Lancer<https://img.scryfall.com/cards/border_crop/en/avr/138.jpg?1517813031|https://scryfall.com/card/avr/138/hanweir-lancer?utm_source=api>`
+:mtgtip:`Hanweir Lancer<https://img.scryfall.com/cards/border_crop/front/7/3/73884fd1-5be9-4ad5-8c72-c0fbe27ad4c1.jpg?1561871813|https://scryfall.com/card/avr/138/hanweir-lancer?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Hanweir Lancer is paired with another creature, both creatures have first strike.
 
 
-:mtgtip:`Havengul Vampire<https://img.scryfall.com/cards/border_crop/en/avr/139.jpg?1517813031|https://scryfall.com/card/avr/139/havengul-vampire?utm_source=api>`
+:mtgtip:`Havengul Vampire<https://img.scryfall.com/cards/border_crop/front/c/b/cbc09839-1463-40b8-86bd-fb96797b2633.jpg?1561886352|https://scryfall.com/card/avr/139/havengul-vampire?utm_source=api>`
    Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.
 
    Whenever another creature dies, put a +1/+1 counter on Havengul Vampire.
 
 
-:mtgtip:`Heirs of Stromkirk<https://img.scryfall.com/cards/border_crop/en/avr/140.jpg?1517813031|https://scryfall.com/card/avr/140/heirs-of-stromkirk?utm_source=api>`
+:mtgtip:`Heirs of Stromkirk<https://img.scryfall.com/cards/border_crop/front/f/f/ff89ad3b-b154-49e2-a0fd-135279512250.jpg?1561894862|https://scryfall.com/card/avr/140/heirs-of-stromkirk?utm_source=api>`
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
    Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it.
 
 
-:mtgtip:`Hound of Griselbrand<https://img.scryfall.com/cards/border_crop/en/avr/141.jpg?1517813031|https://scryfall.com/card/avr/141/hound-of-griselbrand?utm_source=api>`
+:mtgtip:`Hound of Griselbrand<https://img.scryfall.com/cards/border_crop/front/0/f/0fe68bce-6207-4fd1-9e82-a18fd2d6ddca.jpg?1561856940|https://scryfall.com/card/avr/141/hound-of-griselbrand?utm_source=api>`
    Double strike
 
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-:mtgtip:`Kessig Malcontents<https://img.scryfall.com/cards/border_crop/en/avr/142.jpg?1517813031|https://scryfall.com/card/avr/142/kessig-malcontents?utm_source=api>`
+:mtgtip:`Kessig Malcontents<https://img.scryfall.com/cards/border_crop/front/d/c/dce9a30f-a850-4826-a255-ce511d567b60.jpg?1561888907|https://scryfall.com/card/avr/142/kessig-malcontents?utm_source=api>`
    When Kessig Malcontents enters the battlefield, it deals damage to target player or planeswalker equal to the number of Humans you control.
 
 
-:mtgtip:`Kruin Striker<https://img.scryfall.com/cards/border_crop/en/avr/143.jpg?1517813031|https://scryfall.com/card/avr/143/kruin-striker?utm_source=api>`
+:mtgtip:`Kruin Striker<https://img.scryfall.com/cards/border_crop/front/7/3/73e72249-84ea-4e9c-9f64-b67b02ffdf3a.jpg?1561871814|https://scryfall.com/card/avr/143/kruin-striker?utm_source=api>`
    Whenever another creature enters the battlefield under your control, Kruin Striker gets +1/+0 and gains trample until end of turn.
 
 
-:mtgtip:`Lightning Mauler<https://img.scryfall.com/cards/border_crop/en/avr/144.jpg?1517813031|https://scryfall.com/card/avr/144/lightning-mauler?utm_source=api>`
+:mtgtip:`Lightning Mauler<https://img.scryfall.com/cards/border_crop/front/2/4/241cc968-b93e-4fe3-a66d-7776d29aa023.jpg?1561860097|https://scryfall.com/card/avr/144/lightning-mauler?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Lightning Mauler is paired with another creature, both creatures have haste.
 
 
-:mtgtip:`Lightning Prowess<https://img.scryfall.com/cards/border_crop/en/avr/145.jpg?1517813031|https://scryfall.com/card/avr/145/lightning-prowess?utm_source=api>`
+:mtgtip:`Lightning Prowess<https://img.scryfall.com/cards/border_crop/front/5/5/5578e3e2-2460-4dfb-9016-527463f2d918.jpg?1561867379|https://scryfall.com/card/avr/145/lightning-prowess?utm_source=api>`
    Enchant creature
 
    Enchanted creature has haste and "|tap|: This creature deals 1 damage to any target."
 
 
-:mtgtip:`Mad Prophet<https://img.scryfall.com/cards/border_crop/en/avr/146.jpg?1517813031|https://scryfall.com/card/avr/146/mad-prophet?utm_source=api>`
+:mtgtip:`Mad Prophet<https://img.scryfall.com/cards/border_crop/front/1/7/172383d9-9135-4daa-a647-9d76435d3158.jpg?1561858009|https://scryfall.com/card/avr/146/mad-prophet?utm_source=api>`
    Haste
 
    |tap|, Discard a card: Draw a card.
 
 
-:mtgtip:`Malicious Intent<https://img.scryfall.com/cards/border_crop/en/avr/147.jpg?1517813031|https://scryfall.com/card/avr/147/malicious-intent?utm_source=api>`
+:mtgtip:`Malicious Intent<https://img.scryfall.com/cards/border_crop/front/f/1/f1dda42d-55eb-46fc-89da-17cc5bfaa823.jpg?1561892306|https://scryfall.com/card/avr/147/malicious-intent?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "|tap|: Target creature can't block this turn."
 
 
-:mtgtip:`Malignus<https://img.scryfall.com/cards/border_crop/en/avr/148.jpg?1517813031|https://scryfall.com/card/avr/148/malignus?utm_source=api>`
+:mtgtip:`Malignus<https://img.scryfall.com/cards/border_crop/front/8/a/8a6a7000-4a1d-4cd4-a85e-4b7b20d8e543.jpg?1561875475|https://scryfall.com/card/avr/148/malignus?utm_source=api>`
    Malignus's power and toughness are each equal to half the highest life total among your opponents, rounded up.
 
    Damage that would be dealt by Malignus can't be prevented.
 
 
-:mtgtip:`Pillar of Flame<https://img.scryfall.com/cards/border_crop/en/avr/149.jpg?1517813031|https://scryfall.com/card/avr/149/pillar-of-flame?utm_source=api>`
+:mtgtip:`Pillar of Flame<https://img.scryfall.com/cards/border_crop/front/c/9/c983e879-d9d2-47cc-9958-506711ca80cd.jpg?1561885867|https://scryfall.com/card/avr/149/pillar-of-flame?utm_source=api>`
    Pillar of Flame deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
 
 
-:mtgtip:`Raging Poltergeist<https://img.scryfall.com/cards/border_crop/en/avr/150.jpg?1517813031|https://scryfall.com/card/avr/150/raging-poltergeist?utm_source=api>`
+:mtgtip:`Raging Poltergeist<https://img.scryfall.com/cards/border_crop/front/7/8/78833788-ffb2-43fc-9345-975f1cd46f38.jpg?1561872352|https://scryfall.com/card/avr/150/raging-poltergeist?utm_source=api>`
    
 
 
-:mtgtip:`Reforge the Soul<https://img.scryfall.com/cards/border_crop/en/avr/151.jpg?1517813031|https://scryfall.com/card/avr/151/reforge-the-soul?utm_source=api>`
+:mtgtip:`Reforge the Soul<https://img.scryfall.com/cards/border_crop/front/3/6/36506caa-2630-46ec-9aa0-e1885749ad90.jpg?1561862974|https://scryfall.com/card/avr/151/reforge-the-soul?utm_source=api>`
    Each player discards their hand, then draws seven cards.
 
    Miracle |mana_1|\ |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Riot Ringleader<https://img.scryfall.com/cards/border_crop/en/avr/152.jpg?1517813031|https://scryfall.com/card/avr/152/riot-ringleader?utm_source=api>`
+:mtgtip:`Riot Ringleader<https://img.scryfall.com/cards/border_crop/front/c/0/c043f30b-548f-4c31-a415-0e59c2841dcf.jpg?1561884592|https://scryfall.com/card/avr/152/riot-ringleader?utm_source=api>`
    Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn.
 
 
-:mtgtip:`Rite of Ruin<https://img.scryfall.com/cards/border_crop/en/avr/153.jpg?1517813031|https://scryfall.com/card/avr/153/rite-of-ruin?utm_source=api>`
+:mtgtip:`Rite of Ruin<https://img.scryfall.com/cards/border_crop/front/8/9/89e7fec3-94b5-411e-aeb0-44a64f517986.jpg?1561875459|https://scryfall.com/card/avr/153/rite-of-ruin?utm_source=api>`
    Choose an order for artifacts, creatures, and lands. Each player sacrifices one permanent of the first type, sacrifices two of the second type, then sacrifices three of the third type.
 
 
-:mtgtip:`Rush of Blood<https://img.scryfall.com/cards/border_crop/en/avr/154.jpg?1517813031|https://scryfall.com/card/avr/154/rush-of-blood?utm_source=api>`
+:mtgtip:`Rush of Blood<https://img.scryfall.com/cards/border_crop/front/a/2/a2884824-d138-47f2-913b-32cd475e9584.jpg?1561879572|https://scryfall.com/card/avr/154/rush-of-blood?utm_source=api>`
    Target creature gets +X/+0 until end of turn, where X is its power.
 
 
-:mtgtip:`Scalding Devil<https://img.scryfall.com/cards/border_crop/en/avr/155.jpg?1517813031|https://scryfall.com/card/avr/155/scalding-devil?utm_source=api>`
+:mtgtip:`Scalding Devil<https://img.scryfall.com/cards/border_crop/front/b/b/bbe49a97-dac8-4273-b4dc-45cdf8f5a6e0.jpg?1561883677|https://scryfall.com/card/avr/155/scalding-devil?utm_source=api>`
    |mana_2|\ |mana_r|: Scalding Devil deals 1 damage to target player or planeswalker.
 
 
-:mtgtip:`Somberwald Vigilante<https://img.scryfall.com/cards/border_crop/en/avr/156.jpg?1517813031|https://scryfall.com/card/avr/156/somberwald-vigilante?utm_source=api>`
+:mtgtip:`Somberwald Vigilante<https://img.scryfall.com/cards/border_crop/front/9/e/9e69eb29-a7e4-4826-9535-9a073136c688.jpg?1561878643|https://scryfall.com/card/avr/156/somberwald-vigilante?utm_source=api>`
    Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.
 
 
-:mtgtip:`Stonewright<https://img.scryfall.com/cards/border_crop/en/avr/157.jpg?1517813031|https://scryfall.com/card/avr/157/stonewright?utm_source=api>`
+:mtgtip:`Stonewright<https://img.scryfall.com/cards/border_crop/front/9/5/9564d79d-5f4d-4192-94ee-5e5998011266.jpg?1561877438|https://scryfall.com/card/avr/157/stonewright?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Stonewright is paired with another creature, each of those creatures has "|mana_r|: This creature gets +1/+0 until end of turn."
 
 
-:mtgtip:`Thatcher Revolt<https://img.scryfall.com/cards/border_crop/en/avr/158.jpg?1517813031|https://scryfall.com/card/avr/158/thatcher-revolt?utm_source=api>`
+:mtgtip:`Thatcher Revolt<https://img.scryfall.com/cards/border_crop/front/e/a/ea28bd68-47a8-47c6-be16-75ae622daf0a.jpg?1561891268|https://scryfall.com/card/avr/158/thatcher-revolt?utm_source=api>`
    Create three 1/1 red Human creature tokens with haste. Sacrifice those tokens at the beginning of the next end step.
 
 
-:mtgtip:`Thunderbolt<https://img.scryfall.com/cards/border_crop/en/avr/159.jpg?1517813031|https://scryfall.com/card/avr/159/thunderbolt?utm_source=api>`
+:mtgtip:`Thunderbolt<https://img.scryfall.com/cards/border_crop/front/5/8/5845a5bc-6b7d-4bbb-80b3-a0f877b95553.jpg?1561868213|https://scryfall.com/card/avr/159/thunderbolt?utm_source=api>`
    Choose one —
 
    • Thunderbolt deals 3 damage to target player or planeswalker.
@@ -815,13 +815,13 @@
    • Thunderbolt deals 4 damage to target creature with flying.
 
 
-:mtgtip:`Thunderous Wrath<https://img.scryfall.com/cards/border_crop/en/avr/160.jpg?1517813031|https://scryfall.com/card/avr/160/thunderous-wrath?utm_source=api>`
+:mtgtip:`Thunderous Wrath<https://img.scryfall.com/cards/border_crop/front/d/a/daa39826-7f89-41cb-a7fe-7f7be817d5cd.jpg?1561888710|https://scryfall.com/card/avr/160/thunderous-wrath?utm_source=api>`
    Thunderous Wrath deals 5 damage to any target.
 
    Miracle |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Tibalt, the Fiend-Blooded<https://img.scryfall.com/cards/border_crop/en/avr/161.jpg?1517813031|https://scryfall.com/card/avr/161/tibalt-the-fiend-blooded?utm_source=api>`
+:mtgtip:`Tibalt, the Fiend-Blooded<https://img.scryfall.com/cards/border_crop/front/5/d/5ddb3936-8f5a-498d-a46c-27eb9546c76c.jpg?1561868759|https://scryfall.com/card/avr/161/tibalt-the-fiend-blooded?utm_source=api>`
    +1: Draw a card, then discard a card at random.
 
    −4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.
@@ -829,29 +829,29 @@
    −6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.
 
 
-:mtgtip:`Tyrant of Discord<https://img.scryfall.com/cards/border_crop/en/avr/162.jpg?1517813031|https://scryfall.com/card/avr/162/tyrant-of-discord?utm_source=api>`
+:mtgtip:`Tyrant of Discord<https://img.scryfall.com/cards/border_crop/front/e/8/e8f7c8ea-e9c1-4d78-972c-15c4014915a0.jpg?1561890860|https://scryfall.com/card/avr/162/tyrant-of-discord?utm_source=api>`
    When Tyrant of Discord enters the battlefield, target opponent chooses a permanent they control at random and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process.
 
 
-:mtgtip:`Uncanny Speed<https://img.scryfall.com/cards/border_crop/en/avr/163.jpg?1517813031|https://scryfall.com/card/avr/163/uncanny-speed?utm_source=api>`
+:mtgtip:`Uncanny Speed<https://img.scryfall.com/cards/border_crop/front/1/d/1d7b747e-446a-4c25-9834-0be8476dc22d.jpg?1561859360|https://scryfall.com/card/avr/163/uncanny-speed?utm_source=api>`
    Target creature gets +3/+0 and gains haste until end of turn.
 
 
-:mtgtip:`Vexing Devil<https://img.scryfall.com/cards/border_crop/en/avr/164.jpg?1517813031|https://scryfall.com/card/avr/164/vexing-devil?utm_source=api>`
+:mtgtip:`Vexing Devil<https://img.scryfall.com/cards/border_crop/front/d/b/dbbefd98-4b17-4cc2-9ef9-8807f594cb16.jpg?1561888858|https://scryfall.com/card/avr/164/vexing-devil?utm_source=api>`
    When Vexing Devil enters the battlefield, any opponent may have it deal 4 damage to them. If a player does, sacrifice Vexing Devil.
 
 
-:mtgtip:`Vigilante Justice<https://img.scryfall.com/cards/border_crop/en/avr/165.jpg?1517813031|https://scryfall.com/card/avr/165/vigilante-justice?utm_source=api>`
+:mtgtip:`Vigilante Justice<https://img.scryfall.com/cards/border_crop/front/a/9/a9db329b-6248-4082-bfc8-5d2c0db43338.jpg?1561880997|https://scryfall.com/card/avr/165/vigilante-justice?utm_source=api>`
    Whenever a Human enters the battlefield under your control, Vigilante Justice deals 1 damage to any target.
 
 
-:mtgtip:`Zealous Conscripts<https://img.scryfall.com/cards/border_crop/en/avr/166.jpg?1517813031|https://scryfall.com/card/avr/166/zealous-conscripts?utm_source=api>`
+:mtgtip:`Zealous Conscripts<https://img.scryfall.com/cards/border_crop/front/f/c/fc027b11-1ecc-430d-a862-586a14bb23c3.jpg?1561894013|https://scryfall.com/card/avr/166/zealous-conscripts?utm_source=api>`
    Haste
 
    When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
 
 
-:mtgtip:`Abundant Growth<https://img.scryfall.com/cards/border_crop/en/avr/167.jpg?1517813031|https://scryfall.com/card/avr/167/abundant-growth?utm_source=api>`
+:mtgtip:`Abundant Growth<https://img.scryfall.com/cards/border_crop/front/a/f/afbc8fd0-dc15-4ac9-b97b-173f7fb66ed7.jpg?1561881729|https://scryfall.com/card/avr/167/abundant-growth?utm_source=api>`
    Enchant land
 
    When Abundant Growth enters the battlefield, draw a card.
@@ -859,119 +859,119 @@
    Enchanted land has "|tap|: Add one mana of any color."
 
 
-:mtgtip:`Blessings of Nature<https://img.scryfall.com/cards/border_crop/en/avr/168.jpg?1517813031|https://scryfall.com/card/avr/168/blessings-of-nature?utm_source=api>`
+:mtgtip:`Blessings of Nature<https://img.scryfall.com/cards/border_crop/front/d/1/d16453f1-c6ca-4288-ab72-315ed9bb0ab0.jpg?1561887266|https://scryfall.com/card/avr/168/blessings-of-nature?utm_source=api>`
    Distribute four +1/+1 counters among any number of target creatures.
 
    Miracle |mana_g| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Borderland Ranger<https://img.scryfall.com/cards/border_crop/en/avr/169.jpg?1517813031|https://scryfall.com/card/avr/169/borderland-ranger?utm_source=api>`
+:mtgtip:`Borderland Ranger<https://img.scryfall.com/cards/border_crop/front/8/f/8f067c26-c51d-44d0-a0af-106b5778f06a.jpg?1561876407|https://scryfall.com/card/avr/169/borderland-ranger?utm_source=api>`
    When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
 
 
-:mtgtip:`Bower Passage<https://img.scryfall.com/cards/border_crop/en/avr/170.jpg?1517813031|https://scryfall.com/card/avr/170/bower-passage?utm_source=api>`
+:mtgtip:`Bower Passage<https://img.scryfall.com/cards/border_crop/front/b/9/b9f0048f-aaa0-4597-b898-ee754d0bbe4b.jpg?1561883219|https://scryfall.com/card/avr/170/bower-passage?utm_source=api>`
    Creatures with flying can't block creatures you control.
 
 
-:mtgtip:`Champion of Lambholt<https://img.scryfall.com/cards/border_crop/en/avr/171.jpg?1517813031|https://scryfall.com/card/avr/171/champion-of-lambholt?utm_source=api>`
+:mtgtip:`Champion of Lambholt<https://img.scryfall.com/cards/border_crop/front/e/8/e8ab9cd3-2faf-4500-a2ee-90b3a8d559c4.jpg?1561890835|https://scryfall.com/card/avr/171/champion-of-lambholt?utm_source=api>`
    Creatures with power less than Champion of Lambholt's power can't block creatures you control.
 
    Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.
 
 
-:mtgtip:`Craterhoof Behemoth<https://img.scryfall.com/cards/border_crop/en/avr/172.jpg?1517813031|https://scryfall.com/card/avr/172/craterhoof-behemoth?utm_source=api>`
+:mtgtip:`Craterhoof Behemoth<https://img.scryfall.com/cards/border_crop/front/a/2/a249be17-73ed-4108-89c0-f7e87939beb8.jpg?1561879555|https://scryfall.com/card/avr/172/craterhoof-behemoth?utm_source=api>`
    Haste
 
    When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.
 
 
-:mtgtip:`Descendants' Path<https://img.scryfall.com/cards/border_crop/en/avr/173.jpg?1517813031|https://scryfall.com/card/avr/173/descendants-path?utm_source=api>`
+:mtgtip:`Descendants' Path<https://img.scryfall.com/cards/border_crop/front/a/d/ada93208-5cda-4e2d-b9a7-15345e30b831.jpg?1561881542|https://scryfall.com/card/avr/173/descendants-path?utm_source=api>`
    At the beginning of your upkeep, reveal the top card of your library. If it's a creature card that shares a creature type with a creature you control, you may cast that card without paying its mana cost. Otherwise, put that card on the bottom of your library.
 
 
-:mtgtip:`Diregraf Escort<https://img.scryfall.com/cards/border_crop/en/avr/174.jpg?1517813031|https://scryfall.com/card/avr/174/diregraf-escort?utm_source=api>`
+:mtgtip:`Diregraf Escort<https://img.scryfall.com/cards/border_crop/front/6/4/640e21ad-5064-41bc-886e-2c997f69a3f5.jpg?1561869701|https://scryfall.com/card/avr/174/diregraf-escort?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.
 
 
-:mtgtip:`Druid's Familiar<https://img.scryfall.com/cards/border_crop/en/avr/175.jpg?1517813031|https://scryfall.com/card/avr/175/druids-familiar?utm_source=api>`
+:mtgtip:`Druid's Familiar<https://img.scryfall.com/cards/border_crop/front/1/d/1d8c794a-7964-41f0-bc9c-27af7cf87aaa.jpg?1561859366|https://scryfall.com/card/avr/175/druids-familiar?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2.
 
 
-:mtgtip:`Druids' Repository<https://img.scryfall.com/cards/border_crop/en/avr/176.jpg?1517813031|https://scryfall.com/card/avr/176/druids-repository?utm_source=api>`
+:mtgtip:`Druids' Repository<https://img.scryfall.com/cards/border_crop/front/5/7/57e6fb62-7ee3-444d-8fd4-c1f44014a05c.jpg?1561867837|https://scryfall.com/card/avr/176/druids-repository?utm_source=api>`
    Whenever a creature you control attacks, put a charge counter on Druids' Repository.
 
    Remove a charge counter from Druids' Repository: Add one mana of any color.
 
 
-:mtgtip:`Eaten by Spiders<https://img.scryfall.com/cards/border_crop/en/avr/177.jpg?1517813031|https://scryfall.com/card/avr/177/eaten-by-spiders?utm_source=api>`
+:mtgtip:`Eaten by Spiders<https://img.scryfall.com/cards/border_crop/front/0/e/0efea1b1-f212-4b97-98dd-922f85ab191f.jpg?1561856573|https://scryfall.com/card/avr/177/eaten-by-spiders?utm_source=api>`
    Destroy target creature with flying and all Equipment attached to that creature.
 
 
-:mtgtip:`Flowering Lumberknot<https://img.scryfall.com/cards/border_crop/en/avr/178.jpg?1517813031|https://scryfall.com/card/avr/178/flowering-lumberknot?utm_source=api>`
+:mtgtip:`Flowering Lumberknot<https://img.scryfall.com/cards/border_crop/front/7/8/78fa2ddc-142b-4562-8812-ecb72e3bae57.jpg?1561872370|https://scryfall.com/card/avr/178/flowering-lumberknot?utm_source=api>`
    Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.
 
 
-:mtgtip:`Geist Trappers<https://img.scryfall.com/cards/border_crop/en/avr/179.jpg?1517813031|https://scryfall.com/card/avr/179/geist-trappers?utm_source=api>`
+:mtgtip:`Geist Trappers<https://img.scryfall.com/cards/border_crop/front/2/6/26f00a18-0ff7-42e4-be16-aa34fe27093b.jpg?1561860600|https://scryfall.com/card/avr/179/geist-trappers?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Geist Trappers is paired with another creature, both creatures have reach.
 
 
-:mtgtip:`Gloomwidow<https://img.scryfall.com/cards/border_crop/en/avr/180.jpg?1517813031|https://scryfall.com/card/avr/180/gloomwidow?utm_source=api>`
+:mtgtip:`Gloomwidow<https://img.scryfall.com/cards/border_crop/front/a/0/a016c872-09bd-42e1-94da-f587e8252492.jpg?1561879088|https://scryfall.com/card/avr/180/gloomwidow?utm_source=api>`
    Reach
 
    Gloomwidow can block only creatures with flying.
 
 
-:mtgtip:`Grounded<https://img.scryfall.com/cards/border_crop/en/avr/181.jpg?1517813031|https://scryfall.com/card/avr/181/grounded?utm_source=api>`
+:mtgtip:`Grounded<https://img.scryfall.com/cards/border_crop/front/d/c/dc4982f0-0ede-4846-82c8-bcf7ad63d099.jpg?1561888884|https://scryfall.com/card/avr/181/grounded?utm_source=api>`
    Enchant creature
 
    Enchanted creature loses flying.
 
 
-:mtgtip:`Howlgeist<https://img.scryfall.com/cards/border_crop/en/avr/182.jpg?1517813031|https://scryfall.com/card/avr/182/howlgeist?utm_source=api>`
+:mtgtip:`Howlgeist<https://img.scryfall.com/cards/border_crop/front/d/a/dad60d45-1c99-41d1-a237-c0ee18ce5361.jpg?1561888711|https://scryfall.com/card/avr/182/howlgeist?utm_source=api>`
    Creatures with power less than Howlgeist's power can't block it.
 
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-:mtgtip:`Joint Assault<https://img.scryfall.com/cards/border_crop/en/avr/183.jpg?1517813031|https://scryfall.com/card/avr/183/joint-assault?utm_source=api>`
+:mtgtip:`Joint Assault<https://img.scryfall.com/cards/border_crop/front/6/5/6516c7c6-d49b-49c5-8968-563622c2c8c1.jpg?1561869747|https://scryfall.com/card/avr/183/joint-assault?utm_source=api>`
    Target creature gets +2/+2 until end of turn. If it's paired with a creature, that creature also gets +2/+2 until end of turn.
 
 
-:mtgtip:`Lair Delve<https://img.scryfall.com/cards/border_crop/en/avr/184.jpg?1517813031|https://scryfall.com/card/avr/184/lair-delve?utm_source=api>`
+:mtgtip:`Lair Delve<https://img.scryfall.com/cards/border_crop/front/6/0/604948d8-6224-45ca-9ebb-d716644bbfd0.jpg?1561869218|https://scryfall.com/card/avr/184/lair-delve?utm_source=api>`
    Reveal the top two cards of your library. Put all creature and land cards revealed this way into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Natural End<https://img.scryfall.com/cards/border_crop/en/avr/185.jpg?1517813031|https://scryfall.com/card/avr/185/natural-end?utm_source=api>`
+:mtgtip:`Natural End<https://img.scryfall.com/cards/border_crop/front/9/5/95d25235-de1c-4b67-9712-24f0564bd2bf.jpg?1561877444|https://scryfall.com/card/avr/185/natural-end?utm_source=api>`
    Destroy target artifact or enchantment. You gain 3 life.
 
 
-:mtgtip:`Nettle Swine<https://img.scryfall.com/cards/border_crop/en/avr/186.jpg?1517813031|https://scryfall.com/card/avr/186/nettle-swine?utm_source=api>`
+:mtgtip:`Nettle Swine<https://img.scryfall.com/cards/border_crop/front/7/5/75935f0e-9086-485b-b3e6-1a958fd0f2af.jpg?1561871871|https://scryfall.com/card/avr/186/nettle-swine?utm_source=api>`
    
 
 
-:mtgtip:`Nightshade Peddler<https://img.scryfall.com/cards/border_crop/en/avr/187.jpg?1517813031|https://scryfall.com/card/avr/187/nightshade-peddler?utm_source=api>`
+:mtgtip:`Nightshade Peddler<https://img.scryfall.com/cards/border_crop/front/4/d/4d3de66c-2283-458f-9d0d-943027520aa2.jpg?1561866179|https://scryfall.com/card/avr/187/nightshade-peddler?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Nightshade Peddler is paired with another creature, both creatures have deathtouch.
 
 
-:mtgtip:`Pathbreaker Wurm<https://img.scryfall.com/cards/border_crop/en/avr/188.jpg?1517813031|https://scryfall.com/card/avr/188/pathbreaker-wurm?utm_source=api>`
+:mtgtip:`Pathbreaker Wurm<https://img.scryfall.com/cards/border_crop/front/f/e/fe65eded-37ef-4cf0-b55c-390d34aab7b8.jpg?1561894462|https://scryfall.com/card/avr/188/pathbreaker-wurm?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Pathbreaker Wurm is paired with another creature, both creatures have trample.
 
 
-:mtgtip:`Primal Surge<https://img.scryfall.com/cards/border_crop/en/avr/189.jpg?1517813031|https://scryfall.com/card/avr/189/primal-surge?utm_source=api>`
+:mtgtip:`Primal Surge<https://img.scryfall.com/cards/border_crop/front/4/2/4278f7bd-afff-4a1d-a0bb-bf9ce3ad5a2e.jpg?1561864686|https://scryfall.com/card/avr/189/primal-surge?utm_source=api>`
    Exile the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you do, repeat this process.
 
 
-:mtgtip:`Rain of Thorns<https://img.scryfall.com/cards/border_crop/en/avr/190.jpg?1517813031|https://scryfall.com/card/avr/190/rain-of-thorns?utm_source=api>`
+:mtgtip:`Rain of Thorns<https://img.scryfall.com/cards/border_crop/front/f/d/fd1cb530-b9d5-4386-b89e-2acecc8294c8.jpg?1561894389|https://scryfall.com/card/avr/190/rain-of-thorns?utm_source=api>`
    Choose one or more —
 
    • Destroy target artifact.
@@ -981,91 +981,91 @@
    • Destroy target land.
 
 
-:mtgtip:`Revenge of the Hunted<https://img.scryfall.com/cards/border_crop/en/avr/191.jpg?1517813031|https://scryfall.com/card/avr/191/revenge-of-the-hunted?utm_source=api>`
+:mtgtip:`Revenge of the Hunted<https://img.scryfall.com/cards/border_crop/front/3/6/36f7d663-115c-4ad0-a072-633df054cce4.jpg?1561863006|https://scryfall.com/card/avr/191/revenge-of-the-hunted?utm_source=api>`
    Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.
 
    Miracle |mana_g| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-:mtgtip:`Sheltering Word<https://img.scryfall.com/cards/border_crop/en/avr/192.jpg?1517813031|https://scryfall.com/card/avr/192/sheltering-word?utm_source=api>`
+:mtgtip:`Sheltering Word<https://img.scryfall.com/cards/border_crop/front/9/3/93cd9be4-1ce4-4a7c-b2a6-98d3fde0a92b.jpg?1561877350|https://scryfall.com/card/avr/192/sheltering-word?utm_source=api>`
    Target creature you control gains hexproof until end of turn. You gain life equal to that creature's toughness. (A creature with hexproof can't be the target of spells or abilities your opponents control.)
 
 
-:mtgtip:`Snare the Skies<https://img.scryfall.com/cards/border_crop/en/avr/193.jpg?1517813031|https://scryfall.com/card/avr/193/snare-the-skies?utm_source=api>`
+:mtgtip:`Snare the Skies<https://img.scryfall.com/cards/border_crop/front/2/8/28f75827-a144-4fe2-a713-4439ae7567eb.jpg?1561861021|https://scryfall.com/card/avr/193/snare-the-skies?utm_source=api>`
    Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.)
 
 
-:mtgtip:`Somberwald Sage<https://img.scryfall.com/cards/border_crop/en/avr/194.jpg?1517813031|https://scryfall.com/card/avr/194/somberwald-sage?utm_source=api>`
+:mtgtip:`Somberwald Sage<https://img.scryfall.com/cards/border_crop/front/4/0/409c0272-7a43-4a6c-ab3f-740397b1f5c8.jpg?1561864256|https://scryfall.com/card/avr/194/somberwald-sage?utm_source=api>`
    |tap|: Add three mana of any one color. Spend this mana only to cast creature spells.
 
 
-:mtgtip:`Soul of the Harvest<https://img.scryfall.com/cards/border_crop/en/avr/195.jpg?1517813031|https://scryfall.com/card/avr/195/soul-of-the-harvest?utm_source=api>`
+:mtgtip:`Soul of the Harvest<https://img.scryfall.com/cards/border_crop/front/0/7/078f5e79-18dd-44e5-a930-8dc288f0b535.jpg?1561855820|https://scryfall.com/card/avr/195/soul-of-the-harvest?utm_source=api>`
    Trample
 
    Whenever another nontoken creature enters the battlefield under your control, you may draw a card.
 
 
-:mtgtip:`Terrifying Presence<https://img.scryfall.com/cards/border_crop/en/avr/196.jpg?1517813031|https://scryfall.com/card/avr/196/terrifying-presence?utm_source=api>`
+:mtgtip:`Terrifying Presence<https://img.scryfall.com/cards/border_crop/front/2/e/2e8d0a22-f31b-45c0-85c7-0101aa63c77b.jpg?1561861974|https://scryfall.com/card/avr/196/terrifying-presence?utm_source=api>`
    Prevent all combat damage that would be dealt by creatures other than target creature this turn.
 
 
-:mtgtip:`Timberland Guide<https://img.scryfall.com/cards/border_crop/en/avr/197.jpg?1517813031|https://scryfall.com/card/avr/197/timberland-guide?utm_source=api>`
+:mtgtip:`Timberland Guide<https://img.scryfall.com/cards/border_crop/front/a/e/ae80fefb-af78-4f98-8058-71b61e91842f.jpg?1561881677|https://scryfall.com/card/avr/197/timberland-guide?utm_source=api>`
    When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.
 
 
-:mtgtip:`Triumph of Ferocity<https://img.scryfall.com/cards/border_crop/en/avr/198.jpg?1517813031|https://scryfall.com/card/avr/198/triumph-of-ferocity?utm_source=api>`
+:mtgtip:`Triumph of Ferocity<https://img.scryfall.com/cards/border_crop/front/7/b/7bb41fa6-0cc6-43e5-9aa8-fcd9c781f4ce.jpg?1561872886|https://scryfall.com/card/avr/198/triumph-of-ferocity?utm_source=api>`
    At the beginning of your upkeep, draw a card if you control the creature with the greatest power or tied for the greatest power.
 
 
-:mtgtip:`Trusted Forcemage<https://img.scryfall.com/cards/border_crop/en/avr/199.jpg?1517813031|https://scryfall.com/card/avr/199/trusted-forcemage?utm_source=api>`
+:mtgtip:`Trusted Forcemage<https://img.scryfall.com/cards/border_crop/front/3/e/3ee66ef9-10a7-4aab-88f7-84956811cc6c.jpg?1561864176|https://scryfall.com/card/avr/199/trusted-forcemage?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Trusted Forcemage is paired with another creature, each of those creatures gets +1/+1.
 
 
-:mtgtip:`Ulvenwald Tracker<https://img.scryfall.com/cards/border_crop/en/avr/200.jpg?1517813031|https://scryfall.com/card/avr/200/ulvenwald-tracker?utm_source=api>`
+:mtgtip:`Ulvenwald Tracker<https://img.scryfall.com/cards/border_crop/front/4/6/46199391-a4f5-4532-b89c-b7691b229bd0.jpg?1561865161|https://scryfall.com/card/avr/200/ulvenwald-tracker?utm_source=api>`
    |mana_1|\ |mana_g|, |tap|: Target creature you control fights another target creature.
 
 
-:mtgtip:`Vorstclaw<https://img.scryfall.com/cards/border_crop/en/avr/201.jpg?1517813031|https://scryfall.com/card/avr/201/vorstclaw?utm_source=api>`
+:mtgtip:`Vorstclaw<https://img.scryfall.com/cards/border_crop/front/7/5/7591ee4f-9bfe-4419-84df-abf35d85bb94.jpg?1561871869|https://scryfall.com/card/avr/201/vorstclaw?utm_source=api>`
    
 
 
-:mtgtip:`Wandering Wolf<https://img.scryfall.com/cards/border_crop/en/avr/202.jpg?1517813031|https://scryfall.com/card/avr/202/wandering-wolf?utm_source=api>`
+:mtgtip:`Wandering Wolf<https://img.scryfall.com/cards/border_crop/front/a/c/ac606ad5-b8d0-4c93-a9de-5e41229a8229.jpg?1561881461|https://scryfall.com/card/avr/202/wandering-wolf?utm_source=api>`
    Creatures with power less than Wandering Wolf's power can't block it.
 
 
-:mtgtip:`Wild Defiance<https://img.scryfall.com/cards/border_crop/en/avr/203.jpg?1517813031|https://scryfall.com/card/avr/203/wild-defiance?utm_source=api>`
+:mtgtip:`Wild Defiance<https://img.scryfall.com/cards/border_crop/front/7/e/7eaa6be7-2c6f-4442-85d1-ae31ad87fd98.jpg?1561873749|https://scryfall.com/card/avr/203/wild-defiance?utm_source=api>`
    Whenever a creature you control becomes the target of an instant or sorcery spell, that creature gets +3/+3 until end of turn.
 
 
-:mtgtip:`Wildwood Geist<https://img.scryfall.com/cards/border_crop/en/avr/204.jpg?1517813031|https://scryfall.com/card/avr/204/wildwood-geist?utm_source=api>`
+:mtgtip:`Wildwood Geist<https://img.scryfall.com/cards/border_crop/front/4/6/4658b4b2-7043-4ca2-96fd-4f663c20c80f.jpg?1561865180|https://scryfall.com/card/avr/204/wildwood-geist?utm_source=api>`
    Wildwood Geist gets +2/+2 as long as it's your turn.
 
 
-:mtgtip:`Wolfir Avenger<https://img.scryfall.com/cards/border_crop/en/avr/205.jpg?1517813031|https://scryfall.com/card/avr/205/wolfir-avenger?utm_source=api>`
+:mtgtip:`Wolfir Avenger<https://img.scryfall.com/cards/border_crop/front/8/8/88cc00e5-9683-4ccc-a914-c422b76f6014.jpg?1561875044|https://scryfall.com/card/avr/205/wolfir-avenger?utm_source=api>`
    Flash (You may cast this spell any time you could cast an instant.)
 
    |mana_1|\ |mana_g|: Regenerate Wolfir Avenger.
 
 
-:mtgtip:`Wolfir Silverheart<https://img.scryfall.com/cards/border_crop/en/avr/206.jpg?1517813031|https://scryfall.com/card/avr/206/wolfir-silverheart?utm_source=api>`
+:mtgtip:`Wolfir Silverheart<https://img.scryfall.com/cards/border_crop/front/8/6/8629c598-11c8-4911-acfb-0643e5feffa8.jpg?1561874577|https://scryfall.com/card/avr/206/wolfir-silverheart?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4.
 
 
-:mtgtip:`Yew Spirit<https://img.scryfall.com/cards/border_crop/en/avr/207.jpg?1517813031|https://scryfall.com/card/avr/207/yew-spirit?utm_source=api>`
+:mtgtip:`Yew Spirit<https://img.scryfall.com/cards/border_crop/front/b/9/b9320432-4f89-4363-91e6-2e740535cc2e.jpg?1561883192|https://scryfall.com/card/avr/207/yew-spirit?utm_source=api>`
    |mana_2|\ |mana_g|\ |mana_g|: Yew Spirit gets +X/+X until end of turn, where X is its power.
 
 
-:mtgtip:`Bruna, Light of Alabaster<https://img.scryfall.com/cards/border_crop/en/avr/208.jpg?1517813031|https://scryfall.com/card/avr/208/bruna-light-of-alabaster?utm_source=api>`
+:mtgtip:`Bruna, Light of Alabaster<https://img.scryfall.com/cards/border_crop/front/e/3/e390bc78-31ad-4131-a9e4-93ee0c7c2f34.jpg?1561889928|https://scryfall.com/card/avr/208/bruna-light-of-alabaster?utm_source=api>`
    Flying, vigilance
 
    Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.
 
 
-:mtgtip:`Gisela, Blade of Goldnight<https://img.scryfall.com/cards/border_crop/en/avr/209.jpg?1517813031|https://scryfall.com/card/avr/209/gisela-blade-of-goldnight?utm_source=api>`
+:mtgtip:`Gisela, Blade of Goldnight<https://img.scryfall.com/cards/border_crop/front/7/2/7208fcb8-83e6-44ce-af9a-ca1566825018.jpg?1561871416|https://scryfall.com/card/avr/209/gisela-blade-of-goldnight?utm_source=api>`
    Flying, first strike
 
    If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.
@@ -1073,23 +1073,23 @@
    If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.
 
 
-:mtgtip:`Sigarda, Host of Herons<https://img.scryfall.com/cards/border_crop/en/avr/210.jpg?1517813031|https://scryfall.com/card/avr/210/sigarda-host-of-herons?utm_source=api>`
+:mtgtip:`Sigarda, Host of Herons<https://img.scryfall.com/cards/border_crop/front/f/e/feccd0e2-fae6-4ced-acdf-4252ed5c56e7.jpg?1561894483|https://scryfall.com/card/avr/210/sigarda-host-of-herons?utm_source=api>`
    Flying, hexproof
 
    Spells and abilities your opponents control can't cause you to sacrifice permanents.
 
 
-:mtgtip:`Angel's Tomb<https://img.scryfall.com/cards/border_crop/en/avr/211.jpg?1517813031|https://scryfall.com/card/avr/211/angels-tomb?utm_source=api>`
+:mtgtip:`Angel's Tomb<https://img.scryfall.com/cards/border_crop/front/2/8/28226303-7e67-4b88-adae-2386aff033ec.jpg?1561860645|https://scryfall.com/card/avr/211/angels-tomb?utm_source=api>`
    Whenever a creature enters the battlefield under your control, you may have Angel's Tomb become a 3/3 white Angel artifact creature with flying until end of turn.
 
 
-:mtgtip:`Angelic Armaments<https://img.scryfall.com/cards/border_crop/en/avr/212.jpg?1517813031|https://scryfall.com/card/avr/212/angelic-armaments?utm_source=api>`
+:mtgtip:`Angelic Armaments<https://img.scryfall.com/cards/border_crop/front/3/f/3fa99b48-469d-4112-bdfd-2391fa439514.jpg?1561864196|https://scryfall.com/card/avr/212/angelic-armaments?utm_source=api>`
    Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types.
 
    Equip |mana_4|
 
 
-:mtgtip:`Bladed Bracers<https://img.scryfall.com/cards/border_crop/en/avr/213.jpg?1517813031|https://scryfall.com/card/avr/213/bladed-bracers?utm_source=api>`
+:mtgtip:`Bladed Bracers<https://img.scryfall.com/cards/border_crop/front/8/9/897a5116-043c-46aa-880e-be8dcb1618bc.jpg?1561875413|https://scryfall.com/card/avr/213/bladed-bracers?utm_source=api>`
    Equipped creature gets +1/+1.
 
    As long as equipped creature is a Human or an Angel, it has vigilance.
@@ -1097,19 +1097,19 @@
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Conjurer's Closet<https://img.scryfall.com/cards/border_crop/en/avr/214.jpg?1517813031|https://scryfall.com/card/avr/214/conjurers-closet?utm_source=api>`
+:mtgtip:`Conjurer's Closet<https://img.scryfall.com/cards/border_crop/front/7/3/7378e998-0382-42fc-8606-c6e7fc04b6a4.jpg?1561871472|https://scryfall.com/card/avr/214/conjurers-closet?utm_source=api>`
    At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.
 
 
-:mtgtip:`Gallows at Willow Hill<https://img.scryfall.com/cards/border_crop/en/avr/215.jpg?1517813031|https://scryfall.com/card/avr/215/gallows-at-willow-hill?utm_source=api>`
+:mtgtip:`Gallows at Willow Hill<https://img.scryfall.com/cards/border_crop/front/8/a/8a840ee7-5728-4b1b-92ac-54612e5397b3.jpg?1561875476|https://scryfall.com/card/avr/215/gallows-at-willow-hill?utm_source=api>`
    |mana_3|, |tap|, Tap three untapped Humans you control: Destroy target creature. Its controller creates a 1/1 white Spirit creature token with flying.
 
 
-:mtgtip:`Haunted Guardian<https://img.scryfall.com/cards/border_crop/en/avr/216.jpg?1517813031|https://scryfall.com/card/avr/216/haunted-guardian?utm_source=api>`
+:mtgtip:`Haunted Guardian<https://img.scryfall.com/cards/border_crop/front/7/d/7d97f8b8-bdb0-4d4b-b077-9affe2f9cd91.jpg?1561873343|https://scryfall.com/card/avr/216/haunted-guardian?utm_source=api>`
    Defender, first strike
 
 
-:mtgtip:`Moonsilver Spear<https://img.scryfall.com/cards/border_crop/en/avr/217.jpg?1517813031|https://scryfall.com/card/avr/217/moonsilver-spear?utm_source=api>`
+:mtgtip:`Moonsilver Spear<https://img.scryfall.com/cards/border_crop/front/0/b/0b5efb85-1e5f-40ba-97b1-0ef6ac680330.jpg?1561856312|https://scryfall.com/card/avr/217/moonsilver-spear?utm_source=api>`
    Equipped creature has first strike.
 
    Whenever equipped creature attacks, create a 4/4 white Angel creature token with flying.
@@ -1117,49 +1117,49 @@
    Equip |mana_4|
 
 
-:mtgtip:`Narstad Scrapper<https://img.scryfall.com/cards/border_crop/en/avr/218.jpg?1517813031|https://scryfall.com/card/avr/218/narstad-scrapper?utm_source=api>`
+:mtgtip:`Narstad Scrapper<https://img.scryfall.com/cards/border_crop/front/f/8/f808ed9b-95ac-4069-bdca-b100bc816b5b.jpg?1561893439|https://scryfall.com/card/avr/218/narstad-scrapper?utm_source=api>`
    |mana_2|: Narstad Scrapper gets +1/+0 until end of turn.
 
 
-:mtgtip:`Otherworld Atlas<https://img.scryfall.com/cards/border_crop/en/avr/219.jpg?1517813031|https://scryfall.com/card/avr/219/otherworld-atlas?utm_source=api>`
+:mtgtip:`Otherworld Atlas<https://img.scryfall.com/cards/border_crop/front/4/6/46e4aa67-4643-42ff-8172-200498686494.jpg?1561865192|https://scryfall.com/card/avr/219/otherworld-atlas?utm_source=api>`
    |tap|: Put a charge counter on Otherworld Atlas.
 
    |tap|: Each player draws a card for each charge counter on Otherworld Atlas.
 
 
-:mtgtip:`Scroll of Avacyn<https://img.scryfall.com/cards/border_crop/en/avr/220.jpg?1517813031|https://scryfall.com/card/avr/220/scroll-of-avacyn?utm_source=api>`
+:mtgtip:`Scroll of Avacyn<https://img.scryfall.com/cards/border_crop/front/8/7/871e6e2a-7e45-446b-b964-94377eb6ca92.jpg?1561874958|https://scryfall.com/card/avr/220/scroll-of-avacyn?utm_source=api>`
    |mana_1|, Sacrifice Scroll of Avacyn: Draw a card. If you control an Angel, you gain 5 life.
 
 
-:mtgtip:`Scroll of Griselbrand<https://img.scryfall.com/cards/border_crop/en/avr/221.jpg?1517813031|https://scryfall.com/card/avr/221/scroll-of-griselbrand?utm_source=api>`
+:mtgtip:`Scroll of Griselbrand<https://img.scryfall.com/cards/border_crop/front/2/2/2263ceaf-49d2-40fe-86b8-146271b11e46.jpg?1561859901|https://scryfall.com/card/avr/221/scroll-of-griselbrand?utm_source=api>`
    |mana_1|, Sacrifice Scroll of Griselbrand: Target opponent discards a card. If you control a Demon, that player loses 3 life.
 
 
-:mtgtip:`Tormentor's Trident<https://img.scryfall.com/cards/border_crop/en/avr/222.jpg?1517813031|https://scryfall.com/card/avr/222/tormentors-trident?utm_source=api>`
+:mtgtip:`Tormentor's Trident<https://img.scryfall.com/cards/border_crop/front/9/5/9543d454-27d6-42ba-aad8-54811d180cfb.jpg?1561877427|https://scryfall.com/card/avr/222/tormentors-trident?utm_source=api>`
    Equipped creature gets +3/+0 and attacks each combat if able.
 
    Equip |mana_3|
 
 
-:mtgtip:`Vanguard's Shield<https://img.scryfall.com/cards/border_crop/en/avr/223.jpg?1517813031|https://scryfall.com/card/avr/223/vanguards-shield?utm_source=api>`
+:mtgtip:`Vanguard's Shield<https://img.scryfall.com/cards/border_crop/front/c/e/ce8d9db6-5737-4a1f-ae4e-75821a602784.jpg?1561886814|https://scryfall.com/card/avr/223/vanguards-shield?utm_source=api>`
    Equipped creature gets +0/+3 and can block an additional creature each combat.
 
    Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Vessel of Endless Rest<https://img.scryfall.com/cards/border_crop/en/avr/224.jpg?1517813031|https://scryfall.com/card/avr/224/vessel-of-endless-rest?utm_source=api>`
+:mtgtip:`Vessel of Endless Rest<https://img.scryfall.com/cards/border_crop/front/e/c/ec733373-3f68-47ad-ac35-6f39092f1e26.jpg?1561891382|https://scryfall.com/card/avr/224/vessel-of-endless-rest?utm_source=api>`
    When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library.
 
    |tap|: Add one mana of any color.
 
 
-:mtgtip:`Alchemist's Refuge<https://img.scryfall.com/cards/border_crop/en/avr/225.jpg?1517813031|https://scryfall.com/card/avr/225/alchemists-refuge?utm_source=api>`
+:mtgtip:`Alchemist's Refuge<https://img.scryfall.com/cards/border_crop/front/c/7/c767a897-52e3-4401-8104-930157bb2b02.jpg?1561885752|https://scryfall.com/card/avr/225/alchemists-refuge?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_g|\ |mana_u|, |tap|: You may cast spells this turn as though they had flash.
 
 
-:mtgtip:`Cavern of Souls<https://img.scryfall.com/cards/border_crop/en/avr/226.jpg?1517813031|https://scryfall.com/card/avr/226/cavern-of-souls?utm_source=api>`
+:mtgtip:`Cavern of Souls<https://img.scryfall.com/cards/border_crop/front/1/3/1381c8f1-a292-4bdf-b20c-a5c2a169ee84.jpg?1561857492|https://scryfall.com/card/avr/226/cavern-of-souls?utm_source=api>`
    As Cavern of Souls enters the battlefield, choose a creature type.
 
    |tap|: Add |colorless|.
@@ -1167,13 +1167,13 @@
    |tap|: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.
 
 
-:mtgtip:`Desolate Lighthouse<https://img.scryfall.com/cards/border_crop/en/avr/227.jpg?1517813031|https://scryfall.com/card/avr/227/desolate-lighthouse?utm_source=api>`
+:mtgtip:`Desolate Lighthouse<https://img.scryfall.com/cards/border_crop/front/1/6/16fb45bc-6152-4b01-9831-a8e80b1c1852.jpg?1561858003|https://scryfall.com/card/avr/227/desolate-lighthouse?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_1|\ |mana_u|\ |mana_r|, |tap|: Draw a card, then discard a card.
 
 
-:mtgtip:`Seraph Sanctuary<https://img.scryfall.com/cards/border_crop/en/avr/228.jpg?1517813031|https://scryfall.com/card/avr/228/seraph-sanctuary?utm_source=api>`
+:mtgtip:`Seraph Sanctuary<https://img.scryfall.com/cards/border_crop/front/f/9/f903b04a-2733-4ce7-9d83-9db8d5e1e10d.jpg?1561893503|https://scryfall.com/card/avr/228/seraph-sanctuary?utm_source=api>`
    When Seraph Sanctuary enters the battlefield, you gain 1 life.
 
    Whenever an Angel enters the battlefield under your control, you gain 1 life.
@@ -1181,28 +1181,28 @@
    |tap|: Add |colorless|.
 
 
-:mtgtip:`Slayers' Stronghold<https://img.scryfall.com/cards/border_crop/en/avr/229.jpg?1517813031|https://scryfall.com/card/avr/229/slayers-stronghold?utm_source=api>`
+:mtgtip:`Slayers' Stronghold<https://img.scryfall.com/cards/border_crop/front/9/3/939a4351-3ec7-4e6c-8cdd-766bfd670391.jpg?1561876990|https://scryfall.com/card/avr/229/slayers-stronghold?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_r|\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn.
 
 
-:mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/avr/230.jpg?1517813031|https://scryfall.com/card/avr/230/plains?utm_source=api>`
+:mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/f/0/f090db87-b7a9-4c88-a211-495b27ae37c9.jpg?1561892267|https://scryfall.com/card/avr/230/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/avr/233.jpg?1517813031|https://scryfall.com/card/avr/233/island?utm_source=api>`
+:mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1561860167|https://scryfall.com/card/avr/233/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/avr/236.jpg?1517813031|https://scryfall.com/card/avr/236/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/3/3/339c3f05-444c-4e0a-a556-fc09417ee984.jpg?1561862518|https://scryfall.com/card/avr/236/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/avr/239.jpg?1517813031|https://scryfall.com/card/avr/239/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/f/5/f53b7e7e-494b-4346-b18e-0e879bba7cec.jpg?1561892971|https://scryfall.com/card/avr/239/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/avr/242.jpg?1517813031|https://scryfall.com/card/avr/242/forest?utm_source=api>`
+:mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/8/0/8097c9ce-8fe9-4150-9810-52f6c92c6099.jpg?1561873825|https://scryfall.com/card/avr/242/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

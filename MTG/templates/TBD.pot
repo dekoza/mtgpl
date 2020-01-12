@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2019, Dominik Kozaczko
+# Copyright (C) 2013-2020, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2019.9\n"
+"Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-11 16:29+0100\n"
+"POT-Creation-Date: 2020-01-12 21:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,9 +53,9 @@ msgstr ""
 #: ../../TBD.rst:629
 #: ../../TBD.rst:665
 #: ../../TBD.rst:1339
-#: ../../TBD.rst:1439
-#: ../../TBD.rst:1587
-#: ../../TBD.rst:1609
+#: ../../TBD.rst:1441
+#: ../../TBD.rst:1589
+#: ../../TBD.rst:1611
 msgid "Flying"
 msgstr ""
 
@@ -269,7 +269,7 @@ msgstr ""
 #: ../../TBD.rst:887
 #: ../../TBD.rst:1101
 #: ../../TBD.rst:1315
-#: ../../TBD.rst:1541
+#: ../../TBD.rst:1543
 msgid "Indestructible"
 msgstr ""
 
@@ -368,7 +368,7 @@ msgstr ""
 #: ../../TBD.rst:749
 #: ../../TBD.rst:853
 #: ../../TBD.rst:1143
-#: ../../TBD.rst:1593
+#: ../../TBD.rst:1595
 msgid "Flash"
 msgstr ""
 
@@ -489,7 +489,7 @@ msgid ":mtgtip:`Taranika, Akroan Veteran<https://img.scryfall.com/cards/border_c
 msgstr ""
 
 #: ../../TBD.rst:227
-#: ../../TBD.rst:1599
+#: ../../TBD.rst:1601
 msgid "Vigilance"
 msgstr ""
 
@@ -1089,7 +1089,7 @@ msgid "You draw two cards, lose 2 life, and put the top two cards of your librar
 msgstr ""
 
 #: ../../TBD.rst:574
-msgid ":mtgtip:`Gravebreaker Lamia<https://img.scryfall.com/cards/border_crop/front/4/0/408a2073-d068-44bc-b596-5a3a3a446ee1.jpg?1578673742|https://scryfall.com/card/thb/98/gravebreaker-lamia?utm_source=api>`"
+msgid ":mtgtip:`Gravebreaker Lamia<https://img.scryfall.com/cards/border_crop/front/4/0/408a2073-d068-44bc-b596-5a3a3a446ee1.jpg?1578792175|https://scryfall.com/card/thb/98/gravebreaker-lamia?utm_source=api>`"
 msgstr ""
 
 #: ../../TBD.rst:571
@@ -1231,11 +1231,11 @@ msgid "Pharika's Spawn escapes with two +1/+1 counters on it. When it enters the
 msgstr ""
 
 #: ../../TBD.rst:662
-msgid ":mtgtip:`Rage-Scarred Berserker<https://img.scryfall.com/cards/border_crop/front/1/f/1f76d7c4-a5d6-4144-b5f3-e43b96b695b7.jpg?1578665209|https://scryfall.com/card/thb/113/rage-scarred-berserker?utm_source=api>`"
+msgid ":mtgtip:`Rage-Scarred Berserker<https://img.scryfall.com/cards/border_crop/front/1/f/1f76d7c4-a5d6-4144-b5f3-e43b96b695b7.jpg?1578756157|https://scryfall.com/card/thb/113/rage-scarred-berserker?utm_source=api>`"
 msgstr ""
 
 #: ../../TBD.rst:661
-msgid "When Rage-Scarred Berserker enters the battlefield, target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it."
+msgid "When Rage-Scarred Berserker enters the battlefield, target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 
 #: ../../TBD.rst:668
@@ -2239,11 +2239,11 @@ msgid "|mana_4|\\ |mana_g|, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf 
 msgstr ""
 
 #: ../../TBD.rst:1228
-msgid ":mtgtip:`Acolyte of Affliction<https://img.scryfall.com/cards/border_crop/front/a/1/a14afed6-ca42-442d-ba86-621179e6957c.jpg?1578667362|https://scryfall.com/card/thb/206/acolyte-of-affliction?utm_source=api>`"
+msgid ":mtgtip:`Acolyte of Affliction<https://img.scryfall.com/cards/border_crop/front/a/1/a14afed6-ca42-442d-ba86-621179e6957c.jpg?1578744761|https://scryfall.com/card/thb/206/acolyte-of-affliction?utm_source=api>`"
 msgstr ""
 
 #: ../../TBD.rst:1227
-msgid "When \"Acolyte of Affliction\" enters the battlefield, put the top two cards of your library into your graveyard, then you may return a permanent card from your graveyard to your hand."
+msgid "When Acolyte of Affliction enters the battlefield, put the top two cards of your library into your graveyard, then you may return a permanent card from your graveyard to your hand."
 msgstr ""
 
 #: ../../TBD.rst:1232
@@ -2586,449 +2586,453 @@ msgstr ""
 msgid "|mana_x|, |tap|: Tap target creature with power X or less. It doesn't untap during its controller's untap step for as long as Entrancing Lyre remains tapped."
 msgstr ""
 
-#: ../../TBD.rst:1414
-msgid ":mtgtip:`Mirror Shield<https://img.scryfall.com/cards/border_crop/front/e/7/e7624e84-93ce-4983-8624-ebc934cab67f.jpg?1578668013|https://scryfall.com/card/thb/234/mirror-shield?utm_source=api>`"
+#: ../../TBD.rst:1416
+msgid ":mtgtip:`Mirror Shield<https://img.scryfall.com/cards/border_crop/front/e/7/e7624e84-93ce-4983-8624-ebc934cab67f.jpg?1578757310|https://scryfall.com/card/thb/234/mirror-shield?utm_source=api>`"
 msgstr ""
 
 #: ../../TBD.rst:1413
 msgid "Equipped creature gets +0/+2 and has hexproof and \"Whenever a creature with deathtouch blocks or becomes blocked by this creature, destroy that creature.\""
 msgstr ""
 
-#: ../../TBD.rst:1420
+#: ../../TBD.rst:1415
+msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../TBD.rst:1422
 msgid ":mtgtip:`Nyx Lotus<https://img.scryfall.com/cards/border_crop/front/5/b/5bd6353f-d119-40e6-895c-030a11a7a2fe.jpg?1577966667|https://scryfall.com/card/thb/235/nyx-lotus?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1417
+#: ../../TBD.rst:1419
 msgid "Nyx Lotus enters the battlefield tapped."
 msgstr ""
 
-#: ../../TBD.rst:1419
+#: ../../TBD.rst:1421
 msgid "|tap|: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)"
 msgstr ""
 
-#: ../../TBD.rst:1428
+#: ../../TBD.rst:1430
 msgid ":mtgtip:`Shadowspear<https://img.scryfall.com/cards/border_crop/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.jpg?1578668046|https://scryfall.com/card/thb/236/shadowspear?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1423
+#: ../../TBD.rst:1425
 msgid "Equipped creature gets +1/+1 and has trample and lifelink."
 msgstr ""
 
-#: ../../TBD.rst:1425
+#: ../../TBD.rst:1427
 msgid "|mana_1|: Permanents your opponents control lose hexproof and indestructible until end of turn."
 msgstr ""
 
-#: ../../TBD.rst:1427
+#: ../../TBD.rst:1429
 msgid "Equip |mana_2|"
 msgstr ""
 
-#: ../../TBD.rst:1436
+#: ../../TBD.rst:1438
 msgid ":mtgtip:`Soul-Guide Lantern<https://img.scryfall.com/cards/border_crop/front/7/c/7c850b94-75c9-4457-8b5e-1193352d6fcb.jpg?1578345834|https://scryfall.com/card/thb/237/soul-guide-lantern?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1431
+#: ../../TBD.rst:1433
 msgid "When Soul-Guide Lantern enters the battlefield, exile target card from a graveyard."
 msgstr ""
 
-#: ../../TBD.rst:1433
+#: ../../TBD.rst:1435
 msgid "|tap|, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard."
 msgstr ""
 
-#: ../../TBD.rst:1435
+#: ../../TBD.rst:1437
 msgid "|mana_1|, |tap|, Sacrifice Soul-Guide Lantern: Draw a card."
 msgstr ""
 
-#: ../../TBD.rst:1442
+#: ../../TBD.rst:1444
 msgid ":mtgtip:`Thaumaturge's Familiar<https://img.scryfall.com/cards/border_crop/front/7/b/7b497153-69a8-480e-b02f-88afec9d5053.jpg?1578668136|https://scryfall.com/card/thb/238/thaumaturges-familiar?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1441
+#: ../../TBD.rst:1443
 msgid "When Thaumaturge's Familiar enters the battlefield, scry 1."
 msgstr ""
 
-#: ../../TBD.rst:1448
+#: ../../TBD.rst:1450
 msgid ":mtgtip:`Thundering Chariot<https://img.scryfall.com/cards/border_crop/front/c/d/cd2fa92d-5521-421c-b3f8-7c14bbef3080.jpg?1578668210|https://scryfall.com/card/thb/239/thundering-chariot?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1445
+#: ../../TBD.rst:1447
 msgid "First strike, trample, haste"
 msgstr ""
 
-#: ../../TBD.rst:1447
+#: ../../TBD.rst:1449
 msgid "Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 
-#: ../../TBD.rst:1452
+#: ../../TBD.rst:1454
 msgid ":mtgtip:`Traveler's Amulet<https://img.scryfall.com/cards/border_crop/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1578671045|https://scryfall.com/card/thb/240/travelers-amulet?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1451
+#: ../../TBD.rst:1453
 msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 
-#: ../../TBD.rst:1460
+#: ../../TBD.rst:1462
 msgid ":mtgtip:`Wings of Hubris<https://img.scryfall.com/cards/border_crop/front/e/3/e3ef8f96-3e3c-4b1b-8180-3b38c7deaaff.jpg?1578668312|https://scryfall.com/card/thb/241/wings-of-hubris?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1455
+#: ../../TBD.rst:1457
 msgid "Equipped creature has flying."
 msgstr ""
 
-#: ../../TBD.rst:1457
+#: ../../TBD.rst:1459
 msgid "Sacrifice Wings of Hubris: Equipped creature can't be blocked this turn. Sacrifice it at the beginning of the next end step."
 msgstr ""
 
-#: ../../TBD.rst:1459
+#: ../../TBD.rst:1461
 msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
 
-#: ../../TBD.rst:1466
+#: ../../TBD.rst:1468
 msgid ":mtgtip:`Field of Ruin<https://img.scryfall.com/cards/border_crop/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.jpg?1577722219|https://scryfall.com/card/thb/242/field-of-ruin?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1463
-#: ../../TBD.rst:1469
-#: ../../TBD.rst:1515
+#: ../../TBD.rst:1465
+#: ../../TBD.rst:1471
+#: ../../TBD.rst:1517
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../TBD.rst:1465
+#: ../../TBD.rst:1467
 msgid "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library."
 msgstr ""
 
-#: ../../TBD.rst:1472
+#: ../../TBD.rst:1474
 msgid ":mtgtip:`Labyrinth of Skophos<https://img.scryfall.com/cards/border_crop/front/f/f/ff0dd221-2660-43f6-8e28-8000e3fe72a4.jpg?1578669550|https://scryfall.com/card/thb/243/labyrinth-of-skophos?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1471
+#: ../../TBD.rst:1473
 msgid "|mana_4|, |tap|: Remove target attacking or blocking creature from combat."
 msgstr ""
 
-#: ../../TBD.rst:1480
+#: ../../TBD.rst:1482
 msgid ":mtgtip:`Temple of Abandon<https://img.scryfall.com/cards/border_crop/front/7/d/7d5f8481-47f7-4531-9dad-686cdfb5d2ad.jpg?1577716651|https://scryfall.com/card/thb/244/temple-of-abandon?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1475
+#: ../../TBD.rst:1477
 msgid "Temple of Abandon enters the battlefield tapped."
 msgstr ""
 
-#: ../../TBD.rst:1477
+#: ../../TBD.rst:1479
 msgid "When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../TBD.rst:1479
+#: ../../TBD.rst:1481
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
-#: ../../TBD.rst:1488
+#: ../../TBD.rst:1490
 msgid ":mtgtip:`Temple of Deceit<https://img.scryfall.com/cards/border_crop/front/e/3/e3d4fd29-dab5-481f-94c9-eeb70f3c29dd.jpg?1577716635|https://scryfall.com/card/thb/245/temple-of-deceit?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1483
+#: ../../TBD.rst:1485
 msgid "Temple of Deceit enters the battlefield tapped."
 msgstr ""
 
-#: ../../TBD.rst:1485
+#: ../../TBD.rst:1487
 msgid "When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../TBD.rst:1487
+#: ../../TBD.rst:1489
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
-#: ../../TBD.rst:1496
+#: ../../TBD.rst:1498
 msgid ":mtgtip:`Temple of Enlightenment<https://img.scryfall.com/cards/border_crop/front/a/d/adad8390-66d8-4022-a059-c68e44e718fe.jpg?1577716826|https://scryfall.com/card/thb/246/temple-of-enlightenment?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1491
+#: ../../TBD.rst:1493
 msgid "Temple of Enlightenment enters the battlefield tapped."
 msgstr ""
 
-#: ../../TBD.rst:1493
+#: ../../TBD.rst:1495
 msgid "When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../TBD.rst:1495
+#: ../../TBD.rst:1497
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
-#: ../../TBD.rst:1504
+#: ../../TBD.rst:1506
 msgid ":mtgtip:`Temple of Malice<https://img.scryfall.com/cards/border_crop/front/9/4/9490a495-9f17-45a8-b10c-7de4fcbd2778.jpg?1577717049|https://scryfall.com/card/thb/247/temple-of-malice?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1499
+#: ../../TBD.rst:1501
 msgid "Temple of Malice enters the battlefield tapped."
 msgstr ""
 
-#: ../../TBD.rst:1501
+#: ../../TBD.rst:1503
 msgid "When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../TBD.rst:1503
+#: ../../TBD.rst:1505
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
-#: ../../TBD.rst:1512
+#: ../../TBD.rst:1514
 msgid ":mtgtip:`Temple of Plenty<https://img.scryfall.com/cards/border_crop/front/6/e/6e6256ea-ccb5-4595-8278-44266f922e31.jpg?1577717339|https://scryfall.com/card/thb/248/temple-of-plenty?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1507
+#: ../../TBD.rst:1509
 msgid "Temple of Plenty enters the battlefield tapped."
 msgstr ""
 
-#: ../../TBD.rst:1509
+#: ../../TBD.rst:1511
 msgid "When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../TBD.rst:1511
+#: ../../TBD.rst:1513
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
-#: ../../TBD.rst:1518
+#: ../../TBD.rst:1520
 msgid ":mtgtip:`Unknown Shores<https://img.scryfall.com/cards/border_crop/front/4/9/492181e4-5825-45d4-b8a1-37f29c32a845.jpg?1578603551|https://scryfall.com/card/thb/249/unknown-shores?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1517
+#: ../../TBD.rst:1519
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../TBD.rst:1522
+#: ../../TBD.rst:1524
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1576937884|https://scryfall.com/card/thb/250/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1521
+#: ../../TBD.rst:1523
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../TBD.rst:1526
+#: ../../TBD.rst:1528
 msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1576937872|https://scryfall.com/card/thb/251/island?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1525
+#: ../../TBD.rst:1527
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../TBD.rst:1530
+#: ../../TBD.rst:1532
 msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/0/2/02cb5cfd-018e-4c5e-bef1-166262aa5f1d.jpg?1576937846|https://scryfall.com/card/thb/252/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1529
+#: ../../TBD.rst:1531
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../TBD.rst:1534
+#: ../../TBD.rst:1536
 msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1576937840|https://scryfall.com/card/thb/253/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1533
+#: ../../TBD.rst:1535
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../TBD.rst:1538
+#: ../../TBD.rst:1540
 msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1576937833|https://scryfall.com/card/thb/254/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1537
+#: ../../TBD.rst:1539
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
-#: ../../TBD.rst:1548
+#: ../../TBD.rst:1550
 msgid ":mtgtip:`Athreos, Shroud-Veiled<https://img.scryfall.com/cards/border_crop/front/8/7/871c19fc-7d99-4022-9e13-d679a9e3547e.jpg?1576663168|https://scryfall.com/card/thb/269/athreos-shroud-veiled?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1543
+#: ../../TBD.rst:1545
 msgid "As long as your devotion to white and black is less than seven, Athreos isn't a creature."
 msgstr ""
 
-#: ../../TBD.rst:1545
+#: ../../TBD.rst:1547
 msgid "At the beginning of your end step, put a coin counter on another target creature."
 msgstr ""
 
-#: ../../TBD.rst:1547
+#: ../../TBD.rst:1549
 msgid "Whenever a creature with a coin counter on it dies or is put into exile, return that card to the battlefield under your control."
 msgstr ""
 
-#: ../../TBD.rst:1556
+#: ../../TBD.rst:1558
 msgid ":mtgtip:`Elspeth, Undaunted Hero<https://img.scryfall.com/cards/border_crop/front/b/f/bf9867e5-9d69-400c-a84f-3b085a4fd510.jpg?1576663093|https://scryfall.com/card/thb/270/elspeth-undaunted-hero?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1551
+#: ../../TBD.rst:1553
 msgid "+2: Put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
 
-#: ../../TBD.rst:1553
+#: ../../TBD.rst:1555
 msgid "−2: Search your library and/or graveyard for a card named Sunlit Hoplite and put it onto the battlefield. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../TBD.rst:1555
+#: ../../TBD.rst:1557
 msgid "−8: Until end of turn, creatures you control gain flying and get +X/+X, where X is your devotion to white."
 msgstr ""
 
-#: ../../TBD.rst:1560
+#: ../../TBD.rst:1562
 msgid ":mtgtip:`Eidolon of Inspiration<https://img.scryfall.com/cards/border_crop/front/5/3/53343a0c-d97c-4d6f-b696-5343a962e3dd.jpg?1578528389|https://scryfall.com/card/thb/271/eidolon-of-inspiration?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1559
+#: ../../TBD.rst:1561
 msgid "At the beginning of combat on your turn, target creature you control gets +2/+0 until end of turn."
 msgstr ""
 
-#: ../../TBD.rst:1564
+#: ../../TBD.rst:1566
 msgid ":mtgtip:`Elspeth's Devotee<https://img.scryfall.com/cards/border_crop/front/0/f/0f82064c-b335-454c-9be6-9fbcb21aa8e5.jpg?1578528224|https://scryfall.com/card/thb/272/elspeths-devotee?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1563
+#: ../../TBD.rst:1565
 msgid "When Elspeth's Devotee enters the battlefield, you may search your library and/or graveyard for a card named Elspeth, Undaunted Hero, reveal it, and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../TBD.rst:1570
+#: ../../TBD.rst:1572
 msgid ":mtgtip:`Sunlit Hoplite<https://img.scryfall.com/cards/border_crop/front/2/f/2f89cf0f-f682-44f8-879c-ed1e22f849b0.jpg?1578528230|https://scryfall.com/card/thb/273/sunlit-hoplite?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1567
+#: ../../TBD.rst:1569
 msgid "As long as it's your turn, Sunlit Hoplite has first strike."
 msgstr ""
 
-#: ../../TBD.rst:1569
+#: ../../TBD.rst:1571
 msgid "Sunlit Hoplite gets +1/+0 as long as you control an Elspeth planeswalker."
 msgstr ""
 
-#: ../../TBD.rst:1578
+#: ../../TBD.rst:1580
 msgid ":mtgtip:`Ashiok, Sculptor of Fears<https://img.scryfall.com/cards/border_crop/front/3/6/36a5fc37-e7bd-41a9-88ac-74a3f14fea8b.jpg?1578108326|https://scryfall.com/card/thb/274/ashiok-sculptor-of-fears?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1573
+#: ../../TBD.rst:1575
 msgid "+2: Draw a card. Each player puts the top two cards of their library into their graveyard."
 msgstr ""
 
-#: ../../TBD.rst:1575
+#: ../../TBD.rst:1577
 msgid "−5: Put target creature card from a graveyard onto the battlefield under your control."
 msgstr ""
 
-#: ../../TBD.rst:1577
+#: ../../TBD.rst:1579
 msgid "−11: Gain control of all creatures target opponent controls."
 msgstr ""
 
-#: ../../TBD.rst:1584
+#: ../../TBD.rst:1586
 msgid ":mtgtip:`Swimmer in Nightmares<https://img.scryfall.com/cards/border_crop/front/e/b/ebc6b5ee-e764-444e-8b27-26e00f4b2074.jpg?1578528323|https://scryfall.com/card/thb/275/swimmer-in-nightmares?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1581
+#: ../../TBD.rst:1583
 msgid "Swimmer in Nightmares gets +3/+0 as long as there are ten or more cards in a single graveyard."
 msgstr ""
 
-#: ../../TBD.rst:1583
+#: ../../TBD.rst:1585
 msgid "Swimmer in Nightmares can't be blocked as long as you control an Ashiok planeswalker."
 msgstr ""
 
-#: ../../TBD.rst:1590
+#: ../../TBD.rst:1592
 msgid ":mtgtip:`Mindwrack Harpy<https://img.scryfall.com/cards/border_crop/front/6/c/6c5ce79a-fcbd-46ab-8911-480f967ca57f.jpg?1578528528|https://scryfall.com/card/thb/276/mindwrack-harpy?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1589
+#: ../../TBD.rst:1591
 msgid "At the beginning of combat on your turn, each player puts the top three cards of their library into their graveyard."
 msgstr ""
 
-#: ../../TBD.rst:1596
+#: ../../TBD.rst:1598
 msgid ":mtgtip:`Ashiok's Forerunner<https://img.scryfall.com/cards/border_crop/front/7/8/781bfbae-acd9-4583-88d2-d31978eef565.jpg?1578530940|https://scryfall.com/card/thb/277/ashioks-forerunner?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1595
+#: ../../TBD.rst:1597
 msgid "When Ashiok's Forerunner enters the battlefield, you may search your library and/or graveyard for a card named Ashiok, Sculptor of Fears, reveal it, and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../TBD.rst:1602
+#: ../../TBD.rst:1604
 msgid ":mtgtip:`Grasping Giant<https://img.scryfall.com/cards/border_crop/front/a/2/a238aa9c-661e-449a-8f05-70b7954e544f.jpg?1577253383|https://scryfall.com/card/thb/288/grasping-giant?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1601
+#: ../../TBD.rst:1603
 msgid "Whenever Grasping Giant becomes blocked by a creature, exile that creature until Grasping Giant leaves the battlefield."
 msgstr ""
 
-#: ../../TBD.rst:1606
+#: ../../TBD.rst:1608
 msgid ":mtgtip:`Victory's Envoy<https://img.scryfall.com/cards/border_crop/front/7/e/7e7fa9e2-4c16-4e94-9b0e-09657303132c.jpg?1578108276|https://scryfall.com/card/thb/289/victorys-envoy?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1605
+#: ../../TBD.rst:1607
 msgid "At the beginning of your upkeep, put a +1/+1 counter on each other creature you control."
 msgstr ""
 
-#: ../../TBD.rst:1612
+#: ../../TBD.rst:1614
 msgid ":mtgtip:`Sphinx Mindbreaker<https://img.scryfall.com/cards/border_crop/front/d/7/d70c50ce-48f0-49a6-9653-42b8ccb9a647.jpg?1577253406|https://scryfall.com/card/thb/290/sphinx-mindbreaker?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1611
+#: ../../TBD.rst:1613
 msgid "When Sphinx Mindbreaker enters the battlefield, each opponent puts the top ten cards of their library into their graveyard."
 msgstr ""
 
-#: ../../TBD.rst:1616
+#: ../../TBD.rst:1618
 msgid ":mtgtip:`Serpent of Yawning Depths<https://img.scryfall.com/cards/border_crop/front/a/4/a4ac18ae-0d1e-43f5-9cc9-722fa6e36fe5.jpg?1577253401|https://scryfall.com/card/thb/291/serpent-of-yawning-depths?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1615
+#: ../../TBD.rst:1617
 msgid "Krakens, Leviathans, Octopuses, and Serpents you control can't be blocked except by Krakens, Leviathans, Octopuses, and Serpents."
 msgstr ""
 
-#: ../../TBD.rst:1622
+#: ../../TBD.rst:1624
 msgid ":mtgtip:`Demon of Loathing<https://img.scryfall.com/cards/border_crop/front/5/7/57564f6f-7c99-4325-8a0e-22342e73767b.jpg?1577253418|https://scryfall.com/card/thb/292/demon-of-loathing?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1619
+#: ../../TBD.rst:1621
 msgid "Flying, trample"
 msgstr ""
 
-#: ../../TBD.rst:1621
+#: ../../TBD.rst:1623
 msgid "Whenever Demon of Loathing deals combat damage to a player, that player sacrifices a creature."
 msgstr ""
 
-#: ../../TBD.rst:1628
+#: ../../TBD.rst:1630
 msgid ":mtgtip:`Underworld Sentinel<https://img.scryfall.com/cards/border_crop/front/d/8/d8c7aa89-3777-49ec-a6d0-c568150864e8.jpg?1577253440|https://scryfall.com/card/thb/293/underworld-sentinel?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1625
+#: ../../TBD.rst:1627
 msgid "Whenever Underworld Sentinel attacks, exile target creature card from your graveyard."
 msgstr ""
 
-#: ../../TBD.rst:1627
+#: ../../TBD.rst:1629
 msgid "When Underworld Sentinel dies, put all cards exiled with it onto the battlefield."
 msgstr ""
 
-#: ../../TBD.rst:1632
+#: ../../TBD.rst:1634
 msgid ":mtgtip:`Deathbellow War Cry<https://img.scryfall.com/cards/border_crop/front/c/f/cf0f58ac-88ef-445c-a12b-0bb1cf482298.jpg?1577253448|https://scryfall.com/card/thb/294/deathbellow-war-cry?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1631
+#: ../../TBD.rst:1633
 msgid "Search your library for up to four Minotaur creature cards with different names, put them onto the battlefield, then shuffle your library."
 msgstr ""
 
-#: ../../TBD.rst:1638
+#: ../../TBD.rst:1640
 msgid ":mtgtip:`Terror of Mount Velus<https://img.scryfall.com/cards/border_crop/front/3/3/332dc6c3-7802-4bde-aa4e-0feab70c216f.jpg?1577253455|https://scryfall.com/card/thb/295/terror-of-mount-velus?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1635
+#: ../../TBD.rst:1637
 msgid "Flying, double strike"
 msgstr ""
 
-#: ../../TBD.rst:1637
+#: ../../TBD.rst:1639
 msgid "When Terror of Mount Velus enters the battlefield, creatures you control gain double strike until end of turn."
 msgstr ""
 
-#: ../../TBD.rst:1642
+#: ../../TBD.rst:1644
 msgid ":mtgtip:`Ironscale Hydra<https://img.scryfall.com/cards/border_crop/front/0/2/0215cbbf-7bac-4ff7-bceb-23d728797848.jpg?1577253462|https://scryfall.com/card/thb/296/ironscale-hydra?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1641
+#: ../../TBD.rst:1643
 msgid "If a creature would deal combat damage to Ironscale Hydra, prevent that damage and put a +1/+1 counter on Ironscale Hydra."
 msgstr ""
 
-#: ../../TBD.rst:1647
+#: ../../TBD.rst:1649
 msgid ":mtgtip:`Treeshaker Chimera<https://img.scryfall.com/cards/border_crop/front/4/5/456627ec-81a4-40db-91dc-d25a59cd2837.jpg?1577253470|https://scryfall.com/card/thb/297/treeshaker-chimera?utm_source=api>`"
 msgstr ""
 
-#: ../../TBD.rst:1645
+#: ../../TBD.rst:1647
 msgid "All creatures able to block Treeshaker Chimera do so."
 msgstr ""
 
-#: ../../TBD.rst:1647
+#: ../../TBD.rst:1649
 msgid "When Treeshaker Chimera dies, draw three cards."
 msgstr ""
 

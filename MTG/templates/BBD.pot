@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2019, Dominik Kozaczko
+# Copyright (C) 2013-2020, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2019.9\n"
+"Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 09:05+0200\n"
+"POT-Creation-Date: 2020-01-12 21:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid ":mtgexp:`BBD` Battlebond"
 msgstr ""
 
 #: ../../BBD.rst:18
-msgid ":mtgtip:`Will Kenrith<https://img.scryfall.com/cards/border_crop/en/bbd/1.jpg?1541374553|https://scryfall.com/card/bbd/1/will-kenrith?utm_source=api>`"
+msgid ":mtgtip:`Will Kenrith<https://img.scryfall.com/cards/border_crop/front/b/e/be8061c6-21b8-4146-8917-c73a82060ffe.jpg?1562933306|https://scryfall.com/card/bbd/1/will-kenrith?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:9
@@ -29,11 +29,11 @@ msgid "+2: Until your next turn, up to two target creatures each have base power
 msgstr ""
 
 #: ../../BBD.rst:11
-msgid "-2: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost |mana_2| less to cast."
+msgid "−2: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost |mana_2| less to cast."
 msgstr ""
 
 #: ../../BBD.rst:13
-msgid "-8: Target player gets an emblem with \"Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.\""
+msgid "−8: Target player gets an emblem with \"Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.\""
 msgstr ""
 
 #: ../../BBD.rst:15
@@ -45,7 +45,7 @@ msgid "Will Kenrith can be your commander."
 msgstr ""
 
 #: ../../BBD.rst:30
-msgid ":mtgtip:`Rowan Kenrith<https://img.scryfall.com/cards/border_crop/en/bbd/2.jpg?1541374560|https://scryfall.com/card/bbd/2/rowan-kenrith?utm_source=api>`"
+msgid ":mtgtip:`Rowan Kenrith<https://img.scryfall.com/cards/border_crop/front/7/8/789e690b-e4f3-499e-aa58-97c3b63b8d32.jpg?1562919191|https://scryfall.com/card/bbd/2/rowan-kenrith?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:21
@@ -53,11 +53,11 @@ msgid "+2: During target player's next turn, each creature that player controls 
 msgstr ""
 
 #: ../../BBD.rst:23
-msgid "-2: Rowan Kenrith deals 3 damage to each tapped creature target player controls."
+msgid "−2: Rowan Kenrith deals 3 damage to each tapped creature target player controls."
 msgstr ""
 
 #: ../../BBD.rst:25
-msgid "-8: Target player gets an emblem with \"Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.\""
+msgid "−8: Target player gets an emblem with \"Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.\""
 msgstr ""
 
 #: ../../BBD.rst:27
@@ -69,7 +69,7 @@ msgid "Rowan Kenrith can be your commander."
 msgstr ""
 
 #: ../../BBD.rst:38
-msgid ":mtgtip:`Regna, the Redeemer<https://img.scryfall.com/cards/border_crop/en/bbd/3.jpg?1529060731|https://scryfall.com/card/bbd/3/regna-the-redeemer?utm_source=api>`"
+msgid ":mtgtip:`Regna, the Redeemer<https://img.scryfall.com/cards/border_crop/front/0/c/0c2bf475-9845-40ed-9f55-669325fb6183.jpg?1562897463|https://scryfall.com/card/bbd/3/regna-the-redeemer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:33
@@ -106,7 +106,7 @@ msgid "At the beginning of each end step, if your team gained life this turn, cr
 msgstr ""
 
 #: ../../BBD.rst:44
-msgid ":mtgtip:`Krav, the Unredeemed<https://img.scryfall.com/cards/border_crop/en/bbd/4.jpg?1529060747|https://scryfall.com/card/bbd/4/krav-the-unredeemed?utm_source=api>`"
+msgid ":mtgtip:`Krav, the Unredeemed<https://img.scryfall.com/cards/border_crop/front/6/7/67bd3c49-ff73-4630-a4ee-c782f03e511d.jpg?1562915928|https://scryfall.com/card/bbd/4/krav-the-unredeemed?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:41
@@ -118,7 +118,7 @@ msgid "|mana_b|, Sacrifice X creatures: Target player draws X cards and gains X 
 msgstr ""
 
 #: ../../BBD.rst:52
-msgid ":mtgtip:`Zndrsplt, Eye of Wisdom<https://img.scryfall.com/cards/border_crop/en/bbd/5.jpg?1529060763|https://scryfall.com/card/bbd/5/zndrsplt-eye-of-wisdom?utm_source=api>`"
+msgid ":mtgtip:`Zndrsplt, Eye of Wisdom<https://img.scryfall.com/cards/border_crop/front/7/6/76c33402-a022-4d2f-9a83-4b8ddc04e971.jpg?1562918785|https://scryfall.com/card/bbd/5/zndrsplt-eye-of-wisdom?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:47
@@ -135,7 +135,7 @@ msgid "Whenever a player wins a coin flip, draw a card."
 msgstr ""
 
 #: ../../BBD.rst:60
-msgid ":mtgtip:`Okaun, Eye of Chaos<https://img.scryfall.com/cards/border_crop/en/bbd/6.jpg?1529060785|https://scryfall.com/card/bbd/6/okaun-eye-of-chaos?utm_source=api>`"
+msgid ":mtgtip:`Okaun, Eye of Chaos<https://img.scryfall.com/cards/border_crop/front/d/5/d53ee8c0-b27c-4556-b610-ff64edb7a18f.jpg?1562937757|https://scryfall.com/card/bbd/6/okaun-eye-of-chaos?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:55
@@ -147,7 +147,7 @@ msgid "Whenever a player wins a coin flip, double Okaun's power and toughness un
 msgstr ""
 
 #: ../../BBD.rst:68
-msgid ":mtgtip:`Virtus the Veiled<https://img.scryfall.com/cards/border_crop/en/bbd/7.jpg?1529060798|https://scryfall.com/card/bbd/7/virtus-the-veiled?utm_source=api>`"
+msgid ":mtgtip:`Virtus the Veiled<https://img.scryfall.com/cards/border_crop/front/4/a/4a45a631-f899-4414-8e0a-64d987e9ba8b.jpg?1562910008|https://scryfall.com/card/bbd/7/virtus-the-veiled?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:63
@@ -164,7 +164,7 @@ msgid "Whenever Virtus the Veiled deals combat damage to a player, that player l
 msgstr ""
 
 #: ../../BBD.rst:76
-msgid ":mtgtip:`Gorm the Great<https://img.scryfall.com/cards/border_crop/en/bbd/8.jpg?1529060811|https://scryfall.com/card/bbd/8/gorm-the-great?utm_source=api>`"
+msgid ":mtgtip:`Gorm the Great<https://img.scryfall.com/cards/border_crop/front/4/1/41603938-9527-42fc-a870-b662c3871ae3.jpg?1562908113|https://scryfall.com/card/bbd/8/gorm-the-great?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:71
@@ -182,7 +182,7 @@ msgid "Gorm the Great must be blocked if able, and Gorm must be blocked by two o
 msgstr ""
 
 #: ../../BBD.rst:84
-msgid ":mtgtip:`Khorvath Brightflame<https://img.scryfall.com/cards/border_crop/en/bbd/9.jpg?1529060822|https://scryfall.com/card/bbd/9/khorvath-brightflame?utm_source=api>`"
+msgid ":mtgtip:`Khorvath Brightflame<https://img.scryfall.com/cards/border_crop/front/5/f/5fa0404b-757a-4aee-bcd8-6150938d0fba.jpg?1562914353|https://scryfall.com/card/bbd/9/khorvath-brightflame?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:79
@@ -198,7 +198,7 @@ msgid "Knights your team controls have flying and haste."
 msgstr ""
 
 #: ../../BBD.rst:92
-msgid ":mtgtip:`Sylvia Brightspear<https://img.scryfall.com/cards/border_crop/en/bbd/10.jpg?1529060833|https://scryfall.com/card/bbd/10/sylvia-brightspear?utm_source=api>`"
+msgid ":mtgtip:`Sylvia Brightspear<https://img.scryfall.com/cards/border_crop/front/a/b/ab2b349a-1555-4aaa-8302-28667404e630.jpg?1562929513|https://scryfall.com/card/bbd/10/sylvia-brightspear?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:87
@@ -214,7 +214,7 @@ msgid "Dragons your team controls have double strike."
 msgstr ""
 
 #: ../../BBD.rst:98
-msgid ":mtgtip:`Pir, Imaginative Rascal<https://img.scryfall.com/cards/border_crop/en/bbd/11.jpg?1529060842|https://scryfall.com/card/bbd/11/pir-imaginative-rascal?utm_source=api>`"
+msgid ":mtgtip:`Pir, Imaginative Rascal<https://img.scryfall.com/cards/border_crop/front/5/a/5a7241f5-4d69-47fe-b037-95037008184c.jpg?1562913367|https://scryfall.com/card/bbd/11/pir-imaginative-rascal?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:95
@@ -226,7 +226,7 @@ msgid "If one or more counters would be put on a permanent your team controls, t
 msgstr ""
 
 #: ../../BBD.rst:106
-msgid ":mtgtip:`Toothy, Imaginary Friend<https://img.scryfall.com/cards/border_crop/en/bbd/12.jpg?1529060851|https://scryfall.com/card/bbd/12/toothy-imaginary-friend?utm_source=api>`"
+msgid ":mtgtip:`Toothy, Imaginary Friend<https://img.scryfall.com/cards/border_crop/front/e/b/ebdf2f50-f69a-47c4-a75f-ff55781bb0c8.jpg?1562942414|https://scryfall.com/card/bbd/12/toothy-imaginary-friend?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:101
@@ -242,7 +242,7 @@ msgid "When Toothy leaves the battlefield, draw a card for each +1/+1 counter on
 msgstr ""
 
 #: ../../BBD.rst:112
-msgid ":mtgtip:`Blaring Recruiter<https://img.scryfall.com/cards/border_crop/en/bbd/13.jpg?1529060861|https://scryfall.com/card/bbd/13/blaring-recruiter?utm_source=api>`"
+msgid ":mtgtip:`Blaring Recruiter<https://img.scryfall.com/cards/border_crop/front/9/5/959bb0f1-0af3-4070-9303-684a07edfcfa.jpg?1562925141|https://scryfall.com/card/bbd/13/blaring-recruiter?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:109
@@ -254,7 +254,7 @@ msgid "|mana_2|\\ |mana_w|: Create a 1/1 white Warrior creature token."
 msgstr ""
 
 #: ../../BBD.rst:118
-msgid ":mtgtip:`Blaring Captain<https://img.scryfall.com/cards/border_crop/en/bbd/14.jpg?1529060870|https://scryfall.com/card/bbd/14/blaring-captain?utm_source=api>`"
+msgid ":mtgtip:`Blaring Captain<https://img.scryfall.com/cards/border_crop/front/5/2/529ff592-88bd-4bab-8f6a-637bb08d9198.jpg?1562911779|https://scryfall.com/card/bbd/14/blaring-captain?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:115
@@ -266,7 +266,7 @@ msgid "Whenever Blaring Captain attacks, attacking Warriors get +1/+1 until end 
 msgstr ""
 
 #: ../../BBD.rst:124
-msgid ":mtgtip:`Chakram Retriever<https://img.scryfall.com/cards/border_crop/en/bbd/15.jpg?1529060880|https://scryfall.com/card/bbd/15/chakram-retriever?utm_source=api>`"
+msgid ":mtgtip:`Chakram Retriever<https://img.scryfall.com/cards/border_crop/front/b/5/b57d518c-21bb-4451-8248-9ee838460c09.jpg?1562931528|https://scryfall.com/card/bbd/15/chakram-retriever?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:121
@@ -278,7 +278,7 @@ msgid "Whenever you cast a spell during your turn, untap target creature."
 msgstr ""
 
 #: ../../BBD.rst:130
-msgid ":mtgtip:`Chakram Slinger<https://img.scryfall.com/cards/border_crop/en/bbd/16.jpg?1529060891|https://scryfall.com/card/bbd/16/chakram-slinger?utm_source=api>`"
+msgid ":mtgtip:`Chakram Slinger<https://img.scryfall.com/cards/border_crop/front/3/4/3414b206-caff-4240-82ed-a1bb9c763d2f.jpg?1562905494|https://scryfall.com/card/bbd/16/chakram-slinger?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:127
@@ -290,7 +290,7 @@ msgid "|mana_r|, |tap|: Chakram Slinger deals 2 damage to target player or plane
 msgstr ""
 
 #: ../../BBD.rst:138
-msgid ":mtgtip:`Soulblade Corrupter<https://img.scryfall.com/cards/border_crop/en/bbd/17.jpg?1529060902|https://scryfall.com/card/bbd/17/soulblade-corrupter?utm_source=api>`"
+msgid ":mtgtip:`Soulblade Corrupter<https://img.scryfall.com/cards/border_crop/front/3/d/3d65c040-42f5-4ea0-a313-0e2b364e55df.jpg?1562907396|https://scryfall.com/card/bbd/17/soulblade-corrupter?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:133
@@ -302,7 +302,7 @@ msgid "Whenever a creature with a +1/+1 counter on it attacks one of your oppone
 msgstr ""
 
 #: ../../BBD.rst:144
-msgid ":mtgtip:`Soulblade Renewer<https://img.scryfall.com/cards/border_crop/en/bbd/18.jpg?1529060913|https://scryfall.com/card/bbd/18/soulblade-renewer?utm_source=api>`"
+msgid ":mtgtip:`Soulblade Renewer<https://img.scryfall.com/cards/border_crop/front/8/8/8897c406-fdec-44af-bc66-eacf245874a8.jpg?1562922596|https://scryfall.com/card/bbd/18/soulblade-renewer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:141
@@ -314,7 +314,7 @@ msgid "When Soulblade Renewer enters the battlefield, support 2. (Put a +1/+1 co
 msgstr ""
 
 #: ../../BBD.rst:150
-msgid ":mtgtip:`Impetuous Protege<https://img.scryfall.com/cards/border_crop/en/bbd/19.jpg?1529060923|https://scryfall.com/card/bbd/19/impetuous-protege?utm_source=api>`"
+msgid ":mtgtip:`Impetuous Protege<https://img.scryfall.com/cards/border_crop/front/d/8/d83064ae-a4ce-445d-9cb3-a7ae9270cca9.jpg?1562938418|https://scryfall.com/card/bbd/19/impetuous-protege?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:147
@@ -326,7 +326,7 @@ msgid "Whenever Impetuous Protege attacks, it gets +X/+0 until end of turn, wher
 msgstr ""
 
 #: ../../BBD.rst:156
-msgid ":mtgtip:`Proud Mentor<https://img.scryfall.com/cards/border_crop/en/bbd/20.jpg?1529060934|https://scryfall.com/card/bbd/20/proud-mentor?utm_source=api>`"
+msgid ":mtgtip:`Proud Mentor<https://img.scryfall.com/cards/border_crop/front/a/4/a41ff277-d465-4e30-8291-3d5ca5763cff.jpg?1562928191|https://scryfall.com/card/bbd/20/proud-mentor?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:153
@@ -338,7 +338,7 @@ msgid "|mana_w|, |tap|: Tap target creature."
 msgstr ""
 
 #: ../../BBD.rst:162
-msgid ":mtgtip:`Ley Weaver<https://img.scryfall.com/cards/border_crop/en/bbd/21.jpg?1529060947|https://scryfall.com/card/bbd/21/ley-weaver?utm_source=api>`"
+msgid ":mtgtip:`Ley Weaver<https://img.scryfall.com/cards/border_crop/front/2/c/2c7e9d68-d419-4ec5-97e9-2478ecb7007f.jpg?1562904079|https://scryfall.com/card/bbd/21/ley-weaver?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:159
@@ -350,7 +350,7 @@ msgid "|tap|: Untap two target lands."
 msgstr ""
 
 #: ../../BBD.rst:168
-msgid ":mtgtip:`Lore Weaver<https://img.scryfall.com/cards/border_crop/en/bbd/22.jpg?1529060959|https://scryfall.com/card/bbd/22/lore-weaver?utm_source=api>`"
+msgid ":mtgtip:`Lore Weaver<https://img.scryfall.com/cards/border_crop/front/f/3/f3366998-5ea0-4dcd-bf2a-f654b1c68e93.jpg?1562943893|https://scryfall.com/card/bbd/22/lore-weaver?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:165
@@ -362,7 +362,7 @@ msgid "|mana_5|\\ |mana_u|\\ |mana_u|: Target player draws two cards."
 msgstr ""
 
 #: ../../BBD.rst:172
-msgid ":mtgtip:`Arena Rector<https://img.scryfall.com/cards/border_crop/en/bbd/23.jpg?1529060969|https://scryfall.com/card/bbd/23/arena-rector?utm_source=api>`"
+msgid ":mtgtip:`Arena Rector<https://img.scryfall.com/cards/border_crop/front/6/0/60a24826-55fc-4b1b-98bf-3204ad852765.jpg?1562914580|https://scryfall.com/card/bbd/23/arena-rector?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:171
@@ -370,7 +370,7 @@ msgid "When Arena Rector dies, you may exile it. If you do, search your library 
 msgstr ""
 
 #: ../../BBD.rst:176
-msgid ":mtgtip:`Aurora Champion<https://img.scryfall.com/cards/border_crop/en/bbd/24.jpg?1532950898|https://scryfall.com/card/bbd/24/aurora-champion?utm_source=api>`"
+msgid ":mtgtip:`Aurora Champion<https://img.scryfall.com/cards/border_crop/front/3/5/35bb9e4e-3cfb-4794-bd03-04840b5fe1dc.jpg?1562905864|https://scryfall.com/card/bbd/24/aurora-champion?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:175
@@ -378,7 +378,7 @@ msgid "Whenever Aurora Champion attacks, if your team controls another Warrior, 
 msgstr ""
 
 #: ../../BBD.rst:186
-msgid ":mtgtip:`Brightling<https://img.scryfall.com/cards/border_crop/en/bbd/25.jpg?1529060992|https://scryfall.com/card/bbd/25/brightling?utm_source=api>`"
+msgid ":mtgtip:`Brightling<https://img.scryfall.com/cards/border_crop/front/b/1/b11d200b-4bf0-4510-8bdb-9de310516286.jpg?1562930663|https://scryfall.com/card/bbd/25/brightling?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:179
@@ -398,7 +398,7 @@ msgid "|mana_1|: Brightling gets +1/-1 or -1/+1 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:192
-msgid ":mtgtip:`Bring Down<https://img.scryfall.com/cards/border_crop/en/bbd/26.jpg?1529061004|https://scryfall.com/card/bbd/26/bring-down?utm_source=api>`"
+msgid ":mtgtip:`Bring Down<https://img.scryfall.com/cards/border_crop/front/e/1/e18146f9-369c-41c8-8a1d-7737edd2c18e.jpg?1562940282|https://scryfall.com/card/bbd/26/bring-down?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:189
@@ -412,7 +412,7 @@ msgid "Destroy target creature with power 4 or greater."
 msgstr ""
 
 #: ../../BBD.rst:198
-msgid ":mtgtip:`Dwarven Lightsmith<https://img.scryfall.com/cards/border_crop/en/bbd/27.jpg?1529061018|https://scryfall.com/card/bbd/27/dwarven-lightsmith?utm_source=api>`"
+msgid ":mtgtip:`Dwarven Lightsmith<https://img.scryfall.com/cards/border_crop/front/9/8/98689a75-aa88-4c83-8104-0352b829503e.jpg?1562925768|https://scryfall.com/card/bbd/27/dwarven-lightsmith?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:195
@@ -426,7 +426,7 @@ msgid "When Dwarven Lightsmith enters the battlefield, creatures your team contr
 msgstr ""
 
 #: ../../BBD.rst:202
-msgid ":mtgtip:`Jubilant Mascot<https://img.scryfall.com/cards/border_crop/en/bbd/28.jpg?1529061032|https://scryfall.com/card/bbd/28/jubilant-mascot?utm_source=api>`"
+msgid ":mtgtip:`Jubilant Mascot<https://img.scryfall.com/cards/border_crop/front/c/c/cc7c73fd-e5f8-40e6-97ed-bfff0d6cf8d8.jpg?1562936101|https://scryfall.com/card/bbd/28/jubilant-mascot?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:201
@@ -434,7 +434,7 @@ msgid "At the beginning of combat on your turn, you may pay |mana_3|\\ |mana_w|.
 msgstr ""
 
 #: ../../BBD.rst:208
-msgid ":mtgtip:`Play of the Game<https://img.scryfall.com/cards/border_crop/en/bbd/29.jpg?1529061049|https://scryfall.com/card/bbd/29/play-of-the-game?utm_source=api>`"
+msgid ":mtgtip:`Play of the Game<https://img.scryfall.com/cards/border_crop/front/8/5/85b09595-0d81-4cc0-872f-9a6fb539298b.jpg?1562922030|https://scryfall.com/card/bbd/29/play-of-the-game?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:205
@@ -449,7 +449,7 @@ msgid "Exile all nonland permanents."
 msgstr ""
 
 #: ../../BBD.rst:212
-msgid ":mtgtip:`Regna's Sanction<https://img.scryfall.com/cards/border_crop/en/bbd/30.jpg?1529061060|https://scryfall.com/card/bbd/30/regnas-sanction?utm_source=api>`"
+msgid ":mtgtip:`Regna's Sanction<https://img.scryfall.com/cards/border_crop/front/3/e/3ea0c6c5-f782-40bf-a0c9-ee7e97963146.jpg?1562907563|https://scryfall.com/card/bbd/30/regnas-sanction?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:211
@@ -457,7 +457,7 @@ msgid "For each player, choose friend or foe. Each friend puts a +1/+1 counter o
 msgstr ""
 
 #: ../../BBD.rst:220
-msgid ":mtgtip:`Skystreamer<https://img.scryfall.com/cards/border_crop/en/bbd/31.jpg?1529061074|https://scryfall.com/card/bbd/31/skystreamer?utm_source=api>`"
+msgid ":mtgtip:`Skystreamer<https://img.scryfall.com/cards/border_crop/front/8/9/89d87407-7f92-47d6-bd89-69f39e0e0820.jpg?1562922856|https://scryfall.com/card/bbd/31/skystreamer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:215
@@ -469,7 +469,7 @@ msgid "When Skystreamer enters the battlefield, target player gains 4 life."
 msgstr ""
 
 #: ../../BBD.rst:226
-msgid ":mtgtip:`Together Forever<https://img.scryfall.com/cards/border_crop/en/bbd/32.jpg?1529061085|https://scryfall.com/card/bbd/32/together-forever?utm_source=api>`"
+msgid ":mtgtip:`Together Forever<https://img.scryfall.com/cards/border_crop/front/b/a/baef97c2-9b1e-470f-8aeb-a64ef0e66eaa.jpg?1562932626|https://scryfall.com/card/bbd/32/together-forever?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:223
@@ -481,7 +481,7 @@ msgid "|mana_1|: Choose target creature with a counter on it. When that creature
 msgstr ""
 
 #: ../../BBD.rst:232
-msgid ":mtgtip:`Arcane Artisan<https://img.scryfall.com/cards/border_crop/en/bbd/33.jpg?1529061096|https://scryfall.com/card/bbd/33/arcane-artisan?utm_source=api>`"
+msgid ":mtgtip:`Arcane Artisan<https://img.scryfall.com/cards/border_crop/front/6/b/6b2441e0-06f6-4455-8fa8-a34c3e241a56.jpg?1562916532|https://scryfall.com/card/bbd/33/arcane-artisan?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:229
@@ -493,7 +493,7 @@ msgid "When Arcane Artisan leaves the battlefield, exile all tokens created with
 msgstr ""
 
 #: ../../BBD.rst:236
-msgid ":mtgtip:`Fumble<https://img.scryfall.com/cards/border_crop/en/bbd/34.jpg?1529061109|https://scryfall.com/card/bbd/34/fumble?utm_source=api>`"
+msgid ":mtgtip:`Fumble<https://img.scryfall.com/cards/border_crop/front/6/4/64019dd4-b00b-4521-a869-e302f23167da.jpg?1562915244|https://scryfall.com/card/bbd/34/fumble?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:235
@@ -501,7 +501,7 @@ msgid "Return target creature to its owner's hand. Gain control of all Auras and
 msgstr ""
 
 #: ../../BBD.rst:242
-msgid ":mtgtip:`Game Plan<https://img.scryfall.com/cards/border_crop/en/bbd/35.jpg?1529061119|https://scryfall.com/card/bbd/35/game-plan?utm_source=api>`"
+msgid ":mtgtip:`Game Plan<https://img.scryfall.com/cards/border_crop/front/b/c/bc068891-c251-4eee-b5ca-342d9df33bdc.jpg?1562932796|https://scryfall.com/card/bbd/35/game-plan?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:241
@@ -509,7 +509,7 @@ msgid "Each player shuffles their hand and graveyard into their library, then dr
 msgstr ""
 
 #: ../../BBD.rst:248
-msgid ":mtgtip:`Huddle Up<https://img.scryfall.com/cards/border_crop/en/bbd/36.jpg?1529061131|https://scryfall.com/card/bbd/36/huddle-up?utm_source=api>`"
+msgid ":mtgtip:`Huddle Up<https://img.scryfall.com/cards/border_crop/front/2/0/202e69fd-fdf6-4b40-815b-107049e19edf.jpg?1562901409|https://scryfall.com/card/bbd/36/huddle-up?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:245
@@ -521,7 +521,7 @@ msgid "Two target players each draw a card."
 msgstr ""
 
 #: ../../BBD.rst:254
-msgid ":mtgtip:`Nimbus Champion<https://img.scryfall.com/cards/border_crop/en/bbd/37.jpg?1529061141|https://scryfall.com/card/bbd/37/nimbus-champion?utm_source=api>`"
+msgid ":mtgtip:`Nimbus Champion<https://img.scryfall.com/cards/border_crop/front/0/b/0b247847-25d9-4220-bd7b-1db9df445ec8.jpg?1562897205|https://scryfall.com/card/bbd/37/nimbus-champion?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:253
@@ -529,7 +529,7 @@ msgid "Whenever Nimbus Champion attacks, you may return target creature to its o
 msgstr ""
 
 #: ../../BBD.rst:260
-msgid ":mtgtip:`Out of Bounds<https://img.scryfall.com/cards/border_crop/en/bbd/38.jpg?1529061151|https://scryfall.com/card/bbd/38/out-of-bounds?utm_source=api>`"
+msgid ":mtgtip:`Out of Bounds<https://img.scryfall.com/cards/border_crop/front/8/b/8b457672-902b-42c0-9d53-a3c21be2f500.jpg?1562923137|https://scryfall.com/card/bbd/38/out-of-bounds?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:259
@@ -537,7 +537,7 @@ msgid "Counter target spell."
 msgstr ""
 
 #: ../../BBD.rst:264
-msgid ":mtgtip:`Saltwater Stalwart<https://img.scryfall.com/cards/border_crop/en/bbd/39.jpg?1532950894|https://scryfall.com/card/bbd/39/saltwater-stalwart?utm_source=api>`"
+msgid ":mtgtip:`Saltwater Stalwart<https://img.scryfall.com/cards/border_crop/front/a/e/ae11adef-57b1-4f39-951b-cd4d5c0a0b80.jpg?1562930048|https://scryfall.com/card/bbd/39/saltwater-stalwart?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:263
@@ -545,7 +545,7 @@ msgid "Whenever Saltwater Stalwart deals damage to an opponent, target player dr
 msgstr ""
 
 #: ../../BBD.rst:270
-msgid ":mtgtip:`Soaring Show-Off<https://img.scryfall.com/cards/border_crop/en/bbd/40.jpg?1532950910|https://scryfall.com/card/bbd/40/soaring-show-off?utm_source=api>`"
+msgid ":mtgtip:`Soaring Show-Off<https://img.scryfall.com/cards/border_crop/front/2/e/2e6c52da-efc8-4279-b6b5-01e490bcb035.jpg?1562904446|https://scryfall.com/card/bbd/40/soaring-show-off?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:269
@@ -553,7 +553,7 @@ msgid "When Soaring Show-Off enters the battlefield, each player draws a card."
 msgstr ""
 
 #: ../../BBD.rst:274
-msgid ":mtgtip:`Spellseeker<https://img.scryfall.com/cards/border_crop/en/bbd/41.jpg?1530719036|https://scryfall.com/card/bbd/41/spellseeker?utm_source=api>`"
+msgid ":mtgtip:`Spellseeker<https://img.scryfall.com/cards/border_crop/front/7/4/74b4c336-5d4c-4bc5-b82a-35084a6ad808.jpg?1562918363|https://scryfall.com/card/bbd/41/spellseeker?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:273
@@ -561,7 +561,7 @@ msgid "When Spellseeker enters the battlefield, you may search your library for 
 msgstr ""
 
 #: ../../BBD.rst:280
-msgid ":mtgtip:`Spellweaver Duo<https://img.scryfall.com/cards/border_crop/en/bbd/42.jpg?1529061193|https://scryfall.com/card/bbd/42/spellweaver-duo?utm_source=api>`"
+msgid ":mtgtip:`Spellweaver Duo<https://img.scryfall.com/cards/border_crop/front/8/7/87ba22f6-5299-46c3-bd01-9140634e60ea.jpg?1562922421|https://scryfall.com/card/bbd/42/spellweaver-duo?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:279
@@ -569,7 +569,7 @@ msgid "When Spellweaver Duo enters the battlefield, you may return target tapped
 msgstr ""
 
 #: ../../BBD.rst:284
-msgid ":mtgtip:`Zndrsplt's Judgment<https://img.scryfall.com/cards/border_crop/en/bbd/43.jpg?1529061203|https://scryfall.com/card/bbd/43/zndrsplts-judgment?utm_source=api>`"
+msgid ":mtgtip:`Zndrsplt's Judgment<https://img.scryfall.com/cards/border_crop/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779|https://scryfall.com/card/bbd/43/zndrsplts-judgment?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:283
@@ -577,7 +577,7 @@ msgid "For each player, choose friend or foe. Each friend creates a token that's
 msgstr ""
 
 #: ../../BBD.rst:292
-msgid ":mtgtip:`Archfiend of Despair<https://img.scryfall.com/cards/border_crop/en/bbd/44.jpg?1529061215|https://scryfall.com/card/bbd/44/archfiend-of-despair?utm_source=api>`"
+msgid ":mtgtip:`Archfiend of Despair<https://img.scryfall.com/cards/border_crop/front/1/1/11d8b7ac-fb65-4496-9d9f-184fa8ad8012.jpg?1562898584|https://scryfall.com/card/bbd/44/archfiend-of-despair?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:289
@@ -589,7 +589,7 @@ msgid "At the beginning of each end step, each opponent loses life equal to the 
 msgstr ""
 
 #: ../../BBD.rst:298
-msgid ":mtgtip:`Bloodborn Scoundrels<https://img.scryfall.com/cards/border_crop/en/bbd/45.jpg?1529061228|https://scryfall.com/card/bbd/45/bloodborn-scoundrels?utm_source=api>`"
+msgid ":mtgtip:`Bloodborn Scoundrels<https://img.scryfall.com/cards/border_crop/front/8/7/8750abff-ae70-4abe-a51a-b93f71b48ef1.jpg?1562922353|https://scryfall.com/card/bbd/45/bloodborn-scoundrels?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:297
@@ -597,7 +597,7 @@ msgid "When Bloodborn Scoundrels enters the battlefield, target opponent loses 2
 msgstr ""
 
 #: ../../BBD.rst:304
-msgid ":mtgtip:`Fan Favorite<https://img.scryfall.com/cards/border_crop/en/bbd/46.jpg?1529061243|https://scryfall.com/card/bbd/46/fan-favorite?utm_source=api>`"
+msgid ":mtgtip:`Fan Favorite<https://img.scryfall.com/cards/border_crop/front/0/6/062fe308-f892-446d-8f85-f6e77bb00977.jpg?1562896207|https://scryfall.com/card/bbd/46/fan-favorite?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:303
@@ -605,7 +605,7 @@ msgid "|mana_2|: Fan Favorite gets +1/+1 until end of turn. Any player may activ
 msgstr ""
 
 #: ../../BBD.rst:310
-msgid ":mtgtip:`Gang Up<https://img.scryfall.com/cards/border_crop/en/bbd/47.jpg?1529061258|https://scryfall.com/card/bbd/47/gang-up?utm_source=api>`"
+msgid ":mtgtip:`Gang Up<https://img.scryfall.com/cards/border_crop/front/1/0/10d01449-3e4e-44ef-90aa-9489c86c57df.jpg?1562898419|https://scryfall.com/card/bbd/47/gang-up?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:307
@@ -618,7 +618,7 @@ msgid "Destroy target creature with power X or less."
 msgstr ""
 
 #: ../../BBD.rst:318
-msgid ":mtgtip:`Inner Demon<https://img.scryfall.com/cards/border_crop/en/bbd/48.jpg?1529061269|https://scryfall.com/card/bbd/48/inner-demon?utm_source=api>`"
+msgid ":mtgtip:`Inner Demon<https://img.scryfall.com/cards/border_crop/front/d/c/dcbfc305-f3b3-4f8f-b18f-bb7af01a39a4.jpg?1562939380|https://scryfall.com/card/bbd/48/inner-demon?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:313
@@ -643,7 +643,7 @@ msgid "When Inner Demon enters the battlefield, all non-Demon creatures get -2/-
 msgstr ""
 
 #: ../../BBD.rst:322
-msgid ":mtgtip:`Mindblade Render<https://img.scryfall.com/cards/border_crop/en/bbd/49.jpg?1529061281|https://scryfall.com/card/bbd/49/mindblade-render?utm_source=api>`"
+msgid ":mtgtip:`Mindblade Render<https://img.scryfall.com/cards/border_crop/front/1/f/1f994e2b-1784-4bb7-9784-ac2de600cf5f.jpg?1562901256|https://scryfall.com/card/bbd/49/mindblade-render?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:321
@@ -651,7 +651,7 @@ msgid "Whenever your opponents are dealt combat damage, if any of that damage wa
 msgstr ""
 
 #: ../../BBD.rst:326
-msgid ":mtgtip:`Sickle Dancer<https://img.scryfall.com/cards/border_crop/en/bbd/50.jpg?1532950872|https://scryfall.com/card/bbd/50/sickle-dancer?utm_source=api>`"
+msgid ":mtgtip:`Sickle Dancer<https://img.scryfall.com/cards/border_crop/front/2/c/2c0c1f54-3868-4009-b0eb-de787cd7e5cc.jpg?1562903983|https://scryfall.com/card/bbd/50/sickle-dancer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:325
@@ -659,7 +659,7 @@ msgid "Whenever Sickle Dancer attacks, if your team controls another Warrior, Si
 msgstr ""
 
 #: ../../BBD.rst:332
-msgid ":mtgtip:`Stunning Reversal<https://img.scryfall.com/cards/border_crop/en/bbd/51.jpg?1529061314|https://scryfall.com/card/bbd/51/stunning-reversal?utm_source=api>`"
+msgid ":mtgtip:`Stunning Reversal<https://img.scryfall.com/cards/border_crop/front/6/7/6714197d-7420-43a1-8b08-4e1fd6355b54.jpg?1562915843|https://scryfall.com/card/bbd/51/stunning-reversal?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:329
@@ -671,7 +671,7 @@ msgid "Exile Stunning Reversal."
 msgstr ""
 
 #: ../../BBD.rst:336
-msgid ":mtgtip:`Thrasher Brute<https://img.scryfall.com/cards/border_crop/en/bbd/52.jpg?1529061327|https://scryfall.com/card/bbd/52/thrasher-brute?utm_source=api>`"
+msgid ":mtgtip:`Thrasher Brute<https://img.scryfall.com/cards/border_crop/front/7/c/7c2a6f9c-49c4-433c-9269-fb075f2e0902.jpg?1562919964|https://scryfall.com/card/bbd/52/thrasher-brute?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:335
@@ -679,7 +679,7 @@ msgid "Whenever Thrasher Brute or another Warrior enters the battlefield under y
 msgstr ""
 
 #: ../../BBD.rst:340
-msgid ":mtgtip:`Thrilling Encore<https://img.scryfall.com/cards/border_crop/en/bbd/53.jpg?1529061339|https://scryfall.com/card/bbd/53/thrilling-encore?utm_source=api>`"
+msgid ":mtgtip:`Thrilling Encore<https://img.scryfall.com/cards/border_crop/front/2/0/20b4d2f6-c49c-45d7-b172-2628d336e843.jpg?1562901501|https://scryfall.com/card/bbd/53/thrilling-encore?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:339
@@ -687,7 +687,7 @@ msgid "Put onto the battlefield under your control all creature cards in all gra
 msgstr ""
 
 #: ../../BBD.rst:344
-msgid ":mtgtip:`Virtus's Maneuver<https://img.scryfall.com/cards/border_crop/en/bbd/54.jpg?1529061351|https://scryfall.com/card/bbd/54/virtuss-maneuver?utm_source=api>`"
+msgid ":mtgtip:`Virtus's Maneuver<https://img.scryfall.com/cards/border_crop/front/7/3/73f2e058-c1a8-4a66-b1da-1b3885c6736f.jpg?1562918200|https://scryfall.com/card/bbd/54/virtuss-maneuver?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:343
@@ -695,7 +695,7 @@ msgid "For each player, choose friend or foe. Each friend returns a creature car
 msgstr ""
 
 #: ../../BBD.rst:348
-msgid ":mtgtip:`Azra Bladeseeker<https://img.scryfall.com/cards/border_crop/en/bbd/55.jpg?1532950867|https://scryfall.com/card/bbd/55/azra-bladeseeker?utm_source=api>`"
+msgid ":mtgtip:`Azra Bladeseeker<https://img.scryfall.com/cards/border_crop/front/d/c/dc5ade73-12bc-46da-8dd4-3d4468858934.jpg?1562939299|https://scryfall.com/card/bbd/55/azra-bladeseeker?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:347
@@ -703,7 +703,7 @@ msgid "When Azra Bladeseeker enters the battlefield, each player on your team ma
 msgstr ""
 
 #: ../../BBD.rst:352
-msgid ":mtgtip:`Bonus Round<https://img.scryfall.com/cards/border_crop/en/bbd/56.jpg?1529061372|https://scryfall.com/card/bbd/56/bonus-round?utm_source=api>`"
+msgid ":mtgtip:`Bonus Round<https://img.scryfall.com/cards/border_crop/front/e/2/e21aa266-4264-4e02-9403-02930e641573.jpg?1562940436|https://scryfall.com/card/bbd/56/bonus-round?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:351
@@ -711,7 +711,7 @@ msgid "Until end of turn, whenever a player casts an instant or sorcery spell, t
 msgstr ""
 
 #: ../../BBD.rst:356
-msgid ":mtgtip:`Bull-Rush Bruiser<https://img.scryfall.com/cards/border_crop/en/bbd/57.jpg?1532950859|https://scryfall.com/card/bbd/57/bull-rush-bruiser?utm_source=api>`"
+msgid ":mtgtip:`Bull-Rush Bruiser<https://img.scryfall.com/cards/border_crop/front/f/0/f0270fed-4591-4111-a95f-91d4a0ab0d14.jpg?1562943246|https://scryfall.com/card/bbd/57/bull-rush-bruiser?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:355
@@ -719,7 +719,7 @@ msgid "Whenever Bull-Rush Bruiser attacks, if your team controls another Warrior
 msgstr ""
 
 #: ../../BBD.rst:360
-msgid ":mtgtip:`Cheering Fanatic<https://img.scryfall.com/cards/border_crop/en/bbd/58.jpg?1529061389|https://scryfall.com/card/bbd/58/cheering-fanatic?utm_source=api>`"
+msgid ":mtgtip:`Cheering Fanatic<https://img.scryfall.com/cards/border_crop/front/8/8/88cf8e2b-482e-4d40-a8d7-1a74cec3d983.jpg?1562922658|https://scryfall.com/card/bbd/58/cheering-fanatic?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:359
@@ -727,7 +727,7 @@ msgid "Whenever Cheering Fanatic attacks, choose a card name. Spells with the ch
 msgstr ""
 
 #: ../../BBD.rst:364
-msgid ":mtgtip:`Khorvath's Fury<https://img.scryfall.com/cards/border_crop/en/bbd/59.jpg?1529061399|https://scryfall.com/card/bbd/59/khorvaths-fury?utm_source=api>`"
+msgid ":mtgtip:`Khorvath's Fury<https://img.scryfall.com/cards/border_crop/front/3/9/39107560-58d5-4a7d-84a0-df26f89856b4.jpg?1562906488|https://scryfall.com/card/bbd/59/khorvaths-fury?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:363
@@ -735,7 +735,7 @@ msgid "For each player, choose friend or foe. Each friend discards all cards fro
 msgstr ""
 
 #: ../../BBD.rst:372
-msgid ":mtgtip:`Lava-Field Overlord<https://img.scryfall.com/cards/border_crop/en/bbd/60.jpg?1529061408|https://scryfall.com/card/bbd/60/lava-field-overlord?utm_source=api>`"
+msgid ":mtgtip:`Lava-Field Overlord<https://img.scryfall.com/cards/border_crop/front/8/4/8465c5dd-c246-49e4-89bf-18e022816162.jpg?1562921778|https://scryfall.com/card/bbd/60/lava-field-overlord?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:367
@@ -748,7 +748,7 @@ msgid "When Lava-Field Overlord enters the battlefield, it deals 4 damage to tar
 msgstr ""
 
 #: ../../BBD.rst:378
-msgid ":mtgtip:`Magma Hellion<https://img.scryfall.com/cards/border_crop/en/bbd/61.jpg?1529061418|https://scryfall.com/card/bbd/61/magma-hellion?utm_source=api>`"
+msgid ":mtgtip:`Magma Hellion<https://img.scryfall.com/cards/border_crop/front/e/f/ef9d02dc-4cb2-4ae1-84c3-e70aeb3c29ff.jpg?1562943116|https://scryfall.com/card/bbd/61/magma-hellion?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:377
@@ -756,7 +756,7 @@ msgid "Trample, haste"
 msgstr ""
 
 #: ../../BBD.rst:384
-msgid ":mtgtip:`Najeela, the Blade-Blossom<https://img.scryfall.com/cards/border_crop/en/bbd/62.jpg?1529061427|https://scryfall.com/card/bbd/62/najeela-the-blade-blossom?utm_source=api>`"
+msgid ":mtgtip:`Najeela, the Blade-Blossom<https://img.scryfall.com/cards/border_crop/front/2/c/2cb1d1da-6077-46b5-8c63-39882b8016f2.jpg?1567181270|https://scryfall.com/card/bbd/62/najeela-the-blade-blossom?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:381
@@ -768,7 +768,7 @@ msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Untap all attacking
 msgstr ""
 
 #: ../../BBD.rst:388
-msgid ":mtgtip:`Stadium Vendors<https://img.scryfall.com/cards/border_crop/en/bbd/63.jpg?1529061436|https://scryfall.com/card/bbd/63/stadium-vendors?utm_source=api>`"
+msgid ":mtgtip:`Stadium Vendors<https://img.scryfall.com/cards/border_crop/front/2/d/2d25baa1-4794-4bed-bf0c-7d99f39f9656.jpg?1562904205|https://scryfall.com/card/bbd/63/stadium-vendors?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:387
@@ -776,7 +776,7 @@ msgid "When Stadium Vendors enters the battlefield, choose a player. That player
 msgstr ""
 
 #: ../../BBD.rst:392
-msgid ":mtgtip:`Stolen Strategy<https://img.scryfall.com/cards/border_crop/en/bbd/64.jpg?1529061447|https://scryfall.com/card/bbd/64/stolen-strategy?utm_source=api>`"
+msgid ":mtgtip:`Stolen Strategy<https://img.scryfall.com/cards/border_crop/front/b/b/bb90e4b8-8f66-45f0-a457-a081f2ff231c.jpg?1562932716|https://scryfall.com/card/bbd/64/stolen-strategy?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:391
@@ -784,7 +784,7 @@ msgid "At the beginning of your upkeep, exile the top card of each opponent's li
 msgstr ""
 
 #: ../../BBD.rst:396
-msgid ":mtgtip:`Bramble Sovereign<https://img.scryfall.com/cards/border_crop/en/bbd/65.jpg?1529061459|https://scryfall.com/card/bbd/65/bramble-sovereign?utm_source=api>`"
+msgid ":mtgtip:`Bramble Sovereign<https://img.scryfall.com/cards/border_crop/front/c/c/cc2d644f-6fb9-406b-ba57-a9b3d1c9646b.jpg?1562936045|https://scryfall.com/card/bbd/65/bramble-sovereign?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:395
@@ -792,7 +792,7 @@ msgid "Whenever another nontoken creature enters the battlefield, you may pay |m
 msgstr ""
 
 #: ../../BBD.rst:402
-msgid ":mtgtip:`Charging Binox<https://img.scryfall.com/cards/border_crop/en/bbd/66.jpg?1529061471|https://scryfall.com/card/bbd/66/charging-binox?utm_source=api>`"
+msgid ":mtgtip:`Charging Binox<https://img.scryfall.com/cards/border_crop/front/6/8/68222ab7-7b9c-43e5-b80e-db643d80a6d9.jpg?1562915983|https://scryfall.com/card/bbd/66/charging-binox?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:401
@@ -802,7 +802,7 @@ msgid "Trample"
 msgstr ""
 
 #: ../../BBD.rst:406
-msgid ":mtgtip:`Combo Attack<https://img.scryfall.com/cards/border_crop/en/bbd/67.jpg?1532950851|https://scryfall.com/card/bbd/67/combo-attack?utm_source=api>`"
+msgid ":mtgtip:`Combo Attack<https://img.scryfall.com/cards/border_crop/front/d/7/d7703507-e7f1-47fd-97f3-ef6319b807a8.jpg?1562938255|https://scryfall.com/card/bbd/67/combo-attack?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:405
@@ -810,7 +810,7 @@ msgid "Two target creatures your team controls each deal damage equal to their p
 msgstr ""
 
 #: ../../BBD.rst:414
-msgid ":mtgtip:`The Crowd Goes Wild<https://img.scryfall.com/cards/border_crop/en/bbd/68.jpg?1529061494|https://scryfall.com/card/bbd/68/the-crowd-goes-wild?utm_source=api>`"
+msgid ":mtgtip:`The Crowd Goes Wild<https://img.scryfall.com/cards/border_crop/front/9/4/94ae9160-5bc0-4162-8ea6-ef11c387c195.jpg?1562924976|https://scryfall.com/card/bbd/68/the-crowd-goes-wild?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:411
@@ -822,7 +822,7 @@ msgid "Each creature with a +1/+1 counter on it gains trample until end of turn.
 msgstr ""
 
 #: ../../BBD.rst:418
-msgid ":mtgtip:`Decorated Champion<https://img.scryfall.com/cards/border_crop/en/bbd/69.jpg?1529061503|https://scryfall.com/card/bbd/69/decorated-champion?utm_source=api>`"
+msgid ":mtgtip:`Decorated Champion<https://img.scryfall.com/cards/border_crop/front/0/c/0cee6784-3171-4f28-af3d-f7993bc45303.jpg?1562897643|https://scryfall.com/card/bbd/69/decorated-champion?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:417
@@ -830,7 +830,7 @@ msgid "Whenever another Warrior enters the battlefield under your team's control
 msgstr ""
 
 #: ../../BBD.rst:424
-msgid ":mtgtip:`Generous Patron<https://img.scryfall.com/cards/border_crop/en/bbd/70.jpg?1529061516|https://scryfall.com/card/bbd/70/generous-patron?utm_source=api>`"
+msgid ":mtgtip:`Generous Patron<https://img.scryfall.com/cards/border_crop/front/5/9/59ea095b-af0e-4178-b6f4-816abb635fc0.jpg?1562913268|https://scryfall.com/card/bbd/70/generous-patron?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:421
@@ -842,7 +842,7 @@ msgid "Whenever you put one or more counters on a creature you don't control, dr
 msgstr ""
 
 #: ../../BBD.rst:430
-msgid ":mtgtip:`Grothama, All-Devouring<https://img.scryfall.com/cards/border_crop/en/bbd/71.jpg?1529061528|https://scryfall.com/card/bbd/71/grothama-all-devouring?utm_source=api>`"
+msgid ":mtgtip:`Grothama, All-Devouring<https://img.scryfall.com/cards/border_crop/front/a/b/ab8935b1-ec87-4330-9952-9ef8cd344531.jpg?1562929597|https://scryfall.com/card/bbd/71/grothama-all-devouring?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:427
@@ -854,7 +854,7 @@ msgid "When Grothama leaves the battlefield, each player draws cards equal to th
 msgstr ""
 
 #: ../../BBD.rst:434
-msgid ":mtgtip:`Jungle Wayfinder<https://img.scryfall.com/cards/border_crop/en/bbd/72.jpg?1529061539|https://scryfall.com/card/bbd/72/jungle-wayfinder?utm_source=api>`"
+msgid ":mtgtip:`Jungle Wayfinder<https://img.scryfall.com/cards/border_crop/front/b/9/b9f143f7-77e8-43c3-9da6-0d71d446a349.jpg?1562932430|https://scryfall.com/card/bbd/72/jungle-wayfinder?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:433
@@ -862,7 +862,7 @@ msgid "When Jungle Wayfinder enters the battlefield, each player may search thei
 msgstr ""
 
 #: ../../BBD.rst:438
-msgid ":mtgtip:`Pir's Whim<https://img.scryfall.com/cards/border_crop/en/bbd/73.jpg?1529061552|https://scryfall.com/card/bbd/73/pirs-whim?utm_source=api>`"
+msgid ":mtgtip:`Pir's Whim<https://img.scryfall.com/cards/border_crop/front/b/8/b816ce6e-d876-4c6d-83ed-e3887dcfa5d5.jpg?1562932061|https://scryfall.com/card/bbd/73/pirs-whim?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:437
@@ -870,7 +870,7 @@ msgid "For each player, choose friend or foe. Each friend searches their library
 msgstr ""
 
 #: ../../BBD.rst:446
-msgid ":mtgtip:`Archon of Valor's Reach<https://img.scryfall.com/cards/border_crop/en/bbd/74.jpg?1529325839|https://scryfall.com/card/bbd/74/archon-of-valors-reach?utm_source=api>`"
+msgid ":mtgtip:`Archon of Valor's Reach<https://img.scryfall.com/cards/border_crop/front/c/4/c43f47e3-ebb8-4d6e-a00c-4c190e2d3daf.jpg?1562934359|https://scryfall.com/card/bbd/74/archon-of-valors-reach?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:441
@@ -886,7 +886,7 @@ msgid "Players can't cast spells of the chosen type."
 msgstr ""
 
 #: ../../BBD.rst:450
-msgid ":mtgtip:`Azra Oddsmaker<https://img.scryfall.com/cards/border_crop/en/bbd/75.jpg?1529061575|https://scryfall.com/card/bbd/75/azra-oddsmaker?utm_source=api>`"
+msgid ":mtgtip:`Azra Oddsmaker<https://img.scryfall.com/cards/border_crop/front/7/f/7f5e6a5a-18ee-438f-ab16-694e19a2410e.jpg?1562920701|https://scryfall.com/card/bbd/75/azra-oddsmaker?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:449
@@ -894,7 +894,7 @@ msgid "At the beginning of combat on your turn, you may discard a card. If you d
 msgstr ""
 
 #: ../../BBD.rst:454
-msgid ":mtgtip:`Last One Standing<https://img.scryfall.com/cards/border_crop/en/bbd/76.jpg?1529061586|https://scryfall.com/card/bbd/76/last-one-standing?utm_source=api>`"
+msgid ":mtgtip:`Last One Standing<https://img.scryfall.com/cards/border_crop/front/8/7/87e2ee71-293d-452b-89a5-b15990186f5b.jpg?1562922467|https://scryfall.com/card/bbd/76/last-one-standing?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:453
@@ -902,7 +902,7 @@ msgid "Choose a creature at random, then destroy the rest."
 msgstr ""
 
 #: ../../BBD.rst:458
-msgid ":mtgtip:`Rushblade Commander<https://img.scryfall.com/cards/border_crop/en/bbd/77.jpg?1529061600|https://scryfall.com/card/bbd/77/rushblade-commander?utm_source=api>`"
+msgid ":mtgtip:`Rushblade Commander<https://img.scryfall.com/cards/border_crop/front/f/6/f654a0de-50aa-448d-9bad-0870b32a0a49.jpg?1562944628|https://scryfall.com/card/bbd/77/rushblade-commander?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:457
@@ -910,7 +910,7 @@ msgid "Warriors your team controls have haste."
 msgstr ""
 
 #: ../../BBD.rst:466
-msgid ":mtgtip:`Vampire Charmseeker<https://img.scryfall.com/cards/border_crop/en/bbd/78.jpg?1529061615|https://scryfall.com/card/bbd/78/vampire-charmseeker?utm_source=api>`"
+msgid ":mtgtip:`Vampire Charmseeker<https://img.scryfall.com/cards/border_crop/front/d/2/d26a4969-410c-4402-889e-d3623e1cb57c.jpg?1562937262|https://scryfall.com/card/bbd/78/vampire-charmseeker?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:465
@@ -918,7 +918,7 @@ msgid "When Vampire Charmseeker enters the battlefield, return target instant, s
 msgstr ""
 
 #: ../../BBD.rst:470
-msgid ":mtgtip:`Sentinel Tower<https://img.scryfall.com/cards/border_crop/en/bbd/79.jpg?1529061627|https://scryfall.com/card/bbd/79/sentinel-tower?utm_source=api>`"
+msgid ":mtgtip:`Sentinel Tower<https://img.scryfall.com/cards/border_crop/front/2/5/25d9500e-a536-4f8e-bfdd-6cb08f709890.jpg?1562902681|https://scryfall.com/card/bbd/79/sentinel-tower?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:469
@@ -926,7 +926,7 @@ msgid "Whenever an instant or sorcery spell is cast during your turn, Sentinel T
 msgstr ""
 
 #: ../../BBD.rst:476
-msgid ":mtgtip:`Victory Chimes<https://img.scryfall.com/cards/border_crop/en/bbd/80.jpg?1529061639|https://scryfall.com/card/bbd/80/victory-chimes?utm_source=api>`"
+msgid ":mtgtip:`Victory Chimes<https://img.scryfall.com/cards/border_crop/front/9/f/9f24a267-ae8d-4889-8875-7c7cb901d36d.jpg?1562927105|https://scryfall.com/card/bbd/80/victory-chimes?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:473
@@ -938,7 +938,7 @@ msgid "|tap|: A player of your choice adds |colorless|."
 msgstr ""
 
 #: ../../BBD.rst:482
-msgid ":mtgtip:`Bountiful Promenade<https://img.scryfall.com/cards/border_crop/en/bbd/81.jpg?1529061651|https://scryfall.com/card/bbd/81/bountiful-promenade?utm_source=api>`"
+msgid ":mtgtip:`Bountiful Promenade<https://img.scryfall.com/cards/border_crop/front/2/1/21865ed6-5edd-41f4-9ae0-f501872d91dc.jpg?1562901683|https://scryfall.com/card/bbd/81/bountiful-promenade?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:479
@@ -950,7 +950,7 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../BBD.rst:488
-msgid ":mtgtip:`Luxury Suite<https://img.scryfall.com/cards/border_crop/en/bbd/82.jpg?1529061664|https://scryfall.com/card/bbd/82/luxury-suite?utm_source=api>`"
+msgid ":mtgtip:`Luxury Suite<https://img.scryfall.com/cards/border_crop/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.jpg?1562921010|https://scryfall.com/card/bbd/82/luxury-suite?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:485
@@ -962,7 +962,7 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
 #: ../../BBD.rst:494
-msgid ":mtgtip:`Morphic Pool<https://img.scryfall.com/cards/border_crop/en/bbd/83.jpg?1529061675|https://scryfall.com/card/bbd/83/morphic-pool?utm_source=api>`"
+msgid ":mtgtip:`Morphic Pool<https://img.scryfall.com/cards/border_crop/front/6/3/63b9efd6-0709-4d4b-a907-d8a77ec1a327.jpg?1562915210|https://scryfall.com/card/bbd/83/morphic-pool?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:491
@@ -974,7 +974,7 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../BBD.rst:500
-msgid ":mtgtip:`Sea of Clouds<https://img.scryfall.com/cards/border_crop/en/bbd/84.jpg?1529061686|https://scryfall.com/card/bbd/84/sea-of-clouds?utm_source=api>`"
+msgid ":mtgtip:`Sea of Clouds<https://img.scryfall.com/cards/border_crop/front/0/8/080aebe8-535e-4632-b733-8aba98abff22.jpg?1562896611|https://scryfall.com/card/bbd/84/sea-of-clouds?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:497
@@ -986,7 +986,7 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../BBD.rst:506
-msgid ":mtgtip:`Spire Garden<https://img.scryfall.com/cards/border_crop/en/bbd/85.jpg?1529061699|https://scryfall.com/card/bbd/85/spire-garden?utm_source=api>`"
+msgid ":mtgtip:`Spire Garden<https://img.scryfall.com/cards/border_crop/front/6/4/64943615-7543-4acd-a884-22ece8f0ed3e.jpg?1562915385|https://scryfall.com/card/bbd/85/spire-garden?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:503
@@ -998,7 +998,7 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../BBD.rst:510
-msgid ":mtgtip:`Angel of Retribution<https://img.scryfall.com/cards/border_crop/en/bbd/86.jpg?1534650941|https://scryfall.com/card/bbd/86/angel-of-retribution?utm_source=api>`"
+msgid ":mtgtip:`Angel of Retribution<https://img.scryfall.com/cards/border_crop/front/8/0/807f4edf-a961-4f52-a44e-abde0fd35722.jpg?1562920871|https://scryfall.com/card/bbd/86/angel-of-retribution?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:509
@@ -1006,7 +1006,7 @@ msgid "Flying, first strike"
 msgstr ""
 
 #: ../../BBD.rst:514
-msgid ":mtgtip:`Angelic Chorus<https://img.scryfall.com/cards/border_crop/en/bbd/87.jpg?1529061722|https://scryfall.com/card/bbd/87/angelic-chorus?utm_source=api>`"
+msgid ":mtgtip:`Angelic Chorus<https://img.scryfall.com/cards/border_crop/front/d/9/d9e966cb-bb42-49d8-b351-114619b31497.jpg?1562938832|https://scryfall.com/card/bbd/87/angelic-chorus?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:513
@@ -1014,7 +1014,7 @@ msgid "Whenever a creature enters the battlefield under your control, you gain l
 msgstr ""
 
 #: ../../BBD.rst:522
-msgid ":mtgtip:`Angelic Gift<https://img.scryfall.com/cards/border_crop/en/bbd/88.jpg?1529061732|https://scryfall.com/card/bbd/88/angelic-gift?utm_source=api>`"
+msgid ":mtgtip:`Angelic Gift<https://img.scryfall.com/cards/border_crop/front/2/7/27534f38-5c21-4bad-84eb-0145a5ea682e.jpg?1562903014|https://scryfall.com/card/bbd/88/angelic-gift?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:519
@@ -1026,7 +1026,7 @@ msgid "Enchanted creature has flying."
 msgstr ""
 
 #: ../../BBD.rst:528
-msgid ":mtgtip:`Battle Mastery<https://img.scryfall.com/cards/border_crop/en/bbd/89.jpg?1529061742|https://scryfall.com/card/bbd/89/battle-mastery?utm_source=api>`"
+msgid ":mtgtip:`Battle Mastery<https://img.scryfall.com/cards/border_crop/front/5/2/5266595d-5320-4dea-8e4a-dd6c1a032871.jpg?1562911738|https://scryfall.com/card/bbd/89/battle-mastery?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:527
@@ -1034,7 +1034,7 @@ msgid "Enchanted creature has double strike. (It deals both first-strike and reg
 msgstr ""
 
 #: ../../BBD.rst:532
-msgid ":mtgtip:`Champion of Arashin<https://img.scryfall.com/cards/border_crop/en/bbd/90.jpg?1529061754|https://scryfall.com/card/bbd/90/champion-of-arashin?utm_source=api>`"
+msgid ":mtgtip:`Champion of Arashin<https://img.scryfall.com/cards/border_crop/front/2/f/2f7e5122-89ff-4a25-96a5-fee5f96da7f2.jpg?1562904697|https://scryfall.com/card/bbd/90/champion-of-arashin?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:531
@@ -1043,7 +1043,7 @@ msgid "Lifelink (Damage dealt by this creature also causes you to gain that much
 msgstr ""
 
 #: ../../BBD.rst:536
-msgid ":mtgtip:`Doomed Traveler<https://img.scryfall.com/cards/border_crop/en/bbd/91.jpg?1529061763|https://scryfall.com/card/bbd/91/doomed-traveler?utm_source=api>`"
+msgid ":mtgtip:`Doomed Traveler<https://img.scryfall.com/cards/border_crop/front/3/5/35c69ff9-00f1-4c65-9f73-90775bf9885a.jpg?1562905878|https://scryfall.com/card/bbd/91/doomed-traveler?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:535
@@ -1051,7 +1051,7 @@ msgid "When Doomed Traveler dies, create a 1/1 white Spirit creature token with 
 msgstr ""
 
 #: ../../BBD.rst:542
-msgid ":mtgtip:`Expedition Raptor<https://img.scryfall.com/cards/border_crop/en/bbd/92.jpg?1529061774|https://scryfall.com/card/bbd/92/expedition-raptor?utm_source=api>`"
+msgid ":mtgtip:`Expedition Raptor<https://img.scryfall.com/cards/border_crop/front/a/0/a00b9b2f-4cd8-4c36-a2b2-40673dfb9f39.jpg?1562927282|https://scryfall.com/card/bbd/92/expedition-raptor?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:541
@@ -1059,7 +1059,7 @@ msgid "When Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 co
 msgstr ""
 
 #: ../../BBD.rst:548
-msgid ":mtgtip:`Kor Spiritdancer<https://img.scryfall.com/cards/border_crop/en/bbd/93.jpg?1529061785|https://scryfall.com/card/bbd/93/kor-spiritdancer?utm_source=api>`"
+msgid ":mtgtip:`Kor Spiritdancer<https://img.scryfall.com/cards/border_crop/front/b/1/b17a0634-bb6b-4aaa-8e20-43b47d250aa4.jpg?1562930715|https://scryfall.com/card/bbd/93/kor-spiritdancer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:545
@@ -1071,7 +1071,7 @@ msgid "Whenever you cast an Aura spell, you may draw a card."
 msgstr ""
 
 #: ../../BBD.rst:552
-msgid ":mtgtip:`Land Tax<https://img.scryfall.com/cards/border_crop/en/bbd/94.jpg?1529061795|https://scryfall.com/card/bbd/94/land-tax?utm_source=api>`"
+msgid ":mtgtip:`Land Tax<https://img.scryfall.com/cards/border_crop/front/8/1/810a3792-a689-4849-bc14-fb3c71153aba.jpg?1562920975|https://scryfall.com/card/bbd/94/land-tax?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:551
@@ -1079,7 +1079,7 @@ msgid "At the beginning of your upkeep, if an opponent controls more lands than 
 msgstr ""
 
 #: ../../BBD.rst:556
-msgid ":mtgtip:`Lightwalker<https://img.scryfall.com/cards/border_crop/en/bbd/95.jpg?1529061809|https://scryfall.com/card/bbd/95/lightwalker?utm_source=api>`"
+msgid ":mtgtip:`Lightwalker<https://img.scryfall.com/cards/border_crop/front/7/6/76724f0d-d588-4043-9fe9-f741599fd214.jpg?1562918747|https://scryfall.com/card/bbd/95/lightwalker?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:555
@@ -1087,7 +1087,7 @@ msgid "Lightwalker has flying as long as it has a +1/+1 counter on it."
 msgstr ""
 
 #: ../../BBD.rst:560
-msgid ":mtgtip:`Long Road Home<https://img.scryfall.com/cards/border_crop/en/bbd/96.jpg?1529061820|https://scryfall.com/card/bbd/96/long-road-home?utm_source=api>`"
+msgid ":mtgtip:`Long Road Home<https://img.scryfall.com/cards/border_crop/front/6/f/6f883c9b-c9c0-4777-b0a4-186620243f02.jpg?1562917282|https://scryfall.com/card/bbd/96/long-road-home?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:559
@@ -1095,7 +1095,7 @@ msgid "Exile target creature. At the beginning of the next end step, return that
 msgstr ""
 
 #: ../../BBD.rst:566
-msgid ":mtgtip:`Loyal Pegasus<https://img.scryfall.com/cards/border_crop/en/bbd/97.jpg?1529061829|https://scryfall.com/card/bbd/97/loyal-pegasus?utm_source=api>`"
+msgid ":mtgtip:`Loyal Pegasus<https://img.scryfall.com/cards/border_crop/front/e/1/e17387be-de9e-4006-851c-7dfdde693e69.jpg?1562940243|https://scryfall.com/card/bbd/97/loyal-pegasus?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:565
@@ -1103,7 +1103,7 @@ msgid "Loyal Pegasus can't attack or block alone."
 msgstr ""
 
 #: ../../BBD.rst:570
-msgid ":mtgtip:`Mangara of Corondor<https://img.scryfall.com/cards/border_crop/en/bbd/98.jpg?1529061841|https://scryfall.com/card/bbd/98/mangara-of-corondor?utm_source=api>`"
+msgid ":mtgtip:`Mangara of Corondor<https://img.scryfall.com/cards/border_crop/front/9/e/9ec68ca8-a7d3-47d5-91cf-6806f3709e7a.jpg?1562927023|https://scryfall.com/card/bbd/98/mangara-of-corondor?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:569
@@ -1111,7 +1111,7 @@ msgid "|tap|: Exile Mangara of Corondor and target permanent."
 msgstr ""
 
 #: ../../BBD.rst:574
-msgid ":mtgtip:`Midnight Guard<https://img.scryfall.com/cards/border_crop/en/bbd/99.jpg?1529061851|https://scryfall.com/card/bbd/99/midnight-guard?utm_source=api>`"
+msgid ":mtgtip:`Midnight Guard<https://img.scryfall.com/cards/border_crop/front/8/7/87c1d85d-b2b8-4c9d-84fa-2566b14cb5ea.jpg?1562922436|https://scryfall.com/card/bbd/99/midnight-guard?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:573
@@ -1119,7 +1119,7 @@ msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
 msgstr ""
 
 #: ../../BBD.rst:578
-msgid ":mtgtip:`Oreskos Explorer<https://img.scryfall.com/cards/border_crop/en/bbd/100.jpg?1529061861|https://scryfall.com/card/bbd/100/oreskos-explorer?utm_source=api>`"
+msgid ":mtgtip:`Oreskos Explorer<https://img.scryfall.com/cards/border_crop/front/0/a/0a4eff8a-ffb0-4d6c-b942-fe417d3283aa.jpg?1562897000|https://scryfall.com/card/bbd/100/oreskos-explorer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:577
@@ -1127,7 +1127,7 @@ msgid "When Oreskos Explorer enters the battlefield, search your library for up 
 msgstr ""
 
 #: ../../BBD.rst:584
-msgid ":mtgtip:`Pacifism<https://img.scryfall.com/cards/border_crop/en/bbd/101.jpg?1529061872|https://scryfall.com/card/bbd/101/pacifism?utm_source=api>`"
+msgid ":mtgtip:`Pacifism<https://img.scryfall.com/cards/border_crop/front/7/3/73d4f469-ff5c-4122-a254-2a4a2b1b7bf7.jpg?1562918173|https://scryfall.com/card/bbd/101/pacifism?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:583
@@ -1135,11 +1135,11 @@ msgid "Enchanted creature can't attack or block."
 msgstr ""
 
 #: ../../BBD.rst:586
-msgid ":mtgtip:`Raptor Companion<https://img.scryfall.com/cards/border_crop/en/bbd/102.jpg?1529061882|https://scryfall.com/card/bbd/102/raptor-companion?utm_source=api>`"
+msgid ":mtgtip:`Raptor Companion<https://img.scryfall.com/cards/border_crop/front/4/5/45385c8e-fff9-46e7-97e8-f946306b5147.jpg?1562909010|https://scryfall.com/card/bbd/102/raptor-companion?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:592
-msgid ":mtgtip:`Rebuke<https://img.scryfall.com/cards/border_crop/en/bbd/103.jpg?1529061891|https://scryfall.com/card/bbd/103/rebuke?utm_source=api>`"
+msgid ":mtgtip:`Rebuke<https://img.scryfall.com/cards/border_crop/front/9/6/9671c116-98cb-43b4-ace2-1e4f51a4a4c6.jpg?1562925315|https://scryfall.com/card/bbd/103/rebuke?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:591
@@ -1147,7 +1147,7 @@ msgid "Destroy target attacking creature."
 msgstr ""
 
 #: ../../BBD.rst:596
-msgid ":mtgtip:`Royal Trooper<https://img.scryfall.com/cards/border_crop/en/bbd/104.jpg?1529061903|https://scryfall.com/card/bbd/104/royal-trooper?utm_source=api>`"
+msgid ":mtgtip:`Royal Trooper<https://img.scryfall.com/cards/border_crop/front/d/2/d2ef5a76-e91c-4687-8323-7436ced35153.jpg?1562937337|https://scryfall.com/card/bbd/104/royal-trooper?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:595
@@ -1155,7 +1155,7 @@ msgid "Whenever Royal Trooper blocks, it gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:602
-msgid ":mtgtip:`Shoulder to Shoulder<https://img.scryfall.com/cards/border_crop/en/bbd/105.jpg?1529061914|https://scryfall.com/card/bbd/105/shoulder-to-shoulder?utm_source=api>`"
+msgid ":mtgtip:`Shoulder to Shoulder<https://img.scryfall.com/cards/border_crop/front/f/1/f18c12df-cbd4-41c3-9b0f-bd8dcdfea490.jpg?1562943568|https://scryfall.com/card/bbd/105/shoulder-to-shoulder?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:599
@@ -1170,7 +1170,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../BBD.rst:606
-msgid ":mtgtip:`Silverchase Fox<https://img.scryfall.com/cards/border_crop/en/bbd/106.jpg?1529061930|https://scryfall.com/card/bbd/106/silverchase-fox?utm_source=api>`"
+msgid ":mtgtip:`Silverchase Fox<https://img.scryfall.com/cards/border_crop/front/c/5/c5fd3131-a37f-427e-9d4c-08c125ac767a.jpg?1562934660|https://scryfall.com/card/bbd/106/silverchase-fox?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:605
@@ -1178,7 +1178,7 @@ msgid "|mana_1|\\ |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment.
 msgstr ""
 
 #: ../../BBD.rst:610
-msgid ":mtgtip:`Solemn Offering<https://img.scryfall.com/cards/border_crop/en/bbd/107.jpg?1529061944|https://scryfall.com/card/bbd/107/solemn-offering?utm_source=api>`"
+msgid ":mtgtip:`Solemn Offering<https://img.scryfall.com/cards/border_crop/front/e/3/e30d14b8-b431-4764-9b30-f511bd40fd08.jpg?1562940555|https://scryfall.com/card/bbd/107/solemn-offering?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:609
@@ -1186,7 +1186,7 @@ msgid "Destroy target artifact or enchantment. You gain 4 life."
 msgstr ""
 
 #: ../../BBD.rst:614
-msgid ":mtgtip:`Sparring Mummy<https://img.scryfall.com/cards/border_crop/en/bbd/108.jpg?1529061957|https://scryfall.com/card/bbd/108/sparring-mummy?utm_source=api>`"
+msgid ":mtgtip:`Sparring Mummy<https://img.scryfall.com/cards/border_crop/front/3/3/337f8889-d814-4422-ac6e-1416e5e4d4d1.jpg?1562905366|https://scryfall.com/card/bbd/108/sparring-mummy?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:613
@@ -1194,7 +1194,7 @@ msgid "When Sparring Mummy enters the battlefield, untap target creature."
 msgstr ""
 
 #: ../../BBD.rst:620
-msgid ":mtgtip:`Steppe Glider<https://img.scryfall.com/cards/border_crop/en/bbd/109.jpg?1529061972|https://scryfall.com/card/bbd/109/steppe-glider?utm_source=api>`"
+msgid ":mtgtip:`Steppe Glider<https://img.scryfall.com/cards/border_crop/front/c/c/cca16c1b-92e1-40f5-9d1f-8106ab03d2f9.jpg?1562936129|https://scryfall.com/card/bbd/109/steppe-glider?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:617
@@ -1207,7 +1207,7 @@ msgid "|mana_1|\\ |mana_w|: Target creature with a +1/+1 counter on it gains fly
 msgstr ""
 
 #: ../../BBD.rst:624
-msgid ":mtgtip:`Swords to Plowshares<https://img.scryfall.com/cards/border_crop/en/bbd/110.jpg?1529061986|https://scryfall.com/card/bbd/110/swords-to-plowshares?utm_source=api>`"
+msgid ":mtgtip:`Swords to Plowshares<https://img.scryfall.com/cards/border_crop/front/6/f/6ff9af62-1895-465a-b1f3-61f0d8318958.jpg?1562917388|https://scryfall.com/card/bbd/110/swords-to-plowshares?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:623
@@ -1215,7 +1215,7 @@ msgid "Exile target creature. Its controller gains life equal to its power."
 msgstr ""
 
 #: ../../BBD.rst:628
-msgid ":mtgtip:`Take Up Arms<https://img.scryfall.com/cards/border_crop/en/bbd/111.jpg?1529062000|https://scryfall.com/card/bbd/111/take-up-arms?utm_source=api>`"
+msgid ":mtgtip:`Take Up Arms<https://img.scryfall.com/cards/border_crop/front/e/7/e707c745-0bb1-4a85-83c1-be97131bf488.jpg?1562941397|https://scryfall.com/card/bbd/111/take-up-arms?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:627
@@ -1223,7 +1223,7 @@ msgid "Create three 1/1 white Warrior creature tokens."
 msgstr ""
 
 #: ../../BBD.rst:632
-msgid ":mtgtip:`Tandem Tactics<https://img.scryfall.com/cards/border_crop/en/bbd/112.jpg?1529062010|https://scryfall.com/card/bbd/112/tandem-tactics?utm_source=api>`"
+msgid ":mtgtip:`Tandem Tactics<https://img.scryfall.com/cards/border_crop/front/6/1/6186835f-7e7f-4342-b981-f97f8f9f49df.jpg?1562914745|https://scryfall.com/card/bbd/112/tandem-tactics?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:631
@@ -1231,7 +1231,7 @@ msgid "Up to two target creatures each get +1/+2 until end of turn. You gain 2 l
 msgstr ""
 
 #: ../../BBD.rst:636
-msgid ":mtgtip:`Benthic Giant<https://img.scryfall.com/cards/border_crop/en/bbd/113.jpg?1529062020|https://scryfall.com/card/bbd/113/benthic-giant?utm_source=api>`"
+msgid ":mtgtip:`Benthic Giant<https://img.scryfall.com/cards/border_crop/front/1/f/1ff8671d-4da4-4dc2-a8c4-d695ff1aca0f.jpg?1562901366|https://scryfall.com/card/bbd/113/benthic-giant?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:635
@@ -1241,7 +1241,7 @@ msgid "Hexproof (This creature can't be the target of spells or abilities your o
 msgstr ""
 
 #: ../../BBD.rst:640
-msgid ":mtgtip:`Call to Heel<https://img.scryfall.com/cards/border_crop/en/bbd/114.jpg?1529062032|https://scryfall.com/card/bbd/114/call-to-heel?utm_source=api>`"
+msgid ":mtgtip:`Call to Heel<https://img.scryfall.com/cards/border_crop/front/b/d/bdedbb84-7abe-420d-8429-c2d77ee0ae36.jpg?1562933206|https://scryfall.com/card/bbd/114/call-to-heel?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:639
@@ -1249,7 +1249,7 @@ msgid "Return target creature to its owner's hand. Its controller draws a card."
 msgstr ""
 
 #: ../../BBD.rst:648
-msgid ":mtgtip:`Claustrophobia<https://img.scryfall.com/cards/border_crop/en/bbd/115.jpg?1529062041|https://scryfall.com/card/bbd/115/claustrophobia?utm_source=api>`"
+msgid ":mtgtip:`Claustrophobia<https://img.scryfall.com/cards/border_crop/front/2/6/263c47d3-7804-47db-b8a1-4a1dc3837dff.jpg?1562902757|https://scryfall.com/card/bbd/115/claustrophobia?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:645
@@ -1261,7 +1261,7 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
 #: ../../BBD.rst:652
-msgid ":mtgtip:`Coralhelm Guide<https://img.scryfall.com/cards/border_crop/en/bbd/116.jpg?1529062052|https://scryfall.com/card/bbd/116/coralhelm-guide?utm_source=api>`"
+msgid ":mtgtip:`Coralhelm Guide<https://img.scryfall.com/cards/border_crop/front/0/3/0389a652-4ca8-45ab-ab3f-624c8f2626f7.jpg?1562895694|https://scryfall.com/card/bbd/116/coralhelm-guide?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:651
@@ -1269,7 +1269,7 @@ msgid "|mana_4|\\ |mana_u|: Target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../BBD.rst:658
-msgid ":mtgtip:`Fog Bank<https://img.scryfall.com/cards/border_crop/en/bbd/117.jpg?1529062063|https://scryfall.com/card/bbd/117/fog-bank?utm_source=api>`"
+msgid ":mtgtip:`Fog Bank<https://img.scryfall.com/cards/border_crop/front/8/e/8efa098b-9e52-4a5e-9554-007c5b1efdca.jpg?1562923855|https://scryfall.com/card/bbd/117/fog-bank?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:655
@@ -1281,7 +1281,7 @@ msgid "Prevent all combat damage that would be dealt to and dealt by Fog Bank."
 msgstr ""
 
 #: ../../BBD.rst:662
-msgid ":mtgtip:`Frost Lynx<https://img.scryfall.com/cards/border_crop/en/bbd/118.jpg?1529062073|https://scryfall.com/card/bbd/118/frost-lynx?utm_source=api>`"
+msgid ":mtgtip:`Frost Lynx<https://img.scryfall.com/cards/border_crop/front/7/8/781f9dee-f246-4ea5-a829-79c23a097ffb.jpg?1562919068|https://scryfall.com/card/bbd/118/frost-lynx?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:661
@@ -1289,7 +1289,7 @@ msgid "When Frost Lynx enters the battlefield, tap target creature an opponent c
 msgstr ""
 
 #: ../../BBD.rst:666
-msgid ":mtgtip:`Impulse<https://img.scryfall.com/cards/border_crop/en/bbd/119.jpg?1529062085|https://scryfall.com/card/bbd/119/impulse?utm_source=api>`"
+msgid ":mtgtip:`Impulse<https://img.scryfall.com/cards/border_crop/front/8/9/895c961f-61cf-49e8-9b80-97140a5de19a.jpg?1562922784|https://scryfall.com/card/bbd/119/impulse?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:665
@@ -1297,7 +1297,7 @@ msgid "Look at the top four cards of your library. Put one of them into your han
 msgstr ""
 
 #: ../../BBD.rst:670
-msgid ":mtgtip:`Kitesail Corsair<https://img.scryfall.com/cards/border_crop/en/bbd/120.jpg?1529062095|https://scryfall.com/card/bbd/120/kitesail-corsair?utm_source=api>`"
+msgid ":mtgtip:`Kitesail Corsair<https://img.scryfall.com/cards/border_crop/front/5/a/5a05eda9-0cfe-4a28-9f98-9f95c6fdba76.jpg?1562913288|https://scryfall.com/card/bbd/120/kitesail-corsair?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:669
@@ -1305,11 +1305,11 @@ msgid "Kitesail Corsair has flying as long as it's attacking."
 msgstr ""
 
 #: ../../BBD.rst:672
-msgid ":mtgtip:`Kraken Hatchling<https://img.scryfall.com/cards/border_crop/en/bbd/121.jpg?1529062107|https://scryfall.com/card/bbd/121/kraken-hatchling?utm_source=api>`"
+msgid ":mtgtip:`Kraken Hatchling<https://img.scryfall.com/cards/border_crop/front/c/c/cc1f65c8-4941-41ac-9340-f741725ec71c.jpg?1562936034|https://scryfall.com/card/bbd/121/kraken-hatchling?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:684
-msgid ":mtgtip:`Mystic Confluence<https://img.scryfall.com/cards/border_crop/en/bbd/122.jpg?1529062116|https://scryfall.com/card/bbd/122/mystic-confluence?utm_source=api>`"
+msgid ":mtgtip:`Mystic Confluence<https://img.scryfall.com/cards/border_crop/front/f/5/f557a8f6-1b1f-493b-a064-f14fbdb8e0f4.jpg?1562944418|https://scryfall.com/card/bbd/122/mystic-confluence?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:677
@@ -1325,7 +1325,7 @@ msgid "Return target creature to its owner's hand."
 msgstr ""
 
 #: ../../BBD.rst:688
-msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/en/bbd/123.jpg?1529062124|https://scryfall.com/card/bbd/123/negate?utm_source=api>`"
+msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/front/f/b/fbd28be5-c493-433a-a19f-cace2214b83e.jpg?1562945806|https://scryfall.com/card/bbd/123/negate?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:687
@@ -1333,7 +1333,7 @@ msgid "Counter target noncreature spell."
 msgstr ""
 
 #: ../../BBD.rst:692
-msgid ":mtgtip:`Nimbus of the Isles<https://img.scryfall.com/cards/border_crop/en/bbd/124.jpg?1529062136|https://scryfall.com/card/bbd/124/nimbus-of-the-isles?utm_source=api>`"
+msgid ":mtgtip:`Nimbus of the Isles<https://img.scryfall.com/cards/border_crop/front/f/b/fbb41d25-b65b-4570-8523-ffb11779708f.jpg?1562945758|https://scryfall.com/card/bbd/124/nimbus-of-the-isles?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:691
@@ -1341,7 +1341,7 @@ msgid "Flying (This creature can't be blocked except by creatures with flying or
 msgstr ""
 
 #: ../../BBD.rst:696
-msgid ":mtgtip:`Omenspeaker<https://img.scryfall.com/cards/border_crop/en/bbd/125.jpg?1529062146|https://scryfall.com/card/bbd/125/omenspeaker?utm_source=api>`"
+msgid ":mtgtip:`Omenspeaker<https://img.scryfall.com/cards/border_crop/front/a/0/a026c260-eb95-4aa9-8310-73a4c4a453dd.jpg?1562927312|https://scryfall.com/card/bbd/125/omenspeaker?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:695
@@ -1349,7 +1349,7 @@ msgid "When Omenspeaker enters the battlefield, scry 2. (Look at the top two car
 msgstr ""
 
 #: ../../BBD.rst:700
-msgid ":mtgtip:`Opportunity<https://img.scryfall.com/cards/border_crop/en/bbd/126.jpg?1529062157|https://scryfall.com/card/bbd/126/opportunity?utm_source=api>`"
+msgid ":mtgtip:`Opportunity<https://img.scryfall.com/cards/border_crop/front/4/9/49233196-82e4-44c4-86f0-6eb2db7293a3.jpg?1562909855|https://scryfall.com/card/bbd/126/opportunity?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:699
@@ -1357,7 +1357,7 @@ msgid "Target player draws four cards."
 msgstr ""
 
 #: ../../BBD.rst:706
-msgid ":mtgtip:`Oracle's Insight<https://img.scryfall.com/cards/border_crop/en/bbd/127.jpg?1529062168|https://scryfall.com/card/bbd/127/oracles-insight?utm_source=api>`"
+msgid ":mtgtip:`Oracle's Insight<https://img.scryfall.com/cards/border_crop/front/5/3/533d455a-88c9-4e41-b31e-5dcf821c6f6f.jpg?1562911936|https://scryfall.com/card/bbd/127/oracles-insight?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:705
@@ -1365,7 +1365,7 @@ msgid "Enchanted creature has \"|tap|: Scry 1, then draw a card.\" (To scry 1, l
 msgstr ""
 
 #: ../../BBD.rst:712
-msgid ":mtgtip:`Peregrine Drake<https://img.scryfall.com/cards/border_crop/en/bbd/128.jpg?1529062180|https://scryfall.com/card/bbd/128/peregrine-drake?utm_source=api>`"
+msgid ":mtgtip:`Peregrine Drake<https://img.scryfall.com/cards/border_crop/front/f/b/fbe5d85f-bfd3-49e1-a943-ed1ade6bb2a2.jpg?1562945824|https://scryfall.com/card/bbd/128/peregrine-drake?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:711
@@ -1373,7 +1373,7 @@ msgid "When Peregrine Drake enters the battlefield, untap up to five lands."
 msgstr ""
 
 #: ../../BBD.rst:716
-msgid ":mtgtip:`Phantom Warrior<https://img.scryfall.com/cards/border_crop/en/bbd/129.jpg?1529062189|https://scryfall.com/card/bbd/129/phantom-warrior?utm_source=api>`"
+msgid ":mtgtip:`Phantom Warrior<https://img.scryfall.com/cards/border_crop/front/9/3/93044619-0c1e-4e42-a654-a8869c73f8c5.jpg?1562924674|https://scryfall.com/card/bbd/129/phantom-warrior?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:715
@@ -1381,7 +1381,7 @@ msgid "Phantom Warrior can't be blocked."
 msgstr ""
 
 #: ../../BBD.rst:720
-msgid ":mtgtip:`Reckless Scholar<https://img.scryfall.com/cards/border_crop/en/bbd/130.jpg?1529062201|https://scryfall.com/card/bbd/130/reckless-scholar?utm_source=api>`"
+msgid ":mtgtip:`Reckless Scholar<https://img.scryfall.com/cards/border_crop/front/2/e/2e79bf8d-0248-49ff-adc2-3b735cbffc10.jpg?1562904464|https://scryfall.com/card/bbd/130/reckless-scholar?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:719
@@ -1389,7 +1389,7 @@ msgid "|tap|: Target player draws a card, then discards a card."
 msgstr ""
 
 #: ../../BBD.rst:726
-msgid ":mtgtip:`Sower of Temptation<https://img.scryfall.com/cards/border_crop/en/bbd/131.jpg?1529062214|https://scryfall.com/card/bbd/131/sower-of-temptation?utm_source=api>`"
+msgid ":mtgtip:`Sower of Temptation<https://img.scryfall.com/cards/border_crop/front/0/d/0d4a3eb3-8b28-49f7-a06c-eae26da6026b.jpg?1562897709|https://scryfall.com/card/bbd/131/sower-of-temptation?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:725
@@ -1397,7 +1397,7 @@ msgid "When Sower of Temptation enters the battlefield, gain control of target c
 msgstr ""
 
 #: ../../BBD.rst:730
-msgid ":mtgtip:`Spell Snare<https://img.scryfall.com/cards/border_crop/en/bbd/132.jpg?1529062225|https://scryfall.com/card/bbd/132/spell-snare?utm_source=api>`"
+msgid ":mtgtip:`Spell Snare<https://img.scryfall.com/cards/border_crop/front/7/2/72122836-a2f3-4001-9f08-93a7bf011ab1.jpg?1562917785|https://scryfall.com/card/bbd/132/spell-snare?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:729
@@ -1405,7 +1405,7 @@ msgid "Counter target spell with converted mana cost 2."
 msgstr ""
 
 #: ../../BBD.rst:734
-msgid ":mtgtip:`Switcheroo<https://img.scryfall.com/cards/border_crop/en/bbd/133.jpg?1529062239|https://scryfall.com/card/bbd/133/switcheroo?utm_source=api>`"
+msgid ":mtgtip:`Switcheroo<https://img.scryfall.com/cards/border_crop/front/5/9/594c2f20-3e46-4cc6-a17c-ea1283e6d167.jpg?1562913140|https://scryfall.com/card/bbd/133/switcheroo?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:733
@@ -1413,7 +1413,7 @@ msgid "Exchange control of two target creatures."
 msgstr ""
 
 #: ../../BBD.rst:740
-msgid ":mtgtip:`Tidespout Tyrant<https://img.scryfall.com/cards/border_crop/en/bbd/134.jpg?1529062249|https://scryfall.com/card/bbd/134/tidespout-tyrant?utm_source=api>`"
+msgid ":mtgtip:`Tidespout Tyrant<https://img.scryfall.com/cards/border_crop/front/9/a/9a7c2716-35ab-411d-8456-267e09833358.jpg?1562926191|https://scryfall.com/card/bbd/134/tidespout-tyrant?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:739
@@ -1421,7 +1421,7 @@ msgid "Whenever you cast a spell, return target permanent to its owner's hand."
 msgstr ""
 
 #: ../../BBD.rst:744
-msgid ":mtgtip:`Totally Lost<https://img.scryfall.com/cards/border_crop/en/bbd/135.jpg?1529062263|https://scryfall.com/card/bbd/135/totally-lost?utm_source=api>`"
+msgid ":mtgtip:`Totally Lost<https://img.scryfall.com/cards/border_crop/front/8/c/8ccc3190-3220-4f23-b7aa-421e7ed104e9.jpg?1562923462|https://scryfall.com/card/bbd/135/totally-lost?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:743
@@ -1429,7 +1429,7 @@ msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
 
 #: ../../BBD.rst:750
-msgid ":mtgtip:`True-Name Nemesis<https://img.scryfall.com/cards/border_crop/en/bbd/136.jpg?1529062272|https://scryfall.com/card/bbd/136/true-name-nemesis?utm_source=api>`"
+msgid ":mtgtip:`True-Name Nemesis<https://img.scryfall.com/cards/border_crop/front/2/d/2da0b45b-0ca9-40c4-bc7f-791039bc1876.jpg?1562904268|https://scryfall.com/card/bbd/136/true-name-nemesis?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:747
@@ -1441,7 +1441,7 @@ msgid "True-Name Nemesis has protection from the chosen player. (This creature c
 msgstr ""
 
 #: ../../BBD.rst:754
-msgid ":mtgtip:`Watercourser<https://img.scryfall.com/cards/border_crop/en/bbd/137.jpg?1529062282|https://scryfall.com/card/bbd/137/watercourser?utm_source=api>`"
+msgid ":mtgtip:`Watercourser<https://img.scryfall.com/cards/border_crop/front/4/8/4826219d-c9f0-4589-8b5e-32128259c374.jpg?1562909704|https://scryfall.com/card/bbd/137/watercourser?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:753
@@ -1449,7 +1449,7 @@ msgid "|mana_u|: Watercourser gets +1/-1 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:758
-msgid ":mtgtip:`Assassin's Strike<https://img.scryfall.com/cards/border_crop/en/bbd/138.jpg?1529062292|https://scryfall.com/card/bbd/138/assassins-strike?utm_source=api>`"
+msgid ":mtgtip:`Assassin's Strike<https://img.scryfall.com/cards/border_crop/front/d/0/d06852b5-45dd-4351-a788-558e78d58126.jpg?1562936894|https://scryfall.com/card/bbd/138/assassins-strike?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:757
@@ -1457,7 +1457,7 @@ msgid "Destroy target creature. Its controller discards a card."
 msgstr ""
 
 #: ../../BBD.rst:762
-msgid ":mtgtip:`Assassinate<https://img.scryfall.com/cards/border_crop/en/bbd/139.jpg?1529062303|https://scryfall.com/card/bbd/139/assassinate?utm_source=api>`"
+msgid ":mtgtip:`Assassinate<https://img.scryfall.com/cards/border_crop/front/3/6/369521a4-0635-420f-81c3-352b2147974b.jpg?1562906006|https://scryfall.com/card/bbd/139/assassinate?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:761
@@ -1465,11 +1465,11 @@ msgid "Destroy target tapped creature."
 msgstr ""
 
 #: ../../BBD.rst:768
-msgid ":mtgtip:`Daggerdrome Imp<https://img.scryfall.com/cards/border_crop/en/bbd/140.jpg?1529062313|https://scryfall.com/card/bbd/140/daggerdrome-imp?utm_source=api>`"
+msgid ":mtgtip:`Daggerdrome Imp<https://img.scryfall.com/cards/border_crop/front/6/d/6d9417ab-e2af-436b-9677-6e0120770d80.jpg?1562916948|https://scryfall.com/card/bbd/140/daggerdrome-imp?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:774
-msgid ":mtgtip:`Diabolic Intent<https://img.scryfall.com/cards/border_crop/en/bbd/141.jpg?1529062324|https://scryfall.com/card/bbd/141/diabolic-intent?utm_source=api>`"
+msgid ":mtgtip:`Diabolic Intent<https://img.scryfall.com/cards/border_crop/front/b/5/b58299a8-e674-46de-ae25-c98410e0b445.jpg?1562931537|https://scryfall.com/card/bbd/141/diabolic-intent?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:771
@@ -1481,7 +1481,7 @@ msgid "Search your library for a card and put that card into your hand. Then shu
 msgstr ""
 
 #: ../../BBD.rst:778
-msgid ":mtgtip:`Doomed Dissenter<https://img.scryfall.com/cards/border_crop/en/bbd/142.jpg?1529062338|https://scryfall.com/card/bbd/142/doomed-dissenter?utm_source=api>`"
+msgid ":mtgtip:`Doomed Dissenter<https://img.scryfall.com/cards/border_crop/front/0/9/0992cacb-ba33-4f0c-a1b1-cf747f754fd3.jpg?1562896879|https://scryfall.com/card/bbd/142/doomed-dissenter?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:777
@@ -1489,7 +1489,7 @@ msgid "When Doomed Dissenter dies, create a 2/2 black Zombie creature token."
 msgstr ""
 
 #: ../../BBD.rst:782
-msgid ":mtgtip:`Eyeblight Assassin<https://img.scryfall.com/cards/border_crop/en/bbd/143.jpg?1529062354|https://scryfall.com/card/bbd/143/eyeblight-assassin?utm_source=api>`"
+msgid ":mtgtip:`Eyeblight Assassin<https://img.scryfall.com/cards/border_crop/front/0/e/0e2a973f-772e-469b-8c70-c2cecfcc9353.jpg?1562897916|https://scryfall.com/card/bbd/143/eyeblight-assassin?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:781
@@ -1497,7 +1497,7 @@ msgid "When Eyeblight Assassin enters the battlefield, target creature an oppone
 msgstr ""
 
 #: ../../BBD.rst:786
-msgid ":mtgtip:`Fill with Fright<https://img.scryfall.com/cards/border_crop/en/bbd/144.jpg?1529062366|https://scryfall.com/card/bbd/144/fill-with-fright?utm_source=api>`"
+msgid ":mtgtip:`Fill with Fright<https://img.scryfall.com/cards/border_crop/front/e/6/e666ad2c-eced-4d62-8533-bb6a1e76d122.jpg?1562941252|https://scryfall.com/card/bbd/144/fill-with-fright?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:785
@@ -1505,7 +1505,7 @@ msgid "Target player discards two cards. Scry 2. (Look at the top two cards of y
 msgstr ""
 
 #: ../../BBD.rst:790
-msgid ":mtgtip:`Grotesque Mutation<https://img.scryfall.com/cards/border_crop/en/bbd/145.jpg?1529062378|https://scryfall.com/card/bbd/145/grotesque-mutation?utm_source=api>`"
+msgid ":mtgtip:`Grotesque Mutation<https://img.scryfall.com/cards/border_crop/front/8/3/83684009-f91d-4503-bdbb-181c53f394de.jpg?1562921614|https://scryfall.com/card/bbd/145/grotesque-mutation?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:789
@@ -1513,7 +1513,7 @@ msgid "Target creature gets +3/+1 and gains lifelink until end of turn. (Damage 
 msgstr ""
 
 #: ../../BBD.rst:794
-msgid ":mtgtip:`Hand of Silumgar<https://img.scryfall.com/cards/border_crop/en/bbd/146.jpg?1529062394|https://scryfall.com/card/bbd/146/hand-of-silumgar?utm_source=api>`"
+msgid ":mtgtip:`Hand of Silumgar<https://img.scryfall.com/cards/border_crop/front/d/3/d3cbb127-6149-4d0b-ad98-1968f2ebe8e4.jpg?1562937511|https://scryfall.com/card/bbd/146/hand-of-silumgar?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:793
@@ -1522,7 +1522,7 @@ msgid "Deathtouch (Any amount of damage this deals to a creature is enough to de
 msgstr ""
 
 #: ../../BBD.rst:798
-msgid ":mtgtip:`Last Gasp<https://img.scryfall.com/cards/border_crop/en/bbd/147.jpg?1529062407|https://scryfall.com/card/bbd/147/last-gasp?utm_source=api>`"
+msgid ":mtgtip:`Last Gasp<https://img.scryfall.com/cards/border_crop/front/2/3/2305f05b-8ca6-4256-9d66-fe84063bda9f.jpg?1562902005|https://scryfall.com/card/bbd/147/last-gasp?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:797
@@ -1530,7 +1530,7 @@ msgid "Target creature gets -3/-3 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:802
-msgid ":mtgtip:`Liturgy of Blood<https://img.scryfall.com/cards/border_crop/en/bbd/148.jpg?1529062420|https://scryfall.com/card/bbd/148/liturgy-of-blood?utm_source=api>`"
+msgid ":mtgtip:`Liturgy of Blood<https://img.scryfall.com/cards/border_crop/front/f/b/fbe00ed2-d316-46f8-a5cf-6aad93fe88a0.jpg?1562945815|https://scryfall.com/card/bbd/148/liturgy-of-blood?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:801
@@ -1538,7 +1538,7 @@ msgid "Destroy target creature. Add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr ""
 
 #: ../../BBD.rst:808
-msgid ":mtgtip:`Morbid Curiosity<https://img.scryfall.com/cards/border_crop/en/bbd/149.jpg?1529062431|https://scryfall.com/card/bbd/149/morbid-curiosity?utm_source=api>`"
+msgid ":mtgtip:`Morbid Curiosity<https://img.scryfall.com/cards/border_crop/front/0/3/03898f46-a26c-4765-8f1e-ea976fc53d7e.jpg?1562895690|https://scryfall.com/card/bbd/149/morbid-curiosity?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:805
@@ -1550,7 +1550,7 @@ msgid "Draw cards equal to the converted mana cost of the sacrificed permanent."
 msgstr ""
 
 #: ../../BBD.rst:814
-msgid ":mtgtip:`Nirkana Revenant<https://img.scryfall.com/cards/border_crop/en/bbd/150.jpg?1536717962|https://scryfall.com/card/bbd/150/nirkana-revenant?utm_source=api>`"
+msgid ":mtgtip:`Nirkana Revenant<https://img.scryfall.com/cards/border_crop/front/e/6/e6990bf6-3b2a-44c8-b7fb-04d74249abfe.jpg?1562941305|https://scryfall.com/card/bbd/150/nirkana-revenant?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:811
@@ -1562,7 +1562,7 @@ msgid "|mana_b|: Nirkana Revenant gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:820
-msgid ":mtgtip:`Noosegraf Mob<https://img.scryfall.com/cards/border_crop/en/bbd/151.jpg?1529062451|https://scryfall.com/card/bbd/151/noosegraf-mob?utm_source=api>`"
+msgid ":mtgtip:`Noosegraf Mob<https://img.scryfall.com/cards/border_crop/front/b/8/b8320434-70d6-48c6-a4cd-1cecc6a21ad4.jpg?1562932075|https://scryfall.com/card/bbd/151/noosegraf-mob?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:817
@@ -1574,7 +1574,7 @@ msgid "Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mo
 msgstr ""
 
 #: ../../BBD.rst:826
-msgid ":mtgtip:`Noxious Dragon<https://img.scryfall.com/cards/border_crop/en/bbd/152.jpg?1529062464|https://scryfall.com/card/bbd/152/noxious-dragon?utm_source=api>`"
+msgid ":mtgtip:`Noxious Dragon<https://img.scryfall.com/cards/border_crop/front/a/c/ac30ef04-3075-4e2a-a30a-b754456701ce.jpg?1562929711|https://scryfall.com/card/bbd/152/noxious-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:825
@@ -1582,7 +1582,7 @@ msgid "When Noxious Dragon dies, you may destroy target creature with converted 
 msgstr ""
 
 #: ../../BBD.rst:832
-msgid ":mtgtip:`Nyxathid<https://img.scryfall.com/cards/border_crop/en/bbd/153.jpg?1529062476|https://scryfall.com/card/bbd/153/nyxathid?utm_source=api>`"
+msgid ":mtgtip:`Nyxathid<https://img.scryfall.com/cards/border_crop/front/3/0/303b99b9-449a-4611-8130-e7aeba42f3d1.jpg?1562904842|https://scryfall.com/card/bbd/153/nyxathid?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:829
@@ -1594,7 +1594,7 @@ msgid "Nyxathid gets -1/-1 for each card in the chosen player's hand."
 msgstr ""
 
 #: ../../BBD.rst:836
-msgid ":mtgtip:`Painful Lesson<https://img.scryfall.com/cards/border_crop/en/bbd/154.jpg?1529062489|https://scryfall.com/card/bbd/154/painful-lesson?utm_source=api>`"
+msgid ":mtgtip:`Painful Lesson<https://img.scryfall.com/cards/border_crop/front/e/1/e16fa034-f89e-497a-8fd0-533b1932bff5.jpg?1562940239|https://scryfall.com/card/bbd/154/painful-lesson?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:835
@@ -1602,11 +1602,11 @@ msgid "Target player draws two cards and loses 2 life."
 msgstr ""
 
 #: ../../BBD.rst:838
-msgid ":mtgtip:`Prakhata Club Security<https://img.scryfall.com/cards/border_crop/en/bbd/155.jpg?1529062500|https://scryfall.com/card/bbd/155/prakhata-club-security?utm_source=api>`"
+msgid ":mtgtip:`Prakhata Club Security<https://img.scryfall.com/cards/border_crop/front/c/4/c46da57d-bcb9-4303-aa1c-72d08bb2b5a8.jpg?1562934392|https://scryfall.com/card/bbd/155/prakhata-club-security?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:846
-msgid ":mtgtip:`Quest for the Gravelord<https://img.scryfall.com/cards/border_crop/en/bbd/156.jpg?1529062511|https://scryfall.com/card/bbd/156/quest-for-the-gravelord?utm_source=api>`"
+msgid ":mtgtip:`Quest for the Gravelord<https://img.scryfall.com/cards/border_crop/front/5/9/5972edbd-ffe8-46e8-9c3e-5399c7d6879b.jpg?1562913176|https://scryfall.com/card/bbd/156/quest-for-the-gravelord?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:843
@@ -1618,7 +1618,7 @@ msgid "Remove three quest counters from Quest for the Gravelord and sacrifice it
 msgstr ""
 
 #: ../../BBD.rst:850
-msgid ":mtgtip:`Rotfeaster Maggot<https://img.scryfall.com/cards/border_crop/en/bbd/157.jpg?1529062524|https://scryfall.com/card/bbd/157/rotfeaster-maggot?utm_source=api>`"
+msgid ":mtgtip:`Rotfeaster Maggot<https://img.scryfall.com/cards/border_crop/front/4/1/41b5e1d4-2a7e-4d34-8ca7-ba8ccbf8f775.jpg?1562908191|https://scryfall.com/card/bbd/157/rotfeaster-maggot?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:849
@@ -1626,7 +1626,7 @@ msgid "When Rotfeaster Maggot enters the battlefield, exile target creature card
 msgstr ""
 
 #: ../../BBD.rst:856
-msgid ":mtgtip:`Screeching Buzzard<https://img.scryfall.com/cards/border_crop/en/bbd/158.jpg?1534650890|https://scryfall.com/card/bbd/158/screeching-buzzard?utm_source=api>`"
+msgid ":mtgtip:`Screeching Buzzard<https://img.scryfall.com/cards/border_crop/front/a/b/ab285e6a-b937-4b34-ba20-662d36b9f3dc.jpg?1562929509|https://scryfall.com/card/bbd/158/screeching-buzzard?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:855
@@ -1634,7 +1634,7 @@ msgid "When Screeching Buzzard dies, each opponent discards a card."
 msgstr ""
 
 #: ../../BBD.rst:860
-msgid ":mtgtip:`Shambling Ghoul<https://img.scryfall.com/cards/border_crop/en/bbd/159.jpg?1529062546|https://scryfall.com/card/bbd/159/shambling-ghoul?utm_source=api>`"
+msgid ":mtgtip:`Shambling Ghoul<https://img.scryfall.com/cards/border_crop/front/9/5/95a52cb8-e02f-477a-adb6-2bfb7836c704.jpg?1562925150|https://scryfall.com/card/bbd/159/shambling-ghoul?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:859
@@ -1642,7 +1642,7 @@ msgid "Shambling Ghoul enters the battlefield tapped."
 msgstr ""
 
 #: ../../BBD.rst:864
-msgid ":mtgtip:`Slum Reaper<https://img.scryfall.com/cards/border_crop/en/bbd/160.jpg?1529062557|https://scryfall.com/card/bbd/160/slum-reaper?utm_source=api>`"
+msgid ":mtgtip:`Slum Reaper<https://img.scryfall.com/cards/border_crop/front/2/2/221b02f6-12d1-4228-b56c-4fe66b1e66de.jpg?1562901802|https://scryfall.com/card/bbd/160/slum-reaper?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:863
@@ -1650,7 +1650,7 @@ msgid "When Slum Reaper enters the battlefield, each player sacrifices a creatur
 msgstr ""
 
 #: ../../BBD.rst:872
-msgid ":mtgtip:`Swarm of Bloodflies<https://img.scryfall.com/cards/border_crop/en/bbd/161.jpg?1529062567|https://scryfall.com/card/bbd/161/swarm-of-bloodflies?utm_source=api>`"
+msgid ":mtgtip:`Swarm of Bloodflies<https://img.scryfall.com/cards/border_crop/front/c/2/c29ee93e-ca9d-4a36-9efe-806be1d537d9.jpg?1562934085|https://scryfall.com/card/bbd/161/swarm-of-bloodflies?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:869
@@ -1662,7 +1662,7 @@ msgid "Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflie
 msgstr ""
 
 #: ../../BBD.rst:876
-msgid ":mtgtip:`Tavern Swindler<https://img.scryfall.com/cards/border_crop/en/bbd/162.jpg?1529062580|https://scryfall.com/card/bbd/162/tavern-swindler?utm_source=api>`"
+msgid ":mtgtip:`Tavern Swindler<https://img.scryfall.com/cards/border_crop/front/8/9/89b2fd2b-99b5-4262-a70a-93fd58699fb7.jpg?1562922825|https://scryfall.com/card/bbd/162/tavern-swindler?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:875
@@ -1670,7 +1670,7 @@ msgid "|tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
 msgstr ""
 
 #: ../../BBD.rst:880
-msgid ":mtgtip:`Tenacious Dead<https://img.scryfall.com/cards/border_crop/en/bbd/163.jpg?1529062594|https://scryfall.com/card/bbd/163/tenacious-dead?utm_source=api>`"
+msgid ":mtgtip:`Tenacious Dead<https://img.scryfall.com/cards/border_crop/front/7/d/7d88901c-3fa8-4b73-a584-3efa118338f1.jpg?1562920333|https://scryfall.com/card/bbd/163/tenacious-dead?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:879
@@ -1678,7 +1678,7 @@ msgid "When Tenacious Dead dies, you may pay |mana_1|\\ |mana_b|. If you do, ret
 msgstr ""
 
 #: ../../BBD.rst:884
-msgid ":mtgtip:`Bathe in Dragonfire<https://img.scryfall.com/cards/border_crop/en/bbd/164.jpg?1529062608|https://scryfall.com/card/bbd/164/bathe-in-dragonfire?utm_source=api>`"
+msgid ":mtgtip:`Bathe in Dragonfire<https://img.scryfall.com/cards/border_crop/front/8/5/85eff8ed-ba1c-492f-ae29-0698bb7f9849.jpg?1562922061|https://scryfall.com/card/bbd/164/bathe-in-dragonfire?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:883
@@ -1686,7 +1686,7 @@ msgid "Bathe in Dragonfire deals 4 damage to target creature."
 msgstr ""
 
 #: ../../BBD.rst:890
-msgid ":mtgtip:`Battle Rampart<https://img.scryfall.com/cards/border_crop/en/bbd/165.jpg?1529062623|https://scryfall.com/card/bbd/165/battle-rampart?utm_source=api>`"
+msgid ":mtgtip:`Battle Rampart<https://img.scryfall.com/cards/border_crop/front/d/c/dca8dfb9-fda0-4eb8-a337-406689ece41a.jpg?1562939356|https://scryfall.com/card/bbd/165/battle-rampart?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:887
@@ -1699,7 +1699,7 @@ msgid "|tap|: Target creature gains haste until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:894
-msgid ":mtgtip:`Battle-Rattle Shaman<https://img.scryfall.com/cards/border_crop/en/bbd/166.jpg?1529062632|https://scryfall.com/card/bbd/166/battle-rattle-shaman?utm_source=api>`"
+msgid ":mtgtip:`Battle-Rattle Shaman<https://img.scryfall.com/cards/border_crop/front/5/7/57d68ac6-49ce-4df6-a140-98579fa02388.jpg?1562912857|https://scryfall.com/card/bbd/166/battle-rattle-shaman?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:893
@@ -1707,7 +1707,7 @@ msgid "At the beginning of combat on your turn, you may have target creature get
 msgstr ""
 
 #: ../../BBD.rst:898
-msgid ":mtgtip:`Blaze<https://img.scryfall.com/cards/border_crop/en/bbd/167.jpg?1529062643|https://scryfall.com/card/bbd/167/blaze?utm_source=api>`"
+msgid ":mtgtip:`Blaze<https://img.scryfall.com/cards/border_crop/front/b/1/b16d0422-61ea-4039-b1c1-e590ace9156e.jpg?1562930706|https://scryfall.com/card/bbd/167/blaze?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:897
@@ -1715,7 +1715,7 @@ msgid "Blaze deals X damage to any target."
 msgstr ""
 
 #: ../../BBD.rst:902
-msgid ":mtgtip:`Blood Feud<https://img.scryfall.com/cards/border_crop/en/bbd/168.jpg?1529062654|https://scryfall.com/card/bbd/168/blood-feud?utm_source=api>`"
+msgid ":mtgtip:`Blood Feud<https://img.scryfall.com/cards/border_crop/front/9/f/9f0ec743-46ac-4ace-9c48-8573c3b7a0fe.jpg?1562927086|https://scryfall.com/card/bbd/168/blood-feud?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:901
@@ -1723,7 +1723,7 @@ msgid "Target creature fights another target creature. (Each deals damage equal 
 msgstr ""
 
 #: ../../BBD.rst:910
-msgid ":mtgtip:`Boldwyr Intimidator<https://img.scryfall.com/cards/border_crop/en/bbd/169.jpg?1529062667|https://scryfall.com/card/bbd/169/boldwyr-intimidator?utm_source=api>`"
+msgid ":mtgtip:`Boldwyr Intimidator<https://img.scryfall.com/cards/border_crop/front/a/b/aba9a42c-6bb8-4f77-9d3a-e749713b2431.jpg?1562929621|https://scryfall.com/card/bbd/169/boldwyr-intimidator?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:905
@@ -1739,7 +1739,7 @@ msgid "|mana_2|\\ |mana_r|: Target creature becomes a Warrior until end of turn.
 msgstr ""
 
 #: ../../BBD.rst:914
-msgid ":mtgtip:`Borderland Marauder<https://img.scryfall.com/cards/border_crop/en/bbd/170.jpg?1529062677|https://scryfall.com/card/bbd/170/borderland-marauder?utm_source=api>`"
+msgid ":mtgtip:`Borderland Marauder<https://img.scryfall.com/cards/border_crop/front/a/1/a1ef17d5-2698-4a29-b6d3-59592849e759.jpg?1562927733|https://scryfall.com/card/bbd/170/borderland-marauder?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:913
@@ -1747,7 +1747,7 @@ msgid "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:918
-msgid ":mtgtip:`Chain Lightning<https://img.scryfall.com/cards/border_crop/en/bbd/171.jpg?1529062688|https://scryfall.com/card/bbd/171/chain-lightning?utm_source=api>`"
+msgid ":mtgtip:`Chain Lightning<https://img.scryfall.com/cards/border_crop/front/c/9/c9c607d3-a8bf-4ba3-9c10-7509f195b41f.jpg?1562935506|https://scryfall.com/card/bbd/171/chain-lightning?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:917
@@ -1755,7 +1755,7 @@ msgid "Chain Lightning deals 3 damage to any target. Then that player or that pe
 msgstr ""
 
 #: ../../BBD.rst:928
-msgid ":mtgtip:`Dragon Breath<https://img.scryfall.com/cards/border_crop/en/bbd/172.jpg?1534650995|https://scryfall.com/card/bbd/172/dragon-breath?utm_source=api>`"
+msgid ":mtgtip:`Dragon Breath<https://img.scryfall.com/cards/border_crop/front/0/9/0900c3b6-cf56-4089-a1e3-c1f53edcf23a.jpg?1562896789|https://scryfall.com/card/bbd/172/dragon-breath?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:923
@@ -1771,7 +1771,7 @@ msgid "When a creature with converted mana cost 6 or greater enters the battlefi
 msgstr ""
 
 #: ../../BBD.rst:934
-msgid ":mtgtip:`Dragon Hatchling<https://img.scryfall.com/cards/border_crop/en/bbd/173.jpg?1529062710|https://scryfall.com/card/bbd/173/dragon-hatchling?utm_source=api>`"
+msgid ":mtgtip:`Dragon Hatchling<https://img.scryfall.com/cards/border_crop/front/8/3/83cb9ea2-ce64-437e-afac-5029a34bf10f.jpg?1562921689|https://scryfall.com/card/bbd/173/dragon-hatchling?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:933
@@ -1779,11 +1779,11 @@ msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:936
-msgid ":mtgtip:`Earth Elemental<https://img.scryfall.com/cards/border_crop/en/bbd/174.jpg?1529062722|https://scryfall.com/card/bbd/174/earth-elemental?utm_source=api>`"
+msgid ":mtgtip:`Earth Elemental<https://img.scryfall.com/cards/border_crop/front/6/5/659eeb25-b79b-4229-9d84-e28f6a636958.jpg?1562915626|https://scryfall.com/card/bbd/174/earth-elemental?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:942
-msgid ":mtgtip:`Ember Beast<https://img.scryfall.com/cards/border_crop/en/bbd/175.jpg?1529062733|https://scryfall.com/card/bbd/175/ember-beast?utm_source=api>`"
+msgid ":mtgtip:`Ember Beast<https://img.scryfall.com/cards/border_crop/front/b/5/b5d53c2b-32fe-4b92-bff1-e7416c0acd7c.jpg?1562931604|https://scryfall.com/card/bbd/175/ember-beast?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:941
@@ -1791,7 +1791,7 @@ msgid "Ember Beast can't attack or block alone."
 msgstr ""
 
 #: ../../BBD.rst:946
-msgid ":mtgtip:`Enthralling Victor<https://img.scryfall.com/cards/border_crop/en/bbd/176.jpg?1529062743|https://scryfall.com/card/bbd/176/enthralling-victor?utm_source=api>`"
+msgid ":mtgtip:`Enthralling Victor<https://img.scryfall.com/cards/border_crop/front/5/5/559a4875-2c91-4013-afc9-7832d8e1e818.jpg?1562912431|https://scryfall.com/card/bbd/176/enthralling-victor?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:945
@@ -1799,7 +1799,7 @@ msgid "When Enthralling Victor enters the battlefield, gain control of target cr
 msgstr ""
 
 #: ../../BBD.rst:952
-msgid ":mtgtip:`Expedite<https://img.scryfall.com/cards/border_crop/en/bbd/177.jpg?1529062754|https://scryfall.com/card/bbd/177/expedite?utm_source=api>`"
+msgid ":mtgtip:`Expedite<https://img.scryfall.com/cards/border_crop/front/4/4/44072f87-3a99-49dd-9709-85aa83d4819f.jpg?1562908723|https://scryfall.com/card/bbd/177/expedite?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:949
@@ -1807,7 +1807,7 @@ msgid "Target creature gains haste until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:956
-msgid ":mtgtip:`Flamewave Invoker<https://img.scryfall.com/cards/border_crop/en/bbd/178.jpg?1529062767|https://scryfall.com/card/bbd/178/flamewave-invoker?utm_source=api>`"
+msgid ":mtgtip:`Flamewave Invoker<https://img.scryfall.com/cards/border_crop/front/d/1/d14eb0c1-7709-44da-ba7a-1aa033efb4f8.jpg?1562937061|https://scryfall.com/card/bbd/178/flamewave-invoker?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:955
@@ -1815,7 +1815,7 @@ msgid "|mana_7|\\ |mana_r|: Flamewave Invoker deals 5 damage to target player or
 msgstr ""
 
 #: ../../BBD.rst:962
-msgid ":mtgtip:`Goblin Razerunners<https://img.scryfall.com/cards/border_crop/en/bbd/179.jpg?1529062779|https://scryfall.com/card/bbd/179/goblin-razerunners?utm_source=api>`"
+msgid ":mtgtip:`Goblin Razerunners<https://img.scryfall.com/cards/border_crop/front/d/5/d55da0b4-92a5-48a3-bec1-24baf190e91a.jpg?1562937781|https://scryfall.com/card/bbd/179/goblin-razerunners?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:959
@@ -1827,7 +1827,7 @@ msgid "At the beginning of your end step, you may have Goblin Razerunners deal d
 msgstr ""
 
 #: ../../BBD.rst:968
-msgid ":mtgtip:`Lightning Talons<https://img.scryfall.com/cards/border_crop/en/bbd/180.jpg?1529062792|https://scryfall.com/card/bbd/180/lightning-talons?utm_source=api>`"
+msgid ":mtgtip:`Lightning Talons<https://img.scryfall.com/cards/border_crop/front/5/a/5a7e5dd8-2c7d-4dc1-b991-ce90d8e86b43.jpg?1562913391|https://scryfall.com/card/bbd/180/lightning-talons?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:967
@@ -1835,7 +1835,7 @@ msgid "Enchanted creature gets +3/+0 and has first strike. (It deals combat dama
 msgstr ""
 
 #: ../../BBD.rst:972
-msgid ":mtgtip:`Magmatic Force<https://img.scryfall.com/cards/border_crop/en/bbd/181.jpg?1529062803|https://scryfall.com/card/bbd/181/magmatic-force?utm_source=api>`"
+msgid ":mtgtip:`Magmatic Force<https://img.scryfall.com/cards/border_crop/front/e/9/e98eb29b-af03-4a96-b84c-a0bd51f80f03.jpg?1562941873|https://scryfall.com/card/bbd/181/magmatic-force?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:971
@@ -1843,7 +1843,7 @@ msgid "At the beginning of each upkeep, Magmatic Force deals 3 damage to any tar
 msgstr ""
 
 #: ../../BBD.rst:976
-msgid ":mtgtip:`Pathmaker Initiate<https://img.scryfall.com/cards/border_crop/en/bbd/182.jpg?1529062812|https://scryfall.com/card/bbd/182/pathmaker-initiate?utm_source=api>`"
+msgid ":mtgtip:`Pathmaker Initiate<https://img.scryfall.com/cards/border_crop/front/a/2/a2cfcb26-565d-451c-9a99-00a8a84a033d.jpg?1562927896|https://scryfall.com/card/bbd/182/pathmaker-initiate?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:975
@@ -1851,7 +1851,7 @@ msgid "|tap|: Target creature with power 2 or less can't be blocked this turn."
 msgstr ""
 
 #: ../../BBD.rst:980
-msgid ":mtgtip:`Reckless Reveler<https://img.scryfall.com/cards/border_crop/en/bbd/183.jpg?1529062823|https://scryfall.com/card/bbd/183/reckless-reveler?utm_source=api>`"
+msgid ":mtgtip:`Reckless Reveler<https://img.scryfall.com/cards/border_crop/front/c/f/cf7f2954-65f6-4944-ae68-8992cb0268f4.jpg?1562936706|https://scryfall.com/card/bbd/183/reckless-reveler?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:979
@@ -1859,7 +1859,7 @@ msgid "|mana_r|, Sacrifice Reckless Reveler: Destroy target artifact."
 msgstr ""
 
 #: ../../BBD.rst:984
-msgid ":mtgtip:`Shock<https://img.scryfall.com/cards/border_crop/en/bbd/184.jpg?1529062832|https://scryfall.com/card/bbd/184/shock?utm_source=api>`"
+msgid ":mtgtip:`Shock<https://img.scryfall.com/cards/border_crop/front/c/8/c8828ece-9583-429b-8013-35cfca955721.jpg?1562935230|https://scryfall.com/card/bbd/184/shock?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:983
@@ -1867,7 +1867,7 @@ msgid "Shock deals 2 damage to any target."
 msgstr ""
 
 #: ../../BBD.rst:988
-msgid ":mtgtip:`Thunder Strike<https://img.scryfall.com/cards/border_crop/en/bbd/185.jpg?1529062844|https://scryfall.com/card/bbd/185/thunder-strike?utm_source=api>`"
+msgid ":mtgtip:`Thunder Strike<https://img.scryfall.com/cards/border_crop/front/a/b/abdc38f3-194a-4f43-8ada-9cfc17094d20.jpg?1562929648|https://scryfall.com/card/bbd/185/thunder-strike?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:987
@@ -1875,7 +1875,7 @@ msgid "Target creature gets +2/+0 and gains first strike until end of turn. (It 
 msgstr ""
 
 #: ../../BBD.rst:992
-msgid ":mtgtip:`Trumpet Blast<https://img.scryfall.com/cards/border_crop/en/bbd/186.jpg?1529062859|https://scryfall.com/card/bbd/186/trumpet-blast?utm_source=api>`"
+msgid ":mtgtip:`Trumpet Blast<https://img.scryfall.com/cards/border_crop/front/4/3/4311547d-abed-4612-8fa2-1e1314f5d10e.jpg?1562908514|https://scryfall.com/card/bbd/186/trumpet-blast?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:991
@@ -1883,7 +1883,7 @@ msgid "Attacking creatures get +2/+0 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:998
-msgid ":mtgtip:`War's Toll<https://img.scryfall.com/cards/border_crop/en/bbd/187.jpg?1529062872|https://scryfall.com/card/bbd/187/wars-toll?utm_source=api>`"
+msgid ":mtgtip:`War's Toll<https://img.scryfall.com/cards/border_crop/front/3/a/3a08f7fe-8ca9-4604-85c8-9050298730ea.jpg?1562906728|https://scryfall.com/card/bbd/187/wars-toll?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:995
@@ -1895,7 +1895,7 @@ msgid "If a creature an opponent controls attacks, all creatures that opponent c
 msgstr ""
 
 #: ../../BBD.rst:1002
-msgid ":mtgtip:`Wrap in Flames<https://img.scryfall.com/cards/border_crop/en/bbd/188.jpg?1529062885|https://scryfall.com/card/bbd/188/wrap-in-flames?utm_source=api>`"
+msgid ":mtgtip:`Wrap in Flames<https://img.scryfall.com/cards/border_crop/front/c/0/c059d868-2e4a-466b-9faa-1be76a3a0378.jpg?1562933661|https://scryfall.com/card/bbd/188/wrap-in-flames?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1001
@@ -1903,7 +1903,7 @@ msgid "Wrap in Flames deals 1 damage to each of up to three target creatures. Th
 msgstr ""
 
 #: ../../BBD.rst:1006
-msgid ":mtgtip:`Aim High<https://img.scryfall.com/cards/border_crop/en/bbd/189.jpg?1529062895|https://scryfall.com/card/bbd/189/aim-high?utm_source=api>`"
+msgid ":mtgtip:`Aim High<https://img.scryfall.com/cards/border_crop/front/f/7/f7eda02d-ef3e-43e9-a557-8760221ee49a.jpg?1562944984|https://scryfall.com/card/bbd/189/aim-high?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1005
@@ -1911,7 +1911,7 @@ msgid "Untap target creature. It gets +2/+2 and gains reach until end of turn. (
 msgstr ""
 
 #: ../../BBD.rst:1010
-msgid ":mtgtip:`Beast Within<https://img.scryfall.com/cards/border_crop/en/bbd/190.jpg?1529062906|https://scryfall.com/card/bbd/190/beast-within?utm_source=api>`"
+msgid ":mtgtip:`Beast Within<https://img.scryfall.com/cards/border_crop/front/a/b/ab3e096a-d6e8-4148-bbea-f26fc67e2fe2.jpg?1562929539|https://scryfall.com/card/bbd/190/beast-within?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1009
@@ -1919,7 +1919,7 @@ msgid "Destroy target permanent. Its controller creates a 3/3 green Beast creatu
 msgstr ""
 
 #: ../../BBD.rst:1014
-msgid ":mtgtip:`Canopy Spider<https://img.scryfall.com/cards/border_crop/en/bbd/191.jpg?1529062916|https://scryfall.com/card/bbd/191/canopy-spider?utm_source=api>`"
+msgid ":mtgtip:`Canopy Spider<https://img.scryfall.com/cards/border_crop/front/3/9/39d29122-f10b-4172-aa38-28c42c27f21f.jpg?1562906673|https://scryfall.com/card/bbd/191/canopy-spider?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1013
@@ -1928,7 +1928,7 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 #: ../../BBD.rst:1018
-msgid ":mtgtip:`Charging Rhino<https://img.scryfall.com/cards/border_crop/en/bbd/192.jpg?1529062927|https://scryfall.com/card/bbd/192/charging-rhino?utm_source=api>`"
+msgid ":mtgtip:`Charging Rhino<https://img.scryfall.com/cards/border_crop/front/f/1/f12724b4-3c73-4b16-b5f8-482dc3f56a3c.jpg?1562943446|https://scryfall.com/card/bbd/192/charging-rhino?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1017
@@ -1936,15 +1936,15 @@ msgid "Charging Rhino can't be blocked by more than one creature."
 msgstr ""
 
 #: ../../BBD.rst:1020
-msgid ":mtgtip:`Cowl Prowler<https://img.scryfall.com/cards/border_crop/en/bbd/193.jpg?1529062938|https://scryfall.com/card/bbd/193/cowl-prowler?utm_source=api>`"
+msgid ":mtgtip:`Cowl Prowler<https://img.scryfall.com/cards/border_crop/front/f/3/f372f545-b70c-470b-9aab-4a2ea900f777.jpg?1562943932|https://scryfall.com/card/bbd/193/cowl-prowler?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1026
-msgid ":mtgtip:`Daggerback Basilisk<https://img.scryfall.com/cards/border_crop/en/bbd/194.jpg?1529062949|https://scryfall.com/card/bbd/194/daggerback-basilisk?utm_source=api>`"
+msgid ":mtgtip:`Daggerback Basilisk<https://img.scryfall.com/cards/border_crop/front/6/6/66587523-b973-4f05-a601-cf25d61a903a.jpg?1562915753|https://scryfall.com/card/bbd/194/daggerback-basilisk?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1032
-msgid ":mtgtip:`Doubling Season<https://img.scryfall.com/cards/border_crop/en/bbd/195.jpg?1529062959|https://scryfall.com/card/bbd/195/doubling-season?utm_source=api>`"
+msgid ":mtgtip:`Doubling Season<https://img.scryfall.com/cards/border_crop/front/2/9/29ba5a2d-d787-4214-8cd7-7f2bcea938f8.jpg?1562903514|https://scryfall.com/card/bbd/195/doubling-season?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1029
@@ -1956,7 +1956,7 @@ msgid "If an effect would put one or more counters on a permanent you control, i
 msgstr ""
 
 #: ../../BBD.rst:1036
-msgid ":mtgtip:`Elvish Visionary<https://img.scryfall.com/cards/border_crop/en/bbd/196.jpg?1529062969|https://scryfall.com/card/bbd/196/elvish-visionary?utm_source=api>`"
+msgid ":mtgtip:`Elvish Visionary<https://img.scryfall.com/cards/border_crop/front/8/0/809051a2-398f-4f02-8510-d56711d60551.jpg?1562920896|https://scryfall.com/card/bbd/196/elvish-visionary?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1035
@@ -1964,7 +1964,7 @@ msgid "When Elvish Visionary enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../BBD.rst:1042
-msgid ":mtgtip:`Feral Hydra<https://img.scryfall.com/cards/border_crop/en/bbd/197.jpg?1529062980|https://scryfall.com/card/bbd/197/feral-hydra?utm_source=api>`"
+msgid ":mtgtip:`Feral Hydra<https://img.scryfall.com/cards/border_crop/front/2/b/2b62df43-ff0b-4f2c-8d78-dafefb5e23f7.jpg?1562903829|https://scryfall.com/card/bbd/197/feral-hydra?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1039
@@ -1976,7 +1976,7 @@ msgid "|mana_3|: Put a +1/+1 counter on Feral Hydra. Any player may activate thi
 msgstr ""
 
 #: ../../BBD.rst:1048
-msgid ":mtgtip:`Fertile Ground<https://img.scryfall.com/cards/border_crop/en/bbd/198.jpg?1529062993|https://scryfall.com/card/bbd/198/fertile-ground?utm_source=api>`"
+msgid ":mtgtip:`Fertile Ground<https://img.scryfall.com/cards/border_crop/front/c/1/c1797305-1cb0-4330-a6f2-66951037e9be.jpg?1562933871|https://scryfall.com/card/bbd/198/fertile-ground?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1045
@@ -1988,7 +1988,7 @@ msgid "Whenever enchanted land is tapped for mana, its controller adds an additi
 msgstr ""
 
 #: ../../BBD.rst:1054
-msgid ":mtgtip:`Fertilid<https://img.scryfall.com/cards/border_crop/en/bbd/199.jpg?1529063004|https://scryfall.com/card/bbd/199/fertilid?utm_source=api>`"
+msgid ":mtgtip:`Fertilid<https://img.scryfall.com/cards/border_crop/front/a/3/a3244114-b854-4911-bc0d-76d18ce9d2ea.jpg?1562927948|https://scryfall.com/card/bbd/199/fertilid?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1051
@@ -2000,7 +2000,7 @@ msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player 
 msgstr ""
 
 #: ../../BBD.rst:1058
-msgid ":mtgtip:`Giant Growth<https://img.scryfall.com/cards/border_crop/en/bbd/200.jpg?1529063015|https://scryfall.com/card/bbd/200/giant-growth?utm_source=api>`"
+msgid ":mtgtip:`Giant Growth<https://img.scryfall.com/cards/border_crop/front/9/a/9a487199-3ecc-4b22-9379-1be1f8406490.jpg?1562926139|https://scryfall.com/card/bbd/200/giant-growth?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1057
@@ -2008,7 +2008,7 @@ msgid "Target creature gets +3/+3 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:1062
-msgid ":mtgtip:`Greater Good<https://img.scryfall.com/cards/border_crop/en/bbd/201.jpg?1529063026|https://scryfall.com/card/bbd/201/greater-good?utm_source=api>`"
+msgid ":mtgtip:`Greater Good<https://img.scryfall.com/cards/border_crop/front/e/8/e845f300-6a98-4057-9003-885185f30923.jpg?1562941610|https://scryfall.com/card/bbd/201/greater-good?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1061
@@ -2016,7 +2016,7 @@ msgid "Sacrifice a creature: Draw cards equal to the sacrificed creature's power
 msgstr ""
 
 #: ../../BBD.rst:1066
-msgid ":mtgtip:`Hunted Wumpus<https://img.scryfall.com/cards/border_crop/en/bbd/202.jpg?1529063039|https://scryfall.com/card/bbd/202/hunted-wumpus?utm_source=api>`"
+msgid ":mtgtip:`Hunted Wumpus<https://img.scryfall.com/cards/border_crop/front/2/b/2bf7258f-83c0-4cb0-8b1c-1f0c131abcd3.jpg?1562903970|https://scryfall.com/card/bbd/202/hunted-wumpus?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1065
@@ -2024,7 +2024,7 @@ msgid "When Hunted Wumpus enters the battlefield, each other player may put a cr
 msgstr ""
 
 #: ../../BBD.rst:1074
-msgid ":mtgtip:`Karametra's Favor<https://img.scryfall.com/cards/border_crop/en/bbd/203.jpg?1529063054|https://scryfall.com/card/bbd/203/karametras-favor?utm_source=api>`"
+msgid ":mtgtip:`Karametra's Favor<https://img.scryfall.com/cards/border_crop/front/7/7/77026cf6-7e89-41a6-8279-de1068569a02.jpg?1562918868|https://scryfall.com/card/bbd/203/karametras-favor?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1071
@@ -2036,7 +2036,7 @@ msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
 msgstr ""
 
 #: ../../BBD.rst:1078
-msgid ":mtgtip:`Kraul Warrior<https://img.scryfall.com/cards/border_crop/en/bbd/204.jpg?1529063069|https://scryfall.com/card/bbd/204/kraul-warrior?utm_source=api>`"
+msgid ":mtgtip:`Kraul Warrior<https://img.scryfall.com/cards/border_crop/front/3/e/3e57df40-d73c-46fa-beef-014cc0df34a5.jpg?1562907515|https://scryfall.com/card/bbd/204/kraul-warrior?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1077
@@ -2044,11 +2044,11 @@ msgid "|mana_5|\\ |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:1082
-msgid ":mtgtip:`Lead by Example<https://img.scryfall.com/cards/border_crop/en/bbd/205.jpg?1529063083|https://scryfall.com/card/bbd/205/lead-by-example?utm_source=api>`"
+msgid ":mtgtip:`Lead by Example<https://img.scryfall.com/cards/border_crop/front/3/5/3525b8f3-8b5b-4f1e-9b18-8e925cf45413.jpg?1562905740|https://scryfall.com/card/bbd/205/lead-by-example?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1086
-msgid ":mtgtip:`Magus of the Candelabra<https://img.scryfall.com/cards/border_crop/en/bbd/206.jpg?1529063105|https://scryfall.com/card/bbd/206/magus-of-the-candelabra?utm_source=api>`"
+msgid ":mtgtip:`Magus of the Candelabra<https://img.scryfall.com/cards/border_crop/front/f/5/f50583b8-6953-4094-b420-580d545e827f.jpg?1562944330|https://scryfall.com/card/bbd/206/magus-of-the-candelabra?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1085
@@ -2056,15 +2056,15 @@ msgid "|mana_x|, |tap|: Untap X target lands."
 msgstr ""
 
 #: ../../BBD.rst:1092
-msgid ":mtgtip:`Plated Crusher<https://img.scryfall.com/cards/border_crop/en/bbd/207.jpg?1545325654|https://scryfall.com/card/bbd/207/plated-crusher?utm_source=api>`"
+msgid ":mtgtip:`Plated Crusher<https://img.scryfall.com/cards/border_crop/front/a/5/a5f38436-9edf-42a1-83ba-0f5210b2cb86.jpg?1562928530|https://scryfall.com/card/bbd/207/plated-crusher?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1096
-msgid ":mtgtip:`Primal Huntbeast<https://img.scryfall.com/cards/border_crop/en/bbd/208.jpg?1529063131|https://scryfall.com/card/bbd/208/primal-huntbeast?utm_source=api>`"
+msgid ":mtgtip:`Primal Huntbeast<https://img.scryfall.com/cards/border_crop/front/5/6/56e027ec-430f-4c7d-9794-a431efa3693f.jpg?1562912680|https://scryfall.com/card/bbd/208/primal-huntbeast?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1100
-msgid ":mtgtip:`Pulse of Murasa<https://img.scryfall.com/cards/border_crop/en/bbd/209.jpg?1529063143|https://scryfall.com/card/bbd/209/pulse-of-murasa?utm_source=api>`"
+msgid ":mtgtip:`Pulse of Murasa<https://img.scryfall.com/cards/border_crop/front/c/5/c591c615-69e8-4661-a089-8c4e152adac7.jpg?1562934603|https://scryfall.com/card/bbd/209/pulse-of-murasa?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1099
@@ -2072,7 +2072,7 @@ msgid "Return target creature or land card from a graveyard to its owner's hand.
 msgstr ""
 
 #: ../../BBD.rst:1104
-msgid ":mtgtip:`Return to the Earth<https://img.scryfall.com/cards/border_crop/en/bbd/210.jpg?1529063153|https://scryfall.com/card/bbd/210/return-to-the-earth?utm_source=api>`"
+msgid ":mtgtip:`Return to the Earth<https://img.scryfall.com/cards/border_crop/front/0/e/0e7a0409-02f1-43c2-b4f1-e7ce7f371789.jpg?1562897984|https://scryfall.com/card/bbd/210/return-to-the-earth?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1103
@@ -2080,7 +2080,7 @@ msgid "Destroy target artifact, enchantment, or creature with flying."
 msgstr ""
 
 #: ../../BBD.rst:1108
-msgid ":mtgtip:`Saddleback Lagac<https://img.scryfall.com/cards/border_crop/en/bbd/211.jpg?1529063164|https://scryfall.com/card/bbd/211/saddleback-lagac?utm_source=api>`"
+msgid ":mtgtip:`Saddleback Lagac<https://img.scryfall.com/cards/border_crop/front/6/3/634f9544-5ac3-4566-aa73-65a3930b559b.jpg?1562915107|https://scryfall.com/card/bbd/211/saddleback-lagac?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1107
@@ -2088,7 +2088,7 @@ msgid "When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 cou
 msgstr ""
 
 #: ../../BBD.rst:1112
-msgid ":mtgtip:`Seedborn Muse<https://img.scryfall.com/cards/border_crop/en/bbd/212.jpg?1529063174|https://scryfall.com/card/bbd/212/seedborn-muse?utm_source=api>`"
+msgid ":mtgtip:`Seedborn Muse<https://img.scryfall.com/cards/border_crop/front/5/8/5842e1fd-bdf9-45e4-a478-65e80c737581.jpg?1562912952|https://scryfall.com/card/bbd/212/seedborn-muse?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1111
@@ -2096,7 +2096,7 @@ msgid "Untap all permanents you control during each other player's untap step."
 msgstr ""
 
 #: ../../BBD.rst:1116
-msgid ":mtgtip:`Skyshroud Claim<https://img.scryfall.com/cards/border_crop/en/bbd/213.jpg?1529063186|https://scryfall.com/card/bbd/213/skyshroud-claim?utm_source=api>`"
+msgid ":mtgtip:`Skyshroud Claim<https://img.scryfall.com/cards/border_crop/front/4/f/4f1579c8-2ec9-49af-bc2e-f4d16a0f1221.jpg?1562911007|https://scryfall.com/card/bbd/213/skyshroud-claim?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1115
@@ -2104,7 +2104,7 @@ msgid "Search your library for up to two Forest cards, put them onto the battlef
 msgstr ""
 
 #: ../../BBD.rst:1120
-msgid ":mtgtip:`Veteran Explorer<https://img.scryfall.com/cards/border_crop/en/bbd/214.jpg?1529063198|https://scryfall.com/card/bbd/214/veteran-explorer?utm_source=api>`"
+msgid ":mtgtip:`Veteran Explorer<https://img.scryfall.com/cards/border_crop/front/e/0/e0cb5f09-4734-435e-bb40-76c449f3b199.jpg?1562940151|https://scryfall.com/card/bbd/214/veteran-explorer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1119
@@ -2112,7 +2112,7 @@ msgid "When Veteran Explorer dies, each player may search their library for up t
 msgstr ""
 
 #: ../../BBD.rst:1128
-msgid ":mtgtip:`Vigor<https://img.scryfall.com/cards/border_crop/en/bbd/215.jpg?1529063209|https://scryfall.com/card/bbd/215/vigor?utm_source=api>`"
+msgid ":mtgtip:`Vigor<https://img.scryfall.com/cards/border_crop/front/e/a/ea7047d8-8d32-48a3-829b-7eb5427ed53a.jpg?1562942114|https://scryfall.com/card/bbd/215/vigor?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1125
@@ -2124,7 +2124,7 @@ msgid "When Vigor is put into a graveyard from anywhere, shuffle it into its own
 msgstr ""
 
 #: ../../BBD.rst:1132
-msgid ":mtgtip:`Wandering Wolf<https://img.scryfall.com/cards/border_crop/en/bbd/216.jpg?1529063223|https://scryfall.com/card/bbd/216/wandering-wolf?utm_source=api>`"
+msgid ":mtgtip:`Wandering Wolf<https://img.scryfall.com/cards/border_crop/front/9/6/96d4361f-a889-4031-8b95-27dbef3922f3.jpg?1562925389|https://scryfall.com/card/bbd/216/wandering-wolf?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1131
@@ -2132,7 +2132,7 @@ msgid "Creatures with power less than Wandering Wolf's power can't block it."
 msgstr ""
 
 #: ../../BBD.rst:1138
-msgid ":mtgtip:`Apocalypse Hydra<https://img.scryfall.com/cards/border_crop/en/bbd/217.jpg?1529063238|https://scryfall.com/card/bbd/217/apocalypse-hydra?utm_source=api>`"
+msgid ":mtgtip:`Apocalypse Hydra<https://img.scryfall.com/cards/border_crop/front/3/a/3a3bae04-6da2-485d-812e-ea2f7e45a9f3.jpg?1562906780|https://scryfall.com/card/bbd/217/apocalypse-hydra?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1135
@@ -2140,11 +2140,11 @@ msgid "Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X
 msgstr ""
 
 #: ../../BBD.rst:1137
-msgid "|mana_1|\\ |mana_r|, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to any target."
+msgid "|mana_1|\\ |mana_r|, Remove a +1/+1 counter from Apocalypse Hydra: It deals 1 damage to any target."
 msgstr ""
 
 #: ../../BBD.rst:1142
-msgid ":mtgtip:`Auger Spree<https://img.scryfall.com/cards/border_crop/en/bbd/218.jpg?1529063254|https://scryfall.com/card/bbd/218/auger-spree?utm_source=api>`"
+msgid ":mtgtip:`Auger Spree<https://img.scryfall.com/cards/border_crop/front/3/5/35d7389d-0a65-4db2-ac3b-1ec369a84161.jpg?1562905883|https://scryfall.com/card/bbd/218/auger-spree?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1141
@@ -2152,7 +2152,7 @@ msgid "Target creature gets +4/-4 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:1146
-msgid ":mtgtip:`Centaur Healer<https://img.scryfall.com/cards/border_crop/en/bbd/219.jpg?1529063267|https://scryfall.com/card/bbd/219/centaur-healer?utm_source=api>`"
+msgid ":mtgtip:`Centaur Healer<https://img.scryfall.com/cards/border_crop/front/e/9/e92b32f0-01bd-4501-b0ad-90d2c296077a.jpg?1562941764|https://scryfall.com/card/bbd/219/centaur-healer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1145
@@ -2160,7 +2160,7 @@ msgid "When Centaur Healer enters the battlefield, you gain 3 life."
 msgstr ""
 
 #: ../../BBD.rst:1150
-msgid ":mtgtip:`Dinrova Horror<https://img.scryfall.com/cards/border_crop/en/bbd/220.jpg?1529063277|https://scryfall.com/card/bbd/220/dinrova-horror?utm_source=api>`"
+msgid ":mtgtip:`Dinrova Horror<https://img.scryfall.com/cards/border_crop/front/7/f/7f7918de-71c8-4c46-bde2-f7357767dc08.jpg?1562920725|https://scryfall.com/card/bbd/220/dinrova-horror?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1149
@@ -2168,7 +2168,7 @@ msgid "When Dinrova Horror enters the battlefield, return target permanent to it
 msgstr ""
 
 #: ../../BBD.rst:1156
-msgid ":mtgtip:`Enduring Scalelord<https://img.scryfall.com/cards/border_crop/en/bbd/221.jpg?1529063289|https://scryfall.com/card/bbd/221/enduring-scalelord?utm_source=api>`"
+msgid ":mtgtip:`Enduring Scalelord<https://img.scryfall.com/cards/border_crop/front/6/8/68eb8367-f3cf-46d3-9af4-c4b46605e091.jpg?1562916141|https://scryfall.com/card/bbd/221/enduring-scalelord?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1155
@@ -2176,7 +2176,7 @@ msgid "Whenever one or more +1/+1 counters are put on another creature you contr
 msgstr ""
 
 #: ../../BBD.rst:1160
-msgid ":mtgtip:`Evil Twin<https://img.scryfall.com/cards/border_crop/en/bbd/222.jpg?1529063303|https://scryfall.com/card/bbd/222/evil-twin?utm_source=api>`"
+msgid ":mtgtip:`Evil Twin<https://img.scryfall.com/cards/border_crop/front/7/b/7b1969ce-3bf1-4beb-bbf8-22edfda8e3f8.jpg?1562919770|https://scryfall.com/card/bbd/222/evil-twin?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1159
@@ -2184,7 +2184,7 @@ msgid "You may have Evil Twin enter the battlefield as a copy of any creature on
 msgstr ""
 
 #: ../../BBD.rst:1166
-msgid ":mtgtip:`Gwafa Hazid, Profiteer<https://img.scryfall.com/cards/border_crop/en/bbd/223.jpg?1529063316|https://scryfall.com/card/bbd/223/gwafa-hazid-profiteer?utm_source=api>`"
+msgid ":mtgtip:`Gwafa Hazid, Profiteer<https://img.scryfall.com/cards/border_crop/front/d/a/da097d1a-6e51-41d7-8dfe-f26acfb0038f.jpg?1562938863|https://scryfall.com/card/bbd/223/gwafa-hazid-profiteer?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1163
@@ -2196,7 +2196,7 @@ msgid "Creatures with bribery counters on them can't attack or block."
 msgstr ""
 
 #: ../../BBD.rst:1172
-msgid ":mtgtip:`Jelenn Sphinx<https://img.scryfall.com/cards/border_crop/en/bbd/224.jpg?1529063329|https://scryfall.com/card/bbd/224/jelenn-sphinx?utm_source=api>`"
+msgid ":mtgtip:`Jelenn Sphinx<https://img.scryfall.com/cards/border_crop/front/5/e/5e868618-c1b0-4ab9-96b2-6435e52b8b07.jpg?1562914130|https://scryfall.com/card/bbd/224/jelenn-sphinx?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1171
@@ -2204,7 +2204,7 @@ msgid "Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until
 msgstr ""
 
 #: ../../BBD.rst:1176
-msgid ":mtgtip:`Kiss of the Amesha<https://img.scryfall.com/cards/border_crop/en/bbd/225.jpg?1529063342|https://scryfall.com/card/bbd/225/kiss-of-the-amesha?utm_source=api>`"
+msgid ":mtgtip:`Kiss of the Amesha<https://img.scryfall.com/cards/border_crop/front/8/2/82843400-2705-4ec3-b677-1027df6db62e.jpg?1562921395|https://scryfall.com/card/bbd/225/kiss-of-the-amesha?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1175
@@ -2212,7 +2212,7 @@ msgid "Target player gains 7 life and draws two cards."
 msgstr ""
 
 #: ../../BBD.rst:1180
-msgid ":mtgtip:`Relentless Hunter<https://img.scryfall.com/cards/border_crop/en/bbd/226.jpg?1529063352|https://scryfall.com/card/bbd/226/relentless-hunter?utm_source=api>`"
+msgid ":mtgtip:`Relentless Hunter<https://img.scryfall.com/cards/border_crop/front/5/6/5601725f-d733-4052-86eb-5d11baad8c34.jpg?1562912512|https://scryfall.com/card/bbd/226/relentless-hunter?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1179
@@ -2220,11 +2220,11 @@ msgid "|mana_1|\\ |mana_r|\\ |mana_g|: Relentless Hunter gets +1/+1 and gains tr
 msgstr ""
 
 #: ../../BBD.rst:1182
-msgid ":mtgtip:`Rhox Brute<https://img.scryfall.com/cards/border_crop/en/bbd/227.jpg?1529063361|https://scryfall.com/card/bbd/227/rhox-brute?utm_source=api>`"
+msgid ":mtgtip:`Rhox Brute<https://img.scryfall.com/cards/border_crop/front/3/8/382fba19-78d3-4aa3-9508-c7c1f13e0b33.jpg?1562906332|https://scryfall.com/card/bbd/227/rhox-brute?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1190
-msgid ":mtgtip:`Riptide Crab<https://img.scryfall.com/cards/border_crop/en/bbd/228.jpg?1539609249|https://scryfall.com/card/bbd/228/riptide-crab?utm_source=api>`"
+msgid ":mtgtip:`Riptide Crab<https://img.scryfall.com/cards/border_crop/front/c/d/cdf9f3fb-40f5-4833-8638-5ddc2ba591f3.jpg?1562936432|https://scryfall.com/card/bbd/228/riptide-crab?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1189
@@ -2232,7 +2232,7 @@ msgid "When Riptide Crab dies, draw a card."
 msgstr ""
 
 #: ../../BBD.rst:1196
-msgid ":mtgtip:`Savage Ventmaw<https://img.scryfall.com/cards/border_crop/en/bbd/229.jpg?1529063380|https://scryfall.com/card/bbd/229/savage-ventmaw?utm_source=api>`"
+msgid ":mtgtip:`Savage Ventmaw<https://img.scryfall.com/cards/border_crop/front/4/7/471cd229-c80f-4dc5-a174-96984fc80a2f.jpg?1562909475|https://scryfall.com/card/bbd/229/savage-ventmaw?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1195
@@ -2240,7 +2240,7 @@ msgid "Whenever Savage Ventmaw attacks, add |mana_r|\\ |mana_r|\\ |mana_r|\\ |ma
 msgstr ""
 
 #: ../../BBD.rst:1202
-msgid ":mtgtip:`Unflinching Courage<https://img.scryfall.com/cards/border_crop/en/bbd/230.jpg?1529063392|https://scryfall.com/card/bbd/230/unflinching-courage?utm_source=api>`"
+msgid ":mtgtip:`Unflinching Courage<https://img.scryfall.com/cards/border_crop/front/6/6/66b0ae8c-7fd7-4a2a-aba0-6b0e8a332650.jpg?1562915779|https://scryfall.com/card/bbd/230/unflinching-courage?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1201
@@ -2248,7 +2248,7 @@ msgid "Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt
 msgstr ""
 
 #: ../../BBD.rst:1208
-msgid ":mtgtip:`Urborg Drake<https://img.scryfall.com/cards/border_crop/en/bbd/231.jpg?1539609269|https://scryfall.com/card/bbd/231/urborg-drake?utm_source=api>`"
+msgid ":mtgtip:`Urborg Drake<https://img.scryfall.com/cards/border_crop/front/2/c/2c87088f-6613-413b-aef9-0ef08c6b637f.jpg?1562904088|https://scryfall.com/card/bbd/231/urborg-drake?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1207
@@ -2256,11 +2256,11 @@ msgid "Urborg Drake attacks each combat if able."
 msgstr ""
 
 #: ../../BBD.rst:1214
-msgid ":mtgtip:`Consulate Skygate<https://img.scryfall.com/cards/border_crop/en/bbd/232.jpg?1529063420|https://scryfall.com/card/bbd/232/consulate-skygate?utm_source=api>`"
+msgid ":mtgtip:`Consulate Skygate<https://img.scryfall.com/cards/border_crop/front/6/d/6d808a30-f1b5-484e-a90e-0a9f751ef597.jpg?1562916920|https://scryfall.com/card/bbd/232/consulate-skygate?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1220
-msgid ":mtgtip:`Culling Dais<https://img.scryfall.com/cards/border_crop/en/bbd/233.jpg?1529063437|https://scryfall.com/card/bbd/233/culling-dais?utm_source=api>`"
+msgid ":mtgtip:`Culling Dais<https://img.scryfall.com/cards/border_crop/front/b/1/b1fd69d0-754c-4b8d-90ad-908ab191e2a4.jpg?1562930835|https://scryfall.com/card/bbd/233/culling-dais?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1217
@@ -2272,7 +2272,7 @@ msgid "|mana_1|, Sacrifice Culling Dais: Draw a card for each charge counter on 
 msgstr ""
 
 #: ../../BBD.rst:1224
-msgid ":mtgtip:`Eager Construct<https://img.scryfall.com/cards/border_crop/en/bbd/234.jpg?1529063454|https://scryfall.com/card/bbd/234/eager-construct?utm_source=api>`"
+msgid ":mtgtip:`Eager Construct<https://img.scryfall.com/cards/border_crop/front/9/a/9adf2525-e555-4174-b89a-ed1bef8711ef.jpg?1562926256|https://scryfall.com/card/bbd/234/eager-construct?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1223
@@ -2280,7 +2280,7 @@ msgid "When Eager Construct enters the battlefield, each player may scry 1. (To 
 msgstr ""
 
 #: ../../BBD.rst:1228
-msgid ":mtgtip:`Genesis Chamber<https://img.scryfall.com/cards/border_crop/en/bbd/235.jpg?1529063467|https://scryfall.com/card/bbd/235/genesis-chamber?utm_source=api>`"
+msgid ":mtgtip:`Genesis Chamber<https://img.scryfall.com/cards/border_crop/front/9/3/93bd7e73-63dc-45b2-aaa8-984be8b900ab.jpg?1562924816|https://scryfall.com/card/bbd/235/genesis-chamber?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1227
@@ -2288,15 +2288,15 @@ msgid "Whenever a nontoken creature enters the battlefield, if Genesis Chamber i
 msgstr ""
 
 #: ../../BBD.rst:1232
-msgid ":mtgtip:`Gold-Forged Sentinel<https://img.scryfall.com/cards/border_crop/en/bbd/236.jpg?1529063480|https://scryfall.com/card/bbd/236/gold-forged-sentinel?utm_source=api>`"
+msgid ":mtgtip:`Gold-Forged Sentinel<https://img.scryfall.com/cards/border_crop/front/c/a/ca1bcaee-52bf-4000-8ffa-ee5e04703de6.jpg?1562935586|https://scryfall.com/card/bbd/236/gold-forged-sentinel?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1234
-msgid ":mtgtip:`Hexplate Golem<https://img.scryfall.com/cards/border_crop/en/bbd/237.jpg?1529063499|https://scryfall.com/card/bbd/237/hexplate-golem?utm_source=api>`"
+msgid ":mtgtip:`Hexplate Golem<https://img.scryfall.com/cards/border_crop/front/9/8/98534255-d8cd-4f42-8b90-f5672fb879a2.jpg?1562925747|https://scryfall.com/card/bbd/237/hexplate-golem?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1242
-msgid ":mtgtip:`Juggernaut<https://img.scryfall.com/cards/border_crop/en/bbd/238.jpg?1529063510|https://scryfall.com/card/bbd/238/juggernaut?utm_source=api>`"
+msgid ":mtgtip:`Juggernaut<https://img.scryfall.com/cards/border_crop/front/e/e/ee7403f9-ee88-47dd-8d31-13976b895b34.jpg?1562942893|https://scryfall.com/card/bbd/238/juggernaut?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1239
@@ -2308,11 +2308,11 @@ msgid "Juggernaut can't be blocked by Walls."
 msgstr ""
 
 #: ../../BBD.rst:1246
-msgid ":mtgtip:`Millennial Gargoyle<https://img.scryfall.com/cards/border_crop/en/bbd/239.jpg?1529063522|https://scryfall.com/card/bbd/239/millennial-gargoyle?utm_source=api>`"
+msgid ":mtgtip:`Millennial Gargoyle<https://img.scryfall.com/cards/border_crop/front/0/6/068e7803-7c9f-43d7-b6dc-8e1390d902d0.jpg?1562896305|https://scryfall.com/card/bbd/239/millennial-gargoyle?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1250
-msgid ":mtgtip:`Mind's Eye<https://img.scryfall.com/cards/border_crop/en/bbd/240.jpg?1529063533|https://scryfall.com/card/bbd/240/minds-eye?utm_source=api>`"
+msgid ":mtgtip:`Mind's Eye<https://img.scryfall.com/cards/border_crop/front/5/a/5a0e1ef4-fdb1-42bd-8e46-ba84cf850939.jpg?1562913300|https://scryfall.com/card/bbd/240/minds-eye?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1249
@@ -2320,7 +2320,7 @@ msgid "Whenever an opponent draws a card, you may pay |mana_1|. If you do, draw 
 msgstr ""
 
 #: ../../BBD.rst:1258
-msgid ":mtgtip:`Mycosynth Lattice<https://img.scryfall.com/cards/border_crop/en/bbd/241.jpg?1529063545|https://scryfall.com/card/bbd/241/mycosynth-lattice?utm_source=api>`"
+msgid ":mtgtip:`Mycosynth Lattice<https://img.scryfall.com/cards/border_crop/front/9/4/94f89714-3b26-46a2-b9a8-3e664f391cd9.jpg?1562925043|https://scryfall.com/card/bbd/241/mycosynth-lattice?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1253
@@ -2336,7 +2336,7 @@ msgid "Players may spend mana as though it were mana of any color."
 msgstr ""
 
 #: ../../BBD.rst:1262
-msgid ":mtgtip:`Night Market Guard<https://img.scryfall.com/cards/border_crop/en/bbd/242.jpg?1529063558|https://scryfall.com/card/bbd/242/night-market-guard?utm_source=api>`"
+msgid ":mtgtip:`Night Market Guard<https://img.scryfall.com/cards/border_crop/front/2/0/2098bb0f-6ab5-407c-93f7-fee3b385926e.jpg?1562901472|https://scryfall.com/card/bbd/242/night-market-guard?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1261
@@ -2344,7 +2344,7 @@ msgid "Night Market Guard can block an additional creature each combat."
 msgstr ""
 
 #: ../../BBD.rst:1266
-msgid ":mtgtip:`Peace Strider<https://img.scryfall.com/cards/border_crop/en/bbd/243.jpg?1539609225|https://scryfall.com/card/bbd/243/peace-strider?utm_source=api>`"
+msgid ":mtgtip:`Peace Strider<https://img.scryfall.com/cards/border_crop/front/7/b/7bb1be52-0275-4938-8d3b-d9f06d77ce66.jpg?1562919873|https://scryfall.com/card/bbd/243/peace-strider?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1265
@@ -2352,7 +2352,7 @@ msgid "When Peace Strider enters the battlefield, you gain 3 life."
 msgstr ""
 
 #: ../../BBD.rst:1270
-msgid ":mtgtip:`Pierce Strider<https://img.scryfall.com/cards/border_crop/en/bbd/244.jpg?1539609239|https://scryfall.com/card/bbd/244/pierce-strider?utm_source=api>`"
+msgid ":mtgtip:`Pierce Strider<https://img.scryfall.com/cards/border_crop/front/1/d/1dd4c278-4215-4582-8725-bc4b0b664d13.jpg?1562900874|https://scryfall.com/card/bbd/244/pierce-strider?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1269
@@ -2360,7 +2360,7 @@ msgid "When Pierce Strider enters the battlefield, target opponent loses 3 life.
 msgstr ""
 
 #: ../../BBD.rst:1276
-msgid ":mtgtip:`Seer's Lantern<https://img.scryfall.com/cards/border_crop/en/bbd/245.jpg?1529063593|https://scryfall.com/card/bbd/245/seers-lantern?utm_source=api>`"
+msgid ":mtgtip:`Seer's Lantern<https://img.scryfall.com/cards/border_crop/front/3/4/348c4c68-c16d-4b65-821f-dc7e2c3eaec7.jpg?1562905614|https://scryfall.com/card/bbd/245/seers-lantern?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1273
@@ -2372,7 +2372,7 @@ msgid "|mana_2|, |tap|: Scry 1. (Look at the top card of your library. You may p
 msgstr ""
 
 #: ../../BBD.rst:1280
-msgid ":mtgtip:`Spectral Searchlight<https://img.scryfall.com/cards/border_crop/en/bbd/246.jpg?1529063603|https://scryfall.com/card/bbd/246/spectral-searchlight?utm_source=api>`"
+msgid ":mtgtip:`Spectral Searchlight<https://img.scryfall.com/cards/border_crop/front/1/7/17094ffd-a886-44cc-95c7-c6297aaf8767.jpg?1562899626|https://scryfall.com/card/bbd/246/spectral-searchlight?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1279
@@ -2380,11 +2380,11 @@ msgid "|tap|: Choose a player. That player adds one mana of any color they choos
 msgstr ""
 
 #: ../../BBD.rst:1282
-msgid ":mtgtip:`Stone Golem<https://img.scryfall.com/cards/border_crop/en/bbd/247.jpg?1539609262|https://scryfall.com/card/bbd/247/stone-golem?utm_source=api>`"
+msgid ":mtgtip:`Stone Golem<https://img.scryfall.com/cards/border_crop/front/a/5/a579b67a-a5ac-496e-be41-9eabe29d0e93.jpg?1562928430|https://scryfall.com/card/bbd/247/stone-golem?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1288
-msgid ":mtgtip:`Tyrant's Machine<https://img.scryfall.com/cards/border_crop/en/bbd/248.jpg?1529063623|https://scryfall.com/card/bbd/248/tyrants-machine?utm_source=api>`"
+msgid ":mtgtip:`Tyrant's Machine<https://img.scryfall.com/cards/border_crop/front/2/c/2c697b0b-edba-491a-b40e-f88572a6e955.jpg?1562904061|https://scryfall.com/card/bbd/248/tyrants-machine?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1287
@@ -2392,11 +2392,11 @@ msgid "|mana_4|, |tap|: Tap target creature."
 msgstr ""
 
 #: ../../BBD.rst:1292
-msgid ":mtgtip:`Yotian Soldier<https://img.scryfall.com/cards/border_crop/en/bbd/249.jpg?1529063633|https://scryfall.com/card/bbd/249/yotian-soldier?utm_source=api>`"
+msgid ":mtgtip:`Yotian Soldier<https://img.scryfall.com/cards/border_crop/front/9/e/9e71190b-c96c-4aea-9696-780c69eff395.jpg?1562926960|https://scryfall.com/card/bbd/249/yotian-soldier?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1296
-msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/bbd/250.jpg?1529063642|https://scryfall.com/card/bbd/250/plains?utm_source=api>`"
+msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/b/9/b9dbdef6-e141-45bc-9209-5c17a8ad135b.jpg?1562932415|https://scryfall.com/card/bbd/250/plains?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1295
@@ -2404,7 +2404,7 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
 #: ../../BBD.rst:1300
-msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/bbd/251.jpg?1529063653|https://scryfall.com/card/bbd/251/island?utm_source=api>`"
+msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/d/6/d660512c-8ebc-4d65-9590-700894cbb5d8.jpg?1562938017|https://scryfall.com/card/bbd/251/island?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1299
@@ -2412,7 +2412,7 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
 #: ../../BBD.rst:1304
-msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/bbd/252.jpg?1530721298|https://scryfall.com/card/bbd/252/swamp?utm_source=api>`"
+msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/2/9/296d546a-7481-4cb9-9170-59402592507b.jpg?1562903446|https://scryfall.com/card/bbd/252/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1303
@@ -2420,7 +2420,7 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
 #: ../../BBD.rst:1308
-msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/bbd/253.jpg?1530711616|https://scryfall.com/card/bbd/253/mountain?utm_source=api>`"
+msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/9/7/97a9360e-a02b-4dde-b14c-620ed0c54804.jpg?1562925610|https://scryfall.com/card/bbd/253/mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1307
@@ -2428,7 +2428,7 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
 #: ../../BBD.rst:1311
-msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/bbd/254.jpg?1529063680|https://scryfall.com/card/bbd/254/forest?utm_source=api>`"
+msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/5/5/55b9e2db-d37e-4a87-ae5a-88a8e45d7419.jpg?1562912472|https://scryfall.com/card/bbd/254/forest?utm_source=api>`"
 msgstr ""
 
 #: ../../BBD.rst:1311

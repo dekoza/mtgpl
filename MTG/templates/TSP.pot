@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2019, Dominik Kozaczko
+# Copyright (C) 2013-2020, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2019.9\n"
+"Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 09:05+0200\n"
+"POT-Creation-Date: 2020-01-12 21:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid ":mtgexp:`TSP` Time Spiral"
 msgstr ""
 
 #: ../../TSP.rst:10
-msgid ":mtgtip:`Amrou Scout<https://img.scryfall.com/cards/border_crop/en/tsp/1.jpg?1517813031|https://scryfall.com/card/tsp/1/amrou-scout?utm_source=api>`"
+msgid ":mtgtip:`Amrou Scout<https://img.scryfall.com/cards/border_crop/front/e/a/ea3e05e5-1340-4010-b39b-3571a5829840.jpg?1562944341|https://scryfall.com/card/tsp/1/amrou-scout?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:9
@@ -29,7 +29,7 @@ msgid "|mana_4|, |tap|: Search your library for a Rebel permanent card with conv
 msgstr ""
 
 #: ../../TSP.rst:14
-msgid ":mtgtip:`Amrou Seekers<https://img.scryfall.com/cards/border_crop/en/tsp/2.jpg?1517813031|https://scryfall.com/card/tsp/2/amrou-seekers?utm_source=api>`"
+msgid ":mtgtip:`Amrou Seekers<https://img.scryfall.com/cards/border_crop/front/8/b/8bc2a06d-54f7-436f-b32a-4a8daa199fb8.jpg?1562924565|https://scryfall.com/card/tsp/2/amrou-seekers?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:13
@@ -37,7 +37,7 @@ msgid "Amrou Seekers can't be blocked except by artifact creatures and/or white 
 msgstr ""
 
 #: ../../TSP.rst:20
-msgid ":mtgtip:`Angel's Grace<https://img.scryfall.com/cards/border_crop/en/tsp/3.jpg?1517813031|https://scryfall.com/card/tsp/3/angels-grace?utm_source=api>`"
+msgid ":mtgtip:`Angel's Grace<https://img.scryfall.com/cards/border_crop/front/5/8/580cb5be-fa59-4eb9-8808-7d2943fb6413.jpg?1562913383|https://scryfall.com/card/tsp/3/angels-grace?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:17
@@ -58,7 +58,7 @@ msgid "You can't lose the game this turn and your opponents can't win the game t
 msgstr ""
 
 #: ../../TSP.rst:24
-msgid ":mtgtip:`Benalish Cavalry<https://img.scryfall.com/cards/border_crop/en/tsp/4.jpg?1517813031|https://scryfall.com/card/tsp/4/benalish-cavalry?utm_source=api>`"
+msgid ":mtgtip:`Benalish Cavalry<https://img.scryfall.com/cards/border_crop/front/1/0/1013ca9c-1d29-42f6-8665-92f98d076ff8.jpg?1562898365|https://scryfall.com/card/tsp/4/benalish-cavalry?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:23
@@ -73,7 +73,7 @@ msgid "Flanking (Whenever a creature without flanking blocks this creature, the 
 msgstr ""
 
 #: ../../TSP.rst:30
-msgid ":mtgtip:`Castle Raptors<https://img.scryfall.com/cards/border_crop/en/tsp/5.jpg?1517813031|https://scryfall.com/card/tsp/5/castle-raptors?utm_source=api>`"
+msgid ":mtgtip:`Castle Raptors<https://img.scryfall.com/cards/border_crop/front/d/4/d4a3ed1e-f07e-486d-8a44-b2fbfaffa547.jpg?1562939958|https://scryfall.com/card/tsp/5/castle-raptors?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:27
@@ -109,7 +109,7 @@ msgid "As long as Castle Raptors is untapped, it gets +0/+2."
 msgstr ""
 
 #: ../../TSP.rst:36
-msgid ":mtgtip:`Cavalry Master<https://img.scryfall.com/cards/border_crop/en/tsp/6.jpg?1517813031|https://scryfall.com/card/tsp/6/cavalry-master?utm_source=api>`"
+msgid ":mtgtip:`Cavalry Master<https://img.scryfall.com/cards/border_crop/front/f/7/f7b19194-87bf-432c-8d34-91dd9520cbd2.jpg?1562947328|https://scryfall.com/card/tsp/6/cavalry-master?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:35
@@ -117,7 +117,7 @@ msgid "Other creatures you control with flanking have flanking. (Each instance o
 msgstr ""
 
 #: ../../TSP.rst:46
-msgid ":mtgtip:`Celestial Crusader<https://img.scryfall.com/cards/border_crop/en/tsp/7.jpg?1517813031|https://scryfall.com/card/tsp/7/celestial-crusader?utm_source=api>`"
+msgid ":mtgtip:`Celestial Crusader<https://img.scryfall.com/cards/border_crop/front/7/f/7f5624d6-2c27-4c7a-8001-73edb2512ffb.jpg?1562921858|https://scryfall.com/card/tsp/7/celestial-crusader?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:39
@@ -146,7 +146,7 @@ msgid "Other white creatures get +1/+1."
 msgstr ""
 
 #: ../../TSP.rst:50
-msgid ":mtgtip:`Children of Korlis<https://img.scryfall.com/cards/border_crop/en/tsp/8.jpg?1517813031|https://scryfall.com/card/tsp/8/children-of-korlis?utm_source=api>`"
+msgid ":mtgtip:`Children of Korlis<https://img.scryfall.com/cards/border_crop/front/2/2/221a5895-bc21-4f10-b5fc-a4980fde843e.jpg?1562902185|https://scryfall.com/card/tsp/8/children-of-korlis?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:49
@@ -154,7 +154,7 @@ msgid "Sacrifice Children of Korlis: You gain life equal to the life you've lost
 msgstr ""
 
 #: ../../TSP.rst:54
-msgid ":mtgtip:`Chronosavant<https://img.scryfall.com/cards/border_crop/en/tsp/9.jpg?1517813031|https://scryfall.com/card/tsp/9/chronosavant?utm_source=api>`"
+msgid ":mtgtip:`Chronosavant<https://img.scryfall.com/cards/border_crop/front/d/6/d6264d4f-adf1-4d7b-b17a-fd7122e9b2cd.jpg?1562940310|https://scryfall.com/card/tsp/9/chronosavant?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:53
@@ -162,7 +162,7 @@ msgid "|mana_1|\\ |mana_w|: Return Chronosavant from your graveyard to the battl
 msgstr ""
 
 #: ../../TSP.rst:62
-msgid ":mtgtip:`Cloudchaser Kestrel<https://img.scryfall.com/cards/border_crop/en/tsp/10.jpg?1517813031|https://scryfall.com/card/tsp/10/cloudchaser-kestrel?utm_source=api>`"
+msgid ":mtgtip:`Cloudchaser Kestrel<https://img.scryfall.com/cards/border_crop/front/8/7/87003295-fd7c-489a-b724-b76eef187b57.jpg?1562923478|https://scryfall.com/card/tsp/10/cloudchaser-kestrel?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:59
@@ -174,7 +174,7 @@ msgid "|mana_w|: Target permanent becomes white until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:68
-msgid ":mtgtip:`D'Avenant Healer<https://img.scryfall.com/cards/border_crop/en/tsp/11.jpg?1517813031|https://scryfall.com/card/tsp/11/davenant-healer?utm_source=api>`"
+msgid ":mtgtip:`D'Avenant Healer<https://img.scryfall.com/cards/border_crop/front/d/e/deac6492-ce39-4137-8418-6169d3b1b632.jpg?1562941960|https://scryfall.com/card/tsp/11/davenant-healer?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:65
@@ -186,7 +186,7 @@ msgid "|tap|: Prevent the next 1 damage that would be dealt to any target this t
 msgstr ""
 
 #: ../../TSP.rst:76
-msgid ":mtgtip:`Detainment Spell<https://img.scryfall.com/cards/border_crop/en/tsp/12.jpg?1517813031|https://scryfall.com/card/tsp/12/detainment-spell?utm_source=api>`"
+msgid ":mtgtip:`Detainment Spell<https://img.scryfall.com/cards/border_crop/front/c/4/c467446b-0168-4c7d-9ab6-57ad8b664877.jpg?1562936528|https://scryfall.com/card/tsp/12/detainment-spell?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:71
@@ -215,7 +215,7 @@ msgid "|mana_1|\\ |mana_w|: Attach Detainment Spell to target creature."
 msgstr ""
 
 #: ../../TSP.rst:82
-msgid ":mtgtip:`Divine Congregation<https://img.scryfall.com/cards/border_crop/en/tsp/13.jpg?1517813031|https://scryfall.com/card/tsp/13/divine-congregation?utm_source=api>`"
+msgid ":mtgtip:`Divine Congregation<https://img.scryfall.com/cards/border_crop/front/9/f/9f781071-e9bc-49ee-ac94-23490134b909.jpg?1562928694|https://scryfall.com/card/tsp/13/divine-congregation?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:79
@@ -227,7 +227,7 @@ msgid "Suspend 5—|mana_1|\\ |mana_w| (Rather than cast this card from your han
 msgstr ""
 
 #: ../../TSP.rst:88
-msgid ":mtgtip:`Duskrider Peregrine<https://img.scryfall.com/cards/border_crop/en/tsp/14.jpg?1517813031|https://scryfall.com/card/tsp/14/duskrider-peregrine?utm_source=api>`"
+msgid ":mtgtip:`Duskrider Peregrine<https://img.scryfall.com/cards/border_crop/front/b/f/bfad8c3e-e459-477c-b602-34df2dda1efe.jpg?1562935537|https://scryfall.com/card/tsp/14/duskrider-peregrine?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:85
@@ -239,7 +239,7 @@ msgid "Suspend 3—|mana_1|\\ |mana_w| (Rather than cast this card from your han
 msgstr ""
 
 #: ../../TSP.rst:92
-msgid ":mtgtip:`Errant Doomsayers<https://img.scryfall.com/cards/border_crop/en/tsp/15.jpg?1517813031|https://scryfall.com/card/tsp/15/errant-doomsayers?utm_source=api>`"
+msgid ":mtgtip:`Errant Doomsayers<https://img.scryfall.com/cards/border_crop/front/6/1/61a2daf3-4d66-43f8-beda-285d85eefb57.jpg?1562915362|https://scryfall.com/card/tsp/15/errant-doomsayers?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:91
@@ -247,7 +247,7 @@ msgid "|tap|: Tap target creature with toughness 2 or less."
 msgstr ""
 
 #: ../../TSP.rst:98
-msgid ":mtgtip:`Evangelize<https://img.scryfall.com/cards/border_crop/en/tsp/16.jpg?1517813031|https://scryfall.com/card/tsp/16/evangelize?utm_source=api>`"
+msgid ":mtgtip:`Evangelize<https://img.scryfall.com/cards/border_crop/front/0/f/0f58e1aa-587c-4f89-9552-1128c8c2da1a.jpg?1562898171|https://scryfall.com/card/tsp/16/evangelize?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:95
@@ -259,7 +259,7 @@ msgid "Gain control of target creature of an opponent's choice they control."
 msgstr ""
 
 #: ../../TSP.rst:104
-msgid ":mtgtip:`Flickering Spirit<https://img.scryfall.com/cards/border_crop/en/tsp/17.jpg?1517813031|https://scryfall.com/card/tsp/17/flickering-spirit?utm_source=api>`"
+msgid ":mtgtip:`Flickering Spirit<https://img.scryfall.com/cards/border_crop/front/6/4/64ef9188-737e-4cc6-b3a5-95aafddcf665.jpg?1562916115|https://scryfall.com/card/tsp/17/flickering-spirit?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:103
@@ -267,7 +267,7 @@ msgid "|mana_3|\\ |mana_w|: Exile Flickering Spirit, then return it to the battl
 msgstr ""
 
 #: ../../TSP.rst:112
-msgid ":mtgtip:`Foriysian Interceptor<https://img.scryfall.com/cards/border_crop/en/tsp/18.jpg?1517813031|https://scryfall.com/card/tsp/18/foriysian-interceptor?utm_source=api>`"
+msgid ":mtgtip:`Foriysian Interceptor<https://img.scryfall.com/cards/border_crop/front/8/3/833a3622-9f24-47a3-816f-1732c0e077d0.jpg?1562922673|https://scryfall.com/card/tsp/18/foriysian-interceptor?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:109
@@ -281,7 +281,7 @@ msgid "Foriysian Interceptor can block an additional creature each combat."
 msgstr ""
 
 #: ../../TSP.rst:120
-msgid ":mtgtip:`Fortify<https://img.scryfall.com/cards/border_crop/en/tsp/19.jpg?1517813031|https://scryfall.com/card/tsp/19/fortify?utm_source=api>`"
+msgid ":mtgtip:`Fortify<https://img.scryfall.com/cards/border_crop/front/f/d/fd063dc7-a35c-44c9-9f8d-b7bb2dc95bec.jpg?1562948609|https://scryfall.com/card/tsp/19/fortify?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:115
@@ -297,7 +297,7 @@ msgid "Creatures you control get +0/+2 until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:128
-msgid ":mtgtip:`Gaze of Justice<https://img.scryfall.com/cards/border_crop/en/tsp/20.jpg?1517813031|https://scryfall.com/card/tsp/20/gaze-of-justice?utm_source=api>`"
+msgid ":mtgtip:`Gaze of Justice<https://img.scryfall.com/cards/border_crop/front/2/4/24d565ec-541d-429e-ab45-58db16c2f41d.jpg?1562902767|https://scryfall.com/card/tsp/20/gaze-of-justice?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:123
@@ -313,7 +313,7 @@ msgid "Flashback |mana_5|\\ |mana_w| (You may cast this card from your graveyard
 msgstr ""
 
 #: ../../TSP.rst:136
-msgid ":mtgtip:`Griffin Guide<https://img.scryfall.com/cards/border_crop/en/tsp/21.jpg?1517813031|https://scryfall.com/card/tsp/21/griffin-guide?utm_source=api>`"
+msgid ":mtgtip:`Griffin Guide<https://img.scryfall.com/cards/border_crop/front/e/1/e19a15d9-5899-4b84-9c00-345b19df53ae.jpg?1562942578|https://scryfall.com/card/tsp/21/griffin-guide?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:133
@@ -325,7 +325,7 @@ msgid "When enchanted creature dies, create a 2/2 white Griffin creature token w
 msgstr ""
 
 #: ../../TSP.rst:144
-msgid ":mtgtip:`Gustcloak Cavalier<https://img.scryfall.com/cards/border_crop/en/tsp/22.jpg?1517813031|https://scryfall.com/card/tsp/22/gustcloak-cavalier?utm_source=api>`"
+msgid ":mtgtip:`Gustcloak Cavalier<https://img.scryfall.com/cards/border_crop/front/c/3/c36a5462-3a21-4d64-af92-b541b425cdf5.jpg?1562936301|https://scryfall.com/card/tsp/22/gustcloak-cavalier?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:141
@@ -337,7 +337,7 @@ msgid "Whenever Gustcloak Cavalier becomes blocked, you may untap Gustcloak Cava
 msgstr ""
 
 #: ../../TSP.rst:148
-msgid ":mtgtip:`Icatian Crier<https://img.scryfall.com/cards/border_crop/en/tsp/23.jpg?1517813031|https://scryfall.com/card/tsp/23/icatian-crier?utm_source=api>`"
+msgid ":mtgtip:`Icatian Crier<https://img.scryfall.com/cards/border_crop/front/5/2/523ab784-c77e-4b78-99fc-b5d7ed985d76.jpg?1562912153|https://scryfall.com/card/tsp/23/icatian-crier?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:147
@@ -345,7 +345,7 @@ msgid "|mana_1|\\ |mana_w|, |tap|, Discard a card: Create two 1/1 white Citizen 
 msgstr ""
 
 #: ../../TSP.rst:154
-msgid ":mtgtip:`Ivory Giant<https://img.scryfall.com/cards/border_crop/en/tsp/24.jpg?1517813031|https://scryfall.com/card/tsp/24/ivory-giant?utm_source=api>`"
+msgid ":mtgtip:`Ivory Giant<https://img.scryfall.com/cards/border_crop/front/7/2/72eb30d9-a826-4f29-ae2a-6873997674a7.jpg?1562919129|https://scryfall.com/card/tsp/24/ivory-giant?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:151
@@ -357,7 +357,7 @@ msgid "Suspend 5—|mana_w| (Rather than cast this card from your hand, you may 
 msgstr ""
 
 #: ../../TSP.rst:160
-msgid ":mtgtip:`Jedit's Dragoons<https://img.scryfall.com/cards/border_crop/en/tsp/25.jpg?1517813031|https://scryfall.com/card/tsp/25/jedits-dragoons?utm_source=api>`"
+msgid ":mtgtip:`Jedit's Dragoons<https://img.scryfall.com/cards/border_crop/front/e/2/e29cc9e5-29b7-4e3c-a0cd-46265b0f74ac.jpg?1562942816|https://scryfall.com/card/tsp/25/jedits-dragoons?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:157
@@ -370,7 +370,7 @@ msgid "When Jedit's Dragoons enters the battlefield, you gain 4 life."
 msgstr ""
 
 #: ../../TSP.rst:168
-msgid ":mtgtip:`Knight of the Holy Nimbus<https://img.scryfall.com/cards/border_crop/en/tsp/26.jpg?1517813031|https://scryfall.com/card/tsp/26/knight-of-the-holy-nimbus?utm_source=api>`"
+msgid ":mtgtip:`Knight of the Holy Nimbus<https://img.scryfall.com/cards/border_crop/front/8/f/8fdeb716-4632-4895-b771-0ebd59c868d5.jpg?1562925305|https://scryfall.com/card/tsp/26/knight-of-the-holy-nimbus?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:165
@@ -382,7 +382,7 @@ msgid "|mana_2|: Knight of the Holy Nimbus can't be regenerated this turn. Only 
 msgstr ""
 
 #: ../../TSP.rst:174
-msgid ":mtgtip:`Magus of the Disk<https://img.scryfall.com/cards/border_crop/en/tsp/27.jpg?1517813031|https://scryfall.com/card/tsp/27/magus-of-the-disk?utm_source=api>`"
+msgid ":mtgtip:`Magus of the Disk<https://img.scryfall.com/cards/border_crop/front/f/e/febbea40-74c7-431f-a88f-c15d4fdda89d.jpg?1562948946|https://scryfall.com/card/tsp/27/magus-of-the-disk?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:171
@@ -394,7 +394,7 @@ msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
 msgstr ""
 
 #: ../../TSP.rst:178
-msgid ":mtgtip:`Mangara of Corondor<https://img.scryfall.com/cards/border_crop/en/tsp/28.jpg?1517813031|https://scryfall.com/card/tsp/28/mangara-of-corondor?utm_source=api>`"
+msgid ":mtgtip:`Mangara of Corondor<https://img.scryfall.com/cards/border_crop/front/a/7/a785b66c-c5a4-4520-a9fa-aa199f7f56e5.jpg?1562930310|https://scryfall.com/card/tsp/28/mangara-of-corondor?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:177
@@ -402,7 +402,7 @@ msgid "|tap|: Exile Mangara of Corondor and target permanent."
 msgstr ""
 
 #: ../../TSP.rst:184
-msgid ":mtgtip:`Momentary Blink<https://img.scryfall.com/cards/border_crop/en/tsp/29.jpg?1517813031|https://scryfall.com/card/tsp/29/momentary-blink?utm_source=api>`"
+msgid ":mtgtip:`Momentary Blink<https://img.scryfall.com/cards/border_crop/front/0/3/032e072a-0630-472b-9106-5df554dff785.jpg?1562895626|https://scryfall.com/card/tsp/29/momentary-blink?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:181
@@ -414,7 +414,7 @@ msgid "Flashback |mana_3|\\ |mana_u| (You may cast this card from your graveyard
 msgstr ""
 
 #: ../../TSP.rst:188
-msgid ":mtgtip:`Opal Guardian<https://img.scryfall.com/cards/border_crop/en/tsp/30.jpg?1517813031|https://scryfall.com/card/tsp/30/opal-guardian?utm_source=api>`"
+msgid ":mtgtip:`Opal Guardian<https://img.scryfall.com/cards/border_crop/front/9/0/905ad286-e70b-46cd-87fd-eec13ed2d43b.jpg?1562925408|https://scryfall.com/card/tsp/30/opal-guardian?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:187
@@ -422,7 +422,7 @@ msgid "When an opponent casts a creature spell, if Opal Guardian is an enchantme
 msgstr ""
 
 #: ../../TSP.rst:194
-msgid ":mtgtip:`Outrider en-Kor<https://img.scryfall.com/cards/border_crop/en/tsp/31.jpg?1517813031|https://scryfall.com/card/tsp/31/outrider-en-kor?utm_source=api>`"
+msgid ":mtgtip:`Outrider en-Kor<https://img.scryfall.com/cards/border_crop/front/e/3/e3e0d923-d94f-4f12-a025-86587b18878f.jpg?1562943139|https://scryfall.com/card/tsp/31/outrider-en-kor?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:193
@@ -430,7 +430,7 @@ msgid "|mana_0|: The next 1 damage that would be dealt to Outrider en-Kor this t
 msgstr ""
 
 #: ../../TSP.rst:202
-msgid ":mtgtip:`Pentarch Paladin<https://img.scryfall.com/cards/border_crop/en/tsp/32.jpg?1517813031|https://scryfall.com/card/tsp/32/pentarch-paladin?utm_source=api>`"
+msgid ":mtgtip:`Pentarch Paladin<https://img.scryfall.com/cards/border_crop/front/c/e/ced01039-e19f-466b-bbc6-9bcb8d3ae845.jpg?1562938758|https://scryfall.com/card/tsp/32/pentarch-paladin?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:199
@@ -442,7 +442,7 @@ msgid "|mana_w|\\ |mana_w|, |tap|: Destroy target permanent of the chosen color.
 msgstr ""
 
 #: ../../TSP.rst:212
-msgid ":mtgtip:`Pentarch Ward<https://img.scryfall.com/cards/border_crop/en/tsp/33.jpg?1517813031|https://scryfall.com/card/tsp/33/pentarch-ward?utm_source=api>`"
+msgid ":mtgtip:`Pentarch Ward<https://img.scryfall.com/cards/border_crop/front/1/0/10c70894-dd4a-4cbb-b3c1-57135cc151a9.jpg?1562898497|https://scryfall.com/card/tsp/33/pentarch-ward?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:207
@@ -458,7 +458,7 @@ msgid "Enchanted creature has protection from the chosen color. This effect does
 msgstr ""
 
 #: ../../TSP.rst:220
-msgid ":mtgtip:`Plated Pegasus<https://img.scryfall.com/cards/border_crop/en/tsp/34.jpg?1517813031|https://scryfall.com/card/tsp/34/plated-pegasus?utm_source=api>`"
+msgid ":mtgtip:`Plated Pegasus<https://img.scryfall.com/cards/border_crop/front/8/7/873fddf3-40e7-41ee-9519-98d0a5268fd1.jpg?1562923541|https://scryfall.com/card/tsp/34/plated-pegasus?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:219
@@ -466,7 +466,7 @@ msgid "If a spell would deal damage to a permanent or player, prevent 1 damage t
 msgstr ""
 
 #: ../../TSP.rst:224
-msgid ":mtgtip:`Pull from Eternity<https://img.scryfall.com/cards/border_crop/en/tsp/35.jpg?1541808843|https://scryfall.com/card/tsp/35/pull-from-eternity?utm_source=api>`"
+msgid ":mtgtip:`Pull from Eternity<https://img.scryfall.com/cards/border_crop/front/3/d/3d218091-d218-41ad-b666-c8ab3de7160a.jpg?1562907702|https://scryfall.com/card/tsp/35/pull-from-eternity?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:223
@@ -474,7 +474,7 @@ msgid "Put target face-up exiled card into its owner's graveyard."
 msgstr ""
 
 #: ../../TSP.rst:230
-msgid ":mtgtip:`Pulmonic Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/36.jpg?1517813031|https://scryfall.com/card/tsp/36/pulmonic-sliver?utm_source=api>`"
+msgid ":mtgtip:`Pulmonic Sliver<https://img.scryfall.com/cards/border_crop/front/3/1/31c19d42-aaaf-417c-a303-74262f82e365.jpg?1562905404|https://scryfall.com/card/tsp/36/pulmonic-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:227
@@ -486,7 +486,7 @@ msgid "All Slivers have \"If this permanent would be put into a graveyard, you m
 msgstr ""
 
 #: ../../TSP.rst:234
-msgid ":mtgtip:`Quilled Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/37.jpg?1517813031|https://scryfall.com/card/tsp/37/quilled-sliver?utm_source=api>`"
+msgid ":mtgtip:`Quilled Sliver<https://img.scryfall.com/cards/border_crop/front/7/2/72486240-eabb-4b37-99cc-ab13413683fa.jpg?1562918991|https://scryfall.com/card/tsp/37/quilled-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:233
@@ -494,7 +494,7 @@ msgid "All Slivers have \"|tap|: This permanent deals 1 damage to target attacki
 msgstr ""
 
 #: ../../TSP.rst:240
-msgid ":mtgtip:`Restore Balance<https://img.scryfall.com/cards/border_crop/en/tsp/38.jpg?1517813031|https://scryfall.com/card/tsp/38/restore-balance?utm_source=api>`"
+msgid ":mtgtip:`Restore Balance<https://img.scryfall.com/cards/border_crop/front/c/3/c3be9788-2360-4ff0-b7f6-0bfbefa03ce0.jpg?1562936374|https://scryfall.com/card/tsp/38/restore-balance?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:237
@@ -506,7 +506,7 @@ msgid "Each player chooses a number of lands they control equal to the number of
 msgstr ""
 
 #: ../../TSP.rst:244
-msgid ":mtgtip:`Return to Dust<https://img.scryfall.com/cards/border_crop/en/tsp/39.jpg?1517813031|https://scryfall.com/card/tsp/39/return-to-dust?utm_source=api>`"
+msgid ":mtgtip:`Return to Dust<https://img.scryfall.com/cards/border_crop/front/4/8/48185c8f-ac41-46e2-85b1-760abac914ac.jpg?1562909991|https://scryfall.com/card/tsp/39/return-to-dust?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:243
@@ -514,7 +514,7 @@ msgid "Exile target artifact or enchantment. If you cast this spell during your 
 msgstr ""
 
 #: ../../TSP.rst:252
-msgid ":mtgtip:`Serra Avenger<https://img.scryfall.com/cards/border_crop/en/tsp/40.jpg?1517813031|https://scryfall.com/card/tsp/40/serra-avenger?utm_source=api>`"
+msgid ":mtgtip:`Serra Avenger<https://img.scryfall.com/cards/border_crop/front/9/e/9e9d7c1c-3bfd-4705-9bc2-5ca3f84cc32a.jpg?1562928475|https://scryfall.com/card/tsp/40/serra-avenger?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:247
@@ -526,7 +526,7 @@ msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
 msgstr ""
 
 #: ../../TSP.rst:256
-msgid ":mtgtip:`Sidewinder Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/41.jpg?1517813031|https://scryfall.com/card/tsp/41/sidewinder-sliver?utm_source=api>`"
+msgid ":mtgtip:`Sidewinder Sliver<https://img.scryfall.com/cards/border_crop/front/b/0/b073b8f2-b42d-40f2-b5fb-e78ffb1733ea.jpg?1562932235|https://scryfall.com/card/tsp/41/sidewinder-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:255
@@ -534,7 +534,7 @@ msgid "All Sliver creatures have flanking. (Whenever a creature without flanking
 msgstr ""
 
 #: ../../TSP.rst:264
-msgid ":mtgtip:`Spirit Loop<https://img.scryfall.com/cards/border_crop/en/tsp/42.jpg?1517813031|https://scryfall.com/card/tsp/42/spirit-loop?utm_source=api>`"
+msgid ":mtgtip:`Spirit Loop<https://img.scryfall.com/cards/border_crop/front/3/1/31ffb2e6-b1bc-41c5-9e52-294c060b1d45.jpg?1562905454|https://scryfall.com/card/tsp/42/spirit-loop?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:259
@@ -550,7 +550,7 @@ msgid "When Spirit Loop is put into a graveyard from the battlefield, return Spi
 msgstr ""
 
 #: ../../TSP.rst:274
-msgid ":mtgtip:`Temporal Isolation<https://img.scryfall.com/cards/border_crop/en/tsp/43.jpg?1517813031|https://scryfall.com/card/tsp/43/temporal-isolation?utm_source=api>`"
+msgid ":mtgtip:`Temporal Isolation<https://img.scryfall.com/cards/border_crop/front/e/b/eb406292-1879-4aa9-a369-082822dae1d7.jpg?1562944629|https://scryfall.com/card/tsp/43/temporal-isolation?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:271
@@ -562,7 +562,7 @@ msgid "Prevent all damage that would be dealt by enchanted creature."
 msgstr ""
 
 #: ../../TSP.rst:280
-msgid ":mtgtip:`Tivadar of Thorn<https://img.scryfall.com/cards/border_crop/en/tsp/44.jpg?1517813031|https://scryfall.com/card/tsp/44/tivadar-of-thorn?utm_source=api>`"
+msgid ":mtgtip:`Tivadar of Thorn<https://img.scryfall.com/cards/border_crop/front/f/3/f34d3a74-496e-462d-afa6-370dc2b8347d.jpg?1562946389|https://scryfall.com/card/tsp/44/tivadar-of-thorn?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:277
@@ -574,7 +574,7 @@ msgid "When Tivadar of Thorn enters the battlefield, destroy target Goblin."
 msgstr ""
 
 #: ../../TSP.rst:284
-msgid ":mtgtip:`Watcher Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/45.jpg?1517813031|https://scryfall.com/card/tsp/45/watcher-sliver?utm_source=api>`"
+msgid ":mtgtip:`Watcher Sliver<https://img.scryfall.com/cards/border_crop/front/7/d/7d72a950-82ed-4e7b-9e18-b8231a2ebea7.jpg?1562921432|https://scryfall.com/card/tsp/45/watcher-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:283
@@ -582,7 +582,7 @@ msgid "All Sliver creatures get +0/+2."
 msgstr ""
 
 #: ../../TSP.rst:290
-msgid ":mtgtip:`Weathered Bodyguards<https://img.scryfall.com/cards/border_crop/en/tsp/46.jpg?1517813031|https://scryfall.com/card/tsp/46/weathered-bodyguards?utm_source=api>`"
+msgid ":mtgtip:`Weathered Bodyguards<https://img.scryfall.com/cards/border_crop/front/9/9/991a18e5-a183-4b84-b157-5a3609b3f910.jpg?1562927368|https://scryfall.com/card/tsp/46/weathered-bodyguards?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:287
@@ -594,7 +594,7 @@ msgid "Morph |mana_3|\\ |mana_w| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../TSP.rst:296
-msgid ":mtgtip:`Zealot il-Vec<https://img.scryfall.com/cards/border_crop/en/tsp/47.jpg?1517813031|https://scryfall.com/card/tsp/47/zealot-il-vec?utm_source=api>`"
+msgid ":mtgtip:`Zealot il-Vec<https://img.scryfall.com/cards/border_crop/front/3/a/3a2a2740-68cb-48c9-9716-081d369075e0.jpg?1562907132|https://scryfall.com/card/tsp/47/zealot-il-vec?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:293
@@ -611,7 +611,7 @@ msgid "Whenever Zealot il-Vec attacks and isn't blocked, you may have it deal 1 
 msgstr ""
 
 #: ../../TSP.rst:302
-msgid ":mtgtip:`Ancestral Vision<https://img.scryfall.com/cards/border_crop/en/tsp/48.jpg?1517813031|https://scryfall.com/card/tsp/48/ancestral-vision?utm_source=api>`"
+msgid ":mtgtip:`Ancestral Vision<https://img.scryfall.com/cards/border_crop/front/b/c/bccedc4d-38c7-4bf3-9ca7-4febd6c49d3d.jpg?1562934881|https://scryfall.com/card/tsp/48/ancestral-vision?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:299
@@ -623,7 +623,7 @@ msgid "Target player draws three cards."
 msgstr ""
 
 #: ../../TSP.rst:308
-msgid ":mtgtip:`Bewilder<https://img.scryfall.com/cards/border_crop/en/tsp/49.jpg?1517813031|https://scryfall.com/card/tsp/49/bewilder?utm_source=api>`"
+msgid ":mtgtip:`Bewilder<https://img.scryfall.com/cards/border_crop/front/7/b/7be63098-6446-4e64-85b0-9af914f5e075.jpg?1562921128|https://scryfall.com/card/tsp/49/bewilder?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:305
@@ -637,7 +637,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../TSP.rst:314
-msgid ":mtgtip:`Brine Elemental<https://img.scryfall.com/cards/border_crop/en/tsp/50.jpg?1517813031|https://scryfall.com/card/tsp/50/brine-elemental?utm_source=api>`"
+msgid ":mtgtip:`Brine Elemental<https://img.scryfall.com/cards/border_crop/front/8/d/8dab2c73-501b-46c9-bc76-134b50d35bb8.jpg?1562924889|https://scryfall.com/card/tsp/50/brine-elemental?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:311
@@ -649,7 +649,7 @@ msgid "When Brine Elemental is turned face up, each opponent skips their next un
 msgstr ""
 
 #: ../../TSP.rst:318
-msgid ":mtgtip:`Cancel<https://img.scryfall.com/cards/border_crop/en/tsp/51.jpg?1517813031|https://scryfall.com/card/tsp/51/cancel?utm_source=api>`"
+msgid ":mtgtip:`Cancel<https://img.scryfall.com/cards/border_crop/front/b/4/b4e175f7-f649-451b-9ee5-ad1140b2e8a7.jpg?1562933181|https://scryfall.com/card/tsp/51/cancel?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:317
@@ -657,7 +657,7 @@ msgid "Counter target spell."
 msgstr ""
 
 #: ../../TSP.rst:322
-msgid ":mtgtip:`Careful Consideration<https://img.scryfall.com/cards/border_crop/en/tsp/52.jpg?1517813031|https://scryfall.com/card/tsp/52/careful-consideration?utm_source=api>`"
+msgid ":mtgtip:`Careful Consideration<https://img.scryfall.com/cards/border_crop/front/b/c/bcf71574-5b1e-4483-9a8e-c3212148ce9c.jpg?1562934913|https://scryfall.com/card/tsp/52/careful-consideration?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:321
@@ -665,7 +665,7 @@ msgid "Target player draws four cards, then discards three cards. If you cast th
 msgstr ""
 
 #: ../../TSP.rst:328
-msgid ":mtgtip:`Clockspinning<https://img.scryfall.com/cards/border_crop/en/tsp/53.jpg?1517813031|https://scryfall.com/card/tsp/53/clockspinning?utm_source=api>`"
+msgid ":mtgtip:`Clockspinning<https://img.scryfall.com/cards/border_crop/front/1/3/1323d548-e2fe-47c5-8df3-f181aed537c5.jpg?1562899044|https://scryfall.com/card/tsp/53/clockspinning?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:325
@@ -679,7 +679,7 @@ msgid "Choose a counter on target permanent or suspended card. Remove that count
 msgstr ""
 
 #: ../../TSP.rst:334
-msgid ":mtgtip:`Coral Trickster<https://img.scryfall.com/cards/border_crop/en/tsp/54.jpg?1517813031|https://scryfall.com/card/tsp/54/coral-trickster?utm_source=api>`"
+msgid ":mtgtip:`Coral Trickster<https://img.scryfall.com/cards/border_crop/front/f/f/ffcdcfa1-f499-4d95-9d79-3b3996cd75ed.jpg?1562949160|https://scryfall.com/card/tsp/54/coral-trickster?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:331
@@ -691,7 +691,7 @@ msgid "When Coral Trickster is turned face up, you may tap or untap target perma
 msgstr ""
 
 #: ../../TSP.rst:342
-msgid ":mtgtip:`Crookclaw Transmuter<https://img.scryfall.com/cards/border_crop/en/tsp/55.jpg?1517813031|https://scryfall.com/card/tsp/55/crookclaw-transmuter?utm_source=api>`"
+msgid ":mtgtip:`Crookclaw Transmuter<https://img.scryfall.com/cards/border_crop/front/d/2/d2266726-1832-4b7b-92e1-9bb0c43b7d5d.jpg?1562939479|https://scryfall.com/card/tsp/55/crookclaw-transmuter?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:341
@@ -699,7 +699,7 @@ msgid "When Crookclaw Transmuter enters the battlefield, switch target creature'
 msgstr ""
 
 #: ../../TSP.rst:350
-msgid ":mtgtip:`Deep-Sea Kraken<https://img.scryfall.com/cards/border_crop/en/tsp/56.jpg?1517813031|https://scryfall.com/card/tsp/56/deep-sea-kraken?utm_source=api>`"
+msgid ":mtgtip:`Deep-Sea Kraken<https://img.scryfall.com/cards/border_crop/front/8/e/8e050532-e245-4eea-90a5-03e3e410dcbe.jpg?1562924961|https://scryfall.com/card/tsp/56/deep-sea-kraken?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:345
@@ -715,7 +715,7 @@ msgid "Whenever an opponent casts a spell, if Deep-Sea Kraken is suspended, remo
 msgstr ""
 
 #: ../../TSP.rst:358
-msgid ":mtgtip:`Draining Whelk<https://img.scryfall.com/cards/border_crop/en/tsp/57.jpg?1517813031|https://scryfall.com/card/tsp/57/draining-whelk?utm_source=api>`"
+msgid ":mtgtip:`Draining Whelk<https://img.scryfall.com/cards/border_crop/front/c/5/c559d326-b97b-43d9-b7c9-c09e1a0e9db6.jpg?1562936748|https://scryfall.com/card/tsp/57/draining-whelk?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:357
@@ -723,7 +723,7 @@ msgid "When Draining Whelk enters the battlefield, counter target spell. Put X +
 msgstr ""
 
 #: ../../TSP.rst:362
-msgid ":mtgtip:`Dream Stalker<https://img.scryfall.com/cards/border_crop/en/tsp/58.jpg?1517813031|https://scryfall.com/card/tsp/58/dream-stalker?utm_source=api>`"
+msgid ":mtgtip:`Dream Stalker<https://img.scryfall.com/cards/border_crop/front/a/0/a0e8fc8e-3b23-4275-b19b-43aa6a307619.jpg?1562928942|https://scryfall.com/card/tsp/58/dream-stalker?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:361
@@ -731,7 +731,7 @@ msgid "When Dream Stalker enters the battlefield, return a permanent you control
 msgstr ""
 
 #: ../../TSP.rst:368
-msgid ":mtgtip:`Drifter il-Dal<https://img.scryfall.com/cards/border_crop/en/tsp/59.jpg?1517813031|https://scryfall.com/card/tsp/59/drifter-il-dal?utm_source=api>`"
+msgid ":mtgtip:`Drifter il-Dal<https://img.scryfall.com/cards/border_crop/front/4/c/4c3de909-b47e-45d7-9922-8d5e08a76ec9.jpg?1562910996|https://scryfall.com/card/tsp/59/drifter-il-dal?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:367
@@ -739,7 +739,7 @@ msgid "At the beginning of your upkeep, sacrifice Drifter il-Dal unless you pay 
 msgstr ""
 
 #: ../../TSP.rst:374
-msgid ":mtgtip:`Errant Ephemeron<https://img.scryfall.com/cards/border_crop/en/tsp/60.jpg?1517813031|https://scryfall.com/card/tsp/60/errant-ephemeron?utm_source=api>`"
+msgid ":mtgtip:`Errant Ephemeron<https://img.scryfall.com/cards/border_crop/front/3/9/398c26cc-cd55-42c6-a744-aaefd7018960.jpg?1562907032|https://scryfall.com/card/tsp/60/errant-ephemeron?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:373
@@ -747,7 +747,7 @@ msgid "Suspend 4—|mana_1|\\ |mana_u| (Rather than cast this card from your han
 msgstr ""
 
 #: ../../TSP.rst:382
-msgid ":mtgtip:`Eternity Snare<https://img.scryfall.com/cards/border_crop/en/tsp/61.jpg?1517813031|https://scryfall.com/card/tsp/61/eternity-snare?utm_source=api>`"
+msgid ":mtgtip:`Eternity Snare<https://img.scryfall.com/cards/border_crop/front/d/e/de753839-cf75-48d0-98c3-5765779678c0.jpg?1562941924|https://scryfall.com/card/tsp/61/eternity-snare?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:379
@@ -759,7 +759,7 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
 #: ../../TSP.rst:388
-msgid ":mtgtip:`Fathom Seer<https://img.scryfall.com/cards/border_crop/en/tsp/62.jpg?1517813031|https://scryfall.com/card/tsp/62/fathom-seer?utm_source=api>`"
+msgid ":mtgtip:`Fathom Seer<https://img.scryfall.com/cards/border_crop/front/2/0/20de275a-2e11-4452-8037-bc397dd53a8c.jpg?1562901915|https://scryfall.com/card/tsp/62/fathom-seer?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:385
@@ -771,7 +771,7 @@ msgid "When Fathom Seer is turned face up, draw two cards."
 msgstr ""
 
 #: ../../TSP.rst:396
-msgid ":mtgtip:`Fledgling Mawcor<https://img.scryfall.com/cards/border_crop/en/tsp/63.jpg?1517813031|https://scryfall.com/card/tsp/63/fledgling-mawcor?utm_source=api>`"
+msgid ":mtgtip:`Fledgling Mawcor<https://img.scryfall.com/cards/border_crop/front/c/4/c464923e-ae6e-4c1d-9315-0ddb86c07b40.jpg?1562936522|https://scryfall.com/card/tsp/63/fledgling-mawcor?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:393
@@ -783,7 +783,7 @@ msgid "Morph |mana_u|\\ |mana_u| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../TSP.rst:404
-msgid ":mtgtip:`Fool's Demise<https://img.scryfall.com/cards/border_crop/en/tsp/64.jpg?1517813031|https://scryfall.com/card/tsp/64/fools-demise?utm_source=api>`"
+msgid ":mtgtip:`Fool's Demise<https://img.scryfall.com/cards/border_crop/front/3/c/3cbc7ac4-c28e-4155-b3c8-60946653b9b4.jpg?1562907610|https://scryfall.com/card/tsp/64/fools-demise?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:401
@@ -795,7 +795,7 @@ msgid "When Fool's Demise is put into a graveyard from the battlefield, return F
 msgstr ""
 
 #: ../../TSP.rst:410
-msgid ":mtgtip:`Ixidron<https://img.scryfall.com/cards/border_crop/en/tsp/65.jpg?1517813031|https://scryfall.com/card/tsp/65/ixidron?utm_source=api>`"
+msgid ":mtgtip:`Ixidron<https://img.scryfall.com/cards/border_crop/front/a/2/a2f5c613-80ad-487f-995a-6a869c137798.jpg?1562929343|https://scryfall.com/card/tsp/65/ixidron?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:407
@@ -807,7 +807,7 @@ msgid "Ixidron's power and toughness are each equal to the number of face-down c
 msgstr ""
 
 #: ../../TSP.rst:416
-msgid ":mtgtip:`Looter il-Kor<https://img.scryfall.com/cards/border_crop/en/tsp/66.jpg?1517813031|https://scryfall.com/card/tsp/66/looter-il-kor?utm_source=api>`"
+msgid ":mtgtip:`Looter il-Kor<https://img.scryfall.com/cards/border_crop/front/3/6/368ee06f-9021-4b65-9f53-9c326bf3a27f.jpg?1562906492|https://scryfall.com/card/tsp/66/looter-il-kor?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:415
@@ -815,7 +815,7 @@ msgid "Whenever Looter il-Kor deals damage to an opponent, draw a card, then dis
 msgstr ""
 
 #: ../../TSP.rst:420
-msgid ":mtgtip:`Magus of the Jar<https://img.scryfall.com/cards/border_crop/en/tsp/67.jpg?1517813031|https://scryfall.com/card/tsp/67/magus-of-the-jar?utm_source=api>`"
+msgid ":mtgtip:`Magus of the Jar<https://img.scryfall.com/cards/border_crop/front/3/1/31961041-a9e6-4d96-bd4a-5c5f88a79e74.jpg?1562905390|https://scryfall.com/card/tsp/67/magus-of-the-jar?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:419
@@ -823,7 +823,7 @@ msgid "|tap|, Sacrifice Magus of the Jar: Each player exiles all cards from thei
 msgstr ""
 
 #: ../../TSP.rst:424
-msgid ":mtgtip:`Moonlace<https://img.scryfall.com/cards/border_crop/en/tsp/68.jpg?1517813031|https://scryfall.com/card/tsp/68/moonlace?utm_source=api>`"
+msgid ":mtgtip:`Moonlace<https://img.scryfall.com/cards/border_crop/front/c/7/c781cc80-5f57-4677-a9da-3523191cc7c6.jpg?1562937140|https://scryfall.com/card/tsp/68/moonlace?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:423
@@ -831,7 +831,7 @@ msgid "Target spell or permanent becomes colorless."
 msgstr ""
 
 #: ../../TSP.rst:430
-msgid ":mtgtip:`Mystical Teachings<https://img.scryfall.com/cards/border_crop/en/tsp/69.jpg?1530704707|https://scryfall.com/card/tsp/69/mystical-teachings?utm_source=api>`"
+msgid ":mtgtip:`Mystical Teachings<https://img.scryfall.com/cards/border_crop/front/a/0/a057e5f3-b6bd-4995-b990-714201f36989.jpg?1562928838|https://scryfall.com/card/tsp/69/mystical-teachings?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:427
@@ -843,7 +843,7 @@ msgid "Flashback |mana_5|\\ |mana_b| (You may cast this card from your graveyard
 msgstr ""
 
 #: ../../TSP.rst:438
-msgid ":mtgtip:`Ophidian Eye<https://img.scryfall.com/cards/border_crop/en/tsp/70.jpg?1517813031|https://scryfall.com/card/tsp/70/ophidian-eye?utm_source=api>`"
+msgid ":mtgtip:`Ophidian Eye<https://img.scryfall.com/cards/border_crop/front/2/6/26836ff5-b3c3-4b10-af1e-df3658781cb2.jpg?1562903093|https://scryfall.com/card/tsp/70/ophidian-eye?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:437
@@ -851,7 +851,7 @@ msgid "Whenever enchanted creature deals damage to an opponent, you may draw a c
 msgstr ""
 
 #: ../../TSP.rst:444
-msgid ":mtgtip:`Paradox Haze<https://img.scryfall.com/cards/border_crop/en/tsp/71.jpg?1517813031|https://scryfall.com/card/tsp/71/paradox-haze?utm_source=api>`"
+msgid ":mtgtip:`Paradox Haze<https://img.scryfall.com/cards/border_crop/front/a/7/a7c74def-83e5-4420-989d-2304bf4743ae.jpg?1562930370|https://scryfall.com/card/tsp/71/paradox-haze?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:441
@@ -863,7 +863,7 @@ msgid "At the beginning of enchanted player's first upkeep each turn, that playe
 msgstr ""
 
 #: ../../TSP.rst:448
-msgid ":mtgtip:`Psionic Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/72.jpg?1517813031|https://scryfall.com/card/tsp/72/psionic-sliver?utm_source=api>`"
+msgid ":mtgtip:`Psionic Sliver<https://img.scryfall.com/cards/border_crop/front/2/5/2559ca03-4442-47c5-bd6e-84e71cfa6ca5.jpg?1562902815|https://scryfall.com/card/tsp/72/psionic-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:447
@@ -871,7 +871,7 @@ msgid "All Sliver creatures have \"|tap|: This creature deals 2 damage to any ta
 msgstr ""
 
 #: ../../TSP.rst:456
-msgid ":mtgtip:`Riftwing Cloudskate<https://img.scryfall.com/cards/border_crop/en/tsp/73.jpg?1517813031|https://scryfall.com/card/tsp/73/riftwing-cloudskate?utm_source=api>`"
+msgid ":mtgtip:`Riftwing Cloudskate<https://img.scryfall.com/cards/border_crop/front/7/8/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8.jpg?1562920341|https://scryfall.com/card/tsp/73/riftwing-cloudskate?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:453
@@ -883,7 +883,7 @@ msgid "Suspend 3—|mana_1|\\ |mana_u| (Rather than cast this card from your han
 msgstr ""
 
 #: ../../TSP.rst:460
-msgid ":mtgtip:`Sage of Epityr<https://img.scryfall.com/cards/border_crop/en/tsp/74.jpg?1517813031|https://scryfall.com/card/tsp/74/sage-of-epityr?utm_source=api>`"
+msgid ":mtgtip:`Sage of Epityr<https://img.scryfall.com/cards/border_crop/front/8/e/8e2ea578-069e-4020-a762-d108a3e14861.jpg?1562924988|https://scryfall.com/card/tsp/74/sage-of-epityr?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:459
@@ -891,7 +891,7 @@ msgid "When Sage of Epityr enters the battlefield, look at the top four cards of
 msgstr ""
 
 #: ../../TSP.rst:464
-msgid ":mtgtip:`Screeching Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/75.jpg?1517813031|https://scryfall.com/card/tsp/75/screeching-sliver?utm_source=api>`"
+msgid ":mtgtip:`Screeching Sliver<https://img.scryfall.com/cards/border_crop/front/3/1/313e71da-ce72-4976-8286-f4495ea56485.jpg?1562905348|https://scryfall.com/card/tsp/75/screeching-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:463
@@ -899,7 +899,7 @@ msgid "All Slivers have \"|tap|: Target player puts the top card of their librar
 msgstr ""
 
 #: ../../TSP.rst:468
-msgid ":mtgtip:`Shadow Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/76.jpg?1517813031|https://scryfall.com/card/tsp/76/shadow-sliver?utm_source=api>`"
+msgid ":mtgtip:`Shadow Sliver<https://img.scryfall.com/cards/border_crop/front/f/b/fb725914-1b0f-4efc-808b-9fe2eaa7f17d.jpg?1562948266|https://scryfall.com/card/tsp/76/shadow-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:467
@@ -907,7 +907,7 @@ msgid "All Sliver creatures have shadow. (They can block or be blocked by only c
 msgstr ""
 
 #: ../../TSP.rst:476
-msgid ":mtgtip:`Slipstream Serpent<https://img.scryfall.com/cards/border_crop/en/tsp/77.jpg?1517813031|https://scryfall.com/card/tsp/77/slipstream-serpent?utm_source=api>`"
+msgid ":mtgtip:`Slipstream Serpent<https://img.scryfall.com/cards/border_crop/front/b/8/b8dc6ee4-4b8a-4746-9d3f-4f66b3809670.jpg?1562934046|https://scryfall.com/card/tsp/77/slipstream-serpent?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:471
@@ -923,7 +923,7 @@ msgid "Morph |mana_5|\\ |mana_u| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../TSP.rst:482
-msgid ":mtgtip:`Snapback<https://img.scryfall.com/cards/border_crop/en/tsp/78.jpg?1517813031|https://scryfall.com/card/tsp/78/snapback?utm_source=api>`"
+msgid ":mtgtip:`Snapback<https://img.scryfall.com/cards/border_crop/front/d/e/de9135ba-9b6a-4443-a1c4-882f9bfae626.jpg?1562941947|https://scryfall.com/card/tsp/78/snapback?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:479
@@ -935,7 +935,7 @@ msgid "Return target creature to its owner's hand."
 msgstr ""
 
 #: ../../TSP.rst:488
-msgid ":mtgtip:`Spell Burst<https://img.scryfall.com/cards/border_crop/en/tsp/79.jpg?1517813031|https://scryfall.com/card/tsp/79/spell-burst?utm_source=api>`"
+msgid ":mtgtip:`Spell Burst<https://img.scryfall.com/cards/border_crop/front/f/9/f95c8015-fd7d-4329-ab23-aec37a824083.jpg?1562947751|https://scryfall.com/card/tsp/79/spell-burst?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:487
@@ -943,7 +943,7 @@ msgid "Counter target spell with converted mana cost X."
 msgstr ""
 
 #: ../../TSP.rst:494
-msgid ":mtgtip:`Spiketail Drakeling<https://img.scryfall.com/cards/border_crop/en/tsp/80.jpg?1517813031|https://scryfall.com/card/tsp/80/spiketail-drakeling?utm_source=api>`"
+msgid ":mtgtip:`Spiketail Drakeling<https://img.scryfall.com/cards/border_crop/front/c/7/c752a0b9-cc87-4c3e-a1e8-0162715e011a.jpg?1562937106|https://scryfall.com/card/tsp/80/spiketail-drakeling?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:493
@@ -951,7 +951,7 @@ msgid "Sacrifice Spiketail Drakeling: Counter target spell unless its controller
 msgstr ""
 
 #: ../../TSP.rst:502
-msgid ":mtgtip:`Sprite Noble<https://img.scryfall.com/cards/border_crop/en/tsp/81.jpg?1517813031|https://scryfall.com/card/tsp/81/sprite-noble?utm_source=api>`"
+msgid ":mtgtip:`Sprite Noble<https://img.scryfall.com/cards/border_crop/front/0/d/0de52e53-8a45-4c0a-bb7d-6dc0d659a7c0.jpg?1562897850|https://scryfall.com/card/tsp/81/sprite-noble?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:499
@@ -963,7 +963,7 @@ msgid "|tap|: Other creatures you control with flying get +1/+0 until end of tur
 msgstr ""
 
 #: ../../TSP.rst:510
-msgid ":mtgtip:`Stormcloud Djinn<https://img.scryfall.com/cards/border_crop/en/tsp/82.jpg?1517813031|https://scryfall.com/card/tsp/82/stormcloud-djinn?utm_source=api>`"
+msgid ":mtgtip:`Stormcloud Djinn<https://img.scryfall.com/cards/border_crop/front/e/a/ea1b0791-618b-4060-b4d9-3bd7a778098e.jpg?1562944313|https://scryfall.com/card/tsp/82/stormcloud-djinn?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:507
@@ -975,7 +975,7 @@ msgid "|mana_r|\\ |mana_r|: Stormcloud Djinn gets +2/+0 until end of turn and de
 msgstr ""
 
 #: ../../TSP.rst:518
-msgid ":mtgtip:`Teferi, Mage of Zhalfir<https://img.scryfall.com/cards/border_crop/en/tsp/83.jpg?1517813031|https://scryfall.com/card/tsp/83/teferi-mage-of-zhalfir?utm_source=api>`"
+msgid ":mtgtip:`Teferi, Mage of Zhalfir<https://img.scryfall.com/cards/border_crop/front/3/c/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d.jpg?1562907491|https://scryfall.com/card/tsp/83/teferi-mage-of-zhalfir?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:515
@@ -987,7 +987,7 @@ msgid "Each opponent can cast spells only any time they could cast a sorcery."
 msgstr ""
 
 #: ../../TSP.rst:522
-msgid ":mtgtip:`Telekinetic Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/84.jpg?1517813031|https://scryfall.com/card/tsp/84/telekinetic-sliver?utm_source=api>`"
+msgid ":mtgtip:`Telekinetic Sliver<https://img.scryfall.com/cards/border_crop/front/6/1/61b934ad-4858-4680-924a-53ea4f250f9e.jpg?1562915368|https://scryfall.com/card/tsp/84/telekinetic-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:521
@@ -995,7 +995,7 @@ msgid "All Slivers have \"|tap|: Tap target permanent.\""
 msgstr ""
 
 #: ../../TSP.rst:526
-msgid ":mtgtip:`Temporal Eddy<https://img.scryfall.com/cards/border_crop/en/tsp/85.jpg?1517813031|https://scryfall.com/card/tsp/85/temporal-eddy?utm_source=api>`"
+msgid ":mtgtip:`Temporal Eddy<https://img.scryfall.com/cards/border_crop/front/3/c/3cab2147-d496-489b-aaf0-b354e31a6b45.jpg?1562907590|https://scryfall.com/card/tsp/85/temporal-eddy?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:525
@@ -1003,7 +1003,7 @@ msgid "Put target creature or land on top of its owner's library."
 msgstr ""
 
 #: ../../TSP.rst:532
-msgid ":mtgtip:`Think Twice<https://img.scryfall.com/cards/border_crop/en/tsp/86.jpg?1517813031|https://scryfall.com/card/tsp/86/think-twice?utm_source=api>`"
+msgid ":mtgtip:`Think Twice<https://img.scryfall.com/cards/border_crop/front/3/5/352d99db-de6d-4405-90ec-b144abbaa5a4.jpg?1562906203|https://scryfall.com/card/tsp/86/think-twice?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:531
@@ -1011,7 +1011,7 @@ msgid "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard
 msgstr ""
 
 #: ../../TSP.rst:538
-msgid ":mtgtip:`Tolarian Sentinel<https://img.scryfall.com/cards/border_crop/en/tsp/87.jpg?1517813031|https://scryfall.com/card/tsp/87/tolarian-sentinel?utm_source=api>`"
+msgid ":mtgtip:`Tolarian Sentinel<https://img.scryfall.com/cards/border_crop/front/2/e/2e97ec8b-6163-41ff-9e6f-af091a7c529e.jpg?1562904803|https://scryfall.com/card/tsp/87/tolarian-sentinel?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:537
@@ -1019,7 +1019,7 @@ msgid "|mana_u|, |tap|, Discard a card: Return target permanent you control to i
 msgstr ""
 
 #: ../../TSP.rst:544
-msgid ":mtgtip:`Trickbind<https://img.scryfall.com/cards/border_crop/en/tsp/88.jpg?1517813031|https://scryfall.com/card/tsp/88/trickbind?utm_source=api>`"
+msgid ":mtgtip:`Trickbind<https://img.scryfall.com/cards/border_crop/front/f/2/f2e58ff2-dea3-42b3-8c22-3e6202a7d433.jpg?1562946300|https://scryfall.com/card/tsp/88/trickbind?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:543
@@ -1027,7 +1027,7 @@ msgid "Counter target activated or triggered ability. If a permanent's ability i
 msgstr ""
 
 #: ../../TSP.rst:548
-msgid ":mtgtip:`Truth or Tale<https://img.scryfall.com/cards/border_crop/en/tsp/89.jpg?1517813031|https://scryfall.com/card/tsp/89/truth-or-tale?utm_source=api>`"
+msgid ":mtgtip:`Truth or Tale<https://img.scryfall.com/cards/border_crop/front/5/b/5b3e301a-02a5-4d92-9cdd-5ab877bf8ed3.jpg?1562914058|https://scryfall.com/card/tsp/89/truth-or-tale?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:547
@@ -1035,7 +1035,7 @@ msgid "Reveal the top five cards of your library and separate them into two pile
 msgstr ""
 
 #: ../../TSP.rst:554
-msgid ":mtgtip:`Vesuvan Shapeshifter<https://img.scryfall.com/cards/border_crop/en/tsp/90.jpg?1517813031|https://scryfall.com/card/tsp/90/vesuvan-shapeshifter?utm_source=api>`"
+msgid ":mtgtip:`Vesuvan Shapeshifter<https://img.scryfall.com/cards/border_crop/front/4/5/458031cc-238d-45f0-9a81-b52e82286e0f.jpg?1562909365|https://scryfall.com/card/tsp/90/vesuvan-shapeshifter?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:551
@@ -1047,7 +1047,7 @@ msgid "Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../TSP.rst:560
-msgid ":mtgtip:`Viscerid Deepwalker<https://img.scryfall.com/cards/border_crop/en/tsp/91.jpg?1517813031|https://scryfall.com/card/tsp/91/viscerid-deepwalker?utm_source=api>`"
+msgid ":mtgtip:`Viscerid Deepwalker<https://img.scryfall.com/cards/border_crop/front/c/d/cdc9f54e-7fba-4f03-83ca-6d293dffc07a.jpg?1562938533|https://scryfall.com/card/tsp/91/viscerid-deepwalker?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:557
@@ -1059,7 +1059,7 @@ msgid "Suspend 4—|mana_u| (Rather than cast this card from your hand, you may 
 msgstr ""
 
 #: ../../TSP.rst:568
-msgid ":mtgtip:`Voidmage Husher<https://img.scryfall.com/cards/border_crop/en/tsp/92.jpg?1517813031|https://scryfall.com/card/tsp/92/voidmage-husher?utm_source=api>`"
+msgid ":mtgtip:`Voidmage Husher<https://img.scryfall.com/cards/border_crop/front/c/9/c9765c83-fe52-43c5-9466-7318809bbfe0.jpg?1562937541|https://scryfall.com/card/tsp/92/voidmage-husher?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:565
@@ -1071,7 +1071,7 @@ msgid "Whenever you cast a spell, you may return Voidmage Husher to its owner's 
 msgstr ""
 
 #: ../../TSP.rst:574
-msgid ":mtgtip:`Walk the Aeons<https://img.scryfall.com/cards/border_crop/en/tsp/93.jpg?1517813031|https://scryfall.com/card/tsp/93/walk-the-aeons?utm_source=api>`"
+msgid ":mtgtip:`Walk the Aeons<https://img.scryfall.com/cards/border_crop/front/9/d/9db567cf-3d26-4216-932b-53ca4cfeb5b7.jpg?1562928264|https://scryfall.com/card/tsp/93/walk-the-aeons?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:571
@@ -1083,7 +1083,7 @@ msgid "Target player takes an extra turn after this one."
 msgstr ""
 
 #: ../../TSP.rst:580
-msgid ":mtgtip:`Wipe Away<https://img.scryfall.com/cards/border_crop/en/tsp/94.jpg?1517813031|https://scryfall.com/card/tsp/94/wipe-away?utm_source=api>`"
+msgid ":mtgtip:`Wipe Away<https://img.scryfall.com/cards/border_crop/front/3/7/37eb43af-367c-4778-a7cc-7ee3b3103379.jpg?1562906758|https://scryfall.com/card/tsp/94/wipe-away?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:579
@@ -1091,7 +1091,7 @@ msgid "Return target permanent to its owner's hand."
 msgstr ""
 
 #: ../../TSP.rst:584
-msgid ":mtgtip:`Assassinate<https://img.scryfall.com/cards/border_crop/en/tsp/95.jpg?1517813031|https://scryfall.com/card/tsp/95/assassinate?utm_source=api>`"
+msgid ":mtgtip:`Assassinate<https://img.scryfall.com/cards/border_crop/front/4/0/40b67839-622d-41c1-b9c7-1a26b021ec78.jpg?1562908402|https://scryfall.com/card/tsp/95/assassinate?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:583
@@ -1099,7 +1099,7 @@ msgid "Destroy target tapped creature."
 msgstr ""
 
 #: ../../TSP.rst:588
-msgid ":mtgtip:`Basal Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/96.jpg?1517813031|https://scryfall.com/card/tsp/96/basal-sliver?utm_source=api>`"
+msgid ":mtgtip:`Basal Sliver<https://img.scryfall.com/cards/border_crop/front/4/5/4564e9df-bfa3-48e5-a12e-f7e96a504cb1.jpg?1562909343|https://scryfall.com/card/tsp/96/basal-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:587
@@ -1107,7 +1107,7 @@ msgid "All Slivers have \"Sacrifice this permanent: Add |mana_b|\\ |mana_b|.\""
 msgstr ""
 
 #: ../../TSP.rst:594
-msgid ":mtgtip:`Call to the Netherworld<https://img.scryfall.com/cards/border_crop/en/tsp/97.jpg?1517813031|https://scryfall.com/card/tsp/97/call-to-the-netherworld?utm_source=api>`"
+msgid ":mtgtip:`Call to the Netherworld<https://img.scryfall.com/cards/border_crop/front/f/a/fa7322e2-dbea-46e1-ba29-a86a13e5d33e.jpg?1562948026|https://scryfall.com/card/tsp/97/call-to-the-netherworld?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:591
@@ -1119,7 +1119,7 @@ msgid "Madness |mana_0| (If you discard this card, discard it into exile. When y
 msgstr ""
 
 #: ../../TSP.rst:600
-msgid ":mtgtip:`Corpulent Corpse<https://img.scryfall.com/cards/border_crop/en/tsp/98.jpg?1517813031|https://scryfall.com/card/tsp/98/corpulent-corpse?utm_source=api>`"
+msgid ":mtgtip:`Corpulent Corpse<https://img.scryfall.com/cards/border_crop/front/a/5/a58b842a-a4c0-475d-a8b3-62d4e5bb2eaf.jpg?1562929900|https://scryfall.com/card/tsp/98/corpulent-corpse?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:597
@@ -1131,7 +1131,7 @@ msgid "Suspend 5—|mana_b| (Rather than cast this card from your hand, you may 
 msgstr ""
 
 #: ../../TSP.rst:608
-msgid ":mtgtip:`Curse of the Cabal<https://img.scryfall.com/cards/border_crop/en/tsp/99.jpg?1517813031|https://scryfall.com/card/tsp/99/curse-of-the-cabal?utm_source=api>`"
+msgid ":mtgtip:`Curse of the Cabal<https://img.scryfall.com/cards/border_crop/front/d/4/d4323aa6-a1fb-42ee-9634-3747129fde3b.jpg?1562939881|https://scryfall.com/card/tsp/99/curse-of-the-cabal?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:603
@@ -1147,7 +1147,7 @@ msgid "At the beginning of each player's upkeep, if Curse of the Cabal is suspen
 msgstr ""
 
 #: ../../TSP.rst:612
-msgid ":mtgtip:`Cyclopean Giant<https://img.scryfall.com/cards/border_crop/en/tsp/100.jpg?1517813031|https://scryfall.com/card/tsp/100/cyclopean-giant?utm_source=api>`"
+msgid ":mtgtip:`Cyclopean Giant<https://img.scryfall.com/cards/border_crop/front/f/a/fab6bc89-492a-46a4-90dc-95ae2e2bc483.jpg?1562948107|https://scryfall.com/card/tsp/100/cyclopean-giant?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:611
@@ -1155,7 +1155,7 @@ msgid "When Cyclopean Giant dies, target land becomes a Swamp. Exile Cyclopean G
 msgstr ""
 
 #: ../../TSP.rst:618
-msgid ":mtgtip:`Dark Withering<https://img.scryfall.com/cards/border_crop/en/tsp/101.jpg?1517813031|https://scryfall.com/card/tsp/101/dark-withering?utm_source=api>`"
+msgid ":mtgtip:`Dark Withering<https://img.scryfall.com/cards/border_crop/front/3/d/3da58e0d-5877-43c4-b129-993e154b6087.jpg?1562907804|https://scryfall.com/card/tsp/101/dark-withering?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:615
@@ -1167,7 +1167,7 @@ msgid "Madness |mana_b| (If you discard this card, discard it into exile. When y
 msgstr ""
 
 #: ../../TSP.rst:626
-msgid ":mtgtip:`Deathspore Thallid<https://img.scryfall.com/cards/border_crop/en/tsp/102.jpg?1517813031|https://scryfall.com/card/tsp/102/deathspore-thallid?utm_source=api>`"
+msgid ":mtgtip:`Deathspore Thallid<https://img.scryfall.com/cards/border_crop/front/4/4/44ee5ee3-11f8-4a4e-bfa3-10ff45ed6d1b.jpg?1562909254|https://scryfall.com/card/tsp/102/deathspore-thallid?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:621
@@ -1183,7 +1183,7 @@ msgid "Sacrifice a Saproling: Target creature gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:632
-msgid ":mtgtip:`Demonic Collusion<https://img.scryfall.com/cards/border_crop/en/tsp/103.jpg?1517813031|https://scryfall.com/card/tsp/103/demonic-collusion?utm_source=api>`"
+msgid ":mtgtip:`Demonic Collusion<https://img.scryfall.com/cards/border_crop/front/f/1/f1a68a28-05fa-4c6e-896d-ddb9aea3a38d.jpg?1562946007|https://scryfall.com/card/tsp/103/demonic-collusion?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:629
@@ -1195,7 +1195,7 @@ msgid "Search your library for a card and put that card into your hand. Then shu
 msgstr ""
 
 #: ../../TSP.rst:638
-msgid ":mtgtip:`Dread Return<https://img.scryfall.com/cards/border_crop/en/tsp/104.jpg?1517813031|https://scryfall.com/card/tsp/104/dread-return?utm_source=api>`"
+msgid ":mtgtip:`Dread Return<https://img.scryfall.com/cards/border_crop/front/d/7/d7e304fc-0ace-459e-8d2f-376f1899639c.jpg?1562940668|https://scryfall.com/card/tsp/104/dread-return?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:635
@@ -1207,7 +1207,7 @@ msgid "Flashback—Sacrifice three creatures. (You may cast this card from your 
 msgstr ""
 
 #: ../../TSP.rst:644
-msgid ":mtgtip:`Drudge Reavers<https://img.scryfall.com/cards/border_crop/en/tsp/105.jpg?1517813031|https://scryfall.com/card/tsp/105/drudge-reavers?utm_source=api>`"
+msgid ":mtgtip:`Drudge Reavers<https://img.scryfall.com/cards/border_crop/front/0/3/03c07d9a-afed-4028-9fa1-ec439b60f08f.jpg?1562895748|https://scryfall.com/card/tsp/105/drudge-reavers?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:643
@@ -1215,7 +1215,7 @@ msgid "|mana_b|: Regenerate Drudge Reavers."
 msgstr ""
 
 #: ../../TSP.rst:650
-msgid ":mtgtip:`Endrek Sahr, Master Breeder<https://img.scryfall.com/cards/border_crop/en/tsp/106.jpg?1517813031|https://scryfall.com/card/tsp/106/endrek-sahr-master-breeder?utm_source=api>`"
+msgid ":mtgtip:`Endrek Sahr, Master Breeder<https://img.scryfall.com/cards/border_crop/front/d/a/dac6faba-59f2-436f-addb-c53db2b0cc17.jpg?1562941199|https://scryfall.com/card/tsp/106/endrek-sahr-master-breeder?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:647
@@ -1227,7 +1227,7 @@ msgid "When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Bre
 msgstr ""
 
 #: ../../TSP.rst:656
-msgid ":mtgtip:`Evil Eye of Urborg<https://img.scryfall.com/cards/border_crop/en/tsp/107.jpg?1517813031|https://scryfall.com/card/tsp/107/evil-eye-of-urborg?utm_source=api>`"
+msgid ":mtgtip:`Evil Eye of Urborg<https://img.scryfall.com/cards/border_crop/front/f/c/fc17fe31-11f1-48e0-9b0d-7c7dcda417a6.jpg?1562948408|https://scryfall.com/card/tsp/107/evil-eye-of-urborg?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:653
@@ -1239,7 +1239,7 @@ msgid "Whenever Evil Eye of Urborg becomes blocked by a creature, destroy that c
 msgstr ""
 
 #: ../../TSP.rst:664
-msgid ":mtgtip:`Faceless Devourer<https://img.scryfall.com/cards/border_crop/en/tsp/108.jpg?1517813031|https://scryfall.com/card/tsp/108/faceless-devourer?utm_source=api>`"
+msgid ":mtgtip:`Faceless Devourer<https://img.scryfall.com/cards/border_crop/front/d/1/d17146f8-d517-4941-b01e-09ecf00ec8e4.jpg?1562939325|https://scryfall.com/card/tsp/108/faceless-devourer?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:661
@@ -1251,7 +1251,7 @@ msgid "When Faceless Devourer leaves the battlefield, return the exiled card to 
 msgstr ""
 
 #: ../../TSP.rst:672
-msgid ":mtgtip:`Fallen Ideal<https://img.scryfall.com/cards/border_crop/en/tsp/109.jpg?1517813031|https://scryfall.com/card/tsp/109/fallen-ideal?utm_source=api>`"
+msgid ":mtgtip:`Fallen Ideal<https://img.scryfall.com/cards/border_crop/front/6/b/6b2d24b0-f0d3-40f0-a51f-074f8e95e6af.jpg?1562917421|https://scryfall.com/card/tsp/109/fallen-ideal?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:669
@@ -1263,7 +1263,7 @@ msgid "When Fallen Ideal is put into a graveyard from the battlefield, return Fa
 msgstr ""
 
 #: ../../TSP.rst:680
-msgid ":mtgtip:`Feebleness<https://img.scryfall.com/cards/border_crop/en/tsp/110.jpg?1517813031|https://scryfall.com/card/tsp/110/feebleness?utm_source=api>`"
+msgid ":mtgtip:`Feebleness<https://img.scryfall.com/cards/border_crop/front/1/b/1ba2660d-b661-4266-b7e5-07bb8b72bce6.jpg?1562900794|https://scryfall.com/card/tsp/110/feebleness?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:679
@@ -1271,7 +1271,7 @@ msgid "Enchanted creature gets -2/-1."
 msgstr ""
 
 #: ../../TSP.rst:686
-msgid ":mtgtip:`Gorgon Recluse<https://img.scryfall.com/cards/border_crop/en/tsp/111.jpg?1517813031|https://scryfall.com/card/tsp/111/gorgon-recluse?utm_source=api>`"
+msgid ":mtgtip:`Gorgon Recluse<https://img.scryfall.com/cards/border_crop/front/a/b/abdeb7c9-98bd-4143-87e4-1c78c0ce627e.jpg?1562931268|https://scryfall.com/card/tsp/111/gorgon-recluse?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:683
@@ -1283,7 +1283,7 @@ msgid "Madness |mana_b|\\ |mana_b| (If you discard this card, discard it into ex
 msgstr ""
 
 #: ../../TSP.rst:690
-msgid ":mtgtip:`Haunting Hymn<https://img.scryfall.com/cards/border_crop/en/tsp/112.jpg?1517813031|https://scryfall.com/card/tsp/112/haunting-hymn?utm_source=api>`"
+msgid ":mtgtip:`Haunting Hymn<https://img.scryfall.com/cards/border_crop/front/e/8/e8163a9d-5a1b-4d36-b20a-b220207a3b94.jpg?1562943976|https://scryfall.com/card/tsp/112/haunting-hymn?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:689
@@ -1291,7 +1291,7 @@ msgid "Target player discards two cards. If you cast this spell during your main
 msgstr ""
 
 #: ../../TSP.rst:698
-msgid ":mtgtip:`Liege of the Pit<https://img.scryfall.com/cards/border_crop/en/tsp/113.jpg?1517813031|https://scryfall.com/card/tsp/113/liege-of-the-pit?utm_source=api>`"
+msgid ":mtgtip:`Liege of the Pit<https://img.scryfall.com/cards/border_crop/front/5/2/52e7c608-d224-472b-8736-273874211f24.jpg?1562912268|https://scryfall.com/card/tsp/113/liege-of-the-pit?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:693
@@ -1307,7 +1307,7 @@ msgid "Morph |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card f
 msgstr ""
 
 #: ../../TSP.rst:704
-msgid ":mtgtip:`Lim-Dûl the Necromancer<https://img.scryfall.com/cards/border_crop/en/tsp/114.jpg?1517813031|https://scryfall.com/card/tsp/114/lim-d%C3%BBl-the-necromancer?utm_source=api>`"
+msgid ":mtgtip:`Lim-Dûl the Necromancer<https://img.scryfall.com/cards/border_crop/front/b/8/b8a3cdfe-0289-474b-b9c4-07e8c6588ec5.jpg?1562933997|https://scryfall.com/card/tsp/114/lim-d%C3%BBl-the-necromancer?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:701
@@ -1319,7 +1319,7 @@ msgid "|mana_1|\\ |mana_b|: Regenerate target Zombie."
 msgstr ""
 
 #: ../../TSP.rst:710
-msgid ":mtgtip:`Living End<https://img.scryfall.com/cards/border_crop/en/tsp/115.jpg?1517813031|https://scryfall.com/card/tsp/115/living-end?utm_source=api>`"
+msgid ":mtgtip:`Living End<https://img.scryfall.com/cards/border_crop/front/3/b/3be0ff69-d9f3-4b81-b02f-1360e4064aff.jpg?1562907448|https://scryfall.com/card/tsp/115/living-end?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:707
@@ -1331,7 +1331,7 @@ msgid "Each player exiles all creature cards from their graveyard, then sacrific
 msgstr ""
 
 #: ../../TSP.rst:714
-msgid ":mtgtip:`Magus of the Mirror<https://img.scryfall.com/cards/border_crop/en/tsp/116.jpg?1517813031|https://scryfall.com/card/tsp/116/magus-of-the-mirror?utm_source=api>`"
+msgid ":mtgtip:`Magus of the Mirror<https://img.scryfall.com/cards/border_crop/front/4/a/4a6e8ff6-323d-4cc3-b7b6-8607bf89597e.jpg?1562910544|https://scryfall.com/card/tsp/116/magus-of-the-mirror?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:713
@@ -1339,7 +1339,7 @@ msgid "|tap|, Sacrifice Magus of the Mirror: Exchange life totals with target op
 msgstr ""
 
 #: ../../TSP.rst:720
-msgid ":mtgtip:`Mana Skimmer<https://img.scryfall.com/cards/border_crop/en/tsp/117.jpg?1517813031|https://scryfall.com/card/tsp/117/mana-skimmer?utm_source=api>`"
+msgid ":mtgtip:`Mana Skimmer<https://img.scryfall.com/cards/border_crop/front/8/a/8a39ed44-bc0c-40e2-ba53-cd586c2d5877.jpg?1562924228|https://scryfall.com/card/tsp/117/mana-skimmer?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:719
@@ -1347,7 +1347,7 @@ msgid "Whenever Mana Skimmer deals damage to a player, tap target land that play
 msgstr ""
 
 #: ../../TSP.rst:724
-msgid ":mtgtip:`Mindlash Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/118.jpg?1517813031|https://scryfall.com/card/tsp/118/mindlash-sliver?utm_source=api>`"
+msgid ":mtgtip:`Mindlash Sliver<https://img.scryfall.com/cards/border_crop/front/f/8/f8c54575-dc1d-491c-a4f6-41f76eba2a2d.jpg?1562947635|https://scryfall.com/card/tsp/118/mindlash-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:723
@@ -1355,7 +1355,7 @@ msgid "All Slivers have \"|mana_1|, Sacrifice this permanent: Each player discar
 msgstr ""
 
 #: ../../TSP.rst:730
-msgid ":mtgtip:`Mindstab<https://img.scryfall.com/cards/border_crop/en/tsp/119.jpg?1517813031|https://scryfall.com/card/tsp/119/mindstab?utm_source=api>`"
+msgid ":mtgtip:`Mindstab<https://img.scryfall.com/cards/border_crop/front/3/e/3efd28ef-77db-4e7b-a69d-5a089e016737.jpg?1562908068|https://scryfall.com/card/tsp/119/mindstab?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:727
@@ -1367,7 +1367,7 @@ msgid "Suspend 4—|mana_b| (Rather than cast this card from your hand, you may 
 msgstr ""
 
 #: ../../TSP.rst:738
-msgid ":mtgtip:`Nether Traitor<https://img.scryfall.com/cards/border_crop/en/tsp/120.jpg?1517813031|https://scryfall.com/card/tsp/120/nether-traitor?utm_source=api>`"
+msgid ":mtgtip:`Nether Traitor<https://img.scryfall.com/cards/border_crop/front/9/1/911d2271-8998-4193-9d1a-1768c5dfaaad.jpg?1562925603|https://scryfall.com/card/tsp/120/nether-traitor?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:733
@@ -1379,7 +1379,7 @@ msgid "Whenever another creature is put into your graveyard from the battlefield
 msgstr ""
 
 #: ../../TSP.rst:746
-msgid ":mtgtip:`Nightshade Assassin<https://img.scryfall.com/cards/border_crop/en/tsp/121.jpg?1517813031|https://scryfall.com/card/tsp/121/nightshade-assassin?utm_source=api>`"
+msgid ":mtgtip:`Nightshade Assassin<https://img.scryfall.com/cards/border_crop/front/2/e/2e57492c-ca26-4f75-a27e-5c54967534ea.jpg?1562904752|https://scryfall.com/card/tsp/121/nightshade-assassin?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:741
@@ -1397,7 +1397,7 @@ msgid "Madness |mana_1|\\ |mana_b| (If you discard this card, discard it into ex
 msgstr ""
 
 #: ../../TSP.rst:752
-msgid ":mtgtip:`Phthisis<https://img.scryfall.com/cards/border_crop/en/tsp/122.jpg?1517813031|https://scryfall.com/card/tsp/122/phthisis?utm_source=api>`"
+msgid ":mtgtip:`Phthisis<https://img.scryfall.com/cards/border_crop/front/9/b/9ba55f16-a37c-4caa-9417-227a06cf4061.jpg?1562927843|https://scryfall.com/card/tsp/122/phthisis?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:749
@@ -1409,7 +1409,7 @@ msgid "Suspend 5—|mana_1|\\ |mana_b| (Rather than cast this card from your han
 msgstr ""
 
 #: ../../TSP.rst:756
-msgid ":mtgtip:`Pit Keeper<https://img.scryfall.com/cards/border_crop/en/tsp/123.jpg?1517813031|https://scryfall.com/card/tsp/123/pit-keeper?utm_source=api>`"
+msgid ":mtgtip:`Pit Keeper<https://img.scryfall.com/cards/border_crop/front/8/9/8936e767-0e48-4adb-93e9-790fe0cc19f2.jpg?1562924003|https://scryfall.com/card/tsp/123/pit-keeper?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:755
@@ -1417,7 +1417,7 @@ msgid "When Pit Keeper enters the battlefield, if you have four or more creature
 msgstr ""
 
 #: ../../TSP.rst:760
-msgid ":mtgtip:`Plague Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/124.jpg?1517813031|https://scryfall.com/card/tsp/124/plague-sliver?utm_source=api>`"
+msgid ":mtgtip:`Plague Sliver<https://img.scryfall.com/cards/border_crop/front/7/0/703d491e-b25f-44fa-8b76-b955a4e75ba5.jpg?1562918625|https://scryfall.com/card/tsp/124/plague-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:759
@@ -1425,7 +1425,7 @@ msgid "All Slivers have \"At the beginning of your upkeep, this permanent deals 
 msgstr ""
 
 #: ../../TSP.rst:764
-msgid ":mtgtip:`Premature Burial<https://img.scryfall.com/cards/border_crop/en/tsp/125.jpg?1517813031|https://scryfall.com/card/tsp/125/premature-burial?utm_source=api>`"
+msgid ":mtgtip:`Premature Burial<https://img.scryfall.com/cards/border_crop/front/e/9/e96cea6a-fea6-4a6b-84b2-7b57237be96a.jpg?1562944222|https://scryfall.com/card/tsp/125/premature-burial?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:763
@@ -1433,7 +1433,7 @@ msgid "Destroy target nonblack creature that entered the battlefield since your 
 msgstr ""
 
 #: ../../TSP.rst:770
-msgid ":mtgtip:`Psychotic Episode<https://img.scryfall.com/cards/border_crop/en/tsp/126.jpg?1517813031|https://scryfall.com/card/tsp/126/psychotic-episode?utm_source=api>`"
+msgid ":mtgtip:`Psychotic Episode<https://img.scryfall.com/cards/border_crop/front/5/e/5e61fbcd-b673-4d1d-bc38-a791a56a9aac.jpg?1562914760|https://scryfall.com/card/tsp/126/psychotic-episode?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:767
@@ -1441,7 +1441,7 @@ msgid "Target player reveals their hand and the top card of their library. You c
 msgstr ""
 
 #: ../../TSP.rst:774
-msgid ":mtgtip:`Sangrophage<https://img.scryfall.com/cards/border_crop/en/tsp/127.jpg?1517813031|https://scryfall.com/card/tsp/127/sangrophage?utm_source=api>`"
+msgid ":mtgtip:`Sangrophage<https://img.scryfall.com/cards/border_crop/front/a/b/ab9abc52-76f6-4b1f-8602-2e5abdd23b6b.jpg?1562931208|https://scryfall.com/card/tsp/127/sangrophage?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:773
@@ -1449,7 +1449,7 @@ msgid "At the beginning of your upkeep, tap Sangrophage unless you pay 2 life."
 msgstr ""
 
 #: ../../TSP.rst:780
-msgid ":mtgtip:`Sengir Nosferatu<https://img.scryfall.com/cards/border_crop/en/tsp/128.jpg?1517813031|https://scryfall.com/card/tsp/128/sengir-nosferatu?utm_source=api>`"
+msgid ":mtgtip:`Sengir Nosferatu<https://img.scryfall.com/cards/border_crop/front/3/c/3cd9cc4c-708b-41cb-9cac-fd6d8ce9922d.jpg?1562907623|https://scryfall.com/card/tsp/128/sengir-nosferatu?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:779
@@ -1457,7 +1457,7 @@ msgid "|mana_1|\\ |mana_b|, Exile Sengir Nosferatu: Create a 1/2 black Bat creat
 msgstr ""
 
 #: ../../TSP.rst:784
-msgid ":mtgtip:`Skittering Monstrosity<https://img.scryfall.com/cards/border_crop/en/tsp/129.jpg?1517813031|https://scryfall.com/card/tsp/129/skittering-monstrosity?utm_source=api>`"
+msgid ":mtgtip:`Skittering Monstrosity<https://img.scryfall.com/cards/border_crop/front/d/0/d0d21e39-b1dd-476d-86dc-4317858e4f8e.jpg?1562939184|https://scryfall.com/card/tsp/129/skittering-monstrosity?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:783
@@ -1465,7 +1465,7 @@ msgid "When you cast a creature spell, sacrifice Skittering Monstrosity."
 msgstr ""
 
 #: ../../TSP.rst:790
-msgid ":mtgtip:`Skulking Knight<https://img.scryfall.com/cards/border_crop/en/tsp/130.jpg?1517813031|https://scryfall.com/card/tsp/130/skulking-knight?utm_source=api>`"
+msgid ":mtgtip:`Skulking Knight<https://img.scryfall.com/cards/border_crop/front/a/7/a7f7927b-64ae-4448-9540-8d7bbe88c9cc.jpg?1562930394|https://scryfall.com/card/tsp/130/skulking-knight?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:789
@@ -1473,7 +1473,7 @@ msgid "When Skulking Knight becomes the target of a spell or ability, sacrifice 
 msgstr ""
 
 #: ../../TSP.rst:794
-msgid ":mtgtip:`Smallpox<https://img.scryfall.com/cards/border_crop/en/tsp/131.jpg?1517813031|https://scryfall.com/card/tsp/131/smallpox?utm_source=api>`"
+msgid ":mtgtip:`Smallpox<https://img.scryfall.com/cards/border_crop/front/1/7/175d5a88-2597-4e85-aed6-7a65c0595fb4.jpg?1562899952|https://scryfall.com/card/tsp/131/smallpox?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:793
@@ -1481,7 +1481,7 @@ msgid "Each player loses 1 life, discards a card, sacrifices a creature, then sa
 msgstr ""
 
 #: ../../TSP.rst:800
-msgid ":mtgtip:`Strangling Soot<https://img.scryfall.com/cards/border_crop/en/tsp/132.jpg?1517813031|https://scryfall.com/card/tsp/132/strangling-soot?utm_source=api>`"
+msgid ":mtgtip:`Strangling Soot<https://img.scryfall.com/cards/border_crop/front/6/7/6723e552-baf5-4b6a-8af6-843fd8597f6c.jpg?1562916570|https://scryfall.com/card/tsp/132/strangling-soot?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:797
@@ -1493,7 +1493,7 @@ msgid "Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard
 msgstr ""
 
 #: ../../TSP.rst:808
-msgid ":mtgtip:`Stronghold Overseer<https://img.scryfall.com/cards/border_crop/en/tsp/133.jpg?1517813031|https://scryfall.com/card/tsp/133/stronghold-overseer?utm_source=api>`"
+msgid ":mtgtip:`Stronghold Overseer<https://img.scryfall.com/cards/border_crop/front/e/0/e0722fa2-53df-4217-a592-fcaf239f717a.jpg?1562942318|https://scryfall.com/card/tsp/133/stronghold-overseer?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:807
@@ -1501,7 +1501,7 @@ msgid "|mana_b|\\ |mana_b|: Creatures with shadow get +1/+0 until end of turn an
 msgstr ""
 
 #: ../../TSP.rst:814
-msgid ":mtgtip:`Sudden Death<https://img.scryfall.com/cards/border_crop/en/tsp/134.jpg?1517813031|https://scryfall.com/card/tsp/134/sudden-death?utm_source=api>`"
+msgid ":mtgtip:`Sudden Death<https://img.scryfall.com/cards/border_crop/front/1/6/16e889c4-105b-4f4e-8a3d-ace753a24a4e.jpg?1562899824|https://scryfall.com/card/tsp/134/sudden-death?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:813
@@ -1509,7 +1509,7 @@ msgid "Target creature gets -4/-4 until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:820
-msgid ":mtgtip:`Sudden Spoiling<https://img.scryfall.com/cards/border_crop/en/tsp/135.jpg?1517813031|https://scryfall.com/card/tsp/135/sudden-spoiling?utm_source=api>`"
+msgid ":mtgtip:`Sudden Spoiling<https://img.scryfall.com/cards/border_crop/front/9/f/9f89f1e4-4d55-48b8-bf81-54cfd34f4aa0.jpg?1562928701|https://scryfall.com/card/tsp/135/sudden-spoiling?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:819
@@ -1517,7 +1517,7 @@ msgid "Until end of turn, creatures target player controls lose all abilities an
 msgstr ""
 
 #: ../../TSP.rst:824
-msgid ":mtgtip:`Tendrils of Corruption<https://img.scryfall.com/cards/border_crop/en/tsp/136.jpg?1517813031|https://scryfall.com/card/tsp/136/tendrils-of-corruption?utm_source=api>`"
+msgid ":mtgtip:`Tendrils of Corruption<https://img.scryfall.com/cards/border_crop/front/7/f/7f61db9e-ef88-4dc8-b90c-1f8b2d7e9bb9.jpg?1562921865|https://scryfall.com/card/tsp/136/tendrils-of-corruption?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:823
@@ -1525,7 +1525,7 @@ msgid "Tendrils of Corruption deals X damage to target creature and you gain X l
 msgstr ""
 
 #: ../../TSP.rst:830
-msgid ":mtgtip:`Traitor's Clutch<https://img.scryfall.com/cards/border_crop/en/tsp/137.jpg?1517813031|https://scryfall.com/card/tsp/137/traitors-clutch?utm_source=api>`"
+msgid ":mtgtip:`Traitor's Clutch<https://img.scryfall.com/cards/border_crop/front/6/3/6313a601-5d26-487b-a70c-2c7184b7cc91.jpg?1562915705|https://scryfall.com/card/tsp/137/traitors-clutch?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:827
@@ -1537,7 +1537,7 @@ msgid "Flashback |mana_1|\\ |mana_b| (You may cast this card from your graveyard
 msgstr ""
 
 #: ../../TSP.rst:834
-msgid ":mtgtip:`Trespasser il-Vec<https://img.scryfall.com/cards/border_crop/en/tsp/138.jpg?1517813031|https://scryfall.com/card/tsp/138/trespasser-il-vec?utm_source=api>`"
+msgid ":mtgtip:`Trespasser il-Vec<https://img.scryfall.com/cards/border_crop/front/4/9/4903171e-76b2-437d-8965-e871e47a3482.jpg?1562910234|https://scryfall.com/card/tsp/138/trespasser-il-vec?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:833
@@ -1545,7 +1545,7 @@ msgid "Discard a card: Trespasser il-Vec gains shadow until end of turn. (It can
 msgstr ""
 
 #: ../../TSP.rst:838
-msgid ":mtgtip:`Urborg Syphon-Mage<https://img.scryfall.com/cards/border_crop/en/tsp/139.jpg?1517813031|https://scryfall.com/card/tsp/139/urborg-syphon-mage?utm_source=api>`"
+msgid ":mtgtip:`Urborg Syphon-Mage<https://img.scryfall.com/cards/border_crop/front/0/e/0e8376f6-5c26-4b87-b226-960466e16cb0.jpg?1562897982|https://scryfall.com/card/tsp/139/urborg-syphon-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:837
@@ -1553,7 +1553,7 @@ msgid "|mana_2|\\ |mana_b|, |tap|, Discard a card: Each other player loses 2 lif
 msgstr ""
 
 #: ../../TSP.rst:842
-msgid ":mtgtip:`Vampiric Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/140.jpg?1517813031|https://scryfall.com/card/tsp/140/vampiric-sliver?utm_source=api>`"
+msgid ":mtgtip:`Vampiric Sliver<https://img.scryfall.com/cards/border_crop/front/2/8/28c56db1-bb2d-4383-90aa-72d00fe476b2.jpg?1562903641|https://scryfall.com/card/tsp/140/vampiric-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:841
@@ -1561,7 +1561,7 @@ msgid "All Sliver creatures have \"Whenever a creature dealt damage by this crea
 msgstr ""
 
 #: ../../TSP.rst:846
-msgid ":mtgtip:`Viscid Lemures<https://img.scryfall.com/cards/border_crop/en/tsp/141.jpg?1517813031|https://scryfall.com/card/tsp/141/viscid-lemures?utm_source=api>`"
+msgid ":mtgtip:`Viscid Lemures<https://img.scryfall.com/cards/border_crop/front/8/6/863f04d7-da34-41e3-9153-97891a428889.jpg?1562923311|https://scryfall.com/card/tsp/141/viscid-lemures?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:845
@@ -1569,7 +1569,7 @@ msgid "|mana_0|: Viscid Lemures gets -1/-0 and gains swampwalk until end of turn
 msgstr ""
 
 #: ../../TSP.rst:854
-msgid ":mtgtip:`Aetherflame Wall<https://img.scryfall.com/cards/border_crop/en/tsp/142.jpg?1517813031|https://scryfall.com/card/tsp/142/aetherflame-wall?utm_source=api>`"
+msgid ":mtgtip:`Aetherflame Wall<https://img.scryfall.com/cards/border_crop/front/9/3/93b14f08-dd93-4a9f-a616-8f8d0b26b966.jpg?1562926239|https://scryfall.com/card/tsp/142/aetherflame-wall?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:851
@@ -1581,7 +1581,7 @@ msgid "|mana_r|: Aetherflame Wall gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:860
-msgid ":mtgtip:`Ancient Grudge<https://img.scryfall.com/cards/border_crop/en/tsp/143.jpg?1517813031|https://scryfall.com/card/tsp/143/ancient-grudge?utm_source=api>`"
+msgid ":mtgtip:`Ancient Grudge<https://img.scryfall.com/cards/border_crop/front/8/9/89cbad1f-4f16-4d5f-a485-5bf950565216.jpg?1562924120|https://scryfall.com/card/tsp/143/ancient-grudge?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:857
@@ -1593,7 +1593,7 @@ msgid "Flashback |mana_g| (You may cast this card from your graveyard for its fl
 msgstr ""
 
 #: ../../TSP.rst:866
-msgid ":mtgtip:`Barbed Shocker<https://img.scryfall.com/cards/border_crop/en/tsp/144.jpg?1517813031|https://scryfall.com/card/tsp/144/barbed-shocker?utm_source=api>`"
+msgid ":mtgtip:`Barbed Shocker<https://img.scryfall.com/cards/border_crop/front/4/1/41b6f45a-7219-4b59-bf0a-9e374599ae5e.jpg?1562908597|https://scryfall.com/card/tsp/144/barbed-shocker?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:863
@@ -1605,7 +1605,7 @@ msgid "Whenever Barbed Shocker deals damage to a player, that player discards al
 msgstr ""
 
 #: ../../TSP.rst:874
-msgid ":mtgtip:`Basalt Gargoyle<https://img.scryfall.com/cards/border_crop/en/tsp/145.jpg?1517813031|https://scryfall.com/card/tsp/145/basalt-gargoyle?utm_source=api>`"
+msgid ":mtgtip:`Basalt Gargoyle<https://img.scryfall.com/cards/border_crop/front/f/3/f34945e1-b982-48a0-8c03-9b97c13cc73d.jpg?1562946388|https://scryfall.com/card/tsp/145/basalt-gargoyle?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:871
@@ -1617,7 +1617,7 @@ msgid "|mana_r|: Basalt Gargoyle gets +0/+1 until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:880
-msgid ":mtgtip:`Blazing Blade Askari<https://img.scryfall.com/cards/border_crop/en/tsp/146.jpg?1517813031|https://scryfall.com/card/tsp/146/blazing-blade-askari?utm_source=api>`"
+msgid ":mtgtip:`Blazing Blade Askari<https://img.scryfall.com/cards/border_crop/front/c/a/cabf35d5-de8a-4d9d-be59-7ad7039873c6.jpg?1562937828|https://scryfall.com/card/tsp/146/blazing-blade-askari?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:879
@@ -1625,7 +1625,7 @@ msgid "|mana_2|: Blazing Blade Askari becomes colorless until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:888
-msgid ":mtgtip:`Bogardan Hellkite<https://img.scryfall.com/cards/border_crop/en/tsp/147.jpg?1517813031|https://scryfall.com/card/tsp/147/bogardan-hellkite?utm_source=api>`"
+msgid ":mtgtip:`Bogardan Hellkite<https://img.scryfall.com/cards/border_crop/front/5/8/5852f528-92aa-45cf-8436-5774691676d3.jpg?1562913435|https://scryfall.com/card/tsp/147/bogardan-hellkite?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:883
@@ -1637,7 +1637,7 @@ msgid "When Bogardan Hellkite enters the battlefield, it deals 5 damage divided 
 msgstr ""
 
 #: ../../TSP.rst:894
-msgid ":mtgtip:`Bogardan Rager<https://img.scryfall.com/cards/border_crop/en/tsp/148.jpg?1517813031|https://scryfall.com/card/tsp/148/bogardan-rager?utm_source=api>`"
+msgid ":mtgtip:`Bogardan Rager<https://img.scryfall.com/cards/border_crop/front/e/c/ec53d26b-ad3e-474f-a374-05fcdc00e49c.jpg?1562944874|https://scryfall.com/card/tsp/148/bogardan-rager?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:893
@@ -1645,7 +1645,7 @@ msgid "When Bogardan Rager enters the battlefield, target creature gets +4/+0 un
 msgstr ""
 
 #: ../../TSP.rst:898
-msgid ":mtgtip:`Bonesplitter Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/149.jpg?1517813031|https://scryfall.com/card/tsp/149/bonesplitter-sliver?utm_source=api>`"
+msgid ":mtgtip:`Bonesplitter Sliver<https://img.scryfall.com/cards/border_crop/front/7/0/705e29c5-2d9b-44ad-a04c-9a62dd74eb12.jpg?1562918642|https://scryfall.com/card/tsp/149/bonesplitter-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:897
@@ -1653,7 +1653,7 @@ msgid "All Sliver creatures get +2/+0."
 msgstr ""
 
 #: ../../TSP.rst:902
-msgid ":mtgtip:`Coal Stoker<https://img.scryfall.com/cards/border_crop/en/tsp/150.jpg?1517813031|https://scryfall.com/card/tsp/150/coal-stoker?utm_source=api>`"
+msgid ":mtgtip:`Coal Stoker<https://img.scryfall.com/cards/border_crop/front/3/a/3a6bdc34-1ef6-4de3-a9a9-b5dd503e02c0.jpg?1562907178|https://scryfall.com/card/tsp/150/coal-stoker?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:901
@@ -1661,7 +1661,7 @@ msgid "When Coal Stoker enters the battlefield, if you cast it from your hand, a
 msgstr ""
 
 #: ../../TSP.rst:908
-msgid ":mtgtip:`Conflagrate<https://img.scryfall.com/cards/border_crop/en/tsp/151.jpg?1517813031|https://scryfall.com/card/tsp/151/conflagrate?utm_source=api>`"
+msgid ":mtgtip:`Conflagrate<https://img.scryfall.com/cards/border_crop/front/e/f/efc5f7fb-b7a6-433d-a0bb-240c7aa0a720.jpg?1562945584|https://scryfall.com/card/tsp/151/conflagrate?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:905
@@ -1673,7 +1673,7 @@ msgid "Flashback—|mana_r|\\ |mana_r|, Discard X cards. (You may cast this card
 msgstr ""
 
 #: ../../TSP.rst:914
-msgid ":mtgtip:`Empty the Warrens<https://img.scryfall.com/cards/border_crop/en/tsp/152.jpg?1517813031|https://scryfall.com/card/tsp/152/empty-the-warrens?utm_source=api>`"
+msgid ":mtgtip:`Empty the Warrens<https://img.scryfall.com/cards/border_crop/front/9/5/952bb27c-c58a-478a-b637-eb4f7e1e0ab4.jpg?1562926552|https://scryfall.com/card/tsp/152/empty-the-warrens?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:911
@@ -1685,7 +1685,7 @@ msgid "Storm (When you cast this spell, copy it for each spell cast before it th
 msgstr ""
 
 #: ../../TSP.rst:922
-msgid ":mtgtip:`Firemaw Kavu<https://img.scryfall.com/cards/border_crop/en/tsp/153.jpg?1517813031|https://scryfall.com/card/tsp/153/firemaw-kavu?utm_source=api>`"
+msgid ":mtgtip:`Firemaw Kavu<https://img.scryfall.com/cards/border_crop/front/d/5/d592bc85-41ca-48a4-b35a-4d86c8e76d54.jpg?1562940196|https://scryfall.com/card/tsp/153/firemaw-kavu?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:917
@@ -1701,7 +1701,7 @@ msgid "When Firemaw Kavu leaves the battlefield, it deals 4 damage to target cre
 msgstr ""
 
 #: ../../TSP.rst:926
-msgid ":mtgtip:`Flamecore Elemental<https://img.scryfall.com/cards/border_crop/en/tsp/154.jpg?1517813031|https://scryfall.com/card/tsp/154/flamecore-elemental?utm_source=api>`"
+msgid ":mtgtip:`Flamecore Elemental<https://img.scryfall.com/cards/border_crop/front/9/4/940bfe4f-bc18-4506-b6f4-13d339fd3e55.jpg?1562926324|https://scryfall.com/card/tsp/154/flamecore-elemental?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:925
@@ -1709,7 +1709,7 @@ msgid "Echo |mana_2|\\ |mana_r|\\ |mana_r| (At the beginning of your upkeep, if 
 msgstr ""
 
 #: ../../TSP.rst:930
-msgid ":mtgtip:`Flowstone Channeler<https://img.scryfall.com/cards/border_crop/en/tsp/155.jpg?1517813031|https://scryfall.com/card/tsp/155/flowstone-channeler?utm_source=api>`"
+msgid ":mtgtip:`Flowstone Channeler<https://img.scryfall.com/cards/border_crop/front/9/f/9f10fa1c-2c7b-49ba-87b6-3b652b65704d.jpg?1562928611|https://scryfall.com/card/tsp/155/flowstone-channeler?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:929
@@ -1717,7 +1717,7 @@ msgid "|mana_1|\\ |mana_r|, |tap|, Discard a card: Target creature gets +1/-1 an
 msgstr ""
 
 #: ../../TSP.rst:936
-msgid ":mtgtip:`Fortune Thief<https://img.scryfall.com/cards/border_crop/en/tsp/156.jpg?1517813031|https://scryfall.com/card/tsp/156/fortune-thief?utm_source=api>`"
+msgid ":mtgtip:`Fortune Thief<https://img.scryfall.com/cards/border_crop/front/c/8/c893bbb7-0589-4544-a488-f84f9aa1d058.jpg?1562937382|https://scryfall.com/card/tsp/156/fortune-thief?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:933
@@ -1729,7 +1729,7 @@ msgid "Morph |mana_r|\\ |mana_r| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../TSP.rst:940
-msgid ":mtgtip:`Fury Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/157.jpg?1517813031|https://scryfall.com/card/tsp/157/fury-sliver?utm_source=api>`"
+msgid ":mtgtip:`Fury Sliver<https://img.scryfall.com/cards/border_crop/front/0/0/0000579f-7b35-4ed3-b44c-db2a538066fe.jpg?1562894979|https://scryfall.com/card/tsp/157/fury-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:939
@@ -1737,7 +1737,7 @@ msgid "All Sliver creatures have double strike."
 msgstr ""
 
 #: ../../TSP.rst:950
-msgid ":mtgtip:`Ghitu Firebreathing<https://img.scryfall.com/cards/border_crop/en/tsp/158.jpg?1517813031|https://scryfall.com/card/tsp/158/ghitu-firebreathing?utm_source=api>`"
+msgid ":mtgtip:`Ghitu Firebreathing<https://img.scryfall.com/cards/border_crop/front/9/0/9098b989-072a-4e5b-8972-22c61645c5bb.jpg?1562925466|https://scryfall.com/card/tsp/158/ghitu-firebreathing?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:947
@@ -1749,7 +1749,7 @@ msgid "|mana_r|: Return Ghitu Firebreathing to its owner's hand."
 msgstr ""
 
 #: ../../TSP.rst:954
-msgid ":mtgtip:`Goblin Skycutter<https://img.scryfall.com/cards/border_crop/en/tsp/159.jpg?1517813031|https://scryfall.com/card/tsp/159/goblin-skycutter?utm_source=api>`"
+msgid ":mtgtip:`Goblin Skycutter<https://img.scryfall.com/cards/border_crop/front/c/4/c45406cd-a036-45d5-a0fb-3c195d40d746.jpg?1562936514|https://scryfall.com/card/tsp/159/goblin-skycutter?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:953
@@ -1757,7 +1757,7 @@ msgid "Sacrifice Goblin Skycutter: It deals 2 damage to target creature with fly
 msgstr ""
 
 #: ../../TSP.rst:960
-msgid ":mtgtip:`Grapeshot<https://img.scryfall.com/cards/border_crop/en/tsp/160.jpg?1517813031|https://scryfall.com/card/tsp/160/grapeshot?utm_source=api>`"
+msgid ":mtgtip:`Grapeshot<https://img.scryfall.com/cards/border_crop/front/4/e/4ee33cb6-768e-44a0-b6f4-b8638aa84330.jpg?1562911525|https://scryfall.com/card/tsp/160/grapeshot?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:957
@@ -1772,7 +1772,7 @@ msgid "Storm (When you cast this spell, copy it for each spell cast before it th
 msgstr ""
 
 #: ../../TSP.rst:966
-msgid ":mtgtip:`Greater Gargadon<https://img.scryfall.com/cards/border_crop/en/tsp/161.jpg?1517813031|https://scryfall.com/card/tsp/161/greater-gargadon?utm_source=api>`"
+msgid ":mtgtip:`Greater Gargadon<https://img.scryfall.com/cards/border_crop/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.jpg?1562916161|https://scryfall.com/card/tsp/161/greater-gargadon?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:963
@@ -1784,7 +1784,7 @@ msgid "Sacrifice an artifact, creature, or land: Remove a time counter from Grea
 msgstr ""
 
 #: ../../TSP.rst:972
-msgid ":mtgtip:`Ground Rift<https://img.scryfall.com/cards/border_crop/en/tsp/162.jpg?1517813031|https://scryfall.com/card/tsp/162/ground-rift?utm_source=api>`"
+msgid ":mtgtip:`Ground Rift<https://img.scryfall.com/cards/border_crop/front/6/2/62333783-6a18-4461-88ce-1c37eaf64e2b.jpg?1562915487|https://scryfall.com/card/tsp/162/ground-rift?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:969
@@ -1792,7 +1792,7 @@ msgid "Target creature without flying can't block this turn."
 msgstr ""
 
 #: ../../TSP.rst:978
-msgid ":mtgtip:`Ib Halfheart, Goblin Tactician<https://img.scryfall.com/cards/border_crop/en/tsp/163.jpg?1517813031|https://scryfall.com/card/tsp/163/ib-halfheart-goblin-tactician?utm_source=api>`"
+msgid ":mtgtip:`Ib Halfheart, Goblin Tactician<https://img.scryfall.com/cards/border_crop/front/3/8/38134389-b471-4f58-a9ae-26bf9dc1557a.jpg?1562906791|https://scryfall.com/card/tsp/163/ib-halfheart-goblin-tactician?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:975
@@ -1804,7 +1804,7 @@ msgid "Sacrifice two Mountains: Create two 1/1 red Goblin creature tokens."
 msgstr ""
 
 #: ../../TSP.rst:984
-msgid ":mtgtip:`Ignite Memories<https://img.scryfall.com/cards/border_crop/en/tsp/164.jpg?1517813031|https://scryfall.com/card/tsp/164/ignite-memories?utm_source=api>`"
+msgid ":mtgtip:`Ignite Memories<https://img.scryfall.com/cards/border_crop/front/2/f/2f7b7831-27a1-4c0a-8ed1-6dddf2754d65.jpg?1562904991|https://scryfall.com/card/tsp/164/ignite-memories?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:981
@@ -1812,7 +1812,7 @@ msgid "Target player reveals a card at random from their hand. Ignite Memories d
 msgstr ""
 
 #: ../../TSP.rst:990
-msgid ":mtgtip:`Ironclaw Buzzardiers<https://img.scryfall.com/cards/border_crop/en/tsp/165.jpg?1517813031|https://scryfall.com/card/tsp/165/ironclaw-buzzardiers?utm_source=api>`"
+msgid ":mtgtip:`Ironclaw Buzzardiers<https://img.scryfall.com/cards/border_crop/front/b/0/b07e37ea-aa8d-4443-9af6-4351994bc00c.jpg?1562932237|https://scryfall.com/card/tsp/165/ironclaw-buzzardiers?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:987
@@ -1824,7 +1824,7 @@ msgid "|mana_r|: Ironclaw Buzzardiers gains flying until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:998
-msgid ":mtgtip:`Jaya Ballard, Task Mage<https://img.scryfall.com/cards/border_crop/en/tsp/166.jpg?1517813031|https://scryfall.com/card/tsp/166/jaya-ballard-task-mage?utm_source=api>`"
+msgid ":mtgtip:`Jaya Ballard, Task Mage<https://img.scryfall.com/cards/border_crop/front/a/1/a1f85b2a-7836-4058-87a5-859c4311a7e4.jpg?1562929164|https://scryfall.com/card/tsp/166/jaya-ballard-task-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:993
@@ -1840,7 +1840,7 @@ msgid "|mana_5|\\ |mana_r|\\ |mana_r|, |tap|, Discard a card: Jaya Ballard deals
 msgstr ""
 
 #: ../../TSP.rst:1004
-msgid ":mtgtip:`Keldon Halberdier<https://img.scryfall.com/cards/border_crop/en/tsp/167.jpg?1517813031|https://scryfall.com/card/tsp/167/keldon-halberdier?utm_source=api>`"
+msgid ":mtgtip:`Keldon Halberdier<https://img.scryfall.com/cards/border_crop/front/a/9/a90723e0-fbb3-4976-9463-0373f8ed337c.jpg?1562930627|https://scryfall.com/card/tsp/167/keldon-halberdier?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1003
@@ -1848,7 +1848,7 @@ msgid "Suspend 4—|mana_r| (Rather than cast this card from your hand, you may 
 msgstr ""
 
 #: ../../TSP.rst:1010
-msgid ":mtgtip:`Lightning Axe<https://img.scryfall.com/cards/border_crop/en/tsp/168.jpg?1517813031|https://scryfall.com/card/tsp/168/lightning-axe?utm_source=api>`"
+msgid ":mtgtip:`Lightning Axe<https://img.scryfall.com/cards/border_crop/front/1/b/1b748290-04b0-48a9-81aa-ab43182cf339.jpg?1562900761|https://scryfall.com/card/tsp/168/lightning-axe?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1007
@@ -1860,7 +1860,7 @@ msgid "Lightning Axe deals 5 damage to target creature."
 msgstr ""
 
 #: ../../TSP.rst:1014
-msgid ":mtgtip:`Magus of the Scroll<https://img.scryfall.com/cards/border_crop/en/tsp/169.jpg?1517813031|https://scryfall.com/card/tsp/169/magus-of-the-scroll?utm_source=api>`"
+msgid ":mtgtip:`Magus of the Scroll<https://img.scryfall.com/cards/border_crop/front/6/0/6060cada-52bf-4ef2-8a26-8ba04dded458.jpg?1562915126|https://scryfall.com/card/tsp/169/magus-of-the-scroll?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1013
@@ -1868,7 +1868,7 @@ msgid "|mana_3|, |tap|: Choose a card name, then reveal a card at random from yo
 msgstr ""
 
 #: ../../TSP.rst:1020
-msgid ":mtgtip:`Mogg War Marshal<https://img.scryfall.com/cards/border_crop/en/tsp/170.jpg?1517813031|https://scryfall.com/card/tsp/170/mogg-war-marshal?utm_source=api>`"
+msgid ":mtgtip:`Mogg War Marshal<https://img.scryfall.com/cards/border_crop/front/8/b/8b9e0bdb-b615-447a-b80d-d7244c25c56e.jpg?1562924530|https://scryfall.com/card/tsp/170/mogg-war-marshal?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1017
@@ -1880,7 +1880,7 @@ msgid "When Mogg War Marshal enters the battlefield or dies, create a 1/1 red Go
 msgstr ""
 
 #: ../../TSP.rst:1024
-msgid ":mtgtip:`Norin the Wary<https://img.scryfall.com/cards/border_crop/en/tsp/171.jpg?1517813031|https://scryfall.com/card/tsp/171/norin-the-wary?utm_source=api>`"
+msgid ":mtgtip:`Norin the Wary<https://img.scryfall.com/cards/border_crop/front/f/6/f61ea59a-1db0-4e6b-bcde-19787c76a49b.jpg?1562946915|https://scryfall.com/card/tsp/171/norin-the-wary?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1023
@@ -1888,7 +1888,7 @@ msgid "When a player casts a spell or a creature attacks, exile Norin the Wary. 
 msgstr ""
 
 #: ../../TSP.rst:1030
-msgid ":mtgtip:`Orcish Cannonade<https://img.scryfall.com/cards/border_crop/en/tsp/172.jpg?1517813031|https://scryfall.com/card/tsp/172/orcish-cannonade?utm_source=api>`"
+msgid ":mtgtip:`Orcish Cannonade<https://img.scryfall.com/cards/border_crop/front/4/e/4e40f99c-9608-4463-8c6f-c6e142f0d716.jpg?1562911399|https://scryfall.com/card/tsp/172/orcish-cannonade?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1027
@@ -1896,7 +1896,7 @@ msgid "Orcish Cannonade deals 2 damage to any target and 3 damage to you."
 msgstr ""
 
 #: ../../TSP.rst:1040
-msgid ":mtgtip:`Pardic Dragon<https://img.scryfall.com/cards/border_crop/en/tsp/173.jpg?1517813031|https://scryfall.com/card/tsp/173/pardic-dragon?utm_source=api>`"
+msgid ":mtgtip:`Pardic Dragon<https://img.scryfall.com/cards/border_crop/front/a/d/ad47d954-dda8-412a-b69b-a213bbd2f309.jpg?1562931588|https://scryfall.com/card/tsp/173/pardic-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1035
@@ -1912,7 +1912,7 @@ msgid "Whenever an opponent casts a spell, if Pardic Dragon is suspended, that p
 msgstr ""
 
 #: ../../TSP.rst:1046
-msgid ":mtgtip:`Plunder<https://img.scryfall.com/cards/border_crop/en/tsp/174.jpg?1517813031|https://scryfall.com/card/tsp/174/plunder?utm_source=api>`"
+msgid ":mtgtip:`Plunder<https://img.scryfall.com/cards/border_crop/front/7/9/79cff220-b1a6-4da6-b765-25a583b33de2.jpg?1562920606|https://scryfall.com/card/tsp/174/plunder?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1043
@@ -1924,7 +1924,7 @@ msgid "Suspend 4—|mana_1|\\ |mana_r| (Rather than cast this card from your han
 msgstr ""
 
 #: ../../TSP.rst:1052
-msgid ":mtgtip:`Reiterate<https://img.scryfall.com/cards/border_crop/en/tsp/175.jpg?1517813031|https://scryfall.com/card/tsp/175/reiterate?utm_source=api>`"
+msgid ":mtgtip:`Reiterate<https://img.scryfall.com/cards/border_crop/front/4/b/4bc2151b-acec-4237-8f6f-ed97055f3bb9.jpg?1562910881|https://scryfall.com/card/tsp/175/reiterate?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1051
@@ -1932,7 +1932,7 @@ msgid "Copy target instant or sorcery spell. You may choose new targets for the 
 msgstr ""
 
 #: ../../TSP.rst:1058
-msgid ":mtgtip:`Rift Bolt<https://img.scryfall.com/cards/border_crop/en/tsp/176.jpg?1517813031|https://scryfall.com/card/tsp/176/rift-bolt?utm_source=api>`"
+msgid ":mtgtip:`Rift Bolt<https://img.scryfall.com/cards/border_crop/front/8/8/88dde96e-6824-4d26-9fb5-86b9f3c50959.jpg?1562923901|https://scryfall.com/card/tsp/176/rift-bolt?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1055
@@ -1944,7 +1944,7 @@ msgid "Suspend 1—|mana_r| (Rather than cast this card from your hand, you may 
 msgstr ""
 
 #: ../../TSP.rst:1064
-msgid ":mtgtip:`Sedge Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/177.jpg?1517813031|https://scryfall.com/card/tsp/177/sedge-sliver?utm_source=api>`"
+msgid ":mtgtip:`Sedge Sliver<https://img.scryfall.com/cards/border_crop/front/1/8/18dc8d7e-745c-46ba-842c-526f1beb89a7.jpg?1562900277|https://scryfall.com/card/tsp/177/sedge-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1061
@@ -1956,7 +1956,7 @@ msgid "All Slivers have \"|mana_b|: Regenerate this permanent.\""
 msgstr ""
 
 #: ../../TSP.rst:1070
-msgid ":mtgtip:`Subterranean Shambler<https://img.scryfall.com/cards/border_crop/en/tsp/178.jpg?1517813031|https://scryfall.com/card/tsp/178/subterranean-shambler?utm_source=api>`"
+msgid ":mtgtip:`Subterranean Shambler<https://img.scryfall.com/cards/border_crop/front/f/9/f9429ec0-ff23-494d-ab1c-b88f3a0dee1b.jpg?1562947735|https://scryfall.com/card/tsp/178/subterranean-shambler?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1067
@@ -1968,7 +1968,7 @@ msgid "When Subterranean Shambler enters the battlefield or leaves the battlefie
 msgstr ""
 
 #: ../../TSP.rst:1076
-msgid ":mtgtip:`Sudden Shock<https://img.scryfall.com/cards/border_crop/en/tsp/179.jpg?1517813031|https://scryfall.com/card/tsp/179/sudden-shock?utm_source=api>`"
+msgid ":mtgtip:`Sudden Shock<https://img.scryfall.com/cards/border_crop/front/7/d/7d2691ee-8eec-437d-9bc1-113264525fb8.jpg?1562921362|https://scryfall.com/card/tsp/179/sudden-shock?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1075
@@ -1976,7 +1976,7 @@ msgid "Sudden Shock deals 2 damage to any target."
 msgstr ""
 
 #: ../../TSP.rst:1080
-msgid ":mtgtip:`Sulfurous Blast<https://img.scryfall.com/cards/border_crop/en/tsp/180.jpg?1517813031|https://scryfall.com/card/tsp/180/sulfurous-blast?utm_source=api>`"
+msgid ":mtgtip:`Sulfurous Blast<https://img.scryfall.com/cards/border_crop/front/6/7/67511e0e-be09-4f4e-9949-b9ecbdc7f536.jpg?1562916599|https://scryfall.com/card/tsp/180/sulfurous-blast?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1079
@@ -1984,7 +1984,7 @@ msgid "Sulfurous Blast deals 2 damage to each creature and each player. If you c
 msgstr ""
 
 #: ../../TSP.rst:1086
-msgid ":mtgtip:`Tectonic Fiend<https://img.scryfall.com/cards/border_crop/en/tsp/181.jpg?1517813031|https://scryfall.com/card/tsp/181/tectonic-fiend?utm_source=api>`"
+msgid ":mtgtip:`Tectonic Fiend<https://img.scryfall.com/cards/border_crop/front/9/c/9c8aaf09-312f-4c82-9e0a-bd797e7f26c3.jpg?1562928015|https://scryfall.com/card/tsp/181/tectonic-fiend?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1083
@@ -1996,7 +1996,7 @@ msgid "Tectonic Fiend attacks each combat if able."
 msgstr ""
 
 #: ../../TSP.rst:1092
-msgid ":mtgtip:`Thick-Skinned Goblin<https://img.scryfall.com/cards/border_crop/en/tsp/182.jpg?1517813031|https://scryfall.com/card/tsp/182/thick-skinned-goblin?utm_source=api>`"
+msgid ":mtgtip:`Thick-Skinned Goblin<https://img.scryfall.com/cards/border_crop/front/5/b/5b1a82da-ae5c-4f3d-8aa0-4bd3de7bf0b6.jpg?1562914015|https://scryfall.com/card/tsp/182/thick-skinned-goblin?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1089
@@ -2008,7 +2008,7 @@ msgid "|mana_r|: Thick-Skinned Goblin gains protection from red until end of tur
 msgstr ""
 
 #: ../../TSP.rst:1096
-msgid ":mtgtip:`Two-Headed Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/183.jpg?1517813031|https://scryfall.com/card/tsp/183/two-headed-sliver?utm_source=api>`"
+msgid ":mtgtip:`Two-Headed Sliver<https://img.scryfall.com/cards/border_crop/front/2/f/2f89fb3b-0238-4d76-a46d-7d6fa4a74620.jpg?1562904999|https://scryfall.com/card/tsp/183/two-headed-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1095
@@ -2016,7 +2016,7 @@ msgid "All Sliver creatures have menace. (They can't be blocked except by two or
 msgstr ""
 
 #: ../../TSP.rst:1104
-msgid ":mtgtip:`Undying Rage<https://img.scryfall.com/cards/border_crop/en/tsp/184.jpg?1517813031|https://scryfall.com/card/tsp/184/undying-rage?utm_source=api>`"
+msgid ":mtgtip:`Undying Rage<https://img.scryfall.com/cards/border_crop/front/4/f/4f7ff7d2-a8f1-4ce4-acad-828ef36afe07.jpg?1562911651|https://scryfall.com/card/tsp/184/undying-rage?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1101
@@ -2028,7 +2028,7 @@ msgid "When Undying Rage is put into a graveyard from the battlefield, return Un
 msgstr ""
 
 #: ../../TSP.rst:1110
-msgid ":mtgtip:`Viashino Bladescout<https://img.scryfall.com/cards/border_crop/en/tsp/185.jpg?1517813031|https://scryfall.com/card/tsp/185/viashino-bladescout?utm_source=api>`"
+msgid ":mtgtip:`Viashino Bladescout<https://img.scryfall.com/cards/border_crop/front/4/1/41fce1b3-0961-4672-845f-e1c6ce101c1b.jpg?1562908629|https://scryfall.com/card/tsp/185/viashino-bladescout?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1109
@@ -2036,7 +2036,7 @@ msgid "When Viashino Bladescout enters the battlefield, target creature gains fi
 msgstr ""
 
 #: ../../TSP.rst:1116
-msgid ":mtgtip:`Volcanic Awakening<https://img.scryfall.com/cards/border_crop/en/tsp/186.jpg?1517813031|https://scryfall.com/card/tsp/186/volcanic-awakening?utm_source=api>`"
+msgid ":mtgtip:`Volcanic Awakening<https://img.scryfall.com/cards/border_crop/front/a/e/aebd5c57-cfc8-4a3c-b4a2-0cd64a5e3575.jpg?1562931896|https://scryfall.com/card/tsp/186/volcanic-awakening?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1113
@@ -2044,7 +2044,7 @@ msgid "Destroy target land."
 msgstr ""
 
 #: ../../TSP.rst:1122
-msgid ":mtgtip:`Wheel of Fate<https://img.scryfall.com/cards/border_crop/en/tsp/187.jpg?1517813031|https://scryfall.com/card/tsp/187/wheel-of-fate?utm_source=api>`"
+msgid ":mtgtip:`Wheel of Fate<https://img.scryfall.com/cards/border_crop/front/0/d/0d9eb9fc-0a69-480d-be17-3e80e34c453b.jpg?1562897769|https://scryfall.com/card/tsp/187/wheel-of-fate?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1119
@@ -2056,7 +2056,7 @@ msgid "Each player discards their hand, then draws seven cards."
 msgstr ""
 
 #: ../../TSP.rst:1128
-msgid ":mtgtip:`Word of Seizing<https://img.scryfall.com/cards/border_crop/en/tsp/188.jpg?1517813031|https://scryfall.com/card/tsp/188/word-of-seizing?utm_source=api>`"
+msgid ":mtgtip:`Word of Seizing<https://img.scryfall.com/cards/border_crop/front/d/6/d6db3c98-ec84-4686-bc21-c8572a736e62.jpg?1562940439|https://scryfall.com/card/tsp/188/word-of-seizing?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1127
@@ -2064,7 +2064,7 @@ msgid "Untap target permanent and gain control of it until end of turn. It gains
 msgstr ""
 
 #: ../../TSP.rst:1136
-msgid ":mtgtip:`Aether Web<https://img.scryfall.com/cards/border_crop/en/tsp/189.jpg?1517813031|https://scryfall.com/card/tsp/189/aether-web?utm_source=api>`"
+msgid ":mtgtip:`Aether Web<https://img.scryfall.com/cards/border_crop/front/c/e/ce9a6af9-1b39-41e1-bd71-210700b7608b.jpg?1562938697|https://scryfall.com/card/tsp/189/aether-web?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1135
@@ -2072,11 +2072,11 @@ msgid "Enchanted creature gets +1/+1, has reach, and can block creatures with sh
 msgstr ""
 
 #: ../../TSP.rst:1140
-msgid ":mtgtip:`Ashcoat Bear<https://img.scryfall.com/cards/border_crop/en/tsp/190.jpg?1517813031|https://scryfall.com/card/tsp/190/ashcoat-bear?utm_source=api>`"
+msgid ":mtgtip:`Ashcoat Bear<https://img.scryfall.com/cards/border_crop/front/9/b/9b7a6ab5-8a8f-492c-8484-3089354ce8cf.jpg?1562927804|https://scryfall.com/card/tsp/190/ashcoat-bear?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1148
-msgid ":mtgtip:`Aspect of Mongoose<https://img.scryfall.com/cards/border_crop/en/tsp/191.jpg?1517813031|https://scryfall.com/card/tsp/191/aspect-of-mongoose?utm_source=api>`"
+msgid ":mtgtip:`Aspect of Mongoose<https://img.scryfall.com/cards/border_crop/front/b/3/b3eb61f4-627b-4f42-85aa-eb676a035fbd.jpg?1562932977|https://scryfall.com/card/tsp/191/aspect-of-mongoose?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1145
@@ -2088,7 +2088,7 @@ msgid "When Aspect of Mongoose is put into a graveyard from the battlefield, ret
 msgstr ""
 
 #: ../../TSP.rst:1152
-msgid ":mtgtip:`Chameleon Blur<https://img.scryfall.com/cards/border_crop/en/tsp/192.jpg?1517813031|https://scryfall.com/card/tsp/192/chameleon-blur?utm_source=api>`"
+msgid ":mtgtip:`Chameleon Blur<https://img.scryfall.com/cards/border_crop/front/6/d/6d506b1c-f329-4e07-8926-a87b4abf16a7.jpg?1562917936|https://scryfall.com/card/tsp/192/chameleon-blur?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1151
@@ -2096,7 +2096,7 @@ msgid "Prevent all damage that creatures would deal to players this turn."
 msgstr ""
 
 #: ../../TSP.rst:1156
-msgid ":mtgtip:`Durkwood Baloth<https://img.scryfall.com/cards/border_crop/en/tsp/193.jpg?1517813031|https://scryfall.com/card/tsp/193/durkwood-baloth?utm_source=api>`"
+msgid ":mtgtip:`Durkwood Baloth<https://img.scryfall.com/cards/border_crop/front/6/7/670521c3-df02-487d-a299-49419e41889f.jpg?1562916541|https://scryfall.com/card/tsp/193/durkwood-baloth?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1155
@@ -2104,7 +2104,7 @@ msgid "Suspend 5—|mana_g| (Rather than cast this card from your hand, you may 
 msgstr ""
 
 #: ../../TSP.rst:1160
-msgid ":mtgtip:`Durkwood Tracker<https://img.scryfall.com/cards/border_crop/en/tsp/194.jpg?1517813031|https://scryfall.com/card/tsp/194/durkwood-tracker?utm_source=api>`"
+msgid ":mtgtip:`Durkwood Tracker<https://img.scryfall.com/cards/border_crop/front/b/4/b49f5835-c933-4ba7-a3c9-34f4eb01f00d.jpg?1562933123|https://scryfall.com/card/tsp/194/durkwood-tracker?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1159
@@ -2112,7 +2112,7 @@ msgid "|mana_1|\\ |mana_g|, |tap|: If Durkwood Tracker is on the battlefield, it
 msgstr ""
 
 #: ../../TSP.rst:1164
-msgid ":mtgtip:`Fungus Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/195.jpg?1517813031|https://scryfall.com/card/tsp/195/fungus-sliver?utm_source=api>`"
+msgid ":mtgtip:`Fungus Sliver<https://img.scryfall.com/cards/border_crop/front/c/4/c4c0486a-288d-443a-bb07-62dc1dddaed7.jpg?1562936584|https://scryfall.com/card/tsp/195/fungus-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1163
@@ -2120,7 +2120,7 @@ msgid "All Sliver creatures have \"Whenever this creature is dealt damage, put a
 msgstr ""
 
 #: ../../TSP.rst:1168
-msgid ":mtgtip:`Gemhide Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/196.jpg?1517813031|https://scryfall.com/card/tsp/196/gemhide-sliver?utm_source=api>`"
+msgid ":mtgtip:`Gemhide Sliver<https://img.scryfall.com/cards/border_crop/front/f/0/f09135b0-fd57-4205-aa74-c9869946c264.jpg?1562945748|https://scryfall.com/card/tsp/196/gemhide-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1167
@@ -2128,7 +2128,7 @@ msgid "All Slivers have \"|tap|: Add one mana of any color.\""
 msgstr ""
 
 #: ../../TSP.rst:1172
-msgid ":mtgtip:`Glass Asp<https://img.scryfall.com/cards/border_crop/en/tsp/197.jpg?1517813031|https://scryfall.com/card/tsp/197/glass-asp?utm_source=api>`"
+msgid ":mtgtip:`Glass Asp<https://img.scryfall.com/cards/border_crop/front/1/1/118253e9-f33a-455d-b785-dd9df657e7cf.jpg?1562898622|https://scryfall.com/card/tsp/197/glass-asp?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1171
@@ -2136,7 +2136,7 @@ msgid "Whenever Glass Asp deals combat damage to a player, that player loses 2 l
 msgstr ""
 
 #: ../../TSP.rst:1176
-msgid ":mtgtip:`Greenseeker<https://img.scryfall.com/cards/border_crop/en/tsp/198.jpg?1517813031|https://scryfall.com/card/tsp/198/greenseeker?utm_source=api>`"
+msgid ":mtgtip:`Greenseeker<https://img.scryfall.com/cards/border_crop/front/f/2/f2dfa231-349a-4dce-bed6-c82a136fe0a1.jpg?1562946298|https://scryfall.com/card/tsp/198/greenseeker?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1175
@@ -2144,7 +2144,7 @@ msgid "|mana_g|, |tap|, Discard a card: Search your library for a basic land car
 msgstr ""
 
 #: ../../TSP.rst:1182
-msgid ":mtgtip:`Havenwood Wurm<https://img.scryfall.com/cards/border_crop/en/tsp/199.jpg?1517813031|https://scryfall.com/card/tsp/199/havenwood-wurm?utm_source=api>`"
+msgid ":mtgtip:`Havenwood Wurm<https://img.scryfall.com/cards/border_crop/front/5/6/561a4bb5-285a-4d52-b372-d165e442cff3.jpg?1562912975|https://scryfall.com/card/tsp/199/havenwood-wurm?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1181
@@ -2154,7 +2154,7 @@ msgid "Trample"
 msgstr ""
 
 #: ../../TSP.rst:1186
-msgid ":mtgtip:`Herd Gnarr<https://img.scryfall.com/cards/border_crop/en/tsp/200.jpg?1517813031|https://scryfall.com/card/tsp/200/herd-gnarr?utm_source=api>`"
+msgid ":mtgtip:`Herd Gnarr<https://img.scryfall.com/cards/border_crop/front/9/c/9cf4fd75-34b1-4afa-b8cd-777dfc9e6376.jpg?1562928115|https://scryfall.com/card/tsp/200/herd-gnarr?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1185
@@ -2162,7 +2162,7 @@ msgid "Whenever another creature enters the battlefield under your control, Herd
 msgstr ""
 
 #: ../../TSP.rst:1192
-msgid ":mtgtip:`Hypergenesis<https://img.scryfall.com/cards/border_crop/en/tsp/201.jpg?1517813031|https://scryfall.com/card/tsp/201/hypergenesis?utm_source=api>`"
+msgid ":mtgtip:`Hypergenesis<https://img.scryfall.com/cards/border_crop/front/d/a/da4d6969-e579-4b28-a76b-5a99c7488f15.jpg?1562941099|https://scryfall.com/card/tsp/201/hypergenesis?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1189
@@ -2174,7 +2174,7 @@ msgid "Starting with you, each player may put an artifact, creature, enchantment
 msgstr ""
 
 #: ../../TSP.rst:1198
-msgid ":mtgtip:`Krosan Grip<https://img.scryfall.com/cards/border_crop/en/tsp/202.jpg?1517813031|https://scryfall.com/card/tsp/202/krosan-grip?utm_source=api>`"
+msgid ":mtgtip:`Krosan Grip<https://img.scryfall.com/cards/border_crop/front/5/9/59b524bb-5a18-4dda-9c45-26ce9ff0f0c1.jpg?1562913706|https://scryfall.com/card/tsp/202/krosan-grip?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1197
@@ -2182,7 +2182,7 @@ msgid "Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../TSP.rst:1202
-msgid ":mtgtip:`Magus of the Candelabra<https://img.scryfall.com/cards/border_crop/en/tsp/203.jpg?1517813031|https://scryfall.com/card/tsp/203/magus-of-the-candelabra?utm_source=api>`"
+msgid ":mtgtip:`Magus of the Candelabra<https://img.scryfall.com/cards/border_crop/front/9/6/960ba1a0-eb35-4622-a7c5-6f9eb1357e23.jpg?1562926715|https://scryfall.com/card/tsp/203/magus-of-the-candelabra?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1201
@@ -2190,7 +2190,7 @@ msgid "|mana_x|, |tap|: Untap X target lands."
 msgstr ""
 
 #: ../../TSP.rst:1206
-msgid ":mtgtip:`Might of Old Krosa<https://img.scryfall.com/cards/border_crop/en/tsp/204.jpg?1517813031|https://scryfall.com/card/tsp/204/might-of-old-krosa?utm_source=api>`"
+msgid ":mtgtip:`Might of Old Krosa<https://img.scryfall.com/cards/border_crop/front/7/b/7b7b2c47-2123-45c1-993c-e7a2c9438855.jpg?1562921032|https://scryfall.com/card/tsp/204/might-of-old-krosa?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1205
@@ -2198,7 +2198,7 @@ msgid "Target creature gets +2/+2 until end of turn. If you cast this spell duri
 msgstr ""
 
 #: ../../TSP.rst:1210
-msgid ":mtgtip:`Might Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/205.jpg?1517813031|https://scryfall.com/card/tsp/205/might-sliver?utm_source=api>`"
+msgid ":mtgtip:`Might Sliver<https://img.scryfall.com/cards/border_crop/front/8/b/8bb8c52f-e608-4710-872f-8a8ae2b5c00c.jpg?1562924548|https://scryfall.com/card/tsp/205/might-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1209
@@ -2206,7 +2206,7 @@ msgid "All Sliver creatures get +2/+2."
 msgstr ""
 
 #: ../../TSP.rst:1214
-msgid ":mtgtip:`Molder<https://img.scryfall.com/cards/border_crop/en/tsp/206.jpg?1517813031|https://scryfall.com/card/tsp/206/molder?utm_source=api>`"
+msgid ":mtgtip:`Molder<https://img.scryfall.com/cards/border_crop/front/8/c/8c0eb32c-89b1-40be-a77c-62c114a73ccc.jpg?1562924615|https://scryfall.com/card/tsp/206/molder?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1213
@@ -2214,7 +2214,7 @@ msgid "Destroy target artifact or enchantment with converted mana cost X. It can
 msgstr ""
 
 #: ../../TSP.rst:1218
-msgid ":mtgtip:`Mwonvuli Acid-Moss<https://img.scryfall.com/cards/border_crop/en/tsp/207.jpg?1517813031|https://scryfall.com/card/tsp/207/mwonvuli-acid-moss?utm_source=api>`"
+msgid ":mtgtip:`Mwonvuli Acid-Moss<https://img.scryfall.com/cards/border_crop/front/6/8/6841dbf6-5023-4612-bbd7-182fd35b05c8.jpg?1562916793|https://scryfall.com/card/tsp/207/mwonvuli-acid-moss?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1217
@@ -2222,7 +2222,7 @@ msgid "Destroy target land. Search your library for a Forest card and put that c
 msgstr ""
 
 #: ../../TSP.rst:1224
-msgid ":mtgtip:`Nantuko Shaman<https://img.scryfall.com/cards/border_crop/en/tsp/208.jpg?1517813031|https://scryfall.com/card/tsp/208/nantuko-shaman?utm_source=api>`"
+msgid ":mtgtip:`Nantuko Shaman<https://img.scryfall.com/cards/border_crop/front/8/e/8e75970f-b41e-406a-9c22-f5df871e70e6.jpg?1562925061|https://scryfall.com/card/tsp/208/nantuko-shaman?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1221
@@ -2234,7 +2234,7 @@ msgid "Suspend 1—|mana_2|\\ |mana_g|\\ |mana_g| (Rather than cast this card fr
 msgstr ""
 
 #: ../../TSP.rst:1228
-msgid ":mtgtip:`Pendelhaven Elder<https://img.scryfall.com/cards/border_crop/en/tsp/209.jpg?1517813031|https://scryfall.com/card/tsp/209/pendelhaven-elder?utm_source=api>`"
+msgid ":mtgtip:`Pendelhaven Elder<https://img.scryfall.com/cards/border_crop/front/6/3/63d759b5-1739-414e-9616-723625883ebf.jpg?1562915846|https://scryfall.com/card/tsp/209/pendelhaven-elder?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1227
@@ -2242,7 +2242,7 @@ msgid "|tap|: Each 1/1 creature you control gets +1/+2 until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:1234
-msgid ":mtgtip:`Penumbra Spider<https://img.scryfall.com/cards/border_crop/en/tsp/210.jpg?1517813031|https://scryfall.com/card/tsp/210/penumbra-spider?utm_source=api>`"
+msgid ":mtgtip:`Penumbra Spider<https://img.scryfall.com/cards/border_crop/front/6/a/6a989ac1-df69-45e7-98bf-564cc7c38973.jpg?1562917291|https://scryfall.com/card/tsp/210/penumbra-spider?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1231
@@ -2254,7 +2254,7 @@ msgid "When Penumbra Spider dies, create a 2/4 black Spider creature token with 
 msgstr ""
 
 #: ../../TSP.rst:1240
-msgid ":mtgtip:`Phantom Wurm<https://img.scryfall.com/cards/border_crop/en/tsp/211.jpg?1517813031|https://scryfall.com/card/tsp/211/phantom-wurm?utm_source=api>`"
+msgid ":mtgtip:`Phantom Wurm<https://img.scryfall.com/cards/border_crop/front/c/9/c94722ba-adb5-4613-b8f0-da1c34591c10.jpg?1562937508|https://scryfall.com/card/tsp/211/phantom-wurm?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1237
@@ -2266,7 +2266,7 @@ msgid "If damage would be dealt to Phantom Wurm, prevent that damage. Remove a +
 msgstr ""
 
 #: ../../TSP.rst:1244
-msgid ":mtgtip:`Primal Forcemage<https://img.scryfall.com/cards/border_crop/en/tsp/212.jpg?1517813031|https://scryfall.com/card/tsp/212/primal-forcemage?utm_source=api>`"
+msgid ":mtgtip:`Primal Forcemage<https://img.scryfall.com/cards/border_crop/front/9/8/98fa7f5c-8a10-4037-9a94-42e0559b4b72.jpg?1562927334|https://scryfall.com/card/tsp/212/primal-forcemage?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1243
@@ -2274,7 +2274,7 @@ msgid "Whenever another creature enters the battlefield under your control, that
 msgstr ""
 
 #: ../../TSP.rst:1252
-msgid ":mtgtip:`Savage Thallid<https://img.scryfall.com/cards/border_crop/en/tsp/213.jpg?1517813031|https://scryfall.com/card/tsp/213/savage-thallid?utm_source=api>`"
+msgid ":mtgtip:`Savage Thallid<https://img.scryfall.com/cards/border_crop/front/a/8/a87cbbdb-3bbc-48da-b5e3-fcdbddebec81.jpg?1562930490|https://scryfall.com/card/tsp/213/savage-thallid?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1247
@@ -2290,7 +2290,7 @@ msgid "Sacrifice a Saproling: Regenerate target Fungus."
 msgstr ""
 
 #: ../../TSP.rst:1256
-msgid ":mtgtip:`Scarwood Treefolk<https://img.scryfall.com/cards/border_crop/en/tsp/214.jpg?1517813031|https://scryfall.com/card/tsp/214/scarwood-treefolk?utm_source=api>`"
+msgid ":mtgtip:`Scarwood Treefolk<https://img.scryfall.com/cards/border_crop/front/e/d/ed6dece3-058c-4738-a22f-8893345ddd1c.jpg?1562945011|https://scryfall.com/card/tsp/214/scarwood-treefolk?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1255
@@ -2298,7 +2298,7 @@ msgid "Scarwood Treefolk enters the battlefield tapped."
 msgstr ""
 
 #: ../../TSP.rst:1264
-msgid ":mtgtip:`Scryb Ranger<https://img.scryfall.com/cards/border_crop/en/tsp/215.jpg?1517813031|https://scryfall.com/card/tsp/215/scryb-ranger?utm_source=api>`"
+msgid ":mtgtip:`Scryb Ranger<https://img.scryfall.com/cards/border_crop/front/3/a/3aacabde-f5ec-4519-895d-17f5e48746ee.jpg?1562907206|https://scryfall.com/card/tsp/215/scryb-ranger?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1261
@@ -2310,7 +2310,7 @@ msgid "Return a Forest you control to its owner's hand: Untap target creature. A
 msgstr ""
 
 #: ../../TSP.rst:1270
-msgid ":mtgtip:`Search for Tomorrow<https://img.scryfall.com/cards/border_crop/en/tsp/216.jpg?1517813031|https://scryfall.com/card/tsp/216/search-for-tomorrow?utm_source=api>`"
+msgid ":mtgtip:`Search for Tomorrow<https://img.scryfall.com/cards/border_crop/front/5/6/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f.jpg?1562913160|https://scryfall.com/card/tsp/216/search-for-tomorrow?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1267
@@ -2322,7 +2322,7 @@ msgid "Suspend 2—|mana_g| (Rather than cast this card from your hand, you may 
 msgstr ""
 
 #: ../../TSP.rst:1276
-msgid ":mtgtip:`Spectral Force<https://img.scryfall.com/cards/border_crop/en/tsp/217.jpg?1517813031|https://scryfall.com/card/tsp/217/spectral-force?utm_source=api>`"
+msgid ":mtgtip:`Spectral Force<https://img.scryfall.com/cards/border_crop/front/d/7/d7dff1c4-6297-46f6-9c70-544c67319dd0.jpg?1562940657|https://scryfall.com/card/tsp/217/spectral-force?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1275
@@ -2330,7 +2330,7 @@ msgid "Whenever Spectral Force attacks, if defending player controls no black pe
 msgstr ""
 
 #: ../../TSP.rst:1284
-msgid ":mtgtip:`Spike Tiller<https://img.scryfall.com/cards/border_crop/en/tsp/218.jpg?1517813031|https://scryfall.com/card/tsp/218/spike-tiller?utm_source=api>`"
+msgid ":mtgtip:`Spike Tiller<https://img.scryfall.com/cards/border_crop/front/c/a/caf3643a-502f-4736-8063-5b567bdfbcc4.jpg?1562937886|https://scryfall.com/card/tsp/218/spike-tiller?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1279
@@ -2346,7 +2346,7 @@ msgid "|mana_2|, Remove a +1/+1 counter from Spike Tiller: Target land becomes a
 msgstr ""
 
 #: ../../TSP.rst:1288
-msgid ":mtgtip:`Spinneret Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/219.jpg?1517813031|https://scryfall.com/card/tsp/219/spinneret-sliver?utm_source=api>`"
+msgid ":mtgtip:`Spinneret Sliver<https://img.scryfall.com/cards/border_crop/front/d/a/da698c63-f167-4129-a650-b50c080a24b5.jpg?1562941122|https://scryfall.com/card/tsp/219/spinneret-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1287
@@ -2354,7 +2354,7 @@ msgid "All Sliver creatures have reach. (They can block creatures with flying.)"
 msgstr ""
 
 #: ../../TSP.rst:1294
-msgid ":mtgtip:`Sporesower Thallid<https://img.scryfall.com/cards/border_crop/en/tsp/220.jpg?1517813031|https://scryfall.com/card/tsp/220/sporesower-thallid?utm_source=api>`"
+msgid ":mtgtip:`Sporesower Thallid<https://img.scryfall.com/cards/border_crop/front/2/f/2f834b1f-9f05-4553-a9b5-828a8348ed30.jpg?1562904998|https://scryfall.com/card/tsp/220/sporesower-thallid?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1291
@@ -2366,7 +2366,7 @@ msgid "Remove three spore counters from Sporesower Thallid: Create a 1/1 green S
 msgstr ""
 
 #: ../../TSP.rst:1298
-msgid ":mtgtip:`Sprout<https://img.scryfall.com/cards/border_crop/en/tsp/221.jpg?1517813031|https://scryfall.com/card/tsp/221/sprout?utm_source=api>`"
+msgid ":mtgtip:`Sprout<https://img.scryfall.com/cards/border_crop/front/6/9/6967363f-1e05-4484-8790-47f7be68455c.jpg?1562917036|https://scryfall.com/card/tsp/221/sprout?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1297
@@ -2374,7 +2374,7 @@ msgid "Create a 1/1 green Saproling creature token."
 msgstr ""
 
 #: ../../TSP.rst:1302
-msgid ":mtgtip:`Squall Line<https://img.scryfall.com/cards/border_crop/en/tsp/222.jpg?1517813031|https://scryfall.com/card/tsp/222/squall-line?utm_source=api>`"
+msgid ":mtgtip:`Squall Line<https://img.scryfall.com/cards/border_crop/front/3/f/3f368729-a6f2-4bf7-8b06-39c551f0b24a.jpg?1562908127|https://scryfall.com/card/tsp/222/squall-line?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1301
@@ -2382,7 +2382,7 @@ msgid "Squall Line deals X damage to each creature with flying and each player."
 msgstr ""
 
 #: ../../TSP.rst:1308
-msgid ":mtgtip:`Stonewood Invocation<https://img.scryfall.com/cards/border_crop/en/tsp/223.jpg?1517813031|https://scryfall.com/card/tsp/223/stonewood-invocation?utm_source=api>`"
+msgid ":mtgtip:`Stonewood Invocation<https://img.scryfall.com/cards/border_crop/front/1/b/1b300e67-04d2-4c69-b516-c5cc0a6ff2e7.jpg?1562900700|https://scryfall.com/card/tsp/223/stonewood-invocation?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1307
@@ -2390,7 +2390,7 @@ msgid "Target creature gets +5/+5 and gains shroud until end of turn. (It can't 
 msgstr ""
 
 #: ../../TSP.rst:1312
-msgid ":mtgtip:`Strength in Numbers<https://img.scryfall.com/cards/border_crop/en/tsp/224.jpg?1517813031|https://scryfall.com/card/tsp/224/strength-in-numbers?utm_source=api>`"
+msgid ":mtgtip:`Strength in Numbers<https://img.scryfall.com/cards/border_crop/front/c/a/ca5a571a-f323-473a-b5ec-f881bea82ce1.jpg?1562937746|https://scryfall.com/card/tsp/224/strength-in-numbers?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1311
@@ -2398,7 +2398,7 @@ msgid "Until end of turn, target creature gains trample and gets +X/+X, where X 
 msgstr ""
 
 #: ../../TSP.rst:1320
-msgid ":mtgtip:`Thallid Germinator<https://img.scryfall.com/cards/border_crop/en/tsp/225.jpg?1517813031|https://scryfall.com/card/tsp/225/thallid-germinator?utm_source=api>`"
+msgid ":mtgtip:`Thallid Germinator<https://img.scryfall.com/cards/border_crop/front/a/c/ac526fb0-e6d0-4ee0-9888-15098c1704df.jpg?1562931344|https://scryfall.com/card/tsp/225/thallid-germinator?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1315
@@ -2414,7 +2414,7 @@ msgid "Sacrifice a Saproling: Target creature gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:1328
-msgid ":mtgtip:`Thallid Shell-Dweller<https://img.scryfall.com/cards/border_crop/en/tsp/226.jpg?1517813031|https://scryfall.com/card/tsp/226/thallid-shell-dweller?utm_source=api>`"
+msgid ":mtgtip:`Thallid Shell-Dweller<https://img.scryfall.com/cards/border_crop/front/4/e/4ee36256-022f-49b3-8914-9b1c2f4dc506.jpg?1562911527|https://scryfall.com/card/tsp/226/thallid-shell-dweller?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1325
@@ -2426,7 +2426,7 @@ msgid "Remove three spore counters from Thallid Shell-Dweller: Create a 1/1 gree
 msgstr ""
 
 #: ../../TSP.rst:1334
-msgid ":mtgtip:`Thelon of Havenwood<https://img.scryfall.com/cards/border_crop/en/tsp/227.jpg?1517813031|https://scryfall.com/card/tsp/227/thelon-of-havenwood?utm_source=api>`"
+msgid ":mtgtip:`Thelon of Havenwood<https://img.scryfall.com/cards/border_crop/front/9/2/92b0be6d-9183-4938-b7a1-ae7f04ba78a0.jpg?1562926020|https://scryfall.com/card/tsp/227/thelon-of-havenwood?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1331
@@ -2438,11 +2438,11 @@ msgid "|mana_b|\\ |mana_g|, Exile a Fungus card from a graveyard: Put a spore co
 msgstr ""
 
 #: ../../TSP.rst:1342
-msgid ":mtgtip:`Thelonite Hermit<https://img.scryfall.com/cards/border_crop/en/tsp/228.jpg?1517813031|https://scryfall.com/card/tsp/228/thelonite-hermit?utm_source=api>`"
+msgid ":mtgtip:`Thelonite Hermit<https://img.scryfall.com/cards/border_crop/front/b/e/be95b6b0-ff20-405f-81ae-87f5cce45fb2.jpg?1562935299|https://scryfall.com/card/tsp/228/thelonite-hermit?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1337
-msgid "Saproling creatures get +1/+1."
+msgid "All Saprolings get +1/+1."
 msgstr ""
 
 #: ../../TSP.rst:1339
@@ -2454,7 +2454,7 @@ msgid "When Thelonite Hermit is turned face up, create four 1/1 green Saproling 
 msgstr ""
 
 #: ../../TSP.rst:1348
-msgid ":mtgtip:`Thrill of the Hunt<https://img.scryfall.com/cards/border_crop/en/tsp/229.jpg?1517813031|https://scryfall.com/card/tsp/229/thrill-of-the-hunt?utm_source=api>`"
+msgid ":mtgtip:`Thrill of the Hunt<https://img.scryfall.com/cards/border_crop/front/e/8/e8fe0c8e-f361-4eac-8c2c-ca6602dad352.jpg?1562944132|https://scryfall.com/card/tsp/229/thrill-of-the-hunt?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1345
@@ -2466,7 +2466,7 @@ msgid "Flashback |mana_w| (You may cast this card from your graveyard for its fl
 msgstr ""
 
 #: ../../TSP.rst:1352
-msgid ":mtgtip:`Tromp the Domains<https://img.scryfall.com/cards/border_crop/en/tsp/230.jpg?1517813031|https://scryfall.com/card/tsp/230/tromp-the-domains?utm_source=api>`"
+msgid ":mtgtip:`Tromp the Domains<https://img.scryfall.com/cards/border_crop/front/8/3/832b67f4-60ec-44ad-9bcc-c3d247c22705.jpg?1562922656|https://scryfall.com/card/tsp/230/tromp-the-domains?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1351
@@ -2474,7 +2474,7 @@ msgid "Domain — Until end of turn, creatures you control gain trample and get 
 msgstr ""
 
 #: ../../TSP.rst:1360
-msgid ":mtgtip:`Unyaro Bees<https://img.scryfall.com/cards/border_crop/en/tsp/231.jpg?1517813031|https://scryfall.com/card/tsp/231/unyaro-bees?utm_source=api>`"
+msgid ":mtgtip:`Unyaro Bees<https://img.scryfall.com/cards/border_crop/front/7/6/76356bc9-2285-44a7-815e-a27ad4e07afc.jpg?1562919865|https://scryfall.com/card/tsp/231/unyaro-bees?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1357
@@ -2486,7 +2486,7 @@ msgid "|mana_3|\\ |mana_g|, Sacrifice Unyaro Bees: It deals 2 damage to any targ
 msgstr ""
 
 #: ../../TSP.rst:1366
-msgid ":mtgtip:`Verdant Embrace<https://img.scryfall.com/cards/border_crop/en/tsp/232.jpg?1517813031|https://scryfall.com/card/tsp/232/verdant-embrace?utm_source=api>`"
+msgid ":mtgtip:`Verdant Embrace<https://img.scryfall.com/cards/border_crop/front/3/d/3dd1d130-98e7-4898-9f13-2bb58fa4777b.jpg?1562907855|https://scryfall.com/card/tsp/232/verdant-embrace?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1365
@@ -2494,7 +2494,7 @@ msgid "Enchanted creature gets +3/+3 and has \"At the beginning of each upkeep, 
 msgstr ""
 
 #: ../../TSP.rst:1372
-msgid ":mtgtip:`Wormwood Dryad<https://img.scryfall.com/cards/border_crop/en/tsp/233.jpg?1517813031|https://scryfall.com/card/tsp/233/wormwood-dryad?utm_source=api>`"
+msgid ":mtgtip:`Wormwood Dryad<https://img.scryfall.com/cards/border_crop/front/d/3/d35ad370-1b7e-4926-9580-7acf919787f2.jpg?1562939737|https://scryfall.com/card/tsp/233/wormwood-dryad?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1369
@@ -2506,7 +2506,7 @@ msgid "|mana_b|: Wormwood Dryad gains swampwalk until end of turn and deals 1 da
 msgstr ""
 
 #: ../../TSP.rst:1378
-msgid ":mtgtip:`Wurmcalling<https://img.scryfall.com/cards/border_crop/en/tsp/234.jpg?1517813031|https://scryfall.com/card/tsp/234/wurmcalling?utm_source=api>`"
+msgid ":mtgtip:`Wurmcalling<https://img.scryfall.com/cards/border_crop/front/8/5/85402aef-3fb1-4e78-9103-e2e47e5f3c65.jpg?1562923140|https://scryfall.com/card/tsp/234/wurmcalling?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1375
@@ -2518,7 +2518,7 @@ msgid "Create an X/X green Wurm creature token."
 msgstr ""
 
 #: ../../TSP.rst:1384
-msgid ":mtgtip:`Yavimaya Dryad<https://img.scryfall.com/cards/border_crop/en/tsp/235.jpg?1517813031|https://scryfall.com/card/tsp/235/yavimaya-dryad?utm_source=api>`"
+msgid ":mtgtip:`Yavimaya Dryad<https://img.scryfall.com/cards/border_crop/front/f/1/f1b56d65-b1ac-4aa3-aee6-433770c3dfbc.jpg?1562946009|https://scryfall.com/card/tsp/235/yavimaya-dryad?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1381
@@ -2530,7 +2530,7 @@ msgid "When Yavimaya Dryad enters the battlefield, you may search your library f
 msgstr ""
 
 #: ../../TSP.rst:1388
-msgid ":mtgtip:`Dementia Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/236.jpg?1517813031|https://scryfall.com/card/tsp/236/dementia-sliver?utm_source=api>`"
+msgid ":mtgtip:`Dementia Sliver<https://img.scryfall.com/cards/border_crop/front/9/5/955028d2-33df-4295-8ee3-572e5979b04c.jpg?1562926570|https://scryfall.com/card/tsp/236/dementia-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1387
@@ -2538,7 +2538,7 @@ msgid "All Slivers have \"|tap|: Choose a card name. Target opponent reveals a c
 msgstr ""
 
 #: ../../TSP.rst:1394
-msgid ":mtgtip:`Dralnu, Lich Lord<https://img.scryfall.com/cards/border_crop/en/tsp/237.jpg?1517813031|https://scryfall.com/card/tsp/237/dralnu-lich-lord?utm_source=api>`"
+msgid ":mtgtip:`Dralnu, Lich Lord<https://img.scryfall.com/cards/border_crop/front/b/3/b3828efe-cbe1-473c-8dde-60ea9aaf23a2.jpg?1562932859|https://scryfall.com/card/tsp/237/dralnu-lich-lord?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1391
@@ -2550,7 +2550,7 @@ msgid "|tap|: Target instant or sorcery card in your graveyard gains flashback u
 msgstr ""
 
 #: ../../TSP.rst:1400
-msgid ":mtgtip:`Firewake Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/238.jpg?1517813031|https://scryfall.com/card/tsp/238/firewake-sliver?utm_source=api>`"
+msgid ":mtgtip:`Firewake Sliver<https://img.scryfall.com/cards/border_crop/front/5/d/5d3f5a0d-029e-44fd-b3e6-c70176b5b4ac.jpg?1562914483|https://scryfall.com/card/tsp/238/firewake-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1397
@@ -2562,7 +2562,7 @@ msgid "All Slivers have \"|mana_1|, Sacrifice this permanent: Target Sliver crea
 msgstr ""
 
 #: ../../TSP.rst:1404
-msgid ":mtgtip:`Ghostflame Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/239.jpg?1517813031|https://scryfall.com/card/tsp/239/ghostflame-sliver?utm_source=api>`"
+msgid ":mtgtip:`Ghostflame Sliver<https://img.scryfall.com/cards/border_crop/front/6/4/64eb10d1-22c6-4848-a7f4-c6ccd2c66dae.jpg?1562916109|https://scryfall.com/card/tsp/239/ghostflame-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1403
@@ -2570,7 +2570,7 @@ msgid "All Slivers are colorless."
 msgstr ""
 
 #: ../../TSP.rst:1408
-msgid ":mtgtip:`Harmonic Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/240.jpg?1517813031|https://scryfall.com/card/tsp/240/harmonic-sliver?utm_source=api>`"
+msgid ":mtgtip:`Harmonic Sliver<https://img.scryfall.com/cards/border_crop/front/f/7/f7904997-a857-44f0-91d8-b78651bb4e83.jpg?1562947287|https://scryfall.com/card/tsp/240/harmonic-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1407
@@ -2578,7 +2578,7 @@ msgid "All Slivers have \"When this permanent enters the battlefield, destroy ta
 msgstr ""
 
 #: ../../TSP.rst:1416
-msgid ":mtgtip:`Ith, High Arcanist<https://img.scryfall.com/cards/border_crop/en/tsp/241.jpg?1517813031|https://scryfall.com/card/tsp/241/ith-high-arcanist?utm_source=api>`"
+msgid ":mtgtip:`Ith, High Arcanist<https://img.scryfall.com/cards/border_crop/front/8/d/8dd98dea-8012-49bb-84cf-dd8ed5c032cf.jpg?1562924936|https://scryfall.com/card/tsp/241/ith-high-arcanist?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1413
@@ -2590,7 +2590,7 @@ msgid "Suspend 4—|mana_w|\\ |mana_u| (Rather than cast this card from your han
 msgstr ""
 
 #: ../../TSP.rst:1420
-msgid ":mtgtip:`Kaervek the Merciless<https://img.scryfall.com/cards/border_crop/en/tsp/242.jpg?1517813031|https://scryfall.com/card/tsp/242/kaervek-the-merciless?utm_source=api>`"
+msgid ":mtgtip:`Kaervek the Merciless<https://img.scryfall.com/cards/border_crop/front/4/4/444fa5a5-b5b0-4555-bd69-67c1c0cbf317.jpg?1562909155|https://scryfall.com/card/tsp/242/kaervek-the-merciless?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1419
@@ -2598,7 +2598,7 @@ msgid "Whenever an opponent casts a spell, Kaervek the Merciless deals damage to
 msgstr ""
 
 #: ../../TSP.rst:1424
-msgid ":mtgtip:`Mishra, Artificer Prodigy<https://img.scryfall.com/cards/border_crop/en/tsp/243.jpg?1517813031|https://scryfall.com/card/tsp/243/mishra-artificer-prodigy?utm_source=api>`"
+msgid ":mtgtip:`Mishra, Artificer Prodigy<https://img.scryfall.com/cards/border_crop/front/d/5/d5deaec5-499d-4e19-b879-8bcd1dc35f3e.jpg?1562940254|https://scryfall.com/card/tsp/243/mishra-artificer-prodigy?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1423
@@ -2606,7 +2606,7 @@ msgid "Whenever you cast an artifact spell, you may search your graveyard, hand,
 msgstr ""
 
 #: ../../TSP.rst:1428
-msgid ":mtgtip:`Opaline Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/244.jpg?1517813031|https://scryfall.com/card/tsp/244/opaline-sliver?utm_source=api>`"
+msgid ":mtgtip:`Opaline Sliver<https://img.scryfall.com/cards/border_crop/front/7/5/75af1cc6-cb40-48c8-818b-91e64bdbe691.jpg?1562919767|https://scryfall.com/card/tsp/244/opaline-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1427
@@ -2614,7 +2614,7 @@ msgid "All Slivers have \"Whenever this permanent becomes the target of a spell 
 msgstr ""
 
 #: ../../TSP.rst:1432
-msgid ":mtgtip:`Saffi Eriksdotter<https://img.scryfall.com/cards/border_crop/en/tsp/245.jpg?1517813031|https://scryfall.com/card/tsp/245/saffi-eriksdotter?utm_source=api>`"
+msgid ":mtgtip:`Saffi Eriksdotter<https://img.scryfall.com/cards/border_crop/front/c/3/c34bb91e-138b-4491-bb2d-5df2cd272bf0.jpg?1562936274|https://scryfall.com/card/tsp/245/saffi-eriksdotter?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1431
@@ -2622,7 +2622,7 @@ msgid "Sacrifice Saffi Eriksdotter: When target creature is put into your gravey
 msgstr ""
 
 #: ../../TSP.rst:1438
-msgid ":mtgtip:`Scion of the Ur-Dragon<https://img.scryfall.com/cards/border_crop/en/tsp/246.jpg?1517813031|https://scryfall.com/card/tsp/246/scion-of-the-ur-dragon?utm_source=api>`"
+msgid ":mtgtip:`Scion of the Ur-Dragon<https://img.scryfall.com/cards/border_crop/front/e/f/efb6f85b-60e9-4191-b557-ec952b7f22fc.jpg?1562945568|https://scryfall.com/card/tsp/246/scion-of-the-ur-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1437
@@ -2630,7 +2630,7 @@ msgid "|mana_2|: Search your library for a Dragon permanent card and put it into
 msgstr ""
 
 #: ../../TSP.rst:1444
-msgid ":mtgtip:`Stonebrow, Krosan Hero<https://img.scryfall.com/cards/border_crop/en/tsp/247.jpg?1517813031|https://scryfall.com/card/tsp/247/stonebrow-krosan-hero?utm_source=api>`"
+msgid ":mtgtip:`Stonebrow, Krosan Hero<https://img.scryfall.com/cards/border_crop/front/9/5/95c62102-0562-4b09-a05d-986aa4212f44.jpg?1562926661|https://scryfall.com/card/tsp/247/stonebrow-krosan-hero?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1443
@@ -2638,7 +2638,7 @@ msgid "Whenever a creature you control with trample attacks, it gets +2/+2 until
 msgstr ""
 
 #: ../../TSP.rst:1448
-msgid ":mtgtip:`Assembly-Worker<https://img.scryfall.com/cards/border_crop/en/tsp/248.jpg?1517813031|https://scryfall.com/card/tsp/248/assembly-worker?utm_source=api>`"
+msgid ":mtgtip:`Assembly-Worker<https://img.scryfall.com/cards/border_crop/front/e/0/e086d662-3740-4704-9184-c42c6a16d829.jpg?1562942336|https://scryfall.com/card/tsp/248/assembly-worker?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1447
@@ -2646,7 +2646,7 @@ msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../TSP.rst:1456
-msgid ":mtgtip:`Brass Gnat<https://img.scryfall.com/cards/border_crop/en/tsp/249.jpg?1517813031|https://scryfall.com/card/tsp/249/brass-gnat?utm_source=api>`"
+msgid ":mtgtip:`Brass Gnat<https://img.scryfall.com/cards/border_crop/front/3/8/386ae7c6-347c-4b29-b7a9-3ca3bb050396.jpg?1562906844|https://scryfall.com/card/tsp/249/brass-gnat?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1453
@@ -2658,7 +2658,7 @@ msgid "At the beginning of your upkeep, you may pay |mana_1|. If you do, untap B
 msgstr ""
 
 #: ../../TSP.rst:1460
-msgid ":mtgtip:`Candles of Leng<https://img.scryfall.com/cards/border_crop/en/tsp/250.jpg?1517813031|https://scryfall.com/card/tsp/250/candles-of-leng?utm_source=api>`"
+msgid ":mtgtip:`Candles of Leng<https://img.scryfall.com/cards/border_crop/front/e/e/ee874779-e654-48f0-8f2d-cc98ef150d75.jpg?1562945243|https://scryfall.com/card/tsp/250/candles-of-leng?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1459
@@ -2666,7 +2666,7 @@ msgid "|mana_4|, |tap|: Reveal the top card of your library. If it has the same 
 msgstr ""
 
 #: ../../TSP.rst:1466
-msgid ":mtgtip:`Chromatic Star<https://img.scryfall.com/cards/border_crop/en/tsp/251.jpg?1517813031|https://scryfall.com/card/tsp/251/chromatic-star?utm_source=api>`"
+msgid ":mtgtip:`Chromatic Star<https://img.scryfall.com/cards/border_crop/front/1/d/1d7a1357-debd-49b0-9fd5-560d5b3f589e.jpg?1562901183|https://scryfall.com/card/tsp/251/chromatic-star?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1463
@@ -2678,7 +2678,7 @@ msgid "When Chromatic Star is put into a graveyard from the battlefield, draw a 
 msgstr ""
 
 #: ../../TSP.rst:1474
-msgid ":mtgtip:`Chronatog Totem<https://img.scryfall.com/cards/border_crop/en/tsp/252.jpg?1517813031|https://scryfall.com/card/tsp/252/chronatog-totem?utm_source=api>`"
+msgid ":mtgtip:`Chronatog Totem<https://img.scryfall.com/cards/border_crop/front/5/a/5acd482c-9815-4ff5-99ef-fb1a014251bb.jpg?1562913905|https://scryfall.com/card/tsp/252/chronatog-totem?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1469
@@ -2694,7 +2694,7 @@ msgid "|mana_0|: Chronatog Totem gets +3/+3 until end of turn. You skip your nex
 msgstr ""
 
 #: ../../TSP.rst:1482
-msgid ":mtgtip:`Clockwork Hydra<https://img.scryfall.com/cards/border_crop/en/tsp/253.jpg?1517813031|https://scryfall.com/card/tsp/253/clockwork-hydra?utm_source=api>`"
+msgid ":mtgtip:`Clockwork Hydra<https://img.scryfall.com/cards/border_crop/front/5/4/54522c50-5333-47ac-ba3e-d87c599404c4.jpg?1562912613|https://scryfall.com/card/tsp/253/clockwork-hydra?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1477
@@ -2710,7 +2710,7 @@ msgid "|tap|: Put a +1/+1 counter on Clockwork Hydra."
 msgstr ""
 
 #: ../../TSP.rst:1490
-msgid ":mtgtip:`Foriysian Totem<https://img.scryfall.com/cards/border_crop/en/tsp/254.jpg?1517813031|https://scryfall.com/card/tsp/254/foriysian-totem?utm_source=api>`"
+msgid ":mtgtip:`Foriysian Totem<https://img.scryfall.com/cards/border_crop/front/4/5/45cba87d-3c8c-4f38-bdd8-51072ba6365b.jpg?1562909437|https://scryfall.com/card/tsp/254/foriysian-totem?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1485
@@ -2726,7 +2726,7 @@ msgid "As long as Foriysian Totem is a creature, it can block an additional crea
 msgstr ""
 
 #: ../../TSP.rst:1498
-msgid ":mtgtip:`Gauntlet of Power<https://img.scryfall.com/cards/border_crop/en/tsp/255.jpg?1517813031|https://scryfall.com/card/tsp/255/gauntlet-of-power?utm_source=api>`"
+msgid ":mtgtip:`Gauntlet of Power<https://img.scryfall.com/cards/border_crop/front/1/0/109f93ac-86e9-42f1-9fba-fec8bcd521b0.jpg?1562898457|https://scryfall.com/card/tsp/255/gauntlet-of-power?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1493
@@ -2742,7 +2742,7 @@ msgid "Whenever a basic land is tapped for mana of the chosen color, its control
 msgstr ""
 
 #: ../../TSP.rst:1502
-msgid ":mtgtip:`Hivestone<https://img.scryfall.com/cards/border_crop/en/tsp/256.jpg?1517813031|https://scryfall.com/card/tsp/256/hivestone?utm_source=api>`"
+msgid ":mtgtip:`Hivestone<https://img.scryfall.com/cards/border_crop/front/6/8/685fc2f8-4cad-46a1-b9d7-d94c13990994.jpg?1562916821|https://scryfall.com/card/tsp/256/hivestone?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1501
@@ -2750,7 +2750,7 @@ msgid "Creatures you control are Slivers in addition to their other creature typ
 msgstr ""
 
 #: ../../TSP.rst:1506
-msgid ":mtgtip:`Jhoira's Timebug<https://img.scryfall.com/cards/border_crop/en/tsp/257.jpg?1517813031|https://scryfall.com/card/tsp/257/jhoiras-timebug?utm_source=api>`"
+msgid ":mtgtip:`Jhoira's Timebug<https://img.scryfall.com/cards/border_crop/front/9/c/9ce2c6d7-505b-490b-9c6f-b5166c9ff71d.jpg?1562928104|https://scryfall.com/card/tsp/257/jhoiras-timebug?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1505
@@ -2758,7 +2758,7 @@ msgid "|tap|: Choose target permanent you control or suspended card you own. If 
 msgstr ""
 
 #: ../../TSP.rst:1510
-msgid ":mtgtip:`Locket of Yesterdays<https://img.scryfall.com/cards/border_crop/en/tsp/258.jpg?1517813031|https://scryfall.com/card/tsp/258/locket-of-yesterdays?utm_source=api>`"
+msgid ":mtgtip:`Locket of Yesterdays<https://img.scryfall.com/cards/border_crop/front/b/3/b316f198-4465-4fb5-a7a6-a92bf8eae8c1.jpg?1562932741|https://scryfall.com/card/tsp/258/locket-of-yesterdays?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1509
@@ -2766,7 +2766,7 @@ msgid "Spells you cast cost |mana_1| less to cast for each card with the same na
 msgstr ""
 
 #: ../../TSP.rst:1516
-msgid ":mtgtip:`Lotus Bloom<https://img.scryfall.com/cards/border_crop/en/tsp/259.jpg?1517813031|https://scryfall.com/card/tsp/259/lotus-bloom?utm_source=api>`"
+msgid ":mtgtip:`Lotus Bloom<https://img.scryfall.com/cards/border_crop/front/7/3/73127ee0-9a0c-48fa-9c60-b4c600ace8f7.jpg?1562919176|https://scryfall.com/card/tsp/259/lotus-bloom?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1513
@@ -2778,7 +2778,7 @@ msgid "|tap|, Sacrifice Lotus Bloom: Add three mana of any one color."
 msgstr ""
 
 #: ../../TSP.rst:1524
-msgid ":mtgtip:`Paradise Plume<https://img.scryfall.com/cards/border_crop/en/tsp/260.jpg?1517813031|https://scryfall.com/card/tsp/260/paradise-plume?utm_source=api>`"
+msgid ":mtgtip:`Paradise Plume<https://img.scryfall.com/cards/border_crop/front/1/2/1205ac7e-4d4e-4849-b3ae-1e4e0558fd96.jpg?1562898713|https://scryfall.com/card/tsp/260/paradise-plume?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1519
@@ -2794,7 +2794,7 @@ msgid "|tap|: Add one mana of the chosen color."
 msgstr ""
 
 #: ../../TSP.rst:1532
-msgid ":mtgtip:`Phyrexian Totem<https://img.scryfall.com/cards/border_crop/en/tsp/261.jpg?1517813031|https://scryfall.com/card/tsp/261/phyrexian-totem?utm_source=api>`"
+msgid ":mtgtip:`Phyrexian Totem<https://img.scryfall.com/cards/border_crop/front/3/6/368b9fee-88ce-4725-82a5-335d8645aca2.jpg?1562906491|https://scryfall.com/card/tsp/261/phyrexian-totem?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1527
@@ -2810,7 +2810,7 @@ msgid "Whenever Phyrexian Totem is dealt damage, if it's a creature, sacrifice t
 msgstr ""
 
 #: ../../TSP.rst:1538
-msgid ":mtgtip:`Prismatic Lens<https://img.scryfall.com/cards/border_crop/en/tsp/262.jpg?1517813031|https://scryfall.com/card/tsp/262/prismatic-lens?utm_source=api>`"
+msgid ":mtgtip:`Prismatic Lens<https://img.scryfall.com/cards/border_crop/front/5/0/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db.jpg?1562911923|https://scryfall.com/card/tsp/262/prismatic-lens?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1535
@@ -2831,7 +2831,7 @@ msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr ""
 
 #: ../../TSP.rst:1544
-msgid ":mtgtip:`Sarpadian Empires, Vol. VII<https://img.scryfall.com/cards/border_crop/en/tsp/263.jpg?1517813031|https://scryfall.com/card/tsp/263/sarpadian-empires-vol-vii?utm_source=api>`"
+msgid ":mtgtip:`Sarpadian Empires, Vol. VII<https://img.scryfall.com/cards/border_crop/front/b/3/b37a6cf7-f239-4bca-b4c3-a48932ef56b5.jpg?1562932852|https://scryfall.com/card/tsp/263/sarpadian-empires-vol-vii?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1541
@@ -2843,7 +2843,7 @@ msgid "|mana_3|, |tap|: Create a 1/1 creature token of the chosen color and type
 msgstr ""
 
 #: ../../TSP.rst:1554
-msgid ":mtgtip:`Stuffy Doll<https://img.scryfall.com/cards/border_crop/en/tsp/264.jpg?1517813031|https://scryfall.com/card/tsp/264/stuffy-doll?utm_source=api>`"
+msgid ":mtgtip:`Stuffy Doll<https://img.scryfall.com/cards/border_crop/front/1/4/14ca7425-a499-4864-b955-369ef2577849.jpg?1562899379|https://scryfall.com/card/tsp/264/stuffy-doll?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1547
@@ -2863,7 +2863,7 @@ msgid "|tap|: Stuffy Doll deals 1 damage to itself."
 msgstr ""
 
 #: ../../TSP.rst:1560
-msgid ":mtgtip:`Thunder Totem<https://img.scryfall.com/cards/border_crop/en/tsp/265.jpg?1517813031|https://scryfall.com/card/tsp/265/thunder-totem?utm_source=api>`"
+msgid ":mtgtip:`Thunder Totem<https://img.scryfall.com/cards/border_crop/front/5/f/5fc332da-e93f-45b1-912c-06af41b412e9.jpg?1562915014|https://scryfall.com/card/tsp/265/thunder-totem?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1557
@@ -2876,7 +2876,7 @@ msgid "|mana_1|\\ |mana_w|\\ |mana_w|: Thunder Totem becomes a 2/2 white Spirit 
 msgstr ""
 
 #: ../../TSP.rst:1568
-msgid ":mtgtip:`Triskelavus<https://img.scryfall.com/cards/border_crop/en/tsp/266.jpg?1517813031|https://scryfall.com/card/tsp/266/triskelavus?utm_source=api>`"
+msgid ":mtgtip:`Triskelavus<https://img.scryfall.com/cards/border_crop/front/9/7/978d11e7-cfb7-41bf-bb98-deb79549a074.jpg?1562927100|https://scryfall.com/card/tsp/266/triskelavus?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1565
@@ -2888,11 +2888,11 @@ msgid "|mana_1|, Remove a +1/+1 counter from Triskelavus: Create a 1/1 colorless
 msgstr ""
 
 #: ../../TSP.rst:1570
-msgid ":mtgtip:`Venser's Sliver<https://img.scryfall.com/cards/border_crop/en/tsp/267.jpg?1517813031|https://scryfall.com/card/tsp/267/vensers-sliver?utm_source=api>`"
+msgid ":mtgtip:`Venser's Sliver<https://img.scryfall.com/cards/border_crop/front/1/e/1e3c5a64-453b-4477-853a-9514ba326f16.jpg?1562901355|https://scryfall.com/card/tsp/267/vensers-sliver?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1580
-msgid ":mtgtip:`Weatherseed Totem<https://img.scryfall.com/cards/border_crop/en/tsp/268.jpg?1517813031|https://scryfall.com/card/tsp/268/weatherseed-totem?utm_source=api>`"
+msgid ":mtgtip:`Weatherseed Totem<https://img.scryfall.com/cards/border_crop/front/3/2/3275df49-c3f1-4310-87dd-25e3e0ee7fca.jpg?1562905546|https://scryfall.com/card/tsp/268/weatherseed-totem?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1575
@@ -2908,7 +2908,7 @@ msgid "When Weatherseed Totem is put into a graveyard from the battlefield, if i
 msgstr ""
 
 #: ../../TSP.rst:1586
-msgid ":mtgtip:`Academy Ruins<https://img.scryfall.com/cards/border_crop/en/tsp/269.jpg?1517813031|https://scryfall.com/card/tsp/269/academy-ruins?utm_source=api>`"
+msgid ":mtgtip:`Academy Ruins<https://img.scryfall.com/cards/border_crop/front/a/f/af09af65-0a3b-42df-b0fd-372e2158beac.jpg?1562931959|https://scryfall.com/card/tsp/269/academy-ruins?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1585
@@ -2916,7 +2916,7 @@ msgid "|mana_1|\\ |mana_u|, |tap|: Put target artifact card from your graveyard 
 msgstr ""
 
 #: ../../TSP.rst:1594
-msgid ":mtgtip:`Calciform Pools<https://img.scryfall.com/cards/border_crop/en/tsp/270.jpg?1517813031|https://scryfall.com/card/tsp/270/calciform-pools?utm_source=api>`"
+msgid ":mtgtip:`Calciform Pools<https://img.scryfall.com/cards/border_crop/front/f/6/f6cead86-b8ff-4975-90b2-3badcc452fdb.jpg?1562947074|https://scryfall.com/card/tsp/270/calciform-pools?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1591
@@ -2928,7 +2928,7 @@ msgid "|mana_1|, Remove X storage counters from Calciform Pools: Add X mana in a
 msgstr ""
 
 #: ../../TSP.rst:1602
-msgid ":mtgtip:`Dreadship Reef<https://img.scryfall.com/cards/border_crop/en/tsp/271.jpg?1517813031|https://scryfall.com/card/tsp/271/dreadship-reef?utm_source=api>`"
+msgid ":mtgtip:`Dreadship Reef<https://img.scryfall.com/cards/border_crop/front/b/4/b4a83915-07b7-4912-bdf2-089b05796378.jpg?1562933138|https://scryfall.com/card/tsp/271/dreadship-reef?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1599
@@ -2940,7 +2940,7 @@ msgid "|mana_1|, Remove X storage counters from Dreadship Reef: Add X mana in an
 msgstr ""
 
 #: ../../TSP.rst:1608
-msgid ":mtgtip:`Flagstones of Trokair<https://img.scryfall.com/cards/border_crop/en/tsp/272.jpg?1517813031|https://scryfall.com/card/tsp/272/flagstones-of-trokair?utm_source=api>`"
+msgid ":mtgtip:`Flagstones of Trokair<https://img.scryfall.com/cards/border_crop/front/a/d/ad23cd0e-6871-4ba6-b5bf-cfd14f8f71b2.jpg?1562931560|https://scryfall.com/card/tsp/272/flagstones-of-trokair?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1607
@@ -2948,7 +2948,7 @@ msgid "When Flagstones of Trokair is put into a graveyard from the battlefield, 
 msgstr ""
 
 #: ../../TSP.rst:1616
-msgid ":mtgtip:`Fungal Reaches<https://img.scryfall.com/cards/border_crop/en/tsp/273.jpg?1517813031|https://scryfall.com/card/tsp/273/fungal-reaches?utm_source=api>`"
+msgid ":mtgtip:`Fungal Reaches<https://img.scryfall.com/cards/border_crop/front/9/b/9b4521b3-a3b0-4a1d-a623-cc630058eee2.jpg?1562927767|https://scryfall.com/card/tsp/273/fungal-reaches?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1613
@@ -2960,7 +2960,7 @@ msgid "|mana_1|, Remove X storage counters from Fungal Reaches: Add X mana in an
 msgstr ""
 
 #: ../../TSP.rst:1622
-msgid ":mtgtip:`Gemstone Caverns<https://img.scryfall.com/cards/border_crop/en/tsp/274.jpg?1517813031|https://scryfall.com/card/tsp/274/gemstone-caverns?utm_source=api>`"
+msgid ":mtgtip:`Gemstone Caverns<https://img.scryfall.com/cards/border_crop/front/9/4/94d74254-4750-4fb3-9e53-473a5f98b315.jpg?1562926487|https://scryfall.com/card/tsp/274/gemstone-caverns?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1619
@@ -2972,7 +2972,7 @@ msgid "|tap|: Add |colorless|. If Gemstone Caverns has a luck counter on it, ins
 msgstr ""
 
 #: ../../TSP.rst:1628
-msgid ":mtgtip:`Kher Keep<https://img.scryfall.com/cards/border_crop/en/tsp/275.jpg?1517813031|https://scryfall.com/card/tsp/275/kher-keep?utm_source=api>`"
+msgid ":mtgtip:`Kher Keep<https://img.scryfall.com/cards/border_crop/front/d/d/dde3b332-5bc3-47bc-ba24-5437f04c21a0.jpg?1562941773|https://scryfall.com/card/tsp/275/kher-keep?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1627
@@ -2980,7 +2980,7 @@ msgid "|mana_1|\\ |mana_r|, |tap|: Create a 0/1 red Kobold creature token named 
 msgstr ""
 
 #: ../../TSP.rst:1636
-msgid ":mtgtip:`Molten Slagheap<https://img.scryfall.com/cards/border_crop/en/tsp/276.jpg?1517813031|https://scryfall.com/card/tsp/276/molten-slagheap?utm_source=api>`"
+msgid ":mtgtip:`Molten Slagheap<https://img.scryfall.com/cards/border_crop/front/d/0/d090288c-48f3-49fe-87c4-3766eb7bb240.jpg?1562939132|https://scryfall.com/card/tsp/276/molten-slagheap?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1633
@@ -2992,7 +2992,7 @@ msgid "|mana_1|, Remove X storage counters from Molten Slagheap: Add X mana in a
 msgstr ""
 
 #: ../../TSP.rst:1644
-msgid ":mtgtip:`Saltcrusted Steppe<https://img.scryfall.com/cards/border_crop/en/tsp/277.jpg?1517813031|https://scryfall.com/card/tsp/277/saltcrusted-steppe?utm_source=api>`"
+msgid ":mtgtip:`Saltcrusted Steppe<https://img.scryfall.com/cards/border_crop/front/2/a/2adc67a6-9b05-4480-be0c-70b860075d70.jpg?1562904081|https://scryfall.com/card/tsp/277/saltcrusted-steppe?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1641
@@ -3004,7 +3004,7 @@ msgid "|mana_1|, Remove X storage counters from Saltcrusted Steppe: Add X mana i
 msgstr ""
 
 #: ../../TSP.rst:1650
-msgid ":mtgtip:`Swarmyard<https://img.scryfall.com/cards/border_crop/en/tsp/278.jpg?1517813031|https://scryfall.com/card/tsp/278/swarmyard?utm_source=api>`"
+msgid ":mtgtip:`Swarmyard<https://img.scryfall.com/cards/border_crop/front/2/5/25bfe849-a508-4fa8-8999-909fe8ec34fa.jpg?1562902904|https://scryfall.com/card/tsp/278/swarmyard?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1649
@@ -3012,7 +3012,7 @@ msgid "|tap|: Regenerate target Insect, Rat, Spider, or Squirrel."
 msgstr ""
 
 #: ../../TSP.rst:1654
-msgid ":mtgtip:`Terramorphic Expanse<https://img.scryfall.com/cards/border_crop/en/tsp/279.jpg?1517813031|https://scryfall.com/card/tsp/279/terramorphic-expanse?utm_source=api>`"
+msgid ":mtgtip:`Terramorphic Expanse<https://img.scryfall.com/cards/border_crop/front/f/d/fd097ea2-0a1c-44a0-824b-d5373df513fb.jpg?1562948625|https://scryfall.com/card/tsp/279/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1653
@@ -3020,7 +3020,7 @@ msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic la
 msgstr ""
 
 #: ../../TSP.rst:1660
-msgid ":mtgtip:`Urza's Factory<https://img.scryfall.com/cards/border_crop/en/tsp/280.jpg?1517813031|https://scryfall.com/card/tsp/280/urzas-factory?utm_source=api>`"
+msgid ":mtgtip:`Urza's Factory<https://img.scryfall.com/cards/border_crop/front/b/2/b22d97f3-08cf-4c19-bbe2-5a36096187cd.jpg?1562932584|https://scryfall.com/card/tsp/280/urzas-factory?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1659
@@ -3028,7 +3028,7 @@ msgid "|mana_7|, |tap|: Create a 2/2 colorless Assembly-Worker artifact creature
 msgstr ""
 
 #: ../../TSP.rst:1664
-msgid ":mtgtip:`Vesuva<https://img.scryfall.com/cards/border_crop/en/tsp/281.jpg?1517813031|https://scryfall.com/card/tsp/281/vesuva?utm_source=api>`"
+msgid ":mtgtip:`Vesuva<https://img.scryfall.com/cards/border_crop/front/8/2/82fc9498-7397-4857-87fe-7c9010944ed8.jpg?1562922605|https://scryfall.com/card/tsp/281/vesuva?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1663
@@ -3036,7 +3036,7 @@ msgid "You may have Vesuva enter the battlefield tapped as a copy of any land on
 msgstr ""
 
 #: ../../TSP.rst:1668
-msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/tsp/282.jpg?1517813031|https://scryfall.com/card/tsp/282/plains?utm_source=api>`"
+msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/c/d/cd9a8337-e4ca-458d-8fcd-672d8d6f1c0d.jpg?1562938462|https://scryfall.com/card/tsp/282/plains?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1667
@@ -3044,7 +3044,7 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
 #: ../../TSP.rst:1672
-msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/tsp/286.jpg?1517813031|https://scryfall.com/card/tsp/286/island?utm_source=api>`"
+msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/e/5/e5fdeb2c-afb8-4850-bcdc-86283ffa3486.jpg?1562943518|https://scryfall.com/card/tsp/286/island?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1671
@@ -3052,7 +3052,7 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
 #: ../../TSP.rst:1676
-msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/tsp/290.jpg?1517813031|https://scryfall.com/card/tsp/290/swamp?utm_source=api>`"
+msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/3/f/3fecc759-61fa-4040-9b46-710512baa4bf.jpg?1562908260|https://scryfall.com/card/tsp/290/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1675
@@ -3060,7 +3060,7 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
 #: ../../TSP.rst:1680
-msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/tsp/294.jpg?1517813031|https://scryfall.com/card/tsp/294/mountain?utm_source=api>`"
+msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/e/3/e34229e7-5dc4-47b3-9ba2-609e5b3ca6c2.jpg?1562942954|https://scryfall.com/card/tsp/294/mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1679
@@ -3068,7 +3068,7 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
 #: ../../TSP.rst:1683
-msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/tsp/298.jpg?1517813031|https://scryfall.com/card/tsp/298/forest?utm_source=api>`"
+msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/0/d/0d5bd3e1-45ef-43b7-8796-6085842278df.jpg?1562897714|https://scryfall.com/card/tsp/298/forest?utm_source=api>`"
 msgstr ""
 
 #: ../../TSP.rst:1683

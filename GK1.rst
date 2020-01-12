@@ -36,7 +36,7 @@
 
 
 :mtgtip:`Ribbons of Night<https://img.scryfall.com/cards/border_crop/front/a/5/a5053c57-599d-4487-a7e2-97d60a2b6165.jpg?1541002713|https://scryfall.com/card/gk1/7/ribbons-of-night?utm_source=api>`
-   Ribbons of Night deals 4 damage to target creature and you gain 4 life. If |mana_u| was spent to cast Ribbons of Night, draw a card.
+   Ribbons of Night deals 4 damage to target creature and you gain 4 life. If |mana_u| was spent to cast this spell, draw a card.
 
 
 :mtgtip:`Call of the Nightwing<https://img.scryfall.com/cards/border_crop/front/f/2/f299929e-507f-4e94-96ca-49708181a4f7.jpg?1541002717|https://scryfall.com/card/gk1/8/call-of-the-nightwing?utm_source=api>`
@@ -312,7 +312,7 @@
 
 
 :mtgtip:`Vigor Mortis<https://img.scryfall.com/cards/border_crop/front/a/6/a63f0a70-5a80-4a30-943f-5224ab3f531b.jpg?1541002937|https://scryfall.com/card/gk1/54/vigor-mortis?utm_source=api>`
-   Return target creature card from your graveyard to the battlefield. If |mana_g| was spent to cast Vigor Mortis, that creature enters the battlefield with an additional +1/+1 counter on it.
+   Return target creature card from your graveyard to the battlefield. If |mana_g| was spent to cast this spell, that creature enters the battlefield with an additional +1/+1 counter on it.
 
 
 :mtgtip:`Deadbridge Goliath<https://img.scryfall.com/cards/border_crop/front/a/b/ab86c09f-e0ec-4d5d-8370-5ca3b4088116.jpg?1541002941|https://scryfall.com/card/gk1/55/deadbridge-goliath?utm_source=api>`
@@ -680,7 +680,7 @@
 
    Other white creatures you control get +1/+1.
 
-   |tap|: Create a legendary 2/2 green and white Wolf creature token named Voja.
+   |tap|: Create Voja, a legendary 2/2 green and white Wolf creature token.
 
 
 :mtgtip:`Watchwolf<https://img.scryfall.com/cards/border_crop/front/e/c/eca620db-7870-43fb-ba77-eda7f0bc33f0.jpg?1541002946|https://scryfall.com/card/gk1/122/watchwolf?utm_source=api>`
