@@ -35,8 +35,37 @@ Standard
 * :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|
 * :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
 
+Pioneer
+-------
+
+Oprócz dodatków legalnych w Standardzie legalne są także poniższe dodatki:
+
+* :mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|
+* :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|
+* :mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|
+* :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p25|
+* :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|
+* :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|
+* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|
+* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p25|
+* :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p25|
+* :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p25|
+* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p25|
+* :mtgexp:`ORI` :doc:`Origins<ORI>` |p25|
+* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p25|
+* :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|
+* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p75|
+* :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p50|
+* :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|
+* :mtgexp:`THS` :doc:`Theros<THS>` |p100|
+* :mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` |p100|
+* :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|
+* :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|
+
 Modern
 ------
+
+Oprócz dodatków legalnych w Pionierze (i oczywiście Standardzie) legalne są także:
 
 * :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p100|
 * :doc:`Lista pozostałych dodatków<modern>`
