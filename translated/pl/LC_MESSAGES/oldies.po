@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
@@ -7,6 +7,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -167,8 +168,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:66
 msgid ""
-"Whenever another creature you own dies, return it to your hand unless target"
-" opponent pays 3 life."
+"Whenever another creature you own dies, return it to your hand unless target "
+"opponent pays 3 life."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:71
@@ -196,8 +197,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:78
 msgid ""
-"Each instant and sorcery spell you cast costs |mana_1| less to cast for each"
-" creature it targets."
+"Each instant and sorcery spell you cast costs |mana_1| less to cast for each "
+"creature it targets."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:80
@@ -222,8 +223,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:88
 msgid ""
-"Intimidate (This creature can't be blocked except by artifact creatures "
-"and/or creatures that share a color with it.)"
+"Intimidate (This creature can't be blocked except by artifact creatures and/"
+"or creatures that share a color with it.)"
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:95
@@ -262,8 +263,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:104
 msgid ""
-"When Brain Maggot enters the battlefield, target opponent reveals his or her"
-" hand and you choose a nonland card from it. Exile that card until Brain "
+"When Brain Maggot enters the battlefield, target opponent reveals his or her "
+"hand and you choose a nonland card from it. Exile that card until Brain "
 "Maggot leaves the battlefield."
 msgstr ""
 
@@ -315,8 +316,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:128
 msgid ""
-"Any number of target creatures each get +2/+2 until end of turn. Untap those"
-" creatures."
+"Any number of target creatures each get +2/+2 until end of turn. Untap those "
+"creatures."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:135
@@ -355,8 +356,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:144
 msgid ""
-"Any number of target creatures each get +1/+0 and gain lifelink until end of"
-" turn. (Damage dealt by a creature with lifelink also causes its controller "
+"Any number of target creatures each get +1/+0 and gain lifelink until end of "
+"turn. (Damage dealt by a creature with lifelink also causes its controller "
 "to gain that much life.)"
 msgstr ""
 
@@ -397,9 +398,9 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:160
 msgid ""
-"|mana_u|, |tap|: Each player reveals the top card of his or her library. You"
-" may put the revealed cards into their owners' graveyards. If you don't, "
-"each player draws a card."
+"|mana_u|, |tap|: Each player reveals the top card of his or her library. You "
+"may put the revealed cards into their owners' graveyards. If you don't, each "
+"player draws a card."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:165
@@ -423,8 +424,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:170
 msgid ""
-"Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put"
-" a +1/+1 counter on Dawnbringer Charioteers."
+"Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put "
+"a +1/+1 counter on Dawnbringer Charioteers."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:175
@@ -452,8 +453,7 @@ msgid "Deserter's Quarters"
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:182
-msgid ""
-"You may choose not to untap Deserter's Quarters during your untap step."
+msgid "You may choose not to untap Deserter's Quarters during your untap step."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:184
@@ -517,8 +517,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:214
 msgid ""
-"At the beginning of each player's draw step, that player draws an additional"
-" card."
+"At the beginning of each player's draw step, that player draws an additional "
+"card."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:221
@@ -527,8 +527,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:220
 msgid ""
-"If a source would deal damage to a permanent or player, it deals double that"
-" damage to that permanent or player instead."
+"If a source would deal damage to a permanent or player, it deals double that "
+"damage to that permanent or player instead."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:225
@@ -745,8 +745,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:314
 msgid ""
-"Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an"
-" Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an "
+"Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
@@ -806,8 +806,8 @@ msgstr ""
 #: ../../oldies/python/JOU.rst:340
 msgid ""
 "Constellation — Whenever Goldenhide Ox or another enchantment enters the "
-"battlefield under your control, target creature must be blocked this turn if"
-" able."
+"battlefield under your control, target creature must be blocked this turn if "
+"able."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:345
@@ -873,8 +873,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:370
 msgid ""
-"|mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is"
-" its power."
+"|mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is "
+"its power."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:377
@@ -889,8 +889,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:376
 msgid ""
-"Exile any number of target creatures. For each creature exiled this way, its"
-" controller puts a 4/4 blue Sphinx creature token with flying onto the "
+"Exile any number of target creatures. For each creature exiled this way, its "
+"controller puts a 4/4 blue Sphinx creature token with flying onto the "
 "battlefield."
 msgstr ""
 
@@ -910,8 +910,8 @@ msgstr ""
 #: ../../oldies/python/JOU.rst:384
 msgid ""
 "Constellation — Whenever Humbler of Mortals or another enchantment enters "
-"the battlefield under your control, creatures you control gain trample until"
-" end of turn."
+"the battlefield under your control, creatures you control gain trample until "
+"end of turn."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:391
@@ -972,8 +972,7 @@ msgid ""
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:412
-msgid ""
-"Creatures you control can't be blocked except by two or more creatures."
+msgid "Creatures you control can't be blocked except by two or more creatures."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:414
@@ -987,8 +986,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:420
 msgid ""
-"As long as your devotion to blue and red is less than seven, Keranos isn't a"
-" creature."
+"As long as your devotion to blue and red is less than seven, Keranos isn't a "
+"creature."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:422
@@ -1040,8 +1039,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:442
 msgid ""
-"As long as your devotion to green and blue is less than seven, Kruphix isn't"
-" a creature."
+"As long as your devotion to green and blue is less than seven, Kruphix isn't "
+"a creature."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:444
@@ -1081,8 +1080,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:458
 msgid ""
-"Strive — Launch the Fleet costs |mana_1| more to cast for each target beyond"
-" the first."
+"Strive — Launch the Fleet costs |mana_1| more to cast for each target beyond "
+"the first."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:460
@@ -1163,8 +1162,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:496
 msgid ""
-"Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an"
-" Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an "
+"Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
@@ -1208,9 +1207,9 @@ msgstr ""
 #: ../../oldies/python/JOU.rst:518
 msgid ""
 "When Nessian Game Warden enters the battlefield, look at the top X cards of "
-"your library, where X is the number of Forests you control. You may reveal a"
-" creature card from among them and put it into your hand. Put the rest on "
-"the bottom of your library in any order."
+"your library, where X is the number of Forests you control. You may reveal a "
+"creature card from among them and put it into your hand. Put the rest on the "
+"bottom of your library in any order."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:523
@@ -1219,8 +1218,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:522
 msgid ""
-"Target creature gets -X/-X until end of turn, where X is the number of cards"
-" in your hand."
+"Target creature gets -X/-X until end of turn, where X is the number of cards "
+"in your hand."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:529
@@ -1268,8 +1267,7 @@ msgstr ""
 #: ../../oldies/python/JOU.rst:544
 msgid ""
 "Constellation — Whenever Oakheart Dryads or another enchantment enters the "
-"battlefield under your control, target creature gets +1/+1 until end of "
-"turn."
+"battlefield under your control, target creature gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:553
@@ -1278,8 +1276,7 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:550
 msgid ""
-"Enchanted creature can't attack or block unless its controller pays "
-"|mana_3|."
+"Enchanted creature can't attack or block unless its controller pays |mana_3|."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:552
@@ -1344,8 +1341,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:582
 msgid ""
-"Heroic — Whenever you cast a spell that targets Pheres-Band Thunderhoof, put"
-" two +1/+1 counters on Pheres-Band Thunderhoof."
+"Heroic — Whenever you cast a spell that targets Pheres-Band Thunderhoof, put "
+"two +1/+1 counters on Pheres-Band Thunderhoof."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:589
@@ -1358,8 +1355,7 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:588
 msgid ""
-"Other Centaur creatures you control get +1/+1 and have vigilance and "
-"trample."
+"Other Centaur creatures you control get +1/+1 and have vigilance and trample."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:595
@@ -1417,8 +1413,8 @@ msgstr ""
 #: ../../oldies/python/JOU.rst:614
 msgid ""
 "When Quarry Colossus enters the battlefield, put target creature into its "
-"owner's library just beneath the top X cards of that library, where X is the"
-" number of Plains you control."
+"owner's library just beneath the top X cards of that library, where X is the "
+"number of Plains you control."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:621
@@ -1521,8 +1517,8 @@ msgstr ""
 #: ../../oldies/python/JOU.rst:658
 msgid ""
 "Put two 2/2 blue Bird enchantment creature tokens with flying onto the "
-"battlefield. Scry 1. (Look at the top card of your library. You may put that"
-" card on the bottom of your library.)"
+"battlefield. Scry 1. (Look at the top card of your library. You may put that "
+"card on the bottom of your library.)"
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:663
@@ -1576,8 +1572,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:682
 msgid ""
-"Remove all +1/+1 counters from Sage of Hours: For each five counters removed"
-" this way, take an extra turn after this one."
+"Remove all +1/+1 counters from Sage of Hours: For each five counters removed "
+"this way, take an extra turn after this one."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:687
@@ -1586,8 +1582,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:686
 msgid ""
-"When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target"
-" creature."
+"When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target "
+"creature."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:691
@@ -1617,14 +1613,14 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:698
 msgid ""
-"Strive — Setessan Tactics costs |mana_g| more to cast for each target beyond"
-" the first."
+"Strive — Setessan Tactics costs |mana_g| more to cast for each target beyond "
+"the first."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:700
 msgid ""
-"Until end of turn, any number of target creatures each get +1/+1 and gain "
-"\\\"|tap|: This creature fights another target creature.\\\""
+"Until end of turn, any number of target creatures each get +1/+1 and gain \\"
+"\"|tap|: This creature fights another target creature.\\\""
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:709
@@ -1633,8 +1629,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:704
 msgid ""
-"Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an"
-" Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an "
+"Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
@@ -1672,8 +1668,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:720
 msgid ""
-"Strive — Silence the Believers costs |mana_2| |mana_b| more to cast for each"
-" target beyond the first."
+"Strive — Silence the Believers costs |mana_2| |mana_b| more to cast for each "
+"target beyond the first."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:722
@@ -1734,8 +1730,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:748
 msgid ""
-"Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an"
-" Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an "
+"Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
@@ -1900,9 +1896,9 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:820
 msgid ""
-"Constellation — Whenever Thassa's Devourer or another enchantment enters the"
-" battlefield under your control, target player puts the top two cards of his"
-" or her library into his or her graveyard."
+"Constellation — Whenever Thassa's Devourer or another enchantment enters the "
+"battlefield under your control, target player puts the top two cards of his "
+"or her library into his or her graveyard."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:825
@@ -1928,8 +1924,7 @@ msgid "Tormented Thoughts"
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:832
-msgid ""
-"As an additional cost to cast Tormented Thoughts, sacrifice a creature."
+msgid "As an additional cost to cast Tormented Thoughts, sacrifice a creature."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:834
@@ -1969,8 +1964,8 @@ msgstr ""
 #: ../../oldies/python/JOU.rst:848
 msgid ""
 "Choose any number of target creatures you control. For each of them, put a "
-"token that's a copy of that creature onto the battlefield. Those tokens have"
-" haste. Exile them at the beginning of the next end step."
+"token that's a copy of that creature onto the battlefield. Those tokens have "
+"haste. Exile them at the beginning of the next end step."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:855
@@ -2003,8 +1998,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:864
 msgid ""
-"Constellation — Whenever Whitewater Naiads or another enchantment enters the"
-" battlefield under your control, target creature can't be blocked this turn."
+"Constellation — Whenever Whitewater Naiads or another enchantment enters the "
+"battlefield under your control, target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:871
@@ -2019,8 +2014,8 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:870
 msgid ""
-"When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent"
-" and each creature your opponents control."
+"When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent "
+"and each creature your opponents control."
 msgstr ""
 
 #: ../../oldies/python/JOU.rst:875
@@ -2029,7 +2024,7 @@ msgstr ""
 
 #: ../../oldies/python/JOU.rst:874
 msgid ""
-"You control target player during that player's next turn. Exile Worst Fears."
-" (You see all cards that player could see and make all decisions for the "
+"You control target player during that player's next turn. Exile Worst Fears. "
+"(You see all cards that player could see and make all decisions for the "
 "player.)"
 msgstr ""
