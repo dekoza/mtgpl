@@ -1,22 +1,23 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
-# Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2019-06-23 19:54+0000\n"
+"PO-Revision-Date: 2020-01-13 12:47+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c14/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.10.1\n"
 
 #: ../../C14.rst:5
 #, fuzzy
@@ -2436,6 +2437,10 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci X życia, gdzie "
+"X jest twoim kultem czarnego. Zyskaj tyle życia, ile stracono w ten sposób. ("
+"Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem wlicza się "
+"do twojego kultu czarnego.)"
 
 #: ../../C14.rst:842
 msgid ""
