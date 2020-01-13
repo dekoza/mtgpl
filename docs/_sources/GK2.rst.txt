@@ -5,7 +5,7 @@
 ============================
 
 
-:mtgtip:`Isperia, Supreme Judge<https://img.scryfall.com/cards/border_crop/front/f/f/ff875d47-b46e-481e-8fba-cc90870483e0.jpg?1551119208|https://scryfall.com/card/gk2/1/isperia-supreme-judge?utm_source=api>`
+:mtgtip:`Isperia, Supreme Judge<https://img.scryfall.com/cards/border_crop/front/f/f/ff875d47-b46e-481e-8fba-cc90870483e0.jpg?1559958652|https://scryfall.com/card/gk2/1/isperia-supreme-judge?utm_source=api>`
    Flying
 
    Whenever a creature attacks you or a planeswalker you control, you may draw a card.
@@ -81,7 +81,7 @@
    Return target creature to its owner's hand. You gain 2 life.
 
 
-:mtgtip:`Isperia the Inscrutable<https://img.scryfall.com/cards/border_crop/front/0/c/0ca226e3-e392-4c7c-88f0-14e6e3bd17ad.jpg?1551139910|https://scryfall.com/card/gk2/13/isperia-the-inscrutable?utm_source=api>`
+:mtgtip:`Isperia the Inscrutable<https://img.scryfall.com/cards/border_crop/front/0/c/0ca226e3-e392-4c7c-88f0-14e6e3bd17ad.jpg?1559958658|https://scryfall.com/card/gk2/13/isperia-the-inscrutable?utm_source=api>`
    Flying
 
    Whenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.
@@ -93,7 +93,7 @@
    Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays |mana_1|.
 
 
-:mtgtip:`Lavinia of the Tenth<https://img.scryfall.com/cards/border_crop/front/c/3/c31e25f7-cc27-4f72-a314-1cf7971a2fbc.jpg?1551139903|https://scryfall.com/card/gk2/15/lavinia-of-the-tenth?utm_source=api>`
+:mtgtip:`Lavinia of the Tenth<https://img.scryfall.com/cards/border_crop/front/c/3/c31e25f7-cc27-4f72-a314-1cf7971a2fbc.jpg?1559958679|https://scryfall.com/card/gk2/15/lavinia-of-the-tenth?utm_source=api>`
    Protection from red
 
    When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)
@@ -173,7 +173,7 @@
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Teysa, Orzhov Scion<https://img.scryfall.com/cards/border_crop/front/4/7/4716ede8-d08e-426b-aed3-8cf36c9b51c9.jpg?1551119203|https://scryfall.com/card/gk2/28/teysa-orzhov-scion?utm_source=api>`
+:mtgtip:`Teysa, Orzhov Scion<https://img.scryfall.com/cards/border_crop/front/4/7/4716ede8-d08e-426b-aed3-8cf36c9b51c9.jpg?1559958674|https://scryfall.com/card/gk2/28/teysa-orzhov-scion?utm_source=api>`
    Sacrifice three white creatures: Exile target creature.
 
    Whenever another black creature you control dies, create a 1/1 white Spirit creature token with flying.
@@ -321,7 +321,7 @@
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Rakdos, Lord of Riots<https://img.scryfall.com/cards/border_crop/front/1/3/133829fd-4ba5-418c-b64e-7b7157ef1a4c.jpg?1551119198|https://scryfall.com/card/gk2/52/rakdos-lord-of-riots?utm_source=api>`
+:mtgtip:`Rakdos, Lord of Riots<https://img.scryfall.com/cards/border_crop/front/1/3/133829fd-4ba5-418c-b64e-7b7157ef1a4c.jpg?1559958669|https://scryfall.com/card/gk2/52/rakdos-lord-of-riots?utm_source=api>`
    You can't cast this spell unless an opponent lost life this turn.
 
    Flying, trample
@@ -346,7 +346,7 @@
 :mtgtip:`Cackling Flames<https://img.scryfall.com/cards/border_crop/front/e/4/e426e190-d534-4910-8bd2-17a743a1f2a5.jpg?1551119479|https://scryfall.com/card/gk2/55/cackling-flames?utm_source=api>`
    Cackling Flames deals 3 damage to any target.
 
-   Hellbent — Cackling Flames deals 5 damage to that permanent or player instead if you have no cards in hand.
+   Hellbent — Cackling Flames deals 5 damage instead if you have no cards in hand.
 
 
 :mtgtip:`Demonfire<https://img.scryfall.com/cards/border_crop/front/4/f/4fb92be9-da97-49dc-b8df-35f252f3d754.jpg?1551119482|https://scryfall.com/card/gk2/56/demonfire?utm_source=api>`
@@ -441,7 +441,7 @@
    Haste
 
 
-:mtgtip:`Rakdos the Defiler<https://img.scryfall.com/cards/border_crop/front/d/8/d891044d-9e74-4c5d-95e6-83ceb5163ca8.jpg?1551119548|https://scryfall.com/card/gk2/71/rakdos-the-defiler?utm_source=api>`
+:mtgtip:`Rakdos the Defiler<https://img.scryfall.com/cards/border_crop/front/d/8/d891044d-9e74-4c5d-95e6-83ceb5163ca8.jpg?1559958663|https://scryfall.com/card/gk2/71/rakdos-the-defiler?utm_source=api>`
    Flying, trample
 
    Whenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents you control, rounded up.
@@ -487,7 +487,7 @@
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Ruric Thar, the Unbowed<https://img.scryfall.com/cards/border_crop/front/8/4/846b7039-9449-4064-8101-1260c59872a5.jpg?1551119193|https://scryfall.com/card/gk2/80/ruric-thar-the-unbowed?utm_source=api>`
+:mtgtip:`Ruric Thar, the Unbowed<https://img.scryfall.com/cards/border_crop/front/8/4/846b7039-9449-4064-8101-1260c59872a5.jpg?1559958718|https://scryfall.com/card/gk2/80/ruric-thar-the-unbowed?utm_source=api>`
    Vigilance, reach
 
    Ruric Thar, the Unbowed attacks each combat if able.
@@ -641,7 +641,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Zegana, Utopian Speaker<https://img.scryfall.com/cards/border_crop/front/a/3/a3a9755c-b76f-4afd-b891-6ad85e3a5e2b.jpg?1551119188|https://scryfall.com/card/gk2/107/zegana-utopian-speaker?utm_source=api>`
+:mtgtip:`Zegana, Utopian Speaker<https://img.scryfall.com/cards/border_crop/front/a/3/a3a9755c-b76f-4afd-b891-6ad85e3a5e2b.jpg?1559958722|https://scryfall.com/card/gk2/107/zegana-utopian-speaker?utm_source=api>`
    When Zegana, Utopian Speaker enters the battlefield, if you control another creature with a +1/+1 counter on it, draw a card.
 
    |mana_4|\ |mana_g|\ |mana_u|: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)

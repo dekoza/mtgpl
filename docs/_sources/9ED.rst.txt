@@ -5,793 +5,793 @@
 ============================
 
 
-:mtgtip:`Angel of Mercy<https://img.scryfall.com/cards/border_crop/en/9ed/1.jpg?1517813031|https://scryfall.com/card/9ed/1/angel-of-mercy?utm_source=api>`
+:mtgtip:`Angel of Mercy<https://img.scryfall.com/cards/border_crop/front/f/9/f9112433-ae29-4f6a-9798-234c58ff5920.jpg?1562744218|https://scryfall.com/card/9ed/1/angel-of-mercy?utm_source=api>`
    Flying
 
    When Angel of Mercy enters the battlefield, you gain 3 life.
 
 
-:mtgtip:`Eager Cadet<https://img.scryfall.com/cards/border_crop/en/9ed/S1.jpg?1517813031|https://scryfall.com/card/9ed/S1/eager-cadet?utm_source=api>`
+:mtgtip:`Eager Cadet<https://img.scryfall.com/cards/border_crop/front/0/7/0732d372-1000-435e-905b-4a6c852ba427.jpg?1562730884|https://scryfall.com/card/9ed/S1/eager-cadet?utm_source=api>`
    
 
 
-:mtgtip:`Angelic Blessing<https://img.scryfall.com/cards/border_crop/en/9ed/2.jpg?1517813031|https://scryfall.com/card/9ed/2/angelic-blessing?utm_source=api>`
+:mtgtip:`Angelic Blessing<https://img.scryfall.com/cards/border_crop/front/4/9/490d714e-1ccb-4ad0-9854-f14da2e90f7c.jpg?1562734714|https://scryfall.com/card/9ed/2/angelic-blessing?utm_source=api>`
    Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
 
 
-:mtgtip:`Vengeance<https://img.scryfall.com/cards/border_crop/en/9ed/S2.jpg?1517813031|https://scryfall.com/card/9ed/S2/vengeance?utm_source=api>`
+:mtgtip:`Vengeance<https://img.scryfall.com/cards/border_crop/front/3/1/314e7a88-d721-490f-8b62-23ce58092be8.jpg?1562733333|https://scryfall.com/card/9ed/S2/vengeance?utm_source=api>`
    Destroy target tapped creature.
 
 
-:mtgtip:`Aven Cloudchaser<https://img.scryfall.com/cards/border_crop/en/9ed/3.jpg?1517813031|https://scryfall.com/card/9ed/3/aven-cloudchaser?utm_source=api>`
+:mtgtip:`Aven Cloudchaser<https://img.scryfall.com/cards/border_crop/front/e/1/e17844d4-6316-4045-8fd3-194640b10bbe.jpg?1562742959|https://scryfall.com/card/9ed/3/aven-cloudchaser?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    When Aven Cloudchaser enters the battlefield, destroy target enchantment.
 
 
-:mtgtip:`Coral Eel<https://img.scryfall.com/cards/border_crop/en/9ed/S3.jpg?1517813031|https://scryfall.com/card/9ed/S3/coral-eel?utm_source=api>`
+:mtgtip:`Coral Eel<https://img.scryfall.com/cards/border_crop/front/0/0/00223901-d462-41b0-9749-b093058f682f.jpg?1562730475|https://scryfall.com/card/9ed/S3/coral-eel?utm_source=api>`
    
 
 
-:mtgtip:`Aven Flock<https://img.scryfall.com/cards/border_crop/en/9ed/4.jpg?1517813031|https://scryfall.com/card/9ed/4/aven-flock?utm_source=api>`
+:mtgtip:`Aven Flock<https://img.scryfall.com/cards/border_crop/front/4/3/43c97d63-d0f9-402d-948a-b73f73bed919.jpg?1562734412|https://scryfall.com/card/9ed/4/aven-flock?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    |mana_w|: Aven Flock gets +0/+1 until end of turn.
 
 
-:mtgtip:`Giant Octopus<https://img.scryfall.com/cards/border_crop/en/9ed/S4.jpg?1517813031|https://scryfall.com/card/9ed/S4/giant-octopus?utm_source=api>`
+:mtgtip:`Giant Octopus<https://img.scryfall.com/cards/border_crop/front/a/3/a391d681-3530-4f6a-b421-12025e7c3b89.jpg?1562739527|https://scryfall.com/card/9ed/S4/giant-octopus?utm_source=api>`
    
 
 
-:mtgtip:`Ballista Squad<https://img.scryfall.com/cards/border_crop/en/9ed/5.jpg?1517813031|https://scryfall.com/card/9ed/5/ballista-squad?utm_source=api>`
+:mtgtip:`Ballista Squad<https://img.scryfall.com/cards/border_crop/front/5/b/5bb5923b-f2c1-47c4-af1f-af24ac7cb56b.jpg?1562735776|https://scryfall.com/card/9ed/5/ballista-squad?utm_source=api>`
    |mana_x|\ |mana_w|, |tap|: Ballista Squad deals X damage to target attacking or blocking creature.
 
 
-:mtgtip:`Index<https://img.scryfall.com/cards/border_crop/en/9ed/S5.jpg?1517813031|https://scryfall.com/card/9ed/S5/index?utm_source=api>`
+:mtgtip:`Index<https://img.scryfall.com/cards/border_crop/front/0/1/01491b39-283b-438f-8c7c-8df1285e9a83.jpg?1562730562|https://scryfall.com/card/9ed/S5/index?utm_source=api>`
    Look at the top five cards of your library, then put them back in any order.
 
 
-:mtgtip:`Blessed Orator<https://img.scryfall.com/cards/border_crop/en/9ed/6.jpg?1517813031|https://scryfall.com/card/9ed/6/blessed-orator?utm_source=api>`
+:mtgtip:`Blessed Orator<https://img.scryfall.com/cards/border_crop/front/6/c/6c044857-2124-44f4-aafb-495511f26b3b.jpg?1562736688|https://scryfall.com/card/9ed/6/blessed-orator?utm_source=api>`
    Other creatures you control get +0/+1.
 
 
-:mtgtip:`Blinding Angel<https://img.scryfall.com/cards/border_crop/en/9ed/7.jpg?1517813031|https://scryfall.com/card/9ed/7/blinding-angel?utm_source=api>`
+:mtgtip:`Blinding Angel<https://img.scryfall.com/cards/border_crop/front/e/0/e04256f8-c275-4a24-8a95-371d424f7a01.jpg?1562742906|https://scryfall.com/card/9ed/7/blinding-angel?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    Whenever Blinding Angel deals combat damage to a player, that player skips their next combat phase.
 
 
-:mtgtip:`Vizzerdrix<https://img.scryfall.com/cards/border_crop/en/9ed/S7.jpg?1517813031|https://scryfall.com/card/9ed/S7/vizzerdrix?utm_source=api>`
+:mtgtip:`Vizzerdrix<https://img.scryfall.com/cards/border_crop/front/9/a/9a82ffff-e02a-4ecb-a92d-8ed571beac46.jpg?1562739088|https://scryfall.com/card/9ed/S7/vizzerdrix?utm_source=api>`
    
 
 
-:mtgtip:`Blinking Spirit<https://img.scryfall.com/cards/border_crop/en/9ed/8.jpg?1517813031|https://scryfall.com/card/9ed/8/blinking-spirit?utm_source=api>`
+:mtgtip:`Blinking Spirit<https://img.scryfall.com/cards/border_crop/front/6/9/692ac387-be1f-48e0-945e-cbb1254d395c.jpg?1562736517|https://scryfall.com/card/9ed/8/blinking-spirit?utm_source=api>`
    |mana_0|: Return Blinking Spirit to its owner's hand.
 
 
-:mtgtip:`Goblin Raider<https://img.scryfall.com/cards/border_crop/en/9ed/S8.jpg?1517813031|https://scryfall.com/card/9ed/S8/goblin-raider?utm_source=api>`
+:mtgtip:`Goblin Raider<https://img.scryfall.com/cards/border_crop/front/f/0/f026d65f-c365-475b-9454-e9935af00ec4.jpg?1562743793|https://scryfall.com/card/9ed/S8/goblin-raider?utm_source=api>`
    Goblin Raider can't block.
 
 
-:mtgtip:`Chastise<https://img.scryfall.com/cards/border_crop/en/9ed/9.jpg?1517813031|https://scryfall.com/card/9ed/9/chastise?utm_source=api>`
+:mtgtip:`Chastise<https://img.scryfall.com/cards/border_crop/front/7/8/78e0d3d9-8c28-46d7-9fab-c115e6c8682f.jpg?1562737321|https://scryfall.com/card/9ed/9/chastise?utm_source=api>`
    Destroy target attacking creature. You gain life equal to its power.
 
 
-:mtgtip:`Enormous Baloth<https://img.scryfall.com/cards/border_crop/en/9ed/S9.jpg?1517813031|https://scryfall.com/card/9ed/S9/enormous-baloth?utm_source=api>`
+:mtgtip:`Enormous Baloth<https://img.scryfall.com/cards/border_crop/front/6/8/681faafe-68ce-4b71-bf23-a8028614ede5.jpg?1562736443|https://scryfall.com/card/9ed/S9/enormous-baloth?utm_source=api>`
    
 
 
-:mtgtip:`Circle of Protection: Black<https://img.scryfall.com/cards/border_crop/en/9ed/10.jpg?1517813031|https://scryfall.com/card/9ed/10/circle-of-protection:-black?utm_source=api>`
+:mtgtip:`Circle of Protection: Black<https://img.scryfall.com/cards/border_crop/front/e/d/edab2933-5970-4a17-ac00-abcd2c048fdc.jpg?1562743653|https://scryfall.com/card/9ed/10/circle-of-protection:-black?utm_source=api>`
    |mana_1|: The next time a black source of your choice would deal damage to you this turn, prevent that damage.
 
 
-:mtgtip:`Spined Wurm<https://img.scryfall.com/cards/border_crop/en/9ed/S10.jpg?1517813031|https://scryfall.com/card/9ed/S10/spined-wurm?utm_source=api>`
+:mtgtip:`Spined Wurm<https://img.scryfall.com/cards/border_crop/front/0/1/010c3ded-9df5-4880-b178-80f0e3c54731.jpg?1562730537|https://scryfall.com/card/9ed/S10/spined-wurm?utm_source=api>`
    
 
 
-:mtgtip:`Circle of Protection: Red<https://img.scryfall.com/cards/border_crop/en/9ed/11.jpg?1517813031|https://scryfall.com/card/9ed/11/circle-of-protection:-red?utm_source=api>`
+:mtgtip:`Circle of Protection: Red<https://img.scryfall.com/cards/border_crop/front/d/7/d7920b6d-ff71-4802-9589-e1df0c58b9ff.jpg?1562742407|https://scryfall.com/card/9ed/11/circle-of-protection:-red?utm_source=api>`
    |mana_1|: The next time a red source of your choice would deal damage to you this turn, prevent that damage.
 
 
-:mtgtip:`Crossbow Infantry<https://img.scryfall.com/cards/border_crop/en/9ed/12.jpg?1517813031|https://scryfall.com/card/9ed/12/crossbow-infantry?utm_source=api>`
+:mtgtip:`Crossbow Infantry<https://img.scryfall.com/cards/border_crop/front/d/9/d962926a-e415-4075-b5dd-3db68526bdb9.jpg?1562742510|https://scryfall.com/card/9ed/12/crossbow-infantry?utm_source=api>`
    |tap|: Crossbow Infantry deals 1 damage to target attacking or blocking creature.
 
 
-:mtgtip:`Demystify<https://img.scryfall.com/cards/border_crop/en/9ed/13.jpg?1517813031|https://scryfall.com/card/9ed/13/demystify?utm_source=api>`
+:mtgtip:`Demystify<https://img.scryfall.com/cards/border_crop/front/6/a/6a2f98f8-f345-4cd4-90c5-43bc4c4c165d.jpg?1562736583|https://scryfall.com/card/9ed/13/demystify?utm_source=api>`
    Destroy target enchantment.
 
 
-:mtgtip:`Foot Soldiers<https://img.scryfall.com/cards/border_crop/en/9ed/14.jpg?1517813031|https://scryfall.com/card/9ed/14/foot-soldiers?utm_source=api>`
+:mtgtip:`Foot Soldiers<https://img.scryfall.com/cards/border_crop/front/b/a/baff03f3-a8ca-4c35-ae71-43b5d237b519.jpg?1562740835|https://scryfall.com/card/9ed/14/foot-soldiers?utm_source=api>`
    
 
 
-:mtgtip:`Gift of Estates<https://img.scryfall.com/cards/border_crop/en/9ed/15.jpg?1517813031|https://scryfall.com/card/9ed/15/gift-of-estates?utm_source=api>`
+:mtgtip:`Gift of Estates<https://img.scryfall.com/cards/border_crop/front/9/b/9b109388-7988-4092-8cf4-c56668a4c66b.jpg?1562739099|https://scryfall.com/card/9ed/15/gift-of-estates?utm_source=api>`
    If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.
 
 
-:mtgtip:`Glorious Anthem<https://img.scryfall.com/cards/border_crop/en/9ed/16.jpg?1517813031|https://scryfall.com/card/9ed/16/glorious-anthem?utm_source=api>`
+:mtgtip:`Glorious Anthem<https://img.scryfall.com/cards/border_crop/front/3/5/354a94e8-baba-42e1-8577-03bbaa8f5707.jpg?1562733581|https://scryfall.com/card/9ed/16/glorious-anthem?utm_source=api>`
    Creatures you control get +1/+1.
 
 
-:mtgtip:`Glory Seeker<https://img.scryfall.com/cards/border_crop/en/9ed/17.jpg?1517813031|https://scryfall.com/card/9ed/17/glory-seeker?utm_source=api>`
+:mtgtip:`Glory Seeker<https://img.scryfall.com/cards/border_crop/front/4/9/4979748a-4820-4c6a-b4b0-1bfb46e2817a.jpg?1562734726|https://scryfall.com/card/9ed/17/glory-seeker?utm_source=api>`
    
 
 
-:mtgtip:`Holy Day<https://img.scryfall.com/cards/border_crop/en/9ed/18.jpg?1517813031|https://scryfall.com/card/9ed/18/holy-day?utm_source=api>`
+:mtgtip:`Holy Day<https://img.scryfall.com/cards/border_crop/front/5/a/5adefbeb-c9fc-48b7-9030-cd0d367dd19e.jpg?1562735738|https://scryfall.com/card/9ed/18/holy-day?utm_source=api>`
    Prevent all combat damage that would be dealt this turn.
 
 
-:mtgtip:`Holy Strength<https://img.scryfall.com/cards/border_crop/en/9ed/19.jpg?1517813031|https://scryfall.com/card/9ed/19/holy-strength?utm_source=api>`
+:mtgtip:`Holy Strength<https://img.scryfall.com/cards/border_crop/front/7/8/7848f996-ea89-43fd-b0b3-4437f397531a.jpg?1562737295|https://scryfall.com/card/9ed/19/holy-strength?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+2.
 
 
-:mtgtip:`Honor Guard<https://img.scryfall.com/cards/border_crop/en/9ed/20.jpg?1517813031|https://scryfall.com/card/9ed/20/honor-guard?utm_source=api>`
+:mtgtip:`Honor Guard<https://img.scryfall.com/cards/border_crop/front/2/0/20f208a8-115a-4734-b56a-9330018cb269.jpg?1562732436|https://scryfall.com/card/9ed/20/honor-guard?utm_source=api>`
    |mana_w|: Honor Guard gets +0/+1 until end of turn.
 
 
-:mtgtip:`Infantry Veteran<https://img.scryfall.com/cards/border_crop/en/9ed/21.jpg?1517813031|https://scryfall.com/card/9ed/21/infantry-veteran?utm_source=api>`
+:mtgtip:`Infantry Veteran<https://img.scryfall.com/cards/border_crop/front/3/f/3f2b04aa-6643-4eae-9197-4acd7d3e3535.jpg?1562734128|https://scryfall.com/card/9ed/21/infantry-veteran?utm_source=api>`
    |tap|: Target attacking creature gets +1/+1 until end of turn.
 
 
-:mtgtip:`Inspirit<https://img.scryfall.com/cards/border_crop/en/9ed/22.jpg?1517813031|https://scryfall.com/card/9ed/22/inspirit?utm_source=api>`
+:mtgtip:`Inspirit<https://img.scryfall.com/cards/border_crop/front/5/d/5d30356b-ab7b-4366-9f90-15703d5c3d10.jpg?1562735851|https://scryfall.com/card/9ed/22/inspirit?utm_source=api>`
    Untap target creature. It gets +2/+4 until end of turn.
 
 
-:mtgtip:`Ivory Mask<https://img.scryfall.com/cards/border_crop/en/9ed/23.jpg?1517813031|https://scryfall.com/card/9ed/23/ivory-mask?utm_source=api>`
+:mtgtip:`Ivory Mask<https://img.scryfall.com/cards/border_crop/front/b/0/b02422f7-728b-481b-9eb1-34d17c696ce6.jpg?1562740262|https://scryfall.com/card/9ed/23/ivory-mask?utm_source=api>`
    You have shroud. (You can't be the target of spells or abilities.)
 
 
-:mtgtip:`Kami of Old Stone<https://img.scryfall.com/cards/border_crop/en/9ed/24.jpg?1517813031|https://scryfall.com/card/9ed/24/kami-of-old-stone?utm_source=api>`
+:mtgtip:`Kami of Old Stone<https://img.scryfall.com/cards/border_crop/front/4/2/422fe3bd-d92e-4c91-8c30-3b5aec00201a.jpg?1562734315|https://scryfall.com/card/9ed/24/kami-of-old-stone?utm_source=api>`
    
 
 
-:mtgtip:`Leonin Skyhunter<https://img.scryfall.com/cards/border_crop/en/9ed/25.jpg?1517813031|https://scryfall.com/card/9ed/25/leonin-skyhunter?utm_source=api>`
+:mtgtip:`Leonin Skyhunter<https://img.scryfall.com/cards/border_crop/front/0/4/0415fb9e-fe47-435d-b47d-b0e62f51d327.jpg?1562730719|https://scryfall.com/card/9ed/25/leonin-skyhunter?utm_source=api>`
    Flying
 
 
-:mtgtip:`Marble Titan<https://img.scryfall.com/cards/border_crop/en/9ed/26.jpg?1517813031|https://scryfall.com/card/9ed/26/marble-titan?utm_source=api>`
+:mtgtip:`Marble Titan<https://img.scryfall.com/cards/border_crop/front/e/4/e4816f18-9f66-4539-9764-2f65f2826812.jpg?1562743150|https://scryfall.com/card/9ed/26/marble-titan?utm_source=api>`
    Creatures with power 3 or greater don't untap during their controllers' untap steps.
 
 
-:mtgtip:`Master Decoy<https://img.scryfall.com/cards/border_crop/en/9ed/27.jpg?1517813031|https://scryfall.com/card/9ed/27/master-decoy?utm_source=api>`
+:mtgtip:`Master Decoy<https://img.scryfall.com/cards/border_crop/front/6/1/61a49276-fb02-4b8b-8b63-7477835fb809.jpg?1562736099|https://scryfall.com/card/9ed/27/master-decoy?utm_source=api>`
    |mana_w|, |tap|: Tap target creature.
 
 
-:mtgtip:`Master Healer<https://img.scryfall.com/cards/border_crop/en/9ed/28.jpg?1517813031|https://scryfall.com/card/9ed/28/master-healer?utm_source=api>`
+:mtgtip:`Master Healer<https://img.scryfall.com/cards/border_crop/front/c/6/c6a4a15d-9f16-4aa1-adc0-5d4c85991062.jpg?1562741476|https://scryfall.com/card/9ed/28/master-healer?utm_source=api>`
    |tap|: Prevent the next 4 damage that would be dealt to any target this turn.
 
 
-:mtgtip:`Mending Hands<https://img.scryfall.com/cards/border_crop/en/9ed/29.jpg?1517813031|https://scryfall.com/card/9ed/29/mending-hands?utm_source=api>`
+:mtgtip:`Mending Hands<https://img.scryfall.com/cards/border_crop/front/5/3/53709642-9d61-425f-9bcf-0c579404b521.jpg?1562735302|https://scryfall.com/card/9ed/29/mending-hands?utm_source=api>`
    Prevent the next 4 damage that would be dealt to any target this turn.
 
 
-:mtgtip:`Oracle's Attendants<https://img.scryfall.com/cards/border_crop/en/9ed/30.jpg?1517813031|https://scryfall.com/card/9ed/30/oracles-attendants?utm_source=api>`
+:mtgtip:`Oracle's Attendants<https://img.scryfall.com/cards/border_crop/front/1/1/11a180a4-bffc-4f4f-ae34-3afa4a565960.jpg?1562731539|https://scryfall.com/card/9ed/30/oracles-attendants?utm_source=api>`
    |tap|: All damage that would be dealt to target creature this turn by a source of your choice is dealt to Oracle's Attendants instead.
 
 
-:mtgtip:`Pacifism<https://img.scryfall.com/cards/border_crop/en/9ed/31.jpg?1517813031|https://scryfall.com/card/9ed/31/pacifism?utm_source=api>`
+:mtgtip:`Pacifism<https://img.scryfall.com/cards/border_crop/front/f/7/f7b4f7e7-31fa-4009-9b23-cdc2060be8b8.jpg?1562744167|https://scryfall.com/card/9ed/31/pacifism?utm_source=api>`
    Enchant creature
 
    Enchanted creature can't attack or block.
 
 
-:mtgtip:`Paladin en-Vec<https://img.scryfall.com/cards/border_crop/en/9ed/32.jpg?1517813031|https://scryfall.com/card/9ed/32/paladin-en-vec?utm_source=api>`
+:mtgtip:`Paladin en-Vec<https://img.scryfall.com/cards/border_crop/front/d/7/d7fc33dd-0ad6-482c-b29f-71dad8b4166b.jpg?1562742439|https://scryfall.com/card/9ed/32/paladin-en-vec?utm_source=api>`
    First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)
 
 
-:mtgtip:`Peace of Mind<https://img.scryfall.com/cards/border_crop/en/9ed/33.jpg?1517813031|https://scryfall.com/card/9ed/33/peace-of-mind?utm_source=api>`
+:mtgtip:`Peace of Mind<https://img.scryfall.com/cards/border_crop/front/4/2/425b9e34-1ffb-4e46-b08c-d6587f350391.jpg?1562734338|https://scryfall.com/card/9ed/33/peace-of-mind?utm_source=api>`
    |mana_w|, Discard a card: You gain 3 life.
 
 
-:mtgtip:`Pegasus Charger<https://img.scryfall.com/cards/border_crop/en/9ed/34.jpg?1517813031|https://scryfall.com/card/9ed/34/pegasus-charger?utm_source=api>`
+:mtgtip:`Pegasus Charger<https://img.scryfall.com/cards/border_crop/front/0/d/0d0dee73-4df3-4b2f-9420-b23e6ced65c0.jpg?1562731258|https://scryfall.com/card/9ed/34/pegasus-charger?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    First strike (This creature deals combat damage before creatures without first strike.)
 
 
-:mtgtip:`Reverse Damage<https://img.scryfall.com/cards/border_crop/en/9ed/35.jpg?1517813031|https://scryfall.com/card/9ed/35/reverse-damage?utm_source=api>`
+:mtgtip:`Reverse Damage<https://img.scryfall.com/cards/border_crop/front/5/f/5f938c52-c7f6-41a4-b480-632b43b60b67.jpg?1562735969|https://scryfall.com/card/9ed/35/reverse-damage?utm_source=api>`
    The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
 
 
-:mtgtip:`Righteousness<https://img.scryfall.com/cards/border_crop/en/9ed/36.jpg?1517813031|https://scryfall.com/card/9ed/36/righteousness?utm_source=api>`
+:mtgtip:`Righteousness<https://img.scryfall.com/cards/border_crop/front/8/5/85dac325-73d7-4377-8f56-14342e7dacd7.jpg?1562737946|https://scryfall.com/card/9ed/36/righteousness?utm_source=api>`
    Target blocking creature gets +7/+7 until end of turn.
 
 
-:mtgtip:`Sacred Ground<https://img.scryfall.com/cards/border_crop/en/9ed/37.jpg?1517813031|https://scryfall.com/card/9ed/37/sacred-ground?utm_source=api>`
+:mtgtip:`Sacred Ground<https://img.scryfall.com/cards/border_crop/front/d/7/d72dc68a-d6f9-4a18-8282-0f104999591f.jpg?1562742396|https://scryfall.com/card/9ed/37/sacred-ground?utm_source=api>`
    Whenever a spell or ability an opponent controls causes a land to be put into your graveyard from the battlefield, return that card to the battlefield.
 
 
-:mtgtip:`Sacred Nectar<https://img.scryfall.com/cards/border_crop/en/9ed/38.jpg?1517813031|https://scryfall.com/card/9ed/38/sacred-nectar?utm_source=api>`
+:mtgtip:`Sacred Nectar<https://img.scryfall.com/cards/border_crop/front/b/c/bcdd5e1c-47db-4960-860c-2af14b734b59.jpg?1562740903|https://scryfall.com/card/9ed/38/sacred-nectar?utm_source=api>`
    You gain 4 life.
 
 
-:mtgtip:`Samite Healer<https://img.scryfall.com/cards/border_crop/en/9ed/39.jpg?1517813031|https://scryfall.com/card/9ed/39/samite-healer?utm_source=api>`
+:mtgtip:`Samite Healer<https://img.scryfall.com/cards/border_crop/front/0/5/05a74bec-ba6c-45f3-bc25-60cda8fa908b.jpg?1562730818|https://scryfall.com/card/9ed/39/samite-healer?utm_source=api>`
    |tap|: Prevent the next 1 damage that would be dealt to any target this turn.
 
 
-:mtgtip:`Sanctum Guardian<https://img.scryfall.com/cards/border_crop/en/9ed/40.jpg?1517813031|https://scryfall.com/card/9ed/40/sanctum-guardian?utm_source=api>`
+:mtgtip:`Sanctum Guardian<https://img.scryfall.com/cards/border_crop/front/1/6/166cd9d3-7750-4f41-bffd-8f6739204d2e.jpg?1562731847|https://scryfall.com/card/9ed/40/sanctum-guardian?utm_source=api>`
    Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to any target this turn, prevent that damage.
 
 
-:mtgtip:`Savannah Lions<https://img.scryfall.com/cards/border_crop/en/9ed/41.jpg?1517813031|https://scryfall.com/card/9ed/41/savannah-lions?utm_source=api>`
+:mtgtip:`Savannah Lions<https://img.scryfall.com/cards/border_crop/front/d/b/db9f9f3c-d024-4529-bffb-c7a5a3085e58.jpg?1562742634|https://scryfall.com/card/9ed/41/savannah-lions?utm_source=api>`
    
 
 
-:mtgtip:`Seasoned Marshal<https://img.scryfall.com/cards/border_crop/en/9ed/42.jpg?1517813031|https://scryfall.com/card/9ed/42/seasoned-marshal?utm_source=api>`
+:mtgtip:`Seasoned Marshal<https://img.scryfall.com/cards/border_crop/front/5/3/533ed679-d66b-4f3c-83e4-e59ea106b00a.jpg?1562735266|https://scryfall.com/card/9ed/42/seasoned-marshal?utm_source=api>`
    Whenever Seasoned Marshal attacks, you may tap target creature.
 
 
-:mtgtip:`Serra Angel<https://img.scryfall.com/cards/border_crop/en/9ed/43.jpg?1517813031|https://scryfall.com/card/9ed/43/serra-angel?utm_source=api>`
+:mtgtip:`Serra Angel<https://img.scryfall.com/cards/border_crop/front/7/1/71567cb0-f4f3-4e86-a9d3-c207119a3185.jpg?1562736964|https://scryfall.com/card/9ed/43/serra-angel?utm_source=api>`
    Flying, vigilance
 
 
-:mtgtip:`Serra's Blessing<https://img.scryfall.com/cards/border_crop/en/9ed/44.jpg?1517813031|https://scryfall.com/card/9ed/44/serras-blessing?utm_source=api>`
+:mtgtip:`Serra's Blessing<https://img.scryfall.com/cards/border_crop/front/6/1/617547a7-087e-49b0-8c28-5aae457bec99.jpg?1562736098|https://scryfall.com/card/9ed/44/serras-blessing?utm_source=api>`
    Creatures you control have vigilance. (Attacking doesn't cause them to tap.)
 
 
-:mtgtip:`Skyhunter Prowler<https://img.scryfall.com/cards/border_crop/en/9ed/45.jpg?1517813031|https://scryfall.com/card/9ed/45/skyhunter-prowler?utm_source=api>`
+:mtgtip:`Skyhunter Prowler<https://img.scryfall.com/cards/border_crop/front/f/8/f84f34ff-de33-4091-90b6-9de5336987f0.jpg?1562744183|https://scryfall.com/card/9ed/45/skyhunter-prowler?utm_source=api>`
    Flying, vigilance (This creature can't be blocked except by creatures with flying or reach, and attacking doesn't cause this creature to tap.)
 
 
-:mtgtip:`Soul Warden<https://img.scryfall.com/cards/border_crop/en/9ed/46.jpg?1517813031|https://scryfall.com/card/9ed/46/soul-warden?utm_source=api>`
+:mtgtip:`Soul Warden<https://img.scryfall.com/cards/border_crop/front/4/9/494d4f46-4cf7-40f6-9988-5103146f3ff2.jpg?1562734720|https://scryfall.com/card/9ed/46/soul-warden?utm_source=api>`
    Whenever another creature enters the battlefield, you gain 1 life.
 
 
-:mtgtip:`Spirit Link<https://img.scryfall.com/cards/border_crop/en/9ed/47.jpg?1517813031|https://scryfall.com/card/9ed/47/spirit-link?utm_source=api>`
+:mtgtip:`Spirit Link<https://img.scryfall.com/cards/border_crop/front/3/8/38906047-d692-46e4-a42d-08293b42f29c.jpg?1562733801|https://scryfall.com/card/9ed/47/spirit-link?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Whenever enchanted creature deals damage, you gain that much life.
 
 
-:mtgtip:`Story Circle<https://img.scryfall.com/cards/border_crop/en/9ed/48.jpg?1517813031|https://scryfall.com/card/9ed/48/story-circle?utm_source=api>`
+:mtgtip:`Story Circle<https://img.scryfall.com/cards/border_crop/front/b/2/b2762550-6c20-4e76-9d6a-b7085e5baebd.jpg?1562740395|https://scryfall.com/card/9ed/48/story-circle?utm_source=api>`
    As Story Circle enters the battlefield, choose a color.
 
    |mana_w|: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.
 
 
-:mtgtip:`Suntail Hawk<https://img.scryfall.com/cards/border_crop/en/9ed/49.jpg?1517813031|https://scryfall.com/card/9ed/49/suntail-hawk?utm_source=api>`
+:mtgtip:`Suntail Hawk<https://img.scryfall.com/cards/border_crop/front/3/f/3ff9c46b-51d3-44d7-8f27-1a466fa8ba3d.jpg?1562734173|https://scryfall.com/card/9ed/49/suntail-hawk?utm_source=api>`
    Flying
 
 
-:mtgtip:`Tempest of Light<https://img.scryfall.com/cards/border_crop/en/9ed/50.jpg?1517813031|https://scryfall.com/card/9ed/50/tempest-of-light?utm_source=api>`
+:mtgtip:`Tempest of Light<https://img.scryfall.com/cards/border_crop/front/4/3/43c3e220-00c8-4afc-a8a3-e95e7c8c1629.jpg?1562734400|https://scryfall.com/card/9ed/50/tempest-of-light?utm_source=api>`
    Destroy all enchantments.
 
 
-:mtgtip:`Venerable Monk<https://img.scryfall.com/cards/border_crop/en/9ed/51.jpg?1517813031|https://scryfall.com/card/9ed/51/venerable-monk?utm_source=api>`
+:mtgtip:`Venerable Monk<https://img.scryfall.com/cards/border_crop/front/c/8/c8c70b89-9b06-42fe-ba63-99f70642eaf4.jpg?1562741584|https://scryfall.com/card/9ed/51/venerable-monk?utm_source=api>`
    When Venerable Monk enters the battlefield, you gain 2 life.
 
 
-:mtgtip:`Veteran Cavalier<https://img.scryfall.com/cards/border_crop/en/9ed/52.jpg?1517813031|https://scryfall.com/card/9ed/52/veteran-cavalier?utm_source=api>`
+:mtgtip:`Veteran Cavalier<https://img.scryfall.com/cards/border_crop/front/3/1/31072355-0b20-4830-9d46-ca71783af84b.jpg?1562733299|https://scryfall.com/card/9ed/52/veteran-cavalier?utm_source=api>`
    Vigilance (Attacking doesn't cause this creature to tap.)
 
 
-:mtgtip:`Warrior's Honor<https://img.scryfall.com/cards/border_crop/en/9ed/53.jpg?1517813031|https://scryfall.com/card/9ed/53/warriors-honor?utm_source=api>`
+:mtgtip:`Warrior's Honor<https://img.scryfall.com/cards/border_crop/front/5/e/5e9718a0-4e8d-4633-ab18-03ed51b9980c.jpg?1562735911|https://scryfall.com/card/9ed/53/warriors-honor?utm_source=api>`
    Creatures you control get +1/+1 until end of turn.
 
 
-:mtgtip:`Weathered Wayfarer<https://img.scryfall.com/cards/border_crop/en/9ed/54.jpg?1517813031|https://scryfall.com/card/9ed/54/weathered-wayfarer?utm_source=api>`
+:mtgtip:`Weathered Wayfarer<https://img.scryfall.com/cards/border_crop/front/f/e/fe4be040-27b1-4501-b3d4-f12976e568c9.jpg?1562744509|https://scryfall.com/card/9ed/54/weathered-wayfarer?utm_source=api>`
    |mana_w|, |tap|: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.
 
 
-:mtgtip:`Worship<https://img.scryfall.com/cards/border_crop/en/9ed/55.jpg?1517813031|https://scryfall.com/card/9ed/55/worship?utm_source=api>`
+:mtgtip:`Worship<https://img.scryfall.com/cards/border_crop/front/4/a/4ad20044-8ed8-49ae-9a07-d4cb18527cc7.jpg?1562734782|https://scryfall.com/card/9ed/55/worship?utm_source=api>`
    If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.
 
 
-:mtgtip:`Wrath of God<https://img.scryfall.com/cards/border_crop/en/9ed/56.jpg?1517813031|https://scryfall.com/card/9ed/56/wrath-of-god?utm_source=api>`
+:mtgtip:`Wrath of God<https://img.scryfall.com/cards/border_crop/front/b/6/b6c1e9e3-c947-47cc-ac60-dc032d984a67.jpg?1562740608|https://scryfall.com/card/9ed/56/wrath-of-god?utm_source=api>`
    Destroy all creatures. They can't be regenerated.
 
 
-:mtgtip:`Zealous Inquisitor<https://img.scryfall.com/cards/border_crop/en/9ed/57.jpg?1517813031|https://scryfall.com/card/9ed/57/zealous-inquisitor?utm_source=api>`
+:mtgtip:`Zealous Inquisitor<https://img.scryfall.com/cards/border_crop/front/7/6/7621b1af-fdbd-4604-b37c-04fb8f68c3b6.jpg?1562737177|https://scryfall.com/card/9ed/57/zealous-inquisitor?utm_source=api>`
    |mana_1|\ |mana_w|: The next 1 damage that would be dealt to Zealous Inquisitor this turn is dealt to target creature instead.
 
 
-:mtgtip:`Air Elemental<https://img.scryfall.com/cards/border_crop/en/9ed/58.jpg?1517813031|https://scryfall.com/card/9ed/58/air-elemental?utm_source=api>`
-   Flying (This creature can't be blocked except by creatures with flying or reach.)
+:mtgtip:`Air Elemental<https://img.scryfall.com/cards/border_crop/front/f/0/f0267612-fd15-497f-b6be-9e2797e6895d.jpg?1562743791|https://scryfall.com/card/9ed/58/air-elemental?utm_source=api>`
+   Flying
 
 
-:mtgtip:`Annex<https://img.scryfall.com/cards/border_crop/en/9ed/59.jpg?1517813031|https://scryfall.com/card/9ed/59/annex?utm_source=api>`
+:mtgtip:`Annex<https://img.scryfall.com/cards/border_crop/front/b/0/b0df72c6-4f54-43ec-a4e0-5733003f4fd7.jpg?1562740318|https://scryfall.com/card/9ed/59/annex?utm_source=api>`
    Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)
 
    You control enchanted land.
 
 
-:mtgtip:`Archivist<https://img.scryfall.com/cards/border_crop/en/9ed/60.jpg?1517813031|https://scryfall.com/card/9ed/60/archivist?utm_source=api>`
+:mtgtip:`Archivist<https://img.scryfall.com/cards/border_crop/front/2/f/2f025c11-feeb-429b-9518-f24d70596601.jpg?1562733199|https://scryfall.com/card/9ed/60/archivist?utm_source=api>`
    |tap|: Draw a card.
 
 
-:mtgtip:`Aven Fisher<https://img.scryfall.com/cards/border_crop/en/9ed/61.jpg?1517813031|https://scryfall.com/card/9ed/61/aven-fisher?utm_source=api>`
+:mtgtip:`Aven Fisher<https://img.scryfall.com/cards/border_crop/front/6/2/62d3d4fe-0f94-4989-892d-210ae0be67d8.jpg?1562736154|https://scryfall.com/card/9ed/61/aven-fisher?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    When Aven Fisher dies, you may draw a card.
 
 
-:mtgtip:`Aven Windreader<https://img.scryfall.com/cards/border_crop/en/9ed/62.jpg?1517813031|https://scryfall.com/card/9ed/62/aven-windreader?utm_source=api>`
+:mtgtip:`Aven Windreader<https://img.scryfall.com/cards/border_crop/front/1/e/1e017119-4040-4277-849f-3ed961c992c6.jpg?1562732276|https://scryfall.com/card/9ed/62/aven-windreader?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    |mana_1|\ |mana_u|: Target player reveals the top card of their library.
 
 
-:mtgtip:`Azure Drake<https://img.scryfall.com/cards/border_crop/en/9ed/63.jpg?1517813031|https://scryfall.com/card/9ed/63/azure-drake?utm_source=api>`
+:mtgtip:`Azure Drake<https://img.scryfall.com/cards/border_crop/front/1/2/12dab6a1-0f20-4e87-9cb1-8f97eb860999.jpg?1562731598|https://scryfall.com/card/9ed/63/azure-drake?utm_source=api>`
    Flying
 
 
-:mtgtip:`Baleful Stare<https://img.scryfall.com/cards/border_crop/en/9ed/64.jpg?1517813031|https://scryfall.com/card/9ed/64/baleful-stare?utm_source=api>`
+:mtgtip:`Baleful Stare<https://img.scryfall.com/cards/border_crop/front/1/1/118b1df0-1838-40df-af62-08a73c3d8033.jpg?1562731537|https://scryfall.com/card/9ed/64/baleful-stare?utm_source=api>`
    Target opponent reveals their hand. You draw a card for each Mountain and red card in it.
 
 
-:mtgtip:`Battle of Wits<https://img.scryfall.com/cards/border_crop/en/9ed/65.jpg?1517813031|https://scryfall.com/card/9ed/65/battle-of-wits?utm_source=api>`
+:mtgtip:`Battle of Wits<https://img.scryfall.com/cards/border_crop/front/c/9/c9b56b6c-1372-4e4b-afe0-6030777efc68.jpg?1562741648|https://scryfall.com/card/9ed/65/battle-of-wits?utm_source=api>`
    At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.
 
 
-:mtgtip:`Boomerang<https://img.scryfall.com/cards/border_crop/en/9ed/66.jpg?1517813031|https://scryfall.com/card/9ed/66/boomerang?utm_source=api>`
+:mtgtip:`Boomerang<https://img.scryfall.com/cards/border_crop/front/e/a/eac61a76-80a5-4bde-9ff3-c8971a218d60.jpg?1562743503|https://scryfall.com/card/9ed/66/boomerang?utm_source=api>`
    Return target permanent to its owner's hand.
 
 
-:mtgtip:`Clone<https://img.scryfall.com/cards/border_crop/en/9ed/67.jpg?1517813031|https://scryfall.com/card/9ed/67/clone?utm_source=api>`
+:mtgtip:`Clone<https://img.scryfall.com/cards/border_crop/front/8/6/869f64b0-14ca-4171-8fde-1528bf7b9846.jpg?1562738027|https://scryfall.com/card/9ed/67/clone?utm_source=api>`
    You may have Clone enter the battlefield as a copy of any creature on the battlefield.
 
 
-:mtgtip:`Confiscate<https://img.scryfall.com/cards/border_crop/en/9ed/68.jpg?1517813031|https://scryfall.com/card/9ed/68/confiscate?utm_source=api>`
+:mtgtip:`Confiscate<https://img.scryfall.com/cards/border_crop/front/0/9/095d77fd-c1d1-49e6-89f8-a272522e09fe.jpg?1562731025|https://scryfall.com/card/9ed/68/confiscate?utm_source=api>`
    Enchant permanent (Target a permanent as you cast this. This card enters the battlefield attached to that permanent.)
 
    You control enchanted permanent.
 
 
-:mtgtip:`Counsel of the Soratami<https://img.scryfall.com/cards/border_crop/en/9ed/69.jpg?1517813031|https://scryfall.com/card/9ed/69/counsel-of-the-soratami?utm_source=api>`
+:mtgtip:`Counsel of the Soratami<https://img.scryfall.com/cards/border_crop/front/2/3/23ab2cb6-856c-4696-a17b-8f0002bd48ee.jpg?1562732583|https://scryfall.com/card/9ed/69/counsel-of-the-soratami?utm_source=api>`
    Draw two cards.
 
 
-:mtgtip:`Cowardice<https://img.scryfall.com/cards/border_crop/en/9ed/70.jpg?1517813031|https://scryfall.com/card/9ed/70/cowardice?utm_source=api>`
+:mtgtip:`Cowardice<https://img.scryfall.com/cards/border_crop/front/6/7/67c3cf8f-c2f6-4ad0-83f9-960e5d74fc3e.jpg?1562736426|https://scryfall.com/card/9ed/70/cowardice?utm_source=api>`
    Whenever a creature becomes the target of a spell or ability, return that creature to its owner's hand. (It won't be affected by the spell or ability.)
 
 
-:mtgtip:`Crafty Pathmage<https://img.scryfall.com/cards/border_crop/en/9ed/71.jpg?1517813031|https://scryfall.com/card/9ed/71/crafty-pathmage?utm_source=api>`
+:mtgtip:`Crafty Pathmage<https://img.scryfall.com/cards/border_crop/front/c/3/c3eb5c44-3a6f-49b9-a36a-63d0398a34a0.jpg?1562741341|https://scryfall.com/card/9ed/71/crafty-pathmage?utm_source=api>`
    |tap|: Target creature with power 2 or less can't be blocked this turn.
 
 
-:mtgtip:`Daring Apprentice<https://img.scryfall.com/cards/border_crop/en/9ed/72.jpg?1517813031|https://scryfall.com/card/9ed/72/daring-apprentice?utm_source=api>`
+:mtgtip:`Daring Apprentice<https://img.scryfall.com/cards/border_crop/front/6/c/6c5becbf-77ac-4bd2-912d-7f7c944c2a0b.jpg?1562736713|https://scryfall.com/card/9ed/72/daring-apprentice?utm_source=api>`
    |tap|, Sacrifice Daring Apprentice: Counter target spell.
 
 
-:mtgtip:`Dehydration<https://img.scryfall.com/cards/border_crop/en/9ed/73.jpg?1517813031|https://scryfall.com/card/9ed/73/dehydration?utm_source=api>`
+:mtgtip:`Dehydration<https://img.scryfall.com/cards/border_crop/front/6/7/67ef2e44-e2e1-42b7-8f9f-0ce430af2359.jpg?1562736432|https://scryfall.com/card/9ed/73/dehydration?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Dream Prowler<https://img.scryfall.com/cards/border_crop/en/9ed/74.jpg?1517813031|https://scryfall.com/card/9ed/74/dream-prowler?utm_source=api>`
+:mtgtip:`Dream Prowler<https://img.scryfall.com/cards/border_crop/front/e/b/eb3327ff-89d4-40f5-8751-c6669d04fede.jpg?1562743530|https://scryfall.com/card/9ed/74/dream-prowler?utm_source=api>`
    Dream Prowler can't be blocked as long as it's attacking alone.
 
 
-:mtgtip:`Evacuation<https://img.scryfall.com/cards/border_crop/en/9ed/75.jpg?1517813031|https://scryfall.com/card/9ed/75/evacuation?utm_source=api>`
+:mtgtip:`Evacuation<https://img.scryfall.com/cards/border_crop/front/c/a/caccacb7-7d17-4b37-aee9-ba8ed8b90955.jpg?1562741710|https://scryfall.com/card/9ed/75/evacuation?utm_source=api>`
    Return all creatures to their owners' hands.
 
 
-:mtgtip:`Exhaustion<https://img.scryfall.com/cards/border_crop/en/9ed/76.jpg?1517813031|https://scryfall.com/card/9ed/76/exhaustion?utm_source=api>`
+:mtgtip:`Exhaustion<https://img.scryfall.com/cards/border_crop/front/a/e/ae593a2e-42d9-47e3-b6cb-f2e2133944d5.jpg?1562740202|https://scryfall.com/card/9ed/76/exhaustion?utm_source=api>`
    Creatures and lands target opponent controls don't untap during their next untap step.
 
 
-:mtgtip:`Fishliver Oil<https://img.scryfall.com/cards/border_crop/en/9ed/77.jpg?1517813031|https://scryfall.com/card/9ed/77/fishliver-oil?utm_source=api>`
+:mtgtip:`Fishliver Oil<https://img.scryfall.com/cards/border_crop/front/c/3/c3c4a1f4-0a8e-4e70-a2a8-ceebbca63b6c.jpg?1562741330|https://scryfall.com/card/9ed/77/fishliver-oil?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)
 
 
-:mtgtip:`Fleeting Image<https://img.scryfall.com/cards/border_crop/en/9ed/78.jpg?1517813031|https://scryfall.com/card/9ed/78/fleeting-image?utm_source=api>`
+:mtgtip:`Fleeting Image<https://img.scryfall.com/cards/border_crop/front/5/6/564b8cc4-3392-4307-a5e4-5f04e52da3ab.jpg?1562735489|https://scryfall.com/card/9ed/78/fleeting-image?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    |mana_1|\ |mana_u|: Return Fleeting Image to its owner's hand.
 
 
-:mtgtip:`Flight<https://img.scryfall.com/cards/border_crop/en/9ed/79.jpg?1517813031|https://scryfall.com/card/9ed/79/flight?utm_source=api>`
+:mtgtip:`Flight<https://img.scryfall.com/cards/border_crop/front/6/4/64f9c524-89ae-4776-a94d-ee89d57d3e36.jpg?1562736284|https://scryfall.com/card/9ed/79/flight?utm_source=api>`
    Enchant creature
 
    Enchanted creature has flying.
 
 
-:mtgtip:`Fugitive Wizard<https://img.scryfall.com/cards/border_crop/en/9ed/80.jpg?1517813031|https://scryfall.com/card/9ed/80/fugitive-wizard?utm_source=api>`
+:mtgtip:`Fugitive Wizard<https://img.scryfall.com/cards/border_crop/front/0/4/0453fac7-10b9-49d7-8219-78faf9d92d0c.jpg?1562730739|https://scryfall.com/card/9ed/80/fugitive-wizard?utm_source=api>`
    
 
 
-:mtgtip:`Horned Turtle<https://img.scryfall.com/cards/border_crop/en/9ed/81.jpg?1517813031|https://scryfall.com/card/9ed/81/horned-turtle?utm_source=api>`
+:mtgtip:`Horned Turtle<https://img.scryfall.com/cards/border_crop/front/d/8/d807c179-ca5e-4f8d-983f-b1d92eeef40f.jpg?1562742440|https://scryfall.com/card/9ed/81/horned-turtle?utm_source=api>`
    
 
 
-:mtgtip:`Imaginary Pet<https://img.scryfall.com/cards/border_crop/en/9ed/82.jpg?1517813031|https://scryfall.com/card/9ed/82/imaginary-pet?utm_source=api>`
+:mtgtip:`Imaginary Pet<https://img.scryfall.com/cards/border_crop/front/4/3/432d8827-e46d-4c0d-bde3-305594f20f19.jpg?1562734388|https://scryfall.com/card/9ed/82/imaginary-pet?utm_source=api>`
    At the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand.
 
 
-:mtgtip:`Levitation<https://img.scryfall.com/cards/border_crop/en/9ed/83.jpg?1517813031|https://scryfall.com/card/9ed/83/levitation?utm_source=api>`
+:mtgtip:`Levitation<https://img.scryfall.com/cards/border_crop/front/b/1/b1ae6722-cf51-4997-bfba-72dac1f33030.jpg?1562740359|https://scryfall.com/card/9ed/83/levitation?utm_source=api>`
    Creatures you control have flying.
 
 
-:mtgtip:`Lumengrid Warden<https://img.scryfall.com/cards/border_crop/en/9ed/84.jpg?1517813031|https://scryfall.com/card/9ed/84/lumengrid-warden?utm_source=api>`
+:mtgtip:`Lumengrid Warden<https://img.scryfall.com/cards/border_crop/front/a/7/a7b0a060-8ab4-41d9-921d-db5a67fbfaa1.jpg?1562739811|https://scryfall.com/card/9ed/84/lumengrid-warden?utm_source=api>`
    
 
 
-:mtgtip:`Mahamoti Djinn<https://img.scryfall.com/cards/border_crop/en/9ed/85.jpg?1517813031|https://scryfall.com/card/9ed/85/mahamoti-djinn?utm_source=api>`
+:mtgtip:`Mahamoti Djinn<https://img.scryfall.com/cards/border_crop/front/7/f/7f1ef140-9198-4aed-a0cb-2946a87c93c5.jpg?1562737606|https://scryfall.com/card/9ed/85/mahamoti-djinn?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
 
-:mtgtip:`Mana Leak<https://img.scryfall.com/cards/border_crop/en/9ed/86.jpg?1517813031|https://scryfall.com/card/9ed/86/mana-leak?utm_source=api>`
+:mtgtip:`Mana Leak<https://img.scryfall.com/cards/border_crop/front/6/0/60e6486c-644f-4b32-b4e9-3ca29bbdb400.jpg?1562736057|https://scryfall.com/card/9ed/86/mana-leak?utm_source=api>`
    Counter target spell unless its controller pays |mana_3|.
 
 
-:mtgtip:`Mind Bend<https://img.scryfall.com/cards/border_crop/en/9ed/87.jpg?1517813031|https://scryfall.com/card/9ed/87/mind-bend?utm_source=api>`
+:mtgtip:`Mind Bend<https://img.scryfall.com/cards/border_crop/front/5/7/57982c7f-e306-426a-ac90-c2ee488b018e.jpg?1562735595|https://scryfall.com/card/9ed/87/mind-bend?utm_source=api>`
    Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect lasts indefinitely.)
 
 
-:mtgtip:`Phantom Warrior<https://img.scryfall.com/cards/border_crop/en/9ed/88.jpg?1517813031|https://scryfall.com/card/9ed/88/phantom-warrior?utm_source=api>`
+:mtgtip:`Phantom Warrior<https://img.scryfall.com/cards/border_crop/front/2/d/2d045ba0-86e9-444a-86df-6f1e5611429d.jpg?1562733077|https://scryfall.com/card/9ed/88/phantom-warrior?utm_source=api>`
    Phantom Warrior can't be blocked.
 
 
-:mtgtip:`Plagiarize<https://img.scryfall.com/cards/border_crop/en/9ed/89.jpg?1517813031|https://scryfall.com/card/9ed/89/plagiarize?utm_source=api>`
+:mtgtip:`Plagiarize<https://img.scryfall.com/cards/border_crop/front/8/0/80eccbe9-f197-4ec0-b8c1-45a36a063e30.jpg?1562737689|https://scryfall.com/card/9ed/89/plagiarize?utm_source=api>`
    Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.
 
 
-:mtgtip:`Polymorph<https://img.scryfall.com/cards/border_crop/en/9ed/90.jpg?1517813031|https://scryfall.com/card/9ed/90/polymorph?utm_source=api>`
+:mtgtip:`Polymorph<https://img.scryfall.com/cards/border_crop/front/a/6/a681a355-a5e8-4ed2-8983-9c29ab34819b.jpg?1562739732|https://scryfall.com/card/9ed/90/polymorph?utm_source=api>`
    Destroy target creature. It can't be regenerated. Its controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into their library.
 
 
-:mtgtip:`Puppeteer<https://img.scryfall.com/cards/border_crop/en/9ed/91.jpg?1517813031|https://scryfall.com/card/9ed/91/puppeteer?utm_source=api>`
+:mtgtip:`Puppeteer<https://img.scryfall.com/cards/border_crop/front/c/a/ca0359e3-1b8e-4db7-8dec-2d50278e4b00.jpg?1562741655|https://scryfall.com/card/9ed/91/puppeteer?utm_source=api>`
    |mana_u|, |tap|: You may tap or untap target creature.
 
 
-:mtgtip:`Reminisce<https://img.scryfall.com/cards/border_crop/en/9ed/92.jpg?1517813031|https://scryfall.com/card/9ed/92/reminisce?utm_source=api>`
+:mtgtip:`Reminisce<https://img.scryfall.com/cards/border_crop/front/f/a/fab3a79f-354f-49b9-b3c9-44880369ced4.jpg?1562744301|https://scryfall.com/card/9ed/92/reminisce?utm_source=api>`
    Target player shuffles their graveyard into their library.
 
 
-:mtgtip:`Remove Soul<https://img.scryfall.com/cards/border_crop/en/9ed/93.jpg?1517813031|https://scryfall.com/card/9ed/93/remove-soul?utm_source=api>`
+:mtgtip:`Remove Soul<https://img.scryfall.com/cards/border_crop/front/1/7/171fa545-724c-465e-96f6-dc738c0be59d.jpg?1562731894|https://scryfall.com/card/9ed/93/remove-soul?utm_source=api>`
    Counter target creature spell.
 
 
-:mtgtip:`Rewind<https://img.scryfall.com/cards/border_crop/en/9ed/94.jpg?1517813031|https://scryfall.com/card/9ed/94/rewind?utm_source=api>`
+:mtgtip:`Rewind<https://img.scryfall.com/cards/border_crop/front/4/7/47a7176f-0e35-406b-819a-e91b42d07172.jpg?1562734607|https://scryfall.com/card/9ed/94/rewind?utm_source=api>`
    Counter target spell. Untap up to four lands.
 
 
-:mtgtip:`Sage Aven<https://img.scryfall.com/cards/border_crop/en/9ed/95.jpg?1517813031|https://scryfall.com/card/9ed/95/sage-aven?utm_source=api>`
+:mtgtip:`Sage Aven<https://img.scryfall.com/cards/border_crop/front/a/f/af71e998-0ce3-4533-84cd-91cc6f288986.jpg?1562740240|https://scryfall.com/card/9ed/95/sage-aven?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    When Sage Aven enters the battlefield, look at the top four cards of your library, then put them back in any order.
 
 
-:mtgtip:`Sea Monster<https://img.scryfall.com/cards/border_crop/en/9ed/96.jpg?1517813031|https://scryfall.com/card/9ed/96/sea-monster?utm_source=api>`
+:mtgtip:`Sea Monster<https://img.scryfall.com/cards/border_crop/front/6/e/6ee7c3e0-e016-445f-ab3a-3e2d5c26bdac.jpg?1562736853|https://scryfall.com/card/9ed/96/sea-monster?utm_source=api>`
    Sea Monster can't attack unless defending player controls an Island.
 
 
-:mtgtip:`Sea's Claim<https://img.scryfall.com/cards/border_crop/en/9ed/97.jpg?1517813031|https://scryfall.com/card/9ed/97/seas-claim?utm_source=api>`
+:mtgtip:`Sea's Claim<https://img.scryfall.com/cards/border_crop/front/8/2/82e836c8-4371-402f-8f90-81325a9879b8.jpg?1562737796|https://scryfall.com/card/9ed/97/seas-claim?utm_source=api>`
    Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)
 
    Enchanted land is an Island.
 
 
-:mtgtip:`Sift<https://img.scryfall.com/cards/border_crop/en/9ed/98.jpg?1517813031|https://scryfall.com/card/9ed/98/sift?utm_source=api>`
+:mtgtip:`Sift<https://img.scryfall.com/cards/border_crop/front/6/5/65d25807-75e1-41cf-b3e7-f9e42f06c5d3.jpg?1562736321|https://scryfall.com/card/9ed/98/sift?utm_source=api>`
    Draw three cards, then discard a card.
 
 
-:mtgtip:`Sleight of Hand<https://img.scryfall.com/cards/border_crop/en/9ed/99.jpg?1517813031|https://scryfall.com/card/9ed/99/sleight-of-hand?utm_source=api>`
+:mtgtip:`Sleight of Hand<https://img.scryfall.com/cards/border_crop/front/d/1/d1b72631-d537-46e1-b9b3-618fba8a4c46.jpg?1562742119|https://scryfall.com/card/9ed/99/sleight-of-hand?utm_source=api>`
    Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
 
 
-:mtgtip:`Storm Crow<https://img.scryfall.com/cards/border_crop/en/9ed/100.jpg?1517813031|https://scryfall.com/card/9ed/100/storm-crow?utm_source=api>`
+:mtgtip:`Storm Crow<https://img.scryfall.com/cards/border_crop/front/0/3/036ef8c9-72ac-46ce-af07-83b79d736538.jpg?1562730661|https://scryfall.com/card/9ed/100/storm-crow?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
 
-:mtgtip:`Telepathy<https://img.scryfall.com/cards/border_crop/en/9ed/101.jpg?1517813031|https://scryfall.com/card/9ed/101/telepathy?utm_source=api>`
+:mtgtip:`Telepathy<https://img.scryfall.com/cards/border_crop/front/b/9/b900c68f-4e10-459b-b28f-fea9a32e563b.jpg?1562740735|https://scryfall.com/card/9ed/101/telepathy?utm_source=api>`
    Your opponents play with their hands revealed.
 
 
-:mtgtip:`Temporal Adept<https://img.scryfall.com/cards/border_crop/en/9ed/102.jpg?1517813031|https://scryfall.com/card/9ed/102/temporal-adept?utm_source=api>`
+:mtgtip:`Temporal Adept<https://img.scryfall.com/cards/border_crop/front/0/f/0ff2dfe6-dbc0-46c3-9d5c-9f0ba6f511ec.jpg?1562731471|https://scryfall.com/card/9ed/102/temporal-adept?utm_source=api>`
    |mana_u|\ |mana_u|\ |mana_u|, |tap|: Return target permanent to its owner's hand.
 
 
-:mtgtip:`Thieving Magpie<https://img.scryfall.com/cards/border_crop/en/9ed/103.jpg?1517813031|https://scryfall.com/card/9ed/103/thieving-magpie?utm_source=api>`
+:mtgtip:`Thieving Magpie<https://img.scryfall.com/cards/border_crop/front/6/8/68ad3cfe-5bae-4eb7-81a3-744315093ae1.jpg?1562736479|https://scryfall.com/card/9ed/103/thieving-magpie?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    Whenever Thieving Magpie deals damage to an opponent, draw a card.
 
 
-:mtgtip:`Thought Courier<https://img.scryfall.com/cards/border_crop/en/9ed/104.jpg?1517813031|https://scryfall.com/card/9ed/104/thought-courier?utm_source=api>`
+:mtgtip:`Thought Courier<https://img.scryfall.com/cards/border_crop/front/1/c/1c9d2542-501d-4dfe-8642-962d0299ca45.jpg?1562732191|https://scryfall.com/card/9ed/104/thought-courier?utm_source=api>`
    |tap|: Draw a card, then discard a card.
 
 
-:mtgtip:`Tidal Kraken<https://img.scryfall.com/cards/border_crop/en/9ed/105.jpg?1517813031|https://scryfall.com/card/9ed/105/tidal-kraken?utm_source=api>`
+:mtgtip:`Tidal Kraken<https://img.scryfall.com/cards/border_crop/front/5/6/569d1014-e04a-4f8d-a2b2-699b5be08d5d.jpg?1562735516|https://scryfall.com/card/9ed/105/tidal-kraken?utm_source=api>`
    Tidal Kraken can't be blocked.
 
 
-:mtgtip:`Tidings<https://img.scryfall.com/cards/border_crop/en/9ed/106.jpg?1517813031|https://scryfall.com/card/9ed/106/tidings?utm_source=api>`
+:mtgtip:`Tidings<https://img.scryfall.com/cards/border_crop/front/e/2/e28e96c6-4c48-466a-81a0-1137269db529.jpg?1562743048|https://scryfall.com/card/9ed/106/tidings?utm_source=api>`
    Draw four cards.
 
 
-:mtgtip:`Time Ebb<https://img.scryfall.com/cards/border_crop/en/9ed/107.jpg?1517813031|https://scryfall.com/card/9ed/107/time-ebb?utm_source=api>`
+:mtgtip:`Time Ebb<https://img.scryfall.com/cards/border_crop/front/a/7/a7952ea1-a574-4e0e-a3af-0977022c2dfb.jpg?1562739798|https://scryfall.com/card/9ed/107/time-ebb?utm_source=api>`
    Put target creature on top of its owner's library.
 
 
-:mtgtip:`Trade Routes<https://img.scryfall.com/cards/border_crop/en/9ed/108.jpg?1517813031|https://scryfall.com/card/9ed/108/trade-routes?utm_source=api>`
+:mtgtip:`Trade Routes<https://img.scryfall.com/cards/border_crop/front/5/7/57e5d7c9-36f7-4312-ada0-b6c2757487c8.jpg?1562735601|https://scryfall.com/card/9ed/108/trade-routes?utm_source=api>`
    |mana_1|: Return target land you control to its owner's hand.
 
    |mana_1|, Discard a land card: Draw a card.
 
 
-:mtgtip:`Traumatize<https://img.scryfall.com/cards/border_crop/en/9ed/109.jpg?1517813031|https://scryfall.com/card/9ed/109/traumatize?utm_source=api>`
+:mtgtip:`Traumatize<https://img.scryfall.com/cards/border_crop/front/1/9/19a6e8cc-3989-40c4-a49c-cd30ccaba0d5.jpg?1562732022|https://scryfall.com/card/9ed/109/traumatize?utm_source=api>`
    Target player puts the top half of their library, rounded down, into their graveyard.
 
 
-:mtgtip:`Treasure Trove<https://img.scryfall.com/cards/border_crop/en/9ed/110.jpg?1517813031|https://scryfall.com/card/9ed/110/treasure-trove?utm_source=api>`
+:mtgtip:`Treasure Trove<https://img.scryfall.com/cards/border_crop/front/f/1/f145a7d4-151b-41dd-94f9-eda406080222.jpg?1562743826|https://scryfall.com/card/9ed/110/treasure-trove?utm_source=api>`
    |mana_2|\ |mana_u|\ |mana_u|: Draw a card.
 
 
-:mtgtip:`Wanderguard Sentry<https://img.scryfall.com/cards/border_crop/en/9ed/111.jpg?1517813031|https://scryfall.com/card/9ed/111/wanderguard-sentry?utm_source=api>`
+:mtgtip:`Wanderguard Sentry<https://img.scryfall.com/cards/border_crop/front/5/6/562a6a76-7242-4a22-9545-e6aa2dbd5564.jpg?1562735478|https://scryfall.com/card/9ed/111/wanderguard-sentry?utm_source=api>`
    When Wanderguard Sentry enters the battlefield, look at target opponent's hand.
 
 
-:mtgtip:`Wind Drake<https://img.scryfall.com/cards/border_crop/en/9ed/112.jpg?1517813031|https://scryfall.com/card/9ed/112/wind-drake?utm_source=api>`
+:mtgtip:`Wind Drake<https://img.scryfall.com/cards/border_crop/front/6/f/6fed594b-9aa5-4bab-8066-58c3f795d940.jpg?1562736883|https://scryfall.com/card/9ed/112/wind-drake?utm_source=api>`
    Flying
 
 
-:mtgtip:`Withering Gaze<https://img.scryfall.com/cards/border_crop/en/9ed/113.jpg?1517813031|https://scryfall.com/card/9ed/113/withering-gaze?utm_source=api>`
+:mtgtip:`Withering Gaze<https://img.scryfall.com/cards/border_crop/front/f/2/f25580a6-e687-4da5-85f4-07d940acda95.jpg?1562743889|https://scryfall.com/card/9ed/113/withering-gaze?utm_source=api>`
    Target opponent reveals their hand. You draw a card for each Forest and green card in it.
 
 
-:mtgtip:`Zur's Weirding<https://img.scryfall.com/cards/border_crop/en/9ed/114.jpg?1517813031|https://scryfall.com/card/9ed/114/zurs-weirding?utm_source=api>`
+:mtgtip:`Zur's Weirding<https://img.scryfall.com/cards/border_crop/front/7/4/741612e3-fe3a-4099-9d2b-4a654c4ce949.jpg?1562737056|https://scryfall.com/card/9ed/114/zurs-weirding?utm_source=api>`
    Players play with their hands revealed.
 
    If a player would draw a card, they reveal it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.
 
 
-:mtgtip:`Blackmail<https://img.scryfall.com/cards/border_crop/en/9ed/115.jpg?1517813031|https://scryfall.com/card/9ed/115/blackmail?utm_source=api>`
+:mtgtip:`Blackmail<https://img.scryfall.com/cards/border_crop/front/0/5/053e7c76-16b7-44eb-9612-a6800ffb35f8.jpg?1562730795|https://scryfall.com/card/9ed/115/blackmail?utm_source=api>`
    Target player reveals three cards from their hand and you choose one of them. That player discards that card.
 
 
-:mtgtip:`Bog Imp<https://img.scryfall.com/cards/border_crop/en/9ed/116.jpg?1517813031|https://scryfall.com/card/9ed/116/bog-imp?utm_source=api>`
+:mtgtip:`Bog Imp<https://img.scryfall.com/cards/border_crop/front/8/4/846f5cda-3d93-4dfd-b1c3-1dff7b814d98.jpg?1562737863|https://scryfall.com/card/9ed/116/bog-imp?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
 
-:mtgtip:`Bog Wraith<https://img.scryfall.com/cards/border_crop/en/9ed/117.jpg?1517813031|https://scryfall.com/card/9ed/117/bog-wraith?utm_source=api>`
+:mtgtip:`Bog Wraith<https://img.scryfall.com/cards/border_crop/front/2/f/2fa5758d-665f-4585-887d-4bffaf2785a0.jpg?1562733233|https://scryfall.com/card/9ed/117/bog-wraith?utm_source=api>`
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
 
-:mtgtip:`Coercion<https://img.scryfall.com/cards/border_crop/en/9ed/118.jpg?1517813031|https://scryfall.com/card/9ed/118/coercion?utm_source=api>`
+:mtgtip:`Coercion<https://img.scryfall.com/cards/border_crop/front/6/b/6b7a810f-de22-410a-aa08-333920ffdd1f.jpg?1562736668|https://scryfall.com/card/9ed/118/coercion?utm_source=api>`
    Target opponent reveals their hand. You choose a card from it. That player discards that card.
 
 
-:mtgtip:`Consume Spirit<https://img.scryfall.com/cards/border_crop/en/9ed/119.jpg?1517813031|https://scryfall.com/card/9ed/119/consume-spirit?utm_source=api>`
+:mtgtip:`Consume Spirit<https://img.scryfall.com/cards/border_crop/front/e/b/ebe04e55-14b1-4d45-b265-68efdefb1c19.jpg?1562743572|https://scryfall.com/card/9ed/119/consume-spirit?utm_source=api>`
    Spend only black mana on X.
 
    Consume Spirit deals X damage to any target and you gain X life.
 
 
-:mtgtip:`Contaminated Bond<https://img.scryfall.com/cards/border_crop/en/9ed/120.jpg?1517813031|https://scryfall.com/card/9ed/120/contaminated-bond?utm_source=api>`
+:mtgtip:`Contaminated Bond<https://img.scryfall.com/cards/border_crop/front/4/8/481e8dac-8292-4e8f-89a1-b396ce98d3ab.jpg?1562734648|https://scryfall.com/card/9ed/120/contaminated-bond?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Whenever enchanted creature attacks or blocks, its controller loses 3 life.
 
 
-:mtgtip:`Cruel Edict<https://img.scryfall.com/cards/border_crop/en/9ed/121.jpg?1517813031|https://scryfall.com/card/9ed/121/cruel-edict?utm_source=api>`
+:mtgtip:`Cruel Edict<https://img.scryfall.com/cards/border_crop/front/3/d/3dacf711-2cf7-4545-aea6-95b5f8aaa121.jpg?1562734057|https://scryfall.com/card/9ed/121/cruel-edict?utm_source=api>`
    Target opponent sacrifices a creature.
 
 
-:mtgtip:`Dark Banishing<https://img.scryfall.com/cards/border_crop/en/9ed/122.jpg?1517813031|https://scryfall.com/card/9ed/122/dark-banishing?utm_source=api>`
+:mtgtip:`Dark Banishing<https://img.scryfall.com/cards/border_crop/front/2/1/21b6d545-2bef-4230-99ac-ee9bc3e9a53d.jpg?1562732472|https://scryfall.com/card/9ed/122/dark-banishing?utm_source=api>`
    Destroy target nonblack creature. It can't be regenerated.
 
 
-:mtgtip:`Death Pits of Rath<https://img.scryfall.com/cards/border_crop/en/9ed/123.jpg?1517813031|https://scryfall.com/card/9ed/123/death-pits-of-rath?utm_source=api>`
+:mtgtip:`Death Pits of Rath<https://img.scryfall.com/cards/border_crop/front/6/6/6662873b-2c10-442f-9ab5-6f47a4cdb0ce.jpg?1562736343|https://scryfall.com/card/9ed/123/death-pits-of-rath?utm_source=api>`
    Whenever a creature is dealt damage, destroy it. It can't be regenerated.
 
 
-:mtgtip:`Deathgazer<https://img.scryfall.com/cards/border_crop/en/9ed/124.jpg?1517813031|https://scryfall.com/card/9ed/124/deathgazer?utm_source=api>`
+:mtgtip:`Deathgazer<https://img.scryfall.com/cards/border_crop/front/7/6/76502ffc-a26b-4207-a565-044898875f43.jpg?1562737189|https://scryfall.com/card/9ed/124/deathgazer?utm_source=api>`
    Whenever Deathgazer blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.
 
 
-:mtgtip:`Diabolic Tutor<https://img.scryfall.com/cards/border_crop/en/9ed/125.jpg?1517813031|https://scryfall.com/card/9ed/125/diabolic-tutor?utm_source=api>`
+:mtgtip:`Diabolic Tutor<https://img.scryfall.com/cards/border_crop/front/a/0/a0035a78-44ff-4e3a-b297-20cac926c2fb.jpg?1562739360|https://scryfall.com/card/9ed/125/diabolic-tutor?utm_source=api>`
    Search your library for a card and put that card into your hand. Then shuffle your library.
 
 
-:mtgtip:`Drudge Skeletons<https://img.scryfall.com/cards/border_crop/en/9ed/126.jpg?1517813031|https://scryfall.com/card/9ed/126/drudge-skeletons?utm_source=api>`
+:mtgtip:`Drudge Skeletons<https://img.scryfall.com/cards/border_crop/front/3/2/327ddcfc-1e3e-4bf4-a464-1763bec4df35.jpg?1562733422|https://scryfall.com/card/9ed/126/drudge-skeletons?utm_source=api>`
    |mana_b|: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
 
 
-:mtgtip:`Enfeeblement<https://img.scryfall.com/cards/border_crop/en/9ed/127.jpg?1517813031|https://scryfall.com/card/9ed/127/enfeeblement?utm_source=api>`
+:mtgtip:`Enfeeblement<https://img.scryfall.com/cards/border_crop/front/4/a/4adaf0bf-b26d-4166-8809-431283690de7.jpg?1562734783|https://scryfall.com/card/9ed/127/enfeeblement?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Enchanted creature gets -2/-2.
 
 
-:mtgtip:`Execute<https://img.scryfall.com/cards/border_crop/en/9ed/128.jpg?1517813031|https://scryfall.com/card/9ed/128/execute?utm_source=api>`
+:mtgtip:`Execute<https://img.scryfall.com/cards/border_crop/front/8/7/875500ff-bb15-4634-be05-0171cb0ac412.jpg?1562738060|https://scryfall.com/card/9ed/128/execute?utm_source=api>`
    Destroy target white creature. It can't be regenerated.
 
    Draw a card.
 
 
-:mtgtip:`Fear<https://img.scryfall.com/cards/border_crop/en/9ed/129.jpg?1517813031|https://scryfall.com/card/9ed/129/fear?utm_source=api>`
+:mtgtip:`Fear<https://img.scryfall.com/cards/border_crop/front/6/8/68f38700-502f-4442-8563-6f47fc71b272.jpg?1562736496|https://scryfall.com/card/9ed/129/fear?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
 
 
-:mtgtip:`Festering Goblin<https://img.scryfall.com/cards/border_crop/en/9ed/130.jpg?1517813031|https://scryfall.com/card/9ed/130/festering-goblin?utm_source=api>`
+:mtgtip:`Festering Goblin<https://img.scryfall.com/cards/border_crop/front/0/0/00444e40-7436-48c3-9cbb-e6d8b96c1a3a.jpg?1562730486|https://scryfall.com/card/9ed/130/festering-goblin?utm_source=api>`
    When Festering Goblin dies, target creature gets -1/-1 until end of turn.
 
 
-:mtgtip:`Final Punishment<https://img.scryfall.com/cards/border_crop/en/9ed/131.jpg?1517813031|https://scryfall.com/card/9ed/131/final-punishment?utm_source=api>`
+:mtgtip:`Final Punishment<https://img.scryfall.com/cards/border_crop/front/7/2/72df60bb-3309-43e0-ab4a-cec1390fc7cf.jpg?1562737013|https://scryfall.com/card/9ed/131/final-punishment?utm_source=api>`
    Target player loses life equal to the damage already dealt to that player this turn.
 
 
-:mtgtip:`Foul Imp<https://img.scryfall.com/cards/border_crop/en/9ed/132.jpg?1517813031|https://scryfall.com/card/9ed/132/foul-imp?utm_source=api>`
+:mtgtip:`Foul Imp<https://img.scryfall.com/cards/border_crop/front/2/4/24cc73b9-4a24-4a24-8a0e-76126605a3e6.jpg?1562732637|https://scryfall.com/card/9ed/132/foul-imp?utm_source=api>`
    Flying
 
    When Foul Imp enters the battlefield, you lose 2 life.
 
 
-:mtgtip:`Giant Cockroach<https://img.scryfall.com/cards/border_crop/en/9ed/133.jpg?1517813031|https://scryfall.com/card/9ed/133/giant-cockroach?utm_source=api>`
+:mtgtip:`Giant Cockroach<https://img.scryfall.com/cards/border_crop/front/2/5/25ca0c01-2e9f-4f1c-9078-f7a68559296d.jpg?1562732675|https://scryfall.com/card/9ed/133/giant-cockroach?utm_source=api>`
    
 
 
-:mtgtip:`Gluttonous Zombie<https://img.scryfall.com/cards/border_crop/en/9ed/134.jpg?1517813031|https://scryfall.com/card/9ed/134/gluttonous-zombie?utm_source=api>`
+:mtgtip:`Gluttonous Zombie<https://img.scryfall.com/cards/border_crop/front/7/7/7741c976-000d-476c-9b53-34ef1ee701e1.jpg?1562737240|https://scryfall.com/card/9ed/134/gluttonous-zombie?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
 
-:mtgtip:`Grave Pact<https://img.scryfall.com/cards/border_crop/en/9ed/135.jpg?1517813031|https://scryfall.com/card/9ed/135/grave-pact?utm_source=api>`
+:mtgtip:`Grave Pact<https://img.scryfall.com/cards/border_crop/front/2/9/291af6dc-9f71-4e8e-9ecc-24fa90aacb23.jpg?1562732838|https://scryfall.com/card/9ed/135/grave-pact?utm_source=api>`
    Whenever a creature you control dies, each other player sacrifices a creature.
 
 
-:mtgtip:`Gravedigger<https://img.scryfall.com/cards/border_crop/en/9ed/136.jpg?1517813031|https://scryfall.com/card/9ed/136/gravedigger?utm_source=api>`
+:mtgtip:`Gravedigger<https://img.scryfall.com/cards/border_crop/front/b/f/bf1efc01-8dca-4e90-b5c4-14937d154fe4.jpg?1562741054|https://scryfall.com/card/9ed/136/gravedigger?utm_source=api>`
    When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
 
 
-:mtgtip:`Hell's Caretaker<https://img.scryfall.com/cards/border_crop/en/9ed/137.jpg?1517813031|https://scryfall.com/card/9ed/137/hells-caretaker?utm_source=api>`
+:mtgtip:`Hell's Caretaker<https://img.scryfall.com/cards/border_crop/front/b/6/b6269968-0f58-4e20-94d0-678d39207988.jpg?1562740578|https://scryfall.com/card/9ed/137/hells-caretaker?utm_source=api>`
    |tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.
 
 
-:mtgtip:`Highway Robber<https://img.scryfall.com/cards/border_crop/en/9ed/138.jpg?1517813031|https://scryfall.com/card/9ed/138/highway-robber?utm_source=api>`
+:mtgtip:`Highway Robber<https://img.scryfall.com/cards/border_crop/front/1/b/1b3d34d2-d060-4690-aa67-af41117e7333.jpg?1562732104|https://scryfall.com/card/9ed/138/highway-robber?utm_source=api>`
    When Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
 
 
-:mtgtip:`Hollow Dogs<https://img.scryfall.com/cards/border_crop/en/9ed/139.jpg?1517813031|https://scryfall.com/card/9ed/139/hollow-dogs?utm_source=api>`
+:mtgtip:`Hollow Dogs<https://img.scryfall.com/cards/border_crop/front/5/2/520fcafe-0c4a-49ca-8138-57a60506b0cd.jpg?1562735225|https://scryfall.com/card/9ed/139/hollow-dogs?utm_source=api>`
    Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.
 
 
-:mtgtip:`Horror of Horrors<https://img.scryfall.com/cards/border_crop/en/9ed/140.jpg?1517813031|https://scryfall.com/card/9ed/140/horror-of-horrors?utm_source=api>`
+:mtgtip:`Horror of Horrors<https://img.scryfall.com/cards/border_crop/front/f/c/fcae6a15-733d-44ae-ab23-a202ed071f28.jpg?1562744417|https://scryfall.com/card/9ed/140/horror-of-horrors?utm_source=api>`
    Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
 
 
-:mtgtip:`Hypnotic Specter<https://img.scryfall.com/cards/border_crop/en/9ed/141.jpg?1517813031|https://scryfall.com/card/9ed/141/hypnotic-specter?utm_source=api>`
+:mtgtip:`Hypnotic Specter<https://img.scryfall.com/cards/border_crop/front/2/0/205b6734-0205-4a57-ba55-2fd7ab40b8fa.jpg?1562732386|https://scryfall.com/card/9ed/141/hypnotic-specter?utm_source=api>`
    Flying
 
    Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
 
 
-:mtgtip:`Looming Shade<https://img.scryfall.com/cards/border_crop/en/9ed/142.jpg?1517813031|https://scryfall.com/card/9ed/142/looming-shade?utm_source=api>`
+:mtgtip:`Looming Shade<https://img.scryfall.com/cards/border_crop/front/4/5/45304a48-f2a3-4a3c-b6ba-22d318fb0d8c.jpg?1562734510|https://scryfall.com/card/9ed/142/looming-shade?utm_source=api>`
    |mana_b|: Looming Shade gets +1/+1 until end of turn.
 
 
-:mtgtip:`Lord of the Undead<https://img.scryfall.com/cards/border_crop/en/9ed/143.jpg?1517813031|https://scryfall.com/card/9ed/143/lord-of-the-undead?utm_source=api>`
+:mtgtip:`Lord of the Undead<https://img.scryfall.com/cards/border_crop/front/d/e/de29133d-74e5-4631-a283-22aa3c848d96.jpg?1562742777|https://scryfall.com/card/9ed/143/lord-of-the-undead?utm_source=api>`
    Other Zombie creatures get +1/+1.
 
    |mana_1|\ |mana_b|, |tap|: Return target Zombie card from your graveyard to your hand.
 
 
-:mtgtip:`Megrim<https://img.scryfall.com/cards/border_crop/en/9ed/144.jpg?1517813031|https://scryfall.com/card/9ed/144/megrim?utm_source=api>`
+:mtgtip:`Megrim<https://img.scryfall.com/cards/border_crop/front/0/2/02edaa79-2c99-4d37-a54f-0258476cd81c.jpg?1562730628|https://scryfall.com/card/9ed/144/megrim?utm_source=api>`
    Whenever an opponent discards a card, Megrim deals 2 damage to that player.
 
 
-:mtgtip:`Mind Rot<https://img.scryfall.com/cards/border_crop/en/9ed/145.jpg?1517813031|https://scryfall.com/card/9ed/145/mind-rot?utm_source=api>`
+:mtgtip:`Mind Rot<https://img.scryfall.com/cards/border_crop/front/f/3/f3234588-d421-4548-879e-32574b613707.jpg?1562743916|https://scryfall.com/card/9ed/145/mind-rot?utm_source=api>`
    Target player discards two cards.
 
 
-:mtgtip:`Mindslicer<https://img.scryfall.com/cards/border_crop/en/9ed/146.jpg?1517813031|https://scryfall.com/card/9ed/146/mindslicer?utm_source=api>`
+:mtgtip:`Mindslicer<https://img.scryfall.com/cards/border_crop/front/c/1/c1d5437b-158f-4a50-9397-bbde1c4a98d5.jpg?1562741220|https://scryfall.com/card/9ed/146/mindslicer?utm_source=api>`
    When Mindslicer dies, each player discards their hand.
 
 
-:mtgtip:`Mortivore<https://img.scryfall.com/cards/border_crop/en/9ed/147.jpg?1517813031|https://scryfall.com/card/9ed/147/mortivore?utm_source=api>`
+:mtgtip:`Mortivore<https://img.scryfall.com/cards/border_crop/front/3/3/33b2288c-e60e-48c3-8e53-62a47af6da92.jpg?1562733485|https://scryfall.com/card/9ed/147/mortivore?utm_source=api>`
    Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.
 
    |mana_b|: Regenerate Mortivore.
 
 
-:mtgtip:`Nantuko Husk<https://img.scryfall.com/cards/border_crop/en/9ed/148.jpg?1517813031|https://scryfall.com/card/9ed/148/nantuko-husk?utm_source=api>`
+:mtgtip:`Nantuko Husk<https://img.scryfall.com/cards/border_crop/front/9/0/903c05c6-dca4-4094-ac59-0a7cb4d690f6.jpg?1562738495|https://scryfall.com/card/9ed/148/nantuko-husk?utm_source=api>`
    Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
 
 
-:mtgtip:`Nekrataal<https://img.scryfall.com/cards/border_crop/en/9ed/149.jpg?1517813031|https://scryfall.com/card/9ed/149/nekrataal?utm_source=api>`
+:mtgtip:`Nekrataal<https://img.scryfall.com/cards/border_crop/front/f/c/fc7d0ee9-3053-430a-a6a9-1202316f0648.jpg?1562744411|https://scryfall.com/card/9ed/149/nekrataal?utm_source=api>`
    First strike
 
    When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
 
 
-:mtgtip:`Nightmare<https://img.scryfall.com/cards/border_crop/en/9ed/150.jpg?1517813031|https://scryfall.com/card/9ed/150/nightmare?utm_source=api>`
+:mtgtip:`Nightmare<https://img.scryfall.com/cards/border_crop/front/c/6/c6659c13-1858-4a66-a11f-e37416855951.jpg?1562741455|https://scryfall.com/card/9ed/150/nightmare?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    Nightmare's power and toughness are each equal to the number of Swamps you control.
 
 
-:mtgtip:`Persecute<https://img.scryfall.com/cards/border_crop/en/9ed/151.jpg?1517813031|https://scryfall.com/card/9ed/151/persecute?utm_source=api>`
+:mtgtip:`Persecute<https://img.scryfall.com/cards/border_crop/front/5/4/54af13f6-7a7b-431d-9dda-6492d135563f.jpg?1562735379|https://scryfall.com/card/9ed/151/persecute?utm_source=api>`
    Choose a color. Target player reveals their hand and discards all cards of that color.
 
 
-:mtgtip:`Phyrexian Arena<https://img.scryfall.com/cards/border_crop/en/9ed/152.jpg?1517813031|https://scryfall.com/card/9ed/152/phyrexian-arena?utm_source=api>`
+:mtgtip:`Phyrexian Arena<https://img.scryfall.com/cards/border_crop/front/5/4/542370dc-0166-45b9-84bb-000cd97e80b9.jpg?1562735362|https://scryfall.com/card/9ed/152/phyrexian-arena?utm_source=api>`
    At the beginning of your upkeep, you draw a card and you lose 1 life.
 
 
-:mtgtip:`Phyrexian Gargantua<https://img.scryfall.com/cards/border_crop/en/9ed/153.jpg?1517813031|https://scryfall.com/card/9ed/153/phyrexian-gargantua?utm_source=api>`
+:mtgtip:`Phyrexian Gargantua<https://img.scryfall.com/cards/border_crop/front/1/8/18f3d99d-f6e7-4633-948b-21dd64d918fa.jpg?1562731989|https://scryfall.com/card/9ed/153/phyrexian-gargantua?utm_source=api>`
    When Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.
 
 
-:mtgtip:`Plague Beetle<https://img.scryfall.com/cards/border_crop/en/9ed/154.jpg?1517813031|https://scryfall.com/card/9ed/154/plague-beetle?utm_source=api>`
+:mtgtip:`Plague Beetle<https://img.scryfall.com/cards/border_crop/front/d/1/d16fc87c-ec62-4b62-9fb1-0fa5a73d1640.jpg?1562742098|https://scryfall.com/card/9ed/154/plague-beetle?utm_source=api>`
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
 
-:mtgtip:`Plague Wind<https://img.scryfall.com/cards/border_crop/en/9ed/155.jpg?1517813031|https://scryfall.com/card/9ed/155/plague-wind?utm_source=api>`
+:mtgtip:`Plague Wind<https://img.scryfall.com/cards/border_crop/front/7/d/7d9c226b-0201-4af8-b164-5ca0fbdf52a9.jpg?1562737529|https://scryfall.com/card/9ed/155/plague-wind?utm_source=api>`
    Destroy all creatures you don't control. They can't be regenerated.
 
 
-:mtgtip:`Raise Dead<https://img.scryfall.com/cards/border_crop/en/9ed/156.jpg?1517813031|https://scryfall.com/card/9ed/156/raise-dead?utm_source=api>`
+:mtgtip:`Raise Dead<https://img.scryfall.com/cards/border_crop/front/e/7/e768e82c-82d8-4869-9284-7a9ec9d90967.jpg?1562743313|https://scryfall.com/card/9ed/156/raise-dead?utm_source=api>`
    Return target creature card from your graveyard to your hand.
 
 
-:mtgtip:`Ravenous Rats<https://img.scryfall.com/cards/border_crop/en/9ed/157.jpg?1517813031|https://scryfall.com/card/9ed/157/ravenous-rats?utm_source=api>`
+:mtgtip:`Ravenous Rats<https://img.scryfall.com/cards/border_crop/front/a/7/a7b09e94-9504-444c-b002-7418962bf0f9.jpg?1562739810|https://scryfall.com/card/9ed/157/ravenous-rats?utm_source=api>`
    When Ravenous Rats enters the battlefield, target opponent discards a card.
 
 
-:mtgtip:`Razortooth Rats<https://img.scryfall.com/cards/border_crop/en/9ed/158.jpg?1517813031|https://scryfall.com/card/9ed/158/razortooth-rats?utm_source=api>`
+:mtgtip:`Razortooth Rats<https://img.scryfall.com/cards/border_crop/front/9/2/92750247-eba4-4810-a758-f943cd8a16b1.jpg?1562738607|https://scryfall.com/card/9ed/158/razortooth-rats?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
 
-:mtgtip:`Royal Assassin<https://img.scryfall.com/cards/border_crop/en/9ed/159.jpg?1517813031|https://scryfall.com/card/9ed/159/royal-assassin?utm_source=api>`
+:mtgtip:`Royal Assassin<https://img.scryfall.com/cards/border_crop/front/d/2/d2cd1ef7-e89f-444d-81a6-ead16462febc.jpg?1562742171|https://scryfall.com/card/9ed/159/royal-assassin?utm_source=api>`
    |tap|: Destroy target tapped creature.
 
 
-:mtgtip:`Scathe Zombies<https://img.scryfall.com/cards/border_crop/en/9ed/160.jpg?1517813031|https://scryfall.com/card/9ed/160/scathe-zombies?utm_source=api>`
+:mtgtip:`Scathe Zombies<https://img.scryfall.com/cards/border_crop/front/5/4/54360cdf-ecbb-4a52-96a3-fd5d8f9b30bf.jpg?1562735364|https://scryfall.com/card/9ed/160/scathe-zombies?utm_source=api>`
    
 
 
-:mtgtip:`Sengir Vampire<https://img.scryfall.com/cards/border_crop/en/9ed/161.jpg?1517813031|https://scryfall.com/card/9ed/161/sengir-vampire?utm_source=api>`
+:mtgtip:`Sengir Vampire<https://img.scryfall.com/cards/border_crop/front/9/f/9fab1e55-6621-48a7-b2c6-1ef844362279.jpg?1562739340|https://scryfall.com/card/9ed/161/sengir-vampire?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
 
 
-:mtgtip:`Serpent Warrior<https://img.scryfall.com/cards/border_crop/en/9ed/162.jpg?1517813031|https://scryfall.com/card/9ed/162/serpent-warrior?utm_source=api>`
+:mtgtip:`Serpent Warrior<https://img.scryfall.com/cards/border_crop/front/f/6/f6d825dc-c56b-4f59-aae0-ed960e18dfab.jpg?1562744136|https://scryfall.com/card/9ed/162/serpent-warrior?utm_source=api>`
    When Serpent Warrior enters the battlefield, you lose 3 life.
 
 
-:mtgtip:`Slay<https://img.scryfall.com/cards/border_crop/en/9ed/163.jpg?1517813031|https://scryfall.com/card/9ed/163/slay?utm_source=api>`
+:mtgtip:`Slay<https://img.scryfall.com/cards/border_crop/front/a/f/afa460f4-9ae2-4c3a-aa1d-7e8bec9b313d.jpg?1562740256|https://scryfall.com/card/9ed/163/slay?utm_source=api>`
    Destroy target green creature. It can't be regenerated.
 
    Draw a card.
 
 
-:mtgtip:`Soul Feast<https://img.scryfall.com/cards/border_crop/en/9ed/164.jpg?1517813031|https://scryfall.com/card/9ed/164/soul-feast?utm_source=api>`
+:mtgtip:`Soul Feast<https://img.scryfall.com/cards/border_crop/front/1/c/1c5bb17f-e44a-4e2c-880e-733b6496576e.jpg?1562732165|https://scryfall.com/card/9ed/164/soul-feast?utm_source=api>`
    Target player loses 4 life and you gain 4 life.
 
 
-:mtgtip:`Spineless Thug<https://img.scryfall.com/cards/border_crop/en/9ed/165.jpg?1517813031|https://scryfall.com/card/9ed/165/spineless-thug?utm_source=api>`
+:mtgtip:`Spineless Thug<https://img.scryfall.com/cards/border_crop/front/3/9/39e11c98-e19f-4b38-acda-504d291c7f42.jpg?1562733856|https://scryfall.com/card/9ed/165/spineless-thug?utm_source=api>`
    Spineless Thug can't block.
 
 
-:mtgtip:`Swarm of Rats<https://img.scryfall.com/cards/border_crop/en/9ed/166.jpg?1517813031|https://scryfall.com/card/9ed/166/swarm-of-rats?utm_source=api>`
+:mtgtip:`Swarm of Rats<https://img.scryfall.com/cards/border_crop/front/b/a/ba1a92e2-6a8f-45fe-84cc-08fde6210077.jpg?1562740794|https://scryfall.com/card/9ed/166/swarm-of-rats?utm_source=api>`
    Swarm of Rats's power is equal to the number of Rats you control.
 
 
-:mtgtip:`Underworld Dreams<https://img.scryfall.com/cards/border_crop/en/9ed/167.jpg?1517813031|https://scryfall.com/card/9ed/167/underworld-dreams?utm_source=api>`
+:mtgtip:`Underworld Dreams<https://img.scryfall.com/cards/border_crop/front/5/b/5b1cbd83-c997-4c95-86a0-fe3c83d14975.jpg?1562735740|https://scryfall.com/card/9ed/167/underworld-dreams?utm_source=api>`
    Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player.
 
 
-:mtgtip:`Unholy Strength<https://img.scryfall.com/cards/border_crop/en/9ed/168.jpg?1517813031|https://scryfall.com/card/9ed/168/unholy-strength?utm_source=api>`
+:mtgtip:`Unholy Strength<https://img.scryfall.com/cards/border_crop/front/3/e/3ecf0be7-abf8-4681-bb7d-280a7dc5f761.jpg?1562734112|https://scryfall.com/card/9ed/168/unholy-strength?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+1.
 
 
-:mtgtip:`Will-o'-the-Wisp<https://img.scryfall.com/cards/border_crop/en/9ed/169.jpg?1517813031|https://scryfall.com/card/9ed/169/will-o-the-wisp?utm_source=api>`
+:mtgtip:`Will-o'-the-Wisp<https://img.scryfall.com/cards/border_crop/front/5/9/59fb78e2-cb62-43dc-8f5b-bf81d2f02eea.jpg?1562735691|https://scryfall.com/card/9ed/169/will-o-the-wisp?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    |mana_b|: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
 
 
-:mtgtip:`Yawgmoth Demon<https://img.scryfall.com/cards/border_crop/en/9ed/170.jpg?1517813031|https://scryfall.com/card/9ed/170/yawgmoth-demon?utm_source=api>`
+:mtgtip:`Yawgmoth Demon<https://img.scryfall.com/cards/border_crop/front/6/9/696a9fe1-ce63-4638-8793-5187fc726731.jpg?1562736532|https://scryfall.com/card/9ed/170/yawgmoth-demon?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    First strike (This creature deals combat damage before creatures without first strike.)
@@ -799,73 +799,73 @@
    At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.
 
 
-:mtgtip:`Zombify<https://img.scryfall.com/cards/border_crop/en/9ed/171.jpg?1517813031|https://scryfall.com/card/9ed/171/zombify?utm_source=api>`
+:mtgtip:`Zombify<https://img.scryfall.com/cards/border_crop/front/a/9/a9af694a-6a96-494a-ab16-5c7c7e8e17a9.jpg?1562739944|https://scryfall.com/card/9ed/171/zombify?utm_source=api>`
    Return target creature card from your graveyard to the battlefield.
 
 
-:mtgtip:`Anaba Shaman<https://img.scryfall.com/cards/border_crop/en/9ed/172.jpg?1517813031|https://scryfall.com/card/9ed/172/anaba-shaman?utm_source=api>`
+:mtgtip:`Anaba Shaman<https://img.scryfall.com/cards/border_crop/front/7/c/7cae202e-63f1-4d8b-bf85-2bf1a03c054c.jpg?1562737483|https://scryfall.com/card/9ed/172/anaba-shaman?utm_source=api>`
    |mana_r|, |tap|: Anaba Shaman deals 1 damage to any target.
 
 
-:mtgtip:`Anarchist<https://img.scryfall.com/cards/border_crop/en/9ed/173.jpg?1517813031|https://scryfall.com/card/9ed/173/anarchist?utm_source=api>`
+:mtgtip:`Anarchist<https://img.scryfall.com/cards/border_crop/front/f/4/f4a989b0-4305-418c-a326-f89958f0c306.jpg?1562744013|https://scryfall.com/card/9ed/173/anarchist?utm_source=api>`
    When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.
 
 
-:mtgtip:`Balduvian Barbarians<https://img.scryfall.com/cards/border_crop/en/9ed/174.jpg?1517813031|https://scryfall.com/card/9ed/174/balduvian-barbarians?utm_source=api>`
+:mtgtip:`Balduvian Barbarians<https://img.scryfall.com/cards/border_crop/front/c/a/caba00ff-df58-456e-8aeb-fc8b632018a6.jpg?1562741708|https://scryfall.com/card/9ed/174/balduvian-barbarians?utm_source=api>`
    
 
 
-:mtgtip:`Blaze<https://img.scryfall.com/cards/border_crop/en/9ed/175.jpg?1517813031|https://scryfall.com/card/9ed/175/blaze?utm_source=api>`
+:mtgtip:`Blaze<https://img.scryfall.com/cards/border_crop/front/0/3/0313ea00-6c9f-4579-b322-4e37c093774c.jpg?1562730635|https://scryfall.com/card/9ed/175/blaze?utm_source=api>`
    Blaze deals X damage to any target.
 
 
-:mtgtip:`Blood Moon<https://img.scryfall.com/cards/border_crop/en/9ed/176.jpg?1517813031|https://scryfall.com/card/9ed/176/blood-moon?utm_source=api>`
+:mtgtip:`Blood Moon<https://img.scryfall.com/cards/border_crop/front/1/8/18fec1a2-20b0-4412-9392-8a5004f9027e.jpg?1562731990|https://scryfall.com/card/9ed/176/blood-moon?utm_source=api>`
    Nonbasic lands are Mountains.
 
 
-:mtgtip:`Bloodfire Colossus<https://img.scryfall.com/cards/border_crop/en/9ed/177.jpg?1517813031|https://scryfall.com/card/9ed/177/bloodfire-colossus?utm_source=api>`
-   |mana_r|, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.
+:mtgtip:`Bloodfire Colossus<https://img.scryfall.com/cards/border_crop/front/f/d/fd8fe3ff-535b-42d4-807f-0d458ebc8f54.jpg?1562744445|https://scryfall.com/card/9ed/177/bloodfire-colossus?utm_source=api>`
+   |mana_r|, Sacrifice Bloodfire Colossus: It deals 6 damage to each creature and each player.
 
 
-:mtgtip:`Boiling Seas<https://img.scryfall.com/cards/border_crop/en/9ed/178.jpg?1517813031|https://scryfall.com/card/9ed/178/boiling-seas?utm_source=api>`
+:mtgtip:`Boiling Seas<https://img.scryfall.com/cards/border_crop/front/d/0/d08ff26e-c561-4b55-9745-50f896689d0d.jpg?1562742033|https://scryfall.com/card/9ed/178/boiling-seas?utm_source=api>`
    Destroy all Islands.
 
 
-:mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/en/9ed/179.jpg?1517813031|https://scryfall.com/card/9ed/179/demolish?utm_source=api>`
+:mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/front/1/b/1b0fb13b-60f0-4b96-b63c-8a9df745bfca.jpg?1562732100|https://scryfall.com/card/9ed/179/demolish?utm_source=api>`
    Destroy target artifact or land.
 
 
-:mtgtip:`Enrage<https://img.scryfall.com/cards/border_crop/en/9ed/180.jpg?1517813031|https://scryfall.com/card/9ed/180/enrage?utm_source=api>`
+:mtgtip:`Enrage<https://img.scryfall.com/cards/border_crop/front/2/f/2f10e9f0-32c6-40cc-b16d-5590662cdb33.jpg?1562733206|https://scryfall.com/card/9ed/180/enrage?utm_source=api>`
    Target creature gets +X/+0 until end of turn.
 
 
-:mtgtip:`Firebreathing<https://img.scryfall.com/cards/border_crop/en/9ed/181.jpg?1517813031|https://scryfall.com/card/9ed/181/firebreathing?utm_source=api>`
+:mtgtip:`Firebreathing<https://img.scryfall.com/cards/border_crop/front/c/b/cb31487e-72c6-4d11-a80d-1ff3a81e9cd6.jpg?1562741728|https://scryfall.com/card/9ed/181/firebreathing?utm_source=api>`
    Enchant creature
 
    |mana_r|: Enchanted creature gets +1/+0 until end of turn.
 
 
-:mtgtip:`Flame Wave<https://img.scryfall.com/cards/border_crop/en/9ed/182.jpg?1517813031|https://scryfall.com/card/9ed/182/flame-wave?utm_source=api>`
+:mtgtip:`Flame Wave<https://img.scryfall.com/cards/border_crop/front/c/e/ce194b3b-a3e1-4a63-91c9-6454e5b41963.jpg?1562741854|https://scryfall.com/card/9ed/182/flame-wave?utm_source=api>`
    Flame Wave deals 4 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.
 
 
-:mtgtip:`Flashfires<https://img.scryfall.com/cards/border_crop/en/9ed/183.jpg?1517813031|https://scryfall.com/card/9ed/183/flashfires?utm_source=api>`
+:mtgtip:`Flashfires<https://img.scryfall.com/cards/border_crop/front/2/7/277e0846-237e-4117-bdd4-d2e4ae450d43.jpg?1562732763|https://scryfall.com/card/9ed/183/flashfires?utm_source=api>`
    Destroy all Plains.
 
 
-:mtgtip:`Flowstone Crusher<https://img.scryfall.com/cards/border_crop/en/9ed/184.jpg?1517813031|https://scryfall.com/card/9ed/184/flowstone-crusher?utm_source=api>`
+:mtgtip:`Flowstone Crusher<https://img.scryfall.com/cards/border_crop/front/f/d/fd861b1c-8d91-4595-9fcd-b324234f2264.jpg?1562744443|https://scryfall.com/card/9ed/184/flowstone-crusher?utm_source=api>`
    |mana_r|: Flowstone Crusher gets +1/-1 until end of turn.
 
 
-:mtgtip:`Flowstone Shambler<https://img.scryfall.com/cards/border_crop/en/9ed/185.jpg?1517813031|https://scryfall.com/card/9ed/185/flowstone-shambler?utm_source=api>`
+:mtgtip:`Flowstone Shambler<https://img.scryfall.com/cards/border_crop/front/6/5/65669460-54e6-4358-83de-d7a576f9eea3.jpg?1562736295|https://scryfall.com/card/9ed/185/flowstone-shambler?utm_source=api>`
    |mana_r|: Flowstone Shambler gets +1/-1 until end of turn.
 
 
-:mtgtip:`Flowstone Slide<https://img.scryfall.com/cards/border_crop/en/9ed/186.jpg?1517813031|https://scryfall.com/card/9ed/186/flowstone-slide?utm_source=api>`
+:mtgtip:`Flowstone Slide<https://img.scryfall.com/cards/border_crop/front/6/6/66496fd3-6f2e-4d94-a60f-16f5691c3f55.jpg?1562736341|https://scryfall.com/card/9ed/186/flowstone-slide?utm_source=api>`
    All creatures get +X/-X until end of turn.
 
 
-:mtgtip:`Form of the Dragon<https://img.scryfall.com/cards/border_crop/en/9ed/187.jpg?1517813031|https://scryfall.com/card/9ed/187/form-of-the-dragon?utm_source=api>`
+:mtgtip:`Form of the Dragon<https://img.scryfall.com/cards/border_crop/front/1/c/1cfc77f1-290a-4394-bc16-76f3659810f0.jpg?1562732212|https://scryfall.com/card/9ed/187/form-of-the-dragon?utm_source=api>`
    At the beginning of your upkeep, Form of the Dragon deals 5 damage to any target.
 
    At the beginning of each end step, your life total becomes 5.
@@ -873,133 +873,133 @@
    Creatures without flying can't attack you.
 
 
-:mtgtip:`Furnace of Rath<https://img.scryfall.com/cards/border_crop/en/9ed/188.jpg?1517813031|https://scryfall.com/card/9ed/188/furnace-of-rath?utm_source=api>`
+:mtgtip:`Furnace of Rath<https://img.scryfall.com/cards/border_crop/front/e/1/e139a085-d8fe-40a0-984d-4ce9378c48f7.jpg?1562742948|https://scryfall.com/card/9ed/188/furnace-of-rath?utm_source=api>`
    If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
 
 
-:mtgtip:`Goblin Balloon Brigade<https://img.scryfall.com/cards/border_crop/en/9ed/189.jpg?1517813031|https://scryfall.com/card/9ed/189/goblin-balloon-brigade?utm_source=api>`
+:mtgtip:`Goblin Balloon Brigade<https://img.scryfall.com/cards/border_crop/front/0/5/059227f9-f6d7-45ab-8398-35e97b677a08.jpg?1562730811|https://scryfall.com/card/9ed/189/goblin-balloon-brigade?utm_source=api>`
    |mana_r|: Goblin Balloon Brigade gains flying until end of turn.
 
 
-:mtgtip:`Goblin Brigand<https://img.scryfall.com/cards/border_crop/en/9ed/190.jpg?1517813031|https://scryfall.com/card/9ed/190/goblin-brigand?utm_source=api>`
+:mtgtip:`Goblin Brigand<https://img.scryfall.com/cards/border_crop/front/8/6/862a481a-f236-4e99-b4b9-086e6cb8f4de.jpg?1562738002|https://scryfall.com/card/9ed/190/goblin-brigand?utm_source=api>`
    Goblin Brigand attacks each combat if able.
 
 
-:mtgtip:`Goblin Chariot<https://img.scryfall.com/cards/border_crop/en/9ed/191.jpg?1538343290|https://scryfall.com/card/9ed/191/goblin-chariot?utm_source=api>`
+:mtgtip:`Goblin Chariot<https://img.scryfall.com/cards/border_crop/front/1/3/136a15cb-9591-4521-a142-af766dd7eeef.jpg?1562731634|https://scryfall.com/card/9ed/191/goblin-chariot?utm_source=api>`
    Haste (This creature can attack and |tap| as soon as it comes under your control.)
 
 
-:mtgtip:`Goblin King<https://img.scryfall.com/cards/border_crop/en/9ed/192.jpg?1517813031|https://scryfall.com/card/9ed/192/goblin-king?utm_source=api>`
+:mtgtip:`Goblin King<https://img.scryfall.com/cards/border_crop/front/3/4/34c68f83-5471-40b5-a673-84032ce24ba2.jpg?1562733560|https://scryfall.com/card/9ed/192/goblin-king?utm_source=api>`
    Other Goblin creatures get +1/+1 and have mountainwalk. (They can't be blocked as long as defending player controls a Mountain.)
 
 
-:mtgtip:`Goblin Mountaineer<https://img.scryfall.com/cards/border_crop/en/9ed/193.jpg?1517813031|https://scryfall.com/card/9ed/193/goblin-mountaineer?utm_source=api>`
+:mtgtip:`Goblin Mountaineer<https://img.scryfall.com/cards/border_crop/front/8/7/8754592a-2f9b-477c-a049-d9a3eed271e5.jpg?1562738058|https://scryfall.com/card/9ed/193/goblin-mountaineer?utm_source=api>`
    Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
 
 
-:mtgtip:`Goblin Piker<https://img.scryfall.com/cards/border_crop/en/9ed/194.jpg?1517813031|https://scryfall.com/card/9ed/194/goblin-piker?utm_source=api>`
+:mtgtip:`Goblin Piker<https://img.scryfall.com/cards/border_crop/front/3/2/32c86887-678a-4ba5-b0bb-243f4015ad80.jpg?1562733439|https://scryfall.com/card/9ed/194/goblin-piker?utm_source=api>`
    
 
 
-:mtgtip:`Goblin Sky Raider<https://img.scryfall.com/cards/border_crop/en/9ed/195.jpg?1517813031|https://scryfall.com/card/9ed/195/goblin-sky-raider?utm_source=api>`
+:mtgtip:`Goblin Sky Raider<https://img.scryfall.com/cards/border_crop/front/8/5/85fa6280-5620-47d3-93c5-eaed1e5351d2.jpg?1562737957|https://scryfall.com/card/9ed/195/goblin-sky-raider?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
 
-:mtgtip:`Guerrilla Tactics<https://img.scryfall.com/cards/border_crop/en/9ed/196.jpg?1517813031|https://scryfall.com/card/9ed/196/guerrilla-tactics?utm_source=api>`
+:mtgtip:`Guerrilla Tactics<https://img.scryfall.com/cards/border_crop/front/9/7/97f94743-c228-410a-9cb9-d00a1e55dfcf.jpg?1562738958|https://scryfall.com/card/9ed/196/guerrilla-tactics?utm_source=api>`
    Guerrilla Tactics deals 2 damage to any target.
 
    When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to any target.
 
 
-:mtgtip:`Hill Giant<https://img.scryfall.com/cards/border_crop/en/9ed/197.jpg?1517813031|https://scryfall.com/card/9ed/197/hill-giant?utm_source=api>`
+:mtgtip:`Hill Giant<https://img.scryfall.com/cards/border_crop/front/c/a/caa75eaf-948f-4503-962d-95b0321b36d9.jpg?1562741701|https://scryfall.com/card/9ed/197/hill-giant?utm_source=api>`
    
 
 
-:mtgtip:`Karplusan Yeti<https://img.scryfall.com/cards/border_crop/en/9ed/198.jpg?1517813031|https://scryfall.com/card/9ed/198/karplusan-yeti?utm_source=api>`
+:mtgtip:`Karplusan Yeti<https://img.scryfall.com/cards/border_crop/front/6/a/6ad95118-104c-41d4-a393-941e7b97fd8e.jpg?1562736625|https://scryfall.com/card/9ed/198/karplusan-yeti?utm_source=api>`
    |tap|: Karplusan Yeti deals damage equal to its power to target creature. That creature deals damage equal to its power to Karplusan Yeti.
 
 
-:mtgtip:`Kird Ape<https://img.scryfall.com/cards/border_crop/en/9ed/199.jpg?1517813031|https://scryfall.com/card/9ed/199/kird-ape?utm_source=api>`
+:mtgtip:`Kird Ape<https://img.scryfall.com/cards/border_crop/front/2/7/27423c7b-d1fd-471b-9648-8ea5ed9ebaf2.jpg?1562732752|https://scryfall.com/card/9ed/199/kird-ape?utm_source=api>`
    Kird Ape gets +1/+2 as long as you control a Forest.
 
 
-:mtgtip:`Lava Axe<https://img.scryfall.com/cards/border_crop/en/9ed/200.jpg?1517813031|https://scryfall.com/card/9ed/200/lava-axe?utm_source=api>`
+:mtgtip:`Lava Axe<https://img.scryfall.com/cards/border_crop/front/f/b/fbcc027a-55c9-4baf-a801-8db805129d5b.jpg?1562744380|https://scryfall.com/card/9ed/200/lava-axe?utm_source=api>`
    Lava Axe deals 5 damage to target player or planeswalker.
 
 
-:mtgtip:`Lightning Elemental<https://img.scryfall.com/cards/border_crop/en/9ed/201.jpg?1517813031|https://scryfall.com/card/9ed/201/lightning-elemental?utm_source=api>`
+:mtgtip:`Lightning Elemental<https://img.scryfall.com/cards/border_crop/front/2/9/29a23bff-6d5a-4020-afec-874ca48765d6.jpg?1562732883|https://scryfall.com/card/9ed/201/lightning-elemental?utm_source=api>`
    Haste (This creature can attack and |tap| as soon as it comes under your control.)
 
 
-:mtgtip:`Magnivore<https://img.scryfall.com/cards/border_crop/en/9ed/202.jpg?1538343298|https://scryfall.com/card/9ed/202/magnivore?utm_source=api>`
+:mtgtip:`Magnivore<https://img.scryfall.com/cards/border_crop/front/a/b/ab077f67-09c3-43d0-ad27-d1e6255c4d55.jpg?1562740008|https://scryfall.com/card/9ed/202/magnivore?utm_source=api>`
    Haste (This creature can attack and |tap| as soon as it comes under your control.)
 
    Magnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.
 
 
-:mtgtip:`Mana Clash<https://img.scryfall.com/cards/border_crop/en/9ed/203.jpg?1517813031|https://scryfall.com/card/9ed/203/mana-clash?utm_source=api>`
+:mtgtip:`Mana Clash<https://img.scryfall.com/cards/border_crop/front/b/d/bd41352f-617f-40f6-b612-11022180c18b.jpg?1562740934|https://scryfall.com/card/9ed/203/mana-clash?utm_source=api>`
    You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
 
 
-:mtgtip:`Mogg Sentry<https://img.scryfall.com/cards/border_crop/en/9ed/204.jpg?1517813031|https://scryfall.com/card/9ed/204/mogg-sentry?utm_source=api>`
+:mtgtip:`Mogg Sentry<https://img.scryfall.com/cards/border_crop/front/5/6/56100dd7-250d-4a3a-b719-b25fc73873dc.jpg?1562735465|https://scryfall.com/card/9ed/204/mogg-sentry?utm_source=api>`
    Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.
 
 
-:mtgtip:`Ogre Taskmaster<https://img.scryfall.com/cards/border_crop/en/9ed/205.jpg?1517813031|https://scryfall.com/card/9ed/205/ogre-taskmaster?utm_source=api>`
+:mtgtip:`Ogre Taskmaster<https://img.scryfall.com/cards/border_crop/front/9/6/96c08378-7344-4f11-8206-bec2a72f0570.jpg?1562738860|https://scryfall.com/card/9ed/205/ogre-taskmaster?utm_source=api>`
    Ogre Taskmaster can't block.
 
 
-:mtgtip:`Orcish Artillery<https://img.scryfall.com/cards/border_crop/en/9ed/206.jpg?1517813031|https://scryfall.com/card/9ed/206/orcish-artillery?utm_source=api>`
+:mtgtip:`Orcish Artillery<https://img.scryfall.com/cards/border_crop/front/1/4/14addda6-7f7c-4c7f-abfe-e647e0282936.jpg?1562731724|https://scryfall.com/card/9ed/206/orcish-artillery?utm_source=api>`
    |tap|: Orcish Artillery deals 2 damage to any target and 3 damage to you.
 
 
-:mtgtip:`Panic Attack<https://img.scryfall.com/cards/border_crop/en/9ed/207.jpg?1517813031|https://scryfall.com/card/9ed/207/panic-attack?utm_source=api>`
+:mtgtip:`Panic Attack<https://img.scryfall.com/cards/border_crop/front/9/2/92688a63-ae5d-48ee-87ce-a8f163ee8650.jpg?1562738605|https://scryfall.com/card/9ed/207/panic-attack?utm_source=api>`
    Up to three target creatures can't block this turn.
 
 
-:mtgtip:`Pyroclasm<https://img.scryfall.com/cards/border_crop/en/9ed/208.jpg?1517813031|https://scryfall.com/card/9ed/208/pyroclasm?utm_source=api>`
+:mtgtip:`Pyroclasm<https://img.scryfall.com/cards/border_crop/front/e/a/ea6df956-0dc0-41f4-bf37-c88bcd80cc95.jpg?1562743472|https://scryfall.com/card/9ed/208/pyroclasm?utm_source=api>`
    Pyroclasm deals 2 damage to each creature.
 
 
-:mtgtip:`Raging Goblin<https://img.scryfall.com/cards/border_crop/en/9ed/209.jpg?1517813031|https://scryfall.com/card/9ed/209/raging-goblin?utm_source=api>`
+:mtgtip:`Raging Goblin<https://img.scryfall.com/cards/border_crop/front/b/4/b47a96df-dce7-495b-acc0-5551641f5a57.jpg?1562740503|https://scryfall.com/card/9ed/209/raging-goblin?utm_source=api>`
    Haste (This creature can attack and |tap| as soon as it comes under your control.)
 
 
-:mtgtip:`Rathi Dragon<https://img.scryfall.com/cards/border_crop/en/9ed/210.jpg?1517813031|https://scryfall.com/card/9ed/210/rathi-dragon?utm_source=api>`
+:mtgtip:`Rathi Dragon<https://img.scryfall.com/cards/border_crop/front/9/4/94dbcf6c-d947-4d02-acfa-f14763785615.jpg?1562738785|https://scryfall.com/card/9ed/210/rathi-dragon?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.
 
 
-:mtgtip:`Reflexes<https://img.scryfall.com/cards/border_crop/en/9ed/211.jpg?1517813031|https://scryfall.com/card/9ed/211/reflexes?utm_source=api>`
+:mtgtip:`Reflexes<https://img.scryfall.com/cards/border_crop/front/1/3/139d9770-4316-4ac1-b235-5a1d6e15cece.jpg?1562731645|https://scryfall.com/card/9ed/211/reflexes?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Enchanted creature has first strike. (It deals combat damage before creatures without first strike.)
 
 
-:mtgtip:`Relentless Assault<https://img.scryfall.com/cards/border_crop/en/9ed/212.jpg?1517813031|https://scryfall.com/card/9ed/212/relentless-assault?utm_source=api>`
+:mtgtip:`Relentless Assault<https://img.scryfall.com/cards/border_crop/front/b/3/b3b0e2ce-6168-456c-b960-83a21e968504.jpg?1562740439|https://scryfall.com/card/9ed/212/relentless-assault?utm_source=api>`
    Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
 
 
-:mtgtip:`Rogue Kavu<https://img.scryfall.com/cards/border_crop/en/9ed/213.jpg?1517813031|https://scryfall.com/card/9ed/213/rogue-kavu?utm_source=api>`
+:mtgtip:`Rogue Kavu<https://img.scryfall.com/cards/border_crop/front/8/e/8e565859-fb56-4287-a1c5-c50cfff4e8e6.jpg?1562738410|https://scryfall.com/card/9ed/213/rogue-kavu?utm_source=api>`
    Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn.
 
 
-:mtgtip:`Rukh Egg<https://img.scryfall.com/cards/border_crop/en/9ed/214.jpg?1517813031|https://scryfall.com/card/9ed/214/rukh-egg?utm_source=api>`
+:mtgtip:`Rukh Egg<https://img.scryfall.com/cards/border_crop/front/e/4/e4bfc662-edfb-43ff-8022-1db971b1de22.jpg?1562743162|https://scryfall.com/card/9ed/214/rukh-egg?utm_source=api>`
    When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.
 
 
-:mtgtip:`Sandstone Warrior<https://img.scryfall.com/cards/border_crop/en/9ed/215.jpg?1517813031|https://scryfall.com/card/9ed/215/sandstone-warrior?utm_source=api>`
+:mtgtip:`Sandstone Warrior<https://img.scryfall.com/cards/border_crop/front/7/d/7df10856-6e72-4225-8185-abe359768575.jpg?1562737541|https://scryfall.com/card/9ed/215/sandstone-warrior?utm_source=api>`
    First strike (This creature deals combat damage before creatures without first strike.)
 
    |mana_r|: Sandstone Warrior gets +1/+0 until end of turn.
 
 
-:mtgtip:`Seething Song<https://img.scryfall.com/cards/border_crop/en/9ed/216.jpg?1517813031|https://scryfall.com/card/9ed/216/seething-song?utm_source=api>`
+:mtgtip:`Seething Song<https://img.scryfall.com/cards/border_crop/front/1/0/10418027-7b05-49e7-8ff4-6a03e3fb656b.jpg?1562731478|https://scryfall.com/card/9ed/216/seething-song?utm_source=api>`
    Add |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|.
 
 
-:mtgtip:`Shard Phoenix<https://img.scryfall.com/cards/border_crop/en/9ed/217.jpg?1517813031|https://scryfall.com/card/9ed/217/shard-phoenix?utm_source=api>`
+:mtgtip:`Shard Phoenix<https://img.scryfall.com/cards/border_crop/front/e/4/e4d02731-bcdb-4447-adc8-06eea08725ba.jpg?1562743163|https://scryfall.com/card/9ed/217/shard-phoenix?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
@@ -1007,311 +1007,311 @@
    |mana_r|\ |mana_r|\ |mana_r|: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.
 
 
-:mtgtip:`Shatter<https://img.scryfall.com/cards/border_crop/en/9ed/218.jpg?1517813031|https://scryfall.com/card/9ed/218/shatter?utm_source=api>`
+:mtgtip:`Shatter<https://img.scryfall.com/cards/border_crop/front/0/7/07e79ce1-29d6-48d3-b7d5-8cd95cef3234.jpg?1562730930|https://scryfall.com/card/9ed/218/shatter?utm_source=api>`
    Destroy target artifact.
 
 
-:mtgtip:`Shivan Dragon<https://img.scryfall.com/cards/border_crop/en/9ed/219.jpg?1517813031|https://scryfall.com/card/9ed/219/shivan-dragon?utm_source=api>`
+:mtgtip:`Shivan Dragon<https://img.scryfall.com/cards/border_crop/front/5/c/5cbf9dde-e396-43dc-8288-b39e63a23164.jpg?1562735811|https://scryfall.com/card/9ed/219/shivan-dragon?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    |mana_r|: Shivan Dragon gets +1/+0 until end of turn.
 
 
-:mtgtip:`Shock<https://img.scryfall.com/cards/border_crop/en/9ed/220.jpg?1517813031|https://scryfall.com/card/9ed/220/shock?utm_source=api>`
+:mtgtip:`Shock<https://img.scryfall.com/cards/border_crop/front/e/c/ec8b241a-a58e-440a-8591-91dce118bd95.jpg?1562743594|https://scryfall.com/card/9ed/220/shock?utm_source=api>`
    Shock deals 2 damage to any target.
 
 
-:mtgtip:`Stone Rain<https://img.scryfall.com/cards/border_crop/en/9ed/221.jpg?1517813031|https://scryfall.com/card/9ed/221/stone-rain?utm_source=api>`
+:mtgtip:`Stone Rain<https://img.scryfall.com/cards/border_crop/front/d/2/d2334c10-fa96-4f8e-8187-c7ecc00cbac8.jpg?1562742139|https://scryfall.com/card/9ed/221/stone-rain?utm_source=api>`
    Destroy target land.
 
 
-:mtgtip:`Sudden Impact<https://img.scryfall.com/cards/border_crop/en/9ed/222.jpg?1517813031|https://scryfall.com/card/9ed/222/sudden-impact?utm_source=api>`
+:mtgtip:`Sudden Impact<https://img.scryfall.com/cards/border_crop/front/0/6/06823e98-e0ea-490d-8a32-8e657d766f06.jpg?1562730858|https://scryfall.com/card/9ed/222/sudden-impact?utm_source=api>`
    Sudden Impact deals damage to target player equal to the number of cards in that player's hand.
 
 
-:mtgtip:`Threaten<https://img.scryfall.com/cards/border_crop/en/9ed/223.jpg?1517813031|https://scryfall.com/card/9ed/223/threaten?utm_source=api>`
+:mtgtip:`Threaten<https://img.scryfall.com/cards/border_crop/front/3/1/31694de6-567f-449e-a5e5-54d2f62be205.jpg?1562733344|https://scryfall.com/card/9ed/223/threaten?utm_source=api>`
    Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and |tap| this turn.)
 
 
-:mtgtip:`Thundermare<https://img.scryfall.com/cards/border_crop/en/9ed/224.jpg?1538343308|https://scryfall.com/card/9ed/224/thundermare?utm_source=api>`
+:mtgtip:`Thundermare<https://img.scryfall.com/cards/border_crop/front/7/0/7068c0c3-4ec9-4c02-84db-42b609df545f.jpg?1562736929|https://scryfall.com/card/9ed/224/thundermare?utm_source=api>`
    Haste (This creature can attack and |tap| as soon as it comes under your control.)
 
    When Thundermare enters the battlefield, tap all other creatures.
 
 
-:mtgtip:`Viashino Sandstalker<https://img.scryfall.com/cards/border_crop/en/9ed/225.jpg?1538343310|https://scryfall.com/card/9ed/225/viashino-sandstalker?utm_source=api>`
+:mtgtip:`Viashino Sandstalker<https://img.scryfall.com/cards/border_crop/front/1/9/1954d2eb-c1d0-4b99-a89c-357beb710055.jpg?1562732011|https://scryfall.com/card/9ed/225/viashino-sandstalker?utm_source=api>`
    Haste (This creature can attack and |tap| as soon as it comes under your control.)
 
    At the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)
 
 
-:mtgtip:`Volcanic Hammer<https://img.scryfall.com/cards/border_crop/en/9ed/226.jpg?1517813031|https://scryfall.com/card/9ed/226/volcanic-hammer?utm_source=api>`
+:mtgtip:`Volcanic Hammer<https://img.scryfall.com/cards/border_crop/front/9/d/9db3f454-4aeb-4e48-b961-bea760ea8ddf.jpg?1562739230|https://scryfall.com/card/9ed/226/volcanic-hammer?utm_source=api>`
    Volcanic Hammer deals 3 damage to any target.
 
 
-:mtgtip:`Whip Sergeant<https://img.scryfall.com/cards/border_crop/en/9ed/227.jpg?1517813031|https://scryfall.com/card/9ed/227/whip-sergeant?utm_source=api>`
+:mtgtip:`Whip Sergeant<https://img.scryfall.com/cards/border_crop/front/7/f/7f1b672b-1e2b-4969-9b7e-ea44ef766113.jpg?1562737600|https://scryfall.com/card/9ed/227/whip-sergeant?utm_source=api>`
    |mana_r|: Target creature gains haste until end of turn. (It can attack this turn.)
 
 
-:mtgtip:`Wildfire<https://img.scryfall.com/cards/border_crop/en/9ed/228.jpg?1517813031|https://scryfall.com/card/9ed/228/wildfire?utm_source=api>`
+:mtgtip:`Wildfire<https://img.scryfall.com/cards/border_crop/front/8/1/81db2609-b02f-4b46-8467-eac4c7022d5c.jpg?1562737738|https://scryfall.com/card/9ed/228/wildfire?utm_source=api>`
    Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
 
 
-:mtgtip:`Anaconda<https://img.scryfall.com/cards/border_crop/en/9ed/229.jpg?1517813031|https://scryfall.com/card/9ed/229/anaconda?utm_source=api>`
+:mtgtip:`Anaconda<https://img.scryfall.com/cards/border_crop/front/9/f/9f57f8bf-228b-4da2-823c-67bce8b574cd.jpg?1562739314|https://scryfall.com/card/9ed/229/anaconda?utm_source=api>`
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
 
-:mtgtip:`Ancient Silverback<https://img.scryfall.com/cards/border_crop/en/9ed/230.jpg?1517813031|https://scryfall.com/card/9ed/230/ancient-silverback?utm_source=api>`
+:mtgtip:`Ancient Silverback<https://img.scryfall.com/cards/border_crop/front/8/1/818a0944-3534-49e4-8d93-274244043696.jpg?1562737725|https://scryfall.com/card/9ed/230/ancient-silverback?utm_source=api>`
    |mana_g|: Regenerate Ancient Silverback. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
 
 
-:mtgtip:`Biorhythm<https://img.scryfall.com/cards/border_crop/en/9ed/231.jpg?1517813031|https://scryfall.com/card/9ed/231/biorhythm?utm_source=api>`
+:mtgtip:`Biorhythm<https://img.scryfall.com/cards/border_crop/front/1/7/17d1a10f-ce21-4914-9984-c7c559161230.jpg?1562731924|https://scryfall.com/card/9ed/231/biorhythm?utm_source=api>`
    Each player's life total becomes the number of creatures they control.
 
 
-:mtgtip:`Blanchwood Armor<https://img.scryfall.com/cards/border_crop/en/9ed/232.jpg?1517813031|https://scryfall.com/card/9ed/232/blanchwood-armor?utm_source=api>`
+:mtgtip:`Blanchwood Armor<https://img.scryfall.com/cards/border_crop/front/2/2/22e558f1-74ef-4d16-8135-2a8dc0c58fe9.jpg?1562732547|https://scryfall.com/card/9ed/232/blanchwood-armor?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+1 for each Forest you control.
 
 
-:mtgtip:`Craw Wurm<https://img.scryfall.com/cards/border_crop/en/9ed/233.jpg?1517813031|https://scryfall.com/card/9ed/233/craw-wurm?utm_source=api>`
+:mtgtip:`Craw Wurm<https://img.scryfall.com/cards/border_crop/front/1/9/19eee2f9-676d-4d98-a19e-ff5d841c636f.jpg?1562732043|https://scryfall.com/card/9ed/233/craw-wurm?utm_source=api>`
    
 
 
-:mtgtip:`Creeping Mold<https://img.scryfall.com/cards/border_crop/en/9ed/234.jpg?1517813031|https://scryfall.com/card/9ed/234/creeping-mold?utm_source=api>`
+:mtgtip:`Creeping Mold<https://img.scryfall.com/cards/border_crop/front/3/b/3b2a3193-8ef0-4c4d-b12c-06a5ef5bf95e.jpg?1562733935|https://scryfall.com/card/9ed/234/creeping-mold?utm_source=api>`
    Destroy target artifact, enchantment, or land.
 
 
-:mtgtip:`Early Harvest<https://img.scryfall.com/cards/border_crop/en/9ed/235.jpg?1517813031|https://scryfall.com/card/9ed/235/early-harvest?utm_source=api>`
+:mtgtip:`Early Harvest<https://img.scryfall.com/cards/border_crop/front/2/2/22113d08-ecc9-4efd-90f1-00d699582ec3.jpg?1562732503|https://scryfall.com/card/9ed/235/early-harvest?utm_source=api>`
    Target player untaps all basic lands they control.
 
 
-:mtgtip:`Elvish Bard<https://img.scryfall.com/cards/border_crop/en/9ed/236.jpg?1517813031|https://scryfall.com/card/9ed/236/elvish-bard?utm_source=api>`
+:mtgtip:`Elvish Bard<https://img.scryfall.com/cards/border_crop/front/e/2/e2fda362-63ee-4f0b-8faf-a9073e0d5fa0.jpg?1562743080|https://scryfall.com/card/9ed/236/elvish-bard?utm_source=api>`
    All creatures able to block Elvish Bard do so.
 
 
-:mtgtip:`Elvish Berserker<https://img.scryfall.com/cards/border_crop/en/9ed/237.jpg?1517813031|https://scryfall.com/card/9ed/237/elvish-berserker?utm_source=api>`
+:mtgtip:`Elvish Berserker<https://img.scryfall.com/cards/border_crop/front/0/e/0ee84f5c-130b-4f44-a045-3e5728ce0950.jpg?1562731372|https://scryfall.com/card/9ed/237/elvish-berserker?utm_source=api>`
    Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
 
 
-:mtgtip:`Elvish Champion<https://img.scryfall.com/cards/border_crop/en/9ed/238.jpg?1517813031|https://scryfall.com/card/9ed/238/elvish-champion?utm_source=api>`
+:mtgtip:`Elvish Champion<https://img.scryfall.com/cards/border_crop/front/9/e/9ec5af70-10f3-41fe-9548-e65da6ba852b.jpg?1562739276|https://scryfall.com/card/9ed/238/elvish-champion?utm_source=api>`
    Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
 
 
-:mtgtip:`Elvish Piper<https://img.scryfall.com/cards/border_crop/en/9ed/239.jpg?1517813031|https://scryfall.com/card/9ed/239/elvish-piper?utm_source=api>`
+:mtgtip:`Elvish Piper<https://img.scryfall.com/cards/border_crop/front/c/b/cb459fb2-b0d3-4be9-99cb-fcff4518abc2.jpg?1562741729|https://scryfall.com/card/9ed/239/elvish-piper?utm_source=api>`
    |mana_g|, |tap|: You may put a creature card from your hand onto the battlefield.
 
 
-:mtgtip:`Elvish Warrior<https://img.scryfall.com/cards/border_crop/en/9ed/240.jpg?1517813031|https://scryfall.com/card/9ed/240/elvish-warrior?utm_source=api>`
+:mtgtip:`Elvish Warrior<https://img.scryfall.com/cards/border_crop/front/c/1/c18e79e9-39fc-426b-b64f-f20f6077a532.jpg?1562741202|https://scryfall.com/card/9ed/240/elvish-warrior?utm_source=api>`
    
 
 
-:mtgtip:`Emperor Crocodile<https://img.scryfall.com/cards/border_crop/en/9ed/241.jpg?1517813031|https://scryfall.com/card/9ed/241/emperor-crocodile?utm_source=api>`
+:mtgtip:`Emperor Crocodile<https://img.scryfall.com/cards/border_crop/front/8/c/8c4bf2db-b282-4c9d-8afe-053204271996.jpg?1562738311|https://scryfall.com/card/9ed/241/emperor-crocodile?utm_source=api>`
    When you control no other creatures, sacrifice Emperor Crocodile.
 
 
-:mtgtip:`Force of Nature<https://img.scryfall.com/cards/border_crop/en/9ed/242.jpg?1517813031|https://scryfall.com/card/9ed/242/force-of-nature?utm_source=api>`
+:mtgtip:`Force of Nature<https://img.scryfall.com/cards/border_crop/front/7/8/78f3103a-24e9-4462-bf52-8fa5e6214d6d.jpg?1562737322|https://scryfall.com/card/9ed/242/force-of-nature?utm_source=api>`
    Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 
    At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay |mana_g|\ |mana_g|\ |mana_g|\ |mana_g|.
 
 
-:mtgtip:`Giant Growth<https://img.scryfall.com/cards/border_crop/en/9ed/243.jpg?1517813031|https://scryfall.com/card/9ed/243/giant-growth?utm_source=api>`
+:mtgtip:`Giant Growth<https://img.scryfall.com/cards/border_crop/front/9/2/92b1a8a1-6777-4a00-ad3a-defc82bbac27.jpg?1562738618|https://scryfall.com/card/9ed/243/giant-growth?utm_source=api>`
    Target creature gets +3/+3 until end of turn.
 
 
-:mtgtip:`Giant Spider<https://img.scryfall.com/cards/border_crop/en/9ed/244.jpg?1517813031|https://scryfall.com/card/9ed/244/giant-spider?utm_source=api>`
+:mtgtip:`Giant Spider<https://img.scryfall.com/cards/border_crop/front/0/7/072bcf42-6e13-4388-ac47-f91aaa7029d1.jpg?1562730878|https://scryfall.com/card/9ed/244/giant-spider?utm_source=api>`
    Reach (This creature can block creatures with flying.)
 
 
-:mtgtip:`Greater Good<https://img.scryfall.com/cards/border_crop/en/9ed/245.jpg?1517813031|https://scryfall.com/card/9ed/245/greater-good?utm_source=api>`
+:mtgtip:`Greater Good<https://img.scryfall.com/cards/border_crop/front/1/5/153d7669-9063-4fc2-b53b-480b0e741f3f.jpg?1562731774|https://scryfall.com/card/9ed/245/greater-good?utm_source=api>`
    Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.
 
 
-:mtgtip:`Grizzly Bears<https://img.scryfall.com/cards/border_crop/en/9ed/246.jpg?1517813031|https://scryfall.com/card/9ed/246/grizzly-bears?utm_source=api>`
+:mtgtip:`Grizzly Bears<https://img.scryfall.com/cards/border_crop/front/a/0/a0264440-2325-4143-87a7-2af5a6b2a2f9.jpg?1562739363|https://scryfall.com/card/9ed/246/grizzly-bears?utm_source=api>`
    
 
 
-:mtgtip:`Groundskeeper<https://img.scryfall.com/cards/border_crop/en/9ed/247.jpg?1517813031|https://scryfall.com/card/9ed/247/groundskeeper?utm_source=api>`
+:mtgtip:`Groundskeeper<https://img.scryfall.com/cards/border_crop/front/4/2/424d7132-0f7a-48c7-beb6-37fc114113da.jpg?1562734336|https://scryfall.com/card/9ed/247/groundskeeper?utm_source=api>`
    |mana_1|\ |mana_g|: Return target basic land card from your graveyard to your hand.
 
 
-:mtgtip:`Hunted Wumpus<https://img.scryfall.com/cards/border_crop/en/9ed/248.jpg?1517813031|https://scryfall.com/card/9ed/248/hunted-wumpus?utm_source=api>`
+:mtgtip:`Hunted Wumpus<https://img.scryfall.com/cards/border_crop/front/1/b/1b238f33-bab3-4f30-9ed8-01589e77fa27.jpg?1562732102|https://scryfall.com/card/9ed/248/hunted-wumpus?utm_source=api>`
    When Hunted Wumpus enters the battlefield, each other player may put a creature card from their hand onto the battlefield.
 
 
-:mtgtip:`Kavu Climber<https://img.scryfall.com/cards/border_crop/en/9ed/249.jpg?1517813031|https://scryfall.com/card/9ed/249/kavu-climber?utm_source=api>`
+:mtgtip:`Kavu Climber<https://img.scryfall.com/cards/border_crop/front/e/1/e1310a1e-8cb9-4f43-a627-c8d96d600c36.jpg?1562742947|https://scryfall.com/card/9ed/249/kavu-climber?utm_source=api>`
    When Kavu Climber enters the battlefield, draw a card.
 
 
-:mtgtip:`King Cheetah<https://img.scryfall.com/cards/border_crop/en/9ed/250.jpg?1517813031|https://scryfall.com/card/9ed/250/king-cheetah?utm_source=api>`
+:mtgtip:`King Cheetah<https://img.scryfall.com/cards/border_crop/front/8/2/82fc34b5-7558-41b1-97e4-1ee13527dec4.jpg?1562737798|https://scryfall.com/card/9ed/250/king-cheetah?utm_source=api>`
    Flash
 
 
-:mtgtip:`Ley Druid<https://img.scryfall.com/cards/border_crop/en/9ed/251.jpg?1517813031|https://scryfall.com/card/9ed/251/ley-druid?utm_source=api>`
+:mtgtip:`Ley Druid<https://img.scryfall.com/cards/border_crop/front/4/d/4dac78d2-dd1b-412a-b1b4-4fef1a4fd583.jpg?1562734968|https://scryfall.com/card/9ed/251/ley-druid?utm_source=api>`
    |tap|: Untap target land.
 
 
-:mtgtip:`Llanowar Behemoth<https://img.scryfall.com/cards/border_crop/en/9ed/252.jpg?1517813031|https://scryfall.com/card/9ed/252/llanowar-behemoth?utm_source=api>`
+:mtgtip:`Llanowar Behemoth<https://img.scryfall.com/cards/border_crop/front/f/4/f47054d9-ab6c-4d66-8744-b458721a6c98.jpg?1562743992|https://scryfall.com/card/9ed/252/llanowar-behemoth?utm_source=api>`
    Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end of turn.
 
 
-:mtgtip:`Llanowar Elves<https://img.scryfall.com/cards/border_crop/en/9ed/253.jpg?1517813031|https://scryfall.com/card/9ed/253/llanowar-elves?utm_source=api>`
+:mtgtip:`Llanowar Elves<https://img.scryfall.com/cards/border_crop/front/9/1/913907e2-28dd-4080-b725-52a43868e060.jpg?1562738538|https://scryfall.com/card/9ed/253/llanowar-elves?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Maro<https://img.scryfall.com/cards/border_crop/en/9ed/254.jpg?1517813031|https://scryfall.com/card/9ed/254/maro?utm_source=api>`
+:mtgtip:`Maro<https://img.scryfall.com/cards/border_crop/front/9/1/9159e250-4eec-4ec4-80e1-42259331b3b9.jpg?1562738549|https://scryfall.com/card/9ed/254/maro?utm_source=api>`
    Maro's power and toughness are each equal to the number of cards in your hand.
 
 
-:mtgtip:`Might of Oaks<https://img.scryfall.com/cards/border_crop/en/9ed/255.jpg?1517813031|https://scryfall.com/card/9ed/255/might-of-oaks?utm_source=api>`
+:mtgtip:`Might of Oaks<https://img.scryfall.com/cards/border_crop/front/9/d/9d409378-ae02-4421-a866-df442d67032b.jpg?1562739183|https://scryfall.com/card/9ed/255/might-of-oaks?utm_source=api>`
    Target creature gets +7/+7 until end of turn.
 
 
-:mtgtip:`Natural Affinity<https://img.scryfall.com/cards/border_crop/en/9ed/256.jpg?1517813031|https://scryfall.com/card/9ed/256/natural-affinity?utm_source=api>`
+:mtgtip:`Natural Affinity<https://img.scryfall.com/cards/border_crop/front/4/8/4847f8e8-9979-427e-999a-26711e542f82.jpg?1562734655|https://scryfall.com/card/9ed/256/natural-affinity?utm_source=api>`
    All lands become 2/2 creatures until end of turn. They're still lands.
 
 
-:mtgtip:`Natural Spring<https://img.scryfall.com/cards/border_crop/en/9ed/257.jpg?1517813031|https://scryfall.com/card/9ed/257/natural-spring?utm_source=api>`
+:mtgtip:`Natural Spring<https://img.scryfall.com/cards/border_crop/front/b/1/b1986db3-dd6c-44f2-8d7a-a6b42d55a7c1.jpg?1562740349|https://scryfall.com/card/9ed/257/natural-spring?utm_source=api>`
    Target player gains 8 life.
 
 
-:mtgtip:`Naturalize<https://img.scryfall.com/cards/border_crop/en/9ed/258.jpg?1517813031|https://scryfall.com/card/9ed/258/naturalize?utm_source=api>`
+:mtgtip:`Naturalize<https://img.scryfall.com/cards/border_crop/front/5/9/595f1019-2608-4d00-8b9b-7f22e87acd0d.jpg?1562735680|https://scryfall.com/card/9ed/258/naturalize?utm_source=api>`
    Destroy target artifact or enchantment.
 
 
-:mtgtip:`Needle Storm<https://img.scryfall.com/cards/border_crop/en/9ed/259.jpg?1517813031|https://scryfall.com/card/9ed/259/needle-storm?utm_source=api>`
+:mtgtip:`Needle Storm<https://img.scryfall.com/cards/border_crop/front/f/3/f31bc178-f5ec-4e90-b8cf-2c7b00386c98.jpg?1562743915|https://scryfall.com/card/9ed/259/needle-storm?utm_source=api>`
    Needle Storm deals 4 damage to each creature with flying.
 
 
-:mtgtip:`Norwood Ranger<https://img.scryfall.com/cards/border_crop/en/9ed/260.jpg?1517813031|https://scryfall.com/card/9ed/260/norwood-ranger?utm_source=api>`
+:mtgtip:`Norwood Ranger<https://img.scryfall.com/cards/border_crop/front/4/e/4ebf3a7c-e065-468b-a73c-6f986cde3a3d.jpg?1562735038|https://scryfall.com/card/9ed/260/norwood-ranger?utm_source=api>`
    
 
 
-:mtgtip:`Order of the Sacred Bell<https://img.scryfall.com/cards/border_crop/en/9ed/261.jpg?1517813031|https://scryfall.com/card/9ed/261/order-of-the-sacred-bell?utm_source=api>`
+:mtgtip:`Order of the Sacred Bell<https://img.scryfall.com/cards/border_crop/front/3/1/310500b2-8539-441e-af89-81ddfa8ef080.jpg?1562733297|https://scryfall.com/card/9ed/261/order-of-the-sacred-bell?utm_source=api>`
    
 
 
-:mtgtip:`Overgrowth<https://img.scryfall.com/cards/border_crop/en/9ed/262.jpg?1517813031|https://scryfall.com/card/9ed/262/overgrowth?utm_source=api>`
+:mtgtip:`Overgrowth<https://img.scryfall.com/cards/border_crop/front/c/c/cc6da1dd-4172-48df-a3b2-c6d383053f4f.jpg?1562741778|https://scryfall.com/card/9ed/262/overgrowth?utm_source=api>`
    Enchant land
 
    Whenever enchanted land is tapped for mana, its controller adds an additional |mana_g|\ |mana_g|.
 
 
-:mtgtip:`Rampant Growth<https://img.scryfall.com/cards/border_crop/en/9ed/263.jpg?1517813031|https://scryfall.com/card/9ed/263/rampant-growth?utm_source=api>`
+:mtgtip:`Rampant Growth<https://img.scryfall.com/cards/border_crop/front/a/4/a429a983-d28e-46e7-816f-0398428db11a.jpg?1562739577|https://scryfall.com/card/9ed/263/rampant-growth?utm_source=api>`
    Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
 
 
-:mtgtip:`Reclaim<https://img.scryfall.com/cards/border_crop/en/9ed/264.jpg?1517813031|https://scryfall.com/card/9ed/264/reclaim?utm_source=api>`
+:mtgtip:`Reclaim<https://img.scryfall.com/cards/border_crop/front/a/8/a894efb2-7773-4b69-8289-e32d02f679ff.jpg?1562739875|https://scryfall.com/card/9ed/264/reclaim?utm_source=api>`
    Put target card from your graveyard on top of your library.
 
 
-:mtgtip:`Regeneration<https://img.scryfall.com/cards/border_crop/en/9ed/265.jpg?1517813031|https://scryfall.com/card/9ed/265/regeneration?utm_source=api>`
+:mtgtip:`Regeneration<https://img.scryfall.com/cards/border_crop/front/2/f/2f6b0bf1-0506-4d55-8e78-22d50a6edec4.jpg?1562733222|https://scryfall.com/card/9ed/265/regeneration?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    |mana_g|: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
 
 
-:mtgtip:`River Bear<https://img.scryfall.com/cards/border_crop/en/9ed/266.jpg?1517813031|https://scryfall.com/card/9ed/266/river-bear?utm_source=api>`
+:mtgtip:`River Bear<https://img.scryfall.com/cards/border_crop/front/5/1/518bf281-80bc-4e85-9b8e-15577dfcdec7.jpg?1562735181|https://scryfall.com/card/9ed/266/river-bear?utm_source=api>`
    Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
 
 
-:mtgtip:`Rootbreaker Wurm<https://img.scryfall.com/cards/border_crop/en/9ed/267.jpg?1517813031|https://scryfall.com/card/9ed/267/rootbreaker-wurm?utm_source=api>`
+:mtgtip:`Rootbreaker Wurm<https://img.scryfall.com/cards/border_crop/front/a/e/ae084007-69ba-4857-9b0c-28455897f25c.jpg?1562740186|https://scryfall.com/card/9ed/267/rootbreaker-wurm?utm_source=api>`
    Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 
 
-:mtgtip:`Rootwalla<https://img.scryfall.com/cards/border_crop/en/9ed/268.jpg?1517813031|https://scryfall.com/card/9ed/268/rootwalla?utm_source=api>`
+:mtgtip:`Rootwalla<https://img.scryfall.com/cards/border_crop/front/0/8/08436832-2aab-47b0-b0da-b1b153e4b200.jpg?1562730961|https://scryfall.com/card/9ed/268/rootwalla?utm_source=api>`
    |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
 
 
-:mtgtip:`Scaled Wurm<https://img.scryfall.com/cards/border_crop/en/9ed/269.jpg?1517813031|https://scryfall.com/card/9ed/269/scaled-wurm?utm_source=api>`
+:mtgtip:`Scaled Wurm<https://img.scryfall.com/cards/border_crop/front/2/4/24e37991-8f7a-4c24-9f94-45bb59dd30b6.jpg?1562732639|https://scryfall.com/card/9ed/269/scaled-wurm?utm_source=api>`
    
 
 
-:mtgtip:`Seedborn Muse<https://img.scryfall.com/cards/border_crop/en/9ed/270.jpg?1517813031|https://scryfall.com/card/9ed/270/seedborn-muse?utm_source=api>`
+:mtgtip:`Seedborn Muse<https://img.scryfall.com/cards/border_crop/front/c/b/cb1d0254-985c-4d44-9cce-1d563e11f0a4.jpg?1562741726|https://scryfall.com/card/9ed/270/seedborn-muse?utm_source=api>`
    Untap all permanents you control during each other player's untap step.
 
 
-:mtgtip:`Silklash Spider<https://img.scryfall.com/cards/border_crop/en/9ed/271.jpg?1517813031|https://scryfall.com/card/9ed/271/silklash-spider?utm_source=api>`
+:mtgtip:`Silklash Spider<https://img.scryfall.com/cards/border_crop/front/6/1/612fe88c-9c6e-42b4-8936-a9431c1808ea.jpg?1562736077|https://scryfall.com/card/9ed/271/silklash-spider?utm_source=api>`
    Reach
 
    |mana_x|\ |mana_g|\ |mana_g|: Silklash Spider deals X damage to each creature with flying.
 
 
-:mtgtip:`Stream of Life<https://img.scryfall.com/cards/border_crop/en/9ed/272.jpg?1517813031|https://scryfall.com/card/9ed/272/stream-of-life?utm_source=api>`
+:mtgtip:`Stream of Life<https://img.scryfall.com/cards/border_crop/front/3/4/341aa1b2-e600-4580-b0cd-e1582b75dc81.jpg?1562733506|https://scryfall.com/card/9ed/272/stream-of-life?utm_source=api>`
    Target player gains X life.
 
 
-:mtgtip:`Summer Bloom<https://img.scryfall.com/cards/border_crop/en/9ed/273.jpg?1517813031|https://scryfall.com/card/9ed/273/summer-bloom?utm_source=api>`
+:mtgtip:`Summer Bloom<https://img.scryfall.com/cards/border_crop/front/c/e/ce7ed9d7-012c-43d0-a8c0-e208b58cad6f.jpg?1562741879|https://scryfall.com/card/9ed/273/summer-bloom?utm_source=api>`
    You may play up to three additional lands this turn.
 
 
-:mtgtip:`Trained Armodon<https://img.scryfall.com/cards/border_crop/en/9ed/274.jpg?1517813031|https://scryfall.com/card/9ed/274/trained-armodon?utm_source=api>`
+:mtgtip:`Trained Armodon<https://img.scryfall.com/cards/border_crop/front/3/c/3c5855f7-b100-4338-bb30-203fa275cba3.jpg?1562734008|https://scryfall.com/card/9ed/274/trained-armodon?utm_source=api>`
    
 
 
-:mtgtip:`Tree Monkey<https://img.scryfall.com/cards/border_crop/en/9ed/275.jpg?1517813031|https://scryfall.com/card/9ed/275/tree-monkey?utm_source=api>`
+:mtgtip:`Tree Monkey<https://img.scryfall.com/cards/border_crop/front/4/7/4724d00a-b93b-43fd-9c86-56f127db450b.jpg?1562734569|https://scryfall.com/card/9ed/275/tree-monkey?utm_source=api>`
    Reach (This creature can block creatures with flying.)
 
 
-:mtgtip:`Treetop Bracers<https://img.scryfall.com/cards/border_crop/en/9ed/276.jpg?1517813031|https://scryfall.com/card/9ed/276/treetop-bracers?utm_source=api>`
+:mtgtip:`Treetop Bracers<https://img.scryfall.com/cards/border_crop/front/5/3/5312742c-0f35-4abc-97ec-fceda2658cec.jpg?1562735251|https://scryfall.com/card/9ed/276/treetop-bracers?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Enchanted creature gets +1/+1 and can't be blocked except by creatures with flying.
 
 
-:mtgtip:`Utopia Tree<https://img.scryfall.com/cards/border_crop/en/9ed/277.jpg?1517813031|https://scryfall.com/card/9ed/277/utopia-tree?utm_source=api>`
+:mtgtip:`Utopia Tree<https://img.scryfall.com/cards/border_crop/front/4/9/49bed540-da8d-4148-8794-8e8d01ed5387.jpg?1562734732|https://scryfall.com/card/9ed/277/utopia-tree?utm_source=api>`
    |tap|: Add one mana of any color.
 
 
-:mtgtip:`Verdant Force<https://img.scryfall.com/cards/border_crop/en/9ed/278.jpg?1517813031|https://scryfall.com/card/9ed/278/verdant-force?utm_source=api>`
+:mtgtip:`Verdant Force<https://img.scryfall.com/cards/border_crop/front/d/5/d5a5533f-d24d-4cca-a47e-0676c6061a35.jpg?1562742334|https://scryfall.com/card/9ed/278/verdant-force?utm_source=api>`
    At the beginning of each upkeep, create a 1/1 green Saproling creature token.
 
 
-:mtgtip:`Verduran Enchantress<https://img.scryfall.com/cards/border_crop/en/9ed/279.jpg?1517813031|https://scryfall.com/card/9ed/279/verduran-enchantress?utm_source=api>`
+:mtgtip:`Verduran Enchantress<https://img.scryfall.com/cards/border_crop/front/c/9/c9d5f1c2-9f9c-416e-a0a2-6534b243e799.jpg?1562741654|https://scryfall.com/card/9ed/279/verduran-enchantress?utm_source=api>`
    Whenever you cast an enchantment spell, you may draw a card.
 
 
-:mtgtip:`Viridian Shaman<https://img.scryfall.com/cards/border_crop/en/9ed/280.jpg?1517813031|https://scryfall.com/card/9ed/280/viridian-shaman?utm_source=api>`
+:mtgtip:`Viridian Shaman<https://img.scryfall.com/cards/border_crop/front/2/1/21971049-f988-40ec-b5ae-0ac0575f1939.jpg?1562732466|https://scryfall.com/card/9ed/280/viridian-shaman?utm_source=api>`
    When Viridian Shaman enters the battlefield, destroy target artifact.
 
 
-:mtgtip:`Web<https://img.scryfall.com/cards/border_crop/en/9ed/281.jpg?1517813031|https://scryfall.com/card/9ed/281/web?utm_source=api>`
+:mtgtip:`Web<https://img.scryfall.com/cards/border_crop/front/9/1/91173ce1-62a9-4d0e-8b2a-9bc33858c4fc.jpg?1562738531|https://scryfall.com/card/9ed/281/web?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
 
 
-:mtgtip:`Weird Harvest<https://img.scryfall.com/cards/border_crop/en/9ed/282.jpg?1517813031|https://scryfall.com/card/9ed/282/weird-harvest?utm_source=api>`
+:mtgtip:`Weird Harvest<https://img.scryfall.com/cards/border_crop/front/8/9/89bd2c25-049a-4df2-bf8f-198d1b41b01e.jpg?1562738188|https://scryfall.com/card/9ed/282/weird-harvest?utm_source=api>`
    Each player may search their library for up to X creature cards, reveal those cards, and put them into their hand. Then each player who searched their library this way shuffles it.
 
 
-:mtgtip:`Wood Elves<https://img.scryfall.com/cards/border_crop/en/9ed/283.jpg?1517813031|https://scryfall.com/card/9ed/283/wood-elves?utm_source=api>`
+:mtgtip:`Wood Elves<https://img.scryfall.com/cards/border_crop/front/f/6/f6cea55e-f85a-4f0f-b845-386d5c3fd9db.jpg?1562744130|https://scryfall.com/card/9ed/283/wood-elves?utm_source=api>`
    When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
 
 
-:mtgtip:`Yavimaya Enchantress<https://img.scryfall.com/cards/border_crop/en/9ed/284.jpg?1517813031|https://scryfall.com/card/9ed/284/yavimaya-enchantress?utm_source=api>`
+:mtgtip:`Yavimaya Enchantress<https://img.scryfall.com/cards/border_crop/front/1/8/18637e89-4794-46a8-bb80-b35211648d4f.jpg?1562731945|https://scryfall.com/card/9ed/284/yavimaya-enchantress?utm_source=api>`
    Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.
 
 
-:mtgtip:`Zodiac Monkey<https://img.scryfall.com/cards/border_crop/en/9ed/285.jpg?1520707697|https://scryfall.com/card/9ed/285/zodiac-monkey?utm_source=api>`
+:mtgtip:`Zodiac Monkey<https://img.scryfall.com/cards/border_crop/front/1/6/1670108c-c3c8-4052-8f19-30dcb2266774.jpg?1562731848|https://scryfall.com/card/9ed/285/zodiac-monkey?utm_source=api>`
    Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
 
 
-:mtgtip:`Aladdin's Ring<https://img.scryfall.com/cards/border_crop/en/9ed/286.jpg?1517813031|https://scryfall.com/card/9ed/286/aladdins-ring?utm_source=api>`
+:mtgtip:`Aladdin's Ring<https://img.scryfall.com/cards/border_crop/front/4/0/40b7370d-8ab4-4506-b7dd-d02c1ba92032.jpg?1562734209|https://scryfall.com/card/9ed/286/aladdins-ring?utm_source=api>`
    |mana_8|, |tap|: Aladdin's Ring deals 4 damage to any target.
 
 
-:mtgtip:`Angel's Feather<https://img.scryfall.com/cards/border_crop/en/9ed/287.jpg?1517813031|https://scryfall.com/card/9ed/287/angels-feather?utm_source=api>`
+:mtgtip:`Angel's Feather<https://img.scryfall.com/cards/border_crop/front/4/7/476f1233-7474-4c01-8e8b-be642a638a61.jpg?1562734594|https://scryfall.com/card/9ed/287/angels-feather?utm_source=api>`
    Whenever a player casts a white spell, you may gain 1 life.
 
 
-:mtgtip:`Beast of Burden<https://img.scryfall.com/cards/border_crop/en/9ed/288.jpg?1517813031|https://scryfall.com/card/9ed/288/beast-of-burden?utm_source=api>`
+:mtgtip:`Beast of Burden<https://img.scryfall.com/cards/border_crop/front/e/1/e1a19f6d-4fab-4be6-af9e-c66acc16e4f8.jpg?1562742971|https://scryfall.com/card/9ed/288/beast-of-burden?utm_source=api>`
    Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
 
 
-:mtgtip:`Booby Trap<https://img.scryfall.com/cards/border_crop/en/9ed/289.jpg?1517813031|https://scryfall.com/card/9ed/289/booby-trap?utm_source=api>`
+:mtgtip:`Booby Trap<https://img.scryfall.com/cards/border_crop/front/1/a/1af0c9a0-0dfa-4245-8b29-7bd37982b7d2.jpg?1562732088|https://scryfall.com/card/9ed/289/booby-trap?utm_source=api>`
    As Booby Trap enters the battlefield, choose an opponent and a card name other than a basic land card name.
 
    The chosen player reveals each card they draw.
@@ -1319,212 +1319,212 @@
    When the chosen player draws a card with the chosen name, sacrifice Booby Trap. If you do, Booby Trap deals 10 damage to that player.
 
 
-:mtgtip:`Bottle Gnomes<https://img.scryfall.com/cards/border_crop/en/9ed/290.jpg?1517813031|https://scryfall.com/card/9ed/290/bottle-gnomes?utm_source=api>`
+:mtgtip:`Bottle Gnomes<https://img.scryfall.com/cards/border_crop/front/b/6/b6d225c1-22f7-4c98-bba0-216724f2d587.jpg?1562740609|https://scryfall.com/card/9ed/290/bottle-gnomes?utm_source=api>`
    Sacrifice Bottle Gnomes: You gain 3 life.
 
 
-:mtgtip:`Coat of Arms<https://img.scryfall.com/cards/border_crop/en/9ed/291.jpg?1517813031|https://scryfall.com/card/9ed/291/coat-of-arms?utm_source=api>`
+:mtgtip:`Coat of Arms<https://img.scryfall.com/cards/border_crop/front/3/2/32cf3074-da3b-47e1-9a2c-88cfb1918a98.jpg?1562733440|https://scryfall.com/card/9ed/291/coat-of-arms?utm_source=api>`
    Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)
 
 
-:mtgtip:`Dancing Scimitar<https://img.scryfall.com/cards/border_crop/en/9ed/292.jpg?1517813031|https://scryfall.com/card/9ed/292/dancing-scimitar?utm_source=api>`
+:mtgtip:`Dancing Scimitar<https://img.scryfall.com/cards/border_crop/front/e/d/ede26e9e-95b6-4dbc-9263-59f370c4f6a3.jpg?1562743672|https://scryfall.com/card/9ed/292/dancing-scimitar?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
 
-:mtgtip:`Defense Grid<https://img.scryfall.com/cards/border_crop/en/9ed/293.jpg?1517813031|https://scryfall.com/card/9ed/293/defense-grid?utm_source=api>`
+:mtgtip:`Defense Grid<https://img.scryfall.com/cards/border_crop/front/f/9/f939dac5-ad71-4163-adde-4f435412477c.jpg?1562744235|https://scryfall.com/card/9ed/293/defense-grid?utm_source=api>`
    Each spell costs |mana_3| more to cast except during its controller's turn.
 
 
-:mtgtip:`Demon's Horn<https://img.scryfall.com/cards/border_crop/en/9ed/294.jpg?1517813031|https://scryfall.com/card/9ed/294/demons-horn?utm_source=api>`
+:mtgtip:`Demon's Horn<https://img.scryfall.com/cards/border_crop/front/9/8/98135714-7422-4b1f-94c4-f4ee980c94a8.jpg?1562738960|https://scryfall.com/card/9ed/294/demons-horn?utm_source=api>`
    Whenever a player casts a black spell, you may gain 1 life.
 
 
-:mtgtip:`Disrupting Scepter<https://img.scryfall.com/cards/border_crop/en/9ed/295.jpg?1517813031|https://scryfall.com/card/9ed/295/disrupting-scepter?utm_source=api>`
+:mtgtip:`Disrupting Scepter<https://img.scryfall.com/cards/border_crop/front/5/5/55be5981-5bbc-4621-9f53-fc4edd4fde7e.jpg?1562735449|https://scryfall.com/card/9ed/295/disrupting-scepter?utm_source=api>`
    |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
 
 
-:mtgtip:`Dragon's Claw<https://img.scryfall.com/cards/border_crop/en/9ed/296.jpg?1517813031|https://scryfall.com/card/9ed/296/dragons-claw?utm_source=api>`
+:mtgtip:`Dragon's Claw<https://img.scryfall.com/cards/border_crop/front/c/d/cd62ce2f-bf20-427a-9dbc-40732ff639ab.jpg?1562741818|https://scryfall.com/card/9ed/296/dragons-claw?utm_source=api>`
    Whenever a player casts a red spell, you may gain 1 life.
 
 
-:mtgtip:`Fellwar Stone<https://img.scryfall.com/cards/border_crop/en/9ed/297.jpg?1517813031|https://scryfall.com/card/9ed/297/fellwar-stone?utm_source=api>`
+:mtgtip:`Fellwar Stone<https://img.scryfall.com/cards/border_crop/front/5/a/5a8fd20a-d26e-417f-b1b7-e7257cc5b22b.jpg?1562735717|https://scryfall.com/card/9ed/297/fellwar-stone?utm_source=api>`
    |tap|: Add one mana of any color that a land an opponent controls could produce.
 
 
-:mtgtip:`Howling Mine<https://img.scryfall.com/cards/border_crop/en/9ed/298.jpg?1517813031|https://scryfall.com/card/9ed/298/howling-mine?utm_source=api>`
+:mtgtip:`Howling Mine<https://img.scryfall.com/cards/border_crop/front/4/8/480f85b2-79bd-4f1c-a815-d101a678cf27.jpg?1562734646|https://scryfall.com/card/9ed/298/howling-mine?utm_source=api>`
    At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
 
 
-:mtgtip:`Icy Manipulator<https://img.scryfall.com/cards/border_crop/en/9ed/299.jpg?1517813031|https://scryfall.com/card/9ed/299/icy-manipulator?utm_source=api>`
+:mtgtip:`Icy Manipulator<https://img.scryfall.com/cards/border_crop/front/e/3/e3dec5eb-c391-4152-860d-68b2f09b8459.jpg?1562743120|https://scryfall.com/card/9ed/299/icy-manipulator?utm_source=api>`
    |mana_1|, |tap|: Tap target artifact, creature, or land.
 
 
-:mtgtip:`Jade Statue<https://img.scryfall.com/cards/border_crop/en/9ed/300.jpg?1517813031|https://scryfall.com/card/9ed/300/jade-statue?utm_source=api>`
+:mtgtip:`Jade Statue<https://img.scryfall.com/cards/border_crop/front/a/f/af0495f8-4f18-4860-b1b4-58fa67414c8e.jpg?1562740224|https://scryfall.com/card/9ed/300/jade-statue?utm_source=api>`
    |mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.
 
 
-:mtgtip:`Jester's Cap<https://img.scryfall.com/cards/border_crop/en/9ed/301.jpg?1517813031|https://scryfall.com/card/9ed/301/jesters-cap?utm_source=api>`
+:mtgtip:`Jester's Cap<https://img.scryfall.com/cards/border_crop/front/2/e/2ede9d6b-3c7c-4a5f-a09b-80ec471692b6.jpg?1562733193|https://scryfall.com/card/9ed/301/jesters-cap?utm_source=api>`
    |mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles their library.
 
 
-:mtgtip:`Kraken's Eye<https://img.scryfall.com/cards/border_crop/en/9ed/302.jpg?1517813031|https://scryfall.com/card/9ed/302/krakens-eye?utm_source=api>`
+:mtgtip:`Kraken's Eye<https://img.scryfall.com/cards/border_crop/front/e/8/e80930e8-d2b4-4778-a958-9bf080cba1c9.jpg?1562743355|https://scryfall.com/card/9ed/302/krakens-eye?utm_source=api>`
    Whenever a player casts a blue spell, you may gain 1 life.
 
 
-:mtgtip:`Loxodon Warhammer<https://img.scryfall.com/cards/border_crop/en/9ed/303.jpg?1517813031|https://scryfall.com/card/9ed/303/loxodon-warhammer?utm_source=api>`
+:mtgtip:`Loxodon Warhammer<https://img.scryfall.com/cards/border_crop/front/3/5/3569f5bd-4afc-455d-90e6-bfa08d505efe.jpg?1562733603|https://scryfall.com/card/9ed/303/loxodon-warhammer?utm_source=api>`
    Equipped creature gets +3/+0 and has trample and lifelink.
 
    Equip |mana_3|
 
 
-:mtgtip:`Millstone<https://img.scryfall.com/cards/border_crop/en/9ed/304.jpg?1517813031|https://scryfall.com/card/9ed/304/millstone?utm_source=api>`
+:mtgtip:`Millstone<https://img.scryfall.com/cards/border_crop/front/6/b/6b5b3e79-6cec-4f2f-adaf-c368f099d7a5.jpg?1562736661|https://scryfall.com/card/9ed/304/millstone?utm_source=api>`
    |mana_2|, |tap|: Target player puts the top two cards of their library into their graveyard.
 
 
-:mtgtip:`Ornithopter<https://img.scryfall.com/cards/border_crop/en/9ed/305.jpg?1517813031|https://scryfall.com/card/9ed/305/ornithopter?utm_source=api>`
+:mtgtip:`Ornithopter<https://img.scryfall.com/cards/border_crop/front/9/1/919bc14b-603d-42fa-91fe-58c4d4b3b27f.jpg?1562738555|https://scryfall.com/card/9ed/305/ornithopter?utm_source=api>`
    Flying
 
 
-:mtgtip:`Phyrexian Hulk<https://img.scryfall.com/cards/border_crop/en/9ed/306.jpg?1517813031|https://scryfall.com/card/9ed/306/phyrexian-hulk?utm_source=api>`
+:mtgtip:`Phyrexian Hulk<https://img.scryfall.com/cards/border_crop/front/6/4/64d6e1ac-8346-464f-91ac-efc45d0c7294.jpg?1562736273|https://scryfall.com/card/9ed/306/phyrexian-hulk?utm_source=api>`
    
 
 
-:mtgtip:`Rod of Ruin<https://img.scryfall.com/cards/border_crop/en/9ed/307.jpg?1517813031|https://scryfall.com/card/9ed/307/rod-of-ruin?utm_source=api>`
+:mtgtip:`Rod of Ruin<https://img.scryfall.com/cards/border_crop/front/0/c/0cb737b9-e526-47f7-806a-794cad54b23f.jpg?1562731222|https://scryfall.com/card/9ed/307/rod-of-ruin?utm_source=api>`
    |mana_3|, |tap|: Rod of Ruin deals 1 damage to any target.
 
 
-:mtgtip:`Slate of Ancestry<https://img.scryfall.com/cards/border_crop/en/9ed/308.jpg?1517813031|https://scryfall.com/card/9ed/308/slate-of-ancestry?utm_source=api>`
+:mtgtip:`Slate of Ancestry<https://img.scryfall.com/cards/border_crop/front/2/e/2e8ad821-853b-47d6-8ae1-c317460a646f.jpg?1562733157|https://scryfall.com/card/9ed/308/slate-of-ancestry?utm_source=api>`
    |mana_4|, |tap|, Discard your hand: Draw a card for each creature you control.
 
 
-:mtgtip:`Spellbook<https://img.scryfall.com/cards/border_crop/en/9ed/309.jpg?1517813031|https://scryfall.com/card/9ed/309/spellbook?utm_source=api>`
+:mtgtip:`Spellbook<https://img.scryfall.com/cards/border_crop/front/5/d/5dbc3e2c-f6a6-4e4a-adfe-97fbc1596ac3.jpg?1562735875|https://scryfall.com/card/9ed/309/spellbook?utm_source=api>`
    You have no maximum hand size.
 
 
-:mtgtip:`Storage Matrix<https://img.scryfall.com/cards/border_crop/en/9ed/310.jpg?1517813031|https://scryfall.com/card/9ed/310/storage-matrix?utm_source=api>`
+:mtgtip:`Storage Matrix<https://img.scryfall.com/cards/border_crop/front/2/a/2aa41221-ee75-4713-99bd-683013ba64de.jpg?1562732967|https://scryfall.com/card/9ed/310/storage-matrix?utm_source=api>`
    As long as Storage Matrix is untapped, each player chooses artifact, creature, or land during their untap step. That player can untap only permanents of the chosen type this step.
 
 
-:mtgtip:`Tanglebloom<https://img.scryfall.com/cards/border_crop/en/9ed/311.jpg?1517813031|https://scryfall.com/card/9ed/311/tanglebloom?utm_source=api>`
+:mtgtip:`Tanglebloom<https://img.scryfall.com/cards/border_crop/front/e/b/eb8ff237-dac6-4c79-9d8c-b047d60083e8.jpg?1562743556|https://scryfall.com/card/9ed/311/tanglebloom?utm_source=api>`
    |mana_1|, |tap|: You gain 1 life.
 
 
-:mtgtip:`Teferi's Puzzle Box<https://img.scryfall.com/cards/border_crop/en/9ed/312.jpg?1517813031|https://scryfall.com/card/9ed/312/teferis-puzzle-box?utm_source=api>`
+:mtgtip:`Teferi's Puzzle Box<https://img.scryfall.com/cards/border_crop/front/4/1/415e81e9-ca65-4bc0-8aab-d905d58fe6cc.jpg?1562734271|https://scryfall.com/card/9ed/312/teferis-puzzle-box?utm_source=api>`
    At the beginning of each player's draw step, that player puts the cards in their hand on the bottom of their library in any order, then draws that many cards.
 
 
-:mtgtip:`Thran Golem<https://img.scryfall.com/cards/border_crop/en/9ed/313.jpg?1517813031|https://scryfall.com/card/9ed/313/thran-golem?utm_source=api>`
+:mtgtip:`Thran Golem<https://img.scryfall.com/cards/border_crop/front/3/9/39b390d5-ae5a-4ed7-b9af-01d504d0551a.jpg?1562733854|https://scryfall.com/card/9ed/313/thran-golem?utm_source=api>`
    As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.
 
 
-:mtgtip:`Ur-Golem's Eye<https://img.scryfall.com/cards/border_crop/en/9ed/314.jpg?1517813031|https://scryfall.com/card/9ed/314/ur-golems-eye?utm_source=api>`
+:mtgtip:`Ur-Golem's Eye<https://img.scryfall.com/cards/border_crop/front/5/0/50700965-7fac-4351-8967-8eafe5d68aff.jpg?1562735130|https://scryfall.com/card/9ed/314/ur-golems-eye?utm_source=api>`
    |tap|: Add |colorless|\ |colorless|.
 
 
-:mtgtip:`Vulshok Morningstar<https://img.scryfall.com/cards/border_crop/en/9ed/315.jpg?1517813031|https://scryfall.com/card/9ed/315/vulshok-morningstar?utm_source=api>`
+:mtgtip:`Vulshok Morningstar<https://img.scryfall.com/cards/border_crop/front/2/8/289d5f79-2346-4150-9be9-ca49efa2652b.jpg?1562732818|https://scryfall.com/card/9ed/315/vulshok-morningstar?utm_source=api>`
    Equipped creature gets +2/+2.
 
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Wurm's Tooth<https://img.scryfall.com/cards/border_crop/en/9ed/316.jpg?1517813031|https://scryfall.com/card/9ed/316/wurms-tooth?utm_source=api>`
+:mtgtip:`Wurm's Tooth<https://img.scryfall.com/cards/border_crop/front/a/c/ace337fe-900b-4582-9cbe-1b0473d2734c.jpg?1562740122|https://scryfall.com/card/9ed/316/wurms-tooth?utm_source=api>`
    Whenever a player casts a green spell, you may gain 1 life.
 
 
-:mtgtip:`Adarkar Wastes<https://img.scryfall.com/cards/border_crop/en/9ed/317.jpg?1517813031|https://scryfall.com/card/9ed/317/adarkar-wastes?utm_source=api>`
+:mtgtip:`Adarkar Wastes<https://img.scryfall.com/cards/border_crop/front/4/0/40f61de1-4e49-4640-a495-5abefd96babf.jpg?1562734250|https://scryfall.com/card/9ed/317/adarkar-wastes?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you.
 
 
-:mtgtip:`Battlefield Forge<https://img.scryfall.com/cards/border_crop/en/9ed/318.jpg?1517813031|https://scryfall.com/card/9ed/318/battlefield-forge?utm_source=api>`
+:mtgtip:`Battlefield Forge<https://img.scryfall.com/cards/border_crop/front/d/5/d5064361-a8c7-4002-908a-992252641572.jpg?1562742273|https://scryfall.com/card/9ed/318/battlefield-forge?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_r| or |mana_w|. Battlefield Forge deals 1 damage to you.
 
 
-:mtgtip:`Brushland<https://img.scryfall.com/cards/border_crop/en/9ed/319.jpg?1517813031|https://scryfall.com/card/9ed/319/brushland?utm_source=api>`
+:mtgtip:`Brushland<https://img.scryfall.com/cards/border_crop/front/0/b/0bd3ea6a-84f7-41d0-8e4d-222809f1d484.jpg?1562731166|https://scryfall.com/card/9ed/319/brushland?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_g| or |mana_w|. Brushland deals 1 damage to you.
 
 
-:mtgtip:`Caves of Koilos<https://img.scryfall.com/cards/border_crop/en/9ed/320.jpg?1517813031|https://scryfall.com/card/9ed/320/caves-of-koilos?utm_source=api>`
+:mtgtip:`Caves of Koilos<https://img.scryfall.com/cards/border_crop/front/e/6/e693fbc6-78b0-4203-83f4-5352a997371e.jpg?1562743283|https://scryfall.com/card/9ed/320/caves-of-koilos?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_w| or |mana_b|. Caves of Koilos deals 1 damage to you.
 
 
-:mtgtip:`Karplusan Forest<https://img.scryfall.com/cards/border_crop/en/9ed/321.jpg?1517813031|https://scryfall.com/card/9ed/321/karplusan-forest?utm_source=api>`
+:mtgtip:`Karplusan Forest<https://img.scryfall.com/cards/border_crop/front/e/b/eb12ce05-cfc9-4628-a2a3-f207fd9b149a.jpg?1562743519|https://scryfall.com/card/9ed/321/karplusan-forest?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_r| or |mana_g|. Karplusan Forest deals 1 damage to you.
 
 
-:mtgtip:`Llanowar Wastes<https://img.scryfall.com/cards/border_crop/en/9ed/322.jpg?1517813031|https://scryfall.com/card/9ed/322/llanowar-wastes?utm_source=api>`
+:mtgtip:`Llanowar Wastes<https://img.scryfall.com/cards/border_crop/front/a/7/a7218c70-b170-4d23-b98f-f8fa29312994.jpg?1562739762|https://scryfall.com/card/9ed/322/llanowar-wastes?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_b| or |mana_g|. Llanowar Wastes deals 1 damage to you.
 
 
-:mtgtip:`Quicksand<https://img.scryfall.com/cards/border_crop/en/9ed/323.jpg?1517813031|https://scryfall.com/card/9ed/323/quicksand?utm_source=api>`
+:mtgtip:`Quicksand<https://img.scryfall.com/cards/border_crop/front/5/8/58c62bbe-aa06-4d1b-8338-ab270ab617e5.jpg?1562735655|https://scryfall.com/card/9ed/323/quicksand?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
 
 
-:mtgtip:`Shivan Reef<https://img.scryfall.com/cards/border_crop/en/9ed/324.jpg?1517813031|https://scryfall.com/card/9ed/324/shivan-reef?utm_source=api>`
+:mtgtip:`Shivan Reef<https://img.scryfall.com/cards/border_crop/front/e/e/eea38777-e67d-40a5-9301-d4e6d3819899.jpg?1562743708|https://scryfall.com/card/9ed/324/shivan-reef?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_u| or |mana_r|. Shivan Reef deals 1 damage to you.
 
 
-:mtgtip:`Sulfurous Springs<https://img.scryfall.com/cards/border_crop/en/9ed/325.jpg?1517813031|https://scryfall.com/card/9ed/325/sulfurous-springs?utm_source=api>`
+:mtgtip:`Sulfurous Springs<https://img.scryfall.com/cards/border_crop/front/d/5/d5da34c3-53c7-401a-8f7e-f3cc8a42c888.jpg?1562742345|https://scryfall.com/card/9ed/325/sulfurous-springs?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_b| or |mana_r|. Sulfurous Springs deals 1 damage to you.
 
 
-:mtgtip:`Underground River<https://img.scryfall.com/cards/border_crop/en/9ed/326.jpg?1517813031|https://scryfall.com/card/9ed/326/underground-river?utm_source=api>`
+:mtgtip:`Underground River<https://img.scryfall.com/cards/border_crop/front/b/e/be9395fc-ad8a-494a-a5bc-fea3f55b0e2c.jpg?1562741011|https://scryfall.com/card/9ed/326/underground-river?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_u| or |mana_b|. Underground River deals 1 damage to you.
 
 
-:mtgtip:`Urza's Mine<https://img.scryfall.com/cards/border_crop/en/9ed/327.jpg?1517813031|https://scryfall.com/card/9ed/327/urzas-mine?utm_source=api>`
+:mtgtip:`Urza's Mine<https://img.scryfall.com/cards/border_crop/front/7/a/7a235785-b720-483b-bb28-6de440be2129.jpg?1562737357|https://scryfall.com/card/9ed/327/urzas-mine?utm_source=api>`
    |tap|: Add |colorless|. If you control an Urza's Power-Plant and an Urza's Tower, add |colorless|\ |colorless| instead.
 
 
-:mtgtip:`Urza's Power Plant<https://img.scryfall.com/cards/border_crop/en/9ed/328.jpg?1517813031|https://scryfall.com/card/9ed/328/urzas-power-plant?utm_source=api>`
+:mtgtip:`Urza's Power Plant<https://img.scryfall.com/cards/border_crop/front/3/1/3115c04a-ac26-4361-aecd-c6fb5f03a96f.jpg?1562733301|https://scryfall.com/card/9ed/328/urzas-power-plant?utm_source=api>`
    |tap|: Add |colorless|. If you control an Urza's Mine and an Urza's Tower, add |colorless|\ |colorless| instead.
 
 
-:mtgtip:`Urza's Tower<https://img.scryfall.com/cards/border_crop/en/9ed/329.jpg?1517813031|https://scryfall.com/card/9ed/329/urzas-tower?utm_source=api>`
+:mtgtip:`Urza's Tower<https://img.scryfall.com/cards/border_crop/front/5/1/513e063c-b328-4e5f-8806-b232c38645f5.jpg?1562735174|https://scryfall.com/card/9ed/329/urzas-tower?utm_source=api>`
    |tap|: Add |colorless|. If you control an Urza's Mine and an Urza's Power-Plant, add |colorless|\ |colorless|\ |colorless| instead.
 
 
-:mtgtip:`Yavimaya Coast<https://img.scryfall.com/cards/border_crop/en/9ed/330.jpg?1517813031|https://scryfall.com/card/9ed/330/yavimaya-coast?utm_source=api>`
+:mtgtip:`Yavimaya Coast<https://img.scryfall.com/cards/border_crop/front/9/e/9e2eff74-8dcc-4c4b-8d74-c93b12966e88.jpg?1562739251|https://scryfall.com/card/9ed/330/yavimaya-coast?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you.
 
 
-:mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/9ed/331.jpg?1517813031|https://scryfall.com/card/9ed/331/plains?utm_source=api>`
+:mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/7/5/75e639a9-6010-4453-9c25-4ab03664b9b2.jpg?1562737171|https://scryfall.com/card/9ed/331/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/9ed/335.jpg?1517813031|https://scryfall.com/card/9ed/335/island?utm_source=api>`
+:mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/e/0/e0eac72f-915b-41a2-a9cf-1707b65d9ac9.jpg?1562742940|https://scryfall.com/card/9ed/335/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/9ed/339.jpg?1517813031|https://scryfall.com/card/9ed/339/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/4/f/4fc9d935-2a33-4928-b4b2-25c48544bf24.jpg?1562735082|https://scryfall.com/card/9ed/339/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/9ed/343.jpg?1517813031|https://scryfall.com/card/9ed/343/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/b/3/b3e2ee4c-5548-4a17-bf27-e906d2825867.jpg?1562740456|https://scryfall.com/card/9ed/343/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/9ed/347.jpg?1517813031|https://scryfall.com/card/9ed/347/forest?utm_source=api>`
+:mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/5/0/5029a818-e076-4ae3-a246-693ec7615e15.jpg?1562735109|https://scryfall.com/card/9ed/347/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

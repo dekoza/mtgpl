@@ -5,7 +5,7 @@
 ==================================
 
 
-:mtgtip:`Aether Shockwave<https://img.scryfall.com/cards/border_crop/en/sok/1.jpg?1517813031|https://scryfall.com/card/sok/1/aether-shockwave?utm_source=api>`
+:mtgtip:`Aether Shockwave<https://img.scryfall.com/cards/border_crop/front/8/2/8214d2e9-5aa1-42a7-8f1a-f4eaa2def1b1.jpg?1562494690|https://scryfall.com/card/sok/1/aether-shockwave?utm_source=api>`
    Choose one —
 
    • Tap all Spirits.
@@ -13,29 +13,29 @@
    • Tap all non-Spirit creatures.
 
 
-:mtgtip:`Araba Mothrider<https://img.scryfall.com/cards/border_crop/en/sok/2.jpg?1517813031|https://scryfall.com/card/sok/2/araba-mothrider?utm_source=api>`
+:mtgtip:`Araba Mothrider<https://img.scryfall.com/cards/border_crop/front/f/6/f6e4a170-1075-47e4-abe6-996b161573c1.jpg?1562497014|https://scryfall.com/card/sok/2/araba-mothrider?utm_source=api>`
    Flying
 
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
 
-:mtgtip:`Celestial Kirin<https://img.scryfall.com/cards/border_crop/en/sok/3.jpg?1517813031|https://scryfall.com/card/sok/3/celestial-kirin?utm_source=api>`
+:mtgtip:`Celestial Kirin<https://img.scryfall.com/cards/border_crop/front/0/0/003e99a0-2caa-407b-be40-92ec17836eb3.jpg?1562492050|https://scryfall.com/card/sok/3/celestial-kirin?utm_source=api>`
    Flying
 
    Whenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's converted mana cost.
 
 
-:mtgtip:`Charge Across the Araba<https://img.scryfall.com/cards/border_crop/en/sok/4.jpg?1517813031|https://scryfall.com/card/sok/4/charge-across-the-araba?utm_source=api>`
+:mtgtip:`Charge Across the Araba<https://img.scryfall.com/cards/border_crop/front/f/e/fe3e0bd8-d80f-4cda-b381-ed185072d83c.jpg?1562497049|https://scryfall.com/card/sok/4/charge-across-the-araba?utm_source=api>`
    Sweep — Return any number of Plains you control to their owner's hand. Creatures you control get +1/+1 until end of turn for each Plains returned this way.
 
 
-:mtgtip:`Cowed by Wisdom<https://img.scryfall.com/cards/border_crop/en/sok/5.jpg?1517813031|https://scryfall.com/card/sok/5/cowed-by-wisdom?utm_source=api>`
+:mtgtip:`Cowed by Wisdom<https://img.scryfall.com/cards/border_crop/front/0/b/0b81b329-4ef5-4b55-9fe7-9ed69477e96b.jpg?1562492462|https://scryfall.com/card/sok/5/cowed-by-wisdom?utm_source=api>`
    Enchant creature
 
    Enchanted creature can't attack or block unless its controller pays |mana_1| for each card in your hand.
 
 
-:mtgtip:`Curtain of Light<https://img.scryfall.com/cards/border_crop/en/sok/6.jpg?1517813031|https://scryfall.com/card/sok/6/curtain-of-light?utm_source=api>`
+:mtgtip:`Curtain of Light<https://img.scryfall.com/cards/border_crop/front/f/c/fc382831-e338-49bd-a37f-931bf611b165.jpg?1562497038|https://scryfall.com/card/sok/6/curtain-of-light?utm_source=api>`
    Cast this spell only during combat after blockers are declared.
 
    Target unblocked attacking creature becomes blocked. (This spell works on creatures that can't be blocked.)
@@ -43,61 +43,61 @@
    Draw a card.
 
 
-:mtgtip:`Descendant of Kiyomaro<https://img.scryfall.com/cards/border_crop/en/sok/7.jpg?1517813031|https://scryfall.com/card/sok/7/descendant-of-kiyomaro?utm_source=api>`
+:mtgtip:`Descendant of Kiyomaro<https://img.scryfall.com/cards/border_crop/front/3/5/354af7fc-fd15-4209-b3e8-8729a401b6a6.jpg?1562493452|https://scryfall.com/card/sok/7/descendant-of-kiyomaro?utm_source=api>`
    As long as you have more cards in hand than each opponent, Descendant of Kiyomaro gets +1/+2 and has "Whenever this creature deals combat damage, you gain 3 life."
 
 
-:mtgtip:`Eiganjo Free-Riders<https://img.scryfall.com/cards/border_crop/en/sok/8.jpg?1517813031|https://scryfall.com/card/sok/8/eiganjo-free-riders?utm_source=api>`
+:mtgtip:`Eiganjo Free-Riders<https://img.scryfall.com/cards/border_crop/front/f/e/fe47bbc5-6f7f-4135-9e83-9e2a428c97f5.jpg?1562497050|https://scryfall.com/card/sok/8/eiganjo-free-riders?utm_source=api>`
    Flying
 
    At the beginning of your upkeep, return a white creature you control to its owner's hand.
 
 
-:mtgtip:`Enduring Ideal<https://img.scryfall.com/cards/border_crop/en/sok/9.jpg?1530718580|https://scryfall.com/card/sok/9/enduring-ideal?utm_source=api>`
+:mtgtip:`Enduring Ideal<https://img.scryfall.com/cards/border_crop/front/7/d/7dc7091e-0c98-434d-9190-dcab813d3e14.jpg?1562494671|https://scryfall.com/card/sok/9/enduring-ideal?utm_source=api>`
    Search your library for an enchantment card and put it onto the battlefield. Then shuffle your library.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)
 
 
-:mtgtip:`Ghost-Lit Redeemer<https://img.scryfall.com/cards/border_crop/en/sok/10.jpg?1517813031|https://scryfall.com/card/sok/10/ghost-lit-redeemer?utm_source=api>`
+:mtgtip:`Ghost-Lit Redeemer<https://img.scryfall.com/cards/border_crop/front/a/a/aa90c02d-3090-402e-b74b-fc0358953263.jpg?1562495574|https://scryfall.com/card/sok/10/ghost-lit-redeemer?utm_source=api>`
    |mana_w|, |tap|: You gain 2 life.
 
    Channel — |mana_1|\ |mana_w|, Discard Ghost-Lit Redeemer: You gain 4 life.
 
 
-:mtgtip:`Hail of Arrows<https://img.scryfall.com/cards/border_crop/en/sok/11.jpg?1517813031|https://scryfall.com/card/sok/11/hail-of-arrows?utm_source=api>`
+:mtgtip:`Hail of Arrows<https://img.scryfall.com/cards/border_crop/front/c/4/c4a57083-e82c-41aa-94b9-2e6db97f7159.jpg?1562495647|https://scryfall.com/card/sok/11/hail-of-arrows?utm_source=api>`
    Hail of Arrows deals X damage divided as you choose among any number of target attacking creatures.
 
 
-:mtgtip:`Hand of Honor<https://img.scryfall.com/cards/border_crop/en/sok/12.jpg?1517813031|https://scryfall.com/card/sok/12/hand-of-honor?utm_source=api>`
+:mtgtip:`Hand of Honor<https://img.scryfall.com/cards/border_crop/front/d/d/ddef832c-b2be-4fa6-8d66-ac0d442f2d7d.jpg?1562496126|https://scryfall.com/card/sok/12/hand-of-honor?utm_source=api>`
    Protection from black
 
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
 
-:mtgtip:`Inner-Chamber Guard<https://img.scryfall.com/cards/border_crop/en/sok/13.jpg?1517813031|https://scryfall.com/card/sok/13/inner-chamber-guard?utm_source=api>`
+:mtgtip:`Inner-Chamber Guard<https://img.scryfall.com/cards/border_crop/front/4/d/4d34bfb9-abc7-4469-9546-aa8988da8259.jpg?1562493685|https://scryfall.com/card/sok/13/inner-chamber-guard?utm_source=api>`
    Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
 
 
-:mtgtip:`Kataki, War's Wage<https://img.scryfall.com/cards/border_crop/en/sok/14.jpg?1517813031|https://scryfall.com/card/sok/14/kataki-wars-wage?utm_source=api>`
+:mtgtip:`Kataki, War's Wage<https://img.scryfall.com/cards/border_crop/front/a/5/a5c99ac4-6551-4cc2-9a70-6e66b259b2a2.jpg?1562495157|https://scryfall.com/card/sok/14/kataki-wars-wage?utm_source=api>`
    All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay |mana_1|."
 
 
-:mtgtip:`Kitsune Bonesetter<https://img.scryfall.com/cards/border_crop/en/sok/15.jpg?1517813031|https://scryfall.com/card/sok/15/kitsune-bonesetter?utm_source=api>`
+:mtgtip:`Kitsune Bonesetter<https://img.scryfall.com/cards/border_crop/front/a/9/a94c12e0-8eb1-43f9-a421-43ca9bcffb0e.jpg?1562495185|https://scryfall.com/card/sok/15/kitsune-bonesetter?utm_source=api>`
    |tap|: Prevent the next 3 damage that would be dealt to target creature this turn. Activate this ability only if you have more cards in hand than each opponent.
 
 
-:mtgtip:`Kitsune Dawnblade<https://img.scryfall.com/cards/border_crop/en/sok/16.jpg?1517813031|https://scryfall.com/card/sok/16/kitsune-dawnblade?utm_source=api>`
+:mtgtip:`Kitsune Dawnblade<https://img.scryfall.com/cards/border_crop/front/b/0/b09ab22e-aa22-4d6b-87c6-970563486f21.jpg?1562495584|https://scryfall.com/card/sok/16/kitsune-dawnblade?utm_source=api>`
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
    When Kitsune Dawnblade enters the battlefield, you may tap target creature.
 
 
-:mtgtip:`Kitsune Loreweaver<https://img.scryfall.com/cards/border_crop/en/sok/17.jpg?1517813031|https://scryfall.com/card/sok/17/kitsune-loreweaver?utm_source=api>`
+:mtgtip:`Kitsune Loreweaver<https://img.scryfall.com/cards/border_crop/front/c/1/c11d4490-fe4f-4526-befd-f4c9c22c76a6.jpg?1562495630|https://scryfall.com/card/sok/17/kitsune-loreweaver?utm_source=api>`
    |mana_1|\ |mana_w|: Kitsune Loreweaver gets +0/+X until end of turn, where X is the number of cards in your hand.
 
 
-:mtgtip:`Kiyomaro, First to Stand<https://img.scryfall.com/cards/border_crop/en/sok/18.jpg?1517813031|https://scryfall.com/card/sok/18/kiyomaro-first-to-stand?utm_source=api>`
+:mtgtip:`Kiyomaro, First to Stand<https://img.scryfall.com/cards/border_crop/front/3/b/3b3351bb-5c4e-498b-b6c9-94f571baffd5.jpg?1562493467|https://scryfall.com/card/sok/18/kiyomaro-first-to-stand?utm_source=api>`
    Kiyomaro, First to Stand's power and toughness are each equal to the number of cards in your hand.
 
    As long as you have four or more cards in hand, Kiyomaro has vigilance.
@@ -105,105 +105,105 @@
    Whenever Kiyomaro deals damage, if you have seven or more cards in hand, you gain 7 life.
 
 
-:mtgtip:`Michiko Konda, Truth Seeker<https://img.scryfall.com/cards/border_crop/en/sok/19.jpg?1517813031|https://scryfall.com/card/sok/19/michiko-konda-truth-seeker?utm_source=api>`
+:mtgtip:`Michiko Konda, Truth Seeker<https://img.scryfall.com/cards/border_crop/front/9/9/99c56bf0-ad9f-4419-902c-f3a3880c716c.jpg?1562495123|https://scryfall.com/card/sok/19/michiko-konda-truth-seeker?utm_source=api>`
    Whenever a source an opponent controls deals damage to you, that player sacrifices a permanent.
 
 
-:mtgtip:`Moonwing Moth<https://img.scryfall.com/cards/border_crop/en/sok/20.jpg?1517813031|https://scryfall.com/card/sok/20/moonwing-moth?utm_source=api>`
+:mtgtip:`Moonwing Moth<https://img.scryfall.com/cards/border_crop/front/f/6/f646ed53-c323-4f84-b8c9-39e31da1aca8.jpg?1562496627|https://scryfall.com/card/sok/20/moonwing-moth?utm_source=api>`
    Flying
 
    |mana_w|: Moonwing Moth gets +0/+1 until end of turn.
 
 
-:mtgtip:`Nikko-Onna<https://img.scryfall.com/cards/border_crop/en/sok/21.jpg?1517813031|https://scryfall.com/card/sok/21/nikko-onna?utm_source=api>`
+:mtgtip:`Nikko-Onna<https://img.scryfall.com/cards/border_crop/front/b/d/bd7ecd0c-9cfb-4cf3-be62-d949b58b19a4.jpg?1562495623|https://scryfall.com/card/sok/21/nikko-onna?utm_source=api>`
    When Nikko-Onna enters the battlefield, destroy target enchantment.
 
    Whenever you cast a Spirit or Arcane spell, you may return Nikko-Onna to its owner's hand.
 
 
-:mtgtip:`Plow Through Reito<https://img.scryfall.com/cards/border_crop/en/sok/22.jpg?1517813031|https://scryfall.com/card/sok/22/plow-through-reito?utm_source=api>`
+:mtgtip:`Plow Through Reito<https://img.scryfall.com/cards/border_crop/front/1/1/11e78f75-bf58-4c61-9654-c5d355b5e526.jpg?1562492504|https://scryfall.com/card/sok/22/plow-through-reito?utm_source=api>`
    Sweep — Return any number of Plains you control to their owner's hand. Target creature gets +1/+1 until end of turn for each Plains returned this way.
 
 
-:mtgtip:`Presence of the Wise<https://img.scryfall.com/cards/border_crop/en/sok/23.jpg?1517813031|https://scryfall.com/card/sok/23/presence-of-the-wise?utm_source=api>`
+:mtgtip:`Presence of the Wise<https://img.scryfall.com/cards/border_crop/front/f/6/f6aedb5a-48f5-47db-9469-14075e2b9269.jpg?1562497013|https://scryfall.com/card/sok/23/presence-of-the-wise?utm_source=api>`
    You gain 2 life for each card in your hand.
 
 
-:mtgtip:`Promise of Bunrei<https://img.scryfall.com/cards/border_crop/en/sok/24.jpg?1517813031|https://scryfall.com/card/sok/24/promise-of-bunrei?utm_source=api>`
+:mtgtip:`Promise of Bunrei<https://img.scryfall.com/cards/border_crop/front/1/2/1250735d-d43b-488f-bddf-ed10261a6382.jpg?1562492510|https://scryfall.com/card/sok/24/promise-of-bunrei?utm_source=api>`
    When a creature you control dies, sacrifice Promise of Bunrei. If you do, create four 1/1 colorless Spirit creature tokens.
 
 
-:mtgtip:`Pure Intentions<https://img.scryfall.com/cards/border_crop/en/sok/25.jpg?1517813031|https://scryfall.com/card/sok/25/pure-intentions?utm_source=api>`
+:mtgtip:`Pure Intentions<https://img.scryfall.com/cards/border_crop/front/b/2/b231d818-df57-4e2d-9603-babe0c2c4568.jpg?1562495592|https://scryfall.com/card/sok/25/pure-intentions?utm_source=api>`
    Whenever a spell or ability an opponent controls causes you to discard cards this turn, return those cards from your graveyard to your hand.
 
    When a spell or ability an opponent controls causes you to discard Pure Intentions, return Pure Intentions from your graveyard to your hand at the beginning of the next end step.
 
 
-:mtgtip:`Reverence<https://img.scryfall.com/cards/border_crop/en/sok/26.jpg?1517813031|https://scryfall.com/card/sok/26/reverence?utm_source=api>`
+:mtgtip:`Reverence<https://img.scryfall.com/cards/border_crop/front/4/d/4d5e65e1-be52-4023-81cc-ee4948444195.jpg?1562493687|https://scryfall.com/card/sok/26/reverence?utm_source=api>`
    Creatures with power 2 or less can't attack you.
 
 
-:mtgtip:`Rune-Tail, Kitsune Ascendant<https://img.scryfall.com/cards/border_crop/en/sok/27a.jpg?1517813031|https://scryfall.com/card/sok/27/rune-tail-kitsune-ascendant-rune-tails-essence?utm_source=api>`
+:mtgtip:`Rune-Tail, Kitsune Ascendant<https://img.scryfall.com/cards/border_crop/front/4/2/42ba0e13-d20f-47f9-9c86-2b0b13c39ada.jpg?1562493487|https://scryfall.com/card/sok/27/rune-tail-kitsune-ascendant-rune-tails-essence?utm_source=api>`
    When you have 30 or more life, flip Rune-Tail, Kitsune Ascendant.
 
 
-:mtgtip:`Rune-Tail's Essence<https://img.scryfall.com/cards/border_crop/en/sok/27a.jpg?1517813031|https://scryfall.com/card/sok/27/rune-tail-kitsune-ascendant-rune-tails-essence?utm_source=api>`
+:mtgtip:`Rune-Tail's Essence<https://img.scryfall.com/cards/border_crop/front/4/2/42ba0e13-d20f-47f9-9c86-2b0b13c39ada.jpg?1562493487|https://scryfall.com/card/sok/27/rune-tail-kitsune-ascendant-rune-tails-essence?utm_source=api>`
    Prevent all damage that would be dealt to creatures you control.
 
 
-:mtgtip:`Shinen of Stars' Light<https://img.scryfall.com/cards/border_crop/en/sok/28.jpg?1517813031|https://scryfall.com/card/sok/28/shinen-of-stars-light?utm_source=api>`
+:mtgtip:`Shinen of Stars' Light<https://img.scryfall.com/cards/border_crop/front/6/4/64cd3ee0-d893-4346-98b6-7d7896ad7663.jpg?1562494189|https://scryfall.com/card/sok/28/shinen-of-stars-light?utm_source=api>`
    First strike
 
    Channel — |mana_1|\ |mana_w|, Discard Shinen of Stars' Light: Target creature gains first strike until end of turn.
 
 
-:mtgtip:`Spiritual Visit<https://img.scryfall.com/cards/border_crop/en/sok/29.jpg?1517813031|https://scryfall.com/card/sok/29/spiritual-visit?utm_source=api>`
+:mtgtip:`Spiritual Visit<https://img.scryfall.com/cards/border_crop/front/c/4/c4e4866e-13a8-4130-9895-60e762b7efea.jpg?1562495648|https://scryfall.com/card/sok/29/spiritual-visit?utm_source=api>`
    Create a 1/1 colorless Spirit creature token.
 
    Splice onto Arcane |mana_w| (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
 
 
-:mtgtip:`Torii Watchward<https://img.scryfall.com/cards/border_crop/en/sok/30.jpg?1517813031|https://scryfall.com/card/sok/30/torii-watchward?utm_source=api>`
+:mtgtip:`Torii Watchward<https://img.scryfall.com/cards/border_crop/front/b/8/b8ec0916-f320-4fad-9ec5-99aeecfda0e3.jpg?1562495601|https://scryfall.com/card/sok/30/torii-watchward?utm_source=api>`
    Vigilance (Attacking doesn't cause this creature to tap.)
 
    Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
 
 
-:mtgtip:`Cloudhoof Kirin<https://img.scryfall.com/cards/border_crop/en/sok/31.jpg?1517813031|https://scryfall.com/card/sok/31/cloudhoof-kirin?utm_source=api>`
+:mtgtip:`Cloudhoof Kirin<https://img.scryfall.com/cards/border_crop/front/4/2/42aa0d70-8d66-47aa-9228-25dcdb4e7dad.jpg?1562493486|https://scryfall.com/card/sok/31/cloudhoof-kirin?utm_source=api>`
    Flying
 
    Whenever you cast a Spirit or Arcane spell, you may have target player put the top X cards of their library into their graveyard, where X is that spell's converted mana cost.
 
 
-:mtgtip:`Cut the Earthly Bond<https://img.scryfall.com/cards/border_crop/en/sok/32.jpg?1517813031|https://scryfall.com/card/sok/32/cut-the-earthly-bond?utm_source=api>`
+:mtgtip:`Cut the Earthly Bond<https://img.scryfall.com/cards/border_crop/front/0/6/066f185d-5f81-472a-8aff-2c11ba10d18c.jpg?1562492085|https://scryfall.com/card/sok/32/cut-the-earthly-bond?utm_source=api>`
    Return target enchanted permanent to its owner's hand.
 
 
-:mtgtip:`Descendant of Soramaro<https://img.scryfall.com/cards/border_crop/en/sok/33.jpg?1517813031|https://scryfall.com/card/sok/33/descendant-of-soramaro?utm_source=api>`
+:mtgtip:`Descendant of Soramaro<https://img.scryfall.com/cards/border_crop/front/b/5/b5217d17-3667-46c6-8fba-763197fb2970.jpg?1562495597|https://scryfall.com/card/sok/33/descendant-of-soramaro?utm_source=api>`
    |mana_1|\ |mana_u|: Look at the top X cards of your library, where X is the number of cards in your hand, then put them back in any order.
 
 
-:mtgtip:`Dreamcatcher<https://img.scryfall.com/cards/border_crop/en/sok/34.jpg?1517813031|https://scryfall.com/card/sok/34/dreamcatcher?utm_source=api>`
+:mtgtip:`Dreamcatcher<https://img.scryfall.com/cards/border_crop/front/b/9/b90ab82e-84d7-462a-b3c2-abaccfb46dd3.jpg?1562495607|https://scryfall.com/card/sok/34/dreamcatcher?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, you may sacrifice Dreamcatcher. If you do, draw a card.
 
 
-:mtgtip:`Erayo, Soratami Ascendant<https://img.scryfall.com/cards/border_crop/en/sok/35a.jpg?1517813031|https://scryfall.com/card/sok/35/erayo-soratami-ascendant-erayos-essence?utm_source=api>`
+:mtgtip:`Erayo, Soratami Ascendant<https://img.scryfall.com/cards/border_crop/front/0/b/0b61d772-2d8b-4acf-9dd2-b2e8b03538c8.jpg?1574767862|https://scryfall.com/card/sok/35/erayo-soratami-ascendant-erayos-essence?utm_source=api>`
    Flying
 
    Whenever the fourth spell of a turn is cast, flip Erayo, Soratami Ascendant.
 
 
-:mtgtip:`Erayo's Essence<https://img.scryfall.com/cards/border_crop/en/sok/35a.jpg?1517813031|https://scryfall.com/card/sok/35/erayo-soratami-ascendant-erayos-essence?utm_source=api>`
+:mtgtip:`Erayo's Essence<https://img.scryfall.com/cards/border_crop/front/0/b/0b61d772-2d8b-4acf-9dd2-b2e8b03538c8.jpg?1574767862|https://scryfall.com/card/sok/35/erayo-soratami-ascendant-erayos-essence?utm_source=api>`
    Whenever an opponent casts their first spell each turn, counter that spell.
 
 
-:mtgtip:`Eternal Dominion<https://img.scryfall.com/cards/border_crop/en/sok/36.jpg?1517813031|https://scryfall.com/card/sok/36/eternal-dominion?utm_source=api>`
+:mtgtip:`Eternal Dominion<https://img.scryfall.com/cards/border_crop/front/3/0/3067a9bd-991a-462d-862a-2518ae31c382.jpg?1562493419|https://scryfall.com/card/sok/36/eternal-dominion?utm_source=api>`
    Search target opponent's library for an artifact, creature, enchantment, or land card. Put that card onto the battlefield under your control. Then that player shuffles their library.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)
 
 
-:mtgtip:`Evermind<https://img.scryfall.com/cards/border_crop/en/sok/37.jpg?1517813031|https://scryfall.com/card/sok/37/evermind?utm_source=api>`
+:mtgtip:`Evermind<https://img.scryfall.com/cards/border_crop/front/0/1/0186a93c-000a-4b8f-983d-e1471185dc1f.jpg?1562492051|https://scryfall.com/card/sok/37/evermind?utm_source=api>`
    (Nonexistent mana costs can't be paid.)
 
    Draw a card.
@@ -211,7 +211,7 @@
    Splice onto Arcane |mana_1|\ |mana_u| (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
 
 
-:mtgtip:`Freed from the Real<https://img.scryfall.com/cards/border_crop/en/sok/38.jpg?1517813031|https://scryfall.com/card/sok/38/freed-from-the-real?utm_source=api>`
+:mtgtip:`Freed from the Real<https://img.scryfall.com/cards/border_crop/front/e/9/e9ecee02-12c0-4aed-a679-41bce95e0cda.jpg?1562496577|https://scryfall.com/card/sok/38/freed-from-the-real?utm_source=api>`
    Enchant creature
 
    |mana_u|: Tap enchanted creature.
@@ -219,101 +219,101 @@
    |mana_u|: Untap enchanted creature.
 
 
-:mtgtip:`Ghost-Lit Warder<https://img.scryfall.com/cards/border_crop/en/sok/39.jpg?1517813031|https://scryfall.com/card/sok/39/ghost-lit-warder?utm_source=api>`
+:mtgtip:`Ghost-Lit Warder<https://img.scryfall.com/cards/border_crop/front/0/4/042b7666-8c58-48e5-8ec3-754611700e75.jpg?1562492061|https://scryfall.com/card/sok/39/ghost-lit-warder?utm_source=api>`
    |mana_3|\ |mana_u|, |tap|: Counter target spell unless its controller pays |mana_2|.
 
    Channel — |mana_3|\ |mana_u|, Discard Ghost-Lit Warder: Counter target spell unless its controller pays |mana_4|.
 
 
-:mtgtip:`Ideas Unbound<https://img.scryfall.com/cards/border_crop/en/sok/40.jpg?1517813031|https://scryfall.com/card/sok/40/ideas-unbound?utm_source=api>`
+:mtgtip:`Ideas Unbound<https://img.scryfall.com/cards/border_crop/front/1/b/1b0fe46d-08d6-48c3-be0d-650d8d3d66af.jpg?1562492548|https://scryfall.com/card/sok/40/ideas-unbound?utm_source=api>`
    Draw three cards. Discard three cards at the beginning of the next end step.
 
 
-:mtgtip:`Kaho, Minamo Historian<https://img.scryfall.com/cards/border_crop/en/sok/41.jpg?1517813031|https://scryfall.com/card/sok/41/kaho-minamo-historian?utm_source=api>`
+:mtgtip:`Kaho, Minamo Historian<https://img.scryfall.com/cards/border_crop/front/d/8/d85a5f54-9b79-4c3d-b983-021b4b01b122.jpg?1562496115|https://scryfall.com/card/sok/41/kaho-minamo-historian?utm_source=api>`
    When Kaho, Minamo Historian enters the battlefield, search your library for up to three instant cards and exile them. Then shuffle your library.
 
    |mana_x|, |tap|: You may cast a card with converted mana cost X exiled with Kaho without paying its mana cost.
 
 
-:mtgtip:`Kami of the Crescent Moon<https://img.scryfall.com/cards/border_crop/en/sok/42.jpg?1517813031|https://scryfall.com/card/sok/42/kami-of-the-crescent-moon?utm_source=api>`
+:mtgtip:`Kami of the Crescent Moon<https://img.scryfall.com/cards/border_crop/front/f/0/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7.jpg?1562496598|https://scryfall.com/card/sok/42/kami-of-the-crescent-moon?utm_source=api>`
    At the beginning of each player's draw step, that player draws an additional card.
 
 
-:mtgtip:`Kiri-Onna<https://img.scryfall.com/cards/border_crop/en/sok/43.jpg?1517813031|https://scryfall.com/card/sok/43/kiri-onna?utm_source=api>`
+:mtgtip:`Kiri-Onna<https://img.scryfall.com/cards/border_crop/front/d/a/dafb963c-18a5-4770-afb9-0121c614de40.jpg?1562496118|https://scryfall.com/card/sok/43/kiri-onna?utm_source=api>`
    When Kiri-Onna enters the battlefield, return target creature to its owner's hand.
 
    Whenever you cast a Spirit or Arcane spell, you may return Kiri-Onna to its owner's hand.
 
 
-:mtgtip:`Meishin, the Mind Cage<https://img.scryfall.com/cards/border_crop/en/sok/44.jpg?1517813031|https://scryfall.com/card/sok/44/meishin-the-mind-cage?utm_source=api>`
+:mtgtip:`Meishin, the Mind Cage<https://img.scryfall.com/cards/border_crop/front/7/0/70efc52b-7852-44c4-9825-d5e1bd796160.jpg?1562494224|https://scryfall.com/card/sok/44/meishin-the-mind-cage?utm_source=api>`
    All creatures get -X/-0, where X is the number of cards in your hand.
 
 
-:mtgtip:`Minamo Scrollkeeper<https://img.scryfall.com/cards/border_crop/en/sok/45.jpg?1517813031|https://scryfall.com/card/sok/45/minamo-scrollkeeper?utm_source=api>`
+:mtgtip:`Minamo Scrollkeeper<https://img.scryfall.com/cards/border_crop/front/b/3/b37f85e2-63bb-4c9a-8290-0bb8e2318e68.jpg?1562495595|https://scryfall.com/card/sok/45/minamo-scrollkeeper?utm_source=api>`
    Defender
 
    Your maximum hand size is increased by one.
 
 
-:mtgtip:`Moonbow Illusionist<https://img.scryfall.com/cards/border_crop/en/sok/46.jpg?1517813031|https://scryfall.com/card/sok/46/moonbow-illusionist?utm_source=api>`
+:mtgtip:`Moonbow Illusionist<https://img.scryfall.com/cards/border_crop/front/f/4/f4960789-1a45-4273-b2f2-34713f19d697.jpg?1562496620|https://scryfall.com/card/sok/46/moonbow-illusionist?utm_source=api>`
    Flying
 
    |mana_2|, Return a land you control to its owner's hand: Target land becomes the basic land type of your choice until end of turn.
 
 
-:mtgtip:`Murmurs from Beyond<https://img.scryfall.com/cards/border_crop/en/sok/47.jpg?1517813031|https://scryfall.com/card/sok/47/murmurs-from-beyond?utm_source=api>`
+:mtgtip:`Murmurs from Beyond<https://img.scryfall.com/cards/border_crop/front/a/a/aa70562c-8e1e-44d0-b46c-ccd791be6644.jpg?1562495573|https://scryfall.com/card/sok/47/murmurs-from-beyond?utm_source=api>`
    Reveal the top three cards of your library. An opponent chooses one of them. Put that card into your graveyard and the rest into your hand.
 
 
-:mtgtip:`Oboro Breezecaller<https://img.scryfall.com/cards/border_crop/en/sok/48.jpg?1517813031|https://scryfall.com/card/sok/48/oboro-breezecaller?utm_source=api>`
+:mtgtip:`Oboro Breezecaller<https://img.scryfall.com/cards/border_crop/front/a/3/a382a9b8-0b19-46c2-a547-a22d6e23d0ac.jpg?1562495145|https://scryfall.com/card/sok/48/oboro-breezecaller?utm_source=api>`
    Flying
 
    |mana_2|, Return a land you control to its owner's hand: Untap target land.
 
 
-:mtgtip:`Oboro Envoy<https://img.scryfall.com/cards/border_crop/en/sok/49.jpg?1517813031|https://scryfall.com/card/sok/49/oboro-envoy?utm_source=api>`
+:mtgtip:`Oboro Envoy<https://img.scryfall.com/cards/border_crop/front/a/0/a0309dcb-6c13-4ffe-b44d-3b735c8277d2.jpg?1562495135|https://scryfall.com/card/sok/49/oboro-envoy?utm_source=api>`
    Flying
 
    |mana_2|, Return a land you control to its owner's hand: Target creature gets -X/-0 until end of turn, where X is the number of cards in your hand.
 
 
-:mtgtip:`Oppressive Will<https://img.scryfall.com/cards/border_crop/en/sok/50.jpg?1517813031|https://scryfall.com/card/sok/50/oppressive-will?utm_source=api>`
+:mtgtip:`Oppressive Will<https://img.scryfall.com/cards/border_crop/front/a/b/abcb5e75-c7a1-41de-a952-05aefb115270.jpg?1562495576|https://scryfall.com/card/sok/50/oppressive-will?utm_source=api>`
    Counter target spell unless its controller pays |mana_1| for each card in your hand.
 
 
-:mtgtip:`Overwhelming Intellect<https://img.scryfall.com/cards/border_crop/en/sok/51.jpg?1517813031|https://scryfall.com/card/sok/51/overwhelming-intellect?utm_source=api>`
+:mtgtip:`Overwhelming Intellect<https://img.scryfall.com/cards/border_crop/front/c/b/cbeea686-7efc-48f5-b90b-bf1befc76a30.jpg?1562496066|https://scryfall.com/card/sok/51/overwhelming-intellect?utm_source=api>`
    Counter target creature spell. Draw cards equal to that spell's converted mana cost.
 
 
-:mtgtip:`Rushing-Tide Zubera<https://img.scryfall.com/cards/border_crop/en/sok/52.jpg?1517813031|https://scryfall.com/card/sok/52/rushing-tide-zubera?utm_source=api>`
+:mtgtip:`Rushing-Tide Zubera<https://img.scryfall.com/cards/border_crop/front/5/1/51a5357b-b479-46a7-8c3a-d51ed8f71a17.jpg?1562493719|https://scryfall.com/card/sok/52/rushing-tide-zubera?utm_source=api>`
    When Rushing-Tide Zubera dies, if 4 or more damage was dealt to it this turn, draw three cards.
 
 
-:mtgtip:`Sakashima the Impostor<https://img.scryfall.com/cards/border_crop/en/sok/53.jpg?1517813031|https://scryfall.com/card/sok/53/sakashima-the-impostor?utm_source=api>`
+:mtgtip:`Sakashima the Impostor<https://img.scryfall.com/cards/border_crop/front/6/1/61dc2f54-3637-4caa-9741-36ff14dc5527.jpg?1562494177|https://scryfall.com/card/sok/53/sakashima-the-impostor?utm_source=api>`
    You may have Sakashima the Impostor enter the battlefield as a copy of any creature on the battlefield, except its name is Sakashima the Impostor, it's legendary in addition to its other types, and it has "|mana_2|\ |mana_u|\ |mana_u|: Return this creature to its owner's hand at the beginning of the next end step."
 
 
-:mtgtip:`Secretkeeper<https://img.scryfall.com/cards/border_crop/en/sok/54.jpg?1517813031|https://scryfall.com/card/sok/54/secretkeeper?utm_source=api>`
+:mtgtip:`Secretkeeper<https://img.scryfall.com/cards/border_crop/front/0/3/03247e03-747a-462a-ad74-49ce02d20f13.jpg?1562492054|https://scryfall.com/card/sok/54/secretkeeper?utm_source=api>`
    As long as you have more cards in hand than each opponent, Secretkeeper gets +2/+2 and has flying.
 
 
-:mtgtip:`Shape Stealer<https://img.scryfall.com/cards/border_crop/en/sok/55.jpg?1517813031|https://scryfall.com/card/sok/55/shape-stealer?utm_source=api>`
+:mtgtip:`Shape Stealer<https://img.scryfall.com/cards/border_crop/front/d/a/da2a4871-8bc3-4db0-9f9e-b2e96b90ebd5.jpg?1562496117|https://scryfall.com/card/sok/55/shape-stealer?utm_source=api>`
    Whenever Shape Stealer blocks or becomes blocked by a creature, change Shape Stealer's base power and toughness to that creature's power and toughness until end of turn.
 
 
-:mtgtip:`Shifting Borders<https://img.scryfall.com/cards/border_crop/en/sok/56.jpg?1517813031|https://scryfall.com/card/sok/56/shifting-borders?utm_source=api>`
+:mtgtip:`Shifting Borders<https://img.scryfall.com/cards/border_crop/front/0/c/0cbe44b0-e770-41f2-b91c-c574976e6b53.jpg?1562492469|https://scryfall.com/card/sok/56/shifting-borders?utm_source=api>`
    Exchange control of two target lands.
 
    Splice onto Arcane |mana_3|\ |mana_u| (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
 
 
-:mtgtip:`Shinen of Flight's Wings<https://img.scryfall.com/cards/border_crop/en/sok/57.jpg?1517813031|https://scryfall.com/card/sok/57/shinen-of-flights-wings?utm_source=api>`
+:mtgtip:`Shinen of Flight's Wings<https://img.scryfall.com/cards/border_crop/front/6/7/67cdad5d-5979-4bbd-90a4-00173d23707b.jpg?1562494193|https://scryfall.com/card/sok/57/shinen-of-flights-wings?utm_source=api>`
    Flying
 
    Channel — |mana_u|, Discard Shinen of Flight's Wings: Target creature gains flying until end of turn.
 
 
-:mtgtip:`Soramaro, First to Dream<https://img.scryfall.com/cards/border_crop/en/sok/58.jpg?1517813031|https://scryfall.com/card/sok/58/soramaro-first-to-dream?utm_source=api>`
+:mtgtip:`Soramaro, First to Dream<https://img.scryfall.com/cards/border_crop/front/e/5/e56de23d-7281-42f9-afce-7a81438dae5d.jpg?1562496546|https://scryfall.com/card/sok/58/soramaro-first-to-dream?utm_source=api>`
    Flying
 
    Soramaro, First to Dream's power and toughness are each equal to the number of cards in your hand.
@@ -321,37 +321,37 @@
    |mana_4|, Return a land you control to its owner's hand: Draw a card.
 
 
-:mtgtip:`Trusted Advisor<https://img.scryfall.com/cards/border_crop/en/sok/59.jpg?1517813031|https://scryfall.com/card/sok/59/trusted-advisor?utm_source=api>`
+:mtgtip:`Trusted Advisor<https://img.scryfall.com/cards/border_crop/front/e/e/ee63cba4-ab12-4adb-8463-d42edbf5794d.jpg?1562496591|https://scryfall.com/card/sok/59/trusted-advisor?utm_source=api>`
    Your maximum hand size is increased by two.
 
    At the beginning of your upkeep, return a blue creature you control to its owner's hand.
 
 
-:mtgtip:`Twincast<https://img.scryfall.com/cards/border_crop/en/sok/60.jpg?1517813031|https://scryfall.com/card/sok/60/twincast?utm_source=api>`
+:mtgtip:`Twincast<https://img.scryfall.com/cards/border_crop/front/1/a/1a367559-1d84-4f6f-9e6e-ff90de420389.jpg?1562492546|https://scryfall.com/card/sok/60/twincast?utm_source=api>`
    Copy target instant or sorcery spell. You may choose new targets for the copy.
 
 
-:mtgtip:`Akuta, Born of Ash<https://img.scryfall.com/cards/border_crop/en/sok/61.jpg?1517813031|https://scryfall.com/card/sok/61/akuta-born-of-ash?utm_source=api>`
+:mtgtip:`Akuta, Born of Ash<https://img.scryfall.com/cards/border_crop/front/0/8/08730b49-e51e-4868-9cc8-4ddc4a1dce4c.jpg?1562492453|https://scryfall.com/card/sok/61/akuta-born-of-ash?utm_source=api>`
    Haste
 
    At the beginning of your upkeep, if you have more cards in hand than each opponent, you may sacrifice a Swamp. If you do, return Akuta, Born of Ash from your graveyard to the battlefield.
 
 
-:mtgtip:`Choice of Damnations<https://img.scryfall.com/cards/border_crop/en/sok/62.jpg?1517813031|https://scryfall.com/card/sok/62/choice-of-damnations?utm_source=api>`
+:mtgtip:`Choice of Damnations<https://img.scryfall.com/cards/border_crop/front/0/5/05939f15-2d95-47df-b66f-131c3e7ea95f.jpg?1562492064|https://scryfall.com/card/sok/62/choice-of-damnations?utm_source=api>`
    Target opponent chooses a number. You may have that player lose that much life. If you don't, that player sacrifices all but that many permanents.
 
 
-:mtgtip:`Death Denied<https://img.scryfall.com/cards/border_crop/en/sok/63.jpg?1517813031|https://scryfall.com/card/sok/63/death-denied?utm_source=api>`
+:mtgtip:`Death Denied<https://img.scryfall.com/cards/border_crop/front/8/f/8f66ddc5-f5e6-44de-8189-87b6521d1fea.jpg?1562494767|https://scryfall.com/card/sok/63/death-denied?utm_source=api>`
    Return X target creature cards from your graveyard to your hand.
 
 
-:mtgtip:`Death of a Thousand Stings<https://img.scryfall.com/cards/border_crop/en/sok/64.jpg?1517813031|https://scryfall.com/card/sok/64/death-of-a-thousand-stings?utm_source=api>`
+:mtgtip:`Death of a Thousand Stings<https://img.scryfall.com/cards/border_crop/front/a/3/a31ca907-a274-436e-8433-7f11b0303f75.jpg?1562495143|https://scryfall.com/card/sok/64/death-of-a-thousand-stings?utm_source=api>`
    Target player loses 1 life and you gain 1 life.
 
    At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Death of a Thousand Stings from your graveyard to your hand.
 
 
-:mtgtip:`Deathknell Kami<https://img.scryfall.com/cards/border_crop/en/sok/65.jpg?1517813031|https://scryfall.com/card/sok/65/deathknell-kami?utm_source=api>`
+:mtgtip:`Deathknell Kami<https://img.scryfall.com/cards/border_crop/front/0/9/09535c14-ae50-4528-b9db-7eacee14e3fa.jpg?1562492455|https://scryfall.com/card/sok/65/deathknell-kami?utm_source=api>`
    Flying
 
    |mana_2|: Deathknell Kami gets +1/+1 until end of turn. Sacrifice it at the beginning of the next end step.
@@ -359,421 +359,421 @@
    Soulshift 1 (When this creature dies, you may return target Spirit card with converted mana cost 1 or less from your graveyard to your hand.)
 
 
-:mtgtip:`Deathmask Nezumi<https://img.scryfall.com/cards/border_crop/en/sok/66.jpg?1517813031|https://scryfall.com/card/sok/66/deathmask-nezumi?utm_source=api>`
+:mtgtip:`Deathmask Nezumi<https://img.scryfall.com/cards/border_crop/front/7/4/743e38d1-b1cd-4828-ad3d-529a9f882115.jpg?1562494629|https://scryfall.com/card/sok/66/deathmask-nezumi?utm_source=api>`
    As long as you have seven or more cards in hand, Deathmask Nezumi gets +2/+1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
 
 
-:mtgtip:`Exile into Darkness<https://img.scryfall.com/cards/border_crop/en/sok/67.jpg?1517813031|https://scryfall.com/card/sok/67/exile-into-darkness?utm_source=api>`
+:mtgtip:`Exile into Darkness<https://img.scryfall.com/cards/border_crop/front/4/d/4d6ac32c-9555-4408-8b18-c3098802b7ad.jpg?1562493688|https://scryfall.com/card/sok/67/exile-into-darkness?utm_source=api>`
    Target player sacrifices a creature with converted mana cost 3 or less.
 
    At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Exile into Darkness from your graveyard to your hand.
 
 
-:mtgtip:`Footsteps of the Goryo<https://img.scryfall.com/cards/border_crop/en/sok/68.jpg?1517813031|https://scryfall.com/card/sok/68/footsteps-of-the-goryo?utm_source=api>`
+:mtgtip:`Footsteps of the Goryo<https://img.scryfall.com/cards/border_crop/front/c/a/ca7bedbe-8b87-402f-9a0c-83e46ae10279.jpg?1562496064|https://scryfall.com/card/sok/68/footsteps-of-the-goryo?utm_source=api>`
    Return target creature card from your graveyard to the battlefield. Sacrifice that creature at the beginning of the next end step.
 
 
-:mtgtip:`Ghost-Lit Stalker<https://img.scryfall.com/cards/border_crop/en/sok/69.jpg?1517813031|https://scryfall.com/card/sok/69/ghost-lit-stalker?utm_source=api>`
+:mtgtip:`Ghost-Lit Stalker<https://img.scryfall.com/cards/border_crop/front/0/d/0d3cc092-b673-4f4e-b9a8-8e60ff562dbd.jpg?1562492471|https://scryfall.com/card/sok/69/ghost-lit-stalker?utm_source=api>`
    |mana_4|\ |mana_b|, |tap|: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
 
    Channel — |mana_5|\ |mana_b|\ |mana_b|, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.
 
 
-:mtgtip:`Gnat Miser<https://img.scryfall.com/cards/border_crop/en/sok/70.jpg?1517813031|https://scryfall.com/card/sok/70/gnat-miser?utm_source=api>`
+:mtgtip:`Gnat Miser<https://img.scryfall.com/cards/border_crop/front/f/1/f1c51ee1-d6f6-42d7-9be6-fe3f982984ba.jpg?1562496618|https://scryfall.com/card/sok/70/gnat-miser?utm_source=api>`
    Each opponent's maximum hand size is reduced by one.
 
 
-:mtgtip:`Hand of Cruelty<https://img.scryfall.com/cards/border_crop/en/sok/71.jpg?1517813031|https://scryfall.com/card/sok/71/hand-of-cruelty?utm_source=api>`
+:mtgtip:`Hand of Cruelty<https://img.scryfall.com/cards/border_crop/front/e/e/ee194055-579a-4977-900e-e976259552ab.jpg?1562496589|https://scryfall.com/card/sok/71/hand-of-cruelty?utm_source=api>`
    Protection from white
 
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
 
-:mtgtip:`Infernal Kirin<https://img.scryfall.com/cards/border_crop/en/sok/72.jpg?1517813031|https://scryfall.com/card/sok/72/infernal-kirin?utm_source=api>`
+:mtgtip:`Infernal Kirin<https://img.scryfall.com/cards/border_crop/front/c/7/c79e7a4c-e0e7-42ac-b125-1db2f3d9325c.jpg?1562495650|https://scryfall.com/card/sok/72/infernal-kirin?utm_source=api>`
    Flying
 
    Whenever you cast a Spirit or Arcane spell, target player reveals their hand and discards all cards with that spell's converted mana cost.
 
 
-:mtgtip:`Kagemaro, First to Suffer<https://img.scryfall.com/cards/border_crop/en/sok/73.jpg?1517813031|https://scryfall.com/card/sok/73/kagemaro-first-to-suffer?utm_source=api>`
+:mtgtip:`Kagemaro, First to Suffer<https://img.scryfall.com/cards/border_crop/front/7/5/752f8672-1c37-4ab2-b290-fe3147784475.jpg?1562494640|https://scryfall.com/card/sok/73/kagemaro-first-to-suffer?utm_source=api>`
    Kagemaro, First to Suffer's power and toughness are each equal to the number of cards in your hand.
 
    |mana_b|, Sacrifice Kagemaro: All creatures get -X/-X until end of turn, where X is the number of cards in your hand.
 
 
-:mtgtip:`Kagemaro's Clutch<https://img.scryfall.com/cards/border_crop/en/sok/74.jpg?1517813031|https://scryfall.com/card/sok/74/kagemaros-clutch?utm_source=api>`
+:mtgtip:`Kagemaro's Clutch<https://img.scryfall.com/cards/border_crop/front/4/f/4fe4bb8d-bed8-4373-af9d-9332de910e06.jpg?1562493707|https://scryfall.com/card/sok/74/kagemaros-clutch?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets -X/-X, where X is the number of cards in your hand.
 
 
-:mtgtip:`Kami of Empty Graves<https://img.scryfall.com/cards/border_crop/en/sok/75.jpg?1517813031|https://scryfall.com/card/sok/75/kami-of-empty-graves?utm_source=api>`
+:mtgtip:`Kami of Empty Graves<https://img.scryfall.com/cards/border_crop/front/3/0/30502f07-760c-46d1-8b4a-d4bd4a23201f.jpg?1562493417|https://scryfall.com/card/sok/75/kami-of-empty-graves?utm_source=api>`
    Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
 
 
-:mtgtip:`Kemuri-Onna<https://img.scryfall.com/cards/border_crop/en/sok/76.jpg?1517813031|https://scryfall.com/card/sok/76/kemuri-onna?utm_source=api>`
+:mtgtip:`Kemuri-Onna<https://img.scryfall.com/cards/border_crop/front/4/e/4eed13fd-68be-4bc3-af6a-d88baaf9c98d.jpg?1562493706|https://scryfall.com/card/sok/76/kemuri-onna?utm_source=api>`
    When Kemuri-Onna enters the battlefield, target player discards a card.
 
    Whenever you cast a Spirit or Arcane spell, you may return Kemuri-Onna to its owner's hand.
 
 
-:mtgtip:`Kiku's Shadow<https://img.scryfall.com/cards/border_crop/en/sok/77.jpg?1517813031|https://scryfall.com/card/sok/77/kikus-shadow?utm_source=api>`
+:mtgtip:`Kiku's Shadow<https://img.scryfall.com/cards/border_crop/front/3/8/38700c7d-2f24-47e4-a899-d294daed5549.jpg?1562493460|https://scryfall.com/card/sok/77/kikus-shadow?utm_source=api>`
    Target creature deals damage to itself equal to its power.
 
 
-:mtgtip:`Kuon, Ogre Ascendant<https://img.scryfall.com/cards/border_crop/en/sok/78a.jpg?1517813031|https://scryfall.com/card/sok/78/kuon-ogre-ascendant-kuons-essence?utm_source=api>`
+:mtgtip:`Kuon, Ogre Ascendant<https://img.scryfall.com/cards/border_crop/front/4/1/41004bdf-8e09-4b2c-9e9c-26c25eac9854.jpg?1562493483|https://scryfall.com/card/sok/78/kuon-ogre-ascendant-kuons-essence?utm_source=api>`
    At the beginning of the end step, if three or more creatures died this turn, flip Kuon, Ogre Ascendant.
 
 
-:mtgtip:`Kuon's Essence<https://img.scryfall.com/cards/border_crop/en/sok/78a.jpg?1517813031|https://scryfall.com/card/sok/78/kuon-ogre-ascendant-kuons-essence?utm_source=api>`
+:mtgtip:`Kuon's Essence<https://img.scryfall.com/cards/border_crop/front/4/1/41004bdf-8e09-4b2c-9e9c-26c25eac9854.jpg?1562493483|https://scryfall.com/card/sok/78/kuon-ogre-ascendant-kuons-essence?utm_source=api>`
    At the beginning of each player's upkeep, that player sacrifices a creature.
 
 
-:mtgtip:`Kuro's Taken<https://img.scryfall.com/cards/border_crop/en/sok/79.jpg?1517813031|https://scryfall.com/card/sok/79/kuros-taken?utm_source=api>`
+:mtgtip:`Kuro's Taken<https://img.scryfall.com/cards/border_crop/front/1/e/1e301a46-f321-4fa6-a8c4-08dd4079a458.jpg?1562492551|https://scryfall.com/card/sok/79/kuros-taken?utm_source=api>`
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
    |mana_1|\ |mana_b|: Regenerate Kuro's Taken.
 
 
-:mtgtip:`Locust Miser<https://img.scryfall.com/cards/border_crop/en/sok/80.jpg?1517813031|https://scryfall.com/card/sok/80/locust-miser?utm_source=api>`
+:mtgtip:`Locust Miser<https://img.scryfall.com/cards/border_crop/front/5/5/55bf4dda-0ce8-4e35-88d9-18a22400e6cb.jpg?1562493740|https://scryfall.com/card/sok/80/locust-miser?utm_source=api>`
    Each opponent's maximum hand size is reduced by two.
 
 
-:mtgtip:`Maga, Traitor to Mortals<https://img.scryfall.com/cards/border_crop/en/sok/81.jpg?1517813031|https://scryfall.com/card/sok/81/maga-traitor-to-mortals?utm_source=api>`
+:mtgtip:`Maga, Traitor to Mortals<https://img.scryfall.com/cards/border_crop/front/2/5/2563fd68-afdd-466f-8137-0769565674bf.jpg?1562492983|https://scryfall.com/card/sok/81/maga-traitor-to-mortals?utm_source=api>`
    Maga, Traitor to Mortals enters the battlefield with X +1/+1 counters on it.
 
    When Maga enters the battlefield, target player loses life equal to the number of +1/+1 counters on it.
 
 
-:mtgtip:`Measure of Wickedness<https://img.scryfall.com/cards/border_crop/en/sok/82.jpg?1517813031|https://scryfall.com/card/sok/82/measure-of-wickedness?utm_source=api>`
+:mtgtip:`Measure of Wickedness<https://img.scryfall.com/cards/border_crop/front/3/4/34d6776c-f286-4b43-8f5f-d70b5585e635.jpg?1562493445|https://scryfall.com/card/sok/82/measure-of-wickedness?utm_source=api>`
    At the beginning of your end step, sacrifice Measure of Wickedness and you lose 8 life.
 
    Whenever another card is put into your graveyard from anywhere, target opponent gains control of Measure of Wickedness.
 
 
-:mtgtip:`Neverending Torment<https://img.scryfall.com/cards/border_crop/en/sok/83.jpg?1517813031|https://scryfall.com/card/sok/83/neverending-torment?utm_source=api>`
+:mtgtip:`Neverending Torment<https://img.scryfall.com/cards/border_crop/front/3/f/3f91f678-9d3a-4502-81a6-3e1676aa447a.jpg?1562493480|https://scryfall.com/card/sok/83/neverending-torment?utm_source=api>`
    Search target player's library for X cards, where X is the number of cards in your hand, and exile them. Then that player shuffles their library.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)
 
 
-:mtgtip:`One with Nothing<https://img.scryfall.com/cards/border_crop/en/sok/84.jpg?1517813031|https://scryfall.com/card/sok/84/one-with-nothing?utm_source=api>`
+:mtgtip:`One with Nothing<https://img.scryfall.com/cards/border_crop/front/5/a/5a5841fa-4f30-495a-b840-3ef5a2af8fad.jpg?1562494149|https://scryfall.com/card/sok/84/one-with-nothing?utm_source=api>`
    Discard your hand.
 
 
-:mtgtip:`Pain's Reward<https://img.scryfall.com/cards/border_crop/en/sok/85.jpg?1517813031|https://scryfall.com/card/sok/85/pains-reward?utm_source=api>`
+:mtgtip:`Pain's Reward<https://img.scryfall.com/cards/border_crop/front/6/d/6d16da68-85f6-4d54-9751-9cf046f5e99a.jpg?1562494206|https://scryfall.com/card/sok/85/pains-reward?utm_source=api>`
    Each player may bid life. You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and draws four cards.
 
 
-:mtgtip:`Raving Oni-Slave<https://img.scryfall.com/cards/border_crop/en/sok/86.jpg?1517813031|https://scryfall.com/card/sok/86/raving-oni-slave?utm_source=api>`
+:mtgtip:`Raving Oni-Slave<https://img.scryfall.com/cards/border_crop/front/a/4/a4d16271-9302-463b-938d-01dad0c3ce29.jpg?1562495151|https://scryfall.com/card/sok/86/raving-oni-slave?utm_source=api>`
    When Raving Oni-Slave enters the battlefield or leaves the battlefield, you lose 3 life if you don't control a Demon.
 
 
-:mtgtip:`Razorjaw Oni<https://img.scryfall.com/cards/border_crop/en/sok/87.jpg?1517813031|https://scryfall.com/card/sok/87/razorjaw-oni?utm_source=api>`
+:mtgtip:`Razorjaw Oni<https://img.scryfall.com/cards/border_crop/front/9/2/92a44255-2f3e-4e0b-aeab-9d2385b2afcd.jpg?1562495106|https://scryfall.com/card/sok/87/razorjaw-oni?utm_source=api>`
    Black creatures can't block.
 
 
-:mtgtip:`Shinen of Fear's Chill<https://img.scryfall.com/cards/border_crop/en/sok/88.jpg?1517813031|https://scryfall.com/card/sok/88/shinen-of-fears-chill?utm_source=api>`
+:mtgtip:`Shinen of Fear's Chill<https://img.scryfall.com/cards/border_crop/front/7/6/762499b4-4b4f-456e-8a03-2de300b2db5e.jpg?1562494641|https://scryfall.com/card/sok/88/shinen-of-fears-chill?utm_source=api>`
    Shinen of Fear's Chill can't block.
 
    Channel — |mana_1|\ |mana_b|, Discard Shinen of Fear's Chill: Target creature can't block this turn.
 
 
-:mtgtip:`Sink into Takenuma<https://img.scryfall.com/cards/border_crop/en/sok/89.jpg?1517813031|https://scryfall.com/card/sok/89/sink-into-takenuma?utm_source=api>`
+:mtgtip:`Sink into Takenuma<https://img.scryfall.com/cards/border_crop/front/d/5/d519df1b-0c81-4d0d-85c6-2a288c6fa269.jpg?1562496108|https://scryfall.com/card/sok/89/sink-into-takenuma?utm_source=api>`
    Sweep — Return any number of Swamps you control to their owner's hand. Target player discards a card for each Swamp returned this way.
 
 
-:mtgtip:`Skull Collector<https://img.scryfall.com/cards/border_crop/en/sok/90.jpg?1517813031|https://scryfall.com/card/sok/90/skull-collector?utm_source=api>`
+:mtgtip:`Skull Collector<https://img.scryfall.com/cards/border_crop/front/0/d/0da4b1bf-eef5-4a86-a861-be448845a743.jpg?1562492477|https://scryfall.com/card/sok/90/skull-collector?utm_source=api>`
    At the beginning of your upkeep, return a black creature you control to its owner's hand.
 
    |mana_1|\ |mana_b|: Regenerate Skull Collector.
 
 
-:mtgtip:`Adamaro, First to Desire<https://img.scryfall.com/cards/border_crop/en/sok/91.jpg?1517813031|https://scryfall.com/card/sok/91/adamaro-first-to-desire?utm_source=api>`
+:mtgtip:`Adamaro, First to Desire<https://img.scryfall.com/cards/border_crop/front/d/2/d2fa85ea-f5d5-4be3-a874-ce246c3e4245.jpg?1562496102|https://scryfall.com/card/sok/91/adamaro-first-to-desire?utm_source=api>`
    Adamaro, First to Desire's power and toughness are each equal to the number of cards in the hand of the opponent with the most cards in hand.
 
 
-:mtgtip:`Akki Drillmaster<https://img.scryfall.com/cards/border_crop/en/sok/92.jpg?1517813031|https://scryfall.com/card/sok/92/akki-drillmaster?utm_source=api>`
+:mtgtip:`Akki Drillmaster<https://img.scryfall.com/cards/border_crop/front/7/f/7fb63254-5786-43fb-8ccd-132095a55e64.jpg?1562494689|https://scryfall.com/card/sok/92/akki-drillmaster?utm_source=api>`
    |tap|: Target creature gains haste until end of turn.
 
 
-:mtgtip:`Akki Underling<https://img.scryfall.com/cards/border_crop/en/sok/93.jpg?1517813031|https://scryfall.com/card/sok/93/akki-underling?utm_source=api>`
+:mtgtip:`Akki Underling<https://img.scryfall.com/cards/border_crop/front/1/0/106382db-56aa-4061-9d1e-17821937f1de.jpg?1562492488|https://scryfall.com/card/sok/93/akki-underling?utm_source=api>`
    As long as you have seven or more cards in hand, Akki Underling gets +2/+1 and has first strike.
 
 
-:mtgtip:`Barrel Down Sokenzan<https://img.scryfall.com/cards/border_crop/en/sok/94.jpg?1517813031|https://scryfall.com/card/sok/94/barrel-down-sokenzan?utm_source=api>`
+:mtgtip:`Barrel Down Sokenzan<https://img.scryfall.com/cards/border_crop/front/0/2/02c52e00-ad17-42aa-9f5f-38fb52dad5ea.jpg?1562492053|https://scryfall.com/card/sok/94/barrel-down-sokenzan?utm_source=api>`
    Sweep — Return any number of Mountains you control to their owner's hand. Barrel Down Sokenzan deals damage to target creature equal to twice the number of Mountains returned this way.
 
 
-:mtgtip:`Burning-Eye Zubera<https://img.scryfall.com/cards/border_crop/en/sok/95.jpg?1517813031|https://scryfall.com/card/sok/95/burning-eye-zubera?utm_source=api>`
+:mtgtip:`Burning-Eye Zubera<https://img.scryfall.com/cards/border_crop/front/a/e/ae9ca5c3-8367-4e08-a318-634f9d36dbdc.jpg?1562495577|https://scryfall.com/card/sok/95/burning-eye-zubera?utm_source=api>`
    When Burning-Eye Zubera dies, if 4 or more damage was dealt to it this turn, Burning-Eye Zubera deals 3 damage to any target.
 
 
-:mtgtip:`Captive Flame<https://img.scryfall.com/cards/border_crop/en/sok/96.jpg?1517813031|https://scryfall.com/card/sok/96/captive-flame?utm_source=api>`
+:mtgtip:`Captive Flame<https://img.scryfall.com/cards/border_crop/front/5/3/53fd2142-b41b-4456-9b76-bb83ba91e6be.jpg?1562493738|https://scryfall.com/card/sok/96/captive-flame?utm_source=api>`
    |mana_r|: Target creature gets +1/+0 until end of turn.
 
 
-:mtgtip:`Feral Lightning<https://img.scryfall.com/cards/border_crop/en/sok/97.jpg?1517813031|https://scryfall.com/card/sok/97/feral-lightning?utm_source=api>`
+:mtgtip:`Feral Lightning<https://img.scryfall.com/cards/border_crop/front/2/3/2391265f-ef0c-463f-9371-5a0b71dbbb49.jpg?1562492971|https://scryfall.com/card/sok/97/feral-lightning?utm_source=api>`
    Create three 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.
 
 
-:mtgtip:`Gaze of Adamaro<https://img.scryfall.com/cards/border_crop/en/sok/98.jpg?1517813031|https://scryfall.com/card/sok/98/gaze-of-adamaro?utm_source=api>`
+:mtgtip:`Gaze of Adamaro<https://img.scryfall.com/cards/border_crop/front/4/4/44cab92a-54d8-496c-8a97-7f3448f5b1e9.jpg?1562493493|https://scryfall.com/card/sok/98/gaze-of-adamaro?utm_source=api>`
    Gaze of Adamaro deals damage to target player equal to the number of cards in that player's hand.
 
 
-:mtgtip:`Ghost-Lit Raider<https://img.scryfall.com/cards/border_crop/en/sok/99.jpg?1517813031|https://scryfall.com/card/sok/99/ghost-lit-raider?utm_source=api>`
+:mtgtip:`Ghost-Lit Raider<https://img.scryfall.com/cards/border_crop/front/4/2/4280a08a-90fe-445e-b49d-1a3b13d3c6e9.jpg?1562493484|https://scryfall.com/card/sok/99/ghost-lit-raider?utm_source=api>`
    |mana_2|\ |mana_r|, |tap|: Ghost-Lit Raider deals 2 damage to target creature.
 
    Channel — |mana_3|\ |mana_r|, Discard Ghost-Lit Raider: It deals 4 damage to target creature.
 
 
-:mtgtip:`Glitterfang<https://img.scryfall.com/cards/border_crop/en/sok/100.jpg?1517813031|https://scryfall.com/card/sok/100/glitterfang?utm_source=api>`
+:mtgtip:`Glitterfang<https://img.scryfall.com/cards/border_crop/front/a/1/a1519521-7f53-4f13-a104-daf52e8c7234.jpg?1562495142|https://scryfall.com/card/sok/100/glitterfang?utm_source=api>`
    Haste
 
    At the beginning of the end step, return Glitterfang to its owner's hand.
 
 
-:mtgtip:`Godo's Irregulars<https://img.scryfall.com/cards/border_crop/en/sok/101.jpg?1517813031|https://scryfall.com/card/sok/101/godos-irregulars?utm_source=api>`
+:mtgtip:`Godo's Irregulars<https://img.scryfall.com/cards/border_crop/front/f/7/f7a7afc5-be73-459d-8bd1-116a0bf1210f.jpg?1562497021|https://scryfall.com/card/sok/101/godos-irregulars?utm_source=api>`
    |mana_r|: Godo's Irregulars deals 1 damage to target creature blocking it.
 
 
-:mtgtip:`Hidetsugu's Second Rite<https://img.scryfall.com/cards/border_crop/en/sok/102.jpg?1517813031|https://scryfall.com/card/sok/102/hidetsugus-second-rite?utm_source=api>`
+:mtgtip:`Hidetsugu's Second Rite<https://img.scryfall.com/cards/border_crop/front/2/e/2e48eb77-3bd7-444a-9262-799cc706c05a.jpg?1562493025|https://scryfall.com/card/sok/102/hidetsugus-second-rite?utm_source=api>`
    If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.
 
 
-:mtgtip:`Homura, Human Ascendant<https://img.scryfall.com/cards/border_crop/en/sok/103a.jpg?1525120877|https://scryfall.com/card/sok/103/homura-human-ascendant-homuras-essence?utm_source=api>`
+:mtgtip:`Homura, Human Ascendant<https://img.scryfall.com/cards/border_crop/front/8/4/84920a21-ee2a-41ac-a369-347633d10371.jpg?1562494702|https://scryfall.com/card/sok/103/homura-human-ascendant-homuras-essence?utm_source=api>`
    Homura, Human Ascendant can't block.
 
    When Homura dies, return it to the battlefield flipped.
 
 
-:mtgtip:`Homura's Essence<https://img.scryfall.com/cards/border_crop/en/sok/103a.jpg?1525120877|https://scryfall.com/card/sok/103/homura-human-ascendant-homuras-essence?utm_source=api>`
+:mtgtip:`Homura's Essence<https://img.scryfall.com/cards/border_crop/front/8/4/84920a21-ee2a-41ac-a369-347633d10371.jpg?1562494702|https://scryfall.com/card/sok/103/homura-human-ascendant-homuras-essence?utm_source=api>`
    Creatures you control get +2/+2 and have flying and "|mana_r|: This creature gets +1/+0 until end of turn."
 
 
-:mtgtip:`Iizuka the Ruthless<https://img.scryfall.com/cards/border_crop/en/sok/104.jpg?1517813031|https://scryfall.com/card/sok/104/iizuka-the-ruthless?utm_source=api>`
+:mtgtip:`Iizuka the Ruthless<https://img.scryfall.com/cards/border_crop/front/9/c/9ce461f7-385d-4379-83de-49571247c30d.jpg?1562495128|https://scryfall.com/card/sok/104/iizuka-the-ruthless?utm_source=api>`
    Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
 
    |mana_2|\ |mana_r|, Sacrifice a Samurai: Samurai creatures you control gain double strike until end of turn.
 
 
-:mtgtip:`Inner Fire<https://img.scryfall.com/cards/border_crop/en/sok/105.jpg?1517813031|https://scryfall.com/card/sok/105/inner-fire?utm_source=api>`
+:mtgtip:`Inner Fire<https://img.scryfall.com/cards/border_crop/front/b/1/b1d886a2-ae83-4d95-9ec0-582c563181e6.jpg?1562495591|https://scryfall.com/card/sok/105/inner-fire?utm_source=api>`
    Add |mana_r| for each card in your hand.
 
 
-:mtgtip:`Into the Fray<https://img.scryfall.com/cards/border_crop/en/sok/106.jpg?1517813031|https://scryfall.com/card/sok/106/into-the-fray?utm_source=api>`
+:mtgtip:`Into the Fray<https://img.scryfall.com/cards/border_crop/front/c/9/c99d116c-41c0-41af-9a68-9ac995f3000b.jpg?1562496063|https://scryfall.com/card/sok/106/into-the-fray?utm_source=api>`
    Target creature attacks this turn if able.
 
    Splice onto Arcane |mana_r| (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
 
 
-:mtgtip:`Jiwari, the Earth Aflame<https://img.scryfall.com/cards/border_crop/en/sok/107.jpg?1517813031|https://scryfall.com/card/sok/107/jiwari-the-earth-aflame?utm_source=api>`
+:mtgtip:`Jiwari, the Earth Aflame<https://img.scryfall.com/cards/border_crop/front/6/b/6b46105b-32c2-48fc-b71d-c3e8fcb8a8ea.jpg?1562494205|https://scryfall.com/card/sok/107/jiwari-the-earth-aflame?utm_source=api>`
    |mana_x|\ |mana_r|, |tap|: Jiwari, the Earth Aflame deals X damage to target creature without flying.
 
    Channel — |mana_x|\ |mana_r|\ |mana_r|\ |mana_r|, Discard Jiwari: Jiwari deals X damage to each creature without flying.
 
 
-:mtgtip:`Oni of Wild Places<https://img.scryfall.com/cards/border_crop/en/sok/108.jpg?1517813031|https://scryfall.com/card/sok/108/oni-of-wild-places?utm_source=api>`
+:mtgtip:`Oni of Wild Places<https://img.scryfall.com/cards/border_crop/front/7/0/70bf61b5-cb7e-4303-a6b4-4abc8332fd58.jpg?1562494223|https://scryfall.com/card/sok/108/oni-of-wild-places?utm_source=api>`
    Haste
 
    At the beginning of your upkeep, return a red creature you control to its owner's hand.
 
 
-:mtgtip:`Path of Anger's Flame<https://img.scryfall.com/cards/border_crop/en/sok/109.jpg?1517813031|https://scryfall.com/card/sok/109/path-of-angers-flame?utm_source=api>`
+:mtgtip:`Path of Anger's Flame<https://img.scryfall.com/cards/border_crop/front/0/4/046fd4b1-d3a4-4859-a0d4-0e8341e6c6c7.jpg?1562492062|https://scryfall.com/card/sok/109/path-of-angers-flame?utm_source=api>`
    Creatures you control get +2/+0 until end of turn.
 
 
-:mtgtip:`Rally the Horde<https://img.scryfall.com/cards/border_crop/en/sok/110.jpg?1517813031|https://scryfall.com/card/sok/110/rally-the-horde?utm_source=api>`
+:mtgtip:`Rally the Horde<https://img.scryfall.com/cards/border_crop/front/b/2/b292a8d2-44b1-4c20-8035-0f5912cc09a4.jpg?1562495594|https://scryfall.com/card/sok/110/rally-the-horde?utm_source=api>`
    Exile the top card of your library. Exile the top card of your library. Exile the top card of your library. If the last card exiled isn't a land card, repeat this process. Create a 1/1 red Warrior creature token for each nonland card exiled this way.
 
 
-:mtgtip:`Ronin Cavekeeper<https://img.scryfall.com/cards/border_crop/en/sok/111.jpg?1517813031|https://scryfall.com/card/sok/111/ronin-cavekeeper?utm_source=api>`
+:mtgtip:`Ronin Cavekeeper<https://img.scryfall.com/cards/border_crop/front/3/c/3c532e5a-01f4-4258-ba48-99257cc577d4.jpg?1562493474|https://scryfall.com/card/sok/111/ronin-cavekeeper?utm_source=api>`
    Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
 
 
-:mtgtip:`Shinen of Fury's Fire<https://img.scryfall.com/cards/border_crop/en/sok/112.jpg?1517813031|https://scryfall.com/card/sok/112/shinen-of-furys-fire?utm_source=api>`
+:mtgtip:`Shinen of Fury's Fire<https://img.scryfall.com/cards/border_crop/front/6/6/66c05acc-7cb2-4a06-9e6f-cb9419298385.jpg?1562494191|https://scryfall.com/card/sok/112/shinen-of-furys-fire?utm_source=api>`
    Haste
 
    Channel — |mana_r|, Discard Shinen of Fury's Fire: Target creature gains haste until end of turn.
 
 
-:mtgtip:`Skyfire Kirin<https://img.scryfall.com/cards/border_crop/en/sok/113.jpg?1517813031|https://scryfall.com/card/sok/113/skyfire-kirin?utm_source=api>`
+:mtgtip:`Skyfire Kirin<https://img.scryfall.com/cards/border_crop/front/2/d/2d425562-3f0f-4aa3-a761-48ba445b8380.jpg?1562493019|https://scryfall.com/card/sok/113/skyfire-kirin?utm_source=api>`
    Flying
 
    Whenever you cast a Spirit or Arcane spell, you may gain control of target creature with that spell's converted mana cost until end of turn.
 
 
-:mtgtip:`Sokenzan Renegade<https://img.scryfall.com/cards/border_crop/en/sok/114.jpg?1517813031|https://scryfall.com/card/sok/114/sokenzan-renegade?utm_source=api>`
+:mtgtip:`Sokenzan Renegade<https://img.scryfall.com/cards/border_crop/front/1/e/1e9b3164-3de2-4b25-88d0-2dffee32148a.jpg?1562492944|https://scryfall.com/card/sok/114/sokenzan-renegade?utm_source=api>`
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
    At the beginning of your upkeep, if a player has more cards in hand than each other player, the player who has the most cards in hand gains control of Sokenzan Renegade.
 
 
-:mtgtip:`Sokenzan Spellblade<https://img.scryfall.com/cards/border_crop/en/sok/115.jpg?1517813031|https://scryfall.com/card/sok/115/sokenzan-spellblade?utm_source=api>`
+:mtgtip:`Sokenzan Spellblade<https://img.scryfall.com/cards/border_crop/front/5/0/500eeccb-aee2-48d4-8a43-bb9668f1c1ab.jpg?1562493709|https://scryfall.com/card/sok/115/sokenzan-spellblade?utm_source=api>`
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
    |mana_1|\ |mana_r|: Sokenzan Spellblade gets +X/+0 until end of turn, where X is the number of cards in your hand.
 
 
-:mtgtip:`Spiraling Embers<https://img.scryfall.com/cards/border_crop/en/sok/116.jpg?1517813031|https://scryfall.com/card/sok/116/spiraling-embers?utm_source=api>`
+:mtgtip:`Spiraling Embers<https://img.scryfall.com/cards/border_crop/front/7/3/73503423-30d8-42bc-a697-6d986e4945c8.jpg?1562494235|https://scryfall.com/card/sok/116/spiraling-embers?utm_source=api>`
    Spiraling Embers deals damage to any target equal to the number of cards in your hand.
 
 
-:mtgtip:`Sunder from Within<https://img.scryfall.com/cards/border_crop/en/sok/117.jpg?1517813031|https://scryfall.com/card/sok/117/sunder-from-within?utm_source=api>`
+:mtgtip:`Sunder from Within<https://img.scryfall.com/cards/border_crop/front/4/6/46783ba7-6e23-43d0-b5aa-9a0ea75cfb67.jpg?1562493495|https://scryfall.com/card/sok/117/sunder-from-within?utm_source=api>`
    Destroy target artifact or land.
 
 
-:mtgtip:`Thoughts of Ruin<https://img.scryfall.com/cards/border_crop/en/sok/118.jpg?1517813031|https://scryfall.com/card/sok/118/thoughts-of-ruin?utm_source=api>`
+:mtgtip:`Thoughts of Ruin<https://img.scryfall.com/cards/border_crop/front/2/a/2a0f2db3-41a6-4283-9812-46b6ae6d1df6.jpg?1562493005|https://scryfall.com/card/sok/118/thoughts-of-ruin?utm_source=api>`
    Each player sacrifices a land for each card in your hand.
 
 
-:mtgtip:`Undying Flames<https://img.scryfall.com/cards/border_crop/en/sok/119.jpg?1517813031|https://scryfall.com/card/sok/119/undying-flames?utm_source=api>`
+:mtgtip:`Undying Flames<https://img.scryfall.com/cards/border_crop/front/6/0/606206c7-1a8a-46f4-b368-cf18e02f3df8.jpg?1562494171|https://scryfall.com/card/sok/119/undying-flames?utm_source=api>`
    Exile cards from the top of your library until you exile a nonland card. Undying Flames deals damage to any target equal to that card's converted mana cost.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)
 
 
-:mtgtip:`Yuki-Onna<https://img.scryfall.com/cards/border_crop/en/sok/120.jpg?1517813031|https://scryfall.com/card/sok/120/yuki-onna?utm_source=api>`
+:mtgtip:`Yuki-Onna<https://img.scryfall.com/cards/border_crop/front/6/3/63c6e1cd-e25d-41ff-a918-c495998376d8.jpg?1562494183|https://scryfall.com/card/sok/120/yuki-onna?utm_source=api>`
    When Yuki-Onna enters the battlefield, destroy target artifact.
 
    Whenever you cast a Spirit or Arcane spell, you may return Yuki-Onna to its owner's hand.
 
 
-:mtgtip:`Arashi, the Sky Asunder<https://img.scryfall.com/cards/border_crop/en/sok/121.jpg?1517813031|https://scryfall.com/card/sok/121/arashi-the-sky-asunder?utm_source=api>`
+:mtgtip:`Arashi, the Sky Asunder<https://img.scryfall.com/cards/border_crop/front/2/7/27d627b2-5298-45f5-acd2-56de59209820.jpg?1562492986|https://scryfall.com/card/sok/121/arashi-the-sky-asunder?utm_source=api>`
    |mana_x|\ |mana_g|, |tap|: Arashi, the Sky Asunder deals X damage to target creature with flying.
 
    Channel — |mana_x|\ |mana_g|\ |mana_g|, Discard Arashi: Arashi deals X damage to each creature with flying.
 
 
-:mtgtip:`Ayumi, the Last Visitor<https://img.scryfall.com/cards/border_crop/en/sok/122.jpg?1517813031|https://scryfall.com/card/sok/122/ayumi-the-last-visitor?utm_source=api>`
+:mtgtip:`Ayumi, the Last Visitor<https://img.scryfall.com/cards/border_crop/front/f/0/f037520e-2a44-4650-b7cb-c81d93d1418d.jpg?1562496599|https://scryfall.com/card/sok/122/ayumi-the-last-visitor?utm_source=api>`
    Legendary landwalk (This creature can't be blocked as long as defending player controls a legendary land.)
 
 
-:mtgtip:`Bounteous Kirin<https://img.scryfall.com/cards/border_crop/en/sok/123.jpg?1517813031|https://scryfall.com/card/sok/123/bounteous-kirin?utm_source=api>`
+:mtgtip:`Bounteous Kirin<https://img.scryfall.com/cards/border_crop/front/1/d/1d7fe65e-81b1-4e69-913a-25fc99d96d81.jpg?1562492549|https://scryfall.com/card/sok/123/bounteous-kirin?utm_source=api>`
    Flying
 
    Whenever you cast a Spirit or Arcane spell, you may gain life equal to that spell's converted mana cost.
 
 
-:mtgtip:`Briarknit Kami<https://img.scryfall.com/cards/border_crop/en/sok/124.jpg?1517813031|https://scryfall.com/card/sok/124/briarknit-kami?utm_source=api>`
+:mtgtip:`Briarknit Kami<https://img.scryfall.com/cards/border_crop/front/8/c/8c042f8b-df20-48c1-a291-4d7e1bc5b384.jpg?1562494761|https://scryfall.com/card/sok/124/briarknit-kami?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, put a +1/+1 counter on target creature.
 
 
-:mtgtip:`Dense Canopy<https://img.scryfall.com/cards/border_crop/en/sok/125.jpg?1517813031|https://scryfall.com/card/sok/125/dense-canopy?utm_source=api>`
+:mtgtip:`Dense Canopy<https://img.scryfall.com/cards/border_crop/front/9/d/9d1480d4-51f8-4233-874c-94502726fe0d.jpg?1562495129|https://scryfall.com/card/sok/125/dense-canopy?utm_source=api>`
    Creatures with flying can block only creatures with flying.
 
 
-:mtgtip:`Descendant of Masumaro<https://img.scryfall.com/cards/border_crop/en/sok/126.jpg?1517813031|https://scryfall.com/card/sok/126/descendant-of-masumaro?utm_source=api>`
+:mtgtip:`Descendant of Masumaro<https://img.scryfall.com/cards/border_crop/front/b/7/b7512d74-4330-4de7-9c0c-4bb7f37f6066.jpg?1562495600|https://scryfall.com/card/sok/126/descendant-of-masumaro?utm_source=api>`
    At the beginning of your upkeep, put a +1/+1 counter on Descendant of Masumaro for each card in your hand, then remove a +1/+1 counter from Descendant of Masumaro for each card in target opponent's hand.
 
 
-:mtgtip:`Dosan's Oldest Chant<https://img.scryfall.com/cards/border_crop/en/sok/127.jpg?1517813031|https://scryfall.com/card/sok/127/dosans-oldest-chant?utm_source=api>`
+:mtgtip:`Dosan's Oldest Chant<https://img.scryfall.com/cards/border_crop/front/b/5/b525f824-fcce-48cc-887d-98d4058b1d31.jpg?1562495598|https://scryfall.com/card/sok/127/dosans-oldest-chant?utm_source=api>`
    You gain 6 life.
 
    Draw a card.
 
 
-:mtgtip:`Elder Pine of Jukai<https://img.scryfall.com/cards/border_crop/en/sok/128.jpg?1517813031|https://scryfall.com/card/sok/128/elder-pine-of-jukai?utm_source=api>`
+:mtgtip:`Elder Pine of Jukai<https://img.scryfall.com/cards/border_crop/front/5/1/51c3e47b-a788-46b7-bf15-1216692e637a.jpg?1562493721|https://scryfall.com/card/sok/128/elder-pine-of-jukai?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order.
 
    Soulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)
 
 
-:mtgtip:`Endless Swarm<https://img.scryfall.com/cards/border_crop/en/sok/129.jpg?1517813031|https://scryfall.com/card/sok/129/endless-swarm?utm_source=api>`
+:mtgtip:`Endless Swarm<https://img.scryfall.com/cards/border_crop/front/f/6/f64d9404-9685-495d-a591-63d6164a88a9.jpg?1562496629|https://scryfall.com/card/sok/129/endless-swarm?utm_source=api>`
    Create a 1/1 green Snake creature token for each card in your hand.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)
 
 
-:mtgtip:`Fiddlehead Kami<https://img.scryfall.com/cards/border_crop/en/sok/130.jpg?1517813031|https://scryfall.com/card/sok/130/fiddlehead-kami?utm_source=api>`
+:mtgtip:`Fiddlehead Kami<https://img.scryfall.com/cards/border_crop/front/d/b/db328ac4-1b7d-4310-9798-8c8dc8740062.jpg?1562496120|https://scryfall.com/card/sok/130/fiddlehead-kami?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, regenerate Fiddlehead Kami.
 
 
-:mtgtip:`Ghost-Lit Nourisher<https://img.scryfall.com/cards/border_crop/en/sok/131.jpg?1517813031|https://scryfall.com/card/sok/131/ghost-lit-nourisher?utm_source=api>`
+:mtgtip:`Ghost-Lit Nourisher<https://img.scryfall.com/cards/border_crop/front/f/4/f4becdbb-9089-4c54-a681-6510d90cc99e.jpg?1562496621|https://scryfall.com/card/sok/131/ghost-lit-nourisher?utm_source=api>`
    |mana_2|\ |mana_g|, |tap|: Target creature gets +2/+2 until end of turn.
 
    Channel — |mana_3|\ |mana_g|, Discard Ghost-Lit Nourisher: Target creature gets +4/+4 until end of turn.
 
 
-:mtgtip:`Haru-Onna<https://img.scryfall.com/cards/border_crop/en/sok/132.jpg?1517813031|https://scryfall.com/card/sok/132/haru-onna?utm_source=api>`
+:mtgtip:`Haru-Onna<https://img.scryfall.com/cards/border_crop/front/c/e/ceaacab4-f13b-4189-ac78-89fc4cdbaa55.jpg?1562496093|https://scryfall.com/card/sok/132/haru-onna?utm_source=api>`
    When Haru-Onna enters the battlefield, draw a card.
 
    Whenever you cast a Spirit or Arcane spell, you may return Haru-Onna to its owner's hand.
 
 
-:mtgtip:`Inner Calm, Outer Strength<https://img.scryfall.com/cards/border_crop/en/sok/133.jpg?1517813031|https://scryfall.com/card/sok/133/inner-calm-outer-strength?utm_source=api>`
+:mtgtip:`Inner Calm, Outer Strength<https://img.scryfall.com/cards/border_crop/front/4/0/40f56817-aabf-469c-a82c-37315decc73c.jpg?1562493481|https://scryfall.com/card/sok/133/inner-calm-outer-strength?utm_source=api>`
    Target creature gets +X/+X until end of turn, where X is the number of cards in your hand.
 
 
-:mtgtip:`Kami of the Tended Garden<https://img.scryfall.com/cards/border_crop/en/sok/134.jpg?1517813031|https://scryfall.com/card/sok/134/kami-of-the-tended-garden?utm_source=api>`
+:mtgtip:`Kami of the Tended Garden<https://img.scryfall.com/cards/border_crop/front/b/d/bdedd830-9200-4e8b-84b4-00dc58cace35.jpg?1562495624|https://scryfall.com/card/sok/134/kami-of-the-tended-garden?utm_source=api>`
    At the beginning of your upkeep, sacrifice Kami of the Tended Garden unless you pay |mana_g|.
 
    Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
 
 
-:mtgtip:`Kashi-Tribe Elite<https://img.scryfall.com/cards/border_crop/en/sok/135.jpg?1517813031|https://scryfall.com/card/sok/135/kashi-tribe-elite?utm_source=api>`
+:mtgtip:`Kashi-Tribe Elite<https://img.scryfall.com/cards/border_crop/front/d/1/d12adf2d-ebf9-464e-9957-c8518d364a40.jpg?1562496094|https://scryfall.com/card/sok/135/kashi-tribe-elite?utm_source=api>`
    Legendary Snakes you control have shroud. (They can't be the targets of spells or abilities.)
 
    Whenever Kashi-Tribe Elite deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`Masumaro, First to Live<https://img.scryfall.com/cards/border_crop/en/sok/136.jpg?1517813031|https://scryfall.com/card/sok/136/masumaro-first-to-live?utm_source=api>`
+:mtgtip:`Masumaro, First to Live<https://img.scryfall.com/cards/border_crop/front/2/c/2c4625b7-c8b1-4fdf-af9f-935313436b35.jpg?1562493012|https://scryfall.com/card/sok/136/masumaro-first-to-live?utm_source=api>`
    Masumaro, First to Live's power and toughness are each equal to twice the number of cards in your hand.
 
 
-:mtgtip:`Matsu-Tribe Birdstalker<https://img.scryfall.com/cards/border_crop/en/sok/137.jpg?1517813031|https://scryfall.com/card/sok/137/matsu-tribe-birdstalker?utm_source=api>`
+:mtgtip:`Matsu-Tribe Birdstalker<https://img.scryfall.com/cards/border_crop/front/f/1/f1afb0c0-e138-4d2b-b3aa-fa40778f8d79.jpg?1562496617|https://scryfall.com/card/sok/137/matsu-tribe-birdstalker?utm_source=api>`
    Whenever Matsu-Tribe Birdstalker deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.
 
    |mana_g|: Matsu-Tribe Birdstalker gains reach until end of turn. (It can block creatures with flying.)
 
 
-:mtgtip:`Molting Skin<https://img.scryfall.com/cards/border_crop/en/sok/138.jpg?1517813031|https://scryfall.com/card/sok/138/molting-skin?utm_source=api>`
+:mtgtip:`Molting Skin<https://img.scryfall.com/cards/border_crop/front/f/0/f0797186-01ae-4de0-b188-7fc3079b2800.jpg?1562496606|https://scryfall.com/card/sok/138/molting-skin?utm_source=api>`
    Return Molting Skin to its owner's hand: Regenerate target creature.
 
 
-:mtgtip:`Nightsoil Kami<https://img.scryfall.com/cards/border_crop/en/sok/139.jpg?1517813031|https://scryfall.com/card/sok/139/nightsoil-kami?utm_source=api>`
+:mtgtip:`Nightsoil Kami<https://img.scryfall.com/cards/border_crop/front/5/9/5902f863-171e-4bb2-9d48-2c679d41f1a9.jpg?1562494137|https://scryfall.com/card/sok/139/nightsoil-kami?utm_source=api>`
    Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)
 
 
-:mtgtip:`Okina Nightwatch<https://img.scryfall.com/cards/border_crop/en/sok/140.jpg?1517813031|https://scryfall.com/card/sok/140/okina-nightwatch?utm_source=api>`
+:mtgtip:`Okina Nightwatch<https://img.scryfall.com/cards/border_crop/front/2/e/2eea50b1-ba6e-4c57-9b49-488b883be638.jpg?1562493032|https://scryfall.com/card/sok/140/okina-nightwatch?utm_source=api>`
    As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3.
 
 
-:mtgtip:`Promised Kannushi<https://img.scryfall.com/cards/border_crop/en/sok/141.jpg?1517813031|https://scryfall.com/card/sok/141/promised-kannushi?utm_source=api>`
+:mtgtip:`Promised Kannushi<https://img.scryfall.com/cards/border_crop/front/7/a/7aac4236-9573-4cff-88d9-711a56da4346.jpg?1562494665|https://scryfall.com/card/sok/141/promised-kannushi?utm_source=api>`
    Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)
 
 
-:mtgtip:`Reki, the History of Kamigawa<https://img.scryfall.com/cards/border_crop/en/sok/142.jpg?1517813031|https://scryfall.com/card/sok/142/reki-the-history-of-kamigawa?utm_source=api>`
+:mtgtip:`Reki, the History of Kamigawa<https://img.scryfall.com/cards/border_crop/front/8/6/86317339-5a39-41eb-8aee-5ea926da8cd4.jpg?1562494728|https://scryfall.com/card/sok/142/reki-the-history-of-kamigawa?utm_source=api>`
    Whenever you cast a legendary spell, draw a card.
 
 
-:mtgtip:`Rending Vines<https://img.scryfall.com/cards/border_crop/en/sok/143.jpg?1517813031|https://scryfall.com/card/sok/143/rending-vines?utm_source=api>`
+:mtgtip:`Rending Vines<https://img.scryfall.com/cards/border_crop/front/3/4/34cf7931-d086-496e-98dc-5daa60e01f5b.jpg?1562493444|https://scryfall.com/card/sok/143/rending-vines?utm_source=api>`
    Destroy target artifact or enchantment if its converted mana cost is less than or equal to the number of cards in your hand.
 
    Draw a card.
 
 
-:mtgtip:`Sakura-Tribe Scout<https://img.scryfall.com/cards/border_crop/en/sok/144.jpg?1517813031|https://scryfall.com/card/sok/144/sakura-tribe-scout?utm_source=api>`
+:mtgtip:`Sakura-Tribe Scout<https://img.scryfall.com/cards/border_crop/front/9/c/9cbdda50-8a27-4094-849d-b6f66def82ce.jpg?1562495126|https://scryfall.com/card/sok/144/sakura-tribe-scout?utm_source=api>`
    |tap|: You may put a land card from your hand onto the battlefield.
 
 
-:mtgtip:`Sasaya, Orochi Ascendant<https://img.scryfall.com/cards/border_crop/en/sok/145a.jpg?1517813031|https://scryfall.com/card/sok/145/sasaya-orochi-ascendant-sasayas-essence?utm_source=api>`
+:mtgtip:`Sasaya, Orochi Ascendant<https://img.scryfall.com/cards/border_crop/front/d/2/d224c50f-8146-4c91-9401-04e5bd306d02.jpg?1562496100|https://scryfall.com/card/sok/145/sasaya-orochi-ascendant-sasayas-essence?utm_source=api>`
    Reveal your hand: If you have seven or more land cards in your hand, flip Sasaya, Orochi Ascendant.
 
 
-:mtgtip:`Sasaya's Essence<https://img.scryfall.com/cards/border_crop/en/sok/145a.jpg?1517813031|https://scryfall.com/card/sok/145/sasaya-orochi-ascendant-sasayas-essence?utm_source=api>`
+:mtgtip:`Sasaya's Essence<https://img.scryfall.com/cards/border_crop/front/d/2/d224c50f-8146-4c91-9401-04e5bd306d02.jpg?1562496100|https://scryfall.com/card/sok/145/sasaya-orochi-ascendant-sasayas-essence?utm_source=api>`
    Whenever a land you control is tapped for mana, add an additional one mana of any type that land produced for each other land you control with the same name as it.
 
 
-:mtgtip:`Seed the Land<https://img.scryfall.com/cards/border_crop/en/sok/146.jpg?1517813031|https://scryfall.com/card/sok/146/seed-the-land?utm_source=api>`
+:mtgtip:`Seed the Land<https://img.scryfall.com/cards/border_crop/front/e/c/ec1b0a4e-e52e-4d4e-9b12-24676d8571b1.jpg?1562496583|https://scryfall.com/card/sok/146/seed-the-land?utm_source=api>`
    Whenever a land enters the battlefield, its controller creates a 1/1 green Snake creature token.
 
 
-:mtgtip:`Seek the Horizon<https://img.scryfall.com/cards/border_crop/en/sok/147.jpg?1517813031|https://scryfall.com/card/sok/147/seek-the-horizon?utm_source=api>`
+:mtgtip:`Seek the Horizon<https://img.scryfall.com/cards/border_crop/front/4/9/49f8a9e7-f505-4fc5-b820-0af1ee1960c7.jpg?1562493664|https://scryfall.com/card/sok/147/seek-the-horizon?utm_source=api>`
    Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.
 
 
-:mtgtip:`Sekki, Seasons' Guide<https://img.scryfall.com/cards/border_crop/en/sok/148.jpg?1517813031|https://scryfall.com/card/sok/148/sekki-seasons-guide?utm_source=api>`
+:mtgtip:`Sekki, Seasons' Guide<https://img.scryfall.com/cards/border_crop/front/9/8/9883e973-54c3-4bec-91d8-22f2829cdfa2.jpg?1562495122|https://scryfall.com/card/sok/148/sekki-seasons-guide?utm_source=api>`
    Sekki, Seasons' Guide enters the battlefield with eight +1/+1 counters on it.
 
    If damage would be dealt to Sekki, prevent that damage, remove that many +1/+1 counters from Sekki, and create that many 1/1 colorless Spirit creature tokens.
@@ -781,49 +781,49 @@
    Sacrifice eight Spirits: Return Sekki from your graveyard to the battlefield.
 
 
-:mtgtip:`Shinen of Life's Roar<https://img.scryfall.com/cards/border_crop/en/sok/149.jpg?1517813031|https://scryfall.com/card/sok/149/shinen-of-lifes-roar?utm_source=api>`
+:mtgtip:`Shinen of Life's Roar<https://img.scryfall.com/cards/border_crop/front/a/7/a77d9516-7275-40df-8989-418933671263.jpg?1562495173|https://scryfall.com/card/sok/149/shinen-of-lifes-roar?utm_source=api>`
    All creatures able to block Shinen of Life's Roar do so.
 
    Channel — |mana_2|\ |mana_g|\ |mana_g|, Discard Shinen of Life's Roar: All creatures able to block target creature this turn do so.
 
 
-:mtgtip:`Stampeding Serow<https://img.scryfall.com/cards/border_crop/en/sok/150.jpg?1517813031|https://scryfall.com/card/sok/150/stampeding-serow?utm_source=api>`
+:mtgtip:`Stampeding Serow<https://img.scryfall.com/cards/border_crop/front/4/7/47c63065-6051-4193-8457-713a8a800393.jpg?1562493496|https://scryfall.com/card/sok/150/stampeding-serow?utm_source=api>`
    Trample
 
    At the beginning of your upkeep, return a green creature you control to its owner's hand.
 
 
-:mtgtip:`Iname as One<https://img.scryfall.com/cards/border_crop/en/sok/151.jpg?1517813031|https://scryfall.com/card/sok/151/iname-as-one?utm_source=api>`
+:mtgtip:`Iname as One<https://img.scryfall.com/cards/border_crop/front/4/e/4e13f122-0dfe-42f3-9815-9ae1a29fca99.jpg?1562493699|https://scryfall.com/card/sok/151/iname-as-one?utm_source=api>`
    When Iname as One enters the battlefield, if you cast it from your hand, you may search your library for a Spirit permanent card, put it onto the battlefield, then shuffle your library.
 
    When Iname as One dies, you may exile it. If you do, return target Spirit permanent card from your graveyard to the battlefield.
 
 
-:mtgtip:`Ashes of the Fallen<https://img.scryfall.com/cards/border_crop/en/sok/152.jpg?1517813031|https://scryfall.com/card/sok/152/ashes-of-the-fallen?utm_source=api>`
+:mtgtip:`Ashes of the Fallen<https://img.scryfall.com/cards/border_crop/front/d/5/d59df09f-d8b9-4398-a705-329b768d5004.jpg?1562496109|https://scryfall.com/card/sok/152/ashes-of-the-fallen?utm_source=api>`
    As Ashes of the Fallen enters the battlefield, choose a creature type.
 
    Each creature card in your graveyard has the chosen creature type in addition to its other types.
 
 
-:mtgtip:`Blood Clock<https://img.scryfall.com/cards/border_crop/en/sok/153.jpg?1517813031|https://scryfall.com/card/sok/153/blood-clock?utm_source=api>`
+:mtgtip:`Blood Clock<https://img.scryfall.com/cards/border_crop/front/2/8/28328b4d-99d1-4460-9bbe-a64c6c0b6cb2.jpg?1562492993|https://scryfall.com/card/sok/153/blood-clock?utm_source=api>`
    At the beginning of each player's upkeep, that player returns a permanent they control to its owner's hand unless they pay 2 life.
 
 
-:mtgtip:`Ebony Owl Netsuke<https://img.scryfall.com/cards/border_crop/en/sok/154.jpg?1517813031|https://scryfall.com/card/sok/154/ebony-owl-netsuke?utm_source=api>`
+:mtgtip:`Ebony Owl Netsuke<https://img.scryfall.com/cards/border_crop/front/3/9/39e0c24f-2312-4b40-9cd1-2b83d501e485.jpg?1562493466|https://scryfall.com/card/sok/154/ebony-owl-netsuke?utm_source=api>`
    At the beginning of each opponent's upkeep, if that player has seven or more cards in hand, Ebony Owl Netsuke deals 4 damage to that player.
 
 
-:mtgtip:`Ivory Crane Netsuke<https://img.scryfall.com/cards/border_crop/en/sok/155.jpg?1517813031|https://scryfall.com/card/sok/155/ivory-crane-netsuke?utm_source=api>`
+:mtgtip:`Ivory Crane Netsuke<https://img.scryfall.com/cards/border_crop/front/d/f/dfd84d1a-1e74-4779-996f-f8518f0b5f8c.jpg?1562496147|https://scryfall.com/card/sok/155/ivory-crane-netsuke?utm_source=api>`
    At the beginning of your upkeep, if you have seven or more cards in hand, you gain 4 life.
 
 
-:mtgtip:`Manriki-Gusari<https://img.scryfall.com/cards/border_crop/en/sok/156.jpg?1517813031|https://scryfall.com/card/sok/156/manriki-gusari?utm_source=api>`
+:mtgtip:`Manriki-Gusari<https://img.scryfall.com/cards/border_crop/front/9/b/9bc6542b-7672-4ea1-816c-33bc0c300f3c.jpg?1562495124|https://scryfall.com/card/sok/156/manriki-gusari?utm_source=api>`
    Equipped creature gets +1/+2 and has "|tap|: Destroy target Equipment."
 
    Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`O-Naginata<https://img.scryfall.com/cards/border_crop/en/sok/157.jpg?1517813031|https://scryfall.com/card/sok/157/o-naginata?utm_source=api>`
+:mtgtip:`O-Naginata<https://img.scryfall.com/cards/border_crop/front/2/4/24a353d5-d3b1-4ec1-8f2e-792f1bc79c96.jpg?1562492977|https://scryfall.com/card/sok/157/o-naginata?utm_source=api>`
    O-Naginata can be attached only to a creature with power 3 or greater.
 
    Equipped creature gets +3/+0 and has trample.
@@ -831,46 +831,46 @@
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Pithing Needle<https://img.scryfall.com/cards/border_crop/en/sok/158.jpg?1517813031|https://scryfall.com/card/sok/158/pithing-needle?utm_source=api>`
+:mtgtip:`Pithing Needle<https://img.scryfall.com/cards/border_crop/front/7/8/78eb9e1d-113e-45ff-8435-32ee42fa5631.jpg?1562494643|https://scryfall.com/card/sok/158/pithing-needle?utm_source=api>`
    As Pithing Needle enters the battlefield, choose a card name.
 
    Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
 
 
-:mtgtip:`Scroll of Origins<https://img.scryfall.com/cards/border_crop/en/sok/159.jpg?1517813031|https://scryfall.com/card/sok/159/scroll-of-origins?utm_source=api>`
+:mtgtip:`Scroll of Origins<https://img.scryfall.com/cards/border_crop/front/3/6/36b39d20-47b5-468b-aaf8-f6b7c7048b33.jpg?1562493453|https://scryfall.com/card/sok/159/scroll-of-origins?utm_source=api>`
    |mana_2|, |tap|: Draw a card if you have seven or more cards in hand.
 
 
-:mtgtip:`Soratami Cloud Chariot<https://img.scryfall.com/cards/border_crop/en/sok/160.jpg?1517813031|https://scryfall.com/card/sok/160/soratami-cloud-chariot?utm_source=api>`
+:mtgtip:`Soratami Cloud Chariot<https://img.scryfall.com/cards/border_crop/front/2/5/25e6129a-fa5c-4e27-a4d4-cbde7392164b.jpg?1562492985|https://scryfall.com/card/sok/160/soratami-cloud-chariot?utm_source=api>`
    |mana_2|: Target creature you control gains flying until end of turn.
 
    |mana_2|: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.
 
 
-:mtgtip:`Wine of Blood and Iron<https://img.scryfall.com/cards/border_crop/en/sok/161.jpg?1517813031|https://scryfall.com/card/sok/161/wine-of-blood-and-iron?utm_source=api>`
+:mtgtip:`Wine of Blood and Iron<https://img.scryfall.com/cards/border_crop/front/5/f/5f6f80dc-72a4-409b-bc92-69fa3885cd6d.jpg?1562494165|https://scryfall.com/card/sok/161/wine-of-blood-and-iron?utm_source=api>`
    |mana_4|: Target creature gets +X/+0 until end of turn, where X is its power. Sacrifice Wine of Blood and Iron at the beginning of the next end step.
 
 
-:mtgtip:`Mikokoro, Center of the Sea<https://img.scryfall.com/cards/border_crop/en/sok/162.jpg?1517813031|https://scryfall.com/card/sok/162/mikokoro-center-of-the-sea?utm_source=api>`
+:mtgtip:`Mikokoro, Center of the Sea<https://img.scryfall.com/cards/border_crop/front/7/e/7ef72797-328e-4303-8ffb-9686086648b8.jpg?1562494672|https://scryfall.com/card/sok/162/mikokoro-center-of-the-sea?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|: Each player draws a card.
 
 
-:mtgtip:`Miren, the Moaning Well<https://img.scryfall.com/cards/border_crop/en/sok/163.jpg?1517813031|https://scryfall.com/card/sok/163/miren-the-moaning-well?utm_source=api>`
+:mtgtip:`Miren, the Moaning Well<https://img.scryfall.com/cards/border_crop/front/5/3/53d414f0-15ae-446b-a8d7-56c1b502740c.jpg?1562493732|https://scryfall.com/card/sok/163/miren-the-moaning-well?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_3|, |tap|, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
 
 
-:mtgtip:`Oboro, Palace in the Clouds<https://img.scryfall.com/cards/border_crop/en/sok/164.jpg?1517813031|https://scryfall.com/card/sok/164/oboro-palace-in-the-clouds?utm_source=api>`
+:mtgtip:`Oboro, Palace in the Clouds<https://img.scryfall.com/cards/border_crop/front/f/f/ffc2d68e-6543-43ec-b67a-afff1325a32f.jpg?1562497052|https://scryfall.com/card/sok/164/oboro-palace-in-the-clouds?utm_source=api>`
    |tap|: Add |mana_u|.
 
    |mana_1|: Return Oboro, Palace in the Clouds to its owner's hand.
 
 
-:mtgtip:`Tomb of Urami<https://img.scryfall.com/cards/border_crop/en/sok/165.jpg?1517813031|https://scryfall.com/card/sok/165/tomb-of-urami?utm_source=api>`
+:mtgtip:`Tomb of Urami<https://img.scryfall.com/cards/border_crop/front/9/0/90fedf90-825c-4814-8f0d-170f537db44c.jpg?1577853103|https://scryfall.com/card/sok/165/tomb-of-urami?utm_source=api>`
    |tap|: Add |mana_b|. Tomb of Urami deals 1 damage to you if you don't control an Ogre.
 
-   |mana_2|\ |mana_b|\ |mana_b|, |tap|, Sacrifice all lands you control: Create a legendary 5/5 black Demon Spirit creature token with flying named Urami.
+   |mana_2|\ |mana_b|\ |mana_b|, |tap|, Sacrifice all lands you control: Create Urami, a legendary 5/5 black Demon Spirit creature token with flying.
 

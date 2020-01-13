@@ -1141,61 +1141,61 @@
    |tap|: Add |colorless|\ |colorless|.
 
 
-:mtgtip:`Dusk<https://img.scryfall.com/cards/border_crop/front/9/3/937dbc51-b589-4237-9fce-ea5c757f7c48.jpg?1543676132|https://scryfall.com/card/akh/210/dusk-dawn?utm_source=api>`
+:mtgtip:`Dusk<https://img.scryfall.com/cards/border_crop/front/9/3/937dbc51-b589-4237-9fce-ea5c757f7c48.jpg?1549941330|https://scryfall.com/card/akh/210/dusk-dawn?utm_source=api>`
    Destroy all creatures with power 3 or greater.
 
 
-:mtgtip:`Dawn<https://img.scryfall.com/cards/border_crop/front/9/3/937dbc51-b589-4237-9fce-ea5c757f7c48.jpg?1543676132|https://scryfall.com/card/akh/210/dusk-dawn?utm_source=api>`
+:mtgtip:`Dawn<https://img.scryfall.com/cards/border_crop/front/9/3/937dbc51-b589-4237-9fce-ea5c757f7c48.jpg?1549941330|https://scryfall.com/card/akh/210/dusk-dawn?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Return all creature cards with power 2 or less from your graveyard to your hand.
 
 
-:mtgtip:`Commit<https://img.scryfall.com/cards/border_crop/front/0/6/06c9e2e8-2b4c-4087-9141-6aa25a506626.jpg?1543676139|https://scryfall.com/card/akh/211/commit-memory?utm_source=api>`
+:mtgtip:`Commit<https://img.scryfall.com/cards/border_crop/front/0/6/06c9e2e8-2b4c-4087-9141-6aa25a506626.jpg?1549941334|https://scryfall.com/card/akh/211/commit-memory?utm_source=api>`
    Put target spell or nonland permanent into its owner's library second from the top.
 
 
-:mtgtip:`Memory<https://img.scryfall.com/cards/border_crop/front/0/6/06c9e2e8-2b4c-4087-9141-6aa25a506626.jpg?1543676139|https://scryfall.com/card/akh/211/commit-memory?utm_source=api>`
+:mtgtip:`Memory<https://img.scryfall.com/cards/border_crop/front/0/6/06c9e2e8-2b4c-4087-9141-6aa25a506626.jpg?1549941334|https://scryfall.com/card/akh/211/commit-memory?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Each player shuffles their hand and graveyard into their library, then draws seven cards.
 
 
-:mtgtip:`Never<https://img.scryfall.com/cards/border_crop/front/a/4/a4b32135-7061-4278-a01a-4fcbaadc9706.jpg?1543676146|https://scryfall.com/card/akh/212/never-return?utm_source=api>`
+:mtgtip:`Never<https://img.scryfall.com/cards/border_crop/front/a/4/a4b32135-7061-4278-a01a-4fcbaadc9706.jpg?1549941342|https://scryfall.com/card/akh/212/never-return?utm_source=api>`
    Destroy target creature or planeswalker.
 
 
-:mtgtip:`Return<https://img.scryfall.com/cards/border_crop/front/a/4/a4b32135-7061-4278-a01a-4fcbaadc9706.jpg?1543676146|https://scryfall.com/card/akh/212/never-return?utm_source=api>`
+:mtgtip:`Return<https://img.scryfall.com/cards/border_crop/front/a/4/a4b32135-7061-4278-a01a-4fcbaadc9706.jpg?1549941342|https://scryfall.com/card/akh/212/never-return?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Exile target card from a graveyard. Create a 2/2 black Zombie creature token.
 
 
-:mtgtip:`Insult<https://img.scryfall.com/cards/border_crop/front/e/e/eeac671f-2606-43ed-ad60-a69df5c150f6.jpg?1543676155|https://scryfall.com/card/akh/213/insult-injury?utm_source=api>`
+:mtgtip:`Insult<https://img.scryfall.com/cards/border_crop/front/e/e/eeac671f-2606-43ed-ad60-a69df5c150f6.jpg?1549941631|https://scryfall.com/card/akh/213/insult-injury?utm_source=api>`
    Damage can't be prevented this turn. If a source you control would deal damage this turn, it deals double that damage instead.
 
 
-:mtgtip:`Injury<https://img.scryfall.com/cards/border_crop/front/e/e/eeac671f-2606-43ed-ad60-a69df5c150f6.jpg?1543676155|https://scryfall.com/card/akh/213/insult-injury?utm_source=api>`
+:mtgtip:`Injury<https://img.scryfall.com/cards/border_crop/front/e/e/eeac671f-2606-43ed-ad60-a69df5c150f6.jpg?1549941631|https://scryfall.com/card/akh/213/insult-injury?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Injury deals 2 damage to target creature and 2 damage to target player or planeswalker.
 
 
-:mtgtip:`Mouth<https://img.scryfall.com/cards/border_crop/front/a/4/a47070a0-fd05-4ed9-a175-847a864478da.jpg?1543676163|https://scryfall.com/card/akh/214/mouth-feed?utm_source=api>`
+:mtgtip:`Mouth<https://img.scryfall.com/cards/border_crop/front/a/4/a47070a0-fd05-4ed9-a175-847a864478da.jpg?1549941630|https://scryfall.com/card/akh/214/mouth-feed?utm_source=api>`
    Create a 3/3 green Hippo creature token.
 
 
-:mtgtip:`Feed<https://img.scryfall.com/cards/border_crop/front/a/4/a47070a0-fd05-4ed9-a175-847a864478da.jpg?1543676163|https://scryfall.com/card/akh/214/mouth-feed?utm_source=api>`
+:mtgtip:`Feed<https://img.scryfall.com/cards/border_crop/front/a/4/a47070a0-fd05-4ed9-a175-847a864478da.jpg?1549941630|https://scryfall.com/card/akh/214/mouth-feed?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Draw a card for each creature you control with power 3 or greater.
 
 
-:mtgtip:`Start<https://img.scryfall.com/cards/border_crop/front/9/c/9c6f5433-57cc-4cb3-8621-2575fcbff392.jpg?1543676169|https://scryfall.com/card/akh/215/start-finish?utm_source=api>`
+:mtgtip:`Start<https://img.scryfall.com/cards/border_crop/front/9/c/9c6f5433-57cc-4cb3-8621-2575fcbff392.jpg?1549941629|https://scryfall.com/card/akh/215/start-finish?utm_source=api>`
    Create two 1/1 white Warrior creature tokens with vigilance.
 
 
-:mtgtip:`Finish<https://img.scryfall.com/cards/border_crop/front/9/c/9c6f5433-57cc-4cb3-8621-2575fcbff392.jpg?1543676169|https://scryfall.com/card/akh/215/start-finish?utm_source=api>`
+:mtgtip:`Finish<https://img.scryfall.com/cards/border_crop/front/9/c/9c6f5433-57cc-4cb3-8621-2575fcbff392.jpg?1549941629|https://scryfall.com/card/akh/215/start-finish?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    As an additional cost to cast Finish, sacrifice a creature.
@@ -1203,91 +1203,91 @@
    Destroy target creature.
 
 
-:mtgtip:`Reduce<https://img.scryfall.com/cards/border_crop/front/d/2/d2f3035c-ca27-40f3-ad73-c4e54bb2bcd7.jpg?1543676177|https://scryfall.com/card/akh/216/reduce-rubble?utm_source=api>`
+:mtgtip:`Reduce<https://img.scryfall.com/cards/border_crop/front/d/2/d2f3035c-ca27-40f3-ad73-c4e54bb2bcd7.jpg?1549941722|https://scryfall.com/card/akh/216/reduce-rubble?utm_source=api>`
    Counter target spell unless its controller pays |mana_3|.
 
 
-:mtgtip:`Rubble<https://img.scryfall.com/cards/border_crop/front/d/2/d2f3035c-ca27-40f3-ad73-c4e54bb2bcd7.jpg?1543676177|https://scryfall.com/card/akh/216/reduce-rubble?utm_source=api>`
+:mtgtip:`Rubble<https://img.scryfall.com/cards/border_crop/front/d/2/d2f3035c-ca27-40f3-ad73-c4e54bb2bcd7.jpg?1549941722|https://scryfall.com/card/akh/216/reduce-rubble?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Up to three target lands don't untap during their controller's next untap step.
 
 
-:mtgtip:`Destined<https://img.scryfall.com/cards/border_crop/front/5/c/5cf5c549-1e2a-4c47-baf7-e608661b3088.jpg?1543676185|https://scryfall.com/card/akh/217/destined-lead?utm_source=api>`
+:mtgtip:`Destined<https://img.scryfall.com/cards/border_crop/front/5/c/5cf5c549-1e2a-4c47-baf7-e608661b3088.jpg?1549941724|https://scryfall.com/card/akh/217/destined-lead?utm_source=api>`
    Target creature gets +1/+0 and gains indestructible until end of turn.
 
 
-:mtgtip:`Lead<https://img.scryfall.com/cards/border_crop/front/5/c/5cf5c549-1e2a-4c47-baf7-e608661b3088.jpg?1543676185|https://scryfall.com/card/akh/217/destined-lead?utm_source=api>`
+:mtgtip:`Lead<https://img.scryfall.com/cards/border_crop/front/5/c/5cf5c549-1e2a-4c47-baf7-e608661b3088.jpg?1549941724|https://scryfall.com/card/akh/217/destined-lead?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    All creatures able to block target creature this turn do so.
 
 
-:mtgtip:`Onward<https://img.scryfall.com/cards/border_crop/front/5/1/517b32e4-4b34-431f-8f3b-98a6cffc245a.jpg?1543676194|https://scryfall.com/card/akh/218/onward-victory?utm_source=api>`
+:mtgtip:`Onward<https://img.scryfall.com/cards/border_crop/front/5/1/517b32e4-4b34-431f-8f3b-98a6cffc245a.jpg?1549941725|https://scryfall.com/card/akh/218/onward-victory?utm_source=api>`
    Target creature gets +X/+0 until end of turn, where X is its power.
 
 
-:mtgtip:`Victory<https://img.scryfall.com/cards/border_crop/front/5/1/517b32e4-4b34-431f-8f3b-98a6cffc245a.jpg?1543676194|https://scryfall.com/card/akh/218/onward-victory?utm_source=api>`
+:mtgtip:`Victory<https://img.scryfall.com/cards/border_crop/front/5/1/517b32e4-4b34-431f-8f3b-98a6cffc245a.jpg?1549941725|https://scryfall.com/card/akh/218/onward-victory?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Target creature gains double strike until end of turn.
 
 
-:mtgtip:`Spring<https://img.scryfall.com/cards/border_crop/front/6/4/6431d464-1f2b-42c4-ad38-67b7d0984080.jpg?1543676203|https://scryfall.com/card/akh/219/spring-mind?utm_source=api>`
+:mtgtip:`Spring<https://img.scryfall.com/cards/border_crop/front/6/4/6431d464-1f2b-42c4-ad38-67b7d0984080.jpg?1549941868|https://scryfall.com/card/akh/219/spring-mind?utm_source=api>`
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 
-:mtgtip:`Mind<https://img.scryfall.com/cards/border_crop/front/6/4/6431d464-1f2b-42c4-ad38-67b7d0984080.jpg?1543676203|https://scryfall.com/card/akh/219/spring-mind?utm_source=api>`
+:mtgtip:`Mind<https://img.scryfall.com/cards/border_crop/front/6/4/6431d464-1f2b-42c4-ad38-67b7d0984080.jpg?1549941868|https://scryfall.com/card/akh/219/spring-mind?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Draw two cards.
 
 
-:mtgtip:`Prepare<https://img.scryfall.com/cards/border_crop/front/f/5/f59ea6f6-2dff-4e58-9166-57cac03f1d0a.jpg?1543676212|https://scryfall.com/card/akh/220/prepare-fight?utm_source=api>`
+:mtgtip:`Prepare<https://img.scryfall.com/cards/border_crop/front/f/5/f59ea6f6-2dff-4e58-9166-57cac03f1d0a.jpg?1549941875|https://scryfall.com/card/akh/220/prepare-fight?utm_source=api>`
    Untap target creature. It gets +2/+2 and gains lifelink until end of turn.
 
 
-:mtgtip:`Fight<https://img.scryfall.com/cards/border_crop/front/f/5/f59ea6f6-2dff-4e58-9166-57cac03f1d0a.jpg?1543676212|https://scryfall.com/card/akh/220/prepare-fight?utm_source=api>`
+:mtgtip:`Fight<https://img.scryfall.com/cards/border_crop/front/f/5/f59ea6f6-2dff-4e58-9166-57cac03f1d0a.jpg?1549941875|https://scryfall.com/card/akh/220/prepare-fight?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Target creature you control fights target creature an opponent controls.
 
 
-:mtgtip:`Failure<https://img.scryfall.com/cards/border_crop/front/b/9/b9623c8c-01b4-4e8f-a5b9-eeea408ec027.jpg?1543676218|https://scryfall.com/card/akh/221/failure-comply?utm_source=api>`
+:mtgtip:`Failure<https://img.scryfall.com/cards/border_crop/front/b/9/b9623c8c-01b4-4e8f-a5b9-eeea408ec027.jpg?1549941877|https://scryfall.com/card/akh/221/failure-comply?utm_source=api>`
    Return target spell to its owner's hand.
 
 
-:mtgtip:`Comply<https://img.scryfall.com/cards/border_crop/front/b/9/b9623c8c-01b4-4e8f-a5b9-eeea408ec027.jpg?1543676218|https://scryfall.com/card/akh/221/failure-comply?utm_source=api>`
+:mtgtip:`Comply<https://img.scryfall.com/cards/border_crop/front/b/9/b9623c8c-01b4-4e8f-a5b9-eeea408ec027.jpg?1549941877|https://scryfall.com/card/akh/221/failure-comply?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Choose a card name. Until your next turn, your opponents can't cast spells with the chosen name.
 
 
-:mtgtip:`Rags<https://img.scryfall.com/cards/border_crop/front/1/1/11d84618-aca9-47dc-ae73-36a2c29f584c.jpg?1543676225|https://scryfall.com/card/akh/222/rags-riches?utm_source=api>`
+:mtgtip:`Rags<https://img.scryfall.com/cards/border_crop/front/1/1/11d84618-aca9-47dc-ae73-36a2c29f584c.jpg?1549941948|https://scryfall.com/card/akh/222/rags-riches?utm_source=api>`
    All creatures get -2/-2 until end of turn.
 
 
-:mtgtip:`Riches<https://img.scryfall.com/cards/border_crop/front/1/1/11d84618-aca9-47dc-ae73-36a2c29f584c.jpg?1543676225|https://scryfall.com/card/akh/222/rags-riches?utm_source=api>`
+:mtgtip:`Riches<https://img.scryfall.com/cards/border_crop/front/1/1/11d84618-aca9-47dc-ae73-36a2c29f584c.jpg?1549941948|https://scryfall.com/card/akh/222/rags-riches?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Each opponent chooses a creature they control. You gain control of those creatures.
 
 
-:mtgtip:`Cut<https://img.scryfall.com/cards/border_crop/front/c/6/c6f61e2b-e93b-4dda-95cf-9d0ff198c0a6.jpg?1543676231|https://scryfall.com/card/akh/223/cut-ribbons?utm_source=api>`
+:mtgtip:`Cut<https://img.scryfall.com/cards/border_crop/front/c/6/c6f61e2b-e93b-4dda-95cf-9d0ff198c0a6.jpg?1549941949|https://scryfall.com/card/akh/223/cut-ribbons?utm_source=api>`
    Cut deals 4 damage to target creature.
 
 
-:mtgtip:`Ribbons<https://img.scryfall.com/cards/border_crop/front/c/6/c6f61e2b-e93b-4dda-95cf-9d0ff198c0a6.jpg?1543676231|https://scryfall.com/card/akh/223/cut-ribbons?utm_source=api>`
+:mtgtip:`Ribbons<https://img.scryfall.com/cards/border_crop/front/c/6/c6f61e2b-e93b-4dda-95cf-9d0ff198c0a6.jpg?1549941949|https://scryfall.com/card/akh/223/cut-ribbons?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Each opponent loses X life.
 
 
-:mtgtip:`Heaven<https://img.scryfall.com/cards/border_crop/front/f/e/fe1a4032-efbb-4f72-9181-994b2b35f598.jpg?1543676238|https://scryfall.com/card/akh/224/heaven-earth?utm_source=api>`
+:mtgtip:`Heaven<https://img.scryfall.com/cards/border_crop/front/f/e/fe1a4032-efbb-4f72-9181-994b2b35f598.jpg?1549941957|https://scryfall.com/card/akh/224/heaven-earth?utm_source=api>`
    Heaven deals X damage to each creature with flying.
 
 
-:mtgtip:`Earth<https://img.scryfall.com/cards/border_crop/front/f/e/fe1a4032-efbb-4f72-9181-994b2b35f598.jpg?1543676238|https://scryfall.com/card/akh/224/heaven-earth?utm_source=api>`
+:mtgtip:`Earth<https://img.scryfall.com/cards/border_crop/front/f/e/fe1a4032-efbb-4f72-9181-994b2b35f598.jpg?1549941957|https://scryfall.com/card/akh/224/heaven-earth?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Earth deals X damage to each creature without flying.
@@ -1469,7 +1469,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Gideon, Martial Paragon<https://img.scryfall.com/cards/border_crop/en/akh/270.jpg?1517813031|https://scryfall.com/card/akh/270/gideon-martial-paragon?utm_source=api>`
+:mtgtip:`Gideon, Martial Paragon<https://img.scryfall.com/cards/border_crop/front/2/c/2c057ca8-9811-4dc3-9b0e-f9f69f752d1d.jpg?1561778768|https://scryfall.com/card/akh/270/gideon-martial-paragon?utm_source=api>`
    +2: Untap all creatures you control. Those creatures get +1/+1 until end of turn.
 
    0: Until end of turn, Gideon, Martial Paragon becomes a 5/5 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
@@ -1477,29 +1477,29 @@
    −10: Creatures you control get +2/+2 until end of turn. Tap all creatures your opponents control.
 
 
-:mtgtip:`Companion of the Trials<https://img.scryfall.com/cards/border_crop/en/akh/271.jpg?1517813031|https://scryfall.com/card/akh/271/companion-of-the-trials?utm_source=api>`
+:mtgtip:`Companion of the Trials<https://img.scryfall.com/cards/border_crop/front/6/3/637ac220-058f-4212-ba8b-a389bb0528bd.jpg?1561787476|https://scryfall.com/card/akh/271/companion-of-the-trials?utm_source=api>`
    Flying
 
    |mana_1|\ |mana_w|: Untap target creature. Activate this ability only if you control a Gideon planeswalker.
 
 
-:mtgtip:`Gideon's Resolve<https://img.scryfall.com/cards/border_crop/en/akh/272.jpg?1517813031|https://scryfall.com/card/akh/272/gideons-resolve?utm_source=api>`
+:mtgtip:`Gideon's Resolve<https://img.scryfall.com/cards/border_crop/front/a/3/a30b8c40-39ac-423f-b7da-845a16cd1b63.jpg?1561797764|https://scryfall.com/card/akh/272/gideons-resolve?utm_source=api>`
    When Gideon's Resolve enters the battlefield, you may search your library and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and put it into your hand. If you search your library this way, shuffle it.
 
    Creatures you control get +1/+1.
 
 
-:mtgtip:`Graceful Cat<https://img.scryfall.com/cards/border_crop/en/akh/273.jpg?1517813031|https://scryfall.com/card/akh/273/graceful-cat?utm_source=api>`
+:mtgtip:`Graceful Cat<https://img.scryfall.com/cards/border_crop/front/b/4/b42ba8bf-9fc1-4d57-9c80-42491d18d929.jpg?1561800331|https://scryfall.com/card/akh/273/graceful-cat?utm_source=api>`
    Whenever Graceful Cat attacks, it gets +1/+1 until end of turn.
 
 
-:mtgtip:`Stone Quarry<https://img.scryfall.com/cards/border_crop/en/akh/274.jpg?1517813031|https://scryfall.com/card/akh/274/stone-quarry?utm_source=api>`
+:mtgtip:`Stone Quarry<https://img.scryfall.com/cards/border_crop/front/2/2/2280a5db-72be-4c13-8e15-8d40b7d9f9e7.jpg?1561777143|https://scryfall.com/card/akh/274/stone-quarry?utm_source=api>`
    Stone Quarry enters the battlefield tapped.
 
    |tap|: Add |mana_r| or |mana_w|.
 
 
-:mtgtip:`Liliana, Death Wielder<https://img.scryfall.com/cards/border_crop/en/akh/275.jpg?1517813031|https://scryfall.com/card/akh/275/liliana-death-wielder?utm_source=api>`
+:mtgtip:`Liliana, Death Wielder<https://img.scryfall.com/cards/border_crop/front/a/c/ac79d8f6-7c36-4eb9-8bda-3b813c634399.jpg?1561799334|https://scryfall.com/card/akh/275/liliana-death-wielder?utm_source=api>`
    +2: Put a -1/-1 counter on up to one target creature.
 
    −3: Destroy target creature with a -1/-1 counter on it.
@@ -1507,67 +1507,67 @@
    −10: Return all creature cards from your graveyard to the battlefield.
 
 
-:mtgtip:`Desiccated Naga<https://img.scryfall.com/cards/border_crop/en/akh/276.jpg?1517813031|https://scryfall.com/card/akh/276/desiccated-naga?utm_source=api>`
+:mtgtip:`Desiccated Naga<https://img.scryfall.com/cards/border_crop/front/2/1/21f31e96-bb66-4b28-b14a-426d1d5839a6.jpg?1561777114|https://scryfall.com/card/akh/276/desiccated-naga?utm_source=api>`
    |mana_3|\ |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate this ability only if you control a Liliana planeswalker.
 
 
-:mtgtip:`Liliana's Influence<https://img.scryfall.com/cards/border_crop/en/akh/277.jpg?1517813031|https://scryfall.com/card/akh/277/lilianas-influence?utm_source=api>`
+:mtgtip:`Liliana's Influence<https://img.scryfall.com/cards/border_crop/front/2/8/28cdf48e-e0d4-45ca-b48d-74ada54ba62e.jpg?1561778286|https://scryfall.com/card/akh/277/lilianas-influence?utm_source=api>`
    Put a -1/-1 counter on each creature you don't control. You may search your library and/or graveyard for a card named Liliana, Death Wielder, reveal it, and put it into your hand. If you search your library this way, shuffle it.
 
 
-:mtgtip:`Tattered Mummy<https://img.scryfall.com/cards/border_crop/en/akh/278.jpg?1517813031|https://scryfall.com/card/akh/278/tattered-mummy?utm_source=api>`
+:mtgtip:`Tattered Mummy<https://img.scryfall.com/cards/border_crop/front/7/f/7f9a5267-eb90-43bc-bf92-fcfb06821bae.jpg?1561792134|https://scryfall.com/card/akh/278/tattered-mummy?utm_source=api>`
    When Tattered Mummy dies, each opponent loses 2 life.
 
 
-:mtgtip:`Foul Orchard<https://img.scryfall.com/cards/border_crop/en/akh/279.jpg?1517813031|https://scryfall.com/card/akh/279/foul-orchard?utm_source=api>`
+:mtgtip:`Foul Orchard<https://img.scryfall.com/cards/border_crop/front/8/1/81435771-2f13-4e53-9a5f-4a4e4ad735ac.jpg?1561792263|https://scryfall.com/card/akh/279/foul-orchard?utm_source=api>`
    Foul Orchard enters the battlefield tapped.
 
    |tap|: Add |mana_b| or |mana_g|.
 
 
-:mtgtip:`Cinder Barrens<https://img.scryfall.com/cards/border_crop/en/akh/280.jpg?1517813031|https://scryfall.com/card/akh/280/cinder-barrens?utm_source=api>`
+:mtgtip:`Cinder Barrens<https://img.scryfall.com/cards/border_crop/front/e/1/e12fa835-c13d-4d73-9d26-97bc2268e971.jpg?1561808086|https://scryfall.com/card/akh/280/cinder-barrens?utm_source=api>`
    Cinder Barrens enters the battlefield tapped.
 
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Forsaken Sanctuary<https://img.scryfall.com/cards/border_crop/en/akh/281.jpg?1517813031|https://scryfall.com/card/akh/281/forsaken-sanctuary?utm_source=api>`
+:mtgtip:`Forsaken Sanctuary<https://img.scryfall.com/cards/border_crop/front/7/b/7b7795db-c96a-4f94-bcc8-6977e38d0fe2.jpg?1561791458|https://scryfall.com/card/akh/281/forsaken-sanctuary?utm_source=api>`
    Forsaken Sanctuary enters the battlefield tapped.
 
    |tap|: Add |mana_w| or |mana_b|.
 
 
-:mtgtip:`Highland Lake<https://img.scryfall.com/cards/border_crop/en/akh/282.jpg?1517813031|https://scryfall.com/card/akh/282/highland-lake?utm_source=api>`
+:mtgtip:`Highland Lake<https://img.scryfall.com/cards/border_crop/front/7/b/7b64bd5c-d014-4a5e-bb71-7cee8756ae8c.jpg?1561791451|https://scryfall.com/card/akh/282/highland-lake?utm_source=api>`
    Highland Lake enters the battlefield tapped.
 
    |tap|: Add |mana_u| or |mana_r|.
 
 
-:mtgtip:`Meandering River<https://img.scryfall.com/cards/border_crop/en/akh/283.jpg?1517813031|https://scryfall.com/card/akh/283/meandering-river?utm_source=api>`
+:mtgtip:`Meandering River<https://img.scryfall.com/cards/border_crop/front/7/4/745525ff-4afe-4a81-8c9d-5e6b9cca1eba.jpg?1561790116|https://scryfall.com/card/akh/283/meandering-river?utm_source=api>`
    Meandering River enters the battlefield tapped.
 
    |tap|: Add |mana_w| or |mana_u|.
 
 
-:mtgtip:`Submerged Boneyard<https://img.scryfall.com/cards/border_crop/en/akh/284.jpg?1517813031|https://scryfall.com/card/akh/284/submerged-boneyard?utm_source=api>`
+:mtgtip:`Submerged Boneyard<https://img.scryfall.com/cards/border_crop/front/a/d/ad4e966e-cb51-461a-9089-25054dec57fb.jpg?1561799383|https://scryfall.com/card/akh/284/submerged-boneyard?utm_source=api>`
    Submerged Boneyard enters the battlefield tapped.
 
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Timber Gorge<https://img.scryfall.com/cards/border_crop/en/akh/285.jpg?1517813031|https://scryfall.com/card/akh/285/timber-gorge?utm_source=api>`
+:mtgtip:`Timber Gorge<https://img.scryfall.com/cards/border_crop/front/c/8/c81ae262-fe8d-4c78-8604-711fb8d366d8.jpg?1561803989|https://scryfall.com/card/akh/285/timber-gorge?utm_source=api>`
    Timber Gorge enters the battlefield tapped.
 
    |tap|: Add |mana_r| or |mana_g|.
 
 
-:mtgtip:`Tranquil Expanse<https://img.scryfall.com/cards/border_crop/en/akh/286.jpg?1517813031|https://scryfall.com/card/akh/286/tranquil-expanse?utm_source=api>`
+:mtgtip:`Tranquil Expanse<https://img.scryfall.com/cards/border_crop/front/f/6/f6054534-a926-460e-8d3c-db8b576b1352.jpg?1561811634|https://scryfall.com/card/akh/286/tranquil-expanse?utm_source=api>`
    Tranquil Expanse enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Woodland Stream<https://img.scryfall.com/cards/border_crop/en/akh/287.jpg?1517813031|https://scryfall.com/card/akh/287/woodland-stream?utm_source=api>`
+:mtgtip:`Woodland Stream<https://img.scryfall.com/cards/border_crop/front/f/8/f8ff0f82-1326-479c-ba88-8cc85c56d883.jpg?1561812147|https://scryfall.com/card/akh/287/woodland-stream?utm_source=api>`
    Woodland Stream enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_u|.
