@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-13 12:47+0000\n"
+"PO-Revision-Date: 2020-01-14 20:46+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tbd/"
 "pl/>\n"
@@ -244,7 +244,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../TBD.rst:73
 msgid "|mana_2|\\ |mana_w|: Exile enchanted creature."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|: Wygnaj wskazanego stwora."
 
 #: ../../TBD.rst:80
 msgid ""
@@ -255,13 +255,15 @@ msgstr ""
 
 #: ../../TBD.rst:77
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../TBD.rst:79
 msgid ""
 "Loyalty abilities of planeswalkers your opponents control cost |mana_1| more "
 "to activate."
 msgstr ""
+"Aktywacja lojalnościowych zdolności wędrowców pod władaniem twoich "
+"przeciwników kosztuje o |mana_1| więcej."
 
 #: ../../TBD.rst:88
 msgid ""
@@ -275,18 +277,24 @@ msgid ""
 "I - Exile target permanent an opponent controls with converted mana cost 3 "
 "or greater."
 msgstr ""
+"I - Wygnaj wskazany permanent pod władaniem przeciwnika o skróconym koszcie "
+"many 3 lub większym."
 
 #: ../../TBD.rst:85
 msgid ""
 "II - Noncreature spells your opponents cast cost |mana_2| more to cast until "
 "your next turn."
 msgstr ""
+"II - Do twojej następnej tury rzucanie czarów nie będących stworami kosztuje "
+"twoich przeciwników o |mana_2| więcej."
 
 #: ../../TBD.rst:87
 msgid ""
 "III - Return target creature or planeswalker card from your graveyard to the "
 "battlefield. Put a +1/+1 counter or a loyalty counter on it."
 msgstr ""
+"III - Przywróć wskazaną kartę stwora lub wędrowca z twojego cmentarza na "
+"pole walki. Umieść na niej znacznik +1/+1 lub lojalności."
 
 #: ../../TBD.rst:98
 msgid ""
@@ -299,20 +307,24 @@ msgstr ""
 msgid ""
 "−1: Up to two target creatures you control each get +2/+1 until end of turn."
 msgstr ""
+"–1: Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+1."
 
 #: ../../TBD.rst:93
 msgid "−2: Create two 1/1 white Human Soldier creature tokens."
-msgstr ""
+msgstr "–2: Stwórz dwa żetony białego stwora Człowiek Piechur 1/1."
 
 #: ../../TBD.rst:95
 msgid "−3: You gain 5 life."
-msgstr ""
+msgstr "–3: Zyskaj 5 żyć."
 
 #: ../../TBD.rst:97
 msgid ""
 "Escape—|mana_4|\\ |mana_w|\\ |mana_w|, Exile four other cards from your "
 "graveyard. (You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_4|\\ |mana_w|\\ |mana_w|, wygnaj cztery inne karty z twojego "
+"cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej koszt "
+"ucieczki.)"
 
 #: ../../TBD.rst:102
 msgid ""
@@ -645,6 +657,8 @@ msgid ""
 "Escape—|mana_w|, Exile two other cards from your graveyard. (You may cast "
 "this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_w|, wygnaj dwie inne karty z twojego cmentarza. (Możesz "
+"rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:218
 msgid ""
@@ -855,6 +869,8 @@ msgid ""
 "Escape—|mana_2|\\ |mana_u|, Exile five other cards from your graveyard. (You "
 "may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_2|\\ |mana_u|, wygnaj pięć innych kart z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:296
 msgid ""
@@ -1094,6 +1110,8 @@ msgid ""
 "Escape—|mana_2|\\ |mana_u|, Exile three other cards from your graveyard. "
 "(You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_2|\\ |mana_u|, wygnaj trzy inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:392
 msgid ""
@@ -1161,6 +1179,8 @@ msgid ""
 "Escape—|mana_3|\\ |mana_u|, Exile four other cards from your graveyard. (You "
 "may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_3|\\ |mana_u|, wygnaj cztery inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:416
 msgid ""
@@ -1424,6 +1444,8 @@ msgid ""
 "Escape—|mana_3|\\ |mana_b|, Exile five other cards from your graveyard. (You "
 "may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_3|\\ |mana_b|, wygnaj pięć innych kart z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:508
 msgid ""
@@ -1574,6 +1596,8 @@ msgid ""
 "Escape—|mana_3|\\ |mana_b|, Exile three other cards from your graveyard. "
 "(You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_3|\\ |mana_b|, wygnaj trzy inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:566
 msgid ""
@@ -1733,6 +1757,8 @@ msgid ""
 "Escape—|mana_2|\\ |mana_b|, Exile two other cards from your graveyard. (You "
 "may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_2|\\ |mana_b|, wygnaj dwie inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:632
 msgid ""
@@ -1799,12 +1825,16 @@ msgid ""
 "Escape—|mana_5|\\ |mana_b|, Exile three other cards from your graveyard. "
 "(You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_5|\\ |mana_b|, wygnaj trzy inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:657
 msgid ""
 "Pharika's Spawn escapes with two +1/+1 counters on it. When it enters the "
 "battlefield this way, each opponent sacrifices a non-Gorgon creature."
 msgstr ""
+"Ten stwór ucieka mając dwa znaczniki +1/+1. Kiedy wejdzie na pole walki w "
+"ten sposób, każdy przeciwnik poświęca stwora nie będącego typu Gorgon."
 
 #: ../../TBD.rst:662
 msgid ""
@@ -1937,10 +1967,12 @@ msgid ""
 "Escape—|mana_4|\\ |mana_b|, Exile three other cards from your graveyard. "
 "(You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_4|\\ |mana_b|, wygnaj trzy inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:705
 msgid "Underworld Charger escapes with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór ucieka mając dwa znaczniki +1/+1."
 
 #: ../../TBD.rst:710
 msgid ""
@@ -1990,10 +2022,13 @@ msgid ""
 "Escape—|mana_3|\\ |mana_b|\\ |mana_b|, Exile four other cards from your "
 "graveyard. (You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_3|\\ |mana_b|\\ |mana_b|, wygnaj cztery inne karty z twojego "
+"cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej koszt "
+"ucieczki.)"
 
 #: ../../TBD.rst:725
 msgid "Woe Strider escapes with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór ucieka mając dwa znaczniki +1/+1."
 
 #: ../../TBD.rst:736
 msgid ""
@@ -2147,6 +2182,8 @@ msgid ""
 "Escape—|mana_1|\\ |mana_r|, Exile two other cards from your graveyard. (You "
 "may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_1|\\ |mana_r|, wygnaj dwie inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:786
 msgid ""
@@ -2369,10 +2406,12 @@ msgid ""
 "Escape—|mana_r|\\ |mana_r|, Exile eight other cards from your graveyard. "
 "(You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_r|\\ |mana_r|, wygnaj osiem innych karty z twojego cmentarza. "
+"(Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:869
 msgid "Ox of Agonas escapes with a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten stwór ucieka mają znacznik +1/+1."
 
 #: ../../TBD.rst:880
 msgid ""
@@ -2394,10 +2433,13 @@ msgid ""
 "Escape — |mana_2|\\ |mana_r|\\ |mana_r|, Exile three other cards from your "
 "graveyard. (You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_2|\\ |mana_r|\\ |mana_r|, wygnaj trzy inne karty z twojego "
+"cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej koszt "
+"ucieczki.)"
 
 #: ../../TBD.rst:879
 msgid "Phoenix of Ash escapes with a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten stwór ucieka mając znacznik +1/+1."
 
 #: ../../TBD.rst:884
 msgid ""
@@ -2478,6 +2520,8 @@ msgid ""
 "Escape—|mana_2|\\ |mana_r|, Exile two other cards from your graveyard. (You "
 "may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_2|\\ |mana_r|, wygnaj dwie inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:914
 msgid ""
@@ -2629,6 +2673,9 @@ msgid ""
 "the card's mana cost plus exile three other cards from your graveyard. (You "
 "may cast cards from your graveyard for their escape cost.)"
 msgstr ""
+"Każda karta w twoim cmentarzu nie będąca lądem ma ucieczkę. Kosztem ucieczki "
+"jest jej koszt many plus wygnanie trzech innych kart z twojego cmentarza. ("
+"Możesz rzucać karty z twojego cmentarza za ich koszt ucieczki.)"
 
 #: ../../TBD.rst:961
 msgid "At the beginning of the end step, sacrifice Underworld Breach."
@@ -2663,10 +2710,12 @@ msgid ""
 "Escape—|mana_3|\\ |mana_r|, Exile three other cards from your graveyard. "
 "(You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_3|\\ |mana_r|, wygnaj trzy inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:973
 msgid "Underworld Rage-Hound escapes with a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten stwór ucieka mając znacznik +1/+1."
 
 #: ../../TBD.rst:978
 msgid ""
@@ -2736,10 +2785,13 @@ msgid ""
 "Escape—|mana_3|\\ |mana_g|\\ |mana_g|, Exile four other cards from your "
 "graveyard. (You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_3|\\ |mana_g|\\ |mana_g|, wygnaj cztery inne karty z twojego "
+"cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej koszt "
+"ucieczki.)"
 
 #: ../../TBD.rst:1003
 msgid "Chainweb Aracnir escapes with three +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór ucieka mając trzy znaczniki +1/+1."
 
 #: ../../TBD.rst:1010
 msgid ""
@@ -2895,10 +2947,12 @@ msgid ""
 "Escape-|mana_4|\\ |mana_g|, exile three other cards from your graveyard. "
 "(You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_4|\\ |mana_g|, wygnaj dwie inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../TBD.rst:1061
 msgid "Loathsome Chimera escapes with a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten stwór ucieka mając znacznik +1/+1."
 
 #: ../../TBD.rst:1070
 msgid ""
@@ -3279,10 +3333,13 @@ msgid ""
 "Escape—|mana_5|\\ |mana_g|\\ |mana_g|, Exile four other cards from your "
 "graveyard. (You may cast this spell from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_5|\\ |mana_g|\\ |mana_g|, wygnaj cztery inne karty z twojego "
+"cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej koszt "
+"ucieczki.)"
 
 #: ../../TBD.rst:1207
 msgid "Voracious Typhon escapes with three +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór ucieka mając trzy znaczniki +1/+1."
 
 #: ../../TBD.rst:1216
 msgid ""
@@ -3628,7 +3685,7 @@ msgstr ""
 
 #: ../../TBD.rst:1323
 msgid "When Kroxa enters the battlefield, sacrifice it unless it escaped."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, poświęć go jeśli nie uciekł."
 
 #: ../../TBD.rst:1325
 msgid ""
@@ -3643,6 +3700,9 @@ msgid ""
 "from your graveyard. (You may cast this card from your graveyard for its "
 "escape cost.)"
 msgstr ""
+"Ucieczka—|mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|, wygnaj pięć innych kart "
+"z twojego cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej "
+"koszt ucieczki.)"
 
 #: ../../TBD.rst:1336
 msgid ""
@@ -3688,6 +3748,8 @@ msgid ""
 "Polukranos enters the battlefield with six +1/+1 counters on it. It escapes "
 "with twelve +1/+1 counters on it instead."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając sześć znaczników +1/+1. Ucieka mając "
+"zamiast tego dwanaście znaczników +1/+1."
 
 #: ../../TBD.rst:1347
 msgid ""
@@ -3705,6 +3767,8 @@ msgid ""
 "Escape—|mana_4|\\ |mana_b|\\ |mana_g|, Exile six other cards from your "
 "graveyard."
 msgstr ""
+"Ucieczka—|mana_4|\\ |mana_b|\\ |mana_g|, wygnaj sześć innych kart z twojego "
+"cmentarza."
 
 #: ../../TBD.rst:1360
 msgid ""
@@ -3788,7 +3852,7 @@ msgstr ""
 
 #: ../../TBD.rst:1381
 msgid "When Uro enters the battlefield, sacrifice it unless it escaped."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, poświęć go jeśli nie uciekł."
 
 #: ../../TBD.rst:1383
 msgid ""
@@ -3802,6 +3866,9 @@ msgid ""
 "from your graveyard. (You may cast this card from your graveyard for its "
 "escape cost.)"
 msgstr ""
+"Ucieczka—|mana_g|\\ |mana_g|\\ |mana_u|\\ |mana_u|, wygnaj pięć innych kart "
+"z twojego cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej "
+"koszt ucieczki.)"
 
 #: ../../TBD.rst:1392
 msgid ""
