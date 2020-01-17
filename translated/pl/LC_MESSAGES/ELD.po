@@ -2,13 +2,14 @@
 # Copyright (C) 2013-2019, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: 2020-01-17 22:16+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-18 20:13+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
 "pl/>\n"
 "Language: pl\n"
@@ -1809,7 +1810,7 @@ msgstr ""
 
 #: ../../ELD.rst:641
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../ELD.rst:643
 msgid ""
@@ -2164,7 +2165,7 @@ msgstr ""
 
 #: ../../ELD.rst:763 ../../ELD.rst:1295 ../../ELD.rst:1357
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../ELD.rst:765
 msgid ""
@@ -2325,7 +2326,7 @@ msgstr ""
 
 #: ../../ELD.rst:817
 msgid "|mana_2|\\ |mana_r|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|, odrzuć kartę: Dobierz kartę."
 
 #: ../../ELD.rst:822
 msgid ""
@@ -2572,11 +2573,11 @@ msgstr ""
 
 #: ../../ELD.rst:897
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../ELD.rst:899
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../ELD.rst:904
 msgid ""
@@ -2719,7 +2720,7 @@ msgstr ""
 
 #: ../../ELD.rst:943 ../../ELD.rst:1699 ../../ELD.rst:1727
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../ELD.rst:945
 msgid ""
@@ -3092,15 +3093,15 @@ msgstr ""
 
 #: ../../ELD.rst:1071
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../ELD.rst:1073
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../ELD.rst:1075
 msgid "Exile target card from a graveyard."
-msgstr ""
+msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
 
 #: ../../ELD.rst:1080
 msgid ""
@@ -3258,7 +3259,7 @@ msgstr ""
 
 #: ../../ELD.rst:1131
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../ELD.rst:1133
 msgid ""
