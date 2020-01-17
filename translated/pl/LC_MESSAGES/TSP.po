@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-12 20:28+0000\n"
+"PO-Revision-Date: 2020-01-17 22:16+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tsp/"
 "pl/>\n"
@@ -703,7 +703,7 @@ msgstr ""
 
 #: ../../TSP.rst:259
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../TSP.rst:261
 msgid "Whenever enchanted creature deals damage, you gain that much life."
@@ -1074,6 +1074,8 @@ msgid ""
 "When enchanted creature dies, return that card to the battlefield under your "
 "control."
 msgstr ""
+"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole walki pod twoim "
+"władaniem."
 
 #: ../../TSP.rst:403
 msgid ""
