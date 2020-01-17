@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-14 20:46+0000\n"
+"PO-Revision-Date: 2020-01-17 22:16+0000\n"
 "Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tbd/"
 "pl/>\n"
@@ -85,6 +85,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, create a 2/2 white Pegasus creature token with flying."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, stwórz "
+"żeton białego stwora Pegaz 2/2 z lataniem."
 
 #: ../../TBD.rst:30
 msgid ""
@@ -149,6 +151,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, tap target creature an opponent controls."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, "
+"przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../TBD.rst:50
 msgid ""
@@ -338,6 +342,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, Favored of Iroas gains double strike until end of turn."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, ten "
+"stwór dostaje do końca tury podwójny cios."
 
 #: ../../TBD.rst:106
 msgid ""
@@ -351,6 +357,8 @@ msgid ""
 "Exile target creature or enchantment, then return it to the battlefield "
 "under its owner's control."
 msgstr ""
+"Wygnaj wskazanego stwora lu urok, następnie przywróć go na pole walki pod "
+"władaniem jego właściciela."
 
 #: ../../TBD.rst:110
 msgid ""
@@ -364,6 +372,7 @@ msgid ""
 "Whenever another creature you control attacks, it gets +0/+1 until end of "
 "turn."
 msgstr ""
+"Ilekroć inny stwór pod twoim władaniem atakuje, dostaje do końca tury +0/+1."
 
 #: ../../TBD.rst:120
 msgid ""
@@ -388,12 +397,15 @@ msgid ""
 "Whenever you gain life, put a +1/+1 counter on target creature or "
 "enchantment you control."
 msgstr ""
+"Ilekroć zyskujesz życia, umieść znacznik +1/+1 na wskazanym stworze lub "
+"uroku pod twoim władaniem."
 
 #: ../../TBD.rst:119
 msgid ""
 "|mana_1|\\ |mana_w|: Another target creature gains lifelink until end of "
 "turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Inny wskazany stwór dostaje do końca tury więź życia."
 
 #: ../../TBD.rst:128
 msgid ""
@@ -405,15 +417,15 @@ msgstr ""
 #: ../../TBD.rst:123 ../../TBD.rst:547 ../../TBD.rst:647 ../../TBD.rst:897
 #: ../../TBD.rst:1121 ../../TBD.rst:1169
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../TBD.rst:125
 msgid "Destroy X target artifacts and/or enchantments."
-msgstr ""
+msgstr "Zniszcz X wskazanych artefaktów i/lub uroków."
 
 #: ../../TBD.rst:127
 msgid "Target player gains twice X life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje dwukrotność X żyć."
 
 #: ../../TBD.rst:132
 msgid ""
@@ -442,7 +454,7 @@ msgstr ""
 #: ../../TBD.rst:137
 msgid ""
 "Heliod's Punishment enters the battlefield with four task counters on it."
-msgstr ""
+msgstr "Ten urok wchodzi na pole walki z czterema znacznikami zadania."
 
 #: ../../TBD.rst:139
 msgid ""
@@ -450,6 +462,9 @@ msgid ""
 "tap|: Remove a task counter from Heliod's Punishment. Then if it has no task "
 "counters on it, destroy Heliod's Punishment.\""
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować. Traci wszystkie zdolności i "
+"ma \"|tap|: Usuń znacznik zadania z Heliod's Punishment. Następnie jeśli nie "
+"ma tam już żadnych znaczników zadania, zniszcz Heliod's Punishment.\""
 
 #: ../../TBD.rst:144
 msgid ""
@@ -463,6 +478,8 @@ msgid ""
 "Whenever you cast a spell that targets Hero of the Pride, creatures you "
 "control get +1/+0 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar wskazujący tego stwora, stwory pod twoim władaniem "
+"dostają do końca tury +1/+0."
 
 #: ../../TBD.rst:150
 msgid ""
@@ -476,6 +493,8 @@ msgid ""
 "Whenever you cast a spell that targets Hero of the Winds, creatures you "
 "control get +1/+0 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar wskazujący tego stwora, stwory pod twoim władaniem "
+"dostają do końca tury +1/+0."
 
 #: ../../TBD.rst:154
 msgid ""
@@ -489,6 +508,8 @@ msgid ""
 "Search your library for an enchantment card, reveal it, and put it into your "
 "hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę uroku, ujawnij ją i umieść w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../TBD.rst:162
 msgid ""
@@ -506,7 +527,7 @@ msgstr "Błysk"
 
 #: ../../TBD.rst:161
 msgid "Enchanted creature gets +1/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+2."
 
 #: ../../TBD.rst:166
 msgid ""
@@ -522,6 +543,11 @@ msgid ""
 "of turn. (It can't be the target of spells or abilities your opponents "
 "control. Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest zauroczonym stworem "
+"lub stworem-urokiem, dostaje on do końca tury dodatkowo antyklątwę oraz "
+"niezniszczalność. (Nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników. Obrażenia i efekty mówiące \"zniszcz\" nie "
+"zniszczą go.)"
 
 #: ../../TBD.rst:170
 msgid ""
@@ -536,6 +562,9 @@ msgid ""
 "enchantment card from your graveyard on top of your library. If you do, you "
 "gain life equal to its converted mana cost."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz umieścić wskazaną kartę uroku "
+"z twojego cmentarza na wierzchu twojej biblioteki. Jeśli tak zrobisz, zyskaj "
+"tyle żyć, ile wynosi jej skrócony koszt many."
 
 #: ../../TBD.rst:174
 msgid ""
@@ -548,7 +577,7 @@ msgstr ""
 msgid ""
 "When Leonin of the Lost Pride dies, exile target card from an opponent's "
 "graveyard."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wygnaj wskazaną kartę z cmentarza przeciwnika."
 
 #: ../../TBD.rst:176
 msgid ""
@@ -569,10 +598,12 @@ msgid ""
 "When Omen of the Sun enters the battlefield, create two 1/1 white Human "
 "Soldier creature tokens and you gain 2 life."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony białego stwora "
+"Człowiek Piechur 1/1 i zyskaj 2 życia."
 
 #: ../../TBD.rst:185
 msgid "|mana_2|\\ |mana_w|, Sacrifice Omen of the Sun: Scry 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|, poświęć ten urok: Wróż 2."
 
 #: ../../TBD.rst:190
 msgid ""
@@ -586,6 +617,8 @@ msgid ""
 "Target creature you control gets +2/+1 until end of turn. Each other "
 "creature you control gets +1/+1 until end of turn."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+1. Każdy inny "
+"stwór pod twoim władaniem dostaje do końca tury +1/+1."
 
 #: ../../TBD.rst:194
 msgid ""
@@ -599,6 +632,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, target creature gets +1/+1 until end of turn."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, "
+"wskazany stwór dostaje do końca tury +1/+1."
 
 #: ../../TBD.rst:198
 msgid ""
@@ -639,7 +674,7 @@ msgstr ""
 
 #: ../../TBD.rst:205
 msgid "When Rumbling Sentry enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 1."
 
 #: ../../TBD.rst:214
 msgid ""
@@ -672,6 +707,8 @@ msgid ""
 "Each player who controls a creature with power 4 or greater draws a card. "
 "Then destroy all creatures."
 msgstr ""
+"Każdy gracz władający stworem o sile 4 lub większej dobiera kartę. Następnie "
+"zniszcz wszystkie stwory."
 
 #: ../../TBD.rst:224
 msgid ""
@@ -685,6 +722,7 @@ msgid ""
 "|mana_1|\\ |mana_w|: Sunmane Pegasus gains vigilance and lifelink until end "
 "of turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury czujność i więź życia."
 
 #: ../../TBD.rst:230
 msgid ""
@@ -703,6 +741,9 @@ msgid ""
 "control. Until end of turn, that creature has base power and toughness 4/4 "
 "and gains indestructible."
 msgstr ""
+"Ilekroć ten stwór atakuje, odkręć innego wskazanego stwora pod twoim "
+"władaniem. Do końca tury ów stwór ma bazową siłę i wytrzymałość 4/4 i "
+"zyskuje niezniszczalność."
 
 #: ../../TBD.rst:236
 msgid ""
@@ -724,7 +765,7 @@ msgstr ""
 
 #: ../../TBD.rst:239
 msgid "Destroy target creature with power 4 or greater. You gain 3 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej. Zyskaj 3 życia."
 
 #: ../../TBD.rst:248
 msgid ""
@@ -735,18 +776,22 @@ msgstr ""
 
 #: ../../TBD.rst:243
 msgid "Alirios, Enraptured enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki przekręcony."
 
 #: ../../TBD.rst:245
 msgid ""
 "Alirios doesn't untap during your untap step if you control a Reflection."
 msgstr ""
+"Ten stwór nie odkręca się w twoim kroku odkręcania jeśli władasz permanentem "
+"o typie Reflection (Odbicie)."
 
 #: ../../TBD.rst:247
 msgid ""
 "When Alirios enters the battlefield, create a 3/2 blue Reflection creature "
 "token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton niebieskiego stwora "
+"Odbicie 3/2."
 
 #: ../../TBD.rst:258
 msgid ""
@@ -757,7 +802,7 @@ msgstr ""
 
 #: ../../TBD.rst:253
 msgid "When Ashiok's Erasure enters the battlefield, exile target spell."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, wygnaj wskazany czar."
 
 #: ../../TBD.rst:255
 msgid "Your opponents can't cast spells with the same name as the exiled card."
@@ -770,6 +815,8 @@ msgid ""
 "When Ashiok's Erasure leaves the battlefield, return the exiled card to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten urok opuści pole walki, przywróć wygnaną kartę do ręki jej "
+"właściciela."
 
 #: ../../TBD.rst:262
 msgid ""
@@ -782,6 +829,8 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each enchantment you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy urok pod twoim "
+"władaniem."
 
 #: ../../TBD.rst:268
 msgid ""
@@ -804,6 +853,8 @@ msgid ""
 "Creatures and enchantments you control have \"Spells your opponents cast "
 "that target this permanent cost |mana_1| more to cast\"."
 msgstr ""
+"Stwory i uroki pod twoim władaniem mają \"Rzucanie czarów wskazujących ten "
+"permanent kosztuje twoich przeciwników o |mana_1| więcej\"."
 
 #: ../../TBD.rst:272
 msgid ""
@@ -814,7 +865,7 @@ msgstr ""
 
 #: ../../TBD.rst:271
 msgid "Target creature gets -4/-0 until end of turn. Scry 2."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -4/-0. Wróż 2."
 
 #: ../../TBD.rst:276
 msgid ""
@@ -828,6 +879,8 @@ msgid ""
 "Counter target creature or enchantment spell. If that spell is countered "
 "this way, exile it instead of putting it into its owner's graveyard."
 msgstr ""
+"Skontruj wskazany czar stwora lub uroku. Jeśli ów czar zostanie skontrowany "
+"w ten sposób, wygnaj go zamiast umieszczać go w cmentarzu jego właściciela."
 
 #: ../../TBD.rst:280
 msgid ""
@@ -838,7 +891,7 @@ msgstr ""
 
 #: ../../TBD.rst:279
 msgid "|mana_6|\\ |mana_u|, Sacrifice Eidolon of Philosophy: Draw three cards."
-msgstr ""
+msgstr "|mana_6|\\ |mana_u|, poświęć tego stwora: Dobierz trzy karty."
 
 #: ../../TBD.rst:284
 msgid ""
@@ -852,6 +905,7 @@ msgid ""
 "When Elite Instructor enters the battlefield, draw a card, then discard a "
 "card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dobierz kartę, następnie odrzuć kartę."
 
 #: ../../TBD.rst:290
 msgid ""
@@ -862,7 +916,7 @@ msgstr ""
 
 #: ../../TBD.rst:287
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../TBD.rst:289
 msgid ""
@@ -884,6 +938,8 @@ msgid ""
 "Enchanted creature loses all abilities and is a blue Fish with base power "
 "and toughness 0/1."
 msgstr ""
+"Zauroczony stwór traci wszystkie zdolności i jest niebieską Rybą o bazowej "
+"sile i wytrzymałości 0/1."
 
 #: ../../TBD.rst:306
 msgid ""
@@ -894,17 +950,22 @@ msgstr ""
 
 #: ../../TBD.rst:301
 msgid "I — Create an 8/8 blue Kraken creature token with hexproof."
-msgstr ""
+msgstr "I — Stwórz żeton niebieskiego stwora Kraken 8/8 z antyklątwą."
 
 #: ../../TBD.rst:303
 msgid ""
 "II — Tap all nonland permanents target opponent controls. They don't untap "
 "during their controller's next untap step."
 msgstr ""
+"II — Przekręć wszystkie nielądowe permanenty pod władaniem wskazanego "
+"przeciwnika. Nie odkręcą się one w najbliższym kroku odkręcania swojego "
+"władcy."
 
 #: ../../TBD.rst:305
 msgid "III — Gain control of target permanent an opponent controls. Untap it."
 msgstr ""
+"III — Zyskaj władanie nad wskazanym permanentem pod władaniem przeciwnika. "
+"Odkręć go."
 
 #: ../../TBD.rst:318
 msgid ""
@@ -923,21 +984,23 @@ msgstr ""
 
 #: ../../TBD.rst:311
 msgid "I — Scry 2."
-msgstr ""
+msgstr "I — Wróż 2."
 
 #: ../../TBD.rst:313
 msgid "II — Choose a card name."
-msgstr ""
+msgstr "II — Wybierz nazwę karty."
 
 #: ../../TBD.rst:315
 msgid ""
 "III — When you cast a spell with the chosen card name for the first time "
 "this turn, draw two cards."
 msgstr ""
+"III — Kiedy rzucisz czar o wybranej nazwie po raz pierwszy w tej turze, "
+"dobierz dwie karty."
 
 #: ../../TBD.rst:317
 msgid "IV — Look at the top card of each player's library."
-msgstr ""
+msgstr "IV — Spójrz na wierzchnią kartę biblioteki każdego z graczy."
 
 #: ../../TBD.rst:322
 msgid ""
@@ -948,7 +1011,7 @@ msgstr ""
 
 #: ../../TBD.rst:321
 msgid "Counter target spell. Scry 2."
-msgstr ""
+msgstr "Skontruj wskazany czar. Wróż 2."
 
 #: ../../TBD.rst:326
 msgid ""
@@ -962,6 +1025,9 @@ msgid ""
 "Whenever you draw a card, you may pay |mana_1|. If you do, put a +1/+1 "
 "counter on Nadir Kraken and create a 1/1 blue Tentacle creature token."
 msgstr ""
+"Ilekroć dobierzesz kartę, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"umieść znacznik +1/+1 na tym stworze i stwórz żeton niebieskie stwora Macka "
+"1/1."
 
 #: ../../TBD.rst:330
 msgid ""
@@ -974,6 +1040,7 @@ msgstr ""
 msgid ""
 "As long as it's not your turn, spells you cast cost |mana_1| less to cast."
 msgstr ""
+"O ile nie jest twoja tura, rzucanie czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../TBD.rst:332
 msgid ""
@@ -991,11 +1058,11 @@ msgstr ""
 
 #: ../../TBD.rst:339
 msgid "When Omen of the Sea enters the battlefield, scry 2, then draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, wróż 2, następnie dobierz kartę."
 
 #: ../../TBD.rst:341
 msgid "|mana_2|\\ |mana_u|, Sacrifice Omen of the Sea: Scry 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|, poświęć ten urok: Wróż 2."
 
 #: ../../TBD.rst:348
 msgid ""
@@ -1006,13 +1073,15 @@ msgstr ""
 
 #: ../../TBD.rst:345
 msgid "Enchant creature or enchantment"
-msgstr ""
+msgstr "Zaurocz stwora lub urok"
 
 #: ../../TBD.rst:347
 msgid ""
 "Enchanted permanent is an enchantment and loses all other card types. (It "
 "still has its abilities, but it's no longer a creature.)"
 msgstr ""
+"Zauroczony permanent jest urokiem i traci wszystkie inne typy karty. (Nadal "
+"ma swoje zdolności, ale nie jest już dłużej stworem.)"
 
 #: ../../TBD.rst:352
 msgid ""
@@ -1027,6 +1096,9 @@ msgid ""
 "control, you may have Protean Thaumaturge become a copy of another target "
 "creature, except it has this ability."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, możesz "
+"sprawić, że niniejszy stwór stanie się kopią innego wskazanego stwora, ale "
+"zachowa niniejszą zdolność."
 
 #: ../../TBD.rst:358
 msgid ""
@@ -1037,7 +1109,7 @@ msgstr ""
 
 #: ../../TBD.rst:357
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../TBD.rst:362
 msgid ""
@@ -1052,6 +1124,9 @@ msgid ""
 "control, target player puts the top two cards of their library into their "
 "graveyard."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, "
+"wskazany gracz umieszcza dwie wierzchnie karty swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../TBD.rst:366
 msgid ""
@@ -1065,6 +1140,7 @@ msgid ""
 "Return up to three target creatures and/or enchantments to their owners' "
 "hands."
 msgstr ""
+"Przywróć co najwyżej trzy wskazane stwory i/lub uroki do rąk ich właścicieli."
 
 #: ../../TBD.rst:372
 msgid ""
@@ -1078,6 +1154,8 @@ msgid ""
 "At the beginning of your upkeep, return up to one other target enchantment "
 "you control to its owner's hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć co najwyżej jeden wskazany "
+"urok pod twoim władaniem do ręki właściciela."
 
 #: ../../TBD.rst:376
 msgid ""
@@ -1091,6 +1169,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, you may a draw card. If you do, discard a card."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, możesz "
+"dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../TBD.rst:382
 msgid ""
@@ -1104,6 +1184,8 @@ msgid ""
 "Tap target creature. It doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Przekręć wskazanego stwora. Nie odkręci się on podczas najbliższego kroku "
+"odkręcania swojego władcy."
 
 #: ../../TBD.rst:381
 msgid ""
@@ -1123,7 +1205,7 @@ msgstr ""
 #: ../../TBD.rst:387 ../../TBD.rst:489 ../../TBD.rst:833 ../../TBD.rst:1191
 #: ../../TBD.rst:1211
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../TBD.rst:389
 msgid ""
@@ -1131,6 +1213,9 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, zauroczony stwór dostaje do końca tury "
+"antyklątwę. (Nie może być wskazany przez czary ani zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../TBD.rst:391 ../../TBD.rst:837
 msgid "Enchanted creature gets +1/+1."
@@ -1148,6 +1233,8 @@ msgid ""
 "Return target creature or enchantment an opponent controls to its owner's "
 "hand."
 msgstr ""
+"Przywróć wskazanego stwora lub urok pod władaniem przeciwnika do ręki jego "
+"właściciela."
 
 #: ../../TBD.rst:400
 msgid ""
@@ -1161,6 +1248,8 @@ msgid ""
 "Whenever you cast your first spell during each opponent's turn, you may tap "
 "or untap target nonland permanent."
 msgstr ""
+"Ilekroć rzucisz swój pierwszy czar w turze każdego z przeciwników, możesz "
+"przekręcić lub odkręcić wskazany nielądowy permanent."
 
 #: ../../TBD.rst:406
 msgid ""
@@ -1173,6 +1262,8 @@ msgstr ""
 msgid ""
 "Target player puts the top four cards of their library into their graveyard."
 msgstr ""
+"Wskazany gracz umieszcza cztery wierzchnie karty swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../TBD.rst:405
 msgid ""
@@ -1201,10 +1292,13 @@ msgid ""
 "At the beginning of your end step, exile up to one other target creature you "
 "control, then return that card to the battlefield under your control."
 msgstr ""
+"Na początku twojego kroku końcowego wygnaj co najwyżej jednego innego stwora "
+"pod twoim władaniem, następnie przywróć ową kartę na pole walki pod twoim "
+"władaniem."
 
 #: ../../TBD.rst:415
 msgid "|mana_3|\\ |mana_u|: Tap another target creature."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Przekręć innego wskazanego stwora."
 
 #: ../../TBD.rst:424
 msgid ""
@@ -1215,17 +1309,21 @@ msgstr ""
 
 #: ../../TBD.rst:419
 msgid "Choose one-"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../TBD.rst:421
 msgid ""
 "Look at the top X cards of your library. Put up to two of them into your "
 "hand and the rest on the bottom of your library in a random order."
 msgstr ""
+"Spójrz na X wierzchnich kart twojej biblioteki. Umieść co najwyżej dwie z "
+"nich w twojej ręce, a pozostałe na spodzie twojej biblioteki w losowej "
+"kolejności."
 
 #: ../../TBD.rst:423
 msgid "Counter target spell unless its controller pays twice |mana_x|."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci dwukrotność |mana_x|."
 
 #: ../../TBD.rst:428
 msgid ""
@@ -1262,6 +1360,8 @@ msgid ""
 "Draw three cards. Then discard two cards unless you discard an enchantment "
 "card."
 msgstr ""
+"Dobierz trzy karty. Następnie odrzuć dwie karty, chyba że odrzucisz kartę "
+"uroku."
 
 #: ../../TBD.rst:440
 msgid ""
@@ -1294,6 +1394,8 @@ msgid ""
 "Spells you cast with converted mana cost 5 or greater cost |mana_1| less to "
 "cast and can't be countered."
 msgstr ""
+"Rzucanie czarów o skróconym koszcie many 5 lub większym kosztuje cię o "
+"|mana_1| mniej i nie mogą być one skontrowane."
 
 #: ../../TBD.rst:452
 msgid ""
@@ -1307,6 +1409,8 @@ msgid ""
 "Whenever Towering-Wave Mystic deals damage, target player puts that many "
 "cards from the top of their library into their graveyard."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia, wskazany gracz umieszcza tyle samo kart z "
+"wierzchu swojej biblioteki w swoim cmentarzu."
 
 #: ../../TBD.rst:456
 msgid ""
@@ -1320,6 +1424,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, Triton Waverider gains flying until end of turn."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, ten "
+"stwór dostaje do końca tury latanie."
 
 #: ../../TBD.rst:462
 msgid ""
@@ -1339,6 +1445,8 @@ msgstr ""
 msgid ""
 "Whenever you cast your first spell during each opponent's turn, draw a card."
 msgstr ""
+"Ilekroć rzucisz swój pierwszy czar w turze każdego ze swoich przeciwników, "
+"dobierz kartę."
 
 #: ../../TBD.rst:470
 msgid ""
@@ -1352,6 +1460,8 @@ msgid ""
 "For each spell and ability your opponents control, counter it unless its "
 "controller pays |mana_4|."
 msgstr ""
+"Dla każdego czaru i zdolności pod władaniem twoich przeciwników, skontruj "
+"to, chyba że władca zapłaci |mana_4|."
 
 #: ../../TBD.rst:476
 msgid ""
@@ -1362,7 +1472,7 @@ msgstr ""
 
 #: ../../TBD.rst:475
 msgid "|mana_3|\\ |mana_u|: Scry 1."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Wróż 1."
 
 #: ../../TBD.rst:480
 msgid ""
@@ -1376,6 +1486,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it or a "
 "card from their graveyard. Exile that card. You lose 1 life."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądową kartę lub "
+"dowolną kartę z jego cmentarza. Wygnaj ową kartę. Strać 1 życie."
 
 #: ../../TBD.rst:486
 msgid ""
@@ -1389,6 +1501,8 @@ msgid ""
 "At the beginning of your end step, you may exile an enchantment card from "
 "your graveyard. If you do, create a 2/2 black Zombie creature token."
 msgstr ""
+"Na początku twojego kroku końcowego możesz wygnać kartę uroku z twojego "
+"cmentarza. Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../TBD.rst:494
 msgid ""
@@ -1402,10 +1516,11 @@ msgid ""
 "When Aspect of Lamprey enters the battlefield, target opponent discards two "
 "cards."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../TBD.rst:493
 msgid "Enchanted creature has lifelink."
-msgstr ""
+msgstr "Zauroczony stwór ma więź życia."
 
 #: ../../TBD.rst:498
 msgid ""
@@ -1438,6 +1553,8 @@ msgid ""
 "Exile target card from a graveyard. If it was a creature card, you gain 3 "
 "life. Otherwise, you draw a card."
 msgstr ""
+"Wygnaj wskazaną kartę z cmentarza. Jeśli to była karta stwora, zyskaj 3 "
+"życia. W przeciwnym razie dobierz kartę."
 
 #: ../../TBD.rst:503
 msgid ""
@@ -1456,7 +1573,7 @@ msgstr ""
 
 #: ../../TBD.rst:507
 msgid "When Discordant Piper dies, create a 0/1 white Goat creature token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton białego stwora Koza 0/1."
 
 #: ../../TBD.rst:514
 msgid ""
@@ -1491,6 +1608,8 @@ msgid ""
 "Exile target creature or planeswalker. Look at the top card of your library. "
 "You may put that card into your graveyard."
 msgstr ""
+"Wygnaj wskazanego stwora lub wędrowca. Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ją w twoim cmentarzu."
 
 #: ../../TBD.rst:526
 msgid ""
@@ -1502,16 +1621,20 @@ msgstr ""
 #: ../../TBD.rst:521
 msgid "I - Destroy target creature an opponent controls with power 2 or less."
 msgstr ""
+"I — Zniszcz wskazanego stwora o sile 2 lub mniejszej pod władaniem "
+"przeciwnika."
 
 #: ../../TBD.rst:523
 msgid ""
 "II - Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
+"II — Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../TBD.rst:525
 msgid "III - Exile target opponent's graveyard."
-msgstr ""
+msgstr "III — Wygnaj cmentarz wskazanego przeciwnika."
 
 #: ../../TBD.rst:534
 msgid ""
@@ -1523,11 +1646,11 @@ msgstr ""
 #: ../../TBD.rst:531
 msgid ""
 "Enemy of Enlightenment gets -1/-1 for each card in your opponents' hands."
-msgstr ""
+msgstr "Ten stwór dostaje -1/-1 za każdą kartę w rękach twoich przeciwników."
 
 #: ../../TBD.rst:533
 msgid "At the beginning of your upkeep, each player discards a card."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania każdy gracz odrzuca kartę."
 
 #: ../../TBD.rst:544
 msgid ""
@@ -1547,12 +1670,16 @@ msgid ""
 "Whenever another creature you control dies, you may pay 2 life. If you do, "
 "draw a card."
 msgstr ""
+"Ilekroć inny stwór pod twoim władaniem umrze, możesz zapłacić 2 życia. Jeśli "
+"tak zrobisz, dobierz kartę."
 
 #: ../../TBD.rst:543
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another creature: Target creature gets -2/-1 "
 "until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć innego stwora: Wskazany stwór dostaje do końca "
+"tury -2/-1."
 
 #: ../../TBD.rst:552
 msgid ""
@@ -1567,7 +1694,7 @@ msgstr "Wskazany stwór dostaje -X/-X do końca tury. Zyskaj X żyć."
 
 #: ../../TBD.rst:551
 msgid "Exile up to twice X target cards from graveyards."
-msgstr ""
+msgstr "Wygnaj co najwyżej dwukrotność X wskazanych kart z cmentarzy."
 
 #: ../../TBD.rst:556
 msgid ""
@@ -1589,7 +1716,7 @@ msgstr ""
 
 #: ../../TBD.rst:559
 msgid "Target player loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz traci 2 życia."
 
 #: ../../TBD.rst:561
 msgid ""
@@ -1611,6 +1738,8 @@ msgid ""
 "You draw two cards, lose 2 life, and put the top two cards of your library "
 "into your graveyard,"
 msgstr ""
+"Dobierz dwie karty, strać 2 życia oraz umieść dwie wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../TBD.rst:574
 msgid ""
@@ -1624,10 +1753,12 @@ msgid ""
 "When Gravebreaker Lamia enters the battlefield, search your library for a "
 "card, put it into your graveyard, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wyszukaj w twojej bibliotece dowolną "
+"kartę, umieść ją w twoim cmentarzu, następnie przetasuj twoją bibliotekę."
 
 #: ../../TBD.rst:573
 msgid "Spells you cast from your graveyard cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów z twojego cmentarza kosztuje cię o |mana_1| mniej."
 
 #: ../../TBD.rst:578
 msgid ""
@@ -1660,6 +1791,8 @@ msgid ""
 "When Grim Physician dies, target creature an opponent controls gets -1/-1 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
+"końca tury -1/-1."
 
 #: ../../TBD.rst:588
 msgid ""
@@ -1673,6 +1806,8 @@ msgid ""
 "Whenever an enchanted creature dies, draw a card for each Aura you "
 "controlled that was attached to it."
 msgstr ""
+"Ilekroć jakiś zauroczony stwór umrze, dobierz kartę za każdą Aurę pod twoim "
+"władaniem, która była do niego dołączona."
 
 #: ../../TBD.rst:594
 msgid ""
@@ -1686,6 +1821,7 @@ msgid ""
 "Enchanted creature has \"At the beginning of your upkeep, sacrifice a "
 "creature.\""
 msgstr ""
+"Zauroczony stwór ma \"Na początku twojego kroku utrzymania, poświęć stwora.\""
 
 #: ../../TBD.rst:598
 msgid ""
@@ -1699,6 +1835,7 @@ msgid ""
 "|mana_1|, Sacrifice a creature: Each opponent loses 1 life and you gain 1 "
 "life."
 msgstr ""
+"|mana_1|, poświęć stwora: Każdy przeciwnik traci 1 życie, zyskaj 1 życie."
 
 #: ../../TBD.rst:606
 msgid ""
@@ -1712,6 +1849,8 @@ msgid ""
 "When enchanted creature dies, return that card to the battlefield under your "
 "control."
 msgstr ""
+"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole walki pod twoim "
+"władaniem."
 
 #: ../../TBD.rst:612
 msgid ""
@@ -1722,13 +1861,15 @@ msgstr ""
 
 #: ../../TBD.rst:609 ../../TBD.rst:713 ../../TBD.rst:1073
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../TBD.rst:611
 msgid ""
 "When Mire Triton enters the battlefield, put the top two cards of your "
 "library into your graveyard and you gain 2 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu i zyskaj 2 życia."
 
 #: ../../TBD.rst:618
 msgid ""
@@ -1739,7 +1880,7 @@ msgstr ""
 
 #: ../../TBD.rst:617
 msgid "Enchanted creature gets -3/-3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -3/-3."
 
 #: ../../TBD.rst:626
 msgid ""
@@ -1750,7 +1891,7 @@ msgstr ""
 
 #: ../../TBD.rst:623
 msgid "Enchanted creature gets +2/-1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/-1."
 
 #: ../../TBD.rst:625
 msgid ""
@@ -1773,6 +1914,9 @@ msgid ""
 "you do, create a token that's a copy of that creature, except it's 1/1 and "
 "it's a Nightmare in addition to its other types."
 msgstr ""
+"Ilekroć inny nieżetonowy stwór pod twoim władaniem umrze, możesz go wygnać. "
+"Jeśli tak zrobisz, stwórz żeton będący kopią owego stwora, ale jest on 1/1 i "
+"jest dodatkowo Koszmarem oprócz swoich pozostałych typów."
 
 #: ../../TBD.rst:634
 msgid ""
@@ -1793,10 +1937,12 @@ msgid ""
 "When Omen of the Dead enters the battlefield, return target creature card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../TBD.rst:643
 msgid "|mana_2|\\ |mana_b|, Sacrifice Omen of the Dead: Scry 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|, poświęć ten urok: Wróż 2."
 
 #: ../../TBD.rst:652
 msgid ""
@@ -1807,11 +1953,11 @@ msgstr ""
 
 #: ../../TBD.rst:649
 msgid "Target opponent sacrifices a creature."
-msgstr ""
+msgstr "Wskazany przeciwnik poświęca stwora."
 
 #: ../../TBD.rst:651
 msgid "Target opponent sacrifices an enchantment."
-msgstr ""
+msgstr "Wskazany przeciwnik poświęca urok."
 
 #: ../../TBD.rst:658
 msgid ""
@@ -1862,6 +2008,8 @@ msgid ""
 "When Scavenging Harpy enters the battlefield, exile target card from an "
 "opponent's graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę z cmentarza "
+"przeciwnika."
 
 #: ../../TBD.rst:672
 msgid ""
@@ -1872,7 +2020,7 @@ msgstr ""
 
 #: ../../TBD.rst:671
 msgid "|mana_2|\\ |mana_b|, Sacrifice a creature: Draw a card."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|, poświęć stwora: Dobierz kartę."
 
 #: ../../TBD.rst:676
 msgid ""
@@ -1886,6 +2034,7 @@ msgid ""
 "Temple Thief can't be blocked by enchanted creatures or enchantment "
 "creatures."
 msgstr ""
+"Ten stwór nie może być blokowany przez zauroczone stwory i stwory-uroki."
 
 #: ../../TBD.rst:684
 msgid ""
@@ -1896,17 +2045,17 @@ msgstr ""
 
 #: ../../TBD.rst:679
 msgid "When Treacherous Blessing enters the battlefield, draw three cards."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz trzy karty."
 
 #: ../../TBD.rst:681
 msgid "Whenever you cast a spell, you lose 1 life."
-msgstr ""
+msgstr "Ilekroć rzucisz czar, strać 1 życie."
 
 #: ../../TBD.rst:683
 msgid ""
 "When Treacherous Blessing becomes the target of a spell or ability, "
 "sacrifice it."
-msgstr ""
+msgstr "Kiedy ten urok zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../TBD.rst:692
 msgid ""
@@ -1921,12 +2070,16 @@ msgid ""
 "you may exile a creature or enchantment card from your graveyard. If you do, "
 "create a 2/2 black Zombie creature token."
 msgstr ""
+"I, II — Umieść trzy wierzchnie karty twojej biblioteki w twoim cmentarzu. "
+"Następnie możesz wygnać kartę stwora lub uroku z twojego cmentarza. Jeśli "
+"tak zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../TBD.rst:691
 msgid ""
 "III — You gain X life and scry X, where X is the number of Zombies you "
 "control."
 msgstr ""
+"III — Zyskaj X żyć i wróż X, gdzie X jest liczbą Zombich pod twoim władaniem."
 
 #: ../../TBD.rst:698
 msgid ""
@@ -1950,6 +2103,8 @@ msgid ""
 "|mana_1|\\ |mana_b|: Exile up to two target cards from graveyards. You gain "
 "1 life for each creature card exiled this way."
 msgstr ""
+"|mana_1|\\ |mana_b|: Wygnaj co najwyżej dwie wskazane karty z cmentarzy. "
+"Zyskaj 1 życie za każdą kartę stwora wygnaną w ten sposób."
 
 #: ../../TBD.rst:706
 msgid ""
@@ -1960,7 +2115,7 @@ msgstr ""
 
 #: ../../TBD.rst:701
 msgid "Underworld Charger can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../TBD.rst:703
 msgid ""
@@ -1986,6 +2141,7 @@ msgid ""
 "Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that "
 "player."
 msgstr ""
+"Ilekroć przeciwnik dobiera kartę, ten urok zadaje owemu graczowi 1 obrażenie."
 
 #: ../../TBD.rst:716
 msgid ""
@@ -1999,6 +2155,8 @@ msgid ""
 "When Venomous Hierophant enters the battlefield, put the top three cards of "
 "your library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../TBD.rst:726
 msgid ""
@@ -2012,10 +2170,11 @@ msgid ""
 "When Woe Strider enters the battlefield, create a 0/1 white Goat creature "
 "token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Koza 0/1."
 
 #: ../../TBD.rst:721
 msgid "Sacrifice another creature: Scry 1."
-msgstr ""
+msgstr "Poświęć innego stwora: Wróż 1."
 
 #: ../../TBD.rst:723
 msgid ""
@@ -2042,16 +2201,20 @@ msgid ""
 "I — Gain control of target creature for as long as The Akroan War remains on "
 "the battlefield."
 msgstr ""
+"I — Zyskaj władanie nad wskazanym stworem na czas pozostawania tego uroku na "
+"polu walki."
 
 #: ../../TBD.rst:733
 msgid ""
 "II — Until your next turn, creatures your opponents control attack each "
 "combat if able."
 msgstr ""
+"II — Do twojej następnej tury stwory pod władaniem twoich przeciwników "
+"atakują w każdej walce, jeśli mogą."
 
 #: ../../TBD.rst:735
 msgid "III — Each tapped creature deals damage to itself equal to its power."
-msgstr ""
+msgstr "III — Każdy przekręcony stwór zadaje sobie obrażenia równe swojej sile."
 
 #: ../../TBD.rst:742
 msgid ""
@@ -2075,6 +2238,10 @@ msgid ""
 "red Satyr creature token with \"This creature can't block.\" If the creature "
 "had power 4 or greater, create two of those tokens instead."
 msgstr ""
+"Ilekroć ten lub inny nieżetonowy stwór pod twoim władaniem umrze, stwórz "
+"żeton czerwonego stwora Satyr 1/1 ze zdolnością \"Ten stwór nie może "
+"blokować.\" Jeśli ów stwór miał siłę 4 lub większą, zamiast tego stwórz dwa "
+"takie żetony."
 
 #: ../../TBD.rst:746
 msgid ""
@@ -2088,6 +2255,8 @@ msgid ""
 "Whenever you cast your first spell during each opponent's turn, put a +1/+1 "
 "counter on Arena Trickster."
 msgstr ""
+"Ilekroć rzucisz swój pierwszy czar w turze każdego z przeciwników, umieść "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../TBD.rst:756
 msgid ""
@@ -2101,10 +2270,12 @@ msgid ""
 "When Aspect of Manticore enters the battlefield, enchanted creature gains "
 "first strike until end of turn."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, zauroczony stwór zyskuje do końca tury "
+"pierwszy cios."
 
 #: ../../TBD.rst:755
 msgid "Enchanted creature gets +2/+0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+0."
 
 #: ../../TBD.rst:762
 msgid ""
@@ -2116,7 +2287,7 @@ msgstr ""
 #: ../../TBD.rst:759
 msgid ""
 "Whenever you sacrifice a permanent, put a +1/+1 counter on Blood Aspirant."
-msgstr ""
+msgstr "Ilekroć poświęcisz permanent, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../TBD.rst:761
 msgid ""
@@ -2124,6 +2295,8 @@ msgid ""
 "Aspirant deals 1 damage to target creature. That creature can't block this "
 "turn."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|, poświęć stwora lub urok: Ten stwór zadaje "
+"wskazanemu stworowi 1 obrażenie. Ów stwór nie może blokować w tej turze."
 
 #: ../../TBD.rst:766
 msgid ""
@@ -2137,6 +2310,8 @@ msgid ""
 "When Careless Celebrant dies, it deals 2 damage to target creature or "
 "planeswalker an opponent controls."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje wskazanemu władanemu przez przeciwnika "
+"stworowi lub wędrowcowi 2 obrażenia."
 
 #: ../../TBD.rst:770
 msgid ""
@@ -3033,6 +3208,10 @@ msgid ""
 "card from among them and put that card into your hand. Put the rest on the "
 "bottom of your library in a random order."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, spójrz "
+"na trzy wierzchnie karty twojej biblioteki. Możesz ujawnić spośród nich "
+"kartę lądu i umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej "
+"biblioteki w losowej kolejności."
 
 #: ../../TBD.rst:1098
 msgid ""
@@ -3046,6 +3225,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under you "
 "control, you gain 2 life."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, zyskaj "
+"2 życia."
 
 #: ../../TBD.rst:1108
 msgid ""
@@ -3257,6 +3438,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, put a +1/+1 counter on Setessan Champion and draw a card."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, umieść "
+"znacznik +1/+1 na tym stworze i dobierz kartę."
 
 #: ../../TBD.rst:1184
 msgid ""
@@ -3287,6 +3470,8 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, Setessan Skirmisher gets +1/+1 until end of turn."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, ten "
+"stwór dostaje do końca tury +1/+1."
 
 #: ../../TBD.rst:1196
 msgid ""
@@ -3594,6 +3779,8 @@ msgid ""
 "control, put a +1/+1 counter on target creature. That creature gains flying "
 "until end of turn."
 msgstr ""
+"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, umieść "
+"znacznik +1/+1 na wskazanym stworze. Ów stwór dostaje do końca tury latanie."
 
 #: ../../TBD.rst:1298
 msgid ""
