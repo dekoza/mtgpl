@@ -2,13 +2,14 @@
 # Copyright (C) 2013-2019, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-17 22:16+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-18 20:13+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tbd/"
 "pl/>\n"
 "Language: pl\n"
@@ -2327,6 +2328,11 @@ msgid ""
 "library until you reveal a nonland permanent card. Put that card onto the "
 "battlefield and the rest on the bottom of your library in a random order."
 msgstr ""
+"Na początku twojego kroku końcowego możesz zapłacić |mana_2|\\ |mana_r| i "
+"poświęć nielądowy permanent. Jeśli tak zrobisz, ujawniaj karty z wierzchu "
+"twojej biblioteki dopóki nie ujawnisz karty nielądowego permanentu. Umieść "
+"tę kartę na polu walki, a pozostałem na spodzie twojej biblioteki w losowej "
+"kolejności."
 
 #: ../../TBD.rst:774
 msgid ""
@@ -2340,6 +2346,8 @@ msgid ""
 "Whenever you cast your first spell during each opponent's turn, Dreamstalker "
 "Manticore deals 1 damage to any target."
 msgstr ""
+"Ilekroć rzucisz swój pierwszy czar w turze każdego z przeciwników, ten stwór "
+"zadaje 1 obrażenie w dowolnie wskazany cel."
 
 #: ../../TBD.rst:782
 msgid ""
@@ -2350,7 +2358,7 @@ msgstr ""
 
 #: ../../TBD.rst:779
 msgid "Enchanted creature gets +1/+0 and has haste."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+0 i ma pośpiech."
 
 #: ../../TBD.rst:781
 msgid ""
@@ -2369,7 +2377,7 @@ msgstr ""
 
 #: ../../TBD.rst:785
 msgid "Fateful End deals 3 damage to any target. Scry 1."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia w dowolnie wskazany cel. Wróż 1."
 
 #: ../../TBD.rst:792
 msgid ""
@@ -2382,11 +2390,11 @@ msgstr ""
 msgid ""
 "As an additional cost to cast this spell, sacrifice a creature or "
 "enchantment."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../TBD.rst:791
 msgid "Final Flare deals 5 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../TBD.rst:798
 msgid ""
@@ -2397,13 +2405,15 @@ msgstr ""
 
 #: ../../TBD.rst:795 ../../TBD.rst:981 ../../TBD.rst:997 ../../TBD.rst:1095
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../TBD.rst:797
 msgid ""
 "Whenever two or more creatures your opponents control attack, Flummoxed "
 "Cyclops can't block this combat."
 msgstr ""
+"Ilekroć co najmniej dwa stwory pod władaniem twoich przeciwników atakują, "
+"ten stwór nie może blokować w tej walce."
 
 #: ../../TBD.rst:802
 msgid ""
@@ -2418,6 +2428,9 @@ msgid ""
 "greater, exile the top card of your library. You may play that card until "
 "you exile another card with Furious Rise."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz stworem o sile 4 lub "
+"większej, wygnaj wierzchnią kartę twojej biblioteki. Możesz zagrać tę kartę "
+"do czasu wygnania kolejnej karty w ten sposób."
 
 #: ../../TBD.rst:806
 msgid ""
@@ -2431,6 +2444,8 @@ msgid ""
 "Whenever you cast a spell that targets Hero of the Games, creatures you "
 "control get +1/+0 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar wskazujący na tego stwora, stwory pod twoim władaniem "
+"dostają do końca tury +1/+0."
 
 #: ../../TBD.rst:812
 msgid ""
@@ -2444,12 +2459,16 @@ msgid ""
 "When Heroes of the Revel enters the battlefield, create a 1/1 red Satyr "
 "creature token with \"This creature can't block.\""
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton czerwonego stwora Satyr "
+"1/1 ze zdolnością \"Ten stwór nie może blokować.\""
 
 #: ../../TBD.rst:811
 msgid ""
 "Whenever you cast a spell that targets Heroes of the Revel, creatures you "
 "control get +1/+0 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar wskazujący na tego stwora, stwory pod twoim władaniem "
+"dostają do końca tury +1/+0."
 
 #: ../../TBD.rst:820
 msgid ""
@@ -2460,13 +2479,15 @@ msgstr ""
 
 #: ../../TBD.rst:817
 msgid "Enchanted creature gets +3/+3 and attacks each combat if able."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3 i atakuje w każdej walce jeśli może."
 
 #: ../../TBD.rst:819
 msgid ""
 "When enchanted creature dies, Impending Doom deals 3 damage to that "
 "creature's controller."
 msgstr ""
+"Kiedy zauroczony stwór umrze, ten urok zadaje władcy owego stwora 3 "
+"obrażenia."
 
 #: ../../TBD.rst:826
 msgid ""
@@ -2477,13 +2498,15 @@ msgstr ""
 
 #: ../../TBD.rst:823
 msgid "|mana_1|\\ |mana_r|: Incendiary Oracle gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../TBD.rst:825
 msgid ""
 "If a creature dealt damage by Incendiary Oracle this turn would die, exile "
 "it instead."
 msgstr ""
+"Jeśli stwór, który otrzymał w tej turze obrażenia od niniejszego stwora "
+"miałby umrzeć, zamiast tego wygnaj go."
 
 #: ../../TBD.rst:830
 msgid ""
@@ -2508,6 +2531,8 @@ msgid ""
 "When Iroas's Blessing enters the battlefield, it deals 4 damage to target "
 "creature or planeswalker an opponent controls."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, zadaje 4 obrażenia wskazanemu stworowi "
+"lub wędrowcowi pod władaniem przeciwnika."
 
 #: ../../TBD.rst:846
 msgid ""
@@ -2518,15 +2543,15 @@ msgstr ""
 
 #: ../../TBD.rst:841
 msgid "When Irreverent Revelers enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
 
 #: ../../TBD.rst:843 ../../TBD.rst:1171
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../TBD.rst:845
 msgid "Irreverent Revelers gains haste until end of turn."
-msgstr ""
+msgstr "Ten stwór zyskuje do końca tury pośpiech."
 
 #: ../../TBD.rst:848
 msgid ""
@@ -2547,10 +2572,12 @@ msgid ""
 "When Omen of the Forge enters the battlefield, it deals 2 damage to any "
 "target."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, zadaje 2 obrażenia w dowolnie wskazany "
+"cel."
 
 #: ../../TBD.rst:857
 msgid "|mana_2|\\ |mana_r|, Sacrifice Omen of the Forge: Scry 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|, poświęć ten urok: Wróż 2."
 
 #: ../../TBD.rst:862
 msgid ""
@@ -2561,7 +2588,7 @@ msgstr ""
 
 #: ../../TBD.rst:861
 msgid "|mana_2|\\ |mana_r|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|, odrzuć kartę: Dobierz kartę."
 
 #: ../../TBD.rst:870
 msgid ""
@@ -2575,6 +2602,8 @@ msgid ""
 "When Ox of Agonas enters the battlefield, discard your hand, then draw three "
 "cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, odrzuć twoją rękę, następnie dobierz "
+"trzy karty."
 
 #: ../../TBD.rst:867
 msgid ""
@@ -2597,11 +2626,11 @@ msgstr ""
 
 #: ../../TBD.rst:873
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../TBD.rst:875
 msgid "|mana_2|\\ |mana_r|: Phoenix of Ash gets +2/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../TBD.rst:877
 msgid ""
@@ -2650,7 +2679,7 @@ msgstr ""
 
 #: ../../TBD.rst:891
 msgid "Other creatures you control have haste."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają pośpiech."
 
 #: ../../TBD.rst:893
 msgid ""
@@ -2658,6 +2687,9 @@ msgid ""
 "card from your hand onto the battlefield. Sacrifice it at the beginning of "
 "the next end step."
 msgstr ""
+"|mana_2|\\ |mana_r|: Możesz umieścić kartę czerwonego stwora lub "
+"artefaktycznego stwora z twojej ręki na polu walki. Poświęć go na początku "
+"najbliższego kroku końcowego."
 
 #: ../../TBD.rst:902
 msgid ""
@@ -2671,12 +2703,15 @@ msgid ""
 "Create an X/1 red Elemental creature token with trample and haste. Sacrifice "
 "it at the beginning of the next end step."
 msgstr ""
+"Stwórz żeton czerwonego stwora Żywiołak X/1 z tratowaniem i pośpiechem. "
+"Poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../TBD.rst:901
 msgid ""
 "Purphoros's Intervention deals twice X damage to target creature or "
 "planeswalker."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi dwukrotność X obrażeń."
 
 #: ../../TBD.rst:908
 msgid ""
@@ -2689,6 +2724,8 @@ msgstr ""
 msgid ""
 "Create a 1/1 red Satyr creature token with \"This creature can't block.\""
 msgstr ""
+"Stwórz żeton czerwonego stwora Satyr 1/1 ze zdolnością \"Ten stwór nie może "
+"blokować.\""
 
 #: ../../TBD.rst:907
 msgid ""
@@ -2707,7 +2744,7 @@ msgstr ""
 
 #: ../../TBD.rst:911
 msgid "|mana_1|: Skophos Maze-Warden gets +1/-1 until the end of turn."
-msgstr ""
+msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../TBD.rst:913
 msgid ""
@@ -2715,6 +2752,10 @@ msgid ""
 "control named Labyrinth of Skophos, you may have Skophos Maze-Warden fight "
 "that creature. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Ilekroć inny stwór zostanie wskazany przez zdolność władanego przez ciebie "
+"lądu o nazwie Labyrinth of Skophos, możesz sprawić, że niniejszy stwór "
+"zawalczy z owym stworem. (Każdy z nich zada drugiemu obrażenia równe swojej "
+"sile.)"
 
 #: ../../TBD.rst:918
 msgid ""
@@ -2729,6 +2770,9 @@ msgid ""
 "+1/+0 and gains menace until end of turn. (It can't be blocked except by two "
 "or more creatures.)"
 msgstr ""
+"|mana_r|, poświęć innego stwora lub urok: Ten stwór dostaje do końca tury +1/"
+"+0 oraz złowrogość. (Nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../TBD.rst:924
 msgid ""
@@ -2739,13 +2783,15 @@ msgstr ""
 
 #: ../../TBD.rst:921 ../../TBD.rst:1111 ../../TBD.rst:1133 ../../TBD.rst:1389
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../TBD.rst:923
 msgid ""
 "At the beginning of each combat, if you control a creature with power 4 or "
 "greater, Stampede Rider gets +1/+1 until end of turn."
 msgstr ""
+"Na początku każdej walki, jeśli władasz stworem o sile 4 lub większej, "
+"niniejszy stwór dostaje do końca tury +1/+1."
 
 #: ../../TBD.rst:930
 msgid ""
@@ -2756,7 +2802,7 @@ msgstr ""
 
 #: ../../TBD.rst:927 ../../TBD.rst:1293
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../TBD.rst:929
 msgid ""
@@ -2766,6 +2812,11 @@ msgid ""
 "would leave the battlefield, exile them instead of putting them anywhere "
 "else."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć dowolną liczbę kart Aury z "
+"twojego cmentarza na pole walki dołączając je do stworów pod twoim "
+"władaniem. Wygnaj owe Aury na początku twojego najbliższego kroku końcowego. "
+"Jeśli owe Aury miałyby opuścić pole wali, wygnaj je zamiast umieszczać je "
+"gdziekolwiek indziej."
 
 #: ../../TBD.rst:934
 msgid ""
@@ -2776,7 +2827,7 @@ msgstr ""
 
 #: ../../TBD.rst:933
 msgid "Storm's Wrath deals 4 damage to each creature and each planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu wędrowcowi po 4 obrażenia."
 
 #: ../../TBD.rst:942
 msgid ""
@@ -2790,16 +2841,20 @@ msgid ""
 "Whenever Tectonic Giant attacks or becomes the target of a spell an opponent "
 "controls, choose one —"
 msgstr ""
+"Ilekroć ten stwór atakuje lub zostaje wskazany przez czar pod władaniem "
+"przeciwnika, wybierz jedno —"
 
 #: ../../TBD.rst:939
 msgid "Tectonic Giant deals 3 damage to each opponent."
-msgstr ""
+msgstr "Ten stwór zadaje każdemu przeciwnikowi po 3 obrażenia."
 
 #: ../../TBD.rst:941
 msgid ""
 "Exile the top two cards of your library. Choose one of them. Until the end "
 "of your next turn, you may play that card."
 msgstr ""
+"Wygnaj dwie wierzchnie karty twojej biblioteki. Wybierz jedną z nich. Możesz "
+"zagrać ową kartę do końca twojej następnej tury."
 
 #: ../../TBD.rst:948
 msgid ""
@@ -2810,11 +2865,11 @@ msgstr ""
 
 #: ../../TBD.rst:945
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../TBD.rst:947
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../TBD.rst:956
 msgid ""
@@ -2828,12 +2883,17 @@ msgid ""
 "I, II, III — Until end of turn, target creature gains trample and gets +X/"
 "+0, where X is the number of lore counters on The Triumph of Anax."
 msgstr ""
+"I, II, III — Do końca tury wskazany stwór dostaje tratowanie oraz +X/+0, "
+"gdzie X jest liczbą znaczników opowieści na tym uroku."
 
 #: ../../TBD.rst:955
 msgid ""
 "IV — Target creature you control fights up to one target creature you don't "
 "control. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"IV — Wskazany stwór pod twoim władaniem walczy z co najwyżej jednym "
+"wskazanym stworem poza twoim władaniem. (Każdy z nich zadaje drugiemu "
+"obrażenia równe swojej sile.)"
 
 #: ../../TBD.rst:962
 msgid ""
@@ -2854,7 +2914,7 @@ msgstr ""
 
 #: ../../TBD.rst:961
 msgid "At the beginning of the end step, sacrifice Underworld Breach."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć ten urok."
 
 #: ../../TBD.rst:966
 msgid ""
@@ -2868,6 +2928,9 @@ msgid ""
 "Underworld Fires deals 1 damage to each creature and each planeswalker. If a "
 "permanent dealt damage this way would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje po 1 obrażeniu każdemu stworowi i wędrowcowi. Jeśli "
+"permanent, który otrzymał w ten sposób obrażenia miałby umrzeć w tej turze, "
+"zamiast tego wygnaj go."
 
 #: ../../TBD.rst:974
 msgid ""
@@ -2878,7 +2941,7 @@ msgstr ""
 
 #: ../../TBD.rst:969
 msgid "Underworld Rage-Hound attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce jeśli może."
 
 #: ../../TBD.rst:971
 msgid ""
@@ -2904,6 +2967,8 @@ msgid ""
 "Wrap in Flames deals 1 damage to each of up to three target creatures. Those "
 "creatures can't block this turn."
 msgstr ""
+"Ten czar zadaje po 1 obrażeniu każdemu z co najwyżej trzech wskazanych "
+"stworów. Owe stworą nie mogą blokować w tej turze."
 
 #: ../../TBD.rst:984
 msgid ""
@@ -2917,6 +2982,8 @@ msgid ""
 "Whenever an opponent casts an instant or sorcery spell, create a 1/2 green "
 "Spider creature token with reach."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar sztuczki lub obrzędu, stwórz żeton zielonego "
+"stwora Pająk 1/2 z zasięgiem."
 
 #: ../../TBD.rst:994
 msgid ""
@@ -2930,17 +2997,23 @@ msgid ""
 "I — Each player puts the top three cards of their library into their "
 "graveyard."
 msgstr ""
+"I — Każdy gracz umieszcza trzy wierzchnie karty swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../TBD.rst:991
 msgid ""
 "II — Exile up to two target cards from graveyards. For each creature card "
 "exiled this way, you gain 1 life."
 msgstr ""
+"II — Wygnaj co najwyżej dwie wskazane karty z cmentarzy. Za każdą kartę "
+"stwora wygnaną w ten sposób, zyskaj 1 życie."
 
 #: ../../TBD.rst:993
 msgid ""
 "III — Return target creature or land card from your graveyard to your hand."
 msgstr ""
+"III — Przywróć wskazaną kartę stwora lub lądu z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../TBD.rst:1004
 msgid ""
@@ -2954,6 +3027,8 @@ msgid ""
 "When Chainweb Aracnir enters the battlefield, it deals damage equal to its "
 "power to target creature with flying an opponent controls."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi z lataniem pod władaniem przeciwnika."
 
 #: ../../TBD.rst:1001
 msgid ""
@@ -2977,7 +3052,7 @@ msgstr ""
 
 #: ../../TBD.rst:1007
 msgid "Creature and enchantment spells you control can't be countered."
-msgstr ""
+msgstr "Czary stworów i uroków pod twoim władaniem nie mogą być skontrowane."
 
 #: ../../TBD.rst:1009
 msgid ""
@@ -2985,6 +3060,9 @@ msgid ""
 "creature with trample and haste until end of turn, where X is the number of "
 "enchantments you control. It's still a land."
 msgstr ""
+"|mana_3|\\ |mana_g|: Wskazany ląd pod twoim władaniem staje się do końca "
+"tury stworem Żywiołak X/X z tratowaniem i pośpiechem, gdzie X jest liczbą "
+"uroków pod twoim władaniem. Nadal jest lądem."
 
 #: ../../TBD.rst:1016
 msgid ""
@@ -2995,12 +3073,14 @@ msgstr ""
 
 #: ../../TBD.rst:1013
 msgid "You may play an additional land on each of your turns."
-msgstr ""
+msgstr "Możesz grać dodatkowy ląd w każdej z twoich tur."
 
 #: ../../TBD.rst:1015
 msgid ""
 "Lands you control are every basic land type in addition to their other types."
 msgstr ""
+"Lądy pod twoim władaniem mają każdy bazowy typ lądu oprócz swoich "
+"pozostałych typów."
 
 #: ../../TBD.rst:1028
 msgid ""
@@ -3011,20 +3091,21 @@ msgstr ""
 
 #: ../../TBD.rst:1021
 msgid "I — Create a 1/1 white Human Soldier token."
-msgstr ""
+msgstr "I — Stwórz żeton białego stwora Człowiek Piechur 1/1."
 
 #: ../../TBD.rst:1023
 msgid "II — Put three +1/+1 counters on target creature you control."
 msgstr ""
+"II — Umieść trzy znaczniki +1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../TBD.rst:1025
 msgid ""
 "III — If you control a creature with power 4 or greater, draw two cards."
-msgstr ""
+msgstr "III — Jeśli władasz stworem o sile 4 lub większej, dobierz dwie karty."
 
 #: ../../TBD.rst:1027
 msgid "IV — Create a Gold token."
-msgstr ""
+msgstr "IV — Stwórz żeton Złota."
 
 #: ../../TBD.rst:1032
 msgid ""
@@ -3049,12 +3130,16 @@ msgid ""
 "When Hydra's Growth enters the battlefield, put a +1/+1 counter on enchanted "
 "creature."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, umieść znacznik +1/+1 na zauroczonym "
+"stworze."
 
 #: ../../TBD.rst:1039
 msgid ""
 "At the beginning of your upkeep, double the number of +1/+1 counters on "
 "enchanted creature."
 msgstr ""
+"Na początku twojego kroku utrzymania, podwój liczbę znaczników +1/+1 na "
+"zauroczonym stworze."
 
 #: ../../TBD.rst:1044
 msgid ""
@@ -3065,7 +3150,7 @@ msgstr ""
 
 #: ../../TBD.rst:1043
 msgid "When Hyrax Tower Scout enters the battlefield, untap target creature."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, odkręć wskazanego stwora."
 
 #: ../../TBD.rst:1048
 msgid ""
@@ -3079,6 +3164,8 @@ msgid ""
 "|tap|: Add one mana of any color. If you control a creature with power 4 or "
 "greater, add two mana of any one color instead."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Jeśli władasz stworem o sile 4 lub "
+"większej, zamiast tego weź dwie many jednego dowolnego koloru."
 
 #: ../../TBD.rst:1052
 msgid ""
@@ -3092,6 +3179,9 @@ msgid ""
 "Prevent all combat damage that would be dealt this turn except by enchanted "
 "creatures and enchantment creatures. Scry 2."
 msgstr ""
+"Zażegnaj wszystkie bojowe obrażenia, które mogłyby zostać zadane w tej "
+"turze, z wyjątkiem tych zadanych przez zauroczone stwory lub stwory-uroki. "
+"Wróż 2."
 
 #: ../../TBD.rst:1056
 msgid ""
@@ -3145,6 +3235,8 @@ msgid ""
 "When Mantle of the Wolf is put into a graveyard from the battlefield, create "
 "two 2/2 green Wolf creature tokens."
 msgstr ""
+"Kiedy ten urok zostanie umieszczony w cmentarzu z pola walki, stwórz dwa "
+"żetony zielonego stwora Wilk 2/2."
 
 #: ../../TBD.rst:1074
 msgid ""
@@ -3162,7 +3254,7 @@ msgstr ""
 
 #: ../../TBD.rst:1077
 msgid "Put target enchantment on the bottom of its owner's library."
-msgstr ""
+msgstr "Umieść wskazany urok na spodzie biblioteki jego właściciela."
 
 #: ../../TBD.rst:1084
 msgid ""
@@ -3173,13 +3265,15 @@ msgstr ""
 
 #: ../../TBD.rst:1081
 msgid "All creatures able to block Nessian Boar do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować tego stwora, robią to."
 
 #: ../../TBD.rst:1083
 msgid ""
 "Whenever Nessian Boar becomes blocked by a creature, that creature's "
 "controller draws a card."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany przez stwora, władca owego stwora "
+"dobiera kartę."
 
 #: ../../TBD.rst:1088
 msgid ""
@@ -3193,6 +3287,8 @@ msgid ""
 "At the beginning of combat on your turn, if you control another creature "
 "with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle."
 msgstr ""
+"Na początku walki w twojej turze, jeśli władasz innym stworem o sile 4 lub "
+"większej, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../TBD.rst:1092
 msgid ""
@@ -3250,6 +3346,9 @@ msgid ""
 "|mana_2|\\ |mana_g|: Reveal the top card of your library. If it's a creature "
 "card, put it into your hand. Otherwise, you may put it into your graveyard."
 msgstr ""
+"|mana_2|\\ |mana_g|: Ujawnij wierzchnią kartę twojej biblioteki. Jeśli jest "
+"to karta stwora, umieść ją w twojej ręce. W przeciwnym razie możesz umieścić "
+"ją w twoim cmentarzu."
 
 #: ../../TBD.rst:1114
 msgid ""
@@ -3260,7 +3359,7 @@ msgstr ""
 
 #: ../../TBD.rst:1113
 msgid "Other creature you control have trample."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
 #: ../../TBD.rst:1118
 msgid ""
@@ -3293,10 +3392,12 @@ msgid ""
 "Search your library for up to X land cards, reveal them, put them into your "
 "hand, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej X kart lądów, ujawnij je, umieść w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../TBD.rst:1125
 msgid "Nylea's Intervention deals twice X damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z lataniem dwukrotność X obrażeń."
 
 #: ../../TBD.rst:1130
 msgid ""
@@ -3311,6 +3412,8 @@ msgid ""
 "enchantment creature you control gets +1/+1 and gains trample until end of "
 "turn."
 msgstr ""
+"Na początku walki w twojej turze, wskazany zauroczony stwór lub stwór-urok "
+"pod twoim władaniem dostaje do końca tury +1/+1 oraz tratowanie."
 
 #: ../../TBD.rst:1136
 msgid ""
@@ -3324,6 +3427,8 @@ msgid ""
 "If you tap a permanent for mana, it produces three times as much of that "
 "mana instead."
 msgstr ""
+"Jeśli przekręcisz permanent biorąc manę, zamiast tego produkuje on "
+"trzykrotność tej many."
 
 #: ../../TBD.rst:1138
 msgid ""
@@ -3345,10 +3450,13 @@ msgid ""
 "for a basic land card, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu walki, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../TBD.rst:1147
 msgid "|mana_2|\\ |mana_g|, Sacrifice Omen of the Hunt: Scry 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|, poświęć ten urok: Wróż 2."
 
 #: ../../TBD.rst:1152
 msgid ""
@@ -3363,6 +3471,9 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, walczy z co najwyżej jednym wskazanym "
+"stworem poza twoim władaniem. (Każdy z nich zadaje drugiemu obrażenia równe "
+"swojej sile.)"
 
 #: ../../TBD.rst:1156
 msgid ""
@@ -3388,6 +3499,9 @@ msgid ""
 "or land card from among them into your hand. Put the rest into your "
 "graveyard."
 msgstr ""
+"Ujawnij cztery wierzchnie karty twojej biblioteki. Możesz umieścić spośród "
+"nich kartę stwora i/lub kartę lądu w twojej ręce. Umieść pozostałe w twoim "
+"cmentarzu."
 
 #: ../../TBD.rst:1166
 msgid ""
@@ -3410,6 +3524,8 @@ msgid ""
 "Each other creature you control enters the battlefield with an additional +1/"
 "+1 counter on it."
 msgstr ""
+"Każdy inny stwór pod twoim władaniem wchodzi na pole walki z dodatkowym "
+"znacznikiem +1/+1."
 
 #: ../../TBD.rst:1176
 msgid ""
@@ -3420,11 +3536,11 @@ msgstr ""
 
 #: ../../TBD.rst:1173
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../TBD.rst:1175
 msgid "Exile target card from a graveyard."
-msgstr ""
+msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
 
 #: ../../TBD.rst:1180
 msgid ""
@@ -3482,11 +3598,11 @@ msgstr ""
 
 #: ../../TBD.rst:1193
 msgid "When Setessan Training enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../TBD.rst:1195
 msgid "Enchanted creature gets +1/+0 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+0 i ma tratowanie."
 
 #: ../../TBD.rst:1202
 msgid ""
@@ -3500,11 +3616,15 @@ msgid ""
 "Whenever a land card is put into your graveyard from anywhere, you gain 1 "
 "life."
 msgstr ""
+"Ilekroć karta lądu zostanie umieszczona skądkolwiek w twoim cmentarzu, "
+"zyskaj 1 życie."
 
 #: ../../TBD.rst:1201
 msgid ""
 "|mana_2|\\ |mana_g|: Put the top card of your library into your graveyard."
 msgstr ""
+"|mana_2|\\ |mana_g|: Umieść wierzchnią kartę twojej biblioteki w twoim "
+"cmentarzu."
 
 #: ../../TBD.rst:1208
 msgid ""
@@ -3539,10 +3659,13 @@ msgid ""
 "to one target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, zauroczony stwór walczy z co najwyżej "
+"jednym wskazanym stworem poza twoim władaniem. (Każdy z nich zadaje drugiemu "
+"obrażenia równe swojej sile.)"
 
 #: ../../TBD.rst:1215
 msgid "Enchanted creature gets +0/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +0/+2."
 
 #: ../../TBD.rst:1224
 msgid ""
@@ -3560,12 +3683,16 @@ msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional |mana_g|."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"bierze dodatkowo |mana_g|."
 
 #: ../../TBD.rst:1223
 msgid ""
 "|mana_4|\\ |mana_g|, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf "
 "creature token. Activate this ability only during your turn."
 msgstr ""
+"|mana_4|\\ |mana_g|, poświęć ten urok: Stwórz żeton zielonego stwora Wilk 2/"
+"2. Możesz aktywować tę zdolność tylko w twojej turze."
 
 #: ../../TBD.rst:1228
 msgid ""
