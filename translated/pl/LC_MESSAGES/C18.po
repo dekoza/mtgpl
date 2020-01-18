@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-12 20:28+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-18 20:13+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c18/"
 "pl/>\n"
 "Language: pl\n"
@@ -2859,6 +2860,8 @@ msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional |mana_g|."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"bierze dodatkowo |mana_g|."
 
 #: ../../C18.rst:998
 msgid ""
