@@ -2,6 +2,11 @@
 ***********
 Spis zmian
 ***********
+
+2020-01-19
+    * Theros: Beyond Death - 100%
+    * Throne of Eldraine - 60%
+
 2020-01-12
     * Throne of Eldraine - 50%
     * Theros: Beyond Death - 25%
