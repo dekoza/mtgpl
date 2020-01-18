@@ -4,13 +4,14 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-13 12:47+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-18 23:41+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c15/"
 "pl/>\n"
 "Language: pl\n"
@@ -935,7 +936,7 @@ msgstr ""
 
 #: ../../C15.rst:335 ../../C15.rst:1711
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../C15.rst:337 ../../C15.rst:341 ../../C15.rst:1445 ../../C15.rst:1553
 #: ../../C15.rst:1597 ../../C15.rst:1617 ../../C15.rst:1623 ../../C15.rst:1675
