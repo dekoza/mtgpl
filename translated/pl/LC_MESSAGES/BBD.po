@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-12 20:28+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-18 20:13+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bbd/"
 "pl/>\n"
 "Language: pl\n"
@@ -2783,6 +2784,8 @@ msgid ""
 "Wrap in Flames deals 1 damage to each of up to three target creatures. Those "
 "creatures can't block this turn."
 msgstr ""
+"Ten czar zadaje po 1 obrażeniu każdemu z co najwyżej trzech wskazanych "
+"stworów. Owe stworą nie mogą blokować w tej turze."
 
 #: ../../BBD.rst:1006
 msgid ""
