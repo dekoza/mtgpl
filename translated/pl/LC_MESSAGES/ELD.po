@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: 2020-01-18 22:01+0000\n"
+"PO-Revision-Date: 2020-01-18 22:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
 "pl/>\n"
@@ -21,8 +21,9 @@ msgstr ""
 "X-Generator: Weblate 3.10.1\n"
 
 #: ../../ELD.rst:5
+#, fuzzy
 msgid ":mtgexp:`ELD` Throne of Eldraine"
-msgstr ""
+msgstr ":mtgexp:`ELD` Throne of Eldraine"
 
 #: ../../ELD.rst:10
 msgid ""
@@ -41,8 +42,8 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym Rycerzem, spójrz "
 "na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród nich "
 "kartę Rycerza, Aury, Wyposażenia lub legendarnego artefaktu i umieścić ją w "
-"twojej dłoni. Umieść pozostałe w losowej kolejności na spodzie twojej "
-"biblioteki."
+"twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w losowej "
+"kolejności."
 
 #: ../../ELD.rst:16
 msgid ""
@@ -109,7 +110,7 @@ msgid ""
 "Adamant — If at least three white mana was spent to cast this spell, "
 "Ardenvale Paladin enters the battlefield with a +1/+1 counter on it."
 msgstr ""
-"Nieugięty - Jeśli na rzucenie tego czaru wydano co najmniej trzy białe many, "
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy białe many, "
 "ten stwór wchodzi na pole walki ze znacznikiem +1/+1."
 
 #: ../../ELD.rst:32
@@ -146,9 +147,9 @@ msgid ""
 "When Bartered Cow dies or when you discard it, create a Food token. (It's an "
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór umrze lub zostanie odrzucony z ręki, stwórz żeton Jedzenia. "
-"(Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: "
-"Zyskujesz 3 życia.\""
+"Kiedy ten stwór umrze lub zostanie odrzucony z ręki, stwórz żeton Jedzenia. ("
+"Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: "
+"Zyskaj 3 życia.\""
 
 #: ../../ELD.rst:46
 msgid ""
@@ -290,7 +291,7 @@ msgid ""
 "3 life.\")"
 msgstr ""
 "Kiedy ten urok wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
 "życia.\")"
 
 #: ../../ELD.rst:92
@@ -458,6 +459,8 @@ msgid ""
 "an additional +1/+1 counter on it. (It doesn't need to have gone on the "
 "adventure first.)"
 msgstr ""
+"Każdy stwór pod twoim władaniem mający Przygodę wchodzi na pole walki mając "
+"dodatkowy znacznik +1/+1. (Nie musiał wcześniej przejść przygody.)"
 
 #: ../../ELD.rst:148
 msgid ""
@@ -471,6 +474,8 @@ msgid ""
 "Outflank deals damage to target attacking or blocking creature equal to the "
 "number of creatures you control."
 msgstr ""
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi obrażenia "
+"równe liczbie stworów pod twoim władaniem."
 
 #: ../../ELD.rst:152
 msgid ""
@@ -488,13 +493,15 @@ msgstr ""
 
 #: ../../ELD.rst:155
 msgid "Create two 1/1 white Human creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Człowiek 1/1."
 
 #: ../../ELD.rst:157
 msgid ""
 "Adamant — If at least three white mana was spent to cast this spell, you "
 "gain 1 life for each creature you control."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy białe many, "
+"zyskaj po 1 życiu za każdego stwora pod twoim władaniem."
 
 #: ../../ELD.rst:162
 msgid ""
@@ -598,6 +605,8 @@ msgid ""
 "Adamant — If at least three white mana was spent to cast this spell, "
 "creatures you control gain vigilance until end of turn."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy białe many, "
+"stwory pod twoim władaniem zyskują do końca tury czujność."
 
 #: ../../ELD.rst:196
 msgid ""
@@ -1257,6 +1266,9 @@ msgid ""
 "Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this "
 "artifact: You gain 3 life.\")"
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy niebieskie "
+"many, stwórz żeton Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, "
+"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:450
 msgid ""
@@ -1273,6 +1285,8 @@ msgstr ""
 msgid ""
 "Adamant — If at least three blue mana was spent to cast this spell, scry 3."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy niebieskie "
+"many, wróż 3."
 
 #: ../../ELD.rst:460
 msgid ""
@@ -1382,7 +1396,7 @@ msgid ""
 "mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 "Zniszcz wskazanego stwora. Stwórz żeton Jedzenia. (Jest to artefakt ze "
-"zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 życia.\")"
+"zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:492
 msgid ""
@@ -1498,6 +1512,8 @@ msgid ""
 "Adamant — If at least three black mana was spent to cast this spell, put the "
 "top four cards of your library into your graveyard."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy czarne "
+"many, umieść cztery wierzchnie karty twojej biblioteki w twoim cmentarzu."
 
 #: ../../ELD.rst:529
 msgid ""
@@ -1583,6 +1599,9 @@ msgid ""
 "a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this "
 "artifact: You gain 3 life.\")"
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy czarne "
+"many, stwórz żeton Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, "
+"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:564
 msgid ""
@@ -1642,7 +1661,7 @@ msgid ""
 msgstr ""
 "Ilekroć wyposażony stwór zada stworowi obrażenia bojowe, stwórz żeton "
 "Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten "
-"artefakt: Zyskujesz 3 życia.\")"
+"artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:584
 msgid ""
@@ -1667,6 +1686,8 @@ msgid ""
 "Adamant — If at least three black mana was spent to cast this spell, "
 "Locthwain Paladin enters the battlefield with a +1/+1 counter on it."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy czarne "
+"many, ten stwór wchodzi na pole walki mając znacznik +1/+1."
 
 #: ../../ELD.rst:594
 msgid ""
@@ -1951,7 +1972,7 @@ msgid ""
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
 "życia.\")"
 
 #: ../../ELD.rst:689
@@ -2176,6 +2197,8 @@ msgid ""
 "Adamant — If at least three red mana was spent to cast this spell, Embereth "
 "Paladin enters the battlefield with a +1/+1 counter on it."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy czerwone "
+"many, ten stwór wchodzi na pole wali mając znacznik +1/+1."
 
 #: ../../ELD.rst:768
 msgid ""
@@ -2487,6 +2510,8 @@ msgid ""
 "Adamant — If at least three red mana was spent to cast this spell, Searing "
 "Barrage deals 3 damage to that creature's controller."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy czerwone "
+"many, ten czar zadaje 3 obrażenia władcy owego stwora."
 
 #: ../../ELD.rst:874
 msgid ""
@@ -2534,6 +2559,8 @@ msgid ""
 "Adamant — If at least three red mana was spent to cast this spell, it deals "
 "4 damage instead."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy czerwone "
+"many, zamiast tego zadaje 4 obrażenia."
 
 #: ../../ELD.rst:888
 msgid ""
@@ -2659,7 +2686,7 @@ msgid ""
 msgstr ""
 "Stwórz żeton Jedzenia. (Następnie wygnaj tę kartę. Możesz później rzucić z "
 "niej stwora z wygnania. Żeton Jedzenia to artefakt ze zdolnością \"|mana_2|, "
-"|tap|, poświęć ten artefakt: Zyskujesz 3 życia.\")"
+"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:928
 msgid ""
@@ -2691,6 +2718,9 @@ msgid ""
 "hand, create three Food tokens. (They're artifacts with \"|mana_2|, |tap|, "
 "Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli rzuciłeś go z twojej ręki, "
+"stwórz trzy żetony Jedzenia. (Są to artefakty ze zdolnością \"|mana_2|, |tap|"
+", poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:935
 msgid ""
@@ -2713,7 +2743,7 @@ msgid ""
 msgstr ""
 "Ten czar zadaje 5 obrażeń wskazanemu stworowi z lataniem. Stwórz żeton "
 "Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten "
-"artefakt: Zyskujesz 3 życia.\")"
+"artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:946
 msgid ""
@@ -2733,7 +2763,7 @@ msgid ""
 "\")"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
 "życia.\")"
 
 #: ../../ELD.rst:950
@@ -2798,6 +2828,8 @@ msgid ""
 "Adamant — If at least three green mana was spent to cast this spell, "
 "Garenbrig Paladin enters the battlefield with a +1/+1 counter on it."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy zielone "
+"many, ten stwór wchodzi na pole walki mając znacznik +1/+1."
 
 #: ../../ELD.rst:967
 msgid "Garenbrig Paladin can't be blocked by creatures with power 2 or less."
@@ -2832,7 +2864,7 @@ msgid ""
 msgstr ""
 "Możesz poświęcić dwa Jedzenia. Jeśli to zrobisz, stwórz żeton zielonego "
 "stwora Gigant 7/7. W przeciwnym razie stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
 "życia.\")"
 
 #: ../../ELD.rst:986
@@ -2848,7 +2880,7 @@ msgid ""
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
 "życia.\")"
 
 #: ../../ELD.rst:983
@@ -3000,6 +3032,8 @@ msgid ""
 "Adamant — If at least three green mana was spent to cast this spell, instead "
 "return those cards to your hand and exile Once and Future."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy zielone "
+"many, zamiast tego przywróć owe karty do twojej ręki i wygnaj ten czar."
 
 #: ../../ELD.rst:1042
 msgid ""
@@ -3040,6 +3074,8 @@ msgid ""
 "Adamant — If at least three green mana was spent to cast this spell, the "
 "creature you control gains indestructible until end of turn."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy zielone "
+"many, ów stwór pod twoim władaniem zyskuje do końca tury niezniszczalność."
 
 #: ../../ELD.rst:1058
 msgid ""
@@ -3202,7 +3238,7 @@ msgid ""
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 "Kiedy ten urok wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
 "życia.\")"
 
 #: ../../ELD.rst:1111
@@ -3299,8 +3335,8 @@ msgid ""
 "Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 "Stwórz trzy żetony zielonego stwora Knur 1/1 ze zdolnością \"Kiedy ten stwór "
-"umrze, stwórz żeton Jedzenia.\" (Żeton Jedzenia to artefakt ze zdolnością \"|"
-"mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 życia.\")"
+"umrze, stwórz żeton Jedzenia.\" (Żeton Jedzenia to artefakt ze zdolnością \""
+"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:1148
 msgid ""
@@ -3515,8 +3551,8 @@ msgid ""
 "+2: Create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice "
 "this artifact: You gain 3 life.\")"
 msgstr ""
-"+2: Stwórz żeton Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |"
-"tap|, poświęć ten artefakt: Zyskujesz 3 życia.\")"
+"+2: Stwórz żeton Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|"
+", poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:1221
 msgid ""
@@ -3593,7 +3629,7 @@ msgid ""
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 "Ilekroć ten stwór atakuje lub blokuje, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz 3 "
+"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
 "życia.\")"
 
 #: ../../ELD.rst:1247
@@ -3845,6 +3881,8 @@ msgid ""
 "Adamant — When Clockwork Servant enters the battlefield, if at least three "
 "mana of the same color was spent to cast it, draw a card."
 msgstr ""
+"Nieugięty — Kiedy ten stwór wejdzie na pole walki, jeśli na jego rzucenie "
+"wydano przynajmniej trzy many tego samego koloru, dobierz kartę."
 
 #: ../../ELD.rst:1348
 msgid ""
@@ -3924,6 +3962,8 @@ msgid ""
 "Adamant — If at least three mana of the same color was spent to cast this "
 "spell, Henge Walker enters the battlefield with a +1/+1 counter on it."
 msgstr ""
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy many tego "
+"samego koloru, ten stwór wchodzi na pole walki mając znacznik +1/+1."
 
 #: ../../ELD.rst:1382
 msgid ""
@@ -4148,7 +4188,7 @@ msgstr ""
 "|tap|, poświęć stwora: Stwórz żeton Jedzenia. Jeśli wytrzymałość "
 "poświęconego stwora wynosiła 4 lub więcej, zamiast tego stwórz dwa żetony "
 "Jedzenia. (Są to artefakty ze zdolnością \"|mana_2|, |tap|, poświęć ten "
-"artefakt: Zyskujesz 3 życia.\")"
+"artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:1464
 msgid ""
@@ -4315,8 +4355,8 @@ msgid ""
 "3 life.\")"
 msgstr ""
 "Kiedy ten ląd wejdzie odkręcony na pole walki, stwórz żeton Jedzenia. (Jest "
-"to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskujesz "
-"3 życia.\")"
+"to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
+"życia.\")"
 
 #: ../../ELD.rst:1524
 msgid ""
@@ -4741,6 +4781,9 @@ msgid ""
 "(They're artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain "
 "3 life.\")"
 msgstr ""
+"Każdy gracz poświęca po trzy stwory. Stwórz trzy żetony Jedzenia. (Są to "
+"artefakty ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
+"życia.\")"
 
 #: ../../ELD.rst:1690
 msgid ""
@@ -4862,6 +4905,9 @@ msgid ""
 "equal to the number of opponents you have. (Food tokens are artifacts with "
 "\"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów Jedzenia, ilu "
+"masz przeciwników. (Żetony Jedzenia są artefaktami ze zdolnością \"|mana_2|, "
+"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:1731
 msgid ""
