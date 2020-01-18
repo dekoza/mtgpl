@@ -131,7 +131,7 @@
    When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
 
 
-:mtgtip:`Heliod's Punishment<https://img.scryfall.com/cards/border_crop/front/3/b/3b8e6878-06aa-4505-b3a5-172083b7d258.jpg?1578670123|https://scryfall.com/card/thb/21/heliods-punishment?utm_source=api>`
+:mtgtip:`Heliod's Punishment<https://img.scryfall.com/cards/border_crop/front/3/b/3b8e6878-06aa-4505-b3a5-172083b7d258.jpg?1579246219|https://scryfall.com/card/thb/21/heliods-punishment?utm_source=api>`
    Enchant creature
 
    Heliod's Punishment enters the battlefield with four task counters on it.
@@ -261,8 +261,8 @@
    This spell costs |mana_1| less to cast for each enchantment you control.
 
 
-:mtgtip:`Callaphe, Beloved of the Sea<https://img.scryfall.com/cards/border_crop/front/c/5/c5d433f2-0a3b-4f45-83a3-ed600a6d10b1.jpg?1578349265|https://scryfall.com/card/thb/45/callaphe-beloved-of-the-sea?utm_source=api>`
-   Callaphe's power is equal to your to devotion to blue. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)
+:mtgtip:`Callaphe, Beloved of the Sea<https://img.scryfall.com/cards/border_crop/front/c/5/c5d433f2-0a3b-4f45-83a3-ed600a6d10b1.jpg?1578994896|https://scryfall.com/card/thb/45/callaphe-beloved-of-the-sea?utm_source=api>`
+   Callaphe's power is equal to your devotion to blue. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)
 
    Creatures and enchantments you control have "Spells your opponents cast that target this permanent cost |mana_1| more to cast".
 
@@ -371,8 +371,8 @@
    At the beginning of your upkeep, return up to one other target enchantment you control to its owner's hand.
 
 
-:mtgtip:`Shoal Kraken<https://img.scryfall.com/cards/border_crop/front/e/c/ec538182-efba-48d0-91ad-457461b44748.jpg?1578223388|https://scryfall.com/card/thb/65/shoal-kraken?utm_source=api>`
-   Constellation — Whenever an enchantment enters the battlefield under your control, you may a draw card. If you do, discard a card.
+:mtgtip:`Shoal Kraken<https://img.scryfall.com/cards/border_crop/front/e/c/ec538182-efba-48d0-91ad-457461b44748.jpg?1578997361|https://scryfall.com/card/thb/65/shoal-kraken?utm_source=api>`
+   Constellation — Whenever an enchantment enters the battlefield under your control, you may draw a card. If you do, discard a card.
 
 
 :mtgtip:`Sleep of the Dead<https://img.scryfall.com/cards/border_crop/front/4/0/4007572b-a6c8-4a56-b1a7-ff099189c9c0.jpg?1578670636|https://scryfall.com/card/thb/66/sleep-of-the-dead?utm_source=api>`
@@ -455,7 +455,7 @@
    Constellation — Whenever an enchantment enters the battlefield under your control, Triton Waverider gains flying until end of turn.
 
 
-:mtgtip:`Vexing Gull<https://img.scryfall.com/cards/border_crop/front/8/6/869fee23-df75-448d-9fca-6ba6713d459f.jpg?1578187679|https://scryfall.com/card/thb/79/vexing-gull?utm_source=api>`
+:mtgtip:`Vexing Gull<https://img.scryfall.com/cards/border_crop/front/8/6/869fee23-df75-448d-9fca-6ba6713d459f.jpg?1579277713|https://scryfall.com/card/thb/79/vexing-gull?utm_source=api>`
    Flash
 
    Flying
@@ -561,8 +561,8 @@
    Escape—|mana_3|\ |mana_b|, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 
 
-:mtgtip:`Funeral Rites<https://img.scryfall.com/cards/border_crop/front/3/0/30aa6796-0cb6-426b-9e3f-4d7e4959a6a4.jpg?1578664659|https://scryfall.com/card/thb/97/funeral-rites?utm_source=api>`
-   You draw two cards, lose 2 life, and put the top two cards of your library into your graveyard,
+:mtgtip:`Funeral Rites<https://img.scryfall.com/cards/border_crop/front/3/0/30aa6796-0cb6-426b-9e3f-4d7e4959a6a4.jpg?1578997112|https://scryfall.com/card/thb/97/funeral-rites?utm_source=api>`
+   You draw two cards, lose 2 life, and put the top two cards of your library into your graveyard.
 
 
 :mtgtip:`Gravebreaker Lamia<https://img.scryfall.com/cards/border_crop/front/4/0/408a2073-d068-44bc-b596-5a3a3a446ee1.jpg?1578792175|https://scryfall.com/card/thb/98/gravebreaker-lamia?utm_source=api>`
@@ -1087,8 +1087,8 @@
    At the beginning of combat on your turn, if you control another creature with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle.
 
 
-:mtgtip:`Nessian Wanderer<https://img.scryfall.com/cards/border_crop/front/5/0/50d50576-c3ee-479a-8533-6c147f5cb1c4.jpg?1578611062|https://scryfall.com/card/thb/183/nessian-wanderer?utm_source=api>`
-   Constellation — Whenever an enchantment enters the battelfield under your control, look at the top three cards of your library. You may reveal a land card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.
+:mtgtip:`Nessian Wanderer<https://img.scryfall.com/cards/border_crop/front/5/0/50d50576-c3ee-479a-8533-6c147f5cb1c4.jpg?1578907592|https://scryfall.com/card/thb/183/nessian-wanderer?utm_source=api>`
+   Constellation — Whenever an enchantment enters the battlefield under your control, look at the top three cards of your library. You may reveal a land card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.
 
 
 :mtgtip:`Nexus Wardens<https://img.scryfall.com/cards/border_crop/front/6/8/68cb4e56-bcad-43a3-8600-a3594047205a.jpg?1578667229|https://scryfall.com/card/thb/184/nexus-wardens?utm_source=api>`
@@ -1107,10 +1107,10 @@
    |mana_2|\ |mana_g|: Reveal the top card of your library. If it's a creature card, put it into your hand. Otherwise, you may put it into your graveyard.
 
 
-:mtgtip:`Nylea's Forerunner<https://img.scryfall.com/cards/border_crop/front/2/c/2cf2b6be-80a8-4464-a909-8cc658196a14.jpg?1578667367|https://scryfall.com/card/thb/186/nyleas-forerunner?utm_source=api>`
+:mtgtip:`Nylea's Forerunner<https://img.scryfall.com/cards/border_crop/front/2/c/2cf2b6be-80a8-4464-a909-8cc658196a14.jpg?1578997043|https://scryfall.com/card/thb/186/nyleas-forerunner?utm_source=api>`
    Trample
 
-   Other creature you control have trample.
+   Other creatures you control have trample.
 
 
 :mtgtip:`Nylea's Huntmaster<https://img.scryfall.com/cards/border_crop/front/2/a/2a4fe89a-0d2b-493f-883e-a1e0b0918340.jpg?1578676281|https://scryfall.com/card/thb/187/nyleas-huntmaster?utm_source=api>`
@@ -1207,7 +1207,7 @@
    Voracious Typhon escapes with three +1/+1 counters on it.
 
 
-:mtgtip:`Warbriar Blessing<https://img.scryfall.com/cards/border_crop/front/1/1/11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed.jpg?1578673270|https://scryfall.com/card/thb/204/warbriar-blessing?utm_source=api>`
+:mtgtip:`Warbriar Blessing<https://img.scryfall.com/cards/border_crop/front/1/1/11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed.jpg?1579302943|https://scryfall.com/card/thb/204/warbriar-blessing?utm_source=api>`
    Enchant creature you control
 
    When Warbriar Blessing enters the battlefield, enchanted creature fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)
@@ -1449,7 +1449,7 @@
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Traveler's Amulet<https://img.scryfall.com/cards/border_crop/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1578671045|https://scryfall.com/card/thb/240/travelers-amulet?utm_source=api>`
+:mtgtip:`Traveler's Amulet<https://img.scryfall.com/cards/border_crop/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1579018335|https://scryfall.com/card/thb/240/travelers-amulet?utm_source=api>`
    |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
 
