@@ -23,7 +23,7 @@ Tłumaczenie dodatków
 Nadchodzące
 ------------
 
-* :mtgexp:`TBD` :doc:`Theros: Beyond Death<TBD>` |p25|
+* :mtgexp:`TBD` :doc:`Theros: Beyond Death<TBD>` |p75|
 
 
 Standard
