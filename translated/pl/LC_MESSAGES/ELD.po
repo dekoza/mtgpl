@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: 2020-01-18 22:48+0000\n"
+"PO-Revision-Date: 2020-01-18 23:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
 "pl/>\n"
@@ -576,10 +576,12 @@ msgid ""
 "When Shining Armor enters the battlefield, attach it to target Knight you "
 "control."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego Rycerza "
+"pod twoim władaniem."
 
 #: ../../ELD.rst:185
 msgid "Equipped creature gets +0/+2 and has vigilance."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +0/+2 i ma czujność."
 
 #: ../../ELD.rst:187 ../../ELD.rst:343 ../../ELD.rst:579 ../../ELD.rst:1263
 msgid ""
@@ -598,7 +600,7 @@ msgstr ""
 
 #: ../../ELD.rst:191
 msgid "Put a +1/+1 counter on each creature you control."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../ELD.rst:193
 msgid ""
@@ -646,6 +648,8 @@ msgid ""
 "Whenever Syr Alin, the Lion's Claw attacks, other creatures you control get "
 "+1/+1 until end of turn."
 msgstr ""
+"Kiedy ten stwór atakuje, inne stwory pod twoim władaniem dostają do końca "
+"tury +1/+1."
 
 #: ../../ELD.rst:214
 msgid ""
@@ -692,6 +696,8 @@ msgstr ""
 msgid ""
 "When Venerable Knight dies, put a +1/+1 counter on target Knight you control."
 msgstr ""
+"Kiedy ten stwór umrze, umieść znacznik +1/+1 na wskazanym Rycerzu pod twoim "
+"władaniem."
 
 #: ../../ELD.rst:228
 msgid ""
@@ -703,7 +709,7 @@ msgstr ""
 #: ../../ELD.rst:227
 msgid ""
 "Whenever you cast a Knight spell, create a 1/1 white Human creature token."
-msgstr ""
+msgstr "Ilekroć rzucasz czar Rycerza, stwórz żeton białego stwora Człowiek 1/1."
 
 #: ../../ELD.rst:232
 msgid ""
@@ -731,6 +737,8 @@ msgid ""
 "Target noncreature artifact you control becomes a 0/0 artifact creature. Put "
 "four +1/+1 counters on it."
 msgstr ""
+"Wskazany nie będący stworem artefakt pod twoim władaniem staje się "
+"artefaktycznym stworem 0/0. Umieść na nim cztery znaczniki +1/+1."
 
 #: ../../ELD.rst:248
 msgid ""
@@ -741,7 +749,7 @@ msgstr ""
 
 #: ../../ELD.rst:247
 msgid "Brazen Borrower can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../ELD.rst:252
 msgid ""
@@ -754,6 +762,8 @@ msgstr ""
 msgid ""
 "Return target nonland permanent an opponent controls to its owner's hand."
 msgstr ""
+"Przywróć wskazany nielądowy permanent pod władaniem przeciwnika do ręki "
+"właściciela."
 
 #: ../../ELD.rst:260
 msgid ""
@@ -764,11 +774,11 @@ msgstr ""
 
 #: ../../ELD.rst:257
 msgid "When Charmed Sleep enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../ELD.rst:259
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../ELD.rst:264
 msgid ""
@@ -782,6 +792,8 @@ msgid ""
 "When Corridor Monitor enters the battlefield, untap target artifact or "
 "creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, odkręć wskazany artefakt lub stwora "
+"pod twoim władaniem."
 
 #: ../../ELD.rst:268
 msgid ""
@@ -795,6 +807,8 @@ msgid ""
 "Counter target spell. Its controller puts the top three cards of their "
 "library into their graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jego władca umieszcza trzy wierzchnie karty swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../ELD.rst:276
 msgid ""
@@ -806,18 +820,25 @@ msgstr ""
 #: ../../ELD.rst:271
 msgid "This spell costs |mana_1| less to cast for each artifact you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy artefakt pod twoim "
+"władaniem."
 
 #: ../../ELD.rst:273
 msgid ""
 "When Emry, Lurker of the Loch enters the battlefield, put the top four cards "
 "of your library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść cztery wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../ELD.rst:275
 msgid ""
 "|tap|: Choose target artifact card in your graveyard. You may cast that card "
 "this turn. (You still pay its costs. Timing rules still apply.)"
 msgstr ""
+"|tap|: Wskaż kartę artefaktu w twoim cmentarzu. Możesz zagrać ową kartę w "
+"tej turze. (Nadal musisz zapłacić jej koszty. Reguły dotyczące czasu "
+"zagrywania wciąż są w mocy.)"
 
 #: ../../ELD.rst:282
 msgid ""
@@ -831,6 +852,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, Discard two cards: Return Fae of Wishes to its owner's "
 "hand."
 msgstr ""
+"|mana_1|\\ |mana_u|, odrzuć dwie karty: Przywróć tego stwora do ręki "
+"właściciela."
 
 #: ../../ELD.rst:286
 msgid ""
@@ -844,6 +867,8 @@ msgid ""
 "You may choose a noncreature card you own from outside the game, reveal it, "
 "and put it into your hand."
 msgstr ""
+"Możesz wybrać własną kartę nie będącą stworem spoza gry, ujawnić ją i "
+"umieścić w twojej ręce."
 
 #: ../../ELD.rst:294
 msgid ""
@@ -857,6 +882,8 @@ msgid ""
 "Whenever you draw your second card each turn, put a +1/+1 counter on Faerie "
 "Vandal."
 msgstr ""
+"Ilekroć dobierzesz drugą kartę w każdej z tur, umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../ELD.rst:302
 msgid ""
@@ -867,11 +894,11 @@ msgstr ""
 
 #: ../../ELD.rst:297
 msgid "Players have no maximum hand size."
-msgstr ""
+msgstr "Gracznie nie mają limitu kart na ręce."
 
 #: ../../ELD.rst:299
 msgid "|mana_x|\\ |mana_x|, |tap|: Each player draws X cards."
-msgstr ""
+msgstr "|mana_x|\\ |mana_x|, |tap|: Każdy gracz dobiera X kart."
 
 #: ../../ELD.rst:301
 msgid ""
@@ -879,6 +906,8 @@ msgid ""
 "the number of cards in their hand from the top of their library into their "
 "graveyard."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|: Każdy przeciwnik umieszcza w swoim cmentarzu "
+"tyle kart z wierzchu swojej biblioteki, ile ma kart na ręce."
 
 #: ../../ELD.rst:308
 msgid ""
@@ -892,6 +921,8 @@ msgid ""
 "Enchanted creature loses all abilities and is a blue Frog creature with base "
 "power and toughness 1/1. (It loses all other card types and creature types.)"
 msgstr ""
+"Zauroczony stwór traci wszystkie zdolności i jest niebieskim stworem Żaba o "
+"bazowej sile i wytrzymałości 1/1. (Traci wszystkie inne typy kart i stwora.)"
 
 #: ../../ELD.rst:314
 msgid ""
@@ -902,13 +933,15 @@ msgstr ""
 
 #: ../../ELD.rst:311
 msgid "When Gadwick, the Wizened enters the battlefield, draw X cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz X kart."
 
 #: ../../ELD.rst:313
 msgid ""
 "Whenever you cast a blue spell, tap target nonland permanent an opponent "
 "controls."
 msgstr ""
+"Ilekroć rzucisz niebieski czar, przekręć wskazany nielądowy permanent pod "
+"władaniem przeciwnika."
 
 #: ../../ELD.rst:318
 msgid ""
@@ -944,10 +977,12 @@ msgid ""
 "This spell costs |mana_3| less to cast if an opponent has seven or more "
 "cards in their graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli przeciwnik ma "
+"przynajmniej siedem kart w swoim cmentarzu."
 
 #: ../../ELD.rst:327
 msgid "Draw four cards."
-msgstr ""
+msgstr "Dobierz cztery karty."
 
 #: ../../ELD.rst:336
 msgid ""
@@ -961,16 +996,21 @@ msgid ""
 "This spell costs |mana_1| less to cast for each instant and sorcery card in "
 "your graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą kartę sztuczki lub "
+"obrzędu w twoim cmentarzu."
 
 #: ../../ELD.rst:333
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../ELD.rst:335
 msgid ""
 "At the beginning of your upkeep, put a knowledge counter on The Magic "
 "Mirror, then draw a card for each knowledge counter on The Magic Mirror."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik wiedzy na tym "
+"artefakcie, następnie dobierz kartę za każdy znacznik wiedzy na tym "
+"artefakcie."
 
 #: ../../ELD.rst:344
 msgid ""
@@ -981,13 +1021,15 @@ msgstr ""
 
 #: ../../ELD.rst:339
 msgid "Equipped creature gets +1/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+2."
 
 #: ../../ELD.rst:341
 msgid ""
 "Whenever you draw your second card each turn, attach Mantle of Tides to "
 "target creature you control."
 msgstr ""
+"Ilekroć dobierzesz drugą kartę w każdej z tur, dołącz ten artefakt do "
+"wskazanego stwora pod twoim władaniem."
 
 #: ../../ELD.rst:346
 msgid ""
@@ -1021,21 +1063,26 @@ msgstr ""
 
 #: ../../ELD.rst:355 ../../ELD.rst:1493
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../ELD.rst:357
 msgid "|mana_2|\\ |mana_u|: Put an hour counter on Midnight Clock."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Umieść znacznik godziny na tym artefakcie."
 
 #: ../../ELD.rst:359
 msgid "At the beginning of each upkeep, put an hour counter on Midnight Clock."
 msgstr ""
+"Na początku każdego kroku utrzymania umieść znacznik godziny na tym "
+"artefakcie."
 
 #: ../../ELD.rst:361
 msgid ""
 "When the twelfth hour counter is put on Midnight Clock, shuffle your hand "
 "and graveyard into your library, then draw seven cards. Exile Midnight Clock."
 msgstr ""
+"Kiedy dwunasty znacznik godziny zostanie umieszczony na tym artefakcie, "
+"wtasuj swoją rękę i cmentarz do twojej biblioteki, następnie dobierz siedem "
+"kart. Wygnaj ten artefakt."
 
 #: ../../ELD.rst:366
 msgid ""
@@ -1049,6 +1096,8 @@ msgid ""
 "You may have Mirrormade enter the battlefield as a copy of any artifact or "
 "enchantment on the battlefield."
 msgstr ""
+"Możesz sprawić, że ten urok wejdzie na pole walki jako kopia dowolnego "
+"artefaktu lub stwora na polu walki."
 
 #: ../../ELD.rst:370
 msgid ""
@@ -1062,6 +1111,8 @@ msgid ""
 "Whenever Mistford River Turtle attacks, another target attacking non-Human "
 "creature can't be blocked this turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany atakujący stwór nie będący "
+"Człowiekiem nie może być blokowany w tej turze."
 
 #: ../../ELD.rst:374
 msgid ""
@@ -1076,6 +1127,8 @@ msgid ""
 "or enchantment, return target creature an opponent controls to its owner's "
 "hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz artefaktem lub urokiem, "
+"przywróć wskazanego stwora pod władaniem przeciwnika do ręki właściciela."
 
 #: ../../ELD.rst:380
 msgid ""
@@ -1087,10 +1140,11 @@ msgstr ""
 #: ../../ELD.rst:377
 msgid "This spell costs |mana_2| less to cast if it targets a blue spell."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje niebieski czar."
 
 #: ../../ELD.rst:379
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../ELD.rst:386
 msgid ""
@@ -1104,6 +1158,8 @@ msgid ""
 "Scry 1. (Look at the top card of your library. You may put that card on the "
 "bottom of your library.)"
 msgstr ""
+"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
+"spodzie twojej biblioteki.)"
 
 #: ../../ELD.rst:390
 msgid ""
@@ -1119,6 +1175,11 @@ msgid ""
 "at the top two cards of your library, then put any number of them on the "
 "bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik umieszcza dwie "
+"wierzchnie karty swojej biblioteki w swoim cmentarzu. Następnie wróż 2. ("
+"Spójrz na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolne "
+"z nich na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../ELD.rst:394
 msgid ""
@@ -1132,6 +1193,8 @@ msgid ""
 "Whenever Queen of Ice deals combat damage to a creature, tap that creature. "
 "It doesn't untap during its controller's next untap step."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia bojowe, przekręć owego stwora. Nie "
+"okręci się on w następnej turze odkręcania swojego władcy."
 
 #: ../../ELD.rst:398
 msgid ""
@@ -1161,6 +1224,8 @@ msgid ""
 "Choose two target creatures controlled by different players. Return those "
 "creatures to their owners' hands."
 msgstr ""
+"Wskaż dwa stwory władane przez różnych graczy. Przywróć owe stwory do rąk "
+"właścicieli."
 
 #: ../../ELD.rst:406
 msgid ""
@@ -1175,6 +1240,9 @@ msgid ""
 "battlefield under your control, you may draw a card. If you do, discard a "
 "card."
 msgstr ""
+"Ilekroć ten stwór lub inny stwór nie będący Człowiekiem wejdzie na pole "
+"walki pod twoim władaniem, możesz dobrać kartę. Jeśli tak zrobisz, odrzuć "
+"kartę."
 
 #: ../../ELD.rst:414
 msgid ""
@@ -1188,6 +1256,8 @@ msgid ""
 "Enchanted creature gets -2/-0. It gets -6/-0 instead as long as its "
 "controller has seven or more cards in their graveyard."
 msgstr ""
+"Zauroczony stwór dostaje -2/-0. Zamiast tego dostaje -6/-0 o ile jego władca "
+"ma co najmniej siedem kart w swoim cmentarzu."
 
 #: ../../ELD.rst:420
 msgid ""
@@ -1201,6 +1271,8 @@ msgid ""
 "Whenever you draw your second card each turn, Steelgaze Griffin gets +2/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć dobierzesz drugą kartę w każdej z tur, ten stwór dostaje do końca "
+"tury +2/+0."
 
 #: ../../ELD.rst:424
 msgid ""
@@ -1214,6 +1286,8 @@ msgid ""
 "Return target creature with converted mana cost X to its owner's hand. You "
 "create X 1/1 blue Faerie creature tokens with flying."
 msgstr ""
+"Przywróć wskazanego stwora o skróconym koszcie many X do ręki właściciela. "
+"Stwórz X żetonów niebieskiego stwora Wróżka 1/1 z lataniem."
 
 #: ../../ELD.rst:432
 msgid ""
@@ -1226,17 +1300,19 @@ msgstr ""
 msgid ""
 "Syr Elenora, the Discerning's power is equal to the number of cards in your "
 "hand."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie kart w twojej ręce."
 
 #: ../../ELD.rst:429
 msgid "When Syr Elenora enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../ELD.rst:431
 msgid ""
 "Spells your opponents cast that target Syr Elenora cost |mana_2| more to "
 "cast."
 msgstr ""
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
+"|mana_2| więcej."
 
 #: ../../ELD.rst:438
 msgid ""
@@ -1247,7 +1323,7 @@ msgstr ""
 
 #: ../../ELD.rst:437
 msgid "When Tome Raider enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../ELD.rst:444
 msgid ""
@@ -1259,6 +1335,7 @@ msgstr ""
 #: ../../ELD.rst:441
 msgid "Return target nonland permanent to its owner's hand. Draw a card."
 msgstr ""
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Dobierz kartę."
 
 #: ../../ELD.rst:443
 msgid ""
@@ -1279,7 +1356,7 @@ msgstr ""
 
 #: ../../ELD.rst:447
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../ELD.rst:449
 msgid ""
@@ -1300,16 +1377,21 @@ msgid ""
 "Vantress Gargoyle can't attack unless defending player has seven or more "
 "cards in their graveyard."
 msgstr ""
+"Ten stwór nie może atakować dopóki broniący się gracz nie ma co najmniej "
+"siedem kart w swoim cmentarzu."
 
 #: ../../ELD.rst:457
 msgid ""
 "Vantress Gargoyle can't block unless you have four or more cards in hand."
 msgstr ""
+"Ten stwór nie może blokować jeśli nie masz przynajmniej czterech kart w ręce."
 
 #: ../../ELD.rst:459
 msgid ""
 "|tap|: Each player puts the top card of their library into their graveyard."
 msgstr ""
+"|tap|: Każdy gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../ELD.rst:466
 msgid ""
@@ -1346,6 +1428,8 @@ msgid ""
 "|mana_1|\\ |mana_u|: Wishful Merfolk loses defender and becomes a Human "
 "until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_u|: Ten stwór traci obronność i do końca tury staje się "
+"Człowiekiem."
 
 #: ../../ELD.rst:478
 msgid ""
@@ -1360,10 +1444,13 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ELD.rst:477
 msgid "|mana_3|\\ |mana_u|, Sacrifice Witching Well: Draw two cards."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../ELD.rst:484
 msgid ""
@@ -1378,10 +1465,12 @@ msgid ""
 "battlefield under your control, each opponent loses 1 life and you gain 1 "
 "life."
 msgstr ""
+"Ilekroć ten stwór lub inny czarny stwór wejdzie na pole walki pod twoim "
+"władaniem, każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../ELD.rst:483
 msgid "|tap|, Sacrifice another black creature: Draw a card."
-msgstr ""
+msgstr "|tap|, poświęć innego stwora: Dobierz kartę."
 
 #: ../../ELD.rst:488
 msgid ""
@@ -1410,6 +1499,8 @@ msgid ""
 "When Barrow Witches enters the battlefield, return target Knight card from "
 "your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę Rycerza z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../ELD.rst:498
 msgid ""
@@ -1422,12 +1513,16 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
+"dwa stwory.)"
 
 #: ../../ELD.rst:497
 msgid ""
 "Whenever Belle of the Brawl attacks, other Knights you control get +1/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inni Rycerze pod twoim władaniem dostają do końca "
+"tury +1/+0."
 
 #: ../../ELD.rst:504
 msgid ""
@@ -1441,6 +1536,8 @@ msgid ""
 "When Blacklance Paragon enters the battlefield, target Knight gains "
 "deathtouch and lifelink until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany Rycerz zyskuje do końca tury "
+"dotyk śmierci i więź życia."
 
 #: ../../ELD.rst:510
 msgid ""
@@ -1454,6 +1551,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice a Food: Target creature gets -3/-3 until end "
 "of turn."
 msgstr ""
+"|mana_2|\\ |mana_b|, poświęć Jedzenie: Wskazany stwór dostaje do końca tury "
+"-3/-3."
 
 #: ../../ELD.rst:516
 msgid ""
@@ -1467,12 +1566,14 @@ msgid ""
 "When Cauldron Familiar enters the battlefield, each opponent loses 1 life "
 "and you gain 1 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po 1 życiu, a "
+"ty zyskaj 1 życie."
 
 #: ../../ELD.rst:515
 msgid ""
 "Sacrifice a Food: Return Cauldron Familiar from your graveyard to the "
 "battlefield."
-msgstr ""
+msgstr "Poświęć Jedzenie: Przywróć tę kartę z twojego cmentarza na pole walki."
 
 #: ../../ELD.rst:524
 msgid ""
@@ -1486,12 +1587,16 @@ msgid ""
 "This spell costs |mana_2| less to cast for each creature card in your "
 "graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_2| mniej za każdą kartę stwora w twoim "
+"cmentarzu."
 
 #: ../../ELD.rst:521
 msgid ""
 "Whenever a creature you control dies, put it on the bottom of its owner's "
 "library."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem umrze, umieść go na spodzie biblioteki "
+"właściciela."
 
 #: ../../ELD.rst:523
 msgid ""
@@ -1499,6 +1604,8 @@ msgid ""
 "your graveyard to the battlefield. Activate this ability only any time you "
 "could cast a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole walki. Używaj jako obrzęd."
 
 #: ../../ELD.rst:530
 msgid ""
@@ -1520,6 +1627,8 @@ msgid ""
 "You may choose a creature card in your graveyard. If you do, return it to "
 "the battlefield with an additional +1/+1 counter on it."
 msgstr ""
+"Możesz wybrać kartę stwora w twoim cmentarzu. Jeśli tak zrobisz, przywróć ją "
+"na pole walki z dodatkowym znacznikiem +1/+1."
 
 #: ../../ELD.rst:538
 msgid ""
@@ -1530,13 +1639,15 @@ msgstr ""
 
 #: ../../ELD.rst:533 ../../ELD.rst:735
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../ELD.rst:535
 msgid ""
 "When Clackbridge Troll enters the battlefield, target opponent creates three "
 "0/1 white Goat creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik tworzy trzy "
+"żetony białego stwora Koza 0/1."
 
 #: ../../ELD.rst:537
 msgid ""
@@ -1544,6 +1655,9 @@ msgid ""
 "creature. If a player does, tap Clackbridge Troll, you gain 3 life, and you "
 "draw a card."
 msgstr ""
+"Na początku walki w twojej turze, dowolny przeciwnik może poświęcić stwora. "
+"Jeśli tak się stanie, przekręć niniejszego stwora, zyskaj 3 życia i dobierz "
+"kartę."
 
 #: ../../ELD.rst:542
 msgid ""
@@ -1554,7 +1668,7 @@ msgstr ""
 
 #: ../../ELD.rst:541
 msgid "Exile target creature with converted mana cost 3 or greater."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora o skróconym koszcie many 3 lub większym."
 
 #: ../../ELD.rst:548
 msgid ""
@@ -1568,6 +1682,8 @@ msgid ""
 "Whenever Eye Collector deals combat damage to a player, each player puts the "
 "top card of their library into their graveyard."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz umieszcza "
+"wierzchnią kartę swojej biblioteki w swoim cmentarzu."
 
 #: ../../ELD.rst:552
 msgid ""
@@ -1581,6 +1697,8 @@ msgid ""
 "Target creature gets -X/-X until end of turn, where X is the number of cards "
 "in your graveyard."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -X/-X, gdzie X jest liczbą kart w twoim "
+"cmentarzu."
 
 #: ../../ELD.rst:558
 msgid ""
@@ -1591,7 +1709,7 @@ msgstr ""
 
 #: ../../ELD.rst:555
 msgid "Target player draws two cards and loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: ../../ELD.rst:557
 msgid ""
@@ -1615,6 +1733,8 @@ msgid ""
 "Put any number of target creature cards from your graveyard on top of your "
 "library."
 msgstr ""
+"Umieść dowolną liczbę wskazanych kart stworów z twojego cmentarza na "
+"wierzchu twojej biblioteki."
 
 #: ../../ELD.rst:568
 msgid ""
@@ -1651,7 +1771,7 @@ msgstr ""
 
 #: ../../ELD.rst:575 ../../ELD.rst:1089
 msgid "Equipped creature gets +2/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../ELD.rst:577
 msgid ""
@@ -1672,7 +1792,7 @@ msgstr ""
 
 #: ../../ELD.rst:583
 msgid "Target creature gets +2/+1 and gains deathtouch until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+1 oraz dotyk śmierci."
 
 #: ../../ELD.rst:590
 msgid ""
@@ -1702,6 +1822,9 @@ msgid ""
 "of your library, then put any number of them on the bottom of your library "
 "and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ELD.rst:598
 msgid ""
@@ -1715,6 +1838,8 @@ msgid ""
 "|mana_2|, Sacrifice an artifact or another creature: Put a +1/+1 counter on "
 "Malevolent Noble."
 msgstr ""
+"|mana_2|, poświęć artefakt lub innego stwora: Umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../ELD.rst:602
 msgid ""
@@ -1729,6 +1854,9 @@ msgid ""
 "player discards that card. You may put a card that has an Adventure that "
 "player owns from exile into that player's graveyard."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądową kartę. Ów "
+"gracz odrzuca ową kartę. Możesz umieść kartę z Przygodą, którą ów gracz "
+"posiada na wygnaniu w cmentarzu owego gracza."
 
 #: ../../ELD.rst:608
 msgid ""
@@ -1739,7 +1867,7 @@ msgstr ""
 
 #: ../../ELD.rst:607
 msgid "When Murderous Rider dies, put it on the bottom of its owner's library."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, umieść go na spodzie biblioteki właściciela."
 
 #: ../../ELD.rst:612
 msgid ""
@@ -1765,11 +1893,11 @@ msgstr ""
 
 #: ../../ELD.rst:615
 msgid "Oathsworn Knight enters the battlefield with four +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając cztery znaczniki +1/+1."
 
 #: ../../ELD.rst:617
 msgid "Oathsworn Knight attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej turze, jeśli może."
 
 #: ../../ELD.rst:619
 msgid ""
