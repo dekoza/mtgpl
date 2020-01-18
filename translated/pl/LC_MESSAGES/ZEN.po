@@ -3,21 +3,23 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2019-06-25 04:31+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/zen/pl/>\n"
+"PO-Revision-Date: 2020-01-18 20:13+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/zen/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.10.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../ZEN.rst:5
@@ -2631,7 +2633,7 @@ msgstr ""
 
 #: ../../ZEN.rst:921
 msgid "You may play an additional land on each of your turns."
-msgstr ""
+msgstr "Możesz grać dodatkowy ląd w każdej z twoich tur."
 
 #: ../../ZEN.rst:923
 msgid "Play with the top card of your library revealed."
