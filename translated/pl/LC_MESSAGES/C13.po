@@ -3,21 +3,23 @@
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2019-06-23 19:54+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
+"PO-Revision-Date: 2020-01-18 23:41+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c13/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.10.1\n"
 "X-POOTLE-MTIME: 1391098867.903162\n"
 
 #: ../../C13.rst:5
@@ -1607,7 +1609,7 @@ msgstr ""
 # 1aaa6274145747ce9305e51e6b834d0b
 #: ../../C13.rst:509
 msgid "Players have no maximum hand size."
-msgstr ""
+msgstr "Gracznie nie mają limitu kart na ręce."
 
 # 0fc633f8c27843a2867c3dea54513307
 #: ../../C13.rst:511
