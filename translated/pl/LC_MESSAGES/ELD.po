@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: 2020-01-19 18:31+0000\n"
+"PO-Revision-Date: 2020-01-20 01:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
 "pl/>\n"
@@ -147,7 +147,7 @@ msgid ""
 "When Bartered Cow dies or when you discard it, create a Food token. (It's an "
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór umrze lub zostanie odrzucony z ręki, stwórz żeton Jedzenia. ("
+"Kiedy ten stwór umrze lub zostanie odrzucony z ręki, stwórz żeton Jadła. ("
 "Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: "
 "Zyskaj 3 życia.\""
 
@@ -290,9 +290,8 @@ msgid ""
 "(It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain "
 "3 life.\")"
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
-"życia.\")"
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton Jadła. (Jest to artefakt "
+"ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:92
 msgid ""
@@ -1344,8 +1343,8 @@ msgid ""
 "artifact: You gain 3 life.\")"
 msgstr ""
 "Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy niebieskie "
-"many, stwórz żeton Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, "
-"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"many, stwórz żeton Jadła. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, "
+"poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:450
 msgid ""
@@ -1484,7 +1483,7 @@ msgid ""
 "Destroy target creature. Create a Food token. (It's an artifact with \"|"
 "mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Zniszcz wskazanego stwora. Stwórz żeton Jedzenia. (Jest to artefakt ze "
+"Zniszcz wskazanego stwora. Stwórz żeton Jadła. (Jest to artefakt ze "
 "zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:492
@@ -1551,8 +1550,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice a Food: Target creature gets -3/-3 until end "
 "of turn."
 msgstr ""
-"|mana_2|\\ |mana_b|, poświęć Jedzenie: Wskazany stwór dostaje do końca tury "
-"-3/-3."
+"|mana_2|\\ |mana_b|, poświęć Jadło: Wskazany stwór dostaje do końca tury -3/"
+"-3."
 
 #: ../../ELD.rst:516
 msgid ""
@@ -1573,7 +1572,7 @@ msgstr ""
 msgid ""
 "Sacrifice a Food: Return Cauldron Familiar from your graveyard to the "
 "battlefield."
-msgstr "Poświęć Jedzenie: Przywróć tę kartę z twojego cmentarza na pole walki."
+msgstr "Poświęć Jadło: Przywróć tę kartę z twojego cmentarza na pole walki."
 
 #: ../../ELD.rst:524
 msgid ""
@@ -1718,8 +1717,8 @@ msgid ""
 "artifact: You gain 3 life.\")"
 msgstr ""
 "Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy czarne "
-"many, stwórz żeton Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, "
-"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"many, stwórz żeton Jadła. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, "
+"poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:564
 msgid ""
@@ -1779,9 +1778,9 @@ msgid ""
 "token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: "
 "You gain 3 life.\")"
 msgstr ""
-"Ilekroć wyposażony stwór zada stworowi obrażenia bojowe, stwórz żeton "
-"Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten "
-"artefakt: Zyskaj 3 życia.\")"
+"Ilekroć wyposażony stwór zada stworowi obrażenia bojowe, stwórz żeton Jadła. "
+"(Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: "
+"Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:584
 msgid ""
@@ -2118,13 +2117,12 @@ msgid ""
 "When Tempting Witch enters the battlefield, create a Food token. (It's an "
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
-"życia.\")"
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jadła. (Jest to artefakt "
+"ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:689
 msgid "|mana_2|, |tap|, Sacrifice a Food: Target player loses 3 life."
-msgstr "|mana_2|, |tap|, poświęć Jedzenie: Wskazany gracz traci 3 życia."
+msgstr "|mana_2|, |tap|, poświęć Jadło: Wskazany gracz traci 3 życia."
 
 #: ../../ELD.rst:694
 msgid ""
@@ -2911,9 +2909,9 @@ msgid ""
 "from exile. A Food token is an artifact with \"|mana_2|, |tap|, Sacrifice "
 "this artifact: You gain 3 life.\")"
 msgstr ""
-"Stwórz żeton Jedzenia. (Następnie wygnaj tę kartę. Możesz później rzucić z "
-"niej stwora z wygnania. Żeton Jedzenia to artefakt ze zdolnością \"|mana_2|, "
-"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Stwórz żeton Jadła. (Następnie wygnaj tę kartę. Możesz później rzucić z niej "
+"stwora z wygnania. Żeton Jadła to artefakt ze zdolnością \"|mana_2|, |tap|, "
+"poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:928
 msgid ""
@@ -2948,14 +2946,16 @@ msgid ""
 "Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, jeśli rzuciłeś go z twojej ręki, "
-"stwórz trzy żetony Jedzenia. (Są to artefakty ze zdolnością \"|mana_2|, |tap|"
-", poświęć ten artefakt: Zyskaj 3 życia.\")"
+"stwórz trzy żetony Jadła. (Są to artefakty ze zdolnością \"|mana_2|, |tap|, "
+"poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:935
 msgid ""
 "Sacrifice three Foods: Return Feasting Troll King from your graveyard to the "
 "battlefield. Activate this ability only during your turn."
 msgstr ""
+"Poświęć trzy sztuki Jadła: Przywróć tę kartę z twojego cmentarza na pole "
+"walki. Aktywuj tę zdolność tylko w twojej turze."
 
 #: ../../ELD.rst:940
 msgid ""
@@ -2971,7 +2971,7 @@ msgid ""
 "artifact: You gain 3 life.\")"
 msgstr ""
 "Ten czar zadaje 5 obrażeń wskazanemu stworowi z lataniem. Stwórz żeton "
-"Jedzenia. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten "
+"Jadła. (Jest to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten "
 "artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:946
@@ -2991,9 +2991,8 @@ msgid ""
 "an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life."
 "\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
-"życia.\")"
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jadła. (Jest to artefakt "
+"ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:950
 msgid ""
@@ -3007,6 +3006,8 @@ msgid ""
 "Whenever Flaxen Intruder deals combat damage to a player, you may sacrifice "
 "it. When you do, destroy target artifact or enchantment."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz go poświęcić. Kiedy "
+"to zrobisz, zniszcz wskazany artefakt lub urok."
 
 #: ../../ELD.rst:954
 msgid ""
@@ -3062,7 +3063,7 @@ msgstr ""
 
 #: ../../ELD.rst:967
 msgid "Garenbrig Paladin can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../ELD.rst:972
 msgid ""
@@ -3077,6 +3078,8 @@ msgid ""
 "gets +1/+1 until end of turn. (It doesn't need to have gone on the adventure "
 "first.)"
 msgstr ""
+"Ilekroć rzucisz czar stwora mającego Przygodę, niniejszy stwór dostaje do "
+"końca tury +1/+1. (Nie musiał najpierw odbyć przygody.)"
 
 #: ../../ELD.rst:976
 msgid ""
@@ -3091,10 +3094,9 @@ msgid ""
 "token. Otherwise, create three Food tokens. (They're artifacts with \"|"
 "mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Możesz poświęcić dwa Jedzenia. Jeśli to zrobisz, stwórz żeton zielonego "
-"stwora Gigant 7/7. W przeciwnym razie stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
-"życia.\")"
+"Możesz poświęcić dwie sztuki Jadła. Jeśli to zrobisz, stwórz żeton zielonego "
+"stwora Gigant 7/7. W przeciwnym razie stwórz żeton Jadła. (Jest to artefakt "
+"ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:986
 msgid ""
@@ -3108,17 +3110,16 @@ msgid ""
 "When Gilded Goose enters the battlefield, create a Food token. (It's an "
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
-"życia.\")"
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jadła. (Jest to artefakt "
+"ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:983
 msgid "|mana_1|\\ |mana_g|, |tap|: Create a Food token."
-msgstr "|mana_1|\\ |mana_g|, |tap|: Stwórz żeton Jedzenia."
+msgstr "|mana_1|\\ |mana_g|, |tap|: Stwórz żeton Jadła."
 
 #: ../../ELD.rst:985
 msgid "|tap|, Sacrifice a Food: Add one mana of any color."
-msgstr ""
+msgstr "|tap|, poświęć Jadło: Weź jedną manę dowolnego koloru."
 
 #: ../../ELD.rst:994
 msgid ""
@@ -3132,16 +3133,20 @@ msgid ""
 "This spell costs |mana_x| less to cast, where X is the greatest power among "
 "creatures you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest największą siłą "
+"wśród stworów pod twoim władaniem."
 
 #: ../../ELD.rst:991
 msgid "|tap|: Add |mana_g|\\ |mana_g|. You gain 2 life."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|\\ |mana_g|. Zyskaj 2 życia."
 
 #: ../../ELD.rst:993
 msgid ""
 "Whenever a nontoken creature enters the battlefield under your control, put "
 "a +1/+1 counter on it and draw a card."
 msgstr ""
+"Ilekroć nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"na nim znacznik +1/+1 i dobierz kartę."
 
 #: ../../ELD.rst:998
 msgid ""
@@ -3155,6 +3160,8 @@ msgid ""
 "You may sacrifice a Food. If you do, target creature gets +5/+5 until end of "
 "turn. Otherwise, that creature gets +3/+3 until end of turn."
 msgstr ""
+"Możesz poświęcić Jadło. Jeśli to zrobisz, wskazany stwór dostaje do końca "
+"tury +5/+5. W przeciwnym razie ów stwór dostaje do końca tury +3/+3."
 
 #: ../../ELD.rst:1002
 msgid ""
@@ -3168,6 +3175,8 @@ msgid ""
 "Whenever one or more non-Human creatures you control deal combat damage to a "
 "player, draw a card."
 msgstr ""
+"Ilekroć przynajmniej jeden stwór pod twoim władaniem nie mający typu "
+"Człowiek zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../ELD.rst:1010
 msgid ""
@@ -3178,13 +3187,16 @@ msgstr ""
 
 #: ../../ELD.rst:1007
 msgid "When Kenrith's Transformation enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../ELD.rst:1009
 msgid ""
 "Enchanted creature loses all abilities and is a green Elk creature with base "
 "power and toughness 3/3. (It loses all other card types and creature types.)"
 msgstr ""
+"Zauroczony stwór traci wszystkie zdolności i jest zielonym stworem typu "
+"Jeleń z bazową siłą i wytrzymałością 3/3. (Traci wszystkie inne typy karty i "
+"typy stwora.)"
 
 #: ../../ELD.rst:1014
 msgid ""
@@ -3195,7 +3207,7 @@ msgstr ""
 
 #: ../../ELD.rst:1013
 msgid "Lovestruck Beast can't attack unless you control a 1/1 creature."
-msgstr ""
+msgstr "Ten stwór nie może atakować dopóki nie władasz stworem 1/1."
 
 #: ../../ELD.rst:1018
 msgid ""
@@ -3223,6 +3235,8 @@ msgstr ""
 msgid ""
 "Sacrifice a Food: Target creature blocks Maraleaf Rider this turn if able."
 msgstr ""
+"Poświęć Jadło: Wskazany stwór blokuje niniejszego stwora w tej turze, jeśli "
+"może."
 
 #: ../../ELD.rst:1030
 msgid ""
@@ -3236,11 +3250,13 @@ msgid ""
 "This spell costs |mana_2| less to cast if an opponent controls a green "
 "permanent."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli przeciwnik włada "
+"zielonym permanentem."
 
 #: ../../ELD.rst:1029
 msgid ""
 "Whenever Oakhame Adversary deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../ELD.rst:1036
 msgid ""
@@ -3255,6 +3271,9 @@ msgid ""
 "target card from your graveyard on top of your library. Exile Once and "
 "Future."
 msgstr ""
+"Przywróć wskazaną kartę z twojego cmentarza do twojej ręki. Umieść co "
+"najwyżej jedną inną wskazaną kartę z twojego cmentarza na wierzchu twojej "
+"biblioteki. Wygnaj niniejszy czar."
 
 #: ../../ELD.rst:1035
 msgid ""
@@ -3262,7 +3281,7 @@ msgid ""
 "return those cards to your hand and exile Once and Future."
 msgstr ""
 "Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy zielone "
-"many, zamiast tego przywróć owe karty do twojej ręki i wygnaj ten czar."
+"many, zamiast tego przywróć owe karty do twojej ręki i wygnaj niniejszy czar."
 
 #: ../../ELD.rst:1042
 msgid ""
@@ -3276,6 +3295,8 @@ msgid ""
 "If this spell is the first spell you've cast this game, you may cast it "
 "without paying its mana cost."
 msgstr ""
+"Jeśli ten czar jest twoim pierwszym rzucanym w tej turze, możesz rzucić go "
+"bez płacenia kosztu many."
 
 #: ../../ELD.rst:1041
 msgid ""
@@ -3283,6 +3304,9 @@ msgid ""
 "land card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in a random order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę stwora lub lądu i umieścić ją w twojej ręce. Umieść pozostałe na "
+"spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../ELD.rst:1048
 msgid ""
@@ -3297,6 +3321,9 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem, następnie "
+"walczy on ze wskazanym stworem poza twoim władaniem. (Każdy zadaje drugiemu "
+"obrażenia równe swojej sile.)"
 
 #: ../../ELD.rst:1047
 msgid ""
@@ -3315,23 +3342,27 @@ msgstr ""
 
 #: ../../ELD.rst:1051
 msgid "Vigilance, deathtouch, haste"
-msgstr ""
+msgstr "Czujność, dotyk śmierci, pośpiech"
 
 #: ../../ELD.rst:1053
 msgid "Questing Beast can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../ELD.rst:1055
 msgid ""
 "Combat damage that would be dealt by creatures you control can't be "
 "prevented."
 msgstr ""
+"Obrażenia bojowe, które mogłyby zostać zadane przez stwory pod twoim "
+"władaniem, nie mogą zostać zażegnane."
 
 #: ../../ELD.rst:1057
 msgid ""
 "Whenever Questing Beast deals combat damage to an opponent, it deals that "
 "much damage to target planeswalker that player controls."
 msgstr ""
+"Ilekroć ten stwór zadaje przeciwnikowi obrażenia bojowe, zadaje tyle samo "
+"obrażeń wskazanemu wędrowcowi pod władaniem owego gracza."
 
 #: ../../ELD.rst:1066
 msgid ""
@@ -3348,10 +3379,14 @@ msgstr "Wybierz jedno —"
 msgid ""
 "Draw cards equal to the greatest power among non-Human creatures you control."
 msgstr ""
+"Dobierz tyle kart, ile wynosi największa siła pośród stworów nie mających "
+"typu Człowiek pod twoim władaniem."
 
 #: ../../ELD.rst:1065
 msgid "Non-Human creatures you control get +3/+3 until end of turn."
 msgstr ""
+"Stwory pod twoim władaniem nie mające typu Człowiek dostają do końca tury +3/"
+"+3."
 
 #: ../../ELD.rst:1076
 msgid ""
@@ -3381,7 +3416,7 @@ msgstr ""
 
 #: ../../ELD.rst:1079 ../../ELD.rst:1437
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../ELD.rst:1084
 msgid ""
@@ -3410,12 +3445,16 @@ msgid ""
 "When Rosethorn Halberd enters the battlefield, attach it to target non-Human "
 "creature you control."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora bez "
+"typu Człowiek pod twoim władaniem."
 
 #: ../../ELD.rst:1091
 msgid ""
 "Equip |mana_5| (|mana_5|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_5| (|mana_5|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Używaj jako obrzęd.)"
 
 #: ../../ELD.rst:1096
 msgid ""
@@ -3426,7 +3465,7 @@ msgstr ""
 
 #: ../../ELD.rst:1095
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../ELD.rst:1100
 msgid ""
@@ -3440,6 +3479,8 @@ msgid ""
 "Whenever Syr Faren, the Hengehammer attacks, another target attacking "
 "creature gets +X/+X until end of turn, where X is Syr Faren's power."
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany atakujący stwór dostaje do końca "
+"tury +X/+x, gdzie X jest siłą niniejszego stwora."
 
 #: ../../ELD.rst:1106
 msgid ""
@@ -3453,6 +3494,8 @@ msgid ""
 "Enchanted creature gets +3/+3, has reach, and is a Giant in addition to its "
 "other types."
 msgstr ""
+"Zauroczony stwór dostaje +3/+3, ma zasięg i jest Gigantem oprócz swoich "
+"innych typów."
 
 #: ../../ELD.rst:1112
 msgid ""
@@ -3466,9 +3509,8 @@ msgid ""
 "When Trail of Crumbs enters the battlefield, create a Food token. (It's an "
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton Jedzenia. (Jest to "
-"artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
-"życia.\")"
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton Jadła. (Jest to artefakt "
+"ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:1111
 msgid ""
@@ -3477,6 +3519,10 @@ msgid ""
 "them and put it into your hand. Put the rest on the bottom of your library "
 "in any order."
 msgstr ""
+"Ilekroć poświęcisz Jadło, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"spójrz na dwie wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę permanentu i umieścić ją w twojej ręce. Umieść pozostałe w "
+"dowolnej kolejności na spodzie twojej biblioteki."
 
 #: ../../ELD.rst:1114
 msgid ""
@@ -3512,12 +3558,16 @@ msgid ""
 "When Wicked Wolf enters the battlefield, it fights up to one target creature "
 "you don't control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, walczy z co najwyżej jednym wskazanym "
+"stworem poza twoim władaniem."
 
 #: ../../ELD.rst:1125
 msgid ""
 "Sacrifice a Food: Put a +1/+1 counter on Wicked Wolf. It gains "
 "indestructible until end of turn. Tap it."
 msgstr ""
+"Poświęć Jadło: Umieść znacznik +1/+1 na tym stworze. Zyskuje on do końca "
+"tury niezniszczalność. Odkręć go."
 
 #: ../../ELD.rst:1134
 msgid ""
@@ -3536,6 +3586,9 @@ msgid ""
 "control, you may pay |mana_x|. When you do, put X +1/+1 counters on Wildborn "
 "Preserver."
 msgstr ""
+"Ilekroć inny stwór bez typu Człowiek wejdzie na pole walki pod twoim "
+"władaniem, możesz zapłacić |mana_x|. Kiedy to zrobisz, umieść X znaczników +"
+"1/+1 na tym stworze."
 
 #: ../../ELD.rst:1138
 msgid ""
@@ -3549,6 +3602,8 @@ msgid ""
 "Whenever Wildwood Tracker attacks or blocks, if you control another non-"
 "Human creature, Wildwood Tracker gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje lub blokuje, jeśli władasz innym stworem bez typu "
+"Człowiek, ten stwór dostaje do końca tury +1/+1."
 
 #: ../../ELD.rst:1142
 msgid ""
@@ -3578,7 +3633,7 @@ msgstr ""
 msgid ""
 "Yorvo, Lord of Garenbrig enters the battlefield with four +1/+1 counters on "
 "it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając cztery znaczniki +1/+1."
 
 #: ../../ELD.rst:1147
 msgid ""
@@ -3586,6 +3641,10 @@ msgid ""
 "put a +1/+1 counter on Yorvo. Then if that creature's power is greater than "
 "Yorvo's power, put another +1/+1 counter on Yorvo."
 msgstr ""
+"Ilekroć inny zielony stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze. Następnie jeśli siła owego stwora jest "
+"większa niż siła niniejszego stwora, umieść kolejny znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../ELD.rst:1152
 msgid ""
@@ -3601,6 +3660,10 @@ msgid ""
 "is 6 or more, those permanents are 4/4 creatures in addition to their other "
 "types."
 msgstr ""
+"Przywróć co najwyżej X wskazanych kart artefaktu i/lub uroku nie będącego "
+"Aurą o skróconym koszcie many X lub mniejszym z twojego cmentarza na pole "
+"walki. Jeśli X wynosi 6 lub więcej, owe permanenty są dodatkowo stworami 4/4 "
+"oprócz swoich innych typów."
 
 #: ../../ELD.rst:1156
 msgid ""
@@ -3616,6 +3679,10 @@ msgid ""
 "life, you draw a card, you gain 2 life, you create a 2/2 white Knight "
 "creature token with vigilance, then you sacrifice Doom Foretold."
 msgstr ""
+"Na początku kroku utrzymania każdego gracza, ów gracz poświęca nielądowy, "
+"nieżetonowy permanent. Jeśli ów gracz nie może, odrzuca kartę i traci 2 "
+"życia, a ty dobierz kartę, zyskaj 2 życia, stwórz żeton białego stwora "
+"Rycerz 2/2 z czujnością, następnie poświęć niniejszy urok."
 
 #: ../../ELD.rst:1164
 msgid ""
@@ -3629,12 +3696,16 @@ msgid ""
 "Counter target spell with converted mana cost less than or equal to the "
 "number of cards in its controller's graveyard."
 msgstr ""
+"Skontruj wskazany czar o skróconym koszcie many mniejszym lub równym liczbie "
+"kart w cmentarzu jego władcy."
 
 #: ../../ELD.rst:1163
 msgid ""
 "Destroy target creature with converted mana cost less than or equal to the "
 "number of cards in its controller's graveyard."
 msgstr ""
+"Zniszcz wskazanego stwora o skróconym koszcie many mniejszym lub równym "
+"liczbie kart w cmentarzu jego władcy."
 
 #: ../../ELD.rst:1170
 msgid ""
@@ -3648,10 +3719,12 @@ msgid ""
 "Exile the top five cards of your library. You may play cards exiled this way "
 "until the end of your next turn."
 msgstr ""
+"Wygnaj pięć wierzchnich kart twojej biblioteki. Możesz zagrać karty wygnane "
+"w ten sposób do końca twojej następnej tury."
 
 #: ../../ELD.rst:1169
 msgid "You may play an additional land this turn."
-msgstr ""
+msgstr "Możesz zagrać dodatkowy ląd w tej turze."
 
 #: ../../ELD.rst:1178
 msgid ""
@@ -3663,12 +3736,16 @@ msgstr ""
 #: ../../ELD.rst:1175
 msgid "Faeburrow Elder gets +1/+1 for each color among permanents you control."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdy kolor spośród permanentów pod twoim "
+"władaniem."
 
 #: ../../ELD.rst:1177
 msgid ""
 "|tap|: For each color among permanents you control, add one mana of that "
 "color."
 msgstr ""
+"|tap|: Za każdy kolor spośród permanentów pod twoim władaniem, weź jedną "
+"manę owego koloru."
 
 #: ../../ELD.rst:1186
 msgid ""
@@ -3682,16 +3759,21 @@ msgid ""
 "0: Create two 2/2 black and green Wolf creature tokens with \"When this "
 "creature dies, put a loyalty counter on each Garruk you control.\""
 msgstr ""
+"0: Stwórz dwa żetony czarno-zielonego stwora Wilk 2/2 ze zdolnością \"Kiedy "
+"ten stwór umrze, umieść znacznik lojalności na każdym Garruku pod twoim "
+"władaniem.\""
 
 #: ../../ELD.rst:1183
 msgid "−3: Destroy target creature. Draw a card."
-msgstr ""
+msgstr "–3: Zniszcz wskazanego stwora. Dobierz kartę."
 
 #: ../../ELD.rst:1185
 msgid ""
 "−6: You get an emblem with \"Creatures you control get +3/+3 and have "
 "trample.\""
 msgstr ""
+"–6: Dostajesz emblemat o treści \"Stwory pod twoim władaniem dostają +3/+3 i "
+"mają tratowanie.\""
 
 #: ../../ELD.rst:1190
 msgid ""
@@ -3705,6 +3787,8 @@ msgid ""
 "Each other non-Human creature you control enters the battlefield with an "
 "additional +1/+1 counter on it."
 msgstr ""
+"Każdy inny stwór bez typu Człowiek pod twoim władaniem wchodzi na pole walki "
+"mając dodatkowy znacznik +1/+1."
 
 #: ../../ELD.rst:1196
 msgid ""
@@ -3718,10 +3802,12 @@ msgid ""
 "Whenever you draw your second card each turn, create a 1/1 blue Faerie "
 "creature token with flying."
 msgstr ""
+"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, stwórz żeton "
+"niebieskiego stwora Wróżka 1/1 z lataniem."
 
 #: ../../ELD.rst:1195
 msgid "|mana_4|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_4|\\ |mana_u|\\ |mana_r|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../ELD.rst:1200
 msgid ""
@@ -3732,7 +3818,7 @@ msgstr ""
 
 #: ../../ELD.rst:1199
 msgid "Other Knights you control get +1/+1."
-msgstr ""
+msgstr "Inni Rycerze pod twoim władaniem dostają +1/+1."
 
 #: ../../ELD.rst:1210
 msgid ""
@@ -3744,11 +3830,11 @@ msgstr ""
 #: ../../ELD.rst:1205
 msgid ""
 "|mana_u|, Sacrifice an Island: Lochmere Serpent can't be blocked this turn."
-msgstr ""
+msgstr "|mana_u|, poświęć Wyspę: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../ELD.rst:1207
 msgid "|mana_b|, Sacrifice a Swamp: You gain 1 life and draw a card."
-msgstr ""
+msgstr "|mana_b|, poświęć Bagno: Zyskaj 1 życie i dobierz kartę."
 
 #: ../../ELD.rst:1209
 msgid ""
@@ -3756,6 +3842,8 @@ msgid ""
 "Return Lochmere Serpent from your graveyard to your hand. Activate this "
 "ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_u|\\ |mana_b|: Wygnaj pięć wskazanych kart z cmentarza przeciwnika. "
+"Przywróć tę kartę z twojego cmentarza do twojej ręki. Używaj jako obrzęd."
 
 #: ../../ELD.rst:1216
 msgid ""
@@ -3766,7 +3854,7 @@ msgstr ""
 
 #: ../../ELD.rst:1215 ../../ELD.rst:1637
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../ELD.rst:1224
 msgid ""
@@ -3788,12 +3876,16 @@ msgid ""
 "+1: Target artifact or creature loses all abilities and becomes a green Elk "
 "creature with base power and toughness 3/3."
 msgstr ""
+"+1: Wskazany artefakt lub stwór traci wszystkie zdolności i staje się "
+"stworem typu Jeleń o bazowej sile i wytrzymałości 3/3."
 
 #: ../../ELD.rst:1223
 msgid ""
 "−5: Exchange control of target artifact or creature you control and target "
 "creature an opponent controls with power 3 or less."
 msgstr ""
+"–5: Zamień władanie nad wskazanym artefaktem lub stworem pod twoim władaniem "
+"oraz wskazanym stworem o sile 3 lub mniejszej pod władaniem przeciwnika."
 
 #: ../../ELD.rst:1234
 msgid ""
@@ -3807,20 +3899,24 @@ msgid ""
 "At the beginning of your upkeep, choose one at random. Create a red and "
 "white creature token with those characteristics."
 msgstr ""
+"Na początku twojego kroku utrzymania, losowo wybierz jedno. Stwórz czerwono-"
+"biały żeton o tych parametrach."
 
 #: ../../ELD.rst:1229
 msgid "3/1 Human Warrior with trample and haste."
-msgstr ""
+msgstr "Człowiek Wojownik 3/1 z tratowaniem i pośpiechem."
 
 #: ../../ELD.rst:1231
 msgid "2/1 Human Cleric with lifelink and haste."
-msgstr ""
+msgstr "Człowiek Kleryk 2/1 z więzią życia i pośpiechem."
 
 #: ../../ELD.rst:1233
 msgid ""
 "1/2 Human Rogue with haste and \"When this creature enters the battlefield, "
 "it deals 1 damage to any target.\""
 msgstr ""
+"Człowiek Łotrzyk 1/2 z pośpiechem oraz \"Kiedy ten stwór wejdzie na pole "
+"walki, zadaje wskazanemu celowi 1 obrażenie.\""
 
 #: ../../ELD.rst:1242
 msgid ""
@@ -3831,19 +3927,23 @@ msgstr ""
 
 #: ../../ELD.rst:1237
 msgid "+1: Draw a card, then discard a card."
-msgstr ""
+msgstr "+1: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../ELD.rst:1239
 msgid ""
 "+1: Target creature gets +2/+0 and gains first strike and trample until end "
 "of turn."
 msgstr ""
+"+1: Wskazany stwór dostaje do końca tury +2/+0 oraz pierwszy cios i "
+"tratowanie."
 
 #: ../../ELD.rst:1241
 msgid ""
 "−8: Draw four cards. When you do, The Royal Scions deals damage to any "
 "target equal to the number of cards in your hand."
 msgstr ""
+"–8: Dobierz cztery karty. Kiedy to zrobisz, ten wędrowiec zadaje wskazanemu "
+"celowi obrażenia równe liczbie kart w twojej ręce."
 
 #: ../../ELD.rst:1248
 msgid ""
@@ -3863,7 +3963,7 @@ msgstr ""
 
 #: ../../ELD.rst:1247
 msgid "Sacrifice two Foods: Draw a card."
-msgstr ""
+msgstr "Poświęć dwie sztuki Jadła: Dobierz kartę."
 
 #: ../../ELD.rst:1256
 msgid ""
@@ -3874,15 +3974,15 @@ msgstr ""
 
 #: ../../ELD.rst:1251 ../../ELD.rst:1649
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../ELD.rst:1253
 msgid "Shinechaser gets +1/+1 as long as you control an artifact."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz artefaktem."
 
 #: ../../ELD.rst:1255
 msgid "Shinechaser gets +1/+1 as long as you control an enchantment."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz urokiem."
 
 #: ../../ELD.rst:1264
 msgid ""
@@ -3893,13 +3993,15 @@ msgstr ""
 
 #: ../../ELD.rst:1259
 msgid "Equipped creature gets +2/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2."
 
 #: ../../ELD.rst:1261
 msgid ""
 "Equip Knight |mana_1| (|mana_1|: Attach to target Knight creature you "
 "control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż Rycerza |mana_1| (|mana_1|: Dołącz do wskazanego Rycerza pod twoim "
+"władaniem. Używaj jako obrzęd.)"
 
 #: ../../ELD.rst:1270
 msgid ""
@@ -3916,6 +4018,8 @@ msgstr "Złowrogość"
 msgid ""
 "At the beginning of your upkeep, each player draws a card and loses 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy gracz dobiera kartę i traci 1 "
+"życie."
 
 #: ../../ELD.rst:1274
 msgid ""
@@ -3929,6 +4033,8 @@ msgid ""
 "Whenever you cast a creature spell that has an Adventure, put a +1/+1 "
 "counter on Wandermare. (It doesn't need to have gone on the adventure first.)"
 msgstr ""
+"Ilekroć rzucisz czar stwora mającego Przygodę, umieść znacznik +1/+1 na "
+"niniejszym stworze. (Nie musiał wcześniej przebyć przygody.)"
 
 #: ../../ELD.rst:1282
 msgid ""
@@ -3941,7 +4047,7 @@ msgstr ""
 msgid ""
 "Wintermoor Commander's toughness is equal to the number of Knights you "
 "control."
-msgstr ""
+msgstr "Wytrzymałość tej karty jest równa liczbie Rycerzy pod twoim władaniem."
 
 #: ../../ELD.rst:1281
 msgid ""
@@ -3949,6 +4055,9 @@ msgid ""
 "gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany Rycerz pod twoim władaniem zyskuje "
+"do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"niszczą go.)"
 
 #: ../../ELD.rst:1288
 msgid ""
@@ -3964,6 +4073,10 @@ msgid ""
 "and put it into your hand. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu lub uroku i "
+"umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
+"losowej kolejności."
 
 #: ../../ELD.rst:1292
 msgid ""
@@ -3979,6 +4092,10 @@ msgid ""
 "as it remains exiled, and you may spend mana as though it were mana of any "
 "color to cast that spell."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz kartę nielądową z cmentarza "
+"lub ręki owego gracza i wygnaj ją. Możesz zagrać ową kartę dopóki pozostaje "
+"ona wygnana i możesz wydawać manę tak, jakby była maną dowolnego koloru "
+"potrzebnego do rzucenia owego czaru."
 
 #: ../../ELD.rst:1298
 msgid ""
@@ -3992,6 +4109,8 @@ msgid ""
 "When you gain life for the first time each turn, return Deathless Knight "
 "from your graveyard to your hand."
 msgstr ""
+"Gdy zyskasz życie po raz pierwszy w danej turze, przywróć tę kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../ELD.rst:1304
 msgid ""
@@ -4005,6 +4124,8 @@ msgid ""
 "|mana_br|\\ |mana_br|\\ |mana_br|, Sacrifice another creature or an "
 "artifact: Elite Headhunter deals 2 damage to target creature or planeswalker."
 msgstr ""
+"|mana_br|\\ |mana_br|\\ |mana_br|, poświęć innego stwora lub artefakt: Ten "
+"stwór zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia."
 
 #: ../../ELD.rst:1310
 msgid ""
@@ -4018,6 +4139,8 @@ msgid ""
 "|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|: Fireborn Knight gets +1/+1 "
 "until end of turn."
 msgstr ""
+"|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|: Ten stwór dostaje do końca "
+"tury +1/+1."
 
 #: ../../ELD.rst:1316
 msgid ""
@@ -4031,6 +4154,8 @@ msgid ""
 "Whenever Loch Dragon enters the battlefield or attacks, you may discard a "
 "card. If you do, draw a card."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole walki lub atakuje, możesz odrzucić kartę. "
+"Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../ELD.rst:1320
 msgid ""
@@ -4041,7 +4166,7 @@ msgstr ""
 
 #: ../../ELD.rst:1319
 msgid "|tap|: Creatures you control get +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../ELD.rst:1324
 msgid ""
@@ -4067,7 +4192,7 @@ msgstr ""
 
 #: ../../ELD.rst:1327
 msgid "Rampart Smasher can't be blocked by Knights or Walls."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez Rycerzy i Ściany."
 
 #: ../../ELD.rst:1334
 msgid ""
@@ -4078,13 +4203,15 @@ msgstr ""
 
 #: ../../ELD.rst:1331
 msgid "|mana_wb|\\ |mana_wb|: Resolute Rider gains lifelink until end of turn."
-msgstr ""
+msgstr "|mana_wb|\\ |mana_wb|: Ten stwór zyskuje do końca tury więź życia."
 
 #: ../../ELD.rst:1333
 msgid ""
 "|mana_wb|\\ |mana_wb|\\ |mana_wb|: Resolute Rider gains indestructible until "
 "end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"|mana_wb|\\ |mana_wb|\\ |mana_wb|: Ten stwór zyskuje do końca tury "
+"niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../ELD.rst:1338
 msgid ""
@@ -4097,6 +4224,7 @@ msgstr ""
 msgid ""
 "Whenever you cast a spell with converted mana cost 5 or greater, draw a card."
 msgstr ""
+"Ilekroć rzucisz czar o skróconym koszcie many 5 lub większym, dobierz kartę."
 
 #: ../../ELD.rst:1342
 msgid ""
@@ -4122,7 +4250,7 @@ msgstr ""
 
 #: ../../ELD.rst:1347
 msgid "|tap|: Creatures you control gain haste until end of turn."
-msgstr ""
+msgstr "|tap|: Stwory pod twoim władaniem zyskują do końca tury pośpiech."
 
 #: ../../ELD.rst:1354
 msgid ""
@@ -4136,12 +4264,16 @@ msgid ""
 "When Enchanted Carriage enters the battlefield, create two 1/1 white Mouse "
 "creature tokens."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, stwórz dwa żetony białego stwora "
+"Mysz 1/1."
 
 #: ../../ELD.rst:1353
 msgid ""
 "Crew 2 (Tap any number of creatures you control with total power 2 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../ELD.rst:1362
 msgid ""
@@ -4155,10 +4287,12 @@ msgid ""
 "|mana_1|: Gingerbrute can't be blocked this turn except by creatures with "
 "haste."
 msgstr ""
+"|mana_1|: Ten stwór nie może być blokowany w tej turze, chyba że przez "
+"stwory z pośpiechem."
 
 #: ../../ELD.rst:1361
 msgid "|mana_2|, |tap|, Sacrifice Gingerbrute: You gain 3 life."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć tego stwora: Zyskaj 3 życia."
 
 #: ../../ELD.rst:1370
 msgid ""
@@ -4169,15 +4303,15 @@ msgstr ""
 
 #: ../../ELD.rst:1365
 msgid "When Golden Egg enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
 
 #: ../../ELD.rst:1367
 msgid "|mana_1|, |tap|, Sacrifice Golden Egg: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
 
 #: ../../ELD.rst:1369
 msgid "|mana_2|, |tap|, Sacrifice Golden Egg: You gain 3 life."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia."
 
 #: ../../ELD.rst:1374
 msgid ""
@@ -4203,15 +4337,15 @@ msgstr ""
 
 #: ../../ELD.rst:1377
 msgid "As Heraldic Banner enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten artefakt na polu walki wybierz kolor."
 
 #: ../../ELD.rst:1379
 msgid "Creatures you control of the chosen color get +1/+0."
-msgstr ""
+msgstr "Stwory wybranego koloru pod twoim władaniem dostają +1/+0."
 
 #: ../../ELD.rst:1381
 msgid "|tap|: Add one mana of the chosen color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę wybranego koloru."
 
 #: ../../ELD.rst:1388
 msgid ""
@@ -4222,11 +4356,11 @@ msgstr ""
 
 #: ../../ELD.rst:1385
 msgid "When Inquisitive Puppet enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 1."
 
 #: ../../ELD.rst:1387
 msgid "Exile Inquisitive Puppet: Create a 1/1 white Human creature token."
-msgstr ""
+msgstr "Wygnaj tego stwora: Stwórz żeton białego stwora Człowiek 1/1."
 
 #: ../../ELD.rst:1392
 msgid ""
@@ -4237,7 +4371,7 @@ msgstr ""
 
 #: ../../ELD.rst:1391
 msgid "|mana_3|: Jousting Dummy gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_3|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ELD.rst:1396
 msgid ""
@@ -4249,7 +4383,7 @@ msgstr ""
 #: ../../ELD.rst:1395
 msgid ""
 "|mana_4|: Locthwain Gargoyle gets +2/+0 and gains flying until end of turn."
-msgstr ""
+msgstr "|mana_4|: Ten stwór dostaje do końca tury +2/+0 i latanie."
 
 #: ../../ELD.rst:1400
 msgid ""
@@ -4263,6 +4397,8 @@ msgid ""
 "Whenever you cast an Adventure instant or sorcery spell, copy it. You may "
 "choose new targets for the copy."
 msgstr ""
+"Ilekroć rzucisz sztuczkę lub obrzęd Przygody, skopiuj go. Możesz wskazać "
+"nowe cele dla kopii."
 
 #: ../../ELD.rst:1404
 msgid ""
@@ -4273,7 +4409,7 @@ msgstr ""
 
 #: ../../ELD.rst:1403
 msgid "When Prophet of the Peak enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 2."
 
 #: ../../ELD.rst:1410
 msgid ""
@@ -4287,6 +4423,8 @@ msgid ""
 "|mana_7|: Roving Keep gets +2/+0 and gains trample until end of turn. It can "
 "attack this turn as though it didn't have defender."
 msgstr ""
+"|mana_7|: Ten stwór dostaje do końca tury +2/+0 i tratowanie. Może atakować "
+"w tej turze jakby nie miał obronności."
 
 #: ../../ELD.rst:1414
 msgid ""
@@ -4300,6 +4438,8 @@ msgid ""
 "|mana_3|, |tap|, Sacrifice Scalding Cauldron: It deals 3 damage to target "
 "creature."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu stworowi 3 "
+"obrażenia."
 
 #: ../../ELD.rst:1418
 msgid ""
@@ -4313,6 +4453,8 @@ msgid ""
 "Shambling Suit's power is equal to the number of artifacts and/or "
 "enchantments you control."
 msgstr ""
+"Siła tej karty jest równa liczbie artefaktów i/lub uroków pod twoim "
+"władaniem."
 
 #: ../../ELD.rst:1424
 msgid ""
@@ -4323,7 +4465,7 @@ msgstr ""
 
 #: ../../ELD.rst:1423
 msgid "|mana_2|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_2|: Weź jedną manę dowolnego koloru."
 
 #: ../../ELD.rst:1428
 msgid ""
@@ -4337,6 +4479,8 @@ msgid ""
 "Whenever you sacrifice another permanent, you may pay |mana_3|. If you do, "
 "create a token that's a copy of Sorcerer's Broom."
 msgstr ""
+"Ilekroć poświęcisz inny permanent, możesz zapłacić |mana_3|. Jeśli tak "
+"zrobisz, stwórz żeton będący kopią niniejszego stwora."
 
 #: ../../ELD.rst:1434
 msgid ""
@@ -4350,12 +4494,16 @@ msgid ""
 "As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, "
 "then choose any card name."
 msgstr ""
+"Umieszczając tę kartę na polu walki, spójrz na rękę przeciwnika, następnie "
+"wybierz dowolną nazwę karty."
 
 #: ../../ELD.rst:1433
 msgid ""
 "Activated abilities of sources with the chosen name can't be activated "
 "unless they're mana abilities."
 msgstr ""
+"Aktywowane zdolności źródeł o wybranej nazwie nie mogą być aktywowane, chyba "
+"że dają manę."
 
 #: ../../ELD.rst:1440
 msgid ""
@@ -4366,7 +4514,7 @@ msgstr ""
 
 #: ../../ELD.rst:1439
 msgid "|mana_5|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_5|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../ELD.rst:1446
 msgid ""
@@ -4377,11 +4525,11 @@ msgstr ""
 
 #: ../../ELD.rst:1443
 msgid "Reach, trample, protection from multicolored"
-msgstr ""
+msgstr "Zasięg, tratowanie, ochrona przed wielokolorowym"
 
 #: ../../ELD.rst:1445
 msgid "Stonecoil Serpent enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../ELD.rst:1452
 msgid ""
@@ -4392,13 +4540,15 @@ msgstr ""
 
 #: ../../ELD.rst:1449
 msgid "Weapon Rack enters the battlefield with three +1/+1 counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki mając trzy znaczniki +1/+1."
 
 #: ../../ELD.rst:1451
 msgid ""
 "|tap|: Move a +1/+1 counter from Weapon Rack onto target creature. Activate "
 "this ability only any time you could cast a sorcery."
 msgstr ""
+"|tap|: Przenieść znacznik +1/+1 z tego artefaktu na wskazanego stwora. "
+"Używaj jako obrzęd."
 
 #: ../../ELD.rst:1456
 msgid ""
@@ -4429,17 +4579,19 @@ msgstr ""
 #: ../../ELD.rst:1459
 msgid ""
 "Castle Ardenvale enters the battlefield tapped unless you control a Plains."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony, chyba że władasz Równiną."
 
 #: ../../ELD.rst:1461
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../ELD.rst:1463
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|: Create a 1/1 white Human creature "
 "token."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_w|, |tap|: Stwórz żeton białego stwora Człowiek "
+"1/1."
 
 #: ../../ELD.rst:1472
 msgid ""
@@ -4451,17 +4603,19 @@ msgstr ""
 #: ../../ELD.rst:1467
 msgid ""
 "Castle Embereth enters the battlefield tapped unless you control a Mountain."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony, chyba że władasz Górą."
 
 #: ../../ELD.rst:1469
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../ELD.rst:1471
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Creatures you control get +1/+0 until "
 "end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Stwory pod twoim władaniem dostają do "
+"końca tury +1/+0."
 
 #: ../../ELD.rst:1480
 msgid ""
@@ -4473,17 +4627,19 @@ msgstr ""
 #: ../../ELD.rst:1475
 msgid ""
 "Castle Garenbrig enters the battlefield tapped unless you control a Forest."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony, chyba że władasz Lasem."
 
 #: ../../ELD.rst:1477
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../ELD.rst:1479
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Add six |mana_g|. Spend this mana "
 "only to cast creature spells or activate abilities of creatures."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Weź sześć |mana_g|. Użyj tej many "
+"tylko to rzucania czarów stworów lub aktywacji zdolności stworów."
 
 #: ../../ELD.rst:1488
 msgid ""
@@ -4495,17 +4651,19 @@ msgstr ""
 #: ../../ELD.rst:1483
 msgid ""
 "Castle Locthwain enters the battlefield tapped unless you control a Swamp."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony, chyba że władasz Bagnem."
 
 #: ../../ELD.rst:1485
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../ELD.rst:1487
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Draw a card, then you lose life equal "
 "to the number of cards in your hand."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Dobierz kartę, następnie strać tyle "
+"żyć, ile masz kart w ręce."
 
 #: ../../ELD.rst:1496
 msgid ""
@@ -4517,11 +4675,11 @@ msgstr ""
 #: ../../ELD.rst:1491
 msgid ""
 "Castle Vantress enters the battlefield tapped unless you control an Island."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony, chyba że władasz Wyspą."
 
 #: ../../ELD.rst:1495
 msgid "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|: Scry 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|: Wróż 2."
 
 #: ../../ELD.rst:1504
 msgid ""
@@ -4539,12 +4697,16 @@ msgid ""
 "Dwarven Mine enters the battlefield tapped unless you control three or more "
 "other Mountains."
 msgstr ""
+"Ten ląd wchodzi na pole walki przekręcony, chyba że władasz co najmniej "
+"trzema innymi Górami."
 
 #: ../../ELD.rst:1503
 msgid ""
 "When Dwarven Mine enters the battlefield untapped, create a 1/1 red Dwarf "
 "creature token."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki odkręcony, stwórz żeton czerwonego "
+"stwora Krasnolud 1/1."
 
 #: ../../ELD.rst:1508
 msgid ""
@@ -4559,6 +4721,9 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library. Then if you "
 "control four or more lands, untap that land."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę. "
+"Następnie jeśli władasz przynajmniej czterema lądami, odkręć ów ląd."
 
 #: ../../ELD.rst:1516
 msgid ""
@@ -4576,6 +4741,8 @@ msgid ""
 "Gingerbread Cabin enters the battlefield tapped unless you control three or "
 "more other Forests."
 msgstr ""
+"Ten ląd wchodzi na pole walki przekręcony, chyba że władasz co najmniej "
+"trzema innymi Lasami."
 
 #: ../../ELD.rst:1515
 msgid ""
@@ -4583,7 +4750,7 @@ msgid ""
 "(It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain "
 "3 life.\")"
 msgstr ""
-"Kiedy ten ląd wejdzie odkręcony na pole walki, stwórz żeton Jedzenia. (Jest "
+"Kiedy ten ląd wejdzie na pole walki odkręcony, stwórz żeton Jedzenia. (Jest "
 "to artefakt ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
 "życia.\")"
 
@@ -4603,12 +4770,16 @@ msgid ""
 "Idyllic Grange enters the battlefield tapped unless you control three or "
 "more other Plains."
 msgstr ""
+"Ten ląd wchodzi na pole walki przekręcony, chyba że władasz co najmniej "
+"trzema innymi Równinami."
 
 #: ../../ELD.rst:1523
 msgid ""
 "When Idyllic Grange enters the battlefield untapped, put a +1/+1 counter on "
 "target creature you control."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki odkręcony, umieść znacznik +1/+1 na "
+"wskazanym stworze pod twoim władaniem."
 
 #: ../../ELD.rst:1532
 msgid ""
@@ -4626,12 +4797,16 @@ msgid ""
 "Mystic Sanctuary enters the battlefield tapped unless you control three or "
 "more other Islands."
 msgstr ""
+"Ten ląd wchodzi na pole walki przekręcony, chyba że władasz co najmniej "
+"trzema innymi Wyspami."
 
 #: ../../ELD.rst:1531
 msgid ""
 "When Mystic Sanctuary enters the battlefield untapped, you may put target "
 "instant or sorcery card from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki odkręcony, możesz umieścić wskazaną "
+"kartę sztuczki lub obrzędu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../ELD.rst:1538
 msgid ""
@@ -4649,6 +4824,8 @@ msgid ""
 "|tap|: Add |mana_r|, |mana_w|, or |mana_b|. Spend this mana only to cast a "
 "Knight or Equipment spell."
 msgstr ""
+"|tap|: Weź |mana_r|, |mana_w| lub |mana_b|. Wydaj tę manę tylko na rzucenie "
+"czaru Rycerza lub Ekwipunku."
 
 #: ../../ELD.rst:1546
 msgid ""
@@ -4666,12 +4843,16 @@ msgid ""
 "Witch's Cottage enters the battlefield tapped unless you control three or "
 "more other Swamps."
 msgstr ""
+"Ten ląd wchodzi na pole walki przekręcony, chyba że władasz co najmniej "
+"trzema innymi Bagnami."
 
 #: ../../ELD.rst:1545
 msgid ""
 "When Witch's Cottage enters the battlefield untapped, you may put target "
 "creature card from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki odkręcony, możesz umieścić wskazaną "
+"kartę stwora z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../ELD.rst:1550
 msgid ""
@@ -4717,25 +4898,27 @@ msgstr ""
 
 #: ../../ELD.rst:1569
 msgid "|mana_r|: All creatures gain trample and haste until end of turn."
-msgstr ""
+msgstr "|mana_r|: Wszystkie stwory zyskują tratowanie i pośpiech do końcu tury."
 
 #: ../../ELD.rst:1571
 msgid "|mana_1|\\ |mana_g|: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../ELD.rst:1573
 msgid "|mana_2|\\ |mana_w|: Target player gains 5 life."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|: Wskazany gracz zyskuje 5 żyć."
 
 #: ../../ELD.rst:1575
 msgid "|mana_3|\\ |mana_u|: Target player draws a card."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Wskazany gracz dobiera kartę."
 
 #: ../../ELD.rst:1577
 msgid ""
 "|mana_4|\\ |mana_b|: Put target creature card from a graveyard onto the "
 "battlefield under its owner's control."
 msgstr ""
+"|mana_4|\\ |mana_b|: Umieść wskazaną kartę stwora z dowolnego cmentarza na "
+"polu walki pod władaniem jej właściciela."
 
 #: ../../ELD.rst:1586
 msgid ""
@@ -4749,18 +4932,24 @@ msgid ""
 "+1: Up to one target creature gets +3/+0 and gains first strike until end of "
 "turn."
 msgstr ""
+"+1: Co najwyżej jeden wskazany stwór dostaje do końca tury +3/+0 i pierwszy "
+"cios."
 
 #: ../../ELD.rst:1583
 msgid ""
 "−2: Rowan, Fearless Sparkmage deals 1 damage to each of up to two target "
 "creatures. Those creatures can't block this turn."
 msgstr ""
+"–2: Ten wędrowiec zadaje po 1 obrażeniu każdemu z co najwyżej dwóch "
+"wskazanych stworów. Owe stwory nie mogą blokować w tej turze."
 
 #: ../../ELD.rst:1585
 msgid ""
 "−9: Gain control of all creatures until end of turn. Untap them. They gain "
 "haste until end of turn."
 msgstr ""
+"–9: Zyskaj do końca tury władanie nad wszystkimi stworami. Odkręć je. Do "
+"końca tury zyskują one pośpiech."
 
 #: ../../ELD.rst:1592
 msgid ""
@@ -4774,6 +4963,8 @@ msgid ""
 "Whenever Garrison Griffin attacks, target Knight you control gains flying "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, wskazany Rycerz pod twoim władaniem zyskuje "
+"latanie do końca tury."
 
 #: ../../ELD.rst:1598
 msgid ""
@@ -4785,7 +4976,7 @@ msgstr ""
 #: ../../ELD.rst:1597
 msgid ""
 "As long as you control a Rowan planeswalker, Rowan's Battleguard gets +3/+0."
-msgstr ""
+msgstr "O ile władasz wędrowcem typu Rowan, ten stwór dostaje +3/+0."
 
 #: ../../ELD.rst:1602
 msgid ""
@@ -4800,6 +4991,10 @@ msgid ""
 "and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"lub cmentarzu kartę o nazwie Rowan, Fearless Sparkmage, ujawnić ją i "
+"umieścić w twojej ręce. Jeśli przeszukano bibliotekę w ten sposób, przetasuj "
+"ją."
 
 #: ../../ELD.rst:1610
 msgid ""
@@ -4810,15 +5005,15 @@ msgstr ""
 
 #: ../../ELD.rst:1605
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../ELD.rst:1607
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../ELD.rst:1609
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../ELD.rst:1618
 msgid ""
@@ -4830,18 +5025,25 @@ msgstr ""
 #: ../../ELD.rst:1613
 msgid "+1: Put two +1/+1 counters on up to one target creature you control."
 msgstr ""
+"+1: Umieść dwa znaczniki +1/+1 na co najwyżej jednym wskazanym stworze pod "
+"twoim władaniem."
 
 #: ../../ELD.rst:1615
 msgid ""
 "0: Until end of turn, Oko, the Trickster becomes a copy of target creature "
 "you control. Prevent all damage that would be dealt to him this turn."
 msgstr ""
+"0: Do końca tury ten wędrowiec staje się kopią wskazanego stwora pod twoim "
+"władaniem. Zażegnaj wszelkie obrażenia, jakie mógłby mu zostać zadane w tej "
+"turze."
 
 #: ../../ELD.rst:1617
 msgid ""
 "−7: Until end of turn, each creature you control has base power and "
 "toughness 10/10 and gains trample."
 msgstr ""
+"–7: Do końca tury każdy stwór pod twoim władaniem ma bazową siłę i "
+"wytrzymałość 10/10 i zyskuje tratowanie."
 
 #: ../../ELD.rst:1622
 msgid ""
@@ -4862,6 +5064,8 @@ msgid ""
 "|mana_8|: Bramblefort Fink has base power and toughness 10/10 until end of "
 "turn. Activate this ability only if you control an Oko planeswalker."
 msgstr ""
+"|mana_8|: Ten stwór ma do końca tury bazową siłę i wytrzymałość 10/10. "
+"Aktywuj tę zdolność tylko jeśli władasz wędrowcem imieniem Oko."
 
 #: ../../ELD.rst:1630
 msgid ""
@@ -4877,6 +5081,10 @@ msgid ""
 "Trickster, reveal it, and put it into your hand. If you search your library "
 "this way, shuffle it."
 msgstr ""
+"Stwory pod twoim władaniem mają do końca tury bazową siłę i wytrzymałość 3/"
+"3. Możesz wyszukać w twojej bibliotece i/lub cmentarzu kartę o nazwie Oko, "
+"the Trickster, ujawnić ją i umieścić w twojej ręce. Jeśli przeszukano "
+"bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../ELD.rst:1638
 msgid ""
@@ -4887,11 +5095,11 @@ msgstr ""
 
 #: ../../ELD.rst:1633
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../ELD.rst:1635
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../ELD.rst:1646
 msgid ""
@@ -4905,12 +5113,16 @@ msgid ""
 "Equipped creature gets +1/+1 for each charge counter on Mace of the Valiant "
 "and has vigilance."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdy znacznik ładunku na tym artefakcie "
+"oraz ma czujność."
 
 #: ../../ELD.rst:1643
 msgid ""
 "Whenever a creature enters the battlefield under your control, put a charge "
 "counter on Mace of the Valiant."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, umieść znacznik "
+"ładunku na tym artefakcie."
 
 #: ../../ELD.rst:1654
 msgid ""
@@ -4924,12 +5136,16 @@ msgid ""
 "Silverwing Squadron's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../ELD.rst:1653
 msgid ""
 "Whenever Silverwing Squadron attacks, create a number of 2/2 white Knight "
 "creature tokens with vigilance equal to the number of opponents you have."
 msgstr ""
+"Ilekroć ten stwór atakuje, stwórz tyle żetonów białego stwora Rycerz 2/2 z "
+"czujnością, ilu masz przeciwników."
 
 #: ../../ELD.rst:1660
 msgid ""
@@ -4943,6 +5159,8 @@ msgid ""
 "|mana_3|\\ |mana_u|: Create a 1/1 blue Faerie creature token with flying. "
 "Draw a card."
 msgstr ""
+"|mana_3|\\ |mana_u|: Stwórz żeton niebieskiego stwora Wróżka 1/1 z lataniem. "
+"Dobierz kartę."
 
 #: ../../ELD.rst:1668
 msgid ""
@@ -4955,10 +5173,11 @@ msgstr ""
 msgid ""
 "As long as you control four or more artifacts, Shimmer Dragon has hexproof."
 msgstr ""
+"O ile władasz co najmniej czterema artefaktami, ten stwór ma antyklątwę."
 
 #: ../../ELD.rst:1667
 msgid "Tap two untapped artifacts you control: Draw a card."
-msgstr ""
+msgstr "Przekręć dwa odkręcone artefakty pod twoim władaniem: Dobierz kartę."
 
 #: ../../ELD.rst:1674
 msgid ""
@@ -4969,7 +5188,7 @@ msgstr ""
 
 #: ../../ELD.rst:1671
 msgid "Artifact creatures you control have flying."
-msgstr ""
+msgstr "Artefaktyczne stwory pod twoim władaniem mają latanie."
 
 #: ../../ELD.rst:1673
 msgid ""
@@ -4977,6 +5196,9 @@ msgid ""
 "artifact you control become a 0/0 artifact creature. If you do, put four +1/"
 "+1 counters on it."
 msgstr ""
+"Na początku walki w twojej turze możesz sprawić, by wskazany pod twoim "
+"władaniem artefakt nie będący stworem stał się artefaktycznym stworem 0/0. "
+"Jeśli tak zrobisz, umieść na nim cztery znaczniki +1/+1."
 
 #: ../../ELD.rst:1680
 msgid ""
@@ -4990,12 +5212,16 @@ msgid ""
 "When Chittering Witch enters the battlefield, create a number of 1/1 black "
 "Rat creature tokens equal to the number of opponents you have."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów czarnego stwora "
+"Szczur 1/1, ilu masz przeciwników."
 
 #: ../../ELD.rst:1679
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice a creature: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury -2/"
+"-2."
 
 #: ../../ELD.rst:1684
 msgid ""
@@ -5023,7 +5249,7 @@ msgstr ""
 
 #: ../../ELD.rst:1687
 msgid "As long as it's your turn, Embereth Skyblazer has flying."
-msgstr ""
+msgstr "O ile jest twoja tura, ten stwór ma latanie."
 
 #: ../../ELD.rst:1689
 msgid ""
@@ -5031,6 +5257,9 @@ msgid ""
 "do, creatures you control get +X/+0 until end of turn, where X is the number "
 "of opponents you have."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_2|\\ |mana_r|. Jeśli tak "
+"zrobisz, stwory pod twoim władaniem dostają do końca tury +X/+0, gdzie X "
+"jest liczbą twoich przeciwników."
 
 #: ../../ELD.rst:1696
 msgid ""
@@ -5041,13 +5270,15 @@ msgstr ""
 
 #: ../../ELD.rst:1693
 msgid "Steelbane Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../ELD.rst:1695
 msgid ""
 "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Steelbane Hydra: Destroy "
 "target artifact or enchantment."
 msgstr ""
+"|mana_2|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Zniszcz wskazany "
+"artefakt lub urok."
 
 #: ../../ELD.rst:1702
 msgid ""
@@ -5061,6 +5292,9 @@ msgid ""
 "Whenever Thorn Mammoth or another creature enters the battlefield under your "
 "control, Thorn Mammoth fights up to one target creature you don't control."
 msgstr ""
+"Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, "
+"niniejszy stwór walczy z co najwyżej jednym wskazanym stworem poza twoim "
+"władaniem."
 
 #: ../../ELD.rst:1710
 msgid ""
@@ -5071,17 +5305,19 @@ msgstr ""
 
 #: ../../ELD.rst:1705
 msgid "Flying, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../ELD.rst:1707
 msgid "Other creatures you control with flying get +1/+0."
-msgstr ""
+msgstr "Inne stwory z lataniem pod twoim władaniem dostają +1/+0."
 
 #: ../../ELD.rst:1709
 msgid ""
 "Whenever you cast an artifact or enchantment spell, create a 1/1 blue Faerie "
 "creature token with flying."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu lub uroku, stwórz żeton niebieskiego stwora "
+"Wróżka 1/1 z lataniem."
 
 #: ../../ELD.rst:1716
 msgid ""
@@ -5096,12 +5332,17 @@ msgid ""
 "then copy it if you control an enchantment. You may choose new targets for "
 "the copies."
 msgstr ""
+"Jeśli rzucisz ten czar z twojej ręki, skopiuj go jeśli władasz artefaktem, "
+"następnie skopiuj go jeśli władasz urokiem. Możesz wskazać nowe cele dla "
+"kopii."
 
 #: ../../ELD.rst:1715
 msgid ""
 "Return target nonland permanent to its owner's hand. You create a 2/2 white "
 "Knight creature token with vigilance."
 msgstr ""
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Stwórz żeton "
+"białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../ELD.rst:1724
 msgid ""
@@ -5115,11 +5356,15 @@ msgid ""
 "Whenever you cast a creature spell, draw a card, then you may put a land "
 "card from your hand onto the battlefield."
 msgstr ""
+"Ilekroć rzucisz czar stwora, dobierz kartę, następnie możesz umieścić kartę "
+"lądu z twojej ręki na polu walki."
 
 #: ../../ELD.rst:1723
 msgid ""
 "|mana_3|, |tap|: Return target creature you control to its owner's hand."
 msgstr ""
+"|mana_3|, |tap|: Przywróć wskazanego stwora pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../ELD.rst:1732
 msgid ""
@@ -5143,6 +5388,8 @@ msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice another nonland permanent: Gluttonous Troll "
 "gets +2/+2 until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć inny nielądowy permanent: Ten stwór dostaje do "
+"końca tury +2/+2."
 
 #: ../../ELD.rst:1738
 msgid ""
@@ -5156,12 +5403,16 @@ msgid ""
 "Whenever a Knight you control attacks, each opponent loses 1 life and you "
 "gain 1 life."
 msgstr ""
+"Ilekroć Rycerz pod twoim władaniem atakuje, każdy przeciwnik traci 1 życie, "
+"a ty zyskaj 1 życie."
 
 #: ../../ELD.rst:1737
 msgid ""
 "|mana_6|\\ |mana_w|\\ |mana_b|, Sacrifice Knights' Charge: Return all Knight "
 "creature cards from your graveyard to the battlefield."
 msgstr ""
+"|mana_6|\\ |mana_w|\\ |mana_b|, poświęć ten urok: Przywróć wszystkie karty "
+"Rycerzy z twojego cmentarza na pole walki."
 
 #: ../../ELD.rst:1746
 msgid ""
@@ -5175,12 +5426,15 @@ msgid ""
 "Whenever Korvold, Fae-Cursed King enters the battlefield or attacks, "
 "sacrifice another permanent."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole walki lub atakuje, poświęć inny permanent."
 
 #: ../../ELD.rst:1745
 msgid ""
 "Whenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw "
 "a card."
 msgstr ""
+"Ilekroć poświęcisz permanent, umieść znacznik +1/+1 na tym stworze i dobierz "
+"kartę."
 
 #: ../../ELD.rst:1754
 msgid ""
@@ -5191,17 +5445,19 @@ msgstr ""
 
 #: ../../ELD.rst:1749
 msgid "Vigilance, menace"
-msgstr ""
+msgstr "Czujność, złowrogość"
 
 #: ../../ELD.rst:1751
 msgid ""
 "Whenever an equipped creature you control attacks, you draw a card and you "
 "lose 1 life."
 msgstr ""
+"Ilekroć wyposażony stwór pod twoim władaniem atakuje, dobierz kartę i strać "
+"1 życie."
 
 #: ../../ELD.rst:1753
 msgid "Equipment you control have equip Knight |mana_0|."
-msgstr ""
+msgstr "Wyposażenie pod twoim władaniem ma \"Wyposaż Rycerza |mana_0|\"."
 
 #: ../../ELD.rst:1758
 msgid ""
@@ -5212,7 +5468,7 @@ msgstr ""
 
 #: ../../ELD.rst:1757 ../../ELD.rst:1769
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../ELD.rst:1766
 msgid ""
@@ -5223,18 +5479,20 @@ msgstr ""
 
 #: ../../ELD.rst:1761
 msgid "Tome of Legends enters the battlefield with a page counter on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki mając znacznik strony."
 
 #: ../../ELD.rst:1763
 msgid ""
 "Whenever your commander enters the battlefield or attacks, put a page "
 "counter on Tome of Legends."
 msgstr ""
+"Ilekroć twój dowódca wejdzie na pole walki lub atakuje, umieść znacznik "
+"strony na tym artefakcie."
 
 #: ../../ELD.rst:1765
 msgid ""
 "|mana_1|, |tap|, Remove a page counter from Tome of Legends: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, usuń znacznik strony z tego artefaktu: Dobierz kartę."
 
 #: ../../ELD.rst:1769
 msgid ""
