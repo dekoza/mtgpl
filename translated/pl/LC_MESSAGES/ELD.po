@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: 2020-01-18 23:41+0000\n"
+"PO-Revision-Date: 2020-01-19 18:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
 "pl/>\n"
@@ -882,8 +882,8 @@ msgid ""
 "Whenever you draw your second card each turn, put a +1/+1 counter on Faerie "
 "Vandal."
 msgstr ""
-"Ilekroć dobierzesz drugą kartę w każdej z tur, umieść znacznik +1/+1 na tym "
-"stworze."
+"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, umieść znacznik +1/+1 "
+"na tym stworze."
 
 #: ../../ELD.rst:302
 msgid ""
@@ -1028,7 +1028,7 @@ msgid ""
 "Whenever you draw your second card each turn, attach Mantle of Tides to "
 "target creature you control."
 msgstr ""
-"Ilekroć dobierzesz drugą kartę w każdej z tur, dołącz ten artefakt do "
+"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, dołącz ten artefakt do "
 "wskazanego stwora pod twoim władaniem."
 
 #: ../../ELD.rst:346
@@ -1271,8 +1271,8 @@ msgid ""
 "Whenever you draw your second card each turn, Steelgaze Griffin gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć dobierzesz drugą kartę w każdej z tur, ten stwór dostaje do końca "
-"tury +2/+0."
+"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, ten stwór dostaje do "
+"końca tury +2/+0."
 
 #: ../../ELD.rst:424
 msgid ""
@@ -1904,6 +1904,8 @@ msgid ""
 "If damage would be dealt to Oathsworn Knight while it has a +1/+1 counter on "
 "it, prevent that damage and remove a +1/+1 counter from it."
 msgstr ""
+"Jeśli obrażenia miałyby zostać zadane temu stworowi, gdy ma on znacznik +1/+"
+"1, zażgenaj je i usuń z tego stwora znacznik +1/+1."
 
 #: ../../ELD.rst:626
 msgid ""
@@ -1914,7 +1916,7 @@ msgstr ""
 
 #: ../../ELD.rst:625
 msgid "Order of Midnight can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../ELD.rst:630
 msgid ""
@@ -1940,17 +1942,19 @@ msgstr ""
 
 #: ../../ELD.rst:633
 msgid "Rats you control have menace."
-msgstr ""
+msgstr "Szury pod twoim władaniem mają złowrogość."
 
 #: ../../ELD.rst:635
 msgid "|mana_1|\\ |mana_b|, |tap|: Create a 1/1 black Rat creature token."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, |tap|: Stwórz żeton czarnego stwora Szczur 1/1."
 
 #: ../../ELD.rst:637
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice three Rats: Gain control of "
 "target creature."
 msgstr ""
+"|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, poświęć trzy Szczury: Zyskaj władanie "
+"nad wskazanym stworem."
 
 #: ../../ELD.rst:650
 msgid ""
@@ -1968,18 +1972,19 @@ msgid ""
 "Whenever Rankle, Master of Pranks deals combat damage to a player, choose "
 "any number —"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wybierz dowolną liczbę —"
 
 #: ../../ELD.rst:645
 msgid "Each player discards a card."
-msgstr ""
+msgstr "Każdy gracz odrzuca kartę."
 
 #: ../../ELD.rst:647
 msgid "Each player loses 1 life and draws a card."
-msgstr ""
+msgstr "Każdy grać traci 1 życie i dobiera kartę."
 
 #: ../../ELD.rst:649
 msgid "Each player sacrifices a creature."
-msgstr ""
+msgstr "Każdy gracz poświęca stwora."
 
 #: ../../ELD.rst:654
 msgid ""
@@ -1993,6 +1998,8 @@ msgid ""
 "Whenever Reaper of Night attacks, if defending player has two or fewer cards "
 "in hand, it gains flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, jeśli broniący się gracz ma nie więcej niż dwie "
+"karty w ręce, ten stwór zyskuj latanie do końca tury."
 
 #: ../../ELD.rst:658
 msgid ""
@@ -2018,7 +2025,7 @@ msgstr ""
 
 #: ../../ELD.rst:661
 msgid "Destroy target creature with power 3 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 3 lub mniejszej."
 
 #: ../../ELD.rst:666
 msgid ""
@@ -2032,6 +2039,8 @@ msgid ""
 "Whenever a creature attacks you or a planeswalker you control, that "
 "creature's controller loses 1 life and you gain 1 life."
 msgstr ""
+"Ilekroć stwór atakuje ciebie lub wędrowca pod twoim władaniem, władca owego "
+"stwora traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../ELD.rst:670
 msgid ""
@@ -2052,6 +2061,8 @@ msgid ""
 "You gain X life and each opponent loses X life, where X is the number of "
 "Knights you control."
 msgstr ""
+"Zyskaj X żyć, a każdy przeciwnik traci po X żyć, gdzie X jest liczbą Rycerzy "
+"pod twoim władaniem."
 
 #: ../../ELD.rst:678
 msgid ""
@@ -2066,6 +2077,9 @@ msgid ""
 "If you do, that player exiles that card. If a nonblack card is exiled this "
 "way, exile a card from your hand."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Możesz wybrać stamtąd nielądową "
+"kartę. Jeśli tak zrobisz, ów grasz wygania ową kartę. Jeśli nieczarna karta "
+"zostanie wygnana w ten sposób, wygnaj kartę z twojej ręki."
 
 #: ../../ELD.rst:684
 msgid ""
@@ -2080,12 +2094,17 @@ msgid ""
 "from anywhere other than the battlefield, or a creature card leaves your "
 "graveyard, Syr Konrad, the Grim deals 1 damage to each opponent."
 msgstr ""
+"Ilekroć inny stwór umrze albo karta stwora zostanie umieszczona w cmentarzu "
+"skądkolwiek poza polem walki, albo karta stwora opuści twój cmentarz, "
+"niniejszy stwór zadaje każdemu z przeciwników po 1 obrażeniu."
 
 #: ../../ELD.rst:683
 msgid ""
 "|mana_1|\\ |mana_b|: Each player puts the top card of their library into "
 "their graveyard."
 msgstr ""
+"|mana_1|\\ |mana_b|: Każdy gracz umieszcza wierzchnią kartę swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../ELD.rst:690
 msgid ""
@@ -2105,7 +2124,7 @@ msgstr ""
 
 #: ../../ELD.rst:689
 msgid "|mana_2|, |tap|, Sacrifice a Food: Target player loses 3 life."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć Jedzenie: Wskazany gracz traci 3 życia."
 
 #: ../../ELD.rst:694
 msgid ""
@@ -2119,6 +2138,9 @@ msgid ""
 "When Wicked Guardian enters the battlefield, you may have it deal 2 damage "
 "to another creature you control. If you do, draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, że zada on innemu "
+"wskazanemu stworowi pod twoim władaniem 2 obrażenia. Jeśli tak zrobisz, "
+"dobierz kartę."
 
 #: ../../ELD.rst:700
 msgid ""
@@ -2130,7 +2152,7 @@ msgstr ""
 #: ../../ELD.rst:697
 msgid ""
 "Wishclaw Talisman enters the battlefield with three wish counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki z trzema znacznikami życzenia."
 
 #: ../../ELD.rst:699
 msgid ""
@@ -2139,6 +2161,10 @@ msgid ""
 "opponent gains control of Wishclaw Talisman. Activate this ability only "
 "during your turn."
 msgstr ""
+"|mana_1|, |tap|, usuń znacznik życzenia z tego artefaktu: Wyszukaj w twojej "
+"bibliotece dowolną kartę, umieść ją w twojej ręce, następnie przetasuj twoją "
+"bibliotekę. Przeciwnik zyskuje władanie nad tym artefaktem. Aktywuj tę "
+"zdolność tylko w twojej turze."
 
 #: ../../ELD.rst:704
 msgid ""
@@ -2151,6 +2177,7 @@ msgstr ""
 msgid ""
 "Creatures of the creature type of your choice get -3/-3 until end of turn."
 msgstr ""
+"Stwory o wybranym przez ciebie typie stwora dostają do końca tury -3/-3."
 
 #: ../../ELD.rst:708
 msgid ""
@@ -2164,6 +2191,8 @@ msgid ""
 "Target attacking creature gets +2/+2 until end of turn. Each attacking non-"
 "Human creature gains trample until end of turn."
 msgstr ""
+"Wskazany atakujący stwór dostaje do końca tury +2/+2. Każdy atakujący stwór "
+"nie mający typu Człowiek, zyskuje tratowanie do końca tury."
 
 #: ../../ELD.rst:712
 msgid ""
@@ -2177,6 +2206,8 @@ msgid ""
 "Whenever you draw your second card each turn, Bloodhaze Wolverine gets +1/+1 "
 "and gains first strike until end of turn."
 msgstr ""
+"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, ten stwór dostaje do "
+"końca tury +1/+1 i pierwszy cios."
 
 #: ../../ELD.rst:716
 msgid ""
@@ -2190,6 +2221,8 @@ msgid ""
 "Up to three target creatures can't block this turn. Destroy any of them that "
 "are Walls."
 msgstr ""
+"Co najwyżej trzy wskazane stwory nie mogą blokować w tej turze. Zniszcz "
+"dowolne z nich mające typ Ściana."
 
 #: ../../ELD.rst:720
 msgid ""
@@ -2203,6 +2236,8 @@ msgid ""
 "Whenever Bonecrusher Giant becomes the target of a spell, Bonecrusher Giant "
 "deals 2 damage to that spell's controller."
 msgstr ""
+"Ilekroć ten stwór zostanie wskazany przez czar, zadaje on władcy owego czaru "
+"2 obrażenia."
 
 #: ../../ELD.rst:724
 msgid ""
@@ -2215,6 +2250,8 @@ msgstr ""
 msgid ""
 "Damage can't be prevented this turn. Stomp deals 2 damage to any target."
 msgstr ""
+"Obrażenia nie mogą być zażegnane w tej turze. Ten czar zadaje 2 obrażenia w "
+"dowolnie wskazany cel."
 
 #: ../../ELD.rst:732
 msgid ""
@@ -2225,17 +2262,18 @@ msgstr ""
 
 #: ../../ELD.rst:727
 msgid "Defender, reach"
-msgstr ""
+msgstr "Obronność, zasięg"
 
 #: ../../ELD.rst:729
 msgid "|tap|: Brimstone Trebuchet deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../ELD.rst:731
 msgid ""
 "Whenever a Knight enters the battlefield under your control, untap Brimstone "
 "Trebuchet."
 msgstr ""
+"Ilekroć Rycerz wejdzie na pole walki pod twoim władaniem, odkręć tego stwora."
 
 #: ../../ELD.rst:738
 msgid ""
@@ -2249,6 +2287,8 @@ msgid ""
 "When Burning-Yard Trainer enters the battlefield, another target Knight you "
 "control gets +2/+2 and gains trample and haste until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inny wskazany Rycerz pod twoim "
+"władaniem dostaje do końca tury +2/+2 oraz tratowanie i pośpiech."
 
 #: ../../ELD.rst:742
 msgid ""
@@ -2262,6 +2302,8 @@ msgid ""
 "Gain control of target creature with converted mana cost 3 or less until end "
 "of turn. Untap that creature. It gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem o skróconym koszcie many "
+"3 lub mniejszym. Odkręć owego stwora. Zyskuje on pośpiech do końca tury."
 
 #: ../../ELD.rst:748
 msgid ""
@@ -2272,7 +2314,7 @@ msgstr ""
 
 #: ../../ELD.rst:745
 msgid "Equipped creature gets +1/+0 and has haste."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 i ma pośpiech."
 
 #: ../../ELD.rst:747
 msgid ""
@@ -2294,20 +2336,24 @@ msgid ""
 "This spell costs |mana_1| less to cast for each attacking creature you "
 "control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego atakującego stwora "
+"pod twoim władaniem."
 
 #: ../../ELD.rst:755
 msgid ""
 "When Embercleave enters the battlefield, attach it to target creature you "
 "control."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../ELD.rst:757
 msgid "Equipped creature gets +1/+1 and has double strike and trample."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 i ma podwójny cios oraz tratowanie."
 
 #: ../../ELD.rst:759 ../../ELD.rst:1645
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../ELD.rst:766
 msgid ""
@@ -2361,6 +2407,8 @@ msgstr ""
 #: ../../ELD.rst:777
 msgid "Attacking non-Human creatures you control get +1/+0 and have trample."
 msgstr ""
+"Atakujące stwory pod twoim władaniem nie mające typu Człowiek dostają +1/+0 "
+"i mają tratowanie."
 
 #: ../../ELD.rst:786
 msgid ""
@@ -2371,19 +2419,23 @@ msgstr ""
 
 #: ../../ELD.rst:781
 msgid "First strike, haste"
-msgstr ""
+msgstr "Pierwszy cios, pośpiech"
 
 #: ../../ELD.rst:783
 msgid ""
 "Whenever Fervent Champion attacks, another target attacking Knight you "
 "control gets +1/+0 until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany atakujący Rycerz pod twoim "
+"władaniem dostaje do końca tury +1/+0."
 
 #: ../../ELD.rst:785
 msgid ""
 "Equip abilities you activate that target Fervent Champion cost |mana_3| less "
 "to activate."
 msgstr ""
+"Aktywacja zdolności wyposażania wskazujących niniejszego stwora kosztuje o "
+"|mana_3| mniej."
 
 #: ../../ELD.rst:792
 msgid ""
@@ -2397,12 +2449,16 @@ msgid ""
 "You can cast spells only during your turn and you can cast no more than two "
 "spells each turn."
 msgstr ""
+"Możesz rzucać czary tylko w swojej turze i możesz rzucić nie więcej niż dwa "
+"czary w każdej turze."
 
 #: ../../ELD.rst:791
 msgid ""
 "You may cast spells with converted mana cost less than or equal to the "
 "number of lands you control without paying their mana costs."
 msgstr ""
+"Możesz rzucać czary o skróconych kosztach many mniejszych lub równych "
+"liczbie lądów pod twoim władaniem bez płacenia ich kosztów many."
 
 #: ../../ELD.rst:798
 msgid ""
@@ -2413,12 +2469,13 @@ msgstr ""
 
 #: ../../ELD.rst:795
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../ELD.rst:797
 msgid ""
 "Fling deals damage equal to the sacrificed creature's power to any target."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe sile poświęconego stwora."
 
 #: ../../ELD.rst:802
 msgid ""
@@ -2430,6 +2487,7 @@ msgstr ""
 #: ../../ELD.rst:801
 msgid "Add seven |mana_r|. You can cast only one more spell this turn."
 msgstr ""
+"Weź siedem |mana_r|. Możesz rzucić tylko jeszcze jeden czar w tej turze."
 
 #: ../../ELD.rst:806
 msgid ""
@@ -2443,6 +2501,8 @@ msgid ""
 "Whenever you draw your second card each turn, Irencrag Pyromancer deals 3 "
 "damage to any target."
 msgstr ""
+"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, ten stwór zadaje "
+"wskazanemu celowi 3 obrażenia."
 
 #: ../../ELD.rst:810
 msgid ""
@@ -2458,6 +2518,10 @@ msgid ""
 "those creatures fight each other. (Each deals damage equal to its power to "
 "the other.)"
 msgstr ""
+"Wybierz wskazanego stwora pod twoim władaniem i wskazanego stwora poza twoim "
+"władaniem. Stwór pod twoim władaniem dostaje do końca tury +2/+1 jeśli jest "
+"Rycerzem. Następnie owe stwory walczą ze sobą. (Każdy zadaje drugiemu "
+"obrażenia równe swojej sile.)"
 
 #: ../../ELD.rst:814
 msgid ""
@@ -2471,6 +2535,8 @@ msgid ""
 "Whenever you draw your second card each turn, create two 1/1 black Rat "
 "creature tokens."
 msgstr ""
+"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, stwórz dwa żetony "
+"czarnego stwora Szczur 1/1."
 
 #: ../../ELD.rst:818
 msgid ""
@@ -2510,6 +2576,9 @@ msgid ""
 "Whenever Ogre Errant attacks, another target attacking Knight gains menace "
 "until end of turn. (It can't be blocked except by two or more creatures.)"
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany atakujący Rycerz pod twoim "
+"władaniem zyskuje złowrogość do końca tury. (Nie może być blokowany, chyba "
+"że przez co najmniej dwa stwory.)"
 
 #: ../../ELD.rst:832
 msgid ""
@@ -2525,6 +2594,10 @@ msgid ""
 "on the battlefield, gain control of that permanent, it loses all abilities, "
 "and it can't attack or block."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskaż Człowieka lub artefakt pod "
+"władaniem przeciwnika. Na czas pozostawania niniejszego stwora na polu walki "
+"zyskaj władanie nad owym permanentem, traci on wszystkie zdolności i nie "
+"może atakować ani blokować."
 
 #: ../../ELD.rst:836
 msgid ""
@@ -2535,7 +2608,7 @@ msgstr ""
 
 #: ../../ELD.rst:835 ../../ELD.rst:1307
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../ELD.rst:840
 msgid ""
@@ -2549,6 +2622,8 @@ msgid ""
 "Redcap Melee deals 4 damage to target creature or planeswalker. If a nonred "
 "permanent is dealt damage this way, you sacrifice a land."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 4 obrażenia. Jeśli "
+"nieczerwony permanent otrzyma obrażenia w ten sposób, poświęć ląd."
 
 #: ../../ELD.rst:844
 msgid ""
@@ -2563,6 +2638,9 @@ msgid ""
 "you control. If you do, Redcap Raiders gets +1/+1 and gains trample until "
 "end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz odkręcić przekręconego stwora nie mającego "
+"typu Człowiek. Jeśli tak zrobisz, ten niniejszy stwór dostaje do końca tury +"
+"1/+1 i tratowanie."
 
 #: ../../ELD.rst:848
 msgid ""
@@ -2573,7 +2651,7 @@ msgstr ""
 
 #: ../../ELD.rst:847
 msgid "Rimrock Knight can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../ELD.rst:852
 msgid ""
@@ -2599,7 +2677,7 @@ msgstr ""
 
 #: ../../ELD.rst:855
 msgid "Reach, haste"
-msgstr ""
+msgstr "Zasięg, pośpiech"
 
 #: ../../ELD.rst:857
 msgid ""
@@ -2608,6 +2686,10 @@ msgid ""
 "attacked with a Rogue, you may cast that card and you may spend mana as "
 "though it were mana of any color to cast that spell."
 msgstr ""
+"Ilekroć ten stwór atakuje, jeśli broniący się gracz ma więcej kart w ręce "
+"niż ty, wygnaj wierzchnią kartę jego biblioteki. W ciągu dowolnej tury, w "
+"której atakowałeś Łotrzykiem, możesz rzucić ową kartę i możesz wydawać manę "
+"tak, jakby była to mana dowolnego koloru potrzebnego do jego rzucenia."
 
 #: ../../ELD.rst:862
 msgid ""
@@ -2621,6 +2703,8 @@ msgid ""
 "Scorching Dragonfire deals 3 damage to target creature or planeswalker. If "
 "that creature or planeswalker would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia. Jeśli ów "
+"stwór lub wędrowiec miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../ELD.rst:868
 msgid ""
@@ -2631,7 +2715,7 @@ msgstr ""
 
 #: ../../ELD.rst:865
 msgid "Searing Barrage deals 5 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../ELD.rst:867
 msgid ""
@@ -2653,10 +2737,12 @@ msgid ""
 "Seven Dwarves gets +1/+1 for each other creature named Seven Dwarves you "
 "control."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdego innego stwora o nazwie Seven Dwarves pod "
+"twoim władaniem."
 
 #: ../../ELD.rst:873
 msgid "A deck can have up to seven cards named Seven Dwarves."
-msgstr ""
+msgstr "Talia może mieć co najwyżej siedem kart o nazwie Seven Dwarves."
 
 #: ../../ELD.rst:878
 msgid ""
@@ -2670,6 +2756,8 @@ msgid ""
 "Whenever Skullknocker Ogre deals damage to an opponent, that player discards "
 "a card at random. If the player does, they draw a card."
 msgstr ""
+"Ilekroć ten stwór zada przeciwnikowi obrażenia, ów gracz odrzuca losową "
+"kartę. Jeśli ów gracz to zrobi, dobiera kartę."
 
 #: ../../ELD.rst:884
 msgid ""
@@ -2680,7 +2768,7 @@ msgstr ""
 
 #: ../../ELD.rst:881
 msgid "Slaying Fire deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../ELD.rst:883
 msgid ""
@@ -2704,6 +2792,10 @@ msgid ""
 "instead Sundering Stroke deals 7 damage to each of those permanents and/or "
 "players."
 msgstr ""
+"Ten czar zadaje 7 obrażeń rozdzielonych dowolnie pomiędzy jeden, dwa lub "
+"trzy wskazane cele. Jeśli do rzucenia tego czaru użyto przynajmniej siedem "
+"czerwonych man, zamiast tego ten czar zadaje po 7 obrażeń każdemu z owych "
+"celów."
 
 #: ../../ELD.rst:894
 msgid ""
@@ -2718,10 +2810,13 @@ msgid ""
 "damage to a player, exile the top card of your library. You may play that "
 "card this turn."
 msgstr ""
+"Kiedy ten stwór lub czar sztuczki albo obrzędu zada graczowi obrażenia, "
+"wygnaj wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę w tej "
+"turze."
 
 #: ../../ELD.rst:893
 msgid "|tap|: Syr Carah deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../ELD.rst:900
 msgid ""
@@ -2750,6 +2845,8 @@ msgid ""
 "If a red source you control would deal damage to an opponent or a permanent "
 "an opponent controls, it deals that much damage plus 2 instead."
 msgstr ""
+"Jeśli czerwone źródło miałoby zadać obrażenia przeciwnikowi lub permanentowi "
+"pod władaniem przeciwnika, zamiast tego zadaje ono o 2 obrażenia więcej."
 
 #: ../../ELD.rst:908
 msgid ""
@@ -2760,7 +2857,7 @@ msgstr ""
 
 #: ../../ELD.rst:907
 msgid "|mana_1|\\ |mana_r|: Weaselback Redcap gets +2/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../ELD.rst:912
 msgid ""
@@ -2774,6 +2871,8 @@ msgid ""
 "Beanstalk Giant's power and toughness are each equal to the number of lands "
 "you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../ELD.rst:916
 msgid ""
@@ -2828,6 +2927,8 @@ msgid ""
 "Whenever you cast a creature spell that has an Adventure, draw a card. (It "
 "doesn't need to have gone on the adventure first.)"
 msgstr ""
+"Ilekroć rzucisz czar stwora mającego Przygodę, dobierz kartę. (Nie musiał "
+"wcześniej odbyć przygody.)"
 
 #: ../../ELD.rst:936
 msgid ""
@@ -2838,7 +2939,7 @@ msgstr ""
 
 #: ../../ELD.rst:931
 msgid "Vigilance, trample"
-msgstr ""
+msgstr "Czujność, tratowanie"
 
 #: ../../ELD.rst:933
 msgid ""
