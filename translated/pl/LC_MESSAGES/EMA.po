@@ -3,21 +3,23 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-11 16:23+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/ema/pl/>\n"
+"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ema/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 3.10.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../EMA.rst:5
@@ -3641,7 +3643,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../EMA.rst:1329
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../EMA.rst:1331
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3690,7 +3692,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../EMA.rst:1351
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../EMA.rst:1353
 msgid "|tap|: Add |mana_r| or |mana_w|."
