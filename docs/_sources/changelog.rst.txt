@@ -2,6 +2,9 @@
 ***********
 Spis zmian
 ***********
+2020-01-20
+   * Throne of Eldraine - 100%
+
 
 2020-01-19
     * Theros: Beyond Death - 100%
