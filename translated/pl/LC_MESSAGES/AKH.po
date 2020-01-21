@@ -4,21 +4,23 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2019-07-14 19:57+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/akh/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 3.10.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AKH.rst:5
@@ -3673,7 +3675,7 @@ msgstr ""
 
 #: ../../AKH.rst:1233
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór zyskuje podwójny cios do końca tury."
 
 #: ../../AKH.rst:1238
 msgid ""
