@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c15/"
 "pl/>\n"
@@ -643,7 +643,7 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
 "wystarcza, aby został zniszczony.)"
 
 #: ../../C15.rst:231
@@ -987,12 +987,16 @@ msgid ""
 "other target creatures from the battlefield and/or creature cards from "
 "graveyards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać co najwyżej trzy inne "
+"wskazane stwory z pola walki lub karty stworów z cmentarzy."
 
 #: ../../C15.rst:355
 msgid ""
 "When Angel of Serenity leaves the battlefield, return the exiled cards to "
 "their owners' hands."
 msgstr ""
+"Kiedy ten stwór opuści pole walki, przywróć wygnane karty do rąk ich "
+"właścicieli."
 
 #: ../../C15.rst:362
 msgid ""
@@ -1481,7 +1485,7 @@ msgstr ""
 
 #: ../../C15.rst:531
 msgid "Tap target creature you don't control."
-msgstr ""
+msgstr "Wskazany stwór poza twoim władaniem zostaje przekręcony."
 
 #: ../../C15.rst:533
 msgid ""
@@ -2255,7 +2259,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../C15.rst:785
 msgid "Enchanted land has \"|tap|, Pay 1 life: Draw a card.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|, zapłać 1 życie: Dobierz kartę.\""
 
 #: ../../C15.rst:790
 msgid ""
@@ -2762,7 +2766,7 @@ msgstr ""
 
 #: ../../C15.rst:957
 msgid "Destroy target artifact you don't control."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt poza twoim władaniem."
 
 #: ../../C15.rst:959
 msgid ""
@@ -3446,7 +3450,7 @@ msgstr ""
 
 #: ../../C15.rst:1191
 msgid "Counter target spell you don't control."
-msgstr ""
+msgstr "Skontruj wskazany czar poza twoim władaniem."
 
 #: ../../C15.rst:1193
 msgid ""
@@ -3483,6 +3487,10 @@ msgid ""
 "without paying its mana cost. Then put all cards exiled this way that "
 "weren't cast into your graveyard."
 msgstr ""
+"Wygnaj X wierzchnich kart twojej biblioteki. Możesz rzucić każdą kartę "
+"sztuczki i obrzędu o skróconym koszcie many X lub mniejszym spośród nich, "
+"bez płacenia jej kosztu many. Następnie umieść w twoim cmentarzu wszystkie "
+"karty wygnane w ten sposób, które nie zostały rzucone."
 
 #: ../../C15.rst:1208
 msgid ""
@@ -3522,6 +3530,10 @@ msgid ""
 "it, and put it into your hand. Then repeat this process for instant cards "
 "with converted mana costs 2 and 1. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę sztuczki o skróconym koszcie many 3, "
+"ujawnij ją i umieść w twojej ręce. Następnie powtórz ten proces dla kart "
+"sztuczek o skróconym koszcie many 2 i 1. Następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../C15.rst:1220
 msgid ""
@@ -3567,7 +3579,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../C15.rst:1229
 msgid "All creatures get -1/-1 until end of turn."
-msgstr "Wszystkie stwory dostają -1/-1 do końca tury."
+msgstr "Wszystkie stwory dostają do końca tury -1/-1."
 
 #: ../../C15.rst:1233
 msgid "Regenerate each creature you control."
@@ -4818,7 +4830,7 @@ msgstr ""
 
 #: ../../C15.rst:1719
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../C15.rst:1728
 msgid ""
