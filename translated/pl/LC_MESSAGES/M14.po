@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-18 22:01+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m14/"
 "pl/>\n"
@@ -1659,7 +1659,7 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
 "wystarcza, aby został zniszczony.)"
 
 #: ../../M14.rst:482
@@ -2034,7 +2034,7 @@ msgstr ""
 # 6abb1bdf5e184cb6a86c751a02bfe9dc
 #: ../../M14.rst:589
 msgid "All creatures get -1/-1 until end of turn."
-msgstr "Wszystkie stwory dostają -1/-1 do końca tury."
+msgstr "Wszystkie stwory dostają do końca tury -1/-1."
 
 #: ../../M14.rst:594
 msgid ""
@@ -2999,7 +2999,7 @@ msgstr ""
 # 08a7294d010444e48d82275d46f3d159
 #: ../../M14.rst:867
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 
 #: ../../M14.rst:872
 msgid ""
