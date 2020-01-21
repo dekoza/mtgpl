@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/a25/"
 "pl/>\n"
@@ -591,6 +591,8 @@ msgid ""
 "When Urbis Protector enters the battlefield, create a 4/4 white Angel "
 "creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Anioł 4/4 "
+"z lataniem."
 
 #: ../../A25.rst:198
 msgid ""
@@ -1149,8 +1151,7 @@ msgstr ""
 
 #: ../../A25.rst:393
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr ""
-"Umieść wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
+msgstr "Umieść wskazany nielądowy permanent na wierzchu biblioteki właściciela."
 
 #: ../../A25.rst:400
 msgid ""
@@ -1814,6 +1815,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć owego stwora. "
+"Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
 #: ../../A25.rst:640
 msgid ""
@@ -3014,7 +3017,7 @@ msgstr "Permanenty pod twoim władaniem zyskują niezniszczalność do końca tu
 
 #: ../../A25.rst:1037
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór zyskuje podwójny cios do końca tury."
 
 #: ../../A25.rst:1044
 msgid ""
@@ -3468,7 +3471,7 @@ msgstr ""
 
 #: ../../A25.rst:1207
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
 
 #: ../../A25.rst:1209
 msgid "|mana_1|, |tap|: Add one mana of any color."
