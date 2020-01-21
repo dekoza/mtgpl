@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c13/"
 "pl/>\n"
@@ -2210,6 +2210,8 @@ msgid ""
 "Street Spasm deals X damage to target creature without flying you don't "
 "control."
 msgstr ""
+"Wskazany stwór bez latania poza twoim władaniem dostaje od tego czaru X "
+"obrażeń."
 
 #: ../../C13.rst:699
 msgid ""
@@ -2392,7 +2394,7 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
 "wystarcza, aby został zniszczony.)"
 
 # df512c6484d943edae58daa7445f10cd
@@ -3433,9 +3435,8 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:1111
-#, fuzzy
 msgid "Exile all cards from target player's graveyard."
-msgstr "Wygnaj wskazaną kartę z cmentarza."
+msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
 #: ../../C13.rst:1113
@@ -4157,6 +4158,8 @@ msgid ""
 "|mana_w|\\ |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird "
 "artifact creature with flying until end of turn."
 msgstr ""
+"|mana_w|\\ |mana_u|: Do końca tury ten artefakt staje się biało-niebieskim "
+"artefaktycznym stworem Ptak 2/2 z lataniem."
 
 #: ../../C13.rst:1370
 msgid ""
@@ -5783,7 +5786,7 @@ msgstr ""
 # 9d5abd4a4a2f45ecaa681c02f40efc6f
 #: ../../C13.rst:1943
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # a22dd32cecd14fa3a45100c916cfba49
 #: ../../C13.rst:1945
@@ -5791,7 +5794,7 @@ msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you "
 "pay |mana_1|."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki poświęć ją, chyba że zapłacisz |mana_1|."
+"Kiedy ten ląd wejdzie na pole walki poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../C13.rst:1954
 msgid ""
