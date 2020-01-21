@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gk2/"
 "pl/>\n"
@@ -584,7 +584,8 @@ msgid ""
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
 "Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
-"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
+"zrobisz, każdy z przeciwników traci po 1 życiu, a ty zyskujesz tyle samo "
+"żyć.)"
 
 #: ../../GK2.rst:207
 msgid ""
@@ -677,6 +678,10 @@ msgid ""
 "this creature: Return a card named Deathpact Angel from your graveyard to "
 "the battlefield.\""
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton biało-czarnego stwora Kleryk 1/1 "
+"mającego \"|mana_3|\\ |mana_w|\\ |mana_b|\\ |mana_b|, |tap|, poświęć tego "
+"stwora: Przywróć kartę o nazwie Deathpact Angel z twojego cmentarza na pole "
+"walki.\""
 
 #: ../../GK2.rst:248
 msgid ""
@@ -735,6 +740,8 @@ msgid ""
 "At the beginning of the upkeep of enchanted creature's controller, that "
 "player loses 1 life."
 msgstr ""
+"Na początku kroku utrzymania władcy zauroczonego stwora, ów gracz traci 1 "
+"życie."
 
 #: ../../GK2.rst:272
 msgid ""
@@ -748,16 +755,20 @@ msgid ""
 "Return target creature you control and all Auras you control attached to it "
 "to their owner's hand."
 msgstr ""
+"Przywróć wskazanego stwora pod twoim władaniem i wszystkie Aury doń "
+"dołączone do rąk ich właścicieli."
 
 #: ../../GK2.rst:269
 msgid "Destroy target creature and you lose life equal to its toughness."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora i strać życia równe jego wytrzymałości."
 
 #: ../../GK2.rst:271
 msgid ""
 "Return target creature card with converted mana cost 1 or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę stwora o skróconym koszcie many 1 lub mniejszym z "
+"twojego cmentarza na pole walki."
 
 #: ../../GK2.rst:282
 msgid ""
@@ -823,6 +834,8 @@ msgid ""
 "Whenever Treasury Thrull attacks, you may return target artifact, creature, "
 "or enchantment card from your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz przywrócić wskazaną kartę artefaktu, "
+"stwora lub uroku z twojego cmentarza do twojej ręki."
 
 #: ../../GK2.rst:306
 msgid ""
@@ -836,12 +849,16 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Target creature gains lifelink until end of "
 "turn."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|: Wskazany stwór zyskuje więź życia do końca "
+"tury."
 
 #: ../../GK2.rst:305
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Whenever you gain life this turn, each "
 "opponent loses that much life."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|: Ilekroć zyskasz życie w tej turze, każdy z "
+"przeciwników traci tyle samo żyć."
 
 #: ../../GK2.rst:310
 msgid ""
@@ -1414,6 +1431,8 @@ msgid ""
 "Bloodrush — |mana_g|, Discard Wasteland Viper: Target attacking creature "
 "gets +1/+2 and gains deathtouch until end of turn."
 msgstr ""
+"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór dostaje do "
+"końca tury +1/+2 oraz dotyk śmierci."
 
 #: ../../GK2.rst:534
 msgid ""
@@ -1463,7 +1482,7 @@ msgstr ""
 #: ../../GK2.rst:543
 msgid ""
 "When Burning-Tree Emissary enters the battlefield, add |mana_r|\\ |mana_g|."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, weź |mana_r|\\ |mana_g|."
 
 #: ../../GK2.rst:548
 msgid ""
@@ -1493,6 +1512,8 @@ msgid ""
 "Bloodrush — |mana_r|\\ |mana_g|, Discard Ghor-Clan Rampager: Target "
 "attacking creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
+"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór "
+"dostaje do końca tury +4/+4 i tratowanie."
 
 #: ../../GK2.rst:560
 msgid ""
@@ -1520,15 +1541,15 @@ msgstr ""
 
 #: ../../GK2.rst:565
 msgid "Creatures without flying can't block this turn."
-msgstr ""
+msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../GK2.rst:567
 msgid "Gain control of all permanents you own."
-msgstr ""
+msgstr "Zyskaj władanie nad wszystkimi własnymi permanentami."
 
 #: ../../GK2.rst:569
 msgid "Gruul Charm deals 3 damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi z lataniem 3 obrażenia."
 
 #: ../../GK2.rst:574
 msgid ""
@@ -1542,6 +1563,8 @@ msgid ""
 "Target creature you control fights another target creature. (Each deals "
 "damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy z innym wskazanym stworem. (Każdy "
+"zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../GK2.rst:578
 msgid ""
@@ -1555,6 +1578,8 @@ msgid ""
 "Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each "
 "attacking creature you control."
 msgstr ""
+"Ilekroć ten stwór atakuje, umieść na nim znacznik +1/+1 za każdego "
+"atakującego stwora pod twoim władaniem."
 
 #: ../../GK2.rst:584
 msgid ""
@@ -1568,6 +1593,7 @@ msgid ""
 "Rubblehulk's power and toughness are each equal to the number of lands you "
 "control."
 msgstr ""
+"Siła oraz wytrzymałość tej karty są równe liczbie lądów pod twoim władaniem."
 
 #: ../../GK2.rst:583
 msgid ""
@@ -1575,6 +1601,9 @@ msgid ""
 "attacking creature gets +X/+X until end of turn, where X is the number of "
 "lands you control."
 msgstr ""
+"Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany "
+"atakujący stwór dostaje do końca tury +X/+X, gdzie X to liczba lądów pod "
+"twoim władaniem."
 
 #: ../../GK2.rst:588
 msgid ""
@@ -1683,6 +1712,8 @@ msgid ""
 "Bloodrush — |mana_1|\\ |mana_r|\\ |mana_g|, Discard Zhur-Taa Swine: Target "
 "attacking creature gets +5/+4 until end of turn."
 msgstr ""
+"Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany "
+"atakujący stwór dostaje do końca tury +5/+4."
 
 #: ../../GK2.rst:630
 msgid ""
@@ -1754,7 +1785,7 @@ msgstr ""
 
 #: ../../GK2.rst:649
 msgid "Each creature you control with a +1/+1 counter on it has trample."
-msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma tratowanie."
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma tratowanie."
 
 #: ../../GK2.rst:656
 msgid ""
@@ -1770,6 +1801,9 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
+"Ewoluuje (Ilekroć jakiś stwór wejdzie na pole walki pod twoim władaniem, "
+"jeśli ów stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść "
+"znacznik +1/+1 na niniejszym stworze.)"
 
 #: ../../GK2.rst:660
 msgid ""
@@ -1783,6 +1817,8 @@ msgid ""
 "Destroy target creature. It can't be regenerated. That creature's controller "
 "creates a 3/3 green Frog Lizard creature token."
 msgstr ""
+"Zniszcz wskazanego stwora. Nie można go zregenerować. Władca owego stwora "
+"tworzy żeton zielonego stwora Żaba Jaszczur 3/3."
 
 #: ../../GK2.rst:668
 msgid ""
@@ -1823,7 +1859,7 @@ msgstr ""
 #: ../../GK2.rst:673
 msgid ""
 "Remove two +1/+1 counters from Experiment One: Regenerate Experiment One."
-msgstr ""
+msgstr "Usuń dwa znaczniki +1/+1 z tego stwora: Zregeneruj tego stwora."
 
 #: ../../GK2.rst:680
 msgid ""
@@ -1834,7 +1870,7 @@ msgstr ""
 
 #: ../../GK2.rst:679
 msgid "|tap|: Add |mana_g| for each +1/+1 counter on Gyre Sage."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| za każdy znacznik +1/+1 na tym stworze."
 
 #: ../../GK2.rst:684
 msgid ""
@@ -1848,6 +1884,8 @@ msgid ""
 "Create an X/X green Ooze creature token, where X is the greatest power among "
 "creatures you control."
 msgstr ""
+"Stwórz żeton zielonego stwora Szlam X/X, gdzie X jest największą siłą "
+"spośród stworów pod twoim władaniem."
 
 #: ../../GK2.rst:688
 msgid ""
@@ -1888,7 +1926,7 @@ msgstr ""
 
 #: ../../GK2.rst:695
 msgid "Elusive Krasis can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../GK2.rst:704
 msgid ""
@@ -1917,6 +1955,8 @@ msgstr ""
 #: ../../GK2.rst:709
 msgid "Whenever a +1/+1 counter is put on Fathom Mage, you may draw a card."
 msgstr ""
+"Ilekroć znacznik +1/+1 zostanie umieszczony na tym stworze, możesz dobrać "
+"kartę."
 
 #: ../../GK2.rst:716
 msgid ""
@@ -1947,7 +1987,7 @@ msgstr ""
 
 #: ../../GK2.rst:721
 msgid "Nimbus Swimmer enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../GK2.rst:726
 msgid ""
@@ -2030,7 +2070,7 @@ msgstr ""
 
 #: ../../GK2.rst:751
 msgid "Draw three cards. You may play an additional land this turn."
-msgstr ""
+msgstr "Dobierz trzy karty. W tej turze możesz zagrać dodatkowy ląd."
 
 #: ../../GK2.rst:756
 msgid ""
@@ -2070,12 +2110,16 @@ msgid ""
 "|mana_g|\\ |mana_u|: This turn, each creature you control enters the "
 "battlefield with an additional +1/+1 counter on it."
 msgstr ""
+"|mana_g|\\ |mana_u|: W tej turze każdy stwór pod twoim władaniem wchodzi na "
+"pole walki mając dodatkowy znacznik +1/+1."
 
 #: ../../GK2.rst:765
 msgid ""
 "|mana_g|\\ |mana_u|, Remove a +1/+1 counter from a creature you control: "
 "Draw a card."
 msgstr ""
+"|mana_g|\\ |mana_u|, usuń znacznik +1/+1 ze stwora pod twoim władaniem: "
+"Dobierz kartę."
 
 #: ../../GK2.rst:770
 msgid ""
