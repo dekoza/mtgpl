@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-19 18:31+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ima/"
 "pl/>\n"
@@ -827,6 +827,9 @@ msgid ""
 "library into their graveyard, where X is the number of creatures with "
 "defender you control."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|: Wskazany gracz umieszcza X wierzchnich kart "
+"swojej biblioteki w swoim cmentarzu, gdzie X jest liczbą stworów z "
+"obronnością pod twoim władaniem."
 
 #: ../../IMA.rst:318
 msgid ""
@@ -1263,8 +1266,8 @@ msgid ""
 "Unleash (You may have this creature enter the battlefield with a +1/+1 "
 "counter on it. It can't block as long as it has a +1/+1 counter on it.)"
 msgstr ""
-"Poszczucie (Możesz zdecydować, że ten stwór wejdzie na pole walki ze "
-"znacznikiem +1/+1. Ten stwór nie może blokować o ile ma znacznik +1/+1.)"
+"Poszczucie (Możesz zdecydować, że ten stwór wejdzie na pole walki mając "
+"znacznik +1/+1. Ten stwór nie może blokować o ile ma znacznik +1/+1.)"
 
 #: ../../IMA.rst:496
 msgid ""
@@ -1592,7 +1595,7 @@ msgstr ""
 
 #: ../../IMA.rst:609
 msgid "|tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
-msgstr ""
+msgstr "|tap|, zapłać 3 życia: Rzuć monetą. Jeśli wygrasz rzut, zyskaj 6 żyć."
 
 #: ../../IMA.rst:614
 msgid ""
@@ -2211,7 +2214,7 @@ msgstr ""
 
 #: ../../IMA.rst:853
 msgid "Destroy target creature with flying. You gain 2 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem. Zyskaj 2 życia."
 
 #: ../../IMA.rst:862
 msgid ""
@@ -2385,7 +2388,7 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
 "wystarcza, aby został zniszczony.)"
 
 #: ../../IMA.rst:916
@@ -2777,12 +2780,14 @@ msgstr ""
 
 #: ../../IMA.rst:1057
 msgid "Creatures you control gain lifelink until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem zyskują więź życia do końca tury."
 
 #: ../../IMA.rst:1061
 msgid ""
 "Put target attacking or blocking creature on top of its owner's library."
 msgstr ""
+"Umieść wskazanego atakującego lub blokującego stwora na wierzchu biblioteki "
+"właściciela."
 
 #: ../../IMA.rst:1070
 msgid ""
@@ -2864,6 +2869,8 @@ msgid ""
 "If one or more +1/+1 counters would be put on a creature you control, twice "
 "that many +1/+1 counters are put on it instead."
 msgstr ""
+"Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać umieszczonych na "
+"stworze pod twoim władaniem, zamiast tego umieść ich tam dwukrotnie więcej."
 
 #: ../../IMA.rst:1100
 msgid ""
