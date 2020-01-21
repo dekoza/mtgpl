@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mir/"
 "pl/>\n"
@@ -1833,7 +1833,7 @@ msgstr ""
 
 #: ../../MIR.rst:675
 msgid "Enchanted creature gets -2/-2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -2/-2."
 
 #: ../../MIR.rst:680
 msgid ""
@@ -1881,7 +1881,7 @@ msgstr ""
 
 #: ../../MIR.rst:693
 msgid "Players can't gain life."
-msgstr ""
+msgstr "Gracze nie mogą zyskiwać życia."
 
 #: ../../MIR.rst:695
 msgid "At the beginning of each player's upkeep, that player loses 1 life."
@@ -2945,12 +2945,12 @@ msgid ""
 msgstr ""
 
 #: ../../MIR.rst:1095
-#, fuzzy
-#| msgid "Reach (This creature can block creatures with flying.)"
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../MIR.rst:1097
 msgid ""
