@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c13/"
 "pl/>\n"
@@ -1777,6 +1777,8 @@ msgid ""
 "Wight of Precinct Six gets +1/+1 for each creature card in your opponents' "
 "graveyards."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdą kartę stwora w cmentarzach twoich "
+"przeciwników."
 
 #: ../../C13.rst:566
 msgid ""
@@ -3193,7 +3195,7 @@ msgstr "Permanenty pod twoim władaniem zyskują niezniszczalność do końca tu
 
 #: ../../C13.rst:1005
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór zyskuje podwójny cios do końca tury."
 
 #: ../../C13.rst:1012
 msgid ""
@@ -3962,22 +3964,20 @@ msgstr ""
 
 # 3791fe90945e4dcdaa67a3ebfeaf4c33
 #: ../../C13.rst:1297
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Target creature gains lifelink until end of "
 "turn."
 msgstr ""
-"|mana_1|\\ |mana_w|\\ |mana_b|: Wskazany stwór dostaje więź życia do końca "
+"|mana_1|\\ |mana_w|\\ |mana_b|: Wskazany stwór zyskuje więź życia do końca "
 "tury."
 
 #: ../../C13.rst:1299
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Whenever you gain life this turn, each "
 "opponent loses that much life."
 msgstr ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Ilekroć zyskasz życie w tej turze, każdy z "
-"przeciwników traci tyle samo życia."
+"przeciwników traci tyle samo żyć."
 
 #: ../../C13.rst:1308
 msgid ""
