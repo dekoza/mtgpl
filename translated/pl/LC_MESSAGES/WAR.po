@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/war/"
 "pl/>\n"
@@ -627,15 +627,12 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:191
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../WAR.rst:193
 msgid ""
@@ -2784,7 +2781,7 @@ msgstr ""
 
 #: ../../WAR.rst:837
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 
 #: ../../WAR.rst:846
 msgid ""
