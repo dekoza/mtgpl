@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-19 18:31+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/grn/"
 "pl/>\n"
@@ -952,15 +952,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:331
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../GRN.rst:340
 msgid ""
@@ -1173,7 +1170,7 @@ msgstr ""
 
 #: ../../GRN.rst:401
 msgid "All creatures get -1/-1 until end of turn."
-msgstr "Wszystkie stwory dostają -1/-1 do końca tury."
+msgstr "Wszystkie stwory dostają do końca tury -1/-1."
 
 #: ../../GRN.rst:408
 msgid ""
@@ -1882,7 +1879,7 @@ msgstr ""
 
 #: ../../GRN.rst:651 ../../GRN.rst:653 ../../GRN.rst:655 ../../GRN.rst:735
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 
 #: ../../GRN.rst:660
 msgid ""
@@ -4104,8 +4101,8 @@ msgid ""
 "As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki przekręcony."
+"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole walki."
 
 #: ../../GRN.rst:1400
 msgid ""
@@ -4123,8 +4120,8 @@ msgid ""
 "As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki przekręcony."
+"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole walki."
 
 #: ../../GRN.rst:1406
 msgid ""
@@ -4153,8 +4150,8 @@ msgid ""
 "As Steam Vents enters the battlefield, you may pay 2 life. If you don't, it "
 "enters the battlefield tapped."
 msgstr ""
-"Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki przekręcony."
+"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole walki."
 
 #: ../../GRN.rst:1418
 msgid ""
@@ -4172,8 +4169,8 @@ msgid ""
 "As Temple Garden enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki przekręcony."
+"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole walki."
 
 #: ../../GRN.rst:1424
 msgid ""
@@ -4191,8 +4188,8 @@ msgid ""
 "As Watery Grave enters the battlefield, you may pay 2 life. If you don't, it "
 "enters the battlefield tapped."
 msgstr ""
-"Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki przekręcony."
+"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole walki."
 
 #: ../../GRN.rst:1428
 msgid ""
