@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-22 18:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gk2/"
 "pl/>\n"
@@ -294,7 +294,7 @@ msgstr ""
 
 #: ../../GK2.rst:97
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../GK2.rst:99
 msgid ""
@@ -303,6 +303,10 @@ msgid ""
 "your next turn, those permanents can't attack or block and their activated "
 "abilities can't be activated.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, uwięź każdy nielądowy permanent pod "
+"władaniem twoich przeciwników mający skrócony koszt many 4 lub mniejszy. (Do "
+"twojej następnej tury owe permanenty nie mogą atakować ani blokować, a ich "
+"aktywowane zdolności nie mogą być aktywowane.)"
 
 #: ../../GK2.rst:106
 msgid ""
@@ -350,7 +354,7 @@ msgstr ""
 
 #: ../../GK2.rst:117
 msgid "Counter target spell. Its controller can't cast spells this turn."
-msgstr ""
+msgstr "Skontruj wskazany czar. Jego władca nie może rzucać czarów w tej turze."
 
 #: ../../GK2.rst:126
 msgid ""
@@ -592,6 +596,8 @@ msgid ""
 "Other creatures you control have extort. (If a creature has multiple "
 "instances of extort, each triggers separately.)"
 msgstr ""
+"Inne stwory pod twoim władaniem mają wymuszenie. (Jeśli stwór ma wiele "
+"wymuszeń, każde wyzwalane jest osobno.)"
 
 #: ../../GK2.rst:218
 msgid ""
@@ -784,9 +790,8 @@ msgid ""
 msgstr ""
 
 #: ../../GK2.rst:279
-#, fuzzy
 msgid "Creatures you control get +1/+1 until end of turn."
-msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma tratowanie."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../GK2.rst:281
 #, fuzzy
@@ -821,6 +826,8 @@ msgid ""
 "When Sin Collector enters the battlefield, target opponent reveals their "
 "hand. You choose an instant or sorcery card from it and exile that card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"rękę. Wybierz z niej kartę sztuczki lub obrzędu i wygnaj ją."
 
 #: ../../GK2.rst:300
 msgid ""
@@ -1144,11 +1151,11 @@ msgstr ""
 
 #: ../../GK2.rst:411
 msgid "First strike, deathtouch"
-msgstr ""
+msgstr "Pierwszy cios, dotyk śmierci"
 
 #: ../../GK2.rst:413
 msgid "Master of Cruelties can only attack alone."
-msgstr ""
+msgstr "Ten stwór może atakować wyłącznie sam."
 
 #: ../../GK2.rst:415
 msgid ""
@@ -1156,6 +1163,8 @@ msgid ""
 "player's life total becomes 1. Master of Cruelties assigns no combat damage "
 "this combat."
 msgstr ""
+"Ilekroć ten stwór atakuje gracza i nie jest blokowany, liczba żyć owego "
+"gracza staje się równa 1. Ten stwór nie zadaje obrażeń bojowych w tej walce."
 
 #: ../../GK2.rst:420
 msgid ""
@@ -1346,7 +1355,7 @@ msgstr "Czujność, zasięg"
 
 #: ../../GK2.rst:493
 msgid "Ruric Thar, the Unbowed attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli to możliwe."
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../GK2.rst:495
 msgid ""
@@ -1637,13 +1646,15 @@ msgstr ""
 
 #: ../../GK2.rst:597
 msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../GK2.rst:599
 msgid ""
 "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this "
 "ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_rg|: Umieść znacznik +1/+1 na tym stworze. Używaj jako "
+"obrzęd."
 
 #: ../../GK2.rst:606
 msgid ""
@@ -1699,6 +1710,8 @@ msgstr "|tap|: Weź |mana_g|."
 msgid ""
 "Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent."
 msgstr ""
+"Ilekroć przekręcasz tego stwora biorąc manę, zadaje on każdemu z "
+"przeciwników po 1 obrażeniu."
 
 #: ../../GK2.rst:626
 msgid ""
@@ -2036,6 +2049,10 @@ msgid ""
 "upkeep, if this creature isn't a token, create a token that's a copy of this "
 "creature.\""
 msgstr ""
+"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
+"stwora na polu walki, ale dodatkowo ma zdolność \"Na początku twojego kroku "
+"utrzymania, jeśli ten stwór nie jest żetonem, stwórz żeton będący kopią tego "
+"stwora.\""
 
 #: ../../GK2.rst:742
 msgid ""
@@ -2097,6 +2114,8 @@ msgid ""
 "|mana_g|\\ |mana_u|, |tap|: Double the number of each kind of counter on "
 "target artifact, creature, or land."
 msgstr ""
+"|mana_g|\\ |mana_u|, |tap|: Podwój liczbę każdego rodzaju znaczników na "
+"wskazanym artefakcie, stworze lub lądzie."
 
 #: ../../GK2.rst:766
 msgid ""
