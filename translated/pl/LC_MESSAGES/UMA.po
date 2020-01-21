@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/uma/"
 "pl/>\n"
@@ -2808,6 +2808,8 @@ msgid ""
 "Create an X/X green Ooze creature token, where X is the greatest power among "
 "creatures you control."
 msgstr ""
+"Stwórz żeton zielonego stwora Szlam X/X, gdzie X jest największą siłą "
+"spośród stworów pod twoim władaniem."
 
 #: ../../UMA.rst:954
 msgid ""
@@ -3308,7 +3310,7 @@ msgstr ""
 
 #: ../../UMA.rst:1143
 msgid "Draw three cards. You may play an additional land this turn."
-msgstr ""
+msgstr "Dobierz trzy karty. W tej turze możesz zagrać dodatkowy ląd."
 
 #: ../../UMA.rst:1150
 msgid ""
@@ -3351,6 +3353,8 @@ msgid ""
 "Exile target card from a graveyard. Create a 1/1 white and black Spirit "
 "creature token with flying."
 msgstr ""
+"Wygnaj wskazaną kartę z cmentarza. Stwórz żeton czarno-białego stwora Duch 1/"
+"1 z lataniem."
 
 #: ../../UMA.rst:1162
 msgid ""
@@ -3984,6 +3988,8 @@ msgid ""
 "|mana_2|, |tap|: Thespian's Stage becomes a copy of target land, except it "
 "has this ability."
 msgstr ""
+"|mana_2|, |tap|: Ten ląd staje się kopią wskazanego lądu i zyskuje niniejszą "
+"zdolność."
 
 #: ../../UMA.rst:1417
 msgid ""
