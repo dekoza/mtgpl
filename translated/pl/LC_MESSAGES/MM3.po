@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mm3/"
 "pl/>\n"
@@ -116,6 +116,8 @@ msgid ""
 "Create a 1/1 white Bird creature token with flying, then populate. (Create a "
 "token that's a copy of a creature token you control.)"
 msgstr ""
+"Stwórz żeton białego stwora Ptak 1/1 z lataniem, następnie zaludnij. (Stwórz "
+"żeton będący kopią żetonowego stwora pod twoim władaniem.)"
 
 #: ../../MM3.rst:40
 msgid ""
@@ -364,6 +366,9 @@ msgid ""
 "Populate. Creatures you control gain indestructible until end of turn. (To "
 "populate, create a token that's a copy of a creature token you control.)"
 msgstr ""
+"Zaludnij. Stwory pod twoim władaniem zyskują niezniszczalność do końca tury. "
+"(By zaludnić, stwórz żeton będący kopią żetonowego stwora pod twoim "
+"władaniem.)"
 
 #: ../../MM3.rst:120
 msgid ""
@@ -551,6 +556,8 @@ msgstr ""
 #: ../../MM3.rst:179
 msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
+"Przywróć wskazany nielądowy permanent poza twoim władaniem do ręki "
+"właściciela."
 
 #: ../../MM3.rst:181
 msgid ""
@@ -1008,6 +1015,8 @@ msgid ""
 "At the beginning of each combat, any opponent may sacrifice a creature. If a "
 "player does, tap Desecration Demon and put a +1/+1 counter on it."
 msgstr ""
+"Na początku każdej walki dowolny przeciwnik może poświęcić stwora. Jeśli "
+"któryś tak zrobi, przekręć niniejszego stwora i umieść na nim znacznik +1/+1."
 
 #: ../../MM3.rst:346
 msgid ""
@@ -1217,7 +1226,7 @@ msgstr ""
 msgid ""
 "Ogre Jailbreaker can attack as though it didn't have defender as long as you "
 "control a Gate."
-msgstr ""
+msgstr "Ten stwór może atakować jakby nie miał obronności o ile władasz Bramą."
 
 #: ../../MM3.rst:422
 msgid ""
@@ -1408,7 +1417,7 @@ msgstr ""
 
 #: ../../MM3.rst:483
 msgid "Target creature you control gets +2/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+0."
 
 #: ../../MM3.rst:485
 msgid ""
@@ -1734,6 +1743,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. "
 "Until end of turn, it gets +2/+0 and gains haste."
 msgstr ""
+"Przejmij do końca tury władanie nad wskazanym stworem. Odkręć owego stwora. "
+"Do końca tury dostaje on +2/+0 oraz pośpiech."
 
 #: ../../MM3.rst:594
 msgid ""
@@ -1895,6 +1906,9 @@ msgid ""
 "Prevent all combat damage that would be dealt to you this turn. Populate. "
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane tobie w tej "
+"turze. Zaludnij. (Stwórz żeton będący kopią żetonowego stwora pod twoim "
+"władaniem.)"
 
 #: ../../MM3.rst:652
 msgid ""
@@ -2000,7 +2014,7 @@ msgstr "Wybierz dwie —"
 
 #: ../../MM3.rst:689
 msgid "Target player gains 7 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 7 żyć."
 
 #: ../../MM3.rst:691
 msgid "Put target noncreature permanent on top of its owner's library."
@@ -2075,7 +2089,7 @@ msgstr ""
 
 #: ../../MM3.rst:715
 msgid "Create an X/X green Ooze creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Szlam X/X."
 
 #: ../../MM3.rst:720
 msgid ""
@@ -2289,7 +2303,7 @@ msgstr ""
 
 #: ../../MM3.rst:785
 msgid "Target creature gets +4/-4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/-4."
 
 #: ../../MM3.rst:790
 msgid ""
@@ -2354,7 +2368,7 @@ msgstr ""
 
 #: ../../MM3.rst:809
 msgid "When Centaur Healer enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../MM3.rst:814
 msgid ""
@@ -2629,12 +2643,12 @@ msgstr ""
 msgid ""
 "Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a "
 "card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia, możesz dobrać kartę."
 
 #: ../../MM3.rst:911
 msgid ""
 "|mana_u|\\ |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_u|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../MM3.rst:918
 msgid ""
@@ -2813,7 +2827,7 @@ msgstr ""
 
 #: ../../MM3.rst:979
 msgid "You gain X life and draw X cards."
-msgstr ""
+msgstr "Zyskaj X żyć i dobierz X kart."
 
 #: ../../MM3.rst:984
 msgid ""
@@ -2892,6 +2906,8 @@ msgid ""
 "Target creature you control gets +1/+0 until end of turn and can't be "
 "blocked this turn."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0 i nie może "
+"być blokowany w tej turze."
 
 #: ../../MM3.rst:1009
 msgid ""
@@ -3014,12 +3030,16 @@ msgid ""
 "Wayfaring Temple's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../MM3.rst:1051
 msgid ""
 "Whenever Wayfaring Temple deals combat damage to a player, populate. (Create "
 "a token that's a copy of a creature token you control.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, zaludnij. (Stwórz żeton "
+"będący kopią żetonowego stwora pod twoim władaniem.)"
 
 #: ../../MM3.rst:1054
 msgid ""
@@ -3053,6 +3073,8 @@ msgstr ""
 msgid ""
 "Put target attacking or blocking creature on top of its owner's library."
 msgstr ""
+"Umieść wskazanego atakującego lub blokującego stwora na wierzchu biblioteki "
+"właściciela."
 
 #: ../../MM3.rst:1067
 msgid ""
