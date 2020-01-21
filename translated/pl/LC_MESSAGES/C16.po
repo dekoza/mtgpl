@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -982,7 +982,8 @@ msgid ""
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
 "Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
-"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
+"zrobisz, każdy z przeciwników traci po 1 życiu, a ty zyskujesz tyle samo "
+"żyć.)"
 
 #: ../../C16.rst:371
 msgid ""
@@ -1669,6 +1670,8 @@ msgid ""
 "Each player discards their hand, then draws cards equal to the greatest "
 "number of cards a player discarded this way."
 msgstr ""
+"Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile zostało "
+"najwięcej odrzuconych w ten sposób."
 
 #: ../../C16.rst:608
 msgid ""
@@ -1908,6 +1911,8 @@ msgid ""
 "Wight of Precinct Six gets +1/+1 for each creature card in your opponents' "
 "graveyards."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdą kartę stwora w cmentarzach twoich "
+"przeciwników."
 
 #: ../../C16.rst:686
 msgid ""
@@ -2095,12 +2100,16 @@ msgid ""
 "Whenever Hellkite Tyrant deals combat damage to a player, gain control of "
 "all artifacts that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, zyskaj władanie nad "
+"wszystkimi artefaktami pod władaniem owego gracza."
 
 #: ../../C16.rst:747
 msgid ""
 "At the beginning of your upkeep, if you control twenty or more artifacts, "
 "you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej dwudziestoma "
+"artefaktami, wygrywasz grę."
 
 #: ../../C16.rst:752
 msgid ""
@@ -2799,7 +2808,7 @@ msgstr ""
 
 #: ../../C16.rst:975
 msgid "Each creature you control with a +1/+1 counter on it has trample."
-msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma tratowanie."
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma tratowanie."
 
 #: ../../C16.rst:980
 msgid ""
@@ -2983,7 +2992,7 @@ msgstr "Permanenty pod twoim władaniem zyskują niezniszczalność do końca tu
 
 #: ../../C16.rst:1049
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór zyskuje podwójny cios do końca tury."
 
 #: ../../C16.rst:1054
 msgid ""
@@ -3013,15 +3022,15 @@ msgstr "Wybierz jedno lub więcej —"
 
 #: ../../C16.rst:1059
 msgid "Clan Defiance deals X damage to target creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń wskazanemu stworowi z lataniem."
 
 #: ../../C16.rst:1061
 msgid "Clan Defiance deals X damage to target creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń wskazanemu stworowi bez latania."
 
 #: ../../C16.rst:1063
 msgid "Clan Defiance deals X damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń wskazanemu graczowi lub wędrowcowi."
 
 #: ../../C16.rst:1068
 msgid ""
@@ -3049,7 +3058,7 @@ msgid ""
 "Consuming Aberration's power and toughness are each equal to the number of "
 "cards in your opponents' graveyards."
 msgstr ""
-"Siła oraz wytrzymałość tego stwora są obie równe liczbie kart w cmentarzach "
+"Siła oraz wytrzymałość tej karty są obie równe liczbie kart w cmentarzach "
 "twoich przeciwników."
 
 #: ../../C16.rst:1073
@@ -3059,8 +3068,8 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ilekroć rzucisz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
-"biblioteki dopóki nie ujawni karty lądu, następnie umieszcza owe karty w "
-"swoim cmentarzu."
+"biblioteki, aż ujawni kartę lądu, następnie umieszcza owe karty w swoim "
+"cmentarzu."
 
 #: ../../C16.rst:1078
 msgid ""
@@ -3179,13 +3188,15 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Ewoluuje (Ilekroć jakiś stwór wchodzi na pole walki pod twoim władaniem, "
+"Ewoluuje (Ilekroć jakiś stwór wejdzie na pole walki pod twoim władaniem, "
 "jeśli ów stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść "
-"znacznik +1/+1 na tym stworze.)"
+"znacznik +1/+1 na niniejszym stworze.)"
 
 #: ../../C16.rst:1115
 msgid "Whenever a +1/+1 counter is put on Fathom Mage, you may draw a card."
 msgstr ""
+"Ilekroć znacznik +1/+1 zostanie umieszczony na tym stworze, możesz dobrać "
+"kartę."
 
 #: ../../C16.rst:1122
 msgid ""
@@ -3391,6 +3402,9 @@ msgid ""
 "additional +1/+1 counters on it equal to Master Biomancer's power and as a "
 "Mutant in addition to its other types."
 msgstr ""
+"Każdy inny stwór pod twoim władaniem wchodzi na pole walki mając tyle "
+"dodatkowych znaczników +1/+1, ile wynosi siła niniejszego stwora oraz jest "
+"dodatkowo typu Mutant oprócz swoich pozostałych typów."
 
 #: ../../C16.rst:1200
 msgid ""
@@ -3401,19 +3415,19 @@ msgstr ""
 
 #: ../../C16.rst:1193
 msgid "Exile all artifacts."
-msgstr ""
+msgstr "Wygnaj wszystkie artefakty."
 
 #: ../../C16.rst:1195
 msgid "Exile all creatures."
-msgstr ""
+msgstr "Wygnaj wszystkie stwory."
 
 #: ../../C16.rst:1197
 msgid "Exile all enchantments."
-msgstr ""
+msgstr "Wygnaj wszystkie uroki."
 
 #: ../../C16.rst:1199
 msgid "Exile all planeswalkers."
-msgstr ""
+msgstr "Wygnaj wszystkich wędrowców."
 
 #: ../../C16.rst:1204
 msgid ""
@@ -3539,6 +3553,7 @@ msgid ""
 "Rubblehulk's power and toughness are each equal to the number of lands you "
 "control."
 msgstr ""
+"Siła oraz wytrzymałość tej karty są równe liczbie lądów pod twoim władaniem."
 
 #: ../../C16.rst:1247
 msgid ""
@@ -3546,6 +3561,9 @@ msgid ""
 "attacking creature gets +X/+X until end of turn, where X is the number of "
 "lands you control."
 msgstr ""
+"Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany "
+"atakujący stwór dostaje do końca tury +X/+X, gdzie X to liczba lądów pod "
+"twoim władaniem."
 
 #: ../../C16.rst:1252
 msgid ""
