@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c15/"
 "pl/>\n"
@@ -1428,7 +1428,7 @@ msgstr ""
 
 #: ../../C15.rst:513
 msgid "Return all attacking creatures to their owner's hand."
-msgstr ""
+msgstr "Zwróć wszystkie atakujące stwory do rąk ich właścicieli."
 
 #: ../../C15.rst:520
 msgid ""
@@ -1710,6 +1710,8 @@ msgid ""
 "Destroy target creature. It can't be regenerated. That creature's controller "
 "creates a 3/3 green Frog Lizard creature token."
 msgstr ""
+"Zniszcz wskazanego stwora. Nie można go zregenerować. Władca owego stwora "
+"tworzy żeton zielonego stwora Żaba Jaszczur 3/3."
 
 #: ../../C15.rst:606
 msgid ""
@@ -1833,6 +1835,8 @@ msgid ""
 "Each player discards their hand, then draws cards equal to the greatest "
 "number of cards a player discarded this way."
 msgstr ""
+"Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile zostało "
+"najwięcej odrzuconych w ten sposób."
 
 #: ../../C15.rst:648
 msgid ""
@@ -2993,14 +2997,14 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Ewoluuje (Ilekroć jakiś stwór wchodzi na pole walki pod twoim władaniem, "
+"Ewoluuje (Ilekroć jakiś stwór wejdzie na pole walki pod twoim władaniem, "
 "jeśli ów stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść "
-"znacznik +1/+1 na tym stworze.)"
+"znacznik +1/+1 na niniejszym stworze.)"
 
 #: ../../C15.rst:1041
 msgid ""
 "Remove two +1/+1 counters from Experiment One: Regenerate Experiment One."
-msgstr ""
+msgstr "Usuń dwa znaczniki +1/+1 z tego stwora: Zregeneruj tego stwora."
 
 #: ../../C15.rst:1048
 msgid ""
@@ -3749,12 +3753,16 @@ msgid ""
 "Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, "
 "where X is the greatest power among other creatures you control."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając X znaczników +1/+1, gdzie X to "
+"najwyższa siła spośród stworów pod twoim władaniem."
 
 #: ../../C15.rst:1289
 msgid ""
 "When Prime Speaker Zegana enters the battlefield, draw cards equal to its "
 "power."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dobierz tyle kart, ile wynosi jego "
+"siła."
 
 #: ../../C15.rst:1294
 msgid ""
@@ -3828,13 +3836,16 @@ msgid ""
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
 "Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
-"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
+"zrobisz, każdy z przeciwników traci po 1 życiu, a ty zyskujesz tyle samo "
+"żyć.)"
 
 #: ../../C15.rst:1313
 msgid ""
 "Whenever Treasury Thrull attacks, you may return target artifact, creature, "
 "or enchantment card from your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz przywrócić wskazaną kartę artefaktu, "
+"stwora lub uroku z twojego cmentarza do twojej ręki."
 
 #: ../../C15.rst:1320
 msgid ""
@@ -4272,6 +4283,9 @@ msgid ""
 "artifact creature with hexproof until end of turn. (It can't be the target "
 "of spells or abilities your opponents control.)"
 msgstr ""
+"|mana_g|\\ |mana_u|: Do końca tury ten artefakt staje się zielono-niebieskim "
+"artefaktycznym stworem Krab 2/3 z antyklątwą. (Nie może być wskazywany przez "
+"czary i zdolności władane przez twoich przeciwników.)"
 
 #: ../../C15.rst:1484
 msgid ""
