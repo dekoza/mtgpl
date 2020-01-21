@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/roe/"
 "pl/>\n"
@@ -771,7 +771,7 @@ msgstr ""
 
 #: ../../ROE.rst:305
 msgid "Destroy target blocked creature."
-msgstr ""
+msgstr "Zniszcz wskazanego zablokowanego stwora."
 
 #: ../../ROE.rst:310
 msgid ""
@@ -1656,11 +1656,11 @@ msgstr "Zaurocz ląd"
 
 #: ../../ROE.rst:721
 msgid "Enchanted land is a Swamp."
-msgstr ""
+msgstr "Zauroczony ląd jest Bagnem."
 
 #: ../../ROE.rst:723
 msgid "Whenever enchanted land becomes tapped, its controller loses 2 life."
-msgstr ""
+msgstr "Ilekroć zauroczony ląd zostanie przekręcony, jego władca traci 2 życia."
 
 #: ../../ROE.rst:728
 msgid ""
@@ -1932,7 +1932,7 @@ msgstr ""
 
 #: ../../ROE.rst:835
 msgid "Whenever you tap a Swamp for mana, add an additional |mana_b|."
-msgstr ""
+msgstr "Ilekroć przekręcisz Bagno pobierając manę, weź dodatkowo |mana_b|."
 
 #: ../../ROE.rst:837
 msgid "|mana_b|: Nirkana Revenant gets +1/+1 until end of turn."
@@ -3347,7 +3347,7 @@ msgstr ""
 
 #: ../../ROE.rst:1435
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
 
 #: ../../ROE.rst:1437
 msgid "|mana_1|, |tap|: Add one mana of any color."
