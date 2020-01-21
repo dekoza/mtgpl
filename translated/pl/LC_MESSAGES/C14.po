@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c14/"
 "pl/>\n"
@@ -2333,14 +2333,12 @@ msgid ""
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
 "Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
-"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
+"zrobisz, każdy z przeciwników traci po 1 życiu, a ty zyskujesz tyle samo "
+"żyć.)"
 
 #: ../../C14.rst:799
-#, fuzzy
 msgid "Whenever you tap a Swamp for mana, add an additional |mana_b|."
-msgstr ""
-"Ilekroć tapujesz Bagno pobierając manę, dodaj |mana_b| do twojej puli many "
-"(jako dodatkową do tej, którą produkuje ląd)."
+msgstr "Ilekroć przekręcisz Bagno pobierając manę, weź dodatkowo |mana_b|."
 
 #: ../../C14.rst:804
 msgid ""
