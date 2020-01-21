@@ -1,21 +1,23 @@
 # Dominik <Kozaczko>, 2013.
 # Dominik <dominik@kozaczko.info>, 2013.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2019-06-22 22:04+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
-"Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dgm/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.10.1\n"
 "X-POOTLE-MTIME: 1385404179.955608\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
@@ -453,7 +455,7 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
 "wystarcza, aby został zniszczony.)"
 
 # 4a1cf7639978489caa80cee0dda606c1
@@ -501,8 +503,8 @@ msgid ""
 "Unleash (You may have this creature enter the battlefield with a +1/+1 "
 "counter on it. It can't block as long as it has a +1/+1 counter on it.)"
 msgstr ""
-"Poszczucie (Możesz zdecydować, że ten stwór wejdzie na pole walki ze "
-"znacznikiem +1/+1. Ten stwór nie może blokować o ile ma znacznik +1/+1.)"
+"Poszczucie (Możesz zdecydować, że ten stwór wejdzie na pole walki mając "
+"znacznik +1/+1. Ten stwór nie może blokować o ile ma znacznik +1/+1.)"
 
 #: ../../DGM.rst:150
 msgid ""
@@ -894,7 +896,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
 "wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
-"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
+"znaczników +1/+1 , ile wynosi siła tej karty. Używaj jako obrzęd.)"
 
 #: ../../DGM.rst:258
 msgid ""
