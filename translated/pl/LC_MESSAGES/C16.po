@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -1281,6 +1281,9 @@ msgid ""
 "controller pays |mana_x| for each of those creatures, where X is the number "
 "of enchantments you control."
 msgstr ""
+"Stwory nie mogą atakować ciebie ani wędrowca pod twoim władaniem dopóki ich "
+"władca nie zapłaci |mana_x| za każdego z owych stworów, gdzie X to liczba "
+"uroków pod twoim władaniem."
 
 #: ../../C16.rst:472
 msgid ""
@@ -2839,6 +2842,8 @@ msgid ""
 "Whenever Wild Beastmaster attacks, each other creature you control gets +X/"
 "+X until end of turn, where X is Wild Beastmaster's power."
 msgstr ""
+"Ilekroć ten stwór atakuje, każdy inny stwór pod twoim władaniem dostaje do "
+"końca tury +X/+X, gdzie X to siła niniejszego stwora."
 
 #: ../../C16.rst:1000
 msgid ""
@@ -3069,6 +3074,8 @@ msgid ""
 "If one or more +1/+1 counters would be put on a creature you control, twice "
 "that many +1/+1 counters are put on it instead."
 msgstr ""
+"Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać umieszczonych na "
+"stworze pod twoim władaniem, zamiast tego umieść ich tam dwukrotnie więcej."
 
 #: ../../C16.rst:1082
 msgid ""
@@ -3510,7 +3517,7 @@ msgstr ""
 
 #: ../../C16.rst:1237
 msgid "Exile all cards from target player's graveyard."
-msgstr ""
+msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../C16.rst:1239
 msgid "Destroy target artifact."
@@ -3518,7 +3525,7 @@ msgstr "Zniszcz wskazany artefakt."
 
 #: ../../C16.rst:1241
 msgid "Each creature deals 1 damage to its controller."
-msgstr ""
+msgstr "Każdy stwór zadaje swojemu władcy po 1 obrażeniu."
 
 #: ../../C16.rst:1248
 msgid ""
@@ -3739,7 +3746,7 @@ msgstr ""
 
 #: ../../C16.rst:1321
 msgid "Players can't gain life."
-msgstr ""
+msgstr "Gracze nie mogą zyskiwać życia."
 
 #: ../../C16.rst:1323
 msgid "Damage can't be prevented."
@@ -5326,14 +5333,14 @@ msgstr ""
 
 #: ../../C16.rst:1949
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1951
 msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you "
 "pay |mana_1|."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki poświęć ją, chyba że zapłacisz |mana_1|."
+"Kiedy ten ląd wejdzie na pole walki poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../C16.rst:1960
 msgid ""
