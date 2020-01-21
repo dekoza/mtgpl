@@ -2,13 +2,14 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-12 20:28+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
 "Language: pl\n"
@@ -366,7 +367,7 @@ msgid ""
 "When Knightly Valor enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/2 "
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/2 "
 "z czujnością. (Atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../ORI.rst:123
@@ -576,7 +577,7 @@ msgstr ""
 
 #: ../../ORI.rst:197
 msgid "Enchant nonland permanent"
-msgstr ""
+msgstr "Zaurocz nielądowy permanent"
 
 #: ../../ORI.rst:199
 msgid ""
@@ -1650,7 +1651,7 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
 "wystarcza, aby został zniszczony.)"
 
 #: ../../ORI.rst:575
@@ -2122,9 +2123,8 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:739
-#, fuzzy
 msgid "|mana_1|\\ |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ORI.rst:744
 msgid ""
@@ -3834,7 +3834,7 @@ msgstr ""
 
 #: ../../ORI.rst:1367
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../ORI.rst:1374
 msgid ""
