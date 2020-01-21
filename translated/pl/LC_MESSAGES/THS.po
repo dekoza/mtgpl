@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ths/"
 "pl/>\n"
@@ -1733,7 +1733,7 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
+"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
 "wystarcza, aby został zniszczony.)"
 
 # 4eed0353a1ff41f091206f100c7d638e
@@ -3733,7 +3733,7 @@ msgstr ""
 # 3d3e0cf7004d47e2b2f32084fa51ce92
 #: ../../THS.rst:975
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odkręć owego stwora."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2. Odkręć owego stwora."
 
 #: ../../THS.rst:980
 msgid ""
