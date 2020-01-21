@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-20 01:39+0000\n"
+"PO-Revision-Date: 2020-01-21 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -2159,7 +2159,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../C17.rst:739
 msgid "Enchanted land has \"|tap|, Pay 1 life: Draw a card.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|, zapłać 1 życie: Dobierz kartę.\""
 
 #: ../../C17.rst:744
 msgid ""
@@ -2402,6 +2402,8 @@ msgid ""
 "Whenever a Dragon you control attacks, create a 6/6 red Dragon creature "
 "token with flying."
 msgstr ""
+"Ilekroć Smok pod twoim władaniem atakuje, stwórz żeton czerwonego stwora "
+"Smok 6/6 z lataniem."
 
 #: ../../C17.rst:832
 msgid ""
@@ -2994,13 +2996,15 @@ msgstr ""
 
 #: ../../C17.rst:1039
 msgid "|mana_u|, |tap|: Draw two cards."
-msgstr ""
+msgstr "|mana_u|, |tap|: Dobierz dwie karty."
 
 #: ../../C17.rst:1041
 msgid ""
 "|mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target "
 "creature equal to the discarded card's converted mana cost."
 msgstr ""
+"|mana_r|, |tap|, odrzuć kartę: Ten stwór zadaje wskazanemu stworowi "
+"obrażenia równe skróconemu kosztowi many odrzuconej karty."
 
 #: ../../C17.rst:1048
 msgid ""
@@ -3054,12 +3058,12 @@ msgstr ""
 msgid ""
 "Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a "
 "card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia, możesz dobrać kartę."
 
 #: ../../C17.rst:1063
 msgid ""
 "|mana_u|\\ |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_u|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../C17.rst:1072
 msgid ""
@@ -3169,11 +3173,11 @@ msgstr ""
 
 #: ../../C17.rst:1105
 msgid "Exile all cards from target player's graveyard."
-msgstr ""
+msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../C17.rst:1109
 msgid "Each creature deals 1 damage to its controller."
-msgstr ""
+msgstr "Każdy stwór zadaje swojemu władcy po 1 obrażeniu."
 
 #: ../../C17.rst:1116
 msgid ""
@@ -4469,7 +4473,7 @@ msgstr ""
 
 #: ../../C17.rst:1635
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../C17.rst:1644
 msgid ""
