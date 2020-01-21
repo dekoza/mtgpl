@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-21 22:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -1050,7 +1050,8 @@ msgid ""
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
 "Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
-"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
+"zrobisz, każdy z przeciwników traci po 1 życiu, a ty zyskujesz tyle samo "
+"żyć.)"
 
 #: ../../C17.rst:365
 msgid ""
@@ -2973,19 +2974,19 @@ msgstr ""
 
 #: ../../C17.rst:1029
 msgid "Exile all artifacts."
-msgstr ""
+msgstr "Wygnaj wszystkie artefakty."
 
 #: ../../C17.rst:1031
 msgid "Exile all creatures."
-msgstr ""
+msgstr "Wygnaj wszystkie stwory."
 
 #: ../../C17.rst:1033
 msgid "Exile all enchantments."
-msgstr ""
+msgstr "Wygnaj wszystkie uroki."
 
 #: ../../C17.rst:1035
 msgid "Exile all planeswalkers."
-msgstr ""
+msgstr "Wygnaj wszystkich wędrowców."
 
 #: ../../C17.rst:1042
 msgid ""
