@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-22 18:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gpt/"
 "pl/>\n"
@@ -1652,7 +1652,7 @@ msgstr ""
 msgid ""
 "|mana_3|: Feral Animist gets +X/+0 until end of turn, where X is its power."
 msgstr ""
-"|mana_3|: Ten stwór dostaje +X/+0 do końca tury, gdzie X jest jego siłą."
+"|mana_3|: Ten stwór dostaje do końca tury +X/+0, gdzie X jest jego siłą."
 
 #: ../../GPT.rst:630
 msgid ""
@@ -1848,7 +1848,7 @@ msgstr ""
 
 #: ../../GPT.rst:691
 msgid "Creatures you control get +1/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../GPT.rst:693
 msgid "Creatures you don't control get -1/-1 until end of turn."
