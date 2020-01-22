@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-18 20:13+0000\n"
+"PO-Revision-Date: 2020-01-23 11:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ogw/"
 "pl/>\n"
@@ -695,7 +695,7 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bitewne, możesz "
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, możesz "
 "dobrać kartę."
 
 #: ../../OGW.rst:247
@@ -1291,7 +1291,7 @@ msgstr ""
 
 #: ../../OGW.rst:513
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../OGW.rst:522
 msgid ""
