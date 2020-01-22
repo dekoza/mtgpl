@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-22 18:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m10/"
 "pl/>\n"
@@ -172,9 +172,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:59
-#, fuzzy
 msgid "Creatures you control get +1/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../M10.rst:66
 msgid ""
@@ -1468,7 +1467,7 @@ msgstr ""
 
 #: ../../M10.rst:563
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../M10.rst:565
 msgid ""
@@ -2240,6 +2239,8 @@ msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../M10.rst:856
 msgid ""
