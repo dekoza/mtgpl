@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-22 18:28+0000\n"
+"PO-Revision-Date: 2020-01-23 11:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/a25/"
 "pl/>\n"
@@ -253,19 +253,14 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:79
-#, fuzzy
-#| msgid ""
-#| "Target creature you control gains protection from the color of your "
-#| "choice until end of turn. Scry 1. (Look at the top card of your library. "
-#| "You may put that card on the bottom of your library.)"
 msgid ""
 "Target creature you control gains protection from the color of your choice "
 "until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, "
 "or equipped by anything of that color.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem zyskuje ochronę przed wybranym kolorem do "
-"końca tury. Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
-"umieścić ją na spodzie twojej biblioteki.)"
+"końca tury. (Nic w owym kolorze nie może blokować, wskazać, zadać obrażeń, "
+"zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../A25.rst:81
 #, fuzzy
@@ -446,10 +441,12 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod."
 msgstr ""
+"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
+"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
 
 #: ../../A25.rst:141
 msgid "When you sacrifice Ordeal of Heliod, you gain 10 life."
-msgstr ""
+msgstr "Kiedy poświęcisz ten urok, zyskaj 10 żyć."
 
 #: ../../A25.rst:148
 msgid ""
@@ -666,12 +663,16 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, możesz "
+"dobrać kartę."
 
 #: ../../A25.rst:219
 msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Creatures your opponents control attack this "
 "turn if able."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Stwory pod władaniem twoich przeciwników atakują "
+"w tej turze, jeśli mogą."
 
 #: ../../A25.rst:228
 msgid ""
@@ -1620,6 +1621,8 @@ msgid ""
 "|mana_1|\\ |mana_u|: Returned Phalanx can attack this turn as though it "
 "didn't have defender."
 msgstr ""
+"|mana_1|\\ |mana_u|: Ten stwór może atakować w tej turze, jakby nie miał "
+"obronności."
 
 #: ../../A25.rst:572
 msgid ""
@@ -2255,7 +2258,7 @@ msgstr ""
 
 #: ../../A25.rst:775
 msgid "Counter target blue spell."
-msgstr ""
+msgstr "Skontruj wskazany niebieski czar."
 
 #: ../../A25.rst:777
 msgid "Destroy target blue permanent."
