@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-23 11:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c13/"
 "pl/>\n"
@@ -982,6 +982,8 @@ msgid ""
 "When Mnemonic Wall enters the battlefield, you may return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../C13.rst:314
 msgid ""
@@ -3387,7 +3389,7 @@ msgstr ""
 
 #: ../../C13.rst:1085
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -4/-4."
 
 # c14e0e501fb9403ab74ef577e02f7c51
 #: ../../C13.rst:1087
