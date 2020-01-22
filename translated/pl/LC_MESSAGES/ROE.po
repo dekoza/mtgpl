@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-23 11:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/roe/"
 "pl/>\n"
@@ -98,7 +98,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../ROE.rst:27
 msgid "When you cast this spell, take an extra turn after this one."
-msgstr "Kiedy rzucisz ten czar, dostajesz dodatkową turę po aktualnej."
+msgstr "Kiedy rzucisz ten czar, weź dodatkową turę po obecnej."
 
 #: ../../ROE.rst:29
 msgid "Flying, protection from colored spells, annihilator 6"
@@ -615,7 +615,7 @@ msgstr ""
 
 #: ../../ROE.rst:239
 msgid "|tap|: Tap target creature with power 3 or less."
-msgstr ""
+msgstr "|tap|: Przekręć wskazanego stwora o sile 3 lub mniejszej."
 
 #: ../../ROE.rst:246
 msgid ""
@@ -1334,6 +1334,8 @@ msgid ""
 "When Mnemonic Wall enters the battlefield, you may return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../ROE.rst:598
 msgid ""
@@ -1717,11 +1719,11 @@ msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../ROE.rst:743 ../../ROE.rst:1189
 msgid "Enchanted creature gets +3/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3."
 
 #: ../../ROE.rst:745
 msgid "At the beginning of your upkeep, sacrifice a creature."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, poświęć stwora."
 
 #: ../../ROE.rst:752
 msgid ""
