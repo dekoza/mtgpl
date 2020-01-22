@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-22 18:28+0000\n"
+"PO-Revision-Date: 2020-01-23 11:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dka/"
 "pl/>\n"
@@ -689,7 +689,7 @@ msgstr ""
 # 7127c3aa7ba34562a832fca0cc4274f8
 #: ../../DKA.rst:211
 msgid "Put target creature on top of its owner's library."
-msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki właściciela."
 
 #: ../../DKA.rst:216
 msgid ""
@@ -1930,6 +1930,8 @@ msgid ""
 "This spell costs |mana_1| less to cast for each creature card in your "
 "graveyard."
 msgstr ""
+"Rzucenie tego czaru = kosztuje o |mana_1| mniej za każdego stwora w twoim "
+"cmentarzu."
 
 #: ../../DKA.rst:664
 msgid ""
