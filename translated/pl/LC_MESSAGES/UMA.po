@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-22 18:28+0000\n"
+"PO-Revision-Date: 2020-01-23 11:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/uma/"
 "pl/>\n"
@@ -97,7 +97,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../UMA.rst:27
 msgid "When you cast this spell, take an extra turn after this one."
-msgstr "Kiedy rzucisz ten czar, dostajesz dodatkową turę po aktualnej."
+msgstr "Kiedy rzucisz ten czar, weź dodatkową turę po obecnej."
 
 #: ../../UMA.rst:29
 msgid "Flying, protection from colored spells, annihilator 6"
@@ -832,7 +832,7 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 "
 "counter on Wingsteed Rider."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący tego stwora, umieść na nim "
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść na nim "
 "znacznik +1/+1."
 
 #: ../../UMA.rst:272
@@ -1359,7 +1359,7 @@ msgstr ""
 
 #: ../../UMA.rst:447
 msgid "Take an extra turn after this one."
-msgstr ""
+msgstr "Weź dodatkową turę po obecnej."
 
 #: ../../UMA.rst:454
 msgid ""
@@ -1396,7 +1396,7 @@ msgstr ""
 
 #: ../../UMA.rst:465 ../../UMA.rst:867
 msgid "Enchanted creature gets +3/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3."
 
 #: ../../UMA.rst:467
 msgid ""
@@ -2034,6 +2034,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Akroan Crusader, create a "
 "1/1 red Soldier creature token with haste."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, stwórz żeton "
+"czerwonego stwora Piechur 1/1 z pośpiechem."
 
 #: ../../UMA.rst:680
 msgid ""
@@ -2065,6 +2067,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Arena Athlete, target "
 "creature an opponent controls can't block this turn."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, wskazany stwór pod "
+"władaniem przeciwnika nie może blokować w tej turze."
 
 #: ../../UMA.rst:690
 msgid ""
@@ -2973,6 +2977,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put "
 "two +1/+1 counters on Staunch-Hearted Warrior."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść dwa znaczniki +"
+"1/+1 na tym stworze."
 
 #: ../../UMA.rst:1020
 msgid ""
