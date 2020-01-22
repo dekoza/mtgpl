@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-23 11:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c18/"
 "pl/>\n"
@@ -1245,7 +1245,7 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
-"Obdaruj |mana_5|\\ |mana_w|\\ |mana_w| (Jeśli zagrasz tę kartę za koszt "
+"Obdaruj |mana_5|\\ |mana_w|\\ |mana_w| (Jeśli rzucisz tę kartę za koszt "
 "obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
 "stworem, jeśli nie jest dołączona do stwora.)"
 
@@ -2351,10 +2351,13 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_3|\\ |mana_g|\\ |mana_g| (Jeśli rzucisz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 #: ../../C18.rst:807
 msgid "Enchanted creature gets +4/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +4/+2."
 
 #: ../../C18.rst:812
 msgid ""
@@ -2623,7 +2626,7 @@ msgstr ""
 
 #: ../../C18.rst:901
 msgid "Cards in graveyards can't be the targets of spells or abilities."
-msgstr ""
+msgstr "Karty w cmentarzach nie mogą być wskazywane przez czary lub zdolności."
 
 #: ../../C18.rst:908
 msgid ""
@@ -2980,7 +2983,7 @@ msgstr ""
 
 #: ../../C18.rst:1037
 msgid "Daxos of Meletis can't be blocked by creatures with power 3 or greater."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 3 lub większej."
 
 #: ../../C18.rst:1039
 msgid ""
@@ -2989,6 +2992,10 @@ msgid ""
 "mana cost. Until end of turn, you may cast that card and you may spend mana "
 "as though it were mana of any color to cast that spell."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj wierzchnią kartę "
+"biblioteki owego gracza. Zyskaj tyle żyć, ile wynosi skrócony koszt many "
+"owej karty. Do końca tury możesz rzucić ową kartę wydając manę tak, jakby "
+"była maną dowolnego koloru."
 
 #: ../../C18.rst:1044
 msgid ""
