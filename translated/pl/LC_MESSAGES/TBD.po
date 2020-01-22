@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-18 21:16+0100\n"
-"PO-Revision-Date: 2020-01-18 22:01+0000\n"
+"PO-Revision-Date: 2020-01-23 11:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tbd/"
 "pl/>\n"
@@ -1888,9 +1888,9 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci X życia, gdzie "
-"X jest twoim kultem czarnego. Zyskaj tyle życia, ile stracono w ten sposób. "
-"(Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem wlicza się "
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci X żyć, gdzie X "
+"jest twoim kultem czarnego. Zyskaj tyle życia, ile stracono w ten sposób. ("
+"Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem wlicza się "
 "do twojego kultu czarnego.)"
 
 #: ../../TBD.rst:582
@@ -2622,8 +2622,8 @@ msgid ""
 "If a creature dealt damage by Incendiary Oracle this turn would die, exile "
 "it instead."
 msgstr ""
-"Jeśli stwór, który otrzymał w tej turze obrażenia od niniejszego stwora "
-"miałby umrzeć, zamiast tego wygnaj go."
+"Jeśli stwór uszkodzony przez tego stwora miałby umrzeć, zamiast tego wygnaj "
+"go."
 
 #: ../../TBD.rst:830
 msgid ""
@@ -2775,9 +2775,9 @@ msgid ""
 "gains haste until end of turn. Scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Przejmij władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
-"Dostaje on pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
+"Zyskaj do końca tury władanie nad wskazanym. Odkręć owego stwora. Zyskuje on "
+"pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:894
 msgid ""
@@ -2791,8 +2791,7 @@ msgid ""
 "As long as your devotion to red is less than five, Purphoros isn't a "
 "creature."
 msgstr ""
-"Dopóki twój kult czerwonego jest mniejszy niż pięć, ta karta nie jest "
-"stworem."
+"O ile twój kult czerwonego jest mniejszy niż pięć, ta karta nie jest stworem."
 
 #: ../../TBD.rst:891
 msgid "Other creatures you control have haste."
@@ -3046,8 +3045,8 @@ msgid ""
 "permanent dealt damage this way would die this turn, exile it instead."
 msgstr ""
 "Ten czar zadaje po 1 obrażeniu każdemu stworowi i wędrowcowi. Jeśli "
-"permanent, który otrzymał w ten sposób obrażenia miałby umrzeć w tej turze, "
-"zamiast tego wygnaj go."
+"permanent uszkodzony w ten sposób miałby umrzeć w tej turze, zamiast tego "
+"wygnaj go."
 
 #: ../../TBD.rst:974
 msgid ""
@@ -4571,8 +4570,8 @@ msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
 "card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"|mana_1|, poświęć ten artefakt: Poszukaj w twojej bibliotece karty bazowego "
-"lądu, ujawnij ją i dołóż do twojej ręki. Następnie przetasuj twoją "
+"|mana_1|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę bazowego "
+"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../TBD.rst:1462
@@ -4645,7 +4644,7 @@ msgstr ""
 
 #: ../../TBD.rst:1477
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../TBD.rst:1479
 msgid ""
@@ -4653,7 +4652,7 @@ msgid ""
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1481
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4668,7 +4667,7 @@ msgstr ""
 
 #: ../../TBD.rst:1485
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../TBD.rst:1487
 msgid ""
@@ -4676,7 +4675,7 @@ msgid ""
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1489
 msgid "|tap|: Add |mana_u| or |mana_b|."
