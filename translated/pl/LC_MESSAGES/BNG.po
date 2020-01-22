@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-12 20:28+0000\n"
-"Last-Translator: Dominik Kozaczko <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-23 11:49+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bng/"
 "pl/>\n"
 "Language: pl\n"
@@ -69,10 +70,9 @@ msgstr "Czujność"
 # 17d0243fb5db4cdb847f235c89920dcb
 # 3603f64b8f7f4024826b9f2352310d49
 #: ../../BNG.rst:15
-#, fuzzy
 msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_r|: Stwory pod twoim władaniem dostają +1/+0 do końca tury."
+"|mana_2|\\ |mana_r|: Stwory pod twoim władaniem dostają do końca tury +1/+0."
 
 #: ../../BNG.rst:22
 msgid ""
@@ -871,13 +871,12 @@ msgstr ""
 # f808c65fab55459280b5e549a6fa17b6
 # 3066b8d6eedb462e92d6f9aaff2fa95f
 #: ../../BNG.rst:217
-#, fuzzy
 msgid ""
 "Bestow |mana_5|\\ |mana_u| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdaruj |mana_5|\\ |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_5|\\ |mana_u| (Jeśli rzucisz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
@@ -1001,13 +1000,12 @@ msgstr ""
 # f7909822acc64113b24c14ffab03fd96
 # a6c5cfa5a4034c13b6579c977fd6af83
 #: ../../BNG.rst:247
-#, fuzzy
 msgid ""
 "Bestow |mana_4|\\ |mana_u| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdaruj |mana_4|\\ |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_4|\\ |mana_u| (Jeśli rzucisz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
@@ -1671,13 +1669,12 @@ msgstr ""
 # c1850725cc3c4169ad83dadab1e104c6
 # 206741df98d4404c980edeadca4b9a66
 #: ../../BNG.rst:419
-#, fuzzy
 msgid ""
 "Bestow |mana_4|\\ |mana_b| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdaruj |mana_4|\\ |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_4|\\ |mana_b| (Jeśli rzucisz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
@@ -2708,13 +2705,12 @@ msgstr ""
 # 4b40125dac2a4ecf91e91a2cabd27175
 # 2e8dbfb7fea5475a81b4b2a7e8d49ad6
 #: ../../BNG.rst:695
-#, fuzzy
 msgid ""
 "Bestow |mana_5|\\ |mana_g| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdaruj |mana_5|\\ |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_5|\\ |mana_g| (Jeśli rzucisz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
