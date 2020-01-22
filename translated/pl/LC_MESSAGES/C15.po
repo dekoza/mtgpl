@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-22 18:28+0000\n"
+"PO-Revision-Date: 2020-01-23 11:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c15/"
 "pl/>\n"
@@ -1086,6 +1086,9 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_5|\\ |mana_w|\\ |mana_w| (Jeśli rzucisz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 #: ../../C15.rst:391 ../../C15.rst:1215
 msgid "Flying, first strike"
@@ -1442,12 +1445,16 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, możesz "
+"dobrać kartę."
 
 #: ../../C15.rst:519
 msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Creatures your opponents control attack this "
 "turn if able."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Stwory pod władaniem twoich przeciwników atakują "
+"w tej turze, jeśli mogą."
 
 #: ../../C15.rst:524
 msgid ""
@@ -2113,12 +2120,17 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_2|\\ |mana_b|\\ |mana_b| (Jeśli rzucisz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 #: ../../C15.rst:739
 msgid ""
 "Nighthowler and enchanted creature each get +X/+X, where X is the number of "
 "creature cards in all graveyards."
 msgstr ""
+"Ten oraz zauroczony stwór dostają +X/+X każdy, gdzie X jest równe liczbie "
+"kart stworów we wszystkich cmentarzach."
 
 #: ../../C15.rst:744
 msgid ""
@@ -2688,12 +2700,16 @@ msgid ""
 "|mana_6|\\ |mana_r|\\ |mana_r|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_6|\\ |mana_r|\\ |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 #: ../../C15.rst:931
 msgid ""
 "When Stoneshock Giant becomes monstrous, creatures without flying your "
 "opponents control can't block this turn."
 msgstr ""
+"Kiedy ten stwór stanie się monstrualny, stwory bez latania pod władaniem "
+"przeciwników nie mogą blokować w tej turze."
 
 #: ../../C15.rst:936
 msgid ""
@@ -2841,12 +2857,17 @@ msgid ""
 "|mana_3|\\ |mana_g|\\ |mana_g|\\ |mana_g|: Monstrosity 3. (If this creature "
 "isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_3|\\ |mana_g|\\ |mana_g|\\ |mana_g|: Monstrualność 3. (Jeśli ten stwór "
+"nie jest monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on "
+"monstrualny.)"
 
 #: ../../C15.rst:983
 msgid ""
 "When Arbor Colossus becomes monstrous, destroy target creature with flying "
 "an opponent controls."
 msgstr ""
+"Kiedy ten stwór stanie się monstrualny, zniszcz wskazanego stwora z lataniem "
+"pod władaniem przeciwnika."
 
 #: ../../C15.rst:988
 msgid ""
@@ -3140,6 +3161,9 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_5|\\ |mana_g| (Jeśli rzucisz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 #: ../../C15.rst:1085
 msgid "All creatures able to block Noble Quarry or enchanted creature do so."
@@ -3803,6 +3827,9 @@ msgid ""
 "An opponent chooses one of those piles. Put that pile into your hand and the "
 "other into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki i rozdziel je na dwa stosy. "
+"Przeciwnik wybiera jeden z tych stosów. Umieść ów stos w twojej ręce, a "
+"pozostały w twoim cmentarzu."
 
 #: ../../C15.rst:1308
 msgid ""
@@ -4042,6 +4069,9 @@ msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, umieść je przekręcone na polu walki, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../C15.rst:1396
 msgid ""
