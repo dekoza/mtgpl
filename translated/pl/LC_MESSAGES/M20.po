@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-01-24 14:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m20/"
 "pl/>\n"
@@ -500,8 +500,8 @@ msgid ""
 "You have hexproof. (You can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Masz antyklątwę. (Nie możesz być celem czarów i zdolności władanych przez "
-"twoich przeciwników.)"
+"Masz antyklątwę. (Czary i zdolności pod władaniem twoich przeciwników nie "
+"mogą cię wskazywać.)"
 
 #: ../../M20.rst:164
 msgid ""
@@ -629,7 +629,7 @@ msgstr ""
 
 #: ../../M20.rst:201
 msgid "Each player can't cast more than one spell each turn."
-msgstr "Każdy z graczy nie może rzucać więcej niż jednego czaru na turę."
+msgstr "Każdy gracz nie może rzucać więcej niż jednego czaru na turę."
 
 #: ../../M20.rst:210
 msgid ""
