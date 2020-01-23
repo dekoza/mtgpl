@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:48+0000\n"
+"PO-Revision-Date: 2020-01-23 18:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/jou/"
 "pl/>\n"
@@ -1296,7 +1296,6 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:371
-#, fuzzy
 msgid ""
 "Bestow |mana_3|\\ |mana_b| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
@@ -1799,7 +1798,6 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:525
-#, fuzzy
 msgid ""
 "Bestow |mana_2|\\ |mana_r| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
@@ -2380,7 +2378,7 @@ msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 # 34e2881d1ce843279f554fbfb2843e8e
 #: ../../JOU.rst:697
 msgid "Return target enchantment card from your graveyard to your hand."
-msgstr "Przywróć wskazaną karte uroku z twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną kartę uroku z twojego cmentarza do twojej ręki."
 
 #: ../../JOU.rst:702
 msgid ""
@@ -2445,7 +2443,6 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:717
-#, fuzzy
 msgid ""
 "Bestow |mana_4|\\ |mana_g| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
