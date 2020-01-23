@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:48+0000\n"
+"PO-Revision-Date: 2020-01-23 18:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m15/"
 "pl/>\n"
@@ -1788,6 +1788,11 @@ msgid ""
 "remove all damage from it, and remove it from combat. Any amount of damage a "
 "creature with deathtouch deals to a creature is enough to destroy it.)"
 msgstr ""
+"Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go. ("
+"Następnym razem, gdy miałby zostać zniszczony w tej turze, nie jest. Zamiast "
+"tego przekręć go, usuń z niego wszystkie obrażenia i usuń go z walki. "
+"Dowolna liczba obrażeń zadana innemu stworowi przez stwora z dotykiem "
+"śmierci wystarcza, by go zniszczyć.)"
 
 #: ../../M15.rst:556
 msgid ""
@@ -3262,15 +3267,14 @@ msgstr ""
 
 # 216dbbd0f3cd44608a3c6c309f82a3dd
 #: ../../M15.rst:1029
-#, fuzzy
 msgid ""
 "When Satyr Wayfinder enters the battlefield, reveal the top four cards of "
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
-"Kiedy Satyr Wayfinder wchodzi na pole walki, ujawnij cztery wierzchnie karty "
-"twojej biblioteki. Możesz dołożyć kartę lądu spośród nich do twojej ręki. "
-"Umieść pozostałe do twojego cmentarza."
+"Kiedy ten stwór wejdzie na pole walki, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. "
+"Umieść pozostałe w twoim cmentarzu."
 
 #: ../../M15.rst:1034
 msgid ""
