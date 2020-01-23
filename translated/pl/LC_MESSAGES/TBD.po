@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-18 21:16+0100\n"
-"PO-Revision-Date: 2020-01-23 11:49+0000\n"
+"PO-Revision-Date: 2020-01-23 18:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tbd/"
 "pl/>\n"
@@ -1702,9 +1702,9 @@ msgid ""
 "(Each |mana_b| in the mana costs of permanents you control counts toward "
 "your devotion to black.)"
 msgstr ""
-"Koszt rzucenia tego czaru jest zmniejszony o |mana_x|, gdzie X jest twoim "
-"kultem czarnego. (Każdy symbol |mana_b| w kosztach permanentów pod twoim "
-"władaniem wlicza się w twój kult czarnego.)"
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest twoim kultem "
+"czarnego. (Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem "
+"wlicza się w twój kult czarnego.)"
 
 #: ../../TBD.rst:513
 msgid "Destroy target creature."
@@ -4690,7 +4690,7 @@ msgstr ""
 
 #: ../../TBD.rst:1493
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../TBD.rst:1495
 msgid ""
@@ -4699,7 +4699,7 @@ msgid ""
 "library.)"
 msgstr ""
 "Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
+"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1497
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4714,7 +4714,7 @@ msgstr ""
 
 #: ../../TBD.rst:1501
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../TBD.rst:1503
 msgid ""
@@ -4722,7 +4722,7 @@ msgid ""
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
+"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1505
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4737,7 +4737,7 @@ msgstr ""
 
 #: ../../TBD.rst:1509
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../TBD.rst:1511
 msgid ""
@@ -4745,7 +4745,7 @@ msgid ""
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
+"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../TBD.rst:1513
 msgid "|tap|: Add |mana_g| or |mana_w|."
