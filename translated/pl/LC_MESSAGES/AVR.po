@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-23 18:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/avr/"
 "pl/>\n"
@@ -1707,6 +1707,11 @@ msgid ""
 "remove all damage from it, and remove it from combat. Any amount of damage a "
 "creature with deathtouch deals to a creature is enough to destroy it.)"
 msgstr ""
+"Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go. ("
+"Następnym razem, gdy miałby zostać zniszczony w tej turze, nie jest. Zamiast "
+"tego przekręć go, usuń z niego wszystkie obrażenia i usuń go z walki. "
+"Dowolna liczba obrażeń zadana innemu stworowi przez stwora z dotykiem "
+"śmierci wystarcza, by go zniszczyć.)"
 
 #: ../../AVR.rst:594
 msgid ""
@@ -1728,7 +1733,7 @@ msgstr ""
 
 #: ../../AVR.rst:599
 msgid "Enchanted creature gets +2/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+1."
 
 #: ../../AVR.rst:601
 msgid ""
