@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:49+0000\n"
+"PO-Revision-Date: 2020-01-23 18:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -2281,6 +2281,9 @@ msgid ""
 "three piles. Then each player chooses one of their piles at random and "
 "sacrifices those permanents. (Piles can be empty.)"
 msgstr ""
+"Począwszy od ciebie, każdy gracz dzieli wszystkie permanenty pod swoim "
+"władaniem na trzy stosy. Następnie każdy gracz wybiera losowo jeden ze "
+"swoich stosów i poświęca owe permanenty. (Stosy mogą być puste.)"
 
 #: ../../C16.rst:808
 msgid ""
@@ -2682,6 +2685,9 @@ msgid ""
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. "
+"Umieść pozostałe w twoim cmentarzu."
 
 #: ../../C16.rst:936
 msgid ""
@@ -3952,13 +3958,15 @@ msgstr ""
 
 #: ../../C16.rst:1387
 msgid "Astral Cornucopia enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki mając X znaczników ładowania."
 
 #: ../../C16.rst:1389
 msgid ""
 "|tap|: Choose a color. Add one mana of that color for each charge counter on "
 "Astral Cornucopia."
 msgstr ""
+"|tap|: Wybierz kolor. Weź jedną manę wybranego koloru za każdy znacznik "
+"ładowania na tym artefakcie."
 
 #: ../../C16.rst:1394
 msgid ""
