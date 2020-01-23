@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-01-24 14:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/jou/"
 "pl/>\n"
@@ -40,8 +40,8 @@ msgid ""
 "You have hexproof. (You can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Masz antyklątwę. (Nie możesz być celem czarów i zdolności władanych przez "
-"twoich przeciwników.)"
+"Masz antyklątwę. (Czary i zdolności pod władaniem twoich przeciwników nie "
+"mogą cię wskazywać.)"
 
 #: ../../JOU.rst:16
 msgid ""
@@ -52,24 +52,22 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:13
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_2|\\ |mana_w| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 # f792c954794243dc821e88101dc91f50
 #: ../../JOU.rst:15
-#, fuzzy
 msgid ""
 "Any number of target creatures each get +1/+1 and gain indestructible until "
 "end of turn. (Damage and effects that say \"destroy\" don't destroy them.)"
 msgstr ""
 "Każdy z dowolnej liczby wskazanych stworów dostaje do końca tury +1/+1 oraz "
-"Niezniszczalność. (Obrażenia oraz efekty, które mówią \"zniszcz\", nie "
-"niszczą ich.)"
+"niezniszczalność. (Obrażenia oraz efekty mówiące \"zniszcz\", nie niszczą "
+"ich.)"
 
 #: ../../JOU.rst:20
 msgid ""
@@ -110,10 +108,10 @@ msgid ""
 "creature with double strike deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
-"Zauroczony stwór ma Podwójny Cios dopóki jest urokiem. W przeciwnym razie "
-"zażegnaj wszystkie obrażenia, które mogłyby zostać zadane przez zauroczonego "
-"stwora. (Stwór z Podwójnym Ciosem zadaje obrażenia zarówno jako Pierwszy "
-"Cios oraz normalnie.)"
+"O ile zauroczony stwór jest urokiem, ma podwójny cios. W przeciwnym razie "
+"zażegnaj wszelkie obrażenia, jakie mogłyby zostać zadane przez zauroczonego "
+"stwora. (Stwór z podwójnym ciosem zadaje obrażenia jako pierwszy cios i "
+"normalnie.)"
 
 #: ../../JOU.rst:30
 msgid ""
@@ -151,6 +149,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put "
 "a +1/+1 counter on Dawnbringer Charioteers."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść na nim "
+"znacznik +1/+1."
 
 #: ../../JOU.rst:40
 msgid ""
@@ -161,16 +161,15 @@ msgstr ""
 
 # ce400e4c896446c5993c616a53715d0b
 #: ../../JOU.rst:39
-#, fuzzy
 msgid ""
 "Exile target enchantment. If the exiled card is a God card, search its "
 "controller's graveyard, hand, and library for any number of cards with the "
 "same name as that card and exile them, then that player shuffles their "
 "library."
 msgstr ""
-"Wygnaj wskazany urok. Jeśli wypędzona karta to karta Bóstwa, poszukaj "
-"dowolnej liczby kart o takiej samej nazwie w cmentarzu, ręce oraz bibliotece "
-"jej władcy i wypędź je. Następnie ów gracz tasuje swoją bibliotekę."
+"Wygnaj wskazany urok. Jeśli wygnana karta jest typu Bóg, wyszukaj w "
+"cmentarzu, ręce oraz bibliotece jej władcy dowolną liczbę kart o takiej "
+"samej nazwie i wygnaj je. Następnie ów gracz tasuje swoją bibliotekę."
 
 #: ../../JOU.rst:46
 msgid ""
@@ -192,7 +191,7 @@ msgstr "Błysk"
 # eeadc39de2594d0e912f04a00761f65c
 #: ../../JOU.rst:45
 msgid "Creatures you control get +2/+2."
-msgstr "Stwory, którymi władasz dostają +2/+2."
+msgstr "Stwory pod twoim władaniem dostają +2/+2."
 
 #: ../../JOU.rst:50
 msgid ""
@@ -216,7 +215,7 @@ msgstr ""
 # 1a052907f2b34302b2d775c45766acba
 #: ../../JOU.rst:53
 msgid "Each player can't cast more than one spell each turn."
-msgstr "Każdy z graczy nie może rzucać więcej niż jednego czaru na turę."
+msgstr "Każdy gracz nie może rzucać więcej niż jednego czaru na turę."
 
 #: ../../JOU.rst:58
 msgid ""
@@ -227,7 +226,7 @@ msgstr ""
 
 #: ../../JOU.rst:57
 msgid "|mana_2|\\ |mana_w|, Sacrifice Font of Vigor: You gain 7 life."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|, poświęć ten urok: Zyskaj 7 żyć."
 
 #: ../../JOU.rst:68
 msgid ""
@@ -247,18 +246,17 @@ msgid ""
 "Whenever equipped creature blocks or becomes blocked by one or more "
 "creatures, you may exile one of those creatures."
 msgstr ""
-"Ilekroć wyposażony stwór blokuje lub jest blokowany przez jednego lub więcej "
-"stworów, możesz wypędzić jednego z tych stworów."
+"Ilekroć wyposażony stwór blokuje lub jest blokowany przez co najmniej "
+"jednego stwora, możesz wygnać jednego z owych stworów."
 
 # d7be8c9b6bd9444990d26e33578ac224
 #: ../../JOU.rst:65
-#, fuzzy
 msgid ""
 "Your opponents can't cast spells with the same name as a card exiled with "
 "Godsend."
 msgstr ""
-"Przeciwnicy nie mogą rzucać czarów z taką samą nazwą, jak karty wypędzone "
-"przy użyciu Godsend."
+"Przeciwnicy nie mogą rzucać czarów z taką samą nazwą, jak karty wygnane przy "
+"użyciu tego artefaktu."
 
 # 8b7ac86a9baf44338590ccb7dd3e7b5c
 #: ../../JOU.rst:67
@@ -279,9 +277,9 @@ msgid ""
 "the battlefield under your control, prevent all damage that would be dealt "
 "to target creature this turn."
 msgstr ""
-"Konstelacja — Ilekroć Harvestguard Alseids lub inny urok wchodzi na pole "
-"walki pod twoim władaniem, zażegnaj wszystkie obrażenia, które mogłyby być "
-"zadane w tej turze wskazanemu stworowi."
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, zażegnaj wszystkie obrażenia, jakie mogłyby być zadane w tej "
+"turze wskazanemu stworowi."
 
 #: ../../JOU.rst:76
 msgid ""
@@ -296,6 +294,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Lagonna-Band Trailblazer, "
 "put a +1/+1 counter on Lagonna-Band Trailblazer."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść na nim "
+"znacznik +1/+1."
 
 #: ../../JOU.rst:82
 msgid ""
@@ -306,13 +306,12 @@ msgstr ""
 
 # c14d085bf58547d79febcfeae3c20f52
 #: ../../JOU.rst:79
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_1| more to cast for each target beyond the "
 "first."
 msgstr ""
-"Wysiłek — Rzucenie Launch the Fleet kosztuje o |mana_1| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_1| więcej za wskazanie "
+"każdego celu poza pierwszym."
 
 #: ../../JOU.rst:81
 msgid ""
@@ -320,6 +319,9 @@ msgid ""
 "creature attacks, create a 1/1 white Soldier creature token that's tapped "
 "and attacking.\""
 msgstr ""
+"Do końca tury każdy z dowolnej liczby wskazanych stworów zyskuje \"Ilekroć "
+"ten stwór atakuje, stwórz przekręcony i atakujący żeton białego stwora "
+"Piechur 1/1.\""
 
 #: ../../JOU.rst:86
 msgid ""
@@ -334,6 +336,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Leonin Iconoclast, destroy "
 "target enchantment creature an opponent controls."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, zniszcz wskazanego "
+"stwora-urok pod władaniem przeciwnika."
 
 #: ../../JOU.rst:94
 msgid ""
@@ -360,6 +364,8 @@ msgid ""
 "Whenever enchanted creature deals combat damage to a player, you may "
 "sacrifice Mortal Obstinacy. If you do, destroy target enchantment."
 msgstr ""
+"Ilekroć zauroczony stwór zada graczowi obrażenia bojowe, możesz poświęcić "
+"ten urok. Jeśli tak zrobisz, zniszcz wskazany urok."
 
 #: ../../JOU.rst:98
 msgid ""
@@ -371,7 +377,7 @@ msgstr ""
 # 25eb5675924443b9bc93fc76bc4e7155
 #: ../../JOU.rst:97
 msgid "At the beginning of your upkeep, you gain 1 life."
-msgstr "Na początku twojego kroku utrzymania zyskujesz 1 życie."
+msgstr "Na początku twojego kroku utrzymania zyskaj 1 życie."
 
 #: ../../JOU.rst:106
 msgid ""
@@ -393,7 +399,7 @@ msgstr ""
 msgid ""
 "Activated abilities of enchanted creature cost |mana_3| more to activate."
 msgstr ""
-"Aktywacja zdolności aktywowanych  zauroczonego stwora kosztuje o |mana_3| "
+"Aktywacja zdolności aktywowanych zauroczonego stwora kosztuje o |mana_3| "
 "więcej."
 
 #: ../../JOU.rst:108
@@ -412,13 +418,12 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:113
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_1|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_1|\\ |mana_w| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 # 6aee0292b9e14c40ae0ee6a66e0a551f
 #: ../../JOU.rst:115
@@ -426,6 +431,8 @@ msgid ""
 "Any number of target creatures each gain double strike until end of turn. "
 "(They deal both first-strike and regular combat damage.)"
 msgstr ""
+"Każdy z dowolnej liczby wskazanych stworów zyskuje podwójny cios do końca "
+"tury. (Zadają obrażenia zarówno w pierwszym ciosie i normalnie.)"
 
 #: ../../JOU.rst:120
 msgid ""
@@ -441,6 +448,9 @@ msgid ""
 "owner's library just beneath the top X cards of that library, where X is the "
 "number of Plains you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść wskazanego stwora w bibliotece "
+"właściciela tuż pod X wierzchnimi kartami owej biblioteki, gdzie X jest "
+"liczbą Równin pod twoim władaniem."
 
 #: ../../JOU.rst:124
 msgid ""
@@ -454,6 +464,7 @@ msgstr ""
 msgid ""
 "Destroy target creature with power 4 or greater. It can't be regenerated."
 msgstr ""
+"Zniszcz wskazanego stwora o sile 4 lub większej. Nie może być zregenerowany."
 
 #: ../../JOU.rst:132
 msgid ""
@@ -475,12 +486,12 @@ msgstr ""
 # c16698ec31564e5686991a3aac5d45e2
 #: ../../JOU.rst:129
 msgid "Sightless Brawler can't attack alone."
-msgstr ""
+msgstr "Ten stwór nie może atakować samotnie."
 
 # 6260dccb65374ae6b06a4077a4f39685
 #: ../../JOU.rst:131
 msgid "Enchanted creature gets +3/+2 and can't attack alone."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+2 i nie może atakować samotnie."
 
 #: ../../JOU.rst:136
 msgid ""
@@ -497,10 +508,9 @@ msgid ""
 "Return that card to the battlefield under its owner's control at the "
 "beginning of the next end step."
 msgstr ""
-"Konstelacja — Ilekroć Skybind lub inny urok wchodzi na pole walki pod twoim "
-"władaniem, wypędź wskazany permanent nie będący lądem. Zwróć ową kartę na "
-"pole walki po władaniem jej właściciela z początkiem najbliższego kroku "
-"końcowego."
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, wygnaj wskazany nielądowy permanent. Zwróć ową kartę na pole "
+"walki po władaniem jej właściciela na początku najbliższego kroku końcowego."
 
 #: ../../JOU.rst:142
 msgid ""
@@ -545,6 +555,8 @@ msgid ""
 "|mana_4|\\ |mana_w|: Prevent all damage that would be dealt to Stonewise "
 "Fortifier by target creature this turn."
 msgstr ""
+"|mana_4|\\ |mana_w|: Zażegnaj wszystkie obrażenia, jakie mogłyby zostać "
+"zadane temu stworowi przez wskazanego stwora w tej turze."
 
 #: ../../JOU.rst:152
 msgid ""
@@ -559,6 +571,8 @@ msgid ""
 "When Supply-Line Cranes enters the battlefield, put a +1/+1 counter on "
 "target creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../JOU.rst:156
 msgid ""
@@ -587,13 +601,12 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:159
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_u| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_2|\\ |mana_u| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 # aaaeebffb36b4fbd88ba265b4d4214c5
 #: ../../JOU.rst:161
@@ -601,8 +614,8 @@ msgid ""
 "Any number of target creatures each get +1/+1 and gain flying until end of "
 "turn."
 msgstr ""
-"Każdy z dowolnej liczby wskazanych stworów dostaje +1/+1 i latanie do końca "
-"tury."
+"Każdy z dowolnej liczby wskazanych stworów dostaje do końca tury +1/+1 i "
+"latanie."
 
 #: ../../JOU.rst:168
 msgid ""
@@ -626,6 +639,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Battlefield Thaumaturge, "
 "Battlefield Thaumaturge gains hexproof until end of turn."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, zyskuje on antyklątwę "
+"do końca tury."
 
 #: ../../JOU.rst:174
 msgid ""
@@ -649,13 +664,12 @@ msgstr ""
 
 # 9fb3b315a6774524a37833d20ed9ef7e
 #: ../../JOU.rst:177
-#, fuzzy
 msgid ""
 "Counter target spell. Its controller puts the top four cards of their "
 "library into their graveyard."
 msgstr ""
-"Skontruj wskazany czar. Jego władca wkłada cztery wierzchnie karty swojej "
-"biblioteki do swojego cmentarza."
+"Skontruj wskazany czar. Jego władca umieszcza cztery wierzchnie karty swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../JOU.rst:186
 msgid ""
@@ -670,25 +684,25 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_3|\\ |mana_u|\\ |mana_u| (Jeśli rzucisz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # fb344cb2f67443cbb5a9496e04ad46a3
 #: ../../JOU.rst:183
 msgid ""
 "When Crystalline Nautilus becomes the target of a spell or ability, "
 "sacrifice it."
-msgstr ""
-"Kiedy Crystalline Nautilus zostaje wskazany przez czar lub zdolność, poświęć "
-"go."
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 # fb344cb2f67443cbb5a9496e04ad46a3
 #: ../../JOU.rst:185
-#, fuzzy
 msgid ""
 "Enchanted creature gets +4/+4 and has \"When this creature becomes the "
 "target of a spell or ability, sacrifice it.\""
 msgstr ""
-"Kiedy Crystalline Nautilus zostaje wskazany przez czar lub zdolność, poświęć "
-"go."
+"Zauroczony stwór dostaje +4/+4 i ma \"Kiedy ten stwór zostanie wskazany "
+"przez czar lub zdolność, poświęć go.\""
 
 #: ../../JOU.rst:190
 msgid ""
@@ -703,6 +717,9 @@ msgid ""
 "put the revealed cards into their owners' graveyards. If you don't, each "
 "player draws a card."
 msgstr ""
+"|mana_u|, |tap|: Każdy gracz ujawnia wierzchnią kartę swojej biblioteki. "
+"Możesz umieścić ujawnione karty w cmentarzach właścicieli. Jeśli tego nie "
+"zrobisz, każdy gracz dobiera kartę."
 
 #: ../../JOU.rst:194
 msgid ""
@@ -718,6 +735,9 @@ msgid ""
 "of target nonland permanent you control and target permanent an opponent "
 "controls that shares a card type with it."
 msgstr ""
+"Natchniony — Ilekroć ten stwór zostanie odkręcony, możesz zamienić władanie "
+"nad wskazanym nielądowym permanentem pod twoim władaniem oraz wskazanym "
+"permanentem pod władaniem przeciwnika, z którym współdzieli typ karty."
 
 #: ../../JOU.rst:200
 msgid ""
@@ -732,7 +752,7 @@ msgid ""
 "At the beginning of each player's draw step, that player draws an additional "
 "card."
 msgstr ""
-"Na początku kroku dobierania każdego gracza, ów gracz dobiera dodatkową "
+"Na początku kroku dobierania każdego z graczy, ów gracz dobiera dodatkową "
 "kartę."
 
 #: ../../JOU.rst:204
@@ -744,7 +764,7 @@ msgstr ""
 
 #: ../../JOU.rst:203
 msgid "|mana_1|\\ |mana_u|, Sacrifice Font of Fortunes: Draw two cards."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|, poświęć ten urok: Dobierz dwie karty."
 
 #: ../../JOU.rst:208
 msgid ""
@@ -759,8 +779,8 @@ msgid ""
 "Godhunter Octopus can't attack unless defending player controls an "
 "enchantment or an enchanted permanent."
 msgstr ""
-"Godhunter Octopus nie może atakować dopóki broniący się gracz nie włada "
-"urokiem lub zauroczonym permanentem."
+"Ten stwór nie może atakować, chyba że broniący się gracz włada urokiem lub "
+"zauroczonym permanentem."
 
 #: ../../JOU.rst:214
 msgid ""
@@ -771,19 +791,20 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:211 ../../JOU.rst:247
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_1|\\ |mana_u| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_1|\\ |mana_u| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 #: ../../JOU.rst:213
 msgid ""
 "Exile any number of target creatures. For each creature exiled this way, its "
 "controller creates a 4/4 blue Sphinx creature token with flying."
 msgstr ""
+"Wygnaj dowolną liczbę wskazanych stworów. Za każdego stwora wygnanego w ten "
+"sposób, jego władca tworzy żeton niebieskiego stwora Sfinks 4/4 z lataniem."
 
 #: ../../JOU.rst:218
 msgid ""
@@ -797,6 +818,8 @@ msgstr ""
 msgid ""
 "Return target creature and all Auras attached to it to their owners' hands."
 msgstr ""
+"Przywróć wskazanego stwora i wszystkie Aury dołączone do niego do rąk ich "
+"właścicieli."
 
 #: ../../JOU.rst:228
 msgid ""
@@ -811,6 +834,9 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_5|\\ |mana_u|\\ |mana_u| (Jeśli rzucisz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # cd3c72e4c1994ee8a1361af648e43188
 #: ../../JOU.rst:225
@@ -837,6 +863,11 @@ msgid ""
 "library, then put any number of them on the bottom of your library and the "
 "rest on top in any order.)"
 msgstr ""
+"Wróż 3, następnie ujawnij wierzchnią kartę twojej biblioteki. Dobierze tyle "
+"kart, ile wynosi skrócony koszt many ujawnionej karty. (By wróżyć 3, spójrz "
+"na trzy wierzchnie karty twojej biblioteki, następnie umieść dowolne z nich "
+"na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../JOU.rst:238
 msgid ""
@@ -847,13 +878,12 @@ msgstr ""
 
 # e24620f9b8b24c95a0fc33d7a543a98c
 #: ../../JOU.rst:235
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_u| more to cast for each target beyond the "
 "first."
 msgstr ""
-"Wysiłek — Rzucenie Kiora's Dismissalkosztuje o |mana_u| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_u| więcej za wskazanie "
+"każdego celu poza pierwszym."
 
 # b8c121ffe7354d3498cd7cda79a254c7
 #: ../../JOU.rst:237
@@ -885,6 +915,8 @@ msgid ""
 "Choose a creature on the battlefield. Any number of target creatures you "
 "control each become a copy of that creature until end of turn."
 msgstr ""
+"Wybierz stwora na polu walki. Do końca tury każdy z dowolnej liczby "
+"wskazanych stworów pod twoim władaniem staje się kopią wybranego stwora."
 
 #: ../../JOU.rst:254
 msgid ""
@@ -899,6 +931,8 @@ msgid ""
 "Return up to one target instant card and up to one target sorcery card from "
 "your graveyard to your hand. Exile Pull from the Deep."
 msgstr ""
+"Przywróć co najwyżej po jednej karcie sztuczki i obrzędu z twojego cmentarza "
+"do twojej ręki. Wygnaj niniejszy czar."
 
 #: ../../JOU.rst:260
 msgid ""
@@ -913,6 +947,8 @@ msgid ""
 "At the beginning of your upkeep, return an enchantment you control to its "
 "owner's hand."
 msgstr ""
+"Na początku twojego kroku rozliczania, przywróć urok pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../JOU.rst:264
 msgid ""
@@ -1164,13 +1200,12 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:333 ../../JOU.rst:419
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_b| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_2|\\ |mana_b| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 # 14096950b59b470dba8c9e2bbae6b8ab
 #: ../../JOU.rst:335
@@ -1586,13 +1621,12 @@ msgstr ""
 
 # 5248d4eb20c84258912494e8526bd03b
 #: ../../JOU.rst:459
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_r| more to cast for each target beyond the "
 "first."
 msgstr ""
-"Wysiłek — Rzucenie Blinding Flare kosztuje o |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_r| więcej za wskazanie "
+"każdego celu poza pierwszym."
 
 # d88746e21ee749b8a494f1f273429a1e
 #: ../../JOU.rst:461
@@ -1728,13 +1762,12 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:503 ../../JOU.rst:551 ../../JOU.rst:579
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_r| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_2|\\ |mana_r| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 # ed4a5539bf974b0386cfffae9de75b2a
 #: ../../JOU.rst:505
@@ -2016,13 +2049,12 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:595 ../../JOU.rst:711
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_1|\\ |mana_g| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_1|\\ |mana_g| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 # 625d9629300042279b2ca1e47d2cdcc6
 #: ../../JOU.rst:597
@@ -2042,13 +2074,12 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:601 ../../JOU.rst:659
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_g| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_2|\\ |mana_g| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 # bebc0b3defd64a849ed4c233d84b77fb
 #: ../../JOU.rst:603
@@ -2403,13 +2434,12 @@ msgstr ""
 
 # e24620f9b8b24c95a0fc33d7a543a98c
 #: ../../JOU.rst:705
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_g| more to cast for each target beyond the "
 "first."
 msgstr ""
-"Wysiłek — Rzucenie Kiora's Dismissalkosztuje o |mana_u| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_g| więcej za wskazanie "
+"każdego celu poza pierwszym."
 
 # aaaeebffb36b4fbd88ba265b4d4214c5
 #: ../../JOU.rst:707
@@ -2583,13 +2613,12 @@ msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
 #: ../../JOU.rst:753
-#, fuzzy
 msgid ""
 "Strive — This spell costs |mana_r|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
-"dodatkowy cel poza pierwszym."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_r|\\ |mana_w| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 # 097b2be3e3784063a3a9ee681f12c16a
 #: ../../JOU.rst:755
