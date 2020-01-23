@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:49+0000\n"
+"PO-Revision-Date: 2020-01-23 18:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c15/"
 "pl/>\n"
@@ -1128,7 +1128,7 @@ msgstr "Wybierz jedno lub oba —"
 
 #: ../../C15.rst:405
 msgid "Return target enchantment card from your graveyard to your hand."
-msgstr "Przywróć wskazaną karte uroku z twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną kartę uroku z twojego cmentarza do twojej ręki."
 
 #: ../../C15.rst:407 ../../C15.rst:1231
 msgid "Destroy target enchantment."
@@ -2076,7 +2076,7 @@ msgid ""
 "Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that "
 "player."
 msgstr ""
-"Ilekroć przeciwnik dobiera kratę, ten stwór zadaje owemu graczowi 1 "
+"Ilekroć przeciwnik dobierze kratę, ten stwór zadaje owemu graczowi 1 "
 "obrażenie."
 
 #: ../../C15.rst:730
@@ -3168,6 +3168,7 @@ msgstr ""
 #: ../../C15.rst:1085
 msgid "All creatures able to block Noble Quarry or enchanted creature do so."
 msgstr ""
+"Wszystkie stwory mogące blokować tego lub zauroczonego stwora, robią to."
 
 #: ../../C15.rst:1087
 msgid "Enchanted creature gets +1/+1."
@@ -3294,6 +3295,9 @@ msgid ""
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. "
+"Umieść pozostałe w twoim cmentarzu."
 
 #: ../../C15.rst:1134
 msgid ""
