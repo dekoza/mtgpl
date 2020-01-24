@@ -27,7 +27,7 @@ Tłumaczenie dodatków
 Standard
 --------
 
-* :mtgexp:`THB` :doc:`Theros: Beyond Death<TBD>` |p100|
+* :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |p100|
 * :mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |p100|
 * :mtgexp:`M20` :doc:`Core Set 2020<M20>` |p100|
 * :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p100|
@@ -37,40 +37,26 @@ Standard
 Pioneer
 -------
 
-Oprócz dodatków legalnych w Standardzie legalne są także poniższe dodatki:
+Pionier jest nowym formatem bez rotacji. Należą do niego wszystkie dodatki wydane od :doc:`Return to Ravnica<RTR>`.
 
-* :mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|
-* :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|
-* :mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|
-* :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p25|
-* :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|
-* :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|
-* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|
-* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p25|
-* :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p25|
-* :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p25|
-* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p25|
-* :mtgexp:`ORI` :doc:`Origins<ORI>` |p25|
-* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p25|
-* :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|
-* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p75|
-* :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p50|
-* :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|
-* :mtgexp:`THS` :doc:`Theros<THS>` |p100|
-* :mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` |p100|
-* :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|
-* :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|
+* :doc:`Pionier<pioneer>`
 
 Modern
 ------
 
-Oprócz dodatków legalnych w Pionierze (i oczywiście Standardzie) legalne są także:
+Modern jest jednym z formatów pozbawionych rotacji. Należą do niego wszystkie dodatki wydane od :doc:`Mirrodin<MRD>`.
+
+* :doc:`Pełna lista dodatków wchodzących w skład formatu Modern<modern>`
+
+Oprócz tego format otrzymał specjalny dodatek, który nigdy nie był częścią Standardu:
 
 * :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p100|
-* :doc:`Lista pozostałych dodatków<modern>`
 
 Legacy / Vintage
 ----------------
+
+Formaty Legacy i Vintage zawierają wszystkie karty wydane od początku istnienia
+gry. Na poniższej liście znajdują się te, które są starsze od wymienionych powyżej.
 
 * :doc:`Lista dodatków<legacy>`
 
@@ -176,6 +162,7 @@ Legal notice
    :hidden:
 
    rulebook
+   THB
    ELD
    M20
    WAR

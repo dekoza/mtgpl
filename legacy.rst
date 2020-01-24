@@ -3,7 +3,8 @@ Legacy / Vintage
 ****************
 
 W tej grupie znajdują się najstarsze dodatki posiadające pierwotny wygląd ramek.
-Formaty Vintage oraz Legacy zawierają w sobie także dodatki z Moderna (i Standardu).
+Formaty Vintage oraz Legacy zawierają w sobie także dodatki
+z :doc:`Moderna<modern>`, :doc:`Pioniera<pioneer>` i Standardu.
 
 UWAGA: Teksty kart poniższych dodatków tłumaczone są na podstawie ich treści z bazy wiedzy o kartach "Oracle",
 która jest głównym wyznacznikiem reguł kart. Mogą przez to znacząco odbiegać od oryginalnie wydrukowanych treści.

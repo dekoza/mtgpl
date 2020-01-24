@@ -4,12 +4,34 @@ Modern
 
 .. include:: progress.rst
 
+Standard
+--------
+
+Format Standard jest rotującym formatem, tzn. raz w roku najstarsze dodatki
+obecne w tym formacie przestają być "legalne" - zostają wyłączone z formatu,
+czyli "rotują". Na ich miejsce przychodzą nowo wydawane dodatki.
+
+Lista dodatków obecnych w aktualnym Standardzie znajduje się
+:doc:`na stronie głównej<index>`.
+
+Karty z dodatków, które wyszły ze Standardu, nadal mogą być grane w formatach
+:doc:`Pionier<pioneer>`, :doc:`Modern<modern>` i :doc:`Legacy<legacy>`, a format
+Standard jest ich podzbiorem.
+
+Dodatki specjalne
+-----------------
+
+Poniższy dodatek należy do formatu Modern, choć nigdy nie był częścią Standardu.
+
 * :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p100|
 
+Pioneer
+-------
 
-Pre-Pioneer
------------
+Format :doc:`Pionier<pioneer>` jest podzbiorem formatu Modern.
 
+Dodatki poza Pionierem
+----------------------
 
 * :mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|
 * :mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|
@@ -44,9 +66,6 @@ Pre-Pioneer
 Edycje bazowe
 -------------
 
-* :mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|
-* :mtgexp:`M15` :doc:`Magic 2015<M15>` |p25|
-* :mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|
 * :mtgexp:`M13` :doc:`Magic 2013<M13>` |p25|
 * :mtgexp:`M12` :doc:`Magic 2012<M12>` |p25|
 * :mtgexp:`M11` :doc:`Magic 2011<M11>` |p25|
@@ -59,31 +78,7 @@ Edycje bazowe
 .. toctree::
    :hidden:
 
-   M19
-   DOM
-   RIX
-   XLN
-   MH1
-   HOU
-   AKH
-   AER
-   KLD
-   EMN
-   SOI
-   OGW
-   BFZ
-   ORI
-   DTK
-   FRF
-   KTK
-   M15
-   JOU
-   BNG
-   THS
-   M14
-   DGM
-   GTC
-   RTR
+   pioneer
    M13
    AVR
    DKA
