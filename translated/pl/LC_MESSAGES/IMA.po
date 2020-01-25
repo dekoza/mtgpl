@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-25 16:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ima/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../IMA.rst:5
@@ -2420,13 +2420,15 @@ msgstr ""
 
 #: ../../IMA.rst:913
 msgid "Heroes' Bane enters the battlefield with four +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając cztery znacznikami +1/+1."
 
 #: ../../IMA.rst:915
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Put X +1/+1 counters on Heroes' Bane, where "
 "X is its power."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|: Umieść na tym stworze X znaczników +1/+1, "
+"gdzie X to jego siła."
 
 #: ../../IMA.rst:920
 msgid ""

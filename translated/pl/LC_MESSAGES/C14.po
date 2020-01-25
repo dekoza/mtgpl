@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:49+0000\n"
+"PO-Revision-Date: 2020-01-25 16:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c14/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../C14.rst:5
 #, fuzzy
@@ -3731,7 +3731,7 @@ msgstr ""
 
 #: ../../C14.rst:1289
 msgid "Creatures you control of the chosen color get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego koloru pod twoim władaniem dostają +1/+1."
 
 #: ../../C14.rst:1291
 msgid ""
