@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 00:29+0000\n"
+"PO-Revision-Date: 2020-01-25 16:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/jou/"
 "pl/>\n"
@@ -1982,6 +1982,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 "
 "counter on Satyr Hoplite."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść na nim "
+"znacznik +1/+1."
 
 #: ../../JOU.rst:562
 msgid ""
@@ -1996,6 +1998,8 @@ msgid ""
 "Whenever Sigiled Skink attacks, scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Ilekroć ten stwór atakuje, wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../JOU.rst:568
 msgid ""
@@ -2009,6 +2013,8 @@ msgid ""
 "When Spawn of Thraxes enters the battlefield, it deals damage to any target "
 "equal to the number of Mountains you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu celowi tyle "
+"obrażeń, ile masz Gór pod władaniem."
 
 #: ../../JOU.rst:572
 msgid ""
@@ -2024,6 +2030,9 @@ msgid ""
 "instant and sorcery cards in your graveyard. Scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi tyle obrażeń, ile jest czarów sztuczek i "
+"obrzędów w twoim cmentarzu. Wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../JOU.rst:576
 msgid ""
@@ -2038,6 +2047,8 @@ msgid ""
 "Starfall deals 3 damage to target creature. If that creature is an "
 "enchantment, Starfall deals 3 damage to that creature's controller."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia. Jeśli ów stwór jest "
+"urokiem, ten czar zadaje władcy owego stwora 3 obrażenia."
 
 #: ../../JOU.rst:582
 msgid ""
@@ -2052,6 +2063,9 @@ msgid ""
 "a token that's a copy of that creature, except it has haste. Exile those "
 "tokens at the beginning of the next end step."
 msgstr ""
+"Wskaż dowolną liczbę stworów pod twoim władaniem i dla każdego z nich stwórz "
+"żeton będący jego kopią, ale mającą pośpiech. Wygnaj owe żetony na początku "
+"najbliższego kroku końcowego."
 
 #: ../../JOU.rst:588
 msgid ""
@@ -2062,7 +2076,6 @@ msgstr ""
 
 # 38323db59c3b465c932e1729310f4fa5
 #: ../../JOU.rst:585
-#, fuzzy
 msgid ""
 "|mana_5|\\ |mana_r|\\ |mana_r|: Monstrosity 1. (If this creature isn't "
 "monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
@@ -2076,6 +2089,8 @@ msgid ""
 "When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent "
 "and each creature your opponents control."
 msgstr ""
+"Kiedy ten stwór stanie się monstrualny, zadaje on każdemu przeciwnikowi i "
+"każdemu stworowi pod ich władaniem po 2 obrażenia."
 
 #: ../../JOU.rst:592
 msgid ""
@@ -2111,7 +2126,7 @@ msgid ""
 "Any number of target creatures each get +2/+2 until end of turn. Untap those "
 "creatures."
 msgstr ""
-"Każdy z dowolnej liczby wskazanych stworów dostaje +2/+2 do końca tury. "
+"Każdy z dowolnej liczby wskazanych stworów dostaje od końca tury +2/+2. "
 "Odkręć owe stwory."
 
 #: ../../JOU.rst:604
@@ -2160,8 +2175,8 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
-"Ilekroć gracz przekręca ląd pobierając manę, ów gracz dostaje jedną manę w "
-"kolorze wyprodukowanym przez ów ląd."
+"Ilekroć gracz przekręca ląd pobierając manę, ów gracz bierze dodatkowo jedną "
+"manę w kolorze wyprodukowanym przez ów ląd."
 
 #: ../../JOU.rst:618
 msgid ""
@@ -2192,6 +2207,9 @@ msgid ""
 "basic land card, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć ten urok: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu walki, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../JOU.rst:626
 msgid ""
@@ -2219,9 +2237,8 @@ msgid ""
 "battlefield under your control, target creature must be blocked this turn if "
 "able."
 msgstr ""
-"Konstelacja — Ilekroć Goldenhide Ox lub inny urok wchodzi na pole walki pod "
-"twoim władaniem, wskazany stwór musi być blokowany w tej turze, o ile to "
-"możliwe."
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, wskazany stwór musi być blokowany w tej turze, jeśli to możliwe."
 
 #: ../../JOU.rst:636
 msgid ""
@@ -2233,16 +2250,15 @@ msgstr ""
 # cdfb7b828b5d424bbb09d28b6098f283
 #: ../../JOU.rst:633
 msgid "Heroes' Bane enters the battlefield with four +1/+1 counters on it."
-msgstr "Heroes' Bane wchodzi na pole walki z czterema znacznikami +1/+1."
+msgstr "Ten stwór wchodzi na pole walki mając cztery znacznikami +1/+1."
 
 # a81dbc7c1d154dc99f71b268ef4dc2b9
 #: ../../JOU.rst:635
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Put X +1/+1 counters on Heroes' Bane, where "
 "X is its power."
 msgstr ""
-"|mana_2|\\ |mana_g|\\ |mana_g|: Umieść na Heroe's Bane X znaczników +1/+1, "
+"|mana_2|\\ |mana_g|\\ |mana_g|: Umieść na tym stworze X znaczników +1/+1, "
 "gdzie X to jego siła."
 
 #: ../../JOU.rst:640
@@ -2259,9 +2275,8 @@ msgid ""
 "the battlefield under your control, creatures you control gain trample until "
 "end of turn."
 msgstr ""
-"Konstelacja — Ilekroć Humbler of Mortals lub inny urok wchodzi na pole walki "
-"pod twoim władaniem, stwory, którymi władasz zyskują tratowanie do końca "
-"tury."
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, stwory pod twoim władaniem zyskują tratowanie do końca tury."
 
 #: ../../JOU.rst:646
 msgid ""
@@ -2272,7 +2287,6 @@ msgstr ""
 
 # 009259ac9c834d2199284a619abe4bd7
 #: ../../JOU.rst:643
-#, fuzzy
 msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_g|: Monstrosity X. (If this creature isn't "
 "monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
@@ -2282,13 +2296,12 @@ msgstr ""
 
 # 60fe2053983c408e9e2009b283ab5829
 #: ../../JOU.rst:645
-#, fuzzy
 msgid ""
 "When Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature "
 "tokens."
 msgstr ""
-"Kiedy Hydra Broodmaster staje się monstrualna, stwórz X zielonych żetonów "
-"stwora Hydra X/X."
+"Kiedy ten stwór stanie się monstrualny, stwórz X żetonów zielonego stwora "
+"Hydra X/X."
 
 #: ../../JOU.rst:650
 msgid ""
@@ -2304,9 +2317,8 @@ msgid ""
 "from among them into your hand and the rest of the revealed cards into your "
 "graveyard."
 msgstr ""
-"Ujawnij sześć wierzchnich kart twojej biblioteki. Włóż do trzech kart uroków "
-"spośród nich do twojej ręki, a pozostałe z ujawnionych kart do twojego "
-"cmentarza."
+"Ujawnij sześć wierzchnich kart twojej biblioteki. Spośród nich umieść co "
+"najwyżej trzy karty uroków  w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../JOU.rst:656
 msgid ""
@@ -2325,6 +2337,8 @@ msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional two mana in any combination of colors."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
+"bierze dodatkowe dwie many w dowolnej kombinacji kolorów."
 
 #: ../../JOU.rst:662
 msgid ""
@@ -2337,7 +2351,7 @@ msgstr ""
 #: ../../JOU.rst:661
 msgid ""
 "Choose any number of target creatures. Put a +1/+1 counter on each of them."
-msgstr "Wskaż dowolną liczbę stworów. Umieść znacznik +1/+1 na każdej z nich."
+msgstr "Wskaż dowolną liczbę stworów. Umieść znacznik +1/+1 na każdym z nich."
 
 #: ../../JOU.rst:666
 msgid ""
@@ -2354,6 +2368,10 @@ msgid ""
 "creature card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na X wierzchnich kart twojej "
+"biblioteki, gdzie X jest liczbą Lasów pod twoim władaniem. Możesz ujawnić "
+"spośród nich kartę stwora i umieścić ją w twojej ręce. Umieść pozostałe na "
+"spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../JOU.rst:670
 msgid ""
@@ -2368,8 +2386,8 @@ msgid ""
 "Constellation — Whenever Oakheart Dryads or another enchantment enters the "
 "battlefield under your control, target creature gets +1/+1 until end of turn."
 msgstr ""
-"Konstelacja — Ilekroć Oakheart Dryads lub inny urok wchodzi na pole walki "
-"pod twoim władaniem, wskazany stwór dostaje +1/+1 do końca tury."
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, wskazany stwór dostaje do końca tury +1/+1."
 
 #: ../../JOU.rst:674
 msgid ""
@@ -2384,6 +2402,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Pheres-Band Thunderhoof, put "
 "two +1/+1 counters on Pheres-Band Thunderhoof."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść na tym stworze "
+"dwa znaczniki +1/+1."
 
 #: ../../JOU.rst:680
 msgid ""
@@ -2402,6 +2422,7 @@ msgstr "Czujność, tratowanie"
 msgid ""
 "Other Centaur creatures you control get +1/+1 and have vigilance and trample."
 msgstr ""
+"Inne Centaury pod twoim władaniem dostają +1/+1 i mają czujność i tratowanie."
 
 #: ../../JOU.rst:686
 msgid ""
@@ -2417,13 +2438,12 @@ msgstr "Czujność"
 
 # 38323db59c3b465c932e1729310f4fa5
 #: ../../JOU.rst:685
-#, fuzzy
 msgid ""
 "|mana_6|\\ |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put "
 "three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
-"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
+"|mana_6|\\ |mana_g|: Monstrualność 3. (Jeśli ten stwór nie jest monstrualny, "
+"umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 #: ../../JOU.rst:690
 msgid ""
@@ -2437,6 +2457,8 @@ msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider "
 "enchantment creature token with reach. (It can block creatures with flying.)"
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć tego stwora: Stwórz trzy żetony zielonego "
+"stwora Pająk 1/3 z zasięgiem. (Może blokować stwory z lataniem.)"
 
 #: ../../JOU.rst:698
 msgid ""
@@ -2473,6 +2495,8 @@ msgid ""
 "When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../JOU.rst:708
 msgid ""
@@ -2492,13 +2516,12 @@ msgstr ""
 
 # aaaeebffb36b4fbd88ba265b4d4214c5
 #: ../../JOU.rst:707
-#, fuzzy
 msgid ""
 "Until end of turn, any number of target creatures each get +1/+1 and gain \"|"
 "tap|: This creature fights another target creature.\""
 msgstr ""
-"Każdy z dowolnej liczby wskazanych stworów dostaje +1/+1 i latanie do końca "
-"tury."
+"Do końca tury każdy z dowolnej liczby wskazanych stworów dostaje +1/+1 oraz "
+"\"|tap|: Ten stwór walczy z innym wskazanym stworem.\""
 
 #: ../../JOU.rst:714
 msgid ""
@@ -2513,6 +2536,8 @@ msgid ""
 "Choose any number of target creatures. Double the number of +1/+1 counters "
 "on each of them."
 msgstr ""
+"Wskaż dowolną liczbę stworów. Podwój liczbę znaczników +1/+1 na każdym z "
+"nich."
 
 #: ../../JOU.rst:722
 msgid ""
@@ -2533,13 +2558,12 @@ msgstr ""
 
 #: ../../JOU.rst:719
 msgid "Spirespine blocks each combat if able."
-msgstr ""
+msgstr "Ten stwór blokuje w każdej walce, jeśli może."
 
 # 020974223e9a443d8ff8eea806d229da
 #: ../../JOU.rst:721
-#, fuzzy
 msgid "Enchanted creature gets +4/+1 and blocks each combat if able."
-msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej turze jeśli może."
+msgstr "Zauroczony stwór dostaje +4/+1 i blokuje w każdej walce, jeśli może."
 
 #: ../../JOU.rst:726
 msgid ""
@@ -2555,9 +2579,9 @@ msgid ""
 "enters the battlefield under your control, target creature gets +X/+X until "
 "end of turn, where X is the number of creature cards in your graveyard."
 msgstr ""
-"Konstelacja — Ilekroć Strength from the Fallen lub inny urok wchodzi na pole "
-"walki pod twoim władaniem, wskazany stwór dostaje +X/+X do końca tury, gdzie "
-"X jest liczbą kart stworów w twoim cmentarzu."
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, wskazany stwór dostaje do końca tury +X/+X, gdzie X jest liczbą "
+"kart stworów w twoim cmentarzu."
 
 #: ../../JOU.rst:734
 msgid ""
@@ -2569,22 +2593,21 @@ msgstr ""
 # 4a1190c7906742aca475fb25c2348552
 #: ../../JOU.rst:729
 msgid "When you're dealt combat damage, sacrifice Swarmborn Giant."
-msgstr ""
+msgstr "Kiedy otrzymasz obrażenia bojowe, poświęć tego stwora."
 
 # 009259ac9c834d2199284a619abe4bd7
 #: ../../JOU.rst:731
-#, fuzzy
 msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_g|: Monstrosity 2. (If this creature isn't "
 "monstrous, put two +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_x|\\ |mana_x|\\ |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
-"monstrualny, umieść na nim X znaczników +1/+1 i staje się on monstrualny.)"
+"|mana_4|\\ |mana_g|\\ |mana_g|: Monstrualność 2. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim 2 znaczniki +1/+1 i staje się on monstrualny.)"
 
 # f4f6bebd27494c769628ed5c56a6f250
 #: ../../JOU.rst:733
 msgid "As long as Swarmborn Giant is monstrous, it has reach."
-msgstr ""
+msgstr "O ile ten stwór jest monstrualny, ma on zasięg."
 
 #: ../../JOU.rst:742
 msgid ""
@@ -2600,7 +2623,7 @@ msgid ""
 "creatures you control."
 msgstr ""
 "+1: Rozmieść trzy znaczniki +1/+1 pośród jednego, dwa lub trzy wskazane "
-"stwory, którymi władasz."
+"stwory pod twoim władaniem."
 
 # 251795975dc545ee8e86314c51c4a45e
 #: ../../JOU.rst:739
@@ -2610,13 +2633,13 @@ msgid ""
 "Put the rest on the bottom of your library in any order."
 msgstr ""
 "+1: Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić "
-"kartę Aury, stwora lub wędrowca spośród nich i włożyć ją do twojej reki. "
-"Włóż pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
+"spośród nich kartę Aury, stwora lub wędrowca i umieścić ją w twojej ręce. "
+"Umieść pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 # add281b4c032477d83f5c52c32b7ae59
 #: ../../JOU.rst:741
 msgid "−8: You gain 100 life."
-msgstr "−8: Zyskujesz 100 punktów życia."
+msgstr "–8: Zyskaj 100 żyć."
 
 #: ../../JOU.rst:750
 msgid ""
@@ -2641,7 +2664,7 @@ msgid ""
 "As long as your devotion to white and black is less than seven, Athreos "
 "isn't a creature."
 msgstr ""
-"Dopóki twój kult czarnego i białego jest mniejszy niż siedem, ta karta nie "
+"O ile twój kult czarnego i białego jest mniejszy niż siedem, ta karta nie "
 "jest stworem."
 
 # eb5c5f1d27814dfcba994ca9b1734a1b
@@ -2650,7 +2673,7 @@ msgid ""
 "Whenever another creature you own dies, return it to your hand unless target "
 "opponent pays 3 life."
 msgstr ""
-"Ilekroć inny stwór, którego jesteś właścicielem umiera, zwróć go do twojej "
+"Ilekroć inny stwór będący twoją własnością umrze, przywróć go do twojej "
 "ręki, chyba że wskazany przeciwnik zapłaci 3 życia."
 
 #: ../../JOU.rst:756
@@ -2675,6 +2698,8 @@ msgid ""
 "Any number of target creatures each get +2/+0 and gain first strike and "
 "vigilance until end of turn."
 msgstr ""
+"Każdy z dowolnej liczby wskazanych stworów dostaje do końca tury +2/+0, "
+"pierwszy cios i czujność."
 
 #: ../../JOU.rst:760
 msgid ""
@@ -2691,6 +2716,10 @@ msgid ""
 "converted mana cost as that card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
+"Natchniony — Ilekroć ten stwór zostanie odkręcony, możesz odrzucić nielądową "
+"kartę. Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o takim samym "
+"skróconym koszcie many, ujawnij ją i mieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../JOU.rst:768
 msgid ""
@@ -2706,12 +2735,11 @@ msgstr "Latanie, dotyk śmierci"
 
 # 38323db59c3b465c932e1729310f4fa5
 #: ../../JOU.rst:767
-#, fuzzy
 msgid ""
 "|mana_5|\\ |mana_g|\\ |mana_u|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"|mana_5|\\ |mana_g|\\ |mana_u|: Monstrualność 3. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 #: ../../JOU.rst:778
@@ -2727,6 +2755,8 @@ msgid ""
 "As long as your devotion to red and white is less than seven, Iroas isn't a "
 "creature."
 msgstr ""
+"O ile twój kult czerwonego i białego jest mniejszy niż siedem, ta karta nie "
+"jest stworem."
 
 # b5cefaaf51834337bb0680d3852e7a06
 #: ../../JOU.rst:775
@@ -2738,6 +2768,8 @@ msgstr "Stwory pod twoim władaniem mają złowrogość."
 msgid ""
 "Prevent all damage that would be dealt to attacking creatures you control."
 msgstr ""
+"Zażegnaj wszelkie obrażenia, jakie mogłyby zostać zadane atakującym stworom "
+"pod twoim władaniem."
 
 #: ../../JOU.rst:786
 msgid ""
@@ -2752,6 +2784,8 @@ msgid ""
 "As long as your devotion to blue and red is less than seven, Keranos isn't a "
 "creature."
 msgstr ""
+"O ile twój kult niebieskiego i czerwonego jest mniejszy niż siedem, ta karta "
+"nie jest stworem."
 
 #: ../../JOU.rst:785
 msgid ""
@@ -2759,6 +2793,9 @@ msgid ""
 "land card this way, draw a card. Whenever you reveal a nonland card this "
 "way, Keranos deals 3 damage to any target."
 msgstr ""
+"Ujawnij pierwszą kartę dobieraną przez ciebie w każdej z twoich tur. Ilekroć "
+"ujawnisz w ten sposób kartę lądu, dobierz kartę. Ilekroć ujawnisz nielądową "
+"kartę w ten sposób, ten permanent zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../JOU.rst:796
 msgid ""
@@ -2773,6 +2810,8 @@ msgid ""
 "As long as your devotion to green and blue is less than seven, Kruphix isn't "
 "a creature."
 msgstr ""
+"O ile twój kult zielonego i niebieskiego jest mniejszy niż siedem, ta karta "
+"nie jest stworem."
 
 # cc951d04268f43c985b64e73e62eaa1c
 #: ../../JOU.rst:793
@@ -2781,11 +2820,10 @@ msgstr "Nie masz limitu kart na ręce."
 
 # f766030c0a5f4125bd677be86df11574
 #: ../../JOU.rst:795
-#, fuzzy
 msgid "If you would lose unspent mana, that mana becomes colorless instead."
 msgstr ""
-"Jeśli nieużyta mana miałaby zostać opróżniona z twojej puli many, zamiast "
-"tego owa mana staje się bezkolorowa."
+"Jeśli niezużyta mana miałaby zostać utracona, zamiast tego staje się ona "
+"bezkolorowa."
 
 #: ../../JOU.rst:804
 msgid ""
@@ -2805,16 +2843,17 @@ msgid ""
 "At the beginning of your upkeep, put the top two cards of your library into "
 "your graveyard."
 msgstr ""
-"Na początku twojego utrzymania, włóż dwie wierzchnie karty twojej biblioteki "
-"do twojego cmentarza."
+"Na początku twojego utrzymania, umieść dwie wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 # 51a4532c38494d3db7167f53c40a87b5
 #: ../../JOU.rst:803
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_g|, Exile Nyx Weaver: Return target card from "
 "your graveyard to your hand."
-msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_g|, wygnaj tego stwora: Przywróć wskazaną kartę "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../JOU.rst:812
 msgid ""
@@ -2829,6 +2868,8 @@ msgid ""
 "As long as your devotion to black and green is less than seven, Pharika "
 "isn't a creature."
 msgstr ""
+"O ile twój kult czarnego i zielonego jest mniejszy niż siedem, ta karta nie "
+"jest stworem."
 
 #: ../../JOU.rst:811
 msgid ""
@@ -2836,6 +2877,9 @@ msgid ""
 "creates a 1/1 black and green Snake enchantment creature token with "
 "deathtouch."
 msgstr ""
+"|mana_b|\\ |mana_g|: Wygnaj wskazaną kartę stwora z cmentarza. Jej "
+"właściciel tworzy żeton czarno-zielonego stwora-uroku Wąż 1/1 z dotykiem "
+"śmierci."
 
 #: ../../JOU.rst:816
 msgid ""
@@ -2846,9 +2890,8 @@ msgstr ""
 
 # 41029c68314f43089b9dd1b4d7f5beab
 #: ../../JOU.rst:815
-#, fuzzy
 msgid "Create four 2/2 red and green Satyr creature tokens with haste."
-msgstr "Umieść na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
+msgstr "Stwórz dwa żetony czerwono-zielonego stwora Satyr 2/2 z pośpiechem."
 
 #: ../../JOU.rst:822
 msgid ""
@@ -2864,6 +2907,11 @@ msgid ""
 "card's converted mana cost. (To scry 1, look at the top card of your "
 "library, then you may put that card on the bottom of your library.)"
 msgstr ""
+"|mana_2|\\ |mana_u|\\ |mana_r|: Wróż 1, następnie ujawnij wierzchnią kartę "
+"twojej biblioteki. Ten stwór dostaje do końca tury +x/+0, gdzie X jest "
+"skróconym kosztem many ujawnionej karty. (By wróżyć 1, spójrz na wierzchnią "
+"kartę twojej biblioteki, następnie możesz ją umieścić na spodzie twojej "
+"biblioteki.)"
 
 #: ../../JOU.rst:828
 msgid ""
@@ -2929,7 +2977,7 @@ msgstr ""
 # 08a5b3709d624c689ff460672c974ad2
 #: ../../JOU.rst:843
 msgid "You may choose not to untap Deserter's Quarters during your untap step."
-msgstr "Możesz nie odznaczać Deserter's Quarters w twoim kroku odnzaczania."
+msgstr "Możesz nie odkręcać tego artefaktu w twoim kroku odkręcania."
 
 # ff306473c94c42449a2807a5bb1b6cff
 #: ../../JOU.rst:845
@@ -2937,6 +2985,8 @@ msgid ""
 "|mana_6|, |tap|: Tap target creature. It doesn't untap during its "
 "controller's untap step for as long as Deserter's Quarters remains tapped."
 msgstr ""
+"|mana_6|, |tap|: Przekręć wskazanego stwora. Nie odkręci się on podczas "
+"kroku odkręcania swojego władcy o ile ten artefakt pozostaje przekręcony."
 
 #: ../../JOU.rst:850
 msgid ""
@@ -2955,12 +3005,12 @@ msgstr ""
 # e862c97dbdbc4abeb3b657dadfe79805
 #: ../../JOU.rst:853
 msgid "As Hall of Triumph enters the battlefield, choose a color."
-msgstr "Kładąc  Hall of Triumph na polu walki wybierz kolor."
+msgstr "Umieszczając ten artefakt na polu walki wybierz kolor."
 
 # 033f70e0bea94c7aa83e8fa9ffb822d7
 #: ../../JOU.rst:855
 msgid "Creatures you control of the chosen color get +1/+1."
-msgstr "Władane przez ciebie stwory wybranego koloru dostają +1/+1."
+msgstr "Stwory wybranego koloru pod twoim władaniem dostają +1/+1."
 
 #: ../../JOU.rst:860
 msgid ""
@@ -2971,10 +3021,8 @@ msgstr ""
 
 # 1283291927f34d17b7bcda652ce06def
 #: ../../JOU.rst:859
-#, fuzzy
 msgid "|tap|, Pay 1 life: Add one mana of any color."
-msgstr ""
-"|tap|, zapłać 1 życie: Dodaj jedną manę dowolnego koloru do twojej puli many."
+msgstr "|tap|, zapłać 1 życie: Weź jedną manę dowolnego koloru."
 
 #: ../../JOU.rst:868
 msgid ""
@@ -2990,10 +3038,8 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 51884cd91f7d42ab978e11bed8e4f0cb
 #: ../../JOU.rst:865
-#, fuzzy
-#| msgid "Temple of Epiphany enters the battlefield tapped."
 msgid "When Temple of Epiphany enters the battlefield, scry 1."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
 
 # 3316b2f43b754b7d84e2ab467e2e2325
 #: ../../JOU.rst:867
@@ -3014,10 +3060,8 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 66e0cd425eea41b4b85d48585dfff6fc
 #: ../../JOU.rst:873
-#, fuzzy
-#| msgid "Temple of Malady enters the battlefield tapped."
 msgid "When Temple of Malady enters the battlefield, scry 1."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
 
 # 3316b2f43b754b7d84e2ab467e2e2325
 #: ../../JOU.rst:875
