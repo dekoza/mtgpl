@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bng/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "X-POOTLE-MTIME: 1391098335.778030\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
@@ -2073,7 +2073,7 @@ msgstr "Latanie, pośpiech"
 # 96ff31c7c3394a318f16dab4d3dd5902
 #: ../../BNG.rst:537
 msgid "Impetuous Sunchaser attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej turze, jeśli może."
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../BNG.rst:542
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:48+0000\n"
+"PO-Revision-Date: 2020-01-25 00:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ths/"
 "pl/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "X-POOTLE-MTIME: 1419174967.506886\n"
 
 #: ../../THS.rst:5
@@ -2429,7 +2429,7 @@ msgstr ""
 # f22cbe6cda504a7585eb6cf5556e74ef
 #: ../../THS.rst:641
 msgid "Deathbellow Raider attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej turze, jeśli może."
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 # 80a28c1e1e3e4d8291f8758080ebd848
 # d25c5a5f52134951990c64fc01dc2778

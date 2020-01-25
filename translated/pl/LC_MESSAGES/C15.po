@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-25 00:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c15/"
 "pl/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../C15.rst:5
@@ -1991,6 +1991,9 @@ msgid ""
 "battlefield under your control, creatures your opponents control get -1/-1 "
 "until end of turn."
 msgstr ""
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, stwory pod władaniem twoich przeciwników dostają do końca tury -1/"
+"-1."
 
 #: ../../C15.rst:698
 msgid ""
@@ -2006,6 +2009,10 @@ msgid ""
 "end of turn. (It can't be blocked except by artifact creatures and/or "
 "creatures that share a color with it.)"
 msgstr ""
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, wskazany stwór zyskuje zastraszanie do końca tury. (Nie może być "
+"blokowany, chyba że przez stwory artefaktyczne lub współdzielące z nim "
+"kolor.)"
 
 #: ../../C15.rst:706
 msgid ""
@@ -2303,6 +2310,10 @@ msgid ""
 "planeswalker you control. (A creature with intimidate can't be blocked "
 "except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma zastraszanie i nie może atakować ciebie "
+"ani wędrowca pod twoim władaniem. (Stwór z zastraszaniem nie może być "
+"blokowany, chyba że przez stwory artefaktyczne lub współdzielące z nim "
+"kolor.)"
 
 #: ../../C15.rst:802
 msgid ""
@@ -3903,10 +3914,12 @@ msgid ""
 "Constellation — Whenever Underworld Coinsmith or another enchantment enters "
 "the battlefield under your control, you gain 1 life."
 msgstr ""
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
+"władaniem, zyskaj 1 życie."
 
 #: ../../C15.rst:1325
 msgid "|mana_w|\\ |mana_b|, Pay 1 life: Each opponent loses 1 life."
-msgstr ""
+msgstr "|mana_w|\\ |mana_b|, zapłać 1 życie: Każdy przeciwnik traci po 1 życiu."
 
 #: ../../C15.rst:1332
 msgid ""

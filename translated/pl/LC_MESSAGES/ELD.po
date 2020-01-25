@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: 2020-01-23 11:48+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../ELD.rst:5
 #, fuzzy
@@ -1896,7 +1896,7 @@ msgstr "Ten stwór wchodzi na pole walki mając cztery znaczniki +1/+1."
 
 #: ../../ELD.rst:617
 msgid "Oathsworn Knight attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej turze, jeśli może."
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../ELD.rst:619
 msgid ""

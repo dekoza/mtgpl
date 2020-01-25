@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:49+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bfz/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../BFZ.rst:5
 msgid ":mtgexp:`BFZ` Battle for Zendikar"
@@ -1979,7 +1979,7 @@ msgstr "Latanie, pośpiech"
 
 #: ../../BFZ.rst:775
 msgid "Akoum Firebird attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../BFZ.rst:777
 msgid ""
@@ -2173,6 +2173,8 @@ msgstr ""
 msgid ""
 "Reckless Cohort attacks each combat if able unless you control another Ally."
 msgstr ""
+"Ten stwór atakuje w każdej walce, jeśli może, chyba że władasz innym "
+"Sojusznikiem."
 
 #: ../../BFZ.rst:850
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-25 00:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/9ed/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../9ED.rst:5
@@ -2348,6 +2348,8 @@ msgid ""
 "If a source would deal damage to a permanent or player, it deals double that "
 "damage to that permanent or player instead."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać obrażenia permanentowi lub graczowi, "
+"zamiast tego zadaje w ów cel dwukrotność tych obrażeń."
 
 #: ../../9ED.rst:882
 msgid ""
@@ -2369,7 +2371,7 @@ msgstr ""
 
 #: ../../9ED.rst:885
 msgid "Goblin Brigand attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../9ED.rst:890
 msgid ""

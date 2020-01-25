@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:49+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/cns/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../CNS.rst:5
@@ -976,7 +976,7 @@ msgstr ""
 
 #: ../../CNS.rst:335
 msgid "Cogwork Tracker attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../CNS.rst:337
 msgid ""
@@ -2336,7 +2336,7 @@ msgstr ""
 
 #: ../../CNS.rst:847
 msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej walce, jeśli może."
 
 #: ../../CNS.rst:854
 msgid ""
@@ -2974,15 +2974,15 @@ msgstr ""
 
 #: ../../CNS.rst:1073
 msgid "Galvanic Juggernaut attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../CNS.rst:1075
 msgid "Galvanic Juggernaut doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../CNS.rst:1077
 msgid "Whenever another creature dies, untap Galvanic Juggernaut."
-msgstr ""
+msgstr "Ilekroć inny stwór umrze, odkręć niniejszego stwora."
 
 #: ../../CNS.rst:1082
 msgid ""

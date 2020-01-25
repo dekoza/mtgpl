@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-18 21:16+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/tbd/"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/thb/"
 "pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../TBD.rst:5
 #, fuzzy
@@ -1539,7 +1539,7 @@ msgid ""
 "control, Triton Waverider gains flying until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, ten "
-"stwór dostaje do końca tury latanie."
+"stwór zyskuje latanie do końca tury."
 
 #: ../../TBD.rst:462
 msgid ""
@@ -3057,7 +3057,7 @@ msgstr ""
 
 #: ../../TBD.rst:969
 msgid "Underworld Rage-Hound attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce jeśli może."
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../TBD.rst:971
 msgid ""

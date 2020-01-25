@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bbd/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../BBD.rst:5
@@ -2606,7 +2606,7 @@ msgstr ""
 
 #: ../../BBD.rst:941
 msgid "Ember Beast can't attack or block alone."
-msgstr "Ten stwór nie może atakować ani blokować sam."
+msgstr "Ten stwór nie może atakować ani blokować samotnie."
 
 #: ../../BBD.rst:946
 msgid ""
@@ -3336,7 +3336,7 @@ msgstr ""
 
 #: ../../BBD.rst:1207
 msgid "Urborg Drake attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../BBD.rst:1214
 msgid ""
@@ -3416,11 +3416,11 @@ msgstr ""
 
 #: ../../BBD.rst:1239
 msgid "Juggernaut attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../BBD.rst:1241
 msgid "Juggernaut can't be blocked by Walls."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez Ściany."
 
 #: ../../BBD.rst:1246
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 18:54+0000\n"
+"PO-Revision-Date: 2020-01-25 00:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/frf/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "X-POOTLE-MTIME: 1421483309.161061\n"
 
 # 7345517278b443309b0fc8a176170ddf
@@ -1934,7 +1934,7 @@ msgstr "Latanie, pośpiech"
 # 27bb3a9f4ad5436ab30a1c42f6fd8589
 #: ../../FRF.rst:559
 msgid "Flamewake Phoenix attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej turze, jeśli może."
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 # 7c13460b3dbb4b7e940b8cf3f2137460
 #: ../../FRF.rst:561

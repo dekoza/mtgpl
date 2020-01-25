@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-01-25 00:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/3ed/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../3ED.rst:5
@@ -3428,11 +3428,11 @@ msgstr ""
 
 #: ../../3ED.rst:1267
 msgid "Juggernaut attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../3ED.rst:1269
 msgid "Juggernaut can't be blocked by Walls."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez Ściany."
 
 #: ../../3ED.rst:1274
 msgid ""

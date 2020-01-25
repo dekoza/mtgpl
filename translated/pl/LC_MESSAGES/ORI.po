@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../ORI.rst:5
 msgid ":mtgexp:`ORI` Magic Origins"
@@ -1182,6 +1182,8 @@ msgid ""
 "|tap|: Scry 1. (Look at the top card of your library. You may put that card "
 "on the bottom of your library.)"
 msgstr ""
+"|tap|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
+"umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../ORI.rst:424
 msgid ""
@@ -1989,6 +1991,7 @@ msgid ""
 "Target player discards a number of cards equal to the sacrificed creature's "
 "power."
 msgstr ""
+"Wskazany gracz odrzuca tyle kart, ile wynosiła siła poświęconego stwora."
 
 #: ../../ORI.rst:690
 msgid ""
@@ -2436,6 +2439,8 @@ msgstr ""
 msgid ""
 "Enchanted creature gets +2/+1, has haste, and attacks each combat if able."
 msgstr ""
+"Zauroczony stwór dostaje +2/+1, ma pośpiech i atakuje w każdej walce, jeśli "
+"może."
 
 #: ../../ORI.rst:851
 msgid ""
@@ -2466,7 +2471,7 @@ msgstr ""
 
 #: ../../ORI.rst:861
 msgid "Mage-Ring Bully attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../ORI.rst:868
 msgid ""
@@ -3654,7 +3659,7 @@ msgstr ""
 
 #: ../../ORI.rst:1287
 msgid "Ramroller attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../ORI.rst:1289
 msgid "Ramroller gets +2/+0 as long as you control another artifact."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:48+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ktk/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "X-POOTLE-MTIME: 1421404675.490232\n"
 
 # 3162ee2691fd4c0fb41c4569970ffac7
@@ -2168,7 +2168,7 @@ msgstr ""
 
 #: ../../KTK.rst:673
 msgid "Valley Dasher attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../KTK.rst:680
 msgid ""
@@ -3772,12 +3772,12 @@ msgstr ""
 # fe20f80658754030b9442b24fed24093
 #: ../../KTK.rst:1169
 msgid "Zurgo Helmsmasher attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 # 7dd530c6b55e46b689ed18b61edaf728
 #: ../../KTK.rst:1171
 msgid "Zurgo Helmsmasher has indestructible as long as it's your turn."
-msgstr ""
+msgstr "Ten stwór ma niezniszczalność, o ile jest twoja tura."
 
 # 0ab330f620184cec87bc920f3b690e04
 #: ../../KTK.rst:1173

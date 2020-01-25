@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:49+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dka/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../DKA.rst:5
 msgid ":mtgexp:`DKA` Dark Ascension"
@@ -2585,6 +2585,9 @@ msgid ""
 "Flying, intimidate, trample (A creature with intimidate can't be blocked "
 "except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
+"Latanie, zastraszanie, tratowanie (Stwór z zastraszaniem nie może być "
+"blokowany, chyba że przez stwory artefaktyczne lub współdzielące z nim "
+"kolor.)"
 
 # 81e6f9853ee043fca7ac05f62ed684e7
 #: ../../DKA.rst:881
@@ -2592,6 +2595,8 @@ msgid ""
 "Whenever a player loses the game, put thirteen +1/+1 counters on Withengar "
 "Unbound."
 msgstr ""
+"Ilekroć gracz przegrywa grę, umieść trzynaście znaczników +1/+1 na tym "
+"stworze."
 
 #: ../../DKA.rst:888
 msgid ""
@@ -2606,6 +2611,8 @@ msgid ""
 "Equipped creature has intimidate. (This creature can't be blocked except by "
 "artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
+"Wyposażony stwór ma zastraszanie. (Nie może być blokowany, chyba że przez "
+"stwory artefaktyczne lub współdzielące z nim kolor.)"
 
 # 838c38c732a64452842f489edf45e0a8
 # 5183c05c25e44a9db7f9ba225074158b

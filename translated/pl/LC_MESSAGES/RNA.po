@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 11:48+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rna/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../RNA.rst:5
 #, fuzzy
@@ -73,8 +73,8 @@ msgid ""
 "Whenever a creature you control attacks alone, it gets +X/+X until end of "
 "turn, where X is the number of creatures you control."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem atakuje sam, dostaje do końca tury +X/+X , "
-"gdzie X jest liczbą stworów pod twoim władaniem."
+"Ilekroć stwór pod twoim władaniem atakuje samotnie, dostaje do końca tury +X/"
+"+X , gdzie X jest liczbą stworów pod twoim władaniem."
 
 #: ../../RNA.rst:26
 msgid ""

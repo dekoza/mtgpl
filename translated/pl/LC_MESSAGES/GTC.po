@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-25 00:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gtc/"
 "pl/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "X-POOTLE-MTIME: 1385404109.643633\n"
 
 #: ../../GTC.rst:5
@@ -1480,7 +1480,7 @@ msgstr ""
 # 11b0d3196674490da2d0409c0ea206da
 #: ../../GTC.rst:465
 msgid "Ember Beast can't attack or block alone."
-msgstr "Ten stwór nie może atakować ani blokować sam."
+msgstr "Ten stwór nie może atakować ani blokować samotnie."
 
 #: ../../GTC.rst:470
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-01-25 00:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/isd/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "X-POOTLE-MTIME: 1391159808.806397\n"
 
 #: ../../ISD.rst:5
@@ -2199,7 +2199,7 @@ msgstr ""
 
 #: ../../ISD.rst:721
 msgid "Bloodcrazed Neonate attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 # a00061db7557406cb95107eb5cedabcd
 #: ../../ISD.rst:723
@@ -2384,9 +2384,8 @@ msgstr ""
 
 # 24616a928d61421ea3ee260c599ea1df
 #: ../../ISD.rst:791
-#, fuzzy
 msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
-msgstr "Zauroczony stwór dostaje -2/-2."
+msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej walce, jeśli może."
 
 #: ../../ISD.rst:798
 msgid ""
@@ -2431,7 +2430,7 @@ msgstr ""
 
 #: ../../ISD.rst:807
 msgid "Bane of Hanweir attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 # 42ed983796f74e61a67413be64b763f9
 #: ../../ISD.rst:809
@@ -3837,17 +3836,17 @@ msgstr ""
 
 #: ../../ISD.rst:1269
 msgid "Galvanic Juggernaut attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 # b92452927edc483baab48a7e05673c87
 #: ../../ISD.rst:1271
 msgid "Galvanic Juggernaut doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 # e96336c37fd7481380ef5763068866f6
 #: ../../ISD.rst:1273
 msgid "Whenever another creature dies, untap Galvanic Juggernaut."
-msgstr ""
+msgstr "Ilekroć inny stwór umrze, odkręć niniejszego stwora."
 
 #: ../../ISD.rst:1278
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-01-25 00:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/avr/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AVR.rst:5
@@ -1741,6 +1741,9 @@ msgid ""
 "other creatures. (It can't be blocked except by artifact creatures and/or "
 "creatures that share a color with it.)"
 msgstr ""
+"Zauroczony stwór ma zastraszanie o ile jego władca nie włada innymi "
+"stworami. (Nie może być blokowany, chyba że przez stwory artefaktyczne lub "
+"współdzielące z nim kolor.)"
 
 #: ../../AVR.rst:604
 msgid ""
@@ -2017,7 +2020,7 @@ msgstr ""
 
 #: ../../AVR.rst:701
 msgid "Enchanted creature gets +1/-1 and attacks each combat if able."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i atakuje w każdej walce, jeśli może."
 
 #: ../../AVR.rst:708
 msgid ""
@@ -3235,7 +3238,7 @@ msgstr ""
 
 #: ../../AVR.rst:1139
 msgid "Equipped creature gets +3/+0 and attacks each combat if able."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+0 i atakuje w każdej walce, jeśli może."
 
 #: ../../AVR.rst:1141
 msgid "Equip |mana_3|"
