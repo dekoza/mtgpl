@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 00:28+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/frf/"
 "pl/>\n"
@@ -266,8 +266,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
-"do końca tury.)"
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
+"końca tury +1/+1.)"
 
 #: ../../FRF.rst:70
 msgid ""
@@ -3204,12 +3204,12 @@ msgstr ""
 # aa2436488451450cb2473b755ee13dc4
 #: ../../FRF.rst:917
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 584bee6d1d0d49c2b7649bba8f8416ad
 #: ../../FRF.rst:919
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # da5d7af39b4d4e1e93c10f01d7d47fdb
 #: ../../FRF.rst:921
@@ -3226,12 +3226,12 @@ msgstr ""
 # a759aa48a5f646d980f71dde46eb8ef5
 #: ../../FRF.rst:925
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # e8c2e9e3435d43a281c76d0639755643
 #: ../../FRF.rst:927
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:929
@@ -3277,12 +3277,12 @@ msgstr ""
 # f121f42d4c204cd9a5997b382073e958
 #: ../../FRF.rst:941
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 8dba136075de4fe3980f88e244be9be2
 #: ../../FRF.rst:943
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 4daf11d211054d209a644c0c4a1dd665
 #: ../../FRF.rst:945
@@ -3299,12 +3299,12 @@ msgstr ""
 # 63ab3785d9e34dffb1e258eda492b95b
 #: ../../FRF.rst:949
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 1d16d7b3084347979e4a7487f5d6c97a
 #: ../../FRF.rst:951
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 298af8ad32384d06997041fe369a02ff
 #: ../../FRF.rst:953
@@ -3321,12 +3321,12 @@ msgstr ""
 # 588a23b51cca469fbe766ac552134795
 #: ../../FRF.rst:957
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # d9b82f48e7584558867a6e8381afde32
 #: ../../FRF.rst:959
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # f079dfdf9aad4305a2137b7f25636a16
 #: ../../FRF.rst:961
@@ -3343,12 +3343,12 @@ msgstr ""
 # ea4db5af406f4b779f9d1803b6cb88cc
 #: ../../FRF.rst:965
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 3dd74a44cca44190b11b59a089bbc427
 #: ../../FRF.rst:967
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 29c9db40b05f4a00af9937d91ca0bf84
 #: ../../FRF.rst:969
@@ -3365,12 +3365,12 @@ msgstr ""
 # 0436a7d4993a48d8b46d22cfe38f503b
 #: ../../FRF.rst:973
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 8259dcf56cc74dfba803390479b1252f
 #: ../../FRF.rst:975
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 1920a00e207543fa8f7d3c20dee7f113
 #: ../../FRF.rst:977
@@ -3387,7 +3387,7 @@ msgstr ""
 # 16c4194aff5e40b5a07fa776064c5921
 #: ../../FRF.rst:981
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 57dc8898743346868fa6b65f9a75e68c
 #: ../../FRF.rst:983
@@ -3409,12 +3409,12 @@ msgstr ""
 # 8c8ec4d55a0343e199660c57ee40f2f6
 #: ../../FRF.rst:989
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 6c32109ad01f4ac8a66ecf0785d84077
 #: ../../FRF.rst:991
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 68e08fa3841d42d2a339a5c7d9d710fd
 #: ../../FRF.rst:993
@@ -3431,7 +3431,7 @@ msgstr ""
 # 4be05d8ff8984f3d84e9f3f890007afb
 #: ../../FRF.rst:997
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 679607247ece46babc5be820e5b837e4
 #: ../../FRF.rst:999

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 00:29+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ktk/"
 "pl/>\n"
@@ -47,8 +47,7 @@ msgstr ""
 # add4a00cf32d43ff88df4086a74a2b93
 #: ../../KTK.rst:11
 msgid "Each creature you control with a +1/+1 counter on it has lifelink."
-msgstr ""
-"Każdy stwór pod twoim władaniem posiadający znacznik +1/+1 ma więź życia."
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma więź życia."
 
 #: ../../KTK.rst:18
 msgid ""
@@ -83,7 +82,7 @@ msgstr ""
 #: ../../KTK.rst:23
 msgid "Each creature you control with a +1/+1 counter on it has first strike."
 msgstr ""
-"Każdy stwór pod twoim władaniem posiadający znacznik +1/+1 ma Pierwszy Cios."
+"Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma pierwszy cios."
 
 #: ../../KTK.rst:28
 msgid ""
@@ -145,7 +144,7 @@ msgstr ""
 # 3a750d8e06fc4318bad237b70d90f123
 #: ../../KTK.rst:43
 msgid "Target creature gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje +1/+0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +1/+0."
 
 # 2a97daff3a5a42cbaf7d5749af1d504c
 # 651152fec0ed4555ab53b2ae6d60b6bb
@@ -187,7 +186,6 @@ msgstr ""
 
 # 390ae7e14aea49e69115d8c58d71b24a
 #: ../../KTK.rst:57
-#, fuzzy
 msgid ""
 "Put a +1/+1 counter on target creature you control. It gains protection from "
 "the color of your choice until end of turn."
@@ -204,13 +202,11 @@ msgstr ""
 
 # 67b438af936240878eb587d760ee9546
 #: ../../KTK.rst:61
-#, fuzzy
 msgid ""
 "|mana_3|\\ |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end "
 "of turn."
 msgstr ""
-"|mana_3|\\ |mana_r|: Firehoof Cavalry dostaje do końca tury +2/+0 oraz "
-"Tratowanie."
+"|mana_3|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0 oraz tratowanie."
 
 #: ../../KTK.rst:68
 msgid ""
@@ -221,7 +217,6 @@ msgstr ""
 
 # 153df11f983e41c7800cac7425ba556e
 #: ../../KTK.rst:65
-#, fuzzy
 msgid ""
 "Outlast |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, |tap|: Put a +1/+1 counter "
 "on this creature. Outlast only as a sorcery.)"
@@ -231,13 +226,12 @@ msgstr ""
 
 # c850e03b06d240f19c7aa1795876a66e
 #: ../../KTK.rst:67
-#, fuzzy
 msgid ""
 "Whenever you activate Herald of Anafenza's outlast ability, create a 1/1 "
 "white Warrior creature token."
 msgstr ""
-"Ilekroć aktywujesz zdolność wytrzymania u Herolda Anafenzy, stwórz biały "
-"żeton stwora Wojownik 1/1."
+"Ilekroć aktywujesz zdolność przetrwania tego stwora, stwórz żeton białego "
+"stwora Wojownik 1/1."
 
 #: ../../KTK.rst:76
 msgid ""
@@ -278,12 +272,11 @@ msgid ""
 "High Sentinels of Arashin gets +1/+1 for each other creature you control "
 "with a +1/+1 counter on it."
 msgstr ""
-"Wysocy Wartownicy z Araszin dostaje +1/+1 za każdego innego stwora pod twoim "
-"władaniem mającego znacznik +1/+1."
+"Ten stwór dostaje +1/+1 za każdego innego stwora pod twoim władaniem "
+"mającego znacznik +1/+1."
 
 # 550061396de04d358aa59c3e41cfdd3d
 #: ../../KTK.rst:75
-#, fuzzy
 msgid "|mana_3|\\ |mana_w|: Put a +1/+1 counter on target creature."
 msgstr "|mana_3|\\ |mana_w|: Umieść znacznik +1/+1 na wskazanym stworze."
 
@@ -311,8 +304,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
-"do końca tury.)"
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
+"końca tury +1/+1.)"
 
 #: ../../KTK.rst:84
 msgid ""
@@ -339,8 +332,8 @@ msgid ""
 "|mana_b|: Mardu Hateblade gains deathtouch until end of turn. (Any amount of "
 "damage it deals to a creature is enough to destroy it.)"
 msgstr ""
-"|mana_b|: Ten stwór  zyskuje dotyk śmierci do końca tury. (Dowolna ilość "
-"obrażeń zadana stworowi przez tę kartę wystarcza, aby został zniszczony.)"
+"|mana_b|: Ten stwór zyskuje dotyk śmierci do końca tury. (Dowolna liczba "
+"obrażeń zadana stworowi przez tego stwora wystarcza, aby go zniszczyć.)"
 
 #: ../../KTK.rst:92
 msgid ""
@@ -355,7 +348,7 @@ msgid ""
 "Raid — When Mardu Hordechief enters the battlefield, if you attacked with a "
 "creature this turn, create a 1/1 white Warrior creature token."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
 "tej turze, stwórz żeton białego stwora Wojownik 1/1."
 
 #: ../../KTK.rst:98
@@ -380,8 +373,8 @@ msgid ""
 "When Master of Pearls is turned face up, creatures you control get +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy Mistrz Pereł jest odwracany frontem w górę, stwory, którymi władasz "
-"dostają do końca tury +2/+2."
+"Kiedy ten stwór zostanie odkryty, stwory pod twoim władaniem dostają do "
+"końca tury +2/+2."
 
 #: ../../KTK.rst:102
 msgid ""
@@ -397,9 +390,9 @@ msgid ""
 "control gain lifelink until end of turn. (Damage dealt by those Warriors "
 "also causes their controller to gain that much life.)"
 msgstr ""
-"Stwory pod twoim władaniem dostają +2/+1 do końca tury. Wojownicy pod twoim "
-"władaniem zyskują więź życia. (Obrażenia zadane przez owych Wojowników "
-"dodatkowo sprawiają, że ich władca zyskuje tyle samo życia.)"
+"Stwory pod twoim władaniem dostają do końca tury +2/+1. Wojownicy pod twoim "
+"władaniem zyskują więź życia do końca tury. (Obrażenia zadane przez owych "
+"Wojowników dodatkowo sprawiają, że ich władca zyska tyle samo życia.)"
 
 #: ../../KTK.rst:108
 msgid ""
@@ -437,7 +430,7 @@ msgid ""
 "Whenever you cast a noncreature spell, Seeker of the Way gains lifelink "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, ten stwór zyskuje więź życia do "
+"Ilekroć rzucisz czar nie będący stworem, ten stwór zyskuje więź życia do "
 "końca tury."
 
 #: ../../KTK.rst:124
@@ -472,7 +465,7 @@ msgstr ""
 # f54b191cbb2140b9946eaf7a72840fa0
 #: ../../KTK.rst:127
 msgid "Destroy target creature with power 4 or greater."
-msgstr "Zniszcz wskazanego stwora z siłą 4 lub większą."
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../KTK.rst:132
 msgid ""
@@ -488,7 +481,7 @@ msgid ""
 "with toughness 3 or greater until Suspension Field leaves the battlefield. "
 "(That creature returns under its owner's control.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz wygnać wskazanego stwora o "
+"Kiedy ten urok wejdzie na pole walki, możesz wygnać wskazanego stwora o "
 "wytrzymałości 3 lub większej dopóki ta karta nie opuści pola walki. (Ów "
 "stwór wraca pod władanie swojego właściciela.)"
 
@@ -517,8 +510,8 @@ msgid ""
 "creature this turn, return target creature card with converted mana cost 2 "
 "or less from your graveyard to the battlefield."
 msgstr ""
-"Najazd — Kiedy ta karta wyjdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, przywróć wskazaną kartę stwora o uproszczonym koszcie many 2 lub "
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub "
 "mniejszym z twojego cmentarza na pole walki."
 
 #: ../../KTK.rst:144
@@ -563,7 +556,7 @@ msgstr ""
 # 5a2f6b9d4a354c5089eb5bfd5bca466f
 #: ../../KTK.rst:155
 msgid "When Watcher of the Roost is turned face up, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, zyskaj 2 życia."
 
 #: ../../KTK.rst:164
 msgid ""
@@ -578,7 +571,7 @@ msgid ""
 "Raid — When Wingmate Roc enters the battlefield, if you attacked with a "
 "creature this turn, create a 3/4 white Bird creature token with flying."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
 "tej turze, stwórz żeton białego stwora Ptak 3/4 z lataniem."
 
 # 7b9bd28ac8f040179077c1c14b068a1d
@@ -586,8 +579,7 @@ msgstr ""
 msgid ""
 "Whenever Wingmate Roc attacks, you gain 1 life for each attacking creature."
 msgstr ""
-"Ilekroć ten stwór atakuje, zyskujesz po 1 życiu za każdego atakującego "
-"stwora."
+"Ilekroć ten stwór atakuje, zyskaj po 1 życiu za każdego atakującego stwora."
 
 #: ../../KTK.rst:170
 msgid ""
@@ -599,7 +591,7 @@ msgstr ""
 # 6939a4154d6f407e999b0639be675247
 #: ../../KTK.rst:167
 msgid "Creatures your opponents control get -4/-0 until end of turn."
-msgstr "Stwory władane przez twoich przeciwników dostają -4/-0 do końca tury."
+msgstr "Stwory pod władaniem twoich przeciwników dostają do końca tury -4/-0."
 
 #: ../../KTK.rst:174
 msgid ""
@@ -626,8 +618,8 @@ msgid ""
 "You may have Clever Impersonator enter the battlefield as a copy of any "
 "nonland permanent on the battlefield."
 msgstr ""
-"Możesz sprawić, że Clever Impersonator wejdzie na pole walki jako kopia "
-"dowolnego nielądowego permanentu będącego na polu walki."
+"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia dowolnego "
+"nielądowego permanentu będącego na polu walki."
 
 #: ../../KTK.rst:184
 msgid ""
@@ -680,7 +672,7 @@ msgid ""
 "and the rest on the bottom of your library in any order."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść dwie z nich w "
-"twojej ręce, a pozostałe w dowolnej kolejności na spodzie twojej biblioteki."
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../KTK.rst:194
 msgid ""
@@ -707,14 +699,16 @@ msgid ""
 "Morph—Reveal a blue card in your hand. (You may cast this card face down as "
 "a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana—Ujawnij niebieską kartę z ręki. (Możesz rzucić tę kartę zakrytą za "
-"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+"Przemiana—Ujawnij niebieską kartę z twojej ręki. (Możesz rzucić tę kartę "
+"zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"przemiany.)"
 
 # ab2641785ce44035840913a9853ad26a
 #: ../../KTK.rst:199
 msgid ""
 "When Dragon's Eye Savants is turned face up, look at target opponent's hand."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, spójrz na rękę wskazanego przeciwnika."
 
 #: ../../KTK.rst:204
 msgid ""
@@ -725,14 +719,13 @@ msgstr ""
 
 # 03b0386b043b49dca02019b54a1870a9
 #: ../../KTK.rst:203
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your "
 "library for a basic land card, put it onto the battlefield tapped, then "
 "shuffle your library."
 msgstr ""
-"|mana_1|\\ |mana_g|, |tap|, poświęć Ucieleśnienie Wiosny: Poszukaj w twojej "
-"bibliotece karty bazowego lądu, umieść ją przekręconą na polu walki, "
+"|mana_1|\\ |mana_g|, |tap|, poświęć tego stwora: Wyszukaj w twojej "
+"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu walki, "
 "następnie przetasuj twoją bibliotekę."
 
 #: ../../KTK.rst:210
@@ -791,7 +784,7 @@ msgid ""
 "creatures don't untap during their controllers' next untap steps."
 msgstr ""
 "Zaciekłość — Jeśli władasz stworem o sile 4 lub większej, owe stwory nie "
-"odznaczą się podczas najbliższych kroków odkręcania ich władców."
+"odkręcą się podczas najbliższych kroków odkręcania swoich władców."
 
 #: ../../KTK.rst:226
 msgid ""
@@ -806,8 +799,8 @@ msgid ""
 "Whenever Jeskai Elder deals combat damage to a player, you may draw a card. "
 "If you do, discard a card."
 msgstr ""
-"Ilekroć Jeskai Elder zadaje graczowi obrażenia bitewne, możesz dobrać kartę. "
-"Jeśli tak zrobisz, odrzuć kartę."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 #: ../../KTK.rst:232
 msgid ""
@@ -840,6 +833,10 @@ msgid ""
 "graveyard. You may cast that card without paying its mana cost for as long "
 "as it remains exiled."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, skontruj wskazany czar. Jeśli ów czar "
+"zostanie skontrowany w ten sposób, wygnaj go zamiast umieszczać go w "
+"cmentarzu właściciela. Możesz rzucić ową kartę bez płacenia jej kosztu manu "
+"tak długo, jak pozostaje wygnana."
 
 #: ../../KTK.rst:246
 msgid ""
@@ -864,6 +861,8 @@ msgid ""
 "When Mistfire Weaver is turned face up, target creature you control gains "
 "hexproof until end of turn."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, wskazany stwór pod twoim władaniem zyskuje "
+"antyklątwę do końca tury."
 
 #: ../../KTK.rst:252
 msgid ""
@@ -922,8 +921,8 @@ msgid ""
 "Return three lands you control to their owner's hand: Return Pearl Lake "
 "Ancient to its owner's hand."
 msgstr ""
-"Zwróć trzy lądy, którymi władasz do ręki ich właściciela: Zwróć "
-"Przedwiecznego z Perłowego Jeziora do ręki jego właściciela."
+"Przywróć trzy lądy pod twoim władaniem do rąk właścicieli: Przywróć tego "
+"stwora do ręki właściciela."
 
 #: ../../KTK.rst:272
 msgid ""
@@ -939,7 +938,7 @@ msgid ""
 "target creature an opponent controls and it doesn't untap during its "
 "controller's next untap step."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, możesz zapłacić |mana_1|. Jeśli to "
+"Ilekroć rzucisz czar nie będący stworem, możesz zapłacić |mana_1|. Jeśli to "
 "zrobisz, przekręć wskazanego stwora pod władaniem przeciwnika i nie odkręci "
 "się on w najbliższym kroku odkręcania swojego władcy."
 
@@ -958,12 +957,11 @@ msgid ""
 msgstr ""
 
 #: ../../KTK.rst:283
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice Scaldkin: It deals 2 damage to any target."
 msgstr ""
-"|mana_2|\\ |mana_r|, poświęć tego stwora: Zadaje on 2 obrażenia w dowolny "
-"cel."
+"|mana_2|\\ |mana_r|, poświęć tego stwora: Zadaje on wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../KTK.rst:288
 msgid ""
@@ -975,7 +973,7 @@ msgstr ""
 # b07a3d204b724b1ba39ab45bd61208dd
 #: ../../KTK.rst:287
 msgid "|mana_u|: Scion of Glaciers gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje +1/-1 do końca tury."
+msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../KTK.rst:294
 msgid ""
@@ -1009,9 +1007,8 @@ msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy.
 
 # ce5dc70be7d0465caee993d2c048a7b8
 #: ../../KTK.rst:303
-#, fuzzy
 msgid "Enchanted creature has \"|mana_6|: Untap this creature.\""
-msgstr "Zauroczony stwór dostaje +2/+0 i ma Pierwszy Cios."
+msgstr "Zauroczony stwór ma \"|mana_6|: Odkręć tego stwora.\""
 
 #: ../../KTK.rst:310
 msgid ""
@@ -1024,6 +1021,8 @@ msgstr ""
 #: ../../KTK.rst:307
 msgid "Counter target noncreature spell unless its controller pays |mana_1|."
 msgstr ""
+"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci "
+"|mana_1|."
 
 # e236873213fb4f589af962e136258c66
 #: ../../KTK.rst:309
@@ -1047,6 +1046,9 @@ msgid ""
 "Look at the top five cards of your library. Put any number of them into your "
 "graveyard and the rest back on top of your library in any order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść dowolne z nich w "
+"twoim cmentarzu, a pozostałe z powrotem na wierzchu twojej biblioteki w "
+"dowolnej kolejności."
 
 #: ../../KTK.rst:322
 msgid ""
@@ -1070,6 +1072,8 @@ msgid ""
 "When Thousand Winds is turned face up, return all other tapped creatures to "
 "their owners' hands."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, przywróć wszystkie inne przekręcony stwory "
+"do rąk ich właścicieli."
 
 #: ../../KTK.rst:328
 msgid ""
@@ -1144,8 +1148,8 @@ msgid ""
 "Raid — When Bellowing Saddlebrute enters the battlefield, you lose 4 life "
 "unless you attacked with a creature this turn."
 msgstr ""
-"Najazd — Kiedy Bellowing Sabblebrute wchodzi na pole walki, tracisz 4 życia, "
-"chyba że zaatakowałeś stworem w tej turze."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, strać 4 życia, chyba że "
+"zaatakowałeś stworem w tej turze."
 
 #: ../../KTK.rst:354
 msgid ""
@@ -1160,8 +1164,8 @@ msgid ""
 "Look at the top four cards of your library. Put two of them into your hand "
 "and the rest into your graveyard. You lose 2 life."
 msgstr ""
-"Spójrz na cztery wierzchnie karty twojej biblioteki. Włóż dwie z nich do "
-"twojej ręki a pozostałe do twojego cmentarza. Tracisz 2 życia."
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść dwie z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu. Strać 2 życia."
 
 #: ../../KTK.rst:360
 msgid ""
@@ -1173,18 +1177,18 @@ msgstr ""
 # b32bb889060343f6851e0484d2431bc8
 #: ../../KTK.rst:357
 msgid "Bloodsoaked Champion can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:359
-#, fuzzy
 msgid ""
 "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your graveyard "
 "to the battlefield. Activate this ability only if you attacked with a "
 "creature this turn."
 msgstr ""
-"Najazd — Kiedy Bellowing Sabblebrute wchodzi na pole walki, tracisz 4 życia, "
-"chyba że zaatakowałeś stworem w tej turze."
+"Najazd — |mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole "
+"walki. Możesz aktywować tę zdolność tylko jeśli atakowałeś stworem w tej "
+"turze."
 
 #: ../../KTK.rst:366
 msgid ""
@@ -1219,13 +1223,12 @@ msgstr ""
 
 # 5f9e30a1aa514e26a168be950c61511e
 #: ../../KTK.rst:375
-#, fuzzy
 msgid ""
 "Target opponent reveals their hand. You choose a creature or planeswalker "
 "card from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Ty wybierasz z niej kartę stwora lub "
-"Wędrowca. Ów gracz odrzuca ową kartę."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę stwora lub "
+"wędrowca. Ów gracz odrzuca ową kartę."
 
 #: ../../KTK.rst:380
 msgid ""
@@ -1236,7 +1239,6 @@ msgstr ""
 
 # 24297d2add814507ab0d5c63c33c3d0f
 #: ../../KTK.rst:379
-#, fuzzy
 msgid ""
 "Outlast |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, |tap|: Put a +1/+1 counter "
 "on this creature. Outlast only as a sorcery.)"
@@ -1256,7 +1258,7 @@ msgstr ""
 msgid ""
 "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
-"Przywróć co najwyżej dwie wskazany karty stworów z twojego cmentarza do "
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
 "twojej ręki."
 
 #: ../../KTK.rst:390
@@ -1268,9 +1270,8 @@ msgstr ""
 
 # a511c36a0edc4a69ad4f17fb1ca6a5ca
 #: ../../KTK.rst:389
-#, fuzzy
 msgid "Create X tapped 2/2 black Zombie creature tokens."
-msgstr "Umieść na polu walki X żetonów czarnego stwora Zombi 2/2."
+msgstr "Stwórz X żetonów czarnego stwora Zombi 2/2."
 
 #: ../../KTK.rst:396
 msgid ""
@@ -1292,8 +1293,7 @@ msgstr ""
 #: ../../KTK.rst:395
 msgid "Whenever another nontoken creature you control dies, draw a card."
 msgstr ""
-"Ilekroć inny nie będący żetonem stwór pod twoim władaniem umrze, dobierz "
-"kartę."
+"Ilekroć inny nieżetonowy stwór pod twoim władaniem umrze, dobierz kartę."
 
 #: ../../KTK.rst:400
 msgid ""
@@ -1305,7 +1305,7 @@ msgstr ""
 # 45d8923e0e9641ae9df6300f1a1194c9
 #: ../../KTK.rst:399
 msgid "Flying, first strike, haste"
-msgstr "Latanie, Pierwszy Cios, Pośpiech"
+msgstr "Latanie, pierwszy cios, pośpiech"
 
 #: ../../KTK.rst:406
 msgid ""
@@ -1320,16 +1320,17 @@ msgid ""
 "Whenever a creature you control with toughness 4 or greater dies, each "
 "opponent loses 2 life and you gain 2 life."
 msgstr ""
+"Ilekroć stwór o sile 4 lub większej pod twoim władaniem umrze, każdy "
+"przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 # ac495d9f08f145c58b55303a207873d1
 #: ../../KTK.rst:405
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on "
 "Kheru Bloodsucker."
 msgstr ""
-"|mana_1|\\ |mana_g|, poświęć innego stwora: Zyskujesz życie równe "
-"wytrzymałości poświęconego stwora."
+"|mana_2|\\ |mana_b|, poświęć innego stwora: Umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../KTK.rst:412
 msgid ""
@@ -1340,13 +1341,12 @@ msgstr ""
 
 # ac495d9f08f145c58b55303a207873d1
 #: ../../KTK.rst:411
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice another creature: You gain life equal to the "
 "sacrificed creature's toughness."
 msgstr ""
-"|mana_1|\\ |mana_g|, poświęć innego stwora: Zyskujesz życie równe "
-"wytrzymałości poświęconego stwora."
+"|mana_1|\\ |mana_g|, poświęć innego stwora: Zyskaj tyle żyć, ile "
+"wytrzymałości miał poświęcony stwór."
 
 #: ../../KTK.rst:416
 msgid ""
@@ -1374,7 +1374,7 @@ msgstr ""
 # 120c484d919942958c1de1f41f8526b8
 #: ../../KTK.rst:419
 msgid "Mardu Skullhunter enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 # 25e04fa041fe4508ac3060ad494fb0bc
 #: ../../KTK.rst:421
@@ -1382,6 +1382,8 @@ msgid ""
 "Raid — When Mardu Skullhunter enters the battlefield, if you attacked with a "
 "creature this turn, target opponent discards a card."
 msgstr ""
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, wskazany przeciwnik odrzuca kartę."
 
 #: ../../KTK.rst:428
 msgid ""
@@ -1402,7 +1404,7 @@ msgstr ""
 # 9f8c978fd5fe40f696d894ca27301704
 #: ../../KTK.rst:427
 msgid "Each creature you control with a +1/+1 counter on it has deathtouch."
-msgstr ""
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma dotyk śmierci."
 
 #: ../../KTK.rst:434
 msgid ""
@@ -1413,11 +1415,12 @@ msgstr ""
 
 # ce5dc70be7d0465caee993d2c048a7b8
 #: ../../KTK.rst:433
-#, fuzzy
 msgid ""
 "Enchanted creature gets +2/+0 and has \"|mana_2|\\ |mana_b|: Regenerate this "
 "creature.\""
-msgstr "Zauroczony stwór dostaje +2/+0 i ma Pierwszy Cios."
+msgstr ""
+"Zauroczony stwór dostaje +2/+0 i ma \"|mana_2|\\ |mana_b|: Zregeneruj tego "
+"stwora.\""
 
 #: ../../KTK.rst:440
 msgid ""
@@ -1444,6 +1447,8 @@ msgid ""
 "|mana_x|, |tap|, Exile X cards from your graveyard: Target creature gets -X/-"
 "X until end of turn."
 msgstr ""
+"|mana_x|, |tap|, wygnaj X kart z twojego cmentarza: Wskazany stwór dostaje "
+"do końca tury -X/-X."
 
 #: ../../KTK.rst:454
 msgid ""
@@ -1463,6 +1468,8 @@ msgid ""
 "Whenever a Warrior you control deals combat damage to a player, you may pay "
 "1 life. If you do, draw a card."
 msgstr ""
+"Ilekroć Wojownik pod twoim władaniem zada graczowi obrażenia bojowe, możesz "
+"zapłacić 1 życie. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../KTK.rst:458
 msgid ""
@@ -1477,6 +1484,8 @@ msgid ""
 "Target opponent discards two cards. Put the top two cards of your library "
 "into your graveyard."
 msgstr ""
+"Wskazany przeciwnik odrzuca dwie karty. Umieść dwie wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../KTK.rst:462
 msgid ""
@@ -1491,6 +1500,8 @@ msgid ""
 "|mana_b|, Remove X +1/+1 counters from among creatures you control: Target "
 "creature gets -X/-X until end of turn."
 msgstr ""
+"|mana_b|, usuń X znaczników +1/+1 spośród stworów pod twoim władaniem: "
+"Wskazany stwór dostaje do końca tury -X/-X."
 
 #: ../../KTK.rst:466
 msgid ""
@@ -1501,13 +1512,12 @@ msgstr ""
 
 # 821255a4cf0e485fb2aaf282620099df
 #: ../../KTK.rst:465
-#, fuzzy
 msgid ""
 "Destroy target creature. If that creature had a +1/+1 counter on it, create "
 "a 1/1 green Snake creature token."
 msgstr ""
-"Bring Low zadaje 3 obrażenia wskazanemu stworowi. Jeśli ów stwór ma znacznik "
-"+1/+1, Bring Low zadaje mu zamiast tego 5 obrażeń."
+"Zniszcz wskazanego stwora. Jeśli ów stwór miał znacznik +1/+1, stwórz żeton "
+"zielonego stwora Wąż 1/1."
 
 #: ../../KTK.rst:468
 msgid ""
@@ -1535,13 +1545,14 @@ msgid ""
 "Morph—Reveal a black card in your hand. (You may cast this card face down as "
 "a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana—Ujawnij czarną kartę z ręki. (Możesz rzucić tę kartę zakrytą za |"
-"mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+"Przemiana—Ujawnij czarną kartę z twojej ręki. (Możesz rzucić tę kartę "
+"zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"przemiany.)"
 
 # 3362ea6e76d14480a9bee438a9670650
 #: ../../KTK.rst:477
 msgid "When Ruthless Ripper is turned face up, target player loses 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, wskazany gracz traci 2 życia."
 
 #: ../../KTK.rst:484
 msgid ""
@@ -1603,13 +1614,13 @@ msgstr ""
 #: ../../KTK.rst:501
 msgid ""
 "Swarm of Bloodflies enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
 
 # 4163f95892564deeb301459e3e574ed0
 #: ../../KTK.rst:503
 msgid ""
 "Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies."
-msgstr ""
+msgstr "Ilekroć inny stwór umrze, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../KTK.rst:508
 msgid ""
@@ -1632,10 +1643,9 @@ msgstr ""
 
 # 2a2b6dc0fd364ae090ea2ad52ac55392
 #: ../../KTK.rst:511
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_w|: Unyielding Krumar gains first strike until end of turn."
-msgstr "|mana_2|\\ |mana_w|: Skaczący Mistrz zyskuje Latanie do końca tury."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór zyskuje pierwszy cios do końca tury."
 
 #: ../../KTK.rst:516
 msgid ""
@@ -1684,13 +1694,12 @@ msgstr ""
 
 # 1ce9cca573e4475aa557ddfc68632bd9
 #: ../../KTK.rst:525
-#, fuzzy
 msgid ""
 "Arc Lightning deals 3 damage divided as you choose among one, two, or three "
 "targets."
 msgstr ""
-"Arc Lightning zadaje 3 obrażenia rozdzielone według twojego uznania pomiędzy "
-"jednego, dwa lub trzy wskazane stwory i/lub graczy."
+"Ten czar zadaje 3 obrażenia rozdzielone dowolnie pomiędzy jednego, dwa lub "
+"trzy wskazane cele."
 
 #: ../../KTK.rst:532
 msgid ""
@@ -1701,20 +1710,17 @@ msgstr ""
 
 # 2f301e952a0541dfa90eafa9c0656329
 #: ../../KTK.rst:529
-#, fuzzy
 msgid "Arrow Storm deals 4 damage to any target."
-msgstr "Burza Strzał zadaje 4 obrażenia wskazanemu stworowi lub graczowi."
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 # 53652075e14f4dbd86edb92ef08ca145
 #: ../../KTK.rst:531
-#, fuzzy
 msgid ""
 "Raid — If you attacked with a creature this turn, instead Arrow Storm deals "
 "5 damage to that permanent or player and the damage can't be prevented."
 msgstr ""
-"Najazd — Jeśli atakowałeś stworem w tej turze, zamiast tego Burza Strzał "
-"zadaje 5 obrażeń owemu stworowi lub graczowi i obrażenia te nie mogą być "
-"zażegnane."
+"Najazd — Jeśli atakowałeś stworem w tej turze, zamiast tego ten czar zadaje "
+"owemu celowi 5 obrażeń i owe obrażenia nie mogą być zażegnane."
 
 #: ../../KTK.rst:542
 msgid ""
@@ -1725,11 +1731,10 @@ msgstr ""
 
 # 22ce89b05a8945128f58c7587352d13d
 #: ../../KTK.rst:537
-#, fuzzy
 msgid ""
 "When Ashcloud Phoenix dies, return it to the battlefield face down under "
 "your control."
-msgstr "Kiedy Ashcloud Phenix umiera, zwróć go na pole walki frontem w dół."
+msgstr "Kiedy ten stwór umrze przywróć go zakrytego na pole walki."
 
 # 0ea71b998c754bd99d28b45961773b92
 #: ../../KTK.rst:539
@@ -1745,8 +1750,7 @@ msgstr ""
 msgid ""
 "When Ashcloud Phoenix is turned face up, it deals 2 damage to each player."
 msgstr ""
-"Kiedy Ashcloud Phoenix jest odwracany frontem w górę, zadaje 2 obrażenia "
-"każdemu graczowi."
+"Kiedy ten stwór zostanie odkryty, zadaje każdemu graczowi po 2 obrażenia."
 
 #: ../../KTK.rst:548
 msgid ""
@@ -1758,8 +1762,7 @@ msgstr ""
 # 064219b4062946539ad8aecc7fa48018
 #: ../../KTK.rst:545
 msgid "Barrage of Boulders deals 1 damage to each creature you don't control."
-msgstr ""
-"Barrage of Boulders zadaje 1 obrażenie każdemu stworowi, którym nie władasz."
+msgstr "Ten czar zadaje każdemu stworowi poza twoim władaniem po 1 obrażeniu."
 
 # 73dfafc363884a9d9f85e143aafee4f8
 #: ../../KTK.rst:547
@@ -1786,7 +1789,6 @@ msgstr ""
 
 # 02fa096c2b9d4218812049ae1b4afb88
 #: ../../KTK.rst:555
-#, fuzzy
 msgid "|mana_2|\\ |mana_u|, |tap|: Draw a card, then discard a card."
 msgstr "|mana_2|\\ |mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
@@ -1803,8 +1805,8 @@ msgid ""
 "Bring Low deals 3 damage to target creature. If that creature has a +1/+1 "
 "counter on it, Bring Low deals 5 damage to it instead."
 msgstr ""
-"Bring Low zadaje 3 obrażenia wskazanemu stworowi. Jeśli ów stwór ma znacznik "
-"+1/+1, Bring Low zadaje mu zamiast tego 5 obrażeń."
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia. Jeśli ów stwór ma znacznik +"
+"1/+1, zamiast tego ten czar zadaje mu 5 obrażeń."
 
 #: ../../KTK.rst:564
 msgid ""
@@ -1819,6 +1821,8 @@ msgid ""
 "Burn Away deals 6 damage to target creature. When that creature dies this "
 "turn, exile all cards from its controller's graveyard."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 6 obrażeń. Kiedy ten stwór umrze w tej "
+"turze, wygnaj wszystkie karty z cmentarza jego władcy."
 
 #: ../../KTK.rst:568
 msgid ""
@@ -1845,19 +1849,17 @@ msgstr ""
 
 # 0542514060d642eb805c5e9fc2edc566
 #: ../../KTK.rst:571
-#, fuzzy
 msgid "Crater's Claws deals X damage to any target."
-msgstr "Crater's Claws zadaje X obrażeń wskazanemu stworowi lub graczowi."
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 # 0aea2d83aa6f482c8e8383ab40fae2fb
 #: ../../KTK.rst:573
-#, fuzzy
 msgid ""
 "Ferocious — Crater's Claws deals X plus 2 damage to that permanent or player "
 "instead if you control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — Crater's Claws zadaje zamiast tego X plus 2 obrażeń wskazanemu "
-"stworowi lub graczowi jeśli władasz stworem o sile 4 lub większej."
+"Zaciekłość — Jeśli władasz stworem o sile 4 lub większej, zamiast tego ten "
+"czar zadaje owemu celowi X plus 2 obrażeń."
 
 #: ../../KTK.rst:582
 msgid ""
@@ -1906,7 +1908,7 @@ msgid ""
 "Whenever you cast a noncreature spell, you may pay |mana_1|. If you do, "
 "create a 1/1 red Goblin creature token with haste."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, możesz zapłacić |mana_1|. Jeśli tak "
+"Ilekroć rzucisz czar nie będący stworem, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, stwórz żeton czerwonego stwora Goblin 1/1 z pośpiechem."
 
 #: ../../KTK.rst:600
@@ -1927,8 +1929,8 @@ msgid ""
 "Morph—Reveal a red card in your hand. (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana — Ujawnij czerwoną kartę z ręki. (Możesz rzucić tę kartę zakrytą "
-"za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"Przemiana — Ujawnij czerwoną kartę z twojej ręki. (Możesz rzucić tę kartę "
+"zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
 "przemiany.)"
 
 # 967d127b1be64fa89c49792fc5c3dc4c
@@ -1936,8 +1938,8 @@ msgstr ""
 msgid ""
 "When Horde Ambusher is turned face up, target creature can't block this turn."
 msgstr ""
-"Kiedy Horde Ambusher jest odwracany frontem w górę, wskazany stwór nie może "
-"blokować w tej turze."
+"Kiedy ten stwór zostanie odkryty, wskazany stwór nie może blokować w tej "
+"turze."
 
 #: ../../KTK.rst:604
 msgid ""
@@ -1948,9 +1950,8 @@ msgstr ""
 
 # 3a9a0143009d4a94ae21dfb022c949c8
 #: ../../KTK.rst:603
-#, fuzzy
 msgid "Create three 1/1 red Goblin creature tokens."
-msgstr "Umieść na polu walki trzy żetony czerwonego stwora Gobiln 1/1."
+msgstr "Stwórz trzy żetony czerwonego stwora Gobiln 1/1."
 
 #: ../../KTK.rst:610
 msgid ""
@@ -1965,8 +1966,8 @@ msgid ""
 "When you cast your next instant or sorcery spell this turn, copy that spell. "
 "You may choose new targets for the copy."
 msgstr ""
-"Kiedy będziesz rzucać następny czar sztuczki lub obrzędu w tej turze, "
-"skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
+"Kiedy rzucisz następny czar sztuczki lub obrzędu w tej turze, skopiuj ów "
+"czar. Możesz wskazać nowe cele dla kopii."
 
 # ee2f6621c6ac491baa7cf8c2098e4fc7
 #: ../../KTK.rst:609
@@ -1975,9 +1976,9 @@ msgid ""
 "instant or sorcery spell this turn, copy that spell an additional time. You "
 "may choose new targets for the copy."
 msgstr ""
-"Najazd — Jeśli zaatakowałeś stworem w tej turze, kiedy będziesz rzucać "
-"następny czar sztuczki lub obrzędu w tej turze, skopiuj ów czar dodatkowy "
-"raz. Możesz wskazać nowe cele dla kopii."
+"Najazd — Jeśli zaatakowałeś stworem w tej turze, kiedy rzucisz następny czar "
+"sztuczki lub obrzędu w tej turze, skopiuj ów czar dodatkowy raz. Możesz "
+"wskazać nowe cele dla kopii."
 
 #: ../../KTK.rst:616
 msgid ""
@@ -2002,6 +2003,9 @@ msgid ""
 "of another target creature until end of turn. Untap that creature. It gains "
 "haste until end of turn."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, jeśli jest twoja tura, zyskaj do końca "
+"tury władanie nad innym wskazanym stworem. Odkręć owego stwora. Zyskuje on "
+"pośpiech do końca tury."
 
 #: ../../KTK.rst:620
 msgid ""
@@ -2012,9 +2016,8 @@ msgstr ""
 
 # 2a2b6dc0fd364ae090ea2ad52ac55392
 #: ../../KTK.rst:619
-#, fuzzy
 msgid "|mana_2|\\ |mana_w|: Leaping Master gains flying until end of turn."
-msgstr "|mana_2|\\ |mana_w|: Skaczący Mistrz zyskuje Latanie do końca tury."
+msgstr "|mana_2|\\ |mana_w|: Ten stwór zyskuje latanie do końca tury."
 
 #: ../../KTK.rst:624
 msgid ""
@@ -2027,7 +2030,7 @@ msgstr ""
 #: ../../KTK.rst:623
 msgid ""
 "When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat."
-msgstr ""
+msgstr "Kiedy ten stwór atakuje lub blokuje, poświęć go na koniec walki."
 
 #: ../../KTK.rst:628
 msgid ""
@@ -2042,6 +2045,8 @@ msgid ""
 "Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked with "
 "a creature this turn, Mardu Heart-Piercer deals 2 damage to any target."
 msgstr ""
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, niniejszy stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../KTK.rst:632
 msgid ""
@@ -2052,13 +2057,12 @@ msgstr ""
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:631
-#, fuzzy
 msgid ""
 "Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a "
 "creature this turn, add |mana_r|\\ |mana_w|\\ |mana_b|."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, stwórz żeton białego stwora Wojownik 1/1."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, weź |mana_r|\\ |mana_w|\\ |mana_b|."
 
 #: ../../KTK.rst:638
 msgid ""
@@ -2089,11 +2093,14 @@ msgid ""
 "red Dragon creature with flying, indestructible, and haste. (He doesn't lose "
 "loyalty while he's not a planeswalker.)"
 msgstr ""
+"+1: Do końca tury ten wędrowiec staje się legendarnym stworem Smok 4/4 z "
+"lataniem, niezniszczalnością i pośpiechem. (Nie traci lojalności, gdy nie "
+"jest wędrowcem.)"
 
 # fafa34db749848508d29d55a4e9d97f0
 #: ../../KTK.rst:643
 msgid "−3: Sarkhan, the Dragonspeaker deals 4 damage to target creature."
-msgstr ""
+msgstr "–3: Ten wędrowiec zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../KTK.rst:645
 msgid ""
@@ -2101,6 +2108,9 @@ msgid ""
 "additional cards\" and \"At the beginning of your end step, discard your "
 "hand.\""
 msgstr ""
+"–6: Dostajesz emblemat o treści \"Na początku twojego kroku dobierania, "
+"dobierze dwie dodatkowe karty\" oraz \"Na początku twojego kroku końcowego "
+"odrzuć twoją rękę.\""
 
 #: ../../KTK.rst:650
 msgid ""
@@ -2134,6 +2144,8 @@ msgid ""
 "Target creature you control gets +1/+0 until end of turn. It fights target "
 "creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0. Walczy ze "
+"wskazanym stworem poza twoim władaniem."
 
 #: ../../KTK.rst:664
 msgid ""
@@ -2157,7 +2169,7 @@ msgstr ""
 # 7695860968954f9c869056de0581cc79
 #: ../../KTK.rst:667
 msgid "Attacking creatures get +2/+0 until end of turn."
-msgstr "Atakujące stwory dostają +2/+0 do końca tury."
+msgstr "Atakujące stwory dostają do końca tury +2/+0."
 
 #: ../../KTK.rst:674
 msgid ""
@@ -2183,11 +2195,13 @@ msgid ""
 "Raid — War-Name Aspirant enters the battlefield with a +1/+1 counter on it "
 "if you attacked with a creature this turn."
 msgstr ""
+"Najazd — Jeśli atakowałeś stworem w tej turze, ten stwór wchodzi na pole "
+"walki mając znacznik +1/+1."
 
 # c096293892274abc8faf3f7031f46175
 #: ../../KTK.rst:679
 msgid "War-Name Aspirant can't be blocked by creatures with power 1 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 1 lub mniejszej."
 
 #: ../../KTK.rst:682
 msgid ""
@@ -2205,9 +2219,8 @@ msgstr ""
 
 # 1bd3731ea7a64aa1a265b7238ce219fa
 #: ../../KTK.rst:689
-#, fuzzy
 msgid "|mana_1|\\ |mana_b|, |tap|: Each opponent loses 1 life."
-msgstr "|mana_1|\\ |mana_b|, |tap|: Każdy przeciwnik traci 1 życie."
+msgstr "|mana_1|\\ |mana_b|, |tap|: Każdy przeciwnik traci po 1 życiu."
 
 #: ../../KTK.rst:694
 msgid ""
@@ -2231,7 +2244,7 @@ msgstr ""
 # 8c94e014dc9c404681d81a8af198315c
 #: ../../KTK.rst:699
 msgid "Target creature gets +6/+6 until end of turn."
-msgstr "Wskazany stwór dostaje +6/+6 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +6/+6."
 
 #: ../../KTK.rst:704
 msgid ""
@@ -2243,7 +2256,7 @@ msgstr ""
 # 1b4ec2b27b284abd897ab7bce2132cee
 #: ../../KTK.rst:703
 msgid "Put two +1/+1 counters on target creature and untap it."
-msgstr "Umieść dwa znaczniki +1/+1 na wskazany stworze i odznacz go."
+msgstr "Umieść dwa znaczniki +1/+1 na wskazany stworze i odkręć go."
 
 #: ../../KTK.rst:710
 msgid ""
@@ -2255,7 +2268,7 @@ msgstr ""
 # eca4f9ec174b4fbf8cef70adb34cac7e
 #: ../../KTK.rst:707
 msgid "You gain 5 life."
-msgstr "Zyskujesz 5 żyć."
+msgstr "Zyskaj 5 żyć."
 
 # 1ddb5de117f84fc28d88381c93aadcd3
 #: ../../KTK.rst:709
@@ -2263,8 +2276,8 @@ msgid ""
 "Ferocious — You gain 10 life instead if you control a creature with power 4 "
 "or greater."
 msgstr ""
-"Zaciekłość — Zamiast tego zyskujesz 10 życia jeśli władasz stworem o sile 4 "
-"lub większej."
+"Zaciekłość — Zamiast tego zyskaj 10 żyć jeśli władasz stworem o sile 4 lub "
+"większej."
 
 #: ../../KTK.rst:714
 msgid ""
@@ -2275,14 +2288,12 @@ msgstr ""
 
 # a8cca56888034b3ea6516034e2f053c5
 #: ../../KTK.rst:713
-#, fuzzy
 msgid ""
 "If one or more +1/+1 counters would be put on a creature you control, that "
 "many plus one +1/+1 counters are put on it instead."
 msgstr ""
-"Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać położonych na stworze "
-"pod twoim władaniem zamiast tego umieść na nim tyle samo plus jeden znacznik "
-"+1/+1."
+"Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać umieszczonych na "
+"stworze pod twoim władaniem, zamiast tego umieść ich o jeden więcej."
 
 #: ../../KTK.rst:720
 msgid ""
@@ -2297,8 +2308,8 @@ msgid ""
 "Ferocious — Whenever Heir of the Wilds attacks, if you control a creature "
 "with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn."
 msgstr ""
-"Zaciekłość — Ilekroć Heir of the Wilds atakuje, jeśli władasz stworem o sile "
-"4 lub większej, Heir of the Wilds dostaje do końca tury +1/+1."
+"Zaciekłość — Ilekroć ten stwór atakuje, jeśli władasz stworem o sile 4 lub "
+"większej, niniejszy stwór dostaje do końca tury +1/+1."
 
 #: ../../KTK.rst:724
 msgid ""
@@ -2310,7 +2321,7 @@ msgstr ""
 # 7ac0901c19a9450bb2f456fc8ff1cb41
 #: ../../KTK.rst:723
 msgid "When Highland Game dies, you gain 2 life."
-msgstr "Kiedy ten stwór umrze, zyskujesz 2 życia."
+msgstr "Kiedy ten stwór umrze, zyskaj 2 życia."
 
 #: ../../KTK.rst:734
 msgid ""
@@ -2322,28 +2333,26 @@ msgstr ""
 # 7a8afc0b9cd34751b7b9d09d640336ad
 #: ../../KTK.rst:727
 msgid "Hooded Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Hydra Kapturowa wchodzi na pole walki z X znacznikami +1/+1."
+msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
 
 # 731597755a744fd98839cf6901e5ae1b
 #: ../../KTK.rst:729
-#, fuzzy
 msgid ""
 "When Hooded Hydra dies, create a 1/1 green Snake creature token for each +1/"
 "+1 counter on it."
 msgstr ""
-"Kiedy Hydra Kapturowa umiera, stwórz żeton zielonego stwora Wąż 1/1 za każdy "
-"znacznik +1/+1, jaki miała."
+"Kiedy ten stwór umrze, stwórz tyle żetonów zielonego stwora Wąż 1/1, ile "
+"miał znaczników +1/+1."
 
 # d53cf4c38b434af0a86ba57997c013e7
 #: ../../KTK.rst:731
-#, fuzzy
 msgid "Morph |mana_3|\\ |mana_g|\\ |mana_g|"
 msgstr "Przemiana |mana_3|\\ |mana_g|\\ |mana_g|"
 
 # 95467c8d1d1f412697ef0a17af5a6967
 #: ../../KTK.rst:733
 msgid "As Hooded Hydra is turned face up, put five +1/+1 counters on it."
-msgstr ""
+msgstr "Odkrywając tego stwora umieść na nim pięć znaczników +1/+1."
 
 #: ../../KTK.rst:740
 msgid ""
@@ -2385,7 +2394,7 @@ msgstr ""
 # df3f66a3a84a452d8aa39bd3d4d7584c
 #: ../../KTK.rst:747
 msgid "|mana_2|: Regenerate Kin-Tree Warden."
-msgstr ""
+msgstr "|mana_2|: Zregeneruj tego stwora."
 
 # 57f9bf424a1b459683915142f5f24c95
 #: ../../KTK.rst:749
@@ -2405,7 +2414,6 @@ msgstr ""
 
 # adcafd40c3f44e10b142604c74fdd143
 #: ../../KTK.rst:753
-#, fuzzy
 msgid ""
 "Outlast |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, |tap|: Put a +1/+1 counter "
 "on this creature. Outlast only as a sorcery.)"
@@ -2419,7 +2427,7 @@ msgid ""
 "Each creature you control with a +1/+1 counter on it has reach. (A creature "
 "with reach can block creatures with flying.)"
 msgstr ""
-"Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma Zasięg. (Stwór z "
+"Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma zasięg. (Stwór z "
 "Zasięgiem może blokować stwory z Lataniem.)"
 
 #: ../../KTK.rst:762
@@ -2445,6 +2453,9 @@ msgid ""
 "battlefield under your control tapped and attacking at the beginning of the "
 "declare attackers step on your next turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, wygnaj go. Przywróć go na pole walki pod twoim "
+"władaniem przekręconego i atakującego na początku kroku deklaracji "
+"atakujących twojej następnej tury."
 
 #: ../../KTK.rst:766
 msgid ""
@@ -2482,6 +2493,8 @@ msgid ""
 "Whenever Pine Walker or another creature you control is turned face up, "
 "untap that creature."
 msgstr ""
+"Ilekroć ten lub inny stwór pod twoim władaniem zostanie odkryty, odkręć "
+"owego stwora."
 
 #: ../../KTK.rst:780
 msgid ""
@@ -2493,9 +2506,8 @@ msgstr ""
 # 74bdc9072a924cd79405df58fc7482f4
 # b9b0b684da3a4f3591a381a227397fb6
 #: ../../KTK.rst:775 ../../KTK.rst:1239 ../../KTK.rst:1289
-#, fuzzy
 msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
-msgstr "|tap|: Dodaj |mana_u|, |mana_r| lub |mana_w| do twojej puli many."
+msgstr "|tap|: Weź |mana_g|, |mana_u|, or |mana_r|."
 
 # bc665e2cac5c4025872fbba25c6e5c42
 #: ../../KTK.rst:777
@@ -2509,7 +2521,7 @@ msgstr ""
 #: ../../KTK.rst:779
 msgid ""
 "When Rattleclaw Mystic is turned face up, add |mana_g|\\ |mana_u|\\ |mana_r|."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, weź |mana_g|\\ |mana_u|\\ |mana_r|."
 
 #: ../../KTK.rst:786
 msgid ""
@@ -2530,7 +2542,7 @@ msgid ""
 "Ferocious — That creature gains indestructible until end of turn if you "
 "control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — Ów stwór zyskuje do końca tury Niezniszczalność jeśli władasz "
+"Zaciekłość — Ów stwór zyskuje do końca tury niezniszczalność jeśli władasz "
 "stworem o sile 4 lub większej."
 
 #: ../../KTK.rst:792
@@ -2556,6 +2568,8 @@ msgstr ""
 #: ../../KTK.rst:795
 msgid "Target creature you control fights target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+"władaniem."
 
 # 957c43fb22424f8bb0cc8da77bd0de77
 #: ../../KTK.rst:797
@@ -2563,8 +2577,8 @@ msgid ""
 "Ferocious — The creature you control gets +2/+2 until end of turn before it "
 "fights if you control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — Stwór pod twoim władaniem dostaje do końca tury +2/+2 zanim "
-"będzie walczyć, jeśli władasz stworem o sile 4 lub większej."
+"Zaciekłość — Ów stwór pod twoim władaniem zanim będzie walczyć dostaje do "
+"końca tury +2/+2 jeśli władasz stworem o sile 4 lub większej."
 
 #: ../../KTK.rst:802
 msgid ""
@@ -2596,6 +2610,8 @@ msgid ""
 "Reveal the top eight cards of your library. You may put a creature card from "
 "among them onto the battlefield. Put the rest into your graveyard."
 msgstr ""
+"Ujawnij osiem wierzchnich kart twojej biblioteki. Możesz umieścić spośród "
+"nich kartę stwora na polu walki. Umieść pozostałe w twoim cmentarzu."
 
 # 134a345eb0144d29b139e9ab0ece000c
 #: ../../KTK.rst:807
@@ -2603,8 +2619,8 @@ msgid ""
 "Ferocious — If you control a creature with power 4 or greater, you may put "
 "two creature cards onto the battlefield instead of one."
 msgstr ""
-"Zaciekłość — Jeśli władasz stworem o sile 4 lub większej, możesz położyć na "
-"polu walki dwie karty stworów zamiast jednej."
+"Zaciekłość — Jeśli władasz stworem o sile 4 lub większej, możesz umieścić na "
+"polu walki dwie karty stwora zamiast jednej."
 
 #: ../../KTK.rst:812
 msgid ""
@@ -2631,9 +2647,8 @@ msgstr ""
 
 # c44180e848114ad0b9e5d73e0d9174cc
 #: ../../KTK.rst:815
-#, fuzzy
 msgid "|mana_1|\\ |mana_u|: Look at target face-down creature."
-msgstr "|mana_1|\\ |mana_w|, |tap|: Zaznacz wskazanego stwora."
+msgstr "|mana_1|\\ |mana_u|, |tap|: Spójrz na wskazanego zakrytego stwora."
 
 #: ../../KTK.rst:820
 msgid ""
@@ -2648,6 +2663,8 @@ msgid ""
 "Whenever a creature you control with toughness 4 or greater dies, you gain 4 "
 "life."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem o wytrzymałości 4 lub większej, "
+"zyskaj 4 życia."
 
 #: ../../KTK.rst:826
 msgid ""
@@ -2662,8 +2679,9 @@ msgid ""
 "Morph—Reveal a green card in your hand. (You may cast this card face down as "
 "a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana—Ujawnij zieloną kartę z ręki. (Możesz rzucić tę kartę zakrytą za |"
-"mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+"Przemiana—Ujawnij zieloną kartę z twojej ręki. (Możesz rzucić tę kartę "
+"zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"przemiany.)"
 
 # 9e59b7abea004b78921660e1491e32bc
 #: ../../KTK.rst:825
@@ -2671,6 +2689,8 @@ msgid ""
 "When Temur Charger is turned face up, target creature gains trample until "
 "end of turn."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, wskazany stwór zyskuje tratowanie do końca "
+"tury."
 
 #: ../../KTK.rst:832
 msgid ""
@@ -2686,6 +2706,9 @@ msgid ""
 "may search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle your library."
 msgstr ""
+"Ilekroć zakryty stwór wejdzie na pole walki pod twoim władaniem, możesz "
+"wyszukać w twojej bibliotece kartę bazowego lądu, ujawnić ją i umieścić w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 # a99a5086b9ff4cba9a04adb5b5845f01
 #: ../../KTK.rst:831
@@ -2693,6 +2716,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, if it's a creature, it "
 "gets +2/+2 until end of turn."
 msgstr ""
+"Ilekroć permanent pod twoim władaniem zostanie odkryty, jeśli jest on "
+"stworem, dostaje do końca tury +2/+2."
 
 #: ../../KTK.rst:834
 msgid ""
@@ -2732,7 +2757,7 @@ msgstr ""
 # b7a08a6fc59c49ae9a558782f510675b
 #: ../../KTK.rst:845
 msgid "Windstorm deals X damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z lataniem po X obrażeń."
 
 #: ../../KTK.rst:850
 msgid ""
@@ -2763,8 +2788,8 @@ msgid ""
 "Whenever Abomination of Gudul deals combat damage to a player, you may draw "
 "a card. If you do, discard a card."
 msgstr ""
-"Ilekroć Abomination of Gudul zadaje graczowi obrażenia bitewne, możesz "
-"dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 # d83fa69d8bda4947b496050bff2d9629
 #: ../../KTK.rst:857
@@ -2790,18 +2815,17 @@ msgid ""
 "When Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each "
 "creature you control."
 msgstr ""
-"Kiedy Przewaga Abzanów wchodzi na pole walki, umieść znacznik +1/+1 na "
-"każdym stworze pod twoim władaniem."
+"Kiedy ten urok wejdzie na pole walki, umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem."
 
 # a2a9603f7cc949cb934d6b23f5ce4093
 #: ../../KTK.rst:863
-#, fuzzy
 msgid ""
 "Whenever a nontoken creature you control dies, create a 1/1 white Spirit "
 "creature token with flying."
 msgstr ""
-"Ilekroć umiera władany przez ciebie stwór nie będący żetonem, stwórz żeton "
-"białego stwora Duch 1/1 mającego latanie."
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, stwórz żeton białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../KTK.rst:874
 msgid ""
@@ -2828,13 +2852,13 @@ msgstr "Wygnaj wskazanego stwora o sile 3 lub większej."
 # 9f8729ca165d4415b2dd262c4484a29d
 #: ../../KTK.rst:871
 msgid "You draw two cards and you lose 2 life."
-msgstr "Dobierasz dwie karty i tracisz 2 życia."
+msgstr "Dobierz dwie karty i strać 2 życia."
 
 # 499c00e57c3245539e5fbdce2492af3d
 #: ../../KTK.rst:873
 msgid "Distribute two +1/+1 counters among one or two target creatures."
 msgstr ""
-"Umieść na jednym lub dwóch wskazanych stworach łącznie dwa znaczniki +1/+1."
+"Rozmieść dwa znaczniki +1/+1 pomiędzy jednym lub dwoma wskazanymi stworami."
 
 #: ../../KTK.rst:880
 msgid ""
@@ -2867,19 +2891,19 @@ msgid ""
 "Whenever Anafenza, the Foremost attacks, put a +1/+1 counter on another "
 "target tapped creature you control."
 msgstr ""
-"Ilekroć Anafenza, Przodowniczka atakuje, umieść znacznik +1/+1 na innym "
-"wskazanym stworze pod twoim władaniem."
+"Ilekroć ten stwór atakuje, umieść znacznik +1/+1 na innym wskazanym "
+"przekręconym stworze pod twoim władaniem."
 
 # 8369903d38c84b76b4c48746409a39f0
 #: ../../KTK.rst:885
-#, fuzzy
 msgid ""
 "If a nontoken creature an opponent owns would die or a creature card not on "
 "the battlefield would be put into an opponent's graveyard, exile that card "
 "instead."
 msgstr ""
-"Jeśli karta stwora miałby być skądkolwiek włożona do cmentarza przeciwnika, "
-"zamiast tego wypędź ją."
+"Jeśli nieżetonowy stwór będący własnością przeciwnika miałby umrzeć lub "
+"karta stwora spoza pola walki miałaby zostać umieszczona w cmentarzy "
+"przeciwnika, zamiast tego wygnaj ową kartę."
 
 #: ../../KTK.rst:892
 msgid ""
@@ -2894,8 +2918,8 @@ msgid ""
 "Whenever Ankle Shanker attacks, creatures you control gain first strike and "
 "deathtouch until end of turn."
 msgstr ""
-"Ilekroć Podcinacz Kostek atakuje, stwory którymi władasz zyskują do końca "
-"tury Pierwszy Cios oraz Dotyk Śmierci."
+"Ilekroć ten stwór atakuje, stwory pod twoim władaniem do końca tury zyskują "
+"pierwszy cios i dotyk śmierci."
 
 #: ../../KTK.rst:896
 msgid ""
@@ -2910,8 +2934,8 @@ msgid ""
 "When Armament Corps enters the battlefield, distribute two +1/+1 counters "
 "among one or two target creatures you control."
 msgstr ""
-"Kiedy Armament Corps wchodzi na pole walki, umieść na jednym lub dwóch "
-"wskazanych stworach pod twoim władaniem łącznie dwa znaczniki +1/+1."
+"Kiedy ten stwór wejdzie na pole walki, rozmieść dwa znaczniki +1/+1 pomiędzy "
+"jednym lub dwoma wskazanymi stworami."
 
 #: ../../KTK.rst:900
 msgid ""
@@ -2926,8 +2950,8 @@ msgid ""
 "Whenever Avalanche Tusker attacks, target creature defending player controls "
 "blocks it this combat if able."
 msgstr ""
-"Ilekroć Avalanche Tusker atakuje, wskazany stwór władany przez broniącego "
-"się gracza blokuje go w tej walce jeśli może."
+"Ilekroć ten stwór atakuje, wskazany stwór pod władaniem broniącego się "
+"gracza blokuje go w tej walce, jeśli może."
 
 #: ../../KTK.rst:904
 msgid ""
@@ -2938,13 +2962,12 @@ msgstr ""
 
 # ffcbc37ae7c74c9b87a974c596f9d153
 #: ../../KTK.rst:903
-#, fuzzy
 msgid ""
 "When Bear's Companion enters the battlefield, create a 4/4 green Bear "
 "creature token."
 msgstr ""
-"Kiedy Towarzysz Niedźwiedzia wchodzi na pole walki, stwórz żeton zielonego "
-"stwora Niedźwiedź 4/4."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora "
+"Niedźwiedź 4/4."
 
 #: ../../KTK.rst:910
 msgid ""
@@ -2959,8 +2982,8 @@ msgid ""
 "Sacrifice another creature: Butcher of the Horde gains your choice of "
 "vigilance, lifelink, or haste until end of turn."
 msgstr ""
-"Poświęć innego stwora: Rzeźnik Hordy zyskuje do końca tury Czujność, Więź "
-"Życia lub Pośpiech według twojego wyboru."
+"Poświęć innego stwora: Ten stwór zyskuje do końca tury zdolność wybraną "
+"spośród czujności, więzi życia i pośpiechu."
 
 #: ../../KTK.rst:914
 msgid ""
@@ -2972,7 +2995,7 @@ msgstr ""
 # 47f176a67dc14d838994b42c71f689e5
 #: ../../KTK.rst:913
 msgid "Other Warrior creatures you control get +1/+0."
-msgstr "Inne stwory typu Wojownik pod twoim władaniem dostają +1/+0."
+msgstr "Inni Wojownicy pod twoim władaniem dostają +1/+0."
 
 #: ../../KTK.rst:918
 msgid ""
@@ -2984,7 +3007,7 @@ msgstr ""
 # 30bb4897c5584165aabd46c816a30dba
 #: ../../KTK.rst:917
 msgid "Other Warrior creatures you control get +0/+1."
-msgstr "Inne stwory typu Wojownik pod twoim władaniem dostają +0/+1."
+msgstr "Inni Wojownicy pod twoim władaniem dostają +0/+1."
 
 #: ../../KTK.rst:922
 msgid ""
@@ -2995,13 +3018,12 @@ msgstr ""
 
 # 1c8e4ed189b54f729f0b1e21e1588e4e
 #: ../../KTK.rst:921
-#, fuzzy
 msgid ""
 "Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a "
 "creature with the greatest power among creatures that player controls."
 msgstr ""
-"Crackling Doom zadaje 2 obrażenia każdemu przeciwnikowi. Każdy przeciwnik "
-"poświęca stwora o największej sile spośród stworów, którymi włada."
+"Ten czar zadaje każdemu przeciwnikowi po 2 obrażenia. Każdy przeciwnik "
+"poświęca stwora o największej sile spośród stworów pod swoim władaniem."
 
 #: ../../KTK.rst:926
 msgid ""
@@ -3017,7 +3039,7 @@ msgid ""
 "turn, you gain 1 life."
 msgstr ""
 "Wszystkie stwory dostają do końca tury -2/-2. Ilekroć w tej turze umrze "
-"stwór, zyskujesz 1 życie."
+"stwór, zyskaj 1 życie."
 
 #: ../../KTK.rst:930
 msgid ""
@@ -3035,7 +3057,7 @@ msgid ""
 msgstr ""
 "Gdy następnym razem wybrane przez ciebie źródło miałoby zadać obrażenia w "
 "tej turze, zażegnaj te obrażenia. Jeśli obrażenia zostaną zażegnane w ten "
-"sposób, Odbijająca Dłoń zadaje tyle samo obrażeń władcy owego źródła."
+"sposób, ten czar zadaje tyle samo obrażeń władcy owego źródła."
 
 #: ../../KTK.rst:934
 msgid ""
@@ -3062,6 +3084,8 @@ msgid ""
 "When Efreet Weaponmaster enters the battlefield or is turned face up, "
 "another target creature you control gets +3/+0 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki lub zostanie odkryty, inny wskazany "
+"stwór pod twoim władaniem dostaje do końca tury +3/+0."
 
 # 3167b6294b724608aea758acee935d60
 #: ../../KTK.rst:941
@@ -3087,8 +3111,8 @@ msgid ""
 "Untap all creatures you control. They gain flying and double strike until "
 "end of turn."
 msgstr ""
-"Odkręć wszystkie stwory, którymi władasz. Zyskują one do końca tury Latanie "
-"oraz Podwójny Cios."
+"Odkręć wszystkie stwory pod twoim władaniem. Zyskują one do końca tury "
+"latanie i podwójny cios."
 
 #: ../../KTK.rst:950
 msgid ""
@@ -3124,8 +3148,8 @@ msgid ""
 "When Icefeather Aven is turned face up, you may return another target "
 "creature to its owner's hand."
 msgstr ""
-"Kiedy Icefeather Aven jest odwracany frontem w górę, możesz zwrócić innego "
-"wskazanego stwora do ręki jego właściciela."
+"Kiedy ten stwór zostanie odkryty, możesz przywrócić innego wskazanego stwora "
+"do ręki właściciela."
 
 #: ../../KTK.rst:962
 msgid ""
@@ -3141,7 +3165,7 @@ msgid ""
 "player's untap step."
 msgstr ""
 "Odkręć każdego stwora pod twoim władaniem mającego znacznik +1/+1 podczas "
-"kroku odkręcania każdego innego gracza."
+"kroków odkręcania każdego innego gracza."
 
 #: ../../KTK.rst:968
 msgid ""
@@ -3156,7 +3180,7 @@ msgid ""
 "Whenever you cast a noncreature spell, creatures you control get +1/+1 until "
 "end of turn. Untap those creatures."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, stwory pod twoim władaniem dostają "
+"Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem dostają "
 "do końca tury +1/+1. Odkręć owe stwory."
 
 # f5b58811c3d0409b81bfef6f74bed4e1
@@ -3165,7 +3189,7 @@ msgid ""
 "Whenever you cast a noncreature spell, you may draw a card. If you do, "
 "discard a card."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, możesz dobrać kartę. Jeśli tak "
+"Ilekroć rzucisz czar nie będący stworem, możesz dobrać kartę. Jeśli tak "
 "zrobisz, odrzuć kartę."
 
 #: ../../KTK.rst:978
@@ -3182,14 +3206,13 @@ msgstr "Umieść wskazanego stwora na wierzchu biblioteki właściciela."
 
 # 4a1b041b8fae438897fefd5f0be0f72c
 #: ../../KTK.rst:975
-#, fuzzy
 msgid "Jeskai Charm deals 4 damage to target opponent or planeswalker."
-msgstr "Jeskai Charm zadaje 4 obrażenia wskazanemu przeciwnikowi."
+msgstr "Ten czar zadaje wskazanemu przeciwnikowi lub wędrowcowi 4 obrażenia."
 
 # 23936bda6fe444ca9ff76b3eb845310a
 #: ../../KTK.rst:977
 msgid "Creatures you control get +1/+1 and gain lifelink until end of turn."
-msgstr "Stwory, którymi władasz dostają do końca tury +1/+1 oraz Więź Życia."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
 
 #: ../../KTK.rst:982
 msgid ""
@@ -3200,7 +3223,6 @@ msgstr ""
 
 # 4c9152d4d0f14d19aa27a2ffb1251841
 #: ../../KTK.rst:981
-#, fuzzy
 msgid ""
 "At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|. If you do, "
 "return a creature card at random from your graveyard to the battlefield. It "
@@ -3209,9 +3231,9 @@ msgid ""
 "putting it anywhere else."
 msgstr ""
 "Na początku twojego utrzymania możesz zapłacić |mana_2|\\ |mana_b|. Jeśli "
-"tak zrobisz, zwróć losową kartę stwora z twojego cmentarza na pole walki. "
-"Zyskuje ona Latanie, Tratowanie i Pośpiech. Wygnaj ową kartę na początku "
-"najbliższego kroku końcowego. Jeśli miałaby opuścić pole walki, wypędź ją "
+"tak zrobisz, przywróć losową kartę stwora z twojego cmentarza na pole walki. "
+"Zyskuje ona latanie, tratowanie i pośpiech. Wygnaj ową kartę na początku "
+"najbliższego kroku końcowego. Jeśli miałaby opuścić pole walki, wygnaj ją "
 "zamiast umieszczać ją gdziekolwiek indziej."
 
 #: ../../KTK.rst:986
@@ -3223,13 +3245,12 @@ msgstr ""
 
 # f6e839331df6421b9efa58b4c9e4f658
 #: ../../KTK.rst:985
-#, fuzzy
 msgid ""
 "Create an X/X black and green Spirit Warrior creature token, where X is the "
 "greatest toughness among creatures you control."
 msgstr ""
-"Umieść na polu walki żeton czarno-zielonego stwora Duch Wojownik X/X, gdzie "
-"X jest największą wytrzymałością spośród stworów, którymi władasz."
+"Stwórz żeton czarno-zielonego stwora Duch Wojownik X/X, gdzie X jest "
+"największą wytrzymałością spośród stworów pod twoim władaniem."
 
 #: ../../KTK.rst:990
 msgid ""
@@ -3252,13 +3273,12 @@ msgstr ""
 
 # a2a9603f7cc949cb934d6b23f5ce4093
 #: ../../KTK.rst:993
-#, fuzzy
 msgid ""
 "Whenever a nontoken creature you control attacks, create a 1/1 red Goblin "
 "creature token that's tapped and attacking."
 msgstr ""
-"Ilekroć umiera władany przez ciebie stwór nie będący żetonem, stwórz żeton "
-"białego stwora Duch 1/1 mającego latanie."
+"Ilekroć nieżetonowy stwór pod twoim władaniem atakuje, stwórz przekręcony i "
+"atakujący żeton czerwonego stwora Goblin 1/1."
 
 # 6289a478b3d04be4813dae85e82d3845
 #: ../../KTK.rst:995
@@ -3266,7 +3286,7 @@ msgid ""
 "Sacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of "
 "turn."
 msgstr ""
-"Poświęć Przewagę Mardu: Stwory, którymi władasz dostają do końca tury +0/+3."
+"Poświęć ten urok: Stwory pod twoim władaniem dostają do końca tury +0/+3."
 
 #: ../../KTK.rst:1006
 msgid ""
@@ -3278,17 +3298,16 @@ msgstr ""
 # a241b75e17e1437895dd30ec266c5d7a
 #: ../../KTK.rst:1001
 msgid "Mardu Charm deals 4 damage to target creature."
-msgstr "Mardu Charm zadaje 4 obrażenia wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 # 61703dbe27404bd9a99f9fc4b2a57b26
 #: ../../KTK.rst:1003
-#, fuzzy
 msgid ""
 "Create two 1/1 white Warrior creature tokens. They gain first strike until "
 "end of turn."
 msgstr ""
-"Umieść na polu walki dwa żetony białego stwora Wojownik 1/1. Do końca tury "
-"zyskują one Pierwszy Cios."
+"Stwórz dwa żetony białego stwora Wojownik 1/1. Do końca tury zyskują one "
+"pierwszy cios."
 
 # 37ad3ad10e2247d7a3413e958495346f
 #: ../../KTK.rst:1005
@@ -3311,6 +3330,7 @@ msgstr ""
 msgid ""
 "Whenever Mardu Roughrider attacks, target creature can't block this turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, wskazany stwór nie może blokować w tej turze."
 
 #: ../../KTK.rst:1014
 msgid ""
@@ -3324,6 +3344,8 @@ msgid ""
 "Draw a card. Master the Way deals damage to any target equal to the number "
 "of cards in your hand."
 msgstr ""
+"Dobierz kartę. Ten czar zadaje wskazanemu celowi tyle obrażeń, ile masz kart "
+"w ręce."
 
 #: ../../KTK.rst:1018
 msgid ""
@@ -3338,6 +3360,8 @@ msgid ""
 "Counter target spell unless its controller pays |mana_x|. Mindswipe deals X "
 "damage to that spell's controller."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|. Niniejszy "
+"czar zadaje władcy owego czaru X obrażeń."
 
 #: ../../KTK.rst:1024
 msgid ""
@@ -3349,7 +3373,7 @@ msgstr ""
 # 7c272ad3d91041fea254695ae4dd489f
 #: ../../KTK.rst:1021
 msgid "First strike, hexproof"
-msgstr "Pierwszy Cios, Antyklątwa"
+msgstr "Pierwszy cios, antyklątwa"
 
 # 3499a84fdbc54083b9dfa9cda10d5e9e
 #: ../../KTK.rst:1023
@@ -3358,6 +3382,9 @@ msgid ""
 "your library. Until end of turn, you may cast noncreature cards exiled with "
 "Narset this turn without paying their mana costs."
 msgstr ""
+"Ilekroć ten stwór atakuje, wygnaj cztery wierzchnie karty twojej biblioteki. "
+"Do końca tury możesz rzucić karty nie będące stworami wygnane w ten sposób w "
+"tej turze bez płacenia ich kosztów many."
 
 #: ../../KTK.rst:1030
 msgid ""
@@ -3371,6 +3398,8 @@ msgid ""
 "When Ponyback Brigade enters the battlefield or is turned face up, create "
 "three 1/1 red Goblin creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki lub zostanie odkryty, stwórz trzy "
+"żetony czerwonego stwora Goblin 1/1."
 
 # 329cb94d29714db1a8318aafe367d5d3
 #: ../../KTK.rst:1029
@@ -3392,13 +3421,12 @@ msgstr ""
 
 # 2a2b6dc0fd364ae090ea2ad52ac55392
 #: ../../KTK.rst:1033
-#, fuzzy
 msgid "|mana_b|\\ |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn."
-msgstr "|mana_2|\\ |mana_w|: Skaczący Mistrz zyskuje Latanie do końca tury."
+msgstr "|mana_b|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2."
 
 #: ../../KTK.rst:1035
 msgid "|mana_b|\\ |mana_g|: Regenerate Rakshasa Deathdealer."
-msgstr ""
+msgstr "|mana_b|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../KTK.rst:1040
 msgid ""
@@ -3413,6 +3441,8 @@ msgid ""
 "Whenever one or more cards are put into exile from your graveyard, put that "
 "many +1/+1 counters on Rakshasa Vizier."
 msgstr ""
+"Ilekroć jedna lub więcej kart zostanie umieszczonych w wygnaniu z twojego "
+"cmentarza, umieść tyle samo znaczników +1/+1 na tym stworze."
 
 #: ../../KTK.rst:1044
 msgid ""
@@ -3427,6 +3457,8 @@ msgid ""
 "Destroy target blocking creature. Creatures that were blocked by that "
 "creature this combat gain trample until end of turn."
 msgstr ""
+"Zniszcz wskazanego blokującego stwora. Stwory blokowane w tej walce przez "
+"owego stwora zyskują tratowanie do końca tury."
 
 #: ../../KTK.rst:1050
 msgid ""
@@ -3441,6 +3473,8 @@ msgid ""
 "Whenever you cast a noncreature spell, creatures you control gain lifelink "
 "until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem zyskują "
+"więź życia do końca tury."
 
 #: ../../KTK.rst:1056
 msgid ""
@@ -3475,17 +3509,18 @@ msgid ""
 "|mana_2|\\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
+"|mana_2|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tę zdolność tylko raz na turę."
 
 # 4f6f8d818b524c0fbe44565b7821bcd2
 #: ../../KTK.rst:1061
-#, fuzzy
 msgid "|mana_2|\\ |mana_u|: Return Savage Knuckleblade to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki jego władcy."
+msgstr "|mana_2|\\ |mana_u|: Przywróć tego stwora do ręki właściciela."
 
 # 158c8def96aa4dada14324208f7e63d2
 #: ../../KTK.rst:1063
 msgid "|mana_r|: Savage Knuckleblade gains haste until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje pośpiech do końca tury."
 
 #: ../../KTK.rst:1070
 msgid ""
@@ -3497,12 +3532,12 @@ msgstr ""
 # 1733f7fd670646849ba1686764dfadad
 #: ../../KTK.rst:1067
 msgid "Face-down creatures you control get +0/+1."
-msgstr ""
+msgstr "Zakryte stwory pod twoim władaniem dostają +0/+1."
 
 # e183cad683294d9d97391fa722fdcc78
 #: ../../KTK.rst:1069
 msgid "Whenever a permanent you control is turned face up, draw a card."
-msgstr ""
+msgstr "Ilekroć permanent pod twoim władaniem zostanie odkryty, dobierz kartę."
 
 #: ../../KTK.rst:1076
 msgid ""
@@ -3517,12 +3552,16 @@ msgid ""
 "Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, put the top "
 "three cards of your library into your graveyard."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole walki lub atakuje, umieść trzy wierzchnie "
+"karty twojej biblioteki w twoim cmentarzu."
 
 #: ../../KTK.rst:1075
 msgid ""
 "Whenever one or more creature cards are put into your graveyard from your "
 "library, create a 2/2 black Zombie creature token."
 msgstr ""
+"Ilekroć jedna lub więcej kart stworów zostanie umieszczonych w twoim "
+"cmentarzu z biblioteki, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../KTK.rst:1082
 msgid ""
@@ -3537,6 +3576,8 @@ msgid ""
 "When Siege Rhino enters the battlefield, each opponent loses 3 life and you "
 "gain 3 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po 3 życia, a "
+"ty zyskaj 3 życia."
 
 #: ../../KTK.rst:1088
 msgid ""
@@ -3568,16 +3609,20 @@ msgstr ""
 msgid ""
 "+1: Until your next turn, creatures you control get +1/+0 and gain lifelink."
 msgstr ""
+"+1: Do twojej następnej tury, stwory pod twoim władaniem dostają +1/+0 i "
+"więź życia."
 
 #: ../../KTK.rst:1093
 msgid "−2: Create a 2/2 black Vampire creature token with flying."
-msgstr ""
+msgstr "–2: Stwórz żeton czarnego stwora Wampir 2/2 z lataniem."
 
 #: ../../KTK.rst:1095
 msgid ""
 "−6: You get an emblem with \"At the beginning of each opponent's upkeep, "
 "that player sacrifices a creature.\""
 msgstr ""
+"–6: Dostajesz emblemat o treści \"Na początku kroku utrzymania każdego "
+"przeciwnika, ów gracz poświęca stwora.\""
 
 #: ../../KTK.rst:1100
 msgid ""
@@ -3593,6 +3638,9 @@ msgid ""
 "Put any number of them into your graveyard and the rest back on top of your "
 "library in any order."
 msgstr ""
+"Na początku twojego kroku utrzymania, spójrz na dwie wierzchnie karty twojej "
+"biblioteki. Umieść dowolne z nich w twoim cmentarzu, a pozostałe z powrotem "
+"na wierzchu twojej biblioteki w dowolnej kolejności."
 
 #: ../../KTK.rst:1110
 msgid ""
@@ -3609,7 +3657,7 @@ msgstr "Zniszcz wskazanego jednokolorowego stwora."
 # d55e6791625b426d88905c605d471842
 #: ../../KTK.rst:1109
 msgid "Draw two cards, then discard a card."
-msgstr ""
+msgstr "Dobierz dwie karty, następnie odrzuć kartę."
 
 #: ../../KTK.rst:1114
 msgid ""
@@ -3625,6 +3673,9 @@ msgid ""
 "your library. Put one of them into your hand and the rest into your "
 "graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałe w twoim "
+"cmentarzu."
 
 #: ../../KTK.rst:1124
 msgid ""
@@ -3636,7 +3687,7 @@ msgstr ""
 # 3f47ba5984494f879ff485405f9f166f
 #: ../../KTK.rst:1121
 msgid "Creature spells you control can't be countered."
-msgstr "Władane przez ciebie czary stworów nie mogą być skontrowane."
+msgstr "Czary stworów pod twoim władaniem nie mogą być skontrowane."
 
 # 69de92d9944443c1b0410c4978b68705
 #: ../../KTK.rst:1123
@@ -3661,6 +3712,8 @@ msgid ""
 "Whenever a creature with power 4 or greater enters the battlefield under "
 "your control, you may draw a card."
 msgstr ""
+"Ilekroć stwór o sile 4 lub większej wejdzie na pole walki pod twoim "
+"władaniem, możesz dobrać kartę."
 
 #: ../../KTK.rst:1140
 msgid ""
@@ -3675,6 +3728,8 @@ msgid ""
 "Target creature you control gets +1/+1 until end of turn. It fights target "
 "creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Walczy on ze "
+"wskazanym stworem poza twoim władaniem."
 
 # df7ee7a4c7d24cd6bbeb312742f0acc1
 #: ../../KTK.rst:1137
@@ -3684,7 +3739,7 @@ msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 # 1e2d41758fed45b7b32379d1bac17fe0
 #: ../../KTK.rst:1139
 msgid "Creatures with power 3 or less can't block this turn."
-msgstr ""
+msgstr "Stwory o sile 3 lub mniejszej nie mogą blokować w tej turze."
 
 #: ../../KTK.rst:1144
 msgid ""
@@ -3699,6 +3754,8 @@ msgid ""
 "Counter target creature spell. Put two +1/+1 counters on up to one target "
 "creature."
 msgstr ""
+"Skontruj wskazany czar stwora. Umieść dwa znaczniki +1/+1 na co najwyżej "
+"jednym wskazanym stworze."
 
 #: ../../KTK.rst:1148
 msgid ""
@@ -3725,6 +3782,9 @@ msgid ""
 "number of nonland cards with converted mana cost X or less from among them "
 "without paying their mana costs."
 msgstr ""
+"Wskazany przeciwnik wygania X wierzchnich kart swojej biblioteki. Możesz "
+"rzucić spośród nich dowolne nielądowe karty o skróconych kosztach many X lub "
+"mniejszych bez płacenia ich kosztów many."
 
 #: ../../KTK.rst:1156
 msgid ""
@@ -3739,6 +3799,8 @@ msgid ""
 "When Warden of the Eye enters the battlefield, return target noncreature, "
 "nonland card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę nie będącą "
+"stworem ani lądem z twojego cmentarza do twojej ręki."
 
 #: ../../KTK.rst:1164
 msgid ""
@@ -3760,7 +3822,7 @@ msgstr "Przekręć wskazanego stwora."
 # 284efd5132464a32b1d849a656aba1f2
 #: ../../KTK.rst:1163
 msgid "Winterflame deals 2 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../KTK.rst:1174
 msgid ""
@@ -3785,6 +3847,8 @@ msgid ""
 "Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a "
 "+1/+1 counter on Zurgo Helmsmasher."
 msgstr ""
+"Ilekroć w tej turze umrze stwór uszkodzony przez tego stwora, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../KTK.rst:1180
 msgid ""
@@ -3796,18 +3860,15 @@ msgstr ""
 # 48f640465dc34a8ebd5f6c4ac06e3236
 # a234c7f220834b0b845c2044f5d9b23b
 #: ../../KTK.rst:1177 ../../KTK.rst:1333
-#, fuzzy
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
-msgstr "|tap|: Dodaj |mana_w|, |mana_b|, lub |mana_g| do twojej puli many."
+msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
 # 712f66826ca1431ab9414647f5bdecf1
 #: ../../KTK.rst:1179
-#, fuzzy
 msgid ""
 "|mana_w|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a card."
 msgstr ""
-"|mana_w|\\ |mana_b|\\ |mana_g|, |tap|, poświęć Sztandar Abzanów: Dobierz "
-"kartę."
+"|mana_w|\\ |mana_b|\\ |mana_g|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../KTK.rst:1184
 msgid ""
@@ -3818,13 +3879,12 @@ msgstr ""
 
 # 07dd029e94ee4591825b9b0213c10990
 #: ../../KTK.rst:1183
-#, fuzzy
 msgid ""
 "Whenever another permanent enters the battlefield under your control, each "
 "opponent puts the top card of their library into their graveyard."
 msgstr ""
-"Ilekroć na pole walki wchodzi pod twoim władaniem inny permanent, każdy "
-"przeciwnik wkłada wierzchnią kartę swojej biblioteki do swojego cmentarza."
+"Ilekroć na pole walki wejdzie pod twoim władaniem inny permanent, każdy "
+"przeciwnik umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu."
 
 #: ../../KTK.rst:1190
 msgid ""
@@ -3836,7 +3896,7 @@ msgstr ""
 # 584755299f064afdb80310c5e075cfca
 #: ../../KTK.rst:1187
 msgid "Briber's Purse enters the battlefield with X gem counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki mając X znaczników klejnotu."
 
 # 696a1291ea4a4bf1948a407bda40ba08
 #: ../../KTK.rst:1189
@@ -3844,6 +3904,8 @@ msgid ""
 "|mana_1|, |tap|, Remove a gem counter from Briber's Purse: Target creature "
 "can't attack or block this turn."
 msgstr ""
+"|mana_1|, |tap|, usuń znacznik klejnotu z tego artefaktu: Wskazany stwór nie "
+"może atakować ani blokować w tej turze."
 
 #: ../../KTK.rst:1194
 msgid ""
@@ -3854,12 +3916,11 @@ msgstr ""
 
 # 6b8f395f8398405b8967f87eb87e6bf6
 #: ../../KTK.rst:1193
-#, fuzzy
 msgid ""
 "|mana_2|, Exile Cranial Archive: Target player shuffles their graveyard into "
 "their library. Draw a card."
 msgstr ""
-"|mana_2|, wypędź Cranial Archive: Wskazany gracz wstasowuje swój cmentarz do "
+"|mana_2|, wygnaj ten artefakt: Wskazany gracz wstasowuje swój cmentarz do "
 "swojej biblioteki. Dobierz kartę."
 
 #: ../../KTK.rst:1200
@@ -3871,15 +3932,14 @@ msgstr ""
 
 # 7371fd35a2a94ae39588109dbbeb75e1
 #: ../../KTK.rst:1197
-#, fuzzy
 msgid ""
 "Equipped creature has defender and \"|mana_2|, |tap|: Other creatures you "
 "control gain trample and get +X/+X until end of turn, where X is this "
 "creature's power.\""
 msgstr ""
-"Wyposażony stwór ma Obronność oraz \"|mana_2|, |tap|: Inne stwory, którymi "
-"władasz dostają do końca tury Tratowanie oraz +X/+X, gdzie X jest siłą tego "
-"stwora.\""
+"Wyposażony stwór ma obronność oraz \"|mana_2|, |tap|: Inne stwory pod twoim "
+"władaniem dostają do końca tury tratowanie oraz +X/+X, gdzie X jest siłą "
+"niniejszego stwora.\""
 
 # b68931a4d2e9428ba817330bcf3f2790
 # 3b271cde00e44fb0b24176b7df871bf1
@@ -3901,12 +3961,11 @@ msgstr "Wyposażony stwór dostaje +2/+2."
 
 # 38f67c7bcb844e52bd2f0a721c64d008
 #: ../../KTK.rst:1207
-#, fuzzy
 msgid ""
 "Ghostfire Blade's equip ability costs |mana_2| less to activate if it "
 "targets a colorless creature."
 msgstr ""
-"Koszt wyposażenia Ghostfire Blade jest zmniejszony o |mana_2| jeśli wskazuje "
+"Koszt wyposażenia tego artegaktu jest zmniejszony o |mana_2| jeśli wskazuje "
 "bezkolorowego stwora."
 
 #: ../../KTK.rst:1214
@@ -3922,21 +3981,17 @@ msgid ""
 "Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to "
 "target creature defending player controls."
 msgstr ""
-"Ilekroć wyposażony stwór atakuje, ten artefakt zadaje 1 obrażenie wskazanemu "
-"stworowi władanemu przez broniącego się gracza."
+"Ilekroć wyposażony stwór atakuje, ten artefakt zadaje wskazanemu stworowi "
+"pod władaniem broniącego się gracza 1 obrażenie."
 
 # 871fc612b27a4ed181d9bd6d92d7c22b
 # 15f844a5b0cb495aa5b5043b4af33944
 #: ../../KTK.rst:1213
-#, fuzzy
-#| msgid ""
-#| "Outlast |mana_w| (|mana_w|, |tap|: Put a +1/+1 counter on this creature. "
-#| "Outlast only as a sorcery.)"
 msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Przetrwanie |mana_w| (|mana_w|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Używaj jako obrzęd.)"
 
 #: ../../KTK.rst:1220
@@ -3949,18 +4004,15 @@ msgstr ""
 # 74bdc9072a924cd79405df58fc7482f4
 # b9b0b684da3a4f3591a381a227397fb6
 #: ../../KTK.rst:1217 ../../KTK.rst:1303
-#, fuzzy
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
-msgstr "|tap|: Dodaj |mana_u|, |mana_r| lub |mana_w| do twojej puli many."
+msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
 
 # 98b5b083e0da41ad85200adba7eedd28
 #: ../../KTK.rst:1219
-#, fuzzy
 msgid ""
 "|mana_u|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a card."
 msgstr ""
-"|mana_u|\\ |mana_r|\\ |mana_w|, |tap|, poświęć Sztandar Jeskai'ów: Dobierz "
-"kartę."
+"|mana_u|\\ |mana_r|\\ |mana_w|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../KTK.rst:1224
 msgid ""
@@ -3974,6 +4026,8 @@ msgid ""
 "You may look at the top card of your library and at face-down creatures you "
 "don't control any time."
 msgstr ""
+"Możesz w każdej chwili patrzeć na wierzchnią kartę twojej biblioteki oraz "
+"zakryte stwory poza twoim władaniem."
 
 #: ../../KTK.rst:1230
 msgid ""
@@ -3985,17 +4039,15 @@ msgstr ""
 # 48f640465dc34a8ebd5f6c4ac06e3236
 # a234c7f220834b0b845c2044f5d9b23b
 #: ../../KTK.rst:1227 ../../KTK.rst:1309
-#, fuzzy
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
-msgstr "|tap|: Dodaj |mana_w|, |mana_b|, lub |mana_g| do twojej puli many."
+msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
 
 # e7f80cf5afe642baaa61648df4e8ff4e
 #: ../../KTK.rst:1229
-#, fuzzy
 msgid ""
 "|mana_r|\\ |mana_w|\\ |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a card."
 msgstr ""
-"|mana_r|\\ |mana_w|\\ |mana_b|, |tap|, poświęć Sztandar Mardu: Dobierz kartę."
+"|mana_r|\\ |mana_w|\\ |mana_b|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../KTK.rst:1236
 msgid ""
@@ -4006,18 +4058,15 @@ msgstr ""
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1233 ../../KTK.rst:1315
-#, fuzzy
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
+msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
 
 # 537bd6401c974eab84502fb859178c32
 #: ../../KTK.rst:1235
-#, fuzzy
 msgid ""
 "|mana_b|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a card."
 msgstr ""
-"|mana_b|\\ |mana_g|\\ |mana_u|, |tap|, poświęć Sztandar Sultai'ów: Dobierz "
-"kartę."
+"|mana_b|\\ |mana_g|\\ |mana_u|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../KTK.rst:1242
 msgid ""
@@ -4028,12 +4077,10 @@ msgstr ""
 
 # 68b7430b4fcc4771979611a1d3ab97b1
 #: ../../KTK.rst:1241
-#, fuzzy
 msgid ""
 "|mana_g|\\ |mana_u|\\ |mana_r|, |tap|, Sacrifice Temur Banner: Draw a card."
 msgstr ""
-"|mana_g|\\ |mana_u|\\ |mana_r|, |tap|, poświęć Sztandar Temurów: Dobierz "
-"kartę."
+"|mana_g|\\ |mana_u|\\ |mana_r|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../KTK.rst:1248
 msgid ""
@@ -4047,6 +4094,8 @@ msgstr ""
 msgid ""
 "If a player would begin an extra turn, that player skips that turn instead."
 msgstr ""
+"Jeśli gracz miałby rozpocząć dodatkową turę, zamiast tego ów gracz pomija "
+"ową turę."
 
 # 7fcf4a4382ba4f28a78dfa9b9c76e83a
 #: ../../KTK.rst:1247
@@ -4054,6 +4103,8 @@ msgid ""
 "If Ugin's Nexus would be put into a graveyard from the battlefield, instead "
 "exile it and take an extra turn after this one."
 msgstr ""
+"Jeśli ten artefakt miałby zostać umieszczony w cmentarzu z pola walki, "
+"zamiast tego wygnaj go i weź dodatkową turę po obecnej."
 
 #: ../../KTK.rst:1252
 msgid ""
@@ -4081,12 +4132,12 @@ msgstr ""
 # 9c8e9c32df9745b1a7572a8dcb762ae6
 #: ../../KTK.rst:1255
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 6aee438aa87349108877a43956cb7d94
 #: ../../KTK.rst:1257
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1259
@@ -4102,14 +4153,13 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1263
-#, fuzzy
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a "
 "Swamp or Mountain card, put it onto the battlefield, then shuffle your "
 "library."
 msgstr ""
-"|tap|, zapłać 1 życie, poświęć Flooded Strand: Poszukaj w twojej bibliotece "
-"karty Równiny lub Wyspy i umieść ją na polu walki. Następnie przetasuj twoją "
+"|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Bagna lub Góry i umieść ją na polu walki. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../KTK.rst:1272
@@ -4122,12 +4172,12 @@ msgstr ""
 # 78e3839257e94996bbaa3266f250807c
 #: ../../KTK.rst:1267
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # ad31a86a0c334636aee0a615069cce39
 #: ../../KTK.rst:1269
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1271
@@ -4144,12 +4194,12 @@ msgstr ""
 # cc18ce2c004d43d7aef685f47b24c937
 #: ../../KTK.rst:1275
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # e1de3becc9c743ca8707b10f80fc6576
 #: ../../KTK.rst:1277
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1279
@@ -4165,14 +4215,13 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1283
-#, fuzzy
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a "
 "Plains or Island card, put it onto the battlefield, then shuffle your "
 "library."
 msgstr ""
-"|tap|, zapłać 1 życie, poświęć Flooded Strand: Poszukaj w twojej bibliotece "
-"karty Równiny lub Wyspy i umieść ją na polu walki. Następnie przetasuj twoją "
+"|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Równiny lub Wyspy i umieść ją na polu walki. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../KTK.rst:1290
@@ -4185,7 +4234,7 @@ msgstr ""
 # 106a7899e4ce4dd59f3df6124f6b5bb8
 #: ../../KTK.rst:1287
 msgid "Frontier Bivouac enters the battlefield tapped."
-msgstr "Frontier Bivouac wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../KTK.rst:1298
 msgid ""
@@ -4197,12 +4246,12 @@ msgstr ""
 # cf4d65cabe604c2d8e1b423dfb908e8e
 #: ../../KTK.rst:1293
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 32a10229e69c42268c2e98ca356a4fc2
 #: ../../KTK.rst:1295
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1297
@@ -4219,7 +4268,7 @@ msgstr ""
 # 710bd6ae54114a2285c4e2324d87babf
 #: ../../KTK.rst:1301
 msgid "Mystic Monastery enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../KTK.rst:1310
 msgid ""
@@ -4231,7 +4280,7 @@ msgstr ""
 # abc1431d804e415dada5f69761548c8f
 #: ../../KTK.rst:1307
 msgid "Nomad Outpost enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../KTK.rst:1316
 msgid ""
@@ -4243,7 +4292,7 @@ msgstr ""
 # 2ae8f39a4e3640199b97ab213ea32ea6
 #: ../../KTK.rst:1313
 msgid "Opulent Palace enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../KTK.rst:1320
 msgid ""
@@ -4254,13 +4303,12 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1319
-#, fuzzy
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an "
 "Island or Swamp card, put it onto the battlefield, then shuffle your library."
 msgstr ""
-"|tap|, zapłać 1 życie, poświęć Flooded Strand: Poszukaj w twojej bibliotece "
-"karty Równiny lub Wyspy i umieść ją na polu walki. Następnie przetasuj twoją "
+"|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Wyspy lub Bagien i umieść ją na polu walki. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../KTK.rst:1328
@@ -4273,12 +4321,12 @@ msgstr ""
 # 116c2537dd44424c8ebb8ed32c3289ac
 #: ../../KTK.rst:1323
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # bfae6e27e7094952b99a40a1a256682d
 #: ../../KTK.rst:1325
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1327
@@ -4295,7 +4343,7 @@ msgstr ""
 # 24c0cbb53e6b47bf84d18cb2e5a35505
 #: ../../KTK.rst:1331
 msgid "Sandsteppe Citadel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../KTK.rst:1342
 msgid ""
@@ -4307,12 +4355,12 @@ msgstr ""
 # b4f50f59f559421fb8c4f9ec27a799da
 #: ../../KTK.rst:1337
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 15c7a02bc8a64ccc93ca4cdf5b1b0805
 #: ../../KTK.rst:1339
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1341
@@ -4329,12 +4377,12 @@ msgstr ""
 # 9740c9b88e614b5b98122259701fd8f8
 #: ../../KTK.rst:1345
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # cf85e3dffacc432297868cc04c295e78
 #: ../../KTK.rst:1347
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1349
@@ -4351,7 +4399,7 @@ msgstr ""
 # 2d8cd2e60c4e4f3da213c83eda79fca8
 #: ../../KTK.rst:1353
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 4516f755067e49d29c62df5ceda5d634
 #: ../../KTK.rst:1355
@@ -4379,6 +4427,8 @@ msgstr "|tap|: Weź |colorless|."
 msgid ""
 "|mana_2|, |tap|: You gain 1 life for each colorless creature you control."
 msgstr ""
+"|mana_2|, |tap|: Zyskaj 1 życie za każdego bezkolorowego stwora pod twoim "
+"władaniem."
 
 #: ../../KTK.rst:1372
 msgid ""
@@ -4390,12 +4440,12 @@ msgstr ""
 # 2351124ede7f471db5c7fc79b92553a4
 #: ../../KTK.rst:1367
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 4d796bdcaec44b55874c269a24eb1e94
 #: ../../KTK.rst:1369
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1371
@@ -4412,7 +4462,7 @@ msgstr ""
 # 1da3e9926269454c9524afc38ba0be6d
 #: ../../KTK.rst:1375
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 # 80c306433ff64aa59708c5c58fc1f086
 #: ../../KTK.rst:1377
@@ -4433,14 +4483,13 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1383
-#, fuzzy
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a "
 "Forest or Plains card, put it onto the battlefield, then shuffle your "
 "library."
 msgstr ""
-"|tap|, zapłać 1 życie, poświęć Flooded Strand: Poszukaj w twojej bibliotece "
-"karty Równiny lub Wyspy i umieść ją na polu walki. Następnie przetasuj twoją "
+"|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Lasu lub Równiny i umieść ją na polu walki. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../KTK.rst:1388
@@ -4452,14 +4501,13 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1387
-#, fuzzy
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a "
 "Mountain or Forest card, put it onto the battlefield, then shuffle your "
 "library."
 msgstr ""
-"|tap|, zapłać 1 życie, poświęć Flooded Strand: Poszukaj w twojej bibliotece "
-"karty Równiny lub Wyspy i umieść ją na polu walki. Następnie przetasuj twoją "
+"|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece karty "
+"Góry lub Lasu i umieść ją na polu walki. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../KTK.rst:1392

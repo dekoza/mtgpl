@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-22 18:28+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mh1/"
 "pl/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../MH1.rst:5
 msgid ":mtgexp:`MH1` Modern Horizons"
@@ -2548,16 +2548,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:799
-#, fuzzy
-#| msgid ""
-#| "Delve (Each spell you exile from your graveyard while casting this spell "
-#| "pays for |mana_1|)"
 msgid ""
 "Delve (Each card you exile from your graveyard while casting this spell pays "
 "for |mana_1|.)"
 msgstr ""
 "Wykopywanie (Każda karta, którą wygnasz z twojego cmentarza podczas rzucania "
-"tego czaru opłaca {1}.)"
+"tego czaru opłaca |mana_1|.)"
 
 #: ../../MH1.rst:801
 msgid "Magmatic Sinkhole deals 5 damage to target creature or planeswalker."

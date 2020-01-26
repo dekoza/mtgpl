@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 16:04+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -505,7 +505,7 @@ msgstr "Wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../C16.rst:171
 msgid "You gain 5 life."
-msgstr "Zyskujesz 5 żyć."
+msgstr "Zyskaj 5 żyć."
 
 #: ../../C16.rst:178
 msgid ""
@@ -956,7 +956,7 @@ msgstr ""
 
 #: ../../C16.rst:359
 msgid "Each creature you control with a +1/+1 counter on it has flying."
-msgstr ""
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma latanie."
 
 #: ../../C16.rst:366
 msgid ""
@@ -1449,7 +1449,7 @@ msgstr ""
 
 #: ../../C16.rst:525
 msgid "Counter target spell with converted mana cost 4 or greater."
-msgstr ""
+msgstr "Skontruj wskazany czar o skróconym koszcie many 4 lub większym."
 
 #: ../../C16.rst:530
 msgid ""
@@ -2491,6 +2491,8 @@ msgid ""
 "If one or more +1/+1 counters would be put on a creature you control, that "
 "many plus one +1/+1 counters are put on it instead."
 msgstr ""
+"Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać umieszczonych na "
+"stworze pod twoim władaniem, zamiast tego umieść ich o jeden więcej."
 
 #: ../../C16.rst:872
 msgid ""
@@ -2877,15 +2879,16 @@ msgstr ""
 
 #: ../../C16.rst:995
 msgid "Exile target creature with power 3 or greater."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora o sile 3 lub większej."
 
 #: ../../C16.rst:997
 msgid "You draw two cards and you lose 2 life."
-msgstr ""
+msgstr "Dobierz dwie karty i strać 2 życia."
 
 #: ../../C16.rst:999
 msgid "Distribute two +1/+1 counters among one or two target creatures."
 msgstr ""
+"Rozmieść dwa znaczniki +1/+1 pomiędzy jednym lub dwoma wskazanymi stworami."
 
 #: ../../C16.rst:1006
 msgid ""
@@ -2899,6 +2902,8 @@ msgid ""
 "Whenever Ankle Shanker attacks, creatures you control gain first strike and "
 "deathtouch until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, stwory pod twoim władaniem do końca tury zyskują "
+"pierwszy cios i dotyk śmierci."
 
 #: ../../C16.rst:1010
 msgid ""
@@ -3112,6 +3117,8 @@ msgid ""
 "Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a "
 "creature with the greatest power among creatures that player controls."
 msgstr ""
+"Ten czar zadaje każdemu przeciwnikowi po 2 obrażenia. Każdy przeciwnik "
+"poświęca stwora o największej sile spośród stworów pod swoim władaniem."
 
 #: ../../C16.rst:1086
 msgid ""
@@ -3148,7 +3155,7 @@ msgstr ""
 
 #: ../../C16.rst:1093
 msgid "Choose up to one creature. Destroy the rest."
-msgstr ""
+msgstr "Wybierz co najwyżej jednego stwora. Zniszcz pozostałe."
 
 #: ../../C16.rst:1098
 msgid ""
@@ -3677,7 +3684,7 @@ msgstr ""
 
 #: ../../C16.rst:1283
 msgid "Exile target nonland permanent."
-msgstr ""
+msgstr "Wygnaj wskazany nielądowy permanent."
 
 #: ../../C16.rst:1288
 msgid ""
@@ -4675,11 +4682,11 @@ msgstr ""
 
 #: ../../C16.rst:1663
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1665
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C16.rst:1667
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4763,11 +4770,11 @@ msgstr ""
 
 #: ../../C16.rst:1699
 msgid "Frontier Bivouac enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1701
 msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|, |mana_u|, or |mana_r|."
 
 #: ../../C16.rst:1710
 msgid ""
@@ -4872,11 +4879,11 @@ msgstr ""
 
 #: ../../C16.rst:1743
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1745
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C16.rst:1747
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4995,11 +5002,11 @@ msgstr ""
 
 #: ../../C16.rst:1795
 msgid "Mystic Monastery enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1797
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
 
 #: ../../C16.rst:1804
 msgid ""
@@ -5010,11 +5017,11 @@ msgstr ""
 
 #: ../../C16.rst:1801
 msgid "Nomad Outpost enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1803
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
 
 #: ../../C16.rst:1810
 msgid ""
@@ -5040,11 +5047,11 @@ msgstr ""
 
 #: ../../C16.rst:1813
 msgid "Opulent Palace enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1815
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
 
 #: ../../C16.rst:1824
 msgid ""
@@ -5123,11 +5130,11 @@ msgstr ""
 
 #: ../../C16.rst:1847
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1849
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C16.rst:1860
 msgid ""
@@ -5155,11 +5162,11 @@ msgstr ""
 
 #: ../../C16.rst:1863
 msgid "Sandsteppe Citadel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1865
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
 #: ../../C16.rst:1872
 msgid ""
@@ -5311,11 +5318,11 @@ msgstr ""
 
 #: ../../C16.rst:1925
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1927
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C16.rst:1929
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -5356,7 +5363,7 @@ msgstr ""
 
 #: ../../C16.rst:1941
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1943
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."

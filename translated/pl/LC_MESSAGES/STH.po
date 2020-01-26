@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/sth/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../STH.rst:5
@@ -1464,6 +1464,7 @@ msgstr ""
 #: ../../STH.rst:539
 msgid "Distribute two +1/+1 counters among one or two target creatures."
 msgstr ""
+"Rozmieść dwa znaczniki +1/+1 pomiędzy jednym lub dwoma wskazanymi stworami."
 
 #: ../../STH.rst:544
 msgid ""

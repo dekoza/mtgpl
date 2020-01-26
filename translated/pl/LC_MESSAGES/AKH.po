@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-21 22:52+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/akh/"
 "pl/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AKH.rst:5
@@ -1943,7 +1943,7 @@ msgstr ""
 msgid ""
 "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
-"Przywróć co najwyżej dwie wskazany karty stworów z twojego cmentarza do "
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
 "twojej ręki."
 
 #: ../../AKH.rst:644
@@ -2440,8 +2440,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
-"do końca tury.)"
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
+"końca tury +1/+1.)"
 
 #: ../../AKH.rst:798
 msgid ""
@@ -2465,7 +2465,7 @@ msgstr ""
 
 #: ../../AKH.rst:801
 msgid "Attacking creatures get +2/+0 until end of turn."
-msgstr "Atakujące stwory dostają +2/+0 do końca tury."
+msgstr "Atakujące stwory dostają do końca tury +2/+0."
 
 #: ../../AKH.rst:810
 msgid ""
@@ -2958,7 +2958,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../AKH.rst:975
 msgid "Creature spells you control can't be countered."
-msgstr "Władane przez ciebie czary stworów nie mogą być skontrowane."
+msgstr "Czary stworów pod twoim władaniem nie mogą być skontrowane."
 
 #: ../../AKH.rst:980
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m19/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../M19.rst:5
 msgid ":mtgexp:`M19` Core Set 2019"
@@ -2073,8 +2073,8 @@ msgid ""
 "When you cast your next instant or sorcery spell this turn, copy that spell. "
 "You may choose new targets for the copy."
 msgstr ""
-"Kiedy będziesz rzucać następny czar sztuczki lub obrzędu w tej turze, "
-"skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
+"Kiedy rzucisz następny czar sztuczki lub obrzędu w tej turze, skopiuj ów "
+"czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../M19.rst:692
 msgid ""
@@ -2466,7 +2466,7 @@ msgstr ""
 
 #: ../../M19.rst:827
 msgid "Attacking creatures get +2/+0 until end of turn."
-msgstr "Atakujące stwory dostają +2/+0 do końca tury."
+msgstr "Atakujące stwory dostają do końca tury +2/+0."
 
 #: ../../M19.rst:832
 msgid ""
@@ -2767,7 +2767,7 @@ msgstr ""
 
 #: ../../M19.rst:933
 msgid "When Highland Game dies, you gain 2 life."
-msgstr "Kiedy ten stwór umrze, zyskujesz 2 życia."
+msgstr "Kiedy ten stwór umrze, zyskaj 2 życia."
 
 #: ../../M19.rst:942
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m20/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../M20.rst:5
 msgid ":mtgexp:`M20` Core Set 2020"
@@ -1891,7 +1891,7 @@ msgstr ""
 msgid ""
 "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
-"Przywróć co najwyżej dwie wskazany karty stworów z twojego cmentarza do "
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
 "twojej ręki."
 
 #: ../../M20.rst:628
@@ -3805,8 +3805,8 @@ msgid ""
 "Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to "
 "target creature defending player controls."
 msgstr ""
-"Ilekroć wyposażony stwór atakuje, ten artefakt zadaje 1 obrażenie wskazanemu "
-"stworowi władanemu przez broniącego się gracza."
+"Ilekroć wyposażony stwór atakuje, ten artefakt zadaje wskazanemu stworowi "
+"pod władaniem broniącego się gracza 1 obrażenie."
 
 #: ../../M20.rst:1254
 msgid ""
@@ -4024,11 +4024,11 @@ msgstr ""
 
 #: ../../M20.rst:1317
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1319
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M20.rst:1321
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4043,11 +4043,11 @@ msgstr ""
 
 #: ../../M20.rst:1325
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1327
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M20.rst:1329
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -4081,11 +4081,11 @@ msgstr ""
 
 #: ../../M20.rst:1339
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1341
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M20.rst:1343
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4136,11 +4136,11 @@ msgstr ""
 
 #: ../../M20.rst:1359
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1361
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M20.rst:1363 ../../M20.rst:1413
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4178,11 +4178,11 @@ msgstr ""
 
 #: ../../M20.rst:1377
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1379
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M20.rst:1381
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4197,11 +4197,11 @@ msgstr ""
 
 #: ../../M20.rst:1385
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1387
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M20.rst:1389 ../../M20.rst:1429
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -4216,11 +4216,11 @@ msgstr ""
 
 #: ../../M20.rst:1393
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1395
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M20.rst:1397 ../../M20.rst:1405
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4318,7 +4318,7 @@ msgstr ""
 
 #: ../../M20.rst:1441
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1443
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
@@ -4333,11 +4333,11 @@ msgstr ""
 
 #: ../../M20.rst:1449
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1451
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M20.rst:1453
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4352,7 +4352,7 @@ msgstr ""
 
 #: ../../M20.rst:1457
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M20.rst:1459
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."

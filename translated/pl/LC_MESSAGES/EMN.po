@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 00:28+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -430,7 +430,7 @@ msgstr ""
 
 #: ../../EMN.rst:139
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../EMN.rst:141
 msgid "Destroy target enchantment."
@@ -978,6 +978,9 @@ msgid ""
 "Look at the top five cards of your library. Put any number of them into your "
 "graveyard and the rest back on top of your library in any order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść dowolne z nich w "
+"twoim cmentarzu, a pozostałe z powrotem na wierzchu twojej biblioteki w "
+"dowolnej kolejności."
 
 #: ../../EMN.rst:334
 msgid ""
@@ -1022,8 +1025,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
-"do końca tury.)"
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
+"końca tury +1/+1.)"
 
 #: ../../EMN.rst:345
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
@@ -1853,7 +1856,7 @@ msgstr ""
 
 #: ../../EMN.rst:655
 msgid "You draw two cards and you lose 2 life."
-msgstr ""
+msgstr "Dobierz dwie karty i strać 2 życia."
 
 #: ../../EMN.rst:660
 msgid ""
@@ -3176,6 +3179,8 @@ msgid ""
 "Destroy target blocking creature. Creatures that were blocked by that "
 "creature this combat gain trample until end of turn."
 msgstr ""
+"Zniszcz wskazanego blokującego stwora. Stwory blokowane w tej walce przez "
+"owego stwora zyskują tratowanie do końca tury."
 
 #: ../../EMN.rst:1162
 msgid ""

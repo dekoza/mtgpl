@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 00:28+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -2774,6 +2774,8 @@ msgid ""
 "Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a "
 "creature with the greatest power among creatures that player controls."
 msgstr ""
+"Ten czar zadaje każdemu przeciwnikowi po 2 obrażenia. Każdy przeciwnik "
+"poświęca stwora o największej sile spośród stworów pod swoim władaniem."
 
 #: ../../C17.rst:962
 msgid ""
@@ -3890,11 +3892,11 @@ msgstr ""
 
 #: ../../C17.rst:1389
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1391
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C17.rst:1402
 msgid ""
@@ -3905,11 +3907,11 @@ msgstr ""
 
 #: ../../C17.rst:1397
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1399
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C17.rst:1401 ../../C17.rst:1469 ../../C17.rst:1503 ../../C17.rst:1683
 #: ../../C17.rst:1697 ../../C17.rst:1727
@@ -4063,11 +4065,11 @@ msgstr ""
 
 #: ../../C17.rst:1459
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1461
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C17.rst:1463 ../../C17.rst:1539
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4130,11 +4132,11 @@ msgstr ""
 
 #: ../../C17.rst:1487
 msgid "Frontier Bivouac enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1489
 msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|, |mana_u|, or |mana_r|."
 
 #: ../../C17.rst:1496
 msgid ""
@@ -4342,11 +4344,11 @@ msgstr ""
 
 #: ../../C17.rst:1575
 msgid "Mystic Monastery enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1577
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
 
 #: ../../C17.rst:1584
 msgid ""
@@ -4371,11 +4373,11 @@ msgstr ""
 
 #: ../../C17.rst:1587
 msgid "Nomad Outpost enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1589
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
 
 #: ../../C17.rst:1596
 msgid ""
@@ -4401,11 +4403,11 @@ msgstr ""
 
 #: ../../C17.rst:1599
 msgid "Opulent Palace enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1601
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
 
 #: ../../C17.rst:1610
 msgid ""
@@ -4510,11 +4512,11 @@ msgstr ""
 
 #: ../../C17.rst:1647
 msgid "Sandsteppe Citadel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1649
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
 #: ../../C17.rst:1656
 msgid ""
@@ -4540,11 +4542,11 @@ msgstr ""
 
 #: ../../C17.rst:1659
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1661
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C17.rst:1670
 msgid ""
@@ -4647,11 +4649,11 @@ msgstr ""
 
 #: ../../C17.rst:1709
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1711
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskujesz 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../C17.rst:1713
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4822,7 +4824,7 @@ msgstr ""
 
 #: ../../C17.rst:1785
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C17.rst:1787
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."

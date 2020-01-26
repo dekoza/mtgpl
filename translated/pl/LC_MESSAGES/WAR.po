@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/war/"
 "pl/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../../WAR.rst:5
 msgid ":mtgexp:`WAR` War of the Spark"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: ../../WAR.rst:53
 msgid "Target creature gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje +1/+0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +1/+0."
 
 #: ../../WAR.rst:55 ../../WAR.rst:187 ../../WAR.rst:245 ../../WAR.rst:599
 msgid "Draw a card."

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 16:04+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/cn2/"
 "pl/>\n"
@@ -1668,7 +1668,7 @@ msgstr ""
 
 #: ../../CN2.rst:573
 msgid "Destroy target attacking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora."
 
 #: ../../CN2.rst:580
 msgid ""
@@ -2407,6 +2407,8 @@ msgid ""
 "Burn Away deals 6 damage to target creature. When that creature dies this "
 "turn, exile all cards from its controller's graveyard."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 6 obrażeń. Kiedy ten stwór umrze w tej "
+"turze, wygnaj wszystkie karty z cmentarza jego władcy."
 
 #: ../../CN2.rst:868
 msgid ""
@@ -2702,7 +2704,7 @@ msgstr ""
 
 #: ../../CN2.rst:963
 msgid "Attacking creatures get +2/+0 until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają do końca tury +2/+0."
 
 #: ../../CN2.rst:968
 msgid ""

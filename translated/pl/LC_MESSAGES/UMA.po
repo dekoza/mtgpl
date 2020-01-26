@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/uma/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../UMA.rst:5
@@ -499,8 +499,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
-"do końca tury.)"
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
+"końca tury +1/+1.)"
 
 #: ../../UMA.rst:157
 msgid ""
@@ -964,7 +964,7 @@ msgid ""
 "and the rest on the bottom of your library in any order."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść dwie z nich w "
-"twojej ręce, a pozostałe w dowolnej kolejności na spodzie twojej biblioteki."
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../UMA.rst:308
 msgid ""
@@ -2575,7 +2575,7 @@ msgstr ""
 
 #: ../../UMA.rst:861
 msgid "Target creature gets +6/+6 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +6/+6."
 
 #: ../../UMA.rst:870
 msgid ""

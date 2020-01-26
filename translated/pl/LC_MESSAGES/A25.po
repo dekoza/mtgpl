@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 00:29+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/a25/"
 "pl/>\n"
@@ -303,6 +303,8 @@ msgid ""
 "Morph |mana_3|\\ |mana_w|\\ |mana_w| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_3|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę zakrytą za "
+"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:93
 msgid ""
@@ -853,11 +855,15 @@ msgid ""
 "Morph—Reveal a blue card in your hand. (You may cast this card face down as "
 "a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana—Ujawnij niebieską kartę z twojej ręki. (Możesz rzucić tę kartę "
+"zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"przemiany.)"
 
 #: ../../A25.rst:285
 msgid ""
 "When Dragon's Eye Savants is turned face up, look at target opponent's hand."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, spójrz na rękę wskazanego przeciwnika."
 
 #: ../../A25.rst:292
 msgid ""
@@ -1057,13 +1063,15 @@ msgstr ""
 
 #: ../../A25.rst:359
 msgid "Mystic of the Hidden Way can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../A25.rst:361
 msgid ""
 "Morph |mana_2|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:368
 msgid ""
@@ -1640,10 +1648,13 @@ msgid ""
 "Morph—Reveal a black card in your hand. (You may cast this card face down as "
 "a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana—Ujawnij czarną kartę z twojej ręki. (Możesz rzucić tę kartę "
+"zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"przemiany.)"
 
 #: ../../A25.rst:571
 msgid "When Ruthless Ripper is turned face up, target player loses 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, wskazany gracz traci 2 życia."
 
 #: ../../A25.rst:578
 msgid ""
@@ -2077,7 +2088,7 @@ msgstr ""
 
 #: ../../A25.rst:711
 msgid "Create three 1/1 red Goblin creature tokens."
-msgstr ""
+msgstr "Stwórz trzy żetony czerwonego stwora Gobiln 1/1."
 
 #: ../../A25.rst:716
 msgid ""
@@ -2309,6 +2320,8 @@ msgid ""
 "Morph |mana_2|\\ |mana_r| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2|\\ |mana_r| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:796
 msgid ""
@@ -2358,7 +2371,7 @@ msgstr ""
 
 #: ../../A25.rst:807
 msgid "Attacking creatures get +2/+0 until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają do końca tury +2/+0."
 
 #: ../../A25.rst:812
 msgid ""
@@ -2956,6 +2969,8 @@ msgid ""
 "Morph |mana_5|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_5|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:1020
 msgid ""
@@ -3774,3 +3789,5 @@ msgid ""
 "Morph |mana_2| (You may cast this card face down as a 2/2 creature for |"
 "mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/"
+"2. Odkryj ją w dowolnym momencie za koszt przemiany.)"

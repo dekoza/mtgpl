@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 16:04+0000\n"
+"PO-Revision-Date: 2020-01-26 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ima/"
 "pl/>\n"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: ../../IMA.rst:15
 msgid "Each creature you control with a +1/+1 counter on it has lifelink."
-msgstr ""
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma więź życia."
 
 #: ../../IMA.rst:22
 msgid ""
@@ -72,7 +72,7 @@ msgstr ""
 
 #: ../../IMA.rst:21
 msgid "Each creature you control with a +1/+1 counter on it has flying."
-msgstr ""
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma latanie."
 
 #: ../../IMA.rst:28
 msgid ""
@@ -92,6 +92,7 @@ msgstr ""
 #: ../../IMA.rst:27
 msgid "Each creature you control with a +1/+1 counter on it has first strike."
 msgstr ""
+"Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma pierwszy cios."
 
 #: ../../IMA.rst:32
 msgid ""
@@ -297,8 +298,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
-"do końca tury.)"
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
+"końca tury +1/+1.)"
 
 #: ../../IMA.rst:112
 msgid ""
@@ -497,6 +498,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Seeker of the Way gains lifelink "
 "until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, ten stwór zyskuje więź życia do "
+"końca tury."
 
 #: ../../IMA.rst:184
 msgid ""
@@ -1440,7 +1443,7 @@ msgstr ""
 
 #: ../../IMA.rst:547
 msgid "Each creature you control with a +1/+1 counter on it has deathtouch."
-msgstr ""
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma dotyk śmierci."
 
 #: ../../IMA.rst:556
 msgid ""
@@ -2194,7 +2197,7 @@ msgstr ""
 
 #: ../../IMA.rst:837
 msgid "Attacking creatures get +2/+0 until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają do końca tury +2/+0."
 
 #: ../../IMA.rst:844
 msgid ""
@@ -2722,6 +2725,8 @@ msgid ""
 "Whenever a creature you control with toughness 4 or greater dies, you gain 4 "
 "life."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem o wytrzymałości 4 lub większej, "
+"zyskaj 4 życia."
 
 #: ../../IMA.rst:1026
 msgid ""
