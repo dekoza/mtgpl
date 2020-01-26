@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-24 14:58+0000\n"
+"PO-Revision-Date: 2020-01-26 14:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ala/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../ALA.rst:5
@@ -81,7 +81,7 @@ msgstr ""
 #: ../../ALA.rst:23
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
 #: ../../ALA.rst:25 ../../ALA.rst:167 ../../ALA.rst:299 ../../ALA.rst:479
 #: ../../ALA.rst:581 ../../ALA.rst:631 ../../ALA.rst:693 ../../ALA.rst:761
@@ -2441,7 +2441,7 @@ msgstr ""
 
 #: ../../ALA.rst:909
 msgid "Flying, trample, haste"
-msgstr ""
+msgstr "Latanie, tratowanie, pośpiech"
 
 #: ../../ALA.rst:911
 msgid "|mana_r|: Hellkite Overlord gets +1/+0 until end of turn."

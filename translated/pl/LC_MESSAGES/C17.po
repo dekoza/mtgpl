@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 13:33+0000\n"
+"PO-Revision-Date: 2020-01-26 14:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -933,7 +933,7 @@ msgstr ""
 
 #: ../../C17.rst:323 ../../C17.rst:1245 ../../C17.rst:1259
 msgid "Equip |mana_4|"
-msgstr ""
+msgstr "Wyposaż |mana_4|"
 
 #: ../../C17.rst:332
 msgid ""
@@ -1531,7 +1531,7 @@ msgid ""
 "Khans — At the beginning of your draw step, draw an additional card, then "
 "discard a card."
 msgstr ""
-"Chanowie — Na początku twojego kroku dobierania dobierz dodatkową kartę, a "
+"Chanowie — Na początku twojego kroku dobierania dobierz dodatkową kartę, "
 "następnie odrzuć kartę."
 
 #: ../../C17.rst:523
@@ -1539,6 +1539,8 @@ msgid ""
 "Dragons — Spells your opponents cast that target you or a permanent you "
 "control cost |mana_2| more to cast."
 msgstr ""
+"Smoki — Rzucanie czarów wskazujących ciebie lub permanent pod twoim "
+"władaniem kosztuje twoich przeciwników o |mana_2| więcej."
 
 #: ../../C17.rst:528
 msgid ""
@@ -1578,6 +1580,10 @@ msgid ""
 "battlefield face down as a 2/2 creature. If it's a creature card, it can be "
 "turned face up any time for its mana cost.)"
 msgstr ""
+"Wygnaj wskazanego stwora. Jego władca objawia wierzchnią kartę swojej "
+"biblioteki. (Ów gracz umieszcza wierzchnią kartę swojej biblioteki zakrytą "
+"na polu walki jako stwora 2/2. Jeśli jest to karta stwora, może być odkryta "
+"w dowolnym momencie za jej koszt many.)"
 
 #: ../../C17.rst:540
 msgid ""
@@ -1823,11 +1829,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../C17.rst:617
 msgid "Destroy all Dragon creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory będące Smokami."
 
 #: ../../C17.rst:619
 msgid "Destroy all non-Dragon creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory nie będące Smokami."
 
 #: ../../C17.rst:624
 msgid ""
@@ -2017,7 +2023,7 @@ msgid ""
 "you gain 2 life."
 msgstr ""
 "Smoki — Z początkiem twojego kroku utrzymania każdy przeciwnik traci po 2 "
-"życia a ty zyskujesz 2 życia."
+"życia a ty zyskaj 2 życia."
 
 #: ../../C17.rst:690
 msgid ""
@@ -2331,8 +2337,8 @@ msgid ""
 "Dragons — Whenever a creature you control leaves the battlefield, Outpost "
 "Siege deals 1 damage to any target."
 msgstr ""
-"Smoki — Ilekroć stwór pod twoim władaniem opuszcza pole walki, ten urok "
-"zadaje wskazanemu celowi 1 obrażenie."
+"Smoki — Ilekroć stwór pod twoim władaniem opuści pole walki, ten urok zadaje "
+"wskazanemu celowi 1 obrażenie."
 
 #: ../../C17.rst:802
 msgid ""
@@ -2639,6 +2645,9 @@ msgid ""
 "owner's hand. If you do, Temur Sabertooth gains indestructible until end of "
 "turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Możesz przywrócić innego wskazanego stwora pod twoim "
+"władaniem do ręki właściciela. Jeśli tak zrobisz, niniejszy stwór zyskuje "
+"niezniszczalność do końca tury."
 
 #: ../../C17.rst:912
 msgid ""
@@ -2819,9 +2828,9 @@ msgid ""
 "the least toughness among creatures you control and put two +1/+1 counters "
 "on it.)"
 msgstr ""
-"Ilekroć atakuje Smok pod twoim władaniem, wesprzyj 2. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim dwa znaczniki +1/+1.)"
+"Ilekroć Smok pod twoim władaniem atakuje, wesprzyj 2. (Wybierz stwora z "
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim dwa znaczniki +1/+1.)"
 
 #: ../../C17.rst:984
 msgid ""
@@ -3570,7 +3579,7 @@ msgstr ""
 
 #: ../../C17.rst:1255
 msgid "Equipped creature gets +3/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+2."
 
 #: ../../C17.rst:1257
 msgid ""

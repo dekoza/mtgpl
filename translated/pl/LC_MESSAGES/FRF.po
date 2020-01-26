@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 13:33+0000\n"
+"PO-Revision-Date: 2020-01-26 14:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/frf/"
 "pl/>\n"
@@ -44,7 +44,7 @@ msgid ""
 "−X: Exile each permanent with converted mana cost X or less that's one or "
 "more colors."
 msgstr ""
-"–X: Wygnaj każdy permanent o skróconym koszcie many X lub mniejszym, mający "
+"–X: Wygnaj każdy permanent o skróconym koszcie many X lub mniejszym mający "
 "przynajmniej jeden kolor."
 
 # 119a7a98bdf142bb876c9f024448e1ae
@@ -53,7 +53,7 @@ msgid ""
 "−10: You gain 7 life, draw seven cards, then put up to seven permanent cards "
 "from your hand onto the battlefield."
 msgstr ""
-"–10: Zyskujesz 7 żyć, dobierz siedem kart, następnie umieść na polu walki co "
+"–10: Zyskaj 7 żyć, dobierz siedem kart, następnie umieść na polu walki co "
 "najwyżej siedem kart permanentów z twojej ręki."
 
 #: ../../FRF.rst:18
@@ -71,8 +71,8 @@ msgid ""
 "it.)"
 msgstr ""
 "Wskazany gracz poświęca urok. Wesprzyj 1. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród władanych przez ciebie stworów i umieść na nim "
-"znacznik +1/+1.)"
+"wytrzymałością spośród stworów pod twoim władaniem i umieść na nim znacznik +"
+"1/+1.)"
 
 #: ../../FRF.rst:26
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "Enchanted creature has vigilance as long as you control a black or green "
 "permanent."
 msgstr ""
-"Zauroczony stwór ma Czujność dopóki władasz czarnym lub zielonym permanentem."
+"Zauroczony stwór ma czujność o ile władasz czarnym lub zielonym permanentem."
 
 #: ../../FRF.rst:32
 msgid ""
@@ -146,7 +146,7 @@ msgid ""
 "toughness among creatures you control and put two +1/+1 counters on it.)"
 msgstr ""
 "Kiedy ten stwór umrze, wesprzyj 2. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród władanych przez ciebie stworów i umieść na nim dwa "
+"wytrzymałością spośród stworów pod twoim władaniem i umieść na nim dwa "
 "znaczniki +1/+1.)"
 
 #: ../../FRF.rst:36
@@ -159,7 +159,7 @@ msgstr ""
 # d9b3abc9e3934f9b9ffbbcae1b4dc963
 #: ../../FRF.rst:35
 msgid "When Arashin Cleric enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../FRF.rst:40
 msgid ""
@@ -182,8 +182,8 @@ msgid ""
 "this turn by sources you don't control. If damage is prevented this way, you "
 "may have Channel Harm deal that much damage to target creature."
 msgstr ""
-"Zażegnaj wszystkie obrażenia, które mogłyby zostać w tej turze zadane tobie "
-"lub permanentom pod twoim władaniem przez źródła poza twoim władaniem Jeśli "
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać w tej turze zadane tobie "
+"lub permanentom pod twoim władaniem przez źródła poza twoim władaniem. Jeśli "
 "obrażenia zostaną zażegnane w ten sposób, możesz sprawić, by ten czar zadał "
 "tyle samo obrażeń wskazanemu stworowi."
 
@@ -214,7 +214,7 @@ msgid ""
 "Dragons — At the beginning of combat on each opponent's turn, tap target "
 "creature that player controls."
 msgstr ""
-"Smoki — Z początkiem walki w turze każdego z przeciwników, przekręć "
+"Smoki — Na początku walki w turze każdego z przeciwników, przekręć "
 "wskazanego stwora pod władaniem owego gracza."
 
 #: ../../FRF.rst:60
@@ -234,7 +234,7 @@ msgstr "Czujność"
 #: ../../FRF.rst:57
 msgid ""
 "Daghatar the Adamant enters the battlefield with four +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki z czterema znacznikami +1/+1."
+msgstr "Ten stwór wchodzi na pole walki mając cztery znaczniki +1/+1."
 
 # cbcc383db25c4ad4a9236d947a72c854
 #: ../../FRF.rst:59
@@ -285,7 +285,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku końcowego wesprzyj X, gdzie X jest liczbą "
 "przekręconych stworów pod twoim władaniem. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród władanych przez ciebie stworów i umieść na nim X "
+"wytrzymałością spośród stworów pod twoim władaniem i umieść na nim X "
 "znaczników +1/+1.)"
 
 #: ../../FRF.rst:76
@@ -303,8 +303,8 @@ msgid ""
 "counters on it.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim dwa znaczniki +1/+1.)"
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim dwa znaczniki +1/+1.)"
 
 # 3ac97b7b3677491895b405bfc36cca61
 #: ../../FRF.rst:75
@@ -312,8 +312,8 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it attacks, tap "
 "target creature defending player controls."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 zaatakuje, przekręć "
-"wskazanego stwora władanego przez broniącego się gracza."
+"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 atakuje, przekręć "
+"wskazanego stwora pod władaniem broniącego się gracza."
 
 #: ../../FRF.rst:78
 msgid ""
@@ -335,8 +335,8 @@ msgid ""
 "You gain 4 life. Bolster 2. (Choose a creature with the least toughness "
 "among creatures you control and put two +1/+1 counters on it.)"
 msgstr ""
-"Zyskujesz 4 życia. Wesprzyj 2. (Wybierz stwora z najmniejszą wytrzymałością "
-"spośród władanych przez ciebie stworów i umieść na nim dwa znaczniki +1/+1.)"
+"Zyskaj 4 życia. Wesprzyj 2. (Wybierz stwora z najmniejszą wytrzymałością "
+"spośród stworów pod twoim władaniem i umieść na nim dwa znaczniki +1/+1.)"
 
 #: ../../FRF.rst:92
 msgid ""
@@ -423,7 +423,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór lub inny Wojownik wejdzie na pole walki pod twoim "
 "władaniem, możesz wygnać wskazaną kartę stwora z cmentarza. Jeśli tak "
-"zrobisz, zyskujesz 1 życie."
+"zrobisz, zyskaj 1 życie."
 
 #: ../../FRF.rst:114
 msgid ""
@@ -438,7 +438,7 @@ msgid ""
 "Whenever a permanent you control is turned face up, you gain 1 life for each "
 "creature you control."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem zostaje odkryty, zyskujesz 1 życie za "
+"Ilekroć permanent pod twoim władaniem zostanie odkryty, zyskaj 1 życie za "
 "każdego stwora pod twoim władaniem."
 
 # 5a653eeea4764dec870ba0a41d223d71
@@ -501,9 +501,9 @@ msgid ""
 "graveyard to the battlefield. Exile those creatures at the beginning of your "
 "next upkeep. Exile Rally the Ancestors."
 msgstr ""
-"Zwróć każdą kartę stwora o skróconym koszcie many X lub mniejszym z twojego "
-"cmentarza na pole walki. Wygnaj owe stwory na początku twojego najbliższego "
-"kroku utrzymania. Wygnaj niniejszą kartę."
+"Przywróć każdą kartę stwora o skróconym koszcie many X lub mniejszym z "
+"twojego cmentarza na pole walki. Wygnaj owe stwory na początku twojego "
+"najbliższego kroku utrzymania. Wygnaj niniejszy czar."
 
 #: ../../FRF.rst:138
 msgid ""
@@ -518,8 +518,8 @@ msgid ""
 "When Sage's Reverie enters the battlefield, draw a card for each Aura you "
 "control that's attached to a creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz tyle kart, ile masz "
-"dołączonych do stworów Aur pod twoim władaniem."
+"Kiedy ten stwór wejdzie na pole walki, dobierz tyle kart, ile masz Aur pod "
+"twoim władaniem dołączonych do stworów."
 
 # 3bd6d4b5988b4ce18f5dbd2ffc3f1a8a
 #: ../../FRF.rst:137
@@ -527,8 +527,8 @@ msgid ""
 "Enchanted creature gets +1/+1 for each Aura you control that's attached to a "
 "creature."
 msgstr ""
-"Zauroczony stwór dostaje +1/+1 za każdą  dołączoną do stwora Aurę pod twoim "
-"władaniem."
+"Zauroczony stwór dostaje +1/+1 za każdą Aurę pod twoim władaniem dołączoną "
+"do stwora."
 
 #: ../../FRF.rst:142
 msgid ""
@@ -541,7 +541,7 @@ msgstr ""
 #: ../../FRF.rst:141
 msgid "Sandblast deals 5 damage to target attacking or blocking creature."
 msgstr ""
-"Ten czar zadaje 5 obrażeń wskazanemu atakującemu lub blokującemu stworowi."
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 5 obrażeń."
 
 #: ../../FRF.rst:150
 msgid ""
@@ -651,7 +651,7 @@ msgid ""
 "Whenever Wandering Champion deals combat damage to a player, if you control "
 "a blue or red permanent, you may discard a card. If you do, draw a card."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bitewne, jeśli władasz niebieskim "
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli władasz niebieskim "
 "lub czerwonym permanentem, możesz odrzucić kartę. Jeśli to zrobisz, dobierz "
 "kartę."
 
@@ -757,7 +757,7 @@ msgstr ""
 #: ../../FRF.rst:211
 msgid ""
 "When Frost Walker becomes the target of a spell or ability, sacrifice it."
-msgstr "Kiedy ten stwór zostaje celem czaru lub zdolności, poświęć go."
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolności, poświęć go."
 
 #: ../../FRF.rst:218
 msgid ""
@@ -858,7 +858,7 @@ msgid ""
 "Whenever Mindscour Dragon deals combat damage to an opponent, target player "
 "puts the top four cards of their library into their graveyard."
 msgstr ""
-"Ilekroć ten stwór zada przeciwnikowi obrażenia bitewne, ów gracz umieszcza "
+"Ilekroć ten stwór zada przeciwnikowi obrażenia bojowe, ów gracz umieszcza "
 "cztery wierzchnie karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../FRF.rst:256
@@ -874,7 +874,7 @@ msgid ""
 "Whenever you cast a noncreature spell, target creature gains flying until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, wskazany stwór zyskuje latanie do "
+"Ilekroć rzucisz czar nie będący stworem, wskazany stwór zyskuje latanie do "
 "końca tury."
 
 #: ../../FRF.rst:264
@@ -895,7 +895,7 @@ msgid ""
 "Khans — At the beginning of your draw step, draw an additional card, then "
 "discard a card."
 msgstr ""
-"Chanowie — Na początku twojego kroku dobierania dobierz dodatkową kartę, a "
+"Chanowie — Na początku twojego kroku dobierania dobierz dodatkową kartę, "
 "następnie odrzuć kartę."
 
 # c56010d15a164e409d25553ec71841e3
@@ -904,8 +904,8 @@ msgid ""
 "Dragons — Spells your opponents cast that target you or a permanent you "
 "control cost |mana_2| more to cast."
 msgstr ""
-"Smoki — Czary rzucane przez twoich przeciwników wskazujące ciebie lub "
-"permanent pod twoim władaniem kosztują o |mana_2| więcej."
+"Smoki — Rzucanie czarów wskazujących ciebie lub permanent pod twoim "
+"władaniem kosztuje twoich przeciwników o |mana_2| więcej."
 
 #: ../../FRF.rst:268
 msgid ""
@@ -944,7 +944,6 @@ msgstr ""
 
 # daf79e89918d4fb691f4f2044cc31888
 #: ../../FRF.rst:275
-#, fuzzy
 msgid ""
 "Exile target creature. Its controller manifests the top card of their "
 "library. (That player puts the top card of their library onto the "
@@ -952,9 +951,9 @@ msgid ""
 "turned face up any time for its mana cost.)"
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca objawia wierzchnią kartę swojej "
-"biblioteki. (Ów gracz kładzie wierzchnią kartę swojej biblioteki na polu "
-"walki frontem w dół jako stwora 2/2. Jeśli jest to karta stwora, może być "
-"odwrócona frontem do góry w dowolnym momencie za jej koszt many.)"
+"biblioteki. (Ów gracz umieszcza wierzchnią kartę swojej biblioteki zakrytą "
+"na polu walki jako stwora 2/2. Jeśli jest to karta stwora, może być odkryta "
+"w dowolnym momencie za jej koszt many.)"
 
 #: ../../FRF.rst:282
 msgid ""
@@ -991,7 +990,7 @@ msgid ""
 "Vial of Dragonfire, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"|mana_u|, |tap|: Poszukaj w twojej bibliotece karty o nazwie Heart-Piercer "
+"|mana_u|, |tap|: Wyszukaj w twojej bibliotece kartę o nazwie Heart-Piercer "
 "Bow lub Vial of Dragonfire, ujawnij ją i umieść w twojej ręce, następnie "
 "przetasuj twoją bibliotekę."
 
@@ -1026,7 +1025,7 @@ msgid ""
 "don't control to their owners' hands."
 msgstr ""
 "Przywróć wskazany nielądowy permanent pod twoim władaniem oraz wskazany "
-"nielądowy permanent poza twoim władaniem do rąk ich właścicieli."
+"nielądowy permanent poza twoim władaniem do rąk właścicieli."
 
 #: ../../FRF.rst:300
 msgid ""
@@ -1041,7 +1040,7 @@ msgid ""
 "Whenever Sage-Eye Avengers attacks, you may return target creature to its "
 "owner's hand if its power is less than Sage-Eye Avengers's power."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz przywrócić wskazanego stwora do ręki jego "
+"Ilekroć ten stwór atakuje, możesz przywrócić wskazanego stwora do ręki "
 "właściciela jeśli jego siła jest mniejsza niż siła niniejszego stwora."
 
 #: ../../FRF.rst:304
@@ -1057,7 +1056,7 @@ msgid ""
 "Exchange control of two target permanents that share a card type. (Artifact, "
 "creature, enchantment, land, and planeswalker are card types.)"
 msgstr ""
-"Zamień władanie nad dwoma wskazanymi permanentami o wspólnym typie karty. "
+"Zamień władanie nad dwoma wskazanymi permanentami współdzielących typ karty. "
 "(Typy karty to: artefakt, stwór, urok, ląd i wędrowiec.)"
 
 #: ../../FRF.rst:310
@@ -1073,9 +1072,8 @@ msgid ""
 "Whenever you cast a noncreature spell, you may pay |mana_rw|\\ |mana_rw|. If "
 "you do, target creature gains double strike until end of turn."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem możesz zapłacić |mana_rw|\\ |"
-"mana_rw|. Jeśli tak zrobisz, wskazany stwór zyskuje do końca tury podwójny "
-"cios."
+"Ilekroć rzucisz czar nie będący stworem możesz zapłacić |mana_rw|\\ |mana_rw|"
+". Jeśli tak zrobisz, wskazany stwór zyskuje podwójny cios do końca tury."
 
 #: ../../FRF.rst:314
 msgid ""
@@ -1106,8 +1104,8 @@ msgid ""
 "Return target creature to its owner's hand. You create a token that's a copy "
 "of that creature."
 msgstr ""
-"Przywróć wskazanego stwora do ręki jego właściciela. Umieść na polu walki "
-"żeton będący kopią owego stwora."
+"Przywróć wskazanego stwora do ręki właściciela. Stwórz żeton będący kopią "
+"owego stwora."
 
 #: ../../FRF.rst:324
 msgid ""
@@ -1249,8 +1247,8 @@ msgid ""
 "At the beginning of each opponent's end step, that player chooses up to two "
 "creatures they control, then sacrifices the rest."
 msgstr ""
-"Na początku kroku końcowego każdego z przeciwników, ów gracz wybiera do "
-"dwóch stworów pod swoim władaniem, a następnie poświęca pozostałe."
+"Na początku kroku końcowego każdego z przeciwników, ów gracz wybiera co "
+"najwyżej dwa stwory pod swoim władaniem, następnie poświęca pozostałe."
 
 #: ../../FRF.rst:368
 msgid ""
@@ -1265,8 +1263,8 @@ msgid ""
 "As long as you control a red or white permanent, Battle Brawler gets +1/+0 "
 "and has first strike."
 msgstr ""
-"Dopóki władasz czerwonym lub białym permanentem, ten stwór dostaje +1/+0 i "
-"ma pierwszy cios."
+"O ile władasz czerwonym lub białym permanentem, ten stwór dostaje +1/+0 i ma "
+"pierwszy cios."
 
 #: ../../FRF.rst:374
 msgid ""
@@ -1282,7 +1280,7 @@ msgid ""
 "you gain 1 life."
 msgstr ""
 "Ilekroć stwór pod twoim władaniem atakuje, broniący się gracz traci 1 życie, "
-"a ty zyskujesz 1 życie."
+"a ty zyskaj 1 życie."
 
 # aa1ec7a57e5c48c191f2d15f8e198070
 #: ../../FRF.rst:373
@@ -1319,12 +1317,11 @@ msgstr ""
 
 # df83c8195f4c419bb66c1c48146ff56f
 #: ../../FRF.rst:385
-#, fuzzy
 msgid ""
 "Each player discards all the cards in their hand, then draws that many cards "
 "minus one."
 msgstr ""
-"Każdy gracz odrzuca wszystkie karty ze swojej ręki, a następnie dobiera o "
+"Każdy gracz odrzuca wszystkie karty ze swojej ręki, następnie dobiera o "
 "jedną kartę mniej."
 
 #: ../../FRF.rst:390
@@ -1336,15 +1333,13 @@ msgstr ""
 
 # 4c612a4d3deb4248a1a20e46ac9e841d
 #: ../../FRF.rst:389
-#, fuzzy
 msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. That "
 "player discards that card. If you control a Warrior, that player loses 2 "
 "life."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
-"lądem. Ów gracz odrzuca ową kartę. Jeśli władasz Wojownikiem, ów gracz traci "
-"2 życia."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądową kartę. Ów "
+"gracz odrzuca ową kartę. Jeśli władasz Wojownikiem, ów gracz traci 2 życia."
 
 #: ../../FRF.rst:394
 msgid ""
@@ -1356,8 +1351,7 @@ msgstr ""
 # 7c5f99ed56b845fda54b8f8399b2d35c
 #: ../../FRF.rst:393
 msgid "Douse in Gloom deals 2 damage to target creature and you gain 2 life."
-msgstr ""
-"Ten czar zadaje wskazanemu stworowi 2 obrażenia, a ty zyskujesz 2 życia."
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia, a ty zyskaj 2 życia."
 
 #: ../../FRF.rst:398
 msgid ""
@@ -1452,7 +1446,7 @@ msgstr ""
 # eee6880b6fcd4bb28bab58101c35f2aa
 #: ../../FRF.rst:421
 msgid "Whenever Mardu Shadowspear attacks, each opponent loses 1 life."
-msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci 1 życie."
+msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 1 życiu."
 
 # 0397ecfb30964c239d36f3fe6d7c46e0
 #: ../../FRF.rst:423
@@ -1534,7 +1528,7 @@ msgid ""
 "creature an opponent controls gets -1/-1 until end of turn."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem , wskazany "
-"stwór władany przez przeciwnika dostaje do końca tury -1/-1."
+"stwór pod władaniem przeciwnika dostaje do końca tury -1/-1."
 
 #: ../../FRF.rst:452
 msgid ""
@@ -1564,7 +1558,7 @@ msgid ""
 "you gain 2 life."
 msgstr ""
 "Smoki — Z początkiem twojego kroku utrzymania każdy przeciwnik traci po 2 "
-"życia a ty zyskujesz 2 życia."
+"życia a ty zyskaj 2 życia."
 
 #: ../../FRF.rst:456
 msgid ""
@@ -1595,7 +1589,7 @@ msgstr ""
 # ecacb173f8aa450a9adb8a5b18a6ad03
 #: ../../FRF.rst:459
 msgid "Destroy target creature that's one or more colors."
-msgstr "Zniszcz wskazanego stwora mającego jeden lub więcej kolorów."
+msgstr "Zniszcz wskazanego stwora mającego co najmniej jeden kolor."
 
 #: ../../FRF.rst:464
 msgid ""
@@ -1699,7 +1693,7 @@ msgid ""
 "your graveyard, then return a nonland card of an opponent's choice from your "
 "graveyard to your hand."
 msgstr ""
-"|mana_2|\\ |mana_gu|\\ |mana_gu|:  Umieść dwie wierzchnie karty twojej "
+"|mana_2|\\ |mana_gu|\\ |mana_gu|: Umieść dwie wierzchnie karty twojej "
 "biblioteki w twoim cmentarzu, następnie przywróć z twojego cmentarza do "
 "twojej ręki nielądową kartę wybraną przez przeciwnika."
 
@@ -1713,7 +1707,7 @@ msgstr ""
 # 7f8f828ae7a54904892b3f4a797d6a94
 #: ../../FRF.rst:499
 msgid "Each opponent discards two cards."
-msgstr "Każdy przeciwnik odrzuca dwie karty."
+msgstr "Każdy przeciwnik odrzuca po dwie karty."
 
 #: ../../FRF.rst:504
 msgid ""
@@ -1750,7 +1744,7 @@ msgid ""
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli to "
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli to "
 "zrobisz, przywróć wskazaną kartę stwora o sile 2 lub mniejszej z twojego "
 "cmentarza na pole walki przekręconą i atakującą."
 
@@ -1829,7 +1823,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 # 2563785e08e449bf8ff95dcc49ccd485
 #: ../../FRF.rst:531
 msgid "Collateral Damage deals 3 damage to any target."
-msgstr "Ten czar zadaje 3 obrażenia wskazanemu stworowi lub graczowi."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../FRF.rst:540
 msgid ""
@@ -1869,7 +1863,7 @@ msgid ""
 msgstr ""
 "Weź |mana_r| za każdego atakującego stwora pod twoim władaniem. Do końca "
 "tury atakujące stwory pod twoim władaniem dostają \"|mana_r|: Ten stwór "
-"dostaje +1/+0 do końca tury.\""
+"dostaje do końca tury +1/+0.\""
 
 #: ../../FRF.rst:548
 msgid ""
@@ -1905,8 +1899,8 @@ msgid ""
 "target attacking creature and that's tapped and attacking. Exile the token "
 "at end of combat."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz przekręcony i atakujący żeton, będący "
-"kopią innego wskazanego atakującego stwora. Wygnaj ów żeton na końcu walki."
+"Ilekroć ten stwór atakuje, stwórz przekręcony i atakujący żeton będący kopią "
+"innego wskazanego atakującego stwora. Wygnaj ów żeton na końcu walki."
 
 # 7a153310f0a4478d82c0be28f4e08bcb
 #: ../../FRF.rst:553
@@ -2012,7 +2006,7 @@ msgid ""
 "Activate this ability only during your turn."
 msgstr ""
 "|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
-"stworem. Aktywuj tę zdolność tylko w twojej turze."
+"stworem. Możesz aktywować tę zdolność tylko w twojej turze."
 
 #: ../../FRF.rst:584
 msgid ""
@@ -2028,8 +2022,8 @@ msgid ""
 "Yeti as though it had flash. (You may cast it any time you could cast an "
 "instant.)"
 msgstr ""
-"O ile władasz zielonym lub niebieskim permanentem, możesz rzucić tego "
-"stwora, jakby miał błysk. (Może być zagrany jako sztuczka.)"
+"O ile władasz zielonym lub niebieskim permanentem, możesz rzucić tego stwora "
+"jakby miał błysk. (Może być zagrany jako sztuczka.)"
 
 #: ../../FRF.rst:590
 msgid ""
@@ -2138,8 +2132,8 @@ msgid ""
 "Dragons — Whenever a creature you control leaves the battlefield, Outpost "
 "Siege deals 1 damage to any target."
 msgstr ""
-"Smoki — Ilekroć stwór pod twoim władaniem opuszcza pole walki, ten urok "
-"zadaje wskazanemu celowi 1 obrażenie."
+"Smoki — Ilekroć stwór pod twoim władaniem opuści pole walki, ten urok zadaje "
+"wskazanemu celowi 1 obrażenie."
 
 #: ../../FRF.rst:622
 msgid ""
@@ -2205,7 +2199,7 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bitewne, umieść na "
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
 "nim znacznik +1/+1."
 
 # b71877a98e9a49c097b44f78fe6822c5
@@ -2230,8 +2224,8 @@ msgid ""
 "Whenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage "
 "to each creature that player controls."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bitewne, zadaje 1 obrażenie "
-"każdemu stworowi władanemu przez owego gracza."
+"Ilekroć ten stwór zada graczowi obrażenia bitewne, zadaje on każdemu "
+"stworowi pod władaniem owego gracza po 1 obrażeniu."
 
 #: ../../FRF.rst:646
 msgid ""
@@ -2334,7 +2328,7 @@ msgstr ""
 msgid ""
 "Abzan Kin-Guard has lifelink as long as you control a white or black "
 "permanent."
-msgstr "Ten stwór ma więż życia o ile władasz białym lub czarnym permanentem."
+msgstr "Ten stwór ma więź życia o ile władasz białym lub czarnym permanentem."
 
 #: ../../FRF.rst:680
 msgid ""
@@ -2382,7 +2376,7 @@ msgid ""
 "control to its owner's hand."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, przywróć innego stwora pod twoim "
-"władaniem do ręki jego właściciela."
+"władaniem do ręki właściciela."
 
 #: ../../FRF.rst:690
 msgid ""
@@ -2399,7 +2393,7 @@ msgid ""
 "battlefield face down as a 2/2 creature. Turn it face up any time for its "
 "mana cost if it's a creature card.)"
 msgstr ""
-"Ilekroć ten stwór zada obrażenia bitewne jednemu lub kilku blokującym "
+"Ilekroć ten stwór zada obrażenia bojowe jednemu lub kilku blokującym "
 "stworom, objaw wierzchnią kartę twojej biblioteki. (Umieść ją zakrytą na "
 "polu walki jako stwora 2/2. Odkryj ją w dowolnym momencie za jej koszt many, "
 "jeśli jest to karta stwora.)"
@@ -2450,8 +2444,8 @@ msgid ""
 "Bolster 3. (Choose a creature with the least toughness among creatures you "
 "control and put three +1/+1 counters on it.)"
 msgstr ""
-"Wesprzyj 3. (Wybierz stwora z najmniejszą wytrzymałością spośród władanych "
-"przez ciebie stworów i umieść na nim trzy znaczniki +1/+1.)"
+"Wesprzyj 3. (Wybierz stwora z najmniejszą wytrzymałością spośród stworów pod "
+"twoim władaniem i umieść na nim trzy znaczniki +1/+1.)"
 
 #: ../../FRF.rst:712
 msgid ""
@@ -2486,10 +2480,9 @@ msgid ""
 "manifest a card, put it onto the battlefield face down as a 2/2 creature. "
 "Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
-"Objaw wierzchnią kartę twojej biblioteki, a następnie umieść na niej "
-"znacznik +1/+1. (Aby objawić kartę, umieść ją zakrytą na polu walki jako "
-"stwora 2/2. Odkryj ją w dowolnym momencie za jej koszt many, jeśli jest to "
-"karta stwora.)"
+"Objaw wierzchnią kartę twojej biblioteki, następnie umieść na niej znacznik +"
+"1/+1. (Aby objawić kartę, umieść ją zakrytą na polu walki jako stwora 2/2. "
+"Odkryj ją w dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 #: ../../FRF.rst:724
 msgid ""
@@ -2504,7 +2497,7 @@ msgid ""
 "Ferocious — Frontier Mastodon enters the battlefield with a +1/+1 counter on "
 "it if you control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — ten stwór wchodzi na pole walki ze znacznikiem +1/+1 jeśli "
+"Zaciekłość — Ten stwór wchodzi na pole walki ze znacznikiem +1/+1 jeśli "
 "władasz stworem o sile 4 lub większej."
 
 #: ../../FRF.rst:732
@@ -2550,8 +2543,8 @@ msgid ""
 "When enchanted creature dies, you gain X life and draw X cards, where X is "
 "its toughness."
 msgstr ""
-"Kiedy zauroczony stwór umrze, dostajesz X żyć i dobierasz X kart, gdzie X "
-"jest jego wytrzymałością."
+"Kiedy zauroczony stwór umrze, zyskaj X żyć i dobierz X kart, gdzie X jest "
+"jego wytrzymałością."
 
 #: ../../FRF.rst:742
 msgid ""
@@ -2587,7 +2580,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
 "polu walki, następnie przetasuj twoją bibliotekę. Wesprzyj 1. (Wybierz "
-"stwora z najmniejszą wytrzymałością spośród władanych przez ciebie stworów i "
+"stwora z najmniejszą wytrzymałością spośród stworów pod twoim władaniem i "
 "umieść na nim znacznik +1/+1.)"
 
 #: ../../FRF.rst:750
@@ -2644,8 +2637,8 @@ msgid ""
 "+1/+1 counters on it.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wesprzyj 5. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim pięć znaczników +1/+1.)"
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim pięć znaczników +1/+1.)"
 
 #: ../../FRF.rst:770
 msgid ""
@@ -2665,7 +2658,7 @@ msgid ""
 "Ferocious — You gain 4 life for each creature you control with power 4 or "
 "greater."
 msgstr ""
-"Zaciekłość — Zyskujesz 4 życia za każdego stwora o sile 4 lub większej pod "
+"Zaciekłość — Zyskaj 4 życia za każdego stwora o sile 4 lub większej pod "
 "twoim władaniem."
 
 #: ../../FRF.rst:774
@@ -2710,14 +2703,13 @@ msgstr ""
 
 # 885b53b7b7514f38936dac5f94ec396f
 #: ../../FRF.rst:785
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|: You may return another creature you control to its "
 "owner's hand. If you do, Temur Sabertooth gains indestructible until end of "
 "turn."
 msgstr ""
 "|mana_1|\\ |mana_g|: Możesz przywrócić innego wskazanego stwora pod twoim "
-"władaniem do ręki jego właściciela. Jeśli tak zrobisz, ten stwór zyskuje "
+"władaniem do ręki właściciela. Jeśli tak zrobisz, niniejszy stwór zyskuje "
 "niezniszczalność do końca tury."
 
 #: ../../FRF.rst:792
@@ -2744,7 +2736,7 @@ msgid ""
 "Whenever a permanent you control is turned face up, if it's a creature, you "
 "may have it fight target creature you don't control."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem zostaje odkryty, jeśli to stwór, "
+"Ilekroć permanent pod twoim władaniem zostanie odkryty, jeśli to stwór, "
 "możesz sprawić, aby walczył ze wskazanym stworem poza twoim władaniem."
 
 #: ../../FRF.rst:800
@@ -2755,7 +2747,6 @@ msgid ""
 msgstr ""
 
 #: ../../FRF.rst:795
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_wb|: Warden of the First Tree becomes a Human Warrior with "
 "base power and toughness 3/3."
@@ -2764,7 +2755,6 @@ msgstr ""
 "sile i wytrzymałości 3/3."
 
 #: ../../FRF.rst:797
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_wb|\\ |mana_wb|: If Warden of the First Tree is a Warrior, "
 "it becomes a Human Spirit Warrior with trample and lifelink."
@@ -2798,8 +2788,8 @@ msgid ""
 "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if "
 "you control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — |tap|: Weź |mana_g|\\ |mana_g|. Aktywuj tę zdolność tylko jeśli "
-"władasz stworem o sile 4 lub większej."
+"Zaciekłość — |tap|: Weź |mana_g|\\ |mana_g|. Możesz aktywować tę zdolność "
+"tylko jeśli władasz stworem o sile 4 lub większej."
 
 #: ../../FRF.rst:812
 msgid ""
@@ -2843,7 +2833,7 @@ msgid ""
 "manifest a card, put it onto the battlefield face down as a 2/2 creature. "
 "Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
-"Objaw wierzchnią kartę twojej biblioteki, a następnie umieść na niej X "
+"Objaw wierzchnią kartę twojej biblioteki, następnie umieść na niej X "
 "znaczników +1/+1. (Aby objawić kartę, umieść ją zakrytą na polu walki jako "
 "stwora 2/2. Odkryj ją w dowolnym momencie za jej koszt many, jeśli jest to "
 "karta stwora.)"
@@ -2859,7 +2849,7 @@ msgstr ""
 #: ../../FRF.rst:819
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
 # eaae8143cf8d47698dc2218f5c747bf5
 #: ../../FRF.rst:821
@@ -2870,7 +2860,7 @@ msgid ""
 msgstr ""
 "Zaciekłość — Jeśli władasz stworem o sile 4 lub większej zamiast tego "
 "zażegnaj wszystkie obrażenia, które zostałyby zadane w tej turze przez "
-"stwory władane przez przeciwników."
+"stwory pod władaniem przeciwników."
 
 #: ../../FRF.rst:828
 msgid ""
@@ -2886,8 +2876,8 @@ msgid ""
 "with power less than Yasova Dragonclaw's power until end of turn, untap that "
 "creature, and it gains haste until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, możesz zapłacić |mana_1|\\ |mana_ur|\\ |"
-"mana_ur|. Jeśli tak zrobisz, zyskujesz do końca tury władanie nad wskazanym "
+"Na początku walki w twojej turze, możesz zapłacić |mana_1|\\ |mana_ur|\\ "
+"|mana_ur|. Jeśli tak zrobisz, zyskaj do końca tury władanie nad wskazanym "
 "stworem pod władaniem przeciwnika o sile mniejszej niż siła niniejszego "
 "stwora, odkręć owego stwora, zyskuje on pośpiech do końca tury."
 
@@ -2925,8 +2915,8 @@ msgid ""
 "Cunning Strike deals 2 damage to target creature and 2 damage to target "
 "player or planeswalker."
 msgstr ""
-"Ten czar zadaje wskazanemu stworowi 2 oraz 2 obrażenia wskazanemu graczowi "
-"lub wędrowcowi."
+"Ten czar zadaje wskazanemu stworowi 2 obrazenia oraz 2 obrażenia wskazanemu "
+"graczowi lub wędrowcowi."
 
 #: ../../FRF.rst:846
 msgid ""
@@ -2942,9 +2932,9 @@ msgid ""
 "the least toughness among creatures you control and put two +1/+1 counters "
 "on it.)"
 msgstr ""
-"Ilekroć atakuje Smok pod twoim władaniem, wesprzyj 2. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim dwa znaczniki +1/+1.)"
+"Ilekroć Smok pod twoim władaniem atakuje, wesprzyj 2. (Wybierz stwora z "
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim dwa znaczniki +1/+1.)"
 
 #: ../../FRF.rst:850
 msgid ""
@@ -2977,8 +2967,8 @@ msgid ""
 "Choose target creature you control and target creature an opponent controls. "
 "Each of those creatures deals damage equal to its toughness to the other."
 msgstr ""
-"Wybierz wskazanego stwora pod twoim władaniem oraz wskazanego stwora "
-"władanego przez przeciwnika. Zadają one sobie nawzajem obrażenia równe swej "
+"Wybierz wskazanego stwora pod twoim władaniem oraz wskazanego stwora pod "
+"władaniem przeciwnika. Zadają one sobie nawzajem obrażenia równe swej "
 "wytrzymałości."
 
 #: ../../FRF.rst:858
@@ -2994,8 +2984,8 @@ msgid ""
 "Harsh Sustenance deals X damage to any target and you gain X life, where X "
 "is the number of creatures you control."
 msgstr ""
-"Ten czar zadaje wskazanemu celowi X obrażeń, a ty zyskujesz X żyć, gdzie X "
-"jest liczbą stworów pod twoim władaniem."
+"Ten czar zadaje wskazanemu celowi X obrażeń, a ty zyskaj X żyć, gdzie X jest "
+"liczbą stworów pod twoim władaniem."
 
 #: ../../FRF.rst:866
 msgid ""
@@ -3080,7 +3070,7 @@ msgstr ""
 #: ../../FRF.rst:881
 msgid ""
 "Creatures you control get +2/+1 until end of turn. Untap those creatures."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury. Odkręć je."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1. Odkręć je."
 
 #: ../../FRF.rst:888
 msgid ""
@@ -3139,7 +3129,7 @@ msgstr ""
 # 4f6025fdfee54a3ab1ef4b77f962ab13
 #: ../../FRF.rst:899
 msgid "Cast this spell only if you've cast another spell this turn."
-msgstr "Rzuć tego stwora tylko jeśli rzucałeś inny czar w tej turze."
+msgstr "Rzuć ten czar tylko jeśli rzuciłeś inny czar w tej turze."
 
 #: ../../FRF.rst:904
 msgid ""
@@ -3166,7 +3156,7 @@ msgid ""
 "Whenever you cast a noncreature spell, put a lore counter on Scroll of the "
 "Masters."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, umieść znacznik wiedzy na tym "
+"Ilekroć rzucisz czar nie będący stworem, umieść znacznik wiedzy na tym "
 "artefakcie."
 
 # feb8825eae224161a371b32c4b58fe66

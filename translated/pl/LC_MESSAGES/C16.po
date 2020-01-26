@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 13:33+0000\n"
+"PO-Revision-Date: 2020-01-26 14:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -1048,7 +1048,7 @@ msgid ""
 "Dragons — At the beginning of combat on each opponent's turn, tap target "
 "creature that player controls."
 msgstr ""
-"Smoki — Z początkiem walki w turze każdego z przeciwników, przekręć "
+"Smoki — Na początku walki w turze każdego z przeciwników, przekręć "
 "wskazanego stwora pod władaniem owego gracza."
 
 #: ../../C16.rst:396
@@ -1097,14 +1097,16 @@ msgid ""
 "counters on it.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim dwa znaczniki +1/+1.)"
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim dwa znaczniki +1/+1.)"
 
 #: ../../C16.rst:405
 msgid ""
 "Whenever a creature you control with a +1/+1 counter on it attacks, tap "
 "target creature defending player controls."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 atakuje, przekręć "
+"wskazanego stwora pod władaniem broniącego się gracza."
 
 #: ../../C16.rst:410
 msgid ""
@@ -1736,6 +1738,8 @@ msgid ""
 "Whenever a creature you control attacks, defending player loses 1 life and "
 "you gain 1 life."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem atakuje, broniący się gracz traci 1 życie, "
+"a ty zyskaj 1 życie."
 
 #: ../../C16.rst:623
 msgid ""
@@ -1929,7 +1933,7 @@ msgid ""
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli to "
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli to "
 "zrobisz, przywróć wskazaną kartę stwora o sile 2 lub mniejszej z twojego "
 "cmentarza na pole walki przekręconą i atakującą."
 
@@ -2126,7 +2130,7 @@ msgid ""
 "Activate this ability only during your turn."
 msgstr ""
 "|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
-"stworem. Aktywuj tę zdolność tylko w twojej turze."
+"stworem. Możesz aktywować tę zdolność tylko w twojej turze."
 
 #: ../../C16.rst:756
 msgid ""
@@ -2717,13 +2721,15 @@ msgstr ""
 
 #: ../../C16.rst:939
 msgid "Draw a card for each creature you control."
-msgstr ""
+msgstr "Dobierz kartę za każdego stwora pod twoim władaniem."
 
 #: ../../C16.rst:941
 msgid ""
 "Ferocious — You gain 4 life for each creature you control with power 4 or "
 "greater."
 msgstr ""
+"Zaciekłość — Zyskaj 4 życia za każdego stwora o sile 4 lub większej pod "
+"twoim władaniem."
 
 #: ../../C16.rst:948
 msgid ""
@@ -3898,7 +3904,7 @@ msgstr ""
 
 #: ../../C16.rst:1359
 msgid "Counter target multicolored spell."
-msgstr ""
+msgstr "Skontruj wskazany wielokolorowy czar."
 
 #: ../../C16.rst:1364
 msgid ""
