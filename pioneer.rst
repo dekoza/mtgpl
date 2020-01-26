@@ -35,7 +35,7 @@ Dodatki poza Standardem
 * :mtgexp:`ORI` :doc:`Origins<ORI>` |p25|
 * :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p25|
 * :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|
-* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p75|
+* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p100|
 * :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p100|
 * :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|
 * :mtgexp:`THS` :doc:`Theros<THS>` |p100|
