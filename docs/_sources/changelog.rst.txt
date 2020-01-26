@@ -2,9 +2,14 @@
 ***********
 Spis zmian
 ***********
+2020-01-26
+   * Khans of Tarkir - 100%
+   * Zaktualizowane tłumaczenia: FRF
+
+
 2020-01-25
    * Journey into Nyx - 100%
-   * Updated translations: RTR, GTC, DGM, THS, BNG
+   * Zaktualizowane tłumaczenia: RTR, GTC, DGM, THS, BNG
 
 2020-01-20
    * Throne of Eldraine - 100%
