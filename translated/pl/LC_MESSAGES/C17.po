@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:52+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -1199,6 +1199,8 @@ msgid ""
 "As an additional cost to cast this spell, you may reveal a Dragon card from "
 "your hand."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz ujawnić kartę Smoka z "
+"twojej ręki."
 
 #: ../../C17.rst:415
 msgid "Defender, flying"
@@ -1209,6 +1211,8 @@ msgid ""
 "When Orator of Ojutai enters the battlefield, if you revealed a Dragon card "
 "or controlled a Dragon as you cast this spell, draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli podczas jego rzucania ujawniłeś "
+"kartę Smoka lub Smok był pod twoim władaniem, dobierz kartę."
 
 #: ../../C17.rst:422
 msgid ""
@@ -1318,6 +1322,8 @@ msgid ""
 "Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent "
 "and you gain 1 life."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, umieść znacznik +1/+1 na tym stworze i zyskaj "
+"1 życie."
 
 #: ../../C17.rst:460
 msgid ""
@@ -1460,6 +1466,8 @@ msgid ""
 "For each creature target player controls, create a token that's a copy of "
 "that creature."
 msgstr ""
+"Dla każdego stwora pod władaniem wskazanego gracza, stwórz żeton będący "
+"kopią owego stwora."
 
 #: ../../C17.rst:506
 msgid ""
@@ -1798,7 +1806,7 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
-"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"Rykoszet (Jeśli rzucisz ten czar z twojej ręki, wygnaj go podczas "
 "rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
 "rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
@@ -1844,7 +1852,7 @@ msgstr ""
 
 #: ../../C17.rst:623
 msgid "Target player draws X cards and loses X life."
-msgstr ""
+msgstr "Wskazany gracz dobiera X kart i traci X żyć."
 
 #: ../../C17.rst:630
 msgid ""
@@ -1878,6 +1886,8 @@ msgid ""
 "hand and there are five or more other creatures on the battlefield, destroy "
 "all other creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został rzucony z ręki i na polu "
+"walki jest co najmniej pięć innych stworów, zniszcz wszystkie inne stwory."
 
 #: ../../C17.rst:644
 msgid ""
@@ -2258,12 +2268,16 @@ msgid ""
 "Whenever a creature with flying enters the battlefield under your control, "
 "it gains haste until end of turn."
 msgstr ""
+"Ilekroć stwór z lataniem wejdzie na pole walki pod twoim władaniem, zyskuje "
+"on pośpiech do końca tury."
 
 #: ../../C17.rst:771
 msgid ""
 "Whenever a Dragon enters the battlefield under your control, it deals X "
 "damage to any target, where X is the number of Dragons you control."
 msgstr ""
+"Ilekroć Smok wejdzie na pole walki pod twoim władaniem, zadaje on wskazanemu "
+"celowi X obrażeń, gdzie X jest liczbą smoków pod twoim władaniem."
 
 #: ../../C17.rst:776
 msgid ""
@@ -2274,7 +2288,7 @@ msgstr ""
 
 #: ../../C17.rst:775
 msgid "Dragon spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_1| mniej."
 
 #: ../../C17.rst:780
 msgid ""
@@ -2809,7 +2823,7 @@ msgstr ""
 
 #: ../../C17.rst:967 ../../C17.rst:1141
 msgid "Return target permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany permanent do ręki właściciela."
 
 #: ../../C17.rst:969
 msgid "Destroy target nonblack creature. It can't be regenerated."
@@ -3210,6 +3224,9 @@ msgid ""
 "mana_g|\\ |mana_g|\\ |mana_g|. Until end of turn, you don't lose this mana "
 "as steps and phases end."
 msgstr ""
+"Ilekroć ten stwór atakuje, weź |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ "
+"|mana_g|\\ |mana_g|. Do końca tury nie tracisz owej many podczas końców "
+"kroków i faz."
 
 #: ../../C17.rst:1122
 msgid ""
@@ -3281,7 +3298,7 @@ msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../C17.rst:1143
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje -3/-3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -3/-3."
 
 #: ../../C17.rst:1145
 msgid "Destroy target planeswalker."
@@ -4205,12 +4222,16 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a Dragon "
 "creature spell."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj tę manę tylko na rzucenie "
+"czaru stwora typu Smok."
 
 #: ../../C17.rst:1517
 msgid ""
 "|mana_2|, |tap|, Sacrifice Haven of the Spirit Dragon: Return target Dragon "
 "creature card or Ugin planeswalker card from your graveyard to your hand."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Przywróć wskazaną kartę stwora typu Smok "
+"lub kartę wędrowca typu Ugin z twojego cmentarza do twojej ręki."
 
 #: ../../C17.rst:1526
 msgid ""

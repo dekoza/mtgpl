@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:53+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ima/"
 "pl/>\n"
@@ -339,7 +339,7 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
-"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"Rykoszet (Jeśli rzucisz ten czar z twojej ręki, wygnaj go podczas "
 "rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
 "rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
@@ -365,7 +365,7 @@ msgstr ""
 
 #: ../../IMA.rst:127
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../IMA.rst:136
 msgid ""
@@ -555,7 +555,7 @@ msgstr ""
 
 #: ../../IMA.rst:199
 msgid "Whenever you cast a noncreature spell, you gain 2 life."
-msgstr ""
+msgstr "Ilekroć rzucisz czar nie będący stworem, zyskaj 2 życia."
 
 #: ../../IMA.rst:206
 msgid ""
@@ -751,7 +751,7 @@ msgstr "Skontruj wskazany czar."
 
 #: ../../IMA.rst:283
 msgid "Return target permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany permanent do ręki właściciela."
 
 #: ../../IMA.rst:285
 msgid "Tap all creatures your opponents control."
@@ -848,6 +848,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until "
 "end of turn and can't be blocked this turn."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do końca tury +1/+"
+"0 i nie może być blokowany w tej turze."
 
 #: ../../IMA.rst:324
 msgid ""
@@ -1084,6 +1086,9 @@ msgid ""
 "Whenever you cast a noncreature spell, you may pay |mana_1|\\ |mana_u|. If "
 "you do, create a 2/2 blue Djinn Monk creature token with flying."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, możesz zapłacić |mana_1|\\ |mana_u|"
+". Jeśli tak zrobisz, stwórz żeton niebieskiego stwora Dżin Mnich 2/2 z "
+"lataniem."
 
 #: ../../IMA.rst:428
 msgid ""
@@ -1254,6 +1259,9 @@ msgid ""
 "it. (Damage dealt by a creature with lifelink also causes its controller to "
 "gain that much life.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+0 oraz więź życia. Zregeneruj go. ("
+"Obrażenia zadane przez stwora z więzią życia sprawiają, że jego władca "
+"zyskuje tyle samo żyć.)"
 
 #: ../../IMA.rst:488
 msgid ""
@@ -1350,12 +1358,16 @@ msgid ""
 "As an additional cost to cast this spell, you may reveal a Dragon card from "
 "your hand."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz ujawnić kartę Smoka z "
+"twojej ręki."
 
 #: ../../IMA.rst:515
 msgid ""
 "Target player sacrifices a creature. If you revealed a Dragon card or "
 "controlled a Dragon as you cast this spell, you gain 4 life."
 msgstr ""
+"Wskazany gracz poświęca stwora. Jeśli ujawniłeś kartę Smoka lub władałeś "
+"Smokiem podczas rzucania tego czaru, zyskaj 4 życia."
 
 #: ../../IMA.rst:520
 msgid ""
@@ -1796,6 +1808,9 @@ msgid ""
 "card or controlled a Dragon as you cast this spell, Draconic Roar deals 3 "
 "damage to that creature's controller."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia. Jeśli ujawniłeś kartę Smoka "
+"lub władałeś Smokiem podczas rzucania tego czaru, ten czar zadaje władcy "
+"owego stwora 3 obrażenia."
 
 #: ../../IMA.rst:684
 msgid ""
@@ -1824,12 +1839,16 @@ msgid ""
 "Whenever a creature with flying enters the battlefield under your control, "
 "it gains haste until end of turn."
 msgstr ""
+"Ilekroć stwór z lataniem wejdzie na pole walki pod twoim władaniem, zyskuje "
+"on pośpiech do końca tury."
 
 #: ../../IMA.rst:689
 msgid ""
 "Whenever a Dragon enters the battlefield under your control, it deals X "
 "damage to any target, where X is the number of Dragons you control."
 msgstr ""
+"Ilekroć Smok wejdzie na pole walki pod twoim władaniem, zadaje on wskazanemu "
+"celowi X obrażeń, gdzie X jest liczbą smoków pod twoim władaniem."
 
 #: ../../IMA.rst:694
 msgid ""
@@ -1840,7 +1859,7 @@ msgstr ""
 
 #: ../../IMA.rst:693
 msgid "Dragon spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_1| mniej."
 
 #: ../../IMA.rst:696
 msgid ""
@@ -2259,10 +2278,13 @@ msgid ""
 "|mana_g|: Target creature with defender can attack this turn as though it "
 "didn't have defender."
 msgstr ""
+"|mana_g|: Wskazany stwór z obronnością może atakować w tej turze jakby nie "
+"miał obronności."
 
 #: ../../IMA.rst:861
 msgid "|mana_2|\\ |mana_g|: Creatures you control get +0/+1 until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_g|: Stwory pod twoim władaniem dostają do końca tury +0/+1."
 
 #: ../../IMA.rst:868
 msgid ""
@@ -2411,8 +2433,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../IMA.rst:916
 msgid ""
@@ -2481,6 +2503,8 @@ msgid ""
 "Draw a card for each creature you control with a +1/+1 counter on it. Those "
 "creatures gain indestructible until end of turn."
 msgstr ""
+"Dobierz kartę za każdego stwora pod twoim władaniem mającego znacznik +1/+1. "
+"Owe stwory zyskują niezniszczalność do końca tury."
 
 #: ../../IMA.rst:934
 msgid ""
@@ -2663,7 +2687,7 @@ msgstr ""
 
 #: ../../IMA.rst:997
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../IMA.rst:1006
 msgid ""
@@ -3204,6 +3228,7 @@ msgid ""
 "As long as you control a Dragon, Dragonloft Idol gets +1/+1 and has flying "
 "and trample."
 msgstr ""
+"O ile władasz Smokiem, ten stwór dostaje +1/+1 i ma latanie oraz tratowanie."
 
 #: ../../IMA.rst:1210
 msgid ""
@@ -3244,6 +3269,8 @@ msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_r|: Kolaghan Monument becomes a 4/4 black and "
 "red Dragon artifact creature with flying until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_b|\\ |mana_r|: Ten artefakt do końca tury staje się "
+"czerwono-zielonym artefaktycznym stworem Smok 4/4 z lataniem."
 
 #: ../../IMA.rst:1220
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:52+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/a25/"
 "pl/>\n"
@@ -214,7 +214,8 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
-"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
+"Podwójny cios (Ten stwór zadaje obrażenia bojowe w pierwszym ciosie oraz "
+"normalnie.)"
 
 #: ../../A25.rst:72
 msgid ""
@@ -494,7 +495,7 @@ msgstr ""
 
 #: ../../A25.rst:159
 msgid "You gain 6 life."
-msgstr ""
+msgstr "Zyskaj 6 żyć."
 
 #: ../../A25.rst:161
 msgid ""
@@ -2130,8 +2131,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../A25.rst:725
 msgid ""
@@ -2139,12 +2140,17 @@ msgid ""
 "mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 "
 "counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_r| (Możesz rzucić tę kartę zakrytą za |mana_3| jako "
+"stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i umieść na "
+"niej znacznik +1/+1.)"
 
 #: ../../A25.rst:727
 msgid ""
 "When Ire Shaman is turned face up, exile the top card of your library. Until "
 "end of turn, you may play that card."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, wygnaj wierzchnią kartę twojej biblioteki. "
+"Możesz zagrać ową kartę do końca tury."
 
 #: ../../A25.rst:736
 msgid ""
@@ -2415,12 +2421,17 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_1|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../A25.rst:821
 msgid ""
 "When Ainok Survivalist is turned face up, destroy target artifact or "
 "enchantment an opponent controls."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, zniszcz wskazany artefakt lub urok pod "
+"władaniem przeciwnika."
 
 #: ../../A25.rst:826
 msgid ""
@@ -2607,6 +2618,9 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+2. Walczy ze "
+"wskazanym stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia "
+"równe swojej sile.)"
 
 #: ../../A25.rst:888
 msgid ""

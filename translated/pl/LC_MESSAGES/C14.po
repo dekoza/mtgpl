@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:53+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c14/"
 "pl/>\n"
@@ -1439,7 +1439,7 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
-"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"Rykoszet (Jeśli rzucisz ten czar z twojej ręki, wygnaj go podczas "
 "rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
 "rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
@@ -2582,7 +2582,7 @@ msgstr ""
 
 #: ../../C14.rst:889
 msgid "Target creature gets -X/-X until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -X/-X."
 
 #: ../../C14.rst:891
 msgid ""
@@ -3509,8 +3509,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../C14.rst:1218
 msgid ""

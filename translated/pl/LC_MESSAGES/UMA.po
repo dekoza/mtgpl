@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:52+0000\n"
+"PO-Revision-Date: 2020-01-27 00:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/uma/"
 "pl/>\n"
@@ -707,7 +707,8 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
-"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
+"Podwójny cios (Ten stwór zadaje obrażenia bojowe w pierwszym ciosie oraz "
+"normalnie.)"
 
 #: ../../UMA.rst:232
 msgid ""
@@ -1149,18 +1150,24 @@ msgid ""
 "As Living Lore enters the battlefield, exile an instant or sorcery card from "
 "your graveyard."
 msgstr ""
+"Umieszczając tego stwora na polu walki wygnaj kartę sztuczki lub obrzędu z "
+"twojego cmentarza."
 
 #: ../../UMA.rst:375
 msgid ""
 "Living Lore's power and toughness are each equal to the exiled card's "
 "converted mana cost."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe skróconemu kosztowi many "
+"wygnanej karty."
 
 #: ../../UMA.rst:377
 msgid ""
 "Whenever Living Lore deals combat damage, you may sacrifice it. If you do, "
 "you may cast the exiled card without paying its mana cost."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia bojowe, możesz go poświęcić. Jeśli to "
+"zrobisz, możesz rzucić wygnaną kartę bez płacenia jej kosztu many."
 
 #: ../../UMA.rst:382
 msgid ""
@@ -1267,6 +1274,8 @@ msgid ""
 "Look at the top two cards of your library. Put one of them into your hand "
 "and the other on the bottom of your library."
 msgstr ""
+"Spójrz na dwie wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a drugą na spodzie twojej biblioteki."
 
 #: ../../UMA.rst:422
 msgid ""
@@ -1747,7 +1756,7 @@ msgstr ""
 
 #: ../../UMA.rst:575
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje -3/-3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -3/-3."
 
 #: ../../UMA.rst:584
 msgid ""

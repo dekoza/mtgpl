@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:52+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ala/"
 "pl/>\n"
@@ -770,7 +770,7 @@ msgstr ""
 
 #: ../../ALA.rst:277 ../../ALA.rst:901
 msgid "Return target permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany permanent do ręki właściciela."
 
 #: ../../ALA.rst:279
 msgid ""
@@ -1117,7 +1117,7 @@ msgstr ""
 
 #: ../../ALA.rst:397
 msgid "|mana_u|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../ALA.rst:399
 msgid "|mana_r|, |tap|: Target creature can't block this turn."
@@ -2507,16 +2507,16 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../ALA.rst:939 ../../ALA.rst:1079
 msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../ALA.rst:944
 msgid ""

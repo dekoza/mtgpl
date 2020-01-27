@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:53+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m19/"
 "pl/>\n"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: ../../M19.rst:81
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../M19.rst:86
 msgid ""
@@ -1848,7 +1848,7 @@ msgstr ""
 
 #: ../../M19.rst:611
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje -3/-3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -3/-3."
 
 #: ../../M19.rst:616
 msgid ""
@@ -1861,8 +1861,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../M19.rst:620
 msgid ""
@@ -2568,8 +2568,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../M19.rst:872
 msgid ""

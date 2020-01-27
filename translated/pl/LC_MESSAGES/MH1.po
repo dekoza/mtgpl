@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 13:33+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mh1/"
 "pl/>\n"
@@ -182,7 +182,7 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
-"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"Rykoszet (Jeśli rzucisz ten czar z twojej ręki, wygnaj go podczas "
 "rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
 "rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
@@ -2124,7 +2124,7 @@ msgstr ""
 
 #: ../../MH1.rst:665 ../../MH1.rst:953
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../MH1.rst:667
 msgid "Target creature gets -1/-1 until end of turn."

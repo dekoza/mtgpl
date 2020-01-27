@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:52+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -2256,6 +2256,10 @@ msgid ""
 "Volcanic Vision deals damage equal to that card's converted mana cost to "
 "each creature your opponents control. Exile Volcanic Vision."
 msgstr ""
+"Przywróć wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej "
+"ręki. Ten czar zadaje każdemu stworowi pod władaniem twoich przeciwników "
+"tyle obrażeń, ile wynosi skrócony koszt many owej karty. Wygnaj niniejszy "
+"czar."
 
 #: ../../C16.rst:800
 msgid ""
@@ -2402,7 +2406,7 @@ msgstr ""
 
 #: ../../C16.rst:839
 msgid "Creatures with power less than Den Protector's power can't block it."
-msgstr ""
+msgstr "Stworu o sile mniejszej niż siła tego stwora nie mogą go blokować."
 
 #: ../../C16.rst:841
 msgid ""
@@ -2410,12 +2414,17 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_1|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../C16.rst:843
 msgid ""
 "When Den Protector is turned face up, return target card from your graveyard "
 "to your hand."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, przywróć wskazaną kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../C16.rst:850
 msgid ""
@@ -2510,6 +2519,8 @@ msgid ""
 "Draw a card for each creature you control with a +1/+1 counter on it. Those "
 "creatures gain indestructible until end of turn."
 msgstr ""
+"Dobierz kartę za każdego stwora pod twoim władaniem mającego znacznik +1/+1. "
+"Owe stwory zyskują niezniszczalność do końca tury."
 
 #: ../../C16.rst:880
 msgid ""
@@ -3188,6 +3199,8 @@ msgid ""
 "Whenever one or more +1/+1 counters are put on another creature you control, "
 "you may put a +1/+1 counter on Enduring Scalelord."
 msgstr ""
+"Ilekroć jeden lub więcej znaczników +1/+1 zostanie umieszczonych na innym "
+"stworze pod twoim władaniem, możesz umieścić znacznik +1/+1 na tym stworze."
 
 #: ../../C16.rst:1110
 msgid ""

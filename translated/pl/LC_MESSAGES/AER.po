@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-25 00:28+0000\n"
+"PO-Revision-Date: 2020-01-27 00:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/aer/"
 "pl/>\n"
@@ -903,8 +903,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../AER.rst:289
 #, fuzzy
@@ -1601,7 +1601,8 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
-"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
+"Podwójny cios (Ten stwór zadaje obrażenia bojowe w pierwszym ciosie oraz "
+"normalnie.)"
 
 #: ../../AER.rst:539
 #, fuzzy

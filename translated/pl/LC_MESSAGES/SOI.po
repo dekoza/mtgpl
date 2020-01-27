@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 13:33+0000\n"
+"PO-Revision-Date: 2020-01-27 00:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -333,7 +333,7 @@ msgstr ""
 
 #: ../../SOI.rst:113
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../SOI.rst:120
 msgid ""
@@ -2117,8 +2117,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../SOI.rst:743
 msgid ""
@@ -2196,8 +2196,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../SOI.rst:784
 msgid ""

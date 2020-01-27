@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 13:33+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/lrw/"
 "pl/>\n"
@@ -132,8 +132,8 @@ msgid ""
 "Enchanted creature has double strike. (It deals both first-strike and "
 "regular combat damage.)"
 msgstr ""
-"Zauroczony stwór ma podwójny cios.(Zadaje zarówno obrażenia bitewne jako "
-"pierwszy cios oraz normalnie.)"
+"Zauroczony stwór ma podwójny cios. (Zadaje on obrażenia bojowe w pierwszym "
+"ciosie oraz normalnie.)"
 
 #: ../../LRW.rst:50
 msgid ""
@@ -905,7 +905,7 @@ msgstr "Skontruj wskazany czar."
 
 #: ../../LRW.rst:321
 msgid "Return target permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany permanent do ręki właściciela."
 
 #: ../../LRW.rst:323
 msgid "Tap all creatures your opponents control."
@@ -1953,8 +1953,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../LRW.rst:730
 msgid ""
@@ -2084,7 +2084,7 @@ msgstr ""
 
 #: ../../LRW.rst:777
 msgid "Target creature gets -X/-X until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -X/-X."
 
 #: ../../LRW.rst:779
 msgid ""
@@ -3504,7 +3504,7 @@ msgstr ""
 
 #: ../../LRW.rst:1289
 msgid "Target player shuffles their graveyard into their library."
-msgstr ""
+msgstr "Wskazany gracz wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../LRW.rst:1291
 msgid ""

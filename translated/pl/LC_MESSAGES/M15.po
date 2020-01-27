@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:53+0000\n"
+"PO-Revision-Date: 2020-01-27 00:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m15/"
 "pl/>\n"
@@ -137,8 +137,8 @@ msgid ""
 "Enchanted creature has double strike. (It deals both first-strike and "
 "regular combat damage.)"
 msgstr ""
-"Zauroczony stwór ma podwójny cios.(Zadaje zarówno obrażenia bitewne jako "
-"pierwszy cios oraz normalnie.)"
+"Zauroczony stwór ma podwójny cios. (Zadaje on obrażenia bojowe w pierwszym "
+"ciosie oraz normalnie.)"
 
 #: ../../M15.rst:36
 msgid ""
@@ -2022,8 +2022,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../M15.rst:626
 msgid ""
@@ -2906,7 +2906,7 @@ msgstr ""
 # 22b313019da643ab9c66b7796c103d8d
 #: ../../M15.rst:911
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../M15.rst:918
 msgid ""
@@ -3129,6 +3129,8 @@ msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../M15.rst:992
 msgid ""
@@ -4211,7 +4213,7 @@ msgstr ""
 # c7c5a03077d94788b4e304795b1cccfe
 #: ../../M15.rst:1349
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../M15.rst:1354
 msgid ""
