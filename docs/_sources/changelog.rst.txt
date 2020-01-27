@@ -5,7 +5,7 @@ Spis zmian
 2020-01-27
    * Dragons of Tarkir - 100%
    * Khans of Tarkir - 100%
-   * Zaktualizowane tłumaczenia: FRF
+   * Zaktualizowane tłumaczenia: FRF, M14
 
 
 2020-01-25
