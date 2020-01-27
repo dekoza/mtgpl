@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -2113,7 +2113,7 @@ msgstr ""
 
 #: ../../C17.rst:713
 msgid "Whenever you gain life, target opponent loses that much life."
-msgstr "Ilekroć zyskujesz życie, wskazany przeciwnik traci tyle samo żyć."
+msgstr "Ilekroć zyskasz życia, wskazany przeciwnik traci tyle samo żyć."
 
 #: ../../C17.rst:720
 msgid ""
@@ -2399,7 +2399,7 @@ msgstr ""
 
 #: ../../C17.rst:815
 msgid "|mana_r|: Scourge of Valkas gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../C17.rst:822
 msgid ""
@@ -2602,6 +2602,9 @@ msgid ""
 "your graveyard, search your library for up to three basic Forest cards "
 "instead of two."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, wyszukaj w twojej bibliotece co najwyżej trzy karty "
+"bazowych Lasów zamiast dwóch."
 
 #: ../../C17.rst:894
 msgid ""
@@ -3498,19 +3501,23 @@ msgstr ""
 
 #: ../../C17.rst:1219
 msgid "As Door of Destinies enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając ten artefakt na polu walki wybierz typ stwora."
 
 #: ../../C17.rst:1221
 msgid ""
 "Whenever you cast a spell of the chosen type, put a charge counter on Door "
 "of Destinies."
 msgstr ""
+"Ilekroć rzucisz czar wybranego typu, umieść znacznik ładowania na tym "
+"artefakcie."
 
 #: ../../C17.rst:1223
 msgid ""
 "Creatures you control of the chosen type get +1/+1 for each charge counter "
 "on Door of Destinies."
 msgstr ""
+"Stwory wybranego typu pod twoim władaniem dostają +1/+1 za każdy znacznik "
+"ładowania na tym artefakcie."
 
 #: ../../C17.rst:1230
 msgid ""

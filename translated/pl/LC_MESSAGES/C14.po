@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c14/"
 "pl/>\n"
@@ -1169,7 +1169,7 @@ msgid ""
 "Choose a color. White creatures you control gain protection from the chosen "
 "color until end of turn."
 msgstr ""
-"Wybierz kolor. Białe stwory pod twoim władaniem dostają ochronę przed owym "
+"Wybierz kolor. Białe stwory pod twoim władaniem zyskują ochronę przed owym "
 "kolorem do końca tury."
 
 #: ../../C14.rst:400
@@ -2458,7 +2458,7 @@ msgid ""
 "discards a card and you create a tapped 2/2 black Zombie creature token."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę, a "
-"ty umieszczasz na polu walki przekręcony żeton czarnego stwora Zombi 2/2."
+"ty stwórz przekręcony żeton czarnego stwora Zombi 2/2."
 
 #: ../../C14.rst:846
 msgid ""
@@ -4385,24 +4385,23 @@ msgstr ""
 
 #: ../../C14.rst:1543
 msgid "|mana_1|, |tap|, Discard a card: You gain 4 life."
-msgstr ""
+msgstr "|mana_1|, |tap|, odrzuć kartę: Zyskaj 4 życia."
 
 #: ../../C14.rst:1545
-#, fuzzy
 msgid "|mana_1|, |tap|, Pay 1 life: Create a 0/1 white Goat creature token."
-msgstr ""
-"|mana_1|, |tap|, zapłać 1 życie: Umieść na polu walki żeton białego stwora "
-"Goat 0/1."
+msgstr "|mana_1|, |tap|, zapłać 1 życie: Stwórz żeton białego stwora Koza 0/1."
 
 #: ../../C14.rst:1547
 msgid ""
 "|mana_1|, |tap|, Sacrifice a creature: Return target artifact card from your "
 "graveyard to your hand."
 msgstr ""
+"|mana_1|, |tap|, poświęć stwora: Przywróć wskazany artefakt z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../C14.rst:1549
 msgid "|mana_1|, |tap|, Sacrifice an artifact: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć artefakt: Dobierz kartę."
 
 #: ../../C14.rst:1554
 msgid ""

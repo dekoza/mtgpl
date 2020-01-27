@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 14:52+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/3ed/"
 "pl/>\n"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: ../../3ED.rst:35
 msgid "|mana_w|: Enchanted creature gets +1/+1 until end of turn."
-msgstr "|mana_w|: Zauroczony stwór dostaje +1/+1 do końca tury."
+msgstr "|mana_w|: Zauroczony stwór dostaje do końca tury +1/+1."
 
 #: ../../3ED.rst:42
 msgid ""
@@ -1677,7 +1677,7 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
-"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
 "władaniem."
 
 #: ../../3ED.rst:616
@@ -1807,8 +1807,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
-"Ilekroć umrze stwór, który otrzymał od tego stwora obrażenia w tej turze, "
-"umieść znacznik +1/+1 na niniejszym stworze."
+"Ilekroć umrze stwór uszkodzony w tej turze przez niniejszego stwora, umieść "
+"na niniejszym stworze znacznik +1/+1."
 
 #: ../../3ED.rst:660
 msgid ""
@@ -2084,7 +2084,7 @@ msgstr ""
 
 #: ../../3ED.rst:765
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
 #: ../../3ED.rst:770
 msgid ""
@@ -2401,7 +2401,7 @@ msgstr ""
 
 #: ../../3ED.rst:887
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../3ED.rst:892
 msgid ""
@@ -3521,6 +3521,8 @@ msgid ""
 "|mana_2|, |tap|: Target player puts the top two cards of their library into "
 "their graveyard."
 msgstr ""
+"|mana_2|, |tap|: Wskazany gracz umieszcza dwie wierzchnie karty swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../3ED.rst:1310
 msgid ""
@@ -3615,7 +3617,7 @@ msgstr ""
 
 #: ../../3ED.rst:1339
 msgid "|mana_3|, |tap|: Rod of Ruin deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_3|, |tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../3ED.rst:1344
 msgid ""

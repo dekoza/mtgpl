@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/usg/"
 "pl/>\n"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: ../../USG.rst:45
 msgid "Target player gains 2 life for each creature on the battlefield."
-msgstr "Wskazany gracz zyskuje 2 życia za każdego stwora na polu walki."
+msgstr "Wskazany gracz zyskuje po 2 życia za każdego stwora na polu walki."
 
 #: ../../USG.rst:50
 msgid ""
@@ -1668,7 +1668,7 @@ msgid ""
 "control. You gain life equal to the damage dealt this way."
 msgstr ""
 "Ten czar zadaje wskazanemu celowi obrażenia równe liczbie Bagien pod twoim "
-"władaniem. Zyskujesz tyle żyć, ile obrażeń zadano w ten sposób."
+"władaniem. Zyskaj tyle żyć, ile obrażeń zadano w ten sposób."
 
 #: ../../USG.rst:620
 msgid ""
@@ -2505,7 +2505,7 @@ msgstr ""
 
 #: ../../USG.rst:925 ../../USG.rst:1073
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
 #: ../../USG.rst:927
 msgid ""
@@ -3355,7 +3355,7 @@ msgid ""
 "additional one mana of any color."
 msgstr ""
 "Ilekroć zauroczony ląd zostanie przekręcony przy pobieraniu many, jego "
-"władca dostaje dodatkowo jedną manę dowolnego koloru."
+"władca bierze dodatkowo jedną manę dowolnego koloru."
 
 #: ../../USG.rst:1250
 msgid ""

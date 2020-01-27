@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/10e/"
 "pl/>\n"
@@ -1493,8 +1493,8 @@ msgid ""
 "Target player puts the top half of their library, rounded down, into their "
 "graveyard."
 msgstr ""
-"Wskazany gracz umieszcza wierzchnią połowę swojej biblioteki w swoim "
-"cmentarzu, zaokrąglając w dół."
+"Wskazany gracz umieszcza wierzchnią połowę swojej biblioteki, zaokrąglając w "
+"dół, w swoim cmentarzu."
 
 #: ../../10E.rst:560
 msgid ""
@@ -2058,7 +2058,7 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
-"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
 "władaniem."
 
 #: ../../10E.rst:766
@@ -2210,8 +2210,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
-"Ilekroć umrze stwór, który otrzymał od tego stwora obrażenia w tej turze, "
-"umieść znacznik +1/+1 na niniejszym stworze."
+"Ilekroć umrze stwór uszkodzony w tej turze przez niniejszego stwora, umieść "
+"na niniejszym stworze znacznik +1/+1."
 
 #: ../../10E.rst:824
 msgid ""
@@ -2496,7 +2496,7 @@ msgstr ""
 
 #: ../../10E.rst:925
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
 #: ../../10E.rst:930
 msgid ""
@@ -2676,7 +2676,7 @@ msgstr ""
 
 #: ../../10E.rst:991
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 5 obrażeń."
 
 #: ../../10E.rst:996
 msgid ""
@@ -2848,7 +2848,7 @@ msgstr ""
 
 #: ../../10E.rst:1053
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../10E.rst:1060
 msgid ""
@@ -3631,8 +3631,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this "
 "ability only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje +2/+2 do końca tury. Aktywuj tę "
-"zdolność tylko raz na turę."
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tę zdolność tylko raz na turę."
 
 #: ../../10E.rst:1348
 msgid ""
@@ -4159,6 +4159,8 @@ msgid ""
 "|mana_2|, |tap|: Target player puts the top two cards of their library into "
 "their graveyard."
 msgstr ""
+"|mana_2|, |tap|: Wskazany gracz umieszcza dwie wierzchnie karty swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../10E.rst:1538
 msgid ""
@@ -4253,7 +4255,7 @@ msgstr ""
 
 #: ../../10E.rst:1569
 msgid "|mana_3|, |tap|: Rod of Ruin deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_3|, |tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../10E.rst:1574
 msgid ""

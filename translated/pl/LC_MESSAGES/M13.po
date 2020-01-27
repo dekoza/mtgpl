@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:49+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m13/"
 "pl/>\n"
@@ -202,7 +202,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../M13.rst:67
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../M13.rst:69
 msgid "Enchanted creature gets +1/+3."
@@ -1732,7 +1732,7 @@ msgstr ""
 
 #: ../../M13.rst:643
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M13.rst:648
 msgid ""
@@ -1779,8 +1779,8 @@ msgid ""
 "Flames of the Firebrand deals 3 damage divided as you choose among one, two, "
 "or three targets."
 msgstr ""
-"Ten czar zadaje 3 obrażenia rozdzielone według twojego wyboru pomiędzy "
-"jeden, dwa albo trzy wskazane cele."
+"Ten czar zadaje 3 obrażenia rozdzielone dowolnie pomiędzy jeden, dwa albo "
+"trzy wskazane cele."
 
 #: ../../M13.rst:668
 msgid ""
@@ -2722,6 +2722,8 @@ msgid ""
 "|mana_2|, |tap|: You gain 5 life. Shuffle Elixir of Immortality and your "
 "graveyard into their owner's library."
 msgstr ""
+"|mana_2|, |tap|: Zyskaj 5 życia. Wtasuj ten artefakt oraz twój cmentarz do "
+"bibliotek ich właścicieli."
 
 #: ../../M13.rst:1012
 msgid ""
@@ -2974,21 +2976,23 @@ msgstr ""
 
 #: ../../M13.rst:1101
 msgid "|mana_1|, |tap|, Discard a card: You gain 4 life."
-msgstr ""
+msgstr "|mana_1|, |tap|, odrzuć kartę: Zyskaj 4 życia."
 
 #: ../../M13.rst:1103
 msgid "|mana_1|, |tap|, Pay 1 life: Create a 0/1 white Goat creature token."
-msgstr ""
+msgstr "|mana_1|, |tap|, zapłać 1 życie: Stwórz żeton białego stwora Koza 0/1."
 
 #: ../../M13.rst:1105
 msgid ""
 "|mana_1|, |tap|, Sacrifice a creature: Return target artifact card from your "
 "graveyard to your hand."
 msgstr ""
+"|mana_1|, |tap|, poświęć stwora: Przywróć wskazany artefakt z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../M13.rst:1107
 msgid "|mana_1|, |tap|, Sacrifice an artifact: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć artefakt: Dobierz kartę."
 
 #: ../../M13.rst:1116
 msgid ""

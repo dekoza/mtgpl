@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -2531,7 +2531,7 @@ msgstr ""
 
 #: ../../C16.rst:877
 msgid "Kalonian Hydra enters the battlefield with four +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki z czterema znacznikami +1/+1."
+msgstr "Ten stwór wchodzi na pole walki mając cztery znaczniki +1/+1."
 
 #: ../../C16.rst:879
 msgid ""
@@ -4500,21 +4500,23 @@ msgstr ""
 
 #: ../../C16.rst:1579
 msgid "|mana_1|, |tap|, Discard a card: You gain 4 life."
-msgstr ""
+msgstr "|mana_1|, |tap|, odrzuć kartę: Zyskaj 4 życia."
 
 #: ../../C16.rst:1581
 msgid "|mana_1|, |tap|, Pay 1 life: Create a 0/1 white Goat creature token."
-msgstr ""
+msgstr "|mana_1|, |tap|, zapłać 1 życie: Stwórz żeton białego stwora Koza 0/1."
 
 #: ../../C16.rst:1583
 msgid ""
 "|mana_1|, |tap|, Sacrifice a creature: Return target artifact card from your "
 "graveyard to your hand."
 msgstr ""
+"|mana_1|, |tap|, poświęć stwora: Przywróć wskazany artefakt z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../C16.rst:1585
 msgid "|mana_1|, |tap|, Sacrifice an artifact: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć artefakt: Dobierz kartę."
 
 #: ../../C16.rst:1592
 msgid ""

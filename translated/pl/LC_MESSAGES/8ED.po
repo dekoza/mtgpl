@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/8ed/"
 "pl/>\n"
@@ -1872,7 +1872,7 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
-"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
 "władaniem."
 
 #: ../../8ED.rst:722
@@ -2418,7 +2418,7 @@ msgstr ""
 
 #: ../../8ED.rst:921
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 5 obrażeń."
 
 #: ../../8ED.rst:928
 msgid ""
@@ -2697,7 +2697,7 @@ msgstr ""
 
 #: ../../8ED.rst:1027
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../8ED.rst:1032
 msgid ""
@@ -3022,7 +3022,7 @@ msgid ""
 "additional one mana of any color."
 msgstr ""
 "Ilekroć zauroczony ląd zostanie przekręcony przy pobieraniu many, jego "
-"władca dostaje dodatkowo jedną manę dowolnego koloru."
+"władca bierze dodatkowo jedną manę dowolnego koloru."
 
 #: ../../8ED.rst:1154
 msgid ""
@@ -3734,6 +3734,8 @@ msgid ""
 "|mana_2|, |tap|: Target player puts the top two cards of their library into "
 "their graveyard."
 msgstr ""
+"|mana_2|, |tap|: Wskazany gracz umieszcza dwie wierzchnie karty swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../8ED.rst:1410
 msgid ""
@@ -3794,7 +3796,7 @@ msgstr ""
 
 #: ../../8ED.rst:1429
 msgid "|mana_3|, |tap|: Rod of Ruin deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_3|, |tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../8ED.rst:1434
 msgid ""

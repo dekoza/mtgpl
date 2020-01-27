@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -32,7 +32,6 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:9
-#, fuzzy
 msgid "|mana_2|\\ |mana_w|, |tap|: Tap target creature."
 msgstr "|mana_2|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
@@ -48,8 +47,8 @@ msgid ""
 "When Ampryn Tactician enters the battlefield, creatures you control get +1/"
 "+1 until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają +1/"
-"+1 do końca tury."
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1."
 
 #: ../../ORI.rst:18
 msgid ""
@@ -60,7 +59,7 @@ msgstr ""
 
 #: ../../ORI.rst:17
 msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
-msgstr "|tap|: Wskazany atakujący stwór dostaje +1/+1 do końca tury."
+msgstr "|tap|: Wskazany atakujący stwór dostaje do końca tury +1/+1."
 
 #: ../../ORI.rst:26
 msgid ""
@@ -82,17 +81,17 @@ msgid ""
 "planeswalker you control unless their controller pays |mana_1| for each of "
 "those creatures."
 msgstr ""
-"O ile ten stwór jest odtapowany, stwory nie mogą atakować ciebie lub "
-"wędrowca pod twoim władaniem dopóki ich władcy nie zapłacą |mana_1| za "
-"każdego z owych stworów."
+"O ile ten stwór jest odkręcony, stwory nie mogą atakować ciebie lub wędrowca "
+"pod twoim władaniem, chyba że ich władca zapłaci po |mana_1| za każdego z "
+"owych stworów."
 
 #: ../../ORI.rst:25
 msgid ""
 "As long as Archangel of Tithes is attacking, creatures can't block unless "
 "their controller pays |mana_1| for each of those creatures."
 msgstr ""
-"O ile ten stwór atakuje, stwory nie mogą blokować o ile ich władca nie "
-"zapłaci |mana_1| za każdego z owych stworów."
+"O ile ten stwór atakuje, stwory nie mogą blokować, chyba że ich władca "
+"zapłaci po |mana_1| za każdego z owych stworów."
 
 #: ../../ORI.rst:30
 msgid ""
@@ -129,7 +128,7 @@ msgstr ""
 
 #: ../../ORI.rst:35
 msgid "When Aven Battle Priest enters the battlefield, you gain 3 life."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../ORI.rst:42
 msgid ""
@@ -142,7 +141,7 @@ msgstr ""
 msgid ""
 "Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed "
 "Spirits."
-msgstr "Ilekroć rzucasz urok, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć rzucisz urok, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ORI.rst:46
 msgid ""
@@ -164,7 +163,7 @@ msgstr ""
 
 #: ../../ORI.rst:51
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Ilekroć ten stwór atakuje, dostaje +1/+1 do końca tury."
+msgstr "Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1."
 
 #: ../../ORI.rst:56
 msgid ""
@@ -178,8 +177,8 @@ msgid ""
 "When Cleric of the Forward Order enters the battlefield, you gain 2 life for "
 "each creature you control named Cleric of the Forward Order."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zyskujesz 2 życia za każdego stwora o "
-"takiej samej nazwie jak niniejsza karta."
+"Kiedy ten stwór wejdzie na pole walki, zyskaj po 2 życia za każdego stwora "
+"pod twoim władaniem o takiej samej nazwie jak niniejsza karta."
 
 #: ../../ORI.rst:64
 msgid ""
@@ -200,12 +199,16 @@ msgid ""
 "Renown 1 (When this creature deals combat damage to a player, if it isn't "
 "renowned, put a +1/+1 counter on it and it becomes renowned.)"
 msgstr ""
+"Sława 1 (Kiedy ten stwór zada graczowi obrażenia bojowe, jeśli nie jest "
+"sławny, umieść na nim znacznik +1/+1 i staje się sławny.)"
 
 #: ../../ORI.rst:63
 msgid ""
 "Whenever Consul's Lieutenant attacks, if it's renowned, other attacking "
 "creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, jeśli jest sławny, inne atakujące stwory pod "
+"twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../ORI.rst:68
 msgid ""
@@ -218,7 +221,7 @@ msgstr ""
 msgid ""
 "When Enlightened Ascetic enters the battlefield, you may destroy target "
 "enchantment."
-msgstr "Kiedy ta karta wejdzie na pole walki, możesz zniszczyć wskazany urok."
+msgstr "Kiedy ten stwór wejdzie na pole walki, możesz zniszczyć wskazany urok."
 
 #: ../../ORI.rst:72
 msgid ""
@@ -232,6 +235,8 @@ msgid ""
 "Target creature gets +1/+1 until end of turn. Prevent all damage that would "
 "be dealt to it this turn. If it's renowned, untap it."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+1. Zażegnaj wszystkie obrażenia, "
+"jakie mógłby otrzymać w tej turze. Jeśli jest sławny, odkręć go."
 
 #: ../../ORI.rst:78
 msgid ""
@@ -242,13 +247,16 @@ msgstr ""
 
 #: ../../ORI.rst:75
 msgid "Create four 2/2 white Knight creature tokens with vigilance."
-msgstr ""
+msgstr "Stwórz cztery żetony białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../ORI.rst:77
 msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, creatures you control gain indestructible until end of turn."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, stwory pod twoim władaniem zyskują niezniszczalność "
+"do końca tury."
 
 #: ../../ORI.rst:84
 msgid ""
@@ -268,6 +276,8 @@ msgid ""
 "Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, tap "
 "target creature defending player controls.\""
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i ma \"Ilekroć ten stwór atakuje, przekręć "
+"wskazanego stwora pod władaniem broniącego się gracza.\""
 
 #: ../../ORI.rst:90
 msgid ""
@@ -281,6 +291,8 @@ msgid ""
 "Until end of turn, if a creature would enter the battlefield and it wasn't "
 "cast, exile it instead."
 msgstr ""
+"Do końca tury jeśli stwór miałby wejść na pole walki, a nie został rzucony, "
+"zamiast tego wygnaj go."
 
 #: ../../ORI.rst:89 ../../ORI.rst:95 ../../ORI.rst:267 ../../ORI.rst:335
 msgid "Draw a card."
@@ -309,7 +321,7 @@ msgid ""
 "When Heavy Infantry enters the battlefield, tap target creature an opponent "
 "controls."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, przekręć wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
 "władaniem przeciwnika."
 
 #: ../../ORI.rst:106
@@ -330,6 +342,9 @@ msgid ""
 "entered the battlefield this turn, exile that creature until Hixus leaves "
 "the battlefield. (That creature returns under its owner's control.)"
 msgstr ""
+"Ilekroć stwór zada tobie obrażenia bojowe, jeśli niniejszy stwór wszedł na "
+"pole walki w tej turze, wygnaj owego stwora dopóki niniejszy stwór nie "
+"opuści pola walki. (Ów stwór wróci pod władanie swojego właściciela.)"
 
 #: ../../ORI.rst:110
 msgid ""
@@ -351,9 +366,9 @@ msgid ""
 "controls more lands than you, you may search your library for a Plains card, "
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli przeciwnik ma we władaniu więcej "
-"lądów niż ty, możesz poszukać w twojej bibliotece kartę Równin, położyć ją "
-"na polu walki, a następnie przetasować twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole walki, jeśli przeciwnik ma we władaniu "
+"więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin i "
+"umieścić ją na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:124
 msgid ""
@@ -390,9 +405,8 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:129
-#, fuzzy
 msgid "|mana_2|\\ |mana_w|: Kytheon gains indestructible until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_2|\\ |mana_w|: Ten stwór zyskuje niezniszczalność do końca tury."
 
 #: ../../ORI.rst:138
 msgid ""
@@ -429,9 +443,8 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:143
-#, fuzzy
 msgid "|mana_w|\\ |mana_w|: Tap target creature."
-msgstr "|mana_2|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
+msgstr "|mana_w|\\ |mana_w|: Przekręć wskazanego stwora."
 
 #: ../../ORI.rst:150
 msgid ""
@@ -450,6 +463,9 @@ msgid ""
 "your graveyard, those creatures also gain vigilance until end of turn. "
 "(Attacking doesn't cause them to tap.)"
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, owe stwory zyskują także czujność do końca tury. ("
+"Atakowanie nie przekręca ich.)"
 
 #: ../../ORI.rst:154
 msgid ""
@@ -508,6 +524,9 @@ msgid ""
 "When Relic Seeker becomes renowned, you may search your library for an "
 "Equipment card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór zostanie sławny, możesz wyszukać w twojej bibliotece kartę "
+"Wyposażenia, ujawnić ją i umieścić w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ORI.rst:178
 msgid ""
@@ -625,9 +644,9 @@ msgid ""
 "library for an Aura card, reveal it, put it into your hand, then shuffle "
 "your library."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"kartę Aury, ujawnić ją i dołożyć do twojej ręki, a następnie przetasować "
-"twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę Aury, ujawnić ją i umieścić w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ORI.rst:220
 msgid ""
@@ -655,8 +674,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, creatures you "
 "control get +1/+1 until end of turn."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, stwory pod twoim "
-"władaniem dostają +1/+1 do końca tury."
+"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, stwory pod twoim "
+"władaniem dostają do końca tury +1/+1."
 
 #: ../../ORI.rst:230
 msgid ""
@@ -780,6 +799,10 @@ msgid ""
 "library, then put any number of them on the bottom of your library and the "
 "rest on top in any order.)"
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, wróż 2. (By wróżyć 2, spójrz na dwie wierzchnie "
+"karty twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ORI.rst:278
 msgid ""
@@ -1103,6 +1126,9 @@ msgid ""
 "your graveyard, you may copy the spell countered this way. You may choose "
 "new targets for the copy."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, możesz skopiować czar skontrowany w ten sposób. "
+"Możesz wskazać nowe cele dla kopii."
 
 #: ../../ORI.rst:394
 msgid ""
@@ -1154,6 +1180,9 @@ msgid ""
 "your graveyard, those creatures don't untap during their controllers' next "
 "untap steps."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, owe stwory nie odkręcą się w najbliższym kroku "
+"odkręcania swoich właścicieli."
 
 #: ../../ORI.rst:414
 msgid ""
@@ -1237,9 +1266,8 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:435
-#, fuzzy
 msgid "|mana_5|\\ |mana_u|: Draw a card, then discard a card."
-msgstr "|mana_4|, |tap|: Dobierz kartę."
+msgstr "|mana_5|\\ |mana_u|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../ORI.rst:446
 msgid ""
@@ -1284,6 +1312,9 @@ msgid ""
 "your graveyard, you may cast up to two revealed instant and/or sorcery cards "
 "instead of one."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, możesz rzucić co najwyżej dwie ujawnione karty "
+"sztuczek i/lub obrzędów zamiast jednej."
 
 #: ../../ORI.rst:458
 msgid ""
@@ -1393,7 +1424,7 @@ msgid ""
 "Whenever you cast an enchantment spell, you may have target creature get "
 "-2/-2 until end of turn."
 msgstr ""
-"Ilekroć rzucasz urok, możesz dać wskazanemu stworowi -2/-2 do końca tury."
+"Ilekroć rzucisz urok, możesz dać wskazanemu stworowi -2/-2 do końca tury."
 
 #: ../../ORI.rst:488
 msgid ""
@@ -1452,6 +1483,9 @@ msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, also regenerate each other creature you control."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, dodatkowo zregeneruj każdego innego stwora pod twoim "
+"władaniem."
 
 #: ../../ORI.rst:512
 msgid ""
@@ -1473,6 +1507,8 @@ msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, weź |mana_b|\\ |mana_b|\\ |mana_b|."
 
 #: ../../ORI.rst:516
 msgid ""
@@ -1562,8 +1598,8 @@ msgid ""
 "When Eyeblight Assassin enters the battlefield, target creature an opponent "
 "controls gets -1/-1 until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany stwór pod władaniem "
-"przeciwnika dostaje -1/-1 do końca tury."
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -1/-1."
 
 #: ../../ORI.rst:548
 msgid ""
@@ -1818,6 +1854,9 @@ msgid ""
 "your graveyard, that creature enters the battlefield with two additional +1/"
 "+1 counters on it."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, ów stwór wchodzi na pole walki mając dwa dodatkowe "
+"znaczniki +1/+1."
 
 #: ../../ORI.rst:632
 msgid ""
@@ -2039,6 +2078,8 @@ msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, you gain 2 life."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, zyskaj 2 życia."
 
 #: ../../ORI.rst:706
 msgid ""
@@ -2303,6 +2344,8 @@ msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, this spell can't be countered."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, ten czar nie może być skontrowany."
 
 #: ../../ORI.rst:808
 msgid ""
@@ -2327,18 +2370,12 @@ msgid "Fiery Impulse deals 2 damage to target creature."
 msgstr ""
 
 #: ../../ORI.rst:813
-#, fuzzy
-#| msgid ""
-#| "Spell mastery — If there are two or more instant and/or sorcery cards in "
-#| "your graveyard, you may cast Swift Reckoning as though it had flash. (You "
-#| "may cast it any time you could cast an instant.)"
 msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, Fiery Impulse deals 3 damage instead."
 msgstr ""
 "Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
-"sztuczki i/lub obrzędu, możesz rzucić ten czar tak, jakby miał błysk. "
-"(Możesz zagrać go jako sztuczkę.)"
+"sztuczki i/lub obrzędu, zamiast tego ten czar zadaje 3 obrażenia."
 
 #: ../../ORI.rst:820
 msgid ""
@@ -2408,6 +2445,8 @@ msgid ""
 "As long as Goblin Glory Chaser is renowned, it has menace. (It can't be "
 "blocked except by two or more creatures.)"
 msgstr ""
+"O ile ten stwór jest sławny, ma złowrogość. (Nie może być blokowany, chyba "
+"że przez co najmniej dwa stwory.)"
 
 #: ../../ORI.rst:844
 msgid ""
@@ -2545,6 +2584,9 @@ msgid ""
 "your graveyard, Ravaging Blaze also deals X damage to that creature's "
 "controller."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, ten czar dodatkowo zadaje władcy owego stwora X "
+"obrażeń."
 
 #: ../../ORI.rst:896
 msgid ""
@@ -2562,6 +2604,8 @@ msgid ""
 "Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is "
 "renowned, Scab-Clan Berserker deals 2 damage to that player."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar nie będący stworem, jeśli niniejszy stwór jest "
+"sławny, zadaje on owemu graczowi 2 obrażenia."
 
 #: ../../ORI.rst:900
 msgid ""
@@ -2695,6 +2739,8 @@ msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, untap those lands."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, odkręć owe lądy."
 
 #: ../../ORI.rst:940
 msgid ""
@@ -2830,6 +2876,9 @@ msgid ""
 "your graveyard, put up to two creature cards from among the revealed cards "
 "into your hand instead of one."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, umieść w twojej ręce co najwyżej dwie karty spośród "
+"ujawnionych zamiast jednej."
 
 #: ../../ORI.rst:986
 msgid ""
@@ -2880,6 +2929,8 @@ msgid ""
 "As long as Honored Hierarch is renowned, it has vigilance and \"|tap|: Add "
 "one mana of any color.\""
 msgstr ""
+"O ile ten stwór jest sławny, ma czujność oraz \"|tap|: Weź jedną manę "
+"dowolnego koloru.\""
 
 #: ../../ORI.rst:1006
 msgid ""
@@ -3030,6 +3081,9 @@ msgid ""
 "your graveyard, search your library for up to three basic Forest cards "
 "instead of two."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, wyszukaj w twojej bibliotece co najwyżej trzy karty "
+"bazowych Lasów zamiast dwóch."
 
 #: ../../ORI.rst:1054
 msgid ""
@@ -3071,6 +3125,8 @@ msgid ""
 "Renown 6 (When this creature deals combat damage to a player, if it isn't "
 "renowned, put six +1/+1 counters on it and it becomes renowned.)"
 msgstr ""
+"Sława 6 (Kiedy ten stwór zada graczowi obrażenia bojowe, jeśli nie jest "
+"sławny, umieść na nim sześć znaczników +1/+1 i staje się sławny.)"
 
 #: ../../ORI.rst:1063
 msgid "Outland Colossus can't be blocked by more than one creature."
@@ -3106,6 +3162,8 @@ msgid ""
 "Renown 2 (When this creature deals combat damage to a player, if it isn't "
 "renowned, put two +1/+1 counters on it and it becomes renowned.)"
 msgstr ""
+"Sława 2 (Kiedy ten stwór zada graczowi obrażenia bojowe, jeśli nie jest "
+"sławny, umieść na nim dwa znaczniki +1/+1 i staje się sławny.)"
 
 #: ../../ORI.rst:1086
 msgid ""
@@ -3128,14 +3186,14 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:1091
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|: Target creature you control gains trample until end of "
 "turn. (It can deal excess combat damage to the player or planeswalker it's "
 "attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
-"wędrowca, którego atakuje.)"
+"|mana_1|\\ |mana_g|: Wskazany stwór pod twoim władaniem zyskuje tratowanie "
+"do końca tury. (Może zadać nadwyżkę obrażeń bojowych atakowanemu graczowi "
+"lub wędrowcowi.)"
 
 #: ../../ORI.rst:1098
 msgid ""
@@ -3198,7 +3256,7 @@ msgstr ""
 
 #: ../../ORI.rst:1117
 msgid "Whenever a creature you control becomes renowned, draw a card."
-msgstr ""
+msgstr "Ilekroć stwór pod twoim władaniem stanie się sławny, dobierz kartę."
 
 #: ../../ORI.rst:1120
 msgid ""
@@ -3479,7 +3537,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż wyłącznie jako obrzęd.)"
+"Używaj jako obrzęd.)"
 
 #: ../../ORI.rst:1224
 msgid ""
@@ -3599,6 +3657,8 @@ msgstr ""
 #: ../../ORI.rst:1265
 msgid "When Meteorite enters the battlefield, it deals 2 damage to any target."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../ORI.rst:1267
 msgid "|tap|: Add one mana of any color."
@@ -4029,7 +4089,7 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
-"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
 "władaniem."
 
 #: ../../ORI.rst:1450
@@ -4044,8 +4104,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
-"Ilekroć umrze stwór, który otrzymał od tego stwora obrażenia w tej turze, "
-"umieść znacznik +1/+1 na niniejszym stworze."
+"Ilekroć umrze stwór uszkodzony w tej turze przez niniejszego stwora, umieść "
+"na niniejszym stworze znacznik +1/+1."
 
 #: ../../ORI.rst:1454
 msgid ""
@@ -4067,7 +4127,7 @@ msgstr ""
 
 #: ../../ORI.rst:1459
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ORI.rst:1464
 msgid ""

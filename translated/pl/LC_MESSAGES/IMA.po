@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ima/"
 "pl/>\n"
@@ -153,7 +153,7 @@ msgstr ""
 msgid ""
 "Whenever you gain life, put a +1/+1 counter on each creature you control."
 msgstr ""
-"Ilekroć zyskujesz życie, umieść znacznik +1/+1 na każdym stworze pod twoim "
+"Ilekroć zyskasz życia, umieść znacznik +1/+1 na każdym stworze pod twoim "
 "władaniem."
 
 #: ../../IMA.rst:56
@@ -408,7 +408,7 @@ msgstr ""
 
 #: ../../IMA.rst:145
 msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany atakujący stwór dostaje do końca tury +1/+1."
 
 #: ../../IMA.rst:150
 msgid ""
@@ -441,7 +441,7 @@ msgid ""
 "Whenever one or more creatures you control attack, you gain life equal to "
 "the number of attacking creatures."
 msgstr ""
-"Ilekroć co najmniej jeden stwór pod twoim władaniem atakuje, zyskujesz życia "
+"Ilekroć co najmniej jeden stwór pod twoim władaniem atakuje, zyskaj życia "
 "równe liczbie atakujących stworów."
 
 #: ../../IMA.rst:166
@@ -545,6 +545,8 @@ msgid ""
 "Renown 1 (When this creature deals combat damage to a player, if it isn't "
 "renowned, put a +1/+1 counter on it and it becomes renowned.)"
 msgstr ""
+"Sława 1 (Kiedy ten stwór zada graczowi obrażenia bojowe, jeśli nie jest "
+"sławny, umieść na nim znacznik +1/+1 i staje się sławny.)"
 
 #: ../../IMA.rst:200
 msgid ""
@@ -1342,9 +1344,9 @@ msgid ""
 "until end of turn. That creature gets -4/-4 instead if you control a "
 "creature named Bogbrew Witch."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje "
-"-1/-1 do końca tury. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz "
-"stworem o nazwie Bogbrew Witch."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
+"końca tury -1/-1. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz stworem "
+"o nazwie Bogbrew Witch."
 
 #: ../../IMA.rst:516
 msgid ""
@@ -1584,7 +1586,7 @@ msgstr ""
 
 #: ../../IMA.rst:597
 msgid "Whenever you gain life, target opponent loses that much life."
-msgstr "Ilekroć zyskujesz życie, wskazany przeciwnik traci tyle samo żyć."
+msgstr "Ilekroć zyskasz życia, wskazany przeciwnik traci tyle samo żyć."
 
 #: ../../IMA.rst:606
 msgid ""
@@ -1825,7 +1827,7 @@ msgid ""
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
-"oraz zdolnością \"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
+"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
 
 #: ../../IMA.rst:690
 msgid ""
@@ -2140,7 +2142,7 @@ msgstr ""
 
 #: ../../IMA.rst:801
 msgid "|mana_r|: Scourge of Valkas gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../IMA.rst:808
 msgid ""
@@ -2232,7 +2234,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../IMA.rst:843
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą przekręcone na pole walki."
+"Stwory pod władaniem twoich przeciwników wchodzą przekręcone na pole walki."
 
 #: ../../IMA.rst:850
 msgid ""
@@ -2469,8 +2471,8 @@ msgid ""
 "power to the other.)"
 msgstr ""
 "Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
-"stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
-"nawzajem obrażenia równe ich sile.)"
+"stwór walczy ze wskazanym stworem poza twoim władaniem. (Każdy zadaje "
+"drugiemu obrażenia równe swojej sile.)"
 
 #: ../../IMA.rst:926
 msgid ""
@@ -3188,13 +3190,15 @@ msgstr ""
 
 #: ../../IMA.rst:1187
 msgid "|mana_1|, |tap|, Sacrifice a creature: You gain 4 life."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć stwora: Zyskaj 4 życia."
 
 #: ../../IMA.rst:1189
 msgid ""
 "|mana_1|, |tap|, Sacrifice a creature named Festering Newt: Each opponent "
 "loses 4 life. You gain life equal to the life lost this way."
 msgstr ""
+"|mana_1|, |tap|, poświęć stwora o nazwie Festering Newt: Każdy przeciwnik "
+"traci po 4 życia. Zyskaj tyle żyć, ile stracono w ten sposób."
 
 #: ../../IMA.rst:1198
 msgid ""

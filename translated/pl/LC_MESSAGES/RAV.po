@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rav/"
 "pl/>\n"
@@ -903,12 +903,12 @@ msgid ""
 msgstr ""
 
 #: ../../RAV.rst:337
-#, fuzzy
-#| msgid "Reach (This creature can block creatures with flying.)"
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../RAV.rst:342
 msgid ""

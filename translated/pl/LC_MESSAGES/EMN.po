@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:49+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -348,11 +348,11 @@ msgstr "Wybierz jedno lub oba —"
 
 #: ../../EMN.rst:107
 msgid "Creatures you control get +2/+0 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+0 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../EMN.rst:109
 msgid "Creatures you control get +0/+2 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +0/+2 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+2."
 
 #: ../../EMN.rst:118
 msgid ""
@@ -2913,7 +2913,7 @@ msgstr ""
 
 #: ../../EMN.rst:1047
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskaj 4 życia."
 
 #: ../../EMN.rst:1054
 msgid ""

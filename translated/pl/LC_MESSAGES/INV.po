@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/inv/"
 "pl/>\n"
@@ -2124,7 +2124,7 @@ msgstr ""
 
 #: ../../INV.rst:781
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
 #: ../../INV.rst:783
 msgid "|mana_r|: Return Crown of Flames to its owner's hand."
@@ -2752,7 +2752,7 @@ msgid ""
 "additional one mana of any color."
 msgstr ""
 "Ilekroć zauroczony ląd zostanie przekręcony przy pobieraniu many, jego "
-"władca dostaje dodatkowo jedną manę dowolnego koloru."
+"władca bierze dodatkowo jedną manę dowolnego koloru."
 
 #: ../../INV.rst:1032
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m19/"
 "pl/>\n"
@@ -294,7 +294,7 @@ msgstr ""
 
 #: ../../M19.rst:85
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskaj 4 życia."
 
 #: ../../M19.rst:90
 msgid ""
@@ -1290,7 +1290,7 @@ msgstr ""
 
 #: ../../M19.rst:429
 msgid "Whenever a creature with flying attacks, you may draw a card."
-msgstr "Ilekroć atakuje stwór z lataniem, możesz dobrać kartę."
+msgstr "Ilekroć stwór z lataniem atakuje, możesz dobrać kartę."
 
 #: ../../M19.rst:434
 msgid ""
@@ -2089,7 +2089,7 @@ msgid ""
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
-"oraz zdolnością \"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
+"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
 
 #: ../../M19.rst:696
 msgid ""
@@ -2255,7 +2255,7 @@ msgstr ""
 
 #: ../../M19.rst:747
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 5 obrażeń."
 
 #: ../../M19.rst:756
 msgid ""
@@ -4311,7 +4311,7 @@ msgstr ""
 
 #: ../../M19.rst:1487
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M19.rst:1496
 msgid ""

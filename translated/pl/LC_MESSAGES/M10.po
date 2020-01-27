@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m10/"
 "pl/>\n"
@@ -243,9 +243,8 @@ msgid ":mtgtip:`Indestructibility<https://img.scryfall.com/cards/border_crop/en/
 msgstr ""
 
 #: ../../M10.rst:89
-#, fuzzy
 msgid "Enchant permanent"
-msgstr "Zaurocz stwora"
+msgstr "Zaurocz permanent"
 
 #: ../../M10.rst:91
 msgid ""
@@ -253,6 +252,9 @@ msgid ""
 "don't destroy that permanent. A creature with indestructible can't be "
 "destroyed by damage.)"
 msgstr ""
+"Zauroczony permanent ma niezniszczalność. (Efekty mówiące \"zniszcz\" nie "
+"niszczą go. Stwór z niezniszczalnością nie może być zniszczony przez "
+"obrażenia.)"
 
 #: ../../M10.rst:98
 msgid ":mtgtip:`Lifelink<https://img.scryfall.com/cards/border_crop/en/m10/18.jpg?1517813031|https://scryfall.com/card/m10/18/lifelink?utm_source=api>`"
@@ -338,9 +340,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:125
-#, fuzzy
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wszystkie nielądowe permanenty."
 
 #: ../../M10.rst:132
 msgid ""
@@ -419,6 +420,8 @@ msgid ""
 "Your opponents can't cast spells this turn. (Spells cast before this "
 "resolves are unaffected.)"
 msgstr ""
+"Twoi przeciwnicy nie mogą rzucać czarów w tej turze. (Nie wpływa na czary "
+"rzucone przed rozpatrzeniem niniejszego.)"
 
 #: ../../M10.rst:160
 msgid ""
@@ -436,7 +439,7 @@ msgstr ""
 
 #: ../../M10.rst:165
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskaj 4 życia."
 
 #: ../../M10.rst:170
 msgid ""
@@ -570,6 +573,8 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the"
 " battlefield."
 msgstr ""
+"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
+"stwora znajdującego się na polu walki."
 
 #: ../../M10.rst:226
 msgid ""
@@ -818,9 +823,8 @@ msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/en/m10/65.jpg?
 msgstr ""
 
 #: ../../M10.rst:319
-#, fuzzy
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar stwora."
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../M10.rst:324
 msgid ""
@@ -831,7 +835,7 @@ msgstr ""
 
 #: ../../M10.rst:323
 msgid "Phantom Warrior can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../M10.rst:328
 msgid ":mtgtip:`Polymorph<https://img.scryfall.com/cards/border_crop/en/m10/67.jpg?1517813031|https://scryfall.com/card/m10/67/polymorph?utm_source=api>`"
@@ -955,6 +959,8 @@ msgid ""
 "Target player puts the top five cards of their library into their "
 "graveyard."
 msgstr ""
+"Wskazany gracz umieszcza pięć wierzchnich kart swojej biblioteki w swoim "
+"cmentarzu."
 
 #: ../../M10.rst:376
 msgid ":mtgtip:`Traumatize<https://img.scryfall.com/cards/border_crop/en/m10/77.jpg?1517813031|https://scryfall.com/card/m10/77/traumatize?utm_source=api>`"
@@ -965,6 +971,8 @@ msgid ""
 "Target player puts the top half of their library, rounded down, into "
 "their graveyard."
 msgstr ""
+"Wskazany gracz umieszcza wierzchnią połowę swojej biblioteki, zaokrąglając w "
+"dół, w swoim cmentarzu."
 
 #: ../../M10.rst:380
 msgid ":mtgtip:`Twincast<https://img.scryfall.com/cards/border_crop/en/m10/78.jpg?1517813031|https://scryfall.com/card/m10/78/twincast?utm_source=api>`"
@@ -996,11 +1004,12 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../M10.rst:389
-#, fuzzy
 msgid ""
 "Whenever Wall of Frost blocks a creature, that creature doesn't untap "
 "during its controller's next untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr ""
+"Ilekroć ten stwór zablokuje stwora, ów stwór nie odkręci się w najbliższym "
+"kroku odkręcania swojego władcy."
 
 #: ../../M10.rst:394
 msgid ""
@@ -1126,6 +1135,8 @@ msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../M10.rst:444
 msgid ":mtgtip:`Disentomb<https://img.scryfall.com/cards/border_crop/en/m10/92.jpg?1517813031|https://scryfall.com/card/m10/92/disentomb?utm_source=api>`"
@@ -1143,9 +1154,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:447
-#, fuzzy
 msgid "Destroy target nonblack creature."
-msgstr "Zniszcz wskazanego przekręconego stwora."
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../M10.rst:452
 msgid ""
@@ -1325,6 +1335,8 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps "
 "you control."
 msgstr ""
+"Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
+"władaniem."
 
 #: ../../M10.rst:520
 msgid ""
@@ -1378,7 +1390,7 @@ msgstr ""
 
 #: ../../M10.rst:531
 msgid "Whenever you gain life, target opponent loses that much life."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, wskazany przeciwnik traci tyle samo żyć."
 
 #: ../../M10.rst:536
 msgid ""
@@ -1720,9 +1732,8 @@ msgid ":mtgtip:`Firebreathing<https://img.scryfall.com/cards/border_crop/en/m10/
 msgstr ""
 
 #: ../../M10.rst:665
-#, fuzzy
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
 #: ../../M10.rst:670
 msgid ""
@@ -1813,7 +1824,7 @@ msgstr ""
 
 #: ../../M10.rst:699
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 5 obrażeń."
 
 #: ../../M10.rst:704
 msgid ""
@@ -1932,7 +1943,7 @@ msgstr ""
 
 #: ../../M10.rst:749
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M10.rst:756
 msgid ""
@@ -2336,9 +2347,9 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:893
-#, fuzzy
 msgid "Create a 2/2 green Wolf creature token for each Forest you control."
-msgstr "Zauroczony stwór nie może atakować ani blokować."
+msgstr ""
+"Stwórz żeton zielonego stwora Wilk 2/2 za każdy Las pod twoim władaniem."
 
 #: ../../M10.rst:898
 msgid ""
@@ -2738,7 +2749,7 @@ msgstr ""
 
 #: ../../M10.rst:1041
 msgid "|mana_3|, |tap|: Rod of Ruin deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_3|, |tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M10.rst:1046
 msgid ":mtgtip:`Spellbook<https://img.scryfall.com/cards/border_crop/en/m10/220.jpg?1517813031|https://scryfall.com/card/m10/220/spellbook?utm_source=api>`"

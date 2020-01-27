@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/6ed/"
 "pl/>\n"
@@ -365,7 +365,7 @@ msgstr ""
 
 #: ../../6ED.rst:125
 msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany atakujący stwór dostaje do końca tury +1/+1."
 
 #: ../../6ED.rst:130
 msgid ""
@@ -1847,7 +1847,7 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
-"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
 "władaniem."
 
 #: ../../6ED.rst:686
@@ -2213,7 +2213,7 @@ msgstr ""
 
 #: ../../6ED.rst:819
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
 #: ../../6ED.rst:824
 msgid ""
@@ -3656,6 +3656,8 @@ msgid ""
 "|mana_2|, |tap|: Target player puts the top two cards of their library into "
 "their graveyard."
 msgstr ""
+"|mana_2|, |tap|: Wskazany gracz umieszcza dwie wierzchnie karty swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../6ED.rst:1348
 msgid ""
@@ -3754,7 +3756,7 @@ msgstr ""
 
 #: ../../6ED.rst:1379
 msgid "|mana_3|, |tap|: Rod of Ruin deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_3|, |tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../6ED.rst:1384
 msgid ""

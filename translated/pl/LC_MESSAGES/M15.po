@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-27 16:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m15/"
 "pl/>\n"
@@ -169,7 +169,7 @@ msgstr ""
 # 61253aadb3a94f73bc83c575c5b56296
 #: ../../M15.rst:39
 msgid "Target player gains 2 life for each creature on the battlefield."
-msgstr "Wskazany gracz zyskuje 2 życia za każdego stwora na polu walki."
+msgstr "Wskazany gracz zyskuje po 2 życia za każdego stwora na polu walki."
 
 #: ../../M15.rst:44
 msgid ""
@@ -263,7 +263,7 @@ msgstr ""
 # e0208112857d4ec3a0093934559f5216
 #: ../../M15.rst:61
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 3 życia."
 
 # deed217d815844a3b21ce3bd4661a4c8
 #: ../../M15.rst:63
@@ -652,7 +652,7 @@ msgstr ""
 # 0fe1f4ca9068403d8d2781bd890296c2
 #: ../../M15.rst:183
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskaj 4 życia."
 
 #: ../../M15.rst:192
 msgid ""
@@ -2270,7 +2270,7 @@ msgid ""
 "1 damage to up to one target creature that player or that planeswalker's "
 "controller controls. That creature can't block this turn."
 msgstr ""
-"+1: Ten wędrowiec zadaje 1 obrażenie wskazanemu graczowi lub wędrowcowi oraz "
+"+1: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie oraz "
 "1 obrażenie co najwyżej jednemu wskazanemu stworowi pod władaniem owego "
 "gracza lub władcy owego wędrowca. Ów stwór nie może blokować w tej turze."
 
@@ -2590,7 +2590,7 @@ msgstr ""
 
 #: ../../M15.rst:805
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 5 obrażeń."
 
 #: ../../M15.rst:810
 msgid ""
@@ -2973,8 +2973,8 @@ msgid ""
 "power to the other.)"
 msgstr ""
 "Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
-"stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
-"nawzajem obrażenia równe ich sile.)"
+"stwór walczy ze wskazanym stworem poza twoim władaniem. (Każdy zadaje "
+"drugiemu obrażenia równe swojej sile.)"
 
 #: ../../M15.rst:940
 msgid ""
@@ -3205,7 +3205,7 @@ msgid ""
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1 oraz "
-"antyklątwę. (Nie może być wskazywany przez czary lub zdolności władane przez "
+"antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
 "twoich przeciwników.)"
 
 #: ../../M15.rst:1014
@@ -3396,7 +3396,7 @@ msgid ""
 "additional one mana of any color."
 msgstr ""
 "Ilekroć zauroczony ląd zostanie przekręcony przy pobieraniu many, jego "
-"władca dostaje dodatkowo jedną manę dowolnego koloru."
+"władca bierze dodatkowo jedną manę dowolnego koloru."
 
 #: ../../M15.rst:1082
 msgid ""
@@ -3544,7 +3544,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż wyłącznie jako obrzęd.)"
+"Używaj jako obrzęd.)"
 
 #: ../../M15.rst:1122
 msgid ""
@@ -3617,7 +3617,7 @@ msgstr ""
 # faefa760f8fa408b8d54ef70bb9dc2fd
 #: ../../M15.rst:1145
 msgid "Equipped creature gets +4/+4."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+4."
 
 # b59f3400378d46c4bf17beb86246b37f
 #: ../../M15.rst:1147
@@ -3626,6 +3626,9 @@ msgid ""
 "artifact creature that's no longer an Equipment. Activate this ability only "
 "if you control no creatures."
 msgstr ""
+"|mana_0|: Do końca tury ten artefakt staje się artefaktycznym stworem Duch 4/"
+"4, który nie jest Wyposażeniem. Możesz aktywować tę zdolność tylko jeśli nie "
+"władasz żadnymi stworami."
 
 #: ../../M15.rst:1158
 msgid ""
@@ -3678,11 +3681,10 @@ msgstr ""
 
 # 2fc9fcd35c6e4b3bb0e1cd168de726e8
 #: ../../M15.rst:1167
-#, fuzzy
 msgid "When Meteorite enters the battlefield, it deals 2 damage to any target."
 msgstr ""
-"Kiedy Meteorite wchodzi na pole walki zadaje 2 obrażenia wskazanemu stworowi "
-"lub graczowi."
+"Kiedy ten artefakt wejdzie na pole walki, zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 # e02cf6b228aa446a9a64b0f0bd2138d1
 #: ../../M15.rst:1169
@@ -3858,6 +3860,8 @@ msgid ""
 "Whenever you cast a black spell or a Swamp enters the battlefield under your "
 "control, you gain 1 life."
 msgstr ""
+"Ilekroć rzucisz czarny czar albo gdy Bagno wejdzie na pole walki pod twoim "
+"władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1234
 msgid ""
@@ -3872,6 +3876,8 @@ msgid ""
 "Whenever you cast a red spell or a Mountain enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
+"Ilekroć rzucisz czerwony czar albo gdy Góra wejdzie na pole walki pod twoim "
+"władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1238
 msgid ""
@@ -3886,6 +3892,8 @@ msgid ""
 "Whenever you cast a blue spell or an Island enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
+"Ilekroć rzucisz niebieski czar albo gdy Wyspa wejdzie na pole walki pod "
+"twoim władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1242
 msgid ""
@@ -3900,6 +3908,8 @@ msgid ""
 "Whenever you cast a white spell or a Plains enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
+"Ilekroć rzucisz biały czar albo gdy Równina wejdzie na pole walki pod twoim "
+"władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1246
 msgid ""
@@ -3914,6 +3924,8 @@ msgid ""
 "Whenever you cast a green spell or a Forest enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
+"Ilekroć rzucisz zielony czar albo gdy Las wejdzie na pole walki pod twoim "
+"władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1250
 msgid ""
@@ -4254,7 +4266,7 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
-"Siła oraz wytrzymałość tego stwora są obie równe liczbie Bagien pod twoim "
+"Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
 "władaniem."
 
 #: ../../M15.rst:1374
@@ -4270,8 +4282,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
-"Ilekroć umrze stwór, który otrzymał od tego stwora obrażenia w tej turze, "
-"umieść znacznik +1/+1 na niniejszym stworze."
+"Ilekroć umrze stwór uszkodzony w tej turze przez niniejszego stwora, umieść "
+"na niniejszym stworze znacznik +1/+1."
 
 #: ../../M15.rst:1376
 msgid ""
@@ -4316,7 +4328,7 @@ msgstr ""
 # 4db809682cbd492dba7693caee07ff22
 #: ../../M15.rst:1393
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M15.rst:1396
 msgid ""
