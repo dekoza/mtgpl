@@ -33,7 +33,7 @@ Dodatki poza Standardem
 * :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p25|
 * :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p25|
 * :mtgexp:`ORI` :doc:`Origins<ORI>` |p25|
-* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p25|
+* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p100|
 * :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|
 * :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p100|
 * :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p100|
