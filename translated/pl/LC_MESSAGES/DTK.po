@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-26 13:33+0000\n"
+"PO-Revision-Date: 2020-01-27 00:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dtk/"
 "pl/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../DTK.rst:5
 msgid ":mtgexp:`DTK` Dragons of Tarkir"
-msgstr ""
+msgstr ":mtgexp:`DTK` Dragons of Tarkir (Smoki Tarkiru)"
 
 #: ../../DTK.rst:10
 msgid ""
@@ -54,9 +54,9 @@ msgid ""
 "control, bolster 1. (Choose a creature with the least toughness among "
 "creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
-"Ilekroć inny nieżetonowy stwór wejdzie na pole walki, wesprzyj 1. (Wybierz "
-"stwora z najmniejszą wytrzymałością spośród władanych przez ciebie stworów i "
-"umieść na nim znacznik +1/+1.)"
+"Ilekroć inny nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, "
+"wesprzyj 1. (Wybierz stwora z najmniejszą wytrzymałością spośród stworów pod "
+"twoim władaniem i umieść na nim znacznik +1/+1.)"
 
 #: ../../DTK.rst:20
 msgid ""
@@ -86,7 +86,7 @@ msgstr ""
 
 #: ../../DTK.rst:23
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../DTK.rst:25 ../../DTK.rst:51 ../../DTK.rst:117 ../../DTK.rst:179
 #: ../../DTK.rst:261 ../../DTK.rst:381 ../../DTK.rst:387 ../../DTK.rst:429
@@ -96,7 +96,7 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
-"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
+"Rykoszet (Jeśli rzucisz ten czar z twojej ręki, wygnaj go podczas "
 "rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
 "rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
@@ -112,7 +112,8 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
-"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
+"Podwójny cios (Ten stwór zadaje obrażenia bojowe w pierwszym ciosie oraz "
+"normalnie.)"
 
 #: ../../DTK.rst:33 ../../DTK.rst:197
 msgid ""
@@ -138,8 +139,8 @@ msgid ""
 "on it.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wesprzyj 1. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim znacznik +1/+1.)"
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim znacznik +1/+1.)"
 
 #: ../../DTK.rst:46
 msgid ""
@@ -158,8 +159,8 @@ msgid ""
 "Enchanted creature has double strike. (It deals both first-strike and "
 "regular combat damage.)"
 msgstr ""
-"Zauroczony stwór ma podwójny cios.(Zadaje zarówno obrażenia bitewne jako "
-"pierwszy cios oraz normalnie.)"
+"Zauroczony stwór ma podwójny cios. (Zadaje on obrażenia bojowe w pierwszym "
+"ciosie oraz normalnie.)"
 
 #: ../../DTK.rst:52
 msgid ""
@@ -200,11 +201,11 @@ msgstr ""
 
 #: ../../DTK.rst:59
 msgid "Protection from Dragons"
-msgstr ""
+msgstr "Ochrona przed Smokami"
 
 #: ../../DTK.rst:61
 msgid "Dragon Hunter can block Dragons as though it had reach."
-msgstr ""
+msgstr "Ten stwór może blokować Smoki, jakby miał zasięg."
 
 #: ../../DTK.rst:66
 msgid ""
@@ -215,7 +216,7 @@ msgstr ""
 
 #: ../../DTK.rst:65
 msgid "Defender, first strike"
-msgstr ""
+msgstr "Obronność, pierwszy cios"
 
 #: ../../DTK.rst:72
 msgid ""
@@ -234,8 +235,8 @@ msgid ""
 "least toughness among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
 "Ilekroć ten stwór atakuje, wesprzyj 1. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród władanych przez ciebie stworów i umieść na nim "
-"znacznik +1/+1.)"
+"wytrzymałością spośród stworów pod twoim władaniem i umieść na nim znacznik +"
+"1/+1.)"
 
 #: ../../DTK.rst:76
 msgid ""
@@ -246,7 +247,7 @@ msgstr ""
 
 #: ../../DTK.rst:75
 msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature without flying."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|, |tap|: Przekręć wskazanego stwora bez latania."
 
 #: ../../DTK.rst:78
 msgid ""
@@ -268,8 +269,8 @@ msgid ""
 "among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
 "|mana_2|\\ |mana_w|: Wesprzyj 1. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród władanych przez ciebie stworów i umieść na nim "
-"znacznik +1/+1.)"
+"wytrzymałością spośród stworów pod twoim władaniem i umieść na nim znacznik +"
+"1/+1.)"
 
 #: ../../DTK.rst:88
 msgid ""
@@ -285,7 +286,7 @@ msgid ""
 "on it.)"
 msgstr ""
 "Zniszcz wskazanego atakującego lub blokującego stwora. Wesprzyj 1. (Wybierz "
-"stwora z najmniejszą wytrzymałością spośród władanych przez ciebie stworów i "
+"stwora z najmniejszą wytrzymałością spośród stworów pod twoim władaniem i "
 "umieść na nim znacznik +1/+1.)"
 
 #: ../../DTK.rst:92
@@ -330,6 +331,8 @@ msgid ""
 "Enchanted creature gets +1/+1 for each +1/+1 counter on other creatures you "
 "control."
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 za każdy znacznik +1/+1 na innych stworach "
+"pod twoim władaniem."
 
 #: ../../DTK.rst:107
 msgid ""
@@ -338,8 +341,8 @@ msgid ""
 "control and put a +1/+1 counter on it.)"
 msgstr ""
 "Zauroczony stwór ma czujność oraz \"|mana_w|, |tap|: Wesprzyj 1.\" (By "
-"wesprzeć 1, wybierz stwora z najmniejszą wytrzymałością spośród władanych "
-"przez ciebie stworów i umieść na nim znacznik +1/+1.)"
+"wesprzeć 1, wybierz stwora z najmniejszą wytrzymałością spośród stworów pod "
+"twoim władaniem i umieść na nim znacznik +1/+1.)"
 
 #: ../../DTK.rst:112
 msgid ""
@@ -350,7 +353,7 @@ msgstr ""
 
 #: ../../DTK.rst:111
 msgid "Graceblade Artisan gets +2/+2 for each Aura attached to it."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+2 za każdą Aurę dołączoną do niego."
 
 #: ../../DTK.rst:118
 msgid ""
@@ -361,7 +364,7 @@ msgstr ""
 
 #: ../../DTK.rst:115
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../DTK.rst:124
 msgid ""
@@ -376,7 +379,7 @@ msgstr "Czujność"
 
 #: ../../DTK.rst:123
 msgid "Other Warrior creatures you control have vigilance."
-msgstr ""
+msgstr "Inni Wojownicy pod twoim władaniem mają czujność."
 
 #: ../../DTK.rst:132
 msgid ""
@@ -404,6 +407,8 @@ msgid ""
 "When Hidden Dragonslayer is turned face up, destroy target creature with "
 "power 4 or greater an opponent controls."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, zniszcz wskazanego stwora o sile 4 lub "
+"większej pod władaniem przeciwnika."
 
 #: ../../DTK.rst:136
 msgid ""
@@ -414,7 +419,7 @@ msgstr ""
 
 #: ../../DTK.rst:135
 msgid "Lightwalker has flying as long as it has a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile ma znacznik +1/+1."
 
 #: ../../DTK.rst:142
 msgid ""
@@ -448,10 +453,12 @@ msgstr ""
 msgid ""
 "Whenever you cast a noncreature spell, put a lore counter on Myth Realized."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, umieść znacznik znacznik opowieści "
+"na tym uroku."
 
 #: ../../DTK.rst:147
 msgid "|mana_2|\\ |mana_w|: Put a lore counter on Myth Realized."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|: Umieść znacznik opowieści na tym uroku."
 
 #: ../../DTK.rst:149
 msgid ""
@@ -459,6 +466,9 @@ msgid ""
 "addition to its other types and gains \"This creature's power and toughness "
 "are each equal to the number of lore counters on it.\""
 msgstr ""
+"|mana_w|: Do końca tury ten urok staje się dodatkowo stworem Mnich Awatar "
+"oprócz swoich pozostałych typów i zyskuje \"Siła i wytrzymałość tego stwora "
+"są obie równe liczbie znajdujących się na nim znaczników opowieści.\""
 
 #: ../../DTK.rst:160
 msgid ""
@@ -469,7 +479,7 @@ msgstr ""
 
 #: ../../DTK.rst:153
 msgid "Whenever you cast a noncreature spell, choose one —"
-msgstr ""
+msgstr "Ilekroć rzucisz czar nie będący stworem, wybierz jedno —"
 
 #: ../../DTK.rst:155
 msgid "Tap target creature."
@@ -477,13 +487,15 @@ msgstr "Przekręć wskazanego stwora."
 
 #: ../../DTK.rst:157
 msgid "Ojutai Exemplars gains first strike and lifelink until end of turn."
-msgstr ""
+msgstr "Ten stwór do końca tury zyskuje pierwszy cios i więź życia."
 
 #: ../../DTK.rst:159
 msgid ""
 "Exile Ojutai Exemplars, then return it to the battlefield tapped under its "
 "owner's control."
 msgstr ""
+"Wygnaj tego stwora, następnie przywróć go przekręconego na pole walki pod "
+"władaniem jego właściciela."
 
 #: ../../DTK.rst:168
 msgid ""
@@ -498,6 +510,8 @@ msgid ""
 "As an additional cost to cast this spell, you may reveal a Dragon card from "
 "your hand."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz ujawnić kartę Smoka z "
+"twojej ręki."
 
 #: ../../DTK.rst:165
 msgid "Defender, flying"
@@ -508,6 +522,8 @@ msgid ""
 "When Orator of Ojutai enters the battlefield, if you revealed a Dragon card "
 "or controlled a Dragon as you cast this spell, draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli podczas jego rzucania ujawniłeś "
+"kartę Smoka lub Smok był pod twoim władaniem, dobierz kartę."
 
 #: ../../DTK.rst:174
 msgid ""
@@ -540,7 +556,7 @@ msgstr ""
 
 #: ../../DTK.rst:183
 msgid "Exile target multicolored creature or multicolored enchantment."
-msgstr ""
+msgstr "Wygnaj wskazanego wielokolorowego stwora lub wielokolorowy urok."
 
 #: ../../DTK.rst:190
 msgid ""
@@ -551,7 +567,7 @@ msgstr ""
 
 #: ../../DTK.rst:187
 msgid "You gain 6 life."
-msgstr ""
+msgstr "Zyskaj 6 żyć."
 
 #: ../../DTK.rst:189 ../../DTK.rst:271 ../../DTK.rst:341 ../../DTK.rst:577
 #: ../../DTK.rst:1271
@@ -572,8 +588,8 @@ msgid ""
 "on it.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wesprzyj 1. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim znacznik +1/+1.)"
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim znacznik +1/+1.)"
 
 #: ../../DTK.rst:198
 msgid ""
@@ -595,10 +611,10 @@ msgid ""
 "+1 counter on it. (To bolster 1, choose a creature with the least toughness "
 "among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
-"Wesprzyj 1, następnie umieść znacznik +1/+1 na każdy stworze pod twoim "
+"Wesprzyj 1, następnie umieść znacznik +1/+1 na każdym stworze pod twoim "
 "władaniem mającym znacznik +1/+1. (By wesprzeć 1, wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim znacznik +1/+1.)"
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim znacznik +1/+1.)"
 
 #: ../../DTK.rst:206
 msgid ""
@@ -609,7 +625,7 @@ msgstr ""
 
 #: ../../DTK.rst:205
 msgid "Create X 1/1 white Warrior creature tokens."
-msgstr ""
+msgstr "Stwórz X żetonów białego stwora Wojownik 1/1."
 
 #: ../../DTK.rst:214
 msgid ""
@@ -637,6 +653,8 @@ msgid ""
 "When Shieldhide Dragon is turned face up, put a +1/+1 counter on each other "
 "Dragon creature you control."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, umieść znacznik +1/+1 na każdym innym "
+"Smoku pod twoim władaniem."
 
 #: ../../DTK.rst:218
 msgid ""
@@ -651,6 +669,9 @@ msgid ""
 "mana cost 3 or less an opponent controls until Silkwrap leaves the "
 "battlefield. (That creature returns under its owner's control.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego stwora o skróconym "
+"koszcie many 3 lub mniejszym pod władaniem przeciwnika, dopóki ten urok nie "
+"opuści pola walki. (Ów stwór wraca pod władaniem swojego właściciela.)"
 
 #: ../../DTK.rst:222
 msgid ""
@@ -665,7 +686,7 @@ msgid ""
 "end of turn."
 msgstr ""
 "Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem dostają "
-"+1/+1 do końca tury."
+"do końca tury +1/+1."
 
 #: ../../DTK.rst:226
 msgid ""
@@ -676,7 +697,7 @@ msgstr ""
 
 #: ../../DTK.rst:225
 msgid "Whenever you cast a noncreature spell, you gain 2 life."
-msgstr ""
+msgstr "Ilekroć rzucisz czar nie będący stworem, zyskaj 2 życia."
 
 #: ../../DTK.rst:232
 msgid ""
@@ -690,6 +711,8 @@ msgid ""
 "Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent "
 "and you gain 1 life."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, umieść znacznik +1/+1 na tym stworze i zyskaj "
+"1 życie."
 
 #: ../../DTK.rst:236
 msgid ""
@@ -703,6 +726,8 @@ msgid ""
 "Destroy target black or red creature that's attacking or blocking. You gain "
 "2 life."
 msgstr ""
+"Zniszcz wskazanego czarnego lub czerwonego stwora, który atakuje lub "
+"blokuje. Zyskaj 2 życia."
 
 #: ../../DTK.rst:240
 msgid ""
@@ -759,6 +784,8 @@ msgid ""
 "When Belltoll Dragon is turned face up, put a +1/+1 counter on each other "
 "Dragon creature you control."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, umieść znacznik +1/+1 na każdym innym "
+"stworze typu Smok pod twoim władaniem."
 
 #: ../../DTK.rst:262
 msgid ""
@@ -773,6 +800,9 @@ msgid ""
 "the top of their library until a creature card is revealed. The player puts "
 "that card onto the battlefield, then shuffles the rest into their library."
 msgstr ""
+"Wygnaj wskazanego stwora pod władaniem przeciwnika. Ów gracz ujawnia karty z "
+"wierzchu swojej biblioteki, aż ujawni kartę stwora. Ów gracz umieszcza ową "
+"kartę na polu walki, następnie wtasowuje pozostałe do swojej biblioteki."
 
 #: ../../DTK.rst:266
 msgid ""
@@ -786,6 +816,8 @@ msgid ""
 "For each creature target player controls, create a token that's a copy of "
 "that creature."
 msgstr ""
+"Dla każdego stwora pod władaniem wskazanego gracza, stwórz żeton będący "
+"kopią owego stwora."
 
 #: ../../DTK.rst:272
 msgid ""
@@ -811,6 +843,9 @@ msgid ""
 "Illusion with base power and toughness 4/4, loses all abilities, and gains "
 "flying."
 msgstr ""
+"Do końca tury wskazany stwór pod twoim władaniem staje się niebieskim "
+"Smokiem Iluzją o bazowych sile i wytrzymałości 4/4, traci wszystkie "
+"zdolności i zyskuje latanie."
 
 #: ../../DTK.rst:282
 msgid ""
@@ -845,6 +880,8 @@ msgid ""
 "If you revealed a Dragon card or controlled a Dragon as you cast this spell, "
 "this spell can't be countered."
 msgstr ""
+"Jeśli ujawniłeś Smoka lub władałeś Smokiem podczas rzucania tego czaru, ten "
+"czar nie może być skontrowany."
 
 #: ../../DTK.rst:289
 msgid "Draw four cards."
@@ -862,6 +899,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until "
 "end of turn and can't be blocked this turn."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do końca tury +1/+"
+"0 i nie może być blokowany w tej turze."
 
 #: ../../DTK.rst:304
 msgid ""
@@ -876,11 +915,11 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../DTK.rst:299
 msgid "Enchant red or green creature"
-msgstr ""
+msgstr "Zaurocz czerwonego lub zielonego stwora"
 
 #: ../../DTK.rst:301
 msgid "When Encase in Ice enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../DTK.rst:303
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -899,8 +938,8 @@ msgid ""
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem dostaje do końca tury +0/+3 oraz "
-"antyklątwę. (Nie może być celem czarów lub zdolności władanych przez twoich "
-"przeciwników.)"
+"antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../DTK.rst:314
 msgid ""
@@ -911,7 +950,7 @@ msgstr ""
 
 #: ../../DTK.rst:311
 msgid "Gudul Lurker can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../DTK.rst:313
 msgid ""
@@ -944,6 +983,8 @@ msgid ""
 "When Gurmag Drowner exploits a creature, look at the top four cards of your "
 "library. Put one of them into your hand and the rest into your graveyard."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, spójrz na cztery wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../DTK.rst:328
 msgid ""
@@ -958,12 +999,17 @@ msgid ""
 "controls. That creature doesn't untap during its controller's untap step for "
 "as long as you control Icefall Regent."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręca się podczas kroku odkręcania "
+"swojego władcy dopóki władasz niniejszym stworem."
 
 #: ../../DTK.rst:327
 msgid ""
 "Spells your opponents cast that target Icefall Regent cost |mana_2| more to "
 "cast."
 msgstr ""
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
+"|mana_2| więcej."
 
 #: ../../DTK.rst:336
 msgid ""
@@ -981,6 +1027,8 @@ msgid ""
 "Whenever a creature enters the battlefield under an opponent's control, "
 "attach Illusory Gains to that creature."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki pod władaniem przeciwnika, dołącz ten "
+"urok do owego stwora."
 
 #: ../../DTK.rst:342
 msgid ""
@@ -1005,18 +1053,24 @@ msgid ""
 "As Living Lore enters the battlefield, exile an instant or sorcery card from "
 "your graveyard."
 msgstr ""
+"Umieszczając tego stwora na polu walki wygnaj kartę sztuczki lub obrzędu z "
+"twojego cmentarza."
 
 #: ../../DTK.rst:347
 msgid ""
 "Living Lore's power and toughness are each equal to the exiled card's "
 "converted mana cost."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe skróconemu kosztowi many "
+"wygnanej karty."
 
 #: ../../DTK.rst:349
 msgid ""
 "Whenever Living Lore deals combat damage, you may sacrifice it. If you do, "
 "you may cast the exiled card without paying its mana cost."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia bojowe, możesz go poświęcić. Jeśli to "
+"zrobisz, możesz rzucić wygnaną kartę bez płacenia jej kosztu many."
 
 #: ../../DTK.rst:356
 msgid ""
@@ -1030,6 +1084,8 @@ msgid ""
 "Whenever enchanted creature attacks, you may create a token that's a copy of "
 "that creature. Exile that token at end of combat."
 msgstr ""
+"Ilekroć zauroczony stwór atakuje, możesz stworzyć żeton będący kopią owego "
+"stwora. Wygnaj ów żeton na koniec walki."
 
 #: ../../DTK.rst:362
 msgid ""
@@ -1053,6 +1109,8 @@ msgid ""
 "When Monastery Loremaster is turned face up, return target noncreature, "
 "nonland card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, przywróć wskazaną kartę nie będącą stworem "
+"ani lądem z twojego cmentarza do twojej ręki."
 
 #: ../../DTK.rst:366
 msgid ""
@@ -1065,6 +1123,8 @@ msgstr ""
 msgid ""
 "Draw three cards. Then discard two cards unless you discard a creature card."
 msgstr ""
+"Dobierz trzy karty. Następnie odrzuć dwie karty, chyba że odrzucisz kartę "
+"stwora."
 
 #: ../../DTK.rst:370
 msgid ""
@@ -1118,7 +1178,7 @@ msgstr ""
 
 #: ../../DTK.rst:385
 msgid "Create a 2/2 blue Djinn Monk creature token with flying."
-msgstr ""
+msgstr "Stwórz żeton niebieskiego stwora Dżin Mnich 2/2 z lataniem."
 
 #: ../../DTK.rst:394
 msgid ""
@@ -1129,7 +1189,7 @@ msgstr ""
 
 #: ../../DTK.rst:393
 msgid "When Palace Familiar dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../DTK.rst:400
 msgid ""
@@ -1144,6 +1204,9 @@ msgid ""
 "all creatures your opponents control with toughness less than the exploited "
 "creature's toughness."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, przywróć do rąk właścicieli wszystkie stwory "
+"pod władaniem twoich przeciwników o wytrzymałości mniejszej niż wytrzymałość "
+"wyzyskanego stwora."
 
 #: ../../DTK.rst:404
 msgid ""
@@ -1159,8 +1222,8 @@ msgid ""
 "cost. (A megamorph cost is a morph cost.)"
 msgstr ""
 "|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucanie zakrytych czarów "
-"stworów, opłacenie kosztu many odkrycia objawionej karty lub zapłacić koszt "
-"przemiany. (Koszt nadprzemiany jest kosztem przemiany.)"
+"stworów, opłacenie kosztu many odkrycia objawionej karty lub opłacenie "
+"kosztu przemiany. (Koszt nadprzemiany jest kosztem przemiany.)"
 
 #: ../../DTK.rst:410
 msgid ""
@@ -1185,10 +1248,12 @@ msgid ""
 "|mana_u|: Exile Shorecrasher Elemental, then return it to the battlefield "
 "face down under its owner's control."
 msgstr ""
+"|mana_u|: Wygnaj tego stwora, następnie przywróć go zakrytego na pole walki "
+"pod władaniem właściciela."
 
 #: ../../DTK.rst:415
 msgid "|mana_1|: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1 lub -1/+1."
 
 #: ../../DTK.rst:417 ../../DTK.rst:443
 msgid ""
@@ -1212,6 +1277,8 @@ msgid ""
 "When Sidisi's Faithful exploits a creature, return target creature to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, przywróć wskazanego stwora do ręki "
+"właściciela."
 
 #: ../../DTK.rst:430
 msgid ""
@@ -1225,6 +1292,8 @@ msgid ""
 "Look at the top two cards of your library. Put one of them into your hand "
 "and the other on the bottom of your library."
 msgstr ""
+"Spójrz na dwie wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a drugą na spodzie twojej biblioteki."
 
 #: ../../DTK.rst:440
 msgid ""
@@ -1236,7 +1305,7 @@ msgstr ""
 #: ../../DTK.rst:439
 msgid ""
 "When Silumgar Sorcerer exploits a creature, counter target creature spell."
-msgstr ""
+msgstr "Kiedy ten stwór wyzyska stwora, skontruj wskazany czar stwora."
 
 #: ../../DTK.rst:446
 msgid ""
@@ -1250,6 +1319,8 @@ msgid ""
 "When Silumgar Spell-Eater is turned face up, counter target spell unless its "
 "controller pays |mana_3|."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, skontruj wskazany czar, chyba że jego "
+"władca zapłaci |mana_3|."
 
 #: ../../DTK.rst:452
 msgid ""
@@ -1264,6 +1335,9 @@ msgid ""
 "Dragon card or controlled a Dragon as you cast this spell, counter that "
 "spell instead."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|. Jeśli "
+"ujawniłeś kartę Smoka lub władałeś Smokiem podczas rzucania tego czaru, "
+"zamiast tego skontruj ów czar."
 
 #: ../../DTK.rst:456
 msgid ""
@@ -1277,6 +1351,9 @@ msgid ""
 "Whenever you cast a noncreature spell, you may pay |mana_1|\\ |mana_u|. If "
 "you do, create a 2/2 blue Djinn Monk creature token with flying."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, możesz zapłacić |mana_1|\\ |mana_u|"
+". Jeśli tak zrobisz, stwórz żeton niebieskiego stwora Dżin Mnich 2/2 z "
+"lataniem."
 
 #: ../../DTK.rst:464
 msgid ""
@@ -1300,6 +1377,8 @@ msgid ""
 "When Stratus Dancer is turned face up, counter target instant or sorcery "
 "spell."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, skontruj wskazany czar sztuczki lub "
+"obrzędu."
 
 #: ../../DTK.rst:470
 msgid ""
@@ -1312,6 +1391,8 @@ msgstr ""
 msgid ""
 "Target creature gets +2/+0 until end of turn and can't be blocked this turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+0 i nie może być blokowany w tej "
+"turze."
 
 #: ../../DTK.rst:474
 msgid ""
@@ -1340,7 +1421,7 @@ msgstr ""
 
 #: ../../DTK.rst:483
 msgid "When Youthful Scholar dies, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz dwie karty."
 
 #: ../../DTK.rst:490
 msgid ""
@@ -1355,7 +1436,7 @@ msgstr "|mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../DTK.rst:489
 msgid "Whenever you cast a noncreature spell, untap Zephyr Scribe."
-msgstr ""
+msgstr "Ilekroć rzucisz czar nie będący stworem, odkręć niniejszego stwora."
 
 #: ../../DTK.rst:498
 msgid ""
@@ -1383,6 +1464,8 @@ msgid ""
 "When Acid-Spewer Dragon is turned face up, put a +1/+1 counter on each other "
 "Dragon creature you control."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, umieść znacznik +1/+1 na każdym innym "
+"Smoku pod twoim władaniem."
 
 #: ../../DTK.rst:504
 msgid ""
@@ -1396,6 +1479,8 @@ msgid ""
 "Whenever Ambuscade Shaman or another creature enters the battlefield under "
 "your control, that creature gets +2/+2 until end of turn."
 msgstr ""
+"Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, ów "
+"stwór dostaje do końca tury +2/+2."
 
 #: ../../DTK.rst:503
 msgid ""
@@ -1419,6 +1504,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another Warrior creature: Target player loses "
 "X life and you gain X life, where X is the sacrificed creature's power."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć innego stwora typu Wojownik: Wskazany gracz "
+"traci X żyć, a ty zyskaj X żyć, gdzie X jest siłą poświęconego stwora."
 
 #: ../../DTK.rst:512
 msgid ""
@@ -1432,6 +1519,8 @@ msgid ""
 "Whenever Blood-Chin Rager attacks, Warrior creatures you control gain menace "
 "until end of turn. (They can't be blocked except by two or more creatures.)"
 msgstr ""
+"Kiedy ten stwór atakuje, Wojownicy pod twoim władaniem zyskują złowrogość do "
+"końca tury. (Nie mogą być blokowane, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../DTK.rst:516
 msgid ""
@@ -1446,6 +1535,9 @@ msgid ""
 "it. (Damage dealt by a creature with lifelink also causes its controller to "
 "gain that much life.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+0 oraz więź życia. Zregeneruj go. ("
+"Obrażenia zadane przez stwora z więzią życia sprawiają, że jego władca "
+"zyskuje tyle samo żyć.)"
 
 #: ../../DTK.rst:520
 msgid ""
@@ -1475,6 +1567,9 @@ msgid ""
 "Create a tapped X/X black Zombie Horror creature token, where X is twice the "
 "number of cards exiled this way."
 msgstr ""
+"|mana_1|\\ |mana_b|, wygnaj jedną lub więcej kart stworów z twojego "
+"cmentarza: Stwórz przekręcony żeton stwora Zombi Horror X/X, gdzie X jest "
+"dwukrotnością liczby kart wygnanych w ten sposób."
 
 #: ../../DTK.rst:528
 msgid ""
@@ -1485,7 +1580,7 @@ msgstr ""
 
 #: ../../DTK.rst:527
 msgid "Target player draws X cards and loses X life."
-msgstr ""
+msgstr "Wskazany gracz dobiera X kart i traci X żyć."
 
 #: ../../DTK.rst:532
 msgid ""
@@ -1499,6 +1594,8 @@ msgid ""
 "As long as you control exactly one creature, that creature gets +2/+0 and "
 "has deathtouch and lifelink."
 msgstr ""
+"O ile władasz dokładnie jednym stworem, ów stwór dostaje +2/+0 i ma dotyk "
+"śmierci oraz więź życia."
 
 #: ../../DTK.rst:536
 msgid ""
@@ -1509,7 +1606,7 @@ msgstr ""
 
 #: ../../DTK.rst:535
 msgid "Target creature gets -X/-X until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -X/-X."
 
 #: ../../DTK.rst:542
 msgid ""
@@ -1524,6 +1621,8 @@ msgid ""
 "hand and there are five or more other creatures on the battlefield, destroy "
 "all other creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został rzucony z ręki i na polu "
+"walki jest co najmniej pięć innych stworów, zniszcz wszystkie inne stwory."
 
 #: ../../DTK.rst:546
 msgid ""
@@ -1563,6 +1662,8 @@ msgid ""
 "When Dutiful Attendant dies, return another target creature card from your "
 "graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć inną wskazaną kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DTK.rst:558
 msgid ""
@@ -1588,6 +1689,9 @@ msgid ""
 "creature gets -X/-X until end of turn, where X is the toughness of the card "
 "returned this way."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. Wskazany "
+"stwór dostaje do końca tury -X/-X, gdzie X jest wytrzymałością karty "
+"zwróconej w ten sposób."
 
 #: ../../DTK.rst:568
 msgid ""
@@ -1601,6 +1705,8 @@ msgid ""
 "Target player sacrifices a creature. If you revealed a Dragon card or "
 "controlled a Dragon as you cast this spell, you gain 4 life."
 msgstr ""
+"Wskazany gracz poświęca stwora. Jeśli ujawniłeś kartę Smoka lub władałeś "
+"Smokiem podczas rzucania tego czaru, zyskaj 4 życia."
 
 #: ../../DTK.rst:572
 msgid ""
@@ -1614,6 +1720,8 @@ msgid ""
 "Target opponent loses 1 life for each attacking creature you control. You "
 "gain that much life."
 msgstr ""
+"Wskazany przeciwnik traci po 1 życiu za każdego atakującego stwora pod twoim "
+"władaniem. Zyskaj tyle samo żyć."
 
 #: ../../DTK.rst:578
 msgid ""
@@ -1642,8 +1750,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../DTK.rst:590
 msgid ""
@@ -1657,16 +1765,20 @@ msgid ""
 "When Hedonist's Trove enters the battlefield, exile all cards from target "
 "opponent's graveyard."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wygnaj wszystkie karty z cmentarza "
+"wskazanego przeciwnika."
 
 #: ../../DTK.rst:587
 msgid "You may play land cards exiled with Hedonist's Trove."
-msgstr ""
+msgstr "Możesz zagrywać karty lądów wygnanych tym urokiem."
 
 #: ../../DTK.rst:589
 msgid ""
 "You may cast nonland cards exiled with Hedonist's Trove. You can't cast more "
 "than one spell this way each turn."
 msgstr ""
+"Możesz rzucać nielądowe karty wygnane tym urokiem. Nie możesz rzucić więcej "
+"niż jednego czaru w ten sposób."
 
 #: ../../DTK.rst:594
 msgid ""
@@ -1694,7 +1806,7 @@ msgstr ""
 
 #: ../../DTK.rst:597
 msgid "|mana_b|: Regenerate Marang River Skeleton."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../DTK.rst:599
 msgid ""
@@ -1746,6 +1858,8 @@ msgid ""
 "When Minister of Pain exploits a creature, creatures your opponents control "
 "get -1/-1 until end of turn."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, stwory pod władaniem twoich przeciwników "
+"dostają do końca tury -1/-1."
 
 #: ../../DTK.rst:620
 msgid ""
@@ -1756,7 +1870,7 @@ msgstr ""
 
 #: ../../DTK.rst:617
 msgid "At the beginning of your upkeep, you lose 2 life."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, strać 2 życia."
 
 #: ../../DTK.rst:619
 msgid ""
@@ -1780,6 +1894,8 @@ msgid ""
 "When Qarsi Sadist exploits a creature, target opponent loses 2 life and you "
 "gain 2 life."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, wskazany przeciwnik traci 2 życia, a ty "
+"zyskaj 2 życia."
 
 #: ../../DTK.rst:632
 msgid ""
@@ -1793,6 +1909,7 @@ msgid ""
 "When Rakshasa Gravecaller exploits a creature, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../DTK.rst:640
 msgid ""
@@ -1803,7 +1920,7 @@ msgstr ""
 
 #: ../../DTK.rst:637
 msgid "Reckless Imp can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../DTK.rst:639
 msgid ""
@@ -1824,17 +1941,19 @@ msgstr ""
 
 #: ../../DTK.rst:643
 msgid "Risen Executioner can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../DTK.rst:645
 msgid "Other Zombie creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../DTK.rst:647
 msgid ""
 "You may cast Risen Executioner from your graveyard if you pay |mana_1| more "
 "to cast it for each other creature card in your graveyard."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza jeśli przy rzucaniu zapłacisz o "
+"|mana_1| więcej za każdą inną kartę stwora w twoim cmentarzu."
 
 #: ../../DTK.rst:652
 msgid ""
@@ -1848,6 +1967,8 @@ msgid ""
 "Target opponent sacrifices a green or white creature. If that player does, "
 "they lose 2 life."
 msgstr ""
+"Wskazany przeciwnik poświęca zielonego lub białego stwora. Jeśli ów gracz to "
+"zrobi, traci 2 życia."
 
 #: ../../DTK.rst:656
 msgid ""
@@ -1861,6 +1982,8 @@ msgid ""
 "When Shambling Goblin dies, target creature an opponent controls gets -1/-1 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
+"końca tury -1/-1."
 
 #: ../../DTK.rst:660
 msgid ""
@@ -1872,7 +1995,7 @@ msgstr ""
 #: ../../DTK.rst:659
 msgid ""
 "When Sibsig Icebreakers enters the battlefield, each player discards a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz odrzuca kartę."
 
 #: ../../DTK.rst:668
 msgid ""
@@ -1890,6 +2013,8 @@ msgid ""
 "When Sidisi, Undead Vizier exploits a creature, you may search your library "
 "for a card, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, możesz wyszukać w twojej bibliotece dowolną "
+"kartę i umieścić ją w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../DTK.rst:676
 msgid ""
@@ -1901,7 +2026,7 @@ msgstr ""
 #: ../../DTK.rst:671
 msgid ""
 "Creatures with power greater than Silumgar Assassin's power can't block it."
-msgstr ""
+msgstr "Stwory o sile większej niż siła tego stwora nie mogą go blokować."
 
 #: ../../DTK.rst:673
 msgid ""
@@ -1918,6 +2043,8 @@ msgid ""
 "When Silumgar Assassin is turned face up, destroy target creature with power "
 "3 or less an opponent controls."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, zniszcz wskazanego stwora o sile 3 lub "
+"mniejszej pod władaniem przeciwnika."
 
 #: ../../DTK.rst:682
 msgid ""
@@ -1931,6 +2058,7 @@ msgid ""
 "When Silumgar Butcher exploits a creature, target creature gets -3/-3 until "
 "end of turn."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, wskazany stwór dostaje do końca tury -3/-3."
 
 #: ../../DTK.rst:686
 msgid ""
@@ -1959,7 +2087,7 @@ msgstr ""
 
 #: ../../DTK.rst:693
 msgid "Creature tokens get -2/-2."
-msgstr ""
+msgstr "Żetony stworów dostają -2/-2."
 
 #: ../../DTK.rst:702
 msgid ""
@@ -1972,7 +2100,7 @@ msgstr ""
 msgid ""
 "When Vulturous Aven exploits a creature, you draw two cards and you lose 2 "
 "life."
-msgstr ""
+msgstr "Kiedy ten stwór wyzyska stwora, dobierz 2 karty i strać 2 życia."
 
 #: ../../DTK.rst:704
 msgid ""
@@ -2000,7 +2128,7 @@ msgstr ""
 
 #: ../../DTK.rst:711
 msgid "When Atarka Efreet is turned face up, it deals 1 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../DTK.rst:716
 msgid ""
@@ -2016,6 +2144,10 @@ msgid ""
 "control have total power 8 or greater. (They can't be blocked except by two "
 "or more creatures.)"
 msgstr ""
+"Straszliwy — |mana_3|\\ |mana_r|\\ |mana_r|: Stwory pod twoim władaniem "
+"zyskują złowrogość do końca tury. Możesz aktywować tę zdolność tylko jeśli "
+"stwory pod twoim władaniem mają łączną siłę 8 lub więcej. (Nie mogą być "
+"blokowane, chyba że przez przynajmniej dwa stwory każdy.)"
 
 #: ../../DTK.rst:720
 msgid ""
@@ -2026,7 +2158,7 @@ msgstr ""
 
 #: ../../DTK.rst:719
 msgid "Attacking creatures you control have double strike."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem mają podwójny cios."
 
 #: ../../DTK.rst:724
 msgid ""
@@ -2040,6 +2172,8 @@ msgid ""
 "Exile the top X cards of your library. Until the end of your next turn, you "
 "may play those cards."
 msgstr ""
+"Wygnaj X wierzchnich kart twojej biblioteki. Możesz zagrać owe karty do "
+"końca twojej następnej tury."
 
 #: ../../DTK.rst:730
 msgid ""
@@ -2053,6 +2187,8 @@ msgid ""
 "|mana_r|, |tap|, Sacrifice Crater Elemental: It deals 4 damage to target "
 "creature."
 msgstr ""
+"|mana_r|, |tap|, poświęć tego stwora: Zadaje on wskazanemu stworowi 4 "
+"obrażenia."
 
 #: ../../DTK.rst:729
 msgid ""
@@ -2060,6 +2196,9 @@ msgid ""
 "end of turn. Activate this ability only if creatures you control have total "
 "power 8 or greater."
 msgstr ""
+"Straszliwy — |mana_2|\\ |mana_r|: Do końca tury ten stwór ma bazową siłę 8. "
+"Możesz aktywować tę zdolność tylko jeśli stwory pod twoim władaniem mają "
+"łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:734
 msgid ""
@@ -2073,6 +2212,8 @@ msgid ""
 "Destroy any number of target creatures. For each creature destroyed this "
 "way, its controller creates a 4/4 red Dragon creature token with flying."
 msgstr ""
+"Zniszcz dowolną liczbę wskazanych stworów. Za każdego stwora zniszczonego w "
+"ten sposób, jego władca tworzy żeton czerwonego stwora Smok 4/4 z lataniem."
 
 #: ../../DTK.rst:740
 msgid ""
@@ -2087,6 +2228,9 @@ msgid ""
 "card or controlled a Dragon as you cast this spell, Draconic Roar deals 3 "
 "damage to that creature's controller."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia. Jeśli ujawniłeś kartę Smoka "
+"lub władałeś Smokiem podczas rzucania tego czaru, ten czar zadaje władcy "
+"owego stwora 3 obrażenia."
 
 #: ../../DTK.rst:744
 msgid ""
@@ -2111,12 +2255,16 @@ msgid ""
 "Whenever a creature with flying enters the battlefield under your control, "
 "it gains haste until end of turn."
 msgstr ""
+"Ilekroć stwór z lataniem wejdzie na pole walki pod twoim władaniem, zyskuje "
+"on pośpiech do końca tury."
 
 #: ../../DTK.rst:749
 msgid ""
 "Whenever a Dragon enters the battlefield under your control, it deals X "
 "damage to any target, where X is the number of Dragons you control."
 msgstr ""
+"Ilekroć Smok wejdzie na pole walki pod twoim władaniem, zadaje on wskazanemu "
+"celowi X obrażeń, gdzie X jest liczbą smoków pod twoim władaniem."
 
 #: ../../DTK.rst:758
 msgid ""
@@ -2127,12 +2275,11 @@ msgstr ""
 
 #: ../../DTK.rst:753
 msgid "|mana_r|: Dragon Whisperer gains flying until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje latanie do końca tury."
 
 #: ../../DTK.rst:755
-#, fuzzy
 msgid "|mana_1|\\ |mana_r|: Dragon Whisperer gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../DTK.rst:757
 msgid ""
@@ -2140,6 +2287,9 @@ msgid ""
 "creature token with flying. Activate this ability only if creatures you "
 "control have total power 8 or greater."
 msgstr ""
+"Straszliwy — |mana_4|\\ |mana_r|\\ |mana_r|: Stwórz żeton czerwonego stwora "
+"Smok 4/4 z lataniem. Możesz aktywować tę zdolność tylko jeśli stwory pod "
+"twoim władaniem mają łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:762
 msgid ""
@@ -2150,7 +2300,7 @@ msgstr ""
 
 #: ../../DTK.rst:761
 msgid "Dragon spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_1| mniej."
 
 #: ../../DTK.rst:766
 msgid ""
@@ -2164,6 +2314,8 @@ msgid ""
 "Whenever Hardened Berserker attacks, the next spell you cast this turn costs "
 "|mana_1| less to cast."
 msgstr ""
+"Ilekroć ten stwór atakuje, następny czar rzucony przez ciebie w tej turze "
+"kosztuje o |mana_1| mniej."
 
 #: ../../DTK.rst:770
 msgid ""
@@ -2177,6 +2329,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, Impact "
 "Tremors deals 1 damage to each opponent."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, ten czar zadaje "
+"każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../DTK.rst:778
 msgid ""
@@ -2189,8 +2343,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../DTK.rst:775 ../../DTK.rst:799
 msgid ""
@@ -2207,6 +2361,8 @@ msgid ""
 "When Ire Shaman is turned face up, exile the top card of your library. Until "
 "end of turn, you may play that card."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, wygnaj wierzchnią kartę twojej biblioteki. "
+"Możesz zagrać ową kartę do końca tury."
 
 #: ../../DTK.rst:782
 msgid ""
@@ -2231,6 +2387,8 @@ msgid ""
 "Whenever Kolaghan Aspirant becomes blocked by a creature, Kolaghan Aspirant "
 "deals 1 damage to that creature."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany przez stwora, niniejszy stwór zadaje "
+"owemu stworowi 1 obrażenie."
 
 #: ../../DTK.rst:794
 msgid ""
@@ -2246,7 +2404,7 @@ msgstr "Tratowanie"
 #: ../../DTK.rst:791
 msgid ""
 "Kolaghan Forerunners's power is equal to the number of creatures you control."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie stworów pod twoim władaniem."
 
 #: ../../DTK.rst:793 ../../DTK.rst:917
 msgid ""
@@ -2274,6 +2432,8 @@ msgid ""
 "When Kolaghan Stormsinger is turned face up, target creature gains haste "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, wskazany stwór zyskuje pośpiech do końca "
+"tury."
 
 #: ../../DTK.rst:808
 msgid ""
@@ -2284,7 +2444,7 @@ msgstr ""
 
 #: ../../DTK.rst:805
 msgid "|mana_r|: Lightning Berserker gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../DTK.rst:807
 msgid ""
@@ -2309,6 +2469,9 @@ msgid ""
 "gains haste and menace until end of turn. (A creature with menace can't be "
 "blocked except by two or more creatures.)"
 msgstr ""
+"Zyskaj władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
+"Zyskuje on pośpiech i złowrogość do końca tury. (Stwór ze złowrogością nie "
+"może być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../DTK.rst:816
 msgid ""
@@ -2330,7 +2493,7 @@ msgstr ""
 
 #: ../../DTK.rst:819
 msgid "Qal Sisma Behemoth can't attack or block unless you pay |mana_2|."
-msgstr ""
+msgstr "Ten stwór nie może atakować ani blokować, chyba że zapłacisz |mana_2|."
 
 #: ../../DTK.rst:826
 msgid ""
@@ -2346,6 +2509,7 @@ msgstr "Ten czar nie może być skontrowany."
 #: ../../DTK.rst:825
 msgid "Rending Volley deals 4 damage to target white or blue creature."
 msgstr ""
+"Ten czar zadaje wskazanemu białemu lub niebieskiemu stworowi 4 obrażenia."
 
 #: ../../DTK.rst:830
 msgid ""
@@ -2356,7 +2520,7 @@ msgstr ""
 
 #: ../../DTK.rst:829
 msgid "Roast deals 5 damage to target creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi bez latania 5 obrażeń."
 
 #: ../../DTK.rst:836
 msgid ""
@@ -2371,6 +2535,8 @@ msgid ""
 "have total power 8 or greater, Sabertooth Outrider gains first strike until "
 "end of turn."
 msgstr ""
+"Straszliwy — Ilekroć ten stwór atakuje, jeśli stwory pod twoim władaniem "
+"mają łączną siłę 8 lub więcej, ten stwór zyskuje pierwszy cios do końca tury."
 
 #: ../../DTK.rst:840
 msgid ""
@@ -2384,6 +2550,8 @@ msgid ""
 "Sarkhan's Rage deals 5 damage to any target. If you control no Dragons, "
 "Sarkhan's Rage deals 2 damage to you."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 5 obrażeń. Jeśli nie władasz Smokiem, ten "
+"czar zadaje tobie 2 obrażenia."
 
 #: ../../DTK.rst:844
 msgid ""
@@ -2397,6 +2565,8 @@ msgid ""
 "Search your library for a Dragon creature card, reveal it, put it into your "
 "hand, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Smoka, ujawnij ją, umieść w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../DTK.rst:848
 msgid ""
@@ -2424,7 +2594,7 @@ msgstr ""
 
 #: ../../DTK.rst:851
 msgid "Seismic Rupture deals 2 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania po 2 obrażenia."
 
 #: ../../DTK.rst:858
 msgid ""
@@ -2490,6 +2660,8 @@ msgid ""
 "When Stormwing Dragon is turned face up, put a +1/+1 counter on each other "
 "Dragon creature you control."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, umieść znacznik +1/+1 na każdym innym "
+"Smoku pod twoim władaniem."
 
 #: ../../DTK.rst:874
 msgid ""
@@ -2525,6 +2697,8 @@ msgid ""
 "Whenever a Dragon you control becomes the target of a spell or ability an "
 "opponent controls, Thunderbreak Regent deals 3 damage to that player."
 msgstr ""
+"Ilekroć Smok pod twoim władaniem zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, ten stwór zadaje owemu graczowi 3 obrażenia."
 
 #: ../../DTK.rst:892
 msgid ""
@@ -2552,6 +2726,8 @@ msgstr ""
 msgid ""
 "Twin Bolt deals 2 damage divided as you choose among one or two targets."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone dowolnie pomiędzy jeden lub dwa "
+"wskazane cele."
 
 #: ../../DTK.rst:904
 msgid ""
@@ -2581,7 +2757,7 @@ msgstr ""
 
 #: ../../DTK.rst:907
 msgid "Attacking creatures get +2/+0 and gain trample until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają do końca tury +2/+0 i tratowanie."
 
 #: ../../DTK.rst:912
 msgid ""
@@ -2596,6 +2772,10 @@ msgid ""
 "Volcanic Vision deals damage equal to that card's converted mana cost to "
 "each creature your opponents control. Exile Volcanic Vision."
 msgstr ""
+"Przywróć wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej "
+"ręki. Ten czar zadaje każdemu stworowi pod władaniem twoich przeciwników "
+"tyle obrażeń, ile wynosi skrócony koszt many owej karty. Wygnaj niniejszy "
+"czar."
 
 #: ../../DTK.rst:918
 msgid ""
@@ -2621,7 +2801,7 @@ msgstr ""
 
 #: ../../DTK.rst:921
 msgid "Zurgo Bellstriker can't block creatures with power 2 or greater."
-msgstr ""
+msgstr "Ten stwór nie może blokować stworów o sile 2 lub większej."
 
 #: ../../DTK.rst:930
 msgid ""
@@ -2656,6 +2836,8 @@ msgid ""
 "Ainok Artillerist has reach as long as it has a +1/+1 counter on it. (It can "
 "block creatures with flying.)"
 msgstr ""
+"Ten stwór ma zasięg o ile ma znacznik +1/+1. (Może blokować stwory z "
+"lataniem.)"
 
 #: ../../DTK.rst:940
 msgid ""
@@ -2679,6 +2861,8 @@ msgid ""
 "When Ainok Survivalist is turned face up, destroy target artifact or "
 "enchantment an opponent controls."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, zniszcz wskazany artefakt lub urok pod "
+"władaniem przeciwnika."
 
 #: ../../DTK.rst:948
 msgid ""
@@ -2700,11 +2884,13 @@ msgid ""
 "|mana_g|: Target creature with defender can attack this turn as though it "
 "didn't have defender."
 msgstr ""
+"|mana_g|: Wskazany stwór z obronnością może atakować w tej turze jakby nie "
+"miał obronności."
 
 #: ../../DTK.rst:947
-#, fuzzy
 msgid "|mana_2|\\ |mana_g|: Creatures you control get +0/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr ""
+"|mana_2|\\ |mana_g|: Stwory pod twoim władaniem dostają do końca tury +0/+1."
 
 #: ../../DTK.rst:952
 msgid ""
@@ -2719,6 +2905,9 @@ msgid ""
 "of turn. Activate this ability only if creatures you control have total "
 "power 8 or greater."
 msgstr ""
+"Straszliwy — |mana_4|\\ |mana_g|: Ten stwór dostaje do końca tury +4/+4. "
+"Możesz aktywować tę zdolność tylko jeśli stwory pod twoim władaniem mają "
+"łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:958
 msgid ""
@@ -2736,6 +2925,8 @@ msgid ""
 "Avatar of the Resolute enters the battlefield with a +1/+1 counter on it for "
 "each other creature you control with a +1/+1 counter on it."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile masz pod "
+"władaniem innych stworów mających znacznik +1/+1."
 
 #: ../../DTK.rst:964
 msgid ""
@@ -2749,6 +2940,9 @@ msgid ""
 "Formidable — |tap|: Add |colorless|\\ |colorless|\\ |colorless|. Activate "
 "this ability only if creatures you control have total power 8 or greater."
 msgstr ""
+"Straszliwy — |tap|: Weź |colorless|\\ |colorless|\\ |colorless|. Możesz "
+"aktywować tę zdolność tylko jeśli stwory pod twoim władaniem mają łączną "
+"siłę 8 lub więcej."
 
 #: ../../DTK.rst:968
 msgid ""
@@ -2763,6 +2957,9 @@ msgid ""
 "converted mana cost 3 or less from among them onto the battlefield. Put the "
 "rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na sześć wierzchnich kart twojej biblioteki. Umieść spośród nich co "
+"najwyżej dwie karty stwora o skróconym koszcie many 3 lub mniejszym na polu "
+"walki. Umieść pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../DTK.rst:970
 msgid ""
@@ -2798,6 +2995,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, you may return Deathmist "
 "Raptor from your graveyard to the battlefield face up or face down."
 msgstr ""
+"Ilekroć permanent pod twoim władaniem zostanie odkryty, możesz przywrócić tę "
+"kartę z twojego cmentarza na pole walki, odkrytą lub zakrytą."
 
 #: ../../DTK.rst:983
 msgid ""
@@ -2818,13 +3017,15 @@ msgstr ""
 
 #: ../../DTK.rst:987
 msgid "Creatures with power less than Den Protector's power can't block it."
-msgstr ""
+msgstr "Stworu o sile mniejszej niż siła tego stwora nie mogą go blokować."
 
 #: ../../DTK.rst:991
 msgid ""
 "When Den Protector is turned face up, return target card from your graveyard "
 "to your hand."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, przywróć wskazaną kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DTK.rst:1000
 msgid ""
@@ -2839,13 +3040,15 @@ msgstr "Wybierz jedno —"
 
 #: ../../DTK.rst:997
 msgid "Destroy target blue or black noncreature permanent."
-msgstr ""
+msgstr "Zniszcz wskazany niebieski lub czarny permanent nie będący stworem."
 
 #: ../../DTK.rst:999
 msgid ""
 "Permanents you control can't be the targets of blue or black spells your "
 "opponents control this turn."
 msgstr ""
+"W tej turze permanenty pod twoim władaniem nie mogą być wskazywane przez "
+"niebieskie lub czarne czary pod władaniem twoich przeciwników."
 
 #: ../../DTK.rst:1004
 msgid ""
@@ -2859,6 +3062,9 @@ msgid ""
 "Formidable — |mana_1|\\ |mana_g|: Regenerate Dragon-Scarred Bear. Activate "
 "this ability only if creatures you control have total power 8 or greater."
 msgstr ""
+"Straszliwy — |mana_1|\\ |mana_g|: Zregeneruj tego stwora. Możesz aktywować "
+"tę zdolność tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 lub "
+"więcej."
 
 #: ../../DTK.rst:1008
 msgid ""
@@ -2872,8 +3078,8 @@ msgid ""
 "Bolster 4. (Choose a creature with the least toughness among creatures you "
 "control and put four +1/+1 counters on it.)"
 msgstr ""
-"Wesprzyj 4. (Wybierz stwora z najmniejszą wytrzymałością spośród władanych "
-"przez ciebie stworów i umieść na nim cztery znaczniki +1/+1.)"
+"Wesprzyj 4. (Wybierz stwora z najmniejszą wytrzymałością spośród stworów pod "
+"twoim władaniem i umieść na nim cztery znaczniki +1/+1.)"
 
 #: ../../DTK.rst:1012
 msgid ""
@@ -2888,6 +3094,9 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+2. Walczy ze "
+"wskazanym stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia "
+"równe swojej sile.)"
 
 #: ../../DTK.rst:1016
 msgid ""
@@ -2901,6 +3110,8 @@ msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../DTK.rst:1024
 msgid ""
@@ -2914,12 +3125,16 @@ msgid ""
 "When Foe-Razer Regent enters the battlefield, you may have it fight target "
 "creature you don't control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, że będzie walczył ze "
+"wskazanym stworem poza twoim władaniem."
 
 #: ../../DTK.rst:1023
 msgid ""
 "Whenever a creature you control fights, put two +1/+1 counters on it at the "
 "beginning of the next end step."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem wlaczy, umieść na nim dwa znaczniki +1/+1 "
+"na początku najbliższego kroku końcowego."
 
 #: ../../DTK.rst:1030
 msgid ""
@@ -2934,6 +3149,9 @@ msgid ""
 "didn't have defender. Activate this ability only if creatures you control "
 "have total power 8 or greater."
 msgstr ""
+"Straszliwy — |mana_g|: Ten stwór może atakować w tej turze jakby nie miał "
+"obronności. Możesz aktywować tę zdolność tylko jeśli stwory pod twoim "
+"władaniem mają łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:1036
 msgid ""
@@ -2957,6 +3175,8 @@ msgid ""
 "When Guardian Shield-Bearer is turned face up, put a +1/+1 counter on "
 "another target creature you control."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, umieść znacznik +1/+1 na innym wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../DTK.rst:1044
 msgid ""
@@ -2984,6 +3204,8 @@ msgid ""
 "When Herdchaser Dragon is turned face up, put a +1/+1 counter on each other "
 "Dragon creature you control."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, umieść znacznik +1/+1 na każdym innym "
+"Smoku pod twoim władaniem."
 
 #: ../../DTK.rst:1048
 msgid ""
@@ -2997,6 +3219,8 @@ msgid ""
 "Draw a card for each creature you control with a +1/+1 counter on it. Those "
 "creatures gain indestructible until end of turn."
 msgstr ""
+"Dobierz kartę za każdego stwora pod twoim władaniem mającego znacznik +1/+1. "
+"Owe stwory zyskują niezniszczalność do końca tury."
 
 #: ../../DTK.rst:1052
 msgid ""
@@ -3011,6 +3235,9 @@ msgid ""
 "turn if able. Activate this ability only if creatures you control have total "
 "power 8 or greater."
 msgstr ""
+"Straszliwy — |mana_2|\\ |mana_g|: Wskazany stwór blokuje niniejszego stwora "
+"w tej turze jeśli może. Możesz aktywować tę zdolność tylko jeśli stwory pod "
+"twoim władaniem mają łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:1056
 msgid ""
@@ -3032,13 +3259,13 @@ msgstr ""
 
 #: ../../DTK.rst:1059
 msgid "Face-down creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów zakrytych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../DTK.rst:1061
 msgid ""
 "|mana_1|\\ |mana_g|: Turn Obscuring Aether face down. (It becomes a 2/2 "
 "creature.)"
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zakryj tego stwora. (Staje się stworem 2/2.)"
 
 #: ../../DTK.rst:1066
 msgid ""
@@ -3054,8 +3281,8 @@ msgid ""
 "it.)"
 msgstr ""
 "Zniszcz wskazanego stwora z lataniem. Wesprzyj 2. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim dwa znaczniki +1/+1.)"
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim dwa znaczniki +1/+1.)"
 
 #: ../../DTK.rst:1070
 msgid ""
@@ -3068,6 +3295,8 @@ msgstr ""
 msgid ""
 "Up to two target creatures each get +2/+2 and gain trample until end of turn."
 msgstr ""
+"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+2 i "
+"tratowanie."
 
 #: ../../DTK.rst:1074
 msgid ""
@@ -3081,6 +3310,9 @@ msgid ""
 "Prevent all combat damage that would be dealt this turn. You may look at "
 "each face-down creature that's attacking or blocking."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej "
+"turze. Możesz spojrzeć na każdego zakrytego stwora, który atakuje lub "
+"blokuje."
 
 #: ../../DTK.rst:1080
 msgid ""
@@ -3094,6 +3326,8 @@ msgid ""
 "Whenever another permanent you control is turned face up, if it's a "
 "creature, put two +1/+1 counters on it."
 msgstr ""
+"Ilekroć inny permanent pod twoim władaniem zostanie odkryty, jeśli jest "
+"stworem, umieść na nim dwa znaczniki +1/+1."
 
 #: ../../DTK.rst:1079
 msgid ""
@@ -3116,13 +3350,15 @@ msgstr ""
 msgid ""
 "Salt Road Quartermasters enters the battlefield with two +1/+1 counters on "
 "it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
 
 #: ../../DTK.rst:1085
 msgid ""
 "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Salt Road Quartermasters: "
 "Put a +1/+1 counter on target creature."
 msgstr ""
+"|mana_2|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+"
+"1 na wskazanym stworze."
 
 #: ../../DTK.rst:1090
 msgid ""
@@ -3138,8 +3374,8 @@ msgid ""
 "+1 counters on it.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród władanych przez ciebie stworów i umieść "
-"na nim dwa znaczniki +1/+1.)"
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim dwa znaczniki +1/+1.)"
 
 #: ../../DTK.rst:1096
 msgid ""
@@ -3153,6 +3389,8 @@ msgid ""
 "Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if "
 "you revealed a Dragon card or controlled a Dragon as you cast this spell."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając znacznik +1/+1 jeśli podczas jego "
+"rzucania ujawniłeś kartę Smoka lub Smok był pod twoim władaniem."
 
 #: ../../DTK.rst:1100
 msgid ""
@@ -3180,13 +3418,15 @@ msgstr ""
 
 #: ../../DTK.rst:1103
 msgid "Servant of the Scale enters the battlefield with a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając znacznik +1/+1."
 
 #: ../../DTK.rst:1105
 msgid ""
 "When Servant of the Scale dies, put X +1/+1 counters on target creature you "
 "control, where X is the number of +1/+1 counters on Servant of the Scale."
 msgstr ""
+"Kiedy ten stwór umrze, umieść X znaczników +1/+1 na wskazanym stworze pod "
+"twoim władaniem, gdzie X jest liczbą znaczników +1/+1 na tym stworze."
 
 #: ../../DTK.rst:1112
 msgid ""
@@ -3200,6 +3440,8 @@ msgid ""
 "|tap|: Add two mana in any combination of colors. Spend this mana only to "
 "cast creature spells."
 msgstr ""
+"|tap|: Weź dwie many w dowolnej kombinacji kolorów. Wydaj tę manę tylko na "
+"rzucanie czarów stworów."
 
 #: ../../DTK.rst:1111
 msgid ""
@@ -3207,6 +3449,10 @@ msgid ""
 "becomes the number of creatures they control. Activate this ability only if "
 "creatures you control have total power 8 or greater."
 msgstr ""
+"Straszliwy — |mana_9|\\ |mana_g|\\ |mana_g|, |tap|: Liczba żyć każdego z "
+"graczy staje się równa liczbie stworów pod jego władaniem. Możesz aktywować "
+"tę zdolność tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 lub "
+"więcej."
 
 #: ../../DTK.rst:1116
 msgid ""
@@ -3220,6 +3466,8 @@ msgid ""
 "Target creature gets +0/+5 and gains reach until end of turn. (It can block "
 "creatures with flying.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +0/+5 i zasięg. (Może blokować stwory z "
+"lataniem.)"
 
 #: ../../DTK.rst:1122
 msgid ""
@@ -3248,6 +3496,8 @@ msgid ""
 "At the beginning of combat on your turn, creatures you control with "
 "toughness 4 or greater get +2/+2 and gain vigilance until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, stwory o sile 4 lub większej pod twoim "
+"władaniem dostają do końca tury +2/+2 i czujność."
 
 #: ../../DTK.rst:1130
 msgid ""
@@ -3262,6 +3512,9 @@ msgid ""
 "have total power 8 or greater, creatures you control gain trample until end "
 "of turn."
 msgstr ""
+"Straszliwy — Ilekroć ten stwór atakuje, jeśli stwory pod twoim władaniem "
+"mają łączną siłę 8 lub więcej, stwory pod twoim władaniem zyskują tratowanie "
+"do końca tury."
 
 #: ../../DTK.rst:1134
 msgid ""
@@ -3279,8 +3532,8 @@ msgid ""
 msgstr ""
 "Wesprzyj X, gdzie X jest liczbą kart w twojej ręce. Każdy stwór pod twoim "
 "władaniem mający znacznik +1/+1 zyskuje tratowanie do końca tury. (By "
-"wesprzeć X, wybierz stwora z najmniejszą wytrzymałością spośród władanych "
-"przez ciebie stworów i umieść na nim X znaczników +1/+1.)"
+"wesprzeć X, wybierz stwora z najmniejszą wytrzymałością spośród stworów pod "
+"twoim władaniem i umieść na nim X znaczników +1/+1.)"
 
 #: ../../DTK.rst:1138
 msgid ""
@@ -3295,6 +3548,9 @@ msgid ""
 "control have total power 8 or greater, target creature you control gains "
 "haste until end of turn."
 msgstr ""
+"Straszliwy — Na początku walki w twojej turze, jeśli stwory pod twoim "
+"władaniem mają łączną siłę 8 lub więcej. wskazany stwór pod twoim władaniem "
+"zyskuje pośpiech do końca tury."
 
 #: ../../DTK.rst:1142
 msgid ""
@@ -3319,6 +3575,8 @@ msgid ""
 "When Arashin Sovereign dies, you may put it on the top or bottom of its "
 "owner's library."
 msgstr ""
+"Kiedy ten stwór umrze, możesz umieścić go na wierzchu lub spodzie biblioteki "
+"właściciela."
 
 #: ../../DTK.rst:1160
 msgid ""
@@ -3334,19 +3592,19 @@ msgstr "Wybierz dwie —"
 
 #: ../../DTK.rst:1153
 msgid "Your opponents can't gain life this turn."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą zyskać życia w tej turze."
 
 #: ../../DTK.rst:1155
 msgid "Atarka's Command deals 3 damage to each opponent."
-msgstr ""
+msgstr "Ten czar zadaje każdemu przeciwnikowi po 3 obrażenia."
 
 #: ../../DTK.rst:1157
 msgid "You may put a land card from your hand onto the battlefield."
-msgstr ""
+msgstr "Możesz umieścić kartę lądu z twojej ręki na polu walki."
 
 #: ../../DTK.rst:1159
 msgid "Creatures you control get +1/+1 and gain reach until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1 i zasięg."
 
 #: ../../DTK.rst:1166
 msgid ""
@@ -3360,6 +3618,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, target "
 "creature gets +2/+0 until end of turn."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, wskazany stwór "
+"dostaje do końca tury +2/+0."
 
 #: ../../DTK.rst:1172
 msgid ""
@@ -3373,6 +3633,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until "
 "end of turn."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, niniejszy stwór dostaje do końca "
+"tury +2/+2."
 
 #: ../../DTK.rst:1178
 msgid ""
@@ -3387,6 +3649,9 @@ msgid ""
 "you choose among any number of target creatures and/or planeswalkers your "
 "opponents control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje 5 obrażeń rozdzielonych "
+"dowolnie pomiędzy dowolną liczbę wskazanych stworów i/lub wedrowców pod "
+"władaniem twoich przeciwników."
 
 #: ../../DTK.rst:1186
 msgid ""
@@ -3397,7 +3662,7 @@ msgstr ""
 
 #: ../../DTK.rst:1185
 msgid "Your opponents can't cast spells during your turn."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów w tej turze."
 
 #: ../../DTK.rst:1194
 msgid ""
@@ -3419,6 +3684,8 @@ msgid ""
 "Whenever an opponent casts a creature or planeswalker spell with the same "
 "name as a card in their graveyard, that player loses 10 life."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar stwora lub wędrowca o takiej samej nazwie jak "
+"karta w ich cmentarzu, ów gracz traci 10 żyć."
 
 #: ../../DTK.rst:1202
 msgid ""
@@ -3429,7 +3696,7 @@ msgstr ""
 
 #: ../../DTK.rst:1199
 msgid "Dragonlord Ojutai has hexproof as long as it's untapped."
-msgstr ""
+msgstr "Ten stwór ma antyklątwę, o ile jest odkręcony."
 
 #: ../../DTK.rst:1201
 msgid ""
@@ -3437,6 +3704,9 @@ msgid ""
 "three cards of your library. Put one of them into your hand and the rest on "
 "the bottom of your library in any order."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, spójrz na trzy wierzchnie "
+"karty twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałe na "
+"spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../DTK.rst:1208
 msgid ""
@@ -3450,6 +3720,8 @@ msgid ""
 "When Dragonlord Silumgar enters the battlefield, gain control of target "
 "creature or planeswalker for as long as you control Dragonlord Silumgar."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskaj władanie nad wskazanym stworem "
+"lub wędrowcem dopóki władasz niniejszym stworem."
 
 #: ../../DTK.rst:1220
 msgid ""
@@ -3462,10 +3734,12 @@ msgstr ""
 msgid ""
 "Prevent all damage target instant or sorcery spell would deal this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie wskazany czar sztuczki lub obrzędu "
+"mógłby zadać w tej turze."
 
 #: ../../DTK.rst:1215
 msgid "Target player sacrifices an enchantment."
-msgstr ""
+msgstr "Wskazany gracz poświęca urok."
 
 #: ../../DTK.rst:1217
 msgid "Put a +1/+1 counter on target creature."
@@ -3489,6 +3763,8 @@ msgid ""
 "Whenever one or more +1/+1 counters are put on another creature you control, "
 "you may put a +1/+1 counter on Enduring Scalelord."
 msgstr ""
+"Ilekroć jeden lub więcej znaczników +1/+1 zostanie umieszczonych na innym "
+"stworze pod twoim władaniem, możesz umieścić znacznik +1/+1 na tym stworze."
 
 #: ../../DTK.rst:1234
 msgid ""
@@ -3502,12 +3778,16 @@ msgid ""
 "|mana_2|\\ |mana_r|: Harbinger of the Hunt deals 1 damage to each creature "
 "without flying."
 msgstr ""
+"|mana_2|\\ |mana_r|: Ten stwór zadaje każdemu stworowi bez latania po 1 "
+"obrażeniu."
 
 #: ../../DTK.rst:1233
 msgid ""
 "|mana_2|\\ |mana_g|: Harbinger of the Hunt deals 1 damage to each other "
 "creature with flying."
 msgstr ""
+"|mana_2|\\ |mana_g|: Ten stwór zadaje każdemu stworowi z lataniem po 1 "
+"obrażeniu."
 
 #: ../../DTK.rst:1246
 msgid ""
@@ -3526,7 +3806,7 @@ msgstr "Wskazany gracz odrzuca kartę."
 
 #: ../../DTK.rst:1245
 msgid "Kolaghan's Command deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../DTK.rst:1254
 msgid ""
@@ -3540,27 +3820,27 @@ msgid ""
 "+1: Look at the top card of your library. If it's a noncreature, nonland "
 "card, you may reveal it and put it into your hand."
 msgstr ""
+"+1: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli nie jest kartą "
+"stwora ani lądu, możesz ujawnić ją i umieścić w twojej ręce."
 
 #: ../../DTK.rst:1251
-#, fuzzy
-#| msgid ""
-#| "Rebound (If you cast this spell from your hand, exile it as it resolves. "
-#| "At the beginning of your next upkeep, you may cast this card from exile "
-#| "without paying its mana cost.)"
 msgid ""
 "−2: When you cast your next instant or sorcery spell from your hand this "
 "turn, it gains rebound. (Exile the spell as it resolves. At the beginning of "
 "your next upkeep, you may cast that card from exile without paying its mana "
 "cost.)"
 msgstr ""
-"Rykoszet (Jeśli rzucasz ten czar z twojej ręki, wygnaj go podczas "
-"rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
-"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
+"–2: Kiedy rzucisz z ręki swój następny czar sztuczki lub obrzędu w tej "
+"turze, zyskuje on rykoszet (Wygnaj go podczas rozpatrzenia. Na początku "
+"twojego najbliższego kroku utrzymania możesz rzucić ową kartę z wygnania bez "
+"płacenia jej kosztu many.)"
 
 #: ../../DTK.rst:1253
 msgid ""
 "−9: You get an emblem with \"Your opponents can't cast noncreature spells.\""
 msgstr ""
+"–9: Dostajesz emblemat o treści \"Twoi przeciwnicy nie mogą rzucać czarów "
+"nie będących stworami.\""
 
 #: ../../DTK.rst:1260
 msgid ""
@@ -3575,6 +3855,9 @@ msgid ""
 "mana_2|. If you do, create a 2/2 black Zombie creature token and each "
 "opponent puts the top two cards of their library into their graveyard."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zapłacić |mana_2|. "
+"Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi 2/2 i każdy przeciwnik "
+"umieszcza dwie wierzchnie karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../DTK.rst:1272
 msgid ""
@@ -3588,6 +3871,8 @@ msgid ""
 "Return target creature card with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub mniejszym z "
+"twojego cmentarza na pole walki."
 
 #: ../../DTK.rst:1267
 msgid "You gain 4 life."
@@ -3609,6 +3894,8 @@ msgid ""
 "Whenever you cast a noncreature spell, untap Pristine Skywise. It gains "
 "protection from the color of your choice until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, odkręć tego stwora. Zyskuje on do "
+"końca tury ochronę przed wybranym kolorem."
 
 #: ../../DTK.rst:1284
 msgid ""
@@ -3620,7 +3907,7 @@ msgstr ""
 #: ../../DTK.rst:1283
 msgid ""
 "Whenever you sacrifice a creature, target opponent sacrifices a creature."
-msgstr ""
+msgstr "Ilekroć poświęcisz stwora, wskazany przeciwnik poświęca stwora."
 
 #: ../../DTK.rst:1292
 msgid ""
@@ -3631,17 +3918,19 @@ msgstr ""
 
 #: ../../DTK.rst:1287
 msgid "+1: Draw a card, then add one mana of any color."
-msgstr ""
+msgstr "+1: Dobierz kartę, następnie weź jedną manę dowolnego koloru."
 
 #: ../../DTK.rst:1289
 msgid "−2: Create a 4/4 red Dragon creature token with flying."
-msgstr ""
+msgstr "–2: Stwórz żeton czerwonego stwora Smok 4/4 z lataniem."
 
 #: ../../DTK.rst:1291
 msgid ""
 "−8: Search your library for any number of Dragon creature cards and put them "
 "onto the battlefield. Then shuffle your library."
 msgstr ""
+"–8: Wyszukaj w twojej bibliotece dowolną liczbę kart stwora o typie Smok i "
+"umieść je na polu walki. Następnie przetasuj twoją bibliotekę."
 
 #: ../../DTK.rst:1298
 msgid ""
@@ -3656,6 +3945,9 @@ msgid ""
 "mana_g|\\ |mana_g|\\ |mana_g|. Until end of turn, you don't lose this mana "
 "as steps and phases end."
 msgstr ""
+"Ilekroć ten stwór atakuje, weź |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ "
+"|mana_g|\\ |mana_g|. Do końca tury nie tracisz owej many podczas końców "
+"kroków i faz."
 
 #: ../../DTK.rst:1310
 msgid ""
@@ -3666,11 +3958,11 @@ msgstr ""
 
 #: ../../DTK.rst:1305
 msgid "Return target permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany permanent do ręki właściciela."
 
 #: ../../DTK.rst:1307
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje -3/-3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -3/-3."
 
 #: ../../DTK.rst:1309
 msgid "Destroy target planeswalker."
@@ -3690,6 +3982,10 @@ msgid ""
 "battlefield. That creature gains haste. Return it to your hand at the "
 "beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz umieścić kartę stwora o "
+"skróconym koszcie many 3 lub mniejszym z twojej ręki lub cmentarza na polu "
+"walki. Ów stwór zyskuje pośpiech. Przywróć go do twojej ręki na początku "
+"najbliższego kroku końcowego."
 
 #: ../../DTK.rst:1320
 msgid ""
@@ -3703,6 +3999,8 @@ msgid ""
 "When Ancestral Statue enters the battlefield, return a nonland permanent you "
 "control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć nielądowy permanent pod "
+"twoim władaniem do ręki właściciela."
 
 #: ../../DTK.rst:1326
 msgid ""
@@ -3720,6 +4018,8 @@ msgid ""
 "|mana_4|\\ |mana_r|\\ |mana_g|: Atarka Monument becomes a 4/4 red and green "
 "Dragon artifact creature with flying until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_r|\\ |mana_g|: Ten artefakt do końca tury staje się "
+"czerwono-zielonym artefaktycznym stworem Smok 4/4 z lataniem."
 
 #: ../../DTK.rst:1332
 msgid ""
@@ -3730,7 +4030,7 @@ msgstr ""
 
 #: ../../DTK.rst:1331
 msgid "Custodian of the Trove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../DTK.rst:1336
 msgid ""
@@ -3744,6 +4044,7 @@ msgid ""
 "As long as you control a Dragon, Dragonloft Idol gets +1/+1 and has flying "
 "and trample."
 msgstr ""
+"O ile władasz Smokiem, ten stwór dostaje +1/+1 i ma latanie oraz tratowanie."
 
 #: ../../DTK.rst:1342
 msgid ""
@@ -3761,6 +4062,8 @@ msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_w|: Dromoka Monument becomes a 4/4 green and "
 "white Dragon artifact creature with flying until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_g|\\ |mana_w|: Ten artefakt do końca tury staje się "
+"czerwono-zielonym artefaktycznym stworem Smok 4/4 z lataniem."
 
 #: ../../DTK.rst:1350
 msgid ""
@@ -3773,10 +4076,12 @@ msgstr ""
 msgid ""
 "Gate Smasher can be attached only to a creature with toughness 4 or greater."
 msgstr ""
+"Ten artefakt może być dołączony tylko do stwora o wytrzymałości 4 lub "
+"większej."
 
 #: ../../DTK.rst:1347
 msgid "Equipped creature gets +3/+0 and has trample."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie."
 
 #: ../../DTK.rst:1349
 msgid "Equip |mana_3|"
@@ -3791,7 +4096,7 @@ msgstr ""
 
 #: ../../DTK.rst:1353
 msgid "You may look at face-down creatures you don't control any time."
-msgstr ""
+msgstr "Możesz w każdej chwili patrzeć na zakryte stwory poza twoim władaniem."
 
 #: ../../DTK.rst:1360
 msgid ""
@@ -3809,6 +4114,8 @@ msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_r|: Kolaghan Monument becomes a 4/4 black and "
 "red Dragon artifact creature with flying until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_b|\\ |mana_r|: Ten artefakt do końca tury staje się "
+"czerwono-zielonym artefaktycznym stworem Smok 4/4 z lataniem."
 
 #: ../../DTK.rst:1366
 msgid ""
@@ -3826,6 +4133,8 @@ msgid ""
 "|mana_4|\\ |mana_w|\\ |mana_u|: Ojutai Monument becomes a 4/4 white and blue "
 "Dragon artifact creature with flying until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_w|\\ |mana_u|: Ten artefakt do końca tury staje się "
+"czerwono-zielonym artefaktycznym stworem Smok 4/4 z lataniem."
 
 #: ../../DTK.rst:1372
 msgid ""
@@ -3843,6 +4152,8 @@ msgid ""
 "|mana_4|\\ |mana_u|\\ |mana_b|: Silumgar Monument becomes a 4/4 blue and "
 "black Dragon artifact creature with flying until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_u|\\ |mana_b|: Ten artefakt do końca tury staje się "
+"czerwono-zielonym artefaktycznym stworem Smok 4/4 z lataniem."
 
 #: ../../DTK.rst:1378
 msgid ""
@@ -3856,6 +4167,8 @@ msgid ""
 "Equipped creature gets +0/+2 and has reach. (It can block creatures with "
 "flying.)"
 msgstr ""
+"Wyposażony stwór dostaje +0/+2 i ma zasięg. (Może blokować stwory z "
+"lataniem.)"
 
 #: ../../DTK.rst:1377
 msgid ""
@@ -3881,6 +4194,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, you may "
 "attach Stormrider Rig to it."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, możesz dołączyć do "
+"niego ten artefakt."
 
 #: ../../DTK.rst:1385
 msgid "Equip |mana_2|"
@@ -3898,6 +4213,8 @@ msgid ""
 "|mana_2|, |tap|: Draw a card. Activate this ability only if you've cast a "
 "noncreature spell this turn."
 msgstr ""
+"|mana_2|, |tap|: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli w "
+"tej turze rzuciłeś czar nie będący stworem."
 
 #: ../../DTK.rst:1394
 msgid ""
@@ -3945,12 +4262,16 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a Dragon "
 "creature spell."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj tę manę tylko na rzucenie "
+"czaru stwora typu Smok."
 
 #: ../../DTK.rst:1405
 msgid ""
 "|mana_2|, |tap|, Sacrifice Haven of the Spirit Dragon: Return target Dragon "
 "creature card or Ugin planeswalker card from your graveyard to your hand."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Przywróć wskazaną kartę stwora typu Smok "
+"lub kartę wędrowca typu Ugin z twojego cmentarza do twojej ręki."
 
 #: ../../DTK.rst:1410
 msgid ""
