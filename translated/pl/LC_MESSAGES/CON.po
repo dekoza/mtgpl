@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-28 16:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/con/"
 "pl/>\n"
@@ -711,7 +711,7 @@ msgstr ""
 
 #: ../../CON.rst:249
 msgid "Whenever Infectious Horror attacks, each opponent loses 2 life."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 2 życia."
 
 #: ../../CON.rst:254
 msgid ""
@@ -863,13 +863,15 @@ msgstr ""
 
 #: ../../CON.rst:303
 msgid "Banefire deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje dowolnemu celowi X obrażeń."
 
 #: ../../CON.rst:305
 msgid ""
 "If X is 5 or more, this spell can't be countered and the damage can't be "
 "prevented."
 msgstr ""
+"Jeśli X to co najmniej 5, ten czar nie może być skontrowany, a obrażenia nie "
+"mogą zostać zażegnane."
 
 #: ../../CON.rst:312
 msgid ""

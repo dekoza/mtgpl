@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:20+0000\n"
+"PO-Revision-Date: 2020-01-28 16:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m19/"
 "pl/>\n"
@@ -817,7 +817,7 @@ msgstr ""
 
 #: ../../M19.rst:273
 msgid "Djinn of Wishes enters the battlefield with three wish counters on it."
-msgstr "Ta karta wchodzi na pole walki z trzema znacznikami życzenia."
+msgstr "Ta karta wchodzi na pole walki mając  trzy znaczniki życzenia."
 
 #: ../../M19.rst:275
 msgid ""
@@ -1265,7 +1265,7 @@ msgstr ""
 
 #: ../../M19.rst:417
 msgid "Creatures your opponents control get -2/-0 until end of turn."
-msgstr "Stwory pod władaniem twoich przeciwników dostają -2/-0 do końca tury."
+msgstr "Stwory pod władaniem twoich przeciwników dostają do końca tury -2/-0."
 
 #: ../../M19.rst:424
 msgid ""
@@ -1366,7 +1366,7 @@ msgid ""
 "deathtouch."
 msgstr ""
 "Szkielety pod twoim władaniem oraz inne Zombi pod twoim władaniem dostają +1/"
-"+0 i mają dotyk śmierci."
+"+1 i mają dotyk śmierci."
 
 #: ../../M19.rst:464
 msgid ""
@@ -1510,7 +1510,7 @@ msgstr ""
 
 #: ../../M19.rst:507
 msgid "Whenever Infectious Horror attacks, each opponent loses 2 life."
-msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci 2 życia."
+msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 2 życia."
 
 #: ../../M19.rst:512
 msgid ""
@@ -1707,8 +1707,8 @@ msgid ""
 "As Phylactery Lich enters the battlefield, put a phylactery counter on an "
 "artifact you control."
 msgstr ""
-"Kładąc tę kartę na polu walki umieść znacznik filakterium na artefakcie pod "
-"twoim władaniem."
+"Umieszczając tę kartę na polu walki umieść znacznik filakterium na "
+"artefakcie pod twoim władaniem."
 
 #: ../../M19.rst:569
 msgid ""
@@ -1961,7 +1961,7 @@ msgstr ""
 
 #: ../../M19.rst:649
 msgid "Banefire deals X damage to any target."
-msgstr "Ten czar zadaje X obrażeń w dowolny cel."
+msgstr "Ten czar zadaje dowolnemu celowi X obrażeń."
 
 #: ../../M19.rst:651
 msgid ""
@@ -2824,7 +2824,7 @@ msgstr "Tratowanie"
 
 #: ../../M19.rst:957
 msgid "When Pelakka Wurm enters the battlefield, you gain 7 life."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 7 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 7 żyć."
 
 #: ../../M19.rst:959
 msgid "When Pelakka Wurm dies, draw a card."
@@ -3337,7 +3337,7 @@ msgstr ""
 
 #: ../../M19.rst:1139
 msgid "Whenever you cast an enchantment spell, draw a card."
-msgstr "Ilekroć rzucasz czar uroku, dobierz kartę."
+msgstr "Ilekroć rzucisz urok, dobierz kartę."
 
 #: ../../M19.rst:1146
 msgid ""
@@ -3971,7 +3971,7 @@ msgstr ""
 
 #: ../../M19.rst:1371
 msgid "+2: You gain 1 life for each creature you control."
-msgstr "+2: Zyskujesz po 1 życiu za każdego stwora pod twoim władaniem."
+msgstr "+2: Zyskaj po 1 życiu za każdego stwora pod twoim władaniem."
 
 #: ../../M19.rst:1373
 msgid "−3: Creatures you control get +2/+2 until end of turn."

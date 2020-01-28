@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:20+0000\n"
+"PO-Revision-Date: 2020-01-28 16:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m10/"
 "pl/>\n"
@@ -631,7 +631,7 @@ msgstr ""
 
 #: ../../M10.rst:243
 msgid "Djinn of Wishes enters the battlefield with three wish counters on it."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki mając  trzy znaczniki życzenia."
 
 #: ../../M10.rst:245
 msgid ""
@@ -639,6 +639,9 @@ msgid ""
 "Wishes: Reveal the top card of your library. You may play that card "
 "without paying its mana cost. If you don't, exile it."
 msgstr ""
+"|mana_2|\\ |mana_u|\\ |mana_u|, usuń znacznik życzenia z tego stwora: "
+"Ujawnij wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę bez "
+"płacenia jej kosztu many. Jeśli tego nie zrobisz, wygnaj ją."
 
 #: ../../M10.rst:250
 msgid ""
@@ -903,6 +906,8 @@ msgid ""
 "Tap all creatures target player controls. Those creatures don't untap "
 "during that player's next untap step."
 msgstr ""
+"Przekręć wszystkie stwory pod władaniem wskazanego gracza. Owe stwory nie "
+"odkręcą się podczas najbliższego kroku odkręcania owego gracza."
 
 #: ../../M10.rst:354
 msgid ""
