@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:33+0000\n"
+"PO-Revision-Date: 2020-01-28 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m19/"
 "pl/>\n"
@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../../M19.rst:9
 msgid "Target creature gets +1/+7 until end of turn."
-msgstr "Wskazany stwór dostaje +1/+7 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +1/+7."
 
 #: ../../M19.rst:14
 msgid ""
@@ -94,8 +94,8 @@ msgid ""
 "flying."
 msgstr ""
 "Ilekroć umrze będący pod twoim władaniem stwór lub wędrowiec, możesz "
-"poświęcić tę kartę. Jeśli tak zrobisz, stwórz żeton białego stwora Awatar "
-"4/4 z lataniem."
+"poświęcić niniejszą kartę. Jeśli tak zrobisz, stwórz żeton białego stwora "
+"Awatar 4/4 z lataniem."
 
 #: ../../M19.rst:27
 msgid ""
@@ -103,7 +103,7 @@ msgid ""
 "card, if you control a Plains, create a 4/4 white Avatar creature token with "
 "flying."
 msgstr ""
-"Kiedy czar lub zdolność pod władaniem przeciwnika powoduje odrzucenie przez "
+"Kiedy czar lub zdolność pod władaniem przeciwnika spowoduje odrzucenie przez "
 "ciebie tej karty, jeśli władasz Równiną, stwórz żeton białego stwora Awatar "
 "4/4 z lataniem."
 
@@ -130,7 +130,7 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, you gain 1 "
 "life."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, zyskujesz 1 życie."
+"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../M19.rst:42
 msgid ""
@@ -155,7 +155,7 @@ msgid ""
 "+1 and gain vigilance until end of turn. (Attacking doesn't cause them to "
 "tap.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1 oraz czujność. (Atakowanie nie powoduje ich przekręcenia.)"
 
 #: ../../M19.rst:46
@@ -171,8 +171,8 @@ msgid ""
 "and gains first strike until end of turn. (It deals combat damage before "
 "creatures without first strike.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany stwór dostaje do końca tury "
-"+2/+0 oraz pierwszy cios. (Zadaje obrażenia bojowe przed stworami bez "
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"2/+0 oraz pierwszy cios. (Zadaje obrażenia bojowe przed stworami bez "
 "pierwszego ciosu.)"
 
 #: ../../M19.rst:54
@@ -221,7 +221,7 @@ msgid ""
 "When Dwarven Priest enters the battlefield, you gain 1 life for each "
 "creature you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zyskujesz 1 życie za każdego stwora "
+"Kiedy ten stwór wejdzie na pole walki, zyskaj po 1 życiu za każdego stwora "
 "pod twoim władaniem."
 
 #: ../../M19.rst:68
@@ -241,8 +241,8 @@ msgid ""
 "When Gallant Cavalry enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/2 "
-"z czujnością."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/"
+"2 z czujnością."
 
 #: ../../M19.rst:74
 msgid ""
@@ -253,7 +253,7 @@ msgstr ""
 
 #: ../../M19.rst:73
 msgid "Whenever Herald of Faith attacks, you gain 2 life."
-msgstr "Ilekroć ten stwór atakuje, zyskujesz 2 życia."
+msgstr "Ilekroć ten stwór atakuje, zyskaj 2 życia."
 
 #: ../../M19.rst:78
 msgid ""
@@ -268,7 +268,7 @@ msgid ""
 "permanent an opponent controls until Hieromancer's Cage leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
 "pod władaniem przeciwnika dopóki ta karta nie opuści pola walki."
 
 #: ../../M19.rst:82
@@ -359,8 +359,8 @@ msgid ""
 "When Lena, Selfless Champion enters the battlefield, create a 1/1 white "
 "Soldier creature token for each nontoken creature you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton białego stwora Piechur "
-"1/1 za każdego nie będącego żetonem stwora pod twoim władaniem."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Piechur 1/"
+"1 za każdego nieżetonowego stwora pod twoim władaniem."
 
 #: ../../M19.rst:113
 msgid ""
@@ -383,7 +383,7 @@ msgid ""
 "creatures, Leonin Vanguard gets +1/+1 until end of turn and you gain 1 life."
 msgstr ""
 "Na początku walki w twojej turze, jeśli władasz co najmniej trzema stworami, "
-"ten stwór dostaje +1/+1 do końca tury, a ty zyskujesz 1 życie."
+"ten stwór dostaje do końca tury +1/+1, a ty zyskaj 1 życie."
 
 #: ../../M19.rst:122
 msgid ""
@@ -475,7 +475,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz spośród nich ujawnić kartę stwora o sile 2 lub "
-"mniejszej i dołożyć ją do twojej reki. Umieść pozostałe na spodzie twojej "
+"mniejszej i umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej "
 "biblioteki w losowej kolejności."
 
 #: ../../M19.rst:156
@@ -545,8 +545,8 @@ msgid ""
 "At the beginning of each end step, if you gained 5 or more life this turn, "
 "create a 4/4 white Angel creature token with flying and vigilance."
 msgstr ""
-"Na początku każdego kroku końcowego, jeśli zyskałeś co najmniej 5 życia w "
-"tej turze, stwórz żeton białego stwora Anioł 4/4 z lataniem i czujnością."
+"Na początku każdego kroku końcowego, jeśli zyskałeś co najmniej 5 żyć w tej "
+"turze, stwórz żeton białego stwora Anioł 4/4 z lataniem i czujnością."
 
 #: ../../M19.rst:179
 msgid ""
@@ -595,8 +595,8 @@ msgid ""
 "When Shield Mare enters the battlefield or becomes the target of a spell or "
 "ability an opponent controls, you gain 3 life."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki lub zostanie wskazana przez władany "
-"przez przeciwnika czar lub zdolność, zyskujesz 3 życia."
+"Kiedy ten stwór wejdzie na pole walki lub zostanie wskazany przez czar lub "
+"zdolność pod władaniem przeciwnika, zyskaj 3 życia."
 
 #: ../../M19.rst:200
 msgid ""
@@ -663,7 +663,7 @@ msgid ""
 "When Trusty Packbeast enters the battlefield, return target artifact card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, przywróć wskazaną kartę artefaktu z "
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę artefaktu z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:222
@@ -723,8 +723,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, ten stwór dostaje +1/+1 do końca "
-"tury."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"1/+1."
 
 #: ../../M19.rst:242
 msgid ""
@@ -738,7 +738,7 @@ msgid ""
 "When Aviation Pioneer enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego "
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
 "artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../M19.rst:248
@@ -817,7 +817,7 @@ msgstr ""
 
 #: ../../M19.rst:273
 msgid "Djinn of Wishes enters the battlefield with three wish counters on it."
-msgstr "Ta karta wchodzi na pole walki mając  trzy znaczniki życzenia."
+msgstr "Ten stwór wchodzi na pole walki mając trzy znaczniki życzenia."
 
 #: ../../M19.rst:275
 msgid ""
@@ -868,7 +868,7 @@ msgid ""
 "opponent controls to its owner's hand."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, przywróć wskazanego stwora pod "
-"władaniem przeciwnika do ręki jego właściciela."
+"władaniem przeciwnika do ręki właściciela."
 
 #: ../../M19.rst:296
 msgid ""
@@ -932,7 +932,7 @@ msgstr ""
 
 #: ../../M19.rst:315
 msgid "As Metamorphic Alteration enters the battlefield, choose a creature."
-msgstr "Kładąc tę kartę na polu walki wybierz stwora."
+msgstr "Umieszczając tego stwora na polu walki wybierz stwora."
 
 #: ../../M19.rst:317
 msgid "Enchanted creature is a copy of the chosen creature."
@@ -1052,7 +1052,7 @@ msgid ""
 "Whenever you draw a card, each opponent puts the top two cards of their "
 "library into their graveyard."
 msgstr ""
-"Ilekroć dobierasz kartę, każdy przeciwnik umieszcza dwie wierzchnie karty "
+"Ilekroć dobierzesz kartę, każdy przeciwnik umieszcza dwie wierzchnie karty "
 "swojej biblioteki w swoim cmentarzu."
 
 #: ../../M19.rst:356
@@ -1067,7 +1067,7 @@ msgid ""
 "Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact "
 "creature token with flying."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"Ilekroć rzucisz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
 "stwora Thopter 1/1 z lataniem."
 
 #: ../../M19.rst:355
@@ -1086,7 +1086,7 @@ msgid ""
 "When Salvager of Secrets enters the battlefield, return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, przywróć wskazaną kartę sztuczki lub "
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:364
@@ -1101,7 +1101,7 @@ msgid ""
 "When Scholar of Stars enters the battlefield, if you control an artifact, "
 "draw a card."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli władasz artefaktem, dobierz "
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz artefaktem, dobierz "
 "kartę."
 
 #: ../../M19.rst:368
@@ -1128,9 +1128,9 @@ msgid ""
 "becomes an artifact creature with base power and toughness 5/5 for as long "
 "as Skilled Animator remains on the battlefield."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany artefakt pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole walki, wskazany artefakt pod twoim władaniem "
 "staje się artefaktycznym stworem z bazową siłą i wytrzymałością 5/5 na czas "
-"przebywania niniejszej karty na polu walki."
+"przebywania niniejszego stwora na polu walki."
 
 #: ../../M19.rst:376
 msgid ""
@@ -1195,7 +1195,7 @@ msgstr ""
 
 #: ../../M19.rst:393
 msgid "|mana_1|\\ |mana_u|: Surge Mare gets +2/-2 until end of turn."
-msgstr "|mana_1|\\ |mana_u|: Ten stwór dostaje +2/-2 do końca tury."
+msgstr "|mana_1|\\ |mana_u|: Ten stwór dostaje do końca tury +2/-2."
 
 #: ../../M19.rst:398
 msgid ""
@@ -1235,7 +1235,7 @@ msgid ""
 "library.\""
 msgstr ""
 "–9: Dostajesz emblemat o treści \"Na początku twojego kroku końcowego "
-"poszukaj w twojej bibliotece karty permanentu, umieść ją na polu walki, "
+"wyszukaj w twojej bibliotece kartę permanentu, umieść ją na polu walki, "
 "następnie przetasuj twoją bibliotekę.\""
 
 #: ../../M19.rst:408
@@ -1301,9 +1301,8 @@ msgid ""
 "Until end of turn, target creature gets +2/+0 and gains \"When this creature "
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
-"Do końca tury wskazany stwór dostaje +2/+0 oraz zdolność \"Kiedy ten stwór "
-"umrze, przywróć go przekręconego na pole walki pod władanie jego właściciela."
-"\""
+"Do końca tury wskazany stwór dostaje +2/+0 oraz \"Kiedy ten stwór umrze, "
+"przywróć go przekręconego na pole walki pod władaniem właściciela.\""
 
 #: ../../M19.rst:440
 msgid ""
@@ -1388,7 +1387,7 @@ msgstr ""
 
 #: ../../M19.rst:467
 msgid "Diregraf Ghoul enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:472
 msgid ""
@@ -1425,7 +1424,7 @@ msgstr ""
 
 #: ../../M19.rst:479
 msgid "Whenever you gain life, each opponent loses 1 life."
-msgstr "Ilekroć zyskujesz życie, każdy przeciwnik traci 1 życie."
+msgstr "Ilekroć zyskasz życie, każdy przeciwnik traci po 1 życiu."
 
 #: ../../M19.rst:488
 msgid ""
@@ -1438,11 +1437,11 @@ msgstr ""
 msgid ""
 "When Fell Specter enters the battlefield, target opponent discards a card."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik odrzuca kartę."
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik odrzuca kartę."
 
 #: ../../M19.rst:487
 msgid "Whenever an opponent discards a card, that player loses 2 life."
-msgstr "Ilekroć przeciwnik odrzuca kartę, ów gracz traci 2 życia."
+msgstr "Ilekroć przeciwnik odrzuci kartę, ów gracz traci 2 życia."
 
 #: ../../M19.rst:492
 msgid ""
@@ -1472,7 +1471,7 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:500
@@ -1521,8 +1520,7 @@ msgstr ""
 
 #: ../../M19.rst:511
 msgid "Exile target colorless creature. You gain life equal to its power."
-msgstr ""
-"Wygnaj wskazanego bezkolorowego stwora. Zyskujesz życie równe jego sile."
+msgstr "Wygnaj wskazanego bezkolorowego stwora. Zyskaj życia równe jego sile."
 
 #: ../../M19.rst:518
 msgid ""
@@ -1558,9 +1556,9 @@ msgid ""
 "the battlefield, exile it instead of putting it anywhere else."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|. Kiedy tak zrobisz, "
-"zwróć wskazaną kartę stwora o skróconym koszcie many X z twojego cmentarza "
-"na pole walki ze znacznikiem zwłok. Jeśli ów stwór miałby opuścić pole "
-"walki, wygnaj go zamiast umieszczać go gdziekolwiek indziej."
+"przywróć wskazaną kartę stwora o skróconym koszcie many X z twojego "
+"cmentarza na pole walki ze znacznikiem zwłok. Jeśli ów stwór miałby opuścić "
+"pole walki, wygnaj go zamiast umieszczać go gdziekolwiek indziej."
 
 #: ../../M19.rst:528
 msgid ""
@@ -1571,7 +1569,7 @@ msgstr ""
 
 #: ../../M19.rst:527
 msgid "Destroy target creature. You gain 3 life."
-msgstr "Zniszcz wskazanego stwora. Zyskujesz 3 życia."
+msgstr "Zniszcz wskazanego stwora. Zyskaj 3 życia."
 
 #: ../../M19.rst:536
 msgid ""
@@ -1586,8 +1584,8 @@ msgid ""
 "one of them is a Zombie card, each opponent loses 2 life and you gain 2 life."
 msgstr ""
 "+1: Umieść trzy wierzchnie karty twojej biblioteki w twoim cmentarzu. Jeśli "
-"przynajmniej jedna z nich jest kartą Zombi, każdy przeciwnik traci 2 życia, "
-"a ty zyskujesz 2 życia."
+"przynajmniej jedna z nich jest kartą Zombi, każdy przeciwnik traci po 2 "
+"życia, a ty zyskaj 2 życia."
 
 #: ../../M19.rst:533
 msgid ""
@@ -1613,8 +1611,7 @@ msgid ""
 "When Liliana's Contract enters the battlefield, you draw four cards and you "
 "lose 4 life."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, dobierasz cztery karty i tracisz 4 "
-"życia."
+"Kiedy ten urok wejdzie na pole walki, dobierz cztery karty i strać 4 życia."
 
 #: ../../M19.rst:541
 msgid ""
@@ -1673,8 +1670,8 @@ msgid ""
 "You gain 1 life. Target creature gets -X/-X until end of turn, where X is "
 "the amount of life you gained this turn."
 msgstr ""
-"Zyskujesz 1 życie. Wskazany stwór dostaje -X/-X do końca tury, gdzie X jest "
-"ilością życia zyskaną przez ciebie w tej turze."
+"Zyskaj 1 życie. Wskazany stwór dostaje -X/-X do końca tury, gdzie X jest "
+"liczbą żyć zyskanych przez ciebie w tej turze."
 
 #: ../../M19.rst:562
 msgid ""
@@ -1688,7 +1685,7 @@ msgid ""
 "Whenever a nontoken creature you control dies, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
-"Ilekroć nie-żetonowy stwór pod twoim władaniem umiera, stwórz żeton czarnego "
+"Ilekroć nie-żetonowy stwór pod twoim władaniem umrze, stwórz żeton czarnego "
 "stwora Zombi 2/2."
 
 #: ../../M19.rst:570
@@ -1734,8 +1731,8 @@ msgid ""
 "When Plague Mare enters the battlefield, creatures your opponents control "
 "get -1/-1 until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwory pod władaniem twoich "
-"przeciwników dostają -1/-1 do końca tury."
+"Kiedy ten stwór wejdzie na pole walki, stwory pod władaniem twoich "
+"przeciwników dostają do końca tury -1/-1."
 
 #: ../../M19.rst:582
 msgid ""
@@ -1747,7 +1744,8 @@ msgstr ""
 #: ../../M19.rst:581
 msgid ""
 "|mana_1|, Sacrifice another creature: Put a +1/+1 counter on Ravenous Harpy."
-msgstr "|mana_1|, poświęć innego stwora: Umieść znacznik +1/+1 na tym stworze."
+msgstr ""
+"|mana_1|, poświęć innego stwora: Umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../M19.rst:586
 msgid ""
@@ -1792,8 +1790,7 @@ msgstr ""
 msgid ""
 "When Skeleton Archer enters the battlefield, it deals 1 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje 1 obrażenie w dowolnie "
-"wskazany cel 1."
+"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M19.rst:600
 msgid ""
@@ -1807,8 +1804,8 @@ msgid ""
 "When Skymarch Bloodletter enters the battlefield, target opponent loses 1 "
 "life and you gain 1 life."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik traci 1 życie, a "
-"ty zyskujesz 1 życie."
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik traci 1 życie, a "
+"ty zyskaj 1 życie."
 
 #: ../../M19.rst:604
 msgid ""
@@ -1819,7 +1816,7 @@ msgstr ""
 
 #: ../../M19.rst:603
 msgid "Target player loses 3 life and you gain 3 life."
-msgstr "Wskazany gracz traci 3 życia, a ty zyskujesz 3 życia."
+msgstr "Wskazany gracz traci 3 życia, a ty zyskaj 3 życia."
 
 #: ../../M19.rst:608
 msgid ""
@@ -1871,7 +1868,7 @@ msgstr ""
 #: ../../M19.rst:619
 msgid "|mana_2|, |tap|: Each opponent loses 1 life and you gain 1 life."
 msgstr ""
-"|mana_2|, |tap|: Każdy przeciwnik traci 1 życie, a ty zyskujesz 1 życie."
+"|mana_2|, |tap|: Każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../M19.rst:626
 msgid ""
@@ -1885,8 +1882,8 @@ msgid ""
 "When Vampire Sovereign enters the battlefield, target opponent loses 3 life "
 "and you gain 3 life."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik traci 3 życia, a "
-"ty zyskujesz 3 życia."
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik traci 3 życia, a "
+"ty zyskaj 3 życia."
 
 #: ../../M19.rst:628
 msgid ""
@@ -1920,16 +1917,16 @@ msgstr ""
 #: ../../M19.rst:637
 msgid ""
 "As Alpine Moon enters the battlefield, choose a nonbasic land card name."
-msgstr "Kładąc tę kartę na polu walki wybierz nazwę nie-bazowego lądu."
+msgstr "Umieszczając ten urok na polu walki nazwij nie-bazowy ląd."
 
 #: ../../M19.rst:639
 msgid ""
 "Lands your opponents control with the chosen name lose all land types and "
 "abilities, and they gain \"|tap|: Add one mana of any color.\""
 msgstr ""
-"Lądy pod władaniem twoich przeciwników o wybranej nazwie tracą wszystkie "
-"typy lądów i zdolności oraz zyskują zdolność \"|tap|: Weź jedną manę "
-"dowolnego koloru.\""
+"Lądy o wybranej nazwie pod władaniem twoich przeciwników tracą wszystkie "
+"zdolności i typy lądów oraz zyskują \"|tap|: Weź jedną manę dowolnego koloru."
+"\""
 
 #: ../../M19.rst:646
 msgid ""
@@ -1949,8 +1946,8 @@ msgstr ""
 #: ../../M19.rst:645
 msgid "If this spell was cast from your hand, add ten mana of any one color."
 msgstr ""
-"Jeśli ten czar został rzucony z twojej ręki, dostajesz dziesięć many w "
-"dowolnym jednym kolorze."
+"Jeśli ten czar został rzucony z twojej ręki, weź dziesięć many w dowolnym "
+"jednym kolorze."
 
 #: ../../M19.rst:652
 msgid ""
@@ -2036,8 +2033,8 @@ msgid ""
 "When Demanding Dragon enters the battlefield, it deals 5 damage to target "
 "opponent unless that player sacrifices a creature."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zadaje 5 obrażeń wskazanemu "
-"przeciwnikowi, chyba że ów gracz poświęci stwora."
+"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu przeciwnikowi 5 "
+"obrażeń, chyba że ów gracz poświęci stwora."
 
 #: ../../M19.rst:682
 msgid ""
@@ -2055,8 +2052,8 @@ msgid ""
 "|mana_2|\\ |mana_r|, |tap|, Sacrifice Dismissive Pyromancer: It deals 4 "
 "damage to target creature."
 msgstr ""
-"|mana_2|\\ |mana_r|, |tap|, poświęć tego stwora: Zadaje on 4 obrażenia "
-"wskazanemu stworowi."
+"|mana_2|\\ |mana_r|, |tap|, poświęć tego stwora: Zadaje on wskazanemu "
+"stworowi 4 obrażenia."
 
 #: ../../M19.rst:686
 msgid ""
@@ -2097,7 +2094,7 @@ msgstr ""
 
 #: ../../M19.rst:695
 msgid "Electrify deals 4 damage to target creature."
-msgstr "Ten czar zadaje 4 obrażenia wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../M19.rst:700
 msgid ""
@@ -2108,7 +2105,7 @@ msgstr ""
 
 #: ../../M19.rst:699
 msgid "Fiery Finish deals 7 damage to target creature."
-msgstr "Ten czar zadaje 7 obrażeń wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 7."
 
 #: ../../M19.rst:702
 msgid ""
@@ -2129,7 +2126,7 @@ msgid ""
 "When Goblin Instigator enters the battlefield, create a 1/1 red Goblin "
 "creature token."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton czerwonego stwora Goblin "
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton czerwonego stwora Goblin "
 "1/1."
 
 #: ../../M19.rst:712
@@ -2326,8 +2323,8 @@ msgid ""
 "Whenever you cast a creature spell with power 4, 5, or 6, Sarkhan's "
 "Unsealing deals 4 damage to any target."
 msgstr ""
-"Ilekroć rzucasz czar stwora o sile 4, 5 lub 6, ten permanent zadaje 4 "
-"obrażenia w dowolny cel."
+"Ilekroć rzucisz stwora o sile 4, 5 lub 6, ten urok zadaje wskazanemu celowi "
+"4 obrażenia."
 
 #: ../../M19.rst:777
 msgid ""
@@ -2335,9 +2332,9 @@ msgid ""
 "Unsealing deals 4 damage to each opponent and each creature and planeswalker "
 "they control."
 msgstr ""
-"Ilekroć rzucasz czar stwora o sile 7 lub większej, ten permanent zadaje po 4 "
-"obrażenia każdemu przeciwnikowi oraz każdemu stworowi i wędrowcowi pod ich "
-"władaniem."
+"Ilekroć rzucisz stwora o sile 7 lub większej, ten urok zadaje każdemu "
+"przeciwnikowi oraz każdemu stworowi i wędrowcowi pod ich władaniem po 4 "
+"obrażenia."
 
 #: ../../M19.rst:782
 msgid ""
@@ -2384,8 +2381,8 @@ msgid ""
 "When Sparktongue Dragon enters the battlefield, you may pay |mana_2|\\ |"
 "mana_r|. When you do, it deals 3 damage to any target."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz zapłacić |mana_2|\\ |mana_r|. "
-"Kiedy to zrobisz, zadaje on 3 obrażenia w dowolny cel."
+"Kiedy ten stwór wejdzie na pole walki, możesz zapłacić |mana_2|\\ |mana_r|. "
+"Kiedy to zrobisz, zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../M19.rst:804
 msgid ""
@@ -2396,15 +2393,15 @@ msgstr ""
 
 #: ../../M19.rst:801
 msgid "Spit Flame deals 4 damage to target creature."
-msgstr "Ten czar zadaje 4 obrażenia wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../M19.rst:803
 msgid ""
 "Whenever a Dragon enters the battlefield under your control, you may pay |"
 "mana_r|. If you do, return Spit Flame from your graveyard to your hand."
 msgstr ""
-"Ilekroć Smok wchodzi na pole walki pod twoim władaniem, możesz zapłacić |"
-"mana_r|. Jeśli to zrobisz, przywróć tę kartę z twojego cmentarza do twojej "
+"Ilekroć Smok wejdzie na pole walki pod twoim władaniem, możesz zapłacić "
+"|mana_r|. Jeśli to zrobisz, przywróć tę kartę z twojego cmentarza do twojej "
 "ręki."
 
 #: ../../M19.rst:808
@@ -2441,7 +2438,7 @@ msgstr ""
 msgid ""
 "Thud deals damage equal to the sacrificed creature's power to any target."
 msgstr ""
-"Ten czar zadaje w dowolny cel obrażenia równe sile poświęconego stwora."
+"Ten czar zadaje wskazanemu celowi obrażenia równe sile poświęconego stwora."
 
 #: ../../M19.rst:824
 msgid ""
@@ -2477,8 +2474,8 @@ msgid ""
 "When Viashino Pyromancer enters the battlefield, it deals 2 damage to target "
 "player or planeswalker."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zadaje 2 obrażenia wskazanemu graczowi "
-"lub wędrowcowi."
+"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu graczowi lub "
+"wędrowcowi 2 obrażenia."
 
 #: ../../M19.rst:838
 msgid ""
@@ -2499,8 +2496,8 @@ msgid ""
 "When Volley Veteran enters the battlefield, it deals damage to target "
 "creature an opponent controls equal to the number of Goblins you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zadaje wskazanemu stworowi pod "
-"władaniem przeciwnika obrażenia równe liczbie Goblinów pod twoim władaniem."
+"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu stworowi pod "
+"władaniem przeciwnika tyle obrażeń, iloma Goblinami władasz."
 
 #: ../../M19.rst:848
 msgid ""
@@ -2595,7 +2592,7 @@ msgid ""
 "Whenever you cast an Aura spell that targets Druid of Horns, create a 3/3 "
 "green Beast creature token."
 msgstr ""
-"Ilekroć rzucasz czar Aury wskazujący na tego stwora, stwórz żeton zielonego "
+"Ilekroć rzucisz czar Aury wskazujący tego stwora, stwórz żeton zielonego "
 "stwora Bestia 3/3."
 
 #: ../../M19.rst:880
@@ -2640,7 +2637,7 @@ msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Search your library for a card named "
 "Elvish Clancaller, put it onto the battlefield, then shuffle your library."
 msgstr ""
-"|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Poszukaj w twojej bibliotece kartę o "
+"|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Wyszukaj w twojej bibliotece kartę o "
 "nazwie Elvish Clancaller, umieść ją na polu walki, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -2658,8 +2655,8 @@ msgid ""
 "battlefield tapped. Put the rest on the bottom of your library in a random "
 "order."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, spójrz na pięć wierzchnich kart twojej "
-"biblioteki. Możesz umieścić kartę lądu spośród nich na polu bitwy, "
+"Kiedy ten stwór wejdzie na pole walki, spójrz na pięć wierzchnich kart "
+"twojej biblioteki. Możesz umieścić kartę lądu spośród nich na polu walki, "
 "przekręconą. Umieść pozostałe na spodzie twojej biblioteki w losowej "
 "kolejności."
 
@@ -2737,8 +2734,7 @@ msgstr ""
 #: ../../M19.rst:923
 msgid ""
 "Creature spells you cast with power 4 or greater cost |mana_2| less to cast."
-msgstr ""
-"Rzucanie czarów stworów o sile 4 lub większej kosztuje cię o |mana_2| mniej."
+msgstr "Rzucanie stworów o sile 4 lub większej kosztuje cię o |mana_2| mniej."
 
 #: ../../M19.rst:925
 msgid ""
@@ -2775,7 +2771,7 @@ msgstr ""
 
 #: ../../M19.rst:937
 msgid "Hungering Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Ta karta wchodzi na pole walki mając na sobie X znaczników +1/+1."
+msgstr "Ta karta wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../M19.rst:939
 msgid "Hungering Hydra can't be blocked by more than one creature."
@@ -2902,7 +2898,7 @@ msgstr ""
 
 #: ../../M19.rst:985
 msgid "When Rhox Oracle enters the battlefield, draw a card."
-msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../M19.rst:990
 msgid ""
@@ -2943,7 +2939,7 @@ msgid ""
 "Sacrifice any number of lands. Search your library for up to that many land "
 "cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Poświęć dowolną liczbę lądów. Poszukaj w twojej bibliotece co najwyżej tyle "
+"Poświęć dowolną liczbę lądów. Wyszukaj w twojej bibliotece co najwyżej tyle "
 "samo kart lądów, umieść je przekręcone na polu walki, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -2981,12 +2977,12 @@ msgid ""
 "Whenever Thorn Lieutenant becomes the target of a spell or ability an "
 "opponent controls, create a 1/1 green Elf Warrior creature token."
 msgstr ""
-"Ilekroć ten stwór zostanie wskazany orzez czar lub zdolność pod władaniem "
-"przeciwnika, stwórz żeton zielonego stwora Elfi Wojownik 1/1."
+"Ilekroć ten stwór zostanie wskazany przez czar lub zdolność pod władaniem "
+"przeciwnika, stwórz żeton zielonego stwora Elf Wojownik 1/1."
 
 #: ../../M19.rst:1011
 msgid "|mana_5|\\ |mana_g|: Thorn Lieutenant gets +4/+4 until end of turn."
-msgstr "|mana_5|\\ |mana_g|: Ten stwór dostaje +4/+4 do końca tury."
+msgstr "|mana_5|\\ |mana_g|: Ten stwór dostaje do końca tury +4/+4."
 
 #: ../../M19.rst:1014
 msgid ""
@@ -3058,8 +3054,8 @@ msgid ""
 "−8: You get an emblem with \"Creatures you control get +2/+2 and have "
 "vigilance, trample, and indestructible.\""
 msgstr ""
-"–8: Dostajesz emblemat o treści \"Stwory pod twoim władaniem dostają +2/+2 i "
-"mają czujność, tratowanie i niezniszczalność.\""
+"–8: Dostajesz emblemat o treści \"Stwory pod twoim władaniem dostają +2/+2 "
+"oraz mają czujność, tratowanie i niezniszczalność.\""
 
 #: ../../M19.rst:1042
 msgid ""
@@ -3144,7 +3140,7 @@ msgid ""
 "do, Brawl-Bash Ogre gets +2/+2 until end of turn."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz poświęcić innego stwora. Jeśli tak "
-"zrobisz, ten stwór dostaje +2/+2 do końca tury."
+"zrobisz, ten stwór dostaje do końca tury +2/+2."
 
 #: ../../M19.rst:1076
 msgid ""
@@ -3198,8 +3194,7 @@ msgid ""
 "Enigma Drake's power is equal to the number of instant and sorcery cards in "
 "your graveyard."
 msgstr ""
-"Siła tego stwora jest równa liczbie kart sztuczek i obrzędów w twoim "
-"cmentarzu."
+"Siła tej karty jest równa liczbie kart sztuczek i obrzędów w twoim cmentarzu."
 
 #: ../../M19.rst:1092
 msgid ""
@@ -3214,7 +3209,7 @@ msgid ""
 "you control get +1/+1 and gain haste. (They can attack and |tap| this turn.)"
 msgstr ""
 "Stwórz dwa żetony białego stwora Piechur 1/1. Do końca tury stwory pod twoim "
-"władaniem dostają +1/+ oraz pośpiech. (Mogą atakować i |tap| w tej turze.)"
+"władaniem dostają +1/+1 oraz pośpiech. (Mogą atakować i |tap| w tej turze.)"
 
 #: ../../M19.rst:1100
 msgid ""
@@ -3228,7 +3223,7 @@ msgstr ""
 msgid ""
 "When Nicol Bolas, the Ravager enters the battlefield, each opponent discards "
 "a card."
-msgstr "Kiedy ta karta wejdzie na pole walki, każdy przeciwnik odrzuca kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik odrzuca kartę."
 
 #: ../../M19.rst:1099
 msgid ""
@@ -3237,8 +3232,8 @@ msgid ""
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Wygnaj ten permanent i przywróć "
-"go transformowany na pole walki pod władaniem jego właściciela. Aktywuj tę "
-"zdolność tylko wtedy, gdy możesz rzucić obrzęd."
+"go transformowany na pole walki pod władaniem jego właściciela. Używaj jako "
+"obrzęd."
 
 #: ../../M19.rst:1110
 msgid ""
@@ -3256,8 +3251,7 @@ msgstr "+2: Dobierz dwie karty."
 msgid ""
 "−3: Nicol Bolas, the Arisen deals 10 damage to target creature or "
 "planeswalker."
-msgstr ""
-"–3: Ten permanent zadaje 10 obrażeń wskazanemu stworowi lub wędrowcowi."
+msgstr "–3: Ten wędrowiec zadaje wskazanemu stworowi lub wędrowcowi 10 obrażeń."
 
 #: ../../M19.rst:1107
 msgid ""
@@ -3270,7 +3264,7 @@ msgstr ""
 #: ../../M19.rst:1109
 msgid "−12: Exile all but the bottom card of target player's library."
 msgstr ""
-"–12: Wygnaj wszystkie oprócz spodniej karty w bibliotece wskazanego gracza."
+"–12: Wygnaj wszystkie oprócz spodniej karty z biblioteki wskazanego gracza."
 
 #: ../../M19.rst:1116
 msgid ""
@@ -3296,7 +3290,7 @@ msgstr ""
 
 #: ../../M19.rst:1123
 msgid "Whenever another creature dies, each opponent loses 1 life."
-msgstr "Ilekroć inny stwór umrze, każdy przeciwnik traci 1 życie."
+msgstr "Ilekroć inny stwór umrze, każdy przeciwnik traci po 1 życiu."
 
 #: ../../M19.rst:1130
 msgid ""
@@ -3310,8 +3304,8 @@ msgid ""
 "When Psychic Symbiont enters the battlefield, target opponent discards a "
 "card and you draw a card."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik odrzuca kartę, a "
-"ty dobierasz kartę."
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik odrzuca kartę, a "
+"ty dobierz kartę."
 
 #: ../../M19.rst:1136
 msgid ""
@@ -3325,7 +3319,7 @@ msgid ""
 "At the beginning of each end step, if you gained life this turn, create a "
 "1/1 black Bat creature token with flying."
 msgstr ""
-"Na początku każdego kroku końcowego, jeśli zyskałeś życie w tej turze, "
+"Na początku każdego kroku końcowego, jeśli zyskałeś życia w tej turze, "
 "stwórz żeton czarnego stwora Nietoperz 1/1 z lataniem."
 
 #: ../../M19.rst:1140
@@ -3389,8 +3383,8 @@ msgid ""
 "counter that spell or ability unless its controller pays |mana_1|."
 msgstr ""
 "Ilekroć zostajesz wskazany przez czar lub zdolność pod władaniem "
-"przeciwnika, skontruj ów czar lub zdolność, chyba że jego władca zapłaci |"
-"mana_1|."
+"przeciwnika, skontruj ów czar lub zdolność, chyba że ich władca zapłaci "
+"|mana_1|."
 
 #: ../../M19.rst:1157
 msgid "Creature tokens get -1/-0."
@@ -3422,9 +3416,9 @@ msgid ""
 "on the bottom of that library in a random order."
 msgstr ""
 "|mana_4|, |tap|: Wskazany przeciwnik wygania karty z wierzchu swojej "
-"biblioteki dopóki nie wygna karty sztuczki lub obrzędu. Możesz rzucić ową "
-"kartę bez płacenia jej kosztu many. Następnie umieść pozostałe wygnane w ten "
-"sposób karty na spodzie owej biblioteki w losowej kolejności."
+"biblioteki, aż wygna kartę sztuczki lub obrzędu. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Następnie umieść pozostałe wygnane w ten sposób "
+"karty na spodzie owej biblioteki w losowej kolejności."
 
 #: ../../M19.rst:1170
 msgid ""
@@ -3449,7 +3443,7 @@ msgid ""
 "Whenever one or more creature cards leave your graveyard, create a 1/1 black "
 "Bat creature token with flying."
 msgstr ""
-"Ilekroć co najmniej jedna karta stwora opuszcza twój cmentarz, stwórz żeton "
+"Ilekroć co najmniej jedna karta stwora opuści twój cmentarz, stwórz żeton "
 "czarnego stwora Nietoperz 1/1 z lataniem."
 
 #: ../../M19.rst:1180
@@ -3461,11 +3455,11 @@ msgstr ""
 
 #: ../../M19.rst:1177
 msgid "As Diamond Mare enters the battlefield, choose a color."
-msgstr "Umieszczając tę kartę na polu walki wybierz kolor."
+msgstr "Umieszczając tego stwora na polu walki wybierz kolor."
 
 #: ../../M19.rst:1179
 msgid "Whenever you cast a spell of the chosen color, you gain 1 life."
-msgstr "Ilekroć rzucasz czar w wybranym kolorze, zyskujesz 1 życie."
+msgstr "Ilekroć rzucisz czar wybranego koloru, zyskaj 1 życie."
 
 #: ../../M19.rst:1188
 msgid ""
@@ -3480,11 +3474,11 @@ msgid ""
 "counter on Dragon's Hoard."
 msgstr ""
 "Ilekroć Smok wejdzie na pole walki pod twoim władaniem, umieść znacznik "
-"złota na tym permanencie."
+"złota na tym artefakcie."
 
 #: ../../M19.rst:1185
 msgid "|tap|, Remove a gold counter from Dragon's Hoard: Draw a card."
-msgstr "|tap|, usuń znacznik złota z tego permanentu: Dobierz kartę."
+msgstr "|tap|, usuń znacznik złota z tego artefaktu: Dobierz kartę."
 
 #: ../../M19.rst:1192
 msgid ""
@@ -3498,7 +3492,8 @@ msgid ""
 "|mana_3|, |tap|, Sacrifice Explosive Apparatus: It deals 2 damage to any "
 "target."
 msgstr ""
-"|mana_3|, |tap|, poświęć ten permanent: Zadaje on 2 obrażenia w dowolny cel."
+"|mana_3|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../M19.rst:1194
 msgid ""
@@ -3520,7 +3515,7 @@ msgstr "Na początku twojego kroku utrzymania zyskaj 1 życie."
 
 #: ../../M19.rst:1201
 msgid "|mana_3|, Sacrifice Fountain of Renewal: Draw a card."
-msgstr "|mana_3|, poświęć ten permanent: Dobierz kartę."
+msgstr "|mana_3|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../M19.rst:1208
 msgid ""
@@ -3555,14 +3550,14 @@ msgstr ""
 
 #: ../../M19.rst:1215
 msgid "|mana_4|, |tap|: Put a charge counter on Magistrate's Scepter."
-msgstr "|mana_4|, |tap|: Umieść znacznik ładunku na tym permanencie."
+msgstr "|mana_4|, |tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../M19.rst:1217
 msgid ""
 "|tap|, Remove three charge counters from Magistrate's Scepter: Take an extra "
 "turn after this one."
 msgstr ""
-"|tap|, usuń trzy znaczniki ładunku z tego permanentu: Weź dodatkową turę po "
+"|tap|, usuń trzy znaczniki ładunku z tego artefaktu: Weź dodatkową turę po "
 "obecnej."
 
 #: ../../M19.rst:1222
@@ -3603,7 +3598,7 @@ msgid ""
 "When Meteor Golem enters the battlefield, destroy target nonland permanent "
 "an opponent controls."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zniszcz wskazany nie-lądowy permanent "
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany nie-lądowy permanent "
 "pod władaniem przeciwnika."
 
 #: ../../M19.rst:1236
@@ -3671,7 +3666,7 @@ msgstr ""
 
 #: ../../M19.rst:1255
 msgid "When Skyscanner enters the battlefield, draw a card."
-msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../M19.rst:1262
 msgid ""
@@ -3694,7 +3689,7 @@ msgstr ""
 #: ../../M19.rst:1265
 msgid ""
 "Transmogrifying Wand enters the battlefield with three charge counters on it."
-msgstr "Ta karta wchodzi na pole walki z trzema znacznikami ładunku."
+msgstr "Ten artefakt wchodzi na pole walki mając trzy znaczniki ładunku."
 
 #: ../../M19.rst:1267
 msgid ""
@@ -3702,9 +3697,8 @@ msgid ""
 "target creature. Its controller creates a 2/4 white Ox creature token. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_1|, |tap|, usuń znacznik ładunku z tego permanentu: Zniszcz wskazanego "
-"stwora. Jego władca tworzy żeton białego stwora Wół 2/4. Aktywuj tę zdolność "
-"tylko wtedy, gdy możesz rzucić obrzęd."
+"|mana_1|, |tap|, usuń znacznik ładunku z tego artefaktu: Zniszcz wskazanego "
+"stwora. Jego władca tworzy żeton białego stwora Wół 2/4. Używaj jako obrzęd."
 
 #: ../../M19.rst:1274
 msgid ""
@@ -3715,7 +3709,7 @@ msgstr ""
 
 #: ../../M19.rst:1271
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1273
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -3751,7 +3745,7 @@ msgstr ""
 
 #: ../../M19.rst:1283
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1285
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -3766,7 +3760,7 @@ msgstr ""
 
 #: ../../M19.rst:1289
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1291
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -3781,7 +3775,7 @@ msgstr ""
 
 #: ../../M19.rst:1295
 msgid "Highland Lake enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1297
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3796,7 +3790,7 @@ msgstr ""
 
 #: ../../M19.rst:1301
 msgid "Meandering River enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1303
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -3822,7 +3816,7 @@ msgstr ""
 
 #: ../../M19.rst:1313
 msgid "Rupture Spire enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1315
 msgid ""
@@ -3841,7 +3835,7 @@ msgstr ""
 
 #: ../../M19.rst:1321
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1323
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3856,7 +3850,7 @@ msgstr ""
 
 #: ../../M19.rst:1327
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1329
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3871,7 +3865,7 @@ msgstr ""
 
 #: ../../M19.rst:1333
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1335
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3886,7 +3880,7 @@ msgstr ""
 
 #: ../../M19.rst:1339
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1341
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -3901,7 +3895,7 @@ msgstr ""
 
 #: ../../M19.rst:1345
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M19.rst:1347
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3975,14 +3969,14 @@ msgstr "+2: Zyskaj po 1 życiu za każdego stwora pod twoim władaniem."
 
 #: ../../M19.rst:1373
 msgid "−3: Creatures you control get +2/+2 until end of turn."
-msgstr "–3: Stwory pod twoim władaniem dostają +2/+2 do końca tury."
+msgstr "–3: Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../M19.rst:1375
 msgid ""
 "−9: Put X +1/+1 counters on target creature, where X is your life total."
 msgstr ""
 "–9: Umieść X znaczników +1/+1 na wskazanym stworze, gdzie X jest liczbą "
-"punktów twojego życia."
+"twoich żyć."
 
 #: ../../M19.rst:1382
 msgid ""
@@ -4014,7 +4008,7 @@ msgstr ""
 
 #: ../../M19.rst:1387
 msgid "Court Cleric gets +1/+1 as long as you control an Ajani planeswalker."
-msgstr "Ten stwór dostaje +1/+1 o ile władasz wędrowcem typu Ajani."
+msgstr "Ten stwór dostaje +1/+1 o ile władasz wędrowcem o typie Ajani."
 
 #: ../../M19.rst:1396
 msgid ""
@@ -4050,16 +4044,16 @@ msgid ""
 "0: Until your next turn, target artifact you control becomes a 5/5 creature "
 "in addition to its other types."
 msgstr ""
-"0: Do końca tury wskazany artefakt pod twoim władaniem staje się stworem 5/5 "
-"dodatkowo do swoich innych typów."
+"0: Do końca tury wskazany artefakt pod twoim władaniem staje się dodatkowo "
+"stworem 5/5 oprócz swoich innych typów."
 
 #: ../../M19.rst:1407
 msgid ""
 "−7: Put any number of cards from your hand onto the battlefield face down. "
 "They're 5/5 artifact creatures."
 msgstr ""
-"–7: Umieść dowolną liczbę kart z twojej ręki na polu walki obrazkiem w dół. "
-"Są artefaktycznymi stworami 5/5."
+"–7: Umieść na polu walki dowolną liczbę zakrytych kart z twojej ręki. Są "
+"artefaktycznymi stworami 5/5."
 
 #: ../../M19.rst:1414
 msgid ""
@@ -4073,8 +4067,8 @@ msgid ""
 "When Riddlemaster Sphinx enters the battlefield, you may return target "
 "creature an opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazanego stwora "
-"pod władaniem przeciwnika do ręki jego właściciela."
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazanego stwora "
+"pod władaniem przeciwnika do ręki właściciela."
 
 #: ../../M19.rst:1420
 msgid ""
@@ -4085,11 +4079,11 @@ msgstr ""
 
 #: ../../M19.rst:1417
 msgid "When Pendulum of Patterns enters the battlefield, you gain 3 life."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ten artefakt wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../M19.rst:1419
 msgid "|mana_5|, |tap|, Sacrifice Pendulum of Patterns: Draw a card."
-msgstr "|mana_5|, |tap|, poświęć ten permanent: Dobierz kartę."
+msgstr "|mana_5|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../M19.rst:1426
 msgid ""
@@ -4105,7 +4099,7 @@ msgid ""
 "them and put it into your hand. Put the rest on the bottom of your library "
 "in a random order."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"Kiedy ten artefakt wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz spośród nich ujawnić niebieską lub artefaktyczną "
 "kartę i umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej "
 "biblioteki w losowej kolejności."
@@ -4115,8 +4109,8 @@ msgid ""
 "|mana_5|\\ |mana_u|, |tap|, Sacrifice Tezzeret's Gatebreaker: Creatures you "
 "control can't be blocked this turn."
 msgstr ""
-"|mana_5|\\ |mana_u|, |tap|, poświęć ten permanent: Stwory pod twoim "
-"władaniem nie mogą być blokowane w tej turze."
+"|mana_5|\\ |mana_u|, |tap|, poświęć ten artefakt: Stwory pod twoim władaniem "
+"nie mogą być blokowane w tej turze."
 
 #: ../../M19.rst:1430
 msgid ""
@@ -4130,8 +4124,8 @@ msgid ""
 "As long as you control a Tezzeret planeswalker, Tezzeret's Strider has "
 "menace. (It can't be blocked except by two or more creatures.)"
 msgstr ""
-"O ile władasz wędrowcem typu Tezzeret, ten stwór ma złowrogość. (Nie może "
-"być blokowany, chyba że przez co najmniej dwa stwory.)"
+"O ile władasz wędrowcem o typie Tezzeret, niniejszy stwór ma złowrogość. ("
+"Nie może być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../M19.rst:1438
 msgid ""
@@ -4168,8 +4162,8 @@ msgid ""
 "Arisen Gorgon has deathtouch as long as you control a Liliana planeswalker. "
 "(Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
-"Ten stwór ma dotyk śmierci o ile masz we władaniu wędrowca typu Liliana. "
-"(Dowolna ilość obrażeń zadana stworowi przez tę kartę wystarcza, aby został "
+"Ten stwór ma dotyk śmierci o ile masz we władaniu wędrowca o typie Liliana. ("
+"Dowolna ilość obrażeń zadana stworowi przez tę kartę wystarcza, aby został "
 "zniszczony.)"
 
 #: ../../M19.rst:1448
@@ -4217,7 +4211,7 @@ msgstr ""
 
 #: ../../M19.rst:1457
 msgid "When Tattered Mummy dies, each opponent loses 2 life."
-msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci 2 życia."
+msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci po 2 życia."
 
 #: ../../M19.rst:1466
 msgid ""
@@ -4231,21 +4225,21 @@ msgid ""
 "+2: Sarkhan, Dragonsoul deals 1 damage to each opponent and each creature "
 "your opponents control."
 msgstr ""
-"+2: Ten permanent zadaje po 1 obrażeniu każdemu przeciwnikowi i każdemu "
-"stworowi pod władaniem twoich przeciwników."
+"+2: Ten wędrowiec zadaje każdemu przeciwnikowi i każdemu stworowi pod "
+"władaniem twoich przeciwników po 1 obrażeniu."
 
 #: ../../M19.rst:1463
 msgid ""
 "−3: Sarkhan, Dragonsoul deals 4 damage to target player or planeswalker."
 msgstr ""
-"–3: Ten permanent zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
+"–3: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 4 obrażenia."
 
 #: ../../M19.rst:1465
 msgid ""
 "−9: Search your library for any number of Dragon creature cards, put them "
 "onto the battlefield, then shuffle your library."
 msgstr ""
-"–9: Poszukaj w twojej bibliotece dowolną liczbę kart Smoków, umieść je na "
+"–9: Wyszukaj w twojej bibliotece dowolną liczbę kart Smoków, umieść je na "
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../M19.rst:1470
@@ -4272,7 +4266,7 @@ msgstr ""
 
 #: ../../M19.rst:1473
 msgid "Sarkhan's Dragonfire deals 3 damage to any target."
-msgstr "Ten czar zadaje 3 obrażenia w dowolny cel."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../M19.rst:1475
 msgid ""
@@ -4296,8 +4290,8 @@ msgid ""
 "Whenever you activate an ability of a Sarkhan planeswalker, Sarkhan's Whelp "
 "deals 1 damage to any target."
 msgstr ""
-"Ilekroć aktywujesz zdolność wędrowca typu Sarkhan, ten permanent zadaje 1 "
-"obrażenie w dowolny cel."
+"Ilekroć aktywujesz zdolność wędrowca o typie Sarkhan, ten stwór zadaje "
+"wskazanemu celowi 1 obrażenie."
 
 #: ../../M19.rst:1488
 msgid ""
@@ -4327,8 +4321,8 @@ msgid ""
 "−3: Target creature you control deals damage equal to its power to target "
 "creature you don't control."
 msgstr ""
-"–3: Wskazany stwór pod twoim władaniem zadaje obrażenia równe jego sile "
-"wskazanemu stworowi poza twoim władaniem."
+"–3: Wskazany stwór pod twoim władaniem zadaje wskazanemu stworowi poza twoim "
+"władaniem obrażenia równe swojej sile."
 
 #: ../../M19.rst:1495
 msgid "−9: Creatures you control get +4/+4 and gain trample until end of turn."
@@ -4359,9 +4353,10 @@ msgid ""
 "library. You may reveal a green card from among them and put it into your "
 "hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, spójrz na pięć wierzchnich kart twojej "
-"biblioteki. Możesz spośród nich ujawnić zieloną kartę i dołożyć ją do twojej "
-"reki. Umieść pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"Kiedy ten stwór wejdzie na pole walki, spójrz na pięć wierzchnich kart "
+"twojej biblioteki. Możesz spośród nich ujawnić zieloną kartę i umieścić ją w "
+"twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w losowej "
+"kolejności."
 
 #: ../../M19.rst:1510
 msgid ""
@@ -4376,7 +4371,7 @@ msgid ""
 "until end of turn. Activate this ability only once each turn."
 msgstr ""
 "|mana_5|\\ |mana_g|: Ten stwór do końca tury dostaje +3/+3 i staje się "
-"Niedźwiedziem Berserkerem. Aktywuj tę zdolność tylko raz w każdej turze."
+"Niedźwiedziem Berserkerem. Możesz aktywować tę zdolność tylko raz na turę."
 
 #: ../../M19.rst:1516
 msgid ""
@@ -4391,7 +4386,7 @@ msgid ""
 "hand. Activate this ability only if you control a Vivien planeswalker."
 msgstr ""
 "|mana_2|\\ |mana_g|: Przywróć tę kartę z twojego cmentarza do twojej ręki. "
-"Aktywuj tę zdolność tylko jeśli władasz wędrowcem imieniem Vivien."
+"Aktywuj tę zdolność tylko jeśli władasz wędrowcem o typie Vivien."
 
 #: ../../M19.rst:1522
 msgid ""
@@ -4435,7 +4430,7 @@ msgstr ""
 
 #: ../../M19.rst:1533
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje -4/-0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -4/-0."
 
 #: ../../M19.rst:1540
 msgid ""
@@ -4457,7 +4452,7 @@ msgstr ""
 
 #: ../../M19.rst:1545
 msgid "When Waterknot enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ta karta wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../M19.rst:1547
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -4486,7 +4481,7 @@ msgid ""
 "Radiating Lightning deals 3 damage to target player and 1 damage to each "
 "creature that player controls."
 msgstr ""
-"Ten czar zadaje 3 obrażenia wskazanemu graczowi oraz po 1 obrażeniu każdemu "
+"Ten czar zadaje wskazanemu graczowi 3 obrażenia oraz po 1 obrażeniu każdemu "
 "stworowi pod władaniem owego gracza."
 
 #: ../../M19.rst:1559
