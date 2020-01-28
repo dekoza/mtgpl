@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:19+0000\n"
+"PO-Revision-Date: 2020-01-28 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m20/"
 "pl/>\n"
@@ -817,7 +817,7 @@ msgstr ""
 
 #: ../../M20.rst:265
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje -4/-0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -4/-0."
 
 #: ../../M20.rst:267 ../../M20.rst:273 ../../M20.rst:473
 msgid "Draw a card."
@@ -1620,7 +1620,7 @@ msgstr ""
 
 #: ../../M20.rst:543
 msgid "Whenever you gain life, each opponent loses 1 life."
-msgstr "Ilekroć zyskujesz życie, każdy przeciwnik traci 1 życie."
+msgstr "Ilekroć zyskasz życie, każdy przeciwnik traci po 1 życiu."
 
 #: ../../M20.rst:548
 msgid ""
@@ -1681,7 +1681,7 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M20.rst:566
@@ -3872,7 +3872,7 @@ msgid ""
 "When Meteor Golem enters the battlefield, destroy target nonland permanent "
 "an opponent controls."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zniszcz wskazany nie-lądowy permanent "
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany nie-lądowy permanent "
 "pod władaniem przeciwnika."
 
 #: ../../M20.rst:1278
@@ -4959,8 +4959,8 @@ msgid ""
 "When Riddlemaster Sphinx enters the battlefield, you may return target "
 "creature an opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazanego stwora "
-"pod władaniem przeciwnika do ręki jego właściciela."
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazanego stwora "
+"pod władaniem przeciwnika do ręki właściciela."
 
 #: ../../M20.rst:1684
 msgid ""
@@ -5031,8 +5031,7 @@ msgstr ""
 msgid ""
 "When Skeleton Archer enters the battlefield, it deals 1 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje 1 obrażenie w dowolnie "
-"wskazany cel 1."
+"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M20.rst:1714
 msgid ""

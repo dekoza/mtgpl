@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:19+0000\n"
+"PO-Revision-Date: 2020-01-28 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -1164,6 +1164,8 @@ msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, you may pay |mana_1|. If you do, draw a card."
 msgstr ""
+"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole walki pod twoim "
+"władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../C16.rst:434
 msgid ""
@@ -5181,7 +5183,7 @@ msgstr ""
 
 #: ../../C16.rst:1855
 msgid "Rupture Spire enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C16.rst:1857
 msgid ""

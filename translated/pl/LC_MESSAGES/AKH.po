@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-28 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/akh/"
 "pl/>\n"
@@ -1578,7 +1578,7 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../AKH.rst:524
@@ -1880,9 +1880,8 @@ msgid ""
 "Until end of turn, target creature gets +2/+0 and gains \"When this creature "
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
-"Do końca tury wskazany stwór dostaje +2/+0 oraz zdolność \"Kiedy ten stwór "
-"umrze, przywróć go przekręconego na pole walki pod władanie jego właściciela."
-"\""
+"Do końca tury wskazany stwór dostaje +2/+0 oraz \"Kiedy ten stwór umrze, "
+"przywróć go przekręconego na pole walki pod władaniem właściciela.\""
 
 #: ../../AKH.rst:620
 msgid ""
@@ -2156,7 +2155,7 @@ msgstr ""
 
 #: ../../AKH.rst:709
 msgid "Electrify deals 4 damage to target creature."
-msgstr "Ten czar zadaje 4 obrażenia wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../AKH.rst:714
 msgid ""
@@ -3259,8 +3258,7 @@ msgid ""
 "Enigma Drake's power is equal to the number of instant and sorcery cards in "
 "your graveyard."
 msgstr ""
-"Siła tego stwora jest równa liczbie kart sztuczek i obrzędów w twoim "
-"cmentarzu."
+"Siła tej karty jest równa liczbie kart sztuczek i obrzędów w twoim cmentarzu."
 
 #: ../../AKH.rst:1080
 msgid ""
@@ -4356,7 +4354,7 @@ msgstr ""
 
 #: ../../AKH.rst:1497
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1499
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -4417,7 +4415,7 @@ msgstr ""
 
 #: ../../AKH.rst:1519
 msgid "When Tattered Mummy dies, each opponent loses 2 life."
-msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci 2 życia."
+msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci po 2 życia."
 
 #: ../../AKH.rst:1526
 msgid ""
@@ -4428,7 +4426,7 @@ msgstr ""
 
 #: ../../AKH.rst:1523
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1525
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4443,7 +4441,7 @@ msgstr ""
 
 #: ../../AKH.rst:1529
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1531
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4458,7 +4456,7 @@ msgstr ""
 
 #: ../../AKH.rst:1535
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1537
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -4473,7 +4471,7 @@ msgstr ""
 
 #: ../../AKH.rst:1541
 msgid "Highland Lake enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1543
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4488,7 +4486,7 @@ msgstr ""
 
 #: ../../AKH.rst:1547
 msgid "Meandering River enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1549
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4503,7 +4501,7 @@ msgstr ""
 
 #: ../../AKH.rst:1553
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1555
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4518,7 +4516,7 @@ msgstr ""
 
 #: ../../AKH.rst:1559
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1561
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4533,7 +4531,7 @@ msgstr ""
 
 #: ../../AKH.rst:1565
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1567
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -4548,7 +4546,7 @@ msgstr ""
 
 #: ../../AKH.rst:1571
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1573
 msgid "|tap|: Add |mana_g| or |mana_u|."

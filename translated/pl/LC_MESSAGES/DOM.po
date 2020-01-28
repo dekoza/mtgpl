@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dom/"
 "pl/>\n"
@@ -787,7 +787,7 @@ msgstr ""
 
 #: ../../DOM.rst:257
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje -4/-0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -4/-0."
 
 #: ../../DOM.rst:259 ../../DOM.rst:349 ../../DOM.rst:853 ../../DOM.rst:903
 msgid "Draw a card."
@@ -2372,7 +2372,7 @@ msgid ""
 "Radiating Lightning deals 3 damage to target player and 1 damage to each "
 "creature that player controls."
 msgstr ""
-"Ten czar zadaje 3 obrażenia wskazanemu graczowi oraz po 1 obrażeniu każdemu "
+"Ten czar zadaje wskazanemu graczowi 3 obrażenia oraz po 1 obrażeniu każdemu "
 "stworowi pod władaniem owego gracza."
 
 #: ../../DOM.rst:790
@@ -4405,7 +4405,7 @@ msgstr ""
 
 #: ../../DOM.rst:1455
 msgid "Meandering River enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DOM.rst:1457
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4501,7 +4501,7 @@ msgstr ""
 
 #: ../../DOM.rst:1483
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DOM.rst:1485
 msgid "|tap|: Add |mana_r| or |mana_g|."

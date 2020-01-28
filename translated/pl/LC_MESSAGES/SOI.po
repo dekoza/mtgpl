@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:19+0000\n"
+"PO-Revision-Date: 2020-01-28 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -1158,7 +1158,7 @@ msgstr ""
 
 #: ../../SOI.rst:407
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje -4/-0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -4/-0."
 
 #: ../../SOI.rst:416
 msgid ""
@@ -4325,7 +4325,8 @@ msgid ""
 "|mana_3|, |tap|, Sacrifice Explosive Apparatus: It deals 2 damage to any "
 "target."
 msgstr ""
-"|mana_3|, |tap|, poświęć ten permanent: Zadaje on 2 obrażenia w dowolny cel."
+"|mana_3|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../SOI.rst:1524
 msgid ""
@@ -4646,7 +4647,7 @@ msgstr ""
 
 #: ../../SOI.rst:1649
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1651
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -4679,7 +4680,7 @@ msgstr ""
 
 #: ../../SOI.rst:1661
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1670
 msgid ""
@@ -4707,7 +4708,7 @@ msgstr ""
 
 #: ../../SOI.rst:1673
 msgid "Highland Lake enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1675
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4739,7 +4740,7 @@ msgstr ""
 
 #: ../../SOI.rst:1685
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1687
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -4798,7 +4799,7 @@ msgstr ""
 
 #: ../../SOI.rst:1709
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1711
 msgid "|tap|: Add |mana_g| or |mana_u|."

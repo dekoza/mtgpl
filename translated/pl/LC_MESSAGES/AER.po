@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:19+0000\n"
+"PO-Revision-Date: 2020-01-28 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/aer/"
 "pl/>\n"
@@ -632,7 +632,7 @@ msgid ""
 "Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact "
 "creature token with flying."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"Ilekroć rzucisz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
 "stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:196
@@ -3023,7 +3023,7 @@ msgstr ""
 
 #: ../../AER.rst:1029
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AER.rst:1031
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -3076,11 +3076,11 @@ msgstr ""
 
 #: ../../AER.rst:1047
 msgid "When Pendulum of Patterns enters the battlefield, you gain 3 life."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ten artefakt wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:1049
 msgid "|mana_5|, |tap|, Sacrifice Pendulum of Patterns: Draw a card."
-msgstr "|mana_5|, |tap|, poświęć ten permanent: Dobierz kartę."
+msgstr "|mana_5|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../AER.rst:1054
 msgid ""
@@ -3104,7 +3104,7 @@ msgstr ""
 
 #: ../../AER.rst:1057
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AER.rst:1059
 msgid "|tap|: Add |mana_u| or |mana_b|."
