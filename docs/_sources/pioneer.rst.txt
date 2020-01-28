@@ -47,7 +47,7 @@ Edycje bazowe
 -------------
 
 * :mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|
-* :mtgexp:`M15` :doc:`Magic 2015<M15>` |p25|
+* :mtgexp:`M15` :doc:`Magic 2015<M15>` |p100|
 * :mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|
 
 
