@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -1150,7 +1150,7 @@ msgstr ""
 
 #: ../../C16.rst:423
 msgid "Creatures entering the battlefield don't cause abilities to trigger."
-msgstr ""
+msgstr "Stwory wchodzące na pole walki nie powodują wyzwalania zdolności."
 
 #: ../../C16.rst:428
 msgid ""
@@ -1404,7 +1404,7 @@ msgstr ""
 
 #: ../../C16.rst:509
 msgid "Whenever you draw a card, put a +1/+1 counter on Chasm Skulker."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C16.rst:511
 msgid ""
@@ -1412,6 +1412,9 @@ msgid ""
 "islandwalk, where X is the number of +1/+1 counters on Chasm Skulker. (They "
 "can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Kiedy ten stwór umrze, stwórz X żetonów niebieskiego stwora Kalmar 1/1 z "
+"podbojem wysp, gdzie X jest liczbą znaczników +1/+1 na tym stworze. (Nie "
+"mogą być blokowane, o ile broniący się gracz włada Wyspą.)"
 
 #: ../../C16.rst:516
 msgid ""
@@ -1426,6 +1429,9 @@ msgid ""
 "spells. Each creature you tap while casting an artifact spell pays for |"
 "mana_1| or one mana of that creature's color.)"
 msgstr ""
+"Rzucane przez ciebie czary artefaktów mają współpracę. (Twoje stwory mogą "
+"pomóc rzucić owe czar. Każdy stwór, którego przekręcisz podczas rzucania "
+"czaru artefaktu płaci za |mana_1| lub jedną manę w kolorze owego stwora.)"
 
 #: ../../C16.rst:522
 msgid ""
@@ -1829,6 +1835,8 @@ msgid ""
 "Destroy all creatures you don't control and all planeswalkers you don't "
 "control."
 msgstr ""
+"Zniszcz wszystkie stwory poza twoim władaniem i wszystkich wędrowców poza "
+"twoim władaniem."
 
 #: ../../C16.rst:652
 msgid ""
@@ -1896,14 +1904,17 @@ msgid ""
 "Whenever an opponent discards a creature card, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"Ilekroć przeciwnik odrzuci kartę stwora, stwórz żeton czarnego stwora Zombi "
+"2/2."
 
 #: ../../C16.rst:673
 msgid "Whenever an opponent discards a land card, add |mana_b|\\ |mana_b|."
-msgstr ""
+msgstr "Ilekroć przeciwnik odrzuci kartę lądu, weź |mana_b|\\ |mana_b|."
 
 #: ../../C16.rst:675
 msgid "Whenever an opponent discards a noncreature, nonland card, draw a card."
 msgstr ""
+"Ilekroć przeciwnik odrzuci kartę nie będącą stworem ani lądem, dobierz kartę."
 
 #: ../../C16.rst:680
 msgid ""
@@ -2237,7 +2248,7 @@ msgstr ""
 
 #: ../../C16.rst:787
 msgid "As an additional cost to cast this spell, sacrifice an artifact."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt."
 
 #: ../../C16.rst:789
 msgid "Return target artifact card from your graveyard to the battlefield."
@@ -3692,7 +3703,7 @@ msgstr ""
 
 #: ../../C16.rst:1279
 msgid "Destroy target creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Nie może być zregenerowany."
 
 #: ../../C16.rst:1284
 msgid ""
@@ -4444,12 +4455,16 @@ msgstr ""
 #: ../../C16.rst:1555
 msgid "|mana_5|: Permanents you control gain indestructible until end of turn."
 msgstr ""
+"|mana_5|: Permanenty pod twoim władaniem zyskują niezniszczalność do końca "
+"tury."
 
 #: ../../C16.rst:1557
 msgid ""
 "|mana_5|, Exile Soul of New Phyrexia from your graveyard: Permanents you "
 "control gain indestructible until end of turn."
 msgstr ""
+"|mana_5|, wygnaj tę kartę z twojego cmentarza: Permanenty pod twoim "
+"władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../C16.rst:1566
 msgid ""
@@ -4629,7 +4644,7 @@ msgstr ""
 
 #: ../../C16.rst:1631
 msgid "|tap|: Add |mana_w| or |mana_b|. Caves of Koilos deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../C16.rst:1636
 msgid ""

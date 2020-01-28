@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c18/"
 "pl/>\n"
@@ -2136,12 +2136,17 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|: Return up to three target creature cards "
 "from your graveyard to your hand."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_b|: Przywróć co najwyżej trzy wskazane karty "
+"stworów z twojego cmentarza do twojej ręki."
 
 #: ../../C18.rst:727
 msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|, Exile Soul of Innistrad from your graveyard: "
 "Return up to three target creature cards from your graveyard to your hand."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: "
+"Przywróć co najwyżej trzy wskazane karty stworów z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../C18.rst:734
 msgid ""
@@ -2799,6 +2804,8 @@ msgid ""
 "When Reclamation Sage enters the battlefield, you may destroy target "
 "artifact or enchantment."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz zniszczyć wskazany artefakt lub "
+"urok."
 
 #: ../../C18.rst:962
 msgid ""
@@ -3713,13 +3720,15 @@ msgstr ""
 #: ../../C18.rst:1287
 msgid ""
 "Scuttling Doom Engine can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../C18.rst:1289
 msgid ""
 "When Scuttling Doom Engine dies, it deals 6 damage to target opponent or "
 "planeswalker."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje on wskazanemu przeciwnikowi lub wędrowcowi 6 "
+"obrażeń."
 
 #: ../../C18.rst:1296
 msgid ""
@@ -3768,12 +3777,16 @@ msgstr ""
 #: ../../C18.rst:1309
 msgid "|mana_5|: Permanents you control gain indestructible until end of turn."
 msgstr ""
+"|mana_5|: Permanenty pod twoim władaniem zyskują niezniszczalność do końca "
+"tury."
 
 #: ../../C18.rst:1311
 msgid ""
 "|mana_5|, Exile Soul of New Phyrexia from your graveyard: Permanents you "
 "control gain indestructible until end of turn."
 msgstr ""
+"|mana_5|, wygnaj tę kartę z twojego cmentarza: Permanenty pod twoim "
+"władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../C18.rst:1320
 msgid ""

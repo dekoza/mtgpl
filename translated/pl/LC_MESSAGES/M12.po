@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m12/"
 "pl/>\n"
@@ -48,6 +48,10 @@ msgid ""
 "\"destroy\" don't destroy it. A creature with indestructible can't be "
 "destroyed by damage.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inny wskazany permanent zyskuje "
+"niezniszczalność dopóki władasz niniejszym stworem. (Efekty mówiące \""
+"zniszcz\" nie niszczą go. Stwór z niezniszczalnością nie może być zniszczony "
+"przez obrażenia.)"
 
 #: ../../M12.rst:16
 msgid ""
@@ -1058,6 +1062,8 @@ msgid ""
 "Until end of turn, target creature loses all abilities and becomes a blue "
 "Frog with base power and toughness 1/1."
 msgstr ""
+"Do końca tury wskazany stwór traci wszystkie zdolności i staje się niebieską "
+"Żabą o bazowych sile i wytrzymałości 1/1."
 
 #: ../../M12.rst:390
 msgid ""
@@ -1731,6 +1737,8 @@ msgid ""
 "Whenever a creature without flying attacks you or a planeswalker you "
 "control, Circle of Flame deals 1 damage to that creature."
 msgstr ""
+"Ilekroć stwór bez latania atakuje ciebie lub wędrowca pod twoim władaniem, "
+"ten urok zadaje owemu stworowi 1 obrażenie."
 
 #: ../../M12.rst:638
 msgid ""
@@ -2239,7 +2247,7 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
 #: ../../M12.rst:836
@@ -2620,7 +2628,7 @@ msgstr ""
 
 #: ../../M12.rst:983
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../M12.rst:990
 msgid ""

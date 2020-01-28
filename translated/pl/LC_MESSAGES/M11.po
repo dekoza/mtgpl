@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:28+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m11/"
 "pl/>\n"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../M11.rst:21
 msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
-msgstr "Ilekroć zyskasz życie, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../M11.rst:30
 msgid ""
@@ -979,11 +979,11 @@ msgstr ""
 
 #: ../../M11.rst:365
 msgid "All lands are Islands in addition to their other types."
-msgstr ""
+msgstr "Wszystkie lądy są dodatkowo Wyspami oprócz swoich pozostałych typów."
 
 #: ../../M11.rst:367
 msgid "Creatures without flying or islandwalk can't attack."
-msgstr ""
+msgstr "Stwory bez latania lub podboju wysp nie mogą atakować."
 
 #: ../../M11.rst:372
 msgid ""
@@ -1367,19 +1367,23 @@ msgstr ""
 
 #: ../../M11.rst:495
 msgid "+1: Target player discards a card."
-msgstr ""
+msgstr "+1: Wskazany gracz odrzuca kartę."
 
 #: ../../M11.rst:497
 msgid ""
 "−2: Search your library for a card, then shuffle your library and put that "
 "card on top of it."
 msgstr ""
+"−2: Wyszukaj w twojej bibliotece dowolną kartę, następnie przetasuj twoją "
+"bibliotekę i umieść ową kartę na jej wierzchu."
 
 #: ../../M11.rst:499
 msgid ""
 "−8: Put all creature cards from all graveyards onto the battlefield under "
 "your control."
 msgstr ""
+"−8: Umieść wszystkie karty stworów ze wszystkich cmentarzy na polu walki pod "
+"twoim władaniem."
 
 #: ../../M11.rst:504
 msgid ""
@@ -1929,11 +1933,14 @@ msgid ""
 "When Hoarding Dragon enters the battlefield, you may search your library for "
 "an artifact card, exile it, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę artefaktu, wygnaj ją, następnie przetasuj twoją bibliotekę."
 
 #: ../../M11.rst:707
 msgid ""
 "When Hoarding Dragon dies, you may put the exiled card into its owner's hand."
 msgstr ""
+"Kiedy ten stwór umrze, możesz umieścić wygnaną nim kartę do ręki właściciela."
 
 #: ../../M11.rst:712
 msgid ""
@@ -2207,7 +2214,7 @@ msgstr ""
 
 #: ../../M11.rst:805
 msgid "Destroy all enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie uroki."
 
 #: ../../M11.rst:812
 msgid ""
@@ -2284,7 +2291,7 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
 #: ../../M11.rst:840
@@ -2382,6 +2389,8 @@ msgid ""
 "Whenever another creature with power 3 or greater enters the battlefield "
 "under your control, you may draw a card."
 msgstr ""
+"Ilekroć inny stwór o sile 3 lub większej wejdzie na pole walki pod twoim "
+"władaniem, możesz dobrać kartę."
 
 #: ../../M11.rst:876
 msgid ""
@@ -2755,7 +2764,7 @@ msgstr ""
 msgid ""
 "|mana_3|: Until end of turn, Gargoyle Sentinel loses defender and gains "
 "flying."
-msgstr ""
+msgstr "|mana_3|: Do końca tury ten stwór traci obronność i zyskuje latanie."
 
 #: ../../M11.rst:1018
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -1233,7 +1233,7 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
 #: ../../ORI.rst:430
@@ -1363,6 +1363,8 @@ msgid ""
 "Until end of turn, target creature loses all abilities and becomes a blue "
 "Frog with base power and toughness 1/1."
 msgstr ""
+"Do końca tury wskazany stwór traci wszystkie zdolności i staje się niebieską "
+"Żabą o bazowych sile i wytrzymałości 1/1."
 
 #: ../../ORI.rst:472
 msgid ""
@@ -1847,6 +1849,8 @@ msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
 "control."
 msgstr ""
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"władaniem."
 
 #: ../../ORI.rst:627
 msgid ""
@@ -3231,7 +3235,7 @@ msgstr ""
 
 #: ../../ORI.rst:1105
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje +4/+4 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../ORI.rst:1112
 msgid ""
@@ -3530,6 +3534,8 @@ msgid ""
 "Equipped creature gets +2/+2 and has trample. (It can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma tratowanie. (Może on zadać nadwyżkę "
+"obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../ORI.rst:1219
 msgid ""
@@ -3829,7 +3835,7 @@ msgstr "|tap|: Weź |colorless|."
 #: ../../ORI.rst:1331
 msgid ""
 "|tap|: Add |mana_r| or |mana_w|. Battlefield Forge deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../ORI.rst:1338
 msgid ""
@@ -3840,7 +3846,7 @@ msgstr ""
 
 #: ../../ORI.rst:1337
 msgid "|tap|: Add |mana_w| or |mana_b|. Caves of Koilos deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../ORI.rst:1342
 msgid ""
@@ -3879,7 +3885,7 @@ msgstr ""
 
 #: ../../ORI.rst:1353
 msgid "|tap|: Add |mana_b| or |mana_g|. Llanowar Wastes deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../ORI.rst:1362
 msgid ""
@@ -3918,7 +3924,7 @@ msgstr ""
 
 #: ../../ORI.rst:1373
 msgid "|tap|: Add |mana_u| or |mana_r|. Shivan Reef deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_r|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../ORI.rst:1380
 msgid ""
@@ -3929,7 +3935,7 @@ msgstr ""
 
 #: ../../ORI.rst:1379
 msgid "|tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../ORI.rst:1384
 msgid ""
@@ -4000,6 +4006,10 @@ msgid ""
 "\"destroy\" don't destroy it. A creature with indestructible can't be "
 "destroyed by damage.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inny wskazany permanent zyskuje "
+"niezniszczalność dopóki władasz niniejszym stworem. (Efekty mówiące \""
+"zniszcz\" nie niszczą go. Stwór z niezniszczalnością nie może być zniszczony "
+"przez obrażenia.)"
 
 #: ../../ORI.rst:1410
 msgid ""
@@ -4064,7 +4074,7 @@ msgstr ""
 
 #: ../../ORI.rst:1433
 msgid "Destroy target creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Nie może być zregenerowany."
 
 #: ../../ORI.rst:1438
 msgid ""

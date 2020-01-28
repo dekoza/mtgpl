@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:28+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/inv/"
 "pl/>\n"
@@ -2906,7 +2906,7 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
 #: ../../INV.rst:1081
@@ -3012,6 +3012,8 @@ msgstr ""
 msgid ""
 "Return two target cards from your graveyard to your hand. Exile Restock."
 msgstr ""
+"Przywróć dwie wskazane karty z twojego cmentarza do twojej ręki. Wygnaj "
+"niniejszy czar."
 
 #: ../../INV.rst:1122
 msgid ""
@@ -3151,7 +3153,7 @@ msgstr ""
 
 #: ../../INV.rst:1173
 msgid "Destroy all enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie uroki."
 
 #: ../../INV.rst:1178
 msgid ""

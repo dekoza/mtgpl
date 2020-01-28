@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/lrw/"
 "pl/>\n"
@@ -81,7 +81,7 @@ msgstr ""
 
 #: ../../LRW.rst:27
 msgid "Destroy all enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie uroki."
 
 #: ../../LRW.rst:29
 msgid "Destroy all creatures with converted mana cost 3 or less."
@@ -422,8 +422,8 @@ msgid ""
 "When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje +1/+1 do końca "
-"tury."
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"1/+1."
 
 #: ../../LRW.rst:146
 msgid ""
@@ -1865,19 +1865,23 @@ msgstr ""
 
 #: ../../LRW.rst:693
 msgid "+1: Target player discards a card."
-msgstr ""
+msgstr "+1: Wskazany gracz odrzuca kartę."
 
 #: ../../LRW.rst:695
 msgid ""
 "−2: Search your library for a card, then shuffle your library and put that "
 "card on top of it."
 msgstr ""
+"−2: Wyszukaj w twojej bibliotece dowolną kartę, następnie przetasuj twoją "
+"bibliotekę i umieść ową kartę na jej wierzchu."
 
 #: ../../LRW.rst:697
 msgid ""
 "−8: Put all creature cards from all graveyards onto the battlefield under "
 "your control."
 msgstr ""
+"−8: Umieść wszystkie karty stworów ze wszystkich cmentarzy na polu walki pod "
+"twoim władaniem."
 
 #: ../../LRW.rst:702
 msgid ""

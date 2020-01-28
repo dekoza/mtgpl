@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m13/"
 "pl/>\n"
@@ -695,6 +695,8 @@ msgid ""
 "Enchanted permanent doesn't untap during its controller's untap step and its "
 "activated abilities can't be activated."
 msgstr ""
+"Zauroczony permanent nie odkręca się podczas kroku odkręcania swojego "
+"władcy, a jego zdolności aktywowane nie mogą być używane."
 
 #: ../../M13.rst:262
 msgid ""
@@ -763,7 +765,7 @@ msgstr ""
 
 #: ../../M13.rst:283
 msgid "Target creature gets -5/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -5/-0."
 
 #: ../../M13.rst:288
 msgid ""
@@ -858,6 +860,8 @@ msgid ""
 "Target opponent puts the top seven cards of their library into their "
 "graveyard."
 msgstr ""
+"Wskazany przeciwnik umieszcza siedem wierzchnich kart swojej biblioteki w "
+"swoim cmentarzu."
 
 #: ../../M13.rst:322
 msgid ""
@@ -964,11 +968,11 @@ msgstr ""
 
 #: ../../M13.rst:357
 msgid "All lands are Islands in addition to their other types."
-msgstr ""
+msgstr "Wszystkie lądy są dodatkowo Wyspami oprócz swoich pozostałych typów."
 
 #: ../../M13.rst:359
 msgid "Creatures without flying or islandwalk can't attack."
-msgstr ""
+msgstr "Stwory bez latania lub podboju wysp nie mogą atakować."
 
 #: ../../M13.rst:364
 msgid ""
@@ -1081,7 +1085,7 @@ msgstr ""
 
 #: ../../M13.rst:399
 msgid "Welkin Tern can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../M13.rst:404
 msgid ""
@@ -1147,7 +1151,7 @@ msgstr ""
 
 #: ../../M13.rst:427
 msgid "Enchanted creature gets -1/-1 and can't block."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -1/-1 i nie może blokować."
 
 #: ../../M13.rst:436
 msgid ""
@@ -1791,7 +1795,7 @@ msgstr ""
 
 #: ../../M13.rst:667
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M13.rst:672
 msgid ""
@@ -2013,7 +2017,7 @@ msgstr ""
 
 #: ../../M13.rst:749
 msgid "|mana_r|, Sacrifice Torch Fiend: Destroy target artifact."
-msgstr ""
+msgstr "|mana_r|, poświęć tego stwora: Zniszcz wskazany artefakt."
 
 #: ../../M13.rst:754
 msgid ""
@@ -2072,7 +2076,7 @@ msgstr ""
 
 #: ../../M13.rst:773
 msgid "|mana_r|: Wall of Fire gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M13.rst:780
 msgid ""
@@ -2192,7 +2196,7 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
 #: ../../M13.rst:828
@@ -2330,6 +2334,8 @@ msgid ""
 "Whenever another creature with power 3 or greater enters the battlefield "
 "under your control, you may draw a card."
 msgstr ""
+"Ilekroć inny stwór o sile 3 lub większej wejdzie na pole walki pod twoim "
+"władaniem, możesz dobrać kartę."
 
 #: ../../M13.rst:874
 msgid ""
@@ -2602,7 +2608,7 @@ msgstr ""
 
 #: ../../M13.rst:963
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../M13.rst:966
 msgid ""
@@ -2966,6 +2972,8 @@ msgid ""
 "|tap|, Sacrifice Tormod's Crypt: Exile all cards from target player's "
 "graveyard."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
+"gracza."
 
 #: ../../M13.rst:1108
 msgid ""

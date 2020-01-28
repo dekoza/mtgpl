@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c13/"
 "pl/>\n"
@@ -107,11 +107,8 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:21
-#, fuzzy
-#| msgid ""
-#| "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate."
 msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
-msgstr "Ilekroć zyskujesz życie, połóż znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C13.rst:28
 msgid ""
@@ -4073,7 +4070,7 @@ msgstr "Inne zielone stwory pod twoim władaniem dostają +1/+1."
 # 10675d79ad3f4589899de52922d9fc0c
 #: ../../C13.rst:1333
 msgid "Other blue creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne niebieskie stwory pod twoim władaniem dostają +1/+1."
 
 # 5e4d9c34f57448ca8b1d143b6b91e5ef
 #: ../../C13.rst:1335

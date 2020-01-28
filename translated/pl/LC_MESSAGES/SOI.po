@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:49+0000\n"
+"PO-Revision-Date: 2020-01-28 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -1692,9 +1692,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:601
-#, fuzzy
 msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr ""
+"|mana_4|\\ |mana_w: Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../SOI.rst:606
 msgid ""

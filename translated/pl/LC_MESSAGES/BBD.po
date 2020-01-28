@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:28+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bbd/"
 "pl/>\n"
@@ -2372,6 +2372,8 @@ msgid ""
 "When Rotfeaster Maggot enters the battlefield, exile target creature card "
 "from a graveyard. You gain life equal to that card's toughness."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę stwora z "
+"dowolnego cmentarza. Zyskaj tyle żyć, ile wynosi wytrzymałość owej karty."
 
 #: ../../BBD.rst:856
 msgid ""
@@ -2543,7 +2545,7 @@ msgstr ""
 
 #: ../../BBD.rst:913
 msgid "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, dostaje do końca tury +2/+0."
 
 #: ../../BBD.rst:918
 msgid ""
@@ -2837,7 +2839,7 @@ msgstr ""
 
 #: ../../BBD.rst:1017
 msgid "Charging Rhino can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../BBD.rst:1020
 msgid ""
@@ -3549,7 +3551,7 @@ msgstr ""
 
 #: ../../BBD.rst:1287
 msgid "|mana_4|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_4|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../BBD.rst:1292
 msgid ""

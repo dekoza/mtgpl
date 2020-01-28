@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m10/"
 "pl/>\n"
@@ -470,9 +470,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:177
-#, fuzzy
 msgid "Destroy all enchantments."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wszystkie uroki."
 
 #: ../../M10.rst:182
 msgid ""
@@ -1267,20 +1266,23 @@ msgstr ""
 
 #: ../../M10.rst:487
 msgid "+1: Target player discards a card."
-msgstr ""
+msgstr "+1: Wskazany gracz odrzuca kartę."
 
 #: ../../M10.rst:489
 msgid ""
 "−2: Search your library for a card, then shuffle your library and put "
 "that card on top of it."
 msgstr ""
+"−2: Wyszukaj w twojej bibliotece dowolną kartę, następnie przetasuj twoją "
+"bibliotekę i umieść ową kartę na jej wierzchu."
 
 #: ../../M10.rst:491
-#, fuzzy
 msgid ""
 "−8: Put all creature cards from all graveyards onto the battlefield under"
 " your control."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"−8: Umieść wszystkie karty stworów ze wszystkich cmentarzy na polu walki pod "
+"twoim władaniem."
 
 #: ../../M10.rst:496
 msgid ""
@@ -1566,7 +1568,7 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
 #: ../../M10.rst:601 ../../M10.rst:673 ../../M10.rst:707 ../../M10.rst:735
@@ -1924,7 +1926,7 @@ msgstr ""
 msgid ""
 "Seismic Strike deals damage to target creature equal to the number of "
 "Mountains you control."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi tyle obrażeń, iloma Górami władasz."
 
 #: ../../M10.rst:744
 msgid ":mtgtip:`Shatter<https://img.scryfall.com/cards/border_crop/en/m10/155.jpg?1517813031|https://scryfall.com/card/m10/155/shatter?utm_source=api>`"
@@ -2023,9 +2025,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:777
-#, fuzzy
 msgid "|mana_r|: Wall of Fire gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M10.rst:782
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/som/"
 "pl/>\n"
@@ -463,7 +463,7 @@ msgstr ""
 
 #: ../../SOM.rst:167
 msgid "Other blue creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne niebieskie stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../SOM.rst:169
 msgid "|mana_u|: Target artifact creature becomes blue until end of turn."
@@ -973,6 +973,9 @@ msgid ""
 "library for any number of cards with that name and exile them. Then that "
 "player shuffles their library."
 msgstr ""
+"Nazwij nielądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
+"gracza dowolną liczbę kart o tej nazwie i wygnaj je. Następnie ów gracz "
+"tasuje swoją bibliotekę."
 
 #: ../../SOM.rst:360
 msgid ""
@@ -990,7 +993,7 @@ msgstr ""
 
 #: ../../SOM.rst:367
 msgid "When Necrogen Scudder enters the battlefield, you lose 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, strać 3 życia."
 
 #: ../../SOM.rst:372
 msgid ""
@@ -1060,7 +1063,7 @@ msgstr ""
 
 #: ../../SOM.rst:393
 msgid "Enchant artifact"
-msgstr ""
+msgstr "Zaurocz artefakt"
 
 #: ../../SOM.rst:395
 msgid ""
@@ -1334,7 +1337,7 @@ msgstr ""
 
 #: ../../SOM.rst:491
 msgid "As an additional cost to cast this spell, sacrifice an artifact."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt."
 
 #: ../../SOM.rst:493
 msgid "Create three 1/1 red Goblin creature tokens."
@@ -2296,13 +2299,15 @@ msgstr ""
 
 #: ../../SOM.rst:845
 msgid "|tap|: Put a charge counter on Grindclock."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładowania na tym artefakcie."
 
 #: ../../SOM.rst:847
 msgid ""
 "|tap|: Target player puts the top X cards of their library into their "
 "graveyard, where X is the number of charge counters on Grindclock."
 msgstr ""
+"|tap|: Wskazany gracz umieszcza X wierzchnich kart swojej biblioteki w swoim "
+"cmentarzu, gdzie X jest liczbą znaczników ładowania na tym artefakcie."
 
 #: ../../SOM.rst:856
 msgid ""

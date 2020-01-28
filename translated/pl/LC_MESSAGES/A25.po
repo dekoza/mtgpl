@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/a25/"
 "pl/>\n"
@@ -1017,6 +1017,9 @@ msgid ""
 "that card onto the battlefield and the rest on the bottom of your library in "
 "a random order."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|, poświęć innego stwora: Ujawniaj karty z wierzchu "
+"twojej biblioteki aż ujawnisz kartę nielegendarnego stwora. Umieść ową kartę "
+"na polu walki, a pozostałe na spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../A25.rst:346
 msgid ""
@@ -1266,7 +1269,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../A25.rst:435
 msgid "Enchanted land has \"|tap|: Target player loses 3 life.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Wskazany gracz traci 3 życia.\""
 
 #: ../../A25.rst:440
 msgid ""
@@ -1886,7 +1889,7 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
 #: ../../A25.rst:649
@@ -2664,7 +2667,7 @@ msgstr ""
 
 #: ../../A25.rst:897
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../A25.rst:904
 msgid ""

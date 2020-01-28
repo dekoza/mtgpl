@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-28 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/uma/"
 "pl/>\n"
@@ -430,7 +430,7 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę Aury, ujawnić ją, umieścić w twojej ręce, następnie przetasuj twoją "
+"kartę Aury, ujawnić ją i umieścić w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../UMA.rst:140
@@ -2223,6 +2223,9 @@ msgid ""
 "mana is spent on a creature spell, it gains haste until end of turn. (That "
 "creature can attack and |tap| as soon as it comes under your control.)"
 msgstr ""
+"|tap|, poświęć tego stwora: Weź |colorless|\\ |colorless|. Jeśli owa mana "
+"zostanie wydana na czar stwora, zyskuje on pośpiech do końca tury. (Ów stwór "
+"może atakować oraz |tap| zaraz po wejściu pod twoje władanie.)"
 
 #: ../../UMA.rst:740
 msgid ""
@@ -4027,4 +4030,4 @@ msgstr ""
 
 #: ../../UMA.rst:1417
 msgid "Each land is a Swamp in addition to its other land types."
-msgstr ""
+msgstr "Każdy ląd jest dodatkowo Bagnem oprócz swoich innych typów lądu."
