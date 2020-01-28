@@ -4,12 +4,12 @@ Spis zmian
 ***********
 2020-01-28
    * Core Set 2015 - 100%
+   * Zaktualizowane tłumaczenia: M19
 
 2020-01-27
    * Dragons of Tarkir - 100%
    * Khans of Tarkir - 100%
    * Zaktualizowane tłumaczenia: FRF, M14
-
 
 2020-01-25
    * Journey into Nyx - 100%
