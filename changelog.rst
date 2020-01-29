@@ -3,8 +3,9 @@
 Spis zmian
 ***********
 
-2020-01-29
+2020-01-30
    * Nowy dodatek: Commander 2019 - 50%
+   * Wyzwanie "Pokonaj Bóstwo" - 100%
    * Zaktualizowane tłumaczenia do dwóch wyzwań z bloku Therosa (Hydra i Horda)
 
 2020-01-28

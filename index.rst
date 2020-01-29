@@ -115,7 +115,7 @@ Pozostałe produkty
 Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek.
 
 * :mtgexp:`MTG` :doc:`Bohaterowie<THS_heroes>` |p100|
-* :mtgexp:`JOU` :doc:`Pokonaj Bóstwo<JOU_god>` |p25|
+* :mtgexp:`JOU` :doc:`Pokonaj Bóstwo<JOU_god>` |p100|
 * :mtgexp:`BNG` :doc:`Walka z Hordą<BNG_horde>` |p100|
 * :mtgexp:`THS` :doc:`Staw czoła Hydrze<THS_hydra>` |p100|
 
