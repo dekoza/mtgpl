@@ -4,13 +4,14 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 # Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:34+0000\n"
-"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-29 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mm3/"
 "pl/>\n"
 "Language: pl\n"
@@ -82,7 +83,7 @@ msgstr ""
 
 #: ../../MM3.rst:23
 msgid "Golem creatures you control have first strike."
-msgstr ""
+msgstr "Golemy pod twoim władaniem mają pierwszy cios."
 
 #: ../../MM3.rst:30
 msgid ""
@@ -276,7 +277,7 @@ msgid ""
 "Exile target creature you control, then return it to the battlefield under "
 "its owner's control."
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władanie, następnie przywróć go na pole "
+"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć go na pole "
 "walki pod władaniem jego właściciela."
 
 #: ../../MM3.rst:89
@@ -513,12 +514,15 @@ msgstr ""
 #: ../../MM3.rst:163
 msgid "Create a token that's a copy of target creature you control."
 msgstr ""
+"Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
 
 #: ../../MM3.rst:165
 msgid ""
 "Flashback |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_u|\\ |mana_u| (Możesz zagrać tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:170
 msgid ""
@@ -588,6 +592,8 @@ msgid ""
 "either enters the battlefield. They remain paired for as long as you control "
 "both of them.)"
 msgstr ""
+"Więź dusz (Możesz sparować tego stwora z innym niesparowanym stworem gdy "
+"którykolwiek wchodzi na pole walki. Pozostają parą dopóki kontrolujesz obu.)"
 
 #: ../../MM3.rst:187
 msgid ""
@@ -631,6 +637,8 @@ msgid ""
 "Flashback |mana_6|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_6|\\ |mana_b| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:204
 msgid ""
@@ -677,6 +685,8 @@ msgid ""
 "Flashback |mana_7|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:216
 msgid ""
@@ -795,6 +805,10 @@ msgid ""
 "equal to its mana cost. (You may cast that card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazana karta sztuczki lub obrzędu w "
+"twoim cmentarzu zyskuje wspomnienie do końca tury. Koszt wspomnienia jest "
+"równy jej kosztowi many. (Możesz zagrać ową kartę z twojego cmentarza za "
+"koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:260
 msgid ""
@@ -985,7 +999,7 @@ msgstr ""
 
 #: ../../MM3.rst:327
 msgid "Destroy all creatures. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory. Nie mogą być zregenerowane."
 
 #: ../../MM3.rst:332
 msgid ""
@@ -1289,6 +1303,8 @@ msgid ""
 "Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:444
 msgid ""
@@ -1306,6 +1322,8 @@ msgid ""
 "Flashback |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_3|\\ |mana_w| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:448
 msgid ""
@@ -1345,6 +1363,8 @@ msgid ""
 "Flashback |mana_g| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_g| (Możesz zagrać tę kartę z twojego cmentarza za koszt "
+"wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:462
 msgid ""
@@ -1415,7 +1435,7 @@ msgstr ""
 
 #: ../../MM3.rst:479
 msgid "Create two 1/1 red Goblin creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony czerwonego stwora Goblin 1/1."
 
 #: ../../MM3.rst:486
 msgid ""
@@ -1594,6 +1614,8 @@ msgid ""
 "Each instant and sorcery card in your graveyard gains flashback until end of "
 "turn. The flashback cost is equal to its mana cost."
 msgstr ""
+"Każda karta sztuczki i obrzędu w twoim cmentarzu zyskuje wspomnienie do "
+"końca tury. Koszt wspomnienia jest równy jej kosztowi many."
 
 #: ../../MM3.rst:543
 msgid ""
@@ -2299,7 +2321,7 @@ msgstr ""
 
 #: ../../MM3.rst:779
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -3/-0 do końca tury."
 
 #: ../../MM3.rst:781
 msgid "Target creature gets -0/-3 until end of turn."
@@ -2536,7 +2558,7 @@ msgstr ""
 
 #: ../../MM3.rst:859
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../MM3.rst:864
 msgid ""
@@ -3475,7 +3497,7 @@ msgstr ""
 
 #: ../../MM3.rst:1193
 msgid "As Cavern of Souls enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Wprowadzając Jaskinię Dusz na pole walki, wybierz typ stwora."
 
 #: ../../MM3.rst:1195 ../../MM3.rst:1279
 msgid "|tap|: Add |colorless|."

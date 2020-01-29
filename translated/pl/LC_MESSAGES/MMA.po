@@ -4,13 +4,14 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 # Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:34+0000\n"
-"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-29 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mma/"
 "pl/>\n"
 "Language: pl\n"
@@ -918,6 +919,8 @@ msgid ""
 "When Narcomoeba is put into your graveyard from your library, you may put it "
 "onto the battlefield."
 msgstr ""
+"Kiedy ten stwór jest wkładany do cmentarza z twojej biblioteki, możesz "
+"położyć go na polu walki."
 
 #: ../../MMA.rst:324
 msgid ""
@@ -1071,7 +1074,7 @@ msgstr "Zaurocz permanent"
 
 #: ../../MMA.rst:385
 msgid "You control enchanted permanent."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym permanentem."
 
 #: ../../MMA.rst:390
 msgid ""
@@ -1462,6 +1465,8 @@ msgid ""
 "Destroy target creature. Its controller loses life equal to its power plus "
 "its toughness."
 msgstr ""
+"Zniszcz wskazanego stwora. Jego władca traci punkty życia równe sumie jego "
+"siły i wytrzymałości."
 
 #: ../../MMA.rst:533
 msgid ""
@@ -1819,6 +1824,8 @@ msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn. You may choose new targets for the copies.)"
 msgstr ""
+"Sztorm (Rzucając ten czar, skopiuj go za każdy czar rzucony przed nim w tej "
+"turze. Dla każdej kopii możesz wybrać nowy cel.)"
 
 #: ../../MMA.rst:674
 msgid ""
@@ -1931,6 +1938,8 @@ msgstr ""
 msgid ""
 "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| (Możesz zapłacić dodatkowo |mana_r| podczas rzucania tego "
+"czaru.)"
 
 #: ../../MMA.rst:705
 msgid ""
@@ -2192,6 +2201,8 @@ msgid ""
 "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_g| (Możesz zapłacić dodatkowo |mana_2|\\ |mana_g| "
+"podczas rzucania tego czaru.)"
 
 #: ../../MMA.rst:799
 msgid ""
@@ -3361,7 +3372,7 @@ msgstr ""
 
 #: ../../MMA.rst:1219
 msgid "|tap|: Target player exiles a card from their graveyard."
-msgstr ""
+msgstr "|tap|: Wskazany gracz wygania kartę ze swojego cmentarza."
 
 #: ../../MMA.rst:1221
 msgid ""

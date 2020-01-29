@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 # Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:34+0000\n"
-"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-29 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mm2/"
 "pl/>\n"
 "Language: pl\n"
@@ -189,6 +190,8 @@ msgid ""
 "Target artifact or creature you control gains protection from artifacts or "
 "from the color of your choice until end of turn."
 msgstr ""
+"Wskazany artefakt lub stwór pod twoim władaniem zyskuje do końca tury "
+"ochronę od artefaktów lub wybranego przez ciebie koloru."
 
 #: ../../MM2.rst:70
 msgid ""
@@ -957,6 +960,8 @@ msgid ""
 "Proliferate. (Choose any number of permanents and/or players, then give each "
 "another counter of each kind already there.)"
 msgstr ""
+"Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj "
+"każdemu z nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../MM2.rst:350
 msgid ""
@@ -1699,6 +1704,8 @@ msgstr ""
 msgid ""
 "Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_4| (Możesz zapłacić dodatkowo |mana_4| podczas rzucania tego "
+"czaru.)"
 
 #: ../../MM2.rst:623
 msgid ""
@@ -1794,7 +1801,7 @@ msgstr ""
 
 #: ../../MM2.rst:657
 msgid "Enchanted creature gets +2/+2 and has haste."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma pośpiech."
 
 #: ../../MM2.rst:662
 msgid ""
@@ -2564,7 +2571,7 @@ msgstr ""
 
 #: ../../MM2.rst:941
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -3/-0 do końca tury."
 
 #: ../../MM2.rst:943
 msgid "Target creature gets -0/-3 until end of turn."
@@ -2680,7 +2687,7 @@ msgstr ""
 
 #: ../../MM2.rst:983
 msgid "Vigilance, trample, haste"
-msgstr ""
+msgstr "Czujność, tratowanie, pośpiech"
 
 #: ../../MM2.rst:985
 msgid ""

@@ -5,13 +5,14 @@
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 # Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:34+0000\n"
-"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-29 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
 "Language: pl\n"
@@ -1383,7 +1384,7 @@ msgstr ""
 
 #: ../../C16.rst:501
 msgid "You draw a card at the beginning of the next turn's upkeep."
-msgstr ""
+msgstr "Dobierasz kartę na początku utrzymania następnej tury."
 
 #: ../../C16.rst:506
 msgid ""
@@ -1703,6 +1704,8 @@ msgid ""
 "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card "
 "from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C16.rst:614
 msgid ""
@@ -4496,7 +4499,7 @@ msgstr ""
 
 #: ../../C16.rst:1569
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #: ../../C16.rst:1576
 msgid ""
@@ -5188,6 +5191,8 @@ msgid ""
 "When Rupture Spire enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, poświęć ją, chyba że zapłacisz "
+"|mana_1|."
 
 #: ../../C16.rst:1866
 msgid ""

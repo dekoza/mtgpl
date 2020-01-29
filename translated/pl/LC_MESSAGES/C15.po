@@ -5,13 +5,14 @@
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 # Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:34+0000\n"
-"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-29 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c15/"
 "pl/>\n"
 "Language: pl\n"
@@ -673,6 +674,8 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
+"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją przekręconą na "
+"polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C15.rst:250
 msgid ""
@@ -1335,6 +1338,8 @@ msgstr ""
 msgid ""
 "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| (Możesz zapłacić dodatkowo |mana_r| podczas rzucania tego "
+"czaru.)"
 
 #: ../../C15.rst:477
 msgid ""
@@ -1483,6 +1488,8 @@ msgid ""
 "Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's "
 "library."
 msgstr ""
+"Wskazany gracz dobiera X kart. Wtasuj Zenit Niebieskiego Słońca do "
+"biblioteki jego właściciela."
 
 #: ../../C15.rst:534
 msgid ""
@@ -1890,7 +1897,7 @@ msgstr ""
 
 #: ../../C15.rst:659
 msgid "Each player sacrifices two creatures."
-msgstr ""
+msgstr "Każdy gracz poświęca dwa stwory."
 
 #: ../../C15.rst:666
 msgid ""
@@ -3266,6 +3273,8 @@ msgid ""
 "Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to "
 "any other costs as you cast this spell.)"
 msgstr ""
+"Podbicie—Poświęć stwora. (Możesz poświęcić stwora jako dodatek do innych "
+"kosztów podczas rzucania tego czaru.)"
 
 #: ../../C15.rst:1115
 msgid ""
@@ -3412,6 +3421,8 @@ msgstr ""
 msgid ""
 "At the beginning of each upkeep, create a 1/1 green Saproling creature token."
 msgstr ""
+"Na początku każdego kroku utrzymania, stwórz żeton zielonego stwora "
+"Saproling 1/1."
 
 #: ../../C15.rst:1164
 msgid ""
@@ -4319,6 +4330,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may pay |mana_2|. If you do, draw a card."
 msgstr ""
+"Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
+"zapłacić |mana_2|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../C15.rst:1480
 msgid ""
@@ -4425,7 +4438,7 @@ msgstr ""
 
 #: ../../C15.rst:1511
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #: ../../C15.rst:1520
 msgid ""

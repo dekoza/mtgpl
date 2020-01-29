@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
 # Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
-"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-29 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gnt/"
 "pl/>\n"
 "Language: pl\n"
@@ -725,13 +726,13 @@ msgid ""
 msgstr ""
 
 #: ../../GNT.rst:241
-#, fuzzy
-#| msgid "Creatures you control get +2/+2 and gain trample until end of turn."
 msgid ""
 "Creatures you control get +2/+2 and gain trample until end of turn. (They "
 "can deal excess combat damage to the player or planeswalker they're "
 "attacking.)"
-msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+2 i tratowanie."
+msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +2/+2 i tratowanie. (Mogą "
+"zadać nadmiar obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../GNT.rst:246
 msgid ""

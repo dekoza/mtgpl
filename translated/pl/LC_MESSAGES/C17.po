@@ -5,13 +5,14 @@
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 # Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:34+0000\n"
-"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"PO-Revision-Date: 2020-01-29 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
 "Language: pl\n"
@@ -1101,7 +1102,7 @@ msgstr ""
 
 #: ../../C17.rst:379
 msgid "Destroy all creatures with power greater than target creature's power."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory z siłą większą niż siła wskazanego stwora."
 
 #: ../../C17.rst:386
 msgid ""
@@ -1441,7 +1442,7 @@ msgstr ""
 
 #: ../../C17.rst:491
 msgid "Tap an untapped Wizard you control: Draw a card."
-msgstr ""
+msgstr "Zaznacz odkręconego Maga pod twoim władaniem: Dobierz kartę."
 
 #: ../../C17.rst:496
 msgid ""
@@ -1507,12 +1508,16 @@ msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
+"podczas rzucania tego czaru.)"
 
 #: ../../C17.rst:511
 msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
+"Przywróć wskazany nie-lądowy permanent do ręki jego właściciela. Jeśli ten "
+"czar został podbity, dobierz kartę."
 
 #: ../../C17.rst:516
 msgid ""
@@ -1705,6 +1710,8 @@ msgid ""
 "Whenever Blood Artist or another creature dies, target player loses 1 life "
 "and you gain 1 life."
 msgstr ""
+"Ilekroć Artysta Krwi lub inny stwór umiera, wskazany gracz traci 1 życie, a "
+"ty zyskujesz 1 życie."
 
 #: ../../C17.rst:576
 msgid ""
@@ -2686,7 +2693,7 @@ msgstr ""
 
 #: ../../C17.rst:911
 msgid "Whenever you cast a creature spell, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucasz czar stwora, dobierz kartę."
 
 #: ../../C17.rst:918
 msgid ""
@@ -2835,6 +2842,7 @@ msgstr "Przywróć wskazany permanent do ręki właściciela."
 #: ../../C17.rst:969
 msgid "Destroy target nonblack creature. It can't be regenerated."
 msgstr ""
+"Zniszcz wskazanego nieczarnego stwora. Nie może on zostać zregenerowany."
 
 #: ../../C17.rst:978
 msgid ""
@@ -3061,6 +3069,8 @@ msgid ""
 "Whenever you tap a land for mana, add one mana of any type that land "
 "produced."
 msgstr ""
+"Ilekroć przekręcisz ląd pobierając manę, dostajesz jedną manę w jednym z "
+"typów wydanych przez ów ląd."
 
 #: ../../C17.rst:1052
 msgid ""
@@ -3563,6 +3573,8 @@ msgid ""
 "You may pay |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| rather than "
 "pay the mana cost for spells that you cast."
 msgstr ""
+"Możesz płacić |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| zamiast "
+"płacić koszt many rzucanych przez ciebie czarów."
 
 #: ../../C17.rst:1246
 msgid ""
@@ -3782,7 +3794,7 @@ msgstr ""
 
 #: ../../C17.rst:1329
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #: ../../C17.rst:1340
 msgid ""
@@ -3962,7 +3974,7 @@ msgstr ""
 
 #: ../../C17.rst:1405
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr ""
+msgstr "Bojuka Bog wchodzi na pole walki przekręcony."
 
 #: ../../C17.rst:1407
 msgid ""
