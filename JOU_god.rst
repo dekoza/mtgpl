@@ -4,7 +4,7 @@
  Defeat a God!
 ===============
 
-Xenagps has thrown all of Theros into disarray with his ascension to godhood.
+Xenagos has thrown all of Theros into disarray with his ascension to godhood.
 His euphoric revels threaten to plunge the plane into chaos.
 There is only one way to silence this revel once and for all: isolate Xenagos and vanquish him.
 
