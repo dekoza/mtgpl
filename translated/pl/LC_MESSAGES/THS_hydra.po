@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-28 18:47\n"
+"POT-Creation-Date: 2020-01-29 23:35+0100\n"
 "PO-Revision-Date: 2020-01-29 20:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/pozostale/"
@@ -355,26 +355,30 @@ msgstr ""
 "ujawnij wierzchnią kartę z biblioteki Hydry i Hydra rzuca ową kartę."
 
 # 8bb34e94dea74674948b8bb6367734ea
-#: ../../THS_hydra.rst:98
+#: ../../THS_hydra.rst:100
 msgid "Noxious Hydra Breath"
 msgstr "Noxious Hydra Breath (Trujący Dech Hydry)"
 
 # fe1959ca51cf44e9815a195c835b28b8
 #: ../../THS_hydra.rst:98
+#, fuzzy
+#| msgid ""
+#| "Choose one — Noxious Hydra Breath deals 5 damage to each player; or "
+#| "destroy each tapped non-Head creature."
 msgid ""
-"Choose one — Noxious Hydra Breath deals 5 damage to each player; or destroy "
+"Choose one — * Noxious Hydra Breath deals 5 damage to each player. * Destroy "
 "each tapped non-Head creature."
 msgstr ""
 "Wybierz jedno — Ten czar zadaje każdemu graczowi 5; albo zniszcz każdego "
 "przekręconego stwora nie będącego Głową."
 
 # bf3d1e684fd541e3a804a50c649e14c4
-#: ../../THS_hydra.rst:101
+#: ../../THS_hydra.rst:103
 msgid "Strike the Weak Spot"
 msgstr "Strike the Weak Spot (Uderz w Czuły Punkt)"
 
 # cccc12b3ae5042d2b4d02c3ba8d32ad9
-#: ../../THS_hydra.rst:101
+#: ../../THS_hydra.rst:103
 msgid ""
 "Destroy target Head. If that Head was elite, the Hydra takes an extra turn "
 "after this one."
@@ -383,12 +387,12 @@ msgstr ""
 "dodatkową turę po obecnej."
 
 # 3e6dd54d96d0438792448d3b7462f72d
-#: ../../THS_hydra.rst:105
+#: ../../THS_hydra.rst:107
 msgid "Swallow the Hero Whole"
 msgstr "Swallow the Hero Whole (Połknij Bohatera w Całości)"
 
 # f25b10a60a5a49b496329978b99bb40f
-#: ../../THS_hydra.rst:104
+#: ../../THS_hydra.rst:106
 msgid ""
 "Each player exiles a creature he or she controls. Until the Hydra's next "
 "turn, when a Head leaves the battlefield, return the exiled cards to the "
@@ -399,12 +403,12 @@ msgstr ""
 "władaniem ich właścicieli."
 
 # 908428a97d454320ba90dab331e1c9e7
-#: ../../THS_hydra.rst:108
+#: ../../THS_hydra.rst:110
 msgid "Torn Between Heads"
 msgstr "Torn Between Heads (Rozdarty Między Głowami)"
 
 # ecc3d156bfdb41b4bebe5d2552c22b67
-#: ../../THS_hydra.rst:108
+#: ../../THS_hydra.rst:110
 msgid ""
 "Tap up to two Heads. They don't untap during the Hydra's next untap step. "
 "Torn Between Heads deals 5 damage to each player."
@@ -413,12 +417,12 @@ msgstr ""
 "odkręcania Hydry. Ten czar zadaje każdemu graczowi po 5 obrażeń."
 
 # 39650ff6a4654260a6ca25c06d6c095a
-#: ../../THS_hydra.rst:110
+#: ../../THS_hydra.rst:112
 msgid "Unified Lunge"
 msgstr "Unified Lunge (Jednoczesny Cios)"
 
 # 0abf97729a5e4c28aa66c806ef421c98
-#: ../../THS_hydra.rst:111
+#: ../../THS_hydra.rst:113
 msgid ""
 "Unified Lunge deals X damage to each player, where X is the number of Heads "
 "on the battlefield."
