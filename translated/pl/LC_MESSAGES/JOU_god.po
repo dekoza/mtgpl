@@ -2,26 +2,28 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-21 12:35+0100\n"
-"PO-Revision-Date: 2014-12-21 12:37+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: logrus\n"
+"PO-Revision-Date: 2020-01-29 20:35+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/pozostale/"
+"jou_god/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.10.3\n"
 
 # b60b8ca86c0541ea959d5419ab33df4c
 #: ../../JOU_god.rst:5
 msgid "Defeat a God!"
-msgstr ""
+msgstr "Pokonaj Bóstwo!"
 
 # 2994dc7066774a4392abff373fcd4a60
 #: ../../JOU_god.rst:7
@@ -46,12 +48,14 @@ msgstr ""
 # 0bfe118ba5694e19a9eb6c7919b10ec2
 #: ../../JOU_god.rst:26
 msgid "Special Rules for the Player"
-msgstr ""
+msgstr "Specjalne zasady dla Gracza"
 
 # 45f984fdae394e35a4840532971f8ec2
 #: ../../JOU_god.rst:28
 msgid "You start with up to three different Hero cards on the battlefield. (You don't need a Hero to play.)"
 msgstr ""
+"Zaczynasz z maksymalnie trzema różnymi kartami Bohatera na polu walki. (Nie "
+"potrzebujesz Bohatera do gry.)"
 
 # 44b613d9dcf74b3e98b6186a61299b7c
 #: ../../JOU_god.rst:29
@@ -101,7 +105,7 @@ msgstr ""
 # ec4d1acb558e4db2a16c871102962c95
 #: ../../JOU_god.rst:45
 msgid "Winning the Challenge"
-msgstr ""
+msgstr "Wygranie wyzwania"
 
 # 804d80f2cfa54eae8e44e05dbd1de5bd
 #: ../../JOU_god.rst:47
@@ -112,6 +116,8 @@ msgstr ""
 #: ../../JOU_god.rst:49
 msgid "You lose the game if you have 0 or less life or if you have to draw a card and your library is empty."
 msgstr ""
+"Przegrywasz grę jeśli masz 0 lub mniej punktów życia oraz jeśli musisz "
+"dobrać kartę, a twoja biblioteka jest pusta."
 
 # 31c0dabfb06a454d8cdf258a6a5cbac8
 #: ../../JOU_god.rst:51
@@ -146,7 +152,7 @@ msgstr ""
 # db5679190c0d42b39130addd49725189
 #: ../../JOU_god.rst:67
 msgid "Creatures"
-msgstr ""
+msgstr "Stwory"
 
 # fbe42f04ed164ba7aff71441d662565c
 #: ../../JOU_god.rst:71
@@ -231,7 +237,7 @@ msgstr ""
 # 7f7ee365689f41c2a76127bbf0312dd4
 #: ../../JOU_god.rst:97
 msgid "Sorceries"
-msgstr ""
+msgstr "Obrzędy"
 
 # 5a548d295f614cfead2777d1a17c2f66
 #: ../../JOU_god.rst:100
