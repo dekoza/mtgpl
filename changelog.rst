@@ -4,6 +4,7 @@ Spis zmian
 ***********
 
 2020-01-29
+   * Nowy dodatek: Commander 2019 - 50%
    * Zaktualizowane tłumaczenia do dwóch wyzwań z bloku Therosa (Hydra i Horda)
 
 2020-01-28
