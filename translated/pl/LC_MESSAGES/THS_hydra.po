@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 23:49+0100\n"
-"PO-Revision-Date: 2020-01-29 20:35+0000\n"
+"PO-Revision-Date: 2020-01-29 23:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/pozostale/"
 "ths_hydra/pl/>\n"
@@ -361,22 +361,16 @@ msgstr "Noxious Hydra Breath (Trujący Dech Hydry)"
 
 #: ../../THS_hydra.rst:98
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 # fe1959ca51cf44e9815a195c835b28b8
 #: ../../THS_hydra.rst:100
-#, fuzzy
-#| msgid ""
-#| "Choose one — Noxious Hydra Breath deals 5 damage to each player; or "
-#| "destroy each tapped non-Head creature."
 msgid "Noxious Hydra Breath deals 5 damage to each player."
-msgstr ""
-"Wybierz jedno — Ten czar zadaje każdemu graczowi 5; albo zniszcz każdego "
-"przekręconego stwora nie będącego Głową."
+msgstr "Ten czar zadaje każdemu graczowi 5 obrażeń."
 
 #: ../../THS_hydra.rst:102
 msgid "Destroy each tapped non-Head creature."
-msgstr ""
+msgstr "Zniszcz każdego przekręconego stwora nie będącego Głową."
 
 # bf3d1e684fd541e3a804a50c649e14c4
 #: ../../THS_hydra.rst:105
