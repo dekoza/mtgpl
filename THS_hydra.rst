@@ -95,9 +95,11 @@ Neck Tangle
     Otherwise, reveal the top card of the Hydra's library and the Hydra casts that card.
     
 Noxious Hydra Breath
-    Choose one — 
-    * Noxious Hydra Breath deals 5 damage to each player.
-    * Destroy each tapped non-Head creature.
+    Choose one —
+
+    • Noxious Hydra Breath deals 5 damage to each player.
+    
+    • Destroy each tapped non-Head creature.
     
 Strike the Weak Spot
     Destroy target Head. If that Head was elite, the Hydra takes an extra turn after this one.

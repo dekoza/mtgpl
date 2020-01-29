@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-29 23:35+0100\n"
+"POT-Creation-Date: 2020-01-29 23:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -200,43 +200,51 @@ msgstr ""
 msgid "If there are five or more Heads on the battlefield, tap two of them and they don't untap during the Hydra's next untap step. Otherwise, reveal the top card of the Hydra's library and the Hydra casts that card."
 msgstr ""
 
-#: ../../THS_hydra.rst:100
+#: ../../THS_hydra.rst:102
 msgid "Noxious Hydra Breath"
 msgstr ""
 
 #: ../../THS_hydra.rst:98
-msgid "Choose one — * Noxious Hydra Breath deals 5 damage to each player. * Destroy each tapped non-Head creature."
+msgid "Choose one —"
 msgstr ""
 
-#: ../../THS_hydra.rst:103
+#: ../../THS_hydra.rst:100
+msgid "Noxious Hydra Breath deals 5 damage to each player."
+msgstr ""
+
+#: ../../THS_hydra.rst:102
+msgid "Destroy each tapped non-Head creature."
+msgstr ""
+
+#: ../../THS_hydra.rst:105
 msgid "Strike the Weak Spot"
 msgstr ""
 
-#: ../../THS_hydra.rst:103
+#: ../../THS_hydra.rst:105
 msgid "Destroy target Head. If that Head was elite, the Hydra takes an extra turn after this one."
 msgstr ""
 
-#: ../../THS_hydra.rst:107
+#: ../../THS_hydra.rst:109
 msgid "Swallow the Hero Whole"
 msgstr ""
 
-#: ../../THS_hydra.rst:106
+#: ../../THS_hydra.rst:108
 msgid "Each player exiles a creature he or she controls. Until the Hydra's next turn, when a Head leaves the battlefield, return the exiled cards to the battlefield under their owners' control."
 msgstr ""
 
-#: ../../THS_hydra.rst:110
+#: ../../THS_hydra.rst:112
 msgid "Torn Between Heads"
 msgstr ""
 
-#: ../../THS_hydra.rst:110
+#: ../../THS_hydra.rst:112
 msgid "Tap up to two Heads. They don't untap during the Hydra's next untap step. Torn Between Heads deals 5 damage to each player."
 msgstr ""
 
-#: ../../THS_hydra.rst:112
+#: ../../THS_hydra.rst:114
 msgid "Unified Lunge"
 msgstr ""
 
-#: ../../THS_hydra.rst:113
+#: ../../THS_hydra.rst:115
 msgid "Unified Lunge deals X damage to each player, where X is the number of Heads on the battlefield."
 msgstr ""
 
