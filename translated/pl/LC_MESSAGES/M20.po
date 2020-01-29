@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
+"PO-Revision-Date: 2020-01-29 23:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m20/"
 "pl/>\n"
@@ -1075,7 +1075,6 @@ msgstr ""
 "na polu walki."
 
 #: ../../M20.rst:359
-#, fuzzy
 msgid "You may cast spells as though they had flash."
 msgstr "Możesz rzucać czary tak, jakby miały błysk."
 
@@ -1428,10 +1427,6 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:483
-#, fuzzy
-#| msgid ""
-#| "As long as it's your turn, Blood Burglar has lifelink.(Damage dealt by "
-#| "this creature also causes you to gain that much life.)"
 msgid ""
 "As long as it's your turn, Blood Burglar has lifelink. (Damage dealt by this "
 "creature also causes you to gain that much life.)"
@@ -2260,8 +2255,7 @@ msgstr ""
 
 #: ../../M20.rst:743
 msgid "|mana_1|, Sacrifice Ember Hauler: It deals 2 damage to any target."
-msgstr ""
-"|mana_1|, poświęć tego stwora: Zadaje on 2 obrażenia w dowolnie wskazany cel."
+msgstr "|mana_1|, poświęć tego stwora: Zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../M20.rst:746
 msgid ""
@@ -4168,7 +4162,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, poświęć dwa lądy."
 
 #: ../../M20.rst:1373
 msgid "|tap|: Add three mana of any one color."
-msgstr "|tap|: Weź trzy many w jednym dowolnym kolorze."
+msgstr "|tap|: Weź trzy many w dowolnym jednym kolorze."
 
 #: ../../M20.rst:1382
 msgid ""

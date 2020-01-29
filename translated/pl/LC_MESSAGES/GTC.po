@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-29 23:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gtc/"
 "pl/>\n"
@@ -134,8 +134,7 @@ msgid ""
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
 "Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
-"zrobisz, każdy z przeciwników traci po 1 życiu, a ty zyskujesz tyle samo "
-"żyć.)"
+"zrobisz, każdy z przeciwników traci po 1 życiu, a ty zyskaj tyle samo żyć.)"
 
 #: ../../GTC.rst:36
 msgid ""
@@ -219,7 +218,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../GTC.rst:53
 msgid "Enchanted land has \"|tap|: Tap target creature.\""
-msgstr "Zauroczony ląd ma \"|tap|: Zaznacz wskazanego stwora.\""
+msgstr "Zauroczony ląd ma \"|tap|: Przekręć wskazanego stwora.\""
 
 #: ../../GTC.rst:58
 msgid ""
@@ -282,7 +281,7 @@ msgid ""
 "counters on him and gains indestructible. He's still a planeswalker. Prevent "
 "all damage that would be dealt to him this turn."
 msgstr ""
-"0: Do końca tury ten wędrowiec staje się stworem Człowiekm Piechur o sile i "
+"0: Do końca tury ten wędrowiec staje się stworem Człowiek Piechur o sile i "
 "wytrzymałości równych liczbie posiadanych przez niego znaczników lojalności "
 "każda oraz zyskuje niezniszczalność. Nadal jest wędrowcem. Zażegnaj "
 "wszystkie obrażenia, jakie mogłyby mu zostać zadane w tej turze."
@@ -310,8 +309,8 @@ msgid ""
 "Whenever Guardian of the Gateless blocks, it gets +1/+1 until end of turn "
 "for each creature it's blocking."
 msgstr ""
-"Ilekroć ten stwór blokuje, dostaje on do końca tury +1/+1 za każdego stwora, "
-"którego blokuje."
+"Ilekroć ten stwór blokuje, dostaje do końca tury +1/+1 za każdego "
+"blokowanego stwora."
 
 #: ../../GTC.rst:86
 msgid ""
@@ -1446,13 +1445,12 @@ msgstr ""
 
 # c3d2fdb0664342208372949e608daeda
 #: ../../GTC.rst:457
-#, fuzzy
 msgid ""
 "|mana_x|\\ |mana_r|, |tap|, Sacrifice Cinder Elemental: It deals X damage to "
 "any target."
 msgstr ""
-"|mana_x|\\ |mana_r|, |tap|, Poświęć Cinder Elemental: Cinder Elemental "
-"zadaje X obrażeń wskazanemu stworowi lub graczowi."
+"|mana_x|\\ |mana_r|, |tap|, Poświęć tego stwora: Zadaje on wskazanemu celowi "
+"X obrażeń."
 
 #: ../../GTC.rst:462
 msgid ""
@@ -1516,13 +1514,12 @@ msgstr ""
 
 # 609a64a22a1c453dbd41f2ec9fe7a08f
 #: ../../GTC.rst:475
-#, fuzzy
 msgid ""
 "Remove five blaze counters from Five-Alarm Fire: It deals 5 damage to any "
 "target."
 msgstr ""
-"Usuń pięć znaczników płomienia z Five-Alarm Fire: Five-Alarm Fire zadaje 5 "
-"obrażeń wskazanemu stworowi lub graczowi."
+"Usuń pięć znaczników płomienia z tego uroku: Ten urok zadaje wskazanemu "
+"celowi 5 obrażeń."
 
 #: ../../GTC.rst:480
 msgid ""

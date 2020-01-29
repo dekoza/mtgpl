@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 00:50+0000\n"
+"PO-Revision-Date: 2020-01-29 23:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/avr/"
 "pl/>\n"
@@ -481,14 +481,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:155
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_w|: Moorland Inquisitor gains first strike until end of "
-#| "turn."
 msgid ""
 "|mana_2|\\ |mana_w|: Moorland Inquisitor gains first strike until end of "
 "turn. (It deals combat damage before creatures without first strike.)"
-msgstr "|mana_2|\\ |mana_w|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr ""
+"|mana_2|\\ |mana_w|: Ten stwór zyskuje do końca tury pierwszy cios. (Zadaje "
+"obrażenia bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../AVR.rst:162
 msgid ""

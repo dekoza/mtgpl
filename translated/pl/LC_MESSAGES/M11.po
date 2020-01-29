@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
+"PO-Revision-Date: 2020-01-29 23:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m11/"
 "pl/>\n"
@@ -816,13 +816,8 @@ msgstr ""
 "na polu walki."
 
 #: ../../M11.rst:305
-#, fuzzy
-#| msgid ""
-#| "You may cast spells as though they had flash. (You may cast them any time "
-#| "you could cast an instant.)"
 msgid "You may cast spells as though they had flash."
-msgstr ""
-"Możesz rzucać czary tak, jakby miały błysk. (Możesz je rzucać jak sztuczki.)"
+msgstr "Możesz rzucać czary tak, jakby miały błysk."
 
 #: ../../M11.rst:310
 msgid ""
@@ -1829,7 +1824,7 @@ msgstr ""
 
 #: ../../M11.rst:661
 msgid "|mana_1|, Sacrifice Ember Hauler: It deals 2 damage to any target."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../M11.rst:666
 msgid ""
