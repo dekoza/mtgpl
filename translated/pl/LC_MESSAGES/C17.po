@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -1089,6 +1089,8 @@ msgid ""
 "Flashback |mana_5|\\ |mana_w|\\ |mana_w| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C17.rst:380
 msgid ""
@@ -2774,7 +2776,7 @@ msgstr ""
 
 #: ../../C17.rst:947
 msgid "Cast this spell only during combat."
-msgstr ""
+msgstr "Możesz rzucić ten czar tylko podczas walki."
 
 #: ../../C17.rst:949
 msgid ""
@@ -3529,9 +3531,8 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1227
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../C17.rst:1229
 msgid "|mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards."
@@ -3588,9 +3589,8 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1249 ../../C17.rst:1311 ../../C17.rst:1365
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../C17.rst:1251
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
@@ -4499,9 +4499,8 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1623
-#, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b|\\ |mana_r|."
 
 #: ../../C17.rst:1630
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 18:07+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/akh/"
 "pl/>\n"
@@ -48,7 +48,7 @@ msgid ""
 "battlefield."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazany nielądowy "
-"permanent pod władaniem wroga, dopóki ten stwór nie opuści pola walki."
+"permanent pod władaniem przeciwnika, dopóki ten stwór nie opuści pola walki."
 
 #: ../../AKH.rst:13
 msgid ""
@@ -1539,8 +1539,8 @@ msgid ""
 "Whenever you cycle or discard a card, you may pay |mana_1|. If you do, each "
 "opponent loses 2 life and you gain 2 life."
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz kartę, możesz zapłacić |mana_1|. Jeśli tak "
-"zrobisz, każdy przeciwnik traci po 2 życia, a ty zyskujesz 2 życia."
+"Ilekroć zrecyklujesz lub odrzucisz kartę, możesz zapłacić |mana_1|. Jeśli "
+"tak zrobisz, każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../AKH.rst:512
 msgid ""
@@ -3446,9 +3446,8 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1141
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../AKH.rst:1146
 msgid ""
@@ -3459,7 +3458,7 @@ msgstr ""
 
 #: ../../AKH.rst:1145
 msgid "Destroy all creatures with power 3 or greater."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory o sile 3 lub większej."
 
 #: ../../AKH.rst:1152
 msgid ""
@@ -3474,12 +3473,16 @@ msgstr ""
 #: ../../AKH.rst:1271 ../../AKH.rst:1281 ../../AKH.rst:1291
 msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
+"Pokłosie (Możesz rzucić ten czar tylko z twojego cmentarza. Następnie go "
+"wygnaj.)"
 
 #: ../../AKH.rst:1151
 msgid ""
 "Return all creature cards with power 2 or less from your graveyard to your "
 "hand."
 msgstr ""
+"Przywróć wszystkie karty stworów o sile 2 lub mniejszej z twojego cmentarza "
+"do twojej ręki."
 
 #: ../../AKH.rst:1156
 msgid ""

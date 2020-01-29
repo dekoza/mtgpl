@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:20+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bfz/"
 "pl/>\n"
@@ -110,6 +110,7 @@ msgstr ""
 msgid ""
 "When you cast this spell, create a 10/10 colorless Eldrazi creature token."
 msgstr ""
+"Kiedy rzucisz ten czar, stwórz żeton bezkolorowego stwora Eldrazi 10/10."
 
 #: ../../BFZ.rst:38
 msgid ""
@@ -155,9 +156,8 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:49 ../../BFZ.rst:1221
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../BFZ.rst:54
 msgid ""

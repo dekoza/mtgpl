@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -1120,6 +1120,8 @@ msgid ""
 "Creatures can't attack you unless their controller pays |mana_2| for each "
 "creature they control that's attacking you."
 msgstr ""
+"Stwory nie mogą cię atakować, chyba że ich władca zapłaci po |mana_2| za "
+"każdego stwora pod swoim władaniem atakującego ciebie."
 
 #: ../../C16.rst:416
 msgid ""
@@ -4425,9 +4427,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1543
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../C16.rst:1550
 msgid ""
@@ -4597,9 +4598,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1611
-#, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_u|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w|\\ |mana_u|."
 
 #: ../../C16.rst:1620
 msgid ""
@@ -4870,9 +4870,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1725
-#, fuzzy
 msgid "|tap|: Add |mana_r|\\ |mana_g|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_r|\\ |mana_g|."
 
 #: ../../C16.rst:1732
 msgid ""
@@ -5131,9 +5130,8 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1831
-#, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b|\\ |mana_r|."
 
 #: ../../C16.rst:1838
 msgid ""

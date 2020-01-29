@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c13/"
 "pl/>\n"
@@ -1020,6 +1020,8 @@ msgid ""
 "Creatures can't attack you unless their controller pays |mana_2| for each "
 "creature they control that's attacking you."
 msgstr ""
+"Stwory nie mogą cię atakować, chyba że ich władca zapłaci po |mana_2| za "
+"każdego stwora pod swoim władaniem atakującego ciebie."
 
 #: ../../C13.rst:326
 msgid ""
@@ -1679,6 +1681,8 @@ msgid ""
 "Split second (As long as this spell is on the stack, players can't cast "
 "spells or activate abilities that aren't mana abilities.)"
 msgstr ""
+"Ułamek sekundy (O ile ten czar jest na stosie, gracze nie mogą rzucać czarów "
+"ani aktywować zdolności nie dających many.)"
 
 #: ../../C13.rst:533
 msgid ""
@@ -3861,7 +3865,7 @@ msgstr ""
 
 #: ../../C13.rst:1259
 msgid "Cast this spell only during combat."
-msgstr ""
+msgstr "Możesz rzucić ten czar tylko podczas walki."
 
 # 45b06e19fb8e4d5bb9c029cb3f45b7c5
 #: ../../C13.rst:1261
@@ -4175,9 +4179,8 @@ msgid "Basalt Monolith doesn't untap during your untap step."
 msgstr ""
 
 #: ../../C13.rst:1367
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 # 552073d7aa2e4c518ebae22d9042b2c1
 #: ../../C13.rst:1369
@@ -4533,9 +4536,8 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:1477
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../C13.rst:1484
 msgid ""
@@ -4794,9 +4796,8 @@ msgstr ""
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1563
-#, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_u|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w|\\ |mana_u|."
 
 #: ../../C13.rst:1570
 msgid ""
@@ -5506,9 +5507,8 @@ msgstr ""
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1829
-#, fuzzy
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b|\\ |mana_r|."
 
 #: ../../C13.rst:1836
 msgid ""

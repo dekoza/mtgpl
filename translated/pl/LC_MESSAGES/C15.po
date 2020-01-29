@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c15/"
 "pl/>\n"
@@ -1650,7 +1650,7 @@ msgid ""
 "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_2|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_2|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C15.rst:586
@@ -2471,7 +2471,7 @@ msgid ""
 "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_2|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_2|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C15.rst:854
@@ -2840,6 +2840,8 @@ msgid ""
 "Split second (As long as this spell is on the stack, players can't cast "
 "spells or activate abilities that aren't mana abilities.)"
 msgstr ""
+"Ułamek sekundy (O ile ten czar jest na stosie, gracze nie mogą rzucać czarów "
+"ani aktywować zdolności nie dających many.)"
 
 #: ../../C15.rst:969
 msgid ""
@@ -4029,9 +4031,8 @@ msgid "Basalt Monolith doesn't untap during your untap step."
 msgstr ""
 
 #: ../../C15.rst:1363 ../../C15.rst:1409
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../C15.rst:1365
 msgid "|mana_3|: Untap Basalt Monolith."
@@ -4379,9 +4380,8 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1495 ../../C15.rst:1535
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../C15.rst:1502
 msgid ""

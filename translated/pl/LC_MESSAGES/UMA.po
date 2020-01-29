@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:33+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/uma/"
 "pl/>\n"
@@ -574,7 +574,7 @@ msgid ""
 "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_2|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_2|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:190
@@ -1373,7 +1373,7 @@ msgid ""
 "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_2|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_2|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:460
@@ -1705,7 +1705,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../UMA.rst:563
@@ -2270,7 +2270,7 @@ msgstr ""
 
 #: ../../UMA.rst:755
 msgid "|tap|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../UMA.rst:760
 msgid ""
@@ -2572,7 +2572,7 @@ msgid ""
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_0| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
-"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../UMA.rst:862
 msgid ""
@@ -3621,9 +3621,8 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:1261
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../UMA.rst:1266
 msgid ""

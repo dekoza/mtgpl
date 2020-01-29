@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 16:20+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/leb/"
 "pl/>\n"
@@ -3066,9 +3066,8 @@ msgid "Basalt Monolith doesn't untap during your untap step."
 msgstr ""
 
 #: ../../LEB.rst:1153 ../../LEB.rst:1289
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../LEB.rst:1155
 msgid "|mana_3|: Untap Basalt Monolith."
@@ -3587,9 +3586,8 @@ msgid ""
 msgstr ""
 
 #: ../../LEB.rst:1331
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../LEB.rst:1336
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-27 16:27+0000\n"
+"PO-Revision-Date: 2020-01-29 21:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -1997,7 +1997,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../EMN.rst:712
@@ -2986,9 +2986,8 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1079
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../EMN.rst:1084
 msgid ""
