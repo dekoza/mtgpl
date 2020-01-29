@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-12 21:37+0100\n"
+"POT-Creation-Date: 2020-01-29 21:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,171 +20,191 @@ msgstr ""
 msgid "Modern"
 msgstr ""
 
-#: ../../modern.rst:7
-msgid ":mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p100|"
+#: ../../modern.rst:8
+msgid "Standard"
 msgstr ""
 
-#: ../../modern.rst:11
-msgid "Pre-Pioneer"
+#: ../../modern.rst:10
+msgid "Format Standard jest rotującym formatem, tzn. raz w roku najstarsze dodatki obecne w tym formacie przestają być \"legalne\" - zostają wyłączone z formatu, czyli \"rotują\". Na ich miejsce przychodzą nowo wydawane dodatki."
 msgstr ""
 
 #: ../../modern.rst:14
-msgid ":mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:15
-msgid ":mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:16
-msgid ":mtgexp:`ISD` :doc:`Innistrad<ISD>` |p25|"
+msgid "Lista dodatków obecnych w aktualnym Standardzie znajduje się :doc:`na stronie głównej<index>`."
 msgstr ""
 
 #: ../../modern.rst:17
-msgid ":mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:18
-msgid ":mtgexp:`MBS` :doc:`Mirrodin Besieged<MBS>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:19
-msgid ":mtgexp:`SOM` :doc:`Scars of Mirrodin<SOM>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:20
-msgid ":mtgexp:`ROE` :doc:`Rise of the Eldrazi<ROE>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:21
-msgid ":mtgexp:`WWK` :doc:`Worldwake<WWK>` |p25|"
+msgid "Karty z dodatków, które wyszły ze Standardu, nadal mogą być grane w formatach :doc:`Pionier<pioneer>`, :doc:`Modern<modern>` i :doc:`Legacy<legacy>`, a format Standard jest ich podzbiorem."
 msgstr ""
 
 #: ../../modern.rst:22
-msgid ":mtgexp:`ZEN` :doc:`Zendikar<ZEN>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:23
-msgid ":mtgexp:`ARB` :doc:`Alara Reborn<ARB>` |p25|"
+msgid "Dodatki specjalne"
 msgstr ""
 
 #: ../../modern.rst:24
-msgid ":mtgexp:`CON` :doc:`Conflux<CON>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:25
-msgid ":mtgexp:`ALA` :doc:`Shards of Alara<ALA>` |p25|"
+msgid "Poniższy dodatek należy do formatu Modern, choć nigdy nie był częścią Standardu."
 msgstr ""
 
 #: ../../modern.rst:26
-msgid ":mtgexp:`EVE` :doc:`Eventide<EVE>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:27
-msgid ":mtgexp:`SHM` :doc:`Shadowmoor<SHM>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:28
-msgid ":mtgexp:`MOR` :doc:`Morningtide<MOR>` |p25|"
+msgid ":mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p100|"
 msgstr ""
 
 #: ../../modern.rst:29
-msgid ":mtgexp:`LRW` :doc:`Lorwyn<LRW>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:30
-msgid ":mtgexp:`FUT` :doc:`Future Sight<FUT>` |p25|"
+msgid "Pioneer"
 msgstr ""
 
 #: ../../modern.rst:31
-msgid ":mtgexp:`PLC` :doc:`Planar Chaos<PLC>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:32
-msgid ":mtgexp:`TSP` :doc:`Time Spiral<TSP>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:33
-msgid ":mtgexp:`CSP` :doc:`Coldsnap<CSP>` |p25|"
+msgid "Format :doc:`Pionier<pioneer>` jest podzbiorem formatu Modern."
 msgstr ""
 
 #: ../../modern.rst:34
-msgid ":mtgexp:`DIS` :doc:`Dissension<DIS>` |p25|"
-msgstr ""
-
-#: ../../modern.rst:35
-msgid ":mtgexp:`GPT` :doc:`Guildpact<GPT>` |p25|"
+msgid "Dodatki poza Pionierem"
 msgstr ""
 
 #: ../../modern.rst:36
-msgid ":mtgexp:`RAV` :doc:`Ravnica: City of Guilds<RAV>` |p25|"
+msgid ":mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:37
-msgid ":mtgexp:`SOK` :doc:`Saviors of Kamigawa<SOK>` |p25|"
+msgid ":mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:38
-msgid ":mtgexp:`BOK` :doc:`Betrayers of Kamigawa<BOK>` |p25|"
+msgid ":mtgexp:`ISD` :doc:`Innistrad<ISD>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:39
-msgid ":mtgexp:`CHK` :doc:`Champions of Kamigawa<CHK>` |p25|"
+msgid ":mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:40
-msgid ":mtgexp:`5DN` :doc:`Fifth Dawn<5DN>` |p25|"
+msgid ":mtgexp:`MBS` :doc:`Mirrodin Besieged<MBS>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:41
-msgid ":mtgexp:`DST` :doc:`Darksteel<DST>` |p25|"
+msgid ":mtgexp:`SOM` :doc:`Scars of Mirrodin<SOM>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:42
-msgid ":mtgexp:`MRD` :doc:`Mirrodin<MRD>` |p25|"
+msgid ":mtgexp:`ROE` :doc:`Rise of the Eldrazi<ROE>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:43
+msgid ":mtgexp:`WWK` :doc:`Worldwake<WWK>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:44
+msgid ":mtgexp:`ZEN` :doc:`Zendikar<ZEN>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:45
-msgid "Edycje bazowe"
+msgid ":mtgexp:`ARB` :doc:`Alara Reborn<ARB>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:46
+msgid ":mtgexp:`CON` :doc:`Conflux<CON>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:47
-msgid ":mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|"
+msgid ":mtgexp:`ALA` :doc:`Shards of Alara<ALA>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:48
-msgid ":mtgexp:`M15` :doc:`Magic 2015<M15>` |p25|"
+msgid ":mtgexp:`EVE` :doc:`Eventide<EVE>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:49
-msgid ":mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|"
+msgid ":mtgexp:`SHM` :doc:`Shadowmoor<SHM>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:50
-msgid ":mtgexp:`M13` :doc:`Magic 2013<M13>` |p25|"
+msgid ":mtgexp:`MOR` :doc:`Morningtide<MOR>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:51
-msgid ":mtgexp:`M12` :doc:`Magic 2012<M12>` |p25|"
+msgid ":mtgexp:`LRW` :doc:`Lorwyn<LRW>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:52
-msgid ":mtgexp:`M11` :doc:`Magic 2011<M11>` |p25|"
+msgid ":mtgexp:`FUT` :doc:`Future Sight<FUT>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:53
-msgid ":mtgexp:`M10` :doc:`Magic 2010<M10>` |p25|"
+msgid ":mtgexp:`PLC` :doc:`Planar Chaos<PLC>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:54
-msgid ":mtgexp:`10E` :doc:`Tenth Edition<10E>` |p25|"
+msgid ":mtgexp:`TSP` :doc:`Time Spiral<TSP>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:55
-msgid ":mtgexp:`9ED` :doc:`Ninth Edition<9ED>` |p25|"
+msgid ":mtgexp:`CSP` :doc:`Coldsnap<CSP>` |p25|"
 msgstr ""
 
 #: ../../modern.rst:56
+msgid ":mtgexp:`DIS` :doc:`Dissension<DIS>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:57
+msgid ":mtgexp:`GPT` :doc:`Guildpact<GPT>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:58
+msgid ":mtgexp:`RAV` :doc:`Ravnica: City of Guilds<RAV>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:59
+msgid ":mtgexp:`SOK` :doc:`Saviors of Kamigawa<SOK>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:60
+msgid ":mtgexp:`BOK` :doc:`Betrayers of Kamigawa<BOK>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:61
+msgid ":mtgexp:`CHK` :doc:`Champions of Kamigawa<CHK>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:62
+msgid ":mtgexp:`5DN` :doc:`Fifth Dawn<5DN>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:63
+msgid ":mtgexp:`DST` :doc:`Darksteel<DST>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:64
+msgid ":mtgexp:`MRD` :doc:`Mirrodin<MRD>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:67
+msgid "Edycje bazowe"
+msgstr ""
+
+#: ../../modern.rst:69
+msgid ":mtgexp:`M13` :doc:`Magic 2013<M13>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:70
+msgid ":mtgexp:`M12` :doc:`Magic 2012<M12>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:71
+msgid ":mtgexp:`M11` :doc:`Magic 2011<M11>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:72
+msgid ":mtgexp:`M10` :doc:`Magic 2010<M10>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:73
+msgid ":mtgexp:`10E` :doc:`Tenth Edition<10E>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:74
+msgid ":mtgexp:`9ED` :doc:`Ninth Edition<9ED>` |p25|"
+msgstr ""
+
+#: ../../modern.rst:75
 msgid ":mtgexp:`8ED` :doc:`Eighth Edition<8ED>` |p25|"
 msgstr ""
 

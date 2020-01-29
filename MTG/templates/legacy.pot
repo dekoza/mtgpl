@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-12 21:37+0100\n"
+"POT-Creation-Date: 2020-01-29 21:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,166 +21,166 @@ msgid "Legacy / Vintage"
 msgstr ""
 
 #: ../../legacy.rst:5
-msgid "W tej grupie znajdują się najstarsze dodatki posiadające pierwotny wygląd ramek. Formaty Vintage oraz Legacy zawierają w sobie także dodatki z Moderna (i Standardu)."
+msgid "W tej grupie znajdują się najstarsze dodatki posiadające pierwotny wygląd ramek. Formaty Vintage oraz Legacy zawierają w sobie także dodatki z :doc:`Moderna<modern>`, :doc:`Pioniera<pioneer>` i Standardu."
 msgstr ""
 
-#: ../../legacy.rst:8
+#: ../../legacy.rst:9
 msgid "UWAGA: Teksty kart poniższych dodatków tłumaczone są na podstawie ich treści z bazy wiedzy o kartach \"Oracle\", która jest głównym wyznacznikiem reguł kart. Mogą przez to znacząco odbiegać od oryginalnie wydrukowanych treści."
 msgstr ""
 
-#: ../../legacy.rst:14
+#: ../../legacy.rst:15
 msgid "Dodatki"
 msgstr ""
 
-#: ../../legacy.rst:16
+#: ../../legacy.rst:17
 msgid ":mtgexp:`SCG` :doc:`Scourge<SCG>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:17
+#: ../../legacy.rst:18
 msgid ":mtgexp:`LGN` :doc:`Legions<LGN>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:18
+#: ../../legacy.rst:19
 msgid ":mtgexp:`ONS` :doc:`Onslaught<ONS>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:19
+#: ../../legacy.rst:20
 msgid ":mtgexp:`JUD` :doc:`Judgement<JUD>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:20
+#: ../../legacy.rst:21
 msgid ":mtgexp:`TOR` :doc:`Torment<TOR>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:21
+#: ../../legacy.rst:22
 msgid ":mtgexp:`ODY` :doc:`Odyssey<ODY>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:22
+#: ../../legacy.rst:23
 msgid ":mtgexp:`APC` :doc:`Apocalypse<APC>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:23
+#: ../../legacy.rst:24
 msgid ":mtgexp:`PLS` :doc:`Planeshift<PLS>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:24
+#: ../../legacy.rst:25
 msgid ":mtgexp:`INV` :doc:`Invasion<INV>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:25
+#: ../../legacy.rst:26
 msgid ":mtgexp:`PCY` :doc:`Prophecy<PCY>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:26
+#: ../../legacy.rst:27
 msgid ":mtgexp:`NEM` :doc:`Nemesis<NEM>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:27
+#: ../../legacy.rst:28
 msgid ":mtgexp:`MMQ` :doc:`Mercadian Masques<MMQ>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:28
+#: ../../legacy.rst:29
 msgid ":mtgexp:`UDS` :doc:`Urza's Destiny<UDS>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:29
+#: ../../legacy.rst:30
 msgid ":mtgexp:`ULG` :doc:`Urza's Legacy<ULG>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:30
+#: ../../legacy.rst:31
 msgid ":mtgexp:`USG` :doc:`Urza's Saga<USG>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:31
+#: ../../legacy.rst:32
 msgid ":mtgexp:`EXO` :doc:`Exodus<EXO>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:32
+#: ../../legacy.rst:33
 msgid ":mtgexp:`STH` :doc:`Stronghold<STH>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:33
+#: ../../legacy.rst:34
 msgid ":mtgexp:`TMP` :doc:`Tempest<TMP>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:34
+#: ../../legacy.rst:35
 msgid ":mtgexp:`WTH` :doc:`Weatherlight<WTH>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:35
+#: ../../legacy.rst:36
 msgid ":mtgexp:`VIS` :doc:`Visions<VIS>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:36
+#: ../../legacy.rst:37
 msgid ":mtgexp:`MIR` :doc:`Mirage<MIR>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:37
+#: ../../legacy.rst:38
 msgid ":mtgexp:`ALL` :doc:`Alliances<ALL>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:38
+#: ../../legacy.rst:39
 msgid ":mtgexp:`HML` :doc:`Homelands<HML>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:39
+#: ../../legacy.rst:40
 msgid ":mtgexp:`ICE` :doc:`Ice Age<ICE>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:40
+#: ../../legacy.rst:41
 msgid ":mtgexp:`FEM` :doc:`Fallen Empires<FEM>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:41
+#: ../../legacy.rst:42
 msgid ":mtgexp:`DRK` :doc:`The Dark<DRK>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:42
+#: ../../legacy.rst:43
 msgid ":mtgexp:`LEG` :doc:`Legends<LEG>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:43
+#: ../../legacy.rst:44
 msgid ":mtgexp:`ATQ` :doc:`Antiquities<ATQ>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:44
+#: ../../legacy.rst:45
 msgid ":mtgexp:`ARN` :doc:`Arabian Nights<ARN>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:47
+#: ../../legacy.rst:48
 msgid "Edycje bazowe"
 msgstr ""
 
-#: ../../legacy.rst:49
+#: ../../legacy.rst:50
 msgid ":mtgexp:`7ED` :doc:`Seventh Edition<7ED>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:50
+#: ../../legacy.rst:51
 msgid ":mtgexp:`6ED` :doc:`Sixth Edition<6ED>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:51
+#: ../../legacy.rst:52
 msgid ":mtgexp:`5ED` :doc:`Fifth Edition<5ED>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:52
+#: ../../legacy.rst:53
 msgid ":mtgexp:`4ED` :doc:`Fourth Edition<4ED>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:53
+#: ../../legacy.rst:54
 msgid ":mtgexp:`3ED` :doc:`Revised Edition<3ED>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:54
+#: ../../legacy.rst:55
 msgid ":mtgexp:`2ED` :doc:`Unlimited Edition<2ED>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:55
+#: ../../legacy.rst:56
 msgid ":mtgexp:`LEB` :doc:`Beta (Limited Edition)<LEB>` |p25|"
 msgstr ""
 
-#: ../../legacy.rst:56
+#: ../../legacy.rst:57
 msgid ":mtgexp:`LEA` :doc:`Alpha (Limited Edition)<LEA>` |p25|"
 msgstr ""
 
