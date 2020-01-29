@@ -91,6 +91,7 @@ Commander i pokrewne
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
+* :mtgexp:`C19` :doc:`Commander 2019<C19>` |p25|
 * :mtgexp:`C18` :doc:`Commander 2018<C18>` |p25|
 * :mtgexp:`BBD` :doc:`Battlebond<BBD>` |p25|
 * :mtgexp:`C17` :doc:`Commander 2017<C17>` |p25|
