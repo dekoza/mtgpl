@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 23:51+0100\n"
-"PO-Revision-Date: 2020-01-29 20:35+0000\n"
+"PO-Revision-Date: 2020-01-29 23:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/pozostale/"
 "jou_god/pl/>\n"
@@ -32,6 +32,10 @@ msgid ""
 "is only one way to silence this revel once and for all: isolate Xenagos and "
 "vanquish him."
 msgstr ""
+"Xenagos rzucił zamęt na cały Theros swoim dostąpieniem boskości. Jego "
+"szaleńcze biesiady grożą zalaniem całego planu chaosem. Jest tylko jeden "
+"sposób na uciszenie tej biesiady raz na zawsze: odizolować Xenagosa i "
+"pokonać go."
 
 # 647c0fbed313426fba9ba1b8189def71
 #: ../../JOU_god.rst:11
@@ -44,6 +48,13 @@ msgid ""
 "continues and revelers surround him, he is untouchable. But a god who loses "
 "all his followers is vulnerable."
 msgstr ""
+"Impreza zaczyna się niewinnie, jedynie z Xenagosem i kilkoma biesiadnikami, "
+"jednak ten relatywny spokój nie będzie trwał długo. W trakcie walki dołączy "
+"coraz więcej biesiadników. Owładnięci obłędem będą atakować bez ostrzeżenia, "
+"by po chwili przerwać i świętować. Sam Xenagos zaatakuje cię bezpośrednio, "
+"jeśli najdzie go taka ochota. Dopóki trwa biesiada i jest otoczony jej "
+"uczestnikami, jest nietykalny. Jednakże bóstwo po utracie swoich wiernych "
+"staje się wrażliwe."
 
 # 34658654bf8646f89e4f10b978c2d147
 #: ../../JOU_god.rst:18
@@ -51,6 +62,8 @@ msgid ""
 "Is your destiny a heroic victory or death at the hands of the divine? "
 "Xenagos awaits."
 msgstr ""
+"Czy twym przeznaczeniem jest heroiczne zwycięstwo, czy raczej śmierć z ręki "
+"bóstwa? Xenagos oczekuje."
 
 # e366baddfb3d43588d57f26b4f88edcf
 #: ../../JOU_god.rst:22
@@ -58,6 +71,8 @@ msgid ""
 "**The \"Defeat a God\" Challenge uses the Regular Magic rules, with the "
 "following exceptions:**"
 msgstr ""
+"**Wyzwanie \"Pokonaj Bóstwo\" korzysta ze zwykłych zasad gry w Magic, z "
+"następującymi wyjątkami:**"
 
 # 0bfe118ba5694e19a9eb6c7919b10ec2
 #: ../../JOU_god.rst:26
@@ -77,17 +92,17 @@ msgstr ""
 #: ../../JOU_god.rst:29
 msgid ""
 "You attack Xenagos Ascended and his Revelers directly with your creatures."
-msgstr ""
+msgstr "Atakujesz Xenagosa i jego Biesiadników swoimi stworami bezpośrednio."
 
 # dde100f19a4840f18354bfdd7d8b4972
 #: ../../JOU_god.rst:30
 msgid "You may target Xenagos as though he were a player."
-msgstr ""
+msgstr "Możesz wskazywać Xenagosa tak, jakby był graczem."
 
 # 673fca4cdef64f629cb493a2a009a83f
 #: ../../JOU_god.rst:34
 msgid "Special Rules for Xenagos"
-msgstr ""
+msgstr "Specjalne zasady Xenagosa"
 
 # 5b804816c6914f6a8c8bc44855bf6f9b
 #: ../../JOU_god.rst:36
@@ -95,6 +110,8 @@ msgid ""
 "**Xenagos Ascended and two cards named Rollicking Throng begin the game on "
 "the battlefield.** Shuffle the rest of Xenagos's deck to begin the game."
 msgstr ""
+"**Xenagos Ascended oraz dwie karty o nazwie Rollicking Throng rozpoczynają "
+"grę na polu walki.** Potasuj resztę talii Xenagosa by rozpocząć grę."
 
 # 949089bf8d8f46dab175e2c1f566693e
 #: ../../JOU_god.rst:37
@@ -102,6 +119,8 @@ msgid ""
 "At the beginning of Xenagos's first main phase each turn, reveal the top two "
 "cards of Xenagos's library. Then Xenagos casts those cards."
 msgstr ""
+"Na początku pierwszej fazy głównej w każdej turze Xenagosa, ujawnij "
+"wierzchnie dwie karty jego biblioteki. Następnie Xenagos rzuca owe karty."
 
 # ea2b34d509ef4c9da575cfc5cb7c7144
 #: ../../JOU_god.rst:38
@@ -109,11 +128,12 @@ msgid ""
 "Xenagos Ascended and Reveler creatures don't attack unless a card "
 "specifically says they do."
 msgstr ""
+"Xenagos oraz Biesiadnicy nie atakują dopóki karta wprost tego nie nakaże."
 
 # de8490b097cc410d8bb12b9b888c3227
 #: ../../JOU_god.rst:39
 msgid "You make the choice if Xenagos needs to make a decision."
-msgstr ""
+msgstr "Podejmujesz wszelkie decyzje za Xenagosa."
 
 # 620a4e971316484b8c53133e0b829810
 #: ../../JOU_god.rst:40
@@ -121,6 +141,8 @@ msgid ""
 "Ignore effects that would cause Xenagos to draw or discard cards, or perform "
 "any impossible actions."
 msgstr ""
+"Zignoruj efekty zmuszające Xenagosa do dobrania lub odrzucenia kart lub "
+"podjęcia jakichkolwiek niemożliwych działań."
 
 # 38f63ce42e58496e84db57b2692c51ee
 #: ../../JOU_god.rst:41
@@ -128,6 +150,9 @@ msgid ""
 "If on of Xenagos's permanents would move to any zone other than its library "
 "or graveyard, that card is put into Xenagos's graveyard."
 msgstr ""
+"Jeśli permanenty Xenagosa miałyby zostać umieszczone w jakiejkolwiek innej "
+"strefie niż biblioteka czy cmentarz, zostają umieszczone w cmentarzu "
+"Xenagosa."
 
 # ec4d1acb558e4db2a16c871102962c95
 #: ../../JOU_god.rst:45
@@ -140,6 +165,8 @@ msgid ""
 "**You win the game if Xenagos leaves the battlefield, which can happen only "
 "if there are no Revelers on the battlefield.**"
 msgstr ""
+"**Wygrywasz grę jeśli Xenagos opuści pole walki, co może się stać tylko "
+"jeśli nie ma Biesiadników na polu walki.**"
 
 # 7f8b8c5305fc4afca3fc3a15e52ea766
 #: ../../JOU_god.rst:49
@@ -157,21 +184,24 @@ msgid ""
 "named Rollicking Throng on the battlefield. For an easier challenge, try "
 "with only one."
 msgstr ""
+"Wyzwanie będzie trudniejsze, jeśli zaczniesz grę z trzema kartami Rollicking "
+"Throng na polu walki. Jeśli chcesz łatwiejsze wyzwanie, spróbuj z tylko "
+"jedną."
 
 # 363664426e4d4e7d9415293299b9c36c
 #: ../../JOU_god.rst:56
 msgid "Xenagos's Cards"
-msgstr ""
+msgstr "Karty Xenagosa"
 
 # 6e433f16123245508c4bb096d261d62b
 #: ../../JOU_god.rst:59
 msgid "God"
-msgstr ""
+msgstr "Bóstwo"
 
 # 8e4707617d0241f895a15db24c53afec
 #: ../../JOU_god.rst:64
 msgid "Xenagos Ascended"
-msgstr ""
+msgstr "Xenagos Ascended (Xenagos Wyniesiony)"
 
 # be19c32c550540bc9dd1ad694944c3ef
 #: ../../JOU_god.rst:62
@@ -179,12 +209,13 @@ msgid ""
 "Xenagos Ascended can't leave the battlefield as long as a Reveler is on the "
 "battlefield."
 msgstr ""
+"Ta karta nie może opuścić pola walki o ile Biesiadnik jest na polu walki."
 
 # fb8179b201b345ca87ddd6908b8c11b4
 #: ../../JOU_god.rst:64
 msgid ""
 "When Xenagos Ascended leaves the battlefield, each player wins the game."
-msgstr ""
+msgstr "Kiedy ta karta opuści pole walki, każdy gracz wygrywa grę."
 
 # db5679190c0d42b39130addd49725189
 #: ../../JOU_god.rst:67
@@ -194,7 +225,7 @@ msgstr "Stwory"
 # fbe42f04ed164ba7aff71441d662565c
 #: ../../JOU_god.rst:71
 msgid "Rollicking Throng"
-msgstr ""
+msgstr "Rollicking Throng (Rozbawiona Ciżba)"
 
 # 691b72abb8364630bb3f10f4d54423e0
 #: ../../JOU_god.rst:70
@@ -203,11 +234,14 @@ msgid ""
 "Xenagos's library and Xenagos casts that card. (This ability doesn't trigger "
 "as the game begins.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, ujawnij wierzchnią kartę biblioteki "
+"Xenagosa i Xenagos rzuca ową kartę. (Ta zdolność nie jest wyzwalana na "
+"początku gry.)"
 
 # de81cca1d361474f8470c1bdd44d14d2
 #: ../../JOU_god.rst:76
 msgid "Ecstatic Piper"
-msgstr ""
+msgstr "Ecstatic Piper (Ekstatyczny Flecista)"
 
 # 40aa22d49a374bbb9cb2e37d07ee1736
 #: ../../JOU_god.rst:74
@@ -215,17 +249,21 @@ msgid ""
 "When Ecstatic Piper enters the battlefield, Xenagos Ascended attacks this "
 "turn if able."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, Xenagos Wyniesiony atakuje w tej "
+"turze, jeśli może."
 
 #: ../../JOU_god.rst:76
 msgid ""
 "*Hero's Reward* - When Ecstatic Piper leaves the battlefield, each player "
 "gains 2 life."
 msgstr ""
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz zyskuje "
+"po 2 życia."
 
 # b1afdb29885142d296fa1d68a072fe26
 #: ../../JOU_god.rst:81
 msgid "Maddened Oread"
-msgstr ""
+msgstr "Maddened Oread (Oszalała Oreada)"
 
 # b8026a1f628a4fc4a0f01a912f5a88ad
 #: ../../JOU_god.rst:79
@@ -233,55 +271,65 @@ msgid ""
 "As long as five or more Revelers are on the battlefield, Maddened Oread "
 "attacks each turn if able."
 msgstr ""
+"O ile na polu walki jest co najmniej pięć Biesiadników, ten stwór atakuje w "
+"każdej turze, jeśli może."
 
 #: ../../JOU_god.rst:81
 msgid ""
 "*Hero's Reward* - When Maddened Oread leaves the battlefield, each player "
 "gains 3 life."
 msgstr ""
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz zyskuje "
+"po 3 życia."
 
 # 01da3b15a2974326bcdf1f82d9ad622a
 #: ../../JOU_god.rst:84
 msgid "Pheres-Band Revelers"
-msgstr ""
+msgstr "Pheres-Band Revelers (Biesiadnicy ze Stada Pheres)"
 
 #: ../../JOU_god.rst:84
 msgid ""
 "*Hero's Reward* - When Pheres-Band Revelers leaves the battlefield, each "
 "player draws a card."
 msgstr ""
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz dobiera "
+"kartę."
 
 # 27dc30ffbe5042289150ef7e9e8bc842
 #: ../../JOU_god.rst:89
 msgid "Serpent Dancers"
-msgstr ""
+msgstr "Serpent Dancers (Wężowe Tancerki)"
 
 # 9cac438b29314d9bb24041f9b8b5fa1a
 #: ../../JOU_god.rst:87
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../JOU_god.rst:89
 msgid ""
 "*Hero's Reward* - When Serpent Dancers leaves the battlefield, each player "
 "draws a card."
 msgstr ""
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz dobiera "
+"kartę."
 
 # 68892038f4344dc4b8b242c2c81dc960
 #: ../../JOU_god.rst:94
 msgid "Wild Maenads"
-msgstr ""
+msgstr "Wild Maenads (Dzikie Bachantki)"
 
 # 49257cccf1f347e69c3f204d8e4e00e8
 #: ../../JOU_god.rst:92
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../JOU_god.rst:94
 msgid ""
 "*Hero's Reward* - When Wild Maenads leaves the battlefield, each player "
 "gains 3 life."
 msgstr ""
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz zyskuje "
+"po 3 życia."
 
 # 7f7ee365689f41c2a76127bbf0312dd4
 #: ../../JOU_god.rst:97
@@ -291,7 +339,7 @@ msgstr "Obrzędy"
 # 5a548d295f614cfead2777d1a17c2f66
 #: ../../JOU_god.rst:100
 msgid "Impulsive Charge"
-msgstr ""
+msgstr "Impulsive Charge (Impulsywna Szarża)"
 
 # 89e662b4afa64728a49eec820de83de7
 #: ../../JOU_god.rst:100
@@ -299,11 +347,13 @@ msgid ""
 "At the beginning of combat this turn, all Revelers gain haste until end of "
 "turn and attack this combat if able."
 msgstr ""
+"Na początku walki w tej turze, wszyscy Biesiadnicy zyskują pośpiech do końca "
+"tury i atakuję w tej walce, jeśli mogą."
 
 # 0a7bd25c7b5f495f8ba7846e114822a6
 #: ../../JOU_god.rst:104
 msgid "Impulsive Destruction"
-msgstr ""
+msgstr "Impulsive Destruction (Impulsywne Zniszczenie)"
 
 # 804690f351f74793a4ac3a0fe71f904e
 #: ../../JOU_god.rst:103
@@ -311,11 +361,13 @@ msgid ""
 "Each player may sacrifice an artifact or enchantment. Impulsive Destruction "
 "deals 3 damage to each player who didn't sacrifice a permanent this way."
 msgstr ""
+"Każdy gracz może poświęcić artefakt lub urok. Ten czar zadaje 3 obrażenia "
+"każdemu graczowi, który nie poświęcił permanentu w ten sposób."
 
 # bb38c0928bc348a481979f62c56270ba
 #: ../../JOU_god.rst:108
 msgid "Impulsive Return"
-msgstr ""
+msgstr "Impulsive Return (Impulsywny Powrót)"
 
 # 192ced00338d4f78a62e6684b8d7e5b7
 #: ../../JOU_god.rst:107
@@ -324,11 +376,14 @@ msgid ""
 "battlefield. At the beginning of combat this turn, Impulsive Return deals "
 "damage to each player equal to the number of Revelers on the battlefield."
 msgstr ""
+"Przywróć dwie karty o nazwie Ekstatyczny Flecista z cmentarza Xenagosa na "
+"pole walki. Na początku walki w tej turze, ten czar zadaje każdemu graczowi "
+"tyle obrażeń, ile jest Biesiadników na polu walki."
 
 # d3cd776d1ad14901b71acd02e39df33a
 #: ../../JOU_god.rst:111
 msgid "Rip to Pieces"
-msgstr ""
+msgstr "Rip to Pieces (Rozdarcie na Kawałki)"
 
 # ed7576f0dfa34e07a8fc28ea425089aa
 #: ../../JOU_god.rst:111
@@ -336,11 +391,13 @@ msgid ""
 "At the beginning of combat this turn, each Reveler deals 1 damage to each "
 "player and each creature those players control."
 msgstr ""
+"Na początku walki w tej turze, każdy Biesiadnik zadaje po 1 obrażeniu "
+"każdemu graczowi i każdemu stworowi pod władaniem owych graczy."
 
 # cb42625bbb2d41018ae8e1f0688fe47d
 #: ../../JOU_god.rst:114
 msgid "Xenagos's Scorn"
-msgstr ""
+msgstr "Xenagos's Scorn (Pogarda Xenagosa)"
 
 # ef08a83709584929865597aded903572
 #: ../../JOU_god.rst:114
@@ -348,37 +405,40 @@ msgid ""
 "Xenagos Ascended gains trample until end of turn and attacks this turn if "
 "able."
 msgstr ""
+"Xenagos Wyniesiony zyskuje tratowanie do końca tury i atakuje w tej turze "
+"jeśli może."
 
 # fbfca2b67c25439e8cbd4752b04ac65d
 #: ../../JOU_god.rst:118
 msgid "Xenagos's Strike"
-msgstr ""
+msgstr "Xenagos's Strike (Cios Xenagosa)"
 
 # 055c9846b7ee47ea849c2995db8d5dbc
 #: ../../JOU_god.rst:117
 msgid "Xenagos's Strike deals 4 damage to each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu graczowi po 4 obrażenia."
 
 # d2a13e5358f741eb8d92ee42e385e0dd
 #: ../../JOU_god.rst:121
 msgid "Enchantments"
-msgstr ""
+msgstr "Uroki"
 
 # e0f1e7d73532464589308701a46d5c9d
 #: ../../JOU_god.rst:124
 msgid "Dance of Flame"
-msgstr ""
+msgstr "Dance of Flame (Taniec Ognia)"
 
 # 02698243238d436492c1a0bc085bd2eb
 #: ../../JOU_god.rst:124
 msgid ""
 "Whenever a Reveler attacks, Dance of Flame deals 1 damage to each player."
 msgstr ""
+"Ilekroć Biesiadnik atakuje, ten urok zadaje każdemu graczowi po 1 obrażeniu."
 
 # aabbd75adf4a4d718f25b433605d1b39
 #: ../../JOU_god.rst:128
 msgid "Dance of Panic"
-msgstr ""
+msgstr "Dance of Panic (Paniczny Taniec)"
 
 # c87ed5d075ac4ded89075d6a315a251e
 #: ../../JOU_god.rst:127
@@ -386,3 +446,5 @@ msgid ""
 "As long as five or more Revelers are on the battlefield, all Revelers have "
 "haste and attack each turn if able."
 msgstr ""
+"O ile na polu walki jest co najmniej pięć Biesiadników, wszyscy Biesiadnicy "
+"mają pośpiech i atakują w każdej turze, jeśli mogą."
