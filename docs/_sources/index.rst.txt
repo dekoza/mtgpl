@@ -20,8 +20,12 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
-.. Nadchodzące
-.. ------------
+Nadchodzące
+------------
+
+.. * :mtgexp:`XZNR` Zendikar Rising (2020-10)
+.. * :mtgexp:`M21` Core Set 2021 (2020-07)
+* :mtgexp:`XIKR` Ikoria: Lair of Behemots (2020-04)
 
 
 Standard
@@ -109,10 +113,10 @@ Pozostałe produkty
 
 Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek.
 
-* :doc:`Bohaterowie<THS_heroes>` |p100|
-* :doc:`Pokonaj Bóstwo<JOU_god>` |p25|
-* :doc:`Walka z Hordą<BNG_horde>` |p100|
-* :doc:`Staw czoła Hydrze<THS_hydra>` |p100|
+* :mtgexp:`MTG` :doc:`Bohaterowie<THS_heroes>` |p100|
+* :mtgexp:`JOU` :doc:`Pokonaj Bóstwo<JOU_god>` |p25|
+* :mtgexp:`BNG` :doc:`Walka z Hordą<BNG_horde>` |p100|
+* :mtgexp:`THS` :doc:`Staw czoła Hydrze<THS_hydra>` |p100|
 
 Warto przeczytać
 ================

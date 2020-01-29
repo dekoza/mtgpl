@@ -2,6 +2,10 @@
 ***********
 Spis zmian
 ***********
+
+2020-01-29
+   * Zaktualizowane tłumaczenia do dwóch wyzwań z bloku Therosa (Hydra i Horda)
+
 2020-01-28
    * Core Set 2015 - 100%
    * Zaktualizowane tłumaczenia: M19
