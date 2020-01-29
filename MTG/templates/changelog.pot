@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-29 21:47+0100\n"
+"POT-Creation-Date: 2020-01-29 23:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,327 +20,331 @@ msgstr ""
 msgid "Spis zmian"
 msgstr ""
 
-#: ../../changelog.rst:7
+#: ../../changelog.rst:8
 msgid "2020-01-29"
 msgstr ""
 
 #: ../../changelog.rst:7
+msgid "Nowy dodatek: Commander 2019 - 50%"
+msgstr ""
+
+#: ../../changelog.rst:8
 msgid "Zaktualizowane tłumaczenia do dwóch wyzwań z bloku Therosa (Hydra i Horda)"
 msgstr ""
 
-#: ../../changelog.rst:11
+#: ../../changelog.rst:12
 msgid "2020-01-28"
 msgstr ""
 
-#: ../../changelog.rst:10
+#: ../../changelog.rst:11
 msgid "Core Set 2015 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:11
+#: ../../changelog.rst:12
 msgid "Zaktualizowane tłumaczenia: M19"
 msgstr ""
 
-#: ../../changelog.rst:16
+#: ../../changelog.rst:17
 msgid "2020-01-27"
 msgstr ""
 
-#: ../../changelog.rst:14
+#: ../../changelog.rst:15
 msgid "Dragons of Tarkir - 100%"
 msgstr ""
 
-#: ../../changelog.rst:15
+#: ../../changelog.rst:16
 msgid "Khans of Tarkir - 100%"
 msgstr ""
 
-#: ../../changelog.rst:16
+#: ../../changelog.rst:17
 msgid "Zaktualizowane tłumaczenia: FRF, M14"
 msgstr ""
 
-#: ../../changelog.rst:20
+#: ../../changelog.rst:21
 msgid "2020-01-25"
 msgstr ""
 
-#: ../../changelog.rst:19
+#: ../../changelog.rst:20
 msgid "Journey into Nyx - 100%"
 msgstr ""
 
-#: ../../changelog.rst:20
+#: ../../changelog.rst:21
 msgid "Zaktualizowane tłumaczenia: RTR, GTC, DGM, THS, BNG"
 msgstr ""
 
-#: ../../changelog.rst:24
+#: ../../changelog.rst:25
 msgid "2020-01-20"
 msgstr ""
 
-#: ../../changelog.rst:23
+#: ../../changelog.rst:24
 msgid "Throne of Eldraine - 100%"
 msgstr ""
 
-#: ../../changelog.rst:28
+#: ../../changelog.rst:29
 msgid "2020-01-19"
 msgstr ""
 
-#: ../../changelog.rst:27
+#: ../../changelog.rst:28
 msgid "Theros: Beyond Death - 100%"
 msgstr ""
 
-#: ../../changelog.rst:28
+#: ../../changelog.rst:29
 msgid "Throne of Eldraine - 60%"
 msgstr ""
 
-#: ../../changelog.rst:32
+#: ../../changelog.rst:33
 msgid "2020-01-12"
 msgstr ""
 
-#: ../../changelog.rst:31
+#: ../../changelog.rst:32
 msgid "Throne of Eldraine - 50%"
 msgstr ""
 
-#: ../../changelog.rst:32
+#: ../../changelog.rst:33
 msgid "Theros: Beyond Death - 25%"
 msgstr ""
 
-#: ../../changelog.rst:35
+#: ../../changelog.rst:36
 msgid "2019-04-30"
 msgstr ""
 
-#: ../../changelog.rst:35
+#: ../../changelog.rst:36
 msgid "War of the Spark - 100%"
 msgstr ""
 
-#: ../../changelog.rst:39
+#: ../../changelog.rst:40
 msgid "2019-03-31"
 msgstr ""
 
-#: ../../changelog.rst:38
+#: ../../changelog.rst:39
 msgid "Guild Kits 2 - 0%"
 msgstr ""
 
-#: ../../changelog.rst:39
+#: ../../changelog.rst:40
 msgid "Modern Horizons - 0%"
 msgstr ""
 
-#: ../../changelog.rst:43
+#: ../../changelog.rst:44
 msgid "2019-02-10"
 msgstr ""
 
-#: ../../changelog.rst:42
+#: ../../changelog.rst:43
 msgid "Explorers of Ixalan - 100%"
 msgstr ""
 
-#: ../../changelog.rst:43
+#: ../../changelog.rst:44
 msgid "Amonkhet - 50%"
 msgstr ""
 
-#: ../../changelog.rst:55
+#: ../../changelog.rst:56
 msgid "2019-01-13"
 msgstr ""
 
-#: ../../changelog.rst:46
+#: ../../changelog.rst:47
 msgid "Wystawienie seriwsu dla tłumaczy: https://weblate.mtgpopolsku.pl"
 msgstr ""
 
-#: ../../changelog.rst:47
+#: ../../changelog.rst:48
 msgid "Aktywacja SSL w całym serwisie, wyłączenie możliwości przeglądania serwisu bez HTTPS."
 msgstr ""
 
-#: ../../changelog.rst:48
+#: ../../changelog.rst:49
 msgid "Ustalenie ostatecznej wersji tlumaczenia słów 'tap/untap'."
 msgstr ""
 
-#: ../../changelog.rst:49
+#: ../../changelog.rst:50
 msgid "Dodanie symboli zestawów przy linkach i w nagłówkach stron."
 msgstr ""
 
-#: ../../changelog.rst:50
+#: ../../changelog.rst:51
 msgid "Przywrócenie możliwości podglądu kart przy najechaniu myszą na nazwę."
 msgstr ""
 
-#: ../../changelog.rst:51
+#: ../../changelog.rst:52
 msgid "Dodanie do :doc:`glosariusza<glossary>` linków do zasad w serwisie yawgatog.com"
 msgstr ""
 
-#: ../../changelog.rst:52
+#: ../../changelog.rst:53
 msgid "Drobna reorganizacja strony startowej."
 msgstr ""
 
-#: ../../changelog.rst:53
+#: ../../changelog.rst:54
 msgid "Dodanie opisu formatu :doc:`Handicap<handicap>`."
 msgstr ""
 
-#: ../../changelog.rst:54
+#: ../../changelog.rst:55
 msgid "Pełne tłumaczenie :doc:`Ravnica Allegiance<RNA>`."
 msgstr ""
 
-#: ../../changelog.rst:55
+#: ../../changelog.rst:56
 msgid "Zmiana źródła danych na Scryfall, lepsze obrazki w tooltipach."
 msgstr ""
 
-#: ../../changelog.rst:58
+#: ../../changelog.rst:59
 msgid "2019-01-06"
 msgstr ""
 
-#: ../../changelog.rst:58
+#: ../../changelog.rst:59
 msgid "Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)"
 msgstr ""
 
-#: ../../changelog.rst:61
+#: ../../changelog.rst:62
 msgid "2019-01-04"
 msgstr ""
 
-#: ../../changelog.rst:61
+#: ../../changelog.rst:62
 msgid "Nowy :doc:`podręcznik gry<rulebook>` (edycja Dominaria). Drobne porządki."
 msgstr ""
 
-#: ../../changelog.rst:64
+#: ../../changelog.rst:65
 msgid "2018-12-30"
 msgstr ""
 
-#: ../../changelog.rst:64
+#: ../../changelog.rst:65
 msgid ":doc:`Dominaria<DOM>` 100%. :doc:`Core Set 2019<M19>` 100%."
 msgstr ""
 
-#: ../../changelog.rst:67
+#: ../../changelog.rst:68
 msgid "2018-12-29"
 msgstr ""
 
-#: ../../changelog.rst:67
+#: ../../changelog.rst:68
 msgid ":doc:`Ixalan<XLN>` 100%, :doc:`Dominaria<DOM>` 66%."
 msgstr ""
 
-#: ../../changelog.rst:71
+#: ../../changelog.rst:72
 msgid "2018-12-28"
 msgstr ""
 
-#: ../../changelog.rst:70
+#: ../../changelog.rst:71
 msgid "Testowe uruchomienie strony mtgpopolsku.pl - w pełni przetłumaczone dodatki z aktualnego Standardu: :doc:`Guilds of Ravnica<GRN>`, :doc:`Rivals of Ixalan<RIX>` oraz częściowo pozostałe dodatki aż do :doc:`New Phyrexia<NPH>`."
 msgstr ""
 
-#: ../../changelog.rst:71
+#: ../../changelog.rst:72
 msgid "Zmiana tłumaczenia słowa \"tap\" - mimo że \"zaznaczyć\" (i analogicznie \"odznaczyć\" dla \"untap\") jest bardziej po polsku, to akurat to słowo jest mocno zakorzenione w slangu i występuje niezmienione w innych lokalizacjach gry."
 msgstr ""
 
-#: ../../changelog.rst:74
+#: ../../changelog.rst:75
 msgid "2014-01-29"
 msgstr ""
 
-#: ../../changelog.rst:74
+#: ../../changelog.rst:75
 msgid "Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`Dark Ascension<DKA>`, :doc:`Innistrad<ISD>`, :doc:`New Phyrexia<NPH>`."
 msgstr ""
 
-#: ../../changelog.rst:77
+#: ../../changelog.rst:78
 msgid "2014-01-27"
 msgstr ""
 
-#: ../../changelog.rst:77
+#: ../../changelog.rst:78
 msgid "Zmiana kolejności wyświetlania dodatków. Dodanie podziału na Standard/Modern/Pozostałe/Specjalne."
 msgstr ""
 
-#: ../../changelog.rst:80
+#: ../../changelog.rst:81
 msgid "2014-01-24"
 msgstr ""
 
-#: ../../changelog.rst:80
+#: ../../changelog.rst:81
 msgid "Dodano talię wyzwania :doc:`Walka z Hordą<BNG_horde>`."
 msgstr ""
 
-#: ../../changelog.rst:84
+#: ../../changelog.rst:85
 msgid "2013-11-26"
 msgstr ""
 
-#: ../../changelog.rst:83
+#: ../../changelog.rst:84
 msgid "Dodano surową wersję pełnej instrukcji do gry (Comprehensive Rules) (bez tłumaczenia)"
 msgstr ""
 
-#: ../../changelog.rst:84
+#: ../../changelog.rst:85
 msgid "Zmiana tłumaczenia słowa \"permanent\"."
 msgstr ""
 
-#: ../../changelog.rst:89
+#: ../../changelog.rst:90
 msgid "2013-11-03"
 msgstr ""
 
-#: ../../changelog.rst:87
+#: ../../changelog.rst:88
 msgid "Dodano :doc:`zasady formatu Commander<commander>` (bez tłumaczenia)."
 msgstr ""
 
-#: ../../changelog.rst:88
+#: ../../changelog.rst:89
 msgid "Reorganizacja strony tytułowej."
 msgstr ""
 
-#: ../../changelog.rst:89
+#: ../../changelog.rst:90
 msgid "Dodana możliwość włączania podglądu kart w formie tooltip."
 msgstr ""
 
-#: ../../changelog.rst:92
+#: ../../changelog.rst:93
 msgid "2013-10-07"
 msgstr ""
 
-#: ../../changelog.rst:92
+#: ../../changelog.rst:93
 msgid "Zakończenie tłumaczenia: :doc:`RTR<RTR>`, :doc:`GTC<GTC>`, :doc:`DGM<DGM>`."
 msgstr ""
 
-#: ../../changelog.rst:96
+#: ../../changelog.rst:97
 msgid "2013-09-29"
 msgstr ""
 
-#: ../../changelog.rst:95
+#: ../../changelog.rst:96
 msgid "Dodano artykuł opisujący dodatkowe warianty gry nie ujęte w Skróconej Instrukcji."
 msgstr ""
 
-#: ../../changelog.rst:96
+#: ../../changelog.rst:97
 msgid "Dodano polskie żetony stworów oraz lądy."
 msgstr ""
 
-#: ../../changelog.rst:100
+#: ../../changelog.rst:101
 msgid "2013-09-28"
 msgstr ""
 
-#: ../../changelog.rst:99
+#: ../../changelog.rst:100
 msgid "Dodanie kart z decku :doc:`Face the Hydra<THS_hydra>` wraz z instrukcją gry."
 msgstr ""
 
-#: ../../changelog.rst:100
+#: ../../changelog.rst:101
 msgid "Dodano :doc:`uzasadnienie<rationale>` tłumaczeń określonych słów kluczowych i ogólnej koncepcji projektu."
 msgstr ""
 
-#: ../../changelog.rst:103
+#: ../../changelog.rst:104
 msgid "2013-09-17"
 msgstr ""
 
-#: ../../changelog.rst:103
+#: ../../changelog.rst:104
 msgid "Zakończenie tłumaczenia :doc:`THS<THS>`."
 msgstr ""
 
-#: ../../changelog.rst:106
+#: ../../changelog.rst:107
 msgid "2013-09-08"
 msgstr ""
 
-#: ../../changelog.rst:106
+#: ../../changelog.rst:107
 msgid "Adaptacja skróconej instrukcji do formatu używanego podczas tłumaczenia."
 msgstr ""
 
-#: ../../changelog.rst:109
+#: ../../changelog.rst:110
 msgid "2013-09-03"
 msgstr ""
 
-#: ../../changelog.rst:109
+#: ../../changelog.rst:110
 msgid "Zakończenie tłumaczenia :doc:`M14<M14>`."
 msgstr ""
 
-#: ../../changelog.rst:112
+#: ../../changelog.rst:113
 msgid "2013-09-01"
 msgstr ""
 
-#: ../../changelog.rst:112
+#: ../../changelog.rst:113
 msgid "Start serwisu."
 msgstr ""
 
-#: ../../changelog.rst:115
+#: ../../changelog.rst:116
 msgid "2012-12-01"
 msgstr ""
 
-#: ../../changelog.rst:115
+#: ../../changelog.rst:116
 msgid "Rozpoczęcie procesu tłumaczenia na `forum Strefy Gry <http://strefa-gry.pl/index.php?/topic/6-tlumaczenie-mtg-czesc-1-typy-cechy-i-zdolnosci-kart/>`_"
 msgstr ""
 
