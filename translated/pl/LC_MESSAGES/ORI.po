@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
+"PO-Revision-Date: 2020-02-03 00:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -403,6 +403,9 @@ msgid ""
 "attacked this combat, exile Kytheon, then return him to the battlefield "
 "transformed under his owner's control."
 msgstr ""
+"Na koniec walki, jeśli ten stwór i przynajmniej dwa inne stwory atakowały w "
+"tej walce, wygnaj niniejszego stwora, następnie przywróć go transformowanego "
+"na pole walki pod władaniem właściciela."
 
 #: ../../ORI.rst:129
 msgid "|mana_2|\\ |mana_w|: Kytheon gains indestructible until end of turn."
@@ -421,12 +424,16 @@ msgid ""
 "+2: Up to one target creature an opponent controls attacks Gideon, Battle-"
 "Forged during its controller's next turn if able."
 msgstr ""
+"+2: Co najwyżej jeden wskazany stwór pod władaniem przeciwnika atakuje tego "
+"wędrowca w następnej turze swojego władcy, jeśli może."
 
 #: ../../ORI.rst:135
 msgid ""
 "+1: Until your next turn, target creature gains indestructible. Untap that "
 "creature."
 msgstr ""
+"+1: Do twojej następnej tury, wskazany stwór zyskuje niezniszczalność. "
+"Odkręć go."
 
 #: ../../ORI.rst:137
 msgid ""
@@ -434,6 +441,9 @@ msgid ""
 "creature with indestructible that's still a planeswalker. Prevent all damage "
 "that would be dealt to him this turn."
 msgstr ""
+"0: Do końca tury ten wędrowiec staje się stworem Człowiek Piechur 4/4 z "
+"niezniszczalnością, który nadal jest wędrowcem. Zażegnaj wszystkie "
+"obrażenia, jakie mogłyby zostać mu zadane w tej turze."
 
 #: ../../ORI.rst:144
 msgid ""
@@ -545,6 +555,8 @@ msgid ""
 "At the beginning of combat on each opponent's turn, tap target creature that "
 "player controls."
 msgstr ""
+"Na początku walki w turze każdego z przeciwników, przekręć wskazanego stwora "
+"pod władaniem owego gracza."
 
 #: ../../ORI.rst:182
 msgid ""
@@ -557,7 +569,7 @@ msgstr ""
 msgid ""
 "Whenever you cast an enchantment spell, create a 4/4 white Angel creature "
 "token with flying."
-msgstr ""
+msgstr "Ilekroć rzucisz urok, stwórz żeton białego stwora Anioł 4/4 z lataniem."
 
 #: ../../ORI.rst:188
 msgid ""
@@ -578,6 +590,8 @@ msgid ""
 "At the beginning of your upkeep, you may return target enchantment card from "
 "your graveyard to the battlefield."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz przywrócić wskazaną kartę uroku "
+"z twojego cmentarza na pole walki."
 
 #: ../../ORI.rst:193
 msgid ""
@@ -585,6 +599,9 @@ msgid ""
 "enchantment you control is a creature in addition to its other types and has "
 "base power and base toughness each equal to its converted mana cost."
 msgstr ""
+"O ile władasz co najmniej pięcioma urokami, każdy inny nie będący Aurą urok "
+"pod twoim władaniem jest dodatkowo stworem oprócz swoich innych typów i ma "
+"bazowe siłę i wytrzymałość obie równe swojemu skróconemu kosztowi many."
 
 #: ../../ORI.rst:200
 msgid ""
@@ -602,6 +619,8 @@ msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
+"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
+"zdolności nie mogą być aktywowane."
 
 #: ../../ORI.rst:206
 msgid ""
@@ -661,6 +680,9 @@ msgid ""
 "an artifact, a creature, an enchantment, and a planeswalker. Then each "
 "player sacrifices all other nonland permanents they control."
 msgstr ""
+"U każdego z graczy wybierz spośród permanentów pod władaniem owego gracza "
+"artefakt, stwora, urok i wędrowca. Następnie każdy gracz poświęca wszystkie "
+"inne nielądowe permanenty."
 
 #: ../../ORI.rst:224
 msgid ""
@@ -686,7 +708,7 @@ msgstr ""
 
 #: ../../ORI.rst:229
 msgid "Noncreature spells cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie czarów nie będących stworami kosztuje o |mana_1| więcej."
 
 #: ../../ORI.rst:236
 msgid ""
@@ -722,14 +744,16 @@ msgid ""
 "As Alhammarret, High Arbiter enters the battlefield, each opponent reveals "
 "their hand. You choose the name of a nonland card revealed this way."
 msgstr ""
-"Podczas wchodzenia tej karty na pole walki, każdy przeciwnik ujawnia swoją "
-"rękę. Wybierz nazwę nie-lądowej karty ujawnionej w ten sposób."
+"Podczas umieszczania tego stwora na polu walki, każdy przeciwnik ujawnia "
+"swoją rękę. Nazwij nie-lądową kartę ujawnioną w ten sposób."
 
 #: ../../ORI.rst:247
 msgid ""
 "Your opponents can't cast spells with the chosen name (as long as this "
 "creature is on the battlefield)."
 msgstr ""
+"Twoi przeciwnicy nie mogą rzucać czarów o wybranej nazwie (na czas "
+"przebywania tego stwora na polu walki)."
 
 #: ../../ORI.rst:252
 msgid ""
@@ -743,6 +767,9 @@ msgid ""
 "Put target creature on top of its owner's library. Scry 1. (Look at the top "
 "card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Umieść wskazanego stwora na wierzchu biblioteki właściciela. Wróż 1. (Spójrz "
+"na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie twojej "
+"biblioteki.)"
 
 #: ../../ORI.rst:256
 msgid ""
@@ -753,7 +780,7 @@ msgstr ""
 
 #: ../../ORI.rst:255
 msgid "Draw two cards. If you control no artifacts, discard a card."
-msgstr ""
+msgstr "Dobierz dwie karty. Jeśli nie władasz artefaktem, odrzuć kartę."
 
 #: ../../ORI.rst:262
 msgid ""
@@ -767,7 +794,7 @@ msgid ""
 "When Aspiring Aeronaut enters the battlefield, create a 1/1 colorless "
 "Thopter artifact creature token with flying."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego "
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
 "artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:268
@@ -813,7 +840,7 @@ msgstr ""
 
 #: ../../ORI.rst:277
 msgid "Counter target spell unless its controller pays |mana_x|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|."
 
 #: ../../ORI.rst:286
 msgid ""
@@ -845,6 +872,11 @@ msgid ""
 "hand size. Damage wears off, and \"this turn\" and \"until end of turn\" "
 "effects end.)"
 msgstr ""
+"Każdy gracz wtasowuje swoją rękę i cmentarz do swojej biblioteki, następnie "
+"dobiera siedem kart. Jeśli jest twoja tura, zakończ ją. (Wygnaj wszystkie "
+"czary i zdolności ze stosu, włącznie z tą kartą. Odrzuć tyle kart, by mieć w "
+"ręce maksymalną dopuszczalną ich liczbę. Obrażenia są usuwane, a efekty \"w "
+"tej turze\" oraz \"do końca tury\" kończą się.)"
 
 #: ../../ORI.rst:294
 msgid ""
@@ -858,6 +890,8 @@ msgid ""
 "Deep-Sea Terror can't attack unless there are seven or more cards in your "
 "graveyard."
 msgstr ""
+"Ten stwór nie może atakować, chyba że w twoim cmentarzu jest co najmniej "
+"siedem kart."
 
 #: ../../ORI.rst:306
 msgid ""
@@ -870,6 +904,8 @@ msgstr ""
 msgid ""
 "|mana_1|, Exile an instant or sorcery card from your graveyard: Choose one —"
 msgstr ""
+"|mana_1|, wygnaj kartę sztuczki lub obrzędu z twojego cmentarza: Wybierz "
+"jedno —"
 
 #: ../../ORI.rst:299
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
@@ -879,7 +915,7 @@ msgstr ""
 
 #: ../../ORI.rst:301
 msgid "Disciple of the Ring gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../ORI.rst:303
 msgid "Tap target creature."
@@ -912,6 +948,8 @@ msgid ""
 "Return all nonland permanents with converted mana cost X or less to their "
 "owners' hands."
 msgstr ""
+"Przywróć wszystkie nielądowe permanenty o skróconym koszcie many X lub "
+"mniejszy do rąk ich właścicieli."
 
 #: ../../ORI.rst:318
 msgid ""
@@ -992,6 +1030,9 @@ msgid ""
 "your graveyard, exile Jace, Vryn's Prodigy, then return him to the "
 "battlefield transformed under his owner's control."
 msgstr ""
+"|tap|: Dobierz kartę, następnie odrzuć kartę. Jeśli w twoim cmentarzu jest "
+"co najmniej pięć kart, wygnaj tę kartę, następnie przywróć ją transformowaną "
+"na pole walki pod władaniem właściciela."
 
 #: ../../ORI.rst:348
 msgid ""
@@ -1004,6 +1045,7 @@ msgstr ""
 #: ../../ORI.rst:343
 msgid "+1: Up to one target creature gets -2/-0 until your next turn."
 msgstr ""
+"+1: Co najwyżej jeden wskazany stwór dostaje do twojej następnej tury -2/-0."
 
 #: ../../ORI.rst:345
 msgid ""
@@ -1011,12 +1053,17 @@ msgid ""
 "turn. If that card would be put into your graveyard this turn, exile it "
 "instead."
 msgstr ""
+"–3: Możesz w tej turze rzucić wskazaną kartę sztuczki lub obrzędu z twojego "
+"cmentarza. Jeśli owa karta miałaby zostać umieszczona w cmentarzu w tej "
+"turze, zamiast tego wygnaj ją."
 
 #: ../../ORI.rst:347
 msgid ""
 "−9: You get an emblem with \"Whenever you cast a spell, target opponent puts "
 "the top five cards of their library into their graveyard.\""
 msgstr ""
+"–9: Dostajesz emblemat o treści \"Ilekroć rzucisz czar, wskazany przeciwnik "
+"umieszcza pięć wierzchnich kart swojej biblioteki w swoim cmentarzu.\""
 
 #: ../../ORI.rst:354
 msgid ""
@@ -1055,7 +1102,7 @@ msgstr ""
 
 #: ../../ORI.rst:359
 msgid "Whenever Jhessian Thief deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../ORI.rst:362
 msgid ""
@@ -1076,8 +1123,8 @@ msgid ""
 "When Mizzium Meddler enters the battlefield, you may change a target of "
 "target spell or ability to Mizzium Meddler."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz zamienić cel wskazanego czaru "
-"lub zdolności na tę kartę."
+"Kiedy ten stwór wejdzie na pole walki, możesz zamienić cel wskazanego czaru "
+"lub zdolności na tego stwora."
 
 #: ../../ORI.rst:374
 msgid ""
@@ -1106,8 +1153,8 @@ msgid ""
 "When Nivix Barrier enters the battlefield, target attacking creature gets "
 "-4/-0 until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany atakujący stwór dostaje -4/-0 "
-"do końca tury."
+"Kiedy ten stwór wejdzie na pole walki, wskazany atakujący stwór dostaje -4/-"
+"0 do końca tury."
 
 #: ../../ORI.rst:388
 msgid ""
@@ -1118,7 +1165,7 @@ msgstr ""
 
 #: ../../ORI.rst:385
 msgid "Counter target instant or sorcery spell that targets you."
-msgstr ""
+msgstr "Skontruj wskazaną sztuczkę lub obrzęd wskazujący ciebie."
 
 #: ../../ORI.rst:387
 msgid ""
@@ -1160,8 +1207,8 @@ msgid ""
 "When Screeching Skaab enters the battlefield, put the top two cards of your "
 "library into your graveyard."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
-"biblioteki do twojego cmentarza."
+"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../ORI.rst:410
 msgid ""
@@ -1196,8 +1243,8 @@ msgid ""
 "When Separatist Voidmage enters the battlefield, you may return target "
 "creature to its owner's hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazanego stwora do "
-"ręki jego właściciela."
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazanego stwora "
+"do ręki właściciela."
 
 #: ../../ORI.rst:418
 msgid ""
@@ -1226,6 +1273,8 @@ msgid ""
 "As an additional cost to cast this spell, exile two creature cards from your "
 "graveyard."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — wygnaj dwie karty stworów z "
+"twojego cmentarza."
 
 #: ../../ORI.rst:423 ../../ORI.rst:789 ../../ORI.rst:1077 ../../ORI.rst:1095
 #: ../../ORI.rst:1473
@@ -1264,6 +1313,9 @@ msgid ""
 "library into their graveyard. If they're both nonland cards that share a "
 "color, repeat this process."
 msgstr ""
+"Ilekroć dobierzesz kartę,wskazany przeciwnik umieszcza dwie wierzchnie karty "
+"swojej biblioteki w swoim cmentarzu. Jeśli obie są nielądowymi kartami "
+"współdzielącymi kolor, powtórz ten proces."
 
 #: ../../ORI.rst:435
 msgid "|mana_5|\\ |mana_u|: Draw a card, then discard a card."
@@ -1305,6 +1357,9 @@ msgid ""
 "an instant or sorcery card from among them without paying its mana cost. "
 "Then that player puts the rest into their graveyard."
 msgstr ""
+"Wskazany przeciwnik ujawnia siedem wierzchnich kart swojej biblioteki. "
+"Możesz rzucić spośród nich kartę sztuczki lub obrzędu bez płacenia jej "
+"kosztu many. Następnie ów gracz umieszcza pozostałe w swoim cmentarzu."
 
 #: ../../ORI.rst:451
 msgid ""
@@ -1328,12 +1383,16 @@ msgid ""
 "At the beginning of your upkeep, if you control an artifact, create a 1/1 "
 "colorless Thopter artifact creature token with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz artefaktem, stwórz żeton "
+"bezkolorowego artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:457
 msgid ""
 "Whenever one or more artifact creatures you control deal combat damage to a "
 "player, draw a card."
 msgstr ""
+"Ilekroć jeden lub więcej artefaktycznych stworów pod twoim władaniem zada "
+"graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../ORI.rst:464
 msgid ""
@@ -1347,9 +1406,9 @@ msgid ""
 "When Tower Geist enters the battlefield, look at the top two cards of your "
 "library. Put one of them into your hand and the other into your graveyard."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, spójrz na dwie wierzchnie karty twojej "
-"biblioteki. Dołóż jedną z nich do twojej ręki, a pozostałą do twojego "
-"cmentarza."
+"Kiedy ten stwór wejdzie na pole walki, spójrz na dwie wierzchnie karty "
+"twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą w twoim "
+"cmentarzu."
 
 #: ../../ORI.rst:468
 msgid ""
@@ -1375,7 +1434,7 @@ msgstr ""
 
 #: ../../ORI.rst:471
 msgid "|mana_u|: Watercourser gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../ORI.rst:478
 msgid ""
@@ -1413,6 +1472,9 @@ msgid ""
 "ability you control, gain control of that creature for as long as you "
 "control Willbreaker."
 msgstr ""
+"Ilekroć stwór pod władaniem przeciwnika zostanie wskazany przez czar lub "
+"zdolność pod twoim władaniem, zyskaj władanie nad owym stworem dopóki masz "
+"władanie nad niniejszym stworem."
 
 #: ../../ORI.rst:486
 msgid ""
@@ -1449,6 +1511,10 @@ msgid ""
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma latanie oraz \"Poświęć dwa inne stwory: "
+"Zregeneruj tego stwora.\" (Najbliższym razem, kiedy ów stwór miałby zostać "
+"zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
+"obrażenia i usuń go z walki.)"
 
 #: ../../ORI.rst:500
 msgid ""
@@ -1479,6 +1545,9 @@ msgid ""
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"Zregeneruj wskazanego stwora. Dobierz kartę. (Najbliższym razem, kiedy ów "
+"stwór miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć "
+"go, usuń z niego obrażenia i usuń go z walki.)"
 
 #: ../../ORI.rst:505
 msgid ""
@@ -1521,7 +1590,7 @@ msgstr ""
 
 #: ../../ORI.rst:515
 msgid "When Deadbridge Shaman dies, target opponent discards a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wskazany przeciwnik odrzuca kartę."
 
 #: ../../ORI.rst:528
 msgid ""
@@ -1533,12 +1602,12 @@ msgstr ""
 #: ../../ORI.rst:519
 msgid "At the beginning of your upkeep, choose one that hasn't been chosen —"
 msgstr ""
-"Na początku twojego kroku utrzymania, wybierz to, co nie było jeszcze "
+"Na początku twojego kroku utrzymania, wybierz jedno jeszcze dotychczas nie "
 "wybrane —"
 
 #: ../../ORI.rst:521
 msgid "Demonic Pact deals 4 damage to any target and you gain 4 life."
-msgstr ""
+msgstr "Ten urok zadaje wskazanemu celowi 4 obrażenia, a ty zyskaj 4 życia."
 
 #: ../../ORI.rst:523
 msgid "Target opponent discards two cards."
@@ -1550,7 +1619,7 @@ msgstr "Dobierz dwie karty."
 
 #: ../../ORI.rst:527
 msgid "You lose the game."
-msgstr ""
+msgstr "Przegrywasz grę."
 
 #: ../../ORI.rst:534
 msgid ""
@@ -1561,13 +1630,15 @@ msgstr ""
 
 #: ../../ORI.rst:531
 msgid "Despoiler of Souls can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../ORI.rst:533
 msgid ""
 "|mana_b|\\ |mana_b|, Exile two other creature cards from your graveyard: "
 "Return Despoiler of Souls from your graveyard to the battlefield."
 msgstr ""
+"|mana_b|\\ |mana_b|, wygnaj dwie inne karty stworów z twojego cmentarza: "
+"Przywróć tę kartę z twojego cmentarza na pole walki."
 
 #: ../../ORI.rst:540
 msgid ""
@@ -1581,12 +1652,17 @@ msgid ""
 "As long as your opponents control no creatures, Erebos's Titan has "
 "indestructible. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"O ile twoi przeciwnicy nie władają stworami, ten stwór ma niezniszczalność. ("
+"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../ORI.rst:539
 msgid ""
 "Whenever a creature card leaves an opponent's graveyard, you may discard a "
 "card. If you do, return Erebos's Titan from your graveyard to your hand."
 msgstr ""
+"Ilekroć karta stwora opuści cmentarz przeciwnika, możesz odrzucić kartę. "
+"Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../ORI.rst:544
 msgid ""
@@ -1612,7 +1688,7 @@ msgstr ""
 
 #: ../../ORI.rst:547
 msgid "Non-Elf creatures get -2/-2 until end of turn."
-msgstr ""
+msgstr "Stwory bez typu Elf dostają do końca tury -2/-2."
 
 #: ../../ORI.rst:554
 msgid ""
