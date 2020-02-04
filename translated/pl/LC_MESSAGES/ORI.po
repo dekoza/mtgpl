@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-03 00:46+0000\n"
+"PO-Revision-Date: 2020-02-04 00:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -367,8 +367,8 @@ msgid ""
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, jeśli przeciwnik ma we władaniu "
-"więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin i "
-"umieścić ją na polu walki, następnie przetasuj twoją bibliotekę."
+"więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
+"umieść ją na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:124
 msgid ""
@@ -404,8 +404,8 @@ msgid ""
 "transformed under his owner's control."
 msgstr ""
 "Na koniec walki, jeśli ten stwór i przynajmniej dwa inne stwory atakowały w "
-"tej walce, wygnaj niniejszego stwora, następnie przywróć go transformowanego "
-"na pole walki pod władaniem właściciela."
+"tej walce, wygnaj niniejszą kartę, następnie przywróć ją transformowaną na "
+"pole walki pod władaniem właściciela."
 
 #: ../../ORI.rst:129
 msgid "|mana_2|\\ |mana_w|: Kytheon gains indestructible until end of turn."
@@ -535,7 +535,7 @@ msgid ""
 "Equipment card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór zostanie sławny, możesz wyszukać w twojej bibliotece kartę "
-"Wyposażenia, ujawnić ją i umieścić w twojej ręce, następnie przetasuj twoją "
+"Wyposażenia, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../ORI.rst:178
@@ -664,7 +664,7 @@ msgid ""
 "your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę Aury, ujawnić ją i umieścić w twojej ręce, następnie przetasuj twoją "
+"kartę Aury, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../ORI.rst:220
@@ -722,8 +722,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
-"samo życia.)"
+"Więź życia (Obrażania zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo żyć.)"
 
 #: ../../ORI.rst:238
 msgid ""
@@ -1031,8 +1031,8 @@ msgid ""
 "battlefield transformed under his owner's control."
 msgstr ""
 "|tap|: Dobierz kartę, następnie odrzuć kartę. Jeśli w twoim cmentarzu jest "
-"co najmniej pięć kart, wygnaj tę kartę, następnie przywróć ją transformowaną "
-"na pole walki pod władaniem właściciela."
+"co najmniej pięć kart, wygnaj niniejszą kartę, następnie przywróć ją "
+"transformowaną na pole walki pod władaniem właściciela."
 
 #: ../../ORI.rst:348
 msgid ""
@@ -1702,6 +1702,8 @@ msgid ""
 "|mana_b|: Fetid Imp gains deathtouch until end of turn. (Any amount of "
 "damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"|mana_b|: Ten stwór zyskuje dotyk śmierci do końca tury. (Stwór otrzymujący "
+"od niego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../ORI.rst:558
 msgid ""
@@ -1735,8 +1737,8 @@ msgid ""
 "When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-"
 "Elf creature whose power and toughness aren't equal."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz zniszczyć wskazanego stwora nie "
-"będącego Elfem, którego siła i wytrzymałość nie są równe."
+"Kiedy ten stwór wejdzie na pole walki, możesz zniszczyć wskazanego stwora "
+"bez typu Elf, którego siła i wytrzymałość nie są sobie równe."
 
 #: ../../ORI.rst:570
 msgid ""
@@ -1750,12 +1752,17 @@ msgid ""
 "|tap|, Pay 1 life: Add |mana_g|. Spend this mana only to cast an Elf "
 "creature spell."
 msgstr ""
+"|tap|, zapłać 1 życie: Weź |mana_g|. Wydaj tę manę tylko do rzucenia stwora "
+"z typem Elf."
 
 #: ../../ORI.rst:569
 msgid ""
 "|tap|: Target attacking Elf you control gains deathtouch until end of turn. "
 "(Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"|tap|: Wskazany atakujący Elf pod twoim władaniem zyskuje dotyk śmierci do "
+"końca tury. (Stwór otrzymujący od niego jakiekolwiek obrażenia zostaje "
+"zniszczony.)"
 
 #: ../../ORI.rst:576
 msgid ""
@@ -1777,6 +1784,8 @@ msgid ""
 "Whenever Graveblade Marauder deals combat damage to a player, that player "
 "loses life equal to the number of creature cards in your graveyard."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz traci tyle żyć, "
+"ile masz kart stworów w twoim cmentarzu."
 
 #: ../../ORI.rst:582
 msgid ""
@@ -1790,8 +1799,7 @@ msgid ""
 "Enchanted creature gets +2/+0 and has \"When this creature dies, draw a card."
 "\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+0 i ma zdolność \"Kiedy ten stwór umrze, "
-"dobierz kartę.\""
+"Zauroczony stwór dostaje +2/+0 i ma \"Kiedy ten stwór umrze, dobierz kartę.\""
 
 #: ../../ORI.rst:586
 msgid ""
@@ -1806,6 +1814,9 @@ msgid ""
 "library for any number of cards with that name and exile them. Then that "
 "player shuffles their library."
 msgstr ""
+"Nazwij kartę stwora. Wyszukaj w cmentarzu, ręce oraz bibliotece wskazanego "
+"przeciwnika dowolnej liczby kart o owej nazwie i wygnaj je. Następnie ów "
+"gracz tasuje swoją bibliotekę."
 
 #: ../../ORI.rst:592
 msgid ""
@@ -1819,6 +1830,8 @@ msgid ""
 "Whenever a permanent owned by another player is put into a graveyard from "
 "the battlefield, you draw a card and you lose 1 life."
 msgstr ""
+"Ilekroć permanent pod władaniem innego gracza zostanie umieszczony w "
+"cmentarzu z pola walki, dobierz kartę i strać 1 życie."
 
 #: ../../ORI.rst:596
 msgid ""
@@ -1829,7 +1842,7 @@ msgstr ""
 
 #: ../../ORI.rst:595
 msgid "All creatures get -4/-4 until end of turn."
-msgstr "Wszystkie stwory dostają -4/-4 do końca tury."
+msgstr "Wszystkie stwory dostają do końca tury -4/-4."
 
 #: ../../ORI.rst:602
 msgid ""
@@ -1849,6 +1862,9 @@ msgid ""
 "Heretical Healer, then return her to the battlefield transformed under her "
 "owner's control. If you do, create a 2/2 black Zombie creature token."
 msgstr ""
+"Ilekroć inny nieżetonowy stwór pod twoim władaniem umrze, wygnaj niniejszą "
+"kartę, następnie przywróć ją transformowaną na pole walki pod władaniem "
+"właściciela. Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../ORI.rst:610
 msgid ""
@@ -1860,19 +1876,23 @@ msgstr ""
 
 #: ../../ORI.rst:605
 msgid "+2: Each player discards a card."
-msgstr ""
+msgstr "+2: Każdy gracz odrzuca kartę."
 
 #: ../../ORI.rst:607
 msgid ""
 "−X: Return target nonlegendary creature card with converted mana cost X from "
 "your graveyard to the battlefield."
 msgstr ""
+"–X: Przywróć wskazaną nielegendarną kartę stwora o skróconym koszcie many X "
+"z twojego cmentarza na pole walki."
 
 #: ../../ORI.rst:609
 msgid ""
 "−8: You get an emblem with \"Whenever a creature dies, return it to the "
 "battlefield under your control at the beginning of the next end step.\""
 msgstr ""
+"–8: Dostajesz emblemat o treści \"Ilekroć stwór umrze, przywróć go na pole "
+"walki pod twoim władaniem na początku najbliższego kroku końcowego.\""
 
 #: ../../ORI.rst:614
 msgid ""
@@ -1901,6 +1921,8 @@ msgid ""
 "Whenever a creature an opponent controls dies, put a +1/+1 counter on "
 "Malakir Cullblade."
 msgstr ""
+"Ilekroć umrze stwór pod władaniem przeciwnika, umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../ORI.rst:622
 msgid ""
@@ -1911,7 +1933,7 @@ msgstr ""
 
 #: ../../ORI.rst:621
 msgid "Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Niniejszy stwór dostaje do końca tury +2/+2."
 
 #: ../../ORI.rst:628
 msgid ""
@@ -1951,6 +1973,9 @@ msgid ""
 "If you do, that player discards that card. If you don't, that player "
 "discards two cards."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Możesz wybrać z niej nielądową "
+"kartę. Jeśli tak zrobisz, ów gracz odrzuca ową kartę. Jeśli nie, ów gracz "
+"odrzuca dwie karty."
 
 #: ../../ORI.rst:638
 msgid ""
@@ -1964,6 +1989,8 @@ msgid ""
 "When Priest of the Blood Rite enters the battlefield, create a 5/5 black "
 "Demon creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton czarnego stwora Demon 5/"
+"5 z lataniem."
 
 #: ../../ORI.rst:637
 msgid "At the beginning of your upkeep, you lose 2 life."
@@ -1979,7 +2006,7 @@ msgstr ""
 #: ../../ORI.rst:643
 msgid ""
 "When Rabid Bloodsucker enters the battlefield, each player loses 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz traci po 2 życie."
 
 #: ../../ORI.rst:648
 msgid ""
@@ -2037,6 +2064,8 @@ msgid ""
 "Revenant's power and toughness are each equal to the number of creature "
 "cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart stworów w twoim "
+"cmentarzu."
 
 #: ../../ORI.rst:668
 msgid ""
@@ -2050,6 +2079,8 @@ msgid ""
 "Whenever a creature dies, scry 1. (Look at the top card of your library. You "
 "may put that card on the bottom of your library.)"
 msgstr ""
+"Ilekroć stwór umrze, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../ORI.rst:667
 msgid ""
@@ -2057,6 +2088,9 @@ msgid ""
 "Activate this ability only if there are four or more creature cards in your "
 "graveyard."
 msgstr ""
+"|mana_4|\\ |mana_b|: Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia. "
+"Możesz aktywować tę zdolność tylko jeśli w twoim cmentarzu są co najmniej "
+"cztery karty stworów."
 
 #: ../../ORI.rst:672
 msgid ""
@@ -2067,7 +2101,7 @@ msgstr ""
 
 #: ../../ORI.rst:671
 msgid "Shambling Ghoul enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../ORI.rst:676
 msgid ""
@@ -2080,6 +2114,8 @@ msgstr ""
 msgid ""
 "If an opponent would gain life, that player loses that much life instead."
 msgstr ""
+"Jeśli przeciwnik miałby zyskać życia, zamiast tego ów gracz traci tyle samo "
+"żyć."
 
 #: ../../ORI.rst:680
 msgid ""
@@ -2093,6 +2129,8 @@ msgid ""
 "Whenever Thornbow Archer attacks, each opponent who doesn't control an Elf "
 "loses 1 life."
 msgstr ""
+"Ilekroć ten stwór atakuje, każdy przeciwnik nie władający Elfem traci po 1 "
+"życiu."
 
 #: ../../ORI.rst:686
 msgid ""
@@ -2126,6 +2164,10 @@ msgid ""
 "controller loses 2 life. (Any amount of damage a creature with deathtouch "
 "deals to a creature is enough to destroy it.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0 oraz dotyk "
+"śmierci. Ilekroć w tej turze umrze stwór uszkodzony przez owego stwora, jego "
+"właściciel traci 2 życia. (Stwór otrzymujący od stwora z dotykiem śmierci "
+"jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../ORI.rst:694
 msgid ""
@@ -2184,6 +2226,8 @@ msgid ""
 "When Abbot of Keral Keep enters the battlefield, exile the top card of your "
 "library. Until end of turn, you may play that card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wierzchnią kartę twojej "
+"biblioteki. Do końca tury możesz zagrać ową kartę."
 
 #: ../../ORI.rst:718
 msgid ""
@@ -2197,6 +2241,8 @@ msgid ""
 "Whenever Acolyte of the Inferno becomes blocked by a creature, it deals 2 "
 "damage to that creature."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany przez stwora, zadaje on owemu "
+"stworowi 2 obrażenia."
 
 #: ../../ORI.rst:722
 msgid ""
@@ -2241,7 +2287,7 @@ msgstr "Na początku twojego kroku dobierania, dobierz dodatkową kartę."
 
 #: ../../ORI.rst:735
 msgid "At the beginning of your end step, discard your hand."
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, odrzuć twoją rękę."
 
 #: ../../ORI.rst:740
 msgid ""
@@ -2273,12 +2319,16 @@ msgid ""
 "Enchanted creature gets +3/+2 and has trample. (It can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"Zauroczony stwór dostaje +3/+2 i ma tratowanie. (Może zadać nadwyżkę obrażeń "
+"bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../ORI.rst:751
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, sacrifice Call of the Full Moon."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli jakiś gracz rzucił w poprzedniej "
+"turze co najmniej dwa czary, poświęć ten urok."
 
 #: ../../ORI.rst:758
 msgid ""
@@ -2290,7 +2340,7 @@ msgstr ""
 
 #: ../../ORI.rst:755
 msgid "Whenever you cast a red spell, untap Chandra, Fire of Kaladesh."
-msgstr ""
+msgstr "Ilekroć rzucisz czerwony czar, odkręć tego stwora."
 
 #: ../../ORI.rst:757
 msgid ""
@@ -2298,6 +2348,10 @@ msgid ""
 "planeswalker. If Chandra has dealt 3 or more damage this turn, exile her, "
 "then return her to the battlefield transformed under her owner's control."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie. "
+"Jeśli ten stwór zadał co najmniej 3 obrażenia w tej turze, wygnaj niniejszą "
+"kartę, następnie przywróć ją transformowaną na pole walki pod władaniem "
+"właściciela."
 
 #: ../../ORI.rst:766
 msgid ""
@@ -2311,10 +2365,11 @@ msgstr ""
 msgid ""
 "+1: Chandra, Roaring Flame deals 2 damage to target player or planeswalker."
 msgstr ""
+"+1: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 2 obrażenia."
 
 #: ../../ORI.rst:763
 msgid "−2: Chandra, Roaring Flame deals 2 damage to target creature."
-msgstr ""
+msgstr "–2: Ten wędrowiec zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../ORI.rst:765
 msgid ""
@@ -2322,6 +2377,9 @@ msgid ""
 "dealt damage this way gets an emblem with \"At the beginning of your upkeep, "
 "this emblem deals 3 damage to you.\""
 msgstr ""
+"–7: Ten wędrowiec zadaje każdemu przeciwnikowi po 6 obrażeń. Każdy gracz "
+"uszkodzony w ten sposób dostaje emblemat o treści \"Na początku twojego "
+"kroku utrzymania ten emblemat zadaje tobie 3 obrażenia.\""
 
 #: ../../ORI.rst:770
 msgid ""
@@ -2335,6 +2393,8 @@ msgid ""
 "Chandra's Fury deals 4 damage to target player or planeswalker and 1 damage "
 "to each creature that player or that planeswalker's controller controls."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi 4 obrażenia oraz po 1 "
+"obrażeniu każdemu stworowi pod władaniem tego samego gracza."
 
 #: ../../ORI.rst:774
 msgid ""
@@ -2348,6 +2408,8 @@ msgid ""
 "Target creature you control deals damage equal to its power to each other "
 "creature and each opponent."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"każdemu innemu stworowi i każdemu przeciwnikowi."
 
 #: ../../ORI.rst:776
 msgid ""
@@ -2407,6 +2469,10 @@ msgid ""
 "that creature. It gains haste until end of turn. (It can attack and |tap| "
 "this turn.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskaj do końca tury władanie nad "
+"wskazanym stworem o sile 2 lub mniejszej pod władaniem przeciwnika. Odkręć "
+"owego stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w "
+"tej turze.)"
 
 #: ../../ORI.rst:802
 msgid ""
@@ -2417,7 +2483,7 @@ msgstr ""
 
 #: ../../ORI.rst:799
 msgid "Exquisite Firecraft deals 4 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../ORI.rst:801
 msgid ""
@@ -2436,7 +2502,7 @@ msgstr ""
 
 #: ../../ORI.rst:807
 msgid "Fiery Conclusion deals 5 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../ORI.rst:814
 msgid ""
@@ -2447,7 +2513,7 @@ msgstr ""
 
 #: ../../ORI.rst:811
 msgid "Fiery Impulse deals 2 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../ORI.rst:813
 msgid ""
@@ -2485,6 +2551,10 @@ msgid ""
 "may pay |mana_r|. If you do, create a token that's a copy of that creature. "
 "That token gains haste. Exile it at the beginning of the next end step."
 msgstr ""
+"Ilekroć nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, możesz "
+"zapłacić |mana_r|. Jeśli tak zrobisz, stwórz żeton będący kopią owego "
+"stwora. Ów żeton zyskuje pośpiech. Wygnaj go na początku najbliższego kroku "
+"końcowego."
 
 #: ../../ORI.rst:828
 msgid ""
@@ -2498,6 +2568,8 @@ msgid ""
 "Tap two untapped artifacts you control: Ghirapur Aether Grid deals 1 damage "
 "to any target."
 msgstr ""
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Ten urok zadaje "
+"wskazanemu celowi 1 obrażenie."
 
 #: ../../ORI.rst:832
 msgid ""
@@ -2512,6 +2584,9 @@ msgid ""
 "Thopter artifact creature token with flying. (A creature with flying can't "
 "be blocked except by creatures with flying or reach.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem. (Stwór z lataniem nie może "
+"być blokowany, chyba że przez stwory z lataniem lub zasięgiem.)"
 
 #: ../../ORI.rst:838
 msgid ""
@@ -2540,12 +2615,16 @@ msgid ""
 "Protection from blue (This creature can't be blocked, targeted, dealt "
 "damage, or enchanted by anything blue.)"
 msgstr ""
+"Ochrona przed niebieskim (Nic niebieskiego nie może blokować, wskazywać, "
+"uszkodzić lub zauroczyć tego stwora.)"
 
 #: ../../ORI.rst:843
 msgid ""
 "Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each "
 "other attacking Goblin."
 msgstr ""
+"Ilekroć ten stwór atakuje, dostaje on do końca tury +2/+0 za każdego innego "
+"atakującego Goblina."
 
 #: ../../ORI.rst:852
 msgid ""
@@ -2567,6 +2646,9 @@ msgid ""
 "Infectious Bloodlust, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
+"Kiedy zauroczony stwór umrze, możesz wyszukać w twojej bibliotece kartę o "
+"nazwie Infectious Bloodlust, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:856
 msgid ""
@@ -2580,6 +2662,8 @@ msgid ""
 "Lightning Javelin deals 3 damage to any target. Scry 1. (Look at the top "
 "card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../ORI.rst:862
 msgid ""
@@ -2601,7 +2685,7 @@ msgstr ""
 
 #: ../../ORI.rst:865
 msgid "As an additional cost to cast this spell, discard a land card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę lądu."
 
 #: ../../ORI.rst:872
 msgid ""
@@ -2614,6 +2698,7 @@ msgstr ""
 msgid ""
 "|mana_r|, Discard a land card: Molten Vortex deals 2 damage to any target."
 msgstr ""
+"|mana_r|, odrzuć kartę lądu: Ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../ORI.rst:878
 msgid ""
@@ -2627,12 +2712,16 @@ msgid ""
 "When Pia and Kiran Nalaar enters the battlefield, create two 1/1 colorless "
 "Thopter artifact creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:877
 msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 "
 "damage to any target."
 msgstr ""
+"|mana_2|\\ |mana_r|, poświęć artefakt: Ten stwór zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../ORI.rst:882
 msgid ""
@@ -2646,6 +2735,8 @@ msgid ""
 "As long as it's your turn, Prickleboar gets +2/+0 and has first strike. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
+"O ile jest twoja tura, ten stwór dostaje +2/+0 i ma pierwszy cios. (Zadaje "
+"obrażenia bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../ORI.rst:888
 msgid ""
@@ -2656,7 +2747,7 @@ msgstr ""
 
 #: ../../ORI.rst:885
 msgid "Ravaging Blaze deals X damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi X obrażeń."
 
 #: ../../ORI.rst:887
 msgid ""
@@ -2725,6 +2816,8 @@ msgid ""
 "Destroy target artifact. Smash to Smithereens deals 3 damage to that "
 "artifact's controller."
 msgstr ""
+"Zniszcz wskazany artefakt. Ten czar zadaje władcy owego artefaktu 3 "
+"obrażenia."
 
 #: ../../ORI.rst:912
 msgid ""
@@ -2738,6 +2831,8 @@ msgid ""
 "When Subterranean Scout enters the battlefield, target creature with power 2 "
 "or less can't be blocked this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór o sile 2 lub mniejszej "
+"nie może blokować w tej turze."
 
 #: ../../ORI.rst:918
 msgid ""
@@ -2751,12 +2846,16 @@ msgid ""
 "When Thopter Engineer enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:917
 msgid ""
 "Artifact creatures you control have haste. (They can attack and |tap| as "
 "soon as they come under your control.)"
 msgstr ""
+"Artefaktyczne stwory pod twoim władaniem mają pośpiech. (Mogą atakować i "
+"|tap| zaraz po wejściu pod twoje władanie.)"
 
 #: ../../ORI.rst:922
 msgid ""
@@ -2771,8 +2870,7 @@ msgid ""
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Wskazany stwór dostaje do końca tury +3/+1. Wróż 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej "
-"biblioteki.)"
+"kartę twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../ORI.rst:926
 msgid ""
@@ -2786,6 +2884,8 @@ msgid ""
 "|mana_2|\\ |mana_r|: Volcanic Rambler deals 1 damage to target player or "
 "planeswalker."
 msgstr ""
+"|mana_2|\\ |mana_r|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 1 "
+"obrażenie."
 
 #: ../../ORI.rst:930
 msgid ""
@@ -2799,6 +2899,8 @@ msgid ""
 "Aerial Volley deals 3 damage divided as you choose among one, two, or three "
 "target creatures with flying."
 msgstr ""
+"Ten czar zadaje 3 obrażenia rozdzielone dowolnie pomiędzy jeden, dwa lub "
+"trzy wskazane stwory z lataniem."
 
 #: ../../ORI.rst:936
 msgid ""
@@ -2813,6 +2915,9 @@ msgid ""
 "onto the battlefield tapped and the rest on the bottom of your library in a "
 "random order."
 msgstr ""
+"Ujawnij X wierzchnich kart twojej biblioteki. Umiesz wszystkie karty lądów "
+"spośród nich przekręcone na polu walki, a pozostałe na spodzie twojej "
+"biblioteki w losowej kolejności."
 
 #: ../../ORI.rst:935
 msgid ""
@@ -2834,6 +2939,7 @@ msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact "
 "or enchantment."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../ORI.rst:944
 msgid ""
@@ -2847,6 +2953,8 @@ msgid ""
 "When Conclave Naturalists enters the battlefield, you may destroy target "
 "artifact or enchantment."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz zniszczyć wskazany artefakt "
+"lub urok."
 
 #: ../../ORI.rst:952
 msgid ""
@@ -2861,13 +2969,15 @@ msgstr "Zasięg"
 
 #: ../../ORI.rst:949
 msgid "Other Elf creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../ORI.rst:951
 msgid ""
 "Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking "
 "Elf you control."
 msgstr ""
+"Ilekroć ten stwór atakuje, zyskaj 1 życie za każdego atakującego Elfa pod "
+"twoim władaniem."
 
 #: ../../ORI.rst:956
 msgid ""
@@ -2881,6 +2991,8 @@ msgid ""
 "When Dwynen's Elite enters the battlefield, if you control another Elf, "
 "create a 1/1 green Elf Warrior creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym Elfem, stwórz "
+"żeton zielonego stwora Elf 1/1."
 
 #: ../../ORI.rst:960
 msgid ""
@@ -2894,6 +3006,8 @@ msgid ""
 "Whenever a creature with power 3 or greater enters the battlefield under "
 "your control, draw a card."
 msgstr ""
+"Ilekroć stwór o sile 3 lub większej wejdzie na pole walki pod twoim "
+"władaniem, dobierz kartę."
 
 #: ../../ORI.rst:964
 msgid ""
@@ -2904,7 +3018,7 @@ msgstr ""
 
 #: ../../ORI.rst:963
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../ORI.rst:968
 msgid ""
@@ -2919,6 +3033,9 @@ msgid ""
 "until you reveal a creature card. Put that card into your hand and the rest "
 "on the bottom of your library in a random order."
 msgstr ""
+"|mana_g|, poświęć stwora: Ujawniaj karty z wierzchu twojej biblioteki, aż "
+"ujawnisz kartę stwora. Umieść ową kartę w twojej ręce, a pozostałe na "
+"spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../ORI.rst:976
 msgid ""
@@ -2936,6 +3053,8 @@ msgid ""
 "Gaea's Revenge can't be the target of nongreen spells or abilities from "
 "nongreen sources."
 msgstr ""
+"Ten stwór nie może być celem niezielonych czarów oraz zdolności z "
+"niezielonych źródeł."
 
 #: ../../ORI.rst:982
 msgid ""
@@ -2949,6 +3068,8 @@ msgid ""
 "Reveal the top five cards of your library. You may put a creature card from "
 "among them into your hand. Put the rest into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora spośród nich w twojej ręce. Umieść pozostałe w twoim cmentarzu."
 
 #: ../../ORI.rst:981
 msgid ""
@@ -2974,6 +3095,10 @@ msgid ""
 "number of land cards from their hand onto the battlefield. Exile The Great "
 "Aurora."
 msgstr ""
+"Każdy gracz wtasowuje wszystkie karty ze swojej ręki i wszystkie własne "
+"permanenty do swojej biblioteki, następnie dobiera tyle samo kart. Każdy "
+"gracz może umieścić dowolną liczbę kart lądów ze swojej ręki na polu walki. "
+"Wygnaj ten czar."
 
 #: ../../ORI.rst:992
 msgid ""
@@ -2988,7 +3113,7 @@ msgstr "Rzucanie uroków kosztuje cię o |mana_1| mniej."
 
 #: ../../ORI.rst:991
 msgid "Whenever you cast an enchantment spell, you gain 1 life."
-msgstr ""
+msgstr "Ilekroć rzucisz urok, zyskaj 1 życie."
 
 #: ../../ORI.rst:996
 msgid ""
@@ -3024,6 +3149,8 @@ msgid ""
 "Each creature you control gets +3/+3 until end of turn and must be blocked "
 "this turn if able."
 msgstr ""
+"Każdy stwór pod twoim władaniem dostaje do końca tury +3/+3 i musi być "
+"blokowany w tej turze, o ile to możliwe."
 
 #: ../../ORI.rst:1010
 msgid ""
@@ -3050,6 +3177,11 @@ msgid ""
 "scry 2, look at the top two cards of your library, then put any number of "
 "them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wróż 2, następnie ujawnij wierzchnią "
+"kartę twojej biblioteki. Jeśli to karta stwora, umieść ją w twojej ręce. (By "
+"wróżyć 2, spójrz na dwie wierzchnie karty twojej biblioteki, następnie "
+"możesz umieścić dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
+"jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ORI.rst:1020
 msgid ""
@@ -3065,7 +3197,7 @@ msgstr "Tratowanie"
 #: ../../ORI.rst:1019
 msgid ""
 "Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ORI.rst:1026
 msgid ""
@@ -3079,6 +3211,8 @@ msgid ""
 "Enchanted creature gets +1/+3 and has reach. (It can block creatures with "
 "flying.)"
 msgstr ""
+"Zauroczony stwór dostaje +1/+3 i ma zasięg. (Może blokować stwory z "
+"lataniem.)"
 
 #: ../../ORI.rst:1030
 msgid ""
@@ -3108,6 +3242,9 @@ msgid ""
 "library for a basic Forest card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę bazowego Lasu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../ORI.rst:1035
 msgid ""
@@ -3115,6 +3252,9 @@ msgid ""
 "seven or more lands, exile Nissa, then return her to the battlefield "
 "transformed under her owner's control."
 msgstr ""
+"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, jeśli władasz co "
+"najmniej siedmioma lądami, wygnaj niniejszą kartę, następnie przywróć ją "
+"transformowaną na pole walki pod władaniem właściciela."
 
 #: ../../ORI.rst:1044
 msgid ""
@@ -3128,18 +3268,24 @@ msgid ""
 "+1: Reveal the top card of your library. If it's a land card, put it onto "
 "the battlefield. Otherwise, put it into your hand."
 msgstr ""
+"+1: Ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta lądu, umieść "
+"ją na polu walki. W przeciwnym razie umieść ją w twojej ręce."
 
 #: ../../ORI.rst:1041
 msgid ""
 "−2: Create Ashaya, the Awoken World, a legendary 4/4 green Elemental "
 "creature token."
 msgstr ""
+"–2: Stwórz żeton legendarnego zielonego stwora Ashaya, Przebudzony Świat "
+"typu Żywiołak."
 
 #: ../../ORI.rst:1043
 msgid ""
 "−7: Untap up to six target lands. They become 6/6 Elemental creatures. "
 "They're still lands."
 msgstr ""
+"–7: Odkręć co najwyżej sześć wskazanych lądów. Stają się one stworami "
+"Żywiołak 6/6. Nadal są lądami."
 
 #: ../../ORI.rst:1050
 msgid ""
@@ -3154,6 +3300,9 @@ msgid ""
 "and put one onto the battlefield tapped and the rest into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowego Lasu, ujawnij "
+"je i umieść jedną przekręconą na polu walki, a pozostałe w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:1049
 msgid ""
@@ -3192,6 +3341,8 @@ msgstr ""
 msgid ""
 "Orchard Spirit can't be blocked except by creatures with flying or reach."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez stwory z lataniem lub "
+"zasięgiem."
 
 #: ../../ORI.rst:1064
 msgid ""
@@ -3210,7 +3361,7 @@ msgstr ""
 
 #: ../../ORI.rst:1063
 msgid "Outland Colossus can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../ORI.rst:1070
 msgid ""
@@ -3229,6 +3380,7 @@ msgstr ""
 #: ../../ORI.rst:1073
 msgid "Put target card from your graveyard on top of your library."
 msgstr ""
+"Umieść wskazaną kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../ORI.rst:1080
 msgid ""
@@ -3264,6 +3416,8 @@ msgid ""
 "Whenever a creature you control becomes blocked, it gets +1/+1 until end of "
 "turn."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zostanie zablokowany, dostaje do końca "
+"tury +1/+1."
 
 #: ../../ORI.rst:1091
 msgid ""
@@ -3288,6 +3442,9 @@ msgid ""
 "your library. Put all Elf cards revealed this way into your hand and the "
 "rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Umieść wszystkie karty typu Elf ujawnione w ten sposób w "
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../ORI.rst:1102
 msgid ""
@@ -3301,6 +3458,8 @@ msgid ""
 "Timberpack Wolf gets +1/+1 for each other creature you control named "
 "Timberpack Wolf."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdego innego stwora pod twoim władaniem o tej "
+"samej nazwie."
 
 #: ../../ORI.rst:1106
 msgid ""
@@ -3326,6 +3485,9 @@ msgid ""
 "creature would be destroyed this turn, it isn't. Instead tap it, remove all "
 "damage from it, and remove it from combat.)"
 msgstr ""
+"|mana_2|\\ |mana_g|: Zregeneruj tego stwora. (Najbliższym razem, kiedy ten "
+"stwór miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć "
+"go, usuń z niego obrażenia i usuń go z walki.)"
 
 #: ../../ORI.rst:1118
 msgid ""
@@ -3357,6 +3519,8 @@ msgid ""
 "Prevent all combat damage that would be dealt this turn by creatures with "
 "power 4 or less."
 msgstr ""
+"Zażegnaj wszystkie bojowe obrażenia, jakie mogłyby zostać zadane w tej turze "
+"przez stwory o sile 4 lub mniejszej."
 
 #: ../../ORI.rst:1130
 msgid ""
@@ -3371,6 +3535,9 @@ msgid ""
 "creature an opponent controls. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+2. Walczy on ze "
+"wskazanym stworem pod władaniem przeciwnika. (Każdy zadaje drugiemu "
+"obrażenia równe swojej sile.)"
 
 #: ../../ORI.rst:1134
 msgid ""
@@ -3385,6 +3552,9 @@ msgid ""
 "for a nonlegendary green creature card with converted mana cost 3 or less, "
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę nielegendarnego stwora o skróconym koszcie many 3 lub mniejszym, "
+"umieść ją na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:1138
 msgid ""
@@ -3398,6 +3568,8 @@ msgid ""
 "When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"2/+2."
 
 #: ../../ORI.rst:1142
 msgid ""
@@ -3411,6 +3583,8 @@ msgid ""
 "Whenever a land enters the battlefield under your control, create a 2/2 "
 "green Elemental creature token."
 msgstr ""
+"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, stwórz żeton "
+"zielonego stwora Żywiołak 2/2."
 
 #: ../../ORI.rst:1146
 msgid ""
@@ -3424,6 +3598,8 @@ msgid ""
 "|mana_1|, Sacrifice another creature: Blazing Hellhound deals 1 damage to "
 "any target."
 msgstr ""
+"|mana_1|, poświęć innego stwora: Ten stwór zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../ORI.rst:1150
 msgid ""
@@ -3438,6 +3614,8 @@ msgid ""
 "has lifelink. (Damage dealt by this creature also causes you to gain that "
 "much life.)"
 msgstr ""
+"O ile władasz urokiem, ten stwór dostaje +1/+1 i ma więź życia. (Obrażania "
+"zadane przez tego stwora powodują, że zyskujesz tyle samo żyć.)"
 
 #: ../../ORI.rst:1156
 msgid ""
@@ -3451,6 +3629,8 @@ msgid ""
 "When Bounding Krasis enters the battlefield, you may tap or untap target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przekręcić lub odkręcić "
+"wskazanego stwora."
 
 #: ../../ORI.rst:1162
 msgid ""
@@ -3486,10 +3666,12 @@ msgid ""
 "When Possessed Skaab enters the battlefield, return target instant, sorcery, "
 "or creature card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę sztuczki, "
+"obrzędu lub stwora z twojego cmentarza do twojej ręki."
 
 #: ../../ORI.rst:1171
 msgid "If Possessed Skaab would die, exile it instead."
-msgstr ""
+msgstr "Jeśli ten stwór miałby umrzeć, zamiast tego wygnaj go."
 
 #: ../../ORI.rst:1178
 msgid ""
@@ -3503,6 +3685,8 @@ msgid ""
 "When Reclusive Artificer enters the battlefield, you may have it deal damage "
 "to target creature equal to the number of artifacts you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, że zada wskazanemu "
+"stworowi tyle obrażeń, iloma artefaktami władasz."
 
 #: ../../ORI.rst:1182
 msgid ""
@@ -3516,6 +3700,8 @@ msgid ""
 "When Shaman of the Pack enters the battlefield, target opponent loses life "
 "equal to the number of Elves you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik traci tyle żyć, "
+"iloma Elfami władasz."
 
 #: ../../ORI.rst:1190
 msgid ""
@@ -3537,7 +3723,7 @@ msgstr ""
 
 #: ../../ORI.rst:1193
 msgid "Zendikar Incarnate's power is equal to the number of lands you control."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie lądów pod twoim władaniem."
 
 #: ../../ORI.rst:1200
 msgid ""
@@ -3548,13 +3734,15 @@ msgstr ""
 
 #: ../../ORI.rst:1197
 msgid "When Alchemist's Vial enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
 
 #: ../../ORI.rst:1199
 msgid ""
 "|mana_1|, |tap|, Sacrifice Alchemist's Vial: Target creature can't attack or "
 "block this turn."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten artefakt: Wskazany stwór nie może atakować w "
+"tej turze."
 
 #: ../../ORI.rst:1206
 msgid ""
@@ -3565,13 +3753,15 @@ msgstr ""
 
 #: ../../ORI.rst:1203
 msgid "If you would gain life, you gain twice that much life instead."
-msgstr ""
+msgstr "Jeśli miałbyś zyskać życia, zamiast tego zyskaj dwukrotnie tyle żyć."
 
 #: ../../ORI.rst:1205
 msgid ""
 "If you would draw a card except the first one you draw in each of your draw "
 "steps, draw two cards instead."
 msgstr ""
+"Jeśli miałbyś dobrać kartę oprócz pierwszej dobranej w każdym z twoich "
+"kroków dobierania, zamiast tego dobierz dwie karty."
 
 #: ../../ORI.rst:1210
 msgid ""
@@ -3586,6 +3776,8 @@ msgid ""
 "Angel's Tomb become a 3/3 white Angel artifact creature with flying until "
 "end of turn."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, możesz sprawić, że "
+"ten artefakt stanie się do końca tury białym stworem Anioł 3/3 z lataniem."
 
 #: ../../ORI.rst:1214
 msgid ""
@@ -3596,7 +3788,7 @@ msgstr ""
 
 #: ../../ORI.rst:1213
 msgid "Bonded Construct can't attack alone."
-msgstr ""
+msgstr "Ten stwór nie może atakować samotnie."
 
 #: ../../ORI.rst:1220
 msgid ""
@@ -3630,7 +3822,7 @@ msgstr ""
 
 #: ../../ORI.rst:1223
 msgid "Other artifact creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne artefaktyczne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../ORI.rst:1228
 msgid ""
@@ -3648,7 +3840,7 @@ msgstr ""
 
 #: ../../ORI.rst:1231
 msgid "When Guardian Automaton dies, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zyskaj 3 życia."
 
 #: ../../ORI.rst:1236
 msgid ""
@@ -3666,17 +3858,19 @@ msgstr ""
 
 #: ../../ORI.rst:1239
 msgid "Hangarback Walker enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../ORI.rst:1241
 msgid ""
 "When Hangarback Walker dies, create a 1/1 colorless Thopter artifact "
 "creature token with flying for each +1/+1 counter on Hangarback Walker."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz tyle żetonów bezkolorowego artefaktycznego "
+"stwora Thopter 1/1 z lataniem, ile miał znaczników +1/+1."
 
 #: ../../ORI.rst:1243
 msgid "|mana_1|, |tap|: Put a +1/+1 counter on Hangarback Walker."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ORI.rst:1250
 msgid ""
@@ -3687,7 +3881,7 @@ msgstr ""
 
 #: ../../ORI.rst:1247
 msgid "Equipped creature gets +1/+1 for each enchantment you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każdy urok pod twoim władaniem."
 
 #: ../../ORI.rst:1249 ../../ORI.rst:1299 ../../ORI.rst:1321
 msgid ""
@@ -3717,17 +3911,19 @@ msgstr ""
 
 #: ../../ORI.rst:1257
 msgid "Mage-Ring Responder doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../ORI.rst:1259
 msgid "|mana_7|: Untap Mage-Ring Responder."
-msgstr ""
+msgstr "|mana_7|: Odkręć tego stwora."
 
 #: ../../ORI.rst:1261
 msgid ""
 "Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature "
 "defending player controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, zadaje wskazanemu stworowi pod władaniem "
+"broniącego się gracza 7 obrażeń."
 
 #: ../../ORI.rst:1268
 msgid ""
@@ -3763,7 +3959,7 @@ msgstr ""
 
 #: ../../ORI.rst:1273
 msgid "If a creature would deal damage to you, prevent 1 of that damage."
-msgstr ""
+msgstr "Jeśli stwór miałby zadać tobie obrażenia, zażegnaj 1 z owych obrażeń."
 
 #: ../../ORI.rst:1280
 msgid ""
@@ -3774,7 +3970,7 @@ msgstr ""
 
 #: ../../ORI.rst:1277
 msgid "As Prism Ring enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten artefakt na polu walki wybierz kolor."
 
 #: ../../ORI.rst:1279
 msgid "Whenever you cast a spell of the chosen color, you gain 1 life."
@@ -3792,6 +3988,8 @@ msgid ""
 "|tap|: Add |mana_r|. When that mana is spent to cast a red instant or "
 "sorcery spell, copy that spell and you may choose new targets for the copy."
 msgstr ""
+"|tap|: Weź |mana_r|. Kiedy ta mana zostanie użyta do rzucenia czaru sztuczki "
+"lub obrzędu, skopiuj ów czar i możesz wskazać nowe cele dla kopii."
 
 #: ../../ORI.rst:1290
 msgid ""
@@ -3806,7 +4004,7 @@ msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../ORI.rst:1289
 msgid "Ramroller gets +2/+0 as long as you control another artifact."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+0 o ile władasz innym artefaktem."
 
 #: ../../ORI.rst:1294
 msgid ""
@@ -3817,7 +4015,7 @@ msgstr ""
 
 #: ../../ORI.rst:1293
 msgid "When Runed Servitor dies, each player draws a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy gracz dobiera kartę."
 
 #: ../../ORI.rst:1300
 msgid ""
@@ -3831,6 +4029,8 @@ msgid ""
 "Whenever equipped creature attacks alone, it gets +1/+1 until end of turn "
 "for each other creature you control."
 msgstr ""
+"Ilekroć wyposażony stwór atakuje samotnie, dostaje do końca tury +1/+1 za "
+"każdego innego stwora pod twoim władaniem."
 
 #: ../../ORI.rst:1308
 msgid ""
@@ -3848,6 +4048,9 @@ msgid ""
 "Whenever equipped creature attacks, you may search your library for a basic "
 "land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Ilekroć wyposażony stwór atakuje, możesz wyszukać w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu walki, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../ORI.rst:1307
 msgid "Equip |mana_2|"
@@ -3869,6 +4072,8 @@ msgid ""
 "Whenever equipped creature attacks, you may sacrifice Throwing Knife. If you "
 "do, Throwing Knife deals 2 damage to any target."
 msgstr ""
+"Ilekroć wyposażony stwór atakuje, możesz poświęcić ten artefakt. Jeśli tak "
+"zrobisz, ten artefakt zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../ORI.rst:1315
 msgid ""
@@ -3894,7 +4099,7 @@ msgstr ""
 
 #: ../../ORI.rst:1325
 msgid "Attacking creatures you control get +1/+0."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0."
 
 #: ../../ORI.rst:1332
 msgid ""
@@ -3951,6 +4156,8 @@ msgid ""
 "|mana_5|, |tap|, Sacrifice Foundry of the Consuls: Create two 1/1 colorless "
 "Thopter artifact creature tokens with flying."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten ląd: Stwórz dwa żetony bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:1354
 msgid ""
@@ -3972,13 +4179,15 @@ msgstr ""
 
 #: ../../ORI.rst:1359
 msgid "|mana_1|, |tap|: Put a storage counter on Mage-Ring Network."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../ORI.rst:1361
 msgid ""
 "|tap|, Remove any number of storage counters from Mage-Ring Network: Add |"
 "colorless| for each storage counter removed this way."
 msgstr ""
+"|tap|, usuń dowolną liczbę znaczników magazynu z tego lądu: Weź |colorless| "
+"za każdy znacznik magazynu usunięty w ten sposób."
 
 #: ../../ORI.rst:1368
 msgid ""
@@ -4202,7 +4411,7 @@ msgstr ""
 
 #: ../../ORI.rst:1453
 msgid "|mana_r|: Fiery Hellhound gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ORI.rst:1460
 msgid ""
