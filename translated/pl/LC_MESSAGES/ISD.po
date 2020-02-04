@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-03 00:45+0000\n"
+"PO-Revision-Date: 2020-02-04 00:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/isd/"
 "pl/>\n"
@@ -1852,8 +1852,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
-"samo życia.)"
+"Więź życia (Obrażania zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo żyć.)"
 
 #: ../../ISD.rst:604
 msgid ""
@@ -2498,7 +2498,7 @@ msgstr ""
 # 244602726f2140619fae3b9a346fff58
 #: ../../ISD.rst:829
 msgid "Attacking creatures you control get +1/+0."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0."
 
 # fd14f9bcc87f47539d753ab2c748ed1a
 #: ../../ISD.rst:831
@@ -3401,6 +3401,8 @@ msgstr ""
 msgid ""
 "Orchard Spirit can't be blocked except by creatures with flying or reach."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez stwory z lataniem lub "
+"zasięgiem."
 
 #: ../../ISD.rst:1130
 msgid ""

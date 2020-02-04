@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-03 00:45+0000\n"
+"PO-Revision-Date: 2020-02-04 00:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/uma/"
 "pl/>\n"
@@ -3891,13 +3891,15 @@ msgstr ""
 
 #: ../../UMA.rst:1365
 msgid "|mana_1|, |tap|: Put a storage counter on Mage-Ring Network."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../UMA.rst:1367
 msgid ""
 "|tap|, Remove any number of storage counters from Mage-Ring Network: Add |"
 "colorless| for each storage counter removed this way."
 msgstr ""
+"|tap|, usuń dowolną liczbę znaczników magazynu z tego lądu: Weź |colorless| "
+"za każdy znacznik magazynu usunięty w ten sposób."
 
 #: ../../UMA.rst:1376
 msgid ""

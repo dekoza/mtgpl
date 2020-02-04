@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 23:49+0000\n"
+"PO-Revision-Date: 2020-02-04 00:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m11/"
 "pl/>\n"
@@ -385,8 +385,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
-"samo życia.)"
+"Więź życia (Obrażania zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo żyć.)"
 
 #: ../../M11.rst:143
 msgid ""
@@ -1835,7 +1835,7 @@ msgstr ""
 
 #: ../../M11.rst:665
 msgid "|mana_r|: Fiery Hellhound gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M11.rst:670
 msgid ""
@@ -2309,7 +2309,7 @@ msgstr ""
 
 #: ../../M11.rst:837
 msgid "Other Elf creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../M11.rst:839
 msgid "|tap|: Add |mana_g| for each Elf you control."
@@ -2356,6 +2356,8 @@ msgid ""
 "Gaea's Revenge can't be the target of nongreen spells or abilities from "
 "nongreen sources."
 msgstr ""
+"Ten stwór nie może być celem niezielonych czarów oraz zdolności z "
+"niezielonych źródeł."
 
 #: ../../M11.rst:864
 msgid ""

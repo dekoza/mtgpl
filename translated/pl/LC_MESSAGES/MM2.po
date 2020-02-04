@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2020-02-04 00:02+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mm2/"
 "pl/>\n"
 "Language: pl\n"
@@ -1608,8 +1608,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
-"samo życia.)"
+"Więź życia (Obrażania zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo żyć.)"
 
 #: ../../MM2.rst:592
 msgid ""
@@ -1936,6 +1936,8 @@ msgid ""
 "Destroy target artifact. Smash to Smithereens deals 3 damage to that "
 "artifact's controller."
 msgstr ""
+"Zniszcz wskazany artefakt. Ten czar zadaje władcy owego artefaktu 3 "
+"obrażenia."
 
 #: ../../MM2.rst:710
 msgid ""
@@ -3410,7 +3412,7 @@ msgstr ""
 
 #: ../../MM2.rst:1259
 msgid "When Runed Servitor dies, each player draws a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy gracz dobiera kartę."
 
 #: ../../MM2.rst:1264
 msgid ""

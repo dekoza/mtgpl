@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-03 00:45+0000\n"
+"PO-Revision-Date: 2020-02-04 00:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m13/"
 "pl/>\n"
@@ -58,8 +58,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
-"samo życia.)"
+"Więź życia (Obrażania zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo żyć.)"
 
 #: ../../M13.rst:22
 msgid ""
@@ -430,7 +430,7 @@ msgstr ""
 
 #: ../../M13.rst:157
 msgid "If you would gain life, you gain twice that much life instead."
-msgstr ""
+msgstr "Jeśli miałbyś zyskać życia, zamiast tego zyskaj dwukrotnie tyle żyć."
 
 #: ../../M13.rst:162
 msgid ""
@@ -1693,6 +1693,8 @@ msgid ""
 "Chandra's Fury deals 4 damage to target player or planeswalker and 1 damage "
 "to each creature that player or that planeswalker's controller controls."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi 4 obrażenia oraz po 1 "
+"obrażeniu każdemu stworowi pod władaniem tego samego gracza."
 
 #: ../../M13.rst:628
 msgid ""
@@ -2240,7 +2242,7 @@ msgstr ""
 
 #: ../../M13.rst:831
 msgid "Other Elf creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../M13.rst:833
 msgid "|tap|: Add |mana_g| for each Elf you control."
@@ -2255,7 +2257,7 @@ msgstr ""
 
 #: ../../M13.rst:837
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../M13.rst:842
 msgid ""
@@ -2609,6 +2611,8 @@ msgid ""
 "Timberpack Wolf gets +1/+1 for each other creature you control named "
 "Timberpack Wolf."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdego innego stwora pod twoim władaniem o tej "
+"samej nazwie."
 
 #: ../../M13.rst:964
 msgid ""
@@ -2651,6 +2655,8 @@ msgid ""
 "When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"2/+2."
 
 #: ../../M13.rst:986
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:34+0000\n"
+"PO-Revision-Date: 2020-02-04 00:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/7ed/"
 "pl/>\n"
@@ -1907,6 +1907,8 @@ msgid ""
 "Revenant's power and toughness are each equal to the number of creature "
 "cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart stworów w twoim "
+"cmentarzu."
 
 #: ../../7ED.rst:724
 msgid ""
@@ -2443,7 +2445,7 @@ msgstr ""
 
 #: ../../7ED.rst:917
 msgid "Attacking creatures you control get +1/+0."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0."
 
 #: ../../7ED.rst:922
 msgid ""
@@ -3089,6 +3091,7 @@ msgstr ""
 #: ../../7ED.rst:1159
 msgid "Put target card from your graveyard on top of your library."
 msgstr ""
+"Umieść wskazaną kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../7ED.rst:1162
 msgid ""
@@ -3516,11 +3519,11 @@ msgstr ""
 
 #: ../../7ED.rst:1309
 msgid "At the beginning of your draw step, draw an additional card."
-msgstr ""
+msgstr "Na początku twojego kroku dobierania, dobierz dodatkową kartę."
 
 #: ../../7ED.rst:1311
 msgid "At the beginning of your end step, discard your hand."
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, odrzuć twoją rękę."
 
 #: ../../7ED.rst:1316
 msgid ""

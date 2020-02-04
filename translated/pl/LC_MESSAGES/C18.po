@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-03 00:45+0000\n"
+"PO-Revision-Date: 2020-02-04 00:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c18/"
 "pl/>\n"
@@ -2271,12 +2271,16 @@ msgid ""
 "When Thopter Engineer enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../C18.rst:769
 msgid ""
 "Artifact creatures you control have haste. (They can attack and |tap| as "
 "soon as they come under your control.)"
 msgstr ""
+"Artefaktyczne stwory pod twoim władaniem mają pośpiech. (Mogą atakować i "
+"|tap| zaraz po wejściu pod twoje władanie.)"
 
 #: ../../C18.rst:776
 msgid ""
@@ -2693,7 +2697,7 @@ msgstr "Rzucanie uroków kosztuje cię o |mana_1| mniej."
 
 #: ../../C18.rst:913
 msgid "Whenever you cast an enchantment spell, you gain 1 life."
-msgstr ""
+msgstr "Ilekroć rzucisz urok, zyskaj 1 życie."
 
 #: ../../C18.rst:922
 msgid ""
@@ -3382,7 +3386,7 @@ msgstr ""
 
 #: ../../C18.rst:1159
 msgid "Zendikar Incarnate's power is equal to the number of lands you control."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie lądów pod twoim władaniem."
 
 #: ../../C18.rst:1164
 msgid ""
@@ -3431,7 +3435,7 @@ msgstr ""
 
 #: ../../C18.rst:1177
 msgid "Other artifact creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne artefaktyczne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../C18.rst:1184
 msgid ""
@@ -4183,6 +4187,8 @@ msgid ""
 "|mana_5|, |tap|, Sacrifice Foundry of the Consuls: Create two 1/1 colorless "
 "Thopter artifact creature tokens with flying."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten ląd: Stwórz dwa żetony bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../C18.rst:1482
 msgid ""

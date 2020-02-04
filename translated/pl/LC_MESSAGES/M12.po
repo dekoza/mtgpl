@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-28 18:15+0000\n"
+"PO-Revision-Date: 2020-02-04 00:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m12/"
 "pl/>\n"
@@ -1577,8 +1577,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
-"samo życia.)"
+"Więź życia (Obrażania zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo żyć.)"
 
 #: ../../M12.rst:578
 msgid ""
@@ -1784,7 +1784,7 @@ msgstr ""
 
 #: ../../M12.rst:645
 msgid "|mana_r|: Fiery Hellhound gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M12.rst:652
 msgid ""
@@ -2305,7 +2305,7 @@ msgstr ""
 
 #: ../../M12.rst:849
 msgid "Other Elf creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../M12.rst:851
 msgid "|tap|: Add |mana_g| for each Elf you control."
@@ -2541,6 +2541,7 @@ msgstr ""
 #: ../../M12.rst:945
 msgid "Put target card from your graveyard on top of your library."
 msgstr ""
+"Umieść wskazaną kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../M12.rst:952
 msgid ""
