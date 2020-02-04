@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2020-02-04
+   * Origins - 100%
+
 2020-01-30
    * Nowy dodatek: Commander 2019 - 50%
    * Wyzwanie "Pokonaj Bóstwo" - 100%
