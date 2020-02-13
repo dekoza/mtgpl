@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-04 00:02+0000\n"
+"PO-Revision-Date: 2020-02-13 08:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/kld/"
 "pl/>\n"
@@ -743,23 +743,22 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:241
-#, fuzzy
-#| msgid ""
-#| "Whenever Aetherstorm Roc or another creature enters the battlefield under "
-#| "your control, you get {E} (an energy counter)."
 msgid ""
 "Whenever an artifact or Artificer enters the battlefield under your control, "
 "you may pay |mana_1|. If you do, you get |energy|\\ |energy| (two energy "
 "counters)."
 msgstr ""
-"Ilekroć ta karta lub inny stwór wejdzie na pole walki pod twoim władaniem, "
-"dostajesz |energy| (znacznik energii)."
+"Ilekroć artefakt lub Wynalazca wejdzie na pole walki pod twoim władaniem, "
+"możesz zapłacić |mana_1|. Jeśli tak zrobisz, zyskaj |energy|\\ |energy| (dwa "
+"znaczniki energii)."
 
 #: ../../KLD.rst:243
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|, "
 "Sacrifice Era of Innovation: Draw three cards."
 msgstr ""
+"Zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|, "
+"poświęć ten urok: Dobierz trzy karty."
 
 #: ../../KLD.rst:250
 msgid ""
@@ -773,6 +772,8 @@ msgid ""
 "When Experimental Aviator enters the battlefield, create two 1/1 colorless "
 "Thopter artifact creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../KLD.rst:254
 msgid ""
@@ -783,7 +784,7 @@ msgstr ""
 
 #: ../../KLD.rst:253
 msgid "Counter target spell. Draw a card, then discard a card."
-msgstr ""
+msgstr "Skontruj wskazany czar. Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../KLD.rst:260
 msgid ""
@@ -799,11 +800,8 @@ msgstr ""
 "władaniem."
 
 #: ../../KLD.rst:259
-#, fuzzy
 msgid "|mana_5|\\ |mana_u|: Gearseeker Serpent can't be blocked this turn."
-msgstr ""
-"|mana_2|\\ |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
-"turze blokowany przez stwory o sile 2 lub mniejszej."
+msgstr "|mana_5|\\ |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../KLD.rst:264
 msgid ""
@@ -817,6 +815,8 @@ msgid ""
 "Scry 2, then draw two cards. You get |energy|\\ |energy| (two energy "
 "counters)."
 msgstr ""
+"Wróż 2, następnie dobierz dwie karty. Zyskaj |energy|\\ |energy| (dwa "
+"znaczniki energii)."
 
 #: ../../KLD.rst:270
 msgid ""
@@ -831,6 +831,10 @@ msgid ""
 "your library. You may reveal an artifact card from among them and put it "
 "into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją "
+"w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
+"kolejności."
 
 #: ../../KLD.rst:278
 msgid ""
@@ -844,16 +848,12 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../KLD.rst:275
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Hightide Hermit enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy|\\ |energy| (four energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole walki, zyskaj |energy|\\ |energy|\\ |energy|"
+"\\ |energy| (cztery znaczniki energii)."
 
 #: ../../KLD.rst:277
 msgid ""
