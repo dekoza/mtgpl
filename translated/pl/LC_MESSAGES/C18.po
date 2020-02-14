@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-13 08:46+0000\n"
+"PO-Revision-Date: 2020-02-14 23:16+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c18/"
 "pl/>\n"
@@ -2113,11 +2113,11 @@ msgstr ""
 
 #: ../../C18.rst:711
 msgid "Target creature gets +1/+0 and gains deathtouch until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 oraz dotyk śmierci."
 
 #: ../../C18.rst:713
 msgid "Each opponent loses 1 life and you gain 1 life."
-msgstr ""
+msgstr "Każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../C18.rst:720
 msgid ""
@@ -3552,7 +3552,7 @@ msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../C18.rst:1217
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../C18.rst:1222
 msgid ""
@@ -4486,13 +4486,15 @@ msgstr ""
 
 #: ../../C18.rst:1597
 msgid "Mortuary Mire enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C18.rst:1599
 msgid ""
 "When Mortuary Mire enters the battlefield, you may put target creature card "
 "from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, możesz umieścić wskazaną kartę stwora z "
+"twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../C18.rst:1610
 msgid ""

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-13 08:46+0000\n"
+"PO-Revision-Date: 2020-02-14 23:16+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -2017,6 +2017,8 @@ msgid ""
 "Converge — You draw X cards and you lose X life, where X is the number of "
 "colors of mana spent to cast Painful Truths."
 msgstr ""
+"Komasowanie — Dobierz X kart i strać X żyć, gdzie X jest liczbą kolorów many "
+"użytych do rzucenia tego czaru."
 
 #: ../../C17.rst:686
 msgid ""
@@ -3610,7 +3612,7 @@ msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../C17.rst:1251
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../C17.rst:1260
 msgid ""

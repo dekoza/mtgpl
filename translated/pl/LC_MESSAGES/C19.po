@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-04 00:02+0000\n"
+"PO-Revision-Date: 2020-02-14 23:16+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -1598,7 +1598,7 @@ msgstr ""
 
 #: ../../C19.rst:739
 msgid "+1: You draw a card and you lose 1 life."
-msgstr ""
+msgstr "+1: Dobierz kartę i strać 1 życie."
 
 #: ../../C19.rst:741
 msgid "−3: Destroy target creature."
@@ -1607,6 +1607,8 @@ msgstr "–3: Zniszcz wskazanego stwora."
 #: ../../C19.rst:743
 msgid "−8: Target opponent gets an emblem with \"Whenever a player draws a card, you lose 2 life.\""
 msgstr ""
+"–8: Wskazany przeciwnik dostaje emblemat o treści \"Ilekroć gracz dobierze "
+"kartę, strać 2 życia.\""
 
 #: ../../C19.rst:752
 msgid ":mtgtip:`Overseer of the Damned<https://img.scryfall.com/cards/border_crop/front/0/5/052908a3-9159-40df-8e06-1827da62ee11.jpg?1568004271|https://scryfall.com/card/c19/125/overseer-of-the-damned?utm_source=api>`"
@@ -1797,6 +1799,8 @@ msgstr ""
 #: ../../C19.rst:831
 msgid "At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej sześcioma "
+"lądami, stwórz żeton czerwonego stwora Smok 5/5 z lataniem."
 
 #: ../../C19.rst:838
 msgid ":mtgtip:`Faithless Looting<https://img.scryfall.com/cards/border_crop/front/d/b/dbf7f017-17a4-403e-8a8c-c76e36d55d9f.jpg?1570653056|https://scryfall.com/card/c19/140/faithless-looting?utm_source=api>`"
@@ -2692,7 +2696,7 @@ msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../C19.rst:1265
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../C19.rst:1272
 msgid ":mtgtip:`Izzet Locket<https://img.scryfall.com/cards/border_crop/front/a/3/a32ecc71-b924-4414-94ee-c6cb0ba752e5.jpg?1568004915|https://scryfall.com/card/c19/215/izzet-locket?utm_source=api>`"
@@ -2969,6 +2973,8 @@ msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 #: ../../C19.rst:1403
 msgid "Cinder Glade enters the battlefield tapped unless you control two or more basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../C19.rst:1408
 msgid ":mtgtip:`Command Tower<https://img.scryfall.com/cards/border_crop/front/c/3/c328d8ac-97df-4240-ac38-7cab363c5da1.jpg?1568005082|https://scryfall.com/card/c19/237/command-tower?utm_source=api>`"
@@ -3241,11 +3247,13 @@ msgstr ""
 
 #: ../../C19.rst:1557
 msgid "Mortuary Mire enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C19.rst:1559
 msgid "When Mortuary Mire enters the battlefield, you may put target creature card from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, możesz umieścić wskazaną kartę stwora z "
+"twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../C19.rst:1570
 msgid ":mtgtip:`Myriad Landscape<https://img.scryfall.com/cards/border_crop/front/3/a/3a1c15b9-8039-4de3-a060-d1c38f9e5518.jpg?1568005261|https://scryfall.com/card/c19/261/myriad-landscape?utm_source=api>`"
@@ -3302,6 +3310,8 @@ msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 #: ../../C19.rst:1593
 msgid "Prairie Stream enters the battlefield tapped unless you control two or more basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../C19.rst:1602
 msgid ":mtgtip:`Rakdos Carnarium<https://img.scryfall.com/cards/border_crop/front/5/6/56a768cc-4a01-4e04-8e84-deddc801f1f7.jpg?1568005313|https://scryfall.com/card/c19/266/rakdos-carnarium?utm_source=api>`"
@@ -3388,6 +3398,9 @@ msgstr ""
 #: ../../C19.rst:1647
 msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Wydaj tę manę tylko na rzucenie "
+"bezkolorowego czaru. Możesz aktywować tę zdolność tylko jeśli władasz co "
+"najmniej siedmioma lądami."
 
 #: ../../C19.rst:1656
 msgid ":mtgtip:`Simic Growth Chamber<https://img.scryfall.com/cards/border_crop/front/4/3/43ebad71-4740-4da4-a6aa-7f6fa1a2858a.jpg?1568005386|https://scryfall.com/card/c19/274/simic-growth-chamber?utm_source=api>`"
@@ -3446,6 +3459,8 @@ msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 #: ../../C19.rst:1677
 msgid "Sunken Hollow enters the battlefield tapped unless you control two or more basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../C19.rst:1686
 msgid ":mtgtip:`Swiftwater Cliffs<https://img.scryfall.com/cards/border_crop/front/2/a/2a6f4398-51f3-4f73-802a-9528e0c86061.jpg?1568005422|https://scryfall.com/card/c19/279/swiftwater-cliffs?utm_source=api>`"
