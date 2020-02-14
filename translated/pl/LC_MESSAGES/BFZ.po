@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-13 08:46+0000\n"
+"PO-Revision-Date: 2020-02-14 23:16+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bfz/"
 "pl/>\n"
@@ -1369,6 +1369,8 @@ msgid ""
 "Converge — Creatures your opponents control get -X/-0 until end of turn, "
 "where X is the number of colors of mana spent to cast Roilmage's Trick."
 msgstr ""
+"Komasowanie — Stwory pod władaniem twoich przeciwników dostają do końca tury "
+"-X/-0, gdzie X jest liczbą kolorów many użytych do rzucenia tego czaru."
 
 #: ../../BFZ.rst:445 ../../BFZ.rst:507
 msgid "Draw a card."
@@ -1421,7 +1423,7 @@ msgstr ""
 
 #: ../../BFZ.rst:463
 msgid "Enchanted creature gets -6/-0 and loses flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -6/-0 i traci latanie."
 
 #: ../../BFZ.rst:468
 msgid ""
@@ -1435,6 +1437,8 @@ msgid ""
 "Scry X, where X is the highest converted mana cost among permanents you "
 "control, then draw three cards."
 msgstr ""
+"Wróż X, gdzie X jest największym skróconym kosztem many spośród permanentów "
+"pod twoim władaniem, następnie dobierz trzy karty."
 
 #: ../../BFZ.rst:474
 msgid ""
@@ -1464,6 +1468,10 @@ msgid ""
 "the top two cards of your library, then put any number of them on the bottom "
 "of your library and the rest on top in any order.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wróż 2. (Spójrz na dwie "
+"wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę na "
+"spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../BFZ.rst:486
 msgid ""
@@ -1495,6 +1503,8 @@ msgid ""
 "When Dominator Drone enters the battlefield, if you control another "
 "colorless creature, each opponent loses 2 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym bezkolorowym "
+"stworem, każdy przeciwnik traci 2 życia."
 
 #: ../../BFZ.rst:508
 msgid ""
@@ -1509,6 +1519,9 @@ msgid ""
 "colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: "
 "Add |colorless|.\""
 msgstr ""
+"Wskazany przeciwnik wygania kartę ze swojego cmentarza. Stwórz żeton "
+"bezkolorowego stwora Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź "
+"|colorless|.\""
 
 #: ../../BFZ.rst:514
 msgid ""
@@ -1519,7 +1532,7 @@ msgstr ""
 
 #: ../../BFZ.rst:513
 msgid "Exile target creature and target land."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora i wskazany ląd."
 
 #: ../../BFZ.rst:520
 msgid ""
@@ -1547,7 +1560,7 @@ msgstr ""
 
 #: ../../BFZ.rst:527
 msgid "Whenever Silent Skimmer attacks, defending player loses 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór atakuje, broniący się gracz traci 2 życia."
 
 #: ../../BFZ.rst:536
 msgid ""
@@ -1558,13 +1571,15 @@ msgstr ""
 
 #: ../../BFZ.rst:533
 msgid "Skitterskin can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../BFZ.rst:535
 msgid ""
 "|mana_1|\\ |mana_b|: Regenerate Skitterskin. Activate this ability only if "
 "you control another colorless creature."
 msgstr ""
+"|mana_1|\\ |mana_b|: Zregeneruj tego stwora. Możesz użyć tej zdolności tylko "
+"jeśli władasz innym bezkolorowym stworem."
 
 #: ../../BFZ.rst:544
 msgid ""
@@ -1575,7 +1590,7 @@ msgstr ""
 
 #: ../../BFZ.rst:543
 msgid "|mana_2|: Sludge Crawler gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../BFZ.rst:554
 msgid ""
@@ -1590,7 +1605,7 @@ msgstr "Na początku twojego kroku utrzymania, poświęć stwora."
 
 #: ../../BFZ.rst:553
 msgid "Whenever you sacrifice a creature, draw a card."
-msgstr ""
+msgstr "Ilekroć poświęcisz stwora, dobierz kartę."
 
 #: ../../BFZ.rst:560
 msgid ""
@@ -1604,6 +1619,8 @@ msgid ""
 "Creatures you control get +2/+0 until end of turn. Colorless creatures you "
 "control also gain first strike until end of turn."
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +2/+0. Bezkolorowe stwory "
+"pod twoim władaniem dodatkowo zyskują pierwszy cios do końca tury."
 
 #: ../../BFZ.rst:566
 msgid ""
@@ -1617,6 +1634,8 @@ msgid ""
 "Target player reveals their hand. You choose a card from it with converted "
 "mana cost 3 or greater and exile that card."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej kartę o skróconym koszcie "
+"many 3 lub większym i wygnaj ją."
 
 #: ../../BFZ.rst:572
 msgid ""
@@ -1680,6 +1699,8 @@ msgid ""
 "When Carrier Thrall dies, create a 1/1 colorless Eldrazi Scion creature "
 "token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego stwora Pomiot Eldrazi 1/1 "
+"mającego \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:598
 msgid ""
@@ -1701,7 +1722,7 @@ msgstr ""
 
 #: ../../BFZ.rst:601
 msgid "Target creature gets -5/-5 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -5/-5."
 
 #: ../../BFZ.rst:608
 msgid ""
@@ -1719,6 +1740,8 @@ msgid ""
 "Whenever Drana, Liberator of Malakir deals combat damage to a player, put a "
 "+1/+1 counter on each attacking creature you control."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść znacznik +1/+1 na "
+"każdym atakującym stworze pod twoim władaniem."
 
 #: ../../BFZ.rst:612
 msgid ""
@@ -1782,7 +1805,7 @@ msgstr ""
 
 #: ../../BFZ.rst:627
 msgid "|mana_4|\\ |mana_b|: Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_4|\\ |mana_b|: Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../BFZ.rst:632
 msgid ""
@@ -1809,7 +1832,7 @@ msgstr ""
 #: ../../BFZ.rst:635
 msgid ""
 "Whenever you gain life, Kalastria Nightwatch gains flying until end of turn."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, ten stwór zyskuje latanie do końca tury."
 
 #: ../../BFZ.rst:642
 msgid ""
@@ -1824,7 +1847,7 @@ msgstr "Latanie, dotyk śmierci"
 
 #: ../../BFZ.rst:641
 msgid "Whenever you gain life, Malakir Familiar gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, ten stwór dostaje do końca tury +1/+1."
 
 #: ../../BFZ.rst:648
 msgid ""
@@ -1860,6 +1883,8 @@ msgid ""
 "Whenever you gain life, Nirkana Assassin gains deathtouch until end of turn. "
 "(Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"Ilekroć zyskasz życia, ten stwór zyskuje dotyk śmierci do końca tury. (Stwór "
+"otrzymujący od niego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../BFZ.rst:660
 msgid ""
@@ -1870,7 +1895,7 @@ msgstr ""
 
 #: ../../BFZ.rst:655
 msgid "+1: You draw a card and you lose 1 life."
-msgstr ""
+msgstr "+1: Dobierz kartę i strać 1 życie."
 
 #: ../../BFZ.rst:657
 msgid "−3: Destroy target creature."
@@ -1881,6 +1906,8 @@ msgid ""
 "−8: Target opponent gets an emblem with \"Whenever a player draws a card, "
 "you lose 2 life.\""
 msgstr ""
+"–8: Wskazany przeciwnik dostaje emblemat o treści \"Ilekroć gracz dobierze "
+"kartę, strać 2 życia.\""
 
 #: ../../BFZ.rst:664
 msgid ""
@@ -1894,6 +1921,8 @@ msgid ""
 "Converge — You draw X cards and you lose X life, where X is the number of "
 "colors of mana spent to cast Painful Truths."
 msgstr ""
+"Komasowanie — Dobierz X kart i strać X żyć, gdzie X jest liczbą kolorów many "
+"użytych do rzucenia tego czaru."
 
 #: ../../BFZ.rst:672
 msgid ""
@@ -1904,11 +1933,11 @@ msgstr ""
 
 #: ../../BFZ.rst:669
 msgid "Target creature gets +1/+0 and gains deathtouch until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 oraz dotyk śmierci."
 
 #: ../../BFZ.rst:671
 msgid "Each opponent loses 1 life and you gain 1 life."
-msgstr ""
+msgstr "Każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../BFZ.rst:678
 msgid ""
@@ -1919,7 +1948,7 @@ msgstr ""
 
 #: ../../BFZ.rst:675
 msgid "All creatures get -2/-2 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają do końca tury -2/-2."
 
 #: ../../BFZ.rst:677
 msgid ""
@@ -1966,7 +1995,7 @@ msgstr ""
 #: ../../BFZ.rst:687
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice a creature: You gain 1 life and draw a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć stwora: Zyskaj 1 życie i dobierz kartę."
 
 #: ../../BFZ.rst:692
 msgid ""
@@ -1980,6 +2009,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on "
 "Voracious Null. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć innego stwora: Umieść dwa znaczniki +1/+1 na "
+"tym stworze. Używaj jako obrzęd."
 
 #: ../../BFZ.rst:696
 msgid ""
@@ -2008,6 +2039,8 @@ msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice another colorless creature: Barrage Tyrant "
 "deals damage equal to the sacrificed creature's power to any target."
 msgstr ""
+"|mana_2|\\ |mana_r|, poświęć innego bezkolorowego stwora: Ten stwór zadaje "
+"wskazanemu celowi obrażenia równe sile poświęconego stwora."
 
 #: ../../BFZ.rst:708
 msgid ""
@@ -2022,6 +2055,9 @@ msgid ""
 "library for any number of cards with the same name as that land and exile "
 "them. Then that player shuffles their library."
 msgstr ""
+"Wygnaj wskazany niebazowy ląd. Wyszukaj w cmentarzu, ręce i bibliotece jego "
+"właściciela dowolną liczbę kart o tej samej nazwie i wygnaj je. Następnie ów "
+"gracz tasuje swoją bibliotekę."
 
 #: ../../BFZ.rst:714
 msgid ""
@@ -2035,6 +2071,7 @@ msgid ""
 "Whenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end "
 "of turn."
 msgstr ""
+"Ilekroć rzucisz bezkolorowy czar, ten stwór dostaje do końca tury +1/+0."
 
 #: ../../BFZ.rst:720
 msgid ""
@@ -2048,6 +2085,8 @@ msgid ""
 "Whenever you cast a colorless spell, Molten Nursery deals 1 damage to any "
 "target."
 msgstr ""
+"Ilekroć rzucisz bezkolorowy czar, ten stwór zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../BFZ.rst:728
 msgid ""
@@ -2058,11 +2097,11 @@ msgstr ""
 
 #: ../../BFZ.rst:725
 msgid "|tap|: Nettle Drone deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../BFZ.rst:727
 msgid "Whenever you cast a colorless spell, untap Nettle Drone."
-msgstr ""
+msgstr "Ilekroć rzucisz bezkolorowy czar, odkręć tego stwora."
 
 #: ../../BFZ.rst:736
 msgid ""
@@ -2081,7 +2120,7 @@ msgstr ""
 
 #: ../../BFZ.rst:735
 msgid "Processor Assault deals 5 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../BFZ.rst:742
 msgid ""
@@ -2096,6 +2135,9 @@ msgid ""
 "target creature, and 4 damage to a third target creature. If a creature "
 "dealt damage this way would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 2 obrażenia, 3 obrażenia innemu "
+"wskazanemu stworowi i 4 obrażenia trzeciemu wskazanemu stworowi. Jeśli stwór "
+"uszkodzony w ten sposób miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../BFZ.rst:748
 msgid ""
@@ -2109,6 +2151,8 @@ msgid ""
 "Touch of the Void deals 3 damage to any target. If a creature dealt damage "
 "this way would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Jeśli stwór uszkodzony w ten "
+"sposób miały umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../BFZ.rst:754
 msgid ""
@@ -2144,6 +2188,7 @@ msgid ""
 "Vile Aggregate's power is equal to the number of colorless creatures you "
 "control."
 msgstr ""
+"Siła tej karty jest równa liczbie bezkolorowych stworów pod twoim władaniem."
 
 #: ../../BFZ.rst:778
 msgid ""
@@ -2231,6 +2276,8 @@ msgstr ""
 #: ../../BFZ.rst:795
 msgid "Boiling Earth deals 1 damage to each creature your opponents control."
 msgstr ""
+"Ten czar zadaje każdemu stworowi pod władaniem twoich przeciwników po 1 "
+"obrażeniu."
 
 #: ../../BFZ.rst:797
 msgid ""
@@ -2270,6 +2317,8 @@ msgid ""
 "At the beginning of your upkeep, if you control six or more lands, create a "
 "5/5 red Dragon creature token with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej sześcioma "
+"lądami, stwórz żeton czerwonego stwora Smok 5/5 z lataniem."
 
 #: ../../BFZ.rst:810
 msgid ""
@@ -2309,7 +2358,7 @@ msgstr ""
 
 #: ../../BFZ.rst:819
 msgid "|mana_2|\\ |mana_r|: Lavastep Raider gets +2/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../BFZ.rst:826
 msgid ""
@@ -2353,6 +2402,8 @@ msgid ""
 "Outnumber deals damage to target creature equal to the number of creatures "
 "you control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi tyle obrażeń, ile masz stworów pod "
+"władaniem."
 
 #: ../../BFZ.rst:838
 msgid ""
@@ -2366,6 +2417,8 @@ msgid ""
 "Converge — Radiant Flames deals X damage to each creature, where X is the "
 "number of colors of mana spent to cast Radiant Flames."
 msgstr ""
+"Komasowanie — Ten czar zadaje każdemu stworowi po X obrażeń, gdzie X jest "
+"liczbą kolorów many użytych do rzucenia tego czaru."
 
 #: ../../BFZ.rst:842
 msgid ""
@@ -2390,11 +2443,11 @@ msgstr ""
 
 #: ../../BFZ.rst:847
 msgid "Target creature gets +2/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+0."
 
 #: ../../BFZ.rst:849
 msgid "Target creature can't block this turn."
-msgstr ""
+msgstr "Wskazany stwór nie może blokować w tej turze."
 
 #: ../../BFZ.rst:854
 msgid ""
@@ -2429,7 +2482,7 @@ msgstr ""
 msgid ""
 "Stonefury deals damage to target creature equal to the number of lands you "
 "control."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi tyle obrażeń, iloma lądami władasz."
 
 #: ../../BFZ.rst:866
 msgid ""
@@ -2466,7 +2519,7 @@ msgstr ""
 
 #: ../../BFZ.rst:873
 msgid "|mana_8|: Valakut Invoker deals 3 damage to any target."
-msgstr ""
+msgstr "|mana_8|: Ten stwór zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../BFZ.rst:878
 msgid ""
@@ -2507,6 +2560,9 @@ msgid ""
 "Grinder, copy that spell for each other creature you control that the spell "
 "could target. Each copy targets a different one of those creatures."
 msgstr ""
+"Ilekroć rzucisz sztuczkę lub obrzęd wskazujący tylko tego stwora, skopiuj ów "
+"czar tylekroć, ile innych stworów pod twoim władaniem mógłby ów czar "
+"wskazywać. Każda kopia wskazuje innego z owych stworów."
 
 #: ../../BFZ.rst:892
 msgid ""
@@ -2520,6 +2576,8 @@ msgid ""
 "When Blisterpod dies, create a 1/1 colorless Eldrazi Scion creature token. "
 "It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego stwora Pomiot Eldrazi 1/1 "
+"mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:898
 msgid ""
@@ -2534,6 +2592,8 @@ msgid ""
 "Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz trzy żetony bezkolorowego "
+"stwora Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:904
 msgid ""
@@ -2547,6 +2607,8 @@ msgid ""
 "Create two 1/1 colorless Eldrazi Scion creature tokens. They have "
 "\"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Stwórz dwa żetony bezkolorowego stwora Pomiot Eldrazi 1/1 mające \"Poświęć "
+"tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:910
 msgid ""
@@ -2561,6 +2623,8 @@ msgid ""
 "Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
+"stwora Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:918
 msgid ""
@@ -2574,15 +2638,17 @@ msgid ""
 "At the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion "
 "creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz żeton bezkolorowego stwora "
+"Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:917
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice From Beyond: Search your library for an "
 "Eldrazi card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"|mana_1|\\ |mana_g|, poświęć ten urok: Wyszukaj w twojej bibliotece kartę "
+"Eldrazi, ujawnij ją, umieść ją w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../BFZ.rst:924
 msgid ""
@@ -2596,6 +2662,9 @@ msgid ""
 "Target creature you control fights target creature an opponent controls. If "
 "the creature an opponent controls would die this turn, exile it instead."
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem pod władaniem "
+"przeciwnika. Jeśli ów stwór pod władaniem przeciwnika miałby umrzeć w tej "
+"turze, zamiast tego wygnaj go."
 
 #: ../../BFZ.rst:930
 msgid ""
@@ -2630,6 +2699,8 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Użyj tę manę tylko do rzucenia czaru "
+"stwora."
 
 #: ../../BFZ.rst:938
 msgid ""
@@ -2647,7 +2718,7 @@ msgstr ""
 
 #: ../../BFZ.rst:943
 msgid "Put two +1/+1 counters on target permanent."
-msgstr ""
+msgstr "Umieść dwa znaczniki +1/+1 na wskazanym permanencie."
 
 #: ../../BFZ.rst:945
 msgid ""
@@ -2683,12 +2754,16 @@ msgid ""
 "When Greenwarden of Murasa enters the battlefield, you may return target "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../BFZ.rst:955
 msgid ""
 "When Greenwarden of Murasa dies, you may exile it. If you do, return target "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, możesz go wygnać. Jeśli tak zrobisz, przywróć "
+"wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../BFZ.rst:960
 msgid ""
@@ -2703,6 +2778,9 @@ msgid ""
 "colors of mana spent to cast Infuse with the Elements. That creature gains "
 "trample until end of turn."
 msgstr ""
+"Komasowanie — Umieść X znaczników +1/+1 na wskazanym stworze, gdzie X jest "
+"liczbą kolorów many użytych do rzucenia tego czaru. Ów stwór zyskuje "
+"tratowanie do końca tury."
 
 #: ../../BFZ.rst:966
 msgid ""
@@ -2759,7 +2837,7 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
-"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją przekręconą na "
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:982
@@ -2774,6 +2852,9 @@ msgid ""
 "Search your library for up to three basic land cards, put them onto the "
 "battlefield tapped, then shuffle your library. You gain 7 life."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej trzy karty bazowych lądów, umieść "
+"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę. Zyskaj 7 "
+"żyć."
 
 #: ../../BFZ.rst:988
 msgid ""
@@ -2802,7 +2883,7 @@ msgstr ""
 #: ../../BFZ.rst:991
 msgid ""
 "|mana_8|: Oran-Rief Invoker gets +5/+5 and gains trample until end of turn."
-msgstr ""
+msgstr "|mana_8|: Ten stwór dostaje do końca tury +5/+5 oraz tratowanie."
 
 #: ../../BFZ.rst:998
 msgid ""
@@ -2839,7 +2920,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1005
 msgid "Destroy target artifact, enchantment, or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt, urok lub ląd."
 
 #: ../../BFZ.rst:1014
 msgid ""
@@ -2854,7 +2935,7 @@ msgstr "Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../BFZ.rst:1013
 msgid "You gain 2 life."
-msgstr "Zyskujesz 2 życia."
+msgstr "Zyskaj 2 życia."
 
 #: ../../BFZ.rst:1018
 msgid ""
@@ -2868,6 +2949,8 @@ msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Rot "
 "Shambler."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../BFZ.rst:1022
 msgid ""
@@ -2898,7 +2981,7 @@ msgid ""
 "bottom of your library in any order."
 msgstr ""
 "Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
-"nich kartę stwora lub lądu i umieścić ja w twojej ręce. Umieść pozostałe w "
+"nich kartę stwora lub lądu i umieścić ją w twojej ręce. Umieść pozostałe w "
 "dowolnej kolejności na spodzie twojej biblioteki."
 
 #: ../../BFZ.rst:1030
@@ -2928,6 +3011,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. You may put a land card from "
 "your hand onto the battlefield."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Możesz umieścić kartę lądu z "
+"twojej ręki na polu walki."
 
 #: ../../BFZ.rst:1038
 msgid ""
@@ -2941,6 +3026,8 @@ msgid ""
 "Search your library for a land card, reveal it, and put it into your hand. "
 "Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i umieść w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:1042
 msgid ""
@@ -2969,6 +3056,8 @@ msgid ""
 "Converge — Tajuru Stalwart enters the battlefield with a +1/+1 counter on it "
 "for each color of mana spent to cast it."
 msgstr ""
+"Komasowanie — Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, "
+"ile kolorów many użyto do jego rzucenia."
 
 #: ../../BFZ.rst:1050
 msgid ""
@@ -3013,6 +3102,8 @@ msgid ""
 "counter on it, prevent that damage and remove a +1/+1 counter from "
 "Undergrowth Champion."
 msgstr ""
+"Jeśli obrażenia miałyby zostać zadane temu stworowi, gdy ma on znacznik +1/+"
+"1, zażegnaj owe obrażenia i usuń znacznik +1/+1 z tego stwora."
 
 #: ../../BFZ.rst:1059
 msgid ""
@@ -3038,6 +3129,8 @@ msgid ""
 "Converge — Woodland Wanderer enters the battlefield with a +1/+1 counter on "
 "it for each color of mana spent to cast it."
 msgstr ""
+"Komasowanie — Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, "
+"ile kolorów mano użyto do jego rzucenia."
 
 #: ../../BFZ.rst:1074
 msgid ""
@@ -3051,12 +3144,16 @@ msgid ""
 "When Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi "
 "Scion creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego stwora "
+"Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:1073
 msgid ""
 "|mana_b|\\ |mana_g|, Sacrifice a creature: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
+"|mana_b|\\ |mana_g|, poświęć stwora: Wskazany stwór dostaje do końca tury -2/"
+"-2."
 
 #: ../../BFZ.rst:1084
 msgid ""
@@ -3071,13 +3168,15 @@ msgstr "Wybierz jedno lub oba —"
 
 #: ../../BFZ.rst:1081
 msgid "Return target spell or creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany czar lub stwora do ręki właściciela."
 
 #: ../../BFZ.rst:1083
 msgid ""
 "Brutal Expulsion deals 2 damage to target creature or planeswalker. If that "
 "creature or planeswalker would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia. Jeśli ów "
+"permanent miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../BFZ.rst:1092
 msgid ""
@@ -3091,12 +3190,16 @@ msgid ""
 "When Catacomb Sifter enters the battlefield, create a 1/1 colorless Eldrazi "
 "Scion creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego stwora "
+"Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:1091
 msgid ""
 "Whenever another creature you control dies, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../BFZ.rst:1100
 msgid ""
@@ -3110,6 +3213,8 @@ msgid ""
 "At the beginning of each end step, if you control no other colorless "
 "creatures, return Dust Stalker to its owner's hand."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli nie masz we władaniu innych "
+"bezkolorowych stworów, przywróć tego stwora do ręki właściciela."
 
 #: ../../BFZ.rst:1110
 msgid ""
@@ -3127,6 +3232,8 @@ msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_b|: Draw a card. Each opponent exiles the top "
 "card of their library."
 msgstr ""
+"|mana_3|\\ |mana_u|\\ |mana_b|: Dobierz kartę. Każdy przeciwnik wygania "
+"wierzchnią kartę swojej biblioteki."
 
 #: ../../BFZ.rst:1116
 msgid ""
@@ -3137,7 +3244,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1115
 msgid "|mana_1|: Target colorless creature gains haste until end of turn."
-msgstr ""
+msgstr "|mana_1|: Wskazany bezkolorowy stwór zyskuje pośpiech do końca tury."
 
 #: ../../BFZ.rst:1122
 msgid ""
@@ -3148,7 +3255,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1121
 msgid "Colorless spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie bezkolorowych czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../BFZ.rst:1128
 msgid ""
@@ -3162,6 +3269,8 @@ msgid ""
 "Whenever a land enters the battlefield under an opponent's control, that "
 "player exiles the top two cards of their library and you draw two cards."
 msgstr ""
+"Ilekroć ląd wejdzie na pole walki pod władaniem przeciwnika, ów gracz "
+"wygania dwie wierzchnie karty swojej biblioteki, a ty dobierz dwie karty."
 
 #: ../../BFZ.rst:1138
 msgid ""
@@ -3196,6 +3305,8 @@ msgid ""
 "Whenever Angelic Captain attacks, it gets +1/+1 until end of turn for each "
 "other attacking Ally."
 msgstr ""
+"Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdego innego "
+"atakującego Sojusznika."
 
 #: ../../BFZ.rst:1148
 msgid ""
@@ -3211,6 +3322,10 @@ msgid ""
 "to cast Bring to Light, exile that card, then shuffle your library. You may "
 "cast that card without paying its mana cost."
 msgstr ""
+"Komasowanie — Wyszukaj w twojej bibliotece kartę stwora, sztuczki lub "
+"obrzędu o skróconym koszcie many nie większym niż liczba kolorów użytych do "
+"rzucenia niniejszego czaru, wygnaj ową kartę, następnie przetasuj twoją "
+"bibliotekę. Możesz rzucić ową kartę bez płacenia jej kosztu many."
 
 #: ../../BFZ.rst:1154
 msgid ""
@@ -3224,6 +3339,8 @@ msgid ""
 "At the beginning of your upkeep, each opponent loses 1 life and you gain 1 "
 "life."
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy przeciwnik traci po 1 życiu, a "
+"ty zyskaj 1 życie."
 
 #: ../../BFZ.rst:1160
 msgid ""
@@ -3267,6 +3384,8 @@ msgstr ""
 #: ../../BFZ.rst:1167
 msgid "+1: Untap up to one target creature and up to one target land."
 msgstr ""
+"+1: Odkręć co najwyżej jednego wskazanego stwora i co najwyżej jeden "
+"wskazany ląd."
 
 #: ../../BFZ.rst:1169
 msgid ""
@@ -3274,6 +3393,9 @@ msgid ""
 "and/or a land card from among them into your hand. Put the rest into your "
 "graveyard."
 msgstr ""
+"–2: Ujawnij cztery wierzchnie karty twojej biblioteki. Możesz umieścić "
+"spośród nich kartę stwora i/lub lądu w twojej ręce. Umieść pozostałe w twoim "
+"cmentarzu."
 
 #: ../../BFZ.rst:1171
 msgid ""
@@ -3281,6 +3403,9 @@ msgid ""
 "under your control, you may have it fight target creature.\" Then create "
 "three 8/8 blue Octopus creature tokens."
 msgstr ""
+"–8: Dostajesz emblemat o treści \"Ilekroć stwór wejdzie na pole walki pod "
+"twoim władaniem, możesz sprawić, że będzie walczyć ze wskazanym stworem.\" "
+"Następnie stwórz trzy żetony niebieskiego stwora Ośmiornica 8/8."
 
 #: ../../BFZ.rst:1176
 msgid ""
@@ -3294,6 +3419,8 @@ msgid ""
 "Return any number of target Ally creature cards with total converted mana "
 "cost 8 or less from your graveyard to the battlefield."
 msgstr ""
+"Przywróć dowolną liczbę kart stworów typu Sojusznik o sumie skróconych "
+"kosztów many 8 lub mniej z twojego cmentarza na pole walki."
 
 #: ../../BFZ.rst:1182
 msgid ""
@@ -3330,6 +3457,9 @@ msgid ""
 "counters on target land you control. If you do, that land becomes a 0/0 "
 "Elemental creature with haste that's still a land."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz umieścić trzy znaczniki +1/"
+"+1 na wskazanym lądzie pod twoim władaniem. Jeśli tak zrobisz, ów ląd staje "
+"się stworem Żywiołak 0/0 nadal pozostając lądem."
 
 #: ../../BFZ.rst:1192
 msgid ""
@@ -3351,6 +3481,8 @@ msgid ""
 "Whenever Omnath, Locus of Rage or another Elemental you control dies, Omnath "
 "deals 3 damage to any target."
 msgstr ""
+"Ilekroć umrze ten stwór lub inny Żywiołak pod twoim władaniem, niniejszy "
+"stwór zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../BFZ.rst:1196
 msgid ""
@@ -3404,6 +3536,8 @@ msgid ""
 "Converge — Skyrider Elf enters the battlefield with a +1/+1 counter on it "
 "for each color of mana spent to cast it."
 msgstr ""
+"Komasowanie — Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, "
+"ile kolorów many użyto do jego rzucenia."
 
 #: ../../BFZ.rst:1214
 msgid ""
@@ -3417,12 +3551,17 @@ msgid ""
 "Veteran Warleader's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../BFZ.rst:1213
 msgid ""
 "Tap another untapped Ally you control: Veteran Warleader gains your choice "
 "of first strike, vigilance, or trample until end of turn."
 msgstr ""
+"Przekręć innego odkręconego Sojusznika pod twoim władaniem: Ten stwór "
+"zyskuje do końca tury dowolną z następujących zdolności: pierwszy cios, "
+"czujność lub tratowanie."
 
 #: ../../BFZ.rst:1218
 msgid ""
@@ -3437,6 +3576,9 @@ msgid ""
 "power 5 or greater until Aligned Hedron Network leaves the battlefield. "
 "(Those creatures return under their owners' control.)"
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, wygnaj wszystkie stwory o sile 5 "
+"lub większej dopóki ten artefakt nie opuści pola walki. (Owe stwory wrócą "
+"pod władanie swoich właścicieli.)"
 
 #: ../../BFZ.rst:1224
 msgid ""
@@ -3447,7 +3589,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1223
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../BFZ.rst:1232
 msgid ""
@@ -3466,6 +3608,9 @@ msgid ""
 "creatures, it gains deathtouch until end of turn. (Any amount of damage it "
 "deals to a creature is enough to destroy it.)"
 msgstr ""
+"Ilekroć wyposażony stwór zostanie zablokowany przez co najmniej jednego "
+"bezkolorowego stwora, zyskuje on dotyk śmierci do końca tury. (Stwór "
+"otrzymujący od niego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../BFZ.rst:1231
 msgid ""
@@ -3487,6 +3632,9 @@ msgid ""
 "Equipped creature has \"|mana_2|, |tap|: This creature deals 1 damage to "
 "target creature. If a colorless creature is dealt damage this way, tap it.\""
 msgstr ""
+"Wyposażony stwór ma \"|mana_2|, |tap|: Ten stwór zadaje wskazanemu stworowi "
+"1 obrażenie. Jeśli obrażenia w ten sposób otrzymał bezkolorowy stwór, "
+"przekręć go.\""
 
 #: ../../BFZ.rst:1237 ../../BFZ.rst:1249
 msgid "Equip |mana_2|"
@@ -3520,6 +3668,8 @@ msgid ""
 "Whenever equipped creature attacks, you may return a land you control to its "
 "owner's hand. If you do, the creature gets +2/+2 until end of turn."
 msgstr ""
+"Ilekroć wyposażony stwór atakuje, możesz przywrócić ląd pod twoim władaniem "
+"do ręki właściciela. Jeśli tak zrobisz, ów stwór dostaje do końca tury +2/+2."
 
 #: ../../BFZ.rst:1258
 msgid ""
@@ -3538,12 +3688,16 @@ msgstr "|tap|: Weź |colorless|."
 msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast an Ally spell."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Użyj jej tylko do rzucenia czaru "
+"Sojusznika."
 
 #: ../../BFZ.rst:1257
 msgid ""
 "|mana_1|, |tap|, Sacrifice Ally Encampment: Return target Ally you control "
 "to its owner's hand."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten ląd: Przywróć wskazanego Sojusznika pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../BFZ.rst:1264
 msgid ""
@@ -3555,7 +3709,7 @@ msgstr ""
 #: ../../BFZ.rst:1263
 msgid ""
 "|mana_5|\\ |mana_u|, |tap|, Sacrifice Blighted Cataract: Draw two cards."
-msgstr ""
+msgstr "|mana_5|\\ |mana_u|, |tap|, poświęć ten ląd: Dobierz dwie karty."
 
 #: ../../BFZ.rst:1270
 msgid ""
@@ -3569,6 +3723,8 @@ msgid ""
 "|mana_4|\\ |mana_b|, |tap|, Sacrifice Blighted Fen: Target opponent "
 "sacrifices a creature."
 msgstr ""
+"|mana_4|\\ |mana_b|, |tap|, poświęć ten ląd: Wskazany przeciwnik poświęca "
+"stwora."
 
 #: ../../BFZ.rst:1276
 msgid ""
@@ -3582,6 +3738,8 @@ msgid ""
 "|mana_4|\\ |mana_r|, |tap|, Sacrifice Blighted Gorge: It deals 2 damage to "
 "any target."
 msgstr ""
+"|mana_4|\\ |mana_r|, |tap|, poświęć ten ląd: Zadaje on wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../BFZ.rst:1282
 msgid ""
@@ -3595,6 +3753,8 @@ msgid ""
 "|mana_3|\\ |mana_w|, |tap|, Sacrifice Blighted Steppe: You gain 2 life for "
 "each creature you control."
 msgstr ""
+"|mana_3|\\ |mana_w|, |tap|, poświęć ten ląd: Zyskaj po 2 życia za każdego "
+"stwora pod twoim władaniem."
 
 #: ../../BFZ.rst:1288
 msgid ""
@@ -3629,6 +3789,8 @@ msgid ""
 "Canopy Vista enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../BFZ.rst:1300
 msgid ""
@@ -3646,6 +3808,8 @@ msgid ""
 "Cinder Glade enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../BFZ.rst:1304
 msgid ""
@@ -3671,7 +3835,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1307
 msgid "Fertile Thicket enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../BFZ.rst:1309
 msgid ""
@@ -3680,6 +3844,10 @@ msgid ""
 "among them, then put that card on top of your library and the rest on the "
 "bottom in any order."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, możesz spojrzeć na pięć wierzchnich "
+"kart twojej biblioteki. Jeśli tak zrobisz, ujawnij spośród nich co najwyżej "
+"jedną kartę bazowego lądu, następnie umieść ową kartę na wierzchu twojej "
+"biblioteki, a pozostałe na jej spodzie w dowolnej kolejności."
 
 #: ../../BFZ.rst:1311
 msgid "|tap|: Add |mana_g|."
@@ -3694,13 +3862,15 @@ msgstr ""
 
 #: ../../BFZ.rst:1315
 msgid "Looming Spires enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../BFZ.rst:1317
 msgid ""
 "When Looming Spires enters the battlefield, target creature gets +1/+1 and "
 "gains first strike until end of turn."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wskazany stwór dostaje do końca tury +1/"
+"+1 i pierwszy cios."
 
 #: ../../BFZ.rst:1319
 msgid "|tap|: Add |mana_r|."
@@ -3715,7 +3885,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1323
 msgid "Lumbering Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../BFZ.rst:1325
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3726,6 +3896,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_u|: Lumbering Falls becomes a 3/3 green and blue "
 "Elemental creature with hexproof until end of turn. It's still a land."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_u|: Ten ląd staje się do końca tury zielono-"
+"niebieskim stworem Żywiołak 3/3 z anytklątwą. Nadal jest lądem."
 
 #: ../../BFZ.rst:1336
 msgid ""
@@ -3736,13 +3908,15 @@ msgstr ""
 
 #: ../../BFZ.rst:1331
 msgid "Mortuary Mire enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../BFZ.rst:1333
 msgid ""
 "When Mortuary Mire enters the battlefield, you may put target creature card "
 "from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, możesz umieścić wskazaną kartę stwora z "
+"twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../BFZ.rst:1335
 msgid "|tap|: Add |mana_b|."
@@ -3764,6 +3938,8 @@ msgid ""
 "Prairie Stream enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../BFZ.rst:1348
 msgid ""
@@ -3779,6 +3955,10 @@ msgid ""
 "colorless creature card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
+"Ilekroć rzucisz bezkolorowy czar o skróconym koszcie many 7 lub większym, "
+"możesz poświęć ten ląd. Jeśli tak zrobisz, wyszukaj w twojej bibliotece "
+"kartę bezkolorowego stwora, ujawnij ją, umieść ją w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:1356
 msgid ""
@@ -3789,13 +3969,15 @@ msgstr ""
 
 #: ../../BFZ.rst:1351
 msgid "Sandstone Bridge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../BFZ.rst:1353
 msgid ""
 "When Sandstone Bridge enters the battlefield, target creature gets +1/+1 and "
 "gains vigilance until end of turn."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wskazany stwór dostaje do końca tury +1/"
+"+1 oraz czujność."
 
 #: ../../BFZ.rst:1355
 msgid "|tap|: Add |mana_w|."
@@ -3810,7 +3992,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1359
 msgid "Shambling Vent enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../BFZ.rst:1361
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -3821,6 +4003,8 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Shambling Vent becomes a 2/3 white and black "
 "Elemental creature with lifelink until end of turn. It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|: Ten ląd staje się do końca tury biało-"
+"czarnym stworem Żywiołak 2/3 z więzią życia. Nadal jest lądem."
 
 #: ../../BFZ.rst:1370
 msgid ""
@@ -3835,6 +4019,9 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless "
 "spells. Activate this ability only if you control seven or more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Wydaj tę manę tylko na rzucenie "
+"bezkolorowego czaru. Możesz aktywować tę zdolność tylko jeśli władasz co "
+"najmniej siedmioma lądami."
 
 #: ../../BFZ.rst:1378
 msgid ""
@@ -3845,13 +4032,15 @@ msgstr ""
 
 #: ../../BFZ.rst:1373
 msgid "Skyline Cascade enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../BFZ.rst:1375
 msgid ""
 "When Skyline Cascade enters the battlefield, target creature an opponent "
 "controls doesn't untap during its controller's next untap step."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika nie odkręci się w najbliższym kroku odkręcania swojego władcy."
 
 #: ../../BFZ.rst:1377
 msgid "|tap|: Add |mana_u|."
@@ -3873,6 +4062,8 @@ msgid ""
 "Smoldering Marsh enters the battlefield tapped unless you control two or "
 "more basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../BFZ.rst:1390
 msgid ""
@@ -3887,6 +4078,8 @@ msgid ""
 "Scion creature tokens. They have \"Sacrifice this creature: Add |colorless|."
 "\""
 msgstr ""
+"|mana_6|, |tap|, poświęć ten ląd: Stwórz trzy żetony bezkolorowego stwora "
+"Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:1396
 msgid ""
@@ -3904,6 +4097,8 @@ msgid ""
 "Sunken Hollow enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../BFZ.rst:1400
 msgid ""
