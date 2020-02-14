@@ -31,7 +31,7 @@ Dodatki poza Standardem
 * :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p25|
 * :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p25|
 * :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p25|
-* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p25|
+* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p100|
 * :mtgexp:`ORI` :doc:`Origins<ORI>` |p100|
 * :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p100|
 * :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|

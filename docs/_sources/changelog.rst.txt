@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2020-02-15
+   * Battle for Zendikar - 100%
+
 2020-02-04
    * Origins - 100%
 
