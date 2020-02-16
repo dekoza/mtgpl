@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-13 08:46+0000\n"
+"PO-Revision-Date: 2020-02-16 01:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ogw/"
 "pl/>\n"
@@ -45,6 +45,11 @@ msgid ""
 "control other than Deceiver of Form become copies of that card until end of "
 "turn. You may put that card on the bottom of your library."
 msgstr ""
+"Na początku walki w twojej turze, ujawnij wierzchnią kratę twojej "
+"biblioteki. Jeśli karta stwora zostanie ujawniona w ten sposób, możesz "
+"sprawić, że inne stwory niż niniejszy pod twoim władaniem staną się do końca "
+"tury kopią owej karty. Możesz umieścić ową kartę na spodzie twojej "
+"biblioteki."
 
 #: ../../OGW.rst:16
 msgid ""
@@ -59,6 +64,9 @@ msgid ""
 "control, you may change Eldrazi Mimic's base power and toughness to that "
 "creature's power and toughness until end of turn."
 msgstr ""
+"Ilekroć inny bezkolorowy stwór wejdzie na pole walki pod twoim władanie, "
+"możesz zmienić do końca tury bazową siłę i wytrzymałość niniejszego stwora "
+"na siłę i wytrzymałość owego stwora."
 
 #: ../../OGW.rst:26
 msgid ""
@@ -69,11 +77,11 @@ msgstr ""
 
 #: ../../OGW.rst:19
 msgid "Untap Endbringer during each other player's untap step."
-msgstr ""
+msgstr "Odkręć tego stwora podczas kroku odkręcania każdego innego gracza."
 
 #: ../../OGW.rst:21
 msgid "|tap|: Endbringer deals 1 damage to any target."
-msgstr "|tap|: Ten stwór zadaje 1 obrażenie w dowolnie wskazany cel."
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../OGW.rst:23
 msgid "|colorless|, |tap|: Target creature can't attack or block this turn."
@@ -97,8 +105,8 @@ msgid ""
 "When you cast this spell, if you have fewer than seven cards in hand, draw "
 "cards equal to the difference."
 msgstr ""
-"Kiedy rzucasz ten czar, jeśli masz mniej niż siedem kart w ręce, dobierz "
-"tyle kart, by mieć ich na ręce siedem."
+"Kiedy rzucisz ten czar, jeśli masz w ręce mniej niż siedem kart, dobierz "
+"tyle kart, ile wynosi różnica."
 
 #: ../../OGW.rst:31 ../../OGW.rst:661
 msgid "Menace"
@@ -124,8 +132,8 @@ msgid ""
 "|colorless|: Target creature can't block Kozilek's Pathfinder this turn. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
-"|colorless|: Wskazany stwór nie może blokować tej stwora w tej turze. (|"
-"colorless| oznacza bezkolorową manę.)"
+"|colorless|: Wskazany stwór nie może blokować niniejszego stwora w tej "
+"turze. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:44
 msgid ""
@@ -161,7 +169,7 @@ msgid ""
 "Whenever Reality Smasher becomes the target of a spell an opponent controls, "
 "counter that spell unless its controller discards a card."
 msgstr ""
-"Ilekroć ten stwór zostaje wskazany przez czar pod władaniem przeciwnika, "
+"Ilekroć ten stwór zostanie wskazany przez czar pod władaniem przeciwnika, "
 "skontruj ów czar, chyba że jego władca odrzuci kartę."
 
 #: ../../OGW.rst:58
@@ -173,7 +181,7 @@ msgstr ""
 
 #: ../../OGW.rst:57
 msgid "Target creature gets +3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje +3/-3 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +3/-3."
 
 #: ../../OGW.rst:66
 msgid ""
@@ -251,8 +259,8 @@ msgid ""
 "Create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this "
 "creature: Add |colorless|.\""
 msgstr ""
-"Stwórz żeton bezkolorowego stwora Potomek Eldrazi 1/1 ze zdolnością "
-"\"Poświęć tego stwora: Weź |colorless|.\""
+"Stwórz żeton bezkolorowego stwora Pomiot Eldrazi 1/1 mający \"Poświęć tego "
+"stwora: Weź |colorless|.\""
 
 #: ../../OGW.rst:98
 msgid ""
@@ -281,6 +289,9 @@ msgid ""
 "battlefield tapped under its owner's control. (|colorless| represents "
 "colorless mana.)"
 msgstr ""
+"|mana_2|\\ |colorless|: Wygnaj innego wskazanego stwora, następnie przywróć "
+"go przekręconego na pole walki pod władaniem właściciela. (|colorless| "
+"oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:102
 msgid ""
@@ -298,7 +309,7 @@ msgstr ""
 
 #: ../../OGW.rst:105
 msgid "Create two 2/2 white Knight Ally creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Rycerz Sojusznik 2/2."
 
 #: ../../OGW.rst:110
 msgid ""
@@ -312,6 +323,8 @@ msgid ""
 "Search your library for a planeswalker card, reveal it, and put it into your "
 "hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę wędrowca, ujawnij ją i umieść ją w twojej "
+"ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../OGW.rst:114
 msgid ""
@@ -325,6 +338,8 @@ msgid ""
 "You gain life equal to target creature's power. The next time that creature "
 "would deal damage this turn, prevent that damage."
 msgstr ""
+"Zyskaj życia równe sile wskazanego stwora. Następnym razem, gdy ów stwór "
+"miałby zadać obrażenia w tej turze, zażegnaj je."
 
 #: ../../OGW.rst:120
 msgid ""
@@ -345,6 +360,8 @@ msgid ""
 "When Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 "
 "counter on each of up to two other target creatures.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Umieść znacznik +1/+1 na "
+"każdym z co najwyżej dwóch innych wskazanych stworów.)"
 
 #: ../../OGW.rst:126
 msgid ""
@@ -359,6 +376,9 @@ msgid ""
 "an Ally creature card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę stwora typu Sojusznik, ujawnij ja, umieść ją w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../OGW.rst:125
 msgid ""
@@ -366,6 +386,9 @@ msgid ""
 "control get +X/+X until end of turn, where X is the number of colors among "
 "those creatures."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Sojusznicy pod twoim "
+"władaniem dostają do końca tury +X/+X, gdzie X jest liczbą kolorów pośród "
+"owych stworów."
 
 #: ../../OGW.rst:130
 msgid ""
@@ -394,6 +417,8 @@ msgid ""
 "Enchanted creature gets +2/+2, has vigilance, and can block an additional "
 "creature each combat."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma czujność i może blokować dodatkowego "
+"stwora w każdej walce."
 
 #: ../../OGW.rst:140
 msgid ""
@@ -408,6 +433,9 @@ msgid ""
 "enchantment an opponent controls until Isolation Zone leaves the "
 "battlefield. (That permanent returns under its owner's control.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego stwora lub urok pod "
+"władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki. (Ów "
+"permanent wróci pod władanie swojego władcy.)"
 
 #: ../../OGW.rst:144
 msgid ""
@@ -418,7 +446,7 @@ msgstr ""
 
 #: ../../OGW.rst:143
 msgid "Kor Scythemaster has first strike as long as it's attacking."
-msgstr ""
+msgstr "Ten stwór ma pierwszy cios, o ile atakuje."
 
 #: ../../OGW.rst:148
 msgid ""
@@ -429,7 +457,7 @@ msgstr ""
 
 #: ../../OGW.rst:147
 msgid "|mana_1|\\ |mana_w|: Kor Sky Climber gains flying until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|: Ten stwór zyskuje latanie do końca tury."
 
 #: ../../OGW.rst:156
 msgid ""
@@ -443,12 +471,16 @@ msgid ""
 "When Linvala, the Preserver enters the battlefield, if an opponent has more "
 "life than you, you gain 5 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli przeciwnik ma więcej żyć niż "
+"ty, zyskaj 5 żyć."
 
 #: ../../OGW.rst:155
 msgid ""
 "When Linvala enters the battlefield, if an opponent controls more creatures "
 "than you, create a 3/3 white Angel creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli przeciwnik ma we władaniu "
+"więcej stworów niż ty, stwórz żeton białego stwora Anioł 3/3 z lataniem."
 
 #: ../../OGW.rst:160
 msgid ""
@@ -495,6 +527,8 @@ msgid ""
 "Cohort — |tap|, Tap an untapped Ally you control: Put a +1/+1 counter on "
 "each creature you control."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: Umieść "
+"znacznik +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../OGW.rst:178
 msgid ""
@@ -508,12 +542,16 @@ msgid ""
 "When Oath of Gideon enters the battlefield, create two 1/1 white Kor Ally "
 "creature tokens."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony białego stwora Kor "
+"Sojusznik 1/1."
 
 #: ../../OGW.rst:177
 msgid ""
 "Each planeswalker you control enters the battlefield with an additional "
 "loyalty counter on it."
 msgstr ""
+"Każdy wędrowiec pod twoim władaniem wchodzi na pole walki mając dodatkowy "
+"znacznik lojalności."
 
 #: ../../OGW.rst:182
 msgid ""
@@ -525,6 +563,8 @@ msgstr ""
 #: ../../OGW.rst:181
 msgid "Cohort — |tap|, Tap an untapped Ally you control: You gain 2 life."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: Zyskaj "
+"2 życia."
 
 #: ../../OGW.rst:186
 msgid ""
@@ -538,6 +578,8 @@ msgid ""
 "When Relief Captain enters the battlefield, support 3. (Put a +1/+1 counter "
 "on each of up to three other target creatures.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wesprzyj 3. (Umieść znacznik +1/+1 na "
+"każdym z co najwyżej trzech innych wskazanych stworów.)"
 
 #: ../../OGW.rst:190
 msgid ""
@@ -549,6 +591,7 @@ msgstr ""
 #: ../../OGW.rst:189
 msgid "Destroy target attacking or blocking creature with power 2 or less."
 msgstr ""
+"Zniszcz wskazanego atakującego lub blokującego stwora o sile 2 lub mniejszej."
 
 #: ../../OGW.rst:196
 msgid ""
@@ -561,6 +604,8 @@ msgstr ""
 #: ../../OGW.rst:831
 msgid "Support 2. (Put a +1/+1 counter on each of up to two target creatures.)"
 msgstr ""
+"Wesprzyj 2. (Umieść znacznik +1/+1 na każdym z co najwyżej dwóch wskazanych "
+"stworów.)"
 
 #: ../../OGW.rst:195 ../../OGW.rst:279 ../../OGW.rst:335 ../../OGW.rst:651
 msgid "Draw a card."
@@ -576,6 +621,8 @@ msgstr ""
 #: ../../OGW.rst:199
 msgid "Cohort — |tap|, Tap an untapped Ally you control: Tap target creature."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: "
+"Przekręć wskazanego stwora."
 
 #: ../../OGW.rst:206
 msgid ""
@@ -589,11 +636,12 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../OGW.rst:205
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_w|: Target creature with a +1/+1 counter on it gains flying "
 "and vigilance until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
+msgstr ""
+"|mana_1|\\ |mana_w|: Wskazany stwór mający znacznik +1/+1 zyskuje latanie i "
+"czujność do końca tury."
 
 #: ../../OGW.rst:212
 msgid ""
@@ -604,11 +652,11 @@ msgstr ""
 
 #: ../../OGW.rst:209
 msgid "Equipped creatures you control get +1/+1."
-msgstr ""
+msgstr "Wyposażone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../OGW.rst:211
 msgid "Whenever an equipped creature you control dies, draw a card."
-msgstr ""
+msgstr "Ilekroć umrze wyposażony stwór pod twoim władaniem, dobierz kartę."
 
 #: ../../OGW.rst:216
 msgid ""
@@ -623,6 +671,10 @@ msgid ""
 "of your library. You may reveal an Equipment card from among them and put it "
 "into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: Spójrz "
+"na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić spośród nich "
+"kartę Wyposażenia i umieścić ją w twojej ręce. Umieść pozostałe na spodzie "
+"twojej biblioteki w dowolnej kolejności."
 
 #: ../../OGW.rst:222
 msgid ""
@@ -641,6 +693,9 @@ msgid ""
 "counters on target land you control. If you do, that land becomes a 0/0 "
 "Elemental creature with haste that's still a land."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz umieścić trzy znaczniki +1/+1 "
+"na wskazanym lądzie pod twoim władaniem. Jeśli tak zrobisz, ów ląd staje się "
+"stworem Żywiołak 0/0 z pośpiechem i pozostaje on lądem."
 
 #: ../../OGW.rst:228
 msgid ""
@@ -655,6 +710,9 @@ msgid ""
 "colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: "
 "Add |colorless|.\" (|colorless| represents colorless mana.)"
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|. Stwórz żeton "
+"bezkolorowego stwora Pomiot Eldrazi mający \"Poświęć tego stwora: Weź "
+"|colorless|.\" (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:234
 msgid ""
@@ -668,6 +726,8 @@ msgid ""
 "|colorless|, |tap|: Tap target creature. (|colorless| represents colorless "
 "mana.)"
 msgstr ""
+"|colorless|, |tap|: Przekręć wskazanego stwora. (|colorless| oznacza "
+"bezkolorową manę.)"
 
 #: ../../OGW.rst:240
 msgid ""
@@ -682,6 +742,9 @@ msgid ""
 "activate an ability of a colorless permanent, or pay a cost that contains |"
 "colorless|. (|colorless| represents colorless mana.)"
 msgstr ""
+"|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucenie bezkolorowego czaru, "
+"aktywację zdolności bezkolorowego permanentu lub opłacenia kosztu "
+"zawierającego |colorless|. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:248
 msgid ""
@@ -703,6 +766,8 @@ msgid ""
 "|mana_3|\\ |colorless|: Target creature can't be blocked this turn. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
+"|mana_3|\\ |colorless|: Wskazany stwór nie może być blokowany w tej turze. "
+"(|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:258
 msgid ""
@@ -721,6 +786,9 @@ msgid ""
 "library. If it's a land card, you may return Dimensional Infiltrator to its "
 "owner's hand. (|colorless| represents colorless mana.)"
 msgstr ""
+"|mana_1|\\ |colorless|: Wskazany przeciwnik wygania wierzchnią kartę swojej "
+"biblioteki. Jeśli to karta lądu, możesz przywrócić tego stwora do ręki "
+"właściciela. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:266
 msgid ""
@@ -735,6 +803,9 @@ msgid ""
 "another target creature gains flying until end of turn. (|colorless| "
 "represents colorless mana.)"
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |colorless|. Jeśli tak zrobisz, "
+"inny wskazany stwór zyskuje latanie do końca tury. (|colorless| oznacza "
+"bezkolorową manę.)"
 
 #: ../../OGW.rst:272
 msgid ""
@@ -747,6 +818,8 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |colorless|: Draw a card. (|colorless| represents colorless mana.)"
 msgstr ""
+"|mana_3|\\ |colorless|: Dobierz kartę. (|colorless| oznacza bezkolorową "
+"manę.)"
 
 #: ../../OGW.rst:280
 msgid ""
@@ -1055,6 +1128,9 @@ msgid ""
 "target opponent sacrifices a creature. (|colorless| represents colorless "
 "mana.)"
 msgstr ""
+"Kiedy rzucisz ten czar, możesz zapłacić |mana_1|\\ |colorless|. Jeśli tak "
+"zrobisz, wskazany przeciwnik poświęca stwora. (|colorless| oznacza "
+"bezkolorową manę.)"
 
 #: ../../OGW.rst:403
 msgid "Bearer of Silence can't block."
@@ -1073,6 +1149,9 @@ msgid ""
 "opponent loses life equal to the exiled card's power. (|colorless| "
 "represents colorless mana.)"
 msgstr ""
+"|mana_3|\\ |colorless|, wygnaj kartę stwora z twojego cmentarza: Wskazany "
+"przeciwnik traci tyle żyć, ile siły miała wygnana karta. (|colorless| "
+"oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:416
 msgid ""
@@ -1086,6 +1165,8 @@ msgid ""
 "|mana_1|\\ |colorless|: Target opponent loses 1 life and you gain 1 life. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
+"|mana_1|\\ |colorless|: Wskazany przeciwnik traci 1 życie, zyskaj 1 życie. "
+"(|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:422
 msgid ""
@@ -1112,6 +1193,8 @@ msgid ""
 "|mana_1|\\ |colorless|: Havoc Sower gets +2/+1 until end of turn. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
+"|mana_1|\\ |colorless|: Ten stwór dostaje do końca tury +2/+1. (|colorless| "
+"oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:436
 msgid ""
@@ -1140,6 +1223,9 @@ msgid ""
 "turn. (It can't be blocked except by two or more creatures. |colorless| "
 "represents colorless mana.)"
 msgstr ""
+"|colorless|: Ten stwór dostaje do końca tury +1/+0 i złowrogość. (Nie może "
+"być blokowany, chyba że przez co najmniej dwa stwory. |colorless| oznacza "
+"bezkolorową manę.)"
 
 #: ../../OGW.rst:448
 msgid ""
@@ -1153,6 +1239,8 @@ msgid ""
 "Pay 1 life: Add |colorless|. Activate this ability only once each turn. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
+"Zapłać 1 życie: Weź |colorless|. Możesz aktywować tę zdolność tylko raz na "
+"turę. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:454
 msgid ""
@@ -1191,6 +1279,9 @@ msgid ""
 "Eldrazi Scion creature token. It has \"Sacrifice this creature: Add |"
 "colorless|.\" (|colorless| represents colorless mana.)"
 msgstr ""
+"Ilekroć umrze inny nieżetonowy stwór pod twoim władaniem, stwórz żeton "
+"bezkolorowego stwora Pomiot Eldrazi mający \"Poświęć tego stwora: Weź "
+"|colorless|.\" (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:474
 msgid ""
@@ -1283,6 +1374,8 @@ msgid ""
 "Cohort — |tap|, Tap an untapped Ally you control: Create a tapped 2/2 black "
 "Zombie creature token."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: Stwórz "
+"przekręcony żeton czarnego stwora Zombi 2/2."
 
 #: ../../OGW.rst:514
 msgid ""
@@ -1330,6 +1423,8 @@ msgid ""
 "Cohort — |tap|, Tap an untapped Ally you control: You draw a card and you "
 "lose 1 life."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: "
+"Dobierz kartę i strać 1 życie."
 
 #: ../../OGW.rst:530
 msgid ""
@@ -1406,6 +1501,8 @@ msgid ""
 "Cohort — |tap|, Tap an untapped Ally you control: Target opponent loses 2 "
 "life."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: "
+"Wskazany przeciwnik traci 2 życia."
 
 #: ../../OGW.rst:564
 msgid ""
@@ -1520,6 +1617,8 @@ msgid ""
 "Cohort — |tap|, Tap an untapped Ally you control: Discard a card. If you do, "
 "draw a card."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: Odrzuć "
+"kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../OGW.rst:614
 msgid ""
@@ -1809,6 +1908,8 @@ msgid ""
 "Cohort — |tap|, Tap an untapped Ally you control: Zada's Commando deals 1 "
 "damage to target opponent or planeswalker."
 msgstr ""
+"Kohorta — |tap|, przekręć odkręconego Sojusznika pod twoim władaniem: Ten "
+"czar zadaje wskazanemu przeciwnikowi lub wędrowcowi 1 obrażenie."
 
 #: ../../OGW.rst:730
 msgid ""
@@ -1976,6 +2077,8 @@ msgid ""
 "When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 "
 "counter on each of up to six other target creatures.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wesprzyj 6. (Umieść znacznik +1/+1 na "
+"każdym z co najwyżej sześciu innych wskazanych stworach.)"
 
 #: ../../OGW.rst:797
 msgid ""
@@ -2130,6 +2233,8 @@ msgid ""
 "When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 "
 "counter on each of up to two other target creatures.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Umieść znacznik +1/+1 na "
+"każdym z co najwyżej dwóch innych wskazanych stworów.)"
 
 #: ../../OGW.rst:854
 msgid ""
