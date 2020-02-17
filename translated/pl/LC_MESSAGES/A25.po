@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 14:18+0000\n"
+"PO-Revision-Date: 2020-02-17 19:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/a25/"
 "pl/>\n"
@@ -1701,19 +1701,23 @@ msgstr ""
 
 #: ../../A25.rst:585
 msgid "At the beginning of your upkeep, choose one —"
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, wybierz jedno —"
 
 #: ../../A25.rst:587
 msgid ""
 "Each player with exactly 13 life loses the game, then each player gains 1 "
 "life."
 msgstr ""
+"Każdy gracz mający dokładnie 13 żyć, przegrywa grę, następnie każdy gracz "
+"zyskuje po 1 życiu."
 
 #: ../../A25.rst:589
 msgid ""
 "Each player with exactly 13 life loses the game, then each player loses 1 "
 "life."
 msgstr ""
+"Każdy gracz mający dokładnie 13 żyć, przegrywa grę, następnie każdy gracz "
+"traci po 1 życiu."
 
 #: ../../A25.rst:596
 msgid ""
@@ -2265,6 +2269,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Pyre "
 "Hound."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../A25.rst:770
 msgid ""
@@ -2972,6 +2978,9 @@ msgid ""
 "planeswalker card from among them into your hand. Put the rest into your "
 "graveyard."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć ten urok: Ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Możesz umieścić spośród nich kartę artefaktu, stwora, "
+"uroku, lądu lub wędrowca w twojej ręce. Umieść pozostałe w twoim cmentarzu."
 
 #: ../../A25.rst:1008
 msgid ""

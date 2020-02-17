@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-04 00:02+0000\n"
+"PO-Revision-Date: 2020-02-17 19:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/uma/"
 "pl/>\n"
@@ -898,8 +898,8 @@ msgid ""
 "Madness |mana_u| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
-"Szaleństwo |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
-"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
+"Szaleństwo |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../UMA.rst:292
 msgid ""
@@ -1228,6 +1228,8 @@ msgid ""
 "Create a tapped 2/2 black Zombie creature token for each instant and sorcery "
 "card in your graveyard."
 msgstr ""
+"Stwórz przekręcony żeton czarnego stwora Zombi 2/2 za każdą kartę sztuczki i "
+"obrzędu w twoim cmentarzu."
 
 #: ../../UMA.rst:406
 msgid ""
@@ -1547,6 +1549,8 @@ msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, put the top two "
 "cards of your library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki lub umrze, umieść dwie wierzchnie "
+"karty twojej biblioteki w twoim cmentarzu."
 
 #: ../../UMA.rst:522
 msgid ""
@@ -1635,6 +1639,8 @@ msgid ""
 "Create a 2/2 black Zombie creature token. Activate this ability only any "
 "time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
+"czarnego stwora Zombi 2/2. Używaj jako obrzęd."
 
 #: ../../UMA.rst:546
 msgid ""
@@ -1648,6 +1654,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Discard two cards: Return Ghoulsteed from your "
 "graveyard to the battlefield tapped."
 msgstr ""
+"|mana_2|\\ |mana_b|, odrzuć dwie karty: Przywróć tę kartę z twojego "
+"cmentarza przekręconą na pole walki."
 
 #: ../../UMA.rst:552
 msgid ""
@@ -1708,7 +1716,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../UMA.rst:563
@@ -1825,7 +1833,7 @@ msgstr ""
 
 #: ../../UMA.rst:601
 msgid "Create two 2/2 black Zombie creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../UMA.rst:612
 msgid ""
@@ -1995,7 +2003,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_2|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../UMA.rst:664
@@ -2155,15 +2163,15 @@ msgstr ""
 
 #: ../../UMA.rst:715
 msgid "Fiery Temper deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../UMA.rst:717
 msgid ""
 "Madness |mana_r| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
-"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
-"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
+"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../UMA.rst:724
 msgid ""
@@ -2299,6 +2307,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gets +2/+0 and gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Dostaje on "
+"do końca tury +2/+0 i pośpiech."
 
 #: ../../UMA.rst:765
 msgid ""
@@ -2307,7 +2317,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_3|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../UMA.rst:770
@@ -2386,7 +2396,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_2|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../UMA.rst:798
@@ -2754,6 +2764,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Return target basic land card from your graveyard to "
 "your hand."
 msgstr ""
+"|mana_1|\\ |mana_g|: Przywróć wskazaną kartę bazowego lądu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../UMA.rst:928
 msgid ""

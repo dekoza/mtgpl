@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-13 08:46+0000\n"
+"PO-Revision-Date: 2020-02-17 19:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dom/"
 "pl/>\n"
@@ -208,7 +208,7 @@ msgstr "Pierwszy cios, czujność, więź życia"
 
 #: ../../DOM.rst:61
 msgid "Aura and Equipment spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie czarów Aur i Ekwipunku kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie czarów Aur i Wyposażeń kosztuje cię o |mana_1| mniej."
 
 #: ../../DOM.rst:68
 msgid ""
@@ -1978,7 +1978,7 @@ msgstr "Tratowanie"
 msgid ""
 "Champion of the Flame gets +2/+2 for each Aura and Equipment attached to it."
 msgstr ""
-"Ten stwór dostaje +2/+2 za każdą dołączoną do niego Aurę lub Ekwipunek."
+"Ten stwór dostaje +2/+2 za każdą dołączoną do niego Aurę lub Wyposażenie."
 
 #: ../../DOM.rst:662
 msgid ""
@@ -2532,8 +2532,8 @@ msgid ""
 "token with trample and haste. Exile those tokens at the beginning of the "
 "next end step."
 msgstr ""
-"Na początku walki w twojej turze, za każdą Aurę oraz Ekwipunek dołączony do "
-"tego stwora, stwórz żeton czerwonego stwora Elemental 3/1 z tratowaniem i "
+"Na początku walki w twojej turze, za każdą Aurę oraz Wyposażenie dołączone "
+"do tego stwora, stwórz żeton czerwonego stwora Żywiołak 3/1 z tratowaniem i "
 "pośpiechem. Wygnaj owe żetony na początku najbliższego kroku końcowego."
 
 #: ../../DOM.rst:842
@@ -2691,7 +2691,7 @@ msgid ""
 "destroy all Equipment attached to that creature at end of combat."
 msgstr ""
 "Ilekroć ten stwór blokuje lub zostaje zablokowany przez wyposażonego stwora, "
-"zniszcz na koniec walki  każdy Ekwipunek dołączony do owego stwora."
+"zniszcz na koniec walki każde Wyposażenie dołączone do owego stwora."
 
 #: ../../DOM.rst:892
 msgid ""
@@ -3554,9 +3554,9 @@ msgid ""
 "battlefield, you may return that card to its owner's hand at the beginning "
 "of the next end step."
 msgstr ""
-"Ilekroć Aura lub Ekwipunek pod twoim władaniem jest umieszczany w cmentarzu "
-"z pola walki, możesz przywrócić ową kartę do ręki jej właściciela na "
-"początku najbliższego kroku końcowego."
+"Ilekroć Aura lub Wyposażenie pod twoim władaniem zostanie umieszczone w "
+"cmentarzu z pola walki, możesz przywrócić ową kartę do ręki jej właściciela "
+"na początku najbliższego kroku końcowego."
 
 #: ../../DOM.rst:1180
 msgid ""

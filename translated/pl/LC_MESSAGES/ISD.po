@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-04 00:02+0000\n"
+"PO-Revision-Date: 2020-02-17 19:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/isd/"
 "pl/>\n"
@@ -708,6 +708,8 @@ msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Unruly "
 "Mob."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../ISD.rst:212
 msgid ""
@@ -1876,11 +1878,8 @@ msgstr ""
 
 # 351cc44912784b47b35c4c6f622c8e8d
 #: ../../ISD.rst:607
-#, fuzzy
 msgid "Create two 2/2 black Zombie creature tokens."
-msgstr ""
-"Umieść na polu walki trzynaście przekręconych żetonów czarnego stwora Zombi "
-"2/2."
+msgstr "Stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:609 ../../ISD.rst:643
@@ -2675,6 +2674,8 @@ msgid ""
 "Whenever a Vampire you control deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć Wampir pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
+"nim znacznik +1/+1."
 
 #: ../../ISD.rst:894
 msgid ""
@@ -3828,7 +3829,7 @@ msgstr ""
 # 8e0bcb2b7b9a4c57adf43798b6407c2d
 #: ../../ISD.rst:1263
 msgid "Equipped creature gets +4/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+2."
 
 # 2dba73f88f374668b934b64040e6a331
 #: ../../ISD.rst:1265
@@ -4043,7 +4044,7 @@ msgstr "Wyposażony stwór dostaje +2/+0."
 # 423579f1357a4eebb06541bad98ed465
 #: ../../ISD.rst:1339
 msgid "As long as equipped creature is a Human, it gets an additional +1/+0."
-msgstr ""
+msgstr "O ile wyposażony stwór jest Człowiekiem, dostaje dodatkowe +1/+0."
 
 #: ../../ISD.rst:1346
 msgid ""

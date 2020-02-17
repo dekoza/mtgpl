@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 10:51+0000\n"
+"PO-Revision-Date: 2020-02-17 19:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/zen/"
 "pl/>\n"
@@ -658,6 +658,8 @@ msgid ""
 "Target opponent puts the top thirteen cards of their library into their "
 "graveyard."
 msgstr ""
+"Wskazany przeciwnik umieszcza wierzchnie trzynaście kart swojej biblioteki w "
+"swoim cmentarzu."
 
 #: ../../ZEN.rst:228
 msgid ""
@@ -940,7 +942,7 @@ msgstr ""
 
 #: ../../ZEN.rst:321
 msgid "|tap|: Target player draws a card, then discards a card."
-msgstr ""
+msgstr "|tap|: Wskazany gracz dobiera kartę, następnie odrzuca kartę."
 
 #: ../../ZEN.rst:328
 msgid ""
@@ -2641,7 +2643,7 @@ msgstr ""
 
 #: ../../ZEN.rst:921
 msgid "You may play an additional land on each of your turns."
-msgstr "Możesz zagrać dodatkowy ląd w każdej z twoich tur."
+msgstr "Możesz zagrać dodatkowy ląd w każdej twojej turze."
 
 #: ../../ZEN.rst:923
 msgid "Play with the top card of your library revealed."

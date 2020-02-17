@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-14 23:16+0000\n"
+"PO-Revision-Date: 2020-02-17 19:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -352,7 +352,7 @@ msgstr ""
 msgid "Madness |mana_1|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../C19.rst:160
@@ -1342,6 +1342,8 @@ msgstr ""
 #: ../../C19.rst:623
 msgid "At the beginning of each player's upkeep, if that player has no cards in hand, you draw a card and you lose 1 life."
 msgstr ""
+"Na początku kroku utrzymania każdego gracza, jeśli ów gracz nie ma kart w "
+"ręce, dobierz kartę i strać 1 życie."
 
 #: ../../C19.rst:625
 #: ../../C19.rst:697
@@ -1350,7 +1352,7 @@ msgstr ""
 msgid "Madness |mana_1|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../C19.rst:632
@@ -1385,7 +1387,7 @@ msgstr ""
 #: ../../C19.rst:663
 msgid "Madness |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
-"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
 "zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../C19.rst:646
@@ -1464,8 +1466,8 @@ msgstr ""
 msgid "Madness |mana_x|\\ |mana_b|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_x|\\ |mana_b|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na "
-"wygnanie. Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w "
-"twoim cmentarzu.)"
+"wygnanie. Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją "
+"w twoim cmentarzu.)"
 
 #: ../../C19.rst:677
 msgid "Create three tapped 2/2 black Zombie creature tokens and you gain 3 life. If this spell's madness cost was paid, instead create X of those tokens and you gain X life."
@@ -1744,7 +1746,7 @@ msgstr ""
 msgid "Madness |mana_x|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_x|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../C19.rst:807
@@ -1825,13 +1827,13 @@ msgstr ""
 
 #: ../../C19.rst:845
 msgid "Fiery Temper deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../C19.rst:847
 msgid "Madness |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
-"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
-"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
+"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../C19.rst:854
 msgid ":mtgtip:`Flamerush Rider<https://img.scryfall.com/cards/border_crop/front/c/0/c074adc3-50f1-4443-ae9b-47f8d9fdf3a2.jpg?1568004405|https://scryfall.com/card/c19/143/flamerush-rider?utm_source=api>`"
@@ -1927,12 +1929,14 @@ msgstr ""
 #: ../../C19.rst:887
 msgid "Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Dostaje on "
+"do końca tury +2/+0 i pośpiech."
 
 #: ../../C19.rst:889
 msgid "Madness |mana_3|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_3|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../C19.rst:896
@@ -2243,7 +2247,7 @@ msgstr ""
 
 #: ../../C19.rst:1043
 msgid "For each token you control, create a token that's a copy of that permanent."
-msgstr ""
+msgstr "Dla każdego żetonu pod twoim władaniem, stwórz żeton będący jego kopią."
 
 #: ../../C19.rst:1048
 msgid ":mtgtip:`Seedborn Muse<https://img.scryfall.com/cards/border_crop/front/e/3/e3174fb4-5ce1-4594-b338-e301228e6484.jpg?1568004654|https://scryfall.com/card/c19/179/seedborn-muse?utm_source=api>`"
@@ -3013,6 +3017,7 @@ msgstr ""
 #: ../../C19.rst:1425
 msgid "|mana_3|: Return Drownyard Temple from your graveyard to the battlefield tapped."
 msgstr ""
+"|mana_3|: Przywróć ten ląd z twojego cmentarza przekręcony na pole walki."
 
 #: ../../C19.rst:1430
 msgid ":mtgtip:`Evolving Wilds<https://img.scryfall.com/cards/border_crop/front/b/6/b6f4f0c7-63c8-4d43-9ccb-920733980de0.jpg?1568005110|https://scryfall.com/card/c19/241/evolving-wilds?utm_source=api>`"

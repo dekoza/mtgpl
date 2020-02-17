@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 10:51+0000\n"
+"PO-Revision-Date: 2020-02-17 19:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bbd/"
 "pl/>\n"
@@ -2026,7 +2026,7 @@ msgstr ""
 
 #: ../../BBD.rst:719
 msgid "|tap|: Target player draws a card, then discards a card."
-msgstr ""
+msgstr "|tap|: Wskazany gracz dobiera kartę, następnie odrzuca kartę."
 
 #: ../../BBD.rst:726
 msgid ""
@@ -2214,6 +2214,8 @@ msgid ""
 "Target creature gets +3/+1 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+1 oraz więź życia. (Obrażania "
+"zadane przez owego stwora powodują, że jego władca zyskuje tyle samo żyć.)"
 
 #: ../../BBD.rst:794
 msgid ""
@@ -2817,6 +2819,8 @@ msgid ""
 "Untap target creature. It gets +2/+2 and gains reach until end of turn. (It "
 "can block creatures with flying.)"
 msgstr ""
+"Odkręć wskazanego stwora. Dostaje on do końca tury +2/+2 oraz zasięg. (Może "
+"blokować stwory z lataniem.)"
 
 #: ../../BBD.rst:1010
 msgid ""
