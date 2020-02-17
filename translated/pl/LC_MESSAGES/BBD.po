@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-16 01:24+0000\n"
+"PO-Revision-Date: 2020-02-17 10:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bbd/"
 "pl/>\n"
@@ -2648,7 +2648,7 @@ msgstr ""
 
 #: ../../BBD.rst:949
 msgid "Target creature gains haste until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje pośpiech do końca tury."
 
 #: ../../BBD.rst:956
 msgid ""
@@ -3298,6 +3298,8 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_g|: Relentless Hunter gets +1/+1 and gains "
 "trample until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_g|: Ten stwór dostaje do końca tury +1/+1 oraz "
+"tratowanie."
 
 #: ../../BBD.rst:1182
 msgid ""
@@ -3536,6 +3538,8 @@ msgid ""
 "|mana_2|, |tap|: Scry 1. (Look at the top card of your library. You may put "
 "that card on the bottom of your library.)"
 msgstr ""
+"|mana_2|, |tap|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../BBD.rst:1280
 msgid ""
