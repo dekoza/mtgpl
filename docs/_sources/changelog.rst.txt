@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2020-02-17
+   * Oatch of the Gatewatch - 100%
+
 2020-02-15
    * Battle for Zendikar - 100%
 
