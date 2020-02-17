@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 14:18+0000\n"
+"PO-Revision-Date: 2020-02-17 19:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -137,8 +137,8 @@ msgid ""
 "When this creature transforms into Avacyn, the Purifier, it deals 3 damage "
 "to each other creature and each opponent."
 msgstr ""
-"Kiedy ten stwór transformuje na tę formę, zadaje on każdemu innemu stworowi "
-"i każdemu przeciwnikowi po 3 obrażenia."
+"Kiedy ten stwór transformuje w tę formę, zadaje on każdemu innemu stworowi i "
+"każdemu przeciwnikowi po 3 obrażenia."
 
 #: ../../SOI.rst:48
 msgid ""
@@ -400,6 +400,8 @@ msgid ""
 "battlefield attached to target creature. Activate this ability only any time "
 "you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_w|: Przywróć tę kartę z twojego cmentarza na pole walki "
+"dołączoną do wskazanego stwora. Używaj jako obrzęd."
 
 #: ../../SOI.rst:132
 msgid ""
@@ -414,6 +416,8 @@ msgid ""
 "At the beginning of your upkeep, if you control four or more creatures, "
 "transform Hanweir Militia Captain."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej czterema "
+"stworami, transformuj tego stwora."
 
 #: ../../SOI.rst:138
 msgid ""
@@ -428,12 +432,16 @@ msgid ""
 "Westvale Cult Leader's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../SOI.rst:137
 msgid ""
 "At the beginning of your end step, create a 1/1 white and black Human Cleric "
 "creature token."
 msgstr ""
+"Na początku twojego kroku końcowego, stwórz żeton biało-czarnego stwora "
+"Człowiek Kleryk 1/1."
 
 #: ../../SOI.rst:146
 msgid ""
@@ -444,11 +452,11 @@ msgstr ""
 
 #: ../../SOI.rst:143
 msgid "Enchanted creature gets +1/+1 for each creature you control."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 za każdego stwora pod twoim władaniem."
 
 #: ../../SOI.rst:145
 msgid "As long as enchanted creature is a Human, it has first strike."
-msgstr ""
+msgstr "O ile zauroczony stwór jest Człowiekiem, ma pierwszy cios."
 
 #: ../../SOI.rst:152
 msgid ""
@@ -500,7 +508,7 @@ msgstr ""
 
 #: ../../SOI.rst:163
 msgid "Militant Inquisitor gets +1/+0 for each Equipment you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 za każde Wyposażenie pod twoim władaniem."
 
 #: ../../SOI.rst:168
 msgid ""
@@ -529,12 +537,16 @@ msgid ""
 "At the beginning of combat on your turn, target creature you control gains "
 "indestructible until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, wskazany stwór pod twoim władaniem zyskuje "
+"niezniszczalność do końca tury."
 
 #: ../../SOI.rst:173
 msgid ""
 "|mana_1|\\ |mana_r|: Nahiri's Machinations deals 1 damage to target blocking "
 "creature."
 msgstr ""
+"|mana_1|\\ |mana_r|: Ten urok zadaje wskazanemu blokującemu stworowi 1 "
+"obrażenie."
 
 #: ../../SOI.rst:180
 msgid ""
@@ -553,6 +565,8 @@ msgid ""
 "two 1/1 white Spirit creature tokens with flying. Activate this ability only "
 "any time you could cast a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz dwa żetony "
+"białego stwora Duch 1/1 z lataniem. Używaj jako obrzęd."
 
 #: ../../SOI.rst:184
 msgid ""
@@ -566,6 +580,8 @@ msgid ""
 "Put target card from a graveyard on the top or bottom of its owner's "
 "library. Create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Umieść wskazaną kartę w cmentarzu na wierzchu biblioteki właściciela. Stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../SOI.rst:188
 msgid ""
@@ -581,6 +597,11 @@ msgid ""
 "true for flying, deathtouch, double strike, haste, hexproof, indestructible, "
 "lifelink, menace, reach, skulk, trample, and vigilance."
 msgstr ""
+"Na początku każdej walki, stwory pod twoim władaniem zyskują pierwszy cios "
+"jeśli stwór pod twoim władaniem ma pierwszy cios. To samo jest prawdą dla "
+"latania, dotyku śmierci, podwójnego ciosu, pośpiechu, antyklątwy "
+"niezniszczalności, więzi życia, złowrogości, zasięgu, przyczajenia, "
+"tratowania i czujności."
 
 #: ../../SOI.rst:192
 msgid ""
@@ -594,6 +615,8 @@ msgid ""
 "Search your library for an Aura or Equipment card, reveal it, and put it "
 "into your hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Aury lub Wyposażenia, ujawnij ją i umieść "
+"w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../SOI.rst:196
 msgid ""
@@ -622,10 +645,12 @@ msgid ""
 "Whenever Pious Evangel or another creature enters the battlefield under your "
 "control, you gain 1 life."
 msgstr ""
+"Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj "
+"1 życie."
 
 #: ../../SOI.rst:201
 msgid "|mana_2|, |tap|, Sacrifice another permanent: Transform Pious Evangel."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć inny permanent: Transformuj tego stwora."
 
 #: ../../SOI.rst:206
 msgid ""
@@ -639,6 +664,8 @@ msgid ""
 "Whenever Wayward Disciple or another creature you control dies, target "
 "opponent loses 1 life and you gain 1 life."
 msgstr ""
+"Ilekroć umrze ten lub inny stwór pod twoim władaniem, wskazany przeciwnik "
+"traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../SOI.rst:210
 msgid ""
@@ -650,6 +677,7 @@ msgstr ""
 #: ../../SOI.rst:209
 msgid "Destroy target attacking or blocking creature with power 3 or less."
 msgstr ""
+"Zniszcz wskazanego atakującego lub blokującego stwora o sile 3 lub mniejszej."
 
 #: ../../SOI.rst:216
 msgid ""
@@ -677,7 +705,7 @@ msgstr ""
 
 #: ../../SOI.rst:219
 msgid "Destroy target attacking creature. You gain 3 life."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora. Zyskaj 3 życia."
 
 #: ../../SOI.rst:226
 msgid ""
@@ -687,12 +715,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:225
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_u|: Return target Spirit you control to its owner's hand."
 msgstr ""
-"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposażaj wyłącznie jako obrzęd.)"
+"|mana_1|\\ |mana_u|: Przywróć wskazanego Ducha pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../SOI.rst:230
 msgid ""
@@ -703,7 +730,7 @@ msgstr ""
 
 #: ../../SOI.rst:229
 msgid "|tap|, Discard a card: Tap target creature."
-msgstr ""
+msgstr "|tap|, odrzuć kartę: Przekręć wskazanego stwora."
 
 #: ../../SOI.rst:234
 msgid ""
@@ -717,6 +744,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If you control an Equipment, "
 "create a 1/1 white Human Soldier creature token."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli władasz Wyposażeniem, "
+"stwórz żeton białego stwora Człowiek Piechur 1/1."
 
 #: ../../SOI.rst:240
 msgid ""
@@ -730,6 +759,8 @@ msgid ""
 "Target creature gets +1/+0 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+0 oraz niezniszczalność. (Obrażenia "
+"i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../SOI.rst:244
 msgid ""
@@ -743,6 +774,8 @@ msgid ""
 "Creatures you control get +1/+1 and gain lifelink until end of turn. Untap "
 "those creatures."
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +1/+1 i więź życia. Odkręć "
+"owe stwory."
 
 #: ../../SOI.rst:250
 msgid ""
@@ -756,12 +789,16 @@ msgid ""
 "When Thalia's Lieutenant enters the battlefield, put a +1/+1 counter on each "
 "other Human you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym "
+"Człowieku pod twoim władaniem."
 
 #: ../../SOI.rst:249
 msgid ""
 "Whenever another Human enters the battlefield under your control, put a +1/"
 "+1 counter on Thalia's Lieutenant."
 msgstr ""
+"Ilekroć inny Człowiek wejdzie na pole walki pod twoim władaniem umieść "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../SOI.rst:254
 msgid ""
@@ -776,6 +813,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:262
 msgid ""
@@ -789,6 +829,8 @@ msgid ""
 "When Topplegeist enters the battlefield, tap target creature an opponent "
 "controls."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika."
 
 #: ../../SOI.rst:261
 msgid ""
@@ -811,6 +853,8 @@ msgstr ""
 msgid ""
 "|tap|, Tap an untapped creature you control: Transform Town Gossipmonger."
 msgstr ""
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Transformuj tego "
+"stwora."
 
 #: ../../SOI.rst:272
 msgid ""
@@ -825,7 +869,7 @@ msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../SOI.rst:271
 msgid "|mana_2|: Incited Rabble gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../SOI.rst:276
 msgid ""
@@ -839,6 +883,8 @@ msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Unruly "
 "Mob."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../SOI.rst:280
 msgid ""
@@ -852,6 +898,8 @@ msgid ""
 "|mana_2|\\ |mana_w|, Sacrifice Vessel of Ephemera: Create two 1/1 white "
 "Spirit creature tokens with flying."
 msgstr ""
+"|mana_2|\\ |mana_w|, poświęć ten artefakt: Stwórz dwa żetony białego stwora "
+"Duch 1/1 z lataniem."
 
 #: ../../SOI.rst:286
 msgid ""
@@ -865,6 +913,9 @@ msgid ""
 "At the beginning of your upkeep, put the top card of your library into your "
 "graveyard. If it's an instant or sorcery card, transform Aberrant Researcher."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść wierzchnią kartę twojej "
+"biblioteki w twoim cmentarzu. Jeśli to karta sztuczki lub obrzędu, "
+"transformuj tego stwora."
 
 #: ../../SOI.rst:290
 msgid ""
@@ -891,7 +942,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_3|\\ |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../SOI.rst:300
@@ -917,6 +968,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. Then that player "
 "discards a card if you control a Zombie."
 msgstr ""
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Następnie ów "
+"gracz odrzuca kartę jeśli władasz Zombi."
 
 #: ../../SOI.rst:310
 msgid ""
@@ -930,6 +983,8 @@ msgid ""
 "Investigate three times. (To investigate, create a colorless Clue artifact "
 "token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Dociekaj trzykrotnie. (By dociekać, stwórz żeton bezkolorowego artefaktu "
+"Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:314
 msgid ""
@@ -941,7 +996,7 @@ msgstr ""
 
 #: ../../SOI.rst:313
 msgid "When you sacrifice a Clue, transform Daring Sleuth."
-msgstr ""
+msgstr "Kiedy poświęcisz Wskazówkę, transformuj tego stwora."
 
 #: ../../SOI.rst:320
 msgid ""
@@ -965,6 +1020,9 @@ msgid ""
 "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, dociekaj. (Stwórz żeton "
+"bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../SOI.rst:324
 msgid ""
@@ -978,6 +1036,8 @@ msgid ""
 "Counter target creature spell. If that spell is countered this way, exile it "
 "instead of putting it into its owner's graveyard."
 msgstr ""
+"Skontruj wskazany czar stwora. Jeśli ów czar jest skontrowany w ten sposób, "
+"wygnaj go zamiast umieszczać go w cmentarzu właściciela."
 
 #: ../../SOI.rst:328
 msgid ""
@@ -992,6 +1052,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:334
 msgid ""
@@ -1005,10 +1068,13 @@ msgid ""
 "When Drunau Corpse Trawler enters the battlefield, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton czarnego stwora Zombi 2/"
+"2."
 
 #: ../../SOI.rst:333
 msgid "|mana_2|\\ |mana_b|: Target Zombie gains deathtouch until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_b|: Wskazany Zombi zyskuje dotyk śmierci do końca tury."
 
 #: ../../SOI.rst:338
 msgid ""
@@ -1022,6 +1088,8 @@ msgid ""
 "Return to their owners' hands all creatures with toughness less than or "
 "equal to the number of Islands you control."
 msgstr ""
+"Przywróć do rąk właścicieli wszystkie stwory z wytrzymałością mniejszą lub "
+"równą liczbie Wysp pod twoim władaniem."
 
 #: ../../SOI.rst:342
 msgid ""
@@ -1036,6 +1104,9 @@ msgid ""
 "piles. An opponent chooses one of those piles. Put that pile into your hand "
 "and the other into your graveyard."
 msgstr ""
+"Ujawnij X plus jeden wierzchnich kart twojej biblioteki i rozdziel je na dwa "
+"stosy. Przeciwnik wybiera jeden z owych stosów. Umieść ów stos w twojej "
+"ręce, a pozostały w twoim cmentarzu."
 
 #: ../../SOI.rst:348
 msgid ""
@@ -1049,6 +1120,7 @@ msgid ""
 "Whenever you investigate for the first time each turn, investigate an "
 "additional time."
 msgstr ""
+"Ilekroć dociekasz po raz pierwszy w danej turze, dociekaj dodatkowy raz."
 
 #: ../../SOI.rst:352
 msgid ""
@@ -1062,6 +1134,9 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under its owner's control. If it's a Spirit, put a +1/+1 counter on it."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
+"na pole walki pod władaniem właściciela. Jeśli to Duch, umieść na nim "
+"znacznik +1/+1."
 
 #: ../../SOI.rst:358
 msgid ""
@@ -1076,12 +1151,17 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:357
 msgid ""
 "Whenever you sacrifice a Clue, target player puts the top three cards of "
 "their library into their graveyard."
 msgstr ""
+"Ilekroć poświęcisz Wskazówkę, wskazany gracz umieszcza trzy wierzchnie karty "
+"swojej biblioteki w swoim cmentarzu."
 
 #: ../../SOI.rst:364
 msgid ""
@@ -1094,12 +1174,15 @@ msgstr ""
 #: ../../SOI.rst:657 ../../SOI.rst:761 ../../SOI.rst:773
 msgid "Skulk (This creature can't be blocked by creatures with greater power.)"
 msgstr ""
+"Przyczajenie (Ten stwór nie może być blokowany przez stwory z większą siłą.)"
 
 #: ../../SOI.rst:363
 msgid ""
 "At the beginning of your upkeep, you may discard all the cards in your hand. "
 "If you do, draw that many cards."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz odrzucić wszystkie karty z "
+"twojej ręki. Jeśli tak zrobisz, dobierz tyle samo kart."
 
 #: ../../SOI.rst:368
 msgid ""
@@ -1117,13 +1200,15 @@ msgstr ""
 
 #: ../../SOI.rst:373
 msgid "Geralf's Masterpiece gets -1/-1 for each card in your hand."
-msgstr ""
+msgstr "Ten stwór dostaje -1/-1 za każdą z kart w twojej ręce."
 
 #: ../../SOI.rst:375
 msgid ""
 "|mana_3|\\ |mana_u|, Discard three cards: Return Geralf's Masterpiece from "
 "your graveyard to the battlefield tapped."
 msgstr ""
+"|mana_3|\\ |mana_u|, odrzuć trzy karty: Przywróć tę kartę z twojego "
+"cmentarza przekręconą na pole walki."
 
 #: ../../SOI.rst:384
 msgid ""
@@ -1138,7 +1223,7 @@ msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../SOI.rst:383
 msgid "Discard a card: Return enchanted creature to its owner's hand."
-msgstr ""
+msgstr "Odrzuć kartę: Przywróć zauroczonego stwora do ręki właściciela."
 
 #: ../../SOI.rst:390
 msgid ""
@@ -1149,7 +1234,7 @@ msgstr ""
 
 #: ../../SOI.rst:387
 msgid "Put target permanent on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazany permanent na wierzchu biblioteki właściciela."
 
 #: ../../SOI.rst:396
 msgid ""
@@ -1183,17 +1268,19 @@ msgstr ""
 
 #: ../../SOI.rst:399
 msgid "+1: Scry 1, then draw a card."
-msgstr ""
+msgstr "+1: Wróż 1, następnie dobierz kartę."
 
 #: ../../SOI.rst:401
 msgid "−2: Return target creature to its owner's hand."
-msgstr ""
+msgstr "–2: Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../SOI.rst:403
 msgid ""
 "−8: You get an emblem with \"Whenever an opponent casts their first spell "
 "each turn, counter that spell.\""
 msgstr ""
+"–8: Dostajesz emblemat o treści \"Ilekroć przeciwnik rzuci swój pierwszy "
+"czar w danej turze, skontruj ów czar.\""
 
 #: ../../SOI.rst:410
 msgid ""
@@ -1222,8 +1309,8 @@ msgid ""
 "Madness |mana_u| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
-"Szaleństwo |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
-"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
+"Szaleństwo |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SOI.rst:420
 msgid ""
@@ -1237,6 +1324,8 @@ msgid ""
 "When Lamplighter of Selhoff enters the battlefield, if you control another "
 "Zombie, you may draw a card. If you do, discard a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym Zombi, możesz "
+"dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../SOI.rst:426
 msgid ""
@@ -1250,6 +1339,8 @@ msgid ""
 "When Manic Scribe enters the battlefield, each opponent puts the top three "
 "cards of their library into their graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik umieszcza trzy "
+"wierzchnie karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../SOI.rst:425
 msgid ""
@@ -1273,6 +1364,8 @@ msgid ""
 "Look at the top two cards of your library. Put one of them into your hand "
 "and the other into your graveyard."
 msgstr ""
+"Spójrz na dwie wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałą w twoim cmentarzu."
 
 #: ../../SOI.rst:431
 msgid ""
@@ -1281,7 +1374,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_u| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../SOI.rst:440
@@ -1296,12 +1389,16 @@ msgid ""
 "When Nephalia Moondrakes enters the battlefield, target creature gains "
 "flying until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór zyskuje latanie do "
+"końca tury."
 
 #: ../../SOI.rst:439
 msgid ""
 "|mana_4|\\ |mana_u|\\ |mana_u|, Exile Nephalia Moondrakes from your "
 "graveyard: Creatures you control gain flying until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_u|\\ |mana_u|, wygnaj tę kartę z twojego cmentarza: Stwory "
+"pod twoim władaniem zyskują latanie do końca tury."
 
 #: ../../SOI.rst:446
 msgid ""
@@ -1323,12 +1420,17 @@ msgid ""
 "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \""
+"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:451
 msgid ""
 "|mana_1|\\ |mana_g|, Exile a creature card from your graveyard: Investigate. "
 "You gain 2 life."
 msgstr ""
+"|mana_1|\\ |mana_g|, wygnaj kartę stwora z twojego cmentarza: Dociekaj. "
+"Zyskaj 2 życia."
 
 #: ../../SOI.rst:456
 msgid ""
@@ -1343,6 +1445,9 @@ msgid ""
 "sorcery cards from among them into your hand and the rest into your "
 "graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Umieść spośród nich co "
+"najwyżej dwie karty sztuczki i/lub obrzędu w twojej ręce, a pozostałe w "
+"twoim cmentarzu."
 
 #: ../../SOI.rst:460
 msgid ""
@@ -1354,6 +1459,7 @@ msgstr ""
 #: ../../SOI.rst:459
 msgid "Draw three cards, untap up to two lands, then discard a card."
 msgstr ""
+"Dobierz trzy karty, odkręć co najwyżej dwa lądy, następnie odrzuć kartę."
 
 #: ../../SOI.rst:466
 msgid ""
@@ -1382,10 +1488,12 @@ msgid ""
 "When Rattlechains enters the battlefield, target Spirit gains hexproof until "
 "end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany Duch zyskuje antyklątwę do "
+"końca tury."
 
 #: ../../SOI.rst:475
 msgid "You may cast Spirit spells as though they had flash."
-msgstr "Możesz rzucać czary typu Duch tak, jakby miały błysk."
+msgstr "Możesz rzucać czary Duchów tak, jakby miały błysk."
 
 #: ../../SOI.rst:480
 msgid ""
@@ -1410,6 +1518,8 @@ msgid ""
 "Create a tapped 2/2 black Zombie creature token for each instant and sorcery "
 "card in your graveyard."
 msgstr ""
+"Stwórz przekręcony żeton czarnego stwora Zombi 2/2 za każdą kartę sztuczki i "
+"obrzędu w twoim cmentarzu."
 
 #: ../../SOI.rst:486
 msgid ""
@@ -1430,6 +1540,8 @@ msgid ""
 "Silburlind Snapper can't attack unless you've cast a noncreature spell this "
 "turn."
 msgstr ""
+"Ten stwór nie może atakować, chyba że rzuciłeś w tej turze czar nie będący "
+"stworem."
 
 #: ../../SOI.rst:496
 msgid ""
@@ -1465,6 +1577,8 @@ msgid ""
 "Target opponent puts the top thirteen cards of their library into their "
 "graveyard."
 msgstr ""
+"Wskazany przeciwnik umieszcza wierzchnie trzynaście kart swojej biblioteki w "
+"swoim cmentarzu."
 
 #: ../../SOI.rst:509
 msgid ""
@@ -1472,6 +1586,8 @@ msgid ""
 "the battlefield transformed. Activate this ability only any time you could "
 "cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_u|\\ |mana_u|: Umieść tę kartę z twojego cmentarza "
+"transformowaną na polu walki. Używaj jako obrzędu."
 
 #: ../../SOI.rst:516
 msgid ""
@@ -1485,6 +1601,8 @@ msgid ""
 "When Persistent Nightmare deals combat damage to a player, return it to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten stwór zada graczowi obrażenia bojowe, przywróć go do ręki "
+"właściciela."
 
 #: ../../SOI.rst:522
 msgid ""
@@ -1495,7 +1613,7 @@ msgstr ""
 
 #: ../../SOI.rst:519
 msgid "Stitched Mangler enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:521
 msgid ""
@@ -1503,6 +1621,9 @@ msgid ""
 "opponent controls. That creature doesn't untap during its controller's next "
 "untap step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../SOI.rst:528
 msgid ""
@@ -1516,6 +1637,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, Discard two cards: Return Stitchwing Skaab from your "
 "graveyard to the battlefield tapped."
 msgstr ""
+"|mana_1|\\ |mana_u|, odrzuć dwie karty: Przywróć tę kartę z twojego "
+"cmentarza przekręconą na pole walki."
 
 #: ../../SOI.rst:534
 msgid ""
@@ -1541,13 +1664,15 @@ msgstr "Obronność"
 
 #: ../../SOI.rst:539
 msgid "Thing in the Ice enters the battlefield with four ice counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając cztery znaczniki lodu."
 
 #: ../../SOI.rst:541
 msgid ""
 "Whenever you cast an instant or sorcery spell, remove an ice counter from "
 "Thing in the Ice. Then if it has no ice counters on it, transform it."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, usuń znacznik lodu z tego stwora. "
+"Następnie jeśli nie ma on znaczników lodu, transformuj go."
 
 #: ../../SOI.rst:546
 msgid ""
@@ -1561,6 +1686,8 @@ msgid ""
 "When this creature transforms into Awoken Horror, return all non-Horror "
 "creatures to their owners' hands."
 msgstr ""
+"Kiedy ten stwór transformuje w tę formę, przywróć wszystkie stwory bez typu "
+"Horror do rąk ich właścicieli."
 
 #: ../../SOI.rst:550
 msgid ""
@@ -1575,6 +1702,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, dociekaj. (Stwórz żeton "
+"bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../SOI.rst:556
 msgid ""
@@ -1585,7 +1715,7 @@ msgstr ""
 
 #: ../../SOI.rst:555
 msgid "When Uninvited Geist deals combat damage to a player, transform it."
-msgstr ""
+msgstr "Kiedy ten stwór zada graczowi obrażenia bojowe, transformuj go."
 
 #: ../../SOI.rst:560
 msgid ""
@@ -1597,7 +1727,7 @@ msgstr ""
 
 #: ../../SOI.rst:559
 msgid "Unimpeded Trespasser can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../SOI.rst:564
 msgid ""
@@ -1611,6 +1741,8 @@ msgid ""
 "|mana_u|, Sacrifice Vessel of Paramnesia: Target player puts the top three "
 "cards of their library into their graveyard. Draw a card."
 msgstr ""
+"|mana_u|, poświęć ten urok: Wskazany gracz umieszcza trzy wierzchnie karty "
+"swojej biblioteki w swoim cmentarzu. Dobierz kartę."
 
 #: ../../SOI.rst:570
 msgid ""
@@ -1626,23 +1758,18 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_x|\\ |mana_u|\\ |mana_u| (Odrzucając tę kartę odrzuć ją na "
-"wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją "
+"wygnanie. Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją "
 "w twoim cmentarzu.)"
 
 #: ../../SOI.rst:569
-#, fuzzy
-#| msgid ""
-#| "Gain control of target creature if its toughness is 2 or less. If Welcome "
-#| "to the Fold's madness cost was paid, instead gain control of that "
-#| "creature if its toughness is X or less."
 msgid ""
 "Gain control of target creature if its toughness is 2 or less. If this "
 "spell's madness cost was paid, instead gain control of that creature if its "
 "toughness is X or less."
 msgstr ""
-"Zyskaj władanie nad wskazanym stworem o wytrzymałości 2 lub mniejszej. Jeśli "
-"opłacono koszt szaleństwa tego czaru, zamiast tego zyskaj władanie nad owym "
-"stworem jeśli jego wytrzymałość wynosi X lub mniej."
+"Zyskaj władanie nad wskazanym stworem jeśli jego wytrzymałość wynosi 2 lub "
+"mniej. Jeśli opłacono koszt szaleństwa tego czaru, zamiast tego zyskaj "
+"władanie nad owym stworem jeśli jego wytrzymałość wynosi X lub mniej."
 
 #: ../../SOI.rst:576
 msgid ""
@@ -1656,12 +1783,16 @@ msgid ""
 "Spells your opponents cast that target Accursed Witch cost |mana_1| less to "
 "cast."
 msgstr ""
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
+"|mana_1| mniej."
 
 #: ../../SOI.rst:575
 msgid ""
 "When Accursed Witch dies, return it to the battlefield transformed under "
 "your control attached to target opponent."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go transformowanego na pole walki pod twoim "
+"władaniem dołączonego do wskazanego przeciwnika."
 
 #: ../../SOI.rst:584
 msgid ""
@@ -1678,12 +1809,16 @@ msgstr "Zaurocz gracza"
 msgid ""
 "Spells you cast that target enchanted player cost |mana_1| less to cast."
 msgstr ""
+"Rzucanie czarów wskazujących zauroczonego gracza kosztuje cię o |mana_1| "
+"mniej."
 
 #: ../../SOI.rst:583
 msgid ""
 "At the beginning of enchanted player's upkeep, that player loses 1 life and "
 "you gain 1 life."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, ów gracz traci 1 życie, a "
+"ty zyskaj 1 życie."
 
 #: ../../SOI.rst:590
 msgid ""
@@ -1694,14 +1829,14 @@ msgstr ""
 
 #: ../../SOI.rst:587
 msgid "Target opponent loses 3 life and you gain 3 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 3 życia, a ty zyskaj 3 życia."
 
 #: ../../SOI.rst:589
 msgid ""
 "Madness |mana_b| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
-"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
 "zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SOI.rst:596
@@ -1716,6 +1851,8 @@ msgid ""
 "At the beginning of each player's upkeep, if that player has no cards in "
 "hand, you draw a card and you lose 1 life."
 msgstr ""
+"Na początku kroku utrzymania każdego gracza, jeśli ów gracz nie ma kart w "
+"ręce, dobierz kartę i strać 1 życie."
 
 #: ../../SOI.rst:595 ../../SOI.rst:749
 msgid ""
@@ -1724,7 +1861,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../SOI.rst:602
@@ -1739,6 +1876,8 @@ msgid ""
 "Creatures you control have skulk. (They can't be blocked by creatures with "
 "greater power.)"
 msgstr ""
+"Stwory pod twoim władaniem mają przyczajenie. (Nie mogą być blokowane przez "
+"stwory z większą siłą.)"
 
 #: ../../SOI.rst:601
 msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
@@ -1757,6 +1896,8 @@ msgid ""
 "Discard your hand. Search your library for three cards and put those cards "
 "into your hand. Then shuffle your library."
 msgstr ""
+"Odrzuć twoją rękę. Wyszukaj w twojej bibliotece trzy karty i umieść je w "
+"twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../SOI.rst:612
 msgid ""
@@ -1776,7 +1917,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_2|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../SOI.rst:616
@@ -1791,6 +1932,8 @@ msgid ""
 "|mana_1|, Discard a card: Create a 1/1 black Vampire Knight creature token "
 "with lifelink. Activate this ability only once each turn."
 msgstr ""
+"|mana_1|, odrzuć kartę: Stwórz żeton czarnego stwora Wampir Rycerz 1/1 z "
+"więzią życia. Możesz aktywować tę zdolność tylko raz na turę."
 
 #: ../../SOI.rst:620
 msgid ""
@@ -1805,6 +1948,9 @@ msgid ""
 "who discarded a card that shares a card type with the card you discarded "
 "loses 3 life. (Players reveal the discarded cards simultaneously.)"
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy gracz odrzuca kartę. Każdy "
+"przeciwnik, który odrzucił kartę współdzielącą typ karty z kartą odrzuconą "
+"przez ciebie, traci 3 życia. (Gracze ujawniają odrzucane karty jednocześnie.)"
 
 #: ../../SOI.rst:626
 msgid ""
@@ -1818,6 +1964,8 @@ msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, put the top two "
 "cards of your library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki lub umrze, umieść dwie wierzchnie "
+"karty twojej biblioteki w twoim cmentarzu."
 
 #: ../../SOI.rst:632
 msgid ""
@@ -1842,12 +1990,16 @@ msgid ""
 "Diregraf Colossus enters the battlefield with a +1/+1 counter on it for each "
 "Zombie card in your graveyard."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile kart Zombi "
+"jest w twoim cmentarzu."
 
 #: ../../SOI.rst:637
 msgid ""
 "Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature "
 "token."
 msgstr ""
+"Ilekroć rzucisz czar Zombi, stwórz przekręcony żeton czarnego stwora Zombi 2/"
+"2."
 
 #: ../../SOI.rst:642
 msgid ""
@@ -1858,7 +2010,7 @@ msgstr ""
 
 #: ../../SOI.rst:641
 msgid "|mana_1|, Discard a card: Transform Elusive Tormentor."
-msgstr ""
+msgstr "|mana_1|, odrzuć kartę: Transformuj tego stwora."
 
 #: ../../SOI.rst:650
 msgid ""
@@ -1869,17 +2021,19 @@ msgstr ""
 
 #: ../../SOI.rst:645
 msgid "Hexproof, indestructible"
-msgstr ""
+msgstr "Antyklątwa, niezniszczalność"
 
 #: ../../SOI.rst:647
 msgid "Insidious Mist can't block and can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może blokować i nie może być blokowany."
 
 #: ../../SOI.rst:649
 msgid ""
 "Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2|\\ |"
 "mana_b|. If you do, transform it."
 msgstr ""
+"Ilekroć ten stwór atakuje i nie jest blokowany, możesz zapłacić |mana_2|\\ "
+"|mana_b|. Jeśli tak zrobisz, transformuj go."
 
 #: ../../SOI.rst:654
 msgid ""
@@ -1894,6 +2048,10 @@ msgid ""
 "battlefield. Each of those creatures is a black Zombie in addition to its "
 "other colors and types. Put Ever After on the bottom of its owner's library."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza na pole "
+"walki. Każdy z owych stworów jest dodatkowo czarnym Zombi oprócz swoich "
+"pozostałych kolorów i typów. Umieść niniejszą kartę na spodzie biblioteki "
+"właściciela."
 
 #: ../../SOI.rst:660
 msgid ""
@@ -1924,8 +2082,8 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_x|\\ |mana_b|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na "
-"wygnanie. Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w "
-"twoim cmentarzu.)"
+"wygnanie. Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją "
+"w twoim cmentarzu.)"
 
 #: ../../SOI.rst:665
 msgid ""
@@ -1950,6 +2108,8 @@ msgid ""
 "Create a 2/2 black Zombie creature token. Activate this ability only any "
 "time you could cast a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
+"czarnego stwora Zombi 2/2. Używaj jako obrzęd."
 
 #: ../../SOI.rst:674
 msgid ""
@@ -1963,6 +2123,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Discard two cards: Return Ghoulsteed from your "
 "graveyard to the battlefield tapped."
 msgstr ""
+"|mana_2|\\ |mana_b|, odrzuć dwie karty: Przywróć tę kartę z twojego "
+"cmentarza przekręconą na pole walki."
 
 #: ../../SOI.rst:680
 msgid ""
@@ -1972,11 +2134,8 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:677
-#, fuzzy
 msgid "Create two 2/2 black Zombie creature tokens."
-msgstr ""
-"Umieść na polu walki trzynaście przekręconych żetonów czarnego stwora Zombi "
-"2/2."
+msgstr "Stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../SOI.rst:684
 msgid ""
@@ -1990,6 +2149,8 @@ msgid ""
 "Target creature gets +3/+1 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+1 oraz więź życia. (Obrażania "
+"zadane przez owego stwora powodują, że jego władca zyskuje tyle samo żyć.)"
 
 #: ../../SOI.rst:688
 msgid ""
@@ -2003,6 +2164,8 @@ msgid ""
 "Discard a card: Transform Heir of Falkenrath. Activate this ability only "
 "once each turn."
 msgstr ""
+"Odrzuć kartę: Transformuj tego stwora. Możesz aktywować tę zdolność tylko "
+"raz na turę."
 
 #: ../../SOI.rst:692
 msgid ""
@@ -2040,6 +2203,8 @@ msgid ""
 "|mana_2|, Sacrifice a creature: Put a +1/+1 counter on each Vampire you "
 "control."
 msgstr ""
+"|mana_2|, poświęć stwora: Umieść znacznik +1/+1 na każdym Wampirze pod twoim "
+"władaniem."
 
 #: ../../SOI.rst:706
 msgid ""
@@ -2071,6 +2236,7 @@ msgid ""
 "When this creature transforms into Demon-Possessed Witch, you may destroy "
 "target creature."
 msgstr ""
+"Kiedy ten stwór transformuje w tę formę, możesz zniszczyć wskazanego stwora."
 
 #: ../../SOI.rst:714
 msgid ""
@@ -2084,6 +2250,9 @@ msgid ""
 "Put the top X cards of your library into your graveyard. Target player loses "
 "2 life for each creature card put into your graveyard this way."
 msgstr ""
+"Umieść X wierzchnich kart twojej biblioteki w twoim cmentarzy. Wskazany "
+"gracz traci po 2 życia za każdą kartę stwora umieszczoną w twoim cmentarzu w "
+"ten sposób."
 
 #: ../../SOI.rst:718
 msgid ""
@@ -2112,6 +2281,7 @@ msgid ""
 "|mana_2|\\ |mana_b|, Discard a card: Put two +1/+1 counters on Markov "
 "Dreadknight."
 msgstr ""
+"|mana_2|\\ |mana_b|, odrzuć kartę: Umieść dwa znaczniki +1/+1 na tym stworze."
 
 #: ../../SOI.rst:730
 msgid ""
@@ -2122,7 +2292,7 @@ msgstr ""
 
 #: ../../SOI.rst:727
 msgid "As an additional cost to cast this spell, sacrifice a creature or land."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora lub ląd."
 
 #: ../../SOI.rst:729 ../../SOI.rst:1099
 msgid "Draw two cards."
@@ -2144,6 +2314,8 @@ msgid ""
 "When Mindwrack Demon enters the battlefield, put the top four cards of your "
 "library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść cztery wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../SOI.rst:737
 msgid ""
@@ -2172,7 +2344,7 @@ msgstr ""
 msgid ""
 "Whenever Morkrut Necropod attacks or blocks, sacrifice another creature or "
 "land."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje lub blokuje, poświęć innego stwora lub ląd."
 
 #: ../../SOI.rst:750
 msgid ""
@@ -2194,11 +2366,11 @@ msgstr ""
 
 #: ../../SOI.rst:755
 msgid "Olivia's Bloodsworn can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../SOI.rst:757
 msgid "|mana_r|: Target Vampire gains haste until end of turn."
-msgstr ""
+msgstr "|mana_r|: Wskazany Wampir zyskuje pośpiech do końca tury."
 
 #: ../../SOI.rst:764
 msgid ""
@@ -2209,7 +2381,7 @@ msgstr ""
 
 #: ../../SOI.rst:763
 msgid "When Pale Rider of Trostad enters the battlefield, discard a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, odrzuć kartę."
 
 #: ../../SOI.rst:770
 msgid ""
@@ -2223,6 +2395,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it and "
 "exile that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wygnaj z niej wybraną nielądową "
+"kartę."
 
 #: ../../SOI.rst:769
 msgid ""
@@ -2263,6 +2437,8 @@ msgid ""
 "When Relentless Dead dies, you may pay |mana_b|. If you do, return it to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten stwór umrze, możesz zapłacić |mana_b|. Jeśli tak zrobisz, przywróć "
+"go do ręki właściciela."
 
 #: ../../SOI.rst:783
 msgid ""
@@ -2270,6 +2446,9 @@ msgid ""
 "target Zombie creature card with converted mana cost X from your graveyard "
 "to the battlefield."
 msgstr ""
+"Kiedy ten stwór umrze, możesz zapłacić |mana_x|. Jeśli tak zrobisz, przywróć "
+"inną wskazaną kartę Zombi o skróconym koszcie many X z twojego cmentarza na "
+"pole walki."
 
 #: ../../SOI.rst:788
 msgid ""
@@ -2280,7 +2459,7 @@ msgstr ""
 
 #: ../../SOI.rst:787
 msgid "When Rottenheart Ghoul dies, target player discards a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wskazany gracz odrzuca kartę."
 
 #: ../../SOI.rst:792
 msgid ""
@@ -2308,6 +2487,8 @@ msgid ""
 "Exile target creature card from a graveyard. Create a 2/2 black Zombie "
 "creature token. You gain 2 life."
 msgstr ""
+"Wygnaj wskazaną kartę stwora z cmentarza. Stwórz żeton czarnego stwora Zombi "
+"2/2. Zyskaj 2 życia."
 
 #: ../../SOI.rst:800
 msgid ""
@@ -2321,6 +2502,8 @@ msgid ""
 "|mana_b|, Pay 1 life, Put the top card of your library into your graveyard, "
 "Discard a card, Sacrifice Sinister Concoction: Destroy target creature."
 msgstr ""
+"|mana_b|, zapłać 1 życie, umieść wierzchnią kartę twojej biblioteki w twoim "
+"cmentarzu, odrzuć kartę, poświęć ten urok: Zniszcz wskazanego stwora."
 
 #: ../../SOI.rst:804
 msgid ""
@@ -2351,6 +2534,8 @@ msgid ""
 "When Stromkirk Mentor enters the battlefield, put a +1/+1 counter on another "
 "target Vampire you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na innym "
+"wskazanym Wampirze pod twoim władaniem."
 
 #: ../../SOI.rst:812
 msgid ""
@@ -2372,7 +2557,7 @@ msgstr ""
 
 #: ../../SOI.rst:815
 msgid "Target player sacrifices a creature or planeswalker."
-msgstr ""
+msgstr "Wskazany gracz poświęca stwora lub wędrowca."
 
 #: ../../SOI.rst:817
 msgid ""
@@ -2394,6 +2579,8 @@ msgid ""
 "When Tooth Collector enters the battlefield, target creature an opponent "
 "controls gets -1/-1 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -1/-1."
 
 #: ../../SOI.rst:823
 msgid ""
@@ -2414,19 +2601,23 @@ msgstr ""
 
 #: ../../SOI.rst:827
 msgid "At the beginning of your upkeep, choose one —"
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, wybierz jedno —"
 
 #: ../../SOI.rst:829
 msgid ""
 "Each player with exactly 13 life loses the game, then each player gains 1 "
 "life."
 msgstr ""
+"Każdy gracz mający dokładnie 13 żyć, przegrywa grę, następnie każdy gracz "
+"zyskuje po 1 życiu."
 
 #: ../../SOI.rst:831
 msgid ""
 "Each player with exactly 13 life loses the game, then each player loses 1 "
 "life."
 msgstr ""
+"Każdy gracz mający dokładnie 13 żyć, przegrywa grę, następnie każdy gracz "
+"traci po 1 życiu."
 
 #: ../../SOI.rst:836
 msgid ""
@@ -2455,6 +2646,8 @@ msgid ""
 "two cards from their hand. Activate this ability only any time you could "
 "cast a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć ten urok: Wskazany przeciwnik wygania dwie "
+"karty ze swojej ręki. Używaj jako obrzęd."
 
 #: ../../SOI.rst:850
 msgid ""
@@ -2470,7 +2663,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_x|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../SOI.rst:849
@@ -2495,6 +2688,8 @@ msgid ""
 "Whenever Bloodmad Vampire deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../SOI.rst:855 ../../SOI.rst:1055
 msgid ""
@@ -2503,7 +2698,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../SOI.rst:860
@@ -2518,6 +2713,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Breakneck Rider."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:866
 msgid ""
@@ -2528,13 +2725,15 @@ msgstr ""
 
 #: ../../SOI.rst:863
 msgid "Attacking creatures you control get +1/+0 and have trample."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0 i mają tratowanie."
 
 #: ../../SOI.rst:865
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Neck Breaker."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:870
 msgid ""
@@ -2549,6 +2748,9 @@ msgid ""
 "this way, it loses indestructible until end of turn. If that creature would "
 "die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi X obrażeń. Jeśli stwór otrzyma obrażenia w "
+"ten sposób, traci on do końca tury niezniszczalność. Jeśli ów stwór miałby "
+"umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../SOI.rst:874
 msgid ""
@@ -2562,6 +2764,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Convicted Killer."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:878
 msgid ""
@@ -2575,6 +2779,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Branded Howler."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:882
 msgid ""
@@ -2588,6 +2794,8 @@ msgid ""
 "Create two 1/1 red Devil creature tokens. They have \"When this creature "
 "dies, it deals 1 damage to any target.\""
 msgstr ""
+"Stwórz dwa żetony czerwonego stwora Diabeł 1/1 mające \"Kiedy ten stwór "
+"umrze, zadaje on wskazanemu celowi 1 obrażenie.\""
 
 #: ../../SOI.rst:886
 msgid ""
@@ -2601,6 +2809,8 @@ msgid ""
 "Create four 1/1 red Devil creature tokens. They have \"When this creature "
 "dies, it deals 1 damage to any target.\""
 msgstr ""
+"Stwórz cztery żetony czerwonego stwora Diabeł 1/1 mające \"Kiedy ten stwór "
+"umrze, zadaje on wskazanemu celowi 1 obrażenie.\""
 
 #: ../../SOI.rst:890
 msgid ""
@@ -2611,7 +2821,7 @@ msgstr ""
 
 #: ../../SOI.rst:889
 msgid "Target blocking creature fights another target blocking creature."
-msgstr ""
+msgstr "Wskazany blokujący stwór walczy z innym wskazanym blokującym stworem."
 
 #: ../../SOI.rst:894
 msgid ""
@@ -2623,7 +2833,8 @@ msgstr ""
 #: ../../SOI.rst:893
 msgid "Dual Shot deals 1 damage to each of up to two target creatures."
 msgstr ""
-"Ten czar zadaje 1 obrażenie każdemu z co najwyżej dwóch wskazanych stworów."
+"Ten czar zadaje każdemu z co najwyżej dwóch wskazanych stworów po 1 "
+"obrażeniu."
 
 #: ../../SOI.rst:900
 msgid ""
@@ -2638,9 +2849,8 @@ msgid "Haste"
 msgstr "Pośpiech"
 
 #: ../../SOI.rst:899
-#, fuzzy
 msgid "|mana_1|\\ |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../SOI.rst:904
 msgid ""
@@ -2658,7 +2868,7 @@ msgid ""
 msgstr ""
 "Każda twoja karta stwora typu Wampir nie będąca na polu walki ma szaleństwo. "
 "Jej koszt szaleństwa jest równy jej kosztowi many. (Odrzucając kartę z "
-"szaleństwem, odrzuć ją na wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt "
+"szaleństwem, odrzuć ją na wygnanie. Jeśli tak zrobisz, rzuć ją za jej koszt "
 "szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SOI.rst:910
@@ -2670,15 +2880,15 @@ msgstr ""
 
 #: ../../SOI.rst:907
 msgid "Fiery Temper deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../SOI.rst:909
 msgid ""
 "Madness |mana_r| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
-"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
-"zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
+"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SOI.rst:916
 msgid ""
@@ -2693,6 +2903,9 @@ msgid ""
 "you control, you may have Flameblade Angel deal 1 damage to that source's "
 "controller."
 msgstr ""
+"Ilekroć źródło pod władaniem przeciwnika miałoby zadać obrażenia tobie lub "
+"permanentom pod twoim władaniem, możesz sprawić, że niniejszy stwór zada "
+"władcy owego źródła 1 obrażenie."
 
 #: ../../SOI.rst:920
 msgid ""
@@ -2706,6 +2919,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Gatstaf Arsonists."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:926
 msgid ""
@@ -2719,6 +2934,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Gatstaf Ravagers."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:932
 msgid ""
@@ -2733,6 +2950,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Geier Reach Bandit."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:938
 msgid ""
@@ -2747,12 +2966,16 @@ msgid ""
 "Whenever a Werewolf enters the battlefield under your control, you may "
 "transform it."
 msgstr ""
+"Ilekroć Wilkołak wejdzie na pole walki pod twoim władaniem, możesz go "
+"transformować."
 
 #: ../../SOI.rst:937
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Vildin-Pack Alpha."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:944
 msgid ""
@@ -2763,7 +2986,7 @@ msgstr ""
 
 #: ../../SOI.rst:941
 msgid "Geistblast deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../SOI.rst:943
 msgid ""
@@ -2771,6 +2994,9 @@ msgid ""
 "instant or sorcery spell you control. You may choose new targets for the "
 "copy."
 msgstr ""
+"|mana_2|\\ |mana_u|, wygnaj tę kartę z twojego cmentarza: Skopiuj wskazany "
+"czar sztuczki lub obrzędu pod twoim władaniem. Możesz wskazać nowe cele dla "
+"kopii."
 
 #: ../../SOI.rst:950
 msgid ""
@@ -2784,6 +3010,8 @@ msgid ""
 "When Gibbering Fiend enters the battlefield, it deals 1 damage to each "
 "opponent."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje on każdemu przeciwnikowi po 1 "
+"obrażeniu."
 
 #: ../../SOI.rst:949
 msgid ""
@@ -2811,12 +3039,16 @@ msgid ""
 "If a source would deal damage to you, it deals double that damage to you "
 "instead."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać tobie obrażenia, zamiast tego zadaje ono "
+"dwukrotność owych obrażeń."
 
 #: ../../SOI.rst:957
 msgid ""
 "If a source would deal damage to Goldnight Castigator, it deals double that "
 "damage to Goldnight Castigator instead."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać obrażenia temu stworowi, zamiast tego "
+"zadaje ono temu stworowi dwukrotność owych obrażeń."
 
 #: ../../SOI.rst:962
 msgid ""
@@ -2831,6 +3063,9 @@ msgid ""
 "target card with the same name as that spell from your graveyard. (You still "
 "pay its costs.)"
 msgstr ""
+"Ilekroć rzucisz z ręki czar sztuczki lub obrzędu, możesz rzucić wskazaną "
+"kartę o tej samej nazwie jak ów czar z twojego cmentarza. (Nadal opłacasz "
+"jej koszty.)"
 
 #: ../../SOI.rst:966
 msgid ""
@@ -2842,6 +3077,7 @@ msgstr ""
 #: ../../SOI.rst:965
 msgid "Howlpack Wolf can't block unless you control another Wolf or Werewolf."
 msgstr ""
+"Ten stwór nie może blokować, chyba że władasz innym Wilkiem lub Wilkołakiem."
 
 #: ../../SOI.rst:968
 msgid ""
@@ -2864,7 +3100,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_2|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../SOI.rst:980
@@ -2887,7 +3123,7 @@ msgstr ""
 
 #: ../../SOI.rst:985
 msgid "Discard a card, Sacrifice Insolent Neonate: Draw a card."
-msgstr ""
+msgstr "Odrzuć kartę, poświęć tego stwora: Dobierz kartę."
 
 #: ../../SOI.rst:992
 msgid ""
@@ -2902,12 +3138,16 @@ msgid ""
 "Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig "
 "Forgemaster deals 1 damage to that creature."
 msgstr ""
+"Ilekroć ten stwór blokuje lub zostanie zablokowany przez stwora, zadaje on "
+"owemu stworowi 1 obrażenie."
 
 #: ../../SOI.rst:991
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Kessig Forgemaster."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:998
 msgid ""
@@ -2922,12 +3162,16 @@ msgid ""
 "Whenever Flameheart Werewolf blocks or becomes blocked by a creature, "
 "Flameheart Werewolf deals 2 damage to that creature."
 msgstr ""
+"Ilekroć ten stwór blokuje lub zostaje zablokowany przez stwora, zadaje on "
+"owemu stworowi 2 obrażenia."
 
 #: ../../SOI.rst:997
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Flameheart Werewolf."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:1004
 msgid ""
@@ -2940,10 +3184,11 @@ msgstr ""
 msgid ""
 "As an additional cost to cast this spell, discard a card or pay |mana_5|."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę lub zapłać |mana_5|."
 
 #: ../../SOI.rst:1003
 msgid "Lightning Axe deals 5 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../SOI.rst:1010
 msgid ""
@@ -2979,6 +3224,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gets +2/+0 and gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Dostaje on "
+"do końca tury +2/+0 i pośpiech."
 
 #: ../../SOI.rst:1019
 msgid ""
@@ -2987,7 +3234,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_3|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../SOI.rst:1026
@@ -3007,6 +3254,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Pyre "
 "Hound."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../SOI.rst:1030
 msgid ""
@@ -3017,7 +3266,7 @@ msgstr ""
 
 #: ../../SOI.rst:1029
 msgid "Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę: Ten stwór dostaje do końca tury +2/-2."
 
 #: ../../SOI.rst:1034
 msgid ""
@@ -3100,6 +3349,11 @@ msgid ""
 "Sin Prodder deals damage to that player equal to that card's converted mana "
 "cost. Otherwise, put that card into your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania ujawnij wierzchnią kartę twojej "
+"biblioteki. Którykolwiek przeciwnik może zdecydować, że umieścisz ją w swoim "
+"cmentarzu. Jeśli którykolwiek gracz tak zrobi, ten stwór zadaje owemu "
+"graczowi obrażenia równe skróconemu kosztowi many owej karty. W przeciwnym "
+"razie umieść ową kartę w twojej ręce."
 
 #: ../../SOI.rst:1070
 msgid ""
@@ -3117,6 +3371,8 @@ msgid ""
 "When enchanted creature dies, return Skin Invasion to the battlefield "
 "transformed under your control."
 msgstr ""
+"Kiedy zauroczony stwór umrze, przywróć niniejszą kartę transformowaną na "
+"pole walki pod twoim władaniem."
 
 #: ../../SOI.rst:1072
 msgid ""
@@ -3134,7 +3390,7 @@ msgstr ""
 
 #: ../../SOI.rst:1081
 msgid "Enchanted creature gets +3/+0 and has first strike."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+0 i ma pierwszy cios."
 
 #: ../../SOI.rst:1090
 msgid ""
@@ -3145,13 +3401,15 @@ msgstr ""
 
 #: ../../SOI.rst:1085
 msgid "Attacking creatures you control have first strike."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem mają pierwszy cios."
 
 #: ../../SOI.rst:1087
 msgid ""
 "Whenever a Vampire you control deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć Wampir pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
+"nim znacznik +1/+1."
 
 #: ../../SOI.rst:1094
 msgid ""
@@ -3165,6 +3423,8 @@ msgid ""
 "Exile target artifact or land. Structural Distortion deals 2 damage to that "
 "permanent's controller."
 msgstr ""
+"Wygnaj wskazany artefakt lub ląd. Ten czar zadaje władcy owego permanentu 2 "
+"obrażenia."
 
 #: ../../SOI.rst:1100
 msgid ""
@@ -3185,12 +3445,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1105
-#, fuzzy
 msgid ""
 "|mana_3|\\ |mana_g|: Target attacking Wolf or Werewolf gains indestructible "
 "until end of turn."
 msgstr ""
-"Kiedy ta karta wchodzi na pole walki, stwory pod twoim władaniem zyskują "
+"|mana_3|\\ |mana_g|: Wskazany atakujący Wilk lub Wilkołak zyskuje "
 "niezniszczalność do końca tury."
 
 #: ../../SOI.rst:1110
@@ -3220,6 +3479,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice Vessel of Volatility: Add |mana_r|\\ |mana_r|"
 "\\ |mana_r|\\ |mana_r|."
 msgstr ""
+"|mana_1|\\ |mana_r|, poświęć ten urok: Weź |mana_r|\\ |mana_r|\\ |mana_r|\\ "
+"|mana_r|."
 
 #: ../../SOI.rst:1120
 msgid ""
@@ -3234,6 +3495,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Village Messenger."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:1126
 msgid ""
@@ -3248,6 +3511,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Moonrise Intruder."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:1132
 msgid ""
@@ -3261,6 +3526,8 @@ msgid ""
 "When Voldaren Duelist enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór nie może blokować w "
+"tej turze."
 
 #: ../../SOI.rst:1136
 msgid ""
@@ -3275,6 +3542,9 @@ msgid ""
 "discard a card. If you do, Wolf of Devil's Breach deals damage to target "
 "creature or planeswalker equal to the discarded card's converted mana cost."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_1|\\ |mana_r| i odrzucić "
+"kartę. Jeśli tak zrobisz, ten stwór zadaje wskazanemu stworowi lub "
+"wędrowcowi tyle obrażeń, ile wynosi skrócony koszt many odrzuconej karty."
 
 #: ../../SOI.rst:1140
 msgid ""
@@ -3288,6 +3558,8 @@ msgid ""
 "Untap target creature. It gets +2/+2 and gains reach until end of turn. (It "
 "can block creatures with flying.)"
 msgstr ""
+"Odkręć wskazanego stwora. Dostaje on do końca tury +2/+2 oraz zasięg. (Może "
+"blokować stwory z lataniem.)"
 
 #: ../../SOI.rst:1146
 msgid ""
@@ -3298,7 +3570,7 @@ msgstr ""
 
 #: ../../SOI.rst:1143
 msgid "|mana_b|: Put the top card of your library into your graveyard."
-msgstr ""
+msgstr "|mana_b|: Umieść wierzchnią kartę twojej biblioteki w twoim cmentarzu."
 
 #: ../../SOI.rst:1145
 msgid ""
@@ -3333,12 +3605,18 @@ msgid ""
 "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć ten stwór zada obrażenia co najmniej jednemu stworowi, dociekaj. ("
+"Stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć "
+"ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:1155
 msgid ""
 "At the beginning of each end step, if you sacrificed three or more Clues "
 "this turn, you may put a creature card from your hand onto the battlefield."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli poświęciłeś co najmniej trzy "
+"Wskazówki w tej turze, możesz umieścić kartę stwora z twojej ręki na polu "
+"walki."
 
 #: ../../SOI.rst:1160
 msgid ""
@@ -3352,6 +3630,8 @@ msgid ""
 "When Byway Courier dies, investigate. (Create a colorless Clue artifact "
 "token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór umrze, dociekaj. (Stwórz żeton bezkolorowego artefaktu "
+"Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:1164
 msgid ""
@@ -3362,7 +3642,7 @@ msgstr ""
 
 #: ../../SOI.rst:1163
 msgid "Each opponent sacrifices a creature with flying."
-msgstr ""
+msgstr "Każdy przeciwnik poświęca stwora z lataniem."
 
 #: ../../SOI.rst:1168
 msgid ""
@@ -3377,6 +3657,10 @@ msgid ""
 "you control. (To investigate, create a colorless Clue artifact token with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Dociekaj, następnie wskazany stwór dostaje do końca tury +1/+1 za każdą "
+"Wskazówkę pod twoim władaniem. (By dociekać, stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:1174
 msgid ""
@@ -3390,12 +3674,17 @@ msgid ""
 "At the beginning of your upkeep, you may put the top two cards of your "
 "library into your graveyard."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz umieścić dwie wierzchnie karty "
+"twojej biblioteki w twoim cmentarzu."
 
 #: ../../SOI.rst:1173
 msgid ""
 "Whenever one or more land cards are put into your graveyard from anywhere "
 "for the first time each turn, create a 1/1 green Insect creature token."
 msgstr ""
+"Ilekroć po raz pierwszy w danej turze jedna lub więcej kart lądów zostanie "
+"umieszczonych skądkolwiek w twoim cmentarzu, stwórz żeton zielonego stwora "
+"Owad 1/1."
 
 #: ../../SOI.rst:1178
 msgid ""
@@ -3407,6 +3696,7 @@ msgstr ""
 #: ../../SOI.rst:1177
 msgid "Creatures you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
+"Stwory pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../SOI.rst:1182
 msgid ""
@@ -3420,6 +3710,8 @@ msgid ""
 "Whenever a permanent you control transforms into a non-Human creature, "
 "create a 2/2 green Wolf creature token."
 msgstr ""
+"Ilekroć permanent pod twoim władaniem transformuje w stwora bez typu "
+"Człowiek, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../SOI.rst:1188
 msgid ""
@@ -3454,12 +3746,17 @@ msgid ""
 "reveal a creature card from among them and put it into your hand. Put the "
 "rest on the bottom of your library in any order."
 msgstr ""
+"|mana_2|\\ |mana_g|: Spójrz na trzy wierzchnie karty twojej biblioteki. "
+"Możesz ujawnić spośród nich kartę stwora i umieścić ją w twojej ręce. Umieść "
+"pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../SOI.rst:1193
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Duskwatch Recruiter."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:1200
 msgid ""
@@ -3477,6 +3774,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Krallenhorde Howler."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:1208
 msgid ""
@@ -3491,7 +3790,7 @@ msgstr "Zauroczony stwór dostaje +3/+3."
 
 #: ../../SOI.rst:1207
 msgid "As long as enchanted creature is a Human, it has trample."
-msgstr ""
+msgstr "O ile zauroczony stwór jest Człowiekiem, ma tratowanie."
 
 #: ../../SOI.rst:1212
 msgid ""
@@ -3505,6 +3804,9 @@ msgid ""
 "Search your library for up to two basic land cards and reveal them. Put one "
 "into your hand and the other into your graveyard. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i ujawnij "
+"je. Umieść jedną w twojej ręce, a resztę w twoim cmentarzu. Następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../SOI.rst:1218
 msgid ""
@@ -3519,7 +3821,7 @@ msgstr "Zasięg"
 
 #: ../../SOI.rst:1217
 msgid "Gloomwidow can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../SOI.rst:1222
 msgid ""
@@ -3530,7 +3832,7 @@ msgstr ""
 
 #: ../../SOI.rst:1221
 msgid "Whenever you sacrifice a Clue, you gain 3 life."
-msgstr ""
+msgstr "Ilekroć poświęcisz Wskazówkę, zyskaj 3 życia."
 
 #: ../../SOI.rst:1226
 msgid ""
@@ -3540,13 +3842,12 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1225
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|: Return target basic land card from your graveyard to "
 "your hand."
 msgstr ""
-"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
-"twojej ręki, następnie odrzuć kartę."
+"|mana_1|\\ |mana_g|: Przywróć wskazaną kartę bazowego lądu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../SOI.rst:1232
 msgid ""
@@ -3558,13 +3859,15 @@ msgstr ""
 
 #: ../../SOI.rst:1229
 msgid "Whenever an opponent casts a spell during your turn, draw a card."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuci czar w twojej turze, dobierz kartę."
 
 #: ../../SOI.rst:1231
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Hermit of the Natterknolls."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:1238
 msgid ""
@@ -3576,13 +3879,15 @@ msgstr ""
 
 #: ../../SOI.rst:1235
 msgid "Whenever an opponent casts a spell during your turn, draw two cards."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuci czar w twojej turze, dobierz dwie karty."
 
 #: ../../SOI.rst:1237
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Lone Wolf of the Natterknolls."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:1242
 msgid ""
@@ -3596,6 +3901,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Hinterland Logger."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:1248
 msgid ""
@@ -3609,6 +3916,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Timber Shredder."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:1254
 msgid ""
@@ -3622,6 +3931,8 @@ msgid ""
 "Each creature you control that's a Wolf or a Werewolf gets +1/+1 and has "
 "trample."
 msgstr ""
+"Każdy stwór pod twoim władaniem będący Wilkiem lub Wilkołakiem ostaje +1/+1 "
+"i ma tratowanie."
 
 #: ../../SOI.rst:1258
 msgid ""
@@ -3652,6 +3963,8 @@ msgid ""
 "When Intrepid Provisioner enters the battlefield, another target Human you "
 "control gets +2/+2 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inny wskazany Człowiek pod twoim "
+"władaniem dostaje do końca tury +2/+2."
 
 #: ../../SOI.rst:1268
 msgid ""
@@ -3680,12 +3993,15 @@ msgid ""
 "Lambholt Pacifist can't attack unless you control a creature with power 4 or "
 "greater."
 msgstr ""
+"Ten stwór nie może atakować, chyba że władasz stworem o sile 4 lub większej."
 
 #: ../../SOI.rst:1273
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Lambholt Pacifist."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:1278
 msgid ""
@@ -3699,6 +4015,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Lambholt Butcher."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:1282
 msgid ""
@@ -3759,6 +4077,8 @@ msgid ""
 "Choose target creature you don't control. Each creature you control that's a "
 "Wolf or a Werewolf deals damage equal to its power to that creature."
 msgstr ""
+"Wskaż stwora poza twoim władaniem. Każdy stwór pod twoim władaniem będący "
+"Wilkiem lub Wilkołakiem zadaje owemu stworowi obrażenia równe swojej sile."
 
 #: ../../SOI.rst:1302
 msgid ""
@@ -3772,6 +4092,8 @@ msgid ""
 "When Obsessive Skinner enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../SOI.rst:1301
 msgid ""
@@ -3795,6 +4117,8 @@ msgid ""
 "When Pack Guardian enters the battlefield, you may discard a land card. If "
 "you do, create a 2/2 green Wolf creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz odrzucić kartę lądu. Jeśli tak "
+"zrobisz, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../SOI.rst:1312
 msgid ""
@@ -3805,7 +4129,7 @@ msgstr ""
 
 #: ../../SOI.rst:1311
 msgid "|mana_5|\\ |mana_g|: Quilled Wolf gets +4/+4 until end of turn."
-msgstr ""
+msgstr "|mana_5|\\ |mana_g|: Ten stwór dostaje do końca tury +4/+4."
 
 #: ../../SOI.rst:1316
 msgid ""
@@ -3845,17 +4169,19 @@ msgstr ""
 msgid ""
 "Sage of Ancient Lore's power and toughness are each equal to the number of "
 "cards in your hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../SOI.rst:1327
 msgid "When Sage of Ancient Lore enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../SOI.rst:1329
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Sage of Ancient Lore."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:1338
 msgid ""
@@ -3874,12 +4200,16 @@ msgid ""
 "Werewolf of Ancient Hunger's power and toughness are each equal to the total "
 "number of cards in all players' hands."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart w rękach wszystkich "
+"graczy."
 
 #: ../../SOI.rst:1337
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Werewolf of Ancient Hunger."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:1342
 msgid ""
@@ -3894,6 +4224,8 @@ msgid ""
 "graveyard to your hand. Put Seasons Past on the bottom of its owner's "
 "library."
 msgstr ""
+"Przywróć dowolną liczbę kart o różnych skróconych kosztach many z twojego "
+"cmentarza do twojej ręki. Umieść ten czar na spodzie biblioteki właściciela."
 
 #: ../../SOI.rst:1346
 msgid ""
@@ -3905,7 +4237,7 @@ msgstr ""
 #: ../../SOI.rst:1345
 msgid ""
 "For each token you control, create a token that's a copy of that permanent."
-msgstr ""
+msgstr "Dla każdego żetonu pod twoim władaniem, stwórz żeton będący jego kopią."
 
 #: ../../SOI.rst:1352
 msgid ""
@@ -3919,6 +4251,8 @@ msgid ""
 "Whenever a Wolf or Werewolf you control becomes the target of an instant or "
 "sorcery spell, create a 2/2 green Wolf creature token."
 msgstr ""
+"Ilekroć Wilk lub Wilkołak pod twoim władaniem zostanie wskazany przez czar "
+"sztuczki lub obrzędu, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../SOI.rst:1356
 msgid ""
@@ -3932,6 +4266,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Solitary Hunter."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../SOI.rst:1360
 msgid ""
@@ -3945,6 +4281,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform One of the Pack."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SOI.rst:1366
 msgid ""
@@ -3975,6 +4313,8 @@ msgid ""
 "When Stoic Builder enters the battlefield, you may return target land card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole wali, możesz przywrócić wskazaną kartę lądu "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../SOI.rst:1372
 msgid ""
@@ -3996,10 +4336,13 @@ msgid ""
 "(Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, dociekaj. (Stwórz "
+"żeton bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:1379
 msgid "Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker."
-msgstr ""
+msgstr "Ilekroć poświęcisz Wskazówkę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../SOI.rst:1386
 msgid ""
@@ -4038,12 +4381,17 @@ msgid ""
 "Ulvenwald Hydra's power and toughness are each equal to the number of lands "
 "you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../SOI.rst:1393
 msgid ""
 "When Ulvenwald Hydra enters the battlefield, you may search your library for "
 "a land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę lądu, umieść ją przekręconą na polu walki, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../SOI.rst:1400
 msgid ""
@@ -4058,12 +4406,17 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, dociekaj. (Stwórz żeton "
+"bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../SOI.rst:1399
 msgid ""
 "Whenever you sacrifice a Clue, create a 1/1 white Human Soldier creature "
 "token."
 msgstr ""
+"Ilekroć poświęcisz Wskazówkę, stwórz żeton białego stwora Człowiek Piechur 1/"
+"1."
 
 #: ../../SOI.rst:1404
 msgid ""
@@ -4079,6 +4432,9 @@ msgid ""
 "planeswalker card from among them into your hand. Put the rest into your "
 "graveyard."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć ten urok: Ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Możesz umieścić spośród nich kartę artefaktu, stwora, "
+"uroku, lądu lub wędrowca w twojej ręce. Umieść pozostałe w twoim cmentarzu."
 
 #: ../../SOI.rst:1408
 msgid ""
@@ -4091,6 +4447,7 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_w|: Target Human gains double strike until end of turn."
 msgstr ""
+"|mana_3|\\ |mana_w|: Wskazany Człowiek zyskuje podwójny cios do końca tury."
 
 #: ../../SOI.rst:1414
 msgid ""
@@ -4105,7 +4462,7 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../SOI.rst:1413
 msgid "Watcher in the Web can block an additional seven creatures each combat."
-msgstr ""
+msgstr "Ten stwór może blokować siedem dodatkowych stworów w każdej walce."
 
 #: ../../SOI.rst:1422
 msgid ""
@@ -4123,6 +4480,9 @@ msgid ""
 "When Weirding Wood enters the battlefield, investigate. (Create a colorless "
 "Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:1421
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
@@ -4144,6 +4504,8 @@ msgid ""
 "You may have Altered Ego enter the battlefield as a copy of any creature on "
 "the battlefield, except it enters with X additional +1/+1 counters on it."
 msgstr ""
+"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
+"stwora na polu walki z tą różnicą, że wejdzie mając X znaczników +1/+1."
 
 #: ../../SOI.rst:1432
 msgid ""
@@ -4154,7 +4516,7 @@ msgstr ""
 
 #: ../../SOI.rst:1431
 msgid "Exile target nonland permanent. You lose 3 life."
-msgstr ""
+msgstr "Wygnaj wskazany nielądowy permanent. Strać 3 życia."
 
 #: ../../SOI.rst:1438
 msgid ""
@@ -4168,10 +4530,13 @@ msgid ""
 "+1: Until end of turn, up to one target creature gets +2/+2 and gains "
 "vigilance and haste."
 msgstr ""
+"+1: Do końca tury, co najwyżej jeden wskazany stwór dostaje +2/+2 oraz "
+"czujność i pośpiech."
 
 #: ../../SOI.rst:1437
 msgid "0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord."
 msgstr ""
+"0: Stwórz dwa żetony zielonego stwora Wilk 2/2. Transformuj tego wędrowca."
 
 #: ../../SOI.rst:1446
 msgid ""
@@ -4184,18 +4549,24 @@ msgstr ""
 #: ../../SOI.rst:1441
 msgid "+1: Creatures you control get +1/+1 and gain trample until end of turn."
 msgstr ""
+"+1: Stwory pod twoim władaniem dostają do końca tury +1/+1 oraz tratowanie."
 
 #: ../../SOI.rst:1443
 msgid ""
 "−1: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform "
 "Arlinn, Embraced by the Moon."
 msgstr ""
+"–1: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia. Transformuj tego "
+"wędrowca."
 
 #: ../../SOI.rst:1445
 msgid ""
 "−6: You get an emblem with \"Creatures you control have haste and '|tap|: "
 "This creature deals damage equal to its power to any target.'\""
 msgstr ""
+"–6: Dostajesz emblemat o treści \"Stwory pod twoim władaniem mają pośpiech "
+"oraz '|tap|: Ten stwór zadaje wskazanemu celowi obrażenia równe swojej sile.'"
+"\""
 
 #: ../../SOI.rst:1450
 msgid ""
@@ -4210,6 +4581,9 @@ msgid ""
 "player is your opponent and has four or more cards in hand, Fevered Visions "
 "deals 2 damage to that player."
 msgstr ""
+"Na początku kroku końcowego każdego gracza ów gracz dobiera kartę. Jeśli ów "
+"gracz jest twoim przeciwnikiem i ma co najmniej cztery karty w ręce, ten "
+"urok zadaje owemu graczowi 2 obrażenia."
 
 #: ../../SOI.rst:1460
 msgid ""
@@ -4227,16 +4601,20 @@ msgid ""
 "At the beginning of your upkeep, sacrifice The Gitrog Monster unless you "
 "sacrifice a land."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"poświęcisz ląd."
 
 #: ../../SOI.rst:1457
 msgid "You may play an additional land on each of your turns."
-msgstr "Możesz zagrać dodatkowy ląd w każdej z twoich tur."
+msgstr "Możesz zagrać dodatkowy ląd w każdej twojej turze."
 
 #: ../../SOI.rst:1459
 msgid ""
 "Whenever one or more land cards are put into your graveyard from anywhere, "
 "draw a card."
 msgstr ""
+"Ilekroć jedna lub więcej kart lądów zostanie umieszczonych skądkolwlek w "
+"twoim cmentarzu, dobierz kartę."
 
 #: ../../SOI.rst:1466
 msgid ""
@@ -4251,6 +4629,8 @@ msgid ""
 "Angel creature token with flying that's tapped and attacking. Exile that "
 "token at end of combat.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć ten stwór atakuje stwórz przekręcony i "
+"atakujący żeton białego stwora Anioł 4/4. Wygnaj ów żeton na koniec walki.\""
 
 #: ../../SOI.rst:1474
 msgid ""
@@ -4261,11 +4641,12 @@ msgstr ""
 
 #: ../../SOI.rst:1469
 msgid "+2: You may discard a card. If you do, draw a card."
-msgstr ""
+msgstr "+2: Możesz odrzucić kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOI.rst:1471
 msgid "−2: Exile target enchantment, tapped artifact, or tapped creature."
 msgstr ""
+"–2: Wygnaj wskazany urok, przekręcony artefakt lub przekręconego stwora."
 
 #: ../../SOI.rst:1473
 msgid ""
@@ -4273,6 +4654,9 @@ msgid ""
 "battlefield, then shuffle your library. It gains haste. Return it to your "
 "hand at the beginning of the next end step."
 msgstr ""
+"–8: Wyszukaj w twojej bibliotece kartę artefaktu lub stwora, umieść ją na "
+"polu walki, następnie przetasuj twoją bibliotekę. Zyskuje ona pośpiech. "
+"Przywróć ją do twojej ręki na początku najbliższego kroku końcowego."
 
 #: ../../SOI.rst:1480
 msgid ""
@@ -4288,6 +4672,10 @@ msgid ""
 "haste until end of turn, and it becomes a Vampire in addition to its other "
 "types."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, możesz "
+"odrzucić kartę. Jeśli tak zrobisz, umieść znacznik +1/+1 na owym stworze, "
+"zyskuje on pośpiech do końca tury i staje się dodatkowo Wampirem oprócz "
+"swoich innych typów."
 
 #: ../../SOI.rst:1484
 msgid ""
@@ -4303,6 +4691,9 @@ msgid ""
 "your graveyard to the battlefield tapped at the beginning of the next end "
 "step."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki, jeśli wszedł z twojego cmentarza lub "
+"rzuciłeś go z twojego cmentarza, przywróć tego stwora z twojego cmentarza "
+"przekręconego na pole walki na początku najbliższego kroku końcowego."
 
 #: ../../SOI.rst:1492
 msgid ""
@@ -4313,13 +4704,15 @@ msgstr ""
 
 #: ../../SOI.rst:1489
 msgid "You and Humans you control have hexproof."
-msgstr ""
+msgstr "Ty oraz stwory typu Człowiek pod twoim władaniem macie antyklątwę."
 
 #: ../../SOI.rst:1491
 msgid ""
 "|mana_2|, Exile a card from your graveyard: Create a 1/1 white Human Soldier "
 "creature token."
 msgstr ""
+"|mana_2|, wygnaj kartę z twojego cmentarza: Stwórz żeton białego stwora "
+"Człowiek Piechur 1/1."
 
 #: ../../SOI.rst:1500
 msgid ""
@@ -4333,18 +4726,24 @@ msgid ""
 "+1: Reveal the top card of your library and put that card into your hand. "
 "Each opponent loses life equal to its converted mana cost."
 msgstr ""
+"+1: Ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
+"Każdy przeciwnik traci po tyle żyć, ile wynosi jej skrócony koszt many."
 
 #: ../../SOI.rst:1497
 msgid ""
 "−X: Sorin, Grim Nemesis deals X damage to target creature or planeswalker "
 "and you gain X life."
 msgstr ""
+"–X: Ten wędrowiec zadaje wskazanemu stworowi lub wędrowcowi X obrażeń, a ty "
+"zyskaj X żyć."
 
 #: ../../SOI.rst:1499
 msgid ""
 "−9: Create a number of 1/1 black Vampire Knight creature tokens with "
 "lifelink equal to the highest life total among all players."
 msgstr ""
+"–9: Stwórz tyle żetonów czarnego stwora Rycerz Wampir 1/1 z więzią życia, "
+"ile wynosi największa liczba żyć pośród wszystkich graczy."
 
 #: ../../SOI.rst:1506
 msgid ""
@@ -4360,10 +4759,14 @@ msgid ""
 "charge counters on Brain in a Jar from your hand without paying its mana "
 "cost."
 msgstr ""
+"|mana_1|, |tap|: Umieść znacznik ładowania na tym artefakcie, następnie "
+"możesz rzucić z twojej ręki bez płacenia kosztu many kartę sztuczki lub "
+"obrzędu o skróconym koszcie many równym liczbie znaczników ładowania na tym "
+"artefakcie."
 
 #: ../../SOI.rst:1505
 msgid "|mana_3|, |tap|, Remove X charge counters from Brain in a Jar: Scry X."
-msgstr ""
+msgstr "|mana_3|, |tap|, usuń X znaczników ładowania z tego artefaktu: Wróż X."
 
 #: ../../SOI.rst:1512
 msgid ""
@@ -4374,13 +4777,14 @@ msgstr ""
 
 #: ../../SOI.rst:1509
 msgid "Corrupted Grafstone enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1511
 msgid ""
 "|tap|: Choose a color of a card in your graveyard. Add one mana of that "
 "color."
 msgstr ""
+"|tap|: Wybierz kolor karty w twoim cmentarzy. Weź jedną manę owego koloru."
 
 #: ../../SOI.rst:1516
 msgid ""
@@ -4393,6 +4797,8 @@ msgstr ""
 msgid ""
 "|mana_2|: Put target card from your graveyard on the bottom of your library."
 msgstr ""
+"|mana_2|: Umieść wskazaną kartę z twojego cmentarza na spodzie twojej "
+"biblioteki."
 
 #: ../../SOI.rst:1520
 msgid ""
@@ -4421,6 +4827,8 @@ msgid ""
 "When Harvest Hand dies, return it to the battlefield transformed under your "
 "control."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go transformowanego na pole walki pod twoim "
+"władaniem."
 
 #: ../../SOI.rst:1532
 msgid ""
@@ -4438,6 +4846,8 @@ msgid ""
 "As long as equipped creature is a Human, it has menace. (It can't be blocked "
 "except by two or more creatures.)"
 msgstr ""
+"O ile wyposażony stwór jest Człowiekiem, ma złowrogość. (Nie może być "
+"blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../SOI.rst:1531 ../../SOI.rst:1585
 msgid "Equip |mana_2|"
@@ -4452,7 +4862,7 @@ msgstr ""
 
 #: ../../SOI.rst:1535
 msgid "Equipped creature has vigilance, trample, and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma czujność, tratowanie i pośpiech."
 
 #: ../../SOI.rst:1537 ../../SOI.rst:1557
 msgid "Equip |mana_1|"
@@ -4474,6 +4884,8 @@ msgid ""
 "|mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with "
 "\"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"|mana_4|, |tap|: Dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka "
+"mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:1550
 msgid ""
@@ -4488,7 +4900,7 @@ msgstr "Wyposażony stwór dostaje +2/+2."
 
 #: ../../SOI.rst:1549
 msgid "Equip—Discard a card."
-msgstr ""
+msgstr "Wyposaż—Odrzuć kartę."
 
 #: ../../SOI.rst:1558
 msgid ""
@@ -4499,7 +4911,7 @@ msgstr ""
 
 #: ../../SOI.rst:1555
 msgid "When equipped creature transforms, transform Neglected Heirloom."
-msgstr ""
+msgstr "Kiedy wyposażony stwór transformuje, transformuj ten artefakt."
 
 #: ../../SOI.rst:1564
 msgid ""
@@ -4510,7 +4922,7 @@ msgstr ""
 
 #: ../../SOI.rst:1561
 msgid "Equipped creature gets +3/+3 and has first strike."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+3 i ma pierwszy cios."
 
 #: ../../SOI.rst:1563 ../../SOI.rst:1593
 msgid "Equip |mana_3|"
@@ -4525,7 +4937,7 @@ msgstr ""
 
 #: ../../SOI.rst:1569
 msgid "When Runaway Carriage attacks or blocks, sacrifice it at end of combat."
-msgstr ""
+msgstr "Kiedy ten stwór atakuje lub blokuje, poświęć go na koniec walki."
 
 #: ../../SOI.rst:1578
 msgid ""
@@ -4543,6 +4955,8 @@ msgid ""
 "Whenever equipped creature attacks, you may put the top two cards of your "
 "library into your graveyard."
 msgstr ""
+"Ilekroć wyposażony stwór atakuje, możesz umieścić dwie wierzchnie karty "
+"twojej biblioteki w twoim cmentarzu."
 
 #: ../../SOI.rst:1577
 msgid ""
@@ -4564,12 +4978,16 @@ msgid ""
 "Equipped creature has skulk. (It can't be blocked by creatures with greater "
 "power.)"
 msgstr ""
+"Wyposażony stwór ma przyczajenie. (Nie może być blokowany przez stwory z "
+"większą siłą.)"
 
 #: ../../SOI.rst:1583
 msgid ""
 "Whenever equipped creature deals combat damage to a player, you may draw a "
 "card. If you do, discard a card."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, możesz dobrać "
+"kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../SOI.rst:1594
 msgid ""
@@ -4580,13 +4998,15 @@ msgstr ""
 
 #: ../../SOI.rst:1589
 msgid "Equipped creature gets +4/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+2."
 
 #: ../../SOI.rst:1591
 msgid ""
 "Whenever equipped creature dies, if it was a Human, create a 1/1 white "
 "Spirit creature token with flying."
 msgstr ""
+"Ilekroć wyposażony stwór umrze, jeśli był Człowiekiem, stwórz żeton białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../SOI.rst:1600
 msgid ""
@@ -4600,12 +5020,17 @@ msgid ""
 "At the beginning of your upkeep, investigate. (Create a colorless Clue "
 "artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Na początku twojego kroku utrzymania, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:1599
 msgid ""
 "|tap|, Sacrifice three Clues: Search your library for a card and put that "
 "card into your hand. Then shuffle your library."
 msgstr ""
+"|tap|, poświęć trzy Wskazówki: Wyszukaj w twojej bibliotece dowolną kartę i "
+"umieść ją w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../SOI.rst:1606
 msgid ""
@@ -4616,7 +5041,7 @@ msgstr ""
 
 #: ../../SOI.rst:1605
 msgid "|mana_6|: Transform Thraben Gargoyle."
-msgstr ""
+msgstr "|mana_6|: Transformuj tego stwora."
 
 #: ../../SOI.rst:1610
 msgid ""
@@ -4635,11 +5060,11 @@ msgstr ""
 
 #: ../../SOI.rst:1613
 msgid "Equipped creature gets +1/+1 and has vigilance."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 i ma czujność."
 
 #: ../../SOI.rst:1615
 msgid "As long as equipped creature is a Human, it gets an additional +1/+0."
-msgstr ""
+msgstr "O ile wyposażony stwór jest Człowiekiem, dostaje dodatkowe +1/+0."
 
 #: ../../SOI.rst:1617
 msgid ""
@@ -4669,6 +5094,9 @@ msgid ""
 "basic land cards, reveal them, and put them into your hand. Then shuffle "
 "your library."
 msgstr ""
+"|mana_2|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, ujawnij je i mieść w twojej ręce. Następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../SOI.rst:1634
 msgid ""
@@ -4683,6 +5111,8 @@ msgid ""
 "card from your hand. If you don't, Choked Estuary enters the battlefield "
 "tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz ujawnić z twojej ręki kartę Wyspy "
+"lub Bagna. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1633
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4700,6 +5130,7 @@ msgid ""
 "|mana_3|: Return Drownyard Temple from your graveyard to the battlefield "
 "tapped."
 msgstr ""
+"|mana_3|: Przywróć ten ląd z twojego cmentarza przekręcony na pole walki."
 
 #: ../../SOI.rst:1646
 msgid ""
@@ -4714,6 +5145,8 @@ msgid ""
 "Mountain card from your hand. If you don't, Foreboding Ruins enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz ujawnić z twojej ręki kartę Bagna "
+"lub Góry. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1645
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4747,6 +5180,9 @@ msgid ""
 "Plains card from your hand. If you don't, Fortified Village enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz ujawnić z twojej ręki kartę Lasu "
+"lub Równiny. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na pole "
+"walki."
 
 #: ../../SOI.rst:1657
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -4775,6 +5211,8 @@ msgid ""
 "As Game Trail enters the battlefield, you may reveal a Mountain or Forest "
 "card from your hand. If you don't, Game Trail enters the battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz ujawnić z twojej ręki kartę Góry "
+"lub Lasu. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../SOI.rst:1669
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4807,6 +5245,9 @@ msgid ""
 "As Port Town enters the battlefield, you may reveal a Plains or Island card "
 "from your hand. If you don't, Port Town enters the battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz ujawnić z twojej ręki kartę "
+"Równiny lub Wyspy. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na "
+"pole walki."
 
 #: ../../SOI.rst:1681
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4839,6 +5280,9 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a basic "
 "land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręcona na polu walki, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../SOI.rst:1702
 msgid ""
@@ -4852,12 +5296,16 @@ msgid ""
 "|mana_5|, |tap|, Pay 1 life: Create a 1/1 white and black Human Cleric "
 "creature token."
 msgstr ""
+"|mana_5|, |tap|, zapłać 1 życie: Stwórz żeton biało-czarnego stwora Człowiek "
+"Kleryk 1/1."
 
 #: ../../SOI.rst:1701
 msgid ""
 "|mana_5|, |tap|, Sacrifice five creatures: Transform Westvale Abbey, then "
 "untap it."
 msgstr ""
+"|mana_5|, |tap|, poświęć pięć stworów: Transformuj ten ląd, następnie odkręć "
+"go."
 
 #: ../../SOI.rst:1706
 msgid ""
@@ -4869,7 +5317,7 @@ msgstr ""
 
 #: ../../SOI.rst:1705
 msgid "Flying, lifelink, indestructible, haste"
-msgstr ""
+msgstr "Latanie, więź życia, niezniszczalność, pośpiech"
 
 #: ../../SOI.rst:1712
 msgid ""
