@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 20:04+0000\n"
+"PO-Revision-Date: 2020-02-17 21:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -46,7 +46,7 @@ msgstr ""
 msgid ""
 "When you cast this spell, target opponent loses 3 life and you gain 3 life."
 msgstr ""
-"Kiedy rzucisz ten czar, wskazany przeciwnik traci 3 życia, a ty zyskujesz 3 "
+"Kiedy rzucisz ten czar, wskazany przeciwnik traci 3 życia, a ty zyskaj 3 "
 "życia."
 
 #: ../../EMN.rst:20
@@ -102,8 +102,8 @@ msgid ""
 "converted mana cost 4 or greater. That player discards those cards."
 msgstr ""
 "Kiedy rzucisz ten czar, wskazany przeciwnik ujawnia swoją rękę. Wybierz z "
-"niej kartę nie będącą lądem o skróconym koszcie many 3 lub mniejszym oraz "
-"kartę o skróconym koszcie many 4 lub większym. Ów gracz odrzuca owe karty."
+"niej nielądową kartę nie o skróconym koszcie many 3 lub mniejszym oraz kartę "
+"o skróconym koszcie many 4 lub większym. Ów gracz odrzuca owe karty."
 
 #: ../../EMN.rst:34
 msgid ""
@@ -130,7 +130,7 @@ msgstr ""
 msgid ""
 "Drownyard Behemoth has hexproof as long as it entered the battlefield this "
 "turn."
-msgstr ""
+msgstr "Ten stwór ma antyklątwę o ile wszedł na pole walki w tej turze."
 
 #: ../../EMN.rst:42
 msgid ""
@@ -178,9 +178,8 @@ msgid ""
 "When you cast this spell, you gain control of target opponent during that "
 "player's next turn. After that turn, that player takes an extra turn."
 msgstr ""
-"Kiedy rzucisz ten czar, zyskujesz władanie nad wskazanym przeciwnikiem w "
-"czasie najbliższej tury owego gracza. Po owej turze ów grasz bierze "
-"dodatkową turę."
+"Kiedy rzucisz ten czar, zyskaj władanie nad wskazanym przeciwnikiem w czasie "
+"najbliższej tury owego gracza. Po owej turze ów grasz bierze dodatkową turę."
 
 #: ../../EMN.rst:49
 msgid "Flying, trample, protection from instants"
@@ -202,7 +201,7 @@ msgid ""
 "When Eternal Scourge becomes the target of a spell or ability an opponent "
 "controls, exile Eternal Scourge."
 msgstr ""
-"Kiedy ten stwór zostaje wskazany przez czar lub zdolność pod władaniem "
+"Kiedy ten stwór zostanie wskazany przez czar lub zdolność pod władaniem "
 "przeciwnika, wygnaj tego stwora."
 
 #: ../../EMN.rst:62
@@ -223,7 +222,7 @@ msgstr ""
 
 #: ../../EMN.rst:61
 msgid "When you cast this spell, create two 1/1 green Insect creature tokens."
-msgstr "Kiedy rzucisz ten czar, stwórz dwa żetony zielonego stwora Insekt 1/1."
+msgstr "Kiedy rzucisz ten czar, stwórz dwa żetony zielonego stwora Owad 1/1."
 
 #: ../../EMN.rst:68
 msgid ""
@@ -247,8 +246,8 @@ msgid ""
 "When you cast this spell, you may put target nonland permanent on top of its "
 "owner's library."
 msgstr ""
-"Kiedy rzucisz ten czar, możesz umieścić wskazany permanent nie będący lądem "
-"na wierzchu biblioteki jego właściciela."
+"Kiedy rzucisz ten czar, możesz umieścić wskazany nielądowy permanent na "
+"wierzchu biblioteki właściciela."
 
 #: ../../EMN.rst:74
 msgid ""
@@ -292,6 +291,8 @@ msgid ""
 "When you cast this spell, you may return target instant or sorcery card from "
 "your graveyard to your hand."
 msgstr ""
+"Kiedy rzucisz ten czar, możesz przywrócić wskazaną kartę sztuczki lub "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../EMN.rst:88
 msgid ""
@@ -389,6 +390,8 @@ msgid ""
 "When you cast this spell, you may return target Angel or Human creature card "
 "from your graveyard to the battlefield."
 msgstr ""
+"Kiedy rzucisz ten czar, możesz przywrócić wskazaną kartę Anioła lub "
+"Człowieka z twojego cmentarza na pole walki."
 
 #: ../../EMN.rst:115
 msgid "Flying, vigilance"
@@ -396,7 +399,7 @@ msgstr "Latanie, czujność"
 
 #: ../../EMN.rst:117
 msgid "(Melds with Gisela, the Broken Blade.)"
-msgstr ""
+msgstr "(Łączy się z Gisela, the Broken Blade.)"
 
 #: ../../EMN.rst:124
 msgid ""
@@ -413,6 +416,8 @@ msgstr "Latanie, pierwszy cios, czujność, więź życia"
 #: ../../EMN.rst:123
 msgid "Your opponents can't cast spells with converted mana cost 3 or less."
 msgstr ""
+"Twoi przeciwnicy nie mogą rzucać czarów o skróconych kosztach many 3 lub "
+"mniejszych."
 
 #: ../../EMN.rst:132
 msgid ""
@@ -435,6 +440,7 @@ msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|, Sacrifice Choking Restraints: Exile "
 "enchanted creature."
 msgstr ""
+"|mana_3|\\ |mana_w|\\ |mana_w|, poświęć ten urok: Wygnaj zauroczonego stwora."
 
 #: ../../EMN.rst:144
 msgid ""
@@ -462,6 +468,7 @@ msgstr "Zniszcz wskazany urok."
 #: ../../EMN.rst:143
 msgid "Put a +1/+1 counter on each creature target player controls."
 msgstr ""
+"Umieść znacznik +1/+1 na każdym stworze pod władaniem wskazanego gracza."
 
 #: ../../EMN.rst:148
 msgid ""
@@ -476,6 +483,10 @@ msgid ""
 "of your library. You may reveal a Human card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę Człowieka i umieścić ją "
+"w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
+"kolejności."
 
 #: ../../EMN.rst:152
 msgid ""
@@ -497,6 +508,9 @@ msgid ""
 "cards from among them onto the battlefield. Put the rest on the bottom of "
 "your library in a random order."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść spośród nich co "
+"najwyżej dwie karty wędrowców na polu walki. Umieść pozostałe na spodzie "
+"twojej biblioteki w losowej kolejności."
 
 #: ../../EMN.rst:162
 msgid ""
@@ -510,12 +524,15 @@ msgid ""
 "When Desperate Sentry dies, create a 3/2 colorless Eldrazi Horror creature "
 "token."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:161
 msgid ""
 "Delirium — Desperate Sentry gets +3/+0 as long as there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +3/+0 o ile w twoim cmentarzu są karty należące "
+"do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:168
 msgid ""
@@ -529,6 +546,8 @@ msgid ""
 "When Drogskol Shieldmate enters the battlefield, other creatures you control "
 "get +0/+1 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"dostają do końca tury +0/+1."
 
 #: ../../EMN.rst:174
 msgid ""
@@ -542,12 +561,16 @@ msgid ""
 "When Extricator of Sin enters the battlefield, you may sacrifice another "
 "permanent. If you do, create a 3/2 colorless Eldrazi Horror creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić inny permanent. "
+"Jeśli tak zrobisz, stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:173
 msgid ""
 "Delirium — At the beginning of your upkeep, if there are four or more card "
 "types among cards in your graveyard, transform Extricator of Sin."
 msgstr ""
+"Delirium — Na początku twojego kroku utrzymania, jeśli w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart, transformuj tego stwora."
 
 #: ../../EMN.rst:180
 msgid ""
@@ -558,13 +581,15 @@ msgstr ""
 
 #: ../../EMN.rst:177
 msgid "Eldrazi you control have vigilance."
-msgstr ""
+msgstr "Eldrazi pod twoim władaniem mają czujność."
 
 #: ../../EMN.rst:179
 msgid ""
 "|mana_2|, |tap|, Sacrifice a non-Eldrazi creature: Create a 3/2 colorless "
 "Eldrazi Horror creature token."
 msgstr ""
+"|mana_2|, |tap|, poświęć stwora bez typu Eldrazi: Stwórz żeton bezkolorowego "
+"stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:188
 msgid ""
@@ -582,6 +607,8 @@ msgid ""
 "When Faith Unbroken enters the battlefield, exile target creature an "
 "opponent controls until Faith Unbroken leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego stwora pod władaniem "
+"przeciwnika dopóki niniejszy urok nie opuści pola walki."
 
 #: ../../EMN.rst:187 ../../EMN.rst:1095
 msgid "Enchanted creature gets +2/+2."
@@ -613,6 +640,8 @@ msgstr ""
 msgid ""
 "Whenever Fiend Binder attacks, tap target creature defending player controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
+"broniącego się gracza."
 
 #: ../../EMN.rst:202
 msgid ""
@@ -631,6 +660,8 @@ msgid ""
 "defender as long as there are four or more card types among cards in your "
 "graveyard."
 msgstr ""
+"Delirium — Ten stwór może atakować jakby nie miał obronności o ile w twoim "
+"cmentarzu są karty należące do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:208
 msgid ""
@@ -649,6 +680,9 @@ msgid ""
 "Broken Blade and a creature named Bruna, the Fading Light, exile them, then "
 "meld them into Brisela, Voice of Nightmares."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli jednocześnie masz w posiadaniu i "
+"władaniu tego stwora oraz stwora o nazwie Bruna, the Fading Light, wygnaj "
+"je, następnie połącz je tworząc Brisela, Voice of Nightmares."
 
 #: ../../EMN.rst:212
 msgid ""
@@ -662,6 +696,8 @@ msgid ""
 "Target creature gets +2/+6 until end of turn and can block any number of "
 "creatures this turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+6 i może blokować dowolną liczbę "
+"stworów w tej turze."
 
 #: ../../EMN.rst:216
 msgid ""
@@ -675,6 +711,8 @@ msgid ""
 "When Guardian of Pilgrims enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"1/+1."
 
 #: ../../EMN.rst:220
 msgid ""
@@ -688,6 +726,8 @@ msgid ""
 "When Ironclad Slayer enters the battlefield, you may return target Aura or "
 "Equipment card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę Aury "
+"lub Wyposażenia z twojego cmentarza do twojej ręki."
 
 #: ../../EMN.rst:224
 msgid ""
@@ -709,13 +749,15 @@ msgstr ""
 
 #: ../../EMN.rst:227
 msgid "First strike, lifelink"
-msgstr ""
+msgstr "Pierwszy cios, więź życia"
 
 #: ../../EMN.rst:229
 msgid ""
 "At the beginning of the end step, if you gained 3 or more life this turn, "
 "transform Lone Rider."
 msgstr ""
+"Na początku kroku końcowego, jeśli zyskałeś co najmniej 3 życia w tej turze, "
+"transformuj tego stwora."
 
 #: ../../EMN.rst:234
 msgid ""
@@ -726,7 +768,7 @@ msgstr ""
 
 #: ../../EMN.rst:233
 msgid "First strike, trample, lifelink"
-msgstr ""
+msgstr "Pierwszy cios, tratowanie, więź życia"
 
 #: ../../EMN.rst:238
 msgid ""
@@ -740,6 +782,9 @@ msgid ""
 "Exile target creature. At the beginning of the next end step, return that "
 "card to the battlefield under its owner's control with a +1/+1 counter on it."
 msgstr ""
+"Wygnaj wskazanego stwora. Na początku najbliższego kroku końcowego przywróć "
+"ową kartę z umieszczonym znacznikiem +1/+1 na pole walki pod władaniem "
+"właściciela."
 
 #: ../../EMN.rst:244
 msgid ""
@@ -753,6 +798,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_1|, Sacrifice a permanent: "
 "This creature gains flying until end of turn.\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma '|mana_1|, poświęć permanent: Ten stwór "
+"zyskuje latanie do końca tury.\""
 
 #: ../../EMN.rst:248
 msgid ""
@@ -763,7 +810,7 @@ msgstr ""
 
 #: ../../EMN.rst:247
 msgid "|mana_w|, Discard a card: You gain 3 life."
-msgstr ""
+msgstr "|mana_2|, odrzuć kartę: Zyskaj 3 życia."
 
 #: ../../EMN.rst:254
 msgid ""
@@ -777,10 +824,12 @@ msgid ""
 "You may reveal this card from your opening hand. If you do, at the beginning "
 "of the first upkeep, your life total becomes 26."
 msgstr ""
+"Możesz ujawnić tę kartę z twojej startowej ręki. Jeśli tak zrobisz, na "
+"początku pierwszego kroku utrzymania, liczba twoich żyć ma wartość 26."
 
 #: ../../EMN.rst:253
 msgid "Your life total becomes 26."
-msgstr ""
+msgstr "Liczba twoich żyć ma wartość 26."
 
 #: ../../EMN.rst:258
 msgid ""
@@ -792,6 +841,8 @@ msgstr ""
 #: ../../EMN.rst:257
 msgid "Prevent all damage that would be dealt this turn by non-Human sources."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane przez źródła bez "
+"typu Człowiek."
 
 #: ../../EMN.rst:264
 msgid ""
@@ -805,12 +856,16 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Sanctifier of Souls gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, niniejszy "
+"stwór dostaje do końca tury +1/+1."
 
 #: ../../EMN.rst:263
 msgid ""
 "|mana_2|\\ |mana_w|, Exile a creature card from your graveyard: Create a 1/1 "
 "white Spirit creature token with flying."
 msgstr ""
+"|mana_2|\\ |mana_w|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
+"białego stwora Duch 1/1 z lataniem."
 
 #: ../../EMN.rst:270
 msgid ""
@@ -824,6 +879,8 @@ msgid ""
 "Sacrifice Selfless Spirit: Creatures you control gain indestructible until "
 "end of turn."
 msgstr ""
+"Poświęć tego stwora: Stwory pod twoim władaniem zyskują niezniszczalność do "
+"końca tury."
 
 #: ../../EMN.rst:276
 msgid ""
@@ -834,13 +891,15 @@ msgstr ""
 
 #: ../../EMN.rst:273
 msgid "You may cast Aura and Equipment spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary Aur i Wyposażeń jakby miały błysk."
 
 #: ../../EMN.rst:275
 msgid ""
 "Whenever an Equipment enters the battlefield under your control, you may "
 "attach it to target creature you control."
 msgstr ""
+"Ilekroć Wyposażenie wejdzie na pole walki pod twoim władaniem, możesz "
+"dołączyć je do wskazanego stwora pod twoim władaniem."
 
 #: ../../EMN.rst:280
 msgid ""
@@ -851,7 +910,7 @@ msgstr ""
 
 #: ../../EMN.rst:279
 msgid "|mana_1|, |tap|: Tap target non-Human creature."
-msgstr "|mana_1|, |tap|: Przekręć wskazanego stwora nie będącego Człowiekiem."
+msgstr "|mana_1|, |tap|: Przekręć wskazanego stwora bez typu Człowiek."
 
 #: ../../EMN.rst:284
 msgid ""
@@ -863,7 +922,7 @@ msgstr ""
 #: ../../EMN.rst:283
 msgid ""
 "Create two 1/1 white Spirit creature tokens with flying. You gain 2 life."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem. Zyskaj 2 życia."
 
 #: ../../EMN.rst:288
 msgid ""
@@ -874,7 +933,7 @@ msgstr ""
 
 #: ../../EMN.rst:287
 msgid "Whenever Steadfast Cathar attacks, it gets +0/+2 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, dostaje do końca tury +0/+2."
 
 #: ../../EMN.rst:294
 msgid ""
@@ -907,6 +966,8 @@ msgid ""
 "Creatures and nonbasic lands your opponents control enter the battlefield "
 "tapped."
 msgstr ""
+"Stwory i niebazowe lądy pod władaniem twoich przeciwników wchodzą "
+"przekręcone na pole walki."
 
 #: ../../EMN.rst:306
 msgid ""
@@ -921,6 +982,9 @@ msgid ""
 "for a legendary card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"legendarną kartę, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../EMN.rst:310
 msgid ""
@@ -934,6 +998,8 @@ msgid ""
 "|mana_1|\\ |mana_w|, |tap|, Discard a card: Create a 1/1 white Human Soldier "
 "creature token."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|, odrzuć kartę: Stwórz żeton białego stwora "
+"Człowiek Piechur 1/1."
 
 #: ../../EMN.rst:316
 msgid ""
@@ -988,6 +1054,8 @@ msgid ""
 "You may choose an Eldrazi card you own from outside the game or in exile, "
 "reveal that card, and put it into your hand."
 msgstr ""
+"Możesz wybrać własną kartę Eldrazi spoza gry lub z wygnania, ujawnij ją i "
+"umieść w twojej ręce."
 
 #: ../../EMN.rst:330
 msgid ""
@@ -1028,13 +1096,16 @@ msgid ""
 "|tap|: Add |colorless|. Spend this mana only to cast an instant or sorcery "
 "spell."
 msgstr ""
-"|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucenie sztuczki lub obrzędu."
+"|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
+"obrzędu."
 
 #: ../../EMN.rst:339
 msgid ""
 "At the beginning of your upkeep, if there are three or more instant and/or "
 "sorcery cards in your graveyard, transform Curious Homunculus."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli w twoim cmentarzu są co najmniej "
+"trzy karty sztuczki i/lub obrzędu, transformuj tego stwora."
 
 #: ../../EMN.rst:346
 msgid ""
@@ -1084,6 +1155,9 @@ msgid ""
 "Wizard creature token. Then if you control three or more Wizards, transform "
 "Docent of Perfection."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton niebieskiego stwora "
+"Człowiek Czarodziej 1/1. Następnie jeśli władasz co najmniej trzema "
+"Czarodziejami, transformuj tego stwora."
 
 #: ../../EMN.rst:364
 msgid ""
@@ -1095,13 +1169,15 @@ msgstr ""
 
 #: ../../EMN.rst:361
 msgid "Wizards you control get +2/+1 and have flying."
-msgstr ""
+msgstr "Czarodzieje pod twoim władaniem dostają +2/+1 i mają latanie."
 
 #: ../../EMN.rst:363
 msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 blue Human "
 "Wizard creature token."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton niebieskiego stwora "
+"Człowiek Czarodziej 1/1."
 
 #: ../../EMN.rst:370
 msgid ""
@@ -1130,6 +1206,8 @@ msgid ""
 "When Enlightened Maniac enters the battlefield, create a 3/2 colorless "
 "Eldrazi Horror creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego stwora "
+"Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:378
 msgid ""
@@ -1140,7 +1218,7 @@ msgstr ""
 
 #: ../../EMN.rst:377
 msgid "When Exultant Cultist dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../EMN.rst:384
 msgid ""
@@ -1159,6 +1237,9 @@ msgid ""
 "When Fogwalker enters the battlefield, target creature an opponent controls "
 "doesn't untap during its controller's next untap step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika nie odkręci się podczas następnego kroku odkręcania swojego "
+"władcy."
 
 #: ../../EMN.rst:388
 msgid ""
@@ -1173,6 +1254,9 @@ msgid ""
 "them into a face-down pile and a face-up pile. Put one pile into your hand "
 "and the other into your graveyard."
 msgstr ""
+"Wskazany przeciwnik patrzy na cztery wierzchnie karty twojej biblioteki i "
+"rozdziela je na dwa stosy – jeden odkryty, drugi zakryty. Umieść jeden stos "
+"w twojej ręce, a drugi w twoim cmentarzu."
 
 #: ../../EMN.rst:394
 msgid ""
@@ -1190,6 +1274,8 @@ msgid ""
 "At the beginning of your upkeep, scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Na początku twojego kroku utrzymania, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../EMN.rst:398
 msgid ""
@@ -1356,6 +1442,8 @@ msgid ""
 "Delirium — This spell costs |mana_2| less to cast if there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli w twoim "
+"cmentarzu są karty należące do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:459
 msgid "Draw three cards."
@@ -1613,6 +1701,9 @@ msgid ""
 "Rats and a creature named Midnight Scavengers, exile them, then meld them "
 "into Chittering Host."
 msgstr ""
+"Na początku walki w twojej turze, jeśli jednocześnie masz w posiadaniu i "
+"władaniu tego stwora oraz stwora o nazwie Midnight Scavengers, wygnaj je, "
+"następnie połącz je tworząc Chittering Host."
 
 #: ../../EMN.rst:570
 msgid ""
@@ -1699,7 +1790,7 @@ msgstr ""
 
 #: ../../EMN.rst:593
 msgid "(Melds with Graf Rats.)"
-msgstr ""
+msgstr "(Łączy się z Graf Rats.)"
 
 #: ../../EMN.rst:602
 msgid ""
@@ -1857,6 +1948,8 @@ msgid ""
 "Delirium — Enchanted creature gets an additional +2/+2 as long as there are "
 "four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Zauroczony stwór dostaje dodatkowe +2/+2 o ile w twoim cmentarzu "
+"są karty należące do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:652
 msgid ""
@@ -1895,6 +1988,9 @@ msgid ""
 "four or more card types among cards in your graveyard. (A creature with "
 "menace can't be blocked except by two or more creatures.)"
 msgstr ""
+"Delirium — Ten stwór dostaje +1/+1 i ma złowrogość o ile w twoim cmentarzu "
+"są karty należące do przynajmniej czterech typów kart. (Stwór ze "
+"złowrogością nie może być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../EMN.rst:666
 msgid ""
@@ -1998,6 +2094,8 @@ msgid ""
 "Delirium — If there are four or more card types among cards in your "
 "graveyard, that player discards two cards at random instead."
 msgstr ""
+"Delirium — Jeśli w twoim cmentarzu są karty należące do przynajmniej "
+"czterech typów kart, zamiast tego ów gracz odrzuca dwie losowe karty."
 
 #: ../../EMN.rst:706
 msgid ""
@@ -2262,7 +2360,7 @@ msgstr ""
 
 #: ../../EMN.rst:797
 msgid "(Melds with Hanweir Battlements.)"
-msgstr ""
+msgstr "(Łączy się z Hanweir Battlements.)"
 
 #: ../../EMN.rst:804
 msgid ""
@@ -2597,6 +2695,8 @@ msgid ""
 "Delirium — Backwoods Survivalists gets +1/+1 and has trample as long as "
 "there are four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +1/+1 i ma tratowanie o ile w twoim cmentarzu "
+"są karty należące do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:936
 msgid ""
@@ -2643,6 +2743,10 @@ msgid ""
 "your hand. Activate this ability only if there are four or more card types "
 "among cards in your graveyard."
 msgstr ""
+"Delirium — |mana_2|\\ |mana_g|, poświęć ten urok: Przywróć co najwyżej jedną "
+"wskazaną kartę stwora i co najwyżej jedną wskazaną kartę lądu z twojego "
+"cmentarza do twojej ręki. Możesz użyć tej zdolności tylko jeśli w twoim "
+"cmentarzu są karty należące do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:950
 msgid ""
@@ -2739,6 +2843,8 @@ msgid ""
 "Delirium — Gnarlwood Dryad gets +2/+2 as long as there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +2/+2 o ile w twoim cmentarzu są karty należące "
+"do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:980
 msgid ""
@@ -2779,6 +2885,9 @@ msgid ""
 "four or more card types among cards in your graveyard, create three 1/2 "
 "green Spider creature tokens with reach."
 msgstr ""
+"Delirium — Kiedy ten stwór wejdzie na pole walki, jeśli w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart, stwórz trzy żetony "
+"zielonego stwora Pająk 1/2 z zasięgiem."
 
 #: ../../EMN.rst:991
 msgid ""
@@ -3150,6 +3259,8 @@ msgid ""
 "Delirium — Grim Flayer gets +2/+2 as long as there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +2/+2 o ile w twoim cmentarzu są karty należące "
+"do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:1136
 msgid ""
@@ -3190,6 +3301,9 @@ msgid ""
 "more card types among cards in your graveyard, creatures with power 2 or "
 "less can't block this turn."
 msgstr ""
+"Delirium — Kiedy ten stwór wejdzie na pole walki, jeśli w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart, stwory o sile 2 lub "
+"mniejszej nie mogą blokować w tej turze."
 
 #: ../../EMN.rst:1152
 msgid ""
@@ -3517,6 +3631,9 @@ msgid ""
 "Battlements and a creature named Hanweir Garrison, exile them, then meld "
 "them into Hanweir, the Writhing Township."
 msgstr ""
+"|mana_3|\\ |mana_r|\\ |mana_r|, |tap|: jeśli jednocześnie masz w posiadaniu "
+"i władaniu ten ląd oraz stwora o nazwie Hanweir Garrison, wygnaj je, "
+"następnie połącz je tworząc Hanweir, the Writhing Township."
 
 #: ../../EMN.rst:1275
 msgid ""
