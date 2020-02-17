@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 19:48+0000\n"
+"PO-Revision-Date: 2020-02-17 20:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -23,9 +23,8 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../EMN.rst:5
-#, fuzzy
 msgid ":mtgexp:`EMN` Eldritch Moon"
-msgstr ":mtgexp:`EMN` Eldritch Moon"
+msgstr ":mtgexp:`EMN` Eldritch Moon (Złowieszczy księżyc)"
 
 #: ../../EMN.rst:12
 msgid ""
@@ -40,6 +39,8 @@ msgid ""
 "creature and paying the emerge cost reduced by that creature's converted "
 "mana cost.)"
 msgstr ""
+"Wyłonienie |mana_6|\\ |mana_b| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrócony koszt many owego stwora.)"
 
 #: ../../EMN.rst:11
 msgid ""
@@ -61,6 +62,9 @@ msgid ""
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
 "converted mana cost.)"
 msgstr ""
+"Wyłonienie |mana_6|\\ |mana_g|\\ |mana_g|\\ |mana_g| (Możesz rzucić ten czar "
+"poświęcając stwora i opłacając koszt wyłonienia pomniejszony o skrócony "
+"koszt many owego stwora.)"
 
 #: ../../EMN.rst:17
 msgid ""
@@ -87,6 +91,9 @@ msgid ""
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
 "converted mana cost.)"
 msgstr ""
+"Wyłonienie |mana_5|\\ |mana_b|\\ |mana_b| (Możesz rzucić ten czar "
+"poświęcając stwora i opłacając koszt wyłonienia pomniejszony o skrócony "
+"koszt many owego stwora.)"
 
 #: ../../EMN.rst:25
 msgid ""
@@ -116,6 +123,8 @@ msgid ""
 "creature and paying the emerge cost reduced by that creature's converted "
 "mana cost.)"
 msgstr ""
+"Wyłonienie |mana_7|\\ |mana_u| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrócony koszt many owego stwora.)"
 
 #: ../../EMN.rst:33
 msgid ""
@@ -140,6 +149,9 @@ msgid ""
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
 "converted mana cost.)"
 msgstr ""
+"Wyłonienie |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar "
+"poświęcając stwora i opłacając koszt wyłonienia pomniejszony o skrócony "
+"koszt many owego stwora.)"
 
 #: ../../EMN.rst:41
 msgid "When you cast this spell, tap up to four target permanents."
@@ -206,6 +218,8 @@ msgid ""
 "creature and paying the emerge cost reduced by that creature's converted "
 "mana cost.)"
 msgstr ""
+"Wyłonienie |mana_6|\\ |mana_g| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrócony koszt many owego stwora.)"
 
 #: ../../EMN.rst:61
 msgid "When you cast this spell, create two 1/1 green Insect creature tokens."
@@ -224,6 +238,9 @@ msgid ""
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
 "converted mana cost.)"
 msgstr ""
+"Wyłonienie |mana_5|\\ |mana_g|\\ |mana_u| (Możesz rzucić ten czar "
+"poświęcając stwora i opłacając koszt wyłonienia pomniejszony o skrócony "
+"koszt many owego stwora.)"
 
 #: ../../EMN.rst:67
 msgid ""
@@ -246,6 +263,8 @@ msgid ""
 "creature and paying the emerge cost reduced by that creature's converted "
 "mana cost.)"
 msgstr ""
+"Wyłonienie |mana_7|\\ |mana_g| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrócony koszt many owego stwora.)"
 
 #: ../../EMN.rst:73
 msgid ""
@@ -265,6 +284,8 @@ msgid ""
 "creature and paying the emerge cost reduced by that creature's converted "
 "mana cost.)"
 msgstr ""
+"Wyłonienie |mana_6|\\ |mana_u| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrócony koszt many owego stwora.)"
 
 #: ../../EMN.rst:79
 msgid ""
@@ -285,6 +306,8 @@ msgid ""
 "creature and paying the emerge cost reduced by that creature's converted "
 "mana cost.)"
 msgstr ""
+"Wyłonienie |mana_5|\\ |mana_u| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrócony koszt many owego stwora.)"
 
 #: ../../EMN.rst:85
 msgid "When you cast this spell, draw a card."
@@ -618,7 +641,7 @@ msgstr ""
 
 #: ../../EMN.rst:205
 msgid "Flying, first strike, lifelink"
-msgstr ""
+msgstr "Latanie, pierwszy cios, więź życia"
 
 #: ../../EMN.rst:207
 msgid ""
@@ -1447,7 +1470,7 @@ msgstr ""
 
 #: ../../EMN.rst:511
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje +1/+1 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +1/+1."
 
 #: ../../EMN.rst:513
 msgid "Target creature gets -1/-1 until end of turn."
@@ -2068,9 +2091,8 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:731
-#, fuzzy
 msgid "|mana_2|\\ |mana_r|: Bold Impaler gets +2/+0 until end of turn."
-msgstr "Wskazany stwór dostaje +1/+1 do końca tury."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../EMN.rst:742
 msgid ""
@@ -2698,6 +2720,8 @@ msgid ""
 "When you sacrifice Foul Emissary while casting a spell with emerge, create a "
 "3/2 colorless Eldrazi Horror creature token."
 msgstr ""
+"Kiedy poświęcisz tego stwora rzucając czar z wyłonieniem, stwórz żeton "
+"bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:976
 msgid ""
