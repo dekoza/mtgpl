@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 10:51+0000\n"
+"PO-Revision-Date: 2020-02-17 14:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../SOI.rst:9
 msgid "Nontoken creatures you control get +1/+1 and have vigilance."
-msgstr "Nie-żetonowe stwory pod twoim władaniem dostają +1/+1 i mają czujność."
+msgstr "Nieżetonowe stwory pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../SOI.rst:16
 msgid ""
@@ -60,9 +60,9 @@ msgid ""
 "more card types among cards in your graveyard, exile target creature an "
 "opponent controls."
 msgstr ""
-"Delirium — Ilekroć ten stwór zadaje obrażenia, jeśli w twoim cmentarzu są "
+"Delirium — Ilekroć ten stwór zada obrażenia, jeżeli w twoim cmentarzu są "
 "karty należące do przynajmniej czterech typów kart, wygnaj wskazanego stwora "
-"spod władania przeciwnika."
+"pod władaniem przeciwnika."
 
 #: ../../SOI.rst:22
 msgid ""
@@ -73,7 +73,7 @@ msgstr ""
 
 #: ../../SOI.rst:19
 msgid "As an additional cost to cast this spell, sacrifice a permanent."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru poświęć permanent."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć permanent."
 
 #: ../../SOI.rst:21
 msgid "Exile target artifact, creature, or enchantment."
@@ -91,8 +91,8 @@ msgid ""
 "When Apothecary Geist enters the battlefield, if you control another Spirit, "
 "you gain 3 life."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Duchem, zyskujesz "
-"3 życia."
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym Duchem, zyskaj 3 "
+"życia."
 
 #: ../../SOI.rst:38
 msgid ""
@@ -114,7 +114,7 @@ msgid ""
 "When Archangel Avacyn enters the battlefield, creatures you control gain "
 "indestructible until end of turn."
 msgstr ""
-"Kiedy ta karta wchodzi na pole walki, stwory pod twoim władaniem zyskują "
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem zyskują "
 "niezniszczalność do końca tury."
 
 #: ../../SOI.rst:37
@@ -122,6 +122,8 @@ msgid ""
 "When a non-Angel creature you control dies, transform Archangel Avacyn at "
 "the beginning of the next upkeep."
 msgstr ""
+"Kiedy umrze nie będący Aniołem stwór pod twoim władaniem, transformuj "
+"niniejszego stwora na początku najbliższego kroku utrzymania."
 
 #: ../../SOI.rst:44
 msgid ""
@@ -135,6 +137,8 @@ msgid ""
 "When this creature transforms into Avacyn, the Purifier, it deals 3 damage "
 "to each other creature and each opponent."
 msgstr ""
+"Kiedy ten stwór transformuje na tę formę, zadaje on każdemu innemu stworowi "
+"i każdemu przeciwnikowi po 3 obrażenia."
 
 #: ../../SOI.rst:48
 msgid ""
@@ -149,6 +153,8 @@ msgid ""
 "At the beginning of your end step, if Avacynian Missionaries is equipped, "
 "transform it."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli ten stwór jest wyposażony, "
+"transformuj go."
 
 #: ../../SOI.rst:52
 msgid ""
@@ -163,6 +169,8 @@ msgid ""
 "When this creature transforms into Lunarch Inquisitors, you may exile "
 "another target creature until Lunarch Inquisitors leaves the battlefield."
 msgstr ""
+"Kiedy ten stwór transformuje w tę formę, możesz wygnać innego wskazanego "
+"stwora dopóki niniejszy stwór nie opuści pola walki."
 
 #: ../../SOI.rst:60
 msgid ""
@@ -179,7 +187,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../SOI.rst:57
 msgid "Enchanted creature can't attack, block, or transform."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować, blokować ani transformować."
 
 #: ../../SOI.rst:59
 msgid ""
@@ -187,6 +195,8 @@ msgid ""
 "Activate this ability only any time you could cast a sorcery and only once "
 "each turn."
 msgstr ""
+"Poświęć inny permanent: Dołącz ten urok do wskazanego stwora. Używaj jako "
+"obrzęd. Możesz aktywować tę zdolność tylko raz na turę."
 
 #: ../../SOI.rst:66
 msgid ""
@@ -201,6 +211,9 @@ msgid ""
 "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć rzucisz czar stwora o skróconym koszcie many 3 lub mniejszym, "
+"dociekaj. (Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć "
+"ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:70
 msgid ""
@@ -215,6 +228,8 @@ msgid ""
 "indestructible until end of turn. (Damage and effects that say \"destroy\" "
 "don't destroy it.)"
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, ten stwór zyskuje niezniszczalność "
+"do końca tury. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../SOI.rst:74
 msgid ""
@@ -240,6 +255,8 @@ msgid ""
 "1/1 white Spirit creature token with flying. Activate this ability only any "
 "time you could cast a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
+"białego stwora Duch 1/1 z lataniem. Używaj jako obrzęd."
 
 #: ../../SOI.rst:82
 msgid ""
@@ -254,6 +271,9 @@ msgid ""
 "the same name as that creature. That player investigates for each nontoken "
 "creature exiled this way."
 msgstr ""
+"Wygnaj wskazanego stwora i wszystkie inne stwory pod władaniem jego władcy o "
+"takiej samej nazwie jak ów stwór. Ów gracz docieka za każdego nieżetonowego "
+"stwora wygnanego w ten sposób."
 
 #: ../../SOI.rst:88
 msgid ""
@@ -271,6 +291,8 @@ msgid ""
 "Delirium — Create a 4/4 white Angel creature token with flying if there are "
 "four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Stwórz żeton białego stwora Anioł 4/4 z lataniem jeżeli w twoim "
+"cmentarzu są karty należące do przynajmniej czterech typów kart."
 
 #: ../../SOI.rst:90
 msgid ""
@@ -291,11 +313,12 @@ msgid ""
 "Whenever another Spirit enters the battlefield under your control, you gain "
 "2 life."
 msgstr ""
+"Ilekroć inny Duch wejdzie na pole walki pod twoim władaniem, zyskaj 2 życia."
 
 #: ../../SOI.rst:99
 msgid ""
 "|mana_3|\\ |mana_w|: Create a 1/1 white Spirit creature token with flying."
-msgstr ""
+msgstr "|mana_3|\\ |mana_w|: Stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../SOI.rst:104
 msgid ""
@@ -310,6 +333,9 @@ msgid ""
 "battlefield under their owner's control at the beginning of the next end "
 "step."
 msgstr ""
+"Wygnaj dowolną liczbę wskazanych stworów pod twoim władaniem. Przywróć owe "
+"karty na pole walki pod władaniem właścicieli na początku najbliższego kroku "
+"końcowego."
 
 #: ../../SOI.rst:110
 msgid ""
@@ -323,6 +349,8 @@ msgid ""
 "When Emissary of the Sleepless enters the battlefield, if a creature died "
 "this turn, create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli w tej turze umarł stwór, stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../SOI.rst:114
 msgid ""
@@ -352,6 +380,8 @@ msgid ""
 "Investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Dociekaj. (Stwórz żeton bezkolorowego artefaktu mającego |mana_2|, poświęć "
+"ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:128
 msgid ""
@@ -362,7 +392,7 @@ msgstr ""
 
 #: ../../SOI.rst:125
 msgid "Enchanted creature gets +1/+0 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+0 i ma latanie."
 
 #: ../../SOI.rst:127
 msgid ""
@@ -443,6 +473,8 @@ msgid ""
 "Delirium — Inquisitor's Ox gets +1/+0 and has vigilance as long as there are "
 "four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +1/+0 i ma czujność o ile w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart."
 
 #: ../../SOI.rst:160
 msgid ""
@@ -482,6 +514,8 @@ msgid ""
 "Delirium — Moorland Drifter has flying as long as there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór ma latanie o ile w twoim cmentarzu są karty należące do "
+"przynajmniej czterech typów kart."
 
 #: ../../SOI.rst:174
 msgid ""
@@ -573,6 +607,8 @@ msgid ""
 "Delirium — Paranoid Parish-Blade gets +1/+0 and has first strike as long as "
 "there are four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór ma +1/+0 i pierwszy cios o ile w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart."
 
 #: ../../SOI.rst:202
 msgid ""
@@ -628,6 +664,9 @@ msgid ""
 "+1 until end of turn. Activate this ability only if there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Poświęć innego stwora: Ten stwór dostaje do końca tury +2/+1. "
+"Możesz aktywować tę zdolność tylko jeżeli w twoim cmentarzu są karty "
+"należące do przynajmniej czterech typów kart."
 
 #: ../../SOI.rst:220
 msgid ""
@@ -757,6 +796,9 @@ msgid ""
 "more card types among cards in your graveyard, tap target creature that "
 "player controls."
 msgstr ""
+"Delirium — Na początku kroku utrzymania każdego przeciwnika, jeżeli w twoim "
+"cmentarzu są karty należące do co najmniej czterech typów kart, przekręć "
+"wskazanego stwora pod władaniem owego gracza."
 
 #: ../../SOI.rst:266
 msgid ""
@@ -1127,6 +1169,10 @@ msgid ""
 "controller for any number of cards with the same name as that spell, exile "
 "those cards, then that player shuffles their library."
 msgstr ""
+"Delirium — Jeżeli w twoim cmentarzu są karty należące do co najmniej "
+"czterech typów kart, wyszukaj w cmentarzu, ręce oraz bibliotece władcy owego "
+"czaru dowolną liczbę kart o tej samej nazwie jak ów czar, wygnaj owe karty, "
+"następnie ów gracz tasuje swoją bibliotekę."
 
 #: ../../SOI.rst:404
 msgid ""
@@ -1211,6 +1257,9 @@ msgid ""
 "more card types among cards in your graveyard, that player puts the top "
 "three cards of their library into their graveyard."
 msgstr ""
+"Delirium — Na początku kroku utrzymania każdego przeciwnika, jeśli w twoim "
+"cmentarzu są karty należące do co najmniej czterech typów kart, ów gracz "
+"umieszcza cztery wierzchnie karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../SOI.rst:432
 msgid ""
@@ -1975,6 +2024,9 @@ msgid ""
 "card types among cards in your graveyard. (A creature with menace can't be "
 "blocked except by two or more creatures.)"
 msgstr ""
+"Delirium — Ten stwór ma złowrogość jeśli w twoim cmentarzu są karty należące "
+"do co najmniej czterech typów kart. (Stwór ze złowrogością nie może być "
+"blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../SOI.rst:702
 msgid ""
@@ -1997,15 +2049,14 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:705
-#, fuzzy
 msgid ""
 "Delirium — |mana_2|\\ |mana_b|: Transform Kindly Stranger. Activate this "
 "ability only if there are four or more card types among cards in your "
 "graveyard."
 msgstr ""
-"Delirium — Ilekroć ten stwór zadaje obrażenia, jeśli w twoim cmentarzu są "
-"karty należące do przynajmniej czterech typów kart, wygnaj wskazanego stwora "
-"spod władania przeciwnika."
+"Delirium — |mana_2|\\ |mana_b|: Transformuj tego stwora. Możesz aktywować tę "
+"zdolność tylko jeśli w twoim cmentarzu są karty należące do co najmniej "
+"czterech typów kart."
 
 #: ../../SOI.rst:710
 msgid ""
@@ -2099,6 +2150,8 @@ msgid ""
 "Delirium — At the beginning of your upkeep, you lose 4 life unless there are "
 "four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Na początku twojego kroku utrzymania, strać 4 życia, chyba że w "
+"twoim cmentarzu są karty należące do co najmniej czterech typów kart."
 
 #: ../../SOI.rst:744
 msgid ""
@@ -2178,6 +2231,10 @@ msgid ""
 "of cards with the same name as the exiled card, exile those cards, then that "
 "player shuffles their library."
 msgstr ""
+"Delirium — Jeśli w twoim cmentarzu są karty należące do co najmniej czterech "
+"typów kart, wyszukaj w cmentarzu ręce i bibliotece owego gracza dowolną "
+"liczbę kart o tej samej nazwie co owa wygnana karta, wygnaj owe karty, "
+"następnie ów gracz tasuje swoją bibliotekę."
 
 #: ../../SOI.rst:776
 msgid ""
@@ -2278,6 +2335,9 @@ msgid ""
 "turn. Activate this ability only if there are four or more card types among "
 "cards in your graveyard."
 msgstr ""
+"Delirium — |mana_1|\\ |mana_b|: Test stwór dostaje do końca tury +1/+1. "
+"Możesz aktywować tę zdolność tylko jeśli w twoim cmentarzu są karty należące "
+"do co najmniej czterech typów kart."
 
 #: ../../SOI.rst:808
 msgid ""
@@ -2319,6 +2379,8 @@ msgid ""
 "Delirium — If there are four or more card types among cards in your "
 "graveyard, instead that player sacrifices a creature and a planeswalker."
 msgstr ""
+"Delirium — Jeśli w twoim cmentarzu są karty należące do co najmniej czterech "
+"typów kart, zamiast tego ów gracz poświęca stwora oraz wędrowca."
 
 #: ../../SOI.rst:824
 msgid ""
@@ -2339,6 +2401,9 @@ msgid ""
 "more card types among cards in your graveyard, target creature that player "
 "controls gets -1/-1 until end of turn."
 msgstr ""
+"Delirium — Na początku kroku utrzymania każdego przeciwnika, jeśli w twoim "
+"cmentarzu są karty należące do co najmniej czterech typów kart, wskazany "
+"stwór pod władaniem owego gracza dostaje do końca tury -1/-1."
 
 #: ../../SOI.rst:832
 msgid ""
@@ -2726,6 +2791,9 @@ msgid ""
 "more card types among cards in your graveyard, Gibbering Fiend deals 1 "
 "damage to that player."
 msgstr ""
+"Delirium — Na początku kroku utrzymania każdego przeciwnika, jeśli w twoim "
+"cmentarzu są karty należące do co najmniej czterech typów kart, ten stwór "
+"zadaje owemu graczowi 1 obrażenie."
 
 #: ../../SOI.rst:958
 msgid ""
@@ -3000,6 +3068,8 @@ msgid ""
 "Delirium — Scourge Wolf has double strike as long as there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór ma podwójny cios o ile w twoim cmentarzu są karty "
+"należące do co najmniej czterech typów kart."
 
 #: ../../SOI.rst:1056
 msgid ""
@@ -3235,6 +3305,8 @@ msgid ""
 "Delirium — At the beginning of your end step, if there are four or more card "
 "types among cards in your graveyard, transform Autumnal Gloom."
 msgstr ""
+"Delirium — Na początku twojego kroku końcowego, jeśli w twoim cmentarzu są "
+"karty należące do co najmniej czterech typów kart, transformuj ten urok."
 
 #: ../../SOI.rst:1150
 msgid ""
@@ -3365,6 +3437,8 @@ msgid ""
 "Delirium — Deathcap Cultivator has deathtouch as long as there are four or "
 "more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór ma dotyk śmierci o ile w twoim cmentarzu są karty "
+"należące do co najmniej czterech typów kart."
 
 #: ../../SOI.rst:1194
 msgid ""
@@ -3562,6 +3636,9 @@ msgid ""
 "types among cards in your graveyard, create a 3/3 green Ooze creature token "
 "that's tapped and attacking."
 msgstr ""
+"Delirium — Ilekroć ten stwór atakuje, jeśli w twoim cmentarzu są karty "
+"należące do co najmniej czterech typów kart, stwórz przekręcony i atakujący "
+"żeton zielonego stwora Szlam 3/3."
 
 #: ../../SOI.rst:1264
 msgid ""
@@ -3588,6 +3665,8 @@ msgid ""
 "Delirium — Kessig Dire Swine has trample as long as there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór ma tratowanie o ile w twoim cmentarzu są karty należące "
+"do co najmniej czterech typów kart."
 
 #: ../../SOI.rst:1274
 msgid ""
@@ -3650,6 +3729,8 @@ msgid ""
 "Delirium — Put three +1/+1 counters on that creature instead if there are "
 "four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Zamiast tego umieść na owym stworze dwa znaczniki +1/+1 jeśli w "
+"twoim cmentarzu są karty należące do co najmniej czterech typów kart."
 
 #: ../../SOI.rst:1292
 msgid ""
@@ -3663,6 +3744,8 @@ msgid ""
 "Delirium — Moldgraf Scavenger gets +3/+0 as long as there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +3/+0 o ile w twoim cmentarzu są karty należące "
+"do co najmniej czterech typów kart."
 
 #: ../../SOI.rst:1296
 msgid ""
@@ -3696,6 +3779,9 @@ msgid ""
 "more card types among cards in your graveyard, put a +1/+1 counter on target "
 "creature."
 msgstr ""
+"Delirium — Na początku kroku utrzymania każdego przeciwnika, jeśli w twoim "
+"cmentarzu są karty należące do co najmniej czterech typów kart, umieść "
+"znacznik +1/+1na wskazanym stworze."
 
 #: ../../SOI.rst:1308
 msgid ""
@@ -3873,6 +3959,9 @@ msgid ""
 "types among cards in your graveyard, put three +1/+1 counters on Soul "
 "Swallower."
 msgstr ""
+"Delirium — Na początku twojego kroku utrzymania, jeśli w twoim cmentarzu są "
+"karty należące do co najmniej czterech typów kart, umieść trzy znaczniki +1/+"
+"1 na tym stworze."
 
 #: ../../SOI.rst:1370
 msgid ""
@@ -3933,6 +4022,9 @@ msgid ""
 "graveyard, instead search your library for a creature or land card, reveal "
 "it, put it into your hand, then shuffle your library."
 msgstr ""
+"Delirium — Jeśli w twoim cmentarzu są karty należące do co najmniej czterech "
+"typów kart, zamiast tego wyszukaj w twojej bibliotece kartę stwora lub lądu, "
+"ujawnij ją, umieść ją w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../SOI.rst:1394
 msgid ""
