@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-18 09:26+0000\n"
+"PO-Revision-Date: 2020-02-18 11:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -810,7 +810,7 @@ msgstr ""
 
 #: ../../EMN.rst:247
 msgid "|mana_w|, Discard a card: You gain 3 life."
-msgstr "|mana_2|, odrzuć kartę: Zyskaj 3 życia."
+msgstr "|mana_w|, odrzuć kartę: Zyskaj 3 życia."
 
 #: ../../EMN.rst:254
 msgid ""
@@ -1908,6 +1908,8 @@ msgid ""
 "Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. "
 "If you do, create a 2/2 black Zombie creature token."
 msgstr ""
+"Ilekroć gracz rzuci czar, usuń znacznik +1/+1 z tego stwora. Jeśli tak "
+"zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../EMN.rst:618
 msgid ""
@@ -1920,13 +1922,15 @@ msgstr ""
 msgid ""
 "When Oath of Liliana enters the battlefield, each opponent sacrifices a "
 "creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, każdy przeciwnik poświęca stwora."
 
 #: ../../EMN.rst:617
 msgid ""
 "At the beginning of each end step, if a planeswalker entered the battlefield "
 "under your control this turn, create a 2/2 black Zombie creature token."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze na pole walki wszedł "
+"wędrowiec pod twoim władaniem, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../EMN.rst:622
 msgid ""
@@ -1937,7 +1941,7 @@ msgstr ""
 
 #: ../../EMN.rst:621
 msgid "Discard a card: Olivia's Dragoon gains flying until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę: Ten stwór zyskuje latanie do końca tury."
 
 #: ../../EMN.rst:626
 msgid ""
@@ -1951,6 +1955,8 @@ msgid ""
 "Target opponent loses 3 life and puts a card from their hand on top of their "
 "library."
 msgstr ""
+"Wskazany przeciwnik traci 3 życia i umieszcza kartę ze swojej ręki na "
+"wierzchu swojej biblioteki."
 
 #: ../../EMN.rst:630
 msgid ""
@@ -1981,10 +1987,11 @@ msgid ""
 "As an additional cost to cast this spell, discard a card and sacrifice a "
 "creature."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę i poświęć stwora."
 
 #: ../../EMN.rst:635
 msgid "Two target creatures each get -13/-13 until end of turn."
-msgstr ""
+msgstr "Każdy z dwóch wskazanych stworów dostaje do końca tury -13/-13."
 
 #: ../../EMN.rst:640
 msgid ""
@@ -1995,7 +2002,7 @@ msgstr ""
 
 #: ../../EMN.rst:639
 msgid "|mana_b|, |tap|, Discard a card: Each player loses 2 life."
-msgstr ""
+msgstr "|mana_b|, |tap|, odrzuć kartę: Każdy gracz traci po 2 życia."
 
 #: ../../EMN.rst:648
 msgid ""
@@ -2028,6 +2035,8 @@ msgid ""
 "Discard a card: Vampires you control get +1/+1 until end of turn. Activate "
 "this ability only once each turn."
 msgstr ""
+"Odrzuć kartę: Wampiry pod twoim władaniem dostają do końca tury +1/+1. "
+"Możesz aktywować tę zdolność tylko raz na turę."
 
 #: ../../EMN.rst:656
 msgid ""
@@ -2069,6 +2078,7 @@ msgid ""
 "|tap|: Exchange target opponent's life total with Tree of Perdition's "
 "toughness."
 msgstr ""
+"|tap|: Zamień liczbę żyć wskazanego przeciwnika z wytrzymałością tego stwora."
 
 #: ../../EMN.rst:672
 msgid ""
@@ -2087,7 +2097,7 @@ msgstr ""
 
 #: ../../EMN.rst:677
 msgid "Sacrifice three other creatures: Transform Voldaren Pariah."
-msgstr ""
+msgstr "Poświęć trzy inne stwory: Transformuj tego stwora."
 
 #: ../../EMN.rst:679
 msgid ""
@@ -2112,6 +2122,8 @@ msgid ""
 "When this creature transforms into Abolisher of Bloodlines, target opponent "
 "sacrifices three creatures."
 msgstr ""
+"Kiedy ten stwór transformuje w tę formę, wskazany przeciwnik poświęca trzy "
+"stwory."
 
 #: ../../EMN.rst:690
 msgid ""
@@ -2125,6 +2137,8 @@ msgid ""
 "When Wailing Ghoul enters the battlefield, put the top two cards of your "
 "library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../EMN.rst:694
 msgid ""
@@ -2152,7 +2166,7 @@ msgstr ""
 
 #: ../../EMN.rst:697
 msgid "Target opponent discards a card at random."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca losową kartę."
 
 #: ../../EMN.rst:699
 msgid ""
@@ -2196,7 +2210,7 @@ msgstr ""
 
 #: ../../EMN.rst:709
 msgid "Alchemist's Greeting deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../EMN.rst:716
 msgid ""
@@ -2211,6 +2225,8 @@ msgid ""
 "Alphas deals 3 damage to that creature and 3 damage to that creature's "
 "controller."
 msgstr ""
+"Ilekroć ten stwór blokuje lub zostanie zablokowany przez stwora, zadaje on "
+"owemu stworowi 3 obrażenia oraz 3 obrażenia władcy owego stwora."
 
 #: ../../EMN.rst:724
 msgid ""
@@ -2232,6 +2248,8 @@ msgid ""
 "When Bedlam Reveler enters the battlefield, discard your hand, then draw "
 "three cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, odrzuć twoją rękę, następnie dobierz "
+"trzy karty."
 
 #: ../../EMN.rst:728
 msgid ""
@@ -2245,6 +2263,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature you control gains "
 "double strike until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, wskazany stwór pod twoim władaniem zyskuje "
+"podwójny cios do końca tury."
 
 #: ../../EMN.rst:732
 msgid ""
@@ -2275,7 +2295,7 @@ msgstr "Wskazany stwór dostaje do końca tury +3/+0."
 
 #: ../../EMN.rst:741
 msgid "Target creature gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje pierwszy cios do końca tury."
 
 #: ../../EMN.rst:746
 msgid ""
@@ -2286,7 +2306,7 @@ msgstr ""
 
 #: ../../EMN.rst:745
 msgid "Whenever Brazen Wolves attacks, it gets +2/+0 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, dostaje on do końca tury +2/+0."
 
 #: ../../EMN.rst:758
 msgid ""
@@ -2305,14 +2325,16 @@ msgid ""
 "Target player discards all the cards in their hand, then draws that many "
 "cards."
 msgstr ""
+"Wskazany gracz odrzuca wszystkie karty ze swojej ręki, następnie dobiera "
+"tyle samo kart."
 
 #: ../../EMN.rst:755
 msgid "Collective Defiance deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../EMN.rst:757
 msgid "Collective Defiance deals 3 damage to target opponent or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu przeciwnikowi lub wędrowcowi 3 obrażenia."
 
 #: ../../EMN.rst:764
 msgid ""
@@ -2327,10 +2349,12 @@ msgid ""
 "Whenever Conduit of Storms attacks, add |mana_r| at the beginning of your "
 "next main phase this turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, weź |mana_r| na początku twojej najbliższej fazy "
+"głównej w tej turze."
 
 #: ../../EMN.rst:763
 msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Transform Conduit of Storms."
-msgstr ""
+msgstr "|mana_3|\\ |mana_r|\\ |mana_r|: Transformuj tego stwora."
 
 #: ../../EMN.rst:768
 msgid ""
@@ -2345,6 +2369,8 @@ msgid ""
 "Whenever Conduit of Emrakul attacks, add |colorless|\\ |colorless| at the "
 "beginning of your next main phase this turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, weź |colorless|\\ |colorless| na początku twojej "
+"najbliższej fazy głównej w tej turze."
 
 #: ../../EMN.rst:772
 msgid ""
@@ -2396,6 +2422,8 @@ msgid ""
 "At the beginning of combat on your turn, you may discard a card. If you do, "
 "Furyblade Vampire gets +3/+0 until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, możesz odrzucić kartę. Jeśli tak zrobisz, "
+"ten stwór dostaje do końca tury +3/+0."
 
 #: ../../EMN.rst:792
 msgid ""
@@ -2409,6 +2437,8 @@ msgid ""
 "Galvanic Bombardment deals X damage to target creature, where X is 2 plus "
 "the number of cards named Galvanic Bombardment in your graveyard."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi X obrażeń, gdzie X jest liczbą kart o "
+"nazwie Galvanic Bombardment w twoim cmentarzu plus 2."
 
 #: ../../EMN.rst:798
 msgid ""
@@ -2422,6 +2452,8 @@ msgid ""
 "Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens "
 "that are tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, stwórz dwa przekręcone i atakujące żetony "
+"czerwonego stwora Człowiek 1/1."
 
 #: ../../EMN.rst:797
 msgid "(Melds with Hanweir Battlements.)"
@@ -2440,6 +2472,8 @@ msgid ""
 "Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless "
 "Eldrazi Horror creature tokens that are tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, stwórz dwa przekręcone i atakujące żetony "
+"bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:808
 msgid ""
@@ -2451,6 +2485,8 @@ msgstr ""
 #: ../../EMN.rst:807
 msgid "Target opponent gains control of target permanent you control."
 msgstr ""
+"Wskazany przeciwnik zyskuje władanie nad wskazanym permanentem pod twoim "
+"władaniem."
 
 #: ../../EMN.rst:816
 msgid ""
@@ -2464,10 +2500,12 @@ msgid ""
 "When Impetuous Devils attacks, up to one target creature defending player "
 "controls blocks it this combat if able."
 msgstr ""
+"Kiedy ten stwór atakuje, co najwyżej jeden wskazany stwór pod władaniem "
+"broniącego się gracza blokuje go w tej turze, jeśli może."
 
 #: ../../EMN.rst:815
 msgid "At the beginning of the end step, sacrifice Impetuous Devils."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć tego stwora."
 
 #: ../../EMN.rst:820
 msgid ""
@@ -2481,6 +2519,8 @@ msgid ""
 "Incendiary Flow deals 3 damage to any target. If a creature dealt damage "
 "this way would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Jeśli stwór uszkodzony w ten "
+"sposób miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../EMN.rst:826
 msgid ""
@@ -2515,6 +2555,9 @@ msgid ""
 "Make Mischief deals 1 damage to any target. Create a 1/1 red Devil creature "
 "token. It has \"When this creature dies, it deals 1 damage to any target.\""
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 1 obrażenie. Stwórz żeton czerwonego "
+"stwora Diabeł 1/1 mający \"Kiedy ten stwór umrze, zadaje on wskazanemu "
+"celowi 1 obrażenie.\""
 
 #: ../../EMN.rst:836
 msgid ""
@@ -2530,6 +2573,10 @@ msgid ""
 "they control that the spell could target. Each copy targets a different one "
 "of those creatures."
 msgstr ""
+"Ilekroć gracz rzuci czar sztuczki lub obrzędu wskazujący tylko tego stwora, "
+"ów gracz kopiuje ów czar za każdego innego stwora pod swoim władaniem, "
+"którego ów czar mógłby wskazywać. Każda kopia wskazuje innego z owych "
+"stworów."
 
 #: ../../EMN.rst:842
 msgid ""
@@ -2540,13 +2587,15 @@ msgstr ""
 
 #: ../../EMN.rst:839
 msgid "As an additional cost to cast this spell, discard X cards."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć X kart."
 
 #: ../../EMN.rst:841
 msgid ""
 "Nahiri's Wrath deals damage equal to the total converted mana cost of the "
 "discarded cards to each of up to X target creatures and/or planeswalkers."
 msgstr ""
+"Ten czar zadaje każdemu z co najwyżej X wskazanych stworów i/lub wędrowców "
+"po tyle obrażeń, ile wynosi łączny skrócony koszt many odrzuconych kart."
 
 #: ../../EMN.rst:846
 msgid ""
@@ -2560,6 +2609,8 @@ msgid ""
 "Target creature gets +1/+0 until end of turn. When that creature dies this "
 "turn, create a 3/2 colorless Eldrazi Horror creature token."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+0. Kiedy ten stwór umrze w tej "
+"turze, stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:852
 msgid ""
@@ -2572,6 +2623,7 @@ msgstr ""
 msgid ""
 "Enchanted creature has haste and \"|tap|, Discard a card: Draw a card.\""
 msgstr ""
+"Zauroczony stwór ma pośpiech oraz \"|tap|, odrzuć kartę: Dobierz kartę.\""
 
 #: ../../EMN.rst:864
 msgid ""
@@ -2583,15 +2635,18 @@ msgstr ""
 #: ../../EMN.rst:859
 msgid "Creatures target player controls gain trample until end of turn."
 msgstr ""
+"Stwory pod władaniem wskazanego gracza zyskują tratowanie do końca tury."
 
 #: ../../EMN.rst:861
 msgid "Savage Alliance deals 2 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../EMN.rst:863
 msgid ""
 "Savage Alliance deals 1 damage to each creature target opponent controls."
 msgstr ""
+"Ten czar zadaje każdemu stworowi pod władaniem wskazanego gracza po 1 "
+"obrażeniu."
 
 #: ../../EMN.rst:868
 msgid ""
