@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 21:02+0000\n"
+"PO-Revision-Date: 2020-02-18 09:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -1290,6 +1290,9 @@ msgid ""
 "there is a colorless creature card in your graveyard, transform Grizzled "
 "Angler."
 msgstr ""
+"|tap|: Umieść dwie wierzchnie karty twojej biblioteki w twoim cmentarzy. "
+"Następnie jeśli w twoim cmentarzu jest karta bezkolorowego stwora, "
+"transformuj niniejszego stwora."
 
 #: ../../EMN.rst:402
 msgid ""
@@ -1301,6 +1304,8 @@ msgstr ""
 #: ../../EMN.rst:401
 msgid "|mana_6|: Creatures your opponents control attack this turn if able."
 msgstr ""
+"|mana_6|: Stwory pod władaniem twoich przeciwników atakują w tej turze, "
+"jeśli mogą."
 
 #: ../../EMN.rst:406
 msgid ""
@@ -1316,6 +1321,10 @@ msgid ""
 "end of turn. Return the exiled card to the battlefield under its owner's "
 "control at the beginning of the next end step."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz wygnać innego wskazanego nieżetonowego "
+"stwora. Jeśli tak zrobisz, ten stwór do końca tury staje się kopią owego "
+"stwora. Przywróć wygnaną kartę na pole walki pod władaniem jej właściciela "
+"na początku najbliższego kroku końcowego."
 
 #: ../../EMN.rst:412
 msgid ""
@@ -1326,13 +1335,15 @@ msgstr ""
 
 #: ../../EMN.rst:409
 msgid "Enchant creature, land, or planeswalker"
-msgstr ""
+msgstr "Zaurocz stwora, ląd lub wędrowca"
 
 #: ../../EMN.rst:411
 msgid ""
 "Enchanted permanent is a colorless land with \"|tap|: Add |colorless|\" and "
 "loses all other card types and abilities."
 msgstr ""
+"Zauroczony permanent jest bezkolorowym lądem mającym \"|tap|: Weź |colorless|"
+"\" i traci wszystkie inne typy karty oraz zdolności."
 
 #: ../../EMN.rst:418
 msgid ""
@@ -1343,7 +1354,7 @@ msgstr ""
 
 #: ../../EMN.rst:417
 msgid "|mana_u|: Ingenious Skaab gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../EMN.rst:422
 msgid ""
@@ -1357,6 +1368,8 @@ msgid ""
 "When Laboratory Brute enters the battlefield, put the top four cards of your "
 "library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść cztery wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../EMN.rst:426
 msgid ""
@@ -1368,7 +1381,7 @@ msgstr ""
 #: ../../EMN.rst:425
 msgid ""
 "When an opponent casts a spell, sacrifice Lunar Force and counter that spell."
-msgstr ""
+msgstr "Kiedy przeciwnik rzuci czar, poświęć ten urok i skontruj ów czar."
 
 #: ../../EMN.rst:434
 msgid ""
@@ -1382,12 +1395,16 @@ msgid ""
 "Whenever another Spirit enters the battlefield under your control, Mausoleum "
 "Wanderer gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny Duch wejdzie na pole walki pod twoim władaniem, niniejszy stwór "
+"dostaje do końca tury +1/+1."
 
 #: ../../EMN.rst:433
 msgid ""
 "Sacrifice Mausoleum Wanderer: Counter target instant or sorcery spell unless "
 "its controller pays |mana_x|, where X is Mausoleum Wanderer's power."
 msgstr ""
+"Poświęć tego stwora: Skontruj wskazany czar sztuczki lub obrzędu, chyba że "
+"jego władca zapłaci |mana_x|, gdzie X jest siłą tego stwora."
 
 #: ../../EMN.rst:438
 msgid ""
@@ -1402,6 +1419,9 @@ msgid ""
 "the top card of their library. If it's a nonland card, you may cast it "
 "without paying its mana cost."
 msgstr ""
+"Ilekroć przeciwnik rzuci swój pierwszy czar w danej turze, ów gracz wygania "
+"wierzchnią kartę swojej biblioteki. Jeśli nie jest to karta lądu, możesz ją "
+"rzucić bez płacenia jej kosztu many."
 
 #: ../../EMN.rst:446
 msgid ""
@@ -1415,6 +1435,8 @@ msgid ""
 "Whenever Nebelgast Herald or another Spirit enters the battlefield under "
 "your control, tap target creature an opponent controls."
 msgstr ""
+"Ilekroć ten stwór lub inny Duch wejdzie na pole walki pod twoim władaniem, "
+"przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../EMN.rst:454
 msgid ""
@@ -1429,6 +1451,9 @@ msgid ""
 "opponent controls. That creature doesn't untap during its controller's next "
 "untap step."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
+"odkręcania jego władcy."
 
 #: ../../EMN.rst:460
 msgid ""
@@ -1461,6 +1486,7 @@ msgid ""
 "Enchanted creature gets -X/-0, where X is the number of cards in your "
 "graveyard."
 msgstr ""
+"Zauroczony stwór dostaje -X/-0, gdzie X jest liczbą kart w twoim cmentarzu."
 
 #: ../../EMN.rst:472
 msgid ""
@@ -1471,7 +1497,7 @@ msgstr ""
 
 #: ../../EMN.rst:471
 msgid "Exile all other spells and counter all abilities."
-msgstr ""
+msgstr "Wygnaj wszystkie inne czary i skontruj wszystkie zdolności."
 
 #: ../../EMN.rst:476
 msgid ""
@@ -1485,6 +1511,8 @@ msgid ""
 "Draw a card, then draw cards equal to the number of cards named Take "
 "Inventory in your graveyard."
 msgstr ""
+"Dobierz kartę, następnie dobierz tyle kart, ile jest kart o nazwie Take "
+"Inventory w twoim cmentarzu."
 
 #: ../../EMN.rst:482
 msgid ""
@@ -1495,7 +1523,7 @@ msgstr ""
 
 #: ../../EMN.rst:481
 msgid "Tattered Haunter can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../EMN.rst:486
 msgid ""
@@ -1506,7 +1534,7 @@ msgstr ""
 
 #: ../../EMN.rst:485
 msgid "Counter target spell that targets a permanent you control."
-msgstr ""
+msgstr "Skontruj wskazany czar wskazujący permanent pod twoim władaniem."
 
 #: ../../EMN.rst:490
 msgid ""
@@ -1531,12 +1559,16 @@ msgid ""
 "Whenever Wharf Infiltrator deals combat damage to a player, you may draw a "
 "card. If you do, discard a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 #: ../../EMN.rst:497
 msgid ""
 "Whenever you discard a creature card, you may pay |mana_2|. If you do, "
 "create a 3/2 colorless Eldrazi Horror creature token."
 msgstr ""
+"Ilekroć odrzucisz kartę stwora, możesz zapłacić |mana_2|. Jeśli tak zrobisz, "
+"stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:504
 msgid ""
@@ -1547,7 +1579,7 @@ msgstr ""
 
 #: ../../EMN.rst:503
 msgid "Enchanted creature gets +3/-3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3."
 
 #: ../../EMN.rst:514
 msgid ""
@@ -1576,6 +1608,8 @@ msgid ""
 "Return target creature card from your graveyard to your hand. If it's a "
 "Zombie card, draw a card."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. Jeśli to "
+"karta Zombi, dobierz kartę."
 
 #: ../../EMN.rst:522
 msgid ""
@@ -1588,6 +1622,7 @@ msgstr ""
 msgid ""
 "Destroy target creature. Its controller loses 2 life and you gain 2 life."
 msgstr ""
+"Zniszcz wskazanego stwora. Jego władca traci 2 życia, a ty zyskaj 2 życia."
 
 #: ../../EMN.rst:534
 msgid ""
@@ -1608,6 +1643,8 @@ msgid ""
 "Target opponent reveals their hand. You choose an instant or sorcery card "
 "from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę sztuczki lub "
+"obrzędu. Ów gracz odrzuca ową kartę."
 
 #: ../../EMN.rst:531
 msgid "Target creature gets -2/-2 until end of turn."
@@ -1615,7 +1652,7 @@ msgstr "Wskazany stwór dostaje -2/-2 do końca tury."
 
 #: ../../EMN.rst:533
 msgid "Target opponent loses 2 life and you gain 2 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 2 życia, a ty zyskaj 2 życia."
 
 #: ../../EMN.rst:540
 msgid ""
@@ -1629,11 +1666,15 @@ msgid ""
 "|mana_1|\\ |mana_b|, |tap|, Discard a card: Create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|, odrzuć kartę: Stwórz żeton czarnego stwora Zombi "
+"2/2."
 
 #: ../../EMN.rst:539
 msgid ""
 "Tap three untapped Zombies you control: You draw a card and you lose 1 life."
 msgstr ""
+"Przekręć trzy odkręcony Zombi pod twoim władaniem: Dobierz kartę i strać 1 "
+"życie."
 
 #: ../../EMN.rst:544
 msgid ""
@@ -1648,6 +1689,9 @@ msgid ""
 "target creature gets -1/-1 until end of turn for each Zombie that player "
 "controls."
 msgstr ""
+"Wskazany gracz tworzy X żetonów czarnego stwora Zombi 2/2, następnie co "
+"najwyżej jeden wskazany stwór dostaje do końca tury -1/-1 za każdego Zombi "
+"pod władaniem owego gracza."
 
 #: ../../EMN.rst:550
 msgid ""
@@ -1668,6 +1712,8 @@ msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Gavony "
 "Unhallowed."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../EMN.rst:560
 msgid ""
@@ -1681,12 +1727,16 @@ msgid ""
 "Zombies you control have menace. (They can't be blocked except by two or "
 "more creatures.)"
 msgstr ""
+"Zombi pod twoim władaniem mają złowrogość. (Nie mogą być blokowane, chyba że "
+"przez co najmniej dwa stwory.)"
 
 #: ../../EMN.rst:559
 msgid ""
 "|mana_3|\\ |mana_b|, Exile a creature card from your graveyard: Create a 2/2 "
 "black Zombie creature token."
 msgstr ""
+"|mana_3|\\ |mana_b|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
+"czarnego stwora Zombi 2/2."
 
 #: ../../EMN.rst:564
 msgid ""
@@ -1717,12 +1767,16 @@ msgid ""
 "When Haunted Dead enters the battlefield, create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Duch 1/1 "
+"z lataniem."
 
 #: ../../EMN.rst:569
 msgid ""
 "|mana_1|\\ |mana_b|, Discard two cards: Return Haunted Dead from your "
 "graveyard to the battlefield tapped."
 msgstr ""
+"|mana_1|\\ |mana_b|, odrzuć dwie karty: Przywróć niniejszą kartę z twojego "
+"cmentarza przekręconą na pole walki."
 
 #: ../../EMN.rst:578
 msgid ""
@@ -1734,12 +1788,15 @@ msgstr ""
 #: ../../EMN.rst:573
 msgid "+1: Up to one target creature gets -2/-1 until your next turn."
 msgstr ""
+"+1: Co najwyżej jeden wskazany stwór dostaje do twojej następnej tury -2/-1."
 
 #: ../../EMN.rst:575
 msgid ""
 "−2: Put the top two cards of your library into your graveyard, then you may "
 "return a creature card from your graveyard to your hand."
 msgstr ""
+"–2: Umieść dwie wierzchnie karty twojej biblioteki w twoim cmentarzy, "
+"następnie możesz przywrócić kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../EMN.rst:577
 msgid ""
@@ -1747,6 +1804,9 @@ msgid ""
 "black Zombie creature tokens, where X is two plus the number of Zombies you "
 "control.\""
 msgstr ""
+"–7: Dostajesz emblemat o treści \"Na początku twojego kroku końcowego stwórz "
+"X żetonów czarnego stwora Zombi 2/2, gdzie X to liczba Zombi pod twoim "
+"władaniem plus dwa.\""
 
 #: ../../EMN.rst:582
 msgid ""
@@ -1757,7 +1817,7 @@ msgstr ""
 
 #: ../../EMN.rst:581
 msgid "Liliana's Elite gets +1/+1 for each creature card in your graveyard."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../EMN.rst:588
 msgid ""
@@ -1772,7 +1832,7 @@ msgstr "Więź życia"
 
 #: ../../EMN.rst:587
 msgid "Markov Crusader has haste as long as you control another Vampire."
-msgstr ""
+msgstr "Ten stwór ma pośpiech o ile władasz innym Wampirem."
 
 #: ../../EMN.rst:594
 msgid ""
@@ -1787,6 +1847,9 @@ msgid ""
 "creature card with converted mana cost 3 or less from your graveyard to your "
 "hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"stwora o skróconym koszcie many 3 lub mniejszym z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../EMN.rst:593
 msgid "(Melds with Graf Rats.)"
@@ -1815,6 +1878,8 @@ msgid ""
 "When Chittering Host enters the battlefield, other creatures you control get "
 "+1/+0 and gain menace until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"dostają do końca tury +1/+0 oraz złowrogość."
 
 #: ../../EMN.rst:606
 msgid ""
@@ -1836,7 +1901,7 @@ msgstr ""
 
 #: ../../EMN.rst:609
 msgid "Noosegraf Mob enters the battlefield with five +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając pięć znaczników +1/+1."
 
 #: ../../EMN.rst:611
 msgid ""
