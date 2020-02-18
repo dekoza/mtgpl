@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-18 11:14+0000\n"
+"PO-Revision-Date: 2020-02-18 21:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -2660,6 +2660,9 @@ msgid ""
 "Return up to one target instant card and up to one target sorcery card from "
 "your graveyard to your hand, then discard a card. Exile Shreds of Sanity."
 msgstr ""
+"Przywróć co najwyżej jedną wskazaną kartę sztuczki i co najwyżej jedną "
+"wskazaną kartę obrzędu z twojego cmentarza do twojej ręki, następnie odrzuć "
+"kartę. Wygnaj niniejszy czar."
 
 #: ../../EMN.rst:874
 msgid ""
@@ -2674,10 +2677,12 @@ msgid ""
 "When Smoldering Werewolf enters the battlefield, it deals 1 damage to each "
 "of up to two target creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje on każdemu z co najwyżej dwóch "
+"wskazanych stworów po 1 obrażeniu."
 
 #: ../../EMN.rst:873
 msgid "|mana_4|\\ |mana_r|\\ |mana_r|: Transform Smoldering Werewolf."
-msgstr ""
+msgstr "|mana_4|\\ |mana_r|\\ |mana_r|: Transformuj tego stwora."
 
 #: ../../EMN.rst:878
 msgid ""
@@ -2689,7 +2694,7 @@ msgstr ""
 
 #: ../../EMN.rst:877
 msgid "Whenever Erupting Dreadwolf attacks, it deals 2 damage to any target."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../EMN.rst:882
 msgid ""
@@ -2703,6 +2708,8 @@ msgid ""
 "Spreading Flames deals 6 damage divided as you choose among any number of "
 "target creatures."
 msgstr ""
+"Ten czar zadaje 6 obrażeń rozdzielonych dowolnie między dowolną liczbę "
+"wskazanych stworów."
 
 #: ../../EMN.rst:888
 msgid ""
@@ -2716,6 +2723,8 @@ msgid ""
 "Stensia Banquet deals damage to target opponent or planeswalker equal to the "
 "number of Vampires you control."
 msgstr ""
+"Ten czar zadaje wskazanemu przeciwnikowi lub wędrowcowi tyle obrażeń, iloma "
+"Wampirami władasz."
 
 #: ../../EMN.rst:892
 msgid ""
@@ -2729,6 +2738,9 @@ msgid ""
 "When Stensia Innkeeper enters the battlefield, tap target land an opponent "
 "controls. That land doesn't untap during its controller's next untap step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazany ląd pod władaniem "
+"przeciwnika. Ów ląd nie odkręci się podczas najbliższego kroku odkręcania "
+"swojego władcy."
 
 #: ../../EMN.rst:900
 msgid ""
@@ -2742,6 +2754,8 @@ msgid ""
 "Whenever Stromkirk Occultist deals combat damage to a player, exile the top "
 "card of your library. Until end of turn, you may play that card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj wierzchnią kartę "
+"twojej biblioteki. Do końca tury możesz zagrać ową kartę."
 
 #: ../../EMN.rst:908
 msgid ""
@@ -2752,11 +2766,11 @@ msgstr ""
 
 #: ../../EMN.rst:905
 msgid "|tap|: Thermo-Alchemist deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../EMN.rst:907
 msgid "Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist."
-msgstr ""
+msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, odkręć tego stwora."
 
 #: ../../EMN.rst:916
 msgid ""
@@ -2768,11 +2782,11 @@ msgstr ""
 
 #: ../../EMN.rst:913
 msgid "|mana_r|: Vildin-Pack Outcast gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../EMN.rst:915
 msgid "|mana_5|\\ |mana_r|\\ |mana_r|: Transform Vildin-Pack Outcast."
-msgstr ""
+msgstr "|mana_5|\\ |mana_r|\\ |mana_r|: Transformuj tego stwora."
 
 #: ../../EMN.rst:922
 msgid ""
@@ -2784,7 +2798,7 @@ msgstr ""
 
 #: ../../EMN.rst:921
 msgid "|mana_1|: Dronepack Kindred gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../EMN.rst:928
 msgid ""
@@ -2802,6 +2816,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Weaver of Lightning deals 1 "
 "damage to target creature an opponent controls."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór zadaje wskazanemu "
+"stworowi pod władaniem przeciwnika 1 obrażenie."
 
 #: ../../EMN.rst:932
 msgid ""
@@ -2829,6 +2845,7 @@ msgstr ""
 msgid ""
 "Whenever you sacrifice another permanent, put a +1/+1 counter on Bloodbriar."
 msgstr ""
+"Ilekroć poświęcisz inny permanent, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../EMN.rst:940
 msgid ""
@@ -2842,6 +2859,8 @@ msgid ""
 "Target creature you control gets +1/+1 until end of turn. It deals damage "
 "equal to its power to target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Zadaje on "
+"wskazanemu stworowi poza twoim władaniem obrażenia równe swojej sile."
 
 #: ../../EMN.rst:946
 msgid ""
@@ -2855,6 +2874,8 @@ msgid ""
 "At the beginning of your upkeep, you may put the top card of your library "
 "into your graveyard."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz umieścić wierzchnią kartę "
+"twojej biblioteki w twoim cmentarzu."
 
 #: ../../EMN.rst:945
 msgid ""
@@ -2878,6 +2899,7 @@ msgstr ""
 #: ../../EMN.rst:949
 msgid "|mana_g|, |tap|: Target attacking Human gets +1/+1 until end of turn."
 msgstr ""
+"|mana_g|, |tap|: Wskazany atakujący Człowiek dostaje do końca tury +1/+1."
 
 #: ../../EMN.rst:956
 msgid ""
@@ -2897,6 +2919,10 @@ msgid ""
 "card onto the battlefield, then shuffle your library. Exile Eldritch "
 "Evolution."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę stwora o skróconym koszcie many X lub "
+"mniejszym, gdzie X jest skróconym kosztem many poświęconego stwora plus 2. "
+"Umieść ową kartę na polu walki, następnie przetasuj twoją bibliotekę. Wygnaj "
+"niniejszy czar."
 
 #: ../../EMN.rst:960
 msgid ""
@@ -2911,6 +2937,9 @@ msgid ""
 "creatures: Create a 3/2 colorless Eldrazi Horror creature token for each "
 "creature sacrificed this way."
 msgstr ""
+"|tap|, poświęć tego stwora oraz dowolną liczbę innych stworów bez typu "
+"Eldrazi: Stwórz tyle żetonów bezkolorowego stwora Eldrazi Horror 3/2, ile "
+"stworów poświęcono w ten sposób."
 
 #: ../../EMN.rst:964
 msgid ""
@@ -2924,6 +2953,8 @@ msgid ""
 "Whenever you cast an Eldrazi creature spell with converted mana cost 7 or "
 "greater, draw two cards."
 msgstr ""
+"Ilekroć rzucisz czar stwora typu Eldrazi o skróconym koszcie many 7 lub "
+"większym, dobierz dwie karty."
 
 #: ../../EMN.rst:970
 msgid ""
@@ -2938,6 +2969,10 @@ msgid ""
 "your library. You may reveal a creature card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić ją w "
+"twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
+"kolejności."
 
 #: ../../EMN.rst:969
 msgid ""
@@ -2978,6 +3013,8 @@ msgid ""
 "Put the top three cards of your library into your graveyard, then you may "
 "return a creature or land card from your graveyard to your hand."
 msgstr ""
+"Umieść trzy wierzchnie karty twojej biblioteki w twoim cmentarzy, następnie "
+"możesz przywrócić kartę stwora lub lądu z twojego cmentarza do twojej ręki."
 
 #: ../../EMN.rst:984
 msgid ""
@@ -2991,6 +3028,8 @@ msgid ""
 "Whenever Hamlet Captain attacks or blocks, other Humans you control get +1/"
 "+1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje lub blokuje, inne stwory typu Człowiek pod twoim "
+"władaniem dostają do końca tury +1/+1."
 
 #: ../../EMN.rst:992
 msgid ""
@@ -3014,6 +3053,8 @@ msgid ""
 "|mana_6|\\ |mana_b|: Target opponent loses 1 life for each Spider you "
 "control."
 msgstr ""
+"|mana_6|\\ |mana_b|: Wskazany przeciwnik traci po 1 życiu za każdego Pająka "
+"pod twoim władaniem."
 
 #: ../../EMN.rst:996
 msgid ""
@@ -3024,7 +3065,7 @@ msgstr ""
 
 #: ../../EMN.rst:995
 msgid "|mana_4|\\ |mana_g|: Transform Kessig Prowler."
-msgstr ""
+msgstr "|mana_4|\\ |mana_g|: Transformuj tego stwora."
 
 #: ../../EMN.rst:1000
 msgid ""
@@ -3035,7 +3076,7 @@ msgstr ""
 
 #: ../../EMN.rst:999
 msgid "Sinuous Predator can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../EMN.rst:1006
 msgid ""
@@ -3046,7 +3087,7 @@ msgstr ""
 
 #: ../../EMN.rst:1005
 msgid "Discard a card: Noose Constrictor gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../EMN.rst:1010
 msgid ""
@@ -3060,6 +3101,8 @@ msgid ""
 "Whenever Permeating Mass deals combat damage to a creature, that creature "
 "becomes a copy of Permeating Mass."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia bojowe, ów stwór staje się kopią "
+"niniejszego stwora."
 
 #: ../../EMN.rst:1014
 msgid ""
@@ -3088,6 +3131,9 @@ msgid ""
 "When Primal Druid dies, you may search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece kartę bazowego "
+"lądu, umieść ją przekręconą na polu walki, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../EMN.rst:1024
 msgid ""
@@ -3098,11 +3144,11 @@ msgstr ""
 
 #: ../../EMN.rst:1021
 msgid "Creatures with power less than Shrill Howler's power can't block it."
-msgstr ""
+msgstr "Stwory o sile mniejszej niż siła tego stwora nie mogą go blokować."
 
 #: ../../EMN.rst:1023
 msgid "|mana_5|\\ |mana_g|: Transform Shrill Howler."
-msgstr ""
+msgstr "|mana_5|\\ |mana_g|: Transformuj tego stwora."
 
 #: ../../EMN.rst:1030
 msgid ""
@@ -3113,13 +3159,15 @@ msgstr ""
 
 #: ../../EMN.rst:1027
 msgid "Creatures with power less than Howling Chorus's power can't block it."
-msgstr ""
+msgstr "Stwory o sile mniejszej niż siła tego stwora nie mogą go blokować."
 
 #: ../../EMN.rst:1029
 msgid ""
 "Whenever Howling Chorus deals combat damage to a player, create a 3/2 "
 "colorless Eldrazi Horror creature token."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz żeton bezkolorowego "
+"stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:1034
 msgid ""
@@ -3133,6 +3181,8 @@ msgid ""
 "When Somberwald Stag enters the battlefield, you may have it fight target "
 "creature you don't control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, że będzie walczyć ze "
+"wskazanym stworem poza twoim władaniem."
 
 #: ../../EMN.rst:1040
 msgid ""
@@ -3146,6 +3196,8 @@ msgid ""
 "When Spirit of the Hunt enters the battlefield, each other creature you "
 "control that's a Wolf or a Werewolf gets +0/+3 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy inny stwór pod twoim władaniem "
+"będący Wilkiem lub Wilkołakiem dostaje do końca tury +0/+3."
 
 #: ../../EMN.rst:1044
 msgid ""
@@ -3157,6 +3209,7 @@ msgstr ""
 #: ../../EMN.rst:1043
 msgid "Return all land cards from your graveyard to the battlefield tapped."
 msgstr ""
+"Przywróć wszystkie karty lądów z twojego cmentarza przekręcone na pole walki."
 
 #: ../../EMN.rst:1048
 msgid ""
@@ -3190,11 +3243,11 @@ msgstr ""
 
 #: ../../EMN.rst:1057
 msgid "Tangleclaw Werewolf can block an additional creature each combat."
-msgstr ""
+msgstr "Ten stwór może blokować dodatkowego stwora w każdej walce."
 
 #: ../../EMN.rst:1059
 msgid "|mana_6|\\ |mana_g|: Transform Tangleclaw Werewolf."
-msgstr ""
+msgstr "|mana_6|\\ |mana_g|: Transformuj tego stwora."
 
 #: ../../EMN.rst:1068
 msgid ""
@@ -3209,11 +3262,11 @@ msgstr "Czujność"
 
 #: ../../EMN.rst:1065
 msgid "Fibrous Entangler must be blocked if able."
-msgstr ""
+msgstr "Ten stwór musi być blokowany jeśli to możliwe."
 
 #: ../../EMN.rst:1067
 msgid "Fibrous Entangler can block an additional creature each combat."
-msgstr ""
+msgstr "Ten stwór może blokować dodatkowego stwora w każdej walce."
 
 #: ../../EMN.rst:1076
 msgid ""
@@ -3229,7 +3282,7 @@ msgstr "|tap|: Weź |mana_g|."
 
 #: ../../EMN.rst:1075
 msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Transform Ulvenwald Captive."
-msgstr ""
+msgstr "|mana_5|\\ |mana_g|\\ |mana_g|: Transformuj tego stwora."
 
 #: ../../EMN.rst:1080
 msgid ""
@@ -3255,6 +3308,8 @@ msgid ""
 "Whenever a creature you control with toughness 4 or greater dies, draw a "
 "card."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem o wytrzymałości 4 lub większej, "
+"dobierz kartę."
 
 #: ../../EMN.rst:1088
 msgid ""
@@ -3268,6 +3323,8 @@ msgid ""
 "Transform up to one target Werewolf you control. Creatures you control gain "
 "trample until end of turn."
 msgstr ""
+"Transformuj co najwyżej jednego wskazanego Wilkołaka pod twoim władaniem. "
+"Stwory pod twoim władaniem zyskują tratowanie do końca tury."
 
 #: ../../EMN.rst:1096
 msgid ""
@@ -3295,6 +3352,8 @@ msgid ""
 "Target creature you control gets +3/+3 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +3/+3 i antyklątwę. "
+"(Nie może być wskazany przez cele i zdolności pod władaniem przeciwników.)"
 
 #: ../../EMN.rst:1104
 msgid ""
@@ -3315,6 +3374,8 @@ msgid ""
 "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no "
 "cards in hand, Bloodhall Priest deals 2 damage to any target."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole walki lub atakuje, jeśli nie masz kart w "
+"ręce, ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../EMN.rst:1109
 msgid ""
@@ -3353,12 +3414,16 @@ msgid ""
 "When Gisa and Geralf enters the battlefield, put the top four cards of your "
 "library into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść cztery wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../EMN.rst:1119
 msgid ""
 "During each of your turns, you may cast a Zombie creature card from your "
 "graveyard."
 msgstr ""
+"W każdej z twoich tur możesz rzucić kartę stwora typu Zombi z twojego "
+"cmentarza."
 
 #: ../../EMN.rst:1128
 msgid ""
@@ -3373,6 +3438,9 @@ msgid ""
 "cards of your library. Put any number of them into your graveyard and the "
 "rest back on top of your library in any order."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, spójrz na trzy wierzchnie "
+"karty twojej biblioteki. Umieść dowolne z nich w twoim cmentarzu, a "
+"pozostałe z powrotem na wierzchu twojej biblioteki w dowolnej kolejności."
 
 #: ../../EMN.rst:1127
 msgid ""
@@ -3394,6 +3462,8 @@ msgid ""
 "When Heron's Grace Champion enters the battlefield, other Humans you control "
 "get +1/+1 and gain lifelink until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, pozostałe stwory typu Człowiek pod "
+"twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
 
 #: ../../EMN.rst:1142
 msgid ""
@@ -3407,6 +3477,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Mercurial Geists gets +3/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"3/+0."
 
 #: ../../EMN.rst:1148
 msgid ""
@@ -3452,12 +3524,16 @@ msgid ""
 "When Spell Queller enters the battlefield, exile target spell with converted "
 "mana cost 4 or less."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazany czar o skróconym "
+"koszcie many 4 lub mniejszym."
 
 #: ../../EMN.rst:1161
 msgid ""
 "When Spell Queller leaves the battlefield, the exiled card's owner may cast "
 "that card without paying its mana cost."
 msgstr ""
+"Kiedy ten stwór opuści pole walki, właściciel owej wygnanej karty może ją "
+"rzucić bez płacenia jej kosztu many."
 
 #: ../../EMN.rst:1170
 msgid ""
@@ -3471,18 +3547,24 @@ msgid ""
 "+1: Choose up to two target creatures. Until your next turn, whenever either "
 "of those creatures deals combat damage, you draw a card."
 msgstr ""
+"+1: Wskaż co najwyżej dwa stwory. Do twojej następnej tury ilekroć "
+"którykolwiek z owych stwór zada obrażenia bojowe, dobierz kartę."
 
 #: ../../EMN.rst:1167
 msgid ""
 "−2: Tap up to two target nonland permanents. They don't untap during their "
 "controller's next untap step."
 msgstr ""
+"–2: Przekręć co najwyżej dwa nielądowe permanenty. Nie odkręcą się one w "
+"najbliższych krokach odkręcania swoich władców."
 
 #: ../../EMN.rst:1169
 msgid ""
 "−7: Draw three cards. You get an emblem with \"You may cast spells from your "
 "hand without paying their mana costs.\""
 msgstr ""
+"–7: Dobierz trzy karty. Dostajesz emblemat o treści \"Możesz rzucać czary z "
+"twojej ręki bez płacenia ich kosztu many.\""
 
 #: ../../EMN.rst:1176
 msgid ""
@@ -3497,12 +3579,16 @@ msgid ""
 "Whenever this creature enters the battlefield or transforms into Ulrich of "
 "the Krallenhorde, target creature gets +4/+4 until end of turn."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole walki lub transformuje w tę formę, "
+"wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../EMN.rst:1175
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Ulrich of the Krallenhorde."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono żadnych czarów w "
+"poprzedniej turze, transformuj tego stwora."
 
 #: ../../EMN.rst:1182
 msgid ""
@@ -3517,12 +3603,16 @@ msgid ""
 "Whenever this creature transforms into Ulrich, Uncontested Alpha, you may "
 "have it fight target non-Werewolf creature you don't control."
 msgstr ""
+"Ilekroć ten stwór transformuje w tę formę, możesz sprawić że będzie on "
+"walczyć ze wskazanym stworem bez typu Wilkołak poza twoim władaniem."
 
 #: ../../EMN.rst:1181
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Ulrich, Uncontested Alpha."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../EMN.rst:1188
 msgid ""
@@ -3533,7 +3623,7 @@ msgstr ""
 
 #: ../../EMN.rst:1185
 msgid "Equipped creature gets +0/+3 and has vigilance."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +0/+3 i ma czujność."
 
 #: ../../EMN.rst:1187 ../../EMN.rst:1207
 msgid ""
@@ -3553,17 +3643,19 @@ msgstr ""
 
 #: ../../EMN.rst:1191
 msgid "Cryptolith Fragment enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole walki."
 
 #: ../../EMN.rst:1193
 msgid "|tap|: Add one mana of any color. Each player loses 1 life."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru. Każdy gracz traci po 1 życiu."
 
 #: ../../EMN.rst:1195
 msgid ""
 "At the beginning of your upkeep, if each player has 10 or less life, "
 "transform Cryptolith Fragment."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli każdy gracz ma 10 lub mniej żyć, "
+"transformuj ten artefakt."
 
 #: ../../EMN.rst:1202
 msgid ""
@@ -3579,7 +3671,7 @@ msgstr "Latanie, dotyk śmierci"
 
 #: ../../EMN.rst:1201
 msgid "Whenever Aurora of Emrakul attacks, each opponent loses 3 life."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 3 życia."
 
 #: ../../EMN.rst:1208
 msgid ""
@@ -3608,7 +3700,7 @@ msgstr ""
 
 #: ../../EMN.rst:1215
 msgid "Creature spells you cast cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../EMN.rst:1220
 msgid ""
@@ -3621,6 +3713,8 @@ msgstr ""
 msgid ""
 "Lupine Prototype can't attack or block unless a player has no cards in hand."
 msgstr ""
+"Ten stwór nie może atakować ani blokować, chyba że któryś gracz nie ma kart "
+"w ręce."
 
 #: ../../EMN.rst:1226
 msgid ""
@@ -3632,6 +3726,8 @@ msgstr ""
 #: ../../EMN.rst:1223
 msgid "Equipped creature gets +3/+1 and must be blocked by an Eldrazi if able."
 msgstr ""
+"Wyposażony stwór dostaje +3/+1 i musi być blokowany przez Eldrazi, jeśli to "
+"możliwe."
 
 #: ../../EMN.rst:1225
 msgid "Equip |mana_4|"
@@ -3652,6 +3748,11 @@ msgid ""
 "black Zombie creature token with power equal to that card's power and "
 "toughness equal to that card's toughness."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten artefakt: Wygnaj wskazaną kartę stwora z "
+"twojego cmentarza. Stwórz żeton będący kopią owej karty, ale jest on Duchem "
+"1/1 oprócz swoich pozostałych typów oraz ma latanie. Stwórz żeton czarnego "
+"stwora Zombi z siła równą sile owej karty oraz wytrzymałością równą "
+"wytrzymałości owej karty."
 
 #: ../../EMN.rst:1240
 msgid ""
@@ -3669,12 +3770,15 @@ msgid ""
 "Whenever equipped creature attacks, it doesn't untap during its controller's "
 "next untap step."
 msgstr ""
+"Ilekroć wyposażony stwór atakuje, nie odkręci się on w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../EMN.rst:1237
 msgid ""
 "Whenever Stitcher's Graft becomes unattached from a permanent, sacrifice "
 "that permanent."
 msgstr ""
+"Ilekroć ten artefakt zostanie odłączony od permanentu, poświęć ów permanent."
 
 #: ../../EMN.rst:1239 ../../EMN.rst:1255
 msgid "Equip |mana_2|"
@@ -3689,18 +3793,22 @@ msgstr ""
 
 #: ../../EMN.rst:1243
 msgid "Terrarion enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole walki."
 
 #: ../../EMN.rst:1245
 msgid ""
 "|mana_2|, |tap|, Sacrifice Terrarion: Add two mana in any combination of "
 "colors."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Weź dwie many w dowolnej kombinacji "
+"kolorów."
 
 #: ../../EMN.rst:1247
 msgid ""
 "When Terrarion is put into a graveyard from the battlefield, draw a card."
 msgstr ""
+"Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola walki, dobierz "
+"kartę."
 
 #: ../../EMN.rst:1256
 msgid ""
@@ -3711,13 +3819,15 @@ msgstr ""
 
 #: ../../EMN.rst:1251
 msgid "Equipped creature gets +4/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+0."
 
 #: ../../EMN.rst:1253
 msgid ""
 "At the beginning of your end step, if equipped creature didn't deal combat "
 "damage to a creature this turn, sacrifice it."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli wyposażony stwór nie zadał "
+"stworowi obrażeń bojowych w tej turze, poświęć go."
 
 #: ../../EMN.rst:1262
 msgid ""
@@ -3732,7 +3842,7 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../EMN.rst:1261
 msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, następnie odrzuca kartę."
 
 #: ../../EMN.rst:1270
 msgid ""
@@ -3743,7 +3853,7 @@ msgstr ""
 
 #: ../../EMN.rst:1267
 msgid "|mana_r|, |tap|: Target creature gains haste until end of turn."
-msgstr ""
+msgstr "|mana_r|, |tap|: Wskazany stwór zyskuje pośpiech do końca tury."
 
 #: ../../EMN.rst:1269
 msgid ""
@@ -3768,6 +3878,9 @@ msgid ""
 "may reveal that card and put it on top of your library instead of putting it "
 "anywhere else."
 msgstr ""
+"Jeśli czar lub zdolność pod władaniem przeciwnika zmusza cię do odrzucenia "
+"karty, możesz ujawnić ową kartę i umieścić ją na wierzchu twojej biblioteki "
+"zamiast umieszczać ją gdziekolwiek indziej."
 
 #~ msgid "Murder"
 #~ msgstr "Murder (Morderstwo)"

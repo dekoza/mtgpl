@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-18 11:14+0000\n"
+"PO-Revision-Date: 2020-02-18 21:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -1966,6 +1966,8 @@ msgstr ""
 #: ../../C19.rst:905
 msgid "Whenever Stromkirk Occultist deals combat damage to a player, exile the top card of your library. Until end of turn, you may play that card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj wierzchnią kartę "
+"twojej biblioteki. Do końca tury możesz zagrać ową kartę."
 
 #: ../../C19.rst:914
 msgid ":mtgtip:`Violent Eruption<https://img.scryfall.com/cards/border_crop/front/4/1/419e6697-89ab-49f1-a867-8f86f001c80c.jpg?1568004481|https://scryfall.com/card/c19/154/violent-eruption?utm_source=api>`"
@@ -2359,6 +2361,8 @@ msgstr ""
 #: ../../C19.rst:1099
 msgid "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to any target."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole walki lub atakuje, jeśli nie masz kart w "
+"ręce, ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../C19.rst:1101
 msgid "Madness |mana_1|\\ |mana_b|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
@@ -3081,7 +3085,7 @@ msgstr ""
 
 #: ../../C19.rst:1459
 msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, następnie odrzuca kartę."
 
 #: ../../C19.rst:1466
 msgid ":mtgtip:`Golgari Guildgate<https://img.scryfall.com/cards/border_crop/front/9/b/9baed2e6-687f-4ab4-b378-4282f3a43c9c.jpg?1568005149|https://scryfall.com/card/c19/247/golgari-guildgate?utm_source=api>`"
