@@ -28,7 +28,7 @@ Dodatki poza Standardem
 * :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|
 * :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|
 * :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|
-* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p50|
+* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p75|
 * :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p100|
 * :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p100|
 * :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p100|
