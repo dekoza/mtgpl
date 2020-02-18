@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2020-02-18
+   * Eldritch Moon - 100%
+
 2020-02-17
    * Shadows over innistrad - 100%
    * Oatch of the Gatewatch - 100%
