@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-14 23:16+0000\n"
+"PO-Revision-Date: 2020-02-19 22:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/akh/"
 "pl/>\n"
@@ -73,7 +73,7 @@ msgid ""
 "twice that many of those tokens instead."
 msgstr ""
 "Jeśli jakiś efekt miałby stworzyć co najmniej jeden żeton pod twoim "
-"władaniem, zamiast tego tworzy dwa razy więcej owych żetonów."
+"władaniem, zamiast tego tworzy dwukrotność owych żetonów."
 
 #: ../../AKH.rst:24
 msgid ""
@@ -87,7 +87,7 @@ msgid ""
 "Whenever a creature token enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
-"Ilekroć żeton stwora wejdzie na pole walki pod twoim władaniem, zyskujesz 1 "
+"Ilekroć żeton stwora wejdzie na pole walki pod twoim władaniem, zyskaj 1 "
 "życie."
 
 #: ../../AKH.rst:23
@@ -116,7 +116,7 @@ msgid ""
 msgstr ""
 "Jeśli ten czar został rzucony z twojej ręki i rzuciłeś inny czar o tej samej "
 "nazwie w tej grze, wygrywasz grę. W przeciwnym razie umieść tę kartę w "
-"bibliotece jej właściciela jako siódmą licząc od wierzchu i zyskujesz 7 żyć."
+"bibliotece jej właściciela jako siódmą licząc od wierzchu i zyskaj 7 żyć."
 
 #: ../../AKH.rst:36
 msgid ""
@@ -170,8 +170,8 @@ msgid ""
 "When Cartouche of Solidarity enters the battlefield, create a 1/1 white "
 "Warrior creature token with vigilance."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Wojownik "
-"1/1."
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Wojownik 1/"
+"1 z czujnością."
 
 #: ../../AKH.rst:47
 msgid "Enchanted creature gets +1/+1 and has first strike."
@@ -215,9 +215,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 msgid ""
 "Enchanted creature has \"|mana_2|, Sacrifice this creature: You gain 2 life."
 "\""
-msgstr ""
-"Zauroczony stwór ma zdolność \"|mana_2|, poświęć tego stwora: Zyskujesz 2 "
-"życia.\""
+msgstr "Zauroczony stwór ma \"|mana_2|, poświęć tego stwora: Zyskaj 2 życia.\""
 
 #: ../../AKH.rst:68
 msgid ""
@@ -232,7 +230,7 @@ msgid ""
 "creature card with converted mana cost 2 or less from your graveyard to the "
 "battlefield. (An exerted creature won't untap during your next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, przywróć wskazaną "
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, przywróć wskazaną "
 "kartę stwora o skróconym koszcie many 2 lub mniejszym z twojego cmentarza na "
 "pole walki. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
 "odkręcania.)"
@@ -249,8 +247,8 @@ msgid ""
 "Untap target creature. Prevent all damage that would be dealt to it this "
 "turn."
 msgstr ""
-"Odkręć wskazanego stwora. Zażegnaj wszystkie obrażenia, jakie miałby "
-"otrzymać w tej turze."
+"Odkręć wskazanego stwora. Zażegnaj wszystkie obrażenia, jakie mogłyby mu "
+"zostać zadane w tej turze."
 
 #: ../../AKH.rst:73 ../../AKH.rst:83 ../../AKH.rst:133 ../../AKH.rst:301
 #: ../../AKH.rst:353 ../../AKH.rst:395 ../../AKH.rst:441 ../../AKH.rst:631
@@ -293,7 +291,7 @@ msgstr ""
 msgid ""
 "+1: Until your next turn, prevent all damage target permanent would deal."
 msgstr ""
-"+1: Do twojej następnej tury zażegnaj wszystkie obrażenia, jakie miałby "
+"+1: Do twojej następnej tury zażegnaj wszystkie obrażenia, jakie mógłby "
 "zadać wskazany permanent."
 
 #: ../../AKH.rst:89
@@ -304,7 +302,7 @@ msgid ""
 msgstr ""
 "0: Do końca tury ten wędrowiec staje się stworem Człowiek Żołnierz 4/4 z "
 "niezniszczalnością. Nadal jest wędrowcem. Zażegnaj wszystkie obrażenia, "
-"jakie miałby otrzymać w tej turze."
+"jakie mogłyby mu zostać zadane w tej turze."
 
 #: ../../AKH.rst:91
 msgid ""
@@ -323,7 +321,7 @@ msgstr ""
 
 #: ../../AKH.rst:95
 msgid "As Gideon's Intervention enters the battlefield, choose a card name."
-msgstr "Umieszczając ten urok na polu walki, wybierz dowolną nazwę karty."
+msgstr "Umieszczając ten urok na polu walki, nazwij kartę."
 
 #: ../../AKH.rst:97
 msgid "Your opponents can't cast spells with the chosen name."
@@ -334,8 +332,8 @@ msgid ""
 "Prevent all damage that would be dealt to you and permanents you control by "
 "sources with the chosen name."
 msgstr ""
-"Zażegnaj wszystkie obrażenia, jakie źródła o wybranej nazwie miałyby zadać "
-"tobie lub permanentom, którymi władasz."
+"Zażegnaj wszystkie obrażenia, jakie źródła o wybranej nazwie mogłyby zadać "
+"tobie lub permanentom pod twoim władaniem."
 
 #: ../../AKH.rst:104
 msgid ""
@@ -350,8 +348,8 @@ msgid ""
 "and gains lifelink until end of turn. (An exerted creature won't untap "
 "during your next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, otrzymuje on +1/+3 "
-"i zyskuje więź życia do końca tury. (Wytężony stwór nie odkręci się w twoim "
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje on do "
+"końca tury +1/+3 oraz więź życia. (Wytężony stwór nie odkręci się w twoim "
 "najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:108
@@ -367,8 +365,8 @@ msgid ""
 "gains flying until end of turn. (An exerted creature won't untap during your "
 "next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, otrzymuje on +1/+1 "
-"i zyskuje latanie do końca tury. (Wytężony stwór nie odkręci się w twoim "
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje on do "
+"końca tury +1/+1 oraz latanie. (Wytężony stwór nie odkręci się w twoim "
 "najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:112
@@ -396,8 +394,8 @@ msgid ""
 "Zombies you control get +2/+1 until end of turn. Other creatures you control "
 "get +1/+1 until end of turn."
 msgstr ""
-"Zombi, którymi władasz otrzymują +2/+1 do końca tury. Pozostałe stwory, "
-"którymi władasz otrzymują +1/+1 do końca tury."
+"Zombi pod twoim władaniem dostają do końca tury +2/+1. Pozostałe stwory pod "
+"twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../AKH.rst:120
 msgid ""
@@ -479,14 +477,14 @@ msgstr ""
 
 #: ../../AKH.rst:143
 msgid "Other Cats you control get +1/+1 and have lifelink."
-msgstr "Inne Koty pod twoim władaniem otrzymują +1/+1 i mają więź życia."
+msgstr "Inne Koty pod twoim władaniem dostają +1/+1 i mają więź życia."
 
 #: ../../AKH.rst:145
 msgid ""
 "When Regal Caracal enters the battlefield, create two 1/1 white Cat creature "
 "tokens with lifelink."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony białych stworów Kot "
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony białego stwora Kot "
 "1/1 z więzią życia."
 
 #: ../../AKH.rst:154
@@ -510,7 +508,7 @@ msgstr ""
 
 #: ../../AKH.rst:153
 msgid "When you cycle Renewed Faith, you may gain 2 life."
-msgstr "Kiedy recyklujesz tą kartę, możesz zyskać 2 życia."
+msgstr "Kiedy recyklujesz tę kartę, możesz zyskać 2 życia."
 
 #: ../../AKH.rst:158
 msgid ""
@@ -525,9 +523,9 @@ msgid ""
 "+0 and gains first strike until end of turn. (An exerted creature won't "
 "untap during your next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, otrzymuje on +1/+0 "
-"i zyskuje pierwszy cios do końca tury. (Wytężony stwór nie odkręci się w "
-"twoim najbliższym kroku odkręcania.)"
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje on do "
+"końca tury +1/+0 oraz pierwszy cios. (Wytężony stwór nie odkręci się w twoim "
+"najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:164
 msgid ""
@@ -606,8 +604,8 @@ msgid ""
 "control get +1/+1 until end of turn. (An exerted creature won't untap during "
 "your next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, stwory, którymi "
-"władasz otrzymują +1/+1 do końca tury. (Wytężony stwór nie odkręci się w "
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, stwory pod twoim "
+"władaniem dostają do końca tury +1/+1. (Wytężony stwór nie odkręci się w "
 "twoim najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:186
@@ -643,16 +641,16 @@ msgid ""
 "When Trial of Solidarity enters the battlefield, creatures you control get "
 "+2/+1 and gain vigilance until end of turn."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwory, którymi władasz otrzymują +2/"
-"+1 i zyskują czujność do końca tury."
+"Kiedy ten urok wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"końca tury +2/+1 oraz czujność."
 
 #: ../../AKH.rst:197
 msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Solidarity to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, zwróć ten urok do "
-"ręki jego właściciela."
+"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć ten urok "
+"do ręki właściciela."
 
 #: ../../AKH.rst:204
 msgid ""
@@ -663,7 +661,7 @@ msgstr ""
 
 #: ../../AKH.rst:201
 msgid "Trueheart Duelist can block an additional creature each combat."
-msgstr "Ten stwór w każdej walce może blokować dodatkowego stwora."
+msgstr "Ten stwór może blokować dodatkowego stwora w każdej walce."
 
 #: ../../AKH.rst:203
 msgid ""
@@ -671,7 +669,7 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Human Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
-"Balsamowanie  |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, wygnaj tę kartę z "
+"Balsamowanie |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, wygnaj tę kartę z "
 "twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
 "to biały Zombi Człowiek Wojownik bez kosztu many. Balsamuj tylko jako "
 "obrzęd.)"
@@ -713,7 +711,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazanego stwora, "
 "jeśli w tej turze ów stwór atakował lub blokował. Na początku następnego "
-"kroku końcowego, przywróć owego stwora na pole walki pod władaniem jego "
+"kroku końcowego, przywróć owego stwora na pole walki pod władaniem "
 "właściciela."
 
 #: ../../AKH.rst:220
@@ -729,7 +727,7 @@ msgid ""
 "many -1/-1 counters minus one are put on it instead."
 msgstr ""
 "Jeśli jeden lub więcej znaczników -1/-1 miałoby zostać umieszczonych na "
-"stworze pod twoim władaniem, zamiast tego zostanie umieszczonych o jeden "
+"stworze pod twoim władaniem, zamiast tego zostaje umieszczonych o jeden "
 "mniej."
 
 #: ../../AKH.rst:226
@@ -884,7 +882,7 @@ msgstr ""
 
 #: ../../AKH.rst:281
 msgid "Whenever you cycle or discard another card, scry 1."
-msgstr "Ilekroć recyklujesz lub odrzucasz kartę, wróż 1."
+msgstr "Ilekroć zrecyklujesz lub odrzucisz inną kartę, wróż 1."
 
 #: ../../AKH.rst:288
 msgid ""
@@ -913,7 +911,7 @@ msgid ""
 "Whenever you cycle or discard a card, you may pay |mana_1|. If you do, "
 "create a 2/2 blue Drake creature token with flying."
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz kartę, możesz zapłacić |mana_1|. Jeśli to "
+"Ilekroć zrecyklujesz lub odrzucisz kartę, możesz zapłacić |mana_1|. Jeśli to "
 "zrobisz, stwórz żeton niebieskiego stwora Drak 2/2 z lataniem."
 
 #: ../../AKH.rst:296
@@ -991,8 +989,8 @@ msgid ""
 "Whenever you cycle or discard a card, Hekma Sentinels gets +1/+1 until end "
 "of turn."
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz kartę, ten stwór dostaje +1/+1 do końca "
-"tury."
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór dostaje do końca tury +1/"
+"+1."
 
 #: ../../AKH.rst:326
 msgid ""
@@ -1032,7 +1030,7 @@ msgid ""
 "Kefnet the Mindful can't attack or block unless you have seven or more cards "
 "in hand."
 msgstr ""
-"Ten stwór nie może atakować ani blokować dopóki nie masz co najmniej siedmiu "
+"Ten stwór nie może atakować ani blokować, chyba że masz co najmniej siedem "
 "kart w ręce."
 
 #: ../../AKH.rst:339
@@ -1155,8 +1153,8 @@ msgid ""
 "River Serpent can't attack unless there are five or more cards in your "
 "graveyard."
 msgstr ""
-"Ten stwór nie może atakować dopóki w twoim cmentarzu nie ma co najmniej "
-"pięciu kart."
+"Ten stwór nie może atakować, chyba że w twoim cmentarzu jest co najmniej "
+"pięć kart."
 
 #: ../../AKH.rst:382
 msgid ""
@@ -1199,8 +1197,8 @@ msgid ""
 "|tap|: Draw a card, then discard a card. Activate this ability only if "
 "you've cast a noncreature spell this turn."
 msgstr ""
-"|tap|: Dobierz kartę, następnie odrzuć kartę. Aktywuj tylko jeśli rzuciłeś w "
-"tej turze czar nie będący stworem."
+"|tap|: Dobierz kartę, następnie odrzuć kartę. Możesz aktywować tę zdolność "
+"tylko jeśli rzuciłeś w tej turze czar nie będący stworem."
 
 #: ../../AKH.rst:396
 msgid ""
@@ -1257,8 +1255,8 @@ msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Knowledge to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, zwróć ten urok do "
-"ręki jego właściciela."
+"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć ten urok "
+"do ręki właściciela."
 
 #: ../../AKH.rst:416
 msgid ""
@@ -1318,8 +1316,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. Each player puts the "
 "top two cards of their library into their graveyard."
 msgstr ""
-"Przywróć wskazany permanent nie będący lądem do ręki właściciela. Każdy "
-"gracz umieszcza dwie wierzchnie karty swojej biblioteki w swoim cmentarzu."
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Każdy gracz "
+"umieszcza dwie wierzchnie karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../AKH.rst:434
 msgid ""
@@ -1333,7 +1331,7 @@ msgid ""
 "Whenever you cycle or discard a card, target creature gains flying until end "
 "of turn."
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz kartę, wskazany stwór zyskuje latanie do "
+"Ilekroć zrecyklujesz lub odrzucisz kartę, wskazany stwór zyskuje latanie do "
 "końca tury."
 
 #: ../../AKH.rst:442
@@ -1348,7 +1346,7 @@ msgid ""
 "Whenever you cycle or discard another card, put a -1/-1 counter on each "
 "creature your opponents control."
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz inną kartę, umieść znacznik -1/-1 na "
+"Ilekroć zrecyklujesz lub odrzucisz inną kartę, umieść znacznik -1/-1 na "
 "każdym stworze pod władaniem twoich przeciwników."
 
 #: ../../AKH.rst:448
@@ -1409,7 +1407,7 @@ msgid ""
 "Bontu the Glorified can't attack or block unless a creature died under your "
 "control this turn."
 msgstr ""
-"Ten stwór nie może atakować ani blokować dopóki w tej turze nie umarł stwór "
+"Ten stwór nie może atakować ani blokować, chyba że w tej turze umarł stwór "
 "pod twoim władaniem."
 
 #: ../../AKH.rst:467
@@ -1418,7 +1416,7 @@ msgid ""
 "1 life and you gain 1 life."
 msgstr ""
 "|mana_1|\\ |mana_b|, poświęć innego stwora: Wróż 1. Każdy przeciwnik traci "
-"po 1 życiu, a ty zyskujesz 1 życie."
+"po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../AKH.rst:476
 msgid ""
@@ -1485,9 +1483,9 @@ msgid ""
 "library for any number of cards with the chosen name and exile them. Then "
 "that player shuffles their library."
 msgstr ""
-"Wybierz nazwę karty artefaktu. Wyszukaj w cmentarzu, ręce i bibliotece "
-"wskazanego przeciwnika dowolną liczbę karty o wybranej nazwie i wygnaj je. "
-"Następnie ów gracz tasuje swoją bibliotekę."
+"Nazwij kartę artefaktu. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
+"przeciwnika dowolną liczbę kart o wybranej nazwie i wygnaj je. Następnie ów "
+"gracz tasuje swoją bibliotekę."
 
 #: ../../AKH.rst:494
 msgid ""
@@ -1604,8 +1602,8 @@ msgid ""
 "Whenever you cycle or discard another card, Horror of the Broken Lands gets "
 "+2/+1 until end of turn."
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz inną kartę, ten stwór dostaje +2/+1 do "
-"końca tury."
+"Ilekroć zrecyklujesz lub odrzucisz inną kartę, ten stwór dostaje do końca "
+"tury +2/+1."
 
 #: ../../AKH.rst:529 ../../AKH.rst:587
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
@@ -1711,8 +1709,8 @@ msgid ""
 "Whenever you put one or more -1/-1 counters on a creature, create that many "
 "1/1 black Insect creature tokens."
 msgstr ""
-"Ilekroć umieszczasz na stworze jeden lub więcej znaczników -1/-1, stwórz "
-"tyle samo żetonów czarnego stwora Owad 1/1."
+"Ilekroć umieścisz na stworze jeden lub więcej znaczników -1/-1, stwórz tyle "
+"samo żetonów czarnego stwora Owad 1/1."
 
 #: ../../AKH.rst:566
 msgid ""
@@ -1739,7 +1737,7 @@ msgid ""
 "it. If its toughness is 0 or less, it's still put into its owner's "
 "graveyard.)"
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz kartę, ten stwór zyskuje niezniszczalność "
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór zyskuje niezniszczalność "
 "do końca tury. (Obrażenia oraz efekty mówiące \"zniszcz\" nie niszczą go. "
 "Jeśli jego wytrzymałość wynosi 0 lub mniej, nadal zostanie umieszczony w "
 "cmentarzu właściciela.)"
@@ -1781,7 +1779,7 @@ msgid ""
 "Whenever you cycle or discard a card, you may pay |mana_1|. If you do, put a "
 "-1/-1 counter on target creature."
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz kartę możesz zapłacić |mana_1|. Jeśli tak "
+"Ilekroć zrecyklujesz lub odrzucisz kartę możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, umieść znacznik -1/-1 na wskazanym stworze."
 
 #: ../../AKH.rst:588
@@ -1896,7 +1894,7 @@ msgid ""
 "that player loses 1 life and you gain 1 life."
 msgstr ""
 "Ilekroć stwór wejdzie na pole walki pod władaniem zauroczonego gracza, ów "
-"gracz traci 1 życie, a ty zyskujesz 1 życie."
+"gracz traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../AKH.rst:626
 msgid ""
@@ -1917,8 +1915,8 @@ msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Ambition to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, zwróć ten urok do "
-"ręki jego właściciela."
+"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć niniejszy "
+"urok do ręki właściciela."
 
 #: ../../AKH.rst:632
 msgid ""
@@ -1989,7 +1987,7 @@ msgid ""
 "You may exert Battlefield Scavenger as it attacks. (It won't untap during "
 "your next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć.  (Nie odkręci się w twoim "
+"Atakując tym stworem, możesz go wytężyć. (Nie odkręci się on w twoim "
 "najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:655
@@ -1997,7 +1995,7 @@ msgid ""
 "Whenever you exert a creature, you may discard a card. If you do, draw a "
 "card."
 msgstr ""
-"Ilekroć wytężysz stwora, możesz odrzucić kartę. Jeśli to zrobisz, dobierz "
+"Ilekroć wytężysz stwora, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz "
 "kartę."
 
 #: ../../AKH.rst:660
@@ -2010,8 +2008,8 @@ msgstr ""
 #: ../../AKH.rst:659
 msgid "Blazing Volley deals 1 damage to each creature your opponents control."
 msgstr ""
-"Ten czar zadaje po 1 obrażeniu każdemu stworowi pod władaniem twoich "
-"przeciwników."
+"Ten czar zadaje każdemu stworowi pod władaniem twoich przeciwników po 1 "
+"obrażeniu."
 
 #: ../../AKH.rst:664
 msgid ""
@@ -2186,8 +2184,8 @@ msgid ""
 "Whenever you cycle or discard a card, Flameblade Adept gets +1/+0 until end "
 "of turn."
 msgstr ""
-"Ilekroć recyklujesz lub odrzucasz kartę, ten stwór dostaje +1/+0 do końca "
-"tury."
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór dostaje do końca tury +1/"
+"+0."
 
 #: ../../AKH.rst:726
 msgid ""
@@ -2219,7 +2217,7 @@ msgid ""
 "card. The player whose turn it is discards down to their maximum hand size. "
 "Damage wears off, and \"this turn\" and \"until end of turn\" effects end.)"
 msgstr ""
-"Zakończ turę. (Wygnaj wszystkie czary i zdolności ze stosu, łącznie z "
+"Zakończ turę. (Wygnaj wszystkie czary i zdolności ze stosu łącznie z "
 "niniejszą kartą. Aktywny gracz odrzuca karty do maksymalnego rozmiaru ręki. "
 "Obrażenia są usuwane, a efekty \"w tej turze\" oraz \"do końca tury\" kończą "
 "się.)"
@@ -2245,10 +2243,9 @@ msgid ""
 "target non-Dragon creature an opponent controls. (An exerted creature won't "
 "untap during your next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, zadaje on 4 "
-"obrażenia wskazanemu stworowi nie będącemu Smokiem pod władaniem "
-"przeciwnika. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
-"odkręcania.)"
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, zadaje on "
+"wskazanemu stworowi bez typu Smok pod władaniem przeciwnika 4 obrażenia. ("
+"Wytężony stwór nie odkręci się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:742
 msgid ""
@@ -2283,8 +2280,8 @@ msgid ""
 "Hazoret the Fervent can't attack or block unless you have one or fewer cards "
 "in hand."
 msgstr ""
-"Ten stwór nie może atakować ani blokować dopóki masz więcej niż jedną kartę "
-"na ręce."
+"Ten stwór nie może atakować ani blokować, chyba że masz nie więcej niż jedną "
+"kartę w ręce."
 
 #: ../../AKH.rst:749
 msgid ""
@@ -2324,7 +2321,7 @@ msgid ""
 "that creature's power to any target."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz poświęcić innego stwora. Kiedy "
-"tak zrobisz, ten stwór zadaje wskazanemu celowi obrażenia równe sile "
+"tak zrobisz, niniejszy stwór zadaje wskazanemu celowi obrażenia równe sile "
 "poświęconego stwora."
 
 #: ../../AKH.rst:759
@@ -2404,7 +2401,7 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../AKH.rst:783
 msgid "|mana_1|\\ |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../AKH.rst:790
 msgid ""
@@ -2423,8 +2420,8 @@ msgid ""
 "until end of turn. (An exerted creature won't untap during your next untap "
 "step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje on +1/+2 "
-"do końca tury. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje on do "
+"końca tury +1/+2. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
 "odkręcania.)"
 
 #: ../../AKH.rst:794
@@ -2542,8 +2539,8 @@ msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Zeal to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, zwróć ten urok do "
-"ręki jego właściciela."
+"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć ten urok "
+"do ręki właściciela."
 
 #: ../../AKH.rst:838
 msgid ""
@@ -2557,7 +2554,7 @@ msgid ""
 "You may exert Trueheart Twins as it attacks. (It won't untap during your "
 "next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. (Nie odkręci się w twoim "
+"Atakując tym stworem, możesz go wytężyć. (Nie odkręci się on w twoim "
 "najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:837
@@ -2565,8 +2562,8 @@ msgid ""
 "Whenever you exert a creature, creatures you control get +1/+0 until end of "
 "turn."
 msgstr ""
-"Ilekroć wytężysz stwora, stwory pod twoim władaniem dostają +1/+0 do końca "
-"tury."
+"Ilekroć wytężysz stwora, stwory pod twoim władaniem dostają do końca tury +1/"
+"+0."
 
 #: ../../AKH.rst:844
 msgid ""
@@ -2592,9 +2589,9 @@ msgid ""
 "creature an opponent controls, where X is the number of instant and sorcery "
 "cards in your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje X obrażeń wskazanemu stworowi "
-"pod władaniem przeciwnika, gdzie X jest liczbą kart sztuczek i obrzędów w "
-"twoim cmentarzu."
+"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu stworowi pod "
+"władaniem przeciwnika X obrażeń, gdzie X jest liczbą kart sztuczek i "
+"obrzędów w twoim cmentarzu."
 
 #: ../../AKH.rst:852
 msgid ""
@@ -2626,8 +2623,8 @@ msgid ""
 "and gains deathtouch until end of turn. (An exerted creature won't untap "
 "during your next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje do końca "
-"tury +1/+0 oraz dotyk śmierci. (Wytężony stwór nie odkręci się w twoim "
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje on do "
+"końca tury +1/+0 oraz dotyk śmierci. (Wytężony stwór nie odkręci się w twoim "
 "najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:864
@@ -2643,10 +2640,13 @@ msgid ""
 "creature fight target creature an opponent controls. (Each deals damage "
 "equal to its power to the other.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, możesz sprawić, że zauroczony stwór "
+"będzie walczyć ze wskazanym stworem pod władaniem przeciwnika. (Każdy zadaje "
+"drugiemu obrażenia równe swojej sile.)"
 
 #: ../../AKH.rst:863
 msgid "Enchanted creature gets +1/+1 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma tratowanie."
 
 #: ../../AKH.rst:868
 msgid ""
@@ -2677,12 +2677,15 @@ msgid ""
 "When Channeler Initiate enters the battlefield, put three -1/-1 counters on "
 "target creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść trzy znaczniki -1/-1 na "
+"wskazanym stworze pod twoim władaniem."
 
 #: ../../AKH.rst:873
 msgid ""
 "|tap|, Remove a -1/-1 counter from Channeler Initiate: Add one mana of any "
 "color."
 msgstr ""
+"|tap|, usuń znacznik -1/-1 z tego stwora: Weź jedną manę dowolnego koloru."
 
 #: ../../AKH.rst:876
 msgid ""
@@ -2703,6 +2706,8 @@ msgid ""
 "When Crocodile of the Crossing enters the battlefield, put a -1/-1 counter "
 "on target creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../AKH.rst:890
 msgid ""
@@ -2716,12 +2721,16 @@ msgid ""
 "When Defiant Greatmaw enters the battlefield, put two -1/-1 counters on "
 "target creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść dwa znaczniki -1/-1 na "
+"wskazanym stworze pod twoim władaniem."
 
 #: ../../AKH.rst:889
 msgid ""
 "Whenever you put one or more -1/-1 counters on Defiant Greatmaw, remove a "
 "-1/-1 counter from another target creature you control."
 msgstr ""
+"Ilekroć umieścisz jeden lub więcej znaczników -1/-1 na tym stworze, usuń "
+"znacznik -1/-1 z innego wskazanego stwora pod twoim władaniem."
 
 #: ../../AKH.rst:896
 msgid ""
@@ -2750,12 +2759,16 @@ msgid ""
 "When Exemplar of Strength enters the battlefield, put three -1/-1 counters "
 "on target creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść trzy znaczniki -1/-1 na "
+"wskazanym stworze pod twoim władaniem."
 
 #: ../../AKH.rst:901
 msgid ""
 "Whenever Exemplar of Strength attacks, remove a -1/-1 counter from it. If "
 "you do, you gain 1 life."
 msgstr ""
+"Ilekroć ten stwór atakuje, usuń z niego znacznik -1/-1. Jeśli tak zrobisz, "
+"zyskaj 1 życie."
 
 #: ../../AKH.rst:906
 msgid ""
@@ -2792,7 +2805,7 @@ msgstr ""
 
 #: ../../AKH.rst:917
 msgid "Greater Sandwurm can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../AKH.rst:924
 msgid ""
@@ -2807,6 +2820,9 @@ msgid ""
 "-1/-1 counters from it. (A creature with hexproof can't be the target of "
 "spells or abilities your opponents control.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje antyklątwę do końca tury. Usuń z "
+"niego wszystkie znaczniki -1/-1. (Stwór z antyklątwą nie może być wskazany "
+"przez czary i zdolności pod władaniem przeciwników.)"
 
 #: ../../AKH.rst:928
 msgid ""
@@ -2821,6 +2837,9 @@ msgid ""
 "tapped creatures you control, and put those cards onto the battlefield "
 "tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
+"liczbą przekręconych stworów pod twoim władaniem, i umieść owe karty "
+"przekręcone na polu walki. Następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:934
 msgid ""
@@ -2863,8 +2882,8 @@ msgid ""
 "You may exert Hooded Brawler as it attacks. When you do, it gets +2/+2 until "
 "end of turn. (An exerted creature won't untap during your next untap step.)"
 msgstr ""
-"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje on +2/+2 "
-"do końca tury. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
+"Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, dostaje on do "
+"końca tury +2/+2. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
 "odkręcania.)"
 
 #: ../../AKH.rst:948
@@ -2879,6 +2898,8 @@ msgid ""
 "Whenever Initiate's Companion deals combat damage to a player, untap target "
 "creature or land."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, odkręć wskazanego stwora "
+"lub ląd."
 
 #: ../../AKH.rst:954
 msgid ""
@@ -2891,10 +2912,13 @@ msgstr ""
 msgid ""
 "When Manglehorn enters the battlefield, you may destroy target artifact."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz zniszczyć wskazany artefakt."
 
 #: ../../AKH.rst:953
 msgid "Artifacts your opponents control enter the battlefield tapped."
 msgstr ""
+"Artefakty pod władaniem twoich przeciwników wchodzą przekręcone na pole "
+"walki."
 
 #: ../../AKH.rst:958
 msgid ""
@@ -2906,6 +2930,8 @@ msgstr ""
 #: ../../AKH.rst:957
 msgid "|tap|: Add one mana of any type that a land you control could produce."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego typu, jaki mogłyby dać lądy pod twoim "
+"władaniem."
 
 #: ../../AKH.rst:962
 msgid ""
@@ -2915,14 +2941,14 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:961
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library "
 "for a basic land card, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
-"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"|mana_2|\\ |mana_g|, |tap|, poświęć tego stwora: Wyszukaj w twojej "
+"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu walki, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:966
 msgid ""
@@ -2936,6 +2962,8 @@ msgid ""
 "When Ornery Kudu enters the battlefield, put a -1/-1 counter on target "
 "creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../AKH.rst:970
 msgid ""
@@ -2972,6 +3000,9 @@ msgid ""
 "target permanent, put another counter of that kind on it or remove one from "
 "it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dla każdego rodzaju znacznika na "
+"wskazanym permanencie, umieść na nim kolejny tego samego rodzaju lub usuń "
+"zeń jeden."
 
 #: ../../AKH.rst:988
 msgid ""
@@ -2982,20 +3013,23 @@ msgstr ""
 
 #: ../../AKH.rst:983
 msgid "Deathtouch, indestructible"
-msgstr ""
+msgstr "Dotyk śmierci, niezniszczalność"
 
 #: ../../AKH.rst:985
 msgid ""
 "Rhonas the Indomitable can't attack or block unless you control another "
 "creature with power 4 or greater."
 msgstr ""
+"Ten stwór nie może atakować ani blokować, chyba że władasz innym stworem o "
+"sile 4 lub większej."
 
 #: ../../AKH.rst:987
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_g|: Another target creature gets +2/+0 and gains trample "
 "until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
+msgstr ""
+"|mana_2|\\ |mana_g|: Inny wskazany stwór dostaje do końca tury +2/+0 i "
+"tratowanie."
 
 #: ../../AKH.rst:994
 msgid ""
@@ -3007,11 +3041,13 @@ msgstr ""
 #: ../../AKH.rst:991
 msgid "Creatures with flying can't attack you or planeswalkers you control."
 msgstr ""
+"Stwory z lataniem nie mogą atakować ciebie ani wędrowców pod twoim władaniem."
 
 #: ../../AKH.rst:993
 msgid ""
 "At the beginning of your end step, create a 5/5 green Wurm creature token."
 msgstr ""
+"Na początku twojego kroku końcowego, stwórz żeton zielonego stwora Żmij 5/5."
 
 #: ../../AKH.rst:998
 msgid ""
@@ -3040,6 +3076,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. You may remove a -1/-1 counter "
 "from it."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Możesz usunąć z niego znacznik "
+"-1/-1."
 
 #: ../../AKH.rst:1008
 msgid ""
@@ -3049,7 +3087,6 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1005
-#, fuzzy
 msgid ""
 "Cycling |mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, Discard this card: Draw a "
 "card.)"
@@ -3063,6 +3100,9 @@ msgid ""
 "card or a Desert card, put it onto the battlefield, then shuffle your "
 "library. (Do this before you draw.)"
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
+"bazowego lądu lub Pustyni, umieść ją na polu walki, następnie przetasuj "
+"twoją bibliotekę. (Zrób to zanim dobierzesz.)"
 
 #: ../../AKH.rst:1014
 msgid ""
@@ -3076,6 +3116,8 @@ msgid ""
 "Enchanted creature has \"Whenever this creature deals combat damage to a "
 "player, you may draw a card.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć ten stwór zada graczowi obrażenia bojowe, "
+"możesz dobrać kartę.\""
 
 #: ../../AKH.rst:1018
 msgid ""
@@ -3089,6 +3131,8 @@ msgid ""
 "Untap target creature. It gets +2/+4 and gains reach until end of turn. (It "
 "can block creatures with flying.)"
 msgstr ""
+"Odkręć wskazanego stwora. Dostaje on do końca tury +2/+4 oraz zasięg. (Może "
+"blokować stwory z lataniem.)"
 
 #: ../../AKH.rst:1024
 msgid ""
@@ -3099,7 +3143,7 @@ msgstr ""
 
 #: ../../AKH.rst:1021
 msgid "Put three -1/-1 counters on target creature with flying."
-msgstr ""
+msgstr "Umieść trzy znaczniki -1/-1 na wskazanym stworze z lataniem."
 
 #: ../../AKH.rst:1028
 msgid ""
@@ -3112,6 +3156,8 @@ msgstr ""
 msgid ""
 "Untap up to two target creatures. They each get +2/+2 until end of turn."
 msgstr ""
+"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich dostaje do końca tury +"
+"2/+2."
 
 #: ../../AKH.rst:1034
 msgid ""
@@ -3125,14 +3171,16 @@ msgid ""
 "When Trial of Strength enters the battlefield, create a 4/2 green Beast "
 "creature token."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton zielonego stwora Bestia 4/"
+"2."
 
 #: ../../AKH.rst:1033
 msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Strength to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, zwróć ten urok do "
-"ręki jego właściciela."
+"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć niniejszy "
+"urok do ręki właściciela."
 
 #: ../../AKH.rst:1042
 msgid ""
@@ -3149,12 +3197,15 @@ msgstr ""
 #: ../../AKH.rst:1039
 msgid "You may cast the top card of your library if it's a creature card."
 msgstr ""
+"Możesz rzucać wierzchnią kartę twojej biblioteki jeśli jest to karta stwora."
 
 #: ../../AKH.rst:1041
 msgid ""
 "You may spend mana as though it were mana of any type to cast creature "
 "spells."
 msgstr ""
+"Rzucając czary stworów możesz wydawać manę tak, jakby była maną dowolnego "
+"typu."
 
 #: ../../AKH.rst:1046
 msgid ""
@@ -3197,7 +3248,7 @@ msgstr ""
 
 #: ../../AKH.rst:1055
 msgid "Creature tokens you control have flying and vigilance."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem mają latanie i czujność."
 
 #: ../../AKH.rst:1057
 msgid ""
@@ -3225,6 +3276,10 @@ msgid ""
 "counter on Bounty of the Luxa and draw a card. Otherwise, add |colorless|\\ |"
 "mana_g|\\ |mana_u|."
 msgstr ""
+"Na początku twojej fazy głównej poprzedzającej walkę, usuń wszystkie "
+"znaczniki powodzi z tego uroku. Jeśli nie usunięto znacznika w ten sposób, "
+"umieść znacznik powodzi na tym uroku i dobierz kartę. W przeciwnym razie weź "
+"|colorless|\\ |mana_g|\\ |mana_u|."
 
 #: ../../AKH.rst:1068
 msgid ""
@@ -3238,6 +3293,8 @@ msgid ""
 "When Decimator Beetle enters the battlefield, put a -1/-1 counter on target "
 "creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../AKH.rst:1067
 msgid ""
@@ -3245,6 +3302,9 @@ msgid ""
 "creature you control and put a -1/-1 counter on up to one target creature "
 "defending player controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, usuń znacznik -1/-1 ze wskazanego stwora pod "
+"twoim władaniem i umieść znacznik -1/-1 na co najwyżej jednym wskazanym "
+"stworze pod władaniem broniącego się gracza."
 
 #: ../../AKH.rst:1074
 msgid ""
@@ -3272,12 +3332,16 @@ msgid ""
 "Whenever Hapatra, Vizier of Poisons deals combat damage to a player, you may "
 "put a -1/-1 counter on target creature."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz umieścić znacznik "
+"-1/-1 na wskazanym stworze."
 
 #: ../../AKH.rst:1079
 msgid ""
 "Whenever you put one or more -1/-1 counters on a creature, create a 1/1 "
 "green Snake creature token with deathtouch."
 msgstr ""
+"Ilekroć umieścisz na stworze jeden lub więcej znaczników -1/-1, stwórz żeton "
+"zielonego stwora Wąż 1/1 z dotykiem śmierci."
 
 #: ../../AKH.rst:1084
 msgid ""
@@ -3291,6 +3355,7 @@ msgid ""
 "Whenever Honored Crop-Captain attacks, other attacking creatures get +1/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inne atakujące stwory dostają do końca tury +1/+0."
 
 #: ../../AKH.rst:1090
 msgid ""
@@ -3315,6 +3380,8 @@ msgid ""
 "|mana_2|, Discard a card: Put a -1/-1 counter on target creature. That "
 "creature can't block this turn."
 msgstr ""
+"|mana_2|, odrzuć kartę: Umieść znacznik -1/-1 na wskazanym stworze. Ów stwór "
+"nie może blokować w tej turze."
 
 #: ../../AKH.rst:1104
 msgid ""
@@ -3329,19 +3396,22 @@ msgstr "Pierwszy cios"
 
 #: ../../AKH.rst:1099
 msgid "Other Minotaurs you control have first strike."
-msgstr ""
+msgstr "Inne Minotaury pod twoim władaniem mają pierwszy cios."
 
 #: ../../AKH.rst:1101
 msgid ""
 "As long as you have one or fewer cards in hand, Minotaurs you control get +2/"
 "+0."
 msgstr ""
+"O ile masz co najwyżej jedną kartę w ręce, Minotaury pod twoim władaniem "
+"dostają +2/+0."
 
 #: ../../AKH.rst:1103
 msgid ""
 "Whenever Neheb, the Worthy deals combat damage to a player, each player "
 "discards a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz odrzuca kartę."
 
 #: ../../AKH.rst:1112
 msgid ""
@@ -3352,7 +3422,7 @@ msgstr ""
 
 #: ../../AKH.rst:1107
 msgid "+2: Scry 2."
-msgstr ""
+msgstr "+2: Wróż 2."
 
 #: ../../AKH.rst:1109
 msgid ""
@@ -3361,12 +3431,17 @@ msgid ""
 "counters on Nissa, Steward of Elements, you may put that card onto the "
 "battlefield."
 msgstr ""
+"0: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to karta lądu lub "
+"stwora o skróconym koszcie many nie większym niż liczba znaczników "
+"lojalności na tym wędrowcu, możesz umieścić ową kartę na polu walki."
 
 #: ../../AKH.rst:1111
 msgid ""
 "−6: Untap up to two target lands you control. They become 5/5 Elemental "
 "creatures with flying and haste until end of turn. They're still lands."
 msgstr ""
+"–6: Odkręć co najwyżej dwa wskazane lądy pod twoim władaniem. Do końca tury "
+"stają się one stworami Żywiołak 5/5 z lataniem i pośpiechem. Nadal są lądami."
 
 #: ../../AKH.rst:1122
 msgid ""
@@ -3377,7 +3452,7 @@ msgstr ""
 
 #: ../../AKH.rst:1117
 msgid "Double strike, vigilance, haste"
-msgstr ""
+msgstr "Podwójny cios, czujność, pośpiech"
 
 #: ../../AKH.rst:1119
 msgid "Other creatures you control have haste."
@@ -3385,7 +3460,7 @@ msgstr "Inne stwory pod twoim władaniem mają pośpiech."
 
 #: ../../AKH.rst:1121
 msgid "|mana_w|, |tap|: Untap another target creature."
-msgstr ""
+msgstr "|mana_w|, |tap|: Odkręć innego wskazanego stwora."
 
 #: ../../AKH.rst:1128
 msgid ""
@@ -3399,6 +3474,8 @@ msgid ""
 "Whenever you cycle or discard a card, Shadowstorm Vizier gets +1/+1 until "
 "end of turn."
 msgstr ""
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór dostaje do końca tury +1/"
+"+1."
 
 #: ../../AKH.rst:1134
 msgid ""
@@ -3412,6 +3489,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature token you control "
 "gets +1/+1 until end of turn and can't be blocked this turn."
 msgstr ""
+"Na początku walki w twojej turze, wskazany żeton stwora pod twoim władaniem "
+"dostaje do końca tury +1/+1 i nie może być blokowany w tej turze."
 
 #: ../../AKH.rst:1133
 msgid ""
@@ -3437,6 +3516,8 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, each "
 "opponent loses 1 life and you gain 1 life."
 msgstr ""
+"Ilekroć inny Zombi wejdzie na pole walki pod twoim władaniem, każdy "
+"przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../AKH.rst:1142
 msgid ""
@@ -3473,8 +3554,8 @@ msgstr ""
 #: ../../AKH.rst:1271 ../../AKH.rst:1281 ../../AKH.rst:1291
 msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
-"Pokłosie (Możesz rzucić ten czar tylko z twojego cmentarza. Następnie go "
-"wygnaj.)"
+"Pokłosie (Możesz rzucić ten czar tylko z twojego cmentarza. Następnie wygnaj "
+"go.)"
 
 #: ../../AKH.rst:1151
 msgid ""
@@ -3496,6 +3577,8 @@ msgid ""
 "Put target spell or nonland permanent into its owner's library second from "
 "the top."
 msgstr ""
+"Umieść wskazany czar lub nielądowy permanent w bibliotece właściciela jako "
+"drugi od wierzchu."
 
 #: ../../AKH.rst:1162
 msgid ""
@@ -3534,6 +3617,7 @@ msgstr ""
 msgid ""
 "Exile target card from a graveyard. Create a 2/2 black Zombie creature token."
 msgstr ""
+"Wygnaj wskazaną kartę z cmentarza. Stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../AKH.rst:1176
 msgid ""
@@ -3547,6 +3631,9 @@ msgid ""
 "Damage can't be prevented this turn. If a source you control would deal "
 "damage this turn, it deals double that damage instead."
 msgstr ""
+"Obrażenia nie mogą być zażegnane w tej turze. Jeśli źródło pod twoim "
+"władaniem miałoby zadać obrażenia w tej turze, zamiast tego zadaje ono "
+"dwukrotność owych obrażeń."
 
 #: ../../AKH.rst:1182
 msgid ""
@@ -3560,6 +3647,8 @@ msgid ""
 "Injury deals 2 damage to target creature and 2 damage to target player or "
 "planeswalker."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 2 obrażenia oraz 2 obrażenia wskazanemu "
+"graczowi lub wędrowcowi."
 
 #: ../../AKH.rst:1186
 msgid ""
@@ -3570,7 +3659,7 @@ msgstr ""
 
 #: ../../AKH.rst:1185
 msgid "Create a 3/3 green Hippo creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Hipopotam 3/3."
 
 #: ../../AKH.rst:1192
 msgid ""
@@ -3582,6 +3671,7 @@ msgstr ""
 #: ../../AKH.rst:1191
 msgid "Draw a card for each creature you control with power 3 or greater."
 msgstr ""
+"Dobierz tyle kart, ile masz pod władaniem stworów o sile 3 lub większej."
 
 #: ../../AKH.rst:1196
 msgid ""
@@ -3592,7 +3682,7 @@ msgstr ""
 
 #: ../../AKH.rst:1195
 msgid "Create two 1/1 white Warrior creature tokens with vigilance."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Wojownik 1/1 z czujnością."
 
 #: ../../AKH.rst:1204
 msgid ""
@@ -3603,7 +3693,7 @@ msgstr ""
 
 #: ../../AKH.rst:1201
 msgid "As an additional cost to cast Finish, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru (Finish) — poświęć stwora."
 
 #: ../../AKH.rst:1203
 msgid "Destroy target creature."
@@ -3632,6 +3722,8 @@ msgid ""
 "Up to three target lands don't untap during their controller's next untap "
 "step."
 msgstr ""
+"Co najwyżej trzy wskazane lądy nie odkręcą się w najbliższym kroku "
+"odkręcania ich władcy."
 
 #: ../../AKH.rst:1218
 msgid ""
@@ -3642,7 +3734,7 @@ msgstr ""
 
 #: ../../AKH.rst:1217
 msgid "Target creature gets +1/+0 and gains indestructible until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 oraz niezniszczalność."
 
 #: ../../AKH.rst:1224
 msgid ""
@@ -3665,7 +3757,7 @@ msgstr ""
 
 #: ../../AKH.rst:1227
 msgid "Target creature gets +X/+0 until end of turn, where X is its power."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +X/+0, gdzie X jest jego siłą."
 
 #: ../../AKH.rst:1234
 msgid ""
@@ -3711,6 +3803,7 @@ msgstr ""
 msgid ""
 "Untap target creature. It gets +2/+2 and gains lifelink until end of turn."
 msgstr ""
+"Odkręć wskazanego stwora. Dostaje on do końca tury +2/+2 oraz więź życia."
 
 #: ../../AKH.rst:1254
 msgid ""
@@ -3723,6 +3816,8 @@ msgstr ""
 msgid ""
 "Target creature you control fights target creature an opponent controls."
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem pod władaniem "
+"przeciwnika."
 
 #: ../../AKH.rst:1258
 msgid ""
@@ -3733,7 +3828,7 @@ msgstr ""
 
 #: ../../AKH.rst:1257
 msgid "Return target spell to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany czar do ręki właściciela."
 
 #: ../../AKH.rst:1264
 msgid ""
@@ -3747,6 +3842,8 @@ msgid ""
 "Choose a card name. Until your next turn, your opponents can't cast spells "
 "with the chosen name."
 msgstr ""
+"Nazwij kartę. Do twojej następnej tury twoi przeciwnicy nie mogą rzucać "
+"czarów o wybranej nazwie."
 
 #: ../../AKH.rst:1268
 msgid ""
@@ -3771,6 +3868,8 @@ msgid ""
 "Each opponent chooses a creature they control. You gain control of those "
 "creatures."
 msgstr ""
+"Każdy przeciwnik wybiera stwora pod swoim władaniem. Zyskaj władanie nad "
+"owymi stworami."
 
 #: ../../AKH.rst:1278
 msgid ""
@@ -3781,7 +3880,7 @@ msgstr ""
 
 #: ../../AKH.rst:1277
 msgid "Cut deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../AKH.rst:1284
 msgid ""
@@ -3792,7 +3891,7 @@ msgstr ""
 
 #: ../../AKH.rst:1283
 msgid "Each opponent loses X life."
-msgstr ""
+msgstr "Każdy przeciwnik traci po X żyć."
 
 #: ../../AKH.rst:1288
 msgid ""
@@ -3803,7 +3902,7 @@ msgstr ""
 
 #: ../../AKH.rst:1287
 msgid "Heaven deals X damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z lataniem po X obrażeń."
 
 #: ../../AKH.rst:1294
 msgid ""
@@ -3814,7 +3913,7 @@ msgstr ""
 
 #: ../../AKH.rst:1293
 msgid "Earth deals X damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania po X obrażeń."
 
 #: ../../AKH.rst:1300
 msgid ""
@@ -3825,13 +3924,15 @@ msgstr ""
 
 #: ../../AKH.rst:1297
 msgid "Black creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów czarnych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../AKH.rst:1299
 msgid ""
 "Whenever you cast a creature spell, each opponent loses 1 life and you gain "
 "1 life."
 msgstr ""
+"Ilekroć rzucisz czar stwora, każdy przeciwnik traci po 1 życiu, a ty zyskaj "
+"1 życie."
 
 #: ../../AKH.rst:1306
 msgid ""
@@ -3845,6 +3946,8 @@ msgid ""
 "|mana_1|, |tap|: Target creature can't attack this turn. Put a brick counter "
 "on Edifice of Authority."
 msgstr ""
+"|mana_1|, |tap|: Wskazany stwór nie może atakować w tej turze. Umieść "
+"znacznik cegły na tym artefakcie."
 
 #: ../../AKH.rst:1305
 msgid ""
@@ -3852,6 +3955,10 @@ msgid ""
 "and its activated abilities can't be activated. Activate this ability only "
 "if there are three or more brick counters on Edifice of Authority."
 msgstr ""
+"|mana_1|, |tap|: Do twojej następnej tury wskazany stwór nie może atakować "
+"ani blokować, a jego aktywowane zdolności nie mogą być użyte. Możesz "
+"aktywować tę zdolność tylko jeśli ten artefakt ma co najmniej trzy znaczniki "
+"cegły."
 
 #: ../../AKH.rst:1312
 msgid ""
@@ -3865,12 +3972,16 @@ msgid ""
 "Activated abilities of creature cards in your graveyard cost |mana_1| less "
 "to activate."
 msgstr ""
+"Aktywowanie zdolności kart stworów w twoim cmentarzu kosztuje o |mana_1| "
+"mniej."
 
 #: ../../AKH.rst:1311
 msgid ""
 "Tap an untapped Zombie you control: Target player puts the top card of their "
 "library into their graveyard."
 msgstr ""
+"Przekręć odkręconego Zombi pod twoim władaniem: Wskazany gracz umieszcza "
+"wierzchnią kartę swojej biblioteki w swoim cmentarzu."
 
 #: ../../AKH.rst:1318
 msgid ""
@@ -3884,6 +3995,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, you gain 1 life. Then you may "
 "draw a card. If you do, discard a card."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, zyskaj 1 życie. "
+"Następnie możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../AKH.rst:1317
 msgid ""
@@ -3892,6 +4005,11 @@ msgid ""
 "battlefield. If you search your library this way, shuffle it. Activate this "
 "ability only if there are six or more creature cards in your graveyard."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twoim cmentarzu, ręce i/"
+"lub bibliotece kartę o nazwie God-Pharaoh's Gift i umieść ją na polu walki. "
+"Jeśli przeszukałeś w ten sposób twoją bibliotekę, przetasuj ją. Możesz "
+"aktywować tę zdolność tylko jeśli w twoim cmentarzu jest co najmniej sześć "
+"kart stworów."
 
 #: ../../AKH.rst:1324
 msgid ""
@@ -3902,13 +4020,15 @@ msgstr ""
 
 #: ../../AKH.rst:1321
 msgid "Red creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów czerwonych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../AKH.rst:1323
 msgid ""
 "Whenever you cast a creature spell, you may discard a card. If you do, draw "
 "a card."
 msgstr ""
+"Ilekroć rzucisz czar stwora, możesz odrzucić kartę. Jeśli tak zrobisz, "
+"dobierz kartę."
 
 #: ../../AKH.rst:1330
 msgid ""
@@ -3938,13 +4058,15 @@ msgstr ""
 
 #: ../../AKH.rst:1333
 msgid "Blue creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów niebieskich stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../AKH.rst:1335
 msgid ""
 "Whenever you cast a creature spell, target creature an opponent controls "
 "doesn't untap during its controller's next untap step."
 msgstr ""
+"Ilekroć rzucisz kartę stwora, wskazany stwór pod władaniem przeciwnika nie "
+"odkręci się w najbliższym kroku odkręcania swojego władcy."
 
 #: ../../AKH.rst:1342
 msgid ""
@@ -3957,12 +4079,15 @@ msgstr ""
 msgid ""
 "|mana_1|, |tap|: You gain 1 life. Put a brick counter on Luxa River Shrine."
 msgstr ""
+"|mana_1|, |tap|: Zyskaj 1 życie. Umieść znacznik cegły na tym artefakcie."
 
 #: ../../AKH.rst:1341
 msgid ""
 "|tap|: You gain 2 life. Activate this ability only if there are three or "
 "more brick counters on Luxa River Shrine."
 msgstr ""
+"|tap|: Zyskaj 2 życia. Możesz aktywować tę zdolność tylko jeśli ten artefakt "
+"ma co najmniej trzy znaczniki cegły."
 
 #: ../../AKH.rst:1348
 msgid ""
@@ -3973,13 +4098,15 @@ msgstr ""
 
 #: ../../AKH.rst:1345
 msgid "White creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów białych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../AKH.rst:1347
 msgid ""
 "Whenever you cast a creature spell, create a 1/1 white Warrior creature "
 "token with vigilance."
 msgstr ""
+"Ilekroć rzucisz czar stwora, stwórz żeton białego stwora Wojownik 1/1 z "
+"czujnością."
 
 #: ../../AKH.rst:1354
 msgid ""
@@ -3993,6 +4120,8 @@ msgid ""
 "|mana_2|, |tap|: Exile the top card of your library. Until end of turn, you "
 "may play that card. Put a brick counter on Oracle's Vault."
 msgstr ""
+"|mana_2|, |tap|: Wygnaj wierzchnią kartę twojej biblioteki. Do końca tury "
+"możesz zagrać ową kartę. Umieść znacznik cegły na tym artefakcie."
 
 #: ../../AKH.rst:1353
 msgid ""
@@ -4000,6 +4129,9 @@ msgid ""
 "that card without paying its mana cost. Activate this ability only if there "
 "are three or more brick counters on Oracle's Vault."
 msgstr ""
+"|tap|: Wygnaj wierzchnią kartę twojej biblioteki. Do końca tury możesz "
+"zagrać ową kartę bez płacenia jej kosztu many. Możesz aktywować tę zdolność "
+"tylko jeśli ten artefakt ma co najmniej trzy znaczniki cegły."
 
 #: ../../AKH.rst:1360
 msgid ""
@@ -4013,12 +4145,16 @@ msgid ""
 "|mana_2|, |tap|: Add one mana of any color. Put a brick counter on Pyramid "
 "of the Pantheon."
 msgstr ""
+"|mana_2|, |tap|: Weź jedną manę dowolnego koloru. Umieść znacznik cegły na "
+"tym artefakcie."
 
 #: ../../AKH.rst:1359
 msgid ""
 "|tap|: Add three mana of any one color. Activate this ability only if there "
 "are three or more brick counters on Pyramid of the Pantheon."
 msgstr ""
+"|tap|: Weź trzy many w dowolnym jednym kolorze. Możesz aktywować tę zdolność "
+"tylko jeśli ten artefakt ma co najmniej trzy znaczniki cegły."
 
 #: ../../AKH.rst:1366
 msgid ""
@@ -4051,6 +4187,8 @@ msgid ""
 "At the beginning of your end step, each opponent loses life equal to the "
 "number of tapped creatures you control."
 msgstr ""
+"Na początku twojego kroku końcowego, każdy przeciwnik traci po tyle żyć, ile "
+"jest przekręconych stworów pod twoim władaniem."
 
 #: ../../AKH.rst:1374
 msgid ""
@@ -4064,6 +4202,8 @@ msgid ""
 "Exile Watchers of the Dead: Each opponent chooses two cards in their "
 "graveyard and exiles the rest."
 msgstr ""
+"Wygnaj tego stwora: Każdy przeciwnik wybiera dwie karty w swoim cmentarzu i "
+"wygania pozostałe."
 
 #: ../../AKH.rst:1382
 msgid ""
@@ -4078,7 +4218,7 @@ msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../AKH.rst:1379
 msgid "Canyon Slough enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1390
 msgid ""
@@ -4098,7 +4238,7 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../AKH.rst:1389
 msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
-msgstr ""
+msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
 
 #: ../../AKH.rst:1396
 msgid ""
@@ -4112,6 +4252,8 @@ msgid ""
 "|mana_3|, |tap|, Sacrifice Cradle of the Accursed: Create a 2/2 black Zombie "
 "creature token. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten ląd: Stwórz żeton czarnego stwora Zombi 2/2. "
+"Używaj jako obrzęd."
 
 #: ../../AKH.rst:1400
 msgid ""
@@ -4141,7 +4283,7 @@ msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../AKH.rst:1405
 msgid "Fetid Pools enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1414
 msgid ""
@@ -4155,6 +4297,8 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice Grasping Dunes: Put a -1/-1 counter on target "
 "creature. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten ląd: Umieść znacznik -1/-1 na wskazanym "
+"stworze. Używaj jako obrzęd."
 
 #: ../../AKH.rst:1422
 msgid ""
@@ -4169,7 +4313,7 @@ msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../AKH.rst:1419
 msgid "Irrigated Farmland enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1428
 msgid ""
@@ -4195,7 +4339,7 @@ msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../AKH.rst:1433
 msgid "Scattered Groves enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1444
 msgid ""
@@ -4210,7 +4354,7 @@ msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../AKH.rst:1441
 msgid "Sheltered Thicket enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../AKH.rst:1450
 msgid ""
@@ -4224,6 +4368,8 @@ msgid ""
 "When Sunscorched Desert enters the battlefield, it deals 1 damage to target "
 "player or planeswalker."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, zadaje on wskazanemu graczowi lub "
+"wędrowcowi 1 obrażenie."
 
 #: ../../AKH.rst:1454
 msgid ""
@@ -4292,6 +4438,8 @@ msgid ""
 "+2: Untap all creatures you control. Those creatures get +1/+1 until end of "
 "turn."
 msgstr ""
+"+2: Odkręć wszystkie stwory pod twoim władaniem. Dostają one +1/+1 do końca "
+"tury."
 
 #: ../../AKH.rst:1475
 msgid ""
@@ -4299,12 +4447,17 @@ msgid ""
 "creature with indestructible that's still a planeswalker. Prevent all damage "
 "that would be dealt to him this turn."
 msgstr ""
+"0: Do końca tury ten wędrowiec staje się stworem Człowiek Piechur 5/5 z "
+"niezniszczalnością i nadal jest wędrowcem. Zażegnaj wszystkie obrażenia, "
+"jakie mogłyby mu zostać zadane w tej turze."
 
 #: ../../AKH.rst:1477
 msgid ""
 "−10: Creatures you control get +2/+2 until end of turn. Tap all creatures "
 "your opponents control."
 msgstr ""
+"–10: Stwory pod twoim władaniem dostają do końca tury +2/+2. Przekręć "
+"wszystkie stwory pod władaniem przeciwników."
 
 #: ../../AKH.rst:1484
 msgid ""
@@ -4318,6 +4471,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: Untap target creature. Activate this ability only if "
 "you control a Gideon planeswalker."
 msgstr ""
+"|mana_1|\\ |mana_w|: Odkręć wskazanego stwora. Możesz aktywować tę zdolność "
+"tylko jeśli władasz wędrowcem typu Gideon."
 
 #: ../../AKH.rst:1490
 msgid ""

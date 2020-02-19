@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 21:02+0000\n"
+"PO-Revision-Date: 2020-02-19 22:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c17/"
 "pl/>\n"
@@ -1389,16 +1389,12 @@ msgid "Target player sacrifices an attacking creature."
 msgstr "Wskazany gracz poświęca atakującego stwora."
 
 #: ../../C17.rst:477
-#, fuzzy
-#| msgid ""
-#| "Storm (When you cast this spell, copy it for each spell cast before it "
-#| "this turn.)"
 msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn. You may choose new targets for the copies.)"
 msgstr ""
-"Sztorm (Rzucając ten czar skopiuj go za każdy czar rzucony przed nim w tej "
-"turze.)"
+"Sztorm (Kiedy rzucisz ten czar, skopiuj go tylekroć, ile czarów rzucono "
+"przed nim w tej turze. Możesz wskazać nowe cele dla kopii)"
 
 #: ../../C17.rst:484
 msgid ""

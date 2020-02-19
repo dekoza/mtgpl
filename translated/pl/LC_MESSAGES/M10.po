@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2020-02-13 08:46+0000\n"
+"PO-Revision-Date: 2020-02-19 22:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m10/"
 "pl/>\n"
@@ -201,6 +201,8 @@ msgid ""
 "If a source an opponent controls would deal damage to you, prevent 1 of "
 "that damage."
 msgstr ""
+"Jeśli jakieś źródło pod władaniem przeciwnika miałoby zadać ci obrażenia, "
+"zażegnaj 1 z owych obrażeń."
 
 #: ../../M10.rst:76
 msgid ""
@@ -2365,11 +2367,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:897 ../../M10.rst:919
-#, fuzzy
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr ""
-"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
-"władanie.)"
+msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../M10.rst:902
 msgid ""

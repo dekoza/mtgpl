@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 19:48+0000\n"
+"PO-Revision-Date: 2020-02-19 22:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/shm/"
 "pl/>\n"
@@ -3676,7 +3676,7 @@ msgstr ""
 
 #: ../../SHM.rst:1389
 msgid "|mana_2|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_2|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../SHM.rst:1396
 msgid ""
@@ -3886,6 +3886,8 @@ msgstr ""
 #: ../../SHM.rst:1465
 msgid "|tap|: Add one mana of any type that a land you control could produce."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego typu, jaki mogłyby dać lądy pod twoim "
+"władaniem."
 
 #: ../../SHM.rst:1474
 msgid ""

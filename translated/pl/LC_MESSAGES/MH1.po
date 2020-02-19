@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-14 23:16+0000\n"
+"PO-Revision-Date: 2020-02-19 22:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mh1/"
 "pl/>\n"
@@ -520,24 +520,16 @@ msgid "+2: Creatures you control with flying get +1/+1 until end of turn."
 msgstr "+2: Stwory z lataniem pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../MH1.rst:153
-#, fuzzy
-#| msgid ""
-#| "-3: Create a 4/4 white Angel creature token with flying and vigilance."
 msgid "−3: Create a 4/4 white Angel creature token with flying and vigilance."
-msgstr "-3: Stwórz żeton białego stwora Anioł 4/4 z lataniem i czujnością."
+msgstr "–3: Stwórz żeton białego stwora Anioł 4/4 z lataniem i czujnością."
 
 #: ../../MH1.rst:155
-#, fuzzy
-#| msgid ""
-#| "-6: You get an emblem with \"If you control a creature, damage that would "
-#| "reduce your life total to less than 1 reduces it to 1 instead.\""
 msgid ""
 "−6: You get an emblem with \"If you control a creature, damage that would "
 "reduce your life total to less than 1 reduces it to 1 instead.\""
 msgstr ""
-"-6: Dostajesz emblemat o treści \"Jeśli władasz stworem, obrażenia mogące "
-"obniżyć liczbę twoich punktów życia poniżej 1 zamiast tego obniżają ją do 1."
-"\""
+"–6: Dostajesz emblemat o treści \"Jeśli władasz stworem, obrażenia mogące "
+"obniżyć liczbę twoich żyć poniżej 1 zamiast tego obniżają ją do 1.\""
 
 #: ../../MH1.rst:164
 msgid ""
@@ -612,18 +604,13 @@ msgid "Enchanted creature gets +1/+1 and has vigilance."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma czujność."
 
 #: ../../MH1.rst:183
-#, fuzzy
-#| msgid ""
-#| "When enchanted creature dies, manifest the top card of your library. (Put "
-#| "it onto the battlefield face down as a 2/2 creature. Turn it face up at "
-#| "any time for its mana cost if it's a creature card.)"
 msgid ""
 "When enchanted creature dies, manifest the top card of your library. (Put it "
 "onto the battlefield face down as a 2/2 creature. Turn it face up any time "
 "for its mana cost if it's a creature card.)"
 msgstr ""
-"Kiedy zauroczony stwór umrze, objaw wierzchnią kartę twojej biblioteki. "
-"(Umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w dowolnym "
+"Kiedy zauroczony stwór umrze, objaw wierzchnią kartę twojej biblioteki. ("
+"Umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w dowolnym "
 "momencie za jej koszt many jeśli jest kartą stwora.)"
 
 #: ../../MH1.rst:190
@@ -798,8 +785,8 @@ msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn. You may choose new targets for the copies.)"
 msgstr ""
-"Sztorm (Rzucając ten czar, skopiuj go za każdy czar rzucony przed nim w tej "
-"turze. Dla każdej kopii możesz wybrać nowy cel.)"
+"Sztorm (Kiedy rzucisz ten czar, skopiuj go tylekroć, ile czarów rzucono "
+"przed nim w tej turze. Możesz wskazać nowe cele dla kopii)"
 
 #: ../../MH1.rst:238
 msgid ""
@@ -1372,18 +1359,13 @@ msgstr ""
 "biblioteki.."
 
 #: ../../MH1.rst:425
-#, fuzzy
-#| msgid ""
-#| "Replicate |mana_2|\\ |mana_u|\\ |mana_u| (When you cast this spell, copy "
-#| "it for each time you paid the replicate cost. You may choose new targets "
-#| "for the copies.)"
 msgid ""
 "Replicate |mana_2|\\ |mana_u|\\ |mana_u| (When you cast this spell, copy it "
 "for each time you paid its replicate cost. You may choose new targets for "
 "the copies.)"
 msgstr ""
 "Replikacja |mana_2|\\ |mana_u|\\ |mana_u| (Kiedy rzucisz ten czar, skopiuj "
-"go tyle razy, ile razy opłaciłeś jego koszt replikacji. Możesz wskazać nowe "
+"go tylekroć, ilekroć opłaciłeś jego koszt replikacji. Możesz wskazać nowe "
 "cele dla kopii.)"
 
 #: ../../MH1.rst:430
@@ -1538,17 +1520,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:477
-#, fuzzy
-#| msgid ""
-#| "Ninjutsu |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|, Return an unblocked "
-#| "attacker you control to hand: Put this card onto the battlefield from "
-#| "your hand tapped and attacking.)"
 msgid ""
 "Ninjutsu |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Return an unblocked "
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
-"Ninjutsu |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|, przywróć niezablokowanego "
+"Ninjutsu |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, przywróć niezablokowanego "
 "atakującego pod twoim władaniem do ręki: Umieść tę kartę na polu walki z "
 "twojej ręki przekręconą i atakującą.)"
 
@@ -1615,10 +1592,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:501
-#, fuzzy
-#| msgid ""
-#| "Whenever Cordial Vampire or another creature dies, put a +1/+1 counter on "
-#| "each vampire creature you control."
 msgid ""
 "Whenever Cordial Vampire or another creature dies, put a +1/+1 counter on "
 "each Vampire you control."
@@ -1744,8 +1717,8 @@ msgid ""
 "creatures. This creature enters the battlefield with twice that many +1/+1 "
 "counters on it.)"
 msgstr ""
-"Pożarcie 2 (Umieszczając tego stwora na polu walki, możesz poświęcić dowolną "
-"liczbę stworów. Ten stwór wchodzi na pole walki z dwukrotnie większą liczbą "
+"Pożarcie 2 (Umieszczając tego stwora na polu walki możesz poświęcić dowolną "
+"liczbę stworów. Ten stwór wchodzi na pole walki mając dwukrotnie tyle "
 "znaczników +1/+1.)"
 
 #: ../../MH1.rst:548
@@ -1763,12 +1736,6 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, dobierasz kartę i tracisz 1 życie."
 
 #: ../../MH1.rst:547
-#, fuzzy
-#| msgid ""
-#| "Unearth |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Return this card from "
-#| "your graveyard to the battlefield. It gains haste. Exile it at the "
-#| "beginning of the next end step or if it would leave the battlefield. "
-#| "Unearth only as a sorcery)"
 msgid ""
 "Unearth |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Return this card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
@@ -1776,9 +1743,9 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Odkopanie |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Przywróć tę kartę z "
-"twojego cmentarza na pole walki. Zyskuje pośpiech. Wygnaj ją na początku "
+"twojego cmentarza na pole walki. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole walki. Używaj jako "
-"obrzędu.)"
+"obrzęd.)"
 
 #: ../../MH1.rst:554
 msgid ""
@@ -1858,18 +1825,13 @@ msgid "Target player discards two cards."
 msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../MH1.rst:577
-#, fuzzy
-#| msgid ""
-#| "Overload |mana_1|\\ |mana_b| (You may cast this spell for its overload "
-#| "cost. If you do, change its text by replacing all instances of \"target\" "
-#| "with \"each\".)"
 msgid ""
 "Overload |mana_1|\\ |mana_b| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
 "Przeciążenie |mana_1|\\ |mana_b| (Możesz rzucić ten czar za jego koszt "
-"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
 "wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH1.rst:584
@@ -2306,7 +2268,7 @@ msgstr ""
 
 #: ../../MH1.rst:727
 msgid "Firebolt deals 2 damage to any target."
-msgstr "Ten czar zadaje 2 obrażenia dowolnie wskazanemu celowi."
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../MH1.rst:729
 msgid ""
@@ -2439,18 +2401,13 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:765
-#, fuzzy
-#| msgid ""
-#| "When Goblin Matron enters the battlefield, you may search your library "
-#| "for a Goblin card, reveal that card, and put it into your hand. If you "
-#| "do, shuffle your library."
 msgid ""
 "When Goblin Matron enters the battlefield, you may search your library for a "
 "Goblin card, reveal that card, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę Goblina, ujawnić ją, dołożyć do twojej ręki, a następnie przetasować "
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę Goblina, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../MH1.rst:770
@@ -2530,7 +2487,7 @@ msgstr ""
 
 #: ../../MH1.rst:793
 msgid "Lava Dart deals 1 damage to any target."
-msgstr "Ten czar zadaje 1 obrażenie dowolnie wskazanemu celowi."
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../MH1.rst:795
 msgid ""
@@ -3744,11 +3701,6 @@ msgstr ""
 "kartę na polu walki z twojej ręki przekręconą i atakującą.)"
 
 #: ../../MH1.rst:1159
-#, fuzzy
-#| msgid ""
-#| "Whenever Fallen Shinobi deals combat damage to a player, that player "
-#| "exiles the top two cards of their library. Until end of turn, you may "
-#| "play those cards without paying their mana cost."
 msgid ""
 "Whenever Fallen Shinobi deals combat damage to a player, that player exiles "
 "the top two cards of their library. Until end of turn, you may play those "
@@ -4079,23 +4031,19 @@ msgstr ""
 "twojej ręki."
 
 #: ../../MH1.rst:1275
-#, fuzzy
-#| msgid "-1: Wrenn and Six deals 1 damage to any target."
 msgid "−1: Wrenn and Six deals 1 damage to any target."
-msgstr "–1: Ten wędrowiec zadaje 1 obrażenie w dowolnie wskazany cel."
+msgstr "–1: Ten wędrowiec zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../MH1.rst:1277
-#, fuzzy
-#| msgid ""
-#| "Retrace (You may cast this card from your graveyard by discarding a land "
-#| "card in addition to paying its other costs.)"
 msgid ""
 "−7: You get an emblem with \"Instant and sorcery cards in your graveyard "
 "have retrace.\" (You may cast instant and sorcery cards from your graveyard "
 "by discarding a land card in addition to paying their other costs.)"
 msgstr ""
-"Odtworzenie (Możesz rzucić tę kartę z twojego cmentarza odrzucając kartę "
-"lądu oprócz opłacenia innych jej kosztów.)"
+"–7: Dostajesz emblemat o treści \"Karty sztuczek i obrzędów w twoim "
+"cmentarzu mają odtworzenie.\" (Możesz rzucać karty sztuczek i obrzędów z "
+"twojego cmentarza odrzucając dodatkowo kartę lądu oprócz opłacenia innych "
+"ich kosztów.)"
 
 #: ../../MH1.rst:1282
 msgid ""
@@ -4254,7 +4202,7 @@ msgid ""
 "it. When it dies, you may put its +1/+1 counters on target artifact "
 "creature.)"
 msgstr ""
-"Modułowy 2 (Ten stwór wchodzi na pole walki z dwoma znacznikami +1/+1. Kiedy "
+"Modułowy 2 (Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1. Kiedy "
 "umrze, możesz umieścić jego znaczniki +1/+1 na wskazanym artefaktycznym "
 "stworze.)"
 
@@ -4693,8 +4641,8 @@ msgstr ""
 msgid ""
 "Counter target instant or sorcery spell unless its controller pays |mana_1|."
 msgstr ""
-"Skontruj wskazany czar sztuczki  lub obrzędu, chyba że jego władca zapłaci |"
-"mana_1|."
+"Skontruj wskazany czar sztuczki lub obrzędu, chyba że jego władca zapłaci "
+"|mana_1|."
 
 #~ msgid ""
 #~ "Rebound (If you cast this spell from your hand, exile it as it resolves. "

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-18 21:45+0000\n"
+"PO-Revision-Date: 2020-02-19 22:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -868,8 +868,8 @@ msgstr ""
 #: ../../C19.rst:1175
 msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
-"Pokłosie (Możesz rzucić ten czar tylko z twojego cmentarza. Następnie go "
-"wygnaj.)"
+"Pokłosie (Możesz rzucić ten czar tylko z twojego cmentarza. Następnie wygnaj "
+"go.)"
 
 #: ../../C19.rst:403
 msgid "Return all creature cards with power 2 or less from your graveyard to your hand."
@@ -1884,7 +1884,7 @@ msgstr ""
 msgid "When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature's power to any target."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz poświęcić innego stwora. Kiedy "
-"tak zrobisz, ten stwór zadaje wskazanemu celowi obrażenia równe sile "
+"tak zrobisz, niniejszy stwór zadaje wskazanemu celowi obrażenia równe sile "
 "poświęconego stwora."
 
 #: ../../C19.rst:869
@@ -2378,6 +2378,10 @@ msgstr ""
 #: ../../C19.rst:1105
 msgid "At the beginning of your precombat main phase, remove all flood counters from Bounty of the Luxa. If no counters were removed this way, put a flood counter on Bounty of the Luxa and draw a card. Otherwise, add |colorless|\\ |mana_g|\\ |mana_u|."
 msgstr ""
+"Na początku twojej fazy głównej poprzedzającej walkę, usuń wszystkie "
+"znaczniki powodzi z tego uroku. Jeśli nie usunięto znacznika w ten sposób, "
+"umieść znacznik powodzi na tym uroku i dobierz kartę. W przeciwnym razie weź "
+"|colorless|\\ |mana_g|\\ |mana_u|."
 
 #: ../../C19.rst:1114
 msgid ":mtgtip:`Crackling Drake<https://img.scryfall.com/cards/border_crop/front/c/8/c8b9fe6c-4efb-4840-9d1a-40203c96efa2.jpg?1568004739|https://scryfall.com/card/c19/190/crackling-drake?utm_source=api>`"
