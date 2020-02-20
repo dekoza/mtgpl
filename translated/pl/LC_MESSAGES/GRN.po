@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-29 21:34+0000\n"
+"PO-Revision-Date: 2020-02-20 13:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/grn/"
 "pl/>\n"
@@ -157,7 +157,7 @@ msgstr ""
 #: ../../GRN.rst:47
 msgid "Whenever you gain life, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
-"Ilekroć zyskujesz życie, możesz zapłacić |mana_2|. Jeśli to zrobisz, dobierz "
+"Ilekroć zyskasz życia, możesz zapłacić |mana_2|. Jeśli to zrobisz, dobierz "
 "kartę."
 
 #: ../../GRN.rst:49
@@ -336,7 +336,7 @@ msgstr ""
 
 #: ../../GRN.rst:109
 msgid "When Loxodon Restorer enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wchodzi na pole walki, ty zyskujesz 4 życia."
+msgstr "Kiedy ten stwór wchodzi na pole walki, ty zyskaj 4 życia."
 
 #: ../../GRN.rst:116
 msgid ""
@@ -625,7 +625,7 @@ msgid ""
 "Whenever you cast a blue spell, target player puts the top two cards of "
 "their library into their graveyard."
 msgstr ""
-"Ilekroć rzucasz niebieski czar, wskazany gracz wkłada dwie wierzchnie karty "
+"Ilekroć rzucisz niebieski czar, wskazany gracz wkłada dwie wierzchnie karty "
 "swojej biblioteki do swojego cmentarza."
 
 #: ../../GRN.rst:218
@@ -722,7 +722,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird "
 "Illusion creature token with flying."
 msgstr ""
-"Ilekroć rzucasz obrzęd, stwórz żeton niebieskiego stwora Ptak 1/1 z lataniem."
+"Ilekroć rzucisz obrzęd, stwórz żeton niebieskiego stwora Ptak 1/1 z lataniem."
 
 #: ../../GRN.rst:248
 msgid ""
@@ -1013,8 +1013,7 @@ msgstr ""
 
 #: ../../GRN.rst:351
 msgid "Creeping Chill deals 3 damage to each opponent and you gain 3 life."
-msgstr ""
-"Ten czar zadaje 3 obrażenia każdemu przeciwnikowi, a ty zyskujesz 3 życia."
+msgstr "Ten czar zadaje 3 obrażenia każdemu przeciwnikowi, a ty zyskaj 3 życia."
 
 #: ../../GRN.rst:353
 msgid ""
@@ -1024,7 +1023,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta jest wkładana do twojego cmentarza z twojej biblioteki, "
 "możesz ją wypędzić. Jeśli to zrobisz, ta karta zadaje 3 obrażenia każdemu "
-"przeciwnikowi, a ty zyskujesz 3 życia."
+"przeciwnikowi, a ty zyskaj 3 życia."
 
 #: ../../GRN.rst:360
 msgid ""
@@ -1388,7 +1387,7 @@ msgid ""
 "damage to each opponent and you gain 1 life."
 msgstr ""
 "Ilekroć szpiegujesz po raz pierwszy w danej turze, ten stwór zadaje 1 "
-"obrażenie każdemu przeciwnikowi, a ty zyskujesz 1 życie."
+"obrażenie każdemu przeciwnikowi, a ty zyskaj 1 życie."
 
 #: ../../GRN.rst:474
 msgid ""
@@ -1491,7 +1490,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 "
 "damage to each opponent."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub obrzęd, ten stwór zadaje 1 obrażenie każdemu "
+"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór zadaje 1 obrażenie każdemu "
 "przeciwnikowi."
 
 #: ../../GRN.rst:512
@@ -1506,7 +1505,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
 "until end of turn, where X is that spell's converted mana cost."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub obrzęd, ten stwór dostaje +X/+0 do końca tury, "
+"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór dostaje +X/+0 do końca tury, "
 "gdzie X jest skróconym kosztem many owego czaru."
 
 #: ../../GRN.rst:522
@@ -1552,7 +1551,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub obrzęd, ten stwór dostaje +1/+0 do końca tury."
+"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../GRN.rst:538
 msgid ""
@@ -1752,8 +1751,8 @@ msgid ""
 "Whenever you cast a red spell, if Runaway Steam-Kin has fewer than three +1/"
 "+1 counters on it, put a +1/+1 counter on Runaway Steam-Kin."
 msgstr ""
-"Ilekroć rzucasz czerwony czar, jeśli ten stwór ma mniej niż trzy znaczniki "
-"+1/+1, umieść na tym stworze znacznik +1/+1."
+"Ilekroć rzucisz czerwony czar, jeśli ten stwór ma mniej niż trzy znaczniki +"
+"1/+1, umieść na tym stworze znacznik +1/+1."
 
 #: ../../GRN.rst:609
 msgid ""
@@ -1774,7 +1773,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, target creature an opponent "
 "controls can't block this turn."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub obrzęd, wskazany stwór pod władaniem "
+"Ilekroć rzucisz sztuczkę lub obrzęd, wskazany stwór pod władaniem "
 "przeciwnika nie może blokować w tej turze."
 
 #: ../../GRN.rst:618
@@ -1868,7 +1867,7 @@ msgstr ""
 
 #: ../../GRN.rst:647
 msgid "Whenever you cast a creature spell, draw a card."
-msgstr "Ilekroć rzucasz czar stwora, dobierz kartę."
+msgstr "Ilekroć rzucisz czar stwora, dobierz kartę."
 
 #: ../../GRN.rst:656
 msgid ""
@@ -2051,7 +2050,7 @@ msgid ""
 "Undergrowth — When Kraul Foragers enters the battlefield, you gain 1 life "
 "for each creature card in your graveyard."
 msgstr ""
-"Ściółka — Kiedy ta karta wejdzie na pole walki, zyskujesz 1 życie za każdą "
+"Ściółka — Kiedy ta karta wejdzie na pole walki, zyskaj 1 życie za każdą "
 "kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:716
@@ -2366,7 +2365,7 @@ msgid ""
 "choose one of those creatures. Copy that spell. The copy targets the chosen "
 "creature."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu wskazujący wyłącznie w tego "
+"Ilekroć rzucisz czar sztuczki lub obrzędu wskazujący wyłącznie w tego "
 "stwora, jeśli władasz przynajmniej jednym innym stworem mogącym być celem "
 "owego czaru, wybierz jednego z owych stworów. Skopiuj ów czar. Kopia "
 "wskazuje w wybranego stwora."
@@ -2638,7 +2637,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, put a charge counter on "
 "Firemind's Research."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, umieść znacznik ładunku na tej "
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik ładunku na tej "
 "karcie."
 
 #: ../../GRN.rst:921
@@ -3082,7 +3081,7 @@ msgid ""
 "−8: You get an emblem with \"Whenever you cast an instant or sorcery spell, "
 "this emblem deals 4 damage to any target and you draw two cards.\""
 msgstr ""
-"-8: Dostajesz emblemat o treści \"Ilekroć rzucasz czar sztuczki lub obrzędu, "
+"-8: Dostajesz emblemat o treści \"Ilekroć rzucisz czar sztuczki lub obrzędu, "
 "ten emblemat zadaje 4 obrażenia w dowolnie wskazany cel, a ty dobierasz dwie "
 "karty.\""
 
@@ -3272,7 +3271,7 @@ msgid ""
 "instant and sorcery spell you've cast before it this turn. You may choose "
 "new targets for the copies."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub obrzęd, skopiuj ów czar tyle razy, ile "
+"Ilekroć rzucisz sztuczkę lub obrzęd, skopiuj ów czar tyle razy, ile "
 "wcześniej rzuciłeś sztuczek lub obrzędów w tej turze. Możesz wskazać nowe "
 "cele dla owych kopii."
 
@@ -3389,7 +3388,7 @@ msgid ""
 "+2: You may sacrifice another permanent. If you do, you gain 1 life and draw "
 "a card."
 msgstr ""
-"+2: Możesz poświęcić inny permanent. Jeśli tak zrobisz, zyskujesz 1 życie i "
+"+2: Możesz poświęcić inny permanent. Jeśli tak zrobisz, zyskaj 1 życie i "
 "dobierasz kartę."
 
 #: ../../GRN.rst:1157
@@ -3426,7 +3425,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub obrzęd, ten stwór dostaje +2/+0 do końca tury."
+"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór dostaje +2/+0 do końca tury."
 
 #: ../../GRN.rst:1172
 msgid ""
@@ -3683,7 +3682,7 @@ msgstr ""
 
 #: ../../GRN.rst:1251
 msgid "Intervention deals 3 damage to any target and you gain 3 life."
-msgstr "Ta karta zadaje 3 obrażenia w dowolny cel, a ty zyskujesz 3 życia."
+msgstr "Ta karta zadaje 3 obrażenia w dowolny cel, a ty zyskaj 3 życia."
 
 #: ../../GRN.rst:1256
 msgid ""
@@ -3946,7 +3945,7 @@ msgid ""
 "Whenever you cast a multicolored spell, put a +1/+1 counter on Rampaging "
 "Monument."
 msgstr ""
-"Ilekroć rzucasz wielokolorowy czar, umieść znacznik +1/+1 na tym stworze."
+"Ilekroć rzucisz wielokolorowy czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../GRN.rst:1340
 msgid ""
@@ -4362,8 +4361,8 @@ msgid ""
 "When Attendant of Vraska dies, if you control a Vraska planeswalker, you "
 "gain life equal to Attendant of Vraska's power."
 msgstr ""
-"Kiedy ten stwór umrze, jeśli władasz wędrowcem o typie Vraska, zyskujesz "
-"życie równe sile tego stwora."
+"Kiedy ten stwór umrze, jeśli władasz wędrowcem o typie Vraska, zyskaj życie "
+"równe sile tego stwora."
 
 #: ../../GRN.rst:1486
 msgid ""

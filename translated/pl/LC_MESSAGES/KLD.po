@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-14 23:16+0000\n"
+"PO-Revision-Date: 2020-02-20 13:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/kld/"
 "pl/>\n"
@@ -881,6 +881,8 @@ msgid ""
 "Copy target instant or sorcery spell. You may choose new targets for the "
 "copy."
 msgstr ""
+"Skopiuj wskazany czar sztuczki lub obrzędu. Możesz wskazać nowe cele dla "
+"kopii."
 
 #: ../../KLD.rst:294
 msgid ""
@@ -2024,7 +2026,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_r|: Target artifact creature gets +1/+0 until end of turn."
 msgstr ""
-"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
 "do końca tury.)"
 
 #: ../../KLD.rst:669
@@ -3451,7 +3453,7 @@ msgstr ""
 
 #: ../../KLD.rst:1139
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 2 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia."
 
 #: ../../KLD.rst:1141
 msgid "When Filigree Familiar dies, draw a card."

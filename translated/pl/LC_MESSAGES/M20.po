@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 10:51+0000\n"
+"PO-Revision-Date: 2020-02-20 13:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m20/"
 "pl/>\n"
@@ -59,8 +59,8 @@ msgid ""
 "with \"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.\""
 msgstr ""
 "–2: Stwórz żeton białego stwora Kot Piechur 2/2 o nazwie Ajani's Pridemate "
-"ze zdolnością \"Ilekroć zyskujesz życie, umieść znacznik +1/+1 na tym "
-"stworze.\""
+"ze zdolnością \"Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
+"\""
 
 #: ../../M20.rst:17
 msgid ""
@@ -865,7 +865,7 @@ msgid ""
 "Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on "
 "Brineborn Cutthroat."
 msgstr ""
-"Ilekroć rzucasz czar w turze przeciwnika, umieść znacznik +1/+1 na tym "
+"Ilekroć rzucisz czar w turze przeciwnika, umieść znacznik +1/+1 na tym "
 "stworze."
 
 #: ../../M20.rst:290
@@ -1478,7 +1478,7 @@ msgstr ""
 
 #: ../../M20.rst:499
 msgid "Whenever you gain life, put a +1/+1 counter on Bloodthirsty Aerialist."
-msgstr "Ilekroć zyskujesz życie, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../M20.rst:506
 msgid ""
@@ -1565,8 +1565,7 @@ msgstr "Dobierz kartę i strać 1 życie."
 #: ../../M20.rst:529
 msgid "Dread Presence deals 2 damage to any target and you gain 2 life."
 msgstr ""
-"Ten stwór zadaje dowolnie wskazanemu celowi 2 obrażenia a ty zyskujesz 2 "
-"życia."
+"Ten stwór zadaje dowolnie wskazanemu celowi 2 obrażenia a ty zyskaj 2 życia."
 
 #: ../../M20.rst:534
 msgid ""
@@ -3676,7 +3675,7 @@ msgstr ""
 
 #: ../../M20.rst:1205
 msgid "Whenever you discard a card, exile that card from your graveyard."
-msgstr "Ilekroć odrzucasz kartę, wygnaj ją z twojego cmentarza."
+msgstr "Ilekroć odrzucisz kartę, wygnaj ją z twojego cmentarza."
 
 #: ../../M20.rst:1207
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
@@ -4489,7 +4488,7 @@ msgstr ""
 
 #: ../../M20.rst:1511
 msgid "Whenever you gain life, put a +1/+1 counter on Twinblade Paladin."
-msgstr "Ilekroć zyskujesz życie, umieść znacznik na tym stworze."
+msgstr "Ilekroć zyskasz życia, umieść znacznik na tym stworze."
 
 #: ../../M20.rst:1513
 msgid ""
@@ -5177,8 +5176,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje +2/+2 do końca tury. Aktywuj tę "
-"zdolność co najwyżej raz na turę."
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tę zdolność tylko raz na turę."
 
 #: ../../M20.rst:1788
 msgid ""

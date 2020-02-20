@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 19:48+0000\n"
+"PO-Revision-Date: 2020-02-20 13:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/xln/"
 "pl/>\n"
@@ -60,7 +60,7 @@ msgstr ""
 
 #: ../../XLN.rst:17
 msgid "Whenever a creature dies, you gain 1 life."
-msgstr "Ilekroć jakiś stwór umiera, zyskujesz 1 życie."
+msgstr "Ilekroć jakiś stwór umiera, zyskaj 1 życie."
 
 #: ../../XLN.rst:22
 msgid ""
@@ -275,7 +275,7 @@ msgstr ""
 
 #: ../../XLN.rst:89
 msgid "When Inspiring Cleric enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 4 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 4 życia."
 
 #: ../../XLN.rst:96
 msgid ""
@@ -445,7 +445,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../XLN.rst:145
 msgid "When Pious Interdiction enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 2 życia."
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 2 życia."
 
 #: ../../XLN.rst:147
 msgid "Enchanted creature can't attack or block."
@@ -464,7 +464,7 @@ msgid ""
 "hand. If you do, you gain 2 life."
 msgstr ""
 "Na początku twojego kroku utrzymania możesz ujawnić kartę Dinozaura z twojej "
-"ręki. Jeśli to zrobisz, zyskujesz 2 życia."
+"ręki. Jeśli to zrobisz, zyskaj 2 życia."
 
 #: ../../XLN.rst:153
 msgid ""
@@ -794,7 +794,7 @@ msgid ""
 "with hexproof. (A creature with hexproof can't be the target of spells or "
 "abilities your opponents control.)"
 msgstr ""
-"Ilekroć rzucasz czar Wodnika, stwórz żeton niebieskiego stwora Wodnik 1/1 z "
+"Ilekroć rzucisz czar Wodnika, stwórz żeton niebieskiego stwora Wodnik 1/1 z "
 "antyklątwą. (Stwór z antyklątwą nie może być celem czarów lub zdolności pod "
 "władaniem twoich przeciwników.)"
 
@@ -1503,7 +1503,7 @@ msgid ""
 "life and you gain 4 life."
 msgstr ""
 "|mana_7|\\ |mana_b|, |tap|, poświęć tego stwora: Wskazany przeciwnik traci 4 "
-"życia, a ty zyskujesz 4 życia."
+"życia, a ty zyskaj 4 życia."
 
 #: ../../XLN.rst:480
 msgid ""
@@ -1990,7 +1990,7 @@ msgid ""
 "gain 1 life."
 msgstr ""
 "Ilekroć atakuje Wampir pod twoim władaniem, każdy przeciwnik traci 1 życie, "
-"a ty zyskujesz 1 życie."
+"a ty zyskaj 1 życie."
 
 #: ../../XLN.rst:620
 msgid ""
@@ -2425,7 +2425,7 @@ msgstr "|tap|: Ta karta zadaje 1 obrażenie każdemu przeciwnikowi."
 
 #: ../../XLN.rst:751
 msgid "Whenever you cast a Pirate spell, untap Lightning-Rig Crew."
-msgstr "Ilekroć rzucasz czar Pirata, odkręć tę kartę."
+msgstr "Ilekroć rzucisz czar Pirata, odkręć tę kartę."
 
 #: ../../XLN.rst:756
 msgid ""
@@ -2968,9 +2968,9 @@ msgid ""
 "Scavenger gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, możesz wygnać "
-"wskazaną kartę z cmentarza. Jeśli wygnano w ten sposób kartę stwora, "
-"zyskujesz 2 życia. Jeśli wygnano w ten sposób kartę nie będącą stworem, ten "
-"stwór dostaje +1/+1 do końca tury."
+"wskazaną kartę z cmentarza. Jeśli wygnano w ten sposób kartę stwora, zyskaj "
+"2 życia. Jeśli wygnano w ten sposób kartę nie będącą stworem, ten stwór "
+"dostaje +1/+1 do końca tury."
 
 #: ../../XLN.rst:930
 msgid ""
@@ -3286,8 +3286,7 @@ msgstr ""
 #: ../../XLN.rst:1015
 msgid ""
 "Enrage — Whenever Ravenous Daggertooth is dealt damage, you gain 2 life."
-msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zyskujesz 2 życia."
+msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zyskaj 2 życia."
 
 #: ../../XLN.rst:1020
 msgid ""
@@ -3455,8 +3454,8 @@ msgid ""
 "Whenever Verdant Sun's Avatar or another creature enters the battlefield "
 "under your control, you gain life equal to that creature's toughness."
 msgstr ""
-"Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, "
-"zyskujesz życie równe wytrzymałości owego stwora."
+"Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj "
+"życie równe wytrzymałości owego stwora."
 
 #: ../../XLN.rst:1074
 msgid ""
@@ -3503,7 +3502,7 @@ msgid ""
 "Walker and you gain 3 life."
 msgstr ""
 "Ilekroć stwór pod twoim władaniem eksploruje, umieść znacznik +1/+1 na tym "
-"stworze, a ty zyskujesz 3 życia."
+"stworze, a ty zyskaj 3 życia."
 
 #: ../../XLN.rst:1088
 msgid ""
@@ -3522,7 +3521,7 @@ msgid ""
 "controlled by a player who was dealt combat damage by three or more Pirates "
 "this turn."
 msgstr ""
-"Na początku twojego kroku końcowego zyskujesz władanie nad wskazanym nie-"
+"Na początku twojego kroku końcowego zyskaj władanie nad wskazanym nie-"
 "lądowym permanentem władanym przez gracza, który otrzymał w tej turze "
 "obrażenia bojowe od co najmniej trzech Piratów."
 
@@ -4017,7 +4016,7 @@ msgid ""
 "life and you gain 1 life."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik traci 1 życie, a "
-"ty zyskujesz 1 życie."
+"ty zyskaj 1 życie."
 
 #: ../../XLN.rst:1250
 msgid ""
@@ -4078,7 +4077,7 @@ msgid ""
 "Primal Amulet. Then if there are four or more charge counters on it, you may "
 "remove those counters and transform it."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, umieść znacznik ładunku na tej "
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik ładunku na tej "
 "karcie. Następnie jeśli ma ona cztery lub więcej znaczników ładunku możesz "
 "usunąć owe znaczniki i transformować ją."
 
@@ -4302,7 +4301,7 @@ msgstr "Stwory wybranego typu pod twoim władaniem dostają +1/+1."
 
 #: ../../XLN.rst:1333
 msgid "Whenever you cast a creature spell of the chosen type, draw a card."
-msgstr "Ilekroć rzucasz czar stwora wybranego typu, dobierz kartę."
+msgstr "Ilekroć rzucisz czar stwora wybranego typu, dobierz kartę."
 
 #: ../../XLN.rst:1340
 msgid ""

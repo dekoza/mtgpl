@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 19:48+0000\n"
+"PO-Revision-Date: 2020-02-20 13:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/aer/"
 "pl/>\n"
@@ -147,7 +147,7 @@ msgid ""
 "controlled left the battlefield this turn, you gain 5 life."
 msgstr ""
 "Rewolta — Kiedy ta karta wejdzie na pole walki, jeśli permanent pod twoim "
-"władaniem opuścił pole walki w tej turze, zyskujesz 5 życia."
+"władaniem opuścił pole walki w tej turze, zyskaj 5 życia."
 
 #: ../../AER.rst:48
 msgid ""
@@ -325,7 +325,7 @@ msgid ""
 "gain 3 life."
 msgstr ""
 "Rewolta — Jeśli permanent pod twoim władaniem opuścił pole walki w tej "
-"turze, zyskujesz 3 życia."
+"turze, zyskaj 3 życia."
 
 #: ../../AER.rst:106
 msgid ""
@@ -426,7 +426,7 @@ msgstr ""
 
 #: ../../AER.rst:133
 msgid "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
-msgstr "Ilekroć rzucasz czar Aury, Wyposażenia lub Pojazdu, dobierz kartę."
+msgstr "Ilekroć rzucisz czar Aury, Wyposażenia lub Pojazdu, dobierz kartę."
 
 #: ../../AER.rst:140
 msgid ""
@@ -689,7 +689,7 @@ msgstr ""
 
 #: ../../AER.rst:211
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Zwróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nielądowy permanent do ręki właściciela."
 
 #: ../../AER.rst:220
 msgid ""
@@ -1301,7 +1301,7 @@ msgstr "Pierwszy cios"
 msgid ""
 "When Aether Chaser enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:427
 #, fuzzy
@@ -1309,7 +1309,7 @@ msgid ""
 "Whenever Aether Chaser attacks, you may pay |energy|\\ |energy|. If you do, "
 "create a 1/1 colorless Servo artifact creature token."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"Ilekroć rzucisz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
 "stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:432
@@ -1609,7 +1609,7 @@ msgstr ""
 msgid ""
 "When Scrapper Champion enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:541
 #, fuzzy
@@ -1617,7 +1617,7 @@ msgid ""
 "Whenever Scrapper Champion attacks, you may pay |energy|\\ |energy|. If you "
 "do, put a +1/+1 counter on it."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"Ilekroć rzucisz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
 "stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:546
@@ -1674,7 +1674,7 @@ msgstr ""
 msgid ""
 "When Aether Herder enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:569
 #, fuzzy
@@ -1682,7 +1682,7 @@ msgid ""
 "Whenever Aether Herder attacks, you may pay |energy|\\ |energy|. If you do, "
 "create a 1/1 colorless Servo artifact creature token."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"Ilekroć rzucisz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
 "stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:578
@@ -1702,7 +1702,7 @@ msgstr "Tratowanie"
 msgid ""
 "When Aetherstream Leopard enters the battlefield, you get |energy| (an "
 "energy counter)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:577
 #, fuzzy
@@ -1710,7 +1710,7 @@ msgid ""
 "Whenever Aetherstream Leopard attacks, you may pay |energy|. If you do, it "
 "gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"Ilekroć rzucisz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
 "stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:586
@@ -1725,7 +1725,7 @@ msgstr ""
 msgid ""
 "Whenever Aetherwind Basker enters the battlefield or attacks, you get |"
 "energy| (an energy counter) for each creature you control."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:585
 #, fuzzy
@@ -1823,7 +1823,7 @@ msgstr ""
 msgid ""
 "Target creature gets +3/+3 until end of turn. You get |energy|\\ |energy| "
 "(two energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:618
 msgid ""
@@ -2198,7 +2198,7 @@ msgstr ""
 msgid ""
 "When Rogue Refiner enters the battlefield, draw a card and you get |energy|"
 "\\ |energy| (two energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:748
 msgid ""
@@ -2319,7 +2319,7 @@ msgstr ""
 msgid ""
 "When Aethersphere Harvester enters the battlefield, you get |energy|\\ |"
 "energy| (two energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:785
 msgid "Pay |energy|: Aethersphere Harvester gains lifelink until end of turn."
@@ -2467,7 +2467,7 @@ msgstr ""
 msgid ""
 "Whenever Gonti's Aether Heart or another artifact enters the battlefield "
 "under your control, you get |energy|\\ |energy| (two energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:835
 msgid ""
@@ -2805,7 +2805,7 @@ msgstr ""
 msgid ""
 "When Reservoir Walker enters the battlefield, you gain 3 life and get |"
 "energy|\\ |energy|\\ |energy| (three energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskaj 3 życia."
 
 #: ../../AER.rst:956
 msgid ""

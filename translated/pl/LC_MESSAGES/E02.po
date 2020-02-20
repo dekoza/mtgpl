@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-01-23 18:19+0000\n"
+"PO-Revision-Date: 2020-02-20 13:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/e02/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../E02.rst:5
@@ -147,7 +147,7 @@ msgstr ""
 msgid ""
 "For each opponent, gain control of target permanent that player controls."
 msgstr ""
-"Za każdego przeciwnika, zyskujesz władanie nad wskazanym permanentem pod "
+"Za każdego przeciwnika, zyskaj władanie nad wskazanym permanentem pod "
 "władaniem owego gracza."
 
 #: ../../E02.rst:52
@@ -237,7 +237,7 @@ msgstr ""
 
 #: ../../E02.rst:81
 msgid "Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire."
-msgstr "Ilekroć zyskujesz życie, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../E02.rst:86
 msgid ""
@@ -404,7 +404,7 @@ msgid ""
 "controls until end of turn. Untap those creatures. They gain haste until end "
 "of turn."
 msgstr ""
-"Dla każdego z przeciwników, zyskujesz do końca tury władanie nad co najwyżej "
+"Dla każdego z przeciwników, zyskaj do końca tury władanie nad co najwyżej "
 "jednym wskazanym stworem pod władaniem owego gracza. Odkręć owe stwory. "
 "Zyskują one pośpiech do końca tury."
 
@@ -585,7 +585,7 @@ msgstr ""
 
 #: ../../E02.rst:195
 msgid "Lightning Helix deals 3 damage to any target and you gain 3 life."
-msgstr "Ten czar zadaje 3 obrażenia we wskazany cel, a ty zyskujesz 3 życia."
+msgstr "Ten czar zadaje 3 obrażenia we wskazany cel, a ty zyskaj 3 życia."
 
 #: ../../E02.rst:200
 msgid ""
