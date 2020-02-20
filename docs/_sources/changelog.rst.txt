@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2020-02-20
+   * Amonkhet - 100%
+
 2020-02-18
    * Eldritch Moon - 100%
 
