@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-19 22:25+0000\n"
+"PO-Revision-Date: 2020-02-20 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/akh/"
 "pl/>\n"
@@ -4487,6 +4487,10 @@ msgid ""
 "and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"lub cmentarzu kartę o nazwie Gideon, Martial Paragon, ujawnij ją i umieść ją "
+"w twojej ręce. Jeśli przeszukałeś twoją bibliotekę w ten sposób, przetasuj "
+"ją."
 
 #: ../../AKH.rst:1489
 msgid "Creatures you control get +1/+1."
@@ -4501,7 +4505,7 @@ msgstr ""
 
 #: ../../AKH.rst:1493
 msgid "Whenever Graceful Cat attacks, it gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, dostaje on do końca tury +1/+1."
 
 #: ../../AKH.rst:1500
 msgid ""
@@ -4527,15 +4531,16 @@ msgstr ""
 
 #: ../../AKH.rst:1503
 msgid "+2: Put a -1/-1 counter on up to one target creature."
-msgstr ""
+msgstr "+2: Umieść znacznik -1/-1 na co najwyżej jednym wskazanym stworze."
 
 #: ../../AKH.rst:1505
 msgid "−3: Destroy target creature with a -1/-1 counter on it."
-msgstr ""
+msgstr "–3: Zniszcz wskazanego stwora mającego znacznik -1/-1."
 
 #: ../../AKH.rst:1507
 msgid "−10: Return all creature cards from your graveyard to the battlefield."
 msgstr ""
+"–10: Przywróć wszystkie karty stworów z twojego cmentarza na pole walki."
 
 #: ../../AKH.rst:1512
 msgid ""
@@ -4549,6 +4554,8 @@ msgid ""
 "|mana_3|\\ |mana_b|: Target opponent loses 2 life and you gain 2 life. "
 "Activate this ability only if you control a Liliana planeswalker."
 msgstr ""
+"|mana_3|\\ |mana_b|: Wskazany przeciwnik traci 2 życia, a ty zyskaj 2 życia. "
+"Możesz aktywować tę zdolność tylko jeśli władasz wędrowcem o typie Liliana."
 
 #: ../../AKH.rst:1516
 msgid ""
@@ -4563,6 +4570,10 @@ msgid ""
 "library and/or graveyard for a card named Liliana, Death Wielder, reveal it, "
 "and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
+"Umieść znacznik -1/-1 na każdym stworze poza twoim władaniem. Możesz "
+"wyszukać w twojej bibliotece i/lub cmentarzu kartę o nazwie Liliana, Death "
+"Wielder, ujawnij ją i umieść ją w twojej ręce. Jeśli przeszukałeś twoją "
+"bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../AKH.rst:1520
 msgid ""
