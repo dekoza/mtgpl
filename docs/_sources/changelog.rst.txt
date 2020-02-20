@@ -5,6 +5,7 @@ Spis zmian
 
 2020-02-20
    * Amonkhet - 100%
+   * Hour of Devastation - 100% + aktualizacja
 
 2020-02-18
    * Eldritch Moon - 100%
