@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-18 21:45+0000\n"
+"PO-Revision-Date: 2020-02-21 08:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -1124,7 +1124,7 @@ msgstr ""
 
 #: ../../EMN.rst:345
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../EMN.rst:350
 msgid ""
@@ -3116,8 +3116,8 @@ msgid ""
 "Target creature you control fights target creature you don't control. (Each "
 "deals damage equal to its power to the other.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
-"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+"władaniem. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../EMN.rst:1018
 msgid ""
@@ -3631,7 +3631,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../EMN.rst:1196
 msgid ""

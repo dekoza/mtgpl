@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-21 08:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/war/"
 "pl/>\n"
@@ -123,7 +123,7 @@ msgid ""
 "until end of turn. You gain 2 life."
 msgstr ""
 "Umieść znacznik +1/+1 na wskazanym stworze. Ów stwór zyskuje pierwszy cios "
-"do końca tury. Zyskujesz 2 życia."
+"do końca tury. Zyskaj 2 życia."
 
 #: ../../WAR.rst:40
 msgid ""
@@ -453,7 +453,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 4: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../WAR.rst:138
 msgid ""
@@ -1184,7 +1184,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 2: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../WAR.rst:362
 msgid ""
@@ -1849,7 +1849,7 @@ msgid ""
 "|mana_3|, Sacrifice a creature or planeswalker: You gain 1 life and draw a "
 "card."
 msgstr ""
-"|mana_3|, poświęć stwora lub wędrowca: Zyskujesz 1 życie i dobierasz kartę."
+"|mana_3|, poświęć stwora lub wędrowca: Zyskaj 1 życie i dobierasz kartę."
 
 #: ../../WAR.rst:564
 msgid ""
@@ -2404,7 +2404,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 1: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../WAR.rst:728
 msgid ""
@@ -2673,7 +2673,7 @@ msgid ""
 msgstr ""
 "Spójrz na trzy wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
 "nich kartę permanentu i umieścić ją w twojej ręce. Umieść pozostałe w "
-"dowolnej kolejności na spodzie twojej biblioteki. Zyskujesz 3 życia."
+"dowolnej kolejności na spodzie twojej biblioteki. Zyskaj 3 życia."
 
 #: ../../WAR.rst:814
 msgid ""
@@ -2886,7 +2886,7 @@ msgid ""
 "When New Horizons enters the battlefield, put a +1/+1 counter on target "
 "creature you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten urok wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../WAR.rst:875
@@ -3184,7 +3184,7 @@ msgstr "Stwory pod twoim władaniem mają czujność."
 
 #: ../../WAR.rst:973
 msgid "+1: You gain 3 life."
-msgstr "+1: Zyskujesz 3 życia."
+msgstr "+1: Zyskaj 3 życia."
 
 #: ../../WAR.rst:975
 msgid ""
@@ -3465,7 +3465,7 @@ msgid ""
 "gain life equal to the number of cards in your hand."
 msgstr ""
 "Odrzuć wszystkie karty w twojej ręce, następnie dobierz o jedną więcej. "
-"Zyskujesz życie równe liczbie kart w twojej ręce."
+"Zyskaj życie równe liczbie kart w twojej ręce."
 
 #: ../../WAR.rst:1078
 msgid ""
@@ -3684,7 +3684,7 @@ msgid ""
 "Put a +1/+1 counter on each creature you control. You gain 1 life for each "
 "creature you control."
 msgstr ""
-"Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Zyskujesz po 1 "
+"Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Zyskaj po 1 "
 "życiu za każdego stwora pod twoim władaniem."
 
 #: ../../WAR.rst:1146
@@ -4092,8 +4092,8 @@ msgid ""
 "−3: You gain life equal to the greatest toughness among creatures you "
 "control."
 msgstr ""
-"–3: Zyskujesz życie równe największej wytrzymałości spośród stworów pod "
-"twoim władaniem."
+"–3: Zyskaj życie równe największej wytrzymałości spośród stworów pod twoim "
+"władaniem."
 
 #: ../../WAR.rst:1264
 msgid ""
@@ -4531,8 +4531,7 @@ msgstr ""
 msgid ""
 "Target creature gets +2/+2 and gains flying until end of turn. You gain 2 "
 "life."
-msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2 i latanie. Zyskujesz 2 życia."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 i latanie. Zyskaj 2 życia."
 
 #: ../../WAR.rst:1414
 msgid ""
@@ -4698,7 +4697,7 @@ msgid ""
 "is the number of artifacts you control. You gain X life."
 msgstr ""
 "+2: Ten wędrowiec zadaje każdemu przeciwnikowi X obrażeń, gdzie X jest "
-"liczbą artefaktów pod twoim władaniem. Zyskujesz X żyć."
+"liczbą artefaktów pod twoim władaniem. Zyskaj X żyć."
 
 #: ../../WAR.rst:1463
 msgid "−3: Return target artifact card from your graveyard to your hand."

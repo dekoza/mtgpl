@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-21 08:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rix/"
 "pl/>\n"
@@ -60,8 +60,8 @@ msgid ""
 "When Bishop of Binding enters the battlefield, exile target creature an "
 "opponent controls until Bishop of Binding leaves the battlefield."
 msgstr ""
-"Kiedy ta karta wchodzi na pole walki, wygnaj wskazanego stwora władanego "
-"przez przeciwnika dopóki ta karta nie opuści pola walki."
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazanego stwora pod "
+"władaniem przeciwnika dopóki niniejszy stwór nie opuści pola walki."
 
 #: ../../RIX.rst:17
 msgid ""
@@ -203,9 +203,9 @@ msgid ""
 "for any number of cards named Legion Conquistador, reveal them, put them "
 "into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"dowolną liczbę kart o nazwie Legion Conquistador, ujawnić je i dołożyć do "
-"twojej ręki, a następnie przetasuj twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"dowolną liczbę kart o nazwie Legion Conquistador, ujawnij je i umieść je w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:68
 msgid ""
@@ -262,7 +262,7 @@ msgstr ""
 
 #: ../../RIX.rst:81
 msgid "Target creature gets +2/+2 until end of turn. You gain 2 life."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Zyskujesz 2 życia."
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Zyskaj 2 życia."
 
 #: ../../RIX.rst:88
 msgid ""
@@ -805,19 +805,13 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:261
-#, fuzzy
-#| msgid ""
-#| "When Sailor of Means enters the battlefield, create a colorless Treasure "
-#| "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
-#| "color.\""
 msgid ""
 "When Sailor of Means enters the battlefield, create a Treasure token. (It's "
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:270
 msgid ""
@@ -1254,7 +1248,7 @@ msgstr ""
 
 #: ../../RIX.rst:427
 msgid "Target creature gets -2/-2 until end of turn. You gain 2 life."
-msgstr "Wskazany stwór dostaje -2/-2 do końca tury. Zyskujesz 2 życia."
+msgstr "Wskazany stwór dostaje -2/-2 do końca tury. Zyskaj 2 życia."
 
 #: ../../RIX.rst:434
 msgid ""
@@ -2430,8 +2424,8 @@ msgid ""
 "haste until end of turn. Sacrifice it at the beginning of the next end step "
 "if it has converted mana cost 3 or less."
 msgstr ""
-"–3: Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć go. "
-"Zyskuje on pośpiech do końca tury. Poświęć go na początku najbliższego kroku "
+"–3: Zyskaj władanie nad wskazanym stworem do końca tury. Odkręć go. Zyskuje "
+"on pośpiech do końca tury. Poświęć go na początku najbliższego kroku "
 "końcowego jeśli jego skrócony koszt many wynosi 3 lub mniej."
 
 #: ../../RIX.rst:803
@@ -2951,7 +2945,7 @@ msgstr "|mana_2|\\ |mana_g|: Zniszcz wskazany artefakt lub urok."
 
 #: ../../RIX.rst:977
 msgid "|mana_2|\\ |mana_w|: You gain 3 life."
-msgstr "|mana_2|\\ |mana_w|: Zyskujesz 3 życia."
+msgstr "|mana_2|\\ |mana_w|: Zyskaj 3 życia."
 
 #: ../../RIX.rst:982
 msgid ""
@@ -3129,7 +3123,7 @@ msgid ""
 "|tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate "
 "this ability only if you have the city's blessing."
 msgstr ""
-"|tap|, poświęć ten artefakt: Zyskujesz 3 życia i dobierasz kartę. Aktywuj tę "
+"|tap|, poświęć ten artefakt: Zyskaj 3 życia i dobierasz kartę. Aktywuj tę "
 "zdolność tylko jeśli masz błogosławieństwo miasta."
 
 #: ../../RIX.rst:1044
@@ -3168,7 +3162,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../RIX.rst:1054
 msgid ""

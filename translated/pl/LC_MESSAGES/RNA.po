@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-21 08:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rna/"
 "pl/>\n"
@@ -644,7 +644,7 @@ msgid ""
 "permanent. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_5|\\ |mana_u|: Zamień władanie nad tym permanentem i wskazanym "
-"nielądowym permanentem. Używaj jako obrzędu."
+"nielądowym permanentem. Aktywuj jako obrzęd."
 
 #: ../../RNA.rst:218
 msgid ""
@@ -704,7 +704,7 @@ msgstr ""
 
 #: ../../RNA.rst:231
 msgid "Gain control of X target creatures and/or planeswalkers."
-msgstr "Zyskujesz władanie nad X wskazanymi stworami i/lub wędrowcami."
+msgstr "Zyskaj władanie nad X wskazanymi stworami i/lub wędrowcami."
 
 #: ../../RNA.rst:238
 msgid ""
@@ -1882,7 +1882,7 @@ msgid ""
 "gains haste until end of turn. Activate this ability only any time you could "
 "cast a sorcery."
 msgstr ""
-"|mana_2|\\ |mana_r|, poświęć ten permanent: Zyskujesz do końca tury władanie "
+"|mana_2|\\ |mana_r|, poświęć ten permanent: Zyskaj do końca tury władanie "
 "nad wskazanym stworem o sile 3 lub mniejszym. Odkręć owego stwora. Zyskuje "
 "on pośpiech do końca tury. Aktywuj jako obrzęd."
 
@@ -2360,8 +2360,8 @@ msgid ""
 "Target creature you control fights target creature you don't control. (Each "
 "deals damage equal to its power to the other.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
-"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+"władaniem. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../RNA.rst:764
 msgid ""
@@ -2419,7 +2419,7 @@ msgstr ""
 
 #: ../../RNA.rst:783
 msgid "Counter target spell. You gain 3 life."
-msgstr "Skontruj wskazany czar. Zyskujesz 3 życia."
+msgstr "Skontruj wskazany czar. Zyskaj 3 życia."
 
 #: ../../RNA.rst:790
 msgid ""
@@ -2743,7 +2743,7 @@ msgid ""
 "gain 1 life."
 msgstr ""
 "-1: Stwórz żeton bezkolorowego artefaktycznego stwora Thopter 1/1 z "
-"lataniem. Zyskujesz 1 życie."
+"lataniem. Zyskaj 1 życie."
 
 #: ../../RNA.rst:883
 #, fuzzy
@@ -3070,7 +3070,7 @@ msgid ""
 "at least one creature card was exiled this way."
 msgstr ""
 "+1: Wygnaj co najwyżej dwie wskazane karty z jednego dowolnego cmentarza. "
-"Zyskujesz 2 życia jeśli w ten sposób wygnano przynajmniej jedną kartę stwora."
+"Zyskaj 2 życia jeśli w ten sposób wygnano przynajmniej jedną kartę stwora."
 
 #: ../../RNA.rst:1003
 #, fuzzy
@@ -3105,7 +3105,7 @@ msgid ""
 "Destroy all creatures. You gain life equal to the number of creatures you "
 "controlled that were destroyed this way."
 msgstr ""
-"Zniszcz wszystkie stwory. Zyskujesz liczbę punktów życia równą liczbie "
+"Zniszcz wszystkie stwory. Zyskaj liczbę punktów życia równą liczbie "
 "zniszczonych w ten sposób stworów pod twoim władaniem."
 
 #: ../../RNA.rst:1016
@@ -3400,7 +3400,7 @@ msgstr ""
 
 #: ../../RNA.rst:1099
 msgid "|mana_w|, |tap|: You gain 2 life."
-msgstr "|mana_w|, |tap|: Zyskujesz 2 życia."
+msgstr "|mana_w|, |tap|: Zyskaj 2 życia."
 
 #: ../../RNA.rst:1101
 msgid "|mana_u|, |tap|: Draw a card, then discard a card."
@@ -3792,7 +3792,7 @@ msgid ""
 "they control. You gain life equal to its power."
 msgstr ""
 "Wskazany gracz poświęca stwora o największej sile spośród władanych przez "
-"siebie stworów. Zyskujesz życie równe jego sile."
+"siebie stworów. Zyskaj życie równe jego sile."
 
 #: ../../RNA.rst:1242
 msgid ""
@@ -4127,7 +4127,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../RNA.rst:1346
 msgid ""
@@ -4442,7 +4442,7 @@ msgstr ""
 
 #: ../../RNA.rst:1459
 msgid "+1: You gain 2 life and draw a card."
-msgstr "+1: Zyskujesz 2 życia i dobierasz kartę."
+msgstr "+1: Zyskaj 2 życia i dobierasz kartę."
 
 #: ../../RNA.rst:1461
 #, fuzzy

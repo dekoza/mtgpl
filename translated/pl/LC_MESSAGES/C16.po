@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-21 08:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -953,7 +953,7 @@ msgid ""
 "Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_w| (|mana_w|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../C16.rst:359
 msgid "Each creature you control with a +1/+1 counter on it has flying."
@@ -2854,7 +2854,7 @@ msgid ""
 "Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_g| (|mana_g|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../C16.rst:975
 msgid "Each creature you control with a +1/+1 counter on it has trample."
@@ -4744,6 +4744,7 @@ msgid ""
 "Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
 "or a Mountain."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Bagnem lub Górą."
 
 #: ../../C16.rst:1673
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -5154,6 +5155,7 @@ msgid ""
 "Rootbound Crag enters the battlefield tapped unless you control a Mountain "
 "or a Forest."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Górą lub Lasem."
 
 #: ../../C16.rst:1843 ../../C16.rst:1851
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -5344,6 +5346,8 @@ msgid ""
 "Sunpetal Grove enters the battlefield tapped unless you control a Forest or "
 "a Plains."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Lasem lub "
+"Równiną."
 
 #: ../../C16.rst:1921
 msgid "|tap|: Add |mana_g| or |mana_w|."

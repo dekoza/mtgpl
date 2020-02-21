@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-21 08:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/kld/"
 "pl/>\n"
@@ -667,7 +667,7 @@ msgid ""
 msgstr ""
 "Zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ "
 "|energy|\\ |energy|: Przywróć wszystkie inne stwory do rąk ich właścicieli. "
-"Używaj jako obrzęd."
+"Aktywuj jako obrzęd."
 
 #: ../../KLD.rst:220
 msgid ""
@@ -1541,7 +1541,7 @@ msgstr ""
 #: ../../KLD.rst:509
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru poświęć artefakt lub stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../KLD.rst:511
 msgid ""
@@ -1908,8 +1908,8 @@ msgid ""
 "Gain control of target artifact or creature until end of turn. Untap it. It "
 "gains haste until end of turn."
 msgstr ""
-"Zyskujesz władaniem nad wskazanym artefaktem lub stworem do końca tury. "
-"Odkręć go. Zyskuje on pośpiech do końca tury."
+"Zyskaj do końca tury władaniem nad wskazanym artefaktem lub stworem. Odkręć "
+"go. Zyskuje on pośpiech do końca tury."
 
 #: ../../KLD.rst:640
 msgid ""
@@ -3173,7 +3173,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 4: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../KLD.rst:1050
 msgid ""
@@ -3192,7 +3192,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 3: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 3: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../KLD.rst:1054
 msgid ""
@@ -3501,7 +3501,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 2: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../KLD.rst:1160
 msgid ""
@@ -3583,7 +3583,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../KLD.rst:1186
 msgid ""
@@ -3705,7 +3705,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 1: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../KLD.rst:1226
 msgid ""

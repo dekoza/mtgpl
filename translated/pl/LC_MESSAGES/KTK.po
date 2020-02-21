@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-04 00:02+0000\n"
+"PO-Revision-Date: 2020-02-21 08:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ktk/"
 "pl/>\n"
@@ -42,7 +42,7 @@ msgid ""
 "Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_w| (|mana_w|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 # add4a00cf32d43ff88df4086a74a2b93
 #: ../../KTK.rst:11
@@ -76,7 +76,7 @@ msgid ""
 "on this creature. Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, |tap|: Umieść znacznik "
-"+1/+1 na tym stworze. Używaj jako obrzęd.)"
+"+1/+1 na tym stworze. Aktywuj jako obrzęd.)"
 
 # 37aeb77c71b14a3dbaf3b802423704d8
 #: ../../KTK.rst:23
@@ -222,7 +222,7 @@ msgid ""
 "on this creature. Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, |tap|: Umieść znacznik "
-"+1/+1 na tym stworze. Używaj jako obrzęd.)"
+"+1/+1 na tym stworze. Aktywuj jako obrzęd.)"
 
 # c850e03b06d240f19c7aa1795876a66e
 #: ../../KTK.rst:67
@@ -1244,7 +1244,7 @@ msgid ""
 "on this creature. Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, |tap|: Umieść znacznik "
-"+1/+1 na tym stworze. Używaj jako obrzęd.)"
+"+1/+1 na tym stworze. Aktywuj jako obrzęd.)"
 
 #: ../../KTK.rst:384
 msgid ""
@@ -1399,7 +1399,7 @@ msgid ""
 "Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_b| (|mana_b|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 # 9f8c978fd5fe40f696d894ca27301704
 #: ../../KTK.rst:427
@@ -2419,7 +2419,7 @@ msgid ""
 "on this creature. Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, |tap|: Umieść znacznik "
-"+1/+1 na tym stworze. Używaj jako obrzęd.)"
+"+1/+1 na tym stworze. Aktywuj jako obrzęd.)"
 
 # 45d5a5e54b1345fdb2285227ca73cfe3
 #: ../../KTK.rst:755
@@ -2740,7 +2740,7 @@ msgid ""
 "Outlast only as a sorcery.)"
 msgstr ""
 "Przetrwanie |mana_g| (|mana_g|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 # 71bd8c06462e4bf6b7abdecd918636d9
 #: ../../KTK.rst:841
@@ -3992,7 +3992,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../KTK.rst:1220
 msgid ""

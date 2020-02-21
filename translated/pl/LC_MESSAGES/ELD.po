@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-21 08:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
 "pl/>\n"
@@ -588,7 +588,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../ELD.rst:194
 msgid ""
@@ -1604,7 +1604,7 @@ msgid ""
 "could cast a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|, |tap|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza na pole walki. Używaj jako obrzęd."
+"twojego cmentarza na pole walki. Aktywuj jako obrzęd."
 
 #: ../../ELD.rst:530
 msgid ""
@@ -2320,7 +2320,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../ELD.rst:760
 msgid ""
@@ -3454,7 +3454,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_5| (|mana_5|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../ELD.rst:1096
 msgid ""
@@ -3843,7 +3843,7 @@ msgid ""
 "ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_u|\\ |mana_b|: Wygnaj pięć wskazanych kart z cmentarza przeciwnika. "
-"Przywróć tę kartę z twojego cmentarza do twojej ręki. Używaj jako obrzęd."
+"Przywróć tę kartę z twojego cmentarza do twojej ręki. Aktywuj jako obrzęd."
 
 #: ../../ELD.rst:1216
 msgid ""
@@ -4001,7 +4001,7 @@ msgid ""
 "control. Equip only as a sorcery.)"
 msgstr ""
 "Wyposaż Rycerza |mana_1| (|mana_1|: Dołącz do wskazanego Rycerza pod twoim "
-"władaniem. Używaj jako obrzęd.)"
+"władaniem. Aktywuj jako obrzęd.)"
 
 #: ../../ELD.rst:1270
 msgid ""
@@ -4272,7 +4272,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 2: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../ELD.rst:1362
 msgid ""
@@ -4494,7 +4494,7 @@ msgid ""
 "then choose any card name."
 msgstr ""
 "Umieszczając tę kartę na polu walki, spójrz na rękę przeciwnika, następnie "
-"wybierz dowolną nazwę karty."
+"nazwij kartę."
 
 #: ../../ELD.rst:1433
 msgid ""
@@ -4547,7 +4547,7 @@ msgid ""
 "this ability only any time you could cast a sorcery."
 msgstr ""
 "|tap|: Przenieść znacznik +1/+1 z tego artefaktu na wskazanego stwora. "
-"Używaj jako obrzęd."
+"Aktywuj jako obrzęd."
 
 #: ../../ELD.rst:1456
 msgid ""

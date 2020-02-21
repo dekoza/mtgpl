@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-17 19:48+0000\n"
+"PO-Revision-Date: 2020-02-21 08:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -195,7 +195,7 @@ msgid ""
 "Activate this ability only any time you could cast a sorcery and only once "
 "each turn."
 msgstr ""
-"Poświęć inny permanent: Dołącz ten urok do wskazanego stwora. Używaj jako "
+"Poświęć inny permanent: Dołącz ten urok do wskazanego stwora. Aktywuj jako "
 "obrzęd. Możesz aktywować tę zdolność tylko raz na turę."
 
 #: ../../SOI.rst:66
@@ -256,7 +256,7 @@ msgid ""
 "time you could cast a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
-"białego stwora Duch 1/1 z lataniem. Używaj jako obrzęd."
+"białego stwora Duch 1/1 z lataniem. Aktywuj jako obrzęd."
 
 #: ../../SOI.rst:82
 msgid ""
@@ -401,7 +401,7 @@ msgid ""
 "you could cast a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_w|: Przywróć tę kartę z twojego cmentarza na pole walki "
-"dołączoną do wskazanego stwora. Używaj jako obrzęd."
+"dołączoną do wskazanego stwora. Aktywuj jako obrzęd."
 
 #: ../../SOI.rst:132
 msgid ""
@@ -566,7 +566,7 @@ msgid ""
 "any time you could cast a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz dwa żetony "
-"białego stwora Duch 1/1 z lataniem. Używaj jako obrzęd."
+"białego stwora Duch 1/1 z lataniem. Aktywuj jako obrzęd."
 
 #: ../../SOI.rst:184
 msgid ""
@@ -1587,7 +1587,7 @@ msgid ""
 "cast a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Umieść tę kartę z twojego cmentarza "
-"transformowaną na polu walki. Używaj jako obrzędu."
+"transformowaną na polu walki. Aktywuj jako obrzęd."
 
 #: ../../SOI.rst:516
 msgid ""
@@ -2109,7 +2109,7 @@ msgid ""
 "time you could cast a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
-"czarnego stwora Zombi 2/2. Używaj jako obrzęd."
+"czarnego stwora Zombi 2/2. Aktywuj jako obrzęd."
 
 #: ../../SOI.rst:674
 msgid ""
@@ -2647,7 +2647,7 @@ msgid ""
 "cast a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_b|, poświęć ten urok: Wskazany przeciwnik wygania dwie "
-"karty ze swojej ręki. Używaj jako obrzęd."
+"karty ze swojej ręki. Aktywuj jako obrzęd."
 
 #: ../../SOI.rst:850
 msgid ""
@@ -4964,7 +4964,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../SOI.rst:1586
 msgid ""
@@ -5072,7 +5072,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../SOI.rst:1620
 msgid ""

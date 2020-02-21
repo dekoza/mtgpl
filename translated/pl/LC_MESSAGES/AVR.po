@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-21 08:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/avr/"
 "pl/>\n"
@@ -76,8 +76,9 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:23
+#, fuzzy
 msgid "You gain 7 life."
-msgstr "Zyskujesz 7 żyć."
+msgstr "Zyskaj 7 żyć."
 
 #: ../../AVR.rst:30
 msgid ""
@@ -240,7 +241,7 @@ msgstr ""
 
 #: ../../AVR.rst:77
 msgid "Destroy target enchantment. You gain 2 life."
-msgstr "Zniszcz wskazany urok. Zyskujesz 2 życia."
+msgstr "Zniszcz wskazany urok. Zyskaj 2 życia."
 
 #: ../../AVR.rst:84
 msgid ""
@@ -3119,7 +3120,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../AVR.rst:1102
 msgid ""
@@ -3263,7 +3264,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../AVR.rst:1154
 msgid ""

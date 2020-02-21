@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-21 08:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/xln/"
 "pl/>\n"
@@ -55,12 +55,12 @@ msgid ""
 "Players can't cast spells from graveyards or activate abilities of cards in "
 "graveyards."
 msgstr ""
-"Gracznie nie mogą rzucać czarów z cmentarzy ani aktywować zdolności kart w "
+"Gracze nie mogą rzucać czarów z cmentarzy ani aktywować zdolności kart w "
 "cmentarzach."
 
 #: ../../XLN.rst:17
 msgid "Whenever a creature dies, you gain 1 life."
-msgstr "Ilekroć jakiś stwór umiera, zyskaj 1 życie."
+msgstr "Ilekroć jakiś stwór umrze, zyskaj 1 życie."
 
 #: ../../XLN.rst:22
 msgid ""
@@ -89,7 +89,7 @@ msgid ""
 "Enrage — Whenever Bellowing Aegisaur is dealt damage, put a +1/+1 counter on "
 "each other creature you control."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, umieść znacznik +1/+ na "
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, umieść znacznik +1/+ na "
 "każdym innym stworze pod twoim władaniem."
 
 #: ../../XLN.rst:32
@@ -109,7 +109,7 @@ msgid ""
 "converted mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz zwrócić wskazaną kartę stwora o skróconym "
-"koszcie 3 lub mniejszym z twojego cmentarza na pole walki."
+"koszcie many 3 lub mniejszym z twojego cmentarza na pole walki."
 
 #: ../../XLN.rst:36
 msgid ""
@@ -165,8 +165,7 @@ msgstr "Latanie"
 
 #: ../../XLN.rst:51
 msgid "|mana_w|, |tap|: Target attacking Vampire gets +1/+1 until end of turn."
-msgstr ""
-"|mana_w|, |tap|: Wskazany atakujący Wampir dostaje +1/+1 do końca tury."
+msgstr "|mana_w|, |tap|: Wskazany atakujący Wampir dostaje do końca tury +1/+1."
 
 #: ../../XLN.rst:58
 msgid ""
@@ -186,10 +185,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:64
 msgid ""
@@ -204,7 +203,7 @@ msgid ""
 "control get +2/+2 until end of turn."
 msgstr ""
 "|mana_7|\\ |mana_w|, |tap|, poświęć tego stwora: Stwory pod twoim władaniem "
-"dostają +2/+2 do końca tury."
+"dostają do końca tury +2/+2."
 
 #: ../../XLN.rst:70
 msgid ""
@@ -264,7 +263,7 @@ msgstr ""
 
 #: ../../XLN.rst:85
 msgid "Imperial Lancer has double strike as long as you control a Dinosaur."
-msgstr "Ten stwór ma podwójny cios dopóki władasz Dinozaurem."
+msgstr "Ten stwór ma podwójny cios o ile władasz Dinozaurem."
 
 #: ../../XLN.rst:90
 msgid ""
@@ -289,8 +288,8 @@ msgid ""
 "When Ixalan's Binding enters the battlefield, exile target nonland permanent "
 "an opponent controls until Ixalan's Binding leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
-"spod władania przeciwnika dopóki ten urok nie opuści pola walki."
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nielądowy permanent "
+"pod władaniem przeciwnika dopóki ten urok nie opuści pola walki."
 
 #: ../../XLN.rst:95
 msgid "Your opponents can't cast spells with the same name as the exiled card."
@@ -334,9 +333,9 @@ msgid ""
 "for any number of cards named Legion Conquistador, reveal them, put them "
 "into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"dowolną liczbę kart o nazwie Legion Conquistador, ujawnić je i dołożyć do "
-"twojej ręki, a następnie przetasuj twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"dowolną liczbę kart o nazwie Legion Conquistador, ujawnij je i umieść je w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../XLN.rst:114
 msgid ""
@@ -464,7 +463,7 @@ msgid ""
 "hand. If you do, you gain 2 life."
 msgstr ""
 "Na początku twojego kroku utrzymania możesz ujawnić kartę Dinozaura z twojej "
-"ręki. Jeśli to zrobisz, zyskaj 2 życia."
+"ręki. Jeśli tak zrobisz, zyskaj 2 życia."
 
 #: ../../XLN.rst:153
 msgid ""
@@ -472,8 +471,8 @@ msgid ""
 "your library for a Dinosaur card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
-"|mana_3|\\ |mana_w|\\ |mana_w|, poświęć tego stwora: Poszukaj w twojej "
-"bibliotece kartę Dinozaura, ujawnij ją, dołóż do twojej ręki, a następnie "
+"|mana_3|\\ |mana_w|\\ |mana_w|, poświęć tego stwora: Wyszukaj w twojej "
+"bibliotece kartę Dinozaura, ujawnij ją, umieść w twojej ręce, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../XLN.rst:158
@@ -507,7 +506,7 @@ msgstr ""
 
 #: ../../XLN.rst:165
 msgid "Creatures you control get +1/+1 until end of turn. Untap them."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury. Odkręć je."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1. Odkręć je."
 
 #: ../../XLN.rst:168
 msgid ""
@@ -539,8 +538,7 @@ msgid ""
 "You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's "
 "library."
 msgstr ""
-"Zyskujesz dwukrotność X życia. Umieść tę kartę na spodzie biblioteki jej "
-"właściciela."
+"Zyskaj dwukrotność X żyć. Umieść tę kartę na spodzie biblioteki właściciela."
 
 #: ../../XLN.rst:184
 msgid ""
@@ -555,9 +553,9 @@ msgid ""
 "their library for that many basic land cards, put those cards onto the "
 "battlefield tapped, then shuffle their library."
 msgstr ""
-"Wygnaj wszystkie atakujące stwory władane przez wskazanego gracza. Ów gracz "
-"może poszukać w swojej bibliotece tyle samo kart bazowych lądów i umieścić "
-"je przekręcone na polu walki, a następnie przetasować swoją bibliotekę."
+"Wygnaj wszystkie atakujące stwory pod władaniem wskazanego gracza. Ów gracz "
+"może wyszukać w swojej bibliotece tyle samo kart bazowych lądów i umieścić "
+"je przekręcone na polu walki, następnie tasuje swoją bibliotekę."
 
 #: ../../XLN.rst:188
 msgid ""
@@ -599,7 +597,7 @@ msgstr ""
 msgid ""
 "Slash of Talons deals 2 damage to target attacking or blocking creature."
 msgstr ""
-"Ta karta zadaje 2 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 2 obrażenia."
 
 #: ../../XLN.rst:206
 msgid ""
@@ -630,10 +628,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:216
 msgid ""
@@ -673,7 +671,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains "
 "first strike until end of turn."
 msgstr ""
-"Wskazany stwór dostaje +2/+2 do końca tury. Jeśli to Wampir, zyskuje "
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli to Wampir, zyskuje "
 "pierwszy cios do końca tury."
 
 #: ../../XLN.rst:228
@@ -707,7 +705,7 @@ msgstr ""
 
 #: ../../XLN.rst:235
 msgid "As Arcane Adaptation enters the battlefield, choose a creature type."
-msgstr "Podczas umieszczania tej karty na polu walki, wybierz typ stwora."
+msgstr "Umieszczając tę kartę na polu walki wybierz typ stwora."
 
 #: ../../XLN.rst:237
 msgid ""
@@ -761,8 +759,8 @@ msgid ""
 "Whenever Daring Saboteur deals combat damage to a player, you may draw a "
 "card. If you do, discard a card."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bitewne, możesz dobrać kartę. "
-"Jeśli to zrobisz, odrzuć kartę."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 #: ../../XLN.rst:256
 msgid ""
@@ -795,8 +793,8 @@ msgid ""
 "abilities your opponents control.)"
 msgstr ""
 "Ilekroć rzucisz czar Wodnika, stwórz żeton niebieskiego stwora Wodnik 1/1 z "
-"antyklątwą. (Stwór z antyklątwą nie może być celem czarów lub zdolności pod "
-"władaniem twoich przeciwników.)"
+"antyklątwą. (Stwór z antyklątwą nie może być wskazany przez czary lub "
+"zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../XLN.rst:264
 msgid ""
@@ -806,19 +804,14 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:263
-#, fuzzy
-#| msgid ""
-#| "Return target creature to its owner's hand. Create a colorless Treasure "
-#| "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
-#| "color.\""
 msgid ""
 "Return target creature to its owner's hand. Create a Treasure token. (It's "
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
-"Przywróć wskazanego stwora do ręki jego właściciela. Stwórz żeton "
-"bezkolorowego artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: "
-"Weź jedną manę dowolnego koloru.\""
+"Przywróć wskazanego stwora do ręki jego właściciela. Stwórz żeton Skarbu. ("
+"To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../XLN.rst:268
 msgid ""
@@ -849,15 +842,15 @@ msgstr "Błysk"
 
 #: ../../XLN.rst:275
 msgid "Dreamcaller Siren can block only creatures with flying."
-msgstr "Ten stwór może blokować wyłącznie stwory z lataniem."
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../XLN.rst:277
 msgid ""
 "When Dreamcaller Siren enters the battlefield, if you control another "
 "Pirate, tap up to two target nonland permanents."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Piratem, przekręć "
-"co najwyżej dwa wskazane nie-lądowe permanenty."
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym Piratem, przekręć "
+"co najwyżej dwa wskazane nielądowe permanenty."
 
 #: ../../XLN.rst:282
 msgid ""
@@ -868,7 +861,7 @@ msgstr ""
 
 #: ../../XLN.rst:281
 msgid "Gain control of target creature with converted mana cost X."
-msgstr "Zyskujesz władanie nad wskazanym stworem o skróconym koszcie many X."
+msgstr "Zyskaj władanie nad wskazanym stworem o skróconym koszcie many X."
 
 #: ../../XLN.rst:286
 msgid ""
@@ -893,8 +886,8 @@ msgid ""
 "Whenever Fleet Swallower attacks, target player puts the top half of their "
 "library, rounded up, into their graveyard."
 msgstr ""
-"Ilekroć ten stwór atakuje, wskazany gracz przekłada wierzchnią połowę swojej "
-"biblioteki, zaokrąglając wzwyż, do swojego cmentarza."
+"Ilekroć ten stwór atakuje, wskazany gracz umieszcza wierzchnią połowę swojej "
+"biblioteki, zaokrąglając wzwyż, w swoim cmentarzu."
 
 #: ../../XLN.rst:292
 msgid ""
@@ -928,7 +921,7 @@ msgid ""
 "player this turn, draw a card, then discard a card."
 msgstr ""
 "+1: Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi "
-"obrażenia bitewne w tej turze, dobierz kartę, na następnie odrzuć kartę."
+"obrażenia bojowe w tej turze, dobierz kartę, na następnie odrzuć kartę."
 
 #: ../../XLN.rst:303
 msgid ""
@@ -936,7 +929,7 @@ msgid ""
 "becomes the target of a spell, sacrifice it.\""
 msgstr ""
 "–2: Stwórz żeton niebieskiego stwora Iluzja 2/2 ze zdolnością \"Kiedy ten "
-"stwór zostanie celem czaru, poświęć go.\""
+"stwór zostanie wskazany przez czar, poświęć go.\""
 
 #: ../../XLN.rst:305
 msgid ""
@@ -966,7 +959,7 @@ msgid ""
 "Abilities your opponents activate that target a Merfolk you control cost |"
 "mana_2| more to activate."
 msgstr ""
-"Aktywowanie przez twoich przeciwników  zdolności wskazujących Wodnika pod "
+"Aktywowanie przez twoich przeciwników zdolności wskazujących Wodnika pod "
 "twoim władaniem kosztuje o |mana_2| więcej."
 
 #: ../../XLN.rst:318
@@ -978,7 +971,7 @@ msgstr ""
 
 #: ../../XLN.rst:315
 msgid "This spell costs |mana_1| less to cast if you control a Pirate."
-msgstr "Rzucenie tego czaru kosztuje |mana_1| mniej jeśli władasz Piratem."
+msgstr "Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz Piratem."
 
 #: ../../XLN.rst:317
 msgid "Counter target spell unless its controller pays |mana_4|."
@@ -998,8 +991,8 @@ msgid ""
 "their graveyard."
 msgstr ""
 "Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
-"turze, wskazany przeciwnik przekłada cztery wierzchnie karty swojej "
-"biblioteki do swojego cmentarza."
+"turze, wskazany przeciwnik umieszcza cztery wierzchnie karty swojej "
+"biblioteki w swoim cmentarzu."
 
 #: ../../XLN.rst:328
 msgid ""
@@ -1050,9 +1043,8 @@ msgid ""
 "Return target nonland permanent you don't control to its owner's hand. If "
 "its converted mana cost was 2 or less, scry 2."
 msgstr ""
-"Przywróć wskazany permanent nie będący lądem i nie będący pod twoim "
-"władaniem do ręki jego właściciela. Jeśli jego skrócony koszt many to 2 lub "
-"mniej, wróż 2."
+"Przywróć wskazany nielądowy permanent poza twoim władaniem do ręki "
+"właściciela. Jeśli jego skrócony koszt many to 2 lub mniej, wróż 2."
 
 #: ../../XLN.rst:346
 msgid ""
@@ -1062,16 +1054,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:345
-#, fuzzy
-#| msgid ""
-#| "Draw two cards. Create a colorless Treasure artifact token with \"|tap|, "
-#| "Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "Draw two cards. Create a Treasure token. (It's an artifact with \"|tap|, "
 "Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Dobierz dwie karty. Stwórz żeton bezkolorowego artefaktu Skarb ze zdolnością "
-"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Dobierz dwie karty. Stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:350
 msgid ""
@@ -1081,19 +1069,14 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:349
-#, fuzzy
-#| msgid ""
-#| "When Prosperous Pirates enters the battlefield, create two colorless "
-#| "Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\""
 msgid ""
 "When Prosperous Pirates enters the battlefield, create two Treasure tokens. "
 "(They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of "
 "any color.\")"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
-"dowolnego koloru.\""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony Skarbu. (To "
+"artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../XLN.rst:356
 msgid ""
@@ -1112,7 +1095,7 @@ msgid ""
 "Sneak gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, ten stwór "
-"dostaje +1/+1 do końca tury."
+"dostaje do końca tury +1/+1."
 
 #: ../../XLN.rst:360
 msgid ""
@@ -1125,8 +1108,8 @@ msgstr ""
 msgid ""
 "Return all nonland permanents target player controls to their owner's hand."
 msgstr ""
-"Przywróć wszystkie nie-lądowe permanenty władane przez wskazanego gracza do "
-"ręki ich właścicieli."
+"Przywróć wszystkie nielądowe permanenty pod władaniem wskazanego gracza do "
+"rąk ich właścicieli."
 
 #: ../../XLN.rst:364
 msgid ""
@@ -1137,8 +1120,7 @@ msgstr ""
 
 #: ../../XLN.rst:363
 msgid "Put target artifact or creature on top of its owner's library."
-msgstr ""
-"Umieść wskazany artefakt lub stwora na wierzchu biblioteki jego właściciela."
+msgstr "Umieść wskazany artefakt lub stwora na wierzchu biblioteki właściciela."
 
 #: ../../XLN.rst:368
 msgid ""
@@ -1148,19 +1130,13 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:367
-#, fuzzy
-#| msgid ""
-#| "When Sailor of Means enters the battlefield, create a colorless Treasure "
-#| "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
-#| "color.\""
 msgid ""
 "When Sailor of Means enters the battlefield, create a Treasure token. (It's "
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:372
 msgid ""
@@ -1177,7 +1153,7 @@ msgid ""
 "graveyard, you may transform Search for Azcanta."
 msgstr ""
 "Na początku twojego kroku utrzymania, spójrz na wierzchnią kartę twojej "
-"biblioteki. Możesz położyć ją do twojego cmentarza. Następnie jeśli masz co "
+"biblioteki. Możesz umieścić ją w twoim cmentarzu. Następnie jeśli masz co "
 "najmniej siedem kart w cmentarzu, możesz transformować tę kartę."
 
 #: ../../XLN.rst:380
@@ -1190,7 +1166,7 @@ msgstr ""
 
 #: ../../XLN.rst:375
 msgid "(Transforms from Search for Azcanta.)"
-msgstr "(Transformuje się z Search for Azcanta.)"
+msgstr "(Transformuje z Search for Azcanta.)"
 
 #: ../../XLN.rst:377
 msgid "|tap|: Add |mana_u|."
@@ -1203,8 +1179,8 @@ msgid ""
 "hand. Put the rest on the bottom of your library in any order."
 msgstr ""
 "|mana_2|\\ |mana_u|, |tap|: Spójrz na cztery wierzchnie karty twojej "
-"biblioteki. Możesz ujawnić spośród nich kartę nie będącą stworem lub lądem i "
-"dołożyć ją do twojej ręki. Umieść pozostałe na spodzie twojej biblioteki w "
+"biblioteki. Możesz ujawnić spośród nich kartę nie będącą stworem ani lądem i "
+"umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
 "dowolnej kolejności."
 
 #: ../../XLN.rst:384
@@ -1231,7 +1207,7 @@ msgid ""
 "creature this turn, you may draw a card. If you do, discard a card."
 msgstr ""
 "Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, możesz dobrać kartę. Jeśli to zrobisz, odrzuć kartę."
+"tej turze, możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../XLN.rst:392
 msgid ""
@@ -1258,10 +1234,10 @@ msgid ""
 "a +1/+1 counter on this creature, then put the card back or put it into your "
 "graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:404
 msgid ""
@@ -1315,19 +1291,14 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:415
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. Create X colorless Treasure artifact tokens, where "
-#| "X is that spell's converted mana cost. They have \"|tap|, Sacrifice this "
-#| "artifact: Add one mana of any color.\""
 msgid ""
 "Counter target spell. Create X Treasure tokens, where X is that spell's "
 "converted mana cost. (They're artifacts with \"|tap|, Sacrifice this "
 "artifact: Add one mana of any color.\")"
 msgstr ""
-"Skontruj wskazany czar. Stwórz X żetonów bezkolorowego artefaktu Skarb, "
-"gdzie X jest skróconym kosztem many owego czaru. Mają one zdolność \"|tap|, "
-"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Skontruj wskazany czar. Stwórz X żetonów Skarbu, gdzie X jest skróconym "
+"kosztem many owego czaru. (To artefakty mające \"|tap|, poświęć ten artefakt:"
+" Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:422
 msgid ""
@@ -1341,7 +1312,7 @@ msgid ""
 "Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter on "
 "it if you attacked with a creature this turn."
 msgstr ""
-"Najazd — Ten stwór wchodzi na pole walki ze znacznikiem +1/+1 jeśli "
+"Najazd — Ten stwór wchodzi na pole walki mając znacznik +1/+1 jeśli "
 "atakowałeś stworem w tej turze."
 
 #: ../../XLN.rst:426
@@ -1356,7 +1327,7 @@ msgid ""
 "Raid — When Storm Fleet Spy enters the battlefield, if you attacked with a "
 "creature this turn, draw a card."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
 "tej turze, dobierz kartę."
 
 #: ../../XLN.rst:432
@@ -1375,8 +1346,8 @@ msgid ""
 "When Storm Sculptor enters the battlefield, return a creature you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, przywróć wskazanego stwora pod twoim "
-"władaniem do ręki jego właściciela."
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../XLN.rst:436
 msgid ""
@@ -1390,7 +1361,7 @@ msgid ""
 "When Tempest Caller enters the battlefield, tap all creatures target "
 "opponent controls."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, przekręć wszystkie stwory pod "
+"Kiedy ten stwór wejdzie na pole walki, przekręć wszystkie stwory pod "
 "władaniem wskazanego przeciwnika."
 
 #: ../../XLN.rst:440
@@ -1406,8 +1377,8 @@ msgid ""
 "opponent controls. That creature doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"Kiedy ta karta wchodzi na pole walki, przekręć wskazanego stwora pod "
-"władaniem przeciwnika. Ów stwór nie odkręca się podczas najbliższego kroku "
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręci się podczas najbliższego kroku "
 "odkręcania jego władcy."
 
 #: ../../XLN.rst:446
@@ -1429,8 +1400,8 @@ msgid ""
 "At the beginning of combat on your turn, you may have target Vampire get +2/"
 "+0 until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, możesz sprawić, by wskazany Wampir dostał "
-"+2/+0 do końca tury."
+"Na początku walki w twojej turze możesz sprawić, że wskazany Wampir dostaje "
+"do końca tury +2/+0."
 
 #: ../../XLN.rst:456
 msgid ""
@@ -1449,7 +1420,7 @@ msgid ""
 "At the beginning of your upkeep, if you have 5 or less life, you may "
 "transform Arguel's Blood Fast."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli masz 5 lub mniej życia, możesz "
+"Na początku twojego kroku utrzymania, jeśli masz 5 lub mniej żyć, możesz "
 "transformować tę kartę."
 
 #: ../../XLN.rst:464
@@ -1472,8 +1443,8 @@ msgid ""
 "|tap|, Sacrifice a creature: You gain life equal to the sacrificed "
 "creature's toughness."
 msgstr ""
-"|tap|, poświęć stwora: Zyskujesz życie równe wytrzymałości poświęconego "
-"stwora."
+"|tap|, poświęć stwora: Zyskaj tyle żyć, ile wytrzymałości miał poświęcony "
+"stwór."
 
 #: ../../XLN.rst:468
 msgid ""
@@ -1487,8 +1458,8 @@ msgid ""
 "When Bishop of the Bloodstained enters the battlefield, target opponent "
 "loses 1 life for each Vampire you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik traci 1 życie za "
-"każdego Wampira pod twoim władaniem."
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik traci po 1 życiu "
+"za każdego Wampira pod twoim władaniem."
 
 #: ../../XLN.rst:474
 msgid ""
@@ -1517,8 +1488,8 @@ msgid ""
 "Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for "
 "each creature that died this turn."
 msgstr ""
-"Ten stwór wchodzi na pole walki ze znacznikiem +1/+1 za każdego stwora, "
-"który umarł w tej turze."
+"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile stworów "
+"umarło w tej turze."
 
 #: ../../XLN.rst:484
 msgid ""
@@ -1536,8 +1507,8 @@ msgid ""
 msgstr ""
 "Wygnaj co najwyżej pięć wskazanych kart stworów z cmentarzy. Przeciwnik "
 "dzieli owe karty na dwa stosy. Umieść wszystkie karty z wybranego przez "
-"ciebie stosu na polu walki pod twoim władaniem, a pozostałe do cmentarzy ich "
-"właścicieli."
+"ciebie stosu na polu walki pod twoim władaniem, a pozostałe w cmentarzach "
+"ich właścicieli."
 
 #: ../../XLN.rst:488
 msgid ""
@@ -1547,17 +1518,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:487
-#, fuzzy
-#| msgid ""
-#| "Destroy target creature. Create two colorless Treasure artifact tokens "
-#| "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "Destroy target creature. Create two Treasure tokens. (They're artifacts with "
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Zniszcz wskazanego stwora. Stwórz dwa żetony bezkolorowego artefaktu Skarb "
-"ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
-"\""
+"Zniszcz wskazanego stwora. Stwórz dwa żetony Skarbu. (To artefakty mające \""
+"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:494
 msgid ""
@@ -1569,7 +1535,7 @@ msgstr ""
 #: ../../XLN.rst:491
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru poświęć artefakt lub stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../XLN.rst:493
 msgid "Draw two cards."
@@ -1584,7 +1550,7 @@ msgstr ""
 
 #: ../../XLN.rst:497
 msgid "Dark Nourishment deals 3 damage to any target. You gain 3 life."
-msgstr "Ten czar zadaje 3 obrażenia w dowolny cel. Zyskujesz 3 życia."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia. Zyskaj 3 życia."
 
 #: ../../XLN.rst:502
 msgid ""
@@ -1598,7 +1564,7 @@ msgid ""
 "Raid — When Deadeye Tormentor enters the battlefield, if you attacked with a "
 "creature this turn, target opponent discards a card."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
 "tej turze, wskazany przeciwnik odrzuca kartę."
 
 #: ../../XLN.rst:506
@@ -1617,9 +1583,9 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_b|, |tap|: Wygnaj dwie wskazane karty z cmentarza "
 "przeciwnika. Ten stwór eksploruje. (Ujawnij wierzchnią kartę twojej "
-"biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym razie "
-"umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub umieść "
-"ją w twoim cmentarzu.)"
+"biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym razie "
+"umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:512
 msgid ""
@@ -1645,7 +1611,7 @@ msgstr ""
 
 #: ../../XLN.rst:515
 msgid "Desperate Castaways can't attack unless you control an artifact."
-msgstr "Ten stwór nie może atakować dopóki nie władasz artefaktem."
+msgstr "Ten stwór nie może atakować, chyba że władasz artefaktem."
 
 #: ../../XLN.rst:520
 msgid ""
@@ -1655,16 +1621,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:519
-#, fuzzy
-#| msgid ""
-#| "When Dire Fleet Hoarder dies, create a colorless Treasure artifact token "
-#| "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "When Dire Fleet Hoarder dies, create a Treasure token. (It's an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktu Skarb ze "
-"zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Kiedy ten stwór umrze, stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:526
 msgid ""
@@ -1684,10 +1646,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:532
 msgid ""
@@ -1705,8 +1667,8 @@ msgid ""
 "When Dire Fleet Ravager enters the battlefield, each player loses a third of "
 "their life, rounded up."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, każdy gracz traci jedną trzecią "
-"swojego życia, zaokrąglając wzwyż."
+"Kiedy ten stwór wejdzie na pole walki, każdy gracz traci jedną trzecią "
+"swoich żyć, zaokrąglając wzwyż."
 
 #: ../../XLN.rst:536
 msgid ""
@@ -1736,8 +1698,8 @@ msgid ""
 "Pirate, you may pay |mana_2|. If you do, create a 2/2 black Pirate creature "
 "token with menace."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli władasz innym nie-żetonowym Piratem, możesz "
-"zapłacić |mana_2|. Jeśli to zrobisz, stwórz żeton czarnego stwora Pirat 2/2 "
+"Ilekroć ten stwór atakuje, jeśli władasz innym nieżetonowym Piratem, możesz "
+"zapłacić |mana_2|. Jeśli tak zrobisz, stwórz żeton czarnego stwora Pirat 2/2 "
 "ze złowrogością."
 
 #: ../../XLN.rst:546
@@ -1752,8 +1714,8 @@ msgid ""
 "When Fathom Fleet Cutthroat enters the battlefield, destroy target creature "
 "an opponent controls that was dealt damage this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego władanego przez "
-"przeciwnika stwora, który otrzymał obrażenia w tej turze."
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego uszkodzonego w tej "
+"turze stwora pod władaniem przeciwnika."
 
 #: ../../XLN.rst:550
 msgid ""
@@ -1782,19 +1744,14 @@ msgid "Target opponent discards two cards."
 msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../XLN.rst:555
-#, fuzzy
-#| msgid ""
-#| "Raid — If you attacked with a creature this turn, create a colorless "
-#| "Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\""
 msgid ""
 "Raid — If you attacked with a creature this turn, create a Treasure token. "
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Najazd — Jeśli zaatakowałeś stworem w tej turze, stwórz żeton bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
-"dowolnego koloru.\""
+"Najazd — Jeśli zaatakowałeś stworem w tej turze, stwórz żeton Skarbu. (To "
+"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../XLN.rst:562
 msgid ""
@@ -1810,7 +1767,7 @@ msgid ""
 "until Kitesail Freebooter leaves the battlefield."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
-"rękę. Wybierz z niej kartę nie bądącą stworem ani lądem. Wygnaj ową kartę "
+"rękę. Wybierz z niej kartę nie będącą stworem ani lądem. Wygnaj ową kartę "
 "dopóki ta karta nie opuści pola walki."
 
 #: ../../XLN.rst:566
@@ -1826,7 +1783,7 @@ msgid ""
 "controls gets -2/-2 until end of turn."
 msgstr ""
 "Ilekroć stwór pod twoim władaniem eksploruje, wskazany stwór pod władaniem "
-"przeciwnika dostaje -2/-2 do końca tury."
+"przeciwnika dostaje do końca tury -2/-2."
 
 #: ../../XLN.rst:574
 msgid ""
@@ -1873,10 +1830,10 @@ msgid ""
 "a +1/+1 counter on this creature, then put the card back or put it into your "
 "graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:588
 msgid ""
@@ -1912,19 +1869,14 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:599
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature an opponent controls dies, create a colorless "
-#| "Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\""
 msgid ""
 "Whenever a creature an opponent controls dies, create a Treasure token. "
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Ilekroć stwór pod władaniem przeciwnika umrze, stwórz żeton bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
-"dowolnego koloru.\""
+"Ilekroć umrze stwór pod władaniem przeciwnika, stwórz żeton Skarbu. (To "
+"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../XLN.rst:601
 msgid ""
@@ -1949,7 +1901,7 @@ msgid ""
 msgstr ""
 "Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
 "turze, ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
-"Tracisz życie równe skróconemu kosztowi many owej karty."
+"Tracisz tyle żyć, ile wynosi skrócony koszt many owej karty."
 
 #: ../../XLN.rst:612
 msgid ""
@@ -1959,19 +1911,13 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:609
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|, Sacrifice a creature: Create two colorless Treasure "
-#| "artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of "
-#| "any color.\""
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice a creature: Create two Treasure tokens. "
 "(They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of "
 "any color.\")"
 msgstr ""
-"|mana_2|\\ |mana_b|, poświęć stwora: Stwórz dwa żetony bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
-"dowolnego koloru.\""
+"|mana_2|\\ |mana_b|, poświęć stwora: Stwórz dwa żetony Skarbu. (To artefakty "
+"mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:611
 msgid "Sacrifice three Treasures: Draw a card."
@@ -1989,8 +1935,8 @@ msgid ""
 "Whenever a Vampire you control attacks, each opponent loses 1 life and you "
 "gain 1 life."
 msgstr ""
-"Ilekroć atakuje Wampir pod twoim władaniem, każdy przeciwnik traci 1 życie, "
-"a ty zyskaj 1 życie."
+"Ilekroć atakuje Wampir pod twoim władaniem, każdy przeciwnik traci po 1 "
+"życiu, a ty zyskaj 1 życie."
 
 #: ../../XLN.rst:620
 msgid ""
@@ -2006,10 +1952,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:624
 msgid ""
@@ -2076,7 +2022,7 @@ msgid ""
 "that card into your hand unless any opponent pays 3 life. Then exile the "
 "rest."
 msgstr ""
-"Ujawnij trzy wierzchnie kartę twojej biblioteki. Za każdą z owych kart, "
+"Ujawnij trzy wierzchnie karty twojej biblioteki. Za każdą z owych kart, "
 "umieść ją w twojej ręce, chyba że którykolwiek przeciwnik zapłaci 3 życia. "
 "Następnie wygnaj pozostałe."
 
@@ -2100,7 +2046,7 @@ msgstr ""
 
 #: ../../XLN.rst:649
 msgid "Whenever Vicious Conquistador attacks, each opponent loses 1 life."
-msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci 1 życie."
+msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 1 życiu."
 
 #: ../../XLN.rst:654
 msgid ""
@@ -2111,7 +2057,7 @@ msgstr ""
 
 #: ../../XLN.rst:653
 msgid "Exile target creature or planeswalker. You gain 2 life."
-msgstr "Wygnaj wskazanego stwora lub wędrowca. Zyskujesz 2 życia."
+msgstr "Wygnaj wskazanego stwora lub wędrowca. Zyskaj 2 życia."
 
 #: ../../XLN.rst:658
 msgid ""
@@ -2122,7 +2068,7 @@ msgstr ""
 
 #: ../../XLN.rst:657
 msgid "Destroy target non-Merfolk creature."
-msgstr "Zniszcz wskazanego stwora nie będącego Wodnikiem."
+msgstr "Zniszcz wskazanego stwora bez typu Wodnik."
 
 #: ../../XLN.rst:662
 msgid ""
@@ -2132,19 +2078,14 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:661
-#, fuzzy
-#| msgid ""
-#| "When Wanted Scoundrels dies, target opponent creates two colorless "
-#| "Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\""
 msgid ""
 "When Wanted Scoundrels dies, target opponent creates two Treasure tokens. "
 "(They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of "
 "any color.\")"
 msgstr ""
-"Kiedy ten stwór umrze, wskazany przeciwnik tworzy dwa żetony bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
-"dowolnego koloru.\""
+"Kiedy ten stwór umrze, wskazany przeciwnik tworzy dwa żetony Skarbu. (To "
+"artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../XLN.rst:666
 msgid ""
@@ -2158,9 +2099,9 @@ msgid ""
 "If a source you control would deal damage to a permanent or player, it deals "
 "double that damage to that permanent or player instead."
 msgstr ""
-"Jeśli źródło pod twoim władaniem miałoby zadać obrażenia w permanent lub "
-"gracza, zamiast tego zadaje ono dwukrotność owych obrażeń w ów permanent lub "
-"gracza."
+"Jeśli źródło pod twoim władaniem miałoby zadać obrażenia permanentowi lub "
+"graczowi, zamiast tego zadaje ono owemu permanentowi lub graczowi "
+"dwukrotność owych obrażeń."
 
 #: ../../XLN.rst:670
 msgid ""
@@ -2191,10 +2132,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:680
 msgid ""
@@ -2208,8 +2149,9 @@ msgid ""
 "When Burning Sun's Avatar enters the battlefield, it deals 3 damage to "
 "target opponent or planeswalker and 3 damage to up to one target creature."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zadaje 3 obrażenia wskazanemu graczowi "
-"lub wędrocowi oraz 3 obrażenia co najwyżej jednemu wskazanemu stworowi."
+"Kiedy ta karta wejdzie na pole walki, zadaje wskazanemu graczowi lub "
+"wędrocowi 3 obrażenia oraz 3 obrażenia co najwyżej jednemu wskazanemu "
+"stworowi."
 
 #: ../../XLN.rst:688
 msgid ""
@@ -2219,23 +2161,18 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:685
-#, fuzzy
-#| msgid ""
-#| "Whenever Captain Lannery Storm attacks, create a colorless Treasure "
-#| "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
-#| "color.\""
 msgid ""
 "Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz żeton bezkolorowego artefaktu Skarb ze "
-"zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Ilekroć ten stwór atakuje, stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:687
 msgid ""
 "Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until "
 "end of turn."
-msgstr "Ilekroć poświęcasz Skarb, ten stwór dostaje +1/+0 do końca tury."
+msgstr "Ilekroć poświęcisz Skarb, ten stwór dostaje do końca tury +1/+0."
 
 #: ../../XLN.rst:692
 msgid ""
@@ -2250,7 +2187,7 @@ msgid ""
 "until end of turn. Untap that creature. It gains haste until end of turn. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_3|\\ |mana_r|: Zyskujesz władanie nad wskazanym stworem do końca tury. "
+"|mana_3|\\ |mana_r|: Zyskaj władanie nad wskazanym stworem do końca tury. "
 "Odkręć owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj jako obrzęd."
 
 #: ../../XLN.rst:696
@@ -2287,7 +2224,7 @@ msgid ""
 "Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain "
 "trample until end of turn."
 msgstr ""
-"Atakujące stwory dostają +2/+0 do końca tury. Dinozaury pod twoim władaniem "
+"Atakujące stwory dostają do końca tury +2/+0. Dinozaury pod twoim władaniem "
 "zyskują tratowanie do końca tury."
 
 #: ../../XLN.rst:708
@@ -2313,7 +2250,7 @@ msgstr ""
 #: ../../XLN.rst:711
 msgid ""
 "|mana_1|\\ |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../XLN.rst:716
 msgid ""
@@ -2324,7 +2261,7 @@ msgstr ""
 
 #: ../../XLN.rst:715
 msgid "Fiery Cannonade deals 2 damage to each non-Pirate creature."
-msgstr "Ten czar zadaje 2 obrażenia każdemu stworowi nie będącemu Piratem."
+msgstr "Ten czar zadaje każdemu stworowi bez typu Pirat po 2 obrażenia."
 
 #: ../../XLN.rst:722
 msgid ""
@@ -2338,8 +2275,8 @@ msgid ""
 "|mana_7|\\ |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage "
 "to each of up to two target creatures."
 msgstr ""
-"|mana_7|\\ |mana_r|, |tap|, poświęć tego stwora: Zadaje on 3 obrażenia "
-"każdemu z co najwyżej dwóch wskazanych stworów."
+"|mana_7|\\ |mana_r|, |tap|, poświęć tego stwora: Zadaje on każdemu z co "
+"najwyżej dwóch wskazanych stworów po 3 obrażenia."
 
 #: ../../XLN.rst:728
 msgid ""
@@ -2350,19 +2287,15 @@ msgstr ""
 
 #: ../../XLN.rst:725
 msgid "Firecannon Blast deals 3 damage to target creature."
-msgstr "Ten czar zadaje 3 obrażenia wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia."
 
 #: ../../XLN.rst:727
-#, fuzzy
-#| msgid ""
-#| "Raid — Firecannon Blast deals 6 damage to that creature instead if you "
-#| "attacked with a creature this turn."
 msgid ""
 "Raid — Firecannon Blast deals 6 damage instead if you attacked with a "
 "creature this turn."
 msgstr ""
-"Najazd — Ten czar zamiast tego zadaje 6 obrażeń owemu stworowi jeśli "
-"atakowałeś stworem w tej turze."
+"Najazd — Ten czar zamiast tego zadaje 6 obrażeń jeśli atakowałeś stworem w "
+"tej turze."
 
 #: ../../XLN.rst:730
 msgid ""
@@ -2398,8 +2331,8 @@ msgid ""
 "Gain control of target artifact or creature until end of turn. Untap it. It "
 "gains haste until end of turn."
 msgstr ""
-"Zyskujesz władaniem nad wskazanym artefaktem lub stworem do końca tury. "
-"Odkręć go. Zyskuje on pośpiech do końca tury."
+"Zyskaj do końca tury władaniem nad wskazanym artefaktem lub stworem. Odkręć "
+"go. Zyskuje on pośpiech do końca tury."
 
 #: ../../XLN.rst:746
 msgid ""
@@ -2421,11 +2354,11 @@ msgstr ""
 
 #: ../../XLN.rst:749
 msgid "|tap|: Lightning-Rig Crew deals 1 damage to each opponent."
-msgstr "|tap|: Ta karta zadaje 1 obrażenie każdemu przeciwnikowi."
+msgstr "|tap|: Ten stwór zadaje każdemu przeciwnikowi po1 obrażeniu."
 
 #: ../../XLN.rst:751
 msgid "Whenever you cast a Pirate spell, untap Lightning-Rig Crew."
-msgstr "Ilekroć rzucisz czar Pirata, odkręć tę kartę."
+msgstr "Ilekroć rzucisz czar Pirata, odkręć niniejszego stwora."
 
 #: ../../XLN.rst:756
 msgid ""
@@ -2439,8 +2372,8 @@ msgid ""
 "|mana_1|, Sacrifice an artifact or creature: Makeshift Munitions deals 1 "
 "damage to any target."
 msgstr ""
-"|mana_1|, poświęć artefakt lub stwora: Ta karta zadaje 1 obrażenie w dowolny "
-"cel."
+"|mana_1|, poświęć artefakt lub stwora: Ten urok zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../XLN.rst:760
 msgid ""
@@ -2476,8 +2409,8 @@ msgid ""
 "Whenever another creature enters the battlefield, Rampaging Ferocidon deals "
 "1 damage to that creature's controller."
 msgstr ""
-"Ilekroć inny stwór wchodzi na pole walki, ta karta zadaje 1 obrażenia władcy "
-"owego stwora."
+"Ilekroć inny stwór wejdzie na pole walki, niniejszy stwór zadaje władcy "
+"owego stwora 1 obrażenie."
 
 #: ../../XLN.rst:778
 msgid ""
@@ -2491,7 +2424,7 @@ msgid ""
 "Enrage — Whenever Raptor Hatchling is dealt damage, create a 3/3 green "
 "Dinosaur creature token with trample."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, stwórz żeton zielonego "
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, stwórz żeton zielonego "
 "stwora Dinozaur 3/3 z tratowaniem."
 
 #: ../../XLN.rst:784
@@ -2503,7 +2436,7 @@ msgstr ""
 
 #: ../../XLN.rst:781
 msgid "Repeating Barrage deals 3 damage to any target."
-msgstr "Ten czar zadaje 3 obrażenia w dowolny cel."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../XLN.rst:783
 msgid ""
@@ -2527,8 +2460,8 @@ msgid ""
 "Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it if "
 "you attacked with a creature this turn."
 msgstr ""
-"Najazd — Ta karta wchodzi na pole walki ze znacznikiem +1/+ jeśli atakowałeś "
-"stworem w tej turze."
+"Najazd — Ten stwór wchodzi na pole walki mając znacznik +1/+ jeśli "
+"atakowałeś stworem w tej turze."
 
 #: ../../XLN.rst:796
 msgid ""
@@ -2542,7 +2475,7 @@ msgid ""
 "Rile deals 1 damage to target creature you control. That creature gains "
 "trample until end of turn."
 msgstr ""
-"Ta karta zadaje 1 obrażenie wskazanemu stworowi pod twoim władaniem. Ów "
+"Ten czar zadaje wskazanemu stworowi pod twoim władaniem 1 obrażenie. Ów "
 "stwór zyskuje tratowanie do końca tury."
 
 #: ../../XLN.rst:802
@@ -2562,9 +2495,9 @@ msgid ""
 "cards at random. If two cards that share a card type are discarded this way, "
 "put two +1/+1 counters on Rowdy Crew."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, dobierz trzy karty, następnie odrzuć "
+"Kiedy ten stwór wejdzie na pole walki, dobierz trzy karty, następnie odrzuć "
 "losowo dwie karty. Jeśli dwie karty mające wspólny typ zostaną odrzucone w "
-"ten sposób, umieść dwa znaczniki +1/+1 na tej karcie."
+"ten sposób, umieść dwa znaczniki +1/+1 na tym stworze."
 
 #: ../../XLN.rst:806
 msgid ""
@@ -2589,8 +2522,8 @@ msgid ""
 "Destroy target land. Star of Extinction deals 20 damage to each creature and "
 "each planeswalker."
 msgstr ""
-"Zniszcz wskazany ląd. Ten czar zadaje po 20 obrażeń każdemu stworowi i "
-"wędrowcowi."
+"Zniszcz wskazany ląd. Ten czar zadaje każdemu stworowi i wędrowcowi po 20 "
+"obrażeń."
 
 #: ../../XLN.rst:814
 msgid ""
@@ -2604,7 +2537,7 @@ msgid ""
 "Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked "
 "with a creature this turn, target opponent sacrifices a permanent."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
 "tej turze, wskazany przeciwnik poświęca permanent."
 
 #: ../../XLN.rst:818
@@ -2620,8 +2553,8 @@ msgid ""
 "with a creature this turn, Storm Fleet Pyromancer deals 2 damage to any "
 "target."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, ta karta zadaje 2 obrażenia w dowolny cel."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../XLN.rst:822
 msgid ""
@@ -2635,8 +2568,8 @@ msgid ""
 "Enrage — Whenever Sun-Crowned Hunters is dealt damage, it deals 3 damage to "
 "target opponent or planeswalker."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zadaje on 3 obrażenia "
-"wskazanemu graczowi lub wędrowcowi."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, zadaje on wskazanemu "
+"graczowi lub wędrowcowi 3 obrażenia."
 
 #: ../../XLN.rst:826
 msgid ""
@@ -2706,8 +2639,8 @@ msgid ""
 "Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's "
 "Knight gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli władasz Dinozaurem, ten stwór dostaje +1/+1 "
-"do końca tury."
+"Ilekroć ten stwór atakuje, jeśli władasz Dinozaurem, ten stwór dostaje do "
+"końca tury +1/+1."
 
 #: ../../XLN.rst:850
 msgid ""
@@ -2721,8 +2654,8 @@ msgid ""
 "Whenever Tilonalli's Skinshifter attacks, it becomes a copy of another "
 "target nonlegendary attacking creature until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, staje się kopią innego wskazanego nielegendarnego "
-"atakujące stwora do końca tury."
+"Ilekroć ten stwór atakuje, staje się do końca tury kopią innego wskazanego "
+"nielegendarnego atakujące stwora."
 
 #: ../../XLN.rst:856
 msgid ""
@@ -2740,17 +2673,12 @@ msgstr ""
 "twoim władaniem przynajmniej jednym stworem, jeśli może."
 
 #: ../../XLN.rst:855
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, create a colorless Treasure artifact "
-#| "token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "At the beginning of your end step, create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Na początku twojego kroku końcowego, stwórz żeton bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\""
+"Na początku twojego kroku końcowego, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:860
 msgid ""
@@ -2761,7 +2689,7 @@ msgstr ""
 
 #: ../../XLN.rst:859
 msgid "Unfriendly Fire deals 4 damage to any target."
-msgstr "Ten czar zadaje 4 obrażenia w dowolny cel."
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../XLN.rst:866
 msgid ""
@@ -2805,7 +2733,8 @@ msgstr "|tap|: Weź |mana_r|."
 #: ../../XLN.rst:873
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target."
-msgstr "|mana_2|\\ |mana_r|, |tap|: Ta karta zadaje 3 obrażenia w dowolny cel."
+msgstr ""
+"|mana_2|\\ |mana_r|, |tap|: Ten ląd zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../XLN.rst:878
 msgid ""
@@ -2815,18 +2744,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:877
-#, fuzzy
-#| msgid ""
-#| "When Wily Goblin enters the battlefield, create a colorless Treasure "
-#| "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
-#| "color.\""
 msgid ""
 "When Wily Goblin enters the battlefield, create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:880
 msgid ""
@@ -2868,7 +2791,7 @@ msgid ""
 "control gain hexproof until end of turn. (They can't be the targets of "
 "spells or abilities your opponents control.)"
 msgstr ""
-"Zażegnaj wszystkie obrażenia, które mogłyby zostać zadane stworom w tej "
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane stworom w tej "
 "turze. Stwory pod twoim władaniem zyskują antyklątwę do końca tury. (Nie "
 "mogą być wskazywane przez czary lub zdolności władane przez twoich "
 "przeciwników.)"
@@ -2970,7 +2893,7 @@ msgstr ""
 "Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, możesz wygnać "
 "wskazaną kartę z cmentarza. Jeśli wygnano w ten sposób kartę stwora, zyskaj "
 "2 życia. Jeśli wygnano w ten sposób kartę nie będącą stworem, ten stwór "
-"dostaje +1/+1 do końca tury."
+"dostaje do końca tury +1/+1."
 
 #: ../../XLN.rst:930
 msgid ""
@@ -2997,7 +2920,7 @@ msgstr ""
 #: ../../XLN.rst:933
 msgid ""
 "Whenever Deeproot Warrior becomes blocked, it gets +1/+1 until end of turn."
-msgstr "Ilekroć ten stwór zostanie zablokowany, dostaje +1/+1 do końca tury."
+msgstr "Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +1/+1."
 
 #: ../../XLN.rst:940
 msgid ""
@@ -3026,7 +2949,7 @@ msgid ""
 "Target creature gets +5/+5 until end of turn and must be blocked this turn "
 "if able."
 msgstr ""
-"Wskazany stwór dostaje +5/+5 do końca tury i musi być blokowany w tej turze "
+"Wskazany stwór dostaje do końca tury +5/+5 i musi być blokowany w tej turze, "
 "jeśli to możliwe."
 
 #: ../../XLN.rst:948
@@ -3043,10 +2966,10 @@ msgid ""
 "land. Otherwise, put a +1/+1 counter on this creature, then put the card "
 "back or put it into your graveyard.)"
 msgstr ""
-"Ilekroć ten stwór zada bitewne obrażenia graczowi, eksploruje. (Ujawnij "
-"wierzchnią kartę twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to "
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, eksploruje. (Ujawnij "
+"wierzchnią kartę twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to "
 "ląd. W przeciwnym razie umieść znacznik +1/+1 na tym stworze, a następnie "
-"odłóż ową kartę lub umieść ją w twoim cmentarzu.)"
+"umieść ową kartę z powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:952
 msgid ""
@@ -3070,7 +2993,7 @@ msgid ""
 "put it into your hand. Put the rest on the bottom of your library in any "
 "order."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"Kiedy ten urok wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić ją w "
 "twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
 "kolejności."
@@ -3081,7 +3004,7 @@ msgid ""
 "transform Growing Rites of Itlimoc."
 msgstr ""
 "Na początku twojego kroku końcowego, jeśli władasz co najmniej czterema "
-"stworami, transformuj tę kartę."
+"stworami, transformuj ten urok."
 
 #: ../../XLN.rst:966
 msgid ""
@@ -3117,10 +3040,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:974
 msgid ""
@@ -3157,7 +3080,7 @@ msgid ""
 "When Jade Guardian enters the battlefield, put a +1/+1 counter on target "
 "Merfolk you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "Wodniku pod twoim władaniem."
 
 #: ../../XLN.rst:984
@@ -3199,10 +3122,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1000
 msgid ""
@@ -3220,7 +3143,7 @@ msgid ""
 "When New Horizons enters the battlefield, put a +1/+1 counter on target "
 "creature you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten urok wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../XLN.rst:999
@@ -3240,9 +3163,9 @@ msgid ""
 "their library for a basic land card, put it onto the battlefield tapped, "
 "then shuffle their library."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, każdy przeciwnik może poszukać w "
-"swojej bibliotece kartę bazowego lądu, położyć ją na polu walki przekręconą, "
-"następnie przetasować swoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik może wyszukać w "
+"swojej bibliotece kartę bazowego lądu, umieszcza ją na polu walki "
+"przekręconą, następnie tasuje swoją bibliotekę."
 
 #: ../../XLN.rst:1008
 msgid ""
@@ -3256,8 +3179,8 @@ msgid ""
 "Target creature you control fights target creature you don't control. (Each "
 "deals damage equal to its power to the other.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
-"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+"władaniem. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../XLN.rst:1012
 msgid ""
@@ -3272,9 +3195,9 @@ msgid ""
 "library for a basic land card, put it onto the battlefield tapped, then "
 "shuffle your library."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, możesz poszukać w "
-"twojej bibliotece kartę bazowego lądu, położyć ją przekręconą na polu walki, "
-"a następnie przetasować twoją bibliotekę."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, możesz wyszukać w twojej "
+"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu walki, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../XLN.rst:1016
 msgid ""
@@ -3286,7 +3209,7 @@ msgstr ""
 #: ../../XLN.rst:1015
 msgid ""
 "Enrage — Whenever Ravenous Daggertooth is dealt damage, you gain 2 life."
-msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zyskaj 2 życia."
+msgstr "Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, zyskaj 2 życia."
 
 #: ../../XLN.rst:1020
 msgid ""
@@ -3297,7 +3220,7 @@ msgstr ""
 
 #: ../../XLN.rst:1019
 msgid "Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card."
-msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, dobierz kartę."
+msgstr "Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, dobierz kartę."
 
 #: ../../XLN.rst:1024
 msgid ""
@@ -3325,8 +3248,8 @@ msgstr ""
 msgid ""
 "This spell costs |mana_2| less to cast if it targets a Dinosaur you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje |mana_2| mniej jeśli wskazuje on Dinozaura pod "
-"twoim władaniem."
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje on Dinozaura "
+"pod twoim władaniem."
 
 #: ../../XLN.rst:1029
 msgid ""
@@ -3350,8 +3273,8 @@ msgid ""
 "Whenever a creature you control becomes the target of a spell or ability an "
 "opponent controls, you may draw a card."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zostaje wskazany przez czar lub zdolność "
-"władne przez przeciwnika, możesz dobrać kartę."
+"Ilekroć stwór pod twoim władaniem zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, możesz dobrać kartę."
 
 #: ../../XLN.rst:1040
 msgid ""
@@ -3376,8 +3299,8 @@ msgid ""
 "Enrage — Whenever Snapping Sailback is dealt damage, put a +1/+1 counter on "
 "it. (It must survive the damage to get the counter.)"
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, umieść na nim znacznik "
-"+1/+1. (Musi przeżyć obrażenia, by otrzymać znacznik.)"
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, umieść na nim znacznik +1/"
+"+1. (Musi przeżyć obrażenia, by otrzymać znacznik.)"
 
 #: ../../XLN.rst:1050
 msgid ""
@@ -3422,10 +3345,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1066
 msgid ""
@@ -3439,8 +3362,8 @@ msgid ""
 "Until end of turn, target creature gains \"When this creature dies, return "
 "it to its owner's hand.\""
 msgstr ""
-"Wskazany stwór do końca tury zyskuje zdolność \"Kiedy ten stwór umrze, "
-"przywróć go do ręki jego właściciela.\""
+"Wskazany stwór do końca tury zyskuje \"Kiedy ten stwór umrze, przywróć go do "
+"ręki właściciela.\""
 
 #: ../../XLN.rst:1070
 msgid ""
@@ -3469,7 +3392,7 @@ msgid ""
 "When Vineshaper Mystic enters the battlefield, put a +1/+1 counter on each "
 "of up to two target Merfolk you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na każdym z co "
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym z co "
 "najwyżej dwóch wskazanych Wodników pod twoim władaniem."
 
 #: ../../XLN.rst:1078
@@ -3486,8 +3409,8 @@ msgid ""
 "land."
 msgstr ""
 "|mana_x|\\ |mana_g|\\ |mana_g|: Umieść X znaczników +1/+1 na wskazanym "
-"lądzie pod twoim władaniem. Ów ląd staje się stworem Elemental 0/0. Nadal "
-"jest on lądem."
+"lądzie pod twoim władaniem. Ów ląd staje się stworem Żywiołak 0/0 z "
+"pośpiechem. Nadal jest lądem."
 
 #: ../../XLN.rst:1082
 msgid ""
@@ -3501,8 +3424,8 @@ msgid ""
 "Whenever a creature you control explores, put a +1/+1 counter on Wildgrowth "
 "Walker and you gain 3 life."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem eksploruje, umieść znacznik +1/+1 na tym "
-"stworze, a ty zyskaj 3 życia."
+"Ilekroć stwór pod twoim władaniem eksploruje, umieść znacznik +1/+1 na "
+"niniejszym stworze i zyskaj 3 życia."
 
 #: ../../XLN.rst:1088
 msgid ""
@@ -3513,7 +3436,7 @@ msgstr ""
 
 #: ../../XLN.rst:1085
 msgid "Other Pirates you control get +1/+1."
-msgstr "Inny piraci pod twoim władaniem dostają +1/+1."
+msgstr "Inni Piraci pod twoim władaniem dostają +1/+1."
 
 #: ../../XLN.rst:1087
 msgid ""
@@ -3521,9 +3444,9 @@ msgid ""
 "controlled by a player who was dealt combat damage by three or more Pirates "
 "this turn."
 msgstr ""
-"Na początku twojego kroku końcowego zyskaj władanie nad wskazanym nie-"
-"lądowym permanentem władanym przez gracza, który otrzymał w tej turze "
-"obrażenia bojowe od co najmniej trzech Piratów."
+"Na początku twojego kroku końcowego zyskaj władanie nad wskazanym nielądowym "
+"permanentem pod władaniem gracza, który otrzymał w tej turze obrażenia "
+"bojowe od co najmniej trzech Piratów."
 
 #: ../../XLN.rst:1092
 msgid ""
@@ -3563,17 +3486,12 @@ msgid "Deadeye Plunderers gets +1/+1 for each artifact you control."
 msgstr "Ten stwór dostaje +1/+1 za każdy artefakt pod twoim władaniem."
 
 #: ../../XLN.rst:1101
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|\\ |mana_b|: Create a colorless Treasure artifact "
-#| "token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_b|: Create a Treasure token. (It's an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"|mana_2|\\ |mana_u|\\ |mana_b|: Stwórz żeton bezkolorowego artefaktu Skarb "
-"ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
-"\""
+"|mana_2|\\ |mana_u|\\ |mana_b|: Stwórz żeton Skarbu. (To artefakt mający \""
+"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:1106
 msgid ""
@@ -3608,9 +3526,9 @@ msgid ""
 "cards from among them onto the battlefield and the rest on the bottom of "
 "your library in a random order."
 msgstr ""
-"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, ujawnij tyle samo kart z "
-"wierzchy twojej biblioteki. Umieść spośród nich dowolną liczbę kart "
-"Dinozaurów na polu walki, a pozostałe na spodzie twojej biblioteki w losowej "
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ujawnij tyle samo kart z "
+"wierzchu twojej biblioteki. Umieść dowolną liczbę kart Dinozaurów spośród "
+"nich na polu walki, a pozostałe na spodzie twojej biblioteki w losowej "
 "kolejności."
 
 #: ../../XLN.rst:1116
@@ -3627,9 +3545,10 @@ msgid ""
 "for as long as it remains exiled, and you may spend mana as though it were "
 "mana of any type to cast that spell."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wygnaj innego wskazanego stwora lub "
-"artefakt dopóki ta karta nie opuści pola walki. Możesz rzucać ową kartę o "
-"ile pozostaje wygnana wydając manę tak, jakby była maną dowolnego koloru."
+"Kiedy ten stwór wejdzie na pole walki, wygnaj innego wskazanego stwora lub "
+"artefakt dopóki niniejszy stwór nie opuści pola walki. Możesz rzucić ową "
+"kartę o ile pozostaje ona wygnana wydając manę tak, jakby była maną "
+"dowolnego koloru."
 
 #: ../../XLN.rst:1124
 msgid ""
@@ -3642,8 +3561,7 @@ msgstr ""
 msgid ""
 "+2: You gain life equal to the greatest power among creatures you control."
 msgstr ""
-"+2: Zyskujesz życie równe najwyższej sile spośród stworów pod twoim "
-"władaniem."
+"+2: Zyskaj życie równe najwyższej sile spośród stworów pod twoim władaniem."
 
 #: ../../XLN.rst:1121
 msgid "0: Create a 3/3 green Dinosaur creature token with trample."
@@ -3655,9 +3573,9 @@ msgid ""
 "number of target creatures. Creatures dealt damage this way can't block this "
 "turn."
 msgstr ""
-"–X: Ten wędrowiec zadaje X obrażeń rozdzielonych według twojego wyboru "
-"pomiędzy dowolną liczbę wskazanych stworów. Stwory, które otrzymały "
-"obrażenia w ten sposób, nie mogą blokować w tej turze."
+"–X: Ten wędrowiec zadaje X obrażeń rozdzielonych dowolnie pomiędzy dowolną "
+"liczbę wskazanych stworów. Stwory uszkodzone w ten sposób nie mogą blokować "
+"w tej turze."
 
 #: ../../XLN.rst:1128
 msgid ""
@@ -3686,8 +3604,8 @@ msgid ""
 "When Raging Swordtooth enters the battlefield, it deals 1 damage to each "
 "other creature."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zadaje 1 obrażenie każdemu innemu "
-"stworowi."
+"Kiedy ten stwór wejdzie na pole walki, zadaje on każdemu innemu stworowi po "
+"1 obrażeniu."
 
 #: ../../XLN.rst:1140
 msgid ""
@@ -3698,15 +3616,15 @@ msgstr ""
 
 #: ../../XLN.rst:1137
 msgid "Other Dinosaurs you control have haste."
-msgstr "Inne dinozaury pod twoim władaniem mają pośpiech."
+msgstr "Inne Dinozaury pod twoim władaniem mają pośpiech."
 
 #: ../../XLN.rst:1139
 msgid ""
 "When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur "
 "creature token with trample."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton zielonego stwora Dinozaur "
-"3/3 z tratowaniem."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora "
+"Dinozaur 3/3 z tratowaniem."
 
 #: ../../XLN.rst:1146
 msgid ""
@@ -3750,7 +3668,7 @@ msgid ""
 "Tishana, Voice of Thunder's power and toughness are each equal to the number "
 "of cards in your hand."
 msgstr ""
-"Siła oraz wytrzymałość tego stwora są obie równe liczbie kart w twojej ręce."
+"Siła oraz wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../XLN.rst:1155
 msgid "You have no maximum hand size."
@@ -3761,7 +3679,7 @@ msgid ""
 "When Tishana enters the battlefield, draw a card for each creature you "
 "control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, dobierz kartę za każdego stwora pod "
+"Kiedy ten stwór wejdzie na pole walki, dobierz kartę za każdego stwora pod "
 "twoim władaniem."
 
 #: ../../XLN.rst:1164
@@ -3780,8 +3698,8 @@ msgid ""
 "|tap|, Pay 7 life: Destroy target nonland permanent. Activate this ability "
 "only during your turn."
 msgstr ""
-"|tap|, zapłać 7 życia: Zniszcz wskazany nie-lądowy permanent. Aktywuj tę "
-"zdolność tylko podczas twojej tury."
+"|tap|, zapłać 7 życia: Zniszcz wskazany nielądowy permanent. Możesz "
+"aktywować tę zdolność tylko podczas twojej tury."
 
 #: ../../XLN.rst:1172
 msgid ""
@@ -3795,19 +3713,14 @@ msgid "+2: Create a 2/2 black Pirate creature token with menace."
 msgstr "+2: Stwórz żeton czarnego stwora Pirat 2/2 ze złowrogością."
 
 #: ../../XLN.rst:1169
-#, fuzzy
-#| msgid ""
-#| "−3: Destroy target artifact, creature, or enchantment. Create a colorless "
-#| "Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\""
 msgid ""
 "−3: Destroy target artifact, creature, or enchantment. Create a Treasure "
 "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\")"
 msgstr ""
-"–3: Zniszcz wskazany artefakt, stwora lub urok. Stwórz żeton bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
-"dowolnego koloru.\""
+"–3: Zniszcz wskazany artefakt, stwora lub urok. Stwórz żeton Skarbu. (To "
+"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../XLN.rst:1171
 msgid "−10: Target player's life total becomes 1."
@@ -3830,7 +3743,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../XLN.rst:1184
 msgid ""
@@ -3845,8 +3758,8 @@ msgid ""
 "When Conqueror's Galleon attacks, exile it at end of combat, then return it "
 "to the battlefield transformed under your control."
 msgstr ""
-"Kiedy ten stwór atakuje, wygnaj go na końcu walki, następnie przywróć go na "
-"pole walki pod twoim władaniem, transformowany."
+"Kiedy ten stwór atakuje, wygnaj go na końcu walki, następnie przywróć go "
+"transformowanego na pole walki pod twoim władaniem."
 
 #: ../../XLN.rst:1183
 msgid ""
@@ -3854,7 +3767,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 4: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../XLN.rst:1196
 msgid ""
@@ -3898,8 +3811,8 @@ msgid ""
 "When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 "
 "green Plant creature tokens with defender."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik tworzy dwa  żetony "
-"zielonego stwora Roślina 0/2 z obronnością."
+"Kiedy ten artefakt wejdzie na pole walki, wskazany przeciwnik tworzy dwa "
+"żetony zielonego stwora Roślina 0/2 z obronnością."
 
 #: ../../XLN.rst:1201 ../../XLN.rst:1255
 msgid "Equipped creature gets +2/+1."
@@ -3910,7 +3823,7 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, you may "
 "transform Dowsing Dagger."
 msgstr ""
-"Ilekroć wyposażony stwór zadaje graczowi obrażenia bojowe, możesz "
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, możesz "
 "transformować tę kartę."
 
 #: ../../XLN.rst:1205
@@ -3945,7 +3858,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 2: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../XLN.rst:1226
 msgid ""
@@ -3956,11 +3869,11 @@ msgstr ""
 
 #: ../../XLN.rst:1221
 msgid "Elaborate Firecannon doesn't untap during your untap step."
-msgstr "Ta karta nie odkręca się w twoim kroku odkręcania."
+msgstr "Ten artefakt nie odkręca się w twoim kroku odkręcania."
 
 #: ../../XLN.rst:1223
 msgid "|mana_4|, |tap|: Elaborate Firecannon deals 2 damage to any target."
-msgstr "|mana_4|, |tap|: Ta karta zadaje 2 obrażenia w dowolny cel."
+msgstr "|mana_4|, |tap|: Ten artefakt zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../XLN.rst:1225
 msgid ""
@@ -3986,7 +3899,7 @@ msgid ""
 "Whenever Fell Flagship deals combat damage to a player, that player discards "
 "a card."
 msgstr ""
-"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, ów gracz odrzuca kartę."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
 
 #: ../../XLN.rst:1233
 msgid ""
@@ -3994,7 +3907,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 3: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 3: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../XLN.rst:1236
 msgid ""
@@ -4015,8 +3928,8 @@ msgid ""
 "When Hierophant's Chalice enters the battlefield, target opponent loses 1 "
 "life and you gain 1 life."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik traci 1 życie, a "
-"ty zyskaj 1 życie."
+"Kiedy ten artefakt wejdzie na pole walki, wskazany przeciwnik traci 1 życie, "
+"a ty zyskaj 1 życie."
 
 #: ../../XLN.rst:1250
 msgid ""
@@ -4049,7 +3962,7 @@ msgid ""
 "When Pirate's Cutlass enters the battlefield, attach it to target Pirate you "
 "control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, dołącz ją do wskazanego Pirata pod "
+"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego Pirata pod "
 "twoim władaniem."
 
 #: ../../XLN.rst:1257 ../../XLN.rst:1277
@@ -4058,7 +3971,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Używaj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../XLN.rst:1264
 msgid ""
@@ -4069,7 +3982,7 @@ msgstr ""
 
 #: ../../XLN.rst:1261
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../XLN.rst:1263
 msgid ""
@@ -4077,9 +3990,9 @@ msgid ""
 "Primal Amulet. Then if there are four or more charge counters on it, you may "
 "remove those counters and transform it."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik ładunku na tej "
-"karcie. Następnie jeśli ma ona cztery lub więcej znaczników ładunku możesz "
-"usunąć owe znaczniki i transformować ją."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik ładunku na tym "
+"artefakcie. Następnie jeśli ma on cztery lub więcej znaczników ładunku, "
+"możesz usunąć owe znaczniki i transformować go."
 
 #: ../../XLN.rst:1270
 msgid ""
@@ -4099,7 +4012,7 @@ msgid ""
 "copy."
 msgstr ""
 "|tap|: Weź jedną manę dowolnego koloru. Kiedy owa mana zostaje wydana na "
-"rzucenie czaru sztuczki lub obrzędu, skopiuj ów czar, możesz wybrać nowe "
+"rzucenie czaru sztuczki lub obrzędu, skopiuj ów czar i możesz wskazać nowe "
 "cele dla kopii."
 
 #: ../../XLN.rst:1278
@@ -4114,19 +4027,14 @@ msgid "Equipped creature gets +1/+0."
 msgstr "Wyposażony stwór dostaje +1/+0."
 
 #: ../../XLN.rst:1275
-#, fuzzy
-#| msgid ""
-#| "Whenever equipped creature deals combat damage to a player, create a "
-#| "colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: "
-#| "Add one mana of any color.\""
 msgid ""
 "Whenever equipped creature deals combat damage to a player, create a "
 "Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add "
 "one mana of any color.\")"
 msgstr ""
-"Ilekroć wyposażony stwór zadaje graczowi obrażenia bojowe, stwórz żeton "
-"bezkolorowego artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: "
-"Weź jedną manę dowolnego koloru.\""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, stwórz żeton "
+"Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\")"
 
 #: ../../XLN.rst:1284
 msgid ""
@@ -4140,8 +4048,9 @@ msgid ""
 "When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
+"Kiedy ten artefakt wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
+"biblioteki.)"
 
 #: ../../XLN.rst:1283
 msgid "|tap|, Exile Sentinel Totem: Exile all cards from all graveyards."
@@ -4160,8 +4069,8 @@ msgid ""
 "Whenever a creature you control explores, put a +1/+1 counter on Shadowed "
 "Caravel."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem eksploruje, umieść znacznik +1/+1 na tej "
-"karcie."
+"Ilekroć stwór pod twoim władaniem eksploruje, umieść znacznik +1/+1 na tym "
+"permanencie."
 
 #: ../../XLN.rst:1294
 msgid ""
@@ -4176,7 +4085,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 1: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
 
 #: ../../XLN.rst:1300
 msgid ""
@@ -4191,7 +4100,7 @@ msgid ""
 "then choose any card name."
 msgstr ""
 "Umieszczając tę kartę na polu walki, spójrz na rękę przeciwnika, następnie "
-"wybierz dowolną nazwę karty."
+"nazwij kartę."
 
 #: ../../XLN.rst:1299
 msgid ""
@@ -4213,7 +4122,7 @@ msgid ""
 "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put "
 "it into your hand, then shuffle your library."
 msgstr ""
-"|mana_3|, |tap|: Poszukaj w twojej bibliotece kartę bazowego lądu, ujawnij "
+"|mana_3|, |tap|: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij "
 "ją, umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../XLN.rst:1305
@@ -4251,12 +4160,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1317
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|: Scry 1. Put a landmark counter on Treasure Map. Then if "
-#| "there are three or more landmark counters on it, remove those counters, "
-#| "transform Treasure Map, and create three colorless Treasure artifact "
-#| "tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "|mana_1|, |tap|: Scry 1. Put a landmark counter on Treasure Map. Then if "
 "there are three or more landmark counters on it, remove those counters, "
@@ -4265,9 +4168,8 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|: Wróż 1. Umieść znacznik orientacji na tym artefakcie. "
 "Następnie jeśli są na nim trzy znaczniki orientacji, usuń owe znaczniki, "
-"transformuj ten artefakt i stwórz trzy żetony bezkolorowego artefaktu Skarb "
-"ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
-"\""
+"transformuj ten artefakt i stwórz trzy żeton Skarbu. (To artefakty mające \""
+"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:1326
 msgid ""
@@ -4278,7 +4180,7 @@ msgstr ""
 
 #: ../../XLN.rst:1321
 msgid "(Transforms from Treasure Map.)"
-msgstr "(Transformuje się z Mapy Skarbów.)"
+msgstr "(Transformuje z Treasure Map.)"
 
 #: ../../XLN.rst:1325
 msgid "|tap|, Sacrifice a Treasure: Draw a card."
@@ -4315,7 +4217,7 @@ msgid ""
 "Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
 "or a Mountain."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Bagnem lub Górą."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Bagnem lub Górą."
 
 #: ../../XLN.rst:1339
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4333,8 +4235,7 @@ msgid ""
 "Drowned Catacomb enters the battlefield tapped unless you control an Island "
 "or a Swamp."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Wyspą lub "
-"Bagnem."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Wyspą lub Bagnem."
 
 #: ../../XLN.rst:1345
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4369,7 +4270,7 @@ msgid ""
 "Glacial Fortress enters the battlefield tapped unless you control a Plains "
 "or an Island."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Równiną lub "
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Równiną lub "
 "Wyspą."
 
 #: ../../XLN.rst:1357
@@ -4388,7 +4289,7 @@ msgid ""
 "Rootbound Crag enters the battlefield tapped unless you control a Mountain "
 "or a Forest."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Górą lub Lasem."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Górą lub Lasem."
 
 #: ../../XLN.rst:1363
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4406,7 +4307,7 @@ msgid ""
 "Sunpetal Grove enters the battlefield tapped unless you control a Forest or "
 "a Plains."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Lasem lub "
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Lasem lub "
 "Równiną."
 
 #: ../../XLN.rst:1369
@@ -4507,7 +4408,7 @@ msgstr "+1: Odkręć wszystkie stwory pod twoim władaniem."
 
 #: ../../XLN.rst:1411
 msgid "−9: Gain control of up to three target creatures."
-msgstr "–9: Zyskujesz władaniem nad co najwyżej trzema wskazanymi stworami."
+msgstr "–9: Zyskaj władanie nad co najwyżej trzema wskazanymi stworami."
 
 #: ../../XLN.rst:1420
 msgid ""
@@ -4518,7 +4419,7 @@ msgstr ""
 
 #: ../../XLN.rst:1417
 msgid "When Castaway's Despair enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ta karta wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../XLN.rst:1419
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -4541,7 +4442,7 @@ msgid ""
 "Mage, reveal it, and put it into your hand. If you searched your library "
 "this way, shuffle it."
 msgstr ""
-"Poszukaj w twojej bibliotece oraz/lub cmentarzu kartę o nazwie Jace, "
+"Wyszukaj w twojej bibliotece oraz/lub cmentarzu kartę o nazwie Jace, "
 "Ingenious Mind-Mage, ujawnij ją i umieść w twojej ręce. Jeśli przeszukiwałeś "
 "twoją bibliotekę w ten sposób, przetasuj ją."
 
@@ -4598,7 +4499,7 @@ msgstr ""
 
 #: ../../XLN.rst:1443
 msgid "−7: Dinosaurs you control get +4/+4 until end of turn."
-msgstr "–7: Dinozaury pod twoim władaniem dostają +4/+4 do końca tury."
+msgstr "–7: Dinozaury pod twoim władaniem dostają do końca tury +4/+4."
 
 #: ../../XLN.rst:1448
 msgid ""
@@ -4623,8 +4524,8 @@ msgid ""
 "Target creature gets +2/+0 until end of turn. If you control a Huatli "
 "planeswalker, that creature gets +4/+0 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje +2/+0 do końca tury. Jeśli władasz wędrowcem o type "
-"Huatli, zamiast tego ów stwór dostaje +4/+0 do końca tury."
+"Wskazany stwór dostaje do końca tury +2/+0. Jeśli władasz wędrowcem o typie "
+"Huatli, zamiast tego ów stwór dostaje do końca tury +4/+0."
 
 #: ../../XLN.rst:1456
 msgid ""
@@ -4639,9 +4540,9 @@ msgid ""
 "and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then "
 "put it into your hand. If you searched your library this way, shuffle it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"oraz/lub cmentarzu kartę o nazwie Huatli, Dinosaur Knight, ujawnić ją, "
-"następnie umieścić w twojej ręce. Jeśli przeszukiwałeś twoją bibliotekę w "
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"oraz/lub cmentarzu kartę o nazwie Huatli, Dinosaur Knight, ujawnij ją, "
+"następnie umieść ją w twojej ręce. Jeśli przeszukiwałeś twoją bibliotekę w "
 "ten sposób, przetasuj ją."
 
 #: ../../XLN.rst:1461
