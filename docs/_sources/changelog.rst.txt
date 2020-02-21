@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2020-02-21
+   * Zaktualizowane tłumaczenia: XLN
+
 2020-02-20
    * Amonkhet - 100%
    * Hour of Devastation - 100% + aktualizacja
