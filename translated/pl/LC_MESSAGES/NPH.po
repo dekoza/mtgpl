@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-22 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/nph/"
 "pl/>\n"
@@ -641,8 +641,9 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../NPH.rst:207
+#, fuzzy
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy Baleful Strix wejdzie na pole walki, dobierz kartę."
 
 #: ../../NPH.rst:209
 msgid "Untap target permanent you control."

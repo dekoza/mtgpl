@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:52+0000\n"
+"PO-Revision-Date: 2020-02-22 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/grn/"
 "pl/>\n"
@@ -125,7 +125,7 @@ msgid ""
 "permanent an opponent controls until Conclave Tribunal leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ten urok wchodzi na pole walki, wygnaj wskazany nie-lądowy permanent "
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
 "dopóki ten urok nie opuści pola walki."
 
 #: ../../GRN.rst:44
@@ -292,7 +292,7 @@ msgid ""
 "When Intrusive Packbeast enters the battlefield, tap up to two target "
 "creatures your opponents control."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, przekręć co najwyżej dwa wskazane "
+"Kiedy ten stwór wejdzie na pole walki, przekręć co najwyżej dwa wskazane "
 "stwory pod władaniem przeciwnika."
 
 #: ../../GRN.rst:96
@@ -336,7 +336,7 @@ msgstr ""
 
 #: ../../GRN.rst:109
 msgid "When Loxodon Restorer enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wchodzi na pole walki, ty zyskaj 4 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, ty zyskaj 4 życia."
 
 #: ../../GRN.rst:116
 msgid ""
@@ -451,7 +451,7 @@ msgid ""
 "When Tenth District Guard enters the battlefield, target creature gets +0/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, wskazany stwór dostaje +0/+1 do końca "
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje +0/+1 do końca "
 "tury."
 
 #: ../../GRN.rst:160
@@ -466,7 +466,7 @@ msgid ""
 "When Venerated Loxodon enters the battlefield, put a +1/+1 counter on each "
 "creature that convoked it."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, umieść znacznik +1/+1 na każdym "
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym "
 "stworze, który przy nim współpracował."
 
 #: ../../GRN.rst:170
@@ -482,7 +482,7 @@ msgstr "Błysk"
 
 #: ../../GRN.rst:167
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wchodzi na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../GRN.rst:169
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -655,7 +655,7 @@ msgid ""
 "When Guild Summit enters the battlefield, you may tap any number of untapped "
 "Gates you control. Draw a card for each Gate tapped this way."
 msgstr ""
-"Kiedy ten ląd wchodzi na pole walki, możesz przekręcić dowolną liczbę "
+"Kiedy ten ląd wejdzie na pole walki, możesz przekręcić dowolną liczbę "
 "odznaczonych Bram, którymi władasz. Dobierz kartę za każdą Bramę przekręconą "
 "w ten sposób."
 
@@ -733,7 +733,7 @@ msgstr ""
 
 #: ../../GRN.rst:247
 msgid "When Muse Drake enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wchodzi na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../GRN.rst:254
 msgid ""
@@ -975,7 +975,7 @@ msgid ""
 "When Blood Operative enters the battlefield, you may exile target card from "
 "a graveyard."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, możesz wygnać wskazaną kartę z "
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazaną kartę z "
 "dowolnego cmentarza."
 
 #: ../../GRN.rst:339
@@ -995,7 +995,7 @@ msgstr ""
 
 #: ../../GRN.rst:343
 msgid "When Burglar Rat enters the battlefield, each opponent discards a card."
-msgstr "Kiedy ten stwór wchodzi na pole walki, każdy przeciwnik odrzuca kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik odrzuca kartę."
 
 #: ../../GRN.rst:348
 msgid ""
@@ -1736,7 +1736,7 @@ msgid ""
 "When Rubblebelt Boar enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, wskazany stwór dostaje +2/+0 do końca "
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje +2/+0 do końca "
 "tury."
 
 #: ../../GRN.rst:610
@@ -1938,7 +1938,7 @@ msgid ""
 "a basic land card or Gate card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu lub Bramę, ujawnić ją, dołożyć do twojej ręki, a "
 "następnie przetasować bibliotekę."
 
@@ -1951,7 +1951,7 @@ msgstr ""
 
 #: ../../GRN.rst:679
 msgid "When Generous Stray enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wchodzi na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../GRN.rst:686
 msgid ""
@@ -2035,7 +2035,7 @@ msgid ""
 "When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../GRN.rst:710
@@ -3247,8 +3247,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
-"lądem. Ów gracz odrzuca ową kartę."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądowę kartę. Ów "
+"gracz odrzuca ową kartę."
 
 #: ../../GRN.rst:1119
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-22 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/som/"
 "pl/>\n"
@@ -308,7 +308,7 @@ msgstr ""
 
 #: ../../SOM.rst:105
 msgid "Target creature gets +1/+1 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+1 oraz pierwszy cios."
 
 #: ../../SOM.rst:110
 msgid ""
@@ -2549,10 +2549,13 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:935
+#, fuzzy
 msgid ""
 "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr "
 "artifact creature tokens."
 msgstr ""
+"Kiedy Kwasowy Szlam wejdzie na pole walki, zniszcz wskazany artefakt, urok "
+"albo ląd."
 
 #: ../../SOM.rst:937
 msgid ""

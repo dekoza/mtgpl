@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:52+0000\n"
+"PO-Revision-Date: 2020-02-22 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/isd/"
 "pl/>\n"
@@ -479,10 +479,8 @@ msgstr ""
 
 # 17e9b2aa69f24df2a809f3883ce36609
 #: ../../ISD.rst:139
-#, fuzzy
 msgid "As Nevermore enters the battlefield, choose a nonland card name."
-msgstr ""
-"Kiedy Klaustrofobia wchodzi na pole walki, przekręć zauroczonego stwora."
+msgstr "Umieszczając ten urok na polu walki nazwij nielądową kartę."
 
 #: ../../ISD.rst:141
 msgid "Spells with the chosen name can't be cast."

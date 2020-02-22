@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-22 11:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m10/"
 "pl/>\n"
@@ -2913,10 +2913,14 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:1095
+#, fuzzy
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
 "land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
+"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
+"swojej ręki, a następnie przetasować twoją bibliotekę."
 
 #: ../../M10.rst:1100
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/m10/230.jpg?1517813031|https://scryfall.com/card/m10/230/plains?utm_source=api>`"

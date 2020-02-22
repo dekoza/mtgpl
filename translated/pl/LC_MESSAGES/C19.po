@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-22 11:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -2645,8 +2645,12 @@ msgid ":mtgtip:`Armillary Sphere<https://img.scryfall.com/cards/border_crop/fron
 msgstr ""
 
 #: ../../C19.rst:1237
+#, fuzzy
 msgid "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library."
 msgstr ""
+"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
+"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
+"swojej ręki, a następnie przetasować twoją bibliotekę."
 
 #: ../../C19.rst:1244
 msgid ":mtgtip:`Azorius Locket<https://img.scryfall.com/cards/border_crop/front/6/c/6cdb0b3a-cf96-40d1-b3d2-2d87f6763097.jpg?1568004880|https://scryfall.com/card/c19/210/azorius-locket?utm_source=api>`"
@@ -3502,8 +3506,12 @@ msgid ":mtgtip:`Terramorphic Expanse<https://img.scryfall.com/cards/border_crop/
 msgstr ""
 
 #: ../../C19.rst:1693
+#, fuzzy
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
+"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
+"swojej ręki, a następnie przetasować twoją bibliotekę."
 
 #: ../../C19.rst:1700
 msgid ":mtgtip:`Thespian's Stage<https://img.scryfall.com/cards/border_crop/front/9/5/954c7792-c147-401d-bbe5-f1773ae3b301.jpg?1568005441|https://scryfall.com/card/c19/282/thespians-stage?utm_source=api>`"

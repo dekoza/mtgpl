@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-22 11:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rix/"
 "pl/>\n"
@@ -21,9 +21,8 @@ msgstr ""
 "X-Generator: Weblate 3.10.3\n"
 
 #: ../../RIX.rst:5
-#, fuzzy
 msgid ":mtgexp:`RIX` Rivals of Ixalan"
-msgstr ":mtgexp:`RIX` Rivals of Ixalan"
+msgstr ":mtgexp:`RIX` Rivals of Ixalan (Rywale z Ixalanu)"
 
 #: ../../RIX.rst:12
 msgid ""
@@ -37,16 +36,16 @@ msgid ""
 "When Baffling End enters the battlefield, exile target creature an opponent "
 "controls with converted mana cost 3 or less."
 msgstr ""
-"Kiedy ten urok wchodzi na pole walki, wygnaj wskazanego stwora o skróconym "
-"koszcie many 3 lub mniej spod władania przeciwnika."
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego stwora o skróconym "
+"koszcie many 3 lub mniejszym pod władaniem przeciwnika."
 
 #: ../../RIX.rst:11
 msgid ""
 "When Baffling End leaves the battlefield, target opponent creates a 3/3 "
 "green Dinosaur creature token with trample."
 msgstr ""
-"Kiedy ten urok opuszcza pole bitwy, wskazany przeciwnik tworzy żeton "
-"zielonego stwora Dinozaur 3/3 z tratowaniem."
+"Kiedy ten urok opuści pole bitwy, wskazany przeciwnik tworzy żeton zielonego "
+"stwora Dinozaur 3/3 z tratowaniem."
 
 #: ../../RIX.rst:18
 msgid ""
@@ -123,7 +122,7 @@ msgstr ""
 #: ../../RIX.rst:37
 msgid "Prevent all combat damage that would be dealt to Everdawn Champion."
 msgstr ""
-"Zażegnaj wszelkie obrażenia bitewne, jakie mogłyby być zadane temu stworowi."
+"Zażegnaj wszelkie obrażenia bojowe, jakie mogłyby być zadane temu stworowi."
 
 #: ../../RIX.rst:42
 msgid ""
@@ -148,11 +147,11 @@ msgstr ""
 
 #: ../../RIX.rst:45
 msgid "Famished Paladin doesn't untap during your untap step."
-msgstr "Ten stwór nie odznacza się w twoim kroku odkręcania."
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../RIX.rst:47
 msgid "Whenever you gain life, untap Famished Paladin."
-msgstr "Ilekroć zyskasz życia, odznacz tego stwora."
+msgstr "Ilekroć zyskasz życia, odkręć tego stwora."
 
 #: ../../RIX.rst:54
 msgid ""
@@ -167,8 +166,8 @@ msgid ""
 "library for a Vampire card, reveal it, then shuffle your library and put "
 "that card on top of it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz poszukać kartę Wampira w twojej "
-"bibliotece, ujawnić ją, a następnie przetasować twoją biblioteką i umieścić "
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę Wampira, ujawnij ją, następnie przetasuj twoją biblioteką i umieścić "
 "ową kartę na jej wierzchu."
 
 #: ../../RIX.rst:53
@@ -176,8 +175,8 @@ msgid ""
 "Whenever another Vampire enters the battlefield under your control, target "
 "creature gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny Wampir wchodzi na pole walki pod twoje władanie, wskazany stwór "
-"dostaje +1/+1 do końca tury."
+"Ilekroć inny Wampir wejdzie na pole walki pod twoim władaniem, wskazany "
+"stwór dostaje do końca tury +1/+1."
 
 #: ../../RIX.rst:58
 msgid ""
@@ -188,7 +187,7 @@ msgstr ""
 
 #: ../../RIX.rst:57
 msgid "Enrage — Whenever Imperial Ceratops is dealt damage, you gain 2 life."
-msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zyskaj 2 życia."
+msgstr "Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, zyskaj 2 życia."
 
 #: ../../RIX.rst:62
 msgid ""
@@ -250,8 +249,7 @@ msgid ""
 "When Martyr of Dusk dies, create a 1/1 white Vampire creature token with "
 "lifelink."
 msgstr ""
-"Kiedy ten stwór umiera, stwórz żeton białego stwora Wampir 1/1 z więzią "
-"życia."
+"Kiedy ten stwór umrze, stwórz żeton białego stwora Wampir 1/1 z więzią życia."
 
 #: ../../RIX.rst:82
 msgid ""
@@ -262,7 +260,7 @@ msgstr ""
 
 #: ../../RIX.rst:81
 msgid "Target creature gets +2/+2 until end of turn. You gain 2 life."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Zyskaj 2 życia."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2. Zyskaj 2 życia."
 
 #: ../../RIX.rst:88
 msgid ""
@@ -281,7 +279,7 @@ msgstr ""
 
 #: ../../RIX.rst:87
 msgid "When Paladin of Atonement dies, you gain life equal to its toughness."
-msgstr "Kiedy ten stwór umiera, zyskaj życie równe jego wytrzymałości."
+msgstr "Kiedy ten stwór umrze, zyskaj życia równe jego wytrzymałości."
 
 #: ../../RIX.rst:94
 msgid ""
@@ -309,7 +307,7 @@ msgid ""
 "blessing, those creatures get +2/+2 until end of turn instead."
 msgstr ""
 "Stwory pod twoim władaniem dostają +1/+1 do końca tury. Jeśli masz "
-"błogosławieństwo miasta, owe stwory dostają zamiast tego +2/+2 do końca tury."
+"błogosławieństwo miasta, zamiast tego owe stwory dostają do końca tury +2/+2."
 
 #: ../../RIX.rst:102
 msgid ""
@@ -320,15 +318,15 @@ msgstr ""
 
 #: ../../RIX.rst:99
 msgid "As Radiant Destiny enters the battlefield, choose a creature type."
-msgstr "Podczas umieszczania tej karty na polu walki wybierze typ stwora."
+msgstr "Umieszczając ten urok na polu walki wybierz typ stwora."
 
 #: ../../RIX.rst:101
 msgid ""
 "Creatures you control of the chosen type get +1/+1. As long as you have the "
 "city's blessing, they also have vigilance."
 msgstr ""
-"Stwory wybranego typu pod twoim władaniem dostają +1/+1. O ile posiadasz "
-"błogosławieństwo miasta, mają także czujność."
+"Stwory wybranego typu pod twoim władaniem dostają +1/+1. O ile masz "
+"błogosławieństwo miasta, mają one także czujność."
 
 #: ../../RIX.rst:104
 msgid ""
@@ -349,7 +347,7 @@ msgid ""
 "When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on "
 "another target Vampire you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na innym "
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na innym "
 "wskazanym Wampirze pod twoim władaniem."
 
 #: ../../RIX.rst:116
@@ -376,7 +374,7 @@ msgid ""
 "or less, then sacrifices all other creatures they control."
 msgstr ""
 "Każdy gracz wybiera dowolną liczbę władanych przez siebie stworów o łącznej "
-"sile 4 lub mniej, a następnie poświęca wszystkie inne stwory pod swoim "
+"sile 4 lub mniej, następnie poświęca wszystkie inne stwory pod swoim "
 "władaniem."
 
 #: ../../RIX.rst:126
@@ -402,8 +400,8 @@ msgid ""
 "Each opponent can't cast instant or sorcery spells during that player's next "
 "turn."
 msgstr ""
-"Każdy z przeciwników nie może rzucać sztuczek i obrzędów podczas swojej "
-"najbliższej tury."
+"Każdy z przeciwników nie może rzucać czarów sztuczek i obrzędów podczas "
+"swojej najbliższej tury."
 
 #: ../../RIX.rst:138
 msgid ""
@@ -421,7 +419,7 @@ msgid ""
 "When Squire's Devotion enters the battlefield, create a 1/1 white Vampire "
 "creature token with lifelink."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton białego stwora Wampir 1/1 "
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Wampir 1/1 "
 "z więzią życia."
 
 #: ../../RIX.rst:142
@@ -474,8 +472,8 @@ msgid ""
 "Enrage — Whenever Trapjaw Tyrant is dealt damage, exile target creature an "
 "opponent controls until Trapjaw Tyrant leaves the battlefield."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, wygnaj wskazanego "
-"stwora władanego przez przeciwnika dopóki ten stwór nie opuści pola walki."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, wygnaj wskazanego stwora "
+"pod władaniem przeciwnika dopóki niniejszy stwór nie opuści pola walki."
 
 #: ../../RIX.rst:160
 msgid ""
@@ -501,7 +499,7 @@ msgid ""
 "rather than pay this spell's mana cost."
 msgstr ""
 "Najazd — Jeśli atakowałeś stworem w tej turze, możesz zapłacić |mana_u| "
-"zamiast płacenia normalnego kosztu tego czaru."
+"zamiast płacić koszt many tego czaru."
 
 #: ../../RIX.rst:165
 msgid "Counter target spell."
@@ -520,7 +518,7 @@ msgid ""
 "creature tokens with hexproof. (They can't be the targets of spells or "
 "abilities your opponents control.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz dwa żetony niebieskiego stwora "
+"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony niebieskiego stwora "
 "Wodnik 1/1 z antyklątwą. (Nie mogą być celami czarów lub zdolności władanych "
 "przez twoich przeciwników.)"
 
@@ -546,7 +544,7 @@ msgid ""
 "created under an opponent's control this turn is created under your control "
 "instead."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, każdy żeton, który miałby zostać "
+"Kiedy ten stwór wejdzie na pole walki, każdy żeton, który miałby zostać "
 "stworzony pod władaniem któregokolwiek z przeciwników, jest zamiast tego "
 "tworzony pod twoim władaniem."
 
@@ -581,8 +579,8 @@ msgid ""
 "Enchanted creature gets +1/+1 and has \"Whenever this creature deals combat "
 "damage to a player, you may draw a card.\""
 msgstr ""
-"Zauroczony stwór ma +1/+1 oraz zdolność \"Ilekroć ten stwór zada graczowi "
-"obrażenia bitewne, możesz dobrać kartę.\""
+"Zauroczony stwór dostaje +1/+1 oraz ma \"Ilekroć ten stwór zada graczowi "
+"obrażenia bojowe, możesz dobrać kartę.\""
 
 #: ../../RIX.rst:193
 msgid ""
@@ -604,8 +602,8 @@ msgid ""
 "Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked with "
 "a creature this turn, you may return target creature to its owner's hand."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, możesz  przywrócić wskazanego stwora do ręki jego właściciela."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, możesz przywrócić wskazanego stwora do ręki właściciela."
 
 #: ../../RIX.rst:204
 msgid ""
@@ -619,9 +617,9 @@ msgid ""
 "Return target nonland permanent to its owner's hand. If you have the city's "
 "blessing, you may put that permanent on top of its owner's library instead."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki jego właściciela. Jeśli masz "
-"błogosławieństwo miasta, możesz zamiast tego położyć ów permanent na "
-"wierzchu biblioteki jego właściciela."
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Jeśli masz "
+"błogosławieństwo miasta, możesz zamiast tego umieścić ów permanent na "
+"wierzchu biblioteki właściciela."
 
 #: ../../RIX.rst:208
 msgid ""
@@ -636,7 +634,7 @@ msgid ""
 "Exile Flood of Recollection."
 msgstr ""
 "Przywróć wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej "
-"reki. Wygnaj Flood of Recollection."
+"ręki. Wygnaj niniejszy czar."
 
 #: ../../RIX.rst:212
 msgid ""
@@ -646,16 +644,12 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:211
-#, fuzzy
-#| msgid ""
-#| "Counter target creature spell. You create a colorless Treasure artifact "
-#| "token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "Counter target creature spell. You create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Skontruj wskazany czar stwora. Stwórz żeton bezkolorowego artefaktu Skarb ze "
-"zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Skontruj wskazany czar stwora. Stwórz żeton Skarbu. (To artefakt mający \""
+"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:218
 msgid ""
@@ -669,16 +663,16 @@ msgid ""
 "When Induced Amnesia enters the battlefield, target player exiles all cards "
 "from their hand face down, then draws that many cards."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany gracz wypędza wszystkie karty "
-"ze swojej ręki grzbietem w górę, następnie dobiera tyle samo kart."
+"Kiedy ten urok wejdzie na pole walki, wskazany gracz wygania jako zakryte "
+"wszystkie karty ze swojej ręki, następnie dobiera tyle samo kart."
 
 #: ../../RIX.rst:217
 msgid ""
 "When Induced Amnesia is put into a graveyard from the battlefield, return "
 "the exiled cards to their owner's hand."
 msgstr ""
-"Kiedy ta karta trafia z pola walki do cmentarza, przywróć wygnane karty do "
-"ręki ich właściciela."
+"Kiedy ten urok zostanie umieszczony w cmentarzu z pola walki, przywróć "
+"wygnane karty do ręki właściciela."
 
 #: ../../RIX.rst:222
 msgid ""
@@ -745,7 +739,7 @@ msgstr "Nie masz limitu kart na ręce."
 
 #: ../../RIX.rst:243
 msgid "Whenever an opponent casts a noncreature spell, draw a card."
-msgstr "Ilekroć przeciwnik rzuca czar nie będący stworem, dobierz kartę."
+msgstr "Ilekroć przeciwnik rzuci czar nie będący stworem, dobierz kartę."
 
 #: ../../RIX.rst:245
 msgid ""
@@ -753,8 +747,7 @@ msgid ""
 "under its owner's control at the beginning of the next end step."
 msgstr ""
 "Odrzuć trzy karty: Wygnaj tego stwora. Przywróć go przekręconego na pole "
-"walki pod władanie jego właściciela z początkiem najbliższego kroku "
-"końcowego."
+"walki pod władaniem właściciela na początku najbliższego kroku końcowego."
 
 #: ../../RIX.rst:250
 msgid ""
@@ -768,8 +761,8 @@ msgid ""
 "Exile target nonland permanent. For as long as that card remains exiled, its "
 "owner may cast it without paying its mana cost."
 msgstr ""
-"Wygnaj wskazany permanent nie będący lądem. Przez czas gdy owa karta "
-"pozostaje wygnana, jej właściciel może rzucać ją bez płacenia kosztu many."
+"Wygnaj wskazany nielądowy permanent. Przez czas jej wygnania jej właściciel "
+"może ją rzucić bez płacenia kosztu many."
 
 #: ../../RIX.rst:254
 msgid ""
@@ -794,7 +787,7 @@ msgid ""
 "When Riverwise Augur enters the battlefield, draw three cards, then put two "
 "cards from your hand on top of your library in any order."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, dobierz trzy karty, następnie odłóż "
+"Kiedy ten stwór wejdzie na pole walki, dobierz trzy karty, następnie umieść "
 "dwie karty z twojej ręki na wierzchu twojej biblioteki w dowolnej kolejności."
 
 #: ../../RIX.rst:262
@@ -839,8 +832,8 @@ msgstr ""
 msgid ""
 "Whenever a Merfolk you control deals combat damage to a player, draw a card."
 msgstr ""
-"Ilekroć Wodnik pod twoim władaniem zadaje graczowi obrażenia bitewne, "
-"dobierz kartę."
+"Ilekroć Wodnik pod twoim władaniem zada graczowi obrażenia bojowe, dobierz "
+"kartę."
 
 #: ../../RIX.rst:280
 msgid ""
@@ -868,12 +861,12 @@ msgid ""
 "As an additional cost to cast this spell, reveal a Merfolk card from your "
 "hand or pay |mana_3|."
 msgstr ""
-"Jako dodatkowy koszt rzucenia tego czaru, ujawnij kartę Wodnika z twojej "
-"reki lub zapłać |mana_3|."
+"Jako dodatkowy koszt rzucenia tego czaru — ujawnij kartę Wodnika z twojej "
+"ręki lub zapłać |mana_3|."
 
 #: ../../RIX.rst:285
 msgid "When Silvergill Adept enters the battlefield, draw a card."
-msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../RIX.rst:292
 msgid ""
@@ -887,7 +880,7 @@ msgid ""
 "Raid — This spell costs |mana_1| less to cast if you attacked with a "
 "creature this turn."
 msgstr ""
-"Najazd — Rzucenie tego czaru kosztuje |mana_1| mniej jeśli atakowałeś "
+"Najazd — Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli atakowałeś "
 "stworem w tej turze."
 
 #: ../../RIX.rst:298
@@ -951,9 +944,9 @@ msgid ""
 "bottom of its owner's library: Take an extra turn after this one. Activate "
 "this ability only if you have the city's blessing."
 msgstr ""
-"|mana_2|\\ |mana_u|\\ |mana_u|, |tap|, umieść tę kartę na spodzie biblioteki "
-"jej właściciela: Weź dodatkową turę po obecnej. Aktywuj tę zdolność tylko "
-"jeśli masz błogosławieństwo miasta."
+"|mana_2|\\ |mana_u|\\ |mana_u|, |tap|, umieść tego stwora na spodzie "
+"biblioteki właściciela: Weź dodatkową turę po obecnej. Możesz aktywować tę "
+"zdolność tylko jeśli masz błogosławieństwo miasta."
 
 #: ../../RIX.rst:328
 msgid ""
@@ -967,8 +960,8 @@ msgid ""
 "Whenever Warkite Marauder attacks, target creature defending player controls "
 "loses all abilities and has base power and toughness 0/1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, wskazany stwór broniącego się gracza do końca "
-"tury traci wszystkie zdolności oraz ma bazową siłę i wytrzymałość 0/1."
+"Ilekroć ten stwór atakuje, wskazany stwór broniącego się gracza traci do "
+"końca tury wszystkie zdolności oraz ma bazową siłę i wytrzymałość 0/1."
 
 #: ../../RIX.rst:336
 msgid ""
@@ -998,7 +991,7 @@ msgid ""
 "loses 2 life and you gain 2 life."
 msgstr ""
 "Każdy przeciwnik odrzuca dwie karty. Jeśli władasz Wampirem, każdy "
-"przeciwnik traci 2 życia a ty zyskaj 2 życia."
+"przeciwnik traci po 2 życia a ty zyskaj 2 życia."
 
 #: ../../RIX.rst:342
 msgid ""
@@ -1019,8 +1012,8 @@ msgid ""
 "When Champion of Dusk enters the battlefield, you draw X cards and you lose "
 "X life, where X is the number of Vampires you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, dobierasz X kart i tracisz X życia, "
-"gdzie X jest liczbą Wampirów pod twoim władaniem."
+"Kiedy ten stwór wejdzie na pole walki, dobierz X kart i strać X żyć, gdzie X "
+"jest liczbą Wampirów pod twoim władaniem."
 
 #: ../../RIX.rst:352
 msgid ""
@@ -1034,8 +1027,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
-"lądem. Ów gracz odrzuca ową kartę."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądowę kartę. Ów "
+"gracz odrzuca ową kartę."
 
 #: ../../RIX.rst:358
 msgid ""
@@ -1070,7 +1063,7 @@ msgstr ""
 #: ../../RIX.rst:361
 msgid ""
 "Whenever Dinosaur Hunter deals damage to a Dinosaur, destroy that creature."
-msgstr "Ilekroć ten stwór zadaje obrażenia Dinozaurowi, zniszcz owego stwora."
+msgstr "Ilekroć ten stwór zada obrażenia Dinozaurowi, zniszcz owego stwora."
 
 #: ../../RIX.rst:370
 msgid ""
@@ -1088,7 +1081,7 @@ msgid ""
 "When Dire Fleet Poisoner enters the battlefield, target attacking Pirate you "
 "control gets +1/+1 and gains deathtouch until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany atakujący Pirat pod twoim "
+"Kiedy ten stwór wejdzie na pole walki, wskazany atakujący Pirat pod twoim "
 "władaniem dostaje do końca tury +1/+1 i dotyk śmierci."
 
 #: ../../RIX.rst:376
@@ -1113,8 +1106,7 @@ msgstr ""
 msgid ""
 "When Dusk Legion Zealot enters the battlefield, you draw a card and you lose "
 "1 life."
-msgstr ""
-"Kiedy ta karta wejdzie na pole walki, dobierasz kartę i tracisz 1 życie."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę i strać 1 życie."
 
 #: ../../RIX.rst:384
 msgid ""
@@ -1128,8 +1120,8 @@ msgid ""
 "When Fathom Fleet Boarder enters the battlefield, you lose 2 life unless you "
 "control another Pirate."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, tracisz 2 życia, chyba że władasz "
-"innym Piratem."
+"Kiedy ten stwór wejdzie na pole walki, strać 2 życia, chyba że władasz innym "
+"Piratem."
 
 #: ../../RIX.rst:390
 msgid ""
@@ -1144,8 +1136,8 @@ msgid ""
 "library for a Pirate card, reveal it, then shuffle your library and put that "
 "card on top of it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"karty Pirata, ujawnić ją, następnie przetasuj twoją bibliotekę i umieść ową "
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę Pirata, ujawnij ją, następnie przetasuj twoją bibliotekę i umieść ową "
 "kartę na jej wierzchu."
 
 #: ../../RIX.rst:389
@@ -1154,7 +1146,7 @@ msgid ""
 "opponent loses 1 life."
 msgstr ""
 "Ilekroć inny Pirat wejdzie na pole walki pod twoim władaniem, każdy "
-"przeciwnik traci 1 życie."
+"przeciwnik traci po 1 życiu."
 
 #: ../../RIX.rst:396
 msgid ""
@@ -1168,9 +1160,9 @@ msgid ""
 "All creatures get -2/-2 until end of turn. If you have the city's blessing, "
 "instead only creatures your opponents control get -2/-2 until end of turn."
 msgstr ""
-"Wszystkie stwory dostają -2/-2 do końca tury. Jeśli masz błogosławieństwo "
-"miasta, zamiast tego tylko stwory twoich przeciwników dostają -2/-2 do końca "
-"tury."
+"Wszystkie stwory dostają do końca tury -2/-2. Jeśli masz błogosławieństwo "
+"miasta, zamiast tego tylko stwory twoich przeciwników dostają do końca tury "
+"-2/-2."
 
 #: ../../RIX.rst:400
 msgid ""
@@ -1192,7 +1184,8 @@ msgstr ""
 
 #: ../../RIX.rst:403
 msgid "Each opponent loses 1 life for each creature you control."
-msgstr "Każdy przeciwnik traci 1 życie za każdego stwora pod twoim władaniem."
+msgstr ""
+"Każdy przeciwnik traci po 1 życiu za każdego stwora pod twoim władaniem."
 
 #: ../../RIX.rst:408
 msgid ""
@@ -1217,12 +1210,12 @@ msgid ""
 "Search your library for a card, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Poszukaj kartę w twojej  bibliotece, dołóż ją do twojej ręki, a następnie "
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:415
 msgid "Choose a card you own from outside the game and put it into your hand."
-msgstr "Wybierz kartę, którą posiadasz poza grą i dołóż ją do twojej ręki."
+msgstr "Wybierz własną kartę spoza gry i umieść ją w twojej ręce."
 
 #: ../../RIX.rst:424
 msgid ""
@@ -1236,8 +1229,8 @@ msgid ""
 "Whenever another creature you control dies, if you have the city's blessing, "
 "put a +1/+1 counter on Mausoleum Harpy."
 msgstr ""
-"Ilekroć inny stwór pod twoim władaniem umiera, jeśli masz błogosławieństwo "
-"miasta, umieść znacznik +1/+1 na tym stworze."
+"Ilekroć umrze inny stwór pod twoim władaniem, jeśli masz błogosławieństwo "
+"miasta, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../RIX.rst:428
 msgid ""
@@ -1248,7 +1241,7 @@ msgstr ""
 
 #: ../../RIX.rst:427
 msgid "Target creature gets -2/-2 until end of turn. You gain 2 life."
-msgstr "Wskazany stwór dostaje -2/-2 do końca tury. Zyskaj 2 życia."
+msgstr "Wskazany stwór dostaje do końca tury -2/-2. Zyskaj 2 życia."
 
 #: ../../RIX.rst:434
 msgid ""
@@ -1259,7 +1252,7 @@ msgstr ""
 
 #: ../../RIX.rst:431
 msgid "Oathsworn Vampire enters the battlefield tapped."
-msgstr "Ten stwór wchodzi na pole walki przekręcony."
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../RIX.rst:433
 msgid ""
@@ -1277,19 +1270,14 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:437
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature you control dies, create a colorless Treasure "
-#| "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
-#| "color.\""
 msgid ""
 "Whenever another creature you control dies, create a Treasure token. (It's "
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
-"Ilekroć inny stwór pod twoim władaniem umiera, stwórz żeton bezkolorowego "
-"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
-"dowolnego koloru.\""
+"Ilekroć umrze inny stwór pod twoim władaniem, stwórz żeton Skarbu. (To "
+"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../RIX.rst:442
 msgid ""
@@ -1303,7 +1291,7 @@ msgid ""
 "When Ravenous Chupacabra enters the battlefield, destroy target creature an "
 "opponent controls."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zniszcz wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego stwora pod "
 "władaniem przeciwnika."
 
 #: ../../RIX.rst:446
@@ -1341,7 +1329,7 @@ msgid ""
 "hand or pay |mana_1|."
 msgstr ""
 "Jako dodatkowy koszt rzucenia tego czaru, ujawnij kartę Wampira z twojej "
-"reki lub zapłać |mana_1|."
+"ręki lub zapłać |mana_1|."
 
 #: ../../RIX.rst:457
 msgid "Flying, lifelink"
@@ -1484,17 +1472,12 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:509
-#, fuzzy
-#| msgid ""
-#| "For each land you control, create a colorless Treasure artifact token "
-#| "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "For each land you control, create a Treasure token. (It's an artifact with "
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Za każdy ląd pod twoim władaniem, stwórz żeton bezkolorowego artefaktu Skarb "
-"ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
-"\""
+"Za każdy ląd pod twoim władaniem, stwórz żeton Skarbu. (To artefakt mający \""
+"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:514
 msgid ""
@@ -1504,19 +1487,13 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:513
-#, fuzzy
-#| msgid ""
-#| "When Brazen Freebooter enters the battlefield, create a colorless "
-#| "Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\""
 msgid ""
 "When Brazen Freebooter enters the battlefield, create a Treasure token. "
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\""
+"Kiedy ta karta wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:522
 msgid ""
@@ -1564,7 +1541,7 @@ msgid ""
 "As an additional cost to cast this spell, reveal a Pirate card from your "
 "hand or pay |mana_2|."
 msgstr ""
-"Jako dodatkowy koszt rzucenia tego czaru ujawnij kartę Pirata z twojej reki "
+"Jako dodatkowy koszt rzucenia tego czaru ujawnij kartę Pirata z twojej ręki "
 "lub zapłać |mana_2|."
 
 #: ../../RIX.rst:538
@@ -1743,16 +1720,12 @@ msgid "As an additional cost to cast this spell, discard a card."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../RIX.rst:585
-#, fuzzy
-#| msgid ""
-#| "Draw two cards and create two colorless Treasure artifact tokens with \"|"
-#| "tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "Draw two cards and create two Treasure tokens. (They're artifacts with \"|"
 "tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Dobierz dwie karty i stwórz dwa żetony bezkolorowego artefaktu Skarb ze "
-"zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Dobierz dwie karty i stwórz dwa żetony Skarbu. (To artefakty mające \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:590
 msgid ""
@@ -2075,16 +2048,12 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:695
-#, fuzzy
-#| msgid ""
-#| "Ghalta, Primal Hunger costs |mana_x| less to cast, where X is the total "
-#| "power of creatures you control."
 msgid ""
 "This spell costs |mana_x| less to cast, where X is the total power of "
 "creatures you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje |mana_x| mniej, gdzie X jest sumą siły stworów "
-"pod twoim władaniem."
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą siły "
+"stworów pod twoim władaniem."
 
 #: ../../RIX.rst:702
 msgid ""
@@ -2539,9 +2508,9 @@ msgid ""
 "creature you control. Then if that creature has three or more +1/+1 counters "
 "on it, transform Hadana's Climb."
 msgstr ""
-"Na początku walki w twojej turze, umieść znacznik +1/1+ na wskazanym stworze "
-"pod twoim władaniem. Następnie jeśli ów stwór ma na sobie trzy lub więcej "
-"znaczników +1/+1, transformuj  ten urok."
+"Na początku walki w twojej turze umieść znacznik +1/1+ na wskazanym stworze "
+"pod twoim władaniem. Następnie jeśli ów stwór ma trzy lub więcej znaczników +"
+"1/+1, transformuj ten urok."
 
 #: ../../RIX.rst:850
 msgid ""
@@ -2879,19 +2848,14 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:955
-#, fuzzy
-#| msgid ""
-#| "Whenever one or more creatures you control deal combat damage to a "
-#| "player, create a colorless Treasure artifact token with \"|tap|, "
-#| "Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "Whenever one or more creatures you control deal combat damage to a player, "
 "create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this "
 "artifact: Add one mana of any color.\")"
 msgstr ""
-"Ilekroć jeden lub więcej stworów pod twoim władaniem zadaje graczowi "
-"obrażenia bojowe, stwórz żeton bezkolorowego artefaktu Skarb ze zdolnością "
-"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten "
+"artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:957
 msgid ""
@@ -3034,16 +2998,12 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../RIX.rst:1005
-#, fuzzy
-#| msgid ""
-#| "When Gleaming Barrier dies, create a colorless Treasure artifact token "
-#| "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "When Gleaming Barrier dies, create a Treasure token. (It's an artifact with "
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktu Skarb ze "
-"zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Kiedy ten stwór umrze, stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:1012
 msgid ""

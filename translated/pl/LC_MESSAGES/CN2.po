@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-22 11:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/cn2/"
 "pl/>\n"
@@ -1805,8 +1805,9 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:635
+#, fuzzy
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy Baleful Strix wejdzie na pole walki, dobierz kartę."
 
 #: ../../CN2.rst:637
 msgid "Untap target permanent you control."
