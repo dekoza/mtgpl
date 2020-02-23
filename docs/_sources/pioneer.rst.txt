@@ -26,7 +26,7 @@ Dodatki poza Standardem
 * :mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|
 * :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p100|
 * :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p100|
-* :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|
+* :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p100|
 * :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|
 * :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p100|
 * :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p100|
