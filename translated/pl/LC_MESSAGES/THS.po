@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 16:18+0000\n"
+"PO-Revision-Date: 2020-02-23 22:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ths/"
 "pl/>\n"
@@ -488,7 +488,7 @@ msgid ""
 "Whenever Heliod's Emissary or enchanted creature attacks, tap target "
 "creature an opponent controls."
 msgstr ""
-"Ilekroć ten lub zauroczony stwór atakuje, przekręć wskazanego stwora pod "
+"Ilekroć ten lub zauroczony stwór zaatakuje, przekręć wskazanego stwora pod "
 "władaniem przeciwnika."
 
 # 18b287ff14b84c3e96522795013a2495
@@ -657,7 +657,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
 
 # 794c890c02c64b8cb247386afba87f07
@@ -876,8 +876,8 @@ msgid ""
 "Whenever enchanted creature attacks, scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, wróż 1. (Spójrz na wierzchnią kartę twojej "
-"biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
+"Ilekroć zauroczony stwór zaatakuje, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../THS.rst:228
 msgid ""
@@ -1254,7 +1254,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
 
 # 7d34209d88cc4d28991779690201a34f
@@ -2107,7 +2107,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
 
 # 20a9d8517aab422187ca05841b63a71d
@@ -2699,7 +2699,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
 
 # bb415f90eb9c4edc8dc1c67ac018e787
@@ -3519,7 +3519,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
 
 # bb21336691f44b49b1cbaec8c1f506fe
@@ -3971,7 +3971,8 @@ msgstr "Minotaury pod twoim władaniem mają pośpiech."
 msgid ""
 "Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć Minotaur pod twoim władaniem atakuje, dostaje on do końca tury +2/+0."
+"Ilekroć Minotaur pod twoim władaniem zaatakuje, dostaje on do końca tury +2/"
+"+0."
 
 #: ../../THS.rst:1080
 msgid ""
@@ -4218,7 +4219,7 @@ msgid ""
 "|mana_w|, |tap|: Exile target creature that has a fate counter on it, then "
 "return it to the battlefield under its owner's control."
 msgstr ""
-"|mana_w|, |tap|: Wygnaj wskazanego stwora mającego znacznik przeznaczenia, a "
+"|mana_w|, |tap|: Wygnaj wskazanego stwora mającego znacznik przeznaczenia, "
 "następnie przywróć go na pole walki pod władaniem właściciela."
 
 # d5e4fc6afd794f72974f74ae6c97b5e4

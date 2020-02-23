@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-23 16:19+0000\n"
+"PO-Revision-Date: 2020-02-23 22:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -1498,9 +1498,9 @@ msgstr ""
 msgid "Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
 "Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
-"zakrytego stosu, przetasuj ów stos, a następnie objaw owe karty. (Aby "
-"objawić kartę, umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w "
-"dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
+"zakrytego stosu, przetasuj ów stos, następnie objaw owe karty. (Aby objawić "
+"kartę, umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w dowolnym "
+"momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 #: ../../C19.rst:694
 msgid ":mtgtip:`Gorgon Recluse<https://img.scryfall.com/cards/border_crop/front/b/d/bd39e461-d520-454d-a37e-4172beab164c.jpg?1568004206|https://scryfall.com/card/c19/116/gorgon-recluse?utm_source=api>`"
@@ -2361,7 +2361,7 @@ msgstr ""
 #: ../../C19.rst:1099
 msgid "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to any target."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole walki lub atakuje, jeśli nie masz kart w "
+"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, jeśli nie masz kart w "
 "ręce, ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../C19.rst:1101
@@ -2650,7 +2650,7 @@ msgid "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up t
 msgstr ""
 "Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, a następnie przetasować twoją bibliotekę."
+"swojej ręki, następnie przetasować twoją bibliotekę."
 
 #: ../../C19.rst:1244
 msgid ":mtgtip:`Azorius Locket<https://img.scryfall.com/cards/border_crop/front/6/c/6cdb0b3a-cf96-40d1-b3d2-2d87f6763097.jpg?1568004880|https://scryfall.com/card/c19/210/azorius-locket?utm_source=api>`"
@@ -2861,8 +2861,11 @@ msgid ":mtgtip:`Ash Barrens<https://img.scryfall.com/cards/border_crop/front/d/7
 msgstr ""
 
 #: ../../C19.rst:1337
+#, fuzzy
 msgid "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj  w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1346
 msgid ":mtgtip:`Azorius Chancery<https://img.scryfall.com/cards/border_crop/front/5/4/541776bb-8643-4742-873b-8bf211d6ee99.jpg?1568005015|https://scryfall.com/card/c19/228/azorius-chancery?utm_source=api>`"
@@ -3040,7 +3043,7 @@ msgstr ""
 #: ../../C19.rst:1429
 msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"|tap|, poświęć ten ląd: Wyszukaj  w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1434
@@ -3511,7 +3514,7 @@ msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic la
 msgstr ""
 "Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, a następnie przetasować twoją bibliotekę."
+"swojej ręki, następnie przetasować twoją bibliotekę."
 
 #: ../../C19.rst:1700
 msgid ":mtgtip:`Thespian's Stage<https://img.scryfall.com/cards/border_crop/front/9/5/954c7792-c147-401d-bbe5-f1773ae3b301.jpg?1568005441|https://scryfall.com/card/c19/282/thespians-stage?utm_source=api>`"

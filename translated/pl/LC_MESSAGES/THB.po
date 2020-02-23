@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-23 16:19+0000\n"
+"PO-Revision-Date: 2020-02-23 22:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/thb/"
 "pl/>\n"
@@ -441,7 +441,8 @@ msgid ""
 "Whenever another creature you control attacks, it gets +0/+1 until end of "
 "turn."
 msgstr ""
-"Ilekroć inny stwór pod twoim władaniem atakuje, dostaje do końca tury +0/+1."
+"Ilekroć inny stwór pod twoim władaniem zaatakuje, dostaje do końca tury +0/"
+"+1."
 
 #: ../../THB.rst:120
 #, fuzzy
@@ -1791,7 +1792,7 @@ msgstr ""
 
 #: ../../THB.rst:549
 msgid "Target creature gets -X/-X until end of turn. You gain X life."
-msgstr "Wskazany stwór dostaje -X/-X do końca tury. Zyskaj X żyć."
+msgstr "Wskazany stwór dostaje do końca tury -X/-X. Zyskaj X żyć."
 
 #: ../../THB.rst:551
 msgid "Exile up to twice X target cards from graveyards."
@@ -4149,7 +4150,7 @@ msgid ""
 "card, then each opponent who didn't discard a nonland card this way loses 3 "
 "life."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole walki lub atakuje, każdy przeciwnik "
+"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, każdy przeciwnik "
 "odrzuca kartę, następnie każdy przeciwnik, który nie odrzucił w ten sposób "
 "karty nielądowej, traci 3 życia."
 
@@ -4333,7 +4334,7 @@ msgid ""
 "Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a "
 "card, then you may put a land card from your hand onto the battlefield."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole walki lub atakuje, zyskaj 3 życia i "
+"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, zyskaj 3 życia i "
 "dobierz kartę, następnie możesz umieścić kartę lądu z twojej ręki na polu "
 "walki."
 

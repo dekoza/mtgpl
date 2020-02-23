@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 16:18+0000\n"
+"PO-Revision-Date: 2020-02-23 22:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -937,7 +937,7 @@ msgid ""
 "for a basic land card, reveal it, put it into your hand, then shuffle your "
 "library.)"
 msgstr ""
-"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"|tap|, poświęć ten ląd: Wyszukaj  w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:360
@@ -1105,7 +1105,7 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it attacks, tap "
 "target creature defending player controls."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 atakuje, przekręć "
+"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 zaatakuje, przekręć "
 "wskazanego stwora pod władaniem broniącego się gracza."
 
 #: ../../C16.rst:410
@@ -1750,8 +1750,8 @@ msgid ""
 "Whenever a creature you control attacks, defending player loses 1 life and "
 "you gain 1 life."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem atakuje, broniący się gracz traci 1 życie, "
-"a ty zyskaj 1 życie."
+"Ilekroć stwór pod twoim władaniem zaatakuje, broniący się gracz traci 1 "
+"życie, a ty zyskaj 1 życie."
 
 #: ../../C16.rst:623
 msgid ""
@@ -1806,9 +1806,9 @@ msgid ""
 "for its mana cost if it's a creature card.)"
 msgstr ""
 "Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
-"zakrytego stosu, przetasuj ów stos, a następnie objaw owe karty. (Aby "
-"objawić kartę, umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w "
-"dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
+"zakrytego stosu, przetasuj ów stos, następnie objaw owe karty. (Aby objawić "
+"kartę, umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w dowolnym "
+"momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 #: ../../C16.rst:644
 msgid ""
@@ -2195,8 +2195,9 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:765 ../../C16.rst:799
+#, fuzzy
 msgid "Each player discards their hand, then draws seven cards."
-msgstr ""
+msgstr "Odrzuć swoją rękę, następnie dobierz dwie karty."
 
 #: ../../C16.rst:767
 msgid ""
@@ -4782,7 +4783,7 @@ msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"|tap|, poświęć ten ląd: Wyszukaj  w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:1690
@@ -5403,7 +5404,7 @@ msgid ""
 msgstr ""
 "Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, a następnie przetasować twoją bibliotekę."
+"swojej ręki, następnie przetasować twoją bibliotekę."
 
 #: ../../C16.rst:1946
 msgid ""
