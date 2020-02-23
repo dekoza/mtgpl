@@ -4,7 +4,7 @@ Spis zmian
 ***********
 
 2020-02-23
-   * Zaktualizowane tłumaczenia: RIX
+   * Zaktualizowane tłumaczenia: RIX, DOM
 
 2020-02-21
    * Zaktualizowane tłumaczenia: XLN
