@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2020-02-23
+   * Zaktualizowane tłumaczenia: RIX
+
 2020-02-21
    * Zaktualizowane tłumaczenia: XLN
 
