@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/aer/"
 "pl/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AER.rst:5
@@ -101,7 +101,7 @@ msgid ""
 "Whenever Aether Inspector attacks, you may pay |energy|\\ |energy|. If you "
 "do, create a 1/1 colorless Servo artifact creature token."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |energy|\\ |energy|. Jeśli to "
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |energy|\\ |energy|. Jeśli tak "
 "zrobisz, stwórz żeton bezkolorowego artefaktycznego stwora Serwo 1/1."
 
 #: ../../AER.rst:34
@@ -119,7 +119,7 @@ msgid ""
 "Whenever Aethergeode Miner attacks, you get |energy|\\ |energy| (two energy "
 "counters)."
 msgstr ""
-"Ilekroć ten stwór atakuje, dostajesz |energy|\\ |energy| (dwa znaczniki "
+"Ilekroć ten stwór zaatakuje, dostajesz |energy|\\ |energy| (dwa znaczniki "
 "energii)."
 
 #: ../../AER.rst:33
@@ -490,7 +490,7 @@ msgid ""
 "Whenever Aether Swooper attacks, you may pay |energy|\\ |energy|. If you do, "
 "create a 1/1 colorless Servo artifact creature token."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |energy|\\ |energy|. Jeśli to "
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |energy|\\ |energy|. Jeśli tak "
 "zrobisz, stwórz żeton bezkolorowego artefaktycznego stwora Serwo 1/1."
 
 #: ../../AER.rst:160
@@ -539,7 +539,7 @@ msgid ""
 "card. If you do, discard a card."
 msgstr ""
 "Ilekroć czar lub zdolność pod twoim włdaniem skontruje czar, możesz dobrać "
-"kartę. Jeśli to zrobisz, odrzuć kartę."
+"kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../AER.rst:172
 msgid ""
@@ -772,7 +772,7 @@ msgid ""
 "Whenever Salvage Scuttler attacks, return an artifact you control to its "
 "owner's hand."
 msgstr ""
-"Ilekroć ten stwór atakuje, zwróć artefakt pod twoim władaniem do ręki jego "
+"Ilekroć ten stwór zaatakuje, zwróć artefakt pod twoim władaniem do ręki jego "
 "właściciela."
 
 #: ../../AER.rst:252
@@ -927,8 +927,8 @@ msgid ""
 "Whenever Aether Poisoner attacks, you may pay |energy|\\ |energy|. If you "
 "do, create a 1/1 colorless Servo artifact creature token."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić {E}{E}. Jeśli to zrobisz, stwórz "
-"żeton bezkolorowego artefaktycznego stwora Serwo 1/1."
+"Ilekroć ten stwór zaatakuje, możesz zapłacić {E}{E}. Jeśli tak zrobisz, "
+"stwórz żeton bezkolorowego artefaktycznego stwora Serwo 1/1."
 
 #: ../../AER.rst:296
 msgid ""

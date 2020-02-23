@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-22 11:25+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/cns/"
 "pl/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../CNS.rst:5
@@ -93,7 +93,7 @@ msgid ""
 "copy it. You may choose new targets for the copy."
 msgstr ""
 "Ilekroć rzucisz czar sztuczki lub obrzędu o wybranej nazwie, możesz go "
-"skopiować. Możesz wybrać nowe cele dla kopii."
+"skopiować. Możesz wskazać nowe cele dla kopii."
 
 #: ../../CNS.rst:36
 msgid ""
@@ -1105,12 +1105,16 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |"
 "mana_w| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_w|.)"
 
 #: ../../CNS.rst:379
 msgid ""
 "Apex Hawks enters the battlefield with a +1/+1 counter on it for each time "
 "it was kicked."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../CNS.rst:384
 msgid ""
@@ -1786,7 +1790,7 @@ msgstr ""
 
 #: ../../CNS.rst:635
 msgid "Whenever Infectious Horror attacks, each opponent loses 2 life."
-msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 2 życia."
+msgstr "Ilekroć ten stwór zaatakuje, każdy przeciwnik traci po 2 życia."
 
 #: ../../CNS.rst:642
 msgid ""
@@ -3094,7 +3098,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../CNS.rst:1120
 msgid ""

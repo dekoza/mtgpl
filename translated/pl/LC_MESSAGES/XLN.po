@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/xln/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../XLN.rst:5
 msgid ":mtgexp:`XLN` Ixalan"
@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../../XLN.rst:9
 msgid "As long as Adanto Vanguard is attacking, it gets +2/+0."
-msgstr "Dopóki ten stwór atakuje, dostaje +2/+0."
+msgstr "Dopóki ten stwór zaatakuje, dostaje +2/+0."
 
 #: ../../XLN.rst:11
 msgid ""
@@ -108,8 +108,8 @@ msgid ""
 "Whenever Bishop of Rebirth attacks, you may return target creature card with "
 "converted mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zwrócić wskazaną kartę stwora o skróconym "
-"koszcie many 3 lub mniejszym z twojego cmentarza na pole walki."
+"Ilekroć ten stwór zaatakuje, możesz zwrócić wskazaną kartę stwora o "
+"skróconym koszcie many 3 lub mniejszym z twojego cmentarza na pole walki."
 
 #: ../../XLN.rst:36
 msgid ""
@@ -236,8 +236,8 @@ msgid ""
 "Whenever Goring Ceratops attacks, other creatures you control gain double "
 "strike until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, inne stwory pod twoim władaniem zyskują podwójny "
-"cios do końca tury."
+"Ilekroć ten stwór zaatakuje, inne stwory pod twoim władaniem zyskują "
+"podwójny cios do końca tury."
 
 #: ../../XLN.rst:82
 msgid ""
@@ -645,7 +645,7 @@ msgid ""
 "Whenever Territorial Hammerskull attacks, tap target creature an opponent "
 "controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
+"Ilekroć ten stwór zaatakuje, przekręć wskazanego stwora pod władaniem "
 "przeciwnika."
 
 #: ../../XLN.rst:220
@@ -886,8 +886,8 @@ msgid ""
 "Whenever Fleet Swallower attacks, target player puts the top half of their "
 "library, rounded up, into their graveyard."
 msgstr ""
-"Ilekroć ten stwór atakuje, wskazany gracz umieszcza wierzchnią połowę swojej "
-"biblioteki, zaokrąglając wzwyż, w swoim cmentarzu."
+"Ilekroć ten stwór zaatakuje, wskazany gracz umieszcza wierzchnią połowę "
+"swojej biblioteki, zaokrąglając wzwyż, w swoim cmentarzu."
 
 #: ../../XLN.rst:292
 msgid ""
@@ -1698,9 +1698,9 @@ msgid ""
 "Pirate, you may pay |mana_2|. If you do, create a 2/2 black Pirate creature "
 "token with menace."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli władasz innym nieżetonowym Piratem, możesz "
-"zapłacić |mana_2|. Jeśli tak zrobisz, stwórz żeton czarnego stwora Pirat 2/2 "
-"ze złowrogością."
+"Ilekroć ten stwór zaatakuje, jeśli władasz innym nieżetonowym Piratem, "
+"możesz zapłacić |mana_2|. Jeśli tak zrobisz, stwórz żeton czarnego stwora "
+"Pirat 2/2 ze złowrogością."
 
 #: ../../XLN.rst:546
 msgid ""
@@ -2046,7 +2046,7 @@ msgstr ""
 
 #: ../../XLN.rst:649
 msgid "Whenever Vicious Conquistador attacks, each opponent loses 1 life."
-msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 1 życiu."
+msgstr "Ilekroć ten stwór zaatakuje, każdy przeciwnik traci po 1 życiu."
 
 #: ../../XLN.rst:654
 msgid ""
@@ -2165,8 +2165,8 @@ msgid ""
 "Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
-"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający \"|tap|"
+", poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:687
 msgid ""
@@ -2639,7 +2639,7 @@ msgid ""
 "Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's "
 "Knight gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli władasz Dinozaurem, ten stwór dostaje do "
+"Ilekroć ten stwór zaatakuje, jeśli władasz Dinozaurem, ten stwór dostaje do "
 "końca tury +1/+1."
 
 #: ../../XLN.rst:850
@@ -2654,7 +2654,7 @@ msgid ""
 "Whenever Tilonalli's Skinshifter attacks, it becomes a copy of another "
 "target nonlegendary attacking creature until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, staje się do końca tury kopią innego wskazanego "
+"Ilekroć ten stwór zaatakuje, staje się do końca tury kopią innego wskazanego "
 "nielegendarnego atakujące stwora."
 
 #: ../../XLN.rst:856
@@ -3505,7 +3505,7 @@ msgid ""
 "Whenever Dire Fleet Captain attacks, it gets +1/+1 until end of turn for "
 "each other attacking Pirate."
 msgstr ""
-"Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdego innego "
+"Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1 za każdego innego "
 "atakującego Pirata."
 
 #: ../../XLN.rst:1112
@@ -3758,7 +3758,7 @@ msgid ""
 "When Conqueror's Galleon attacks, exile it at end of combat, then return it "
 "to the battlefield transformed under your control."
 msgstr ""
-"Kiedy ten stwór atakuje, wygnaj go na końcu walki, następnie przywróć go "
+"Kiedy ten stwór zaatakuje, wygnaj go na końcu walki, następnie przywróć go "
 "transformowanego na pole walki pod twoim władaniem."
 
 #: ../../XLN.rst:1183
@@ -3880,7 +3880,7 @@ msgid ""
 "At the beginning of your upkeep, you may discard a card. If you do, untap "
 "Elaborate Firecannon."
 msgstr ""
-"Na początku twojego kroku utrzymania możesz odrzucić kartę. Jeśli to "
+"Na początku twojego kroku utrzymania możesz odrzucić kartę. Jeśli tak "
 "zrobisz, odkręć tę kartę."
 
 #: ../../XLN.rst:1234

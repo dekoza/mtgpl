@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m19/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../M19.rst:5
 msgid ":mtgexp:`M19` Core Set 2019"
@@ -253,7 +253,7 @@ msgstr ""
 
 #: ../../M19.rst:73
 msgid "Whenever Herald of Faith attacks, you gain 2 life."
-msgstr "Ilekroć ten stwór atakuje, zyskaj 2 życia."
+msgstr "Ilekroć ten stwór zaatakuje, zyskaj 2 życia."
 
 #: ../../M19.rst:78
 msgid ""
@@ -397,8 +397,8 @@ msgid ""
 "Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens "
 "with lifelink that are tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz dwa przekręcone i atakujące żetony białego "
-"stwora Kot 1/1 z więzią życia."
+"Ilekroć ten stwór zaatakuje, stwórz dwa przekręcone i atakujące żetony "
+"białego stwora Kot 1/1 z więzią życia."
 
 #: ../../M19.rst:124
 msgid ""
@@ -517,8 +517,8 @@ msgid ""
 "Whenever Pegasus Courser attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, inny wskazany atakujący stwór zyskuje latanie do "
-"końca tury."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór zyskuje latanie "
+"do końca tury."
 
 #: ../../M19.rst:172
 msgid ""
@@ -610,7 +610,7 @@ msgid ""
 "Whenever Star-Crowned Stag attacks, tap target creature defending player "
 "controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
+"Ilekroć ten stwór zaatakuje, przekręć wskazanego stwora pod władaniem "
 "przeciwnika."
 
 #: ../../M19.rst:208
@@ -1509,7 +1509,7 @@ msgstr ""
 
 #: ../../M19.rst:507
 msgid "Whenever Infectious Horror attacks, each opponent loses 2 life."
-msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 2 życia."
+msgstr "Ilekroć ten stwór zaatakuje, każdy przeciwnik traci po 2 życia."
 
 #: ../../M19.rst:512
 msgid ""
@@ -1554,7 +1554,7 @@ msgid ""
 "to the battlefield with a corpse counter on it. If that creature would leave "
 "the battlefield, exile it instead of putting it anywhere else."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|. Kiedy tak zrobisz, "
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_x|. Kiedy tak zrobisz, "
 "przywróć wskazaną kartę stwora o skróconym koszcie many X z twojego "
 "cmentarza na pole walki ze znacznikiem zwłok. Jeśli ów stwór miałby opuścić "
 "pole walki, wygnaj go zamiast umieszczać go gdziekolwiek indziej."
@@ -2296,7 +2296,7 @@ msgstr ""
 
 #: ../../M19.rst:767
 msgid "+1: You may discard a card. If you do, draw a card."
-msgstr "+1: Możesz odrzucić kartę. Jeśli to zrobisz, dobierz kartę."
+msgstr "+1: Możesz odrzucić kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../M19.rst:769
 msgid ""
@@ -2400,7 +2400,7 @@ msgid ""
 "mana_r|. If you do, return Spit Flame from your graveyard to your hand."
 msgstr ""
 "Ilekroć Smok wejdzie na pole walki pod twoim władaniem, możesz zapłacić "
-"|mana_r|. Jeśli to zrobisz, przywróć tę kartę z twojego cmentarza do twojej "
+"|mana_r|. Jeśli tak zrobisz, przywróć tę kartę z twojego cmentarza do twojej "
 "ręki."
 
 #: ../../M19.rst:808
@@ -2740,8 +2740,8 @@ msgid ""
 "Whenever Goreclaw, Terror of Qal Sisma attacks, each creature you control "
 "with power 4 or greater gets +1/+1 and gains trample until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, każdy stwór pod twoim władaniem mający siłę 4 lub "
-"większą dostaje do końca tury +1/+1 oraz tratowanie."
+"Ilekroć ten stwór zaatakuje, każdy stwór pod twoim władaniem mający siłę 4 "
+"lub większą dostaje do końca tury +1/+1 oraz tratowanie."
 
 #: ../../M19.rst:930
 msgid ""
@@ -3138,7 +3138,7 @@ msgid ""
 "Whenever Brawl-Bash Ogre attacks, you may sacrifice another creature. If you "
 "do, Brawl-Bash Ogre gets +2/+2 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz poświęcić innego stwora. Jeśli tak "
+"Ilekroć ten stwór zaatakuje, możesz poświęcić innego stwora. Jeśli tak "
 "zrobisz, ten stwór dostaje do końca tury +2/+2."
 
 #: ../../M19.rst:1076
@@ -3363,9 +3363,9 @@ msgid ""
 "Each player who sacrificed a permanent this way reveals the top card of "
 "their library, then puts it onto the battlefield if it's a permanent card."
 msgstr ""
-"Ilekroć ten stwór atakuje, u każdego z graczy wskaż permanent pod władaniem "
-"danego gracza. Owi gracze poświęcają owe permanenty. Każdy gracz, który "
-"poświęcił permanent w ten sposób, ujawnia wierzchnią kartę swojej "
+"Ilekroć ten stwór zaatakuje, u każdego z graczy wskaż permanent pod "
+"władaniem danego gracza. Owi gracze poświęcają owe permanenty. Każdy gracz, "
+"który poświęcił permanent w ten sposób, ujawnia wierzchnią kartę swojej "
 "biblioteki, następnie umieszcza ją na polu walki jeśli jest to karta "
 "permanentu."
 

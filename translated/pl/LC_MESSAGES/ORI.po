@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../ORI.rst:5
 msgid ":mtgexp:`ORI` Magic Origins"
@@ -90,7 +90,7 @@ msgid ""
 "As long as Archangel of Tithes is attacking, creatures can't block unless "
 "their controller pays |mana_1| for each of those creatures."
 msgstr ""
-"O ile ten stwór atakuje, stwory nie mogą blokować, chyba że ich władca "
+"O ile ten stwór zaatakuje, stwory nie mogą blokować, chyba że ich władca "
 "zapłaci po |mana_1| za każdego z owych stworów."
 
 #: ../../ORI.rst:30
@@ -163,7 +163,7 @@ msgstr ""
 
 #: ../../ORI.rst:51
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1."
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1."
 
 #: ../../ORI.rst:56
 msgid ""
@@ -207,7 +207,7 @@ msgid ""
 "Whenever Consul's Lieutenant attacks, if it's renowned, other attacking "
 "creatures you control get +1/+1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli jest sławny, inne atakujące stwory pod "
+"Ilekroć ten stwór zaatakuje, jeśli jest sławny, inne atakujące stwory pod "
 "twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../ORI.rst:68
@@ -276,7 +276,7 @@ msgid ""
 "Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, tap "
 "target creature defending player controls.\""
 msgstr ""
-"Zauroczony stwór dostaje +1/+1 i ma \"Ilekroć ten stwór atakuje, przekręć "
+"Zauroczony stwór dostaje +1/+1 i ma \"Ilekroć ten stwór zaatakuje, przekręć "
 "wskazanego stwora pod władaniem broniącego się gracza.\""
 
 #: ../../ORI.rst:90
@@ -2129,7 +2129,7 @@ msgid ""
 "Whenever Thornbow Archer attacks, each opponent who doesn't control an Elf "
 "loses 1 life."
 msgstr ""
-"Ilekroć ten stwór atakuje, każdy przeciwnik nie władający Elfem traci po 1 "
+"Ilekroć ten stwór zaatakuje, każdy przeciwnik nie władający Elfem traci po 1 "
 "życiu."
 
 #: ../../ORI.rst:686
@@ -2623,8 +2623,8 @@ msgid ""
 "Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each "
 "other attacking Goblin."
 msgstr ""
-"Ilekroć ten stwór atakuje, dostaje on do końca tury +2/+0 za każdego innego "
-"atakującego Goblina."
+"Ilekroć ten stwór zaatakuje, dostaje on do końca tury +2/+0 za każdego "
+"innego atakującego Goblina."
 
 #: ../../ORI.rst:852
 msgid ""
@@ -2976,7 +2976,7 @@ msgid ""
 "Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking "
 "Elf you control."
 msgstr ""
-"Ilekroć ten stwór atakuje, zyskaj 1 życie za każdego atakującego Elfa pod "
+"Ilekroć ten stwór zaatakuje, zyskaj 1 życie za każdego atakującego Elfa pod "
 "twoim władaniem."
 
 #: ../../ORI.rst:956
@@ -3922,7 +3922,7 @@ msgid ""
 "Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature "
 "defending player controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, zadaje wskazanemu stworowi pod władaniem "
+"Ilekroć ten stwór zaatakuje, zadaje wskazanemu stworowi pod władaniem "
 "broniącego się gracza 7 obrażeń."
 
 #: ../../ORI.rst:1268

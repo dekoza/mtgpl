@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-22 11:24+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c18/"
 "pl/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../C18.rst:5
 msgid ":mtgexp:`C18` Commander 2018"
@@ -1446,8 +1446,8 @@ msgid ""
 "Whenever Silent Sentinel attacks, you may return target enchantment card "
 "from your graveyard to the battlefield."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz przywrócić wskazaną kartę uroku z twojego "
-"cmentarza na pole walki."
+"Ilekroć ten stwór zaatakuje, możesz przywrócić wskazaną kartę uroku z "
+"twojego cmentarza na pole walki."
 
 #: ../../C18.rst:484
 msgid ""
@@ -1706,16 +1706,16 @@ msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_u|.)"
 
 #: ../../C18.rst:579
 msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki jego właściciela. Jeśli ten "
-"czar został podbity, dobierz kartę."
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Jeśli ten czar "
+"został podbity, dobierz kartę."
 
 #: ../../C18.rst:586
 msgid ""
@@ -1758,10 +1758,14 @@ msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgstr ""
 
 #: ../../C18.rst:593
+#, fuzzy
 msgid ""
 "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli tak zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../C18.rst:600
 msgid ""

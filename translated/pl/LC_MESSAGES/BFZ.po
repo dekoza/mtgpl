@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bfz/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../BFZ.rst:5
 msgid ":mtgexp:`BFZ` Battle for Zendikar"
@@ -36,7 +36,7 @@ msgid ""
 "Whenever Bane of Bala Ged attacks, defending player exiles two permanents "
 "they control."
 msgstr ""
-"Ilekroć ten stwór atakuje, broniący się gracz wygania dwa permanenty pod "
+"Ilekroć ten stwór zaatakuje, broniący się gracz wygania dwa permanenty pod "
 "swoim władaniem."
 
 #: ../../BFZ.rst:14
@@ -203,7 +203,7 @@ msgid ""
 "into that player's graveyard. If you do, you gain 5 life."
 msgstr ""
 "Kiedy rzucisz ten czar, możesz umieścić kartę przeciwnika z wygnania w "
-"cmentarzu owego gracza. Jeśli to zrobisz, zyskaj 5 żyć."
+"cmentarzu owego gracza. Jeśli tak zrobisz, zyskaj 5 żyć."
 
 #: ../../BFZ.rst:62
 msgid ""
@@ -259,8 +259,8 @@ msgid ""
 "Whenever Ulamog, the Ceaseless Hunger attacks, defending player exiles the "
 "top twenty cards of their library."
 msgstr ""
-"Kiedy ten stwór atakuje, broniący się gracz wygania dwadzieścia wierzchnich "
-"kart swojej biblioteki."
+"Kiedy ten stwór zaatakuje, broniący się gracz wygania dwadzieścia "
+"wierzchnich kart swojej biblioteki."
 
 #: ../../BFZ.rst:80
 msgid ""
@@ -508,7 +508,7 @@ msgstr ""
 msgid ""
 "Gideon's Reproach deals 4 damage to target attacking or blocking creature."
 msgstr ""
-"Ten czar zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 4 obrażenia."
 
 #: ../../BFZ.rst:160
 msgid ""
@@ -1560,7 +1560,7 @@ msgstr ""
 
 #: ../../BFZ.rst:527
 msgid "Whenever Silent Skimmer attacks, defending player loses 2 life."
-msgstr "Kiedy ten stwór atakuje, broniący się gracz traci 2 życia."
+msgstr "Kiedy ten stwór zaatakuje, broniący się gracz traci 2 życia."
 
 #: ../../BFZ.rst:536
 msgid ""
@@ -3305,7 +3305,7 @@ msgid ""
 "Whenever Angelic Captain attacks, it gets +1/+1 until end of turn for each "
 "other attacking Ally."
 msgstr ""
-"Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdego innego "
+"Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1 za każdego innego "
 "atakującego Sojusznika."
 
 #: ../../BFZ.rst:1148

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mh1/"
 "pl/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../MH1.rst:5
 msgid ":mtgexp:`MH1` Modern Horizons"
@@ -452,7 +452,7 @@ msgid ""
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
 "Wykup |mana_3| (Rzucając ten czar możesz zapłacić dodatkowo |mana_3|. Jeśli "
-"to zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../MH1.rst:131
 msgid "Create a 1/1 white Soldier creature token."
@@ -487,14 +487,14 @@ msgid ""
 "Battle cry (Whenever this creature attacks, each other attacking creature "
 "gets +1/+0 until end of turn.)"
 msgstr ""
-"Okrzyk bojowy (Ilekroć ten stwór atakuje, każdy inny atakujący stwór dostaje "
-"do końca tury +1/+0.)"
+"Okrzyk bojowy (Ilekroć ten stwór zaatakuje, każdy inny atakujący stwór "
+"dostaje do końca tury +1/+0.)"
 
 #: ../../MH1.rst:143
 msgid ""
 "Whenever Rhox Veteran attacks, tap target creature an opponent controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
+"Ilekroć ten stwór zaatakuje, przekręć wskazanego stwora pod władaniem "
 "przeciwnika."
 
 #: ../../MH1.rst:148
@@ -632,7 +632,7 @@ msgid ""
 msgstr ""
 "Sklej ze sztuczką lub obrzędem |mana_3|\\ |mana_w| (Podczas rzucania czaru "
 "sztuczki lub obrzędu możesz ujawnić tę kartę z twojej ręki i zapłacić jej "
-"koszt sklejenia. Jeśli to zrobisz dodaj efekt tej karty do owego czaru.)"
+"koszt sklejenia. Jeśli tak zrobisz dodaj efekt tej karty do owego czaru.)"
 
 #: ../../MH1.rst:196
 msgid ""
@@ -652,7 +652,7 @@ msgid ""
 "\"each.\")"
 msgstr ""
 "Przeciążenie |mana_5|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
-"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
 "wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH1.rst:200
@@ -721,7 +721,7 @@ msgid ""
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_1|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
-"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../MH1.rst:222
 msgid ""
@@ -766,7 +766,7 @@ msgid ""
 "\"target\" with \"each.\")"
 msgstr ""
 "Przeciążenie |mana_4|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
-"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
 "wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH1.rst:234
@@ -961,7 +961,7 @@ msgid ""
 msgstr ""
 "Sklej ze sztuczką lub obrzędem |mana_2|\\ |mana_u| (Podczas rzucania czaru "
 "sztuczki lub obrzędu możesz ujawnić tę kartę z twojej ręki i zapłacić jej "
-"koszt sklejenia. Jeśli to zrobisz dodaj efekt tej karty do owego czaru.)"
+"koszt sklejenia. Jeśli tak zrobisz dodaj efekt tej karty do owego czaru.)"
 
 #: ../../MH1.rst:298
 msgid ""
@@ -1107,7 +1107,7 @@ msgid ""
 "20/20 black Avatar creature token with flying and indestructible."
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli władasz co najmniej dziesięcioma "
-"śnieżnymi permanentami, poświęć ten urok. Jeśli to zrobisz, stwórz żeton "
+"śnieżnymi permanentami, poświęć ten urok. Jeśli tak zrobisz, stwórz żeton "
 "czarnego legendarnego stwora Awatar 20/20 z lataniem i niezniszczalnością."
 
 #: ../../MH1.rst:348
@@ -1247,8 +1247,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_2| (You may pay an additional |mana_2| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2| (Możesz zapłacić dodatkowo |mana_2| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_2| (Rzucając ten czar możesz dodatkowo zapłacić |mana_2|.)"
 
 #: ../../MH1.rst:385
 msgid ""
@@ -1923,7 +1922,7 @@ msgid ""
 "When Rank Officer enters the battlefield, you may discard a card. If you do, "
 "create a 2/2 black Zombie creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz odrzucić kartę. Jeśli to "
+"Kiedy ten stwór wejdzie na pole walki, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../MH1.rst:609
@@ -2725,7 +2724,7 @@ msgid ""
 msgstr ""
 "Czerpak 1 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
 "dokładnie jedną kartę z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
-"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
 "przeciwnym razie dobierz kartę.)"
 
 #: ../../MH1.rst:866
@@ -3023,7 +3022,7 @@ msgid ""
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
 "Wykup |mana_4| (Rzucając ten czar możesz zapłacić dodatkowo |mana_4|. Jeśli "
-"to zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../MH1.rst:960
 msgid ""
@@ -3333,7 +3332,7 @@ msgid ""
 "\"target\" with \"each.\")"
 msgstr ""
 "Przeciążenie |mana_4|\\ |mana_g|\\ |mana_g| (Możesz rzucić ten czar za jego "
-"koszt przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"koszt przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
 "wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH1.rst:1050
@@ -3364,7 +3363,7 @@ msgid ""
 "you do, search your library for up to two basic land cards, put them onto "
 "the battlefield tapped, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić ląd. Jeśli to "
+"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić ląd. Jeśli tak "
 "zrobisz, wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, "
 "umieść je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
 
@@ -3464,7 +3463,7 @@ msgid ""
 "Whenever Treetop Ambusher attacks, target creature you control gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, wskazany stwór pod twoim władaniem dostaje do "
+"Ilekroć ten stwór zaatakuje, wskazany stwór pod twoim władaniem dostaje do "
 "końca tury +1/+1."
 
 #: ../../MH1.rst:1090
@@ -3995,7 +3994,7 @@ msgid ""
 "Whenever Thundering Djinn attacks, it deals damage to any target equal to "
 "the number of cards you've drawn this turn."
 msgstr ""
-"Kiedy ten stwór atakuje, zadaje w dowolnie wskazany cel obrażenia równe "
+"Kiedy ten stwór zaatakuje, zadaje w dowolnie wskazany cel obrażenia równe "
 "liczbie kart dobranych przez ciebie w tej turze."
 
 #: ../../MH1.rst:1270

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-22 11:24+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/som/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SOM.rst:5
@@ -745,7 +745,7 @@ msgstr ""
 
 #: ../../SOM.rst:273
 msgid "You control enchanted permanent."
-msgstr "Masz władanie nad zauroczonym permanentem."
+msgstr "Władasz zauroczonym permanentem."
 
 #: ../../SOM.rst:280
 msgid ""
@@ -1875,7 +1875,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../SOM.rst:698
 msgid ""

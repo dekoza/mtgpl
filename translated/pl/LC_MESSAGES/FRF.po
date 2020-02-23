@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-22 11:24+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/frf/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "X-POOTLE-MTIME: 1421483309.161061\n"
 
 # 7345517278b443309b0fc8a176170ddf
@@ -652,7 +652,7 @@ msgid ""
 "a blue or red permanent, you may discard a card. If you do, draw a card."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli władasz niebieskim "
-"lub czerwonym permanentem, możesz odrzucić kartę. Jeśli to zrobisz, dobierz "
+"lub czerwonym permanentem, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz "
 "kartę."
 
 #: ../../FRF.rst:180
@@ -666,7 +666,7 @@ msgstr ""
 #: ../../FRF.rst:179
 msgid ""
 "As long as Wardscale Dragon is attacking, defending player can't cast spells."
-msgstr "O ile ten stwór atakuje, broniący się gracz nie może rzucać czarów."
+msgstr "O ile ten stwór zaatakuje, broniący się gracz nie może rzucać czarów."
 
 #: ../../FRF.rst:190
 msgid ""
@@ -1040,7 +1040,7 @@ msgid ""
 "Whenever Sage-Eye Avengers attacks, you may return target creature to its "
 "owner's hand if its power is less than Sage-Eye Avengers's power."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz przywrócić wskazanego stwora do ręki "
+"Ilekroć ten stwór zaatakuje, możesz przywrócić wskazanego stwora do ręki "
 "właściciela jeśli jego siła jest mniejsza niż siła niniejszego stwora."
 
 #: ../../FRF.rst:304
@@ -1132,7 +1132,7 @@ msgid ""
 "Whenever Torrent Elemental attacks, tap all creatures defending player "
 "controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, przekręć wszystkie stwory pod władaniem "
+"Ilekroć ten stwór zaatakuje, przekręć wszystkie stwory pod władaniem "
 "broniącego się gracza."
 
 #: ../../FRF.rst:331
@@ -1446,7 +1446,7 @@ msgstr ""
 # eee6880b6fcd4bb28bab58101c35f2aa
 #: ../../FRF.rst:421
 msgid "Whenever Mardu Shadowspear attacks, each opponent loses 1 life."
-msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 1 życiu."
+msgstr "Ilekroć ten stwór zaatakuje, każdy przeciwnik traci po 1 życiu."
 
 # 0397ecfb30964c239d36f3fe6d7c46e0
 #: ../../FRF.rst:423
@@ -1471,7 +1471,7 @@ msgstr ""
 msgid ""
 "Whenever Mardu Strike Leader attacks, create a 2/1 black Warrior creature "
 "token."
-msgstr "Ilekroć ten stwór atakuje, stwórz żeton czarnego stwora Wojownik 2/1."
+msgstr "Ilekroć ten stwór zaatakuje, stwórz żeton czarnego stwora Wojownik 2/1."
 
 # 4c79c4fe05384b24893e604655081c09
 #: ../../FRF.rst:429
@@ -1744,8 +1744,8 @@ msgid ""
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli to "
-"zrobisz, przywróć wskazaną kartę stwora o sile 2 lub mniejszej z twojego "
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli "
+"tak zrobisz, przywróć wskazaną kartę stwora o sile 2 lub mniejszej z twojego "
 "cmentarza na pole walki przekręconą i atakującą."
 
 #: ../../FRF.rst:514
@@ -1899,8 +1899,8 @@ msgid ""
 "target attacking creature and that's tapped and attacking. Exile the token "
 "at end of combat."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz przekręcony i atakujący żeton będący kopią "
-"innego wskazanego atakującego stwora. Wygnaj ów żeton na końcu walki."
+"Ilekroć ten stwór zaatakuje, stwórz przekręcony i atakujący żeton będący "
+"kopią innego wskazanego atakującego stwora. Wygnaj ów żeton na końcu walki."
 
 # 7a153310f0a4478d82c0be28f4e08bcb
 #: ../../FRF.rst:553
@@ -1938,7 +1938,7 @@ msgid ""
 "Flamewake Phoenix from your graveyard to the battlefield."
 msgstr ""
 "Zaciekłość — Na początku walki w twojej turze, jeśli władasz stworem o sile "
-"4 lub większej, możesz zapłacić |mana_r|. Jeśli to zrobisz, przywróć tego "
+"4 lub większej, możesz zapłacić |mana_r|. Jeśli tak zrobisz, przywróć tego "
 "stwora z twojego cmentarza na pole walki."
 
 #: ../../FRF.rst:566
@@ -1971,7 +1971,7 @@ msgstr ""
 msgid ""
 "Whenever Goblin Heelcutter attacks, target creature can't block this turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, wskazany stwór nie może blokować w tej turze."
+"Ilekroć ten stwór zaatakuje, wskazany stwór nie może blokować w tej turze."
 
 # 3bb05d0f233a4259890307ae8aba059e
 # dcd1a44b766f4374a5b787a2924ae122
@@ -2277,8 +2277,8 @@ msgid ""
 "Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a "
 "card."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz "
-"kartę."
+"Ilekroć ten stwór zaatakuje, możesz odrzucić kartę. Jeśli tak zrobisz, "
+"dobierz kartę."
 
 #: ../../FRF.rst:664
 msgid ""

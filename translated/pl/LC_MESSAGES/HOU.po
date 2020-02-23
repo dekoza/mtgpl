@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/hou/"
 "pl/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../HOU.rst:5
@@ -156,7 +156,7 @@ msgstr ""
 #: ../../HOU.rst:47
 msgid "Whenever Dauntless Aven attacks, untap target creature you control."
 msgstr ""
-"Ilekroć ten stwór atakuje, odkręć wskazanego stwora pod twoim władaniem."
+"Ilekroć ten stwór zaatakuje, odkręć wskazanego stwora pod twoim władaniem."
 
 #: ../../HOU.rst:56
 msgid ""
@@ -562,8 +562,8 @@ msgid ""
 "Whenever Aerial Guide attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, inny wskazany atakujący stwór zyskuje latanie do "
-"końca tury."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór zyskuje latanie "
+"do końca tury."
 
 #: ../../HOU.rst:176
 msgid ""
@@ -585,7 +585,7 @@ msgid ""
 "its power. If you do, discard two cards."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz dobrać tyle kart, ile wynosi "
-"jego siła. Jeśli to zrobisz, odrzuć dwie karty."
+"jego siła. Jeśli tak zrobisz, odrzuć dwie karty."
 
 #: ../../HOU.rst:181
 msgid ""
@@ -647,7 +647,7 @@ msgstr ""
 #: ../../HOU.rst:197
 msgid ""
 "Whenever Eternal of Harsh Truths attacks and isn't blocked, draw a card."
-msgstr "Ilekroć ten stwór atakuje i nie jest blokowany, dobierz kartę."
+msgstr "Ilekroć ten stwór zaatakuje i nie jest blokowany, dobierz kartę."
 
 #: ../../HOU.rst:204
 msgid ""
@@ -1660,8 +1660,8 @@ msgid ""
 "Whenever Gilded Cerodon attacks, if you control a Desert or there is a "
 "Desert card in your graveyard, target creature can't block this turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli władasz Pustynią lub w twoim cmentarzu jest "
-"karta Pustyni, wskazany stwór nie może blokować w tej turze."
+"Ilekroć ten stwór zaatakuje, jeśli władasz Pustynią lub w twoim cmentarzu "
+"jest karta Pustyni, wskazany stwór nie może blokować w tej turze."
 
 #: ../../HOU.rst:530
 msgid ""
@@ -1860,7 +1860,7 @@ msgstr ""
 
 #: ../../HOU.rst:595
 msgid "Thorned Moloch has first strike as long as it's attacking."
-msgstr "O ile ten stwór atakuje, ma pierwszy cios."
+msgstr "O ile ten stwór zaatakuje, ma pierwszy cios."
 
 #: ../../HOU.rst:602
 msgid ""
@@ -1882,8 +1882,8 @@ msgid ""
 "Whenever Wildfire Eternal attacks and isn't blocked, you may cast an instant "
 "or sorcery card from your hand without paying its mana cost."
 msgstr ""
-"Ilekroć ten stwór atakuje i nie jest blokowany, możesz rzucić kartę sztuczki "
-"lub obrzędu z twojej ręki bez płacenia jej kosztu many."
+"Ilekroć ten stwór zaatakuje i nie jest blokowany, możesz rzucić kartę "
+"sztuczki lub obrzędu z twojej ręki bez płacenia jej kosztu many."
 
 #: ../../HOU.rst:606
 msgid ""
@@ -2922,8 +2922,8 @@ msgid ""
 "Whenever Graven Abomination attacks, exile target card from defending "
 "player's graveyard."
 msgstr ""
-"Ilekroć ten stwór atakuje, wygnaj wskazaną kartę z cmentarza broniącego się "
-"gracza."
+"Ilekroć ten stwór zaatakuje, wygnaj wskazaną kartę z cmentarza broniącego "
+"się gracza."
 
 #: ../../HOU.rst:944
 msgid ""
@@ -3509,7 +3509,7 @@ msgid ""
 "Bitter End. If you do, destroy target creature."
 msgstr ""
 "Ilekroć rzucisz czar wędrowca o typie Bolas, możesz poświęcić tego stwora. "
-"Jeśli to zrobisz, zniszcz wskazanego stwora."
+"Jeśli tak zrobisz, zniszcz wskazanego stwora."
 
 #: ../../HOU.rst:1154
 msgid ""

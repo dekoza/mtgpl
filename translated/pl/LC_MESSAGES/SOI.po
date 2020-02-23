@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:52+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SOI.rst:5
@@ -2032,7 +2032,7 @@ msgid ""
 "Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2|\\ |"
 "mana_b|. If you do, transform it."
 msgstr ""
-"Ilekroć ten stwór atakuje i nie jest blokowany, możesz zapłacić |mana_2|\\ "
+"Ilekroć ten stwór zaatakuje i nie jest blokowany, możesz zapłacić |mana_2|\\ "
 "|mana_b|. Jeśli tak zrobisz, transformuj go."
 
 #: ../../SOI.rst:654
@@ -2344,7 +2344,8 @@ msgstr ""
 msgid ""
 "Whenever Morkrut Necropod attacks or blocks, sacrifice another creature or "
 "land."
-msgstr "Ilekroć ten stwór atakuje lub blokuje, poświęć innego stwora lub ląd."
+msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, poświęć innego stwora lub ląd."
 
 #: ../../SOI.rst:750
 msgid ""
@@ -3542,7 +3543,7 @@ msgid ""
 "discard a card. If you do, Wolf of Devil's Breach deals damage to target "
 "creature or planeswalker equal to the discarded card's converted mana cost."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_1|\\ |mana_r| i odrzucić "
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_1|\\ |mana_r| i odrzucić "
 "kartę. Jeśli tak zrobisz, ten stwór zadaje wskazanemu stworowi lub "
 "wędrowcowi tyle obrażeń, ile wynosi skrócony koszt many odrzuconej karty."
 
@@ -3947,7 +3948,7 @@ msgid ""
 "types among cards in your graveyard, create a 3/3 green Ooze creature token "
 "that's tapped and attacking."
 msgstr ""
-"Delirium — Ilekroć ten stwór atakuje, jeśli w twoim cmentarzu są karty "
+"Delirium — Ilekroć ten stwór zaatakuje, jeśli w twoim cmentarzu są karty "
 "należące do co najmniej czterech typów kart, stwórz przekręcony i atakujący "
 "żeton zielonego stwora Szlam 3/3."
 
@@ -4629,7 +4630,7 @@ msgid ""
 "Angel creature token with flying that's tapped and attacking. Exile that "
 "token at end of combat.\""
 msgstr ""
-"Zauroczony stwór ma \"Ilekroć ten stwór atakuje stwórz przekręcony i "
+"Zauroczony stwór ma \"Ilekroć ten stwór zaatakuje stwórz przekręcony i "
 "atakujący żeton białego stwora Anioł 4/4. Wygnaj ów żeton na koniec walki.\""
 
 #: ../../SOI.rst:1474
@@ -4937,7 +4938,7 @@ msgstr ""
 
 #: ../../SOI.rst:1569
 msgid "When Runaway Carriage attacks or blocks, sacrifice it at end of combat."
-msgstr "Kiedy ten stwór atakuje lub blokuje, poświęć go na koniec walki."
+msgstr "Kiedy ten stwór zaatakuje lub zablokuje, poświęć go na koniec walki."
 
 #: ../../SOI.rst:1578
 msgid ""

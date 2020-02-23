@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/isd/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "X-POOTLE-MTIME: 1391159808.806397\n"
 
 #: ../../ISD.rst:5
@@ -1172,7 +1172,7 @@ msgid ""
 "their library."
 msgstr ""
 "Wskazany gracz wtasowuje co najwyżej trzy wskazane karty z jego cmentarza do "
-"jego biblioteki."
+"swojej biblioteki."
 
 # 2863541b22f34417bbb832dedaf0324f
 # f58e074122eb4b1d9e3ea1a0a5b398c3
@@ -3231,8 +3231,8 @@ msgid ""
 "Whenever Hamlet Captain attacks or blocks, other Humans you control get +1/"
 "+1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje lub blokuje, inne stwory typu Człowiek pod twoim "
-"władaniem dostają do końca tury +1/+1."
+"Ilekroć ten stwór zaatakuje lub zablokuje, inne stwory typu Człowiek pod "
+"twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../ISD.rst:1072
 msgid ""
@@ -4132,8 +4132,7 @@ msgid ""
 "Clifftop Retreat enters the battlefield tapped unless you control a Mountain "
 "or a Plains."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Górą lub "
-"Równiną."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Górą lub Równiną."
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1371
@@ -4185,7 +4184,7 @@ msgid ""
 "Hinterland Harbor enters the battlefield tapped unless you control a Forest "
 "or an Island."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Lasem lub Wyspą."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Lasem lub Wyspą."
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1389
@@ -4205,7 +4204,7 @@ msgid ""
 "Isolated Chapel enters the battlefield tapped unless you control a Plains or "
 "a Swamp."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Równiną lub "
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Równiną lub "
 "Bagnem."
 
 # 30fbc92ebeb64bd38b48f93d027da05b
@@ -4289,7 +4288,7 @@ msgid ""
 "Sulfur Falls enters the battlefield tapped unless you control an Island or a "
 "Mountain."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Wyspą lub Górą."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Wyspą lub Górą."
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1431
@@ -4309,8 +4308,7 @@ msgid ""
 "Woodland Cemetery enters the battlefield tapped unless you control a Swamp "
 "or a Forest."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Bagnem lub "
-"Lasem."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Bagnem lub Lasem."
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1437

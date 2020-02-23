@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bng/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "X-POOTLE-MTIME: 1391098335.778030\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
@@ -165,8 +165,8 @@ msgid ""
 "Whenever Brimaz, King of Oreskos attacks, create a 1/1 white Cat Soldier "
 "creature token with vigilance that's attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz atakujący żeton białego stwora Kot Piechur "
-"1/1 z czujnością."
+"Ilekroć ten stwór zaatakuje, stwórz atakujący żeton białego stwora Kot "
+"Piechur 1/1 z czujnością."
 
 # 48f89cb469dd4edf8307e4f2fb0ef001
 # 2b7a52e11ba441e6a77ea8cc19508b7e
@@ -610,8 +610,8 @@ msgid ""
 "Whenever Silent Sentinel attacks, you may return target enchantment card "
 "from your graveyard to the battlefield."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz przywrócić wskazaną kartę uroku z twojego "
-"cmentarza na pole walki."
+"Ilekroć ten stwór zaatakuje, możesz przywrócić wskazaną kartę uroku z "
+"twojego cmentarza na pole walki."
 
 #: ../../BNG.rst:150
 msgid ""
@@ -2055,7 +2055,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_r|: Ten stwór zadaje wskazanemu stworowi 1 obrażenie. Ów "
 "stwór nie może blokować w tej walce. Możesz aktywować tę zdolność tylko "
-"jeśli ten stwór atakuje."
+"jeśli ten stwór zaatakuje."
 
 #: ../../BNG.rst:538
 msgid ""

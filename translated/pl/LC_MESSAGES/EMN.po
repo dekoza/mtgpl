@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:52+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/emn/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../EMN.rst:5
@@ -640,7 +640,7 @@ msgstr ""
 msgid ""
 "Whenever Fiend Binder attacks, tap target creature defending player controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
+"Ilekroć ten stwór zaatakuje, przekręć wskazanego stwora pod władaniem "
 "broniącego się gracza."
 
 #: ../../EMN.rst:202
@@ -933,7 +933,7 @@ msgstr ""
 
 #: ../../EMN.rst:287
 msgid "Whenever Steadfast Cathar attacks, it gets +0/+2 until end of turn."
-msgstr "Ilekroć ten stwór atakuje, dostaje do końca tury +0/+2."
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +0/+2."
 
 #: ../../EMN.rst:294
 msgid ""
@@ -1321,7 +1321,7 @@ msgid ""
 "end of turn. Return the exiled card to the battlefield under its owner's "
 "control at the beginning of the next end step."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz wygnać innego wskazanego nieżetonowego "
+"Ilekroć ten stwór zaatakuje, możesz wygnać innego wskazanego nieżetonowego "
 "stwora. Jeśli tak zrobisz, ten stwór do końca tury staje się kopią owego "
 "stwora. Przywróć wygnaną kartę na pole walki pod władaniem jej właściciela "
 "na początku najbliższego kroku końcowego."
@@ -2106,8 +2106,8 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_b|\\ |mana_b|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na "
-"wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją "
-"w twoim cmentarzu.)"
+"wygnanie. Jeśli tak zrobisz, zagraj ją za jej koszt szaleństwa albo umieść "
+"ją w twoim cmentarzu.)"
 
 #: ../../EMN.rst:686
 msgid ""
@@ -2306,7 +2306,7 @@ msgstr ""
 
 #: ../../EMN.rst:745
 msgid "Whenever Brazen Wolves attacks, it gets +2/+0 until end of turn."
-msgstr "Ilekroć ten stwór atakuje, dostaje on do końca tury +2/+0."
+msgstr "Ilekroć ten stwór zaatakuje, dostaje on do końca tury +2/+0."
 
 #: ../../EMN.rst:758
 msgid ""
@@ -2349,8 +2349,8 @@ msgid ""
 "Whenever Conduit of Storms attacks, add |mana_r| at the beginning of your "
 "next main phase this turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, weź |mana_r| na początku twojej najbliższej fazy "
-"głównej w tej turze."
+"Ilekroć ten stwór zaatakuje, weź |mana_r| na początku twojej najbliższej "
+"fazy głównej w tej turze."
 
 #: ../../EMN.rst:763
 msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Transform Conduit of Storms."
@@ -2369,8 +2369,8 @@ msgid ""
 "Whenever Conduit of Emrakul attacks, add |colorless|\\ |colorless| at the "
 "beginning of your next main phase this turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, weź |colorless|\\ |colorless| na początku twojej "
-"najbliższej fazy głównej w tej turze."
+"Ilekroć ten stwór zaatakuje, weź |colorless|\\ |colorless| na początku "
+"twojej najbliższej fazy głównej w tej turze."
 
 #: ../../EMN.rst:772
 msgid ""
@@ -2452,7 +2452,7 @@ msgid ""
 "Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens "
 "that are tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz dwa przekręcone i atakujące żetony "
+"Ilekroć ten stwór zaatakuje, stwórz dwa przekręcone i atakujące żetony "
 "czerwonego stwora Człowiek 1/1."
 
 #: ../../EMN.rst:797
@@ -2472,7 +2472,7 @@ msgid ""
 "Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless "
 "Eldrazi Horror creature tokens that are tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz dwa przekręcone i atakujące żetony "
+"Ilekroć ten stwór zaatakuje, stwórz dwa przekręcone i atakujące żetony "
 "bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:808
@@ -2500,7 +2500,7 @@ msgid ""
 "When Impetuous Devils attacks, up to one target creature defending player "
 "controls blocks it this combat if able."
 msgstr ""
-"Kiedy ten stwór atakuje, co najwyżej jeden wskazany stwór pod władaniem "
+"Kiedy ten stwór zaatakuje, co najwyżej jeden wskazany stwór pod władaniem "
 "broniącego się gracza blokuje go w tej turze, jeśli może."
 
 #: ../../EMN.rst:815
@@ -2694,7 +2694,7 @@ msgstr ""
 
 #: ../../EMN.rst:877
 msgid "Whenever Erupting Dreadwolf attacks, it deals 2 damage to any target."
-msgstr "Ilekroć ten stwór atakuje, zadaje on wskazanemu celowi 2 obrażenia."
+msgstr "Ilekroć ten stwór zaatakuje, zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../EMN.rst:882
 msgid ""
@@ -3028,8 +3028,8 @@ msgid ""
 "Whenever Hamlet Captain attacks or blocks, other Humans you control get +1/"
 "+1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje lub blokuje, inne stwory typu Człowiek pod twoim "
-"władaniem dostają do końca tury +1/+1."
+"Ilekroć ten stwór zaatakuje lub zablokuje, inne stwory typu Człowiek pod "
+"twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../EMN.rst:992
 msgid ""
@@ -3384,8 +3384,8 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_b|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na "
-"wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją "
-"w twoim cmentarzu.)"
+"wygnanie. Jeśli tak zrobisz, zagraj ją za jej koszt szaleństwa albo umieść "
+"ją w twoim cmentarzu.)"
 
 #: ../../EMN.rst:1114
 msgid ""
@@ -3631,7 +3631,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../EMN.rst:1196
 msgid ""
@@ -3671,7 +3671,7 @@ msgstr "Latanie, dotyk śmierci"
 
 #: ../../EMN.rst:1201
 msgid "Whenever Aurora of Emrakul attacks, each opponent loses 3 life."
-msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci po 3 życia."
+msgstr "Ilekroć ten stwór zaatakuje, każdy przeciwnik traci po 3 życia."
 
 #: ../../EMN.rst:1208
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-19 22:24+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/fut/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../FUT.rst:5
@@ -756,7 +756,7 @@ msgstr "Zaurocz permanent"
 
 #: ../../FUT.rst:257
 msgid "You control enchanted permanent."
-msgstr "Masz władanie nad zauroczonym permanentem."
+msgstr "Władasz zauroczonym permanentem."
 
 #: ../../FUT.rst:264
 msgid ""
@@ -1129,7 +1129,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szaleństwo |mana_3|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../FUT.rst:400
@@ -1667,6 +1667,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |mana_r|.)"
 
 #: ../../FUT.rst:587
 msgid ""
@@ -2098,6 +2099,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_4| (Rzucając ten czar możesz dodatkowo zapłacić |mana_4|.)"
 
 #: ../../FUT.rst:741 ../../FUT.rst:799
 msgid ""
@@ -2281,7 +2283,7 @@ msgid ""
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
 "Wykup |mana_3| (Rzucając ten czar możesz zapłacić dodatkowo |mana_3|. Jeśli "
-"to zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../FUT.rst:803
 msgid "Create a 1/1 green Saproling creature token."
@@ -2788,7 +2790,7 @@ msgid ""
 msgstr ""
 "Czerpak 2 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
 "dokładnie dwie karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
-"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
 "przeciwnym razie dobierz kartę.)"
 
 #: ../../FUT.rst:980

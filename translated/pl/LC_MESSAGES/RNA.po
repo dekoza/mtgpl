@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rna/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../RNA.rst:5
 #, fuzzy
@@ -446,7 +446,7 @@ msgid ""
 "Whenever Tenth District Veteran attacks, untap another target creature you "
 "control."
 msgstr ""
-"Ilekroć ten stwór atakuje, odkręć innego wskazanego stwora pod twoim "
+"Ilekroć ten stwór zaatakuje, odkręć innego wskazanego stwora pod twoim "
 "władaniem."
 
 #: ../../RNA.rst:150
@@ -908,7 +908,7 @@ msgid ""
 "You may reveal this card from your opening hand. If you do, scry 3 at the "
 "beginning of your first upkeep."
 msgstr ""
-"Możesz ujawnić tę kartę z twojej początkowej ręki. Jeśli to zrobisz, wróż 3 "
+"Możesz ujawnić tę kartę z twojej początkowej ręki. Jeśli tak zrobisz, wróż 3 "
 "na początku twojego pierwszego kroku utrzymania."
 
 #: ../../RNA.rst:314
@@ -1062,8 +1062,8 @@ msgid ""
 "Whenever Bloodmist Infiltrator attacks, you may sacrifice another creature. "
 "If you do, Bloodmist Infiltrator can't be blocked this turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz poświęcić innego stwora. Jeśli to zrobisz, "
-"ten stwór nie może być blokowany w tej turze."
+"Ilekroć ten stwór zaatakuje, możesz poświęcić innego stwora. Jeśli tak "
+"zrobisz, ten stwór nie może być blokowany w tej turze."
 
 #: ../../RNA.rst:368
 msgid ""
@@ -1078,7 +1078,7 @@ msgid ""
 "from a graveyard. If you do, you gain 2 life."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, możesz wygnać wskazaną kartę stwora z "
-"dowolnego cmentarza. Jeśli to zrobisz, zyskaj 2 życia."
+"dowolnego cmentarza. Jeśli tak zrobisz, zyskaj 2 życia."
 
 #: ../../RNA.rst:370
 msgid ""
@@ -1436,7 +1436,7 @@ msgid ""
 "scry 2."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, możesz poświęcić innego stwora. Jeśli "
-"to zrobisz, umieść dwa znaczniki +1/+1 na tym stworze, następnie wróż 2."
+"tak zrobisz, umieść dwa znaczniki +1/+1 na tym stworze, następnie wróż 2."
 
 #: ../../RNA.rst:488
 msgid ""
@@ -1538,8 +1538,8 @@ msgid ""
 "Whenever Burning-Tree Vandal attacks, you may discard a card. If you do, "
 "draw a card."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz odrzucić kartę. Jeśli to zrobisz, dobierz "
-"kartę."
+"Ilekroć ten stwór zaatakuje, możesz odrzucić kartę. Jeśli tak zrobisz, "
+"dobierz kartę."
 
 #: ../../RNA.rst:514
 msgid ""
@@ -1570,8 +1570,8 @@ msgid ""
 "Whenever Clamor Shaman attacks, target creature an opponent controls can't "
 "block this turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, wskazany stwór pod władaniem przeciwnika nie może "
-"blokować w tej turze."
+"Ilekroć ten stwór zaatakuje, wskazany stwór pod władaniem przeciwnika nie "
+"może blokować w tej turze."
 
 #: ../../RNA.rst:524
 msgid ""
@@ -2094,7 +2094,7 @@ msgid ""
 "Whenever Gruul Beastmaster attacks, another target creature you control gets "
 "+X/+0 until end of turn, where X is Gruul Beastmaster's power."
 msgstr ""
-"Ilekroć ten stwór atakuje, inny wskazany stwór pod twoim władaniem dostaje "
+"Ilekroć ten stwór zaatakuje, inny wskazany stwór pod twoim władaniem dostaje "
 "+x/+0 do końca tury, gdzie X jest siłą niniejszego stwora."
 
 #: ../../RNA.rst:690
@@ -2901,7 +2901,7 @@ msgid ""
 "many +1/+1 counters on Galloping Lizrog."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, możesz usunąć dowolną liczbę "
-"znaczników +1/+1 spośród stworów pod twoim władaniem. Jeśli to zrobisz, "
+"znaczników +1/+1 spośród stworów pod twoim władaniem. Jeśli tak zrobisz, "
 "umieść dwukrotnie tyle znaczników +1/+1 na tym permanencie."
 
 #: ../../RNA.rst:940
@@ -4127,7 +4127,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../RNA.rst:1346
 msgid ""
@@ -4615,7 +4615,7 @@ msgstr "Latanie, więź życia"
 #: ../../RNA.rst:1505
 msgid ""
 "Whenever The Haunt of Hightower attacks, defending player discards a card."
-msgstr "Ilekroć ten stwór atakuje, broniący się gracz odrzuca kartę."
+msgstr "Ilekroć ten stwór zaatakuje, broniący się gracz odrzuca kartę."
 
 #: ../../RNA.rst:1507
 msgid ""

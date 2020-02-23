@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/thb/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../THB.rst:5
 #, fuzzy
@@ -842,7 +842,7 @@ msgid ""
 "control. Until end of turn, that creature has base power and toughness 4/4 "
 "and gains indestructible."
 msgstr ""
-"Ilekroć ten stwór atakuje, odkręć innego wskazanego stwora pod twoim "
+"Ilekroć ten stwór zaatakuje, odkręć innego wskazanego stwora pod twoim "
 "władaniem. Do końca tury ów stwór ma bazową siłę i wytrzymałość 4/4 i "
 "zyskuje niezniszczalność."
 
@@ -2944,7 +2944,7 @@ msgid ""
 "Whenever Tectonic Giant attacks or becomes the target of a spell an opponent "
 "controls, choose one —"
 msgstr ""
-"Ilekroć ten stwór atakuje lub zostaje wskazany przez czar pod władaniem "
+"Ilekroć ten stwór zaatakuje lub zostaje wskazany przez czar pod władaniem "
 "przeciwnika, wybierz jedno —"
 
 #: ../../THB.rst:939
@@ -3844,9 +3844,9 @@ msgid ""
 "this creature attacks or blocks, each opponent exiles the top two cards of "
 "their library.\""
 msgstr ""
-"+1: Stwórz żeton czarno-niebieskiego stwora Koszmar 2/3 ze zdolnością "
-"\"Ilekroć ten stwór atakuje lub blokuje, każdy przeciwnik wygania wierzchnią "
-"kartę swojej biblioteki.\""
+"+1: Stwórz żeton czarno-niebieskiego stwora Koszmar 2/3 ze zdolnością \""
+"Ilekroć ten stwór zaatakuje lub zablokuje, każdy przeciwnik wygania "
+"wierzchnią kartę swojej biblioteki.\""
 
 #: ../../THB.rst:1237
 msgid ""
@@ -3998,7 +3998,7 @@ msgstr "Ilekroć dobierzesz kartę, ten stwór do końca tury dostaje +1/+0."
 
 #: ../../THB.rst:1279
 msgid "Whenever Dream Trawler attacks, draw a card."
-msgstr "Ilekroć ten stwór atakuje, dobierz kartę."
+msgstr "Ilekroć ten stwór zaatakuje, dobierz kartę."
 
 #: ../../THB.rst:1281
 msgid "Discard a card: Dream Trawler gains hexproof until end of turn. Tap it."
@@ -4057,7 +4057,7 @@ msgid ""
 "random. If you do, draw two cards."
 msgstr ""
 "Ilekroć atakujesz co najmniej trzema stworami, możesz odrzucić losową kartę. "
-"Jeśli to zrobisz, dobierz dwie karty."
+"Jeśli tak zrobisz, dobierz dwie karty."
 
 #: ../../THB.rst:1306
 msgid ""
@@ -4401,7 +4401,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../THB.rst:1410
 msgid ""
@@ -5086,7 +5086,8 @@ msgid ""
 "Whenever Underworld Sentinel attacks, exile target creature card from your "
 "graveyard."
 msgstr ""
-"Ilekroć ten stwór atakuje, wygnaj wskazaną kartę stwora z twojego cmentarza."
+"Ilekroć ten stwór zaatakuje, wygnaj wskazaną kartę stwora z twojego "
+"cmentarza."
 
 #: ../../THB.rst:1629
 msgid ""

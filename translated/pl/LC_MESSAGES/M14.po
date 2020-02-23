@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-22 11:24+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m14/"
 "pl/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "X-POOTLE-MTIME: 1385404032.966664\n"
 
 #: ../../M14.rst:5
@@ -375,7 +375,7 @@ msgstr ""
 # dc953d6b14424c878786ec668187afa8
 #: ../../M14.rst:73
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1."
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1."
 
 #: ../../M14.rst:78
 msgid ""
@@ -553,7 +553,7 @@ msgid ""
 "Whenever Master of Diversion attacks, tap target creature defending player "
 "controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
+"Ilekroć ten stwór zaatakuje, przekręć wskazanego stwora pod władaniem "
 "broniącego się gracza."
 
 #: ../../M14.rst:142
@@ -896,7 +896,7 @@ msgid ""
 "player controls until Colossal Whale leaves the battlefield. (That creature "
 "returns under its owner's control.)"
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz wygnać wskazanego stwora pod władaniem "
+"Ilekroć ten stwór zaatakuje, możesz wygnać wskazanego stwora pod władaniem "
 "broniącego się gracza do czasu opuszczenia pola walki przez niniejszego "
 "stwora. (Ów stwór wróci pod władaniem swojego właściciela.)"
 
@@ -1357,7 +1357,7 @@ msgid ""
 "Whenever Trained Condor attacks, another target creature you control gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, inny wskazany stwór pod twoim władaniem dostaje "
+"Ilekroć ten stwór zaatakuje, inny wskazany stwór pod twoim władaniem dostaje "
 "latanie do końca tury."
 
 #: ../../M14.rst:392
@@ -2718,7 +2718,7 @@ msgid ""
 "Sliver creatures you control have \"Whenever this creature attacks, it deals "
 "1 damage to any target.\""
 msgstr ""
-"Drzazgacze pod twoim władaniem mają \"Kiedy ten stwór atakuje, zadaje "
+"Drzazgacze pod twoim władaniem mają \"Kiedy ten stwór zaatakuje, zadaje "
 "wskazanemu celowi 1 obrażenie.\""
 
 #: ../../M14.rst:794
@@ -3114,8 +3114,8 @@ msgid ""
 "Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each "
 "creature you control."
 msgstr ""
-"Ilekroć ten stwór atakuje, podwój liczbę znaczników +1/+1 na każdym stworze "
-"pod twoim władaniem."
+"Ilekroć ten stwór zaatakuje, podwój liczbę znaczników +1/+1 na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../M14.rst:902
 msgid ""
@@ -3519,7 +3519,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../M14.rst:1016
 msgid ""

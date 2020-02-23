@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-22 11:25+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/wwk/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../WWK.rst:5
@@ -63,12 +63,16 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |"
 "mana_w| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_w|.)"
 
 #: ../../WWK.rst:21
 msgid ""
 "Apex Hawks enters the battlefield with a +1/+1 counter on it for each time "
 "it was kicked."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../WWK.rst:28
 msgid ""
@@ -204,12 +208,16 @@ msgid ""
 "Multikicker |mana_w| (You may pay an additional |mana_w| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"wielokrotność |mana_w|.)"
 
 #: ../../WWK.rst:73
 msgid ""
 "When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each "
 "time it was kicked."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskaj po 2 życia za każde podbicie "
+"go."
 
 #: ../../WWK.rst:78
 msgid ""
@@ -726,6 +734,8 @@ msgid ""
 "Multikicker |mana_u| (You may pay an additional |mana_u| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
+"wielokrotność |mana_u|.)"
 
 #: ../../WWK.rst:251
 msgid ""
@@ -733,6 +743,8 @@ msgid ""
 "flying until end of turn, where X is the number of times Voyager Drake was "
 "kicked."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, co najwyżej X wskazanych stworów "
+"zyskuje latanie do końca tury, gdzie X jest liczbą podbić niniejszego stwora."
 
 #: ../../WWK.rst:260
 msgid ""
@@ -801,12 +813,16 @@ msgid ""
 "Multikicker |mana_b| (You may pay an additional |mana_b| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"wielokrotność |mana_b|.)"
 
 #: ../../WWK.rst:279
 msgid ""
 "When Bloodhusk Ritualist enters the battlefield, target opponent discards a "
 "card for each time it was kicked."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik odrzuca tyle "
+"kart, ile razy został podibty."
 
 #: ../../WWK.rst:286
 msgid ""
@@ -1989,7 +2005,7 @@ msgstr ""
 
 #: ../../WWK.rst:705
 msgid "|tap|: You may put a land card from your hand onto the battlefield."
-msgstr ""
+msgstr "|tap|: Możesz umieścić kartę lądu z twojej ręki na polu walki."
 
 #: ../../WWK.rst:714
 msgid ""

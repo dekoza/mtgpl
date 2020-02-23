@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:52+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/avr/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AVR.rst:5
@@ -393,7 +393,7 @@ msgstr ""
 
 #: ../../AVR.rst:127
 msgid "Whenever Herald of War attacks, put a +1/+1 counter on it."
-msgstr "Ilekroć ten stwór atakuje, umieść na nim znacznik +1/+1."
+msgstr "Ilekroć ten stwór zaatakuje, umieść na nim znacznik +1/+1."
 
 #: ../../AVR.rst:129
 msgid ""
@@ -898,7 +898,7 @@ msgid ""
 "Enchanted creature has \"Whenever this creature attacks, you may tap or "
 "untap target permanent.\""
 msgstr ""
-"Zauroczony stwór ma \"Ilekroć ten stwór atakuje, możesz przekręcić lub "
+"Zauroczony stwór ma \"Ilekroć ten stwór zaatakuje, możesz przekręcić lub "
 "odkręcić wskazany permanent.\""
 
 #: ../../AVR.rst:312
@@ -924,7 +924,7 @@ msgid ""
 "Whenever Havengul Skaab attacks, return another creature you control to its "
 "owner's hand."
 msgstr ""
-"Ilekroć ten stwór atakuje, przywróć innego stwora pod twoim władaniem do "
+"Ilekroć ten stwór zaatakuje, przywróć innego stwora pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../AVR.rst:324
@@ -2487,7 +2487,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnić ją i umieścić w twojej ręce. Jeśli to zrobisz, "
+"kartę bazowego lądu, ujawnić ją i umieścić w twojej ręce. Jeśli tak zrobisz, "
 "przetasuj twoją bibliotekę."
 
 #: ../../AVR.rst:874
@@ -3264,7 +3264,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../AVR.rst:1154
 msgid ""

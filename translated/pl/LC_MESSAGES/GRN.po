@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/grn/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../GRN.rst:5
 msgid ":mtgexp:`GRN` Guilds of Ravnica"
@@ -39,7 +39,7 @@ msgid ""
 "Mentor (Whenever this creature attacks, put a +1/+1 counter on target "
 "attacking creature with lesser power.)"
 msgstr ""
-"Mentor (Ilekroć ten stwór atakuje, umieść znacznik +1/+1 na wskazanym "
+"Mentor (Ilekroć ten stwór zaatakuje, umieść znacznik +1/+1 na wskazanym "
 "atakującym stworze o mniejszej sile.)"
 
 #: ../../GRN.rst:16
@@ -157,7 +157,7 @@ msgstr ""
 #: ../../GRN.rst:47
 msgid "Whenever you gain life, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
-"Ilekroć zyskasz życia, możesz zapłacić |mana_2|. Jeśli to zrobisz, dobierz "
+"Ilekroć zyskasz życia, możesz zapłacić |mana_2|. Jeśli tak zrobisz, dobierz "
 "kartę."
 
 #: ../../GRN.rst:49
@@ -277,8 +277,8 @@ msgid ""
 "Whenever Inspiring Unicorn attacks, creatures you control get +1/+1 until "
 "end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwory pod twoim władaniem dostają +1/+1 do końca "
-"tury."
+"Ilekroć ten stwór zaatakuje, stwory pod twoim władaniem dostają +1/+1 do "
+"końca tury."
 
 #: ../../GRN.rst:92
 msgid ""
@@ -384,7 +384,7 @@ msgid ""
 "Whenever Roc Charger attacks, target attacking creature without flying gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, wskazany atakujący stwór bez latania zyskuje "
+"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania zyskuje "
 "latanie do końca tury."
 
 #: ../../GRN.rst:136
@@ -399,7 +399,7 @@ msgid ""
 "Whenever Skyline Scout attacks, you may pay |mana_1|\\ |mana_w|. If you do, "
 "it gains flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_1|\\ |mana_w|. Jeśli to "
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_1|\\ |mana_w|. Jeśli tak "
 "zrobisz, zyskuje on latanie do końca tury."
 
 #: ../../GRN.rst:142
@@ -762,7 +762,7 @@ msgid ""
 "Whenever Nightveil Sprite attacks, surveil 1. (Look at the top card of your "
 "library. You may put that card into your graveyard.)"
 msgstr ""
-"Ilekroć ten stwór atakuje, szpieguj 1. (Spójrz na wierzchnią kartę twojej "
+"Ilekroć ten stwór zaatakuje, szpieguj 1. (Spójrz na wierzchnią kartę twojej "
 "biblioteki. Możesz umieścić ową kartę w twoim cmentarzu.)"
 
 #: ../../GRN.rst:264
@@ -895,8 +895,8 @@ msgid ""
 "Whenever Vedalken Mesmerist attacks, target creature an opponent controls "
 "gets -2/-0 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, wskazany stwór pod władaniem przeciwnika dostaje "
-"-2/-0 do końca tury."
+"Ilekroć ten stwór zaatakuje, wskazany stwór pod władaniem przeciwnika "
+"dostaje -2/-0 do końca tury."
 
 #: ../../GRN.rst:312
 msgid ""
@@ -984,7 +984,7 @@ msgid ""
 "life. If you do, return Blood Operative to your hand."
 msgstr ""
 "Ilekroć szpiegujesz, jeśli ta karta jest w twoim cmentarzu, możesz zapłacić "
-"3 życia. Jeśli to zrobisz, zwróć tę kartę do twojej ręki."
+"3 życia. Jeśli tak zrobisz, zwróć tę kartę do twojej ręki."
 
 #: ../../GRN.rst:344
 msgid ""
@@ -1022,7 +1022,7 @@ msgid ""
 "gain 3 life."
 msgstr ""
 "Kiedy ta karta jest wkładana do twojego cmentarza z twojej biblioteki, "
-"możesz ją wypędzić. Jeśli to zrobisz, ta karta zadaje 3 obrażenia każdemu "
+"możesz ją wypędzić. Jeśli tak zrobisz, ta karta zadaje 3 obrażenia każdemu "
 "przeciwnikowi, a ty zyskaj 3 życia."
 
 #: ../../GRN.rst:360
@@ -1438,7 +1438,7 @@ msgid ""
 "the cards in your hand. If you do, draw that many cards."
 msgstr ""
 "Ilekroć ten stwór zadaje graczowi obrażenia bojowe, możesz odrzucić "
-"wszystkie karty z ręki. Jeśli to zrobisz, dobierz tyle samo kart."
+"wszystkie karty z ręki. Jeśli tak zrobisz, dobierz tyle samo kart."
 
 #: ../../GRN.rst:490
 msgid ""
@@ -1594,7 +1594,7 @@ msgid ""
 "Whenever Goblin Locksmith attacks, creatures with defender can't block this "
 "turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwory z obrońcą nie mogą bronić w tej turze."
+"Ilekroć ten stwór zaatakuje, stwory z obrońcą nie mogą bronić w tej turze."
 
 #: ../../GRN.rst:556
 msgid ""
@@ -1622,7 +1622,7 @@ msgid ""
 "Whenever Hellkite Whelp attacks, it deals 1 damage to target creature "
 "defending player controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, zadaje 1 obrażenie we wskazanego stwora pod "
+"Ilekroć ten stwór zaatakuje, zadaje 1 obrażenie we wskazanego stwora pod "
 "władaniem broniącego się gracza."
 
 #: ../../GRN.rst:568
@@ -2899,7 +2899,7 @@ msgid ""
 "creatures you control. Ledev Champion gets +1/+1 until end of turn for each "
 "creature tapped this way."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz przekręcić dowolną liczbę odznaczonych "
+"Ilekroć ten stwór zaatakuje, możesz przekręcić dowolną liczbę odznaczonych "
 "stworów pod twoim władaniem. Ten stwór dostaje +1/+1 do końca tury za "
 "każdego stwora przekręconego w ten sposób."
 
@@ -3054,8 +3054,8 @@ msgid ""
 "+1: Look at the top two cards of your library. Put one of them into your "
 "hand and the other into your graveyard."
 msgstr ""
-"+1: Spójrz na dwie wierzchnie karty twojej biblioteki. Dołóż jedną z nich do "
-"twojej ręki, a drugą do twojego cmentarza."
+"+1: Spójrz na dwie wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a drugą w twoim cmentarzu."
 
 #: ../../GRN.rst:1055
 #, fuzzy
@@ -3178,7 +3178,7 @@ msgid ""
 "Whenever Swathcutter Giant attacks, it deals 1 damage to each creature "
 "defending player controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, zadaje on 1 obrażenie każdemu stworowi pod "
+"Ilekroć ten stwór zaatakuje, zadaje on 1 obrażenie każdemu stworowi pod "
 "władaniem broniącego się gracza."
 
 #: ../../GRN.rst:1098
@@ -3592,7 +3592,7 @@ msgid ""
 "may choose new targets for the copy."
 msgstr ""
 "Skopiuj wskazany czar sztuczki lub obrzędu o skróconym koszcie many 4 lub "
-"mniejszym. Możesz wybrać nowe cele dla owej kopii."
+"mniejszym. Możesz wskazać nowe cele dla kopii."
 
 #: ../../GRN.rst:1228
 msgid ""
@@ -3887,7 +3887,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../GRN.rst:1320
 msgid ""
@@ -4311,7 +4311,7 @@ msgid ""
 "Whenever Ral's Staticaster attacks, if you control a Ral planeswalker, Ral's "
 "Staticaster gets +1/+0 for each card in your hand until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli kontrolujesz wędrowca o typie Ral, ten "
+"Ilekroć ten stwór zaatakuje, jeśli kontrolujesz wędrowca o typie Ral, ten "
 "stwór dostaje do końca tury +1/+0 za każdą kartę w twojej ręce."
 
 #: ../../GRN.rst:1474

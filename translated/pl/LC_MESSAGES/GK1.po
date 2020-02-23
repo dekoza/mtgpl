@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gk1/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../GK1.rst:5
@@ -86,7 +86,7 @@ msgid ""
 msgstr ""
 "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|. Jeśli ów czar "
 "zostanie skontrowany w ten sposób, wygnaj go zamiast umieszczać go w "
-"cmentarzu jego właściciela."
+"cmentarzu właściciela."
 
 #: ../../GK1.rst:26
 msgid ""
@@ -559,7 +559,7 @@ msgid ""
 "\"each.\")"
 msgstr ""
 "Przeciążenie |mana_1|\\ |mana_r| (Możesz rzucić ten czar za jego koszt "
-"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
 "wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../GK1.rst:174
@@ -606,7 +606,7 @@ msgid ""
 "of \"target\" with \"each.\")"
 msgstr ""
 "Przeciążenie |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (Możesz rzucić ten "
-"czar za jego koszt przeciążenia. Jeśli to zrobisz, zmień jego tekst "
+"czar za jego koszt przeciążenia. Jeśli tak zrobisz, zmień jego tekst "
 "zastępując wszystkie wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../GK1.rst:190
@@ -944,7 +944,7 @@ msgid ""
 msgstr ""
 "Czerpak 3 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
 "dokładnie trzy karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
-"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
 "przeciwnym razie dobierz kartę.)"
 
 #: ../../GK1.rst:304
@@ -981,8 +981,8 @@ msgid ""
 "card from your graveyard to your hand. Otherwise, draw a card.)"
 msgstr ""
 "Czerpak 5 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
-"dokładnie pięć kart z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli to "
-"zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"dokładnie pięć kart z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
+"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
 "przeciwnym razie dobierz kartę.)"
 
 #: ../../GK1.rst:316
@@ -1173,7 +1173,7 @@ msgid ""
 msgstr ""
 "Czerpak 1 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
 "dokładnie jedną kartę z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
-"to zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
+"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
 "przeciwnym razie dobierz kartę.)"
 
 #: ../../GK1.rst:372
@@ -1289,7 +1289,7 @@ msgid ""
 "Whenever you sacrifice a black creature, you may pay 2 life. If you do, each "
 "other player sacrifices a creature."
 msgstr ""
-"Ilekroć poświęcisz czarnego stwora, możesz zapłacić 2 życia. Jeśli to "
+"Ilekroć poświęcisz czarnego stwora, możesz zapłacić 2 życia. Jeśli tak "
 "zrobisz, każdy inny gracz poświęca stwora."
 
 #: ../../GK1.rst:403
@@ -1412,7 +1412,7 @@ msgid ""
 "all creatures you control. After this phase, there is an additional combat "
 "phase."
 msgstr ""
-"Ilekroć ten stwór atakuje po raz pierwszy w danej turze, odkręć wszystkie "
+"Ilekroć ten stwór zaatakuje po raz pierwszy w danej turze, odkręć wszystkie "
 "stwory pod twoim władaniem. Po tej fazie następuje dodatkowa faza walki."
 
 #: ../../GK1.rst:448
@@ -1427,7 +1427,7 @@ msgid ""
 "Battalion — Whenever Boros Elite and at least two other creatures attack, "
 "Boros Elite gets +2/+2 until end of turn."
 msgstr ""
-"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
 "stworami, niniejszy stwór dostaje +2/+2 do końca tury."
 
 #: ../../GK1.rst:452
@@ -1442,7 +1442,7 @@ msgid ""
 "Battalion — Whenever Daring Skyjek and at least two other creatures attack, "
 "Daring Skyjek gains flying until end of turn."
 msgstr ""
-"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
 "stworami, niniejszy stwór zyskuje latanie do końca tury."
 
 #: ../../GK1.rst:456
@@ -1457,7 +1457,7 @@ msgid ""
 "Battalion — Whenever Bomber Corps and at least two other creatures attack, "
 "Bomber Corps deals 1 damage to any target."
 msgstr ""
-"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
 "stworami, niniejszy stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../GK1.rst:460
@@ -1472,7 +1472,7 @@ msgid ""
 "Whenever Frenzied Goblin attacks, you may pay |mana_r|. If you do, target "
 "creature can't block this turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_r|. Jeśli to zrobisz, "
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_r|. Jeśli tak zrobisz, "
 "wskazany stwór nie może blokować w tej turze."
 
 #: ../../GK1.rst:466
@@ -1492,7 +1492,7 @@ msgid ""
 "attack, creatures you control gain first strike and trample until end of "
 "turn and can't be blocked by creature tokens this turn."
 msgstr ""
-"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
 "stworami, stwory pod twoim władaniem zyskują do końca tury pierwszy cios i "
 "tratowanie oraz nie mogą być w tej turze blokowane przez żetony stworów."
 
@@ -1508,7 +1508,7 @@ msgid ""
 "Whenever Agrus Kos, Wojek Veteran attacks, attacking red creatures get +2/+0 "
 "and attacking white creatures get +0/+2 until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, do końca tury atakujące czerwone stwory dostają "
+"Ilekroć ten stwór zaatakuje, do końca tury atakujące czerwone stwory dostają "
 "+2/+0 oraz atakujące białe stwory dostają +0/+2."
 
 #: ../../GK1.rst:480
@@ -1618,7 +1618,7 @@ msgid ""
 "Battalion — Whenever Firemane Avenger and at least two other creatures "
 "attack, Firemane Avenger deals 3 damage to any target and you gain 3 life."
 msgstr ""
-"Batalion — Ilekroć ten stwór atakuje wraz z co najmniej dwoma innymi "
+"Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
 "stworami, niniejszy stwór zadaje 3 obrażenia we wskazany cel, a ty zyskaj 3 "
 "życia."
 
@@ -1883,7 +1883,7 @@ msgstr ""
 
 #: ../../GK1.rst:601
 msgid "Create three 1/1 green Saproling creature tokens."
-msgstr "Stwórz trzy żetony zielonego stwora Saproling 1/1."
+msgstr "Stwórz trzy żetony zielonego stwora Sadzonka 1/1."
 
 #: ../../GK1.rst:606
 msgid ""

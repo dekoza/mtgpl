@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:52+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mm2/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../MM2.rst:5
 msgid ":mtgexp:`MM2` Modern Masters 2015"
@@ -58,7 +58,7 @@ msgid ""
 "Annihilator 2 (Whenever this creature attacks, defending player sacrifices "
 "two permanents.)"
 msgstr ""
-"Anihilacja 2 (Ilekroć ten stwór atakuje, broniący się gracz poświęca dwa "
+"Anihilacja 2 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca dwa "
 "permanenty.)"
 
 #: ../../MM2.rst:26
@@ -129,8 +129,8 @@ msgid ""
 "Annihilator 4 (Whenever this creature attacks, defending player sacrifices "
 "four permanents.)"
 msgstr ""
-"Anihilacja 4 (Ilekroć ten stwór atakuje, broniący się gracz poświęca cztery "
-"permanenty.)"
+"Anihilacja 4 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca "
+"cztery permanenty.)"
 
 #: ../../MM2.rst:41
 msgid ""
@@ -685,7 +685,7 @@ msgid ""
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_1|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar za jego "
-"koszt przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole "
+"koszt przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole "
 "walki.)"
 
 #: ../../MM2.rst:234
@@ -867,10 +867,14 @@ msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgstr ""
 
 #: ../../MM2.rst:301
+#, fuzzy
 msgid ""
 "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli tak zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../MM2.rst:308
 msgid ""
@@ -1707,8 +1711,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_4| (Możesz zapłacić dodatkowo |mana_4| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_4| (Rzucając ten czar możesz dodatkowo zapłacić |mana_4|.)"
 
 #: ../../MM2.rst:623
 msgid ""
@@ -1996,10 +1999,14 @@ msgid ""
 msgstr ""
 
 #: ../../MM2.rst:723
+#, fuzzy
 msgid ""
 "Evoke |mana_1|\\ |mana_r|\\ |mana_r| (You may cast this spell for its evoke "
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli tak zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../MM2.rst:730
 msgid ""
@@ -2422,7 +2429,7 @@ msgstr ""
 
 #: ../../MM2.rst:889
 msgid "Create three 1/1 green Saproling creature tokens."
-msgstr "Stwórz trzy żetony zielonego stwora Saproling 1/1."
+msgstr "Stwórz trzy żetony zielonego stwora Sadzonka 1/1."
 
 #: ../../MM2.rst:894
 msgid ""
@@ -3095,7 +3102,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../MM2.rst:1148
 msgid ""

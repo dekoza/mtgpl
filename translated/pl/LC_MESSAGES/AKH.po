@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/akh/"
 "pl/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AKH.rst:5
@@ -911,8 +911,8 @@ msgid ""
 "Whenever you cycle or discard a card, you may pay |mana_1|. If you do, "
 "create a 2/2 blue Drake creature token with flying."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz kartę, możesz zapłacić |mana_1|. Jeśli to "
-"zrobisz, stwórz żeton niebieskiego stwora Drak 2/2 z lataniem."
+"Ilekroć zrecyklujesz lub odrzucisz kartę, możesz zapłacić |mana_1|. Jeśli "
+"tak zrobisz, stwórz żeton niebieskiego stwora Drak 2/2 z lataniem."
 
 #: ../../AKH.rst:296
 msgid ""
@@ -1075,7 +1075,7 @@ msgstr "Zaurocz permanent"
 
 #: ../../AKH.rst:351
 msgid "You control enchanted permanent."
-msgstr "Masz władanie nad zauroczonym permanentem."
+msgstr "Władasz zauroczonym permanentem."
 
 #: ../../AKH.rst:358
 msgid ""
@@ -2767,7 +2767,7 @@ msgid ""
 "Whenever Exemplar of Strength attacks, remove a -1/-1 counter from it. If "
 "you do, you gain 1 life."
 msgstr ""
-"Ilekroć ten stwór atakuje, usuń z niego znacznik -1/-1. Jeśli tak zrobisz, "
+"Ilekroć ten stwór zaatakuje, usuń z niego znacznik -1/-1. Jeśli tak zrobisz, "
 "zyskaj 1 życie."
 
 #: ../../AKH.rst:906
@@ -3302,7 +3302,7 @@ msgid ""
 "creature you control and put a -1/-1 counter on up to one target creature "
 "defending player controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, usuń znacznik -1/-1 ze wskazanego stwora pod "
+"Ilekroć ten stwór zaatakuje, usuń znacznik -1/-1 ze wskazanego stwora pod "
 "twoim władaniem i umieść znacznik -1/-1 na co najwyżej jednym wskazanym "
 "stworze pod władaniem broniącego się gracza."
 
@@ -3355,7 +3355,8 @@ msgid ""
 "Whenever Honored Crop-Captain attacks, other attacking creatures get +1/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, inne atakujące stwory dostają do końca tury +1/+0."
+"Ilekroć ten stwór zaatakuje, inne atakujące stwory dostają do końca tury +1/"
+"+0."
 
 #: ../../AKH.rst:1090
 msgid ""
@@ -4505,7 +4506,7 @@ msgstr ""
 
 #: ../../AKH.rst:1493
 msgid "Whenever Graceful Cat attacks, it gets +1/+1 until end of turn."
-msgstr "Ilekroć ten stwór atakuje, dostaje on do końca tury +1/+1."
+msgstr "Ilekroć ten stwór zaatakuje, dostaje on do końca tury +1/+1."
 
 #: ../../AKH.rst:1500
 msgid ""

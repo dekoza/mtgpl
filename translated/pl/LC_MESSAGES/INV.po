@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/inv/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../INV.rst:5
@@ -69,8 +69,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_2| (You may pay an additional |mana_2| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2| (Możesz zapłacić dodatkowo |mana_2| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_2| (Rzucając ten czar możesz dodatkowo zapłacić |mana_2|.)"
 
 #: ../../INV.rst:21 ../../INV.rst:1287 ../../INV.rst:1419
 msgid "Vigilance"
@@ -145,6 +144,8 @@ msgid ""
 "Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_w|.)"
 
 #: ../../INV.rst:47
 msgid ""
@@ -415,6 +416,8 @@ msgid ""
 "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_w|.)"
 
 #: ../../INV.rst:139
 msgid ""
@@ -1571,6 +1574,8 @@ msgid ""
 "Kicker |mana_3|\\ |mana_b| (You may pay an additional |mana_3|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_3|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_3|\\ |mana_b|.)"
 
 #: ../../INV.rst:573
 msgid ""
@@ -1642,6 +1647,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_4| (Rzucając ten czar możesz dodatkowo zapłacić |mana_4|.)"
 
 #: ../../INV.rst:599
 msgid ""
@@ -1954,6 +1960,8 @@ msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_u|.)"
 
 #: ../../INV.rst:719
 msgid ""
@@ -2000,6 +2008,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_3| (Rzucając ten czar możesz dodatkowo zapłacić |mana_3|.)"
 
 #: ../../INV.rst:735
 msgid "|mana_b|: Regenerate Urborg Skeleton."
@@ -2438,6 +2447,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |mana_r|.)"
 
 #: ../../INV.rst:897
 msgid ""
@@ -2512,6 +2522,7 @@ msgstr "Tratowanie, pośpiech"
 msgid ""
 "At the beginning of the end step, if Skizzik wasn't kicked, sacrifice it."
 msgstr ""
+"Na początku kroku końcowego, jeśli ten stwór nie został podbity, poświęć go."
 
 #: ../../INV.rst:928
 msgid ""
@@ -2830,6 +2841,8 @@ msgid ""
 "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_g|.)"
 
 #: ../../INV.rst:1055
 msgid ""

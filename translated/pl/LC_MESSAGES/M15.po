@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-21 08:53+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m15/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "X-POOTLE-MTIME: 1419538900.448648\n"
 
 #: ../../M15.rst:5
@@ -519,7 +519,7 @@ msgid ""
 "Whenever Preeminent Captain attacks, you may put a Soldier creature card "
 "from your hand onto the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz umieścić na polu walki przekręconą i "
+"Ilekroć ten stwór zaatakuje, możesz umieścić na polu walki przekręconą i "
 "atakującą kartę stwora typu Piechur z twojej ręki."
 
 #: ../../M15.rst:146
@@ -725,7 +725,7 @@ msgid ""
 "flying."
 msgstr ""
 "Ilekroć nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, możesz "
-"zapłacić |mana_w|. Jeśli to zrobisz, stwórz żeton białego stwora Duch 1/1 z "
+"zapłacić |mana_w|. Jeśli tak zrobisz, stwórz żeton białego stwora Duch 1/1 z "
 "lataniem."
 
 #: ../../M15.rst:207
@@ -2311,7 +2311,7 @@ msgstr ""
 # b18ba80351dd40ed96f18334f140f12b
 #: ../../M15.rst:687
 msgid "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
-msgstr "Ilekroć ten stwór atakuje, dostaje do końca tury +2/+0."
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +2/+0."
 
 #: ../../M15.rst:692
 msgid ""
@@ -2495,7 +2495,7 @@ msgid ""
 "Whenever Frenzied Goblin attacks, you may pay |mana_r|. If you do, target "
 "creature can't block this turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_r|. Jeśli to zrobisz, "
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_r|. Jeśli tak zrobisz, "
 "wskazany stwór nie może blokować w tej turze."
 
 #: ../../M15.rst:744
@@ -2559,7 +2559,7 @@ msgid ""
 "Whenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for "
 "each other attacking Goblin."
 msgstr ""
-"Ilekroć ten stwór atakuje, dostaje do końca tury +1/+0 za każdego innego "
+"Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+0 za każdego innego "
 "atakującego Goblina."
 
 #: ../../M15.rst:758
@@ -2843,7 +2843,7 @@ msgid ""
 "Whenever Siege Dragon attacks, if defending player controls no Walls, it "
 "deals 2 damage to each creature without flying that player controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli broniący się gracz nie ma we władaniu "
+"Ilekroć ten stwór zaatakuje, jeśli broniący się gracz nie ma we władaniu "
 "Ściany, zadaje on 2 obrażenia każdemu stworowi bez latania pod władaniem "
 "owego gracza."
 
@@ -3836,7 +3836,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../M15.rst:1164
 msgid ""

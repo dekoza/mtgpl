@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-22 11:25+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c14/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../C14.rst:5
 #, fuzzy
@@ -1107,7 +1107,7 @@ msgid ""
 "Annihilator 2 (Whenever this creature attacks, defending player sacrifices "
 "two permanents.)"
 msgstr ""
-"Anihilacja 2 (Ilekroć ten stwór atakuje, broniący się gracz poświęca dwa "
+"Anihilacja 2 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca dwa "
 "permanenty.)"
 
 #: ../../C14.rst:384
@@ -1347,13 +1347,12 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:457
-#, fuzzy
 msgid ""
 "Multikicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |"
 "mana_w| any number of times as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
-"podczas rzucania tego czaru.)"
+"Wielopodbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_w|.)"
 
 #: ../../C14.rst:459
 msgid "Creatures you control get +1/+1."
@@ -1774,7 +1773,7 @@ msgid ""
 "\"each.\")"
 msgstr ""
 "Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
-"przeciążenia. Jeśli to zrobisz, zmień jego tekst zastępując wszystkie "
+"przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
 "wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../C14.rst:608
@@ -1964,16 +1963,16 @@ msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_u|.)"
 
 #: ../../C14.rst:669
 msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki jego właściciela. Jeśli ten "
-"czar został podbity, dobierz kartę."
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Jeśli ten czar "
+"został podbity, dobierz kartę."
 
 #: ../../C14.rst:676
 msgid ""
@@ -2026,8 +2025,8 @@ msgid ""
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"koszcie. Jeśli tak zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../C14.rst:694
 msgid ""
@@ -2670,7 +2669,7 @@ msgid ""
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_1|\\ |mana_b| (Możesz rzucić ten czar za jego koszt "
-"przyzwania. Jeśli to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../C14.rst:924
 msgid ""
@@ -2941,7 +2940,7 @@ msgid ""
 "sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_r| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
-"to zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
 
 #: ../../C14.rst:1022
 msgid ""
@@ -2976,8 +2975,8 @@ msgid ""
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"koszcie. Jeśli tak zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../C14.rst:1034
 msgid ""

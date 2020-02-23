@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gnt/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../GNT.rst:5
 msgid ":mtgexp:`GNT` Game Night"
@@ -644,8 +644,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
 msgstr ""
-"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w "
-"dowolnie wskazany cel."
+"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../GNT.rst:220
 msgid ""
@@ -802,7 +802,7 @@ msgstr ""
 
 #: ../../GNT.rst:263
 msgid "Whenever Howling Golem attacks or blocks, each player draws a card."
-msgstr "Ilekroć ten stwór atakuje lub blokuje, każdy gracz dobiera kartę."
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, każdy gracz dobiera kartę."
 
 #: ../../GNT.rst:268
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-22 11:25+0000\n"
+"PO-Revision-Date: 2020-02-23 16:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../C19.rst:5
 msgid ":mtgexp:`C19` Commander 2019"
@@ -221,8 +221,8 @@ msgstr ""
 msgid "Madness |mana_3|\\ |mana_b|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_3|\\ |mana_b|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na "
-"wygnanie. Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w "
-"twoim cmentarzu.)"
+"wygnanie. Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją "
+"w twoim cmentarzu.)"
 
 #: ../../C19.rst:100
 msgid ":mtgtip:`Bone Miser<https://img.scryfall.com/cards/border_crop/front/a/7/a7fa6901-e74f-448c-9d26-99a692092512.jpg?1568003468|https://scryfall.com/card/c19/15/bone-miser?utm_source=api>`"
@@ -256,7 +256,7 @@ msgstr ""
 msgid "Madness |mana_3|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_3|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
-"Jeśli to zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../C19.rst:118
@@ -1046,7 +1046,7 @@ msgstr ""
 #: ../../C19.rst:485
 msgid "Whenever Wingmate Roc attacks, you gain 1 life for each attacking creature."
 msgstr ""
-"Ilekroć ten stwór atakuje, zyskaj po 1 życiu za każdego atakującego stwora."
+"Ilekroć ten stwór zaatakuje, zyskaj po 1 życiu za każdego atakującego stwora."
 
 #: ../../C19.rst:490
 msgid ":mtgtip:`Zetalpa, Primal Dawn<https://img.scryfall.com/cards/border_crop/front/f/5/f557ebfc-6fa2-4512-9d46-b6a2b0464eeb.jpg?1568003946|https://scryfall.com/card/c19/79/zetalpa-primal-dawn?utm_source=api>`"
@@ -1413,7 +1413,7 @@ msgstr ""
 #: ../../C19.rst:651
 msgid "Madness |mana_0| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
-"Szaleństwo |mana_0| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli to "
+"Szaleństwo |mana_0| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
 "zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../C19.rst:658
@@ -1842,8 +1842,8 @@ msgstr ""
 #: ../../C19.rst:851
 msgid "Whenever Flamerush Rider attacks, create a token that's a copy of another target attacking creature and that's tapped and attacking. Exile the token at end of combat."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz przekręcony i atakujący żeton będący kopią "
-"innego wskazanego atakującego stwora. Wygnaj ów żeton na końcu walki."
+"Ilekroć ten stwór zaatakuje, stwórz przekręcony i atakujący żeton będący "
+"kopią innego wskazanego atakującego stwora. Wygnaj ów żeton na końcu walki."
 
 #: ../../C19.rst:853
 msgid "Dash |mana_2|\\ |mana_r|\\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
@@ -1981,8 +1981,8 @@ msgstr ""
 msgid "Madness |mana_1|\\ |mana_r|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_r|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na "
-"wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją "
-"w twoim cmentarzu.)"
+"wygnanie. Jeśli tak zrobisz, zagraj ją za jej koszt szaleństwa albo umieść "
+"ją w twoim cmentarzu.)"
 
 #: ../../C19.rst:918
 msgid ":mtgtip:`Warstorm Surge<https://img.scryfall.com/cards/border_crop/front/2/1/213e448e-8d8c-4ba8-aad1-93c4e6900b0d.jpg?1568004488|https://scryfall.com/card/c19/155/warstorm-surge?utm_source=api>`"
@@ -2368,8 +2368,8 @@ msgstr ""
 msgid "Madness |mana_1|\\ |mana_b|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 "Szaleństwo |mana_1|\\ |mana_b|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na "
-"wygnanie. Jeśli to zrobisz, zagraj ją za jej koszt szaleństwa albo umieść ją "
-"w twoim cmentarzu.)"
+"wygnanie. Jeśli tak zrobisz, zagraj ją za jej koszt szaleństwa albo umieść "
+"ją w twoim cmentarzu.)"
 
 #: ../../C19.rst:1106
 msgid ":mtgtip:`Bounty of the Luxa<https://img.scryfall.com/cards/border_crop/front/9/2/921b65f2-dd91-41a4-990c-0886712f1e1a.jpg?1568004731|https://scryfall.com/card/c19/189/bounty-of-the-luxa?utm_source=api>`"
@@ -3252,13 +3252,13 @@ msgstr ""
 
 #: ../../C19.rst:1549
 msgid "Memorial to Folly enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../C19.rst:1553
 msgid "|mana_2|\\ |mana_b|, |tap|, Sacrifice Memorial to Folly: Return target creature card from your graveyard to your hand."
 msgstr ""
-"|mana_2|\\ |mana_b|, |tap|, poświęć ten permanent: Przywróć wskazaną kartę "
-"stwora z twojego cmentarza do twojej ręki."
+"|mana_2|\\ |mana_b|, |tap|, poświęć ten ląd: Przywróć wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../C19.rst:1562
 msgid ":mtgtip:`Mortuary Mire<https://img.scryfall.com/cards/border_crop/front/2/5/254bb847-4032-425f-bdea-a8b1ddbd65cd.jpg?1568005255|https://scryfall.com/card/c19/260/mortuary-mire?utm_source=api>`"
