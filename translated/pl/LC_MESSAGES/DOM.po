@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 13:21+0000\n"
+"PO-Revision-Date: 2020-02-23 16:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dom/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../../DOM.rst:5
 msgid ":mtgexp:`DOM` Dominaria"
@@ -44,16 +44,15 @@ msgstr ""
 #: ../../DOM.rst:11
 msgid ""
 "−1: Put a card you own with a silver counter on it from exile into your hand."
-msgstr ""
-"–1: Dołóż własną kartę ze znacznikiem srebra z wygnania do twojej ręki."
+msgstr "–1: Umieść własną kartę ze znacznikiem srebra z wygnania w twojej ręce."
 
 #: ../../DOM.rst:13
 msgid ""
 "−2: Create a 0/0 colorless Construct artifact creature token with \"This "
 "creature gets +1/+1 for each artifact you control.\""
 msgstr ""
-"–2: Stwórz żeton bezkolorowego artefaktycznego stwora Konstrukt 0/0 ze "
-"zdolnością \"Ten stwór dostaje +1/+1 za każdy artefakt pod twoim władaniem.\""
+"–2: Stwórz żeton bezkolorowego artefaktycznego stwora Konstrukt 0/0 mający \""
+"Ten stwór dostaje +1/+1 za każdy artefakt pod twoim władaniem.\""
 
 #: ../../DOM.rst:18
 msgid ""
@@ -101,8 +100,8 @@ msgid ""
 "Creatures can't attack you or a planeswalker you control unless their "
 "controller pays |mana_1| for each of those creatures."
 msgstr ""
-"Stwory nie mogą atakować ciebie lub wędrowców pod twoim władaniem o ile ich "
-"władca nie zapłaci |mana_1| za każdego z owych stworów."
+"Stwory nie mogą atakować ciebie lub wędrowców pod twoim władaniem, chyba że "
+"ich władca zapłaci |mana_1| za każdego z owych stworów."
 
 #: ../../DOM.rst:32
 msgid ""
@@ -154,7 +153,7 @@ msgid ""
 "historic.)"
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
-"niech historyczną kartę i dołożyć ją do twojej ręki. Umieść pozostałe na "
+"niech historyczną kartę i umieścić ją w twojej ręce. Umieść pozostałe na "
 "spodzie twojej biblioteki w losowej kolejności. (Artefakty, legendy i Sagi "
 "są historyczne.)"
 
@@ -222,7 +221,7 @@ msgid ""
 "When Daring Archaeologist enters the battlefield, you may return target "
 "artifact card from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
 "artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:67
@@ -245,7 +244,7 @@ msgid ""
 "As Dauntless Bodyguard enters the battlefield, choose another creature you "
 "control."
 msgstr ""
-"Podczas umieszczania tej karty na polu walki wybierz innego stwora pod twoim "
+"Umieszczając tego stwora na polu walki wybierz innego stwora pod twoim "
 "władaniem."
 
 #: ../../DOM.rst:73
@@ -289,7 +288,7 @@ msgstr "Więź życia"
 
 #: ../../DOM.rst:85
 msgid "|mana_4|: Exchange your life total with Evra, Halcyon Witness's power."
-msgstr "|mana_4|: Zamień liczbę twoich punktów życia z siłą tego stwora."
+msgstr "|mana_4|: Zamień liczbę twoich żyć z siłą tego stwora."
 
 #: ../../DOM.rst:92
 msgid ""
@@ -303,15 +302,15 @@ msgid ""
 "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_w| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_w| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_w|.)"
 
 #: ../../DOM.rst:91
 msgid ""
 "When Excavation Elephant enters the battlefield, if it was kicked, return "
 "target artifact card from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, przywróć "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
 "wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:100
@@ -341,8 +340,8 @@ msgid ""
 "II, III — Each player returns two land cards from their graveyard to the "
 "battlefield."
 msgstr ""
-"II, III — Każdy gracz zwraca dwie karty lądów ze swojego cmentarza na pole "
-"bitwy."
+"II, III — Każdy gracz przywraca dwie karty lądów ze swojego cmentarza na "
+"pole bitwy."
 
 #: ../../DOM.rst:104
 msgid ""
@@ -355,7 +354,7 @@ msgstr ""
 msgid ""
 "Gideon's Reproach deals 4 damage to target attacking or blocking creature."
 msgstr ""
-"Ten czar zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 4 obrażenia."
 
 #: ../../DOM.rst:108
 msgid ""
@@ -369,7 +368,7 @@ msgid ""
 "Prevent the next 3 damage that would be dealt to any target this turn by a "
 "source of your choice. You gain 3 life."
 msgstr ""
-"Zażegnaj najbliższe 3 obrażenia, które mogłyby zostać zadane dowolnemu "
+"Zażegnaj najbliższe 3 obrażenia, jakie mogłyby zostać zadane wskazanemu "
 "celowi przez wybrane przez ciebie źródło. Zyskaj 3 życia."
 
 #: ../../DOM.rst:116
@@ -385,7 +384,7 @@ msgstr "I, II — Stwórz żeton białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../DOM.rst:115
 msgid "III — Knights you control get +2/+1 until end of turn."
-msgstr "III — Rycerze pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr "III — Rycerze pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../DOM.rst:120
 msgid ""
@@ -414,8 +413,8 @@ msgid ""
 "Hexproof from black (This creature can't be the target of black spells or "
 "abilities your opponents control.)"
 msgstr ""
-"Antyklątwa przed czarnym (Ten stwór nie może być wskazywany przez władane "
-"przez przeciwników czarne czary i zdolności.)"
+"Antyklątwa przed czarnym (Ten stwór nie może być wskazywany przez czarne "
+"czary i zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../DOM.rst:127
 msgid ""
@@ -442,7 +441,7 @@ msgstr "Podwójny cios"
 
 #: ../../DOM.rst:137
 msgid "Creatures you control with first strike have double strike."
-msgstr "Stwory pod twoim władaniem z pierwszym ciosem mają podwójny cios."
+msgstr "Stwory z pierwszym ciosem pod twoim władaniem mają podwójny cios."
 
 #: ../../DOM.rst:144
 msgid ""
@@ -493,8 +492,8 @@ msgid ""
 "Whenever Pegasus Courser attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, inny wskazany atakujący stwór zyskuje latanie do "
-"końca tury."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór zyskuje latanie "
+"do końca tury."
 
 #: ../../DOM.rst:166
 msgid ""
@@ -528,7 +527,7 @@ msgid ""
 "When Seal Away enters the battlefield, exile target tapped creature an "
 "opponent controls until Seal Away leaves the battlefield."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wygnaj wskazanego przekręconego stwora "
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego przekręconego stwora "
 "pod władaniem przeciwnika dopóki ta karta nie opuści pola walki."
 
 #: ../../DOM.rst:178
@@ -543,15 +542,15 @@ msgid ""
 "Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_w| (Możesz zapłacić dodatkowe |mana_2|\\ |mana_w| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_2|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_w|.)"
 
 #: ../../DOM.rst:177
 msgid ""
 "When Sergeant-at-Arms enters the battlefield, if it was kicked, create two "
 "1/1 white Soldier creature tokens."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, stwórz dwa "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, stwórz dwa "
 "żetony białego stwora Piechur 1/1."
 
 #: ../../DOM.rst:182
@@ -581,7 +580,7 @@ msgid ""
 "Whenever you cast a historic spell, Serra Disciple gets +1/+1 until end of "
 "turn. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucisz historyczny czar, ten stwór dostaje +1/+1 do końca tury. ("
+"Ilekroć rzucisz historyczny czar, ten stwór dostaje do końca tury +1/+1. ("
 "Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:196
@@ -680,7 +679,7 @@ msgstr ""
 
 #: ../../DOM.rst:219
 msgid "Exile all nonland permanents that aren't legendary."
-msgstr "Wygnaj wszystkie nie-lądowe permanenty, które nie są legendarne."
+msgstr "Wygnaj wszystkie nielądowe permanenty, które nie są legendarne."
 
 #: ../../DOM.rst:228
 msgid ""
@@ -694,16 +693,15 @@ msgstr ""
 msgid ""
 "Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_4| (Możesz zapłacić dodatkowo |mana_4| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_4| (Rzucając ten czar możesz dodatkowo zapłacić |mana_4|.)"
 
 #: ../../DOM.rst:227
 msgid ""
 "If Academy Drake was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
 msgstr ""
-"Jeśli ta karta została podbita, wchodzi na pole walki z dwoma znacznikami +1/"
-"+1."
+"Jeśli ten stwór została podbity, wchodzi na pole walki mając dwa znaczniki +"
+"1/+1."
 
 #: ../../DOM.rst:234
 msgid ""
@@ -715,15 +713,15 @@ msgstr ""
 #: ../../DOM.rst:231 ../../DOM.rst:423
 msgid "This spell costs |mana_1| less to cast if you control a Wizard."
 msgstr ""
-"Rzucenie tego czaru kosztuje |mana_1| mniej jeśli władasz Czarodziejem."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz Czarodziejem."
 
 #: ../../DOM.rst:233
 msgid ""
 "When Academy Journeymage enters the battlefield, return target creature an "
 "opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, przywróć wskazanego stwora pod "
-"władaniem przeciwnika do ręki jego właściciela."
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora pod "
+"władaniem przeciwnika do ręki właściciela."
 
 #: ../../DOM.rst:242
 msgid ""
@@ -805,16 +803,16 @@ msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_u|.)"
 
 #: ../../DOM.rst:265
 msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki jego właściciela. Jeśli ten "
-"czar został podbity, dobierz kartę."
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Jeśli ten czar "
+"został podbity, dobierz kartę."
 
 #: ../../DOM.rst:272
 msgid ""
@@ -829,7 +827,7 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten stwór wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
 "twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -928,7 +926,7 @@ msgid ""
 "When Homarid Explorer enters the battlefield, target player puts the top "
 "four cards of their library into their graveyard."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany gracz umieszcza cztery "
+"Kiedy ten stwór wejdzie na pole walki, wskazany gracz umieszcza cztery "
 "wierzchnie karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../DOM.rst:310
@@ -940,7 +938,7 @@ msgstr ""
 
 #: ../../DOM.rst:307
 msgid "You control enchanted permanent."
-msgstr "Masz władanie nad zauroczonym permanentem."
+msgstr "Władasz zauroczonym permanentem."
 
 #: ../../DOM.rst:309
 msgid "Enchanted permanent is legendary."
@@ -959,8 +957,7 @@ msgid ""
 "nonland permanent to its owner's hand. Exile Karn's Temporal Sundering."
 msgstr ""
 "Wskazany gracz bierze dodatkową turę po obecnej. Przywróć co najwyżej jeden "
-"wskazany nie-lądowy permanent do ręki jego właściciela. Wygnaj niniejszą "
-"kartę."
+"wskazany nielądowy permanent do ręki właściciela. Wygnaj niniejszy czar."
 
 #: ../../DOM.rst:322
 msgid ""
@@ -1015,8 +1012,8 @@ msgid ""
 "ability of a permanent you control to trigger, that ability triggers an "
 "additional time."
 msgstr ""
-"Jeśli Czarodziej wchodzący na pole walki pod twoje władanie powoduje u "
-"permanentu pod twoim władaniem wyzwolenie zdolności, owa zdolność jest "
+"Jeśli Czarodziej wchodzący na pole walki pod twoim władaniem powoduje "
+"wyzwolenie zdolności permanentu pod twoim władaniem, owa zdolność jest "
 "wyzwalana dodatkowy raz."
 
 #: ../../DOM.rst:344
@@ -1031,7 +1028,7 @@ msgid ""
 "When Naru Meha, Master Wizard enters the battlefield, copy target instant or "
 "sorcery spell you control. You may choose new targets for the copy."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, skopiuj wskazany czar sztuczki lub "
+"Kiedy ten stwór wejdzie na pole walki, skopiuj wskazany czar sztuczki lub "
 "obrzędu pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../DOM.rst:343
@@ -1100,8 +1097,7 @@ msgstr ""
 
 #: ../../DOM.rst:365
 msgid "Return target permanent you control to its owner's hand."
-msgstr ""
-"Przywróć wskazany permanent pod twoim władaniem do ręki jego właściciela."
+msgstr "Przywróć wskazany permanent pod twoim władaniem do ręki właściciela."
 
 #: ../../DOM.rst:370
 msgid ""
@@ -1129,8 +1125,8 @@ msgid ""
 "battlefield under its owner's control at the beginning of the next end step. "
 "(Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz wygnać wskazany historyczny "
-"permanent pod twoim władaniem. Jeśli to zrobisz, przywróć ową kartę na pole "
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazany historyczny "
+"permanent pod twoim władaniem. Jeśli tak zrobisz, przywróć ową kartę na pole "
 "walki pod władaniem jej właściciela na początku najbliższego kroku "
 "końcowego. (Artefakty, legendy i Sagi są historyczne.)"
 
@@ -1147,8 +1143,8 @@ msgid ""
 "return all creatures to their owners' hands except for Merfolk, Krakens, "
 "Leviathans, Octopuses, and Serpents."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, przywróć "
-"wszystkie stwory do rąk ich właścicieli za wyjątkiem Wodników, Lewiatanów, "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
+"wszystkie stwory do rąk właścicieli za wyjątkiem Wodników, Lewiatanów, "
 "Ośmiornic i Wężowników."
 
 #: ../../DOM.rst:386
@@ -1166,7 +1162,7 @@ msgid ""
 msgstr ""
 "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|. Jeśli ów czar "
 "zostanie skontrowany w ten sposób, wygnaj go zamiast umieszczać go w "
-"cmentarzu jego właściciela."
+"cmentarzu właściciela."
 
 #: ../../DOM.rst:392
 msgid ""
@@ -1210,7 +1206,7 @@ msgstr ""
 
 #: ../../DOM.rst:403
 msgid "III — Return all tapped creatures to their owners' hands."
-msgstr "III — Przywróć wszystkie przekręcone stwory do rąk ich właścicieli."
+msgstr "III — Przywróć wszystkie przekręcone stwory do rąk właścicieli."
 
 #: ../../DOM.rst:406
 msgid ""
@@ -1299,7 +1295,7 @@ msgid ""
 "Target creature gets +2/+1 until end of turn. If it's legendary, it also "
 "gains lifelink until end of turn."
 msgstr ""
-"Wskazany stwór dostaje +2/+1 do końca tury. Jeśli jest legendarny, zyskuje "
+"Wskazany stwór dostaje do końca tury +2/+1. Jeśli jest legendarny, zyskuje "
 "on także więź życia do końca tury."
 
 #: ../../DOM.rst:438
@@ -1321,8 +1317,8 @@ msgid ""
 "Whenever you cast a historic spell, Cabal Paladin deals 2 damage to each "
 "opponent. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucisz historyczny czar, ten stwór zadaje 2 obrażenia każdemu "
-"przeciwnikowi. (Artefakty, legendy i Sagi są historyczne.)"
+"Ilekroć rzucisz historyczny czar, ten stwór zadaje każdemu przeciwnikowi po "
+"2 obrażenia. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:450
 msgid ""
@@ -1336,15 +1332,15 @@ msgid ""
 "Kicker |mana_3|\\ |mana_b| (You may pay an additional |mana_3|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_3|\\ |mana_b| (Możesz zapłacić dodatkowo |mana_3|\\ |mana_b| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_3|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_3|\\ |mana_b|.)"
 
 #: ../../DOM.rst:449
 msgid ""
 "When Caligo Skin-Witch enters the battlefield, if it was kicked, each "
 "opponent discards two cards."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, każdy "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, każdy "
 "przeciwnik odrzuca dwie karty."
 
 #: ../../DOM.rst:454
@@ -1370,8 +1366,8 @@ msgid ""
 "I, II — Chainer's Torment deals 2 damage to each opponent and you gain 2 "
 "life."
 msgstr ""
-"I, II — Ten permanent zadaje 2 obrażenia każdemu przeciwnikowi, a ty zyskaj "
-"2 życia."
+"I, II — Ten urok zadaje każdemu przeciwnikowi po 2 obrażenia, a ty zyskaj 2 "
+"życia."
 
 #: ../../DOM.rst:461
 msgid ""
@@ -1379,7 +1375,7 @@ msgid ""
 "your life total, rounded up. It deals X damage to you."
 msgstr ""
 "III — Stwórz żeton czarnego stwora Koszmar Horror X/X, gdzie X jest połową "
-"twojego życia, zaokrąglając wzwyż. Zadaje on tobie X obrażeń."
+"twoich żyć, zaokrąglając wzwyż. Zadaje on tobie X obrażeń."
 
 #: ../../DOM.rst:466
 msgid ""
@@ -1407,7 +1403,7 @@ msgstr ""
 #: ../../DOM.rst:469
 msgid ""
 "When Deathbloom Thallid dies, create a 1/1 green Saproling creature token."
-msgstr "Kiedy ten stwór umrze, stwórz żeton zielonego stwora Saproling 1/1."
+msgstr "Kiedy ten stwór umrze, stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../DOM.rst:478
 msgid ""
@@ -1422,8 +1418,7 @@ msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../DOM.rst:477
 msgid "When enchanted creature dies, return that card to its owner's hand."
-msgstr ""
-"Kiedy zauroczony stwór umrze, przywróć ową kartę do ręki jej właściciela."
+msgstr "Kiedy zauroczony stwór umrze, przywróć ową kartę do ręki właściciela."
 
 #: ../../DOM.rst:484
 msgid ""
@@ -1444,11 +1439,11 @@ msgid ""
 "process. Demonlord Belzenlok deals 1 damage to you for each card put into "
 "your hand this way."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wygnaj karty z wierzchu twojej "
-"biblioteki dopóki nie wygnasz nie-lądowej karty, następnie dołóż ową kartę "
-"do twojej ręki. Jeśli skrócony koszt many owej karty wynosi 4 lub więcej, "
-"powtórz ten proces. Ta karta zadaje tobie 1 obrażenie za każdą kartę "
-"dołożoną do twojej ręki w ten sposób."
+"Kiedy ten stwór wejdzie na pole walki, wyganiaj karty z wierzchu twojej "
+"biblioteki aż wygnasz nielądową kartę, następnie umieść ową kartę w twojej "
+"ręce. Jeśli skrócony koszt many owej karty wynosi 4 lub więcej, powtórz ten "
+"proces. Ten stwór zadaje tobie 1 obrażenie za każdą kartę umieszczoną w "
+"twojej ręce w ten sposób."
 
 #: ../../DOM.rst:488
 msgid ""
@@ -1462,8 +1457,8 @@ msgid ""
 "Target player reveals their hand. You choose an artifact or creature card "
 "from it. That player discards that card."
 msgstr ""
-"Wskazany gracz ujawnia swoją rękę. Ty wybierasz z niej kartę artefaktu lub "
-"lądu. Ów gracz odrzuca ową kartę."
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej kartę artefaktu lub lądu. "
+"Ów gracz odrzuca ową kartę."
 
 #: ../../DOM.rst:492
 msgid ""
@@ -1474,7 +1469,7 @@ msgstr ""
 
 #: ../../DOM.rst:491
 msgid "|mana_b|: Dread Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje +1/+1 do końca tury."
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../DOM.rst:496
 msgid ""
@@ -1552,7 +1547,7 @@ msgid ""
 "Search your library for two cards. Put one into your hand and the other into "
 "your graveyard. Then shuffle your library."
 msgstr ""
-"Poszukaj w twojej bibliotece dwóch kart. Umieść jedną z nich w twojej ręce, "
+"Wyszukaj w twojej bibliotece dwie karty. Umieść jedną z nich w twojej ręce, "
 "a drugą w twoim cmentarzu. Następnie przetasuj twoją bibliotekę."
 
 #: ../../DOM.rst:522
@@ -1567,8 +1562,8 @@ msgid ""
 "Target creature gets -1/-1 until end of turn. Create a 1/1 green Saproling "
 "creature token."
 msgstr ""
-"Wskazany stwór dostaje -1/-1 do końca tury. Stwórz żeton zielonego stwora "
-"Saproling 1/1."
+"Wskazany stwór dostaje do końca tury -1/-1. Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../DOM.rst:530
 msgid ""
@@ -1582,8 +1577,8 @@ msgid ""
 "Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_5|\\ |mana_b| (Możesz zapłacić dodatkowo |mana_5|\\ |mana_b| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_5|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_5|\\ |mana_b|.)"
 
 #: ../../DOM.rst:527
 msgid "Menace"
@@ -1594,7 +1589,7 @@ msgid ""
 "When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create "
 "eight 2/2 black Zombie Knight creature tokens with menace."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, stwórz osiem "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, stwórz osiem "
 "żetonów czarnego stwora Rycerz Zombi 2/2 ze złowrogością."
 
 #: ../../DOM.rst:538
@@ -1609,12 +1604,12 @@ msgid ""
 "Whenever a creature an opponent controls is dealt damage, put a +1/+1 "
 "counter on Kazarov, Sengir Pureblood."
 msgstr ""
-"Ilekroć stwór pod władaniem przeciwnika otrzymuje obrażenia, połóż znacznik "
-"+1/+1 na niniejszym stworze."
+"Ilekroć stwór pod władaniem przeciwnika otrzyma obrażenia, umieść znacznik +"
+"1/+1 na niniejszym stworze."
 
 #: ../../DOM.rst:537
 msgid "|mana_3|\\ |mana_r|: Kazarov deals 2 damage to target creature."
-msgstr "|mana_3|\\ |mana_r|: Ten stwór zadaje 2 obrażenia wskazanemu stworowi."
+msgstr "|mana_3|\\ |mana_r|: Ten stwór zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../DOM.rst:546
 msgid ""
@@ -1628,14 +1623,13 @@ msgid ""
 "Hexproof from white (This creature can't be the target of white spells or "
 "abilities your opponents control.)"
 msgstr ""
-"Antyklątwa przed białym (Ten stwór nie może być wskazywany przez władane "
-"przez przeciwników białe czary i zdolności.)"
+"Antyklątwa przed białym (Ten stwór nie może być wskazywany przez białe czary "
+"i zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../DOM.rst:545
 msgid ""
 "Knight of Malice gets +1/+0 as long as any player controls a white permanent."
-msgstr ""
-"Ten stwór dostaje +1/+0 o ile którykolwiek gracz włada białym permanentem."
+msgstr "Ten stwór dostaje +1/+0 o ile któryś gracz włada białym permanentem."
 
 #: ../../DOM.rst:558
 msgid ""
@@ -1661,8 +1655,8 @@ msgid ""
 "Whenever you lose life, for each 1 life you lost, exile a permanent you "
 "control or a card from your hand or graveyard."
 msgstr ""
-"Ilekroć tracisz życie, za każdy stracony punkt życia wygnaj permanent będący "
-"pod twoim władaniem lub kartę z twojej ręki lub cmentarza."
+"Ilekroć tracisz życia, za każde stracone życie wygnaj permanent pod twoim "
+"władaniem lub kartę z twojej ręki lub cmentarza."
 
 #: ../../DOM.rst:557
 msgid "When Lich's Mastery leaves the battlefield, you lose the game."
@@ -1681,9 +1675,9 @@ msgid ""
 "Lingering Phantom from your graveyard to your hand. (Artifacts, legendaries, "
 "and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucisz historyczny czar, możesz zapłacić |mana_b|. Jeśli to "
-"zrobisz, przywróć tę kartę z twojego cmentarza do twojej ręki. (Artefakty, "
-"legendy i Sagi są historyczne.)"
+"Ilekroć rzucisz historyczny czar, możesz zapłacić |mana_b|. Jeśli tak "
+"zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:572
 msgid ""
@@ -1732,7 +1726,7 @@ msgstr ""
 
 #: ../../DOM.rst:583
 msgid "I, II — Create two 0/1 black Cleric creature tokens."
-msgstr "I, II — Stwórz dwa żetony stwora Kleryk 0/1."
+msgstr "I, II — Stwórz dwa żetony czarnego stwora Kleryk 0/1."
 
 #: ../../DOM.rst:585
 msgid ""
@@ -1740,9 +1734,9 @@ msgid ""
 "the beginning of your upkeep, sacrifice another creature. If you can't, this "
 "creature deals 6 damage to you.\""
 msgstr ""
-"III — Stwórz żeton czarnego stwora Demon 6/6 z lataniem, tratowaniem oraz "
-"zdolnością \"Na początku twojego kroku utrzymania, poświęć innego stwora. "
-"Jeśli nie możesz, ten stwór zadaje tobie 6 obrażeń.\""
+"III — Stwórz żeton czarnego stwora Demon 6/6 z lataniem i tratowaniem mający "
+"\"Na początku twojego kroku utrzymania, poświęć innego stwora. Jeśli nie "
+"możesz, ten stwór zadaje tobie 6 obrażeń.\""
 
 #: ../../DOM.rst:590
 msgid ""
@@ -1784,8 +1778,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_3| (Możesz zapłacić dodatkowo |mana_3| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_3| (Rzucając ten czar możesz dodatkowo zapłacić |mana_3|.)"
 
 #: ../../DOM.rst:599
 msgid ""
@@ -1799,8 +1792,8 @@ msgid ""
 "If Stronghold Confessor was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
 msgstr ""
-"Jeśli ta karta została podbita, wchodzi na pole walki mając na sobie dwa "
-"znaczniki +1/+1."
+"Jeśli ten stwór została podbity, wchodzi na pole walki mając dwa znaczniki +"
+"1/+1."
 
 #: ../../DOM.rst:606
 msgid ""
@@ -1815,7 +1808,7 @@ msgid ""
 "of turn. If a Saproling was sacrificed this way, you gain 2 life."
 msgstr ""
 "|mana_1|, poświęć innego stwora: Ten stwór dostaje +2/+2 do końca tury. "
-"Jeśli Saproling został poświęcony w ten sposób, zyskaj 2 życia."
+"Jeśli Sadzonka została poświęcona w ten sposób, zyskaj 2 życia."
 
 #: ../../DOM.rst:610
 msgid ""
@@ -1842,7 +1835,7 @@ msgid ""
 "sacrificed this way."
 msgstr ""
 "Jako dodatkowy koszt rzucenia tego czaru możesz poświęcić dowolną liczbę "
-"stworów. Rzucenie tego czaru kosztuje |mana_2| mniej za każdego stwora "
+"stworów. Rzucenie tego czaru kosztuje o |mana_2| mniej za każdego stwora "
 "poświęconego w ten sposób."
 
 #: ../../DOM.rst:615
@@ -1850,7 +1843,7 @@ msgid ""
 "When Torgaar, Famine Incarnate enters the battlefield, up to one target "
 "player's life total becomes half their starting life total, rounded down."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, punkty życia co najwyżej jednego "
+"Kiedy ten stwór wejdzie na pole walki, punkty życia co najwyżej jednego "
 "wskazanego gracza przyjmują wartość połowy ich startowej wartości, "
 "zaokrąglając w dół."
 
@@ -1866,7 +1859,7 @@ msgid ""
 "Whenever Urgoros, the Empty One deals combat damage to a player, that player "
 "discards a card at random. If the player can't, you draw a card."
 msgstr ""
-"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, ów gracz odrzuca losowo "
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca losową "
 "kartę. Jeśli ów gracz nie może, dobierz kartę."
 
 #: ../../DOM.rst:628
@@ -1881,15 +1874,15 @@ msgid ""
 "Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to "
 "any other costs as you cast this spell.)"
 msgstr ""
-"Podbicie—Poświęć stwora. (Możesz poświęcić stwora jako dodatek do innych "
-"kosztów podczas rzucania tego czaru.)"
+"Podbicie—Poświęć stwora. (Rzucając ten czar możesz poświęcić stwora oprócz "
+"opłacenia innych kosztów.)"
 
 #: ../../DOM.rst:627
 msgid ""
 "Target creature gets -2/-2 until end of turn. If this spell was kicked, that "
 "creature gets -5/-5 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje -2/-2 do końca tury. Jeśli ten czar został podbity, "
+"Wskazany stwór dostaje do końca tury -2/-2. Jeśli ten czar został podbity, "
 "zamiast tego ów stwór dostaje -5/-5 do końca tury."
 
 #: ../../DOM.rst:632
@@ -1919,7 +1912,7 @@ msgid ""
 "When Windgrace Acolyte enters the battlefield, put the top three cards of "
 "your library into your graveyard and you gain 3 life."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
+"Kiedy ten stwór wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
 "biblioteki w twoim cmentarzu oraz zyskaj 3 życia."
 
 #: ../../DOM.rst:640
@@ -2006,7 +1999,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../DOM.rst:667
 msgid "Fiery Intervention deals 5 damage to target creature."
-msgstr "Ten czar zadaje 5 obrażeń wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../DOM.rst:669
 msgid "Destroy target artifact."
@@ -2024,8 +2017,8 @@ msgid ""
 "Kicker |mana_5|\\ |mana_r| (You may pay an additional |mana_5|\\ |mana_r| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_5|\\ |mana_r| (Możesz zapłacić dodatkowo |mana_5|\\ |mana_r| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_5|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_5|\\ |mana_r|.)"
 
 #: ../../DOM.rst:675
 msgid ""
@@ -2033,10 +2026,9 @@ msgid ""
 "it deals 10 damage divided as you choose among any number of targets "
 "instead. (Those targets can include players and planeswalkers.)"
 msgstr ""
-"Ten czar zadaje 5 obrażeń wskazanemu stworowi. Jeśli ten czar został "
-"podbity, zamiast tego zadaje on 10 obrażeń rozdzielonych według twojego "
-"uznania pomiędzy dowolną liczbę celów. (Owe cele mogą być graczami i "
-"wędrowcami.)"
+"Ten czar zadaje wskazanemu stworowi 5 obrażeń. Jeśli ten czar został "
+"podbity, zamiast tego zadaje on 10 obrażeń rozdzielonych dowolnie pomiędzy "
+"dowolną liczbę wskazanych celów. (Owe cele mogą być graczami i wędrowcami.)"
 
 #: ../../DOM.rst:678
 msgid ""
@@ -2057,8 +2049,8 @@ msgid ""
 "When Firefist Adept enters the battlefield, it deals X damage to target "
 "creature an opponent controls, where X is the number of Wizards you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zadaje X obrażeń wskazanemu stworowi "
-"pod władaniem przeciwnika, gdzie X jest liczbą Czarodzejów pod twoim "
+"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu stworowi pod "
+"władaniem przeciwnika X obrażeń, gdzie X jest liczbą Czarodzejów pod twoim "
 "władaniem."
 
 #: ../../DOM.rst:694
@@ -2070,7 +2062,7 @@ msgstr ""
 
 #: ../../DOM.rst:689
 msgid "I — The First Eruption deals 1 damage to each creature without flying."
-msgstr "I — Ten permanent zadaje po 1 obrażeniu każdemu stworowi bez latania."
+msgstr "I — Ten permanent zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../DOM.rst:691
 msgid "II — Add |mana_r|\\ |mana_r|."
@@ -2081,8 +2073,8 @@ msgid ""
 "III — Sacrifice a Mountain. If you do, The First Eruption deals 3 damage to "
 "each creature."
 msgstr ""
-"III — Poświęć Górę. Jeśli to zrobisz, ten permanent zadaje każdemu stworowi "
-"po 3 obrażenia."
+"III — Poświęć Górę. Jeśli tak zrobisz, ten urok zadaje każdemu stworowi po 3 "
+"obrażenia."
 
 #: ../../DOM.rst:704
 msgid ""
@@ -2106,8 +2098,8 @@ msgid ""
 "instead."
 msgstr ""
 "III — Jeśli czerwone źródło pod twoim władaniem miałoby w tej turze zadać "
-"obrażenia permanentowi lub graczowi, zadaje ono owemu celowi o 2 obrażenia "
-"więcej."
+"obrażenia permanentowi lub graczowi, zamiast tego zadaje ono owemu celowi o "
+"2 obrażenia więcej."
 
 #: ../../DOM.rst:710
 msgid ""
@@ -2136,15 +2128,15 @@ msgid ""
 "Kicker |mana_3|\\ |mana_r| (You may pay an additional |mana_3|\\ |mana_r| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_3|\\ |mana_r| (Możesz zapłacić dodatkowo |mana_3|\\ |mana_r| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_3|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_3|\\ |mana_r|.)"
 
 #: ../../DOM.rst:715
 msgid ""
 "When Ghitu Chronicler enters the battlefield, if it was kicked, return "
 "target instant or sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, przywróć "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
 "wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:720
@@ -2159,8 +2151,8 @@ msgid ""
 "When Ghitu Journeymage enters the battlefield, if you control another "
 "Wizard, Ghitu Journeymage deals 2 damage to each opponent."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Czarodziejem, ta "
-"karta zadaje każdemu przeciwnikowi 2 obrażenia."
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym Czarodziejem, ten "
+"stwór zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../DOM.rst:724
 msgid ""
@@ -2189,16 +2181,16 @@ msgid ""
 "Kicker—Sacrifice an artifact or Goblin. (You may sacrifice an artifact or "
 "Goblin in addition to any other costs as you cast this spell.)"
 msgstr ""
-"Podbicie—Poświęć artefakt lub Goblina (Możesz poświęcić artefakt lub Goblina "
-"jako dodatek do innych kosztów podczas rzucania tego czaru.)"
+"Podbicie—Poświęć artefakt lub Goblina (Rzucając ten czar możesz poświęcić "
+"artefakt lub Goblina oprócz opłacenia innych kosztów.)"
 
 #: ../../DOM.rst:729
 msgid ""
 "Goblin Barrage deals 4 damage to target creature. If this spell was kicked, "
 "it also deals 4 damage to target player or planeswalker."
 msgstr ""
-"Ten czar zadaje 4 obrażenia wskazanemu stworowi. Jeśli ten czar został "
-"podbity, zadaje on także 4 obrażenia  wskazanemu graczowi lub wędrowcowi."
+"Ten czar zadaje wskazanemu stworowi 4 obrażenia. Jeśli ten czar został "
+"podbity, zadaje on także 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
 #: ../../DOM.rst:736
 msgid ""
@@ -2212,7 +2204,7 @@ msgid ""
 "When Goblin Chainwhirler enters the battlefield, it deals 1 damage to each "
 "opponent and each creature and planeswalker they control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zadaje 1 obrażenie każdemu "
+"Kiedy ten stwór wejdzie na pole walki, zadaje po 1 obrażeniu każdemu "
 "przeciwnikowi oraz każdemu stworowi i wędrowcowi pod ich władaniem."
 
 #: ../../DOM.rst:742
@@ -2224,7 +2216,7 @@ msgstr ""
 
 #: ../../DOM.rst:739
 msgid "Goblin spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie czarów Goblinów kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie czarów typu Goblin kosztuje cię o |mana_1| mniej."
 
 #: ../../DOM.rst:741
 msgid "Goblins you control have haste."
@@ -2243,7 +2235,7 @@ msgid ""
 "nonenchantment permanents you don't control and put an aim counter on each "
 "of them."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wybierz cztery permanenty poza twoim "
+"Kiedy ten urok wejdzie na pole walki, wybierz cztery permanenty poza twoim "
 "władaniem nie będące urokami i umieść na każdym z nich znacznik celowania."
 
 #: ../../DOM.rst:747
@@ -2295,7 +2287,8 @@ msgstr ""
 #: ../../DOM.rst:761
 msgid ""
 "Jaya's Immolating Inferno deals X damage to each of up to three targets."
-msgstr "Ten czar zadaje X obrażeń w każdy z co najwyżej trzech celów."
+msgstr ""
+"Ten czar zadaje każdemu z co najwyżej trzech wskazanych celów po X obrażeń."
 
 #: ../../DOM.rst:770
 msgid ""
@@ -2314,8 +2307,8 @@ msgid ""
 "of target creature until end of turn. Untap that creature. It gains haste "
 "until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, zyskaj władanie "
-"nad wskazanym stworem do końca tury. Odkręć owego stwora. Zyskuje on "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, zyskaj do końca "
+"tury władanie nad wskazanym stworem. Odkręć owego stwora. Zyskuje on "
 "pośpiech do końca tury."
 
 #: ../../DOM.rst:774
@@ -2330,7 +2323,7 @@ msgid ""
 "When Keldon Raider enters the battlefield, you may discard a card. If you "
 "do, draw a card."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz odrzucić kartę. Jeśli tak "
+"Kiedy ten stwór wejdzie na pole walki, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz kartę."
 
 #: ../../DOM.rst:778
@@ -2345,8 +2338,8 @@ msgid ""
 "Whenever Keldon Warcaller attacks, put a lore counter on target Saga you "
 "control."
 msgstr ""
-"Ilekroć ten stwór atakuje, połóż znacznik opowieści na wskazanej Sadze pod "
-"twoim władaniem."
+"Ilekroć ten stwór zaatakuje, umieść znacznik opowieści na wskazanej Sadze "
+"pod twoim władaniem."
 
 #: ../../DOM.rst:782
 msgid ""
@@ -2358,7 +2351,8 @@ msgstr ""
 #: ../../DOM.rst:781
 msgid ""
 "|tap|, Sacrifice an artifact: Orcish Vandal deals 2 damage to any target."
-msgstr "|tap|, poświęć artefakt: Ten stwór zadaje 2 obrażenia w dowolny cel."
+msgstr ""
+"|tap|, poświęć artefakt: Ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../DOM.rst:786
 msgid ""
@@ -2421,16 +2415,12 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:803
-#, fuzzy
-#| msgid ""
-#| "Shivan Fire deals 2 damage to target creature. If this spell was kicked, "
-#| "it deals 4 damage to that creature instead."
 msgid ""
 "Shivan Fire deals 2 damage to target creature. If this spell was kicked, it "
 "deals 4 damage instead."
 msgstr ""
-"Ten czar zadaje 2 obrażenia wskazanemu stworowi. Jeśli ten czar został "
-"podbity, zamiast tego zadaje on owemu stworowi 4 obrażenia."
+"Ten czar zadaje wskazanemu stworowi 2 obrażenia. Jeśli ten czar został "
+"podbity, zamiast tego zadaje on 4 obrażenia."
 
 #: ../../DOM.rst:810
 msgid ""
@@ -2452,8 +2442,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
 msgstr ""
-"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w "
-"dowolnie wskazany cel."
+"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../DOM.rst:814
 msgid ""
@@ -2477,8 +2467,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_r| (Możesz zapłacić dodatkowo |mana_r| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |mana_r|.)"
 
 #: ../../DOM.rst:819
 msgid "Trample, haste"
@@ -2514,7 +2503,7 @@ msgid ""
 "heads, Two-Headed Giant gains double strike until end of turn. If both coins "
 "come up tails, Two-Headed Giant gains menace until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, rzuć dwiema monetami. Jeśli na obu wypadnie "
+"Ilekroć ten stwór zaatakuje, rzuć dwiema monetami. Jeśli na obu wypadnie "
 "reszka, ten stwór zyskuje podwójny cios do końca tury. Jeśli na obu wypadnie "
 "orzeł, ten stwór zyskuje złowrogość do końca tury."
 
@@ -2548,7 +2537,7 @@ msgid ""
 "When Verix Bladewing enters the battlefield, if it was kicked, create Karox "
 "Bladewing, a legendary 4/4 red Dragon creature token with flying."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, stwórz żeton "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, stwórz żeton "
 "legendarnego czerwonego stwora Smok 4/4 z lataniem o nazwie Karox Bladewing."
 
 #: ../../DOM.rst:848
@@ -2568,9 +2557,9 @@ msgid ""
 "mana_r|. If you do, return Warcry Phoenix from your graveyard to the "
 "battlefield tapped and attacking."
 msgstr ""
-"Ilekroć atakujesz co najmniej trzema stworami, możesz zapłacić |mana_2|\\ |"
-"mana_r|. Jeśli tak zrobisz, przywróć tego stwora z twojego cmentarza na pole "
-"walki przekręconego i atakującego."
+"Ilekroć zaatakujesz co najmniej trzema stworami, możesz zapłacić |mana_2|\\ "
+"|mana_r|. Jeśli tak zrobisz, przywróć tego stwora z twojego cmentarza na "
+"pole walki przekręconego i atakującego."
 
 #: ../../DOM.rst:854
 msgid ""
@@ -2593,11 +2582,11 @@ msgstr ""
 #: ../../DOM.rst:857
 msgid "This spell costs |mana_2| less to cast if you control a Wizard."
 msgstr ""
-"Rzucenie tego czaru kosztuje |mana_2| mniej jeśli władasz Czarodziejem."
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli władasz Czarodziejem."
 
 #: ../../DOM.rst:859
 msgid "Wizard's Lightning deals 3 damage to any target."
-msgstr "Ten czar zadaje 3 obrażenia w dowolny cel."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../DOM.rst:864
 msgid ""
@@ -2629,9 +2618,9 @@ msgid ""
 "it fights target creature an opponent controls. (Each deals damage equal to "
 "its power to the other.)"
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworzy pod twoim władaniem jeśli jest on "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem jeśli jest on "
 "legendarny. Następnie walczy on ze wskazanym stworem pod władaniem "
-"przeciwnika. (zadają sobie nawzajem obrażenia równe ich sile.)"
+"przeciwnika. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../DOM.rst:872
 msgid ""
@@ -2660,8 +2649,8 @@ msgid ""
 "If Baloth Gorger was kicked, it enters the battlefield with three +1/+1 "
 "counters on it."
 msgstr ""
-"Jeśli ta karta została podbita, wchodzi na pole walki z trzema znacznikami "
-"+1/+1."
+"Jeśli ten stwór został podbity, wchodzi na pole walki mając trzy znaczniki +"
+"1/+1."
 
 #: ../../DOM.rst:882
 msgid ""
@@ -2690,8 +2679,8 @@ msgid ""
 "Whenever Corrosive Ooze blocks or becomes blocked by an equipped creature, "
 "destroy all Equipment attached to that creature at end of combat."
 msgstr ""
-"Ilekroć ten stwór blokuje lub zostaje zablokowany przez wyposażonego stwora, "
-"zniszcz na koniec walki każde Wyposażenie dołączone do owego stwora."
+"Ilekroć ten stwór zablokuje lub zostaje zablokowany przez wyposażonego "
+"stwora, zniszcz na koniec walki każde Wyposażenie dołączone do owego stwora."
 
 #: ../../DOM.rst:892
 msgid ""
@@ -2724,11 +2713,11 @@ msgid ""
 "green Saproling creature token."
 msgstr ""
 "|mana_1|\\ |mana_g|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
-"zielonego stwora Saproling 1/1."
+"zielonego stwora Sadzonka 1/1."
 
 #: ../../DOM.rst:897
 msgid "Sacrifice two Saprolings: You gain 2 life and draw a card."
-msgstr "Poświęć dwa Saprolingi: Zyskaj 2 życia i dobierasz kartę."
+msgstr "Poświęć dwie Sadzonki: Zyskaj 2 życia i dobierz kartę."
 
 #: ../../DOM.rst:906
 msgid ""
@@ -2743,15 +2732,15 @@ msgid ""
 "their library."
 msgstr ""
 "Wskazany gracz wtasowuje co najwyżej trzy wskazane karty z jego cmentarza do "
-"jego biblioteki."
+"swojej biblioteki."
 
 #: ../../DOM.rst:905
 msgid ""
 "When Gaea's Blessing is put into your graveyard from your library, shuffle "
 "your graveyard into your library."
 msgstr ""
-"Kiedy ta karta trafia do twojego cmentarza z twojej biblioteki, wtasuj twój "
-"cmentarz do twojej biblioteki."
+"Kiedy ta karta zostanie umieszczona w twoim cmentarzu z twojej biblioteki, "
+"wtasuj twój cmentarz do twojej biblioteki."
 
 #: ../../DOM.rst:910
 msgid ""
@@ -2762,7 +2751,7 @@ msgstr ""
 
 #: ../../DOM.rst:909
 msgid "Gaea's Protector must be blocked if able."
-msgstr "Ten stwór musi być blokowany jeśli to możliwe."
+msgstr "Ten stwór musi być blokowany, jeśli to możliwe."
 
 #: ../../DOM.rst:916
 msgid ""
@@ -2775,16 +2764,15 @@ msgstr ""
 msgid ""
 "Kicker |mana_2| (You may pay an additional |mana_2| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2| (Możesz zapłacić dodatkowo |mana_2| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_2| (Rzucając ten czar możesz dodatkowo zapłacić |mana_2|.)"
 
 #: ../../DOM.rst:915
 msgid ""
 "Untap target creature. It gets +2/+2 until end of turn. If this spell was "
 "kicked, that creature gets +4/+4 until end of turn instead."
 msgstr ""
-"Odkręć wskazanego stwora. Dostaje on +2/+2 do końca tury. Jeśli ten czar "
-"został podbity, zamiast tego ów stwór dostaje +4/+4 do końca tury."
+"Odkręć wskazanego stwora. Dostaje on do końca tury +2/+2. Jeśli ten czar "
+"został podbity, zamiast tego ów stwór dostaje do końca tury +4/+4."
 
 #: ../../DOM.rst:922
 msgid ""
@@ -2800,9 +2788,9 @@ msgid ""
 "for two basic land cards, put them onto the battlefield, then shuffle your "
 "library."
 msgstr ""
-"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją na polu walki, "
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu walki, "
 "następnie przetasuj twoją bibliotekę. Jeśli ten czar został podbity, zamiast "
-"tego poszukaj w twojej bibliotece dwóch kart bazowych lądów i umieść je na "
+"tego wyszukaj w twojej bibliotece dwie karty bazowych lądów i umieść je na "
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../DOM.rst:930
@@ -2817,15 +2805,15 @@ msgid ""
 "If Grunn, the Lonely King was kicked, it enters the battlefield with five +1/"
 "+1 counters on it."
 msgstr ""
-"Jeśli ta karta została podbita, wchodzi na pole walki z pięcioma znacznikami "
-"+1/+1."
+"Jeśli ten stwór został podbity, wchodzi na pole walki mając pięć znaczników +"
+"1/+1."
 
 #: ../../DOM.rst:929
 msgid ""
 "Whenever Grunn attacks alone, double its power and toughness until end of "
 "turn."
 msgstr ""
-"Ilekroć ten stwór atakuje samotnie, podwój jego bazową siłę i wytrzymałość "
+"Ilekroć ten stwór zaatakuje samotnie, podwój jego bazową siłę i wytrzymałość "
 "do końca tury."
 
 #: ../../DOM.rst:936
@@ -2857,14 +2845,14 @@ msgid ""
 "Kicker |mana_4|\\ |mana_g| (You may pay an additional |mana_4|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_4|\\ |mana_g| (Możesz zapłacić dodatkowo |mana_4|\\ |mana_g| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_4|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_4|\\ |mana_g|.)"
 
 #: ../../DOM.rst:941
 msgid ""
 "When Krosan Druid enters the battlefield, if it was kicked, you gain 10 life."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została pobita, zyskaj 10 życia."
+"Kiedy ten stwór wejdzie na pole walki, jeśli został pobity, zyskaj 10 żyć."
 
 #: ../../DOM.rst:946
 msgid ""
@@ -2918,8 +2906,8 @@ msgid ""
 "Whenever another Elf enters the battlefield under your control, put a +1/+1 "
 "counter on Marwyn, the Nurturer."
 msgstr ""
-"Ilekroć inny Elf wejdzie na pole walki pod twoim władaniem, umieść znacznik "
-"+1/+1 na tej karcie."
+"Ilekroć inny Elf wejdzie na pole walki pod twoim władaniem, umieść znacznik +"
+"1/+1 na niniejszym stworze."
 
 #: ../../DOM.rst:963
 msgid "|tap|: Add an amount of |mana_g| equal to Marwyn's power."
@@ -2964,15 +2952,15 @@ msgid ""
 "Multani, Yavimaya's Avatar gets +1/+1 for each land you control and each "
 "land card in your graveyard."
 msgstr ""
-"Ten stwór dostaje +1/+1 za każdy ląd pod twoim władaniem i każdą kartę lądu "
-"w twoim cmentarzu."
+"Ten stwór dostaje +1/+1 za każdy ląd pod twoim władaniem oraz każdą kartę "
+"lądu w twoim cmentarzu."
 
 #: ../../DOM.rst:979
 msgid ""
 "|mana_1|\\ |mana_g|, Return two lands you control to their owner's hand: "
 "Return Multani from your graveyard to your hand."
 msgstr ""
-"|mana_1|\\ |mana_g|, przywróć dwa lądy będące pod twoim władaniem do rąk ich "
+"|mana_1|\\ |mana_g|, przywróć dwa lądy pod twoim władaniem do rąk "
 "właścicieli: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:984
@@ -2995,7 +2983,7 @@ msgstr ""
 
 #: ../../DOM.rst:987
 msgid "Pierce the Sky deals 7 damage to target creature with flying."
-msgstr "Ten czar zadaje 7 obrażeń wskazanemu stworowi z lataniem."
+msgstr "Ten czar zadaje wskazanemu stworowi z lataniem 7 obrażeń."
 
 #: ../../DOM.rst:990
 msgid ""
@@ -3016,7 +3004,7 @@ msgid ""
 "Create two 1/1 green Saproling creature tokens. If this spell was kicked, "
 "create four of those tokens instead."
 msgstr ""
-"Stwórz dwa żetony zielonego stwora Saproling 1/1. Jeśli ten czar został "
+"Stwórz dwa żetony zielonego stwora Sadzonka 1/1. Jeśli ten czar został "
 "podbity, zamiast tego stwórz cztery takie żetony."
 
 #: ../../DOM.rst:1006
@@ -3051,7 +3039,7 @@ msgstr ""
 
 #: ../../DOM.rst:1009
 msgid "Create three 1/1 green Saproling creature tokens."
-msgstr "Stwórz trzy żetony zielonego stwora Saproling 1/1."
+msgstr "Stwórz trzy żetony zielonego stwora Sadzonka 1/1."
 
 #: ../../DOM.rst:1014
 msgid ""
@@ -3064,8 +3052,8 @@ msgstr ""
 msgid ""
 "Each other creature you control that's a Fungus or Saproling gets +1/+1."
 msgstr ""
-"Każdy inny stwór pod twoim władaniem będący Grzybem lub Saprolingiem dostaje "
-"+1/+1."
+"Każdy inny stwór pod twoim władaniem będący Grzybem lub Sadzonką dostaje +1/"
+"+1."
 
 #: ../../DOM.rst:1018
 msgid ""
@@ -3091,8 +3079,8 @@ msgid ""
 "with reach, indestructible, and haste. They're still lands."
 msgstr ""
 "Do twojej następnej tury wszystkie lądy pod twoim władaniem stają się "
-"stworami Elemental 2/2 z zasięgiem, niezniszczalnością i pośpiechem. Nadal "
-"są też lądami."
+"stworami Żywiołak 2/2 z zasięgiem, niezniszczalnością i pośpiechem. Nadal są "
+"lądami."
 
 #: ../../DOM.rst:1028
 msgid ""
@@ -3106,15 +3094,15 @@ msgid ""
 "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_g| (Możesz zapłacić dodatkowo |mana_2|\\ |mana_g| "
-"podczas rzucania tego czaru.)"
+"Podbicie |mana_2|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_g|.)"
 
 #: ../../DOM.rst:1027
 msgid ""
 "When Territorial Allosaurus enters the battlefield, if it was kicked, it "
 "fights another target creature."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, walczy z innym "
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, walczy z innym "
 "wskazanym stworem."
 
 #: ../../DOM.rst:1032
@@ -3148,8 +3136,8 @@ msgid ""
 "If Untamed Kavu was kicked, it enters the battlefield with three +1/+1 "
 "counters on it."
 msgstr ""
-"Jeśli ta karta została podbita, wchodzi na pole walki z trzema znacznikami "
-"+1/+1."
+"Jeśli ten stwór został podbity, wchodzi na pole walki mając trzy znaczniki +"
+"1/+1."
 
 #: ../../DOM.rst:1044
 msgid ""
@@ -3193,8 +3181,8 @@ msgid ""
 "When Yavimaya Sapherd enters the battlefield, create a 1/1 green Saproling "
 "creature token."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton zielonego stwora "
-"Saproling 1/1."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../DOM.rst:1060
 msgid ""
@@ -3208,8 +3196,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Wizards you control get +1/+1 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz sztuczkę lub obrzęd, Czarodzieje pod twoim władaniem dostają "
-"+1/+1 do końca tury."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, Czarodzieje pod twoim władaniem "
+"dostają do końca tury +1/+1."
 
 #: ../../DOM.rst:1066
 msgid ""
@@ -3290,8 +3278,9 @@ msgid ""
 "When Garna, the Bloodflame enters the battlefield, return to your hand all "
 "creature cards in your graveyard that were put there from anywhere this turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, przywróć do twojej ręki wszystkie "
-"karty stworów z twojego cmentarza, które trafiły tam skądkolwiek w tej turze."
+"Kiedy ten stwór wejdzie na pole walki, przywróć do twojej ręki wszystkie "
+"karty stworów z twojego cmentarza, które został tam umieszczone skądkolwiek "
+"w tej turze."
 
 #: ../../DOM.rst:1089
 msgid "Other creatures you control have haste."
@@ -3310,8 +3299,8 @@ msgid ""
 "combination of |mana_r| and/or |mana_g|. Until end of turn, you don't lose "
 "this mana as steps and phases end."
 msgstr ""
-"Ilekroć co najmniej jeden stwór pod twoim władaniem atakuje, dostajesz tyle "
-"samo many w dowolnej kombinacji |mana_r| i/lub |mana_g|. Do końca tury nie "
+"Ilekroć co najmniej jeden stwór pod twoim władaniem zaatakuje, weź tyle samo "
+"many w dowolnej kombinacji |mana_r| i/lub |mana_g|. Do końca tury nie "
 "tracisz owej many podczas końców kroków i faz."
 
 #: ../../DOM.rst:1102
@@ -3393,7 +3382,7 @@ msgid ""
 "beginning of the next end step."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wygnaj inny wskazany permanent pod "
-"twoim władaniem. Przywróć go na pole walki pod władaniem jego właściciela na "
+"twoim władaniem. Przywróć go na pole walki pod władaniem właściciela na "
 "początku najbliższego kroku końcowego."
 
 #: ../../DOM.rst:1121
@@ -3446,12 +3435,12 @@ msgid ""
 "historic card from your graveyard. (Artifacts, legendaries, and Sagas are "
 "historic.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz wygnać wskazaną historyczną "
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazaną historyczną "
 "kartę z twojego cmentarza. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1141
 msgid "You may cast nonland cards exiled with Rona."
-msgstr "Możesz rzucać nie-lądowe karty wygnane z pomocą tego stwora."
+msgstr "Możesz rzucać nielądowe karty wygnane z pomocą tego stwora."
 
 #: ../../DOM.rst:1143
 msgid "|mana_4|, |tap|: Exile the top card of your library."
@@ -3488,12 +3477,12 @@ msgid ""
 "Whenever a Saproling you control dies, Slimefoot, the Stowaway deals 1 "
 "damage to each opponent and you gain 1 life."
 msgstr ""
-"Ilekroć umrze Saproling pod twoim władaniem, ten stwór zadaje każdemu "
+"Ilekroć umrze Sadzonka pod twoim władaniem, ten stwór zadaje każdemu "
 "przeciwnikowi po 1 obrażeniu, a ty zyskaj 1 życie."
 
 #: ../../DOM.rst:1155
 msgid "|mana_4|: Create a 1/1 green Saproling creature token."
-msgstr "|mana_4|: Stwórz żeton zielonego stwora Saproling 1/1."
+msgstr "|mana_4|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../DOM.rst:1160
 msgid ""
@@ -3508,7 +3497,7 @@ msgid ""
 "and draw a card."
 msgstr ""
 "Ilekroć ląd wejdzie na pole walki pod twoim władaniem, zyskaj 1 życie i "
-"dobierasz kartę."
+"dobierz kartę."
 
 #: ../../DOM.rst:1168
 msgid ""
@@ -3518,7 +3507,6 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:1163
-#, fuzzy
 msgid ""
 "+1: Draw a card. At the beginning of the next end step, untap up to two "
 "lands."
@@ -3529,7 +3517,7 @@ msgstr ""
 msgid ""
 "−3: Put target nonland permanent into its owner's library third from the top."
 msgstr ""
-"–3: Umieść wskazany nie-lądowy permanent w bibliotece jego właściciela jako "
+"–3: Umieść wskazany nielądowy permanent w bibliotece jego właściciela jako "
 "trzeci od wierzchu."
 
 #: ../../DOM.rst:1167
@@ -3537,8 +3525,8 @@ msgid ""
 "−8: You get an emblem with \"Whenever you draw a card, exile target "
 "permanent an opponent controls.\""
 msgstr ""
-"–8: Dostajesz emblemat o treści \"Ilekroć dobierasz kartę, wygnaj wskazany "
-"permanent spod władania przeciwnika.\""
+"–8: Dostajesz emblemat o treści \"Ilekroć dobierzesz kartę, wygnaj wskazany "
+"permanent pod władaniem przeciwnika.\""
 
 #: ../../DOM.rst:1174
 msgid ""
@@ -3554,8 +3542,8 @@ msgid ""
 "of the next end step."
 msgstr ""
 "Ilekroć Aura lub Wyposażenie pod twoim władaniem zostanie umieszczone w "
-"cmentarzu z pola walki, możesz przywrócić ową kartę do ręki jej właściciela "
-"na początku najbliższego kroku końcowego."
+"cmentarzu z pola walki, możesz przywrócić ową kartę do ręki właściciela na "
+"początku najbliższego kroku końcowego."
 
 #: ../../DOM.rst:1180
 msgid ""
@@ -3618,8 +3606,8 @@ msgid ""
 "|mana_6|, |tap|, Sacrifice Bloodtallow Candle: Target creature gets -5/-5 "
 "until end of turn."
 msgstr ""
-"|mana_6|, |tap|, poświęć ten artefakt: Wskazany stwór dostaje -5/-5 do końca "
-"tury."
+"|mana_6|, |tap|, poświęć ten artefakt: Wskazany stwór dostaje do końca tury "
+"-5/-5."
 
 #: ../../DOM.rst:1204
 msgid ""
@@ -3633,8 +3621,8 @@ msgid ""
 "If a land is tapped for two or more mana, it produces |colorless| instead of "
 "any other type and amount."
 msgstr ""
-"Jeśli ląd zostaje przekręcony po dwie lub więcej many, produkuje on |"
-"colorless| zamiast wszelkich innych typów i ilości."
+"Jeśli ląd zostanie przekręcony po dwie lub więcej many, produkuje on "
+"|colorless| zamiast wszelkich innych typów i ilości."
 
 #: ../../DOM.rst:1203
 msgid ""
@@ -3691,9 +3679,9 @@ msgid ""
 "target historic permanent you control to its owner's hand. (Artifacts, "
 "legendaries, and Sagas are historic.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz przywrócić inny wskazany "
-"historyczny permanent po twoim władaniem do ręki jego właściciela. "
-"(Artefakty, legendy i Sagi są historyczne.)"
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić inny wskazany "
+"historyczny permanent pod twoim władaniem do ręki właściciela. (Artefakty, "
+"legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1226
 msgid ""
@@ -3725,7 +3713,7 @@ msgstr ""
 
 #: ../../DOM.rst:1229
 msgid "Whenever Howling Golem attacks or blocks, each player draws a card."
-msgstr "Ilekroć ten stwór atakuje lub blokuje, każdy gracz dobiera kartę."
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, każdy gracz dobiera kartę."
 
 #: ../../DOM.rst:1234
 msgid ""
@@ -3750,8 +3738,8 @@ msgid ""
 "Historic spells you cast cost |mana_1| less to cast. (Artifacts, "
 "legendaries, and Sagas are historic.)"
 msgstr ""
-"Rzucanie przez ciebie historycznych czarów kosztuje o |mana_1| mniej. "
-"(Artefakty, legendy i Sagi są historyczne.)"
+"Rzucanie historycznych czarów kosztuje cię o |mana_1| mniej. (Artefakty, "
+"legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1248
 msgid ""
@@ -3774,7 +3762,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../DOM.rst:1254
 msgid ""
@@ -3804,7 +3792,7 @@ msgid ""
 "a token that's a copy of Mishra's Self-Replicator. (Artifacts, legendaries, "
 "and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucisz historyczny czar, możesz zapłacić |mana_1|. Jeśli to "
+"Ilekroć rzucisz historyczny czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, stwórz żeton będący kopią tego stwora. (Artefakty, legendy i Sagi "
 "są historyczne.)"
 
@@ -3839,8 +3827,8 @@ msgid ""
 "|tap|: Until end of turn, target land you control becomes the basic land "
 "type of your choice in addition to its other types."
 msgstr ""
-"|tap|: Do końca tury wskazany ląd pod twoim władaniem staje się bazowym "
-"lądem wybranego przez ciebie typu oprócz swoich pozostałych typów."
+"|tap|: Do końca tury wskazany ląd pod twoim władaniem staje się dodatkowo "
+"bazowym lądem wybranego przez ciebie typu oprócz swoich pozostałych typów."
 
 #: ../../DOM.rst:1272
 msgid ""
@@ -3860,8 +3848,8 @@ msgstr ""
 msgid ""
 "|tap|: Add |colorless| for each artifact you control named Powerstone Shard."
 msgstr ""
-"|tap|: Weź |colorless| za każdy artefakt pod twoim władaniem o nazwie "
-"Powerstone Shard."
+"|tap|: Weź |colorless| za każdy artefakt o nazwie Powerstone Shard pod twoim "
+"władaniem."
 
 #: ../../DOM.rst:1282
 msgid ""
@@ -3913,9 +3901,9 @@ msgid ""
 "for a basic land card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieścić ją w twojej ręce, następnie "
-"przetasuj twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../DOM.rst:1298
 msgid ""
@@ -3925,18 +3913,13 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:1295
-#, fuzzy
-#| msgid ""
-#| "Equipped creature has \"|tap|: This creature deals 1 damage to target "
-#| "player or planeswalker. If this creature is a Wizard, it deals 2 damage "
-#| "to that player or planeswalker instead.\""
 msgid ""
 "Equipped creature has \"|tap|: This creature deals 1 damage to target player "
 "or planeswalker. If this creature is a Wizard, it deals 2 damage instead.\""
 msgstr ""
-"Wyposażony stwór ma zdolność \"|tap|: Ten stwór zadaje 1 obrażenie "
-"wskazanemu graczowi lub wędrowcowi. Jeśli ten stwór jest Czarodziejem, "
-"zamiast tego zadaje on 2 obrażenia owemu graczowi lub wędrowcowi.\""
+"Wyposażony stwór ma \"|tap|: Ten stwór zadaje wskazanemu graczowi lub "
+"wędrowcowi 1 obrażenie. Jeśli niniejszy stwór jest Czarodziejem, zamiast "
+"tego zadaje on 2 obrażenia.\""
 
 #: ../../DOM.rst:1302
 msgid ""
@@ -3980,7 +3963,7 @@ msgid ""
 "Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap "
 "during your untap step."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona i nie odkręca się w twoim kroku "
+"Ten stwór wchodzi przekręcony na pole walki i nie odkręca się w twoim kroku "
 "odkręcania."
 
 #: ../../DOM.rst:1313
@@ -3988,7 +3971,7 @@ msgid ""
 "Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, "
 "and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucisz historyczny czar, odkręć tę kartę. (Artefakty, legendy i "
+"Ilekroć rzucisz historyczny czar, odkręć tego stwora. (Artefakty, legendy i "
 "Sagi są historyczne.)"
 
 #: ../../DOM.rst:1318
@@ -4070,8 +4053,7 @@ msgid ""
 "Clifftop Retreat enters the battlefield tapped unless you control a Mountain "
 "or a Plains."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Górą lub "
-"Równiną."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Górą lub Równiną."
 
 #: ../../DOM.rst:1341
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -4089,7 +4071,7 @@ msgid ""
 "Hinterland Harbor enters the battlefield tapped unless you control a Forest "
 "or an Island."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Lasem lub Wyspą."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Lasem lub Wyspą."
 
 #: ../../DOM.rst:1347
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -4107,7 +4089,7 @@ msgid ""
 "Isolated Chapel enters the battlefield tapped unless you control a Plains or "
 "a Swamp."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Równiną lub "
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Równiną lub "
 "Bagnem."
 
 #: ../../DOM.rst:1353
@@ -4123,7 +4105,7 @@ msgstr ""
 
 #: ../../DOM.rst:1357
 msgid "Memorial to Folly enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DOM.rst:1359
 msgid "|tap|: Add |mana_b|."
@@ -4134,8 +4116,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Sacrifice Memorial to Folly: Return target "
 "creature card from your graveyard to your hand."
 msgstr ""
-"|mana_2|\\ |mana_b|, |tap|, poświęć ten permanent: Przywróć wskazaną kartę "
-"stwora z twojego cmentarza do twojej ręki."
+"|mana_2|\\ |mana_b|, |tap|, poświęć ten ląd: Przywróć wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:1370
 msgid ""
@@ -4146,7 +4128,7 @@ msgstr ""
 
 #: ../../DOM.rst:1365
 msgid "Memorial to Genius enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DOM.rst:1367
 msgid "|tap|: Add |mana_u|."
@@ -4155,7 +4137,7 @@ msgstr "|tap|: Weź |mana_u|."
 #: ../../DOM.rst:1369
 msgid ""
 "|mana_4|\\ |mana_u|, |tap|, Sacrifice Memorial to Genius: Draw two cards."
-msgstr "|mana_4|\\ |mana_u|, |tap|, poświęć ten permanent: Dobierz dwie karty."
+msgstr "|mana_4|\\ |mana_u|, |tap|, poświęć ten ląd: Dobierz dwie karty."
 
 #: ../../DOM.rst:1378
 msgid ""
@@ -4166,7 +4148,7 @@ msgstr ""
 
 #: ../../DOM.rst:1373
 msgid "Memorial to Glory enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DOM.rst:1375
 msgid "|tap|: Add |mana_w|."
@@ -4177,7 +4159,7 @@ msgid ""
 "|mana_3|\\ |mana_w|, |tap|, Sacrifice Memorial to Glory: Create two 1/1 "
 "white Soldier creature tokens."
 msgstr ""
-"|mana_3|\\ |mana_w|, |tap|, poświęć ten permanent: Stwórz dwa żetony białego "
+"|mana_3|\\ |mana_w|, |tap|, poświęć ten ląd: Stwórz dwa żetony białego "
 "stwora Piechur 1/1."
 
 #: ../../DOM.rst:1386
@@ -4189,7 +4171,7 @@ msgstr ""
 
 #: ../../DOM.rst:1381
 msgid "Memorial to Unity enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DOM.rst:1385
 msgid ""
@@ -4198,10 +4180,10 @@ msgid ""
 "and put it into your hand. Then put the rest on the bottom of your library "
 "in a random order."
 msgstr ""
-"|mana_2|\\ |mana_g|, |tap|, poświęć ten permanent: Spójrz na pięć "
-"wierzchnich kart twojej biblioteki. Możesz ujawnić spośród nich kartę stwora "
-"i umieścić ją w twojej ręce. Następnie umieść pozostałe na spodzie twojej "
-"biblioteki w losowej kolejności."
+"|mana_2|\\ |mana_g|, |tap|, poświęć ten ląd: Spójrz na pięć wierzchnich kart "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić ją w "
+"twojej ręce. Następnie umieść pozostałe na spodzie twojej biblioteki w "
+"losowej kolejności."
 
 #: ../../DOM.rst:1394
 msgid ""
@@ -4212,7 +4194,7 @@ msgstr ""
 
 #: ../../DOM.rst:1389
 msgid "Memorial to War enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../DOM.rst:1391
 msgid "|tap|: Add |mana_r|."
@@ -4221,8 +4203,7 @@ msgstr "|tap|: Weź |mana_r|."
 #: ../../DOM.rst:1393
 msgid ""
 "|mana_4|\\ |mana_r|, |tap|, Sacrifice Memorial to War: Destroy target land."
-msgstr ""
-"|mana_4|\\ |mana_r|, |tap|, poświęć ten permanent: Zniszcz wskazany ląd."
+msgstr "|mana_4|\\ |mana_r|, |tap|, poświęć ten ląd: Zniszcz wskazany ląd."
 
 #: ../../DOM.rst:1400
 msgid ""
@@ -4236,7 +4217,7 @@ msgid ""
 "Sulfur Falls enters the battlefield tapped unless you control an Island or a "
 "Mountain."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Wyspą lub Górą."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Wyspą lub Górą."
 
 #: ../../DOM.rst:1399
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4254,8 +4235,7 @@ msgid ""
 "Woodland Cemetery enters the battlefield tapped unless you control a Swamp "
 "or a Forest."
 msgstr ""
-"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Bagnem lub "
-"Lasem."
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Bagnem lub Lasem."
 
 #: ../../DOM.rst:1405
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4273,8 +4253,8 @@ msgid ""
 "When Zhalfirin Void enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz położyć ją na spodzie twojej biblioteki.)"
+"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../DOM.rst:1416
 msgid ""
@@ -4344,7 +4324,7 @@ msgstr "+2: Odkręć co najwyżej jeden wskazany artefakt lub stwora."
 
 #: ../../DOM.rst:1437
 msgid "−3: You gain 2 life and draw two cards."
-msgstr "–3: Zyskaj 2 życia i dobierasz kartę."
+msgstr "–3: Zyskaj 2 życia i dobierz kartę."
 
 #: ../../DOM.rst:1439
 msgid "−9: Take an extra turn after this one."
@@ -4362,8 +4342,8 @@ msgid ""
 "Return target creature to its owner's hand. If you control an artifact, draw "
 "a card."
 msgstr ""
-"Przywróć wskazanego stwora do ręki jego właściciela. Jeśli władasz "
-"artefaktem, dobierz kartę."
+"Przywróć wskazanego stwora do ręki właściciela. Jeśli władasz artefaktem, "
+"dobierz kartę."
 
 #: ../../DOM.rst:1448
 msgid ""
@@ -4378,9 +4358,9 @@ msgid ""
 "library and/or graveyard for a card named Teferi, Timebender, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"oraz/lub cmentarzy kartę o nazwie Teferi, Timebender, ujawnić ją i umieścić "
-"w twojej ręce. Jeśli twoja biblioteka została przeszukana w ten sposób, "
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"oraz/lub cmentarzu kartę o nazwie Teferi, Timebender, ujawnij ją i umieść w "
+"twojej ręce. Jeśli twoja biblioteka została przeszukana w ten sposób, "
 "przetasuj ją."
 
 #: ../../DOM.rst:1452
@@ -4422,7 +4402,7 @@ msgid ""
 "+1: Add |mana_r|\\ |mana_r|. Chandra, Bold Pyromancer deals 2 damage to "
 "target player."
 msgstr ""
-"+1: Weź |mana_r|\\ |mana_r|. Ten permanent zadaje wskazanemu graczowi 2 "
+"+1: Weź |mana_r|\\ |mana_r|. Ten wędrowiec zadaje wskazanemu graczowi 2 "
 "obrażenia."
 
 #: ../../DOM.rst:1463
@@ -4430,14 +4410,14 @@ msgid ""
 "−3: Chandra, Bold Pyromancer deals 3 damage to target creature or "
 "planeswalker."
 msgstr ""
-"–3: Ten permanent zadaje wskazanemu wędrowcowi lub stworowi 3 obrażenia."
+"–3: Ten wędrowiec zadaje wskazanemu wędrowcowi lub stworowi 3 obrażenia."
 
 #: ../../DOM.rst:1465
 msgid ""
 "−7: Chandra, Bold Pyromancer deals 10 damage to target player and each "
 "creature and planeswalker they control."
 msgstr ""
-"–7: Ten permanent zadaje po 10 obrażeń wskazanemu graczowi oraz każdemu "
+"–7: Ten wędrowiec zadaje po 10 obrażeń wskazanemu graczowi oraz każdemu "
 "stworowi i wędrowcowi pod jego władaniem."
 
 #: ../../DOM.rst:1472
@@ -4449,7 +4429,7 @@ msgstr ""
 
 #: ../../DOM.rst:1469
 msgid "Chandra's Outburst deals 4 damage to target player or planeswalker."
-msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 4 obrażenia."
 
 #: ../../DOM.rst:1471
 msgid ""
@@ -4457,7 +4437,7 @@ msgid ""
 "Pyromancer, reveal it, and put it into your hand. If you search your library "
 "this way, shuffle it."
 msgstr ""
-"Poszukaj w twojej bibliotece i/lub cmentarzu kartę o nazwie Chandra, Bold "
+"Wyszukaj w twojej bibliotece i/lub cmentarzu kartę o nazwie Chandra, Bold "
 "Pyromancer, ujawnij ją i umieść w twojej ręce. Jeśli twoja biblioteka "
 "została przeszukana w ten sposób, przetasuj ją."
 
@@ -4473,8 +4453,8 @@ msgid ""
 "Whenever Karplusan Hound attacks, if you control a Chandra planeswalker, "
 "this creature deals 2 damage to any target."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli władasz wędrowcem typu Chandra, ten stwór "
-"zadaje 2 obrażenia w dowolny cel."
+"Ilekroć ten stwór zaatakuje, jeśli władasz wędrowcem typu Chandra, ten stwór "
+"zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../DOM.rst:1480
 msgid ""
@@ -4523,7 +4503,7 @@ msgid ""
 "Whenever a white instant or sorcery spell causes you to gain life, Firesong "
 "and Sunspeaker deals 3 damage to target creature or player."
 msgstr ""
-"Ilekroć biały czar sztuczki lub obrzędu powoduje, że zyskujesz życie, ten "
+"Ilekroć biały czar sztuczki lub obrzędu spowoduje, że zyskasz życia, ten "
 "stwór zadaje wskazanemu stworowi lub graczowi 3 obrażenia."
 
 #~ msgid "Deathtouch"
