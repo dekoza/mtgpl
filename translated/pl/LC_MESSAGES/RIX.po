@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-22 11:25+0000\n"
+"PO-Revision-Date: 2020-02-23 13:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rix/"
 "pl/>\n"
@@ -519,8 +519,8 @@ msgid ""
 "abilities your opponents control.)"
 msgstr ""
 "Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony niebieskiego stwora "
-"Wodnik 1/1 z antyklątwą. (Nie mogą być celami czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Wodnik 1/1 z antyklątwą. (Nie mogą być celami czarów lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../RIX.rst:171
 msgid "|mana_3|\\ |mana_u|: Target Merfolk can't be blocked this turn."
@@ -1348,15 +1348,15 @@ msgid ""
 "on target creature. Activate this ability only during your turn."
 msgstr ""
 "|mana_b|, ujawnij tę kartę z twojej ręki: Umieść znacznik ofiary na "
-"wskazanym stworze. Aktywują tę zdolność tylko w trakcie twojej tury."
+"wskazanym stworze. Możesz aktywować tę zdolność tylko w twojej turze."
 
 #: ../../RIX.rst:465
 msgid ""
 "When Tetzimoc enters the battlefield, destroy each creature your opponents "
 "control with a prey counter on it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zniszcz każdego stwora pod władaniem "
-"twoich przeciwników posiadającego znacznik ofiary."
+"Kiedy ten stwór wejdzie na pole walki, zniszcz każdego stwora mającego "
+"znacznik ofiary pod władaniem twoich przeciwników."
 
 #: ../../RIX.rst:472
 msgid ""
@@ -1377,9 +1377,9 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "|mana_1|, odrzuć kartę: Ten stwór eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:480
 msgid ""
@@ -1395,9 +1395,9 @@ msgid ""
 "life and you gain X life, where X is that card's converted mana cost."
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli masz błogosławieństwo miasta, "
-"ujawnij wierzchnią kartę twojej biblioteki i dołóż ją do twojej ręki. Każdy "
-"przeciwnik traci X życia, a ty zyskaj X życia, gdzie X jest skróconym "
-"kosztem many owej karty."
+"ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. Każdy "
+"przeciwnik traci po X żyć, a ty zyskaj X żyć, gdzie X jest skróconym kosztem "
+"many owej karty."
 
 #: ../../RIX.rst:484
 msgid ""
@@ -1419,7 +1419,7 @@ msgid ""
 "instead each opponent sacrifices half the creatures they control, rounded up."
 msgstr ""
 "Każdy przeciwnik poświęca stwora. Jeśli masz błogosławieństwo miasta, "
-"zamiast tego każdy przeciwnik poświęca połowę stworów, który mi włada, "
+"zamiast tego każdy przeciwnik poświęca połowę stworów pod swoim władaniem, "
 "zaokrąglając wzwyż."
 
 #: ../../RIX.rst:496
@@ -1434,7 +1434,7 @@ msgid ""
 "When Voracious Vampire enters the battlefield, target Vampire you control "
 "gets +1/+1 and gains menace until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany Wampir pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole walki, wskazany Wampir pod twoim władaniem "
 "dostaje do końca tury +1/+1 oraz złowrogość."
 
 #: ../../RIX.rst:502
@@ -1446,7 +1446,7 @@ msgstr ""
 
 #: ../../RIX.rst:499
 msgid "When Blood Sun enters the battlefield, draw a card."
-msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../RIX.rst:501
 msgid "All lands lose all abilities except mana abilities."
@@ -1462,7 +1462,7 @@ msgstr ""
 
 #: ../../RIX.rst:505
 msgid "Bombard deals 4 damage to target creature."
-msgstr "Ten czar zadaje 4 obrażenia wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../RIX.rst:510
 msgid ""
@@ -1492,7 +1492,7 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:522
@@ -1508,7 +1508,7 @@ msgstr "Wskazany stwór dostaje do końca tury +1/+1 oraz pierwszy cios."
 
 #: ../../RIX.rst:521
 msgid "Target Pirate gets +1/+1 and gains double strike until end of turn."
-msgstr "Wskazany pirat dostaje do końca tury +1/+1 oraz podwójny cios."
+msgstr "Wskazany Pirat dostaje do końca tury +1/+1 oraz podwójny cios."
 
 #: ../../RIX.rst:528
 msgid ""
@@ -1541,8 +1541,8 @@ msgid ""
 "As an additional cost to cast this spell, reveal a Pirate card from your "
 "hand or pay |mana_2|."
 msgstr ""
-"Jako dodatkowy koszt rzucenia tego czaru ujawnij kartę Pirata z twojej ręki "
-"lub zapłać |mana_2|."
+"Jako dodatkowy koszt rzucenia tego czaru — ujawnij kartę Pirata z twojej "
+"ręki lub zapłać |mana_2|."
 
 #: ../../RIX.rst:538
 msgid ""
@@ -1563,7 +1563,7 @@ msgid ""
 "spell. If that card would be put into a graveyard this turn, exile it "
 "instead."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wygnaj wskazaną kartę sztuczki lub "
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę sztuczki lub "
 "obrzędu z cmentarza przeciwnika. Możesz rzucić ową kartę w tej turze wydając "
 "manę tak, jakby była maną dowolnego koloru. Jeśli owa karta miałby trafić do "
 "cmentarza w tej turze, zamiast tego wygnaj ją."
@@ -1598,7 +1598,7 @@ msgstr "Pośpiech"
 
 #: ../../RIX.rst:547
 msgid "|tap|, Sacrifice Fanatical Firebrand: It deals 1 damage to any target."
-msgstr "|tap|, poświęć tego stwora: Zadaje on 1 obrażenie w dowolny cel."
+msgstr "|tap|, poświęć tego stwora: Zadaje on wskazanemu celowi 1 obrażenie."
 
 #: ../../RIX.rst:554
 msgid ""
@@ -1613,9 +1613,9 @@ msgid ""
 "library for a Dinosaur card, reveal it, then shuffle your library and put "
 "that card on top of it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"karty Dinozaura, ujawnić ją, a następnie przetasować twoją bibliotekę i "
-"umieścić ową kartę na jej wierzchu."
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę Dinozaura, ujawnij ją, następnie przetasuj twoją bibliotekę i umieścić "
+"ową kartę na jej wierzchu."
 
 #: ../../RIX.rst:553
 msgid ""
@@ -1623,7 +1623,7 @@ msgid ""
 "Forerunner of the Empire deal 1 damage to each creature."
 msgstr ""
 "Ilekroć Dinozaur wejdzie na pole walki pod twoim władaniem, możesz sprawić, "
-"by ten stwór zadał 1 obrażenie każdemu stworowi."
+"by niniejszy stwór zadał każdemu stworowi po 1 obrażeniu."
 
 #: ../../RIX.rst:560
 msgid ""
@@ -1635,9 +1635,7 @@ msgstr ""
 #: ../../RIX.rst:557
 msgid ""
 "When Form of the Dinosaur enters the battlefield, your life total becomes 15."
-msgstr ""
-"Kiedy ta karta wejdzie na pole walki, twoje punkty życia przyjmują wartość "
-"15."
+msgstr "Kiedy ten urok wejdzie na pole walki, twoje życia otrzymują wartość 15."
 
 #: ../../RIX.rst:559
 msgid ""
@@ -1645,9 +1643,9 @@ msgid ""
 "target creature an opponent controls and that creature deals damage equal to "
 "its power to you."
 msgstr ""
-"Na początku twojego kroku utrzymania, ta karta zadaje 15 obrażeń we "
-"wskazanego stwora pod władaniem twojego przeciwnika, a ów stwór zadaje tobie "
-"obrażenia równe jego sile."
+"Na początku twojego kroku utrzymania, ten urok zadaje wskazanemu stworowi "
+"pod władaniem przeciwnika 15 obrażeń, a ów stwór zadaje tobie obrażenia "
+"równe swojej sile."
 
 #: ../../RIX.rst:564
 msgid ""
@@ -1661,8 +1659,8 @@ msgid ""
 "Enrage — Whenever Frilled Deathspitter is dealt damage, it deals 2 damage to "
 "target opponent or planeswalker."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zadaje on 2 obrażenia "
-"wskazanemu przeciwnikowi lub wędrowcowi."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, zadaje on wskazanemu "
+"przeciwnikowi lub wędrowcowi 2 obrażenia."
 
 #: ../../RIX.rst:568
 msgid ""
@@ -1698,8 +1696,8 @@ msgid ""
 "Enrage — Whenever Needletooth Raptor is dealt damage, it deals 5 damage to "
 "target creature an opponent controls."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zadaje on 5 obrażeń "
-"wskazanemu stworowi pod władaniem przeciwnika."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, zadaje on wskazanemu "
+"stworowi pod władaniem przeciwnika 5 obrażeń."
 
 #: ../../RIX.rst:578
 msgid ""
@@ -1739,7 +1737,7 @@ msgid ""
 "Reckless Rage deals 4 damage to target creature you don't control and 2 "
 "damage to target creature you control."
 msgstr ""
-"Ten czar zadaje 4 obrażenia wskazanemu stworowi poza twoim władaniem oraz 2 "
+"Ten czar zadaje wskazanemu stworowi poza twoim władaniem 4 obrażenia oraz 2 "
 "obrażenia wskazanemu stworowi pod twoim władaniem."
 
 #: ../../RIX.rst:596
@@ -1756,10 +1754,10 @@ msgid ""
 "card named Rekindling Phoenix from your graveyard to the battlefield. It "
 "gains haste until end of turn.\""
 msgstr ""
-"Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Żywiołak 0/1 ze "
-"zdolnością \"Na początku twojego kroku utrzymania, poświęć tego stwora i "
-"przywróć wskazaną kartę o nazwie Rekindling Phoenix z twojego cmentarza na "
-"pole walki. Zyskuje ona pośpiech do końca tury.\""
+"Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Żywiołak 0/1 mający \""
+"Na początku twojego kroku utrzymania, poświęć tego stwora i przywróć "
+"wskazaną kartę o nazwie Rekindling Phoenix z twojego cmentarza na pole "
+"walki. Zyskuje ona pośpiech do końca tury.\""
 
 #: ../../RIX.rst:604
 msgid ""
@@ -1777,7 +1775,7 @@ msgid ""
 "At the beginning of your end step, if you didn't attack with a creature this "
 "turn, sacrifice See Red."
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli nie zaatakowałeś stworem w tej "
+"Na początku twojego kroku końcowego, jeśli nie atakowałeś stworem w tej "
 "turze, poświęć ten urok."
 
 #: ../../RIX.rst:610
@@ -1789,7 +1787,7 @@ msgstr ""
 
 #: ../../RIX.rst:607
 msgid "Shake the Foundations deals 1 damage to each creature without flying."
-msgstr "Ten czar zadaje 1 obrażenie każdemu stworowi bez latania."
+msgstr "Ten czar zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../RIX.rst:614
 msgid ""
@@ -1814,8 +1812,8 @@ msgid ""
 "Enrage — Whenever Silverclad Ferocidons is dealt damage, each opponent "
 "sacrifices a permanent."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, każdy przeciwnik "
-"poświęca permanent."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, każdy przeciwnik poświęca "
+"permanent."
 
 #: ../../RIX.rst:622
 msgid ""
@@ -1850,7 +1848,7 @@ msgstr ""
 
 #: ../../RIX.rst:633
 msgid "|mana_2|\\ |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje +3/+0 do końca tury."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +3/+0."
 
 #: ../../RIX.rst:638
 msgid ""
@@ -1864,8 +1862,8 @@ msgid ""
 "Raid — Swaggering Corsair enters the battlefield with a +1/+1 counter on it "
 "if you attacked with a creature this turn."
 msgstr ""
-"Najazd — Ten stwór wchodzi na pole walki z dwoma znacznikami +1/+1 jeśli "
-"zaatakowałeś stworem w tej turze."
+"Najazd — Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1 jeśli "
+"atakowałeś stworem w tej turze."
 
 #: ../../RIX.rst:646
 msgid ""
@@ -1879,8 +1877,8 @@ msgid ""
 "When Tilonalli's Crown enters the battlefield, it deals 1 damage to "
 "enchanted creature."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zadaje 1 obrażenie zauroczonemu "
-"stworowi."
+"Kiedy ten urok wejdzie na pole walki, zadaje zauroczonemu stworowi 1 "
+"obrażenie."
 
 #: ../../RIX.rst:645
 msgid "Enchanted creature gets +3/+0 and has trample."
@@ -1900,7 +1898,7 @@ msgid ""
 "attacking. At the beginning of the next end step, exile those tokens unless "
 "you have the city's blessing."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|\\ |mana_r|. Jeśli to "
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|\\ |mana_r|. Jeśli tak "
 "zrobisz, stwórz X przekręconych i atakujących żetonów czerwonego stwora "
 "Żywiołak 1/1. Na początku najbliższego kroku końcowego, wygnaj owe żetony, "
 "chyba że masz błogosławieństwo miasta."
@@ -1926,8 +1924,7 @@ msgstr ""
 #: ../../RIX.rst:661
 msgid "Enrage — Whenever Cacophodon is dealt damage, untap target permanent."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, odkręć wskazany "
-"permanent."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, odkręć wskazany permanent."
 
 #: ../../RIX.rst:666
 msgid ""
@@ -1944,9 +1941,9 @@ msgid ""
 "another target creature.\""
 msgstr ""
 "Kiedy ten stwór umrze, możesz w tej turze rzucać czary Dinozaurów, jakby "
-"miały błysk i ilekroć rzucisz czar Dinozaura w tej turze, zyskuje on "
-"zdolność \"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, by walczył "
-"z innym wskazanym stworem.\""
+"miały błysk i ilekroć rzucisz czar Dinozaura w tej turze, zyskuje on \"Kiedy "
+"ten stwór wejdzie na pole walki, możesz sprawić, by walczył z innym "
+"wskazanym stworem.\""
 
 #: ../../RIX.rst:670
 msgid ""
@@ -1975,8 +1972,8 @@ msgid ""
 "When Crested Herdcaller enters the battlefield, create a 3/3 green Dinosaur "
 "creature token with trample."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton zielonego stwora Dinozaur "
-"3/3 z tratowaniem."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora "
+"Dinozaur 3/3 z tratowaniem."
 
 #: ../../RIX.rst:680
 msgid ""
@@ -2007,9 +2004,9 @@ msgid ""
 "on the creature, then put the card back or put it into your graveyard.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
-"umieść ją w twoim cmentarzu.)"
+"twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie umieść ową kartę z "
+"powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:685
 msgid "You may play an additional land this turn."
@@ -2028,9 +2025,9 @@ msgid ""
 "library for a Merfolk card, reveal it, then shuffle your library and put "
 "that card on top of it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
-"karty Wodnika, ujawnić ją, a następnie przetasować twoją bibliotekę i "
-"umieścić ową kartę na jej wierzchu."
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę Wodnika, ujawnij ją, a następnie przetasuj twoją bibliotekę i umieść "
+"ową kartę na jej wierzchu."
 
 #: ../../RIX.rst:691
 msgid ""
@@ -2038,7 +2035,7 @@ msgid ""
 "+1 counter on Forerunner of the Heralds."
 msgstr ""
 "Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, umieść "
-"znacznik +1/+1 na tym stworze."
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../RIX.rst:698
 msgid ""
@@ -2052,8 +2049,8 @@ msgid ""
 "This spell costs |mana_x| less to cast, where X is the total power of "
 "creatures you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą siły "
-"stworów pod twoim władaniem."
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą sił stworów "
+"pod twoim władaniem."
 
 #: ../../RIX.rst:702
 msgid ""
@@ -2106,7 +2103,7 @@ msgid ""
 "When Jade Bearer enters the battlefield, put a +1/+1 counter on another "
 "target Merfolk you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "Wodniku pod twoim władaniem."
 
 #: ../../RIX.rst:718
@@ -2121,8 +2118,8 @@ msgid ""
 "When Jadecraft Artisan enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany stwór dostaje +2/+2 do końca "
-"tury."
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"2/+2."
 
 #: ../../RIX.rst:722
 msgid ""
@@ -2138,11 +2135,11 @@ msgid ""
 "it's a land. Otherwise, put a +1/+1 counter on this creature, then put the "
 "card back or put it into your graveyard. Then repeat this process.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, eksploruje, a następnie eksploruje "
-"ponownie. (Ujawnij wierzchnią kartę twojej biblioteki. Dołóż ową kartę do "
-"twojej ręki jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na tym "
-"stworze, a następnie odłóż ową kartę lub umieść ją w twoim cmentarzu. "
-"Następnie powtórz ten proces.)"
+"Kiedy ten stwór wejdzie na pole walki, eksploruje, a następnie eksploruje "
+"ponownie. (Ujawnij wierzchnią kartę twojej biblioteki. Umieść ową kartę w "
+"twojej ręce jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na tym "
+"stworze, a następnie umieść ową kartę z powrotem lub umieść ją w twoim "
+"cmentarzu. Następnie powtórz ten proces.)"
 
 #: ../../RIX.rst:726
 msgid ""
@@ -2157,9 +2154,9 @@ msgid ""
 "creature token with hexproof. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz żeton niebieskiego stwora "
-"Wodnik 1/1 z antyklątwą. (Nie może on być celem czarów lub zdolności "
-"władanych przez twoich przeciwników.)"
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton niebieskiego stwora "
+"Wodnik 1/1 z antyklątwą. (Nie może on być celem czarów lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../RIX.rst:730
 msgid ""
@@ -2170,7 +2167,7 @@ msgstr ""
 
 #: ../../RIX.rst:729
 msgid "Dinosaur spells you cast cost |mana_2| less to cast."
-msgstr "Rzucanie czarów Dinozaurów kosztuje cię |mana_2| mniej."
+msgstr "Rzucanie czarów Dinozaurów kosztuje cię o |mana_2| mniej."
 
 #: ../../RIX.rst:734
 msgid ""
@@ -2202,8 +2199,8 @@ msgid ""
 "Enrage — Whenever Overgrown Armasaur is dealt damage, create a 1/1 green "
 "Saproling creature token."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, stwórz żeton zielonego "
-"stwora Saproling 1/1."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, stwórz żeton zielonego "
+"stwora Sadzonka 1/1."
 
 #: ../../RIX.rst:746
 msgid ""
@@ -2219,10 +2216,11 @@ msgid ""
 "land. Otherwise, put a +1/+1 counter on the creature, then put the card back "
 "or put it into your graveyard.)"
 msgstr ""
-"Ilekroć jakiś stwór wchodzi na pole walki pod twoje władanie, ów stwór "
-"eksploruje. (Ujawnij wierzchnią kartę twojej biblioteki. Dołóż ową kartę do "
-"twojej ręki jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na danym "
-"stworze, a następnie odłóż ową kartę lub umieść ją w twoim cmentarzu.)"
+"Ilekroć jakiś stwór wejdzie na pole walki pod twoim władaniem, ów stwór "
+"eksploruje. (Ujawnij wierzchnią kartę twojej biblioteki. Umieść ową kartę w "
+"twojej ręce jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na tym "
+"stworze, a następnie umieść ową kartę z powrotem lub umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../RIX.rst:750
 msgid ""
@@ -2247,8 +2245,8 @@ msgid ""
 "Enrage — Whenever Polyraptor is dealt damage, create a token that's a copy "
 "of Polyraptor."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, stwórz żeton będący "
-"jego kopią."
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, stwórz żeton będący jego "
+"kopią."
 
 #: ../../RIX.rst:758
 msgid ""
@@ -2274,9 +2272,9 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany Wodnik pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole walki, wskazany Wodnik pod twoim władaniem "
 "zyskuje antyklątwę do końca tury. (Nie może on być celem czarów lub "
-"zdolności władanych przez twoich przeciwników.)"
+"zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../RIX.rst:772
 msgid ""
@@ -2289,14 +2287,14 @@ msgstr ""
 msgid ""
 "At the beginning of each upkeep, create a 1/1 green Saproling creature token."
 msgstr ""
-"Na początku każdego kroku utrzymania, stwórz żeton zielonego stwora "
-"Saproling 1/1."
+"Na początku każdego kroku utrzymania, stwórz żeton zielonego stwora Sadzonka "
+"1/1."
 
 #: ../../RIX.rst:771
 msgid ""
 "Saprolings you control get +2/+2 as long as you have the city's blessing."
 msgstr ""
-"Saprolingi pod twoim władaniem dostają +2/+2 o ile masz błogosławieństwo "
+"Sadzonki pod twoim władaniem dostają +2/+2 o ile masz błogosławieństwo "
 "miasta."
 
 #: ../../RIX.rst:776
@@ -2324,7 +2322,7 @@ msgid ""
 "As an additional cost to cast this spell, reveal a Dinosaur card from your "
 "hand or pay |mana_1|."
 msgstr ""
-"Jako dodatkowy koszt rzucenia tego czaru ujawnij kartę Dinozaura z twojej "
+"Jako dodatkowy koszt rzucenia tego czaru — ujawnij kartę Dinozaura z twojej "
 "ręki lub zapłać |mana_1|."
 
 #: ../../RIX.rst:781
@@ -2350,7 +2348,7 @@ msgstr "Możesz zagrać dodatkowy ląd w każdej twojej turze."
 msgid ""
 "Wayward Swordtooth can't attack or block unless you have the city's blessing."
 msgstr ""
-"Ten stwór nie może atakować lub blokować dopóki nie masz błogosławieństwa "
+"Ten stwór nie może atakować lub blokować, chyba że masz błogosławieństwu "
 "miasta."
 
 #: ../../RIX.rst:796
@@ -2365,16 +2363,16 @@ msgid ""
 "Whenever World Shaper attacks, you may put the top three cards of your "
 "library into your graveyard."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz położyć trzy wierzchnie karty twojej "
-"biblioteki do twojego cmentarza."
+"Ilekroć ten stwór atakuje, możesz umieścić trzy wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu."
 
 #: ../../RIX.rst:795
 msgid ""
 "When World Shaper dies, put all land cards from your graveyard onto the "
 "battlefield tapped."
 msgstr ""
-"Kiedy ten stwór umrze, umieść wszystkie karty lądów z twojego cmentarza na "
-"polu walki, przekręcone."
+"Kiedy ten stwór umrze, umieść wszystkie karty lądów z twojego cmentarza "
+"przekręcone na polu walki."
 
 #: ../../RIX.rst:804
 msgid ""
@@ -2400,7 +2398,7 @@ msgstr ""
 #: ../../RIX.rst:803
 msgid ""
 "−8: Each opponent loses life equal to the number of cards in their graveyard."
-msgstr "–8: Każdy przeciwnik traci życie równe liczbie kart w swoim cmentarzu."
+msgstr "–8: Każdy przeciwnik traci tyle żyć, ile masz kart w cmentarzu."
 
 #: ../../RIX.rst:810
 msgid ""
@@ -2434,8 +2432,8 @@ msgid ""
 "When Azor, the Lawbringer enters the battlefield, each opponent can't cast "
 "instant or sorcery spells during that player's next turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, każdy z przeciwników nie może rzucać "
-"czarów sztuczek ani obrzędów w ciągu następnej tury owego gracza."
+"Kiedy ten stwór wejdzie na pole walki, każdy z przeciwników nie może rzucać "
+"czarów sztuczek ani obrzędów w ciągu swojej najbliższej tury."
 
 #: ../../RIX.rst:817
 msgid ""
@@ -2443,7 +2441,7 @@ msgid ""
 "mana_u|. If you do, you gain X life and draw X cards."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|\\ |mana_w|\\ |mana_u|\\ "
-"|mana_u|. Jeśli tak zrobisz, zyskaj X życia i dobierasz X kart."
+"|mana_u|. Jeśli tak zrobisz, zyskaj X żyć i dobierz X kart."
 
 #: ../../RIX.rst:826
 msgid ""
@@ -2457,7 +2455,7 @@ msgid ""
 "Whenever Deadeye Brawler deals combat damage to a player, if you have the "
 "city's blessing, draw a card."
 msgstr ""
-"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, jeśli masz "
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli masz "
 "błogosławieństwo miasta, dobierz kartę."
 
 #: ../../RIX.rst:830
@@ -2522,7 +2520,7 @@ msgstr ""
 
 #: ../../RIX.rst:845
 msgid "(Transforms from Hadana's Climb.)"
-msgstr "(Transformuje się z Hadana's Climb.)"
+msgstr "(Transformuje z Hadana's Climb.)"
 
 #: ../../RIX.rst:849
 msgid ""
@@ -2581,8 +2579,8 @@ msgid ""
 "control, then return Journey to Eternity to the battlefield transformed "
 "under your control."
 msgstr ""
-"Kiedy zauroczony stwór umrze, zwróć go na pole walki pod twoim władaniem, "
-"następnie przywróć tę kartę na pole walki pod twoim władaniem, "
+"Kiedy zauroczony stwór umrze, przywróć go na pole walki pod twoim władaniem, "
+"następnie przywróć niniejszą kartę na pole walki pod twoim władaniem, "
 "transformowaną."
 
 #: ../../RIX.rst:872
@@ -2618,7 +2616,7 @@ msgid ""
 "your hand."
 msgstr ""
 "|mana_3|\\ |mana_b|\\ |mana_g|: Przywróć tę kartę z twojego cmentarza do "
-"twojej reki."
+"twojej ręki."
 
 #: ../../RIX.rst:884
 msgid ""
@@ -2683,8 +2681,9 @@ msgid ""
 "When Path of Mettle enters the battlefield, it deals 1 damage to each "
 "creature that doesn't have first strike, double strike, vigilance, or haste."
 msgstr ""
-"Kiedy ta karta wejdziena pole walki, zadaje 1 obrażenie każdemu stworowi nie "
-"posiadającemu pierwszego ciosu, podwójnego ciosu, czujności lub pośpiechu."
+"Kiedy ten urok wejdzie na pole walki, zadaje on po 1 obrażeniu każdemu "
+"stworowi nie posiadającemu pierwszego ciosu, podwójnego ciosu, czujności lub "
+"pośpiechu."
 
 #: ../../RIX.rst:897
 msgid ""
@@ -2711,8 +2710,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each "
 "opponent."
 msgstr ""
-"|mana_1|\\ |mana_r|, |tap|: Ta karta zadaje 2 obrażenia każdemu "
-"przeciwnikowi."
+"|mana_1|\\ |mana_r|, |tap|: Ten ląd zadaje każdemu przeciwnikowi po 2 "
+"obrażenia."
 
 #: ../../RIX.rst:907
 msgid ""
@@ -2736,7 +2735,7 @@ msgid ""
 "three or more cards exiled with Profane Procession, transform it."
 msgstr ""
 "|mana_3|\\ |mana_w|\\ |mana_b|: Wygnaj wskazanego stwora. Następnie jeśli co "
-"najmniej trzy karty wygnano z użyciem tej karty, transformuj ją."
+"najmniej trzy karty wygnano tym urokiem, transformuj go."
 
 #: ../../RIX.rst:920
 msgid ""
@@ -2782,7 +2781,7 @@ msgstr ""
 
 #: ../../RIX.rst:927
 msgid "Whenever Raging Regisaur attacks, it deals 1 damage to any target."
-msgstr "Ilekroć ten stwór atakuje, zadaje 1 obrażenie w dowolny cel."
+msgstr "Ilekroć ten stwór atakuje, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../RIX.rst:934
 msgid ""
@@ -2797,7 +2796,7 @@ msgstr "Czujność"
 
 #: ../../RIX.rst:933
 msgid "Relentless Raptor attacks or blocks each combat if able."
-msgstr "Ten stwór atakuje lub blokuje w każdej walce jeśli może."
+msgstr "Ten stwór atakuje lub blokuje w każdej walce, jeśli może."
 
 #: ../../RIX.rst:942
 msgid ""
@@ -2826,7 +2825,7 @@ msgid ""
 "Enrage — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 counters "
 "on it. (It must survive the damage to get the counters.)"
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, umieść na nim dwa "
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, umieść na nim dwa "
 "znaczniki +1/+1. (Musi przeżyć obrażenia, by otrzymać znaczniki.)"
 
 #: ../../RIX.rst:952
@@ -2862,8 +2861,8 @@ msgid ""
 "At the beginning of your end step, if you control five or more artifacts, "
 "transform Storm the Vault."
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli masz we władaniu co najmniej pięć "
-"artefaktów, transformuj tę kartę."
+"Na początku twojego kroku końcowego, jeśli władasz co najmniej pięcioma "
+"artefaktami, transformuj ten urok."
 
 #: ../../RIX.rst:966
 msgid ""
@@ -2896,12 +2895,12 @@ msgid ""
 "When Zacama, Primal Calamity enters the battlefield, if you cast it, untap "
 "all lands you control."
 msgstr ""
-"Kiedy ta karta wjedzie na pole walki, jeśli została zagrana, odkręć "
+"Kiedy ten stwór wjedzie na pole walki, jeśli został rzucony, odkręć "
 "wszystkie lądy pod twoim władaniem."
 
 #: ../../RIX.rst:973
 msgid "|mana_2|\\ |mana_r|: Zacama deals 3 damage to target creature."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór zadaje 3 obrażenia wskazanemu stworowi."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór zadaje wskazanemu stworowi 3 obrażenia."
 
 #: ../../RIX.rst:975
 msgid "|mana_2|\\ |mana_g|: Destroy target artifact or enchantment."
@@ -2940,8 +2939,8 @@ msgid ""
 "Gateway, you gain 5 life, untap Azor's Gateway, and transform it."
 msgstr ""
 "|mana_1|, |tap|: Dobierz kartę, następnie wygnaj kartę z twojej ręki. Jeśli "
-"karty o co najmniej pięciu różnych skróconych kosztach many są wygnane przez "
-"tę kartę, zyskaj 5 życia, odkręć tę kartę i transformuj ją."
+"karty o co najmniej pięciu różnych skróconych kosztach many zostały wygnane "
+"przez ten artefakt, zyskaj 5 żyć, odkręć ten artefakt i transformuj go."
 
 #: ../../RIX.rst:992
 msgid ""
@@ -2957,8 +2956,7 @@ msgstr "(Transformuje z Azor's Gateway.)"
 #: ../../RIX.rst:991
 msgid "|tap|: Add X mana of any one color, where X is your life total."
 msgstr ""
-"|tap|: Weź X many w jednym dowolnym kolorze, gdzie X jest liczbą twoich "
-"punktów życia."
+"|tap|: Weź X many w dowolnym jednym kolorze, gdzie X jest liczbą twoich żyć."
 
 #: ../../RIX.rst:1000
 msgid ""
@@ -3037,7 +3035,7 @@ msgstr "(Transformuje z Golden Guardian.)"
 
 #: ../../RIX.rst:1017
 msgid "|tap|: Add two mana of any one color."
-msgstr "|tap|: Weź dwie many w jednym dowolnym kolorze."
+msgstr "|tap|: Weź dwie many w dowolnym jednym kolorze."
 
 #: ../../RIX.rst:1019
 msgid "|mana_4|, |tap|: Create a 4/4 colorless Golem artifact creature token."
@@ -3061,7 +3059,7 @@ msgstr "Na początku twojego kroku dobierania, dobierz dodatkową kartę."
 
 #: ../../RIX.rst:1027
 msgid "Spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie czarów kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../RIX.rst:1029
 msgid "Creatures you control get +1/+1."
@@ -3083,8 +3081,8 @@ msgid ""
 "|tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate "
 "this ability only if you have the city's blessing."
 msgstr ""
-"|tap|, poświęć ten artefakt: Zyskaj 3 życia i dobierasz kartę. Aktywuj tę "
-"zdolność tylko jeśli masz błogosławieństwo miasta."
+"|tap|, poświęć ten artefakt: Zyskaj 3 życia i dobierz kartę. Możesz "
+"aktywować tę zdolność tylko jeśli masz błogosławieństwo miasta."
 
 #: ../../RIX.rst:1044
 msgid ""
@@ -3152,8 +3150,8 @@ msgid ""
 "|mana_5|, |tap|: Draw a card. Activate this ability only if you have the "
 "city's blessing."
 msgstr ""
-"|mana_5|, |tap|: Dobierz kartę. Aktywuj tę zdolność tylko jeśli masz "
-"błogosławieństwo miasta."
+"|mana_5|, |tap|: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli "
+"masz błogosławieństwo miasta."
 
 #: ../../RIX.rst:1066
 msgid ""
@@ -3309,7 +3307,7 @@ msgstr ""
 
 #: ../../RIX.rst:1119
 msgid "+2: Creatures you control get +1/+0 until end of turn."
-msgstr "+2: Stwory pod twoim władaniem dostają +1/+0 do końca tury."
+msgstr "+2: Stwory pod twoim władaniem dostają do końca tury +1/+0."
 
 #: ../../RIX.rst:1121
 msgid "−3: Destroy target creature."
@@ -3320,9 +3318,9 @@ msgid ""
 "−10: Until end of turn, creatures you control gain deathtouch and \"Whenever "
 "this creature deals damage to an opponent, that player loses the game.\""
 msgstr ""
-"–10: Do końca tury stwory pod twoim władaniem zyskują dotyk śmierci oraz "
-"zdolność \"Ilekroć ten stwór zada przeciwnikowi obrażenia bojowe, ów gracz "
-"przegrywa grę.\""
+"–10: Do końca tury stwory pod twoim władaniem zyskują dotyk śmierci oraz \""
+"Ilekroć ten stwór zada przeciwnikowi obrażenia bojowe, ów gracz przegrywa "
+"grę.\""
 
 #: ../../RIX.rst:1128
 msgid ""
@@ -3352,7 +3350,7 @@ msgid ""
 "planeswalker, target opponent loses 2 life and you gain 2 life."
 msgstr ""
 "Ilekroć ten stwór atakuje lub blokuje, jeśli władasz wędrowcem o typie "
-"Vraska, wskazany przeciwnik traci 2 życia, a ty zyskaj dwa życia."
+"Vraska, wskazany przeciwnik traci 2 życia, a ty zyskaj 2 życia."
 
 #: ../../RIX.rst:1136
 msgid ""
@@ -3367,10 +3365,10 @@ msgid ""
 "for a card named Vraska, Scheming Gorgon, reveal it, and put it into your "
 "hand. If you search your library this way, shuffle it."
 msgstr ""
-"Wskazany przeciwnik traci 4 życia. Możesz poszukać w twojej bibliotece oraz/"
-"lub cmentarzu kartę o nazwie Vraska, Scheming Gorgon, ujawnić ją i dołożyć "
-"do twojej reki. Jeśli przeszukiwałeś twoją bibliotekę w ten sposób, "
-"przetasuj ją."
+"Wskazany przeciwnik traci 4 życia. Możesz wyszukać w twojej bibliotece oraz/"
+"lub cmentarzu kartę o nazwie Vraska, Scheming Gorgon, ujawnij ją i umieść w "
+"twojej ręce. Jeśli przeszukiwałeś twoją bibliotekę w ten sposób, przetasuj "
+"ją."
 
 #: ../../RIX.rst:1144
 msgid ""
@@ -3385,8 +3383,9 @@ msgid ""
 "planeswalker and each creature that player or that planeswalker's controller "
 "controls."
 msgstr ""
-"+2: Ten wędrowiec zadaje 1 obrażenie wskazanemu przeciwnikowi lub wędrowcowi "
-"i każdemu stworowi pod władaniem owego gracza lub władcy owego wędrowca."
+"+2: Ten wędrowiec zadaje po 1 obrażeniu wskazanemu przeciwnikowi lub "
+"wędrowcowi oraz każdemu stworowi pod władaniem owego gracza lub władcy owego "
+"wędrowca."
 
 #: ../../RIX.rst:1141
 msgid "−3: Return target Pirate card from your graveyard to the battlefield."
@@ -3398,7 +3397,7 @@ msgid ""
 "Pirate deals damage to that player equal to their total power."
 msgstr ""
 "–11: Zniszcz wszystkie stwory pod władaniem wskazanego przeciwnika. Ten "
-"wędrowiec zadaje owemu graczowi obrażenia równe sumie ich siły."
+"wędrowiec zadaje owemu graczowi obrażenia równe sumie ich sił."
 
 #: ../../RIX.rst:1148
 msgid ""
@@ -3433,9 +3432,9 @@ msgid ""
 "Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you "
 "search your library this way, shuffle it."
 msgstr ""
-"Zniszcz wskazanego stwora. Ten czar zadaje 3 obrażenia wskazanemu graczowi "
-"lub wędrowcowi. Możesz poszukać w twojej bibliotece oraz/lub cmentarzu kartę "
-"o nazwie Angarth, Minotaur Pirate, ujawnić ją i dołożyć do twojej reki. "
+"Zniszcz wskazanego stwora. Ten czar zadaje wskazanemu graczowi lub "
+"wędrowcowi 3 obrażenia. Możesz wyszukać w twojej bibliotece i/lub cmentarzu "
+"kartę o nazwie Angarth, Minotaur Pirate, ujawnij ją i umieść w twojej ręce. "
 "Jeśli przeszukiwałeś twoją bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../RIX.rst:1161
