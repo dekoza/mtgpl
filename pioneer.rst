@@ -39,7 +39,7 @@ Dodatki poza Standardem
 * :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p100|
 * :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|
 * :mtgexp:`THS` :doc:`Theros<THS>` |p100|
-* :mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` |p100|
+* :mtgexp:`DGM` :doc:`Dragon's Maze<DGM>` |p100|
 * :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|
 * :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|
 
