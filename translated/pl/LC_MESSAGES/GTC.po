@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 16:19+0000\n"
+"PO-Revision-Date: 2020-02-24 09:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gtc/"
 "pl/>\n"
@@ -1138,7 +1138,7 @@ msgid ""
 "equal to that creature's power from the top of their library into their "
 "graveyard."
 msgstr ""
-"Zniszcz wskazanego nieartefaktycznego stwora. Jego władca umieszcza w swoim "
+"Zniszcz wskazanego nieartefaktowego stwora. Jego władca umieszcza w swoim "
 "cmentarzu tyle kart z wierzchu swojej biblioteki, ile wynosiła siła owego "
 "stwora."
 
@@ -1267,7 +1267,7 @@ msgid ""
 "or creatures that share a color with it.)"
 msgstr ""
 "Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
-"artefaktyczne lub współdzielące z nim kolor.)"
+"artefaktowe lub współdzielące z nim kolor.)"
 
 # ede9cf9aa052480d90551c1d0192d700
 #: ../../GTC.rst:401
@@ -1296,7 +1296,7 @@ msgid ""
 msgstr ""
 "Ilekroć inny czarny stwór wejdzie na pole walki pod twoim władaniem, "
 "wskazany stwór zyskuje zastraszenie do końca tury. (Może być blokowany tylko "
-"przez stwory artefaktyczne lub współdzielące z nim kolor.)"
+"przez stwory artefaktowe lub współdzielące z nim kolor.)"
 
 #: ../../GTC.rst:412
 msgid ""
@@ -3865,7 +3865,7 @@ msgid ""
 "artifact creature until end of turn and can't be blocked this turn."
 msgstr ""
 "|mana_u|\\ |mana_b|: Do końca tury ten artefakt staje się niebiesko-czarnym "
-"artefaktycznym stworem Horror 2/2 i nie może być blokowany w tej turze."
+"artefaktowym stworem Horror 2/2 i nie może być blokowany w tej turze."
 
 #: ../../GTC.rst:1212
 msgid ""
@@ -3913,7 +3913,7 @@ msgid ""
 "artifact creature with trample until end of turn."
 msgstr ""
 "|mana_r|\\ |mana_g|: Do końca tury ten artefakt staje się czerwono-zielonym "
-"artefaktycznym stworem Bestia 3/2 z tratowaniem."
+"artefaktowym stworem Bestia 3/2 z tratowaniem."
 
 #: ../../GTC.rst:1224
 msgid ""
@@ -3963,7 +3963,7 @@ msgid ""
 "artifact creature with lifelink until end of turn."
 msgstr ""
 "|mana_w|\\ |mana_b|: Do końca tury ten artefakt staje się biało-czarnym "
-"artefaktycznym stworem Thrull 1/4 z więzią życia."
+"artefaktowym stworem Thrull 1/4 z więzią życia."
 
 #: ../../GTC.rst:1240
 msgid ""
@@ -4040,7 +4040,7 @@ msgid ""
 "of spells or abilities your opponents control.)"
 msgstr ""
 "|mana_g|\\ |mana_u|: Do końca tury ten artefakt staje się zielono-niebieskim "
-"artefaktycznym stworem Krab 2/3 z antyklątwą. (Nie może być wskazywany przez "
+"artefaktowym stworem Krab 2/3 z antyklątwą. (Nie może być wskazywany przez "
 "czary i zdolności władane przez twoich przeciwników.)"
 
 #: ../../GTC.rst:1262

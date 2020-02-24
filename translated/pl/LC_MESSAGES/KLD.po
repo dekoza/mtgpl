@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 00:51+0000\n"
+"PO-Revision-Date: 2020-02-24 09:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/kld/"
 "pl/>\n"
@@ -103,7 +103,7 @@ msgid ""
 "counters on it or create two 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
 "Produkcja 2 (Kiedy ten stwór wejdzie na pole walki, umieść na nim dwa "
-"znaczniki +1/+1 albo stwórz dwa żetony bezkolorowego artefaktycznego stwora "
+"znaczniki +1/+1 albo stwórz dwa żetony bezkolorowego artefaktowego stwora "
 "Serwo 1/1.)"
 
 #: ../../KLD.rst:31
@@ -158,9 +158,9 @@ msgid ""
 "it gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest artefaktycznym "
-"stworem, zyskuje niezniszczalność do końca tury. (Obrażenia i efekty mówiące "
-"\"zniszcz\" nie niszczą go.)"
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest artefaktowym stworem, "
+"zyskuje niezniszczalność do końca tury. (Obrażenia i efekty mówiące \""
+"zniszcz\" nie niszczą go.)"
 
 #: ../../KLD.rst:54
 msgid ""
@@ -349,8 +349,8 @@ msgid ""
 "Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter "
 "on it or create a 1/1 colorless Servo artifact creature token.)"
 msgstr ""
-"Produkcja 1 (Kiedy ten stwór wejdzie na pole walki, umieść na nim znacznik "
-"+1/+1 albo stwórz żeton bezkolorowego artefaktycznego stwora Serwo 1/1.)"
+"Produkcja 1 (Kiedy ten stwór wejdzie na pole walki, umieść na nim znacznik +"
+"1/+1 albo stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1.)"
 
 #: ../../KLD.rst:106
 msgid ""
@@ -406,8 +406,8 @@ msgstr "Serwa i Toptery pod twoim władaniem dostają +1/+1."
 msgid ""
 "|mana_3|\\ |mana_w|: Create a 1/1 colorless Servo artifact creature token."
 msgstr ""
-"|mana_3|\\ |mana_w|: Stwórz żeton bezkolorowego artefaktycznego stwora Serwo "
-"1/1."
+"|mana_3|\\ |mana_w|: Stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/"
+"1."
 
 #: ../../KLD.rst:124
 msgid ""
@@ -477,7 +477,7 @@ msgstr ""
 
 #: ../../KLD.rst:149
 msgid "Create two 1/1 colorless Servo artifact creature tokens."
-msgstr "Stwórz dwa żetony bezkolorowego artefaktycznego stwora Serwo 1/1."
+msgstr "Stwórz dwa żetony bezkolorowego artefaktowego stwora Serwo 1/1."
 
 #: ../../KLD.rst:154
 msgid ""
@@ -773,7 +773,7 @@ msgid ""
 "Thopter artifact creature tokens with flying."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
-"artefaktycznego stwora Thopter 1/1 z lataniem."
+"artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../KLD.rst:254
 msgid ""
@@ -953,7 +953,7 @@ msgid ""
 "cost."
 msgstr ""
 "Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton bezkolorowego "
-"artefaktycznego stwora Konstrukt X/X, gdzie X jest skróconym kosztem many "
+"artefaktowego stwora Konstrukt X/X, gdzie X jest skróconym kosztem many "
 "owego czaru."
 
 #: ../../KLD.rst:313
@@ -1047,8 +1047,7 @@ msgstr ""
 #: ../../KLD.rst:337
 msgid "Counter target nonartifact spell unless its controller pays |mana_2|."
 msgstr ""
-"Skontruj wskazany nieartefaktyczny czar, chyba że jego władca zapłaci "
-"|mana_2|."
+"Skontruj wskazany nieartefaktowy czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../KLD.rst:346
 msgid ""
@@ -1484,7 +1483,7 @@ msgid ""
 "That player shuffles their library, then draws a card for each card exiled "
 "from their hand this way."
 msgstr ""
-"Nazwij nieartefaktyczną nielądową kartę. Wyszukaj w cmentarzu, ręce i "
+"Nazwij nieartefaktową nielądową kartę. Wyszukaj w cmentarzu, ręce i "
 "bibliotece wskazanego gracza dowolną liczbę kart o owej nazwie i wygnaj je. "
 "Ów gracz tasuje swoją bibliotekę, następnie dobiera kartę za każdą kartę "
 "wygnaną ze swojej ręki w ten sposób."
@@ -1513,7 +1512,7 @@ msgid ""
 "counters on it or create three 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
 "Produkcja 3 (Kiedy ten stwór wejdzie na pole walki, umieść na nim trzy "
-"znaczniki +1/+1 albo stwórz trzy żetony bezkolorowego artefaktycznego stwora "
+"znaczniki +1/+1 albo stwórz trzy żetony bezkolorowego artefaktowego stwora "
 "Serwo 1/1.)"
 
 #: ../../KLD.rst:485
@@ -1822,7 +1821,7 @@ msgid ""
 "creature, it gains trample until end of turn."
 msgstr ""
 "Wskazany atakujący stwór dostaje do końca tury +3/+3. Jeśli jest "
-"artefaktycznym stworem, zyskuje tratowanie do końca tury."
+"artefaktowym stworem, zyskuje tratowanie do końca tury."
 
 #: ../../KLD.rst:588
 msgid ""
@@ -2090,14 +2089,13 @@ msgid ""
 "artifact creature token with flying."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
-"artefaktycznego stwora Thopter 1/1 z lataniem."
+"artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../KLD.rst:667
 msgid ""
 "|mana_1|\\ |mana_r|: Target artifact creature gets +1/+0 until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_r|: Wskazany artefaktyczny stwór dostaje do końca tury +1/"
-"+0."
+"|mana_1|\\ |mana_r|: Wskazany artefaktowy stwór dostaje do końca tury +1/+0."
 
 #: ../../KLD.rst:669
 msgid "|mana_1|, Sacrifice an artifact: Target creature can't block this turn."
@@ -2131,6 +2129,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, Reckless "
 "Fireweaver deals 1 damage to each opponent."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole walki pod twoim władaniem, ten stwór zadaje "
+"każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../KLD.rst:684
 msgid ""
@@ -2153,7 +2153,7 @@ msgstr ""
 #: ../../KLD.rst:687
 msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice Ruinous Gremlin: Destroy target artifact."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|, poświęć tego stwora: Zniszcz wskazany artefakt."
 
 #: ../../KLD.rst:692
 msgid ""
@@ -2167,6 +2167,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, Salivating "
 "Gremlins gets +2/+0 and gains trample until end of turn."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole walki pod twoim władaniem, ten stwór "
+"dostaje do końca tury +2/+0 oraz tratowanie."
 
 #: ../../KLD.rst:702
 msgid ""
@@ -2177,15 +2179,15 @@ msgstr ""
 
 #: ../../KLD.rst:697
 msgid "|mana_r|: Skyship Stalker gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../KLD.rst:699
 msgid "|mana_r|: Skyship Stalker gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje pierwszy cios do końca tury."
 
 #: ../../KLD.rst:701
 msgid "|mana_r|: Skyship Stalker gains haste until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje pośpiech do końca tury."
 
 #: ../../KLD.rst:706
 msgid ""
@@ -2200,6 +2202,9 @@ msgid ""
 "Spark of Creativity deal damage to that creature equal to the exiled card's "
 "converted mana cost. If you don't, you may play that card until end of turn."
 msgstr ""
+"Wskaż stwora. Wygnaj wierzchnią kartę twojej biblioteki. Możesz sprawić, że "
+"ten czar zada owemu stworowi obrażenia równe skróconemu kosztowi many "
+"wygnanej karty. Jeśli tak nie zrobisz, możesz zagrać ową kartę do końca tury."
 
 #: ../../KLD.rst:712
 msgid ""
@@ -2213,6 +2218,7 @@ msgid ""
 "Whenever Speedway Fanatic crews a Vehicle, that Vehicle gains haste until "
 "end of turn."
 msgstr ""
+"Ilekroć ten stwór załoguje Pojazd, ów Pojazd zyskuje pośpiech do końca tury."
 
 #: ../../KLD.rst:716
 msgid ""
@@ -2226,6 +2232,8 @@ msgid ""
 "Whenever Spireside Infiltrator becomes tapped, it deals 1 damage to each "
 "opponent."
 msgstr ""
+"Ilekroć ten stwór zostanie przekręcony, zadaje on każdemu przeciwnikowi po 1 "
+"obrażeniu."
 
 #: ../../KLD.rst:722
 msgid ""
@@ -2257,6 +2265,8 @@ msgid ""
 "Vehicles you control become artifact creatures until end of turn. Creatures "
 "you control get +2/+0 until end of turn."
 msgstr ""
+"Pojazdy pod twoim władaniem stają się do końca tury artefaktowymi stworami. "
+"Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../KLD.rst:732
 msgid ""
@@ -2327,6 +2337,8 @@ msgid ""
 "Welding Sparks deals X damage to target creature, where X is 3 plus the "
 "number of artifacts you control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi X obrażeń, gdzie X jest liczbą "
+"artefaktów pod twoim władaniem plus 3."
 
 #: ../../KLD.rst:754
 msgid ""
@@ -2337,7 +2349,7 @@ msgstr ""
 
 #: ../../KLD.rst:753
 msgid "Destroy target artifact or enchantment. You gain 2 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskaj 2 życia."
 
 #: ../../KLD.rst:760
 msgid ""
@@ -2348,7 +2360,7 @@ msgstr ""
 
 #: ../../KLD.rst:759
 msgid "When Arborback Stomper enters the battlefield, you gain 5 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 5 żyć."
 
 #: ../../KLD.rst:766
 msgid ""
@@ -2371,8 +2383,8 @@ msgid ""
 "energy|\\ |energy|: Create a 6/6 colorless Beast artifact creature token."
 msgstr ""
 "Zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ "
-"|energy|\\ |energy|: Stwórz żeton bezkolorowego artefaktycznego stwora "
-"Bestia 6/6."
+"|energy|\\ |energy|: Stwórz żeton bezkolorowego artefaktowego stwora Bestia "
+"6/6."
 
 #: ../../KLD.rst:770
 msgid ""
@@ -2386,6 +2398,8 @@ msgid ""
 "When Armorcraft Judge enters the battlefield, draw a card for each creature "
 "you control with a +1/+1 counter on it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dobierz kartę za każdego stwora pod "
+"twoim władaniem mającego znacznik +1/+1."
 
 #: ../../KLD.rst:774
 msgid ""
@@ -2414,6 +2428,7 @@ msgstr ""
 msgid ""
 "Target creature you control gets +2/+2 and gains hexproof until end of turn."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+2 i antyklątwę."
 
 #: ../../KLD.rst:784
 msgid ""
@@ -2483,6 +2498,8 @@ msgid ""
 "creatures get +X/+X until end of turn, where X is Cultivator of Blades's "
 "power."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz sprawić, że inne atakujące stwory dostaną "
+"do końca tury +X/+X, gdzie X jest siłą niniejszego stwora."
 
 #: ../../KLD.rst:806
 msgid ""
@@ -2498,6 +2515,11 @@ msgid ""
 "of the exiled cards and put it onto the battlefield under their control. Put "
 "the rest onto the battlefield under your control."
 msgstr ""
+"Spójrz na dziesięć wierzchnich kart twojej biblioteki, wygnaj spośród nich "
+"co najwyżej dwie karty stworów, następnie przetasuj twoją bibliotekę. "
+"Wskazany przeciwnik może wybrać jedną z owych wygnanych kart i umieścić ją "
+"na polu walki pod swoim władaniem. Umieść pozostałą na polu walki pod twoim "
+"władaniem."
 
 #: ../../KLD.rst:812
 msgid ""
@@ -2511,12 +2533,16 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, you may pay |"
 "mana_1|. If you do, put a +1/+1 counter on that creature."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, możesz zapłacić "
+"|mana_1|. Jeśli tak zrobisz, umieść znacznik +1/+1 na owym stworze."
 
 #: ../../KLD.rst:811
 msgid ""
 "|mana_5|\\ |mana_g|, Sacrifice Durable Handicraft: Put a +1/+1 counter on "
 "each creature you control."
 msgstr ""
+"|mana_5|\\ |mana_g|, poświęć ten urok: Umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../KLD.rst:818
 msgid ""
@@ -2528,7 +2554,7 @@ msgstr ""
 #: ../../KLD.rst:815
 msgid ""
 "Elegant Edgecrafters can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../KLD.rst:822
 msgid ""
@@ -2542,6 +2568,8 @@ msgid ""
 "At the beginning of each end step, if a +1/+1 counter was put on a permanent "
 "under your control this turn, put a +1/+1 counter on Fairgrounds Trumpeter."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli znacznik +1/+1 został umieszczony "
+"na permanencie pod twoim władaniem, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../KLD.rst:826
 msgid ""
@@ -2598,6 +2626,8 @@ msgid ""
 "When Kujar Seedsculptor enters the battlefield, put a +1/+1 counter on "
 "target creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../KLD.rst:844
 msgid ""
@@ -2608,7 +2638,7 @@ msgstr ""
 
 #: ../../KLD.rst:843
 msgid "Target creature gets +4/+4 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4 i tratowanie."
 
 #: ../../KLD.rst:850
 msgid ""
@@ -2641,6 +2671,9 @@ msgid ""
 "Target creature you control gains vigilance and trample until end of turn. "
 "It deals damage equal to its power to target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje czujność i tratowanie do końca "
+"tury. Zadaje on obrażenia równe swojej sile wskazanemu stworowi poza twoim "
+"władaniem."
 
 #: ../../KLD.rst:862
 msgid ""
@@ -2654,16 +2687,21 @@ msgid ""
 "+1: Untap target land you control. Until your next turn, it becomes a 5/5 "
 "Elemental creature with haste. It's still a land."
 msgstr ""
+"+1: Odkręć wskazany ląd pod twoim władaniem. Do twojej następnej tury staje "
+"się on stworem Żywiołak 5/5 z pośpiechem. Nadal jest lądem."
 
 #: ../../KLD.rst:859
 msgid "−3: Return target permanent card from your graveyard to your hand."
 msgstr ""
+"–3: Przywróć wskazaną kartę permanentu z twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:861
 msgid ""
 "−6: You get an emblem with \"Whenever a land enters the battlefield under "
 "your control, you may draw a card.\""
 msgstr ""
+"–6: Dostajesz emblemat o treści \"Ilekroć ląd wejdzie na pole walki pod "
+"twoim władaniem, możesz dobrać kartę.\""
 
 #: ../../KLD.rst:866
 msgid ""
@@ -2674,7 +2712,7 @@ msgstr ""
 
 #: ../../KLD.rst:865
 msgid "Untap target creature. It gets +1/+3 until end of turn."
-msgstr ""
+msgstr "Odkręć wskazanego stwora. Dostaje on do końca tury +1/+3."
 
 #: ../../KLD.rst:872
 msgid ""
@@ -2689,6 +2727,8 @@ msgid ""
 "|mana_2|\\ |mana_g|, |tap|: Create a 1/1 colorless Servo artifact creature "
 "token."
 msgstr ""
+"|mana_2|\\ |mana_g|, |tap|: Stwórz żeton bezkolorowego artefaktowego stwora "
+"Serwo 1/1."
 
 #: ../../KLD.rst:871
 msgid ""
@@ -3108,7 +3148,7 @@ msgid ""
 "creature token with flying."
 msgstr ""
 "Zapłać |energy|\\ |energy|\\ |energy|: Stwórz żeton bezkolorowego "
-"artefaktycznego stwora Thopter 1/1 z lataniem."
+"artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../KLD.rst:1020
 msgid ""
@@ -3194,7 +3234,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 4: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
+"co najmniej 4: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../KLD.rst:1050
 msgid ""
@@ -3213,7 +3253,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 3: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
+"co najmniej 3: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../KLD.rst:1054
 msgid ""
@@ -3265,7 +3305,7 @@ msgstr ""
 
 #: ../../KLD.rst:1071
 msgid "Other artifact creatures you control get +1/+1."
-msgstr "Inne artefaktyczne stwory pod twoim władaniem dostają +1/+1."
+msgstr "Inne artefaktowe stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../KLD.rst:1078
 msgid ""
@@ -3368,7 +3408,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 5 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 5: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 5: Ten Pojazd staje się artefaktowym stworem do końca tury.)"
 
 #: ../../KLD.rst:1114
 msgid ""
@@ -3520,7 +3560,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 2: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
+"co najmniej 2: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../KLD.rst:1160
 msgid ""
@@ -3719,7 +3759,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 1: Ten Pojazd staje się do końca tury artefaktycznym stworem.)"
+"co najmniej 1: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../KLD.rst:1226
 msgid ""

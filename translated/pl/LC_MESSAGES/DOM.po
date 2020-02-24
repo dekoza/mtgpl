@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 16:18+0000\n"
+"PO-Revision-Date: 2020-02-24 09:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dom/"
 "pl/>\n"
@@ -51,7 +51,7 @@ msgid ""
 "−2: Create a 0/0 colorless Construct artifact creature token with \"This "
 "creature gets +1/+1 for each artifact you control.\""
 msgstr ""
-"–2: Stwórz żeton bezkolorowego artefaktycznego stwora Konstrukt 0/0 mający \""
+"–2: Stwórz żeton bezkolorowego artefaktowego stwora Konstrukt 0/0 mający \""
 "Ten stwór dostaje +1/+1 za każdy artefakt pod twoim władaniem.\""
 
 #: ../../DOM.rst:18
@@ -745,7 +745,7 @@ msgid ""
 "III — Artifacts you control become artifact creatures with base power and "
 "toughness 5/5 until end of turn."
 msgstr ""
-"III — Artefakty pod twoim władaniem stają się do końca tury artefaktycznymi "
+"III — Artefakty pod twoim władaniem stają się do końca tury artefaktowymi "
 "stworami o bazowej sile i wytrzymałości 5/5."
 
 #: ../../DOM.rst:248
@@ -1696,7 +1696,7 @@ msgstr ""
 
 #: ../../DOM.rst:569
 msgid "II — Destroy all nonartifact creatures."
-msgstr "II — Zniszcz wszystkie nieartefaktyczne stwory."
+msgstr "II — Zniszcz wszystkie nieartefaktowe stwory."
 
 #: ../../DOM.rst:571
 msgid "III — Exile all cards from all opponents' graveyards."
