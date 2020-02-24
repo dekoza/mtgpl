@@ -27,7 +27,7 @@ Dodatki poza Standardem
 * :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p100|
 * :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p100|
 * :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p100|
-* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|
+* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p50|
 * :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p100|
 * :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p100|
 * :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p100|

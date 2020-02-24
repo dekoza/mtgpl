@@ -5,6 +5,7 @@ Spis zmian
 
 2020-02-23
    * Aether Revolt - 100%
+   * Kaladesh - 50%
    * Zaktualizowane tłumaczenia: RIX, DOM
 
 2020-02-21
