@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-24 00:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mh1/"
 "pl/>\n"
@@ -47,7 +47,7 @@ msgid ""
 "mana_r|\\ |mana_g| less to cast. This effect reduces only the amount of "
 "colored mana you pay."
 msgstr ""
-"Rzucenie czarów wybranego typu kosztuje cię o |mana_w|\\ |mana_u|\\ |mana_b|"
+"Rzucanie czarów wybranego typu kosztuje cię o |mana_w|\\ |mana_u|\\ |mana_b|"
 "\\ |mana_r|\\ |mana_g| mniej. Ten efekt zmniejsza tylko wartość kolorowej "
 "many."
 
@@ -2088,7 +2088,7 @@ msgstr "Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../MH1.rst:667
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje -1/-1 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../MH1.rst:669
 msgid "You gain 2 life."

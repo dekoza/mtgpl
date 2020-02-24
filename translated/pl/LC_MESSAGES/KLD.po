@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-24 00:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/kld/"
 "pl/>\n"
@@ -39,7 +39,7 @@ msgid ""
 "under its owner's control."
 msgstr ""
 "Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole walki po władaniem jej właściciela."
+"na pole walki po władaniem właściciela."
 
 #: ../../KLD.rst:11 ../../KLD.rst:129 ../../KLD.rst:683
 msgid "Draw a card."
@@ -77,7 +77,7 @@ msgid ""
 "your control, you get |energy| (an energy counter)."
 msgstr ""
 "Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, "
-"dostajesz |energy| (znacznik energii)."
+"przyjmij |energy| (znacznik energii)."
 
 #: ../../KLD.rst:23
 msgid ""
@@ -158,7 +158,7 @@ msgid ""
 "it gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje +2/+2 do końca tury. Jeśli jest artefaktycznym "
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest artefaktycznym "
 "stworem, zyskuje niezniszczalność do końca tury. (Obrażenia i efekty mówiące "
 "\"zniszcz\" nie niszczą go.)"
 
@@ -218,8 +218,8 @@ msgid ""
 "When Consulate Surveillance enters the battlefield, you get |energy|\\ |"
 "energy|\\ |energy|\\ |energy| (four energy counters)."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, dostajesz |energy|\\ |energy|\\ "
-"|energy|\\ |energy| (cztery znaczniki energii)."
+"Kiedy ten urok wejdzie na pole walki, przyjmij |energy|\\ |energy|\\ |energy|"
+"\\ |energy| (cztery znaczniki energii)."
 
 #: ../../KLD.rst:65
 msgid ""
@@ -241,7 +241,7 @@ msgid ""
 "When Consul's Shieldguard enters the battlefield, you get |energy|\\ |"
 "energy| (two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:71
@@ -264,7 +264,7 @@ msgid ""
 "When Eddytrail Hawk enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\|energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:79
@@ -288,7 +288,7 @@ msgid ""
 "opponent controls until Fairgrounds Warden leaves the battlefield."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wygnaj wskazanego stwora pod "
-"władaniem przeciwnika dopóki ten stwór nie opuści pola walki."
+"władaniem przeciwnika dopóki niniejszy stwór nie opuści pola walki."
 
 #: ../../KLD.rst:88
 msgid ""
@@ -516,7 +516,7 @@ msgid ""
 "When Thriving Ibex enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:167
@@ -542,7 +542,7 @@ msgid ""
 msgstr ""
 "Na początku walki w twojej turze, jeśli władasz artefaktem, ten stwór "
 "dostaje od końca tury +2/+1. Jeśli władasz co najmniej trzema artefaktami, "
-"zyskuje także pierwszy cios do końca tury."
+"zyskuje on także pierwszy cios do końca tury."
 
 #: ../../KLD.rst:178
 msgid ""
@@ -577,7 +577,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wygnać innego wskazanego "
 "stwora pod twoim władaniem, następnie przywróć ową kartę na pole walki pod "
-"władaniem jej właściciela."
+"władaniem właściciela."
 
 #: ../../KLD.rst:198
 msgid ""
@@ -599,7 +599,7 @@ msgid ""
 "When Aether Meltdown enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten urok wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:197
@@ -618,7 +618,7 @@ msgid ""
 "When Aether Theorist enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy|\\ "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy|\\ "
 "|energy| (trzy znaczniki energii)."
 
 #: ../../KLD.rst:203
@@ -641,8 +641,8 @@ msgid ""
 "Return target permanent you control and target permanent you don't control "
 "to their owners' hands."
 msgstr ""
-"Przywróć wskazany permanent pod twoim włądaniem oraz wskazany permanent poza "
-"twoim władaniem do rąk ich właścicieli."
+"Przywróć wskazany permanent pod twoim władaniem oraz wskazany permanent poza "
+"twoim władaniem do rąk właścicieli."
 
 #: ../../KLD.rst:216
 msgid ""
@@ -656,8 +656,8 @@ msgid ""
 "At the beginning of your upkeep, you get |energy|\\ |energy|\\ |energy| "
 "(three energy counters)."
 msgstr ""
-"Na początku twojego kroku rozliczania dostajesz |energy|\\ |energy|\\ "
-"|energy| (trzy znaczniki energii)."
+"Na początku twojego kroku utrzymania przyjmij |energy|\\ |energy|\\ |energy| "
+"(trzy znaczniki energii)."
 
 #: ../../KLD.rst:215
 msgid ""
@@ -666,7 +666,7 @@ msgid ""
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "Zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ "
-"|energy|\\ |energy|: Przywróć wszystkie inne stwory do rąk ich właścicieli. "
+"|energy|\\ |energy|: Przywróć wszystkie inne stwory do rąk właścicieli. "
 "Aktywuj jako obrzęd."
 
 #: ../../KLD.rst:220
@@ -693,10 +693,10 @@ msgid ""
 "|energy| (four energy counters), then you may pay an amount of |energy| "
 "equal to that permanent's converted mana cost. If you do, gain control of it."
 msgstr ""
-"Wskaż artefakt lub stwora. Dostajesz |energy|\\ |energy|\\ |energy|\\ "
-"|energy| (cztery znaczniki energii), następnie możesz zapłacić tyle |energy|"
-", ile wynosi skrócony koszt many owego permanentu. Jeśli tak zrobisz, zyskaj "
-"nad nim władanie."
+"Wskaż artefakt lub stwora. Przyjmij |energy|\\ |energy|\\ |energy|\\ |energy|"
+" (cztery znaczniki energii), następnie możesz zapłacić tyle |energy|, ile "
+"wynosi skrócony koszt many owego permanentu. Jeśli tak zrobisz, zyskaj "
+"władanie nad nim."
 
 #: ../../KLD.rst:226
 msgid ""
@@ -815,7 +815,7 @@ msgid ""
 "Scry 2, then draw two cards. You get |energy|\\ |energy| (two energy "
 "counters)."
 msgstr ""
-"Wróż 2, następnie dobierz dwie karty. Zyskaj |energy|\\ |energy| (dwa "
+"Wróż 2, następnie dobierz dwie karty. Przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:270
@@ -860,6 +860,8 @@ msgid ""
 "Pay |energy|\\ |energy|: Hightide Hermit can attack this turn as though it "
 "didn't have defender."
 msgstr ""
+"Zapłać |energy|\\ |energy|: Ten stwór może atakować w tej turze tak, jakby "
+"nie miał obronności."
 
 #: ../../KLD.rst:288
 msgid ""
@@ -874,7 +876,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../KLD.rst:285
 msgid "You may choose new targets for target spell."
-msgstr ""
+msgstr "Możesz wskazać nowe cele dla wskazanego czaru."
 
 #: ../../KLD.rst:287
 msgid ""
@@ -892,15 +894,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:291
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Janjeet Sentry enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:293
@@ -908,6 +906,8 @@ msgid ""
 "|tap|, Pay |energy|\\ |energy|: You may tap or untap target artifact or "
 "creature."
 msgstr ""
+"|tap|, zapłać |energy|\\ |energy|: Możesz przekręcić lub odkręcić wskazany "
+"artefakt lub stwora."
 
 #: ../../KLD.rst:300
 msgid ""
@@ -918,7 +918,7 @@ msgstr ""
 
 #: ../../KLD.rst:299
 msgid "Long-Finned Skywhale can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../KLD.rst:308
 msgid ""
@@ -933,7 +933,7 @@ msgstr "Zaurocz artefakt lub stwora"
 
 #: ../../KLD.rst:305
 msgid "When Malfunction enters the battlefield, tap enchanted permanent."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczony permanent."
 
 #: ../../KLD.rst:307
 msgid "Enchanted permanent doesn't untap during its controller's untap step."
@@ -952,6 +952,9 @@ msgid ""
 "Construct artifact creature token, where X is that spell's converted mana "
 "cost."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton bezkolorowego "
+"artefaktycznego stwora Konstrukt X/X, gdzie X jest skróconym kosztem many "
+"owego czaru."
 
 #: ../../KLD.rst:313
 msgid ""
@@ -959,6 +962,9 @@ msgid ""
 "instant and sorcery cards from your graveyard to your hand. Activate this "
 "ability only if you control six or more artifacts."
 msgstr ""
+"|mana_3|\\ |mana_u|\\ |mana_u|, wygnaj ten urok: Przywróć wszystkie karty "
+"sztuczek i obrzędów z twojego cmentarza do twojej ręki. Możesz aktywować tę "
+"zdolność tylko jeśli władasz co najmniej sześcioma artefaktami."
 
 #: ../../KLD.rst:320
 msgid ""
@@ -968,15 +974,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:317
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Minister of Inquiries enters the battlefield, you get |energy|\\ |"
 "energy| (two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:319
@@ -984,6 +986,8 @@ msgid ""
 "|tap|, Pay |energy|: Target player puts the top three cards of their library "
 "into their graveyard."
 msgstr ""
+"|tap|, zapłać |energy|: Wskazany gracz umieszcza trzy wierzchnie karty "
+"swojej biblioteki w swoim cmentarzu."
 
 #: ../../KLD.rst:324
 msgid ""
@@ -994,7 +998,7 @@ msgstr ""
 
 #: ../../KLD.rst:323
 msgid "When Nimble Innovator enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../KLD.rst:330
 msgid ""
@@ -1005,7 +1009,7 @@ msgstr ""
 
 #: ../../KLD.rst:327
 msgid "Artifacts you control have hexproof."
-msgstr ""
+msgstr "Artefakty pod twoim władaniem mają antyklątwę."
 
 #: ../../KLD.rst:329
 msgid ""
@@ -1013,6 +1017,8 @@ msgid ""
 "highest converted mana cost or tied for the highest converted mana cost, "
 "draw a card."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz artefaktem o najwyższym "
+"skróconym koszcie many lub jednym z takowych, dobierz kartę."
 
 #: ../../KLD.rst:334
 msgid ""
@@ -1027,6 +1033,9 @@ msgid ""
 "their owners' hands. Draw a card for each card returned to your hand this "
 "way."
 msgstr ""
+"Przywróć dowolną liczbę wskazanych nielądowych nieżetonowych permanentów do "
+"rąk ich właścicieli. Dobierz kartę za każdy z nich przywrócony do twojej "
+"ręki w ten sposób."
 
 #: ../../KLD.rst:338
 msgid ""
@@ -1038,6 +1047,8 @@ msgstr ""
 #: ../../KLD.rst:337
 msgid "Counter target nonartifact spell unless its controller pays |mana_2|."
 msgstr ""
+"Skontruj wskazany nieartefaktyczny czar, chyba że jego władca zapłaci "
+"|mana_2|."
 
 #: ../../KLD.rst:346
 msgid ""
@@ -1052,13 +1063,15 @@ msgstr "Wybierz jedno lub oba —"
 
 #: ../../KLD.rst:343
 msgid "Create a token that's a copy of target artifact."
-msgstr ""
+msgstr "Stwórz żeton będący kopią wskazanego artefaktu."
 
 #: ../../KLD.rst:345
 msgid ""
 "Create a token that's a copy of target creature, except it's an artifact in "
 "addition to its other types."
 msgstr ""
+"Stwórz żeton będący kopią wskazanego stwora, tylko że jest on dodatkowo "
+"artefaktem oprócz swoich innych typów."
 
 #: ../../KLD.rst:350
 msgid ""
@@ -1072,6 +1085,9 @@ msgid ""
 "Return target tapped creature to its owner's hand. Scry 1. (Look at the top "
 "card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Przywróć wskazanego przekręconego stwora do ręki właściciela. Wróż 1. ("
+"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie "
+"twojej biblioteki.)"
 
 #: ../../KLD.rst:354
 msgid ""
@@ -1085,6 +1101,8 @@ msgid ""
 "Exchange control of target artifact you control and target artifact or "
 "creature you don't control."
 msgstr ""
+"Zamień władanie nad wskazanym artefaktem pod twoim władaniem oraz wskazanym "
+"artefaktem lub stworem poza twoim władaniem."
 
 #: ../../KLD.rst:358
 msgid ""
@@ -1095,7 +1113,7 @@ msgstr ""
 
 #: ../../KLD.rst:357
 msgid "Draw three cards. If you control no artifacts, discard a card."
-msgstr ""
+msgstr "Dobierz trzy karty. Jeśli nie władasz artefaktem, odrzuć kartę."
 
 #: ../../KLD.rst:364
 msgid ""
@@ -1105,22 +1123,14 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:361
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Thriving Turtle enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:363
-#, fuzzy
-#| msgid ""
-#| "Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a +1/"
-#| "+1 counter on it."
 msgid ""
 "Whenever Thriving Turtle attacks, you may pay |energy|\\ |energy|. If you "
 "do, put a +1/+1 counter on it."
@@ -1145,6 +1155,9 @@ msgid ""
 "card from your graveyard without paying its mana cost. If that card would be "
 "put into your graveyard this turn, exile it instead."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz rzucić wskazaną kartę sztuczki "
+"z twojego cmentarza bez płacenia jej kosztu many. Jeśli owa karta miałby "
+"zostać umieszczona w cmentarzu w tej turze, wygnaj ją."
 
 #: ../../KLD.rst:374
 msgid ""
@@ -1173,6 +1186,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, Weldfast "
 "Wingsmith gains flying until end of turn."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole walki pod twoim władaniem, ten stwór "
+"zyskuje latanie do końca tury."
 
 #: ../../KLD.rst:382
 msgid ""
@@ -1197,6 +1212,8 @@ msgid ""
 "When Aetherborn Marauder enters the battlefield, move any number of +1/+1 "
 "counters from other permanents you control onto Aetherborn Marauder."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przenieś dowolną liczbę znaczników +1/"
+"+1 z innych permanentów pod twoim władaniem na tego stwora."
 
 #: ../../KLD.rst:392
 msgid ""
@@ -1217,16 +1234,12 @@ msgid ""
 "When Demon of Dark Schemes enters the battlefield, all other creatures get "
 "-2/-2 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wszystkie inne stwory dostają do "
+"końca tury -2/-2."
 
 #: ../../KLD.rst:399
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid "Whenever another creature dies, you get |energy| (an energy counter)."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+msgstr "Ilekroć umrze inny stwór, przyjmij |energy| (znacznik energii)."
 
 #: ../../KLD.rst:401
 msgid ""
@@ -1234,6 +1247,9 @@ msgid ""
 "target creature card from a graveyard onto the battlefield under your "
 "control tapped."
 msgstr ""
+"|mana_2|\\ |mana_b|, zapłać |energy|\\ |energy|\\ |energy|\\ |energy|: "
+"Umieść wskazaną kartę stwora z cmentarza przekręconą na polu walki pod twoim "
+"władaniem."
 
 #: ../../KLD.rst:406
 msgid ""
@@ -1248,6 +1264,8 @@ msgid ""
 "deathtouch. (Any amount of damage it deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"O ile władasz artefaktem, ten stwór dostaje +1/+0 i ma dotyk śmierci. (Stwór "
+"otrzymujący od niego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../KLD.rst:410
 msgid ""
@@ -1277,6 +1295,9 @@ msgid ""
 "then you may pay any amount of |energy|. The creature gets -1/-1 until end "
 "of turn for each |energy| paid this way."
 msgstr ""
+"Wskaż stwora. Przyjmij |energy|\\ |energy| (dwa znaczniki energii), "
+"następnie możesz zapłacić dowolną liczbę |energy|. Ów stwór dostaje do końca "
+"tury -1/-1 za każdy |energy| zapłacony w ten sposób."
 
 #: ../../KLD.rst:418
 msgid ""
@@ -1290,6 +1311,8 @@ msgid ""
 "When Dukhara Scavenger enters the battlefield, you may put target artifact "
 "or creature card from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz umieścić wskazaną kartę "
+"artefaktu lub stwora z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../KLD.rst:424
 msgid ""
@@ -1300,11 +1323,11 @@ msgstr ""
 
 #: ../../KLD.rst:421
 msgid "As an additional cost to cast this spell, sacrifice X creatures."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć X stworów."
 
 #: ../../KLD.rst:423
 msgid "Destroy X target creatures."
-msgstr ""
+msgstr "Zniszcz X wskazanych stworów."
 
 #: ../../KLD.rst:430
 msgid ""
@@ -1315,11 +1338,11 @@ msgstr ""
 
 #: ../../KLD.rst:427
 msgid "Embraal Bruiser enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../KLD.rst:429
 msgid "Embraal Bruiser has menace as long as you control an artifact."
-msgstr ""
+msgstr "Ten stwór ma złowrogość o ile władasz artefaktem."
 
 #: ../../KLD.rst:434
 msgid ""
@@ -1331,7 +1354,7 @@ msgstr ""
 #: ../../KLD.rst:433
 msgid ""
 "Essence Extraction deals 3 damage to target creature and you gain 3 life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia, a ty zyskaj 3 życia."
 
 #: ../../KLD.rst:442
 msgid ""
@@ -1342,7 +1365,7 @@ msgstr ""
 
 #: ../../KLD.rst:439
 msgid "Return target artifact card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:441
 msgid "Return target creature card from your graveyard to your hand."
@@ -1357,7 +1380,7 @@ msgstr ""
 
 #: ../../KLD.rst:447
 msgid "Foundry Screecher gets +1/+0 as long as you control an artifact."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 o ile władasz artefaktem."
 
 #: ../../KLD.rst:454
 msgid ""
@@ -1368,13 +1391,15 @@ msgstr ""
 
 #: ../../KLD.rst:451
 msgid "Fretwork Colony can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../KLD.rst:453
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on Fretwork Colony and "
 "you lose 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na tym stworze i "
+"strać 1 życie."
 
 #: ../../KLD.rst:460
 msgid ""
@@ -1395,6 +1420,11 @@ msgid ""
 "and cast that card for as long as it remains exiled, and you may spend mana "
 "as though it were mana of any type to cast that spell."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"biblioteki wskazanego przeciwnika, wygnaj jedną z nich zakrytą, następnie "
+"umieść pozostałe na spodzie owej biblioteki w losowej kolejności. Przez czas "
+"jej wygnania możesz patrzeć na ową kartę oraz rzucić ją wydając manę tak, "
+"jakby była maną dowolnego typu."
 
 #: ../../KLD.rst:464
 msgid ""
@@ -1408,6 +1438,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a creature card from it. That "
 "player discards that card. Scry 1."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę stwora. Ów "
+"gracz odrzuca ową kartę. Wróż 1."
 
 #: ../../KLD.rst:468
 msgid ""
@@ -1420,6 +1452,8 @@ msgstr ""
 msgid ""
 "When Lawless Broker dies, put a +1/+1 counter on target creature you control."
 msgstr ""
+"Kiedy ten stwór umrze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"władaniem."
 
 #: ../../KLD.rst:472
 msgid ""
@@ -1433,6 +1467,8 @@ msgid ""
 "You draw two cards, lose 2 life, and get |energy|\\ |energy| (two energy "
 "counters)."
 msgstr ""
+"Dobierz dwie karty, strać 2 życia i przyjmij |energy|\\ |energy| (dwa "
+"znaczniki energii)."
 
 #: ../../KLD.rst:476
 msgid ""
@@ -1448,6 +1484,10 @@ msgid ""
 "That player shuffles their library, then draws a card for each card exiled "
 "from their hand this way."
 msgstr ""
+"Nazwij nieartefaktyczną nielądową kartę. Wyszukaj w cmentarzu, ręce i "
+"bibliotece wskazanego gracza dowolną liczbę kart o owej nazwie i wygnaj je. "
+"Ów gracz tasuje swoją bibliotekę, następnie dobiera kartę za każdą kartę "
+"wygnaną ze swojej ręki w ten sposób."
 
 #: ../../KLD.rst:480
 msgid ""
@@ -1481,6 +1521,8 @@ msgid ""
 "Whenever an artifact you control is put into a graveyard from the "
 "battlefield, target opponent loses life equal to Marionette Master's power."
 msgstr ""
+"Ilekroć artefakt pod twoim władaniem zostanie umieszczony w cmentarzu z pola "
+"walki, wskazany przeciwnik traci tyle żyć, ile siły ma niniejszy stwór."
 
 #: ../../KLD.rst:492
 msgid ""
@@ -1502,23 +1544,26 @@ msgstr ""
 
 #: ../../KLD.rst:495
 msgid "Midnight Oil enters the battlefield with seven hour counters on it."
-msgstr ""
+msgstr "Ten urok wchodzi na pole walki mając siedem znaczników godziny."
 
 #: ../../KLD.rst:497
 msgid ""
 "At the beginning of your draw step, draw an additional card and remove two "
 "hour counters from Midnight Oil."
 msgstr ""
+"Na początku twojego kroku dobierania, dobierz dodatkową kartę i usuń dwa "
+"znaczniki godziny z tego uroku."
 
 #: ../../KLD.rst:499
 msgid ""
 "Your maximum hand size is equal to the number of hour counters on Midnight "
 "Oil."
 msgstr ""
+"Twój limit kart na ręce jest równy liczbie znaczników godziny na tym uroku."
 
 #: ../../KLD.rst:501
 msgid "Whenever you discard a card, you lose 1 life."
-msgstr ""
+msgstr "Ilekroć odrzucisz kartę, strać 1 życie."
 
 #: ../../KLD.rst:506
 msgid ""
@@ -1547,6 +1592,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stw
 msgid ""
 "Draw cards equal to the converted mana cost of the sacrificed permanent."
 msgstr ""
+"Dobierz tyle kart, ile wynosił skrócony koszt many poświęconego permanentu."
 
 #: ../../KLD.rst:516
 msgid ""
@@ -1560,6 +1606,8 @@ msgid ""
 "Whenever Night Market Lookout becomes tapped, each opponent loses 1 life and "
 "you gain 1 life."
 msgstr ""
+"Ilekroć ten stwór zostanie przekręcony, każdy przeciwnik traci po 1 życiu, a "
+"ty zyskaj 1 życie."
 
 #: ../../KLD.rst:522
 msgid ""
@@ -1574,6 +1622,9 @@ msgid ""
 "creature. If a creature is destroyed this way, you gain life equal to its "
 "toughness."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz zniszczyć wskazanego stwora. "
+"Jeśli stwór zostanie zniszczony w ten sposób, zyskaj tyle żyć, ile wynosiła "
+"jego wytrzymałość."
 
 #: ../../KLD.rst:526
 msgid ""
@@ -1587,6 +1638,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, you may "
 "return Ovalchase Daredevil from your graveyard to your hand."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole walki pod twoim władaniem, możesz "
+"przywrócić niniejszą kartę z twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:528
 msgid ""
@@ -1609,6 +1662,10 @@ msgid ""
 "that much life, and it can't be destroyed by damage or effects that say "
 "\"destroy.\")"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+0 oraz więź życia i "
+"niezniszczalność. (Obrażania zadane przez tego stwora powodują, że zyskujesz "
+"tyle samo żyć i nie może być on zniszczony przez obrażenia lub efekty "
+"mówiące \"zniszcz\".)"
 
 #: ../../KLD.rst:542
 msgid ""
@@ -1619,7 +1676,7 @@ msgstr ""
 
 #: ../../KLD.rst:539
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje -1/-1 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../KLD.rst:541
 msgid "Put a +1/+1 counter on target creature."
@@ -1637,6 +1694,8 @@ msgid ""
 "|mana_1|, Sacrifice an artifact: Put a +1/+1 counter on Syndicate "
 "Trafficker. It gains indestructible until end of turn."
 msgstr ""
+"|mana_1|, poświęć artefakt: Umieść znacznik +1/+1 na tym stworze. Zyskuje on "
+"niezniszczalność do końca tury."
 
 #: ../../KLD.rst:552
 msgid ""
@@ -1646,22 +1705,14 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:549
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Thriving Rats enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:551
-#, fuzzy
-#| msgid ""
-#| "Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a +1/"
-#| "+1 counter on it."
 msgid ""
 "Whenever Thriving Rats attacks, you may pay |energy|\\ |energy|. If you do, "
 "put a +1/+1 counter on it."
@@ -1679,6 +1730,8 @@ msgstr ""
 #: ../../KLD.rst:555
 msgid "Destroy target creature. You gain 1 life for each artifact you control."
 msgstr ""
+"Zniszcz wskazanego stwora. Zyskaj po 1 życiu za każdy artefakt pod twoim "
+"władaniem."
 
 #: ../../KLD.rst:562
 msgid ""
@@ -1692,12 +1745,17 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, you may pay |"
 "mana_1|. If you do, each opponent loses 1 life and you gain 1 life."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole walki pod twoim władaniem, możesz zapłacić "
+"|mana_1|. Jeśli tak zrobisz, każdy przeciwnik traci po 1 życiu, a ty zyskaj "
+"1 życie."
 
 #: ../../KLD.rst:561
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. "
 "Activate this ability only if you control two or more artifacts."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć ten urok: Zniszcz wskazanego stwora. Możesz "
+"aktywować tę zdolność tylko jeśli władasz co najmniej dwoma artefaktami."
 
 #: ../../KLD.rst:566
 msgid ""
@@ -1714,22 +1772,20 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:569
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Aethertorch Renegade enters the battlefield, you get |energy|\\ |energy|"
 "\\ |energy|\\ |energy| (four energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy|\\ "
+"|energy|\\ |energy| (cztery znaczniki energii)."
 
 #: ../../KLD.rst:571
 msgid ""
 "|tap|, Pay |energy|\\ |energy|: Aethertorch Renegade deals 1 damage to "
 "target creature."
 msgstr ""
+"|tap|, zapłać |energy|\\ |energy|: Ten stwór zadaje wskazanemu stworowi 1 "
+"obrażenie."
 
 #: ../../KLD.rst:573
 msgid ""
@@ -1737,6 +1793,9 @@ msgid ""
 "|energy|\\ |energy|: Aethertorch Renegade deals 6 damage to target player or "
 "planeswalker."
 msgstr ""
+"|tap|, zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|"
+"\\ |energy|\\ |energy|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi "
+"6 obrażeń."
 
 #: ../../KLD.rst:578
 msgid ""
@@ -1762,6 +1821,8 @@ msgid ""
 "Target attacking creature gets +3/+3 until end of turn. If it's an artifact "
 "creature, it gains trample until end of turn."
 msgstr ""
+"Wskazany atakujący stwór dostaje do końca tury +3/+3. Jeśli jest "
+"artefaktycznym stworem, zyskuje tratowanie do końca tury."
 
 #: ../../KLD.rst:588
 msgid ""
@@ -1772,7 +1833,7 @@ msgstr ""
 
 #: ../../KLD.rst:585
 msgid "As an additional cost to cast this spell, discard two cards."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć dwie karty."
 
 #: ../../KLD.rst:587
 msgid "Draw three cards."
@@ -1790,21 +1851,25 @@ msgid ""
 "+1: Exile the top card of your library. You may cast that card. If you "
 "don't, Chandra, Torch of Defiance deals 2 damage to each opponent."
 msgstr ""
+"+1: Wygnaj wierzchnią kartę twojej biblioteki. Możesz rzucić ową kartę. "
+"Jeśli tak nie zrobisz, ten wędrowiec zadaje każdemu przeciwnikowi po 2 "
+"obrażenia."
 
 #: ../../KLD.rst:593
-#, fuzzy
 msgid "+1: Add |mana_r|\\ |mana_r|."
-msgstr "|tap|: Weź |mana_u| lub |mana_r|."
+msgstr "+1: Weź |mana_r|\\ |mana_r|."
 
 #: ../../KLD.rst:595
 msgid "−3: Chandra, Torch of Defiance deals 4 damage to target creature."
-msgstr ""
+msgstr "–3: Ten wędrowiec zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../KLD.rst:597
 msgid ""
 "−7: You get an emblem with \"Whenever you cast a spell, this emblem deals 5 "
 "damage to any target.\""
 msgstr ""
+"–7: Dostajesz emblemat o treści \"Ilekroć rzucisz czar, ten emblemat zadaje "
+"wskazanemu celowi 5 obrażeń.\""
 
 #: ../../KLD.rst:602
 msgid ""
@@ -1818,8 +1883,8 @@ msgid ""
 "Chandra's Pyrohelix deals 2 damage divided as you choose among one or two "
 "targets."
 msgstr ""
-"Ten czar zadaje 2 obrażenia rozdzielone według twojego uznania pomiędzy "
-"jeden lub dwa wskazane cele."
+"Ten czar zadaje 2 obrażenia rozdzielone dowolnie pomiędzy jeden lub dwa "
+"wskazane cele."
 
 #: ../../KLD.rst:608
 msgid ""
@@ -1835,6 +1900,10 @@ msgid ""
 "library into your graveyard, then Combustible Gearhulk deals damage to that "
 "player equal to the total converted mana cost of those cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik może sprawić, że "
+"dobierzesz trzy karty. Jeśli ów gracz tak nie zrobi, umieść trzy wierzchnie "
+"karty twojej biblioteki w twoim cmentarzu, następnie ten stwór zadaje owemu "
+"graczowi tyle obrażeń, ile wynosi suma skróconych kosztów many owych kart."
 
 #: ../../KLD.rst:612
 msgid ""
@@ -1859,6 +1928,8 @@ msgid ""
 "Fateful Showdown deals damage to any target equal to the number of cards in "
 "your hand. Discard all the cards in your hand, then draw that many cards."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi tyle obrażeń, ile masz kart w ręce. Odrzuć "
+"wszystkie karty z twojej ręki, następnie dobierz tyle samo kart."
 
 #: ../../KLD.rst:620
 msgid ""
@@ -1870,6 +1941,7 @@ msgstr ""
 #: ../../KLD.rst:619
 msgid "Furious Reprisal deals 2 damage to each of two targets."
 msgstr ""
+"Ten czar zadaje każdemu z co najwyżej dwóch wskazanych celów po 2 obrażenia."
 
 #: ../../KLD.rst:626
 msgid ""
@@ -1880,7 +1952,7 @@ msgstr ""
 
 #: ../../KLD.rst:625
 msgid "Enchanted creature gets +2/+1 and has menace."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+1 i ma złowrogość."
 
 #: ../../KLD.rst:630
 msgid ""
@@ -1895,6 +1967,9 @@ msgid ""
 "counters), then you may pay any amount of |energy|. Harnessed Lightning "
 "deals that much damage to that creature."
 msgstr ""
+"Wskaż stwora. Przyjmij |energy|\\ |energy|\\ |energy| (trzy znaczniki "
+"energii), następnie możesz zapłacić dowolną liczbę |energy|. Ten czar zadaje "
+"owemu stworowi tyle obrażeń, ile |energy| zapłacono w ten sposób."
 
 #: ../../KLD.rst:634
 msgid ""
@@ -1924,7 +1999,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt."
 
 #: ../../KLD.rst:639
 msgid "Incendiary Sabotage deals 3 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 3 obrażenia."
 
 #: ../../KLD.rst:644
 msgid ""
@@ -1935,7 +2010,7 @@ msgstr ""
 
 #: ../../KLD.rst:643
 msgid "Inventor's Apprentice gets +1/+1 as long as you control an artifact."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz artefaktem."
 
 #: ../../KLD.rst:652
 msgid ""
@@ -1945,15 +2020,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:649
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Lathnu Hellion enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:651
@@ -1961,6 +2032,8 @@ msgid ""
 "At the beginning of your end step, sacrifice Lathnu Hellion unless you pay |"
 "energy|\\ |energy|."
 msgstr ""
+"Na początku twojego kroku końcowego, poświęć tego stwora, chyba że zapłacisz "
+"|energy|\\ |energy|."
 
 #: ../../KLD.rst:656
 msgid ""
@@ -1976,6 +2049,10 @@ msgid ""
 "library in a random order. Madcap Experiment deals damage to you equal to "
 "the number of cards revealed this way."
 msgstr ""
+"Ujawnij karty z wierzchu twojej biblioteki aż ujawnisz kartę artefaktu. "
+"Umieść ową kartę na polu walki, a pozostałe na spodzie twojej biblioteki w "
+"losowej kolejności. Ten czar zadaje tobie tyle obrażeń, ile kart ujawniono w "
+"ten sposób."
 
 #: ../../KLD.rst:662
 msgid ""
@@ -1985,28 +2062,20 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:659
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Maulfist Doorbuster enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:661
-#, fuzzy
-#| msgid ""
-#| "Whenever Eddytrail Hawk attacks, you may pay {E}. If you do, another "
-#| "target attacking creature gains flying until end of turn."
 msgid ""
 "Whenever Maulfist Doorbuster attacks, you may pay |energy|. If you do, "
 "target creature can't block this turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |energy|. Jeśli tak zrobisz, "
-"inny wskazany atakujący stwór zyskuje latanie do końca tury."
+"wskazany stwór nie może blokować w tej turze."
 
 #: ../../KLD.rst:670
 msgid ""
@@ -2020,18 +2089,20 @@ msgid ""
 "When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../KLD.rst:667
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_r|: Target artifact creature gets +1/+0 until end of turn."
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje +1/+1 "
-"do końca tury.)"
+"|mana_1|\\ |mana_r|: Wskazany artefaktyczny stwór dostaje do końca tury +1/"
+"+0."
 
 #: ../../KLD.rst:669
 msgid "|mana_1|, Sacrifice an artifact: Target creature can't block this turn."
 msgstr ""
+"|mana_1|, poświęć artefakt: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../KLD.rst:674
 msgid ""
@@ -2045,6 +2116,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, you may "
 "discard a card. If you do, draw a card."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole walki pod twoim władaniem, możesz odrzucić "
+"kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../KLD.rst:678
 msgid ""
@@ -2162,22 +2235,15 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:719
-#, fuzzy
-#| msgid ""
-#| "When Consul's Shieldguard enters the battlefield, you get {E}{E} (two "
-#| "energy counters)."
 msgid ""
 "When Spontaneous Artist enters the battlefield, you get |energy| (an energy "
 "counter)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy| (znacznik energii)."
 
 #: ../../KLD.rst:721
-#, fuzzy
-#| msgid "Target creature gets -1/-1 until end of turn."
 msgid "Pay |energy|: Target creature gains haste until end of turn."
-msgstr "Wskazany stwór dostaje -1/-1 do końca tury."
+msgstr "Zapłać |energy|: Wskazany stwór zyskuje pośpiech do końca tury."
 
 #: ../../KLD.rst:726
 msgid ""
@@ -2209,6 +2275,8 @@ msgid ""
 "Whenever you get one or more |energy| (energy counters), Territorial Gorger "
 "gets +2/+2 until end of turn."
 msgstr ""
+"Ilekroć przyjmiesz jeden lub więcej |energy| (znaczników energii), ten stwór "
+"dostaje do końca tury +2/+2."
 
 #: ../../KLD.rst:734
 msgid ""
@@ -2225,22 +2293,14 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:739
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Thriving Grubs enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:741
-#, fuzzy
-#| msgid ""
-#| "Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a +1/"
-#| "+1 counter on it."
 msgid ""
 "Whenever Thriving Grubs attacks, you may pay |energy|\\ |energy|. If you do, "
 "put a +1/+1 counter on it."
@@ -2298,22 +2358,21 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:763
-#, fuzzy
-#| msgid ""
-#| "Whenever Aetherstorm Roc or another creature enters the battlefield under "
-#| "your control, you get {E} (an energy counter)."
 msgid ""
 "Whenever a land enters the battlefield under your control, you get |energy| "
 "(an energy counter)."
 msgstr ""
-"Ilekroć ta karta lub inny stwór wejdzie na pole walki pod twoim władaniem, "
-"dostajesz |energy| (znacznik energii)."
+"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, przyjmij |energy| ("
+"znacznik energii)."
 
 #: ../../KLD.rst:765
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |"
 "energy|\\ |energy|: Create a 6/6 colorless Beast artifact creature token."
 msgstr ""
+"Zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ "
+"|energy|\\ |energy|: Stwórz żeton bezkolorowego artefaktycznego stwora "
+"Bestia 6/6."
 
 #: ../../KLD.rst:770
 msgid ""
@@ -2336,16 +2395,13 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:773
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle your library. You get |energy|\\ |energy| (two energy counters)."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść w "
+"twojej ręce, następnie przetasuj twoją bibliotekę. Przyjmij |energy|\\ "
+"|energy| (dwa znaczniki energii)."
 
 #: ../../KLD.rst:778
 msgid ""
@@ -2367,22 +2423,20 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:781
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Bristling Hydra enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy|\\ "
+"|energy| (trzy znaczniki energii)."
 
 #: ../../KLD.rst:783
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|: Put a +1/+1 counter on Bristling Hydra. "
 "It gains hexproof until end of turn."
 msgstr ""
+"Zapłać |energy|\\ |energy|\\ |energy|: Umieść znacznik +1/+1 na tym stworze. "
+"Zyskuje on antyklątwę do końca tury."
 
 #: ../../KLD.rst:788
 msgid ""
@@ -2568,12 +2622,12 @@ msgid ""
 "Whenever Longtusk Cub deals combat damage to a player, you get |energy|\\ |"
 "energy| (two energy counters)."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, przyjmij |energy|\\ "
+"|energy| (dwa znaczniki energii)."
 
 #: ../../KLD.rst:849
-#, fuzzy
 msgid "Pay |energy|\\ |energy|: Put a +1/+1 counter on Longtusk Cub."
-msgstr ""
-"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
+msgstr "Zapłać |energy|\\ |energy|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../KLD.rst:854
 msgid ""
@@ -2657,28 +2711,20 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:883
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Riparian Tiger enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:885
-#, fuzzy
-#| msgid ""
-#| "Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a +1/"
-#| "+1 counter on it."
 msgid ""
 "Whenever Riparian Tiger attacks, you may pay |energy|\\ |energy|. If you do, "
 "it gets +2/+2 until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |energy|\\ |energy|. Jeśli tak "
-"zrobisz, umieść na nim znacznik +1/+1."
+"zrobisz, dostaje on do końca tury +2/+2."
 
 #: ../../KLD.rst:890
 msgid ""
@@ -2688,16 +2734,12 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:889
-#, fuzzy
-#| msgid ""
-#| "When Consul's Shieldguard enters the battlefield, you get {E}{E} (two "
-#| "energy counters)."
 msgid ""
 "When Sage of Shaila's Claim enters the battlefield, you get |energy|\\ |"
 "energy|\\ |energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy|\\ "
+"|energy| (trzy znaczniki energii)."
 
 #: ../../KLD.rst:896
 msgid ""
@@ -2707,22 +2749,16 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:893
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Servant of the Conduit enters the battlefield, you get |energy|\\ |"
 "energy| (two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:895 ../../KLD.rst:1315
-#, fuzzy
-#| msgid "|tap|: Add one mana of any color."
 msgid "|tap|, Pay |energy|: Add one mana of any color."
-msgstr "|tap|: Weź jedną manę dowolnego koloru."
+msgstr "|tap|, zapłać |energy|: Weź jedną manę dowolnego koloru."
 
 #: ../../KLD.rst:904
 msgid ""
@@ -2747,22 +2783,14 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:907
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Thriving Rhino enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:909
-#, fuzzy
-#| msgid ""
-#| "Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a +1/"
-#| "+1 counter on it."
 msgid ""
 "Whenever Thriving Rhino attacks, you may pay |energy|\\ |energy|. If you do, "
 "put a +1/+1 counter on it."
@@ -2911,6 +2939,8 @@ msgid ""
 "Whenever Empyreal Voyager deals combat damage to a player, you get that many "
 "|energy| (energy counters)."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, przyjmij tyle samo |energy|"
+" (znaczników energii)."
 
 #: ../../KLD.rst:970
 msgid ""
@@ -3042,28 +3072,20 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1007
-#, fuzzy
-#| msgid ""
-#| "When Eddytrail Hawk enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Voltaic Brawler enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\|energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:1009
-#, fuzzy
-#| msgid ""
-#| "Whenever Eddytrail Hawk attacks, you may pay {E}. If you do, another "
-#| "target attacking creature gains flying until end of turn."
 msgid ""
 "Whenever Voltaic Brawler attacks, you may pay |energy|. If you do, it gets "
 "+1/+1 and gains trample until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |energy|. Jeśli tak zrobisz, "
-"inny wskazany atakujący stwór zyskuje latanie do końca tury."
+"dostaje on do końca tury +1/+1 oraz tratowanie."
 
 #: ../../KLD.rst:1016
 msgid ""
@@ -3073,27 +3095,20 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1013
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Whirler Virtuoso enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy|\\ "
+"|energy| (trzy znaczniki energii)."
 
 #: ../../KLD.rst:1015
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_w|: Create a 1/1 colorless Servo artifact creature token."
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|: Create a 1/1 colorless Thopter artifact "
 "creature token with flying."
 msgstr ""
-"|mana_3|\\ |mana_w|: Stwórz żeton bezkolorwego artefaktycznego stwora Serwo "
-"1/1."
+"Zapłać |energy|\\ |energy|\\ |energy|: Stwórz żeton bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../KLD.rst:1020
 msgid ""
@@ -3131,6 +3146,8 @@ msgid ""
 "Whenever a permanent you control is put into a graveyard, you get |energy| "
 "(an energy counter)."
 msgstr ""
+"Ilekroć permanent pod twoim władaniem zostanie umieszczony w cmentarzu, "
+"przyjmij |energy| (znacznik energii)."
 
 #: ../../KLD.rst:1031
 msgid ""
@@ -3139,6 +3156,10 @@ msgid ""
 "them without paying its mana cost. Put the rest on the bottom of your "
 "library in a random order."
 msgstr ""
+"|tap|, zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ "
+"|energy|: Spójrz na sześć wierzchnich kart twojej biblioteki. Możesz rzucić "
+"kartę spośród nich bez płacenia jej kosztu many. Umieść pozostałe na spodzie "
+"twojej biblioteki w losowej kolejności."
 
 #: ../../KLD.rst:1038
 msgid ""
@@ -3295,15 +3316,11 @@ msgid "Deadlock Trap enters the battlefield tapped."
 msgstr ""
 
 #: ../../KLD.rst:1095
-#, fuzzy
-#| msgid ""
-#| "When Eddytrail Hawk enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Deadlock Trap enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\|energy| (dwa "
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:1097
@@ -3311,6 +3328,8 @@ msgid ""
 "|tap|, Pay |energy|: Tap target creature or planeswalker. Its activated "
 "abilities can't be activated this turn."
 msgstr ""
+"|tap|, zapłać |energy|: Przekręć wskazanego stwora lub wędrowca. Jego "
+"aktywowane zdolności nie mogą być aktywowane w tej turze."
 
 #: ../../KLD.rst:1104
 msgid ""
@@ -3320,16 +3339,12 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1101
-#, fuzzy
-#| msgid ""
-#| "Whenever Aetherstorm Roc or another creature enters the battlefield under "
-#| "your control, you get {E} (an energy counter)."
 msgid ""
 "Whenever a creature enters the battlefield under your control, you get |"
 "energy| (an energy counter)."
 msgstr ""
-"Ilekroć ta karta lub inny stwór wejdzie na pole walki pod twoim władaniem, "
-"dostajesz |energy| (znacznik energii)."
+"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, przyjmij |energy| ("
+"znacznik energii)."
 
 #: ../../KLD.rst:1103
 msgid ""
@@ -3378,12 +3393,16 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, przyjmij |energy|\\ |energy| (dwa "
+"znaczniki energii)."
 
 #: ../../KLD.rst:1119
 msgid ""
 "|tap|, Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|: Dynavolt "
 "Tower deals 3 damage to any target."
 msgstr ""
+"|tap|, zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|: Ten "
+"artefakt zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../KLD.rst:1124
 msgid ""
@@ -3410,22 +3429,20 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1127
-#, fuzzy
-#| msgid ""
-#| "When Eddytrail Hawk enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Electrostatic Pummeler enters the battlefield, you get |energy|\\ |"
 "energy|\\ |energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\|energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy|\\|energy|"
+" (trzy znaczniki energii)."
 
 #: ../../KLD.rst:1129
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|: Electrostatic Pummeler gets +X/+X until "
 "end of turn, where X is its power."
 msgstr ""
+"Zapłać |energy|\\ |energy|\\ |energy|: Ten stwór dostaje do końca tury +X/+"
+"X, gdzie X jest jego siłą."
 
 #: ../../KLD.rst:1136
 msgid ""
@@ -3439,10 +3456,12 @@ msgid ""
 "Whenever you get one or more |energy| (energy counters), put a +1/+1 counter "
 "on target creature you control."
 msgstr ""
+"Ilekroć przyjmiesz jeden lub więcej |energy| (znaczników energii), umieść "
+"znacznik +1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../KLD.rst:1135
 msgid "|mana_4|, |tap|: You get |energy|."
-msgstr ""
+msgstr "|mana_4|, |tap|: Przyjmij |energy|."
 
 #: ../../KLD.rst:1142
 msgid ""
@@ -3539,26 +3558,25 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1169
-#, fuzzy
-#| msgid ""
-#| "When Eager Construct enters the battlefield, each player may scry 1. (To "
-#| "scry 1, look at the top card of your library, then you may put that card "
-#| "on the bottom of your library.)"
 msgid ""
 "When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get |"
 "energy|\\ |energy|. (You get two energy counters. To scry 2, look at the top "
 "two cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy gracz może wróżyć 1. (By wróżyć "
-"1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz umieścić "
-"ową kartę na spodzie twojej biblioteki.)"
+"Kiedy ten artefakt wejdzie na pole walki, wróż 2, następnie przyjmij |energy|"
+"\\ |energy|. (Dostajesz dwa znaczniki energii. By wróżyć 2, spójrz na dwie "
+"wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę na "
+"spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../KLD.rst:1171
 msgid ""
 "|mana_2|\\ |mana_u|, Sacrifice Glassblower's Puzzleknot: Scry 2, then you "
 "get |energy|\\ |energy|."
 msgstr ""
+"|mana_2|\\ |mana_u|, poświęć ten artefakt: Wróż 2, następnie przyjmij "
+"|energy|\\ |energy|."
 
 #: ../../KLD.rst:1180
 msgid ""
@@ -3656,28 +3674,24 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1207
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Multiform Wonder enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\ |energy|\\ "
+"|energy| (trzy znaczniki energii)."
 
 #: ../../KLD.rst:1209
 msgid ""
 "Pay |energy|: Multiform Wonder gains your choice of flying, vigilance, or "
 "lifelink until end of turn."
 msgstr ""
+"Zapłać |energy|: Ten stwór zyskuje do końca tury wybraną przez ciebie "
+"zdolność spośród latania, czujności i więzi życia."
 
 #: ../../KLD.rst:1211
-#, fuzzy
-#| msgid "Creatures you control get +2/+1 until end of turn."
 msgid "Pay |energy|: Multiform Wonder gets +2/-2 or -2/+2 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
+msgstr "Zapłać |energy|: Ten stwór dostaje do końca tury +2/-2 lub -2/+2."
 
 #: ../../KLD.rst:1216
 msgid ""
@@ -3902,12 +3916,16 @@ msgid ""
 "When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get "
 "|energy|\\ |energy|\\ |energy| (three energy counters)."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, zyskaj 3 życia i przyjmij |energy|"
+"\\ |energy|\\ |energy| (trzy znaczniki energii)."
 
 #: ../../KLD.rst:1303
 msgid ""
 "|mana_2|\\ |mana_g|, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and "
 "get |energy|\\ |energy|\\ |energy|."
 msgstr ""
+"|mana_2|\\ |mana_g|, poświęć ten artefakt: Zyskaj 3 życia i przyjmuj |energy|"
+"\\ |energy|\\ |energy|."
 
 #: ../../KLD.rst:1308
 msgid ""
@@ -3930,15 +3948,10 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1311
-#, fuzzy
-#| msgid ""
-#| "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
-#| "counters)."
 msgid ""
 "When Aether Hub enters the battlefield, you get |energy| (an energy counter)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
-"znaczniki energii)."
+"Kiedy ten ląd wejdzie na pole walki, przyjmij |energy| (znacznik energii)."
 
 #: ../../KLD.rst:1313 ../../KLD.rst:1345 ../../KLD.rst:1351
 msgid "|tap|: Add |colorless|."
