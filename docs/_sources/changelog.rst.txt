@@ -3,6 +3,10 @@
 Spis zmian
 ***********
 
+2020-02-14
+   * Kaladesh - 100%
+   * Zmiana znaczników postępu tłumaczeń
+
 2020-02-23
    * Aether Revolt - 100%
    * Kaladesh - 50%
