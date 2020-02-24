@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:26+0000\n"
+"PO-Revision-Date: 2020-02-24 14:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/kld/"
 "pl/>\n"
@@ -2735,6 +2735,8 @@ msgid ""
 "|mana_4|\\ |mana_g|, |tap|: Create an X/X colorless Construct artifact "
 "creature token, where X is the number of creatures you control."
 msgstr ""
+"|mana_4|\\ |mana_g|, |tap|: Stwórz żeton bezkolorowego artefaktowego stwora "
+"Konstrukt X/X, gdzie X jest liczbą stworów pod twoim władaniem."
 
 #: ../../KLD.rst:878
 msgid ""
@@ -2809,11 +2811,11 @@ msgstr ""
 
 #: ../../KLD.rst:901
 msgid "Take Down deals 4 damage to target creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi z lataniem 4 obrażenia."
 
 #: ../../KLD.rst:903
 msgid "Take Down deals 1 damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z lataniem po 1 obrażeniu."
 
 #: ../../KLD.rst:910
 msgid ""
@@ -2850,6 +2852,8 @@ msgid ""
 "When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 "
 "counters among any number of target creatures you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, rozmieść cztery znaczniki +1/+1 "
+"pomiędzy dowolną liczbę wskazanych stworów pod twoim władaniem."
 
 #: ../../KLD.rst:920
 msgid ""
@@ -2864,6 +2868,9 @@ msgid ""
 "basic land card, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu walki, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../KLD.rst:924
 msgid ""
@@ -2876,6 +2883,8 @@ msgstr ""
 msgid ""
 "Return X target cards from your graveyard to your hand. Exile Wildest Dreams."
 msgstr ""
+"Przywróć X wskazanych kart z twojego cmentarza do twojej ręki. Wygnaj "
+"niniejszy czar."
 
 #: ../../KLD.rst:928
 msgid ""
@@ -2889,6 +2898,8 @@ msgid ""
 "|mana_2|\\ |mana_g|: Wily Bandar gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"|mana_2|\\ |mana_g|: Ten stwór zyskuje niezniszczalność do końca tury. ("
+"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../KLD.rst:934
 msgid ""
@@ -2901,6 +2912,7 @@ msgstr ""
 msgid ""
 "When Cloudblazer enters the battlefield, you gain 2 life and draw two cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia i dobierz dwie karty."
 
 #: ../../KLD.rst:940
 msgid ""
@@ -2915,7 +2927,7 @@ msgstr "Więź życia"
 
 #: ../../KLD.rst:939
 msgid "Whenever an artifact enters the battlefield under your control, scry 1."
-msgstr ""
+msgstr "Ilekroć artefakt wejdzie na pole walki pod twoim władaniem, wróż 1."
 
 #: ../../KLD.rst:948
 msgid ""
@@ -2926,11 +2938,11 @@ msgstr ""
 
 #: ../../KLD.rst:943
 msgid "Other Dwarves you control get +1/+1."
-msgstr ""
+msgstr "Inne Krasnoludy pod twoim władaniem dostają +1/+1."
 
 #: ../../KLD.rst:945
 msgid "Each Vehicle you control gets +1/+1 as long as it's a creature."
-msgstr ""
+msgstr "Każdy Pojazd pod twoim władaniem dostaje +1/+1 o ile jest stworem."
 
 #: ../../KLD.rst:947
 msgid ""
@@ -2939,6 +2951,10 @@ msgid ""
 "from among them into your hand, then put the rest on the bottom of your "
 "library in a random order."
 msgstr ""
+"Ilekroć ten stwór zostanie przekręcony, możesz zapłacić |mana_x|. Jeśli tak "
+"zrobisz, ujawnij X wierzchnich kart twojej biblioteki, umieść spośród nich "
+"wszystkie karty typu Krasnolud i Pojazd w twojej ręce, następnie umieść "
+"pozostałe na spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../KLD.rst:956
 msgid ""
@@ -2952,16 +2968,20 @@ msgid ""
 "+1: Until your next turn, up to one target creature gets -3/-0 and its "
 "activated abilities can't be activated."
 msgstr ""
+"+1: Do twojej następnej tury, co najwyżej jeden wskazany stwór dostaje -3/-0 "
+"i jego aktywowane zdolności nie mogą być aktywowane."
 
 #: ../../KLD.rst:953
 msgid "−1: You gain 2 life and draw a card."
-msgstr ""
+msgstr "–1: Zyskaj 2 życia i dobierz kartę."
 
 #: ../../KLD.rst:955
 msgid ""
 "−7: You get an emblem with \"Your opponents can't untap more than two "
 "permanents during their untap steps.\""
 msgstr ""
+"–7: Dostajesz emblemat o treści \"Twoi przeciwnicy nie mogą odkręcić więcej "
+"niż dwóch permanentów podczas swoich kroków odkręcania.\""
 
 #: ../../KLD.rst:962
 msgid ""
@@ -2991,11 +3011,11 @@ msgstr ""
 
 #: ../../KLD.rst:967
 msgid "Target creature gets +5/+5 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +5/+5 oraz tratowanie."
 
 #: ../../KLD.rst:969
 msgid "Creatures you control get +2/+2 and gain vigilance until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+2 oraz czujność."
 
 #: ../../KLD.rst:974
 msgid ""
@@ -3006,7 +3026,7 @@ msgstr ""
 
 #: ../../KLD.rst:973
 msgid "Creatures with no counters on them get -2/-2 until end of turn."
-msgstr ""
+msgstr "Stwory nie mające znaczników dostają do końca tury -2/-2."
 
 #: ../../KLD.rst:978
 msgid ""
@@ -3021,6 +3041,8 @@ msgid ""
 "Whenever an opponent casts a noncreature spell, that player loses 2 life and "
 "you gain 2 life."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar nie będący stworem, ów gracz traci 2 życia, a "
+"ty zyskaj 2 życia."
 
 #: ../../KLD.rst:982
 msgid ""
@@ -3036,6 +3058,10 @@ msgid ""
 "spell's, you may cast it without paying its mana cost. If you don't cast the "
 "revealed card, put it into your hand."
 msgstr ""
+"Ilekroć rzucisz swój pierwszy czar w danej turze, ujawnij wierzchnią kartę "
+"twojej biblioteki. Jeśli jest to nielądowa karta o mniejszym skróconym "
+"koszcie many niż ów czar, możesz rzucić ją bez płacenia jej kosztu many. "
+"Jeśli nie rzucisz ujawnionej karty, umieść ją w twojej ręce."
 
 #: ../../KLD.rst:986
 msgid ""
@@ -3049,6 +3075,8 @@ msgid ""
 "When Restoration Gearsmith enters the battlefield, return target artifact or "
 "creature card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę artefaktu lub "
+"stwora z twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:994
 msgid ""
@@ -3059,7 +3087,7 @@ msgstr ""
 
 #: ../../KLD.rst:989
 msgid "+1: Scry 1. Saheeli Rai deals 1 damage to each opponent."
-msgstr ""
+msgstr "+1: Wróż 1. Ten wędrowiec zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../KLD.rst:991
 msgid ""
@@ -3067,12 +3095,17 @@ msgid ""
 "except it's an artifact in addition to its other types. That token gains "
 "haste. Exile it at the beginning of the next end step."
 msgstr ""
+"–2: Stwórz żeton będący kopią wskazanego artefaktu lub stwora pod twoim "
+"władaniem, ale jest on dodatkowo artefaktem oprócz swoich innych typów. Ów "
+"żeton zyskuje pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../KLD.rst:993
 msgid ""
 "−7: Search your library for up to three artifact cards with different names, "
 "put them onto the battlefield, then shuffle your library."
 msgstr ""
+"–7: Wyszukaj w twojej bibliotece co najwyżej trzy karty artefaktów o różnych "
+"nazwach, umieść je na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../KLD.rst:998
 msgid ""
@@ -3086,6 +3119,8 @@ msgid ""
 "Destroy target creature. If you control an artifact, Unlicensed "
 "Disintegration deals 3 damage to that creature's controller."
 msgstr ""
+"Zniszcz wskazanego stwora. Jeśli władasz artefaktem, ten czar zadaje władcy "
+"owego stwora 3 obrażenia."
 
 #: ../../KLD.rst:1004
 msgid ""
@@ -3096,13 +3131,14 @@ msgstr ""
 
 #: ../../KLD.rst:1001
 msgid "When Veteran Motorist enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 2."
 
 #: ../../KLD.rst:1003
 msgid ""
 "Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end "
 "of turn."
 msgstr ""
+"Ilekroć ten stwór załoguje Pojazd, ów Pojazd dostaje do końca tury +1/+1."
 
 #: ../../KLD.rst:1010
 msgid ""
@@ -3169,10 +3205,11 @@ msgid ""
 "Whenever you cast a spell, you gain 1 life for each spell you've cast this "
 "turn."
 msgstr ""
+"Ilekroć rzucisz czar, zyskaj po 1 życiu za każdy czar rzucony w tej turze."
 
 #: ../../KLD.rst:1025
 msgid "Pay 50 life: Aetherflux Reservoir deals 50 damage to any target."
-msgstr ""
+msgstr "Zapłać 50 żyć: Ten artefakt zadaje wskazanemu celowi 50 obrażeń."
 
 #: ../../KLD.rst:1032
 msgid ""
@@ -3214,12 +3251,17 @@ msgid ""
 "may pay |mana_1|. If you do, create a 1/1 colorless Servo artifact creature "
 "token."
 msgstr ""
+"Ilekroć jeden lub więcej znaczników +1/+1 zostanie umieszczonych na "
+"permanencie pod twoim władaniem, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1."
 
 #: ../../KLD.rst:1037
 msgid ""
 "|mana_3|, |tap|: Choose a counter on target permanent or player. Give that "
 "permanent or player another counter of that kind."
 msgstr ""
+"|mana_3|, |tap|: Wybierz znacznik na wskazanym permanencie lub graczu. "
+"Umieść tam kolejny znacznik tego rodzaju."
 
 #: ../../KLD.rst:1044
 msgid ""
@@ -3245,7 +3287,7 @@ msgstr ""
 
 #: ../../KLD.rst:1047
 msgid "Whenever Ballista Charger attacks, it deals 1 damage to any target."
-msgstr ""
+msgstr "Ilekroć ten pojazd atakuje, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../KLD.rst:1049 ../../KLD.rst:1059 ../../KLD.rst:1089 ../../KLD.rst:1271
 msgid ""
@@ -3264,7 +3306,7 @@ msgstr ""
 
 #: ../../KLD.rst:1053
 msgid "|mana_w|: Bastion Mastodon gains vigilance until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten pojazd zyskuje czujność do końca tury."
 
 #: ../../KLD.rst:1060
 msgid ""
@@ -3275,7 +3317,7 @@ msgstr ""
 
 #: ../../KLD.rst:1057
 msgid "When Bomat Bazaar Barge enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
 
 #: ../../KLD.rst:1068
 msgid ""
@@ -3289,12 +3331,16 @@ msgid ""
 "Whenever Bomat Courier attacks, exile the top card of your library face "
 "down. (You can't look at it.)"
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wygnaj zakrytą wierzchnią kartę twojej "
+"biblioteki. (Nie możesz na nią patrzeć.)"
 
 #: ../../KLD.rst:1067
 msgid ""
 "|mana_r|, Discard your hand, Sacrifice Bomat Courier: Put all cards exiled "
 "with Bomat Courier into their owners' hands."
 msgstr ""
+"|mana_r|, odrzuć twoją rękę, poświęć tego stwora: Umieść wszystkie karty "
+"wygnane tym stworem w rękach ich właścicieli."
 
 #: ../../KLD.rst:1072
 msgid ""
@@ -3319,12 +3365,16 @@ msgid ""
 "When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless "
 "Servo artifact creature token."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, stwórz żeton bezkolorowego "
+"artefaktowego stwora Serwo 1/1."
 
 #: ../../KLD.rst:1077
 msgid ""
 "|mana_1|\\ |mana_w|, Sacrifice Cogworker's Puzzleknot: Create a 1/1 "
 "colorless Servo artifact creature token."
 msgstr ""
+"|mana_1|\\ |mana_w|, poświęć ten artefakt: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Serwo 1/1."
 
 #: ../../KLD.rst:1084
 msgid ""
@@ -3353,14 +3403,14 @@ msgstr ""
 
 #: ../../KLD.rst:1093
 msgid "Deadlock Trap enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole walki."
 
 #: ../../KLD.rst:1095
 msgid ""
 "When Deadlock Trap enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przyjmij |energy|\\|energy| (dwa "
+"Kiedy ten artefakt wejdzie na pole walki, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:1097
@@ -3390,6 +3440,8 @@ msgstr ""
 msgid ""
 "|mana_4|, |tap|: Return target creature you control to its owner's hand."
 msgstr ""
+"|mana_4|, |tap|: Przywróć wskazanego stwora pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../KLD.rst:1110
 msgid ""
@@ -3400,7 +3452,7 @@ msgstr ""
 
 #: ../../KLD.rst:1107
 msgid "Demolition Stomper can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten pojazd nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../KLD.rst:1109
 msgid ""
@@ -3419,7 +3471,7 @@ msgstr ""
 
 #: ../../KLD.rst:1113
 msgid "|mana_u|: Dukhara Peafowl gains flying until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór zyskuje latanie do końca tury."
 
 #: ../../KLD.rst:1120
 msgid ""
@@ -3530,12 +3582,16 @@ msgid ""
 "When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to "
 "any target."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, zadaje on wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../KLD.rst:1147
 msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to "
 "any target."
 msgstr ""
+"|mana_2|\\ |mana_r|, poświęć ten artefakt: Zadaje on wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../KLD.rst:1156
 msgid ""
@@ -3553,6 +3609,8 @@ msgid ""
 "When Fleetwheel Cruiser enters the battlefield, it becomes an artifact "
 "creature until end of turn."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, do końca tury staje się "
+"artefaktowym stworem."
 
 #: ../../KLD.rst:1155 ../../KLD.rst:1247
 msgid ""
@@ -3571,7 +3629,7 @@ msgstr ""
 
 #: ../../KLD.rst:1159
 msgid "Artifact spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów artefaktów kosztuje cię o |mana_1| mniej."
 
 #: ../../KLD.rst:1166
 msgid ""
@@ -3582,13 +3640,15 @@ msgstr ""
 
 #: ../../KLD.rst:1163
 msgid "Each player may play an additional land on each of their turns."
-msgstr ""
+msgstr "Każdy gracz może w swojej turze zagrać dodatkowy ląd."
 
 #: ../../KLD.rst:1165
 msgid ""
 "At the beginning of each player's upkeep, if that player has no cards in "
 "hand, that player draws three cards."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, jeśli ów gracz nie ma kart w "
+"ręce, ów gracz dobiera trzy karty."
 
 #: ../../KLD.rst:1172
 msgid ""
@@ -3634,6 +3694,8 @@ msgid ""
 "Whenever an Artificer enters the battlefield under your control, you may "
 "attach Inventor's Goggles to it."
 msgstr ""
+"Ilekroć Wynalazca wejdzie na pole walki pod twoim władaniem, możesz dołączyć "
+"do niego ten artefakt."
 
 #: ../../KLD.rst:1179 ../../KLD.rst:1289
 msgid ""
@@ -3661,12 +3723,16 @@ msgstr ""
 msgid ""
 "|tap|, Discard a card: Up to one target creature can't be blocked this turn."
 msgstr ""
+"|tap|, odrzuć kartę: Co najwyżej jeden wskazany stwór nie może być blokowany "
+"w tej turze."
 
 #: ../../KLD.rst:1191
 msgid ""
 "Whenever Key to the City becomes untapped, you may pay |mana_2|. If you do, "
 "draw a card."
 msgstr ""
+"Ilekroć ten artefakt zostanie odkręcony, możesz zapłacić |mana_2|. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../KLD.rst:1198
 msgid ""
@@ -3680,12 +3746,14 @@ msgid ""
 "When Metalspinner's Puzzleknot enters the battlefield, you draw a card and "
 "you lose 1 life."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, dobierz kartę i strać 1 życie."
 
 #: ../../KLD.rst:1197
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card "
 "and you lose 1 life."
 msgstr ""
+"|mana_2|\\ |mana_b|, poświęć ten artefakt: Dobierz kartę i strać 1 życie."
 
 #: ../../KLD.rst:1204
 msgid ""
@@ -3699,12 +3767,15 @@ msgid ""
 "This spell costs |mana_x| less to cast, where X is the total converted mana "
 "cost of noncreature artifacts you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą skróconych "
+"kosztów many artefaktów pod twoim władaniem nie będących stworami."
 
 #: ../../KLD.rst:1203
 msgid ""
 "Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to "
 "your hand."
 msgstr ""
+"Poświęć dwa artefakty: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:1212
 msgid ""
@@ -3745,6 +3816,8 @@ msgid ""
 "|mana_g|: Narnam Cobra gains deathtouch until end of turn. (Any amount of "
 "damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"|mana_g|: Ten stwór zyskuje dotyk śmierci do końca tury. (Stwór otrzymujący "
+"od niego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../KLD.rst:1222
 msgid ""
@@ -3774,6 +3847,8 @@ msgid ""
 "ability of a permanent you control to trigger, that ability triggers an "
 "additional time."
 msgstr ""
+"Jeśli wejście na pole walki artefaktu lub stwora wyzwoli zdolność wyzwalaną "
+"permanentu pod twoim władaniem, owa zdolność jest wyzwalana dodatkowy raz."
 
 #: ../../KLD.rst:1232
 msgid ""
@@ -3785,12 +3860,15 @@ msgstr ""
 #: ../../KLD.rst:1229
 msgid "|tap|: Put the top two cards of your library into your graveyard."
 msgstr ""
+"|tap|: Umieść dwie wierzchnie karty twojej biblioteki w twoim cmentarzu."
 
 #: ../../KLD.rst:1231
 msgid ""
 "|mana_2|, Exile Perpetual Timepiece: Shuffle any number of target cards from "
 "your graveyard into your library."
 msgstr ""
+"|mana_2|, wygnaj ten artefakt: Wtasuj dowolną liczbę wskazanych kart z "
+"twojego cmentarza do twojej biblioteki."
 
 #: ../../KLD.rst:1236
 msgid ""
@@ -3804,6 +3882,8 @@ msgid ""
 "|mana_b|: Prakhata Pillar-Bug gains lifelink until end of turn. (Damage "
 "dealt by this creature also causes you to gain that much life.)"
 msgstr ""
+"|mana_b|: Ten stwór zyskuje więź życia do końca tury. (Obrażania zadane "
+"przez tego stwora powodują, że zyskujesz tyle samo żyć.)"
 
 #: ../../KLD.rst:1242
 msgid ""
@@ -3832,6 +3912,7 @@ msgid ""
 "Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample until "
 "end of turn."
 msgstr ""
+"Ilekroć ten pojazd zaatakuje, dostaje do końca tury +1/+1 oraz tratowanie."
 
 #: ../../KLD.rst:1254
 msgid ""
@@ -3842,13 +3923,15 @@ msgstr ""
 
 #: ../../KLD.rst:1251
 msgid "Scrapheap Scrounger can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../KLD.rst:1253
 msgid ""
 "|mana_1|\\ |mana_b|, Exile another creature card from your graveyard: Return "
 "Scrapheap Scrounger from your graveyard to the battlefield."
 msgstr ""
+"|mana_1|\\ |mana_b|, wygnaj inną kartę stwora z twojego cmentarza: Przywróć "
+"niniejszą kartę z twojego cmentarza na pole walki."
 
 #: ../../KLD.rst:1258
 msgid ""
@@ -3863,6 +3946,9 @@ msgid ""
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę stwora typu Składacz, ujawnij ją, umieść ją w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../KLD.rst:1264
 msgid ""
@@ -3884,6 +3970,8 @@ msgid ""
 "Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it "
 "deals 3 damage to target creature or planeswalker an opponent controls."
 msgstr ""
+"Ilekroć ten pojazd wejdzie na pole walki lub zaatakuje, zadaje on wskazanemu "
+"stworowi lub wędrowcowi pod władaniem przeciwnika 3 obrażenia."
 
 #: ../../KLD.rst:1280
 msgid ""
@@ -3897,6 +3985,8 @@ msgid ""
 "Whenever Smuggler's Copter attacks or blocks, you may draw a card. If you "
 "do, discard a card."
 msgstr ""
+"Ilekroć ten pojazd zaatakuje lub zablokuje, możesz dobrać kartę. Jeśli tak "
+"zrobisz, odrzuć kartę."
 
 #: ../../KLD.rst:1284
 msgid ""
@@ -3929,7 +4019,7 @@ msgstr ""
 
 #: ../../KLD.rst:1293
 msgid "|mana_r|: Weldfast Monitor gains menace until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje złowrogość do końca tury."
 
 #: ../../KLD.rst:1298
 msgid ""
@@ -3943,6 +4033,8 @@ msgid ""
 "|mana_4|, |tap|: Create a 1/1 colorless Thopter artifact creature token with "
 "flying."
 msgstr ""
+"|mana_4|, |tap|: Stwórz żeton bezkolorowego artefaktycznego stwora Topter 1/"
+"1 z lataniem."
 
 #: ../../KLD.rst:1304
 msgid ""
@@ -3979,6 +4071,8 @@ msgid ""
 "When Workshop Assistant dies, return another target artifact card from your "
 "graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć inną wskazaną kartę artefaktu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../KLD.rst:1316
 msgid ""
@@ -4009,6 +4103,8 @@ msgid ""
 "Blooming Marsh enters the battlefield tapped unless you control two or fewer "
 "other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../KLD.rst:1321
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4026,6 +4122,8 @@ msgid ""
 "Botanical Sanctum enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../KLD.rst:1327 ../../KLD.rst:1433
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -4043,6 +4141,8 @@ msgid ""
 "Concealed Courtyard enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../KLD.rst:1333
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -4060,6 +4160,8 @@ msgid ""
 "Inspiring Vantage enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../KLD.rst:1339 ../../KLD.rst:1405
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -4077,6 +4179,8 @@ msgid ""
 "At the beginning of your upkeep, if you control three or more artifacts, you "
 "gain 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
+"artefaktami, zyskaj 1 życie."
 
 #: ../../KLD.rst:1347
 msgid ""
@@ -4084,6 +4188,10 @@ msgid ""
 "artifact card, reveal it, put it into your hand, then shuffle your library. "
 "Activate this ability only if you control three or more artifacts."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"artefaktu, ujawnij ją, umieść ją w twojej ręce, następnie przetasuj twoją "
+"bibliotekę. Możesz aktywować tę zdolność tylko jeśli władasz co najmniej "
+"trzema artefaktami."
 
 #: ../../KLD.rst:1354
 msgid ""
@@ -4098,6 +4206,9 @@ msgid ""
 "library into your graveyard. Then you may put an artifact card from your "
 "graveyard on top of your library."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten ląd: Umieść pięć wierzchnich kart twojej "
+"biblioteki w twoim cmentarzu. Następnie możesz umieścić kartę artefaktu z "
+"twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../KLD.rst:1360
 msgid ""
@@ -4111,6 +4222,8 @@ msgid ""
 "Spirebluff Canal enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../KLD.rst:1359
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4180,17 +4293,19 @@ msgstr ""
 
 #: ../../KLD.rst:1383
 msgid "+2: Chandra, Pyrogenius deals 2 damage to each opponent."
-msgstr ""
+msgstr "+2: Ten wędrowiec zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../KLD.rst:1385
 msgid "−3: Chandra, Pyrogenius deals 4 damage to target creature."
-msgstr ""
+msgstr "–3: Ten wędrowiec zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../KLD.rst:1387
 msgid ""
 "−10: Chandra, Pyrogenius deals 6 damage to target player or planeswalker and "
 "each creature that player or that planeswalker's controller controls."
 msgstr ""
+"–10: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi oraz każdemu "
+"stworowi pod władaniem owego gracza lub władcy owego wędrowca po 6 obrażeń."
 
 #: ../../KLD.rst:1392
 msgid ""
@@ -4201,7 +4316,7 @@ msgstr ""
 
 #: ../../KLD.rst:1391
 msgid "Flame Lash deals 4 damage to any target."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../KLD.rst:1396
 msgid ""
@@ -4216,6 +4331,10 @@ msgid ""
 "library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, "
 "and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 6 obrażeń. Możesz wyszukać w twojej "
+"bibliotece i/lub cmentarzu kartę o nazwie Chandra, Pyrogenius, ujawnij ją i "
+"umieść ją w twojej ręce. Jeśli przeszukałeś twoją bibliotekę w ten sposób, "
+"przetasuj ją."
 
 #: ../../KLD.rst:1400
 msgid ""
@@ -4230,6 +4349,8 @@ msgid ""
 "and has first strike. (It deals combat damage before creatures without first "
 "strike.)"
 msgstr ""
+"O ile władasz wędrowcem typu Chandra, ten stwór dostaje +1/+0 i ma pierwszy "
+"cios. (Zadaje obrażenia bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../KLD.rst:1406
 msgid ""
@@ -4251,18 +4372,21 @@ msgstr ""
 
 #: ../../KLD.rst:1409
 msgid "+3: You gain 3 life."
-msgstr ""
+msgstr "+3: Zyskaj 3 życia."
 
 #: ../../KLD.rst:1411
 msgid ""
 "−4: Reveal the top two cards of your library. Put all land cards from among "
 "them onto the battlefield and the rest into your hand."
 msgstr ""
+"–4: Ujawnij dwie wierzchnie karty twojej biblioteki. Umieść spośród nich "
+"wszystkie karty lądów na polu walki, a pozostałe w twojej ręce."
 
 #: ../../KLD.rst:1413
 msgid ""
 "−12: Creatures you control get +5/+5 and gain trample until end of turn."
 msgstr ""
+"–12: Stwory pod twoim władaniem dostają do końca tury +5/+5 i tratowanie."
 
 #: ../../KLD.rst:1420
 msgid ""
@@ -4277,6 +4401,8 @@ msgid ""
 "As long as you control a Nissa planeswalker, Guardian of the Great Conduit "
 "gets +2/+0 and has vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
+"O ile władasz wędrowcem typu Nissa, ten stwór dostaje +2+/+0 i ma czujność. ("
+"Atakowanie nie przekręca go.)"
 
 #: ../../KLD.rst:1422
 msgid ""
@@ -4298,6 +4424,10 @@ msgid ""
 "tapped. Search your library and graveyard for a card named Nissa, Nature's "
 "Artisan, reveal it, and put it into your hand. Then shuffle your library."
 msgstr ""
+"Wysuzkaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu walki. Wyszukaj w twojej bibliotece i cmentarzu kartę o nazwie Nissa, "
+"Nature's Artisan, ujawnij ją i umieść w twojej ręce. Następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../KLD.rst:1433
 msgid ""
