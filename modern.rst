@@ -33,35 +33,35 @@ Format :doc:`Pionier<pioneer>` jest podzbiorem formatu Modern.
 Dodatki poza Pionierem
 ----------------------
 
-* :mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|
-* :mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|
+* :mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p30|
+* :mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p20|
 * :mtgexp:`ISD` :doc:`Innistrad<ISD>` |p25|
-* :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p25|
-* :mtgexp:`MBS` :doc:`Mirrodin Besieged<MBS>` |p25|
-* :mtgexp:`SOM` :doc:`Scars of Mirrodin<SOM>` |p25|
+* :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p15|
+* :mtgexp:`MBS` :doc:`Mirrodin Besieged<MBS>` |p15|
+* :mtgexp:`SOM` :doc:`Scars of Mirrodin<SOM>` |p15|
 * :mtgexp:`ROE` :doc:`Rise of the Eldrazi<ROE>` |p25|
-* :mtgexp:`WWK` :doc:`Worldwake<WWK>` |p25|
-* :mtgexp:`ZEN` :doc:`Zendikar<ZEN>` |p25|
-* :mtgexp:`ARB` :doc:`Alara Reborn<ARB>` |p25|
-* :mtgexp:`CON` :doc:`Conflux<CON>` |p25|
-* :mtgexp:`ALA` :doc:`Shards of Alara<ALA>` |p25|
-* :mtgexp:`EVE` :doc:`Eventide<EVE>` |p25|
-* :mtgexp:`SHM` :doc:`Shadowmoor<SHM>` |p25|
-* :mtgexp:`MOR` :doc:`Morningtide<MOR>` |p25|
-* :mtgexp:`LRW` :doc:`Lorwyn<LRW>` |p25|
-* :mtgexp:`FUT` :doc:`Future Sight<FUT>` |p25|
-* :mtgexp:`PLC` :doc:`Planar Chaos<PLC>` |p25|
-* :mtgexp:`TSP` :doc:`Time Spiral<TSP>` |p25|
-* :mtgexp:`CSP` :doc:`Coldsnap<CSP>` |p25|
-* :mtgexp:`DIS` :doc:`Dissension<DIS>` |p25|
-* :mtgexp:`GPT` :doc:`Guildpact<GPT>` |p25|
-* :mtgexp:`RAV` :doc:`Ravnica: City of Guilds<RAV>` |p25|
-* :mtgexp:`SOK` :doc:`Saviors of Kamigawa<SOK>` |p25|
-* :mtgexp:`BOK` :doc:`Betrayers of Kamigawa<BOK>` |p25|
-* :mtgexp:`CHK` :doc:`Champions of Kamigawa<CHK>` |p25|
-* :mtgexp:`5DN` :doc:`Fifth Dawn<5DN>` |p25|
-* :mtgexp:`DST` :doc:`Darksteel<DST>` |p25|
-* :mtgexp:`MRD` :doc:`Mirrodin<MRD>` |p25|
+* :mtgexp:`WWK` :doc:`Worldwake<WWK>` |p15|
+* :mtgexp:`ZEN` :doc:`Zendikar<ZEN>` |p15|
+* :mtgexp:`ARB` :doc:`Alara Reborn<ARB>` |p20|
+* :mtgexp:`CON` :doc:`Conflux<CON>` |p15|
+* :mtgexp:`ALA` :doc:`Shards of Alara<ALA>` |p15|
+* :mtgexp:`EVE` :doc:`Eventide<EVE>` |p10|
+* :mtgexp:`SHM` :doc:`Shadowmoor<SHM>` |p10|
+* :mtgexp:`MOR` :doc:`Morningtide<MOR>` |p10|
+* :mtgexp:`LRW` :doc:`Lorwyn<LRW>` |p10|
+* :mtgexp:`FUT` :doc:`Future Sight<FUT>` |p15|
+* :mtgexp:`PLC` :doc:`Planar Chaos<PLC>` |p10|
+* :mtgexp:`TSP` :doc:`Time Spiral<TSP>` |p10|
+* :mtgexp:`CSP` :doc:`Coldsnap<CSP>` |p10|
+* :mtgexp:`DIS` :doc:`Dissension<DIS>` |p10|
+* :mtgexp:`GPT` :doc:`Guildpact<GPT>` |p20|
+* :mtgexp:`RAV` :doc:`Ravnica: City of Guilds<RAV>` |p20|
+* :mtgexp:`SOK` :doc:`Saviors of Kamigawa<SOK>` |p05|
+* :mtgexp:`BOK` :doc:`Betrayers of Kamigawa<BOK>` |p05|
+* :mtgexp:`CHK` :doc:`Champions of Kamigawa<CHK>` |p10|
+* :mtgexp:`5DN` :doc:`Fifth Dawn<5DN>` |p10|
+* :mtgexp:`DST` :doc:`Darksteel<DST>` |p15|
+* :mtgexp:`MRD` :doc:`Mirrodin<MRD>` |p10|
 
 Edycje bazowe
 -------------
@@ -69,10 +69,10 @@ Edycje bazowe
 * :mtgexp:`M13` :doc:`Magic 2013<M13>` |p25|
 * :mtgexp:`M12` :doc:`Magic 2012<M12>` |p25|
 * :mtgexp:`M11` :doc:`Magic 2011<M11>` |p25|
-* :mtgexp:`M10` :doc:`Magic 2010<M10>` |p25|
-* :mtgexp:`10E` :doc:`Tenth Edition<10E>` |p25|
-* :mtgexp:`9ED` :doc:`Ninth Edition<9ED>` |p25|
-* :mtgexp:`8ED` :doc:`Eighth Edition<8ED>` |p25|
+* :mtgexp:`M10` :doc:`Magic 2010<M10>` |p15|
+* :mtgexp:`10E` :doc:`Tenth Edition<10E>` |p15|
+* :mtgexp:`9ED` :doc:`Ninth Edition<9ED>` |p15|
+* :mtgexp:`8ED` :doc:`Eighth Edition<8ED>` |p15|
 
 
 .. toctree::
