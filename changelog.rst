@@ -3,7 +3,10 @@
 Spis zmian
 ***********
 
-2020-02-14
+2020-02-25
+   * Zaktualizowane tłumaczenia: GRN, RNA
+
+2020-02-24
    * Kaladesh - 100%
    * Zmiana znaczników postępu tłumaczeń
 
