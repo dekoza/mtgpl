@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-20 13:15+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gpt/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../GPT.rst:5
@@ -684,7 +684,7 @@ msgstr ""
 
 #: ../../GPT.rst:255
 msgid "Exile target card from a graveyard."
-msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../GPT.rst:266
 msgid ""
@@ -1556,10 +1556,13 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:591
+#, fuzzy
 msgid ""
 "Whenever a player activates an ability that isn't a mana ability, Burning-"
 "Tree Shaman deals 1 damage to that player."
 msgstr ""
+"Ilekroć gracz rzuci nie-stworowy czar, ten stwór zadaje owemu graczowi 6 "
+"obrażeń."
 
 #: ../../GPT.rst:596
 msgid ""
@@ -2043,7 +2046,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór dostaje +2/+0 do końca tury."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"2/+0."
 
 #: ../../GPT.rst:774
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 14:58+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/a25/"
 "pl/>\n"
@@ -581,7 +581,7 @@ msgstr "Pierwszy cios"
 
 #: ../../A25.rst:189
 msgid "Noncreature spells cost |mana_1| more to cast."
-msgstr "Rzucanie czarów nie będących stworami kosztuje o |mana_1| więcej."
+msgstr "Rzucanie nie-stworowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../A25.rst:194
 msgid ""
@@ -3281,8 +3281,7 @@ msgid ""
 "their draw steps, instead that player skips that draw and you draw a card."
 msgstr ""
 "Jeśli przeciwnik miałby dobrać kartę oprócz pierwszej dobranej w swoim kroku "
-"dobierania, zamiast tego ów gracz pomija owe dobieranie, a ty dobierasz "
-"kartę."
+"dobierania, zamiast tego ów gracz pomija owe dobieranie, a ty dobierz kartę."
 
 #: ../../A25.rst:1112
 msgid ""
@@ -3361,8 +3360,8 @@ msgid ""
 "Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to "
 "that player."
 msgstr ""
-"Ilekroć gracz rzuci czar nie będący stworem, ten stwór zadaje owemu graczowi "
-"6 obrażeń."
+"Ilekroć gracz rzuci nie-stworowy czar, ten stwór zadaje owemu graczowi 6 "
+"obrażeń."
 
 #: ../../A25.rst:1148
 msgid ""

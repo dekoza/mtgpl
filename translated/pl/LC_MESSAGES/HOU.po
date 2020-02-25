@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/hou/"
 "pl/>\n"
@@ -796,9 +796,8 @@ msgid ""
 "Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 "
 "Sphinx creature with flying in addition to its other types until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, możesz sprawić, by ten urok do "
-"końca tury stał się stworem Sfinks 3/3 z lataniem oprócz swoich pozostałych "
-"typów."
+"Ilekroć rzucisz nie-stworowy czar, możesz sprawić, by ten urok do końca tury "
+"stał się stworem Sfinks 3/3 z lataniem oprócz swoich pozostałych typów."
 
 #: ../../HOU.rst:247
 msgid "|mana_2|\\ |mana_u|: Scry 1."
@@ -854,8 +853,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
-"końca tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
+"tury +1/+1.)"
 
 #: ../../HOU.rst:268
 msgid ""
@@ -984,7 +983,7 @@ msgstr ""
 
 #: ../../HOU.rst:305
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../HOU.rst:310
 msgid ""
@@ -1634,8 +1633,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to "
 "each opponent."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, ten stwór zadaje każdemu "
-"przeciwnikowi po 1 obrażeniu."
+"Ilekroć rzucisz nie-stworowy czar, ten stwór zadaje każdemu przeciwnikowi po "
+"1 obrażeniu."
 
 #: ../../HOU.rst:520
 msgid ""
@@ -1779,8 +1778,7 @@ msgstr ""
 #: ../../HOU.rst:565
 msgid ""
 "Whenever you cast a noncreature spell, remove a -1/-1 counter from Magmaroth."
-msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, usuń znacznik -1/-1 z tego stwora."
+msgstr "Ilekroć rzucisz nie-stworowy czar, usuń znacznik -1/-1 z tego stwora."
 
 #: ../../HOU.rst:572
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rix/"
 "pl/>\n"
@@ -44,7 +44,7 @@ msgid ""
 "When Baffling End leaves the battlefield, target opponent creates a 3/3 "
 "green Dinosaur creature token with trample."
 msgstr ""
-"Kiedy ten urok opuści pole bitwy, wskazany przeciwnik tworzy żeton zielonego "
+"Kiedy ten urok opuści pole walki, wskazany przeciwnik tworzy żeton zielonego "
 "stwora Dinozaur 3/3 z tratowaniem."
 
 #: ../../RIX.rst:18
@@ -698,7 +698,7 @@ msgid ""
 "city's blessing, instead only you draw a card."
 msgstr ""
 "Na początku twojego kroku utrzymania, każdy gracz dobiera kartę. Jeśli masz "
-"błogosławieństwo miasta, zamiast tego tylko ty dobierasz kartę."
+"błogosławieństwo miasta, zamiast tego tylko ty dobierz kartę."
 
 #: ../../RIX.rst:232
 msgid ""
@@ -720,7 +720,7 @@ msgstr ""
 
 #: ../../RIX.rst:235
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../RIX.rst:246
 msgid ""
@@ -739,7 +739,7 @@ msgstr "Nie masz limitu kart na ręce."
 
 #: ../../RIX.rst:243
 msgid "Whenever an opponent casts a noncreature spell, draw a card."
-msgstr "Ilekroć przeciwnik rzuci czar nie będący stworem, dobierz kartę."
+msgstr "Ilekroć przeciwnik rzuci nie-stworowy czar, dobierz kartę."
 
 #: ../../RIX.rst:245
 msgid ""
@@ -976,7 +976,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../RIX.rst:335
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../RIX.rst:340
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ogw/"
 "pl/>\n"
@@ -905,7 +905,7 @@ msgstr ""
 
 #: ../../OGW.rst:311
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../OGW.rst:318
 msgid ""
@@ -1028,7 +1028,7 @@ msgstr ""
 
 #: ../../OGW.rst:353
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../OGW.rst:360
 msgid ""
@@ -1133,8 +1133,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
-"końca tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
+"tury +1/+1.)"
 
 #: ../../OGW.rst:394
 msgid ""

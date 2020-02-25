@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 16:19+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/chk/"
 "pl/>\n"
@@ -1109,7 +1109,7 @@ msgstr ""
 
 #: ../../CHK.rst:407
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../CHK.rst:412
 msgid ""
@@ -1603,6 +1603,8 @@ msgid ""
 "Target player reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej nielądową kartę. Ów gracz "
+"odrzuca ową kartę."
 
 #: ../../CHK.rst:598
 msgid ""

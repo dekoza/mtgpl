@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dgm/"
 "pl/>\n"
@@ -328,7 +328,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 # b11b8bdc1868491595ad7792ee959a9b
 #: ../../DGM.rst:89
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../DGM.rst:96
 msgid ""
@@ -1444,7 +1444,7 @@ msgid ""
 "end of turn."
 msgstr ""
 "|mana_r|\\ |mana_w|, wygnaj ten urok: Wygnaj wszystkie stwory pod twoim "
-"władaniem. Na początku najbliższej walki przywróć owe karty na pole bitwy "
+"władaniem. Na początku najbliższej walki przywróć owe karty na pole walki "
 "pod władaniem ich właścicieli. Zyskują one pośpiech do końca tury."
 
 #: ../../DGM.rst:424
@@ -1581,8 +1581,7 @@ msgid ""
 "their draw steps, instead that player skips that draw and you draw a card."
 msgstr ""
 "Jeśli przeciwnik miałby dobrać kartę oprócz pierwszej dobranej w swoim kroku "
-"dobierania, zamiast tego ów gracz pomija owe dobieranie, a ty dobierasz "
-"kartę."
+"dobierania, zamiast tego ów gracz pomija owe dobieranie, a ty dobierz kartę."
 
 #: ../../DGM.rst:462
 msgid ""
@@ -1781,8 +1780,8 @@ msgid ""
 "Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to "
 "that player."
 msgstr ""
-"Ilekroć gracz rzuci czar nie będący stworem, ten stwór zadaje owemu graczowi "
-"6 obrażeń."
+"Ilekroć gracz rzuci nie-stworowy czar, ten stwór zadaje owemu graczowi 6 "
+"obrażeń."
 
 #: ../../DGM.rst:520
 msgid ""
@@ -2243,7 +2242,7 @@ msgstr ""
 #: ../../DGM.rst:643
 msgid ""
 "Whenever a creature enters the battlefield this turn, you may draw a card."
-msgstr "Ilekroć w tej turze wejdzie stwór na pole bitwy, możesz dobrać kartę."
+msgstr "Ilekroć w tej turze wejdzie stwór na pole walki, możesz dobrać kartę."
 
 #: ../../DGM.rst:652
 msgid ""

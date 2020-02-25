@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m20/"
 "pl/>\n"
@@ -1158,7 +1158,7 @@ msgstr ""
 
 #: ../../M20.rst:389
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../M20.rst:394
 msgid ""
@@ -1262,7 +1262,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../M20.rst:419
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../M20.rst:428
 msgid ""
@@ -1396,8 +1396,8 @@ msgid ""
 "Target creature gains deathtouch until end of turn. (Any amount of damage it "
 "deals to a creature is enough to destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury dotyk śmierci (Dowolna ilość obrażeń "
-"zadana stworowi przez tę kartę wystarcza, aby został zniszczony.)"
+"Wskazany stwór zyskuje dotyk śmierci do końca tury. (Stwór otrzymujący od "
+"niego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../M20.rst:480
 msgid ""
@@ -3517,8 +3517,8 @@ msgid ""
 "Whenever you cast a noncreature spell, create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, stwórz żeton białego stwora Duch "
-"1/1 z lataniem."
+"Ilekroć rzucisz nie-stworowy czar, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../M20.rst:1151
 msgid "Sacrifice a Spirit: Add |mana_r|."
@@ -4829,8 +4829,8 @@ msgid ""
 "When Haazda Officer enters the battlefield, target creature you control gets "
 "+1/+1 until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany stwór pod twoim władaniem "
-"dostaje +1/+1 do końca tury."
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"dostaje do końca tury +1/+1."
 
 #: ../../M20.rst:1628
 msgid ""

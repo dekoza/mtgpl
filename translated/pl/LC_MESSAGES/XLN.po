@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:25+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/xln/"
 "pl/>\n"
@@ -1280,8 +1280,7 @@ msgstr ""
 #: ../../XLN.rst:411
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci |"
-"mana_2|."
+"Skontruj wskazany nie-stworowy czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../XLN.rst:416
 msgid ""
@@ -2907,8 +2906,7 @@ msgid ""
 "Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot "
 "Champion."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, umieść znacznik +1/+1 na tym "
-"stworze."
+"Ilekroć rzucisz nie-stworowy czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../XLN.rst:934
 msgid ""
@@ -3180,7 +3178,7 @@ msgid ""
 "deals damage equal to its power to the other.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
-"władaniem. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../XLN.rst:1012
 msgid ""
@@ -4423,7 +4421,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../XLN.rst:1419
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../XLN.rst:1426
 msgid ""

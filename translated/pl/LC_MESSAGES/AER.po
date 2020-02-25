@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:25+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/aer/"
 "pl/>\n"
@@ -701,7 +701,7 @@ msgstr ""
 
 #: ../../AER.rst:229
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../AER.rst:234
 msgid ""
@@ -741,7 +741,7 @@ msgid ""
 "Whenever Salvage Scuttler attacks, return an artifact you control to its "
 "owner's hand."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, zwróć artefakt pod twoim władaniem do ręki "
+"Ilekroć ten stwór zaatakuje, przywróć artefakt pod twoim władaniem do ręki "
 "właściciela."
 
 #: ../../AER.rst:252
@@ -2008,7 +2008,7 @@ msgid ""
 "deals damage equal to its power to the other.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
-"władaniem. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../AER.rst:662
 msgid ""
@@ -2648,8 +2648,8 @@ msgid ""
 "spells."
 msgstr ""
 "Poświęć tego stwora: Do twojej następnej tury wskazany gracz, który otrzymał "
-"obrażenia bojowe od tego stwora w tej turze, nie może rzucać czarów nie "
-"będących stworami."
+"obrażenia bojowe od tego stwora w tej turze, nie może rzucać nie-stworowych "
+"czarów."
 
 #: ../../AER.rst:856
 msgid ""

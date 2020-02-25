@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mm2/"
 "pl/>\n"
@@ -270,7 +270,7 @@ msgid ""
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
 "przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
-"kolorze owego stwora.)"
+"swoim kolorze.)"
 
 #: ../../MM2.rst:87
 msgid ""
@@ -2583,7 +2583,7 @@ msgstr ""
 
 #: ../../MM2.rst:941
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr "Wskazany stwór dostaje -3/-0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -3/-0."
 
 #: ../../MM2.rst:943
 msgid "Target creature gets -0/-3 until end of turn."

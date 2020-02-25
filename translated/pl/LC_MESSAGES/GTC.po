@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:26+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gtc/"
 "pl/>\n"
@@ -758,8 +758,8 @@ msgid ""
 "When Leyline Phantom deals combat damage, return it to its owner's hand. "
 "(Return it only if it survived combat.)"
 msgstr ""
-"Kiedy ten stwór zada obrażenia bojowem zwróć go do ręki właściciela. (Zwróć "
-"go tylko jeśli przeżył bitwę.)"
+"Kiedy ten stwór zada obrażenia bojowem przywróć go do ręki właściciela. ("
+"Zwróć go tylko jeśli przeżył bitwę.)"
 
 #: ../../GTC.rst:220
 msgid ""
@@ -863,7 +863,7 @@ msgstr ""
 # 6f165425bac24a9a920fc57fd3157cf6
 #: ../../GTC.rst:249
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../GTC.rst:258
 msgid ""
@@ -2364,7 +2364,7 @@ msgstr ""
 "Ten czar zadaje X obrażeń rozdzielonych według twojego wyboru pomiędzy "
 "dowolną liczbę wskazanych celów. Przekręć wszystkie stwory, które otrzymały "
 "w ten sposób obrażenia. Gracze, którzy otrzymali w ten sposób obrażenia nie "
-"mogą w tej turze rzucać czarów nie będących stworami."
+"mogą w tej turze rzucać nie-stworowych czarów."
 
 #: ../../GTC.rst:738
 msgid ""
@@ -3006,7 +3006,7 @@ msgstr ""
 # c6d2b13ba4444180ad509bdc0bfbd5f0
 #: ../../GTC.rst:943
 msgid "When Mortus Strider dies, return it to its owner's hand."
-msgstr "Kiedy ten stwór umrze, zwróć go do ręki właściciela."
+msgstr "Kiedy ten stwór umrze, przywróć go do ręki właściciela."
 
 #: ../../GTC.rst:948
 msgid ""

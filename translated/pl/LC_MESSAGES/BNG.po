@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:26+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bng/"
 "pl/>\n"
@@ -805,7 +805,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 # 209c6fc406084fb1a47f761ed0a99140
 #: ../../BNG.rst:203
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../BNG.rst:210
 msgid ""
@@ -1671,8 +1671,8 @@ msgid ""
 "When Odunos River Trawler enters the battlefield, return target enchantment "
 "creature card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zwróć wskazaną kartę uroku z twojego "
-"cmentarza do twojej ręki."
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę uroku z "
+"twojego cmentarza do twojej ręki."
 
 # 24dc57589a5244a1a4a0d3c10641ee88
 # de86b69b843547e5ae77cdb83a009c18

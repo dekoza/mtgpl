@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:25+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m14/"
 "pl/>\n"
@@ -850,7 +850,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 # af7de5d6a54c405885b7e8d436477120
 #: ../../M14.rst:237
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../M14.rst:242
 msgid ""
@@ -1179,7 +1179,7 @@ msgstr ""
 # 69d7e240b5234b588e8aea4ed7013854
 #: ../../M14.rst:331
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../M14.rst:338
 msgid ""
@@ -1618,7 +1618,7 @@ msgstr ""
 # 3b977c467f004ec88a68839cd9da8f1a
 #: ../../M14.rst:465
 msgid "When Dark Favor enters the battlefield, you lose 1 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, tracisz 1 życie."
+msgstr "Kiedy ten urok wejdzie na pole walki, strać 1 życie."
 
 # eaf1f57addce4c9c91c30388932e40fb
 # 2b00b8f9b9de469eb7b54f4a364a8208
@@ -3245,8 +3245,8 @@ msgid ""
 "Whenever you cast a noncreature spell, put three +1/+1 counters on target "
 "creature you control."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, umieść trzy znaczniki +1/+1 na "
-"wskazanym stworze pod twoim władaniem."
+"Ilekroć rzucisz nie-stworowy czar, umieść trzy znaczniki +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
 
 # 147bb9f1e8794277b52b8cdd3856bd50
 # ef59e8a5d5c543b38d9769550daa8f33

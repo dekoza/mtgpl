@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 00:51+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ema/"
 "pl/>\n"
@@ -757,7 +757,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../EMA.rst:259
 msgid "You may play the top card of your library."
-msgstr "Możesz zagrywać górną kartę twojej biblioteki."
+msgstr "Możesz zagrywać wierzchnią kartę twojej biblioteki."
 
 #: ../../EMA.rst:266
 msgid ""
@@ -1085,7 +1085,7 @@ msgstr ""
 
 #: ../../EMA.rst:383
 msgid "Other creatures you control with flying get +0/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mające latanie dostają +0/+1."
 
 #: ../../EMA.rst:385
 msgid ""
@@ -1203,7 +1203,7 @@ msgid ""
 "Whenever Blood Artist or another creature dies, target player loses 1 life "
 "and you gain 1 life."
 msgstr ""
-"Ilekroć Artysta Krwi lub inny stwór umiera, wskazany gracz traci 1 życie, a "
+"Ilekroć Artysta Krwi lub inny stwór umrze, wskazany gracz traci 1 życie, a "
 "ty zyskaj 1 życie."
 
 #: ../../EMA.rst:436
@@ -2694,7 +2694,7 @@ msgstr ""
 
 #: ../../EMA.rst:969
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../EMA.rst:974
 msgid ""
@@ -3094,7 +3094,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór dostaje +2/+0 do końca tury."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"2/+0."
 
 #: ../../EMA.rst:1126
 msgid ""
@@ -3398,7 +3399,7 @@ msgstr ""
 
 #: ../../EMA.rst:1225
 msgid "|tap|: Target player exiles a card from their graveyard."
-msgstr ""
+msgstr "|tap|: Wskazany gracz wygania kartę ze swojego cmentarza."
 
 #: ../../EMA.rst:1227
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/akh/"
 "pl/>\n"
@@ -1198,7 +1198,7 @@ msgid ""
 "you've cast a noncreature spell this turn."
 msgstr ""
 "|tap|: Dobierz kartę, następnie odrzuć kartę. Możesz aktywować tę zdolność "
-"tylko jeśli rzuciłeś w tej turze czar nie będący stworem."
+"tylko jeśli rzuciłeś w tej turze nie-stworowy czar."
 
 #: ../../AKH.rst:396
 msgid ""
@@ -2436,8 +2436,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
-"końca tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
+"tury +1/+1.)"
 
 #: ../../AKH.rst:798
 msgid ""
@@ -2930,8 +2930,7 @@ msgstr ""
 #: ../../AKH.rst:957
 msgid "|tap|: Add one mana of any type that a land you control could produce."
 msgstr ""
-"|tap|: Weź jedną manę dowolnego typu, jaki mogłyby dać lądy pod twoim "
-"władaniem."
+"|tap|: Weź jedną manę takiego typu, jaki mógłby dać ląd pod twoim władaniem."
 
 #: ../../AKH.rst:962
 msgid ""

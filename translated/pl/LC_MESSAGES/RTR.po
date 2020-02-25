@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:26+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rtr/"
 "pl/>\n"
@@ -792,7 +792,7 @@ msgstr ""
 
 #: ../../RTR.rst:235
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../RTR.rst:240
 msgid ""
@@ -974,7 +974,7 @@ msgstr ""
 
 #: ../../RTR.rst:299
 msgid "Exile target card from a graveyard."
-msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../RTR.rst:308
 msgid ""
@@ -1087,10 +1087,10 @@ msgid ""
 "of the next end step. That creature is a black Zombie in addition to its "
 "other colors and types."
 msgstr ""
-"Ilekroć umiera stwór poza twoim władaniem, zwróć go na pole walki pod twoim "
-"władaniem na początku najbliższego kroku końcowego z dodatkowym znacznikiem +"
-"1/+1. Ów stwór jest dodatkowo czarnym Zombi oprócz swoich innych kolorów i "
-"typów."
+"Ilekroć umrze stwór poza twoim władaniem, przywróć go na pole walki pod "
+"twoim władaniem na początku najbliższego kroku końcowego z dodatkowym "
+"znacznikiem +1/+1. Ów stwór jest dodatkowo czarnym Zombi oprócz swoich "
+"innych kolorów i typów."
 
 #: ../../RTR.rst:348
 msgid ""
@@ -2389,8 +2389,8 @@ msgid ""
 "When Detention Sphere leaves the battlefield, return the exiled cards to the "
 "battlefield under their owner's control."
 msgstr ""
-"Kiedy ten urok opuści pole walki, zwróć wygnane z jego pomocą karty na pole "
-"walki pod władaniem ich właścicieli."
+"Kiedy ten urok opuści pole walki, przywróć wygnane z jego pomocą karty na "
+"pole walki pod władaniem ich właścicieli."
 
 #: ../../RTR.rst:792
 msgid ""
@@ -2636,8 +2636,7 @@ msgstr ""
 #: ../../RTR.rst:875
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci |"
-"mana_2|."
+"Skontruj wskazany nie-stworowy czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../RTR.rst:877
 msgid "Izzet Charm deals 2 damage to target creature."

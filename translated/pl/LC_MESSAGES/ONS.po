@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ons/"
 "pl/>\n"
@@ -1270,7 +1270,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../ONS.rst:473
 msgid "You may play the top card of your library."
-msgstr "Możesz zagrywać górną kartę twojej biblioteki."
+msgstr "Możesz zagrywać wierzchnią kartę twojej biblioteki."
 
 #: ../../ONS.rst:480
 msgid ""
@@ -2151,7 +2151,7 @@ msgstr ""
 
 #: ../../ONS.rst:789
 msgid "Exile target card from a graveyard."
-msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../ONS.rst:791 ../../ONS.rst:1641
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"

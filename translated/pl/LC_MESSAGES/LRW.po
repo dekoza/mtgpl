@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 16:19+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/lrw/"
 "pl/>\n"
@@ -85,7 +85,7 @@ msgstr "Zniszcz wszystkie uroki."
 
 #: ../../LRW.rst:29
 msgid "Destroy all creatures with converted mana cost 3 or less."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory o skróconym koszcie many 3 lub mniejszym."
 
 #: ../../LRW.rst:31
 msgid "Destroy all creatures with converted mana cost 4 or greater."
@@ -1069,7 +1069,7 @@ msgstr ""
 
 #: ../../LRW.rst:387
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../LRW.rst:396
 msgid ""
@@ -3943,7 +3943,7 @@ msgstr ""
 
 #: ../../LRW.rst:1445
 msgid "Noncreature spells cost |mana_1| more to cast."
-msgstr "Rzucanie czarów nie będących stworami kosztuje o |mana_1| więcej."
+msgstr "Rzucanie nie-stworowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../LRW.rst:1452
 msgid ""

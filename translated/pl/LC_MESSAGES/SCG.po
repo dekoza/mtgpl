@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/scg/"
 "pl/>\n"
@@ -197,7 +197,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../SCG.rst:67
 msgid "Enchanted creature gets +1/+2 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+2 i ma czujność."
 
 #: ../../SCG.rst:69
 msgid ""
@@ -613,7 +613,7 @@ msgstr ""
 
 #: ../../SCG.rst:217
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../SCG.rst:219
 msgid "When enchanted creature is dealt damage, destroy it."
@@ -879,6 +879,8 @@ msgid ""
 "Counter target activated or triggered ability. (Mana abilities can't be "
 "targeted.)"
 msgstr ""
+"Skontruj wskazaną zdolność aktywowaną lub wyzwalaną. (Zdolności dające manę "
+"nie mogą zostać wskazane.)"
 
 #: ../../SCG.rst:318
 msgid ""

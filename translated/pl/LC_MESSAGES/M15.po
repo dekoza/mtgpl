@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m15/"
 "pl/>\n"
@@ -243,7 +243,7 @@ msgid ""
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
 "przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
-"kolorze owego stwora.)"
+"swoim kolorze.)"
 
 # 7031ec86bd114230b1485de982183e99
 #: ../../M15.rst:55
@@ -1304,7 +1304,7 @@ msgstr ""
 # 4a1b2c2dd0034e1ba00e330085d6b9d8
 #: ../../M15.rst:375
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../M15.rst:380
 msgid ""

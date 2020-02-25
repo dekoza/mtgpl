@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:25+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mm3/"
 "pl/>\n"
@@ -513,8 +513,7 @@ msgstr ""
 
 #: ../../MM3.rst:163
 msgid "Create a token that's a copy of target creature you control."
-msgstr ""
-"Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
+msgstr "Stwórz żeton będący kopią wskazanego stwora pod twoim władaniem."
 
 #: ../../MM3.rst:165
 msgid ""
@@ -820,8 +819,7 @@ msgstr ""
 #: ../../MM3.rst:259 ../../MM3.rst:881
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci |"
-"mana_2|."
+"Skontruj wskazany nie-stworowy czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../MM3.rst:266
 msgid ""
@@ -2325,7 +2323,7 @@ msgstr ""
 
 #: ../../MM3.rst:779
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr "Wskazany stwór dostaje -3/-0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -3/-0."
 
 #: ../../MM3.rst:781
 msgid "Target creature gets -0/-3 until end of turn."

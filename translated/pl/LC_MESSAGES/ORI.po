@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -708,7 +708,7 @@ msgstr ""
 
 #: ../../ORI.rst:229
 msgid "Noncreature spells cost |mana_1| more to cast."
-msgstr "Rzucanie czarów nie będących stworami kosztuje o |mana_1| więcej."
+msgstr "Rzucanie nie-stworowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../ORI.rst:236
 msgid ""
@@ -855,7 +855,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../ORI.rst:285
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../ORI.rst:290
 msgid ""
@@ -910,8 +910,7 @@ msgstr ""
 #: ../../ORI.rst:299
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci |"
-"mana_2|."
+"Skontruj wskazany nie-stworowy czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../ORI.rst:301
 msgid "Disciple of the Ring gets +1/+1 until end of turn."
@@ -1097,8 +1096,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
-"końca tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
+"tury +1/+1.)"
 
 #: ../../ORI.rst:359
 msgid "Whenever Jhessian Thief deals combat damage to a player, draw a card."
@@ -1135,7 +1134,7 @@ msgstr ""
 
 #: ../../ORI.rst:373
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../ORI.rst:382
 msgid ""
@@ -1297,8 +1296,8 @@ msgid ""
 "Whenever you cast a noncreature spell, creatures you control get +1/+1 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem dostają "
-"do końca tury +1/+1."
+"Ilekroć rzucisz nie-stworowy czar, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1."
 
 #: ../../ORI.rst:436
 msgid ""
@@ -2775,7 +2774,7 @@ msgid ""
 "Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is "
 "renowned, Scab-Clan Berserker deals 2 damage to that player."
 msgstr ""
-"Ilekroć przeciwnik rzuci czar nie będący stworem, jeśli niniejszy stwór jest "
+"Ilekroć przeciwnik rzuci nie-stworowy czar, jeśli niniejszy stwór jest "
 "sławny, zadaje on owemu graczowi 2 obrażenia."
 
 #: ../../ORI.rst:900
@@ -3327,7 +3326,7 @@ msgid ""
 "you draw cards equal to its power and you gain life equal to its toughness."
 msgstr ""
 "Wróż 5, następnie ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
-"stwora, dobierasz tyle kart, ile ma siły oraz dostajesz tyle życia, ile ma "
+"stwora, dobierz tyle kart, ile ma siły oraz dostajesz tyle życia, ile ma "
 "wytrzymałości."
 
 #: ../../ORI.rst:1058

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:25+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/isd/"
 "pl/>\n"
@@ -192,7 +192,7 @@ msgstr ""
 # 7e064f3e891c452f911de976b0b7325a
 #: ../../ISD.rst:47
 msgid "At the beginning of your end step, you lose 1 life."
-msgstr "Na początku twojego kroku końcowego tracisz 1 życie."
+msgstr "Na początku twojego kroku końcowego strać 1 życie."
 
 #: ../../ISD.rst:54
 msgid ""
@@ -510,7 +510,7 @@ msgstr ""
 # 86cecc27a9304e42be1fd44260ea7125
 #: ../../ISD.rst:149
 msgid "Exile target card from a graveyard."
-msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 # 4169f2c7edaa473f93da95d603a41eb7
 #: ../../ISD.rst:151
@@ -802,8 +802,7 @@ msgstr ""
 
 #: ../../ISD.rst:239
 msgid "Create a token that's a copy of target creature you control."
-msgstr ""
-"Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
+msgstr "Stwórz żeton będący kopią wskazanego stwora pod twoim władaniem."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:241
@@ -861,7 +860,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 # c68bb78ced1649828c33d67784cb0ca0
 #: ../../ISD.rst:257
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../ISD.rst:264
 msgid ""
@@ -3434,7 +3433,7 @@ msgid ""
 "deals damage equal to its power to the other.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
-"władaniem. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../ISD.rst:1138
 msgid ""

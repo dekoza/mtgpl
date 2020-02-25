@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dtk/"
 "pl/>\n"
@@ -453,8 +453,8 @@ msgstr ""
 msgid ""
 "Whenever you cast a noncreature spell, put a lore counter on Myth Realized."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, umieść znacznik znacznik opowieści "
-"na tym uroku."
+"Ilekroć rzucisz nie-stworowy czar, umieść znacznik znacznik opowieści na tym "
+"uroku."
 
 #: ../../DTK.rst:147
 msgid "|mana_2|\\ |mana_w|: Put a lore counter on Myth Realized."
@@ -479,7 +479,7 @@ msgstr ""
 
 #: ../../DTK.rst:153
 msgid "Whenever you cast a noncreature spell, choose one —"
-msgstr "Ilekroć rzucisz czar nie będący stworem, wybierz jedno —"
+msgstr "Ilekroć rzucisz nie-stworowy czar, wybierz jedno —"
 
 #: ../../DTK.rst:155
 msgid "Tap target creature."
@@ -685,8 +685,8 @@ msgid ""
 "Whenever you cast a noncreature spell, creatures you control get +1/+1 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem dostają "
-"do końca tury +1/+1."
+"Ilekroć rzucisz nie-stworowy czar, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1."
 
 #: ../../DTK.rst:226
 msgid ""
@@ -697,7 +697,7 @@ msgstr ""
 
 #: ../../DTK.rst:225
 msgid "Whenever you cast a noncreature spell, you gain 2 life."
-msgstr "Ilekroć rzucisz czar nie będący stworem, zyskaj 2 życia."
+msgstr "Ilekroć rzucisz nie-stworowy czar, zyskaj 2 życia."
 
 #: ../../DTK.rst:232
 msgid ""
@@ -899,8 +899,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until "
 "end of turn and can't be blocked this turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do końca tury +1/+"
-"0 i nie może być blokowany w tej turze."
+"Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca tury +1/+0 i "
+"nie może być blokowany w tej turze."
 
 #: ../../DTK.rst:304
 msgid ""
@@ -923,7 +923,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../DTK.rst:303
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../DTK.rst:308
 msgid ""
@@ -1135,7 +1135,7 @@ msgstr ""
 
 #: ../../DTK.rst:369 ../../DTK.rst:1303
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../DTK.rst:376
 msgid ""
@@ -1351,8 +1351,8 @@ msgid ""
 "Whenever you cast a noncreature spell, you may pay |mana_1|\\ |mana_u|. If "
 "you do, create a 2/2 blue Djinn Monk creature token with flying."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, możesz zapłacić |mana_1|\\ |mana_u|"
-". Jeśli tak zrobisz, stwórz żeton niebieskiego stwora Dżin Mnich 2/2 z "
+"Ilekroć rzucisz nie-stworowy czar, możesz zapłacić |mana_1|\\ |mana_u|. "
+"Jeśli tak zrobisz, stwórz żeton niebieskiego stwora Dżin Mnich 2/2 z "
 "lataniem."
 
 #: ../../DTK.rst:464
@@ -1436,7 +1436,7 @@ msgstr "|mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../DTK.rst:489
 msgid "Whenever you cast a noncreature spell, untap Zephyr Scribe."
-msgstr "Ilekroć rzucisz czar nie będący stworem, odkręć niniejszego stwora."
+msgstr "Ilekroć rzucisz nie-stworowy czar, odkręć niniejszego stwora."
 
 #: ../../DTK.rst:498
 msgid ""
@@ -3634,8 +3634,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, niniejszy stwór dostaje do końca "
-"tury +2/+2."
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje do końca tury +2/"
+"+2."
 
 #: ../../DTK.rst:1178
 msgid ""
@@ -3840,8 +3840,8 @@ msgstr ""
 msgid ""
 "−9: You get an emblem with \"Your opponents can't cast noncreature spells.\""
 msgstr ""
-"–9: Dostajesz emblemat o treści \"Twoi przeciwnicy nie mogą rzucać czarów "
-"nie będących stworami.\""
+"–9: Dostajesz emblemat o treści \"Twoi przeciwnicy nie mogą rzucać nie-"
+"stworowych czarów.\""
 
 #: ../../DTK.rst:1260
 msgid ""
@@ -3895,8 +3895,8 @@ msgid ""
 "Whenever you cast a noncreature spell, untap Pristine Skywise. It gains "
 "protection from the color of your choice until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, odkręć tego stwora. Zyskuje on do "
-"końca tury ochronę przed wybranym kolorem."
+"Ilekroć rzucisz nie-stworowy czar, odkręć tego stwora. Zyskuje on do końca "
+"tury ochronę przed wybranym kolorem."
 
 #: ../../DTK.rst:1284
 msgid ""
@@ -4215,7 +4215,7 @@ msgid ""
 "noncreature spell this turn."
 msgstr ""
 "|mana_2|, |tap|: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli w "
-"tej turze rzuciłeś czar nie będący stworem."
+"tej turze rzuciłeś nie-stworowy czar."
 
 #: ../../DTK.rst:1394
 msgid ""

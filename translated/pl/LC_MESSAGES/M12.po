@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 14:58+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m12/"
 "pl/>\n"
@@ -946,7 +946,7 @@ msgstr ""
 
 #: ../../M12.rst:341
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../M12.rst:346
 msgid ""
@@ -1222,7 +1222,7 @@ msgstr ""
 
 #: ../../M12.rst:443
 msgid "When Dark Favor enters the battlefield, you lose 1 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, tracisz 1 życie."
+msgstr "Kiedy ten urok wejdzie na pole walki, strać 1 życie."
 
 #: ../../M12.rst:445
 msgid "Enchanted creature gets +3/+1."
@@ -1288,6 +1288,8 @@ msgid ""
 "Target player reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej nielądową kartę. Ów gracz "
+"odrzuca ową kartę."
 
 #: ../../M12.rst:472
 msgid ""

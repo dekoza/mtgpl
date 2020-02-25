@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ktk/"
 "pl/>\n"
@@ -304,8 +304,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
-"końca tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
+"tury +1/+1.)"
 
 #: ../../KTK.rst:84
 msgid ""
@@ -430,8 +430,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Seeker of the Way gains lifelink "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, ten stwór zyskuje więź życia do "
-"końca tury."
+"Ilekroć rzucisz nie-stworowy czar, ten stwór zyskuje więź życia do końca "
+"tury."
 
 #: ../../KTK.rst:124
 msgid ""
@@ -938,7 +938,7 @@ msgid ""
 "target creature an opponent controls and it doesn't untap during its "
 "controller's next untap step."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, możesz zapłacić |mana_1|. Jeśli tak "
+"Ilekroć rzucisz nie-stworowy czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, przekręć wskazanego stwora pod władaniem przeciwnika i nie odkręci "
 "się on w najbliższym kroku odkręcania swojego władcy."
 
@@ -1003,7 +1003,7 @@ msgstr "Kiedy ta karta wejdzie na pole walki, przekręć zauroczonego stwora."
 # 250a9f62d257480982181a79550b5790
 #: ../../KTK.rst:301
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 # ce5dc70be7d0465caee993d2c048a7b8
 #: ../../KTK.rst:303
@@ -1021,8 +1021,7 @@ msgstr ""
 #: ../../KTK.rst:307
 msgid "Counter target noncreature spell unless its controller pays |mana_1|."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem, chyba że jego władca zapłaci "
-"|mana_1|."
+"Skontruj wskazany nie-stworowy czar, chyba że jego władca zapłaci |mana_1|."
 
 # e236873213fb4f589af962e136258c66
 #: ../../KTK.rst:309
@@ -1908,7 +1907,7 @@ msgid ""
 "Whenever you cast a noncreature spell, you may pay |mana_1|. If you do, "
 "create a 1/1 red Goblin creature token with haste."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, możesz zapłacić |mana_1|. Jeśli tak "
+"Ilekroć rzucisz nie-stworowy czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, stwórz żeton czerwonego stwora Goblin 1/1 z pośpiechem."
 
 #: ../../KTK.rst:600
@@ -3180,8 +3179,8 @@ msgid ""
 "Whenever you cast a noncreature spell, creatures you control get +1/+1 until "
 "end of turn. Untap those creatures."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem dostają "
-"do końca tury +1/+1. Odkręć owe stwory."
+"Ilekroć rzucisz nie-stworowy czar, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1. Odkręć owe stwory."
 
 # f5b58811c3d0409b81bfef6f74bed4e1
 #: ../../KTK.rst:967
@@ -3189,8 +3188,8 @@ msgid ""
 "Whenever you cast a noncreature spell, you may draw a card. If you do, "
 "discard a card."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, możesz dobrać kartę. Jeśli tak "
-"zrobisz, odrzuć kartę."
+"Ilekroć rzucisz nie-stworowy czar, możesz dobrać kartę. Jeśli tak zrobisz, "
+"odrzuć kartę."
 
 #: ../../KTK.rst:978
 msgid ""
@@ -3473,8 +3472,8 @@ msgid ""
 "Whenever you cast a noncreature spell, creatures you control gain lifelink "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem zyskują "
-"więź życia do końca tury."
+"Ilekroć rzucisz nie-stworowy czar, stwory pod twoim władaniem zyskują więź "
+"życia do końca tury."
 
 #: ../../KTK.rst:1056
 msgid ""

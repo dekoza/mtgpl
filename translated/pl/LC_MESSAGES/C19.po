@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -541,8 +541,8 @@ msgstr ""
 #: ../../C19.rst:251
 msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz czar nie będący stworem, ten stwór dostaje do "
-"końca tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
+"tury +1/+1.)"
 
 #: ../../C19.rst:253
 msgid "You may look at the top card of your library any time."
@@ -896,7 +896,7 @@ msgid "Convoke (Your creatures can help cast this spell. Each creature you tap w
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
 "przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
-"kolorze owego stwora.)"
+"swoim kolorze.)"
 
 #: ../../C19.rst:413
 msgid "Destroy all nontoken creatures."
@@ -964,7 +964,7 @@ msgstr ""
 
 #: ../../C19.rst:445
 msgid "Exile target card from a graveyard."
-msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../C19.rst:447
 msgid "Flashback |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
@@ -2390,12 +2390,12 @@ msgstr ""
 #: ../../C19.rst:1111
 msgid "Crackling Drake's power is equal to the total number of instant and sorcery cards you own in exile and in your graveyard."
 msgstr ""
-"Ten stwór ma siłę równą całkowitej liczbie kart sztuczek i obrzędów, które "
-"posiadasz na wygnaniu i w twoim cmentarzu."
+"Ta karta ma siłę równą całkowitej liczbie kart sztuczek i obrzędów, jakie "
+"masz na wygnaniu i w twoim cmentarzu."
 
 #: ../../C19.rst:1113
 msgid "When Crackling Drake enters the battlefield, draw a card."
-msgstr "Kiedy ta karta wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../C19.rst:1118
 msgid ":mtgtip:`Emmara Tandris<https://img.scryfall.com/cards/border_crop/front/7/d/7d415858-5f7d-406c-bb30-b4c48ebaad08.jpg?1568004745|https://scryfall.com/card/c19/191/emmara-tandris?utm_source=api>`"
@@ -2468,8 +2468,8 @@ msgstr ""
 #: ../../C19.rst:1155
 msgid "Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, odkręć tego stwora. Zyskuje on do "
-"końca tury ochronę przed wybranym kolorem."
+"Ilekroć rzucisz nie-stworowy czar, odkręć tego stwora. Zyskuje on do końca "
+"tury ochronę przed wybranym kolorem."
 
 #: ../../C19.rst:1160
 msgid ":mtgtip:`Putrefy<https://img.scryfall.com/cards/border_crop/front/4/f/4ff773ac-ba7a-45da-a912-07222f7bf781.jpg?1570996175|https://scryfall.com/card/c19/197/putrefy?utm_source=api>`"
@@ -2664,7 +2664,7 @@ msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 #: ../../C19.rst:1243
 msgid "|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, Sacrifice Azorius Locket: Draw two cards."
 msgstr ""
-"|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, poświęć ten permanent: "
+"|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, poświęć tego stwora: "
 "Dobierz dwie karty."
 
 #: ../../C19.rst:1248
@@ -2798,7 +2798,7 @@ msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 #: ../../C19.rst:1299
 msgid "|mana_br|\\ |mana_br|\\ |mana_br|\\ |mana_br|, |tap|, Sacrifice Rakdos Locket: Draw two cards."
 msgstr ""
-"|mana_br|\\ |mana_br|\\ |mana_br|\\ |mana_br|, |tap|, poświęć ten permanent: "
+"|mana_br|\\ |mana_br|\\ |mana_br|\\ |mana_br|, |tap|, poświęć tego stwora: "
 "Dobierz dwie karty."
 
 #: ../../C19.rst:1304

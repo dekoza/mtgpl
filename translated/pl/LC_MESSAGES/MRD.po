@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 16:18+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mrd/"
 "pl/>\n"
@@ -3311,13 +3311,15 @@ msgstr ""
 
 #: ../../MRD.rst:1233
 msgid "|tap|: Target player exiles a card from their graveyard."
-msgstr ""
+msgstr "|tap|: Wskazany gracz wygania kartę ze swojego cmentarza."
 
 #: ../../MRD.rst:1235
 msgid ""
 "|mana_1|, Sacrifice Scrabbling Claws: Exile target card from a graveyard. "
 "Draw a card."
 msgstr ""
+"|mana_1|, poświęć ten artefakt: Wygnaj wskazaną kartę z cmentarza. Dobierz "
+"kartę."
 
 #: ../../MRD.rst:1240
 msgid ""

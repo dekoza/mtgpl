@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 16:18+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mir/"
 "pl/>\n"
@@ -1517,7 +1517,7 @@ msgstr ""
 
 #: ../../MIR.rst:559
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../MIR.rst:561
 msgid ""
@@ -2007,7 +2007,7 @@ msgstr ""
 
 #: ../../MIR.rst:737
 msgid "As an additional cost to cast this spell, sacrifice two creatures."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć dwa stwory."
 
 #: ../../MIR.rst:739
 msgid "Destroy target artifact."

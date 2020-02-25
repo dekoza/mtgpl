@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:26+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/war/"
 "pl/>\n"
@@ -920,7 +920,7 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, rozpleń. (Wybierz dowolną liczbę "
+"Ilekroć rzucisz nie-stworowy czar, rozpleń. (Wybierz dowolną liczbę "
 "permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
@@ -1198,8 +1198,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Sky Theater Strix gets +1/+0 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, niniejszy stwór dostaje +1/+0 do "
-"końca tury."
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje +1/+0 do końca "
+"tury."
 
 #: ../../WAR.rst:366
 msgid ""
@@ -1848,8 +1848,7 @@ msgstr ""
 msgid ""
 "|mana_3|, Sacrifice a creature or planeswalker: You gain 1 life and draw a "
 "card."
-msgstr ""
-"|mana_3|, poświęć stwora lub wędrowca: Zyskaj 1 życie i dobierasz kartę."
+msgstr "|mana_3|, poświęć stwora lub wędrowca: Zyskaj 1 życie i dobierz kartę."
 
 #: ../../WAR.rst:564
 msgid ""
@@ -1863,8 +1862,7 @@ msgid ""
 "When Tithebearer Giant enters the battlefield, you draw a card and you lose "
 "1 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierasz jedną kartę i tracisz 1 "
-"życie."
+"Kiedy ten stwór wejdzie na pole walki, dobierz jedną kartę i strać 1 życie."
 
 #: ../../WAR.rst:570
 msgid ""
@@ -2025,8 +2023,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end "
 "of turn, then scry 1."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, niniejszy stwór dostaje +1/+0 do "
-"końca tury, następnie wróż 1."
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje +1/+0 do końca "
+"tury, następnie wróż 1."
 
 #: ../../WAR.rst:618
 msgid ""
@@ -2395,8 +2393,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact "
 "creature and gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, ten permanent staje się "
-"artefaktowym stworem i dostaje +1/+1 do końca tury."
+"Ilekroć rzucisz nie-stworowy czar, ten permanent staje się artefaktowym "
+"stworem i dostaje +1/+1 do końca tury."
 
 #: ../../WAR.rst:723
 msgid ""
@@ -2509,8 +2507,7 @@ msgid ""
 "Whenever you cast a noncreature spell, put a +1/+1 counter on Spellgorger "
 "Weird."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, umieść znacznik +1/+1 na tym "
-"stworze."
+"Ilekroć rzucisz nie-stworowy czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../WAR.rst:764
 msgid ""
@@ -3027,7 +3024,7 @@ msgstr "Zniszcz wskazany urok."
 
 #: ../../WAR.rst:927
 msgid "Exile target card from a graveyard."
-msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../WAR.rst:934
 msgid ""
@@ -3353,7 +3350,7 @@ msgstr ""
 
 #: ../../WAR.rst:1037
 msgid "Counter target noncreature spell."
-msgstr "Skontruj wskazany czar nie będący stworem."
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../WAR.rst:1046
 msgid ""
@@ -3388,8 +3385,7 @@ msgstr ""
 #: ../../WAR.rst:1051
 msgid ""
 "When Elite Guardmage enters the battlefield, you gain 3 life and draw a card."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia i dobierasz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia i dobierz kartę."
 
 #: ../../WAR.rst:1056
 msgid ""
@@ -4166,8 +4162,8 @@ msgid ""
 "Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact "
 "creature token."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, stwórz żeton bezkolorowego "
-"artefaktowego stwora Serwo 1/1."
+"Ilekroć rzucisz nie-stworowy czar, stwórz żeton bezkolorowego artefaktowego "
+"stwora Serwo 1/1."
 
 #: ../../WAR.rst:1281
 msgid ""
@@ -4378,8 +4374,7 @@ msgid ""
 "When Gateway Plaza enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, poświęć go dopóki nie zapłacisz |"
-"mana_1|."
+"Kiedy ten ląd wejdzie na pole walki, poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../WAR.rst:1366
 msgid ""

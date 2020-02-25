@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-24 09:26+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/thb/"
 "pl/>\n"
@@ -342,8 +342,8 @@ msgid ""
 "II - Noncreature spells your opponents cast cost |mana_2| more to cast until "
 "your next turn."
 msgstr ""
-"II - Do twojej następnej tury rzucanie czarów nie będących stworami kosztuje "
-"twoich przeciwników o |mana_2| więcej."
+"II - Do twojej następnej tury rzucanie nie-stworowych czarów kosztuje twoich "
+"przeciwników o |mana_2| więcej."
 
 #: ../../THB.rst:87
 msgid ""
@@ -3644,7 +3644,7 @@ msgstr "Zniszcz wskazany urok."
 
 #: ../../THB.rst:1175
 msgid "Exile target card from a graveyard."
-msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../THB.rst:1180
 msgid ""

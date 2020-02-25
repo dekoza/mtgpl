@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:26+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dom/"
 "pl/>\n"
@@ -341,7 +341,7 @@ msgid ""
 "battlefield."
 msgstr ""
 "II, III — Każdy gracz przywraca dwie karty lądów ze swojego cmentarza na "
-"pole bitwy."
+"pole walki."
 
 #: ../../DOM.rst:104
 msgid ""
@@ -1224,8 +1224,7 @@ msgstr ""
 
 #: ../../DOM.rst:411
 msgid "Counter target noncreature spell. Untap up to three lands."
-msgstr ""
-"Skontruj wskazany czar nie będący stworem. Odkręć co najwyżej trzy lądy."
+msgstr "Skontruj wskazany nie-stworowy czar. Odkręć co najwyżej trzy lądy."
 
 #: ../../DOM.rst:416
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 09:25+0000\n"
+"PO-Revision-Date: 2020-02-25 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mh1/"
 "pl/>\n"
@@ -385,7 +385,7 @@ msgid ""
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
 "przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
-"kolorze owego stwora.)"
+"swoim kolorze.)"
 
 #: ../../MH1.rst:113
 msgid ""
@@ -436,8 +436,8 @@ msgid ""
 "Sacrifice Ranger-Captain of Eos: Your opponents can't cast noncreature "
 "spells this turn."
 msgstr ""
-"Poświęć tego stwora: Twoi przeciwnicy nie mogą w tej turze rzucać czarów nie "
-"będących stworami."
+"Poświęć tego stwora: Twoi przeciwnicy nie mogą w tej turze rzucać nie-"
+"stworowych czarów."
 
 #: ../../MH1.rst:132
 msgid ""
@@ -1034,9 +1034,8 @@ msgid ""
 "Counter target noncreature spell. If that spell is countered this way, exile "
 "it instead of putting it into its owner's graveyard."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem. Jeśli ów czar zostanie "
-"skontrowany w ten sposób, wygnaj go zamiast umieszczać go w cmentarzu "
-"właściciela."
+"Skontruj wskazany nie-stworowy czar. Jeśli ów czar zostanie skontrowany w "
+"ten sposób, wygnaj go zamiast umieszczać go w cmentarzu właściciela."
 
 #: ../../MH1.rst:326
 msgid ""
@@ -1051,7 +1050,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../MH1.rst:325
 msgid "You may play the top card of your library."
-msgstr "Możesz zagrywać górną kartę twojej biblioteki."
+msgstr "Możesz zagrywać wierzchnią kartę twojej biblioteki."
 
 #: ../../MH1.rst:330
 msgid ""
@@ -1189,7 +1188,7 @@ msgstr ""
 
 #: ../../MH1.rst:365
 msgid "Whenever you draw a card, put a +1/+1 counter on Oneirophage."
-msgstr "Ilekroć dobierasz kartę, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../MH1.rst:372
 msgid ""
@@ -1731,8 +1730,7 @@ msgstr ""
 msgid ""
 "When First-Sphere Gargantua enters the battlefield, you draw a card and you "
 "lose 1 life."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierasz kartę i tracisz 1 życie."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę i strać 1 życie."
 
 #: ../../MH1.rst:547
 msgid ""
@@ -2106,8 +2104,8 @@ msgid ""
 "Whenever Undead Augur or another Zombie you control dies, you draw a card "
 "and you lose 1 life."
 msgstr ""
-"Ilekroć ten stwór lub inny Zombi pod twoim władaniem umrze, dobierasz kartę "
-"i tracisz 1 życie."
+"Ilekroć umrze ten stwór lub inny Zombi pod twoim władaniem, dobierz kartę i "
+"strać 1 życie."
 
 #: ../../MH1.rst:680
 msgid ""
