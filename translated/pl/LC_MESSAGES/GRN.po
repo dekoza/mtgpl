@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-23 22:00+0000\n"
+"PO-Revision-Date: 2020-02-25 10:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/grn/"
 "pl/>\n"
@@ -117,7 +117,7 @@ msgid ""
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
 "przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
-"kolorze owego stwora.)"
+"swoim kolorze.)"
 
 #: ../../GRN.rst:35
 msgid ""
@@ -236,7 +236,7 @@ msgid ""
 "Whenever Haazda Marshal and at least two other creatures attack, create a "
 "1/1 white Soldier creature token with lifelink."
 msgstr ""
-"Kiedy ten stwór oraz przynajmniej dwa inne stwory atakują, stwórz żeton "
+"Kiedy ten stwór oraz przynajmniej dwa inne stwory zaatakują, stwórz żeton "
 "białego stwora Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:78
@@ -262,7 +262,7 @@ msgid ""
 "When Hunted Witness dies, create a 1/1 white Soldier creature token with "
 "lifelink."
 msgstr ""
-"Kiedy ten stwór umiera, stwórz żeton białego stwora Piechur 1/1 z więzią "
+"Kiedy ten stwór umrze, stwórz żeton białego stwora Piechur 1/1 z więzią "
 "życia."
 
 #: ../../GRN.rst:86
@@ -310,7 +310,7 @@ msgid ""
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
 "przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
-"kolorze owego stwora.)"
+"swoim kolorze.)"
 
 #: ../../GRN.rst:104
 msgid ""
@@ -336,7 +336,7 @@ msgstr ""
 
 #: ../../GRN.rst:109
 msgid "When Loxodon Restorer enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, ty zyskaj 4 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 4 życia."
 
 #: ../../GRN.rst:116
 msgid ""
@@ -370,7 +370,7 @@ msgstr ""
 #: ../../GRN.rst:125
 msgid "Righteous Blow deals 2 damage to target attacking or blocking creature."
 msgstr ""
-"Ten czar zadaje 2 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 2 obrażenia."
 
 #: ../../GRN.rst:132
 msgid ""
@@ -436,8 +436,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. You gain 1 life for each "
 "attacking creature you control."
 msgstr ""
-"Wskazany stwór dostaje +2/+2 do końca tury. Zyskaj 1 życie za każdego "
-"atakujące stwora pod  twoim władaniem."
+"Wskazany stwór dostaje do końca tury +2/+2. Zyskaj po 1 życiu za każdego "
+"atakujące stwora pod twoim władaniem."
 
 #: ../../GRN.rst:154
 msgid ""
@@ -451,8 +451,8 @@ msgid ""
 "When Tenth District Guard enters the battlefield, target creature gets +0/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje +0/+1 do końca "
-"tury."
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"0/+1."
 
 #: ../../GRN.rst:160
 msgid ""
@@ -486,7 +486,7 @@ msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../GRN.rst:169
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../GRN.rst:176
 msgid ""
@@ -522,9 +522,9 @@ msgid ""
 "library, then put any number of them into your graveyard and the rest on the "
 "top of your library in any order.)"
 msgstr ""
-"Kiedy ten stwór umiera, szpieguj 2. (Spójrz na dwie wierzchnie karty twojej "
-"biblioteki, następnie dowolne z nich umieść w twoim cmentarzu, a pozostałe w "
-"dowolnej kolejności na wierzchu twojej biblioteki.)"
+"Kiedy ten stwór umrze, szpieguj 2. (Spójrz na dwie wierzchnie karty twojej "
+"biblioteki, następnie umieść dowolną ich liczbę w twoim cmentarzu, a "
+"pozostałe na wierzchu twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:188
 msgid ""
@@ -535,7 +535,7 @@ msgstr ""
 
 #: ../../GRN.rst:185
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr "Wskazany stwór dostaje -3/-0 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -3/-0."
 
 #: ../../GRN.rst:187 ../../GRN.rst:403
 msgid ""
@@ -544,8 +544,8 @@ msgid ""
 "order.)"
 msgstr ""
 "Szpieguj 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, następnie "
-"dowolne z nich umieść w twoim cmentarzu, a pozostałe w dowolnej kolejności "
-"na wierzchu twojej biblioteki.)"
+"umieść dowolną ich liczbę w twoim cmentarzu, a pozostałe na wierzchu twojej "
+"biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:192
 msgid ""
@@ -560,7 +560,7 @@ msgid ""
 "of putting it into its owner's graveyard. You may shuffle up to four target "
 "cards from your graveyard into your library."
 msgstr ""
-"Skontruj wskazany czar. Jeśli ów czar zostanie w ten sposób skontrowany, "
+"Skontruj wskazany czar. Jeśli ów czar zostanie skontrowany w ten sposób, "
 "wygnaj go zamiast umieszczać go w cmentarzu jego władcy. Możesz wtasować co "
 "najwyżej cztery wskazane karty z twojego cmentarza do twojej biblioteki."
 
@@ -578,8 +578,9 @@ msgid ""
 "the rest on the top of your library in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, szpieguj 2. (Spójrz na dwie "
-"wierzchnie karty twojej biblioteki, następnie dowolne z nich umieść w twoim "
-"cmentarzu, a pozostałe w dowolnej kolejności na wierzchu twojej biblioteki.)"
+"wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę w "
+"twoim cmentarzu, a pozostałe na wierzchu twojej biblioteki w dowolnej "
+"kolejności.)"
 
 #: ../../GRN.rst:200
 msgid ""
@@ -608,10 +609,10 @@ msgid ""
 "any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, szpieguj 4. Kiedy to zrobisz, możesz "
-"zwrócić wskazany nie-lądowy permanent władany przez przeciwnika do jego "
-"ręki. (Aby szpiegować 4, spójrz na cztery wierzchnie karty twojej "
-"biblioteki, następnie dowolne z nich umieść w twoim cmentarzu, a pozostałe w "
-"dowolnej kolejności na wierzchu twojej biblioteki.)"
+"przywrócić wskazany nie-lądowy permanent pod władaniem przeciwnika do ręki "
+"właściciela. (Aby szpiegować 4, spójrz na cztery wierzchnie karty twojej "
+"biblioteki, następnie umieść dowolną ich liczbę w twoim cmentarzu, a "
+"pozostałe na wierzchu twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:212
 msgid ""
@@ -625,8 +626,8 @@ msgid ""
 "Whenever you cast a blue spell, target player puts the top two cards of "
 "their library into their graveyard."
 msgstr ""
-"Ilekroć rzucisz niebieski czar, wskazany gracz wkłada dwie wierzchnie karty "
-"swojej biblioteki do swojego cmentarza."
+"Ilekroć rzucisz niebieski czar, wskazany gracz umieszcza dwie wierzchnie "
+"karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../GRN.rst:218
 msgid ""
@@ -656,13 +657,13 @@ msgid ""
 "Gates you control. Draw a card for each Gate tapped this way."
 msgstr ""
 "Kiedy ten ląd wejdzie na pole walki, możesz przekręcić dowolną liczbę "
-"odznaczonych Bram, którymi władasz. Dobierz kartę za każdą Bramę przekręconą "
-"w ten sposób."
+"odkręconych Bram pod twoim władaniem. Dobierz kartę za każdą Bramę "
+"przekręconą w ten sposób."
 
 #: ../../GRN.rst:223
 msgid "Whenever a Gate enters the battlefield under your control, draw a card."
 msgstr ""
-"Ilekroć jakaś Brama wchodzi na pole walki pod twoim władaniem, dobierz kartę."
+"Ilekroć jakaś Brama wejdzie na pole walki pod twoim władaniem, dobierz kartę."
 
 #: ../../GRN.rst:228
 msgid ""
@@ -675,7 +676,8 @@ msgstr ""
 msgid ""
 "Leapfrog has flying as long as you've cast an instant or sorcery spell this "
 "turn."
-msgstr "Ten stwór ma latanie o ile rzuciłeś sztuczkę lub obrzęd w tej turze."
+msgstr ""
+"Ten stwór ma latanie o ile rzuciłeś czar sztuczki lub obrzędu w tej turze."
 
 #: ../../GRN.rst:234
 msgid ""
@@ -686,7 +688,7 @@ msgstr ""
 
 #: ../../GRN.rst:231
 msgid "Target creature gets +1/+1 and gains flying until end of turn."
-msgstr "Wskazany stwór do końca tury dostaje +1/+1 i zyskuje latanie."
+msgstr "Wskazany stwór dostaje do końca tury +1/+1 oraz latanie."
 
 #: ../../GRN.rst:238
 msgid ""
@@ -704,11 +706,11 @@ msgid ""
 "of your library in any order.)"
 msgstr ""
 "Szpieguj 2, następnie wybierz kartę sztuczki lub obrzędu w twoim cmentarzu. "
-"Możesz rzucić ową kartę w tej turze. Jeśli owa karta miałaby trafić do "
-"twojego cmentarza w tej turze, zamiast tego wygnaj ją. (Aby szpiegować 2, "
-"spójrz na dwie wierzchnie karty twojej biblioteki, następnie dowolne z nich "
-"umieść w twoim cmentarzu, a pozostałe w dowolnej kolejności na wierzchu "
-"twojej biblioteki.)"
+"Możesz rzucić ową kartę w tej turze. Jeśli owa karta miałaby zostać "
+"umieszczona w twoim cmentarzu w tej turze, zamiast tego wygnaj ją. (Aby "
+"szpiegować 2, spójrz na dwie wierzchnie karty twojej biblioteki, następnie "
+"umieść dowolną ich liczbę w twoim cmentarzu, a pozostałe na wierzchu twojej "
+"biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:242
 msgid ""
@@ -722,7 +724,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird "
 "Illusion creature token with flying."
 msgstr ""
-"Ilekroć rzucisz obrzęd, stwórz żeton niebieskiego stwora Ptak 1/1 z lataniem."
+"Ilekroć rzucisz czar obrzędu, stwórz żeton niebieskiego stwora Ptak 1/1 z "
+"lataniem."
 
 #: ../../GRN.rst:248
 msgid ""
@@ -747,8 +750,8 @@ msgid ""
 "When Narcomoeba is put into your graveyard from your library, you may put it "
 "onto the battlefield."
 msgstr ""
-"Kiedy ten stwór jest wkładany do cmentarza z twojej biblioteki, możesz "
-"położyć go na polu walki."
+"Kiedy ta karta zostanie umieszczona w twoim cmentarzu z twojej biblioteki, "
+"możesz umieścić ją na polu walki."
 
 #: ../../GRN.rst:260
 msgid ""
@@ -763,7 +766,7 @@ msgid ""
 "library. You may put that card into your graveyard.)"
 msgstr ""
 "Ilekroć ten stwór zaatakuje, szpieguj 1. (Spójrz na wierzchnią kartę twojej "
-"biblioteki. Możesz umieścić ową kartę w twoim cmentarzu.)"
+"biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:264
 msgid ""
@@ -777,8 +780,8 @@ msgid ""
 "|mana_2|\\ |mana_u|, |tap|: You may cast an instant or sorcery card from "
 "your hand without paying its mana cost."
 msgstr ""
-"|mana_2|\\ |mana_u|, |tap|: Możesz zagrać kartę sztuczki lub obrzędu z "
-"twojej ręki bez płacenia kosztu many."
+"|mana_2|\\ |mana_u|, |tap|: Możesz rzucić kartę sztuczki lub obrzędu z "
+"twojej ręki bez płacenia jej kosztu many."
 
 #: ../../GRN.rst:268
 msgid ""
@@ -801,8 +804,7 @@ msgstr ""
 
 #: ../../GRN.rst:271
 msgid "Create a token that's a copy of target creature you control."
-msgstr ""
-"Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
+msgstr "Stwórz żeton będący kopią wskazanego stwora pod twoim władaniem."
 
 #: ../../GRN.rst:280
 msgid ""
@@ -827,7 +829,8 @@ msgid ""
 "Return X target creatures of the creature type of your choice to their "
 "owner's hand."
 msgstr ""
-"Zwróć X wskazanych stworów wybranego przez ciebie typu do ręki ich władcy."
+"Przywróć X wskazanych stworów wybranego przez ciebie typu do ręki ich "
+"właściciela."
 
 #: ../../GRN.rst:290
 msgid ""
@@ -846,7 +849,7 @@ msgid ""
 "your graveyard.)"
 msgstr ""
 "Szpieguj 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić "
-"ową kartę w twoim cmentarzu.)"
+"ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:298
 msgid ""
@@ -869,8 +872,8 @@ msgid ""
 "As long as Thoughtbound Phantasm has three or more +1/+1 counters on it, it "
 "can attack as though it didn't have defender."
 msgstr ""
-"Dopóki ten stwór ma co najmniej trzy znaczniki +1/+1, może atakować jakby "
-"nie był obrońcą."
+"O ile ten stwór ma co najmniej trzy znaczniki +1/+1, może atakować jakby nie "
+"był obrońcą."
 
 #: ../../GRN.rst:304
 msgid ""
@@ -919,8 +922,9 @@ msgid ""
 "and the rest on the top of your library in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, szpieguj 2. (Spójrz na dwie "
-"wierzchnie karty twojej biblioteki, następnie dowolne z nich umieść w twoim "
-"cmentarzu, a pozostałe w dowolnej kolejności na wierzchu twojej biblioteki.)"
+"wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę w "
+"twoim cmentarzu, a pozostałe na wierzchu twojej biblioteki w dowolnej "
+"kolejności.)"
 
 #: ../../GRN.rst:320
 msgid ""
@@ -942,7 +946,7 @@ msgid ""
 "card of your library. You may put that card into your graveyard.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, szpieguj 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ową kartę w twoim cmentarzu.)"
+"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:332
 msgid ""
@@ -976,7 +980,7 @@ msgid ""
 "a graveyard."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazaną kartę z "
-"dowolnego cmentarza."
+"cmentarza."
 
 #: ../../GRN.rst:339
 msgid ""
@@ -984,7 +988,7 @@ msgid ""
 "life. If you do, return Blood Operative to your hand."
 msgstr ""
 "Ilekroć szpiegujesz, jeśli ta karta jest w twoim cmentarzu, możesz zapłacić "
-"3 życia. Jeśli tak zrobisz, zwróć tę kartę do twojej ręki."
+"3 życia. Jeśli tak zrobisz, przywróć tę kartę do twojej ręki."
 
 #: ../../GRN.rst:344
 msgid ""
@@ -1013,7 +1017,8 @@ msgstr ""
 
 #: ../../GRN.rst:351
 msgid "Creeping Chill deals 3 damage to each opponent and you gain 3 life."
-msgstr "Ten czar zadaje 3 obrażenia każdemu przeciwnikowi, a ty zyskaj 3 życia."
+msgstr ""
+"Ten czar zadaje każdemu przeciwnikowi po 3 obrażenia, a ty zyskaj 3 życia."
 
 #: ../../GRN.rst:353
 msgid ""
@@ -1021,9 +1026,9 @@ msgid ""
 "exile it. If you do, Creeping Chill deals 3 damage to each opponent and you "
 "gain 3 life."
 msgstr ""
-"Kiedy ta karta jest wkładana do twojego cmentarza z twojej biblioteki, "
-"możesz ją wypędzić. Jeśli tak zrobisz, ta karta zadaje 3 obrażenia każdemu "
-"przeciwnikowi, a ty zyskaj 3 życia."
+"Kiedy ta karta zostanie umieszczona w twoim cmentarzu z twojej biblioteki, "
+"możesz ją wygnać. Jeśli tak zrobisz, zadaje ona każdemu przeciwnikowi po 3 "
+"obrażenia, a ty zyskaj 3 życia."
 
 #: ../../GRN.rst:360
 msgid ""
@@ -1054,8 +1059,8 @@ msgid ""
 "order.)"
 msgstr ""
 "Szpieguj 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, następnie "
-"dowolne z nich umieść w twoim cmentarzu, a pozostałe w dowolnej kolejności "
-"na wierzchu twojej biblioteki.)"
+"umieść dowolną ich liczbę w twoim cmentarzu, a pozostałe na wierzchu twojej "
+"biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:372
 msgid ""
@@ -1075,8 +1080,8 @@ msgid ""
 "library in any order.)"
 msgstr ""
 "Zapłać 2 życia: Szpieguj 2. (Spójrz na dwie wierzchnie karty twojej "
-"biblioteki, następnie dowolne z nich umieść w twoim cmentarzu, a pozostałe w "
-"dowolnej kolejności na wierzchu twojej biblioteki.)"
+"biblioteki, następnie umieść dowolną ich liczbę w twoim cmentarzu, a "
+"pozostałe na wierzchu twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:374
 msgid ""
@@ -1099,7 +1104,7 @@ msgid ""
 "cards to the battlefield."
 msgstr ""
 "Wybierz w twoim cmentarzu kartę stwora o skróconym koszcie many 1, następnie "
-"zrób to samo dla kart stworów o skróconym koszcie many 2 i 3. Zwróć owe "
+"zrób to samo dla kart stworów o skróconych kosztach many 2 i 3. Przywróć owe "
 "karty na pole walki."
 
 #: ../../GRN.rst:384
@@ -1125,8 +1130,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Discard a creature card: Return Kraul Swarm from your "
 "graveyard to your hand."
 msgstr ""
-"|mana_2|\\ |mana_b|, odrzuć kartę stwora: Zwróć tę kartę z twojego cmentarza "
-"do twojej ręki."
+"|mana_2|\\ |mana_b|, odrzuć kartę stwora: Przywróć tę kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../GRN.rst:394
 msgid ""
@@ -1140,8 +1145,8 @@ msgid ""
 "Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage "
 "to target opponent for each creature card in your graveyard."
 msgstr ""
-"Ściółka — Kiedy ta karta wejdzie na pole walki, zadaje 1 obrażenie "
-"wskazanemu przeciwnikowi za każdą kartę stwora w twoim cmentarzu."
+"Ściółka — Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu "
+"przeciwnikowi po 1 obrażeniu za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:398
 msgid ""
@@ -1158,7 +1163,7 @@ msgid ""
 msgstr ""
 "Ściółka — Wyszukaj w twojej bibliotece czarną kartę o skróconym koszcie many "
 "mniejszym lub równym liczbie kart stworów w twoim cmentarzu, ujawnij ją i "
-"dołóż do twojej ręki, następnie przetasuj twoją bibliotekę."
+"umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../GRN.rst:404
 msgid ""
@@ -1183,8 +1188,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, Midnight Reaper deals 1 "
 "damage to you and you draw a card."
 msgstr ""
-"Ilekroć umiera stwór nie będący żetonem, ten stwór zadaje tobie 1 obrażenie "
-"i dobierasz kartę."
+"Ilekroć umrze nieżetonowy stwór, niniejszy stwór zadaje tobie 1 obrażenie, "
+"dobierz kartę."
 
 #: ../../GRN.rst:412
 msgid ""
@@ -1200,7 +1205,7 @@ msgid ""
 "creature cards in your graveyard. (It can't blocked except by two or more "
 "creatures.)"
 msgstr ""
-"Ściółka — Kiedy ta karta wjedzie na pole walki, wskazany stwór zyskuje do "
+"Ściółka — Kiedy ten stwór wjedzie na pole walki, wskazany stwór zyskuje do "
 "końca tury złowrogość oraz +X/+0, gdzie X jest liczbą kart stworów w twoim "
 "cmentarzu. (Nie może być blokowany, chyba że przez co najmniej dwa stwory.)"
 
@@ -1217,9 +1222,9 @@ msgid ""
 "number of creature cards in your graveyard. If that creature would die this "
 "turn, exile it instead."
 msgstr ""
-"Ściółka — Wskazany stwór dostaje -X/-X do końca tury, gdzie X jest liczbą "
+"Ściółka — Wskazany stwór dostaje do końca tury -X/-X, gdzie X jest liczbą "
 "kart stworów w twoim cmentarzu. Jeśli ów stwór miałby umrzeć w tej turze, "
-"zamiast tego zostaje wygnany."
+"zamiast tego wygnaj go."
 
 #: ../../GRN.rst:420
 msgid ""
@@ -1234,7 +1239,7 @@ msgid ""
 "player's graveyard or hand and exile it."
 msgstr ""
 "Wskazany przeciwnik ujawnia swoją rękę. Wybierasz kartę nie będącą lądem z "
-"ręki lub cmentarza owego gracza i wypędzasz ją."
+"ręki lub cmentarza owego gracza i wygnaj ją."
 
 #: ../../GRN.rst:426
 msgid ""
@@ -1279,7 +1284,7 @@ msgstr ""
 msgid ""
 "This spell costs |mana_2| less to cast if it targets a legendary creature."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje na legendarnego "
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje legendarnego "
 "stwora."
 
 #: ../../GRN.rst:442
@@ -1309,7 +1314,7 @@ msgid ""
 "You gain life equal to the sacrificed creature's toughness. Destroy target "
 "creature an opponent controls."
 msgstr ""
-"Zyskaj życie równe wytrzymałości poświęconego stwora. Zniszcz wskazanego "
+"Zyskaj życia równe wytrzymałości poświęconego stwora. Zniszcz wskazanego "
 "stwora pod władaniem przeciwnika."
 
 #: ../../GRN.rst:452
@@ -1324,7 +1329,7 @@ msgid ""
 "When Spinal Centipede dies, put a +1/+1 counter on target creature you "
 "control."
 msgstr ""
-"Kiedy ten stwór umiera, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"Kiedy ten stwór umrze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
 "władaniem."
 
 #: ../../GRN.rst:456
@@ -1341,9 +1346,9 @@ msgid ""
 "time you could cast a sorcery. (It can't be blocked except by two or more "
 "creatures.)"
 msgstr ""
-"|mana_1|, poświęć innego stwora: Umieść znacznik +1/+1 z tego stwora. "
-"Zyskuje on złowrogość do końca tury. Aktywuj jako obrzęd. (Nie może być "
-"blokowany, chyba że przez co najmniej dwa stwory.)"
+"|mana_1|, poświęć innego stwora: Umieść znacznik +1/+1 na niniejszym "
+"stworze. Zyskuje on złowrogość do końca tury. Aktywuj jako obrzęd. (Nie może "
+"być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../GRN.rst:460
 msgid ""
@@ -1354,7 +1359,7 @@ msgstr ""
 
 #: ../../GRN.rst:459
 msgid "|mana_1|\\ |mana_b|: Veiled Shade gets +1/+1 until end of turn."
-msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje +1/+1 do końca tury."
+msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../GRN.rst:464
 msgid ""
@@ -1369,9 +1374,9 @@ msgid ""
 "card, then puts the top card of their library into their graveyard. You gain "
 "1 life."
 msgstr ""
-"Ten czar zadaje 1 obrażenie każdemu przeciwnikowi. Każdy przeciwnik odrzuca "
-"kartę, następnie przekłada wierzchnią kartę swojej biblioteki do swojego "
-"cmentarza. Zyskaj 1 życie."
+"Ten czar zadaje każdemu przeciwnikowi po 1 obrażeniu. Każdy przeciwnik "
+"odrzuca kartę, następnie umieszcza wierzchnią kartę swojej biblioteki w "
+"swoim cmentarzu. Zyskaj 1 życie."
 
 #: ../../GRN.rst:468
 msgid ""
@@ -1385,8 +1390,8 @@ msgid ""
 "Whenever you surveil for the first time each turn, Whispering Snitch deals 1 "
 "damage to each opponent and you gain 1 life."
 msgstr ""
-"Ilekroć szpiegujesz po raz pierwszy w danej turze, ten stwór zadaje 1 "
-"obrażenie każdemu przeciwnikowi, a ty zyskaj 1 życie."
+"Ilekroć szpiegujesz po raz pierwszy w danej turze, ten stwór zadaje każdemu "
+"przeciwnikowi po 1 obrażeniu, a ty zyskaj 1 życie."
 
 #: ../../GRN.rst:474
 msgid ""
@@ -1405,9 +1410,9 @@ msgid ""
 "instant and sorcery spells this turn, return Arclight Phoenix from your "
 "graveyard to the battlefield."
 msgstr ""
-"Z początkiem walki w każdej twojej turze, jeśli rzuciłeś w tej turze co "
-"najmniej trzy czary sztuczek lub obrzędu, zwróć tę kartę z twojego cmentarza "
-"na pole walki."
+"Na początku walki w twojej turze, jeśli rzuciłeś w tej turze co najmniej "
+"trzy czary sztuczek lub obrzędów, przywróć tę kartę z twojego cmentarza na "
+"pole walki."
 
 #: ../../GRN.rst:480
 msgid ""
@@ -1437,8 +1442,8 @@ msgid ""
 "Whenever Book Devourer deals combat damage to a player, you may discard all "
 "the cards in your hand. If you do, draw that many cards."
 msgstr ""
-"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, możesz odrzucić "
-"wszystkie karty z ręki. Jeśli tak zrobisz, dobierz tyle samo kart."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz odrzucić wszystkie "
+"karty z ręki. Jeśli tak zrobisz, dobierz tyle samo kart."
 
 #: ../../GRN.rst:490
 msgid ""
@@ -1449,7 +1454,7 @@ msgstr ""
 
 #: ../../GRN.rst:489
 msgid "Command the Storm deals 5 damage to target creature."
-msgstr "Ten czar zadaje 5 obrażeń wskazanemu stworowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../GRN.rst:494
 msgid ""
@@ -1463,8 +1468,9 @@ msgid ""
 "Cosmotronic Wave deals 1 damage to each creature your opponents control. "
 "Creatures your opponents control can't block this turn."
 msgstr ""
-"Ten czar zadaje 1 obrażenia każdemu stworowi pod władaniem przeciwników. "
-"Stwory twoich przeciwników nie mogą blokować w tej turze."
+"Ten czar zadaje każdemu stworowi pod władaniem twoich przeciwników po 1 "
+"obrażeniu. Stwory pod władaniem twoich przeciwników nie mogą blokować w tej "
+"turze."
 
 #: ../../GRN.rst:500
 msgid ""
@@ -1475,7 +1481,7 @@ msgstr ""
 
 #: ../../GRN.rst:497
 msgid "Direct Current deals 2 damage to any target."
-msgstr "Ten czar zadaje 2 obrażenia w dowolny cel."
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../GRN.rst:506
 msgid ""
@@ -1489,8 +1495,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 "
 "damage to each opponent."
 msgstr ""
-"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór zadaje 1 obrażenie każdemu "
-"przeciwnikowi."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór zadaje każdemu "
+"przeciwnikowi po 1 obrażeniu."
 
 #: ../../GRN.rst:512
 msgid ""
@@ -1504,8 +1510,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
 "until end of turn, where X is that spell's converted mana cost."
 msgstr ""
-"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór dostaje +X/+0 do końca tury, "
-"gdzie X jest skróconym kosztem many owego czaru."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"X/+0, gdzie X jest skróconym kosztem many owego czaru."
 
 #: ../../GRN.rst:522
 msgid ""
@@ -1521,7 +1527,7 @@ msgstr ""
 
 #: ../../GRN.rst:517
 msgid "You may play the top card of your library."
-msgstr "Możesz zagrywać górną kartę twojej biblioteki."
+msgstr "Możesz zagrywać wierzchnią kartę twojej biblioteki."
 
 #: ../../GRN.rst:519
 msgid "You can't play cards from your hand."
@@ -1550,7 +1556,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór dostaje +1/+0 do końca tury."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"1/+0."
 
 #: ../../GRN.rst:538
 msgid ""
@@ -1561,7 +1568,7 @@ msgstr ""
 
 #: ../../GRN.rst:537
 msgid "|mana_1|\\ |mana_r|: Goblin Banneret gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +2/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../GRN.rst:546
 msgid ""
@@ -1576,11 +1583,11 @@ msgstr "|mana_1|, poświęć tego stwora: Wybierz jedno —"
 
 #: ../../GRN.rst:543
 msgid "Goblin Cratermaker deals 2 damage to target creature."
-msgstr "Ten stwór zadaje 2 obrażenia wskazanemu stworowi."
+msgstr "Ten stwór zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../GRN.rst:545
 msgid "Destroy target colorless nonland permanent."
-msgstr "Zniszcz wskazany bezkolorowy permanent nie będący lądem."
+msgstr "Zniszcz wskazany bezkolorowy nielądowy permanent."
 
 #: ../../GRN.rst:550
 msgid ""
@@ -1594,7 +1601,8 @@ msgid ""
 "Whenever Goblin Locksmith attacks, creatures with defender can't block this "
 "turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, stwory z obrońcą nie mogą bronić w tej turze."
+"Ilekroć ten stwór zaatakuje, stwory z obronnością nie mogą blokować w tej "
+"turze."
 
 #: ../../GRN.rst:556
 msgid ""
@@ -1607,8 +1615,8 @@ msgstr ""
 msgid ""
 "Target creature you control deals damage equal to its power to target player."
 msgstr ""
-"Wskazany stwór pod twoim władaniem zadaje obrażenia równe jego sile we "
-"wskazanego gracza."
+"Wskazany stwór pod twoim władaniem zadaje wskazanemu graczowi obrażenia "
+"równe swojej sile."
 
 #: ../../GRN.rst:562
 msgid ""
@@ -1622,8 +1630,8 @@ msgid ""
 "Whenever Hellkite Whelp attacks, it deals 1 damage to target creature "
 "defending player controls."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, zadaje 1 obrażenie we wskazanego stwora pod "
-"władaniem broniącego się gracza."
+"Ilekroć ten stwór zaatakuje, zadaje wskazanemu stworowi pod władaniem "
+"broniącego się gracza 1 obrażenie."
 
 #: ../../GRN.rst:568
 msgid ""
@@ -1638,7 +1646,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../GRN.rst:567
 msgid "Inescapable Blaze deals 6 damage to any target."
-msgstr "Ten czar zadaje 6 obrażeń w dowolny cel."
+msgstr "Ten czar zadaje wskazanemu celowi 6 obrażeń."
 
 #: ../../GRN.rst:572
 msgid ""
@@ -1652,8 +1660,8 @@ msgid ""
 "Lava Coil deals 4 damage to target creature. If that creature would die this "
 "turn, exile it instead."
 msgstr ""
-"Ten czar zadaje 4 obrażenia we wskazanego stwora. Jeśli ów stwór miałby "
-"umrzeć w tej turze, zamiast tego zostaje wypędzony."
+"Ten czar zadaje wskazanemu stworowi 4 obrażenia. Jeśli ów stwór miałby "
+"umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../GRN.rst:578
 msgid ""
@@ -1668,7 +1676,7 @@ msgid ""
 "token. That token gains haste until end of turn and attacks this combat if "
 "able."
 msgstr ""
-"Z początkiem walki w twojej turze stwórz żeton czerwonego stwora Goblin 1/1. "
+"Na początku walki w twojej turze, stwórz żeton czerwonego stwora Goblin 1/1. "
 "Ów żeton zyskuje pośpiech do końca tury i atakuje w tej walce jeśli może."
 
 #: ../../GRN.rst:584
@@ -1691,7 +1699,7 @@ msgstr ""
 
 #: ../../GRN.rst:587
 msgid "Target creature gets +1/+1 and gains haste until end of turn."
-msgstr "Wskazany stwór do końca tury dostaje +1/+1 i pośpiech."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 oraz pośpiech."
 
 #: ../../GRN.rst:594
 msgid ""
@@ -1705,8 +1713,8 @@ msgid ""
 "Whenever Ornery Goblin blocks or becomes blocked by a creature, Ornery "
 "Goblin deals 1 damage to that creature."
 msgstr ""
-"Ilekroć ten stwór blokuje lub zostaje zablokowany przez stwora, zadaje on 1 "
-"obrażenie w owego stwora."
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany przez stwora, zadaje on "
+"owemu stworowi 1 obrażenie."
 
 #: ../../GRN.rst:600
 msgid ""
@@ -1720,8 +1728,8 @@ msgid ""
 "Target opponent may have Risk Factor deal 4 damage to them. If that player "
 "doesn't, you draw three cards."
 msgstr ""
-"Wskazany przeciwnik może zdecydować, czy otrzyma 4 obrażenia od tego czaru. "
-"Jeśli się na to nie zdecyduje, ty dobierasz trzy karty."
+"Wskazany przeciwnik może zdecydować, że otrzyma 4 obrażenia od tego czaru. "
+"Jeśli tak nie zrobi, dobierz trzy karty."
 
 #: ../../GRN.rst:604
 msgid ""
@@ -1735,8 +1743,8 @@ msgid ""
 "When Rubblebelt Boar enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje +2/+0 do końca "
-"tury."
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"2/+0."
 
 #: ../../GRN.rst:610
 msgid ""
@@ -1751,7 +1759,7 @@ msgid ""
 "+1 counters on it, put a +1/+1 counter on Runaway Steam-Kin."
 msgstr ""
 "Ilekroć rzucisz czerwony czar, jeśli ten stwór ma mniej niż trzy znaczniki +"
-"1/+1, umieść na tym stworze znacznik +1/+1."
+"1/+1, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../GRN.rst:609
 msgid ""
@@ -1772,7 +1780,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, target creature an opponent "
 "controls can't block this turn."
 msgstr ""
-"Ilekroć rzucisz sztuczkę lub obrzęd, wskazany stwór pod władaniem "
+"Ilekroć rzucisz czar sztuczki lub obrzędu, wskazany stwór pod władaniem "
 "przeciwnika nie może blokować w tej turze."
 
 #: ../../GRN.rst:618
@@ -1823,7 +1831,7 @@ msgstr ""
 
 #: ../../GRN.rst:633
 msgid "Wojek Bodyguard can't attack or block alone."
-msgstr "Ten stwór nie może atakować lub blokować samotnie."
+msgstr "Ten stwór nie może atakować ani blokować samotnie."
 
 #: ../../GRN.rst:638
 msgid ""
@@ -1838,8 +1846,8 @@ msgid ""
 "target creature you don't control. (Each deals damage equal to its power to "
 "the other.)"
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz kazać mu walczyć ze wskazanym "
-"stworem, którym nie władasz. (Zadają sobie nawzajem obrażenia równe swojej "
+"Kiedy ten stwór wejdzie na pole walki, możesz kazać mu walczyć ze wskazanym "
+"stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia równe swojej "
 "sile.)"
 
 #: ../../GRN.rst:644
@@ -1891,7 +1899,7 @@ msgid ""
 "Search your library for up to two basic land cards and/or Gate cards, put "
 "them onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Wyszukaj  w twojej bibliotece co najwyżej dwóch kart bazowych lądów lub "
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i/lub "
 "Bram, umieść je przekręcone na polu walki, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -1923,7 +1931,7 @@ msgstr ""
 
 #: ../../GRN.rst:671
 msgid "|mana_4|\\ |mana_g|: Devkarin Dissident gets +2/+2 until end of turn."
-msgstr "|mana_4|\\ |mana_g|: Ten stwór dostaje +2/+2 do końca tury."
+msgstr "|mana_4|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2."
 
 #: ../../GRN.rst:676
 msgid ""
@@ -1939,8 +1947,8 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu lub Bramę, ujawnić ją, dołożyć do twojej ręki, następnie "
-"przetasować bibliotekę."
+"kartę bazowego lądu lub Bramę, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../GRN.rst:680
 msgid ""
@@ -1965,7 +1973,7 @@ msgid ""
 "Undergrowth — Golgari Raiders enters the battlefield with a +1/+1 counter on "
 "it for each creature card in your graveyard."
 msgstr ""
-"Ściółka — Ta karta wchodzi na pole walki z tyloma znacznikami +1/+1, ile "
+"Ściółka — Ta karta wchodzi na pole walki mając tyle znaczników +1/+1, ile "
 "jest kart stworów w twoim cmentarzu."
 
 #: ../../GRN.rst:692
@@ -2006,11 +2014,11 @@ msgid ""
 "them onto the battlefield. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
-"Ściółka — Rzucając ten czar, ujawnij X wierzchnich kart twojej biblioteki, "
-"gdzie X jest liczbą kart stworów w twoim cmentarzu. Spośród owych kart "
-"możesz położyć na polu walki kartę zielonego permanentu o skróconym koszcie "
-"many X lub mniej. Umieść pozostałe na spodzie twojej biblioteki w losowej "
-"kolejności."
+"Ściółka — Kiedy rzucisz ten czar, ujawnij X wierzchnich kart twojej "
+"biblioteki, gdzie X jest liczbą kart stworów w twoim cmentarzu. Spośród "
+"owych kart możesz umieścić na polu walki kartę zielonego permanentu o "
+"skróconym koszcie many X lub mniejszym. Umieść pozostałe na spodzie twojej "
+"biblioteki w losowej kolejności."
 
 #: ../../GRN.rst:702
 msgid ""
@@ -2050,7 +2058,7 @@ msgid ""
 "Undergrowth — When Kraul Foragers enters the battlefield, you gain 1 life "
 "for each creature card in your graveyard."
 msgstr ""
-"Ściółka — Kiedy ta karta wejdzie na pole walki, zyskaj 1 życie za każdą "
+"Ściółka — Kiedy ten stwór wejdzie na pole walki, zyskaj po 1 życiu za każdą "
 "kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:716
@@ -2067,11 +2075,10 @@ msgid ""
 "until end of turn, where X is the number of creature cards in your "
 "graveyard, then you may have Kraul Harpooner fight that creature."
 msgstr ""
-"Ściółka — Kiedy Kraul Harpooner wejdzie na pole walki, wybierz co najwyżej "
-"jednego wskazanego stwora z lataniem, nad którym nie władasz. Kraul "
-"Harpooner dostaje +X/+0 do końca tury, gdzie X jest liczbą kart stworów w "
-"twoim cmentarzu, następnie możesz kazać, by Kraul Harpooner walczył z owym "
-"stworem."
+"Ściółka — Kiedy ten stwór wejdzie na pole walki, wskaż co najwyżej jednego "
+"stwora z lataniem poza twoim władaniem. Niniejszy stwór dostaje do końca "
+"tury +X/+0, gdzie X jest liczbą kart stworów w twoim cmentarzu, następnie "
+"możesz kazać mu walczyć z owym stworem."
 
 #: ../../GRN.rst:720
 msgid ""
@@ -2100,7 +2107,7 @@ msgstr "Antyklątwa"
 
 #: ../../GRN.rst:725
 msgid "You can't cast noncreature spells."
-msgstr "Nie możesz rzucać czarów nie będących stworami."
+msgstr "Nie możesz rzucać nie-stworowych czarów."
 
 #: ../../GRN.rst:727
 msgid ""
@@ -2115,7 +2122,7 @@ msgid ""
 "If a spell or ability an opponent controls causes you to discard Nullhide "
 "Ferox, put it onto the battlefield instead of putting it into your graveyard."
 msgstr ""
-"Jeśli czar lub zdolność władane przez przeciwnika zmusza cię do odrzucenia "
+"Jeśli czar lub zdolność pod władaniem przeciwnika zmusza cię do odrzucenia "
 "tej karty, umieść tę kartę na polu walki zamiast umieszczać ją w twoim "
 "cmentarzu."
 
@@ -2151,9 +2158,9 @@ msgid ""
 "that creature's power is greater than Pelt Collector's, put a +1/+1 counter "
 "on Pelt Collector."
 msgstr ""
-"Ilekroć inny władany przez ciebie stwór wchodzi na pole walki lub umiera, "
-"jeśli siła owego stwora jest większa niż siła tego stwora, umieść znacznik "
-"+1/+1 na tym stworze."
+"Ilekroć inny stwór pod twoim władaniem wejdzie na pole walki lub umrze, "
+"jeśli siła owego stwora jest większa niż siła tego stwora, umieść znacznik +"
+"1/+1 na tym stworze."
 
 #: ../../GRN.rst:747
 msgid ""
@@ -2185,7 +2192,7 @@ msgid ""
 "deals damage equal to its power to the other.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
-"władaniem. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../GRN.rst:764
 msgid ""
@@ -2211,7 +2218,7 @@ msgstr ""
 
 #: ../../GRN.rst:771
 msgid "Create a 2/2 green and white Elf Knight creature token with vigilance."
-msgstr "Stwórz żeton zielono-białego stwora Elfi Rycerz z czujnością."
+msgstr "Stwórz żeton zielono-białego stwora Elf Rycerz z czujnością."
 
 #: ../../GRN.rst:773 ../../GRN.rst:979
 msgid "Destroy target artifact or enchantment."
@@ -2230,7 +2237,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../GRN.rst:779
 msgid "When Urban Utopia enters the battlefield, draw a card."
-msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../GRN.rst:781
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
@@ -2249,8 +2256,8 @@ msgid ""
 "gains vigilance and gets +X/+X until end of turn, where X is the number of "
 "creature cards in your graveyard."
 msgstr ""
-"Ściółka — Kiedy ta karta wejdzie na pole walki, wskazany stwór do końca tury "
-"zyskuje czujność oraz +X/+X, gdzie X jest liczbą kart stworów w twoim "
+"Ściółka — Kiedy ten stwór wejdzie na pole walki, wskazany stwór do końca "
+"tury zyskuje czujność oraz +X/+X, gdzie X jest liczbą kart stworów w twoim "
 "cmentarzu."
 
 #: ../../GRN.rst:787
@@ -2270,7 +2277,7 @@ msgid ""
 "hand. Exile Vivid Revival."
 msgstr ""
 "Przywróć co najwyżej trzy wskazane wielokolorowe karty z twojego cmentarza "
-"do twojej ręki. Wygnaj tę kartę."
+"do twojej ręki. Wygnaj ten czar."
 
 #: ../../GRN.rst:796
 msgid ""
@@ -2299,7 +2306,7 @@ msgstr "Przekręć wskazanego stwora."
 
 #: ../../GRN.rst:807
 msgid "Target creature gets -2/-4 until end of turn."
-msgstr "Wskazany stwór dostaje -2/-4 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -2/-4."
 
 #: ../../GRN.rst:812
 msgid ""
@@ -2314,9 +2321,9 @@ msgid ""
 "their library for a basic land card, put it onto the battlefield, then "
 "shuffle their library."
 msgstr ""
-"Zniszcz wskazany permanent władany przez przeciwnika. Jego władca może "
-"poszukać w swojej bibliotece kartę bazowego lądu, położyć ją na polu walki, "
-"następnie przetasować swoją bibliotekę."
+"Zniszcz wskazany permanent pod władaniem przeciwnika. Jego władca może "
+"wyszukać w swojej bibliotece kartę bazowego lądu, umieszcza ją na polu "
+"walki, następnie tasuje swoją bibliotekę."
 
 #: ../../GRN.rst:820
 msgid ""
@@ -2349,7 +2356,7 @@ msgid ""
 "instant and sorcery cards you own in exile and in your graveyard."
 msgstr ""
 "Ten czar zadaje wskazanemu stworowi obrażenia równe całkowitej liczbie kart "
-"sztuczek i obrzędów, które posiadasz na wygnaniu i w twoim cmentarzu."
+"sztuczek i obrzędów, które masz na wygnaniu i w twoim cmentarzu."
 
 #: ../../GRN.rst:830
 msgid ""
@@ -2365,10 +2372,10 @@ msgid ""
 "choose one of those creatures. Copy that spell. The copy targets the chosen "
 "creature."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu wskazujący wyłącznie w tego "
-"stwora, jeśli władasz przynajmniej jednym innym stworem mogącym być celem "
-"owego czaru, wybierz jednego z owych stworów. Skopiuj ów czar. Kopia "
-"wskazuje w wybranego stwora."
+"Ilekroć rzucisz czar sztuczki lub obrzędu wskazujący tylko tego stwora, "
+"jeśli władasz co najmniej jednym innym stworem mogącym być celem owego "
+"czaru, wybierz jednego z owych stworów. Skopiuj ów czar. Kopia wskazuje "
+"wybranego stwora."
 
 #: ../../GRN.rst:836
 msgid ""
@@ -2381,7 +2388,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_w|: Boros Challenger gets +1/+1 until end of "
 "turn."
-msgstr "|mana_2|\\ |mana_r|\\ |mana_w|: Ten stwór dostaje +1/+1 do końca tury."
+msgstr "|mana_2|\\ |mana_r|\\ |mana_w|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../GRN.rst:840
 msgid ""
@@ -2395,8 +2402,8 @@ msgid ""
 "You gain X life and draw X cards, where X is the number of creatures you "
 "control. Creatures you control get +1/+1 until end of turn."
 msgstr ""
-"Zyskaj X życia i dobierasz X kart, gdzie X jest liczbą stworów pod twoim "
-"władaniem. Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+"Zyskaj X żyć i dobierz X kart, gdzie X jest liczbą stworów pod twoim "
+"władaniem. Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../GRN.rst:844
 msgid ""
@@ -2408,7 +2415,7 @@ msgstr ""
 #: ../../GRN.rst:843
 msgid ""
 "When Centaur Peacemaker enters the battlefield, each player gains 4 life."
-msgstr "Kiedy ta karta wejdzie na pole walki, każdy gracz zyskuje 4 życia."
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz zyskuje po 4 życia."
 
 #: ../../GRN.rst:848
 msgid ""
@@ -2423,7 +2430,7 @@ msgid ""
 "one. At the beginning of that turn's end step, you lose the game."
 msgstr ""
 "Stwory pod twoim władaniem zyskują niezniszczalność. Weź dodatkową turę po "
-"obecnej. Na początku kroku zakończenia owej tury przegrywasz grę."
+"obecnej. Na początku kroku końcowego owej tury przegrywasz grę."
 
 #: ../../GRN.rst:856
 msgid ""
@@ -2461,8 +2468,8 @@ msgid ""
 "When Conclave Cavalier dies, create two 2/2 green and white Elf Knight "
 "creature tokens with vigilance."
 msgstr ""
-"Kiedy ten stwór umrze, stwórz dwa żetony zielono-białego stwora Elfi Rycerz "
-"2/2 z czujnością."
+"Kiedy ten stwór umrze, stwórz dwa żetony zielono-białego stwora Elf Rycerz 2/"
+"2 z czujnością."
 
 #: ../../GRN.rst:868
 msgid ""
@@ -2481,8 +2488,8 @@ msgid ""
 "|mana_5|\\ |mana_w|, |tap|: Create a 2/2 green and white Elf Knight creature "
 "token with vigilance."
 msgstr ""
-"|mana_5|\\ |mana_w|, |tap|: Stwórz żeton zielono-białego stwora Elfi Rycerz "
-"2/2 z czujnością."
+"|mana_5|\\ |mana_w|, |tap|: Stwórz żeton zielono-białego stwora Elf Rycerz 2/"
+"2 z czujnością."
 
 #: ../../GRN.rst:876
 msgid ""
@@ -2496,12 +2503,12 @@ msgid ""
 "Crackling Drake's power is equal to the total number of instant and sorcery "
 "cards you own in exile and in your graveyard."
 msgstr ""
-"Ten stwór ma siłę równą całkowitej liczbie kart sztuczek i obrzędów, które "
-"posiadasz na wygnaniu i w twoim cmentarzu."
+"Ta karta ma siłę równą całkowitej liczbie kart sztuczek i obrzędów, jakie "
+"masz na wygnaniu i w twoim cmentarzu."
 
 #: ../../GRN.rst:875
 msgid "When Crackling Drake enters the battlefield, draw a card."
-msgstr "Kiedy ta karta wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../GRN.rst:880
 msgid ""
@@ -2527,7 +2534,7 @@ msgstr ""
 
 #: ../../GRN.rst:885
 msgid "Deafening Clarion deals 3 damage to each creature."
-msgstr "Ten czar zadaje 3 obrażenia każdemu stworowi."
+msgstr "Ten czar zadaje każdemu stworowi po 3 obrażenia."
 
 #: ../../GRN.rst:887
 msgid "Creatures you control gain lifelink until end of turn."
@@ -2563,13 +2570,13 @@ msgid ""
 "When Disinformation Campaign enters the battlefield, you draw a card and "
 "each opponent discards a card."
 msgstr ""
-"Kiedy ta karta wejdzie na pole bitwy, ty dobierasz kartę, a każdy z "
+"Kiedy ten urok wejdzie na pole walki, dobierz kartę i każdy z twoich "
 "przeciwników odrzuca kartę."
 
 #: ../../GRN.rst:901
 msgid ""
 "Whenever you surveil, return Disinformation Campaign to its owner's hand."
-msgstr "Ilekroć szpiegujesz, przywróć ten urok do ręki jego właściciela."
+msgstr "Ilekroć szpiegujesz, przywróć ten urok do ręki właściciela."
 
 #: ../../GRN.rst:906
 msgid ""
@@ -2583,7 +2590,7 @@ msgid ""
 "Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white "
 "Soldier creature token with lifelink."
 msgstr ""
-"Ilekroć ta karta zostaje przekręcona, stwórz żeton białego stwora Piechur "
+"Ilekroć ten stwór zostanie przekręcony, stwórz żeton białego stwora Piechur "
 "1/1 z więzią życia."
 
 #: ../../GRN.rst:910
@@ -2619,10 +2626,10 @@ msgid ""
 "game if they own three or more exiled cards with hit counters on them. "
 "Etrata's owner shuffles Etrata into their library."
 msgstr ""
-"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, wygnaj wskazanego stwora "
-"władanego przez owego gracza i umieść znacznik trafienia na owej karcie. Ów "
-"gracz przegrywa grę jeśli posiada co najmniej trzy karty wygnane ze "
-"znacznikami trafienia. Właściciel niniejszej karty wtasowuje ją do swojej "
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj wskazanego stwora "
+"pod władaniem owego gracza i umieść znacznik trafienia na owej karcie. Ów "
+"gracz przegrywa grę jeśli posiada co najmniej trzy wygnane karty mające "
+"znacznik trafienia. Właściciel niniejszego stwora wtasowuje go do swojej "
 "biblioteki."
 
 #: ../../GRN.rst:924
@@ -2637,23 +2644,23 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, put a charge counter on "
 "Firemind's Research."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik ładunku na tej "
-"karcie."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik ładunku na tym "
+"uroku."
 
 #: ../../GRN.rst:921
 msgid ""
 "|mana_1|\\ |mana_u|, Remove two charge counters from Firemind's Research: "
 "Draw a card."
 msgstr ""
-"|mana_1|\\ |mana_u|, usuń trzy znaczniki ładunku z tej karty: Dobierz kartę."
+"|mana_1|\\ |mana_u|, usuń trzy znaczniki ładunku z tego uroku: Dobierz kartę."
 
 #: ../../GRN.rst:923
 msgid ""
 "|mana_1|\\ |mana_r|, Remove five charge counters from Firemind's Research: "
 "It deals 5 damage to any target."
 msgstr ""
-"|mana_1|\\ |mana_r|, usuń pięć znaczników ładunku z tej karty: Ta karta "
-"zadaje 5 obrażeń w dowolny cel."
+"|mana_1|\\ |mana_r|, usuń pięć znaczników ładunku z tego uroku: Zadaje on "
+"wskazanemu celowi 5 obrażeń."
 
 #: ../../GRN.rst:928
 msgid ""
@@ -2679,7 +2686,7 @@ msgid ""
 "your library into your graveyard. You may put a land card from your "
 "graveyard on top of your library."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
+"Kiedy ten stwór wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
 "biblioteki w twoim cmentarzu. Możesz umieścić kartę lądu z twojego cmentarza "
 "na wierzchu twojej biblioteki."
 
@@ -2706,7 +2713,7 @@ msgid ""
 "When Golgari Findbroker enters the battlefield, return target permanent card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zwróć wskazaną kartę permanentu z "
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę permanentu z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../GRN.rst:944
@@ -2728,8 +2735,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Target creature doesn't untap during its "
 "controller's next untap step."
 msgstr ""
-"|mana_1|\\ |mana_u|, |tap|: Wskazany stwór nie odznacza się w najbliższym "
-"kroku odkręcania swojego władcy."
+"|mana_1|\\ |mana_u|, |tap|: Wskazany stwór nie odkręci się w najbliższym "
+"kroku odkręcania jego władcy."
 
 #: ../../GRN.rst:949
 msgid ""
@@ -2738,8 +2745,8 @@ msgid ""
 "of your library in any order.)"
 msgstr ""
 "|mana_2|\\ |mana_b|, |tap|: Szpieguj 2. (Spójrz na dwie wierzchnie karty "
-"twojej biblioteki, następnie dowolne z nich umieść w twoim cmentarzu, a "
-"pozostałe w dowolnej kolejności na wierzchu twojej biblioteki.)"
+"twojej biblioteki, następnie umieść dowolną ich liczbę w twoim cmentarzu, a "
+"pozostałe na wierzchu twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:954
 msgid ""
@@ -2753,8 +2760,8 @@ msgid ""
 "Draw two cards. Then you may discard a nonland card. When you do, "
 "Hypothesizzle deals 4 damage to target creature."
 msgstr ""
-"Dobierz dwie karty. Następnie możesz odrzucić kartę nie będącą lądem. Kiedy "
-"tak zrobisz, ten czar zadaje 4 obrażenia wskazanemu stworowi."
+"Dobierz dwie karty. Następnie możesz odrzucić nielądową kartę. Kiedy tak "
+"zrobisz, ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../GRN.rst:958
 msgid ""
@@ -2765,7 +2772,7 @@ msgstr ""
 
 #: ../../GRN.rst:957
 msgid "Counter target spell. Ionize deals 2 damage to that spell's controller."
-msgstr "Skontruj wskazany czar. Ionize zadaje 2 obrażenia władcy owego czaru."
+msgstr "Skontruj wskazany czar. Ten czar zadaje władcy owego czaru 2 obrażenia."
 
 #: ../../GRN.rst:964
 msgid ""
@@ -2788,7 +2795,7 @@ msgid ""
 "|mana_b|\\ |mana_g|, Sacrifice another creature: You gain 1 life and draw a "
 "card."
 msgstr ""
-"|mana_b|\\ |mana_g|, poświęć innego stwora: Zyskaj 1 życie oraz dobierasz "
+"|mana_b|\\ |mana_g|, poświęć innego stwora: Zyskaj 1 życie oraz dobierz "
 "kartę."
 
 #: ../../GRN.rst:968
@@ -2806,7 +2813,7 @@ msgid ""
 "them.)"
 msgstr ""
 "Odkręć wszystkie stwory pod twoim władaniem. Do końca tury zyskują one "
-"antyklątwę i niezniszczalność. (Nie mogą być celem czarów i zdolności pod "
+"antyklątwę oraz niezniszczalność. (Nie mogą być celem czarów i zdolności pod "
 "władaniem twoich przeciwników. Obrażenia i efekty mówiące \"zniszcz\", nie "
 "niszczą ich.)"
 
@@ -2853,7 +2860,7 @@ msgid ""
 "top card of your library. You may put that card into your graveyard.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, szpieguj 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ową kartę w twoim cmentarzu.)"
+"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:987
 msgid ""
@@ -2862,10 +2869,10 @@ msgid ""
 "Multifarious, it's legendary in addition to its other types, and it has this "
 "ability."
 msgstr ""
-"|mana_x|: Ten stwór staje się kopią wskazanej karty stwora w twoim cmentarzu "
-"o skróconym koszcie many X, z wyjątkiem tego, że jego nazwa to 'Lazav, the "
-"Multifarious', jest legendarny w dodatku do swoich innych typów oraz posiada "
-"niniejszą zdolność."
+"|mana_x|: Ten stwór staje się kopią wskazanej karty stwora o skróconym "
+"koszcie many X w twoim cmentarzu, z wyjątkiem tego, że jego nazwa to 'Lazav, "
+"the Multifarious', jest dodatkowo legendarny oprócz swoich innych typów oraz "
+"posiada niniejszą zdolność."
 
 #: ../../GRN.rst:994
 msgid ""
@@ -2883,9 +2890,8 @@ msgid ""
 "|mana_x|\\ |mana_r|, |tap|: Copy target instant or sorcery spell you control "
 "with converted mana cost X. You may choose new targets for the copy."
 msgstr ""
-"|mana_x|\\ |mana_r|, |tap|: Skopiuj wskazany władany przez ciebie czar "
-"sztuczki lub obrzędu o skróconym koszcie X. Możesz wskazać nowe cele dla "
-"owej kopii."
+"|mana_x|\\ |mana_r|, |tap|: Skopiuj wskazany czar sztuczki lub obrzędu o "
+"skróconym koszcie X pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../GRN.rst:1000
 msgid ""
@@ -2900,8 +2906,8 @@ msgid ""
 "creatures you control. Ledev Champion gets +1/+1 until end of turn for each "
 "creature tapped this way."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, możesz przekręcić dowolną liczbę odznaczonych "
-"stworów pod twoim władaniem. Ten stwór dostaje +1/+1 do końca tury za "
+"Ilekroć ten stwór zaatakuje, możesz przekręcić dowolną liczbę odkręconych "
+"stworów pod twoim władaniem. Ten stwór dostaje do końca tury +1/+1 za "
 "każdego stwora przekręconego w ten sposób."
 
 #: ../../GRN.rst:999
@@ -2923,12 +2929,12 @@ msgstr ""
 msgid ""
 "|mana_5|\\ |mana_r|, |tap|: Legion Guildmage deals 3 damage to each opponent."
 msgstr ""
-"|mana_5|\\ |mana_r|, |tap|: Ten stwór zadaje 3 obrażenia każdemu "
-"przeciwnikowi."
+"|mana_5|\\ |mana_r|, |tap|: Ten stwór zadaje każdemu przeciwnikowi po 3 "
+"obrażenia."
 
 #: ../../GRN.rst:1005
 msgid "|mana_2|\\ |mana_w|, |tap|: Tap another target creature."
-msgstr "|mana_2|\\ |mana_w|, |tap|: Zaznacz innego wskazanego stwora."
+msgstr "|mana_2|\\ |mana_w|, |tap|: Przekręć innego wskazanego stwora."
 
 #: ../../GRN.rst:1012
 msgid ""
@@ -2958,7 +2964,7 @@ msgstr ""
 "Wygnaj wszystkie karty z cmentarzy wszystkich przeciwników. Możesz rzucać "
 "owe karty w tej turze wydając manę tak, jakby była maną dowolnego koloru. Na "
 "początku najbliższego kroku końcowego, jeśli jakiekolwiek z owych kart "
-"pozostają wygnane, zwróć je do cmentarzy ich właścicieli."
+"pozostają wygnane, przywróć je do cmentarzy właścicieli."
 
 #: ../../GRN.rst:1017
 msgid "Exile Mnemonic Betrayal."
@@ -2984,7 +2990,7 @@ msgid ""
 "When Molderhulk enters the battlefield, return target land card from your "
 "graveyard to the battlefield."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zwróć wskazaną kartę lądu z twojego "
+"Kiedy ta karta wejdzie na pole walki, przywróć wskazaną kartę lądu z twojego "
 "cmentarza na pole walki."
 
 #: ../../GRN.rst:1030
@@ -3008,11 +3014,12 @@ msgstr ""
 #: ../../GRN.rst:1037
 msgid ""
 "Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target."
-msgstr "Ilekroć dobierasz kartę, ten stwór zadaje 1 obrażenie w dowolny cel."
+msgstr ""
+"Ilekroć dobierzesz kartę, ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../GRN.rst:1039
 msgid "Whenever a player casts an instant or sorcery spell, you draw a card."
-msgstr "Ilekroć jakiś gracz rzuca czar sztuczki lub obrzędu, dobierz kartę."
+msgstr "Ilekroć jakiś gracz rzuci czar sztuczki lub obrzędu, dobierz kartę."
 
 #: ../../GRN.rst:1044
 msgid ""
@@ -3029,8 +3036,8 @@ msgid ""
 msgstr ""
 "Szpieguj 2, następnie dobierz dwie karty. Ten czar zadaje tobie 2 obrażenia. "
 "(Aby szpiegować 2, spójrz na dwie wierzchnie karty twojej biblioteki, "
-"następnie dowolne z nich umieść w twoim cmentarzu, a pozostałe w dowolnej "
-"kolejności na wierzchu twojej biblioteki.)"
+"następnie umieść dowolną ich liczbę w twoim cmentarzu, a pozostałe na "
+"wierzchu twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:1050
 msgid ""
@@ -3059,31 +3066,20 @@ msgstr ""
 "twojej ręce, a drugą w twoim cmentarzu."
 
 #: ../../GRN.rst:1055
-#, fuzzy
-#| msgid ""
-#| "-3: Ral, Izzet Viceroy deals damage to target creature equal to the total "
-#| "number of instant and sorcery cards you own in exile and in your "
-#| "graveyard."
 msgid ""
 "−3: Ral, Izzet Viceroy deals damage to target creature equal to the total "
 "number of instant and sorcery cards you own in exile and in your graveyard."
 msgstr ""
-"-3: Ten permanent zadaje wskazanemu stworowi obrażenia równe całkowitej "
-"liczbie kart sztuczek i obrzędów, które posiadasz na wygnaniu i w twoim "
-"cmentarzu."
+"–3: Ten wędrowiec zadaje wskazanemu stworowi obrażenia równe całkowitej "
+"liczbie twoich kart sztuczek i obrzędów na wygnaniu i w twoim cmentarzu."
 
 #: ../../GRN.rst:1057
-#, fuzzy
-#| msgid ""
-#| "-8: You get an emblem with \"Whenever you cast an instant or sorcery "
-#| "spell, this emblem deals 4 damage to any target and you draw two cards.\""
 msgid ""
 "−8: You get an emblem with \"Whenever you cast an instant or sorcery spell, "
 "this emblem deals 4 damage to any target and you draw two cards.\""
 msgstr ""
-"-8: Dostajesz emblemat o treści \"Ilekroć rzucisz czar sztuczki lub obrzędu, "
-"ten emblemat zadaje 4 obrażenia w dowolnie wskazany cel, a ty dobierasz dwie "
-"karty.\""
+"–8: Dostajesz emblemat o treści \"Ilekroć rzucisz czar sztuczki lub obrzędu, "
+"ten emblemat zadaje wskazanemu celowi 4 obrażenia, dobierz dwie karty.\""
 
 #: ../../GRN.rst:1062
 msgid ""
@@ -3097,7 +3093,7 @@ msgid ""
 "Undergrowth — Rhizome Lurcher enters the battlefield with a number of +1/+1 "
 "counters on it equal to the number of creature cards in your graveyard."
 msgstr ""
-"Ściółka — Ta karta wchodzi na pole walki z tyloma znacznikami +1/+1, ile "
+"Ściółka — Ten stwór wchodzi na pole walki z tyloma znacznikami +1/+1, ile "
 "jest kart stworów w twoim cmentarzu."
 
 #: ../../GRN.rst:1068
@@ -3126,7 +3122,7 @@ msgid ""
 "Tap target creature. Sonic Assault deals 2 damage to that creature's "
 "controller."
 msgstr ""
-"Przekręć wskazanego stwora. Ta karta zadaje 2 obrażenia władcy owego stwora."
+"Przekręć wskazanego stwora. Ten czar zadaje władcy owego stwora 2 obrażenia."
 
 #: ../../GRN.rst:1082
 msgid ""
@@ -3142,10 +3138,10 @@ msgid ""
 "and put it into your hand. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora lub uroku i "
-"dołożyć ją do twojej ręki. Umieść pozostałe karty na spodzie twojej "
-"biblioteki w losowej kolejności."
+"umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
+"losowej kolejności."
 
 #: ../../GRN.rst:1088
 msgid ""
@@ -3179,8 +3175,8 @@ msgid ""
 "Whenever Swathcutter Giant attacks, it deals 1 damage to each creature "
 "defending player controls."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, zadaje on 1 obrażenie każdemu stworowi pod "
-"władaniem broniącego się gracza."
+"Ilekroć ten stwór zaatakuje, zadaje on każdemu stworowi pod władaniem "
+"broniącego się gracza po 1 obrażeniu."
 
 #: ../../GRN.rst:1098
 msgid ""
@@ -3205,7 +3201,7 @@ msgid ""
 "Prevent all noncombat damage that would be dealt to other creatures you "
 "control."
 msgstr ""
-"Zażegnaj wszystkie pozabojowe obrażenia, które mogłyby zostać zadane innym "
+"Zażegnaj wszystkie pozabojowe obrażenia, jakie mogłyby zostać zadane innym "
 "stworom pod twoim władaniem."
 
 #: ../../GRN.rst:1107
@@ -3230,10 +3226,9 @@ msgid ""
 "any type to cast that spell."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, spójrz na trzy wierzchnie "
-"karty biblioteki owego gracza, wygnaj jedną z nich jako zasłoniętą, "
-"następnie umieść pozostałe w jego cmentarzu. Możesz patrzeć na ową kartę "
-"oraz rzucać ją dopóki pozostaje wygnana wydając manę tak, jakby była maną "
-"dowolnego koloru."
+"karty biblioteki owego gracza, wygnaj jedną z nich zakrytą, następnie umieść "
+"pozostałe w jego cmentarzu. Możesz patrzeć na ową kartę oraz rzucać ją "
+"dopóki pozostaje wygnana wydając manę tak, jakby była maną dowolnego koloru."
 
 #: ../../GRN.rst:1120
 msgid ""
@@ -3256,7 +3251,7 @@ msgid ""
 "graveyard.)"
 msgstr ""
 "Szpieguj 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić "
-"ową kartę w twoim cmentarzu.)"
+"ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:1124
 msgid ""
@@ -3291,7 +3286,7 @@ msgid ""
 "When Trostani Discordant enters the battlefield, create two 1/1 white "
 "Soldier creature tokens with lifelink."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwórz dwa żetony białego stwora "
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony białego stwora "
 "Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:1131
@@ -3299,7 +3294,7 @@ msgid ""
 "At the beginning of your end step, each player gains control of all "
 "creatures they own."
 msgstr ""
-"Na początku twojego kroku zakończenia, każdy gracz zyskuje władanie nad "
+"Na początku twojego kroku końcowego, każdy gracz zyskuje władanie nad "
 "wszystkimi własnymi stworami."
 
 #: ../../GRN.rst:1138
@@ -3331,8 +3326,8 @@ msgid ""
 "damage equal to its power to the other.)"
 msgstr ""
 "Stwory pod twoim władaniem zyskują dotyk śmierci do końca tury. Następnie "
-"wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
-"władasz. (Zadają sobie nawzajem obrażenia równe ich sile.)"
+"wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../GRN.rst:1148
 msgid ""
@@ -3347,8 +3342,8 @@ msgid ""
 "library, then put one into your hand and the rest into your graveyard."
 msgstr ""
 "Kiedy miałbyś dobrać kartę, zamiast tego spójrz na trzy wierzchnie karty "
-"twojej biblioteki, następnie dołóż jedną z nich do twojej ręki, a pozostałe "
-"daj do twojego cmentarza."
+"twojej biblioteki, następnie umieść jedną z nich w twojej ręce, a pozostałe "
+"w twoim cmentarzu."
 
 #: ../../GRN.rst:1147
 msgid ""
@@ -3371,7 +3366,7 @@ msgid ""
 "their library, then draws a card for each card exiled from their hand this "
 "way."
 msgstr ""
-"Wybierz nazwę karty. Wyszukaj w cmentarzu, ręce oraz bibliotece wskazanego "
+"Nazwij kartę. Wyszukaj w cmentarzu, ręce oraz bibliotece wskazanego "
 "przeciwnika co najwyżej cztery karty o owej nazwie i wygnaj je. Ów gracz "
 "tasuje swoją bibliotekę, następnie dobiera kartę za każdą z kart wygnanych "
 "ze swojej ręki w ten sposób."
@@ -3389,28 +3384,21 @@ msgid ""
 "a card."
 msgstr ""
 "+2: Możesz poświęcić inny permanent. Jeśli tak zrobisz, zyskaj 1 życie i "
-"dobierasz kartę."
+"dobierz kartę."
 
 #: ../../GRN.rst:1157
-#, fuzzy
-#| msgid ""
-#| "-3: Destroy target nonland permanent with converted mana cost 3 or less."
 msgid ""
 "−3: Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
-"-3: Zniszcz wskazany nie-lądowy permanent o skróconym koszcie many 3 lub "
+"–3: Zniszcz wskazany nie-lądowy permanent o skróconym koszcie many 3 lub "
 "mniejszym."
 
 #: ../../GRN.rst:1159
-#, fuzzy
-#| msgid ""
-#| "-9: You get an emblem with \"Whenever a creature you control deals combat "
-#| "damage to a player, that player loses the game.\""
 msgid ""
 "−9: You get an emblem with \"Whenever a creature you control deals combat "
 "damage to a player, that player loses the game.\""
 msgstr ""
-"-9: Dostajesz emblemat o treści \"Ilekroć stwór pod twoim władaniem zadaje "
+"–9: Dostajesz emblemat o treści \"Ilekroć stwór pod twoim władaniem zada "
 "graczowi obrażenia bojowe, ów gracz przegrywa grę.\""
 
 #: ../../GRN.rst:1166
@@ -3425,7 +3413,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz sztuczkę lub obrzęd, ten stwór dostaje +2/+0 do końca tury."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"2/+0."
 
 #: ../../GRN.rst:1172
 msgid ""
@@ -3436,7 +3425,7 @@ msgstr ""
 
 #: ../../GRN.rst:1171
 msgid "Worldsoul Colossus enters the battlefield with X +1/+1 counters on it."
-msgstr "Ta karta wchodzi na pole walki mając na sobie X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../GRN.rst:1176
 msgid ""
@@ -3461,8 +3450,8 @@ msgid ""
 "As long as you've cast an instant or sorcery spell this turn, Piston-Fist "
 "Cyclops can attack as though it didn't have defender."
 msgstr ""
-"O ile rzuciłeś w tej turze sztuczkę lub obrzęd, ten stwór może atakować, "
-"jakby nie miał obronności."
+"O ile rzuciłeś w tej turze czar sztuczki lub obrzędu, ten stwór może "
+"atakować tak, jakby nie miał obronności."
 
 #: ../../GRN.rst:1186
 msgid ""
@@ -3491,7 +3480,7 @@ msgid ""
 "of your library. You may put it into your graveyard.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, szpieguj 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ową kartę w twoim cmentarzu.)"
+"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:1200
 msgid ""
@@ -3518,8 +3507,7 @@ msgstr ""
 #: ../../GRN.rst:1203
 msgid ""
 "Create three 2/2 green and white Elf Knight creature tokens with vigilance."
-msgstr ""
-"Stwórz trzy żetony biało-zielonego stwora Elfi Rycerz 2/2 z czujnością."
+msgstr "Stwórz trzy żetony biało-zielonego stwora Elf Rycerz 2/2 z czujnością."
 
 #: ../../GRN.rst:1208
 msgid ""
@@ -3544,7 +3532,8 @@ msgid ""
 "Surveil 3, then return a creature card from your graveyard to the "
 "battlefield."
 msgstr ""
-"Szpieguj 3, następnie zwróć kartę stwora z twojego cmentarza na pole walki."
+"Szpieguj 3, następnie przywróć kartę stwora z twojego cmentarza na pole "
+"walki."
 
 #: ../../GRN.rst:1216
 msgid ""
@@ -3560,8 +3549,9 @@ msgid ""
 "on top of your library in any order.)"
 msgstr ""
 "Szpieguj 2, następnie dobierz kartę. (Aby szpiegować 2, spójrz na dwie "
-"wierzchnie karty twojej biblioteki, następnie dowolne z nich umieść w twoim "
-"cmentarzu, a pozostałe w dowolnej kolejności na wierzchu twojej biblioteki.)"
+"wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę w "
+"twoim cmentarzu, a pozostałe na wierzchu twojej biblioteki w dowolnej "
+"kolejności.)"
 
 #: ../../GRN.rst:1220
 msgid ""
@@ -3577,8 +3567,8 @@ msgid ""
 "discards a card."
 msgstr ""
 "Każdy przeciwnik przywraca nie-lądowy permanent o najwyższym skróconym "
-"koszcie many spośród władanych permanentów do ręki właścicela, następnie "
-"odrzuca kartę."
+"koszcie many spośród permanentów pod swoim władaniem do ręki właścicela, "
+"następnie odrzuca kartę."
 
 #: ../../GRN.rst:1224
 msgid ""
@@ -3605,7 +3595,7 @@ msgstr ""
 #: ../../GRN.rst:1227
 msgid "Explosion deals X damage to any target. Target player draws X cards."
 msgstr ""
-"Ta karta zadaje X obrażeń w dowolny cel. Wskazany gracz dobiera X kart."
+"Ten czar zadaje wskazanemu celowi X obrażeń. Wskazany gracz dobiera X kart."
 
 #: ../../GRN.rst:1232
 msgid ""
@@ -3633,8 +3623,8 @@ msgid ""
 "You may put two +1/+1 counters on a creature you control. Then all creatures "
 "get -4/-4 until end of turn."
 msgstr ""
-"Możesz położyć dwa znaczniki +1/+1 na stworze pod twoim władaniem. Następnie "
-"wszystkie stwory dostają -4/-4 do końca tury."
+"Możesz umieścić dwa znaczniki +1/+1 na stworze pod twoim władaniem. "
+"Następnie wszystkie stwory dostają do końca tury -4/-4."
 
 #: ../../GRN.rst:1240
 msgid ""
@@ -3649,7 +3639,7 @@ msgid ""
 "into your hand, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego Lasu lub Równin, ujawnij ją i "
-"dołóż do twojej ręki a następnie przetasuj twoją bibliotekę."
+"umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../GRN.rst:1244
 msgid ""
@@ -3682,7 +3672,7 @@ msgstr ""
 
 #: ../../GRN.rst:1251
 msgid "Intervention deals 3 damage to any target and you gain 3 life."
-msgstr "Ta karta zadaje 3 obrażenia w dowolny cel, a ty zyskaj 3 życia."
+msgstr "Ta karta zadaje wskazanemu celowi 3 obrażenia, a ty zyskaj 3 życia."
 
 #: ../../GRN.rst:1256
 msgid ""
@@ -3711,8 +3701,8 @@ msgid ""
 "Search your library for an instant card and/or a sorcery card, reveal them, "
 "put them into your hand, then shuffle your library."
 msgstr ""
-"Wyszukaj  w twojej bibliotece kartę sztuczki oraz/albo kartę obrzędu, "
-"ujawnij je, dołóż do twojej ręki, następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę sztuczki i/lub kartę obrzędu, ujawnij je, "
+"umieść je w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../GRN.rst:1264
 msgid ""
@@ -3724,7 +3714,7 @@ msgstr ""
 #: ../../GRN.rst:1263
 msgid "Response deals 5 damage to target attacking or blocking creature."
 msgstr ""
-"Ta karta zadaje 5 obrażeń wskazanemu atakującemu lub blokującemu stworowi."
+"Ta karta zadaje wskazanemu atakującemu lub blokującemu stworowi 5 obrażeń."
 
 #: ../../GRN.rst:1268
 msgid ""
@@ -3796,16 +3786,16 @@ msgid ""
 "Chamber Sentry enters the battlefield with a +1/+1 counter on it for each "
 "color of mana spent to cast it."
 msgstr ""
-"Ten stwór wchodzi na pole walki tyloma znacznikami +1/+1, ile użyto kolorów "
-"many do jego rzucenia."
+"Ten stwór wchodzi na pole walki tyloma znacznikami +1/+1, ile kolorów many "
+"użyto do jego rzucenia."
 
 #: ../../GRN.rst:1287
 msgid ""
 "|mana_x|, |tap|, Remove X +1/+1 counters from Chamber Sentry: It deals X "
 "damage to any target."
 msgstr ""
-"|mana_x|, |tap|, usuń X znaczników +1/+1 z tego stwora: Ten stwór zadaje X "
-"obrażeń w dowolny cel."
+"|mana_x|, |tap|, usuń X znaczników +1/+1 z tego stwora: Ten stwór zadaje "
+"wskazanemu celowi X obrażeń."
 
 #: ../../GRN.rst:1289
 msgid ""
@@ -3862,8 +3852,8 @@ msgid ""
 "Gatekeeper Gargoyle enters the battlefield with a +1/+1 counter on it for "
 "each Gate you control."
 msgstr ""
-"Ta karta wchodzi na pole bitwy z tyloma znacznikami +1/+1, ile Bram masz we "
-"władaniu."
+"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, iloma Bramami "
+"władasz."
 
 #: ../../GRN.rst:1314
 msgid ""
@@ -3938,7 +3928,7 @@ msgstr ""
 #: ../../GRN.rst:1331
 msgid ""
 "Rampaging Monument enters the battlefield with three +1/+1 counters on it."
-msgstr "Ta karta wchodzi na pole walki z trzema znacznikami +1/+1."
+msgstr "Ten stwór wchodzi na pole mając trzy znaczniki +1/+1."
 
 #: ../../GRN.rst:1333
 msgid ""
@@ -3977,8 +3967,8 @@ msgstr ""
 msgid ""
 "|mana_4|, |tap|, Sacrifice Silent Dart: It deals 3 damage to target creature."
 msgstr ""
-"|mana_4|, |tap|, poświęć ten artefakt: Ten artefakt zadaje 3 obrażenia "
-"wskazanemu stworowi."
+"|mana_4|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu stworowi 3 "
+"obrażenia."
 
 #: ../../GRN.rst:1350
 msgid ""
@@ -3989,7 +3979,7 @@ msgstr ""
 
 #: ../../GRN.rst:1347
 msgid "|tap|: Put the top card of your library into your graveyard."
-msgstr "|tap|: Umieść wierzchnią kartę twojej biblioteki do twojego cmentarza."
+msgstr "|tap|: Umieść wierzchnią kartę twojej biblioteki w twoim cmentarzu."
 
 #: ../../GRN.rst:1349
 msgid ""
@@ -4037,8 +4027,7 @@ msgid ""
 "When Gateway Plaza enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, poświęć go dopóki nie zapłacisz |"
-"mana_1|."
+"Kiedy ten ląd wejdzie na pole walki, poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../GRN.rst:1376
 msgid ""
@@ -4070,7 +4059,7 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|: Weź jedną manę dowolnego koloru. Jeśli ta mana zostanie "
 "zużyta na rzucenie czaru wielokolorowego stwora, ów stwór wchodzi na pole "
-"walki z dodatkowym znacznikiem +1/+1."
+"walki mając dodatkowy znacznik +1/+1."
 
 #: ../../GRN.rst:1388
 msgid ""
@@ -4260,16 +4249,16 @@ msgid ""
 "−2: Ral, Caller of Storms deals 3 damage divided as you choose among one, "
 "two, or three targets."
 msgstr ""
-"–2: Ten wędrowiec zadaje 3 obrażenia rozdzielone według twojego uznania "
-"pomiędzy jeden, dwa lub trzy cele."
+"–2: Ten wędrowiec zadaje 3 obrażenia rozdzielone dowolnie pomiędzy jeden, "
+"dwa lub trzy wskazane cele."
 
 #: ../../GRN.rst:1451
 msgid ""
 "−7: Draw seven cards. Ral, Caller of Storms deals 7 damage to each creature "
 "your opponents control."
 msgstr ""
-"–7: Dobierz siedem kart. Ten wędrowiec zadaje 7 obrażeń każdemu stworowi pod "
-"władaniem twoich przeciwników."
+"–7: Dobierz siedem kart. Ten wędrowiec zadaje każdemu stworowi pod władaniem "
+"twoich przeciwników po7 obrażeń."
 
 #: ../../GRN.rst:1456
 msgid ""
@@ -4284,10 +4273,10 @@ msgid ""
 "or graveyard for a card named Ral, Caller of Storms, reveal it, and put it "
 "into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Przywróć wskazanego stwora do ręki jego właściciela. Możesz poszukać w "
-"twojej bibliotece oraz/lub cmentarzu kartę o nazwie 'Ral, Caller of Storms', "
-"ujawnij ją i dołóż do twojej ręki. Jeśli przeszukiwałeś twoją bibliotekę w "
-"ten sposób, przetasuj ją."
+"Przywróć wskazanego stwora do ręki właściciela. Możesz wyszukać w twojej "
+"bibliotece oraz/lub cmentarzu kartę o nazwie 'Ral, Caller of Storms', "
+"ujawnij ją i umieść ją w twojej ręce. Jeśli przeszukiwałeś twoją bibliotekę "
+"w ten sposób, przetasuj ją."
 
 #: ../../GRN.rst:1460
 msgid ""
@@ -4298,7 +4287,7 @@ msgstr ""
 
 #: ../../GRN.rst:1459
 msgid "Precision Bolt deals 3 damage to any target."
-msgstr "Ten czar zadaje 3 obrażenia w dowolny cel."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../GRN.rst:1466
 msgid ""
@@ -4312,8 +4301,8 @@ msgid ""
 "Whenever Ral's Staticaster attacks, if you control a Ral planeswalker, Ral's "
 "Staticaster gets +1/+0 for each card in your hand until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, jeśli kontrolujesz wędrowca o typie Ral, ten "
-"stwór dostaje do końca tury +1/+0 za każdą kartę w twojej ręce."
+"Ilekroć ten stwór zaatakuje, jeśli władasz wędrowcem o typie Ral, ten stwór "
+"dostaje do końca tury +1/+0 za każdą kartę w twojej ręce."
 
 #: ../../GRN.rst:1474
 msgid ""
@@ -4361,7 +4350,7 @@ msgid ""
 "When Attendant of Vraska dies, if you control a Vraska planeswalker, you "
 "gain life equal to Attendant of Vraska's power."
 msgstr ""
-"Kiedy ten stwór umrze, jeśli władasz wędrowcem o typie Vraska, zyskaj życie "
+"Kiedy ten stwór umrze, jeśli władasz wędrowcem o typie Vraska, zyskaj życia "
 "równe sile tego stwora."
 
 #: ../../GRN.rst:1486
@@ -4378,9 +4367,9 @@ msgid ""
 "reveal it, and put it into your hand. If you search your library this way, "
 "shuffle it."
 msgstr ""
-"Zniszcz wskazanego stwora. Zyskaj życie równe jego wytrzymałości. Możesz "
-"poszukać w twojej bibliotece i/albo cmentarzu kartę o nazwie 'Vraska, Regal "
-"Gorgon', ujawnij ją i dołóż do twojej ręki. Jeśli przeszukałeś bibliotekę w "
+"Zniszcz wskazanego stwora. Zyskaj życia równe jego wytrzymałości. Możesz "
+"wyszukać w twojej bibliotece i/albo cmentarzu kartę o nazwie 'Vraska, Regal "
+"Gorgon', ujawnij ją i umieść w twojej ręce. Jeśli przeszukałeś bibliotekę w "
 "ten sposób, przetasuj ją."
 
 #: ../../GRN.rst:1491
