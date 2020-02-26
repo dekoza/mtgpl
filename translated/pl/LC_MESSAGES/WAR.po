@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-26 20:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/war/"
 "pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../WAR.rst:5
 msgid ":mtgexp:`WAR` War of the Spark"
-msgstr ""
+msgstr ":mtgexp:`WAR` War of the Spark (Wojna Iskry)"
 
 #: ../../WAR.rst:14
 msgid ""
@@ -41,8 +41,8 @@ msgid ""
 "artifact creature with power and toughness each equal to its converted mana "
 "cost."
 msgstr ""
-"+1: Do twojej następnej tury co najwyżej jeden wskazany artefakt nie będący "
-"stworem staje się artefaktowym stworem o sile oraz wytrzymałości równych "
+"+1: Do twojej następnej tury co najwyżej jeden wskazany artefakt nie-"
+"stworowy staje się artefaktowym stworem o sile i wytrzymałości równych "
 "swojemu skróconemu kosztowi many każdy."
 
 #: ../../WAR.rst:13
@@ -50,8 +50,8 @@ msgid ""
 "−2: You may choose an artifact card you own from outside the game or in "
 "exile, reveal that card, and put it into your hand."
 msgstr ""
-"–2: Możesz wybrać własną kartę artefaktu spoza gry lub z wygnania, ujawnić "
-"ją i umieścić w twojej ręce."
+"–2: Możesz wybrać własną kartę artefaktu spoza gry lub z wygnania, ujawnij "
+"ją i umieść w twojej ręce."
 
 #: ../../WAR.rst:22
 msgid ""
@@ -70,13 +70,13 @@ msgid ""
 "2/2 colorless Spirit creature token. When that token leaves the battlefield, "
 "put the exiled card into your hand."
 msgstr ""
-"+1: Wygnaj wierzchnią kratę twojej biblioteki jako zakrytą i spójrz na nią. "
+"+1: Wygnaj wierzchnią kratę twojej biblioteki zakrytą i spójrz na nią. "
 "Stwórz żeton bezkolorowego stwora Duch 2/2. Kiedy ów żeton opuści pole "
 "walki, umieść wygnaną kartę w twojej ręce."
 
 #: ../../WAR.rst:21
 msgid "−3: Destroy target permanent that's one or more colors."
-msgstr "–3: Zniszcz wskazany permanent mający przynajmniej jeden kolor."
+msgstr "–3: Zniszcz wskazany permanent mający co najmniej jeden kolor."
 
 #: ../../WAR.rst:28
 msgid ""
@@ -95,9 +95,8 @@ msgid ""
 "it, prevent that damage and remove that many +1/+1 counters from Ugin's "
 "Conjurant."
 msgstr ""
-"Jeśli obrażenia miałyby zostać zadane temu stworowi gdy ma on znacznik +1/"
-"+1, zapobiegnij owym obrażeniom i usuń tyle samo znaczników +1/+1 z tego "
-"stwora."
+"Jeśli obrażenia miałyby zostać zadane temu stworowi gdy ma on znacznik +1/+"
+"1, zażegnaj owe obrażenia i usuń z tego stwora tyle samo znaczników +1/+1."
 
 #: ../../WAR.rst:32
 msgid ""
@@ -540,7 +539,7 @@ msgid ""
 "of your next turn."
 msgstr ""
 "Każdy gracz wybiera stwora lub wędrowca pod swoim władaniem, następnie "
-"poświęca resztę. Gracze nie mogą rzucać czarów stworów lub wędrowców  do "
+"poświęca resztę. Gracze nie mogą rzucać czarów stworów lub wędrowców do "
 "końca twojej następnej tury."
 
 #: ../../WAR.rst:164
@@ -860,7 +859,7 @@ msgstr ""
 
 #: ../../WAR.rst:261
 msgid "Zombie tokens you control have flying."
-msgstr "Żetony Zombich  pod twoim władaniem mają latanie."
+msgstr "Żetony Zombich pod twoim władaniem mają latanie."
 
 #: ../../WAR.rst:268
 msgid ""
@@ -1048,7 +1047,7 @@ msgid ""
 "number of permanents and/or players, then give each another counter of each "
 "kind already there.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki,  rozpleń. (Wybierz dowolną liczbę "
+"Kiedy ten stwór wejdzie na pole walki, rozpleń. (Wybierz dowolną liczbę "
 "permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
@@ -1277,7 +1276,7 @@ msgid ""
 "counter on it."
 msgstr ""
 "Wygnaj wskazany permanent pod twoim władaniem. Przywróć ową kartę na pole "
-"walki pod władaniem jej  właściciela na początku najbliższego kroku "
+"walki pod władaniem jej właściciela na początku najbliższego kroku "
 "końcowego. Jeśli wejdzie na pole walki jako stwór, wchodzi z dodatkowym "
 "znacznikiem +1/+1."
 
@@ -1925,7 +1924,7 @@ msgstr ""
 
 #: ../../WAR.rst:583
 msgid "Zombie tokens you control have deathtouch."
-msgstr "Żetony Zombich  pod twoim władaniem mają dotyk śmierci."
+msgstr "Żetony Zombich pod twoim władaniem mają dotyk śmierci."
 
 #: ../../WAR.rst:588
 msgid ""
@@ -1992,7 +1991,7 @@ msgstr ""
 
 #: ../../WAR.rst:605
 msgid "Change the target of target spell or ability with a single target."
-msgstr "Zmień cel wskazywany przez  wskazany czar lub zdolność o jednym celu."
+msgstr "Zmień cel wskazywany przez wskazany czar lub zdolność o jednym celu."
 
 #: ../../WAR.rst:610
 msgid ""
@@ -2185,7 +2184,7 @@ msgstr ""
 
 #: ../../WAR.rst:657
 msgid "Zombie tokens you control have trample."
-msgstr "Żetony Zombich  pod twoim władaniem mają tratowanie."
+msgstr "Żetony Zombich pod twoim władaniem mają tratowanie."
 
 #: ../../WAR.rst:662
 msgid ""
