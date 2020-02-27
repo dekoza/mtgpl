@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m20/"
 "pl/>\n"
@@ -236,7 +236,7 @@ msgid ""
 "creature token."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zniszcz co najwyżej jeden wskazany "
-"nielądowy permanent. Jego władca tworzy żeton bezkolorowego artefaktowego "
+"nie-lądowy permanent. Jego władca tworzy żeton bezkolorowego artefaktowego "
 "stwora Golem 3/3."
 
 #: ../../M20.rst:69
@@ -608,7 +608,7 @@ msgstr ""
 
 #: ../../M20.rst:193
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie nielądowe permanenty."
+msgstr "Zniszcz wszystkie nie-lądowe permanenty."
 
 #: ../../M20.rst:198
 msgid ""
@@ -955,7 +955,7 @@ msgid ""
 "and the rest on the bottom of your library in a random order."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść dwie z nich w "
-"twojej ręce a pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"twojej ręce a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../M20.rst:326
 msgid ""
@@ -1002,7 +1002,7 @@ msgid ""
 "more nontoken permanents you control this way, you may put a permanent card "
 "from your hand onto the battlefield."
 msgstr ""
-"Przywróć wszystkie nielądowe permanenty do rąk ich właścicieli. Jeśli "
+"Przywróć wszystkie nie-lądowe permanenty do rąk ich właścicieli. Jeśli "
 "przywrócisz w ten sposób co najmniej cztery nieżetonowe permanenty pod twoim "
 "władaniem, możesz umieścić kartę permanentu z twojej ręki na polu walki."
 
@@ -1601,8 +1601,8 @@ msgid ""
 "different mana costs.)"
 msgstr ""
 "Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile jest "
-"różnych kosztów many pomiędzy nielądowymi kartami w twoim cmentarzu. "
-"(Przykładowo, |mana_2|\\ |mana_b| i |mana_1|\\ |mana_b|\\ |mana_b| to różne "
+"różnych kosztów many pomiędzy nie-lądowymi kartami w twoim cmentarzu. ("
+"Przykładowo, |mana_2|\\ |mana_b| i |mana_1|\\ |mana_b|\\ |mana_b| to różne "
 "koszty many.)"
 
 #: ../../M20.rst:544
@@ -3885,8 +3885,8 @@ msgid ""
 "You may cast the top card of your library if it's an artifact card or a "
 "colorless nonland card."
 msgstr ""
-"Możesz rzucić wierzchnią kartę twojej biblioteki o ile jest bezkolorową "
-"nielądową kartą lub kartą artefaktu."
+"Możesz rzucić wierzchnią kartę twojej biblioteki o ile jest bezkolorową nie-"
+"lądową kartą lub kartą artefaktu."
 
 #: ../../M20.rst:1277
 msgid "|tap|, Pay 1 life: Exile the top card of your library."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bbd/"
 "pl/>\n"
@@ -827,7 +827,7 @@ msgstr ""
 
 #: ../../BBD.rst:289
 msgid "Your opponents can't gain life."
-msgstr "Twoi przeciwnicy nie mogą zyskać życia."
+msgstr "Twoi przeciwnicy nie mogą zyskiwać żyć."
 
 #: ../../BBD.rst:291
 msgid ""
@@ -1890,7 +1890,7 @@ msgid ""
 "and the rest on the bottom of your library in any order."
 msgstr ""
 "Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
-"twojej ręce, a pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../BBD.rst:670
 msgid ""
@@ -2088,7 +2088,8 @@ msgstr ""
 
 #: ../../BBD.rst:743
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr "Umieść wskazany nielądowy permanent na wierzchu biblioteki właściciela."
+msgstr ""
+"Umieść wskazany nie-lądowy permanent na wierzchu biblioteki właściciela."
 
 #: ../../BBD.rst:750
 msgid ""

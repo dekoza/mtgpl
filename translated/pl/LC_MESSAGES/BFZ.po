@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bfz/"
 "pl/>\n"
@@ -382,7 +382,7 @@ msgid ""
 "battlefield instead."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, możesz "
-"przywrócić wskazaną kartę nielądowego permanentu z twojego cmentarza do "
+"przywrócić wskazaną kartę nie-lądowego permanentu z twojego cmentarza do "
 "twojej reki. Jeśli ów ląd jest Równiną, możesz zamiast tego przywrócić ową "
 "kartę na pole walki."
 
@@ -683,7 +683,7 @@ msgstr ""
 
 #: ../../BFZ.rst:207
 msgid "Destroy all nonland creatures."
-msgstr "Zniszcz wszystkie nielądowe stwory."
+msgstr "Zniszcz wszystkie nie-lądowe stwory."
 
 #: ../../BFZ.rst:209
 msgid ""
@@ -716,7 +716,7 @@ msgid ""
 "Quarantine Field leaves the battlefield."
 msgstr ""
 "Kiedy ten urok wejdzie na pole walki, za każdy znacznik izolacji na nim, "
-"wygnaj co najwyżej jeden wskazany nielądowy permanent pod władaniem "
+"wygnaj co najwyżej jeden wskazany nie-lądowy permanent pod władaniem "
 "przeciwnika do czasu opuszczenia pola walki przez ten urok."
 
 #: ../../BFZ.rst:224

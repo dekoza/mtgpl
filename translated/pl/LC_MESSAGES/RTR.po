@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rtr/"
 "pl/>\n"
@@ -402,7 +402,7 @@ msgstr ""
 
 #: ../../RTR.rst:117
 msgid "Enchant nonland permanent"
-msgstr "Zaurocz nielądowy permanent"
+msgstr "Zaurocz nie-lądowy permanent"
 
 #: ../../RTR.rst:119
 msgid ""
@@ -582,7 +582,7 @@ msgstr ""
 #: ../../RTR.rst:171
 msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
-"Przywróć wskazany nielądowy permanent poza twoim władaniem do ręki "
+"Przywróć wskazany nie-lądowy permanent poza twoim władaniem do ręki "
 "właściciela."
 
 #: ../../RTR.rst:173
@@ -755,8 +755,8 @@ msgid ""
 "exile it, then that player shuffles their library. You may cast those cards "
 "without paying their mana costs."
 msgstr ""
-"–8: Dla każdego gracza, wyszukaj w bibliotece owego gracza nielądową kartę i "
-"wygnaj ją, następnie ów gracz tasuje swoją bibliotekę. Możesz rzucić owe "
+"–8: Dla każdego gracza, wyszukaj w bibliotece owego gracza nie-lądową kartę "
+"i wygnaj ją, następnie ów gracz tasuje swoją bibliotekę. Możesz rzucić owe "
 "karty bez płacenia ich kosztu many."
 
 #: ../../RTR.rst:230
@@ -890,7 +890,7 @@ msgstr ""
 #: ../../RTR.rst:269
 msgid "Discard two nonland cards with the same name: Draw four cards."
 msgstr ""
-"Odrzuć dwie nielądowe karty o takiej samej nazwie: Dobierz cztery karty."
+"Odrzuć dwie nie-lądowe karty o takiej samej nazwie: Dobierz cztery karty."
 
 #: ../../RTR.rst:274
 msgid ""
@@ -2186,7 +2186,7 @@ msgid ""
 "permanents your opponents control. (Until your next turn, those permanents "
 "can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
-"Ilekroć ten stwór zaatakuje, uwięź co najwyżej dwa wskazane nielądowe "
+"Ilekroć ten stwór zaatakuje, uwięź co najwyżej dwa wskazane nie-lądowe "
 "permanenty pod władaniem twoich przeciwników. (Do twojej następnej tury owe "
 "permanenty nie mogą atakować ani blokować, a ich aktywowane zdolności nie "
 "mogą być aktywowane.)"
@@ -2380,7 +2380,7 @@ msgid ""
 "permanent not named Detention Sphere and all other permanents with the same "
 "name as that permanent."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, możesz wygnać wskazany nielądowy "
+"Kiedy ten urok wejdzie na pole walki, możesz wygnać wskazany nie-lądowy "
 "permanent o nazwie innej niż Detention Sphere oraz wszystkie inne permanenty "
 "o takiej samej nazwie jak ów permanent."
 
@@ -2775,7 +2775,7 @@ msgid ""
 "an opponent controls. (Until your next turn, that permanent can't attack or "
 "block and its activated abilities can't be activated.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, uwięź wskazany nielądowy permanent "
+"Kiedy ten stwór wejdzie na pole walki, uwięź wskazany nie-lądowy permanent "
 "pod władaniem przeciwnika. (Do twojej następnej tury ów permanent nie może "
 "atakować ani blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
@@ -2815,7 +2815,7 @@ msgid ""
 "controls. (Until your next turn, that permanent can't attack or block and "
 "its activated abilities can't be activated.)"
 msgstr ""
-"|mana_3|\\ |mana_w|\\ |mana_u|: Uwięź wskazany nielądowy permanent pod "
+"|mana_3|\\ |mana_w|\\ |mana_u|: Uwięź wskazany nie-lądowy permanent pod "
 "władaniem przeciwnika. (Do twojej następnej tury ów permanent nie może "
 "atakować ani blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
@@ -3083,7 +3083,7 @@ msgid ""
 "library for any number of cards with that name and exile them. Then that "
 "player shuffles their library."
 msgstr ""
-"Nazwij nielądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
+"Nazwij nie-lądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
 "przeciwnika dowolną liczbę kart o tej nazwie i wygnaj je. Następnie ów gracz "
 "tasuje swoją bibliotekę."
 
@@ -3253,7 +3253,7 @@ msgstr ""
 
 #: ../../RTR.rst:1097
 msgid "−3: Destroy target nonland permanent."
-msgstr "–3: Zniszcz wskazany nielądowy permanent."
+msgstr "–3: Zniszcz wskazany nie-lądowy permanent."
 
 #: ../../RTR.rst:1099
 msgid ""

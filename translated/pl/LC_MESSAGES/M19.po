@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m19/"
 "pl/>\n"
@@ -475,8 +475,8 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz spośród nich ujawnić kartę stwora o sile 2 lub "
-"mniejszej i umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej "
-"biblioteki w losowej kolejności."
+"mniejszej i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie "
+"twojej biblioteki."
 
 #: ../../M19.rst:156
 msgid ""
@@ -795,7 +795,7 @@ msgstr ""
 
 #: ../../M19.rst:263
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../M19.rst:268
 msgid ""
@@ -1253,7 +1253,8 @@ msgstr ""
 
 #: ../../M19.rst:413
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr "Umieść wskazany nielądowy permanent na wierzchu biblioteki właściciela."
+msgstr ""
+"Umieść wskazany nie-lądowy permanent na wierzchu biblioteki właściciela."
 
 #: ../../M19.rst:420
 msgid ""
@@ -2655,8 +2656,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, spójrz na pięć wierzchnich kart "
 "twojej biblioteki. Możesz umieścić kartę lądu spośród nich na polu walki, "
-"przekręconą. Umieść pozostałe na spodzie twojej biblioteki w losowej "
-"kolejności."
+"przekręconą. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../M19.rst:900
 msgid ""
@@ -3041,7 +3041,7 @@ msgid ""
 msgstr ""
 "+1: Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić "
 "spośród nich kartę stwora lub lądu i umieścić ją w twojej ręce. Umieść "
-"pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../M19.rst:1035
 msgid "−3: Destroy target artifact, enchantment, or creature with flying."
@@ -3071,10 +3071,9 @@ msgid ""
 "controls."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
-"stwora spośród nich na polu walki. Umieść pozostałe na spodzie twojej "
-"biblioteki w losowej kolejności. Kiedy stwór jest umieszczany na polu walki "
-"w ten sposób, zadaje obrażenia równe swojej sile wskazanemu stworowi pod "
-"władaniem przeciwnika."
+"stwora spośród nich na polu walki. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki. Kiedy stwór jest umieszczany na polu walki w ten sposób, zadaje "
+"obrażenia równe swojej sile wskazanemu stworowi pod władaniem przeciwnika."
 
 #: ../../M19.rst:1048
 msgid ""
@@ -3994,8 +3993,8 @@ msgid ""
 "library in a random order."
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
-"nich białą kartę i umieścić ją w twojej ręce. Umieść pozostałe na spodzie "
-"twojej biblioteki w losowej kolejności."
+"nich białą kartę i umieścić ją w twojej ręce. Umieść pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../M19.rst:1388
 msgid ""
@@ -4099,8 +4098,8 @@ msgid ""
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz spośród nich ujawnić niebieską lub artefaktową "
-"kartę i umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej "
-"biblioteki w losowej kolejności."
+"kartę i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../M19.rst:1425
 msgid ""
@@ -4197,8 +4196,8 @@ msgid ""
 "library in a random order."
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
-"nich czarną kartę i umieścić ją w twojej ręce. Umieść pozostałe na spodzie "
-"twojej biblioteki w losowej kolejności."
+"nich czarną kartę i umieścić ją w twojej ręce. Umieść pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../M19.rst:1458
 msgid ""
@@ -4273,8 +4272,8 @@ msgid ""
 "library in a random order."
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
-"nich czerwoną kartę i umieścić ją w twojej ręce. Umieść pozostałe na spodzie "
-"twojej biblioteki w losowej kolejności."
+"nich czerwoną kartę i umieścić ją w twojej ręce. Umieść pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../M19.rst:1482
 msgid ""
@@ -4353,8 +4352,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, spójrz na pięć wierzchnich kart "
 "twojej biblioteki. Możesz spośród nich ujawnić zieloną kartę i umieścić ją w "
-"twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w losowej "
-"kolejności."
+"twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../M19.rst:1510
 msgid ""

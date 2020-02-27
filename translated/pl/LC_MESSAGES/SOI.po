@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -968,7 +968,7 @@ msgid ""
 "Return target nonland permanent to its owner's hand. Then that player "
 "discards a card if you control a Zombie."
 msgstr ""
-"Przywróć wskazany nielądowy permanent do ręki właściciela. Następnie ów "
+"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Następnie ów "
 "gracz odrzuca kartę jeśli władasz Zombi."
 
 #: ../../SOI.rst:310
@@ -2395,7 +2395,7 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it and "
 "exile that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wygnaj z niej wybraną nielądową "
+"Wskazany przeciwnik ujawnia swoją rękę. Wygnaj z niej wybraną nie-lądową "
 "kartę."
 
 #: ../../SOI.rst:769
@@ -4516,7 +4516,7 @@ msgstr ""
 
 #: ../../SOI.rst:1431
 msgid "Exile target nonland permanent. You lose 3 life."
-msgstr "Wygnaj wskazany nielądowy permanent. Strać 3 życia."
+msgstr "Wygnaj wskazany nie-lądowy permanent. Strać 3 życia."
 
 #: ../../SOI.rst:1438
 msgid ""

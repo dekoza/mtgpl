@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/hou/"
 "pl/>\n"
@@ -290,11 +290,11 @@ msgid ""
 "permanents on the battlefield."
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_3| mniej, jeśli na polu walki jest co "
-"najmniej dziesięć nielądowych permanentów."
+"najmniej dziesięć nie-lądowych permanentów."
 
 #: ../../HOU.rst:91
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie nielądowe permanenty."
+msgstr "Zniszcz wszystkie nie-lądowe permanenty."
 
 #: ../../HOU.rst:96
 msgid ""
@@ -911,7 +911,7 @@ msgid ""
 "and the rest on the bottom of your library in any order."
 msgstr ""
 "Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
-"twojej ręce, a pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../HOU.rst:286
 msgid ""
@@ -1384,7 +1384,7 @@ msgid ""
 "player sacrifices a nonland permanent or discards a card."
 msgstr ""
 "Powtórz następujący proces X razy. Każdy przeciwnik traci 3 życia, chyba że "
-"poświęci nielądowy permanent lub odrzuci kartę."
+"poświęci nie-lądowy permanent lub odrzuci kartę."
 
 #: ../../HOU.rst:440
 msgid ""
@@ -1399,7 +1399,7 @@ msgid ""
 "unless they sacrifice a nonland permanent or discard a card."
 msgstr ""
 "Na początku kroku utrzymania zauroczonego gracza, ów gracz traci 3 życia, "
-"chyba że poświęci nielądowy permanent lub odrzuci kartę."
+"chyba że poświęci nie-lądowy permanent lub odrzuci kartę."
 
 #: ../../HOU.rst:444
 msgid ""
@@ -1414,7 +1414,7 @@ msgid ""
 "unless they sacrifice another nonland permanent or discards a card."
 msgstr ""
 "Umieść trzy znaczniki -1/-1 na wskazanym stworze. Jego władca traci 3 życia, "
-"chyba że poświęci nielądowy permanent lub odrzuci kartę."
+"chyba że poświęci nie-lądowy permanent lub odrzuci kartę."
 
 #: ../../HOU.rst:450
 msgid ""
@@ -1684,7 +1684,7 @@ msgid ""
 "untap step."
 msgstr ""
 "Przetasuj twoją bibliotekę, następnie wygnaj jej cztery wierzchnie karty. "
-"Możesz spośród nich rzucić dowolną liczbę nielądowych kart o skróconych "
+"Możesz spośród nich rzucić dowolną liczbę nie-lądowych kart o skróconych "
 "kosztach many 5 lub mniejszym bez płacenia ich kosztów many. Lądy pod twoim "
 "władaniem nie odkręcą się w twoim najbliższym kroku odkręcania."
 
@@ -2375,7 +2375,7 @@ msgid ""
 "paying its mana cost."
 msgstr ""
 "+2: Wskazany przeciwnik wygania karty z wierzchu swojej biblioteki, aż wygna "
-"nielądową kartę. Do końca tury możesz rzucić ową kartę bez płacenia jej "
+"nie-lądową kartę. Do końca tury możesz rzucić ową kartę bez płacenia jej "
 "kosztu many."
 
 #: ../../HOU.rst:757
@@ -2393,7 +2393,8 @@ msgstr ""
 #: ../../HOU.rst:761
 msgid "−12: Exile each nonland permanent your opponents control."
 msgstr ""
-"–12: Wygnaj wszystkie nielądowe permanenty pod władaniem twoich przeciwników."
+"–12: Wygnaj wszystkie nie-lądowe permanenty pod władaniem twoich "
+"przeciwników."
 
 #: ../../HOU.rst:770
 msgid ""
@@ -2604,7 +2605,7 @@ msgstr ""
 
 #: ../../HOU.rst:825
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../HOU.rst:832
 msgid ""
@@ -2839,7 +2840,7 @@ msgstr ""
 
 #: ../../HOU.rst:915
 msgid "You may cast nonland cards with cycling from your graveyard."
-msgstr "Możesz rzucać nielądowe karty z recyklingiem z twojego cmentarza."
+msgstr "Możesz rzucać nie-lądowe karty z recyklingiem z twojego cmentarza."
 
 #: ../../HOU.rst:917
 msgid ""
@@ -3402,7 +3403,7 @@ msgid ""
 msgstr ""
 "–10: Spójrz na dziesięć wierzchnich kart twojej biblioteki. Możesz spośród "
 "nich umieścić dowolną liczbę kart stworów i/lub lądów na polu walki. Umieść "
-"pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../HOU.rst:1122
 msgid ""
@@ -3478,7 +3479,7 @@ msgid ""
 "+3: Each opponent loses 3 life unless that player sacrifices a nonland "
 "permanent or discards a card."
 msgstr ""
-"+3: Każdy przeciwnik traci 3 życia, chyba że poświęci nielądowy permament "
+"+3: Każdy przeciwnik traci 3 życia, chyba że poświęci nie-lądowy permament "
 "lub odrzuci kartę."
 
 #: ../../HOU.rst:1141

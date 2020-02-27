@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-24 16:24+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c16/"
 "pl/>\n"
@@ -116,7 +116,7 @@ msgstr ""
 
 #: ../../C16.rst:37 ../../C16.rst:519
 msgid "Return all nonland permanents to their owners' hands."
-msgstr "Przywróć wszystkie nielądowe permanenty do rąk ich właścicieli."
+msgstr "Przywróć wszystkie nie-lądowe permanenty do rąk ich właścicieli."
 
 #: ../../C16.rst:42
 msgid ""
@@ -2996,7 +2996,7 @@ msgid ""
 "a random order.)"
 msgstr ""
 "Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
-"aż wygnasz nielądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
 "płacenia jej kosztu many. Umieść wygnane karty w losowej kolejności na "
 "spodzie twojej biblioteki.)"
 
@@ -3721,7 +3721,7 @@ msgstr ""
 
 #: ../../C16.rst:1283
 msgid "Exile target nonland permanent."
-msgstr "Wygnaj wskazany nielądowy permanent."
+msgstr "Wygnaj wskazany nie-lądowy permanent."
 
 #: ../../C16.rst:1288
 msgid ""

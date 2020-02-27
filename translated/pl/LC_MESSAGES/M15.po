@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m15/"
 "pl/>\n"
@@ -1150,7 +1150,7 @@ msgstr ""
 # 31dc77aceeff412794cdf6f3ecff44c4
 #: ../../M15.rst:331
 msgid "−3: Return another target nonland permanent to its owner's hand."
-msgstr "–3: Przywróć inny wskazany nielądowy permanent do ręki właściciela."
+msgstr "–3: Przywróć inny wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../M15.rst:333
 msgid ""
@@ -1188,7 +1188,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_u|, |tap|, poświęć innego stwora: Ujawniaj karty z wierzchu "
 "twojej biblioteki aż ujawnisz kartę nielegendarnego stwora. Umieść ową kartę "
-"na polu walki, a pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"na polu walki, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../M15.rst:348
 msgid ""
@@ -1490,7 +1490,7 @@ msgstr ""
 # 15f60ed1c6284b2e804d21a9a2c28547
 #: ../../M15.rst:433
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../M15.rst:440
 msgid ""
@@ -2070,7 +2070,7 @@ msgid ""
 "library for any number of cards with that name and exile them. Then that "
 "player shuffles their library."
 msgstr ""
-"Nazwij nielądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
+"Nazwij nie-lądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
 "gracza dowolną liczbę kart o tej nazwie i wygnaj je. Następnie ów gracz "
 "tasuje swoją bibliotekę."
 
@@ -3060,7 +3060,7 @@ msgid ""
 "them onto the battlefield. Then shuffle the rest into your library."
 msgstr ""
 "Kiedy rzucisz ten czar, ujawnij X wierzchnich kart twojej biblioteki. Możesz "
-"spośród nich umieścić kartę nielądowego permanentu o skróconym koszcie many "
+"spośród nich umieścić kartę nie-lądowego permanentu o skróconym koszcie many "
 "X lub mniejszym na polu walki. Następnie wtasuj pozostałe do twojej "
 "biblioteki."
 
@@ -3908,7 +3908,7 @@ msgstr ""
 #: ../../M15.rst:1185
 msgid "|mana_5|, |tap|, Exile Perilous Vault: Exile all nonland permanents."
 msgstr ""
-"|mana_5|, |tap|. wygnaj ten artefakt: Wygnaj wszystkie nielądowe permanenty."
+"|mana_5|, |tap|. wygnaj ten artefakt: Wygnaj wszystkie nie-lądowe permanenty."
 
 #: ../../M15.rst:1192
 msgid ""
@@ -3920,7 +3920,7 @@ msgstr ""
 #: ../../M15.rst:1189
 msgid ""
 "As Phyrexian Revoker enters the battlefield, choose a nonland card name."
-msgstr "Umieszczając tego stwora na polu walki nazwij nielądową kartę."
+msgstr "Umieszczając tego stwora na polu walki nazwij nie-lądową kartę."
 
 # 0d5824b413d94bf29a974a85346ce645
 #: ../../M15.rst:1191

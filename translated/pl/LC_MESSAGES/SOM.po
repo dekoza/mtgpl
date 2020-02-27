@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-26 20:25+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/som/"
 "pl/>\n"
@@ -440,7 +440,7 @@ msgstr ""
 
 #: ../../SOM.rst:159
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../SOM.rst:164
 msgid ""
@@ -975,7 +975,7 @@ msgid ""
 "library for any number of cards with that name and exile them. Then that "
 "player shuffles their library."
 msgstr ""
-"Nazwij nielądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
+"Nazwij nie-lądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
 "gracza dowolną liczbę kart o tej nazwie i wygnaj je. Następnie ów gracz "
 "tasuje swoją bibliotekę."
 
@@ -2824,7 +2824,7 @@ msgid ""
 "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted "
 "mana cost equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
-"|tap|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent, o skróconym "
+"|tap|, poświęć ten artefakt: Zniszcz każdy nie-lądowy permanent, o skróconym "
 "koszcie many many równym liczbie znaczników ładowania na tym artefakcie."
 
 #: ../../SOM.rst:1028

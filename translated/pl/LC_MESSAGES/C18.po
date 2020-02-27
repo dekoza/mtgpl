@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c18/"
 "pl/>\n"
@@ -1509,7 +1509,7 @@ msgstr ""
 #: ../../C18.rst:505
 msgid "Return six target nonland permanents to their owners' hands."
 msgstr ""
-"Przywróć sześć wskazanych nielądowych permanentów do rąk ich właścicieli."
+"Przywróć sześć wskazanych nie-lądowych permanentów do rąk ich właścicieli."
 
 #: ../../C18.rst:512
 msgid ""
@@ -1590,7 +1590,7 @@ msgstr ""
 
 #: ../../C18.rst:531
 msgid "Return all nonland permanents to their owners' hands."
-msgstr "Przywróć wszystkie nielądowe permanenty do rąk ich właścicieli."
+msgstr "Przywróć wszystkie nie-lądowe permanenty do rąk ich właścicieli."
 
 #: ../../C18.rst:533
 msgid ""
@@ -1714,7 +1714,7 @@ msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nielądowy permanent do ręki właściciela. Jeśli ten czar "
+"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Jeśli ten czar "
 "został podbity, dobierz kartę."
 
 #: ../../C18.rst:586
@@ -3143,7 +3143,7 @@ msgid ""
 "a random order.)"
 msgstr ""
 "Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
-"aż wygnasz nielądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
 "płacenia jej kosztu many. Umieść wygnane karty w losowej kolejności na "
 "spodzie twojej biblioteki.)"
 
@@ -3198,7 +3198,7 @@ msgstr ""
 #: ../../C18.rst:1089
 msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgstr ""
-"Zniszcz każdy nielądowy permanent o skróconym koszcie many X lub mniejszym."
+"Zniszcz każdy nie-lądowy permanent o skróconym koszcie many X lub mniejszym."
 
 #: ../../C18.rst:1094
 msgid ""
@@ -3228,7 +3228,7 @@ msgid ""
 "Whenever High Priest of Penance is dealt damage, you may destroy target "
 "nonland permanent."
 msgstr ""
-"Ilekroć ten stwór otrzyma obrażenia, możesz zniszczyć wskazany nielądowy "
+"Ilekroć ten stwór otrzyma obrażenia, możesz zniszczyć wskazany nie-lądowy "
 "permanent."
 
 #: ../../C18.rst:1102
@@ -3382,7 +3382,7 @@ msgstr ""
 
 #: ../../C18.rst:1149
 msgid "Exile target nonland permanent."
-msgstr "Wygnaj wskazany nielądowy permanent."
+msgstr "Wygnaj wskazany nie-lądowy permanent."
 
 #: ../../C18.rst:1156
 msgid ""

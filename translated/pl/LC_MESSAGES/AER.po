@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/aer/"
 "pl/>\n"
@@ -658,7 +658,7 @@ msgstr ""
 
 #: ../../AER.rst:211
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../AER.rst:220
 msgid ""
@@ -1200,7 +1200,7 @@ msgid ""
 "number of cards with the same name as that card, reveal them, and put them "
 "into your hand. Then shuffle your library."
 msgstr ""
-"Wygnaj wskazaną nielądową kartę z twojego cmentarza. Wyszukaj w twojej "
+"Wygnaj wskazaną nie-lądową kartę z twojego cmentarza. Wyszukaj w twojej "
 "bibliotece dowolną liczbę kart o takiej samej nazwie jak owa karta, ujawnij "
 "je i umieść je w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
@@ -2138,8 +2138,8 @@ msgid ""
 "library in any order."
 msgstr ""
 "+2: Ujawnij trzy wierzchnie karty twojej biblioteki. Umieść wszystkie karty "
-"nielądowych permanentów ujawnione w ten sposób w twojej ręce, a pozostałe na "
-"spodzie twojej biblioteki w dowolnej kolejności."
+"nie-lądowych permanentów ujawnione w ten sposób w twojej ręce, a pozostałe "
+"na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../AER.rst:699
 msgid ""
@@ -2896,7 +2896,7 @@ msgstr ""
 #: ../../AER.rst:927
 msgid "Whenever you cast a spell, untap all nonland permanents you control."
 msgstr ""
-"Ilekroć rzucisz czar, odkręć wszystkie nielądowe permanenty pod twoim "
+"Ilekroć rzucisz czar, odkręć wszystkie nie-lądowe permanenty pod twoim "
 "władaniem."
 
 #: ../../AER.rst:934
@@ -3027,10 +3027,9 @@ msgid ""
 "way on the bottom of your library in a random order."
 msgstr ""
 "Kiedy ten stwór umrze, ujawnij karty z wierzchu twojej biblioteki aż "
-"ujawnisz nielądową kartę o skróconym koszcie many 3 lub mniejszym. Możesz "
+"ujawnisz nie-lądową kartę o skróconym koszcie many 3 lub mniejszym. Możesz "
 "rzucić ową kartę bez płacenia jej kosztu many. Umieść wszystkie ujawnione i "
-"nie rzucone w ten sposób karty na spodzie twojej biblioteki w losowej "
-"kolejności."
+"nie rzucone w ten sposób karty losowo na spodzie twojej biblioteki."
 
 #: ../../AER.rst:968
 msgid ""
@@ -3152,8 +3151,8 @@ msgid ""
 "library in a random order."
 msgstr ""
 "+1: Ujawnij karty z wierzchu twojej biblioteki aż ujawnisz kartę stwora. "
-"Umieść ową kartę w twojej ręce, a pozostałe na spodzie twojej biblioteki w "
-"losowej kolejności."
+"Umieść ową kartę w twojej ręce, a pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../AER.rst:1009
 msgid ""
@@ -3243,8 +3242,8 @@ msgid ""
 "library in a random order."
 msgstr ""
 "+1: Ujawnij karty z wierzchu twojej biblioteki aż ujawnisz kartę artefaktu. "
-"Umieść ową kartę w twojej ręce, a pozostałe na spodzie twojej biblioteki w "
-"losowej kolejności."
+"Umieść ową kartę w twojej ręce, a pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../AER.rst:1037
 msgid ""

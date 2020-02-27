@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -827,7 +827,7 @@ msgstr ""
 #: ../../C19.rst:385
 msgid "When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazany nielądowy "
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazany nie-lądowy "
 "permanent pod władaniem przeciwnika, dopóki ten stwór nie opuści pola walki."
 
 #: ../../C19.rst:387
@@ -1091,8 +1091,8 @@ msgstr ""
 #: ../../C19.rst:505
 msgid "You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield."
 msgstr ""
-"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia dowolnego "
-"nielądowego permanentu będącego na polu walki."
+"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia dowolnego nie-"
+"lądowego permanentu będącego na polu walki."
 
 #: ../../C19.rst:512
 msgid ":mtgtip:`Deep Analysis<https://img.scryfall.com/cards/border_crop/front/7/a/7a7a6d2d-be31-474b-811d-3802e32f3768.jpg?1568003973|https://scryfall.com/card/c19/83/deep-analysis?utm_source=api>`"
@@ -1557,7 +1557,7 @@ msgstr "Możesz zagrywać karty lądów wygnanych tym urokiem."
 #: ../../C19.rst:713
 msgid "You may cast nonland cards exiled with Hedonist's Trove. You can't cast more than one spell this way each turn."
 msgstr ""
-"Możesz rzucać nielądowe karty wygnane tym urokiem. Nie możesz rzucić więcej "
+"Możesz rzucać nie-lądowe karty wygnane tym urokiem. Nie możesz rzucić więcej "
 "niż jednego czaru w ten sposób."
 
 #: ../../C19.rst:718
@@ -2616,7 +2616,7 @@ msgstr ""
 
 #: ../../C19.rst:1225
 msgid "−3: Destroy target nonland permanent."
-msgstr "–3: Zniszcz wskazany nielądowy permanent."
+msgstr "–3: Zniszcz wskazany nie-lądowy permanent."
 
 #: ../../C19.rst:1227
 msgid "−7: Create three 1/1 black Assassin creature tokens with \"Whenever this creature deals combat damage to a player, that player loses the game.\""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 10:59+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/grn/"
 "pl/>\n"
@@ -1255,7 +1255,7 @@ msgid ""
 "card. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_b|, |tap|, poświęć tego stwora: Wskazany przeciwnik ujawnia "
-"swoją rękę. Wybierz z niej nielądową kartę. Ów gracz odrzuca ową kartę. "
+"swoją rękę. Wybierz z niej nie-lądową kartę. Ów gracz odrzuca ową kartę. "
 "Aktywuj jako obrzęd."
 
 #: ../../GRN.rst:430
@@ -1587,7 +1587,7 @@ msgstr "Ten stwór zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../GRN.rst:545
 msgid "Destroy target colorless nonland permanent."
-msgstr "Zniszcz wskazany bezkolorowy nielądowy permanent."
+msgstr "Zniszcz wskazany bezkolorowy nie-lądowy permanent."
 
 #: ../../GRN.rst:550
 msgid ""
@@ -2017,8 +2017,8 @@ msgstr ""
 "Ściółka — Kiedy rzucisz ten czar, ujawnij X wierzchnich kart twojej "
 "biblioteki, gdzie X jest liczbą kart stworów w twoim cmentarzu. Spośród "
 "owych kart możesz umieścić na polu walki kartę zielonego permanentu o "
-"skróconym koszcie many X lub mniejszym. Umieść pozostałe na spodzie twojej "
-"biblioteki w losowej kolejności."
+"skróconym koszcie many X lub mniejszym. Umieść pozostałe losowo na spodzie "
+"twojej biblioteki."
 
 #: ../../GRN.rst:702
 msgid ""
@@ -2760,7 +2760,7 @@ msgid ""
 "Draw two cards. Then you may discard a nonland card. When you do, "
 "Hypothesizzle deals 4 damage to target creature."
 msgstr ""
-"Dobierz dwie karty. Następnie możesz odrzucić nielądową kartę. Kiedy tak "
+"Dobierz dwie karty. Następnie możesz odrzucić nie-lądową kartę. Kiedy tak "
 "zrobisz, ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../GRN.rst:958
@@ -3140,8 +3140,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora lub uroku i "
-"umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
-"losowej kolejności."
+"umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../GRN.rst:1088
 msgid ""
@@ -3242,7 +3242,7 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądowę kartę. Ów "
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nie-lądowę kartę. Ów "
 "gracz odrzuca ową kartę."
 
 #: ../../GRN.rst:1119

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gtc/"
 "pl/>\n"
@@ -654,7 +654,7 @@ msgstr ""
 # 52cb7d6cf6e34900b1e03734063266c9
 #: ../../GTC.rst:187
 msgid "Tap X target nonland permanents."
-msgstr "Przekręć X wskazanych nielądowych permanentów."
+msgstr "Przekręć X wskazanych nie-lądowych permanentów."
 
 #: ../../GTC.rst:194
 msgid ""
@@ -953,7 +953,8 @@ msgstr ""
 # b9e1ee8a730c4d4087789b39a782d508
 #: ../../GTC.rst:283
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr "Umieść wskazany nielądowy permanent na wierzchu biblioteki właściciela."
+msgstr ""
+"Umieść wskazany nie-lądowy permanent na wierzchu biblioteki właściciela."
 
 #: ../../GTC.rst:290
 msgid ""
@@ -1354,7 +1355,8 @@ msgstr ""
 #: ../../GTC.rst:431
 msgid "|tap|, Pay 2 life: Remove a counter from target nonland permanent."
 msgstr ""
-"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanego nielądowego permanentu."
+"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanego nie-lądowego "
+"permanentu."
 
 #: ../../GTC.rst:436
 msgid ""
@@ -2868,7 +2870,7 @@ msgid ""
 "Whenever High Priest of Penance is dealt damage, you may destroy target "
 "nonland permanent."
 msgstr ""
-"Ilekroć ten stwór otrzyma obrażenia, możesz zniszczyć wskazany nielądowy "
+"Ilekroć ten stwór otrzyma obrażenia, możesz zniszczyć wskazany nie-lądowy "
 "permanent."
 
 #: ../../GTC.rst:902
@@ -3449,10 +3451,10 @@ msgid ""
 "may cast it without paying its mana cost. If it's a land card, you may put "
 "it onto the battlefield and return Unexpected Results to its owner's hand."
 msgstr ""
-"Przetasuj twoją bibliotekę i ujawnij jej wierzchnią kartę. Jeśli to "
-"nielądowa karta, możesz ją rzucić bez płacenia jej kosztu many. Jeśli to "
-"karta lądu, możesz umieścić ją na polu walki i zwrócić niniejszy czar do "
-"ręki właściciela."
+"Przetasuj twoją bibliotekę i ujawnij jej wierzchnią kartę. Jeśli to nie-"
+"lądowa karta, możesz ją rzucić bez płacenia jej kosztu many. Jeśli to karta "
+"lądu, możesz umieścić ją na polu walki i zwrócić niniejszy czar do ręki "
+"właściciela."
 
 #: ../../GTC.rst:1090
 msgid ""

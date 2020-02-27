@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-26 20:25+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/war/"
 "pl/>\n"
@@ -194,7 +194,7 @@ msgstr ""
 #: ../../WAR.rst:59
 msgid "Divine Arrow deals 4 damage to target attacking or blocking creature."
 msgstr ""
-"Ten czar zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 4 obrażenia."
 
 #: ../../WAR.rst:64
 msgid ""
@@ -240,13 +240,13 @@ msgid ""
 "with indestructible that's still a planeswalker."
 msgstr ""
 "O ile jest twoja tura, ten wędrowiec jest stworem 4/4 typu Człowiek Piechur "
-"z niezniszczalnością, który wciąż jest wędrowcem."
+"z niezniszczalnością i nadal jest wędrowcem."
 
 #: ../../WAR.rst:73
 msgid ""
 "Prevent all damage that would be dealt to Gideon Blackblade during your turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia, które mogłyby zostać zawarte temu wędrowcowi w "
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zawarte temu wędrowcowi w "
 "twojej turze."
 
 #: ../../WAR.rst:75
@@ -259,7 +259,7 @@ msgstr ""
 
 #: ../../WAR.rst:77
 msgid "−6: Exile target nonland permanent."
-msgstr "–6: Wygnaj wskazany permanent nie będący lądem."
+msgstr "–6: Wygnaj wskazany nie-lądowy permanent."
 
 #: ../../WAR.rst:82
 msgid ""
@@ -292,9 +292,9 @@ msgid ""
 "you control a Gideon planeswalker, that player sacrifices two of those "
 "creatures instead."
 msgstr ""
-"Wskazany przeciwnik poświęca stwora, który atakował lub blokował w tej "
+"Wskazany przeciwnik poświęca stwora, który zaatakował lub zablokował w tej "
 "turze. Jeśli władasz wędrowcem typu Gideon, zamiast tego ów gracz poświęca "
-"dwa z owych stworów."
+"dwa takie stwory."
 
 #: ../../WAR.rst:94
 msgid ""
@@ -320,8 +320,8 @@ msgid ""
 "When God-Eternal Oketra dies or is put into exile from the battlefield, you "
 "may put it into its owner's library third from the top."
 msgstr ""
-"Kiedy ten stwór umrze lub zostanie wygnany, możesz umieścić go w bibliotece "
-"właściciela jako trzeci od góry."
+"Kiedy ten stwór umrze lub zostanie wygnany z pola walki, możesz umieścić go "
+"w bibliotece właściciela jako trzeci od wierzchu."
 
 #: ../../WAR.rst:100
 msgid ""
@@ -352,7 +352,7 @@ msgid ""
 "Search your library for up to two planeswalker cards, reveal them, put them "
 "into your hand, then shuffle your library."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwóch kart wędrowca, ujawnij je, "
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty wędrowców, ujawnij je, "
 "umieść je w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../WAR.rst:106
@@ -497,7 +497,7 @@ msgid ""
 "until end of turn."
 msgstr ""
 "Odkręć wszystkie stwory pod twoim władaniem. Stwory z lataniem pod twoim "
-"władaniem dostają +2/+2 do końca tury."
+"władaniem dostają do końca tury +2/+2."
 
 #: ../../WAR.rst:152
 msgid ""
@@ -539,8 +539,8 @@ msgid ""
 "of your next turn."
 msgstr ""
 "Każdy gracz wybiera stwora lub wędrowca pod swoim władaniem, następnie "
-"poświęca resztę. Gracze nie mogą rzucać czarów stworów lub wędrowców do "
-"końca twojej następnej tury."
+"poświęca pozostałe stwory i wędrowców. Gracze nie mogą rzucać czarów stworów "
+"lub wędrowców do końca twojej następnej tury."
 
 #: ../../WAR.rst:164
 msgid ""
@@ -600,8 +600,8 @@ msgid ""
 "Lands on the battlefield and land cards in graveyards can't be the targets "
 "of spells or abilities your opponents control."
 msgstr ""
-"Lądy na polu walki i karty lądów w cmentarzach nie mogą być celami czarów "
-"lub zdolności pod władaniem twoich przeciwników."
+"Lądy na polu walki i karty lądów w cmentarzach nie mogą być wskazywane przez "
+"czary lub zdolności pod władaniem twoich przeciwników."
 
 #: ../../WAR.rst:181
 msgid "Your opponents can't play land cards from graveyards."
@@ -653,8 +653,8 @@ msgid ""
 "Prevent all noncombat damage that would be dealt to you and other permanents "
 "you control."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane tobie i "
-"innym permanentom pod twoim władaniem."
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane tobie oraz "
+"permanentom pod twoim władaniem innym niż niniejszy."
 
 #: ../../WAR.rst:199
 msgid "−2: Exile target creature with power 4 or greater."
@@ -688,8 +688,8 @@ msgid ""
 "|mana_5|\\ |mana_w|, |tap|: Other creatures you control get +1/+1 until end "
 "of turn."
 msgstr ""
-"|mana_5|\\ |mana_w|, |tap|: Inne stwory pod twoim władaniem dostają +1/+1 do "
-"końca tury."
+"|mana_5|\\ |mana_w|, |tap|: Inne stwory pod twoim władaniem dostają do końca "
+"tury +1/+1."
 
 #: ../../WAR.rst:214
 msgid ""
@@ -736,7 +736,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki zgromadź 1. (Umieść znacznik +1/+1 na "
 "Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
-"czarnego stwora Armia Zombich 0/0.)"
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:228
 msgid ""
@@ -753,7 +753,7 @@ msgid ""
 msgstr ""
 "Każdy gracz umieszcza cztery wierzchnie karty swojej biblioteki w swoim "
 "cmentarzu. Przywróć co najwyżej dwie karty sztuczki i/lub obrzędu z twojego "
-"cmentarza do twojej reki. Wygnaj niniejszy czar."
+"cmentarza do twojej ręki. Wygnaj niniejszy czar."
 
 #: ../../WAR.rst:234
 msgid ""
@@ -764,7 +764,7 @@ msgstr ""
 
 #: ../../WAR.rst:231
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../WAR.rst:233 ../../WAR.rst:317 ../../WAR.rst:569
 msgid ""
@@ -772,7 +772,7 @@ msgid ""
 "one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim władaniem. Jeśli żadną "
-"nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+"nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:240
 msgid ""
@@ -793,7 +793,7 @@ msgid ""
 msgstr ""
 "Dobierz dwie karty, następnie zgromadź X, gdzie X jest liczbą kart w twojej "
 "ręce. (Umieść X znaczników +1/+1 na Armii pod twoim władaniem. Jeśli żadną "
-"nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+"nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:246
 msgid ""
@@ -827,7 +827,7 @@ msgid ""
 "control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli "
-"żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+"żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:256
 msgid ""
@@ -853,13 +853,13 @@ msgid ""
 "counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/"
-"+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"żeton czarnego stwora Armia Zombich 0/0.)"
+"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/+"
+"1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:261
 msgid "Zombie tokens you control have flying."
-msgstr "Żetony Zombich pod twoim władaniem mają latanie."
+msgstr "Żetony Zombi pod twoim władaniem mają latanie."
 
 #: ../../WAR.rst:268
 msgid ""
@@ -882,8 +882,7 @@ msgid ""
 "When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's "
 "library."
 msgstr ""
-"Kiedy ten stwór zostanie wskazany przez czar, wtasuj go do talii jego "
-"właściciela."
+"Kiedy ten stwór zostanie wskazany przez czar, wtasuj go do talii właściciela."
 
 #: ../../WAR.rst:274
 msgid ""
@@ -946,7 +945,7 @@ msgid ""
 "may put it into its owner's library third from the top."
 msgstr ""
 "Kiedy ten stwór umrze lub zostanie wygnany z pola walki, możesz umieść go w "
-"bibliotece jego właściciela jako trzeci od góry."
+"bibliotece jego właściciela jako trzeci od wierzchu."
 
 #: ../../WAR.rst:294
 msgid ""
@@ -1063,9 +1062,9 @@ msgid ""
 "You and permanents you control gain hexproof until end of turn. (You and "
 "they can't be the targets of spells or abilities your opponents control.)"
 msgstr ""
-"Ty i permanenty pod twoim władaniem zyskują antyklątwę do końca tury. (Ty i "
-"one nie możecie być wskazywane przez czary i zdolności pod władaniem twoich "
-"przeciwników.)"
+"Ty oraz permanenty pod twoim władaniem zyskujecie antyklątwę do końca tury. ("
+"Ty ani one nie możecie być wskazywane przez czary i zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../WAR.rst:322
 msgid ""
@@ -1094,7 +1093,7 @@ msgid ""
 msgstr ""
 "–2: Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić "
 "spośród nich kartę nie będącą lądem ani stworem i umieścić już w twojej "
-"ręce. Umieść pozostałe w losowej kolejności na spodzie twojej biblioteki."
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../WAR.rst:334
 msgid ""
@@ -1143,7 +1142,7 @@ msgid ""
 "control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Zgromadź 3. (Umieść trzy znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli "
-"żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+"żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:350
 msgid ""
@@ -1158,9 +1157,9 @@ msgid ""
 "you control to its owner's hand. If you do, Rescuer Sphinx enters the "
 "battlefield with a +1/+1 counter on it."
 msgstr ""
-"Umieszczając tego stwora na polu walki możesz przywrócić wskazany nielądowy "
+"Umieszczając tego stwora na polu walki możesz przywrócić wskazany nie-lądowy "
 "permanent pod twoim władaniem do ręki właściciela. Jeśli tak zrobisz, ten "
-"stwór wchodzi na pole walki z dodatkowym znacznikiem +1/+1."
+"stwór wchodzi na pole walki mając dodatkowy znacznik +1/+1."
 
 #: ../../WAR.rst:356
 msgid ""
@@ -1197,8 +1196,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Sky Theater Strix gets +1/+0 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje +1/+0 do końca "
-"tury."
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje do końca tury +1/"
+"+0."
 
 #: ../../WAR.rst:366
 msgid ""
@@ -1277,8 +1276,8 @@ msgid ""
 msgstr ""
 "Wygnaj wskazany permanent pod twoim władaniem. Przywróć ową kartę na pole "
 "walki pod władaniem jej właściciela na początku najbliższego kroku "
-"końcowego. Jeśli wejdzie na pole walki jako stwór, wchodzi z dodatkowym "
-"znacznikiem +1/+1."
+"końcowego. Jeśli wejdzie na pole walki jako stwór, wchodzi mając dodatkowy "
+"znacznik +1/+1."
 
 #: ../../WAR.rst:388
 msgid ""
@@ -1304,7 +1303,8 @@ msgstr ""
 
 #: ../../WAR.rst:391
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr "Umieść wskazany nielądowy permanent na wierzchu biblioteki właściciela."
+msgstr ""
+"Umieść wskazany nie-lądowy permanent na wierzchu biblioteki właściciela."
 
 #: ../../WAR.rst:398
 msgid ""
@@ -1338,7 +1338,7 @@ msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../WAR.rst:405
 msgid "Return target planeswalker card from your graveyard to your hand."
-msgstr "Przywróć wskazaną kartę wędrowca z twojego cmentarza do twojej reki."
+msgstr "Przywróć wskazaną kartę wędrowca z twojego cmentarza do twojej ręki."
 
 #: ../../WAR.rst:410
 msgid ""
@@ -1364,9 +1364,9 @@ msgid ""
 "+1 counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
-"Co najwyżej jeden wskazany stwór dostaje -2/-2 do końca tury. Zgromadź 2. "
-"(Umieść 2 znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
-"władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+"Co najwyżej jeden wskazany stwór dostaje do końca tury -2/-2. Zgromadź 2. ("
+"Umieść 2 znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
+"władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:422
 msgid ""
@@ -1392,8 +1392,8 @@ msgstr ""
 #: ../../WAR.rst:421
 msgid "|tap|, Sacrifice ten nonland permanents: Each opponent loses 10 life."
 msgstr ""
-"|tap|, poświęć dziesięć nielądowych permanentów: Każdy przeciwnik traci 10 "
-"żyć."
+"|tap|, poświęć dziesięć nie-lądowych permanentów: Każdy przeciwnik traci po "
+"10 żyć."
 
 #: ../../WAR.rst:426
 msgid ""
@@ -1479,7 +1479,7 @@ msgid ""
 "chooses two of them. Leave the chosen cards in your graveyard and put the "
 "rest into your hand."
 msgstr ""
-"Wskaż co najwyżej cztery karty w twoim cmentarzy. Jeśli władasz wędrowcem "
+"Wskaż co najwyżej cztery karty w twoim cmentarzu. Jeśli władasz wędrowcem "
 "typu Bolas, przywróć owe karty do twojej ręki. W przeciwnym razie przeciwnik "
 "wybiera dwie z nich. Pozostaw wybrane karty w twoim cmentarzu, a pozostałe "
 "umieść w twojej ręce."
@@ -1503,7 +1503,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, strać 1 życie i zgromadź 1. (Umieść "
 "znacznik +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz "
-"najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+"najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:455
 msgid ""
@@ -1624,7 +1624,7 @@ msgid ""
 "may put it into its owner's library third from the top."
 msgstr ""
 "Kiedy ten stwór umrze lub zostanie wygnany z pola walki, możesz umieścić go "
-"w bibliotece właściciela jako trzeci od góry."
+"w bibliotece właściciela jako trzeci od wierzchu."
 
 #: ../../WAR.rst:492
 msgid ""
@@ -1641,7 +1641,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór umrze, zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod "
 "twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego "
-"stwora Armia Zombich 0/0.)"
+"stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:498
 msgid ""
@@ -1684,7 +1684,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
 "Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
-"czarnego stwora Armia Zombich 0/0.)"
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:516
 msgid ""
@@ -1710,8 +1710,8 @@ msgid ""
 "−9: Each opponent chooses a permanent they control of each permanent type "
 "and sacrifices the rest."
 msgstr ""
-"–9: Każdy przeciwnik wybiera po jednym permanencie pod swoją kontrolą "
-"należący do każdego z typów permanentów i poświęca pozostałe."
+"–9: Każdy przeciwnik spośród permanentów pod swoim władaniem wybiera po "
+"jednym z każdego typu permanentu i poświęca pozostałe."
 
 #: ../../WAR.rst:520
 msgid ""
@@ -1726,7 +1726,7 @@ msgid ""
 "each opponent also discards a card."
 msgstr ""
 "Każdy przeciwnik poświęca stwora. Jeśli władasz wędrowcem typu Liliana, "
-"każdy przeciwnik odrzuca także kartę."
+"każdy przeciwnik także odrzuca kartę."
 
 #: ../../WAR.rst:526
 msgid ""
@@ -1741,9 +1741,9 @@ msgid ""
 "until end of turn. Whenever a creature dies this turn, each creature other "
 "than Massacre Girl gets -1/-1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy inny stwór dostaje -1/-1 do "
-"końca tury. Ilekroć umrze stwór w tej turze, każdy stwór inny niż ten "
-"dostaje -1/-1 do końca tury."
+"Kiedy ten stwór wejdzie na pole walki, każdy inny stwór dostaje do końca "
+"tury -1/-1. Ilekroć umrze stwór w tej turze, każdy stwór inny niż niniejszy "
+"dostaje do końca tury -1/-1."
 
 #: ../../WAR.rst:532
 msgid ""
@@ -1758,7 +1758,7 @@ msgid ""
 "Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 "
 "damage to that player."
 msgstr ""
-"Ilekroć przeciwnik dobiera kartę, ten wędrowiec zadaje owemu graczowi 1 "
+"Ilekroć przeciwnik dobierze kartę, ten wędrowiec zadaje owemu graczowi 1 "
 "obrażenie."
 
 #: ../../WAR.rst:531
@@ -1777,7 +1777,7 @@ msgid ""
 "Target creature gets -5/-5 until end of turn. If that creature would die "
 "this turn, exile it instead."
 msgstr ""
-"Wskazany stwór dostaje -5/-5 do końca tury. Jeśli ów stwór miałby umrzeć w "
+"Wskazany stwór dostaje do końca tury -5/-5. Jeśli ów stwór miałby umrzeć w "
 "tej turze, zamiast tego wygnaj go."
 
 #: ../../WAR.rst:540
@@ -1792,8 +1792,8 @@ msgid ""
 "Remove up to five counters from target artifact, creature, planeswalker, or "
 "opponent."
 msgstr ""
-"Zdejmij co najwyżej pięć znaczników ze wskazanego artefaktu, stwora, "
-"wędrowca lub przeciwnika."
+"Usuń co najwyżej pięć znaczników ze wskazanego artefaktu, stwora, wędrowca "
+"lub przeciwnika."
 
 #: ../../WAR.rst:546
 msgid ""
@@ -1875,7 +1875,7 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądowę kartę. Ów "
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nie-lądowę kartę. Ów "
 "gracz odrzuca ową kartę."
 
 #: ../../WAR.rst:574
@@ -1890,7 +1890,7 @@ msgid ""
 "Target creature gets +2/+0 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór do końca tury dostaje +2/+0 oraz niezniszczalność. (Obrażenia "
+"Wskazany stwór dostaje do końca tury +2/+0 oraz niezniszczalność. (Obrażenia "
 "i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../WAR.rst:578
@@ -1920,11 +1920,11 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
 "Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
-"czarnego stwora Armia Zombich 0/0.)"
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:583
 msgid "Zombie tokens you control have deathtouch."
-msgstr "Żetony Zombich pod twoim władaniem mają dotyk śmierci."
+msgstr "Żetony Zombi pod twoim władaniem mają dotyk śmierci."
 
 #: ../../WAR.rst:588
 msgid ""
@@ -1956,8 +1956,7 @@ msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
 msgid ""
 "|mana_1|, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end "
 "of turn."
-msgstr ""
-"|mana_1|, poświęć innego stwora: Ten stwór dostaje +2/+0 do końca tury."
+msgstr "|mana_1|, poświęć innego stwora: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../WAR.rst:600
 msgid ""
@@ -2007,8 +2006,8 @@ msgid ""
 "target."
 msgstr ""
 "Zyskaj władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
-"Zyskuje on pośpiech do końca tury. Ten czar zadaje 2 obrażenia w inny "
-"dowolnie wskazany cel."
+"Zyskuje on pośpiech do końca tury. Ten czar zadaje innemu wskazanemu celowi "
+"2 obrażenia."
 
 #: ../../WAR.rst:614
 msgid ""
@@ -2022,8 +2021,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end "
 "of turn, then scry 1."
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje +1/+0 do końca "
-"tury, następnie wróż 1."
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje do końca tury +1/+"
+"0, następnie wróż 1."
 
 #: ../../WAR.rst:618
 msgid ""
@@ -2048,7 +2047,7 @@ msgid ""
 "Whenever one or more loyalty counters are removed from Chandra, Fire "
 "Artisan, she deals that much damage to target opponent or planeswalker."
 msgstr ""
-"Ilekroć jeden lub więcej znaczników lojalności jest usuwanych z tego "
+"Ilekroć jeden lub więcej znaczników lojalności zostanie usuniętych z tego "
 "wędrowca, zadaje on tyle samo obrażeń wskazanemu przeciwnikowi lub "
 "wędrowcowi."
 
@@ -2061,7 +2060,7 @@ msgstr ""
 msgid ""
 "−7: Exile the top seven cards of your library. You may play them this turn."
 msgstr ""
-"–7: Wygnaj siedem wierzchnich kart twojej biblioteki. Możesz zagrać je w tej "
+"–7: Wygnaj siedem wierzchnich kart twojej biblioteki. Możesz je zagrać w tej "
 "turze."
 
 #: ../../WAR.rst:630
@@ -2092,9 +2091,9 @@ msgid ""
 "opponent controls. Chandra's Triumph deals 5 damage to that permanent "
 "instead if you control a Chandra planeswalker."
 msgstr ""
-"Ten czar zadaje wskazanemu władanemu przez przeciwnika stworowi lub "
-"wędrowcowi 3 obrażenia. Zamiast tego ten czar zadaje 5 obrażeń w ów "
-"permanent jeśli władasz wędrowcem o typie Chandra."
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi pod władaniem przeciwnika "
+"3 obrażenia. Zamiast tego ten czar zadaje 5 obrażeń jeśli władasz wędrowcem "
+"o typie Chandra."
 
 #: ../../WAR.rst:638
 msgid ""
@@ -2109,9 +2108,9 @@ msgid ""
 "target creature an opponent controls, where X is the number of instant and "
 "sorcery cards in your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje X obrażeń wskazanemu stworowi "
-"pod władaniem przeciwnika, gdzie X jest liczbą kart sztuczek i obrzędów w "
-"twoim cmentarzu."
+"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu stworowi pod "
+"władaniem przeciwnika X obrażeń, gdzie X jest liczbą kart sztuczek i "
+"obrzędów w twoim cmentarzu."
 
 #: ../../WAR.rst:642
 msgid ""
@@ -2138,8 +2137,8 @@ msgid ""
 "+1 counters on it."
 msgstr ""
 "Umieszczając tego stwora na polu walki możesz poświęcić dowolną liczbę "
-"stworów i/lub wędrowców. Jeśli tak zrobisz, wchodzi on na pole walki z "
-"dwukrotnością tej liczby znaczników +1/+1."
+"stworów i/lub wędrowców. Jeśli tak zrobisz, wchodzi on na pole walki mając "
+"dwukrotność tej liczby znaczników +1/+1."
 
 #: ../../WAR.rst:652
 msgid ""
@@ -2178,13 +2177,13 @@ msgid ""
 "counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/"
-"+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"żeton czarnego stwora Armia Zombich 0/0.)"
+"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/+"
+"1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:657
 msgid "Zombie tokens you control have trample."
-msgstr "Żetony Zombich pod twoim władaniem mają tratowanie."
+msgstr "Żetony Zombi pod twoim władaniem mają tratowanie."
 
 #: ../../WAR.rst:662
 msgid ""
@@ -2201,12 +2200,12 @@ msgid ""
 "graveyard this turn, exile it instead. If X is 10 or more, copy each of "
 "those spells twice. You may choose new targets for the copies."
 msgstr ""
-"Możesz rzucić co najwyżej jedną wskazaną kartę sztuczki i/lub co najwyżej "
-"jedną wskazaną kartę obrzędu z twojego cmentarza, o koszcie X lub mniejszym "
-"każda, bez płacenia ich kosztów many. Jeśli karta rzucona w ten sposób "
-"miałaby trafić do cmentarza w tej turze, zamiast tego wygnaj ją. Jeśli X "
-"wynosi 10 lub więcej, skopiuj dwukrotnie każdy z owych czarów. Możesz "
-"wskazać nowe cale dla kopii."
+"Możesz rzucić bez płacenia kosztów many co najwyżej jedną wskazaną kartę "
+"sztuczki i/lub co najwyżej jedną wskazaną kartę obrzędu z twojego cmentarza, "
+"każda o skróconym koszcie many X lub mniejszym. Jeśli karta rzucona w ten "
+"sposób miałaby trafić do cmentarza w tej turze, zamiast tego wygnaj ją. "
+"Jeśli X wynosi 10 lub więcej, skopiuj dwukrotnie każdy z owych czarów. "
+"Możesz wskazać nowe cale dla kopii."
 
 #: ../../WAR.rst:664
 msgid ""
@@ -2253,7 +2252,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór umrze, zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim "
 "władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego stwora "
-"Armia Zombich 0/0.)"
+"Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:684
 msgid ""
@@ -2271,7 +2270,7 @@ msgstr ""
 
 #: ../../WAR.rst:683
 msgid "Heartfire deals 4 damage to any target."
-msgstr "Ten czar zadaje 4 obrażenia w dowolnie wskazany cel."
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../WAR.rst:690
 msgid ""
@@ -2291,7 +2290,7 @@ msgid ""
 msgstr ""
 "Dobierz dwie karty. Zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim "
 "władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton czarnego stwora "
-"Armia Zombich 0/0.)"
+"Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:698
 msgid ""
@@ -2316,7 +2315,7 @@ msgid ""
 "you may put it into its owner's library third from the top."
 msgstr ""
 "Kiedy ten stwór umrze lub zostanie wygnany z pola walki, możesz umieścić go "
-"w bibliotece właściciela jako trzeci od góry."
+"w bibliotece właściciela jako trzeci od wierzchu."
 
 #: ../../WAR.rst:702
 msgid ""
@@ -2331,9 +2330,9 @@ msgid ""
 "counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/"
-"+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"żeton czarnego stwora Armia Zombich 0/0.)"
+"Kiedy ten stwór wejdzie na pole walki, zgromadź 2. (Umieść dwa znaczniki +1/+"
+"1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:708
 msgid ""
@@ -2348,11 +2347,11 @@ msgid ""
 "player, it deals that much damage plus 1 to that permanent or player instead."
 msgstr ""
 "Jeśli inne czerwone źródło pod twoim władaniem miałoby zadać obrażenia "
-"permanentowi lub graczowi, zamiast tego zadaje o jedno obrażenie więcej."
+"permanentowi lub graczowi, zamiast tego zadaje tyle samo obrażeń plus 1."
 
 #: ../../WAR.rst:707
 msgid "−2: Jaya, Venerated Firemage deals 2 damage to any target."
-msgstr "–2: Ten wędrowiec zadaje 2 obrażenia w dowolnie wskazany cel."
+msgstr "–2: Ten wędrowiec zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../WAR.rst:712
 msgid ""
@@ -2393,7 +2392,7 @@ msgid ""
 "creature and gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć rzucisz nie-stworowy czar, ten permanent staje się artefaktowym "
-"stworem i dostaje +1/+1 do końca tury."
+"stworem i dostaje do końca tury +1/+1."
 
 #: ../../WAR.rst:723
 msgid ""
@@ -2413,7 +2412,7 @@ msgstr ""
 #: ../../WAR.rst:727
 msgid "Up to two target creatures each get +2/+0 until end of turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje +2/+0 do końca tury."
+"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+0."
 
 #: ../../WAR.rst:734
 msgid ""
@@ -2431,8 +2430,8 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, możesz "
 "odrzucić dowolną liczbę kart. Jeśli tak zrobisz, dobierz tyle samo kart i "
-"dostajesz tyle samo |mana_r|. Do końca tury nie tracisz owej many podczas "
-"końców kroków i faz."
+"weź tyle samo |mana_r|. Do końca tury nie tracisz owej many podczas końców "
+"kroków i faz."
 
 #: ../../WAR.rst:738
 msgid ""
@@ -2454,7 +2453,7 @@ msgstr ""
 
 #: ../../WAR.rst:741
 msgid "Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
-msgstr "Wskazany stwór dostaje +2/+1 i zyskuje pośpiech do końca tury. Wróż 1."
+msgstr "Wskazany stwór dostaje do końca tury +2/+1 oraz pośpiech. Wróż 1."
 
 #: ../../WAR.rst:750
 msgid ""
@@ -2517,15 +2516,15 @@ msgstr ""
 
 #: ../../WAR.rst:761
 msgid "Your opponents can't gain life."
-msgstr "Twoi przeciwnicy nie mogą zyskać życia."
+msgstr "Twoi przeciwnicy nie mogą zyskiwać żyć."
 
 #: ../../WAR.rst:763
 msgid ""
 "−2: Create a 1/1 red Devil creature token with \"When this creature dies, it "
 "deals 1 damage to any target.\""
 msgstr ""
-"–2: Stwórz żeton czerwonego stwora Diabeł 1/1 ze zdolnością \"Kiedy ten "
-"stwór umrze, zadaje 1 obrażenie w dowolnie wskazany cel.\""
+"–2: Stwórz żeton czerwonego stwora Diabeł 1/1 mający \"Kiedy ten stwór "
+"umrze, zadaje wskazanemu celowi 1 obrażenie.\""
 
 #: ../../WAR.rst:770
 msgid ""
@@ -2536,11 +2535,11 @@ msgstr ""
 
 #: ../../WAR.rst:767
 msgid "When Tibalt's Rager dies, it deals 1 damage to any target."
-msgstr "Kiedy ten stwór umrze, zadaje w dowolnie wskazany cel 1 obrażenie."
+msgstr "Kiedy ten stwór umrze, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../WAR.rst:769
 msgid "|mana_1|\\ |mana_r|: Tibalt's Rager gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +2/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../WAR.rst:776
 msgid ""
@@ -2559,7 +2558,7 @@ msgid ""
 "with power 4 or greater, Turret Ogre deals 2 damage to each opponent."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym stworem o sile 4 "
-"lub większej, niniejszy stwór zadaje każdemu przeciwnikowi 2 obrażenia."
+"lub większej, niniejszy stwór zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../WAR.rst:782
 msgid ""
@@ -2588,8 +2587,8 @@ msgid ""
 "Each creature you control that's a Wolf or a Werewolf enters the battlefield "
 "with an additional +1/+1 counter on it."
 msgstr ""
-"Każdy stwór pod twoim władaniem będący Wilkiem lub Wilkołakiem wchodzi na "
-"pole walki mając dodatkowy znacznik +1/+1."
+"Każdy stwór pod twoim władaniem mający typ Wilk lub Wilkołak wchodzi na pole "
+"walki mając dodatkowy znacznik +1/+1."
 
 #: ../../WAR.rst:787
 msgid "−2: Create a 2/2 green Wolf creature token."
@@ -2668,8 +2667,8 @@ msgid ""
 "your library in any order. You gain 3 life."
 msgstr ""
 "Spójrz na trzy wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
-"nich kartę permanentu i umieścić ją w twojej ręce. Umieść pozostałe w "
-"dowolnej kolejności na spodzie twojej biblioteki. Zyskaj 3 życia."
+"nich kartę permanentu i umieścić ją w twojej ręce. Umieść pozostałe na "
+"spodzie twojej biblioteki w dowolnej kolejności. Zyskaj 3 życia."
 
 #: ../../WAR.rst:814
 msgid ""
@@ -2753,7 +2752,7 @@ msgstr ""
 "Wyszukaj w twojej bibliotece i/lub cmentarzu kartę stwora o skróconym "
 "koszcie many X lub niższym i umieść ją na polu walki. Jeśli przeszukałeś "
 "bibliotekę w ten sposób, przetasuj ją. Jeśli X wynosi 10 lub więcej, stwory "
-"pod twoim władaniem dostają do końca tury +X/+X i pośpiech."
+"pod twoim władaniem dostają do końca tury +X/+X oraz pośpiech."
 
 #: ../../WAR.rst:834
 msgid ""
@@ -2764,8 +2763,7 @@ msgstr ""
 
 #: ../../WAR.rst:833
 msgid "Put target creature with flying on the bottom of its owner's library."
-msgstr ""
-"Umieść wskazanego stwora z lataniem na spodzie biblioteki jego właściciela."
+msgstr "Umieść wskazanego stwora z lataniem na spodzie biblioteki właściciela."
 
 #: ../../WAR.rst:838
 msgid ""
@@ -2804,7 +2802,7 @@ msgid ""
 "may put it into its owner's library third from the top."
 msgstr ""
 "Kiedy ten stwór umrze lub zostanie wygnany z pola walki, możesz umieścić go "
-"w bibliotece właściciela jako trzeci od góry."
+"w bibliotece właściciela jako trzeci od wierzchu."
 
 #: ../../WAR.rst:852
 msgid ""
@@ -2845,7 +2843,7 @@ msgid ""
 "your control, put a +1/+1 counter on Kronch Wrangler."
 msgstr ""
 "Ilekroć stwór o sile 4 lub większej wejdzie na pole walki pod twoim "
-"władaniem, umieść znacznik +1/+1 na tym stworze."
+"władaniem, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../WAR.rst:868
 msgid ""
@@ -2864,7 +2862,7 @@ msgid ""
 "many plus one +1/+1 counters are put on it instead."
 msgstr ""
 "Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać umieszczonych na tym "
-"stworze, zamiast tego zostaje ich umieszczonych o jeden więcej."
+"stworze, zamiast tego zostaje ich umieszczonych tyle samo plus jeden."
 
 #: ../../WAR.rst:876
 msgid ""
@@ -2898,7 +2896,7 @@ msgstr ""
 
 #: ../../WAR.rst:879
 msgid "Whenever you tap a Forest for mana, add an additional |mana_g|."
-msgstr "Ilekroć przekręcisz Las pobierając manę, dostajesz dodatkowo |mana_g|."
+msgstr "Ilekroć przekręcisz Las pobierając manę, weź dodatkowo |mana_g|."
 
 #: ../../WAR.rst:881
 msgid ""
@@ -2906,8 +2904,8 @@ msgid ""
 "control. Untap it. It becomes a 0/0 Elemental creature with vigilance and "
 "haste that's still a land."
 msgstr ""
-"+1: Umieść trzy znaczniki +1/+1 na co najwyżej jednym wskazanym lądzie pod "
-"twoim władaniem nie będącym stworem. Odkręć go. Staje się on stworem "
+"+1: Umieść trzy znaczniki +1/+1 na co najwyżej jednym wskazanym nie-"
+"stworowym lądzie pod twoim władaniem. Odkręć go. Staje się on stworem "
 "Żywiołak 0/0 z pośpiechem i czyjnością. Nadal jest lądem."
 
 #: ../../WAR.rst:883
@@ -3037,7 +3035,7 @@ msgid ""
 "Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór blokuje stwora z lataniem, dostaje do końca tury +2/+0."
+"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
 
 #: ../../WAR.rst:938
 msgid ""
@@ -3149,7 +3147,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to "
 "karta stwora lub wędrowca, możesz ujawnić ją i umieścić w twojej ręce. Jeśli "
-"nie umieścić owej karty w twojej ręce, umieść ją na spodzie twojej "
+"nie umieścisz owej karty w twojej ręce, umieść ją na spodzie twojej "
 "biblioteki."
 
 #: ../../WAR.rst:968
@@ -3229,7 +3227,7 @@ msgid ""
 "Whenever one or more loyalty counters are put on planeswalkers you control, "
 "put that many +1/+1 counters on Bioessence Hydra."
 msgstr ""
-"Ilekroć jeden lub więcej znaczników lojalności jest umieszczanych na "
+"Ilekroć jeden lub więcej znaczników lojalności zostanie umieszczonych na "
 "wędrowcach pod twoim władaniem, umieść tyle samo znaczników +1/+1 na tym "
 "stworze."
 
@@ -3269,7 +3267,7 @@ msgid ""
 "dies, each opponent loses 1 life and you gain 1 life."
 msgstr ""
 "Ilekroć umrze ten lub inny stwór albo wędrowiec pod twoim władaniem, każdy "
-"przeciwnik traci 1 życie a ty zyskaj 1 życie."
+"przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../WAR.rst:1016
 msgid ""
@@ -3371,8 +3369,7 @@ msgid ""
 "When Dreadhorde Butcher dies, it deals damage equal to its power to any "
 "target."
 msgstr ""
-"Kiedy ten stwór umrze, zadaje dowolnie wskazanemu celowi obrażenia równe "
-"swojej sile."
+"Kiedy ten stwór umrze, zadaje wskazanemu celowi obrażenia równe swojej sile."
 
 #: ../../WAR.rst:1052
 msgid ""
@@ -3401,11 +3398,11 @@ msgid ""
 "Army you control. If you don't control one, create a 0/0 black Zombie Army "
 "creature token first.)"
 msgstr ""
-"Ten czar zadaje 4 obrażenia wskazanemu stworowi, a ty zyskujesz życia równe "
+"Ten czar zadaje 4 obrażenia wskazanemu stworowi, a ty zyskaj życia równe "
 "obrażeniom zadanym w ten sposób. Wskazany gracz umieszcza cztery wierzchnie "
-"karty swojej biblioteki w swoim cmentarzu. Zgromadź 4. (Umieść 4 znaczniki "
-"+1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"żeton czarnego stwora Armia Zombich 0/0.)"
+"karty swojej biblioteki w swoim cmentarzu. Zgromadź 4. (Umieść 4 znaczniki +"
+"1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:1062
 msgid ""
@@ -3441,11 +3438,11 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, zgromadź 1. (Umieść znacznik +1/+1 na "
 "Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
-"czarnego stwora Armia Zombich 0/0.)"
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:1067
 msgid "Zombie tokens you control have hexproof and menace."
-msgstr "Żetony Zombich pod twoim władaniem mają antyklątwę i złowrogość."
+msgstr "Żetony Zombi pod twoim władaniem mają antyklątwę i złowrogość."
 
 #: ../../WAR.rst:1072
 msgid ""
@@ -3459,8 +3456,8 @@ msgid ""
 "Discard all the cards in your hand, then draw that many cards plus one. You "
 "gain life equal to the number of cards in your hand."
 msgstr ""
-"Odrzuć wszystkie karty w twojej ręce, następnie dobierz o jedną więcej. "
-"Zyskaj życie równe liczbie kart w twojej ręce."
+"Odrzuć wszystkie karty w twojej ręce, następnie dobierz tyle samo plus "
+"jedną. Zyskaj życia równe liczbie kart w twojej ręce."
 
 #: ../../WAR.rst:1078
 msgid ""
@@ -3492,9 +3489,9 @@ msgid ""
 "graveyard. (Put X +1/+1 counters on an Army you control. If you don't "
 "control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
-"Zgromadź X, gdzie X jest liczbą kart sztuczek i obrzędów w twoim cmentarzu. "
-"(Umieść X znaczników +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
-"władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+"Zgromadź X, gdzie X jest liczbą kart sztuczek i obrzędów w twoim cmentarzu. ("
+"Umieść X znaczników +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
+"władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:1088
 msgid ""
@@ -3519,8 +3516,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Discard a land card: Living Twister deals 2 damage to "
 "any target."
 msgstr ""
-"|mana_1|\\ |mana_r|, odrzuć kartę lądu: Ten stwór zadaje 2 obrażenia w "
-"dowolnie wskazany cel."
+"|mana_1|\\ |mana_r|, odrzuć kartę lądu: Ten stwór zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../WAR.rst:1093
 msgid "|mana_g|: Return a tapped land you control to its owner's hand."
@@ -3539,8 +3536,8 @@ msgid ""
 "Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any "
 "target."
 msgstr ""
-"Ilekroć gracz poświęca permanent, niniejszy stwór zadaje 1 obrażenie w "
-"dowolnie wskazany cel."
+"Ilekroć gracz poświęci permanent, niniejszy stwór zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../WAR.rst:1106
 msgid ""
@@ -3609,8 +3606,8 @@ msgid ""
 "+1: You draw a card. Each opponent exiles a card from their hand or a "
 "permanent they control."
 msgstr ""
-"+1: Dobierz kartę. Każdy z przeciwników umieszcza na wygnaniu kartę ze "
-"swojej ręki lub permanent pod swoim władaniem."
+"+1: Dobierz kartę. Każdy z przeciwników wygania kartę ze swojej ręki lub "
+"permanent pod swoim władaniem."
 
 #: ../../WAR.rst:1119
 msgid "−3: Destroy target creature or planeswalker."
@@ -3655,8 +3652,8 @@ msgid ""
 "When Oath of Kaya enters the battlefield, it deals 3 damage to any target "
 "and you gain 3 life."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje 3 obrażenia w dowolnie wskazany "
-"cel, a ty zyskaj 3 życia."
+"Kiedy ten urok wejdzie na pole walki, zadaje wskazanemu celowi 3 obrażenia, "
+"a ty zyskaj 3 życia."
 
 #: ../../WAR.rst:1133
 msgid ""
@@ -3664,7 +3661,7 @@ msgid ""
 "creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life."
 msgstr ""
 "Ilekroć przeciwnik zaatakuje wędrowca pod twoim władaniem przynajmniej "
-"jednym stworem, ten urok zadaje owemu graczowi 2 obrażenia, ty zyskaj 2 "
+"jednym stworem, ten urok zadaje owemu graczowi 2 obrażenia, a ty zyskaj 2 "
 "życia."
 
 #: ../../WAR.rst:1138
@@ -3722,9 +3719,9 @@ msgid ""
 "your library. Put one of them into your hand and the other into your "
 "graveyard."
 msgstr ""
-"Ten czar zadaje w dowolnie wskazany cel 3 obrażenia. Spójrz na dwie "
-"wierzchnie karty twojej biblioteki. Umieść jedną z nich w twojej ręce, a "
-"pozostałą w twoim cmentarzu."
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Spójrz na dwie wierzchnie "
+"karty twojej biblioteki. Umieść jedną z nich w twojej ręce, a drugą w twoim "
+"cmentarzu."
 
 #: ../../WAR.rst:1158
 msgid ""
@@ -3780,7 +3777,7 @@ msgid ""
 "Whenever Rubblebelt Rioters attacks, it gets +X/+0 until end of turn, where "
 "X is the greatest power among creatures you control."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, dostaje do końca tury +X/+0, gdzie X jest "
+"Ilekroć ten stwór zaatakuje, dostaje on do końca tury +X/+0, gdzie X jest "
 "największą siłą spośród stworów pod twoim władaniem."
 
 #: ../../WAR.rst:1172
@@ -3869,7 +3866,7 @@ msgid ""
 "Spells and abilities your opponents control can't cause you to discard cards "
 "or sacrifice permanents."
 msgstr ""
-"Czary i zdolności władane przez twoich przeciwników nie mogą sprawić, że "
+"Czary i zdolności pod władaniem twoich przeciwników nie mogą sprawić, że "
 "odrzucisz kartę lub poświęcisz permanent."
 
 #: ../../WAR.rst:1195
@@ -3878,9 +3875,9 @@ msgid ""
 "library. Put all cards with the chosen name from among them into your hand "
 "and the rest into your graveyard."
 msgstr ""
-"+1: Wybierz nazwę nielądowej karty, następnie ujawnij cztery wierzchnie "
-"karty twojej biblioteki. Wszystkie karty o wybranej nazwie spośród nich "
-"umieść w twojej ręce, a pozostałe w twoim cmentarzu."
+"+1: Nazwij nie-lądową kartę, następnie ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Wszystkie karty o wybranej nazwie spośród nich umieść w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../WAR.rst:1197
 msgid "−3: Return target card from your graveyard to your hand."
@@ -3955,15 +3952,15 @@ msgid ""
 "When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend "
 "to Elves, a legendary 3/3 green and white Wolf creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz Voja, Przyjaciela Elfów, żeton "
-"legendarnego zielonego stwora 3/3 typu Wilk."
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton legendarnego zielonego "
+"stwora Wilk 3/3 o nazwie Voja, Friend to Elves."
 
 #: ../../WAR.rst:1221
 msgid ""
 "Whenever a Wolf enters the battlefield under your control, you gain 3 life "
 "and that creature fights up to one target creature you don't control."
 msgstr ""
-"Ilekroć na pole walki wejdzie pod twoje władanie Wilk, zyskaj 3 życia, a ów "
+"Ilekroć Wilk wejdzie na pole walki pod twoim władaniem, zyskaj 3 życia, a ów "
 "stwór walczy z co najwyżej jednym wskazanym stworem poza twoim władaniem."
 
 #: ../../WAR.rst:1230
@@ -3975,9 +3972,7 @@ msgstr ""
 
 #: ../../WAR.rst:1227
 msgid "Destroy target creature with converted mana cost 3 or less."
-msgstr ""
-"Zniszcz wskazanego stwora o skróconym łącznym koszcie many równym 3 lub "
-"mniejszym."
+msgstr "Zniszcz wskazanego stwora o skróconym koszcie many 3 lub mniejszym."
 
 #: ../../WAR.rst:1229
 msgid "Return target creature to its owner's hand."
@@ -3998,9 +3993,9 @@ msgid ""
 "token first.)"
 msgstr ""
 "Zgromadź 2, następnie zgromadzona Armia zadaje obrażenia równe swojej sile "
-"każdemu stworowi nie będącemu Armią. (By zgromadzić 2, umieść dwa znaczniki "
-"+1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"żeton czarnego stwora Armia Zombich 0/0.)"
+"każdemu stworowi nie będącemu Armią. (By zgromadzić 2, umieść dwa znaczniki +"
+"1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:1240
 msgid ""
@@ -4019,7 +4014,7 @@ msgid ""
 "control one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "–2: Zgromadź 2. (Umieść 2 znaczniki+1/+1 na Armii pod twoim władaniem. Jeśli "
-"żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombich 0/0.)"
+"żadną nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:1246
 msgid ""
@@ -4033,7 +4028,7 @@ msgid ""
 "Spells and abilities your opponents control can't cause their controller to "
 "search their library."
 msgstr ""
-"Czary i zdolności władane przez twoich przeciwników nie mogą sprawić, że ich "
+"Czary i zdolności pod władaniem twoich przeciwników nie mogą sprawić, że ich "
 "władca przeszuka swoją bibliotekę."
 
 #: ../../WAR.rst:1245
@@ -4087,7 +4082,7 @@ msgid ""
 "−3: You gain life equal to the greatest toughness among creatures you "
 "control."
 msgstr ""
-"–3: Zyskaj życie równe największej wytrzymałości spośród stworów pod twoim "
+"–3: Zyskaj życia równe największej wytrzymałości spośród stworów pod twoim "
 "władaniem."
 
 #: ../../WAR.rst:1264
@@ -4103,9 +4098,9 @@ msgid ""
 "the targets of spells and abilities you control as though they didn't have "
 "hexproof."
 msgstr ""
-"Twoi przeciwnicy i permanenty pod władaniem twoich przeciwników z antyklątwą "
-"mogą być wskazywani przez czary i zdolności pod twoim władaniem tak, jakby "
-"nie miały antyklątwy."
+"Twoi przeciwnicy i permanenty pod władaniem twoich przeciwników mające "
+"antyklątwę mogą być wskazywani przez czary i zdolności pod twoim władaniem "
+"tak, jakby nie miały antyklątwy."
 
 #: ../../WAR.rst:1263
 msgid "−3: Exile target creature."
@@ -4228,7 +4223,7 @@ msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../WAR.rst:1299
 msgid "|tap|: Add two mana of different colors."
-msgstr "|tap|: Weź dwie many o różnych kolorach."
+msgstr "|tap|: Weź dwie many w różnych kolorach."
 
 #: ../../WAR.rst:1306
 msgid ""
@@ -4243,7 +4238,7 @@ msgstr "Rzucanie czarów kosztuje twoich przeciwników o |mana_2| więcej."
 
 #: ../../WAR.rst:1305
 msgid "At the beginning of your end step, each opponent loses 1 life."
-msgstr "Na początku twojego kroku końcowego, każdy przeciwnik traci 1 życie."
+msgstr "Na początku twojego kroku końcowego, każdy przeciwnik traci po 1 życiu."
 
 #: ../../WAR.rst:1312
 msgid ""
@@ -4323,7 +4318,7 @@ msgstr ""
 
 #: ../../WAR.rst:1337
 msgid "Blast Zone enters the battlefield with a charge counter on it."
-msgstr "Ten ląd wchodzi na pole walki ze znacznikiem ładunku."
+msgstr "Ten ląd wchodzi na pole walki mając znacznik ładunku."
 
 #: ../../WAR.rst:1339 ../../WAR.rst:1347 ../../WAR.rst:1363 ../../WAR.rst:1369
 #: ../../WAR.rst:1375
@@ -4339,7 +4334,7 @@ msgid ""
 "|mana_3|, |tap|, Sacrifice Blast Zone: Destroy each nonland permanent with "
 "converted mana cost equal to the number of charge counters on Blast Zone."
 msgstr ""
-"|mana_3|, |tap|, poświęć ten ląd: Zniszcz każdy nielądowy permanent o "
+"|mana_3|, |tap|, poświęć ten ląd: Zniszcz każdy nie-lądowy permanent o "
 "skróconym koszcie many równym liczbie znaczników ładunku na tym lądzie."
 
 #: ../../WAR.rst:1350
@@ -4391,7 +4386,7 @@ msgid ""
 "|mana_1|, |tap|: Add two mana of different colors. Spend this mana only to "
 "cast planeswalker spells."
 msgstr ""
-"|mana_1|, |tap|: Weź dwie many o różnych kolorach. Wydaj ową manę tylko na "
+"|mana_1|, |tap|: Weź dwie many w różnych kolorach. Wydaj ową manę tylko na "
 "rzucanie czarów wędrowców."
 
 #: ../../WAR.rst:1372
@@ -4494,7 +4489,7 @@ msgid ""
 "Whenever you attack with two or more non-Gideon creatures, put a +1/+1 "
 "counter on each of those creatures."
 msgstr ""
-"Ilekroć atakujesz przynajmniej dwoma stworami nie będącymi typu Gideon, "
+"Ilekroć zaatakujesz przynajmniej dwoma stworami nie będącymi typu Gideon, "
 "umieść znacznik +1/+1 na każdym z owych stworów."
 
 #: ../../WAR.rst:1403
@@ -4503,16 +4498,15 @@ msgid ""
 "creature that's still a planeswalker. Prevent all damage that would be dealt "
 "to him this turn. (He can't attack if he was cast this turn.)"
 msgstr ""
-"+2: Do końca tury ten wędrowiec staje się białym Piechurem 5/5, który nadal "
-"jest wędrowcem. Zażegnaj wszelkie obrażenia jakie mogłyby mu zostać zadane w "
-"tej turze. (Nie może atakować jeśli został rzucony w tej turze.)"
+"+2: Do końca tury ten wędrowiec staje się białym stworem Piechur 5/5 i nadal "
+"jest wędrowcem. Zażegnaj wszelkie obrażenia, jakie mogłyby mu zostać zadane "
+"w tej turze. (Nie może atakować jeśli został rzucony w tej turze.)"
 
 #: ../../WAR.rst:1405
 msgid ""
 "−9: Exile Gideon, the Oathsworn and each creature your opponents control."
 msgstr ""
-"–9: Wygnaj tego wędrowca i każdego stwora władanego przez twoich "
-"przeciwników."
+"–9: Wygnaj tego wędrowca i każdego stwora pod władaniem twoich przeciwników."
 
 #: ../../WAR.rst:1410
 msgid ""
@@ -4541,8 +4535,8 @@ msgid ""
 "and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 "Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Możesz wyszukać "
-"w twojej bibliotece ora/lub cmentarzu kartę o nazwie Gideon, the Oathsworn, "
-"ujawnić ją i umieścić ją w twojej ręce. Jeśli przeszukasz w ten sposób swoją "
+"w twojej bibliotece i/lub cmentarzu kartę o nazwie Gideon, the Oathsworn, "
+"ujawnij ją i umieść ją w twojej ręce. Jeśli przeszukasz w ten sposób swoją "
 "bibliotekę, przetasuj ją."
 
 #: ../../WAR.rst:1420
@@ -4554,7 +4548,7 @@ msgstr ""
 
 #: ../../WAR.rst:1417
 msgid "Whenever you gain life, put two +1/+1 counters on Gideon's Company."
-msgstr "Ilekroć zyskasz życie, umieść dwa znaczniki +1/+1 na tym stworze."
+msgstr "Ilekroć zyskasz życia, umieść dwa znaczniki +1/+1 na tym stworze."
 
 #: ../../WAR.rst:1419
 msgid ""
@@ -4690,7 +4684,7 @@ msgid ""
 "+2: Tezzeret, Master of the Bridge deals X damage to each opponent, where X "
 "is the number of artifacts you control. You gain X life."
 msgstr ""
-"+2: Ten wędrowiec zadaje każdemu przeciwnikowi X obrażeń, gdzie X jest "
+"+2: Ten wędrowiec zadaje każdemu przeciwnikowi po X obrażeń, gdzie X jest "
 "liczbą artefaktów pod twoim władaniem. Zyskaj X żyć."
 
 #: ../../WAR.rst:1463

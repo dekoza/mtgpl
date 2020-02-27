@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -612,7 +612,7 @@ msgstr ""
 
 #: ../../ORI.rst:197
 msgid "Enchant nonland permanent"
-msgstr "Zaurocz nielądowy permanent"
+msgstr "Zaurocz nie-lądowy permanent"
 
 #: ../../ORI.rst:199
 msgid ""
@@ -682,7 +682,7 @@ msgid ""
 msgstr ""
 "U każdego z graczy wybierz spośród permanentów pod władaniem owego gracza "
 "artefakt, stwora, urok i wędrowca. Następnie każdy gracz poświęca wszystkie "
-"inne nielądowe permanenty."
+"inne nie-lądowe permanenty."
 
 #: ../../ORI.rst:224
 msgid ""
@@ -933,7 +933,7 @@ msgstr ""
 
 #: ../../ORI.rst:309
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../ORI.rst:314
 msgid ""
@@ -947,7 +947,7 @@ msgid ""
 "Return all nonland permanents with converted mana cost X or less to their "
 "owners' hands."
 msgstr ""
-"Przywróć wszystkie nielądowe permanenty o skróconym koszcie many X lub "
+"Przywróć wszystkie nie-lądowe permanenty o skróconym koszcie many X lub "
 "mniejszy do rąk ich właścicieli."
 
 #: ../../ORI.rst:318
@@ -1313,7 +1313,7 @@ msgid ""
 "color, repeat this process."
 msgstr ""
 "Ilekroć dobierzesz kartę,wskazany przeciwnik umieszcza dwie wierzchnie karty "
-"swojej biblioteki w swoim cmentarzu. Jeśli obie są nielądowymi kartami "
+"swojej biblioteki w swoim cmentarzu. Jeśli obie są nie-lądowymi kartami "
 "współdzielącymi kolor, powtórz ten proces."
 
 #: ../../ORI.rst:435
@@ -1972,7 +1972,7 @@ msgid ""
 "If you do, that player discards that card. If you don't, that player "
 "discards two cards."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Możesz wybrać z niej nielądową "
+"Wskazany przeciwnik ujawnia swoją rękę. Możesz wybrać z niej nie-lądową "
 "kartę. Jeśli tak zrobisz, ów gracz odrzuca ową kartę. Jeśli nie, ów gracz "
 "odrzuca dwie karty."
 
@@ -2452,7 +2452,7 @@ msgid ""
 "player, it deals that much damage plus 1 to that permanent or player instead."
 msgstr ""
 "Jeśli inne czerwone źródło pod twoim władaniem miałoby zadać obrażenia "
-"permanentowi lub graczowi, zamiast tego zadaje o jedno obrażenie więcej."
+"permanentowi lub graczowi, zamiast tego zadaje tyle samo obrażeń plus 1."
 
 #: ../../ORI.rst:796
 msgid ""
@@ -2915,8 +2915,8 @@ msgid ""
 "random order."
 msgstr ""
 "Ujawnij X wierzchnich kart twojej biblioteki. Umiesz wszystkie karty lądów "
-"spośród nich przekręcone na polu walki, a pozostałe na spodzie twojej "
-"biblioteki w losowej kolejności."
+"spośród nich przekręcone na polu walki, a pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../ORI.rst:935
 msgid ""
@@ -3033,8 +3033,8 @@ msgid ""
 "on the bottom of your library in a random order."
 msgstr ""
 "|mana_g|, poświęć stwora: Ujawniaj karty z wierzchu twojej biblioteki, aż "
-"ujawnisz kartę stwora. Umieść ową kartę w twojej ręce, a pozostałe na "
-"spodzie twojej biblioteki w losowej kolejności."
+"ujawnisz kartę stwora. Umieść ową kartę w twojej ręce, a pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../ORI.rst:976
 msgid ""

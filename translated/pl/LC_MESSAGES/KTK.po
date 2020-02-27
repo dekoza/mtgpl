@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ktk/"
 "pl/>\n"
@@ -618,8 +618,8 @@ msgid ""
 "You may have Clever Impersonator enter the battlefield as a copy of any "
 "nonland permanent on the battlefield."
 msgstr ""
-"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia dowolnego "
-"nielądowego permanentu będącego na polu walki."
+"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia dowolnego nie-"
+"lądowego permanentu będącego na polu walki."
 
 #: ../../KTK.rst:184
 msgid ""
@@ -985,7 +985,8 @@ msgstr ""
 # cb40e6afcceb49bf8fed4b5483b4139a
 #: ../../KTK.rst:293
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr "Umieść wskazany nielądowy permanent na wierzchu biblioteki właściciela."
+msgstr ""
+"Umieść wskazany nie-lądowy permanent na wierzchu biblioteki właściciela."
 
 #: ../../KTK.rst:304
 msgid ""
@@ -3766,7 +3767,7 @@ msgstr ""
 # e1fc7ad1b65346f28e3d17aaa68620b4
 #: ../../KTK.rst:1147
 msgid "Exile target nonland permanent."
-msgstr "Wygnaj wskazany nielądowy permanent."
+msgstr "Wygnaj wskazany nie-lądowy permanent."
 
 #: ../../KTK.rst:1152
 msgid ""
@@ -3782,8 +3783,8 @@ msgid ""
 "without paying their mana costs."
 msgstr ""
 "Wskazany przeciwnik wygania X wierzchnich kart swojej biblioteki. Możesz "
-"rzucić spośród nich dowolne nielądowe karty o skróconych kosztach many X lub "
-"mniejszych bez płacenia ich kosztów many."
+"rzucić spośród nich dowolne nie-lądowe karty o skróconych kosztach many X "
+"lub mniejszych bez płacenia ich kosztów many."
 
 #: ../../KTK.rst:1156
 msgid ""

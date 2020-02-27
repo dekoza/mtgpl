@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-25 11:00+0000\n"
+"PO-Revision-Date: 2020-02-27 09:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dom/"
 "pl/>\n"
@@ -153,9 +153,8 @@ msgid ""
 "historic.)"
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
-"niech historyczną kartę i umieścić ją w twojej ręce. Umieść pozostałe na "
-"spodzie twojej biblioteki w losowej kolejności. (Artefakty, legendy i Sagi "
-"są historyczne.)"
+"niech historyczną kartę i umieścić ją w twojej ręce. Umieść pozostałe losowo "
+"na spodzie twojej biblioteki. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:48
 msgid ""
@@ -679,7 +678,7 @@ msgstr ""
 
 #: ../../DOM.rst:219
 msgid "Exile all nonland permanents that aren't legendary."
-msgstr "Wygnaj wszystkie nielądowe permanenty, które nie są legendarne."
+msgstr "Wygnaj wszystkie nie-lądowe permanenty, które nie są legendarne."
 
 #: ../../DOM.rst:228
 msgid ""
@@ -738,7 +737,7 @@ msgid ""
 msgstr ""
 "I, II — Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić "
 "spośród nich kartę artefaktu i umieścić ją w twojej ręce. Umieść pozostałe "
-"na spodzie twojej biblioteki w losowej kolejności."
+"losowo na spodzie twojej biblioteki."
 
 #: ../../DOM.rst:241
 msgid ""
@@ -811,7 +810,7 @@ msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nielądowy permanent do ręki właściciela. Jeśli ten czar "
+"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Jeśli ten czar "
 "został podbity, dobierz kartę."
 
 #: ../../DOM.rst:272
@@ -957,7 +956,7 @@ msgid ""
 "nonland permanent to its owner's hand. Exile Karn's Temporal Sundering."
 msgstr ""
 "Wskazany gracz bierze dodatkową turę po obecnej. Przywróć co najwyżej jeden "
-"wskazany nielądowy permanent do ręki właściciela. Wygnaj niniejszy czar."
+"wskazany nie-lądowy permanent do ręki właściciela. Wygnaj niniejszy czar."
 
 #: ../../DOM.rst:322
 msgid ""
@@ -1439,7 +1438,7 @@ msgid ""
 "your hand this way."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wyganiaj karty z wierzchu twojej "
-"biblioteki aż wygnasz nielądową kartę, następnie umieść ową kartę w twojej "
+"biblioteki aż wygnasz nie-lądową kartę, następnie umieść ową kartę w twojej "
 "ręce. Jeśli skrócony koszt many owej karty wynosi 4 lub więcej, powtórz ten "
 "proces. Ten stwór zadaje tobie 1 obrażenie za każdą kartę umieszczoną w "
 "twojej ręce w ten sposób."
@@ -3439,7 +3438,7 @@ msgstr ""
 
 #: ../../DOM.rst:1141
 msgid "You may cast nonland cards exiled with Rona."
-msgstr "Możesz rzucać nielądowe karty wygnane z pomocą tego stwora."
+msgstr "Możesz rzucać nie-lądowe karty wygnane z pomocą tego stwora."
 
 #: ../../DOM.rst:1143
 msgid "|mana_4|, |tap|: Exile the top card of your library."
@@ -3516,7 +3515,7 @@ msgstr ""
 msgid ""
 "−3: Put target nonland permanent into its owner's library third from the top."
 msgstr ""
-"–3: Umieść wskazany nielądowy permanent w bibliotece jego właściciela jako "
+"–3: Umieść wskazany nie-lądowy permanent w bibliotece jego właściciela jako "
 "trzeci od wierzchu."
 
 #: ../../DOM.rst:1167
@@ -4017,8 +4016,8 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, spójrz na pięć wierzchnich "
 "kart twojej biblioteki. Możesz ujawnić spośród nich historyczną kartę i "
-"umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
-"losowej kolejności. (Artefakty, legendy i Sagi są historyczne.)"
+"umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1329
 msgid "Crew 3"
@@ -4181,8 +4180,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, poświęć ten ląd: Spójrz na pięć wierzchnich kart "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić ją w "
-"twojej ręce. Następnie umieść pozostałe na spodzie twojej biblioteki w "
-"losowej kolejności."
+"twojej ręce. Następnie umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DOM.rst:1394
 msgid ""
