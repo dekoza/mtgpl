@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-27 09:30+0000\n"
+"PO-Revision-Date: 2020-02-27 23:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/a25/"
 "pl/>\n"
@@ -288,7 +288,7 @@ msgid ""
 "Protector gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, niniejszy "
-"stwór dostaje +1/+1 do końca tury."
+"stwór dostaje do końca tury +1/+1."
 
 #: ../../A25.rst:94
 msgid ""
@@ -1365,7 +1365,7 @@ msgstr ""
 
 #: ../../A25.rst:467
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje -2/-2 do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury -2/-2."
 
 #: ../../A25.rst:472
 msgid ""
@@ -1959,7 +1959,7 @@ msgid ""
 "Chandra's Outrage deals 4 damage to target creature and 2 damage to that "
 "creature's controller."
 msgstr ""
-"Ten czar zadaje 4 obrażenia wskazanemu stworowi oraz 2 obrażenia władcy "
+"Ten czar zadaje wskazanemu stworowi 4 obrażenia oraz 2 obrażenia władcy "
 "owego stwora."
 
 #: ../../A25.rst:670
@@ -2421,7 +2421,7 @@ msgid ""
 "Target creature gets +1/+1 and gains double strike until end of turn. (It "
 "deals both first-strike and regular combat damage.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 i podwójny cios. (Zadaje "
+"Wskazany stwór dostaje do końca tury +1/+1 oraz podwójny cios. (Zadaje "
 "obrażenia bojowe zarówno jako pierwszy cios oraz normalnie.)"
 
 #: ../../A25.rst:816

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-27 09:30+0000\n"
+"PO-Revision-Date: 2020-02-27 23:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -977,8 +977,8 @@ msgid ""
 "When Faerie Miscreant enters the battlefield, if you control another "
 "creature named Faerie Miscreant, draw a card."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli władasz inną kartą o takiej "
-"samej nazwie, dobierz kartę."
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz inną kartą o nazwie "
+"Faerie Miscreant, dobierz kartę."
 
 #: ../../ORI.rst:330
 msgid ""
@@ -3108,7 +3108,7 @@ msgstr ""
 
 #: ../../ORI.rst:989
 msgid "Enchantment spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie uroków kosztuje cię o |mana_1| mniej."
+msgstr "Rzucanie czarów uroków kosztuje cię o |mana_1| mniej."
 
 #: ../../ORI.rst:991
 msgid "Whenever you cast an enchantment spell, you gain 1 life."

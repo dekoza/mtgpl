@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-27 09:29+0000\n"
+"PO-Revision-Date: 2020-02-27 23:16+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/soi/"
 "pl/>\n"
@@ -496,8 +496,8 @@ msgid ""
 "When Inspiring Captain enters the battlefield, creatures you control get +1/"
 "+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają +1/"
-"+1 do końca tury."
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1."
 
 #: ../../SOI.rst:164
 msgid ""
@@ -3464,7 +3464,7 @@ msgid ""
 "Target creature gets +1/+1 and gains double strike until end of turn. (It "
 "deals both first-strike and regular combat damage.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 i podwójny cios. (Zadaje "
+"Wskazany stwór dostaje do końca tury +1/+1 oraz podwójny cios. (Zadaje "
 "obrażenia bojowe zarówno jako pierwszy cios oraz normalnie.)"
 
 #: ../../SOI.rst:1114
@@ -3767,7 +3767,7 @@ msgstr ""
 
 #: ../../SOI.rst:1197
 msgid "Creature spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie stworów kosztuje cię o |mana_1| mniej."
+msgstr "Rzucanie czarów stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../SOI.rst:1199
 msgid ""
