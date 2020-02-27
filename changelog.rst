@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2020-02-27
+   * Zaktualizowane tłumaczenia: WAR
+
 2020-02-25
    * Zaktualizowane tłumaczenia: GRN, RNA
 
