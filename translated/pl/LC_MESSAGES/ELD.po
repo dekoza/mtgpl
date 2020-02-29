@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-11 16:29+0100\n"
-"PO-Revision-Date: 2020-02-27 09:30+0000\n"
+"PO-Revision-Date: 2020-02-29 22:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
 "pl/>\n"
@@ -21,9 +21,8 @@ msgstr ""
 "X-Generator: Weblate 3.11.2\n"
 
 #: ../../ELD.rst:5
-#, fuzzy
 msgid ":mtgexp:`ELD` Throne of Eldraine"
-msgstr ":mtgexp:`ELD` Throne of Eldraine"
+msgstr ""
 
 #: ../../ELD.rst:10
 msgid ""
@@ -110,7 +109,7 @@ msgid ""
 "Ardenvale Paladin enters the battlefield with a +1/+1 counter on it."
 msgstr ""
 "Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy białe many, "
-"ten stwór wchodzi na pole walki ze znacznikiem +1/+1."
+"ten stwór wchodzi na pole walki mając znacznik +1/+1."
 
 #: ../../ELD.rst:32
 msgid ""
@@ -189,8 +188,8 @@ msgid ""
 "Exile another target creature you own. Return it to the battlefield under "
 "your control at the beginning of the next end step."
 msgstr ""
-"Wygnaj innego wskazanego stwora, którego jesteś właścicielem. Na początku "
-"następnego kroku końcowego przywróć go na pole walki pod twoim władaniem."
+"Wygnaj innego wskazanego własnego stwora. Na początku następnego kroku "
+"końcowego przywróć go na pole walki pod twoim władaniem."
 
 #: ../../ELD.rst:66
 msgid ""
@@ -235,8 +234,7 @@ msgstr ""
 #: ../../ELD.rst:69
 msgid "Each player can't cast more than one noncreature spell each turn."
 msgstr ""
-"Żaden gracz nie może rzucić więcej niż jednego czaru niebędącego stworem na "
-"turę."
+"Każdy gracz nie może rzucić więcej niż jednego nie-stworowego czaru na turę."
 
 #: ../../ELD.rst:74
 msgid ""
@@ -257,8 +255,8 @@ msgid ""
 "Target creature gets +2/+1 and gains flying until end of turn. (Then exile "
 "this card. You may cast the creature later from exile.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+1 i latanie. (Następnie wygnaj tę "
-"kartę. Możesz później rzucić z niej stwora z wygnania.)"
+"Wskazany stwór dostaje do końca tury +2/+1 oraz latanie. (Następnie wygnaj "
+"tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:82
 msgid ""
@@ -331,8 +329,8 @@ msgid ""
 "controls with converted mana cost 3 or less until Glass Casket leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, wygnaj wskazanego stwora pod "
-"władaniem przeciwnika o skróconym koszcie many 3 lub mniejszym dopóki ten "
+"Kiedy ten artefakt wejdzie na pole walki, wygnaj wskazanego władanego przez "
+"przeciwnika stwora o skróconym koszcie many 3 lub mniejszym dopóki ten "
 "artefakt nie opuści pola walki."
 
 #: ../../ELD.rst:106
@@ -347,8 +345,8 @@ msgid ""
 "When Happily Ever After enters the battlefield, each player gains 5 life and "
 "draws a card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, każdy gracz zyskuje 5 żyć oraz dobiera "
-"kartę."
+"Kiedy ten urok wejdzie na pole walki, każdy gracz zyskuje po 5 żyć oraz "
+"dobiera kartę."
 
 #: ../../ELD.rst:105
 msgid ""
@@ -357,10 +355,10 @@ msgid ""
 "and/or cards in your graveyard, and your life total is greater than or equal "
 "to your starting life total, you win the game."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli jest pięć kolorów pośród "
-"permanentów pod twoim władaniem oraz jest co najmniej sześć typów kart "
-"pośród kart pod twoim władaniem i/lub w twoim cmentarzu oraz twoja liczba "
-"żyć jest nie mniejsza niż początkowa, wygrywasz grę."
+"Na początku twojego kroku utrzymania, jeśli pośród permanentów pod twoim "
+"władaniem jest pięć kolorów oraz co najmniej sześć typów kart pośród kart "
+"pod twoim władaniem i/lub w twoim cmentarzu oraz twoja liczba żyć jest nie "
+"mniejsza niż początkowa, wygrywasz grę."
 
 #: ../../ELD.rst:114
 msgid ""
@@ -371,7 +369,7 @@ msgstr ""
 
 #: ../../ELD.rst:111
 msgid "Non-Archon creatures have base power and toughness 3/3."
-msgstr "Stwory nie będące typu Archon mają bazowe siłę i wytrzymałość 3/3."
+msgstr "Stwory bez typu Archon mają bazowe siłę i wytrzymałość 3/3."
 
 #: ../../ELD.rst:113
 msgid ""
@@ -420,7 +418,7 @@ msgstr "Czujność"
 
 #: ../../ELD.rst:129
 msgid "Whenever a white creature you control attacks, you gain 1 life."
-msgstr "Ilekroć biały stwór pod twoim władaniem zaatakuje, zyskaj 1 życie."
+msgstr "Ilekroć zaatakuje biały stwór pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../ELD.rst:134
 msgid ""
@@ -606,7 +604,7 @@ msgid ""
 "creatures you control gain vigilance until end of turn."
 msgstr ""
 "Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy białe many, "
-"stwory pod twoim władaniem zyskują do końca tury czujność."
+"stwory pod twoim władaniem zyskują czujność do końca tury."
 
 #: ../../ELD.rst:196
 msgid ""
@@ -735,8 +733,8 @@ msgid ""
 "Target noncreature artifact you control becomes a 0/0 artifact creature. Put "
 "four +1/+1 counters on it."
 msgstr ""
-"Wskazany nie będący stworem artefakt pod twoim władaniem staje się "
-"artefaktowym stworem 0/0. Umieść na nim cztery znaczniki +1/+1."
+"Wskazany nie-stworowy artefakt pod twoim władaniem staje się artefaktowym "
+"stworem 0/0. Umieść na nim cztery znaczniki +1/+1."
 
 #: ../../ELD.rst:248
 msgid ""
@@ -834,7 +832,7 @@ msgid ""
 "|tap|: Choose target artifact card in your graveyard. You may cast that card "
 "this turn. (You still pay its costs. Timing rules still apply.)"
 msgstr ""
-"|tap|: Wskaż kartę artefaktu w twoim cmentarzu. Możesz zagrać ową kartę w "
+"|tap|: Wskaż kartę artefaktu w twoim cmentarzu. Możesz rzucić ową kartę w "
 "tej turze. (Nadal musisz zapłacić jej koszty. Reguły dotyczące czasu "
 "zagrywania wciąż są w mocy.)"
 
@@ -865,8 +863,8 @@ msgid ""
 "You may choose a noncreature card you own from outside the game, reveal it, "
 "and put it into your hand."
 msgstr ""
-"Możesz wybrać własną kartę nie będącą stworem spoza gry, ujawnić ją i "
-"umieścić w twojej ręce."
+"Możesz wybrać własną nie-stworową kartę spoza gry, ujawnij ją i umieść ją w "
+"twojej ręce."
 
 #: ../../ELD.rst:294
 msgid ""
@@ -880,8 +878,8 @@ msgid ""
 "Whenever you draw your second card each turn, put a +1/+1 counter on Faerie "
 "Vandal."
 msgstr ""
-"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, umieść znacznik +1/+1 "
-"na tym stworze."
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, umieść znacznik +1/+1 na "
+"tym stworze."
 
 #: ../../ELD.rst:302
 msgid ""
@@ -892,7 +890,7 @@ msgstr ""
 
 #: ../../ELD.rst:297
 msgid "Players have no maximum hand size."
-msgstr "Gracznie nie mają limitu kart na ręce."
+msgstr "Gracze nie mają limitu kart na ręce."
 
 #: ../../ELD.rst:299
 msgid "|mana_x|\\ |mana_x|, |tap|: Each player draws X cards."
@@ -905,7 +903,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "|mana_2|\\ |mana_u|, |tap|: Każdy przeciwnik umieszcza w swoim cmentarzu "
-"tyle kart z wierzchu swojej biblioteki, ile ma kart na ręce."
+"tyle kart z wierzchu swojej biblioteki, ile ma kart w ręce."
 
 #: ../../ELD.rst:308
 msgid ""
@@ -1026,7 +1024,7 @@ msgid ""
 "Whenever you draw your second card each turn, attach Mantle of Tides to "
 "target creature you control."
 msgstr ""
-"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, dołącz ten artefakt do "
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, dołącz ten artefakt do "
 "wskazanego stwora pod twoim władaniem."
 
 #: ../../ELD.rst:346
@@ -1109,8 +1107,8 @@ msgid ""
 "Whenever Mistford River Turtle attacks, another target attacking non-Human "
 "creature can't be blocked this turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór nie będący "
-"Człowiekiem nie może być blokowany w tej turze."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór bez typu Człowiek "
+"nie może być blokowany w tej turze."
 
 #: ../../ELD.rst:374
 msgid ""
@@ -1238,9 +1236,8 @@ msgid ""
 "battlefield under your control, you may draw a card. If you do, discard a "
 "card."
 msgstr ""
-"Ilekroć ten stwór lub inny stwór nie będący Człowiekiem wejdzie na pole "
-"walki pod twoim władaniem, możesz dobrać kartę. Jeśli tak zrobisz, odrzuć "
-"kartę."
+"Ilekroć ten stwór lub inny stwór bez typu Człowiek wejdzie na pole walki pod "
+"twoim władaniem, możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../ELD.rst:414
 msgid ""
@@ -1254,8 +1251,8 @@ msgid ""
 "Enchanted creature gets -2/-0. It gets -6/-0 instead as long as its "
 "controller has seven or more cards in their graveyard."
 msgstr ""
-"Zauroczony stwór dostaje -2/-0. Zamiast tego dostaje -6/-0 o ile jego władca "
-"ma co najmniej siedem kart w swoim cmentarzu."
+"Zauroczony stwór dostaje -2/-0. Zamiast tego dostaje on -6/-0 o ile jego "
+"władca ma co najmniej siedem kart w swoim cmentarzu."
 
 #: ../../ELD.rst:420
 msgid ""
@@ -1269,7 +1266,7 @@ msgid ""
 "Whenever you draw your second card each turn, Steelgaze Griffin gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć dobierzesz drugą swoją kartę w każdej z tur, ten stwór dostaje do "
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór dostaje do "
 "końca tury +2/+0."
 
 #: ../../ELD.rst:424
@@ -1375,14 +1372,14 @@ msgid ""
 "Vantress Gargoyle can't attack unless defending player has seven or more "
 "cards in their graveyard."
 msgstr ""
-"Ten stwór nie może atakować dopóki broniący się gracz nie ma co najmniej "
+"Ten stwór nie może atakować, chyba że broniący się gracz ma co najmniej "
 "siedem kart w swoim cmentarzu."
 
 #: ../../ELD.rst:457
 msgid ""
 "Vantress Gargoyle can't block unless you have four or more cards in hand."
 msgstr ""
-"Ten stwór nie może blokować jeśli nie masz przynajmniej czterech kart w ręce."
+"Ten stwór nie może blokować, chyba że masz co najmniej cztery karty w ręce."
 
 #: ../../ELD.rst:459
 msgid ""
@@ -1399,16 +1396,12 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:465
-#, fuzzy
-#| msgid ""
-#| "Adamant — If at least three white mana was spent to cast this spell, "
-#| "Ardenvale Paladin enters the battlefield with a +1/+1 counter on it."
 msgid ""
 "Adamant — If at least three blue mana was spent to cast this spell, Vantress "
 "Paladin enters the battlefield with a +1/+1 counter on it."
 msgstr ""
 "Nieugięty - Jeśli na rzucenie tego czaru wydano co najmniej trzy białe many, "
-"ten stwór wchodzi na pole walki ze znacznikiem +1/+1."
+"ten stwór wchodzi na pole walki mając znacznik +1/+1."
 
 #: ../../ELD.rst:472
 msgid ""
