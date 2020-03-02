@@ -78,7 +78,7 @@ def reformat_card_text(text, card_name=None):
 @click.command()
 @click.argument("expansions")
 def import_rst(expansions):
-    expansions = expansions.split(",")
+    expansions = map(str.strip, expansions.split(","))
     for expansion in expansions:
         cache = []
         with open(f"{expansion}.rst", "w") as output:

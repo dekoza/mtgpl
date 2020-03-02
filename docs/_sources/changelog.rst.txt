@@ -3,8 +3,8 @@
 Spis zmian
 ***********
 
-2020-03-01
-   * Zaktualizowne tłumaczenia: ELD
+2020-03-02
+   * Zaktualizowne tłumaczenia: ELD, THB
 
 2020-02-27
    * Zaktualizowane tłumaczenia: WAR, M20
