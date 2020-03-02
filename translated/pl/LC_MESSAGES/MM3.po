@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-03-02 21:27+0000\n"
+"PO-Revision-Date: 2020-03-02 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/mm3/"
 "pl/>\n"
@@ -592,7 +592,7 @@ msgid ""
 "both of them.)"
 msgstr ""
 "Więź dusz (Możesz sparować tego stwora z innym niesparowanym stworem gdy "
-"którykolwiek wchodzi na pole walki. Pozostają parą dopóki kontrolujesz obu.)"
+"którykolwiek wejdzie na pole walki. Pozostają parą dopóki władasz oboma.)"
 
 #: ../../MM3.rst:187
 msgid ""
@@ -2240,6 +2240,8 @@ msgid ""
 "|mana_1|\\ |mana_g|, |tap|: Target creature you control fights another "
 "target creature."
 msgstr ""
+"|mana_1|\\ |mana_g|, |tap|: Wskazany stwór pod twoim władaniem walczy z "
+"innym wskazanym stworem."
 
 #: ../../MM3.rst:758
 msgid ""
@@ -3499,7 +3501,7 @@ msgstr ""
 
 #: ../../MM3.rst:1193
 msgid "As Cavern of Souls enters the battlefield, choose a creature type."
-msgstr "Wprowadzając Jaskinię Dusz na pole walki, wybierz typ stwora."
+msgstr "Umieszczając ten ląd na polu walki, wybierz typ stwora."
 
 #: ../../MM3.rst:1195 ../../MM3.rst:1279
 msgid "|tap|: Add |colorless|."
@@ -3510,6 +3512,8 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell of the chosen type, and that spell can't be countered."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego. Użyj ową manę tylko do rzucenia czaru "
+"stwora wybranego typu i ów czar nie może zostać skontrowany."
 
 #: ../../MM3.rst:1204
 msgid ""

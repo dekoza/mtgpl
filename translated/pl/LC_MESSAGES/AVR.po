@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-03-02 21:27+0000\n"
+"PO-Revision-Date: 2020-03-02 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/avr/"
 "pl/>\n"
@@ -76,7 +76,6 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:23
-#, fuzzy
 msgid "You gain 7 life."
 msgstr "Zyskaj 7 żyć."
 
@@ -159,7 +158,7 @@ msgstr ""
 
 #: ../../AVR.rst:53
 msgid "Enchant nonblack creature"
-msgstr "Zaurocz nieczarnego stwora"
+msgstr "Zaurocz nie-czarnego stwora"
 
 #: ../../AVR.rst:55
 msgid ""
@@ -507,7 +506,7 @@ msgid ""
 "both of them.)"
 msgstr ""
 "Więź dusz (Możesz sparować tego stwora z innym niesparowanym stworem gdy "
-"którykolwiek wchodzi na pole walki. Pozostają parą dopóki kontrolujesz obu.)"
+"którykolwiek wejdzie na pole walki. Pozostają parą dopóki władasz oboma.)"
 
 #: ../../AVR.rst:161
 msgid ""
@@ -818,7 +817,7 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Fettergeist unless you pay |"
 "mana_1| for each other creature you control."
 msgstr ""
-"Na początku twojego kroku  utrzymania, poświęć tego stwora, chyba że "
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
 "zapłacisz |mana_1| za każdego innego stwora pod twoim władaniem."
 
 #: ../../AVR.rst:282
@@ -1434,7 +1433,6 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:489
-#, fuzzy
 msgid ""
 "At the beginning of your end step, if you control exactly one creature, "
 "create a 5/5 black Demon creature token with flying."
@@ -1910,22 +1908,20 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:663
-#, fuzzy
 msgid ""
 "As an additional cost to cast this spell, tap any number of untapped "
 "creatures you control."
 msgstr ""
-"Jako dodatkowy koszt rzucenia Płoń na Stosie, przekręć dowolną liczbę "
-"nieprzekręconych stworów, którymi władasz."
+"Jako dodatkowy koszt rzucenia tego czaru — przekręć dowolną liczbę "
+"nieprzekręconych stworów pod twoim władaniem."
 
 #: ../../AVR.rst:665
-#, fuzzy
 msgid ""
 "Burn at the Stake deals damage to any target equal to three times the number "
 "of creatures tapped this way."
 msgstr ""
-"Płoń na Stosie zadaje wskazanemu stworowi lub graczowi trzy razy więcej "
-"obrażeń niż liczba stworów przekręconych w ten sposób."
+"Ten czar zadaje wskazanemu celowi tyle obrażeń, ile wynosi trzykrotność "
+"liczby stworów przekręconych w ten sposób."
 
 #: ../../AVR.rst:670
 msgid ""
@@ -2205,9 +2201,8 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:775
-#, fuzzy
 msgid "Each player discards their hand, then draws seven cards."
-msgstr "Odrzuć swoją rękę, następnie dobierz dwie karty."
+msgstr "Każdy gracz odrzuca swoją rękę, następnie dobiera siedem kart."
 
 #: ../../AVR.rst:777
 msgid ""
@@ -2414,13 +2409,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:845
-#, fuzzy
 msgid ""
 "Whenever a Human enters the battlefield under your control, Vigilante "
 "Justice deals 1 damage to any target."
 msgstr ""
-"Ilekroć inny Człowiek wchodzi na pole walki pod twoim władaniem, odznacz "
-"Kapitana Mgieł."
+"Ilekroć inny Człowiek wejdzie na pole walki pod twoim władaniem, niniejszy "
+"stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../AVR.rst:852
 msgid ""
@@ -2827,14 +2821,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:999
-#, fuzzy
 msgid ""
 "|tap|: Add three mana of any one color. Spend this mana only to cast "
 "creature spells."
 msgstr ""
-"|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many. Użyj tę manę "
-"tylko do rzucenia czaru stwora wybranego typu i ów czar nie może zostać "
-"skontrowany."
+"|tap|: Weź jedną manę dowolnego koloru. Użyj tę manę tylko do rzucenia czaru "
+"stwora."
 
 #: ../../AVR.rst:1006
 msgid ""
@@ -2915,13 +2907,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:1027
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|, |tap|: Target creature you control fights another "
 "target creature."
 msgstr ""
-"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż wyłącznie jako obrzęd.)"
+"|mana_1|\\ |mana_g|, |tap|: Wskazany stwór pod twoim władaniem walczy z "
+"innym wskazanym stworem."
 
 #: ../../AVR.rst:1030
 msgid ""
@@ -3014,17 +3005,16 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:1065
-#, fuzzy
 msgid ""
 "Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it "
 "any number of Auras on the battlefield and you may put onto the battlefield "
 "attached to it any number of Aura cards that could enchant it from your "
 "graveyard and/or hand."
 msgstr ""
-"Ilekroć Bruna, Alabastrowy Blask atakuje lub blokuje, możesz do niej "
-"dołączyć dowolną liczbę Aur z pola walki oraz możesz położyć na polu walki "
-"dołączone do niej dowolną liczbę Aur, które mogłyby ją zauroczyć ze swojego "
-"cmentarza i/lub ręki."
+"Ilekroć ten stwór zaatakuje lub zablokuje, możesz do niej dołączyć dowolną "
+"liczbę Aur na polu walki oraz możesz umieścić na polu walki dołączone do "
+"niej dowolną liczbę Aur, które mogłyby ją zauroczyć ze swojego cmentarza i/"
+"lub ręki."
 
 #: ../../AVR.rst:1074
 msgid ""
@@ -3297,7 +3287,6 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../AVR.rst:1159
-#, fuzzy
 msgid ""
 "|mana_g|\\ |mana_u|, |tap|: You may cast spells this turn as though they had "
 "flash."
@@ -3314,17 +3303,15 @@ msgstr ""
 
 #: ../../AVR.rst:1163
 msgid "As Cavern of Souls enters the battlefield, choose a creature type."
-msgstr "Wprowadzając Jaskinię Dusz na pole walki, wybierz typ stwora."
+msgstr "Umieszczając ten ląd na polu walki, wybierz typ stwora."
 
 #: ../../AVR.rst:1167
-#, fuzzy
 msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell of the chosen type, and that spell can't be countered."
 msgstr ""
-"|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many. Użyj tę manę "
-"tylko do rzucenia czaru stwora wybranego typu i ów czar nie może zostać "
-"skontrowany."
+"|tap|: Weź jedną manę dowolnego. Użyj ową manę tylko do rzucenia czaru "
+"stwora wybranego typu i ów czar nie może zostać skontrowany."
 
 #: ../../AVR.rst:1174
 msgid ""

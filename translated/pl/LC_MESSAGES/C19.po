@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-03-02 21:27+0000\n"
+"PO-Revision-Date: 2020-03-02 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
 "pl/>\n"
@@ -36,6 +36,10 @@ msgstr "Czujność"
 #: ../../C19.rst:11
 msgid "|tap|, Sacrifice Cliffside Rescuer: Target permanent you control gains protection from each of your opponents until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything controlled by those players.)"
 msgstr ""
+"|tap|, poświęć tego stwora: Wskazany permanent pod twoim władaniem zyskuje "
+"do końca tury ochronę przed każdym z twoich przeciwników. (Nie może być "
+"blokowany, wskazywany, uszkodzony, zauroczony lub wyposażony przez cokolwiek "
+"pod władaniem owych graczy.)"
 
 #: ../../C19.rst:16
 msgid ":mtgtip:`Commander's Insignia<https://img.scryfall.com/cards/border_crop/front/4/4/44cccb23-a515-4e49-b4ae-a12d81f7d6ef.jpg?1568003358|https://scryfall.com/card/c19/2/commanders-insignia?utm_source=api>`"
@@ -44,6 +48,8 @@ msgstr ""
 #: ../../C19.rst:15
 msgid "Creatures you control get +1/+1 for each time you've cast your commander from the command zone this game."
 msgstr ""
+"Stwory pod twoim władaniem dostają +1/+1 za każdorazowe rzucenie przez "
+"ciebie twojego dowódcy ze strefy dowodzenia w tej grze."
 
 #: ../../C19.rst:22
 msgid ":mtgtip:`Doomed Artisan<https://img.scryfall.com/cards/border_crop/front/d/e/ded9c409-7131-4b3f-a6b9-25fa32c5ec2c.jpg?1568003364|https://scryfall.com/card/c19/3/doomed-artisan?utm_source=api>`"
@@ -51,7 +57,7 @@ msgstr ""
 
 #: ../../C19.rst:19
 msgid "Sculptures you control can't attack or block."
-msgstr ""
+msgstr "Rzeźby pod twoim władaniem nie mogą atakować ani blokować."
 
 #: ../../C19.rst:21
 msgid "At the beginning of your end step, create a colorless Sculpture artifact creature token with \"This creature's power and toughness are each equal to the number of Sculptures you control.\""
