@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-29 21:47+0100\n"
-"PO-Revision-Date: 2020-03-01 22:18+0000\n"
+"PO-Revision-Date: 2020-03-02 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/thb/"
 "pl/>\n"
@@ -21,9 +21,8 @@ msgstr ""
 "X-Generator: Weblate 3.11.2\n"
 
 #: ../../THB.rst:5
-#, fuzzy
 msgid ":mtgexp:`THB` Theros Beyond Death"
-msgstr ":mtgexp:`TBD` Theros Beyond Death"
+msgstr ":mtgexp:`TBD` Theros: Beyond Death (Theros: Poza śmiercią)"
 
 #: ../../THB.rst:12
 msgid ""
@@ -31,9 +30,6 @@ msgid ""
 "front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1578673668|https://"
 "scryfall.com/card/thb/1/alseid-of-lifes-bounty?utm_source=api>`"
 msgstr ""
-":mtgtip:`Alseid of Life's Bounty<https://img.scryfall.com/cards/border_crop/"
-"front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1578673668|https://"
-"scryfall.com/card/thb/1/alseid-of-lifes-bounty?utm_source=api>`"
 
 #: ../../THB.rst:9 ../../THB.rst:569 ../../THB.rst:585
 msgid "Lifelink"
@@ -48,15 +44,11 @@ msgstr ""
 "zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../THB.rst:18
-#, fuzzy
 msgid ""
 ":mtgtip:`Archon of Falling Stars<https://img.scryfall.com/cards/border_crop/"
 "front/d/0/d0dd1e40-a514-42df-8cc1-364998c7700c.jpg?1578046144|https://"
 "scryfall.com/card/thb/2/archon-of-falling-stars?utm_source=api>`"
 msgstr ""
-":mtgtip:`Archon of Falling Stars<https://img.scryfall.com/cards/border_crop/"
-"front/d/0/d0dd1e40-a514-42df-8cc1-364998c7700c.jpg?1578046144|https://"
-"scryfall.com/card/thb/2/archon-of-falling-stars?utm_source=api>`"
 
 #: ../../THB.rst:15 ../../THB.rst:65 ../../THB.rst:147 ../../THB.rst:221
 #: ../../THB.rst:233 ../../THB.rst:369 ../../THB.rst:437 ../../THB.rst:445
@@ -75,15 +67,11 @@ msgstr ""
 "cmentarza na pole walki."
 
 #: ../../THB.rst:26
-#, fuzzy
 msgid ""
 ":mtgtip:`Archon of Sun's Grace<https://img.scryfall.com/cards/border_crop/"
 "front/2/3/235e5999-e8e5-4093-adff-9d47aec70d10.jpg?1578680378|https://"
 "scryfall.com/card/thb/3/archon-of-suns-grace?utm_source=api>`"
 msgstr ""
-":mtgtip:`Archon of Sun's Grace<https://img.scryfall.com/cards/border_crop/"
-"front/2/3/235e5999-e8e5-4093-adff-9d47aec70d10.jpg?1578680378|https://"
-"scryfall.com/card/thb/3/archon-of-suns-grace?utm_source=api>`"
 
 #: ../../THB.rst:21 ../../THB.rst:1275
 msgid "Flying, lifelink"
@@ -91,7 +79,7 @@ msgstr "Latanie, więź życia"
 
 #: ../../THB.rst:23
 msgid "Pegasus creatures you control have lifelink."
-msgstr "Pegazy pod twoim władaniem mają więź życia."
+msgstr "Stwory typu Pegaz pod twoim władaniem mają więź życia."
 
 #: ../../THB.rst:25
 msgid ""
@@ -102,15 +90,11 @@ msgstr ""
 "żeton białego stwora Pegaz 2/2 z lataniem."
 
 #: ../../THB.rst:30
-#, fuzzy
 msgid ""
 ":mtgtip:`Banishing Light<https://img.scryfall.com/cards/border_crop/front/"
 "a/1/a1ddd113-140f-49c9-b45c-cf1b0d1dffd8.jpg?1577965251|https://scryfall.com/"
 "card/thb/4/banishing-light?utm_source=api>`"
 msgstr ""
-":mtgtip:`Banishing Light<https://img.scryfall.com/cards/border_crop/front/"
-"a/1/a1ddd113-140f-49c9-b45c-cf1b0d1dffd8.jpg?1577965251|https://scryfall.com/"
-"card/thb/4/banishing-light?utm_source=api>`"
 
 #: ../../THB.rst:29
 msgid ""
@@ -123,15 +107,11 @@ msgstr ""
 "permanent wraca pod władanie swojego właściciela.)"
 
 #: ../../THB.rst:40
-#, fuzzy
 msgid ""
 ":mtgtip:`The Birth of Meletis<https://img.scryfall.com/cards/border_crop/"
 "front/d/8/d824f8bd-58f8-4796-80b5-5cd3033d35e8.jpg?1578108312|https://"
 "scryfall.com/card/thb/5/the-birth-of-meletis?utm_source=api>`"
 msgstr ""
-":mtgtip:`The Birth of Meletis<https://img.scryfall.com/cards/border_crop/"
-"front/d/8/d824f8bd-58f8-4796-80b5-5cd3033d35e8.jpg?1578108312|https://"
-"scryfall.com/card/thb/5/the-birth-of-meletis?utm_source=api>`"
 
 #: ../../THB.rst:33 ../../THB.rst:299 ../../THB.rst:687 ../../THB.rst:729
 #: ../../THB.rst:987
@@ -161,15 +141,11 @@ msgid "III — You gain 2 life."
 msgstr "III — Zyskaj 2 życia."
 
 #: ../../THB.rst:44
-#, fuzzy
 msgid ""
 ":mtgtip:`Captivating Unicorn<https://img.scryfall.com/cards/border_crop/"
 "front/1/3/13893599-0b87-4fc0-863d-f3e0ae51cc31.jpg?1578669288|https://"
 "scryfall.com/card/thb/6/captivating-unicorn?utm_source=api>`"
 msgstr ""
-":mtgtip:`Captivating Unicorn<https://img.scryfall.com/cards/border_crop/"
-"front/1/3/13893599-0b87-4fc0-863d-f3e0ae51cc31.jpg?1578669288|https://"
-"scryfall.com/card/thb/6/captivating-unicorn?utm_source=api>`"
 
 #: ../../THB.rst:43
 msgid ""
@@ -180,15 +156,11 @@ msgstr ""
 "przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../THB.rst:50
-#, fuzzy
 msgid ""
 ":mtgtip:`Commanding Presence<https://img.scryfall.com/cards/border_crop/"
 "front/2/4/24e2f681-918e-4f1f-afb1-0f9587c0d7bf.jpg?1577965328|https://"
 "scryfall.com/card/thb/7/commanding-presence?utm_source=api>`"
 msgstr ""
-":mtgtip:`Commanding Presence<https://img.scryfall.com/cards/border_crop/"
-"front/2/4/24e2f681-918e-4f1f-afb1-0f9587c0d7bf.jpg?1577965328|https://"
-"scryfall.com/card/thb/7/commanding-presence?utm_source=api>`"
 
 #: ../../THB.rst:47 ../../THB.rst:69 ../../THB.rst:135 ../../THB.rst:159
 #: ../../THB.rst:209 ../../THB.rst:293 ../../THB.rst:591 ../../THB.rst:603
@@ -204,18 +176,14 @@ msgid ""
 "creature token.\""
 msgstr ""
 "Zauroczony stwór dostaje +2/+2, ma pierwszy cios oraz \"Ilekroć ten stwór "
-"zadaje graczowi obrażenia bojowe, stwórz żeton białego stwora Piechur 1/1.\""
+"zada graczowi obrażenia bojowe, stwórz żeton białego stwora Piechur 1/1.\""
 
 #: ../../THB.rst:54
-#, fuzzy
 msgid ""
 ":mtgtip:`Dawn Evangel<https://img.scryfall.com/cards/border_crop/front/f/7/"
 "f7e152ae-43ec-4b9d-a43f-786c2f6c7366.jpg?1578673700|https://scryfall.com/"
 "card/thb/8/dawn-evangel?utm_source=api>`"
 msgstr ""
-":mtgtip:`Dawn Evangel<https://img.scryfall.com/cards/border_crop/front/f/7/"
-"f7e152ae-43ec-4b9d-a43f-786c2f6c7366.jpg?1578673700|https://scryfall.com/"
-"card/thb/8/dawn-evangel?utm_source=api>`"
 
 #: ../../THB.rst:53
 msgid ""
@@ -228,15 +196,11 @@ msgstr ""
 "cmentarza do twojej ręki."
 
 #: ../../THB.rst:60
-#, fuzzy
 msgid ""
 ":mtgtip:`Daxos, Blessed by the Sun<https://img.scryfall.com/cards/"
 "border_crop/front/0/f/0fd2adb3-a6f4-448e-af2a-15ca92b1de63.jpg?1576245393|"
 "https://scryfall.com/card/thb/9/daxos-blessed-by-the-sun?utm_source=api>`"
 msgstr ""
-":mtgtip:`Daxos, Blessed by the Sun<https://img.scryfall.com/cards/"
-"border_crop/front/0/f/0fd2adb3-a6f4-448e-af2a-15ca92b1de63.jpg?1576245393|"
-"https://scryfall.com/card/thb/9/daxos-blessed-by-the-sun?utm_source=api>`"
 
 #: ../../THB.rst:57
 msgid ""
@@ -256,15 +220,11 @@ msgstr ""
 "zyskaj 1 życie."
 
 #: ../../THB.rst:66
-#, fuzzy
 msgid ""
 ":mtgtip:`Daybreak Chimera<https://img.scryfall.com/cards/border_crop/front/"
 "f/9/f9c1de31-73d4-4c32-9f99-e15df48638e9.jpg?1578670423|https://scryfall.com/"
 "card/thb/10/daybreak-chimera?utm_source=api>`"
 msgstr ""
-":mtgtip:`Daybreak Chimera<https://img.scryfall.com/cards/border_crop/front/"
-"f/9/f9c1de31-73d4-4c32-9f99-e15df48638e9.jpg?1578670423|https://scryfall.com/"
-"card/thb/10/daybreak-chimera?utm_source=api>`"
 
 #: ../../THB.rst:63
 msgid ""
@@ -277,15 +237,11 @@ msgstr ""
 "wlicza się do twojego kultu białego.)"
 
 #: ../../THB.rst:74
-#, fuzzy
 msgid ""
 ":mtgtip:`Dreadful Apathy<https://img.scryfall.com/cards/border_crop/front/"
 "e/2/e20c2369-db77-465e-9f0e-bb009225345a.jpg?1578670431|https://scryfall.com/"
 "card/thb/11/dreadful-apathy?utm_source=api>`"
 msgstr ""
-":mtgtip:`Dreadful Apathy<https://img.scryfall.com/cards/border_crop/front/"
-"e/2/e20c2369-db77-465e-9f0e-bb009225345a.jpg?1578670431|https://scryfall.com/"
-"card/thb/11/dreadful-apathy?utm_source=api>`"
 
 #: ../../THB.rst:71
 msgid "Enchanted creature can't attack or block."
@@ -296,15 +252,11 @@ msgid "|mana_2|\\ |mana_w|: Exile enchanted creature."
 msgstr "|mana_2|\\ |mana_w|: Wygnaj wskazanego stwora."
 
 #: ../../THB.rst:80
-#, fuzzy
 msgid ""
 ":mtgtip:`Eidolon of Obstruction<https://img.scryfall.com/cards/border_crop/"
 "front/2/f/2f48f802-df9d-45b2-afea-98699bcdf0d6.jpg?1578673708|https://"
 "scryfall.com/card/thb/12/eidolon-of-obstruction?utm_source=api>`"
 msgstr ""
-":mtgtip:`Eidolon of Obstruction<https://img.scryfall.com/cards/border_crop/"
-"front/2/f/2f48f802-df9d-45b2-afea-98699bcdf0d6.jpg?1578673708|https://"
-"scryfall.com/card/thb/12/eidolon-of-obstruction?utm_source=api>`"
 
 #: ../../THB.rst:77
 msgid "First strike"
@@ -315,19 +267,15 @@ msgid ""
 "Loyalty abilities of planeswalkers your opponents control cost |mana_1| more "
 "to activate."
 msgstr ""
-"Aktywacja lojalnościowych zdolności wędrowców pod władaniem twoich "
+"Aktywacja zdolności lojalnościowych wędrowców pod władaniem twoich "
 "przeciwników kosztuje o |mana_1| więcej."
 
 #: ../../THB.rst:88
-#, fuzzy
 msgid ""
 ":mtgtip:`Elspeth Conquers Death<https://img.scryfall.com/cards/border_crop/"
 "front/e/a/ea20208b-1939-4c69-8cfd-c0a42f9dc427.jpg?1578531887|https://"
 "scryfall.com/card/thb/13/elspeth-conquers-death?utm_source=api>`"
 msgstr ""
-":mtgtip:`Elspeth Conquers Death<https://img.scryfall.com/cards/border_crop/"
-"front/e/a/ea20208b-1939-4c69-8cfd-c0a42f9dc427.jpg?1578531887|https://"
-"scryfall.com/card/thb/13/elspeth-conquers-death?utm_source=api>`"
 
 #: ../../THB.rst:83
 msgid ""
@@ -354,15 +302,11 @@ msgstr ""
 "pole walki. Umieść na niej znacznik +1/+1 lub lojalności."
 
 #: ../../THB.rst:98
-#, fuzzy
 msgid ""
 ":mtgtip:`Elspeth, Sun's Nemesis<https://img.scryfall.com/cards/border_crop/"
 "front/8/1/81aec42f-abb7-42f9-96f5-f1ee2f94db52.jpg?1576063945|https://"
 "scryfall.com/card/thb/14/elspeth-suns-nemesis?utm_source=api>`"
 msgstr ""
-":mtgtip:`Elspeth, Sun's Nemesis<https://img.scryfall.com/cards/border_crop/"
-"front/8/1/81aec42f-abb7-42f9-96f5-f1ee2f94db52.jpg?1576063945|https://"
-"scryfall.com/card/thb/14/elspeth-suns-nemesis?utm_source=api>`"
 
 #: ../../THB.rst:91
 msgid ""
@@ -388,15 +332,11 @@ msgstr ""
 "ucieczki.)"
 
 #: ../../THB.rst:102
-#, fuzzy
 msgid ""
 ":mtgtip:`Favored of Iroas<https://img.scryfall.com/cards/border_crop/front/"
 "f/0/f09e7aff-d873-4420-b0d5-1c63d686dd73.jpg?1578678673|https://scryfall.com/"
 "card/thb/15/favored-of-iroas?utm_source=api>`"
 msgstr ""
-":mtgtip:`Favored of Iroas<https://img.scryfall.com/cards/border_crop/front/"
-"f/0/f09e7aff-d873-4420-b0d5-1c63d686dd73.jpg?1578678673|https://scryfall.com/"
-"card/thb/15/favored-of-iroas?utm_source=api>`"
 
 #: ../../THB.rst:101
 msgid ""
@@ -404,18 +344,14 @@ msgid ""
 "control, Favored of Iroas gains double strike until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, ten "
-"stwór dostaje do końca tury podwójny cios."
+"stwór zyskuje podwójny cios do końca tury."
 
 #: ../../THB.rst:106
-#, fuzzy
 msgid ""
 ":mtgtip:`Flicker of Fate<https://img.scryfall.com/cards/border_crop/"
 "front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1578661330|https://"
 "scryfall.com/card/thb/16/flicker-of-fate?utm_source=api>`"
 msgstr ""
-":mtgtip:`Flicker of Fate<https://img.scryfall.com/cards/border_crop/"
-"front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1578661330|https://"
-"scryfall.com/card/thb/16/flicker-of-fate?utm_source=api>`"
 
 #: ../../THB.rst:105
 msgid ""
@@ -426,34 +362,26 @@ msgstr ""
 "władaniem jego właściciela."
 
 #: ../../THB.rst:110
-#, fuzzy
 msgid ""
 ":mtgtip:`Glory Bearers<https://img.scryfall.com/cards/border_crop/front/8/"
 "a/8a70e1be-f04a-43c1-8fca-205a24e3db38.jpg?1578661627|https://scryfall.com/"
 "card/thb/17/glory-bearers?utm_source=api>`"
 msgstr ""
-":mtgtip:`Glory Bearers<https://img.scryfall.com/cards/border_crop/front/8/"
-"a/8a70e1be-f04a-43c1-8fca-205a24e3db38.jpg?1578661627|https://scryfall.com/"
-"card/thb/17/glory-bearers?utm_source=api>`"
 
 #: ../../THB.rst:109
 msgid ""
 "Whenever another creature you control attacks, it gets +0/+1 until end of "
 "turn."
 msgstr ""
-"Ilekroć inny stwór pod twoim władaniem zaatakuje, dostaje do końca tury +0/"
-"+1."
+"Ilekroć inny stwór pod twoim władaniem zaatakuje, dostaje on do końca tury +"
+"0/+1."
 
 #: ../../THB.rst:120
-#, fuzzy
 msgid ""
 ":mtgtip:`Heliod, Sun-Crowned<https://img.scryfall.com/cards/border_crop/"
 "front/0/1/01a8576e-cadc-4521-aadd-3a05f0bc4d20.jpg?1577967194|https://"
 "scryfall.com/card/thb/18/heliod-sun-crowned?utm_source=api>`"
 msgstr ""
-":mtgtip:`Heliod, Sun-Crowned<https://img.scryfall.com/cards/border_crop/"
-"front/0/1/01a8576e-cadc-4521-aadd-3a05f0bc4d20.jpg?1577967194|https://"
-"scryfall.com/card/thb/18/heliod-sun-crowned?utm_source=api>`"
 
 #: ../../THB.rst:113 ../../THB.rst:409 ../../THB.rst:537 ../../THB.rst:887
 #: ../../THB.rst:1101 ../../THB.rst:1315 ../../THB.rst:1543
@@ -471,7 +399,7 @@ msgid ""
 "Whenever you gain life, put a +1/+1 counter on target creature or "
 "enchantment you control."
 msgstr ""
-"Ilekroć zyskaj życia, umieść znacznik +1/+1 na wskazanym stworze lub uroku "
+"Ilekroć zyskasz życia, umieść znacznik +1/+1 na wskazanym stworze lub uroku "
 "pod twoim władaniem."
 
 #: ../../THB.rst:119
@@ -479,18 +407,14 @@ msgid ""
 "|mana_1|\\ |mana_w|: Another target creature gains lifelink until end of "
 "turn."
 msgstr ""
-"|mana_1|\\ |mana_w|: Inny wskazany stwór dostaje do końca tury więź życia."
+"|mana_1|\\ |mana_w|: Inny wskazany stwór zyskuje więź życia do końca tury."
 
 #: ../../THB.rst:128
-#, fuzzy
 msgid ""
 ":mtgtip:`Heliod's Intervention<https://img.scryfall.com/cards/border_crop/"
 "front/8/f/8f1c16dd-38e9-4974-b570-8678c114a549.jpg?1578612841|https://"
 "scryfall.com/card/thb/19/heliods-intervention?utm_source=api>`"
 msgstr ""
-":mtgtip:`Heliod's Intervention<https://img.scryfall.com/cards/border_crop/"
-"front/8/f/8f1c16dd-38e9-4974-b570-8678c114a549.jpg?1578612841|https://"
-"scryfall.com/card/thb/19/heliods-intervention?utm_source=api>`"
 
 #: ../../THB.rst:123 ../../THB.rst:547 ../../THB.rst:647 ../../THB.rst:897
 #: ../../THB.rst:1121 ../../THB.rst:1169
@@ -506,15 +430,11 @@ msgid "Target player gains twice X life."
 msgstr "Wskazany gracz zyskuje dwukrotność X żyć."
 
 #: ../../THB.rst:132
-#, fuzzy
 msgid ""
 ":mtgtip:`Heliod's Pilgrim<https://img.scryfall.com/cards/border_crop/front/c/"
 "a/cafce2f5-f4f4-465b-96dc-bcdd29d4e4bb.jpg?1578530423|https://scryfall.com/"
 "card/thb/20/heliods-pilgrim?utm_source=api>`"
 msgstr ""
-":mtgtip:`Heliod's Pilgrim<https://img.scryfall.com/cards/border_crop/front/c/"
-"a/cafce2f5-f4f4-465b-96dc-bcdd29d4e4bb.jpg?1578530423|https://scryfall.com/"
-"card/thb/20/heliods-pilgrim?utm_source=api>`"
 
 #: ../../THB.rst:131
 msgid ""
@@ -523,24 +443,20 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę Aury, ujawnić ją i umieścić w twojej ręce, następnie przetasuj twoją "
+"kartę Aury, ujawnij ją i umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../THB.rst:140
-#, fuzzy
 msgid ""
 ":mtgtip:`Heliod's Punishment<https://img.scryfall.com/cards/border_crop/"
 "front/3/b/3b8e6878-06aa-4505-b3a5-172083b7d258.jpg?1579246219|https://"
 "scryfall.com/card/thb/21/heliods-punishment?utm_source=api>`"
 msgstr ""
-":mtgtip:`Heliod's Punishment<https://img.scryfall.com/cards/border_crop/"
-"front/3/b/3b8e6878-06aa-4505-b3a5-172083b7d258.jpg?1579246219|https://"
-"scryfall.com/card/thb/21/heliods-punishment?utm_source=api>`"
 
 #: ../../THB.rst:137
 msgid ""
 "Heliod's Punishment enters the battlefield with four task counters on it."
-msgstr "Ten urok wchodzi na pole walki z czterema znacznikami zadania."
+msgstr "Ten urok wchodzi na pole walki mając cztery znaczniki zadania."
 
 #: ../../THB.rst:139
 msgid ""
@@ -553,15 +469,11 @@ msgstr ""
 "ma tam już żadnych znaczników zadania, zniszcz Heliod's Punishment.\""
 
 #: ../../THB.rst:144
-#, fuzzy
 msgid ""
 ":mtgtip:`Hero of the Pride<https://img.scryfall.com/cards/border_crop/"
 "front/8/1/81b56863-a52a-4559-a662-f6d9145d5804.jpg?1578459102|https://"
 "scryfall.com/card/thb/22/hero-of-the-pride?utm_source=api>`"
 msgstr ""
-":mtgtip:`Hero of the Pride<https://img.scryfall.com/cards/border_crop/"
-"front/8/1/81b56863-a52a-4559-a662-f6d9145d5804.jpg?1578459102|https://"
-"scryfall.com/card/thb/22/hero-of-the-pride?utm_source=api>`"
 
 #: ../../THB.rst:143
 msgid ""
@@ -572,15 +484,11 @@ msgstr ""
 "dostają do końca tury +1/+0."
 
 #: ../../THB.rst:150
-#, fuzzy
 msgid ""
 ":mtgtip:`Hero of the Winds<https://img.scryfall.com/cards/border_crop/"
 "front/7/d/7da95097-dbe7-416a-8571-6ab6d88a531a.jpg?1576244201|https://"
 "scryfall.com/card/thb/23/hero-of-the-winds?utm_source=api>`"
 msgstr ""
-":mtgtip:`Hero of the Winds<https://img.scryfall.com/cards/border_crop/"
-"front/7/d/7da95097-dbe7-416a-8571-6ab6d88a531a.jpg?1576244201|https://"
-"scryfall.com/card/thb/23/hero-of-the-winds?utm_source=api>`"
 
 #: ../../THB.rst:149
 msgid ""
@@ -591,15 +499,11 @@ msgstr ""
 "dostają do końca tury +1/+0."
 
 #: ../../THB.rst:154
-#, fuzzy
 msgid ""
 ":mtgtip:`Idyllic Tutor<https://img.scryfall.com/cards/border_crop/front/f/0/"
 "f06edd53-f3ac-44b0-a087-5670ba8f0fa5.jpg?1577825034|https://scryfall.com/"
 "card/thb/24/idyllic-tutor?utm_source=api>`"
 msgstr ""
-":mtgtip:`Idyllic Tutor<https://img.scryfall.com/cards/border_crop/front/f/0/"
-"f06edd53-f3ac-44b0-a087-5670ba8f0fa5.jpg?1577825034|https://scryfall.com/"
-"card/thb/24/idyllic-tutor?utm_source=api>`"
 
 #: ../../THB.rst:153
 msgid ""
@@ -610,15 +514,11 @@ msgstr ""
 "Następnie przetasuj twoją bibliotekę."
 
 #: ../../THB.rst:162
-#, fuzzy
 msgid ""
 ":mtgtip:`Indomitable Will<https://img.scryfall.com/cards/border_crop/"
 "front/4/7/47772a34-c72f-44e8-b272-4ef2d2af5c82.jpg?1576245362|https://"
 "scryfall.com/card/thb/25/indomitable-will?utm_source=api>`"
 msgstr ""
-":mtgtip:`Indomitable Will<https://img.scryfall.com/cards/border_crop/"
-"front/4/7/47772a34-c72f-44e8-b272-4ef2d2af5c82.jpg?1576245362|https://"
-"scryfall.com/card/thb/25/indomitable-will?utm_source=api>`"
 
 #: ../../THB.rst:157 ../../THB.rst:181 ../../THB.rst:251 ../../THB.rst:337
 #: ../../THB.rst:355 ../../THB.rst:385 ../../THB.rst:435 ../../THB.rst:443
@@ -844,7 +744,7 @@ msgid ""
 "and gains indestructible."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, odkręć innego wskazanego stwora pod twoim "
-"władaniem. Do końca tury ów stwór ma bazową siłę i wytrzymałość 4/4 i "
+"władaniem. Do końca tury ów stwór ma bazową siłę i wytrzymałość 4/4 oraz "
 "zyskuje niezniszczalność."
 
 #: ../../THB.rst:236
@@ -878,14 +778,14 @@ msgstr ""
 
 #: ../../THB.rst:243
 msgid "Alirios, Enraptured enters the battlefield tapped."
-msgstr "Ten stwór wchodzi na pole walki przekręcony."
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../THB.rst:245
 msgid ""
 "Alirios doesn't untap during your untap step if you control a Reflection."
 msgstr ""
 "Ten stwór nie odkręca się w twoim kroku odkręcania jeśli władasz permanentem "
-"o typie Reflection (Odbicie)."
+"o typie Odbicie."
 
 #: ../../THB.rst:247
 msgid ""
@@ -1090,7 +990,7 @@ msgstr "I — Wróż 2."
 
 #: ../../THB.rst:313
 msgid "II — Choose a card name."
-msgstr "II — Wybierz nazwę karty."
+msgstr "II — Nazwij kartę."
 
 #: ../../THB.rst:315
 msgid ""
@@ -1128,8 +1028,8 @@ msgid ""
 "counter on Nadir Kraken and create a 1/1 blue Tentacle creature token."
 msgstr ""
 "Ilekroć dobierzesz kartę, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
-"umieść znacznik +1/+1 na tym stworze i stwórz żeton niebieskie stwora Macka "
-"1/1."
+"umieść znacznik +1/+1 na tym stworze i stwórz żeton niebieskiego stwora "
+"Macka 1/1."
 
 #: ../../THB.rst:330
 msgid ""
@@ -1183,7 +1083,7 @@ msgid ""
 "still has its abilities, but it's no longer a creature.)"
 msgstr ""
 "Zauroczony permanent jest urokiem i traci wszystkie inne typy karty. (Nadal "
-"ma swoje zdolności, ale nie jest już dłużej stworem.)"
+"ma swoje zdolności, ale nie jest już stworem.)"
 
 #: ../../THB.rst:352
 msgid ""
@@ -1199,8 +1099,8 @@ msgid ""
 "creature, except it has this ability."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, możesz "
-"sprawić, że niniejszy stwór stanie się kopią innego wskazanego stwora, ale "
-"zachowa niniejszą zdolność."
+"sprawić, że niniejszy stwór stanie się kopią innego wskazanego stwora "
+"zachowując niniejszą zdolność."
 
 #: ../../THB.rst:358
 msgid ""
@@ -1287,7 +1187,7 @@ msgid ""
 "step."
 msgstr ""
 "Przekręć wskazanego stwora. Nie odkręci się on podczas najbliższego kroku "
-"odkręcania swojego władcy."
+"odkręcania jego władcy."
 
 #: ../../THB.rst:381
 msgid ""
@@ -1335,7 +1235,7 @@ msgid ""
 "Return target creature or enchantment an opponent controls to its owner's "
 "hand."
 msgstr ""
-"Przywróć wskazanego stwora lub urok pod władaniem przeciwnika do ręki jego "
+"Przywróć wskazanego stwora lub urok pod władaniem przeciwnika do ręki "
 "właściciela."
 
 #: ../../THB.rst:400
@@ -1546,8 +1446,8 @@ msgstr ""
 msgid ""
 "Whenever you cast your first spell during each opponent's turn, draw a card."
 msgstr ""
-"Ilekroć rzucisz swój pierwszy czar w turze każdego ze swoich przeciwników, "
-"dobierz kartę."
+"Ilekroć rzucisz swój pierwszy czar w turze każdego z przeciwników, dobierz "
+"kartę."
 
 #: ../../THB.rst:470
 msgid ""
@@ -1771,7 +1671,7 @@ msgid ""
 "Whenever another creature you control dies, you may pay 2 life. If you do, "
 "draw a card."
 msgstr ""
-"Ilekroć inny stwór pod twoim władaniem umrze, możesz zapłacić 2 życia. Jeśli "
+"Ilekroć umrze inny stwór pod twoim władaniem, możesz zapłacić 2 życia. Jeśli "
 "tak zrobisz, dobierz kartę."
 
 #: ../../THB.rst:543
@@ -1875,10 +1775,10 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci X żyć, gdzie X "
-"jest twoim kultem czarnego. Zyskaj tyle życia, ile stracono w ten sposób. "
-"(Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem wlicza się "
-"do twojego kultu czarnego.)"
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po X żyć, "
+"gdzie X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten "
+"sposób. (Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem "
+"wlicza się do twojego kultu czarnego.)"
 
 #: ../../THB.rst:582
 msgid ""
@@ -1936,7 +1836,7 @@ msgid ""
 "|mana_1|, Sacrifice a creature: Each opponent loses 1 life and you gain 1 "
 "life."
 msgstr ""
-"|mana_1|, poświęć stwora: Każdy przeciwnik traci 1 życie, zyskaj 1 życie."
+"|mana_1|, poświęć stwora: Każdy przeciwnik traci po 1 życiu, zyskaj 1 życie."
 
 #: ../../THB.rst:606
 msgid ""
@@ -2015,7 +1915,7 @@ msgid ""
 "you do, create a token that's a copy of that creature, except it's 1/1 and "
 "it's a Nightmare in addition to its other types."
 msgstr ""
-"Ilekroć inny nieżetonowy stwór pod twoim władaniem umrze, możesz go wygnać. "
+"Ilekroć umrze inny nieżetonowy stwór pod twoim władaniem, możesz go wygnać. "
 "Jeśli tak zrobisz, stwórz żeton będący kopią owego stwora, ale jest on 1/1 i "
 "jest dodatkowo Koszmarem oprócz swoich pozostałych typów."
 
@@ -2081,7 +1981,7 @@ msgid ""
 "battlefield this way, each opponent sacrifices a non-Gorgon creature."
 msgstr ""
 "Ten stwór ucieka mając dwa znaczniki +1/+1. Kiedy wejdzie na pole walki w "
-"ten sposób, każdy przeciwnik poświęca stwora nie będącego typu Gorgon."
+"ten sposób, każdy przeciwnik poświęca stwora bez typu Gorgon."
 
 #: ../../THB.rst:662
 msgid ""
@@ -2097,8 +1997,8 @@ msgid ""
 "effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+0 i niezniszczalność. (Obrażenia i efekty mówiące "
-"\"zniszcz\" nie zniszczą go.)"
+"dostaje do końca tury +1/+0 oraz niezniszczalność. (Obrażenia i efekty "
+"mówiące \"zniszcz\" nie zniszczą go.)"
 
 #: ../../THB.rst:668
 msgid ""
@@ -2183,7 +2083,7 @@ msgid ""
 "III — You gain X life and scry X, where X is the number of Zombies you "
 "control."
 msgstr ""
-"III — Zyskaj X żyć i wróż X, gdzie X jest liczbą Zombich pod twoim władaniem."
+"III — Zyskaj X żyć i wróż X, gdzie X jest liczbą Zombi pod twoim władaniem."
 
 #: ../../THB.rst:698
 msgid ""
@@ -2208,7 +2108,7 @@ msgid ""
 "1 life for each creature card exiled this way."
 msgstr ""
 "|mana_1|\\ |mana_b|: Wygnaj co najwyżej dwie wskazane karty z cmentarzy. "
-"Zyskaj 1 życie za każdą kartę stwora wygnaną w ten sposób."
+"Zyskaj po 1 życiu za każdą kartę stwora wygnaną w ten sposób."
 
 #: ../../THB.rst:706
 msgid ""
@@ -2245,7 +2145,8 @@ msgid ""
 "Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that "
 "player."
 msgstr ""
-"Ilekroć przeciwnik dobiera kartę, ten urok zadaje owemu graczowi 1 obrażenie."
+"Ilekroć przeciwnik dobierze kartę, ten urok zadaje owemu graczowi 1 "
+"obrażenie."
 
 #: ../../THB.rst:716
 msgid ""
@@ -2343,10 +2244,9 @@ msgid ""
 "red Satyr creature token with \"This creature can't block.\" If the creature "
 "had power 4 or greater, create two of those tokens instead."
 msgstr ""
-"Ilekroć ten lub inny nieżetonowy stwór pod twoim władaniem umrze, stwórz "
-"żeton czerwonego stwora Satyr 1/1 ze zdolnością \"Ten stwór nie może "
-"blokować.\" Jeśli ów stwór miał siłę 4 lub większą, zamiast tego stwórz dwa "
-"takie żetony."
+"Ilekroć umrze ten lub inny nieżetonowy stwór pod twoim władaniem, stwórz "
+"żeton czerwonego stwora Satyr 1/1 mający \"Ten stwór nie może blokować.\" "
+"Jeśli ów stwór miał siłę 4 lub większą, zamiast tego stwórz dwa takie żetony."
 
 #: ../../THB.rst:746
 msgid ""
@@ -2375,8 +2275,8 @@ msgid ""
 "When Aspect of Manticore enters the battlefield, enchanted creature gains "
 "first strike until end of turn."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zauroczony stwór zyskuje do końca tury "
-"pierwszy cios."
+"Kiedy ten urok wejdzie na pole walki, zauroczony stwór zyskuje pierwszy cios "
+"do końca tury."
 
 #: ../../THB.rst:755
 msgid "Enchanted creature gets +2/+0."
@@ -2415,8 +2315,8 @@ msgid ""
 "When Careless Celebrant dies, it deals 2 damage to target creature or "
 "planeswalker an opponent controls."
 msgstr ""
-"Kiedy ten stwór umrze, zadaje wskazanemu władanemu przez przeciwnika "
-"stworowi lub wędrowcowi 2 obrażenia."
+"Kiedy ten stwór umrze, zadaje wskazanemu stworowi lub wędrowcowi pod "
+"władaniem przeciwnika 2 obrażenia."
 
 #: ../../THB.rst:770
 msgid ""
@@ -2433,9 +2333,9 @@ msgid ""
 "battlefield and the rest on the bottom of your library in a random order."
 msgstr ""
 "Na początku twojego kroku końcowego możesz zapłacić |mana_2|\\ |mana_r| i "
-"poświęć nie-lądowy permanent. Jeśli tak zrobisz, ujawniaj karty z wierzchu "
-"twojej biblioteki dopóki nie ujawnisz karty nie-lądowego permanentu. Umieść "
-"tę kartę na polu walki, a pozostałem losowo na spodzie twojej biblioteki."
+"poświęcić nie-lądowy permanent. Jeśli tak zrobisz, ujawniaj karty z wierzchu "
+"twojej biblioteki, aż ujawnisz kartę nie-lądowego permanentu. Umieść ją na "
+"polu walki, a pozostałem losowo na spodzie twojej biblioteki."
 
 #: ../../THB.rst:774
 msgid ""
@@ -2450,7 +2350,7 @@ msgid ""
 "Manticore deals 1 damage to any target."
 msgstr ""
 "Ilekroć rzucisz swój pierwszy czar w turze każdego z przeciwników, ten stwór "
-"zadaje 1 obrażenie w dowolnie wskazany cel."
+"zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../THB.rst:782
 msgid ""
@@ -2480,7 +2380,7 @@ msgstr ""
 
 #: ../../THB.rst:785
 msgid "Fateful End deals 3 damage to any target. Scry 1."
-msgstr "Ten czar zadaje 3 obrażenia w dowolnie wskazany cel. Wróż 1."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia. Wróż 1."
 
 #: ../../THB.rst:792
 msgid ""
@@ -2515,7 +2415,7 @@ msgid ""
 "Whenever two or more creatures your opponents control attack, Flummoxed "
 "Cyclops can't block this combat."
 msgstr ""
-"Ilekroć co najmniej dwa stwory pod władaniem twoich przeciwników atakują, "
+"Ilekroć zaatakują co najmniej dwa stwory pod władaniem twoich przeciwników, "
 "ten stwór nie może blokować w tej walce."
 
 #: ../../THB.rst:802
@@ -2547,7 +2447,7 @@ msgid ""
 "Whenever you cast a spell that targets Hero of the Games, creatures you "
 "control get +1/+0 until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar wskazujący na tego stwora, stwory pod twoim władaniem "
+"Ilekroć rzucisz czar wskazujący tego stwora, stwory pod twoim władaniem "
 "dostają do końca tury +1/+0."
 
 #: ../../THB.rst:812
@@ -2563,14 +2463,14 @@ msgid ""
 "creature token with \"This creature can't block.\""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwórz żeton czerwonego stwora Satyr "
-"1/1 ze zdolnością \"Ten stwór nie może blokować.\""
+"1/1 mający \"Ten stwór nie może blokować.\""
 
 #: ../../THB.rst:811
 msgid ""
 "Whenever you cast a spell that targets Heroes of the Revel, creatures you "
 "control get +1/+0 until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar wskazujący na tego stwora, stwory pod twoim władaniem "
+"Ilekroć rzucisz czar wskazujący tego stwora, stwory pod twoim władaniem "
 "dostają do końca tury +1/+0."
 
 #: ../../THB.rst:820
@@ -2582,7 +2482,7 @@ msgstr ""
 
 #: ../../THB.rst:817
 msgid "Enchanted creature gets +3/+3 and attacks each combat if able."
-msgstr "Zauroczony stwór dostaje +3/+3 i atakuje w każdej walce jeśli może."
+msgstr "Zauroczony stwór dostaje +3/+3 i atakuje w każdej walce, jeśli może."
 
 #: ../../THB.rst:819
 msgid ""
@@ -2634,8 +2534,8 @@ msgid ""
 "When Iroas's Blessing enters the battlefield, it deals 4 damage to target "
 "creature or planeswalker an opponent controls."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje 4 obrażenia wskazanemu stworowi "
-"lub wędrowcowi pod władaniem przeciwnika."
+"Kiedy ten urok wejdzie na pole walki, zadaje on wskazanemu stworowi lub "
+"wędrowcowi pod władaniem przeciwnika 4 obrażenia."
 
 #: ../../THB.rst:846
 msgid ""
@@ -2654,7 +2554,7 @@ msgstr "Zniszcz wskazany artefakt."
 
 #: ../../THB.rst:845
 msgid "Irreverent Revelers gains haste until end of turn."
-msgstr "Ten stwór zyskuje do końca tury pośpiech."
+msgstr "Ten stwór zyskuje pośpiech do końca tury."
 
 #: ../../THB.rst:848
 msgid ""
@@ -2675,8 +2575,7 @@ msgid ""
 "When Omen of the Forge enters the battlefield, it deals 2 damage to any "
 "target."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje 2 obrażenia w dowolnie wskazany "
-"cel."
+"Kiedy ten urok wejdzie na pole walki, zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../THB.rst:857
 msgid "|mana_2|\\ |mana_r|, Sacrifice Omen of the Forge: Scry 2."
@@ -2718,7 +2617,7 @@ msgstr ""
 
 #: ../../THB.rst:869
 msgid "Ox of Agonas escapes with a +1/+1 counter on it."
-msgstr "Ten stwór ucieka mają znacznik +1/+1."
+msgstr "Ten stwór ucieka mając znacznik +1/+1."
 
 #: ../../THB.rst:880
 msgid ""
@@ -2761,7 +2660,7 @@ msgid ""
 "gains haste until end of turn. Scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Zyskaj do końca tury władanie nad wskazanym. Odkręć owego stwora. Zyskuje on "
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Zyskuje on "
 "pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę twojej "
 "biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
@@ -2826,7 +2725,7 @@ msgstr ""
 msgid ""
 "Create a 1/1 red Satyr creature token with \"This creature can't block.\""
 msgstr ""
-"Stwórz żeton czerwonego stwora Satyr 1/1 ze zdolnością \"Ten stwór nie może "
+"Stwórz żeton czerwonego stwora Satyr 1/1 mający \"Ten stwór nie może "
 "blokować.\""
 
 #: ../../THB.rst:907
@@ -2914,10 +2813,10 @@ msgid ""
 "would leave the battlefield, exile them instead of putting them anywhere "
 "else."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć dowolną liczbę kart Aury z "
-"twojego cmentarza na pole walki dołączając je do stworów pod twoim "
+"Kiedy ten stwór wejdzie na pole walki, przywróć dowolną liczbę kart typu "
+"Aura z twojego cmentarza na pole walki dołączając je do stworów pod twoim "
 "władaniem. Wygnaj owe Aury na początku twojego najbliższego kroku końcowego. "
-"Jeśli owe Aury miałyby opuścić pole wali, wygnaj je zamiast umieszczać je "
+"Jeśli owe Aury miałyby opuścić pole walki, wygnaj je zamiast umieszczać je "
 "gdziekolwiek indziej."
 
 #: ../../THB.rst:934
@@ -2943,7 +2842,7 @@ msgid ""
 "Whenever Tectonic Giant attacks or becomes the target of a spell an opponent "
 "controls, choose one —"
 msgstr ""
-"Ilekroć ten stwór zaatakuje lub zostaje wskazany przez czar pod władaniem "
+"Ilekroć ten stwór zaatakuje lub zostanie wskazany przez czar pod władaniem "
 "przeciwnika, wybierz jedno —"
 
 #: ../../THB.rst:939
@@ -3010,9 +2909,9 @@ msgid ""
 "the card's mana cost plus exile three other cards from your graveyard. (You "
 "may cast cards from your graveyard for their escape cost.)"
 msgstr ""
-"Każda karta w twoim cmentarzu nie będąca lądem ma ucieczkę. Kosztem ucieczki "
-"jest jej koszt many plus wygnanie trzech innych kart z twojego cmentarza. "
-"(Możesz rzucać karty z twojego cmentarza za ich koszt ucieczki.)"
+"Każda nie-lądowa karta w twoim cmentarzu ma ucieczkę. Kosztem ucieczki jest "
+"jej koszt many plus wygnanie trzech innych kart z twojego cmentarza. (Możesz "
+"rzucać karty z twojego cmentarza za ich koszt ucieczki.)"
 
 #: ../../THB.rst:961
 msgid "At the beginning of the end step, sacrifice Underworld Breach."
@@ -3107,8 +3006,8 @@ msgid ""
 "II — Exile up to two target cards from graveyards. For each creature card "
 "exiled this way, you gain 1 life."
 msgstr ""
-"II — Wygnaj co najwyżej dwie wskazane karty z cmentarzy. Za każdą kartę "
-"stwora wygnaną w ten sposób, zyskaj 1 życie."
+"II — Wygnaj co najwyżej dwie wskazane karty z cmentarzy. Zyskaj po 1 życiu "
+"za każdą kartę stwora wygnaną w ten sposób."
 
 #: ../../THB.rst:993
 msgid ""
@@ -3164,7 +3063,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|: Wskazany ląd pod twoim władaniem staje się do końca "
 "tury stworem Żywiołak X/X z tratowaniem i pośpiechem, gdzie X jest liczbą "
-"uroków pod twoim władaniem. Nadal jest lądem."
+"uroków pod twoim władaniem. Nadal jest on lądem."
 
 #: ../../THB.rst:1016
 msgid ""
@@ -3281,7 +3180,7 @@ msgid ""
 "Prevent all combat damage that would be dealt this turn except by enchanted "
 "creatures and enchantment creatures. Scry 2."
 msgstr ""
-"Zażegnaj wszystkie bojowe obrażenia, które mogłyby zostać zadane w tej "
+"Zażegnaj wszystkie bojowe obrażenia, jakie mogłyby zostać zadane w tej "
 "turze, z wyjątkiem tych zadanych przez zauroczone stwory lub stwory-uroki. "
 "Wróż 2."
 
@@ -3356,7 +3255,7 @@ msgstr ""
 
 #: ../../THB.rst:1077
 msgid "Put target enchantment on the bottom of its owner's library."
-msgstr "Umieść wskazany urok na spodzie biblioteki jego właściciela."
+msgstr "Umieść wskazany urok na spodzie biblioteki właściciela."
 
 #: ../../THB.rst:1084
 msgid ""
@@ -3530,7 +3429,7 @@ msgid ""
 "mana instead."
 msgstr ""
 "Jeśli przekręcisz permanent biorąc manę, zamiast tego produkuje on "
-"trzykrotność tej many."
+"trzykrotność owej many."
 
 #: ../../THB.rst:1138
 msgid ""
@@ -3573,9 +3472,9 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, walczy z co najwyżej jednym wskazanym "
-"stworem poza twoim władaniem. (Każdy z nich zadaje drugiemu obrażenia równe "
-"swojej sile.)"
+"Kiedy ten stwór wejdzie na pole walki, walczy on z co najwyżej jednym "
+"wskazanym stworem poza twoim władaniem. (Każdy z nich zadaje drugiemu "
+"obrażenia równe swojej sile.)"
 
 #: ../../THB.rst:1156
 msgid ""
@@ -3626,8 +3525,8 @@ msgid ""
 "Each other creature you control enters the battlefield with an additional +1/"
 "+1 counter on it."
 msgstr ""
-"Każdy inny stwór pod twoim władaniem wchodzi na pole walki z dodatkowym "
-"znacznikiem +1/+1."
+"Każdy inny stwór pod twoim władaniem wchodzi na pole walki mając dodatkowy "
+"znacznik +1/+1."
 
 #: ../../THB.rst:1176
 msgid ""
@@ -3672,9 +3571,9 @@ msgid ""
 "devotion to green. (Each |mana_g| in the mana costs of permanents you "
 "control counts toward your devotion to green.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj tyle życia, ile wynosi twój "
-"kult zielonego. (Każdy symbol |mana_g| w kosztach permanentów pod twoim "
-"władaniem wlicza się do twojego kultu zielonego.)"
+"Kiedy ten stwór wejdzie na pole walki, zyskaj tyle żyć, ile wynosi twój kult "
+"zielonego. (Każdy symbol |mana_g| w kosztach permanentów pod twoim władaniem "
+"wlicza się do twojego kultu zielonego.)"
 
 #: ../../THB.rst:1188
 msgid ""
@@ -3843,9 +3742,9 @@ msgid ""
 "this creature attacks or blocks, each opponent exiles the top two cards of "
 "their library.\""
 msgstr ""
-"+1: Stwórz żeton czarno-niebieskiego stwora Koszmar 2/3 ze zdolnością \""
-"Ilekroć ten stwór zaatakuje lub zablokuje, każdy przeciwnik wygania "
-"wierzchnią kartę swojej biblioteki.\""
+"+1: Stwórz żeton czarno-niebieskiego stwora Koszmar 2/3 mający \"Ilekroć ten "
+"stwór zaatakuje lub zablokuje, każdy przeciwnik wygania wierzchnią kartę "
+"swojej biblioteki.\""
 
 #: ../../THB.rst:1237
 msgid ""
@@ -3896,7 +3795,7 @@ msgstr ""
 #: ../../THB.rst:1249
 msgid ""
 "|mana_g|\\ |mana_w|: Bronzehide Lion gains indestructible until end of turn."
-msgstr "|mana_g|\\ |mana_w|: Ten stwór zyskuje do końca tury niezniszczalność."
+msgstr "|mana_g|\\ |mana_w|: Ten stwór zyskuje niezniszczalność do końca tury."
 
 #: ../../THB.rst:1251
 msgid ""
@@ -3905,10 +3804,10 @@ msgid ""
 "Enchanted creature gains indestructible until end of turn,\" and it loses "
 "all other abilities."
 msgstr ""
-"Kiedy ten stwór umrze, przywróć go na pole walki. Jest urokiem Aury "
-"zauroczenia stwora pod twoim władaniem oraz zdolnością \"|mana_g|\\ |"
-"mana_w|: Zauroczony stwór zyskuje do końca tury niezniszczalność\" i traci "
-"wszystkie inne zdolności."
+"Kiedy ten stwór umrze, przywróć go na pole walki. Jest urokiem typu Aura "
+"zauroczenia stwora pod twoim władaniem oraz zdolnością \"|mana_g|\\ |mana_w|:"
+" Zauroczony stwór zyskuje niezniszczalność do końca tury\" i traci wszystkie "
+"inne zdolności."
 
 #: ../../THB.rst:1260
 msgid ""
@@ -3972,9 +3871,9 @@ msgid ""
 "Devourer of Memory gets +1/+1 until end of turn and can't be blocked this "
 "turn."
 msgstr ""
-"Ilekroć co najmniej jedna karta jest umieszczana w twoim cmentarzu z twojej "
-"biblioteki, ten stwór do końca tury dostaje +1/+1 i nie może być blokowany w "
-"tej turze."
+"Ilekroć co najmniej jedna karta zostanie umieszczona w twoim cmentarzu z "
+"twojej biblioteki, ten stwór do końca tury dostaje +1/+1 i nie może być "
+"blokowany w tej turze."
 
 #: ../../THB.rst:1271
 msgid ""
@@ -4036,7 +3935,7 @@ msgid ""
 "until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, umieść "
-"znacznik +1/+1 na wskazanym stworze. Ów stwór dostaje do końca tury latanie."
+"znacznik +1/+1 na wskazanym stworze. Ów stwór zyskuje latanie do końca tury."
 
 #: ../../THB.rst:1298
 msgid ""
@@ -4055,8 +3954,8 @@ msgid ""
 "Whenever you attack with three or more creatures, you may discard a card at "
 "random. If you do, draw two cards."
 msgstr ""
-"Ilekroć atakujesz co najmniej trzema stworami, możesz odrzucić losową kartę. "
-"Jeśli tak zrobisz, dobierz dwie karty."
+"Ilekroć zaatakujesz co najmniej trzema stworami, możesz odrzucić losową "
+"kartę. Jeśli tak zrobisz, dobierz dwie karty."
 
 #: ../../THB.rst:1306
 msgid ""
@@ -4150,7 +4049,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, każdy przeciwnik "
 "odrzuca kartę, następnie każdy przeciwnik, który nie odrzucił w ten sposób "
-"karty nie-lądowej, traci 3 życia."
+"nie-lądowej karty, traci po 3 życia."
 
 #: ../../THB.rst:1327
 msgid ""
@@ -4193,7 +4092,7 @@ msgid ""
 "Whenever you cast your first spell during each opponent's turn, Mischievous "
 "Chimera deals 1 damage to each opponent. Scry 1."
 msgstr ""
-"Ilekroć rzucisz swój pierwszy czar w turze każdego przeciwnika, ten stwór "
+"Ilekroć rzucisz swój pierwszy czar w turze każdego z przeciwników, ten stwór "
 "zadaje każdemu przeciwnikowi po 1 obrażeniu. Wróż 1."
 
 #: ../../THB.rst:1352
@@ -4297,8 +4196,8 @@ msgid ""
 "|mana_2|, Sacrifice a creature or enchantment: Slaughter-Priest of Mogis "
 "gains first strike until end of turn."
 msgstr ""
-"|mana_2|, poświęć stwora lub urok: Ten stwór zyskuje do końca tury pierwszy "
-"cios."
+"|mana_2|, poświęć stwora lub urok: Ten stwór zyskuje pierwszy cios do końca "
+"tury."
 
 #: ../../THB.rst:1378
 msgid ""
@@ -4357,7 +4256,7 @@ msgid ""
 "Warden of the Chained can't attack unless you control another creature with "
 "power 4 or greater."
 msgstr ""
-"Ten stwór nie może atakować dopóki nie władasz stworem o sile 4 lub większej."
+"Ten stwór nie może atakować, chyba że władasz stworem o sile 4 lub większej."
 
 #: ../../THB.rst:1398
 msgid ""
@@ -4436,8 +4335,8 @@ msgid ""
 "\""
 msgstr ""
 "Wyposażony stwór dostaje +0/+2 i ma antyklątwę oraz \"Ilekroć stwór z "
-"dotykiem śmierci blokuje lub zostaje zablokowany przez tego stwora, zniszcz "
-"owego stwora.\""
+"dotykiem śmierci zablokuje lub zostaniee zablokowany przez tego stwora, "
+"zniszcz owego stwora.\""
 
 #: ../../THB.rst:1415
 msgid ""
@@ -4522,7 +4421,7 @@ msgstr ""
 
 #: ../../THB.rst:1443
 msgid "When Thaumaturge's Familiar enters the battlefield, scry 1."
-msgstr "Kiedy ten stwór wejdzie na pole wali, wróż 1."
+msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 1."
 
 #: ../../THB.rst:1450
 msgid ""
@@ -4830,8 +4729,8 @@ msgid ""
 "Whenever a creature with a coin counter on it dies or is put into exile, "
 "return that card to the battlefield under your control."
 msgstr ""
-"Ilekroć stwór ze znacznikiem monety umrze lub zostanie umieszczony na "
-"wygnaniu, przywróć ową kartę na pole walki pod twoim władaniem."
+"Ilekroć stwór mający znacznik monety umrze lub zostanie wygnany, przywróć "
+"ową kartę na pole walki pod twoim władaniem."
 
 #: ../../THB.rst:1558
 msgid ""
@@ -4850,7 +4749,7 @@ msgid ""
 "−2: Search your library and/or graveyard for a card named Sunlit Hoplite and "
 "put it onto the battlefield. If you search your library this way, shuffle it."
 msgstr ""
-"–2: Wyszukaj w twojej bibliotece i/lub cmentarzy kartę o nazwie Sunlit "
+"–2: Wyszukaj w twojej bibliotece i/lub cmentarzu kartę o nazwie Sunlit "
 "Hoplite i umieść ją na polu walki. Jeśli przeszukasz twoją bibliotekę w ten "
 "sposób, przetasuj ją."
 
@@ -4891,8 +4790,8 @@ msgid ""
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
-"lub cmentarzy kartę o nazwie Elspeth, Undaunted Hero, ujawnić ją i umieścić "
-"w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
+"lub cmentarzy kartę o nazwie Elspeth, Undaunted Hero, ujawnij ją i umieść w "
+"twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../THB.rst:1572
 msgid ""
@@ -4990,9 +4889,8 @@ msgid ""
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
-"lub cmentarzy kartę o nazwie Ashiok, Sculptor of Fears, ujawnić ją i "
-"umieścić w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, "
-"przetasuj ją."
+"lub cmentarzu kartę o nazwie Ashiok, Sculptor of Fears, ujawnij ją i umieść "
+"w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../THB.rst:1604
 msgid ""
