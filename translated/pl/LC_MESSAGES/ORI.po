@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-03-01 22:18+0000\n"
+"PO-Revision-Date: 2020-03-02 23:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ori/"
 "pl/>\n"
@@ -1013,7 +1013,7 @@ msgstr ""
 
 #: ../../ORI.rst:333
 msgid "Attacking creatures get -2/-0 until end of turn."
-msgstr "Atakujące stwory dostają -2/-0 do końca tury."
+msgstr "Atakujące stwory dostają do końca tury -2/-0."
 
 #: ../../ORI.rst:340
 msgid ""
@@ -1527,7 +1527,7 @@ msgid ""
 "Destroy target non-Zombie creature. It can't be regenerated. Return up to "
 "one target Zombie card from your graveyard to your hand."
 msgstr ""
-"Zniszcz wskazanego stwora nie będącego Zombi. Nie może być zregenerowany. "
+"Zniszcz wskazanego stwora bez typu Zombi. Nie może być zregenerowany. "
 "Przywróć co najwyżej jedną wskazaną kartę Zombi z twojego cmentarza do "
 "twojej ręki."
 
@@ -3326,7 +3326,7 @@ msgid ""
 "you draw cards equal to its power and you gain life equal to its toughness."
 msgstr ""
 "Wróż 5, następnie ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
-"stwora, dobierz tyle kart, ile ma siły oraz dostajesz tyle życia, ile ma "
+"stwora, dobierz tyle kart, ile ma siły oraz zyskaj tyle żyć, ile ma "
 "wytrzymałości."
 
 #: ../../ORI.rst:1058
