@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-29 22:32+0000\n"
+"PO-Revision-Date: 2020-03-02 23:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c13/"
 "pl/>\n"
@@ -4445,7 +4445,7 @@ msgid ""
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, następnie ujawnij ją, umieść w twojej ręce i przetasuj "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../C13.rst:1458
@@ -4522,9 +4522,8 @@ msgstr ""
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1473
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_u|."
 
 #: ../../C13.rst:1478
 msgid ""
@@ -5462,9 +5461,8 @@ msgstr ""
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1815
-#, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w|\\ |mana_b|."
 
 #: ../../C13.rst:1822
 msgid ""

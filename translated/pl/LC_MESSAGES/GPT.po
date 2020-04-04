@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-27 23:16+0000\n"
+"PO-Revision-Date: 2020-03-02 23:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gpt/"
 "pl/>\n"
@@ -37,6 +37,7 @@ msgstr ""
 #: ../../GPT.rst:307 ../../GPT.rst:571 ../../GPT.rst:687
 msgid "Haunt (When this creature dies, exile it haunting target creature.)"
 msgstr ""
+"Nawiedza (Kiedy ten stwór umrze, wygnaj go nawiedzając wskazanego stwora.)"
 
 #: ../../GPT.rst:11
 msgid ""
@@ -63,6 +64,8 @@ msgid ""
 "When Belfry Spirit enters the battlefield or the creature it haunts dies, "
 "create two 1/1 black Bat creature tokens with flying."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole walki lub umrze nawiedzany przezeń stwór, "
+"stwórz dwa żetony czarnego stwora Nietoperz 1/1 z lataniem."
 
 #: ../../GPT.rst:28
 msgid ""
@@ -926,6 +929,8 @@ msgid ""
 "When Skeletal Vampire enters the battlefield, create two 1/1 black Bat "
 "creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony czarnego stwora "
+"Nietoperz 1/1 z lataniem."
 
 #: ../../GPT.rst:353
 msgid ""
@@ -1556,13 +1561,12 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:591
-#, fuzzy
 msgid ""
 "Whenever a player activates an ability that isn't a mana ability, Burning-"
 "Tree Shaman deals 1 damage to that player."
 msgstr ""
-"Ilekroć gracz rzuci nie-stworowy czar, ten stwór zadaje owemu graczowi 6 "
-"obrażeń."
+"Ilekroć gracz rzuci nie-stworowy czar, niniejszy stwór zadaje owemu graczowi "
+"6 obrażeń."
 
 #: ../../GPT.rst:596
 msgid ""
@@ -1856,7 +1860,7 @@ msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../GPT.rst:693
 msgid "Creatures you don't control get -1/-1 until end of turn."
-msgstr ""
+msgstr "Stwory poza twoim władaniem dostają do końca tury -1/-1."
 
 #: ../../GPT.rst:702
 msgid ""
@@ -2241,9 +2245,8 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:849
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_g|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Weź |mana_r|\\ |mana_g|."
 
 #: ../../GPT.rst:856
 msgid ""
@@ -2318,9 +2321,8 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:875
-#, fuzzy
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Weź |mana_w|\\ |mana_b|."
 
 #: ../../GPT.rst:886
 msgid ""
@@ -2449,9 +2451,8 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:921
-#, fuzzy
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w|\\ |mana_b|."
 
 #: ../../GPT.rst:928
 msgid ""

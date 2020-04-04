@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-12 21:37+0100\n"
-"PO-Revision-Date: 2020-02-27 23:17+0000\n"
+"PO-Revision-Date: 2020-03-02 23:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gnt/"
 "pl/>\n"
@@ -351,7 +351,7 @@ msgstr ""
 
 #: ../../GNT.rst:117
 msgid "Attacking creatures get -2/-0 until end of turn."
-msgstr "Atakujące stwory dostają -2/-0 do końca tury."
+msgstr "Atakujące stwory dostają do końca tury -2/-0."
 
 #: ../../GNT.rst:124
 msgid ""
@@ -444,7 +444,7 @@ msgid ""
 "Destroy target non-Zombie creature. It can't be regenerated. Return up to "
 "one target Zombie card from your graveyard to your hand."
 msgstr ""
-"Zniszcz wskazanego stwora nie będącego Zombi. Nie może być zregenerowany. "
+"Zniszcz wskazanego stwora bez typu Zombi. Nie może być zregenerowany. "
 "Przywróć co najwyżej jedną wskazaną kartę Zombi z twojego cmentarza do "
 "twojej ręki."
 
@@ -553,7 +553,7 @@ msgid ""
 "Whenever Zulaport Cutthroat or another creature you control dies, each "
 "opponent loses 1 life and you gain 1 life."
 msgstr ""
-"Kiedy ten lub inny stwór pod twoim władaniem umrze, każdy przeciwnik traci "
+"Ilekroć umrze ten lub inny stwór pod twoim władaniem, każdy przeciwnik traci "
 "po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../GNT.rst:192
@@ -580,8 +580,8 @@ msgid ""
 "until end of turn. Untap that creature. It gains haste until end of turn. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_3|\\ |mana_r|: Zyskaj władanie nad wskazanym stworem do końca tury. "
-"Odkręć owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj jako obrzęd."
+"|mana_3|\\ |mana_r|: Zyskaj do końca tury władanie nad wskazanym stworem. "
+"Odkręć go. Zyskuje on pośpiech do końca tury. Aktywuj jako obrzęd."
 
 #: ../../GNT.rst:200
 msgid ""
@@ -712,7 +712,7 @@ msgid ""
 "you draw cards equal to its power and you gain life equal to its toughness."
 msgstr ""
 "Wróż 5, następnie ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
-"stwora, dobierz tyle kart, ile ma siły oraz dostajesz tyle życia, ile ma "
+"stwora, dobierz tyle kart, ile ma siły oraz zyskaj tyle żyć, ile ma "
 "wytrzymałości."
 
 #: ../../GNT.rst:242
@@ -828,7 +828,7 @@ msgid ""
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, następnie ujawnij ją, umieść w twojej ręce i przetasuj "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../GNT.rst:280
@@ -848,7 +848,7 @@ msgid ""
 "and gains trample until end of turn."
 msgstr ""
 "Ilekroć rzucisz czar stwora, wskazany stwór pod twoim władaniem dostaje do "
-"końca tury +2/+2 i tratowanie."
+"końca tury +2/+2 oraz tratowanie."
 
 #: ../../GNT.rst:284
 msgid ""
