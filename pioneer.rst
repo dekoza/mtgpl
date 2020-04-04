@@ -49,33 +49,3 @@ Edycje bazowe
 * :mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|
 * :mtgexp:`M15` :doc:`Magic 2015<M15>` |p100|
 * :mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|
-
-
-.. toctree::
-   :hidden:
-
-   M19
-   DOM
-   RIX
-   XLN
-   MH1
-   HOU
-   AKH
-   AER
-   KLD
-   EMN
-   SOI
-   OGW
-   BFZ
-   ORI
-   DTK
-   FRF
-   KTK
-   M15
-   JOU
-   BNG
-   THS
-   M14
-   DGM
-   GTC
-   RTR
