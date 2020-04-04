@@ -26,8 +26,8 @@ Nadchodzące
 ------------
 
 .. * :mtgexp:`XZNR` Zendikar Rising (2020-10)
-.. * :mtgexp:`M21` Core Set 2021 (2020-07)
-* :mtgexp:`XIKR` Ikoria: Lair of Behemots (2020-04)
+* :mtgexp:`M21` Core Set 2021 (2020-07)
+* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` (2020-04-17)
 
 
 Standard

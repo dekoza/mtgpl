@@ -1,0 +1,1132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2020, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2020.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-05 00:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../IKO.rst:5
+msgid ":mtgexp:`IKO` Ikoria: Lair of Behemoths"
+msgstr ""
+
+#: ../../IKO.rst:10
+msgid ":mtgtip:`Mysterious Egg<https://img.scryfall.com/cards/border_crop/front/c/d/cdfac3c3-7f38-49d6-bd88-dc0f5001116f.jpg?1585928467|https://scryfall.com/card/iko/3/mysterious-egg?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:9
+msgid "Whenever this creature mutates, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../IKO.rst:14
+msgid ":mtgtip:`Drannith Magistrate<https://img.scryfall.com/cards/border_crop/front/9/8/98b0a4a8-9319-451b-9b79-b0bca7a41e91.jpg?1585922879|https://scryfall.com/card/iko/11/drannith-magistrate?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:13
+msgid "Your opponents can't cast spells from anywhere other than their hands."
+msgstr ""
+
+#: ../../IKO.rst:20
+msgid ":mtgtip:`Flourishing Fox<https://img.scryfall.com/cards/border_crop/front/7/8/78b81339-746d-4f71-9943-01c0f6a5683a.jpg?1585929439|https://scryfall.com/card/iko/13/flourishing-fox?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:17
+msgid "Whenever you cycle another card, put a +1/+1 counter on Flourishing Fox."
+msgstr ""
+
+#: ../../IKO.rst:19
+#: ../../IKO.rst:75
+#: ../../IKO.rst:233
+#: ../../IKO.rst:249
+msgid "Cycling |mana_1| (|mana_1|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../IKO.rst:26
+msgid ":mtgtip:`Huntmaster Liger<https://img.scryfall.com/cards/border_crop/front/0/5/058d6a7d-12b0-4d82-a5bd-91fa44bbc5e1.jpg?1585830264|https://scryfall.com/card/iko/16/huntmaster-liger?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:23
+msgid "Mutate |mana_2|\\ |mana_w| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:25
+msgid "Whenever this creature mutates, other creatures you control get +X/+X until end of turn, where X is the number of times this creature has mutated."
+msgstr ""
+
+#: ../../IKO.rst:32
+msgid ":mtgtip:`Luminous Broodmoth<https://img.scryfall.com/cards/border_crop/front/b/b/bb65df55-d6a6-4a57-a903-e5eb17637982.jpg?1585989160|https://scryfall.com/card/iko/21/luminous-broodmoth?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:29
+#: ../../IKO.rst:49
+#: ../../IKO.rst:81
+#: ../../IKO.rst:173
+#: ../../IKO.rst:239
+msgid "Flying"
+msgstr ""
+
+#: ../../IKO.rst:31
+msgid "Whenever a creature you control without flying dies, return it to the battlefield under its owner's control with a flying counter on it."
+msgstr ""
+
+#: ../../IKO.rst:36
+msgid ":mtgtip:`Mythos of Snapdax<https://img.scryfall.com/cards/border_crop/front/2/7/2712a1a3-dd28-44c8-a661-5bcf68d3acaa.jpg?1585927329|https://scryfall.com/card/iko/24/mythos-of-snapdax?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:35
+msgid "Each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest. If |mana_b|\\ |mana_r| was spent to cast this spell, you choose the permanents for each player instead."
+msgstr ""
+
+#: ../../IKO.rst:42
+msgid ":mtgtip:`Pacifism<https://img.scryfall.com/cards/border_crop/front/4/7/47adc9fc-d620-4cb7-a03c-8d9578992249.jpg?1585829944|https://scryfall.com/card/iko/25/pacifism?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:39
+#: ../../IKO.rst:311
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../IKO.rst:41
+msgid "Enchanted creature can't attack or block."
+msgstr ""
+
+#: ../../IKO.rst:44
+msgid ":mtgtip:`Savai Sabertooth<https://img.scryfall.com/cards/border_crop/front/d/4/d46702b0-7e10-462a-9aac-7564efe91804.jpg?1585921270|https://scryfall.com/card/iko/29/savai-sabertooth?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:52
+msgid ":mtgtip:`Stormwild Capridor<https://img.scryfall.com/cards/border_crop/front/2/a/2afded81-2fc1-4285-bf48-d25f72e72138.jpg?1585955095|https://scryfall.com/card/iko/34/stormwild-capridor?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:51
+msgid "If noncombat damage would be dealt to Stormwild Capridor, prevent that damage. Put a +1/+1 counter on Stormwild Capridor for each 1 damage prevented this way."
+msgstr ""
+
+#: ../../IKO.rst:58
+msgid ":mtgtip:`Valiant Rescuer<https://img.scryfall.com/cards/border_crop/front/a/2/a2b13ff6-67e9-4760-aef4-a8548ea44344.jpg?1585927343|https://scryfall.com/card/iko/36/valiant-rescuer?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:55
+msgid "Whenever you cycle another card for the first time each turn, create a 1/1 white Human Soldier creature token."
+msgstr ""
+
+#: ../../IKO.rst:57
+#: ../../IKO.rst:63
+#: ../../IKO.rst:93
+#: ../../IKO.rst:101
+#: ../../IKO.rst:125
+#: ../../IKO.rst:267
+#: ../../IKO.rst:277
+#: ../../IKO.rst:297
+#: ../../IKO.rst:355
+#: ../../IKO.rst:367
+#: ../../IKO.rst:401
+#: ../../IKO.rst:587
+#: ../../IKO.rst:593
+#: ../../IKO.rst:599
+#: ../../IKO.rst:605
+#: ../../IKO.rst:611
+msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../IKO.rst:64
+msgid ":mtgtip:`\"Knock Blocked\"<https://img.scryfall.com/cards/border_crop/front/a/a/aa7acbfa-ce3b-424d-886d-6865bc5fc085.jpg?1585920080|https://scryfall.com/card/iko/38/knock-blocked?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:61
+msgid "Target creature gets +2/+2 until end of turn. If it's blocking, instead put two +1/+1 counters on it."
+msgstr ""
+
+#: ../../IKO.rst:70
+msgid ":mtgtip:`Archipelagore<https://img.scryfall.com/cards/border_crop/front/f/2/f24b1030-64d5-4c94-a04c-1d9520bfddab.jpg?1585918192|https://scryfall.com/card/iko/41/archipelagore?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:67
+msgid "Mutate |mana_5|\\ |mana_u| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:69
+msgid "Whenever this creature mutates, tap up to X target creatures, where X is the number of times this creature has mutated. Those creatures don't untap during their controller's next untap step."
+msgstr ""
+
+#: ../../IKO.rst:76
+msgid ":mtgtip:`Boon of the Wish-Giver<https://img.scryfall.com/cards/border_crop/front/0/e/0e790851-f0f7-4f1a-80e6-94be649499b6.jpg?1585924354|https://scryfall.com/card/iko/43/boon-of-the-wish-giver?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:73
+msgid "Draw four cards."
+msgstr ""
+
+#: ../../IKO.rst:84
+msgid ":mtgtip:`Dreamtail Heron<https://img.scryfall.com/cards/border_crop/front/c/a/ca777d40-736a-4cd6-85c4-5afd52f2fadd.jpg?1585924264|https://scryfall.com/card/iko/47/dreamtail-heron?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:79
+#: ../../IKO.rst:115
+msgid "Mutate |mana_3|\\ |mana_u| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:83
+msgid "Whenever this creature mutates, draw a card."
+msgstr ""
+
+#: ../../IKO.rst:88
+msgid ":mtgtip:`Essence Scatter<https://img.scryfall.com/cards/border_crop/front/5/f/5f79c8a0-291e-4e13-b765-4cf8c726cf30.jpg?1585833486|https://scryfall.com/card/iko/49/essence-scatter?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:87
+msgid "Counter target creature spell."
+msgstr ""
+
+#: ../../IKO.rst:94
+msgid ":mtgtip:`Neutralize<https://img.scryfall.com/cards/border_crop/front/0/4/0430da3c-9460-4b62-ae28-2e7e6f4d06a4.jpg?1585920468|https://scryfall.com/card/iko/59/neutralize?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:91
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../IKO.rst:102
+msgid ":mtgtip:`\"What's Kraken\"<https://img.scryfall.com/cards/border_crop/front/c/e/ce8965f2-756a-4461-a643-db024a11c2de.jpg?1586003022|https://scryfall.com/card/iko/61/whats-kraken?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:97
+msgid "Whenever you draw a card, put a foreshadow counter on \"What's Kraken\"."
+msgstr ""
+
+#: ../../IKO.rst:99
+msgid "Remove eight foreshadow counters from \"What's Kraken\": Create an 8/8 blue Kraken creature token."
+msgstr ""
+
+#: ../../IKO.rst:106
+msgid ":mtgtip:`Phase Dolphin<https://img.scryfall.com/cards/border_crop/front/8/8/88fb4042-e9c1-4b0f-b1f6-4180b0d79663.jpg?1585920738|https://scryfall.com/card/iko/62/phase-dolphin?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:105
+msgid "Whenever Phase Dolphin attacks, another target attacking creature can't be blocked this turn."
+msgstr ""
+
+#: ../../IKO.rst:112
+msgid ":mtgtip:`Pollywog Symbiote<https://img.scryfall.com/cards/border_crop/front/7/7/77adf375-e7d7-4ebd-8c86-ad7e822a5483.jpg?1585835649|https://scryfall.com/card/iko/63/pollywog-symbiote?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:109
+msgid "Each creature spell you cast costs |mana_1| less to cast if it has mutate."
+msgstr ""
+
+#: ../../IKO.rst:111
+msgid "Whenever you cast a creature spell, if it has mutate, draw a card, then discard a card."
+msgstr ""
+
+#: ../../IKO.rst:120
+msgid ":mtgtip:`Pouncing Shoreshark<https://img.scryfall.com/cards/border_crop/front/c/8/c859b339-b55b-41fe-948c-27502e3b3ea8.jpg?1585958934|https://scryfall.com/card/iko/64/pouncing-shoreshark?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:117
+#: ../../IKO.rst:137
+#: ../../IKO.rst:171
+#: ../../IKO.rst:555
+msgid "Flash"
+msgstr ""
+
+#: ../../IKO.rst:119
+msgid "When this creature mutates, you may return target creature an opponent controls to its owner's hand."
+msgstr ""
+
+#: ../../IKO.rst:126
+msgid ":mtgtip:`Reconnaissance Mission<https://img.scryfall.com/cards/border_crop/front/a/e/ae9f7efa-d125-4f83-825e-172ea099a62a.jpg?1585921195|https://scryfall.com/card/iko/65/reconnaissance-mission?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:123
+msgid "Whenever a creature you control deals combat damage to a player, you may draw a card."
+msgstr ""
+
+#: ../../IKO.rst:134
+msgid ":mtgtip:`Shark Typhoon<https://img.scryfall.com/cards/border_crop/front/1/d/1da4d4f3-b3cb-4b61-81b8-06ae441c41bf.jpg?1585954666|https://scryfall.com/card/iko/67/shark-typhoon?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:129
+msgid "Whenever you cast a noncreature spell, create an X/X blue Shark creature token with flying, where X is that spell's converted mana cost."
+msgstr ""
+
+#: ../../IKO.rst:131
+msgid "Cycling |mana_x|\\ |mana_1|\\ |mana_u| (|mana_x|\\ |mana_1|\\ |mana_u|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../IKO.rst:133
+msgid "When you cycle Shark Typhoon, create an X/X blue Shark creature token with flying."
+msgstr ""
+
+#: ../../IKO.rst:140
+msgid ":mtgtip:`Voracious Greatshark<https://img.scryfall.com/cards/border_crop/front/1/4/1400155f-8911-45fd-aab2-998c8a28292c.jpg?1585929036|https://scryfall.com/card/iko/70/voracious-greatshark?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:139
+msgid "When Voracious Greatshark enters the battlefield, counter target artifact or creature spell."
+msgstr ""
+
+#: ../../IKO.rst:144
+msgid ":mtgtip:`Wingfold Pteron<https://img.scryfall.com/cards/border_crop/front/1/1/11e21a5f-fae7-4488-9463-f0af6e4c5233.jpg?1585921994|https://scryfall.com/card/iko/71/wingfold-pteron?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:143
+msgid "Wingfold Pteron enters the battlefield with your choice of a flying counter or a hexproof counter on it. (A creature with hexproof can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../IKO.rst:148
+msgid ":mtgtip:`Blood Curdle<https://img.scryfall.com/cards/border_crop/front/4/1/4184c851-1419-476c-ba9c-9f0cb1137114.jpg?1585927236|https://scryfall.com/card/iko/75/blood-curdle?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:147
+msgid "Destroy target creature. Put a menace counter on a creature you control. (It can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../IKO.rst:152
+msgid ":mtgtip:`Call of the Death-Dweller<https://img.scryfall.com/cards/border_crop/front/3/7/37e34017-0aeb-4a93-9edf-596bf3597a0e.jpg?1585927192|https://scryfall.com/card/iko/78/call-of-the-death-dweller?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:151
+msgid "Return up to two target creature cards with total converted mana cost 3 or less from your graveyard to the battlefield. Put a deathtouch counter on either of them. Then put a menace counter on either of them."
+msgstr ""
+
+#: ../../IKO.rst:160
+msgid ":mtgtip:`Cavern Whisperer<https://img.scryfall.com/cards/border_crop/front/6/4/64ae7651-4a5c-41f3-b528-41b9b0f2e5d8.jpg?1585924365|https://scryfall.com/card/iko/79/cavern-whisperer?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:155
+msgid "Mutate |mana_3|\\ |mana_b| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:157
+msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../IKO.rst:159
+msgid "Whenever this creature mutates, each opponent discards a card."
+msgstr ""
+
+#: ../../IKO.rst:166
+msgid ":mtgtip:`Chittering Harvester<https://img.scryfall.com/cards/border_crop/front/d/5/d51a0700-d4d3-4b7e-bdb5-6cd913c948d9.jpg?1585924175|https://scryfall.com/card/iko/80/chittering-harvester?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:163
+msgid "Mutate |mana_4|\\ |mana_b| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:165
+msgid "Whenever this creature mutates, each opponent sacrifices a creature."
+msgstr ""
+
+#: ../../IKO.rst:176
+msgid ":mtgtip:`Dirge Bat<https://img.scryfall.com/cards/border_crop/front/5/9/59677c76-8148-4b6f-95b0-0e3ccf137a3f.jpg?1585927438|https://scryfall.com/card/iko/84/dirge-bat?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:169
+msgid "Mutate |mana_4|\\ |mana_b|\\ |mana_b| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:175
+msgid "Whenever this creature mutates, destroy target creature or planeswalker an opponent controls."
+msgstr ""
+
+#: ../../IKO.rst:180
+msgid ":mtgtip:`\"Odd the Evens\"<https://img.scryfall.com/cards/border_crop/front/8/7/8725a869-462b-4381-880a-b4bcc63a655b.jpg?1585926259|https://scryfall.com/card/iko/88/odd-the-evens?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:179
+msgid "Choose odd or even. Exile each creature with a converted mana cost of the chosen parity. (Zero is even.)"
+msgstr ""
+
+#: ../../IKO.rst:182
+msgid ":mtgtip:`Gloom Pangolin<https://img.scryfall.com/cards/border_crop/front/3/f/3f135dd7-2a4f-4c83-9a90-76bcab3cc33d.jpg?1585830275|https://scryfall.com/card/iko/89/gloom-pangolin?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:188
+msgid ":mtgtip:`Grimdancer<https://img.scryfall.com/cards/border_crop/front/8/1/819257c8-9806-48bd-ba49-e117ca31de54.jpg?1585834329|https://scryfall.com/card/iko/90/grimdancer?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:187
+msgid "Grimdancer enters the battlefield with your choice of two different counters on it from among menace, deathtouch, and lifelink."
+msgstr ""
+
+#: ../../IKO.rst:196
+msgid ":mtgtip:`Insatiable Hemophage<https://img.scryfall.com/cards/border_crop/front/7/0/70419590-2e0d-4232-b596-a5359b284647.jpg?1585924411|https://scryfall.com/card/iko/93/insatiable-hemophage?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:191
+msgid "Mutate |mana_2|\\ |mana_b| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:193
+#: ../../IKO.rst:207
+#: ../../IKO.rst:429
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../IKO.rst:195
+msgid "Whenever this creature mutates, each opponents loses X life and you gain X life, where X is the number of times this creature has mutated."
+msgstr ""
+
+#: ../../IKO.rst:200
+msgid ":mtgtip:`Mythos of Nethroi<https://img.scryfall.com/cards/border_crop/front/6/a/6abc24e1-e721-471a-9efd-547f320675b0.jpg?1585920606|https://scryfall.com/card/iko/97/mythos-of-nethroi?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:199
+msgid "Destroy target nonland permanent if it's a creature or if |mana_g|\\ |mana_w| was spent to cast this spell."
+msgstr ""
+
+#: ../../IKO.rst:204
+msgid ":mtgtip:`\"Learning Social Distancing\"<https://img.scryfall.com/cards/border_crop/front/c/9/c9da02a1-7b39-4a0e-8466-6512a02f3e3b.jpg?1585919101|https://scryfall.com/card/iko/101/learning-social-distancing?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:203
+msgid "Return target creature card from your graveyard to the battlefield with a lifelink counter on it."
+msgstr ""
+
+#: ../../IKO.rst:212
+msgid ":mtgtip:`Void Beckoner<https://img.scryfall.com/cards/border_crop/front/a/1/a1523cda-c47d-4419-a5d3-fd6ed9867c56.jpg?1585834058|https://scryfall.com/card/iko/104/void-beckoner?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:209
+msgid "Cycling |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../IKO.rst:211
+msgid "When you cycle Void Beckoner, put a deathtouch counter on target creature you control."
+msgstr ""
+
+#: ../../IKO.rst:216
+msgid ":mtgtip:`Zagoth Mamba<https://img.scryfall.com/cards/border_crop/front/c/e/ce945f7e-ded9-4819-9313-d50d3aad40fa.jpg?1585833788|https://scryfall.com/card/iko/106/zagoth-mamba?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:215
+msgid "Whenever this creature mutates, target creature an opponent controls gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../IKO.rst:220
+msgid ":mtgtip:`\"Round 2: Fight!\"<https://img.scryfall.com/cards/border_crop/front/c/a/ca10e2b8-a317-4c98-a866-43bf274e82cb.jpg?1585918746|https://scryfall.com/card/iko/111/round-2:-fight!?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:219
+msgid "Target creature fights another target creature. (Each creature deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../IKO.rst:228
+msgid ":mtgtip:`Cloudpiercer<https://img.scryfall.com/cards/border_crop/front/3/e/3ec5f005-d8fb-48b8-8ac5-74445cc83273.jpg?1585946426|https://scryfall.com/card/iko/112/cloudpiercer?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:223
+#: ../../IKO.rst:237
+msgid "Mutate |mana_3|\\ |mana_r| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:225
+#: ../../IKO.rst:339
+msgid "Reach"
+msgstr ""
+
+#: ../../IKO.rst:227
+msgid "Whenever this creature mutates, you may discard a card. If you do, draw a card."
+msgstr ""
+
+#: ../../IKO.rst:234
+msgid ":mtgtip:`Drannith Stinger<https://img.scryfall.com/cards/border_crop/front/6/1/612ee4be-e7a2-423c-a37c-7c6ca97f630e.jpg?1585834476|https://scryfall.com/card/iko/113/drannith-stinger?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:231
+msgid "Whenever you cycle another card, Drannith Stinger deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../IKO.rst:242
+msgid ":mtgtip:`Everquill Phoenix<https://img.scryfall.com/cards/border_crop/front/3/9/3953157f-2deb-4ab7-b4b3-592ebb7c7a9c.jpg?1585989459|https://scryfall.com/card/iko/114/everquill-phoenix?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:241
+msgid "Whenever this creature mutates, create a red artifact token named Feather with \"|mana_1|, Sacrifice Feather: Return target Phoenix card from your graveyard to the battlefield tapped.\""
+msgstr ""
+
+#: ../../IKO.rst:250
+msgid ":mtgtip:`Footfall Crater<https://img.scryfall.com/cards/border_crop/front/f/1/f1b75aac-54e3-4181-bac5-5a142757ec05.jpg?1585961038|https://scryfall.com/card/iko/118/footfall-crater?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:245
+msgid "Enchant land"
+msgstr ""
+
+#: ../../IKO.rst:247
+msgid "Enchanted land has \"|tap|: Target creature gains trample and haste until end of turn.\""
+msgstr ""
+
+#: ../../IKO.rst:258
+msgid ":mtgtip:`Lukka, Coppercoat Outcast<https://img.scryfall.com/cards/border_crop/front/5/7/5798fdf0-d178-43d9-b821-8f3f654654b4.jpg?1585830275|https://scryfall.com/card/iko/125/lukka-coppercoat-outcast?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:253
+msgid "+1: Exile the top three cards of your library. Creature cards exiled this way gain \"You may cast this card from exile as long as you control a Lukka planeswalker.\""
+msgstr ""
+
+#: ../../IKO.rst:255
+msgid "−2: Exile target creature you control, then reveal cards from the top of your library until you reveal a creature card with higher converted mana cost. Put that card onto the battlefield and the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../IKO.rst:257
+msgid "−7: Each creature you control deals damage equal to its power to each opponent."
+msgstr ""
+
+#: ../../IKO.rst:262
+msgid ":mtgtip:`Mythos of Vadrok<https://img.scryfall.com/cards/border_crop/front/2/b/2bbe99a7-3b58-4f23-bf86-e1e35b0bec2e.jpg?1585927322|https://scryfall.com/card/iko/127/mythos-of-vadrok?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:261
+msgid "Mythos of Vadrok deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers. If |mana_w|\\ |mana_u| was spent to cast this spell, until your next turn, those permanents can't attack or block and their activated abilities can't be activated."
+msgstr ""
+
+#: ../../IKO.rst:268
+msgid ":mtgtip:`\"Recycling Monitor\"<https://img.scryfall.com/cards/border_crop/front/c/c/cc2fd581-5cf8-4154-90dd-922afddcd556.jpg?1586003169|https://scryfall.com/card/iko/133/recycling-monitor?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:265
+msgid "When \"Recycling Monitor\" enters the battlefield, exile target card with a cycling ability from your graveyard. Until the end of your next turn, you may play that card."
+msgstr ""
+
+#: ../../IKO.rst:278
+msgid ":mtgtip:`Shredded Sails<https://img.scryfall.com/cards/border_crop/front/8/b/8b10219a-aa72-4431-9a6a-984109a605c8.jpg?1585916424|https://scryfall.com/card/iko/136/shredded-sails?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:271
+msgid "Choose one —"
+msgstr ""
+
+#: ../../IKO.rst:273
+msgid "Destroy target artifact."
+msgstr ""
+
+#: ../../IKO.rst:275
+msgid "Shredded Sails deals 4 damage to target creature with flying."
+msgstr ""
+
+#: ../../IKO.rst:286
+msgid ":mtgtip:`Yidaro, Wandering Monster<https://img.scryfall.com/cards/border_crop/front/b/5/b540c7c6-5b9e-4606-ac84-e583a62a3647.jpg?1585989370|https://scryfall.com/card/iko/141/yidaro-wandering-monster?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:281
+msgid "Trample, haste"
+msgstr ""
+
+#: ../../IKO.rst:283
+msgid "Cycling |mana_1|\\ |mana_r|"
+msgstr ""
+
+#: ../../IKO.rst:285
+msgid "When you cycle Yidaro, Wandering Monster, shuffle it into your library from your graveyard. If you've cycled a card named Yidaro, Wandering Monster four or more times this game, put it onto the battlefield from your graveyard instead. (Do this before you draw.)"
+msgstr ""
+
+#: ../../IKO.rst:292
+msgid ":mtgtip:`Auspicious Starrix<https://img.scryfall.com/cards/border_crop/front/a/3/a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1585917983|https://scryfall.com/card/iko/144/auspicious-starrix?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:289
+msgid "Mutate |mana_5|\\ |mana_g| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:291
+msgid "Whenever this creature mutates, exile cards from the top of your library until you exile X permanent cards, where X is the number of times this creature has mutated. Put those permanent cards onto the battlefield."
+msgstr ""
+
+#: ../../IKO.rst:298
+msgid ":mtgtip:`\"Breach the Barrier\"<https://img.scryfall.com/cards/border_crop/front/8/2/822f8403-77a7-4e75-88af-60d604632f5d.jpg?1585928398|https://scryfall.com/card/iko/145/breach-the-barrier?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:295
+msgid "Exile up to three target enchantments."
+msgstr ""
+
+#: ../../IKO.rst:302
+msgid ":mtgtip:`Bristling Boar<https://img.scryfall.com/cards/border_crop/front/c/3/c3c3243c-e9af-4b7d-8296-f7714436e571.jpg?1585831477|https://scryfall.com/card/iko/146/bristling-boar?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:301
+msgid "Bristling Boar can't be blocked by more than one creature."
+msgstr ""
+
+#: ../../IKO.rst:308
+msgid ":mtgtip:`\"Trump Shard\"<https://img.scryfall.com/cards/border_crop/front/4/b/4bf147a6-2282-4120-9cbd-d0309fc9b02b.jpg?1585927803|https://scryfall.com/card/iko/147/trump-shard?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:305
+msgid "As an additional cost to cast this spell, reveal a creature card from your hand."
+msgstr ""
+
+#: ../../IKO.rst:307
+msgid "\"Trump Shard\" deals damage equal to the revealed card's power to target creature or planeswalker."
+msgstr ""
+
+#: ../../IKO.rst:316
+msgid ":mtgtip:`Colossification<https://img.scryfall.com/cards/border_crop/front/7/b/7b6e6f2a-5015-44c6-aa8d-85188494d1a6.jpg?1585927210|https://scryfall.com/card/iko/148/colossification?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:313
+msgid "When Colossification enters the battlefield, tap enchanted creature."
+msgstr ""
+
+#: ../../IKO.rst:315
+msgid "Enchanted creature gets +20/+20."
+msgstr ""
+
+#: ../../IKO.rst:322
+msgid ":mtgtip:`Fertilid<https://img.scryfall.com/cards/border_crop/front/9/c/9c6b39b9-0615-4899-8de2-b579d5b12f1c.jpg?1585924160|https://scryfall.com/card/iko/152/fertilid?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:319
+msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
+msgstr ""
+
+#: ../../IKO.rst:321
+msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
+msgstr ""
+
+#: ../../IKO.rst:326
+msgid ":mtgtip:`Fully Grown<https://img.scryfall.com/cards/border_crop/front/0/b/0b683d3f-025c-4b8d-89d7-3513488649d5.jpg?1585831007|https://scryfall.com/card/iko/154/fully-grown?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:325
+msgid "Target creature gets +3/+3 until end of turn. Put a trample counter on it."
+msgstr ""
+
+#: ../../IKO.rst:334
+msgid ":mtgtip:`Gemrazer<https://img.scryfall.com/cards/border_crop/front/0/0/0095245c-a30e-4e2a-88c9-632c678e9f03.jpg?1585989483|https://scryfall.com/card/iko/155/gemrazer?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:329
+msgid "Mutate |mana_1|\\ |mana_g|\\ |mana_g| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:331
+msgid "Reach, trample"
+msgstr ""
+
+#: ../../IKO.rst:333
+msgid "Whenever this creature mutates, destroy target artifact or enchantment an opponent controls."
+msgstr ""
+
+#: ../../IKO.rst:342
+msgid ":mtgtip:`Glowstone Recluse<https://img.scryfall.com/cards/border_crop/front/0/6/06a9698d-400c-4c31-82cd-28d0897fe28c.jpg?1585919247|https://scryfall.com/card/iko/156/glowstone-recluse?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:337
+msgid "Mutate |mana_3|\\ |mana_g| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:341
+msgid "Whenever this creature mutates, put two +1/+1 counters on it."
+msgstr ""
+
+#: ../../IKO.rst:350
+msgid ":mtgtip:`Kogla, the Titan Ape<https://img.scryfall.com/cards/border_crop/front/3/c/3c35ca79-eb72-427a-a8ed-404b2214389a.jpg?1585957890|https://scryfall.com/card/iko/162/kogla-the-titan-ape?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:345
+msgid "When Kogla, the Titan Ape enters the battlefield, it fights up to one target creature you don't control."
+msgstr ""
+
+#: ../../IKO.rst:347
+msgid "Whenever Kogla attacks, destroy target artifact or enchantment defending player control."
+msgstr ""
+
+#: ../../IKO.rst:349
+msgid "|mana_1|\\ |mana_g|: Return target Human you control to its owner's hand. Kogla gains indestructible until end of turn."
+msgstr ""
+
+#: ../../IKO.rst:356
+msgid ":mtgtip:`Migration Path<https://img.scryfall.com/cards/border_crop/front/d/3/d345ca63-16a3-4988-93f5-d0e00e8d6ab0.jpg?1585927125|https://scryfall.com/card/iko/164/migration-path?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:353
+msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../IKO.rst:362
+msgid ":mtgtip:`\"Spring Cleaner\"<https://img.scryfall.com/cards/border_crop/front/6/a/6a2a287b-b83f-444f-84f7-e388beb616c2.jpg?1585989065|https://scryfall.com/card/iko/165/spring-cleaner?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:359
+msgid "Mutate |mana_2|\\ |mana_g| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:361
+msgid "Whenever this creature mutates, search your library for a basic land, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../IKO.rst:368
+msgid ":mtgtip:`Monstruous Step<https://img.scryfall.com/cards/border_crop/front/8/9/893f300b-a823-4156-90f2-0636e9f499b0.jpg?1585922539|https://scryfall.com/card/iko/166/monstruous-step?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:365
+msgid "Target creature gets +7/+7 until end of turn. Up to one target creature blocks it this turn if able."
+msgstr ""
+
+#: ../../IKO.rst:372
+msgid ":mtgtip:`Mosscoat Goriak<https://img.scryfall.com/cards/border_crop/front/c/2/c23139d4-0db5-4683-8d49-f4600fbe29e2.jpg?1585831241|https://scryfall.com/card/iko/167/mosscoat-goriak?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:371
+msgid "Vigilance"
+msgstr ""
+
+#: ../../IKO.rst:378
+msgid ":mtgtip:`\"Mythos of Brokkos\"<https://img.scryfall.com/cards/border_crop/front/f/a/fa4fc5b1-6666-4c60-898f-f927212c7923.jpg?1585958119|https://scryfall.com/card/iko/168/mythos-of-brokkos?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:375
+msgid "If |mana_u|\\ |mana_b| was spent to cast \"Mythos of Brokkos\", search your library for a card and put that card into your graveyard, then shuffle your library."
+msgstr ""
+
+#: ../../IKO.rst:377
+msgid "Return up to two permanent cards from your graveyard to your hand."
+msgstr ""
+
+#: ../../IKO.rst:386
+msgid ":mtgtip:`Titanoth Rex<https://img.scryfall.com/cards/border_crop/front/9/d/9d02e1e8-b85b-4e26-8ab8-ca2f49d05b88.jpg?1585834578|https://scryfall.com/card/iko/174/titanoth-rex?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:381
+#: ../../IKO.rst:417
+#: ../../IKO.rst:489
+#: ../../IKO.rst:567
+#: ../../IKO.rst:615
+msgid "Trample"
+msgstr ""
+
+#: ../../IKO.rst:383
+msgid "Cycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../IKO.rst:385
+msgid "When you cycle Titanoth Rex, put a trample counter on target creature you control."
+msgstr ""
+
+#: ../../IKO.rst:396
+msgid ":mtgtip:`Vivien, Monsters' Advocate<https://img.scryfall.com/cards/border_crop/front/5/0/504ebb84-7e7b-4119-a128-a9c183c5d9de.jpg?1585830399|https://scryfall.com/card/iko/175/vivien-monsters-advocate?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:389
+msgid "You may look at the top card of your library any time."
+msgstr ""
+
+#: ../../IKO.rst:391
+msgid "You may cast creature spells from the top of your library."
+msgstr ""
+
+#: ../../IKO.rst:393
+msgid "+1: Create a 3/3 green Beast creature token. Put your choice of a vigilance counter, a reach counter, or a trample counter on it."
+msgstr ""
+
+#: ../../IKO.rst:395
+msgid "−2: When you cast your next creature spell this turn, search your library for a creature card with lesser converted mana cost, put it onto the battlefield, then shuffle your library."
+msgstr ""
+
+#: ../../IKO.rst:402
+msgid ":mtgtip:`\"Harmless Houseplant\"<https://img.scryfall.com/cards/border_crop/front/5/5/55987bab-c24f-4261-b97e-f0ad4474b0a0.jpg?1585913318|https://scryfall.com/card/iko/176/harmless-houseplant?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:399
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../IKO.rst:406
+msgid ":mtgtip:`Back for More<https://img.scryfall.com/cards/border_crop/front/3/f/3fc7210c-da23-4cec-9195-4de75587f40f.jpg?1585929044|https://scryfall.com/card/iko/177/back-for-more?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:405
+msgid "Return target creature card from your graveyard to the battlefield. When you do, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../IKO.rst:412
+msgid ":mtgtip:`\"BLARGbeast\"<https://img.scryfall.com/cards/border_crop/front/3/7/37e4df5b-ec53-4f8a-8c26-272b3177c0a6.jpg?1585958696|https://scryfall.com/card/iko/178/blargbeast?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:409
+msgid "Mutate |mana_2|\\ |mana_bg|\\ |mana_bg| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:411
+msgid "Whenever this creature mutates, return target permanent card from your graveyard to your hand."
+msgstr ""
+
+#: ../../IKO.rst:420
+msgid ":mtgtip:`Brokkos, Apex of Forever<https://img.scryfall.com/cards/border_crop/front/c/9/c9f07625-fbd8-4581-8568-eb3cfb2a4c1e.jpg?1585838945|https://scryfall.com/card/iko/179/brokkos-apex-of-forever?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:415
+msgid "Mutate |mana_2|\\ |mana_ub|\\ |mana_g|\\ |mana_g| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:419
+msgid "You may cast Brokkos, Apex of Forever from your graveyard using its mutate ability."
+msgstr ""
+
+#: ../../IKO.rst:426
+msgid ":mtgtip:`Channeled Force<https://img.scryfall.com/cards/border_crop/front/8/9/8918d24e-8ae8-4028-9f06-ba6fafcc717e.jpg?1585922771|https://scryfall.com/card/iko/180/channeled-force?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:423
+msgid "As an additional cost to cast this spell, discard X cards."
+msgstr ""
+
+#: ../../IKO.rst:425
+msgid "Target player draws X cards. Channeled Force deals X damage to up to one target creature or planeswalker."
+msgstr ""
+
+#: ../../IKO.rst:434
+msgid ":mtgtip:`Chevill, Bane of Monsters<https://img.scryfall.com/cards/border_crop/front/f/e/fecbf0a3-ebe1-43b6-a720-462ba19002eb.jpg?1585931672|https://scryfall.com/card/iko/181/chevill-bane-of-monsters?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:431
+msgid "At the beginning of your upkeep, if your opponents control no permanents with bounty counters on them, put a bounty counter on target creature or planeswalker an opponent controls."
+msgstr ""
+
+#: ../../IKO.rst:433
+msgid "Whenever permanent an opponent controls with a bounty counter on it dies, you gain 3 life and draw card."
+msgstr ""
+
+#: ../../IKO.rst:440
+msgid ":mtgtip:`Death's Oasis<https://img.scryfall.com/cards/border_crop/front/1/1/112e2cca-bae7-4296-9514-e6058f4b38a5.jpg?1585918508|https://scryfall.com/card/iko/182/deaths-oasis?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:437
+msgid "Whenever a nontoken creature you control dies, put the top two cards of your library into your graveyard. Then return a creature card with lesser converted mana cost than the creature that died from the graveyard to your hand."
+msgstr ""
+
+#: ../../IKO.rst:439
+msgid "|mana_1|, Sacrifice Death's Oasis: You gain life equal to the greatest converted mana cost among creatures you control."
+msgstr ""
+
+#: ../../IKO.rst:444
+msgid ":mtgtip:`Dire Tactics<https://img.scryfall.com/cards/border_crop/front/e/0/e0e3974e-3753-4f25-8930-6d96b40332ce.jpg?1585926800|https://scryfall.com/card/iko/183/dire-tactics?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:443
+msgid "Exile target creature. If you don't control a Human, you lose life equal to that creature's toughness."
+msgstr ""
+
+#: ../../IKO.rst:452
+msgid ":mtgtip:`General Kudro of Drannith<https://img.scryfall.com/cards/border_crop/front/2/c/2c3227ae-0c72-478a-a6dd-661aaf718038.jpg?1585929059|https://scryfall.com/card/iko/187/general-kudro-of-drannith?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:447
+msgid "Other Humans you control get +1/+1."
+msgstr ""
+
+#: ../../IKO.rst:449
+msgid "Whenever General Kudro of Drannith or another Human enters the battlefield under your control, exile target card from an opponent's graveyard."
+msgstr ""
+
+#: ../../IKO.rst:451
+msgid "|mana_2|, Sacrifice two Humans: Destroy target creature with power 4 or greater."
+msgstr ""
+
+#: ../../IKO.rst:458
+msgid ":mtgtip:`General's Enforcer<https://img.scryfall.com/cards/border_crop/front/f/6/f6a45d0e-582a-4ec1-b83b-71b6a0ff6249.jpg?1585918102|https://scryfall.com/card/iko/188/generals-enforcer?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:455
+msgid "Legendary Humans you control have indestructible."
+msgstr ""
+
+#: ../../IKO.rst:457
+msgid "|mana_2|\\ |mana_w|\\ |mana_b|: Exile target card from a graveyard. If it was a creature card, create a 1/1 white Human Soldier creature token."
+msgstr ""
+
+#: ../../IKO.rst:466
+msgid ":mtgtip:`Illuna, Apex of Wishes<https://img.scryfall.com/cards/border_crop/front/9/f/9fc99c81-d112-4811-9bba-77a14d904692.jpg?1585830265|https://scryfall.com/card/iko/190/illuna-apex-of-wishes?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:461
+msgid "Mutate |mana_3|\\ |mana_rg|\\ |mana_u|\\ |mana_u| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:463
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../IKO.rst:465
+msgid "Whenever this creature mutates, exile cards from the top of your library until you exile a nonland permanent card. Put that card onto the battlefield or into your hand."
+msgstr ""
+
+#: ../../IKO.rst:474
+msgid ":mtgtip:`Labyrinth Raptor<https://img.scryfall.com/cards/border_crop/front/c/6/c608543d-cb60-44c3-a437-e4a18c311420.jpg?1585870921|https://scryfall.com/card/iko/193/labyrinth-raptor?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:469
+msgid "Menace"
+msgstr ""
+
+#: ../../IKO.rst:471
+msgid "Whenever a creature you control with menace becomes blocked, defending player sacrifices a creature blocking it."
+msgstr ""
+
+#: ../../IKO.rst:473
+msgid "|mana_b|\\ |mana_r|: Creatures you control with menace get +1/+0 until end of turn."
+msgstr ""
+
+#: ../../IKO.rst:482
+msgid ":mtgtip:`Nethroi, Apex of Death<https://img.scryfall.com/cards/border_crop/front/8/c/8ca6eb5a-8bc9-4091-bcfb-b207f0afd188.jpg?1585989748|https://scryfall.com/card/iko/197/nethroi-apex-of-death?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:477
+msgid "Mutate |mana_4|\\ |mana_gw|\\ |mana_b|\\ |mana_b| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:479
+msgid "Deathtouch, lifelink"
+msgstr ""
+
+#: ../../IKO.rst:481
+msgid "Whenever this creature mutates, return any number of creature cards with total power 10 or less from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../IKO.rst:486
+msgid ":mtgtip:`Primal Empathy<https://img.scryfall.com/cards/border_crop/front/0/3/034e0afb-7787-4cb8-8bb4-cf6997dbf7e4.jpg?1585871050|https://scryfall.com/card/iko/200/primal-empathy?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:485
+msgid "At the beginning of your upkeep, draw a card if you control a creature with the greatest power among creatures on the battlefield. Otherwise, put a +1/+1 counter on a creature you control."
+msgstr ""
+
+#: ../../IKO.rst:492
+msgid ":mtgtip:`\"Big Boy Forest Crusher\"<https://img.scryfall.com/cards/border_crop/front/c/8/c8e4c609-19c9-433b-a852-7999e375ee4f.jpg?1585927362|https://scryfall.com/card/iko/201/big-boy-forest-crusher?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:491
+msgid "Whenever one or more creatures you control with trample deal combat damage to a player, create an X/X green Dinosaur Beast creature token with trample, where X is the damage those creatures dealt to that player"
+msgstr ""
+
+#: ../../IKO.rst:498
+msgid ":mtgtip:`Rielle, the Everwise<https://img.scryfall.com/cards/border_crop/front/5/f/5f03c944-1929-4cb2-a373-d57eefa29ed1.jpg?1585954341|https://scryfall.com/card/iko/203/rielle-the-everwise?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:495
+msgid "Rielle, the Everwise gets +1/+0 for each instant or sorcery card in your graveyard."
+msgstr ""
+
+#: ../../IKO.rst:497
+msgid "Whenever you discard one or more cards for the first time each turn, draw that many cards."
+msgstr ""
+
+#: ../../IKO.rst:504
+msgid ":mtgtip:`Skull Prophet<https://img.scryfall.com/cards/border_crop/front/2/f/2f5ec787-79f6-4922-a0f7-debde8f7a4be.jpg?1585924664|https://scryfall.com/card/iko/206/skull-prophet?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:501
+msgid "|tap|: Add |mana_b| or |mana_g|."
+msgstr ""
+
+#: ../../IKO.rst:503
+msgid "|tap|: Put the top two cards of your library into your graveyard."
+msgstr ""
+
+#: ../../IKO.rst:512
+msgid ":mtgtip:`Snapdax, Apex of the Hunt<https://img.scryfall.com/cards/border_crop/front/5/1/51fdeeb7-9868-4fc2-9c53-806244cd5488.jpg?1585832839|https://scryfall.com/card/iko/209/snapdax-apex-of-the-hunt?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:507
+msgid "Mutate |mana_2|\\ |mana_br|\\ |mana_w|\\ |mana_w| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:509
+msgid "Double Strike"
+msgstr ""
+
+#: ../../IKO.rst:511
+msgid "Whenever this creature mutates, it deals 4 damage to target creature or planeswalker an opponent controls and you gain 4 life."
+msgstr ""
+
+#: ../../IKO.rst:518
+msgid ":mtgtip:`Sprite Dragon<https://img.scryfall.com/cards/border_crop/front/2/8/281f6118-adb8-4a7d-9c77-5570f3399e6e.jpg?1585843749|https://scryfall.com/card/iko/211/sprite-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:515
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../IKO.rst:517
+msgid "Whenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon."
+msgstr ""
+
+#: ../../IKO.rst:524
+msgid ":mtgtip:`Trumpeting Gnarr<https://img.scryfall.com/cards/border_crop/front/0/6/063a95ee-3fda-436f-9ff8-de80cc874dde.jpg?1585918887|https://scryfall.com/card/iko/213/trumpeting-gnarr?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:521
+msgid "Mutate |mana_3|\\ |mana_gu|\\ |mana_gu| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:523
+msgid "Whenever this creature mutates, create a 3/3 green Beast creature token."
+msgstr ""
+
+#: ../../IKO.rst:532
+msgid ":mtgtip:`Vadrok, Apex of Thunder<https://img.scryfall.com/cards/border_crop/front/e/d/ed7b0256-d342-4523-9516-6a007bf51825.jpg?1585830613|https://scryfall.com/card/iko/214/vadrok-apex-of-thunder?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:527
+msgid "Mutate |mana_1|\\ |mana_wu|\\ |mana_r|\\ |mana_r| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on the top plus all abilities from under it.)"
+msgstr ""
+
+#: ../../IKO.rst:529
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../IKO.rst:531
+msgid "Whenever this creature mutates, you may cast target noncreature card with converted mana cost 3 or less from your graveyard without paying its mana cost."
+msgstr ""
+
+#: ../../IKO.rst:538
+msgid ":mtgtip:`Fiend Artisan<https://img.scryfall.com/cards/border_crop/front/6/c/6cd9d800-6d31-42e2-87d2-772db0ff95ed.jpg?1585924224|https://scryfall.com/card/iko/220/fiend-artisan?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:535
+msgid "Fiend Artisan gets +1/+1 for each creature card in your graveyard."
+msgstr ""
+
+#: ../../IKO.rst:537
+msgid "|mana_x|\\ |mana_bg|, |tap|, Sacrifice another creature: Search your library for a creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../IKO.rst:544
+msgid ":mtgtip:`Gyruda, Doom of Depths<https://img.scryfall.com/cards/border_crop/front/9/7/97eb1804-6fd8-4917-af36-87fdfce39d3a.jpg?1585834563|https://scryfall.com/card/iko/221/gyruda-doom-of-depths?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:541
+msgid "Companion — Your starting deck contains only cards with even converted mana costs. (If this card is your chosen companion, you may cast it once from outside the game.)"
+msgstr ""
+
+#: ../../IKO.rst:543
+msgid "When Gyruda, Doom of Depths enters the battlefield, each player puts the top four cards of the library into their graveyard. Put a creature card with an even converted mana cost from among those cards onto the battlefield under your control."
+msgstr ""
+
+#: ../../IKO.rst:550
+msgid ":mtgtip:`Keruga, the Macrosage<https://img.scryfall.com/cards/border_crop/front/a/9/a90ee952-de7a-420f-993c-a38db89bc8ac.jpg?1585832334|https://scryfall.com/card/iko/225/keruga-the-macrosage?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:547
+msgid "Companion — Your starting deck contains only cards with converted mana cost 3 or greater and land cards. (If this card is your chosen companion, you may cast it once from outside the game.)"
+msgstr ""
+
+#: ../../IKO.rst:549
+msgid "When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with converted mana cost 3 or greater."
+msgstr ""
+
+#: ../../IKO.rst:558
+msgid ":mtgtip:`Lutri, the Spellchaser<https://img.scryfall.com/cards/border_crop/front/f/b/fb1189c9-7842-466e-8238-1e02677d8494.jpg?1585867639|https://scryfall.com/card/iko/227/lutri-the-spellchaser?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:553
+msgid "Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may cast it once from outside the game.)"
+msgstr ""
+
+#: ../../IKO.rst:557
+msgid "When Lutri, the Spellchaser enters the battlefield, if you cast it, copy target instant or sorcery spell you control. You may choose new targets for the copy."
+msgstr ""
+
+#: ../../IKO.rst:564
+msgid ":mtgtip:`\"Obosh, With The Leggies\"<https://img.scryfall.com/cards/border_crop/front/4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1586003209|https://scryfall.com/card/iko/228/obosh-with-the-leggies?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:561
+msgid "Companion—Each nonland card in your deck has an odd converted mana cost. (If this card is your chosen companion, you may cast it once from outside the game.)"
+msgstr ""
+
+#: ../../IKO.rst:563
+msgid "If a source you control with an odd converted mana cost would deal damage, it deals double that damage instead."
+msgstr ""
+
+#: ../../IKO.rst:570
+msgid ":mtgtip:`Proud Wildbonder<https://img.scryfall.com/cards/border_crop/front/f/4/f4876e17-a206-4351-9c0b-0845db4569a3.jpg?1585920261|https://scryfall.com/card/iko/229/proud-wildbonder?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:569
+msgid "Creatures you control with trample have \"You may have this creature assign its combat damage as though it weren't blocked.\""
+msgstr ""
+
+#: ../../IKO.rst:578
+msgid ":mtgtip:`Umori, the Collector<https://img.scryfall.com/cards/border_crop/front/7/5/75ac31e0-ac70-4ee6-b2b1-cc445ffa1da9.jpg?1585838926|https://scryfall.com/card/iko/231/umori-the-collector?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:573
+msgid "Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may cast it once from outside the game.)"
+msgstr ""
+
+#: ../../IKO.rst:575
+msgid "As Umori, the Collector enters the battlefield, choose a card type."
+msgstr ""
+
+#: ../../IKO.rst:577
+msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../IKO.rst:582
+msgid ":mtgtip:`Crystalline Giant<https://img.scryfall.com/cards/border_crop/front/1/1/1146c418-2176-466e-8a06-f2ef6bf2b1a9.jpg?1585946379|https://scryfall.com/card/iko/234/crystalline-giant?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:581
+msgid "At the beginning of combat on your turn, choose a kind of counter at random that Crystalline Giant doesn't have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, or +1/+1. Put a counter of that kind on Crystalline Giant."
+msgstr ""
+
+#: ../../IKO.rst:588
+msgid ":mtgtip:`Indatha Crystal<https://img.scryfall.com/cards/border_crop/front/b/d/bdace59f-f025-4717-8eb4-3d1e13b31d2b.jpg?1585948958|https://scryfall.com/card/iko/235/indatha-crystal?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:585
+msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
+msgstr ""
+
+#: ../../IKO.rst:594
+msgid ":mtgtip:`Ketria Crystal<https://img.scryfall.com/cards/border_crop/front/7/d/7df435cb-3aeb-490a-8fca-91f3b6936965.jpg?1585948962|https://scryfall.com/card/iko/236/ketria-crystal?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:591
+msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
+msgstr ""
+
+#: ../../IKO.rst:600
+msgid ":mtgtip:`Raugrin Crystal<https://img.scryfall.com/cards/border_crop/front/c/5/c5bce0fb-53d6-47ee-8c5a-a99e50f67fc9.jpg?1585927279|https://scryfall.com/card/iko/238/raugrin-crystal?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:597
+msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
+msgstr ""
+
+#: ../../IKO.rst:606
+msgid ":mtgtip:`Savai Crystal<https://img.scryfall.com/cards/border_crop/front/6/9/6954a5c1-89b1-4edd-814e-8f88fd49cda3.jpg?1585917640|https://scryfall.com/card/iko/239/savai-crystal?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:603
+msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
+msgstr ""
+
+#: ../../IKO.rst:612
+msgid ":mtgtip:`Zagoth Crystal<https://img.scryfall.com/cards/border_crop/front/9/1/9138a442-8e8b-465f-bb76-b6af7e6dab6f.jpg?1585917672|https://scryfall.com/card/iko/242/zagoth-crystal?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:609
+msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
+msgstr ""
+
+#: ../../IKO.rst:617
+msgid ":mtgtip:`Zilortha, Strength Incarnate<https://img.scryfall.com/cards/border_crop/front/9/a/9a0639a0-c898-4a07-975c-a02bdd53175b.jpg?1585830951|https://scryfall.com/card/iko/275/zilortha-strength-incarnate?utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:617
+msgid "Lethal damage dealt to creatures you control is determined by their power rather than their toughness."
+msgstr ""
