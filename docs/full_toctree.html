@@ -1,0 +1,417 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <title>&lt;no title&gt; &#8212; MTG-pl 2020.4.5 - dokumentacja</title>
+    <link rel="stylesheet" href="_static/classic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="_static/translations.js"></script>
+    
+    <link rel="index" title="Indeks" href="genindex.html" />
+    <link rel="search" title="Szukaj" href="search.html" />
+    <link rel="next" title="Ikoria: Lair of Behemoths" href="IKO.html" />
+    <link rel="prev" title="Spis zmian" href="changelog.html" />
+<link href="_static/tooltip.css" type="text/css" rel="stylesheet">
+<link href="//cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.min.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+  @font-face {
+    font-family: 'Keyrune';
+    src: url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.eot');
+    src: url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.eot?#iefix') format('embedded-opentype'),
+         url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.woff2') format('woff2'),
+         url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.woff') format('woff'),
+         url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.ttf') format('truetype'),
+         url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+</style>
+
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Nawigacja</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="Indeks ogólny"
+             accesskey="I">indeks</a></li>
+        <li class="right" >
+          <a href="IKO.html" title="Ikoria: Lair of Behemoths"
+             accesskey="N">dalej</a> |</li>
+        <li class="right" >
+          <a href="changelog.html" title="Spis zmian"
+             accesskey="P">wstecz</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">MTG-pl 2020.4.5 - dokumentacja</a> &#187;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="rulebook.html">Magic the Gathering - Podręcznik podstaw gry</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="rulebook.html#magic-gameplay">Gra w Magic</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rulebook.html#how-to-read-a-magic-card">Jak czytać kartę do gry w <em>Magic</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#name">Nazwa</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#mana-cost">Koszt many</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#type-line">Linia typu</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#text-box">Pole tekstu</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#power-toughness">Siła/Wytrzymałość</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#expansion-symbol">Symbol edycji/dodatku</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="rulebook.html#your-play-area">Pole gry</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#library">Biblioteka</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#hand">Ręka</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#battlefield">Pole walki</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#graveyard">Cmentarz</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#exile">Wygnanie</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="rulebook.html#game-actions">Akcje w grze</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#tapping-and-untapping">Przekręcanie i odkręcanie</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#casting-spells">Rzucanie czarów</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#attacking-and-blocking">Atakowanie i blokowanie</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#in-the-following-examples-an-opponent-is-attacking-you-with-a-variety-of-creatures">W kolejnych przykładach przeciwnik atakuje cię różnymi stworami:</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="rulebook.html#advanced-topics">Zaawansowane tematy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rulebook.html#targeting">Wskazywanie celu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rulebook.html#the-stack">Stos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rulebook.html#parts-of-the-turn">Części tury</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#beginning-phase">Faza początkowa</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#first-main-phase">Pierwsza faza główna</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#combat-phase">Faza walki</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#second-main-phase">Druga faza główna</a></li>
+<li class="toctree-l3"><a class="reference internal" href="rulebook.html#ending-phase">Faza końcowa</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="pioneer.html">Pionier</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="pioneer.html#standard">Standard</a></li>
+<li class="toctree-l2"><a class="reference internal" href="pioneer.html#dodatki-poza-standardem">Dodatki poza Standardem</a></li>
+<li class="toctree-l2"><a class="reference internal" href="pioneer.html#edycje-bazowe">Edycje bazowe</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="modern.html">Modern</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="modern.html#standard">Standard</a></li>
+<li class="toctree-l2"><a class="reference internal" href="modern.html#dodatki-specjalne">Dodatki specjalne</a></li>
+<li class="toctree-l2"><a class="reference internal" href="modern.html#pioneer">Pioneer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="modern.html#dodatki-poza-pionierem">Dodatki poza Pionierem</a></li>
+<li class="toctree-l2"><a class="reference internal" href="modern.html#edycje-bazowe">Edycje bazowe</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="legacy.html">Legacy / Vintage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="legacy.html#dodatki">Dodatki</a></li>
+<li class="toctree-l2"><a class="reference internal" href="legacy.html#edycje-bazowe">Edycje bazowe</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="commander.html">Official Commander Rules</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="commander.html#philosophy">Philosophy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="commander.html#deck-construction-rules">Deck Construction Rules</a></li>
+<li class="toctree-l2"><a class="reference internal" href="commander.html#play-rules">Play Rules</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="commander.html#partial-paris-mulligan-rule">Partial Paris Mulligan rule</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="commander.html#optional-rules-for-commander">Optional rules for Commander</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="commander.html#sideboards">Sideboards</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="commander.html#reasoning">Reasoning</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="commander.html#victory-points">Victory Points</a></li>
+<li class="toctree-l3"><a class="reference internal" href="commander.html#democratic-victory">Democratic Victory</a></li>
+<li class="toctree-l3"><a class="reference internal" href="commander.html#the-league-rule">The League Rule</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="commander.html#license">License</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="commander_banned.html">Cards banned in Commander</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="commander_banned.html#banned-from-play">Banned from play</a></li>
+<li class="toctree-l2"><a class="reference internal" href="commander_banned.html#banned-commanders">Banned Commanders</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="game_variants.html">Game Variants</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="game_variants.html#wizard-s-tower">Wizard’s Tower</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="handicap.html">Handicap (Utrudnienie)</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="handicap.html#zasady">Zasady</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="rationale.html">Uzasadnienie tłumaczeń</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="rationale.html#zasady-ogolne">Zasady ogólne</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rationale.html#czesto-wystepujace-terminy">Często występujące terminy</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="rationale.html#nieaktualne">Nieaktualne</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="rationale.html#hasla-zdolnosci">Hasła zdolności</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="polish_cards.html">Polskie karty</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="polish_cards.html#lady">Lądy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="polish_cards.html#zetony">Żetony</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="glossary.html">Glosariusz</a></li>
+<li class="toctree-l1"><a class="reference internal" href="changelog.html">Spis zmian</a></li>
+<li class="toctree-l1"><a class="reference internal" href="IKO.html"><span class="ss ss-iko"></span> Ikoria: Lair of Behemoths</a></li>
+<li class="toctree-l1"><a class="reference internal" href="THB.html"><span class="ss ss-tbd"></span> Theros: Beyond Death (Theros: Poza śmiercią)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ELD.html"><span class="ss ss-eld"></span> Throne of Eldraine (Tron Eldraine)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="M20.html"><span class="ss ss-m20"></span> Core Set 2020</a></li>
+<li class="toctree-l1"><a class="reference internal" href="WAR.html"><span class="ss ss-war"></span> War of the Spark (Wojna Iskry)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="RNA.html"><span class="ss ss-rna"></span> Ravnica Allegiance (Lojalność Ravniki)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="GRN.html"><span class="ss ss-grn"></span> Guilds of Ravnica (Gildie Ravniki)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOM.html"><span class="ss ss-dom"></span> Dominaria</a></li>
+<li class="toctree-l1"><a class="reference internal" href="RIX.html"><span class="ss ss-rix"></span> Rivals of Ixalan (Rywale z Ixalanu)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="XLN.html"><span class="ss ss-xln"></span> Ixalan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="HOU.html"><span class="ss ss-hou"></span> Hour of Devastation (Godzina Zagłady)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="AKH.html"><span class="ss ss-akh"></span> Amonkhet</a></li>
+<li class="toctree-l1"><a class="reference internal" href="AER.html"><span class="ss ss-aer"></span> Aether Revolt</a></li>
+<li class="toctree-l1"><a class="reference internal" href="KLD.html"><span class="ss ss-kld"></span> Kaladesh</a></li>
+<li class="toctree-l1"><a class="reference internal" href="EMN.html"><span class="ss ss-emn"></span> Eldritch Moon (Złowieszczy księżyc)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SOI.html"><span class="ss ss-soi"></span> Shadows over Innistrad (Cienie nad Innistradem)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="OGW.html"><span class="ss ss-ogw"></span> Oath of the Gatewatch</a></li>
+<li class="toctree-l1"><a class="reference internal" href="BFZ.html"><span class="ss ss-bfz"></span> Battle for Zendikar (Bitwa o Zendikar)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ORI.html"><span class="ss ss-ori"></span> Magic Origins (Magic - Początki)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DTK.html"><span class="ss ss-dtk"></span> Dragons of Tarkir (Smoki Tarkiru)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="FRF.html"><span class="ss ss-frf"></span> Fate Reforged (Odmieniony los)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="KTK.html"><span class="ss ss-ktk"></span> Khans of Tarkir (Chanowie Tarkiru)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="JOU.html"><span class="ss ss-jou"></span> Journey into Nyx (Podróż do Nyx)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="BNG.html"><span class="ss ss-bng"></span> Born of the Gods (Zrodzeni z Bogów)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="THS.html"><span class="ss ss-ths"></span> Theros</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DGM.html"><span class="ss ss-dgm"></span> Dragon’s Maze (Labirynt Smoka)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="GTC.html"><span class="ss ss-gtc"></span> Gatecrash</a></li>
+<li class="toctree-l1"><a class="reference internal" href="RTR.html"><span class="ss ss-rtr"></span> Return to Ravnica (Powrót na Rawnikę)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="M19.html"><span class="ss ss-m19"></span> Core Set 2019 (Zestaw Bazowy 2019)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="M15.html"><span class="ss ss-m15"></span> Magic 2015</a></li>
+<li class="toctree-l1"><a class="reference internal" href="M14.html"><span class="ss ss-m14"></span> Magic 2014</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MH1.html"><span class="ss ss-mh1"></span> Modern Horizons</a></li>
+<li class="toctree-l1"><a class="reference internal" href="AVR.html"><span class="ss ss-avr"></span> Avacyn Restored</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DKA.html"><span class="ss ss-dka"></span> Dark Ascension</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ISD.html"><span class="ss ss-isd"></span> Innistrad</a></li>
+<li class="toctree-l1"><a class="reference internal" href="NPH.html"><span class="ss ss-nph"></span> New Phyrexia</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MBS.html"><span class="ss ss-mbs"></span> Mirrodin Besieged</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SOM.html"><span class="ss ss-som"></span> Scars of Mirrodin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ROE.html"><span class="ss ss-roe"></span> Rise of the Eldrazi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="WWK.html"><span class="ss ss-wwk"></span> Worldwake</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ZEN.html"><span class="ss ss-zen"></span> Zendikar</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ARB.html"><span class="ss ss-arb"></span> Alara Reborn</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CON.html"><span class="ss ss-con"></span> Conflux</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ALA.html"><span class="ss ss-ala"></span> Shards of Alara</a></li>
+<li class="toctree-l1"><a class="reference internal" href="EVE.html"><span class="ss ss-eve"></span> Eventide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SHM.html"><span class="ss ss-shm"></span> Shadowmoor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MOR.html"><span class="ss ss-mor"></span> Morningtide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="LRW.html"><span class="ss ss-lrw"></span> Lorwyn</a></li>
+<li class="toctree-l1"><a class="reference internal" href="FUT.html"><span class="ss ss-fut"></span> Future Sight</a></li>
+<li class="toctree-l1"><a class="reference internal" href="PLC.html"><span class="ss ss-plc"></span> Planar Chaos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="TSP.html"><span class="ss ss-tsp"></span> Time Spiral</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CSP.html"><span class="ss ss-csp"></span> Coldsnap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DIS.html"><span class="ss ss-dis"></span> Dissension</a></li>
+<li class="toctree-l1"><a class="reference internal" href="GPT.html"><span class="ss ss-gpt"></span> Guildpact (Pakt gildii)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="RAV.html"><span class="ss ss-rav"></span> Ravnica: City of Guilds</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SOK.html"><span class="ss ss-sok"></span> Saviors of Kamigawa</a></li>
+<li class="toctree-l1"><a class="reference internal" href="BOK.html"><span class="ss ss-bok"></span> Betrayers of Kamigawa</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CHK.html"><span class="ss ss-chk"></span> Champions of Kamigawa</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5DN.html"><span class="ss ss-5dn"></span> Fifth Dawn</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DST.html"><span class="ss ss-dst"></span> Darksteel</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MRD.html"><span class="ss ss-mrd"></span> Mirrodin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="M13.html"><span class="ss ss-m13"></span> Magic 2013</a></li>
+<li class="toctree-l1"><a class="reference internal" href="M12.html"><span class="ss ss-m12"></span> Magic 2012</a></li>
+<li class="toctree-l1"><a class="reference internal" href="M11.html"><span class="ss ss-m11"></span> Magic 2011</a></li>
+<li class="toctree-l1"><a class="reference internal" href="M10.html"><span class="ss ss-m10"></span> Magic 2010</a></li>
+<li class="toctree-l1"><a class="reference internal" href="10E.html"><span class="ss ss-10e"></span> Tenth Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="9ED.html"><span class="ss ss-9ed"></span> Ninth Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="8ED.html"><span class="ss ss-8ed"></span> Eighth Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SCG.html"><span class="ss ss-scg"></span> Scourge</a></li>
+<li class="toctree-l1"><a class="reference internal" href="LGN.html"><span class="ss ss-lgn"></span> Legions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ONS.html"><span class="ss ss-ons"></span> Onslaught</a></li>
+<li class="toctree-l1"><a class="reference internal" href="JUD.html"><span class="ss ss-jud"></span> Judgment</a></li>
+<li class="toctree-l1"><a class="reference internal" href="TOR.html"><span class="ss ss-tor"></span> Torment</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ODY.html"><span class="ss ss-ody"></span> Odyssey</a></li>
+<li class="toctree-l1"><a class="reference internal" href="APC.html"><span class="ss ss-apc"></span> Apocalypse</a></li>
+<li class="toctree-l1"><a class="reference internal" href="PLS.html"><span class="ss ss-pls"></span> Planeshift</a></li>
+<li class="toctree-l1"><a class="reference internal" href="INV.html"><span class="ss ss-inv"></span> Invasion</a></li>
+<li class="toctree-l1"><a class="reference internal" href="PCY.html"><span class="ss ss-pcy"></span> Prophecy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="NEM.html"><span class="ss ss-nem"></span> Nemesis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MMQ.html"><span class="ss ss-mmq"></span> Mercadian Masques</a></li>
+<li class="toctree-l1"><a class="reference internal" href="UDS.html"><span class="ss ss-uds"></span> Urza’s Destiny</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ULG.html"><span class="ss ss-ulg"></span> Urza’s Legacy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="USG.html"><span class="ss ss-usg"></span> Urza’s Saga</a></li>
+<li class="toctree-l1"><a class="reference internal" href="EXO.html"><span class="ss ss-exo"></span> Exodus</a></li>
+<li class="toctree-l1"><a class="reference internal" href="STH.html"><span class="ss ss-sth"></span> Stronghold</a></li>
+<li class="toctree-l1"><a class="reference internal" href="TMP.html"><span class="ss ss-tmp"></span> Tempest</a></li>
+<li class="toctree-l1"><a class="reference internal" href="WTH.html"><span class="ss ss-wth"></span> Weatherlight</a></li>
+<li class="toctree-l1"><a class="reference internal" href="VIS.html"><span class="ss ss-vis"></span> Visions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MIR.html"><span class="ss ss-mir"></span> Mirage</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ALL.html"><span class="ss ss-all"></span> Alliances</a></li>
+<li class="toctree-l1"><a class="reference internal" href="HML.html"><span class="ss ss-hml"></span> Homelands</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ICE.html"><span class="ss ss-ice"></span> Ice Age</a></li>
+<li class="toctree-l1"><a class="reference internal" href="FEM.html"><span class="ss ss-fem"></span> Fallen Empires</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DRK.html"><span class="ss ss-drk"></span> The Dark</a></li>
+<li class="toctree-l1"><a class="reference internal" href="LEG.html"><span class="ss ss-leg"></span> Legends</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ATQ.html"><span class="ss ss-atq"></span> Antiquities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ARN.html"><span class="ss ss-arn"></span> Arabian Nights</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7ED.html"><span class="ss ss-7ed"></span> Seventh Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6ED.html"><span class="ss ss-6ed"></span> Classic Sixth Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5ED.html"><span class="ss ss-5ed"></span> Fifth Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4ED.html"><span class="ss ss-4ed"></span> Fourth Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="3ED.html"><span class="ss ss-3ed"></span> Revised Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2ED.html"><span class="ss ss-2ed"></span> Unlimited Edition</a></li>
+<li class="toctree-l1"><a class="reference internal" href="LEB.html"><span class="ss ss-leb"></span> Limited Edition Beta</a></li>
+<li class="toctree-l1"><a class="reference internal" href="LEA.html"><span class="ss ss-lea"></span> Limited Edition Alpha</a></li>
+<li class="toctree-l1"><a class="reference internal" href="GK2.html"><span class="ss ss-gk2"></span> RNA Guild Kit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="GK1.html"><span class="ss ss-gk1"></span> GRN Guild Kit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="UMA.html"><span class="ss ss-uma"></span> Ultimate Masters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="A25.html"><span class="ss ss-a25"></span> Masters 25</a></li>
+<li class="toctree-l1"><a class="reference internal" href="IMA.html"><span class="ss ss-ima"></span> Iconic Masters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MM3.html"><span class="ss ss-mm3"></span> Modern Masters 2017</a></li>
+<li class="toctree-l1"><a class="reference internal" href="EMA.html"><span class="ss ss-ema"></span> Eternal Masters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MM2.html"><span class="ss ss-mm2"></span> Modern Masters 2015</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MMA.html"><span class="ss ss-mma"></span> Modern Masters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="C19.html"><span class="ss ss-c19"></span> Commander 2019</a></li>
+<li class="toctree-l1"><a class="reference internal" href="C18.html"><span class="ss ss-c18"></span> Commander 2018</a></li>
+<li class="toctree-l1"><a class="reference internal" href="BBD.html"><span class="ss ss-bbd"></span> Battlebond</a></li>
+<li class="toctree-l1"><a class="reference internal" href="C17.html"><span class="ss ss-c17"></span> Commander 2017</a></li>
+<li class="toctree-l1"><a class="reference internal" href="C16.html"><span class="ss ss-c16"></span> Commander 2016</a></li>
+<li class="toctree-l1"><a class="reference internal" href="C15.html"><span class="ss ss-c15"></span> Commander 2015</a></li>
+<li class="toctree-l1"><a class="reference internal" href="C14.html"><span class="ss ss-c14"></span> Commander 2014</a></li>
+<li class="toctree-l1"><a class="reference internal" href="C13.html"><span class="ss ss-c13"></span> Commander 2013</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CN2.html"><span class="ss ss-cn2"></span> Conspiracy: Take the Crown</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CNS.html"><span class="ss ss-cns"></span> Conspiracy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="GNT.html"><span class="ss ss-gnt"></span> Game Night</a></li>
+<li class="toctree-l1"><a class="reference internal" href="E02.html"><span class="ss ss-e02"></span> Explorers of Ixalan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="THS_heroes.html">Bohaterowie Therosa</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="THS_heroes.html#theros">Theros</a></li>
+<li class="toctree-l2"><a class="reference internal" href="THS_heroes.html#born-of-the-gods">Born of the Gods (Zrodzeni z bogów)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="THS_heroes.html#journey-into-nyx">Journey into Nyx</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="THS_heroes.html#hero-artifacts">Hero Artifacts</a></li>
+<li class="toctree-l3"><a class="reference internal" href="THS_heroes.html#forge-a-godslayer-stickers">„Forge a Godslayer” Stickers</a></li>
+<li class="toctree-l3"><a class="reference internal" href="THS_heroes.html#heroes">Heroes</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="JOU_god.html">Pokonaj Bóstwo!</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="JOU_god.html#special-rules-for-the-player">Specjalne zasady dla Gracza</a></li>
+<li class="toctree-l2"><a class="reference internal" href="JOU_god.html#special-rules-for-xenagos">Specjalne zasady Xenagosa</a></li>
+<li class="toctree-l2"><a class="reference internal" href="JOU_god.html#winning-the-challenge">Wygranie wyzwania</a></li>
+<li class="toctree-l2"><a class="reference internal" href="JOU_god.html#xenagos-s-cards">Karty Xenagosa</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="JOU_god.html#god">Bóstwo</a></li>
+<li class="toctree-l3"><a class="reference internal" href="JOU_god.html#creatures">Stwory</a></li>
+<li class="toctree-l3"><a class="reference internal" href="JOU_god.html#sorceries">Obrzędy</a></li>
+<li class="toctree-l3"><a class="reference internal" href="JOU_god.html#enchantments">Uroki</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="BNG_horde.html">Walka z Hordą!</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="BNG_horde.html#special-rules-for-the-player">Specjalne zasady dla Gracza</a></li>
+<li class="toctree-l2"><a class="reference internal" href="BNG_horde.html#special-rules-for-the-horde">Specjalne zasady dla Hordy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="BNG_horde.html#winning-the-challenge">Wygranie wyzwania</a></li>
+<li class="toctree-l2"><a class="reference internal" href="BNG_horde.html#horde-cards">Karty Hordy</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="BNG_horde.html#creatures">Stwory</a></li>
+<li class="toctree-l3"><a class="reference internal" href="BNG_horde.html#sorceries">Obrzędy</a></li>
+<li class="toctree-l3"><a class="reference internal" href="BNG_horde.html#artifacts">Artefakty</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="THS_hydra.html">Staw czoła Hydrze!</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="THS_hydra.html#how-to-play">Zasady rozgrywki</a></li>
+<li class="toctree-l2"><a class="reference internal" href="THS_hydra.html#the-hydra-s-turn">Tura Hydry</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="THS_hydra.html#special-rules">Zasady specjalne</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="THS_hydra.html#hydra-cards">Karty Hydry</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="THS_hydra.html#heads">Głowy</a></li>
+<li class="toctree-l3"><a class="reference internal" href="THS_hydra.html#sorceries">Obrzędy</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h4>Poprzedni temat</h4>
+  <p class="topless"><a href="changelog.html"
+                        title="poprzedni rozdział">Spis zmian</a></p>
+  <h4>Następny temat</h4>
+  <p class="topless"><a href="IKO.html"
+                        title="następny rozdział"><span class="ss ss-iko"></span> Ikoria: Lair of Behemoths</a></p>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Szybkie wyszukiwanie</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Szukaj" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Nawigacja</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="Indeks ogólny"
+             >indeks</a></li>
+        <li class="right" >
+          <a href="IKO.html" title="Ikoria: Lair of Behemoths"
+             >dalej</a> |</li>
+        <li class="right" >
+          <a href="changelog.html" title="Spis zmian"
+             >wstecz</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">MTG-pl 2020.4.5 - dokumentacja</a> &#187;</li> 
+      </ul>
+    </div>
+
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2013-2020, Dominik Kozaczko.
+      Ostatnia modyfikacja 2020-04-05.
+      Utworzone przy pomocy <a href="http://sphinx-doc.org/">Sphinx</a>'a 2.4.3.
+    </div>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.kozaczko.info/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "14"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+<noscript>
+<!-- Piwik Image Tracker -->
+<img src="http://stats.kozaczko.info/piwik.php?idsite=14&amp;rec=1" style="border:0" alt="" />
+<!-- End Piwik -->
+</noscript>
+
+  </body>
+</html>
