@@ -8,6 +8,7 @@ authors = ["Dominik Kozaczko <dominik@kozaczko.info>"]
 python = "^3.7"
 click = "^7.0"
 requests = "^2.23.0"
+sphinx-rtd-theme = "^0.4.3"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.1.1"
