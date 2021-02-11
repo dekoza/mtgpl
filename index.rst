@@ -25,20 +25,17 @@ Tłumaczenie dodatków
 Nadchodzące
 ------------
 
-.. * :mtgexp:`XZNR` Zendikar Rising (2020-10)
-* :mtgexp:`M21` Core Set 2021 (2020-07)
-* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` (2020-04-17)
-
+* :mtgexp:`STX` Strixhaven: School of Mages (2021-04-23)
 
 Standard
 --------
 
+* :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |p05|
+* :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |p05|
+* :mtgexp:`M21` :doc:`Core Set 2021<M21>` |p05|
+* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |p05|
 * :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |p100|
 * :mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |p100|
-* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |p100|
-* :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p100|
-* :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|
-* :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
 
 Pioneer
 -------

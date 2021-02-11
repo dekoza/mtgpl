@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2020.3\n"
+"Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-05 00:30+0200\n"
+"POT-Creation-Date: 2021-02-11 21:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,101 +41,117 @@ msgid "Dodatki poza Standardem"
 msgstr ""
 
 #: ../../pioneer.rst:24
-msgid ":mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|"
+msgid ":mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:25
-msgid ":mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|"
+msgid ":mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:26
-msgid ":mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|"
+msgid ":mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:27
-msgid ":mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p100|"
+msgid ":mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:28
-msgid ":mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p100|"
+msgid ":mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:29
-msgid ":mtgexp:`AER` :doc:`Aether Revolt<AER>` |p100|"
+msgid ":mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:30
-msgid ":mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p100|"
+msgid ":mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:31
-msgid ":mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p100|"
+msgid ":mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:32
-msgid ":mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p100|"
+msgid ":mtgexp:`AER` :doc:`Aether Revolt<AER>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:33
-msgid ":mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p100|"
+msgid ":mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:34
-msgid ":mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p100|"
+msgid ":mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:35
-msgid ":mtgexp:`ORI` :doc:`Origins<ORI>` |p100|"
+msgid ":mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:36
-msgid ":mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p100|"
+msgid ":mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:37
-msgid ":mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|"
+msgid ":mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:38
-msgid ":mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p100|"
+msgid ":mtgexp:`ORI` :doc:`Origins<ORI>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:39
-msgid ":mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p100|"
+msgid ":mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:40
-msgid ":mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|"
+msgid ":mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:41
-msgid ":mtgexp:`THS` :doc:`Theros<THS>` |p100|"
+msgid ":mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:42
-msgid ":mtgexp:`DGM` :doc:`Dragon's Maze<DGM>` |p100|"
+msgid ":mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:43
-msgid ":mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|"
+msgid ":mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:44
-msgid ":mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|"
+msgid ":mtgexp:`THS` :doc:`Theros<THS>` |p100|"
+msgstr ""
+
+#: ../../pioneer.rst:45
+msgid ":mtgexp:`DGM` :doc:`Dragon's Maze<DGM>` |p100|"
+msgstr ""
+
+#: ../../pioneer.rst:46
+msgid ":mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:47
-msgid "Edycje bazowe"
-msgstr ""
-
-#: ../../pioneer.rst:49
-msgid ":mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|"
+msgid ":mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|"
 msgstr ""
 
 #: ../../pioneer.rst:50
+msgid "Edycje bazowe"
+msgstr ""
+
+#: ../../pioneer.rst:52
+msgid ":mtgexp:`M20` :doc:`Core Set 2020<M20>` |p100|"
+msgstr ""
+
+#: ../../pioneer.rst:53
+msgid ":mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|"
+msgstr ""
+
+#: ../../pioneer.rst:54
 msgid ":mtgexp:`M15` :doc:`Magic 2015<M15>` |p100|"
 msgstr ""
 
-#: ../../pioneer.rst:51
+#: ../../pioneer.rst:55
 msgid ":mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|"
 msgstr ""
