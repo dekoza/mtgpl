@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-05 00:30+0200\n"
-"PO-Revision-Date: 2021-02-13 15:17+0000\n"
+"PO-Revision-Date: 2021-02-13 19:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -28,7 +28,7 @@ msgstr ""
 
 #: ../../IKO.rst:9
 msgid "Whenever this creature mutates, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć ten stwór mutuje, umieść na nim znacznik +1/+1."
 
 #: ../../IKO.rst:14
 msgid ":mtgtip:`Drannith Magistrate<https://img.scryfall.com/cards/border_crop/front/9/8/98b0a4a8-9319-451b-9b79-b0bca7a41e91.jpg?1585922879|https://scryfall.com/card/iko/11/drannith-magistrate?utm_source=api>`"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../IKO.rst:13
 msgid "Your opponents can't cast spells from anywhere other than their hands."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów skądkolwiek oprócz swoich rąk."
 
 #: ../../IKO.rst:20
 msgid ":mtgtip:`Flourishing Fox<https://img.scryfall.com/cards/border_crop/front/7/8/78b81339-746d-4f71-9943-01c0f6a5683a.jpg?1585929439|https://scryfall.com/card/iko/13/flourishing-fox?utm_source=api>`"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../IKO.rst:17
 msgid "Whenever you cycle another card, put a +1/+1 counter on Flourishing Fox."
-msgstr ""
+msgstr "Ilekroć recyklujesz inną kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../IKO.rst:19
 #: ../../IKO.rst:75
@@ -60,10 +60,15 @@ msgstr ""
 #: ../../IKO.rst:23
 msgid "Mutate |mana_2|\\ |mana_w| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_2|\\ |mana_w| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworze pod twoim władaniem bez typu "
+"Człowiek. Mutują w stwora na wierzchu plus wszystkie zdolności pod nim.)"
 
 #: ../../IKO.rst:25
 msgid "Whenever this creature mutates, other creatures you control get +X/+X until end of turn, where X is the number of times this creature has mutated."
 msgstr ""
+"Ilekroć ten stwór mutuje, inne stwory pod twoim władaniem dostają do końca "
+"tury +X/+X, gdzie X jest liczbą mutacji tego stwora."
 
 #: ../../IKO.rst:32
 msgid ":mtgtip:`Luminous Broodmoth<https://img.scryfall.com/cards/border_crop/front/b/b/bb65df55-d6a6-4a57-a903-e5eb17637982.jpg?1585989160|https://scryfall.com/card/iko/21/luminous-broodmoth?utm_source=api>`"
@@ -80,6 +85,8 @@ msgstr "Latanie"
 #: ../../IKO.rst:31
 msgid "Whenever a creature you control without flying dies, return it to the battlefield under its owner's control with a flying counter on it."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem nie mający latanie, przywróć go na "
+"pole walki pod władaniem właściciela i ze znacznikiem latania."
 
 #: ../../IKO.rst:36
 msgid ":mtgtip:`Mythos of Snapdax<https://img.scryfall.com/cards/border_crop/front/2/7/2712a1a3-dd28-44c8-a661-5bcf68d3acaa.jpg?1585927329|https://scryfall.com/card/iko/24/mythos-of-snapdax?utm_source=api>`"
@@ -88,6 +95,10 @@ msgstr ""
 #: ../../IKO.rst:35
 msgid "Each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest. If |mana_b|\\ |mana_r| was spent to cast this spell, you choose the permanents for each player instead."
 msgstr ""
+"Każdy gracz wybiera artefakt, stwora, urok i wędrowca spośród nielądowych "
+"permanentów pod swoim władaniem, następnie poświęca pozostałe. Jeśli do "
+"rzucenia tego czaru użyto |mana_b|\\ |mana_r|, zamiast tego ty dokonujesz "
+"wyboru za każdego z graczy."
 
 #: ../../IKO.rst:42
 msgid ":mtgtip:`Pacifism<https://img.scryfall.com/cards/border_crop/front/4/7/47adc9fc-d620-4cb7-a03c-8d9578992249.jpg?1585829944|https://scryfall.com/card/iko/25/pacifism?utm_source=api>`"
@@ -113,6 +124,9 @@ msgstr ""
 #: ../../IKO.rst:51
 msgid "If noncombat damage would be dealt to Stormwild Capridor, prevent that damage. Put a +1/+1 counter on Stormwild Capridor for each 1 damage prevented this way."
 msgstr ""
+"Jeśli temu stworowi miałyby zostać zadane pozabojowe obrażenia, zażegnaj je. "
+"Umieść na tym stworze znacznik +1/+1 za każde 1 obrażenie zażegnane w ten "
+"sposób."
 
 #: ../../IKO.rst:58
 msgid ":mtgtip:`Valiant Rescuer<https://img.scryfall.com/cards/border_crop/front/a/2/a2b13ff6-67e9-4760-aef4-a8548ea44344.jpg?1585927343|https://scryfall.com/card/iko/36/valiant-rescuer?utm_source=api>`"
@@ -150,6 +164,8 @@ msgstr ""
 #: ../../IKO.rst:61
 msgid "Target creature gets +2/+2 until end of turn. If it's blocking, instead put two +1/+1 counters on it."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli blokuje, zamiast tego "
+"umieść na nim dwa znaczniki +1/+1."
 
 #: ../../IKO.rst:70
 msgid ":mtgtip:`Archipelagore<https://img.scryfall.com/cards/border_crop/front/f/2/f24b1030-64d5-4c94-a04c-1d9520bfddab.jpg?1585918192|https://scryfall.com/card/iko/41/archipelagore?utm_source=api>`"
@@ -162,6 +178,9 @@ msgstr ""
 #: ../../IKO.rst:69
 msgid "Whenever this creature mutates, tap up to X target creatures, where X is the number of times this creature has mutated. Those creatures don't untap during their controller's next untap step."
 msgstr ""
+"Ilekroć ten stwór mutuje, przekręć co najwyżej X wskazanych stworów, gdzie X "
+"jest liczbą mutacji tego stwora. Owe stwory nie odkręcą się w kroku "
+"odkręcania swoich władców."
 
 #: ../../IKO.rst:76
 msgid ":mtgtip:`Boon of the Wish-Giver<https://img.scryfall.com/cards/border_crop/front/0/e/0e790851-f0f7-4f1a-80e6-94be649499b6.jpg?1585924354|https://scryfall.com/card/iko/43/boon-of-the-wish-giver?utm_source=api>`"
@@ -182,7 +201,7 @@ msgstr ""
 
 #: ../../IKO.rst:83
 msgid "Whenever this creature mutates, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór mutuje, dobierz kartę."
 
 #: ../../IKO.rst:88
 msgid ":mtgtip:`Essence Scatter<https://img.scryfall.com/cards/border_crop/front/5/f/5f79c8a0-291e-4e13-b765-4cf8c726cf30.jpg?1585833486|https://scryfall.com/card/iko/49/essence-scatter?utm_source=api>`"
