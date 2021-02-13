@@ -7,13 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-02-13 23:43+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../../KHM.rst:5
 msgid ":mtgexp:`KHM` Kaldheim"
@@ -41,7 +44,7 @@ msgstr ""
 
 #: ../../KHM.rst:17
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../KHM.rst:22
 msgid ":mtgtip:`Beskir Shieldmate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfc1df84-9c47-444b-9d58-d9c7bed51c66.jpg?1610656522|https://scryfall.com/card/khm/4/beskir-shieldmate?utm_source=api>`"
@@ -62,7 +65,7 @@ msgstr ""
 #: ../../KHM.rst:907
 #: ../../KHM.rst:1165
 msgid "Enchant permanent"
-msgstr ""
+msgstr "Zaurocz permanent"
 
 #: ../../KHM.rst:27
 msgid "Enchanted permanent can't attack, block, or crew Vehicles, and its activated abilities can't be activated unless they're mana abilities."
@@ -85,7 +88,7 @@ msgstr ""
 #: ../../KHM.rst:1023
 #: ../../KHM.rst:1539
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../KHM.rst:37
 msgid "When Codespell Cleric enters the battlefield, if it was the second spell you cast this turn, put a +1/+1 counter on target creature."
@@ -106,7 +109,7 @@ msgstr ""
 #: ../../KHM.rst:45
 #: ../../KHM.rst:497
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../KHM.rst:47
 msgid "Foretell |mana_1|\\ |mana_w|\\ |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
@@ -118,7 +121,7 @@ msgstr ""
 
 #: ../../KHM.rst:51
 msgid "Whenever you cast your second spell each turn, you gain 2 life."
-msgstr ""
+msgstr "Ilekroć rzucisz swój drugi czar w danej turze, zyskaj 2 życia."
 
 #: ../../KHM.rst:53
 #: ../../KHM.rst:101
@@ -146,7 +149,7 @@ msgstr ""
 #: ../../KHM.rst:489
 #: ../../KHM.rst:609
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../KHM.rst:63
 #: ../../KHM.rst:135
@@ -165,7 +168,7 @@ msgstr ""
 #: ../../KHM.rst:1863
 #: ../../KHM.rst:1883
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../KHM.rst:65
 msgid "When Glorious Protector enters the battlefield, you may exile any number of non-Angel creatures you control until Glorious Protector leaves the battlefield."
@@ -199,10 +202,14 @@ msgstr ""
 #: ../../KHM.rst:81
 msgid "Creatures you control that are enchanted or equipped have double strike."
 msgstr ""
+"Zauroczone lub wyposażone stwory pod twoim władaniem mają podwójny cios."
 
 #: ../../KHM.rst:83
 msgid "At the beginning of each combat, you may attach target Aura or Equipment attached to a creature you control to target creature you control."
 msgstr ""
+"Na początku każdej walki możesz dołączyć do wskazanego stwora pod twoim "
+"władaniem wskazaną Aurę lub Wyposażenie dołączone do stwora pod twoim "
+"władaniem."
 
 #: ../../KHM.rst:92
 msgid ":mtgtip:`Sword of the Realms<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/7/97502411-5c93-434c-b77b-ceb2c32feae7.jpg?1608253263|https://scryfall.com/card/khm/15/halvar-god-of-battle-sword-of-the-realms?utm_source=api>`"
@@ -210,15 +217,15 @@ msgstr ""
 
 #: ../../KHM.rst:87
 msgid "Equipped creature gets +2/+0 and has vigilance."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0 i ma czujność."
 
 #: ../../KHM.rst:89
 msgid "Whenever equipped creature dies, return it to its owner's hand."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór umrze, przywróć go to ręki właściciela."
 
 #: ../../KHM.rst:91
 msgid "Equip |mana_1|\\ |mana_w|"
-msgstr ""
+msgstr "Wyposaż |mana_1|\\ |mana_w|"
 
 #: ../../KHM.rst:96
 msgid ":mtgtip:`Invoke the Divine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7213d9e1-e9c6-45d8-bb7f-336c41e7b6f7.jpg?1610997029|https://scryfall.com/card/khm/16/invoke-the-divine?utm_source=api>`"
@@ -226,7 +233,7 @@ msgstr ""
 
 #: ../../KHM.rst:95
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskaj 4 życia."
 
 #: ../../KHM.rst:102
 msgid ":mtgtip:`Iron Verdict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fb38f5b-a2c2-4b06-8c9c-9615475a43e7.jpg?1610586709|https://scryfall.com/card/khm/17/iron-verdict?utm_source=api>`"
@@ -234,7 +241,7 @@ msgstr ""
 
 #: ../../KHM.rst:99
 msgid "Iron Verdict deals 5 damage to target tapped creature."
-msgstr ""
+msgstr "Ten czar zadaje 5 obrażeń wskazanemu przekręconemu stworowi."
 
 #: ../../KHM.rst:108
 msgid ":mtgtip:`Kaya's Onslaught<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f28e151f-b61b-486f-b7f8-7abde207c442.jpg?1610586077|https://scryfall.com/card/khm/18/kayas-onslaught?utm_source=api>`"
@@ -242,7 +249,7 @@ msgstr ""
 
 #: ../../KHM.rst:105
 msgid "Target creature gets +1/+1 and gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+1 oraz podwójny cios."
 
 #: ../../KHM.rst:112
 msgid ":mtgtip:`Master Skald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b269e27-8e17-4bf2-b28a-a83ecc7d22c0.jpg?1611014236|https://scryfall.com/card/khm/19/master-skald?utm_source=api>`"
@@ -251,6 +258,9 @@ msgstr ""
 #: ../../KHM.rst:111
 msgid "When Master Skald enters the battlefield, you may exile a creature card from your graveyard. If you do, return target artifact or enchantment card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać kartę stwora z twojego "
+"cmentarza. Jeśli tak zrobisz, przywróć wskazaną kartę artefaktu lub uroku z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../KHM.rst:118
 msgid ":mtgtip:`Rally the Ranks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03595195-3be2-4d18-b5c0-43b2dcc1c0f5.jpg?1610585956|https://scryfall.com/card/khm/20/rally-the-ranks?utm_source=api>`"
