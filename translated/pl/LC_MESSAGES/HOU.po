@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-12 21:37+0100\n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
 "PO-Revision-Date: 2020-03-01 22:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/hou/"
@@ -524,8 +524,8 @@ msgid ""
 "mana_w|. If you do, return Unconventional Tactics from your graveyard to "
 "your hand."
 msgstr ""
-"Ilekroć Zombi wejdzie na pole walki pod twoim władaniem, możesz zapłacić "
-"|mana_w|. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
+"Ilekroć Zombi wejdzie na pole walki pod twoim władaniem, możesz zapłacić |"
+"mana_w|. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
 "twojej ręki."
 
 #: ../../HOU.rst:164
@@ -1611,15 +1611,16 @@ msgstr ""
 #: ../../HOU.rst:507
 msgid ""
 "|tap|: Fervent Paincaster deals 1 damage to target player or planeswalker."
-msgstr "|tap|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie."
+msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie."
 
 #: ../../HOU.rst:509
 msgid ""
 "|tap|, Exert Fervent Paincaster: It deals 1 damage to target creature. (An "
 "exerted creature won't untap during your next untap step.)"
 msgstr ""
-"|tap|, wytęż tego stwora: Ten stwór zadaje wskazanemu stworowi 1 obrażenie. ("
-"Wytężony stwór nie odkręci się w twoim najbliższym kroku odkręcania.)"
+"|tap|, wytęż tego stwora: Ten stwór zadaje wskazanemu stworowi 1 obrażenie. "
+"(Wytężony stwór nie odkręci się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:514
 msgid ""
@@ -2115,8 +2116,8 @@ msgid ""
 "can deal excess combat damage to the player or planeswalker they're "
 "attacking.)"
 msgstr ""
-"Stwory pod twoim władaniem dostają do końca tury +2/+2 oraz tratowanie. ("
-"Mogą zadać nadmiar obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
+"Stwory pod twoim władaniem dostają do końca tury +2/+2 oraz tratowanie. "
+"(Mogą zadać nadmiar obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../HOU.rst:680
 msgid ""
@@ -2709,7 +2710,8 @@ msgstr ""
 
 #: ../../HOU.rst:865
 msgid "Return any number of target permanents you own to your hand."
-msgstr "Przywróć dowolną liczbę wskazanych własnych permanentów do twojej ręki."
+msgstr ""
+"Przywróć dowolną liczbę wskazanych własnych permanentów do twojej ręki."
 
 #: ../../HOU.rst:872
 msgid ""

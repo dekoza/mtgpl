@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-12 21:37+0100\n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
 "PO-Revision-Date: 2020-03-02 23:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/xln/"
@@ -165,7 +165,8 @@ msgstr "Latanie"
 
 #: ../../XLN.rst:51
 msgid "|mana_w|, |tap|: Target attacking Vampire gets +1/+1 until end of turn."
-msgstr "|mana_w|, |tap|: Wskazany atakujący Wampir dostaje do końca tury +1/+1."
+msgstr ""
+"|mana_w|, |tap|: Wskazany atakujący Wampir dostaje do końca tury +1/+1."
 
 #: ../../XLN.rst:58
 msgid ""
@@ -809,8 +810,8 @@ msgid ""
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
-"Przywróć wskazanego stwora do ręki jego właściciela. Stwórz żeton Skarbu. ("
-"To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"Przywróć wskazanego stwora do ręki jego właściciela. Stwórz żeton Skarbu. "
+"(To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
 "koloru.\")"
 
 #: ../../XLN.rst:268
@@ -1120,7 +1121,8 @@ msgstr ""
 
 #: ../../XLN.rst:363
 msgid "Put target artifact or creature on top of its owner's library."
-msgstr "Umieść wskazany artefakt lub stwora na wierzchu biblioteki właściciela."
+msgstr ""
+"Umieść wskazany artefakt lub stwora na wierzchu biblioteki właściciela."
 
 #: ../../XLN.rst:368
 msgid ""
@@ -1296,8 +1298,8 @@ msgid ""
 "artifact: Add one mana of any color.\")"
 msgstr ""
 "Skontruj wskazany czar. Stwórz X żetonów Skarbu, gdzie X jest skróconym "
-"kosztem many owego czaru. (To artefakty mające \"|tap|, poświęć ten artefakt:"
-" Weź jedną manę dowolnego koloru.\")"
+"kosztem many owego czaru. (To artefakty mające \"|tap|, poświęć ten "
+"artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:422
 msgid ""
@@ -1521,8 +1523,8 @@ msgid ""
 "Destroy target creature. Create two Treasure tokens. (They're artifacts with "
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Zniszcz wskazanego stwora. Stwórz dwa żetony Skarbu. (To artefakty mające \""
-"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Zniszcz wskazanego stwora. Stwórz dwa żetony Skarbu. (To artefakty mające \"|"
+"tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:494
 msgid ""
@@ -1534,7 +1536,8 @@ msgstr ""
 #: ../../XLN.rst:491
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
+msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../XLN.rst:493
 msgid "Draw two cards."
@@ -2164,8 +2167,8 @@ msgid ""
 "Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający \"|tap|"
-", poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający \"|"
+"tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:687
 msgid ""
@@ -2918,7 +2921,8 @@ msgstr ""
 #: ../../XLN.rst:933
 msgid ""
 "Whenever Deeproot Warrior becomes blocked, it gets +1/+1 until end of turn."
-msgstr "Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +1/+1."
+msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +1/+1."
 
 #: ../../XLN.rst:940
 msgid ""
@@ -3488,8 +3492,8 @@ msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_b|: Create a Treasure token. (It's an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"|mana_2|\\ |mana_u|\\ |mana_b|: Stwórz żeton Skarbu. (To artefakt mający \""
-"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"|mana_2|\\ |mana_u|\\ |mana_b|: Stwórz żeton Skarbu. (To artefakt mający \"|"
+"tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:1106
 msgid ""
@@ -4165,8 +4169,8 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|: Wróż 1. Umieść znacznik orientacji na tym artefakcie. "
 "Następnie jeśli są na nim trzy znaczniki orientacji, usuń owe znaczniki, "
-"transformuj ten artefakt i stwórz trzy żeton Skarbu. (To artefakty mające \""
-"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"transformuj ten artefakt i stwórz trzy żeton Skarbu. (To artefakty mające \"|"
+"tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:1326
 msgid ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-11 16:29+0100\n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
 "PO-Revision-Date: 2020-03-01 22:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/eld/"
@@ -704,7 +704,8 @@ msgstr ""
 #: ../../ELD.rst:227
 msgid ""
 "Whenever you cast a Knight spell, create a 1/1 white Human creature token."
-msgstr "Ilekroć rzucisz czar Rycerza, stwórz żeton białego stwora Człowiek 1/1."
+msgstr ""
+"Ilekroć rzucisz czar Rycerza, stwórz żeton białego stwora Człowiek 1/1."
 
 #: ../../ELD.rst:232
 msgid ""
@@ -1171,8 +1172,8 @@ msgid ""
 "bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik umieszcza dwie "
-"wierzchnie karty swojej biblioteki w swoim cmentarzu. Następnie wróż 2. ("
-"Spójrz na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolne "
+"wierzchnie karty swojej biblioteki w swoim cmentarzu. Następnie wróż 2. "
+"(Spójrz na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolne "
 "z nich na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
 "kolejności.)"
 
@@ -1305,8 +1306,8 @@ msgid ""
 "Spells your opponents cast that target Syr Elenora cost |mana_2| more to "
 "cast."
 msgstr ""
-"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
-"|mana_2| więcej."
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o |"
+"mana_2| więcej."
 
 #: ../../ELD.rst:438
 msgid ""
@@ -1474,8 +1475,8 @@ msgid ""
 "Destroy target creature. Create a Food token. (It's an artifact with \"|"
 "mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Zniszcz wskazanego stwora. Stwórz żeton Jadła. (To artefakt mający \"|mana_2|"
-", |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Zniszcz wskazanego stwora. Stwórz żeton Jadła. (To artefakt mający \"|"
+"mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:492
 msgid ""
@@ -1541,8 +1542,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice a Food: Target creature gets -3/-3 until end "
 "of turn."
 msgstr ""
-"|mana_2|\\ |mana_b|, poświęć Jadło: Wskazany stwór dostaje do końca tury -3/"
-"-3."
+"|mana_2|\\ |mana_b|, poświęć Jadło: Wskazany stwór dostaje do końca tury "
+"-3/-3."
 
 #: ../../ELD.rst:516
 msgid ""
@@ -1894,8 +1895,8 @@ msgid ""
 "If damage would be dealt to Oathsworn Knight while it has a +1/+1 counter on "
 "it, prevent that damage and remove a +1/+1 counter from it."
 msgstr ""
-"Jeśli obrażenia miałyby zostać zadane temu stworowi, gdy ma on znacznik +1/+"
-"1, zażegnaj je i usuń z tego stwora znacznik +1/+1."
+"Jeśli obrażenia miałyby zostać zadane temu stworowi, gdy ma on znacznik +1/"
+"+1, zażegnaj je i usuń z tego stwora znacznik +1/+1."
 
 #: ../../ELD.rst:626
 msgid ""
@@ -2424,8 +2425,8 @@ msgid ""
 "Equip abilities you activate that target Fervent Champion cost |mana_3| less "
 "to activate."
 msgstr ""
-"Aktywacja zdolności wyposażania wskazujących niniejszego stwora kosztuje o "
-"|mana_3| mniej."
+"Aktywacja zdolności wyposażania wskazujących niniejszego stwora kosztuje o |"
+"mana_3| mniej."
 
 #: ../../ELD.rst:792
 msgid ""
@@ -3580,8 +3581,8 @@ msgid ""
 "Preserver."
 msgstr ""
 "Ilekroć inny stwór bez typu Człowiek wejdzie na pole walki pod twoim "
-"władaniem, możesz zapłacić |mana_x|. Kiedy tak zrobisz, umieść X znaczników +"
-"1/+1 na niniejszym stworze."
+"władaniem, możesz zapłacić |mana_x|. Kiedy tak zrobisz, umieść X znaczników "
+"+1/+1 na niniejszym stworze."
 
 #: ../../ELD.rst:1138
 msgid ""
@@ -4048,8 +4049,8 @@ msgid ""
 "\"destroy\" don't destroy it.)"
 msgstr ""
 "Ilekroć ten stwór zaatakuje, inny wskazany Rycerz pod twoim władaniem "
-"zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \""
-"zniszcz\" nie niszczą go.)"
+"zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
+"\" nie niszczą go.)"
 
 #: ../../ELD.rst:1288
 msgid ""
@@ -4298,7 +4299,8 @@ msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
 
 #: ../../ELD.rst:1367
 msgid "|mana_1|, |tap|, Sacrifice Golden Egg: Add one mana of any color."
-msgstr "|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
+msgstr ""
+"|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
 
 #: ../../ELD.rst:1369
 msgid "|mana_2|, |tap|, Sacrifice Golden Egg: You gain 3 life."
@@ -4887,7 +4889,8 @@ msgstr ""
 
 #: ../../ELD.rst:1569
 msgid "|mana_r|: All creatures gain trample and haste until end of turn."
-msgstr "|mana_r|: Wszystkie stwory zyskują tratowanie i pośpiech do końcu tury."
+msgstr ""
+"|mana_r|: Wszystkie stwory zyskują tratowanie i pośpiech do końcu tury."
 
 #: ../../ELD.rst:1571
 msgid "|mana_1|\\ |mana_g|: Put a +1/+1 counter on target creature."
@@ -5069,8 +5072,8 @@ msgid ""
 "Trickster, reveal it, and put it into your hand. If you search your library "
 "this way, shuffle it."
 msgstr ""
-"Stwory pod twoim władaniem mają do końca tury bazową siłę i wytrzymałość 3/"
-"3. Możesz wyszukać w twojej bibliotece i/lub cmentarzu kartę o nazwie Oko, "
+"Stwory pod twoim władaniem mają do końca tury bazową siłę i wytrzymałość "
+"3/3. Możesz wyszukać w twojej bibliotece i/lub cmentarzu kartę o nazwie Oko, "
 "the Trickster, ujawnij ją i umieść w twojej ręce. Jeśli przeszukasz twoją "
 "bibliotekę w ten sposób, przetasuj ją."
 
@@ -5208,8 +5211,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice a creature: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
-"|mana_1|\\ |mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury -2/"
-"-2."
+"|mana_1|\\ |mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury "
+"-2/-2."
 
 #: ../../ELD.rst:1684
 msgid ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-12 21:37+0100\n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
 "PO-Revision-Date: 2020-03-01 22:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m20/"
@@ -845,8 +845,8 @@ msgid ""
 "Spells your opponents cast that target Boreal Elemental cost |mana_2| more "
 "to cast."
 msgstr ""
-"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
-"|mana_2| więcej."
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o |"
+"mana_2| więcej."
 
 #: ../../M20.rst:286
 msgid ""
@@ -1599,8 +1599,8 @@ msgid ""
 "different mana costs.)"
 msgstr ""
 "Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile jest "
-"różnych kosztów many pomiędzy nie-lądowymi kartami w twoim cmentarzu. ("
-"Przykładowo, |mana_2|\\ |mana_b| i |mana_1|\\ |mana_b|\\ |mana_b| to różne "
+"różnych kosztów many pomiędzy nie-lądowymi kartami w twoim cmentarzu. "
+"(Przykładowo, |mana_2|\\ |mana_b| i |mana_1|\\ |mana_b|\\ |mana_b| to różne "
 "koszty many.)"
 
 #: ../../M20.rst:544
@@ -2252,7 +2252,8 @@ msgstr ""
 
 #: ../../M20.rst:743
 msgid "|mana_1|, Sacrifice Ember Hauler: It deals 2 damage to any target."
-msgstr "|mana_1|, poświęć tego stwora: Zadaje on wskazanemu celowi 2 obrażenia."
+msgstr ""
+"|mana_1|, poświęć tego stwora: Zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../M20.rst:746
 msgid ""
@@ -3056,8 +3057,8 @@ msgid ""
 "can deal excess combat damage to the player or planeswalker they're "
 "attacking.)"
 msgstr ""
-"Stwory pod twoim władaniem dostają do końca tury +2/+2 oraz tratowanie. ("
-"Mogą zadać nadmiar obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
+"Stwory pod twoim władaniem dostają do końca tury +2/+2 oraz tratowanie. "
+"(Mogą zadać nadmiar obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../M20.rst:1008
 msgid ""

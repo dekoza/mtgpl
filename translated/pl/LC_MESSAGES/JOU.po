@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-12 21:37+0100\n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
 "PO-Revision-Date: 2020-02-27 23:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/jou/"
@@ -964,8 +964,8 @@ msgid ""
 "(Look at the top card of your library. You may put that card on the bottom "
 "of your library.)"
 msgstr ""
-"Stwórz dwa żetony niebieskiego stwora-uroku Ptak 2/2 z lataniem. Wróż 1. ("
-"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie "
+"Stwórz dwa żetony niebieskiego stwora-uroku Ptak 2/2 z lataniem. Wróż 1. "
+"(Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie "
 "twojej biblioteki.)"
 
 #: ../../JOU.rst:270
@@ -1262,8 +1262,8 @@ msgid ""
 "until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
-"władaniem, stwory pod władaniem twoich przeciwników dostają do końca tury -1/"
-"-1."
+"władaniem, stwory pod władaniem twoich przeciwników dostają do końca tury "
+"-1/-1."
 
 #: ../../JOU.rst:350
 msgid ""
@@ -2930,7 +2930,8 @@ msgstr ""
 
 #: ../../JOU.rst:827
 msgid "|mana_w|\\ |mana_b|, Pay 1 life: Each opponent loses 1 life."
-msgstr "|mana_w|\\ |mana_b|, zapłać 1 życie: Każdy przeciwnik traci po 1 życiu."
+msgstr ""
+"|mana_w|\\ |mana_b|, zapłać 1 życie: Każdy przeciwnik traci po 1 życiu."
 
 #: ../../JOU.rst:834
 msgid ""

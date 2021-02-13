@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-12 21:37+0100\n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
 "PO-Revision-Date: 2020-03-02 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ths/"
@@ -443,9 +443,9 @@ msgid ""
 "creature. (Each |mana_w| in the mana costs of permanents you control counts "
 "toward your devotion to white.)"
 msgstr ""
-"O ile twój kult białego jest mniejszy niż pięć, ta karta nie jest stworem. ("
-"Każda |mana_w| w kosztach many permanentów pod twoim władaniem wlicza się do "
-"twojego kultu białego.)"
+"O ile twój kult białego jest mniejszy niż pięć, ta karta nie jest stworem. "
+"(Każda |mana_w| w kosztach many permanentów pod twoim władaniem wlicza się "
+"do twojego kultu białego.)"
 
 # 2d76ba454cd840c293d1e9c33ec2dd40
 # 2af1a23ba7c04359b3f50c22ccdf47aa
@@ -1406,8 +1406,8 @@ msgid ""
 "the top card of your library. You may put that card on the bottom of your "
 "library.)"
 msgstr ""
-"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|. Wróż 1. ("
-"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na "
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|. Wróż 1. "
+"(Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na "
 "spodzie twojej biblioteki.)"
 
 #: ../../THS.rst:366
@@ -1833,9 +1833,9 @@ msgid ""
 "creature. (Each |mana_b| in the mana costs of permanents you control counts "
 "toward your devotion to black.)"
 msgstr ""
-"O ile twój kult czarnego jest mniejszy niż pięć, ta karta nie jest stworem ("
-"Każda |mana_b| w kosztach many permanentów pod twoim władaniem wlicza się do "
-"twojego kultu czarnego.)"
+"O ile twój kult czarnego jest mniejszy niż pięć, ta karta nie jest stworem "
+"(Każda |mana_b| w kosztach many permanentów pod twoim władaniem wlicza się "
+"do twojego kultu czarnego.)"
 
 # 9f87f00ae09f4b0ebc78f44779e31ba5
 # 4f94fdc8b9134a5f85f00e46bb4828db
@@ -2494,7 +2494,8 @@ msgstr ""
 #: ../../THS.rst:661
 msgid ""
 "When Ember Swallower becomes monstrous, each player sacrifices three lands."
-msgstr "Kiedy ten stwór stanie się monstrualny, każdy gracz poświęca trzy lądy."
+msgstr ""
+"Kiedy ten stwór stanie się monstrualny, każdy gracz poświęca trzy lądy."
 
 #: ../../THS.rst:666
 msgid ""
@@ -2527,7 +2528,8 @@ msgstr ""
 #: ../../THS.rst:669
 msgid ""
 "Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you."
-msgstr "Ilekroć ten stwór otrzyma obrażenia, zadaje on tyle samo obrażeń tobie."
+msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje on tyle samo obrażeń tobie."
 
 # f14e16771fb24acd91b19b5efbef4b91
 # 7094f0e386554e51bc92c3d8473fd729
@@ -3418,9 +3420,9 @@ msgid ""
 "(Each |mana_g| in the mana costs of permanents you control counts toward "
 "your devotion to green.)"
 msgstr ""
-"O ile twój kult zielonego jest mniejszy niż pięć, ta karta nie jest stworem ("
-"Każda |mana_g| w kosztach many permanentów pod twoim władaniem wlicza się do "
-"twojego kultu zielonego.)"
+"O ile twój kult zielonego jest mniejszy niż pięć, ta karta nie jest stworem "
+"(Każda |mana_g| w kosztach many permanentów pod twoim władaniem wlicza się "
+"do twojego kultu zielonego.)"
 
 # 4d5861638c5f4028a2a62a850c1994a7
 # d5b0c9f521644fa1a38af5c054fabfa9
@@ -3664,8 +3666,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put "
 "two +1/+1 counters on Staunch-Hearted Warrior."
 msgstr ""
-"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść dwa znaczniki +"
-"1/+1 na tym stworze."
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść dwa znaczniki "
+"+1/+1 na tym stworze."
 
 #: ../../THS.rst:994
 msgid ""
@@ -3702,8 +3704,8 @@ msgid ""
 "(Each deals damage equal to its power to the other.)"
 msgstr ""
 "Wskaż stwora pod władaniem przeciwnika. Jeśli ów stwór umrze w tej turze, "
-"zyskaj 3 życia. Wskazany stwór pod twoim władaniem walczy z owym stworem. ("
-"Każdy zadaje drugiemu obrażenia równe swojej sile.)"
+"zyskaj 3 życia. Wskazany stwór pod twoim władaniem walczy z owym stworem. "
+"(Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../THS.rst:1002
 msgid ""
@@ -3737,8 +3739,8 @@ msgid ""
 "Until end of turn, up to two target creatures you control each gain "
 "\"Whenever this creature deals combat damage to a player, draw a card.\""
 msgstr ""
-"Do końca tury co najwyżej dwa wskazane stwory pod twoim władaniem dostają \""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę.\""
+"Do końca tury co najwyżej dwa wskazane stwory pod twoim władaniem dostają "
+"\"Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę.\""
 
 #: ../../THS.rst:1014
 msgid ""
@@ -4506,7 +4508,8 @@ msgstr ""
 # 5b7487ef9eee4f108fdb756bcaff3816
 #: ../../THS.rst:1221
 msgid "|tap|: Each player exiles the top card of their library face down."
-msgstr "|tap|: Każdy gracz wygania wierzchnią kartę swojej biblioteki, zakrytą."
+msgstr ""
+"|tap|: Każdy gracz wygania wierzchnią kartę swojej biblioteki, zakrytą."
 
 # 8a51fbfd5f21464ca8a4bb0dddce928e
 # 3fa1ecef40d742e39f83064336cb2608
