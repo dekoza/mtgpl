@@ -2,20 +2,23 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-01 14:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-02-13 15:17+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/comprules/"
+"pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../comprules.rst:5
@@ -14751,7 +14754,7 @@ msgstr ""
 
 #: ../../comprules.rst:7447 ../../comprules.rst:13173
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../comprules.rst:7452
 msgid "702.2a"
@@ -15062,7 +15065,7 @@ msgstr ""
 
 #: ../../comprules.rst:7633 ../../comprules.rst:13369
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../comprules.rst:7638
 msgid "702.8a"
@@ -15089,7 +15092,7 @@ msgstr ""
 
 #: ../../comprules.rst:7651 ../../comprules.rst:13387
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../comprules.rst:7656
 msgid "702.9a"
@@ -15560,7 +15563,7 @@ msgstr ""
 
 #: ../../comprules.rst:7929 ../../comprules.rst:13921
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../comprules.rst:7934
 msgid "702.17a"
@@ -15622,7 +15625,7 @@ msgstr ""
 
 #: ../../comprules.rst:7971 ../../comprules.rst:14210
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../comprules.rst:7976
 msgid "702.19a"
@@ -15711,7 +15714,7 @@ msgstr ""
 
 #: ../../comprules.rst:8011 ../../comprules.rst:14311
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../comprules.rst:8016
 msgid "702.20a"

@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2020, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-05 00:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-02-13 15:17+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../../IKO.rst:5
 msgid ":mtgexp:`IKO` Ikoria: Lair of Behemoths"
@@ -49,7 +51,7 @@ msgstr ""
 #: ../../IKO.rst:233
 #: ../../IKO.rst:249
 msgid "Cycling |mana_1| (|mana_1|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_1| (|mana_1|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../IKO.rst:26
 msgid ":mtgtip:`Huntmaster Liger<https://img.scryfall.com/cards/border_crop/front/0/5/058d6a7d-12b0-4d82-a5bd-91fa44bbc5e1.jpg?1585830264|https://scryfall.com/card/iko/16/huntmaster-liger?utm_source=api>`"
@@ -73,7 +75,7 @@ msgstr ""
 #: ../../IKO.rst:173
 #: ../../IKO.rst:239
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../IKO.rst:31
 msgid "Whenever a creature you control without flying dies, return it to the battlefield under its owner's control with a flying counter on it."
@@ -94,11 +96,11 @@ msgstr ""
 #: ../../IKO.rst:39
 #: ../../IKO.rst:311
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../IKO.rst:41
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../IKO.rst:44
 msgid ":mtgtip:`Savai Sabertooth<https://img.scryfall.com/cards/border_crop/front/d/4/d46702b0-7e10-462a-9aac-7564efe91804.jpg?1585921270|https://scryfall.com/card/iko/29/savai-sabertooth?utm_source=api>`"
@@ -119,6 +121,8 @@ msgstr ""
 #: ../../IKO.rst:55
 msgid "Whenever you cycle another card for the first time each turn, create a 1/1 white Human Soldier creature token."
 msgstr ""
+"Ilekroć recyklujesz inną kartę po raz pierwszy w każdej z tur, stwórz żeton "
+"białego stwora Człowiek Piechur 1/1."
 
 #: ../../IKO.rst:57
 #: ../../IKO.rst:63
@@ -137,7 +141,7 @@ msgstr ""
 #: ../../IKO.rst:605
 #: ../../IKO.rst:611
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../IKO.rst:64
 msgid ":mtgtip:`\"Knock Blocked\"<https://img.scryfall.com/cards/border_crop/front/a/a/aa7acbfa-ce3b-424d-886d-6865bc5fc085.jpg?1585920080|https://scryfall.com/card/iko/38/knock-blocked?utm_source=api>`"
@@ -165,7 +169,7 @@ msgstr ""
 
 #: ../../IKO.rst:73
 msgid "Draw four cards."
-msgstr ""
+msgstr "Dobierz cztery karty."
 
 #: ../../IKO.rst:84
 msgid ":mtgtip:`Dreamtail Heron<https://img.scryfall.com/cards/border_crop/front/c/a/ca777d40-736a-4cd6-85c4-5afd52f2fadd.jpg?1585924264|https://scryfall.com/card/iko/47/dreamtail-heron?utm_source=api>`"
@@ -186,7 +190,7 @@ msgstr ""
 
 #: ../../IKO.rst:87
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../IKO.rst:94
 msgid ":mtgtip:`Neutralize<https://img.scryfall.com/cards/border_crop/front/0/4/0430da3c-9460-4b62-ae28-2e7e6f4d06a4.jpg?1585920468|https://scryfall.com/card/iko/59/neutralize?utm_source=api>`"
@@ -194,7 +198,7 @@ msgstr ""
 
 #: ../../IKO.rst:91
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../IKO.rst:102
 msgid ":mtgtip:`\"What's Kraken\"<https://img.scryfall.com/cards/border_crop/front/c/e/ce8965f2-756a-4461-a643-db024a11c2de.jpg?1586003022|https://scryfall.com/card/iko/61/whats-kraken?utm_source=api>`"
@@ -237,7 +241,7 @@ msgstr ""
 #: ../../IKO.rst:171
 #: ../../IKO.rst:555
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../IKO.rst:119
 msgid "When this creature mutates, you may return target creature an opponent controls to its owner's hand."
@@ -250,6 +254,8 @@ msgstr ""
 #: ../../IKO.rst:123
 msgid "Whenever a creature you control deals combat damage to a player, you may draw a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, możesz "
+"dobrać kartę."
 
 #: ../../IKO.rst:134
 msgid ":mtgtip:`Shark Typhoon<https://img.scryfall.com/cards/border_crop/front/1/d/1da4d4f3-b3cb-4b61-81b8-06ae441c41bf.jpg?1585954666|https://scryfall.com/card/iko/67/shark-typhoon?utm_source=api>`"
@@ -310,6 +316,8 @@ msgstr ""
 #: ../../IKO.rst:157
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../IKO.rst:159
 msgid "Whenever this creature mutates, each opponent discards a card."
@@ -371,7 +379,7 @@ msgstr ""
 #: ../../IKO.rst:207
 #: ../../IKO.rst:429
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../IKO.rst:195
 msgid "Whenever this creature mutates, each opponents loses X life and you gain X life, where X is the number of times this creature has mutated."
@@ -433,7 +441,7 @@ msgstr ""
 #: ../../IKO.rst:225
 #: ../../IKO.rst:339
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../IKO.rst:227
 msgid "Whenever this creature mutates, you may discard a card. If you do, draw a card."
@@ -461,7 +469,7 @@ msgstr ""
 
 #: ../../IKO.rst:245
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../IKO.rst:247
 msgid "Enchanted land has \"|tap|: Target creature gains trample and haste until end of turn.\""
@@ -505,11 +513,11 @@ msgstr ""
 
 #: ../../IKO.rst:271
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../IKO.rst:273
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../IKO.rst:275
 msgid "Shredded Sails deals 4 damage to target creature with flying."
@@ -521,7 +529,7 @@ msgstr ""
 
 #: ../../IKO.rst:281
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../IKO.rst:283
 msgid "Cycling |mana_1|\\ |mana_r|"
@@ -557,7 +565,7 @@ msgstr ""
 
 #: ../../IKO.rst:301
 msgid "Bristling Boar can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../IKO.rst:308
 msgid ":mtgtip:`\"Trump Shard\"<https://img.scryfall.com/cards/border_crop/front/4/b/4bf147a6-2282-4120-9cbd-d0309fc9b02b.jpg?1585927803|https://scryfall.com/card/iko/147/trump-shard?utm_source=api>`"
@@ -566,6 +574,7 @@ msgstr ""
 #: ../../IKO.rst:305
 msgid "As an additional cost to cast this spell, reveal a creature card from your hand."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru, ujawnij kartę stwora z twojej ręki."
 
 #: ../../IKO.rst:307
 msgid "\"Trump Shard\" deals damage equal to the revealed card's power to target creature or planeswalker."
@@ -613,7 +622,7 @@ msgstr ""
 
 #: ../../IKO.rst:331
 msgid "Reach, trample"
-msgstr ""
+msgstr "Zasięg, tratowanie"
 
 #: ../../IKO.rst:333
 msgid "Whenever this creature mutates, destroy target artifact or enchantment an opponent controls."
@@ -654,6 +663,8 @@ msgstr ""
 #: ../../IKO.rst:353
 msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../IKO.rst:362
 msgid ":mtgtip:`\"Spring Cleaner\"<https://img.scryfall.com/cards/border_crop/front/6/a/6a2a287b-b83f-444f-84f7-e388beb616c2.jpg?1585989065|https://scryfall.com/card/iko/165/spring-cleaner?utm_source=api>`"
@@ -681,7 +692,7 @@ msgstr ""
 
 #: ../../IKO.rst:371
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../IKO.rst:378
 msgid ":mtgtip:`\"Mythos of Brokkos\"<https://img.scryfall.com/cards/border_crop/front/f/a/fa4fc5b1-6666-4c60-898f-f927212c7923.jpg?1585958119|https://scryfall.com/card/iko/168/mythos-of-brokkos?utm_source=api>`"
@@ -705,11 +716,13 @@ msgstr ""
 #: ../../IKO.rst:567
 #: ../../IKO.rst:615
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../IKO.rst:383
 msgid "Cycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../IKO.rst:385
 msgid "When you cycle Titanoth Rex, put a trample counter on target creature you control."
@@ -722,6 +735,7 @@ msgstr ""
 #: ../../IKO.rst:389
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../IKO.rst:391
 msgid "You may cast creature spells from the top of your library."
@@ -741,7 +755,7 @@ msgstr ""
 
 #: ../../IKO.rst:399
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../IKO.rst:406
 msgid ":mtgtip:`Back for More<https://img.scryfall.com/cards/border_crop/front/3/f/3fc7210c-da23-4cec-9195-4de75587f40f.jpg?1585929044|https://scryfall.com/card/iko/177/back-for-more?utm_source=api>`"
@@ -781,7 +795,7 @@ msgstr ""
 
 #: ../../IKO.rst:423
 msgid "As an additional cost to cast this spell, discard X cards."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć X kart."
 
 #: ../../IKO.rst:425
 msgid "Target player draws X cards. Channeled Force deals X damage to up to one target creature or planeswalker."
@@ -857,7 +871,7 @@ msgstr ""
 
 #: ../../IKO.rst:463
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../IKO.rst:465
 msgid "Whenever this creature mutates, exile cards from the top of your library until you exile a nonland permanent card. Put that card onto the battlefield or into your hand."
@@ -869,7 +883,7 @@ msgstr ""
 
 #: ../../IKO.rst:469
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../IKO.rst:471
 msgid "Whenever a creature you control with menace becomes blocked, defending player sacrifices a creature blocking it."
@@ -889,7 +903,7 @@ msgstr ""
 
 #: ../../IKO.rst:479
 msgid "Deathtouch, lifelink"
-msgstr ""
+msgstr "Dotyk śmierci, więź życia"
 
 #: ../../IKO.rst:481
 msgid "Whenever this creature mutates, return any number of creature cards with total power 10 or less from your graveyard to the battlefield."
@@ -929,11 +943,12 @@ msgstr ""
 
 #: ../../IKO.rst:501
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../IKO.rst:503
 msgid "|tap|: Put the top two cards of your library into your graveyard."
 msgstr ""
+"|tap|: Umieść dwie wierzchnie karty twojej biblioteki w twoim cmentarzu."
 
 #: ../../IKO.rst:512
 msgid ":mtgtip:`Snapdax, Apex of the Hunt<https://img.scryfall.com/cards/border_crop/front/5/1/51fdeeb7-9868-4fc2-9c53-806244cd5488.jpg?1585832839|https://scryfall.com/card/iko/209/snapdax-apex-of-the-hunt?utm_source=api>`"
@@ -957,7 +972,7 @@ msgstr ""
 
 #: ../../IKO.rst:515
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../IKO.rst:517
 msgid "Whenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon."
@@ -985,7 +1000,7 @@ msgstr ""
 
 #: ../../IKO.rst:529
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../IKO.rst:531
 msgid "Whenever this creature mutates, you may cast target noncreature card with converted mana cost 3 or less from your graveyard without paying its mana cost."
@@ -1089,7 +1104,7 @@ msgstr ""
 
 #: ../../IKO.rst:585
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
 #: ../../IKO.rst:594
 msgid ":mtgtip:`Ketria Crystal<https://img.scryfall.com/cards/border_crop/front/7/d/7df435cb-3aeb-490a-8fca-91f3b6936965.jpg?1585948962|https://scryfall.com/card/iko/236/ketria-crystal?utm_source=api>`"
@@ -1097,7 +1112,7 @@ msgstr ""
 
 #: ../../IKO.rst:591
 msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|, |mana_u|, or |mana_r|."
 
 #: ../../IKO.rst:600
 msgid ":mtgtip:`Raugrin Crystal<https://img.scryfall.com/cards/border_crop/front/c/5/c5bce0fb-53d6-47ee-8c5a-a99e50f67fc9.jpg?1585927279|https://scryfall.com/card/iko/238/raugrin-crystal?utm_source=api>`"
@@ -1105,7 +1120,7 @@ msgstr ""
 
 #: ../../IKO.rst:597
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
 
 #: ../../IKO.rst:606
 msgid ":mtgtip:`Savai Crystal<https://img.scryfall.com/cards/border_crop/front/6/9/6954a5c1-89b1-4edd-814e-8f88fd49cda3.jpg?1585917640|https://scryfall.com/card/iko/239/savai-crystal?utm_source=api>`"
@@ -1113,7 +1128,7 @@ msgstr ""
 
 #: ../../IKO.rst:603
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
 
 #: ../../IKO.rst:612
 msgid ":mtgtip:`Zagoth Crystal<https://img.scryfall.com/cards/border_crop/front/9/1/9138a442-8e8b-465f-bb76-b6af7e6dab6f.jpg?1585917672|https://scryfall.com/card/iko/242/zagoth-crystal?utm_source=api>`"
@@ -1121,7 +1136,7 @@ msgstr ""
 
 #: ../../IKO.rst:609
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
 
 #: ../../IKO.rst:617
 msgid ":mtgtip:`Zilortha, Strength Incarnate<https://img.scryfall.com/cards/border_crop/front/9/a/9a0639a0-c898-4a07-975c-a02bdd53175b.jpg?1585830951|https://scryfall.com/card/iko/275/zilortha-strength-incarnate?utm_source=api>`"
