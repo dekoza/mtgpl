@@ -30,7 +30,7 @@ Nadchodzące
 Standard
 --------
 
-* :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |p05|
+* :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |p15|
 * :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |p05|
 * :mtgexp:`M21` :doc:`Core Set 2021<M21>` |p05|
 * :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |p05|
