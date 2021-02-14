@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-13 19:02+0000\n"
+"PO-Revision-Date: 2021-02-14 00:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: ../../IKO.rst:33
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../IKO.rst:35 ../../IKO.rst:209 ../../IKO.rst:223 ../../IKO.rst:319
 #: ../../IKO.rst:343 ../../IKO.rst:357 ../../IKO.rst:381 ../../IKO.rst:505
@@ -142,7 +142,7 @@ msgstr ""
 
 #: ../../IKO.rst:41 ../../IKO.rst:183 ../../IKO.rst:1297
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../IKO.rst:43
 #, fuzzy
@@ -541,10 +541,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:177
-#, fuzzy
-#| msgid "Enchant creature"
 msgid "Enchanted creature gets +1/+1."
-msgstr "Zaurocz stwora"
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../IKO.rst:179
 msgid ""
@@ -917,10 +915,8 @@ msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
 
 #: ../../IKO.rst:313 ../../IKO.rst:325
-#, fuzzy
-#| msgid "Draw four cards."
 msgid "Draw a card."
-msgstr "Dobierz cztery karty."
+msgstr "Dobierz kartę."
 
 #: ../../IKO.rst:320
 msgid ""
