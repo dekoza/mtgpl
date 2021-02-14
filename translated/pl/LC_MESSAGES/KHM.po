@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 14:36+0000\n"
+"PO-Revision-Date: 2021-02-14 15:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -29,6 +29,9 @@ msgstr ""
 #: ../../KHM.rst:9
 msgid "Boast — |mana_1|\\ |mana_w|: Untap Axgard Braggart. Put a +1/+1 counter on it. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|\\ |mana_w|: Odkręć tego stwora. Umieść na nim "
+"znacznik +1/+1. (Tę zdolność można aktywować tylko jeśli ten stwór atakował "
+"w tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:14
 msgid ":mtgtip:`Battershield Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb79dc85-f85a-4846-9ac3-c75c64ea9c0a.jpg?1611205587|https://scryfall.com/card/khm/2/battershield-warrior?utm_source=api>`"
@@ -37,6 +40,9 @@ msgstr ""
 #: ../../KHM.rst:13
 msgid "Boast — |mana_1|\\ |mana_w|: Creatures you control get +1/+1 until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|\\ |mana_w|: Stwory pod twoim władaniem do końca tury "
+"dostają +1/+1. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w "
+"tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:18
 msgid ":mtgtip:`Battlefield Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/389f0045-218d-41cd-bdca-8a9a0ab1b31b.jpg?1610999580|https://scryfall.com/card/khm/3/battlefield-raptor?utm_source=api>`"
@@ -114,6 +120,9 @@ msgstr "Zniszcz wszystkie stwory."
 #: ../../KHM.rst:47
 msgid "Foretell |mana_1|\\ |mana_w|\\ |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_1|\\ |mana_w|\\ |mana_w| (W twojej turze możesz zapłacić "
+"|mana_2| i wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:54
 msgid ":mtgtip:`Doomskar Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dae01c8-15bb-44ad-a2c6-9bcf7a9e8c17.jpg?1610586058|https://scryfall.com/card/khm/10/doomskar-oracle?utm_source=api>`"
@@ -128,6 +137,8 @@ msgstr "Ilekroć rzucisz swój drugi czar w danej turze, zyskaj 2 życia."
 #: ../../KHM.rst:107
 msgid "Foretell |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_w| (W twojej turze możesz zapłacić |mana_2| i wygnać tę "
+"kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../KHM.rst:58
 msgid ":mtgtip:`Giant Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc71d8ca-c613-4534-bc9d-bc1e13202a2c.jpg?1611517846|https://scryfall.com/card/khm/11/giant-ox?utm_source=api>`"
@@ -176,7 +187,7 @@ msgstr ""
 
 #: ../../KHM.rst:67
 msgid "Foretell |mana_2|\\ |mana_w|"
-msgstr ""
+msgstr "Przepowiednia |mana_2|\\ |mana_w|"
 
 #: ../../KHM.rst:74
 msgid ":mtgtip:`Gods' Hall Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8e645c8-90ac-4865-b441-e64251d6c9a8.jpg?1610289885|https://scryfall.com/card/khm/13/gods-hall-guardian?utm_source=api>`"
@@ -186,6 +197,9 @@ msgstr ""
 #: ../../KHM.rst:179
 msgid "Foretell |mana_3|\\ |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_3|\\ |mana_w| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:78
 msgid ":mtgtip:`Goldmaw Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44d4cd64-8560-48f5-b0bc-f75286c1c91c.jpg?1610644356|https://scryfall.com/card/khm/14/goldmaw-champion?utm_source=api>`"
@@ -194,6 +208,9 @@ msgstr ""
 #: ../../KHM.rst:77
 msgid "Boast — |mana_1|\\ |mana_w|: Tap target creature. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|\\ |mana_w|: Przekręć wskazanego stwora. (Tę zdolność "
+"można aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na "
+"turę.)"
 
 #: ../../KHM.rst:84
 msgid ":mtgtip:`Halvar, God of Battle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97502411-5c93-434c-b77b-ceb2c32feae7.jpg?1608253263|https://scryfall.com/card/khm/15/halvar-god-of-battle-sword-of-the-realms?utm_source=api>`"
@@ -452,10 +469,15 @@ msgstr ""
 #: ../../KHM.rst:211
 msgid "Create a 4/4 white Angel Warrior creature token with flying and vigilance. If this spell was foretold, create X of those tokens instead."
 msgstr ""
+"Stwórz żeton białego stwora Anioł Wojownik 4/4 z lataniem i czujnością. "
+"Jeśli ten czar był przepowiedziany, zamiast tego stwórz X takich żetonów."
 
 #: ../../KHM.rst:213
 msgid "Foretell |mana_x|\\ |mana_x|\\ |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_x|\\ |mana_x|\\ |mana_w| (W twojej turze możesz zapłacić "
+"|mana_2| i wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:218
 msgid ":mtgtip:`Story Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3dae817-3db1-4edf-86ba-c2c2b238fcf5.jpg?1610999539|https://scryfall.com/card/khm/34/story-seeker?utm_source=api>`"
@@ -473,6 +495,9 @@ msgstr ""
 #: ../../KHM.rst:221
 msgid "Boast — |mana_1|\\ |mana_w|: Create a 1/1 white Human Warrior creature token. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|\\ |mana_w|: Stwórz żeton białego stwora Człowiek "
+"Wojownik 1/1. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w "
+"tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:230
 msgid ":mtgtip:`Valkyrie's Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97873c66-6bff-4d79-850c-1e2663098ef4.jpg?1610714064|https://scryfall.com/card/khm/36/valkyries-sword?utm_source=api>`"
@@ -517,6 +542,9 @@ msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1."
 #: ../../KHM.rst:243
 msgid "Foretell |mana_2|\\ |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_2|\\ |mana_w| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:248
 msgid ":mtgtip:`Wings of the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6b26c95-f90d-43fb-8c99-2a3aa13ac2c6.jpg?1610562354|https://scryfall.com/card/khm/39/wings-of-the-cosmos?utm_source=api>`"
@@ -533,6 +561,8 @@ msgstr ""
 #: ../../KHM.rst:251
 msgid "Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdą kartę w twojej ręce oraz każdą "
+"przepowiedzianą kartę jaką posiadasz na wygnaniu."
 
 #: ../../KHM.rst:253
 msgid "At the beginning of your end step, choose a card type, then reveal the top two cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order."
@@ -559,6 +589,9 @@ msgstr ""
 #: ../../KHM.rst:265
 msgid "Foretell |mana_4|\\ |mana_u|\\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_4|\\ |mana_u|\\ |mana_u| (W twojej turze możesz zapłacić "
+"|mana_2| i wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:270
 msgid ":mtgtip:`Annul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b1d4a59-11a0-4a55-8ac0-07377a9e6dc8.jpg?1610300632|https://scryfall.com/card/khm/42/annul?utm_source=api>`"
@@ -593,6 +626,9 @@ msgstr ""
 #: ../../KHM.rst:481
 msgid "Foretell |mana_1|\\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_1|\\ |mana_u| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:288
 msgid ":mtgtip:`Avalanche Caller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89cef049-6a47-4264-b2bc-b9d291a09c4c.jpg?1610996846|https://scryfall.com/card/khm/45/avalanche-caller?utm_source=api>`"
@@ -669,10 +705,15 @@ msgstr ""
 #: ../../KHM.rst:329
 msgid "Foretelling cards from your hand costs |mana_1| less and can be done on any player's turn."
 msgstr ""
+"Przepowiadanie kart z twojej ręki kosztuje o |mana_1| mniej i może być "
+"robione w turze każdego gracza."
 
 #: ../../KHM.rst:331
 msgid "Foretell |mana_2|\\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_2|\\ |mana_u| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:336
 msgid ":mtgtip:`Cyclone Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2d40071-cadf-48de-a8ed-d55adbfab632.jpg?1610656719|https://scryfall.com/card/khm/52/cyclone-summoner?utm_source=api>`"
@@ -696,6 +737,8 @@ msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 #: ../../KHM.rst:451
 msgid "Foretell |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_u| (W twojej turze możesz zapłacić |mana_2| i wygnać tę "
+"kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../KHM.rst:346
 msgid ":mtgtip:`Disdainful Stroke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7691ac89-f8ba-493e-aa11-5674a783dffb.jpg?1610999654|https://scryfall.com/card/khm/54/disdainful-stroke?utm_source=api>`"
@@ -847,6 +890,8 @@ msgstr ""
 #: ../../KHM.rst:403
 msgid "|tap|: Add |mana_u|. Spend this mana only to foretell a card from your hand or cast an instant or sorcery spell."
 msgstr ""
+"|tap|: Weź |mana_u|. Wydaj tę maną tylko na przepowiednię karty z twojej "
+"ręki albo rzucenie czaru sztuczki lub obrzędu."
 
 #: ../../KHM.rst:410
 msgid ":mtgtip:`Littjara Kinseekers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c119f836-0707-49e2-b6d4-25f849d054a4.jpg?1610656790|https://scryfall.com/card/khm/66/littjara-kinseekers?utm_source=api>`"
@@ -1091,6 +1136,9 @@ msgstr ""
 #: ../../KHM.rst:537
 msgid "Boast — |mana_3|\\ |mana_b|: Return target creature card from your graveyard to your hand. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_3|\\ |mana_b|: Przywróć wskazaną kartę stwora z twojego "
+"cmentarza do twojej ręki. (Tę zdolność można aktywować tylko jeśli ten stwór "
+"atakował w tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:546
 msgid ":mtgtip:`Draugr's Helm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd4aade3-b1e3-43d1-b4a8-6b55ecdb4327.jpg?1610562272|https://scryfall.com/card/khm/88/draugrs-helm?utm_source=api>`"
@@ -1125,10 +1173,14 @@ msgstr ""
 #: ../../KHM.rst:553
 msgid "Each nonland card in your hand without foretell has foretell. Its foretell cost is equal to its mana cost reduced by |mana_2|. (During your turn, you may pay |mana_2| and exile it from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Każda nielądowa karta bez przepowiedni w twojej ręce ma przepowiednię. Koszt "
+"jej przepowiedni jest równy jej kosztowi many pomniejszonemu o |mana_2|. (W "
+"twojej turze możesz zapłacić |mana_2| i wygnać tę kartę zakrytą. Rzuć ją w "
+"późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../KHM.rst:555
 msgid "Whenever you foretell a card, Dream Devourer gets +2/+0 until end of turn."
-msgstr ""
+msgstr "Ilekroć przepowiadasz kartę, ten stwór dostaje do końca tury +2/+0."
 
 #: ../../KHM.rst:560
 msgid ":mtgtip:`Duskwielder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5490b8-5652-40f5-8678-e1263ef69b5a.jpg?1610560902|https://scryfall.com/card/khm/91/duskwielder?utm_source=api>`"
@@ -1137,6 +1189,9 @@ msgstr ""
 #: ../../KHM.rst:559
 msgid "Boast — |mana_1|: Target opponent loses 1 life and you gain 1 life. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|: Wskazany przeciwnik traci 1 życie, a ty zyskaj 1 "
+"życie. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej "
+"turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:566
 msgid ":mtgtip:`Egon, God of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9dfdb73d-b001-4a59-b79e-8c8c1baea116.jpg?1610397419|https://scryfall.com/card/khm/92/egon-god-of-death-throne-of-death?utm_source=api>`"
@@ -1185,6 +1240,9 @@ msgstr "Latanie, więź życia, antyklątwa na wędrowców"
 #: ../../KHM.rst:581
 msgid "Boast — |mana_1|\\ |mana_b|, Sacrifice a creature: Each opponent sacrifices a creature or planeswalker. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|\\ |mana_b|, poświęć stwora: Każdy przeciwnik poświęca "
+"stwora lub wędrowca. (Tę zdolność można aktywować tylko jeśli ten stwór "
+"atakował w tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:586
 msgid ":mtgtip:`Feed the Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99a1a75b-20cf-4db9-a244-cc54411446c4.jpg?1610398737|https://scryfall.com/card/khm/95/feed-the-serpent?utm_source=api>`"
@@ -1222,10 +1280,17 @@ msgstr ""
 #: ../../KHM.rst:599
 msgid "Choose a creature type. Return up to two creature cards of that type from your graveyard to the battlefield. If this spell was foretold, return all creature cards of that type from your graveyard to the battlefield instead."
 msgstr ""
+"Wybierz typ stwora. Przywróć co najwyżej dwie karty stwór owego typu z "
+"twojego cmentarza na pole walki. Jeśli ten czar był przepowiedziany, zamiast "
+"tego przywróć wszystkie karty stworów tego typu z twojego cmentarza na pole "
+"walki."
 
 #: ../../KHM.rst:601
 msgid "Foretell |mana_5|\\ |mana_b|\\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_5|\\ |mana_b|\\ |mana_b| (W twojej turze możesz zapłacić "
+"|mana_2| i wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:606
 msgid ":mtgtip:`Infernal Pet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80340582-655b-4bf1-88fb-14bcbe17aa04.jpg?1610647808|https://scryfall.com/card/khm/99/infernal-pet?utm_source=api>`"
@@ -1253,6 +1318,9 @@ msgstr ""
 #: ../../KHM.rst:727
 msgid "Foretell |mana_1|\\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_1|\\ |mana_b| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:618
 msgid ":mtgtip:`Karfell Kennel-Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f670c380-6faa-42ec-ab41-6be8137169b2.jpg?1611000303|https://scryfall.com/card/khm/101/karfell-kennel-master?utm_source=api>`"
@@ -1281,7 +1349,7 @@ msgstr ""
 
 #: ../../KHM.rst:627
 msgid "Destroy target creature. If this spell was foretold, scry 2."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Jeśli ten czar był przepowiedziany, wróż 2."
 
 #: ../../KHM.rst:634
 msgid ":mtgtip:`Priest of the Haunted Edge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cde0f4d-5acc-4a25-a3d6-c6b9b734360c.jpg?1610999428|https://scryfall.com/card/khm/104/priest-of-the-haunted-edge?utm_source=api>`"
@@ -1318,6 +1386,9 @@ msgstr ""
 #: ../../KHM.rst:647
 msgid "Foretell |mana_3|\\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_3|\\ |mana_b| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:654
 msgid ":mtgtip:`Rise of the Dread Marn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d3a1ec1-f362-494d-a23b-6a963ce44fdd.jpg?1610586117|https://scryfall.com/card/khm/107/rise-of-the-dread-marn?utm_source=api>`"
@@ -1332,6 +1403,8 @@ msgstr ""
 #: ../../KHM.rst:653
 msgid "Foretell |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_b| (W twojej turze możesz zapłacić |mana_2| i wygnać tę "
+"kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../KHM.rst:664
 msgid ":mtgtip:`Rune of Mortality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f75a5e5-70df-49c3-abe1-8cc6975f5171.jpg?1611077142|https://scryfall.com/card/khm/108/rune-of-mortality?utm_source=api>`"
@@ -1431,6 +1504,9 @@ msgstr "Każdy gracz poświęca dwa stwory."
 #: ../../KHM.rst:699
 msgid "Foretell |mana_2|\\ |mana_b|\\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_2|\\ |mana_b|\\ |mana_b| (W twojej turze możesz zapłacić "
+"|mana_2| i wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:706
 msgid ":mtgtip:`Valki, God of Lies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1610153366|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`"
@@ -1482,6 +1558,10 @@ msgstr ""
 #: ../../KHM.rst:721
 msgid "Boast — |mana_1|\\ |mana_b|: Target player searches their library for a card, then shuffles their library and puts that card on top of it. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|\\ |mana_b|: Wskazany gracz wyszukuje kartę w swojej "
+"bibliotece, następnie tasuje swoją bibliotekę i umieszcza ową kartę na jej "
+"wierzchu. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej "
+"turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:728
 msgid ":mtgtip:`Vengeful Reaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/854c99fd-71ba-40b7-98cf-b783f01a77b4.jpg?1611078403|https://scryfall.com/card/khm/116/vengeful-reaper?utm_source=api>`"
@@ -1539,6 +1619,10 @@ msgstr "Pośpiech"
 #: ../../KHM.rst:751
 msgid "Boast — |mana_1|: You may change Arni Brokenbrow's base power to 1 plus the greatest power among other creatures you control until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|: Możesz zamienić do końca tury bazową siłę tego "
+"stwora na 1 plus największa siła spośród stworów pod twoim władaniem. (Tę "
+"zdolność można aktywować tylko jeśli ten stwór atakował w tej turze i tylko "
+"raz na turę.)"
 
 #: ../../KHM.rst:756
 msgid ":mtgtip:`Axgard Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1611000458|https://scryfall.com/card/khm/121/axgard-cavalry?utm_source=api>`"
@@ -1572,6 +1656,8 @@ msgstr ""
 #: ../../KHM.rst:765
 msgid "Creatures you control can boast twice during each of your turns rather than once."
 msgstr ""
+"Stwory pod twoim władaniem mogą w każdej turze przechwalać się dwukrotnie "
+"zamiast raz."
 
 #: ../../KHM.rst:770
 msgid ":mtgtip:`Harnfel, Horn of Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1611054410|https://scryfall.com/card/khm/123/birgi-god-of-storytelling-harnfel-horn-of-bounty?utm_source=api>`"
@@ -1639,6 +1725,8 @@ msgstr ""
 #: ../../KHM.rst:819
 msgid "Foretell |mana_r| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_r| (W twojej turze możesz zapłacić |mana_2| i wygnać tę "
+"kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../KHM.rst:800
 msgid ":mtgtip:`Demon Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f856b0e-b413-49b0-9aa7-d935ad40ae53.jpg?1611000384|https://scryfall.com/card/khm/129/demon-bolt?utm_source=api>`"
@@ -1661,6 +1749,9 @@ msgstr ""
 #: ../../KHM.rst:805
 msgid "Foretell |mana_4|\\ |mana_r| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_4|\\ |mana_r| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:814
 msgid ":mtgtip:`Dragonkin Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7f22fe4-2390-4c3d-8b5e-0cf398d97f6a.jpg?1611170448|https://scryfall.com/card/khm/131/dragonkin-berserker?utm_source=api>`"
@@ -1674,10 +1765,15 @@ msgstr "Pierwszy cios"
 #: ../../KHM.rst:811
 msgid "Boast abilities you activate cost |mana_1| less to activate for each Dragon you control."
 msgstr ""
+"Aktywacja przechwałek kosztuje cię o |mana_1| mniej za każdego Smoka pod "
+"twoim władaniem."
 
 #: ../../KHM.rst:813
 msgid "Boast — |mana_4|\\ |mana_r|: Create a 5/5 red Dragon creature token with flying. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_4|\\ |mana_r|: Stwórz żeton czerwonego stwora Smok 5/5 z "
+"lataniem. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej "
+"turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:820
 msgid ":mtgtip:`Dual Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ef580f8-efec-4d31-8dc3-2018dd48b6f4.jpg?1610586064|https://scryfall.com/card/khm/132/dual-strike?utm_source=api>`"
@@ -1716,6 +1812,9 @@ msgstr "Stwórz dwa żetony czerwonego stwora Krasnolud Berserk 2/1."
 #: ../../KHM.rst:833
 msgid "Foretell |mana_1|\\ |mana_r| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_1|\\ |mana_r| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:838
 msgid ":mtgtip:`Fearless Liberator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/212462b7-e23e-4c87-93aa-9cadefbf1ac8.jpg?1611000129|https://scryfall.com/card/khm/135/fearless-liberator?utm_source=api>`"
@@ -1724,6 +1823,9 @@ msgstr ""
 #: ../../KHM.rst:837
 msgid "Boast — |mana_2|\\ |mana_r|: Create a 2/1 red Dwarf Berserker creature token. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_2|\\ |mana_r|: Stwórz żeton czerwonego stwora Krasnolud "
+"Berserk 2/1. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w "
+"tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:844
 msgid ":mtgtip:`Fearless Pup<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0eba2250-0e9b-46fd-a4b5-23f30329e063.jpg?1610824666|https://scryfall.com/card/khm/136/fearless-pup?utm_source=api>`"
@@ -1732,6 +1834,9 @@ msgstr ""
 #: ../../KHM.rst:843
 msgid "Boast — |mana_2|\\ |mana_r|: Fearless Pup gets +2/+0 until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0. ("
+"Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej turze i "
+"tylko raz na turę.)"
 
 #: ../../KHM.rst:848
 msgid ":mtgtip:`Frenzied Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22c59e0b-5b78-4cf5-9c2a-92ccf833778f.jpg?1611170481|https://scryfall.com/card/khm/137/frenzied-raider?utm_source=api>`"
@@ -1740,6 +1845,7 @@ msgstr ""
 #: ../../KHM.rst:847
 msgid "Whenever you activate a boast ability, put a +1/+1 counter on Frenzied Raider."
 msgstr ""
+"Ilekroć aktywujesz przechwałkę, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../KHM.rst:852
 msgid ":mtgtip:`Frost Bite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/9423318a-c5a8-48d2-92f5-280d15a050a6.jpg?1610996863|https://scryfall.com/card/khm/138/frost-bite?utm_source=api>`"
@@ -1778,6 +1884,9 @@ msgstr ""
 #: ../../KHM.rst:863
 msgid "Boast — |mana_1|\\ |mana_r|: Hagi Mob deals 1 damage to any target. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 "
+"obrażenie. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej "
+"turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:868
 msgid ":mtgtip:`Immersturm Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77da4de2-4d34-40e5-8fc0-850aef05356b.jpg?1610994575|https://scryfall.com/card/khm/141/immersturm-raider?utm_source=api>`"
@@ -1847,7 +1956,7 @@ msgstr ""
 
 #: ../../KHM.rst:895
 msgid "Foretell |mana_2|\\ |mana_r|\\ |mana_r|"
-msgstr ""
+msgstr "Przepowiednia |mana_2|\\ |mana_r|\\ |mana_r|"
 
 #: ../../KHM.rst:900
 msgid ":mtgtip:`Reckless Crew<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdd68d9d-b0b9-4915-8a12-658eb0e3dd4a.jpg?1611077208|https://scryfall.com/card/khm/146/reckless-crew?utm_source=api>`"
@@ -1998,6 +2107,9 @@ msgstr ""
 #: ../../KHM.rst:967
 msgid "Boast — |mana_1|: Exile the top card of your library. You may play that card this turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|: Wygnaj wierzchnią kartę twojej biblioteki. Możesz "
+"zagrać ową kartę w tej turze. (Tę zdolność można aktywować tylko jeśli ten "
+"stwór atakował w tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:972
 msgid ":mtgtip:`Vault Robber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f68014-489d-4f51-a959-0f335541cb4e.jpg?1610852627|https://scryfall.com/card/khm/158/vault-robber?utm_source=api>`"
@@ -2028,6 +2140,9 @@ msgstr ""
 #: ../../KHM.rst:985
 msgid "Foretell |mana_2|\\ |mana_g|\\ |mana_g| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_2|\\ |mana_g|\\ |mana_g| (W twojej turze możesz zapłacić "
+"|mana_2| i wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:990
 msgid ":mtgtip:`Blessing of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42f01f4d-491e-4f25-a017-a0d9c437ac8c.jpg?1610999394|https://scryfall.com/card/khm/161/blessing-of-frost?utm_source=api>`"
@@ -2203,6 +2318,10 @@ msgstr ""
 #: ../../KHM.rst:1071
 msgid "Boast — |mana_1|\\ |mana_g|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. (Activate this ability only if this creature attacked this turn and only once each turn.)"
 msgstr ""
+"Przechwałka — |mana_1|\\ |mana_g|: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
+"bibliotekę. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w "
+"tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:1076
 msgid ":mtgtip:`Icehide Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02f3aaed-a01f-4c6a-b9bb-cd70b0f6ceb1.jpg?1610996887|https://scryfall.com/card/khm/176/icehide-troll?utm_source=api>`"
@@ -2310,6 +2429,8 @@ msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 #: ../../KHM.rst:1197
 msgid "Foretell |mana_g| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_g| (W twojej turze możesz zapłacić |mana_2| i wygnać tę "
+"kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../KHM.rst:1128
 msgid ":mtgtip:`Masked Vandal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0a9c72a-e450-41e3-80e5-06f2f1171245.jpg?1610149399|https://scryfall.com/card/khm/184/masked-vandal?utm_source=api>`"
@@ -2329,6 +2450,10 @@ msgstr ""
 #: ../../KHM.rst:1133
 msgid "When Old-Growth Troll dies, if it was a creature, return it to the battlefield. It's an Aura enchantment with enchant Forest you control and \"Enchanted Forest has '|tap|: Add |mana_g|\\ |mana_g|' and '|mana_1|, |tap|, Sacrifice this land: Create a tapped 4/4 green Troll Warrior creature token with trample.'\""
 msgstr ""
+"Kiedy ten permanent umrze, jeśli był stworem, przywróć go na pole walki. "
+"Jest urokiem typu Aura zauroczenia Lasu pod twoim władaniem i ma \"Zauroczony"
+" Las ma '|tap|: Weź |mana_g|\\ |mana_g|' oraz '|mana_1|, |tap|, poświęć ten "
+"ląd: Stwórz żeton zielonego stwora Troll Wojownik 4/4 z tratowaniem.'\""
 
 #: ../../KHM.rst:1140
 msgid ":mtgtip:`Path to the World Tree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/606da75d-382a-47a8-9739-644438594700.jpg?1610786935|https://scryfall.com/card/khm/186/path-to-the-world-tree?utm_source=api>`"
@@ -2416,6 +2541,9 @@ msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 #: ../../KHM.rst:1177
 msgid "Foretell |mana_1|\\ |mana_g| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_1|\\ |mana_g| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHM.rst:1182
 msgid ":mtgtip:`Sculptor of Winter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9dab2ca2-0039-4eac-a7dc-68756362737d.jpg?1610996915|https://scryfall.com/card/khm/193/sculptor-of-winter?utm_source=api>`"
@@ -2965,14 +3093,20 @@ msgstr ""
 #: ../../KHM.rst:1447
 msgid "I — You gain 2 life for each foretold card you own in exile."
 msgstr ""
+"I — zyskaj po 2 życia za każdą przepowiedzianą kartę na wygnaniu jaką "
+"posiadasz."
 
 #: ../../KHM.rst:1449
 msgid "II — Add |mana_w|\\ |mana_u|. Spend this mana only to foretell cards or cast spells that have foretell."
 msgstr ""
+"II — Weź |mana_w|\\ |mana_u|. Wydaj tę manę tylko do przepowiadania kart lub "
+"rzucanie czarów z przepowiednią."
 
 #: ../../KHM.rst:1451
 msgid "III — Return target card with foretell from your graveyard to your hand."
 msgstr ""
+"III — Przywróć wskazaną kartę z przepowiednią z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../KHM.rst:1462
 msgid ":mtgtip:`The Raven's Warning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00bd457-e1cc-45e1-8b2e-58f886bd6df8.jpg?1611798158|https://scryfall.com/card/khm/227/the-ravens-warning?utm_source=api>`"
@@ -3205,6 +3339,8 @@ msgstr ""
 #: ../../KHM.rst:1589
 msgid "Foretell |mana_0| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_0| (W twojej turze możesz zapłacić |mana_2| i wygnać tę "
+"kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../KHM.rst:1596
 msgid ":mtgtip:`Weathered Runestone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fc2478f-e624-46fb-85af-1254564cd4d2.jpg?1610495622|https://scryfall.com/card/khm/247/weathered-runestone?utm_source=api>`"
@@ -3403,7 +3539,7 @@ msgstr ""
 
 #: ../../KHM.rst:1697
 msgid "Highland Forest enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../KHM.rst:1704
 msgid ":mtgtip:`Ice Tunnel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cff3ef0-4dfb-472e-aa1e-77613dd0f6d8.jpg?1610996893|https://scryfall.com/card/khm/262/ice-tunnel?utm_source=api>`"
