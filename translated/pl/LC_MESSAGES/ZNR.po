@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 14:36+0000\n"
+"PO-Revision-Date: 2021-02-14 20:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../ZNR.rst:13
 msgid "Flying, double strike"
-msgstr ""
+msgstr "Latanie, podwójny cios"
 
 #: ../../ZNR.rst:15
 msgid "Whenever a creature you control deals combat damage to a player, you and that player each gain that much life."
@@ -120,6 +120,8 @@ msgstr ""
 #: ../../ZNR.rst:45
 msgid "Landfall — Whenever a land enters the battlefield under your control, creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, stwory "
+"pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../ZNR.rst:48
 msgid ":mtgtip:`Cliffhaven Sell-Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f334767-4353-4379-a934-fa67075db439.jpg?1604195546|https://scryfall.com/card/znr/8/cliffhaven-sell-sword?utm_source=api>`"
@@ -132,6 +134,8 @@ msgstr ""
 #: ../../ZNR.rst:53
 msgid "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_w|.)"
 
 #: ../../ZNR.rst:55
 msgid "Creatures you control get +1/+1 until end of turn. If this spell was kicked, those creatures get +2/+1 until end of turn instead."
@@ -143,7 +147,7 @@ msgstr ""
 
 #: ../../ZNR.rst:59
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../ZNR.rst:66
 msgid ":mtgtip:`Emeria Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6490370e-fff5-4f17-b715-74ff8df5bc7c.jpg?1604195642|https://scryfall.com/card/znr/11/emeria-captain?utm_source=api>`"
@@ -183,7 +187,7 @@ msgstr ""
 #: ../../ZNR.rst:1673
 #: ../../ZNR.rst:1707
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../ZNR.rst:82
 msgid ":mtgtip:`Expedition Healer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11a00a88-de0e-4012-9ad8-ccb187dff7df.jpg?1604195734|https://scryfall.com/card/znr/13/expedition-healer?utm_source=api>`"
@@ -223,6 +227,8 @@ msgstr ""
 #: ../../ZNR.rst:93
 msgid "Landfall — Whenever a land enters the battlefield under your control, choose one —"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, wybierz "
+"jedno —"
 
 #: ../../ZNR.rst:95
 msgid "Create a 2/2 white Cat Beast creature token."
@@ -281,6 +287,8 @@ msgstr ""
 #: ../../ZNR.rst:121
 msgid "Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_w|.)"
 
 #: ../../ZNR.rst:125
 msgid "When Kitesail Cleric enters the battlefield, if it was kicked, tap up to two target creatures."
@@ -336,7 +344,7 @@ msgstr ""
 
 #: ../../ZNR.rst:153
 msgid "Creatures you control get +2/+2 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../ZNR.rst:160
 msgid ":mtgtip:`Makindi Mesas<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/d/ada9a974-8f1f-4148-bd61-200fc14714b2.jpg?1604192616|https://scryfall.com/card/znr/26/makindi-stampede-makindi-mesas?utm_source=api>`"
@@ -381,6 +389,8 @@ msgstr ""
 #: ../../ZNR.rst:177
 msgid "Enchanted permanent can't attack or block, and its activated abilities can't be activated."
 msgstr ""
+"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
+"zdolności nie mogą być aktywowane."
 
 #: ../../ZNR.rst:182
 msgid ":mtgtip:`Ondu Inversion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6e6be8c-41c3-4348-a8dd-b40ceb24e9b4.jpg?1604243286|https://scryfall.com/card/znr/30/ondu-inversion-ondu-skyruins?utm_source=api>`"
@@ -420,7 +430,7 @@ msgstr ""
 
 #: ../../ZNR.rst:199
 msgid "Tap target creature."
-msgstr ""
+msgstr "Przekręć wskazanego stwora."
 
 #: ../../ZNR.rst:201
 #: ../../ZNR.rst:355
@@ -452,6 +462,7 @@ msgstr ""
 #: ../../ZNR.rst:215
 msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_w: Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../ZNR.rst:220
 msgid ":mtgtip:`Sejiri Shelter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f25d56f9-aa54-4657-9ac9-e93fbba3e715.jpg?1604193214|https://scryfall.com/card/znr/37/sejiri-shelter-sejiri-glacier?utm_source=api>`"
@@ -460,6 +471,8 @@ msgstr ""
 #: ../../ZNR.rst:219
 msgid "Target creature you control gains protection from the color of your choice until end of turn."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"wybranym przez ciebie kolorem."
 
 #: ../../ZNR.rst:226
 msgid ":mtgtip:`Sejiri Glacier<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/2/f25d56f9-aa54-4657-9ac9-e93fbba3e715.jpg?1604193214|https://scryfall.com/card/znr/37/sejiri-shelter-sejiri-glacier?utm_source=api>`"
@@ -523,7 +536,7 @@ msgstr ""
 
 #: ../../ZNR.rst:257
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../ZNR.rst:264
 msgid ":mtgtip:`Tazeem Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/299d60b9-0ba7-40ee-b9d0-ee8f1ea288c9.jpg?1604589296|https://scryfall.com/card/znr/43/tazeem-raptor?utm_source=api>`"
@@ -580,7 +593,7 @@ msgstr ""
 #: ../../ZNR.rst:1681
 #: ../../ZNR.rst:1711
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../ZNR.rst:294
 msgid ":mtgtip:`Bubble Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bfba7a0-d5ca-4197-9e58-21f28345f1a6.jpg?1604193650|https://scryfall.com/card/znr/47/bubble-snare?utm_source=api>`"
@@ -592,6 +605,8 @@ msgstr ""
 #: ../../ZNR.rst:461
 msgid "Kicker |mana_2|\\ |mana_u| (You may pay an additional |mana_2|\\ |mana_u| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_u| (Rzucając ten czar możesz zapłacić dodatkowo "
+"|mana_2|\\ |mana_u|.)"
 
 #: ../../ZNR.rst:289
 msgid "Enchant creature"
@@ -687,7 +702,7 @@ msgstr ""
 
 #: ../../ZNR.rst:337
 msgid "Scry 2, then draw a card."
-msgstr ""
+msgstr "Wróż 2, następnie dobierz kartę."
 
 #: ../../ZNR.rst:344
 msgid ":mtgtip:`Expedition Diviner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/090f6e94-fb5f-4861-a465-f11766303676.jpg?1604194021|https://scryfall.com/card/znr/57/expedition-diviner?utm_source=api>`"
@@ -745,7 +760,7 @@ msgstr ""
 
 #: ../../ZNR.rst:373
 msgid "Return up to two target creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć co najwyżej dwa wskazane stwory do rąk ich właścicieli."
 
 #: ../../ZNR.rst:375
 msgid "Scry 2, then draw two cards."
@@ -762,10 +777,14 @@ msgstr ""
 #: ../../ZNR.rst:381
 msgid "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_u|.)"
 
 #: ../../ZNR.rst:383
 msgid "Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card."
 msgstr ""
+"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Jeśli ten czar "
+"został podbity, dobierz kartę."
 
 #: ../../ZNR.rst:394
 msgid ":mtgtip:`Jace, Mirror Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe0ed348-e4ed-4b6a-b9d9-03539a6fb42a.jpg?1604194202|https://scryfall.com/card/znr/63/jace-mirror-mage?utm_source=api>`"
@@ -794,7 +813,7 @@ msgstr ""
 
 #: ../../ZNR.rst:397
 msgid "Counter target spell unless its controller pays |mana_1|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|."
 
 #: ../../ZNR.rst:404
 msgid ":mtgtip:`Jwari Ruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757|https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins?utm_source=api>`"
@@ -826,7 +845,7 @@ msgstr ""
 
 #: ../../ZNR.rst:415
 msgid "Gain control of target creature with converted mana cost X."
-msgstr ""
+msgstr "Zyskaj władanie nad wskazanym stworem o skróconym koszcie many X."
 
 #: ../../ZNR.rst:422
 msgid ":mtgtip:`Maddening Cacophony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10a79733-702c-4611-b073-71db7f1158b2.jpg?1604194415|https://scryfall.com/card/znr/67/maddening-cacophony?utm_source=api>`"
@@ -1025,6 +1044,7 @@ msgstr ""
 #: ../../ZNR.rst:1625
 msgid "Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_4| (Rzucając ten czar możesz dodatkowo zapłacić |mana_4|.)"
 
 #: ../../ZNR.rst:527
 msgid "When Tazeem Roilmage enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand."
@@ -1107,7 +1127,7 @@ msgstr ""
 #: ../../ZNR.rst:1677
 #: ../../ZNR.rst:1685
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../ZNR.rst:578
 msgid ":mtgtip:`Blackbloom Rogue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32779721-b021-4bd4-95d1-4a19b78d9faa.jpg?1604195281|https://scryfall.com/card/znr/91/blackbloom-rogue-blackbloom-bog?utm_source=api>`"
@@ -1140,6 +1160,7 @@ msgstr ""
 #: ../../ZNR.rst:1335
 msgid "Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_3| (Rzucając ten czar możesz dodatkowo zapłacić |mana_3|.)"
 
 #: ../../ZNR.rst:589
 msgid "Return target creature card from your graveyard to your hand. If this spell was kicked, instead return two target creature cards from your graveyard to your hand."
@@ -1179,7 +1200,7 @@ msgstr ""
 
 #: ../../ZNR.rst:611
 msgid "Destroy target creature or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../ZNR.rst:616
 msgid ":mtgtip:`Demon's Disciple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/836f5197-e42b-45e0-8170-1b0a8a5beebd.jpg?1604231452|https://scryfall.com/card/znr/97/demons-disciple?utm_source=api>`"
@@ -1236,6 +1257,8 @@ msgstr ""
 #: ../../ZNR.rst:641
 msgid "Kicker |mana_3|\\ |mana_b| (You may pay an additional |mana_3|\\ |mana_b| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_3|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_3|\\ |mana_b|.)"
 
 #: ../../ZNR.rst:643
 msgid "Flying, lifelink"
@@ -1299,15 +1322,17 @@ msgstr ""
 
 #: ../../ZNR.rst:679
 msgid "Target opponent discards two cards."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../ZNR.rst:681
 msgid "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub mniejszym z "
+"twojego cmentarza na pole walki."
 
 #: ../../ZNR.rst:683
 msgid "Destroy target creature with converted mana cost 3 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o skróconym koszcie many 3 lub mniejszym."
 
 #: ../../ZNR.rst:692
 msgid ":mtgtip:`Lithoform Blight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b36d12e-9a68-4d3d-92e8-9840cd5320bc.jpg?1604195880|https://scryfall.com/card/znr/109/lithoform-blight?utm_source=api>`"
@@ -1356,7 +1381,7 @@ msgstr ""
 
 #: ../../ZNR.rst:709
 msgid "Whenever you gain life, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, każdy przeciwnik traci po 1 życiu."
 
 #: ../../ZNR.rst:718
 msgid ":mtgtip:`Mind Carver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/105b6e18-bcd8-43b7-870d-6c7e5c06f99b.jpg?1604196057|https://scryfall.com/card/znr/113/mind-carver?utm_source=api>`"
@@ -1388,7 +1413,7 @@ msgstr ""
 
 #: ../../ZNR.rst:725
 msgid "Flying, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../ZNR.rst:727
 msgid "Nighthawk Scavenger's power is equal to 1 plus the number of card types among cards in your opponents' graveyards. (Cards in graveyards have only the characteristics of their front face.)"
@@ -1544,7 +1569,7 @@ msgstr "Wybierz jedno lub oba —"
 
 #: ../../ZNR.rst:811
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../ZNR.rst:813
 #: ../../ZNR.rst:1361
@@ -1577,7 +1602,7 @@ msgstr ""
 
 #: ../../ZNR.rst:831
 msgid "Destroy target creature with power 3 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 3 lub mniejszej."
 
 #: ../../ZNR.rst:836
 msgid ":mtgtip:`Zof Consumption<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98496d5b-1519-4f0c-8b46-0a43be643dfb.jpg?1604196785|https://scryfall.com/card/znr/132/zof-consumption-zof-bloodbog?utm_source=api>`"
@@ -1633,7 +1658,7 @@ msgstr ""
 #: ../../ZNR.rst:1703
 #: ../../ZNR.rst:1715
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../ZNR.rst:860
 msgid ":mtgtip:`Ardent Electromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8685c8e-935f-49f2-acf2-8e3c41c5b330.jpg?1604196868|https://scryfall.com/card/znr/135/ardent-electromancer?utm_source=api>`"
@@ -1650,6 +1675,7 @@ msgstr ""
 #: ../../ZNR.rst:863
 msgid "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |mana_r|.)"
 
 #: ../../ZNR.rst:865
 msgid "Cinderclasm deals 1 damage to each creature. If it was kicked, it deals 2 damage to each creature instead."
@@ -1895,7 +1921,7 @@ msgstr ""
 
 #: ../../ZNR.rst:993
 msgid "Equipped creature gets +2/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../ZNR.rst:995
 msgid "Equip |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Attach to target creature you control. Equip only as a sorcery.)"
@@ -2066,11 +2092,11 @@ msgstr ""
 
 #: ../../ZNR.rst:1091
 msgid "Defender, reach"
-msgstr ""
+msgstr "Obronność, zasięg"
 
 #: ../../ZNR.rst:1093
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 #: ../../ZNR.rst:1098
 msgid ":mtgtip:`Valakut Awakening<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/228e551e-023a-4c9a-8f32-58dae6ffdf7f.jpg?1604198379|https://scryfall.com/card/znr/174/valakut-awakening-valakut-stoneforge?utm_source=api>`"
@@ -2151,7 +2177,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1137
 msgid "Return target card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../ZNR.rst:1144
 msgid ":mtgtip:`Bala Ged Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/5/c5cb3052-358d-44a7-8cfd-cd31b236494a.jpg?1604263635|https://scryfall.com/card/znr/180/bala-ged-recovery-bala-ged-sanctuary?utm_source=api>`"
@@ -2226,6 +2252,8 @@ msgstr ""
 #: ../../ZNR.rst:1231
 msgid "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_g|.)"
 
 #: ../../ZNR.rst:1171
 msgid "If Gnarlid Colony was kicked, it enters the battlefield with two +1/+1 counters on it."
@@ -2233,7 +2261,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1173
 msgid "Each creature you control with a +1/+1 counter on it has trample."
-msgstr ""
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma tratowanie."
 
 #: ../../ZNR.rst:1186
 msgid ":mtgtip:`Inscription of Abundance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcd2e01e-a143-4b62-8b01-d253fb35c590.jpg?1604198784|https://scryfall.com/card/znr/186/inscription-of-abundance?utm_source=api>`"
@@ -2241,7 +2269,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1181
 msgid "Put two +1/+1 counters on target creature."
-msgstr ""
+msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
 #: ../../ZNR.rst:1183
 msgid "Target player gains X life, where X is the greatest power among creatures they control."
@@ -2250,6 +2278,8 @@ msgstr ""
 #: ../../ZNR.rst:1185
 msgid "Target creature you control fights target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+"władaniem."
 
 #: ../../ZNR.rst:1190
 msgid ":mtgtip:`Iridescent Hornbeetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/214ef641-b08c-42d0-94a5-3054fa7fcebc.jpg?1604263662|https://scryfall.com/card/znr/187/iridescent-hornbeetle?utm_source=api>`"
@@ -2290,6 +2320,8 @@ msgstr ""
 #: ../../ZNR.rst:1207
 msgid "Landfall — Whenever a land enters the battlefield under your control, you gain 1 life."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, zyskaj 1 "
+"życie."
 
 #: ../../ZNR.rst:1214
 msgid ":mtgtip:`Kazandu Stomper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afdfe5aa-8b15-4a89-a22a-03baf6afa4e7.jpg?1604199049|https://scryfall.com/card/znr/191/kazandu-stomper?utm_source=api>`"
@@ -2380,6 +2412,8 @@ msgstr ""
 #: ../../ZNR.rst:1261
 msgid "Target creature you control deals damage equal to its power to target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi poza twoim władaniem."
 
 #: ../../ZNR.rst:1268
 msgid ":mtgtip:`Reclaim the Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/805faf2e-97dc-4b77-bc02-a4cae980f041.jpg?1604199307|https://scryfall.com/card/znr/200/reclaim-the-wastes?utm_source=api>`"
@@ -2881,7 +2915,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1555
 msgid "Equipped creature has flying."
-msgstr ""
+msgstr "Wyposażony stwór ma latanie."
 
 #: ../../ZNR.rst:1557
 msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
@@ -3011,7 +3045,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1627
 msgid "Flying, defender"
-msgstr ""
+msgstr "Latanie, obronność"
 
 #: ../../ZNR.rst:1629
 msgid "If Skyclave Sentinel was kicked, it enters the battlefield with two +1/+1 counters on it."
@@ -3047,7 +3081,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1645
 msgid "|mana_2|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_2|: Weź jedną manę dowolnego koloru."
 
 #: ../../ZNR.rst:1654
 msgid ":mtgtip:`Utility Knife<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e5c781d-cd89-4671-8fbe-fae82c33357b.jpg?1604201108|https://scryfall.com/card/znr/256/utility-knife?utm_source=api>`"
@@ -3064,6 +3098,8 @@ msgstr "Wyposażony stwór dostaje +1/+1."
 #: ../../ZNR.rst:1653
 msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../ZNR.rst:1662
 msgid ":mtgtip:`Base Camp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc85412e-333d-4e7d-8c85-40618cf1b6c2.jpg?1604201149|https://scryfall.com/card/znr/257/base-camp?utm_source=api>`"

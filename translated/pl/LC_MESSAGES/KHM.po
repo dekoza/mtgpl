@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 15:41+0000\n"
+"PO-Revision-Date: 2021-02-14 20:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -562,7 +562,7 @@ msgstr ""
 msgid "Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile."
 msgstr ""
 "Ten stwór dostaje +1/+1 za każdą kartę w twojej ręce oraz każdą "
-"przepowiedzianą kartę jaką posiadasz na wygnaniu."
+"przepowiedzianą kartę, jaką posiadasz na wygnaniu."
 
 #: ../../KHM.rst:253
 msgid "At the beginning of your end step, choose a card type, then reveal the top two cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order."
@@ -890,7 +890,7 @@ msgstr ""
 #: ../../KHM.rst:403
 msgid "|tap|: Add |mana_u|. Spend this mana only to foretell a card from your hand or cast an instant or sorcery spell."
 msgstr ""
-"|tap|: Weź |mana_u|. Wydaj tę maną tylko na przepowiednię karty z twojej "
+"|tap|: Weź |mana_u|. Wydaj tę maną tylko na przepowiedzenie karty z twojej "
 "ręki albo rzucenie czaru sztuczki lub obrzędu."
 
 #: ../../KHM.rst:410
@@ -1282,7 +1282,7 @@ msgid "Choose a creature type. Return up to two creature cards of that type from
 msgstr ""
 "Wybierz typ stwora. Przywróć co najwyżej dwie karty stwór owego typu z "
 "twojego cmentarza na pole walki. Jeśli ten czar był przepowiedziany, zamiast "
-"tego przywróć wszystkie karty stworów tego typu z twojego cmentarza na pole "
+"tego przywróć wszystkie karty stworów owego typu z twojego cmentarza na pole "
 "walki."
 
 #: ../../KHM.rst:601
@@ -3390,7 +3390,7 @@ msgstr ""
 #: ../../KHM.rst:1659
 #: ../../KHM.rst:1687
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../KHM.rst:1615
 msgid "|mana_1|\\ |mana_r|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle your library."
@@ -3417,7 +3417,7 @@ msgstr ""
 #: ../../KHM.rst:1717
 #: ../../KHM.rst:1725
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../KHM.rst:1628
 msgid ":mtgtip:`Blightstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1608058149|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`"
@@ -3428,7 +3428,7 @@ msgstr ""
 #: ../../KHM.rst:1681
 #: ../../KHM.rst:1709
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../KHM.rst:1632
 msgid ":mtgtip:`Searstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1608058149|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`"
@@ -3438,7 +3438,7 @@ msgstr ""
 #: ../../KHM.rst:1673
 #: ../../KHM.rst:1767
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../KHM.rst:1640
 msgid ":mtgtip:`Bretagard Stronghold<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24a0f2e2-cfd7-4374-a172-4357d5de47bb.jpg?1611000604|https://scryfall.com/card/khm/253/bretagard-stronghold?utm_source=api>`"

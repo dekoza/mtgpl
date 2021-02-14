@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 14:36+0000\n"
+"PO-Revision-Date: 2021-02-14 20:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -303,7 +303,7 @@ msgstr ""
 
 #: ../../M21.rst:133
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../M21.rst:140
 msgid ":mtgtip:`Light of Promise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5f80411-0a95-4e0a-b7a8-af23ddf385cc.jpg?1594735041|https://scryfall.com/card/m21/25/light-of-promise?utm_source=api>`"
@@ -704,7 +704,7 @@ msgstr "Dobierz trzy karty."
 
 #: ../../M21.rst:345
 msgid "Return up to two target creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć co najwyżej dwa wskazane stwory do rąk ich właścicieli."
 
 #: ../../M21.rst:350
 msgid ":mtgtip:`Rewind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b832abcc-9ffd-47bf-827a-01b303c610ee.jpg?1594735655|https://scryfall.com/card/m21/63/rewind?utm_source=api>`"
@@ -1062,7 +1062,7 @@ msgstr ""
 
 #: ../../M21.rst:549
 msgid "Destroy target creature or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../M21.rst:554
 msgid ":mtgtip:`Gloom Sower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1b4f7ec-ea2e-4d90-98cd-0c92bd9f64c1.jpg?1594736141|https://scryfall.com/card/m21/100/gloom-sower?utm_source=api>`"
@@ -2429,7 +2429,7 @@ msgstr ""
 
 #: ../../M21.rst:1293
 msgid "|mana_2|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_2|: Weź jedną manę dowolnego koloru."
 
 #: ../../M21.rst:1300
 msgid ":mtgtip:`Short Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/973c166e-3e93-4ed5-b4c5-84dc158a8e4f.jpg?1594737540|https://scryfall.com/card/m21/236/short-sword?utm_source=api>`"

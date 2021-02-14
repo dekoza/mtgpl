@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-14 14:35+0000\n"
+"PO-Revision-Date: 2021-02-14 20:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -39,7 +39,7 @@ msgstr "Błysk"
 #: ../../IKO.rst:11
 msgid ""
 "Adaptive Shimmerer enters the battlefield with three +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki z trzema znacznikami +1/+1."
 
 #: ../../IKO.rst:18
 msgid ""
@@ -129,8 +129,9 @@ msgid ""
 "into the creature on top plus all abilities from under it.)"
 msgstr ""
 "Mutuj |mana_2|\\ |mana_w|\\ |mana_w| (Jeśli rzucisz ten czar za jego koszt "
-"mutacji, umieść go na lub pod wskazanym stworze pod twoim władaniem bez typu "
-"Człowiek. Mutują w stwora na wierzchu plus wszystkie zdolności pod nim.)"
+"mutacji, umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:41 ../../IKO.rst:183 ../../IKO.rst:1297
 msgid "Lifelink"
@@ -215,12 +216,16 @@ msgid ""
 "Target Human creature you control gets +1/+1 and gains indestructible until "
 "end of turn."
 msgstr ""
+"Wskazany stwór typu Człowiek pod twoim władaniem dostaje do końca tury +1/+1 "
+"i niezniszczalność."
 
 #: ../../IKO.rst:69
 msgid ""
 "Target non-Human creature you control gets +1/+1 and gains indestructible "
 "until end of turn."
 msgstr ""
+"Wskazany stwór bez typu Człowiek pod twoim władaniem dostaje do końca tury +"
+"1/+1 i niezniszczalność."
 
 #: ../../IKO.rst:76
 msgid ""
@@ -259,6 +264,8 @@ msgid ""
 "Helica Glider enters the battlefield with your choice of a flying counter or "
 "a first strike counter on it."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając dowolny znacznik spośród latania albo "
+"pierwszego ciosu."
 
 #: ../../IKO.rst:90
 msgid ""
@@ -274,8 +281,9 @@ msgid ""
 "creature on top plus all abilities from under it.)"
 msgstr ""
 "Mutuj |mana_2|\\ |mana_w| (Jeśli rzucisz ten czar za jego koszt mutacji, "
-"umieść go na lub pod wskazanym stworze pod twoim władaniem bez typu "
-"Człowiek. Mutują w stwora na wierzchu plus wszystkie zdolności pod nim.)"
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:89
 msgid ""
@@ -304,12 +312,16 @@ msgid ""
 "When Keensight Mentor enters the battlefield, put a vigilance counter on "
 "target non-Human creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik czujności na "
+"wskazanym stworze bez typu Człowiek pod twoim władaniem."
 
 #: ../../IKO.rst:101
 msgid ""
 "|mana_1|\\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you control "
 "with vigilance."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|: Umieść znacznik +1/+1 na każdym stworze pod "
+"twoim władaniem mającym czujność."
 
 #: ../../IKO.rst:108
 msgid ""
@@ -323,12 +335,16 @@ msgid ""
 "As Lavabrink Venturer enters the battlefield, choose odd or even. (Zero is "
 "even.)"
 msgstr ""
+"Umieszczając tę kartę na polu walki wybierz parzyste lub nieparzyste. (Zero "
+"jest parzyste.)"
 
 #: ../../IKO.rst:107
 msgid ""
 "Lavabrink Venturer has protection from each converted mana cost of the "
 "chosen value."
 msgstr ""
+"Ten stwór ma ochronę przed każdym skróconym kosztem many o wybranej "
+"własności."
 
 #: ../../IKO.rst:118
 msgid ""
@@ -388,8 +404,9 @@ msgid ""
 "creature on top plus all abilities from under it.)"
 msgstr ""
 "Mutuj |mana_3|\\ |mana_w| (Jeśli rzucisz ten czar za jego koszt mutacji, "
-"umieść go na lub pod wskazanym stworze pod twoim władaniem bez typu "
-"Człowiek. Mutują w stwora na wierzchu plus wszystkie zdolności pod nim.)"
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:131
 msgid "Whenever this creature mutates, you gain 4 life."
@@ -449,6 +466,8 @@ msgid ""
 "When Patagia Tiger enters the battlefield, target Human you control gets +2/"
 "+2 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany Człowiek pod twoim władaniem "
+"dostaje do końca tury +2/+2."
 
 #: ../../IKO.rst:156
 msgid ""
@@ -462,6 +481,8 @@ msgid ""
 "Whenever Perimeter Sergeant attacks, other Humans you control get +1/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inne stwory typu Człowiek pod twoim władaniem "
+"dostają do końca tury +1/+0."
 
 #: ../../IKO.rst:162
 msgid ""
@@ -472,13 +493,15 @@ msgstr ""
 
 #: ../../IKO.rst:159
 msgid "Humans you control get +1/+1."
-msgstr ""
+msgstr "Stwory typu Człowiek pod twoim władaniem dostają +1/+1."
 
 #: ../../IKO.rst:161
 msgid ""
 "|mana_2|, Tap two untapped Humans you control: Tap target creature an "
 "opponent controls."
 msgstr ""
+"|mana_2|, przekręć dwa odkręcone stwory typu Człowiek pod twoim władaniem: "
+"Przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../IKO.rst:164
 msgid ""
@@ -516,6 +539,8 @@ msgid ""
 "As long as enchanted creature has vigilance, it assigns combat damage equal "
 "to its toughness rather than its power."
 msgstr ""
+"O ile zauroczony stwór ma czujność, zadaje obrażenia bojowe równe swojej "
+"wytrzymałości zamiast siły."
 
 #: ../../IKO.rst:188
 msgid ""
@@ -537,6 +562,8 @@ msgid ""
 "When you cycle Splendor Mare, put a lifelink counter on target creature you "
 "control."
 msgstr ""
+"Recyklując tę kartę umieść znacznik więzi życia na wskazanym stworze pod "
+"twoim władaniem."
 
 #: ../../IKO.rst:192
 msgid ""
@@ -588,6 +615,8 @@ msgid ""
 "Exile target tapped creature. Put a +1/+1 counter on the creature tapped to "
 "pay this spell's additional cost."
 msgstr ""
+"Wygnaj wskazanego przekręconego stwora. Umieść znacznik +1/+1 na stworze "
+"przekręconym przy płaceniu dodatkowego kosztu tego czaru."
 
 #: ../../IKO.rst:210
 msgid ""
@@ -661,6 +690,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_5|\\ |mana_u| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:237
 msgid ""
@@ -692,6 +725,8 @@ msgid ""
 "When you cycle Avian Oddity, put a flying counter on target creature you "
 "control."
 msgstr ""
+"Recyklując tę kartę umieść znacznik latania na wskazanym stworze pod twoim "
+"władaniem."
 
 #: ../../IKO.rst:252
 msgid ""
@@ -754,6 +789,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_3|\\ |mana_u| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:277
 msgid "Whenever this creature mutates, draw a card."
@@ -1035,8 +1074,9 @@ msgid ""
 "creature on top plus all abilities from under it.)"
 msgstr ""
 "Mutuj |mana_1|\\ |mana_u| (Jeśli rzucisz ten czar za jego koszt mutacji, "
-"umieść go na lub pod wskazanym stworze pod twoim władaniem bez typu "
-"Człowiek. Mutują w stwora na wierzchu plus wszystkie zdolności pod nim.)"
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:389
 msgid "Whenever this creature deals combat damage to a player, draw a card."
@@ -1251,6 +1291,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_3|\\ |mana_b| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:457
 msgid ""
@@ -1276,6 +1320,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_4|\\ |mana_b| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:465
 msgid "Whenever this creature mutates, each opponent sacrifices a creature."
@@ -1335,12 +1383,18 @@ msgid ""
 "cost, put it over or under target non-Human creature you own. They mutate "
 "into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_4|\\ |mana_b|\\ |mana_b| (Jeśli rzucisz ten czar za jego koszt "
+"mutacji, umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:489
 msgid ""
 "Whenever this creature mutates, destroy target creature or planeswalker an "
 "opponent controls."
 msgstr ""
+"Ilekroć ten stwór mutuje, zniszcz wskazanego stwora lub wędrowca pod "
+"władaniem przeciwnika."
 
 #: ../../IKO.rst:494
 msgid ""
@@ -1462,6 +1516,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_2|\\ |mana_b| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:537 ../../IKO.rst:593 ../../IKO.rst:1027
 msgid "Deathtouch"
@@ -1659,6 +1717,8 @@ msgid ""
 "Whenever this creature mutates, target creature an opponent controls gets "
 "-2/-2 until end of turn."
 msgstr ""
+"Ilekroć ten stwór mutuje, wskazany stwór pod władaniem przeciwnika dostaje "
+"do końca tury -2/-2."
 
 #: ../../IKO.rst:610
 msgid ""
@@ -1744,6 +1804,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_3|\\ |mana_r| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:635 ../../IKO.rst:885
 msgid "Reach"
@@ -1754,6 +1818,8 @@ msgid ""
 "Whenever this creature mutates, you may discard a card. If you do, draw a "
 "card."
 msgstr ""
+"Ilekroć ten stwór mutuje, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz "
+"kartę."
 
 #: ../../IKO.rst:644
 msgid ""
@@ -1781,6 +1847,9 @@ msgid ""
 "with \"|mana_1|, Sacrifice Feather: Return target Phoenix card from your "
 "graveyard to the battlefield tapped.\""
 msgstr ""
+"Ilekroć ten stwór mutuje, stwórz żeton czerwonego artefaktu o nazwie Pióro "
+"mający \"|mana_1|, poświęć ten artefakt: Przywróć wskazaną kartę Feniksa z "
+"twojego cmentarza przekręconą na pole walki.\""
 
 #: ../../IKO.rst:656
 msgid ""
@@ -2259,6 +2328,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_5|\\ |mana_g| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:819
 msgid ""
@@ -2266,6 +2339,9 @@ msgid ""
 "until you exile X permanent cards, where X is the number of times this "
 "creature has mutated. Put those permanent cards onto the battlefield."
 msgstr ""
+"Ilekroć ten stwór mutuje, wygnaj karty z wierzchu twojej biblioteki aż "
+"wygnasz X kart permanentów, gdzie X jest liczbą mutacji tego stwora. Umieść "
+"owe karty permanentów na polu walki."
 
 #: ../../IKO.rst:826
 msgid ""
@@ -2421,6 +2497,10 @@ msgid ""
 "cost, put it over or under target non-Human creature you own. They mutate "
 "into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_1|\\ |mana_g|\\ |mana_g| (Jeśli rzucisz ten czar za jego koszt "
+"mutacji, umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:877
 msgid "Reach, trample"
@@ -2431,6 +2511,8 @@ msgid ""
 "Whenever this creature mutates, destroy target artifact or enchantment an "
 "opponent controls."
 msgstr ""
+"Ilekroć ten stwór mutuje, zniszcz wskazany artefakt lub urok pod władaniem "
+"przeciwnika."
 
 #: ../../IKO.rst:888
 msgid ""
@@ -2445,10 +2527,14 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_3|\\ |mana_g| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:887
 msgid "Whenever this creature mutates, put two +1/+1 counters on it."
-msgstr ""
+msgstr "Ilekroć ten stwór mutuje, umieść na nim dwa znaczniki +1/+1."
 
 #: ../../IKO.rst:894
 msgid ""
@@ -2584,6 +2670,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_2|\\ |mana_g| (Jeśli rzucisz ten czar za jego koszt mutacji, "
+"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:935
 msgid ""
@@ -2789,12 +2879,18 @@ msgid ""
 "mutate cost, put it over or under target non-Human creature you own. They "
 "mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_2|\\ |mana_bg|\\ |mana_bg| (Jeśli rzucisz ten czar za jego koszt "
+"mutacji, umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:1009
 msgid ""
 "Whenever this creature mutates, return target permanent card from your "
 "graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór mutuje, przywróć wskazaną kartę permanentu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../IKO.rst:1018
 msgid ""
@@ -2810,12 +2906,17 @@ msgid ""
 "for its mutate cost, put it over or under target non-Human creature you own. "
 "They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_2|\\ |mana_ub|\\ |mana_g|\\ |mana_g| (Jeśli rzucisz ten czar za "
+"jego koszt mutacji, umieść go na lub pod wskazanym stworem pod twoim "
+"władaniem bez typu Człowiek. Mutują one w stwora na wierzchu mającym "
+"wszystkie zdolności spod niego.)"
 
 #: ../../IKO.rst:1017
 msgid ""
 "You may cast Brokkos, Apex of Forever from your graveyard using its mutate "
 "ability."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza używając jego zdolności mutacji."
 
 #: ../../IKO.rst:1024
 msgid ""
@@ -2997,6 +3098,10 @@ msgid ""
 "for its mutate cost, put it over or under target non-Human creature you own. "
 "They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_3|\\ |mana_rg|\\ |mana_u|\\ |mana_u| (Jeśli rzucisz ten czar za "
+"jego koszt mutacji, umieść go na lub pod wskazanym stworem pod twoim "
+"władaniem bez typu Człowiek. Mutują one w stwora na wierzchu mającym "
+"wszystkie zdolności spod niego.)"
 
 #: ../../IKO.rst:1079
 msgid "Flying, trample"
@@ -3008,6 +3113,9 @@ msgid ""
 "until you exile a nonland permanent card. Put that card onto the battlefield "
 "or into your hand."
 msgstr ""
+"Ilekroć ten stwór mutuje, wygnaj karty z wierzchu twojej biblioteki aż "
+"wygnasz kartę nielądowego permanentu. Umieść ową kartę na polu walki lub w "
+"twojej ręce."
 
 #: ../../IKO.rst:1086
 msgid ""
@@ -3083,6 +3191,8 @@ msgid ""
 "Whenever this creature mutates, return target instant or sorcery card from "
 "your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór mutuje, przywróć wskazaną kartę sztuczki lub obrzędu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../IKO.rst:1114
 msgid ""
@@ -3133,6 +3243,8 @@ msgid ""
 "Whenever this creature mutates, return target creature card with converted "
 "mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć ten stwór mutuje, przywróć wskazaną kartę stwora o skróconym koszcie "
+"many 3 lub mniejszym z twojego cmentarza na pole walki."
 
 #: ../../IKO.rst:1128
 msgid ""
@@ -3147,6 +3259,10 @@ msgid ""
 "for its mutate cost, put it over or under target non-Human creature you own. "
 "They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_4|\\ |mana_gw|\\ |mana_b|\\ |mana_b| (Jeśli rzucisz ten czar za "
+"jego koszt mutacji, umieść go na lub pod wskazanym stworem pod twoim "
+"władaniem bez typu Człowiek. Mutują one w stwora na wierzchu mającym "
+"wszystkie zdolności spod niego.)"
 
 #: ../../IKO.rst:1125
 msgid "Deathtouch, lifelink"
@@ -3157,6 +3273,8 @@ msgid ""
 "Whenever this creature mutates, return any number of target creature cards "
 "with total power 10 or less from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć ten stwór mutuje, przywróć dowolną liczbę wskazanych kart stworów o "
+"łącznej sile 10 lub mniejszej z twojego cmentarza na pole walki."
 
 #: ../../IKO.rst:1132
 msgid ""
@@ -3352,6 +3470,10 @@ msgid ""
 "for its mutate cost, put it over or under target non-Human creature you own. "
 "They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_2|\\ |mana_br|\\ |mana_w|\\ |mana_w| (Jeśli rzucisz ten czar za "
+"jego koszt mutacji, umieść go na lub pod wskazanym stworem pod twoim "
+"władaniem bez typu Człowiek. Mutują one w stwora na wierzchu mającym "
+"wszystkie zdolności spod niego.)"
 
 #: ../../IKO.rst:1193
 msgid "Double strike"
@@ -3362,6 +3484,8 @@ msgid ""
 "Whenever this creature mutates, it deals 4 damage to target creature or "
 "planeswalker an opponent controls and you gain 4 life."
 msgstr ""
+"Ilekroć ten stwór mutuje, zadaje on wskazanemu stworowi lub wędrowcowi pod "
+"władaniem przeciwnika 4 obrażenia, a ty zyskaj 4 życia."
 
 #: ../../IKO.rst:1204
 msgid ""
@@ -3432,11 +3556,15 @@ msgid ""
 "mutate cost, put it over or under target non-Human creature you own. They "
 "mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutuj |mana_3|\\ |mana_gu|\\ |mana_gu| (Jeśli rzucisz ten czar za jego koszt "
+"mutacji, umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
+"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
+"niego.)"
 
 #: ../../IKO.rst:1221
 msgid ""
 "Whenever this creature mutates, create a 3/3 green Beast creature token."
-msgstr ""
+msgstr "Ilekroć ten stwór mutuje, stwórz żeton zielonego stwora Bestia 3/3."
 
 #: ../../IKO.rst:1230
 msgid ""
@@ -3466,6 +3594,9 @@ msgid ""
 "converted mana cost 3 or less from your graveyard without paying its mana "
 "cost."
 msgstr ""
+"Ilekroć ten stwór mutuje, możesz rzucić wskazaną nielądową kartę o skróconym "
+"koszcie many 3 lub mniejszym z twojego cmentarza bez płacenia jej kosztu "
+"many."
 
 #: ../../IKO.rst:1234
 msgid ""
