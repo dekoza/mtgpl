@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-14 01:05+0000\n"
+"PO-Revision-Date: 2021-02-14 14:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -569,7 +569,7 @@ msgstr ""
 # 58dae172f89641b189d4e6d6a102150e
 #: ../../C13.rst:167
 msgid "You draw a card at the beginning of the next turn's upkeep."
-msgstr "Dobierasz kartę na początku utrzymania następnej tury."
+msgstr "Dobierz kartę na początku kroku utrzymania najbliższej tury."
 
 #: ../../C13.rst:172
 msgid ""
@@ -2124,12 +2124,11 @@ msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:673
-#, fuzzy
 msgid ""
 "Cycling |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 # f4723785ef814f139b5d9be2c0f742b5
@@ -5746,14 +5745,12 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1931
-#, fuzzy
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1940
 msgid ""

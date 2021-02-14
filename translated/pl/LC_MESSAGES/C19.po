@@ -1,24 +1,23 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2020, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 # Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2020-03-02 22:09+0000\n"
+"PO-Revision-Date: 2021-02-14 14:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/c19/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../../C19.rst:5
 msgid ":mtgexp:`C19` Commander 2019"
@@ -658,6 +657,8 @@ msgstr "Atakujące stwory pod twoim władaniem mają dotyk śmierci."
 msgid ""
 "Whenever a creature you control deals combat damage to a player, draw a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, dobierz "
+"kartę."
 
 #: ../../C19.rst:220
 msgid ""
@@ -4403,6 +4404,8 @@ msgid ""
 "|mana_5|, |tap|, Sacrifice Gargoyle Castle: Create a 3/4 colorless Gargoyle "
 "artifact creature token with flying."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten artefakt: Stwórz żeton bezkolorowego "
+"artefaktycznego stwora Gargulec 3/4 z lataniem."
 
 #: ../../C19.rst:1460
 msgid ""
@@ -4962,14 +4965,12 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:1693
-#, fuzzy
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1700
 msgid ""

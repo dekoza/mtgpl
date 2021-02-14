@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 11:38+0000\n"
+"PO-Revision-Date: 2021-02-14 14:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -83,7 +83,7 @@ msgstr "Latanie"
 
 #: ../../ZNR.rst:27
 msgid "Each player can't cast more than one spell each turn."
-msgstr ""
+msgstr "Każdy gracz nie może rzucać więcej niż jednego czaru na turę."
 
 #: ../../ZNR.rst:29
 msgid "Nonbasic lands your opponents control enter the battlefield tapped."
@@ -388,7 +388,7 @@ msgstr ""
 
 #: ../../ZNR.rst:181
 msgid "Destroy all nonland permanents."
-msgstr ""
+msgstr "Zniszcz wszystkie nielądowe permanenty."
 
 #: ../../ZNR.rst:188
 msgid ":mtgtip:`Ondu Skyruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/6/b6e6be8c-41c3-4348-a8dd-b40ceb24e9b4.jpg?1604243286|https://scryfall.com/card/znr/30/ondu-inversion-ondu-skyruins?utm_source=api>`"
@@ -878,7 +878,7 @@ msgstr ""
 
 #: ../../ZNR.rst:447
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../ZNR.rst:454
 msgid ":mtgtip:`Nimble Trapfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1ee1a550-b7e7-48e0-bd96-a41986dbd879.jpg?1604194598|https://scryfall.com/card/znr/72/nimble-trapfinder?utm_source=api>`"
@@ -998,7 +998,7 @@ msgstr ""
 
 #: ../../ZNR.rst:513
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../ZNR.rst:515
 msgid "Landfall — Whenever a land enters the battlefield under your control, Skyclave Squid can attack this turn as though it didn't have defender."
@@ -1239,7 +1239,7 @@ msgstr ""
 
 #: ../../ZNR.rst:643
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../ZNR.rst:645
 msgid "If Ghastly Gloomhunter was kicked, it enters the battlefield with two +1/+1 counters on it."
@@ -1920,7 +1920,7 @@ msgstr ""
 #: ../../ZNR.rst:1007
 #: ../../ZNR.rst:1113
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../ZNR.rst:1009
 msgid "If Shatterskull Charger was kicked, it enters the battlefield with a +1/+1 counter on it."
@@ -2171,7 +2171,7 @@ msgstr ""
 #: ../../ZNR.rst:1665
 #: ../../ZNR.rst:1693
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../ZNR.rst:1148
 msgid ":mtgtip:`Broken Wings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0fc2dfd-85b0-4add-be18-b39549235921.jpg?1604198611|https://scryfall.com/card/znr/181/broken-wings?utm_source=api>`"
@@ -2200,7 +2200,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1157
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../ZNR.rst:1159
 msgid "Hexproof, haste"
@@ -2886,6 +2886,8 @@ msgstr ""
 #: ../../ZNR.rst:1557
 msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../ZNR.rst:1566
 msgid ":mtgtip:`Forsaken Monument<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33568871-dab0-4c09-b9f0-0ae78a46a06d.jpg?1604200741|https://scryfall.com/card/znr/244/forsaken-monument?utm_source=api>`"
@@ -2993,7 +2995,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1617
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../ZNR.rst:1619
 msgid "When Skyclave Relic enters the battlefield, if it was kicked, create two tapped tokens that are copies of Skyclave Relic."

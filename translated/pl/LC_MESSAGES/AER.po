@@ -4,23 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2020-03-02 21:27+0000\n"
+"PO-Revision-Date: 2021-02-14 14:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/aer/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/aer/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AER.rst:5
@@ -1834,8 +1833,8 @@ msgstr ""
 msgid ""
 "Permanents you control gain hexproof and indestructible until end of turn."
 msgstr ""
-"Permanenty pod twoim władaniem zyskują antyklątwę i niezniszczalność do "
-"końca tury."
+"Do końca tury permanenty pod twoim władaniem zyskują antyklątwę i "
+"niezniszczalność."
 
 #: ../../AER.rst:610
 msgid ""

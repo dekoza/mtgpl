@@ -3,23 +3,22 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2020-03-02 22:09+0000\n"
+"PO-Revision-Date: 2021-02-14 14:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m12/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m12/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../M12.rst:5
@@ -337,7 +336,7 @@ msgstr ""
 
 #: ../../M12.rst:115
 msgid "White creatures you control get +1/+1."
-msgstr ""
+msgstr "Białe stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../M12.rst:122
 msgid ""
@@ -697,7 +696,7 @@ msgstr ""
 
 #: ../../M12.rst:257
 msgid "Counter target red or green spell."
-msgstr ""
+msgstr "Skontruj wskazany czerwony lub zielony czar."
 
 #: ../../M12.rst:264
 msgid ""
@@ -897,7 +896,7 @@ msgstr ""
 
 #: ../../M12.rst:323
 msgid "|tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../M12.rst:328
 msgid ""
@@ -1185,6 +1184,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, |tap|: Exile target creature card from a graveyard. "
 "Create a 2/2 black Zombie creature token."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|: Wygnaj wskazaną kartę stwora z cmentarza. Stwórz "
+"żeton czarnego stwora Zombi 2/2."
 
 #: ../../M12.rst:432
 msgid ""
@@ -1236,7 +1237,7 @@ msgstr ""
 
 #: ../../M12.rst:449
 msgid "Destroy target green or white creature."
-msgstr ""
+msgstr "Zniszcz wskazanego zielonego lub białego stwora."
 
 #: ../../M12.rst:456
 msgid ""
@@ -1428,7 +1429,7 @@ msgstr ""
 
 #: ../../M12.rst:517
 msgid "|tap|: Destroy target tapped creature."
-msgstr ""
+msgstr "|tap|: Zniszcz wskazanego przekręconego stwora."
 
 #: ../../M12.rst:524
 msgid ""
@@ -1895,6 +1896,7 @@ msgstr ""
 #: ../../M12.rst:689
 msgid "Other Goblin creatures you control get +1/+1 and have haste."
 msgstr ""
+"Inne stwory typu Goblin pod twoim władaniem dostają +1/+1 i mają pośpiech."
 
 #: ../../M12.rst:694
 msgid ""
@@ -2313,7 +2315,7 @@ msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../M12.rst:851
 msgid "|tap|: Add |mana_g| for each Elf you control."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| za każdego Elfa pod twoim władaniem."
 
 #: ../../M12.rst:856
 msgid ""
@@ -2472,7 +2474,7 @@ msgstr ""
 
 #: ../../M12.rst:919
 msgid "Creatures you control get +3/+3 and gain trample until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +3/+3 i tratowanie."
 
 #: ../../M12.rst:924
 msgid ""

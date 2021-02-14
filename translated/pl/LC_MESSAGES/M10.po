@@ -3,23 +3,22 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:37+0100\n"
-"PO-Revision-Date: 2020-03-02 22:09+0000\n"
+"PO-Revision-Date: 2021-02-14 14:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m10/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m10/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../M10.rst:5
@@ -74,9 +73,10 @@ msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
 #: ../../M10.rst:23
-#, fuzzy
 msgid "Enchanted creature gets +1/+1 for each Plains you control and has flying."
-msgstr "Zauroczony stwór nie może atakować ani blokować."
+msgstr ""
+"Zauroczony stwór dostaje +1/+1 za każdą Równinę pod twoim władaniem i ma "
+"latanie."
 
 #: ../../M10.rst:28
 msgid ""
@@ -112,18 +112,16 @@ msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
 msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 #: ../../M10.rst:37
-#, fuzzy
 msgid "Other Soldier creatures you control get +1/+1 and have vigilance."
-msgstr "Zauroczony stwór nie może atakować ani blokować."
+msgstr "Inni Piechurzy pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../M10.rst:39
-#, fuzzy
 msgid ""
 "When Captain of the Watch enters the battlefield, create three 1/1 white "
 "Soldier creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"Kiedy ten stwór wejdzie na pole walki, stwórz trzy żetony białego stwora "
+"Piechur 1/1."
 
 #: ../../M10.rst:44
 msgid ""
@@ -235,9 +233,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:85
-#, fuzzy
 msgid "White creatures you control get +1/+1."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr "Białe stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../M10.rst:92
 msgid ":mtgtip:`Indestructibility<https://img.scryfall.com/cards/border_crop/en/m10/17.jpg?1517813031|https://scryfall.com/card/m10/17/indestructibility?utm_source=api>`"
@@ -342,7 +339,7 @@ msgstr ""
 
 #: ../../M10.rst:125
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie nie-lądowe permanenty."
+msgstr "Zniszcz wszystkie nielądowe permanenty."
 
 #: ../../M10.rst:132
 msgid ""
@@ -386,13 +383,12 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:145
-#, fuzzy
 msgid ""
 "Prevent all damage that would be dealt to you and creatures you control "
 "this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej "
-"turze."
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze "
+"tobie lub stworom pod twoim władaniem."
 
 #: ../../M10.rst:150
 msgid ""
@@ -450,11 +446,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:169
-#, fuzzy
 msgid "Whenever another creature enters the battlefield, you gain 1 life."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+msgstr "Ilekroć inny stwór wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M10.rst:174
 msgid ""
@@ -493,9 +486,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:185
-#, fuzzy
 msgid "Other Soldier creatures you control get +0/+1."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr "Inni Piechurzy pod twoim władaniem dostają +0/+1."
 
 #: ../../M10.rst:190
 msgid ""
@@ -505,9 +497,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:189
-#, fuzzy
 msgid "Other Soldier creatures you control get +1/+0."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr "Inni Piechurzy pod twoim władaniem dostają +1/+0."
 
 #: ../../M10.rst:196
 msgid ""
@@ -521,9 +512,8 @@ msgid "Defender (This creature can't attack.)"
 msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../M10.rst:195
-#, fuzzy
 msgid "|mana_w|: Wall of Faith gets +0/+1 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../M10.rst:202
 msgid ""
@@ -588,16 +578,12 @@ msgid "Enchant land"
 msgstr "Zaurocz ląd"
 
 #: ../../M10.rst:223
-#, fuzzy
 msgid "As Convincing Mirage enters the battlefield, choose a basic land type."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+msgstr "Umieszczając ten urok na polu walki, wybierz typ bazowego lądu."
 
 #: ../../M10.rst:225
-#, fuzzy
 msgid "Enchanted land is the chosen type."
-msgstr "Zauroczony stwór nie może atakować ani blokować."
+msgstr "Zauroczony ląd jest wybranego typu."
 
 #: ../../M10.rst:228
 msgid ""
@@ -611,9 +597,8 @@ msgid ":mtgtip:`Disorient<https://img.scryfall.com/cards/border_crop/en/m10/48.j
 msgstr ""
 
 #: ../../M10.rst:233
-#, fuzzy
 msgid "Target creature gets -7/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór dostaje do końca tury -7/-0."
 
 #: ../../M10.rst:238
 msgid ":mtgtip:`Divination<https://img.scryfall.com/cards/border_crop/en/m10/49.jpg?1517813031|https://scryfall.com/card/m10/49/divination?utm_source=api>`"
@@ -670,9 +655,8 @@ msgid ":mtgtip:`Flashfreeze<https://img.scryfall.com/cards/border_crop/en/m10/53
 msgstr ""
 
 #: ../../M10.rst:257
-#, fuzzy
 msgid "Counter target red or green spell."
-msgstr "Skontruj wskazany czar stwora."
+msgstr "Skontruj wskazany czerwony lub zielony czar."
 
 #: ../../M10.rst:262
 msgid ""
@@ -737,9 +721,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:283
-#, fuzzy
 msgid "+2: Each player draws a card."
-msgstr "Dobierz kartę."
+msgstr "+2: Każdy gracz dobiera kartę."
 
 #: ../../M10.rst:285
 msgid "−1: Target player draws a card."
@@ -756,9 +739,8 @@ msgid ":mtgtip:`Jump<https://img.scryfall.com/cards/border_crop/en/m10/59.jpg?15
 msgstr ""
 
 #: ../../M10.rst:291
-#, fuzzy
 msgid "Target creature gains flying until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór zyskuje latanie do końca tury."
 
 #: ../../M10.rst:296
 msgid ":mtgtip:`Levitation<https://img.scryfall.com/cards/border_crop/en/m10/60.jpg?1517813031|https://scryfall.com/card/m10/60/levitation?utm_source=api>`"
@@ -777,7 +759,7 @@ msgstr ""
 
 #: ../../M10.rst:299
 msgid "|tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../M10.rst:306
 msgid ""
@@ -813,9 +795,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:315
-#, fuzzy
 msgid "Draw X cards."
-msgstr "Dobierz kartę."
+msgstr "Dobierz X kart."
 
 #: ../../M10.rst:320
 msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/en/m10/65.jpg?1517813031|https://scryfall.com/card/m10/65/negate?utm_source=api>`"
@@ -1087,11 +1068,12 @@ msgid "Other Zombie creatures you control get +1/+1."
 msgstr "Inne Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../M10.rst:421
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|, |tap|: Exile target creature card from a graveyard. "
 "Create a 2/2 black Zombie creature token."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_2|\\ |mana_b|, |tap|: Wygnaj wskazaną kartę stwora z cmentarza. Stwórz "
+"żeton czarnego stwora Zombi 2/2."
 
 #: ../../M10.rst:426
 msgid ""
@@ -1124,9 +1106,8 @@ msgid ":mtgtip:`Deathmark<https://img.scryfall.com/cards/border_crop/en/m10/90.j
 msgstr ""
 
 #: ../../M10.rst:435
-#, fuzzy
 msgid "Destroy target green or white creature."
-msgstr "Zniszcz wskazanego przekręconego stwora."
+msgstr "Zniszcz wskazanego zielonego lub białego stwora."
 
 #: ../../M10.rst:440
 msgid ""
@@ -1170,11 +1151,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:451
-#, fuzzy
 msgid "Dread Warlock can't be blocked except by black creatures."
-msgstr ""
-"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z "
-"lataniem lub zasięgiem.)"
+msgstr "Ten stwór nie może być blokowany, chyba że przez czarne stwory."
 
 #: ../../M10.rst:456
 msgid ""
@@ -1237,11 +1215,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:473
-#, fuzzy
 msgid "When Howling Banshee enters the battlefield, each player loses 3 life."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz traci po 3 życia."
 
 #: ../../M10.rst:480
 msgid ""
@@ -1298,9 +1273,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:495
-#, fuzzy
 msgid "|mana_b|: Looming Shade gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../M10.rst:500
 msgid ":mtgtip:`Megrim<https://img.scryfall.com/cards/border_crop/en/m10/104.jpg?1517813031|https://scryfall.com/card/m10/104/megrim?utm_source=api>`"
@@ -1388,9 +1362,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:527
-#, fuzzy
 msgid "|tap|: Destroy target tapped creature."
-msgstr "Zniszcz wskazanego przekręconego stwora."
+msgstr "|tap|: Zniszcz wskazanego przekręconego stwora."
 
 #: ../../M10.rst:532
 msgid ""
@@ -1476,9 +1449,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:559
-#, fuzzy
 msgid "Sacrifice a creature: Vampire Aristocrat gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Poświęć stwora: Niniejszy stwór dostaje do końca tury +2/+2."
 
 #: ../../M10.rst:566
 msgid ""
@@ -1523,9 +1495,8 @@ msgid ":mtgtip:`Weakness<https://img.scryfall.com/cards/border_crop/en/m10/121.j
 msgstr ""
 
 #: ../../M10.rst:581
-#, fuzzy
 msgid "Enchanted creature gets -2/-1."
-msgstr "Zaurocz stwora"
+msgstr "Zauroczony stwór dostaje -2/-1."
 
 #: ../../M10.rst:588
 msgid ""
@@ -1676,16 +1647,13 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:635
-#, fuzzy
 msgid "+1: Chandra Nalaar deals 1 damage to target player or planeswalker."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"+1: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie."
 
 #: ../../M10.rst:637
-#, fuzzy
 msgid "−X: Chandra Nalaar deals X damage to target creature."
-msgstr "Zniszcz wskazanego przekręconego stwora."
+msgstr "–X: Ten wędrowiec zadaje wskazanemu stworowi X obrażeń."
 
 #: ../../M10.rst:639
 msgid ""
@@ -1767,9 +1735,9 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:675
-#, fuzzy
 msgid "Other Goblin creatures you control get +1/+1 and have haste."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr ""
+"Inne stwory typu Goblin pod twoim władaniem dostają +1/+1 i mają pośpiech."
 
 #: ../../M10.rst:678
 msgid ""
@@ -1812,9 +1780,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:691
-#, fuzzy
 msgid "Jackal Familiar can't attack or block alone."
-msgstr "Zauroczony stwór nie może atakować ani blokować."
+msgstr "Ten stwór nie może samotnie atakować ani blokować."
 
 #: ../../M10.rst:696
 msgid ""
@@ -1824,7 +1791,6 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:695
-#, fuzzy
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
@@ -1847,9 +1813,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:703
-#, fuzzy
 msgid "Lightning Bolt deals 3 damage to any target."
-msgstr "Zniszcz wskazanego przekręconego stwora."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../M10.rst:708
 msgid ""
@@ -1872,11 +1837,12 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:715
-#, fuzzy
 msgid ""
 "|mana_3|\\ |mana_r|\\ |mana_r|: Return Magma Phoenix from your graveyard "
 "to your hand."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_3|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../M10.rst:720
 msgid ":mtgtip:`Manabarbs<https://img.scryfall.com/cards/border_crop/en/m10/149.jpg?1517813031|https://scryfall.com/card/m10/149/manabarbs?utm_source=api>`"
@@ -1915,9 +1881,8 @@ msgid ":mtgtip:`Pyroclasm<https://img.scryfall.com/cards/border_crop/en/m10/152.
 msgstr ""
 
 #: ../../M10.rst:731
-#, fuzzy
 msgid "Pyroclasm deals 2 damage to each creature."
-msgstr "Zniszcz wskazanego przekręconego stwora."
+msgstr "Ten czar zadaje każdemu stworowi po 2 obrażenia."
 
 #: ../../M10.rst:736
 msgid ""
@@ -1989,13 +1954,11 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:759
-#, fuzzy
 msgid ""
 "When Sparkmage Apprentice enters the battlefield, it deals 1 damage to "
 "any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M10.rst:764
 msgid ""
@@ -2084,13 +2047,12 @@ msgstr ""
 "zostaje zniszczony.)"
 
 #: ../../M10.rst:791
-#, fuzzy
 msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok albo "
+"ląd."
 
 #: ../../M10.rst:796
 msgid ""
@@ -2164,9 +2126,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:817
-#, fuzzy
 msgid "Whenever Bramble Creeper attacks, it gets +5/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Ilekroć ten stwór atakuje, dostaje on do końca tury +5/+0."
 
 #: ../../M10.rst:820
 msgid ""
@@ -2219,9 +2180,8 @@ msgid "Other Elf creatures you control get +1/+1."
 msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../M10.rst:841
-#, fuzzy
 msgid "|tap|: Add |mana_g| for each Elf you control."
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_g| za każdego Elfa pod twoim władaniem."
 
 #: ../../M10.rst:846
 msgid ""
@@ -2231,11 +2191,11 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:845
-#, fuzzy
 msgid ""
 "|mana_g|, |tap|: You may put a creature card from your hand onto the "
 "battlefield."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_g|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu walki."
 
 #: ../../M10.rst:850
 msgid ""
@@ -2278,9 +2238,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:861
-#, fuzzy
 msgid "Enchant tapped creature"
-msgstr "Zaurocz stwora"
+msgstr "Zaurocz przekręconego stwora"
 
 #: ../../M10.rst:863
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -2303,18 +2262,17 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:871
-#, fuzzy
 msgid "+1: Untap two target lands."
-msgstr "Dobierz dwie karty."
+msgstr "+1: Odkręć dwa wskazane lądy."
 
 #: ../../M10.rst:873
 msgid "−1: Create a 3/3 green Beast creature token."
 msgstr ""
 
 #: ../../M10.rst:875
-#, fuzzy
 msgid "−4: Creatures you control get +3/+3 and gain trample until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr ""
+"–4: Stwory pod twoim władaniem dostają do końca tury +3/+3 i tratowanie."
 
 #: ../../M10.rst:880
 msgid ""
@@ -2426,9 +2384,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:915
-#, fuzzy
 msgid "Target creature gets +7/+7 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór dostaje do końca tury +7/+7."
 
 #: ../../M10.rst:920
 msgid ""
@@ -2482,9 +2439,8 @@ msgid ":mtgtip:`Overrun<https://img.scryfall.com/cards/border_crop/en/m10/198.jp
 msgstr ""
 
 #: ../../M10.rst:941
-#, fuzzy
 msgid "Creatures you control get +3/+3 and gain trample until end of turn."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +3/+3 i tratowanie."
 
 #: ../../M10.rst:946
 msgid ""
@@ -2505,11 +2461,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:949
-#, fuzzy
 msgid "Protean Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../M10.rst:951
 msgid ""
@@ -2641,13 +2594,12 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:999
-#, fuzzy
 msgid ""
 "Equipped creature gets +1/+1 and has deathtouch. (Any amount of damage it"
 " deals to a creature is enough to destroy that creature.)"
 msgstr ""
-"Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby został zniszczony.)"
+"Wyposażony stwór dostaje +1/+1 i ma dotyk śmierci. (Dowolna ilość obrażeń "
+"zadana stworowi przez tę kartę wystarcza, aby został zniszczony.)"
 
 #: ../../M10.rst:1001 ../../M10.rst:1017
 msgid ""
@@ -2689,16 +2641,14 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:1013
-#, fuzzy
 msgid "Equipped creature gets +2/+4 and loses flying."
-msgstr "Zauroczony stwór nie może atakować ani blokować."
+msgstr "Wyposażony stwór dostaje +2/+4 i traci latanie."
 
 #: ../../M10.rst:1015
-#, fuzzy
 msgid "Prevent all noncombat damage that would be dealt to equipped creature."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej "
-"turze."
+"Zażegnaj wszystkie obrażenia pozabojowe, jakie mogłyby zostać zadane w tej "
+"turze wyposażonemu stworowi."
 
 #: ../../M10.rst:1022
 msgid ""
@@ -2843,13 +2793,12 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../M10.rst:1073
-#, fuzzy
 msgid ""
 "|mana_5|, |tap|, Sacrifice Gargoyle Castle: Create a 3/4 colorless "
 "Gargoyle artifact creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"|mana_5|, |tap|, poświęć ten artefakt: Stwórz żeton bezkolorowego "
+"artefaktycznego stwora Gargulec 3/4 z lataniem."
 
 #: ../../M10.rst:1080
 msgid ""
@@ -2915,14 +2864,12 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:1095
-#, fuzzy
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
 "land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../M10.rst:1100
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/m10/230.jpg?1517813031|https://scryfall.com/card/m10/230/plains?utm_source=api>`"
