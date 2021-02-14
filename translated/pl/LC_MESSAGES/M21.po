@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 01:05+0000\n"
+"PO-Revision-Date: 2021-02-14 11:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -1205,6 +1205,8 @@ msgstr ""
 #: ../../M21.rst:1299
 msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../M21.rst:636
 msgid ":mtgtip:`Masked Blackguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d61b4b71-3cbb-4422-8ce7-657ca3bb6a82.jpg?1594736285|https://scryfall.com/card/m21/113/masked-blackguard?utm_source=api>`"
@@ -1447,7 +1449,7 @@ msgstr ""
 
 #: ../../M21.rst:759
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../M21.rst:761
 msgid "Whenever a source you control deals noncombat damage to an opponent, Chandra's Incinerator deals that much damage to target creature or planeswalker that player controls."
@@ -1500,7 +1502,7 @@ msgstr ""
 #: ../../M21.rst:789
 #: ../../M21.rst:1095
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../M21.rst:791
 msgid "Creatures without flying can't block this turn."
@@ -1714,7 +1716,7 @@ msgstr ""
 #: ../../M21.rst:911
 #: ../../M21.rst:1319
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../M21.rst:918
 msgid ":mtgtip:`Traitorous Greed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab7052f1-9736-47b6-9da3-8c5ca925ab54.jpg?1594736826|https://scryfall.com/card/m21/166/traitorous-greed?utm_source=api>`"
@@ -2145,7 +2147,7 @@ msgstr ""
 
 #: ../../M21.rst:1149
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../M21.rst:1154
 msgid ":mtgtip:`Track Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b41b6c8a-bd76-4b69-ae72-4c8acac379b4.jpg?1594737287|https://scryfall.com/card/m21/211/track-down?utm_source=api>`"
@@ -2397,7 +2399,7 @@ msgstr ""
 
 #: ../../M21.rst:1285
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../M21.rst:1290
 msgid ":mtgtip:`Palladium Myr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27305aad-f1bd-4895-8611-143bc0250bee.jpg?1594737522|https://scryfall.com/card/m21/234/palladium-myr?utm_source=api>`"
@@ -2421,7 +2423,7 @@ msgstr ""
 
 #: ../../M21.rst:1297
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../M21.rst:1304
 msgid ":mtgtip:`Silent Dart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e12530d-5509-46f1-8273-dce2c1f60965.jpg?1594737548|https://scryfall.com/card/m21/237/silent-dart?utm_source=api>`"
@@ -2482,7 +2484,7 @@ msgstr ""
 #: ../../M21.rst:1333
 #: ../../M21.rst:1377
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../M21.rst:1335
 msgid "|mana_2|, |tap|: Put a +1/+1 counter on target Bird, Cat, Dog, Goat, Ox, or Snake."
@@ -2494,15 +2496,15 @@ msgstr ""
 
 #: ../../M21.rst:1339
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1341
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1343
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../M21.rst:1352
 msgid ":mtgtip:`Blossoming Sands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8483586-9a07-4f54-a390-7dd97fcea5cb.jpg?1594737617|https://scryfall.com/card/m21/244/blossoming-sands?utm_source=api>`"
@@ -2510,15 +2512,15 @@ msgstr ""
 
 #: ../../M21.rst:1347
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1349
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1351
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../M21.rst:1360
 msgid ":mtgtip:`Dismal Backwater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3b1afa0-9bb5-4566-a85e-86a5c03e0187.jpg?1594737627|https://scryfall.com/card/m21/245/dismal-backwater?utm_source=api>`"
@@ -2526,15 +2528,15 @@ msgstr ""
 
 #: ../../M21.rst:1355
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1357
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1359
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../M21.rst:1364
 msgid ":mtgtip:`Fabled Passage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d313d051-7295-4884-8cbf-f2f835fd45f4.jpg?1594737636|https://scryfall.com/card/m21/246/fabled-passage?utm_source=api>`"
@@ -2550,11 +2552,11 @@ msgstr ""
 
 #: ../../M21.rst:1367
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1369
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1371
 #: ../../M21.rst:1417
@@ -2575,15 +2577,15 @@ msgstr ""
 
 #: ../../M21.rst:1381
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1383
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1385
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../M21.rst:1394
 msgid ":mtgtip:`Scoured Barrens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feb3d45c-a28c-49d2-ab79-53ab42c7fdfd.jpg?1594737673|https://scryfall.com/card/m21/250/scoured-barrens?utm_source=api>`"
@@ -2591,16 +2593,16 @@ msgstr ""
 
 #: ../../M21.rst:1389
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1391
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1393
 #: ../../M21.rst:1433
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../M21.rst:1402
 msgid ":mtgtip:`Swiftwater Cliffs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e649fc68-fca5-4234-aff4-0ec2382a66d4.jpg?1594737682|https://scryfall.com/card/m21/251/swiftwater-cliffs?utm_source=api>`"
@@ -2608,16 +2610,16 @@ msgstr ""
 
 #: ../../M21.rst:1397
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1399
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1401
 #: ../../M21.rst:1409
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../M21.rst:1410
 msgid ":mtgtip:`Temple of Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/1652bb3c-c365-4046-b07e-3d861fa324c6.jpg?1594737690|https://scryfall.com/card/m21/252/temple-of-epiphany?utm_source=api>`"
@@ -2658,7 +2660,7 @@ msgstr ""
 #: ../../M21.rst:1425
 #: ../../M21.rst:1449
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../M21.rst:1434
 msgid ":mtgtip:`Temple of Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f5b0f0a-dc16-45e2-91ab-28e0b9f66d00.jpg?1594737718|https://scryfall.com/card/m21/255/temple-of-silence?utm_source=api>`"
@@ -2687,7 +2689,7 @@ msgstr ""
 #: ../../M21.rst:1441
 #: ../../M21.rst:1465
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../M21.rst:1450
 msgid ":mtgtip:`Thornwood Falls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f82851a5-5f70-488a-b21c-bdd65d2fca7c.jpg?1594737738|https://scryfall.com/card/m21/257/thornwood-falls?utm_source=api>`"
@@ -2695,11 +2697,11 @@ msgstr ""
 
 #: ../../M21.rst:1445
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1447
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1458
 msgid ":mtgtip:`Tranquil Cove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fee9b4b-1510-4b78-bdde-2e0bb319ee33.jpg?1594737751|https://scryfall.com/card/m21/258/tranquil-cove?utm_source=api>`"
@@ -2707,15 +2709,15 @@ msgstr ""
 
 #: ../../M21.rst:1453
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1455
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1457
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../M21.rst:1466
 msgid ":mtgtip:`Wind-Scarred Crag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56d7428b-25a7-4185-8c3e-69017bd1ba6d.jpg?1594737759|https://scryfall.com/card/m21/259/wind-scarred-crag?utm_source=api>`"
@@ -2723,11 +2725,11 @@ msgstr ""
 
 #: ../../M21.rst:1461
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1463
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../M21.rst:1470
 msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4be96696-aff8-4ef9-97dc-8221ef745de9.jpg?1594737767|https://scryfall.com/card/m21/260/plains?utm_source=api>`"
@@ -2735,7 +2737,7 @@ msgstr ""
 
 #: ../../M21.rst:1469
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../M21.rst:1474
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc9a66a1-367c-4035-a22e-00fab55be5a0.jpg?1594737796|https://scryfall.com/card/m21/263/island?utm_source=api>`"
@@ -2743,7 +2745,7 @@ msgstr ""
 
 #: ../../M21.rst:1473
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../M21.rst:1478
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30b3d647-3546-4ade-b395-f2370750a7a6.jpg?1594737824|https://scryfall.com/card/m21/266/swamp?utm_source=api>`"
@@ -2751,7 +2753,7 @@ msgstr ""
 
 #: ../../M21.rst:1477
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../M21.rst:1482
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b92c8925-ecfc-4ece-b83a-f12e98a938ab.jpg?1594737848|https://scryfall.com/card/m21/269/mountain?utm_source=api>`"
@@ -2759,7 +2761,7 @@ msgstr ""
 
 #: ../../M21.rst:1481
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../M21.rst:1486
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/3279314f-d639-4489-b2ab-3621bb3ca64b.jpg?1594737877|https://scryfall.com/card/m21/272/forest?utm_source=api>`"
@@ -2767,7 +2769,7 @@ msgstr ""
 
 #: ../../M21.rst:1485
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../M21.rst:1494
 msgid ":mtgtip:`Rin and Seri, Inseparable<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d605c780-a42a-4816-8fb9-63e3114a8246.jpg?1601478725|https://scryfall.com/card/m21/278/rin-and-seri-inseparable?utm_source=api>`"

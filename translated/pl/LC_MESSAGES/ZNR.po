@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 01:05+0000\n"
+"PO-Revision-Date: 2021-02-14 11:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: ../../ZNR.rst:129
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../ZNR.rst:131
 msgid "Equipped Warriors you control have double strike."
@@ -1613,7 +1613,7 @@ msgstr ""
 #: ../../ZNR.rst:1211
 #: ../../ZNR.rst:1341
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../ZNR.rst:856
 msgid ":mtgtip:`Akoum Teeth<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/8/d8ed0335-daa6-4dbe-a94d-4d56c8cfd093.jpg?1604196854|https://scryfall.com/card/znr/134/akoum-warrior-akoum-teeth?utm_source=api>`"
@@ -1805,7 +1805,7 @@ msgstr ""
 
 #: ../../ZNR.rst:949
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../ZNR.rst:956
 msgid ":mtgtip:`Moraug, Fury of Akoum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc5eacd7-aaa7-4720-9794-52e7b098c82c.jpg?1604197464|https://scryfall.com/card/znr/150/moraug-fury-of-akoum?utm_source=api>`"
@@ -1981,6 +1981,8 @@ msgstr ""
 #: ../../ZNR.rst:1045
 msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Zyskuje on "
+"pośpiech do końca tury."
 
 #: ../../ZNR.rst:1052
 msgid ":mtgtip:`Song-Mad Ruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/8/782ca27f-9f18-476c-b582-89c06fb2e322.jpg?1604198011|https://scryfall.com/card/znr/165/song-mad-treachery-song-mad-ruins?utm_source=api>`"
@@ -2052,7 +2054,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1085
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../ZNR.rst:1087
 msgid "Draw two cards."
@@ -2177,7 +2179,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1147
 msgid "Destroy target artifact, enchantment, or creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt, urok lub stwora z lataniem."
 
 #: ../../ZNR.rst:1152
 msgid ":mtgtip:`Canopy Baloth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b04160c-89a7-4dcd-b05d-5dc846824d64.jpg?1604198638|https://scryfall.com/card/znr/182/canopy-baloth?utm_source=api>`"
@@ -2647,7 +2649,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1423
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../ZNR.rst:1425
 msgid "|tap|: The next instant or sorcery spell you cast this turn costs |mana_x| less to cast, where X is the number of Wizards you control as this ability resolves."
@@ -2671,7 +2673,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1437
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../ZNR.rst:1439
 msgid "Whenever you cast a kicked spell, you gain 2 life."
@@ -2847,7 +2849,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1537
 msgid "Flying, deathtouch, haste"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, pośpiech"
 
 #: ../../ZNR.rst:1539
 msgid "Other creatures you control have deathtouch."
@@ -2999,7 +3001,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1621
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../ZNR.rst:1632
 msgid ":mtgtip:`Skyclave Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fac8809a-77cd-4090-8a89-12121a8da676.jpg?1604201000|https://scryfall.com/card/znr/253/skyclave-sentinel?utm_source=api>`"
@@ -3055,7 +3057,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1651
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../ZNR.rst:1653
 msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)"
@@ -3073,7 +3075,7 @@ msgstr ""
 #: ../../ZNR.rst:1697
 #: ../../ZNR.rst:1719
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../ZNR.rst:1661
 msgid "|tap|: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard."
@@ -3153,7 +3155,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1727
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../ZNR.rst:1732
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.jpg?1604201860|https://scryfall.com/card/znr/269/island?utm_source=api>`"
@@ -3161,7 +3163,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1731
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../ZNR.rst:1736
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95a58ce4-e07f-4c9c-98ae-3173d6d63cc5.jpg?1604201981|https://scryfall.com/card/znr/272/swamp?utm_source=api>`"
@@ -3169,7 +3171,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1735
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../ZNR.rst:1740
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96297bcc-8480-4b14-8612-1c395d481bce.jpg?1604202111|https://scryfall.com/card/znr/275/mountain?utm_source=api>`"
@@ -3177,7 +3179,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1739
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../ZNR.rst:1743
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d949485e-5188-49f4-9d30-5e135532d445.jpg?1604202204|https://scryfall.com/card/znr/278/forest?utm_source=api>`"
@@ -3185,4 +3187,4 @@ msgstr ""
 
 #: ../../ZNR.rst:1743
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"

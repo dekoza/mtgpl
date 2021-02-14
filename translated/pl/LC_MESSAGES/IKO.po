@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-14 01:05+0000\n"
+"PO-Revision-Date: 2021-02-14 11:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -2073,17 +2073,12 @@ msgstr ""
 "Człowiek. Mutują w stwora na wierzchu plus wszystkie zdolności pod nim.)"
 
 #: ../../IKO.rst:725
-#, fuzzy
-#| msgid ""
-#| "Whenever this creature mutates, other creatures you control get +X/+X "
-#| "until end of turn, where X is the number of times this creature has "
-#| "mutated."
 msgid ""
 "|tap|: This creature deals X damage to any target, where X is the number of "
 "times this creature has mutated."
 msgstr ""
-"Ilekroć ten stwór mutuje, inne stwory pod twoim władaniem dostają do końca "
-"tury +X/+X, gdzie X jest liczbą mutacji tego stwora."
+"|tap|: Ten stwór zadaje wskazanemu celowi X obrażeń, gdzie X jest liczbą "
+"mutacji tego stwora."
 
 #: ../../IKO.rst:732
 msgid ""
@@ -2093,18 +2088,13 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:729 ../../IKO.rst:761
-#, fuzzy
-#| msgid "Flying, first strike"
 msgid "First strike"
-msgstr "Latanie, pierwszy cios"
+msgstr "Pierwszy cios"
 
 #: ../../IKO.rst:731
-#, fuzzy
-#| msgid ""
-#| "Whenever you cycle another card, put a +1/+1 counter on Flourishing Fox."
 msgid ""
 "Whenever you cycle a card, Prickly Marmoset gets +2/+0 until end of turn."
-msgstr "Ilekroć recyklujesz inną kartę, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć recyklujesz kartę, ten stwór dostaje do końca tury +2/+0."
 
 #: ../../IKO.rst:738
 msgid ""
@@ -2134,7 +2124,7 @@ msgstr ""
 
 #: ../../IKO.rst:741
 msgid "Target creature gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje podwójny cios do końca tury."
 
 #: ../../IKO.rst:748
 msgid ""
@@ -2247,6 +2237,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Zyskuje on "
+"pośpiech do końca tury."
 
 #: ../../IKO.rst:792
 msgid ""
@@ -2314,6 +2306,9 @@ msgid ""
 "land card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in any order."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę lądu i umieścić ją w twojej ręce. Umieść pozostałe na spodzie "
+"twojej biblioteki w dowolnej kolejności."
 
 #: ../../IKO.rst:814
 msgid ""
@@ -2538,10 +2533,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:891
-#, fuzzy
-#| msgid "Bristling Boar can't be blocked by more than one creature."
 msgid "Greater Sandwurm can't be blocked by creatures with power 2 or less."
-msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../IKO.rst:898
 msgid ""
@@ -2585,6 +2578,8 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Użyj tę manę tylko do rzucenia czaru "
+"stwora."
 
 #: ../../IKO.rst:912
 msgid ""
@@ -2687,16 +2682,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:939
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +2/+2 until end of turn. If it's blocking, instead "
-#| "put two +1/+1 counters on it."
 msgid ""
 "Target creature gets +7/+7 until end of turn. Up to one other target "
 "creature blocks it this turn if able."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli blokuje, zamiast tego "
-"umieść na nim dwa znaczniki +1/+1."
+"Wskazany stwór dostaje do końca tury +7/+7. Co najwyżej jeden wskazany stwór "
+"blokuje go w tej turze, jeśli może."
 
 #: ../../IKO.rst:946
 msgid ""
@@ -2730,10 +2721,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:955
-#, fuzzy
-#| msgid "Destroy target artifact."
 msgid "Destroy target creature with flying."
-msgstr "Zniszcz wskazany artefakt."
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../IKO.rst:960
 msgid ""
@@ -2757,16 +2746,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:963
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +2/+2 until end of turn. If it's blocking, instead "
-#| "put two +1/+1 counters on it."
 msgid ""
 "Target creature gets +1/+3 until end of turn. Put a reach counter on it. "
 "Untap it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli blokuje, zamiast tego "
-"umieść na nim dwa znaczniki +1/+1."
+"Wskazany stwór dostaje do końca tury +1/+3. Umieść na nim znacznik zasięgu. "
+"Odkręć go."
 
 #: ../../IKO.rst:972
 msgid ""
@@ -3358,17 +3343,12 @@ msgstr ""
 "Człowiek. Mutują w stwora na wierzchu plus wszystkie zdolności pod nim.)"
 
 #: ../../IKO.rst:1153
-#, fuzzy
-#| msgid ""
-#| "Whenever this creature mutates, other creatures you control get +X/+X "
-#| "until end of turn, where X is the number of times this creature has "
-#| "mutated."
 msgid ""
 "Whenever this creature mutates, other creatures you control get +2/+1 until "
 "end of turn."
 msgstr ""
 "Ilekroć ten stwór mutuje, inne stwory pod twoim władaniem dostają do końca "
-"tury +X/+X, gdzie X jest liczbą mutacji tego stwora."
+"tury +2/+1."
 
 #: ../../IKO.rst:1160
 msgid ""
@@ -3476,7 +3456,7 @@ msgstr ""
 
 #: ../../IKO.rst:1193
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../IKO.rst:1195
 msgid ""
@@ -3493,7 +3473,7 @@ msgstr ""
 
 #: ../../IKO.rst:1199
 msgid "You may play an additional land on each of your turns."
-msgstr ""
+msgstr "Możesz zagrać dodatkowy ląd w każdej twojej turze."
 
 #: ../../IKO.rst:1201
 #, fuzzy
@@ -3503,7 +3483,7 @@ msgstr "Ilekroć ten stwór mutuje, dobierz kartę."
 
 #: ../../IKO.rst:1203
 msgid "At the beginning of your end step, discard your hand."
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, odrzuć twoją rękę."
 
 #: ../../IKO.rst:1210
 msgid ""
@@ -3865,15 +3845,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1325
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid ""
 "Each creature you control with menace can't be blocked except by three or "
 "more creatures."
 msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+"Stwory pod twoim władaniem mające złowrogość nie mogą być blokowane, chyba "
+"że przez co najmniej trzy stwory."
 
 #: ../../IKO.rst:1334
 msgid ""
@@ -4079,17 +4056,15 @@ msgstr ""
 
 #: ../../IKO.rst:1405
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1407
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1409
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../IKO.rst:1418
 msgid ""
@@ -4100,17 +4075,15 @@ msgstr ""
 
 #: ../../IKO.rst:1413
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1415
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1417
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../IKO.rst:1424
 msgid ""
@@ -4121,7 +4094,7 @@ msgstr ""
 
 #: ../../IKO.rst:1421
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../IKO.rst:1423
 msgid ""
@@ -4138,17 +4111,15 @@ msgstr ""
 
 #: ../../IKO.rst:1427
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1429
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1431
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../IKO.rst:1436
 msgid ""
@@ -4158,16 +4129,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1435
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../IKO.rst:1444
 msgid ""
@@ -4177,10 +4144,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1439
-#, fuzzy
-#| msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
 msgid "(|tap|: Add |mana_w|, |mana_b|, or |mana_g|.)"
-msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
+msgstr "(|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|.)"
 
 #: ../../IKO.rst:1441
 msgid "Indatha Triome enters the battlefield tapped."
@@ -4188,10 +4153,8 @@ msgstr ""
 
 #: ../../IKO.rst:1443 ../../IKO.rst:1459 ../../IKO.rst:1467 ../../IKO.rst:1483
 #: ../../IKO.rst:1531
-#, fuzzy
-#| msgid "Cycling |mana_1| (|mana_1|, Discard this card: Draw a card.)"
 msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
-msgstr "Recykling |mana_1| (|mana_1|, odrzuć tę kartę: Dobierz kartę.)"
+msgstr "Recykling |mana_3| (|mana_3|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../IKO.rst:1452
 msgid ""
@@ -4202,11 +4165,11 @@ msgstr ""
 
 #: ../../IKO.rst:1447
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1449
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1460
 msgid ""
@@ -4216,10 +4179,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1455
-#, fuzzy
-#| msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
 msgid "(|tap|: Add |mana_g|, |mana_u|, or |mana_r|.)"
-msgstr "|tap|: Weź |mana_g|, |mana_u|, or |mana_r|."
+msgstr "(|tap|: Weź |mana_g|, |mana_u|, or |mana_r|.)"
 
 #: ../../IKO.rst:1457
 msgid "Ketria Triome enters the battlefield tapped."
@@ -4233,10 +4194,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1463
-#, fuzzy
-#| msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
 msgid "(|tap|: Add |mana_u|, |mana_r|, or |mana_w|.)"
-msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
+msgstr "(|tap|: Weź |mana_u|, |mana_r| lub |mana_w|.)"
 
 #: ../../IKO.rst:1465
 msgid "Raugrin Triome enters the battlefield tapped."
@@ -4251,17 +4210,15 @@ msgstr ""
 
 #: ../../IKO.rst:1471
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1473
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1475
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../IKO.rst:1484
 msgid ""
@@ -4271,10 +4228,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1479
-#, fuzzy
-#| msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
 msgid "(|tap|: Add |mana_r|, |mana_w|, or |mana_b|.)"
-msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
+msgstr "(|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|.)"
 
 #: ../../IKO.rst:1481
 msgid "Savai Triome enters the battlefield tapped."
@@ -4289,17 +4244,15 @@ msgstr ""
 
 #: ../../IKO.rst:1487
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1489
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1491
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../IKO.rst:1500
 msgid ""
@@ -4310,17 +4263,15 @@ msgstr ""
 
 #: ../../IKO.rst:1495
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1497
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1499
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../IKO.rst:1508
 msgid ""
@@ -4331,17 +4282,15 @@ msgstr ""
 
 #: ../../IKO.rst:1503
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1505
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1507
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../IKO.rst:1516
 msgid ""
@@ -4352,17 +4301,15 @@ msgstr ""
 
 #: ../../IKO.rst:1511
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1513
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1515
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../IKO.rst:1524
 msgid ""
@@ -4373,17 +4320,15 @@ msgstr ""
 
 #: ../../IKO.rst:1519
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1521
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 
 #: ../../IKO.rst:1523
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../IKO.rst:1532
 msgid ""
@@ -4393,10 +4338,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1527
-#, fuzzy
-#| msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
 msgid "(|tap|: Add |mana_b|, |mana_g|, or |mana_u|.)"
-msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
+msgstr "(|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|.)"
 
 #: ../../IKO.rst:1529
 msgid "Zagoth Triome enters the battlefield tapped."
@@ -4410,10 +4353,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1535
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../IKO.rst:1540
 msgid ""
@@ -4423,10 +4364,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1539
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../IKO.rst:1544
 msgid ""
@@ -4436,10 +4375,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1543
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../IKO.rst:1548
 msgid ""
@@ -4449,10 +4386,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1547
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../IKO.rst:1552
 msgid ""
@@ -4462,10 +4397,8 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1551
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_g|."
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Weź |mana_b| lub |mana_g|."
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../IKO.rst:1557
 msgid ""
