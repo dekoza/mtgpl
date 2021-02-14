@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 00:12+0000\n"
+"PO-Revision-Date: 2021-02-14 01:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -291,8 +291,8 @@ msgstr ""
 #: ../../KHM.rst:125
 msgid "Noncreature spells your opponents cast with converted mana cost 4 or greater cost |mana_2| more to cast."
 msgstr ""
-"Rzucanie czarów o skróconym koszcie many 4 nie będących stworami kosztuje "
-"twoich przeciwników o |mana_2| więcej."
+"Rzucanie nie będących stworami czarów o skróconym koszcie many 4 lub "
+"większym kosztuje twoich przeciwników o |mana_2| więcej."
 
 #: ../../KHM.rst:132
 msgid ":mtgtip:`Valkmira, Protector's Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/3606519e-5677-4c21-a34e-be195b6669fa.jpg?1612724106|https://scryfall.com/card/khm/21/reidane-god-of-the-worthy-valkmira-protectors-shield?utm_source=api>`"
@@ -566,7 +566,7 @@ msgstr ""
 
 #: ../../KHM.rst:269
 msgid "Counter target artifact or enchantment spell."
-msgstr ""
+msgstr "Skontruj wskazany czar artefaktu lub uroku."
 
 #: ../../KHM.rst:278
 msgid ":mtgtip:`Ascendant Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea56de43-c0fd-4627-846d-41a962b95f17.jpg?1611798233|https://scryfall.com/card/khm/43/ascendant-spirit?utm_source=api>`"
@@ -608,7 +608,7 @@ msgstr ""
 
 #: ../../KHM.rst:291
 msgid "Scry 2, then draw two cards."
-msgstr ""
+msgstr "Wróż 2, następnie dobierz dwie karty."
 
 #: ../../KHM.rst:298
 msgid ":mtgtip:`Berg Strider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3567bdc-450e-4481-9349-a80fe52fe431.jpg?1610996849|https://scryfall.com/card/khm/47/berg-strider?utm_source=api>`"
@@ -625,10 +625,12 @@ msgstr ""
 #: ../../KHM.rst:303
 msgid "When Bind the Monster enters the battlefield, tap enchanted creature. It deals damage to you equal to its power."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora. Zadaje "
+"on tobie obrażenia równe jego sile."
 
 #: ../../KHM.rst:305
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../KHM.rst:312
 msgid ":mtgtip:`Brinebarrow Intruder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89960a74-9e17-4e30-874a-4286dd4c917d.jpg?1610998144|https://scryfall.com/card/khm/49/brinebarrow-intruder?utm_source=api>`"
@@ -637,6 +639,8 @@ msgstr ""
 #: ../../KHM.rst:311
 msgid "When Brinebarrow Intruder enters the battlefield, target creature an opponent controls gets -2/-0 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -2/-0."
 
 #: ../../KHM.rst:316
 msgid ":mtgtip:`Cosima, God of the Voyage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fab2fca4-a99f-4ffe-9c02-edb6e0be2358.jpg?1611862762|https://scryfall.com/card/khm/50/cosima-god-of-the-voyage-the-omenkeel?utm_source=api>`"
@@ -685,7 +689,7 @@ msgstr ""
 #: ../../KHM.rst:339
 #: ../../KHM.rst:465
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../KHM.rst:341
 #: ../../KHM.rst:431
@@ -699,7 +703,7 @@ msgstr ""
 
 #: ../../KHM.rst:345
 msgid "Counter target spell with converted mana cost 4 or greater."
-msgstr ""
+msgstr "Skontruj wskazany czar o skróconym koszcie many 4 lub większym."
 
 #: ../../KHM.rst:350
 msgid ":mtgtip:`Draugr Thought-Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31da60a2-d4d3-4954-be59-c7ff61fa2905.jpg?1611110658|https://scryfall.com/card/khm/55/draugr-thought-thief?utm_source=api>`"
@@ -708,6 +712,8 @@ msgstr ""
 #: ../../KHM.rst:349
 msgid "When Draugr Thought-Thief enters the battlefield, look at the top card of target player's library. You may put that card into their graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na wierzchnią kartę biblioteki "
+"wskazanego gracza. Możesz umieścić ową kartę w ich cmentarzu."
 
 #: ../../KHM.rst:354
 msgid ":mtgtip:`Frost Augur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2ae592f-caf6-445a-970b-f8101998e657.jpg?1610996862|https://scryfall.com/card/khm/56/frost-augur?utm_source=api>`"
@@ -716,6 +722,9 @@ msgstr ""
 #: ../../KHM.rst:353
 msgid "|mana_s|, |tap|: Look at the top card of your library. If it's a snow card, you may reveal it and put it into your hand. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
+"|mana_s|, |tap|: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to "
+"śnieżna karta, możesz ją ujawnić u mieścić w twojej ręce. (|mana_s| można "
+"opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:358
 msgid ":mtgtip:`Frostpeak Yeti<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f406ce3-dce1-42d3-b76c-8e8c4b2770cb.jpg?1611000324|https://scryfall.com/card/khm/57/frostpeak-yeti?utm_source=api>`"
@@ -724,6 +733,8 @@ msgstr ""
 #: ../../KHM.rst:357
 msgid "|mana_1|\\ |mana_s|: Frostpeak Yeti can't be blocked this turn. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
+"|mana_1|\\ |mana_s|: Ten stwór nie może być blokowany w tej turze. (|mana_s| "
+"można opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:364
 msgid ":mtgtip:`Frostpyre Arcanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/276f8abd-4d39-4b50-876f-9c6713bc4ab5.jpg?1610643395|https://scryfall.com/card/khm/58/frostpyre-arcanist?utm_source=api>`"
@@ -732,6 +743,8 @@ msgstr ""
 #: ../../KHM.rst:361
 msgid "This spell costs |mana_1| less to cast if you control a Giant or a Wizard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz Gigantem lub "
+"Czarodziejem."
 
 #: ../../KHM.rst:363
 msgid "When Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle your library."
@@ -753,7 +766,7 @@ msgstr ""
 #: ../../KHM.rst:1585
 #: ../../KHM.rst:1899
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../KHM.rst:378
 msgid ":mtgtip:`Glimpse the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc96ebe8-f4b3-4788-a6f5-2a50b6c0d935.jpg?1610066015|https://scryfall.com/card/khm/60/glimpse-the-cosmos?utm_source=api>`"
@@ -762,6 +775,8 @@ msgstr ""
 #: ../../KHM.rst:375
 msgid "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../KHM.rst:377
 msgid "As long as you control a Giant, you may cast Glimpse the Cosmos from your graveyard by paying |mana_u| rather than paying its mana cost. If you cast Glimpse the Cosmos this way and it would be put into your graveyard, exile it instead."
@@ -774,6 +789,9 @@ msgstr ""
 #: ../../KHM.rst:381
 msgid "Scry X, where X is the amount of |mana_s| spent to cast this spell, then draw three cards. (|mana_s| is mana from a snow source.)"
 msgstr ""
+"Wróż X, gdzie X jest liczbą |mana_s| użytej do rzucenia tego czaru, "
+"następnie dobierz trzy karty. (|mana_s| można opłacić maną ze śnieżnego "
+"źródła.)"
 
 #: ../../KHM.rst:386
 msgid ":mtgtip:`Icebind Pillar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3152f1f-5d3f-4bc4-9b6f-f2983ab3f691.jpg?1611170091|https://scryfall.com/card/khm/62/icebind-pillar?utm_source=api>`"
@@ -782,6 +800,8 @@ msgstr ""
 #: ../../KHM.rst:385
 msgid "|mana_s|, |tap|: Tap target artifact or creature. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
+"|mana_s|, |tap|: Przekręć wskazany artefakt lub stwora. (|mana_s| można "
+"opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:394
 msgid ":mtgtip:`Icebreaker Kraken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1fdb9bb-09a2-4ff7-bcd4-35ea33c1b752.jpg?1611078087|https://scryfall.com/card/khm/63/icebreaker-kraken?utm_source=api>`"
@@ -790,14 +810,21 @@ msgstr ""
 #: ../../KHM.rst:389
 msgid "This spell costs |mana_1| less to cast for each snow land you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy śnieżny ląd pod twoim "
+"władaniem."
 
 #: ../../KHM.rst:391
 msgid "When Icebreaker Kraken enters the battlefield, artifacts and creatures target opponent controls don't untap during that player's next untap step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, artefakty i stwory pod władaniem "
+"wskazanego przeciwnika nie odkręcą się w najbliższym kroku odkręcania owego "
+"gracza."
 
 #: ../../KHM.rst:393
 msgid "Return three snow lands you control to their owner's hand: Return Icebreaker Kraken to its owner's hand."
 msgstr ""
+"Przywróć trzy śnieżne lądy pod twoim władanie do rąk ich właścicieli: "
+"Przywróć tego stwora do ręki właściciela."
 
 #: ../../KHM.rst:400
 msgid ":mtgtip:`Inga Rune-Eyes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62a6f095-5beb-42a8-af8f-d40eef27150e.jpg?1610153104|https://scryfall.com/card/khm/64/inga-rune-eyes?utm_source=api>`"
@@ -805,11 +832,13 @@ msgstr ""
 
 #: ../../KHM.rst:397
 msgid "When Inga Rune-Eyes enters the battlefield, scry 3."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 3."
 
 #: ../../KHM.rst:399
 msgid "When Inga Rune-Eyes dies, draw three cards if three or more creatures died this turn."
 msgstr ""
+"Kiedy ten stwór umrze, dobierz trzy karty jeśli w tej turze umarły co "
+"najmniej trzy stwory."
 
 #: ../../KHM.rst:404
 msgid ":mtgtip:`Karfell Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/4911016c-b92a-47cc-9553-b424d7be196a.jpg?1610656768|https://scryfall.com/card/khm/65/karfell-harbinger?utm_source=api>`"
@@ -833,7 +862,7 @@ msgstr ""
 #: ../../KHM.rst:1521
 #: ../../KHM.rst:1919
 msgid "Changeling (This card is every creature type.)"
-msgstr ""
+msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 
 #: ../../KHM.rst:409
 msgid "When Littjara Kinseekers enters the battlefield, if you control three or more creatures that share a creature type, put a +1/+1 counter on Littjara Kinseekers, then scry 1."
@@ -845,11 +874,11 @@ msgstr ""
 
 #: ../../KHM.rst:415
 msgid "Enchant creature or Vehicle"
-msgstr ""
+msgstr "Zaurocz stwora lub Pojazd"
 
 #: ../../KHM.rst:417
 msgid "Enchanted creature gets -3/-0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -3/-0."
 
 #: ../../KHM.rst:426
 msgid ":mtgtip:`Mistwalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92f64b49-327c-473b-a492-f020a322aed7.jpg?1611170180|https://scryfall.com/card/khm/68/mistwalker?utm_source=api>`"
@@ -857,7 +886,7 @@ msgstr ""
 
 #: ../../KHM.rst:425
 msgid "|mana_1|\\ |mana_u|: Mistwalker gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../KHM.rst:432
 msgid ":mtgtip:`Mystic Reflection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7b877e2-60eb-46cd-acd7-8555b9e7e993.jpg?1610656808|https://scryfall.com/card/khm/69/mystic-reflection?utm_source=api>`"
@@ -873,7 +902,7 @@ msgstr ""
 
 #: ../../KHM.rst:435
 msgid "Changeling"
-msgstr ""
+msgstr "Zmiennokształtny"
 
 #: ../../KHM.rst:437
 msgid "Whenever you cast an instant or sorcery spell, if it targets one or more other permanents you control, create a token that's a copy of one of those permanents."
@@ -890,6 +919,8 @@ msgstr ""
 #: ../../KHM.rst:445
 msgid "|mana_s|, |tap|: Draw a card, then discard a card. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
+"|mana_s|, |tap|: Dobierz kartę, następnie odrzuć kartę. (|mana_s| można "
+"opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:452
 msgid ":mtgtip:`Ravenform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c2cfcd7-b43a-4dad-a033-e661f55ceecd.jpg?1610586103|https://scryfall.com/card/khm/72/ravenform?utm_source=api>`"
@@ -898,6 +929,8 @@ msgstr ""
 #: ../../KHM.rst:449
 msgid "Exile target artifact or creature. Its controller creates a 1/1 blue Bird creature token with flying."
 msgstr ""
+"Wygnaj wskazany artefakt lub stwora. Jego właściciel tworzy żeton "
+"niebieskiego stwora Ptak 1/1 z lataniem."
 
 #: ../../KHM.rst:458
 msgid ":mtgtip:`Reflections of Littjara<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eadee447-ce9a-4dea-a074-bfd04197548e.jpg?1610152006|https://scryfall.com/card/khm/73/reflections-of-littjara?utm_source=api>`"
@@ -910,6 +943,8 @@ msgstr ""
 #: ../../KHM.rst:457
 msgid "Whenever you cast a spell of the chosen type, copy that spell. (A copy of a permanent spell becomes a token.)"
 msgstr ""
+"Ilekroć rzucisz czar wybranego typu, skopiuj ów czar. (Kopia czaru "
+"permanentu staje się żetonem.)"
 
 #: ../../KHM.rst:466
 msgid ":mtgtip:`Run Ashore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eed5a2d-d7a4-4f64-a96b-04c5d4206c5a.jpg?1610389872|https://scryfall.com/card/khm/74/run-ashore?utm_source=api>`"
@@ -917,11 +952,13 @@ msgstr ""
 
 #: ../../KHM.rst:461
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedno lub oba —"
 
 #: ../../KHM.rst:463
 msgid "The owner of target nonland permanent puts it on the top or bottom of their library."
 msgstr ""
+"Właściciel wskazanego nielądowego permanentu umieszcza go na wierzchu lub "
+"spodzie swojej biblioteki."
 
 #: ../../KHM.rst:476
 msgid ":mtgtip:`Rune of Flight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5c1a271-2107-462a-9d4a-9c7fbcfa8d77.jpg?1610497026|https://scryfall.com/card/khm/75/rune-of-flight?utm_source=api>`"
@@ -929,7 +966,7 @@ msgstr ""
 
 #: ../../KHM.rst:471
 msgid "When Rune of Flight enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../KHM.rst:473
 msgid "As long as enchanted permanent is a creature, it has flying."
@@ -945,7 +982,7 @@ msgstr ""
 
 #: ../../KHM.rst:479
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../KHM.rst:486
 msgid ":mtgtip:`Strategic Planning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29306305-cb71-4fef-bf86-f5deb4e7e561.jpg?1610732687|https://scryfall.com/card/khm/77/strategic-planning?utm_source=api>`"
@@ -954,6 +991,8 @@ msgstr ""
 #: ../../KHM.rst:485
 msgid "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../KHM.rst:492
 msgid ":mtgtip:`Undersea Invader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/550c745b-64e8-4d20-9cf0-024248ddbd57.jpg?1610234721|https://scryfall.com/card/khm/78/undersea-invader?utm_source=api>`"
@@ -961,7 +1000,7 @@ msgstr ""
 
 #: ../../KHM.rst:491
 msgid "Undersea Invader enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 #: ../../KHM.rst:502
 msgid ":mtgtip:`Blood on the Snow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8606f40-0af4-443b-a413-a88dc3e8f32e.jpg?1611054394|https://scryfall.com/card/khm/79/blood-on-the-snow?utm_source=api>`"
@@ -971,11 +1010,11 @@ msgstr ""
 #: ../../KHM.rst:637
 #: ../../KHM.rst:879
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../KHM.rst:499
 msgid "Destroy all planeswalkers."
-msgstr ""
+msgstr "Zniszcz wszystkich wędrowców."
 
 #: ../../KHM.rst:501
 msgid "Then return a creature or planeswalker card with converted mana cost X or less from your graveyard to the battlefield, where X is the amount of |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
@@ -1004,6 +1043,8 @@ msgstr ""
 #: ../../KHM.rst:515
 msgid "Choose a creature type. Creatures that aren't of the chosen type get -3/-3 until end of turn."
 msgstr ""
+"Wybierz typ stwora. Stwory nie będące wybranego typu dostają do końca tury "
+"-3/-3."
 
 #: ../../KHM.rst:520
 msgid ":mtgtip:`Deathknell Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9f2029f-ffda-4374-9a78-79866ac23fca.jpg?1610586636|https://scryfall.com/card/khm/83/deathknell-berserker?utm_source=api>`"
@@ -1028,6 +1069,8 @@ msgstr ""
 #: ../../KHM.rst:527
 msgid "At the beginning of your end step, each opponent loses 1 life and you gain 1 life."
 msgstr ""
+"Na początku twojego kroku końcowego, każdy przeciwnik traci 1 życie a ty "
+"zyskaj 1 życie."
 
 #: ../../KHM.rst:534
 msgid ":mtgtip:`Draugr Necromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76d8e0ff-e720-41ca-af69-35585a2d7ae2.jpg?1610996857|https://scryfall.com/card/khm/86/draugr-necromancer?utm_source=api>`"
@@ -1060,10 +1103,12 @@ msgstr ""
 #: ../../KHM.rst:543
 msgid "Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)"
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma złowrogość. (Nie może być blokowany, "
+"chyba że przez co najmniej dwa stwory.)"
 
 #: ../../KHM.rst:545
 msgid "Equip |mana_4|"
-msgstr ""
+msgstr "Wyposaż |mana_4|"
 
 #: ../../KHM.rst:550
 msgid ":mtgtip:`Dread Rider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/205eb029-68a0-4895-b142-2eb09987b5cb.jpg?1610909840|https://scryfall.com/card/khm/89/dread-rider?utm_source=api>`"
@@ -1101,7 +1146,7 @@ msgstr ""
 #: ../../KHM.rst:719
 #: ../../KHM.rst:1043
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../KHM.rst:565
 msgid "At the beginning of your upkeep, exile two cards from your graveyard. If you can't, sacrifice Egon and draw a card."
@@ -1113,11 +1158,13 @@ msgstr ""
 
 #: ../../KHM.rst:569
 msgid "At the beginning of your upkeep, mill a card."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, zmiel kartę."
 
 #: ../../KHM.rst:571
 msgid "|mana_2|\\ |mana_b|, |tap|, Exile a creature card from your graveyard: Draw a card."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|, wygnaj kartę stwora z twojego cmentarza: Dobierz "
+"kartę."
 
 #: ../../KHM.rst:576
 msgid ":mtgtip:`Elderfang Disciple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f3a6148-d005-49c1-a7fc-867c4e8251cd.jpg?1610647871|https://scryfall.com/card/khm/93/elderfang-disciple?utm_source=api>`"
@@ -1125,7 +1172,7 @@ msgstr ""
 
 #: ../../KHM.rst:575
 msgid "When Elderfang Disciple enters the battlefield, each opponent discards a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik odrzuca kartę."
 
 #: ../../KHM.rst:582
 msgid ":mtgtip:`Eradicator Valkyrie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00edda3-ddbc-44ee-a14b-47a701445bb0.jpg?1610852419|https://scryfall.com/card/khm/94/eradicator-valkyrie?utm_source=api>`"
@@ -1133,7 +1180,7 @@ msgstr ""
 
 #: ../../KHM.rst:579
 msgid "Flying, lifelink, hexproof from planeswalkers"
-msgstr ""
+msgstr "Latanie, więź życia, antyklątwa na wędrowców"
 
 #: ../../KHM.rst:581
 msgid "Boast — |mana_1|\\ |mana_b|, Sacrifice a creature: Each opponent sacrifices a creature or planeswalker. (Activate this ability only if this creature attacked this turn and only once each turn.)"
@@ -1145,7 +1192,7 @@ msgstr ""
 
 #: ../../KHM.rst:585
 msgid "Exile target creature or planeswalker."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora lub wędrowca."
 
 #: ../../KHM.rst:590
 msgid ":mtgtip:`Grim Draugr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54340c59-03a9-4d9d-bd27-9aed337ce75a.jpg?1610996881|https://scryfall.com/card/khm/96/grim-draugr?utm_source=api>`"
@@ -1162,7 +1209,7 @@ msgstr ""
 #: ../../KHM.rst:593
 #: ../../KHM.rst:1835
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../KHM.rst:595
 msgid "|mana_s|\\ |mana_s|: Hailstorm Valkyrie gets +2/+2 until end of turn. (|mana_s| can be paid with one mana from a snow source.)"
@@ -1325,7 +1372,7 @@ msgstr ""
 
 #: ../../KHM.rst:685
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../KHM.rst:687
 msgid "Whenever an opponent sacrifices a nontoken permanent or discards a permanent card, you may put that card from a graveyard onto the battlefield under your control."
@@ -1409,11 +1456,11 @@ msgstr ""
 
 #: ../../KHM.rst:731
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../KHM.rst:733
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../KHM.rst:740
 msgid ":mtgtip:`Weigh Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6ffa795d-2211-49b0-a6df-812599758f7b.jpg?1611006102|https://scryfall.com/card/khm/118/weigh-down?utm_source=api>`"
@@ -1442,7 +1489,7 @@ msgstr ""
 #: ../../KHM.rst:749
 #: ../../KHM.rst:773
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../KHM.rst:751
 msgid "Boast — |mana_1|: You may change Arni Brokenbrow's base power to 1 plus the greatest power among other creatures you control until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
@@ -2001,7 +2048,7 @@ msgstr ""
 
 #: ../../KHM.rst:1049
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../KHM.rst:1051
 msgid "Enchanted land is snow."
@@ -2018,7 +2065,7 @@ msgstr ""
 #: ../../KHM.rst:1057
 #: ../../KHM.rst:1083
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../KHM.rst:1060
 msgid ":mtgtip:`Grizzled Outrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a1d4473-5317-4bdd-9cb9-93670acf52e9.jpg?1610999968|https://scryfall.com/card/khm/173/grizzled-outrider?utm_source=api>`"
@@ -2521,6 +2568,8 @@ msgstr ""
 #: ../../KHM.rst:1333
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../KHM.rst:1335
 msgid "When Harald, King of Skemfar enters the battlefield, look at the top five cards of your library. You may reveal an Elf, Warrior, or Tyvar card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."

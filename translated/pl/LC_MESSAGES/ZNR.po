@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 00:12+0000\n"
+"PO-Revision-Date: 2021-02-14 01:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -561,7 +561,7 @@ msgstr ""
 
 #: ../../ZNR.rst:277
 msgid "Creatures your opponents control get -2/-0 until end of turn."
-msgstr ""
+msgstr "Stwory pod władaniem twoich przeciwników dostają do końca tury -2/-0."
 
 #: ../../ZNR.rst:284
 msgid ":mtgtip:`Beyeen Coast<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/f/5f411f08-45dd-4d73-8894-daf51c175150.jpg?1604193600|https://scryfall.com/card/znr/46/beyeen-veil-beyeen-coast?utm_source=api>`"
@@ -603,7 +603,7 @@ msgstr ""
 
 #: ../../ZNR.rst:293
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../ZNR.rst:298
 msgid ":mtgtip:`Cascade Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13105c88-2926-40ad-bc7a-09d515aa36c6.jpg?1604193685|https://scryfall.com/card/znr/48/cascade-seer?utm_source=api>`"
@@ -749,7 +749,7 @@ msgstr ""
 
 #: ../../ZNR.rst:375
 msgid "Scry 2, then draw two cards."
-msgstr ""
+msgstr "Wróż 2, następnie dobierz dwie karty."
 
 #: ../../ZNR.rst:377
 msgid "Target player creates an X/X blue Illusion creature token, where X is the number of cards in their hand."
@@ -1116,6 +1116,8 @@ msgstr ""
 #: ../../ZNR.rst:575
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../ZNR.rst:577
 msgid "Blackbloom Rogue gets +3/+0 as long as an opponent has eight or more cards in their graveyard."
@@ -1273,7 +1275,7 @@ msgstr ""
 
 #: ../../ZNR.rst:661
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../ZNR.rst:668
 msgid ":mtgtip:`Hagra Broodpit<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/c/7c04c734-354d-4925-8161-7052110951df.jpg?1604195798|https://scryfall.com/card/znr/106/hagra-mauling-hagra-broodpit?utm_source=api>`"
@@ -1314,7 +1316,7 @@ msgstr ""
 #: ../../ZNR.rst:687
 #: ../../ZNR.rst:1247
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../ZNR.rst:689
 msgid "When Lithoform Blight enters the battlefield, draw a card."
@@ -1538,7 +1540,7 @@ msgstr ""
 
 #: ../../ZNR.rst:809
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedno lub oba —"
 
 #: ../../ZNR.rst:811
 msgid "Target creature gets -1/-1 until end of turn."
@@ -1547,7 +1549,7 @@ msgstr ""
 #: ../../ZNR.rst:813
 #: ../../ZNR.rst:1361
 msgid "Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../ZNR.rst:822
 msgid ":mtgtip:`Taborax, Hope's Demise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/331bf97d-f447-4c68-bfc7-2bb593106d66.jpg?1604196668|https://scryfall.com/card/znr/129/taborax-hopes-demise?utm_source=api>`"
@@ -1751,7 +1753,7 @@ msgstr ""
 
 #: ../../ZNR.rst:919
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../ZNR.rst:921
 msgid "Kazuul's Fury deals damage equal to the sacrificed creature's power to any target."
@@ -1795,7 +1797,7 @@ msgstr ""
 
 #: ../../ZNR.rst:945
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../ZNR.rst:947
 msgid "Molten Blast deals 2 damage to target creature or planeswalker."
@@ -1841,7 +1843,7 @@ msgstr ""
 #: ../../ZNR.rst:1017
 #: ../../ZNR.rst:1397
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../ZNR.rst:969
 msgid "Whenever Relic Robber deals combat damage to a player, that player creates a 0/1 colorless Goblin Construct artifact creature token with \"This creature can't block\" and \"At the beginning of your upkeep, this creature deals 1 damage to you.\""
@@ -2054,7 +2056,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1087
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../ZNR.rst:1094
 msgid ":mtgtip:`Tuktuk Rubblefort<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02eedf9d-e26c-405c-aee5-1b3493dc5e9b.jpg?1604198284|https://scryfall.com/card/znr/173/tuktuk-rubblefort?utm_source=api>`"
@@ -2119,7 +2121,7 @@ msgstr ""
 #: ../../ZNR.rst:1123
 #: ../../ZNR.rst:1321
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../ZNR.rst:1125
 msgid "You may play lands from your graveyard."
@@ -2302,6 +2304,8 @@ msgstr ""
 #: ../../ZNR.rst:1217
 msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../ZNR.rst:1224
 msgid ":mtgtip:`Khalni Territory<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/9/99535539-aa73-41ed-86ab-21c97b92620d.jpg?1604337759|https://scryfall.com/card/znr/192/khalni-ambush-khalni-territory?utm_source=api>`"
@@ -2461,7 +2465,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1309
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../ZNR.rst:1318
 msgid ":mtgtip:`Tajuru Paragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a045dd0f-953a-4022-8f29-0758f2b6ccaa.jpg?1604199581|https://scryfall.com/card/znr/209/tajuru-paragon?utm_source=api>`"
@@ -2951,7 +2955,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1595
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../ZNR.rst:1602
 msgid ":mtgtip:`Relic Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b59c75b-d8f8-4f95-9030-ed73c67d988e.jpg?1604200875|https://scryfall.com/card/znr/249/relic-golem?utm_source=api>`"

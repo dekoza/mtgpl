@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 00:12+0000\n"
+"PO-Revision-Date: 2021-02-14 01:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -528,7 +528,7 @@ msgstr ""
 #: ../../M21.rst:253
 #: ../../M21.rst:417
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../M21.rst:264
 msgid ":mtgtip:`Capture Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5ed9f08-56e8-4e24-aae2-05270d7c1ba8.jpg?1594735438|https://scryfall.com/card/m21/47/capture-sphere?utm_source=api>`"
@@ -537,15 +537,15 @@ msgstr ""
 #: ../../M21.rst:257
 #: ../../M21.rst:633
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../M21.rst:261
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../M21.rst:263
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../M21.rst:270
 msgid ":mtgtip:`Discontinuity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b33ba0a8-04e9-4df6-af20-a3ca4470cdcc.jpg?1594735451|https://scryfall.com/card/m21/48/discontinuity?utm_source=api>`"
@@ -586,6 +586,8 @@ msgstr ""
 #: ../../M21.rst:285
 msgid "Tap up to two target creatures. Those creatures don't untap during their controller's next untap step."
 msgstr ""
+"Przekręć co najwyżej dwa wskazane stwory. Owe stwory nie odkręcą się w "
+"najbliższym kroku odkręcania swojego władcy."
 
 #: ../../M21.rst:294
 msgid ":mtgtip:`Ghostly Pilferer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2810631f-c55c-4947-a26f-4d3ce76024b3.jpg?1594735508|https://scryfall.com/card/m21/52/ghostly-pilferer?utm_source=api>`"
@@ -692,11 +694,11 @@ msgstr ""
 #: ../../M21.rst:787
 #: ../../M21.rst:1093
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../M21.rst:343
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../M21.rst:345
 msgid "Return up to two target creatures to their owners' hands."
@@ -824,7 +826,7 @@ msgstr ""
 
 #: ../../M21.rst:421
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../M21.rst:423
 msgid "Create a token that's a copy of target creature you control."
@@ -1069,7 +1071,7 @@ msgstr ""
 #: ../../M21.rst:557
 #: ../../M21.rst:701
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../M21.rst:561
 #: ../../M21.rst:845
@@ -1105,7 +1107,7 @@ msgstr ""
 
 #: ../../M21.rst:575
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../M21.rst:577
 msgid "Whenever a creature you control with deathtouch attacks, each opponent loses 1 life and you gain 1 life."
@@ -1335,7 +1337,7 @@ msgstr ""
 #: ../../M21.rst:703
 #: ../../M21.rst:913
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../M21.rst:710
 msgid ":mtgtip:`Vito, Thorn of the Dusk Rose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1594736442|https://scryfall.com/card/m21/127/vito-thorn-of-the-dusk-rose?utm_source=api>`"
@@ -1388,6 +1390,8 @@ msgstr ""
 #: ../../M21.rst:731
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../M21.rst:733
 msgid "When Bone Pit Brute enters the battlefield, target creature gets +4/+0 until end of turn."
@@ -1673,7 +1677,7 @@ msgstr ""
 #: ../../M21.rst:891
 #: ../../M21.rst:1567
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../M21.rst:893
 msgid "|mana_1|: Another target creature with power 2 or less can't be blocked this turn."
@@ -2045,7 +2049,7 @@ msgstr ""
 
 #: ../../M21.rst:1097
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../M21.rst:1099
 msgid "Exile target card from a graveyard."
@@ -2165,7 +2169,7 @@ msgstr ""
 
 #: ../../M21.rst:1161
 msgid "You gain 4 life."
-msgstr ""
+msgstr "Zyskaj 4 życia."
 
 #: ../../M21.rst:1168
 msgid ":mtgtip:`Warden of the Woods<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1d81cfc-cff8-4478-92b6-efbfc5084165.jpg?1594737317|https://scryfall.com/card/m21/213/warden-of-the-woods?utm_source=api>`"
