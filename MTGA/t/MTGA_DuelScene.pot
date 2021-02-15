@@ -1,996 +1,1001 @@
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:1
 msgctxt DuelScene/Browsers/Assign_Damage_Text
-msgid 'Assign damage for {attacker}.'
+msgid "Assign damage for {attacker}."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:2
 msgctxt DuelScene/Browsers/Assign_Damage_Title
-msgid 'Assign Damage'
+msgid "Assign Damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:3
 msgctxt DuelScene/Browsers/BeginningPhase
-msgid 'Untap, Upkeep, Draw'
+msgid "Untap, Upkeep, Draw"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:4
 msgctxt DuelScene/Browsers/Browser_CancelText
-msgid 'Cancel'
+msgid "Cancel"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:5
 msgctxt DuelScene/Browsers/BrowserCardInfo_ActivateAbility
-msgid 'Activate Ability'
+msgid "Activate Ability"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:6
 msgctxt DuelScene/Browsers/BrowserCardInfo_AlternateCost
-msgid 'Alternate Cost'
+msgid "Alternate Cost"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:7
 msgctxt DuelScene/Browsers/BrowserCardInfo_CastWith
-msgid 'Cast With'
+msgid "Cast With"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:8
 msgctxt DuelScene/Browsers/BrowserCardInfo_PlayWith
-msgid 'Play With'
+msgid "Play With"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:9
 msgctxt DuelScene/Browsers/Card_Text
-msgid '{numCards} Card'
+msgid "{numCards} Card"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:10
 msgctxt DuelScene/Browsers/Cards_Text
-msgid '{numCards} Cards'
+msgid "{numCards} Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:11
 msgctxt DuelScene/Browsers/Choose_Color
-msgid 'Choose Color'
+msgid "Choose Color"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:12
 msgctxt DuelScene/Browsers/Choose_Deck_For_Edit
-msgid 'Choose a Deck to Edit'
+msgid "Choose a Deck to Edit"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:13
 msgctxt DuelScene/Browsers/Choose_Land_Type
-msgid 'Choose Land Type'
+msgid "Choose Land Type"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:14
 msgctxt DuelScene/Browsers/Choose_Option_AtLeast_Min
-msgid 'Choose At Least {value}'
+msgid "Choose At Least {value}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:15
 msgctxt DuelScene/Browsers/Choose_Option_AtLeast_One
-msgid 'Choose At Least One'
+msgid "Choose At Least One"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:16
 msgctxt DuelScene/Browsers/Choose_Option_AtLeast_Two
-msgid 'Choose At Least Two'
+msgid "Choose At Least Two"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:17
 msgctxt DuelScene/Browsers/Choose_Option_Min
-msgid 'Choose {value}'
+msgid "Choose {value}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:18
 msgctxt DuelScene/Browsers/Choose_Option_None
-msgid 'No Card to Choose'
+msgid "No Card to Choose"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:19
 msgctxt DuelScene/Browsers/Choose_Option_One
-msgid 'Choose One'
+msgid "Choose One"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:20
 msgctxt DuelScene/Browsers/Choose_Option_Text
-msgid 'Click an option below to select it.'
+msgid "Click an option below to select it."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:21
 msgctxt DuelScene/Browsers/Choose_Option_Title
-msgid 'Choose Option'
+msgid "Choose Option"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:22
 msgctxt DuelScene/Browsers/Choose_Option_ToCast
-msgid 'Select Card to Cast'
+msgid "Select Card to Cast"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:23
 msgctxt DuelScene/Browsers/Choose_Option_ToPlay
-msgid 'Select Card to Play'
+msgid "Select Card to Play"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:24
 msgctxt DuelScene/Browsers/Choose_Option_ToPlayOrCast
-msgid 'Select Card to Play or Cast'
+msgid "Select Card to Play or Cast"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:25
 msgctxt DuelScene/Browsers/Choose_Option_Two
-msgid 'Choose Two'
+msgid "Choose Two"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:26
 msgctxt DuelScene/Browsers/Choose_Option_UpTo_Max
-msgid 'Choose Up To {value}'
+msgid "Choose Up To {value}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:27
 msgctxt DuelScene/Browsers/Choose_Option_UpTo_One
-msgid 'Choose Up To One'
+msgid "Choose Up To One"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:28
 msgctxt DuelScene/Browsers/Choose_Option_UpTo_Two
-msgid 'Choose Up To Two'
+msgid "Choose Up To Two"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:29
 msgctxt DuelScene/Browsers/Choose_Options
-msgid 'Choose Options'
+msgid "Choose Options"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:30
 msgctxt DuelScene/Browsers/ChooseCards
-msgid 'Choose Card(s)'
+msgid "Choose Card(s)"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:31
 msgctxt DuelScene/Browsers/ChooseColorPair
-msgid 'Choose a card for each color pair.'
+msgid "Choose a card for each color pair."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:32
 msgctxt DuelScene/Browsers/Click_Add_Stop
-msgid 'Click to Add Stop'
+msgid "Click to Add Stop"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:33
 msgctxt DuelScene/Browsers/Click_Emotes
-msgid 'Click for Emotes'
+msgid "Click for Emotes"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:34
 msgctxt DuelScene/Browsers/Click_Mute_Unmute
-msgid 'Click to Mute / Unmute'
+msgid "Click to Mute / Unmute"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:35
 msgctxt DuelScene/Browsers/Click_Remove_Stop
-msgid 'Click to Remove Stop'
+msgid "Click to Remove Stop"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:36
 msgctxt DuelScene/Browsers/ColorSelectHeader
-msgid 'Choose Colors'
+msgid "Choose Colors"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:37
 msgctxt DuelScene/Browsers/CombatPhase
-msgid 'Beginning of Combat, Declare Attackers, Declare Blockers, Combat Damage, End of Combat'
+msgid "Beginning of Combat, Declare Attackers, Declare Blockers, Combat Damage, End of Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:38
 msgctxt DuelScene/Browsers/EndingPhase
-msgid 'End, Cleanup'
+msgid "End, Cleanup"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:39
 msgctxt DuelScene/Browsers/Exert_Normal_Tooltip
-msgid 'Normal Attack'
+msgid "Normal Attack"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:40
 msgctxt DuelScene/Browsers/Exert_Tooltip
-msgid 'Exert'
+msgid "Exert"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:41
 msgctxt DuelScene/Browsers/Exile_Browser_Title
-msgid 'Exile'
+msgid "Exile"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:42
 msgctxt DuelScene/Browsers/Explore_Title
-msgid 'Explore'
+msgid "Explore"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:43
 msgctxt DuelScene/Browsers/FirstMainPhase
-msgid 'First Main'
+msgid "First Main"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:44
 msgctxt DuelScene/Browsers/Foretell_Special_Action_Body
-msgid 'During your turn, you may pay {o2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost {foretellCost}.'
+msgid "During your turn, you may pay {o2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost {foretellCos\
+t}."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:45
 msgctxt DuelScene/Browsers/Foretell_Special_Action_Title
-msgid 'Foretell'
+msgid "Foretell"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:46
 msgctxt DuelScene/Browsers/Graveyard_Browser_Title
-msgid 'Graveyard'
+msgid "Graveyard"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:47
 msgctxt DuelScene/Browsers/Library_Browser_Title
-msgid 'Library'
+msgid "Library"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:48
 msgctxt DuelScene/Browsers/Local_Player
-msgid 'You'
+msgid "You"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:49
 msgctxt DuelScene/Browsers/Multi_Browser_SubTitle
-msgid 'Click on one option below to select it.'
+msgid "Click on one option below to select it."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:50
 msgctxt DuelScene/Browsers/Multi_Browser_Title
-msgid 'Choose One'
+msgid "Choose One"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:51
 msgctxt DuelScene/Browsers/Mutate_BrowserButton_Over
-msgid 'Over'
+msgid "Over"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:52
 msgctxt DuelScene/Browsers/Mutate_BrowserButton_Under
-msgid 'Under'
+msgid "Under"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:53
 msgctxt DuelScene/Browsers/Mutate_BrowserHeader
-msgid 'Mutate'
+msgid "Mutate"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:54
 msgctxt DuelScene/Browsers/Mutate_BrowserSubHeader
-msgid 'Select whether to mutate this card under or over the targeted creature.\n<i>They mutate into the creature on top plus all abilities from under it.</i>'
+msgid "Select whether to mutate this card under or over the targeted creature.\
+<i>They mutate into the creature on top plus all abilities from under it.</i>"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:55
 msgctxt DuelScene/Browsers/NoActionsBrowser_Header_Plural
-msgid 'You May Not Play These Cards'
+msgid "You May Not Play These Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:56
 msgctxt DuelScene/Browsers/NoActionsBrowser_Header_Single
-msgid 'You May Not Play This Card'
+msgid "You May Not Play This Card"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:57
 msgctxt DuelScene/Browsers/NoActionsBrowser_SubHeader
-msgid 'Click the button below to continue'
+msgid "Click the button below to continue"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:58
 msgctxt DuelScene/Browsers/Opponent
-msgid 'Opponent'
+msgid "Opponent"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:59
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_Header_Fabricate1
-msgid 'Fabricate 1'
+msgid "Fabricate 1"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:60
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_Header_Fabricate2
-msgid 'Fabricate 2'
+msgid "Fabricate 2"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:61
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_Header_Fabricate3
-msgid 'Fabricate 3'
+msgid "Fabricate 3"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:62
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_NoCardRuleText_Fabricate1
-msgid 'Create a 1/1 colorless Servo artifact creature token'
+msgid "Create a 1/1 colorless Servo artifact creature token"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:63
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_NoCardRuleText_Fabricate2
-msgid 'Create two 1/1 colorless Servo artifact creature tokens'
+msgid "Create two 1/1 colorless Servo artifact creature tokens"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:64
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_NoCardRuleText_Fabricate3
-msgid 'Create three 1/1 colorless Servo artifact creature tokens'
+msgid "Create three 1/1 colorless Servo artifact creature tokens"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:65
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_YesCardRuleText_Fabricate1
-msgid 'Put a +1/+1 counter on {cardname}'
+msgid "Put a +1/+1 counter on {cardname}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:66
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_YesCardRuleText_Fabricate2
-msgid 'Put two +1/+1 counters on {cardname}'
+msgid "Put two +1/+1 counters on {cardname}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:67
 msgctxt DuelScene/Browsers/OptionalActionWorkflow_YesCardRuleText_Fabricate3
-msgid 'Put three +1/+1 counters on {cardname}'
+msgid "Put three +1/+1 counters on {cardname}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:68
 msgctxt DuelScene/Browsers/Order_Attackers_Text
-msgid 'Drag to order the creatures attacking {cardName}.\nCreatures will be damaged in order from left to right.'
+msgid "Drag to order the creatures attacking {cardName}.\
+Creatures will be damaged in order from left to right."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:69
 msgctxt DuelScene/Browsers/Order_Attackers_Title
-msgid 'Order Attackers'
+msgid "Order Attackers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:70
 msgctxt DuelScene/Browsers/Order_Blockers_Text
-msgid 'Drag to order the creatures blocking {cardName}.\nCreatures will be damaged in order from left to right.'
+msgid "Drag to order the creatures blocking {cardName}.\
+Creatures will be damaged in order from left to right."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:71
 msgctxt DuelScene/Browsers/Order_Blockers_Title
-msgid 'Order Blockers'
+msgid "Order Blockers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:72
 msgctxt DuelScene/Browsers/Order_Bottom
-msgid 'Bottom'
+msgid "Bottom"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:73
 msgctxt DuelScene/Browsers/Order_First
-msgid 'First'
+msgid "First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:74
 msgctxt DuelScene/Browsers/Order_Last
-msgid 'Last'
+msgid "Last"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:75
 msgctxt DuelScene/Browsers/Order_Top
-msgid 'Top'
+msgid "Top"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:76
 msgctxt DuelScene/Browsers/OrderRequest_Bottom_Header
-msgid 'Order Cards'
+msgid "Order Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:77
 msgctxt DuelScene/Browsers/OrderRequest_Bottom_SubHeader
-msgid 'Drag cards to order them on the bottom of your library.'
+msgid "Drag cards to order them on the bottom of your library."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:78
 msgctxt DuelScene/Browsers/OrderRequest_Generic_Header
-msgid 'Order Cards'
+msgid "Order Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:79
 msgctxt DuelScene/Browsers/OrderRequest_Generic_LeftText
-msgid 'BOTTOM'
+msgid "BOTTOM"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:80
 msgctxt DuelScene/Browsers/OrderRequest_Generic_RightText
-msgid 'TOP'
+msgid "TOP"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:81
 msgctxt DuelScene/Browsers/OrderRequest_Generic_SubHeader
-msgid 'Drag cards to order them.'
+msgid "Drag cards to order them."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:82
 msgctxt DuelScene/Browsers/OrderRequest_Top_Header
-msgid 'Order Cards'
+msgid "Order Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:83
 msgctxt DuelScene/Browsers/OrderRequest_Top_SubHeader
-msgid 'Drag cards to order them on top of your library.'
+msgid "Drag cards to order them on top of your library."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:84
 msgctxt DuelScene/Browsers/OrderTriggeredAbilities_First
-msgid 'First'
+msgid "First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:85
 msgctxt DuelScene/Browsers/OrderTriggeredAbilities_Header
-msgid 'Order Triggers'
+msgid "Order Triggers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:86
 msgctxt DuelScene/Browsers/OrderTriggeredAbilities_Last
-msgid 'Last'
+msgid "Last"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:87
 msgctxt DuelScene/Browsers/OrderTriggeredAbilities_SubHeader
-msgid 'Drag triggers to choose resolution order'
+msgid "Drag triggers to choose resolution order"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:88
 msgctxt DuelScene/Browsers/Repeat_Options_Subheader
-msgid 'You may choose the same option more than once, {options} options remaining'
+msgid "You may choose the same option more than once, {options} options remaining"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:89
 msgctxt DuelScene/Browsers/ReturnToSideboard
-msgid 'Return to Sideboard'
+msgid "Return to Sideboard"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:90
 msgctxt DuelScene/Browsers/RevealBrowser_Dismiss
-msgid 'Dismiss'
+msgid "Dismiss"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:91
 msgctxt DuelScene/Browsers/Revealed_Card_Title
-msgid 'Revealed Cards'
+msgid "Revealed Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:92
 msgctxt DuelScene/Browsers/Riot_BrowserButton_Counter
-msgid '+1/+1 Counter'
+msgid "+1/+1 Counter"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:93
 msgctxt DuelScene/Browsers/Riot_BrowserButton_Haste
-msgid 'Haste'
+msgid "Haste"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:94
 msgctxt DuelScene/Browsers/Riot_BrowserHeader
-msgid 'Riot'
+msgid "Riot"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:95
 msgctxt DuelScene/Browsers/Riot_BrowserSubHeader
-msgid 'Select whether this creature enters the battlefield with a +1/+1 counter or haste.'
+msgid "Select whether this creature enters the battlefield with a +1/+1 counter or haste."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:96
 msgctxt DuelScene/Browsers/ScryBrowser_Header
-msgid 'Scry'
+msgid "Scry"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:97
 msgctxt DuelScene/Browsers/ScryBrowser_LeftText
-msgid 'Bottom'
+msgid "Bottom"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:98
 msgctxt DuelScene/Browsers/ScryBrowser_RightText
-msgid 'Top'
+msgid "Top"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:99
 msgctxt DuelScene/Browsers/ScryBrowser_SubHeader
-msgid 'Drag cards to put them on the top or bottom of your library.'
+msgid "Drag cards to put them on the top or bottom of your library."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:100
 msgctxt DuelScene/Browsers/SecondMainPhase
-msgid 'Second Main'
+msgid "Second Main"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:101
 msgctxt DuelScene/Browsers/Seen_Cards_Title
-msgid 'Seen Cards'
+msgid "Seen Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:102
 msgctxt DuelScene/Browsers/Select_Cards_Title
-msgid 'Choose Cards'
+msgid "Choose Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:103
 msgctxt DuelScene/Browsers/Select_Cost_SubTitle
-msgid 'Select the cost to pay.'
+msgid "Select the cost to pay."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:104
 msgctxt DuelScene/Browsers/Select_Cost_Title
-msgid 'Select Cost'
+msgid "Select Cost"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:105
 msgctxt DuelScene/Browsers/Select_Deck
-msgid 'Choose a Deck'
+msgid "Choose a Deck"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:106
 msgctxt DuelScene/Browsers/Select_Deck_Tooltip
-msgid 'Double-click to Edit'
+msgid "Double-click to Edit"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:107
 msgctxt DuelScene/Browsers/Select_From_Available_Cards
-msgid 'Click a zone name on the left to view that zone. Choose a card by clicking it.'
+msgid "Click a zone name on the left to view that zone. Choose a card by clicking it."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:108
 msgctxt DuelScene/Browsers/Select_Title
-msgid 'Choose'
+msgid "Choose"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:109
 msgctxt DuelScene/Browsers/SelectZones_SubHeader
-msgid 'Select a zone to search.'
+msgid "Select a zone to search."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:110
 msgctxt DuelScene/Browsers/Stack_Browser_Attached_Card
-msgid 'Attached Card'
+msgid "Attached Card"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:111
 msgctxt DuelScene/Browsers/Stack_Browser_Attached_Cards
-msgid 'Attached Cards'
+msgid "Attached Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:112
 msgctxt DuelScene/Browsers/Stack_Browser_Exiled_Card
-msgid 'Exiled Card'
+msgid "Exiled Card"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:113
 msgctxt DuelScene/Browsers/Stack_Browser_Exiled_Cards
-msgid 'Exiled Cards'
+msgid "Exiled Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:114
 msgctxt DuelScene/Browsers/Stack_Browser_ParentCard
-msgid '({cardname})'
+msgid "({cardname})"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:115
 msgctxt DuelScene/Browsers/Stack_Browser_Title
-msgid 'Stacked Cards'
+msgid "Stacked Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:116
 msgctxt DuelScene/Browsers/Stacked Cards
-msgid 'Stacked Cards'
+msgid "Stacked Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:117
 msgctxt DuelScene/Browsers/StartingPlayer_DrawFirst
-msgid 'Draw First'
+msgid "Draw First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:118
 msgctxt DuelScene/Browsers/StartingPlayer_Header
-msgid 'Choose if You Will Draw First or Play First'
+msgid "Choose if You Will Draw First or Play First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:119
 msgctxt DuelScene/Browsers/StartingPlayer_PlayFirst
-msgid 'Play First'
+msgid "Play First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:120
 msgctxt DuelScene/Browsers/StartingPlayer_SubHeader
-msgid 'The player who plays first will skip their first draw. <i>It is usually best to play first, but some strategies prefer to draw first.</i>'
+msgid "The player who plays first will skip their first draw. <i>It is usually best to play first, but some strategies prefer to draw first.</i>"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:121
 msgctxt DuelScene/Browsers/StartingPlayer_Waiting_Header
-msgid 'Waiting on Your Opponent'
+msgid "Waiting on Your Opponent"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:122
 msgctxt DuelScene/Browsers/StartingPlayer_Waiting_SubHeader
-msgid 'Your opponent is choosing which player will play first.'
+msgid "Your opponent is choosing which player will play first."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:123
 msgctxt DuelScene/Browsers/Submit_Deck_FailureTooLarge
-msgid 'Deck validation failed. Your deck has {mainQty} cards and your sideboard has {sideQty}, but the limit is {maxQty}.'
+msgid "Deck validation failed. Your deck has {mainQty} cards and your sideboard has {sideQty}, but the limit is {maxQty}."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:124
 msgctxt DuelScene/Browsers/Submit_Deck_Invalid
-msgid 'Deck validation failed.'
+msgid "Deck validation failed."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:125
 msgctxt DuelScene/Browsers/Submit_Deck_MissingFormat
-msgid 'Your deck did not specify a play format'
+msgid "Your deck did not specify a play format"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:126
 msgctxt DuelScene/Browsers/Surveil_Browser_Subtitle
-msgid 'Drag cards to put them on the top of your library or into your graveyard.'
+msgid "Drag cards to put them on the top of your library or into your graveyard."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:127
 msgctxt DuelScene/Browsers/Surveil_Browser_Title
-msgid 'Surveil'
+msgid "Surveil"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:128
 msgctxt DuelScene/Browsers/Transform
-msgid ' Transform?'
+msgid " Transform?"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:129
 msgctxt DuelScene/Browsers/ViewBattlefield
-msgid 'View Battlefield'
+msgid "View Battlefield"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:130
 msgctxt DuelScene/Browsers/ViewBrowser
-msgid 'View Browser'
+msgid "View Browser"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:131
 msgctxt DuelScene/Browsers/ViewDismiss_Done
-msgid 'Done'
+msgid "Done"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:132
 msgctxt DuelScene/Browsers/ZoneSearch
-msgid 'Search {zone}'
+msgid "Search {zone}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:133
 msgctxt DuelScene/CDC/Ability
-msgid 'Ability'
+msgid "Ability"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:134
 msgctxt DuelScene/CDC/Emblem
-msgid 'Emblem'
+msgid "Emblem"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:135
 msgctxt DuelScene/CDC/Token
-msgid 'Token '
+msgid "Token "
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:136
 msgctxt DuelScene/ClientPrompt/ActivateAbility
-msgid 'Activate Ability'
+msgid "Activate Ability"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:137
 msgctxt DuelScene/ClientPrompt/Are_You_Sure_Title
-msgid 'Are You Sure?'
+msgid "Are You Sure?"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:138
 msgctxt DuelScene/ClientPrompt/AttackerManaCost
-msgid 'Cost: {0}'
+msgid "Cost: {0}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:139
 msgctxt DuelScene/ClientPrompt/BoltlandSubheader
-msgid 'Select whether to pay 3 life or to enter the battlefield tapped.'
+msgid "Select whether to pay 3 life or to enter the battlefield tapped."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:140
 msgctxt DuelScene/ClientPrompt/Cast_Normally_Text
-msgid 'Cast Normally'
+msgid "Cast Normally"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:141
 msgctxt DuelScene/ClientPrompt/ChooseX_Default
-msgid 'X = {quantity}'
+msgid "X = {quantity}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:142
 msgctxt DuelScene/ClientPrompt/ChooseX_Pay
-msgid 'Pay\nX = {quantity}'
+msgid "Pay\
+X = {quantity}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:143
 msgctxt DuelScene/ClientPrompt/ChooseX_Pay_Quantity
-msgid 'Pay {quantity}'
+msgid "Pay {quantity}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:144
 msgctxt DuelScene/ClientPrompt/ChooseX_Prompt_Sacrifice
-msgid 'Select number of creatures to sacrifice'
+msgid "Select number of creatures to sacrifice"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:145
 msgctxt DuelScene/ClientPrompt/ChooseX_Sacrifice
-msgid 'Sacrifice {quantity}'
+msgid "Sacrifice {quantity}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:146
 msgctxt DuelScene/ClientPrompt/ChooseX_Value
-msgid 'X = {quantity}'
+msgid "X = {quantity}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:147
 msgctxt DuelScene/ClientPrompt/Click_Select_Option
-msgid 'Click on one option below to select it'
+msgid "Click on one option below to select it"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:148
 msgctxt DuelScene/ClientPrompt/Click_Yes_No_Text
-msgid 'Click Yes to proceed or No to cancel.'
+msgid "Click Yes to proceed or No to cancel."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:149
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_AllAttack
-msgid 'All Attack'
+msgid "All Attack"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:150
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_AllAttack_Keyname
-msgid 'A'
+msgid "A"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:151
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Attack
-msgid 'Attack'
+msgid "Attack"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:152
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Back
-msgid 'Back'
+msgid "Back"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:153
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Block
-msgid 'Block'
+msgid "Block"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:154
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Cancel
-msgid 'Cancel'
+msgid "Cancel"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:155
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_CancelAttack
-msgid 'Cancel Attacks'
+msgid "Cancel Attacks"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:156
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Confirm_Action
-msgid 'Confirm {[InputInteraction]}?'
+msgid "Confirm {[InputInteraction]}?"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:157
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_CostX
-msgid 'X = {[Number]}'
+msgid "X = {[Number]}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:158
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_DealDamage
-msgid 'Deal Damage'
+msgid "Deal Damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:159
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Decline
-msgid 'Decline'
+msgid "Decline"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:160
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_FailToFind
-msgid 'End Search'
+msgid "End Search"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:161
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Multiple_Blockers
-msgid '{numBlockers} Blockers'
+msgid "{numBlockers} Blockers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:162
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_No
-msgid 'No'
+msgid "No"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:163
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_NoAttackers
-msgid 'No Attacks'
+msgid "No Attacks"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:164
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_NoBlockers
-msgid 'No Blocks'
+msgid "No Blocks"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:165
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_NumAttackers
-msgid '{[Number]} Attackers'
+msgid "{[Number]} Attackers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:166
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_NumBlockers
-msgid '{[Number]} Blockers'
+msgid "{[Number]} Blockers"
 msgstr ""
 
 
@@ -1002,49 +1007,49 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:168
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_ResolveAttack
-msgid 'Resolve Attack'
+msgid "Resolve Attack"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:169
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Single_Blocker
-msgid '{numBlockers} Blocker'
+msgid "{numBlockers} Blocker"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:170
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Submit
-msgid 'Submit'
+msgid "Submit"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:171
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Submit_Action
-msgid 'Submit Action'
+msgid "Submit Action"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:172
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Submit_XActions
-msgid 'Submit {number} Actions'
+msgid "Submit {number} Actions"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:173
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Button_Yes
-msgid 'Yes'
+msgid "Yes"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:174
 msgctxt DuelScene/ClientPrompt/ClientPrompt_ChooseDamangeRecipient
-msgid 'Choose a player or planeswalker to attack.'
+msgid "Choose a player or planeswalker to attack."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:175
 msgctxt DuelScene/ClientPrompt/ClientPrompt_ChooseTargetsData_Label
-msgid 'choosing targets'
+msgid "choosing targets"
 msgstr ""
 
 
@@ -1056,121 +1061,121 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:177
 msgctxt DuelScene/ClientPrompt/ClientPrompt_IllegalAttack
-msgid 'Illegal attacks. Try again.'
+msgid "Illegal attacks. Try again."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:178
 msgctxt DuelScene/ClientPrompt/ClientPrompt_IllegalBlock
-msgid 'Illegal blocks. Try again.'
+msgid "Illegal blocks. Try again."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:179
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Multiple_Attacks_Cancelled
-msgid 'Cancel Attacks'
+msgid "Cancel Attacks"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:180
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Multiple_Declared_Attackers
-msgid '{numAttackers} Attackers'
+msgid "{numAttackers} Attackers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:181
 msgctxt DuelScene/ClientPrompt/ClientPrompt_OpeningHandAction_Header
-msgid 'Opening Hand Actions'
+msgid "Opening Hand Actions"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:182
 msgctxt DuelScene/ClientPrompt/ClientPrompt_OpeningHandAction_SubHeader
-msgid 'You will take all available opening hand actions unless you deselect them.'
+msgid "You will take all available opening hand actions unless you deselect them."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:183
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Single_Attack_Cancelled
-msgid 'Cancel Attack'
+msgid "Cancel Attack"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:184
 msgctxt DuelScene/ClientPrompt/ClientPrompt_Single_Declared_Attacker
-msgid '{numAttackers} Attacker'
+msgid "{numAttackers} Attacker"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:185
 msgctxt DuelScene/ClientPrompt/ClientPrompt_ZoomData_Label
-msgid 'zooming card'
+msgid "zooming card"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:186
 msgctxt DuelScene/ClientPrompt/Confirm_Quantity_Button_Text
-msgid 'Confirm {quantity}'
+msgid "Confirm {quantity}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:187
 msgctxt DuelScene/ClientPrompt/Decline_Action
-msgid 'Decline'
+msgid "Decline"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:188
 msgctxt DuelScene/ClientPrompt/Divide_Pile_Facedown_Text
-msgid 'Drag cards to move them between piles. The top pile will be face-down.'
+msgid "Drag cards to move them between piles. The top pile will be face-down."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:189
 msgctxt DuelScene/ClientPrompt/Divide_Pile_Text
-msgid 'Drag cards to move them between piles.'
+msgid "Drag cards to move them between piles."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:190
 msgctxt DuelScene/ClientPrompt/Divide_Pile_Title
-msgid 'Divide Cards Into Piles'
+msgid "Divide Cards Into Piles"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:191
 msgctxt DuelScene/ClientPrompt/EntersTapped
-msgid 'Enters Tapped'
+msgid "Enters Tapped"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:192
 msgctxt DuelScene/ClientPrompt/ExamineInstance
-msgid 'View Current'
+msgid "View Current"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:193
 msgctxt DuelScene/ClientPrompt/ExamineMutations
-msgid 'View Mutations'
+msgid "View Mutations"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:194
 msgctxt DuelScene/ClientPrompt/ExaminePrinting
-msgid 'View Printed Card'
+msgid "View Printed Card"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:195
 msgctxt DuelScene/ClientPrompt/Forfeit_Match
-msgid 'Concede Match and Exit'
+msgid "Concede Match and Exit"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:196
 msgctxt DuelScene/ClientPrompt/GreConnectionError
-msgid 'Connection Error'
+msgid "Connection Error"
 msgstr ""
 
 
@@ -1182,703 +1187,705 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:198
 msgctxt DuelScene/ClientPrompt/OptionalAction_Reveal
-msgid 'Reveal'
+msgid "Reveal"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:199
 msgctxt DuelScene/ClientPrompt/Over_Max_HandSize_Discard_Multiple_Text
-msgid 'Your maximum hand size is ({maxHandSize}). You will need to discard {number} cards at the end of your turn.'
+msgid "Your maximum hand size is ({maxHandSize}). You will need to discard {number} cards at the end of your turn."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:200
 msgctxt DuelScene/ClientPrompt/Over_Max_HandSize_Discard_Single_Text
-msgid 'You will need to discard down to {maxHandSize} at the end of your turn.'
+msgid "You will need to discard down to {maxHandSize} at the end of your turn."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:201
 msgctxt DuelScene/ClientPrompt/ParityChoice_Even
-msgid 'Even'
+msgid "Even"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:202
 msgctxt DuelScene/ClientPrompt/ParityChoice_Odd
-msgid 'Odd'
+msgid "Odd"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:203
 msgctxt DuelScene/ClientPrompt/ParityEmote_Even
-msgid 'Even'
+msgid "Even"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:204
 msgctxt DuelScene/ClientPrompt/ParityEmote_Odd
-msgid 'Odd'
+msgid "Odd"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:205
 msgctxt DuelScene/ClientPrompt/Pay2Life
-msgid 'Pay 2 Life'
+msgid "Pay 2 Life"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:206
 msgctxt DuelScene/ClientPrompt/Pay3Life
-msgid 'Pay 3 Life'
+msgid "Pay 3 Life"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:207
 msgctxt DuelScene/ClientPrompt/PayAdamant
-msgid 'Pay Adamant'
+msgid "Pay Adamant"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:208
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Attack
-msgid 'Attack'
+msgid "Attack"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:209
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Attackers
-msgid 'Declare Attackers'
+msgid "Declare Attackers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:210
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Attacks
-msgid 'Attacks'
+msgid "Attacks"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:211
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Begin
-msgid 'Begin'
+msgid "Begin"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:212
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Block
-msgid 'Block'
+msgid "Block"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:213
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Blockers
-msgid 'Declare Blockers'
+msgid "Declare Blockers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:214
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Combat
-msgid 'Combat'
+msgid "Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:215
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Damage
-msgid 'Combat Damage'
+msgid "Combat Damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:216
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Draw
-msgid 'Draw'
+msgid "Draw"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:217
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_End
-msgid 'End'
+msgid "End"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:218
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_EndCombat
-msgid 'End Combat'
+msgid "End Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:219
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_EndOfTurn
-msgid 'End of Turn'
+msgid "End of Turn"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:220
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_EndTurn
-msgid 'End Turn'
+msgid "End Turn"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:221
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_FirstStrikeDamage
-msgid 'First Strike Damage'
+msgid "First Strike Damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:222
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Main
-msgid 'Main'
+msgid "Main"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:223
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_MyTurn
-msgid 'My Turn'
+msgid "My Turn"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:224
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Next
-msgid 'Next'
+msgid "Next"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:225
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_NextCombat
-msgid 'Next Combat'
+msgid "Next Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:226
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Pass
-msgid 'Pass'
+msgid "Pass"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:227
 msgctxt DuelScene/ClientPrompt/PhaseStep/PhaseStep_Resolve
-msgid 'Resolve'
+msgid "Resolve"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:228
 msgctxt DuelScene/ClientPrompt/Remaining_Selection_Prompt
-msgid ' ({count} remaining)'
+msgid " ({count} remaining)"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:229
 msgctxt DuelScene/ClientPrompt/Remove_N
-msgid 'Remove {count}'
+msgid "Remove {count}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:230
 msgctxt DuelScene/ClientPrompt/ResolveAll
-msgid 'Resolve All'
+msgid "Resolve All"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:231
 msgctxt DuelScene/ClientPrompt/ScryEffectResultsEmote
-msgid '{source}: {topCount} top, {bottomCount} bottom.'
+msgid "{source}: {topCount} top, {bottomCount} bottom."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:232
 msgctxt DuelScene/ClientPrompt/ScryResultsEmote
-msgid 'Scry: {topCount} top, {bottomCount} bottom.'
+msgid "Scry: {topCount} top, {bottomCount} bottom."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:233
 msgctxt DuelScene/ClientPrompt/Select_N_Targets
-msgid 'Select {targets} targets.'
+msgid "Select {targets} targets."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:234
 msgctxt DuelScene/ClientPrompt/Select_Pile_Text
-msgid 'Press Select to choose a pile'
+msgid "Press Select to choose a pile"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:235
 msgctxt DuelScene/ClientPrompt/Select_Pile_Title
-msgid 'Select a pile'
+msgid "Select a pile"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:236
 msgctxt DuelScene/ClientPrompt/Select_Up_To_N_Targets
-msgid 'Select up to {targets} targets.'
+msgid "Select up to {targets} targets."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:237
 msgctxt DuelScene/ClientPrompt/ShocklandSubheader
-msgid 'Select whether to pay 2 life or to enter the battlefield tapped.'
+msgid "Select whether to pay 2 life or to enter the battlefield tapped."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:238
 msgctxt DuelScene/ClientPrompt/Submit_N
-msgid 'Submit {submitCount}'
+msgid "Submit {submitCount}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:239
 msgctxt DuelScene/ClientPrompt/Take_Action
-msgid 'Take Action'
+msgid "Take Action"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:240
 msgctxt DuelScene/ClientPrompt/TapTarget
-msgid 'Tap Target'
+msgid "Tap Target"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:241
 msgctxt DuelScene/ClientPrompt/UnResolveAll
-msgid 'Respond'
+msgid "Respond"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:242
 msgctxt DuelScene/ClientPrompt/UntapTarget
-msgid 'Untap Target'
+msgid "Untap Target"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:243
 msgctxt DuelScene/ColorSelector/ColorPoolStatus
-msgid '{selectionCount} selections left.'
+msgid "{selectionCount} selections left."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:244
 msgctxt DuelScene/ColorSelector/ColorPoolStatus_Singular
-msgid '1 selection left.'
+msgid "1 selection left."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:245
 msgctxt DuelScene/ColorSelector/ModifierEnabled
-msgid 'Hold Shift to adjust by 5 per click.'
+msgid "Hold Shift to adjust by 5 per click."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:246
 msgctxt DuelScene/Emotes/GoodGame
-msgid 'Good Game.'
+msgid "Good Game."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:247
 msgctxt DuelScene/Emotes/Hello
-msgid 'Hello!'
+msgid "Hello!"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:248
 msgctxt DuelScene/Emotes/MessagingToggle/Mute
-msgid 'Mute'
+msgid "Mute"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:249
 msgctxt DuelScene/Emotes/MessagingToggle/Unmute
-msgid 'Unmute'
+msgid "Unmute"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:250
 msgctxt DuelScene/Emotes/Nice
-msgid 'Nice!'
+msgid "Nice!"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:251
 msgctxt DuelScene/Emotes/Oops
-msgid 'Oops.'
+msgid "Oops."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:252
 msgctxt DuelScene/Emotes/Sorry
-msgid 'Sorry!'
+msgid "Sorry!"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:253
 msgctxt DuelScene/Emotes/Thanks
-msgid 'Thanks!'
+msgid "Thanks!"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:254
 msgctxt DuelScene/Emotes/Thinking
-msgid 'Thinking...'
+msgid "Thinking..."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:255
 msgctxt DuelScene/Emotes/YourGo
-msgid 'Your Go.'
+msgid "Your Go."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:256
 msgctxt DuelScene/EndMatch/Defeat
-msgid 'Defeat'
+msgid "Defeat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:257
 msgctxt DuelScene/EndMatch/Draw
-msgid 'Draw'
+msgid "Draw"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:258
 msgctxt DuelScene/EndMatch/Match_Drain_Enabled
-msgid 'Matches have been temporarily disabled. Please try again later or update your client.'
+msgid "Matches have been temporarily disabled. Please try again later or update your client."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:259
 msgctxt DuelScene/EndMatch/PostMatchSurvey_Appreciation
-msgid 'Your feedback matters. Thank you for helping!'
+msgid "Your feedback matters. Thank you for helping!"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:260
 msgctxt DuelScene/EndMatch/PostMatchSurvey_Ask
-msgid 'Did you have fun in the match?'
+msgid "Did you have fun in the match?"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:261
 msgctxt DuelScene/EndMatch/PostMatchSurvey_Skip
-msgid 'Skip'
+msgid "Skip"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:262
 msgctxt DuelScene/EndMatch/Victory
-msgid 'VICTORY'
+msgid "VICTORY"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:263
 msgctxt DuelScene/FaceHanger/AdditionalCost
-msgid 'Additional Cost'
+msgid "Additional Cost"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:264
 msgctxt DuelScene/FaceHanger/Aftermath
-msgid 'Aftermath'
+msgid "Aftermath"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:265
 msgctxt DuelScene/FaceHanger/AftermathOf
-msgid 'Aftermath Of'
+msgid "Aftermath Of"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:266
 msgctxt DuelScene/FaceHanger/Annotation_AttributedInstance_Attached
-msgid 'Attached'
+msgid "Attached"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:267
 msgctxt DuelScene/FaceHanger/Annotation_AttributedInstance_Chosen
-msgid 'Chosen'
+msgid "Chosen"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:268
 msgctxt DuelScene/FaceHanger/Annotation_AttributedInstance_ChosenBy
-msgid 'Chosen By'
+msgid "Chosen By"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:269
 msgctxt DuelScene/FaceHanger/Annotation_AttributedInstance_Targeted
-msgid 'Targeted'
+msgid "Targeted"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:270
 msgctxt DuelScene/FaceHanger/Annotation_AttributedInstance_TargetedBy
-msgid 'Targeted By'
+msgid "Targeted By"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:271
 msgctxt DuelScene/FaceHanger/BackSide
-msgid 'Back Side'
+msgid "Back Side"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:272
 msgctxt DuelScene/FaceHanger/CardName
-msgid '{cardName}'
+msgid "{cardName}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:273
 msgctxt DuelScene/FaceHanger/DFC_Back_TransformsInto
-msgid 'Transforms Into'
+msgid "Transforms Into"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:274
 msgctxt DuelScene/FaceHanger/DFC_Front_TransformedFrom
-msgid 'Transformed From'
+msgid "Transformed From"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:275
 msgctxt DuelScene/FaceHanger/FrontSide
-msgid 'Front Side'
+msgid "Front Side"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:276
 msgctxt DuelScene/FaceHanger/LeftBattlfield
-msgid 'Left Battlefield'
+msgid "Left Battlefield"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:277
 msgctxt DuelScene/FaceHanger/LeftZone
-msgid 'Left {sourceZone}'
+msgid "Left {sourceZone}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:278
 msgctxt DuelScene/FaceHanger/NamedCard
-msgid 'Named Card'
+msgid "Named Card"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:279
 msgctxt DuelScene/FaceHanger/Original
-msgid 'Original'
+msgid "Original"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:280
 msgctxt DuelScene/FaceHanger/PlayerName
-msgid '{playerName}'
+msgid "{playerName}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:281
 msgctxt DuelScene/FaceHanger/References
-msgid 'References'
+msgid "References"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:282
 msgctxt DuelScene/FaceHanger/Token
-msgid 'Creates Token'
+msgid "Creates Token"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:283
 msgctxt DuelScene/GamplayError/Unexpected_Match_Complete_Message
-msgid 'The current match has ended for an unexpected reason. \n{Reason}\nWinner: {Player}'
+msgid "The current match has ended for an unexpected reason. \
+{Reason}\
+Winner: {Player}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:284
 msgctxt DuelScene/GamplayError/Unexpected_Match_Complete_Title
-msgid 'Unexpected Match Complete'
+msgid "Unexpected Match Complete"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:285
 msgctxt DuelScene/GREPrompts/Split_Frame_LeftHalf_Title
-msgid 'Left Half'
+msgid "Left Half"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:286
 msgctxt DuelScene/GREPrompts/Split_Frame_RightHalf_Title
-msgid 'Right Half'
+msgid "Right Half"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:287
 msgctxt DuelScene/Interaction/AutoPay/DefaultButtonText
-msgid 'Auto Pay'
+msgid "Auto Pay"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:288
 msgctxt DuelScene/Interaction/AutoPay/PayAdamant
-msgid 'Pay Adamant'
+msgid "Pay Adamant"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:289
 msgctxt DuelScene/Interaction/AutoPay/PayWithManaSymbolsButtonText
-msgid 'Pay With {manaSymbols}'
+msgid "Pay With {manaSymbols}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:290
 msgctxt DuelScene/Interaction/AutoPay/PayWithNumberButtonText
-msgid 'Pay With {number} {manaSymbol}'
+msgid "Pay With {number} {manaSymbol}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:291
 msgctxt DuelScene/Interaction/AutoPay/SunderingStrokeButtonText
-msgid 'Pay Seven {redManaSymbol}'
+msgid "Pay Seven {redManaSymbol}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:292
 msgctxt DuelScene/Interaction/DeclareAttackers/Attack
-msgid 'Attack'
+msgid "Attack"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:293
 msgctxt DuelScene/Interaction/DeclareAttackers/Exert
-msgid 'Exert'
+msgid "Exert"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:294
 msgctxt DuelScene/Interaction/DeclareAttackers/Undeclare
-msgid 'Undeclare'
+msgid "Undeclare"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:295
 msgctxt DuelScene/KeywordSelection/Fuse
-msgid 'Fuse'
+msgid "Fuse"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:296
 msgctxt DuelScene/KeywordSelection/Graveyard
-msgid 'Graveyard'
+msgid "Graveyard"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:297
 msgctxt DuelScene/KeywordSelection/KeywordSelection_Cancel
-msgid 'Cancel'
+msgid "Cancel"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:298
 msgctxt DuelScene/KeywordSelection/KeywordSelection_Done
-msgid 'Done'
+msgid "Done"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:299
 msgctxt DuelScene/KeywordSelection/KeywordSelection_Filter
-msgid 'Filter {description}...'
+msgid "Filter {description}..."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:300
 msgctxt DuelScene/KeywordSelection/KeywordSelection_ShowAll
-msgid 'Show All'
+msgid "Show All"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:301
 msgctxt DuelScene/KeywordSelection/Library
-msgid 'Library'
+msgid "Library"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:302
 msgctxt DuelScene/MatchDetails/WinCountPlural
-msgid '{0} wins'
+msgid "{0} wins"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:303
 msgctxt DuelScene/MatchDetails/WinCountSingular
-msgid '{0} win'
+msgid "{0} win"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:304
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_Beginning
-msgid 'To Beginning'
+msgid "To Beginning"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:305
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_BeginningCombat
-msgid 'To Beginning of Combat'
+msgid "To Beginning of Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:306
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_Combat
-msgid 'To Combat'
+msgid "To Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:307
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_Damage
-msgid 'To Damage'
+msgid "To Damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:308
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_DeclareAttackers
-msgid 'To Attackers'
+msgid "To Attackers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:309
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_DeclareBlockers
-msgid 'To Blockers'
+msgid "To Blockers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:310
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_Draw
-msgid 'To Draw'
+msgid "To Draw"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:311
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_End
-msgid 'To End'
+msgid "To End"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:312
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_EndCombat
-msgid 'To End of Combat'
+msgid "To End of Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:313
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_FirstStrikeDamage
-msgid 'To First Strike Damage'
+msgid "To First Strike Damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:314
 msgctxt DuelScene/PhaseLadder/NextPhaseStep/PhaseStep_Main
-msgid 'To Main'
+msgid "To Main"
 msgstr ""
 
 
@@ -1890,13 +1897,13 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:316
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Attackers_Player
-msgid 'Stop on my declare attackers'
+msgid "Stop on my declare attackers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:317
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Beginning_Next
-msgid 'Stop before next Turn'
+msgid "Stop before next Turn"
 msgstr ""
 
 
@@ -1908,7 +1915,7 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:319
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Beginning_Player
-msgid 'Stop on my upkeep and draw step'
+msgid "Stop on my upkeep and draw step"
 msgstr ""
 
 
@@ -1920,19 +1927,19 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:321
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Blockers_Player
-msgid 'Stop on my declare blockers'
+msgid "Stop on my declare blockers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:322
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Combat
-msgid 'Stop at Combat'
+msgid "Stop at Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:323
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Combat_Next
-msgid 'Stop at next Combat'
+msgid "Stop at next Combat"
 msgstr ""
 
 
@@ -1944,19 +1951,19 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:325
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Combat_Player
-msgid 'Stop on my beginning of combat'
+msgid "Stop on my beginning of combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:326
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Damage
-msgid 'Stop after Damage'
+msgid "Stop after Damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:327
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Damage_Next
-msgid 'Stop on next combat damage'
+msgid "Stop on next combat damage"
 msgstr ""
 
 
@@ -1968,43 +1975,43 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:329
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Damage_Player
-msgid 'Stop on my combat damage'
+msgid "Stop on my combat damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:330
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_DeclareAttackers
-msgid 'Stop after Attackers'
+msgid "Stop after Attackers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:331
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_DeclareAttackers_Next
-msgid 'Stop on next declare attackers'
+msgid "Stop on next declare attackers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:332
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_DeclareBlockers
-msgid 'Stop after Blockers'
+msgid "Stop after Blockers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:333
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_DeclareBlockers_Next
-msgid 'Stop on next declare blockers'
+msgid "Stop on next declare blockers"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:334
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_End
-msgid 'Stop after this Turn'
+msgid "Stop after this Turn"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:335
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_End_Next
-msgid 'Stop after next Turn'
+msgid "Stop after next Turn"
 msgstr ""
 
 
@@ -2016,19 +2023,19 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:337
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_End_Player
-msgid 'Stop on my end step'
+msgid "Stop on my end step"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:338
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Main
-msgid 'Stop before Combat'
+msgid "Stop before Combat"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:339
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Main_Next
-msgid 'Stop before next Combat'
+msgid "Stop before next Combat"
 msgstr ""
 
 
@@ -2040,19 +2047,19 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:341
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Main1_Player
-msgid 'Stop on my first main'
+msgid "Stop on my first main"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:342
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Main2
-msgid 'Stop at End of Turn'
+msgid "Stop at End of Turn"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:343
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Main2_Next
-msgid 'Stop at End of next Turn'
+msgid "Stop at End of next Turn"
 msgstr ""
 
 
@@ -2064,367 +2071,373 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:345
 msgctxt DuelScene/PhaseLadder/PhaseStop/PhaseStep_Main2_Player
-msgid 'Stop on my second main'
+msgid "Stop on my second main"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:346
 msgctxt DuelScene/PhaseLadder/PhaseStop/RemoveStop
-msgid 'Remove Stop'
+msgid "Remove Stop"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:347
 msgctxt DuelScene/Prompt/ActionRemaining
-msgid ' ({number} remaining)'
+msgid " ({number} remaining)"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:348
 msgctxt DuelScene/Prompt/ConsecutiveTurnTooltip
-msgid 'This player will take the next turn.'
+msgid "This player will take the next turn."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:349
 msgctxt DuelScene/Prompt/LeaveMatch
-msgid 'Leave Match'
+msgid "Leave Match"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:350
 msgctxt DuelScene/Prompt/ManaRider/DoesNotEmpty
-msgid 'Valid until:'
+msgid "Valid until:"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:351
 msgctxt DuelScene/Prompt/ManaRider/SpendOnly
-msgid 'Spend only on'
+msgid "Spend only on"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:352
 msgctxt DuelScene/Prompt/PromptNofCount
-msgid '{prompt} ({n} of {count})'
+msgid "{prompt} ({n} of {count})"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:353
 msgctxt DuelScene/Prompt/SacrificeConfirm
-msgid 'Sacrifice {cardTitle}'
+msgid "Sacrifice {cardTitle}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:354
 msgctxt DuelScene/RuleText/CastAsType
-msgid 'Cast as {type}'
+msgid "Cast as {type}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:355
 msgctxt DuelScene/RuleText/CastingTimeOption_XChoice
-msgid 'X={xChoice}'
+msgid "X={xChoice}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:356
 msgctxt DuelScene/RuleText/ColorsSpentToCast
-msgid 'Colors used {colorsSpentToCast}'
+msgid "Colors used {colorsSpentToCast}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:357
 msgctxt DuelScene/RuleText/ManaSpentToCast
-msgid 'Mana Spent: {manaSpentToCast}'
+msgid "Mana Spent: {manaSpentToCast}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:358
 msgctxt DuelScene/RuleText/MaximumHandSizeIs
-msgid 'Your maximum hand size is {count}.'
+msgid "Your maximum hand size is {count}."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:359
 msgctxt DuelScene/RuleText/NoMaximumHandSize
-msgid 'You have no maximum hand size.'
+msgid "You have no maximum hand size."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:360
 msgctxt DuelScene/RuleText/PredictedDamage
-msgid '{value} Damage'
+msgid "{value} Damage"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:361
 msgctxt DuelScene/RuleText/SpentToCast
-msgid 'Spent: {spentToCast}'
+msgid "Spent: {spentToCast}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:362
 msgctxt DuelScene/RuleText/SupplementalTextOpponentCountTypeZone
-msgid 'Your opponent has {count} {types} in their {zones}.'
+msgid "Your opponent has {count} {types} in their {zones}."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:363
 msgctxt DuelScene/RuleText/SupplementalTextYouCountTypeZone
-msgid 'You have {count} {types} in your {zones}.'
+msgid "You have {count} {types} in your {zones}."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:364
 msgctxt DuelScene/ScreenSpace/ManaPool/FromSnowSourceTooltip
-msgid '<sprite="SpriteSheet_ManaIcons" name="xS"> Mana from a snow source'
+msgid "<sprite=\"SpriteSheet_ManaIcons\" name=\"xS\"> Mana from a snow source"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:365
 msgctxt DuelScene/ScreenSpace/Prompts/EnterFullControl
-msgid 'Enter Full Control'
+msgid "Enter Full Control"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:366
 msgctxt DuelScene/ScreenSpace/Prompts/FullControlActivated
-msgid 'Full Control Activated'
+msgid "Full Control Activated"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:367
 msgctxt DuelScene/ScreenSpace/Prompts/FullControlCancel
-msgid 'Cancel'
+msgid "Cancel"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:368
 msgctxt DuelScene/ScreenSpace/Prompts/FullControlTitle
-msgid 'Full Control Enabled'
+msgid "Full Control Enabled"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:369
 msgctxt DuelScene/ScreenSpace/Prompts/FullControlToolTip
-msgid '<color="green">[Shift + Ctrl]</color> Lock/Unlock Full Control.\nWhile enabled, Full Control stops at all possible times.'
+msgid "<color=\"green\">[Shift + Ctrl]</color> Lock/Unlock Full Control.\
+While enabled, Full Control stops at all possible times."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:370
 msgctxt DuelScene/ScreenSpace/Prompts/WaitingForOpponent
-msgid 'Waiting for Opponent'
+msgid "Waiting for Opponent"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:371
 msgctxt DuelScene/ScreenSpace/Prompts/WaitingForPriority
-msgid 'Waiting for Priority'
+msgid "Waiting for Priority"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:372
 msgctxt DuelScene/SelectTargets_Ability
-msgid 'this ability'
+msgid "this ability"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:373
 msgctxt DuelScene/SelectTargets_LocalPlayer
-msgid 'Do you want to target yourself with {source}?'
+msgid "Do you want to target yourself with {source}?"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:374
 msgctxt DuelScene/SelectTargets_Opponent
-msgid 'Do you want to target your opponent with {source}?'
+msgid "Do you want to target your opponent with {source}?"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:375
 msgctxt DuelScene/StartingPlayer/FreeMulligan_ButtonText
-msgid 'Free Mulligan'
+msgid "Free Mulligan"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:376
 msgctxt DuelScene/StartingPlayer/FreeMulligan_Description_LocalPlayer
-msgid 'In this format, the first mulligan is free!'
+msgid "In this format, the first mulligan is free!"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:377
 msgctxt DuelScene/StartingPlayer/FreeMulligan_Description_Opponent
-msgid 'Your opponent is choosing whether or not to take a free mulligan.'
+msgid "Your opponent is choosing whether or not to take a free mulligan."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:378
 msgctxt DuelScene/StartingPlayer/Keep
-msgid 'Keep'
+msgid "Keep"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:379
 msgctxt DuelScene/StartingPlayer/KeepCountPlural
-msgid 'Keep {count}'
+msgid "Keep {count}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:380
 msgctxt DuelScene/StartingPlayer/KeepCountSingular
-msgid 'Keep {count}'
+msgid "Keep {count}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:381
 msgctxt DuelScene/StartingPlayer/KeepPlural
-msgid 'Keep {count}'
+msgid "Keep {count}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:382
 msgctxt DuelScene/StartingPlayer/KeepSingular
-msgid 'Keep {count}'
+msgid "Keep {count}"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:383
 msgctxt DuelScene/StartingPlayer/LondonMulliganConsequencePlural
-msgid 'You will return {count} cards to the bottom of your library.'
+msgid "You will return {count} cards to the bottom of your library."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:384
 msgctxt DuelScene/StartingPlayer/LondonMulliganConsequenceSingular
-msgid 'You will return {count} card to the bottom of your library.'
+msgid "You will return {count} card to the bottom of your library."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:385
 msgctxt DuelScene/StartingPlayer/LondonReturnSubheaderPlural
-msgid 'Drag {count} cards to the bottom of your library.'
+msgid "Drag {count} cards to the bottom of your library."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:386
 msgctxt DuelScene/StartingPlayer/LondonReturnSubheaderSingular
-msgid 'Drag {count} card to the bottom of your library.'
+msgid "Drag {count} card to the bottom of your library."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:387
 msgctxt DuelScene/StartingPlayer/LondonReturnTitlePlural
-msgid 'Return {count} Cards'
+msgid "Return {count} Cards"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:388
 msgctxt DuelScene/StartingPlayer/LondonReturnTitleSingular
-msgid 'Return {count} Card'
+msgid "Return {count} Card"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:389
 msgctxt DuelScene/StartingPlayer/LondonRules
-msgid "Each time you take a mulligan, you draw seven cards, then decide if you want to keep that hand or take an additional mulligan. Once you've decided to keep your hand, put a number of cards equal to the number of times you have mulliganed this game on the bottom of your library in any order."
+msgid "Each time you take a mulligan, you draw seven cards, then decide if you want to keep that hand or take an additional mulligan. Once \
+you've decided to keep your hand, put a number of cards equal to the number of times you have mulliganed this game on the bottom of \
+your library in any order."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:390
 msgctxt DuelScene/StartingPlayer/Mulligan
-msgid 'Mulligan'
+msgid "Mulligan"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:391
 msgctxt DuelScene/StartingPlayer/Mulligan_Opening_Hand_Plural_Cards_Empty_Text
-msgid 'Mulligan your opening hand? This replaces this card with nothing. <br><i>Note that a good opening hand has multiple lands and spells.</i>'
+msgid "Mulligan your opening hand? This replaces this card with nothing. <br><i>Note that a good opening hand has multiple lands and spells.</i>"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:392
 msgctxt DuelScene/StartingPlayer/Mulligan_Opening_Hand_Plural_Cards_SingleRemaining_Text
-msgid 'Mulligan your opening hand? This replaces these {cardsInHand} cards with a new one.<br> <i>Note that a good opening hand has multiple lands and spells.</i>'
+msgid "Mulligan your opening hand? This replaces these {cardsInHand} cards with a new one.<br> <i>Note that a good opening hand has multiple \
+lands and spells.</i>"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:393
 msgctxt DuelScene/StartingPlayer/Mulligan_Opening_Hand_Plural_Cards_Text
-msgid 'Mulligan your opening hand? This replaces these {cardsInHand} cards with {newCardCount} new ones.\n<i>Note that a good opening hand has multiple lands and spells.</i>'
+msgid "Mulligan your opening hand? This replaces these {cardsInHand} cards with {newCardCount} new ones.\
+<i>Note that a good opening hand has multiple lands and spells.</i>"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:394
 msgctxt DuelScene/StartingPlayer/Mulligan_Opening_Hand_Single_Card_Text
-msgid 'Mulligan your opening hand? This replaces these {cardsInHand} cards with {newCardCount} new one.\n<i>Note that a good opening hand has multiple lands and spells.</i>'
+msgid "Mulligan your opening hand? This replaces these {cardsInHand} cards with {newCardCount} new one.\
+<i>Note that a good opening hand has multiple lands and spells.</i>"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:395
 msgctxt DuelScene/StartingPlayer/MulliganConsequence
-msgid 'This replaces these {currentHandSize} cards with {nextHandSize} new ones.'
+msgid "This replaces these {currentHandSize} cards with {nextHandSize} new ones."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:396
 msgctxt DuelScene/StartingPlayer/MulliganPrompt
-msgid 'Mulligan Your Opening Hand?'
+msgid "Mulligan Your Opening Hand?"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:397
 msgctxt DuelScene/StartingPlayer/Opening_Hand_Title
-msgid 'Your Opening Hand'
+msgid "Your Opening Hand"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:398
 msgctxt DuelScene/StartingPlayer/OpeningHandDetails
-msgid 'Your opponent is choosing whether to keep their hand or mulligan to {newHandSize} cards.'
+msgid "Your opponent is choosing whether to keep their hand or mulligan to {newHandSize} cards."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:399
 msgctxt DuelScene/StartingPlayer/Opponent_First_No_Arrow
-msgid 'Opponent Goes First'
+msgid "Opponent Goes First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:400
 msgctxt DuelScene/StartingPlayer/Opponent_First_Text
-msgid '{arrowIcon} Your opponent goes first.'
+msgid "{arrowIcon} Your opponent goes first."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:401
 msgctxt DuelScene/StartingPlayer/OpponentChoosingPlural
-msgid 'Your opponent is choosing whether to keep {count} cards or to mulligan.'
+msgid "Your opponent is choosing whether to keep {count} cards or to mulligan."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:402
 msgctxt DuelScene/StartingPlayer/OpponentChoosingSingular
-msgid 'Your opponent is choosing whether to keep {count} card or to mulligan.'
+msgid "Your opponent is choosing whether to keep {count} card or to mulligan."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:403
 msgctxt DuelScene/StartingPlayer/OpponentKeepPlural
-msgid 'Your opponent kept a hand of {count} cards.'
+msgid "Your opponent kept a hand of {count} cards."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:404
 msgctxt DuelScene/StartingPlayer/OpponentKeepSingular
-msgid 'Your opponent kept a hand of {count} card.'
+msgid "Your opponent kept a hand of {count} card."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:405
 msgctxt DuelScene/StartingPlayer/OpponentKept
-msgid 'Your opponent kept a hand of {handSize} cards.'
+msgid "Your opponent kept a hand of {handSize} cards."
 msgstr ""
 
 
@@ -2442,19 +2455,19 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:408
 msgctxt DuelScene/StartingPlayer/OpponentMulliganChoice
-msgid 'Your opponent has {handSize} cards and may take a mulligan after you have made your choice.'
+msgid "Your opponent has {handSize} cards and may take a mulligan after you have made your choice."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:409
 msgctxt DuelScene/StartingPlayer/OpponentMulliganPlural
-msgid 'Your opponent has taken {count} mulligans and may take another after you have made your choice.'
+msgid "Your opponent has taken {count} mulligans and may take another after you have made your choice."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:410
 msgctxt DuelScene/StartingPlayer/OpponentMulliganSingular
-msgid 'Your opponent has taken {count} mulligan and may take another after you have made your choice.'
+msgid "Your opponent has taken {count} mulligan and may take another after you have made your choice."
 msgstr ""
 
 
@@ -2466,43 +2479,43 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:412
 msgctxt DuelScene/StartingPlayer/OpponentWaiting
-msgid 'Your opponent is waiting for their initial mulligan choice.'
+msgid "Your opponent is waiting for their initial mulligan choice."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:413
 msgctxt DuelScene/StartingPlayer/Player_First_No_Arrow
-msgid 'You Go First'
+msgid "You Go First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:414
 msgctxt DuelScene/StartingPlayer/Player_First_Text
-msgid '{arrowIcon} You go first.'
+msgid "{arrowIcon} You go first."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:415
 msgctxt DuelScene/StartingPlayer/Players_Turn
-msgid 'Your Turn'
+msgid "Your Turn"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:416
 msgctxt DuelScene/StartingPlayer/StartingPlayer_DrawFirst
-msgid 'Draw First'
+msgid "Draw First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:417
 msgctxt DuelScene/StartingPlayer/StartingPlayer_PlayFirst
-msgid 'Play First'
+msgid "Play First"
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:418
 msgctxt DuelScene/TimeoutUsed
-msgid 'TIMEOUT USED'
+msgid "TIMEOUT USED"
 msgstr ""
 
 
@@ -2514,13 +2527,13 @@ msgstr ""
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:420
 msgctxt DuelScene/Warning/MatchClockLowTime
-msgid 'Less than {minutesRemaining} minutes remaining in your match timer. You will concede the match if it expires.'
+msgid "Less than {minutesRemaining} minutes remaining in your match timer. You will concede the match if it expires."
 msgstr ""
 
 
 #: loc_DuelScene_0b46e34457cd57d01ac70793906d52e9.mtga:421
 msgctxt DuelScene/Warning/SelectTargets_ColdHighlightWarning
-msgid 'Do you want to target {target} with {source}?'
+msgid "Do you want to target {target} with {source}?"
 msgstr ""
 
 
