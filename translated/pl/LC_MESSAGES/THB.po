@@ -2,23 +2,22 @@
 # Copyright (C) 2013-2019, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2020.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-14 21:20+0100\n"
-"PO-Revision-Date: 2020-03-02 21:27+0000\n"
+"PO-Revision-Date: 2021-02-15 01:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/thb/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/thb/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../../THB.rst:5
 msgid ":mtgexp:`THB` Theros Beyond Death"
@@ -97,18 +96,12 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:29
-#, fuzzy
-#| msgid ""
-#| "When Banishing Light enters the battlefield, exile target nonland "
-#| "permanent an opponent controls until Banishing Light leaves the "
-#| "battlefield. (That permanent returns under its owner's control.)"
 msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
 "Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki. (Ów "
-"permanent wraca pod władanie swojego właściciela.)"
+"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki."
 
 #: ../../THB.rst:40
 msgid ""
@@ -190,11 +183,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:53
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature dies, if an Aura you control was attached to it, "
-#| "return target creature card with converted mana cost 2 or less from your "
-#| "graveyard to your hand."
 msgid ""
 "Whenever a creature dies, if an Aura you controlled was attached to it, "
 "return target creature card with converted mana cost 2 or less from your "
@@ -237,11 +225,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:63
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_x| less to cast, where X is your devotion to "
-#| "white. (Each |mana_w| in the mana costs of permanents you control counts "
-#| "towards your devotion to white.)"
 msgid ""
 "This spell costs |mana_x| less to cast, where X is your devotion to white. "
 "(Each |mana_w| in the mana costs of permanents you control counts toward "
@@ -293,39 +276,27 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:85
-#, fuzzy
-#| msgid ""
-#| "I - Exile target permanent an opponent controls with converted mana cost "
-#| "3 or greater."
 msgid ""
 "I — Exile target permanent an opponent controls with converted mana cost 3 "
 "or greater."
 msgstr ""
-"I - Wygnaj wskazany permanent pod władaniem przeciwnika o skróconym koszcie "
+"I — Wygnaj wskazany permanent pod władaniem przeciwnika o skróconym koszcie "
 "many 3 lub większym."
 
 #: ../../THB.rst:87
-#, fuzzy
-#| msgid ""
-#| "II - Noncreature spells your opponents cast cost |mana_2| more to cast "
-#| "until your next turn."
 msgid ""
 "II — Noncreature spells your opponents cast cost |mana_2| more to cast until "
 "your next turn."
 msgstr ""
-"II - Do twojej następnej tury rzucanie nie-stworowych czarów kosztuje twoich "
+"II — Do twojej następnej tury rzucanie nie-stworowych czarów kosztuje twoich "
 "przeciwników o |mana_2| więcej."
 
 #: ../../THB.rst:89
-#, fuzzy
-#| msgid ""
-#| "III - Return target creature or planeswalker card from your graveyard to "
-#| "the battlefield. Put a +1/+1 counter or a loyalty counter on it."
 msgid ""
 "III — Return target creature or planeswalker card from your graveyard to the "
 "battlefield. Put a +1/+1 counter or a loyalty counter on it."
 msgstr ""
-"III - Przywróć wskazaną kartę stwora lub wędrowca z twojego cmentarza na "
+"III — Przywróć wskazaną kartę stwora lub wędrowca z twojego cmentarza na "
 "pole walki. Umieść na niej znacznik +1/+1 lub lojalności."
 
 #: ../../THB.rst:100
@@ -533,16 +504,12 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:155
-#, fuzzy
-#| msgid ""
-#| "Search your library for an enchantment card, reveal it, and put it into "
-#| "your hand. Then shuffle your library."
 msgid ""
 "Search your library for an enchantment card, reveal it, put it into your "
 "hand, then shuffle your library."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę uroku, ujawnij ją i umieść w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę uroku, ujawnij ją, umieść w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../THB.rst:164
 msgid ""
@@ -886,16 +853,12 @@ msgstr ""
 "kultu niebieskiego.)"
 
 #: ../../THB.rst:269
-#, fuzzy
-#| msgid ""
-#| "Creatures and enchantments you control have \"Spells your opponents cast "
-#| "that target this permanent cost |mana_1| more to cast\"."
 msgid ""
 "Creatures and enchantments you control have \"Spells your opponents cast "
 "that target this permanent cost |mana_1| more to cast.\""
 msgstr ""
 "Stwory i uroki pod twoim władaniem mają \"Rzucanie czarów wskazujących ten "
-"permanent kosztuje twoich przeciwników o |mana_1| więcej\"."
+"permanent kosztuje twoich przeciwników o |mana_1| więcej.\""
 
 #: ../../THB.rst:274
 msgid ""
@@ -1032,10 +995,6 @@ msgid "II — Choose a card name."
 msgstr "II — Nazwij kartę."
 
 #: ../../THB.rst:317
-#, fuzzy
-#| msgid ""
-#| "III — When you cast a spell with the chosen card name for the first time "
-#| "this turn, draw two cards."
 msgid ""
 "III — When you cast a spell with the chosen name for the first time this "
 "turn, draw two cards."
@@ -1164,16 +1123,12 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:363
-#, fuzzy
-#| msgid ""
-#| "Constellation — Whenever an enchantment enters the battlefield under your "
-#| "control, tap target creature an opponent controls."
 msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, target player mills two cards."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, "
-"przekręć wskazanego stwora pod władaniem przeciwnika."
+"wskazany gracz mieli dwie karty."
 
 #: ../../THB.rst:368
 msgid ""
@@ -1306,10 +1261,8 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:405
-#, fuzzy
-#| msgid "Target player loses 2 life."
 msgid "Target player mills four cards."
-msgstr "Wskazany gracz traci 2 życia."
+msgstr "Wskazany gracz mieli cztery karty."
 
 #: ../../THB.rst:407
 msgid ""
@@ -1412,12 +1365,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:441
-#, fuzzy
-#| msgid ""
-#| "When Threnody Singer enters the battlefield, target creature an opponent "
-#| "controls gets -X/-0 until end of turn, where X is your devotion to blue. "
-#| "(Each |mana_u| in the mana costs of permanents you control counts towards "
-#| "your devotion to blue.)"
 msgid ""
 "When Threnody Singer enters the battlefield, target creature an opponent "
 "controls gets -X/-0 until end of turn, where X is your devotion to blue. "
@@ -1452,16 +1399,10 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:453
-#, fuzzy
-#| msgid ""
-#| "Whenever Towering-Wave Mystic deals damage, target player puts that many "
-#| "cards from the top of their library into their graveyard."
 msgid ""
 "Whenever Towering-Wave Mystic deals damage, target player mills that many "
 "cards."
-msgstr ""
-"Ilekroć ten stwór zada obrażenia, wskazany gracz umieszcza tyle samo kart z "
-"wierzchu swojej biblioteki w swoim cmentarzu."
+msgstr "Ilekroć ten stwór zada obrażenia, wskazany gracz mieli tyle samo kart."
 
 #: ../../THB.rst:458
 msgid ""
@@ -1671,19 +1612,12 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:525
-#, fuzzy
-#| msgid ""
-#| "I - Destroy target creature an opponent controls with power 2 or less."
 msgid "I — Destroy target creature an opponent controls with power 2 or less."
 msgstr ""
 "I — Zniszcz wskazanego stwora o sile 2 lub mniejszej pod władaniem "
 "przeciwnika."
 
 #: ../../THB.rst:527
-#, fuzzy
-#| msgid ""
-#| "II - Target opponent reveals their hand. You choose a noncreature, "
-#| "nonland card from it. That player discards that card."
 msgid ""
 "II — Target opponent reveals their hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
@@ -1692,8 +1626,6 @@ msgstr ""
 "stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../THB.rst:529
-#, fuzzy
-#| msgid "III - Exile target opponent's graveyard."
 msgid "III — Exile target opponent's graveyard."
 msgstr "III — Wygnaj cmentarz wskazanego przeciwnika."
 
@@ -1795,14 +1727,8 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:569
-#, fuzzy
-#| msgid ""
-#| "You draw two cards, lose 2 life, and put the top two cards of your "
-#| "library into your graveyard."
 msgid "You draw two cards, lose 2 life, then mill two cards."
-msgstr ""
-"Dobierz dwie karty, strać 2 życia oraz umieść dwie wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+msgstr "Dobierz dwie karty, strać 2 życia, następnie zmiel dwie karty."
 
 #: ../../THB.rst:578
 msgid ""
@@ -1928,15 +1854,10 @@ msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
 #: ../../THB.rst:615
-#, fuzzy
-#| msgid ""
-#| "When Mire Triton enters the battlefield, put the top two cards of your "
-#| "library into your graveyard and you gain 2 life."
 msgid ""
 "When Mire Triton enters the battlefield, mill two cards and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu i zyskaj 2 życia."
+"Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty i zyskaj 2 życia."
 
 #: ../../THB.rst:622
 msgid ""
@@ -2135,18 +2056,12 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:693
-#, fuzzy
-#| msgid ""
-#| "I, II — Put the top three cards of your library into your graveyard. Then "
-#| "you may exile a creature or enchantment card from your graveyard. If you "
-#| "do, create a 2/2 black Zombie creature token."
 msgid ""
 "I, II — Mill three cards. Then you may exile a creature or enchantment card "
 "from your graveyard. If you do, create a 2/2 black Zombie creature token."
 msgstr ""
-"I, II — Umieść trzy wierzchnie karty twojej biblioteki w twoim cmentarzu. "
-"Następnie możesz wygnać kartę stwora lub uroku z twojego cmentarza. Jeśli "
-"tak zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
+"I, II — Zmiel trzy karty. Następnie możesz wygnać kartę stwora lub uroku z "
+"twojego cmentarza. Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../THB.rst:695
 msgid ""
@@ -2227,10 +2142,8 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:719
-#, fuzzy
-#| msgid "When Treacherous Blessing enters the battlefield, draw three cards."
 msgid "When Venomous Hierophant enters the battlefield, mill three cards."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz trzy karty."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel trzy karty."
 
 #: ../../THB.rst:730
 msgid ""
@@ -2706,11 +2619,6 @@ msgid "|mana_2|\\ |mana_r|: Phoenix of Ash gets +2/+0 until end of turn."
 msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../THB.rst:881
-#, fuzzy
-#| msgid ""
-#| "Escape — |mana_2|\\ |mana_r|\\ |mana_r|, Exile three other cards from "
-#| "your graveyard. (You may cast this card from your graveyard for its "
-#| "escape cost.)"
 msgid ""
 "Escape—|mana_2|\\ |mana_r|\\ |mana_r|, Exile three other cards from your "
 "graveyard. (You may cast this card from your graveyard for its escape cost.)"
@@ -2822,8 +2730,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:915
-#, fuzzy
-#| msgid "|mana_1|: Skophos Maze-Warden gets +1/-1 until the end of turn."
 msgid "|mana_1|: Skophos Maze-Warden gets +1/-1 until end of turn."
 msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
 
@@ -2846,11 +2752,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:921
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, Sacrifice another creature or enchantment: Skophos Warleader "
-#| "gets +1/+0 and gains menace until end of turn. (It can't be blocked "
-#| "except by two or more creatures.)"
 msgid ""
 "|mana_r|, Sacrifice another creature or an enchantment: Skophos Warleader "
 "gets +1/+0 and gains menace until end of turn. (It can't be blocked except "
@@ -3175,8 +3076,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1025
-#, fuzzy
-#| msgid "I — Create a 1/1 white Human Soldier token."
 msgid "I — Create a 1/1 white Human Soldier creature token."
 msgstr "I — Stwórz żeton białego stwora Człowiek Piechur 1/1."
 
@@ -3264,10 +3163,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1055
-#, fuzzy
-#| msgid ""
-#| "Prevent all combat damage that would be dealt this turn except by "
-#| "enchanted creatures and enchantment creatures. Scry 2."
 msgid ""
 "Prevent all combat damage that would be dealt this turn except combat damage "
 "that would be dealt by enchanted creatures and enchantment creatures. Scry 2."
@@ -3301,16 +3196,12 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1063
-#, fuzzy
-#| msgid ""
-#| "Escape—|mana_4|\\ |mana_b|, Exile three other cards from your graveyard. "
-#| "(You may cast this card from your graveyard for its escape cost.)"
 msgid ""
 "Escape—|mana_4|\\ |mana_g|, Exile three other cards from your graveyard. "
 "(You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
-"Ucieczka—|mana_4|\\ |mana_b|, wygnaj trzy inne karty z twojego cmentarza. "
-"(Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
+"Ucieczka—|mana_4|\\ |mana_g|, wygnaj trzy inne karty z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../THB.rst:1065
 msgid "Loathsome Chimera escapes with a +1/+1 counter on it."
@@ -3414,10 +3305,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1101
-#, fuzzy
-#| msgid ""
-#| "Constellation — Whenever an enchantment enters the battlefield under you "
-#| "control, you gain 2 life."
 msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, you gain 2 life."
@@ -3470,12 +3357,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1121
-#, fuzzy
-#| msgid ""
-#| "When Nylea's Huntmaster enters the battlefield, target creature you "
-#| "control gets +X/+0 until end of turn, where X is your devotion to green. "
-#| "(Each |mana_g| in the mana costs of permanents you control counts towards "
-#| "your devotion to green.)"
 msgid ""
 "When Nylea's Huntmaster enters the battlefield, target creature you control "
 "gets +X/+0 until end of turn, where X is your devotion to green. (Each |"
@@ -3601,11 +3482,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1163
-#, fuzzy
-#| msgid ""
-#| "Reveal the top four cards of your library. You may put a creature card "
-#| "and/or land card from among them into your hand. Put the rest into your "
-#| "graveyard."
 msgid ""
 "Reveal the top four cards of your library. You may put a creature card and/"
 "or a land card from among them into your hand. Put the rest into your "
@@ -3624,11 +3500,6 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1167
-#, fuzzy
-#| msgid ""
-#| "Renata's power is equal to your devotion to green. (Each |mana_g| in the "
-#| "mana costs of permanents you control counts towards your devotion to "
-#| "green.)"
 msgid ""
 "Renata's power is equal to your devotion to green. (Each |mana_g| in the "
 "mana costs of permanents you control counts toward your devotion to green.)"
@@ -3719,16 +3590,12 @@ msgid "When Setessan Training enters the battlefield, draw a card."
 msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../THB.rst:1199
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +1/+1 and has lifelink and \"Whenever this "
-#| "creature deals combat damage to a player, draw a card.\""
 msgid ""
 "Enchanted creature gets +1/+0 and has trample. (It can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"Zauroczony stwór dostaje +1/+1 i ma więź życia oraz \"Ilekroć ten stwór zada "
-"graczowi obrażenia bojowe, dobierz kartę.\""
+"Zauroczony stwór dostaje +1/+0 i ma tratowanie. (Może zadać nadwyżkę obrażeń "
+"bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../THB.rst:1206
 msgid ""
@@ -3746,10 +3613,8 @@ msgstr ""
 "zyskaj 1 życie."
 
 #: ../../THB.rst:1205
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_w|: Exile enchanted creature."
 msgid "|mana_2|\\ |mana_g|: Mill a card."
-msgstr "|mana_2|\\ |mana_w|: Wygnaj wskazanego stwora."
+msgstr "|mana_2|\\ |mana_g|: Zmiel kartę."
 
 #: ../../THB.rst:1212
 msgid ""
@@ -3759,16 +3624,11 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1209
-#, fuzzy
-#| msgid ""
-#| "Escape—|mana_3|\\ |mana_g|\\ |mana_g|, Exile four other cards from your "
-#| "graveyard. (You may cast this card from your graveyard for its escape "
-#| "cost.)"
 msgid ""
 "Escape—|mana_5|\\ |mana_g|\\ |mana_g|, Exile four other cards from your "
 "graveyard. (You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
-"Ucieczka—|mana_3|\\ |mana_g|\\ |mana_g|, wygnaj cztery inne karty z twojego "
+"Ucieczka—|mana_5|\\ |mana_g|\\ |mana_g|, wygnaj cztery inne karty z twojego "
 "cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej koszt "
 "ucieczki.)"
 
@@ -3832,18 +3692,12 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1231
-#, fuzzy
-#| msgid ""
-#| "When Acolyte of Affliction enters the battlefield, put the top two cards "
-#| "of your library into your graveyard, then you may return a permanent card "
-#| "from your graveyard to your hand."
 msgid ""
 "When Acolyte of Affliction enters the battlefield, mill two cards, then you "
 "may return a permanent card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu, następnie możesz przywrócić kartę permanentu z "
-"twojego cmentarza do twojej ręki."
+"Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty, następnie możesz "
+"przywrócić kartę permanentu z twojego cmentarza do twojej ręki."
 
 #: ../../THB.rst:1236
 msgid ""
@@ -3888,16 +3742,12 @@ msgstr ""
 "gracz wygania kartę ze swojej ręki."
 
 #: ../../THB.rst:1243
-#, fuzzy
-#| msgid ""
-#| "−7: You may cast up to three face-up cards your opponents own from exile "
-#| "without paying their mana costs."
 msgid ""
 "−7: You may cast up to three spells from among face-up cards your opponents "
 "own from exile without paying their mana costs."
 msgstr ""
-"–7: Możesz rzucić z wygnania co najwyżej trzy odkryte karty będące "
-"własnością przeciwników bez płacenia ich kosztów many."
+"–7: Możesz rzucić z wygnania co najwyżej trzy czary spośród odkrytych kart "
+"będących własnością przeciwników bez płacenia ich kosztów many."
 
 #: ../../THB.rst:1250
 msgid ""
@@ -4014,10 +3864,8 @@ msgstr ""
 "blokowany w tej turze."
 
 #: ../../THB.rst:1275
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_r|, Discard a card: Draw a card."
 msgid "|mana_1|\\ |mana_u|\\ |mana_b|: Mill a card."
-msgstr "|mana_2|\\ |mana_r|, odrzuć kartę: Dobierz kartę."
+msgstr "|mana_1|\\ |mana_u|\\ |mana_b|: Zmiel kartę."
 
 #: ../../THB.rst:1286
 msgid ""
@@ -4161,7 +4009,7 @@ msgid ""
 "graveyard. If it was a land card, add |mana_r| or |mana_g|. Otherwise, you "
 "gain 2 life and Klothys deals 2 damage to each opponent."
 msgstr ""
-"Na początku twojej twojej fazy głównej przed walką, wygnaj wskazaną kartę z "
+"Na początku twojej fazy głównej przed walką, wygnaj wskazaną kartę z "
 "cmentarza. Jeśli była to karta lądu, weź |mana_r| lub |mana_g|. W przeciwnym "
 "razie zyskaj 2 życia, a ten stwór zadaje każdemu przeciwnikowi po 2 "
 "obrażenia."
@@ -4331,16 +4179,12 @@ msgid ""
 msgstr "Ilekroć poświęcisz permanent, ten stwór dostaje do końca tury +2/+0."
 
 #: ../../THB.rst:1375
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, Sacrifice a creature or enchantment: Slaughter-Priest of Mogis "
-#| "gains first strike until end of turn."
 msgid ""
 "|mana_2|, Sacrifice another creature or an enchantment: Slaughter-Priest of "
 "Mogis gains first strike until end of turn."
 msgstr ""
-"|mana_2|, poświęć stwora lub urok: Ten stwór zyskuje pierwszy cios do końca "
-"tury."
+"|mana_2|, poświęć innego stwora lub urok: Ten stwór zyskuje pierwszy cios do "
+"końca tury."
 
 #: ../../THB.rst:1382
 msgid ""
@@ -4379,11 +4223,6 @@ msgstr ""
 "walki."
 
 #: ../../THB.rst:1389
-#, fuzzy
-#| msgid ""
-#| "Escape-|mana_g|\\ |mana_g|\\ |mana_u|\\ |mana_u|, Exile five other cards "
-#| "from your graveyard. (You may cast this card from your graveyard for its "
-#| "escape cost.)"
 msgid ""
 "Escape—|mana_g|\\ |mana_g|\\ |mana_u|\\ |mana_u|, Exile five other cards "
 "from your graveyard. (You may cast this card from your graveyard for its "
@@ -4967,14 +4806,8 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1579
-#, fuzzy
-#| msgid ""
-#| "+2: Draw a card. Each player puts the top two cards of their library into "
-#| "their graveyard."
 msgid "+2: Draw a card. Each player mills two cards."
-msgstr ""
-"+2: Dobierz kartę. Każdy gracz umieszcza dwie wierzchnie karty swojej "
-"biblioteki w swoim cmentarzu."
+msgstr "+2: Dobierz kartę. Każdy gracz mieli dwie karty."
 
 #: ../../THB.rst:1581
 msgid ""
@@ -5020,10 +4853,8 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1595
-#, fuzzy
-#| msgid "At the beginning of your upkeep, each player discards a card."
 msgid "At the beginning of combat on your turn, each player mills three cards."
-msgstr "Na początku twojego kroku utrzymania każdy gracz odrzuca kartę."
+msgstr "Na początku walki w twojej turze, każdy gracz mieli trzy karty."
 
 #: ../../THB.rst:1602
 msgid ""
@@ -5080,16 +4911,11 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:1617
-#, fuzzy
-#| msgid ""
-#| "When Sphinx Mindbreaker enters the battlefield, each opponent puts the "
-#| "top ten cards of their library into their graveyard."
 msgid ""
 "When Sphinx Mindbreaker enters the battlefield, each opponent mills ten "
 "cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik umieszcza dziesięć "
-"wierzchnich kart swojej biblioteki w swoim cmentarzu."
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik mieli dziesięć kart."
 
 #: ../../THB.rst:1622
 msgid ""
