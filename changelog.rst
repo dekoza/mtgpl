@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2021-02-15
+   * Ikoria - 100%
+
 2020-03-02
    * Zaktualizowne tłumaczenia: ELD, THB
 
