@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-14 20:07+0000\n"
+"PO-Revision-Date: 2021-02-15 15:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -59,6 +59,7 @@ msgstr ""
 #: ../../KHM.rst:21
 msgid "When Beskir Shieldmate dies, create a 1/1 white Human Warrior creature token."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton białego stwora Człowiek Wojownik 1/1."
 
 #: ../../KHM.rst:28
 msgid ":mtgtip:`Bound in Gold<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/074d526a-1eef-4045-bd38-f6d68c4bc4b9.jpg?1610495209|https://scryfall.com/card/khm/5/bound-in-gold?utm_source=api>`"
@@ -76,6 +77,8 @@ msgstr "Zaurocz permanent"
 #: ../../KHM.rst:27
 msgid "Enchanted permanent can't attack, block, or crew Vehicles, and its activated abilities can't be activated unless they're mana abilities."
 msgstr ""
+"Zauroczony permanent nie może atakować, blokować, załogować Pojazdów, a jego "
+"aktywowane zdolności nie mogą być aktywowane, chyba że są zdolnościami many."
 
 #: ../../KHM.rst:32
 msgid ":mtgtip:`Clarion Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86a4c348-1012-4339-960a-c7bc7fd84fbb.jpg?1610566443|https://scryfall.com/card/khm/6/clarion-spirit?utm_source=api>`"
@@ -84,6 +87,8 @@ msgstr ""
 #: ../../KHM.rst:31
 msgid "Whenever you cast your second spell each turn, create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć rzucisz swój drugi czar w danej turze, stwórz żeton białego stwora "
+"Duch 1/1 z lataniem."
 
 #: ../../KHM.rst:38
 msgid ":mtgtip:`Codespell Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/1316a74e-da55-4668-87f2-98389a90a2a4.jpg?1610586454|https://scryfall.com/card/khm/7/codespell-cleric?utm_source=api>`"
@@ -99,6 +104,8 @@ msgstr "Czujność"
 #: ../../KHM.rst:37
 msgid "When Codespell Cleric enters the battlefield, if it was the second spell you cast this turn, put a +1/+1 counter on target creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli był drugim czarem rzuconym "
+"przez ciebie w tej turze, umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../KHM.rst:42
 msgid ":mtgtip:`Divine Gambit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/696a8c12-4a1f-4b96-a921-538fa1a2de43.jpg?1610647857|https://scryfall.com/card/khm/8/divine-gambit?utm_source=api>`"
@@ -107,6 +114,8 @@ msgstr ""
 #: ../../KHM.rst:41
 msgid "Exile target artifact, creature, or enchantment an opponent controls. That player may put a permanent card from their hand onto the battlefield."
 msgstr ""
+"Wygnaj wskazany artefakt, stwora lub urok pod władaniem przeciwnika. Ów "
+"gracz może umieścić kartę permanentu ze swojej ręki na polu walki."
 
 #: ../../KHM.rst:48
 msgid ":mtgtip:`Doomskar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/130ee895-1e5e-4f82-bb66-e1275bac75dd.jpg?1611054468|https://scryfall.com/card/khm/9/doomskar?utm_source=api>`"
@@ -146,7 +155,7 @@ msgstr ""
 
 #: ../../KHM.rst:57
 msgid "Giant Ox crews Vehicles using its toughness rather than its power."
-msgstr ""
+msgstr "Ten stwór załoguje Pojazdy używając wytrzymałości zamiast siły."
 
 #: ../../KHM.rst:68
 msgid ":mtgtip:`Glorious Protector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9f08552-7f1a-4fdb-9a70-d99cdbf75910.jpg?1611000537|https://scryfall.com/card/khm/12/glorious-protector?utm_source=api>`"
@@ -184,6 +193,9 @@ msgstr "Latanie"
 #: ../../KHM.rst:65
 msgid "When Glorious Protector enters the battlefield, you may exile any number of non-Angel creatures you control until Glorious Protector leaves the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać dowolną liczbę stworów "
+"bez typu Anioł pod twoim władaniem dopóki niniejszy stwór nie opuści pola "
+"walki."
 
 #: ../../KHM.rst:67
 msgid "Foretell |mana_2|\\ |mana_w|"
@@ -285,7 +297,7 @@ msgstr ""
 
 #: ../../KHM.rst:115
 msgid "As Rally the Ranks enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki wybierz typ stwora."
 
 #: ../../KHM.rst:117
 msgid "Creatures you control of the chosen type get +1/+1."
@@ -335,6 +347,10 @@ msgstr ""
 #: ../../KHM.rst:137
 msgid "When Resplendent Marshal enters the battlefield or dies, you may exile another creature card from your graveyard. When you do, put a +1/+1 counter on each creature you control other than Resplendent Marshal that shares a creature type with the exiled card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki lub umrze, możesz wygnać inną kartę "
+"stwora z twojego cmentarza. Kiedy tak zrobisz, umieść znacznik +1/+1 na "
+"każdym stworze pod twoim władaniem innym niż niniejszy stwór współdzielącym "
+"typ stwora z wygnaną kartą."
 
 #: ../../KHM.rst:144
 msgid ":mtgtip:`Revitalize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a9fb75e-c8e5-417b-83d4-5105af9c66c1.jpg?1611169934|https://scryfall.com/card/khm/23/revitalize?utm_source=api>`"
@@ -361,6 +377,8 @@ msgstr ""
 #: ../../KHM.rst:151
 msgid "As long as you have at least 7 life more than your starting life total, creatures you control get +2/+2."
 msgstr ""
+"O ile masz co najmniej o 7 żyć więcej niż twoja startowa liczba żyć, stwory "
+"pod twoim władaniem dostają +2/+2."
 
 #: ../../KHM.rst:162
 msgid ":mtgtip:`Rune of Sustenance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e31b716-f325-445a-9098-9ca75d7b35a4.jpg?1611077402|https://scryfall.com/card/khm/25/rune-of-sustenance?utm_source=api>`"
@@ -387,6 +405,9 @@ msgstr ""
 #: ../../KHM.rst:165
 msgid "When Runeforge Champion enters the battlefield, you may search your library and/or graveyard for a Rune card, reveal it, and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"lub cmentarzu kartę typu Runa, ujawnij ją i umieść ją w twojej ręce. Jeśli "
+"przeszukano bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../KHM.rst:167
 msgid "You may pay |mana_1| rather than pay the mana cost for Rune spells you cast."
@@ -401,6 +422,10 @@ msgstr ""
 #: ../../KHM.rst:171
 msgid "Search your library for a snow permanent card, a legendary card, or a Saga card, reveal it, put it into your hand, then shuffle your library. You gain 1 life for each |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę śnieżnego permanentu, legendarną kartę "
+"lub kartę Sagi, ujawnij ją, umieść ją w twojej ręce, następnie przetasuj "
+"twoją bibliotekę. Zyskaj po 1 życiu za każdą |mana_s| użytą do rzucenia tego "
+"czaru. (|mana_s| jest maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:180
 msgid ":mtgtip:`Shepherd of the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce33c84e-008c-48d8-a8e8-77cd19cc4f1f.jpg?1610586538|https://scryfall.com/card/khm/28/shepherd-of-the-cosmos?utm_source=api>`"
@@ -423,6 +448,9 @@ msgstr "Pierwszy cios, ochrona przez stworami typu Bóstwo"
 #: ../../KHM.rst:187
 msgid "When Sigrid, God-Favored enters the battlefield, exile up to one target attacking or blocking creature until Sigrid leaves the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj co najwyżej jednego "
+"atakującego lub blokującego stwora dopóki niniejszy stwór nie opuści pola "
+"walki."
 
 #: ../../KHM.rst:196
 msgid ":mtgtip:`Spectral Steel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf036489-ef9e-40ee-a1bb-24ee37c554f1.jpg?1610585883|https://scryfall.com/card/khm/30/spectral-steel?utm_source=api>`"
@@ -453,6 +481,8 @@ msgstr ""
 #: ../../KHM.rst:199
 msgid "You may pay |mana_1|\\ |mana_w| and exile a creature card from your graveyard rather than pay this spell's mana cost."
 msgstr ""
+"Możesz zapłacić |mana_1|\\ |mana_w| i wygnać kartę stwora z twojego "
+"cmentarza zamiast płacić koszt many tego czaru."
 
 #: ../../KHM.rst:208
 msgid ":mtgtip:`Starnheim Courser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c5373dd-4aec-4e93-97fb-a639aa096764.jpg?1611169955|https://scryfall.com/card/khm/32/starnheim-courser?utm_source=api>`"
@@ -506,6 +536,9 @@ msgstr ""
 #: ../../KHM.rst:225
 msgid "When Valkyrie's Sword enters the battlefield, you may pay |mana_4|\\ |mana_w|. If you do, create a 4/4 white Angel Warrior creature token with flying and vigilance, then attach Valkyrie's Sword to it."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, możesz zapłacić |mana_4|\\ |mana_w|"
+". Jeśli tak zrobisz, stwórz żeton białego stwora Anioł Wojownik 4/4 z "
+"lataniem i czujnością, następnie dołącz do niego ten artefakt."
 
 #: ../../KHM.rst:227
 msgid "Equipped creature gets +2/+1."
