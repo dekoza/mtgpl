@@ -40,7 +40,7 @@ Standard
 * :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |p60|
 * :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |p20|
 * :mtgexp:`M21` :doc:`Core Set 2021<M21>` |p40|
-* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |p60|
+* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |p70|
 * :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |p100|
 * :mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |p100|
 
