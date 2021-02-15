@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-15 07:34+0000\n"
+"PO-Revision-Date: 2021-02-15 08:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -1310,6 +1310,10 @@ msgid ""
 "less from your graveyard to the battlefield. Put a deathtouch counter on "
 "either of them. Then put a menace counter on either of them."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty stworów o łącznym skróconym koszcie "
+"many 3 lub mniejszym z twojego cmentarza na pole walki. Umieść znacznik "
+"dotyku śmierci na jednym z nich. Następnie umieść znacznik złowrogości na "
+"jednym z nich."
 
 #: ../../IKO.rst:460
 msgid ""
@@ -1375,6 +1379,9 @@ msgid ""
 "your hand. (To mill a card, put the top card of your library into your "
 "graveyard.)"
 msgstr ""
+"Zmiel trzy karty, następnie możesz przywrócić kartę stwora z twojego "
+"cmentarza do twojej ręki. (Aby zmielić kartę, umieść wierzchnią kartę twojej "
+"biblioteki w twoim cmentarzu.)"
 
 #: ../../IKO.rst:474
 msgid ""
@@ -1440,6 +1447,7 @@ msgstr ""
 msgid ""
 "|mana_4|\\ |mana_b|: Return Durable Coilbug from your graveyard to your hand."
 msgstr ""
+"|mana_4|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../IKO.rst:500
 msgid ""
@@ -1453,12 +1461,16 @@ msgid ""
 "When Duskfang Mentor enters the battlefield, put a lifelink counter on "
 "target non-Human creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik więzi życia na "
+"wskazanym stworze bez typu Człowiek pod twoim władaniem."
 
 #: ../../IKO.rst:499
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Put a +1/+1 counter on each creature you control "
 "with lifelink."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Umieść znacznik +1/+1 na każdym stworze pod "
+"twoim władaniem mającym więź życia."
 
 #: ../../IKO.rst:506
 msgid ""
@@ -1469,7 +1481,7 @@ msgstr ""
 
 #: ../../IKO.rst:503
 msgid "Destroy target creature with converted mana cost 2 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o skróconym koszcie many 2 lub mniejszym."
 
 #: ../../IKO.rst:510
 msgid ""
@@ -1483,6 +1495,8 @@ msgid ""
 "Choose odd or even. Exile each creature with converted mana cost of the "
 "chosen value. (Zero is even.)"
 msgstr ""
+"Wybierz parzyste lub nieparzyste. Wygnaj każdego stwora o skróconym koszcie "
+"many o wybranej właściwości. (Zero jest parzyste.)"
 
 #: ../../IKO.rst:512
 msgid ""
@@ -1503,6 +1517,8 @@ msgid ""
 "Grimdancer enters the battlefield with your choice of two different counters "
 "on it from among menace, deathtouch, and lifelink."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając dwa dowolne różne znaczniki spośród "
+"złowrogości, dotyku śmierci i więzi życia."
 
 #: ../../IKO.rst:526
 msgid ""
@@ -1517,7 +1533,7 @@ msgstr "Zniszcz wskazanego stwora nie mającego znaczników."
 
 #: ../../IKO.rst:525
 msgid "Remove up to three counters from target creature."
-msgstr ""
+msgstr "Usuń co najwyżej trzy znaczniki ze wskazanego stwora."
 
 #: ../../IKO.rst:532
 msgid ""
@@ -1535,6 +1551,8 @@ msgid ""
 "When Hunted Nightmare enters the battlefield, target opponent puts a "
 "deathtouch counter on a creature they control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik umieszcza "
+"znacznik dotyku śmierci na stworze pod swoim władaniem."
 
 #: ../../IKO.rst:540
 msgid ""
@@ -1578,6 +1596,8 @@ msgid ""
 "When Lurking Deadeye enters the battlefield, destroy target creature that "
 "was dealt damage this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego stwora, który "
+"otrzymał obrażenia w tej turze."
 
 #: ../../IKO.rst:552
 msgid ""
@@ -1603,7 +1623,7 @@ msgstr ""
 
 #: ../../IKO.rst:555
 msgid "This spell has flash as long as you control a permanent with flash."
-msgstr ""
+msgstr "Ten czar ma błysk o ile władasz permanentem z błyskiem."
 
 #: ../../IKO.rst:557
 msgid "As an additional cost to cast this spell, sacrifice a creature."
@@ -1625,6 +1645,8 @@ msgid ""
 "Destroy target nonland permanent if it's a creature or if |mana_g|\\ |"
 "mana_w| was spent to cast this spell."
 msgstr ""
+"Zniszcz wskazany nielądowy permanent jeśli jest on stworem lub jeśli |mana_g|"
+"\\ |mana_w| zostały użyte do rzucenia tego czaru."
 
 #: ../../IKO.rst:568
 msgid ""
@@ -1653,6 +1675,8 @@ msgid ""
 "When Serrated Scorpion dies, it deals 2 damage to each opponent and you gain "
 "2 life."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje on każdemu przeciwnikowi po 2 obrażenia, a ty "
+"zyskaj 2 życia."
 
 #: ../../IKO.rst:578
 msgid ""
@@ -1677,6 +1701,8 @@ msgid ""
 "Return target creature card from your graveyard to the battlefield with a "
 "lifelink counter on it."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki ze "
+"znacznikiem więzi życia."
 
 #: ../../IKO.rst:586
 msgid ""
@@ -1687,7 +1713,7 @@ msgstr ""
 
 #: ../../IKO.rst:585
 msgid "Put a +1/+1 counter and a lifelink counter on target creature."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 oraz znacznik więzi życia na wskazanym stworze."
 
 #: ../../IKO.rst:590
 msgid ""
@@ -1716,12 +1742,16 @@ msgid ""
 "Cycling |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../IKO.rst:597
 msgid ""
 "When you cycle Void Beckoner, put a deathtouch counter on target creature "
 "you control."
 msgstr ""
+"Kiedy recklujesz tę kartę, umieść znacznik dotyku śmierci na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../IKO.rst:602
 msgid ""
@@ -1775,11 +1805,11 @@ msgstr ""
 
 #: ../../IKO.rst:613
 msgid "|mana_1|, |tap|: Blisterspit Gremlin deals 1 damage to each opponent."
-msgstr ""
+msgstr "|mana_1|, |tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../IKO.rst:615
 msgid "Whenever you cast a noncreature spell, untap Blisterspit Gremlin."
-msgstr ""
+msgstr "Ilekroć rzucisz nie-stworowy czar, odkręć tego stwora."
 
 #: ../../IKO.rst:620
 msgid ""
@@ -1795,6 +1825,9 @@ msgid ""
 "equal to the number of instant and sorcery cards in your graveyard. If that "
 "creature or planeswalker would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi tyle obrażeń, ile wynosi "
+"liczba kart sztuczek i obrzędów w twoim cmentarzu. Jeśli ów stwór lub "
+"wędrowiec miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../IKO.rst:626
 msgid ""
@@ -1823,6 +1856,8 @@ msgid ""
 "Target creature fights another target creature. (Each deals damage equal to "
 "its power to the other.)"
 msgstr ""
+"Wskazany stwór walczy z innym wskazanym stworem. (Każdy zadaje drugiemu "
+"obrażenia równe swojej sile.)"
 
 #: ../../IKO.rst:638
 msgid ""
@@ -1866,6 +1901,8 @@ msgid ""
 "Whenever you cycle another card, Drannith Stinger deals 1 damage to each "
 "opponent."
 msgstr ""
+"Ilekroć recklujesz inną kartę, ten stwór zadaje każdemu przeciwnikowi po 1 "
+"obrażeniu."
 
 #: ../../IKO.rst:652
 msgid ""
@@ -1897,6 +1934,9 @@ msgid ""
 "counter or a menace counter on it. (A creature with menace can't be blocked "
 "except by two or more creatures.)"
 msgstr ""
+"Ten stwór wchodzi na pole walki mając dowolny znacznik spośród tratowania i "
+"złowrogości. (Stwór ze złowrogością nie może być blokowany, chyba że przez "
+"co najmniej dwa stwory.)"
 
 #: ../../IKO.rst:660
 msgid ""
@@ -1910,6 +1950,8 @@ msgid ""
 "Fire Prophecy deals 3 damage to target creature. You may put a card from "
 "your hand on the bottom of your library. If you do, draw a card."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia. Możesz umieść kartę z "
+"twojej ręki na spodzie twojej biblioteki. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../IKO.rst:664
 msgid ""
@@ -1923,6 +1965,8 @@ msgid ""
 "Flame Spill deals 4 damage to target creature. Excess damage is dealt to "
 "that creature's controller instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 4 obrażenia. Nadwyżka obrażeń jest "
+"zamiast tego zadawana władcy owego stwora."
 
 #: ../../IKO.rst:672
 msgid ""
@@ -1940,6 +1984,8 @@ msgid ""
 "Enchanted land has \"|tap|: Target creature gains trample and haste until "
 "end of turn.\""
 msgstr ""
+"Zauroczony ląd ma \"|tap|: Wskazany stwór zyskuje do końca tury tratowanie i "
+"pośpiech.\""
 
 #: ../../IKO.rst:676
 msgid ""
@@ -1976,12 +2022,17 @@ msgid ""
 "target non-Human creature you control. (It can't be blocked except by two or "
 "more creatures.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik złowrogości na "
+"wskazanym stworze bez typu Człowiek pod twoim władaniem. (Nie może być "
+"blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../IKO.rst:685
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|: Put a +1/+1 counter on each creature you control "
 "with menace."
 msgstr ""
+"|mana_2|\\ |mana_r|, |tap|: Umieść znacznik +1/+1 na każdym stworze pod "
+"twoim władaniem mającym złowrogość."
 
 #: ../../IKO.rst:692
 msgid ""
