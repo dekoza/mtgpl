@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-15 01:12+0000\n"
+"PO-Revision-Date: 2021-02-15 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -28,15 +28,19 @@ msgstr ""
 
 #: ../../M21.rst:9
 msgid "+2: Ugin, the Spirit Dragon deals 3 damage to any target."
-msgstr ""
+msgstr "+2: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../M21.rst:11
 msgid "−X: Exile each permanent with converted mana cost X or less that's one or more colors."
 msgstr ""
+"–X: Wygnaj każdy permanent o skróconym koszcie many X lub mniejszym mający "
+"przynajmniej jeden kolor."
 
 #: ../../M21.rst:13
 msgid "−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield."
 msgstr ""
+"–10: Zyskaj 7 żyć, dobierz siedem kart, następnie umieść na polu walki co "
+"najwyżej siedem kart permanentów z twojej ręki."
 
 #: ../../M21.rst:18
 msgid ":mtgtip:`Alpine Watchdog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c392a7e5-6ff5-4c2f-9590-f8811a724f44.jpg?1594734679|https://scryfall.com/card/m21/2/alpine-watchdog?utm_source=api>`"
