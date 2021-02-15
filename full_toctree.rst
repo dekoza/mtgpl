@@ -13,6 +13,9 @@
    glossary
    changelog
 
+   KHM
+   ZNR
+   M21
    IKO
    THB
    ELD
@@ -135,6 +138,7 @@
    MM2
    MMA
 
+   JMP
 
    C19
    C18
