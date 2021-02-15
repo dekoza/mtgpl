@@ -79,7 +79,7 @@ Jumpstart
 
 Jumpstart jest ciekawym sposobem na szybką grę w MTG. Dodatek zwiera niemal 500 przedruków z innych dodatków. Oprócz tego zawiera 37 nowych kart legalnych tylko w formatach Eternal (Legacy, Vintage, Commander). Karty z symbolem :mtgexp:`M21` są legalne w Standardzie 2021.
 
-* :mtgexp:`JMP` :doc:`Jumpstart<JMP>` |p05|
+* :mtgexp:`JMP` :doc:`Jumpstart<JMP>` |p100|
 
 Zestawy gildyjne
 ----------------
