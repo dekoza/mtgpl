@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-15 08:47+0000\n"
+"PO-Revision-Date: 2021-02-15 11:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -2089,6 +2089,9 @@ msgid ""
 "way gain \"You may cast this card from exile as long as you control a Lukka "
 "planeswalker.\""
 msgstr ""
+"+1: Wygnaj trzy wierzchnie karty twojej biblioteki. Karty stworów wygnane w "
+"ten sposób zyskują \"Możesz rzucić tę kartę z wygnania o ile władasz "
+"wędrowcem o typie Lukka.\""
 
 #: ../../IKO.rst:707
 msgid ""
@@ -2097,12 +2100,18 @@ msgid ""
 "cost. Put that card onto the battlefield and the rest on the bottom of your "
 "library in a random order."
 msgstr ""
+"–2: Wygnaj wskazanego stwora pod twoim władaniem, następnie ujawniaj karty z "
+"wierzchu twojej biblioteki aż ujawnisz kartę stwora o większym skróconym "
+"koszcie many. Umieść ową kartę na polu walki, a pozostałe na spodzie twojej "
+"biblioteki w losowej kolejności."
 
 #: ../../IKO.rst:709
 msgid ""
 "−7: Each creature you control deals damage equal to its power to each "
 "opponent."
 msgstr ""
+"–7: Każdy stwór pod twoim władaniem zadaje każdemu przeciwnikowi obrażenia "
+"równe swojej sile."
 
 #: ../../IKO.rst:716
 msgid ""
@@ -2116,12 +2125,16 @@ msgid ""
 "Whenever Momentum Rumbler attacks, if it doesn't have first strike, put a "
 "first strike counter on it."
 msgstr ""
+"Ilekroć ten stwór atakuje, jeśli nie ma pierwszego ciosu, umieść na nim "
+"znacznik pierwszego ciosu."
 
 #: ../../IKO.rst:715
 msgid ""
 "Whenever Momentum Rumbler attacks, if it has first strike, it gains double "
 "strike until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, jeśli ma pierwszy cios, zyskuje do końca tury "
+"podwójny cios."
 
 #: ../../IKO.rst:720
 msgid ""
@@ -2137,6 +2150,10 @@ msgid ""
 "cast this spell, until your next turn, those permanents can't attack or "
 "block and their activated abilities can't be activated."
 msgstr ""
+"Ten czar zadaje 5 obrażeń rozdzielonych dowolnie pomiędzy dowolną liczbę "
+"wskazanych stworów i/lub wędrowców. Jeśli |mana_w|\\ |mana_u| użyto do "
+"rzucenia tego czaru, do końca tury owe permanenty nie mogą atakować ani "
+"blokować, a ich aktywowane zdolności nie mogą być aktywowane."
 
 #: ../../IKO.rst:726
 msgid ""
@@ -2221,6 +2238,9 @@ msgid ""
 "Dinosaur creature with trample and haste in addition to its other types "
 "until end of turn."
 msgstr ""
+"Ilekroć recklujesz kartę, możesz sprawić by do końca tury niniejszy "
+"permanent stał się stworem Dinozaur 5/4 z tratowaniem i pośpiechem oprócz "
+"swoich pozostałych typów."
 
 #: ../../IKO.rst:754
 msgid ""
@@ -2235,6 +2255,8 @@ msgid ""
 "ability from your graveyard. Until the end of your next turn, you may play "
 "that card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę z recyklingiem "
+"z twojego cmentarza. Do końca tury możesz zagrać ową kartę."
 
 #: ../../IKO.rst:758
 msgid ""
@@ -2248,6 +2270,8 @@ msgid ""
 "Rumbling Rockslide deals damage to target creature equal to the number of "
 "lands you control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi obrażenia równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../IKO.rst:766
 msgid ""
@@ -2269,6 +2293,8 @@ msgid ""
 "When you cycle Sanctuary Smasher, put a first strike counter on target "
 "creature you control."
 msgstr ""
+"Kiedy recyklujesz tę kartę, umieść znacznik pierwszego ciosu na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../IKO.rst:776
 msgid ""
@@ -2283,7 +2309,7 @@ msgstr "Zniszcz wskazany artefakt."
 
 #: ../../IKO.rst:773
 msgid "Shredded Sails deals 4 damage to target creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi z lataniem 4 obrażenia."
 
 #: ../../IKO.rst:780
 msgid ""
@@ -2297,6 +2323,8 @@ msgid ""
 "Spelleater Wolverine has double strike as long as there are three or more "
 "instant and/or sorcery cards in your graveyard."
 msgstr ""
+"Ten stwór ma podwójny cios o ile w twoim cmentarzu są co najmniej trzy karty "
+"sztuczki i/lub obrzędu."
 
 #: ../../IKO.rst:786
 msgid ""
@@ -2309,6 +2337,8 @@ msgstr ""
 msgid ""
 "This spell costs |mana_3| less to cast if you control a creature with menace."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli władasz stworem ze "
+"złowrogością."
 
 #: ../../IKO.rst:785
 msgid ""
@@ -2333,6 +2363,12 @@ msgid ""
 "paying its mana cost. Then put the exiled cards that weren't cast this way "
 "on the bottom of your library in a random order."
 msgstr ""
+"Jeśli zdolność recyklingu innej nielądowej karty miałaby sprawić, że "
+"dobierzesz kartę, zamiast tego wygnaj karty z wierzchu twojej biblioteki aż "
+"wygnasz kartę mającą wspólny typ karty z ową recyklowaną kartą. Możesz "
+"rzucić ową kartę bez płacenia jej kosztu many. Następnie umieść wygnane "
+"karty nie rzucone w ten sposób na spodzie twojej biblioteki w losowej "
+"kolejności."
 
 #: ../../IKO.rst:796
 msgid ""
@@ -2346,6 +2382,7 @@ msgid ""
 "|mana_2|, Sacrifice a creature: Weaponize the Monsters deals 2 damage to any "
 "target."
 msgstr ""
+"|mana_2|, poświęć stwora: Ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../IKO.rst:804
 msgid ""
@@ -2361,7 +2398,7 @@ msgstr "Tratowanie, pośpiech"
 
 #: ../../IKO.rst:801
 msgid "Cycling |mana_1|\\ |mana_r|"
-msgstr ""
+msgstr "Recykling |mana_1|\\ |mana_r|"
 
 #: ../../IKO.rst:803
 msgid ""
@@ -2370,6 +2407,10 @@ msgid ""
 "or more times this game, put it onto the battlefield from your graveyard "
 "instead. (Do this before you draw.)"
 msgstr ""
+"Kiedy recyklujesz tę kartę, wtasuj ją do twojej biblioteki z twojego "
+"cmentarza. Jeśli recklowałeś kartę o tej nazwie co najmniej cztery razy w "
+"tej grze, zamiast tego umieść ją na polu walki z twojego cmentarza. (Zrób to "
+"przed dobraniem.)"
 
 #: ../../IKO.rst:808
 msgid ""
@@ -2397,7 +2438,7 @@ msgstr ""
 
 #: ../../IKO.rst:813
 msgid "|mana_3|\\ |mana_g|: Almighty Brushwagg gets +3/+3 until end of turn."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +3/+3."
 
 #: ../../IKO.rst:820
 msgid ""
@@ -2436,7 +2477,7 @@ msgstr ""
 
 #: ../../IKO.rst:823
 msgid "Exile up to three target enchantments."
-msgstr ""
+msgstr "Wygnaj co najwyżej trzy wskazane uroki."
 
 #: ../../IKO.rst:830
 msgid ""
@@ -2469,6 +2510,8 @@ msgid ""
 "Charge of the Forever-Beast deals damage to target creature or planeswalker "
 "equal to the revealed card's power."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi obrażenia równe sile "
+"ujawnionej karty."
 
 #: ../../IKO.rst:844
 msgid ""
@@ -2479,11 +2522,11 @@ msgstr ""
 
 #: ../../IKO.rst:841
 msgid "When Colossification enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../IKO.rst:843
 msgid "Enchanted creature gets +20/+20."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +20/+20."
 
 #: ../../IKO.rst:848
 msgid ""
@@ -2509,7 +2552,7 @@ msgstr ""
 
 #: ../../IKO.rst:853
 msgid "When Excavation Mole enters the battlefield, mill three cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel trzy karty."
 
 #: ../../IKO.rst:858
 msgid ""
@@ -2524,6 +2567,9 @@ msgid ""
 "toughness of target Human you control to Exuberant Wolfbear's power and "
 "toughness until end of turn."
 msgstr ""
+"Kiedy ten stwór atakuje, możesz do końca tury zamienić siłę i wytrzymałość "
+"wskazanego Człowieka pod twoim władaniem z siłą i wytrzymałością niniejszego "
+"stwora."
 
 #: ../../IKO.rst:864
 msgid ""
@@ -2534,7 +2580,7 @@ msgstr ""
 
 #: ../../IKO.rst:861
 msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
 
 #: ../../IKO.rst:863
 msgid ""
@@ -2542,6 +2588,9 @@ msgid ""
 "searches their library for a basic land card, puts it onto the battlefield "
 "tapped, then shuffles their library."
 msgstr ""
+"|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
+"wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
+"walki, następnie tasuje swoją bibliotekę."
 
 #: ../../IKO.rst:868
 msgid ""
@@ -2555,6 +2604,8 @@ msgid ""
 "Flycatcher Giraffid enters the battlefield with your choice of a vigilance "
 "counter or a reach counter on it."
 msgstr ""
+"Ten stwór wchodzi na pole walki mając dowolny znacznik spośród czujności i "
+"zasięgu."
 
 #: ../../IKO.rst:872
 msgid ""
@@ -2567,6 +2618,8 @@ msgstr ""
 msgid ""
 "Target creature gets +3/+3 until end of turn. Put a trample counter on it."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+3. Umieść na nim znacznik "
+"tratowania."
 
 #: ../../IKO.rst:880
 msgid ""
@@ -2640,7 +2693,7 @@ msgstr ""
 
 #: ../../IKO.rst:897
 msgid "When Honey Mammoth enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 4 życia."
 
 #: ../../IKO.rst:904
 msgid ""
@@ -2654,12 +2707,16 @@ msgid ""
 "When Hornbash Mentor enters the battlefield, put a trample counter on target "
 "non-Human creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik tratowania na "
+"wskazanym stworze bez typu Człowiek pod twoim władaniem."
 
 #: ../../IKO.rst:903
 msgid ""
 "|mana_2|\\ |mana_g|, |tap|: Put a +1/+1 counter on each creature you control "
 "with trample."
 msgstr ""
+"|mana_2|\\ |mana_g|, |tap|: Umieść znacznik +1/+1 na każdym stworze pod "
+"twoim władaniem mającym tratowanie."
 
 #: ../../IKO.rst:908
 msgid ""
@@ -2699,18 +2756,24 @@ msgid ""
 "When Kogla, the Titan Ape enters the battlefield, it fights up to one target "
 "creature you don't control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, walczy on z co najwyżej jednym "
+"wskazanym stworem poza twoim władaniem."
 
 #: ../../IKO.rst:917
 msgid ""
 "Whenever Kogla attacks, destroy target artifact or enchantment defending "
 "player controls."
 msgstr ""
+"Kiedy ten stwór atakuje, zniszcz wskazany artefakt lub urok pod władaniem "
+"broniącego się gracza."
 
 #: ../../IKO.rst:919
 msgid ""
 "|mana_1|\\ |mana_g|: Return target Human you control to its owner's hand. "
 "Kogla gains indestructible until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Przywróć wskazanego Człowieka pod twoim władaniem do "
+"ręki właściciela. Niniejszy stwór zyskuje do końca tury niezniszczalność."
 
 #: ../../IKO.rst:924
 msgid ""
@@ -2725,6 +2788,9 @@ msgid ""
 "creature cards from among them and put the revealed cards into your hand. "
 "Put the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich dowolną liczbą kart stworów i umieścić owe ujawnione karty w twojej "
+"ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../IKO.rst:930
 msgid ""
@@ -2801,10 +2867,15 @@ msgid ""
 "If |mana_u|\\ |mana_b| was spent to cast this spell, search your library for "
 "a card, put that card into your graveyard, then shuffle your library."
 msgstr ""
+"Jeśli do rzucenia tego czaru użyto |mana_u|\\ |mana_b|, wyszukaj dowolną "
+"kartę w twojej bibliotece, umieść ją w twoim cmentarzu, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../IKO.rst:951
 msgid "Return up to two permanent cards from your graveyard to your hand."
 msgstr ""
+"Przywróć co najwyżej dwie karty permanentów z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../IKO.rst:956
 msgid ""
@@ -2830,6 +2901,9 @@ msgid ""
 "creature you don't control. If the creature you control has trample, excess "
 "damage is dealt to that creature's controller instead."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje wskazanemu stworowi poza twoim "
+"władaniem obrażenia równe swojej sile. Jeśli ów stwór pod twoim władaniem ma "
+"tratowanie, nadwyżka obrażeń jest zamiast tego zadana władcy drugiego stwora."
 
 #: ../../IKO.rst:964
 msgid ""
@@ -2856,10 +2930,14 @@ msgstr ""
 #: ../../IKO.rst:969
 msgid "Return target Human creature card from your graveyard to your hand."
 msgstr ""
+"Przywróć wskazaną kartę stwora z typem Człowiek z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../IKO.rst:971
 msgid "Return target non-Human creature card from your graveyard to your hand."
 msgstr ""
+"Przywróć wskazaną kartę stwora bez typu Człowiek z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../IKO.rst:976
 msgid ""
@@ -2873,6 +2951,8 @@ msgid ""
 "Prevent all damage that would be dealt this turn by creatures your opponents "
 "control."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane w tej turze przez "
+"stwory pod władaniem twoich przeciwników."
 
 #: ../../IKO.rst:984
 msgid ""
@@ -2894,6 +2974,8 @@ msgid ""
 "When you cycle Titanoth Rex, put a trample counter on target creature you "
 "control."
 msgstr ""
+"Kiedy recyklujesz tę kartę, umieść znacznik tratowania na wskazanym stworze "
+"pod twoim władaniem."
 
 #: ../../IKO.rst:994
 msgid ""
@@ -2910,13 +2992,15 @@ msgstr ""
 
 #: ../../IKO.rst:989
 msgid "You may cast creature spells from the top of your library."
-msgstr ""
+msgstr "Możesz rzucać czary stworów z wierzchu twojej biblioteki."
 
 #: ../../IKO.rst:991
 msgid ""
 "+1: Create a 3/3 green Beast creature token. Put your choice of a vigilance "
 "counter, a reach counter, or a trample counter on it."
 msgstr ""
+"+1: Stwórz żeton zielonego stwora Bestia 3/3. Umieść na nim jeden dowolny "
+"znacznik spośród czujności, zasięgu i tratowania."
 
 #: ../../IKO.rst:993
 msgid ""
@@ -2924,6 +3008,9 @@ msgid ""
 "for a creature card with lesser converted mana cost, put it onto the "
 "battlefield, then shuffle your library."
 msgstr ""
+"–2: Kiedy rzucisz swój najbliższy czar stwora w tej turze, wyszukaj w twojej "
+"bibliotece kartę stwora o mniejszym skróconym koszcie many, umieść ją na "
+"polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../IKO.rst:1000
 msgid ""
@@ -2949,6 +3036,9 @@ msgid ""
 "do, it fights up to one target creature you don't control. (Each deals "
 "damage equal to its power to the other.)"
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Kiedy tak "
+"zrobisz, walczy ona z co najwyżej jednym wskazanym stworem poza twoim "
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../IKO.rst:1010
 msgid ""
@@ -3018,6 +3108,8 @@ msgid ""
 "Target player draws X cards. Channeled Force deals X damage to up to one "
 "target creature or planeswalker."
 msgstr ""
+"Wskazany gracz dobiera X kart. Ten czar zadaje co najwyżej jednemu "
+"wskazanemu stworowi lub wędrowcowi X obrażeń."
 
 #: ../../IKO.rst:1032
 msgid ""
@@ -3033,12 +3125,17 @@ msgid ""
 "with bounty counters on them, put a bounty counter on target creature or "
 "planeswalker an opponent controls."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli pod władaniem twoich "
+"przeciwników nie ma permanentu ze znacznikiem nagrody, umieść znacznik "
+"nagrody na wskazanym stworze lub wędrowcu pod władaniem przeciwnika."
 
 #: ../../IKO.rst:1031
 msgid ""
 "Whenever a permanent an opponent controls with a bounty counter on it dies, "
 "you gain 3 life and draw a card."
 msgstr ""
+"Ilekroć umrze permanent pod władaniem przeciwnika mający znacznik nagrody, "
+"zyskaj 3 życia i dobierz kartę."
 
 #: ../../IKO.rst:1038
 msgid ""
@@ -3053,12 +3150,17 @@ msgid ""
 "creature card with lesser converted mana cost than the creature that died "
 "from your graveyard to your hand."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, zmiel dwie karty. "
+"Następnie przywróć kartę stwora o mniejszym skróconym koszcie many niż "
+"zmarły stwór z twojego cmentarza do twojej ręki."
 
 #: ../../IKO.rst:1037
 msgid ""
 "|mana_1|, Sacrifice Death's Oasis: You gain life equal to the highest "
 "converted mana cost among creatures you control."
 msgstr ""
+"|mana_1|, poświęć ten urok: Zyskaj tyle żyć, ile wynosi największy skrócony "
+"koszt many spośród stworów pod twoim władaniem."
 
 #: ../../IKO.rst:1042
 msgid ""
@@ -3072,6 +3174,8 @@ msgid ""
 "Exile target creature. If you don't control a Human, you lose life equal to "
 "that creature's toughness."
 msgstr ""
+"Wygnaj wskazanego stwora. Jeśli nie władasz Człowiekiem, strać tyle żyć, ile "
+"wynosiła wytrzymałość owego stwora."
 
 #: ../../IKO.rst:1046
 msgid ""
@@ -3085,6 +3189,8 @@ msgid ""
 "Return any number of permanent cards with different names from your "
 "graveyard to the battlefield."
 msgstr ""
+"Przywróć dowolną liczbę kart permanentów o różnych nazwach z twojego "
+"cmentarza na pole walki."
 
 #: ../../IKO.rst:1050
 msgid ""
@@ -3100,6 +3206,10 @@ msgid ""
 "into your library. You may cast the other cards without paying their mana "
 "costs. Exile Emergent Ultimatum."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej trzy jednokolorowe karty o różnych "
+"nazwach i wygnaj je. Przeciwnik wybiera jedną z owych kart. Wtasuj ową kartę "
+"do twojej biblioteki. Możesz rzucić pozostałe karty bez płacenia ich kosztów "
+"many. Wygnaj niniejszy czar."
 
 #: ../../IKO.rst:1056
 msgid ""
@@ -3113,6 +3223,8 @@ msgid ""
 "Creatures you control with vigilance have \"|mana_1|, |tap|: Tap target "
 "creature.\""
 msgstr ""
+"Stwory pod twoim władaniem mające czujność mają \"|mana_1|, |tap|: Przekręć "
+"wskazanego stwora.\""
 
 #: ../../IKO.rst:1064
 msgid ""
@@ -3124,19 +3236,23 @@ msgstr ""
 
 #: ../../IKO.rst:1059
 msgid "Other Humans you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory typu Człowiek pod twoim władaniem dostają +1/+1."
 
 #: ../../IKO.rst:1061
 msgid ""
 "Whenever General Kudro of Drannith or another Human enters the battlefield "
 "under your control, exile target card from an opponent's graveyard."
 msgstr ""
+"Ilekroć ten stwór lub inny Człowiek wejdzie na pole walki pod twoim "
+"władaniem, wygnaj wskazaną kartę z cmentarza przeciwnika."
 
 #: ../../IKO.rst:1063
 msgid ""
 "|mana_2|, Sacrifice two Humans: Destroy target creature with power 4 or "
 "greater."
 msgstr ""
+"|mana_2|, poświęć dwa stwory typu Człowiek: Zniszcz wskazanego stwora o sile "
+"4 lub większej."
 
 #: ../../IKO.rst:1070
 msgid ""
@@ -3148,12 +3264,15 @@ msgstr ""
 #: ../../IKO.rst:1067
 msgid "Legendary Humans you control have indestructible."
 msgstr ""
+"Legendarne stwory typu Człowiek pod twoim władaniem mają niezniszczalność."
 
 #: ../../IKO.rst:1069
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_b|: Exile target card from a graveyard. If it "
 "was a creature card, create a 1/1 white Human Soldier creature token."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_b|: Wygnaj wskazaną kartę z cmentarza. Jeśli "
+"była to karta stwora, stwórz żeton białego stwora Człowiek Piechur 1/1."
 
 #: ../../IKO.rst:1074
 msgid ""
@@ -3168,6 +3287,9 @@ msgid ""
 "cards from among them onto the battlefield and the rest into your hand. "
 "Exile Genesis Ultimatum."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść dowolną liczbę "
+"kart permanentów spośród nich na polu walki, a pozostałe w twojej ręce. "
+"Wygnaj niniejszy czar."
 
 #: ../../IKO.rst:1082
 msgid ""
@@ -3213,6 +3335,8 @@ msgid ""
 "Target player gains 5 life, Inspired Ultimatum deals 5 damage to any target, "
 "then you draw five cards."
 msgstr ""
+"Wskazany gracz zyskuje 5 żyć, ten czar zadaje wskazanemu celowi 5 obrażeń, "
+"następnie dobierz pięć kart."
 
 #: ../../IKO.rst:1092
 msgid ""
@@ -3226,6 +3350,8 @@ msgid ""
 "Whenever you tap a nonland permanent for mana, add one mana of any type that "
 "permanent produced."
 msgstr ""
+"Ilekroć przekręcisz nielądowy permanent pobierają manę, weź jedną manę "
+"dowolnego typu danego przez ów permanent."
 
 #: ../../IKO.rst:1091
 msgid ""
@@ -3233,6 +3359,10 @@ msgid ""
 "You may put a non-Human creature card from among them onto the battlefield. "
 "Put the rest on the bottom of your library in a random order."
 msgstr ""
+"|mana_5|\\ |mana_g|\\ |mana_u|: Spójrz na pięć wierzchnich kart twojej "
+"biblioteki. Możesz umieścić kartę stwora bez typu Człowiek spośród nich na "
+"polu walki. Umieść pozostałe na spodzie twojej biblioteki w losowej "
+"kolejności."
 
 #: ../../IKO.rst:1100
 msgid ""
@@ -3246,12 +3376,16 @@ msgid ""
 "Whenever a creature you control with menace becomes blocked, defending "
 "player sacrifices a creature blocking it."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem mający złowrogość zostanie zablokowany, "
+"broniący się gracz poświęca stwora blokującego go."
 
 #: ../../IKO.rst:1099
 msgid ""
 "|mana_b|\\ |mana_r|: Creatures you control with menace get +1/+0 until end "
 "of turn."
 msgstr ""
+"|mana_b|\\ |mana_r|: Stwory pod twoim władaniem mające złowrogość dostają do "
+"końca tury +1/+0."
 
 #: ../../IKO.rst:1106
 msgid ""
@@ -3291,6 +3425,8 @@ msgid ""
 "+1: You gain 2 life. Add |mana_u|, |mana_r|, or |mana_w|. Spend this mana "
 "only to cast a noncreature spell."
 msgstr ""
+"+1: Zyskaj 2 życia. Weź |mana_u|, |mana_r| lub |mana_w|. Użyj ową manę tylko "
+"na rzucenie nie-stworowego czaru."
 
 #: ../../IKO.rst:1111
 msgid ""
@@ -3298,12 +3434,17 @@ msgid ""
 "card this way, Narset of the Ancient Way deals damage equal to that card's "
 "converted mana cost to target creature or planeswalker."
 msgstr ""
+"–2: Dobierz kartę, następnie możesz odrzucić kartę. Kiedy odrzucisz w ten "
+"sposób nielądową kartę, ten wędrowiec zadaje wskazanemu stworowi lub "
+"wędrowcowi tyle obrażeń, ile wynosi skrócony koszt many owej karty."
 
 #: ../../IKO.rst:1113
 msgid ""
 "−6: You get an emblem with \"Whenever you cast a noncreature spell, this "
 "emblem deals 2 damage to any target.\""
 msgstr ""
+"–6: Dostajesz emblemat mający \"Ilekroć rzucisz nie-stworowy czar, ten "
+"emblemat zadaje wskazanemu celowi 2 obrażenia.\""
 
 #: ../../IKO.rst:1120
 msgid ""
@@ -3373,6 +3514,9 @@ msgid ""
 "creature card from your graveyard. Create a token that's a copy of that "
 "card, except it's 1/1. It gains haste until your next turn."
 msgstr ""
+"Na początku walki w twojej turze, wygnaj wskazaną kartę czerwonego, białego "
+"lub czarnego stwora z twojego cmentarza. Stwórz żeton będący kopią owej "
+"karty, ale jest on 1/1. Do twojej następnej tury zyskuje on pośpiech."
 
 #: ../../IKO.rst:1138
 msgid ""
@@ -3397,6 +3541,9 @@ msgid ""
 "you may put it onto the battlefield. If you don't put the card onto the "
 "battlefield, put it into your hand."
 msgstr ""
+"|mana_1|, |tap|: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to "
+"karta lądu, możesz ją umieścić na polu walki. Jeśli nie umieścisz owej karty "
+"na polu walki, umieść ją w twojej ręce."
 
 #: ../../IKO.rst:1142
 msgid ""
@@ -3411,6 +3558,9 @@ msgid ""
 "the greatest power among creatures on the battlefield. Otherwise, put a +1/"
 "+1 counter on a creature you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, dobierz kartę jeśli władasz stworem o "
+"największej sile spośród stworów na polu walki. W przeciwnym razie umieść "
+"znacznik +1/+1 na stworze pod twoim władaniem."
 
 #: ../../IKO.rst:1148
 msgid ""
@@ -3425,6 +3575,10 @@ msgid ""
 "to a player, create an X/X green Dinosaur Beast creature token with trample, "
 "where X is the amount of damage those creatures dealt to that player."
 msgstr ""
+"Ilekroć co najmniej jeden stwór pod twoim władaniem mający tratowanie zada "
+"graczowi obrażenia bojowe, stwórz żeton zielonego stwora Dinozaur Bestia X/X "
+"z tratowaniem, gdzie X jest liczbą obrażeń, jakie owe stwory zadały owemu "
+"graczowi."
 
 #: ../../IKO.rst:1154
 msgid ""
@@ -3463,12 +3617,15 @@ msgid ""
 "Rielle, the Everwise gets +1/+0 for each instant and sorcery card in your "
 "graveyard."
 msgstr ""
+"Ten stwór dostaje +1/+0 za każdą kartę sztuczki i obrzędu w twoim cmentarzu."
 
 #: ../../IKO.rst:1159
 msgid ""
 "Whenever you discard one or more cards for the first time each turn, draw "
 "that many cards."
 msgstr ""
+"Ilekroć odrzucisz co najmniej jedną kartę po raz pierwszy w danej turze, "
+"dobierz tyle samo kart."
 
 #: ../../IKO.rst:1164
 msgid ""
@@ -3480,6 +3637,7 @@ msgstr ""
 #: ../../IKO.rst:1163
 msgid "Destroy all nonland permanents your opponents control."
 msgstr ""
+"Zniszcz wszystkie nielądowe permanenty pod władaniem twoich przeciwników."
 
 #: ../../IKO.rst:1168
 msgid ""
@@ -3493,6 +3651,8 @@ msgid ""
 "Whenever you cycle a card, you may pay |mana_2|. When you do, Savai "
 "Thundermane deals 2 damage to target creature and you gain 2 life."
 msgstr ""
+"Ilekroć recyklujesz kartę, możesz zapłacić |mana_2|. Kiedy tak zrobisz, ten "
+"stwór zadaje wskazanemu stworowi 2 obrażenia, a ty zyskaj 2 życia."
 
 #: ../../IKO.rst:1174
 msgid ""
@@ -3507,7 +3667,7 @@ msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../IKO.rst:1173
 msgid "|tap|: Mill two cards."
-msgstr ""
+msgstr "|tap|: Zmiel dwie karty."
 
 #: ../../IKO.rst:1182
 msgid ""
@@ -3520,12 +3680,16 @@ msgstr ""
 msgid ""
 "Skycat Sovereign gets +1/+1 for each other creature you control with flying."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdego innego stwora pod twoim władaniem "
+"mającego latanie."
 
 #: ../../IKO.rst:1181
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_u|: Create a 1/1 white Cat Bird creature token "
 "with flying."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_u|: Stwórz żeton białego stwora Kot Ptak 1/1 z "
+"lataniem."
 
 #: ../../IKO.rst:1188
 msgid ""
@@ -3539,6 +3703,8 @@ msgid ""
 "Whenever you cast another spell that has flash, you draw a card and each "
 "opponent loses 1 life."
 msgstr ""
+"Ilekroć rzucisz inny czar mający błysk, dobierz kartę, a każdy przeciwnik "
+"traci po 1 życiu."
 
 #: ../../IKO.rst:1196
 msgid ""
@@ -3605,6 +3771,7 @@ msgstr "Latanie, pośpiech"
 msgid ""
 "Whenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon."
 msgstr ""
+"Ilekroć rzucisz nie-stworowy czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../IKO.rst:1216
 msgid ""
@@ -3626,6 +3793,9 @@ msgid ""
 "Exile a card from your graveyard: Add |colorless|. Spend this mana only to "
 "cast a spell that's one or more colors without |mana_x| in its mana cost."
 msgstr ""
+"Wygnaj kartę z twojego cmentarza: Weź |colorless|. Użyj tę manę tylko do "
+"rzucenia czaru mającego jeden lub więcej kolorów bez |mana_x| w jego koszcie "
+"many."
 
 #: ../../IKO.rst:1222
 msgid ""
@@ -3708,6 +3878,11 @@ msgid ""
 "battlefield tapped and attacking. It gains indestructible until end of turn. "
 "Put the rest of the cards on the bottom of your library in a random order."
 msgstr ""
+"Ilekroć atakuje stwór bez typu Człowiek pod twoim władaniem, spójrz na sześć "
+"wierzchnich kart twojej biblioteki. Możesz umieścić spośród nich kartę "
+"stwora typu Człowiek na polu walki przekręconą i atakującą. Do końca tury "
+"zyskuje ona niezniszczalność. Umieść pozostałe karty na spodzie twojej "
+"biblioteki w losowej kolejności."
 
 #: ../../IKO.rst:1242
 msgid ""
@@ -3721,6 +3896,8 @@ msgid ""
 "Zenith Flare deals X damage to any target and you gain X life, where X is "
 "the number of cards with a cycling ability in your graveyard."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi X obrażeń, a ty zyskaj X żyć, gdzie X jest "
+"liczbą kart z recyklingiem w twoim cmentarzu."
 
 #: ../../IKO.rst:1248
 msgid ""
@@ -3734,6 +3911,8 @@ msgid ""
 "At the beginning of your end step, you gain 1 life for each creature you "
 "control with vigilance."
 msgstr ""
+"Na początku twojego kroku końcowego, zyskaj po 1 życiu za każdego stwora pod "
+"twoim władaniem mającego czujność."
 
 #: ../../IKO.rst:1254
 msgid ""
@@ -3746,6 +3925,8 @@ msgstr ""
 msgid ""
 "Spells with flash you cast cost |mana_1| less to cast and can't be countered."
 msgstr ""
+"Rzucanie czarów z błyskiem kosztuje cię o |mana_1| mniej i nie mogą być one "
+"skontrowane."
 
 #: ../../IKO.rst:1260
 msgid ""
@@ -3756,7 +3937,7 @@ msgstr ""
 
 #: ../../IKO.rst:1257
 msgid "Fiend Artisan gets +1/+1 for each creature card in your graveyard."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../IKO.rst:1259
 msgid ""
@@ -3765,6 +3946,9 @@ msgid ""
 "battlefield, then shuffle your library. Activate this ability only any time "
 "you could cast a sorcery."
 msgstr ""
+"|mana_x|\\ |mana_bg|, |tap|, poświęć innego stwora: Wyszukaj w twojej "
+"bibliotece kartę stwora o skróconym koszcie many X lub mniejszym, umieść ją "
+"na polu walki, następnie przetasuj twoją bibliotekę. Aktywuj jako obrzęd."
 
 #: ../../IKO.rst:1266
 msgid ""
@@ -3779,6 +3963,9 @@ msgid ""
 "costs. (If this card is your chosen companion, you may put it into your hand "
 "from outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
+"Kompan — Twoja startowa talia zawiera tylko karty z parzystymi skróconymi "
+"kosztami many. (Jeśli ta karta jest twoim wybranym kompanem, możesz jako "
+"obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1265
 msgid ""
@@ -3786,6 +3973,9 @@ msgid ""
 "creature card with an even converted mana cost from among the milled cards "
 "onto the battlefield under your control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy gracz mieli cztery karty. "
+"Umieść kartę stwora z parzystym skróconym kosztem many spośród zmielonych "
+"kart na polu walki pod twoim władaniem."
 
 #: ../../IKO.rst:1272
 msgid ""
@@ -3802,12 +3992,18 @@ msgid ""
 "it into your hand from outside the game for |mana_3| any time you could cast "
 "a sorcery.)"
 msgstr ""
+"Kompan — Żadna z kart w twojej startowej talii nie ma powtarzających się "
+"symboli many w swoim koszcie many. (Jeśli ta karta jest twoim wybranym "
+"kompanem, możesz jako obrzęd umieścić ją w twojej ręce spoza gry za "
+"|mana_3|.)"
 
 #: ../../IKO.rst:1271
 msgid ""
 "|tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|. This mana "
 "can't be spent to pay generic mana costs."
 msgstr ""
+"|tap|: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|. Many tej "
+"nie można użyć do opłacenia generycznych kosztów many."
 
 #: ../../IKO.rst:1278
 msgid ""
@@ -3821,6 +4017,8 @@ msgid ""
 "Creatures you control with flying have \"Spells your opponents cast that "
 "target this creature cost |mana_2| more to cast.\""
 msgstr ""
+"Stwory pod twoim władaniem mające latanie mają \"Rzucanie czarów "
+"wskazujących tego stwora kosztuje twoich przeciwników o |mana_2| więcej.\""
 
 #: ../../IKO.rst:1286
 msgid ""
@@ -3837,12 +4035,18 @@ msgid ""
 "you may put it into your hand from outside the game for |mana_3| any time "
 "you could cast a sorcery.)"
 msgstr ""
+"Kompan — Każda karta stwora w twojej startowej talii jest Kotem, "
+"Żywiołakiem, Koszmarem, Dinozaurem lub Bestią. (Jeśli ta karta jest twoim "
+"wybranym kompanem, możesz jako obrzęd umieścić ją w twojej ręce spoza gry za "
+"|mana_3|.)"
 
 #: ../../IKO.rst:1285
 msgid ""
 "Each other creature you control that's a Cat, Elemental, Nightmare, "
 "Dinosaur, or Beast gets +1/+1 and has vigilance."
 msgstr ""
+"Każdy stwór pod twoim władaniem będący Kotem, Żywiołakiem, Koszmarem, "
+"Dinozaurem lub Bestią dostaje +1/+1 i ma czujność."
 
 #: ../../IKO.rst:1292
 msgid ""
@@ -3858,12 +4062,17 @@ msgid ""
 "put it into your hand from outside the game for |mana_3| any time you could "
 "cast a sorcery.)"
 msgstr ""
+"Kompan — Twoja startowa talia zawiera tylko karty o skróconym koszcie many 3 "
+"lub większym oraz karty lądów. (Jeśli ta karta jest twoim wybranym kompanem, "
+"możesz jako obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1291
 msgid ""
 "When Keruga, the Macrosage enters the battlefield, draw a card for each "
 "other permanent you control with converted mana cost 3 or greater."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dobierz kartę za każdy inny permanent "
+"pod twoim władaniem mający skrócony koszt many 3 lub większy."
 
 #: ../../IKO.rst:1300
 msgid ""
@@ -3879,12 +4088,17 @@ msgid ""
 "your hand from outside the game for |mana_3| any time you could cast a "
 "sorcery.)"
 msgstr ""
+"Kompan — Każda karta permanentu w twojej startowej talii ma skrócony koszt "
+"many 2 lub mniejszy. (Jeśli ta karta jest twoim wybranym kompanem, możesz "
+"jako obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1299
 msgid ""
 "During each of your turns, you may cast one permanent spell with converted "
 "mana cost 2 or less from your graveyard."
 msgstr ""
+"W trakcie każdej z twoich tur możesz rzucić jeden czar permanentu o "
+"skróconym koszcie many 2 lub mniejszym z twojego cmentarza."
 
 #: ../../IKO.rst:1308
 msgid ""
@@ -3899,6 +4113,9 @@ msgid ""
 "(If this card is your chosen companion, you may put it into your hand from "
 "outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
+"Kompan — Każda nielądowa karta w twojej startowej talii ma inną nazwę. ("
+"Jeśli ta karta jest twoim wybranym kompanem, możesz jako obrzęd umieścić ją "
+"w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1307
 msgid ""
@@ -3906,6 +4123,9 @@ msgid ""
 "target instant or sorcery spell you control. You may choose new targets for "
 "the copy."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został rzucony, skopiuj "
+"wskazany czar sztuczki lub obrzędu pod twoim władaniem. Możesz wskazać nowe "
+"cele dla kopii."
 
 #: ../../IKO.rst:1314
 msgid ""
@@ -3921,6 +4141,9 @@ msgid ""
 "into your hand from outside the game for |mana_3| any time you could cast a "
 "sorcery.)"
 msgstr ""
+"Kompan — Twoja startowa talia zawiera tylko karty o nieparzystym skróconym "
+"koszcie many i karty lądów. (Jeśli ta karta jest twoim wybranym kompanem, "
+"możesz jako obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1313
 msgid ""
@@ -3928,6 +4151,9 @@ msgid ""
 "a permanent or player, it deals double that damage to that permanent or "
 "player instead."
 msgstr ""
+"Jeśli źródło pod twoim władaniem o nieparzystym skróconym koszcie many "
+"miałoby zadać obrażenia permanentowi lub graczowi, zamiast tego zadaje owemu "
+"celowi dwukrotność owych obrażeń."
 
 #: ../../IKO.rst:1320
 msgid ""
@@ -3941,6 +4167,8 @@ msgid ""
 "Creatures you control with trample have \"You may have this creature assign "
 "its combat damage as though it weren't blocked.\""
 msgstr ""
+"Stwory pod twoim włądaniem mające tratowanie mają \"Możesz sprawić, że ten "
+"stwór zada obrażenia bojowe tak, jakby nie był blokowany.\""
 
 #: ../../IKO.rst:1326
 msgid ""
@@ -3970,14 +4198,17 @@ msgid ""
 "this card is your chosen companion, you may put it into your hand from "
 "outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
+"Kompan — Wszystkie nielądowe karty w twojej startowej talii mają wspólny typ "
+"karty. (Jeśli ta karta jest twoim wybranym kompanem, możesz jako obrzęd "
+"umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1331
 msgid "As Umori, the Collector enters the battlefield, choose a card type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu walki wybierz typ karty."
 
 #: ../../IKO.rst:1333
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucane przez ciebie czary wybranego typu kosztują o |mana_1| mniej."
 
 #: ../../IKO.rst:1342
 msgid ""
@@ -3993,6 +4224,9 @@ msgid ""
 "into your hand from outside the game for |mana_3| any time you could cast a "
 "sorcery.)"
 msgstr ""
+"Kompan — Twoja startowa talia zawiera co najmniej o dwadzieścia kart więcej "
+"niż minimalny rozmiar talii. (Jeśli ta karta jest twoim wybranym kompanem, "
+"możesz jako obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1341
 msgid ""
@@ -4000,6 +4234,9 @@ msgid ""
 "permanents you own and control. Return those cards to the battlefield at the "
 "beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj dowolną liczbę innych "
+"nielądowych permanentów pod twoim władaniem będących twoją własnością. "
+"Przywróć owe karty na pole walki na początku najbliższego kroku końcowego."
 
 #: ../../IKO.rst:1350
 msgid ""
@@ -4014,6 +4251,9 @@ msgid ""
 "ability. (If this card is your chosen companion, you may put it into your "
 "hand from outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
+"Kompan — Każda karta permanentu w twojej startowej talii ma aktywowaną "
+"zdolność. (Jeśli ta karta jest twoim wybranym kompanem, możesz jako obrzęd "
+"umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1347
 msgid ""
@@ -4021,10 +4261,12 @@ msgid ""
 "activate. This effect can't reduce the mana in that cost to less than one "
 "mana."
 msgstr ""
+"Aktywowanie zdolności nie będących zdolnościami many kosztuje cię o |mana_2| "
+"mniej. Ten efekt nie może zmniejszyć owego kosztu do mniej niż jednej many."
 
 #: ../../IKO.rst:1349
 msgid "|mana_1|, |tap|: Target creature can't block this turn."
-msgstr ""
+msgstr "|mana_1|, |tap|: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../IKO.rst:1354
 msgid ""
@@ -4040,6 +4282,10 @@ msgid ""
 "deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/"
 "+1. Put a counter of that kind on Crystalline Giant."
 msgstr ""
+"Na początku walki w twojej turze wybierz losowo rodzaj znacznika, jakiego "
+"ten stwór jeszcze nie ma spośród latania, pierwszego ciosu, dotyku śmierci, "
+"antyklątwy, więzi życia, złowrogości, zasięgu, tratowania, czujności i +1/+"
+"1. Umieść znacznik owego rodzaju na tym stworze."
 
 #: ../../IKO.rst:1360
 msgid ""
@@ -4083,6 +4329,8 @@ msgid ""
 "At the beginning of combat on your turn, if The Ozolith has counters on it, "
 "you may move all counters from The Ozolith onto target creature."
 msgstr ""
+"Na początku walki w twojej turze, jeśli ten artefakt ma na sobie znaczniki, "
+"możesz przenieść wszystkie znaczniki z tego artefaktu na wskazanego stwora."
 
 #: ../../IKO.rst:1378
 msgid ""
@@ -4122,6 +4370,8 @@ msgid ""
 "|tap|, Sacrifice Sleeper Dart: Target creature doesn't untap during its "
 "controller's next untap step."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wskazany stwór nie odkręci się podczas "
+"najbliższego kroku odkręcania swojego władcy."
 
 #: ../../IKO.rst:1396
 msgid ""
@@ -4134,6 +4384,8 @@ msgstr ""
 msgid ""
 "|mana_4|, |tap|, Sacrifice Springjaw Trap: It deals 3 damage to any target."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu celowi 3 "
+"obrażenia."
 
 #: ../../IKO.rst:1402
 msgid ""
@@ -4200,6 +4452,8 @@ msgid ""
 "|mana_3|, |tap|: Draw a card. Activate this ability only if you control a "
 "creature with power 4 or greater."
 msgstr ""
+"|mana_3|, |tap|: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli "
+"władasz stworem o sile 4 lub większej."
 
 #: ../../IKO.rst:1432
 msgid ""
@@ -4248,7 +4502,7 @@ msgstr "(|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|.)"
 
 #: ../../IKO.rst:1441
 msgid "Indatha Triome enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1443 ../../IKO.rst:1459 ../../IKO.rst:1467 ../../IKO.rst:1483
 #: ../../IKO.rst:1531
@@ -4283,7 +4537,7 @@ msgstr "(|tap|: Weź |mana_g|, |mana_u|, or |mana_r|.)"
 
 #: ../../IKO.rst:1457
 msgid "Ketria Triome enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1468
 msgid ""
@@ -4298,7 +4552,7 @@ msgstr "(|tap|: Weź |mana_u|, |mana_r| lub |mana_w|.)"
 
 #: ../../IKO.rst:1465
 msgid "Raugrin Triome enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1476
 msgid ""
@@ -4332,7 +4586,7 @@ msgstr "(|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|.)"
 
 #: ../../IKO.rst:1481
 msgid "Savai Triome enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1492
 msgid ""
@@ -4442,7 +4696,7 @@ msgstr "(|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|.)"
 
 #: ../../IKO.rst:1529
 msgid "Zagoth Triome enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../IKO.rst:1536
 msgid ""
@@ -4512,3 +4766,5 @@ msgid ""
 "Lethal damage dealt to creatures you control is determined by their power "
 "rather than their toughness."
 msgstr ""
+"Śmiertelne obrażenia zadane stworom pod twoim władaniem jest określane ich "
+"siłą zamiast wytrzymałością."

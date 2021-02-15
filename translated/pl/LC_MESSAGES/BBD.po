@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-15 08:47+0000\n"
+"PO-Revision-Date: 2021-02-15 11:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bbd/pl/>\n"
 "Language: pl\n"
@@ -2960,7 +2960,7 @@ msgstr ""
 
 #: ../../BBD.rst:1051
 msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
 
 #: ../../BBD.rst:1053
 msgid ""
@@ -2968,6 +2968,9 @@ msgid ""
 "searches their library for a basic land card, puts it onto the battlefield "
 "tapped, then shuffles their library."
 msgstr ""
+"|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
+"wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
+"walki, następnie tasuje swoją bibliotekę."
 
 #: ../../BBD.rst:1058
 msgid ""
