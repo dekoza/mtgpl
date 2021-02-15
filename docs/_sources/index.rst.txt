@@ -12,6 +12,13 @@ Po najechaniu myszką na nazwę karty można zobaczyć jej oryginalny wizerunek.
 
 Jeśli uważasz, że projekt ten jest przydatny, możesz `wesprzeć autora na Patronite <https://patronite.pl/mtgpl>`_.
 
+
+Spolszczenie Magic Arena
+========================
+
+Tak, w końcu jest to możliwe. Szczegóły już niebawem!
+
+
 Instrukcje
 ==========
 
