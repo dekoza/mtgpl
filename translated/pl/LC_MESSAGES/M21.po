@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-15 07:48+0000\n"
+"PO-Revision-Date: 2021-02-15 11:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -60,6 +60,8 @@ msgstr ""
 #: ../../M21.rst:21
 msgid "Exile target creature or planeswalker. Its controller creates a 4/4 white Angel creature token with flying."
 msgstr ""
+"Wygnaj wskazanego stwora lub wędrowca. Jego władca tworzy żeton białego "
+"stwora Anioł 4/4 z lataniem."
 
 #: ../../M21.rst:28
 msgid ":mtgtip:`Anointed Chorister<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c977c67-b0c0-40b0-b129-28de094aaf40.jpg?1594734721|https://scryfall.com/card/m21/4/anointed-chorister?utm_source=api>`"
@@ -77,7 +79,7 @@ msgstr ""
 
 #: ../../M21.rst:27
 msgid "|mana_4|\\ |mana_w|: Anointed Chorister gets +3/+3 until end of turn."
-msgstr ""
+msgstr "|mana_4|\\ |mana_w|: Ten stwór dostaje do końca tury +3/+3."
 
 #: ../../M21.rst:34
 msgid ":mtgtip:`Aven Gagglemaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5b57247-81cc-44ec-b5a9-0702111a98a8.jpg?1594734738|https://scryfall.com/card/m21/5/aven-gagglemaster?utm_source=api>`"
@@ -107,6 +109,8 @@ msgstr "Latanie"
 #: ../../M21.rst:33
 msgid "When Aven Gagglemaster enters the battlefield, you gain 2 life for each creature you control with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskaj po 2 życia za każdego stwora "
+"pod twoim władaniem mającego latanie."
 
 #: ../../M21.rst:38
 msgid ":mtgtip:`Baneslayer Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bd3014b-94bb-4a9f-92cf-239a2dcc7e97.jpg?1594734758|https://scryfall.com/card/m21/6/baneslayer-angel?utm_source=api>`"
@@ -114,7 +118,7 @@ msgstr ""
 
 #: ../../M21.rst:37
 msgid "Flying, first strike, lifelink, protection from Demons and from Dragons"
-msgstr ""
+msgstr "Latanie, pierwszy cios, więź życia, ochrona przez Demonami i Smokami"
 
 #: ../../M21.rst:46
 msgid ":mtgtip:`Basri Ket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98c85699-2daf-4e87-a3be-465d02bd64bb.jpg?1594734775|https://scryfall.com/card/m21/7/basri-ket?utm_source=api>`"
@@ -123,14 +127,22 @@ msgstr ""
 #: ../../M21.rst:41
 msgid "+1: Put a +1/+1 counter on up to one target creature. It gains indestructible until end of turn."
 msgstr ""
+"+1: Umieść znacznik +1/+1 na co najwyżej jednym wskazanym stworze. Do końca "
+"tury zyskuje on niezniszczalność."
 
 #: ../../M21.rst:43
 msgid "−2: Whenever one or more nontoken creatures attack this turn, create that many 1/1 white Soldier creature tokens that are tapped and attacking."
 msgstr ""
+"–2: Ilekroć co najmniej jeden nieżetonowy stwór zaatakuje w tej turze, "
+"stwórz tyle samo przekręconych i atakujących żetonów białego stwora Piechur "
+"1/1."
 
 #: ../../M21.rst:45
 msgid "−6: You get an emblem with \"At the beginning of combat on your turn, create a 1/1 white Soldier creature token, then put a +1/+1 counter on each creature you control.\""
 msgstr ""
+"–6: Dostajesz emblemat mający \"Na początku walki w twojej turze, stwórz "
+"żeton białego stwora Piechur +1/+1, następnie umieść znacznik +1/+1 na "
+"każdym stworze pod twoim władaniem.\""
 
 #: ../../M21.rst:52
 msgid ":mtgtip:`Basri's Acolyte<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08d1dd97-2675-4953-ab95-d47d23abfe05.jpg?1594734783|https://scryfall.com/card/m21/8/basris-acolyte?utm_source=api>`"
@@ -139,6 +151,8 @@ msgstr ""
 #: ../../M21.rst:51
 msgid "When Basri's Acolyte enters the battlefield, put a +1/+1 counter on each of up to two other target creatures you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym z co "
+"najwyżej dwóch innych wskazanych stworów pod twoim władaniem."
 
 #: ../../M21.rst:60
 msgid ":mtgtip:`Basri's Lieutenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74b1eae0-1bf8-4922-a9e3-45c01ece9005.jpg?1594734796|https://scryfall.com/card/m21/9/basris-lieutenant?utm_source=api>`"
@@ -146,15 +160,19 @@ msgstr ""
 
 #: ../../M21.rst:55
 msgid "Vigilance, protection from multicolored"
-msgstr ""
+msgstr "Czujność, ochrona przed wielokolorowym"
 
 #: ../../M21.rst:57
 msgid "When Basri's Lieutenant enters the battlefield, put a +1/+1 counter on target creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../M21.rst:59
 msgid "Whenever Basri's Lieutenant or another creature you control dies, if it had a +1/+1 counter on it, create a 2/2 white Knight creature token with vigilance."
 msgstr ""
+"Ilekroć ten lub inny stwór pod twoim władaniem umrze, jeśli miał on znacznik "
+"+1/+1, stwórz żeton białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../M21.rst:64
 msgid ":mtgtip:`Basri's Solidarity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2e6fdc0-bdd4-4bba-b8f1-bbc8dfad038e.jpg?1594734810|https://scryfall.com/card/m21/10/basris-solidarity?utm_source=api>`"
@@ -171,6 +189,8 @@ msgstr ""
 #: ../../M21.rst:67
 msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature. Activate this ability only if you control a creature with flying."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|: Przekręć wskazanego stwora. Możesz użyć tej "
+"zdolności tylko jeśli władasz stworem z lataniem."
 
 #: ../../M21.rst:72
 msgid ":mtgtip:`Concordia Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.jpg?1594734840|https://scryfall.com/card/m21/12/concordia-pegasus?utm_source=api>`"
@@ -201,6 +221,8 @@ msgstr ""
 #: ../../M21.rst:81
 msgid "When Daybreak Charger enters the battlefield, target creature gets +2/+0 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"2/+0."
 
 #: ../../M21.rst:88
 msgid ":mtgtip:`Defiant Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c23869b-c99a-49dd-9e29-fcc0eb63fad1.jpg?1594734879|https://scryfall.com/card/m21/15/defiant-strike?utm_source=api>`"
@@ -236,6 +258,9 @@ msgstr "Zaurocz stwora"
 #: ../../M21.rst:93
 msgid "Enchanted creature gets +2/+2, has first strike, and is a Knight in addition to its other types. (It deals combat damage before creatures without first strike.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma pierwszy cios i jest Rycerzem oprócz "
+"swoich innych typów. (Zadaje obrażenia bojowe przed stworami bez pierwszego "
+"ciosu.)"
 
 #: ../../M21.rst:102
 msgid ":mtgtip:`Faith's Fetters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e742d49-e6f0-4016-ba4c-11878fad89cb.jpg?1594734908|https://scryfall.com/card/m21/17/faiths-fetters?utm_source=api>`"
@@ -262,6 +287,8 @@ msgstr ""
 #: ../../M21.rst:105
 msgid "Whenever Falconer Adept attacks, create a 1/1 white Bird creature token with flying that's tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, stwórz przekręcony i atakujący żeton białego "
+"stwora Ptak 1/1 z lataniem."
 
 #: ../../M21.rst:110
 msgid ":mtgtip:`Feat of Resistance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73148b3b-73d3-4f57-8b67-1e91fbe112b9.jpg?1595640319|https://scryfall.com/card/m21/19/feat-of-resistance?utm_source=api>`"
@@ -270,6 +297,9 @@ msgstr ""
 #: ../../M21.rst:109
 msgid "Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Do końca "
+"tury zyskuje on ochronę przed dowolnym kolorem. (Nic w owym kolorze nie może "
+"blokować, wskazać, zadać obrażeń, zauroczyć ani wyposażyć owego stwora.)"
 
 #: ../../M21.rst:116
 msgid ":mtgtip:`Gale Swooper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2e3b99c-e48e-4f4d-ba7a-e9218137b432.jpg?1594734966|https://scryfall.com/card/m21/20/gale-swooper?utm_source=api>`"
@@ -278,6 +308,8 @@ msgstr ""
 #: ../../M21.rst:115
 msgid "When Gale Swooper enters the battlefield, target creature gains flying until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór do końca tury zyskuje "
+"latanie."
 
 #: ../../M21.rst:120
 msgid ":mtgtip:`Glorious Anthem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17d154d3-7ae5-43ff-9978-d974285e2c89.jpg?1594734982|https://scryfall.com/card/m21/21/glorious-anthem?utm_source=api>`"
@@ -294,6 +326,8 @@ msgstr ""
 #: ../../M21.rst:123
 msgid "At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Griffin creature token with flying."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli zyskałeś 3 lub więcej żyć w tej "
+"turze, stwórz żeton białego stwora Gryf 2/2 z lataniem."
 
 #: ../../M21.rst:130
 msgid ":mtgtip:`Idol of Endurance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d60e84e-be05-49da-9720-4225abe9d003.jpg?1612316288|https://scryfall.com/card/m21/23/idol-of-endurance?utm_source=api>`"
@@ -302,10 +336,15 @@ msgstr ""
 #: ../../M21.rst:127
 msgid "When Idol of Endurance enters the battlefield, exile all creature cards with converted mana cost 3 or less from your graveyard until Idol of Endurance leaves the battlefield."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, wygnaj wszystkie karty stworów o "
+"skróconym koszcie many 3 lub mniejszym z twojego cmentarza dopóki ten "
+"artefakt nie opuści pola walki."
 
 #: ../../M21.rst:129
 msgid "|mana_1|\\ |mana_w|, |tap|: Until end of turn, you may cast a creature spell from among cards exiled with Idol of Endurance without paying its mana cost."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|: Do końca tury możesz rzucić czar stwora spośród "
+"kart wygnanych tym artefaktem, bez płacenia jego kosztu many."
 
 #: ../../M21.rst:134
 msgid ":mtgtip:`Legion's Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/032f6c5a-8d88-4a55-a54b-28df42d801e1.jpg?1594735024|https://scryfall.com/card/m21/24/legions-judgment?utm_source=api>`"
@@ -346,10 +385,12 @@ msgstr "Więź życia"
 #: ../../M21.rst:149
 msgid "Whenever an opponent attacks with creatures, if two or more of those creatures are attacking you and/or planeswalkers you control, draw a card."
 msgstr ""
+"Ilekroć przeciwnik atakuje stworami, jeśli co najmniej dwa z owych stworów "
+"atakują ciebie i/lub wędrowców pod twoim władaniem, dobierz kartę."
 
 #: ../../M21.rst:151
 msgid "Whenever an opponent casts their second spell each turn, draw a card."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuca swój drugi czar w danej turze, dobierz kartę."
 
 #: ../../M21.rst:162
 msgid ":mtgtip:`Nine Lives<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e70b7a73-484e-48f1-944c-3d38866cdc20.jpg?1594735092|https://scryfall.com/card/m21/28/nine-lives?utm_source=api>`"
@@ -362,14 +403,17 @@ msgstr "Antyklątwa"
 #: ../../M21.rst:157
 msgid "If a source would deal damage to you, prevent that damage and put an incarnation counter on Nine Lives."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać tobie obrażenia, zażegnaj owe obrażenia i "
+"umieść znacznik wcielenia na tym uroku."
 
 #: ../../M21.rst:159
 msgid "When there are nine or more incarnation counters on Nine Lives, exile it."
 msgstr ""
+"Kiedy na tym uroku jest co najmniej dziewięć znaczników wcielenia, wygnaj go."
 
 #: ../../M21.rst:161
 msgid "When Nine Lives leaves the battlefield, you lose the game."
-msgstr ""
+msgstr "Kiedy ten urok opuści pole walki, przegrywasz grę."
 
 #: ../../M21.rst:168
 msgid ":mtgtip:`Pack Leader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8b94bc1-68d1-41dc-914c-a33ecb9aeb49.jpg?1594735110|https://scryfall.com/card/m21/29/pack-leader?utm_source=api>`"
@@ -377,11 +421,13 @@ msgstr ""
 
 #: ../../M21.rst:165
 msgid "Other Dogs you control get +1/+1."
-msgstr ""
+msgstr "Inne Psy pod twoim władaniem dostają +1/+1."
 
 #: ../../M21.rst:167
 msgid "Whenever Pack Leader attacks, prevent all combat damage that would be dealt this turn to Dogs you control."
 msgstr ""
+"Ilekroć ten stwór atakuje, zażegnaj wszystkie obrażenia bojowe, jakie "
+"mogłyby zostać zadane w tej turze Psom pod twoim władaniem."
 
 #: ../../M21.rst:172
 msgid ":mtgtip:`Rambunctious Mutt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f602ecc-c264-4f3e-adeb-d0186668653e.jpg?1599435086|https://scryfall.com/card/m21/30/rambunctious-mutt?utm_source=api>`"
@@ -390,6 +436,8 @@ msgstr ""
 #: ../../M21.rst:171
 msgid "When Rambunctious Mutt enters the battlefield, destroy target artifact or enchantment an opponent controls."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt lub urok "
+"pod władaniem przeciwnika."
 
 #: ../../M21.rst:178
 msgid ":mtgtip:`Revitalize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3bd4bce-8ab0-40b9-aad7-7d57a011bb0b.jpg?1594735141|https://scryfall.com/card/m21/31/revitalize?utm_source=api>`"
@@ -411,6 +459,8 @@ msgstr "Umieszczając ten urok na polu walki, wybierz nazwę karty."
 #: ../../M21.rst:183
 msgid "You have protection from the chosen card name. (You can't be targeted, dealt damage, or enchanted by anything with that name.)"
 msgstr ""
+"Masz ochronę przed wybraną nazwą. (Nic o owej nazwie nie może cię wskazać, "
+"zadać obrażeń ani zauroczyć.)"
 
 #: ../../M21.rst:188
 msgid ":mtgtip:`Sanctum of Tranquil Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34a5478a-1a2c-4117-b543-da083ed2b562.jpg?1594735175|https://scryfall.com/card/m21/33/sanctum-of-tranquil-light?utm_source=api>`"
@@ -419,6 +469,8 @@ msgstr ""
 #: ../../M21.rst:187
 msgid "|mana_5|\\ |mana_w|: Tap target creature. This ability costs |mana_1| less to activate for each Shrine you control."
 msgstr ""
+"|mana_5|\\ |mana_w|: Przekręć wskazanego stwora. Aktywacja tej zdolności "
+"kosztuje cię o |mana_1| mniej za każdą Kaplicę pod twoim władaniem."
 
 #: ../../M21.rst:192
 msgid ":mtgtip:`Seasoned Hallowblade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feb59931-8941-46fb-8e1c-f80ff3730dd9.jpg?1594735195|https://scryfall.com/card/m21/34/seasoned-hallowblade?utm_source=api>`"
@@ -427,6 +479,8 @@ msgstr ""
 #: ../../M21.rst:191
 msgid "Discard a card: Tap Seasoned Hallowblade. It gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Odrzuć kartę: Przekręć tego stwora. Do końca tury zyskuje on "
+"niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../M21.rst:196
 msgid ":mtgtip:`Secure the Scene<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6467d96-e43a-4b1e-b6ce-578d991077b5.jpg?1594735209|https://scryfall.com/card/m21/35/secure-the-scene?utm_source=api>`"
@@ -435,6 +489,8 @@ msgstr ""
 #: ../../M21.rst:195
 msgid "Exile target nonland permanent. Its controller creates a 1/1 white Soldier creature token."
 msgstr ""
+"Wygnaj wskazany nielądowy permanent. Jego władca tworzy żeton białego stwora "
+"Piechur 1/1."
 
 #: ../../M21.rst:200
 msgid ":mtgtip:`Selfless Savior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1594735224|https://scryfall.com/card/m21/36/selfless-savior?utm_source=api>`"
