@@ -9,6 +9,7 @@ python = "^3.7"
 click = "^7.0"
 requests = "^2.23.0"
 sphinx-rtd-theme = "^0.4.3"
+polib = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.1.1"

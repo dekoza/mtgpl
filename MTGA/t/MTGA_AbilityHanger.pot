@@ -1,2304 +1,1784 @@
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:1
-msgctxt AbilityHanger/AbilityType/Fight_Body
-msgid "When two creatures fight each deals noncombat damage equal to its power to the other."
+#
+msgid ""
 msgstr ""
 
+msgctxt "AbilityHanger/AbilityType/Fight_Body"
+msgid ""
+"When two creatures fight each deals noncombat damage equal to its power to "
+"the other."
+msgstr ""
 
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:2
-msgctxt AbilityHanger/AbilityType/Fight_Title
+msgctxt "AbilityHanger/AbilityType/Fight_Title"
 msgid "Fight"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:3
-msgctxt AbilityHanger/AbilityWord/Adamant
-msgid "This spell has an additional effect if cast with three mana of the indicated color."
+msgctxt "AbilityHanger/AbilityWord/Adamant"
+msgid ""
+"This spell has an additional effect if cast with three mana of the indicated"
+" color."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:4
-msgctxt AbilityHanger/AbilityWord/Adamant_Title
+msgctxt "AbilityHanger/AbilityWord/Adamant_Title"
 msgid "Adamant"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:5
-msgctxt AbilityHanger/AbilityWord/Addendum
-msgid "This spell has an additional effect if you cast it during your main phase."
+msgctxt "AbilityHanger/AbilityWord/Addendum"
+msgid ""
+"This spell has an additional effect if you cast it during your main phase."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:6
-msgctxt AbilityHanger/AbilityWord/Addendum_Title
+msgctxt "AbilityHanger/AbilityWord/Addendum_Title"
 msgid "Addendum"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:7
-msgctxt AbilityHanger/AbilityWord/Ascend
-msgid "If you control ten or more permanents, you get the city's blessing for the rest of the game."
+msgctxt "AbilityHanger/AbilityWord/Ascend"
+msgid ""
+"If you control ten or more permanents, you get the city's blessing for the "
+"rest of the game."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:8
-msgctxt AbilityHanger/AbilityWord/Ascend_Title
+msgctxt "AbilityHanger/AbilityWord/Ascend_Title"
 msgid "Ascend"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:9
-msgctxt AbilityHanger/AbilityWord/Constellation
-msgid "This ability triggers when an enchantment enters the battlefield under your control."
+msgctxt "AbilityHanger/AbilityWord/Constellation"
+msgid ""
+"This ability triggers when an enchantment enters the battlefield under your "
+"control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:10
-msgctxt AbilityHanger/AbilityWord/Constellation_Title
+msgctxt "AbilityHanger/AbilityWord/Constellation_Title"
 msgid "Constellation"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:11
-msgctxt AbilityHanger/AbilityWord/Enrage
+msgctxt "AbilityHanger/AbilityWord/Enrage"
 msgid "This ability triggers whenever this creature takes damage."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:12
-msgctxt AbilityHanger/AbilityWord/Enrage_Title
+msgctxt "AbilityHanger/AbilityWord/Enrage_Title"
 msgid "Enrage"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:13
-msgctxt AbilityHanger/AbilityWord/InstantSorcerySpellsCast
+msgctxt "AbilityHanger/AbilityWord/InstantSorcerySpellsCast"
 msgid "Currently {spellsCast} instant/sorcery cards."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:14
-msgctxt AbilityHanger/AbilityWord/Landfall
-msgid "This ability triggers when a land enters the battlefield under your control."
+msgctxt "AbilityHanger/AbilityWord/Landfall"
+msgid ""
+"This ability triggers when a land enters the battlefield under your control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:15
-msgctxt AbilityHanger/AbilityWord/Landfall_Title
+msgctxt "AbilityHanger/AbilityWord/Landfall_Title"
 msgid "Landfall"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:16
-msgctxt AbilityHanger/AbilityWord/LifeGainedThisTurn
+msgctxt "AbilityHanger/AbilityWord/LifeGainedThisTurn"
 msgid "You have gained {lifeGained} life this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:17
-msgctxt AbilityHanger/AbilityWord/LifeGainedThisTurnOpponent
+msgctxt "AbilityHanger/AbilityWord/LifeGainedThisTurnOpponent"
 msgid "Your opponent has gained {lifeGained} life this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:18
-msgctxt AbilityHanger/AbilityWord/OtherInstantSourcerySpellsCast
+msgctxt "AbilityHanger/AbilityWord/OtherInstantSourcerySpellsCast"
 msgid "Currently {spellsCast} other instant/sorcery cards."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:19
-msgctxt AbilityHanger/AbilityWord/Raid
+msgctxt "AbilityHanger/AbilityWord/Raid"
 msgid "This ability triggers if a creature you control attacked this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:20
-msgctxt AbilityHanger/AbilityWord/Raid_Title
+msgctxt "AbilityHanger/AbilityWord/Raid_Title"
 msgid "Raid"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:21
-msgctxt AbilityHanger/AbilityWord/Revolt
-msgid "This ability triggers if another permanent you control left the battlefield this turn."
+msgctxt "AbilityHanger/AbilityWord/Revolt"
+msgid ""
+"This ability triggers if another permanent you control left the battlefield "
+"this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:22
-msgctxt AbilityHanger/AbilityWord/Revolt_Title
+msgctxt "AbilityHanger/AbilityWord/Revolt_Title"
 msgid "Revolt"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:23
-msgctxt AbilityHanger/AbilityWord/SpellsCastThisTurn
+msgctxt "AbilityHanger/AbilityWord/SpellsCastThisTurn"
 msgid "You have cast {spellsCast} spells this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:24
-msgctxt AbilityHanger/AbilityWord/SpellsCastThisTurnOpponent
+msgctxt "AbilityHanger/AbilityWord/SpellsCastThisTurnOpponent"
 msgid "Your opponent has cast {spellsCast} spells this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:25
-msgctxt AbilityHanger/AbilityWord/Undergrowth
+msgctxt "AbilityHanger/AbilityWord/Undergrowth"
 msgid "This ability checks the number of creature cards in your graveyard."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:26
-msgctxt AbilityHanger/AbilityWord/Undergrowth_Title
+msgctxt "AbilityHanger/AbilityWord/Undergrowth_Title"
 msgid "Undergrowth"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:27
-msgctxt AbilityHanger/AbilityWord/Unknown_Ability
+msgctxt "AbilityHanger/AbilityWord/Unknown_Ability"
 msgid "Unknown Ability #{grpId}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:28
-msgctxt AbilityHanger/CantTransform/Cant_Transform_Addendum
+msgctxt "AbilityHanger/CantTransform/Cant_Transform_Addendum"
 msgid "This is not a double-faced card and it can't transform."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:29
-msgctxt AbilityHanger/CantTransform/Cant_Transform_Body
+msgctxt "AbilityHanger/CantTransform/Cant_Transform_Body"
 msgid "Copy of Nicol Bolas, the Ravager"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:30
-msgctxt AbilityHanger/CantTransform/Cant_Transform_Title
+msgctxt "AbilityHanger/CantTransform/Cant_Transform_Title"
 msgid "Copy - Can't Transform"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:31
-msgctxt AbilityHanger/Color/AllColors
+msgctxt "AbilityHanger/Color/AllColors"
 msgid "all colors"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:32
-msgctxt AbilityHanger/Color/Black
+msgctxt "AbilityHanger/Color/Black"
 msgid "black"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:33
-msgctxt AbilityHanger/Color/Blue
+msgctxt "AbilityHanger/Color/Blue"
 msgid "blue"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:34
-msgctxt AbilityHanger/Color/Colorless
+msgctxt "AbilityHanger/Color/Colorless"
 msgid "colorless"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:35
-msgctxt AbilityHanger/Color/Green
+msgctxt "AbilityHanger/Color/Green"
 msgid "green"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:36
-msgctxt AbilityHanger/Color/Red
+msgctxt "AbilityHanger/Color/Red"
 msgid "red"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:37
-msgctxt AbilityHanger/Color/White
+msgctxt "AbilityHanger/Color/White"
 msgid "white"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:38
-msgctxt AbilityHanger/ColorChange/ColorModified_Body_Plural
+msgctxt "AbilityHanger/ColorChange/ColorModified_Body_Plural"
 msgid "This permanent is {colors}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:39
-msgctxt AbilityHanger/ColorChange/ColorModified_Body_Singular
+msgctxt "AbilityHanger/ColorChange/ColorModified_Body_Singular"
 msgid "This permanent is {color}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:40
-msgctxt AbilityHanger/ColorChange/ColorModified_Header
+msgctxt "AbilityHanger/ColorChange/ColorModified_Header"
 msgid "Color Modified"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:41
-msgctxt AbilityHanger/CostChange/CostDecreased_Body
+msgctxt "AbilityHanger/CostChange/CostDecreased_Body"
 msgid "Cost decreased to {newCost}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:42
-msgctxt AbilityHanger/CostChange/CostDecreased_BodyPlusReason
+msgctxt "AbilityHanger/CostChange/CostDecreased_BodyPlusReason"
 msgid "Cost decreased to {newCost} because of {reason}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:43
-msgctxt AbilityHanger/CostChange/CostDecreased_Title
+msgctxt "AbilityHanger/CostChange/CostDecreased_Title"
 msgid "Cost Decreased"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:44
-msgctxt AbilityHanger/CostChange/CostIncreased_Body
+msgctxt "AbilityHanger/CostChange/CostIncreased_Body"
 msgid "Cost increased to {newCost}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:45
-msgctxt AbilityHanger/CostChange/CostIncreased_BodyPlusReason
+msgctxt "AbilityHanger/CostChange/CostIncreased_BodyPlusReason"
 msgid "Cost increased to {newCost} because of {reason}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:46
-msgctxt AbilityHanger/CostChange/CostIncreased_Title
+msgctxt "AbilityHanger/CostChange/CostIncreased_Title"
 msgid "Cost Increased"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:47
-msgctxt AbilityHanger/CostChange/CostModified_Body
+msgctxt "AbilityHanger/CostChange/CostModified_Body"
 msgid "Casting cost modified to {newCost}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:48
-msgctxt AbilityHanger/CostChange/CostModified_Header
+msgctxt "AbilityHanger/CostChange/CostModified_Header"
 msgid "Cost Modified"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:49
-msgctxt AbilityHanger/CostChange/ModifiedAbilityCost_Body
+msgctxt "AbilityHanger/CostChange/ModifiedAbilityCost_Body"
 msgid "Activated ability mana cost modified to {newCost}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:50
-msgctxt AbilityHanger/CostChange/ModifiedAbilityCost_Title
+msgctxt "AbilityHanger/CostChange/ModifiedAbilityCost_Title"
 msgid "Cost Modified"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:51
-msgctxt AbilityHanger/Counter_Plural
+msgctxt "AbilityHanger/Counter_Plural"
 msgid "{ammount} {type} Counters"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:52
-msgctxt AbilityHanger/Counter_Singular
+msgctxt "AbilityHanger/Counter_Singular"
 msgid "{ammount} {type} Counter"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:53
-msgctxt AbilityHanger/DeckBuilder/CompanionViolation_Body
-msgid "This card invalidates your declared Companion. See the Companion's rules text for details."
+msgctxt "AbilityHanger/DeckBuilder/CompanionViolation_Body"
+msgid ""
+"This card invalidates your declared Companion. See the Companion's rules "
+"text for details."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:54
-msgctxt AbilityHanger/DeckBuilder/CompanionViolation_Title
+msgctxt "AbilityHanger/DeckBuilder/CompanionViolation_Title"
 msgid "Companion Violation "
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:55
-msgctxt AbilityHanger/Designation/ChosenCompanion_Body
-msgid "This card is your chosen companion. Once per game you may pay {o3} any time you could cast a sorcery to put it into your hand."
+msgctxt "AbilityHanger/Designation/ChosenCompanion_Body"
+msgid ""
+"This card is your chosen companion. Once per game you may pay {o3} any time "
+"you could cast a sorcery to put it into your hand."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:56
-msgctxt AbilityHanger/Designation/ChosenCompanion_Title
+msgctxt "AbilityHanger/Designation/ChosenCompanion_Title"
 msgid "Chosen Companion"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:57
-msgctxt AbilityHanger/Designation/Commander_Body
-msgid "This commander will cost {cost} more the next time it is cast from the command zone."
+msgctxt "AbilityHanger/Designation/Commander_Body"
+msgid ""
+"This commander will cost {cost} more the next time it is cast from the "
+"command zone."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:58
-msgctxt AbilityHanger/Designation/Commander_Title
+msgctxt "AbilityHanger/Designation/Commander_Title"
 msgid "{PlayerName}'s Commander"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:59
-msgctxt AbilityHanger/Designation/Companion_Body
-msgid "If your starting deck meets the companion's restriction you may choose it to be your companion. Once per game you may pay {o3} any \
-time you could cast a sorcery to put your chosen companion into your hand."
+msgctxt "AbilityHanger/Designation/Companion_Body"
+msgid ""
+"If your starting deck meets the companion's restriction you may choose it to"
+" be your companion. Once per game you may pay {o3} any time you could cast a"
+" sorcery to put your chosen companion into your hand."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:60
-msgctxt AbilityHanger/Designation/Companion_Title
+msgctxt "AbilityHanger/Designation/Companion_Title"
 msgid "Companion"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:61
-msgctxt AbilityHanger/Keyword/Adapt
-msgid "If this creature has no +1/+1 counters on it, put that many +1/+1 counters on it."
+msgctxt "AbilityHanger/Keyword/Adapt"
+msgid ""
+"If this creature has no +1/+1 counters on it, put that many +1/+1 counters "
+"on it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:62
-msgctxt AbilityHanger/Keyword/Adapt1
-msgid "If this creature has no +1/+1 counters on it, put a +1/+1 counter on it."
+msgctxt "AbilityHanger/Keyword/Adapt1"
+msgid ""
+"If this creature has no +1/+1 counters on it, put a +1/+1 counter on it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:63
-msgctxt AbilityHanger/Keyword/Adapt1_Title
+msgctxt "AbilityHanger/Keyword/Adapt1_Title"
 msgid "Adapt 1"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:64
-msgctxt AbilityHanger/Keyword/Adapt2
-msgid "If this creature has no +1/+1 counters on it, put two +1/+1 counters on it."
+msgctxt "AbilityHanger/Keyword/Adapt2"
+msgid ""
+"If this creature has no +1/+1 counters on it, put two +1/+1 counters on it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:65
-msgctxt AbilityHanger/Keyword/Adapt2_Title
+msgctxt "AbilityHanger/Keyword/Adapt2_Title"
 msgid "Adapt 2"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:66
-msgctxt AbilityHanger/Keyword/Adapt3
-msgid "If this creature has no +1/+1 counters on it, put three +1/+1 counters on it."
+msgctxt "AbilityHanger/Keyword/Adapt3"
+msgid ""
+"If this creature has no +1/+1 counters on it, put three +1/+1 counters on "
+"it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:67
-msgctxt AbilityHanger/Keyword/Adapt3_Title
+msgctxt "AbilityHanger/Keyword/Adapt3_Title"
 msgid "Adapt 3"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:68
-msgctxt AbilityHanger/Keyword/Adapt4
-msgid "If this creature has no +1/+1 counters on it, put four +1/+1 counters on it."
+msgctxt "AbilityHanger/Keyword/Adapt4"
+msgid ""
+"If this creature has no +1/+1 counters on it, put four +1/+1 counters on it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:69
-msgctxt AbilityHanger/Keyword/Adapt4_Title
+msgctxt "AbilityHanger/Keyword/Adapt4_Title"
 msgid "Adapt 4"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:70
-msgctxt AbilityHanger/Keyword/Afflict
-msgid "Whenever this creature becomes blocked, defending player loses {numeral} life."
+msgctxt "AbilityHanger/Keyword/Afflict"
+msgid ""
+"Whenever this creature becomes blocked, defending player loses {numeral} "
+"life."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:71
-msgctxt AbilityHanger/Keyword/Afflict1
+msgctxt "AbilityHanger/Keyword/Afflict1"
 msgid ""
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:72
-msgctxt AbilityHanger/Keyword/Afflict2
+msgctxt "AbilityHanger/Keyword/Afflict2"
 msgid ""
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:73
-msgctxt AbilityHanger/Keyword/Afflict3
+msgctxt "AbilityHanger/Keyword/Afflict3"
 msgid ""
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:74
-msgctxt AbilityHanger/Keyword/Afflict4
+msgctxt "AbilityHanger/Keyword/Afflict4"
 msgid ""
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:75
-msgctxt AbilityHanger/Keyword/Afterlife
-msgid "When this creature dies, create this many 1/1 white and black Spirit creature tokens with flying"
+msgctxt "AbilityHanger/Keyword/Afterlife"
+msgid ""
+"When this creature dies, create this many 1/1 white and black Spirit "
+"creature tokens with flying"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:76
-msgctxt AbilityHanger/Keyword/Afterlife1
-msgid "When this creature dies, create a 1/1 white and black Spirit creature token with flying."
+msgctxt "AbilityHanger/Keyword/Afterlife1"
+msgid ""
+"When this creature dies, create a 1/1 white and black Spirit creature token "
+"with flying."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:77
-msgctxt AbilityHanger/Keyword/Afterlife1_Title
+msgctxt "AbilityHanger/Keyword/Afterlife1_Title"
 msgid "Afterlife 1"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:78
-msgctxt AbilityHanger/Keyword/Afterlife2
-msgid "When this creature dies, create two 1/1 white and black Spirit creature tokens with flying."
+msgctxt "AbilityHanger/Keyword/Afterlife2"
+msgid ""
+"When this creature dies, create two 1/1 white and black Spirit creature "
+"tokens with flying."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:79
-msgctxt AbilityHanger/Keyword/Afterlife2_Title
+msgctxt "AbilityHanger/Keyword/Afterlife2_Title"
 msgid "Afterlife 2"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:80
-msgctxt AbilityHanger/Keyword/Afterlife3
-msgid "When this creature dies, create three 1/1 white and black Spirit creature tokens with flying."
+msgctxt "AbilityHanger/Keyword/Afterlife3"
+msgid ""
+"When this creature dies, create three 1/1 white and black Spirit creature "
+"tokens with flying."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:81
-msgctxt AbilityHanger/Keyword/Afterlife3_Title
+msgctxt "AbilityHanger/Keyword/Afterlife3_Title"
 msgid "Afterlife 3"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:82
-msgctxt AbilityHanger/Keyword/Aftermath
+msgctxt "AbilityHanger/Keyword/Aftermath"
 msgid "Cast this spell only from your graveyard. Then exile it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:83
-msgctxt AbilityHanger/Keyword/Amass
-msgid "Put +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first."
+msgctxt "AbilityHanger/Keyword/Amass"
+msgid ""
+"Put +1/+1 counters on an Army you control. If you don't control one, create "
+"a 0/0 black Zombie Army creature token first."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:84
-msgctxt AbilityHanger/Keyword/Amass_Title
+msgctxt "AbilityHanger/Keyword/Amass_Title"
 msgid "Amass"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:85
-msgctxt AbilityHanger/Keyword/Amass1
-msgid "Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first."
+msgctxt "AbilityHanger/Keyword/Amass1"
+msgid ""
+"Put a +1/+1 counter on an Army you control. If you don't control one, create"
+" a 0/0 black Zombie Army creature token first."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:86
-msgctxt AbilityHanger/Keyword/Amass1_Title
+msgctxt "AbilityHanger/Keyword/Amass1_Title"
 msgid "Amass 1"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:87
-msgctxt AbilityHanger/Keyword/Amass2
-msgid "Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first."
+msgctxt "AbilityHanger/Keyword/Amass2"
+msgid ""
+"Put two +1/+1 counters on an Army you control. If you don't control one, "
+"create a 0/0 black Zombie Army creature token first."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:88
-msgctxt AbilityHanger/Keyword/Amass2_Title
+msgctxt "AbilityHanger/Keyword/Amass2_Title"
 msgid "Amass 2"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:89
-msgctxt AbilityHanger/Keyword/Amass3
-msgid "Put three +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first."
+msgctxt "AbilityHanger/Keyword/Amass3"
+msgid ""
+"Put three +1/+1 counters on an Army you control. If you don't control one, "
+"create a 0/0 black Zombie Army creature token first."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:90
-msgctxt AbilityHanger/Keyword/Amass3_Title
+msgctxt "AbilityHanger/Keyword/Amass3_Title"
 msgid "Amass 3"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:91
-msgctxt AbilityHanger/Keyword/Amass4
-msgid "Put four +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first."
+msgctxt "AbilityHanger/Keyword/Amass4"
+msgid ""
+"Put four +1/+1 counters on an Army you control. If you don't control one, "
+"create a 0/0 black Zombie Army creature token first."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:92
-msgctxt AbilityHanger/Keyword/Amass4_Title
+msgctxt "AbilityHanger/Keyword/Amass4_Title"
 msgid "Amass 4"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:93
-msgctxt AbilityHanger/Keyword/AmassX
-msgid "Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first."
+msgctxt "AbilityHanger/Keyword/AmassX"
+msgid ""
+"Put X +1/+1 counters on an Army you control. If you don't control one, "
+"create a 0/0 black Zombie Army creature token first."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:94
-msgctxt AbilityHanger/Keyword/AmassX_Title
+msgctxt "AbilityHanger/Keyword/AmassX_Title"
 msgid "Amass X"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:95
-msgctxt AbilityHanger/Keyword/Boast
-msgid "Activate this ability only if this creature attacked this turn and only once each turn."
+msgctxt "AbilityHanger/Keyword/Boast"
+msgid ""
+"Activate this ability only if this creature attacked this turn and only once"
+" each turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:96
-msgctxt AbilityHanger/Keyword/Boast_Title
+msgctxt "AbilityHanger/Keyword/Boast_Title"
 msgid "Boast"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:97
-msgctxt AbilityHanger/Keyword/Changeling
+msgctxt "AbilityHanger/Keyword/Changeling"
 msgid "This creature is every creature type."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:98
-msgctxt AbilityHanger/Keyword/Convoke
-msgid "Your creatures can help you cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's \
-color."
+msgctxt "AbilityHanger/Keyword/Convoke"
+msgid ""
+"Your creatures can help you cast this spell. Each creature you tap while "
+"casting this spell pays for 1 or one mana of that creature's color."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:99
-msgctxt AbilityHanger/Keyword/Crew1
-msgid "Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn."
+msgctxt "AbilityHanger/Keyword/Crew1"
+msgid ""
+"Tap any number of creatures you control with total power 1 or more: This "
+"Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:100
-msgctxt AbilityHanger/Keyword/Crew1_Title
+msgctxt "AbilityHanger/Keyword/Crew1_Title"
 msgid "Crew 1"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:101
-msgctxt AbilityHanger/Keyword/Crew2
-msgid "Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn."
+msgctxt "AbilityHanger/Keyword/Crew2"
+msgid ""
+"Tap any number of creatures you control with total power 2 or more: This "
+"Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:102
-msgctxt AbilityHanger/Keyword/Crew2_Title
+msgctxt "AbilityHanger/Keyword/Crew2_Title"
 msgid "Crew 2"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:103
-msgctxt AbilityHanger/Keyword/Crew3
-msgid "Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn."
+msgctxt "AbilityHanger/Keyword/Crew3"
+msgid ""
+"Tap any number of creatures you control with total power 3 or more: This "
+"Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:104
-msgctxt AbilityHanger/Keyword/Crew3_Title
+msgctxt "AbilityHanger/Keyword/Crew3_Title"
 msgid "Crew 3"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:105
-msgctxt AbilityHanger/Keyword/Crew4
-msgid "Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn."
+msgctxt "AbilityHanger/Keyword/Crew4"
+msgid ""
+"Tap any number of creatures you control with total power 4 or more: This "
+"Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:106
-msgctxt AbilityHanger/Keyword/Crew4_Title
+msgctxt "AbilityHanger/Keyword/Crew4_Title"
 msgid "Crew 4"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:107
-msgctxt AbilityHanger/Keyword/Crew5
-msgid "Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn."
+msgctxt "AbilityHanger/Keyword/Crew5"
+msgid ""
+"Tap any number of creatures you control with total power 5 or more: This "
+"Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:108
-msgctxt AbilityHanger/Keyword/Crew5_Title
+msgctxt "AbilityHanger/Keyword/Crew5_Title"
 msgid "Crew 5"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:109
-msgctxt AbilityHanger/Keyword/Crew6
-msgid "Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn."
+msgctxt "AbilityHanger/Keyword/Crew6"
+msgid ""
+"Tap any number of creatures you control with total power 6 or more: This "
+"Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:110
-msgctxt AbilityHanger/Keyword/Crew6_Title
+msgctxt "AbilityHanger/Keyword/Crew6_Title"
 msgid "Crew 6"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:111
-msgctxt AbilityHanger/Keyword/Cycling
+msgctxt "AbilityHanger/Keyword/Cycling"
 msgid "You may pay the cycling cost to discard this card and draw a card."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:112
-msgctxt AbilityHanger/Keyword/Deathtouch
-msgid "Any amount of damage a source with deathtouch deals to a creature is enough to destroy it."
+msgctxt "AbilityHanger/Keyword/Deathtouch"
+msgid ""
+"Any amount of damage a source with deathtouch deals to a creature is enough "
+"to destroy it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:113
-msgctxt AbilityHanger/Keyword/Defender
+msgctxt "AbilityHanger/Keyword/Defender"
 msgid "A creature with defender can't attack."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:114
-msgctxt AbilityHanger/Keyword/Devotion
-msgid "Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control."
+msgctxt "AbilityHanger/Keyword/Devotion"
+msgid ""
+"Your devotion to a color is the number of mana symbols of that color in the "
+"mana costs of permanents you control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:115
-msgctxt AbilityHanger/Keyword/Devotion_Title
+msgctxt "AbilityHanger/Keyword/Devotion_Title"
 msgid "Devotion to a Color"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:116
-msgctxt AbilityHanger/Keyword/DevotionToBlack
-msgid "Each {oB} in the mana costs of permanents you control counts towards your devotion to black."
+msgctxt "AbilityHanger/Keyword/DevotionToBlack"
+msgid ""
+"Each {oB} in the mana costs of permanents you control counts towards your "
+"devotion to black."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:117
-msgctxt AbilityHanger/Keyword/DevotionToBlack_Title
+msgctxt "AbilityHanger/Keyword/DevotionToBlack_Title"
 msgid "Devotion to Black"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:118
-msgctxt AbilityHanger/Keyword/DevotionToBlackAndGreen
-msgid "Each {oB} or {oG} in the mana costs of permanents you control counts towards your devotion to black and green. (A {o(B/G)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToBlackAndGreen"
+msgid ""
+"Each {oB} or {oG} in the mana costs of permanents you control counts towards"
+" your devotion to black and green. (A {o(B/G)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:119
-msgctxt AbilityHanger/Keyword/DevotionToBlackAndGreen_Title
+msgctxt "AbilityHanger/Keyword/DevotionToBlackAndGreen_Title"
 msgid "Devotion to Black And Green"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:120
-msgctxt AbilityHanger/Keyword/DevotionToBlackAndRed
-msgid "Each {oB} or {oR} in the mana costs of permanents you control counts towards your devotion to black and red. (A {o(B/R)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToBlackAndRed"
+msgid ""
+"Each {oB} or {oR} in the mana costs of permanents you control counts towards"
+" your devotion to black and red. (A {o(B/R)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:121
-msgctxt AbilityHanger/Keyword/DevotionToBlackAndRed_Title
+msgctxt "AbilityHanger/Keyword/DevotionToBlackAndRed_Title"
 msgid "Devotion to Black And Red"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:122
-msgctxt AbilityHanger/Keyword/DevotionToBlue
-msgid "Each {oU} in the mana costs of permanents you control counts towards your devotion to blue."
+msgctxt "AbilityHanger/Keyword/DevotionToBlue"
+msgid ""
+"Each {oU} in the mana costs of permanents you control counts towards your "
+"devotion to blue."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:123
-msgctxt AbilityHanger/Keyword/DevotionToBlue_Title
+msgctxt "AbilityHanger/Keyword/DevotionToBlue_Title"
 msgid "Devotion to Blue"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:124
-msgctxt AbilityHanger/Keyword/DevotionToBlueAndBlack
-msgid "Each {oU} or {oB} in the mana costs of permanents you control counts towards your devotion to blue and black. (A {o(U/B)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToBlueAndBlack"
+msgid ""
+"Each {oU} or {oB} in the mana costs of permanents you control counts towards"
+" your devotion to blue and black. (A {o(U/B)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:125
-msgctxt AbilityHanger/Keyword/DevotionToBlueAndBlack_Title
+msgctxt "AbilityHanger/Keyword/DevotionToBlueAndBlack_Title"
 msgid "Devotion to Blue And Black"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:126
-msgctxt AbilityHanger/Keyword/DevotionToBlueAndRed
-msgid "Each {oU} or {oR} in the mana costs of permanents you control counts towards your devotion to blue and red. (A {o(U/R)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToBlueAndRed"
+msgid ""
+"Each {oU} or {oR} in the mana costs of permanents you control counts towards"
+" your devotion to blue and red. (A {o(U/R)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:127
-msgctxt AbilityHanger/Keyword/DevotionToBlueAndRed_Title
+msgctxt "AbilityHanger/Keyword/DevotionToBlueAndRed_Title"
 msgid "Devotion to Blue And Red"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:128
-msgctxt AbilityHanger/Keyword/DevotionToGreen
-msgid "Each {oG} in the mana costs of permanents you control counts towards your devotion to green."
+msgctxt "AbilityHanger/Keyword/DevotionToGreen"
+msgid ""
+"Each {oG} in the mana costs of permanents you control counts towards your "
+"devotion to green."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:129
-msgctxt AbilityHanger/Keyword/DevotionToGreen_Title
+msgctxt "AbilityHanger/Keyword/DevotionToGreen_Title"
 msgid "Devotion to Green"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:130
-msgctxt AbilityHanger/Keyword/DevotionToGreenAndBlue
-msgid "Each {oG} or {oU} in the mana costs of permanents you control counts towards your devotion to green and blue. (A {o(G/U)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToGreenAndBlue"
+msgid ""
+"Each {oG} or {oU} in the mana costs of permanents you control counts towards"
+" your devotion to green and blue. (A {o(G/U)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:131
-msgctxt AbilityHanger/Keyword/DevotionToGreenAndBlue_Title
+msgctxt "AbilityHanger/Keyword/DevotionToGreenAndBlue_Title"
 msgid "Devotion to Green And Blue"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:132
-msgctxt AbilityHanger/Keyword/DevotionToGreenAndWhite
-msgid "Each {oG} or {oW} in the mana costs of permanents you control counts towards your devotion to green and white. (A {o(G/W)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToGreenAndWhite"
+msgid ""
+"Each {oG} or {oW} in the mana costs of permanents you control counts towards"
+" your devotion to green and white. (A {o(G/W)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:133
-msgctxt AbilityHanger/Keyword/DevotionToGreenAndWhite_Title
+msgctxt "AbilityHanger/Keyword/DevotionToGreenAndWhite_Title"
 msgid "Devotion to Green And White"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:134
-msgctxt AbilityHanger/Keyword/DevotionToRed
-msgid "Each {oR} in the mana costs of permanents you control counts towards your devotion to red."
+msgctxt "AbilityHanger/Keyword/DevotionToRed"
+msgid ""
+"Each {oR} in the mana costs of permanents you control counts towards your "
+"devotion to red."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:135
-msgctxt AbilityHanger/Keyword/DevotionToRed_Title
+msgctxt "AbilityHanger/Keyword/DevotionToRed_Title"
 msgid "Devotion to Red"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:136
-msgctxt AbilityHanger/Keyword/DevotionToRedAndGreen
-msgid "Each {oR} or {oG} in the mana costs of permanents you control counts towards your devotion to red and green. (A {o(R/G)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToRedAndGreen"
+msgid ""
+"Each {oR} or {oG} in the mana costs of permanents you control counts towards"
+" your devotion to red and green. (A {o(R/G)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:137
-msgctxt AbilityHanger/Keyword/DevotionToRedAndGreen_Title
+msgctxt "AbilityHanger/Keyword/DevotionToRedAndGreen_Title"
 msgid "Devotion to Red And Green"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:138
-msgctxt AbilityHanger/Keyword/DevotionToRedAndWhite
-msgid "Each {oR} or {oW} in the mana costs of permanents you control counts towards your devotion to red and white. (A {o(R/W)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToRedAndWhite"
+msgid ""
+"Each {oR} or {oW} in the mana costs of permanents you control counts towards"
+" your devotion to red and white. (A {o(R/W)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:139
-msgctxt AbilityHanger/Keyword/DevotionToRedAndWhite_Title
+msgctxt "AbilityHanger/Keyword/DevotionToRedAndWhite_Title"
 msgid "Devotion to Red And White"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:140
-msgctxt AbilityHanger/Keyword/DevotionToWhite
-msgid "Each {oW} in the mana costs of permanents you control counts towards your devotion to white."
+msgctxt "AbilityHanger/Keyword/DevotionToWhite"
+msgid ""
+"Each {oW} in the mana costs of permanents you control counts towards your "
+"devotion to white."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:141
-msgctxt AbilityHanger/Keyword/DevotionToWhite_Title
+msgctxt "AbilityHanger/Keyword/DevotionToWhite_Title"
 msgid "Devotion to White"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:142
-msgctxt AbilityHanger/Keyword/DevotionToWhiteAndBlack
-msgid "Each {oW} or {oB} in the mana costs of permanents you control counts towards your devotion to white and black. (A {o(W/B)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToWhiteAndBlack"
+msgid ""
+"Each {oW} or {oB} in the mana costs of permanents you control counts towards"
+" your devotion to white and black. (A {o(W/B)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:143
-msgctxt AbilityHanger/Keyword/DevotionToWhiteAndBlack_Title
+msgctxt "AbilityHanger/Keyword/DevotionToWhiteAndBlack_Title"
 msgid "Devotion to White And Black"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:144
-msgctxt AbilityHanger/Keyword/DevotionToWhiteAndBlue
-msgid "Each {oW} or {oU} in the mana costs of permanents you control counts towards your devotion to white and blue. (A {o(W/U)} only counts \
-once)"
+msgctxt "AbilityHanger/Keyword/DevotionToWhiteAndBlue"
+msgid ""
+"Each {oW} or {oU} in the mana costs of permanents you control counts towards"
+" your devotion to white and blue. (A {o(W/U)} only counts once)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:145
-msgctxt AbilityHanger/Keyword/DevotionToWhiteAndBlue_Title
+msgctxt "AbilityHanger/Keyword/DevotionToWhiteAndBlue_Title"
 msgid "Devotion to White And Blue"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:146
-msgctxt AbilityHanger/Keyword/DoubleStrike
-msgid "This creature deals both first-strike and regular combat damage. (Does not apply when creatures \"fight\")"
+msgctxt "AbilityHanger/Keyword/DoubleStrike"
+msgid ""
+"This creature deals both first-strike and regular combat damage. (Does not "
+"apply when creatures \"fight\")"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:147
-msgctxt AbilityHanger/Keyword/Embalm
-msgid "You may pay the Embalm cost and exile this card from your graveyard to create a token that's a copy of this card, except it's white, \
-it has no mana cost, and it's a Zombie in addition to its other types. Activate this ability only any time you could cast a sorcery."
+msgctxt "AbilityHanger/Keyword/Embalm"
+msgid ""
+"You may pay the Embalm cost and exile this card from your graveyard to "
+"create a token that's a copy of this card, except it's white, it has no mana"
+" cost, and it's a Zombie in addition to its other types. Activate this "
+"ability only any time you could cast a sorcery."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:148
-msgctxt AbilityHanger/Keyword/Equip
-msgid "You may pay the Equip cost to attach this permanent to target creature you control. Equip only as a sorcery."
+msgctxt "AbilityHanger/Keyword/Equip"
+msgid ""
+"You may pay the Equip cost to attach this permanent to target creature you "
+"control. Equip only as a sorcery."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:149
-msgctxt AbilityHanger/Keyword/Escape
+msgctxt "AbilityHanger/Keyword/Escape"
 msgid "You may cast this card from your graveyard for its escape cost."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:150
-msgctxt AbilityHanger/Keyword/Escape_Title
+msgctxt "AbilityHanger/Keyword/Escape_Title"
 msgid "Escape"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:151
-msgctxt AbilityHanger/Keyword/Eternalize
-msgid "You may pay the Eternalize cost to exile this card from your graveyard and create a token that's a copy of this card, except it's \
-black, it's 4/4, it has no mana cost, and it's a Zombie in addition to its other types. Activate this ability only any time you could \
-cast a sorcery."
+msgctxt "AbilityHanger/Keyword/Eternalize"
+msgid ""
+"You may pay the Eternalize cost to exile this card from your graveyard and "
+"create a token that's a copy of this card, except it's black, it's 4/4, it "
+"has no mana cost, and it's a Zombie in addition to its other types. Activate"
+" this ability only any time you could cast a sorcery."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:152
-msgctxt AbilityHanger/Keyword/Exert
+msgctxt "AbilityHanger/Keyword/Exert"
 msgid "An exerted creature won't untap during your next untap step."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:153
-msgctxt AbilityHanger/Keyword/Explore
-msgid "Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, \
-then put the card back or put it into your graveyard."
+msgctxt "AbilityHanger/Keyword/Explore"
+msgid ""
+"Reveal the top card of your library. Put that card into your hand if it's a "
+"land. Otherwise, put a +1/+1 counter on this creature, then put the card "
+"back or put it into your graveyard."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:154
-msgctxt AbilityHanger/Keyword/Explore_Title
+msgctxt "AbilityHanger/Keyword/Explore_Title"
 msgid "Explore"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:155
-msgctxt AbilityHanger/Keyword/Fabricate Title
+msgctxt "AbilityHanger/Keyword/Fabricate Title"
 msgid "Fabricate"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:156
-msgctxt AbilityHanger/Keyword/Fabricate1
-msgid "When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token."
+msgctxt "AbilityHanger/Keyword/Fabricate1"
+msgid ""
+"When this creature enters the battlefield, put a +1/+1 counter on it or "
+"create a 1/1 colorless Servo artifact creature token."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:157
-msgctxt AbilityHanger/Keyword/Fabricate2
-msgid "When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens."
+msgctxt "AbilityHanger/Keyword/Fabricate2"
+msgid ""
+"When this creature enters the battlefield, put two +1/+1 counters on it or "
+"create two 1/1 colorless Servo artifact creature tokens."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:158
-msgctxt AbilityHanger/Keyword/Fabricate3
-msgid "When this creature enters the battlefield, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens."
+msgctxt "AbilityHanger/Keyword/Fabricate3"
+msgid ""
+"When this creature enters the battlefield, put three +1/+1 counters on it or"
+" create three 1/1 colorless Servo artifact creature tokens."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:159
-msgctxt AbilityHanger/Keyword/FirstStrike
-msgid "This creature deals combat damage before creatures without first strike. (Does not apply when creatures \"fight\")"
+msgctxt "AbilityHanger/Keyword/FirstStrike"
+msgid ""
+"This creature deals combat damage before creatures without first strike. "
+"(Does not apply when creatures \"fight\")"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:160
-msgctxt AbilityHanger/Keyword/Flash
+msgctxt "AbilityHanger/Keyword/Flash"
 msgid "You may cast a spell with flash any time you could cast an instant."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:161
-msgctxt AbilityHanger/Keyword/Flashback
-msgid "You may cast this card from your graveyard for its flashback cost. Then exile it."
+msgctxt "AbilityHanger/Keyword/Flashback"
+msgid ""
+"You may cast this card from your graveyard for its flashback cost. Then "
+"exile it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:162
-msgctxt AbilityHanger/Keyword/Flying
-msgid "A creature with flying can't be blocked except by creatures with flying or reach."
+msgctxt "AbilityHanger/Keyword/Flying"
+msgid ""
+"A creature with flying can't be blocked except by creatures with flying or "
+"reach."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:163
-msgctxt AbilityHanger/Keyword/Foretell
-msgid "During your turn, you may pay <sprite=\"SpriteSheet_ManaIcons\" name=\"x2\"> and exile this card from your hand face down. Cast it \
-on a later turn for its foretell cost."
+msgctxt "AbilityHanger/Keyword/Foretell"
+msgid ""
+"During your turn, you may pay <sprite=\"SpriteSheet_ManaIcons\" name=\"x2\">"
+" and exile this card from your hand face down. Cast it on a later turn for "
+"its foretell cost."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:164
-msgctxt AbilityHanger/Keyword/Haste
-msgid "A creature with haste can attack and {oT} as soon as it comes under your control."
+msgctxt "AbilityHanger/Keyword/Haste"
+msgid ""
+"A creature with haste can attack and {oT} as soon as it comes under your "
+"control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:165
-msgctxt AbilityHanger/Keyword/Hexproof
-msgid "A player or permanent with Hexproof can't be the target of spells or abilities your opponents control."
+msgctxt "AbilityHanger/Keyword/Hexproof"
+msgid ""
+"A player or permanent with Hexproof can't be the target of spells or "
+"abilities your opponents control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:166
-msgctxt AbilityHanger/Keyword/Hexproof from Black
-msgid "This permanent can't be the target of black spells or abilities your opponents control."
+msgctxt "AbilityHanger/Keyword/Hexproof from Black"
+msgid ""
+"This permanent can't be the target of black spells or abilities your "
+"opponents control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:167
-msgctxt AbilityHanger/Keyword/Hexproof from Blue
-msgid "This permanent can't be the target of blue spells or abilities your opponents control."
+msgctxt "AbilityHanger/Keyword/Hexproof from Blue"
+msgid ""
+"This permanent can't be the target of blue spells or abilities your "
+"opponents control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:168
-msgctxt AbilityHanger/Keyword/Hexproof from White
-msgid "This permanent can't be the target of white spells or abilities your opponents control."
+msgctxt "AbilityHanger/Keyword/Hexproof from White"
+msgid ""
+"This permanent can't be the target of white spells or abilities your "
+"opponents control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:169
-msgctxt AbilityHanger/Keyword/Hexproof_from_Black_Title
+msgctxt "AbilityHanger/Keyword/Hexproof_from_Black_Title"
 msgid "Hexproof from Black"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:170
-msgctxt AbilityHanger/Keyword/Hexproof_from_Blue_Title
+msgctxt "AbilityHanger/Keyword/Hexproof_from_Blue_Title"
 msgid "Hexproof from Blue"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:171
-msgctxt AbilityHanger/Keyword/Hexproof_from_Monocolored
-msgid "This permanent can't be the target of monocolored spells or abilities your opponents control."
+msgctxt "AbilityHanger/Keyword/Hexproof_from_Monocolored"
+msgid ""
+"This permanent can't be the target of monocolored spells or abilities your "
+"opponents control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:172
-msgctxt AbilityHanger/Keyword/Hexproof_from_Monocolored_Title
+msgctxt "AbilityHanger/Keyword/Hexproof_from_Monocolored_Title"
 msgid "Hexproof from Monocolored"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:173
-msgctxt AbilityHanger/Keyword/Hexproof_from_Planeswalkers
-msgid "This permanent can't be the target of planeswalker abilities your opponents control."
+msgctxt "AbilityHanger/Keyword/Hexproof_from_Planeswalkers"
+msgid ""
+"This permanent can't be the target of planeswalker abilities your opponents "
+"control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:174
-msgctxt AbilityHanger/Keyword/Hexproof_from_Planeswalkers_Title
+msgctxt "AbilityHanger/Keyword/Hexproof_from_Planeswalkers_Title"
 msgid "Hexproof from Planeswalkers"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:175
-msgctxt AbilityHanger/Keyword/Hexproof_from_White_Title
+msgctxt "AbilityHanger/Keyword/Hexproof_from_White_Title"
 msgid "Hexproof from White"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:176
-msgctxt AbilityHanger/Keyword/Improvise
-msgid "Your artifacts can help you cast this spell. Each artifact you tap pays for {o1}."
+msgctxt "AbilityHanger/Keyword/Improvise"
+msgid ""
+"Your artifacts can help you cast this spell. Each artifact you tap pays for "
+"{o1}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:177
-msgctxt AbilityHanger/Keyword/Indestructible
-msgid "Effects that say \"destroy\" don't destroy a permanent with indestructible, and if it's a creature, it can't be destroyed by damage."
+msgctxt "AbilityHanger/Keyword/Indestructible"
+msgid ""
+"Effects that say \"destroy\" don't destroy a permanent with indestructible, "
+"and if it's a creature, it can't be destroyed by damage."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:178
-msgctxt AbilityHanger/Keyword/Jump-start
-msgid "You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card."
+msgctxt "AbilityHanger/Keyword/Jump-start"
+msgid ""
+"You may cast this card from your graveyard by discarding a card in addition "
+"to paying its other costs. Then exile this card."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:179
-msgctxt AbilityHanger/Keyword/Kicker
+msgctxt "AbilityHanger/Keyword/Kicker"
 msgid "You may pay an additional cost as you cast this spell."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:180
-msgctxt AbilityHanger/Keyword/Lifelink
-msgid "Damage dealt by a creature, planeswalker or spell with lifelink also causes its controller to gain that much life."
+msgctxt "AbilityHanger/Keyword/Lifelink"
+msgid ""
+"Damage dealt by a creature, planeswalker or spell with lifelink also causes "
+"its controller to gain that much life."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:181
-msgctxt AbilityHanger/Keyword/Menace
-msgid "A creature with menace can't be blocked except by two or more creatures."
+msgctxt "AbilityHanger/Keyword/Menace"
+msgid ""
+"A creature with menace can't be blocked except by two or more creatures."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:182
-msgctxt AbilityHanger/Keyword/Mentor
-msgid "Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power."
+msgctxt "AbilityHanger/Keyword/Mentor"
+msgid ""
+"Whenever this creature attacks, put a +1/+1 counter on target attacking "
+"creature with lesser power."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:183
-msgctxt AbilityHanger/Keyword/Mill
-msgid "To mill a card a player puts the top card of their library into their graveyard."
+msgctxt "AbilityHanger/Keyword/Mill"
+msgid ""
+"To mill a card a player puts the top card of their library into their "
+"graveyard."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:184
-msgctxt AbilityHanger/Keyword/Mill_Title
+msgctxt "AbilityHanger/Keyword/Mill_Title"
 msgid "Mill"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:185
-msgctxt AbilityHanger/Keyword/Mutate_Body
-msgid "If you cast this spell for its mutate cost, put it under or over target non-Human creature you own. They mutate into the creature \
-on top plus all abilities from under it."
+msgctxt "AbilityHanger/Keyword/Mutate_Body"
+msgid ""
+"If you cast this spell for its mutate cost, put it under or over target non-"
+"Human creature you own. They mutate into the creature on top plus all "
+"abilities from under it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:186
-msgctxt AbilityHanger/Keyword/Mutate_Title
+msgctxt "AbilityHanger/Keyword/Mutate_Title"
 msgid "Mutate"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:187
-msgctxt AbilityHanger/Keyword/PhasedOut
-msgid "This permanent is treated as if it doesn't exist until the start of its controller's next turn."
+msgctxt "AbilityHanger/Keyword/PhasedOut"
+msgid ""
+"This permanent is treated as if it doesn't exist until the start of its "
+"controller's next turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:188
-msgctxt AbilityHanger/Keyword/PhasedOut_Title
+msgctxt "AbilityHanger/Keyword/PhasedOut_Title"
 msgid "Phased Out"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:189
-msgctxt AbilityHanger/Keyword/Proliferate
-msgid "Choose any number of permanents and/or players, then give each another counter of each kind already there."
+msgctxt "AbilityHanger/Keyword/Proliferate"
+msgid ""
+"Choose any number of permanents and/or players, then give each another "
+"counter of each kind already there."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:190
-msgctxt AbilityHanger/Keyword/Proliferate_Title
+msgctxt "AbilityHanger/Keyword/Proliferate_Title"
 msgid "Proliferate"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:191
-msgctxt AbilityHanger/Keyword/ProtectionFromBlack
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything black."
+msgctxt "AbilityHanger/Keyword/ProtectionFromBlack"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything black."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:192
-msgctxt AbilityHanger/Keyword/ProtectionFromBlack_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromBlack_Title"
 msgid "Protection from Black"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:193
-msgctxt AbilityHanger/Keyword/ProtectionFromBlue
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything blue."
+msgctxt "AbilityHanger/Keyword/ProtectionFromBlue"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything blue."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:194
-msgctxt AbilityHanger/Keyword/ProtectionFromBlue_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromBlue_Title"
 msgid "Protection from Blue"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:195
-msgctxt AbilityHanger/Keyword/ProtectionFromChosenCard
-msgid "You can't be targeted, dealt damage, or enchanted by anything with the chosen name."
+msgctxt "AbilityHanger/Keyword/ProtectionFromChosenCard"
+msgid ""
+"You can't be targeted, dealt damage, or enchanted by anything with the "
+"chosen name."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:196
-msgctxt AbilityHanger/Keyword/ProtectionFromChosenNumber
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with a converted mana cost other than \
-the chosen number."
+msgctxt "AbilityHanger/Keyword/ProtectionFromChosenNumber"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything with a converted mana cost other than the chosen "
+"number."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:197
-msgctxt AbilityHanger/Keyword/ProtectionFromChosenNumber_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromChosenNumber_Title"
 msgid "Protection from ..."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:198
-msgctxt AbilityHanger/Keyword/ProtectionFromChosenNumberN
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with a converted mana cost other than \
-{0}."
+msgctxt "AbilityHanger/Keyword/ProtectionFromChosenNumberN"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything with a converted mana cost other than {0}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:199
-msgctxt AbilityHanger/Keyword/ProtectionFromColor
-msgid "A player or permanent with protection from a color can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of \
-that color."
+msgctxt "AbilityHanger/Keyword/ProtectionFromColor"
+msgid ""
+"A player or permanent with protection from a color can't be blocked, "
+"targeted, dealt damage, enchanted, or equipped by anything of that color."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:200
-msgctxt AbilityHanger/Keyword/ProtectionFromColor_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromColor_Title"
 msgid "Protection from a Color"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:201
-msgctxt AbilityHanger/Keyword/ProtectionFromDemons
+msgctxt "AbilityHanger/Keyword/ProtectionFromDemons"
 msgid "This permanent can't be blocked, targeted, or dealt damage by Demons."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:202
-msgctxt AbilityHanger/Keyword/ProtectionFromDemons_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromDemons_Title"
 msgid "Protection from Demons"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:203
-msgctxt AbilityHanger/Keyword/ProtectionFromDogs
-msgid "A permanent with protection from Dogs can't be blocked, targeted, or dealt damage by Dogs."
+msgctxt "AbilityHanger/Keyword/ProtectionFromDogs"
+msgid ""
+"A permanent with protection from Dogs can't be blocked, targeted, or dealt "
+"damage by Dogs."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:204
-msgctxt AbilityHanger/Keyword/ProtectionFromDogs_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromDogs_Title"
 msgid "Protection from Dogs"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:205
-msgctxt AbilityHanger/Keyword/ProtectionFromDragons
+msgctxt "AbilityHanger/Keyword/ProtectionFromDragons"
 msgid "This permanent can't be blocked, targeted, or dealt damage by Dragons."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:206
-msgctxt AbilityHanger/Keyword/ProtectionFromDragons_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromDragons_Title"
 msgid "Protection from Dragons"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:207
-msgctxt AbilityHanger/Keyword/ProtectionFromEven
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with an even converted mana cost."
+msgctxt "AbilityHanger/Keyword/ProtectionFromEven"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything with an even converted mana cost."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:208
-msgctxt AbilityHanger/Keyword/ProtectionFromEvenOrOdd
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with either an odd or even converted \
-mana cost."
+msgctxt "AbilityHanger/Keyword/ProtectionFromEvenOrOdd"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything with either an odd or even converted mana cost."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:209
-msgctxt AbilityHanger/Keyword/ProtectionFromEvenText
+msgctxt "AbilityHanger/Keyword/ProtectionFromEvenText"
 msgid "Protection from even converted mana costs."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:210
-msgctxt AbilityHanger/Keyword/ProtectionFromEvenTitle
+msgctxt "AbilityHanger/Keyword/ProtectionFromEvenTitle"
 msgid "Protection from Even Converted Mana Costs"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:211
-msgctxt AbilityHanger/Keyword/ProtectionFromGodCreatures
-msgid "This permanent can't be blocked, targeted, or dealt damage by God creatures."
+msgctxt "AbilityHanger/Keyword/ProtectionFromGodCreatures"
+msgid ""
+"This permanent can't be blocked, targeted, or dealt damage by God creatures."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:212
-msgctxt AbilityHanger/Keyword/ProtectionFromGodCreatures_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromGodCreatures_Title"
 msgid "Protection from God Creatures"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:213
-msgctxt AbilityHanger/Keyword/ProtectionFromGreen
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything green."
+msgctxt "AbilityHanger/Keyword/ProtectionFromGreen"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything green."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:214
-msgctxt AbilityHanger/Keyword/ProtectionFromGreen_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromGreen_Title"
 msgid "Protection from Green"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:215
-msgctxt AbilityHanger/Keyword/ProtectionFromMulticolored
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything multicolored."
+msgctxt "AbilityHanger/Keyword/ProtectionFromMulticolored"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything multicolored."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:216
-msgctxt AbilityHanger/Keyword/ProtectionFromMulticolored_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromMulticolored_Title"
 msgid "Protection from Multicolored"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:217
-msgctxt AbilityHanger/Keyword/ProtectionFromOdd
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with an odd converted mana cost."
+msgctxt "AbilityHanger/Keyword/ProtectionFromOdd"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything with an odd converted mana cost."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:218
-msgctxt AbilityHanger/Keyword/ProtectionFromOddText
+msgctxt "AbilityHanger/Keyword/ProtectionFromOddText"
 msgid "Protection from odd converted mana costs."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:219
-msgctxt AbilityHanger/Keyword/ProtectionFromOddTitle
+msgctxt "AbilityHanger/Keyword/ProtectionFromOddTitle"
 msgid "Protection from Odd Converted Mana Costs"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:220
-msgctxt AbilityHanger/Keyword/ProtectionFromPlaneswalkers
-msgid "This creature can't be blocked, targeted, or dealt damage by planeswalkers."
+msgctxt "AbilityHanger/Keyword/ProtectionFromPlaneswalkers"
+msgid ""
+"This creature can't be blocked, targeted, or dealt damage by planeswalkers."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:221
-msgctxt AbilityHanger/Keyword/ProtectionFromPlaneswalkers_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromPlaneswalkers_Title"
 msgid "Protection from Planeswalkers"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:222
-msgctxt AbilityHanger/Keyword/ProtectionFromRed
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything red."
+msgctxt "AbilityHanger/Keyword/ProtectionFromRed"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything red."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:223
-msgctxt AbilityHanger/Keyword/ProtectionFromRed_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromRed_Title"
 msgid "Protection from Red"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:224
-msgctxt AbilityHanger/Keyword/ProtectionFromWhite
-msgid "This permanent can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white."
+msgctxt "AbilityHanger/Keyword/ProtectionFromWhite"
+msgid ""
+"This permanent can't be blocked, targeted, dealt damage, enchanted, or "
+"equipped by anything white."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:225
-msgctxt AbilityHanger/Keyword/ProtectionFromWhite_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromWhite_Title"
 msgid "Protection from White"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:226
-msgctxt AbilityHanger/Keyword/ProtectionFromZombies
+msgctxt "AbilityHanger/Keyword/ProtectionFromZombies"
 msgid "This creature can't be blocked, targeted, or dealt damage by Zombies."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:227
-msgctxt AbilityHanger/Keyword/ProtectionFromZombies_Title
+msgctxt "AbilityHanger/Keyword/ProtectionFromZombies_Title"
 msgid "Protection from Zombies"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:228
-msgctxt AbilityHanger/Keyword/Prowess
-msgid "Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn."
+msgctxt "AbilityHanger/Keyword/Prowess"
+msgid ""
+"Whenever you cast a noncreature spell, this creature gets +1/+1 until end of"
+" turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:229
-msgctxt AbilityHanger/Keyword/Reach
+msgctxt "AbilityHanger/Keyword/Reach"
 msgid "A creature with reach can block creatures with flying."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:230
-msgctxt AbilityHanger/Keyword/Riot
-msgid "A creature with riot enters the battlefield with your choice of a +1/+1 counter or haste."
+msgctxt "AbilityHanger/Keyword/Riot"
+msgid ""
+"A creature with riot enters the battlefield with your choice of a +1/+1 "
+"counter or haste."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:231
-msgctxt AbilityHanger/Keyword/Scry
-msgid "Look at the top cards of your library, then put any number of them on the bottom of your library and the rest on top in any order."
+msgctxt "AbilityHanger/Keyword/Scry"
+msgid ""
+"Look at the top cards of your library, then put any number of them on the "
+"bottom of your library and the rest on top in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:232
-msgctxt AbilityHanger/Keyword/Scry1
-msgid "Look at the top card of your library. You may put that card on the bottom of your library."
+msgctxt "AbilityHanger/Keyword/Scry1"
+msgid ""
+"Look at the top card of your library. You may put that card on the bottom of"
+" your library."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:233
-msgctxt AbilityHanger/Keyword/Scry1_Title
+msgctxt "AbilityHanger/Keyword/Scry1_Title"
 msgid "Scry 1"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:234
-msgctxt AbilityHanger/Keyword/Scry2
-msgid "Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order."
+msgctxt "AbilityHanger/Keyword/Scry2"
+msgid ""
+"Look at the top two cards of your library, then put any number of them on "
+"the bottom of your library and the rest on top in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:235
-msgctxt AbilityHanger/Keyword/Scry2_Title
+msgctxt "AbilityHanger/Keyword/Scry2_Title"
 msgid "Scry 2"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:236
-msgctxt AbilityHanger/Keyword/Scry3
-msgid "Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any \
-order."
+msgctxt "AbilityHanger/Keyword/Scry3"
+msgid ""
+"Look at the top three cards of your library, then put any number of them on "
+"the bottom of your library and the rest on top in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:237
-msgctxt AbilityHanger/Keyword/Scry3_Title
+msgctxt "AbilityHanger/Keyword/Scry3_Title"
 msgid "Scry 3"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:238
-msgctxt AbilityHanger/Keyword/Scry4
-msgid "Look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any \
-order."
+msgctxt "AbilityHanger/Keyword/Scry4"
+msgid ""
+"Look at the top four cards of your library, then put any number of them on "
+"the bottom of your library and the rest on top in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:239
-msgctxt AbilityHanger/Keyword/Scry4_Title
+msgctxt "AbilityHanger/Keyword/Scry4_Title"
 msgid "Scry 4"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:240
-msgctxt AbilityHanger/Keyword/ScryX
-msgid "Look at the top X cards of your library, then put any number of them on the bottom of your library and the rest on top in any order."
+msgctxt "AbilityHanger/Keyword/ScryX"
+msgid ""
+"Look at the top X cards of your library, then put any number of them on the "
+"bottom of your library and the rest on top in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:241
-msgctxt AbilityHanger/Keyword/ScryX_Title
+msgctxt "AbilityHanger/Keyword/ScryX_Title"
 msgid "Scry X"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:242
-msgctxt AbilityHanger/Keyword/Spectacle
-msgid "You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn."
+msgctxt "AbilityHanger/Keyword/Spectacle"
+msgid ""
+"You may cast this spell for its spectacle cost rather than its mana cost if "
+"an opponent lost life this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:243
-msgctxt AbilityHanger/Keyword/Surveil
-msgid "Look at the top card(s) of your library, then put any number of them into your graveyard and the rest on top of your library in any \
-order."
+msgctxt "AbilityHanger/Keyword/Surveil"
+msgid ""
+"Look at the top card(s) of your library, then put any number of them into "
+"your graveyard and the rest on top of your library in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:244
-msgctxt AbilityHanger/Keyword/Surveil_Title
+msgctxt "AbilityHanger/Keyword/Surveil_Title"
 msgid "Surveil"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:245
-msgctxt AbilityHanger/Keyword/Surveil1
-msgid "Look at the top card of your library. You may put it into your graveyard."
+msgctxt "AbilityHanger/Keyword/Surveil1"
+msgid ""
+"Look at the top card of your library. You may put it into your graveyard."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:246
-msgctxt AbilityHanger/Keyword/Surveil1_Title
+msgctxt "AbilityHanger/Keyword/Surveil1_Title"
 msgid "Surveil 1"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:247
-msgctxt AbilityHanger/Keyword/Surveil2
-msgid "Look at the top 2 cards of your library, then put any number of them into your graveyard and the rest on top of your library in any \
-order."
+msgctxt "AbilityHanger/Keyword/Surveil2"
+msgid ""
+"Look at the top 2 cards of your library, then put any number of them into "
+"your graveyard and the rest on top of your library in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:248
-msgctxt AbilityHanger/Keyword/Surveil2_Title
+msgctxt "AbilityHanger/Keyword/Surveil2_Title"
 msgid "Surveil 2"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:249
-msgctxt AbilityHanger/Keyword/Surveil3
-msgid "Look at the top 3 cards of your library, then put any number of them into your graveyard and the rest on top of your library in any \
-order."
+msgctxt "AbilityHanger/Keyword/Surveil3"
+msgid ""
+"Look at the top 3 cards of your library, then put any number of them into "
+"your graveyard and the rest on top of your library in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:250
-msgctxt AbilityHanger/Keyword/Surveil3_Title
+msgctxt "AbilityHanger/Keyword/Surveil3_Title"
 msgid "Surveil 3"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:251
-msgctxt AbilityHanger/Keyword/Surveil4
-msgid "Look at the top 4 cards of your library, then put any number of them into your graveyard and the rest on top of your library in any \
-order."
+msgctxt "AbilityHanger/Keyword/Surveil4"
+msgid ""
+"Look at the top 4 cards of your library, then put any number of them into "
+"your graveyard and the rest on top of your library in any order."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:252
-msgctxt AbilityHanger/Keyword/Surveil4_Title
+msgctxt "AbilityHanger/Keyword/Surveil4_Title"
 msgid "Surveil 4"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:253
-msgctxt AbilityHanger/Keyword/Swampwalk
-msgid "This creature can't be blocked as long as defending player controls a Swamp"
+msgctxt "AbilityHanger/Keyword/Swampwalk"
+msgid ""
+"This creature can't be blocked as long as defending player controls a Swamp"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:254
-msgctxt AbilityHanger/Keyword/Trample
-msgid "A creature with trample can deal excess combat damage to the player or planeswalker it's attacking."
+msgctxt "AbilityHanger/Keyword/Trample"
+msgid ""
+"A creature with trample can deal excess combat damage to the player or "
+"planeswalker it's attacking."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:255
-msgctxt AbilityHanger/Keyword/Transform
+msgctxt "AbilityHanger/Keyword/Transform"
 msgid "Transform"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:256
-msgctxt AbilityHanger/Keyword/Vigilance
+msgctxt "AbilityHanger/Keyword/Vigilance"
 msgid "Attacking doesn't cause a creature with vigilance to tap."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:257
-msgctxt AbilityHanger/KeywordCounter_Plural
+msgctxt "AbilityHanger/KeywordCounter_Plural"
 msgid "{keyword} Counters ({amount})"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:258
-msgctxt AbilityHanger/KeywordCounter_Singular
+msgctxt "AbilityHanger/KeywordCounter_Singular"
 msgid "{keyword} Counter"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:259
-msgctxt AbilityHanger/LayeredEffect/Body_CopyObject
+msgctxt "AbilityHanger/LayeredEffect/Body_CopyObject"
 msgid "Copy of [OVERLAYCARDNAME] until [PROMPTID]."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:260
-msgctxt AbilityHanger/LayeredEffect/Body_CopyObject_NOPROMPT
+msgctxt "AbilityHanger/LayeredEffect/Body_CopyObject_NOPROMPT"
 msgid "Copy of [OVERLAYCARDNAME]."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:261
-msgctxt AbilityHanger/LayeredEffect/Type_CopyObject
+msgctxt "AbilityHanger/LayeredEffect/Type_CopyObject"
 msgid "Temporary Copy"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:262
-msgctxt AbilityHanger/LayeredEffect/Type_CopyObject_NOPROMPT
+msgctxt "AbilityHanger/LayeredEffect/Type_CopyObject_NOPROMPT"
 msgid "Copy"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:263
-msgctxt AbilityHanger/PlayWarning/Abilities_Removed_Text
+msgctxt "AbilityHanger/PlayWarning/Abilities_Removed_Text"
 msgid "{count} abilities removed by {remover}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:264
-msgctxt AbilityHanger/PlayWarning/Abilities_Removed_Title
+msgctxt "AbilityHanger/PlayWarning/Abilities_Removed_Title"
 msgid "Abilities Removed"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:265
-msgctxt AbilityHanger/PlayWarning/Ability_Removed_Text
+msgctxt "AbilityHanger/PlayWarning/Ability_Removed_Text"
 msgid "{count} ability removed by {remover}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:266
-msgctxt AbilityHanger/PlayWarning/Ability_Removed_Title
+msgctxt "AbilityHanger/PlayWarning/Ability_Removed_Title"
 msgid "Ability Removed"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:267
-msgctxt AbilityHanger/PlayWarning/Activate_Prevented_Title
+msgctxt "AbilityHanger/PlayWarning/Activate_Prevented_Title"
 msgid "Can't Activate"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:268
-msgctxt AbilityHanger/PlayWarning/Activated_Ability_Prevented_By_Text
-msgid "You can't activate abilities on this card except mana abilities because of {affector}."
+msgctxt "AbilityHanger/PlayWarning/Activated_Ability_Prevented_By_Text"
+msgid ""
+"You can't activate abilities on this card except mana abilities because of "
+"{affector}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:269
-msgctxt AbilityHanger/PlayWarning/Activated_Ability_Prevented_Text
+msgctxt "AbilityHanger/PlayWarning/Activated_Ability_Prevented_Text"
 msgid "You can't activate abilities on this card except mana abilities."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:270
-msgctxt AbilityHanger/PlayWarning/Activated_Loyalty_Prevented_By_Text
-msgid "You can't activate this card's loyalty abilities because of {affector}."
+msgctxt "AbilityHanger/PlayWarning/Activated_Loyalty_Prevented_By_Text"
+msgid ""
+"You can't activate this card's loyalty abilities because of {affector}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:271
-msgctxt AbilityHanger/PlayWarning/Activated_Loyalty_Prevented_Text
+msgctxt "AbilityHanger/PlayWarning/Activated_Loyalty_Prevented_Text"
 msgid "You can't activate this card's loyalty abilities."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:272
-msgctxt AbilityHanger/PlayWarning/Activated_Mana_Prevented_By_Text
-msgid "You can't activate mana production abilities on the card {cardName} because of {preventerCardName}."
+msgctxt "AbilityHanger/PlayWarning/Activated_Mana_Prevented_By_Text"
+msgid ""
+"You can't activate mana production abilities on the card {cardName} because "
+"of {preventerCardName}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:273
-msgctxt AbilityHanger/PlayWarning/Activated_Mana_Prevented_Text
-msgid "You can't activate mana production abilities on the card {cardName} because of an effect."
+msgctxt "AbilityHanger/PlayWarning/Activated_Mana_Prevented_Text"
+msgid ""
+"You can't activate mana production abilities on the card {cardName} because "
+"of an effect."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:274
-msgctxt AbilityHanger/PlayWarning/Activated_Prevented_By_Text
+msgctxt "AbilityHanger/PlayWarning/Activated_Prevented_By_Text"
 msgid "You can't activate abilities on this card because of {affector}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:275
-msgctxt AbilityHanger/PlayWarning/Activated_Prevented_Text
+msgctxt "AbilityHanger/PlayWarning/Activated_Prevented_Text"
 msgid "You can't activate abilities on this card."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:276
-msgctxt AbilityHanger/PlayWarning/Attack_Block_Prevented_Title
+msgctxt "AbilityHanger/PlayWarning/Attack_Block_Prevented_Title"
 msgid "Can't Attack or Block"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:277
-msgctxt AbilityHanger/PlayWarning/Body_AdaptHasCounters
-msgid "This creature will not successfully Adapt if it has one or more +1/+1 counters on it."
+msgctxt "AbilityHanger/PlayWarning/Body_AdaptHasCounters"
+msgid ""
+"This creature will not successfully Adapt if it has one or more +1/+1 "
+"counters on it."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:278
-msgctxt AbilityHanger/PlayWarning/Body_EntersTapped
+msgctxt "AbilityHanger/PlayWarning/Body_EntersTapped"
 msgid "This card would enter the battlefield tapped."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:279
-msgctxt AbilityHanger/PlayWarning/Body_Legendary
-msgid "You already have a copy of this legendary in play. Playing this one will require you to choose which copy to keep."
+msgctxt "AbilityHanger/PlayWarning/Body_Legendary"
+msgid ""
+"You already have a copy of this legendary in play. Playing this one will "
+"require you to choose which copy to keep."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:280
-msgctxt AbilityHanger/PlayWarning/Body_Undefined
+msgctxt "AbilityHanger/PlayWarning/Body_Undefined"
 msgid "Playing this card right now may not be the best choice."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:281
-msgctxt AbilityHanger/PlayWarning/Body_UnpayableCost
-msgid "This card will be sacrificed after being played if you can't pay the cost."
+msgctxt "AbilityHanger/PlayWarning/Body_UnpayableCost"
+msgid ""
+"This card will be sacrificed after being played if you can't pay the cost."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:282
-msgctxt AbilityHanger/PlayWarning/Body_WouldSacrificeSource
-msgid "This card will be sacrificed when it enters the battlefield if you can't sacrifice two other lands."
+msgctxt "AbilityHanger/PlayWarning/Body_WouldSacrificeSource"
+msgid ""
+"This card will be sacrificed when it enters the battlefield if you can't "
+"sacrifice two other lands."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:283
-msgctxt AbilityHanger/PlayWarning/Cast_Prevented_By_Text
+msgctxt "AbilityHanger/PlayWarning/Cast_Prevented_By_Text"
 msgid "You can't cast this spell because of {preventerCardName}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:284
-msgctxt AbilityHanger/PlayWarning/Cast_Prevented_Text
+msgctxt "AbilityHanger/PlayWarning/Cast_Prevented_Text"
 msgid "You can't cast this spell right now."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:285
-msgctxt AbilityHanger/PlayWarning/Cast_Prevented_Title
+msgctxt "AbilityHanger/PlayWarning/Cast_Prevented_Title"
 msgid "Can't Cast"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:286
-msgctxt AbilityHanger/PlayWarning/Header_AdaptHasCounters
+msgctxt "AbilityHanger/PlayWarning/Header_AdaptHasCounters"
 msgid "Has Counter(s)"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:287
-msgctxt AbilityHanger/PlayWarning/Header_EntersTapped
+msgctxt "AbilityHanger/PlayWarning/Header_EntersTapped"
 msgid "Enters Tapped"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:288
-msgctxt AbilityHanger/PlayWarning/Header_Legendary
+msgctxt "AbilityHanger/PlayWarning/Header_Legendary"
 msgid "Duplicate Legendary"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:289
-msgctxt AbilityHanger/PlayWarning/Header_Undefined
+msgctxt "AbilityHanger/PlayWarning/Header_Undefined"
 msgid "Warning"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:290
-msgctxt AbilityHanger/PlayWarning/Header_UnpayableCost
+msgctxt "AbilityHanger/PlayWarning/Header_UnpayableCost"
 msgid "Cost Required"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:291
-msgctxt AbilityHanger/PlayWarning/Header_WouldSacrificeSource
+msgctxt "AbilityHanger/PlayWarning/Header_WouldSacrificeSource"
 msgid "Sacrifice Required"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:292
-msgctxt AbilityHanger/PlayWarning/Play_Prevented_By_Text
+msgctxt "AbilityHanger/PlayWarning/Play_Prevented_By_Text"
 msgid "You can't play this card because of {cardTitle}."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:293
-msgctxt AbilityHanger/PlayWarning/Play_Prevented_Text
+msgctxt "AbilityHanger/PlayWarning/Play_Prevented_Text"
 msgid "You can't play this card because of an effect."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:294
-msgctxt AbilityHanger/PlayWarning/Play_Prevented_Title
+msgctxt "AbilityHanger/PlayWarning/Play_Prevented_Title"
 msgid "Can't Play"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:295
-msgctxt AbilityHanger/Qualification/AdaptAsThoughNoCounters_Title
+msgctxt "AbilityHanger/Qualification/AdaptAsThoughNoCounters_Title"
 msgid "Can Adapt Again"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:296
-msgctxt AbilityHanger/Qualification/AssignCombatDamageAsThoughWerentBlocked_Title
+msgctxt ""
+"AbilityHanger/Qualification/AssignCombatDamageAsThoughWerentBlocked_Title"
 msgid "Unstoppable"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:297
-msgctxt AbilityHanger/Qualification/AssignCombatDamageWithToughness_Title
+msgctxt "AbilityHanger/Qualification/AssignCombatDamageWithToughness_Title"
 msgid "Backbone"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:298
-msgctxt AbilityHanger/Qualification/CanAttack_Title
+msgctxt "AbilityHanger/Qualification/CanAttack_Title"
 msgid "Can Attack"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:299
-msgctxt AbilityHanger/Qualification/CanBeTheTargetOf
-msgid "Can be the target of spells and abilities as though it didn't have hexproof"
+msgctxt "AbilityHanger/Qualification/CanBeTheTargetOf"
+msgid ""
+"Can be the target of spells and abilities as though it didn't have hexproof"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:300
-msgctxt AbilityHanger/Qualification/CanBeTheTargetOf_Title
+msgctxt "AbilityHanger/Qualification/CanBeTheTargetOf_Title"
 msgid "Can Be Targeted"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:301
-msgctxt AbilityHanger/Qualification/CanPlayThisTurn_Body
+msgctxt "AbilityHanger/Qualification/CanPlayThisTurn_Body"
 msgid "You may play this card until the end of this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:302
-msgctxt AbilityHanger/Qualification/CantAttack_Body
+msgctxt "AbilityHanger/Qualification/CantAttack_Body"
 msgid "{cardname} can't Attack."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:303
-msgctxt AbilityHanger/Qualification/CantAttack_Title
+msgctxt "AbilityHanger/Qualification/CantAttack_Title"
 msgid "Can't Attack"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:304
-msgctxt AbilityHanger/Qualification/CantBeBlocked_Title
+msgctxt "AbilityHanger/Qualification/CantBeBlocked_Title"
 msgid "Can't be Blocked"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:305
-msgctxt AbilityHanger/Qualification/CantBeCountered_Title
+msgctxt "AbilityHanger/Qualification/CantBeCountered_Title"
 msgid "Can't Be Countered"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:306
-msgctxt AbilityHanger/Qualification/CantBePrevented_Title
+msgctxt "AbilityHanger/Qualification/CantBePrevented_Title"
 msgid "Can't Be Prevented"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:307
-msgctxt AbilityHanger/Qualification/CantBeTheTargetOf_Title
+msgctxt "AbilityHanger/Qualification/CantBeTheTargetOf_Title"
 msgid "Can't Be Targeted"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:308
-msgctxt AbilityHanger/Qualification/CantBlock_Body
+msgctxt "AbilityHanger/Qualification/CantBlock_Body"
 msgid "{cardname} can't Block."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:309
-msgctxt AbilityHanger/Qualification/CantBlock_Title
+msgctxt "AbilityHanger/Qualification/CantBlock_Title"
 msgid "Can't Block"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:310
-msgctxt AbilityHanger/Qualification/CantUntap_Title
+msgctxt "AbilityHanger/Qualification/CantUntap_Title"
 msgid "Doesn't Untap"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:311
-msgctxt AbilityHanger/Qualification/MayPlay_Title
+msgctxt "AbilityHanger/Qualification/MayPlay_Title"
 msgid "May Play"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:312
-msgctxt AbilityHanger/Qualification/MayPlayThisTurn_Title
+msgctxt "AbilityHanger/Qualification/MayPlayThisTurn_Title"
 msgid "May Play Until End of Turn"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:313
-msgctxt AbilityHanger/Qualification/MustBeBlocked_Title
+msgctxt "AbilityHanger/Qualification/MustBeBlocked_Title"
 msgid "Must Be Blocked"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:314
-msgctxt AbilityHanger/Qualification/MustBlock_Title
+msgctxt "AbilityHanger/Qualification/MustBlock_Title"
 msgid "Must Block"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:315
-msgctxt AbilityHanger/SpecialHangers/AddedAbilities_Header
+msgctxt "AbilityHanger/SpecialHangers/AddedAbilities_Header"
 msgid "Added Abilities"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:316
-msgctxt AbilityHanger/SpecialHangers/Adventure_Body
-msgid "You may cast this card as an Adventure, after you do exile it. You may then cast the creature later from exile."
+msgctxt "AbilityHanger/SpecialHangers/Adventure_Body"
+msgid ""
+"You may cast this card as an Adventure, after you do exile it. You may then "
+"cast the creature later from exile."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:317
-msgctxt AbilityHanger/SpecialHangers/Adventure_Header
+msgctxt "AbilityHanger/SpecialHangers/Adventure_Header"
 msgid "Adventure"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:318
-msgctxt AbilityHanger/SpecialHangers/ArtifactAffinity_Body
-msgid "A spell with affinity for artifacts costs <sprite=\"SpriteSheet_ManaIcons\" name=\"x1\"> less to cast for each artifact controlled \
-(currently {amount})."
+msgctxt "AbilityHanger/SpecialHangers/ArtifactAffinity_Body"
+msgid ""
+"A spell with affinity for artifacts costs <sprite=\"SpriteSheet_ManaIcons\" "
+"name=\"x1\"> less to cast for each artifact controlled (currently {amount})."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:319
-msgctxt AbilityHanger/SpecialHangers/ArtifactAffinity_BodyNoParams
-msgid "A spell with affinity for artifacts costs <sprite=\"SpriteSheet_ManaIcons\" name=\"x1\"> less to cast for each artifact controlled."
+msgctxt "AbilityHanger/SpecialHangers/ArtifactAffinity_BodyNoParams"
+msgid ""
+"A spell with affinity for artifacts costs <sprite=\"SpriteSheet_ManaIcons\" "
+"name=\"x1\"> less to cast for each artifact controlled."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:320
-msgctxt AbilityHanger/SpecialHangers/ArtifactAffinity_Title
+msgctxt "AbilityHanger/SpecialHangers/ArtifactAffinity_Title"
 msgid "Affinity for Artifacts"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:321
-msgctxt AbilityHanger/SpecialHangers/Banned_Body
-msgid "This card is not legal in the following formats:\
-{formats}"
+msgctxt "AbilityHanger/SpecialHangers/Banned_Body"
+msgid ""
+"This card is not legal in the following formats:\n"
+"{formats}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:322
-msgctxt AbilityHanger/SpecialHangers/Banned_Header
+msgctxt "AbilityHanger/SpecialHangers/Banned_Header"
 msgid "Not Legal"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:323
-msgctxt AbilityHanger/SpecialHangers/Controller/Header
+msgctxt "AbilityHanger/SpecialHangers/Controller/Header"
 msgid "Controller"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:324
-msgctxt AbilityHanger/SpecialHangers/Damaged_Body
+msgctxt "AbilityHanger/SpecialHangers/Damaged_Body"
 msgid "This creature has taken {ammount} damage"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:325
-msgctxt AbilityHanger/SpecialHangers/Damaged_Title
+msgctxt "AbilityHanger/SpecialHangers/Damaged_Title"
 msgid "Damaged"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:326
-msgctxt AbilityHanger/SpecialHangers/EnteredBattlefieldThisTurn
+msgctxt "AbilityHanger/SpecialHangers/EnteredBattlefieldThisTurn"
 msgid "Entered the Battlefield this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:327
-msgctxt AbilityHanger/SpecialHangers/EnteredExileThisTurn
+msgctxt "AbilityHanger/SpecialHangers/EnteredExileThisTurn"
 msgid "Entered Exile this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:328
-msgctxt AbilityHanger/SpecialHangers/EnteredGraveyardThisTurn
+msgctxt "AbilityHanger/SpecialHangers/EnteredGraveyardThisTurn"
 msgid "Entered the Graveyard this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:329
-msgctxt AbilityHanger/SpecialHangers/EnteredLibraryThisTurn
+msgctxt "AbilityHanger/SpecialHangers/EnteredLibraryThisTurn"
 msgid "Entered the Library this turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:330
-msgctxt AbilityHanger/SpecialHangers/ExiledUnder_Header
+msgctxt "AbilityHanger/SpecialHangers/ExiledUnder_Header"
 msgid "Exiled Under"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:331
-msgctxt AbilityHanger/SpecialHangers/FlavorTextHeader
+msgctxt "AbilityHanger/SpecialHangers/FlavorTextHeader"
 msgid "Flavor Text"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:332
-msgctxt AbilityHanger/SpecialHangers/HappilyEverAfter_Color_Body
+msgctxt "AbilityHanger/SpecialHangers/HappilyEverAfter_Color_Body"
 msgid "{count} color among permanents you control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:333
-msgctxt AbilityHanger/SpecialHangers/HappilyEverAfter_Colors_Body
+msgctxt "AbilityHanger/SpecialHangers/HappilyEverAfter_Colors_Body"
 msgid "{count} colors among permanents you control."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:334
-msgctxt AbilityHanger/SpecialHangers/HappilyEverAfter_Life_Body
+msgctxt "AbilityHanger/SpecialHangers/HappilyEverAfter_Life_Body"
 msgid "Life total greater than or equal to your starting life total."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:335
-msgctxt AbilityHanger/SpecialHangers/HappilyEverAfter_Type_Body
-msgid "{count} card type among permanents you control and/or cards in your graveyard."
+msgctxt "AbilityHanger/SpecialHangers/HappilyEverAfter_Type_Body"
+msgid ""
+"{count} card type among permanents you control and/or cards in your "
+"graveyard."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:336
-msgctxt AbilityHanger/SpecialHangers/HappilyEverAfter_Types_Body
-msgid "{count} card types among permanents you control and/or cards in your graveyard."
+msgctxt "AbilityHanger/SpecialHangers/HappilyEverAfter_Types_Body"
+msgid ""
+"{count} card types among permanents you control and/or cards in your "
+"graveyard."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:337
-msgctxt AbilityHanger/SpecialHangers/Historic/Historic_Body
+msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Body"
 msgid "Artifacts, legendaries, and Sagas are historic."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:338
-msgctxt AbilityHanger/SpecialHangers/Historic/Historic_Header
+msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Header"
 msgid "Historic"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:339
-msgctxt AbilityHanger/SpecialHangers/InformationVisibility/Private_Body
+msgctxt "AbilityHanger/SpecialHangers/InformationVisibility/Private_Body"
 msgid "Only you can see this card. It's hidden to your opponent."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:340
-msgctxt AbilityHanger/SpecialHangers/InformationVisibility/Private_Header
+msgctxt "AbilityHanger/SpecialHangers/InformationVisibility/Private_Header"
 msgid "Private Information"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:341
-msgctxt AbilityHanger/SpecialHangers/InformationVisibility/Public_Body
+msgctxt "AbilityHanger/SpecialHangers/InformationVisibility/Public_Body"
 msgid "Both you and your opponent can see the front of this card."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:342
-msgctxt AbilityHanger/SpecialHangers/InformationVisibility/Public_Header
+msgctxt "AbilityHanger/SpecialHangers/InformationVisibility/Public_Header"
 msgid "Public Information"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:343
-msgctxt AbilityHanger/SpecialHangers/LegendarySorcery/Body
-msgid "You can cast a legendary sorcery only if you control a legendary creature or planeswalker."
+msgctxt "AbilityHanger/SpecialHangers/LegendarySorcery/Body"
+msgid ""
+"You can cast a legendary sorcery only if you control a legendary creature or"
+" planeswalker."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:344
-msgctxt AbilityHanger/SpecialHangers/LegendarySorcery/Header
+msgctxt "AbilityHanger/SpecialHangers/LegendarySorcery/Header"
 msgid "Legendary Sorcery"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:345
-msgctxt AbilityHanger/SpecialHangers/NPE/ExplainPower
+msgctxt "AbilityHanger/SpecialHangers/NPE/ExplainPower"
 msgid "Damage dealt when attacking or blocking."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:346
-msgctxt AbilityHanger/SpecialHangers/NPE/ExplainToughness
+msgctxt "AbilityHanger/SpecialHangers/NPE/ExplainToughness"
 msgid "Damage required to be destroyed."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:347
-msgctxt AbilityHanger/SpecialHangers/NPE/Land_Body
+msgctxt "AbilityHanger/SpecialHangers/NPE/Land_Body"
 msgid "Lands add mana to cast spells."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:348
-msgctxt AbilityHanger/SpecialHangers/NPE/Land_Title
+msgctxt "AbilityHanger/SpecialHangers/NPE/Land_Title"
 msgid "Land"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:349
-msgctxt AbilityHanger/SpecialHangers/NPE/SumSick_Body
+msgctxt "AbilityHanger/SpecialHangers/NPE/SumSick_Body"
 msgid "Creatures can't attack on their first turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:350
-msgctxt AbilityHanger/SpecialHangers/NPE/SumSick_Title
+msgctxt "AbilityHanger/SpecialHangers/NPE/SumSick_Title"
 msgid "Summoning Sick"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:351
-msgctxt AbilityHanger/SpecialHangers/NPE/Tapped_Body_Creature
+msgctxt "AbilityHanger/SpecialHangers/NPE/Tapped_Body_Creature"
 msgid "Creatures tap when they attack. Tapped creatures can't block."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:352
-msgctxt AbilityHanger/SpecialHangers/NPE/Tapped_Body_CreatureNEW
+msgctxt "AbilityHanger/SpecialHangers/NPE/Tapped_Body_CreatureNEW"
 msgid "Creatures tap when they attack. Tapped creatures can't block."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:353
-msgctxt AbilityHanger/SpecialHangers/NPE/Tapped_Body_Lands
+msgctxt "AbilityHanger/SpecialHangers/NPE/Tapped_Body_Lands"
 msgid "Tapped lands can be used again on your next turn."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:354
-msgctxt AbilityHanger/SpecialHangers/NPE/Tapped_Title
+msgctxt "AbilityHanger/SpecialHangers/NPE/Tapped_Title"
 msgid "Tapped"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:355
-msgctxt AbilityHanger/SpecialHangers/Ownership/Header
+msgctxt "AbilityHanger/SpecialHangers/Ownership/Header"
 msgid "Owner"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:356
-msgctxt AbilityHanger/SpecialHangers/Party
-msgid "Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard."
+msgctxt "AbilityHanger/SpecialHangers/Party"
+msgid ""
+"Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:357
-msgctxt AbilityHanger/SpecialHangers/Party_Additional
+msgctxt "AbilityHanger/SpecialHangers/Party_Additional"
 msgid "Adding one of these types would increase party size:"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:358
-msgctxt AbilityHanger/SpecialHangers/Party_Title
+msgctxt "AbilityHanger/SpecialHangers/Party_Title"
 msgid "Party"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:359
-msgctxt AbilityHanger/SpecialHangers/Party_Title_Count
+msgctxt "AbilityHanger/SpecialHangers/Party_Title_Count"
 msgid "Party <#FF9C01>({0})</color>"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:360
-msgctxt AbilityHanger/SpecialHangers/PayLifeInsteadOfManaCost
-msgid "You may play this card, if you do pay life equal to its converted mana cost rather than pay its mana cost."
+msgctxt "AbilityHanger/SpecialHangers/PayLifeInsteadOfManaCost"
+msgid ""
+"You may play this card, if you do pay life equal to its converted mana cost "
+"rather than pay its mana cost."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:361
-msgctxt AbilityHanger/SpecialHangers/Planeswalker/HasAllAbilities
+msgctxt "AbilityHanger/SpecialHangers/Planeswalker/HasAllAbilities"
 msgid "Has all loyalty abilities of"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:362
-msgctxt AbilityHanger/SpecialHangers/PowerToughnessInverted_Body
-msgid "Effects that modify toughness apply to power and effects that modify power apply to toughness"
+msgctxt "AbilityHanger/SpecialHangers/PowerToughnessInverted_Body"
+msgid ""
+"Effects that modify toughness apply to power and effects that modify power "
+"apply to toughness"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:363
-msgctxt AbilityHanger/SpecialHangers/PowerToughnessInverted_Title
+msgctxt "AbilityHanger/SpecialHangers/PowerToughnessInverted_Title"
 msgid "Power & Toughness Inverted"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:364
-msgctxt AbilityHanger/SpecialHangers/ReplacementEffect/Adventure
-msgid "Exile this spell as it resolves. You may cast the creature later from exile."
+msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/Adventure"
+msgid ""
+"Exile this spell as it resolves. You may cast the creature later from exile."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:365
-msgctxt AbilityHanger/SpecialHangers/ReplacementEffect/AmountValue
+msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/AmountValue"
 msgid "Amount: {durability}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:366
-msgctxt AbilityHanger/SpecialHangers/ReplacementEffect/ExileOnDeath_Text
+msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/ExileOnDeath_Text"
 msgid "If this creature would die this turn, exile it instead."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:367
-msgctxt AbilityHanger/SpecialHangers/ReplacementEffect/PreventDamageHeader
+msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/PreventDamageHeader"
 msgid "Prevent Damage From This"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:368
-msgctxt AbilityHanger/SpecialHangers/ReplacementEffect/ProtectedHeader
+msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/ProtectedHeader"
 msgid "Prevent Damage To This"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:369
-msgctxt AbilityHanger/SpecialHangers/ReplacementEffect/Recipient
+msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/Recipient"
 msgid "Recipient: {replacementRecipient}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:370
-msgctxt AbilityHanger/SpecialHangers/ReplacementEffect/Source
+msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/Source"
 msgid "Source: {replacementSource}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:371
-msgctxt AbilityHanger/SpecialHangers/RevealedToOpponent_Body
+msgctxt "AbilityHanger/SpecialHangers/RevealedToOpponent_Body"
 msgid "You have revealed this card to your opponent."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:372
-msgctxt AbilityHanger/SpecialHangers/RevealedToOpponent_Header
+msgctxt "AbilityHanger/SpecialHangers/RevealedToOpponent_Header"
 msgid "Revealed"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:373
-msgctxt AbilityHanger/SpecialHangers/SnowManaSource_Body
-msgid "<sprite=\"SpriteSheet_ManaIcons\" name=\"xS\"> can be paid with one mana from a snow source."
+msgctxt "AbilityHanger/SpecialHangers/SnowManaSource_Body"
+msgid ""
+"<sprite=\"SpriteSheet_ManaIcons\" name=\"xS\"> can be paid with one mana "
+"from a snow source."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:374
-msgctxt AbilityHanger/SpecialHangers/SnowManaSource_Title
+msgctxt "AbilityHanger/SpecialHangers/SnowManaSource_Title"
 msgid "Mana from a Snow Source"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:375
-msgctxt AbilityHanger/SpecialHangers/Wildcard/Wildcard_Body
-msgid "Redeem this wildcard for any {rarity} card by adding the desired card to your deck."
+msgctxt "AbilityHanger/SpecialHangers/Wildcard/Wildcard_Body"
+msgid ""
+"Redeem this wildcard for any {rarity} card by adding the desired card to "
+"your deck."
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:376
-msgctxt AbilityHanger/SpecialHangers/Wildcard/Wildcard_Header
+msgctxt "AbilityHanger/SpecialHangers/Wildcard/Wildcard_Header"
 msgid "{wildcard}"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:377
-msgctxt AbilityHanger/Type/Hanger_AddedTypes
+msgctxt "AbilityHanger/Type/Hanger_AddedTypes"
 msgid "Added Types"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:378
-msgctxt AbilityHanger/Type/Hanger_RemovedTypes
+msgctxt "AbilityHanger/Type/Hanger_RemovedTypes"
 msgid "Removed Types"
 msgstr ""
 
-
-#: loc_AbilityHanger_0c146225beadc4ba0250fec96e49e910.mtga:379
-msgctxt AbilityHanger/Type/Hanger_Type
+msgctxt "AbilityHanger/Type/Hanger_Type"
 msgid "Type"
 msgstr ""
-
-

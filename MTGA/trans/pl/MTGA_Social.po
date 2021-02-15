@@ -1,546 +1,372 @@
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:1
-msgctxt Social/Challenge/Request_Message
+#
+msgid ""
+msgstr ""
+
+msgctxt "Social/Challenge/Request_Message"
 msgid "{playerName} is challenging you to a match!"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:2
-msgctxt Social/Challenge/Request_TitleDiscord
+msgctxt "Social/Challenge/Request_TitleDiscord"
 msgid "Discord Join Request"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:3
-msgctxt Social/Challenge/UnknownOpponentName
+msgctxt "Social/Challenge/UnknownOpponentName"
 msgid "Discord Friend"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:4
-msgctxt Social/Chat/FriendOfflineHint
+msgctxt "Social/Chat/FriendOfflineHint"
 msgid "{name} is offline"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:5
-msgctxt Social/Chat/NewMessageHint
+msgctxt "Social/Chat/NewMessageHint"
 msgid "New Message..."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:6
-msgctxt Social/Chat/PressTabHint
+msgctxt "Social/Chat/PressTabHint"
 msgid "Press TAB to cycle chat"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:7
-msgctxt Social/Chat/SpamHint
+msgctxt "Social/Chat/SpamHint"
 msgid "You are sending messages too quickly"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:8
-msgctxt Social/Errors/ChatDisabled_Desc
+msgctxt "Social/Errors/ChatDisabled_Desc"
 msgid "Chat is temporarily unavailable."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:9
-msgctxt Social/Errors/KillSwitchEnabled_Desc
+msgctxt "Social/Errors/KillSwitchEnabled_Desc"
 msgid "Social features are temporarily unavailable."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:10
-msgctxt Social/Errors/KillSwitchEnabled_Header
+msgctxt "Social/Errors/KillSwitchEnabled_Header"
 msgid "Social Features Are Down"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:11
-msgctxt Social/Errors/Wizards/AlreadFriends/Body
+msgctxt "Social/Errors/Wizards/AlreadFriends/Body"
 msgid "You are already friends with this person. Hooray!"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:12
-msgctxt Social/Errors/Wizards/AlreadFriends/Title
+msgctxt "Social/Errors/Wizards/AlreadFriends/Title"
 msgid "Already friends!"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:13
-msgctxt Social/Errors/Wizards/CannotFriendSelf/Body
-msgid "You're pretty neat, but you can't be friends with yourself in our system."
+msgctxt "Social/Errors/Wizards/CannotFriendSelf/Body"
+msgid ""
+"You're pretty neat, but you can't be friends with yourself in our system."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:14
-msgctxt Social/Errors/Wizards/CannotFriendSelf/Title
+msgctxt "Social/Errors/Wizards/CannotFriendSelf/Title"
 msgid "That's you."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:15
-msgctxt Social/Errors/Wizards/FriendLimit/Body
-msgid "Either you or the friend you are trying to add have reached the current limit."
+msgctxt "Social/Errors/Wizards/FriendLimit/Body"
+msgid ""
+"Either you or the friend you are trying to add have reached the current "
+"limit."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:16
-msgctxt Social/Errors/Wizards/FriendLimit/Title
+msgctxt "Social/Errors/Wizards/FriendLimit/Title"
 msgid "Friend limit reached."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:17
-msgctxt Social/Friends/ConnectionState/Away
+msgctxt "Social/Friends/ConnectionState/Away"
 msgid "Away"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:18
-msgctxt Social/Friends/ConnectionState/Busy
+msgctxt "Social/Friends/ConnectionState/Busy"
 msgid "Busy"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:19
-msgctxt Social/Friends/ConnectionState/Busy_NotificationsOff
+msgctxt "Social/Friends/ConnectionState/Busy_NotificationsOff"
 msgid "Busy (Notifications Off)"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:20
-msgctxt Social/Friends/ConnectionState/Busy_Tooltip
-msgid "Busy \u2014 Notifications will be suppressed."
+msgctxt "Social/Friends/ConnectionState/Busy_Tooltip"
+msgid "Busy — Notifications will be suppressed."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:21
-msgctxt Social/Friends/ConnectionState/Offline
+msgctxt "Social/Friends/ConnectionState/Offline"
 msgid "Offline"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:22
-msgctxt Social/Friends/ConnectionState/Offline_Tooltip
-msgid "Offline \u2014 Go online to see your friends."
+msgctxt "Social/Friends/ConnectionState/Offline_Tooltip"
+msgid "Offline — Go online to see your friends."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:23
-msgctxt Social/Friends/ConnectionState/Online
+msgctxt "Social/Friends/ConnectionState/Online"
 msgid "Online"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:24
-msgctxt Social/Friends/Prompt/ConfirmBlock/Body
+msgctxt "Social/Friends/Prompt/ConfirmBlock/Body"
 msgid "Do you really want to block {displayName}?"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:25
-msgctxt Social/Friends/Prompt/RemoveFriend/Body
+msgctxt "Social/Friends/Prompt/RemoveFriend/Body"
 msgid "Do you really want to remove {displayName} from your friends list?"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:26
-msgctxt Social/Friends/Prompt/RemoveFriend_Failed/Body
+msgctxt "Social/Friends/Prompt/RemoveFriend_Failed/Body"
 msgid "Unable to remove friend. Please try again later."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:27
-msgctxt Social/Friends/Prompt/RemoveFriend_Failed/Header
+msgctxt "Social/Friends/Prompt/RemoveFriend_Failed/Header"
 msgid "Remove Failed"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:28
-msgctxt Social/Friends/UI/Buttons/Block
+msgctxt "Social/Friends/UI/Buttons/Block"
 msgid "Block"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:29
-msgctxt Social/Friends/UI/Buttons/BlockIncoming
+msgctxt "Social/Friends/UI/Buttons/BlockIncoming"
 msgid "Block Incoming Friend Requests"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:30
-msgctxt Social/Friends/UI/Buttons/Challenge
+msgctxt "Social/Friends/UI/Buttons/Challenge"
 msgid "Challenge"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:31
-msgctxt Social/Friends/UI/Buttons/Chat
+msgctxt "Social/Friends/UI/Buttons/Chat"
 msgid "Chat"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:32
-msgctxt Social/Friends/UI/Buttons/Decline
+msgctxt "Social/Friends/UI/Buttons/Decline"
 msgid "Decline"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:33
-msgctxt Social/Friends/UI/Buttons/LoadMore
+msgctxt "Social/Friends/UI/Buttons/LoadMore"
 msgid "Load More"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:34
-msgctxt Social/Friends/UI/Buttons/Reject
+msgctxt "Social/Friends/UI/Buttons/Reject"
 msgid "Reject"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:35
-msgctxt Social/Friends/UI/Buttons/Remove
+msgctxt "Social/Friends/UI/Buttons/Remove"
 msgid "Remove"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:36
-msgctxt Social/Friends/UI/Buttons/Rescind
+msgctxt "Social/Friends/UI/Buttons/Rescind"
 msgid "Rescind"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:37
-msgctxt Social/Friends/UI/Buttons/SendRequest
+msgctxt "Social/Friends/UI/Buttons/SendRequest"
 msgid "Send"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:38
-msgctxt Social/Friends/UI/Buttons/Unblock
+msgctxt "Social/Friends/UI/Buttons/Unblock"
 msgid "Unblock"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:39
-msgctxt Social/Friends/UI/Buttons/Unfriend
+msgctxt "Social/Friends/UI/Buttons/Unfriend"
 msgid "Unfriend"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:40
-msgctxt Social/Friends/UI/Details/Blocked
+msgctxt "Social/Friends/UI/Details/Blocked"
 msgid "Blocked"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:41
-msgctxt Social/Friends/UI/Details/IncomingRequest
+msgctxt "Social/Friends/UI/Details/IncomingRequest"
 msgid "Pending Request"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:42
-msgctxt Social/Friends/UI/Details/TimeSent
+msgctxt "Social/Friends/UI/Details/TimeSent"
 msgid "Request sent: {timeStamp}"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:43
-msgctxt Social/Friends/UI/Errors/InvitePrompt/InvalidRequest
-msgid "Invalid Display Name or email address. Please check your spelling and try again."
+msgctxt "Social/Friends/UI/Errors/InvitePrompt/InvalidRequest"
+msgid ""
+"Invalid Display Name or email address. Please check your spelling and try "
+"again."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:44
-msgctxt Social/Friends/UI/Headers/Blocks
+msgctxt "Social/Friends/UI/Headers/Blocks"
 msgid "Blocked Users"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:45
-msgctxt Social/Friends/UI/Headers/FriendsList
+msgctxt "Social/Friends/UI/Headers/FriendsList"
 msgid "Friends"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:46
-msgctxt Social/Friends/UI/Headers/IncomingRequests
+msgctxt "Social/Friends/UI/Headers/IncomingRequests"
 msgid "Incoming Requests"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:47
-msgctxt Social/Friends/UI/Headers/InvitePrompt
+msgctxt "Social/Friends/UI/Headers/InvitePrompt"
 msgid "Send Friend Request"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:48
-msgctxt Social/Friends/UI/Headers/SentRequests
+msgctxt "Social/Friends/UI/Headers/SentRequests"
 msgid "Sent Requests"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:49
-msgctxt Social/Friends/UI/Subheader/InvitePrompt
+msgctxt "Social/Friends/UI/Subheader/InvitePrompt"
 msgid "Input your friend's display name or email address below."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:50
-msgctxt Social/Notifications/AcceptInvite
+msgctxt "Social/Notifications/AcceptInvite"
 msgid "Accept Invite"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:51
-msgctxt Social/Notifications/BrawlChallengeIn
+msgctxt "Social/Notifications/BrawlChallengeIn"
 msgid "Let's play Brawl."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:52
-msgctxt Social/Notifications/FriendInviteIn
+msgctxt "Social/Notifications/FriendInviteIn"
 msgid "Let's be friends."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:53
-msgctxt Social/Notifications/GameChallengeIn
+msgctxt "Social/Notifications/GameChallengeIn"
 msgid "Let's play a best-of-one game."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:54
-msgctxt Social/Notifications/MatchChallengeIn
+msgctxt "Social/Notifications/MatchChallengeIn"
 msgid "Let's play a best-of-three game."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:55
-msgctxt Social/Notifications/TournamentChallengeIn
+msgctxt "Social/Notifications/TournamentChallengeIn"
 msgid "Let's play a Tournament game."
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:56
-msgctxt Social/Notifications/ViewChallenge
+msgctxt "Social/Notifications/ViewChallenge"
 msgid "View Challenge"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:57
-msgctxt Social/Presence/Available
+msgctxt "Social/Presence/Available"
 msgid "Available"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:58
-msgctxt Social/Presence/Detail_Challengeable
+msgctxt "Social/Presence/Detail_Challengeable"
 msgid "Challengeable"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:59
-msgctxt Social/Presence/Detail_Collection
+msgctxt "Social/Presence/Detail_Collection"
 msgid "Browsing Collection"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:60
-msgctxt Social/Presence/Detail_Deckbuilding
+msgctxt "Social/Presence/Detail_Deckbuilding"
 msgid "Deckbuilding"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:61
-msgctxt Social/Presence/Detail_DeckSelect
+msgctxt "Social/Presence/Detail_DeckSelect"
 msgid "Deck Selection"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:62
-msgctxt Social/Presence/Detail_Drafting
+msgctxt "Social/Presence/Detail_Drafting"
 msgid "Drafting"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:63
-msgctxt Social/Presence/Detail_Event
+msgctxt "Social/Presence/Detail_Event"
 msgid "On Event Page"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:64
-msgctxt Social/Presence/Detail_Home
+msgctxt "Social/Presence/Detail_Home"
 msgid "Home"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:65
-msgctxt Social/Presence/Detail_Idle
+msgctxt "Social/Presence/Detail_Idle"
 msgid "Idle"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:66
-msgctxt Social/Presence/Detail_InMatch
+msgctxt "Social/Presence/Detail_InMatch"
 msgid "In Match"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:67
-msgctxt Social/Presence/Detail_Joining
+msgctxt "Social/Presence/Detail_Joining"
 msgid "Joining Match"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:68
-msgctxt Social/Presence/Detail_MatchMaking
+msgctxt "Social/Presence/Detail_MatchMaking"
 msgid "Matchmaking"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:69
-msgctxt Social/Presence/Detail_OpeningPacks
+msgctxt "Social/Presence/Detail_OpeningPacks"
 msgid "Opening Packs"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:70
-msgctxt Social/Presence/Detail_PackPick
+msgctxt "Social/Presence/Detail_PackPick"
 msgid "Pack {pack} | Pick {pick}"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:71
-msgctxt Social/Presence/Detail_Rejoining
+msgctxt "Social/Presence/Detail_Rejoining"
 msgid "Rejoining Match"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:72
-msgctxt Social/Presence/Detail_Scrying
+msgctxt "Social/Presence/Detail_Scrying"
 msgid "Scrying"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:73
-msgctxt Social/Presence/Detail_Sideboarding
+msgctxt "Social/Presence/Detail_Sideboarding"
 msgid "Sideboarding"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:74
-msgctxt Social/Presence/Detail_Store
+msgctxt "Social/Presence/Detail_Store"
 msgid "Browsing Store"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:75
-msgctxt Social/Presence/Detail_Unchallengeable
+msgctxt "Social/Presence/Detail_Unchallengeable"
 msgid "Busy"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:76
-msgctxt Social/Presence/IncomingChallenge
+msgctxt "Social/Presence/IncomingChallenge"
 msgid "Incoming Challenge"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:77
-msgctxt Social/Presence/OutgoingChallenge
+msgctxt "Social/Presence/OutgoingChallenge"
 msgid "Challenging"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:78
-msgctxt Social/Presence/Status_Constructed
+msgctxt "Social/Presence/Status_Constructed"
 msgid "Constructed"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:79
-msgctxt Social/Presence/Status_ConstructedEvent
+msgctxt "Social/Presence/Status_ConstructedEvent"
 msgid "Constructed Event"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:80
-msgctxt Social/Presence/Status_DirectChallenge
+msgctxt "Social/Presence/Status_DirectChallenge"
 msgid "Direct Challenge"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:81
-msgctxt Social/Presence/Status_Draft
+msgctxt "Social/Presence/Status_Draft"
 msgid "Draft"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:82
-msgctxt Social/Presence/Status_InMenus
+msgctxt "Social/Presence/Status_InMenus"
 msgid "In Menus"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:83
-msgctxt Social/Presence/Status_Limited
+msgctxt "Social/Presence/Status_Limited"
 msgid "Limited Event"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:84
-msgctxt Social/Presence/Status_Ranked
+msgctxt "Social/Presence/Status_Ranked"
 msgid "Ranked: {format}"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:85
-msgctxt Social/Presence/Status_Sealed
+msgctxt "Social/Presence/Status_Sealed"
 msgid "Sealed"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:86
-msgctxt Social/Presence/Status_Special
+msgctxt "Social/Presence/Status_Special"
 msgid "Special Event"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:87
-msgctxt Social/Presence/Status_Tutorial
+msgctxt "Social/Presence/Status_Tutorial"
 msgid "Tutorial"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:88
-msgctxt Social/Presence/Title_Arena
+msgctxt "Social/Presence/Title_Arena"
 msgid "Magic: The Gathering Arena"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:89
-msgctxt Social/Presence/Title_ArenaShort
+msgctxt "Social/Presence/Title_ArenaShort"
 msgid "MTG Arena"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:90
-msgctxt Social/Presence/Tooltip_ConstructedRank
+msgctxt "Social/Presence/Tooltip_ConstructedRank"
 msgid "Constructed Rank: {rank}"
 msgstr ""
 
-
-#: loc_Social_f45a4f6acee80de668c31f2a02bcb588.mtga:91
-msgctxt Social/Presence/Tooltip_LimitedRank
+msgctxt "Social/Presence/Tooltip_LimitedRank"
 msgid "Limited Rank: {rank}"
 msgstr ""
-
-
