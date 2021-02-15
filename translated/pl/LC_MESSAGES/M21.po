@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-15 07:34+0000\n"
+"PO-Revision-Date: 2021-02-15 07:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -72,6 +72,8 @@ msgstr ""
 #: ../../M21.rst:1199
 msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
+"Więź życia (Obrażania zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo żyć.)"
 
 #: ../../M21.rst:27
 msgid "|mana_4|\\ |mana_w|: Anointed Chorister gets +3/+3 until end of turn."
@@ -189,6 +191,8 @@ msgstr "Błysk"
 #: ../../M21.rst:77
 msgid "If a nontoken creature would enter the battlefield and it wasn't cast, exile it instead."
 msgstr ""
+"Jeśli nieżetonowy stwór miałby wejść na pole walki, a nie został rzucony, "
+"zamiast tego wygnaj go."
 
 #: ../../M21.rst:82
 msgid ":mtgtip:`Daybreak Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff87a671-054f-4357-8a62-450d36559a1b.jpg?1594734866|https://scryfall.com/card/m21/14/daybreak-charger?utm_source=api>`"
@@ -204,7 +208,7 @@ msgstr ""
 
 #: ../../M21.rst:85
 msgid "Target creature gets +1/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0."
 
 #: ../../M21.rst:87
 #: ../../M21.rst:177
@@ -243,11 +247,13 @@ msgstr "Zaurocz permanent"
 
 #: ../../M21.rst:99
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 4 życia."
 
 #: ../../M21.rst:101
 msgid "Enchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities."
 msgstr ""
+"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
+"zdolności nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../M21.rst:106
 msgid ":mtgtip:`Falconer Adept<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb4733e6-6fe2-4460-ac9f-82feb583d790.jpg?1594734928|https://scryfall.com/card/m21/18/falconer-adept?utm_source=api>`"
@@ -279,7 +285,7 @@ msgstr ""
 
 #: ../../M21.rst:119
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../M21.rst:124
 msgid ":mtgtip:`Griffin Aerie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ea1ee60-5644-4f78-913d-32c36065957f.jpg?1594734998|https://scryfall.com/card/m21/22/griffin-aerie?utm_source=api>`"
@@ -316,6 +322,8 @@ msgstr ""
 #: ../../M21.rst:139
 msgid "Enchanted creature has \"Whenever you gain life, put that many +1/+1 counters on this creature.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć zyskasz życie, umieść tyle samo znaczników +1/+"
+"1 na tym stworze.\""
 
 #: ../../M21.rst:144
 msgid ":mtgtip:`Makeshift Battalion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31a500e6-01f5-4a3a-8839-68b9b515e919.jpg?1594735061|https://scryfall.com/card/m21/26/makeshift-battalion?utm_source=api>`"
@@ -324,6 +332,8 @@ msgstr ""
 #: ../../M21.rst:143
 msgid "Whenever Makeshift Battalion and at least two other creatures attack, put a +1/+1 counter on Makeshift Battalion."
 msgstr ""
+"Ilekroć ten stwór zaatakuje razem z co najmniej dwoma innymi stworami, "
+"umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../M21.rst:152
 msgid ":mtgtip:`Mangara, the Diplomat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b4e628f-5fc5-4c17-a07d-448d361d7e7c.jpg?1594735076|https://scryfall.com/card/m21/27/mangara-the-diplomat?utm_source=api>`"
@@ -347,7 +357,7 @@ msgstr ""
 
 #: ../../M21.rst:155
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: ../../M21.rst:157
 msgid "If a source would deal damage to you, prevent that damage and put an incarnation counter on Nine Lives."
@@ -396,7 +406,7 @@ msgstr ""
 
 #: ../../M21.rst:181
 msgid "As Runed Halo enters the battlefield, choose a card name."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki, wybierz nazwę karty."
 
 #: ../../M21.rst:183
 msgid "You have protection from the chosen card name. (You can't be targeted, dealt damage, or enchanted by anything with that name.)"
@@ -454,7 +464,7 @@ msgstr ""
 
 #: ../../M21.rst:209
 msgid "Vigilance, lifelink"
-msgstr ""
+msgstr "Czujność, więź życia"
 
 #: ../../M21.rst:211
 msgid "|tap|: Create a 4/4 white Angel creature token with flying. Activate this ability only if you have at least 7 life more than your starting life total and only any time you could cast a sorcery."
@@ -498,7 +508,7 @@ msgstr ""
 
 #: ../../M21.rst:237
 msgid "Noncreature spells cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie nie-stworowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../M21.rst:244
 msgid ":mtgtip:`Warded Battlements<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f234999b-54e9-40f5-a537-7d6ce169c710.jpg?1594735384|https://scryfall.com/card/m21/44/warded-battlements?utm_source=api>`"
@@ -513,7 +523,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../M21.rst:243
 msgid "Attacking creatures you control get +1/+0."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0."
 
 #: ../../M21.rst:250
 msgid ":mtgtip:`Barrin, Tolarian Archmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb078fbb-beb9-4c0b-be93-ed1e73e6f8d8.jpg?1594735404|https://scryfall.com/card/m21/45/barrin-tolarian-archmage?utm_source=api>`"
@@ -622,10 +632,14 @@ msgstr ""
 #: ../../M21.rst:833
 msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
+"tury +1/+1.)"
 
 #: ../../M21.rst:299
 msgid "Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 #: ../../M21.rst:304
 msgid ":mtgtip:`Keen Glidemaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cce6289e-f665-4faa-8285-c843447f3e52.jpg?1594735543|https://scryfall.com/card/m21/54/keen-glidemaster?utm_source=api>`"
@@ -670,6 +684,8 @@ msgstr ""
 #: ../../M21.rst:325
 msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
+"spodzie twojej biblioteki.)"
 
 #: ../../M21.rst:334
 msgid ":mtgtip:`Pursued Whale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1501118-5837-49b5-9446-0bc3032035ca.jpg?1594735617|https://scryfall.com/card/m21/60/pursued-whale?utm_source=api>`"
@@ -689,7 +705,7 @@ msgstr ""
 
 #: ../../M21.rst:337
 msgid "Draw three cards, then discard a card."
-msgstr ""
+msgstr "Dobierz trzy karty, następnie odrzuć kartę."
 
 #: ../../M21.rst:346
 msgid ":mtgtip:`Read the Tides<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/5360fe8c-41b0-4409-b03e-072f129fb352.jpg?1594735644|https://scryfall.com/card/m21/62/read-the-tides?utm_source=api>`"
@@ -725,6 +741,8 @@ msgstr ""
 #: ../../M21.rst:353
 msgid "Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn."
 msgstr ""
+"Ilekroć rzucisz nie-stworowy czar, możesz sprawić, by ten urok do końca tury "
+"stał się stworem Sfinks 3/3 z lataniem oprócz swoich pozostałych typów."
 
 #: ../../M21.rst:355
 msgid "|mana_2|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
@@ -828,7 +846,7 @@ msgstr ""
 
 #: ../../M21.rst:415
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedno lub więcej —"
 
 #: ../../M21.rst:419
 msgid "Counter target activated or triggered ability."
@@ -840,7 +858,7 @@ msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
 
 #: ../../M21.rst:423
 msgid "Create a token that's a copy of target creature you control."
-msgstr ""
+msgstr "Stwórz żeton będący kopią wskazanego stwora pod twoim władaniem."
 
 #: ../../M21.rst:425
 msgid "Target player draws a card."
@@ -856,7 +874,7 @@ msgstr ""
 
 #: ../../M21.rst:431
 msgid "+1: Draw a card, then discard a card."
-msgstr ""
+msgstr "+1: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../M21.rst:433
 msgid "−3: Target creature you don't control phases out. (Treat it and anything attached to it as though they don't exist until its controller's next turn.)"
@@ -873,6 +891,8 @@ msgstr ""
 #: ../../M21.rst:439
 msgid "If you would draw a card except the first one you draw in each of your draw steps, draw two cards instead."
 msgstr ""
+"Jeśli miałbyś dobrać kartę oprócz pierwszej dobranej w każdym z twoich "
+"kroków dobierania, zamiast tego dobierz dwie karty."
 
 #: ../../M21.rst:444
 msgid ":mtgtip:`Teferi's Protege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/5449d71c-5c1b-44c6-9407-0212aa3c3e3a.jpg?1594735829|https://scryfall.com/card/m21/77/teferis-protege?utm_source=api>`"
@@ -880,7 +900,7 @@ msgstr ""
 
 #: ../../M21.rst:443
 msgid "|mana_1|\\ |mana_u|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../M21.rst:450
 msgid ":mtgtip:`Teferi's Tutelage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c26450d4-125f-423d-b074-3c959460c242.jpg?1594735840|https://scryfall.com/card/m21/78/teferis-tutelage?utm_source=api>`"
@@ -924,7 +944,7 @@ msgstr ""
 
 #: ../../M21.rst:467
 msgid "Return target spell or creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany czar lub stwora do ręki właściciela."
 
 #: ../../M21.rst:472
 msgid ":mtgtip:`Vodalian Arcanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a52e90c0-b012-4ce5-8462-1e33c7143de5.jpg?1594735900|https://scryfall.com/card/m21/83/vodalian-arcanist?utm_source=api>`"
@@ -933,6 +953,8 @@ msgstr ""
 #: ../../M21.rst:471
 msgid "|tap|: Add |colorless|. Spend this mana only to cast an instant or sorcery spell."
 msgstr ""
+"|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
+"obrzędu."
 
 #: ../../M21.rst:478
 msgid ":mtgtip:`Waker of Waves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abb47990-a5a9-4a22-a8bb-d229b17132c6.jpg?1594735910|https://scryfall.com/card/m21/84/waker-of-waves?utm_source=api>`"
@@ -940,7 +962,7 @@ msgstr ""
 
 #: ../../M21.rst:475
 msgid "Creatures your opponents control get -1/-0."
-msgstr ""
+msgstr "Stwory pod władaniem twoich przeciwników dostają -1/-0."
 
 #: ../../M21.rst:477
 msgid "|mana_1|\\ |mana_u|, Discard Waker of Waves: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
@@ -1020,7 +1042,7 @@ msgstr ""
 
 #: ../../M21.rst:523
 msgid "When Deathbloom Thallid dies, create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../M21.rst:532
 msgid ":mtgtip:`Demonic Embrace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56149192-ddc1-45a4-b7aa-be311da5fe8e.jpg?1594736081|https://scryfall.com/card/m21/95/demonic-embrace?utm_source=api>`"
@@ -1059,6 +1081,8 @@ msgstr ""
 #: ../../M21.rst:545
 msgid "|mana_b|: Fetid Imp gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"|mana_b|: Ten stwór zyskuje dotyk śmierci do końca tury. (Stwór otrzymujący "
+"od niego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../M21.rst:550
 msgid ":mtgtip:`Finishing Blow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b85a552-2119-4d9c-b7c1-c09c2d9f2f38.jpg?1594736130|https://scryfall.com/card/m21/99/finishing-blow?utm_source=api>`"
@@ -1092,6 +1116,8 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 #: ../../M21.rst:1601
 msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../M21.rst:563
 msgid "When Goremand enters the battlefield, each opponent sacrifices a creature."
@@ -1103,7 +1129,7 @@ msgstr ""
 
 #: ../../M21.rst:567
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../M21.rst:572
 msgid ":mtgtip:`Grim Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/928558ab-e29a-44cb-ac2f-88443571f41a.jpg?1594736179|https://scryfall.com/card/m21/103/grim-tutor?utm_source=api>`"
@@ -1136,6 +1162,7 @@ msgstr ""
 #: ../../M21.rst:585
 msgid "Enchanted creature gets +2/+0 and has \"When this creature dies, draw a card.\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+0 i ma \"Kiedy ten stwór umrze, dobierz kartę.\""
 
 #: ../../M21.rst:590
 msgid ":mtgtip:`Kaervek, the Spiteful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0fd1009-cd3d-4b53-b9f1-dbc47e8708ab.jpg?1594736203|https://scryfall.com/card/m21/106/kaervek-the-spiteful?utm_source=api>`"
@@ -1152,6 +1179,9 @@ msgstr ""
 #: ../../M21.rst:595
 msgid "When Kitesail Freebooter enters the battlefield, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until Kitesail Freebooter leaves the battlefield."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"rękę. Wybierz z niej kartę nie będącą stworem ani lądem. Wygnaj ową kartę "
+"dopóki ta karta nie opuści pola walki."
 
 #: ../../M21.rst:604
 msgid ":mtgtip:`Liliana, Waker of the Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e329a3e2-6702-4758-8aac-c3017e77b619.jpg?1594739061|https://scryfall.com/card/m21/108/liliana-waker-of-the-dead?utm_source=api>`"
@@ -1246,7 +1276,7 @@ msgstr ""
 
 #: ../../M21.rst:645
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../M21.rst:650
 msgid ":mtgtip:`Necromentia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32c5252e-ff15-4f86-ad63-d8286427e70f.jpg?1594736316|https://scryfall.com/card/m21/116/necromentia?utm_source=api>`"
@@ -1270,7 +1300,7 @@ msgstr ""
 
 #: ../../M21.rst:659
 msgid "All creatures get -2/-2 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają do końca tury -2/-2."
 
 #: ../../M21.rst:661
 msgid "Remove two loyalty counters from each planeswalker."
@@ -1303,6 +1333,8 @@ msgstr ""
 #: ../../M21.rst:675
 msgid "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../M21.rst:682
 msgid ":mtgtip:`Silversmote Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff5444cb-0ecd-4482-a8d8-09332f382dbd.jpg?1594736374|https://scryfall.com/card/m21/122/silversmote-ghoul?utm_source=api>`"
@@ -1323,6 +1355,7 @@ msgstr ""
 #: ../../M21.rst:685
 msgid "When Skeleton Archer enters the battlefield, it deals 1 damage to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M21.rst:690
 msgid ":mtgtip:`Tavern Swindler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00850e4-6be3-4246-ae45-c0e990e6d6e1.jpg?1594736401|https://scryfall.com/card/m21/124/tavern-swindler?utm_source=api>`"
@@ -1330,7 +1363,7 @@ msgstr ""
 
 #: ../../M21.rst:689
 msgid "|tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
-msgstr ""
+msgstr "|tap|, zapłać 3 życia: Rzuć monetą. Jeśli wygrasz rzut, zyskaj 6 żyć."
 
 #: ../../M21.rst:698
 msgid ":mtgtip:`Thieves' Guild Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df99f770-2c39-4025-a8a2-a5890f61eb53.jpg?1594736416|https://scryfall.com/card/m21/125/thieves-guild-enforcer?utm_source=api>`"
@@ -1435,7 +1468,7 @@ msgstr ""
 
 #: ../../M21.rst:745
 msgid "Creatures you control get +2/+0 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../M21.rst:754
 msgid ":mtgtip:`Chandra, Heart of Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c3ca8c-c77c-43b8-84ad-796313ecc813.jpg?1594752360|https://scryfall.com/card/m21/135/chandra-heart-of-fire?utm_source=api>`"
@@ -1508,6 +1541,9 @@ msgstr ""
 #: ../../M21.rst:781
 msgid "Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"Stwory pod twoim władaniem zyskują tratowanie do końca tury. (Stwór z "
+"tratowaniem może zadać nadwyżkę obrażeń bojowych atakowanemu graczowi lub "
+"wędrowcowi.)"
 
 #: ../../M21.rst:792
 msgid ":mtgtip:`Destructive Tampering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfe6a3a9-8d62-47c4-a78b-9baa9133a540.jpg?1594736589|https://scryfall.com/card/m21/141/destructive-tampering?utm_source=api>`"
@@ -1555,7 +1591,7 @@ msgstr ""
 
 #: ../../M21.rst:809
 msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej walce, jeśli może."
 
 #: ../../M21.rst:818
 msgid ":mtgtip:`Gadrak, the Crown-Scourge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44b83bb7-00c8-4078-b27f-42a830a544b5.jpg?1594736636|https://scryfall.com/card/m21/146/gadrak-the-crown-scourge?utm_source=api>`"
@@ -1647,7 +1683,7 @@ msgstr ""
 
 #: ../../M21.rst:867
 msgid "When Pitchburn Devils dies, it deals 3 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../M21.rst:872
 msgid ":mtgtip:`Sanctum of Shattered Heights<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/482ae7f4-3950-4766-8392-eea753e29426.jpg?1594736748|https://scryfall.com/card/m21/157/sanctum-of-shattered-heights?utm_source=api>`"
@@ -1664,6 +1700,8 @@ msgstr ""
 #: ../../M21.rst:875
 msgid "Scorching Dragonfire deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia. Jeśli ów "
+"stwór lub wędrowiec miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../M21.rst:880
 msgid ":mtgtip:`Shock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59fa8e8d-bcb8-47bf-b71a-df11c8d0f2c9.jpg?1594736765|https://scryfall.com/card/m21/159/shock?utm_source=api>`"
@@ -1688,6 +1726,7 @@ msgstr ""
 #: ../../M21.rst:887
 msgid "Whenever you cast a noncreature spell, put a +1/+1 counter on Spellgorger Weird."
 msgstr ""
+"Ilekroć rzucisz nie-stworowy czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../M21.rst:896
 msgid ":mtgtip:`Subira, Tulzidi Caravanner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/034b8d6d-95ea-434a-967a-e6675a7ce88a.jpg?1594736791|https://scryfall.com/card/m21/162/subira-tulzidi-caravanner?utm_source=api>`"
@@ -1773,6 +1812,8 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 #: ../../M21.rst:931
 msgid "When Turret Ogre enters the battlefield, if you control another creature with power 4 or greater, Turret Ogre deals 2 damage to each opponent."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym stworem o sile 4 "
+"lub większej, niniejszy stwór zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../M21.rst:936
 msgid ":mtgtip:`Unleash Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e854e6a3-8684-43fa-9560-ef4c3b62c935.jpg?1594736861|https://scryfall.com/card/m21/170/unleash-fury?utm_source=api>`"
@@ -1788,7 +1829,7 @@ msgstr ""
 
 #: ../../M21.rst:939
 msgid "Volcanic Geyser deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 #: ../../M21.rst:946
 msgid ":mtgtip:`Volcanic Salvo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a31b6817-9b63-4d6f-a945-459b44ad184c.jpg?1594736877|https://scryfall.com/card/m21/172/volcanic-salvo?utm_source=api>`"
@@ -1797,6 +1838,8 @@ msgstr ""
 #: ../../M21.rst:943
 msgid "This spell costs |mana_x| less to cast, where X is the total power of creatures you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą sił stworów "
+"pod twoim władaniem."
 
 #: ../../M21.rst:945
 msgid "Volcanic Salvo deals 6 damage to each of up to two target creatures and/or planeswalkers."
@@ -1856,7 +1899,7 @@ msgstr ""
 
 #: ../../M21.rst:977
 msgid "Vigilance, reach, trample"
-msgstr ""
+msgstr "Czujność, zasięg, tratowanie"
 
 #: ../../M21.rst:979
 msgid "Whenever Elder Gargaroth attacks or blocks, choose one —"
@@ -1941,6 +1984,8 @@ msgstr ""
 #: ../../M21.rst:1025
 msgid "Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card."
 msgstr ""
+"Ilekroć stwór o sile 4 lub większej wejdzie na pole walki pod twoim "
+"władaniem, dobierz kartę."
 
 #: ../../M21.rst:1032
 msgid ":mtgtip:`Gnarled Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f22116a-8b6a-4bbe-999f-7329e1e2b2d9.jpg?1594737027|https://scryfall.com/card/m21/187/gnarled-sage?utm_source=api>`"
@@ -1995,6 +2040,7 @@ msgstr ""
 #: ../../M21.rst:1053
 msgid "You gain 4 life. If a creature died this turn, you gain 8 life instead."
 msgstr ""
+"Zyskaj 4 życia. Jeśli w tej turze zginął stwór, zamiast tego zyskaj 8 żyć."
 
 #: ../../M21.rst:1060
 msgid ":mtgtip:`Llanowar Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6e23afa-7e08-4049-baf0-d4d0134ba2c8.jpg?1594737093|https://scryfall.com/card/m21/193/llanowar-visionary?utm_source=api>`"
@@ -2028,7 +2074,7 @@ msgstr ""
 
 #: ../../M21.rst:1071
 msgid "|mana_2|, |tap|, Sacrifice a creature with defender: Draw a card."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć stwora z obronnością: Dobierz kartę."
 
 #: ../../M21.rst:1078
 msgid ":mtgtip:`Pridemalkin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df520254-0c72-496b-9222-263ca9d3c5d5.jpg?1594737133|https://scryfall.com/card/m21/196/pridemalkin?utm_source=api>`"
@@ -2065,6 +2111,9 @@ msgstr ""
 #: ../../M21.rst:1089
 msgid "Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1 oraz "
+"antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../M21.rst:1100
 msgid ":mtgtip:`Return to Nature<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f1b4490-d96d-4448-835b-6cc453c1f344.jpg?1594737172|https://scryfall.com/card/m21/200/return-to-nature?utm_source=api>`"
@@ -2109,6 +2158,8 @@ msgstr ""
 #: ../../M21.rst:1115
 msgid "|mana_g|: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life."
 msgstr ""
+"|mana_g|: Wygnaj wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
+"umieść znacznik +1/+1 na tym stworze i zyskaj 1 życie."
 
 #: ../../M21.rst:1124
 msgid ":mtgtip:`Setessan Training<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1947f64a-5ca0-4dda-8bbd-8472e72ecf18.jpg?1594737216|https://scryfall.com/card/m21/205/setessan-training?utm_source=api>`"
@@ -2116,7 +2167,7 @@ msgstr ""
 
 #: ../../M21.rst:1119
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../M21.rst:1121
 msgid "When Setessan Training enters the battlefield, draw a card."
@@ -2143,6 +2194,7 @@ msgstr ""
 #: ../../M21.rst:1135
 msgid "Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
 
 #: ../../M21.rst:1142
 msgid ":mtgtip:`Sporeweb Weaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6ab63c8-0adc-4d74-aee5-a58ce5c0dad8.jpg?1594737258|https://scryfall.com/card/m21/208/sporeweb-weaver?utm_source=api>`"
@@ -2162,7 +2214,7 @@ msgstr ""
 
 #: ../../M21.rst:1145
 msgid "|mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../M21.rst:1150
 msgid ":mtgtip:`Titanic Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6da62557-9783-4e6c-9b5f-2b77dbf96909.jpg?1594737277|https://scryfall.com/card/m21/210/titanic-growth?utm_source=api>`"
@@ -2350,7 +2402,7 @@ msgstr ""
 
 #: ../../M21.rst:1249
 msgid "Creature spells with flying you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów z lataniem kosztuje cię o |mana_1| mniej."
 
 #: ../../M21.rst:1251
 msgid "Whenever another creature with flying enters the battlefield under your control, Watcher of the Spheres gets +1/+1 until end of turn."
@@ -2387,6 +2439,8 @@ msgstr ""
 #: ../../M21.rst:1267
 msgid "|mana_2|: Put target card from your graveyard on the bottom of your library."
 msgstr ""
+"|mana_2|: Umieść wskazaną kartę z twojego cmentarza na spodzie twojej "
+"biblioteki."
 
 #: ../../M21.rst:1272
 msgid ":mtgtip:`Forgotten Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bd39a06-c53a-42c2-b2df-028358f03406.jpg?1594737496|https://scryfall.com/card/m21/231/forgotten-sentinel?utm_source=api>`"
@@ -2419,6 +2473,8 @@ msgstr ""
 #: ../../M21.rst:1283
 msgid "When Meteorite enters the battlefield, it deals 2 damage to any target."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../M21.rst:1285
 msgid "|tap|: Add one mana of any color."
@@ -2430,7 +2486,7 @@ msgstr ""
 
 #: ../../M21.rst:1289
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../M21.rst:1294
 msgid ":mtgtip:`Prismite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eedce8ab-771a-4247-9504-72ae0629df83.jpg?1594737532|https://scryfall.com/card/m21/235/prismite?utm_source=api>`"
@@ -2455,6 +2511,8 @@ msgstr ""
 #: ../../M21.rst:1303
 msgid "|mana_4|, |tap|, Sacrifice Silent Dart: It deals 3 damage to target creature."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu stworowi 3 "
+"obrażenia."
 
 #: ../../M21.rst:1310
 msgid ":mtgtip:`Skyscanner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cab69fbd-0179-4b02-adba-71d2a0eeea5c.jpg?1594737556|https://scryfall.com/card/m21/238/skyscanner?utm_source=api>`"
@@ -2462,7 +2520,7 @@ msgstr ""
 
 #: ../../M21.rst:1309
 msgid "When Skyscanner enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../M21.rst:1316
 msgid ":mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bbd2cab-538e-4932-a828-150e3e9d52ad.jpg?1594737564|https://scryfall.com/card/m21/239/solemn-simulacrum?utm_source=api>`"
@@ -2499,6 +2557,8 @@ msgstr ""
 #: ../../M21.rst:1329
 msgid "|tap|, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
+"gracza."
 
 #: ../../M21.rst:1336
 msgid ":mtgtip:`Animal Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8d7a2c7-666d-4fc6-bac8-ef8eb66e355d.jpg?1594737594|https://scryfall.com/card/m21/242/animal-sanctuary?utm_source=api>`"
@@ -2568,6 +2628,9 @@ msgstr ""
 #: ../../M21.rst:1363
 msgid "|tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę. "
+"Następnie jeśli władasz przynajmniej czterema lądami, odkręć ów ląd."
 
 #: ../../M21.rst:1372
 msgid ":mtgtip:`Jungle Hollow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69f28d7a-6480-4725-9719-2354921e6410.jpg?1594737643|https://scryfall.com/card/m21/247/jungle-hollow?utm_source=api>`"
@@ -2584,7 +2647,7 @@ msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
 #: ../../M21.rst:1371
 #: ../../M21.rst:1417
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../M21.rst:1378
 msgid ":mtgtip:`Radiant Fountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0296c34b-120b-483e-8b49-6d432c04f9a4.jpg?1594737654|https://scryfall.com/card/m21/248/radiant-fountain?utm_source=api>`"
@@ -2592,7 +2655,7 @@ msgstr ""
 
 #: ../../M21.rst:1375
 msgid "When Radiant Fountain enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 2 życia."
 
 #: ../../M21.rst:1386
 msgid ":mtgtip:`Rugged Highlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9daef8db-56a5-4b1e-b4bf-734d0516557c.jpg?1594737663|https://scryfall.com/card/m21/249/rugged-highlands?utm_source=api>`"
@@ -2650,11 +2713,11 @@ msgstr ""
 
 #: ../../M21.rst:1405
 msgid "Temple of Epiphany enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1407
 msgid "When Temple of Epiphany enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
 
 #: ../../M21.rst:1418
 msgid ":mtgtip:`Temple of Malady<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c97929f8-ae80-4b4a-9d9b-2f3c7605edc8.jpg?1594737701|https://scryfall.com/card/m21/253/temple-of-malady?utm_source=api>`"
@@ -2662,11 +2725,11 @@ msgstr ""
 
 #: ../../M21.rst:1413
 msgid "Temple of Malady enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1415
 msgid "When Temple of Malady enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
 
 #: ../../M21.rst:1426
 msgid ":mtgtip:`Temple of Mystery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81634185-eb67-4d13-8b82-a662b8c9a7f0.jpg?1594737710|https://scryfall.com/card/m21/254/temple-of-mystery?utm_source=api>`"
@@ -2674,11 +2737,11 @@ msgstr ""
 
 #: ../../M21.rst:1421
 msgid "Temple of Mystery enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1423
 msgid "When Temple of Mystery enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
 
 #: ../../M21.rst:1425
 #: ../../M21.rst:1449
@@ -2691,11 +2754,11 @@ msgstr ""
 
 #: ../../M21.rst:1429
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1431
 msgid "When Temple of Silence enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
 
 #: ../../M21.rst:1442
 msgid ":mtgtip:`Temple of Triumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2366499c-9d07-46bb-8488-6cd60056fa16.jpg?1594737727|https://scryfall.com/card/m21/256/temple-of-triumph?utm_source=api>`"
@@ -2703,11 +2766,11 @@ msgstr ""
 
 #: ../../M21.rst:1437
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../M21.rst:1439
 msgid "When Temple of Triumph enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
 
 #: ../../M21.rst:1441
 #: ../../M21.rst:1465
@@ -2856,7 +2919,7 @@ msgstr ""
 
 #: ../../M21.rst:1517
 msgid "+1: Draw a card."
-msgstr ""
+msgstr "+1: Dobierz kartę."
 
 #: ../../M21.rst:1519
 msgid "−3: Put target creature on top of its owner's library."
