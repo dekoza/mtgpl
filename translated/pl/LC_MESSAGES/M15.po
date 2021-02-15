@@ -3,23 +3,22 @@
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2020-03-02 21:27+0000\n"
+"PO-Revision-Date: 2021-02-15 19:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/m15/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m15/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "X-POOTLE-MTIME: 1419538900.448648\n"
 
 #: ../../M15.rst:5
@@ -3348,7 +3347,7 @@ msgstr ""
 # 905b510294214147b4674d8daabf3e09
 #: ../../M15.rst:1005
 msgid "Destroy target creature with flying."
-msgstr "Zniszcz wskazanego stwora z lataniem."
+msgstr "Zniszcz wskazanego stwora mającego latanie."
 
 #: ../../M15.rst:1010
 msgid ""
