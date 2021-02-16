@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-02-16 07:54+0000\n"
+"PO-Revision-Date: 2021-02-16 07:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/internal/"
 "pl/>\n"
@@ -17,7 +17,6 @@ msgstr ""
 "X-Generator: Weblate 4.4.2\n"
 
 #
-
 msgctxt "Ajani"
 msgid ""
 msgstr ""
@@ -2863,31 +2862,31 @@ msgstr ""
 
 msgctxt "MainNav/NavBar/NavBar_Decks_Text"
 msgid "Decks"
-msgstr ""
+msgstr "Talie"
 
 msgctxt "MainNav/NavBar/NavBar_Home_Text"
 msgid "Home"
-msgstr ""
+msgstr "Główna"
 
 msgctxt "MainNav/NavBar/NavBar_Mastery_Text"
 msgid "Mastery"
-msgstr ""
+msgstr "Mistrzostwo"
 
 msgctxt "MainNav/NavBar/NavBar_Packs_Text"
 msgid "Packs"
-msgstr ""
+msgstr "Paczki"
 
 msgctxt "MainNav/NavBar/NavBar_Profile_Text"
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgctxt "MainNav/NavBar/NavBar_Store_Text"
 msgid "Store"
-msgstr ""
+msgstr "Sklep"
 
 msgctxt "MainNav/NavBar/StoreDisabled_Tooltip"
 msgid "Store is currently unavailable"
-msgstr ""
+msgstr "Sklep jest chwilowo niedostępny"
 
 msgctxt "MainNav/NavBar/VaultProgress_Tooltip"
 msgid ""
@@ -2910,19 +2909,19 @@ msgstr ""
 
 msgctxt "MainNav/NavBar/WildcardsTooltip_MythicRare"
 msgid "{quantity} Mythic Rare"
-msgstr ""
+msgstr "{quantity} Mitycznych"
 
 msgctxt "MainNav/NavBar/WildcardsTooltip_Rare"
 msgid "{quantity} Rare"
-msgstr ""
+msgstr "{quantity} Rzadkich"
 
 msgctxt "MainNav/NavBar/WildcardsTooltip_SealedToken"
 msgid "{quantity} Sealed Entry"
-msgstr ""
+msgstr "{quantity} Biletów"
 
 msgctxt "MainNav/NavBar/WildcardsTooltip_Uncommon"
 msgid "{quantity} Uncommon"
-msgstr ""
+msgstr "{quantity} Niepospolitych"
 
 msgctxt "MainNav/NewTags/First_label"
 msgid "First"
