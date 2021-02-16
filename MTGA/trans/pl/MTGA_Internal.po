@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-02-16 07:59+0000\n"
+"PO-Revision-Date: 2021-02-16 19:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/internal/"
 "pl/>\n"
@@ -1231,7 +1231,7 @@ msgstr ""
 
 msgctxt "MainNav/BoosterChamber/Booster_Open_Failure"
 msgid "Unable to open booster. Please try again later."
-msgstr ""
+msgstr "Nie można otworzyć paczki. Proszę spróbować później."
 
 msgctxt "MainNav/BoosterChamber/Booster_Open_Unavailable"
 msgid "Booster not yet available to open."
@@ -1279,11 +1279,11 @@ msgstr ""
 
 msgctxt "MainNav/BoosterChamber/BoosterChamber_NoPacks"
 msgid "Get Packs"
-msgstr ""
+msgstr "Zdobądź paczki"
 
 msgctxt "MainNav/BoosterChamber/BoosterChamber_NoPacks_Warning"
 msgid "You have no packs to open."
-msgstr ""
+msgstr "Brak paczek do otworzenia."
 
 msgctxt "MainNav/BoosterChamber/BoosterChamber_Uncommons_Text"
 msgid "uncommons"
@@ -1299,7 +1299,7 @@ msgstr ""
 
 msgctxt "MainNav/BoosterChamber/Header_Title"
 msgid "Packs"
-msgstr ""
+msgstr "Paczki"
 
 msgctxt "MainNav/BoosterChamber/MessageContent_ConfirmOpenAll"
 msgid "Open all {0} {1} boosters?"
@@ -2484,7 +2484,7 @@ msgstr ""
 
 msgctxt "MainNav/Learn/Page_Title"
 msgid "Learn More"
-msgstr ""
+msgstr "Dowiedz się więcej"
 
 msgctxt "MainNav/Learn/Patch_Notes"
 msgid "Patch Notes"
@@ -2850,11 +2850,11 @@ msgstr ""
 
 msgctxt "MainNav/NavBar/Gems_Tooltip"
 msgid "Gems can be purchased in the store"
-msgstr ""
+msgstr "Gemy można kupić w sklepie"
 
 msgctxt "MainNav/NavBar/Gold_Tooltip"
 msgid "Earn gold by playing games and completing quests"
-msgstr ""
+msgstr "Zarabiaj złoto grając i wypełniając misje"
 
 msgctxt "MainNav/NavBar/Learn_Tooltip"
 msgid "Learn More"
@@ -2897,7 +2897,7 @@ msgstr ""
 
 msgctxt "MainNav/NavBar/WildcardsTooltip_Common"
 msgid "{quantity} Common"
-msgstr ""
+msgstr "{quantity} Pospolitych"
 
 msgctxt "MainNav/NavBar/WildcardsTooltip_DraftToken"
 msgid "{quantity} Player Draft Token"

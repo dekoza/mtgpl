@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-02-16 07:54+0000\n"
+"PO-Revision-Date: 2021-02-16 19:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/binary/"
 "pl/>\n"
@@ -17,7 +17,6 @@ msgstr ""
 "X-Generator: Weblate 4.4.2\n"
 
 #
-
 msgctxt "BanAnnouncement/Ban_Announcement_Body_BanUnBan"
 msgid ""
 "The following changes to the MTG Arena banned list have taken effect:\n"
@@ -1770,7 +1769,7 @@ msgstr ""
 
 msgctxt "MainNav/General/Empty_String"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "MainNav/General/ErrorTitle"
 msgid "Error"
@@ -1806,7 +1805,7 @@ msgstr ""
 
 msgctxt "MainNav/General/Simple_Number"
 msgid "{number}"
-msgstr ""
+msgstr "{number}"
 
 msgctxt "MainNav/General/Timers/DD_plural"
 msgid "{days} Days"
@@ -1930,7 +1929,7 @@ msgstr ""
 
 msgctxt "MainNav/General/X_Of_Y"
 msgid "{x}/{y}"
-msgstr ""
+msgstr "{x}/{y}"
 
 msgctxt "MainNav/General/XQuantityLabel"
 msgid "x{quantity}"
@@ -1938,33 +1937,35 @@ msgstr ""
 
 msgctxt "MainNav/Login/Acccount_Registered_Email_Feedback"
 msgid "Email address already registered with another account."
-msgstr ""
+msgstr "Ten adres email jest już przypisany do innego konta."
 
 msgctxt "MainNav/Login/Accept_TC"
 msgid "Please accept the terms and conditions to register."
-msgstr ""
+msgstr "Proszę zaakceptować regulamin, by móc się zarejestrować."
 
 msgctxt "MainNav/Login/Age_Requirement_Not_Met"
 msgid ""
 "This account cannot be created. Please contact Game Support for assistance. "
 "Error code 88."
 msgstr ""
+"To konto nie może zostać utworzone. Proszę skontaktować się z działem Game "
+"Support. Kod błędu 88."
 
 msgctxt "MainNav/Login/AlreadyHaveAccount"
 msgid "Already have an account?"
-msgstr ""
+msgstr "Masz już konto?"
 
 msgctxt "MainNav/Login/April"
 msgid "April"
-msgstr ""
+msgstr "Kwiecień"
 
 msgctxt "MainNav/Login/August"
 msgid "August"
-msgstr ""
+msgstr "Sierpień"
 
 msgctxt "MainNav/Login/Birth_Month"
 msgid "Birth Month"
-msgstr ""
+msgstr "Miesiąc urodzenia"
 
 msgctxt "MainNav/Login/Button_Closed_Beta_Migration_Help"
 msgid "Closed Beta Player?"
@@ -1980,46 +1981,52 @@ msgid ""
 "<u><b><link=https://company.wizards.com/policy>Privacy "
 "Policy</link></b></u>."
 msgstr ""
+"Klikając na ‘Wyślij' zgadzam się na <u><b><link=https://magic.wizards.com/"
+"mtgarena/terms>warunki usługi</link></b></u>, <u><b><link=https://company."
+"wizards.com/conduct>regulamin</link></b></u> oraz <u><b><link=https://company"
+".wizards.com/policy>politykę prywatności</link></b></u>."
 
 msgctxt "MainNav/Login/Code_Conduct"
 msgid "Code of Conduct,"
-msgstr ""
+msgstr "Regulamin,"
 
 msgctxt "MainNav/Login/Confirm_Email"
 msgid "Confirm your email"
-msgstr ""
+msgstr "Potwierdź swój email"
 
 msgctxt "MainNav/Login/Confirm_Email_Address"
 msgid "Confirm Email Address"
-msgstr ""
+msgstr "Potwierdź adres email"
 
 msgctxt "MainNav/Login/Confirm_Password"
 msgid "Confirm your Password"
-msgstr ""
+msgstr "Potwierdź swoje hasło"
 
 msgctxt "MainNav/Login/Contact_Support"
 msgid "Contact Support"
-msgstr ""
+msgstr "Kontakt z biurem obsługi"
 
 msgctxt "MainNav/Login/Continue"
 msgid "Continue"
-msgstr ""
+msgstr "Kontynuuj"
 
 msgctxt "MainNav/Login/Country"
 msgid "Country/region"
-msgstr ""
+msgstr "Kraj/region"
 
 msgctxt "MainNav/Login/Day"
 msgid "Day"
-msgstr ""
+msgstr "Dzień"
 
 msgctxt "MainNav/Login/December"
 msgid "December"
-msgstr ""
+msgstr "Grudzień"
 
 msgctxt "MainNav/Login/Default_Error_Message"
 msgid "A unexpected problem occurred (Error code: {code}). Please try again."
 msgstr ""
+"Wystąpił nieprzewidziany problem (Kod błędu: {code}). Proszę spróbować "
+"ponownie."
 
 msgctxt "MainNav/Login/Description_ClosedBetaMigration"
 msgid ""
@@ -2033,13 +2040,15 @@ msgstr ""
 
 msgctxt "MainNav/Login/Description_ForgotPassword"
 msgid "Click here and we'll send you a password reset e-mail."
-msgstr ""
+msgstr "Kliknij tutaj, a otrzymasz email do resetowania hasła."
 
 msgctxt "MainNav/Login/Description_Forums"
 msgid ""
 "Check server status, discuss the game, and chat with devs and other players "
 "about your experience."
 msgstr ""
+"Sprawdź status serwera, dyskutuj o grze i porozmawiaj z programistami i "
+"innymi graczami o swoich doświadczeniach."
 
 msgctxt "MainNav/Login/Description_Support"
 msgid ""
@@ -2049,71 +2058,71 @@ msgstr ""
 
 msgctxt "MainNav/Login/Details"
 msgid "Details."
-msgstr ""
+msgstr "Szczegóły."
 
 msgctxt "MainNav/Login/Display_Name"
 msgid "Display Name"
-msgstr ""
+msgstr "Nazwa wyświetlana"
 
 msgctxt "MainNav/Login/Display_Name_Moderated"
 msgid "Display name cannot contain banned words."
-msgstr ""
+msgstr "Nazwa wyświetlana nie może zawierać zakazanych słów."
 
 msgctxt "MainNav/Login/DisplayName_Length_Feedback"
 msgid "Display name must be 3-23 characters."
-msgstr ""
+msgstr "Nazwa wyświetlana musi mieć między 3 a 23 znaki."
 
 msgctxt "MainNav/Login/DisplayName_NotAvailable_Feedback"
 msgid "Display name not available."
-msgstr ""
+msgstr "Nazwa wyświetlana nie jest dostępna."
 
 msgctxt "MainNav/Login/Email_Address"
 msgid "Email Address"
-msgstr ""
+msgstr "Adres email"
 
 msgctxt "MainNav/Login/Email_Confirmation_Required"
 msgid "Email addresses do not match."
-msgstr ""
+msgstr "Adresy email nie są identyczne."
 
 msgctxt "MainNav/Login/Email_Not_Verified"
 msgid "Email not verified."
-msgstr ""
+msgstr "Email nie został zweryfikowany."
 
 msgctxt "MainNav/Login/Email_Required"
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Proszę podać poprawny adres email."
 
 msgctxt "MainNav/Login/Enter_Email"
 msgid "Enter your email address"
-msgstr ""
+msgstr "Podaj swój adres email"
 
 msgctxt "MainNav/Login/Enter_Valid_Birthdate_Feedback"
 msgid "Enter a valid birthdate to continue."
-msgstr ""
+msgstr "Wprowadź poprawną datę urodzenia, by móc kontynuować."
 
 msgctxt "MainNav/Login/Experience_Advanced"
 msgid "A lot"
-msgstr ""
+msgstr "Dużo"
 
 msgctxt "MainNav/Login/Experience_Intermediate"
 msgid "Some"
-msgstr ""
+msgstr "Trochę"
 
 msgctxt "MainNav/Login/Experience_Novice"
 msgid "Little to None"
-msgstr ""
+msgstr "Praktycznie nic"
 
 msgctxt "MainNav/Login/Experience_Question"
 msgid "How much Magic have you played?"
-msgstr ""
+msgstr "Jak dużo grasz w Magic?"
 
 msgctxt "MainNav/Login/February"
 msgid "February"
-msgstr ""
+msgstr "Luty"
 
 msgctxt "MainNav/Login/Forget_Your_Password"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Nie pamiętasz hasła?"
 
 msgctxt "MainNav/Login/ForgotCredentials_Description"
 msgid ""
@@ -2121,14 +2130,18 @@ msgid ""
 "\n"
 "Enter the e-mail you used to register your account, and we'll send you instructions to recover your account."
 msgstr ""
+"Nie pamiętasz hasła? Żaden problem! \n"
+"\n"
+"Wprowadź email użyty przy rejestracji konta, wyślemy na niego instrukcję "
+"odzyskania konta."
 
 msgctxt "MainNav/Login/GoBack"
 msgid "Go Back"
-msgstr ""
+msgstr "Wróć"
 
 msgctxt "MainNav/Login/Help"
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 msgctxt "MainNav/Login/Help_Description"
 msgid ""
@@ -2158,27 +2171,27 @@ msgstr ""
 
 msgctxt "MainNav/Login/January"
 msgid "January"
-msgstr ""
+msgstr "Styczeń"
 
 msgctxt "MainNav/Login/July"
 msgid "July"
-msgstr ""
+msgstr "Lipiec"
 
 msgctxt "MainNav/Login/June"
 msgid "June"
-msgstr ""
+msgstr "Czerwiec"
 
 msgctxt "MainNav/Login/Login"
 msgid "Log In"
-msgstr ""
+msgstr "Zaloguj się"
 
 msgctxt "MainNav/Login/March"
 msgid "March"
-msgstr ""
+msgstr "Marzec"
 
 msgctxt "MainNav/Login/May"
 msgid "May"
-msgstr ""
+msgstr "Maj"
 
 msgctxt "MainNav/Login/Minimum_Age_Feedback"
 msgid ""
@@ -2192,11 +2205,11 @@ msgstr ""
 
 msgctxt "MainNav/Login/November"
 msgid "November"
-msgstr ""
+msgstr "Listopad"
 
 msgctxt "MainNav/Login/October"
 msgid "October"
-msgstr ""
+msgstr "Październik"
 
 msgctxt "MainNav/Login/Old_Account_Feedback"
 msgid ""
@@ -2213,37 +2226,39 @@ msgstr ""
 
 msgctxt "MainNav/Login/Password"
 msgid "Password"
-msgstr ""
+msgstr "Hasło"
 
 msgctxt "MainNav/Login/Password_Character_Repeated_Three_Times_Feedback"
 msgid "Password cannot contain same character repeated 3 times"
-msgstr ""
+msgstr "Hasło nie może zawierać tego samego znaku powtórzonego 3 razy"
 
 msgctxt "MainNav/Login/Password_Confirmation_Required"
 msgid "Passwords don't match."
-msgstr ""
+msgstr "Hasła nie są identyczne."
 
 msgctxt "MainNav/Login/Password_Contains_Display_Name_Feedback"
 msgid "Password cannot be based on display name"
-msgstr ""
+msgstr "Hasło nie może bazować na wyświetlanej nazwie"
 
 msgctxt "MainNav/Login/Password_Contains_Email_Feedback"
 msgid "Password cannot be based on email address"
-msgstr ""
+msgstr "Hasło nie może bazować na adresie email"
 
 msgctxt "MainNav/Login/Password_Length_Feedback"
 msgid "Password must be 8-64 characters."
-msgstr ""
+msgstr "Hasło musi zawierać od 8 do 64 znaków."
 
 msgctxt "MainNav/Login/Password_Required"
 msgid "Please enter a password."
-msgstr ""
+msgstr "Proszę podać hasło."
 
 msgctxt "MainNav/Login/Password_Too_Simple"
 msgid ""
 "Password too simple. Try increasing length and/or combining numbers, "
 "symbols, or upper and lowercase characters."
 msgstr ""
+"Zbyt łatwe hasło. Spróbuj zwiększyć jego długość lub dodaj liczby, symbole "
+"albo litery różnej wielkości."
 
 msgctxt "MainNav/Login/PasswordRules"
 msgid ""
@@ -2258,15 +2273,15 @@ msgstr ""
 
 msgctxt "MainNav/Login/Passwords_Dont_Match"
 msgid "Passwords don't match."
-msgstr ""
+msgstr "Hasła nie są identyczne."
 
 msgctxt "MainNav/Login/Please_Enter_Password"
 msgid "Please enter your password."
-msgstr ""
+msgstr "Proszę podać swoje hasło."
 
 msgctxt "MainNav/Login/Please_Try_Again"
 msgid "Please try again."
-msgstr ""
+msgstr "Proszę spróbować ponownie."
 
 msgctxt "MainNav/Login/Powered_By_WAcc"
 msgid "POWERED BY <B>WIZARDS ACCOUNTS</B>"
@@ -2284,11 +2299,11 @@ msgstr ""
 
 msgctxt "MainNav/Login/Recover"
 msgid "Recover"
-msgstr ""
+msgstr "Odzyskiwanie"
 
 msgctxt "MainNav/Login/Recover_Your_Account"
 msgid "Recover Your Account"
-msgstr ""
+msgstr "Odzyskaj swoje konto"
 
 msgctxt "MainNav/Login/Recovery_Email_Couldnt_Send_Feedback"
 msgid "Recovery e-mail could not be sent."
@@ -2338,7 +2353,7 @@ msgstr ""
 
 msgctxt "MainNav/Login/September"
 msgid "September"
-msgstr ""
+msgstr "Wrzesień"
 
 msgctxt "MainNav/Login/ShareData"
 msgid ""
@@ -2353,11 +2368,11 @@ msgstr ""
 
 msgctxt "MainNav/Login/Submit"
 msgid "Submit"
-msgstr ""
+msgstr "Wyślij"
 
 msgctxt "MainNav/Login/TC_And"
 msgid "and"
-msgstr ""
+msgstr "oraz"
 
 msgctxt "MainNav/Login/Terms_Conditions"
 msgid "Terms and Conditions,"
@@ -2384,7 +2399,7 @@ msgstr ""
 
 msgctxt "MainNav/NavBar/Settings_Tooltip"
 msgid "Adjust Options"
-msgstr ""
+msgstr "Dopasuj opcje"
 
 msgctxt "MainNav/NumberOfBytes"
 msgid "{quantity} bytes"
@@ -2404,11 +2419,11 @@ msgstr ""
 
 msgctxt "MainNav/Popups/LoadingPanel_LoadingText"
 msgid "Loading..."
-msgstr ""
+msgstr "Ładowanie..."
 
 msgctxt "MainNav/Popups/LoadingPanel_OutgoingMessageQueuingText"
 msgid "Waiting for the Server..."
-msgstr ""
+msgstr "Czekam na serwer..."
 
 msgctxt "MainNav/Popups/Modal/ModalOptions_Cancel"
 msgid "Cancel"
@@ -2416,15 +2431,15 @@ msgstr ""
 
 msgctxt "MainNav/Popups/Modal/ModalOptions_DiscardAndExit"
 msgid "Discard & Exit"
-msgstr ""
+msgstr "Odrzuć i wyjdź"
 
 msgctxt "MainNav/Popups/Modal/ModalOptions_OK"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "MainNav/Popups/Modal/ModalOptions_SaveAndExit"
 msgid "Save & Exit"
-msgstr ""
+msgstr "Zapisz i wyjdź"
 
 msgctxt "MainNav/Settings/Account/VerboseLogs_Label"
 msgid "Detailed Logs (Plugin Support)"
@@ -2488,47 +2503,47 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Debug/Language_de"
 msgid "German"
-msgstr ""
+msgstr "Niemiecki"
 
 msgctxt "MainNav/Settings/Debug/Language_en"
 msgid "English"
-msgstr ""
+msgstr "Angielski/Polski"
 
 msgctxt "MainNav/Settings/Debug/Language_es"
 msgid "Spanish"
-msgstr ""
+msgstr "Hiszpański"
 
 msgctxt "MainNav/Settings/Debug/Language_fr"
 msgid "French"
-msgstr ""
+msgstr "Francuski"
 
 msgctxt "MainNav/Settings/Debug/Language_it"
 msgid "Italian"
-msgstr ""
+msgstr "Włoski"
 
 msgctxt "MainNav/Settings/Debug/Language_ja"
 msgid "Japanese"
-msgstr ""
+msgstr "Japoński"
 
 msgctxt "MainNav/Settings/Debug/Language_ko"
 msgid "Korean"
-msgstr ""
+msgstr "Koreański"
 
 msgctxt "MainNav/Settings/Debug/Language_pt-BR"
 msgid "Portuguese (Brazil)"
-msgstr ""
+msgstr "Portugalski (Brazylia)"
 
 msgctxt "MainNav/Settings/Debug/Language_ru"
 msgid "Russian"
-msgstr ""
+msgstr "Rosyjski"
 
 msgctxt "MainNav/Settings/Debug/Language_zh-CN"
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Chiński uproszczony"
 
 msgctxt "MainNav/Settings/Debug/Language_zh-TW"
 msgid "Chinese Traditional"
-msgstr ""
+msgstr "Chiński tradycyjny"
 
 msgctxt "MainNav/Settings/Debug/Language_zu"
 msgid "TEST_50Longer"
@@ -2548,7 +2563,7 @@ msgstr ""
 
 msgctxt "MainNav/Settings/ExitGame_Button"
 msgid "Exit Game"
-msgstr ""
+msgstr "Wyjdź z gry"
 
 msgctxt "MainNav/Settings/Gameplay/AutoApplyCardStyles_Label"
 msgid "Auto Apply Card Styles"
@@ -2584,15 +2599,15 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Gameplay/AutoTap_Label"
 msgid "Auto Tap"
-msgstr ""
+msgstr "Autoprzekręcanie"
 
 msgctxt "MainNav/Settings/Gameplay/Concede_Button"
 msgid "Concede"
-msgstr ""
+msgstr "Poddanie"
 
 msgctxt "MainNav/Settings/Gameplay/DisableEmotes_Label"
 msgid "Disable Emotes"
-msgstr ""
+msgstr "Wyłącz emotki"
 
 msgctxt "MainNav/Settings/Gameplay/EnableGameplayWarnings_Label"
 msgid "Enable Gameplay Warnings"
@@ -2642,7 +2657,7 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Gameplay/Key_Space"
 msgid "Space"
-msgstr ""
+msgstr "Spacja"
 
 msgctxt "MainNav/Settings/Gameplay/Key_Tab"
 msgid "Tab"
@@ -2682,7 +2697,7 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Gameplay/SkipTutorial_Confirm_Title"
 msgid "Skip Tutorial"
-msgstr ""
+msgstr "Pomiń samouczek"
 
 msgctxt "MainNav/Settings/Gameplay/UnlockEvents"
 msgid "Unlock Events"
@@ -2746,7 +2761,7 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Graphics/QualitySetting_FPSLimit"
 msgid "FPS Limit"
-msgstr ""
+msgstr "Limit FPS"
 
 msgctxt "MainNav/Settings/Graphics/QualitySetting_MotionBlur"
 msgid "Motion Blur"
@@ -2754,7 +2769,7 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Graphics/QualitySetting_Shadows"
 msgid "Shadows"
-msgstr ""
+msgstr "Cienie"
 
 msgctxt "MainNav/Settings/Graphics/QualityValue_120"
 msgid "120"
@@ -2814,19 +2829,19 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Language/Language_Title"
 msgid "Language\n"
-msgstr ""
+msgstr "Język\n"
 
 msgctxt "MainNav/Settings/Language_Button"
 msgid "Language"
-msgstr ""
+msgstr "Język"
 
 msgctxt "MainNav/Settings/LogOut_Button"
 msgid "Log Out"
-msgstr ""
+msgstr "Wyloguj"
 
 msgctxt "MainNav/Settings/PrivacyPolicy"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Polityka prywatności"
 
 msgctxt "MainNav/Settings/PrivacyPolicy/CustHelpLink"
 msgid "https://mtgarena-support.wizards.com/hc/en-us"
@@ -2876,13 +2891,14 @@ msgstr "Wybierz walutę"
 
 msgctxt "MainNav/Settings/Settings_Title"
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 msgctxt "MainNav/Settings/StoreChangeWarning"
 msgid ""
 "Changing your currency may result in additional bank or credit card "
 "transaction fees."
 msgstr ""
+"Zmiana waluty może skutkować dodatkowymi kosztami za operacje na karcie."
 
 msgctxt "MainNav/Settings/SwitchAccounts_Button"
 msgid "Switch Accounts"
@@ -2930,7 +2946,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/CurrencyLabel"
 msgid "Currency"
-msgstr ""
+msgstr "Waluta"
 
 msgctxt "MainNav/WebLink/CodeOfConduct"
 msgid "https://company.wizards.com/legal/code-conduct"
@@ -3009,17 +3025,17 @@ msgstr ""
 
 msgctxt "MOTD/MultiplePackGrant_Title"
 msgid "Free Boosters for You!"
-msgstr ""
+msgstr "Darmowe pakiety kart dla Ciebie!"
 
 msgctxt "MOTD/PackGrant_Text"
 msgid ""
 "Check out your Packs section to find a new booster pack! Thank you for "
 "playing!"
-msgstr ""
+msgstr "W sekcji Paczki znajdziesz nowy pakiet kart! Dzięki za granie!"
 
 msgctxt "MOTD/PackGrant_Title"
 msgid "Free Booster for You!"
-msgstr ""
+msgstr "Darmowe pakiety kart dla Ciebie!"
 
 msgctxt "MOTD/Set_Prerelease_Event_Later_Today_Text"
 msgid ""
@@ -3088,7 +3104,7 @@ msgstr ""
 
 msgctxt "MOTD/System_Client_Restart_Title"
 msgid "Please Restart the Game"
-msgstr ""
+msgstr "Proszę zrestartować grę"
 
 msgctxt "MOTD/System_Constructed_Disabled_Text"
 msgid ""
@@ -4161,7 +4177,7 @@ msgstr ""
 
 msgctxt "SystemMessage/System_System_Message_Title"
 msgid "System Message"
-msgstr ""
+msgstr "Wiadomość systemowa"
 
 msgctxt "SystemMessage/System_Update_Payment_Info_Text"
 msgid ""
