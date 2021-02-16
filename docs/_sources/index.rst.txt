@@ -16,6 +16,9 @@ Jeśli uważasz, że projekt ten jest przydatny, możesz `wesprzeć autora na Pa
 Spolszczenie Magic Arena
 ========================
 
+.. image:: images/MTGA_Teaser.png
+
+
 Tak, w końcu jest to możliwe. Szczegóły już niebawem!
 
 
