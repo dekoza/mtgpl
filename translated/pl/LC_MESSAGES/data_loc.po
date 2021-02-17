@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-02-17 00:16+0000\n"
+"PO-Revision-Date: 2021-02-17 00:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -36659,13 +36659,12 @@ msgstr ""
 "Kiedy ten artefakt wejdzie na pole walki, zadaje on wskazanemu celowi 1 "
 "obrażenie."
 
-#, fuzzy
 msgctxt "235766"
 msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice CARDNAME: It deals 1 damage to any target."
 msgstr ""
-"Wyposażony stwór ma \"Poświęć tego stwora: zadaje on wskazanemu celowi 1 "
-"obrażenie.\""
+"|mana_2|\\ |mana_r|, poświęć CARDNAME: Zadaje on wskazanemu celowi 1 "
+"obrażenie."
 
 #, fuzzy
 msgctxt "235767"
@@ -36700,10 +36699,9 @@ msgid ""
 msgstr ""
 "Poświęć dwa artefakty: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
-#, fuzzy
 msgctxt "235807"
 msgid "|mana_g|: Narnam Cobra gains deathtouch until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury +1/+1 oraz dotyk śmierci."
+msgstr "|mana_g|: Ten stwór zyskuje do końca tury dotyk śmierci."
 
 #, fuzzy
 msgctxt "235818"
@@ -36944,10 +36942,9 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz skontrować wskazany czar."
 
-#, fuzzy
 msgctxt "236073"
 msgid "Pay |energy|: Shipwreck Moray gets +2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "Zapłać |energy|: Ten stwór dostaje do końca tury +2/-2."
 
 msgctxt "236076"
 msgid ""
@@ -37182,16 +37179,16 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym z co "
 "najwyżej dwóch wskazanych stworów."
 
-#, fuzzy
 msgctxt "236273"
 msgid ""
 "Each creature you control with a counter on it has \"|tap|: Add |mana_g|.\""
-msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma tratowanie."
+msgstr ""
+"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź "
+"|mana_g|.\""
 
-#, fuzzy
 msgctxt "236286"
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
-msgstr "Możesz wydawać manę jakby była maną dowolnego koloru."
+msgstr "Zauroczony ląd ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 msgctxt "236288"
 msgid "Sacrifice Unbridled Growth: Draw a card."
@@ -37332,14 +37329,13 @@ msgstr ""
 "Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola walki, dobierz "
 "kartę."
 
-#, fuzzy
 msgctxt "236393"
 msgid ""
 "|mana_b|, Sacrifice Implement of Malice: Target player discards a card. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
-"jako obrzęd."
+"|mana_b|, poświęć ten artefakt: Wskazany gracz odrzuca kartę. Aktywuj jako "
+"obrzęd."
 
 msgctxt "236394"
 msgid ""
@@ -38400,12 +38396,12 @@ msgstr ""
 "Umieść znacznik -1/-1 na wskazanym stworze. Ten czar zadaje władcy owego "
 "stwora 2 obrażenia."
 
-#, fuzzy
 msgctxt "237577"
 msgid ""
 "|mana_1|\\ |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until "
 "end of turn."
-msgstr "Ilekroć dobierzesz kartę, ten stwór dostaje do końca tury +2/+2."
+msgstr ""
+"|mana_1|\\ |mana_r|, odrzuć kartę: Ten stwór dostaje do końca tury +2/+0."
 
 msgctxt "237580"
 msgid ""
@@ -39213,10 +39209,9 @@ msgctxt "238261"
 msgid "When Seekers' Squire enters the battlefield, it explores."
 msgstr ""
 
-#, fuzzy
 msgctxt "238264"
 msgid "|mana_b|: Skittering Heartstopper gains deathtouch until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury +1/+1 oraz dotyk śmierci."
+msgstr "|mana_b|: Ten stwór zyskuje dotyk śmierci do końca tury."
 
 msgctxt "238269"
 msgid ""
@@ -39299,14 +39294,13 @@ msgctxt "238331"
 msgid "Whenever you cast a Pirate spell, untap Lightning-Rig Crew."
 msgstr "Ilekroć rzucisz czar Pirata, odkręć niniejszego stwora."
 
-#, fuzzy
 msgctxt "238334"
 msgid ""
 "|mana_1|, Sacrifice an artifact or creature: Makeshift Munitions deals 1 "
 "damage to any target."
 msgstr ""
-"Wyposażony stwór ma \"Poświęć tego stwora: zadaje on wskazanemu celowi 1 "
-"obrażenie.\""
+"|mana_1|, poświęć artefakt lub stwora: Ten urok zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 msgctxt "238341"
 msgid ""
@@ -40190,12 +40184,9 @@ msgstr ""
 "Jeśli ten stwór miałby zadać graczowi obrażenia bojowe, zamiast tego zadaje "
 "owemu graczowi dwukrotnie tyle obrażeń."
 
-#, fuzzy
 msgctxt "238967"
 msgid "|tap|, Sacrifice Fanatical Firebrand: It deals 1 damage to any target."
-msgstr ""
-"Wyposażony stwór ma \"Poświęć tego stwora: zadaje on wskazanemu celowi 1 "
-"obrażenie.\""
+msgstr "|tap|, poświęć tego stwora: Zadaje on wskazanemu celowi 1 obrażenie."
 
 msgctxt "238970"
 msgid ""
@@ -40291,10 +40282,9 @@ msgid ""
 "blessing."
 msgstr "Ten stwór ma podwójny cios o ile masz błogosławieństwo miasta."
 
-#, fuzzy
 msgctxt "239015"
 msgid "|mana_2|\\ |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +3/+0."
 
 msgctxt "239020"
 msgid ""
@@ -41883,10 +41873,9 @@ msgstr ""
 "Ilekroć ten stwór zada przeciwnikowi obrażenia bojowe, możesz dobrać kartę. "
 "Jeśli tak zrobisz, odrzuć kartę."
 
-#, fuzzy
 msgctxt "240249"
 msgid "|mana_1|\\ |mana_u|: Surge Mare gets +2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "|mana_1|\\ |mana_u|: Ten stwór dostaje do końca tury +2/-2."
 
 msgctxt "240269"
 msgid ""
@@ -42317,14 +42306,13 @@ msgctxt "240571"
 msgid "|mana_3|, |tap|, Sacrifice CARDNAME: It deals 2 damage to any target."
 msgstr "+1: Ten wędrowiec zadaje wskazanemu celowi 2 obrażenia."
 
-#, fuzzy
 msgctxt "240572"
 msgid ""
 "|mana_3|, |tap|, Sacrifice Explosive Apparatus: It deals 2 damage to any "
 "target."
 msgstr ""
-"Wyposażony stwór ma \"Poświęć tego stwora: zadaje on wskazanemu celowi 1 "
-"obrażenie.\""
+"|mana_3|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu celowi 2 "
+"obrażenia."
 
 #, fuzzy
 msgctxt "240577"
@@ -42371,15 +42359,14 @@ msgid ""
 "Transmogrifying Wand enters the battlefield with three charge counters on it."
 msgstr "Ten artefakt wchodzi na pole walki mając trzy znaczniki ładunku."
 
-#, fuzzy
 msgctxt "240608"
 msgid ""
 "|mana_1|, |tap|, Remove a charge counter from Transmogrifying Wand: Destroy "
 "target creature. Its controller creates a 2/4 white Ox creature token. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
-"jako obrzęd."
+"|mana_1|, |tap|, usuń znacznik ładunku z tego artefaktu: Zniszcz wskazanego "
+"stwora. Jego władca tworzy żeton białego stwora Wół 2/4. Aktywuj jako obrzęd."
 
 msgctxt "240613"
 msgid "Rupture Spire enters the battlefield tapped."
@@ -42705,10 +42692,9 @@ msgctxt "242884"
 msgid "When Elvish Visionary enters the battlefield, draw a card."
 msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
-#, fuzzy
 msgctxt "242902"
 msgid "|mana_u|: Metropolis Sprite gets +1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
 
 #, fuzzy
 msgctxt "242918"
@@ -44629,15 +44615,12 @@ msgctxt "267956"
 msgid "Attach {1, CardId}."
 msgstr ""
 
-#, fuzzy
 msgctxt "267959"
 msgid ""
 "|mana_x|, Discard a Card: Create a token that's a copy of a random creature "
 "card with converted mana cost X. Activate this ability only any time you "
 "could cast a sorcery and only once each turn."
 msgstr ""
-"Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
-"jako obrzęd."
 
 msgctxt "267961"
 msgid ""
@@ -44755,15 +44738,14 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1."
 
-#, fuzzy
 msgctxt "272493"
 msgid ""
 "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: "
 "Create a 2/2 black Zombie creature token. Activate this ability only any "
 "time you could cast a sorcery."
 msgstr ""
-"Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
-"jako obrzęd."
+"|mana_3|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
+"czarnego stwora Zombi 2/2. Aktywuj jako obrzęd."
 
 #, fuzzy
 msgctxt "272502"
@@ -47193,12 +47175,11 @@ msgctxt "273035"
 msgid "Fungus Zombie"
 msgstr ""
 
-#, fuzzy
 msgctxt "273036"
 msgid ""
 "<i>Undergrowth</i> — This spell costs |mana_1| less to cast for each "
 "creature card in your graveyard."
-msgstr "Ten stwór dostaje +1/+1 za każdą kartę stwora w twoim cmentarzu."
+msgstr ""
 
 msgctxt "273037"
 msgid ""
@@ -47346,13 +47327,11 @@ msgctxt "273065"
 msgid "Swarm Guildmage"
 msgstr ""
 
-#, fuzzy
 msgctxt "273066"
 msgid ""
 "|mana_4|\\ |mana_b|, |tap|: Creatures you control get +1/+0 and gain menace "
 "until end of turn."
 msgstr ""
-"+2: Stwory pod twoim władaniem dostają do końca tury +1/+1 oraz pośpiech."
 
 msgctxt "273067"
 msgid "|mana_1|\\ |mana_g|, |tap|: You gain 2 life."
@@ -49703,22 +49682,21 @@ msgstr ""
 "Szkielety pod twoim władaniem oraz inne Zombi pod twoim władaniem dostają +1/"
 "+1 i mają dotyk śmierci."
 
-#, fuzzy
 msgctxt "276973"
 msgid ""
 "When CARDNAME dies, create a 2/2 red Dragon creature token with flying and "
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
+"Kiedy CARDNAME umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
+"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
 
-#, fuzzy
 msgctxt "276974"
 msgid ""
 "When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and "
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór z lataniem pod twoim "
-"władaniem dostaje do końca tury +2/+0."
+"Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
+"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
 
 msgctxt "277416"
 msgid "Spend only on: Dragon Spells"
@@ -50208,10 +50186,9 @@ msgid ""
 "smiling assassins keep company with ghostly shadows."
 msgstr ""
 
-#, fuzzy
 msgctxt "279531"
 msgid "|mana_b|: Twilight Panther gains deathtouch until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury +1/+1 oraz dotyk śmierci."
+msgstr "|mana_b|: Ten stwór zyskuje dotyk śmierci do końca tury."
 
 msgctxt "279532"
 msgid "Unbreakable Formation"
@@ -50364,14 +50341,13 @@ msgctxt "279561"
 msgid "\"They've got eyes inside my head!\""
 msgstr ""
 
-#, fuzzy
 msgctxt "279562"
 msgid ""
 "|mana_5|\\ |mana_u|: Exchange control of CARDNAME and target nonland "
 "permanent. Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
-"jako obrzęd."
+"|mana_5|\\ |mana_u|: Zamień władanie nad CARDNAME i wskazanym nie-lądowym "
+"permanentem. Aktywuj jako obrzęd."
 
 #, fuzzy
 msgctxt "279563"

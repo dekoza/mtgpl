@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-15 18:06+0100\n"
-"PO-Revision-Date: 2021-02-17 00:16+0000\n"
+"PO-Revision-Date: 2021-02-17 00:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -4114,7 +4114,8 @@ msgstr ""
 #: ../../JMP.rst:2001
 msgid "Each creature you control with a counter on it has \"|tap|: Add |mana_g|.\""
 msgstr ""
-"Każdy stwór mający znacznik pod twoim władaniem ma |tap|: Weź |mana_g|.\""
+"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź "
+"|mana_g|.\""
 
 #: ../../JMP.rst:2004
 msgid ":mtgtip:`Rumbling Baloth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93a56610-482b-4ddf-88e1-e4a2edf4fa0f.jpg?1601080029|https://scryfall.com/card/jmp/426/rumbling-baloth?utm_source=api>`"
