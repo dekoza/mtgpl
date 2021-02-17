@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-17 12:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -1850,6 +1850,8 @@ msgid ""
 "Whenever another creature enters the battlefield, you may put X +1/+1 "
 "counters on Hamletback Goliath, where X is that creature's power."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki, możesz umieścić X znaczników +1/+1 "
+"na niniejszym stworze, gdzie X jest siłą owego stwora."
 
 #: ../../M13.rst:684
 msgid ""
@@ -1874,6 +1876,8 @@ msgid ""
 "|tap|: Create X 1/1 red Goblin creature tokens, where X is the number of "
 "Goblins you control."
 msgstr ""
+"|tap|: Stwórz X żetonów czerwonego stwora Goblin 1/1, gdzie X jest liczbą "
+"Goblinów pod twoim władaniem."
 
 #: ../../M13.rst:692
 msgid ""
@@ -1898,6 +1902,8 @@ msgid ""
 "Magmaquake deals X damage to each creature without flying and each "
 "planeswalker."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez latania oraz każdemu wędrowcowi po X "
+"obrażeń."
 
 #: ../../M13.rst:700
 msgid ""
@@ -2603,13 +2609,14 @@ msgstr ""
 
 #: ../../M13.rst:953
 msgid "When Thragtusk enters the battlefield, you gain 5 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 5 żyć."
 
 #: ../../M13.rst:955
 msgid ""
 "When Thragtusk leaves the battlefield, create a 3/3 green Beast creature "
 "token."
 msgstr ""
+"Kiedy ten stwór opuści pole walki, stwórz żeton zielonego stwora Bestia 3/3."
 
 #: ../../M13.rst:960
 msgid ""

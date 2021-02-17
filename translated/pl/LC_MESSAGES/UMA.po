@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-17 12:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -1881,6 +1881,8 @@ msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
 "control. You lose life equal to its converted mana cost."
 msgstr ""
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"władaniem. Strać tyle żyć, ile wynosi jej skrócony koszt many."
 
 #: ../../UMA.rst:624
 msgid ""
@@ -3957,7 +3959,7 @@ msgstr ""
 
 #: ../../UMA.rst:1381
 msgid "|tap|, Sacrifice a creature: Add |mana_b|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|, poświęć stwora: Weź |mana_b|\\ |mana_b|."
 
 #: ../../UMA.rst:1390
 msgid ""

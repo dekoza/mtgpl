@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-17 12:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -1958,10 +1958,12 @@ msgid ""
 "|mana_u|, Sacrifice Aether Spellbomb: Return target creature to its owner's "
 "hand."
 msgstr ""
+"|mana_u|, poświęć ten artefakt: Przywróć wskazanego stwora do ręki "
+"właściciela."
 
 #: ../../MRD.rst:737
 msgid "|mana_1|, Sacrifice Aether Spellbomb: Draw a card."
-msgstr ""
+msgstr "|mana_1|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../MRD.rst:740
 msgid ""
@@ -2107,6 +2109,8 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice Chromatic Sphere: Add one mana of any color. Draw "
 "a card."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru. "
+"Dobierz kartę."
 
 #: ../../MRD.rst:796
 msgid ""

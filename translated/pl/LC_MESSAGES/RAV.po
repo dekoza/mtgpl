@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-14 14:36+0000\n"
+"PO-Revision-Date: 2021-02-17 12:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -1331,6 +1331,8 @@ msgid ""
 "When Mausoleum Turnkey enters the battlefield, return target creature card "
 "of an opponent's choice from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę stwora "
+"wybraną przez przeciwnika z twojego cmentarza do twojej ręki."
 
 #: ../../RAV.rst:496
 msgid ""
@@ -2183,7 +2185,7 @@ msgstr ""
 
 #: ../../RAV.rst:791
 msgid "When Carven Caryatid enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../RAV.rst:798
 msgid ""
@@ -2486,7 +2488,7 @@ msgstr ""
 
 #: ../../RAV.rst:905
 msgid "Whenever you cast a creature spell, you may draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar stwora, możesz dobrać kartę."
 
 #: ../../RAV.rst:910
 msgid ""

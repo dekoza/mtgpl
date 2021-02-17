@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-14 14:36+0000\n"
+"PO-Revision-Date: 2021-02-17 12:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dst/pl/>\n"
 "Language: pl\n"
@@ -2468,10 +2468,11 @@ msgstr ""
 
 #: ../../DST.rst:901
 msgid "|tap|: Put a charge counter on Mirrodin's Core."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładunku na tym lądzie."
 
 #: ../../DST.rst:903
 msgid ""
 "|tap|, Remove a charge counter from Mirrodin's Core: Add one mana of any "
 "color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego lądu: Weź jedną manę dowolnego koloru."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 09:26+0000\n"
+"PO-Revision-Date: 2021-02-17 12:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -2428,6 +2428,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until "
 "end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"3/+0."
 
 #: ../../ROE.rst:1038
 msgid ""
@@ -2890,7 +2892,7 @@ msgstr ""
 
 #: ../../ROE.rst:1231
 msgid "Target creature must be blocked this turn if able."
-msgstr ""
+msgstr "Wskazany stwór musi być blokowany w tej turze, jeśli to możliwe."
 
 #: ../../ROE.rst:1238
 msgid ""
@@ -3035,6 +3037,8 @@ msgid ""
 "You draw cards equal to the sacrificed creature's power, then you gain life "
 "equal to its toughness."
 msgstr ""
+"Dobierz tyle kart, ile wynosiła siła poświęconego stwora, następnie zyskaj "
+"tyle żyć, ile wynosiła jego wytrzymałość."
 
 #: ../../ROE.rst:1308
 msgid ""
@@ -3114,6 +3118,7 @@ msgstr ""
 #: ../../ROE.rst:1329
 msgid "|tap|: Add |mana_g| for each creature with defender you control."
 msgstr ""
+"|tap|: Weź |mana_g| za każdego stwora pod twoim władaniem mającego obronność."
 
 #: ../../ROE.rst:1338
 msgid ""
@@ -3294,7 +3299,7 @@ msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../ROE.rst:1405
 msgid "|mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards."
-msgstr ""
+msgstr "|mana_3|, |tap|, poświęć ten artefakt: Dobierz trzy karty."
 
 #: ../../ROE.rst:1410
 msgid ""
@@ -3428,6 +3433,8 @@ msgid ""
 "As long as equipped creature has defender, it can attack as though it didn't "
 "have defender."
 msgstr ""
+"O ile wyposażony stwór ma obronność, może atakować tak, jakby nie miał "
+"obronności."
 
 #: ../../ROE.rst:1459
 msgid ""

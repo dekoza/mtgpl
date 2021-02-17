@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-17 12:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -1175,7 +1175,7 @@ msgstr ""
 
 #: ../../CNS.rst:401
 msgid "When enchanted land dies, return that card to its owner's hand."
-msgstr ""
+msgstr "Kiedy zauroczony ląd umrze, przywróć ową kartę do ręki właściciela."
 
 #: ../../CNS.rst:406
 msgid ""
@@ -2380,7 +2380,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../CNS.rst:859
 msgid "Volcanic Fallout deals 2 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 2 obrażenia."
 
 #: ../../CNS.rst:864
 msgid ""
@@ -3095,6 +3095,8 @@ msgid ""
 "As long as equipped creature has defender, it can attack as though it didn't "
 "have defender."
 msgstr ""
+"O ile wyposażony stwór ma obronność, może atakować tak, jakby nie miał "
+"obronności."
 
 #: ../../CNS.rst:1111
 msgid ""
@@ -3117,13 +3119,14 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../CNS.rst:1117
 msgid "|tap|: Put a charge counter on Mirrodin's Core."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładunku na tym lądzie."
 
 #: ../../CNS.rst:1119
 msgid ""
 "|tap|, Remove a charge counter from Mirrodin's Core: Add one mana of any "
 "color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego lądu: Weź jedną manę dowolnego koloru."
 
 #: ../../CNS.rst:1126
 msgid ""

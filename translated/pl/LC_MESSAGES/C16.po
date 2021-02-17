@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-17 12:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -1895,11 +1895,11 @@ msgstr ""
 
 #: ../../C16.rst:665
 msgid "Whenever a creature an opponent controls dies, you may gain 3 life."
-msgstr ""
+msgstr "Ilekroć umrze stwór pod władaniem przeciwnika, możesz zyskać 3 życia."
 
 #: ../../C16.rst:667
 msgid "Whenever an opponent discards a card, you may gain 3 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik odrzuca kartę, możesz zyskać 3 życia."
 
 #: ../../C16.rst:676
 msgid ""
@@ -2381,12 +2381,16 @@ msgid ""
 "Creatures with power less than Champion of Lambholt's power can't block "
 "creatures you control."
 msgstr ""
+"Stwory o sile mniejszej niż siła niniejszego stwora nie mogą blokować "
+"stworów pod twoim władaniem."
 
 #: ../../C16.rst:827
 msgid ""
 "Whenever another creature enters the battlefield under your control, put a "
 "+1/+1 counter on Champion of Lambholt."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../C16.rst:832
 msgid ""
@@ -2584,6 +2588,9 @@ msgid ""
 "it's a creature card, put it onto the battlefield. Otherwise, you may put "
 "that card on the bottom of your library."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, ujawnij wierzchnią kartę twojej biblioteki. "
+"Jeśli jest to karta stwora, umieść ją na polu walki. W przeciwnym razie "
+"możesz umieścić ową kartę na spodzie twojej biblioteki."
 
 #: ../../C16.rst:894
 msgid ""
@@ -4647,6 +4654,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Buried Ruin: Return target artifact card from "
 "your graveyard to your hand."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Przywróć wskazaną kartę artefaktu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../C16.rst:1632
 msgid ""

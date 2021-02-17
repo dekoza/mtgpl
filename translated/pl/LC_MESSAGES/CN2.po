@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-17 12:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cn2/pl/>\n"
 "Language: pl\n"
@@ -1252,12 +1252,16 @@ msgid ""
 "Whenever another creature enters the battlefield, its controller may draw a "
 "card if its power is greater than each other creature's power."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki, jego władca może dobrać kartę "
+"jeśli jego siła jest większa niż siła każdego innego stwora."
 
 #: ../../CN2.rst:431
 msgid ""
 "|mana_g|, |tap|: Add X mana in any combination of colors, where X is the "
 "greatest power among creatures you control."
 msgstr ""
+"|mana_g|, |tap|: Weź X many w dowolnej kombinacji kolorów, gdzie X jest "
+"największą siłą spośród stworów pod twoim władaniem."
 
 #: ../../CN2.rst:436
 msgid ""
@@ -2240,7 +2244,7 @@ msgstr "Dotyk śmierci"
 
 #: ../../CN2.rst:803
 msgid "Whenever another nontoken creature dies, you may draw a card."
-msgstr ""
+msgstr "Ilekroć umrze inny nieżetonowy stwór, możesz dobrać kartę."
 
 #: ../../CN2.rst:808
 msgid ""
@@ -2301,6 +2305,8 @@ msgid ""
 "When Mausoleum Turnkey enters the battlefield, return target creature card "
 "of an opponent's choice from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę stwora "
+"wybraną przez przeciwnika z twojego cmentarza do twojej ręki."
 
 #: ../../CN2.rst:828
 msgid ""
@@ -2357,11 +2363,11 @@ msgstr ""
 
 #: ../../CN2.rst:845
 msgid "Whenever a creature an opponent controls dies, you may gain 3 life."
-msgstr ""
+msgstr "Ilekroć umrze stwór pod władaniem przeciwnika, możesz zyskać 3 życia."
 
 #: ../../CN2.rst:847
 msgid "Whenever an opponent discards a card, you may gain 3 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik odrzuca kartę, możesz zyskać 3 życia."
 
 #: ../../CN2.rst:852
 msgid ""
@@ -2442,12 +2448,16 @@ msgid ""
 "At the beginning of your upkeep, return an instant or sorcery card at random "
 "from your graveyard to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć losową kartę sztuczki lub "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../CN2.rst:873
 msgid ""
 "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/"
 "+0 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"4/+0."
 
 #: ../../CN2.rst:878
 msgid ""
@@ -2581,6 +2591,8 @@ msgid ""
 "Whenever another creature enters the battlefield, you may put X +1/+1 "
 "counters on Hamletback Goliath, where X is that creature's power."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki, możesz umieścić X znaczników +1/+1 "
+"na niniejszym stworze, gdzie X jest siłą owego stwora."
 
 #: ../../CN2.rst:922
 msgid ""
@@ -2646,6 +2658,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until "
 "end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"3/+0."
 
 #: ../../CN2.rst:944
 msgid ""
@@ -2855,7 +2869,7 @@ msgstr ""
 
 #: ../../CN2.rst:1013
 msgid "Target creature must be blocked this turn if able."
-msgstr ""
+msgstr "Wskazany stwór musi być blokowany w tej turze, jeśli to możliwe."
 
 #: ../../CN2.rst:1022
 msgid ""

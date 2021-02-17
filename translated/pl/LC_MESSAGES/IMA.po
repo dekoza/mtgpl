@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 07:56+0000\n"
+"PO-Revision-Date: 2021-02-17 12:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ima/pl/>\n"
 "Language: pl\n"
@@ -1538,7 +1538,7 @@ msgstr ""
 msgid ""
 "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 "
 "life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę i strać 1 życie."
 
 #: ../../IMA.rst:580
 msgid ""
@@ -1617,12 +1617,16 @@ msgid ""
 "At the beginning of your upkeep, return target creature card from your "
 "graveyard to the battlefield."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole walki."
 
 #: ../../IMA.rst:605
 msgid ""
 "At the beginning of each opponent's upkeep, that player sacrifices a "
 "creature."
 msgstr ""
+"Na początku kroku utrzymania każdego z przeciwników, ów gracz poświęca "
+"stwora."
 
 #: ../../IMA.rst:610
 msgid ""
@@ -1775,12 +1779,16 @@ msgid ""
 "At the beginning of your upkeep, return an instant or sorcery card at random "
 "from your graveyard to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć losową kartę sztuczki lub "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../IMA.rst:663
 msgid ""
 "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/"
 "+0 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"4/+0."
 
 #: ../../IMA.rst:668
 msgid ""
@@ -2052,6 +2060,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until "
 "end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"3/+0."
 
 #: ../../IMA.rst:764
 msgid ""
@@ -2097,6 +2107,8 @@ msgid ""
 "Pillar of Flame deals 2 damage to any target. If a creature dealt damage "
 "this way would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 2 obrażenia. Jeśli stwór uszkodzony w ten "
+"sposób miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../IMA.rst:782
 msgid ""
@@ -2315,7 +2327,7 @@ msgstr ""
 
 #: ../../IMA.rst:867
 msgid "When Carven Caryatid enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../IMA.rst:872
 msgid ""
@@ -2689,6 +2701,7 @@ msgstr ""
 #: ../../IMA.rst:987
 msgid "|tap|: Add |mana_g| for each creature with defender you control."
 msgstr ""
+"|tap|: Weź |mana_g| za każdego stwora pod twoim władaniem mającego obronność."
 
 #: ../../IMA.rst:994
 msgid ""
@@ -3279,7 +3292,7 @@ msgstr ""
 
 #: ../../IMA.rst:1205
 msgid "Guardian Idol enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole walki."
 
 #: ../../IMA.rst:1207 ../../IMA.rst:1219 ../../IMA.rst:1223 ../../IMA.rst:1265
 #: ../../IMA.rst:1323 ../../IMA.rst:1329 ../../IMA.rst:1357 ../../IMA.rst:1375
@@ -3292,6 +3305,8 @@ msgid ""
 "|mana_2|: Guardian Idol becomes a 2/2 Golem artifact creature until end of "
 "turn."
 msgstr ""
+"|mana_2|: Ten artefakt do końca tury staje się artefaktowym stworem Golem 2/"
+"2."
 
 #: ../../IMA.rst:1216
 msgid ""

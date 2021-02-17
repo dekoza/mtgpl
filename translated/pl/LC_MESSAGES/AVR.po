@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 09:26+0000\n"
+"PO-Revision-Date: 2021-02-17 12:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -1542,7 +1542,7 @@ msgstr ""
 
 #: ../../AVR.rst:529
 msgid "Whenever an opponent loses life, you gain that much life."
-msgstr ""
+msgstr "Ilekroć przeciwnik traci życia, ty zyskaj tyle samo żyć."
 
 #: ../../AVR.rst:536
 msgid ""
@@ -1611,7 +1611,7 @@ msgstr "Dotyk śmierci"
 
 #: ../../AVR.rst:555
 msgid "Whenever another nontoken creature dies, you may draw a card."
-msgstr ""
+msgstr "Ilekroć umrze inny nieżetonowy stwór, możesz dobrać kartę."
 
 #: ../../AVR.rst:560
 msgid ""
@@ -2186,6 +2186,8 @@ msgid ""
 "Pillar of Flame deals 2 damage to any target. If a creature dealt damage "
 "this way would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 2 obrażenia. Jeśli stwór uszkodzony w ten "
+"sposób miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../AVR.rst:770
 msgid ""
@@ -2509,12 +2511,16 @@ msgid ""
 "Creatures with power less than Champion of Lambholt's power can't block "
 "creatures you control."
 msgstr ""
+"Stwory o sile mniejszej niż siła niniejszego stwora nie mogą blokować "
+"stworów pod twoim władaniem."
 
 #: ../../AVR.rst:879
 msgid ""
 "Whenever another creature enters the battlefield under your control, put a "
 "+1/+1 counter on Champion of Lambholt."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../AVR.rst:886
 msgid ""
@@ -2529,6 +2535,9 @@ msgid ""
 "trample and get +X/+X until end of turn, where X is the number of creatures "
 "you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"końca tury tratowanie i +X/+X, gdzie X jest liczbą stworów pod twoim "
+"władaniem."
 
 #: ../../AVR.rst:890
 msgid ""
@@ -3208,6 +3217,8 @@ msgid ""
 "|mana_1|, Sacrifice Scroll of Avacyn: Draw a card. If you control an Angel, "
 "you gain 5 life."
 msgstr ""
+"|mana_1|, poświęć ten artefakt: Dobierz kartę. Jeśli władasz Aniołem, zyskaj "
+"5 żyć."
 
 #: ../../AVR.rst:1136
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-17 12:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -1737,6 +1737,8 @@ msgid ""
 "Whenever Falkenrath Noble or another creature dies, target player loses 1 "
 "life and you gain 1 life."
 msgstr ""
+"Ilekroć ten lub inny stwór umrze, wskazany gracz traci 1 życie, a ty zyskaj "
+"1 życie."
 
 #: ../../ISD.rst:566
 msgid ""
@@ -1770,6 +1772,8 @@ msgid ""
 "When Ghoulraiser enters the battlefield, return a Zombie card at random from "
 "your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przywróć losową kartę Zombi z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../ISD.rst:576
 msgid ""
@@ -2162,6 +2166,8 @@ msgid ""
 "Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth "
 "Hound deals 1 damage to that creature."
 msgstr ""
+"Ilekroć ten stwór blokuje lub zostaje zablokowany przez stwora, zadaje on "
+"owemu stworowi 1 obrażenie."
 
 #: ../../ISD.rst:712
 msgid ""
@@ -2255,6 +2261,8 @@ msgid ""
 "At the beginning of your upkeep, return an instant or sorcery card at random "
 "from your graveyard to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć losową kartę sztuczki lub "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 # 29baf38df6f54012b90950efdc4027ab
 #: ../../ISD.rst:739
@@ -2262,6 +2270,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/"
 "+0 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"4/+0."
 
 #: ../../ISD.rst:744
 msgid ""
@@ -3175,7 +3185,7 @@ msgstr ""
 # 0b563d10dc7e4e5bbe33070aac3a46e9
 #: ../../ISD.rst:1051
 msgid "Defender, protection from Zombies"
-msgstr ""
+msgstr "Obronność, ochrona przed Zombi"
 
 #: ../../ISD.rst:1056
 msgid ""
