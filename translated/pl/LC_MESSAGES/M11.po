@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-15 19:22+0000\n"
+"PO-Revision-Date: 2021-02-17 08:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m11/pl/>\n"
 "Language: pl\n"
@@ -89,10 +89,12 @@ msgstr "Latanie"
 #: ../../M11.rst:27
 msgid "Each opponent who cast a spell this turn can't attack with creatures."
 msgstr ""
+"Każdy przecwinik, który rzucił czar w tej turze, nie może atakować stworami."
 
 #: ../../M11.rst:29
 msgid "Each opponent who attacked with a creature this turn can't cast spells."
 msgstr ""
+"Każdy przeciwnik, który atakował stworem w tej turze, nie może rzucać czarów."
 
 #: ../../M11.rst:36
 msgid ""

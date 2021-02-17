@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-16 07:54+0000\n"
+"PO-Revision-Date: 2021-02-17 08:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -754,6 +754,8 @@ msgstr ""
 msgid ""
 "Draw three cards. Then discard two cards unless you discard an artifact card."
 msgstr ""
+"Dobierz trzy karty. Następnie odrzuć dwie karty, chyba że odrzucisz kartę "
+"artefaktu."
 
 #: ../../MRD.rst:288
 msgid ""
@@ -775,7 +777,7 @@ msgstr ""
 
 #: ../../MRD.rst:291
 msgid "Whenever you cast an artifact spell, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar artefaktu, dobierz kartę."
 
 #: ../../MRD.rst:296
 msgid ""

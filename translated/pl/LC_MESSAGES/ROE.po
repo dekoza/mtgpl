@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 07:56+0000\n"
+"PO-Revision-Date: 2021-02-17 08:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -285,6 +285,8 @@ msgid ""
 "When Affa Guard Hound enters the battlefield, target creature gets +0/+3 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"0/+3."
 
 #: ../../ROE.rst:112
 msgid ""
@@ -625,11 +627,11 @@ msgstr ""
 
 #: ../../ROE.rst:243
 msgid "Kor Spiritdancer gets +2/+2 for each Aura attached to it."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+2 za każdą Aurę dołączoną do niego."
 
 #: ../../ROE.rst:245
 msgid "Whenever you cast an Aura spell, you may draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar Aury, możesz dobrać kartę."
 
 #: ../../ROE.rst:250
 msgid ""
@@ -655,6 +657,8 @@ msgstr ""
 msgid ""
 "Activated abilities of creatures your opponents control can't be activated."
 msgstr ""
+"Aktywowane zdolności stworów pod władaniem twoich przeciwników nie mogą być "
+"aktywowane."
 
 #: ../../ROE.rst:260
 msgid ""
@@ -1353,6 +1357,8 @@ msgstr ""
 msgid ""
 "At the beginning of each upkeep, if enchanted creature is untapped, tap it."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli zauroczony stwór jest odkręcony, "
+"przekręć go."
 
 #: ../../ROE.rst:604
 msgid ""
@@ -1435,6 +1441,9 @@ msgid ""
 "your library. Put one of them into your hand and the other on the bottom of "
 "your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na dwie wierzchnie karty "
+"twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie "
+"twojej biblioteki."
 
 #: ../../ROE.rst:634
 msgid ""

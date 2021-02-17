@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-14 21:22+0100\n"
-"PO-Revision-Date: 2021-02-17 07:56+0000\n"
+"PO-Revision-Date: 2021-02-17 08:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eld/pl/>\n"
 "Language: pl\n"
@@ -814,10 +814,8 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:267
-#, fuzzy
-#| msgid "Counter target spell unless its controller pays |mana_3|."
 msgid "Counter target spell. Its controller mills three cards."
-msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
+msgstr "Skontruj wskazany czar. Jego władca mieli trzy karty."
 
 #: ../../ELD.rst:276
 msgid ""
