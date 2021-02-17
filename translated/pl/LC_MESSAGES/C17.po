@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 07:56+0000\n"
+"PO-Revision-Date: 2021-02-17 08:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -1609,6 +1609,9 @@ msgid ""
 "your library. Put one of them into your hand and the other on the bottom of "
 "your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na dwie wierzchnie karty "
+"twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie "
+"twojej biblioteki."
 
 #: ../../C17.rst:544
 msgid ""
@@ -1684,13 +1687,15 @@ msgstr ""
 
 #: ../../C17.rst:563
 msgid "Whenever a creature dies, put a charge counter on Black Market."
-msgstr ""
+msgstr "Ilekroć umrze stwór, umieść znacznik ładowania na tym uroku."
 
 #: ../../C17.rst:565
 msgid ""
 "At the beginning of your precombat main phase, add |mana_b| for each charge "
 "counter on Black Market."
 msgstr ""
+"Na początku twojej fazy głównej przed walką, weź |mana_b| za każdy znacznik "
+"ładowania na tym uroku."
 
 #: ../../C17.rst:570
 msgid ""
