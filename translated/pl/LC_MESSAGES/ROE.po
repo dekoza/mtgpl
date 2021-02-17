@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-15 17:03+0000\n"
+"PO-Revision-Date: 2021-02-17 07:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -2828,6 +2828,8 @@ msgid ""
 "|mana_1|: Target creature you control has base power and toughness 7/7 until "
 "end of turn."
 msgstr ""
+"|mana_1|: Wskazany stwór pod twoim władaniem ma do końca tury bazową siłę i "
+"wytrzymałość 7/7."
 
 #: ../../ROE.rst:1218
 msgid ""
@@ -3222,7 +3224,7 @@ msgstr ""
 #: ../../ROE.rst:1385
 msgid ""
 "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr ""
+msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
 
 #: ../../ROE.rst:1394
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-15 18:06+0100\n"
-"PO-Revision-Date: 2021-02-17 00:24+0000\n"
+"PO-Revision-Date: 2021-02-17 07:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -875,6 +875,8 @@ msgstr ""
 #: ../../JMP.rst:355
 msgid "Whenever you gain life, you may pay |mana_1|\\ |mana_w|. If you do, put a +1/+1 counter on target creature for each 1 life you gained."
 msgstr ""
+"Ilekroć zyskasz życia, możesz zapłacić |mana_1|\\ |mana_w|. Jeśli tak "
+"zrobisz, umieść na wskazanym stworze znacznik +1/+1 za każde zyskane 1 życie."
 
 #: ../../JMP.rst:360
 msgid ":mtgtip:`Dauntless Onslaught<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aae001aa-10a0-482a-86fe-bf6ca7fc0866.jpg?1600696291|https://scryfall.com/card/jmp/99/dauntless-onslaught?utm_source=api>`"
@@ -1134,11 +1136,13 @@ msgstr ""
 
 #: ../../JMP.rst:489
 msgid "|tap|: Put a +1/+1 counter on Mikaeus."
-msgstr ""
+msgstr "|tap|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../JMP.rst:491
 msgid "|tap|, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control."
 msgstr ""
+"|tap|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na każdym "
+"innym stworze pod twoim władaniem."
 
 #: ../../JMP.rst:496
 msgid ":mtgtip:`Moment of Heroism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b17da4d0-f9fd-43af-85fc-ede9fa3962bf.jpg?1600697027|https://scryfall.com/card/jmp/124/moment-of-heroism?utm_source=api>`"
@@ -2528,6 +2532,8 @@ msgstr ""
 #: ../../JMP.rst:1225
 msgid "|mana_1|\\ |mana_b|, Pay 2 life: Return target creature card from your graveyard to your hand."
 msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../JMP.rst:1230
 msgid ":mtgtip:`Plagued Rusalka<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72bcfb24-1649-4c8f-ba76-346914d11572.jpg?1600714641|https://scryfall.com/card/jmp/268/plagued-rusalka?utm_source=api>`"
@@ -2535,7 +2541,7 @@ msgstr ""
 
 #: ../../JMP.rst:1229
 msgid "|mana_b|, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../JMP.rst:1234
 msgid ":mtgtip:`Ravenous Chupacabra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40d3e58e-f989-4169-9e2c-a66a23170dcf.jpg?1600701250|https://scryfall.com/card/jmp/269/ravenous-chupacabra?utm_source=api>`"
@@ -4312,7 +4318,7 @@ msgstr ""
 
 #: ../../JMP.rst:2103
 msgid "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr ""
+msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
 
 #: ../../JMP.rst:2110
 msgid ":mtgtip:`Wildsize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d44ec73-169a-4354-8ee1-238b8abd8d81.jpg?1601080330|https://scryfall.com/card/jmp/445/wildsize?utm_source=api>`"
@@ -4721,6 +4727,8 @@ msgstr ""
 #: ../../JMP.rst:2311
 msgid "|mana_4|, |tap|: Return target artifact creature card from your graveyard to the battlefield."
 msgstr ""
+"|mana_4|, |tap|: Przywróć wskazaną kartę artefaktu z twojego cmentarza na "
+"pole walki."
 
 #: ../../JMP.rst:2316
 msgid ":mtgtip:`Scroll of Avacyn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a2d0981-0af6-42d6-b926-16f8f2327320.jpg?1601080969|https://scryfall.com/card/jmp/483/scroll-of-avacyn?utm_source=api>`"

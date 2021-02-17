@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-15 17:03+0000\n"
+"PO-Revision-Date: 2021-02-17 07:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ima/pl/>\n"
 "Language: pl\n"
@@ -2891,7 +2891,7 @@ msgstr ""
 
 #: ../../IMA.rst:1069
 msgid "|mana_b|\\ |mana_r|: Dragon creatures get +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|\\ |mana_r|: Smoki dostają do końca tury +1/+1."
 
 #: ../../IMA.rst:1080
 msgid ""
@@ -3065,6 +3065,8 @@ msgid ""
 "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, "
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
+"|tap|, poświęć Las lub Równinę: Wyszukaj w twojej bibliotece kartę lądu, "
+"umieść ją na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../IMA.rst:1134
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-14 11:38+0000\n"
+"PO-Revision-Date: 2021-02-17 07:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -443,7 +443,7 @@ msgstr ""
 # 56771f51f1994008bd4d0cf5142d2c10
 #: ../../ISD.rst:129
 msgid "|tap|: Put a +1/+1 counter on Mikaeus."
-msgstr ""
+msgstr "|tap|: Umieść znacznik +1/+1 na tym stworze."
 
 # 37b010730dd9409f9b4f4c459ad3ba2b
 #: ../../ISD.rst:131
@@ -451,6 +451,8 @@ msgid ""
 "|tap|, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each "
 "other creature you control."
 msgstr ""
+"|tap|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na każdym "
+"innym stworze pod twoim władaniem."
 
 #: ../../ISD.rst:136
 msgid ""

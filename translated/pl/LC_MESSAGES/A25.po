@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 00:16+0000\n"
+"PO-Revision-Date: 2021-02-17 07:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -3018,7 +3018,7 @@ msgstr ""
 #: ../../A25.rst:1007
 msgid ""
 "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr ""
+msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
 
 #: ../../A25.rst:1012
 msgid ""
@@ -3219,6 +3219,8 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_u|, |tap|: Return target artifact or enchantment "
 "card from your graveyard to your hand."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_u|, |tap|: Przywróć wskazaną kartę artefaktu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../A25.rst:1080
 msgid ""

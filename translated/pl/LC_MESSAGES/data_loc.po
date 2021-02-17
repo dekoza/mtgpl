@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-02-17 07:23+0000\n"
+"PO-Revision-Date: 2021-02-17 07:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -112,10 +112,9 @@ msgctxt "31"
 msgid "Protection from"
 msgstr "Ochrona przed"
 
-#, fuzzy
 msgctxt "32"
 msgid "|mana_2|, Sacrifice this artifact: Draw a card."
-msgstr "{o2}, poświęć ten artefakt: Dobierz kartę."
+msgstr "|mana_2|, poświęć ten artefakt: Dobierz kartę."
 
 msgctxt "38"
 msgid "Lifelink"
@@ -1656,18 +1655,16 @@ msgctxt "706"
 msgid "Artificer"
 msgstr ""
 
-#, fuzzy
 msgctxt "708"
 msgid "|mana_7|\\ |mana_u|, |tap|, Sacrifice CARDNAME: Draw three cards."
-msgstr "{o7oU}, {oT}, poświęć CARDNAME: Dobierz trzy karty."
+msgstr "|mana_7|\\ |mana_u|, |tap|, poświęć CARDNAME: Dobierz trzy karty."
 
-#, fuzzy
 msgctxt "712"
 msgid ""
 "|mana_u|, Sacrifice CARDNAME: Counter target spell or ability that targets "
 "you or a creature you control."
 msgstr ""
-"{oU}, poświęć CARDNAME: Skontruj wskazany czar lub zdolność wskazujące "
+"|mana_u|, poświęć CARDNAME: Skontruj wskazany czar lub zdolność wskazujące "
 "ciebie lub stwora pod twoim władaniem."
 
 msgctxt "716"
@@ -1764,14 +1761,13 @@ msgctxt "754"
 msgid "All lands lose all abilities except mana abilities."
 msgstr "Wszystkie lądy tracą wszystkie zdolności z wyjątkiem zdolności many."
 
-#, fuzzy
 msgctxt "756"
 msgid ""
 "|mana_7|\\ |mana_b|, |tap|, Sacrifice CARDNAME: Target opponent loses 4 life "
 "and you gain 4 life."
 msgstr ""
-"{o7oB}, {oT}, poświęć CARDNAME: Wskazany przeciwnik traci 4 życia, a ty "
-"zyskaj 4 życia."
+"|mana_7|\\ |mana_b|, |tap|, poświęć CARDNAME: Wskazany przeciwnik traci 4 "
+"życia, a ty zyskaj 4 życia."
 
 msgctxt "757"
 msgid "Bloodcrazed Paladin"
@@ -2035,14 +2031,13 @@ msgctxt "901"
 msgid "Vampire"
 msgstr "Wampir"
 
-#, fuzzy
 msgctxt "906"
 msgid ""
 "|mana_7|\\ |mana_r|, |tap|, Sacrifice CARDNAME: It deals 3 damage to each of "
 "up to two target creatures."
 msgstr ""
-"Ten czar zadaje każdemu z co najwyżej dwóch wskazanych stworów po 1 "
-"obrażeniu."
+"|mana_7|\\ |mana_r|, |tap|, poświęć CARDNAME: Zadaje on każdemu z co "
+"najwyżej dwóch wskazanych stworów po 3 obrażenia."
 
 msgctxt "910"
 msgid "Frenzied Raptor"
@@ -2311,12 +2306,13 @@ msgctxt "1052"
 msgid "Kithkin"
 msgstr ""
 
-#, fuzzy
 msgctxt "1057"
 msgid ""
 "|mana_7|\\ |mana_g|, |tap|, Sacrifice CARDNAME: Target creature gets +5/+5 "
 "and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +5/+5 oraz tratowanie."
+msgstr ""
+"|mana_7|\\ |mana_g|, |tap|, poświęć CARDNAME: Wskazany stwór dostaje do "
+"końca tury +5/+5 oraz tratowanie."
 
 msgctxt "1059"
 msgid "Scarecrow"
@@ -2609,10 +2605,9 @@ msgctxt "1232"
 msgid "Sentinel Totem"
 msgstr ""
 
-#, fuzzy
 msgctxt "1234"
 msgid "|tap|, Exile CARDNAME: Exile all cards from all graveyards."
-msgstr "III — Wygnaj wszystkie karty z cmentarzy wszystkich przeciwników."
+msgstr "|tap|: Wygnaj CARDNAME: Wygnaj wszystkie karty ze wszystkich cmentarzy."
 
 msgctxt "1236"
 msgid "Advisor"
@@ -2775,10 +2770,9 @@ msgid ""
 "end step.)"
 msgstr ""
 
-#, fuzzy
 msgctxt "1373"
 msgid "Cycling |mana_b|"
-msgstr "Recykling"
+msgstr "Recykling |mana_b|"
 
 msgctxt "1390"
 msgid "Exile Mnemonic Betrayal."
@@ -2834,10 +2828,9 @@ msgctxt "1443"
 msgid "Vivien's Invocation"
 msgstr ""
 
-#, fuzzy
 msgctxt "1444"
 msgid "Cycling |mana_r|"
-msgstr "Recykling"
+msgstr "Recykling |mana_r|"
 
 msgctxt "1446"
 msgid "Search for a card named Teferi, Timebender."
@@ -3222,10 +3215,9 @@ msgctxt "1696"
 msgid "You have hexproof."
 msgstr ""
 
-#, fuzzy
 msgctxt "1703"
 msgid "Cycling |mana_2|"
-msgstr "Recykling"
+msgstr "Recykling |mana_2|"
 
 msgctxt "1711"
 msgid "Cephalid"
@@ -3535,14 +3527,13 @@ msgid ""
 "renegades aren't always so careful."
 msgstr ""
 
-#, fuzzy
 msgctxt "1861"
 msgid ""
 "|mana_2|, |tap|, Remove all charge counters from Relic Amulet: It deals that "
 "much damage to target creature."
 msgstr ""
-"Ilekroć ten stwór otrzyma obrażenia, zadaje on tyle samo obrażeń wskazanemu "
-"przeciwnikowi."
+"|mana_2|, |tap|, usuń wszystkie znaczniki ładowania z tego artefaktu: Zadaje "
+"on wskazanemu stworowi tyle samo obrażeń."
 
 msgctxt "1862"
 msgid "Confiscation Coup"
@@ -3638,10 +3629,9 @@ msgid ""
 "night to end.\""
 msgstr ""
 
-#, fuzzy
 msgctxt "1890"
 msgid "You draw two cards, lose 2 life, and get |energy|\\ |energy|."
-msgstr "Dobierz dwie karty, strać 2 życia, następnie zmiel dwie karty."
+msgstr "Dobierz dwie karty, strać 2 życia, i przyjmij |energy|\\ |energy|."
 
 msgctxt "1891"
 msgid "Marionette Master"
@@ -3792,14 +3782,13 @@ msgctxt "1939"
 msgid "It won't be small forever."
 msgstr ""
 
-#, fuzzy
 msgctxt "1940"
 msgid ""
 "|tap|, Remove a charge counter from Throne of Makindi: Add two mana of any "
 "one color. Spend this mana only to cast kicked spells."
 msgstr ""
-"Weź dwie many dowolnego koloru i dwie many innego koloru. Wydaj te many "
-"tylko na rzucenie czarów stworów lub uroków."
+"|tap|, usuń znacznik ładowania z tego artefaktu: Weź dwie many jednego "
+"dowolnego koloru. Wydaj tę manę tylko na rzucanie podbitych czarów."
 
 msgctxt "1941"
 msgid ""
@@ -4023,14 +4012,13 @@ msgctxt "2001"
 msgid "Inspiration leads to design."
 msgstr ""
 
-#, fuzzy
 msgctxt "2002"
 msgid ""
 "Whenever you get one or more |energy|, put a +1/+1 counter on target "
 "creature you control."
 msgstr ""
-"Ilekroć dobierzesz kartę po raz drugi w danej turze, umieść znacznik +1/+1 "
-"na wskazanym stworze pod twoim władaniem."
+"Ilekroć przyjmiesz jeden lub więcej |energy|, umieść znacznik +1/+1 na "
+"wskazanym stworze pod twoim władaniem."
 
 msgctxt "2003"
 msgid "|mana_4|, |tap|: You get |energy|."
@@ -4631,12 +4619,13 @@ msgid ""
 "—Alabaster creed"
 msgstr ""
 
-#, fuzzy
 msgctxt "2543"
 msgid ""
 "|mana_1|\\ |mana_w|: Target creature you control gains lifelink until end of "
 "turn."
-msgstr "Stwory pod twoim władaniem zyskują więź życia do końca tury."
+msgstr ""
+"|mana_1|\\ |mana_w|: Wskazany stwór pod twoim władaniem zyskuje do końca "
+"tury więź życia."
 
 msgctxt "2546"
 msgid "|mana_3|\\ |mana_u|: Draw a card."
@@ -5139,12 +5128,13 @@ msgid ""
 "into something more . . . tangible.\""
 msgstr ""
 
-#, fuzzy
 msgctxt "3365"
 msgid ""
 "|mana_1|: Target creature you control has base power and toughness 7/7 until "
 "end of turn."
-msgstr "Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+2 ."
+msgstr ""
+"|mana_1|: Wskazany stwór pod twoim władaniem ma do końca tury bazową siłę i "
+"wytrzymałość 7/7."
 
 msgctxt "3374"
 msgid "Rest in Peace"
@@ -5447,10 +5437,9 @@ msgctxt "4416"
 msgid "Giant Growth"
 msgstr ""
 
-#, fuzzy
 msgctxt "4429"
 msgid "|mana_2|, |tap|, Sacrifice a creature: Draw a card."
-msgstr "Poświęć trzy Skarby: Dobierz kartę."
+msgstr "|mana_2|, |tap|, poświęć stwora: Dobierz kartę."
 
 msgctxt "4436"
 msgid "Antelope"
@@ -6149,14 +6138,13 @@ msgid ""
 "dewcups, rainwater pools where the elves gather to celebrate life."
 msgstr ""
 
-#, fuzzy
 msgctxt "7401"
 msgid ""
 "Whenever you gain life, you may pay |mana_1|\\ |mana_w|. If you do, put a +1/"
 "+1 counter on target creature for each 1 life you gained."
 msgstr ""
-"Ilekroć zyskasz życia, umieść znacznik +1/+1 na wskazanym stworze lub uroku "
-"pod twoim władaniem."
+"Ilekroć zyskasz życia, możesz zapłacić |mana_1|\\ |mana_w|. Jeśli tak "
+"zrobisz, umieść na wskazanym stworze znacznik +1/+1 za każde zyskane 1 życie."
 
 msgctxt "7430"
 msgid "Ranger of Eos"
@@ -6677,10 +6665,9 @@ msgctxt "10784"
 msgid "Incarnation"
 msgstr ""
 
-#, fuzzy
 msgctxt "10801"
 msgid "Cycling |mana_3|"
-msgstr "Recykling"
+msgstr "Recykling |mana_3|"
 
 msgctxt "10808"
 msgid "Cycling |mana_1|\\ |mana_u|"
@@ -6690,28 +6677,25 @@ msgctxt "10823"
 msgid "Secluded Steppe"
 msgstr ""
 
-#, fuzzy
 msgctxt "10825"
 msgid "Cycling |mana_w|"
-msgstr "Recykling"
+msgstr "Recykling |mana_w|"
 
 msgctxt "10826"
 msgid "Lonely Sandbar"
 msgstr ""
 
-#, fuzzy
 msgctxt "10828"
 msgid "Cycling |mana_u|"
-msgstr "Recykling"
+msgstr "Recykling |mana_u|"
 
 msgctxt "10832"
 msgid "Tranquil Thicket"
 msgstr ""
 
-#, fuzzy
 msgctxt "10834"
 msgid "Cycling |mana_g|"
-msgstr "Recykling"
+msgstr "Recykling |mana_g|"
 
 msgctxt "10835"
 msgid "Forgotten Cave"
@@ -6725,10 +6709,9 @@ msgctxt "10846"
 msgid "Bladewing the Risen"
 msgstr ""
 
-#, fuzzy
 msgctxt "10848"
 msgid "|mana_b|\\ |mana_r|: Dragon creatures get +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|\\ |mana_r|: Smoki dostają do końca tury +1/+1."
 
 msgctxt "10851"
 msgid "Fierce Empath"
@@ -6837,15 +6820,13 @@ msgid ""
 "—Elspeth"
 msgstr ""
 
-#, fuzzy
 msgctxt "11476"
 msgid ""
 "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, "
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
-"Poświęć dowolną liczbę lądów. Wyszukaj w twojej bibliotece co najwyżej tyle "
-"samo kart lądów, umieść je przekręcone na polu walki, następnie przetasuj "
-"twoją bibliotekę."
+"|tap|, poświęć Las lub Równinę: Wyszukaj w twojej bibliotece kartę lądu, "
+"umieść ją na polu walki, następnie przetasuj twoją bibliotekę."
 
 msgctxt "11480"
 msgid "Maelstrom Archangel"
@@ -6904,10 +6885,9 @@ msgctxt "11744"
 msgid "Snow-Covered Forest"
 msgstr ""
 
-#, fuzzy
 msgctxt "11780"
 msgid "|mana_r|: This creature gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 msgctxt "11807"
 msgid "Lightning Serpent"
@@ -7188,10 +7168,9 @@ msgctxt "13186"
 msgid "Loaming Shaman"
 msgstr ""
 
-#, fuzzy
 msgctxt "13237"
 msgid "|mana_r|: CARDNAME gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: CARDNAME dostaje do końca tury +1/+0."
 
 msgctxt "13293"
 msgid "Untap target creature?"
@@ -7205,10 +7184,9 @@ msgctxt "13307"
 msgid "In a culture of beauty, the most beautiful are worshipped as gods."
 msgstr ""
 
-#, fuzzy
 msgctxt "13309"
 msgid "|mana_g|, |tap|: Create a 1/1 green Elf Warrior creature token."
-msgstr "0: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
+msgstr "|mana_g|, |tap|: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
 
 msgctxt "13406"
 msgid "Elf Warrior"
@@ -7274,17 +7252,17 @@ msgctxt "14321"
 msgid "Her poppets bring joy to the truly depraved."
 msgstr ""
 
-#, fuzzy
 msgctxt "14322"
 msgid "|mana_1|, Sacrifice a Scarecrow: Draw a card."
-msgstr "Poświęć ten urok: Dobierz kartę."
+msgstr "|mana_1|, poświęć Stracha: Dobierz kartę."
 
-#, fuzzy
 msgctxt "14323"
 msgid ""
 "|mana_4|, |tap|: Return target artifact creature card from your graveyard to "
 "the battlefield."
-msgstr "Przywróć wskazaną kartę artefaktu z twojego cmentarza na pole walki."
+msgstr ""
+"|mana_4|, |tap|: Przywróć wskazaną kartę artefaktu z twojego cmentarza na "
+"pole walki."
 
 msgctxt "14407"
 msgid "Goat"
@@ -7449,11 +7427,10 @@ msgid ""
 "—Savra"
 msgstr ""
 
-#, fuzzy
 msgctxt "15756"
 msgid ""
 "|mana_b|, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "|mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury -1/-1."
 
 msgctxt "15815"
 msgid "Sand"
@@ -7523,14 +7500,13 @@ msgctxt "16474"
 msgid "<i>Her leadership forged the </i>Weatherlight<i>'s finest crew.</i>"
 msgstr ""
 
-#, fuzzy
 msgctxt "16475"
 msgid ""
 "|tap|: Search your library for a legendary card, reveal that card, and put "
 "it into your hand. Then shuffle your library."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę uroku, ujawnij ją, umieść w twojej ręce, "
-"następnie przetasuj twoją bibliotekę."
+"|tap: Wyszukaj w twojej bibliotece legendarną kartę, ujawnij ją i umieść w "
+"twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 msgctxt "16482"
 msgid "Kicker |mana_1|\\ |mana_u|"
@@ -7570,14 +7546,13 @@ msgid ""
 "destroyer.\"</i>"
 msgstr ""
 
-#, fuzzy
 msgctxt "16784"
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_u|, |tap|: Return target artifact or enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Przywróć wskazaną kartę artefaktu lub uroku z twojego cmentarza do twojej "
-"ręki."
+"|mana_1|\\ |mana_w|\\ |mana_u|, |tap|: Przywróć wskazaną kartę artefaktu z "
+"twojego cmentarza do twojej ręki."
 
 msgctxt "16796"
 msgid "Reflection"
@@ -9010,11 +8985,10 @@ msgid ""
 "—<i>The Invokers' Tales</i>"
 msgstr ""
 
-#, fuzzy
 msgctxt "30197"
 msgid ""
 "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +5/+5 oraz tratowanie."
+msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
 
 msgctxt "30243"
 msgid "Irresistible Prey"
@@ -9195,12 +9169,13 @@ msgctxt "31389"
 msgid "Whole again in honor and horn."
 msgstr ""
 
-#, fuzzy
 msgctxt "31390"
 msgid ""
 "|mana_2|\\ |mana_gw|, |tap|: Create a 1/1 green and white Elf Warrior "
 "creature token."
-msgstr "0: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
+msgstr ""
+"|mana_2|\\ |mana_gw|, |tap|: Stwórz żeton biało-zielonego stwora Elf "
+"Wojownik 1/1."
 
 msgctxt "31465"
 msgid ""
@@ -9236,10 +9211,9 @@ msgid ""
 "\"Here lies Gond, hero of Safehold Taldwen. May he ever guide our quest.\""
 msgstr ""
 
-#, fuzzy
 msgctxt "31704"
 msgid "|tap|: Create a 1/1 green Elf Warrior creature token."
-msgstr "0: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
+msgstr "|tap|: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
 
 msgctxt "31786"
 msgid "Giant Warrior"
@@ -9519,12 +9493,13 @@ msgctxt "35991"
 msgid "Phyrexian Reclamation"
 msgstr ""
 
-#, fuzzy
 msgctxt "35993"
 msgid ""
 "|mana_1|\\ |mana_b|, Pay 2 life: Return target creature card from your "
 "graveyard to your hand."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 msgctxt "36438"
 msgid "Put a +1/+1 counter on each creature you control."
@@ -9918,19 +9893,17 @@ msgctxt "39494"
 msgid "Mikaeus, the Lunarch"
 msgstr ""
 
-#, fuzzy
 msgctxt "39496"
 msgid "|tap|: Put a +1/+1 counter on Mikaeus."
-msgstr "Umieść znacznik +1/+1 na tym stworze."
+msgstr "|tap|: Umieść znacznik +1/+1 na tym stworze."
 
-#, fuzzy
 msgctxt "39497"
 msgid ""
 "|tap|, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each "
 "other creature you control."
 msgstr ""
-"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na każdym innym "
-"stworze pod twoim władaniem."
+"|tap|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na każdym "
+"innym stworze pod twoim władaniem."
 
 msgctxt "39519"
 msgid "Black Cat"
@@ -93996,12 +93969,13 @@ msgctxt "453332"
 msgid "When Emry, Lurker of the Loch enters the battlefield, mill four cards."
 msgstr ""
 
-#, fuzzy
 msgctxt "453344"
 msgid ""
 "|mana_2|\\ |mana_u|, |tap|: Each opponent mills cards equal to the number of "
 "cards in their hand."
-msgstr "Siła tej karty jest równa liczbie kart w twojej ręce."
+msgstr ""
+"|mana_2|\\ |mana_u|, |tap|: Każdy przeciwnik mieli tyle kart, ile ma kart w "
+"ręce."
 
 msgctxt "453393"
 msgid ""

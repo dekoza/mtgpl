@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-17 07:23+0000\n"
+"PO-Revision-Date: 2021-02-17 07:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -2983,6 +2983,8 @@ msgstr ""
 #: ../../ZNR.rst:1587
 msgid "|mana_2|, |tap|, Remove all charge counters from Relic Amulet: It deals that much damage to target creature."
 msgstr ""
+"|mana_2|, |tap|, usuń wszystkie znaczniki ładowania z tego artefaktu: Zadaje "
+"on wskazanemu stworowi tyle samo obrażeń."
 
 #: ../../ZNR.rst:1596
 msgid ":mtgtip:`Relic Axe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca8705e3-0e44-45c9-bcdf-c24507b038fe.jpg?1604200848|https://scryfall.com/card/znr/248/relic-axe?utm_source=api>`"
@@ -3018,7 +3020,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1605
 msgid "|mana_2|, |tap|, Sacrifice a creature: Draw a card."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć stwora: Dobierz kartę."
 
 #: ../../ZNR.rst:1607
 msgid "As long as you control a Cleric, Relic Vial has \"Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.\""
@@ -3191,6 +3193,8 @@ msgstr ""
 #: ../../ZNR.rst:1723
 msgid "|tap|, Remove a charge counter from Throne of Makindi: Add two mana of any one color. Spend this mana only to cast kicked spells."
 msgstr ""
+"|tap|, usuń znacznik ładowania z tego artefaktu: Weź dwie many jednego "
+"dowolnego koloru. Wydaj tę manę tylko na rzucanie podbitych czarów."
 
 #: ../../ZNR.rst:1728
 msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9591fd15-78d9-4089-a075-031ab2affd2d.jpg?1604201761|https://scryfall.com/card/znr/266/plains?utm_source=api>`"
