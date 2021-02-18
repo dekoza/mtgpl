@@ -41,7 +41,7 @@ Standard
 --------
 
 * :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |p100|
-* :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |p50|
+* :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |p100|
 * :mtgexp:`M21` :doc:`Core Set 2021<M21>` |p100|
 * :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |p100|
 * :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |p100|
