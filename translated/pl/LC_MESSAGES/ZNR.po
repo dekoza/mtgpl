@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-18 18:55+0000\n"
+"PO-Revision-Date: 2021-02-18 19:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -1289,6 +1289,8 @@ msgstr ""
 #: ../../ZNR.rst:551
 msgid "Whenever you cast an instant, sorcery, or Wizard spell, you may draw a card. If you do, discard a card."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki, obrzędu lub Czarodzieja, możesz dobrać kartę. "
+"Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../ZNR.rst:558
 msgid ":mtgtip:`Zulaport Duelist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b4c7268-60c6-4038-8ce9-d9d51bed4577.jpg?1604195154|https://scryfall.com/card/znr/88/zulaport-duelist?utm_source=api>`"
@@ -1297,6 +1299,9 @@ msgstr ""
 #: ../../ZNR.rst:557
 msgid "When Zulaport Duelist enters the battlefield, up to one target creature gets -2/-0 until end of turn. Its controller mills two cards. (They put the top two cards of their library into their graveyard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, co najwyżej jeden wskazany stwór "
+"dostaje do końca tury -2/-0. Jego władca mieli dwie karty. (Umieszcza dwie "
+"wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:562
 msgid ":mtgtip:`Acquisitions Expert<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/281336c7-ca7c-4c91-bdfb-d253a965cb7c.jpg?1604195180|https://scryfall.com/card/znr/89/acquisitions-expert?utm_source=api>`"
@@ -1305,6 +1310,10 @@ msgstr ""
 #: ../../ZNR.rst:561
 msgid "When Acquisitions Expert enters the battlefield, target opponent reveals a number of cards from their hand equal to the number of creatures in your party. You choose one of those cards. That player discards that card. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia tyle kart "
+"ze swojej ręki, ile stworów jest w twojej drużynie. Wybierz jedną z owych "
+"kart. Ów gracz odrzuca ową kartę. (Na drużynę składa się po jednym stworze "
+"spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:566
 msgid ":mtgtip:`Agadeem's Awakening<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1604195226|https://scryfall.com/card/znr/90/agadeems-awakening-agadeem-the-undercrypt?utm_source=api>`"
@@ -1313,6 +1322,8 @@ msgstr ""
 #: ../../ZNR.rst:565
 msgid "Return from your graveyard to the battlefield any number of target creature cards that each have a different converted mana cost X or less."
 msgstr ""
+"Przywróć z twojego cmentarza na pole walki dowolną liczbę wskazanych kart "
+"stworów, z których każda ma inny skrócony kosz many X lub mniejszy."
 
 #: ../../ZNR.rst:572
 msgid ":mtgtip:`Agadeem, the Undercrypt<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1604195226|https://scryfall.com/card/znr/90/agadeems-awakening-agadeem-the-undercrypt?utm_source=api>`"
@@ -1321,6 +1332,8 @@ msgstr ""
 #: ../../ZNR.rst:569
 msgid "As Agadeem, the Undercrypt enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped."
 msgstr ""
+"Umieszczając ten ląd na polu walki możesz zapłacić 3 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole walki."
 
 #: ../../ZNR.rst:571
 #: ../../ZNR.rst:583
@@ -1346,6 +1359,8 @@ msgstr ""
 #: ../../ZNR.rst:577
 msgid "Blackbloom Rogue gets +3/+0 as long as an opponent has eight or more cards in their graveyard."
 msgstr ""
+"Ten stwór dostaje +3/+0 o ile przeciwnik ma co najmniej osiem kart w swoim "
+"cmentarzu."
 
 #: ../../ZNR.rst:584
 msgid ":mtgtip:`Blackbloom Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/2/32779721-b021-4bd4-95d1-4a19b78d9faa.jpg?1604195281|https://scryfall.com/card/znr/91/blackbloom-rogue-blackbloom-bog?utm_source=api>`"
@@ -1353,7 +1368,7 @@ msgstr ""
 
 #: ../../ZNR.rst:581
 msgid "Blackbloom Bog enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:590
 msgid ":mtgtip:`Blood Beckoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cb88075-14f8-4ac9-b947-5ca1d30938f1.jpg?1604195307|https://scryfall.com/card/znr/92/blood-beckoning?utm_source=api>`"
@@ -1369,6 +1384,9 @@ msgstr ""
 #: ../../ZNR.rst:589
 msgid "Return target creature card from your graveyard to your hand. If this spell was kicked, instead return two target creature cards from your graveyard to your hand."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. Jeśli ten "
+"czar został podbity, zamiast tego przywróć dwie wskazany karty stworów z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../ZNR.rst:594
 msgid ":mtgtip:`Blood Price<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df14d32d-fe53-4370-8298-fab528ff12db.jpg?1604195324|https://scryfall.com/card/znr/93/blood-price?utm_source=api>`"
@@ -1377,6 +1395,8 @@ msgstr ""
 #: ../../ZNR.rst:593
 msgid "Look at the top four cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order. You lose 2 life."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść dwie z nich w "
+"twojej ręce, pozostałe dowolnie na spodzie twojej biblioteki. Strać 2 życia."
 
 #: ../../ZNR.rst:600
 msgid ":mtgtip:`Bloodchief's Thirst<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/059e8447-6b1c-4651-a734-a8fea2cbf7b2.jpg?1604195360|https://scryfall.com/card/znr/94/bloodchiefs-thirst?utm_source=api>`"
@@ -1385,10 +1405,15 @@ msgstr ""
 #: ../../ZNR.rst:597
 msgid "Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_g|.)"
 
 #: ../../ZNR.rst:599
 msgid "Destroy target creature or planeswalker with converted mana cost 2 or less. If this spell was kicked, instead destroy target creature or planeswalker."
 msgstr ""
+"Zniszcz wskazanego stwora lub wędrowca o skróconym koszcie many 2 lub "
+"mniejszym. Jeśli ten czar został podbity, zamiast tego zniszcz wskazanego "
+"stwora lub wędrowca."
 
 #: ../../ZNR.rst:606
 msgid ":mtgtip:`Coveted Prize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5afbc5d3-318f-4545-88d6-fc81e5466238.jpg?1604195385|https://scryfall.com/card/znr/95/coveted-prize?utm_source=api>`"
@@ -1397,6 +1422,10 @@ msgstr ""
 #: ../../ZNR.rst:605
 msgid "Search your library for a card, put it into your hand, then shuffle your library. If you have a full party, you may cast a spell with converted mana cost 4 or less from your hand without paying its mana cost."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę, umieść ją w twojej ręce, następnie "
+"przetasuj twoją bibliotekę. Jeśli masz pełną drużynę, możesz rzucić z twojej "
+"ręki czar o skróconym koszcie many 4 lub mniejszym bez płacenia jego kosztu "
+"many."
 
 #: ../../ZNR.rst:612
 msgid ":mtgtip:`Deadly Alliance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/007a5c8c-ed0b-4844-9393-a3d25d4ffa1d.jpg?1604195436|https://scryfall.com/card/znr/96/deadly-alliance?utm_source=api>`"
@@ -1413,6 +1442,8 @@ msgstr ""
 #: ../../ZNR.rst:615
 msgid "When Demon's Disciple enters the battlefield, each player sacrifices a creature or planeswalker."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora lub "
+"wędrowca."
 
 #: ../../ZNR.rst:622
 msgid ":mtgtip:`Drana, the Last Bloodchief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cd4154e-7681-444b-a0f2-33e887791ba7.jpg?1612316219|https://scryfall.com/card/znr/98/drana-the-last-bloodchief?utm_source=api>`"
@@ -1421,6 +1452,10 @@ msgstr ""
 #: ../../ZNR.rst:621
 msgid "Whenever Drana, the Last Bloodchief attacks, defending player chooses a nonlegendary creature card in your graveyard. You return that card to the battlefield with an additional +1/+1 counter on it. The creature is a Vampire in addition to its other types."
 msgstr ""
+"Ilekroć ten stwór atakuje, broniący się gracz wybiera kartę nielegendarnego "
+"stwora w twoim cmentarzu. Przywróć ową kartę na pole walki z dodatkowym "
+"znacznikiem +1/+1. Ów stwór jest dodatkowo Wampirem poza swoimi innymi "
+"typami."
 
 #: ../../ZNR.rst:626
 msgid ":mtgtip:`Drana's Silencer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59224f9a-deb2-4dd4-b2d4-967232c14254.jpg?1604195538|https://scryfall.com/card/znr/99/dranas-silencer?utm_source=api>`"
@@ -1429,6 +1464,10 @@ msgstr ""
 #: ../../ZNR.rst:625
 msgid "When Drana's Silencer enters the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -X/-X, gdzie X jest liczbą stworów w "
+"twojej drużynie. (Na drużynę składa się po jednym stworze spośród danego "
+"typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:630
 msgid ":mtgtip:`Dreadwurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/339736a8-a00f-4e21-8d92-38486f73dba9.jpg?1604195570|https://scryfall.com/card/znr/100/dreadwurm?utm_source=api>`"
@@ -1437,6 +1476,9 @@ msgstr ""
 #: ../../ZNR.rst:629
 msgid "Landfall — Whenever a land enters the battlefield under your control, Dreadwurm gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
+"\" nie niszczą go.)"
 
 #: ../../ZNR.rst:634
 msgid ":mtgtip:`Expedition Skulker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/2966b1f0-3d30-4d92-87e5-f39ceacefbd2.jpg?1604195598|https://scryfall.com/card/znr/101/expedition-skulker?utm_source=api>`"
@@ -1444,7 +1486,7 @@ msgstr ""
 
 #: ../../ZNR.rst:633
 msgid "Expedition Skulker has deathtouch as long as you control another Rogue."
-msgstr ""
+msgstr "Ten stwór ma dotyk śmierci o ile władasz innym Łotrzykiem."
 
 #: ../../ZNR.rst:638
 msgid ":mtgtip:`Feed the Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6b2eba7-862a-4efd-9f65-065fb2070855.jpg?1604195649|https://scryfall.com/card/znr/102/feed-the-swarm?utm_source=api>`"
@@ -1453,6 +1495,8 @@ msgstr ""
 #: ../../ZNR.rst:637
 msgid "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's converted mana cost."
 msgstr ""
+"Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
+"żyć, ile wynosił skrócony koszt many owego permanentu."
 
 #: ../../ZNR.rst:646
 msgid ":mtgtip:`Ghastly Gloomhunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f272ac54-fea8-4044-83e2-f8fdc10f467d.jpg?1604195684|https://scryfall.com/card/znr/103/ghastly-gloomhunter?utm_source=api>`"
@@ -1471,6 +1515,8 @@ msgstr "Latanie, więź życia"
 #: ../../ZNR.rst:645
 msgid "If Ghastly Gloomhunter was kicked, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
+"Jeśli ten stwór został podbity, wchodzi na pole walki z dwoma znacznikami +1/"
+"+1."
 
 #: ../../ZNR.rst:650
 msgid ":mtgtip:`Guul Draz Mucklord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b996743e-7f48-49d8-948b-ceb75bddf215.jpg?1604195708|https://scryfall.com/card/znr/104/guul-draz-mucklord?utm_source=api>`"
@@ -1479,6 +1525,8 @@ msgstr ""
 #: ../../ZNR.rst:649
 msgid "When Guul Draz Mucklord dies, put a +1/+1 counter on target creature you control."
 msgstr ""
+"Kiedy ten stwór umrze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"władaniem."
 
 #: ../../ZNR.rst:656
 msgid ":mtgtip:`Hagra Constrictor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f971b71a-af69-43a7-b06c-e80eaaaf4a5f.jpg?1604195731|https://scryfall.com/card/znr/105/hagra-constrictor?utm_source=api>`"
@@ -1486,11 +1534,14 @@ msgstr ""
 
 #: ../../ZNR.rst:653
 msgid "Hagra Constrictor enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
 
 #: ../../ZNR.rst:655
 msgid "Each creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)"
 msgstr ""
+"Każdy stwór pod twoim władaniem mający znacznik +1/+1 ma złowrogość. (Stwór "
+"ze złowrogością nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../ZNR.rst:662
 msgid ":mtgtip:`Hagra Mauling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c04c734-354d-4925-8161-7052110951df.jpg?1604195798|https://scryfall.com/card/znr/106/hagra-mauling-hagra-broodpit?utm_source=api>`"
@@ -1499,6 +1550,8 @@ msgstr ""
 #: ../../ZNR.rst:659
 msgid "This spell costs |mana_1| less to cast if an opponent controls no basic lands."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli przeciwnik nie włada "
+"bazowymi lądami."
 
 #: ../../ZNR.rst:661
 msgid "Destroy target creature."
@@ -1510,7 +1563,7 @@ msgstr ""
 
 #: ../../ZNR.rst:665
 msgid "Hagra Broodpit enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:670
 msgid ":mtgtip:`Highborn Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24c40082-516e-4381-a4cc-e61c5a9a6cac.jpg?1604231440|https://scryfall.com/card/znr/107/highborn-vampire?utm_source=api>`"
@@ -1522,7 +1575,7 @@ msgstr ""
 
 #: ../../ZNR.rst:675
 msgid "Kicker |mana_2|\\ |mana_b|\\ |mana_b|"
-msgstr ""
+msgstr "Podbicie |mana_2|\\ |mana_b|\\ |mana_b|"
 
 #: ../../ZNR.rst:679
 msgid "Target opponent discards two cards."
@@ -1549,11 +1602,14 @@ msgstr "Zaurocz ląd"
 
 #: ../../ZNR.rst:689
 msgid "When Lithoform Blight enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../ZNR.rst:691
 msgid "Enchanted land loses all land types and abilities and has \"|tap|: Add |colorless|\" and \"|tap|, Pay 1 life: Add one mana of any color.\""
 msgstr ""
+"Zauroczony ląd traci wszystkie typy lądu oraz zdolności i ma \"|tap|: Weź "
+"|colorless|\" oraz \"|tap|, zapłać 1 życie: Weź jedną manę dowolnego koloru."
+"\""
 
 #: ../../ZNR.rst:696
 msgid ":mtgtip:`Malakir Blood-Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d14ea81-d303-47db-90b4-7d10588f7ea6.jpg?1604195930|https://scryfall.com/card/znr/110/malakir-blood-priest?utm_source=api>`"
@@ -1562,6 +1618,10 @@ msgstr ""
 #: ../../ZNR.rst:695
 msgid "When Malakir Blood-Priest enters the battlefield, each opponent loses X life and you gain X life, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po X żyć, a ty "
+"zyskaj X żyć, gdzie X jest liczbą stworów w twojej drużynie. (Na drużynę "
+"składa się po jednym stworze spośród danego typu: Kleryka, Łotrzyka, "
+"Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:700
 msgid ":mtgtip:`Malakir Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1604195984|https://scryfall.com/card/znr/111/malakir-rebirth-malakir-mire?utm_source=api>`"
@@ -1570,6 +1630,9 @@ msgstr ""
 #: ../../ZNR.rst:699
 msgid "Choose target creature. You lose 2 life. Until end of turn, that creature gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
+"Wskaż stwora. Strać 2 życia. Do końca tury ów stwór zyskuje \"Kiedy ten "
+"stwór umrze, przywróć go przekręconego na pole walki pod władaniem jego "
+"właściciela.\""
 
 #: ../../ZNR.rst:706
 msgid ":mtgtip:`Malakir Mire<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1604195984|https://scryfall.com/card/znr/111/malakir-rebirth-malakir-mire?utm_source=api>`"
@@ -1577,7 +1640,7 @@ msgstr ""
 
 #: ../../ZNR.rst:703
 msgid "Malakir Mire enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:710
 msgid ":mtgtip:`Marauding Blight-Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/730ddbcd-0814-4e22-85e9-78b0878324b6.jpg?1604195999|https://scryfall.com/card/znr/112/marauding-blight-priest?utm_source=api>`"
@@ -1594,14 +1657,18 @@ msgstr ""
 #: ../../ZNR.rst:713
 msgid "When Mind Carver enters the battlefield, attach it to target creature you control."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../ZNR.rst:715
 msgid "Equipped creature gets +1/+0. It gets +3/+1 instead as long as an opponent has eight or more cards in their graveyard."
 msgstr ""
+"Wyposażony stwór dostaje +1/+0. Zamiast tego dostaje on +3/+1 o ile "
+"przeciwnik ma co najmniej osiem kart w swoim cmentarzu."
 
 #: ../../ZNR.rst:717
 msgid "Equip |mana_2|\\ |mana_b|"
-msgstr ""
+msgstr "Wyposaż |mana_2|\\ |mana_b|"
 
 #: ../../ZNR.rst:722
 msgid ":mtgtip:`Mind Drain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0683d586-a54b-425a-a24d-2efb2342f150.jpg?1604231429|https://scryfall.com/card/znr/114/mind-drain?utm_source=api>`"
@@ -1610,6 +1677,9 @@ msgstr ""
 #: ../../ZNR.rst:721
 msgid "Target opponent discards two cards, mills a card, and loses 1 life. You gain 1 life. (To mill a card, a player puts the top card of their library into their graveyard.)"
 msgstr ""
+"Wskazany przeciwnik odrzuca dwie karty, mieli kartę i traci 1 życie. Ty "
+"zyskaj 1 życie. (Mieląc kartę gracz umieszcza wierzchnią kartę swojej "
+"biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:728
 msgid ":mtgtip:`Nighthawk Scavenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb348f07-1d48-4877-8a56-60655d64a3f7.jpg?1604231416|https://scryfall.com/card/znr/115/nighthawk-scavenger?utm_source=api>`"
@@ -1622,6 +1692,9 @@ msgstr "Latanie, dotyk śmierci, więź życia"
 #: ../../ZNR.rst:727
 msgid "Nighthawk Scavenger's power is equal to 1 plus the number of card types among cards in your opponents' graveyards. (Cards in graveyards have only the characteristics of their front face.)"
 msgstr ""
+"Siła tego stwora jest równa 1 plus liczba typów kart spośród kart w "
+"cmentarzach twoich przeciwników. (Karty w cmentarzach mają tylko cechy "
+"swojej przedniej strony.)"
 
 #: ../../ZNR.rst:732
 msgid ":mtgtip:`Nimana Skitter-Sneak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea080141-6262-4595-8058-b2969b3f016b.jpg?1604196156|https://scryfall.com/card/znr/116/nimana-skitter-sneak?utm_source=api>`"
@@ -1630,6 +1703,9 @@ msgstr ""
 #: ../../ZNR.rst:731
 msgid "As long as an opponent has eight or more cards in their graveyard, Nimana Skitter-Sneak gets +1/+0 and has menace. (It can't be blocked except by two or more creatures.)"
 msgstr ""
+"O ile przeciwnik ma co najmniej osiem kart w swoim cmentarzu, ten stwór "
+"dostaje +1/+0 i ma złowrogość. (Nie może być blokowany, chyba że przez co "
+"najmniej dwa stwory.)"
 
 #: ../../ZNR.rst:740
 msgid ":mtgtip:`Nimana Skydancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e72eaa0f-cbec-45a1-b390-cbbedf5a02f2.jpg?1604196242|https://scryfall.com/card/znr/117/nimana-skydancer?utm_source=api>`"
@@ -1638,6 +1714,8 @@ msgstr ""
 #: ../../ZNR.rst:739
 msgid "When Nimana Skydancer enters the battlefield, target opponent mills two cards. (They put the top two cards of their library into their graveyard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik mieli dwie karty. "
+"(Umieszcza dwie wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:748
 msgid ":mtgtip:`Nullpriest of Oblivion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/086fc7fb-efcf-4676-8455-39b63edaec6a.jpg?1604196265|https://scryfall.com/card/znr/118/nullpriest-of-oblivion?utm_source=api>`"
@@ -1645,15 +1723,17 @@ msgstr ""
 
 #: ../../ZNR.rst:743
 msgid "Kicker |mana_3|\\ |mana_b|"
-msgstr ""
+msgstr "Podbicie |mana_3|\\ |mana_b|"
 
 #: ../../ZNR.rst:745
 msgid "Menace, lifelink"
-msgstr ""
+msgstr "Złowrogość, więź życia"
 
 #: ../../ZNR.rst:747
 msgid "When Nullpriest of Oblivion enters the battlefield, if it was kicked, return target creature card from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
+"wskazaną kartę stwora z twojego cmentarza na pole walki."
 
 #: ../../ZNR.rst:752
 msgid ":mtgtip:`Oblivion's Hunger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/faf65512-8228-48f4-ba7b-d861b66d28c9.jpg?1604196298|https://scryfall.com/card/znr/119/oblivions-hunger?utm_source=api>`"
@@ -1662,6 +1742,9 @@ msgstr ""
 #: ../../ZNR.rst:751
 msgid "Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say \"destroy\" don't destroy that creature.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje do końca tury niezniszczalność. "
+"Dobierz kartę jeśli ów stwór ma znacznik +1/+1. (Obrażenia i efekty mówiące "
+"\"zniszcz\" nie niszczą owego stwora.)"
 
 #: ../../ZNR.rst:756
 msgid ":mtgtip:`Pelakka Predation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`"
@@ -1670,6 +1753,8 @@ msgstr ""
 #: ../../ZNR.rst:755
 msgid "Target opponent reveals their hand. You choose a card from it with converted mana cost 3 or greater. That player discards that card."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej kartę o skróconym koszcie "
+"many 3 lub większym. Ów gracz odrzuca ową kartę."
 
 #: ../../ZNR.rst:762
 msgid ":mtgtip:`Pelakka Caverns<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`"
@@ -1677,7 +1762,7 @@ msgstr ""
 
 #: ../../ZNR.rst:759
 msgid "Pelakka Caverns enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:768
 msgid ":mtgtip:`Scion of the Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/043926fe-d25f-40b4-b556-181503434e68.jpg?1604196403|https://scryfall.com/card/znr/121/scion-of-the-swarm?utm_source=api>`"
@@ -1685,7 +1770,7 @@ msgstr ""
 
 #: ../../ZNR.rst:767
 msgid "Whenever you gain life, put a +1/+1 counter on Scion of the Swarm."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ZNR.rst:776
 msgid ":mtgtip:`Scourge of the Skyclaves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dea7bcc-3ff8-40b0-8264-0cd678d6ff31.jpg?1604196425|https://scryfall.com/card/znr/122/scourge-of-the-skyclaves?utm_source=api>`"
@@ -1693,15 +1778,19 @@ msgstr ""
 
 #: ../../ZNR.rst:771
 msgid "Kicker |mana_4|\\ |mana_b|"
-msgstr ""
+msgstr "Podbicie |mana_4|\\ |mana_b|"
 
 #: ../../ZNR.rst:773
 msgid "When you cast this spell, if it was kicked, each player loses half their life, rounded up."
 msgstr ""
+"Kiedy rzucisz ten czar, jeśli został podbity, każdy gracz traci połowę "
+"swoich żyć, zaokrąglając w górę."
 
 #: ../../ZNR.rst:775
 msgid "Scourge of the Skyclaves's power and toughness are each equal to 20 minus the highest life total among players."
 msgstr ""
+"Siła i wytrzymałość tego stwora są obie równe 20 minus największa liczba żyć "
+"spośród graczy."
 
 #: ../../ZNR.rst:782
 msgid ":mtgtip:`Shadow Stinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/093e0b1e-2cd9-4743-9c0e-b8f3fbc41798.jpg?1604196460|https://scryfall.com/card/znr/123/shadow-stinger?utm_source=api>`"
@@ -1710,10 +1799,14 @@ msgstr ""
 #: ../../ZNR.rst:779
 msgid "Tap another untapped Rogue you control: Shadow Stinger gains deathtouch until end of turn."
 msgstr ""
+"Przekręć innego odkręconego Łotrzyka pod twoim władaniem: Niniejszy stwór "
+"zyskuje do końca tury dotyk śmierci."
 
 #: ../../ZNR.rst:781
 msgid "Whenever Shadow Stinger deals combat damage to a player, that player mills three cards. (They put the top three cards of their library into their graveyard.)"
 msgstr ""
+"Kiedy ten stwór zada graczowi obrażenia bojowe, ów gracz mieli trzy karty. ("
+"Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:786
 msgid ":mtgtip:`Shadows' Verdict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52470883-b44d-415b-9324-8074e66f79ae.jpg?1604196514|https://scryfall.com/card/znr/124/shadows-verdict?utm_source=api>`"
@@ -1722,6 +1815,9 @@ msgstr ""
 #: ../../ZNR.rst:785
 msgid "Exile all creatures and all planeswalkers with converted mana cost 3 or less from the battlefield and all creature and planeswalker cards with converted mana cost 3 or less from all graveyards."
 msgstr ""
+"Wygnaj wszystkie stwory i wszystkich wędrowców o skróconych kosztach many 3 "
+"lub mniejszych z pola walki oraz wszystkie karty stworów i karty wędrowców o "
+"kosztach many 3 lub mniejszy z cmentarzy."
 
 #: ../../ZNR.rst:796
 msgid ":mtgtip:`Skyclave Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50bbc0e7-48ce-41e2-a014-1f2eb0427550.jpg?1604196541|https://scryfall.com/card/znr/125/skyclave-shade?utm_source=api>`"
@@ -1729,19 +1825,24 @@ msgstr ""
 
 #: ../../ZNR.rst:789
 msgid "Kicker |mana_2|\\ |mana_b|"
-msgstr ""
+msgstr "Podbicie |mana_2|\\ |mana_b|"
 
 #: ../../ZNR.rst:791
 msgid "Skyclave Shade can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../ZNR.rst:793
 msgid "If Skyclave Shade was kicked, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
+"Jeśli ten stwór został podbity, wchodzi on na pole walki z dwoma znacznikami "
+"+1/+1."
 
 #: ../../ZNR.rst:795
 msgid "Landfall — Whenever a land enters the battlefield under your control, if Skyclave Shade is in your graveyard and it's your turn, you may cast it from your graveyard this turn."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, jeśli ta "
+"karta jest w twoim cmentarzu i jest twoja tura, w tej turze możesz rzucić go "
+"z cmentarza."
 
 #: ../../ZNR.rst:802
 msgid ":mtgtip:`Skyclave Shadowcat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b27fcfc5-a1a9-4b21-8240-2ed6346c64e1.jpg?1604196571|https://scryfall.com/card/znr/126/skyclave-shadowcat?utm_source=api>`"
@@ -1750,10 +1851,13 @@ msgstr ""
 #: ../../ZNR.rst:799
 msgid "|mana_1|\\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Skyclave Shadowcat."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć innego stwora: Umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../ZNR.rst:801
 msgid "Whenever a creature you control with a +1/+1 counter on it dies, draw a card."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem mający znacznik +1/+1, dobierz kartę."
 
 #: ../../ZNR.rst:806
 msgid ":mtgtip:`Soul Shatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c2fb07b-0f70-403b-be8b-b5217f12e671.jpg?1604196615|https://scryfall.com/card/znr/127/soul-shatter?utm_source=api>`"
@@ -1762,6 +1866,8 @@ msgstr ""
 #: ../../ZNR.rst:805
 msgid "Each opponent sacrifices a creature or planeswalker with the highest converted mana cost among creatures and planeswalkers they control."
 msgstr ""
+"Każdy przeciwnik poświęca stwora lub wędrowca o największym skróconym "
+"koszcie many spośród stworów i wędrowców pod swoim władaniem."
 
 #: ../../ZNR.rst:814
 msgid ":mtgtip:`Subtle Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d3f531a-ce45-4cba-be24-6db749e38abd.jpg?1604196642|https://scryfall.com/card/znr/128/subtle-strike?utm_source=api>`"
@@ -1786,11 +1892,14 @@ msgstr ""
 
 #: ../../ZNR.rst:819
 msgid "Taborax, Hope's Demise has lifelink as long as it has five or more +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór ma więź życia o ile ma co najmniej pięć znaczników +1/+1."
 
 #: ../../ZNR.rst:821
 msgid "Whenever another nontoken creature you control dies, put a +1/+1 counter on Taborax. If that creature was a Cleric, you may draw a card. If you do, you lose 1 life."
 msgstr ""
+"Ilekroć umrze inny nieżetonowy stwór pod twoim władaniem, umieść znacznik +1/"
+"+1 na niniejszym stworze. Jeśli ów stwór był Klerykiem, możesz dobrać kartę. "
+"Jeśli tak zrobisz, strać 1 życie."
 
 #: ../../ZNR.rst:828
 msgid ":mtgtip:`Thwart the Grave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd037e51-9088-4145-8289-00a86fb72ca1.jpg?1604252055|https://scryfall.com/card/znr/130/thwart-the-grave?utm_source=api>`"
@@ -1799,6 +1908,9 @@ msgstr ""
 #: ../../ZNR.rst:827
 msgid "Return target creature card and up to one target Cleric, Rogue, Warrior, or Wizard creature card from your graveyard to the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę stwora i co najwyżej jedną wskazaną kartę stwora "
+"typu Kleryk, Łotrzyk, Wojownik lub Czarodziej z twojego cmentarza na pole "
+"walki."
 
 #: ../../ZNR.rst:832
 msgid ":mtgtip:`Vanquish the Weak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c15852d4-2c79-4841-bb65-6661d88fdfab.jpg?1604196688|https://scryfall.com/card/znr/131/vanquish-the-weak?utm_source=api>`"
@@ -1814,7 +1926,7 @@ msgstr ""
 
 #: ../../ZNR.rst:835
 msgid "Each opponent loses 4 life and you gain 4 life."
-msgstr ""
+msgstr "Każdy przeciwnik traci po 4 życia, a ty zyskaj 4 życia."
 
 #: ../../ZNR.rst:842
 msgid ":mtgtip:`Zof Bloodbog<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/8/98496d5b-1519-4f0c-8b46-0a43be643dfb.jpg?1604196785|https://scryfall.com/card/znr/132/zof-consumption-zof-bloodbog?utm_source=api>`"
@@ -1822,7 +1934,7 @@ msgstr ""
 
 #: ../../ZNR.rst:839
 msgid "Zof Bloodbog enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:846
 msgid ":mtgtip:`Akoum Hellhound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a5ad1c8-3d70-43ed-9539-2aa6289c5c4a.jpg?1604196803|https://scryfall.com/card/znr/133/akoum-hellhound?utm_source=api>`"
