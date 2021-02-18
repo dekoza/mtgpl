@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-18 09:26+0000\n"
+"PO-Revision-Date: 2021-02-18 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -600,6 +600,10 @@ msgstr ""
 #: ../../KHM.rst:253
 msgid "At the beginning of your end step, choose a card type, then reveal the top two cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Na początku twojego kroku końcowego wybierz typ karty, następnie ujawnij "
+"dwie wierzchnie karty twojej biblioteki. Umieść spośród nich wszystkie karty "
+"wybranego typu w twojej ręce, a pozostałe na spodzie twojej biblioteki w "
+"dowolnej kolejności."
 
 #: ../../KHM.rst:260
 msgid ":mtgtip:`Hakka, Whispering Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1612316166|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`"
@@ -618,6 +622,8 @@ msgstr ""
 #: ../../KHM.rst:263
 msgid "Create two 1/1 blue Bird creature tokens with flying. Take an extra turn after this one. Exile Alrund's Epiphany."
 msgstr ""
+"Stwórz dwa żetony niebieskiego stwora Ptak 1/1 z lataniem. Weź dodatkową "
+"turę po obecnej. Wygnaj ten czar."
 
 #: ../../KHM.rst:265
 msgid "Foretell |mana_4|\\ |mana_u|\\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
@@ -641,14 +647,22 @@ msgstr ""
 #: ../../KHM.rst:273
 msgid "|mana_s|\\ |mana_s|: Ascendant Spirit becomes a Spirit Warrior with base power and toughness 2/3."
 msgstr ""
+"|mana_s|\\ |mana_s|: Ten stwór staje się Duchem Wojownikiem o bazowych sile "
+"i wytrzymałości 2/3."
 
 #: ../../KHM.rst:275
 msgid "|mana_s|\\ |mana_s|\\ |mana_s|: If Ascendant Spirit is a Warrior, put a flying counter on it and it becomes a Spirit Warrior Angel with base power and toughness 4/4."
 msgstr ""
+"|mana_s|\\ |mana_s|\\ |mana_s|: Jeśli ten stwór jest Wojownikiem, umieść na "
+"nim znacznik latania i staje się on Duchem Wojownikiem Aniołem o bazowych "
+"sile i wytrzymałości 4/4."
 
 #: ../../KHM.rst:277
 msgid "|mana_s|\\ |mana_s|\\ |mana_s|\\ |mana_s|: If Ascendant Spirit is an Angel, put two +1/+1 counters on it and it gains \"Whenever this creature deals combat damage to a player, draw a card.\""
 msgstr ""
+"|mana_s|\\ |mana_s|\\ |mana_s|\\ |mana_s|: Jeśli ten stwór jest Aniołem, "
+"umieść na nim dwa znaczniki +1/+1 i zyskuje on \"Ilekroć ten stwór zada "
+"graczowi obrażenia bojowe, dobierz kartę.\""
 
 #: ../../KHM.rst:284
 msgid ":mtgtip:`Augury Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9947cfd-91d6-479e-a7f6-2a2050f020f3.jpg?1610586032|https://scryfall.com/card/khm/44/augury-raven?utm_source=api>`"
@@ -670,6 +684,10 @@ msgstr ""
 #: ../../KHM.rst:287
 msgid "|mana_2|: Target snow land you control becomes a 4/4 Elemental creature with hexproof and haste until end of turn. It's still a land. (A creature with hexproof can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"|mana_2|: Wskazany śnieżny ląd pod twoim władaniem do końca tury staje się "
+"stworem Żywiołak 4/4 z antyklątwą i pośpiechem. Nadal jest lądem. (Stwór z "
+"antyklątwą nie może być wskazywany przez czary i zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../KHM.rst:294
 msgid ":mtgtip:`Behold the Multiverse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27855a38-a682-4f97-ad22-ac625e86faec.jpg?1610586049|https://scryfall.com/card/khm/46/behold-the-multiverse?utm_source=api>`"
@@ -686,6 +704,10 @@ msgstr ""
 #: ../../KHM.rst:297
 msgid "When Berg Strider enters the battlefield, tap target artifact or creature an opponent controls. If |mana_s| was spent to cast this spell, that permanent doesn't untap during its controller's next untap step. (|mana_s| is mana from a snow source.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, przekręć wskazany artefakt lub stwora "
+"pod władaniem przeciwnika. Jeśli do rzucenia użyto |mana_s|, ów permanent "
+"nie odkręci się w najbliższym kroku odkręcania swojego władcy. (|mana_s| to "
+"mana ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:306
 msgid ":mtgtip:`Bind the Monster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/080be8d1-e453-4250-b917-f0eb26644895.jpg?1611078481|https://scryfall.com/card/khm/48/bind-the-monster?utm_source=api>`"
@@ -718,6 +740,11 @@ msgstr ""
 #: ../../KHM.rst:315
 msgid "At the beginning of your upkeep, you may exile Cosima. If you do, it gains \"Whenever a land enters the battlefield under your control, if Cosima is exiled, you may put a voyage counter on it. If you don't, return Cosima to the battlefield with X +1/+1 counters on it and draw X cards, where X is the number of voyage counters on it.\""
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz wygnać tego stwora. Jeśli tak "
+"zrobisz zyskuje on \"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, "
+"a ta karta jest na wygnaniu, możesz umieścić na niej znacznik podróży. Jeśli "
+"tego nie zrobisz, przywróć tę kartę na pole walki mającą X znaczników +1/+1 "
+"i dobierz X kart, gdzie X jest liczbą znaczników podróży na tej karcie.\""
 
 #: ../../KHM.rst:322
 msgid ":mtgtip:`The Omenkeel<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/a/fab2fca4-a99f-4ffe-9c02-edb6e0be2358.jpg?1611862762|https://scryfall.com/card/khm/50/cosima-god-of-the-voyage-the-omenkeel?utm_source=api>`"
@@ -726,10 +753,13 @@ msgstr ""
 #: ../../KHM.rst:319
 msgid "Whenever a Vehicle you control deals combat damage to a player, that player exiles that many cards from the top of their library. You may play lands from among those cards for as long as they remain exiled."
 msgstr ""
+"Ilekroć Pojazd pod twoim władaniem zada graczowi obrażenia bojowe, ów gracz "
+"wygania tyle samo kart z wierzchu swojej biblioteki. Możesz grać spośród "
+"nich karty lądów przez cały czas ich wygnania."
 
 #: ../../KHM.rst:321
 msgid "Crew 1"
-msgstr ""
+msgstr "Załoga 1"
 
 #: ../../KHM.rst:332
 msgid ":mtgtip:`Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ec318c6-b718-436f-b9e8-e0c6154e5010.jpg?1610585974|https://scryfall.com/card/khm/51/cosmos-charger?utm_source=api>`"
@@ -755,6 +785,9 @@ msgstr ""
 #: ../../KHM.rst:335
 msgid "When Cyclone Summoner enters the battlefield, if you cast it from your hand, return all permanents to their owners' hands except for Giants, Wizards, and lands."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został rzucony z twojej ręki, "
+"przywróć wszystkie permanenty do rąk ich właścicieli z wyjątkiem Gigantów, "
+"Czarodziei i lądów."
 
 #: ../../KHM.rst:342
 msgid ":mtgtip:`Depart the Realm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2ce0403d-76ed-4eb0-abdd-74ed28f96137.jpg?1611929174|https://scryfall.com/card/khm/53/depart-the-realm?utm_source=api>`"
@@ -825,6 +858,9 @@ msgstr ""
 #: ../../KHM.rst:363
 msgid "When Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wyszukaj w twojej bibliotece kartę "
+"sztuczki lub obrzędu mającą taką samą nazwę co karta w twoim cmentarzu, "
+"ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../KHM.rst:372
 msgid ":mtgtip:`Giant's Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab8b1ec2-9303-4722-8644-b3bc1a5c387f.jpg?1611000629|https://scryfall.com/card/khm/59/giants-amulet?utm_source=api>`"
@@ -833,10 +869,16 @@ msgstr ""
 #: ../../KHM.rst:367
 msgid "When Giant's Amulet enters the battlefield, you may pay |mana_3|\\ |mana_u|. If you do, create a 4/4 blue Giant Wizard creature token, then attach Giant's Amulet to it."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, możesz zapłacić |mana_3|\\ |mana_u|"
+". Jeśli tak zrobisz stwórz żeton niebieskiego stwora Gigant Czarodziej 4/4, "
+"następnie dołącz do niego ten artefakt."
 
 #: ../../KHM.rst:369
 msgid "Equipped creature gets +0/+1 and has \"This creature has hexproof as long as it's untapped.\" (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Wyposażony stwór dostaje +0/+1 i ma \"Ten stwór ma antyklątwę o ile jest "
+"odkręcony.\" (Nie może być wskazywany przez czary i zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../KHM.rst:371
 #: ../../KHM.rst:1585
@@ -857,6 +899,9 @@ msgstr ""
 #: ../../KHM.rst:377
 msgid "As long as you control a Giant, you may cast Glimpse the Cosmos from your graveyard by paying |mana_u| rather than paying its mana cost. If you cast Glimpse the Cosmos this way and it would be put into your graveyard, exile it instead."
 msgstr ""
+"O ile władasz Gigantem, możesz rzucić ten czar z twojego cmentarza płacąc "
+"|mana_u| zamiast jego kosztu many. Jeśli rzucisz ten czar tym sposobem i "
+"miałby on zostać umieszczony w twoim cmentarzu, zamiast tego wygnaj go."
 
 #: ../../KHM.rst:382
 msgid ":mtgtip:`Graven Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4386e5c-32b1-4096-a93f-fedd1a4801fc.jpg?1610996879|https://scryfall.com/card/khm/61/graven-lore?utm_source=api>`"
@@ -945,6 +990,9 @@ msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 #: ../../KHM.rst:409
 msgid "When Littjara Kinseekers enters the battlefield, if you control three or more creatures that share a creature type, put a +1/+1 counter on Littjara Kinseekers, then scry 1."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli władasz co najmniej trzema "
+"stworami współdzielącymi typ stwora, umieść znacznik +1/+1 na niniejszym "
+"stworze, następnie wróż 1."
 
 #: ../../KHM.rst:418
 msgid ":mtgtip:`Mists of Littjara<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cfd4944-790f-4835-a8a1-c23ef7047648.jpg?1611077980|https://scryfall.com/card/khm/67/mists-of-littjara?utm_source=api>`"
@@ -973,6 +1021,9 @@ msgstr ""
 #: ../../KHM.rst:429
 msgid "Choose target nonlegendary creature. The next time one or more creatures or planeswalkers enter the battlefield this turn, they enter as copies of the chosen creature."
 msgstr ""
+"Wskaż nielegendarnego stwora. Kiedy następnym razem jeden lub więcej stworów "
+"lub wędrowców wejdzie na pole walki w tej turze, wchodzą one jako kopie "
+"wybranego stwora."
 
 #: ../../KHM.rst:440
 msgid ":mtgtip:`Orvar, the All-Form<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f36775e-9e48-49cc-a771-d58481712edc.jpg?1610997185|https://scryfall.com/card/khm/70/orvar-the-all-form?utm_source=api>`"
@@ -985,10 +1036,15 @@ msgstr "Zmiennokształtny"
 #: ../../KHM.rst:437
 msgid "Whenever you cast an instant or sorcery spell, if it targets one or more other permanents you control, create a token that's a copy of one of those permanents."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, jeśli wskazuje on co najmniej "
+"jeden inny permanent pod twoim władaniem, stwórz żeton będący kopią jednego "
+"z owych permanentów."
 
 #: ../../KHM.rst:439
 msgid "When a spell or ability an opponent controls causes you to discard this card, create a token that's a copy of target permanent."
 msgstr ""
+"Kiedy czar lub zdolność pod władaniem przeciwnika powoduje, że odrzucasz tę "
+"kartę, stwórz żeton będący kopią wskazanego permanentu."
 
 #: ../../KHM.rst:446
 msgid ":mtgtip:`Pilfering Hawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76ee3829-8dec-4c0f-a6c2-ad47a1c94cfc.jpg?1610996908|https://scryfall.com/card/khm/71/pilfering-hawk?utm_source=api>`"
@@ -1016,7 +1072,7 @@ msgstr ""
 
 #: ../../KHM.rst:455
 msgid "As Reflections of Littjara enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając ten urok na polu walki, wybierz typ stwora."
 
 #: ../../KHM.rst:457
 msgid "Whenever you cast a spell of the chosen type, copy that spell. (A copy of a permanent spell becomes a token.)"
@@ -1048,11 +1104,13 @@ msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../KHM.rst:473
 msgid "As long as enchanted permanent is a creature, it has flying."
-msgstr ""
+msgstr "O ile zauroczony permanent jest stworem, ma latanie."
 
 #: ../../KHM.rst:475
 msgid "As long as enchanted permanent is an Equipment, it has \"Equipped creature has flying.\""
 msgstr ""
+"O ile zauroczony permanent jest Wyposażeniem, ma on \"Wyposażony stwór ma "
+"latanie.\""
 
 #: ../../KHM.rst:482
 msgid ":mtgtip:`Saw It Coming<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/877a1bb9-5eae-453a-bec0-a9de20ea6815.jpg?1611798589|https://scryfall.com/card/khm/76/saw-it-coming?utm_source=api>`"
@@ -1097,6 +1155,9 @@ msgstr "Zniszcz wszystkich wędrowców."
 #: ../../KHM.rst:501
 msgid "Then return a creature or planeswalker card with converted mana cost X or less from your graveyard to the battlefield, where X is the amount of |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
 msgstr ""
+"Następnie przywróć kartę stwora lub wędrowca o skróconym koszcie many X lub "
+"mniejszym z twojego cmentarza na pole walki, gdzie X jest liczbą |mana_s| "
+"użytej do rzucenia tego czaru. (|mana_s| jest maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:506
 msgid ":mtgtip:`Bloodsky Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6308a53-de07-4ed9-80a1-3579843466c2.jpg?1610586437|https://scryfall.com/card/khm/80/bloodsky-berserker?utm_source=api>`"
@@ -1105,6 +1166,9 @@ msgstr ""
 #: ../../KHM.rst:505
 msgid "Whenever you cast your second spell each turn, put two +1/+1 counters on Bloodsky Berserker. It gains menace until end of turn. (It can't be blocked except by two or more creatures.)"
 msgstr ""
+"Ilekroć rzucisz swój drugi czar w danej turze, umieść dwa znaczniki +1/+1 na "
+"niniejszym stworze. Do końca tury zyskuje on złowrogość. (Nie może być "
+"blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../KHM.rst:512
 msgid ":mtgtip:`Burning-Rune Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f358a52b-8044-404e-8d04-2ec5903386cc.jpg?1611027869|https://scryfall.com/card/khm/81/burning-rune-demon?utm_source=api>`"
@@ -1113,6 +1177,11 @@ msgstr ""
 #: ../../KHM.rst:511
 msgid "When Burning-Rune Demon enters the battlefield, you may search your library for exactly two cards not named Burning-Rune Demon that have different names. If you do, reveal those cards. An opponent chooses one of them. Put the chosen card into your hand and the other into your graveyard, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"dokładnie dwie karty o nazwach innych niż niniejszy stwór i mających różne "
+"nazwy. Jeśli tak zrobisz, ujawnij owe karty. Przeciwnik wybiera jedną z "
+"nich. Umieść wybraną kartę w twojej ręce, a pozostałą w twoim cmentarzu, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../KHM.rst:516
 msgid ":mtgtip:`Crippling Fear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d9bd181-b99f-477e-bcfb-9b78cbf51224.jpg?1611110713|https://scryfall.com/card/khm/82/crippling-fear?utm_source=api>`"
@@ -1131,6 +1200,8 @@ msgstr ""
 #: ../../KHM.rst:519
 msgid "When Deathknell Berserker dies, if its power was 3 or greater, create a 2/2 black Zombie Berserker creature token."
 msgstr ""
+"Kiedy ten stwór umrze, jeśli miał siłę 3 lub większą, stwórz żeton czarnego "
+"stwora Zombi Berserk 2/2."
 
 #: ../../KHM.rst:524
 msgid ":mtgtip:`Demonic Gifts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f23c487-ac4a-475b-ad5e-ec6f8678e668.jpg?1611054452|https://scryfall.com/card/khm/84/demonic-gifts?utm_source=api>`"
@@ -1139,6 +1210,8 @@ msgstr ""
 #: ../../KHM.rst:523
 msgid "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield under its owner's control.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +2/+0 oraz \"Kiedy ten stwór umrze, "
+"przywróć go na pole walki pod władaniem właściciela.\""
 
 #: ../../KHM.rst:528
 msgid ":mtgtip:`Dogged Pursuit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60f6a159-b969-4767-802e-409f8bf286fe.jpg?1610397582|https://scryfall.com/card/khm/85/dogged-pursuit?utm_source=api>`"
@@ -1157,10 +1230,15 @@ msgstr ""
 #: ../../KHM.rst:531
 msgid "If a nontoken creature an opponent controls would die, exile that card with an ice counter on it instead."
 msgstr ""
+"Jeśli miałby umrzeć nieżetonowy stwór pod władaniem przeciwnika, zamiast "
+"tego wygnaj ową kartę ze znacznikiem lodu."
 
 #: ../../KHM.rst:533
 msgid "You may cast spells from among cards in exile your opponents own with ice counters on them, and you may spend mana from snow sources as though it were mana of any color to cast those spells."
 msgstr ""
+"Możesz rzucać czary spośród wygnanych przez twoich przeciwników kart "
+"mających znacznik lodu i możesz wydawać manę ze śnieżnych źródeł tak, jakby "
+"była maną dowolnego koloru potrzebnego do ich rzucenia."
 
 #: ../../KHM.rst:538
 msgid ":mtgtip:`Draugr Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2.jpg?1611170200|https://scryfall.com/card/khm/87/draugr-recruiter?utm_source=api>`"
@@ -1180,6 +1258,9 @@ msgstr ""
 #: ../../KHM.rst:541
 msgid "When Draugr's Helm enters the battlefield, you may pay |mana_2|\\ |mana_b|. If you do, create a 2/2 black Zombie Berserker creature token, then attach Draugr's Helm to it."
 msgstr ""
+"Kiedy ten artefalt wejdzie na pole walki, możesz zapłacić |mana_2|\\ |mana_b|"
+". Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi Berserk 2/2, "
+"następnie dołącz do niego ten artefakt."
 
 #: ../../KHM.rst:543
 msgid "Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)"
@@ -1198,6 +1279,8 @@ msgstr ""
 #: ../../KHM.rst:549
 msgid "|mana_1|\\ |mana_b|, |tap|, Exile a creature card from your graveyard: Target opponent loses 3 life."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|, wygnaj kartę stwora z twojego cmentarza: "
+"Wskazany przeciwnik traci 3 życia."
 
 #: ../../KHM.rst:556
 msgid ":mtgtip:`Dream Devourer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff1d88a6-a74d-44b5-b7a8-866e866807f1.jpg?1611170269|https://scryfall.com/card/khm/90/dream-devourer?utm_source=api>`"
@@ -1239,6 +1322,8 @@ msgstr "Dotyk śmierci"
 #: ../../KHM.rst:565
 msgid "At the beginning of your upkeep, exile two cards from your graveyard. If you can't, sacrifice Egon and draw a card."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj dwie karty z twojego cmentarza. "
+"Jeśli nie możesz, poświęć tego stwora i dobierz kartę."
 
 #: ../../KHM.rst:572
 msgid ":mtgtip:`Throne of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/d/9dfdb73d-b001-4a59-b79e-8c8c1baea116.jpg?1610397419|https://scryfall.com/card/khm/92/egon-god-of-death-throne-of-death?utm_source=api>`"
@@ -1292,6 +1377,9 @@ msgstr ""
 #: ../../KHM.rst:589
 msgid "|mana_1|\\ |mana_s|: Grim Draugr gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures. |mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
+"|mana_1|\\ |mana_s|: Ten stwór dostaje do końca tury +1/+0 i złowrogość. ("
+"Nie może być blokowany, chyba że przez co najmniej dwa stwory. |mana_s| "
+"można opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:596
 msgid ":mtgtip:`Hailstorm Valkyrie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5a272b3-aaab-4c98-86a8-85c67a5f3d4d.jpg?1610996883|https://scryfall.com/card/khm/97/hailstorm-valkyrie?utm_source=api>`"
@@ -1305,6 +1393,8 @@ msgstr "Latanie, tratowanie"
 #: ../../KHM.rst:595
 msgid "|mana_s|\\ |mana_s|: Hailstorm Valkyrie gets +2/+2 until end of turn. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
+"|mana_s|\\ |mana_s|: Ten stwór dostaje do końca tury +2/+2. (|mana_s| można "
+"opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:602
 msgid ":mtgtip:`Haunting Voyage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2ac5bca0-35fe-47be-a78c-d5eac68a3bfa.jpg?1611170310|https://scryfall.com/card/khm/98/haunting-voyage?utm_source=api>`"
@@ -1391,6 +1481,8 @@ msgstr ""
 #: ../../KHM.rst:633
 msgid "|tap|, Sacrifice Priest of the Haunted Edge: Target creature gets -X/-X until end of turn, where X is the number of snow lands you control. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|tap|, poświęć tego stwora: Wskazany stwór dostaje go końca tury -X/-X, "
+"gdzie X jest liczbą śnieżnych lądów pod twoim władaniem. Aktywuj jako obrzęd."
 
 #: ../../KHM.rst:642
 msgid ":mtgtip:`Raise the Draugr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a67c196-632c-4c7b-a132-de07d894e634.jpg?1610586723|https://scryfall.com/card/khm/105/raise-the-draugr?utm_source=api>`"
@@ -1986,6 +2078,9 @@ msgstr "Twoi przeciwnicy nie mogą zyskiwać żyć."
 #: ../../KHM.rst:893
 msgid "At the beginning of your upkeep, Quakebringer deals 2 damage to each opponent. This ability triggers only if Quakebringer is on the battlefield or if Quakebringer is in your graveyard and you control a Giant."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten stwór zadaje każdemu przeciwnikowi "
+"po 2 obrażenia. Ta zdolność wyzwala się tylko jeśli ten stwór jest na polu "
+"walki lub gdy ta karta jest w twoim cmentarzu, a ty władasz Gigantem."
 
 #: ../../KHM.rst:895
 msgid "Foretell |mana_2|\\ |mana_r|\\ |mana_r|"
@@ -1998,6 +2093,9 @@ msgstr ""
 #: ../../KHM.rst:899
 msgid "Create X 2/1 red Dwarf Berserker creature tokens, where X is the number of Vehicles you control plus the number of Equipment you control. For each of those tokens, you may attach an Equipment you control to it."
 msgstr ""
+"Stwórz X żetonów czerwonego stwora Krasnolud Berserk 2/1, gdzie X jest sumą "
+"liczby Pojazdów pod twoim władaniem i liczby Wyposażenia pod twoim pojazdem. "
+"Każdemu z owych stworów możesz dołączyć Wyposażenie pod twoim władaniem."
 
 #: ../../KHM.rst:904
 msgid ":mtgtip:`Run Amok<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44c8136f-2826-476c-a103-7094670506a6.jpg?1610494903|https://scryfall.com/card/khm/147/run-amok?utm_source=api>`"
@@ -2046,6 +2144,9 @@ msgstr ""
 #: ../../KHM.rst:923
 msgid "Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste and \"Whenever this creature deals damage, destroy target Equipment attached to it.\""
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
+"tury zyskuje on pośpiech oraz \"Ilekroć ten stwór zada obrażenia, zniszcz "
+"wskazane Wyposażenie dołączone do niego.\""
 
 #: ../../KHM.rst:928
 msgid ":mtgtip:`Smashing Success<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c22c7383-ba4d-4b3c-91d6-2d6528e19825.jpg?1610656962|https://scryfall.com/card/khm/151/smashing-success?utm_source=api>`"
@@ -2054,6 +2155,9 @@ msgstr ""
 #: ../../KHM.rst:927
 msgid "Destroy target artifact or land. If an artifact is destroyed this way, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Zniszcz wskazany artefakt lub ląd. Jeśli zniszczono artefakt w ten sposób, "
+"stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt: Weź "
+"jedną manę dowolnego koloru.\")"
 
 #: ../../KHM.rst:934
 msgid ":mtgtip:`Squash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0b99299-bf84-4654-a331-e4406768b33c.jpg?1610496754|https://scryfall.com/card/khm/152/squash?utm_source=api>`"
@@ -2074,6 +2178,11 @@ msgstr ""
 #: ../../KHM.rst:937
 msgid "Counter target spell. Choose 1, 2, or 3 at random. Its controller mills that many cards, then exiles cards from the top of their library until they exile a nonland card with a different name than that spell. They may cast that card without paying its mana cost. Then they put the exiled cards on the bottom of their library in a random order."
 msgstr ""
+"Skontruj wskazany czar. Wybierz losowo 1, 2 lub 3. Jego władca mieli tyle "
+"kart, następnie wygania karty z wierzchu swojej biblioteki aż wygna "
+"nielądową kartę o innej nazwie niż ów czar. Może rzucić ową kartę bez "
+"płacenia jej kosztu many. Następnie umieszcza owe wygnane karty losowo na "
+"spodzie swojej biblioteki."
 
 #: ../../KHM.rst:944
 msgid ":mtgtip:`Toralf, God of Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22a6a5f1-1405-4efb-af3e-e1f58d664e99.jpg?1610652603|https://scryfall.com/card/khm/154/toralf-god-of-fury-toralfs-hammer?utm_source=api>`"
@@ -2093,6 +2202,9 @@ msgstr ""
 #: ../../KHM.rst:947
 msgid "Equipped creature has \"|mana_1|\\ |mana_r|, |tap|, Unattach Toralf's Hammer: It deals 3 damage to any target. Return Toralf's Hammer to its owner's hand.\""
 msgstr ""
+"Wyposażony stwór ma \"|mana_1|\\ |mana_r|, |tap|, odłącz ten artefakt: "
+"Zadaje on wskazanemu celowi 3 obrażenia. Przywróć ten artefakt do ręki "
+"właściciela.\""
 
 #: ../../KHM.rst:949
 msgid "Equipped creature gets +3/+0 as long as it's legendary."
@@ -2132,6 +2244,10 @@ msgstr ""
 #: ../../KHM.rst:963
 msgid "Tundra Fumarole deals 4 damage to target creature or planeswalker. Add |colorless| for each |mana_s| spent to cast this spell. Until end of turn, you don't lose this mana as steps and phases end. (|mana_s| is mana from a snow source.)"
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 4 obrażenia. Weź "
+"|colorless| za każdą |mana_s| wydaną na rzucenie tego czaru. Do końca tury "
+"nie tracisz tej many podczas końców kroków i faz. (|mana_s| jest maną ze "
+"śnieżnego źródła.)"
 
 #: ../../KHM.rst:968
 msgid ":mtgtip:`Tuskeri Firewalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a54d0170-a375-4e65-b98d-3e94a3aeef90.jpg?1610734526|https://scryfall.com/card/khm/157/tuskeri-firewalker?utm_source=api>`"
@@ -2151,6 +2267,9 @@ msgstr ""
 #: ../../KHM.rst:971
 msgid "|mana_1|, |tap|, Exile a creature card from your graveyard: Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"|mana_1|, |tap|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
+"Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\")"
 
 #: ../../KHM.rst:978
 msgid ":mtgtip:`Arachnoform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acbe560b-f7b5-4614-91f1-b669a39abc16.jpg?1610999724|https://scryfall.com/card/khm/159/arachnoform?utm_source=api>`"

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-18 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -29,6 +29,10 @@ msgstr ""
 #: ../../ZNR.rst:9
 msgid "Up to two target creatures each get +X/+X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +X/+X, "
+"gdzie X jest liczbą stworów w twojej drużynie. (Na drużynę składa się po "
+"jednym stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i "
+"Czarodzieja.)"
 
 #: ../../ZNR.rst:18
 msgid ":mtgtip:`Angel of Destiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9897074a-0ac4-4d1a-9aac-e77830cc5c78.jpg?1604195368|https://scryfall.com/card/znr/2/angel-of-destiny?utm_source=api>`"
@@ -58,6 +62,9 @@ msgstr ""
 #: ../../ZNR.rst:21
 msgid "When Angelheart Protector enters the battlefield, target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
+"\" nie niszczą go.)"
 
 #: ../../ZNR.rst:30
 msgid ":mtgtip:`Archon of Emeria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/228c1650-da3c-4099-91b6-18e3873c9cdb.jpg?1604195419|https://scryfall.com/card/znr/4/archon-of-emeria?utm_source=api>`"
@@ -93,6 +100,8 @@ msgstr "Każdy gracz nie może rzucać więcej niż jednego czaru na turę."
 #: ../../ZNR.rst:29
 msgid "Nonbasic lands your opponents control enter the battlefield tapped."
 msgstr ""
+"Niebazowe lądy pod władaniem twoich przeciwników wchodzą na pole walki "
+"przekręcone."
 
 #: ../../ZNR.rst:36
 msgid ":mtgtip:`Archpriest of Iona<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7dc61e4-46e3-473b-90f8-27e71e1088e8.jpg?1604195451|https://scryfall.com/card/znr/5/archpriest-of-iona?utm_source=api>`"
@@ -101,10 +110,15 @@ msgstr ""
 #: ../../ZNR.rst:33
 msgid "Archpriest of Iona's power is equal to the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Siła tego stwora jest równa liczbie stworów w twojej drużynie. (Na drużynę "
+"składa się po jednym stworze spośród danego typu: Kleryka, Łotrzyka, "
+"Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:35
 msgid "At the beginning of combat on your turn, if you have a full party, target creature gets +1/+1 and gains flying until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, jeśli masz pełną drużynę, wskazany stwór "
+"dostaje do końca tury +1/+1 i latanie."
 
 #: ../../ZNR.rst:42
 msgid ":mtgtip:`Attended Healer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6ca80b5a-3943-41ca-8cd1-8e3db1b2a1c8.jpg?1604195482|https://scryfall.com/card/znr/6/attended-healer?utm_source=api>`"
@@ -113,10 +127,13 @@ msgstr ""
 #: ../../ZNR.rst:39
 msgid "Whenever you gain life for the first time each turn, create a 1/1 white Cat creature token."
 msgstr ""
+"Ilekroć zyskasz życia po raz pierwszy w danej turze, stwórz żeton białego "
+"stwora Kot 1/1."
 
 #: ../../ZNR.rst:41
 msgid "|mana_2|\\ |mana_w|: Another target Cleric gains lifelink until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_w|: Inny wskazany Kleryk zyskuje do końca tury więź życia."
 
 #: ../../ZNR.rst:46
 msgid ":mtgtip:`Canyon Jerboa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26b3938e-ebd7-4668-be3a-422c02ff5b08.jpg?1604195520|https://scryfall.com/card/znr/7/canyon-jerboa?utm_source=api>`"
@@ -145,6 +162,8 @@ msgstr ""
 #: ../../ZNR.rst:55
 msgid "Creatures you control get +1/+1 until end of turn. If this spell was kicked, those creatures get +2/+1 until end of turn instead."
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +1/+1. Jeśli ten czar "
+"został podbity, owe stwory zamiast tego dostają do końca tury +2/+1."
 
 #: ../../ZNR.rst:60
 msgid ":mtgtip:`Disenchant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c37ba56-e22c-4b10-821a-2827c5cd81ad.jpg?1604195611|https://scryfall.com/card/znr/10/disenchant?utm_source=api>`"
@@ -165,6 +184,9 @@ msgstr "Latanie, czujność"
 #: ../../ZNR.rst:65
 msgid "When Emeria Captain enters the battlefield, put a +1/+1 counter on it for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, umieść na nim znacznik +1/+1 za "
+"każdego stwora w twojej drużynie. (Na drużynę składa się po jednym stworze "
+"spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:70
 msgid ":mtgtip:`Emeria's Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c470539a-9cc7-4175-8f7c-c982b6072b6d.jpg?1604195709|https://scryfall.com/card/znr/12/emerias-call-emeria-shattered-skyclave?utm_source=api>`"
@@ -173,6 +195,8 @@ msgstr ""
 #: ../../ZNR.rst:69
 msgid "Create two 4/4 white Angel Warrior creature tokens with flying. Non-Angel creatures you control gain indestructible until your next turn."
 msgstr ""
+"Stwórz dwa żetony białego stwora Anioł Wojownik 4/4 z lataniem. Stwory bez "
+"typu Anioł pod twoim władaniem zyskują do końca tury niezniszczalność."
 
 #: ../../ZNR.rst:76
 msgid ":mtgtip:`Emeria, Shattered Skyclave<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/4/c470539a-9cc7-4175-8f7c-c982b6072b6d.jpg?1604195709|https://scryfall.com/card/znr/12/emerias-call-emeria-shattered-skyclave?utm_source=api>`"
@@ -181,6 +205,8 @@ msgstr ""
 #: ../../ZNR.rst:73
 msgid "As Emeria, Shattered Skyclave enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, możesz zapłacić 3 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole walki."
 
 #: ../../ZNR.rst:75
 #: ../../ZNR.rst:117
@@ -207,7 +233,7 @@ msgstr "Czujność"
 
 #: ../../ZNR.rst:81
 msgid "Expedition Healer has lifelink as long as you control another Cleric."
-msgstr ""
+msgstr "Ten stwór ma więź życia o ile władasz innym Klerykiem."
 
 #: ../../ZNR.rst:86
 msgid ":mtgtip:`Farsight Adept<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/5949bb9a-b4e8-4992-a12d-8e31953aff0d.jpg?1604195753|https://scryfall.com/card/znr/14/farsight-adept?utm_source=api>`"
@@ -216,6 +242,8 @@ msgstr ""
 #: ../../ZNR.rst:85
 msgid "When Farsight Adept enters the battlefield, you and target opponent each draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, ty i wskazany przeciwnik dobieracie "
+"po karcie."
 
 #: ../../ZNR.rst:90
 msgid ":mtgtip:`Fearless Fledgling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02d73eb7-4e76-48d4-90fa-fa972dc0fccb.jpg?1604195796|https://scryfall.com/card/znr/15/fearless-fledgling?utm_source=api>`"
@@ -224,6 +252,8 @@ msgstr ""
 #: ../../ZNR.rst:89
 msgid "Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Fearless Fledgling. It gains flying until end of turn."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, umieść "
+"znacznik +1/+1 na tym stworze. Do końca tury zyskuje on latanie."
 
 #: ../../ZNR.rst:98
 msgid ":mtgtip:`Felidar Retreat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45340647-4d3e-4be1-b0e6-e40cc56a438b.jpg?1604195832|https://scryfall.com/card/znr/16/felidar-retreat?utm_source=api>`"
@@ -237,11 +267,13 @@ msgstr ""
 
 #: ../../ZNR.rst:95
 msgid "Create a 2/2 white Cat Beast creature token."
-msgstr ""
+msgstr "Stwórz żeton białego stwora Kot Bestia 2/2."
 
 #: ../../ZNR.rst:97
 msgid "Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn."
 msgstr ""
+"Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Owe stwory "
+"zyskują do końca tury czujność."
 
 #: ../../ZNR.rst:104
 msgid ":mtgtip:`Journey to Oblivion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47120e3c-73aa-468d-96b7-47aead342e31.jpg?1604195865|https://scryfall.com/card/znr/17/journey-to-oblivion?utm_source=api>`"
@@ -256,10 +288,15 @@ msgstr ""
 #: ../../ZNR.rst:1611
 msgid "This spell costs |mana_1| less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twojej "
+"drużynie. (Na drużynę składa się po jednym stworze spośród danego typu: "
+"Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:103
 msgid "When Journey to Oblivion enters the battlefield, exile target nonland permanent an opponent controls until Journey to Oblivion leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nielądowy permanent "
+"pod władaniem przeciwnika do czasu opuszczenia przez ten urok pola walki."
 
 #: ../../ZNR.rst:108
 msgid ":mtgtip:`Kabira Outrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53c81719-f820-4674-9cfb-cd5eaf0c1f0d.jpg?1604195914|https://scryfall.com/card/znr/18/kabira-outrider?utm_source=api>`"
@@ -268,6 +305,9 @@ msgstr ""
 #: ../../ZNR.rst:107
 msgid "When Kabira Outrider enters the battlefield, target creature gets +1/+1 until end of turn for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"1/+1 za każdego stwora w twojej drużynie. (Na drużynę składa się po jednym "
+"stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:112
 msgid ":mtgtip:`Kabira Takedown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/366e9845-019d-47cc-adb8-8fbbaad35b6d.jpg?1604195985|https://scryfall.com/card/znr/19/kabira-takedown-kabira-plateau?utm_source=api>`"
@@ -276,6 +316,8 @@ msgstr ""
 #: ../../ZNR.rst:111
 msgid "Kabira Takedown deals damage equal to the number of creatures you control to target creature or planeswalker."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi tyle obrażeń, iloma "
+"stworami władasz."
 
 #: ../../ZNR.rst:118
 msgid ":mtgtip:`Kabira Plateau<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/366e9845-019d-47cc-adb8-8fbbaad35b6d.jpg?1604195985|https://scryfall.com/card/znr/19/kabira-takedown-kabira-plateau?utm_source=api>`"
@@ -283,7 +325,7 @@ msgstr ""
 
 #: ../../ZNR.rst:115
 msgid "Kabira Plateau enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:126
 msgid ":mtgtip:`Kitesail Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16626f84-00d3-4ec9-b62c-19fff380cd3a.jpg?1604195997|https://scryfall.com/card/znr/20/kitesail-cleric?utm_source=api>`"
@@ -298,6 +340,8 @@ msgstr ""
 #: ../../ZNR.rst:125
 msgid "When Kitesail Cleric enters the battlefield, if it was kicked, tap up to two target creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przekręć co "
+"najwyżej dwa wskazane stwory."
 
 #: ../../ZNR.rst:132
 msgid ":mtgtip:`Kor Blademaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc6d6049-5599-47eb-ae58-a8eb96927ece.jpg?1604192436|https://scryfall.com/card/znr/21/kor-blademaster?utm_source=api>`"
@@ -309,7 +353,7 @@ msgstr "Podwójny cios"
 
 #: ../../ZNR.rst:131
 msgid "Equipped Warriors you control have double strike."
-msgstr ""
+msgstr "Wyposażeni Wojownicy pod twoim władaniem mają podwójny cios."
 
 #: ../../ZNR.rst:136
 msgid ":mtgtip:`Kor Celebrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87c37e46-a961-4739-8893-f783013e2be6.jpg?1604192472|https://scryfall.com/card/znr/22/kor-celebrant?utm_source=api>`"
@@ -318,6 +362,8 @@ msgstr ""
 #: ../../ZNR.rst:135
 msgid "Whenever Kor Celebrant or another creature enters the battlefield under your control, you gain 1 life."
 msgstr ""
+"Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj "
+"1 życie."
 
 #: ../../ZNR.rst:142
 msgid ":mtgtip:`Legion Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bda5609a-ab22-4f03-988b-8056c97fdc9e.jpg?1604192509|https://scryfall.com/card/znr/23/legion-angel?utm_source=api>`"
@@ -326,6 +372,8 @@ msgstr ""
 #: ../../ZNR.rst:141
 msgid "When Legion Angel enters the battlefield, you may reveal a card you own named Legion Angel from outside the game and put it into your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz ujawnić własną kartę o nazwie "
+"Legion Angel spoza gry i umieścić ją w twojej ręce."
 
 #: ../../ZNR.rst:146
 msgid ":mtgtip:`Luminarch Aspirant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe964e7e-e2c5-4263-889d-0a531eb51442.jpg?1604192525|https://scryfall.com/card/znr/24/luminarch-aspirant?utm_source=api>`"
@@ -334,6 +382,8 @@ msgstr ""
 #: ../../ZNR.rst:145
 msgid "At the beginning of combat on your turn, put a +1/+1 counter on target creature you control."
 msgstr ""
+"Na początku walki w twojej turze, umieść znacznik +1/+1 na wskazanym stworze "
+"pod twoim władaniem."
 
 #: ../../ZNR.rst:150
 msgid ":mtgtip:`Makindi Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd0d164a-bce2-4474-abe0-b735eb6c9442.jpg?1604192569|https://scryfall.com/card/znr/25/makindi-ox?utm_source=api>`"
@@ -342,6 +392,8 @@ msgstr ""
 #: ../../ZNR.rst:149
 msgid "Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, przekręć "
+"wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../ZNR.rst:154
 msgid ":mtgtip:`Makindi Stampede<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ada9a974-8f1f-4148-bd61-200fc14714b2.jpg?1604192616|https://scryfall.com/card/znr/26/makindi-stampede-makindi-mesas?utm_source=api>`"
@@ -357,7 +409,7 @@ msgstr ""
 
 #: ../../ZNR.rst:157
 msgid "Makindi Mesas enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:168
 msgid ":mtgtip:`Maul of the Skyclaves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f18f2608-0d44-442c-97a1-12ac94b7abac.jpg?1604192639|https://scryfall.com/card/znr/27/maul-of-the-skyclaves?utm_source=api>`"
@@ -366,14 +418,16 @@ msgstr ""
 #: ../../ZNR.rst:163
 msgid "When Maul of the Skyclaves enters the battlefield, attach it to target creature you control."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../ZNR.rst:165
 msgid "Equipped creature gets +2/+2 and has flying and first strike."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma latanie oraz pierwszy cios."
 
 #: ../../ZNR.rst:167
 msgid "Equip |mana_2|\\ |mana_w|\\ |mana_w|"
-msgstr ""
+msgstr "Wyposaż |mana_2|\\ |mana_w|\\ |mana_w|"
 
 #: ../../ZNR.rst:172
 msgid ":mtgtip:`Mesa Lynx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f65af09b-656f-4d81-b95d-b4f902e56bb7.jpg?1604192681|https://scryfall.com/card/znr/28/mesa-lynx?utm_source=api>`"
@@ -381,7 +435,7 @@ msgstr ""
 
 #: ../../ZNR.rst:171
 msgid "As long as it's not your turn, Mesa Lynx gets +0/+2."
-msgstr ""
+msgstr "O ile nie jest twoja tura, ten stwór dostaje +0/+2."
 
 #: ../../ZNR.rst:178
 msgid ":mtgtip:`Nahiri's Binding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/421eac28-d6f2-44f2-b7ca-eb73fbf23887.jpg?1604192763|https://scryfall.com/card/znr/29/nahiris-binding?utm_source=api>`"
@@ -389,7 +443,7 @@ msgstr ""
 
 #: ../../ZNR.rst:175
 msgid "Enchant creature or planeswalker"
-msgstr ""
+msgstr "Zaurocz stwora lub wędrowca"
 
 #: ../../ZNR.rst:177
 msgid "Enchanted permanent can't attack or block, and its activated abilities can't be activated."
@@ -411,7 +465,7 @@ msgstr ""
 
 #: ../../ZNR.rst:185
 msgid "Ondu Skyruins enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:192
 msgid ":mtgtip:`Paired Tactician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67930e10-4de8-4d40-af27-4a38d35ab16f.jpg?1604192873|https://scryfall.com/card/znr/31/paired-tactician?utm_source=api>`"
@@ -420,6 +474,8 @@ msgstr ""
 #: ../../ZNR.rst:191
 msgid "Whenever Paired Tactician and at least one other Warrior attack, put a +1/+1 counter on Paired Tactician."
 msgstr ""
+"Ilekroć atakuje ten stwór i co najmniej jeden inny Wojownik, umieść znacznik "
+"+1/+1 na niniejszym stworze."
 
 #: ../../ZNR.rst:196
 msgid ":mtgtip:`Practiced Tactics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91b448f4-aa0c-42c7-a771-e8dd20e0520c.jpg?1604192922|https://scryfall.com/card/znr/32/practiced-tactics?utm_source=api>`"
@@ -428,6 +484,10 @@ msgstr ""
 #: ../../ZNR.rst:195
 msgid "Choose target attacking or blocking creature. Practiced Tactics deals damage to that creature equal to twice the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Wskaż atakującego lub blokującego stwora. Niniejszy stwór zadaje owemu "
+"stworowi obrażenia równe dwukrotności liczby stworów w twojej drużynie. (Na "
+"drużynę składa się po jednym stworze spośród danego typu: Kleryka, Łotrzyka, "
+"Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:202
 msgid ":mtgtip:`Pressure Point<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fe82bbf-9b92-4684-a42d-fbc50c4c5903.jpg?1604192958|https://scryfall.com/card/znr/33/pressure-point?utm_source=api>`"
@@ -451,6 +511,8 @@ msgstr ""
 #: ../../ZNR.rst:207
 msgid "Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Prowling Felidar."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, umieść "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../ZNR.rst:212
 msgid ":mtgtip:`Resolute Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78b82476-4320-4719-9785-af8d68503234.jpg?1604193042|https://scryfall.com/card/znr/35/resolute-strike?utm_source=api>`"
@@ -459,6 +521,8 @@ msgstr ""
 #: ../../ZNR.rst:211
 msgid "Target creature gets +2/+2 until end of turn. If it's a Warrior, you may attach an Equipment you control to it."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest Wojownikiem, możesz "
+"do niego dołączyć jedno Wyposażenie pod twoim władaniem."
 
 #: ../../ZNR.rst:216
 msgid ":mtgtip:`Sea Gate Banneret<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6ae4634e-1487-4b66-8f70-bcb4b1fa6e77.jpg?1604193084|https://scryfall.com/card/znr/36/sea-gate-banneret?utm_source=api>`"
@@ -485,7 +549,7 @@ msgstr ""
 
 #: ../../ZNR.rst:223
 msgid "Sejiri Glacier enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:232
 msgid ":mtgtip:`Shepherd of Heroes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f70baa3-5232-4e10-80b4-a9ead6ed6ec3.jpg?1604235790|https://scryfall.com/card/znr/38/shepherd-of-heroes?utm_source=api>`"
@@ -494,6 +558,9 @@ msgstr ""
 #: ../../ZNR.rst:231
 msgid "When Shepherd of Heroes enters the battlefield, you gain 2 life for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, zyskaj po 2 życia za każdego stwora w "
+"twojej drużynie. (Na drużynę składa się po jednym stworze spośród danego "
+"typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:238
 msgid ":mtgtip:`Skyclave Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b83cfbaa-7890-4f6f-878b-4edb45677371.jpg?1604193295|https://scryfall.com/card/znr/39/skyclave-apparition?utm_source=api>`"
@@ -502,10 +569,16 @@ msgstr ""
 #: ../../ZNR.rst:235
 msgid "When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with converted mana cost 4 or less."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj co najwyżej jeden wskazany "
+"nielądowy, nieżetonowy permanent poza twoim władaniem o skróconym koszcie "
+"many 4 lub mniejszym."
 
 #: ../../ZNR.rst:237
 msgid "When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the converted mana cost of the exiled card."
 msgstr ""
+"Kiedy ten stwór opuści pole walki, właściciel wygnanej karty tworzy żeton "
+"niebieskiego stwora Iluzja X/X, gdzie X jest skróconym kosztem many owej "
+"wygnanej karty."
 
 #: ../../ZNR.rst:242
 msgid ":mtgtip:`Skyclave Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/014027c4-7f9d-4096-b308-ea4be574c0d4.jpg?1604243887|https://scryfall.com/card/znr/40/skyclave-cleric-skyclave-basilica?utm_source=api>`"
@@ -513,7 +586,7 @@ msgstr ""
 
 #: ../../ZNR.rst:241
 msgid "When Skyclave Cleric enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia."
 
 #: ../../ZNR.rst:248
 msgid ":mtgtip:`Skyclave Basilica<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/1/014027c4-7f9d-4096-b308-ea4be574c0d4.jpg?1604243887|https://scryfall.com/card/znr/40/skyclave-cleric-skyclave-basilica?utm_source=api>`"
@@ -521,7 +594,7 @@ msgstr ""
 
 #: ../../ZNR.rst:245
 msgid "Skyclave Basilica enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:254
 msgid ":mtgtip:`Squad Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2ce186d-c9cd-41e9-bac2-ad9d36c4939f.jpg?1604193386|https://scryfall.com/card/znr/41/squad-commander?utm_source=api>`"
@@ -530,10 +603,16 @@ msgstr ""
 #: ../../ZNR.rst:251
 msgid "When Squad Commander enters the battlefield, create a 1/1 white Kor Warrior creature token for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Kor "
+"Wojownik 1/1 za każdego stwora w twojej drużynie. (Na drużynę składa się po "
+"jednym stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i "
+"Czarodzieja.)"
 
 #: ../../ZNR.rst:253
 msgid "At the beginning of combat on your turn, if you have a full party, creatures you control get +1/+0 and gain indestructible until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, jeśli masz pełną drużynę, stwory pod twoim "
+"władaniem dostają do końca tury +1/+0 i niezniszczalność."
 
 #: ../../ZNR.rst:258
 msgid ":mtgtip:`Smite the Monstrous<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c103163-31b7-4d25-aa2c-02ca082ee1bf.jpg?1604193448|https://scryfall.com/card/znr/42/smite-the-monstrous?utm_source=api>`"
@@ -550,6 +629,8 @@ msgstr ""
 #: ../../ZNR.rst:263
 msgid "When Tazeem Raptor enters the battlefield, you may return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić ląd pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../ZNR.rst:270
 msgid ":mtgtip:`Tazri, Beacon of Unity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4b79138-5728-4541-9ea5-dce1a5ae7e6a.jpg?1604193517|https://scryfall.com/card/znr/44/tazri-beacon-of-unity?utm_source=api>`"
@@ -560,10 +641,16 @@ msgstr ""
 #: ../../ZNR.rst:1535
 msgid "This spell costs |mana_1| less to cast for each creature in your party."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twojej "
+"drużynie."
 
 #: ../../ZNR.rst:269
 msgid "|mana_2u|\\ |mana_2b|\\ |mana_2r|\\ |mana_2g|: Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, Wizard, and/or Ally cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"|mana_2u|\\ |mana_2b|\\ |mana_2r|\\ |mana_2g|: Spójrz na sześć wierzchnich "
+"kart twojej biblioteki. Możesz ujawnić spośród nich co najwyżej dwie karty "
+"typów Kleryk, Łotrzyk, Wojownik, Czarodziej i/lub Sojusznik i umieścić je w "
+"twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../ZNR.rst:274
 msgid ":mtgtip:`Anticognition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db99b872-77c7-4471-9c44-a36d4ff5d33f.jpg?1604193539|https://scryfall.com/card/znr/45/anticognition?utm_source=api>`"
@@ -572,6 +659,9 @@ msgstr ""
 #: ../../ZNR.rst:273
 msgid "Counter target creature or planeswalker spell unless its controller pays |mana_2|. If an opponent has eight or more cards in their graveyard, instead counter that spell, then scry 2."
 msgstr ""
+"Skontruj wskazany czar stwora lub wędrowca, chyba że jego właściciel zapłaci "
+"|mana_2|. Jeśli przeciwnik ma co najmniej osiem kart w swoim cmentarzu, "
+"zamiast tego skontruj ów czar, następnie wróż 2."
 
 #: ../../ZNR.rst:278
 msgid ":mtgtip:`Beyeen Veil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f411f08-45dd-4d73-8894-daf51c175150.jpg?1604193600|https://scryfall.com/card/znr/46/beyeen-veil-beyeen-coast?utm_source=api>`"
@@ -587,7 +677,7 @@ msgstr ""
 
 #: ../../ZNR.rst:281
 msgid "Beyeen Coast enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:283
 #: ../../ZNR.rst:365
@@ -620,6 +710,8 @@ msgstr "Zaurocz stwora"
 #: ../../ZNR.rst:291
 msgid "When Bubble Snare enters the battlefield, if it was kicked, tap enchanted creature."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, jeśli został podbity, przekręć "
+"zauroczonego stwora."
 
 #: ../../ZNR.rst:293
 msgid "Enchanted creature doesn't untap during its controller's untap step."
