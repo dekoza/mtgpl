@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-18 22:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -2790,13 +2790,12 @@ msgstr ""
 
 # 0d7b8d76cf5a4d039279d93302d665c0
 #: ../../C13.rst:865
-#, fuzzy
 msgid ""
 "Kicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_r| (Możesz zapłacić dodatkowo |mana_r| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_1|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_g|.)"
 
 # f4a7f24b6058450aa6e5acea53325be7
 #: ../../C13.rst:867
@@ -4872,6 +4871,8 @@ msgid ""
 "When Bojuka Bog enters the battlefield, exile all cards from target player's "
 "graveyard."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole walki, wygnaj wszystkie karty z cmentarza "
+"wskazanego gracza."
 
 #: ../../C13.rst:1600
 msgid ""
