@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-18 13:55+0000\n"
+"PO-Revision-Date: 2021-02-18 18:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -771,6 +771,10 @@ msgstr ""
 #: ../../ZNR.rst:315
 msgid "Counter target noncreature spell unless its controller pays |mana_1| plus an additional |mana_1| for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Skontruj wskazany nie-stworowy czar, chyba że jego władca zapłaci |mana_1| "
+"plus dodatkowe |mana_1| za każdego stwora w twojej drużynie. (Na drużynę "
+"składa się po jednym stworze spośród danego typu: Kleryka, Łotrzyka, "
+"Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:322
 msgid ":mtgtip:`Confounding Conundrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95e37936-913e-4b16-a5a8-8aed733d702d.jpg?1604193855|https://scryfall.com/card/znr/53/confounding-conundrum?utm_source=api>`"
@@ -778,11 +782,14 @@ msgstr ""
 
 #: ../../ZNR.rst:319
 msgid "When Confounding Conundrum enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
 
 #: ../../ZNR.rst:321
 msgid "Whenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under their control this turn, they return a land they control to its owner's hand."
 msgstr ""
+"Ilekroć ląd wejdzie na pole walki pod władaniem przeciwnika, jeśli w tej "
+"turze na pole walki wszedł już inny ląd pod władaniem owego gracza, ów gracz "
+"przywraca ląd pod swoim władaniem do ręki właściciela."
 
 #: ../../ZNR.rst:328
 msgid ":mtgtip:`Coralhelm Chronicler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50b54524-8345-4b47-913f-d883a1cbe3a1.jpg?1604193917|https://scryfall.com/card/znr/54/coralhelm-chronicler?utm_source=api>`"
@@ -790,11 +797,14 @@ msgstr ""
 
 #: ../../ZNR.rst:325
 msgid "Whenever you cast a kicked spell, draw a card, then discard a card."
-msgstr ""
+msgstr "Ilekroć rzucisz podbity czar, dobierz kartę, następnie odrzuć kartę."
 
 #: ../../ZNR.rst:327
 msgid "When Coralhelm Chronicler enters the battlefield, look at the top five cards of your library. You may reveal a card with a kicker ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, spójrz na pięć wierzchnich kart "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę z podbiciem i umieścić "
+"ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../ZNR.rst:334
 msgid ":mtgtip:`Cunning Geysermage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/2217f0a9-5af5-45cc-8cf7-8878d4f66dd8.jpg?1604193977|https://scryfall.com/card/znr/55/cunning-geysermage?utm_source=api>`"
@@ -803,6 +813,8 @@ msgstr ""
 #: ../../ZNR.rst:333
 msgid "When Cunning Geysermage enters the battlefield, if it was kicked, return up to one other target creature to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć co "
+"najwyżej jednego innego wskazanego stwora do ręki właściciela."
 
 #: ../../ZNR.rst:338
 msgid ":mtgtip:`Deliberate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c41c0dd0-fef2-4f3c-8f3c-9c9c521b5442.jpg?1604194005|https://scryfall.com/card/znr/56/deliberate?utm_source=api>`"
@@ -819,6 +831,8 @@ msgstr ""
 #: ../../ZNR.rst:343
 msgid "As long as you control another Wizard, Expedition Diviner has \"When this creature dies, draw a card.\""
 msgstr ""
+"O ile władasz innym Czarodziejem, niniejszy stwór ma \"Kiedy ten stwór "
+"umrze, dobierz kartę.\""
 
 #: ../../ZNR.rst:350
 msgid ":mtgtip:`Field Research<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a48c3a2f-678b-4e70-a53f-258457d88d29.jpg?1604194056|https://scryfall.com/card/znr/58/field-research?utm_source=api>`"
@@ -827,6 +841,8 @@ msgstr ""
 #: ../../ZNR.rst:349
 msgid "Draw two cards. If this spell was kicked, draw three cards instead."
 msgstr ""
+"Dobierz dwie karty. Jeśli ten czar został podbity, zamiast tego dobierz trzy "
+"karty."
 
 #: ../../ZNR.rst:356
 msgid ":mtgtip:`Glacial Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/381d84d6-7b34-44cb-a697-54b835ba1281.jpg?1604194085|https://scryfall.com/card/znr/59/glacial-grasp?utm_source=api>`"
@@ -835,6 +851,9 @@ msgstr ""
 #: ../../ZNR.rst:353
 msgid "Tap target creature. Its controller mills two cards. That creature doesn't untap during its controller's next untap step. (They put the top two cards of their library into their graveyard.)"
 msgstr ""
+"Przekręć wskazanego stwora. Jego władca mieli dwie karty. Ów stwór nie "
+"odkręci się w najbliższym kroku odkręcania jego władcy. (Umieszcza dwie "
+"wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:360
 msgid ":mtgtip:`Glasspool Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976|https://scryfall.com/card/znr/60/glasspool-mimic-glasspool-shore?utm_source=api>`"
@@ -843,6 +862,9 @@ msgstr ""
 #: ../../ZNR.rst:359
 msgid "You may have Glasspool Mimic enter the battlefield as a copy of a creature you control, except it's a Shapeshifter Rogue in addition to its other types."
 msgstr ""
+"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia stwora pod "
+"twoim władaniem, ale ma typy Przemieniec Łotrzyk oprócz swoich pozostałych "
+"typów."
 
 #: ../../ZNR.rst:366
 msgid ":mtgtip:`Glasspool Shore<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976|https://scryfall.com/card/znr/60/glasspool-mimic-glasspool-shore?utm_source=api>`"
@@ -850,7 +872,7 @@ msgstr ""
 
 #: ../../ZNR.rst:363
 msgid "Glasspool Shore enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:378
 msgid ":mtgtip:`Inscription of Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/281cdb1c-21ae-4430-8e0f-c993f52ba891.jpg?1604194137|https://scryfall.com/card/znr/61/inscription-of-insight?utm_source=api>`"
@@ -858,13 +880,15 @@ msgstr ""
 
 #: ../../ZNR.rst:369
 msgid "Kicker |mana_2|\\ |mana_u|\\ |mana_u|"
-msgstr ""
+msgstr "Podbicie |mana_2|\\ |mana_u|\\ |mana_u|"
 
 #: ../../ZNR.rst:371
 #: ../../ZNR.rst:677
 #: ../../ZNR.rst:1179
 msgid "Choose one. If this spell was kicked, choose any number instead."
 msgstr ""
+"Wybierz jedno. Jeśli ten czar został podbity, zamiast tego wybierz dowolną "
+"liczbę."
 
 #: ../../ZNR.rst:373
 msgid "Return up to two target creatures to their owners' hands."
@@ -877,6 +901,8 @@ msgstr "Wróż 2, następnie dobierz dwie karty."
 #: ../../ZNR.rst:377
 msgid "Target player creates an X/X blue Illusion creature token, where X is the number of cards in their hand."
 msgstr ""
+"Wskazany gracz tworzy żeton niebieskiego stwora Iluzja X/X, gdzie X jest "
+"liczbą kart na jego ręce."
 
 #: ../../ZNR.rst:384
 msgid ":mtgtip:`Into the Roil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/899540b0-c17a-4a73-912c-9b8925203de1.jpg?1604194172|https://scryfall.com/card/znr/62/into-the-roil?utm_source=api>`"
@@ -901,19 +927,24 @@ msgstr ""
 #: ../../ZNR.rst:387
 #: ../../ZNR.rst:1005
 msgid "Kicker |mana_2|"
-msgstr ""
+msgstr "Podbicie |mana_2|"
 
 #: ../../ZNR.rst:389
 msgid "When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a token that's a copy of Jace, Mirror Mage except it's not legendary and its starting loyalty is 1."
 msgstr ""
+"Kiedy ten wędrowiec wejdzie na pole walki, jeśli został podbity, stwórz "
+"żeton będący jego kopią z tą różnicą, że nie jest legendarny i jego "
+"początkowa lojalność wynosi 1."
 
 #: ../../ZNR.rst:391
 msgid "+1: Scry 2."
-msgstr ""
+msgstr "+1: Wróż 2."
 
 #: ../../ZNR.rst:393
 msgid "0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's converted mana cost from Jace, Mirror Mage."
 msgstr ""
+"0: Dobierz kartę i ujawnij ją. Usuń z tego wędrowca tyle znaczników "
+"lojalności, ile wynosi jej skrócony koszt many."
 
 #: ../../ZNR.rst:398
 msgid ":mtgtip:`Jwari Disruption<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757|https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins?utm_source=api>`"
@@ -929,7 +960,7 @@ msgstr ""
 
 #: ../../ZNR.rst:401
 msgid "Jwari Ruins enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:410
 msgid ":mtgtip:`Living Tempest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a05ed233-9b53-4c67-ab1c-0217386c9fe4.jpg?1604194351|https://scryfall.com/card/znr/65/living-tempest?utm_source=api>`"
@@ -950,6 +981,8 @@ msgstr ""
 #: ../../ZNR.rst:413
 msgid "This spell costs |mana_3| less to cast if it targets a creature whose controller has eight or more cards in their graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli wskazuje on stwora, "
+"którego władca ma co najmniej osiem kart w swoim cmentarzu."
 
 #: ../../ZNR.rst:415
 msgid "Gain control of target creature with converted mana cost X."
@@ -961,11 +994,13 @@ msgstr ""
 
 #: ../../ZNR.rst:419
 msgid "Kicker |mana_3|\\ |mana_u|"
-msgstr ""
+msgstr "Podbicie |mana_3|\\ |mana_u|"
 
 #: ../../ZNR.rst:421
 msgid "Each opponent mills eight cards. If this spell was kicked, instead each opponent mills half their library, rounded up."
 msgstr ""
+"Każdy przeciwnik mieli osiem kart. Jeśli ten czar został podbity, zamiast "
+"tego każdy przeciwnik mieli połowę swojej biblioteki, zaokrąglając wzwyż."
 
 #: ../../ZNR.rst:430
 msgid ":mtgtip:`Master of Winds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0caaf92a-3d9d-4c52-acff-cf960ec55e47.jpg?1604194468|https://scryfall.com/card/znr/68/master-of-winds?utm_source=api>`"
@@ -974,10 +1009,15 @@ msgstr ""
 #: ../../ZNR.rst:427
 msgid "When Master of Winds enters the battlefield, draw two cards, then discard a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dobierz dwie karty, następnie odrzuć "
+"kartę."
 
 #: ../../ZNR.rst:429
 msgid "Whenever you cast an instant, sorcery, or Wizard spell, you may have Master of Winds's base power and toughness become 4/1 or 1/4 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki, obrzędu lub Czarodzieja, możesz sprawić, że "
+"bazowe siła i wytrzymałość niniejszego stwora przyjmą do końca tury wartości "
+"4/1 lub 1/4."
 
 #: ../../ZNR.rst:436
 msgid ":mtgtip:`Merfolk Falconer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acb0d55a-9d6a-443d-aa82-5cea93188fd2.jpg?1604194490|https://scryfall.com/card/znr/69/merfolk-falconer?utm_source=api>`"
@@ -985,7 +1025,7 @@ msgstr ""
 
 #: ../../ZNR.rst:435
 msgid "Whenever you cast a kicked spell, scry 2."
-msgstr ""
+msgstr "Ilekroć rzucisz podbity czar, wróż 2."
 
 #: ../../ZNR.rst:444
 msgid ":mtgtip:`Merfolk Windrobber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/112077b8-1514-4320-a70f-b23f3c7ce18a.jpg?1604194520|https://scryfall.com/card/znr/70/merfolk-windrobber?utm_source=api>`"
@@ -994,10 +1034,14 @@ msgstr ""
 #: ../../ZNR.rst:441
 msgid "Whenever Merfolk Windrobber deals combat damage to a player, that player mills a card. (They put the top card of their library into their graveyard.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz mieli kartę. ("
+"Umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:443
 msgid "Sacrifice Merfolk Windrobber: Draw a card. Activate this ability only if an opponent has eight or more cards in their graveyard."
 msgstr ""
+"Poświęć tego stwora: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli "
+"przeciwnik ma co najmniej osiem kart w swoim cmentarzu."
 
 #: ../../ZNR.rst:448
 msgid ":mtgtip:`Negate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e92c7477-d453-4fa4-acf4-3835ab9eb55a.jpg?1604194548|https://scryfall.com/card/znr/71/negate?utm_source=api>`"
@@ -1014,10 +1058,15 @@ msgstr ""
 #: ../../ZNR.rst:451
 msgid "Nimble Trapfinder can't be blocked if you had another Cleric, Rogue, Warrior, or Wizard enter the battlefield under your control this turn."
 msgstr ""
+"Ten stwór nie może być blokowany jeśli w tej turze na pole walki pod twoim "
+"władaniem wszedł inny Kleryk, Łotrzyk, Wojownik lub Czarodziej."
 
 #: ../../ZNR.rst:453
 msgid "At the beginning of combat on your turn, if you have a full party, creatures you control gain \"Whenever this creature deals combat damage to a player, draw a card\" until end of turn."
 msgstr ""
+"Na początku bitwy w twojej turze, jeśli masz pełną drużynę, stwory pod twoim "
+"władaniem do końca tury zyskują \"Ilekroć ten stwór zada graczowi obrażenia "
+"bojowe, dobierz kartę.\""
 
 #: ../../ZNR.rst:458
 msgid ":mtgtip:`Risen Riptide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6455009-030c-4a33-a60b-80863d8f8aaf.jpg?1604194618|https://scryfall.com/card/znr/73/risen-riptide?utm_source=api>`"
@@ -1026,6 +1075,8 @@ msgstr ""
 #: ../../ZNR.rst:457
 msgid "Whenever you cast a kicked spell, Risen Riptide has base power and toughness 5/5 until end of turn."
 msgstr ""
+"Ilekroć rzucisz podbity czar, ten stwór ma do końca tury bazowe siłę i "
+"wytrzymałość 5/5."
 
 #: ../../ZNR.rst:466
 msgid ":mtgtip:`Roost of Drakes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba1240d4-dbd0-483b-934a-5f7c505fad42.jpg?1604194640|https://scryfall.com/card/znr/74/roost-of-drakes?utm_source=api>`"
@@ -1034,10 +1085,14 @@ msgstr ""
 #: ../../ZNR.rst:463
 msgid "When Roost of Drakes enters the battlefield, if it was kicked, create a 2/2 blue Drake creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, stwórz żeton "
+"niebieskiego stwora Drak 2/2 z lataniem."
 
 #: ../../ZNR.rst:465
 msgid "Whenever you cast a kicked spell, create a 2/2 blue Drake creature token with flying."
 msgstr ""
+"Ilekroć rzucisz podbity czar, stwórz żeton niebieskiego stwora Drak 2/2 z "
+"lataniem."
 
 #: ../../ZNR.rst:470
 msgid ":mtgtip:`Ruin Crab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/738ce273-c938-42d2-83b2-c4f5f4000b0b.jpg?1604194671|https://scryfall.com/card/znr/75/ruin-crab?utm_source=api>`"
@@ -1046,6 +1101,9 @@ msgstr ""
 #: ../../ZNR.rst:469
 msgid "Landfall — Whenever a land enters the battlefield under your control, each opponent mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, każdy "
+"przeciwnik mieli trzy karty. (By zmielić kartę, gracz umieszcza wierzchnią "
+"kartę swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:474
 msgid ":mtgtip:`Sea Gate Restoration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/193071fe-180b-4d35-ba78-9c16675c29fc.jpg?1604250788|https://scryfall.com/card/znr/76/sea-gate-restoration-sea-gate-reborn?utm_source=api>`"
@@ -1054,6 +1112,8 @@ msgstr ""
 #: ../../ZNR.rst:473
 msgid "Draw cards equal to the number of cards in your hand plus one. You have no maximum hand size for the rest of the game."
 msgstr ""
+"Dobierz o jedną kartę więcej niż masz kart na ręce. Do końca gry nie masz "
+"limitu kart na ręce."
 
 #: ../../ZNR.rst:480
 msgid ":mtgtip:`Sea Gate, Reborn<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/9/193071fe-180b-4d35-ba78-9c16675c29fc.jpg?1604250788|https://scryfall.com/card/znr/76/sea-gate-restoration-sea-gate-reborn?utm_source=api>`"
@@ -1062,6 +1122,8 @@ msgstr ""
 #: ../../ZNR.rst:477
 msgid "As Sea Gate, Reborn enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped."
 msgstr ""
+"Umieszczając ten ląd na polu walki możesz zapłacić 3 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole walki."
 
 #: ../../ZNR.rst:486
 msgid ":mtgtip:`Sea Gate Stormcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e14e677-9bfa-4bcc-9772-8e7758d7538a.jpg?1604194815|https://scryfall.com/card/znr/77/sea-gate-stormcaller?utm_source=api>`"
@@ -1069,11 +1131,15 @@ msgstr ""
 
 #: ../../ZNR.rst:483
 msgid "Kicker |mana_4|\\ |mana_u|"
-msgstr ""
+msgstr "Podbicie |mana_4|\\ |mana_u|"
 
 #: ../../ZNR.rst:485
 msgid "When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with converted mana cost 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, skopiuj podczas jego rzucania twój "
+"następny rzucony w tej turze czar sztuczki lub obrzędu o skróconym koszcie "
+"many 2 lub mniejszym. Jeśli niniejszy stwór został podbity, zamiast tego "
+"skopiuj ów czar dwukrotnie. Możesz wskazać nowe cele dla owych kopii."
 
 #: ../../ZNR.rst:490
 msgid ":mtgtip:`Seafloor Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/985e9696-6c76-4241-97fc-f166fe2420ce.jpg?1604231466|https://scryfall.com/card/znr/78/seafloor-stalker?utm_source=api>`"
@@ -1082,6 +1148,10 @@ msgstr ""
 #: ../../ZNR.rst:489
 msgid "|mana_4|\\ |mana_u|: Seafloor Stalker gets +1/+0 until end of turn and can't be blocked this turn. This ability costs |mana_1| less to activate for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"|mana_4|\\ |mana_u|: Ten stwór dostaje do końca tury +1/+0 i nie może być "
+"blokowany w tej turze. Aktywacja tej zdolności kosztuje o |mana_1| mniej za "
+"każdego stwora w twojej drużynie. (Na drużynę składa się po jednym stworze "
+"spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:496
 msgid ":mtgtip:`Shell Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3daede39-8eef-4272-a483-312dbd2dd30f.jpg?1604194867|https://scryfall.com/card/znr/79/shell-shield?utm_source=api>`"
@@ -1090,10 +1160,15 @@ msgstr ""
 #: ../../ZNR.rst:493
 msgid "Kicker |mana_1| (You may pay an additional |mana_1| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_1| (Rzucając ten czar możesz dodatkowo zapłacić |mana_1|.)"
 
 #: ../../ZNR.rst:495
 msgid "Target creature you control gets +0/+3 until end of turn. If this spell was kicked, that creature also gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +0/+3. Jeśli ten "
+"czar został podbity, ów stwór do końca tury zyskuje także antyklątwę. (Nie "
+"może być wskazywany przez czary lub zdolności pod władaniem twoich "
+"przeciwników.)"
 
 #: ../../ZNR.rst:500
 msgid ":mtgtip:`Silundi Vision<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11568cdf-6148-494c-8b98-f5ca5797d775.jpg?1604194924|https://scryfall.com/card/znr/80/silundi-vision-silundi-isle?utm_source=api>`"
@@ -1102,6 +1177,9 @@ msgstr ""
 #: ../../ZNR.rst:499
 msgid "Look at the top six cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Spójrz na sześć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę sztuczki lub obrzędu i umieścić ją w twojej ręce. Umieść "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../ZNR.rst:506
 msgid ":mtgtip:`Silundi Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/1/11568cdf-6148-494c-8b98-f5ca5797d775.jpg?1604194924|https://scryfall.com/card/znr/80/silundi-vision-silundi-isle?utm_source=api>`"
@@ -1109,7 +1187,7 @@ msgstr ""
 
 #: ../../ZNR.rst:503
 msgid "Silundi Isle enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:510
 msgid ":mtgtip:`Skyclave Plunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3ff05312-787e-4e5e-a0d5-8f3fb576fc49.jpg?1604194953|https://scryfall.com/card/znr/81/skyclave-plunder?utm_source=api>`"
@@ -1118,6 +1196,11 @@ msgstr ""
 #: ../../ZNR.rst:509
 msgid "Look at the top X cards of your library, where X is three plus the number of creatures in your party. Put three of those cards into your hand and the rest on the bottom of your library in a random order. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Spójrz na X wierzchnich kart twojej biblioteki, gdzie X wynosi trzy plus "
+"liczba stworów w twojej drużynie. Umieść trzy z owych kart w twojej ręce, a "
+"pozostałe losowo na spodzie twojej biblioteki. (Na drużynę składa się po "
+"jednym stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i "
+"Czarodzieja.)"
 
 #: ../../ZNR.rst:516
 msgid ":mtgtip:`Skyclave Squid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/581ed049-7b5b-47d9-96af-f737631a221f.jpg?1604194987|https://scryfall.com/card/znr/82/skyclave-squid?utm_source=api>`"
@@ -1130,6 +1213,8 @@ msgstr "Obronność"
 #: ../../ZNR.rst:515
 msgid "Landfall — Whenever a land enters the battlefield under your control, Skyclave Squid can attack this turn as though it didn't have defender."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"może atakować w tej turze tak, jakby nie miał obronności."
 
 #: ../../ZNR.rst:522
 msgid ":mtgtip:`Sure-Footed Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0505053c-8a9c-43ed-b44a-b52c56ba4f77.jpg?1604195009|https://scryfall.com/card/znr/83/sure-footed-infiltrator?utm_source=api>`"
@@ -1138,10 +1223,12 @@ msgstr ""
 #: ../../ZNR.rst:519
 msgid "Tap another untapped Rogue you control: Sure-Footed Infiltrator can't be blocked this turn."
 msgstr ""
+"Przekręć innego odkręconego Łotrzyka pod twoim władaniem: Ten stwór nie może "
+"być blokowany w tej turze."
 
 #: ../../ZNR.rst:521
 msgid "Whenever Sure-Footed Infiltrator deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../ZNR.rst:528
 msgid ":mtgtip:`Tazeem Roilmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f222fb7-375d-4ee2-9ff6-bd71f63ab31a.jpg?1604195025|https://scryfall.com/card/znr/84/tazeem-roilmage?utm_source=api>`"
@@ -1157,6 +1244,8 @@ msgstr ""
 #: ../../ZNR.rst:527
 msgid "When Tazeem Roilmage enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
+"wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../ZNR.rst:536
 msgid ":mtgtip:`Thieving Skydiver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff84ea71-e477-44f7-a3f8-77fef708efeb.jpg?1604195053|https://scryfall.com/card/znr/85/thieving-skydiver?utm_source=api>`"
@@ -1165,10 +1254,15 @@ msgstr ""
 #: ../../ZNR.rst:531
 msgid "Kicker |mana_x|. X can't be 0. (You may pay an additional |mana_x| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_x|. X nie może być 0. (Rzucając ten czar możesz dodatkowo "
+"zapłacić |mana_x|.)"
 
 #: ../../ZNR.rst:535
 msgid "When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with converted mana cost X or less. If that artifact is an Equipment, attach it to Thieving Skydiver."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, zyskaj władanie "
+"nad wskazanym artefaktem o skróconym koszcie many X lub mniejszy. Jeśli ów "
+"artefakt to Wyposażenie, dołącz go do tego stwora."
 
 #: ../../ZNR.rst:540
 msgid ":mtgtip:`Umara Wizard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/890eee8d-a339-4143-adfa-1b17ec10c099.jpg?1604195112|https://scryfall.com/card/znr/86/umara-wizard-umara-skyfalls?utm_source=api>`"
@@ -1177,6 +1271,8 @@ msgstr ""
 #: ../../ZNR.rst:539
 msgid "Whenever you cast an instant, sorcery, or Wizard spell, Umara Wizard gains flying until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki, obrzędu lub Czarodzieje, niniejszy stwór "
+"zyskuje do końca tury latanie."
 
 #: ../../ZNR.rst:546
 msgid ":mtgtip:`Umara Skyfalls<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/9/890eee8d-a339-4143-adfa-1b17ec10c099.jpg?1604195112|https://scryfall.com/card/znr/86/umara-wizard-umara-skyfalls?utm_source=api>`"
@@ -1184,7 +1280,7 @@ msgstr ""
 
 #: ../../ZNR.rst:543
 msgid "Umara Skyfalls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole walki."
 
 #: ../../ZNR.rst:552
 msgid ":mtgtip:`Windrider Wizard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c790a86d-db91-4a87-aa3a-3f9fc4d4b662.jpg?1604195132|https://scryfall.com/card/znr/87/windrider-wizard?utm_source=api>`"
