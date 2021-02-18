@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2021-02-18
+   * Kaldheim - 100%
+
 2021-02-15
    * Ikoria - 100%
    * Core Set 2021 - 100%
