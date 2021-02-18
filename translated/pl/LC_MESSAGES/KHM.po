@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-18 12:45+0000\n"
+"PO-Revision-Date: 2021-02-18 13:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -2311,6 +2311,11 @@ msgstr ""
 #: ../../KHM.rst:993
 msgid "Choose target creature you control and target creature you don't control. If you control three or more snow permanents, the creature you control gets +1/+0 and gains indestructible until end of turn. Then those creatures fight each other. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Wybierz wskazanego stwora pod twoim władaniem i wskazanego stwora poza twoim "
+"władaniem. Jeśli władasz co najmniej trzema śnieżnymi permanentami, ów stwór "
+"pod twoim władaniem dostaje do końca tury +1/+0 i niezniszczalność. "
+"Następnie owe stwory walczą ze sobą. (Każdy z nich zadaje drugiemu obrażenia "
+"równe swojej sile.)"
 
 #: ../../KHM.rst:998
 msgid ":mtgtip:`Boreal Outrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/455ae615-20d7-4251-828d-72a3345d06f1.jpg?1610996855|https://scryfall.com/card/khm/163/boreal-outrider?utm_source=api>`"
@@ -2319,6 +2324,9 @@ msgstr ""
 #: ../../KHM.rst:997
 msgid "Whenever you cast a creature spell, if |mana_s| of any of that spell's colors was spent to cast it, that creature enters the battlefield with an additional +1/+1 counter on it. (|mana_s| is mana from a snow source.)"
 msgstr ""
+"Ilekroć rzucisz czar stwora, jeśli |mana_s| któregokolwiek z kolorów owego "
+"czaru została wydana na jego rzucenie, ów stwór wchodzi na pole walki z "
+"dodatkowym znacznikiem +1/+1. (|mana_s| to mana ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:1002
 msgid ":mtgtip:`Broken Wings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6201f78e-ff45-4c59-ac85-c8447c14a496.jpg?1610227585|https://scryfall.com/card/khm/164/broken-wings?utm_source=api>`"
@@ -2360,6 +2368,9 @@ msgstr ""
 #: ../../KHM.rst:1017
 msgid "Whenever one or more other Elves enter the battlefield under your control, create a 1/1 green Elf Warrior creature token. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć co najmniej jeden inny Elf wejdzie na pole walki pod twoim "
+"władaniem, stwórz żeton zielonego stwora Elf Wojownik 1/1. Ta zdolność "
+"wyzwala się tylko raz na turę."
 
 #: ../../KHM.rst:1019
 msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Elves you control get +2/+2 and gain deathtouch until end of turn."
@@ -2400,6 +2411,8 @@ msgstr ""
 #: ../../KHM.rst:1035
 msgid "When Esika's Chariot enters the battlefield, create two 2/2 green Cat creature tokens."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole walki, stwórz dwa żetony zielonego stwora "
+"Kot 2/2."
 
 #: ../../KHM.rst:1037
 msgid "Whenever Esika's Chariot attacks, create a token that's a copy of target token you control."
@@ -2409,7 +2422,7 @@ msgstr ""
 
 #: ../../KHM.rst:1039
 msgid "Crew 4"
-msgstr ""
+msgstr "Załoga 4"
 
 #: ../../KHM.rst:1046
 msgid ":mtgtip:`Fynn, the Fangbearer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d7a8a90-13c1-4b0c-ab2e-fc8d91ccefd9.jpg?1610732965|https://scryfall.com/card/khm/170/fynn-the-fangbearer?utm_source=api>`"
@@ -2482,6 +2495,9 @@ msgstr ""
 #: ../../KHM.rst:1075
 msgid "|mana_s|\\ |mana_s|: Icehide Troll gets +2/+0 and gains indestructible until end of turn. Tap it. (Damage and effects that say \"destroy\" don't destroy it. |mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
+"|mana_s|\\ |mana_s|: Ten stwór dostaje do końca tury +2/+0 i "
+"niezniszczalność. Przekręć go. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"niszczą go. |mana_s| można opłacić jedną maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:1080
 msgid ":mtgtip:`In Search of Greatness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac0e50fa-5114-4f96-89f4-000906da7c76.jpg?1611027904|https://scryfall.com/card/khm/177/in-search-of-greatness?utm_source=api>`"
@@ -2490,6 +2506,10 @@ msgstr ""
 #: ../../KHM.rst:1079
 msgid "At the beginning of your upkeep, you may cast a permanent spell from your hand with converted mana cost equal to 1 plus the highest converted mana cost among other permanents you control without paying its mana cost. If you don't, scry 1."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz rzucić z twojej ręki bez "
+"płacenia jego kosztu many czar permanentu o skróconym koszcie many większym "
+"o 1 od największego skróconego kosztu many spośród innych permanentów pod "
+"twoim władaniem. Jeśli tego nie zrobisz, wróż 1."
 
 #: ../../KHM.rst:1086
 msgid ":mtgtip:`Jaspera Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a68615d-9808-479d-aa80-50651246954e.jpg?1610564426|https://scryfall.com/card/khm/178/jaspera-sentinel?utm_source=api>`"
@@ -2544,6 +2564,9 @@ msgstr ""
 #: ../../KHM.rst:1103
 msgid "|mana_1|\\ |mana_g|, |tap|: Look at the top six cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"|mana_1|\\ |mana_g|: Spójrz na sześć wierzchnich kart twojej biblioteki. "
+"Możesz ujawnić spośród nich kartę legendarnego stwora i umieścić ją w twojej "
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../KHM.rst:1110
 msgid ":mtgtip:`The Ringhart Crest<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/7/b76bed98-30b1-4572-b36c-684ada06826c.jpg?1610368590|https://scryfall.com/card/khm/181/kolvori-god-of-kinship-the-ringhart-crest?utm_source=api>`"
@@ -2551,7 +2574,7 @@ msgstr ""
 
 #: ../../KHM.rst:1107
 msgid "As The Ringhart Crest enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając ten artefakt na polu walki, wybierz typ stwora."
 
 #: ../../KHM.rst:1109
 msgid "|tap|: Add |mana_g|. Spend this mana only to cast a creature spell of the chosen type or a legendary creature spell."
@@ -2614,10 +2637,17 @@ msgstr ""
 #: ../../KHM.rst:1137
 msgid "When Path to the World Tree enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../KHM.rst:1139
 msgid "|mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, Sacrifice Path to the World Tree: You gain 2 life and draw two cards. Target opponent loses 2 life. Path to the World Tree deals 2 damage to up to one target creature. You create a 2/2 green Bear creature token."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, poświęć ten "
+"urok: Zyskaj 2 życia i dobierz dwie karty. Wskazany przeciwnik traci 2 "
+"życia. Niniejsza karta zadaje 2 obrażenia co najwyżej jednemu wskazanemu "
+"stworowi. Stwórz żeton zielonego stwora Niedźwiedź 2/2."
 
 #: ../../KHM.rst:1144
 msgid ":mtgtip:`Ravenous Lindwurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9961e3fc-167e-4043-8510-cc5cf08d473e.jpg?1611027751|https://scryfall.com/card/khm/187/ravenous-lindwurm?utm_source=api>`"
@@ -2652,6 +2682,9 @@ msgstr ""
 #: ../../KHM.rst:1157
 msgid "When Rootless Yew dies, search your library for a creature card with power or toughness 6 or greater, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór umrze, wyszukaj w twojej bibliotece kartę stwora o sile lub "
+"wytrzymałości 6 lub większej, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../KHM.rst:1162
 msgid ":mtgtip:`Roots of Wisdom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/734afb5b-3163-47fa-856f-8a85b9da22d3.jpg?1611000434|https://scryfall.com/card/khm/190/roots-of-wisdom?utm_source=api>`"
@@ -2739,6 +2772,9 @@ msgstr ""
 #: ../../KHM.rst:1195
 msgid "Put a +1/+1 counter on target creature you control. Then that creature fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
+"stwór walczy z co najwyżej jednym wskazanym stworem poza twoim władaniem. ("
+"Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../KHM.rst:1208
 msgid ":mtgtip:`Toski, Bearer of Secrets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9e79b59-94c8-4697-bf88-f0a0433170f5.jpg?1609099942|https://scryfall.com/card/khm/197/toski-bearer-of-secrets?utm_source=api>`"
@@ -2784,6 +2820,8 @@ msgstr "0: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
 #: ../../KHM.rst:1217
 msgid "−6: You get an emblem with \"Whenever you cast an Elf spell, it gains haste until end of turn and you draw two cards.\""
 msgstr ""
+"–6: Dostajesz emblemat mający \"Ilekroć rzucisz czar Elfa, zyskuje on do "
+"końca tury pośpiech, a ty dobierz dwie karty.\""
 
 #: ../../KHM.rst:1226
 msgid ":mtgtip:`Vorinclex, Monstrous Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92613468-205e-488b-930d-11908477e9f8.jpg?1610149607|https://scryfall.com/card/khm/199/vorinclex-monstrous-raider?utm_source=api>`"
@@ -2796,10 +2834,14 @@ msgstr "Tratowanie, pośpiech"
 #: ../../KHM.rst:1223
 msgid "If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead."
 msgstr ""
+"Jeśli masz umieścić co najmniej jeden znacznik na permanencie lub graczu, "
+"zamiast tego umieść ich tam dwukrotnie więcej."
 
 #: ../../KHM.rst:1225
 msgid "If an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down."
 msgstr ""
+"Jeśli przeciwnik miałby umieścić co najmniej jeden znacznik na permanencie "
+"lub graczu, umieszcza ich tam połowę, zaokrąglając w dół."
 
 #: ../../KHM.rst:1230
 msgid ":mtgtip:`Aegar, the Freezing Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68011f60-6202-48f4-8255-fb94764e2951.jpg?1610566556|https://scryfall.com/card/khm/200/aegar-the-freezing-flame?utm_source=api>`"
@@ -2808,6 +2850,9 @@ msgstr ""
 #: ../../KHM.rst:1229
 msgid "Whenever a creature or planeswalker an opponent controls is dealt excess damage, if a Giant, Wizard, or spell you controlled dealt damage to it this turn, draw a card."
 msgstr ""
+"Ilekroć stwór lub wędrowiec pod władaniem przeciwnika otrzymuje nadwyżkę "
+"obrażeń, jeśli w tej turze otrzymał obrażenia od Giganta, Czarodzieja lub "
+"czaru pod twoim władaniem, dobierz kartę."
 
 #: ../../KHM.rst:1240
 msgid ":mtgtip:`Arni Slays the Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d18396f9-ae20-4471-84ab-a2148319bc39.jpg?1610999764|https://scryfall.com/card/khm/201/arni-slays-the-troll?utm_source=api>`"
@@ -2841,6 +2886,8 @@ msgstr ""
 #: ../../KHM.rst:1235
 msgid "I — Target creature you control fights up to one target creature you don't control."
 msgstr ""
+"I — Wskazany stwór pod twoim władaniem walczy z co najwyżej jednym wskazanym "
+"stworem poza twoim władaniem."
 
 #: ../../KHM.rst:1237
 msgid "II — Add |mana_r|. Put two +1/+1 counters on up to one target creature you control."
@@ -2878,15 +2925,18 @@ msgstr ""
 
 #: ../../KHM.rst:1253
 msgid "I — Create a 1/1 white Human Warrior creature token."
-msgstr ""
+msgstr "I — Stwórz żeton białego stwora Człowiek Wojownik 1/1."
 
 #: ../../KHM.rst:1255
 msgid "II — Create a 1/1 green Elf Warrior creature token."
-msgstr ""
+msgstr "II — Stwórz żeton zielonego stwora Elf Wojownik 1/1."
 
 #: ../../KHM.rst:1257
 msgid "III — Choose any number of artifact tokens and/or creature tokens you control with different names. For each of them, create a token that's a copy of it."
 msgstr ""
+"III — Wybierz dowolną liczbę żetonów artefaktów i/lub żetonów stworów pod "
+"twoim władaniem o różnych nazwach. Każdemu z nich stwórz żeton będący jego "
+"kopią."
 
 #: ../../KHM.rst:1268
 msgid ":mtgtip:`Battle of Frost and Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/620ed5b7-8874-40d0-9245-98876bdec153.jpg?1610562185|https://scryfall.com/card/khm/204/battle-of-frost-and-fire?utm_source=api>`"
@@ -2895,6 +2945,8 @@ msgstr ""
 #: ../../KHM.rst:1263
 msgid "I — Battle of Frost and Fire deals 4 damage to each non-Giant creature and each planeswalker."
 msgstr ""
+"I — Ten urok zadaje każdemu stworowi bez typu Gigant i każdemu wędrowcowi po "
+"4 obrażenia."
 
 #: ../../KHM.rst:1265
 msgid "II — Scry 3."
@@ -2903,6 +2955,8 @@ msgstr "II — Wróż 3."
 #: ../../KHM.rst:1267
 msgid "III — Whenever you cast a spell with converted mana cost 5 or greater this turn, draw two cards, then discard a card."
 msgstr ""
+"III — Ilekroć rzucisz w tej turze czar o skróconym koszcie many 5 lub "
+"większym, dobierz dwie karty, następnie odrzuć kartę."
 
 #: ../../KHM.rst:1278
 msgid ":mtgtip:`The Bears of Littjara<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be43a643-6cb7-4bb6-a28d-8ad30b7fbb6d.jpg?1610909969|https://scryfall.com/card/khm/205/the-bears-of-littjara?utm_source=api>`"
@@ -2911,14 +2965,20 @@ msgstr ""
 #: ../../KHM.rst:1273
 msgid "I — Create a 2/2 blue Shapeshifter creature token with changeling."
 msgstr ""
+"I — Stwórz żeton niebieskiego stwora Przemieniec 2/2 ze zmiennokształtnością."
 
 #: ../../KHM.rst:1275
 msgid "II — Any number of target Shapeshifter creatures you control have base power and toughness 4/4."
 msgstr ""
+"II — Dowolna liczba wskazanych stworów typu Przemieniec pod twoim władaniem "
+"ma bazowe siłę i wytrzymałość 4/4."
 
 #: ../../KHM.rst:1277
 msgid "III — Choose up to one target creature or planeswalker. Each creature with power 4 or greater you control deals damage equal to its power to that permanent."
 msgstr ""
+"III — Wskaż co najwyżej jednego stwora lub wędrowca. Każdy stwór pod twoim "
+"władaniem o sile 4 lub większej zadaje owemu permanentowi obrażenia równe "
+"swojej sile."
 
 #: ../../KHM.rst:1288
 msgid ":mtgtip:`Binding the Old Gods<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d93ee644-d7d7-48d8-a04b-fb479b74edb0.jpg?1610153510|https://scryfall.com/card/khm/206/binding-the-old-gods?utm_source=api>`"
@@ -2944,7 +3004,7 @@ msgstr ""
 
 #: ../../KHM.rst:1293
 msgid "I — Create a 2/3 red Demon Berserker creature token with menace."
-msgstr ""
+msgstr "I — Stwórz żeton czerwonego stwora Demon Berserk 2/3 ze złowrogością."
 
 #: ../../KHM.rst:1295
 msgid "II — Whenever a Berserker attacks this turn, you draw a card and you lose 1 life."
@@ -3017,6 +3077,9 @@ msgstr "I, II — Stwórz żeton Skarbu."
 #: ../../KHM.rst:1329
 msgid "III — Search your library for a card named Halvar, God of Battle or an Equipment card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"III — Wyszukaj w twojej bibliotece kartę o nazwie Halvar, God of Battle albo "
+"kartę Wyposażenia, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../KHM.rst:1336
 msgid ":mtgtip:`Harald, King of Skemfar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9eac78a2-599f-4dba-aec7-982c5ae3f75a.jpg?1610787246|https://scryfall.com/card/khm/212/harald-king-of-skemfar?utm_source=api>`"

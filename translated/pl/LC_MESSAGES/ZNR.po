@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-18 12:45+0000\n"
+"PO-Revision-Date: 2021-02-18 13:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -724,6 +724,9 @@ msgstr ""
 #: ../../ZNR.rst:297
 msgid "When Cascade Seer enters the battlefield, scry X, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wróż X, gdzie X jest liczbą stworów w "
+"twojej drużynie. (Na drużynę składa się po jednym stworze spośród danego "
+"typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../ZNR.rst:304
 msgid ":mtgtip:`Charix, the Raging Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83a6804-1e3c-428c-af5e-1d56ba11c108.jpg?1604193709|https://scryfall.com/card/znr/49/charix-the-raging-isle?utm_source=api>`"
@@ -732,10 +735,14 @@ msgstr ""
 #: ../../ZNR.rst:301
 msgid "Spells your opponents cast that target Charix, the Raging Isle cost |mana_2| more to cast."
 msgstr ""
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
+"|mana_2| więcej."
 
 #: ../../ZNR.rst:303
 msgid "|mana_3|: Charix gets +X/-X until end of turn, where X is the number of Islands you control."
 msgstr ""
+"|mana_3|: Ten stwór dostaje do końca tury +X/-X, gdzie X jest liczbą Wysp "
+"pod twoim władaniem."
 
 #: ../../ZNR.rst:308
 msgid ":mtgtip:`Chilling Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60f9adfd-a940-4d62-894b-84f17c693a10.jpg?1604193730|https://scryfall.com/card/znr/50/chilling-trap?utm_source=api>`"
@@ -744,6 +751,8 @@ msgstr ""
 #: ../../ZNR.rst:307
 msgid "Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -4/-0. Jeśli władasz Czarodziejem, "
+"dobierz kartę."
 
 #: ../../ZNR.rst:312
 msgid ":mtgtip:`Cleric of Chill Depths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4ea262c-ea32-4aca-b96b-58f556a8dffc.jpg?1604193763|https://scryfall.com/card/znr/51/cleric-of-chill-depths?utm_source=api>`"
@@ -752,6 +761,8 @@ msgstr ""
 #: ../../ZNR.rst:311
 msgid "Whenever Cleric of Chill Depths blocks a creature, that creature doesn't untap during its controller's next untap step."
 msgstr ""
+"Ilekroć ten stwór blokuje stwora, ów stwór nie odkręci się w najbliższym "
+"kroku odkręcania jego władcy."
 
 #: ../../ZNR.rst:316
 msgid ":mtgtip:`Concerted Defense<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/235c108d-3902-4c2e-919c-a5449cd2dc3c.jpg?1604193820|https://scryfall.com/card/znr/52/concerted-defense?utm_source=api>`"
