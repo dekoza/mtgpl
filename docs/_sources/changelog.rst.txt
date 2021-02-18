@@ -2,14 +2,16 @@
 ***********
 Spis zmian
 ***********
+2021-02-19
+   * Zendikar Rising - 100%
 
 2021-02-18
    * Kaldheim - 100%
+   * Jumpstart - 100%
 
 2021-02-15
    * Ikoria - 100%
    * Core Set 2021 - 100%
-   * Jumpstart - 100%
 
 2020-03-02
    * Zaktualizowne tłumaczenia: ELD, THB
