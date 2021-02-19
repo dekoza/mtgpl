@@ -12,7 +12,7 @@ Pobranie tłumaczenia
 
 1. Wejdź na `stronę, gdzie publikuję wydania <https://github.com/dekoza/mtgpl/releases/>`_.
 2. Na samej górze jest najnowsza wersja. Dla ułatwienia dodaję do tytułu datę wydania.
-3. Na samym dole jest sekcja Assets, rozwiń ją.
+3. Na samym dole danego wydania jest sekcja Assets, rozwiń ją.
 4. Pobierz plik, którego nazwa zaczyna się od ``MTGA_DATA`` - tam są pliki używane przez grę.
 5. Znajdź katalog instalacji gry na swoim komputerze. Domyślnie powinien to być ``C:\Program Files\Wizards of the Coast\MTGA\``
 6. Wewnątrz znajduje się katalog ``MTGA_Data``. Skopiuj znajdujące się w nim katalogi ``Data`` oraz ``Loc`` w jakieś bezpieczne miejsce.
@@ -28,6 +28,8 @@ Pobranie tłumaczenia
 
 Sprawdzaj co jakiś czas stronę z punktu 1 - proces tłumaczenia będzie trwał dopóki wszystko nie zostanie przetłumaczone. Możesz więc spodziewać się
 regularnych aktualizacji.
+
+Przygotowuję program, który sam wykona wszystkie powyższe operacje, ale to jeszcze trochę potrwa - cierpliwości!
 
 PS.
 Mobilna wersja gry korzysta z tej samej struktury plików. Może się zatem okazać, że te same pliki zadziałają po przekopiowaniu ich na urządzenie mobilne.
