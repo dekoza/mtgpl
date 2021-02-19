@@ -1,30 +1,46 @@
-#
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-19 09:30+0200\n"
+"PO-Revision-Date: 2021-02-19 08:30+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
+"mainnav_deck/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
+
+#
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Black"
 msgid "Black"
-msgstr ""
+msgstr "Czarny"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Blue"
 msgid "Blue"
-msgstr ""
+msgstr "Niebieski"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Code"
 msgid "Code"
-msgstr ""
+msgstr "Kod"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Color"
 msgid "Color"
-msgstr ""
+msgstr "Kolor"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ColorGreaterOrEqual"
 msgid "Color: Must Include"
-msgstr ""
+msgstr "Kolor: Musi zawierać"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ColorGreaterThan"
 msgid "Color: More Than"
-msgstr ""
+msgstr "Kolor: Więcej niż"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ColorIdentity"
 msgid "Color Identity"
@@ -32,19 +48,19 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ColorLessOrEqual"
 msgid "Color: All Or Fewer Than"
-msgstr ""
+msgstr "Color: Wszystkie lub mniej niż"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ColorLessThan"
 msgid "Color: Fewer Than"
-msgstr ""
+msgstr "Kolor: Mniej niż"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Common"
 msgid "Common"
-msgstr ""
+msgstr "Powszechne"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ConvertedManaCost"
 msgid "Converted Mana Cost"
-msgstr ""
+msgstr "Skrócony koszt many"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_DefinitionHeader"
 msgid "Definition"
@@ -91,11 +107,11 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ExampleHeader"
 msgid "Example"
-msgstr ""
+msgstr "Przykład"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ExamplesHeader"
 msgid "Examples"
-msgstr ""
+msgstr "Przykłady"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ExpansionSetCode"
 msgid "Expansion Set Code"
@@ -115,7 +131,7 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Green"
 msgid "Green"
-msgstr ""
+msgstr "Zielony"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_LesserOrEqual"
 msgid "Lesser or Equal to"
@@ -135,27 +151,27 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Name"
 msgid "Name"
-msgstr ""
+msgstr "Nazwa"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_NameofCard"
 msgid "Name of Card"
-msgstr ""
+msgstr "Nazwa karty"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_NameorTitle"
 msgid "Name or Title"
-msgstr ""
+msgstr "Nazwa lub tytuł"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_NumberofCardsOwned"
 msgid "Number of Cards Owned"
-msgstr ""
+msgstr "Liczba posiadanych kart"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_NumericalComparisons"
 msgid "Numerical Comparisons"
-msgstr ""
+msgstr "Porównania numeryczne"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_NumericValues"
 msgid "Numeric Values"
-msgstr ""
+msgstr "Wartości numeryczne"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_OracleRules"
 msgid "Oracle, Rules Text"
@@ -282,7 +298,7 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Cancel_Button"
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 msgctxt "MainNav/DeckBuilder/Commander"
 msgid "Commander"
@@ -348,15 +364,15 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_AddLands_Text"
 msgid "Add Lands"
-msgstr ""
+msgstr "Dodaj lądy"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_Back_Text"
 msgid "BACK"
-msgstr ""
+msgstr "WRÓĆ"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_Clear_Text"
 msgid "Clear"
-msgstr ""
+msgstr "Wyczyść"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_Crafting_Title"
 msgid "Redeem Wildcards"
@@ -364,15 +380,15 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Deckbuilder_Deck_Clone_Prefix"
 msgid "Copy of"
-msgstr ""
+msgstr "Kopia"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_DeckName_Placeholder"
 msgid "New Deck Name"
-msgstr ""
+msgstr "Nowa nazwa talii"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_Done_Text"
 msgid "Done"
-msgstr ""
+msgstr "Gotowe"
 
 msgctxt "MainNav/DeckBuilder/Deckbuilder_Event_Card_Pool_Title"
 msgid "Event Card Pool"
@@ -431,11 +447,11 @@ msgstr ""
 
 msgctxt "MainNav/Deckbuilder/DeckBuilder_InvalidDeckReasons_HasUnknownCards"
 msgid "This deck contains unknown cards."
-msgstr ""
+msgstr "Ta talia zawiera nieznane karty."
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_HasUnowned"
 msgid "Deck contains cards not in your collection."
-msgstr ""
+msgstr "Talia zawiera karty spoza twojej kolekcji."
 
 msgctxt ""
 "MainNav/Deckbuilder/DeckBuilder_InvalidDeckReasons_InvalidRarityInPauper"
@@ -486,25 +502,27 @@ msgstr ""
 msgctxt ""
 "MainNav/DeckBuilder/DeckBuilder_MainLayout_LeftPane_Collection_Foreground_LeftWidgets_Loading"
 msgid "Loading Data"
-msgstr ""
+msgstr "Ładowanie danych"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageContent_ConfirmSavingDeck"
 msgid "Save or discard the changes to this deck before exiting?"
-msgstr ""
+msgstr "Chcesz przed wyjściem zapisać czy odrzucić zmiany w tej talii?"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageContent_DeckNameCannotBeDup"
 msgid "You already have a deck with that name."
-msgstr ""
+msgstr "Już posiadasz talię o tej nazwie."
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageContent_DeckNameIsRequired"
 msgid "You must name your deck before you can save it."
-msgstr ""
+msgstr "Musisz nazwać swoją talię zanim ją zapiszesz."
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageContent_DeckNameIsTooLong"
 msgid ""
 "Deck names must contain 24 or fewer characters. This deck name will be "
 "shortened to fit."
 msgstr ""
+"Nazwy talii nie mogą zawierać więcej niż 24 znaki. Nazwa tej talii zostanie "
+"skrócona."
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageContent_InvalidDeck"
 msgid ""
@@ -532,19 +550,19 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_DeckNameCannotBeDup"
 msgid "Deck Name Already in Use"
-msgstr ""
+msgstr "Nazwa talii już występuje"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_DeckNameIsRequired"
 msgid "Deck Name Required"
-msgstr ""
+msgstr "Potrzebna nazwa talii"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_DeckNameIsTooLong"
 msgid "Deck Name Too Long"
-msgstr ""
+msgstr "Talia ma zbyt długą nazwę"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_InvalidDeck"
 msgid "Invalid Deck"
-msgstr ""
+msgstr "Nieprawidłowa talia"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_RedeemWildcard"
 msgid "Redeem Wildcard"
@@ -556,27 +574,27 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_NewDeck_Text"
 msgid "New Deck"
-msgstr ""
+msgstr "Nowa talia"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_SaveAndExit_Text"
 msgid "Save & Exit"
-msgstr ""
+msgstr "Zapisz i wyjdź"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_ShowCMC_Toggle_Text"
 msgid "Show CMC"
-msgstr ""
+msgstr "Pokaż SKM"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_Suggest_Text"
 msgid "Suggest<br>Lands"
-msgstr ""
+msgstr "Sugeruj<br>lądy"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_SuggestMana_Toggle_Text"
 msgid "Suggest Mana"
-msgstr ""
+msgstr "Sugeruj manę"
 
 msgctxt "MainNav/DeckBuilder/DeckStats/Average"
 msgid "Average:"
-msgstr ""
+msgstr "Średnia:"
 
 msgctxt "MainNav/DeckBuilder/DeckStats/Cards"
 msgid "Cards"
@@ -592,19 +610,19 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckStats/Creature_plural"
 msgid "Creatures"
-msgstr ""
+msgstr "Stwory"
 
 msgctxt "MainNav/DeckBuilder/DeckStats/Creature_singular"
 msgid "Creature"
-msgstr ""
+msgstr "Stwór"
 
 msgctxt "MainNav/DeckBuilder/DeckStats/Land_plural"
 msgid "Lands"
-msgstr ""
+msgstr "Lądy"
 
 msgctxt "MainNav/DeckBuilder/DeckStats/Land_singular"
 msgid "Land"
-msgstr ""
+msgstr "Ląd"
 
 msgctxt "MainNav/DeckBuilder/DeckStats/Noncreature_plural"
 msgid "NonCreatures"
@@ -664,11 +682,11 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/RedeemWildcard_Cancel_Button"
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 msgctxt "MainNav/DeckBuilder/RedeemWildcard_Confirm_Button"
 msgid "Confirm"
-msgstr ""
+msgstr "Potwierdź"
 
 msgctxt "MainNav/DeckBuilder/RedeemWildcard_DontHaveWildcard"
 msgid "You need more {localizedRarity} wildcards."
@@ -2165,7 +2183,7 @@ msgstr ""
 
 msgctxt "MainNav/DeckManager/DeckManager_Top_Collection"
 msgid "Collection"
-msgstr ""
+msgstr "Kolekcja"
 
 msgctxt "MainNav/DeckManager/DeckManager_Top_Decks"
 msgid "Decks"

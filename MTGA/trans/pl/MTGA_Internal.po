@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-02-16 19:34+0000\n"
+"PO-Revision-Date: 2021-02-19 08:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/internal/"
 "pl/>\n"
@@ -159,11 +159,11 @@ msgstr ""
 
 msgctxt "BattlePass/Rewards/Gems"
 msgid "{count} Gems"
-msgstr ""
+msgstr "{count} Gemów"
 
 msgctxt "BattlePass/Rewards/Gold"
 msgid "{count} Gold"
-msgstr ""
+msgstr "{count} Złota"
 
 msgctxt "BattlePass/Rewards/HalfLevel"
 msgid "Half Mastery Level"
@@ -625,7 +625,7 @@ msgstr ""
 
 msgctxt "Draft/Autopicking_Title"
 msgid "Are you still there?"
-msgstr ""
+msgstr "Jesteś tam jeszcze?"
 
 msgctxt "Draft/AverageQueueTime_Over"
 msgid "Average queue time: over {minutes} min"
@@ -637,7 +637,7 @@ msgstr ""
 
 msgctxt "Draft/Cards"
 msgid "Cards"
-msgstr ""
+msgstr "Karty"
 
 msgctxt "Draft/Draft_AutoSelectTag"
 msgid "Auto Select"
@@ -645,7 +645,7 @@ msgstr ""
 
 msgctxt "Draft/Draft_Deck_Name"
 msgid "Deck"
-msgstr ""
+msgstr "Talia"
 
 msgctxt "Draft/Draft_Deck_Title"
 msgid "Draft Deck"
@@ -685,7 +685,7 @@ msgstr ""
 
 msgctxt "Draft/Draft_Seat_Number"
 msgid "Seat {0}"
-msgstr ""
+msgstr "Miejsce {0}"
 
 msgctxt "Draft/Draft_SideBoard"
 msgid "Sideboard"
@@ -697,7 +697,7 @@ msgstr ""
 
 msgctxt "Draft/Draft_Waiting"
 msgid "Waiting..."
-msgstr ""
+msgstr "Czekam..."
 
 msgctxt "Draft/Draft_WaitingForPacks"
 msgid "Waiting on other players to pass a draft pack..."
@@ -1131,15 +1131,15 @@ msgstr ""
 
 msgctxt "MainNav/AboveNav/WaitingForMatch_Cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 msgctxt "MainNav/AboveNav/WaitingForMatch_FindingOpponent"
 msgid "Finding an Opponent"
-msgstr ""
+msgstr "Szukanie przeciwnika"
 
 msgctxt "MainNav/AboveNav/WaitingForMatch_MatchFound"
 msgid "Match found!"
-msgstr ""
+msgstr "Znaleziono mecz!"
 
 msgctxt "MainNav/BannedCards/Historic_Anthology_2_Desc"
 msgid "Expand your Historic collection with 25 new-to-Arena cards!"
@@ -1291,7 +1291,7 @@ msgstr ""
 
 msgctxt "MainNav/BoosterChamber/BoosterChamber_VaultProgress_Text"
 msgid "progress"
-msgstr ""
+msgstr "postęp"
 
 msgctxt "MainNav/BoosterChamber/CarouselBooster_Open10"
 msgid "Open x10"
@@ -1504,7 +1504,7 @@ msgstr ""
 
 msgctxt "MainNav/Collection/Collected_In_Deck"
 msgid "In Deck"
-msgstr ""
+msgstr "W talii"
 
 msgctxt "MainNav/Collection/Collected_In_Inventory"
 msgid "Collected and in inventory"
@@ -1524,7 +1524,7 @@ msgstr ""
 
 msgctxt "MainNav/Collection/Collection_Foreground_Loading"
 msgid "Loading Data"
-msgstr ""
+msgstr "Ładowanie danych"
 
 msgctxt "MainNav/Collection/Collection_Foreground_Search_Placeholder"
 msgid "Search…"
@@ -1532,19 +1532,19 @@ msgstr ""
 
 msgctxt "MainNav/Collection/Collection_Forgreound_Row2_Sort"
 msgid "Sort by Cost"
-msgstr ""
+msgstr "Sortuj po koszcie"
 
 msgctxt "MainNav/Collection/Collection_Header_Title"
 msgid "Collection"
-msgstr ""
+msgstr "Kolekcja"
 
 msgctxt "MainNav/Collection/Illegal"
 msgid "Illegal"
-msgstr ""
+msgstr "Nielegalne"
 
 msgctxt "MainNav/Collection/In_Deck"
 msgid "In Deck"
-msgstr ""
+msgstr "W talii"
 
 msgctxt "MainNav/Collection/Not_Collected"
 msgid "Not Collected"
@@ -1556,7 +1556,7 @@ msgstr ""
 
 msgctxt "MainNav/Collection/Preview"
 msgid "Preview"
-msgstr ""
+msgstr "Podgląd"
 
 msgctxt "MainNav/Collection/Unlimited"
 msgid "Unlimited"

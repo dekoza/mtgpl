@@ -1,6 +1,22 @@
-#
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-19 09:30+0200\n"
+"PO-Revision-Date: 2021-02-19 08:30+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
+"mainnav_battlepass/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
+
+#
 
 msgctxt "MainNav/BattlePass/Account"
 msgid "Account"
@@ -217,7 +233,7 @@ msgstr ""
 
 msgctxt "MainNav/BattlePass/Mastery"
 msgid "Mastery"
-msgstr ""
+msgstr "Mistrzostwo"
 
 msgctxt "MainNav/BattlePass/Mastery_Desc"
 msgid ""
