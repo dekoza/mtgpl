@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-13 20:04+0100\n"
+"POT-Creation-Date: 2021-02-19 18:47+0100\n"
 "PO-Revision-Date: 2021-02-15 19:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
@@ -224,8 +224,8 @@ msgid ""
 "Target non-Human creature you control gets +1/+1 and gains indestructible "
 "until end of turn."
 msgstr ""
-"Wskazany stwór bez typu Człowiek pod twoim władaniem dostaje do końca tury +"
-"1/+1 i niezniszczalność."
+"Wskazany stwór bez typu Człowiek pod twoim władaniem dostaje do końca tury "
+"+1/+1 i niezniszczalność."
 
 #: ../../IKO.rst:76
 msgid ""
@@ -1805,7 +1805,8 @@ msgstr ""
 
 #: ../../IKO.rst:613
 msgid "|mana_1|, |tap|: Blisterspit Gremlin deals 1 damage to each opponent."
-msgstr "|mana_1|, |tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
+msgstr ""
+"|mana_1|, |tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../IKO.rst:615
 msgid "Whenever you cast a noncreature spell, untap Blisterspit Gremlin."
@@ -3994,8 +3995,8 @@ msgid ""
 msgstr ""
 "Kompan — Żadna z kart w twojej startowej talii nie ma powtarzających się "
 "symboli many w swoim koszcie many. (Jeśli ta karta jest twoim wybranym "
-"kompanem, możesz jako obrzęd umieścić ją w twojej ręce spoza gry za "
-"|mana_3|.)"
+"kompanem, możesz jako obrzęd umieścić ją w twojej ręce spoza gry za |"
+"mana_3|.)"
 
 #: ../../IKO.rst:1271
 msgid ""
@@ -4077,7 +4078,7 @@ msgstr ""
 #: ../../IKO.rst:1300
 msgid ""
 ":mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1591228429|"
+"border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1613387006|"
 "https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`"
 msgstr ""
 
@@ -4113,8 +4114,8 @@ msgid ""
 "(If this card is your chosen companion, you may put it into your hand from "
 "outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
-"Kompan — Każda nielądowa karta w twojej startowej talii ma inną nazwę. ("
-"Jeśli ta karta jest twoim wybranym kompanem, możesz jako obrzęd umieścić ją "
+"Kompan — Każda nielądowa karta w twojej startowej talii ma inną nazwę. "
+"(Jeśli ta karta jest twoim wybranym kompanem, możesz jako obrzęd umieścić ją "
 "w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1307
@@ -4284,8 +4285,8 @@ msgid ""
 msgstr ""
 "Na początku walki w twojej turze wybierz losowo rodzaj znacznika, jakiego "
 "ten stwór jeszcze nie ma spośród latania, pierwszego ciosu, dotyku śmierci, "
-"antyklątwy, więzi życia, złowrogości, zasięgu, tratowania, czujności i +1/+"
-"1. Umieść znacznik owego rodzaju na tym stworze."
+"antyklątwy, więzi życia, złowrogości, zasięgu, tratowania, czujności i +1/"
+"+1. Umieść znacznik owego rodzaju na tym stworze."
 
 #: ../../IKO.rst:1360
 msgid ""
