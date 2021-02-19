@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-14 14:36+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jou/pl/>\n"
 "Language: pl\n"
@@ -121,18 +121,12 @@ msgstr ""
 
 # 50e36db6a63f47ba86f75412525414ae
 #: ../../JOU.rst:29
-#, fuzzy
-#| msgid ""
-#| "When Banishing Light enters the battlefield, exile target nonland "
-#| "permanent an opponent controls until Banishing Light leaves the "
-#| "battlefield. (That permanent returns under its owner's control.)"
 msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
 "Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki. (Ów "
-"permanent wraca pod władanie swojego właściciela.)"
+"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki."
 
 #: ../../JOU.rst:36
 msgid ""
@@ -669,14 +663,8 @@ msgstr ""
 
 # 9fb3b315a6774524a37833d20ed9ef7e
 #: ../../JOU.rst:177
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. Its controller puts the top four cards of their "
-#| "library into their graveyard."
 msgid "Counter target spell. Its controller mills four cards."
-msgstr ""
-"Skontruj wskazany czar. Jego władca umieszcza cztery wierzchnie karty swojej "
-"biblioteki w swoim cmentarzu."
+msgstr "Skontruj wskazany czar. Jego władca mieli cztery karty."
 
 #: ../../JOU.rst:186
 msgid ""
@@ -1042,18 +1030,12 @@ msgstr ""
 
 # 84611e1a6a7c47b5be3cdafdf4fdbb92
 #: ../../JOU.rst:281
-#, fuzzy
-#| msgid ""
-#| "Constellation — Whenever Thassa's Devourer or another enchantment enters "
-#| "the battlefield under your control, target player puts the top two cards "
-#| "of their library into their graveyard."
 msgid ""
 "Constellation — Whenever Thassa's Devourer or another enchantment enters the "
 "battlefield under your control, target player mills two cards."
 msgstr ""
 "Konstelacja — Ilekroć ten lub inny urok wejdzie na pole walki pod twoim "
-"władaniem, wskazany gracz umieszcza dwie wierzchnie karty swojej biblioteki "
-"w swoim cmentarzu."
+"władaniem, wskazany gracz mieli dwie karty."
 
 #: ../../JOU.rst:286
 msgid ""
@@ -1064,9 +1046,8 @@ msgstr ""
 
 # 1eeb4ee5ab9f456c888e8c7b312168f0
 #: ../../JOU.rst:285
-#, fuzzy
 msgid "|mana_3|\\ |mana_u|: You may tap or untap target creature."
-msgstr "|mana_w|, |tap|: Przekręć wskazanego stwora."
+msgstr "|mana_3|\\ |mana_u|: Możesz przekręcić lub odkręcić wskazanego stwora."
 
 #: ../../JOU.rst:290
 msgid ""
@@ -1234,14 +1215,14 @@ msgstr ""
 
 # 14096950b59b470dba8c9e2bbae6b8ab
 #: ../../JOU.rst:335
-#, fuzzy
 msgid ""
 "Any number of target creatures each get +1/+0 and gain lifelink until end of "
 "turn. (Damage dealt by a creature with lifelink also causes its controller "
 "to gain that much life.)"
 msgstr ""
 "Każdy z dowolnej liczby wskazanych stworów dostaje do końca tury +1/+0 i "
-"więź życia."
+"więź życia. (Obrażenia zadane przez stwora z więzią życia powodują, że jego "
+"władca zyskuje tyle samo żyć.)"
 
 #: ../../JOU.rst:342
 msgid ""
@@ -1403,19 +1384,14 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:383
-#, fuzzy
-#| msgid ""
-#| "Inspired — Whenever King Macar, the Gold-Cursed becomes untapped, you may "
-#| "exile target creature. If you do, create a colorless artifact token named "
-#| "Gold. It has \"Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "Inspired — Whenever King Macar, the Gold-Cursed becomes untapped, you may "
 "exile target creature. If you do, create a Gold token. (It's an artifact "
 "with \"Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 "Natchniony — Ilekroć ten stwór zostanie odkręcony, możesz wygnać wskazanego "
-"stwora. Jeśli tak zrobisz, stwórz żeton Złota. (To bezkolorowy artefakt ze "
-"zdolnością \"Poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"stwora. Jeśli tak zrobisz, stwórz żeton Złota. (To artefakt mający \"Poświęć "
+"ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../JOU.rst:390
 msgid ""
@@ -1487,14 +1463,8 @@ msgstr ""
 
 # 9fb3b315a6774524a37833d20ed9ef7e
 #: ../../JOU.rst:407
-#, fuzzy
-#| msgid ""
-#| "When Returned Reveler dies, each player puts the top three cards of their "
-#| "library into their graveyard."
 msgid "When Returned Reveler dies, each player mills three cards."
-msgstr ""
-"Skontruj wskazany czar. Jego władca umieszcza cztery wierzchnie karty swojej "
-"biblioteki w swoim cmentarzu."
+msgstr "Kiedy ten stwór umrze, każdy gracz mieli po trzy karty."
 
 #: ../../JOU.rst:412
 msgid ""
@@ -2104,10 +2074,6 @@ msgstr ""
 
 # a3fed74beeca4cde869c31f94247fa5e
 #: ../../JOU.rst:587
-#, fuzzy
-#| msgid ""
-#| "When Wildfire Cerberus becomes monstrous, it deals 2 damage to each "
-#| "opponent and each creature your opponents control."
 msgid ""
 "When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent "
 "and each creature they control."
@@ -2341,7 +2307,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ujawnij sześć wierzchnich kart twojej biblioteki. Spośród nich umieść co "
-"najwyżej trzy karty uroków  w twojej ręce, a pozostałe w twoim cmentarzu."
+"najwyżej trzy karty uroków w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../JOU.rst:656
 msgid ""
@@ -2864,11 +2830,8 @@ msgstr "Zasięg"
 
 # 0748bab8489b4586a65e19ddd3745959
 #: ../../JOU.rst:801
-#, fuzzy
-#| msgid "At the beginning of your upkeep, each opponent draws a card."
 msgid "At the beginning of your upkeep, mill two cards."
-msgstr ""
-"Na początku twojego kroku utrzymania każdy z przeciwników dobiera kartę."
+msgstr "Na początku twojego kroku utrzymania, zmiel dwie karty."
 
 # 51a4532c38494d3db7167f53c40a87b5
 #: ../../JOU.rst:803
@@ -2976,6 +2939,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../JOU.rst:840
 msgid ""

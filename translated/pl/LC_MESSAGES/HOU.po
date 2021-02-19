@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 00:42+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hou/pl/>\n"
 "Language: pl\n"
@@ -657,18 +657,12 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:203
-#, fuzzy
-#| msgid ""
-#| "At the beginning of each end step, enchanted player puts the top X cards "
-#| "of their library into their graveyard, where X is the number of cards put "
-#| "into that graveyard from anywhere this turn."
 msgid ""
 "At the beginning of each end step, enchanted player mills X cards, where X "
 "is the number of cards put into their graveyard from anywhere this turn."
 msgstr ""
-"Na początku każdego kroku końcowego, zauroczony gracz umieszcza X "
-"wierzchnich kart swojej biblioteki w swoim cmentarzu, gdzie X jest liczbą "
-"kart umieszczonych w tej turze skądkolwiek w owym cmentarzu."
+"Na początku każdego kroku końcowego, zauroczony gracz mieli X kart, gdzie X "
+"jest liczbą kart umieszczonych w tej turze skądkolwiek w owym cmentarzu."
 
 #: ../../HOU.rst:208
 msgid ""
@@ -804,16 +798,12 @@ msgstr ""
 "stał się stworem Sfinks 3/3 z lataniem oprócz swoich pozostałych typów."
 
 #: ../../HOU.rst:247
-#, fuzzy
-#| msgid ""
-#| "Look at the top four cards of your library. Put one of them into your "
-#| "hand and the rest on the bottom of your library in any order."
 msgid ""
 "|mana_2|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may "
 "put that card on the bottom of your library.)"
 msgstr ""
-"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
-"twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
+"|mana_2|\\ |mana_u|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../HOU.rst:252
 msgid ""
@@ -824,14 +814,8 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:251
-#, fuzzy
-#| msgid ""
-#| "|mana_u|, |tap|, Discard a card: Target player puts the top three cards "
-#| "of their library into their graveyard."
 msgid "|mana_u|, |tap|, Discard a card: Target player mills three cards."
-msgstr ""
-"|mana_u|, |tap|, odrzuć kartę: Wskazany przeciwnik umieszcza trzy wierzchnie "
-"karty swojej biblioteki w swoim cmentarzu."
+msgstr "|mana_u|, |tap|, odrzuć kartę: Wskazany przeciwnik mieli trzy karty."
 
 #: ../../HOU.rst:258
 msgid ""
@@ -1695,21 +1679,15 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:533
-#, fuzzy
-#| msgid ""
-#| "Shuffle your library, then exile the top four cards. You may cast any "
-#| "number of nonland cards with converted mana cost 5 or less from among "
-#| "them without paying their mana costs. Lands you control don't untap "
-#| "during your next untap step."
 msgid ""
 "Shuffle your library, then exile the top four cards. You may cast any number "
 "of spells with converted mana cost 5 or less from among them without paying "
 "their mana costs. Lands you control don't untap during your next untap step."
 msgstr ""
 "Przetasuj twoją bibliotekę, następnie wygnaj jej cztery wierzchnie karty. "
-"Możesz spośród nich rzucić dowolną liczbę nie-lądowych kart o skróconych "
-"kosztach many 5 lub mniejszym bez płacenia ich kosztów many. Lądy pod twoim "
-"władaniem nie odkręcą się w twoim najbliższym kroku odkręcania."
+"Możesz rzucić spośród nich dowolną liczbę czarów o wartościach many 5 lub "
+"mniejszych bez płacenia ich kosztów many. Lądy pod twoim władaniem nie "
+"odkręcą się w twoim najbliższym kroku odkręcania."
 
 #: ../../HOU.rst:538
 msgid ""
@@ -1899,16 +1877,12 @@ msgstr ""
 "traci 4 życia.)"
 
 #: ../../HOU.rst:601
-#, fuzzy
-#| msgid ""
-#| "Whenever Wildfire Eternal attacks and isn't blocked, you may cast an "
-#| "instant or sorcery card from your hand without paying its mana cost."
 msgid ""
 "Whenever Wildfire Eternal attacks and isn't blocked, you may cast an instant "
 "or sorcery spell from your hand without paying its mana cost."
 msgstr ""
-"Ilekroć ten stwór zaatakuje i nie jest blokowany, możesz rzucić kartę "
-"sztuczki lub obrzędu z twojej ręki bez płacenia jej kosztu many."
+"Ilekroć ten stwór zaatakuje i nie jest blokowany, możesz rzucić czar "
+"sztuczki lub obrzędu z twojej ręki bez płacenia jego kosztu many."
 
 #: ../../HOU.rst:606
 msgid ""
@@ -2200,10 +2174,8 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:693
-#, fuzzy
-#| msgid "You may play land cards from your graveyard."
 msgid "You may play lands from your graveyard."
-msgstr "Możesz zagrywać karty lądów z twojego cmentarza."
+msgstr "Możesz zagrywać lądy z twojego cmentarza."
 
 #: ../../HOU.rst:702
 msgid ""
@@ -2344,7 +2316,7 @@ msgid ""
 "each have converted mana cost X, reveal them, put them into your hand, then "
 "shuffle your library."
 msgstr ""
-"Wyszukaj  w twojej bibliotece co najwyżej X kart stworów o różnych nazwach i "
+"Wyszukaj w twojej bibliotece co najwyżej X kart stworów o różnych nazwach i "
 "skróconym koszcie many X każda, ujawnij je i umieść w swojej ręce, następnie "
 "przetasuj twoją bibliotekę."
 
@@ -2870,16 +2842,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:915
-#, fuzzy
-#| msgid "You may cast nonland cards with cycling from your graveyard."
 msgid "You may cast spells that have a cycling ability from your graveyard."
-msgstr "Możesz rzucać nie-lądowe karty z recyklingiem z twojego cmentarza."
+msgstr "Możesz rzucać czary z recyklingiem z twojego cmentarza."
 
 #: ../../HOU.rst:917
-#, fuzzy
-#| msgid ""
-#| "If a card with cycling would be put into your graveyard from anywhere and "
-#| "it wasn't cycled, exile it instead."
 msgid ""
 "If a card that has a cycling ability would be put into your graveyard from "
 "anywhere and it wasn't cycled, exile it instead."
@@ -3290,16 +3256,12 @@ msgid "|tap|, Pay 1 life: Add |mana_u|."
 msgstr "|tap|, zapłać 1 życie: Weź |mana_u|."
 
 #: ../../HOU.rst:1061
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_u|, |tap|, Sacrifice a Desert: Target player puts the "
-#| "top four cards of their library into their graveyard."
 msgid ""
 "|mana_1|\\ |mana_u|, |tap|, Sacrifice a Desert: Target player mills four "
 "cards."
 msgstr ""
-"|mana_1|\\ |mana_u|, |tap|, poświęć Pustynię: Wskazany gracz umieszcza "
-"cztery wierzchnie karty swojej biblioteki w swoim cmentarzu."
+"|mana_1|\\ |mana_u|, |tap|, poświęć Pustynię: Wskazany gracz mieli cztery "
+"karty."
 
 #: ../../HOU.rst:1070
 msgid ""

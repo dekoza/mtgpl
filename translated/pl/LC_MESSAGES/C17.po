@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 22:58+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -2036,10 +2036,6 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:677
-#, fuzzy
-#| msgid ""
-#| "Converge — You draw X cards and you lose X life, where X is the number of "
-#| "colors of mana spent to cast Painful Truths."
 msgid ""
 "Converge — You draw X cards and you lose X life, where X is the number of "
 "colors of mana spent to cast this spell."
@@ -2795,7 +2791,7 @@ msgstr ""
 
 #: ../../C17.rst:935
 msgid "Lifelink, protection from white and from black"
-msgstr "Więź życia, ochrona przed białym i czarnym."
+msgstr "Więź życia, ochrona przed białym i czarnym"
 
 #: ../../C17.rst:937
 msgid ""
@@ -3680,6 +3676,8 @@ msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd.)"
 
 #: ../../C17.rst:1266
 msgid ""

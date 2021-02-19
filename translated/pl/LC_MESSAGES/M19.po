@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-15 19:22+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m19/pl/>\n"
 "Language: pl\n"
@@ -150,17 +150,12 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../M19.rst:41
-#, fuzzy
-#| msgid ""
-#| "When Angel of the Dawn enters the battlefield, creatures you control get "
-#| "+1/+1 and gain vigilance until end of turn. (Attacking doesn't cause them "
-#| "to tap.)"
 msgid ""
 "When Angel of the Dawn enters the battlefield, creatures you control get +1/"
 "+1 and gain vigilance until end of turn."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
-"końca tury +1/+1 oraz czujność. (Atakowanie nie powoduje ich przekręcenia.)"
+"końca tury +1/+1 oraz czujność."
 
 #: ../../M19.rst:46
 msgid ""
@@ -949,16 +944,12 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:321
-#, fuzzy
-#| msgid ""
-#| "You may have Mirror Image enter the battlefield as a copy of any creature "
-#| "you control."
 msgid ""
 "You may have Mirror Image enter the battlefield as a copy of a creature you "
 "control."
 msgstr ""
-"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia dowolnego "
-"stwora pod twoim władaniem."
+"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia stwora pod "
+"twoim władaniem."
 
 #: ../../M19.rst:326
 msgid ""
@@ -1037,18 +1028,13 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:345
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, target opponent puts the top three cards "
-#| "of their library into their graveyard, then you draw a card for each land "
-#| "card put into that graveyard this way."
 msgid ""
 "At the beginning of your upkeep, target opponent mills three cards, then you "
 "draw a card for each land card put into their graveyard this way."
 msgstr ""
-"Na początku twojego kroku utrzymania wskazany przeciwnik umieszcza trzy "
-"wierzchnie karty swojej biblioteki w swoim cmentarzu, następnie ty dobierz "
-"kartę za każdą kartę lądu umieszczoną w ten sposób w owym cmentarzu."
+"Na początku twojego kroku utrzymania wskazany przeciwnik mieli trzy karty, "
+"następnie ty dobierz kartę za każdą kartę lądu umieszczoną w ten sposób w "
+"owym cmentarzu."
 
 #: ../../M19.rst:350
 msgid ""
@@ -1058,10 +1044,8 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:349
-#, fuzzy
-#| msgid "Whenever you gain life, each opponent loses 1 life."
 msgid "Whenever you draw a card, each opponent mills two cards."
-msgstr "Ilekroć zyskasz życia, każdy przeciwnik traci po 1 życiu."
+msgstr "Ilekroć dobierzesz kartę, każdy przeciwnik mieli po dwie karty."
 
 #: ../../M19.rst:356
 msgid ""
@@ -1589,18 +1573,12 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:531
-#, fuzzy
-#| msgid ""
-#| "+1: Put the top three cards of your library into your graveyard. If at "
-#| "least one of them is a Zombie card, each opponent loses 2 life and you "
-#| "gain 2 life."
 msgid ""
 "+1: Mill three cards. If at least one Zombie card is milled this way, each "
 "opponent loses 2 life and you gain 2 life."
 msgstr ""
-"+1: Umieść trzy wierzchnie karty twojej biblioteki w twoim cmentarzu. Jeśli "
-"przynajmniej jedna z nich jest kartą Zombi, każdy przeciwnik traci po 2 "
-"życia, a ty zyskaj 2 życia."
+"+1: Zmiel trzy karty. Jeśli co najmniej jedna z nich jest kartą Zombi, każdy "
+"przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../M19.rst:533
 msgid ""
@@ -1611,10 +1589,8 @@ msgstr ""
 "pod twoim władaniem."
 
 #: ../../M19.rst:535
-#, fuzzy
-#| msgid "−3: You may cast Zombie cards from your graveyard this turn."
 msgid "−3: You may cast Zombie spells from your graveyard this turn."
-msgstr "–3: W tej turze możesz rzucać karty Zombi z twojego cmentarza."
+msgstr "–3: W tej turze możesz rzucać czary Zombi z twojego cmentarza."
 
 #: ../../M19.rst:542
 msgid ""
@@ -1843,15 +1819,9 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:607
-#, fuzzy
-#| msgid ""
-#| "When Stitcher's Supplier enters the battlefield or dies, put the top "
-#| "three cards of your library into your graveyard."
 msgid ""
 "When Stitcher's Supplier enters the battlefield or dies, mill three cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki lub umrze, umieść trzy wierzchnie "
-"karty twojej biblioteki w twoim cmentarzu."
+msgstr "Kiedy ten stwór wejdzie na pole walki lub umrze, zmiel trzy karty."
 
 #: ../../M19.rst:612
 msgid ""
@@ -1956,16 +1926,12 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:643
-#, fuzzy
-#| msgid ""
-#| "Exile the top seven cards of your library. Until end of turn, you may "
-#| "cast nonland cards exiled this way."
 msgid ""
 "Exile the top seven cards of your library. Until end of turn, you may cast "
 "spells from among them."
 msgstr ""
 "Wygnaj siedem wierzchnich kart twojej biblioteki. Do końca tury możesz "
-"rzucać nie-lądowe karty wygnane w ten sposób."
+"rzucać czary wygnane w ten sposób."
 
 #: ../../M19.rst:645
 msgid "If this spell was cast from your hand, add ten mana of any one color."
@@ -2513,10 +2479,8 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:835
-#, fuzzy
-#| msgid "Flying, trample"
 msgid "Flying, haste"
-msgstr "Latanie, tratowanie"
+msgstr "Latanie, pośpiech"
 
 #: ../../M19.rst:840
 msgid ""
@@ -2728,7 +2692,7 @@ msgstr ""
 
 #: ../../M19.rst:905 ../../M19.rst:1045 ../../M19.rst:1117 ../../M19.rst:1511
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../M19.rst:914
 msgid ""
@@ -3463,10 +3427,8 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:1167
-#, fuzzy
-#| msgid "You may play land cards from your graveyard."
 msgid "You may play lands from your graveyard."
-msgstr "Możesz zagrywać karty lądów z twojego cmentarza."
+msgstr "Możesz zagrywać lądy z twojego cmentarza."
 
 #: ../../M19.rst:1172
 msgid ""
@@ -3646,10 +3608,8 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:1233
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "|mana_2|, |tap|: Target player mills two cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../M19.rst:1240
 msgid ""

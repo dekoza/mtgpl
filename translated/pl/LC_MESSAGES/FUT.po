@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 22:58+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -672,10 +672,8 @@ msgid "Play with the top card of your library revealed."
 msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../FUT.rst:231
-#, fuzzy
-#| msgid "You may play the top card of your library."
 msgid "You may play lands and cast spells from the top of your library."
-msgstr "Możesz zagrywać wierzchnią kartę twojej biblioteki."
+msgstr "Możesz zagrywać lądy i rzucać czaru z wierzchu twojej biblioteki."
 
 #: ../../FUT.rst:238
 msgid ""
@@ -2529,7 +2527,7 @@ msgstr ""
 
 #: ../../FUT.rst:885
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../FUT.rst:887
 msgid ""

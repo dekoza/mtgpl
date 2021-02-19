@@ -3,23 +3,22 @@
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2020-03-01 22:18+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/bng/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "X-POOTLE-MTIME: 1391098335.778030\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
@@ -819,16 +818,12 @@ msgstr ""
 # e028507fec8a446d8440174b3b3eba11
 # 4557070f15d949b3b602adcee28611f7
 #: ../../BNG.rst:209
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature has \"|mana_1|\\ |mana_b|, |tap|: Target player loses "
-#| "2 life.\""
 msgid ""
 "Enchanted creature has \"|mana_1|\\ |mana_u|, |tap|: Target player mills "
 "three cards.\""
 msgstr ""
-"Zauroczony stwór ma \"|mana_1|\\ |mana_b|, |tap|: Wskazany gracz traci dwa "
-"życia.\""
+"Zauroczony stwór ma \"|mana_1|\\ |mana_u|, |tap|: Wskazany gracz mieli trzy "
+"karty.\""
 
 #: ../../BNG.rst:214
 msgid ""
@@ -1522,14 +1517,8 @@ msgstr ""
 # 2bc7f8bd56994b438986839433f936ce
 # 28d9f8ba2fa44427ae898c9326eb28cc
 #: ../../BNG.rst:385
-#, fuzzy
-#| msgid ""
-#| "When Forsaken Drifters dies, put the top four cards of your library into "
-#| "your graveyard."
 msgid "When Forsaken Drifters dies, mill four cards."
-msgstr ""
-"Kiedy ten stwór umrze, umieść cztery wierzchnie karty twojej biblioteki w "
-"twoim cmentarzu."
+msgstr "Kiedy ten stwór umrze, zmiel cztery karty."
 
 #: ../../BNG.rst:390
 msgid ""
@@ -1541,16 +1530,12 @@ msgstr ""
 # 841ce6f7148844c48c763dd8ae23bf35
 # 51ac3818a346418eb9db6059fd952832
 #: ../../BNG.rst:389
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Create a colorless artifact token named Gold. It "
-#| "has \"Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "Exile target creature. Create a Gold token. (It's an artifact with "
 "\"Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Wygnaj wskazanego stwora. Stwórz żeton bezkolorowego artefaktu Złoto z "
-"\"Poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Wygnaj wskazanego stwora. Stwórz żeton Złota. (To artefakt mający \"Poświęć "
+"ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../BNG.rst:398
 msgid ""
@@ -2164,11 +2149,6 @@ msgstr "Pośpiech"
 # d0ef760d832e4c5ba06277042fa682ba
 # 45534d7eb83e453cbbc5ad38f8692633
 #: ../../BNG.rst:559
-#, fuzzy
-#| msgid ""
-#| "When Oracle of Bones enters the battlefield, if tribute wasn't paid, you "
-#| "may cast an instant or sorcery card from your hand without paying its "
-#| "mana cost."
 msgid ""
 "When Oracle of Bones enters the battlefield, if tribute wasn't paid, you may "
 "cast an instant or sorcery spell from your hand without paying its mana cost."
@@ -2429,8 +2409,8 @@ msgid ""
 "toward your devotion to green.)"
 msgstr ""
 "Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest twoim kultem "
-"zielonego. (Każdy symbol |mana_g| w kosztach many permanentów pod twoim "
-"władaniem wlicza się się do twojego kultu zielonego.)"
+"zielonego. (Każde |mana_g| w kosztach many permanentów pod twoim władaniem "
+"wlicza się do twojego kultu zielonego.)"
 
 #: ../../BNG.rst:634
 msgid ""
@@ -2455,11 +2435,8 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 # 9db8b0ae6bff4523b9b0dfa96b562a48
 # 87927e9905714274bcd124ad6639b898
 #: ../../BNG.rst:639
-#, fuzzy
-#| msgid "You may play the top card of your library if it's a land card."
 msgid "You may play lands from the top of your library."
-msgstr ""
-"Możesz zagrać wierzchnią kartę twojej biblioteki jeśli jest to karta lądu."
+msgstr "Możesz zagrywać lądy z wierzchu twojej biblioteki."
 
 # cbc5f67b6ecb44ddb24bba23c13d6ccd
 # 6e27e26cfbb0469bad937045dc7c9c4b
@@ -3183,18 +3160,12 @@ msgstr ""
 
 # 97ad47456d2b4a58a4bc3185f583cb00
 #: ../../BNG.rst:833
-#, fuzzy
-#| msgid ""
-#| "Creatures you control have \"|tap|: Target player puts the top X cards of "
-#| "their library into their graveyard, where X is this creature's toughness."
-#| "\""
 msgid ""
 "Creatures you control have \"|tap|: Target player mills X cards, where X is "
 "this creature's toughness.\""
 msgstr ""
-"Stwory pod twoim władaniem mają \"|tap|: Wskazany gracz umieszcza X "
-"wierzchnich kart swojej biblioteki w swoim cmentarzu, gdzie X jest "
-"wytrzymałością tego stwora.\""
+"Stwory pod twoim władaniem mają \"|tap|: Wskazany gracz mieli X kart, gdzie "
+"X jest wytrzymałością tego stwora.\""
 
 #: ../../BNG.rst:838
 msgid ""
@@ -3241,18 +3212,12 @@ msgstr ""
 # 6ca1fcf6befd44709cb57db55d2ab8de
 # 21aa7806b1cd4593b3f1d43cd673ab76
 #: ../../BNG.rst:847
-#, fuzzy
-#| msgid ""
-#| "Inspired — Whenever Siren of the Silent Song becomes untapped, each "
-#| "opponent discards a card, then puts the top card of their library into "
-#| "their graveyard."
 msgid ""
 "Inspired — Whenever Siren of the Silent Song becomes untapped, each opponent "
 "discards a card, then each opponent mills a card."
 msgstr ""
 "Natchniony — Ilekroć ten stwór zostanie odkręcony, każdy przeciwnik odrzuca "
-"kartę, następnie umieszcza wierzchnią kartę swojej biblioteki w swoim "
-"cmentarzu."
+"kartę, następnie każdy przeciwnik mieli kartę."
 
 #: ../../BNG.rst:856
 msgid ""

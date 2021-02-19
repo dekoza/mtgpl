@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:05+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -916,10 +916,8 @@ msgid ""
 msgstr ""
 
 #: ../../9ED.rst:337
-#, fuzzy
-#| msgid "Enchant land"
 msgid "Enchant permanent"
-msgstr "Zaurocz ląd"
+msgstr "Zaurocz permanent"
 
 #: ../../9ED.rst:339
 msgid "You control enchanted permanent."
@@ -1385,14 +1383,8 @@ msgid ""
 msgstr ""
 
 #: ../../9ED.rst:519
-#, fuzzy
-#| msgid ""
-#| "Target player puts the top half of their library, rounded down, into "
-#| "their graveyard."
 msgid "Target player mills half their library, rounded down."
-msgstr ""
-"Wskazany gracz umieszcza wierzchnią połowę swojej biblioteki, zaokrąglając w "
-"dół, w swoim cmentarzu."
+msgstr "Wskazany gracz mieli połowę swojej biblioteki, zaokrąglając w dół."
 
 #: ../../9ED.rst:524
 msgid ""
@@ -3011,7 +3003,7 @@ msgstr ""
 
 #: ../../9ED.rst:1125 ../../9ED.rst:1255
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../9ED.rst:1130
 msgid ""
@@ -3726,10 +3718,8 @@ msgid ""
 msgstr ""
 
 #: ../../9ED.rst:1381
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "|mana_2|, |tap|: Target player mills two cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../9ED.rst:1386
 msgid ""

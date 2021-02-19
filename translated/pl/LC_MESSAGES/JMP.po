@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-15 18:06+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -3088,9 +3088,9 @@ msgstr ""
 #: ../../JMP.rst:1451
 msgid "Whenever Etali, Primal Storm attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs."
 msgstr ""
-"Ilekroć ten stwór atakuje, wygnaj wierzchnią kartę z biblioteki każdego z "
-"graczy, następnie możesz rzucić dowolną liczbę czarów spośród owych kart bez "
-"płacenia ich kosztów many."
+"Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę biblioteki każdego z "
+"graczy, następnie możesz rzucić dowolną liczbę czarów spośród kart wygnanych "
+"w ten sposób bez płacenia ich kosztów many."
 
 #: ../../JMP.rst:1458
 msgid ":mtgtip:`Fanatical Firebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05469d01-0d2b-47b9-8a69-16cf0c3d43f8.jpg?1601077610|https://scryfall.com/card/jmp/315/fanatical-firebrand?utm_source=api>`"
@@ -3451,7 +3451,7 @@ msgstr ""
 #: ../../JMP.rst:1625
 #: ../../JMP.rst:2099
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../JMP.rst:1627
 msgid "|mana_1|\\ |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
@@ -4998,7 +4998,7 @@ msgstr ""
 msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../JMP.rst:2366
 msgid ":mtgtip:`Buried Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/011bc5b7-c4d5-4c4c-af0d-aa0853d63f3a.jpg?1601081136|https://scryfall.com/card/jmp/491/buried-ruin?utm_source=api>`"

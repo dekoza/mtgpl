@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 22:58+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -1051,18 +1051,12 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:371
-#, fuzzy
-#| msgid ""
-#| "When Banishing Light enters the battlefield, exile target nonland "
-#| "permanent an opponent controls until Banishing Light leaves the "
-#| "battlefield. (That permanent returns under its owner's control.)"
 msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
 "Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki. (Ów "
-"permanent wraca pod władanie swojego właściciela.)"
+"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki."
 
 #: ../../C15.rst:380
 msgid ""
@@ -2140,16 +2134,12 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:729
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Create a colorless artifact token named Gold. It "
-#| "has \"Sacrifice this artifact: Add one mana of any color.\""
 msgid ""
 "Exile target creature. Create a Gold token. (It's an artifact with "
 "\"Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Wygnaj wskazanego stwora. Stwórz żeton bezkolorowego artefaktu Złoto z "
-"\"Poświęć ten artefakt: Weź jedną manę dowolnego koloru.\""
+"Wygnaj wskazanego stwora. Stwórz żeton Złota. (To artefakt mający \"Poświęć "
+"ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../C15.rst:734
 msgid ""
@@ -3592,22 +3582,16 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1201
-#, fuzzy
-#| msgid ""
-#| "Exile the top X cards of your library. For each instant and sorcery card "
-#| "with converted mana cost X or less among them, you may cast that card "
-#| "without paying its mana cost. Then put all cards exiled this way that "
-#| "weren't cast into your graveyard."
 msgid ""
 "Exile the top X cards of your library. You may cast instant and sorcery "
 "spells with converted mana cost X or less from among them without paying "
 "their mana costs. Then put all cards exiled this way that weren't cast into "
 "your graveyard."
 msgstr ""
-"Wygnaj X wierzchnich kart twojej biblioteki. Możesz rzucić każdą kartę "
-"sztuczki i obrzędu o skróconym koszcie many X lub mniejszym spośród nich, "
-"bez płacenia jej kosztu many. Następnie umieść w twoim cmentarzu wszystkie "
-"karty wygnane w ten sposób, które nie zostały rzucone."
+"Wygnaj X wierzchnich kart twojej biblioteki. Możesz rzucić spośród nich "
+"czary sztuczek i obrzędów mające wartość many X lub mniej bez płacenia ich "
+"kosztów many. Następnie umieść w twoim cmentarzu wszystkie karty wygnane w "
+"ten sposób, które nie zostały rzucone."
 
 #: ../../C15.rst:1208
 msgid ""
@@ -3782,10 +3766,8 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1255
-#, fuzzy
-#| msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
 msgid "Whenever you draw a card, put a +1/+1 counter on Lorescale Coatl."
-msgstr "Odrzuć kartę stwora: Umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C15.rst:1264
 msgid ""
@@ -3815,7 +3797,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../C15.rst:1269
 msgid "You may cast instant and sorcery spells from the top of your library."
-msgstr ""
+msgstr "Możesz rzucać czary sztuczek i obrzędów z wierzchu twojej biblioteki."
 
 #: ../../C15.rst:1271
 msgid ""

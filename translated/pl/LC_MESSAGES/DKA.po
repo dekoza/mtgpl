@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -837,14 +837,8 @@ msgstr ""
 
 # b2c4618ab86b47e8a5c73aa49a2e9ea1
 #: ../../DKA.rst:261
-#, fuzzy
-#| msgid ""
-#| "When Screeching Skaab enters the battlefield, put the top two cards of "
-#| "your library into your graveyard."
 msgid "When Screeching Skaab enters the battlefield, mill two cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty."
 
 #: ../../DKA.rst:266
 msgid ""
@@ -2063,7 +2057,7 @@ msgstr ""
 # 6c8d63db9e084ac5a574b27edf471fcb
 #: ../../DKA.rst:687
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 # 3deb7fb9dbab425683cf3584904a30f2
 #: ../../DKA.rst:689

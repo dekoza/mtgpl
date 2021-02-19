@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 00:42+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ori/pl/>\n"
 "Language: pl\n"
@@ -870,13 +870,6 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:289
-#, fuzzy
-#| msgid ""
-#| "Each player shuffles their hand and graveyard into their library, then "
-#| "draws seven cards. If it's your turn, end the turn. (Exile all spells and "
-#| "abilities on the stack, including this card. Discard down to your maximum "
-#| "hand size. Damage wears off, and \"this turn\" and \"until end of turn\" "
-#| "effects end.)"
 msgid ""
 "Each player shuffles their hand and graveyard into their library, then draws "
 "seven cards. If it's your turn, end the turn. (Exile all spells and "
@@ -970,15 +963,10 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:317
-#, fuzzy
-#| msgid ""
-#| "Target player puts the top X cards of their library into their graveyard, "
-#| "where X is the number of lands you control."
 msgid ""
 "Target player mills X cards, where X is the number of lands you control."
 msgstr ""
-"Wskazany gracz umieszcza X wierzchnich kart swojej biblioteki w swoim "
-"cmentarzu, gdzie X jest liczbą lądów pod twoim władaniem."
+"Wskazany gracz mieli X kart, gdzie X jest liczbą lądów pod twoim władaniem."
 
 #: ../../ORI.rst:324
 msgid ""
@@ -1062,31 +1050,22 @@ msgstr ""
 "+1: Co najwyżej jeden wskazany stwór dostaje do twojej następnej tury -2/-0."
 
 #: ../../ORI.rst:345
-#, fuzzy
-#| msgid ""
-#| "−3: You may cast target instant or sorcery card from your graveyard this "
-#| "turn. If that card would be put into your graveyard this turn, exile it "
-#| "instead."
 msgid ""
 "−3: You may cast target instant or sorcery card from your graveyard this "
 "turn. If that spell would be put into your graveyard this turn, exile it "
 "instead."
 msgstr ""
 "–3: Możesz w tej turze rzucić wskazaną kartę sztuczki lub obrzędu z twojego "
-"cmentarza. Jeśli owa karta miałaby zostać umieszczona w cmentarzu w tej "
-"turze, zamiast tego wygnaj ją."
+"cmentarza. Jeśli ów czar miałby zostać umieszczony w twoim cmentarzu w tej "
+"turze, zamiast tego wygnaj go."
 
 #: ../../ORI.rst:347
-#, fuzzy
-#| msgid ""
-#| "−9: You get an emblem with \"Whenever you cast a spell, target opponent "
-#| "puts the top five cards of their library into their graveyard.\""
 msgid ""
 "−9: You get an emblem with \"Whenever you cast a spell, target opponent "
 "mills five cards.\""
 msgstr ""
 "–9: Dostajesz emblemat mający \"Ilekroć rzucisz czar, wskazany przeciwnik "
-"umieszcza pięć wierzchnich kart swojej biblioteki w swoim cmentarzu.\""
+"mieli pięć kart.\""
 
 #: ../../ORI.rst:354
 msgid ""
@@ -1226,10 +1205,8 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:403
-#, fuzzy
-#| msgid "When Stratus Walk enters the battlefield, draw a card."
 msgid "When Screeching Skaab enters the battlefield, mill two cards."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty."
 
 #: ../../ORI.rst:410
 msgid ""
@@ -1324,18 +1301,12 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:433
-#, fuzzy
-#| msgid ""
-#| "Whenever you draw a card, target opponent puts the top two cards of their "
-#| "library into their graveyard. If they're both nonland cards that share a "
-#| "color, repeat this process."
 msgid ""
 "Whenever you draw a card, target opponent mills two cards. If two nonland "
 "cards that share a color were milled this way, repeat this process."
 msgstr ""
-"Ilekroć dobierzesz kartę,wskazany przeciwnik umieszcza dwie wierzchnie karty "
-"swojej biblioteki w swoim cmentarzu. Jeśli obie są nie-lądowymi kartami "
-"współdzielącymi kolor, powtórz ten proces."
+"Ilekroć dobierzesz kartę, wskazany przeciwnik mieli dwie karty. Jeśli w ten "
+"sposób zmielone dwie nielądowe karty współdzielące kolor, powtórz ten proces."
 
 #: ../../ORI.rst:435
 msgid "|mana_5|\\ |mana_u|: Draw a card, then discard a card."
@@ -1372,34 +1343,24 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:449
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals the top seven cards of their library. You may "
-#| "cast an instant or sorcery card from among them without paying its mana "
-#| "cost. Then that player puts the rest into their graveyard."
 msgid ""
 "Target opponent reveals the top seven cards of their library. You may cast "
 "an instant or sorcery spell from among them without paying its mana cost. "
 "Then that player puts the rest into their graveyard."
 msgstr ""
 "Wskazany przeciwnik ujawnia siedem wierzchnich kart swojej biblioteki. "
-"Możesz rzucić spośród nich kartę sztuczki lub obrzędu bez płacenia jej "
+"Możesz rzucić spośród nich czar sztuczki lub obrzędu bez płacenia jego "
 "kosztu many. Następnie ów gracz umieszcza pozostałe w swoim cmentarzu."
 
 #: ../../ORI.rst:451
-#, fuzzy
-#| msgid ""
-#| "Spell mastery — If there are two or more instant and/or sorcery cards in "
-#| "your graveyard, you may cast up to two revealed instant and/or sorcery "
-#| "cards instead of one."
 msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, you may cast up to two instant and/or sorcery spells from "
 "among the revealed cards instead of one."
 msgstr ""
 "Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
-"sztuczki i/lub obrzędu, możesz rzucić co najwyżej dwie ujawnione karty "
-"sztuczek i/lub obrzędów zamiast jednej."
+"sztuczki i/lub obrzędu, możesz spośród ujawnionych kart rzucić co najwyżej "
+"dwa czary sztuczek i/lub obrzędów zamiast jednego."
 
 #: ../../ORI.rst:458
 msgid ""
@@ -2076,15 +2037,10 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:655
-#, fuzzy
-#| msgid ""
-#| "When Returned Centaur enters the battlefield, target player puts the top "
-#| "four cards of their library into their graveyard."
 msgid ""
 "When Returned Centaur enters the battlefield, target player mills four cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz umieszcza cztery "
-"wierzchnie karty swojej biblioteki w swoim cmentarzu."
+"Kiedy ten stwór wejdzie na pole walki, wskazany gracz mieli cztery karty."
 
 #: ../../ORI.rst:662
 msgid ""
@@ -3442,7 +3398,7 @@ msgstr ""
 
 #: ../../ORI.rst:1085
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../ORI.rst:1092
 msgid ""
@@ -3929,7 +3885,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../ORI.rst:1254
 msgid ""

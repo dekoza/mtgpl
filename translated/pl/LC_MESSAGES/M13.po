@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:05+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -792,13 +792,11 @@ msgstr ""
 
 #: ../../M13.rst:291
 msgid "+1: Draw a card. Target player mills a card."
-msgstr ""
+msgstr "+1: Dobierz kartę. Wskazany gracz mieli kartę."
 
 #: ../../M13.rst:293
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "0: Target player mills ten cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "0: Wskazany gracz mieli dziesięć kart."
 
 #: ../../M13.rst:295
 msgid "−7: Any number of target players each draw twenty cards."
@@ -1038,10 +1036,8 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:385
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "|mana_u|, |tap|: Target player mills two cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "|mana_u|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../M13.rst:390
 msgid ""
@@ -2205,7 +2201,7 @@ msgstr ""
 
 #: ../../M13.rst:813
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../M13.rst:820
 msgid ""
@@ -2489,6 +2485,8 @@ msgid ""
 "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 "
 "counter on Quirion Dryad."
 msgstr ""
+"Ilekroć rzucisz biały, niebieski, czarny lub czerwony czar, umieść znacznik +"
+"1/+1 na tym stworze."
 
 #: ../../M13.rst:918
 msgid ""
@@ -2557,7 +2555,7 @@ msgstr ""
 
 #: ../../M13.rst:933
 msgid "Vigilance, reach"
-msgstr ""
+msgstr "Czujność, zasięg"
 
 #: ../../M13.rst:938
 msgid ""
@@ -2869,7 +2867,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../M13.rst:1048
 msgid ""
@@ -2954,10 +2952,8 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:1075
-#, fuzzy
-#| msgid "|mana_4|, |tap|: Draw a card."
 msgid "|mana_x|, |tap|: Target player mills X cards."
-msgstr "|mana_4|, |tap|: Dobierz kartę."
+msgstr "|mana_x|, |tap|: Wskazany gracz mieli X kart."
 
 #: ../../M13.rst:1082
 msgid ""

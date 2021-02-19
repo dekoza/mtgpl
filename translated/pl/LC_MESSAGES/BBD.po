@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 22:59+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bbd/pl/>\n"
 "Language: pl\n"
@@ -2869,7 +2869,7 @@ msgstr ""
 
 #: ../../BBD.rst:1013 ../../BBD.rst:1213
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../BBD.rst:1018
 msgid ""
@@ -3565,10 +3565,8 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:1273
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|.)"
 msgid "|tap|: Add |colorless|."
-msgstr "(|tap|: Weź |mana_r|.)"
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../BBD.rst:1275
 msgid ""

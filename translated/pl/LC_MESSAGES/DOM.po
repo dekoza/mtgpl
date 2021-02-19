@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 09:14+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dom/pl/>\n"
 "Language: pl\n"
@@ -269,17 +269,14 @@ msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
 #: ../../DOM.rst:79
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2, has first strike, and is a Knight in "
-#| "addition to its other types."
 msgid ""
 "Enchanted creature gets +2/+2, has first strike, and is a Knight in addition "
 "to its other types. (It deals combat damage before creatures without first "
 "strike.)"
 msgstr ""
 "Zauroczony stwór dostaje +2/+2, ma pierwszy cios i jest dodatkowo Rycerzem "
-"oprócz swoich pozostałych typów."
+"oprócz swoich pozostałych typów. (zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../DOM.rst:86
 msgid ""
@@ -902,16 +899,12 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:293
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, "
-#| "and Sagas are historic.)"
 msgid ""
 "Whenever you cast a historic spell, target player mills two cards. "
 "(Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucisz historyczny czar, dobierz kartę. (Artefakty, legendy i Sagi "
-"są historyczne.)"
+"Ilekroć rzucisz historyczny czar, wskazany gracz mieli dwie karty. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:298
 msgid ""
@@ -932,15 +925,10 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:301
-#, fuzzy
-#| msgid ""
-#| "When Homarid Explorer enters the battlefield, target player puts the top "
-#| "four cards of their library into their graveyard."
 msgid ""
 "When Homarid Explorer enters the battlefield, target player mills four cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz umieszcza cztery "
-"wierzchnie karty swojej biblioteki w swoim cmentarzu."
+"Kiedy ten stwór wejdzie na pole walki, wskazany gracz mieli cztery karty."
 
 #: ../../DOM.rst:310
 msgid ""
@@ -1079,11 +1067,8 @@ msgstr ""
 "Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../DOM.rst:355
-#, fuzzy
-#| msgid "Red instant and sorcery spells you control have lifelink."
 msgid "You may cast instant and sorcery spells from the top of your library."
-msgstr ""
-"Czerwone czary sztuczek i obrzędów pod twoim władaniem mają więź życia."
+msgstr "Możesz rzucać czary sztuczek i obrzędów z wierzchu twojej biblioteki."
 
 #: ../../DOM.rst:357
 msgid "|mana_3|: Exile the top card of your library."
@@ -1267,14 +1252,8 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:419
-#, fuzzy
-#| msgid ""
-#| "Draw three cards. Target player puts the top three cards of their library "
-#| "into their graveyard."
 msgid "Draw three cards. Target player mills three cards."
-msgstr ""
-"Dobierz trzy karty. Wskazany gracz umieszcza trzy wierzchnie karty swojej "
-"biblioteki w swoim cmentarzu."
+msgstr "Dobierz trzy karty. Wskazany gracz mieli trzy karty."
 
 #: ../../DOM.rst:426
 msgid ""
@@ -1931,16 +1910,11 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:637
-#, fuzzy
-#| msgid ""
-#| "When Windgrace Acolyte enters the battlefield, put the top three cards of "
-#| "your library into your graveyard and you gain 3 life."
 msgid ""
 "When Windgrace Acolyte enters the battlefield, mill three cards and you gain "
 "3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu oraz zyskaj 3 życia."
+"Kiedy ten stwór wejdzie na pole walki, zmiel trzy karty oraz zyskaj 3 życia."
 
 #: ../../DOM.rst:640
 msgid ""
@@ -2297,19 +2271,14 @@ msgid "+1: Discard up to three cards, then draw that many cards."
 msgstr "+1: Odrzuć co najwyżej trzy karty, następnie dobierz tyle samo kart."
 
 #: ../../DOM.rst:755
-#, fuzzy
-#| msgid ""
-#| "−8: You get an emblem with \"You may cast instant and sorcery cards from "
-#| "your graveyard. If a card cast this way would be put into your graveyard, "
-#| "exile it instead.\""
 msgid ""
 "−8: You get an emblem with \"You may cast instant and sorcery spells from "
 "your graveyard. If a spell cast this way would be put into your graveyard, "
 "exile it instead.\""
 msgstr ""
-"–8: Dostajesz emblemat mający \"Możesz rzucać karty sztuczek i obrzędów z "
-"twojego cmentarza. Jeśli karta rzucona w ten sposób miałaby zostać "
-"umieszczona w twoim cmentarzu, zamiast tego wygnaj ją.\""
+"–8: Dostajesz emblemat mający \"Możesz rzucać czary sztuczek i obrzędów z "
+"twojego cmentarza. Jeśli czar rzucony w ten sposób miałaby zostać "
+"umieszczony w twoim cmentarzu, zamiast tego wygnaj go.\""
 
 #: ../../DOM.rst:762
 msgid ""
@@ -2928,7 +2897,7 @@ msgstr ""
 
 #: ../../DOM.rst:957
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../DOM.rst:964
 msgid ""
@@ -2958,16 +2927,12 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:969
-#, fuzzy
-#| msgid ""
-#| "I, II — Put the top two cards of your library into your graveyard, then "
-#| "you may return a creature card from your graveyard to your hand."
 msgid ""
 "I, II — Mill two cards, then you may return a creature card from your "
 "graveyard to your hand."
 msgstr ""
-"I, II — Umieść dwie wierzchnie karty twojej biblioteki w twoim cmentarzu, "
-"następnie możesz przywrócić kartę stwora z twojego cmentarza do twojej ręki."
+"I, II — Zmiel dwie karty, następnie możesz przywrócić kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DOM.rst:971
 msgid ""
@@ -3404,11 +3369,6 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:1115
-#, fuzzy
-#| msgid ""
-#| "During each of your turns, you may play up to one permanent card of each "
-#| "permanent type from your graveyard. (If a card has multiple permanent "
-#| "types, choose one as you play it.)"
 msgid ""
 "During each of your turns, you may play a land and cast a permanent spell of "
 "each permanent type from your graveyard. (If a card has multiple permanent "
@@ -3491,10 +3451,8 @@ msgstr ""
 "kartę z twojego cmentarza. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1141
-#, fuzzy
-#| msgid "You may cast nonland cards exiled with Rona."
 msgid "You may cast spells from among cards exiled with Rona."
-msgstr "Możesz rzucać nie-lądowe karty wygnane z pomocą tego stwora."
+msgstr "Możesz rzucać czary spośród kart wygnanych tym stworem."
 
 #: ../../DOM.rst:1143
 msgid "|mana_4|, |tap|: Exile the top card of your library."
@@ -3817,7 +3775,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../DOM.rst:1254
 msgid ""
@@ -3942,7 +3900,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../DOM.rst:1292
 msgid ""

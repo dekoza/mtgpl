@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:05+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -559,6 +559,8 @@ msgid ""
 "Whenever a source deals damage to Belltower Sphinx, that source's controller "
 "mills that many cards."
 msgstr ""
+"Ilekroć jakieś źródło zadaje obrażenia temu stworowi, władca owego źródła "
+"mieli tyle samo kart."
 
 #: ../../RAV.rst:202
 msgid ""
@@ -1041,10 +1043,8 @@ msgid ""
 msgstr ""
 
 #: ../../RAV.rst:389
-#, fuzzy
-#| msgid "Target player draws two cards."
 msgid "|mana_u|, |tap|: Target player mills two cards."
-msgstr "Wskazany gracz dobiera dwie karty."
+msgstr "|mana_u|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../RAV.rst:396
 msgid ""
@@ -2401,7 +2401,7 @@ msgstr ""
 
 #: ../../RAV.rst:859 ../../RAV.rst:1169
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../RAV.rst:864
 msgid ""

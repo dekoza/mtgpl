@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ima/pl/>\n"
 "Language: pl\n"
@@ -830,18 +830,12 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../IMA.rst:313
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|, |tap|: Target player puts the top X cards of their "
-#| "library into their graveyard, where X is the number of creatures with "
-#| "defender you control."
 msgid ""
 "|mana_2|\\ |mana_u|, |tap|: Target player mills X cards, where X is the "
 "number of creatures with defender you control."
 msgstr ""
-"|mana_2|\\ |mana_u|, |tap|: Wskazany gracz umieszcza X wierzchnich kart "
-"swojej biblioteki w swoim cmentarzu, gdzie X jest liczbą stworów z "
-"obronnością pod twoim władaniem."
+"|mana_2|\\ |mana_u|, |tap|: Wskazany gracz mieli X kart, gdzie X jest liczbą "
+"stworów z obronnością pod twoim władaniem."
 
 #: ../../IMA.rst:318
 msgid ""
@@ -1391,18 +1385,12 @@ msgid ""
 msgstr ""
 
 #: ../../IMA.rst:519
-#, fuzzy
-#| msgid ""
-#| "Destroy target nonartifact creature. Its controller puts a number of "
-#| "cards equal to that creature's power from the top of their library into "
-#| "their graveyard."
 msgid ""
 "Destroy target nonartifact creature. Its controller mills cards equal to "
 "that creature's power."
 msgstr ""
-"Zniszcz wskazanego nieartefaktowego stwora. Jego władca umieszcza w swoim "
-"cmentarzu tyle kart z wierzchu swojej biblioteki, ile wynosiła siła owego "
-"stwora."
+"Zniszcz wskazanego nieartefaktowego stwora. Jego władca mieli tyle kart, ile "
+"wynosiła siła owego stwora."
 
 #: ../../IMA.rst:524
 msgid ""
@@ -2958,7 +2946,7 @@ msgstr ""
 
 #: ../../IMA.rst:1083
 msgid "Lifelink, protection from white and from black"
-msgstr "Więź życia, ochrona przed białym i czarnym."
+msgstr "Więź życia, ochrona przed białym i czarnym"
 
 #: ../../IMA.rst:1085
 msgid ""

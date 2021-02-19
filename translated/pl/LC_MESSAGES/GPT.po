@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 07:56+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gpt/pl/>\n"
 "Language: pl\n"
@@ -485,16 +485,12 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:179
-#, fuzzy
-#| msgid ""
-#| "The next sorcery card you cast this turn can be cast as though it had "
-#| "flash. (It can be cast any time you could cast an instant.)"
 msgid ""
 "The next sorcery spell you cast this turn can be cast as though it had "
 "flash. (It can be cast any time you could cast an instant.)"
 msgstr ""
-"Najbliższa rzucona przez ciebie w tej turze karta obrzędu może być zagrana, "
-"jakby miała błysk. (Może być rzucona jak sztuczka.)"
+"Najbliższy rzucony przez ciebie w tej turze czar obrzędu może być zagrany "
+"tak, jakby miał błysk. (Może być rzucony jak sztuczka.)"
 
 #: ../../GPT.rst:188
 msgid ""
@@ -1418,7 +1414,7 @@ msgstr ""
 
 #: ../../GPT.rst:527
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../GPT.rst:529
 msgid "As Silhana Starfletcher enters the battlefield, choose a color."

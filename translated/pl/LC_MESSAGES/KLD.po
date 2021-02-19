@@ -9,17 +9,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2020-03-01 22:18+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/kld/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/kld/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../KLD.rst:5
@@ -496,18 +495,13 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:157
-#, fuzzy
-#| msgid ""
-#| "Return target tapped creature to its owner's hand. Scry 1. (Look at the "
-#| "top card of your library. You may put that card on the bottom of your "
-#| "library.)"
 msgid ""
 "Destroy target creature with power 3 or greater. Scry 1. (Look at the top "
 "card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Przywróć wskazanego przekręconego stwora do ręki właściciela. Wróż 1. "
-"(Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie "
-"twojej biblioteki.)"
+"Zniszcz wskazanego stwora o sile 3 lub większej. Wróż 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie twojej "
+"biblioteki.)"
 
 #: ../../KLD.rst:160
 msgid ""
@@ -995,14 +989,8 @@ msgstr ""
 "znaczniki energii)."
 
 #: ../../KLD.rst:319
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay |energy|: Target player puts the top three cards of their "
-#| "library into their graveyard."
 msgid "|tap|, Pay |energy|: Target player mills three cards."
-msgstr ""
-"|tap|, zapłać |energy|: Wskazany gracz umieszcza trzy wierzchnie karty "
-"swojej biblioteki w swoim cmentarzu."
+msgstr "|tap|, zapłać |energy|: Wskazany gracz mieli trzy karty."
 
 #: ../../KLD.rst:324
 msgid ""
@@ -1165,19 +1153,14 @@ msgid "Flash"
 msgstr "Błysk"
 
 #: ../../KLD.rst:369
-#, fuzzy
-#| msgid ""
-#| "When Torrential Gearhulk enters the battlefield, you may cast target "
-#| "instant card from your graveyard without paying its mana cost. If that "
-#| "card would be put into your graveyard this turn, exile it instead."
 msgid ""
 "When Torrential Gearhulk enters the battlefield, you may cast target instant "
 "card from your graveyard without paying its mana cost. If that spell would "
 "be put into your graveyard this turn, exile it instead."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz rzucić wskazaną kartę sztuczki "
-"z twojego cmentarza bez płacenia jej kosztu many. Jeśli owa karta miałby "
-"zostać umieszczona w cmentarzu w tej turze, wygnaj ją."
+"z twojego cmentarza bez płacenia jej kosztu many. Jeśli ów czar miałby "
+"zostać umieszczony w cmentarzu w tej turze, wygnaj go."
 
 #: ../../KLD.rst:374
 msgid ""
@@ -1279,17 +1262,10 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:405
-#, fuzzy
-#| msgid ""
-#| "As long as you control an artifact, Dhund Operative gets +1/+0 and has "
-#| "deathtouch. (Any amount of damage it deals to a creature is enough to "
-#| "destroy it.)"
 msgid ""
 "As long as you control an artifact, Dhund Operative gets +1/+0 and has "
 "deathtouch."
-msgstr ""
-"O ile władasz artefaktem, ten stwór dostaje +1/+0 i ma dotyk śmierci. (Stwór "
-"otrzymujący od niego jakiekolwiek obrażenia zostaje zniszczony.)"
+msgstr "O ile władasz artefaktem, ten stwór dostaje +1/+0 i ma dotyk śmierci."
 
 #: ../../KLD.rst:410
 msgid ""
@@ -1921,13 +1897,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:607
-#, fuzzy
-#| msgid ""
-#| "When Combustible Gearhulk enters the battlefield, target opponent may "
-#| "have you draw three cards. If the player doesn't, put the top three cards "
-#| "of your library into your graveyard, then Combustible Gearhulk deals "
-#| "damage to that player equal to the total converted mana cost of those "
-#| "cards."
 msgid ""
 "When Combustible Gearhulk enters the battlefield, target opponent may have "
 "you draw three cards. If the player doesn't, you mill three cards, then "
@@ -1935,9 +1904,9 @@ msgid ""
 "converted mana cost of those cards."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik może sprawić, że "
-"dobierzesz trzy karty. Jeśli ów gracz tak nie zrobi, umieść trzy wierzchnie "
-"karty twojej biblioteki w twoim cmentarzu, następnie ten stwór zadaje owemu "
-"graczowi tyle obrażeń, ile wynosi suma skróconych kosztów many owych kart."
+"dobierzesz trzy karty. Jeśli ów gracz tak nie zrobi, zmiel trzy karty, "
+"następnie ten stwór zadaje owemu graczowi tyle obrażeń, ile wynosi suma "
+"wartości many owych kart."
 
 #: ../../KLD.rst:612
 msgid ""
@@ -2633,7 +2602,7 @@ msgstr ""
 
 #: ../../KLD.rst:829 ../../KLD.rst:1083 ../../KLD.rst:1417
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../KLD.rst:836
 msgid ""
@@ -3091,21 +3060,15 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:981
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast your first spell each turn, reveal the top card of your "
-#| "library. If it's a nonland card with converted mana cost less than that "
-#| "spell's, you may cast it without paying its mana cost. If you don't cast "
-#| "the revealed card, put it into your hand."
 msgid ""
 "Whenever you cast your first spell each turn, reveal the top card of your "
 "library. You may cast it without paying its mana cost if it's a spell with "
 "lesser converted mana cost. If you don't cast it, put it into your hand."
 msgstr ""
 "Ilekroć rzucisz swój pierwszy czar w danej turze, ujawnij wierzchnią kartę "
-"twojej biblioteki. Jeśli jest to nie-lądowa karta o mniejszym skróconym "
-"koszcie many niż ów czar, możesz rzucić ją bez płacenia jej kosztu many. "
-"Jeśli nie rzucisz ujawnionej karty, umieść ją w twojej ręce."
+"twojej biblioteki. Możesz ją rzucić bez płacenia jej kosztu many jeśli jest "
+"czarem o mniejszym skrócie many. Jeśli jej nie rzucisz, umieść ją w twojej "
+"ręce."
 
 #: ../../KLD.rst:986
 msgid ""
@@ -3272,21 +3235,15 @@ msgstr ""
 "przyjmij |energy| (znacznik energii)."
 
 #: ../../KLD.rst:1031
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |"
-#| "energy|: Look at the top six cards of your library. You may cast a card "
-#| "from among them without paying its mana cost. Put the rest on the bottom "
-#| "of your library in a random order."
 msgid ""
 "|tap|, Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|: "
 "Look at the top six cards of your library. You may cast a spell from among "
 "them without paying its mana cost. Put the rest on the bottom of your "
 "library in a random order."
 msgstr ""
-"|tap|, zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |"
-"energy|: Spójrz na sześć wierzchnich kart twojej biblioteki. Możesz rzucić "
-"kartę spośród nich bez płacenia jej kosztu many. Umieść pozostałe losowo na "
+"|tap|, zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ "
+"|energy|: Spójrz na sześć wierzchnich kart twojej biblioteki. Możesz rzucić "
+"czar spośród nich bez płacenia jego kosztu many. Umieść pozostałe losowo na "
 "spodzie twojej biblioteki."
 
 #: ../../KLD.rst:1038
@@ -3912,7 +3869,7 @@ msgstr ""
 
 #: ../../KLD.rst:1229
 msgid "|tap|: Mill two cards."
-msgstr ""
+msgstr "|tap|: Zmiel dwie karty."
 
 #: ../../KLD.rst:1231
 msgid ""
@@ -4253,18 +4210,12 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1353
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|, Sacrifice Sequestered Stash: Put the top five cards of "
-#| "your library into your graveyard. Then you may put an artifact card from "
-#| "your graveyard on top of your library."
 msgid ""
 "|mana_4|, |tap|, Sacrifice Sequestered Stash: Mill five cards. Then you may "
 "put an artifact card from your graveyard on top of your library."
 msgstr ""
-"|mana_4|, |tap|, poświęć ten ląd: Umieść pięć wierzchnich kart twojej "
-"biblioteki w twoim cmentarzu. Następnie możesz umieścić kartę artefaktu z "
-"twojego cmentarza na wierzchu twojej biblioteki."
+"|mana_4|, |tap|, poświęć ten ląd: Zmiel pięć kart. Następnie możesz umieścić "
+"kartę artefaktu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../KLD.rst:1360
 msgid ""

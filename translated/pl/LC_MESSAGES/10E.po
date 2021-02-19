@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:05+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -1461,12 +1461,6 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:547
-#, fuzzy
-#| msgid ""
-#| "End the turn. (Exile all spells and abilities on the stack, including "
-#| "this card. The player whose turn it is discards down to their maximum "
-#| "hand size. Damage wears off, and \"this turn\" and \"until end of turn\" "
-#| "effects end.)"
 msgid ""
 "End the turn. (Exile all spells and abilities from the stack, including this "
 "card. The player whose turn it is discards down to their maximum hand size. "
@@ -1496,14 +1490,8 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:555
-#, fuzzy
-#| msgid ""
-#| "Target player puts the top half of their library, rounded down, into "
-#| "their graveyard."
 msgid "Target player mills half their library, rounded down."
-msgstr ""
-"Wskazany gracz umieszcza wierzchnią połowę swojej biblioteki, zaokrąglając w "
-"dół, w swoim cmentarzu."
+msgstr "Wskazany gracz mieli połowę swojej biblioteki, zaokrąglając w dół."
 
 #: ../../10E.rst:560
 msgid ""
@@ -3183,7 +3171,7 @@ msgstr ""
 
 #: ../../10E.rst:1177 ../../10E.rst:1229 ../../10E.rst:1387
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../10E.rst:1182
 msgid ""
@@ -3571,6 +3559,8 @@ msgid ""
 "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 "
 "counter on Quirion Dryad."
 msgstr ""
+"Ilekroć rzucisz biały, niebieski, czarny lub czerwony czar, umieść znacznik +"
+"1/+1 na tym stworze."
 
 #: ../../10E.rst:1320
 msgid ""
@@ -3978,10 +3968,8 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:1461
-#, fuzzy
-#| msgid "You may play land cards from your graveyard."
 msgid "You may play lands from your graveyard."
-msgstr "Możesz zagrywać karty lądów z twojego cmentarza."
+msgstr "Możesz zagrywać lądy z twojego cmentarza."
 
 #: ../../10E.rst:1466
 msgid ""
@@ -4138,7 +4126,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../10E.rst:1522
 msgid ""
@@ -4182,10 +4170,8 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:1531
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "|mana_2|, |tap|: Target player mills two cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../10E.rst:1538
 msgid ""

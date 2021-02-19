@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/3ed/pl/>\n"
 "Language: pl\n"
@@ -2688,7 +2688,7 @@ msgstr ""
 
 #: ../../3ED.rst:993
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../3ED.rst:996
 msgid ""
@@ -3519,10 +3519,8 @@ msgid ""
 msgstr ""
 
 #: ../../3ED.rst:1303
-#, fuzzy
-#| msgid "|mana_4|, |tap|: Draw a card."
 msgid "|mana_2|, |tap|: Target player mills two cards."
-msgstr "|mana_4|, |tap|: Dobierz kartę."
+msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../3ED.rst:1310
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:05+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
 "Language: pl\n"
@@ -908,10 +908,8 @@ msgid ""
 msgstr ""
 
 #: ../../USG.rst:323
-#, fuzzy
-#| msgid "Enchant land"
 msgid "Enchant permanent"
-msgstr "Zaurocz ląd"
+msgstr "Zaurocz permanent"
 
 #: ../../USG.rst:325
 msgid "You control enchanted permanent."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 09:14+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m15/pl/>\n"
 "Language: pl\n"
@@ -1258,11 +1258,6 @@ msgid ""
 msgstr ""
 
 #: ../../M15.rst:363
-#, fuzzy
-#| msgid ""
-#| "You may have Mercurial Pretender enter the battlefield as a copy of any "
-#| "creature you control, except it has \"|mana_2|\\ |mana_u|\\ |mana_u|: "
-#| "Return this creature to its owner's hand.\""
 msgid ""
 "You may have Mercurial Pretender enter the battlefield as a copy of a "
 "creature you control, except it has \"|mana_2|\\ |mana_u|\\ |mana_u|: Return "
@@ -1874,14 +1869,8 @@ msgstr ""
 
 # 00ef83f6d4a445abad83e37a57d5fbbf
 #: ../../M15.rst:559
-#, fuzzy
-#| msgid ""
-#| "When Necromancer's Assistant enters the battlefield, put the top three "
-#| "cards of your library into your graveyard."
 msgid "When Necromancer's Assistant enters the battlefield, mill three cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel trzy karty."
 
 #: ../../M15.rst:564
 msgid ""
@@ -3236,7 +3225,7 @@ msgstr ""
 # 8fc0e3ea62fc483a9e97c7eec1d9a62f
 #: ../../M15.rst:969
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 # fe9260b4fa8845b09db439d2fb01b55f
 #: ../../M15.rst:971
@@ -3795,16 +3784,12 @@ msgid "|tap|: Put a charge counter on Grindclock."
 msgstr "|tap|: Umieść znacznik ładowania na tym artefakcie."
 
 #: ../../M15.rst:1141
-#, fuzzy
-#| msgid ""
-#| "|tap|: Target player puts the top X cards of their library into their "
-#| "graveyard, where X is the number of charge counters on Grindclock."
 msgid ""
 "|tap|: Target player mills X cards, where X is the number of charge counters "
 "on Grindclock."
 msgstr ""
-"|tap|: Wskazany gracz umieszcza X wierzchnich kart swojej biblioteki w swoim "
-"cmentarzu, gdzie X jest liczbą znaczników ładowania na tym artefakcie."
+"|tap|: Wskazany gracz mieli X kart, gdzie X jest liczbą znaczników ładowania "
+"na tym artefakcie."
 
 #: ../../M15.rst:1150
 msgid ""
@@ -3853,7 +3838,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../M15.rst:1164
 msgid ""

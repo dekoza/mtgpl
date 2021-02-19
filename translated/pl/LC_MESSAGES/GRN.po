@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-15 19:22+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/grn/pl/>\n"
 "Language: pl\n"
@@ -468,7 +468,7 @@ msgstr ""
 
 #: ../../GRN.rst:163
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../GRN.rst:167
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
@@ -507,11 +507,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:181
-#, fuzzy
-#| msgid ""
-#| "When Citywatch Sphinx dies, surveil 2. (Look at the top two cards of your "
-#| "library, then put any number of them into your graveyard and the rest on "
-#| "the top of your library in any order.)"
 msgid ""
 "When Citywatch Sphinx dies, surveil 2. (Look at the top two cards of your "
 "library, then put any number of them into your graveyard and the rest on top "
@@ -567,11 +562,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:195
-#, fuzzy
-#| msgid ""
-#| "When Dimir Informant enters the battlefield, surveil 2. (Look at the top "
-#| "two cards of your library, then put any number of them into your "
-#| "graveyard and the rest on the top of your library in any order.)"
 msgid ""
 "When Dimir Informant enters the battlefield, surveil 2. (Look at the top two "
 "cards of your library, then put any number of them into your graveyard and "
@@ -626,10 +616,8 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:211
-#, fuzzy
-#| msgid "Whenever you cast a creature spell, draw a card."
 msgid "Whenever you cast a blue spell, target player mills two cards."
-msgstr "Ilekroć rzucisz czar stwora, dobierz kartę."
+msgstr "Ilekroć rzucisz niebieski czar, wskazany gracz mieli dwie karty."
 
 #: ../../GRN.rst:218
 msgid ""
@@ -700,13 +688,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:237
-#, fuzzy
-#| msgid ""
-#| "Surveil 2, then choose an instant or sorcery card in your graveyard. You "
-#| "may cast that card this turn. If that card would be put into your "
-#| "graveyard this turn, exile it instead. (To surveil 2, look at the top two "
-#| "cards of your library, then put any number of them into your graveyard "
-#| "and the rest on top of your library in any order.)"
 msgid ""
 "Surveil 2, then choose an instant or sorcery card in your graveyard. You may "
 "cast it this turn. If that spell would be put into your graveyard this turn, "
@@ -715,11 +696,11 @@ msgid ""
 "library in any order.)"
 msgstr ""
 "Szpieguj 2, następnie wybierz kartę sztuczki lub obrzędu w twoim cmentarzu. "
-"Możesz rzucić ową kartę w tej turze. Jeśli owa karta miałaby zostać "
-"umieszczona w twoim cmentarzu w tej turze, zamiast tego wygnaj ją. (Aby "
-"szpiegować 2, spójrz na dwie wierzchnie karty twojej biblioteki, następnie "
-"umieść dowolną ich liczbę w twoim cmentarzu, a pozostałe na wierzchu twojej "
-"biblioteki w dowolnej kolejności.)"
+"Możesz rzucić ją w tej turze. Jeśli ów czar miałby zostać umieszczony w "
+"twoim cmentarzu w tej turze, zamiast tego wygnaj go. (Aby szpiegować 2, "
+"spójrz na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolną "
+"ich liczbę w twoim cmentarzu, a pozostałe na wierzchu twojej biblioteki w "
+"dowolnej kolejności.)"
 
 #: ../../GRN.rst:242
 msgid ""
@@ -785,16 +766,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:263
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|, |tap|: You may cast an instant or sorcery card from "
-#| "your hand without paying its mana cost."
 msgid ""
 "|mana_2|\\ |mana_u|, |tap|: You may cast an instant or sorcery spell from "
 "your hand without paying its mana cost."
 msgstr ""
-"|mana_2|\\ |mana_u|, |tap|: Możesz rzucić kartę sztuczki lub obrzędu z "
-"twojej ręki bez płacenia jej kosztu many."
+"|mana_2|\\ |mana_u|, |tap|: Możesz rzucić czar sztuczki lub obrzędu z twojej "
+"ręki bez płacenia jego kosztu many."
 
 #: ../../GRN.rst:268
 msgid ""
@@ -930,11 +907,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:317
-#, fuzzy
-#| msgid ""
-#| "When Watcher in the Mist enters the battlefield, surveil 2. (Look at the "
-#| "top two cards of your library, then put any number of them into your "
-#| "graveyard and the rest on the top of your library in any order.)"
 msgid ""
 "When Watcher in the Mist enters the battlefield, surveil 2. (Look at the top "
 "two cards of your library, then put any number of them into your graveyard "
@@ -1083,11 +1055,6 @@ msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
 #: ../../GRN.rst:371
-#, fuzzy
-#| msgid ""
-#| "Pay 2 life: Surveil 2. (Look at the top two cards of your library, then "
-#| "put any number of them into your graveyard and the rest on the top of "
-#| "your library in any order.)"
 msgid ""
 "Pay 2 life: Surveil 2. (Look at the top two cards of your library, then put "
 "any number of them into your graveyard and the rest on top of your library "
@@ -1213,12 +1180,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:411
-#, fuzzy
-#| msgid ""
-#| "Undergrowth — When Moodmark Painter enters the battlefield, target "
-#| "creature gains menace and gets +X/+0 until end of turn, where X is the "
-#| "number of creature cards in your graveyard. (It can't blocked except by "
-#| "two or more creatures.)"
 msgid ""
 "Undergrowth — When Moodmark Painter enters the battlefield, target creature "
 "gains menace and gets +X/+0 until end of turn, where X is the number of "
@@ -1389,18 +1350,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:463
-#, fuzzy
-#| msgid ""
-#| "Vicious Rumors deals 1 damage to each opponent. Each opponent discards a "
-#| "card, then puts the top card of their library into their graveyard. You "
-#| "gain 1 life."
 msgid ""
 "Vicious Rumors deals 1 damage to each opponent. Each opponent discards a "
 "card, then mills a card. You gain 1 life."
 msgstr ""
 "Ten czar zadaje każdemu przeciwnikowi po 1 obrażeniu. Każdy przeciwnik "
-"odrzuca kartę, następnie umieszcza wierzchnią kartę swojej biblioteki w "
-"swoim cmentarzu. Zyskaj 1 życie."
+"odrzuca kartę, następnie mieli kartę. Zyskaj 1 życie."
 
 #: ../../GRN.rst:468
 msgid ""
@@ -1550,16 +1505,12 @@ msgstr ""
 "Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../GRN.rst:517
-#, fuzzy
-#| msgid "You may play the top card of your library."
 msgid "You may play lands and cast spells from the top of your library."
-msgstr "Możesz zagrywać wierzchnią kartę twojej biblioteki."
+msgstr "Możesz zagrywać lądy i rzucać czaru z wierzchu twojej biblioteki."
 
 #: ../../GRN.rst:519
-#, fuzzy
-#| msgid "You can't play cards from your hand."
 msgid "You can't play lands or cast spells from your hand."
-msgstr "Nie możesz zagrywać kart z twojej ręki."
+msgstr "Nie możesz zagrywać lądów ani rzucać czarów z twojej ręki."
 
 #: ../../GRN.rst:521
 msgid "|mana_3|\\ |mana_r|: Destroy Experimental Frenzy."
@@ -1833,12 +1784,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:621
-#, fuzzy
-#| msgid "Target creature gets +3/+0 and gains first strike until end of turn."
 msgid ""
 "Target creature gets +3/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
+msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../GRN.rst:628
 msgid ""
@@ -2204,10 +2155,8 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:751
-#, fuzzy
-#| msgid "Enchanted creature can't attack or block."
 msgid "Defender (This creature can't attack.)"
-msgstr "Zauroczony stwór nie może atakować ani blokować."
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../GRN.rst:753
 msgid "|mana_2|, |tap|, Sacrifice a creature with defender: Draw a card."
@@ -2708,18 +2657,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:931
-#, fuzzy
-#| msgid ""
-#| "When Glowspore Shaman enters the battlefield, put the top three cards of "
-#| "your library into your graveyard. You may put a land card from your "
-#| "graveyard on top of your library."
 msgid ""
 "When Glowspore Shaman enters the battlefield, mill three cards. You may put "
 "a land card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu. Możesz umieścić kartę lądu z twojego cmentarza "
-"na wierzchu twojej biblioteki."
+"Kiedy ten stwór wejdzie na pole walki, zmiel trzy karty. Możesz umieścić "
+"kartę lądu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../GRN.rst:936
 msgid ""
@@ -2887,10 +2830,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:985
-#, fuzzy
-#| msgid ""
-#| "When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at "
-#| "the top card of your library. You may put that card into your graveyard.)"
 msgid ""
 "When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the "
 "top card of your library. You may put it into your graveyard.)"
@@ -2991,12 +2930,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1015
-#, fuzzy
-#| msgid ""
-#| "Exile all cards from all opponents' graveyards. You may cast those cards "
-#| "this turn, and you may spend mana as though it were mana of any type to "
-#| "cast those spells. At the beginning of the next end step, if any of those "
-#| "cards remain exiled, return them to their owners' graveyards."
 msgid ""
 "Exile all cards from all opponents' graveyards. You may cast spells from "
 "among those cards this turn, and you may spend mana as though it were mana "
@@ -3004,9 +2937,10 @@ msgid ""
 "any of those cards remain exiled, return them to their owners' graveyards."
 msgstr ""
 "Wygnaj wszystkie karty z cmentarzy wszystkich przeciwników. Możesz rzucać "
-"owe karty w tej turze wydając manę tak, jakby była maną dowolnego koloru. Na "
-"początku najbliższego kroku końcowego, jeśli jakiekolwiek z owych kart "
-"pozostają wygnane, przywróć je do cmentarzy właścicieli."
+"czary spośród owych kart, a do ich rzucenia możesz wydawać manę tak, jakby "
+"była maną dowolnego koloru. Na początku najbliższego kroku końcowego, jeśli "
+"którekolwiek z owych kart pozostają wygnane, przywróć je do cmentarzy ich "
+"właścicieli."
 
 #: ../../GRN.rst:1017
 msgid "Exile Mnemonic Betrayal."
@@ -3920,7 +3854,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../GRN.rst:1320
 msgid ""

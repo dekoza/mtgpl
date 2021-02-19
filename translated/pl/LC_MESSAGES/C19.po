@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 22:59+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -1483,16 +1483,12 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:483
-#, fuzzy
-#| msgid ""
-#| "Raid — When Wingmate Roc enters the battlefield, if you attacked with a "
-#| "creature this turn, create a 3/4 white Bird creature token with flying."
 msgid ""
 "Raid — When Wingmate Roc enters the battlefield, if you attacked this turn, "
 "create a 3/4 white Bird creature token with flying."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, stwórz żeton białego stwora Ptak 3/4 z lataniem."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, stwórz żeton białego stwora Ptak 3/4 z lataniem."
 
 #: ../../C19.rst:485
 msgid ""
@@ -2241,22 +2237,16 @@ msgstr ""
 "wskazanego przeciwnika."
 
 #: ../../C19.rst:711
-#, fuzzy
-#| msgid "You may play land cards exiled with Hedonist's Trove."
 msgid "You may play lands from among cards exiled with Hedonist's Trove."
-msgstr "Możesz zagrywać karty lądów wygnanych tym urokiem."
+msgstr "Możesz zagrywać lądy spośród kart wygnanych tym urokiem."
 
 #: ../../C19.rst:713
-#, fuzzy
-#| msgid ""
-#| "You may cast nonland cards exiled with Hedonist's Trove. You can't cast "
-#| "more than one spell this way each turn."
 msgid ""
 "You may cast spells from among cards exiled with Hedonist's Trove. You can't "
 "cast more than one spell this way each turn."
 msgstr ""
-"Możesz rzucać nie-lądowe karty wygnane tym urokiem. Nie możesz rzucić więcej "
-"niż jednego czaru w ten sposób."
+"Możesz rzucać czary spośród kart wygnanych tym urokiem. Nie możesz rzucić w "
+"ten sposób więcej niż jednego czaru na turę."
 
 #: ../../C19.rst:718
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-14 11:38+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ktk/pl/>\n"
 "Language: pl\n"
@@ -185,17 +185,14 @@ msgstr ""
 
 # 390ae7e14aea49e69115d8c58d71b24a
 #: ../../KTK.rst:57
-#, fuzzy
-#| msgid ""
-#| "Put a +1/+1 counter on target creature you control. It gains protection "
-#| "from the color of your choice until end of turn."
 msgid ""
 "Put a +1/+1 counter on target creature you control. It gains protection from "
 "the color of your choice until end of turn. (It can't be blocked, targeted, "
 "dealt damage, enchanted, or equipped by anything of that color.)"
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Zyskuje on "
-"do końca tury ochronę przed wybranym przez ciebie kolorem."
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Do końca "
+"tury zyskuje on ochronę przed dowolnym kolorem. (Nic w owym kolorze nie może "
+"blokować, wskazać, zadać obrażeń, zauroczyć ani wyposażyć owego stwora.)"
 
 #: ../../KTK.rst:62
 msgid ""
@@ -349,16 +346,12 @@ msgstr ""
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:91
-#, fuzzy
-#| msgid ""
-#| "Raid — When Mardu Hordechief enters the battlefield, if you attacked with "
-#| "a creature this turn, create a 1/1 white Warrior creature token."
 msgid ""
 "Raid — When Mardu Hordechief enters the battlefield, if you attacked this "
 "turn, create a 1/1 white Warrior creature token."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, stwórz żeton białego stwora Wojownik 1/1."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, stwórz żeton białego stwora Wojownik 1/1."
 
 #: ../../KTK.rst:98
 msgid ""
@@ -514,18 +507,13 @@ msgstr ""
 
 # d7013b8130a9431bbc108d983ca711ca
 #: ../../KTK.rst:139
-#, fuzzy
-#| msgid ""
-#| "Raid — When Timely Hordemate enters the battlefield, if you attacked with "
-#| "a creature this turn, return target creature card with converted mana "
-#| "cost 2 or less from your graveyard to the battlefield."
 msgid ""
 "Raid — When Timely Hordemate enters the battlefield, if you attacked this "
 "turn, return target creature card with converted mana cost 2 or less from "
 "your graveyard to the battlefield."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub "
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub "
 "mniejszym z twojego cmentarza na pole walki."
 
 #: ../../KTK.rst:144
@@ -581,16 +569,12 @@ msgstr ""
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:161
-#, fuzzy
-#| msgid ""
-#| "Raid — When Wingmate Roc enters the battlefield, if you attacked with a "
-#| "creature this turn, create a 3/4 white Bird creature token with flying."
 msgid ""
 "Raid — When Wingmate Roc enters the battlefield, if you attacked this turn, "
 "create a 3/4 white Bird creature token with flying."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, stwórz żeton białego stwora Ptak 3/4 z lataniem."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, stwórz żeton białego stwora Ptak 3/4 z lataniem."
 
 # 7b9bd28ac8f040179077c1c14b068a1d
 #: ../../KTK.rst:163
@@ -1163,16 +1147,12 @@ msgstr ""
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:349
-#, fuzzy
-#| msgid ""
-#| "Raid — When Bellowing Saddlebrute enters the battlefield, you lose 4 life "
-#| "unless you attacked with a creature this turn."
 msgid ""
 "Raid — When Bellowing Saddlebrute enters the battlefield, you lose 4 life "
 "unless you attacked this turn."
 msgstr ""
 "Najazd — Kiedy ten stwór wejdzie na pole walki, strać 4 życia, chyba że "
-"atakowałeś stworem w tej turze."
+"atakowałeś w tej turze."
 
 #: ../../KTK.rst:354
 msgid ""
@@ -1204,18 +1184,12 @@ msgstr "Ten stwór nie może blokować."
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:359
-#, fuzzy
-#| msgid ""
-#| "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your "
-#| "graveyard to the battlefield. Activate this ability only if you attacked "
-#| "with a creature this turn."
 msgid ""
 "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your graveyard "
 "to the battlefield. Activate this ability only if you attacked this turn."
 msgstr ""
 "Najazd — |mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole "
-"walki. Możesz aktywować tę zdolność tylko jeśli atakowałeś stworem w tej "
-"turze."
+"walki. Możesz aktywować tę zdolność tylko jeśli atakowałeś w tej turze."
 
 #: ../../KTK.rst:366
 msgid ""
@@ -1405,16 +1379,12 @@ msgstr "Ten stwór wchodzi przekręcony na pole walki."
 
 # 25e04fa041fe4508ac3060ad494fb0bc
 #: ../../KTK.rst:421
-#, fuzzy
-#| msgid ""
-#| "Raid — When Mardu Skullhunter enters the battlefield, if you attacked "
-#| "with a creature this turn, target opponent discards a card."
 msgid ""
 "Raid — When Mardu Skullhunter enters the battlefield, if you attacked this "
 "turn, target opponent discards a card."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, wskazany przeciwnik odrzuca kartę."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, wskazany przeciwnik odrzuca kartę."
 
 #: ../../KTK.rst:428
 msgid ""
@@ -1512,14 +1482,8 @@ msgstr ""
 
 # a7304bd39f4c41c0b8f3b3ecf7bd8258
 #: ../../KTK.rst:457
-#, fuzzy
-#| msgid ""
-#| "Target opponent discards two cards. Put the top two cards of your library "
-#| "into your graveyard."
 msgid "Target opponent discards two cards. Mill two cards."
-msgstr ""
-"Wskazany przeciwnik odrzuca dwie karty. Umieść dwie wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+msgstr "Wskazany przeciwnik odrzuca dwie karty. Zmiel dwie karty."
 
 #: ../../KTK.rst:462
 msgid ""
@@ -1750,17 +1714,12 @@ msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 # 53652075e14f4dbd86edb92ef08ca145
 #: ../../KTK.rst:531
-#, fuzzy
-#| msgid ""
-#| "Raid — If you attacked with a creature this turn, instead Arrow Storm "
-#| "deals 5 damage to that permanent or player and the damage can't be "
-#| "prevented."
 msgid ""
 "Raid — If you attacked this turn, instead Arrow Storm deals 5 damage to that "
 "permanent or player and the damage can't be prevented."
 msgstr ""
-"Najazd — Jeśli atakowałeś stworem w tej turze, zamiast tego ten czar zadaje "
-"owemu celowi 5 obrażeń i owe obrażenia nie mogą być zażegnane."
+"Najazd — Jeśli atakowałeś w tej turze, zamiast tego ten czar zadaje owemu "
+"celowi 5 obrażeń i owe obrażenia nie mogą być zażegnane."
 
 #: ../../KTK.rst:542
 msgid ""
@@ -1894,16 +1853,12 @@ msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 # 0aea2d83aa6f482c8e8383ab40fae2fb
 #: ../../KTK.rst:573
-#, fuzzy
-#| msgid ""
-#| "Ferocious — Crater's Claws deals X plus 2 damage to that permanent or "
-#| "player instead if you control a creature with power 4 or greater."
 msgid ""
 "Ferocious — Crater's Claws deals X plus 2 damage instead if you control a "
 "creature with power 4 or greater."
 msgstr ""
 "Zaciekłość — Jeśli władasz stworem o sile 4 lub większej, zamiast tego ten "
-"czar zadaje owemu celowi X plus 2 obrażeń."
+"czar zadaje 2 plus X obrażeń."
 
 #: ../../KTK.rst:582
 msgid ""
@@ -2015,19 +1970,14 @@ msgstr ""
 
 # ee2f6621c6ac491baa7cf8c2098e4fc7
 #: ../../KTK.rst:609
-#, fuzzy
-#| msgid ""
-#| "Raid — If you attacked with a creature this turn, when you cast your next "
-#| "instant or sorcery spell this turn, copy that spell an additional time. "
-#| "You may choose new targets for the copy."
 msgid ""
 "Raid — If you attacked this turn, when you cast your next instant or sorcery "
 "spell this turn, copy that spell an additional time. You may choose new "
 "targets for the copy."
 msgstr ""
-"Najazd — Jeśli atakowałeś stworem w tej turze, kiedy rzucisz następny czar "
-"sztuczki lub obrzędu w tej turze, skopiuj ów czar dodatkowy raz. Możesz "
-"wskazać nowe cele dla kopii."
+"Najazd — Jeśli atakowałeś w tej turze, kiedy rzucisz następny czar sztuczki "
+"lub obrzędu w tej turze, skopiuj ów czar dodatkowy raz. Możesz wskazać nowe "
+"cele dla kopii."
 
 #: ../../KTK.rst:616
 msgid ""
@@ -2090,17 +2040,12 @@ msgstr ""
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:627
-#, fuzzy
-#| msgid ""
-#| "Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked "
-#| "with a creature this turn, Mardu Heart-Piercer deals 2 damage to any "
-#| "target."
 msgid ""
 "Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked this "
 "turn, Mardu Heart-Piercer deals 2 damage to any target."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, niniejszy stwór zadaje wskazanemu celowi 2 obrażenia."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, niniejszy stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../KTK.rst:632
 msgid ""
@@ -2111,16 +2056,12 @@ msgstr ""
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:631
-#, fuzzy
-#| msgid ""
-#| "Raid — When Mardu Warshrieker enters the battlefield, if you attacked "
-#| "with a creature this turn, add |mana_r|\\ |mana_w|\\ |mana_b|."
 msgid ""
 "Raid — When Mardu Warshrieker enters the battlefield, if you attacked this "
 "turn, add |mana_r|\\ |mana_w|\\ |mana_b|."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, weź |mana_r|\\ |mana_w|\\ |mana_b|."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, weź |mana_r|\\ |mana_w|\\ |mana_b|."
 
 #: ../../KTK.rst:638
 msgid ""
@@ -2250,16 +2191,12 @@ msgstr ""
 
 # 45c02c8561884f6694e209b759aeb442
 #: ../../KTK.rst:677
-#, fuzzy
-#| msgid ""
-#| "Raid — War-Name Aspirant enters the battlefield with a +1/+1 counter on "
-#| "it if you attacked with a creature this turn."
 msgid ""
 "Raid — War-Name Aspirant enters the battlefield with a +1/+1 counter on it "
 "if you attacked this turn."
 msgstr ""
-"Najazd — Jeśli atakowałeś stworem w tej turze, ten stwór wchodzi na pole "
-"walki mając znacznik +1/+1."
+"Najazd — Jeśli atakowałeś w tej turze, ten stwór wchodzi na pole walki mając "
+"znacznik +1/+1."
 
 # c096293892274abc8faf3f7031f46175
 #: ../../KTK.rst:679
@@ -2618,7 +2555,7 @@ msgstr ""
 # 60d5d1c9cd464902b820169bddf917f9
 #: ../../KTK.rst:789
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../KTK.rst:798
 msgid ""
@@ -3442,19 +3379,14 @@ msgstr "Pierwszy cios, antyklątwa"
 
 # 3499a84fdbc54083b9dfa9cda10d5e9e
 #: ../../KTK.rst:1023
-#, fuzzy
-#| msgid ""
-#| "Whenever Narset, Enlightened Master attacks, exile the top four cards of "
-#| "your library. Until end of turn, you may cast noncreature cards exiled "
-#| "with Narset this turn without paying their mana costs."
 msgid ""
 "Whenever Narset, Enlightened Master attacks, exile the top four cards of "
 "your library. Until end of turn, you may cast noncreature spells from among "
 "those cards without paying their mana costs."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, wygnaj cztery wierzchnie karty twojej "
-"biblioteki. Do końca tury możesz rzucić karty nie będące stworami wygnane w "
-"ten sposób w tej turze bez płacenia ich kosztów many."
+"biblioteki. Do końca tury możesz spośród nich rzucić nie-stworowe czary bez "
+"płacenia ich kosztów many."
 
 #: ../../KTK.rst:1030
 msgid ""
@@ -3618,16 +3550,11 @@ msgstr ""
 
 # 67e60c12f0c24a1e85cfe116587faf83
 #: ../../KTK.rst:1073
-#, fuzzy
-#| msgid ""
-#| "Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, put the "
-#| "top three cards of your library into your graveyard."
 msgid ""
 "Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, mill three "
 "cards."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, umieść trzy "
-"wierzchnie karty twojej biblioteki w twoim cmentarzu."
+"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, zmiel trzy karty."
 
 #: ../../KTK.rst:1075
 msgid ""
@@ -3851,19 +3778,14 @@ msgid ""
 msgstr ""
 
 #: ../../KTK.rst:1151
-#, fuzzy
-#| msgid ""
-#| "Target opponent exiles the top X cards of their library. You may cast any "
-#| "number of nonland cards with converted mana cost X or less from among "
-#| "them without paying their mana costs."
 msgid ""
 "Target opponent exiles the top X cards of their library. You may cast any "
 "number of spells with converted mana cost X or less from among them without "
 "paying their mana costs."
 msgstr ""
 "Wskazany przeciwnik wygania X wierzchnich kart swojej biblioteki. Możesz "
-"rzucić spośród nich dowolne nie-lądowe karty o skróconych kosztach many X "
-"lub mniejszych bez płacenia ich kosztów many."
+"spośród nich rzucić dowolną liczbę czarów mających wartość many X lub mniej "
+"bez płacenia ich kosztów many."
 
 #: ../../KTK.rst:1156
 msgid ""
@@ -3958,16 +3880,12 @@ msgstr ""
 
 # 07dd029e94ee4591825b9b0213c10990
 #: ../../KTK.rst:1183
-#, fuzzy
-#| msgid ""
-#| "Whenever another permanent enters the battlefield under your control, "
-#| "each opponent puts the top card of their library into their graveyard."
 msgid ""
 "Whenever another permanent enters the battlefield under your control, each "
 "opponent mills a card."
 msgstr ""
-"Ilekroć na pole walki wejdzie pod twoim władaniem inny permanent, każdy "
-"przeciwnik umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu."
+"Ilekroć inny permanent wejdzie na pole walki pod twoim władaniem, każdy "
+"przeciwnik mieli kartę."
 
 #: ../../KTK.rst:1190
 msgid ""
@@ -4075,7 +3993,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../KTK.rst:1220
 msgid ""

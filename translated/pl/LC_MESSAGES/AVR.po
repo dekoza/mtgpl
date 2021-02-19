@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 00:42+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -768,15 +768,10 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:257
-#, fuzzy
-#| msgid ""
-#| "Target player puts the top X cards of their library into their graveyard, "
-#| "where X is the number of lands you control."
 msgid ""
 "Target player mills X cards, where X is the number of lands you control."
 msgstr ""
-"Wskazany gracz umieszcza X wierzchnich kart swojej biblioteki w swoim "
-"cmentarzu, gdzie X jest liczbą lądów pod twoim władaniem."
+"Wskazany gracz mieli X kart, gdzie X jest liczbą lądów pod twoim władaniem."
 
 #: ../../AVR.rst:264
 msgid ""
@@ -3096,16 +3091,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:1087
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd.)"
 
 #: ../../AVR.rst:1096
 msgid ""
@@ -3278,7 +3269,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../AVR.rst:1152
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5dn/pl/>\n"
 "Language: pl\n"
@@ -1411,7 +1411,7 @@ msgstr ""
 
 #: ../../5DN.rst:513
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../5DN.rst:518
 msgid ""
@@ -1587,10 +1587,8 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:575
-#, fuzzy
-#| msgid "You may play land cards from your graveyard."
 msgid "You may play lands from your graveyard."
-msgstr "Możesz zagrywać karty lądów z twojego cmentarza."
+msgstr "Możesz zagrywać lądy z twojego cmentarza."
 
 #: ../../5DN.rst:582
 msgid ""
@@ -1859,7 +1857,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../5DN.rst:674
 msgid ""

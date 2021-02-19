@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -1648,7 +1648,7 @@ msgstr ""
 
 #: ../../SOM.rst:601
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../SOM.rst:603
 msgid ""
@@ -1879,7 +1879,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../SOM.rst:698
 msgid ""
@@ -2309,16 +2309,12 @@ msgid "|tap|: Put a charge counter on Grindclock."
 msgstr "|tap|: Umieść znacznik ładowania na tym artefakcie."
 
 #: ../../SOM.rst:847
-#, fuzzy
-#| msgid ""
-#| "|tap|: Target player puts the top X cards of their library into their "
-#| "graveyard, where X is the number of charge counters on Grindclock."
 msgid ""
 "|tap|: Target player mills X cards, where X is the number of charge counters "
 "on Grindclock."
 msgstr ""
-"|tap|: Wskazany gracz umieszcza X wierzchnich kart swojej biblioteki w swoim "
-"cmentarzu, gdzie X jest liczbą znaczników ładowania na tym artefakcie."
+"|tap|: Wskazany gracz mieli X kart, gdzie X jest liczbą znaczników ładowania "
+"na tym artefakcie."
 
 #: ../../SOM.rst:856
 msgid ""
@@ -2830,8 +2826,8 @@ msgid ""
 "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted "
 "mana cost equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
-"|tap|, poświęć ten artefakt: Zniszcz każdy nie-lądowy permanent, o skróconym "
-"koszcie many many równym liczbie znaczników ładowania na tym artefakcie."
+"|tap|, poświęć ten artefakt: Zniszcz każdy nie-lądowy permanent, o skrócie "
+"many równym liczbie znaczników ładowania na tym artefakcie."
 
 #: ../../SOM.rst:1028
 msgid ""
@@ -2993,7 +2989,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../SOM.rst:1092
 msgid ""

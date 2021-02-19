@@ -1,23 +1,22 @@
 # Dominik <Kozaczko>, 2013.
 # Dominik <dominik@kozaczko.info>, 2013.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2020-03-01 22:18+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gtc/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gtc/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "X-POOTLE-MTIME: 1385404109.643633\n"
 
 #: ../../GTC.rst:5
@@ -601,12 +600,6 @@ msgstr ""
 
 # 46da0f0c1dc546229c6dcbfe6f04e3e7
 #: ../../GTC.rst:175
-#, fuzzy
-#| msgid ""
-#| "When Diluvian Primordial enters the battlefield, for each opponent, you "
-#| "may cast up to one target instant or sorcery card from that player's "
-#| "graveyard without paying its mana cost. If a card cast this way would be "
-#| "put into a graveyard this turn, exile it instead."
 msgid ""
 "When Diluvian Primordial enters the battlefield, for each opponent, you may "
 "cast up to one target instant or sorcery card from that player's graveyard "
@@ -615,8 +608,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, za każdego przeciwnika możesz rzucić "
 "co najwyżej jedną kartę sztuczki lub obrzędu z cmentarza owego gracza bez "
-"płacenia jej kosztu many. Jeśli karta rzucona w ten sposób miałby zostać "
-"umieszczona w cmentarzu w tej turze, zamiast tego wygnaj ją."
+"płacenia jej kosztu many. Jeśli czar rzucony w ten sposób miłby zostać "
+"umieszczony w cmentarzu w tej turze, zamiast tego wygnaj go."
 
 #: ../../GTC.rst:180
 msgid ""
@@ -790,14 +783,8 @@ msgstr ""
 
 # fb71120068ba42e1ba9211bf1f008c45
 #: ../../GTC.rst:225
-#, fuzzy
-#| msgid ""
-#| "When Mindeye Drake dies, target player puts the top five cards of their "
-#| "library into their graveyard."
 msgid "When Mindeye Drake dies, target player mills five cards."
-msgstr ""
-"Kiedy ten stwór umrze, wskazany gracz umieszcza pięć wierzchnich kart swojej "
-"biblioteki w swoim cmentarzu."
+msgstr "Kiedy ten stwór umrze, wskazany gracz mieli pięć kart."
 
 #: ../../GTC.rst:230
 msgid ""
@@ -843,16 +830,12 @@ msgstr ""
 
 # 740c54c69ad740c28a80b541ca105b86
 #: ../../GTC.rst:239
-#, fuzzy
-#| msgid ""
-#| "Whenever another white creature enters the battlefield under your "
-#| "control, tap target creature an opponent controls."
 msgid ""
 "Whenever another blue creature enters the battlefield under your control, "
 "target player mills two cards."
 msgstr ""
-"Ilekroć inny biały stwór wejdzie na pole walki pod twoim władaniem, przekręć "
-"wskazanego stwora pod władaniem przeciwnika."
+"Ilekroć inny niebieski stwór wejdzie na pole walki pod twoim władaniem, "
+"wskazany gracz mieli dwie karty."
 
 #: ../../GTC.rst:246
 msgid ""
@@ -1148,18 +1131,12 @@ msgstr ""
 
 # db1b57634aef4337bf1f7734b5b51ab8
 #: ../../GTC.rst:355
-#, fuzzy
-#| msgid ""
-#| "Destroy target nonartifact creature. Its controller puts a number of "
-#| "cards equal to that creature's power from the top of their library into "
-#| "their graveyard."
 msgid ""
 "Destroy target nonartifact creature. Its controller mills cards equal to "
 "that creature's power."
 msgstr ""
-"Zniszcz wskazanego nieartefaktowego stwora. Jego władca umieszcza w swoim "
-"cmentarzu tyle kart z wierzchu swojej biblioteki, ile wynosiła siła owego "
-"stwora."
+"Zniszcz wskazanego nieartefaktowego stwora. Jego władca mieli tyle kart, ile "
+"wynosiła siła owego stwora."
 
 #: ../../GTC.rst:358
 msgid ""
@@ -1938,7 +1915,7 @@ msgstr ""
 # 1bb65728578945f79d9421b4e201a3ee
 #: ../../GTC.rst:593
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../GTC.rst:602
 msgid ""
@@ -2670,14 +2647,8 @@ msgstr ""
 
 # 2b3501486a3844e5beebb352dfa77e53
 #: ../../GTC.rst:823
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|\\ |mana_b|: Target player puts the top two cards of "
-#| "their library into their graveyard."
 msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Target player mills two cards."
-msgstr ""
-"|mana_2|\\ |mana_u|\\ |mana_b|: Wskazany gracz umieszcza dwie wierzchnie "
-"karty swojej biblioteki w swoim cmentarzu."
+msgstr "|mana_2|\\ |mana_u|\\ |mana_b|: Wskazany gracz mieli dwie karty."
 
 #: ../../GTC.rst:830
 msgid ""
@@ -3171,10 +3142,8 @@ msgstr ""
 
 # 6c02b75188d94bf5846dd92d875af22c
 #: ../../GTC.rst:985
-#, fuzzy
-#| msgid "Target player discards a card."
 msgid "Target player mills three cards."
-msgstr "Wskazany gracz odrzuca kartę."
+msgstr "Wskazany gracz mieli trzy karty."
 
 #: ../../GTC.rst:994
 msgid ""
@@ -3222,14 +3191,8 @@ msgstr ""
 
 # f25260b4425d42a18a577f33f11bb332
 #: ../../GTC.rst:1003
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. Its controller puts the top two cards of their "
-#| "library into their graveyard."
 msgid "Counter target spell. Its controller mills two cards."
-msgstr ""
-"Skontruj wskazany czar. Jego władca umieszcza dwie wierzchnie karty swojej "
-"biblioteki w swoim cmentarzu."
+msgstr "Skontruj wskazany czar. Jego władca mieli dwie karty."
 
 #: ../../GTC.rst:1008
 msgid ""
@@ -3711,18 +3674,12 @@ msgstr ""
 
 # e6ede86487c14c81a7663ac2a40bc14a
 #: ../../GTC.rst:1151
-#, fuzzy
-#| msgid ""
-#| "Target player puts the top four cards of their library into their "
-#| "graveyard. You draw a card for each creature card put into that graveyard "
-#| "this way."
 msgid ""
 "Target player mills four cards. You draw a card for each creature card put "
 "into their graveyard this way."
 msgstr ""
-"Wskazany gracz umieszcza cztery wierzchnie karty swojej biblioteki w swoim "
-"cmentarzu. Dobierz kartę za każdą kartę stwora umieszczoną w cmentarzu w ten "
-"sposób."
+"Wskazany gracz mieli cztery karty. Dobierz kartę za każdą kartę stwora "
+"zmieloną w ten sposób."
 
 #: ../../GTC.rst:1156
 msgid ""
@@ -3789,12 +3746,12 @@ msgstr ""
 
 # b23e07fdbb3c4b56812ada90949eb618
 #: ../../GTC.rst:1177
-#, fuzzy
-#| msgid "You may play cards exiled with Nightveil Specter."
 msgid ""
 "You may play lands and cast spells from among cards exiled with Nightveil "
 "Specter."
-msgstr "Możesz zagrywać karty wygnane z użyciem tego stwora."
+msgstr ""
+"Możesz zagrywać lądy i rzucać czary spośród kart wygnanych z użyciem tego "
+"stwora."
 
 #: ../../GTC.rst:1182
 msgid ""
@@ -4100,7 +4057,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../GTC.rst:1268
 msgid ""

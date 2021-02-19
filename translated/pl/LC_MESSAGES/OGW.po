@@ -3,23 +3,22 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019, 2020.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2020-03-02 21:27+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/ogw/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ogw/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../OGW.rst:5
@@ -925,11 +924,6 @@ msgstr ""
 "wspólnika.)"
 
 #: ../../OGW.rst:317
-#, fuzzy
-#| msgid ""
-#| "Return all nonland permanents to their owners' hands. If Crush of "
-#| "Tentacles's surge cost was paid, create an 8/8 blue Octopus creature "
-#| "token."
 msgid ""
 "Return all nonland permanents to their owners' hands. If this spell's surge "
 "cost was paid, create an 8/8 blue Octopus creature token."
@@ -1413,6 +1407,9 @@ msgid ""
 "your hand. (To mill a card, put the top card of your library into your "
 "graveyard.)"
 msgstr ""
+"Zmiel trzy karty, następnie możesz przywrócić kartę stwora z twojego "
+"cmentarza do twojej ręki. (Aby zmielić kartę, umieść wierzchnią kartę twojej "
+"biblioteki w twoim cmentarzu.)"
 
 #: ../../OGW.rst:510
 msgid ""
@@ -1841,12 +1838,6 @@ msgid ""
 msgstr ""
 
 #: ../../OGW.rst:663
-#, fuzzy
-#| msgid ""
-#| "When Goblin Dark-Dwellers enters the battlefield, you may cast target "
-#| "instant or sorcery card with converted mana cost 3 or less from your "
-#| "graveyard without paying its mana cost. If that card would be put into "
-#| "your graveyard this turn, exile it instead."
 msgid ""
 "When Goblin Dark-Dwellers enters the battlefield, you may cast target "
 "instant or sorcery card with converted mana cost 3 or less from your "
@@ -1855,8 +1846,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, możesz rzucić wskazaną kartę sztuczki "
 "lub obrzędu o skróconym koszcie many 3 lub mniejszym z twojego cmentarza bez "
-"płacenia kosztu many. Jeśli owa karta miałby zostać umieszczona w cmentarzu "
-"w tej turze, zamiast tego wygnaj ją."
+"płacenia kosztu many. Jeśli ów czar miałby zostać umieszczony w cmentarzu w "
+"tej turze, zamiast tego wygnaj go."
 
 #: ../../OGW.rst:670
 msgid ""
@@ -2287,7 +2278,7 @@ msgstr ""
 
 #: ../../OGW.rst:817
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../OGW.rst:819
 msgid ""
@@ -2698,7 +2689,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../OGW.rst:962
 msgid ""

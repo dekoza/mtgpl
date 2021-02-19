@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-16 19:34+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -258,9 +258,9 @@ msgstr "Zaurocz stwora"
 #: ../../M21.rst:93
 msgid "Enchanted creature gets +2/+2, has first strike, and is a Knight in addition to its other types. (It deals combat damage before creatures without first strike.)"
 msgstr ""
-"Zauroczony stwór dostaje +2/+2, ma pierwszy cios i jest Rycerzem oprócz "
-"swoich innych typów. (Zadaje obrażenia bojowe przed stworami bez pierwszego "
-"ciosu.)"
+"Zauroczony stwór dostaje +2/+2, ma pierwszy cios i jest dodatkowo Rycerzem "
+"oprócz swoich pozostałych typów. (zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../M21.rst:102
 msgid ":mtgtip:`Faith's Fetters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e742d49-e6f0-4016-ba4c-11878fad89cb.jpg?1594734908|https://scryfall.com/card/m21/17/faiths-fetters?utm_source=api>`"
@@ -459,8 +459,8 @@ msgstr "Umieszczając ten urok na polu walki, wybierz nazwę karty."
 #: ../../M21.rst:183
 msgid "You have protection from the chosen card name. (You can't be targeted, dealt damage, or enchanted by anything with that name.)"
 msgstr ""
-"Masz ochronę przed wybraną nazwą. (Nic o owej nazwie nie może cię wskazać, "
-"zadać obrażeń ani zauroczyć.)"
+"Masz ochronę przed wybraną nazwą. (Nic o tej nazwie nie może cię wskazać, "
+"zadać ci obrażeń, ani cię zauroczyć.)"
 
 #: ../../M21.rst:188
 msgid ":mtgtip:`Sanctum of Tranquil Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34a5478a-1a2c-4117-b543-da083ed2b562.jpg?1594735175|https://scryfall.com/card/m21/33/sanctum-of-tranquil-light?utm_source=api>`"
@@ -1429,7 +1429,7 @@ msgstr ""
 msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../M21.rst:636
 msgid ":mtgtip:`Masked Blackguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d61b4b71-3cbb-4422-8ce7-657ca3bb6a82.jpg?1594736285|https://scryfall.com/card/m21/113/masked-blackguard?utm_source=api>`"
@@ -2006,8 +2006,8 @@ msgstr ""
 #: ../../M21.rst:899
 msgid "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 i pierwszy cios. (Zadaje "
-"obrażenia bojowe przed stworami bez pierwszego ciosu.)"
+"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../M21.rst:908
 msgid ":mtgtip:`Terror of the Peaks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/432ecd5f-966f-4403-a973-51e175a524a0.jpg?1594736810|https://scryfall.com/card/m21/164/terror-of-the-peaks?utm_source=api>`"
@@ -2075,7 +2075,7 @@ msgstr ""
 #: ../../M21.rst:1127
 #: ../../M21.rst:1133
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../M21.rst:931
 msgid "When Turret Ogre enters the battlefield, if you control another creature with power 4 or greater, Turret Ogre deals 2 damage to each opponent."

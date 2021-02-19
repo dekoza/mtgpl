@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 09:14+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/aer/pl/>\n"
 "Language: pl\n"
@@ -425,16 +425,12 @@ msgid "Create three 1/1 colorless Servo artifact creature tokens."
 msgstr "Stwórz trzy żetony bezkolorowego artefaktowego stwora Serwo 1/1."
 
 #: ../../AER.rst:139 ../../AER.rst:419
-#, fuzzy
-#| msgid ""
-#| "You may cast a card with converted mana cost 3 or less from your hand "
-#| "without paying its mana cost."
 msgid ""
 "You may cast a spell with converted mana cost 3 or less from your hand "
 "without paying its mana cost."
 msgstr ""
-"Możesz rzucić kartę o skróconym koszcie many 3 lub mniejszym z twojej ręki "
-"bez płacenia jej kosztu many."
+"Możesz rzucić czar o wartości many 3 lub mniejszej z twojej ręki bez "
+"płacenia jego kosztu many."
 
 #: ../../AER.rst:144
 msgid ""
@@ -531,16 +527,12 @@ msgstr ""
 "Przywróć co najwyżej trzy wskazane artefakty i/lub stwory do rąk właścicieli."
 
 #: ../../AER.rst:171
-#, fuzzy
-#| msgid ""
-#| "You may cast a card with converted mana cost 4 or less from your hand "
-#| "without paying its mana cost."
 msgid ""
 "You may cast a spell with converted mana cost 4 or less from your hand "
 "without paying its mana cost."
 msgstr ""
-"Możesz rzucić kartę o skróconym koszcie many 4 lub mniejszym z twojej ręki "
-"bez płacenia jej kosztu many."
+"Możesz rzucić czar o skróconym koszcie many 4 lub mniejszym z twojej ręki "
+"bez płacenia jego kosztu many."
 
 #: ../../AER.rst:178
 msgid ""
@@ -1506,16 +1498,12 @@ msgstr ""
 "Zyskuje on pośpiech do końca tury."
 
 #: ../../AER.rst:497
-#, fuzzy
-#| msgid ""
-#| "You may cast a card with converted mana cost 2 or less from your hand "
-#| "without paying its mana cost."
 msgid ""
 "You may cast a spell with converted mana cost 2 or less from your hand "
 "without paying its mana cost."
 msgstr ""
-"Możesz rzucić kartę o skróconym koszcie many 2 lub mniejszym z twojej ręki "
-"bez płacenia jej kosztu many."
+"Możesz rzucić czar o skróconym koszcie many 2 lub mniejszym z twojej ręki "
+"bez płacenia jego kosztu many."
 
 #: ../../AER.rst:500
 msgid ""
@@ -2078,16 +2066,12 @@ msgstr ""
 "władaniem."
 
 #: ../../AER.rst:673
-#, fuzzy
-#| msgid ""
-#| "You may cast a card with converted mana cost 5 or less from your hand "
-#| "without paying its mana cost."
 msgid ""
 "You may cast a spell with converted mana cost 5 or less from your hand "
 "without paying its mana cost."
 msgstr ""
-"Możesz rzucić kartę o skróconym koszcie many 5 lub mniejszym z twojej ręki "
-"bez płacenia jej kosztu many."
+"Możesz rzucić czar o skróconym koszcie many 5 lub mniejszym z twojej ręki "
+"bez płacenia jego kosztu many."
 
 #: ../../AER.rst:680
 msgid ""
@@ -2117,7 +2101,7 @@ msgstr ""
 
 #: ../../AER.rst:683
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../AER.rst:685
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 00:42+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
 "Language: pl\n"
@@ -704,10 +704,8 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:241
-#, fuzzy
-#| msgid "Target player draws two cards."
 msgid "Target player mills three cards."
-msgstr "Wskazany gracz dobiera dwie karty."
+msgstr "Wskazany gracz mieli trzy karty."
 
 #: ../../EMA.rst:243
 msgid ""
@@ -757,10 +755,8 @@ msgid "Play with the top card of your library revealed."
 msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../EMA.rst:259
-#, fuzzy
-#| msgid "You may play the top card of your library."
 msgid "You may play lands and cast spells from the top of your library."
-msgstr "Możesz zagrywać wierzchnią kartę twojej biblioteki."
+msgstr "Możesz zagrywać lądy i rzucać czaru z wierzchu twojej biblioteki."
 
 #: ../../EMA.rst:266
 msgid ""
@@ -1029,14 +1025,8 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:359
-#, fuzzy
-#| msgid ""
-#| "When Screeching Skaab enters the battlefield, put the top two cards of "
-#| "your library into your graveyard."
 msgid "When Screeching Skaab enters the battlefield, mill two cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty."
 
 #: ../../EMA.rst:366
 msgid ""
@@ -2734,10 +2724,8 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:977
-#, fuzzy
-#| msgid "Vigilance"
 msgid "Vigilance, reach"
-msgstr "Czujność"
+msgstr "Czujność, zasięg"
 
 #: ../../EMA.rst:984
 msgid ""
@@ -2790,7 +2778,7 @@ msgstr ""
 
 #: ../../EMA.rst:997
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../EMA.rst:999
 msgid ""

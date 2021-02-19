@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/7ed/pl/>\n"
 "Language: pl\n"
@@ -807,10 +807,8 @@ msgid ""
 msgstr ""
 
 #: ../../7ED.rst:295
-#, fuzzy
-#| msgid "Enchant land"
 msgid "Enchant permanent"
-msgstr "Zaurocz ląd"
+msgstr "Zaurocz permanent"
 
 #: ../../7ED.rst:297
 msgid "You control enchanted permanent."
@@ -2770,7 +2768,7 @@ msgstr ""
 
 #: ../../7ED.rst:1041 ../../7ED.rst:1101
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../7ED.rst:1046
 msgid ""
@@ -3658,10 +3656,8 @@ msgid ""
 msgstr ""
 
 #: ../../7ED.rst:1353
-#, fuzzy
-#| msgid "Target player draws two cards."
 msgid "|mana_2|, |tap|: Target player mills two cards."
-msgstr "Wskazany gracz dobiera dwie karty."
+msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../7ED.rst:1360
 msgid ""

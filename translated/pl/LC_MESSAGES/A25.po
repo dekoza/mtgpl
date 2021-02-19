@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 00:42+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -214,7 +214,7 @@ msgstr ""
 
 #: ../../A25.rst:65
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../A25.rst:72
 msgid ""
@@ -2567,11 +2567,8 @@ msgid "Play with the top card of your library revealed."
 msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../A25.rst:853
-#, fuzzy
-#| msgid "You may play the top card of your library if it's a land card."
 msgid "You may play lands from the top of your library."
-msgstr ""
-"Możesz zagrać wierzchnią kartę twojej biblioteki jeśli jest to karta lądu."
+msgstr "Możesz zagrywać lądy z wierzchu twojej biblioteki."
 
 #: ../../A25.rst:855
 msgid ""
@@ -2652,7 +2649,7 @@ msgstr ""
 
 #: ../../A25.rst:877
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../A25.rst:879
 msgid ""
@@ -3249,14 +3246,8 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:1079
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on "
-#| "Pyre Hound."
 msgid "Whenever you draw a card, put a +1/+1 counter on Lorescale Coatl."
-msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik +1/+1 na tym "
-"stworze."
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../A25.rst:1086
 msgid ""

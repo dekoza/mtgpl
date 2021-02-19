@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 22:59+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/atq/pl/>\n"
 "Language: pl\n"
@@ -839,10 +839,8 @@ msgid ""
 msgstr ""
 
 #: ../../ATQ.rst:271
-#, fuzzy
-#| msgid "|mana_2|, |tap|: Draw a card, then discard a card."
 msgid "|mana_2|, |tap|: Target player mills two cards."
-msgstr "|mana_2|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../ATQ.rst:278
 msgid ""

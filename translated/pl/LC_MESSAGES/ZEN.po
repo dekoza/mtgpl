@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 22:58+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -2293,8 +2293,8 @@ msgid ""
 "Target creature gets +3/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 i pierwszy cios. (Zadaje "
-"obrażenia bojowe przed stworami bez pierwszego ciosu.)"
+"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../ZEN.rst:802
 msgid ""
@@ -2686,11 +2686,8 @@ msgid "Play with the top card of your library revealed."
 msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../ZEN.rst:925
-#, fuzzy
-#| msgid "You may look at the top card of your library any time."
 msgid "You may play lands from the top of your library."
-msgstr ""
-"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
+msgstr "Możesz zagrywać lądy z wierzchu twojej biblioteki."
 
 #: ../../ZEN.rst:934
 msgid ""
@@ -2709,7 +2706,7 @@ msgstr ""
 
 #: ../../ZEN.rst:931
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../ZEN.rst:933
 msgid ""
@@ -3039,7 +3036,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../ZEN.rst:1050
 msgid ""

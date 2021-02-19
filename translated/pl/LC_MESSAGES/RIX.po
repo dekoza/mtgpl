@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 09:14+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rix/pl/>\n"
 "Language: pl\n"
@@ -494,16 +494,12 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:163
-#, fuzzy
-#| msgid ""
-#| "Raid — If you attacked with a creature this turn, you may pay |mana_u| "
-#| "rather than pay this spell's mana cost."
 msgid ""
 "Raid — If you attacked this turn, you may pay |mana_u| rather than pay this "
 "spell's mana cost."
 msgstr ""
-"Najazd — Jeśli atakowałeś stworem w tej turze, możesz zapłacić |mana_u| "
-"zamiast płacić koszt many tego czaru."
+"Najazd — Jeśli atakowałeś w tej turze, możesz zapłacić |mana_u| zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../RIX.rst:165
 msgid "Counter target spell."
@@ -560,10 +556,8 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:181
-#, fuzzy
-#| msgid "Crashing Tide has flash as long as you control a Merfolk."
 msgid "This spell has flash as long as you control a Merfolk."
-msgstr "Ta karta ma błysk o ile władasz Wodnikiem."
+msgstr "Ten czar ma błysk o ile władasz Wodnikiem."
 
 #: ../../RIX.rst:183
 msgid "Return target creature to its owner's hand."
@@ -604,17 +598,12 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:197
-#, fuzzy
-#| msgid ""
-#| "Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked "
-#| "with a creature this turn, you may return target creature to its owner's "
-#| "hand."
 msgid ""
 "Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked this "
 "turn, you may return target creature to its owner's hand."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, możesz przywrócić wskazanego stwora do ręki właściciela."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, możesz przywrócić wskazanego stwora do ręki właściciela."
 
 #: ../../RIX.rst:204
 msgid ""
@@ -741,8 +730,6 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:239
-#, fuzzy
-#| msgid "Nezahal, Primal Tide can't be countered."
 msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
@@ -755,10 +742,6 @@ msgid "Whenever an opponent casts a noncreature spell, draw a card."
 msgstr "Ilekroć przeciwnik rzuci nie-stworowy czar, dobierz kartę."
 
 #: ../../RIX.rst:245
-#, fuzzy
-#| msgid ""
-#| "Discard three cards: Exile Nezahal. Return it to the battlefield tapped "
-#| "under its owner's control at the beginning of the next end step."
 msgid ""
 "Discard three cards: Exile Nezahal, Primal Tide. Return it to the "
 "battlefield tapped under its owner's control at the beginning of the next "
@@ -895,15 +878,11 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:289
-#, fuzzy
-#| msgid ""
-#| "Raid — This spell costs |mana_1| less to cast if you attacked with a "
-#| "creature this turn."
 msgid ""
 "Raid — This spell costs |mana_1| less to cast if you attacked this turn."
 msgstr ""
-"Najazd — Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli atakowałeś "
-"stworem w tej turze."
+"Najazd — Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli atakowałeś w "
+"tej turze."
 
 #: ../../RIX.rst:298
 msgid ""
@@ -1064,12 +1043,6 @@ msgid "Enchant creature an opponent controls"
 msgstr "Zaurocz stwora pod władaniem przeciwnika"
 
 #: ../../RIX.rst:357
-#, fuzzy
-#| msgid ""
-#| "When enchanted creature dies, exile cards equal to its power from the top "
-#| "of its owner's library. You may cast nonland cards from among them for as "
-#| "long as they remain exiled, and you may spend mana as though it were mana "
-#| "of any type to cast those spells."
 msgid ""
 "When enchanted creature dies, exile cards equal to its power from the top of "
 "its owner's library. You may cast spells from among those cards for as long "
@@ -1077,9 +1050,9 @@ msgid ""
 "type to cast those spells."
 msgstr ""
 "Kiedy zauroczony stwór umrze, wygnaj tyle kart z wierzchu biblioteki jego "
-"właściciela, ile wynosiła jego siła. Spośród nich możesz rzucać karty nie "
-"będące lądami tak długo, jak są one wygnane wydając manę tak, jakby była "
-"maną dowolnego koloru."
+"właściciela, ile wynosiła jego siła. Możesz rzucać czary spośród owych kart "
+"przez cały czas ich wygnania, a do ich rzucenia możesz wydawać manę tak, "
+"jakby była maną dowolnego koloru."
 
 #: ../../RIX.rst:362
 msgid ""
@@ -1244,11 +1217,8 @@ msgstr ""
 "przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:415
-#, fuzzy
-#| msgid ""
-#| "Choose a card you own from outside the game and put it into your hand."
 msgid "Put a card you own from outside the game into your hand."
-msgstr "Wybierz własną kartę spoza gry i umieść ją w twojej ręce."
+msgstr "Umieść własną kartę spoza gry w twojej ręce."
 
 #: ../../RIX.rst:424
 msgid ""
@@ -1589,13 +1559,6 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../RIX.rst:537
-#, fuzzy
-#| msgid ""
-#| "When Dire Fleet Daredevil enters the battlefield, exile target instant or "
-#| "sorcery card from an opponent's graveyard. You may cast that card this "
-#| "turn, and you may spend mana as though it were mana of any type to cast "
-#| "that spell. If that card would be put into a graveyard this turn, exile "
-#| "it instead."
 msgid ""
 "When Dire Fleet Daredevil enters the battlefield, exile target instant or "
 "sorcery card from an opponent's graveyard. You may cast it this turn, and "
@@ -1603,9 +1566,9 @@ msgid ""
 "that spell would be put into a graveyard this turn, exile it instead."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę sztuczki lub "
-"obrzędu z cmentarza przeciwnika. Możesz rzucić ową kartę w tej turze wydając "
-"manę tak, jakby była maną dowolnego koloru. Jeśli owa karta miałby trafić do "
-"cmentarza w tej turze, zamiast tego wygnaj ją."
+"obrzędu z cmentarza przeciwnika. Możesz rzucić ją w tej turze wydając manę "
+"tak, jakby była maną dowolnego koloru. Jeśli ów czar miałby trafić do "
+"cmentarza w tej turze, zamiast tego wygnaj go."
 
 #: ../../RIX.rst:542
 msgid ""
@@ -1615,19 +1578,14 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:541
-#, fuzzy
-#| msgid ""
-#| "Whenever Etali, Primal Storm attacks, exile the top card of each player's "
-#| "library, then you may cast any number of nonland cards exiled this way "
-#| "without paying their mana costs."
 msgid ""
 "Whenever Etali, Primal Storm attacks, exile the top card of each player's "
 "library, then you may cast any number of spells from among those cards "
 "without paying their mana costs."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę biblioteki każdego z "
-"graczy, następnie możesz rzucić dowolną liczbę kart wygnanych w ten sposób "
-"bez płacenia ich kosztu many."
+"graczy, następnie możesz rzucić dowolną liczbę czarów spośród kart wygnanych "
+"w ten sposób bez płacenia ich kosztów many."
 
 #: ../../RIX.rst:548
 msgid ""
@@ -1719,6 +1677,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../RIX.rst:572
 msgid ""
@@ -1910,16 +1870,12 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:637
-#, fuzzy
-#| msgid ""
-#| "Raid — Swaggering Corsair enters the battlefield with a +1/+1 counter on "
-#| "it if you attacked with a creature this turn."
 msgid ""
 "Raid — Swaggering Corsair enters the battlefield with a +1/+1 counter on it "
 "if you attacked this turn."
 msgstr ""
 "Najazd — Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1 jeśli "
-"atakowałeś stworem w tej turze."
+"atakowałeś w tej turze."
 
 #: ../../RIX.rst:646
 msgid ""
@@ -2416,26 +2372,16 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:793
-#, fuzzy
-#| msgid ""
-#| "Whenever World Shaper attacks, you may put the top three cards of your "
-#| "library into your graveyard."
 msgid "Whenever World Shaper attacks, you may mill three cards."
-msgstr ""
-"Ilekroć ten stwór zaatakuje, możesz umieścić trzy wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+msgstr "Ilekroć ten stwór zaatakuje, możesz zmielić trzy karty."
 
 #: ../../RIX.rst:795
-#, fuzzy
-#| msgid ""
-#| "When World Shaper dies, put all land cards from your graveyard onto the "
-#| "battlefield tapped."
 msgid ""
 "When World Shaper dies, return all land cards from your graveyard to the "
 "battlefield tapped."
 msgstr ""
-"Kiedy ten stwór umrze, umieść wszystkie karty lądów z twojego cmentarza "
-"przekręcone na polu walki."
+"Kiedy ten stwór umrze, przywróć wszystkie karty lądów z twojego cmentarza "
+"przekręcone na pole walki."
 
 #: ../../RIX.rst:804
 msgid ""
@@ -2832,16 +2778,12 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:923
-#, fuzzy
-#| msgid ""
-#| "Raid — If you attacked with a creature this turn, you may have Protean "
-#| "Raider enter the battlefield as a copy of any creature on the battlefield."
 msgid ""
 "Raid — If you attacked this turn, you may have Protean Raider enter the "
 "battlefield as a copy of any creature on the battlefield."
 msgstr ""
-"Najazd — Jeśli atakowałeś stworem w tej turze, możesz sprawić, że ta karta "
-"wejdzie na pole walki jako kopia innego stwora będącego na polu walki."
+"Najazd — Jeśli atakowałeś w tej turze, możesz sprawić, że ta karta wejdzie "
+"na pole walki jako kopia innego stwora będącego na polu walki."
 
 #: ../../RIX.rst:928
 msgid ""
@@ -3195,7 +3137,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../RIX.rst:1054
 msgid ""

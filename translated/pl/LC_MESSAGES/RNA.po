@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 09:14+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rna/pl/>\n"
 "Language: pl\n"
@@ -712,21 +712,15 @@ msgid ""
 msgstr ""
 
 #: ../../RNA.rst:241
-#, fuzzy
-#| msgid "|mana_u|, |tap|: Draw a card, then discard a card."
 msgid "|mana_1|, |tap|: Target player mills a card."
-msgstr "|mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_1|, |tap|: Wskazany gracz mieli kartę."
 
 #: ../../RNA.rst:243
-#, fuzzy
-#| msgid ""
-#| "Tap four untapped Advisors you control: Target player puts the top twelve "
-#| "cards of their library into their graveyard."
 msgid ""
 "Tap four untapped Advisors you control: Target player mills twelve cards."
 msgstr ""
 "Przekręć czterech odkręconych Doradców pod twoim władaniem: Wskazany gracz "
-"umieszcza dwanaście wierzchnich kart swojej biblioteki w swoim cmentarzu."
+"mieli dwanaście kart."
 
 #: ../../RNA.rst:245
 msgid "A deck can have any number of cards named Persistent Petitioners."
@@ -911,10 +905,8 @@ msgid ""
 msgstr ""
 
 #: ../../RNA.rst:317
-#, fuzzy
-#| msgid "Counter target spell unless its controller pays |mana_2|."
 msgid "Counter target spell. Its controller mills three cards."
-msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_2|."
+msgstr "Skontruj wskazany czar. Jego władca mieli trzy karty."
 
 #: ../../RNA.rst:324
 msgid ""
@@ -943,16 +935,11 @@ msgid ""
 msgstr ""
 
 #: ../../RNA.rst:329
-#, fuzzy
-#| msgid ""
-#| "When Wall of Lost Thoughts enters the battlefield, target player puts the "
-#| "top four cards of their library into their graveyard."
 msgid ""
 "When Wall of Lost Thoughts enters the battlefield, target player mills four "
 "cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz umieszcza cztery "
-"wierzchnie karty swojej biblioteki w swoim cmentarzu."
+"Kiedy ten stwór wejdzie na pole walki, wskazany gracz mieli cztery karty."
 
 #: ../../RNA.rst:336
 msgid ""
@@ -1023,7 +1010,7 @@ msgstr ""
 
 #: ../../RNA.rst:355
 msgid "Target creature gains deathtouch until end of turn."
-msgstr "Wskazany stwór zyskuje dotyk śmierci do końca tury."
+msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../RNA.rst:362
 msgid ""
@@ -1589,16 +1576,12 @@ msgid ""
 msgstr ""
 
 #: ../../RNA.rst:535
-#, fuzzy
-#| msgid ""
-#| "Electrodominance deals X damage to any target. You may cast a card with "
-#| "converted mana cost X or less from your hand without paying its mana cost."
 msgid ""
 "Electrodominance deals X damage to any target. You may cast a spell with "
 "converted mana cost X or less from your hand without paying its mana cost."
 msgstr ""
 "Ten czar zadaje wskazanemu celowi X obrażeń. Możesz rzucić z twojej ręki "
-"kartę o skróconym koszcie many X lub mniejszym bez płacenia jej kosztu many."
+"czar o wartości many X lub mniejszej bez płacenia jego kosztu many."
 
 #: ../../RNA.rst:538
 msgid ""
@@ -2122,7 +2105,7 @@ msgstr ""
 
 #: ../../RNA.rst:699
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../RNA.rst:704
 msgid ""
@@ -2468,18 +2451,12 @@ msgid ""
 msgstr ""
 
 #: ../../RNA.rst:821
-#, fuzzy
-#| msgid ""
-#| "Activated abilities of creatures you control cost |mana_2| less to "
-#| "activate. This effect can't reduce the amount of mana an ability costs to "
-#| "activate to less than one mana."
 msgid ""
 "Activated abilities of creatures you control cost |mana_2| less to activate. "
 "This effect can't reduce the mana in that cost to less than one mana."
 msgstr ""
 "Aktywowanie zdolności stworów pod twoim władaniem kosztuje o |mana_2| mniej. "
-"Ten efekt nie może obniżyć całkowitej many potrzebnej na aktywację zdolności "
-"do mniej niż jednej many."
+"Ten efekt nie może obniżyć kosztu many do mniej niż jednej many."
 
 #: ../../RNA.rst:823
 msgid ""
@@ -3527,16 +3504,12 @@ msgstr ""
 "biblioteki."
 
 #: ../../RNA.rst:1161
-#, fuzzy
-#| msgid ""
-#| "During your turn, if an opponent lost life this turn, you may play cards "
-#| "exiled with Theater of Horrors."
 msgid ""
 "During your turn, if an opponent lost life this turn, you may play lands and "
 "cast spells from among cards exiled with Theater of Horrors."
 msgstr ""
 "W trakcie twojej tury, jeśli przeciwnik stracił życie w tej turze, możesz "
-"zagrywać karty wygnane przy użyciu tego uroku."
+"zagrywać lądy i rzucać czary wygnane przy użyciu tego uroku."
 
 #: ../../RNA.rst:1163
 msgid ""
@@ -4059,16 +4032,12 @@ msgid ""
 msgstr ""
 
 #: ../../RNA.rst:1337
-#, fuzzy
-#| msgid ""
-#| "Equipped creature gets +0/+3 and has \"|mana_2|, |tap|: Target player "
-#| "puts the top three cards of their library into their graveyard.\""
 msgid ""
 "Equipped creature gets +0/+3 and has \"|mana_2|, |tap|: Target player mills "
 "three cards.\""
 msgstr ""
 "Wyposażony stwór dostaje +0/+3 oraz ma \"|mana_2|, |tap|: Wskazany gracz "
-"umieszcza dwie wierzchnie karty swojej biblioteki w swoim cmentarzu.\""
+"mieli trzy karty.\""
 
 #: ../../RNA.rst:1339
 msgid ""
@@ -4076,7 +4045,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../RNA.rst:1346
 msgid ""

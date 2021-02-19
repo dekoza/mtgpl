@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:05+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m12/pl/>\n"
 "Language: pl\n"
@@ -626,6 +626,8 @@ msgid ""
 "Whenever a source deals damage to Belltower Sphinx, that source's controller "
 "mills that many cards."
 msgstr ""
+"Ilekroć jakieś źródło zadaje obrażenia temu stworowi, władca owego źródła "
+"mieli tyle samo kart."
 
 #: ../../M12.rst:232
 msgid ""
@@ -796,16 +798,12 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:291
-#, fuzzy
-#| msgid "|tap|: Draw a card, then discard a card."
 msgid "+1: Draw a card. Target player mills a card."
-msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "+1: Dobierz kartę. Wskazany gracz mieli kartę."
 
 #: ../../M12.rst:293
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "0: Target player mills ten cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "0: Wskazany gracz mieli dziesięć kart."
 
 #: ../../M12.rst:295
 msgid "−7: Any number of target players each draw twenty cards."
@@ -835,6 +833,7 @@ msgstr ""
 #: ../../M12.rst:303
 msgid "Whenever you draw a card, you may have target player mill a card."
 msgstr ""
+"Ilekroć dobierzesz kartę, możesz sprawić, że wskazany gracz zmieli kartę."
 
 #: ../../M12.rst:308
 msgid ""
@@ -903,10 +902,8 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:327
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "|mana_u|, |tap|: Target player mills two cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "|mana_u|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../M12.rst:334
 msgid ""
@@ -2100,8 +2097,8 @@ msgid ""
 "Target creature gets +3/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 i pierwszy cios. (Zadaje "
-"obrażenia bojowe przed stworami bez pierwszego ciosu.)"
+"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../M12.rst:770
 msgid ""
@@ -2137,10 +2134,8 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:777
-#, fuzzy
-#| msgid "Flying, vigilance"
 msgid "Flying, haste"
-msgstr "Latanie, czujność"
+msgstr "Latanie, pośpiech"
 
 #: ../../M12.rst:782
 msgid ""
@@ -2375,18 +2370,13 @@ msgid "Play with the top card of your library revealed."
 msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../M12.rst:873
-#, fuzzy
-#| msgid ""
-#| "You may cast the top card of your library if it's a creature card. (Do "
-#| "this only any time you could cast that creature card. You still pay the "
-#| "spell's costs.)"
 msgid ""
 "You may cast creature spells from the top of your library. (Do this only any "
 "time you could cast that creature spell. You still pay the spell's costs.)"
 msgstr ""
-"Możesz zagrać wierzchnią kartę twojej biblioteki jeśli jest to karta stwora. "
-"(Zrób to tylko w chwili, gdy możesz rzucić ową kartę stwora. Nadal musisz "
-"opłacić koszty.)"
+"Możesz rzucać czary stworów z wierzchu twojej biblioteki. (Możesz to zrobić "
+"tylko wtedy, gdy dozwolone jest rzucenie takiego czaru. Nadal musisz opłacić "
+"jego koszty.)"
 
 #: ../../M12.rst:878
 msgid ""
@@ -2397,7 +2387,7 @@ msgstr ""
 
 #: ../../M12.rst:877
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../M12.rst:882
 msgid ""
@@ -2608,40 +2598,28 @@ msgid "|mana_g|: Choose one. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../M12.rst:963
-#, fuzzy
-#| msgid ""
-#| "Until end of turn, target creature loses all abilities and becomes a blue "
-#| "Frog with base power and toughness 1/1."
 msgid ""
 "Until end of turn, Skinshifter becomes a Rhino with base power and toughness "
 "4/4 and gains trample."
 msgstr ""
-"Do końca tury wskazany stwór traci wszystkie zdolności i staje się niebieską "
-"Żabą o bazowych sile i wytrzymałości 1/1."
+"Do końca tury ten stwór staje się Nosorożcem o bazowych sile i wytrzymałości "
+"4/4 i zyskuje tratowanie."
 
 #: ../../M12.rst:965
-#, fuzzy
-#| msgid ""
-#| "Until end of turn, target creature loses all abilities and becomes a blue "
-#| "Frog with base power and toughness 1/1."
 msgid ""
 "Until end of turn, Skinshifter becomes a Bird with base power and toughness "
 "2/2 and gains flying."
 msgstr ""
-"Do końca tury wskazany stwór traci wszystkie zdolności i staje się niebieską "
-"Żabą o bazowych sile i wytrzymałości 1/1."
+"Do końca tury ten stwór staje się Ptakiem o bazowych sile i wytrzymałości 2/"
+"2 i zyskuje latanie."
 
 #: ../../M12.rst:967
-#, fuzzy
-#| msgid ""
-#| "Until end of turn, target creature loses all abilities and becomes a blue "
-#| "Frog with base power and toughness 1/1."
 msgid ""
 "Until end of turn, Skinshifter becomes a Plant with base power and toughness "
 "0/8."
 msgstr ""
-"Do końca tury wskazany stwór traci wszystkie zdolności i staje się niebieską "
-"Żabą o bazowych sile i wytrzymałości 1/1."
+"Do końca tury ten stwór staje się Rośliną o bazowych sile i wytrzymałości 0/"
+"8."
 
 #: ../../M12.rst:972
 msgid ""
@@ -2814,7 +2792,7 @@ msgstr ""
 
 #: ../../M12.rst:1033
 msgid "Equipped creature gets +3/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0."
 
 #: ../../M12.rst:1035 ../../M12.rst:1041
 msgid ""
@@ -2822,7 +2800,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../M12.rst:1042
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 07:23+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/soi/pl/>\n"
 "Language: pl\n"
@@ -613,10 +613,6 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:191
-#, fuzzy
-#| msgid ""
-#| "Search your library for an Aura or Equipment card, reveal it, and put it "
-#| "into your hand. Then shuffle your library."
 msgid ""
 "Search your library for an Aura or Equipment card, reveal it, put it into "
 "your hand, then shuffle your library."
@@ -921,18 +917,12 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:285
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, put the top card of your library into "
-#| "your graveyard. If it's an instant or sorcery card, transform Aberrant "
-#| "Researcher."
 msgid ""
 "At the beginning of your upkeep, mill a card. If an instant or sorcery card "
 "was milled this way, transform Aberrant Researcher."
 msgstr ""
-"Na początku twojego kroku utrzymania, umieść wierzchnią kartę twojej "
-"biblioteki w twoim cmentarzu. Jeśli to karta sztuczki lub obrzędu, "
-"transformuj tego stwora."
+"Na początku twojego kroku utrzymania, zmiel kartę. Jeśli karta sztuczki lub "
+"obrzędu została zmielona w ten sposób, transformuj tego stwora."
 
 #: ../../SOI.rst:290
 msgid ""
@@ -1175,14 +1165,8 @@ msgstr ""
 "\")"
 
 #: ../../SOI.rst:357
-#, fuzzy
-#| msgid ""
-#| "Whenever you sacrifice a Clue, target player puts the top three cards of "
-#| "their library into their graveyard."
 msgid "Whenever you sacrifice a Clue, target player mills three cards."
-msgstr ""
-"Ilekroć poświęcisz Wskazówkę, wskazany gracz umieszcza trzy wierzchnie karty "
-"swojej biblioteki w swoim cmentarzu."
+msgstr "Ilekroć poświęcisz Wskazówkę, wskazany gracz mieli trzy karty."
 
 #: ../../SOI.rst:364
 msgid ""
@@ -1357,29 +1341,19 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:423
-#, fuzzy
-#| msgid ""
-#| "When Manic Scribe enters the battlefield, each opponent puts the top "
-#| "three cards of their library into their graveyard."
 msgid ""
 "When Manic Scribe enters the battlefield, each opponent mills three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik umieszcza trzy "
-"wierzchnie karty swojej biblioteki w swoim cmentarzu."
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik mieli po trzy karty."
 
 #: ../../SOI.rst:425
-#, fuzzy
-#| msgid ""
-#| "Delirium — At the beginning of each opponent's upkeep, if there are four "
-#| "or more card types among cards in your graveyard, tap target creature "
-#| "that player controls."
 msgid ""
 "Delirium — At the beginning of each opponent's upkeep, if there are four or "
 "more card types among cards in your graveyard, that player mills three cards."
 msgstr ""
 "Delirium — Na początku kroku utrzymania każdego przeciwnika, jeżeli w twoim "
-"cmentarzu są karty należące do co najmniej czterech typów kart, przekręć "
-"wskazanego stwora pod władaniem owego gracza."
+"cmentarzu są karty należące do co najmniej czterech typów kart, ów gracz "
+"mieli trzy karty."
 
 #: ../../SOI.rst:432
 msgid ""
@@ -1766,16 +1740,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:563
-#, fuzzy
-#| msgid ""
-#| "|mana_u|, Sacrifice Vessel of Paramnesia: Target player puts the top "
-#| "three cards of their library into their graveyard. Draw a card."
 msgid ""
 "|mana_u|, Sacrifice Vessel of Paramnesia: Target player mills three cards. "
 "Draw a card."
 msgstr ""
-"|mana_u|, poświęć ten urok: Wskazany gracz umieszcza trzy wierzchnie karty "
-"swojej biblioteki w swoim cmentarzu. Dobierz kartę."
+"|mana_u|, poświęć ten urok: Wskazany gracz mieli trzy karty. Dobierz kartę."
 
 #: ../../SOI.rst:570
 msgid ""
@@ -1995,16 +1964,12 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:625
-#, fuzzy
-#| msgid ""
-#| "When Crow of Dark Tidings enters the battlefield or dies, put the top two "
-#| "cards of your library into your graveyard."
 msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. "
 "(Put the top two cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki lub umrze, umieść dwie wierzchnie "
-"karty twojej biblioteki w twoim cmentarzu."
+"Kiedy ten stwór wejdzie na pole walki lub umrze, zmiel dwie karty. (Umieść "
+"dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../SOI.rst:632
 msgid ""
@@ -2292,16 +2257,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:713
-#, fuzzy
-#| msgid ""
-#| "Put the top X cards of your library into your graveyard. Target player "
-#| "loses 2 life for each creature card put into your graveyard this way."
 msgid ""
 "Mill X cards. Target player loses 2 life for each creature card put into "
 "your graveyard this way."
 msgstr ""
-"Umieść X wierzchnich kart twojej biblioteki w twoim cmentarzy. Wskazany "
-"gracz traci po 2 życia za każdą kartę stwora umieszczoną w twoim cmentarzu w "
+"Zmiel X kart. Wskazany gracz traci po 2 życia za każdą kartę stwora zmieloną "
 "ten sposób."
 
 #: ../../SOI.rst:718
@@ -2360,14 +2320,8 @@ msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
 #: ../../SOI.rst:735
-#, fuzzy
-#| msgid ""
-#| "When Mindwrack Demon enters the battlefield, put the top four cards of "
-#| "your library into your graveyard."
 msgid "When Mindwrack Demon enters the battlefield, mill four cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść cztery wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel cztery karty."
 
 #: ../../SOI.rst:737
 msgid ""
@@ -2551,17 +2505,12 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:799
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, Pay 1 life, Put the top card of your library into your "
-#| "graveyard, Discard a card, Sacrifice Sinister Concoction: Destroy target "
-#| "creature."
 msgid ""
 "|mana_b|, Pay 1 life, Mill a card, Discard a card, Sacrifice Sinister "
 "Concoction: Destroy target creature."
 msgstr ""
-"|mana_b|, zapłać 1 życie, umieść wierzchnią kartę twojej biblioteki w twoim "
-"cmentarzu, odrzuć kartę, poświęć ten urok: Zniszcz wskazanego stwora."
+"|mana_b|, zapłać 1 życie, zmiel kartę, odrzuć kartę, poświęć ten urok: "
+"Zniszcz wskazanego stwora."
 
 #: ../../SOI.rst:804
 msgid ""
@@ -3735,10 +3684,8 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1171
-#, fuzzy
-#| msgid "At the beginning of your upkeep, choose one —"
 msgid "At the beginning of your upkeep, you may mill two cards."
-msgstr "Na początku twojego kroku utrzymania, wybierz jedno —"
+msgstr "Na początku twojego kroku utrzymania, możesz zmielić dwie karty."
 
 #: ../../SOI.rst:1173
 msgid ""
@@ -4530,7 +4477,7 @@ msgstr ""
 
 #: ../../SOI.rst:1411
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../SOI.rst:1413
 msgid "Watcher in the Web can block an additional seven creatures each combat."
@@ -4828,12 +4775,6 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1503
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|: Put a charge counter on Brain in a Jar, then you may "
-#| "cast an instant or sorcery card with converted mana cost equal to the "
-#| "number of charge counters on Brain in a Jar from your hand without paying "
-#| "its mana cost."
 msgid ""
 "|mana_1|, |tap|: Put a charge counter on Brain in a Jar, then you may cast "
 "an instant or sorcery spell with converted mana cost equal to the number of "
@@ -4841,9 +4782,8 @@ msgid ""
 "cost."
 msgstr ""
 "|mana_1|, |tap|: Umieść znacznik ładowania na tym artefakcie, następnie "
-"możesz rzucić z twojej ręki bez płacenia kosztu many kartę sztuczki lub "
-"obrzędu o skróconym koszcie many równym liczbie znaczników ładowania na tym "
-"artefakcie."
+"możesz rzucić z twojej ręki bez płacenia kosztu many czar sztuczki lub "
+"obrzędu o skrócie many równym liczbie znaczników ładowania na tym artefakcie."
 
 #: ../../SOI.rst:1505
 msgid "|mana_3|, |tap|, Remove X charge counters from Brain in a Jar: Scry X."
@@ -4953,7 +4893,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../SOI.rst:1544
 msgid ""
@@ -5044,14 +4984,8 @@ msgid "Equipped creature gets +1/+0."
 msgstr "Wyposażony stwór dostaje +1/+0."
 
 #: ../../SOI.rst:1575
-#, fuzzy
-#| msgid ""
-#| "Whenever equipped creature attacks, you may put the top two cards of your "
-#| "library into your graveyard."
 msgid "Whenever equipped creature attacks, you may mill two cards."
-msgstr ""
-"Ilekroć wyposażony stwór zaatakuje, możesz umieścić dwie wierzchnie karty "
-"twojej biblioteki w twoim cmentarzu."
+msgstr "Ilekroć wyposażony stwór zaatakuje, możesz zmiel dwie karty."
 
 #: ../../SOI.rst:1586
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 00:42+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m20/pl/>\n"
 "Language: pl\n"
@@ -95,7 +95,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../M20.rst:34
 msgid ""
@@ -325,7 +325,7 @@ msgstr ""
 
 #: ../../M20.rst:95
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../M20.rst:104
 msgid ""
@@ -1222,15 +1222,12 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:407
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature enters the battlefield under your control, you "
-#| "gain 1 life."
 msgid ""
 "Whenever another blue creature enters the battlefield under your control, "
 "target player mills two cards."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj 1 życie."
+"Ilekroć inny niebieski stwór wejdzie na pole walki pod twoim władaniem, "
+"wskazany gracz mieli dwie karty."
 
 #: ../../M20.rst:412
 msgid ""
@@ -1390,10 +1387,8 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:471
-#, fuzzy
-#| msgid "Target creature gets -4/-0 until end of turn."
 msgid "Target creature gains deathtouch until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-0."
+msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../M20.rst:480
 msgid ""
@@ -1650,18 +1645,12 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:557
-#, fuzzy
-#| msgid ""
-#| "When Gorging Vulture enters the battlefield, put the top four cards of "
-#| "your library into your graveyard. You gain 1 life for each creature card "
-#| "put into your graveyard this way."
 msgid ""
 "When Gorging Vulture enters the battlefield, mill four cards. You gain 1 "
 "life for each creature card put into your graveyard this way."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść cztery wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu. Zyskaj 1 życie za każdą kartę stwora "
-"umieszczoną w twoim cmentarzu w ten sposób."
+"Kiedy ten stwór wejdzie na pole walki, zmiel cztery karty. Zyskaj 1 życie za "
+"każdą kartę stwora zmieloną w ten sposób."
 
 #: ../../M20.rst:562
 msgid ""
@@ -2072,19 +2061,14 @@ msgstr ""
 "Poświęć je na początku najbliższego kroku końcowego."
 
 #: ../../M20.rst:681
-#, fuzzy
-#| msgid ""
-#| "−2: You may cast target instant or sorcery card with converted mana cost "
-#| "3 or less from your graveyard. If that card would be put into your "
-#| "graveyard this turn, exile it instead."
 msgid ""
 "−2: You may cast target instant or sorcery card with converted mana cost 3 "
 "or less from your graveyard. If that spell would be put into your graveyard "
 "this turn, exile it instead."
 msgstr ""
 "–2: Możesz rzucić wskazaną kartę sztuczki lub obrzędu o skróconym koszcie "
-"many 3 lub mniejszym z twojego cmentarza. Jeśli owa karta miałaby zostać "
-"umieszczona w cmentarzu w tej turze, zamiast tego wygnaj ją."
+"many 3 lub mniejszym z twojego cmentarza. Jeśli ów czar miałby zostać "
+"umieszczony w cmentarzu w tej turze, zamiast tego wygnaj go."
 
 #: ../../M20.rst:692
 msgid ""
@@ -2921,7 +2905,7 @@ msgstr ""
 #: ../../M20.rst:953 ../../M20.rst:975 ../../M20.rst:987 ../../M20.rst:1747
 #: ../../M20.rst:1775
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../M20.rst:955
 msgid ""
@@ -3298,16 +3282,11 @@ msgstr ""
 "wędrowcowi obrażenia równe swojej sile."
 
 #: ../../M20.rst:1069
-#, fuzzy
-#| msgid ""
-#| "−5: You may choose a creature card you own from outside the game, reveal "
-#| "it, and put it into your hand."
 msgid ""
 "−5: You may reveal a creature card you own from outside the game and put it "
 "into your hand."
 msgstr ""
-"–5: Możesz wybrać własną kartę stwora spoza gry, ujawnij ją i umieść w "
-"twojej ręce."
+"–5: Możesz ujawnić własną kartę stwora spoza gry i umieścić ją w twojej ręce."
 
 #: ../../M20.rst:1082
 msgid ""
@@ -3398,7 +3377,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../M20.rst:1110
 msgid ""
@@ -5153,10 +5132,8 @@ msgid ""
 msgstr ""
 
 #: ../../M20.rst:1761
-#, fuzzy
-#| msgid "Flying, vigilance"
 msgid "Flying, haste"
-msgstr "Latanie, czujność"
+msgstr "Latanie, pośpiech"
 
 #: ../../M20.rst:1768
 msgid ""

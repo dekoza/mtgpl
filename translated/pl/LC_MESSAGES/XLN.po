@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-18 09:26+0000\n"
+"PO-Revision-Date: 2021-02-19 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/xln/pl/>\n"
 "Language: pl\n"
@@ -739,14 +739,9 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:245
-#, fuzzy
-#| msgid ""
-#| "Draw two cards. Then discard a card unless you attacked with a creature "
-#| "this turn."
 msgid "Draw two cards. Then discard a card unless you attacked this turn."
 msgstr ""
-"Dobierz dwie karty. Następnie odrzuć kartę, chyba że atakowałeś stworem w "
-"tej turze."
+"Dobierz dwie karty. Następnie odrzuć kartę, chyba że atakowałeś w tej turze."
 
 #: ../../XLN.rst:252
 msgid ""
@@ -887,16 +882,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:289
-#, fuzzy
-#| msgid ""
-#| "Whenever Fleet Swallower attacks, target player puts the top half of "
-#| "their library, rounded up, into their graveyard."
 msgid ""
 "Whenever Fleet Swallower attacks, target player mills half their library, "
 "rounded up."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany gracz umieszcza wierzchnią połowę "
-"swojej biblioteki, zaokrąglając wzwyż, w swoim cmentarzu."
+"Ilekroć ten stwór zaatakuje, wskazany gracz mieli połowę swojej biblioteki, "
+"zaokrąglając wzwyż."
 
 #: ../../XLN.rst:292
 msgid ""
@@ -995,16 +986,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:321
-#, fuzzy
-#| msgid ""
-#| "Raid — At the beginning of your end step, if you attacked with a creature "
-#| "this turn, target opponent discards a card."
 msgid ""
 "Raid — At the beginning of your end step, if you attacked this turn, target "
 "opponent mills four cards."
 msgstr ""
-"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
-"turze, wskazany przeciwnik odrzuca kartę."
+"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś w tej turze, "
+"wskazany przeciwnik mieli cztery karty."
 
 #: ../../XLN.rst:328
 msgid ""
@@ -1215,16 +1202,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:387
-#, fuzzy
-#| msgid ""
-#| "Raid — When Shipwreck Looter enters the battlefield, if you attacked with "
-#| "a creature this turn, you may draw a card. If you do, discard a card."
 msgid ""
 "Raid — When Shipwreck Looter enters the battlefield, if you attacked this "
 "turn, you may draw a card. If you do, discard a card."
 msgstr ""
-"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś w tej turze, "
+"możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../XLN.rst:392
 msgid ""
@@ -1324,16 +1307,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:421
-#, fuzzy
-#| msgid ""
-#| "Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter "
-#| "on it if you attacked with a creature this turn."
 msgid ""
 "Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter on "
 "it if you attacked this turn."
 msgstr ""
 "Najazd — Ten stwór wchodzi na pole walki mając znacznik +1/+1 jeśli "
-"atakowałeś stworem w tej turze."
+"atakowałeś w tej turze."
 
 #: ../../XLN.rst:426
 msgid ""
@@ -1343,16 +1322,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:425
-#, fuzzy
-#| msgid ""
-#| "Raid — When Storm Fleet Spy enters the battlefield, if you attacked with "
-#| "a creature this turn, draw a card."
 msgid ""
 "Raid — When Storm Fleet Spy enters the battlefield, if you attacked this "
 "turn, draw a card."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, dobierz kartę."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, dobierz kartę."
 
 #: ../../XLN.rst:432
 msgid ""
@@ -1587,16 +1562,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:501
-#, fuzzy
-#| msgid ""
-#| "Raid — When Deadeye Tormentor enters the battlefield, if you attacked "
-#| "with a creature this turn, target opponent discards a card."
 msgid ""
 "Raid — When Deadeye Tormentor enters the battlefield, if you attacked this "
 "turn, target opponent discards a card."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, wskazany przeciwnik odrzuca kartę."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, wskazany przeciwnik odrzuca kartę."
 
 #: ../../XLN.rst:506
 msgid ""
@@ -1775,18 +1746,12 @@ msgid "Target opponent discards two cards."
 msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../XLN.rst:555
-#, fuzzy
-#| msgid ""
-#| "Raid — If you attacked with a creature this turn, create a Treasure "
-#| "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\")"
 msgid ""
 "Raid — If you attacked this turn, create a Treasure token. (It's an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Najazd — Jeśli atakowałeś stworem w tej turze, stwórz żeton Skarbu. (To "
-"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\")"
+"Najazd — Jeśli atakowałeś w tej turze, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:562
 msgid ""
@@ -1889,16 +1854,12 @@ msgid "Whenever an opponent discards a card, that player loses 2 life."
 msgstr "Ilekroć przeciwnik odrzuci kartę, ów gracz traci 2 życia."
 
 #: ../../XLN.rst:595
-#, fuzzy
-#| msgid ""
-#| "Raid — At the beginning of your end step, if you attacked with a creature "
-#| "this turn, target opponent discards a card."
 msgid ""
 "Raid — At the beginning of your end step, if you attacked this turn, target "
 "opponent discards a card."
 msgstr ""
-"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
-"turze, wskazany przeciwnik odrzuca kartę."
+"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś w tej turze, "
+"wskazany przeciwnik odrzuca kartę."
 
 #: ../../XLN.rst:602
 msgid ""
@@ -1933,19 +1894,14 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:605
-#, fuzzy
-#| msgid ""
-#| "Raid — At the beginning of your end step, if you attacked with a creature "
-#| "this turn, reveal the top card of your library and put that card into "
-#| "your hand. You lose life equal to the card's converted mana cost."
 msgid ""
 "Raid — At the beginning of your end step, if you attacked this turn, reveal "
 "the top card of your library and put that card into your hand. You lose life "
 "equal to the card's converted mana cost."
 msgstr ""
-"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
-"turze, ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
-"Tracisz tyle żyć, ile wynosi skrócony koszt many owej karty."
+"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś w tej turze, "
+"ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
+"Tracisz tyle żyć, ile wynosi wartość many owej karty."
 
 #: ../../XLN.rst:612
 msgid ""
@@ -2334,15 +2290,10 @@ msgid "Firecannon Blast deals 3 damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia."
 
 #: ../../XLN.rst:727
-#, fuzzy
-#| msgid ""
-#| "Raid — Firecannon Blast deals 6 damage instead if you attacked with a "
-#| "creature this turn."
 msgid ""
 "Raid — Firecannon Blast deals 6 damage instead if you attacked this turn."
 msgstr ""
-"Najazd — Ten czar zamiast tego zadaje 6 obrażeń jeśli atakowałeś stworem w "
-"tej turze."
+"Najazd — Ten czar zamiast tego zadaje 6 obrażeń jeśli atakowałeś w tej turze."
 
 #: ../../XLN.rst:730
 msgid ""
@@ -2486,18 +2437,13 @@ msgid "Repeating Barrage deals 3 damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../XLN.rst:783
-#, fuzzy
-#| msgid ""
-#| "Raid — |mana_3|\\ |mana_r|\\ |mana_r|: Return Repeating Barrage from your "
-#| "graveyard to your hand. Activate this ability only if you attacked with a "
-#| "creature this turn."
 msgid ""
 "Raid — |mana_3|\\ |mana_r|\\ |mana_r|: Return Repeating Barrage from your "
 "graveyard to your hand. Activate this ability only if you attacked this turn."
 msgstr ""
 "Najazd — |mana_3|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego "
 "cmentarza do twojej ręki. Możesz aktywować tę zdolność tylko jeśli "
-"atakowałeś stworem w tej turze."
+"atakowałeś w tej turze."
 
 #: ../../XLN.rst:790
 msgid ""
@@ -2507,16 +2453,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:789
-#, fuzzy
-#| msgid ""
-#| "Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it "
-#| "if you attacked with a creature this turn."
 msgid ""
 "Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it if "
 "you attacked this turn."
 msgstr ""
 "Najazd — Ten stwór wchodzi na pole walki mając znacznik +1/+ jeśli "
-"atakowałeś stworem w tej turze."
+"atakowałeś w tej turze."
 
 #: ../../XLN.rst:796
 msgid ""
@@ -2588,16 +2530,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:813
-#, fuzzy
-#| msgid ""
-#| "Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked "
-#| "with a creature this turn, target opponent sacrifices a permanent."
 msgid ""
 "Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked "
 "this turn, target opponent sacrifices a permanent."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, wskazany przeciwnik poświęca permanent."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, wskazany przeciwnik poświęca permanent."
 
 #: ../../XLN.rst:818
 msgid ""
@@ -2607,17 +2545,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:817
-#, fuzzy
-#| msgid ""
-#| "Raid — When Storm Fleet Pyromancer enters the battlefield, if you "
-#| "attacked with a creature this turn, Storm Fleet Pyromancer deals 2 damage "
-#| "to any target."
 msgid ""
 "Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked "
 "this turn, Storm Fleet Pyromancer deals 2 damage to any target."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś stworem w "
-"tej turze, ten stwór zadaje wskazanemu celowi 2 obrażenia."
+"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"turze, ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../XLN.rst:822
 msgid ""
@@ -2642,12 +2575,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:825
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a spell from your hand, reveal the top X cards of your "
-#| "library, where X is that spell's converted mana cost. You may cast a card "
-#| "revealed this way with converted mana cost X or less without paying its "
-#| "mana cost. Put the rest on the bottom of your library in a random order."
 msgid ""
 "Whenever you cast a spell from your hand, reveal the top X cards of your "
 "library, where X is that spell's converted mana cost. You may cast a spell "
@@ -2657,9 +2584,8 @@ msgid ""
 msgstr ""
 "Ilekroć rzucisz czar z twojej ręki, ujawnij X wierzchnich kart twojej "
 "biblioteki, gdzie X jest skróconym kosztem many owego czaru. Możesz rzucić "
-"ujawnioną w ten sposób kartę o skróconym koszcie many X lub mniejszym bez "
-"płacenia jaj kosztu many. Umieść pozostałe losowo na spodzie twojej "
-"biblioteki."
+"ujawniony w ten sposób czar o wartości many X lub mniejszej bez płacenia "
+"jego kosztu many. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../XLN.rst:830
 msgid ""
@@ -3659,16 +3585,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1127
-#, fuzzy
-#| msgid ""
-#| "Raid — At the beginning of your end step, if you attacked with a creature "
-#| "this turn, you may draw a card. If you do, discard a card."
 msgid ""
 "Raid — At the beginning of your end step, if you attacked this turn, you may "
 "draw a card. If you do, discard a card."
 msgstr ""
-"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
-"turze, możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
+"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś w tej turze, "
+"możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../XLN.rst:1134
 msgid ""
@@ -3822,7 +3744,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Wyposaż tylko jako obrzęd.)"
+"Aktywuj jako obrzęd.)"
 
 #: ../../XLN.rst:1184
 msgid ""

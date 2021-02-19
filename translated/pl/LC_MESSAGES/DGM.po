@@ -1,23 +1,22 @@
 # Dominik <Kozaczko>, 2013.
 # Dominik <dominik@kozaczko.info>, 2013.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2020-02-27 23:17+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/dgm/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dgm/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "X-POOTLE-MTIME: 1385404179.955608\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
@@ -881,7 +880,7 @@ msgstr ""
 # 25422608adf240eaaed8ffe2a47014b0
 #: ../../DGM.rst:251
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 # 0bfc5ca1ff294d4d907355e731e172ad
 #: ../../DGM.rst:253
@@ -989,7 +988,7 @@ msgstr ""
 # Jak wytłumaczysz "Wampiryzm" u białych stworów? Przecież to się kojarzy co najwyżej z czarnymi.
 #: ../../DGM.rst:283
 msgid "Lifelink, protection from white and from black"
-msgstr "Więź życia, ochrona przed białym i czarnym."
+msgstr "Więź życia, ochrona przed białym i czarnym"
 
 # 13d06793edcb418bb9490f0b2ae403f6
 #: ../../DGM.rst:285
@@ -1102,14 +1101,8 @@ msgstr ""
 
 # 7f7b80014a7c4132b86b8f85ac14b27c
 #: ../../DGM.rst:315
-#, fuzzy
-#| msgid ""
-#| "When Deadbridge Chant enters the battlefield, put the top ten cards of "
-#| "your library into your graveyard."
 msgid "When Deadbridge Chant enters the battlefield, mill ten cards."
-msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść dziesięć wierzchnich kart "
-"twojej biblioteki w twoim cmentarzu."
+msgstr "Kiedy ta karta wejdzie na pole walki, zmiel dziesięć kart."
 
 # 7f229971227c4f26a6587d829e1101c8
 #: ../../DGM.rst:317
@@ -1195,18 +1188,12 @@ msgstr ""
 
 # ff4f2d74f1d9454b9141babc9e52c21a
 #: ../../DGM.rst:337
-#, fuzzy
-#| msgid ""
-#| "Choose target creature. Put the top four cards of your library into your "
-#| "graveyard, then that creature gets -1/-1 until end of turn for each land "
-#| "card in your graveyard."
 msgid ""
 "Choose target creature. Mill four cards, then that creature gets -1/-1 until "
 "end of turn for each land card in your graveyard."
 msgstr ""
-"Wskaż stwora. Umieść cztery wierzchnie karty twojej biblioteki w twoim "
-"cmentarzu, następnie ów stwór dostaje do końca tury -1/-1 za każdą kartę "
-"lądu w twoim cmentarzu."
+"Wskaż stwora. Zmiel cztery karty, następnie ów stwór dostaje do końca tury "
+"-1/-1 za każdą kartę lądu w twoim cmentarzu."
 
 #: ../../DGM.rst:342
 msgid ""
@@ -1509,7 +1496,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../DGM.rst:433
 msgid "You may cast instant and sorcery spells from the top of your library."
-msgstr ""
+msgstr "Możesz rzucać czary sztuczek i obrzędów z wierzchu twojej biblioteki."
 
 # 4e5b9e7029fd431e9fa2edcf8507aa57
 #: ../../DGM.rst:435
@@ -1609,10 +1596,8 @@ msgstr ""
 
 # 5077102541394d94b6d688a4fbb6abd9
 #: ../../DGM.rst:465
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "Target player mills two cards. Draw two cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "Wskazany gracz mieli dwie karty. Dobierz dwie karty."
 
 #: ../../DGM.rst:470
 msgid ""
@@ -1751,19 +1736,13 @@ msgstr "Ten stwór nie może blokować."
 
 # 704a4c9fc7374bdc9a0d3225975d04ac
 #: ../../DGM.rst:503
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|\\ |mana_g|, Put the top four cards of your library "
-#| "into your graveyard: Return Rot Farm Skeleton from your graveyard to the "
-#| "battlefield. Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, Mill four cards: Return Rot Farm Skeleton "
 "from your graveyard to the battlefield. Activate this ability only any time "
 "you could cast a sorcery."
 msgstr ""
-"|mana_2|\\ |mana_b|\\ |mana_g|, umieść cztery wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu: Przywróć tę kartę z twojego cmentarza na pole "
-"walki. Aktywuj jako obrzęd."
+"|mana_2|\\ |mana_b|\\ |mana_g|, zmiel cztery karty: Przywróć tę kartę z "
+"twojego cmentarza na pole walki. Aktywuj jako obrzęd."
 
 #: ../../DGM.rst:512
 msgid ""
@@ -2275,10 +2254,8 @@ msgstr ""
 
 # 5077102541394d94b6d688a4fbb6abd9
 #: ../../DGM.rst:655
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "Target player mills eight cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "Wskazany gracz mieli osiem kart."
 
 #: ../../DGM.rst:664
 msgid ""

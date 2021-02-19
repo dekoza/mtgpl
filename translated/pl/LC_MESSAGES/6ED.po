@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/6ed/pl/>\n"
 "Language: pl\n"
@@ -2662,10 +2662,8 @@ msgid ""
 msgstr ""
 
 #: ../../6ED.rst:973
-#, fuzzy
-#| msgid "Flying, vigilance"
 msgid "Flying, haste"
-msgstr "Latanie, czujność"
+msgstr "Latanie, pośpiech"
 
 #: ../../6ED.rst:978
 msgid ""
@@ -2895,7 +2893,7 @@ msgstr ""
 
 #: ../../6ED.rst:1057
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../6ED.rst:1062
 msgid ""
@@ -3678,10 +3676,8 @@ msgid ""
 msgstr ""
 
 #: ../../6ED.rst:1343
-#, fuzzy
-#| msgid "Target player draws two cards."
 msgid "|mana_2|, |tap|: Target player mills two cards."
-msgstr "Wskazany gracz dobiera dwie karty."
+msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../6ED.rst:1350
 msgid ""

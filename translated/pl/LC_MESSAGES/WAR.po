@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-13 19:02+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/war/pl/>\n"
 "Language: pl\n"
@@ -45,16 +45,12 @@ msgstr ""
 "swojemu skróconemu kosztowi many każdy."
 
 #: ../../WAR.rst:13
-#, fuzzy
-#| msgid ""
-#| "−2: You may choose an artifact card you own from outside the game or in "
-#| "exile, reveal that card, and put it into your hand."
 msgid ""
 "−2: You may reveal an artifact card you own from outside the game or choose "
 "a face-up artifact card you own in exile. Put that card into your hand."
 msgstr ""
-"–2: Możesz wybrać własną kartę artefaktu spoza gry lub z wygnania, ujawnij "
-"ją i umieść w twojej ręce."
+"–2: Możesz ujawnić własną kartę artefaktu spoza gry lub z wygnania i "
+"umieścić ją w twojej ręce."
 
 #: ../../WAR.rst:22
 msgid ""
@@ -749,18 +745,12 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:227
-#, fuzzy
-#| msgid ""
-#| "Each player puts the top four cards of their library into their "
-#| "graveyard. Return up to two instant and/or sorcery cards from your "
-#| "graveyard to your hand. Exile Bond of Insight."
 msgid ""
 "Each player mills four cards. Return up to two instant and/or sorcery cards "
 "from your graveyard to your hand. Exile Bond of Insight."
 msgstr ""
-"Każdy gracz umieszcza cztery wierzchnie karty swojej biblioteki w swoim "
-"cmentarzu. Przywróć co najwyżej dwie karty sztuczki i/lub obrzędu z twojego "
-"cmentarza do twojej ręki. Wygnaj niniejszy czar."
+"Każdy gracz mieli po cztery karty. Przywróć co najwyżej dwie karty sztuczki "
+"i/lub obrzędu z twojego cmentarza do twojej ręki. Wygnaj niniejszy czar."
 
 #: ../../WAR.rst:234
 msgid ""
@@ -971,10 +961,8 @@ msgstr ""
 "tego wygrywasz grę."
 
 #: ../../WAR.rst:291
-#, fuzzy
-#| msgid "−1: Target player discards a card."
 msgid "+1: Target player mills two cards. Draw a card."
-msgstr "–1: Wskazany gracz odrzuca kartę."
+msgstr "+1: Wskazany gracz mieli dwie karty. Dobierz kartę."
 
 #: ../../WAR.rst:293
 msgid ""
@@ -1322,23 +1310,15 @@ msgstr ""
 
 #: ../../WAR.rst:395
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../WAR.rst:397
-#, fuzzy
-#| msgid ""
-#| "When Augur of Bolas enters the battlefield, look at the top three cards "
-#| "of your library. You may reveal an instant or sorcery card from among "
-#| "them and put it into your hand. Put the rest on the bottom of your "
-#| "library in any order."
 msgid ""
 "When Wall of Runes enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na trzy wierzchnie karty "
-"twojej biblioteki. Możesz ujawnić spośród nich kartę sztuczki lub obrzędu i "
-"umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
-"dowolnej kolejności."
+"Kiedy ten stwór wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../WAR.rst:406
 msgid ""
@@ -1400,18 +1380,14 @@ msgstr ""
 "Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../WAR.rst:419
-#, fuzzy
-#| msgid ""
-#| "You may play the top card of your library. If you cast a spell this way, "
-#| "pay life equal to its converted mana cost rather than pay its mana cost."
 msgid ""
 "You may play lands and cast spells from the top of your library. If you cast "
 "a spell this way, pay life equal to its converted mana cost rather than pay "
 "its mana cost."
 msgstr ""
-"Możesz zagrywać wierzchnią kartę twojej biblioteki. Jeśli rzucisz w ten "
-"sposób czar, zapłać życie równe jego skróconemu kosztowi many zamiast płacić "
-"jego koszt many."
+"Możesz zagrywać lądy i rzucać czary z wierzchu twojej biblioteki. Jeśli "
+"rzucisz w ten sposób czar, zapłać życie równe jego wartości many zamiast "
+"płacić jego koszt many."
 
 #: ../../WAR.rst:421
 msgid "|tap|, Sacrifice ten nonland permanents: Each opponent loses 10 life."
@@ -2114,11 +2090,6 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:633
-#, fuzzy
-#| msgid ""
-#| "Chandra's Triumph deals 3 damage to target creature or planeswalker an "
-#| "opponent controls. Chandra's Triumph deals 5 damage to that permanent "
-#| "instead if you control a Chandra planeswalker."
 msgid ""
 "Chandra's Triumph deals 3 damage to target creature or planeswalker an "
 "opponent controls. Chandra's Triumph deals 5 damage instead if you control a "
@@ -2186,12 +2157,6 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: ../../WAR.rst:651
-#, fuzzy
-#| msgid ""
-#| "Whenever Dreadhorde Arcanist attacks, you may cast target instant or "
-#| "sorcery card with converted mana cost less than or equal to Dreadhorde "
-#| "Arcanist's power from your graveyard without paying its mana cost. If "
-#| "that card would be put into your graveyard this turn, exile it instead."
 msgid ""
 "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery "
 "card with converted mana cost less than or equal to Dreadhorde Arcanist's "
@@ -2199,9 +2164,9 @@ msgid ""
 "be put into your graveyard this turn, exile it instead."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz rzucić bez płacenia kosztu many wskazaną "
-"kartę sztuczki lub obrzędu z twojego cmentarza o skróconym koszcie many "
-"mniejszym lub równym sile niniejszego stwora. Jeśli owa karta miałaby zostać "
-"umieszczona w cmentarzu w tej turze, zamiast tego wygnaj ją."
+"kartę sztuczki lub obrzędu z twojego cmentarza o wartości many mniejszej lub "
+"równej sile niniejszego stwora. Jeśli ów czar miałby zostać umieszczony w "
+"cmentarzu w tej turze, zamiast tego wygnaj go."
 
 #: ../../WAR.rst:658
 msgid ""
@@ -2232,13 +2197,6 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:661
-#, fuzzy
-#| msgid ""
-#| "You may cast up to one target instant card and/or up to one target "
-#| "sorcery card from your graveyard each with converted mana cost X or less "
-#| "without paying their mana costs. If a card cast this way would be put "
-#| "into your graveyard this turn, exile it instead. If X is 10 or more, copy "
-#| "each of those spells twice. You may choose new targets for the copies."
 msgid ""
 "You may cast up to one target instant card and/or up to one target sorcery "
 "card from your graveyard each with converted mana cost X or less without "
@@ -2248,10 +2206,10 @@ msgid ""
 msgstr ""
 "Możesz rzucić bez płacenia kosztów many co najwyżej jedną wskazaną kartę "
 "sztuczki i/lub co najwyżej jedną wskazaną kartę obrzędu z twojego cmentarza, "
-"każda o skróconym koszcie many X lub mniejszym. Jeśli karta rzucona w ten "
-"sposób miałaby trafić do cmentarza w tej turze, zamiast tego wygnaj ją. "
-"Jeśli X wynosi 10 lub więcej, skopiuj dwukrotnie każdy z owych czarów. "
-"Możesz wskazać nowe cale dla kopii."
+"każda o skróconym koszcie many X lub mniejszym. Jeśli czar rzucony w ten "
+"sposób miałby trafić do cmentarza w tej turze, zamiast tego wygnaj ga. Jeśli "
+"X wynosi 10 lub więcej, skopiuj dwukrotnie każdy z owych czarów. Możesz "
+"wskazać nowe cale dla kopii."
 
 #: ../../WAR.rst:664
 msgid ""
@@ -2599,14 +2557,8 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:773 ../../WAR.rst:931
-#, fuzzy
-#| msgid ""
-#| "Flying (This creature can't be blocked except by creatures with flying or "
-#| "reach.)"
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
-"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
-"lub zasięgiem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../WAR.rst:775
 msgid ""
@@ -2915,10 +2867,8 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:865
-#, fuzzy
-#| msgid "Vigilance"
 msgid "Vigilance, trample"
-msgstr "Czujność"
+msgstr "Czujność, tratowanie"
 
 #: ../../WAR.rst:867
 msgid ""
@@ -3166,12 +3116,6 @@ msgstr ""
 "czujność i zasięg."
 
 #: ../../WAR.rst:955
-#, fuzzy
-#| msgid ""
-#| "−2: Look at the top three cards of your library. Exile one face down and "
-#| "put the rest on the bottom of your library in any order. For as long as "
-#| "it remains exiled, you may look at that card and you may cast it if it's "
-#| "a creature card."
 msgid ""
 "−2: Look at the top three cards of your library. Exile one face down and put "
 "the rest on the bottom of your library in any order. For as long as it "
@@ -3181,7 +3125,7 @@ msgstr ""
 "–2: Spójrz na trzy wierzchnie karty twojej biblioteki. Wygnaj jedną zakrytą "
 "i umieść pozostałe w dowolnej kolejności na spodzie twojej biblioteki. Przez "
 "czas jej wygnania możesz patrzeć na ową kartę i możesz ją rzucić jeśli to "
-"karta stwora."
+"czar stwora."
 
 #: ../../WAR.rst:960
 msgid ""
@@ -3462,13 +3406,6 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:1055
-#, fuzzy
-#| msgid ""
-#| "Enter the God-Eternals deals 4 damage to target creature and you gain "
-#| "life equal to the damage dealt this way. Target player puts the top four "
-#| "cards of their library into their graveyard. Amass 4. (Put four +1/+1 "
-#| "counters on an Army you control. If you don't control one, create a 0/0 "
-#| "black Zombie Army creature token first.)"
 msgid ""
 "Enter the God-Eternals deals 4 damage to target creature and you gain life "
 "equal to the damage dealt this way. Target player mills four cards. Amass 4. "
@@ -3476,10 +3413,9 @@ msgid ""
 "create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
 "Ten czar zadaje 4 obrażenia wskazanemu stworowi, a ty zyskaj życia równe "
-"obrażeniom zadanym w ten sposób. Wskazany gracz umieszcza cztery wierzchnie "
-"karty swojej biblioteki w swoim cmentarzu. Zgromadź 4. (Umieść 4 znaczniki "
-"+1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"żeton czarnego stwora Armia Zombi 0/0.)"
+"obrażeniom zadanym w ten sposób. Wskazany gracz mieli cztery karty. Zgromadź "
+"4. (Umieść 4 znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
+"władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:1062
 msgid ""
@@ -4114,15 +4050,11 @@ msgstr ""
 "władca przeszuka swoją bibliotekę."
 
 #: ../../WAR.rst:1245
-#, fuzzy
-#| msgid ""
-#| "−1: Target player puts the top four cards of their library into their "
-#| "graveyard. Then exile each opponent's graveyard."
 msgid ""
 "−1: Target player mills four cards. Then exile each opponent's graveyard."
 msgstr ""
-"–1: Wskazany gracz umieszcza cztery wierzchnie karty swojej biblioteki w "
-"swoim cmentarzu. Następnie wygnaj cmentarze wszystkich przeciwników."
+"–1: Wskazany gracz mieli cztery karty. Następnie wygnaj cmentarze wszystkich "
+"przeciwników."
 
 #: ../../WAR.rst:1252
 msgid ""

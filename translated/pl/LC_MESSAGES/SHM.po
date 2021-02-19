@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 07:56+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -337,10 +337,6 @@ msgid "As Runed Halo enters the battlefield, choose a card name."
 msgstr "Umieszczając ten urok na polu walki, wybierz nazwę karty."
 
 #: ../../SHM.rst:113
-#, fuzzy
-#| msgid ""
-#| "You have protection from the chosen name. (You can't be targeted, dealt "
-#| "damage, or enchanted by anything with that name.)"
 msgid ""
 "You have protection from the chosen card name. (You can't be targeted, dealt "
 "damage, or enchanted by anything with that name.)"
@@ -1734,7 +1730,7 @@ msgstr ""
 
 #: ../../SHM.rst:629
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../SHM.rst:636
 msgid ""

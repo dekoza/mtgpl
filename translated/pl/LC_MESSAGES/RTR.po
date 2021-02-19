@@ -1,23 +1,22 @@
 # Dominik <Kozaczko>, 2013.
 # Dominik <dominik@kozaczko.info>, 2013.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2020-03-03 23:32+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/rtr/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../RTR.rst:5
@@ -194,7 +193,7 @@ msgstr ""
 
 #: ../../RTR.rst:57
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../RTR.rst:62
 msgid ""
@@ -523,15 +522,10 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:159
-#, fuzzy
-#| msgid ""
-#| "Whenever enchanted land becomes tapped, its controller puts the top three "
-#| "cards of their library into their graveyard."
 msgid ""
 "Whenever enchanted land becomes tapped, its controller mills three cards."
 msgstr ""
-"Ilekroć zauroczony ląd zostanie przekręcony, jego władca umieszcza trzy "
-"wierzchnie karty swojej biblioteki w swoim cmentarzu."
+"Ilekroć zauroczony ląd zostanie przekręcony, jego władca mieli trzy karty."
 
 #: ../../RTR.rst:164
 msgid ""
@@ -557,16 +551,12 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:167
-#, fuzzy
-#| msgid ""
-#| "Whenever Crosstown Courier deals combat damage to a player, that player "
-#| "puts that many cards from the top of their library into their graveyard."
 msgid ""
 "Whenever Crosstown Courier deals combat damage to a player, that player "
 "mills that many cards."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz umieszcza tyle "
-"samo wierzchnich kart swojej biblioteki w swoim cmentarzu."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz mieli tyle samo "
+"kart."
 
 #: ../../RTR.rst:174
 msgid ""
@@ -615,18 +605,12 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../RTR.rst:183
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|, |tap|: Target player puts the top X cards of their "
-#| "library into their graveyard, where X is the number of creatures with "
-#| "defender you control."
 msgid ""
 "|mana_2|\\ |mana_u|, |tap|: Target player mills X cards, where X is the "
 "number of creatures with defender you control."
 msgstr ""
-"|mana_2|\\ |mana_u|, |tap|: Wskazany gracz umieszcza X wierzchnich kart "
-"swojej biblioteki w swoim cmentarzu, gdzie X jest liczbą stworów z "
-"obronnością pod twoim władaniem."
+"|mana_2|\\ |mana_u|, |tap|: Wskazany gracz mieli X kart, gdzie X jest liczbą "
+"stworów z obronnością pod twoim władaniem."
 
 #: ../../RTR.rst:190
 msgid ""
@@ -803,17 +787,12 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:239
-#, fuzzy
-#| msgid ""
-#| "Shuffle all cards from your graveyard into your library. Target player "
-#| "puts that many cards from the top of their library into their graveyard."
 msgid ""
 "Shuffle all cards from your graveyard into your library. Target player mills "
 "that many cards."
 msgstr ""
 "Wtasuj wszystkie karty z twojego cmentarza do twojej biblioteki. Wskazany "
-"gracz umieszcza tyle samo wierzchnich kart swojej biblioteki w swoim "
-"cmentarzu."
+"gracz mieli tyle samo kart."
 
 #: ../../RTR.rst:246
 msgid ""
@@ -2106,7 +2085,7 @@ msgstr ""
 
 #: ../../RTR.rst:685 ../../RTR.rst:1077
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../RTR.rst:692
 msgid ""
@@ -2445,22 +2424,16 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:805
-#, fuzzy
-#| msgid ""
-#| "Exile the top X cards of your library. For each instant and sorcery card "
-#| "with converted mana cost X or less among them, you may cast that card "
-#| "without paying its mana cost. Then put all cards exiled this way that "
-#| "weren't cast into your graveyard."
 msgid ""
 "Exile the top X cards of your library. You may cast instant and sorcery "
 "spells with converted mana cost X or less from among them without paying "
 "their mana costs. Then put all cards exiled this way that weren't cast into "
 "your graveyard."
 msgstr ""
-"Wygnaj X wierzchnich kart twojej biblioteki. Możesz rzucić każdą kartę "
-"sztuczki i obrzędu o skróconym koszcie many X lub mniejszym spośród nich, "
-"bez płacenia jej kosztu many. Następnie umieść w twoim cmentarzu wszystkie "
-"karty wygnane w ten sposób, które nie zostały rzucone."
+"Wygnaj X wierzchnich kart twojej biblioteki. Możesz rzucić spośród nich "
+"czary sztuczek i obrzędów mające wartość many X lub mniej bez płacenia ich "
+"kosztów many. Następnie umieść w twoim cmentarzu wszystkie karty wygnane w "
+"ten sposób, które nie zostały rzucone."
 
 #: ../../RTR.rst:810
 msgid ""
@@ -3573,16 +3546,12 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1197
-#, fuzzy
-#| msgid ""
-#| "|tap|: Target player puts the top card of their library into their "
-#| "graveyard."
 msgid ""
 "|tap|: Target player mills a card. (They put the top card of their library "
 "into their graveyard.)"
 msgstr ""
-"|tap|: Wskazany gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
-"cmentarzu."
+"|tap|: Wskazany gracz mieli kartę. (Umieszcza wierzchnią kartę swojej "
+"biblioteki w swoim cmentarzu.)"
 
 #: ../../RTR.rst:1199
 msgid ""

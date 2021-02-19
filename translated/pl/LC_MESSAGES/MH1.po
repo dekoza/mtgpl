@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-15 19:22+0000\n"
+"PO-Revision-Date: 2021-02-19 23:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh1/pl/>\n"
 "Language: pl\n"
@@ -1051,10 +1051,8 @@ msgid "Play with the top card of your library revealed."
 msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../MH1.rst:325
-#, fuzzy
-#| msgid "You may play the top card of your library."
 msgid "You may play lands and cast spells from the top of your library."
-msgstr "Możesz zagrywać wierzchnią kartę twojej biblioteki."
+msgstr "Możesz zagrywać lądy i rzucać czaru z wierzchu twojej biblioteki."
 
 #: ../../MH1.rst:330
 msgid ""
@@ -4105,16 +4103,12 @@ msgid "Equipped creature gets +3/+0 and is every creature type."
 msgstr "Wyposażony stwór dostaje +3/+0 i ma każdy typ stwora."
 
 #: ../../MH1.rst:1287
-#, fuzzy
-#| msgid ""
-#| "Level up |mana_1| (|mana_1|: Put a level counter on this. Level up only "
-#| "as a sorcery.)"
 msgid ""
 "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Podnieś poziom |mana_1| (|mana_1|: Umieść na tym znacznik poziomu. Aktywuj "
-"jako obrzęd.)"
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd.)"
 
 #: ../../MH1.rst:1296
 msgid ""
