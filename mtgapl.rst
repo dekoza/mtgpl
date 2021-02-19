@@ -7,8 +7,14 @@ mogą zwierać błędy - czasem istotnie zmieniające sens kart. Dołożyliśmy 
 takie przypadki, jednak mogą one występować i nie możesz mieć do nas o to pretensji. Ten projekt
 jest całkowicie hobbystyczny. Przed graniem jakiegoś ważnego turnieju lepiej przełącz się na oficjalnie wspierany język.
 
-Pobranie tłumaczenia
---------------------
+
+Program instalujący spolszczenie
+--------------------------------
+
+Program jest w trakcie przygotowania.
+
+Ręczna instalacja tłumaczenia
+-----------------------------
 
 1. Wejdź na `stronę, gdzie publikuję wydania <https://github.com/dekoza/mtgpl/releases/>`_.
 2. Na samej górze jest najnowsza wersja. Dla ułatwienia dodaję do tytułu datę wydania.
