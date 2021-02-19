@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-14 21:22+0100\n"
-"PO-Revision-Date: 2021-02-17 08:29+0000\n"
+"PO-Revision-Date: 2021-02-19 00:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eld/pl/>\n"
 "Language: pl\n"
@@ -628,10 +628,6 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:201
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +2/+2 until end of turn. Untap it. (Then exile this "
-#| "spell. You may cast the creature later from exile.)"
 msgid ""
 "Target creature gets +2/+2 until end of turn. Untap it. (Then exile this "
 "card. You may cast the creature later from exile.)"
@@ -832,14 +828,8 @@ msgstr ""
 "władaniem."
 
 #: ../../ELD.rst:273
-#, fuzzy
-#| msgid ""
-#| "When Emry, Lurker of the Loch enters the battlefield, put the top four "
-#| "cards of your library into your graveyard."
 msgid "When Emry, Lurker of the Loch enters the battlefield, mill four cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść cztery wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel cztery karty."
 
 #: ../../ELD.rst:275
 msgid ""
@@ -873,16 +863,11 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:285
-#, fuzzy
-#| msgid ""
-#| "You may choose a noncreature card you own from outside the game, reveal "
-#| "it, and put it into your hand."
 msgid ""
 "You may reveal a noncreature card you own from outside the game and put it "
 "into your hand."
 msgstr ""
-"Możesz wybrać własną nie-stworową kartę spoza gry, ujawnij ją i umieść ją w "
-"twojej ręce."
+"Możesz ujawnić własną nie-stworową kartę spoza gry i umieść ją w twojej ręce."
 
 #: ../../ELD.rst:294
 msgid ""
@@ -1063,15 +1048,11 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:351
-#, fuzzy
-#| msgid ""
-#| "Target opponent discards two cards. (Then exile this card. You may cast "
-#| "the creature later from exile.)"
 msgid ""
 "Target player mills four cards. (Then exile this card. You may cast the "
 "creature later from exile.)"
 msgstr ""
-"Wskazany przeciwnik odrzuca dwie karty. (Następnie wygnaj tę kartę. Możesz "
+"Wskazany gracz mieli cztery karty. (Następnie wygnaj tę kartę. Możesz "
 "później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:362
@@ -1189,23 +1170,16 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:389
-#, fuzzy
-#| msgid ""
-#| "When Overwhelmed Apprentice enters the battlefield, each opponent puts "
-#| "the top two cards of their library into their graveyard. Then you scry 2. "
-#| "(Look at the top two cards of your library, then put any number of them "
-#| "on the bottom of your library and the rest on top in any order.)"
 msgid ""
 "When Overwhelmed Apprentice enters the battlefield, each opponent mills two "
 "cards. Then you scry 2. (Look at the top two cards of your library, then put "
 "any number of them on the bottom of your library and the rest on top in any "
 "order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik umieszcza dwie "
-"wierzchnie karty swojej biblioteki w swoim cmentarzu. Następnie wróż 2. "
-"(Spójrz na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolne "
-"z nich na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
-"kolejności.)"
+"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik mieli dwie karty. "
+"Następnie wróż 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, "
+"następnie umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
+"jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ELD.rst:394
 msgid ""
@@ -1413,10 +1387,8 @@ msgstr ""
 "Ten stwór nie może blokować, chyba że masz co najmniej cztery karty w ręce."
 
 #: ../../ELD.rst:459
-#, fuzzy
-#| msgid "Each player discards a card."
 msgid "|tap|: Each player mills a card."
-msgstr "Każdy gracz odrzuca kartę."
+msgstr "|tap|: Każdy gracz mieli kartę."
 
 #: ../../ELD.rst:466
 msgid ""
@@ -1638,16 +1610,12 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:527
-#, fuzzy
-#| msgid ""
-#| "Adamant — If at least three blue mana was spent to cast this spell, scry "
-#| "3."
 msgid ""
 "Adamant — If at least three black mana was spent to cast this spell, mill "
 "four cards."
 msgstr ""
-"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy niebieskie "
-"many, wróż 3."
+"Nieugięty — Jeśli na rzucenie tego czaru wydano co najmniej trzy czarne "
+"many, zmiel cztery karty."
 
 #: ../../ELD.rst:529
 msgid ""
@@ -1705,16 +1673,11 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:547
-#, fuzzy
-#| msgid ""
-#| "Whenever Eye Collector deals combat damage to a player, each player puts "
-#| "the top card of their library into their graveyard."
 msgid ""
 "Whenever Eye Collector deals combat damage to a player, each player mills a "
 "card."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz umieszcza "
-"wierzchnią kartę swojej biblioteki w swoim cmentarzu."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz mieli kartę."
 
 #: ../../ELD.rst:552
 msgid ""
@@ -2137,10 +2100,8 @@ msgstr ""
 "niniejszy stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../ELD.rst:683
-#, fuzzy
-#| msgid "|mana_3|\\ |mana_u|: Target player draws a card."
 msgid "|mana_1|\\ |mana_b|: Each player mills a card."
-msgstr "|mana_3|\\ |mana_u|: Wskazany gracz dobiera kartę."
+msgstr "|mana_1|\\ |mana_b|: Każdy gracz mieli kartę."
 
 #: ../../ELD.rst:690
 msgid ""
@@ -2845,19 +2806,14 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:891
-#, fuzzy
-#| msgid ""
-#| "When Syr Carah, the Bold or an instant or sorcery spell you control deals "
-#| "damage to a player, exile the top card of your library. You may play that "
-#| "card this turn."
 msgid ""
 "Whenever Syr Carah, the Bold or an instant or sorcery spell you control "
 "deals damage to a player, exile the top card of your library. You may play "
 "that card this turn."
 msgstr ""
-"Kiedy ten stwór lub czar sztuczki albo obrzędu zada graczowi obrażenia, "
-"wygnaj wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę w tej "
-"turze."
+"Ilekroć ten stwór albo czar sztuczki lub obrzędu pod twoim władaniem zada "
+"graczowi obrażenia, wygnaj wierzchnią kartę twojej biblioteki. Możesz zagrać "
+"ową kartę w tej turze."
 
 #: ../../ELD.rst:893
 msgid "|tap|: Syr Carah deals 1 damage to any target."
@@ -4057,10 +4013,8 @@ msgid "Equipped creature gets +2/+2."
 msgstr "Wyposażony stwór dostaje +2/+2."
 
 #: ../../ELD.rst:1261
-#, fuzzy
-#| msgid "Equip |mana_3|"
 msgid "Equip Knight |mana_1|"
-msgstr "Wyposaż |mana_3|"
+msgstr "Wyposaż Rycerza |mana_1|"
 
 #: ../../ELD.rst:1270
 msgid ""
@@ -4467,11 +4421,6 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:1403
-#, fuzzy
-#| msgid ""
-#| "When Lost Legion enters the battlefield, scry 2. (Look at the top two "
-#| "cards of your library, then put any number of them on the bottom of your "
-#| "library and the rest on top in any order.)"
 msgid ""
 "When Prophet of the Peak enters the battlefield, scry 2. (Look at the top "
 "two cards of your library, then put any number of them on the bottom of your "
