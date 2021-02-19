@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-19 23:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -1156,19 +1156,13 @@ msgid "Target creature gets -1/-1 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../RAV.rst:431 ../../RAV.rst:863 ../../RAV.rst:879 ../../RAV.rst:1177
-#, fuzzy
-#| msgid ""
-#| "Dredge 3 (If you would draw a card, instead you may put exactly three "
-#| "cards from the top of your library into your graveyard. If you do, return "
-#| "this card from your graveyard to your hand. Otherwise, draw a card.)"
 msgid ""
 "Dredge 3 (If you would draw a card, you may mill three cards instead. If you "
 "do, return this card from your graveyard to your hand.)"
 msgstr ""
-"Czerpak 3 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
-"dokładnie trzy karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
-"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
-"przeciwnym razie dobierz kartę.)"
+"Czerpak 3 (Jeśli miałbyś dobrać kartę, zamiast tego możesz zmielić trzy "
+"karty. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
+"twojej ręki.)"
 
 #: ../../RAV.rst:440
 msgid ""
@@ -1449,10 +1443,6 @@ msgid ""
 msgstr ""
 
 #: ../../RAV.rst:529
-#, fuzzy
-#| msgid ""
-#| "Ribbons of Night deals 4 damage to target creature and you gain 4 life. "
-#| "If |mana_u| was spent to cast Ribbons of Night, draw a card."
 msgid ""
 "Ribbons of Night deals 4 damage to target creature and you gain 4 life. If |"
 "mana_u| was spent to cast this spell, draw a card."
@@ -1544,19 +1534,13 @@ msgstr ""
 "stwora."
 
 #: ../../RAV.rst:561
-#, fuzzy
-#| msgid ""
-#| "Dredge 5 (If you would draw a card, instead you may put exactly five "
-#| "cards from the top of your library into your graveyard. If you do, return "
-#| "this card from your graveyard to your hand. Otherwise, draw a card.)"
 msgid ""
 "Dredge 5 (If you would draw a card, you may mill five cards instead. If you "
 "do, return this card from your graveyard to your hand.)"
 msgstr ""
-"Czerpak 5 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
-"dokładnie pięć kart z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
-"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
-"przeciwnym razie dobierz kartę.)"
+"Czerpak 5 (Jeśli miałbyś dobrać kartę, zamiast tego możesz zmielić pięć "
+"kart. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
+"twojej ręki.)"
 
 #: ../../RAV.rst:570
 msgid ""
@@ -1607,11 +1591,6 @@ msgid ""
 msgstr ""
 
 #: ../../RAV.rst:583
-#, fuzzy
-#| msgid ""
-#| "Return target creature card from your graveyard to the battlefield. If |"
-#| "mana_g| was spent to cast Vigor Mortis, that creature enters the "
-#| "battlefield with an additional +1/+1 counter on it."
 msgid ""
 "Return target creature card from your graveyard to the battlefield. If |"
 "mana_g| was spent to cast this spell, that creature enters the battlefield "
@@ -3007,19 +2986,13 @@ msgid "|mana_1|, Sacrifice Grave-Shell Scarab: Draw a card."
 msgstr "|mana_1|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../RAV.rst:1075
-#, fuzzy
-#| msgid ""
-#| "Dredge 1 (If you would draw a card, instead you may put exactly one card "
-#| "from the top of your library into your graveyard. If you do, return this "
-#| "card from your graveyard to your hand. Otherwise, draw a card.)"
 msgid ""
 "Dredge 1 (If you would draw a card, you may mill a card instead. If you do, "
 "return this card from your graveyard to your hand.)"
 msgstr ""
-"Czerpak 1 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
-"dokładnie jedną kartę z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
-"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
-"przeciwnym razie dobierz kartę.)"
+"Czerpak 1 (Jeśli miałbyś dobrać kartę, zamiast tego możesz zmielić kartę. "
+"Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej "
+"ręki.)"
 
 #: ../../RAV.rst:1082
 msgid ""
@@ -3291,7 +3264,7 @@ msgid ""
 "|mana_b|\\ |mana_g|: Exile target creature blocking or blocked by Sisters of "
 "Stone Death."
 msgstr ""
-"|mana_b|\\ |mana_g|: Wygnaj wskazanego stwora blokującego lub blokowanego  "
+"|mana_b|\\ |mana_g|: Wygnaj wskazanego stwora blokującego lub blokowanego "
 "przez tego stwora."
 
 #: ../../RAV.rst:1185
@@ -3332,18 +3305,12 @@ msgid ""
 msgstr ""
 
 #: ../../RAV.rst:1201
-#, fuzzy
-#| msgid ""
-#| "If Szadek, Lord of Secrets would deal combat damage to a player, instead "
-#| "put that many +1/+1 counters on Szadek and that player puts that many "
-#| "cards from the top of their library into their graveyard."
 msgid ""
 "If Szadek, Lord of Secrets would deal combat damage to a player, instead put "
 "that many +1/+1 counters on Szadek and that player mills that many cards."
 msgstr ""
 "Gdy ten stwór miałby zadać graczowi obrażenia bojowe, zamiast tego umieść na "
-"tym stworze tyle samo znaczników +1/+1, a ów gracz umieszcza tyle samo kart "
-"z wierzchu swojej biblioteki w swoim cmentarzu."
+"tym stworze tyle samo znaczników +1/+1, a ów gracz mieli tyle samo kart."
 
 #: ../../RAV.rst:1206
 msgid ""
@@ -3372,10 +3339,6 @@ msgid "Other white creatures you control get +1/+1."
 msgstr "Inne białe stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../RAV.rst:1213
-#, fuzzy
-#| msgid ""
-#| "|tap|: Create a legendary 2/2 green and white Wolf creature token named "
-#| "Voja."
 msgid ""
 "|tap|: Create Voja, a legendary 2/2 green and white Wolf creature token."
 msgstr ""
