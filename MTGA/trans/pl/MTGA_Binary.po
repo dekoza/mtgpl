@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-02-19 08:30+0000\n"
+"PO-Revision-Date: 2021-02-19 18:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/binary/"
 "pl/>\n"
@@ -2151,11 +2151,11 @@ msgstr ""
 
 msgctxt "MainNav/Login/Invalid_Email_Address"
 msgid "Invalid email address"
-msgstr ""
+msgstr "Nieprawidłowy adres email"
 
 msgctxt "MainNav/Login/Invalid_Email_Password"
 msgid "Invalid email address or password."
-msgstr ""
+msgstr "Nieprawidłowy email lub hasło."
 
 msgctxt "MainNav/Login/Invalid_Input_Parameters"
 msgid "Invalid input parameters"
@@ -2163,7 +2163,7 @@ msgstr ""
 
 msgctxt "MainNav/Login/Invalid_Password"
 msgid "Invalid password!"
-msgstr ""
+msgstr "Nieprawidłowe hasło!"
 
 msgctxt "MainNav/Login/InvalidSocialCredentials"
 msgid "Invalid Social Credentials"
@@ -2289,7 +2289,7 @@ msgstr ""
 
 msgctxt "MainNav/Login/Privacy_Policy"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Polityka prywatności"
 
 msgctxt "MainNav/Login/Receive_Offers"
 msgid ""
@@ -2321,7 +2321,7 @@ msgstr ""
 
 msgctxt "MainNav/Login/RememberMe"
 msgid "Remember Me"
-msgstr ""
+msgstr "Zapamiętaj mnie"
 
 msgctxt "MainNav/Login/Renewal_Header"
 msgid "Renewal Gifts"
@@ -2395,7 +2395,7 @@ msgstr ""
 
 msgctxt "MainNav/Login/Year"
 msgid "Year"
-msgstr ""
+msgstr "Rok"
 
 msgctxt "MainNav/NavBar/Settings_Tooltip"
 msgid "Adjust Options"
@@ -2467,19 +2467,19 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Audio/Master_Label"
 msgid "Master"
-msgstr ""
+msgstr "Główny"
 
 msgctxt "MainNav/Settings/Audio/Music_Label"
 msgid "Music"
-msgstr ""
+msgstr "Muzyka"
 
 msgctxt "MainNav/Settings/Audio/PlayWhileMinimized_Label"
 msgid "Play Audio While Minimized"
-msgstr ""
+msgstr "Graj dźwię w trybie zminimalizowanym"
 
 msgctxt "MainNav/Settings/Audio/SFX_Label"
 msgid "SFX"
-msgstr ""
+msgstr "Efekty"
 
 msgctxt "MainNav/Settings/Audio/Voice_Label"
 msgid "Voice"
@@ -2507,7 +2507,7 @@ msgstr "Niemiecki"
 
 msgctxt "MainNav/Settings/Debug/Language_en"
 msgid "English"
-msgstr "Angielski/Polski"
+msgstr "Angielski"
 
 msgctxt "MainNav/Settings/Debug/Language_es"
 msgid "Spanish"
