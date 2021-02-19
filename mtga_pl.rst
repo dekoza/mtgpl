@@ -4,7 +4,7 @@ Spolszczenie do gry Magic Arena
 UWAGA: Tłumaczenie jest w wersji mocno rozwojowej. Bardzo dużo kart jest już przetłumaczonych,
 ale dużo jeszcze brakuje. Proces przenoszenia tłumaczeń cały czas trwa. Pamiętaj też, że tłumaczenia
 mogą zwierać błędy - czasem istotnie zmieniające sens kart. Dołożyliśmy wszelkich starań, żeby wyeliminować
-takie przypadki, jednak mogą się one występować i nie możesz mieć do nas o to pretensji. Ten projekt
+takie przypadki, jednak mogą one występować i nie możesz mieć do nas o to pretensji. Ten projekt
 jest całkowicie hobbystyczny. Przed graniem jakiegoś ważnego turnieju lepiej przełącz się na oficjalnie wspierany język.
 
 Pobranie tłumaczenia
@@ -22,7 +22,7 @@ Pobranie tłumaczenia
    (za wyjątkiem pierwszych kilku komunikatów tuż po uruchomieniu gry, których z jakichś powodów nie da się przetłumaczyć). Druga opcja jest przeznaczona dla osób chcących pomóc
    przy tłumaczeniu programu. Nieprzetłumaczone teksty są tam zastąpione identyfikatorami pozwalającymi szybko znaleźć dany tekst w plikach językowych.
 9. Tak, nie ma (większości) polskich znaków. Niestety czcionka używana w grze zawiera póki co tylko litery "ł", "ó" oraz "ń". Pozostałe nie są w ogóle wyświetlane.
-   Jeśli możesz, `zagłosuj na prośbę dodania pozostałych polskich znaków <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/42713978-please-add-more-diacritics-to-ingame-font>`_.
+   Jeśli możesz, `wesprzyj prośbę dodania pozostałych polskich znaków <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/42713978-please-add-more-diacritics-to-ingame-font>`_.
    Jak tylko czcionka zostanie uzupełniona, pliki zostaną zaktualizowane.
 10. Miłej zabawy!
 
