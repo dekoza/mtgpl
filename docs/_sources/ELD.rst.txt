@@ -1215,7 +1215,7 @@
    |tap|: Add |mana_g| or |mana_u|.
 
 
-:mtgtip:`Oko, Thief of Crowns<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177|https://scryfall.com/card/eld/197/oko-thief-of-crowns?utm_source=api>`
+:mtgtip:`Oko, Thief of Crowns<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1613387000|https://scryfall.com/card/eld/197/oko-thief-of-crowns?utm_source=api>`
    +2: Create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
    +1: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3.
@@ -1523,7 +1523,7 @@
    When Idyllic Grange enters the battlefield untapped, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`Mystic Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/170e792c-80d5-4775-ad95-37614574ab84.jpg?1594662279|https://scryfall.com/card/eld/247/mystic-sanctuary?utm_source=api>`
+:mtgtip:`Mystic Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/170e792c-80d5-4775-ad95-37614574ab84.jpg?1613386906|https://scryfall.com/card/eld/247/mystic-sanctuary?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
    Mystic Sanctuary enters the battlefield tapped unless you control three or more other Islands.

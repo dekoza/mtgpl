@@ -5,7 +5,7 @@
 ============================
 
 
-:mtgtip:`Aerial Modification<https://img.scryfall.com/cards/border_crop/front/b/8/b89cab47-25fb-49ea-bb43-90a0089b6b20.jpg?1576381258|https://scryfall.com/card/aer/1/aerial-modification?utm_source=api>`
+:mtgtip:`Aerial Modification<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b89cab47-25fb-49ea-bb43-90a0089b6b20.jpg?1576381258|https://scryfall.com/card/aer/1/aerial-modification?utm_source=api>`
    Enchant creature or Vehicle
 
    As long as enchanted permanent is a Vehicle, it's a creature in addition to its other types.
@@ -13,13 +13,13 @@
    Enchanted creature gets +2/+2 and has flying.
 
 
-:mtgtip:`Aeronaut Admiral<https://img.scryfall.com/cards/border_crop/front/f/f/ff15c06c-160d-4960-92d5-6f8e7b33f051.jpg?1576381266|https://scryfall.com/card/aer/2/aeronaut-admiral?utm_source=api>`
+:mtgtip:`Aeronaut Admiral<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff15c06c-160d-4960-92d5-6f8e7b33f051.jpg?1576381266|https://scryfall.com/card/aer/2/aeronaut-admiral?utm_source=api>`
    Flying
 
    Vehicles you control have flying.
 
 
-:mtgtip:`Aether Inspector<https://img.scryfall.com/cards/border_crop/front/f/5/f5dcbe97-d582-464e-98e7-dd06d8652606.jpg?1576381273|https://scryfall.com/card/aer/3/aether-inspector?utm_source=api>`
+:mtgtip:`Aether Inspector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5dcbe97-d582-464e-98e7-dd06d8652606.jpg?1576381273|https://scryfall.com/card/aer/3/aether-inspector?utm_source=api>`
    Vigilance
 
    When Aether Inspector enters the battlefield, you get |energy|\ |energy| (two energy counters).
@@ -27,19 +27,19 @@
    Whenever Aether Inspector attacks, you may pay |energy|\ |energy|. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
-:mtgtip:`Aethergeode Miner<https://img.scryfall.com/cards/border_crop/front/8/0/80bb3abd-ebaf-4dc2-97eb-ed4a2b005177.jpg?1576381279|https://scryfall.com/card/aer/4/aethergeode-miner?utm_source=api>`
+:mtgtip:`Aethergeode Miner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80bb3abd-ebaf-4dc2-97eb-ed4a2b005177.jpg?1576381279|https://scryfall.com/card/aer/4/aethergeode-miner?utm_source=api>`
    Whenever Aethergeode Miner attacks, you get |energy|\ |energy| (two energy counters).
 
    Pay |energy|\ |energy|: Exile Aethergeode Miner, then return it to the battlefield under its owner's control.
 
 
-:mtgtip:`Airdrop Aeronauts<https://img.scryfall.com/cards/border_crop/front/4/9/49827a57-cf10-4a44-a1fd-ac611da39dc9.jpg?1576381286|https://scryfall.com/card/aer/5/airdrop-aeronauts?utm_source=api>`
+:mtgtip:`Airdrop Aeronauts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49827a57-cf10-4a44-a1fd-ac611da39dc9.jpg?1576381286|https://scryfall.com/card/aer/5/airdrop-aeronauts?utm_source=api>`
    Flying
 
    Revolt — When Airdrop Aeronauts enters the battlefield, if a permanent you controlled left the battlefield this turn, you gain 5 life.
 
 
-:mtgtip:`Alley Evasion<https://img.scryfall.com/cards/border_crop/front/b/c/bc10173d-25ff-4734-b8f2-84f94fe52b17.jpg?1576381293|https://scryfall.com/card/aer/6/alley-evasion?utm_source=api>`
+:mtgtip:`Alley Evasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc10173d-25ff-4734-b8f2-84f94fe52b17.jpg?1576381293|https://scryfall.com/card/aer/6/alley-evasion?utm_source=api>`
    Choose one —
 
    • Target creature you control gets +1/+2 until end of turn.
@@ -47,21 +47,21 @@
    • Return target creature you control to its owner's hand.
 
 
-:mtgtip:`Audacious Infiltrator<https://img.scryfall.com/cards/border_crop/front/3/6/36a348bb-cdc5-4e2a-933f-21f91faab891.jpg?1576381301|https://scryfall.com/card/aer/7/audacious-infiltrator?utm_source=api>`
+:mtgtip:`Audacious Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36a348bb-cdc5-4e2a-933f-21f91faab891.jpg?1576381301|https://scryfall.com/card/aer/7/audacious-infiltrator?utm_source=api>`
    Audacious Infiltrator can't be blocked by artifact creatures.
 
 
-:mtgtip:`Bastion Enforcer<https://img.scryfall.com/cards/border_crop/front/8/8/88b9c0f7-d49b-4d74-9038-44954054ce21.jpg?1576381312|https://scryfall.com/card/aer/8/bastion-enforcer?utm_source=api>`
+:mtgtip:`Bastion Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88b9c0f7-d49b-4d74-9038-44954054ce21.jpg?1576381312|https://scryfall.com/card/aer/8/bastion-enforcer?utm_source=api>`
    
 
 
-:mtgtip:`Call for Unity<https://img.scryfall.com/cards/border_crop/front/e/e/eeca4557-98aa-433b-a3ee-050e4a3e6d88.jpg?1576381320|https://scryfall.com/card/aer/9/call-for-unity?utm_source=api>`
+:mtgtip:`Call for Unity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eeca4557-98aa-433b-a3ee-050e4a3e6d88.jpg?1576381320|https://scryfall.com/card/aer/9/call-for-unity?utm_source=api>`
    Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a unity counter on Call for Unity.
 
    Creatures you control get +1/+1 for each unity counter on Call for Unity.
 
 
-:mtgtip:`Caught in the Brights<https://img.scryfall.com/cards/border_crop/front/4/d/4d5bea27-d825-4691-8ae0-c4831574ec53.jpg?1576381329|https://scryfall.com/card/aer/10/caught-in-the-brights?utm_source=api>`
+:mtgtip:`Caught in the Brights<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d5bea27-d825-4691-8ae0-c4831574ec53.jpg?1576381329|https://scryfall.com/card/aer/10/caught-in-the-brights?utm_source=api>`
    Enchant creature
 
    Enchanted creature can't attack or block.
@@ -69,11 +69,11 @@
    When a Vehicle you control attacks, exile enchanted creature.
 
 
-:mtgtip:`Consulate Crackdown<https://img.scryfall.com/cards/border_crop/front/0/2/02fb7a26-fbf0-4b91-847b-cfc46e01a342.jpg?1576381336|https://scryfall.com/card/aer/11/consulate-crackdown?utm_source=api>`
+:mtgtip:`Consulate Crackdown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02fb7a26-fbf0-4b91-847b-cfc46e01a342.jpg?1576381336|https://scryfall.com/card/aer/11/consulate-crackdown?utm_source=api>`
    When Consulate Crackdown enters the battlefield, exile all artifacts your opponents control until Consulate Crackdown leaves the battlefield.
 
 
-:mtgtip:`Conviction<https://img.scryfall.com/cards/border_crop/front/4/f/4f805e97-c28b-4780-b204-74514c0c47d2.jpg?1576381344|https://scryfall.com/card/aer/12/conviction?utm_source=api>`
+:mtgtip:`Conviction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f805e97-c28b-4780-b204-74514c0c47d2.jpg?1576381344|https://scryfall.com/card/aer/12/conviction?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+3.
@@ -81,69 +81,69 @@
    |mana_w|: Return Conviction to its owner's hand.
 
 
-:mtgtip:`Countless Gears Renegade<https://img.scryfall.com/cards/border_crop/front/c/2/c2d6f334-0040-42b1-9c72-362e4dcaa65e.jpg?1576381353|https://scryfall.com/card/aer/13/countless-gears-renegade?utm_source=api>`
+:mtgtip:`Countless Gears Renegade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2d6f334-0040-42b1-9c72-362e4dcaa65e.jpg?1576381353|https://scryfall.com/card/aer/13/countless-gears-renegade?utm_source=api>`
    Revolt — When Countless Gears Renegade enters the battlefield, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token.
 
 
-:mtgtip:`Dawnfeather Eagle<https://img.scryfall.com/cards/border_crop/front/f/7/f7113ddc-cb3c-46da-a6c7-2567bd0affa9.jpg?1576381360|https://scryfall.com/card/aer/14/dawnfeather-eagle?utm_source=api>`
+:mtgtip:`Dawnfeather Eagle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7113ddc-cb3c-46da-a6c7-2567bd0affa9.jpg?1576381360|https://scryfall.com/card/aer/14/dawnfeather-eagle?utm_source=api>`
    Flying
 
    When Dawnfeather Eagle enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.
 
 
-:mtgtip:`Deadeye Harpooner<https://img.scryfall.com/cards/border_crop/front/a/0/a018decf-25e1-45fc-be7d-2523dcfb7a4c.jpg?1576381367|https://scryfall.com/card/aer/15/deadeye-harpooner?utm_source=api>`
+:mtgtip:`Deadeye Harpooner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a018decf-25e1-45fc-be7d-2523dcfb7a4c.jpg?1576381367|https://scryfall.com/card/aer/15/deadeye-harpooner?utm_source=api>`
    Revolt — When Deadeye Harpooner enters the battlefield, if a permanent you controlled left the battlefield this turn, destroy target tapped creature an opponent controls.
 
 
-:mtgtip:`Decommission<https://img.scryfall.com/cards/border_crop/front/1/c/1cca66e9-be21-4fc7-8951-cd99e9b213dc.jpg?1576381374|https://scryfall.com/card/aer/16/decommission?utm_source=api>`
+:mtgtip:`Decommission<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1cca66e9-be21-4fc7-8951-cd99e9b213dc.jpg?1576381374|https://scryfall.com/card/aer/16/decommission?utm_source=api>`
    Destroy target artifact or enchantment.
 
    Revolt — If a permanent you controlled left the battlefield this turn, you gain 3 life.
 
 
-:mtgtip:`Deft Dismissal<https://img.scryfall.com/cards/border_crop/front/5/c/5cb26d5b-ffeb-4dac-ad61-f85e5e7b1675.jpg?1576381381|https://scryfall.com/card/aer/17/deft-dismissal?utm_source=api>`
+:mtgtip:`Deft Dismissal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb26d5b-ffeb-4dac-ad61-f85e5e7b1675.jpg?1576381381|https://scryfall.com/card/aer/17/deft-dismissal?utm_source=api>`
    Deft Dismissal deals 3 damage divided as you choose among one, two, or three target attacking or blocking creatures.
 
 
-:mtgtip:`Exquisite Archangel<https://img.scryfall.com/cards/border_crop/front/d/0/d04018c9-510c-4610-9daa-677434628805.jpg?1576381389|https://scryfall.com/card/aer/18/exquisite-archangel?utm_source=api>`
+:mtgtip:`Exquisite Archangel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d04018c9-510c-4610-9daa-677434628805.jpg?1576381389|https://scryfall.com/card/aer/18/exquisite-archangel?utm_source=api>`
    Flying
 
    If you would lose the game, instead exile Exquisite Archangel and your life total becomes equal to your starting life total.
 
 
-:mtgtip:`Felidar Guardian<https://img.scryfall.com/cards/border_crop/front/4/4/44bdbed8-5d21-4bf5-8a32-9623b1139c85.jpg?1576381396|https://scryfall.com/card/aer/19/felidar-guardian?utm_source=api>`
+:mtgtip:`Felidar Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44bdbed8-5d21-4bf5-8a32-9623b1139c85.jpg?1576381396|https://scryfall.com/card/aer/19/felidar-guardian?utm_source=api>`
    When Felidar Guardian enters the battlefield, you may exile another target permanent you control, then return that card to the battlefield under its owner's control.
 
 
-:mtgtip:`Ghirapur Osprey<https://img.scryfall.com/cards/border_crop/front/2/1/2186f382-2d68-4191-b490-a072f49eaabf.jpg?1576381402|https://scryfall.com/card/aer/20/ghirapur-osprey?utm_source=api>`
+:mtgtip:`Ghirapur Osprey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/2186f382-2d68-4191-b490-a072f49eaabf.jpg?1576381402|https://scryfall.com/card/aer/20/ghirapur-osprey?utm_source=api>`
    Flying
 
 
-:mtgtip:`Restoration Specialist<https://img.scryfall.com/cards/border_crop/front/6/3/63682db3-1a56-4d8e-a9b7-04465a577518.jpg?1576381409|https://scryfall.com/card/aer/21/restoration-specialist?utm_source=api>`
+:mtgtip:`Restoration Specialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63682db3-1a56-4d8e-a9b7-04465a577518.jpg?1576381409|https://scryfall.com/card/aer/21/restoration-specialist?utm_source=api>`
    |mana_w|, Sacrifice Restoration Specialist: Return up to one target artifact card and up to one target enchantment card from your graveyard to your hand.
 
 
-:mtgtip:`Solemn Recruit<https://img.scryfall.com/cards/border_crop/front/5/9/5990c2f1-94d7-4d2e-b1ad-6406c25b91aa.jpg?1576381416|https://scryfall.com/card/aer/22/solemn-recruit?utm_source=api>`
+:mtgtip:`Solemn Recruit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/5990c2f1-94d7-4d2e-b1ad-6406c25b91aa.jpg?1576381416|https://scryfall.com/card/aer/22/solemn-recruit?utm_source=api>`
    Double strike
 
    Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on Solemn Recruit.
 
 
-:mtgtip:`Sram, Senior Edificer<https://img.scryfall.com/cards/border_crop/front/1/b/1b323e2c-59dd-4d70-9a48-b10f807bb818.jpg?1576381423|https://scryfall.com/card/aer/23/sram-senior-edificer?utm_source=api>`
+:mtgtip:`Sram, Senior Edificer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b323e2c-59dd-4d70-9a48-b10f807bb818.jpg?1576381423|https://scryfall.com/card/aer/23/sram-senior-edificer?utm_source=api>`
    Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.
 
 
-:mtgtip:`Sram's Expertise<https://img.scryfall.com/cards/border_crop/front/7/c/7c6d47b0-4c19-4c19-9e21-54cd87a5e34d.jpg?1576381430|https://scryfall.com/card/aer/24/srams-expertise?utm_source=api>`
+:mtgtip:`Sram's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c6d47b0-4c19-4c19-9e21-54cd87a5e34d.jpg?1576381430|https://scryfall.com/card/aer/24/srams-expertise?utm_source=api>`
    Create three 1/1 colorless Servo artifact creature tokens.
 
-   You may cast a card with converted mana cost 3 or less from your hand without paying its mana cost.
+   You may cast a spell with converted mana cost 3 or less from your hand without paying its mana cost.
 
 
-:mtgtip:`Thopter Arrest<https://img.scryfall.com/cards/border_crop/front/a/4/a4e738cb-e4ea-41c2-99a1-55b6167eccb0.jpg?1576381436|https://scryfall.com/card/aer/25/thopter-arrest?utm_source=api>`
+:mtgtip:`Thopter Arrest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4e738cb-e4ea-41c2-99a1-55b6167eccb0.jpg?1576381436|https://scryfall.com/card/aer/25/thopter-arrest?utm_source=api>`
    When Thopter Arrest enters the battlefield, exile target artifact or creature an opponent controls until Thopter Arrest leaves the battlefield.
 
 
-:mtgtip:`Aether Swooper<https://img.scryfall.com/cards/border_crop/front/8/c/8c34dbe3-3a66-40b3-a5c2-c2d6acb47773.jpg?1576381441|https://scryfall.com/card/aer/26/aether-swooper?utm_source=api>`
+:mtgtip:`Aether Swooper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c34dbe3-3a66-40b3-a5c2-c2d6acb47773.jpg?1576381441|https://scryfall.com/card/aer/26/aether-swooper?utm_source=api>`
    Flying
 
    When Aether Swooper enters the battlefield, you get |energy|\ |energy| (two energy counters).
@@ -151,7 +151,7 @@
    Whenever Aether Swooper attacks, you may pay |energy|\ |energy|. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
-:mtgtip:`Aethertide Whale<https://img.scryfall.com/cards/border_crop/front/3/8/38722c25-13a7-47af-a4cd-90722f289499.jpg?1576381449|https://scryfall.com/card/aer/27/aethertide-whale?utm_source=api>`
+:mtgtip:`Aethertide Whale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38722c25-13a7-47af-a4cd-90722f289499.jpg?1576381449|https://scryfall.com/card/aer/27/aethertide-whale?utm_source=api>`
    Flying
 
    When Aethertide Whale enters the battlefield, you get |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy| (six energy counters).
@@ -159,91 +159,91 @@
    Pay |energy|\ |energy|\ |energy|\ |energy|: Return Aethertide Whale to its owner's hand.
 
 
-:mtgtip:`Baral, Chief of Compliance<https://img.scryfall.com/cards/border_crop/front/6/0/60e16d94-1166-4050-8554-686e153a7f80.jpg?1576381454|https://scryfall.com/card/aer/28/baral-chief-of-compliance?utm_source=api>`
+:mtgtip:`Baral, Chief of Compliance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60e16d94-1166-4050-8554-686e153a7f80.jpg?1576381454|https://scryfall.com/card/aer/28/baral-chief-of-compliance?utm_source=api>`
    Instant and sorcery spells you cast cost |mana_1| less to cast.
 
    Whenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card.
 
 
-:mtgtip:`Baral's Expertise<https://img.scryfall.com/cards/border_crop/front/d/2/d273f5b7-b3a3-485a-acc8-34e10a504646.jpg?1576381459|https://scryfall.com/card/aer/29/barals-expertise?utm_source=api>`
+:mtgtip:`Baral's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d273f5b7-b3a3-485a-acc8-34e10a504646.jpg?1576381459|https://scryfall.com/card/aer/29/barals-expertise?utm_source=api>`
    Return up to three target artifacts and/or creatures to their owners' hands.
 
-   You may cast a card with converted mana cost 4 or less from your hand without paying its mana cost.
+   You may cast a spell with converted mana cost 4 or less from your hand without paying its mana cost.
 
 
-:mtgtip:`Bastion Inventor<https://img.scryfall.com/cards/border_crop/front/8/5/856f804d-0213-4b86-bc6a-6a0a1147c4f9.jpg?1576381465|https://scryfall.com/card/aer/30/bastion-inventor?utm_source=api>`
+:mtgtip:`Bastion Inventor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/856f804d-0213-4b86-bc6a-6a0a1147c4f9.jpg?1576381465|https://scryfall.com/card/aer/30/bastion-inventor?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 
 
-:mtgtip:`Disallow<https://img.scryfall.com/cards/border_crop/front/2/5/25f05814-a5a5-460f-9d29-0ab03efecf4c.jpg?1576381471|https://scryfall.com/card/aer/31/disallow?utm_source=api>`
+:mtgtip:`Disallow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25f05814-a5a5-460f-9d29-0ab03efecf4c.jpg?1576381471|https://scryfall.com/card/aer/31/disallow?utm_source=api>`
    Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)
 
 
-:mtgtip:`Dispersal Technician<https://img.scryfall.com/cards/border_crop/front/5/d/5d93a915-ffea-4f50-88ac-2b3253f7dfdf.jpg?1576381476|https://scryfall.com/card/aer/32/dispersal-technician?utm_source=api>`
+:mtgtip:`Dispersal Technician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d93a915-ffea-4f50-88ac-2b3253f7dfdf.jpg?1576381476|https://scryfall.com/card/aer/32/dispersal-technician?utm_source=api>`
    When Dispersal Technician enters the battlefield, you may return target artifact to its owner's hand.
 
 
-:mtgtip:`Efficient Construction<https://img.scryfall.com/cards/border_crop/front/a/b/abfbe1d5-beb7-49b8-a504-f1cc47ee4731.jpg?1576381482|https://scryfall.com/card/aer/33/efficient-construction?utm_source=api>`
+:mtgtip:`Efficient Construction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abfbe1d5-beb7-49b8-a504-f1cc47ee4731.jpg?1576381482|https://scryfall.com/card/aer/33/efficient-construction?utm_source=api>`
    Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
 
 
-:mtgtip:`Hinterland Drake<https://img.scryfall.com/cards/border_crop/front/4/1/418448d0-3e8d-4581-b598-696165775d23.jpg?1576381488|https://scryfall.com/card/aer/34/hinterland-drake?utm_source=api>`
+:mtgtip:`Hinterland Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/418448d0-3e8d-4581-b598-696165775d23.jpg?1576381488|https://scryfall.com/card/aer/34/hinterland-drake?utm_source=api>`
    Flying
 
    Hinterland Drake can't block artifact creatures.
 
 
-:mtgtip:`Ice Over<https://img.scryfall.com/cards/border_crop/front/c/0/c01d2835-060c-4ac3-b586-84811878a64d.jpg?1576381494|https://scryfall.com/card/aer/35/ice-over?utm_source=api>`
+:mtgtip:`Ice Over<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c01d2835-060c-4ac3-b586-84811878a64d.jpg?1576381494|https://scryfall.com/card/aer/35/ice-over?utm_source=api>`
    Enchant artifact or creature
 
    Enchanted permanent doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Illusionist's Stratagem<https://img.scryfall.com/cards/border_crop/front/a/7/a7eede83-6f1b-4054-b01c-0da17b197bad.jpg?1576381501|https://scryfall.com/card/aer/36/illusionists-stratagem?utm_source=api>`
+:mtgtip:`Illusionist's Stratagem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7eede83-6f1b-4054-b01c-0da17b197bad.jpg?1576381501|https://scryfall.com/card/aer/36/illusionists-stratagem?utm_source=api>`
    Exile up to two target creatures you control, then return those cards to the battlefield under their owner's control.
 
    Draw a card.
 
 
-:mtgtip:`Leave in the Dust<https://img.scryfall.com/cards/border_crop/front/3/c/3c01bd77-beb0-4a26-858d-022311e550bf.jpg?1576381508|https://scryfall.com/card/aer/37/leave-in-the-dust?utm_source=api>`
+:mtgtip:`Leave in the Dust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c01bd77-beb0-4a26-858d-022311e550bf.jpg?1576381508|https://scryfall.com/card/aer/37/leave-in-the-dust?utm_source=api>`
    Return target nonland permanent to its owner's hand.
 
    Draw a card.
 
 
-:mtgtip:`Mechanized Production<https://img.scryfall.com/cards/border_crop/front/2/3/235dd8f1-215a-4b0a-9e94-0d0d5a3c730b.jpg?1576381513|https://scryfall.com/card/aer/38/mechanized-production?utm_source=api>`
+:mtgtip:`Mechanized Production<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/235dd8f1-215a-4b0a-9e94-0d0d5a3c730b.jpg?1576381513|https://scryfall.com/card/aer/38/mechanized-production?utm_source=api>`
    Enchant artifact you control
 
    At the beginning of your upkeep, create a token that's a copy of enchanted artifact. Then if you control eight or more artifacts with the same name as one another, you win the game.
 
 
-:mtgtip:`Metallic Rebuke<https://img.scryfall.com/cards/border_crop/front/f/7/f712ac26-dca4-459b-84c1-010597007f60.jpg?1576381519|https://scryfall.com/card/aer/39/metallic-rebuke?utm_source=api>`
+:mtgtip:`Metallic Rebuke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f712ac26-dca4-459b-84c1-010597007f60.jpg?1576381519|https://scryfall.com/card/aer/39/metallic-rebuke?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Counter target spell unless its controller pays |mana_3|.
 
 
-:mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/front/c/b/cb142515-0856-441d-84d4-9c9d450a86e9.jpg?1576381530|https://scryfall.com/card/aer/40/negate?utm_source=api>`
+:mtgtip:`Negate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb142515-0856-441d-84d4-9c9d450a86e9.jpg?1576381530|https://scryfall.com/card/aer/40/negate?utm_source=api>`
    Counter target noncreature spell.
 
 
-:mtgtip:`Quicksmith Spy<https://img.scryfall.com/cards/border_crop/front/0/f/0f922e87-1744-4966-9e3a-54917f7f3d9e.jpg?1576381538|https://scryfall.com/card/aer/41/quicksmith-spy?utm_source=api>`
+:mtgtip:`Quicksmith Spy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f922e87-1744-4966-9e3a-54917f7f3d9e.jpg?1576381538|https://scryfall.com/card/aer/41/quicksmith-spy?utm_source=api>`
    When Quicksmith Spy enters the battlefield, target artifact you control gains "|tap|: Draw a card" for as long as you control Quicksmith Spy.
 
 
-:mtgtip:`Reverse Engineer<https://img.scryfall.com/cards/border_crop/front/d/5/d56f8cca-6b8f-45ea-926f-161938716ee9.jpg?1576381545|https://scryfall.com/card/aer/42/reverse-engineer?utm_source=api>`
+:mtgtip:`Reverse Engineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d56f8cca-6b8f-45ea-926f-161938716ee9.jpg?1576381545|https://scryfall.com/card/aer/42/reverse-engineer?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Draw three cards.
 
 
-:mtgtip:`Salvage Scuttler<https://img.scryfall.com/cards/border_crop/front/4/8/480be626-cf37-410d-a9c7-e5464345085f.jpg?1576381551|https://scryfall.com/card/aer/43/salvage-scuttler?utm_source=api>`
+:mtgtip:`Salvage Scuttler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/480be626-cf37-410d-a9c7-e5464345085f.jpg?1576381551|https://scryfall.com/card/aer/43/salvage-scuttler?utm_source=api>`
    Whenever Salvage Scuttler attacks, return an artifact you control to its owner's hand.
 
 
-:mtgtip:`Shielded Aether Thief<https://img.scryfall.com/cards/border_crop/front/e/3/e34be31b-eeb4-40e5-acf7-6cd0ba6d4bcf.jpg?1576381558|https://scryfall.com/card/aer/44/shielded-aether-thief?utm_source=api>`
+:mtgtip:`Shielded Aether Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e34be31b-eeb4-40e5-acf7-6cd0ba6d4bcf.jpg?1576381558|https://scryfall.com/card/aer/44/shielded-aether-thief?utm_source=api>`
    Flash (You may cast this spell any time you could cast an instant.)
 
    Whenever Shielded Aether Thief blocks, you get |energy| (an energy counter).
@@ -251,39 +251,39 @@
    |tap|, Pay |energy|\ |energy|\ |energy|: Draw a card.
 
 
-:mtgtip:`Shipwreck Moray<https://img.scryfall.com/cards/border_crop/front/2/8/284c6de3-4e09-40d9-afdb-89ff08e1844b.jpg?1576381563|https://scryfall.com/card/aer/45/shipwreck-moray?utm_source=api>`
+:mtgtip:`Shipwreck Moray<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/284c6de3-4e09-40d9-afdb-89ff08e1844b.jpg?1576381563|https://scryfall.com/card/aer/45/shipwreck-moray?utm_source=api>`
    When Shipwreck Moray enters the battlefield, you get |energy|\ |energy|\ |energy|\ |energy| (four energy counters).
 
    Pay |energy|: Shipwreck Moray gets +2/-2 until end of turn.
 
 
-:mtgtip:`Skyship Plunderer<https://img.scryfall.com/cards/border_crop/front/1/f/1fedbc91-67e4-40d6-b307-7e6197f47c6e.jpg?1576381570|https://scryfall.com/card/aer/46/skyship-plunderer?utm_source=api>`
+:mtgtip:`Skyship Plunderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fedbc91-67e4-40d6-b307-7e6197f47c6e.jpg?1576381570|https://scryfall.com/card/aer/46/skyship-plunderer?utm_source=api>`
    Flying
 
    Whenever Skyship Plunderer deals combat damage to a player, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.
 
 
-:mtgtip:`Take into Custody<https://img.scryfall.com/cards/border_crop/front/b/4/b412718a-7bc7-4b16-af60-1b955c820b0f.jpg?1576381577|https://scryfall.com/card/aer/47/take-into-custody?utm_source=api>`
+:mtgtip:`Take into Custody<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b412718a-7bc7-4b16-af60-1b955c820b0f.jpg?1576381577|https://scryfall.com/card/aer/47/take-into-custody?utm_source=api>`
    Tap target creature. It doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`Trophy Mage<https://img.scryfall.com/cards/border_crop/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.jpg?1576381584|https://scryfall.com/card/aer/48/trophy-mage?utm_source=api>`
+:mtgtip:`Trophy Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.jpg?1576381584|https://scryfall.com/card/aer/48/trophy-mage?utm_source=api>`
    When Trophy Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 3, reveal it, put it into your hand, then shuffle your library.
 
 
-:mtgtip:`Whir of Invention<https://img.scryfall.com/cards/border_crop/front/0/2/0279fd3c-9252-4958-9d7a-5f33aa25907e.jpg?1576381590|https://scryfall.com/card/aer/49/whir-of-invention?utm_source=api>`
+:mtgtip:`Whir of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0279fd3c-9252-4958-9d7a-5f33aa25907e.jpg?1576381590|https://scryfall.com/card/aer/49/whir-of-invention?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Search your library for an artifact card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.
 
 
-:mtgtip:`Wind-Kin Raiders<https://img.scryfall.com/cards/border_crop/front/f/b/fbfaa040-61fd-4705-a7ee-c67b49f740e3.jpg?1576381595|https://scryfall.com/card/aer/50/wind-kin-raiders?utm_source=api>`
+:mtgtip:`Wind-Kin Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fbfaa040-61fd-4705-a7ee-c67b49f740e3.jpg?1576381595|https://scryfall.com/card/aer/50/wind-kin-raiders?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Flying
 
 
-:mtgtip:`Aether Poisoner<https://img.scryfall.com/cards/border_crop/front/c/9/c9b217f1-1621-40d1-8a98-24c1f7cba800.jpg?1576381601|https://scryfall.com/card/aer/51/aether-poisoner?utm_source=api>`
+:mtgtip:`Aether Poisoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9b217f1-1621-40d1-8a98-24c1f7cba800.jpg?1576381601|https://scryfall.com/card/aer/51/aether-poisoner?utm_source=api>`
    Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 
    When Aether Poisoner enters the battlefield, you get |energy|\ |energy| (two energy counters).
@@ -291,55 +291,55 @@
    Whenever Aether Poisoner attacks, you may pay |energy|\ |energy|. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
-:mtgtip:`Alley Strangler<https://img.scryfall.com/cards/border_crop/front/a/1/a131d558-5f6b-448b-a378-1882e2d02bd2.jpg?1576381609|https://scryfall.com/card/aer/52/alley-strangler?utm_source=api>`
+:mtgtip:`Alley Strangler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a131d558-5f6b-448b-a378-1882e2d02bd2.jpg?1576381609|https://scryfall.com/card/aer/52/alley-strangler?utm_source=api>`
    Menace
 
 
-:mtgtip:`Battle at the Bridge<https://img.scryfall.com/cards/border_crop/front/7/4/74d8b644-4cca-451e-a46c-5237c13bf373.jpg?1576381615|https://scryfall.com/card/aer/53/battle-at-the-bridge?utm_source=api>`
+:mtgtip:`Battle at the Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74d8b644-4cca-451e-a46c-5237c13bf373.jpg?1576381615|https://scryfall.com/card/aer/53/battle-at-the-bridge?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Target creature gets -X/-X until end of turn. You gain X life.
 
 
-:mtgtip:`Cruel Finality<https://img.scryfall.com/cards/border_crop/front/5/c/5c22e911-cf40-4ed8-b075-186f2b1393db.jpg?1576381620|https://scryfall.com/card/aer/54/cruel-finality?utm_source=api>`
+:mtgtip:`Cruel Finality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c22e911-cf40-4ed8-b075-186f2b1393db.jpg?1576381620|https://scryfall.com/card/aer/54/cruel-finality?utm_source=api>`
    Target creature gets -2/-2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-:mtgtip:`Daring Demolition<https://img.scryfall.com/cards/border_crop/front/a/6/a6378898-50b7-47c9-8c25-dc660606be9f.jpg?1576381626|https://scryfall.com/card/aer/55/daring-demolition?utm_source=api>`
+:mtgtip:`Daring Demolition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6378898-50b7-47c9-8c25-dc660606be9f.jpg?1576381626|https://scryfall.com/card/aer/55/daring-demolition?utm_source=api>`
    Destroy target creature or Vehicle.
 
 
-:mtgtip:`Defiant Salvager<https://img.scryfall.com/cards/border_crop/front/0/a/0afbfb2c-3f1a-4ef9-9f61-6ca51af853d8.jpg?1576381632|https://scryfall.com/card/aer/56/defiant-salvager?utm_source=api>`
+:mtgtip:`Defiant Salvager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0afbfb2c-3f1a-4ef9-9f61-6ca51af853d8.jpg?1576381632|https://scryfall.com/card/aer/56/defiant-salvager?utm_source=api>`
    Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery.
 
 
-:mtgtip:`Fatal Push<https://img.scryfall.com/cards/border_crop/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1576381639|https://scryfall.com/card/aer/57/fatal-push?utm_source=api>`
+:mtgtip:`Fatal Push<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1595869185|https://scryfall.com/card/aer/57/fatal-push?utm_source=api>`
    Destroy target creature if it has converted mana cost 2 or less.
 
    Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn.
 
 
-:mtgtip:`Fen Hauler<https://img.scryfall.com/cards/border_crop/front/b/5/b5ef4616-e3c2-4448-83b1-f7d439705eaf.jpg?1576381648|https://scryfall.com/card/aer/58/fen-hauler?utm_source=api>`
+:mtgtip:`Fen Hauler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5ef4616-e3c2-4448-83b1-f7d439705eaf.jpg?1576381648|https://scryfall.com/card/aer/58/fen-hauler?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Fen Hauler can't be blocked by artifact creatures.
 
 
-:mtgtip:`Foundry Hornet<https://img.scryfall.com/cards/border_crop/front/f/6/f6dc7865-16ed-4d12-bdb4-d40fbdd48a23.jpg?1576381654|https://scryfall.com/card/aer/59/foundry-hornet?utm_source=api>`
+:mtgtip:`Foundry Hornet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6dc7865-16ed-4d12-bdb4-d40fbdd48a23.jpg?1576381654|https://scryfall.com/card/aer/59/foundry-hornet?utm_source=api>`
    Flying
 
    When Foundry Hornet enters the battlefield, if you control a creature with a +1/+1 counter on it, creatures your opponents control get -1/-1 until end of turn.
 
 
-:mtgtip:`Fourth Bridge Prowler<https://img.scryfall.com/cards/border_crop/front/7/3/73aaaa09-c985-42f8-b426-06fd3b8de66d.jpg?1576381661|https://scryfall.com/card/aer/60/fourth-bridge-prowler?utm_source=api>`
+:mtgtip:`Fourth Bridge Prowler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73aaaa09-c985-42f8-b426-06fd3b8de66d.jpg?1576381661|https://scryfall.com/card/aer/60/fourth-bridge-prowler?utm_source=api>`
    When Fourth Bridge Prowler enters the battlefield, you may have target creature get -1/-1 until end of turn.
 
 
-:mtgtip:`Gifted Aetherborn<https://img.scryfall.com/cards/border_crop/front/a/b/abceb4fd-e3c5-400d-af7a-6dd17108a4b4.jpg?1576381667|https://scryfall.com/card/aer/61/gifted-aetherborn?utm_source=api>`
+:mtgtip:`Gifted Aetherborn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abceb4fd-e3c5-400d-af7a-6dd17108a4b4.jpg?1576381667|https://scryfall.com/card/aer/61/gifted-aetherborn?utm_source=api>`
    Deathtouch, lifelink
 
 
-:mtgtip:`Glint-Sleeve Siphoner<https://img.scryfall.com/cards/border_crop/front/3/1/315976db-4cab-4393-8386-ce3b0ae3f490.jpg?1576381673|https://scryfall.com/card/aer/62/glint-sleeve-siphoner?utm_source=api>`
+:mtgtip:`Glint-Sleeve Siphoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/315976db-4cab-4393-8386-ce3b0ae3f490.jpg?1576381673|https://scryfall.com/card/aer/62/glint-sleeve-siphoner?utm_source=api>`
    Menace
 
    Whenever Glint-Sleeve Siphoner enters the battlefield or attacks, you get |energy| (an energy counter).
@@ -347,13 +347,13 @@
    At the beginning of your upkeep, you may pay |energy|\ |energy|. If you do, you draw a card and you lose 1 life.
 
 
-:mtgtip:`Gonti's Machinations<https://img.scryfall.com/cards/border_crop/front/6/c/6c97f5a9-6e04-45c3-aa8d-dcf0fd81d5b9.jpg?1576381678|https://scryfall.com/card/aer/63/gontis-machinations?utm_source=api>`
+:mtgtip:`Gonti's Machinations<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c97f5a9-6e04-45c3-aa8d-dcf0fd81d5b9.jpg?1576381678|https://scryfall.com/card/aer/63/gontis-machinations?utm_source=api>`
    Whenever you lose life for the first time each turn, you get |energy|. (You get an energy counter. Damage causes loss of life.)
 
    Pay |energy|\ |energy|, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You gain life equal to the life lost this way.
 
 
-:mtgtip:`Herald of Anguish<https://img.scryfall.com/cards/border_crop/front/3/1/31a69ebe-4229-4067-8414-381b123fe63c.jpg?1576381686|https://scryfall.com/card/aer/64/herald-of-anguish?utm_source=api>`
+:mtgtip:`Herald of Anguish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31a69ebe-4229-4067-8414-381b123fe63c.jpg?1576381686|https://scryfall.com/card/aer/64/herald-of-anguish?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Flying
@@ -363,49 +363,49 @@
    |mana_1|\ |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.
 
 
-:mtgtip:`Ironclad Revolutionary<https://img.scryfall.com/cards/border_crop/front/4/3/43a5535b-b1d1-4648-aa72-4f64e9fcd95d.jpg?1576381694|https://scryfall.com/card/aer/65/ironclad-revolutionary?utm_source=api>`
+:mtgtip:`Ironclad Revolutionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43a5535b-b1d1-4648-aa72-4f64e9fcd95d.jpg?1576381694|https://scryfall.com/card/aer/65/ironclad-revolutionary?utm_source=api>`
    When Ironclad Revolutionary enters the battlefield, you may sacrifice an artifact. If you do, put two +1/+1 counters on Ironclad Revolutionary and each opponent loses 2 life.
 
 
-:mtgtip:`Midnight Entourage<https://img.scryfall.com/cards/border_crop/front/2/8/2838c6dd-d816-4363-a861-f2f8052d1430.jpg?1576381699|https://scryfall.com/card/aer/66/midnight-entourage?utm_source=api>`
+:mtgtip:`Midnight Entourage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2838c6dd-d816-4363-a861-f2f8052d1430.jpg?1576381699|https://scryfall.com/card/aer/66/midnight-entourage?utm_source=api>`
    Other Aetherborn you control get +1/+1.
 
    Whenever Midnight Entourage or another Aetherborn you control dies, you draw a card and you lose 1 life.
 
 
-:mtgtip:`Night Market Aeronaut<https://img.scryfall.com/cards/border_crop/front/2/6/2637f860-01dd-4559-97b3-71c2e7cdbca4.jpg?1576381705|https://scryfall.com/card/aer/67/night-market-aeronaut?utm_source=api>`
+:mtgtip:`Night Market Aeronaut<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2637f860-01dd-4559-97b3-71c2e7cdbca4.jpg?1576381705|https://scryfall.com/card/aer/67/night-market-aeronaut?utm_source=api>`
    Flying
 
    Revolt — Night Market Aeronaut enters the battlefield with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.
 
 
-:mtgtip:`Perilous Predicament<https://img.scryfall.com/cards/border_crop/front/f/0/f0edc708-0c76-4fcd-a175-d9c6f1ca3ac1.jpg?1576381711|https://scryfall.com/card/aer/68/perilous-predicament?utm_source=api>`
+:mtgtip:`Perilous Predicament<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0edc708-0c76-4fcd-a175-d9c6f1ca3ac1.jpg?1576381711|https://scryfall.com/card/aer/68/perilous-predicament?utm_source=api>`
    Each opponent sacrifices an artifact creature and a nonartifact creature.
 
 
-:mtgtip:`Renegade's Getaway<https://img.scryfall.com/cards/border_crop/front/4/9/49b0a5d5-99d7-492b-bd85-77c3cee12c8d.jpg?1576381717|https://scryfall.com/card/aer/69/renegades-getaway?utm_source=api>`
+:mtgtip:`Renegade's Getaway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49b0a5d5-99d7-492b-bd85-77c3cee12c8d.jpg?1576381717|https://scryfall.com/card/aer/69/renegades-getaway?utm_source=api>`
    Target permanent gains indestructible until end of turn. Create a 1/1 colorless Servo artifact creature token. (Effects that say "destroy" don't destroy a permanent with indestructible, and if it's a creature, it can't be destroyed by damage.)
 
 
-:mtgtip:`Resourceful Return<https://img.scryfall.com/cards/border_crop/front/3/2/32f57d0b-ab6a-4074-885d-678659729b8a.jpg?1576381722|https://scryfall.com/card/aer/70/resourceful-return?utm_source=api>`
+:mtgtip:`Resourceful Return<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32f57d0b-ab6a-4074-885d-678659729b8a.jpg?1576381722|https://scryfall.com/card/aer/70/resourceful-return?utm_source=api>`
    Return target creature card from your graveyard to your hand. If you control an artifact, draw a card.
 
 
-:mtgtip:`Secret Salvage<https://img.scryfall.com/cards/border_crop/front/d/9/d9b9f3e2-b5e8-4234-aaf3-5f1938a20c78.jpg?1576381728|https://scryfall.com/card/aer/71/secret-salvage?utm_source=api>`
+:mtgtip:`Secret Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9b9f3e2-b5e8-4234-aaf3-5f1938a20c78.jpg?1576381728|https://scryfall.com/card/aer/71/secret-salvage?utm_source=api>`
    Exile target nonland card from your graveyard. Search your library for any number of cards with the same name as that card, reveal them, and put them into your hand. Then shuffle your library.
 
 
-:mtgtip:`Sly Requisitioner<https://img.scryfall.com/cards/border_crop/front/c/2/c2d05324-6d85-40da-a087-b5822bc8f42e.jpg?1576381733|https://scryfall.com/card/aer/72/sly-requisitioner?utm_source=api>`
+:mtgtip:`Sly Requisitioner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2d05324-6d85-40da-a087-b5822bc8f42e.jpg?1576381733|https://scryfall.com/card/aer/72/sly-requisitioner?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Whenever a nontoken artifact you control is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.
 
 
-:mtgtip:`Vengeful Rebel<https://img.scryfall.com/cards/border_crop/front/6/e/6e34edfc-77fc-43b5-bad6-1c4c2a76c8c3.jpg?1576381739|https://scryfall.com/card/aer/73/vengeful-rebel?utm_source=api>`
+:mtgtip:`Vengeful Rebel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e34edfc-77fc-43b5-bad6-1c4c2a76c8c3.jpg?1576381739|https://scryfall.com/card/aer/73/vengeful-rebel?utm_source=api>`
    Revolt — When Vengeful Rebel enters the battlefield, if a permanent you controlled left the battlefield this turn, target creature an opponent controls gets -3/-3 until end of turn.
 
 
-:mtgtip:`Yahenni, Undying Partisan<https://img.scryfall.com/cards/border_crop/front/c/3/c37e2466-57c3-453f-aebe-340995f2eca7.jpg?1576381745|https://scryfall.com/card/aer/74/yahenni-undying-partisan?utm_source=api>`
+:mtgtip:`Yahenni, Undying Partisan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c37e2466-57c3-453f-aebe-340995f2eca7.jpg?1576381745|https://scryfall.com/card/aer/74/yahenni-undying-partisan?utm_source=api>`
    Haste
 
    Whenever a creature an opponent controls dies, put a +1/+1 counter on Yahenni, Undying Partisan.
@@ -413,13 +413,13 @@
    Sacrifice another creature: Yahenni gains indestructible until end of turn.
 
 
-:mtgtip:`Yahenni's Expertise<https://img.scryfall.com/cards/border_crop/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1576381752|https://scryfall.com/card/aer/75/yahennis-expertise?utm_source=api>`
+:mtgtip:`Yahenni's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1576381752|https://scryfall.com/card/aer/75/yahennis-expertise?utm_source=api>`
    All creatures get -3/-3 until end of turn.
 
-   You may cast a card with converted mana cost 3 or less from your hand without paying its mana cost.
+   You may cast a spell with converted mana cost 3 or less from your hand without paying its mana cost.
 
 
-:mtgtip:`Aether Chaser<https://img.scryfall.com/cards/border_crop/front/2/9/290cde84-d97a-4737-aff2-c443a4e43f7d.jpg?1576381759|https://scryfall.com/card/aer/76/aether-chaser?utm_source=api>`
+:mtgtip:`Aether Chaser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/290cde84-d97a-4737-aff2-c443a4e43f7d.jpg?1576381759|https://scryfall.com/card/aer/76/aether-chaser?utm_source=api>`
    First strike
 
    When Aether Chaser enters the battlefield, you get |energy|\ |energy| (two energy counters).
@@ -427,11 +427,11 @@
    Whenever Aether Chaser attacks, you may pay |energy|\ |energy|. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
-:mtgtip:`Chandra's Revolution<https://img.scryfall.com/cards/border_crop/front/2/f/2fcee99c-72a0-4db1-b4c9-65c878284450.jpg?1576381766|https://scryfall.com/card/aer/77/chandras-revolution?utm_source=api>`
+:mtgtip:`Chandra's Revolution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fcee99c-72a0-4db1-b4c9-65c878284450.jpg?1576381766|https://scryfall.com/card/aer/77/chandras-revolution?utm_source=api>`
    Chandra's Revolution deals 4 damage to target creature. Tap target land. That land doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`Destructive Tampering<https://img.scryfall.com/cards/border_crop/front/0/0/00154b70-57d2-4c32-860f-1c36fc49b10c.jpg?1576381772|https://scryfall.com/card/aer/78/destructive-tampering?utm_source=api>`
+:mtgtip:`Destructive Tampering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00154b70-57d2-4c32-860f-1c36fc49b10c.jpg?1576381772|https://scryfall.com/card/aer/78/destructive-tampering?utm_source=api>`
    Choose one —
 
    • Destroy target artifact.
@@ -439,17 +439,17 @@
    • Creatures without flying can't block this turn.
 
 
-:mtgtip:`Embraal Gear-Smasher<https://img.scryfall.com/cards/border_crop/front/3/a/3ad5c175-581c-4fdd-b008-e7d10b0928c7.jpg?1576381778|https://scryfall.com/card/aer/79/embraal-gear-smasher?utm_source=api>`
+:mtgtip:`Embraal Gear-Smasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3ad5c175-581c-4fdd-b008-e7d10b0928c7.jpg?1576381778|https://scryfall.com/card/aer/79/embraal-gear-smasher?utm_source=api>`
    |tap|, Sacrifice an artifact: Embraal Gear-Smasher deals 2 damage to each opponent.
 
 
-:mtgtip:`Enraged Giant<https://img.scryfall.com/cards/border_crop/front/4/0/40dc3b59-baae-4bf0-b5ce-fa9a915af066.jpg?1576381784|https://scryfall.com/card/aer/80/enraged-giant?utm_source=api>`
+:mtgtip:`Enraged Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40dc3b59-baae-4bf0-b5ce-fa9a915af066.jpg?1576381784|https://scryfall.com/card/aer/80/enraged-giant?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Trample, haste
 
 
-:mtgtip:`Freejam Regent<https://img.scryfall.com/cards/border_crop/front/d/6/d6b5147f-b422-47d3-98a0-dcc2d6f4e17a.jpg?1576382131|https://scryfall.com/card/aer/81/freejam-regent?utm_source=api>`
+:mtgtip:`Freejam Regent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6b5147f-b422-47d3-98a0-dcc2d6f4e17a.jpg?1576382131|https://scryfall.com/card/aer/81/freejam-regent?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Flying
@@ -457,11 +457,11 @@
    |mana_1|\ |mana_r|: Freejam Regent gets +2/+0 until end of turn.
 
 
-:mtgtip:`Frontline Rebel<https://img.scryfall.com/cards/border_crop/front/b/7/b742738a-2663-474d-b75a-28f1f67dc335.jpg?1576381795|https://scryfall.com/card/aer/82/frontline-rebel?utm_source=api>`
+:mtgtip:`Frontline Rebel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b742738a-2663-474d-b75a-28f1f67dc335.jpg?1576381795|https://scryfall.com/card/aer/82/frontline-rebel?utm_source=api>`
    Frontline Rebel attacks each combat if able.
 
 
-:mtgtip:`Gremlin Infestation<https://img.scryfall.com/cards/border_crop/front/b/5/b51438f5-c4d4-434a-b7ea-dee0b60303e4.jpg?1576381801|https://scryfall.com/card/aer/83/gremlin-infestation?utm_source=api>`
+:mtgtip:`Gremlin Infestation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b51438f5-c4d4-434a-b7ea-dee0b60303e4.jpg?1576381801|https://scryfall.com/card/aer/83/gremlin-infestation?utm_source=api>`
    Enchant artifact
 
    At the beginning of your end step, Gremlin Infestation deals 2 damage to enchanted artifact's controller.
@@ -469,15 +469,15 @@
    When enchanted artifact is put into a graveyard, create a 2/2 red Gremlin creature token.
 
 
-:mtgtip:`Hungry Flames<https://img.scryfall.com/cards/border_crop/front/4/c/4ca23676-f36f-4266-ba4f-5e9ebf3adb57.jpg?1576381808|https://scryfall.com/card/aer/84/hungry-flames?utm_source=api>`
+:mtgtip:`Hungry Flames<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4ca23676-f36f-4266-ba4f-5e9ebf3adb57.jpg?1592419490|https://scryfall.com/card/aer/84/hungry-flames?utm_source=api>`
    Hungry Flames deals 3 damage to target creature and 2 damage to target player or planeswalker.
 
 
-:mtgtip:`Indomitable Creativity<https://img.scryfall.com/cards/border_crop/front/e/d/edd00e45-2ae1-4cd0-92a1-155c95f8dc72.jpg?1576381816|https://scryfall.com/card/aer/85/indomitable-creativity?utm_source=api>`
+:mtgtip:`Indomitable Creativity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edd00e45-2ae1-4cd0-92a1-155c95f8dc72.jpg?1576381816|https://scryfall.com/card/aer/85/indomitable-creativity?utm_source=api>`
    Destroy X target artifacts and/or creatures. For each permanent destroyed this way, its controller reveals cards from the top of their library until an artifact or creature card is revealed and exiles that card. Those players put the exiled cards onto the battlefield, then shuffle their libraries.
 
 
-:mtgtip:`Invigorated Rampage<https://img.scryfall.com/cards/border_crop/front/2/c/2c1d1727-99d4-4aee-b6f5-8399ac1d0184.jpg?1576381826|https://scryfall.com/card/aer/86/invigorated-rampage?utm_source=api>`
+:mtgtip:`Invigorated Rampage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c1d1727-99d4-4aee-b6f5-8399ac1d0184.jpg?1576381826|https://scryfall.com/card/aer/86/invigorated-rampage?utm_source=api>`
    Choose one —
 
    • Target creature gets +4/+0 and gains trample until end of turn.
@@ -485,55 +485,55 @@
    • Two target creatures each get +2/+0 and gain trample until end of turn.
 
 
-:mtgtip:`Kari Zev, Skyship Raider<https://img.scryfall.com/cards/border_crop/front/7/2/72495879-39ce-449d-ad2f-ef32ea46f3aa.jpg?1576381833|https://scryfall.com/card/aer/87/kari-zev-skyship-raider?utm_source=api>`
+:mtgtip:`Kari Zev, Skyship Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72495879-39ce-449d-ad2f-ef32ea46f3aa.jpg?1576381833|https://scryfall.com/card/aer/87/kari-zev-skyship-raider?utm_source=api>`
    First strike, menace
 
    Whenever Kari Zev, Skyship Raider attacks, create Ragavan, a legendary 2/1 red Monkey creature token. Ragavan enters the battlefield tapped and attacking. Exile that token at end of combat.
 
 
-:mtgtip:`Kari Zev's Expertise<https://img.scryfall.com/cards/border_crop/front/a/b/ab5c7400-6307-4c51-88b8-9c0232110714.jpg?1576381839|https://scryfall.com/card/aer/88/kari-zevs-expertise?utm_source=api>`
+:mtgtip:`Kari Zev's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab5c7400-6307-4c51-88b8-9c0232110714.jpg?1576381839|https://scryfall.com/card/aer/88/kari-zevs-expertise?utm_source=api>`
    Gain control of target creature or Vehicle until end of turn. Untap it. It gains haste until end of turn.
 
-   You may cast a card with converted mana cost 2 or less from your hand without paying its mana cost.
+   You may cast a spell with converted mana cost 2 or less from your hand without paying its mana cost.
 
 
-:mtgtip:`Lathnu Sailback<https://img.scryfall.com/cards/border_crop/front/3/3/33998799-f31b-4522-93b2-0c34c570ebf7.jpg?1576381845|https://scryfall.com/card/aer/89/lathnu-sailback?utm_source=api>`
+:mtgtip:`Lathnu Sailback<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33998799-f31b-4522-93b2-0c34c570ebf7.jpg?1576381845|https://scryfall.com/card/aer/89/lathnu-sailback?utm_source=api>`
    
 
 
-:mtgtip:`Lightning Runner<https://img.scryfall.com/cards/border_crop/front/e/5/e5d9c7eb-dca4-4471-a91f-a5aad3a69c2f.jpg?1576381851|https://scryfall.com/card/aer/90/lightning-runner?utm_source=api>`
+:mtgtip:`Lightning Runner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5d9c7eb-dca4-4471-a91f-a5aad3a69c2f.jpg?1576381851|https://scryfall.com/card/aer/90/lightning-runner?utm_source=api>`
    Double strike, haste
 
    Whenever Lightning Runner attacks, you get |energy|\ |energy| (two energy counters), then you may pay |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.
 
 
-:mtgtip:`Pia's Revolution<https://img.scryfall.com/cards/border_crop/front/5/1/51da6ff6-4d81-488e-83ff-8758f6c7bb9f.jpg?1576381857|https://scryfall.com/card/aer/91/pias-revolution?utm_source=api>`
+:mtgtip:`Pia's Revolution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51da6ff6-4d81-488e-83ff-8758f6c7bb9f.jpg?1576381857|https://scryfall.com/card/aer/91/pias-revolution?utm_source=api>`
    Whenever a nontoken artifact is put into your graveyard from the battlefield, return that card to your hand unless target opponent has Pia's Revolution deal 3 damage to them.
 
 
-:mtgtip:`Precise Strike<https://img.scryfall.com/cards/border_crop/front/3/c/3cd2e7ab-b63e-48e8-a32a-6ff8673241d9.jpg?1576381864|https://scryfall.com/card/aer/92/precise-strike?utm_source=api>`
+:mtgtip:`Precise Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cd2e7ab-b63e-48e8-a32a-6ff8673241d9.jpg?1576381864|https://scryfall.com/card/aer/92/precise-strike?utm_source=api>`
    Target creature gets +1/+0 and gains first strike until end of turn.
 
 
-:mtgtip:`Quicksmith Rebel<https://img.scryfall.com/cards/border_crop/front/2/d/2d5f9755-b137-439c-9b54-1ad71ec1f9ec.jpg?1576381871|https://scryfall.com/card/aer/93/quicksmith-rebel?utm_source=api>`
+:mtgtip:`Quicksmith Rebel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d5f9755-b137-439c-9b54-1ad71ec1f9ec.jpg?1576381871|https://scryfall.com/card/aer/93/quicksmith-rebel?utm_source=api>`
    When Quicksmith Rebel enters the battlefield, target artifact you control gains "|tap|: This artifact deals 2 damage to any target" for as long as you control Quicksmith Rebel.
 
 
-:mtgtip:`Ravenous Intruder<https://img.scryfall.com/cards/border_crop/front/c/d/cd793778-f099-4b8e-af19-fc0ec4292824.jpg?1576381880|https://scryfall.com/card/aer/94/ravenous-intruder?utm_source=api>`
+:mtgtip:`Ravenous Intruder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd793778-f099-4b8e-af19-fc0ec4292824.jpg?1576381880|https://scryfall.com/card/aer/94/ravenous-intruder?utm_source=api>`
    Sacrifice an artifact: Ravenous Intruder gets +2/+2 until end of turn.
 
 
-:mtgtip:`Reckless Racer<https://img.scryfall.com/cards/border_crop/front/2/1/21c0afd6-1242-42bf-a13f-9f218c9d9dfc.jpg?1576381891|https://scryfall.com/card/aer/95/reckless-racer?utm_source=api>`
+:mtgtip:`Reckless Racer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21c0afd6-1242-42bf-a13f-9f218c9d9dfc.jpg?1576381891|https://scryfall.com/card/aer/95/reckless-racer?utm_source=api>`
    First strike
 
    Whenever Reckless Racer becomes tapped, you may discard a card. If you do, draw a card.
 
 
-:mtgtip:`Release the Gremlins<https://img.scryfall.com/cards/border_crop/front/d/4/d4ba75be-2428-45aa-bf02-75c379a5dfa2.jpg?1576381897|https://scryfall.com/card/aer/96/release-the-gremlins?utm_source=api>`
+:mtgtip:`Release the Gremlins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ba75be-2428-45aa-bf02-75c379a5dfa2.jpg?1576381897|https://scryfall.com/card/aer/96/release-the-gremlins?utm_source=api>`
    Destroy X target artifacts. Create X 2/2 red Gremlin creature tokens.
 
 
-:mtgtip:`Scrapper Champion<https://img.scryfall.com/cards/border_crop/front/1/1/117ef25c-e9cf-4801-a753-2c329c2a8bdb.jpg?1576381903|https://scryfall.com/card/aer/97/scrapper-champion?utm_source=api>`
+:mtgtip:`Scrapper Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/117ef25c-e9cf-4801-a753-2c329c2a8bdb.jpg?1576381903|https://scryfall.com/card/aer/97/scrapper-champion?utm_source=api>`
    Double strike (This creature deals both first-strike and regular combat damage.)
 
    When Scrapper Champion enters the battlefield, you get |energy|\ |energy| (two energy counters).
@@ -541,11 +541,11 @@
    Whenever Scrapper Champion attacks, you may pay |energy|\ |energy|. If you do, put a +1/+1 counter on it.
 
 
-:mtgtip:`Shock<https://img.scryfall.com/cards/border_crop/front/0/0/00365412-41db-427c-9109-8f69c17c326d.jpg?1576381909|https://scryfall.com/card/aer/98/shock?utm_source=api>`
+:mtgtip:`Shock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00365412-41db-427c-9109-8f69c17c326d.jpg?1576381909|https://scryfall.com/card/aer/98/shock?utm_source=api>`
    Shock deals 2 damage to any target.
 
 
-:mtgtip:`Siege Modification<https://img.scryfall.com/cards/border_crop/front/e/1/e1a4e33f-53f0-4919-98a1-c832dcd32efb.jpg?1576381915|https://scryfall.com/card/aer/99/siege-modification?utm_source=api>`
+:mtgtip:`Siege Modification<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1a4e33f-53f0-4919-98a1-c832dcd32efb.jpg?1576381915|https://scryfall.com/card/aer/99/siege-modification?utm_source=api>`
    Enchant creature or Vehicle
 
    As long as enchanted permanent is a Vehicle, it's a creature in addition to its other types.
@@ -553,23 +553,23 @@
    Enchanted creature gets +3/+0 and has first strike.
 
 
-:mtgtip:`Sweatworks Brawler<https://img.scryfall.com/cards/border_crop/front/b/4/b477d12a-9ba5-4302-a3f0-af0afb5d87f4.jpg?1576381921|https://scryfall.com/card/aer/100/sweatworks-brawler?utm_source=api>`
+:mtgtip:`Sweatworks Brawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b477d12a-9ba5-4302-a3f0-af0afb5d87f4.jpg?1576381921|https://scryfall.com/card/aer/100/sweatworks-brawler?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Menace
 
 
-:mtgtip:`Wrangle<https://img.scryfall.com/cards/border_crop/front/5/e/5ea93a49-5a7c-4d15-8548-a57c9460e0f0.jpg?1576381928|https://scryfall.com/card/aer/101/wrangle?utm_source=api>`
+:mtgtip:`Wrangle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ea93a49-5a7c-4d15-8548-a57c9460e0f0.jpg?1576381928|https://scryfall.com/card/aer/101/wrangle?utm_source=api>`
    Gain control of target creature with power 4 or less until end of turn. Untap that creature. It gains haste until end of turn.
 
 
-:mtgtip:`Aether Herder<https://img.scryfall.com/cards/border_crop/front/e/8/e8744a31-451b-4349-8f62-e2392a72a154.jpg?1576381934|https://scryfall.com/card/aer/102/aether-herder?utm_source=api>`
+:mtgtip:`Aether Herder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8744a31-451b-4349-8f62-e2392a72a154.jpg?1576381934|https://scryfall.com/card/aer/102/aether-herder?utm_source=api>`
    When Aether Herder enters the battlefield, you get |energy|\ |energy| (two energy counters).
 
    Whenever Aether Herder attacks, you may pay |energy|\ |energy|. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
-:mtgtip:`Aetherstream Leopard<https://img.scryfall.com/cards/border_crop/front/6/f/6f3a727a-5eca-44de-aa8f-0d2573db83eb.jpg?1576381940|https://scryfall.com/card/aer/103/aetherstream-leopard?utm_source=api>`
+:mtgtip:`Aetherstream Leopard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f3a727a-5eca-44de-aa8f-0d2573db83eb.jpg?1576381940|https://scryfall.com/card/aer/103/aetherstream-leopard?utm_source=api>`
    Trample
 
    When Aetherstream Leopard enters the battlefield, you get |energy| (an energy counter).
@@ -577,7 +577,7 @@
    Whenever Aetherstream Leopard attacks, you may pay |energy|. If you do, it gets +2/+0 until end of turn.
 
 
-:mtgtip:`Aetherwind Basker<https://img.scryfall.com/cards/border_crop/front/f/a/fa04d5fa-6ba2-4833-8ea0-1941a03bd3e9.jpg?1576381949|https://scryfall.com/card/aer/104/aetherwind-basker?utm_source=api>`
+:mtgtip:`Aetherwind Basker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa04d5fa-6ba2-4833-8ea0-1941a03bd3e9.jpg?1576381949|https://scryfall.com/card/aer/104/aetherwind-basker?utm_source=api>`
    Trample
 
    Whenever Aetherwind Basker enters the battlefield or attacks, you get |energy| (an energy counter) for each creature you control.
@@ -585,107 +585,107 @@
    Pay |energy|: Aetherwind Basker gets +1/+1 until end of turn.
 
 
-:mtgtip:`Aid from the Cowl<https://img.scryfall.com/cards/border_crop/front/5/6/565cb7fc-cf90-4020-84fe-05ec7b18709d.jpg?1576381957|https://scryfall.com/card/aer/105/aid-from-the-cowl?utm_source=api>`
+:mtgtip:`Aid from the Cowl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/565cb7fc-cf90-4020-84fe-05ec7b18709d.jpg?1576381957|https://scryfall.com/card/aer/105/aid-from-the-cowl?utm_source=api>`
    Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. Otherwise, you may put it on the bottom of your library.
 
 
-:mtgtip:`Druid of the Cowl<https://img.scryfall.com/cards/border_crop/front/a/6/a683f79b-0330-4fac-8279-6c0d888414b8.jpg?1576381963|https://scryfall.com/card/aer/106/druid-of-the-cowl?utm_source=api>`
+:mtgtip:`Druid of the Cowl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a683f79b-0330-4fac-8279-6c0d888414b8.jpg?1576381963|https://scryfall.com/card/aer/106/druid-of-the-cowl?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Greenbelt Rampager<https://img.scryfall.com/cards/border_crop/front/f/3/f3f06124-bcc4-48c0-a7a6-a461c7485ecd.jpg?1576381971|https://scryfall.com/card/aer/107/greenbelt-rampager?utm_source=api>`
+:mtgtip:`Greenbelt Rampager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3f06124-bcc4-48c0-a7a6-a461c7485ecd.jpg?1576381971|https://scryfall.com/card/aer/107/greenbelt-rampager?utm_source=api>`
    When Greenbelt Rampager enters the battlefield, pay |energy|\ |energy| (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get |energy|.
 
 
-:mtgtip:`Greenwheel Liberator<https://img.scryfall.com/cards/border_crop/front/1/a/1ad9bf0f-4271-497f-8d67-3c7bf09342dc.jpg?1576381977|https://scryfall.com/card/aer/108/greenwheel-liberator?utm_source=api>`
+:mtgtip:`Greenwheel Liberator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1ad9bf0f-4271-497f-8d67-3c7bf09342dc.jpg?1576381977|https://scryfall.com/card/aer/108/greenwheel-liberator?utm_source=api>`
    Revolt — Greenwheel Liberator enters the battlefield with two +1/+1 counters on it if a permanent you controlled left the battlefield this turn.
 
 
-:mtgtip:`Heroic Intervention<https://img.scryfall.com/cards/border_crop/front/8/f/8f5a620c-fde7-4b72-bf8a-efc4f14560c5.jpg?1576381983|https://scryfall.com/card/aer/109/heroic-intervention?utm_source=api>`
+:mtgtip:`Heroic Intervention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f5a620c-fde7-4b72-bf8a-efc4f14560c5.jpg?1593858780|https://scryfall.com/card/aer/109/heroic-intervention?utm_source=api>`
    Permanents you control gain hexproof and indestructible until end of turn.
 
 
-:mtgtip:`Hidden Herbalists<https://img.scryfall.com/cards/border_crop/front/9/e/9ec8db01-415e-42a1-8eb2-57280d58b38e.jpg?1576381990|https://scryfall.com/card/aer/110/hidden-herbalists?utm_source=api>`
+:mtgtip:`Hidden Herbalists<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ec8db01-415e-42a1-8eb2-57280d58b38e.jpg?1576381990|https://scryfall.com/card/aer/110/hidden-herbalists?utm_source=api>`
    Revolt — When Hidden Herbalists enters the battlefield, if a permanent you controlled left the battlefield this turn, add |mana_g|\ |mana_g|.
 
 
-:mtgtip:`Highspire Infusion<https://img.scryfall.com/cards/border_crop/front/0/8/08325c39-0eeb-4bd0-9adc-2892c1c6637e.jpg?1576381996|https://scryfall.com/card/aer/111/highspire-infusion?utm_source=api>`
+:mtgtip:`Highspire Infusion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08325c39-0eeb-4bd0-9adc-2892c1c6637e.jpg?1576381996|https://scryfall.com/card/aer/111/highspire-infusion?utm_source=api>`
    Target creature gets +3/+3 until end of turn. You get |energy|\ |energy| (two energy counters).
 
 
-:mtgtip:`Lifecraft Awakening<https://img.scryfall.com/cards/border_crop/front/6/3/63bc60c8-f0a3-4bbf-b570-7d98d0a3e2b0.jpg?1576382002|https://scryfall.com/card/aer/112/lifecraft-awakening?utm_source=api>`
+:mtgtip:`Lifecraft Awakening<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63bc60c8-f0a3-4bbf-b570-7d98d0a3e2b0.jpg?1576382002|https://scryfall.com/card/aer/112/lifecraft-awakening?utm_source=api>`
    Put X +1/+1 counters on target artifact you control. If it isn't a creature or Vehicle, it becomes a 0/0 Construct artifact creature.
 
 
-:mtgtip:`Lifecraft Cavalry<https://img.scryfall.com/cards/border_crop/front/b/2/b2a92a03-4e1d-4b79-ad75-a29db2ea5495.jpg?1576382009|https://scryfall.com/card/aer/113/lifecraft-cavalry?utm_source=api>`
+:mtgtip:`Lifecraft Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2a92a03-4e1d-4b79-ad75-a29db2ea5495.jpg?1576382009|https://scryfall.com/card/aer/113/lifecraft-cavalry?utm_source=api>`
    Trample
 
    Revolt — Lifecraft Cavalry enters the battlefield with two +1/+1 counters on it if a permanent you controlled left the battlefield this turn.
 
 
-:mtgtip:`Lifecrafter's Gift<https://img.scryfall.com/cards/border_crop/front/6/7/6759f13b-e755-495d-87df-a685455cdf33.jpg?1576382015|https://scryfall.com/card/aer/114/lifecrafters-gift?utm_source=api>`
+:mtgtip:`Lifecrafter's Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6759f13b-e755-495d-87df-a685455cdf33.jpg?1576382015|https://scryfall.com/card/aer/114/lifecrafters-gift?utm_source=api>`
    Put a +1/+1 counter on target creature, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
 
 
-:mtgtip:`Maulfist Revolutionary<https://img.scryfall.com/cards/border_crop/front/a/8/a83dcdba-419b-41e1-8c9d-8bca6fe2752b.jpg?1576382022|https://scryfall.com/card/aer/115/maulfist-revolutionary?utm_source=api>`
+:mtgtip:`Maulfist Revolutionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a83dcdba-419b-41e1-8c9d-8bca6fe2752b.jpg?1576382022|https://scryfall.com/card/aer/115/maulfist-revolutionary?utm_source=api>`
    Trample
 
    When Maulfist Revolutionary enters the battlefield or dies, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.
 
 
-:mtgtip:`Monstrous Onslaught<https://img.scryfall.com/cards/border_crop/front/2/a/2aebf95d-a231-402a-8888-9c50889a9556.jpg?1576382029|https://scryfall.com/card/aer/116/monstrous-onslaught?utm_source=api>`
+:mtgtip:`Monstrous Onslaught<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2aebf95d-a231-402a-8888-9c50889a9556.jpg?1576382029|https://scryfall.com/card/aer/116/monstrous-onslaught?utm_source=api>`
    Monstrous Onslaught deals X damage divided as you choose among any number of target creatures, where X is the greatest power among creatures you control as you cast this spell.
 
 
-:mtgtip:`Narnam Renegade<https://img.scryfall.com/cards/border_crop/front/0/4/041cc6b1-61c8-4c34-86fc-d647ce306f59.jpg?1576382037|https://scryfall.com/card/aer/117/narnam-renegade?utm_source=api>`
+:mtgtip:`Narnam Renegade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/041cc6b1-61c8-4c34-86fc-d647ce306f59.jpg?1576382037|https://scryfall.com/card/aer/117/narnam-renegade?utm_source=api>`
    Deathtouch
 
    Revolt — Narnam Renegade enters the battlefield with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.
 
 
-:mtgtip:`Natural Obsolescence<https://img.scryfall.com/cards/border_crop/front/f/f/ff693e03-4cc6-4903-8fc4-388d23c2f92f.jpg?1576382042|https://scryfall.com/card/aer/118/natural-obsolescence?utm_source=api>`
+:mtgtip:`Natural Obsolescence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff693e03-4cc6-4903-8fc4-388d23c2f92f.jpg?1576382042|https://scryfall.com/card/aer/118/natural-obsolescence?utm_source=api>`
    Put target artifact on the bottom of its owner's library.
 
 
-:mtgtip:`Peema Aether-Seer<https://img.scryfall.com/cards/border_crop/front/f/e/fe1bc709-2157-4711-a027-c0ff00ff2728.jpg?1576382050|https://scryfall.com/card/aer/119/peema-aether-seer?utm_source=api>`
+:mtgtip:`Peema Aether-Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe1bc709-2157-4711-a027-c0ff00ff2728.jpg?1576382050|https://scryfall.com/card/aer/119/peema-aether-seer?utm_source=api>`
    When Peema Aether-Seer enters the battlefield, you get an amount of |energy| (energy counters) equal to the greatest power among creatures you control.
 
    Pay |energy|\ |energy|\ |energy|: Target creature blocks this turn if able.
 
 
-:mtgtip:`Prey Upon<https://img.scryfall.com/cards/border_crop/front/1/6/166f0a2d-d660-4ea2-8b2f-143dc1fc0a8e.jpg?1576382056|https://scryfall.com/card/aer/120/prey-upon?utm_source=api>`
+:mtgtip:`Prey Upon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/166f0a2d-d660-4ea2-8b2f-143dc1fc0a8e.jpg?1576382056|https://scryfall.com/card/aer/120/prey-upon?utm_source=api>`
    Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
 
-:mtgtip:`Ridgescale Tusker<https://img.scryfall.com/cards/border_crop/front/8/4/84b689cc-35ef-4a23-bb1e-4d81b9fb8455.jpg?1576382061|https://scryfall.com/card/aer/121/ridgescale-tusker?utm_source=api>`
+:mtgtip:`Ridgescale Tusker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84b689cc-35ef-4a23-bb1e-4d81b9fb8455.jpg?1579814138|https://scryfall.com/card/aer/121/ridgescale-tusker?utm_source=api>`
    When Ridgescale Tusker enters the battlefield, put a +1/+1 counter on each other creature you control.
 
 
-:mtgtip:`Rishkar, Peema Renegade<https://img.scryfall.com/cards/border_crop/front/7/c/7cff0dc6-5455-4dea-940b-dff7fe88dc5d.jpg?1576382069|https://scryfall.com/card/aer/122/rishkar-peema-renegade?utm_source=api>`
+:mtgtip:`Rishkar, Peema Renegade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cff0dc6-5455-4dea-940b-dff7fe88dc5d.jpg?1576382069|https://scryfall.com/card/aer/122/rishkar-peema-renegade?utm_source=api>`
    When Rishkar, Peema Renegade enters the battlefield, put a +1/+1 counter on each of up to two target creatures.
 
    Each creature you control with a counter on it has "|tap|: Add |mana_g|."
 
 
-:mtgtip:`Rishkar's Expertise<https://img.scryfall.com/cards/border_crop/front/5/d/5d58ba68-05c1-4cd8-a93d-321cd1739ccb.jpg?1576382075|https://scryfall.com/card/aer/123/rishkars-expertise?utm_source=api>`
+:mtgtip:`Rishkar's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d58ba68-05c1-4cd8-a93d-321cd1739ccb.jpg?1576382075|https://scryfall.com/card/aer/123/rishkars-expertise?utm_source=api>`
    Draw cards equal to the greatest power among creatures you control.
 
-   You may cast a card with converted mana cost 5 or less from your hand without paying its mana cost.
+   You may cast a spell with converted mana cost 5 or less from your hand without paying its mana cost.
 
 
-:mtgtip:`Scrounging Bandar<https://img.scryfall.com/cards/border_crop/front/7/6/761a11a7-175d-440d-b09d-918572c8e5d3.jpg?1576382081|https://scryfall.com/card/aer/124/scrounging-bandar?utm_source=api>`
+:mtgtip:`Scrounging Bandar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/761a11a7-175d-440d-b09d-918572c8e5d3.jpg?1576382081|https://scryfall.com/card/aer/124/scrounging-bandar?utm_source=api>`
    Scrounging Bandar enters the battlefield with two +1/+1 counters on it.
 
    At the beginning of your upkeep, you may move any number of +1/+1 counters from Scrounging Bandar onto another target creature.
 
 
-:mtgtip:`Silkweaver Elite<https://img.scryfall.com/cards/border_crop/front/d/1/d10938c8-6fc4-495f-912a-1d3f12278f78.jpg?1576382088|https://scryfall.com/card/aer/125/silkweaver-elite?utm_source=api>`
+:mtgtip:`Silkweaver Elite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d10938c8-6fc4-495f-912a-1d3f12278f78.jpg?1576382088|https://scryfall.com/card/aer/125/silkweaver-elite?utm_source=api>`
    Reach (This creature can block creatures with flying.)
 
    Revolt — When Silkweaver Elite enters the battlefield, if a permanent you controlled left the battlefield this turn, draw a card.
 
 
-:mtgtip:`Unbridled Growth<https://img.scryfall.com/cards/border_crop/front/3/9/393fc419-a6ce-447d-9994-744cf41f9a27.jpg?1576382093|https://scryfall.com/card/aer/126/unbridled-growth?utm_source=api>`
+:mtgtip:`Unbridled Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/393fc419-a6ce-447d-9994-744cf41f9a27.jpg?1576382093|https://scryfall.com/card/aer/126/unbridled-growth?utm_source=api>`
    Enchant land
 
    Enchanted land has "|tap|: Add one mana of any color."
@@ -693,7 +693,7 @@
    Sacrifice Unbridled Growth: Draw a card.
 
 
-:mtgtip:`Ajani Unyielding<https://img.scryfall.com/cards/border_crop/front/2/3/23b82ee9-2ac6-4b81-8c64-dd4f47c2d8cb.jpg?1576382099|https://scryfall.com/card/aer/127/ajani-unyielding?utm_source=api>`
+:mtgtip:`Ajani Unyielding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23b82ee9-2ac6-4b81-8c64-dd4f47c2d8cb.jpg?1576382099|https://scryfall.com/card/aer/127/ajani-unyielding?utm_source=api>`
    +2: Reveal the top three cards of your library. Put all nonland permanent cards revealed this way into your hand and the rest on the bottom of your library in any order.
 
    −2: Exile target creature. Its controller gains life equal to its power.
@@ -701,53 +701,53 @@
    −9: Put five +1/+1 counters on each creature you control and five loyalty counters on each other planeswalker you control.
 
 
-:mtgtip:`Dark Intimations<https://img.scryfall.com/cards/border_crop/front/d/d/dd8f103c-a688-4f22-ae59-2bce1db9d44a.jpg?1576382106|https://scryfall.com/card/aer/128/dark-intimations?utm_source=api>`
+:mtgtip:`Dark Intimations<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd8f103c-a688-4f22-ae59-2bce1db9d44a.jpg?1576382106|https://scryfall.com/card/aer/128/dark-intimations?utm_source=api>`
    Each opponent sacrifices a creature or planeswalker, then discards a card. You return a creature or planeswalker card from your graveyard to your hand, then draw a card.
 
    When you cast a Bolas planeswalker spell, exile Dark Intimations from your graveyard. That planeswalker enters the battlefield with an additional loyalty counter on it.
 
 
-:mtgtip:`Hidden Stockpile<https://img.scryfall.com/cards/border_crop/front/8/d/8d2176a5-66f8-4a21-bbe2-969c82ca36bd.jpg?1576382111|https://scryfall.com/card/aer/129/hidden-stockpile?utm_source=api>`
+:mtgtip:`Hidden Stockpile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d2176a5-66f8-4a21-bbe2-969c82ca36bd.jpg?1576382111|https://scryfall.com/card/aer/129/hidden-stockpile?utm_source=api>`
    Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token.
 
    |mana_1|, Sacrifice a creature: Scry 1.
 
 
-:mtgtip:`Maverick Thopterist<https://img.scryfall.com/cards/border_crop/front/c/a/cad17d67-538e-4c60-a582-a394032a5112.jpg?1576382117|https://scryfall.com/card/aer/130/maverick-thopterist?utm_source=api>`
+:mtgtip:`Maverick Thopterist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cad17d67-538e-4c60-a582-a394032a5112.jpg?1576382117|https://scryfall.com/card/aer/130/maverick-thopterist?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    When Maverick Thopterist enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
 
 
-:mtgtip:`Oath of Ajani<https://img.scryfall.com/cards/border_crop/front/9/6/968c7d5a-b037-4ff7-b6d2-df00adf5691b.jpg?1576382123|https://scryfall.com/card/aer/131/oath-of-ajani?utm_source=api>`
+:mtgtip:`Oath of Ajani<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/968c7d5a-b037-4ff7-b6d2-df00adf5691b.jpg?1576382123|https://scryfall.com/card/aer/131/oath-of-ajani?utm_source=api>`
    When Oath of Ajani enters the battlefield, put a +1/+1 counter on each creature you control.
 
    Planeswalker spells you cast cost |mana_1| less to cast.
 
 
-:mtgtip:`Outland Boar<https://img.scryfall.com/cards/border_crop/front/1/3/135912b3-978b-4a9b-8758-7b138b190232.jpg?1576382131|https://scryfall.com/card/aer/132/outland-boar?utm_source=api>`
+:mtgtip:`Outland Boar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/135912b3-978b-4a9b-8758-7b138b190232.jpg?1576382131|https://scryfall.com/card/aer/132/outland-boar?utm_source=api>`
    Outland Boar can't be blocked by creatures with power 2 or less.
 
 
-:mtgtip:`Renegade Rallier<https://img.scryfall.com/cards/border_crop/front/9/0/90bad312-80e3-45b0-9556-60ce06808a47.jpg?1576382138|https://scryfall.com/card/aer/133/renegade-rallier?utm_source=api>`
+:mtgtip:`Renegade Rallier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90bad312-80e3-45b0-9556-60ce06808a47.jpg?1576382138|https://scryfall.com/card/aer/133/renegade-rallier?utm_source=api>`
    Revolt — When Renegade Rallier enters the battlefield, if a permanent you controlled left the battlefield this turn, return target permanent card with converted mana cost 2 or less from your graveyard to the battlefield.
 
 
-:mtgtip:`Renegade Wheelsmith<https://img.scryfall.com/cards/border_crop/front/6/9/6956a341-10fd-48af-b382-88c2b2934a3e.jpg?1576382144|https://scryfall.com/card/aer/134/renegade-wheelsmith?utm_source=api>`
+:mtgtip:`Renegade Wheelsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6956a341-10fd-48af-b382-88c2b2934a3e.jpg?1576382144|https://scryfall.com/card/aer/134/renegade-wheelsmith?utm_source=api>`
    Whenever Renegade Wheelsmith becomes tapped, target creature can't block this turn.
 
 
-:mtgtip:`Rogue Refiner<https://img.scryfall.com/cards/border_crop/front/6/1/618652b4-7ce9-4994-9d16-68d2cc8644ef.jpg?1576382150|https://scryfall.com/card/aer/135/rogue-refiner?utm_source=api>`
+:mtgtip:`Rogue Refiner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/618652b4-7ce9-4994-9d16-68d2cc8644ef.jpg?1576382150|https://scryfall.com/card/aer/135/rogue-refiner?utm_source=api>`
    When Rogue Refiner enters the battlefield, draw a card and you get |energy|\ |energy| (two energy counters).
 
 
-:mtgtip:`Spire Patrol<https://img.scryfall.com/cards/border_crop/front/1/d/1daaf494-70af-4a8d-836f-f6a9d6c1f080.jpg?1576382156|https://scryfall.com/card/aer/136/spire-patrol?utm_source=api>`
+:mtgtip:`Spire Patrol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1daaf494-70af-4a8d-836f-f6a9d6c1f080.jpg?1576382156|https://scryfall.com/card/aer/136/spire-patrol?utm_source=api>`
    Flying
 
    When Spire Patrol enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`Tezzeret the Schemer<https://img.scryfall.com/cards/border_crop/front/5/8/58265203-bc16-41d2-875c-2ff3b4870824.jpg?1576382161|https://scryfall.com/card/aer/137/tezzeret-the-schemer?utm_source=api>`
+:mtgtip:`Tezzeret the Schemer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58265203-bc16-41d2-875c-2ff3b4870824.jpg?1576382161|https://scryfall.com/card/aer/137/tezzeret-the-schemer?utm_source=api>`
    +1: Create a colorless artifact token named Etherium Cell with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
    −2: Target creature gets +X/-X until end of turn, where X is the number of artifacts you control.
@@ -755,7 +755,7 @@
    −7: You get an emblem with "At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5."
 
 
-:mtgtip:`Tezzeret's Touch<https://img.scryfall.com/cards/border_crop/front/3/c/3c2e917f-734e-4b8b-abc6-ea33c0fc722e.jpg?1576382168|https://scryfall.com/card/aer/138/tezzerets-touch?utm_source=api>`
+:mtgtip:`Tezzeret's Touch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c2e917f-734e-4b8b-abc6-ea33c0fc722e.jpg?1576382168|https://scryfall.com/card/aer/138/tezzerets-touch?utm_source=api>`
    Enchant artifact
 
    Enchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.
@@ -763,21 +763,21 @@
    When enchanted artifact is put into a graveyard, return that card to its owner's hand.
 
 
-:mtgtip:`Weldfast Engineer<https://img.scryfall.com/cards/border_crop/front/5/1/51464df6-557f-47e5-838e-2a30145511f0.jpg?1576382174|https://scryfall.com/card/aer/139/weldfast-engineer?utm_source=api>`
+:mtgtip:`Weldfast Engineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51464df6-557f-47e5-838e-2a30145511f0.jpg?1576382174|https://scryfall.com/card/aer/139/weldfast-engineer?utm_source=api>`
    At the beginning of combat on your turn, target artifact creature you control gets +2/+0 until end of turn.
 
 
-:mtgtip:`Winding Constrictor<https://img.scryfall.com/cards/border_crop/front/1/0/107c8aa8-c8f8-4cbf-821b-bd2cb33354f0.jpg?1576382180|https://scryfall.com/card/aer/140/winding-constrictor?utm_source=api>`
+:mtgtip:`Winding Constrictor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/107c8aa8-c8f8-4cbf-821b-bd2cb33354f0.jpg?1576382180|https://scryfall.com/card/aer/140/winding-constrictor?utm_source=api>`
    If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.
 
    If you would get one or more counters, you get that many plus one of each of those kinds of counters instead.
 
 
-:mtgtip:`Aegis Automaton<https://img.scryfall.com/cards/border_crop/front/e/5/e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c.jpg?1576382187|https://scryfall.com/card/aer/141/aegis-automaton?utm_source=api>`
+:mtgtip:`Aegis Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c.jpg?1576382187|https://scryfall.com/card/aer/141/aegis-automaton?utm_source=api>`
    |mana_4|\ |mana_w|: Return another target creature you control to its owner's hand.
 
 
-:mtgtip:`Aethersphere Harvester<https://img.scryfall.com/cards/border_crop/front/4/1/4160bb5f-4b49-4535-94f5-776d7abd1d1a.jpg?1576382193|https://scryfall.com/card/aer/142/aethersphere-harvester?utm_source=api>`
+:mtgtip:`Aethersphere Harvester<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/4160bb5f-4b49-4535-94f5-776d7abd1d1a.jpg?1576382193|https://scryfall.com/card/aer/142/aethersphere-harvester?utm_source=api>`
    Flying
 
    When Aethersphere Harvester enters the battlefield, you get |energy|\ |energy| (two energy counters).
@@ -787,55 +787,55 @@
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Augmenting Automaton<https://img.scryfall.com/cards/border_crop/front/7/d/7d017798-8278-4f9c-a691-912935c10c20.jpg?1576382199|https://scryfall.com/card/aer/143/augmenting-automaton?utm_source=api>`
+:mtgtip:`Augmenting Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d017798-8278-4f9c-a691-912935c10c20.jpg?1576382199|https://scryfall.com/card/aer/143/augmenting-automaton?utm_source=api>`
    |mana_1|\ |mana_b|: Augmenting Automaton gets +1/+1 until end of turn.
 
 
-:mtgtip:`Barricade Breaker<https://img.scryfall.com/cards/border_crop/front/7/c/7cc81a94-955d-4734-b056-9b9a86cae60b.jpg?1576382207|https://scryfall.com/card/aer/144/barricade-breaker?utm_source=api>`
+:mtgtip:`Barricade Breaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cc81a94-955d-4734-b056-9b9a86cae60b.jpg?1576382207|https://scryfall.com/card/aer/144/barricade-breaker?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Barricade Breaker attacks each combat if able.
 
 
-:mtgtip:`Cogwork Assembler<https://img.scryfall.com/cards/border_crop/front/6/d/6dddacdd-bbc4-4f9b-be1c-5f2c64be3cbc.jpg?1576382213|https://scryfall.com/card/aer/145/cogwork-assembler?utm_source=api>`
+:mtgtip:`Cogwork Assembler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dddacdd-bbc4-4f9b-be1c-5f2c64be3cbc.jpg?1576382213|https://scryfall.com/card/aer/145/cogwork-assembler?utm_source=api>`
    |mana_7|: Create a token that's a copy of target artifact. That token gains haste. Exile it at the beginning of the next end step.
 
 
-:mtgtip:`Consulate Dreadnought<https://img.scryfall.com/cards/border_crop/front/1/1/11eff338-1940-4684-94c7-ef90e56dea99.jpg?1576382219|https://scryfall.com/card/aer/146/consulate-dreadnought?utm_source=api>`
+:mtgtip:`Consulate Dreadnought<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11eff338-1940-4684-94c7-ef90e56dea99.jpg?1576382219|https://scryfall.com/card/aer/146/consulate-dreadnought?utm_source=api>`
    Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Consulate Turret<https://img.scryfall.com/cards/border_crop/front/e/0/e0c55b5b-58fd-4340-b089-8e271633e8dd.jpg?1576382226|https://scryfall.com/card/aer/147/consulate-turret?utm_source=api>`
+:mtgtip:`Consulate Turret<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0c55b5b-58fd-4340-b089-8e271633e8dd.jpg?1576382226|https://scryfall.com/card/aer/147/consulate-turret?utm_source=api>`
    |tap|: You get |energy| (an energy counter).
 
    |tap|, Pay |energy|\ |energy|\ |energy|: Consulate Turret deals 2 damage to target player or planeswalker.
 
 
-:mtgtip:`Crackdown Construct<https://img.scryfall.com/cards/border_crop/front/9/9/993bc69a-b615-48c5-af81-252a73384e8c.jpg?1576382232|https://scryfall.com/card/aer/148/crackdown-construct?utm_source=api>`
+:mtgtip:`Crackdown Construct<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/993bc69a-b615-48c5-af81-252a73384e8c.jpg?1576382232|https://scryfall.com/card/aer/148/crackdown-construct?utm_source=api>`
    Whenever you activate an ability of an artifact or creature that isn't a mana ability, Crackdown Construct gets +1/+1 until end of turn.
 
 
-:mtgtip:`Daredevil Dragster<https://img.scryfall.com/cards/border_crop/front/1/9/19bbbc98-0806-4226-8fd1-16b812334cee.jpg?1576382238|https://scryfall.com/card/aer/149/daredevil-dragster?utm_source=api>`
+:mtgtip:`Daredevil Dragster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19bbbc98-0806-4226-8fd1-16b812334cee.jpg?1576382238|https://scryfall.com/card/aer/149/daredevil-dragster?utm_source=api>`
    At end of combat, if Daredevil Dragster attacked or blocked this combat, put a velocity counter on it. Then if it has two or more velocity counters on it, sacrifice it and draw two cards.
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Filigree Crawler<https://img.scryfall.com/cards/border_crop/front/8/d/8d8e817c-079e-4e7c-a8ca-54634f30bf36.jpg?1576382245|https://scryfall.com/card/aer/150/filigree-crawler?utm_source=api>`
+:mtgtip:`Filigree Crawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d8e817c-079e-4e7c-a8ca-54634f30bf36.jpg?1576382245|https://scryfall.com/card/aer/150/filigree-crawler?utm_source=api>`
    When Filigree Crawler dies, create a 1/1 colorless Thopter artifact creature token with flying.
 
 
-:mtgtip:`Foundry Assembler<https://img.scryfall.com/cards/border_crop/front/e/8/e83a2862-a2d7-4d87-a4b8-def9f441f5fa.jpg?1576382251|https://scryfall.com/card/aer/151/foundry-assembler?utm_source=api>`
+:mtgtip:`Foundry Assembler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83a2862-a2d7-4d87-a4b8-def9f441f5fa.jpg?1576382251|https://scryfall.com/card/aer/151/foundry-assembler?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
 
-:mtgtip:`Gonti's Aether Heart<https://img.scryfall.com/cards/border_crop/front/9/e/9e4fc5ed-e90d-4965-985a-ed126a713506.jpg?1576382256|https://scryfall.com/card/aer/152/gontis-aether-heart?utm_source=api>`
+:mtgtip:`Gonti's Aether Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e4fc5ed-e90d-4965-985a-ed126a713506.jpg?1576382256|https://scryfall.com/card/aer/152/gontis-aether-heart?utm_source=api>`
    Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get |energy|\ |energy| (two energy counters).
 
    Pay |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|, Exile Gonti's Aether Heart: Take an extra turn after this one.
 
 
-:mtgtip:`Heart of Kiran<https://img.scryfall.com/cards/border_crop/front/5/e/5e847c44-1849-4251-9075-88ed5c7792a6.jpg?1576382262|https://scryfall.com/card/aer/153/heart-of-kiran?utm_source=api>`
+:mtgtip:`Heart of Kiran<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e847c44-1849-4251-9075-88ed5c7792a6.jpg?1576382262|https://scryfall.com/card/aer/153/heart-of-kiran?utm_source=api>`
    Flying, vigilance
 
    Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
@@ -843,61 +843,61 @@
    You may remove a loyalty counter from a planeswalker you control rather than pay Heart of Kiran's crew cost.
 
 
-:mtgtip:`Hope of Ghirapur<https://img.scryfall.com/cards/border_crop/front/6/f/6f4bcadd-7eff-4294-94d5-52482a734d5b.jpg?1576382268|https://scryfall.com/card/aer/154/hope-of-ghirapur?utm_source=api>`
+:mtgtip:`Hope of Ghirapur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f4bcadd-7eff-4294-94d5-52482a734d5b.jpg?1576382268|https://scryfall.com/card/aer/154/hope-of-ghirapur?utm_source=api>`
    Flying
 
    Sacrifice Hope of Ghirapur: Until your next turn, target player who was dealt combat damage by Hope of Ghirapur this turn can't cast noncreature spells.
 
 
-:mtgtip:`Implement of Combustion<https://img.scryfall.com/cards/border_crop/front/1/5/15b1c8da-604a-42f0-8658-82580700dd31.jpg?1576382275|https://scryfall.com/card/aer/155/implement-of-combustion?utm_source=api>`
+:mtgtip:`Implement of Combustion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15b1c8da-604a-42f0-8658-82580700dd31.jpg?1576382275|https://scryfall.com/card/aer/155/implement-of-combustion?utm_source=api>`
    |mana_r|, Sacrifice Implement of Combustion: It deals 1 damage to target player or planeswalker.
 
    When Implement of Combustion is put into a graveyard from the battlefield, draw a card.
 
 
-:mtgtip:`Implement of Examination<https://img.scryfall.com/cards/border_crop/front/a/7/a791aa71-00db-422d-a78a-53b121c24db5.jpg?1576382282|https://scryfall.com/card/aer/156/implement-of-examination?utm_source=api>`
+:mtgtip:`Implement of Examination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a791aa71-00db-422d-a78a-53b121c24db5.jpg?1576382282|https://scryfall.com/card/aer/156/implement-of-examination?utm_source=api>`
    |mana_u|, Sacrifice Implement of Examination: Draw a card.
 
    When Implement of Examination is put into a graveyard from the battlefield, draw a card.
 
 
-:mtgtip:`Implement of Ferocity<https://img.scryfall.com/cards/border_crop/front/b/c/bcdee084-0d1a-486a-8361-680d394a5e23.jpg?1576382289|https://scryfall.com/card/aer/157/implement-of-ferocity?utm_source=api>`
+:mtgtip:`Implement of Ferocity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcdee084-0d1a-486a-8361-680d394a5e23.jpg?1576382289|https://scryfall.com/card/aer/157/implement-of-ferocity?utm_source=api>`
    |mana_g|, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target creature. Activate this ability only any time you could cast a sorcery.
 
    When Implement of Ferocity is put into a graveyard from the battlefield, draw a card.
 
 
-:mtgtip:`Implement of Improvement<https://img.scryfall.com/cards/border_crop/front/2/c/2cb8eb0c-d7fa-4229-ae65-1890c77b2c7c.jpg?1576382296|https://scryfall.com/card/aer/158/implement-of-improvement?utm_source=api>`
+:mtgtip:`Implement of Improvement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cb8eb0c-d7fa-4229-ae65-1890c77b2c7c.jpg?1576382296|https://scryfall.com/card/aer/158/implement-of-improvement?utm_source=api>`
    |mana_w|, Sacrifice Implement of Improvement: You gain 2 life.
 
    When Implement of Improvement is put into a graveyard from the battlefield, draw a card.
 
 
-:mtgtip:`Implement of Malice<https://img.scryfall.com/cards/border_crop/front/2/e/2e45ca82-e387-4df0-890d-d53a7d0dadf7.jpg?1576382303|https://scryfall.com/card/aer/159/implement-of-malice?utm_source=api>`
+:mtgtip:`Implement of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e45ca82-e387-4df0-890d-d53a7d0dadf7.jpg?1576382303|https://scryfall.com/card/aer/159/implement-of-malice?utm_source=api>`
    |mana_b|, Sacrifice Implement of Malice: Target player discards a card. Activate this ability only any time you could cast a sorcery.
 
    When Implement of Malice is put into a graveyard from the battlefield, draw a card.
 
 
-:mtgtip:`Inspiring Statuary<https://img.scryfall.com/cards/border_crop/front/4/0/40e2564f-0066-41e0-a767-13ef33a17024.jpg?1576382311|https://scryfall.com/card/aer/160/inspiring-statuary?utm_source=api>`
+:mtgtip:`Inspiring Statuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40e2564f-0066-41e0-a767-13ef33a17024.jpg?1576382311|https://scryfall.com/card/aer/160/inspiring-statuary?utm_source=api>`
    Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
 
-:mtgtip:`Irontread Crusher<https://img.scryfall.com/cards/border_crop/front/8/1/81873223-29c7-466b-b922-6717ec84afff.jpg?1576382319|https://scryfall.com/card/aer/161/irontread-crusher?utm_source=api>`
+:mtgtip:`Irontread Crusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81873223-29c7-466b-b922-6717ec84afff.jpg?1576382319|https://scryfall.com/card/aer/161/irontread-crusher?utm_source=api>`
    Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Lifecrafter's Bestiary<https://img.scryfall.com/cards/border_crop/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.jpg?1576382327|https://scryfall.com/card/aer/162/lifecrafters-bestiary?utm_source=api>`
+:mtgtip:`Lifecrafter's Bestiary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.jpg?1576382327|https://scryfall.com/card/aer/162/lifecrafters-bestiary?utm_source=api>`
    At the beginning of your upkeep, scry 1.
 
    Whenever you cast a creature spell, you may pay |mana_g|. If you do, draw a card.
 
 
-:mtgtip:`Merchant's Dockhand<https://img.scryfall.com/cards/border_crop/front/9/5/955b4bc9-1ded-4f23-b415-ab968c681eb7.jpg?1576382333|https://scryfall.com/card/aer/163/merchants-dockhand?utm_source=api>`
+:mtgtip:`Merchant's Dockhand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/955b4bc9-1ded-4f23-b415-ab968c681eb7.jpg?1576382333|https://scryfall.com/card/aer/163/merchants-dockhand?utm_source=api>`
    |mana_3|\ |mana_u|, |tap|, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Metallic Mimic<https://img.scryfall.com/cards/border_crop/front/1/a/1aa4eba9-9e91-4beb-9296-a18baa73a318.jpg?1576382339|https://scryfall.com/card/aer/164/metallic-mimic?utm_source=api>`
+:mtgtip:`Metallic Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1aa4eba9-9e91-4beb-9296-a18baa73a318.jpg?1576382339|https://scryfall.com/card/aer/164/metallic-mimic?utm_source=api>`
    As Metallic Mimic enters the battlefield, choose a creature type.
 
    Metallic Mimic is the chosen type in addition to its other types.
@@ -905,69 +905,69 @@
    Each other creature you control of the chosen type enters the battlefield with an additional +1/+1 counter on it.
 
 
-:mtgtip:`Mobile Garrison<https://img.scryfall.com/cards/border_crop/front/d/a/da443378-f5cb-4240-9524-2c40ec17c933.jpg?1576382347|https://scryfall.com/card/aer/165/mobile-garrison?utm_source=api>`
+:mtgtip:`Mobile Garrison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da443378-f5cb-4240-9524-2c40ec17c933.jpg?1576382347|https://scryfall.com/card/aer/165/mobile-garrison?utm_source=api>`
    Whenever Mobile Garrison attacks, untap another target artifact or creature you control.
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Night Market Guard<https://img.scryfall.com/cards/border_crop/front/8/a/8ae03e5c-9655-425c-90ef-b70a0e66868d.jpg?1576382355|https://scryfall.com/card/aer/166/night-market-guard?utm_source=api>`
+:mtgtip:`Night Market Guard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ae03e5c-9655-425c-90ef-b70a0e66868d.jpg?1576382355|https://scryfall.com/card/aer/166/night-market-guard?utm_source=api>`
    Night Market Guard can block an additional creature each combat.
 
 
-:mtgtip:`Ornithopter<https://img.scryfall.com/cards/border_crop/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1576382362|https://scryfall.com/card/aer/167/ornithopter?utm_source=api>`
+:mtgtip:`Ornithopter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1576382362|https://scryfall.com/card/aer/167/ornithopter?utm_source=api>`
    Flying
 
 
-:mtgtip:`Pacification Array<https://img.scryfall.com/cards/border_crop/front/8/b/8bed742a-a12a-4728-a771-07e3d1417419.jpg?1576382370|https://scryfall.com/card/aer/168/pacification-array?utm_source=api>`
+:mtgtip:`Pacification Array<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bed742a-a12a-4728-a771-07e3d1417419.jpg?1576382370|https://scryfall.com/card/aer/168/pacification-array?utm_source=api>`
    |mana_2|, |tap|: Tap target artifact or creature.
 
 
-:mtgtip:`Paradox Engine<https://img.scryfall.com/cards/border_crop/front/f/d/fd8ccd81-9e11-47fa-8e16-064c52c24506.jpg?1576382376|https://scryfall.com/card/aer/169/paradox-engine?utm_source=api>`
+:mtgtip:`Paradox Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd8ccd81-9e11-47fa-8e16-064c52c24506.jpg?1576382376|https://scryfall.com/card/aer/169/paradox-engine?utm_source=api>`
    Whenever you cast a spell, untap all nonland permanents you control.
 
 
-:mtgtip:`Peacewalker Colossus<https://img.scryfall.com/cards/border_crop/front/1/5/1599b545-6b8e-4350-980a-59349374400d.jpg?1576382382|https://scryfall.com/card/aer/170/peacewalker-colossus?utm_source=api>`
+:mtgtip:`Peacewalker Colossus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/1599b545-6b8e-4350-980a-59349374400d.jpg?1576382382|https://scryfall.com/card/aer/170/peacewalker-colossus?utm_source=api>`
    |mana_1|\ |mana_w|: Another target Vehicle you control becomes an artifact creature until end of turn.
 
    Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Planar Bridge<https://img.scryfall.com/cards/border_crop/front/9/9/991397cf-5c7d-4e8a-8f46-8e2e0ed29eff.jpg?1576382390|https://scryfall.com/card/aer/171/planar-bridge?utm_source=api>`
+:mtgtip:`Planar Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/991397cf-5c7d-4e8a-8f46-8e2e0ed29eff.jpg?1576382390|https://scryfall.com/card/aer/171/planar-bridge?utm_source=api>`
    |mana_8|, |tap|: Search your library for a permanent card, put it onto the battlefield, then shuffle your library.
 
 
-:mtgtip:`Prizefighter Construct<https://img.scryfall.com/cards/border_crop/front/8/e/8e389c92-b54b-46b3-a7ab-b8a5a2a7d380.jpg?1576382396|https://scryfall.com/card/aer/172/prizefighter-construct?utm_source=api>`
+:mtgtip:`Prizefighter Construct<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e389c92-b54b-46b3-a7ab-b8a5a2a7d380.jpg?1576382396|https://scryfall.com/card/aer/172/prizefighter-construct?utm_source=api>`
    
 
 
-:mtgtip:`Renegade Map<https://img.scryfall.com/cards/border_crop/front/a/c/ac063445-d0e2-4015-96dc-97098433f30a.jpg?1576382404|https://scryfall.com/card/aer/173/renegade-map?utm_source=api>`
+:mtgtip:`Renegade Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac063445-d0e2-4015-96dc-97098433f30a.jpg?1576382404|https://scryfall.com/card/aer/173/renegade-map?utm_source=api>`
    Renegade Map enters the battlefield tapped.
 
    |tap|, Sacrifice Renegade Map: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
 
-:mtgtip:`Reservoir Walker<https://img.scryfall.com/cards/border_crop/front/8/a/8afe3be3-b0bc-4617-b4de-f60d14f1b91d.jpg?1576382413|https://scryfall.com/card/aer/174/reservoir-walker?utm_source=api>`
+:mtgtip:`Reservoir Walker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8afe3be3-b0bc-4617-b4de-f60d14f1b91d.jpg?1576382413|https://scryfall.com/card/aer/174/reservoir-walker?utm_source=api>`
    When Reservoir Walker enters the battlefield, you gain 3 life and get |energy|\ |energy|\ |energy| (three energy counters).
 
 
-:mtgtip:`Scrap Trawler<https://img.scryfall.com/cards/border_crop/front/6/8/68abc75f-596f-4169-96fc-ada941ef47ed.jpg?1576382420|https://scryfall.com/card/aer/175/scrap-trawler?utm_source=api>`
+:mtgtip:`Scrap Trawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68abc75f-596f-4169-96fc-ada941ef47ed.jpg?1576382420|https://scryfall.com/card/aer/175/scrap-trawler?utm_source=api>`
    Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser converted mana cost.
 
 
-:mtgtip:`Servo Schematic<https://img.scryfall.com/cards/border_crop/front/a/f/af2299e0-d31f-4ec4-9497-16e494ee21e6.jpg?1576382430|https://scryfall.com/card/aer/176/servo-schematic?utm_source=api>`
+:mtgtip:`Servo Schematic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af2299e0-d31f-4ec4-9497-16e494ee21e6.jpg?1576382430|https://scryfall.com/card/aer/176/servo-schematic?utm_source=api>`
    When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.
 
 
-:mtgtip:`Treasure Keeper<https://img.scryfall.com/cards/border_crop/front/9/c/9c5d73d2-60cc-4b64-8274-4ba1bb98b6fa.jpg?1576382437|https://scryfall.com/card/aer/177/treasure-keeper?utm_source=api>`
+:mtgtip:`Treasure Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c5d73d2-60cc-4b64-8274-4ba1bb98b6fa.jpg?1576382437|https://scryfall.com/card/aer/177/treasure-keeper?utm_source=api>`
    When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with converted mana cost 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.
 
 
-:mtgtip:`Universal Solvent<https://img.scryfall.com/cards/border_crop/front/2/f/2f1b66b2-12b2-497b-a328-b43630c79e73.jpg?1576382443|https://scryfall.com/card/aer/178/universal-solvent?utm_source=api>`
+:mtgtip:`Universal Solvent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f1b66b2-12b2-497b-a328-b43630c79e73.jpg?1576382443|https://scryfall.com/card/aer/178/universal-solvent?utm_source=api>`
    |mana_7|, |tap|, Sacrifice Universal Solvent: Destroy target permanent.
 
 
-:mtgtip:`Untethered Express<https://img.scryfall.com/cards/border_crop/front/d/b/dba729d8-fd5e-4183-806a-0997f443a58f.jpg?1576382456|https://scryfall.com/card/aer/179/untethered-express?utm_source=api>`
+:mtgtip:`Untethered Express<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dba729d8-fd5e-4183-806a-0997f443a58f.jpg?1576382456|https://scryfall.com/card/aer/179/untethered-express?utm_source=api>`
    Trample
 
    Whenever Untethered Express attacks, put a +1/+1 counter on it.
@@ -975,11 +975,11 @@
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Verdant Automaton<https://img.scryfall.com/cards/border_crop/front/5/2/52c66c5a-0b1b-4936-9e07-2d169f16c1a6.jpg?1576382462|https://scryfall.com/card/aer/180/verdant-automaton?utm_source=api>`
+:mtgtip:`Verdant Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52c66c5a-0b1b-4936-9e07-2d169f16c1a6.jpg?1576382462|https://scryfall.com/card/aer/180/verdant-automaton?utm_source=api>`
    |mana_3|\ |mana_g|: Put a +1/+1 counter on Verdant Automaton.
 
 
-:mtgtip:`Walking Ballista<https://img.scryfall.com/cards/border_crop/front/3/2/329a8738-3e17-403a-857a-0ba529ce8cd1.jpg?1576382470|https://scryfall.com/card/aer/181/walking-ballista?utm_source=api>`
+:mtgtip:`Walking Ballista<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/329a8738-3e17-403a-857a-0ba529ce8cd1.jpg?1576382470|https://scryfall.com/card/aer/181/walking-ballista?utm_source=api>`
    Walking Ballista enters the battlefield with X +1/+1 counters on it.
 
    |mana_4|: Put a +1/+1 counter on Walking Ballista.
@@ -987,21 +987,21 @@
    Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.
 
 
-:mtgtip:`Watchful Automaton<https://img.scryfall.com/cards/border_crop/front/1/3/138b5fde-417d-4860-aca9-eae7f78b5768.jpg?1576382476|https://scryfall.com/card/aer/182/watchful-automaton?utm_source=api>`
+:mtgtip:`Watchful Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/138b5fde-417d-4860-aca9-eae7f78b5768.jpg?1576382476|https://scryfall.com/card/aer/182/watchful-automaton?utm_source=api>`
    |mana_2|\ |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-:mtgtip:`Welder Automaton<https://img.scryfall.com/cards/border_crop/front/8/8/88b5bae4-be97-4c10-b222-e1e317a8ffbc.jpg?1576382482|https://scryfall.com/card/aer/183/welder-automaton?utm_source=api>`
+:mtgtip:`Welder Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88b5bae4-be97-4c10-b222-e1e317a8ffbc.jpg?1576382482|https://scryfall.com/card/aer/183/welder-automaton?utm_source=api>`
    |mana_3|\ |mana_r|: Welder Automaton deals 1 damage to each opponent.
 
 
-:mtgtip:`Spire of Industry<https://img.scryfall.com/cards/border_crop/front/8/3/8331724d-6fab-454a-b06c-b06e499fa552.jpg?1576382490|https://scryfall.com/card/aer/184/spire-of-industry?utm_source=api>`
+:mtgtip:`Spire of Industry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8331724d-6fab-454a-b06c-b06e499fa552.jpg?1576382490|https://scryfall.com/card/aer/184/spire-of-industry?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact.
 
 
-:mtgtip:`Ajani, Valiant Protector<https://img.scryfall.com/cards/border_crop/front/7/9/791fdd9a-0ab6-4db9-84f9-859d2d862518.jpg?1562923558|https://scryfall.com/card/aer/185/ajani-valiant-protector?utm_source=api>`
+:mtgtip:`Ajani, Valiant Protector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/791fdd9a-0ab6-4db9-84f9-859d2d862518.jpg?1562923558|https://scryfall.com/card/aer/185/ajani-valiant-protector?utm_source=api>`
    +2: Put two +1/+1 counters on up to one target creature.
 
    +1: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
@@ -1009,29 +1009,29 @@
    −11: Put X +1/+1 counters on target creature, where X is your life total. That creature gains trample until end of turn.
 
 
-:mtgtip:`Inspiring Roar<https://img.scryfall.com/cards/border_crop/front/4/e/4ef9708e-bfe4-4d24-8304-1618daa1c3ee.jpg?1562913510|https://scryfall.com/card/aer/186/inspiring-roar?utm_source=api>`
+:mtgtip:`Inspiring Roar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ef9708e-bfe4-4d24-8304-1618daa1c3ee.jpg?1562913510|https://scryfall.com/card/aer/186/inspiring-roar?utm_source=api>`
    Put a +1/+1 counter on each creature you control.
 
 
-:mtgtip:`Ajani's Comrade<https://img.scryfall.com/cards/border_crop/front/5/b/5bebef1c-2f03-4e0a-b3ba-861546ebf8a6.jpg?1562916660|https://scryfall.com/card/aer/187/ajanis-comrade?utm_source=api>`
+:mtgtip:`Ajani's Comrade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bebef1c-2f03-4e0a-b3ba-861546ebf8a6.jpg?1562916660|https://scryfall.com/card/aer/187/ajanis-comrade?utm_source=api>`
    Trample
 
    At the beginning of combat on your turn, if you control an Ajani planeswalker, put a +1/+1 counter on Ajani's Comrade.
 
 
-:mtgtip:`Ajani's Aid<https://img.scryfall.com/cards/border_crop/front/7/0/7026c374-0776-403b-86fd-5092677fd5c9.jpg?1562921390|https://scryfall.com/card/aer/188/ajanis-aid?utm_source=api>`
+:mtgtip:`Ajani's Aid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/7026c374-0776-403b-86fd-5092677fd5c9.jpg?1562921390|https://scryfall.com/card/aer/188/ajanis-aid?utm_source=api>`
    When Ajani's Aid enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Valiant Protector, reveal it, and put it into your hand. If you search your library this way, shuffle it.
 
    Sacrifice Ajani's Aid: Prevent all combat damage a creature of your choice would deal this turn.
 
 
-:mtgtip:`Tranquil Expanse<https://img.scryfall.com/cards/border_crop/front/2/e/2ea97c40-310e-4774-ae56-d4c0500a6189.jpg?1562905945|https://scryfall.com/card/aer/189/tranquil-expanse?utm_source=api>`
+:mtgtip:`Tranquil Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ea97c40-310e-4774-ae56-d4c0500a6189.jpg?1562905945|https://scryfall.com/card/aer/189/tranquil-expanse?utm_source=api>`
    Tranquil Expanse enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Tezzeret, Master of Metal<https://img.scryfall.com/cards/border_crop/front/d/7/d7c6614c-cc2b-4e5b-9c0d-ce8e4b2d8ea7.jpg?1562946467|https://scryfall.com/card/aer/190/tezzeret-master-of-metal?utm_source=api>`
+:mtgtip:`Tezzeret, Master of Metal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7c6614c-cc2b-4e5b-9c0d-ce8e4b2d8ea7.jpg?1562946467|https://scryfall.com/card/aer/190/tezzeret-master-of-metal?utm_source=api>`
    +1: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.
 
    −3: Target opponent loses life equal to the number of artifacts you control.
@@ -1039,21 +1039,21 @@
    −8: Gain control of all artifacts and creatures target opponent controls.
 
 
-:mtgtip:`Tezzeret's Betrayal<https://img.scryfall.com/cards/border_crop/front/9/d/9d71efa6-5de8-476f-86ce-0790956e574f.jpg?1562932177|https://scryfall.com/card/aer/191/tezzerets-betrayal?utm_source=api>`
+:mtgtip:`Tezzeret's Betrayal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d71efa6-5de8-476f-86ce-0790956e574f.jpg?1562932177|https://scryfall.com/card/aer/191/tezzerets-betrayal?utm_source=api>`
    Destroy target creature. You may search your library and/or graveyard for a card named Tezzeret, Master of Metal, reveal it, and put it into your hand. If you search your library this way, shuffle it.
 
 
-:mtgtip:`Pendulum of Patterns<https://img.scryfall.com/cards/border_crop/front/d/1/d19751aa-823e-4a0f-a004-dee333b34327.jpg?1562944937|https://scryfall.com/card/aer/192/pendulum-of-patterns?utm_source=api>`
+:mtgtip:`Pendulum of Patterns<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d19751aa-823e-4a0f-a004-dee333b34327.jpg?1562944937|https://scryfall.com/card/aer/192/pendulum-of-patterns?utm_source=api>`
    When Pendulum of Patterns enters the battlefield, you gain 3 life.
 
    |mana_5|, |tap|, Sacrifice Pendulum of Patterns: Draw a card.
 
 
-:mtgtip:`Tezzeret's Simulacrum<https://img.scryfall.com/cards/border_crop/front/7/e/7eacfeec-a341-45bc-bf95-e3df0094505a.jpg?1562924865|https://scryfall.com/card/aer/193/tezzerets-simulacrum?utm_source=api>`
+:mtgtip:`Tezzeret's Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eacfeec-a341-45bc-bf95-e3df0094505a.jpg?1562924865|https://scryfall.com/card/aer/193/tezzerets-simulacrum?utm_source=api>`
    |tap|: Target opponent loses 1 life. If you control a Tezzeret planeswalker, that player loses 3 life instead.
 
 
-:mtgtip:`Submerged Boneyard<https://img.scryfall.com/cards/border_crop/front/0/9/09dd7aab-c0ac-4566-bf99-c49931eeea2a.jpg?1562897218|https://scryfall.com/card/aer/194/submerged-boneyard?utm_source=api>`
+:mtgtip:`Submerged Boneyard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09dd7aab-c0ac-4566-bf99-c49931eeea2a.jpg?1562897218|https://scryfall.com/card/aer/194/submerged-boneyard?utm_source=api>`
    Submerged Boneyard enters the battlefield tapped.
 
    |tap|: Add |mana_u| or |mana_b|.

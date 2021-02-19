@@ -5,121 +5,121 @@
 =====================
 
 
-:mtgtip:`Adanto Vanguard<https://img.scryfall.com/cards/border_crop/front/2/1/21c950d7-b4f6-4902-8c9a-98f2933f9fa5.jpg?1562552020|https://scryfall.com/card/xln/1/adanto-vanguard?utm_source=api>`
+:mtgtip:`Adanto Vanguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21c950d7-b4f6-4902-8c9a-98f2933f9fa5.jpg?1562552020|https://scryfall.com/card/xln/1/adanto-vanguard?utm_source=api>`
    As long as Adanto Vanguard is attacking, it gets +2/+0.
 
    Pay 4 life: Adanto Vanguard gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
 
-:mtgtip:`Ashes of the Abhorrent<https://img.scryfall.com/cards/border_crop/front/4/e/4e8eb264-dadb-440c-af85-273e755f1db6.jpg?1562555024|https://scryfall.com/card/xln/2/ashes-of-the-abhorrent?utm_source=api>`
+:mtgtip:`Ashes of the Abhorrent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e8eb264-dadb-440c-af85-273e755f1db6.jpg?1562555024|https://scryfall.com/card/xln/2/ashes-of-the-abhorrent?utm_source=api>`
    Players can't cast spells from graveyards or activate abilities of cards in graveyards.
 
    Whenever a creature dies, you gain 1 life.
 
 
-:mtgtip:`Axis of Mortality<https://img.scryfall.com/cards/border_crop/front/3/b/3b9d72a8-8acf-42c6-8adf-cbaecb4a985a.jpg?1562553762|https://scryfall.com/card/xln/3/axis-of-mortality?utm_source=api>`
+:mtgtip:`Axis of Mortality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b9d72a8-8acf-42c6-8adf-cbaecb4a985a.jpg?1562553762|https://scryfall.com/card/xln/3/axis-of-mortality?utm_source=api>`
    At the beginning of your upkeep, you may have two target players exchange life totals.
 
 
-:mtgtip:`Bellowing Aegisaur<https://img.scryfall.com/cards/border_crop/front/c/3/c3e3b6c5-fd30-4d45-a122-ce60d5707357.jpg?1562563552|https://scryfall.com/card/xln/4/bellowing-aegisaur?utm_source=api>`
+:mtgtip:`Bellowing Aegisaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3e3b6c5-fd30-4d45-a122-ce60d5707357.jpg?1562563552|https://scryfall.com/card/xln/4/bellowing-aegisaur?utm_source=api>`
    Enrage — Whenever Bellowing Aegisaur is dealt damage, put a +1/+1 counter on each other creature you control.
 
 
-:mtgtip:`Bishop of Rebirth<https://img.scryfall.com/cards/border_crop/front/3/d/3d654bec-4eb2-4df6-b71e-ce59a718f903.jpg?1562553920|https://scryfall.com/card/xln/5/bishop-of-rebirth?utm_source=api>`
+:mtgtip:`Bishop of Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d654bec-4eb2-4df6-b71e-ce59a718f903.jpg?1562553920|https://scryfall.com/card/xln/5/bishop-of-rebirth?utm_source=api>`
    Vigilance
 
    Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
 
 
-:mtgtip:`Bishop's Soldier<https://img.scryfall.com/cards/border_crop/front/d/9/d954677c-2de6-440a-90d0-bab2e0c8b4af.jpg?1562564922|https://scryfall.com/card/xln/6/bishops-soldier?utm_source=api>`
+:mtgtip:`Bishop's Soldier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d954677c-2de6-440a-90d0-bab2e0c8b4af.jpg?1562564922|https://scryfall.com/card/xln/6/bishops-soldier?utm_source=api>`
    Lifelink
 
 
-:mtgtip:`Bright Reprisal<https://img.scryfall.com/cards/border_crop/front/3/3/3340ffb9-9513-4551-ad64-821600596b2e.jpg?1562553092|https://scryfall.com/card/xln/7/bright-reprisal?utm_source=api>`
+:mtgtip:`Bright Reprisal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3340ffb9-9513-4551-ad64-821600596b2e.jpg?1562553092|https://scryfall.com/card/xln/7/bright-reprisal?utm_source=api>`
    Destroy target attacking creature.
 
    Draw a card.
 
 
-:mtgtip:`Demystify<https://img.scryfall.com/cards/border_crop/front/e/3/e3979b88-ac58-420a-8c03-37ea5d93d0f1.jpg?1562565654|https://scryfall.com/card/xln/8/demystify?utm_source=api>`
+:mtgtip:`Demystify<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3979b88-ac58-420a-8c03-37ea5d93d0f1.jpg?1562565654|https://scryfall.com/card/xln/8/demystify?utm_source=api>`
    Destroy target enchantment.
 
 
-:mtgtip:`Duskborne Skymarcher<https://img.scryfall.com/cards/border_crop/front/b/a/baa524bb-0ce7-4c30-93c3-ae15c3b05e92.jpg?1562562991|https://scryfall.com/card/xln/9/duskborne-skymarcher?utm_source=api>`
+:mtgtip:`Duskborne Skymarcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/baa524bb-0ce7-4c30-93c3-ae15c3b05e92.jpg?1562562991|https://scryfall.com/card/xln/9/duskborne-skymarcher?utm_source=api>`
    Flying
 
    |mana_w|, |tap|: Target attacking Vampire gets +1/+1 until end of turn.
 
 
-:mtgtip:`Emissary of Sunrise<https://img.scryfall.com/cards/border_crop/front/0/6/0636cd47-d2a3-4320-97bf-40db805fca51.jpg?1562550086|https://scryfall.com/card/xln/10/emissary-of-sunrise?utm_source=api>`
+:mtgtip:`Emissary of Sunrise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0636cd47-d2a3-4320-97bf-40db805fca51.jpg?1562550086|https://scryfall.com/card/xln/10/emissary-of-sunrise?utm_source=api>`
    First strike
 
    When Emissary of Sunrise enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Encampment Keeper<https://img.scryfall.com/cards/border_crop/front/6/f/6fe64569-c1b6-4bd4-a742-6ee46ea5181c.jpg?1562557382|https://scryfall.com/card/xln/11/encampment-keeper?utm_source=api>`
+:mtgtip:`Encampment Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fe64569-c1b6-4bd4-a742-6ee46ea5181c.jpg?1562557382|https://scryfall.com/card/xln/11/encampment-keeper?utm_source=api>`
    First strike
 
    |mana_7|\ |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn.
 
 
-:mtgtip:`Glorifier of Dusk<https://img.scryfall.com/cards/border_crop/front/a/a/aaf87f95-1c77-455a-8feb-57bfd4d159c9.jpg?1562561870|https://scryfall.com/card/xln/12/glorifier-of-dusk?utm_source=api>`
+:mtgtip:`Glorifier of Dusk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aaf87f95-1c77-455a-8feb-57bfd4d159c9.jpg?1562561870|https://scryfall.com/card/xln/12/glorifier-of-dusk?utm_source=api>`
    Pay 2 life: Glorifier of Dusk gains flying until end of turn.
 
    Pay 2 life: Glorifier of Dusk gains vigilance until end of turn.
 
 
-:mtgtip:`Goring Ceratops<https://img.scryfall.com/cards/border_crop/front/8/3/8309f684-5912-4191-9f64-d573f1cc84c9.jpg?1562559115|https://scryfall.com/card/xln/13/goring-ceratops?utm_source=api>`
+:mtgtip:`Goring Ceratops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8309f684-5912-4191-9f64-d573f1cc84c9.jpg?1562559115|https://scryfall.com/card/xln/13/goring-ceratops?utm_source=api>`
    Double strike
 
    Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn.
 
 
-:mtgtip:`Imperial Aerosaur<https://img.scryfall.com/cards/border_crop/front/7/d/7d08f90b-9b98-4237-9826-578fb812d412.jpg?1562558686|https://scryfall.com/card/xln/14/imperial-aerosaur?utm_source=api>`
+:mtgtip:`Imperial Aerosaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d08f90b-9b98-4237-9826-578fb812d412.jpg?1562558686|https://scryfall.com/card/xln/14/imperial-aerosaur?utm_source=api>`
    Flying
 
    When Imperial Aerosaur enters the battlefield, another target creature you control gets +1/+1 and gains flying until end of turn.
 
 
-:mtgtip:`Imperial Lancer<https://img.scryfall.com/cards/border_crop/front/7/e/7ed3784a-2dc0-4626-aa6a-268c1e2ac83c.jpg?1562558846|https://scryfall.com/card/xln/15/imperial-lancer?utm_source=api>`
+:mtgtip:`Imperial Lancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ed3784a-2dc0-4626-aa6a-268c1e2ac83c.jpg?1562558846|https://scryfall.com/card/xln/15/imperial-lancer?utm_source=api>`
    Imperial Lancer has double strike as long as you control a Dinosaur.
 
 
-:mtgtip:`Inspiring Cleric<https://img.scryfall.com/cards/border_crop/front/3/1/31b8f1da-c8ea-41d5-b1ad-b714c22d3683.jpg?1562552997|https://scryfall.com/card/xln/16/inspiring-cleric?utm_source=api>`
+:mtgtip:`Inspiring Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31b8f1da-c8ea-41d5-b1ad-b714c22d3683.jpg?1562552997|https://scryfall.com/card/xln/16/inspiring-cleric?utm_source=api>`
    When Inspiring Cleric enters the battlefield, you gain 4 life.
 
 
-:mtgtip:`Ixalan's Binding<https://img.scryfall.com/cards/border_crop/front/5/f/5f3c8c31-ceb8-4a2c-beb6-0ff5f7b6ae07.jpg?1562556246|https://scryfall.com/card/xln/17/ixalans-binding?utm_source=api>`
+:mtgtip:`Ixalan's Binding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f3c8c31-ceb8-4a2c-beb6-0ff5f7b6ae07.jpg?1562556246|https://scryfall.com/card/xln/17/ixalans-binding?utm_source=api>`
    When Ixalan's Binding enters the battlefield, exile target nonland permanent an opponent controls until Ixalan's Binding leaves the battlefield.
 
    Your opponents can't cast spells with the same name as the exiled card.
 
 
-:mtgtip:`Kinjalli's Caller<https://img.scryfall.com/cards/border_crop/front/6/2/625211d4-c89c-4aee-a0b0-4bfabd3509ad.jpg?1562556455|https://scryfall.com/card/xln/18/kinjallis-caller?utm_source=api>`
+:mtgtip:`Kinjalli's Caller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/625211d4-c89c-4aee-a0b0-4bfabd3509ad.jpg?1562556455|https://scryfall.com/card/xln/18/kinjallis-caller?utm_source=api>`
    Dinosaur spells you cast cost |mana_1| less to cast.
 
 
-:mtgtip:`Kinjalli's Sunwing<https://img.scryfall.com/cards/border_crop/front/2/b/2b9e0b0f-651a-44e6-8fb0-e46bfda0ada9.jpg?1562552626|https://scryfall.com/card/xln/19/kinjallis-sunwing?utm_source=api>`
+:mtgtip:`Kinjalli's Sunwing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b9e0b0f-651a-44e6-8fb0-e46bfda0ada9.jpg?1562552626|https://scryfall.com/card/xln/19/kinjallis-sunwing?utm_source=api>`
    Flying
 
    Creatures your opponents control enter the battlefield tapped.
 
 
-:mtgtip:`Legion Conquistador<https://img.scryfall.com/cards/border_crop/front/f/3/f30590d7-59c7-4a1a-a8e5-3cc13f69bd41.jpg?1562566571|https://scryfall.com/card/xln/20/legion-conquistador?utm_source=api>`
+:mtgtip:`Legion Conquistador<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f30590d7-59c7-4a1a-a8e5-3cc13f69bd41.jpg?1562566571|https://scryfall.com/card/xln/20/legion-conquistador?utm_source=api>`
    When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library.
 
 
-:mtgtip:`Legion's Judgment<https://img.scryfall.com/cards/border_crop/front/3/8/385bea20-c196-4da8-bc3e-36f8d50dcc17.jpg?1562553483|https://scryfall.com/card/xln/21/legions-judgment?utm_source=api>`
+:mtgtip:`Legion's Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/385bea20-c196-4da8-bc3e-36f8d50dcc17.jpg?1562553483|https://scryfall.com/card/xln/21/legions-judgment?utm_source=api>`
    Destroy target creature with power 4 or greater.
 
 
-:mtgtip:`Legion's Landing<https://img.scryfall.com/cards/border_crop/front/0/5/05e2a5e6-3aaa-4096-bdd0-fcc1afe5a36c.jpg?1562550045|https://scryfall.com/card/xln/22/legions-landing-adanto-the-first-fort?utm_source=api>`
+:mtgtip:`Legion's Landing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05e2a5e6-3aaa-4096-bdd0-fcc1afe5a36c.jpg?1562550045|https://scryfall.com/card/xln/22/legions-landing-adanto-the-first-fort?utm_source=api>`
    When Legion's Landing enters the battlefield, create a 1/1 white Vampire creature token with lifelink.
 
    When you attack with three or more creatures, transform Legion's Landing.
 
 
-:mtgtip:`Adanto, the First Fort<https://img.scryfall.com/cards/border_crop/back/0/5/05e2a5e6-3aaa-4096-bdd0-fcc1afe5a36c.jpg?1562550045|https://scryfall.com/card/xln/22/legions-landing-adanto-the-first-fort?utm_source=api>`
+:mtgtip:`Adanto, the First Fort<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/5/05e2a5e6-3aaa-4096-bdd0-fcc1afe5a36c.jpg?1562550045|https://scryfall.com/card/xln/22/legions-landing-adanto-the-first-fort?utm_source=api>`
    (Transforms from Legion's Landing.)
 
    |tap|: Add |mana_w|.
@@ -127,19 +127,19 @@
    |mana_2|\ |mana_w|, |tap|: Create a 1/1 white Vampire creature token with lifelink.
 
 
-:mtgtip:`Looming Altisaur<https://img.scryfall.com/cards/border_crop/front/c/f/cfcff1c6-0db6-4ff6-b4af-d7048b426368.jpg?1562564237|https://scryfall.com/card/xln/23/looming-altisaur?utm_source=api>`
+:mtgtip:`Looming Altisaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfcff1c6-0db6-4ff6-b4af-d7048b426368.jpg?1562564237|https://scryfall.com/card/xln/23/looming-altisaur?utm_source=api>`
    
 
 
-:mtgtip:`Mavren Fein, Dusk Apostle<https://img.scryfall.com/cards/border_crop/front/f/7/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9.jpg?1562566887|https://scryfall.com/card/xln/24/mavren-fein-dusk-apostle?utm_source=api>`
+:mtgtip:`Mavren Fein, Dusk Apostle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9.jpg?1562566887|https://scryfall.com/card/xln/24/mavren-fein-dusk-apostle?utm_source=api>`
    Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink.
 
 
-:mtgtip:`Paladin of the Bloodstained<https://img.scryfall.com/cards/border_crop/front/5/a/5a0385d5-d0f4-40b8-af28-6557ffdfb625.jpg?1562555953|https://scryfall.com/card/xln/25/paladin-of-the-bloodstained?utm_source=api>`
+:mtgtip:`Paladin of the Bloodstained<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a0385d5-d0f4-40b8-af28-6557ffdfb625.jpg?1562555953|https://scryfall.com/card/xln/25/paladin-of-the-bloodstained?utm_source=api>`
    When Paladin of the Bloodstained enters the battlefield, create a 1/1 white Vampire creature token with lifelink.
 
 
-:mtgtip:`Pious Interdiction<https://img.scryfall.com/cards/border_crop/front/6/7/670b9645-ce34-41eb-a527-4af3e13c3a54.jpg?1562556833|https://scryfall.com/card/xln/26/pious-interdiction?utm_source=api>`
+:mtgtip:`Pious Interdiction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/670b9645-ce34-41eb-a527-4af3e13c3a54.jpg?1562556833|https://scryfall.com/card/xln/26/pious-interdiction?utm_source=api>`
    Enchant creature
 
    When Pious Interdiction enters the battlefield, you gain 2 life.
@@ -147,127 +147,127 @@
    Enchanted creature can't attack or block.
 
 
-:mtgtip:`Priest of the Wakening Sun<https://img.scryfall.com/cards/border_crop/front/0/5/051dc73e-f04a-4901-b0ed-3b33c33ac72f.jpg?1562549997|https://scryfall.com/card/xln/27/priest-of-the-wakening-sun?utm_source=api>`
+:mtgtip:`Priest of the Wakening Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/051dc73e-f04a-4901-b0ed-3b33c33ac72f.jpg?1562549997|https://scryfall.com/card/xln/27/priest-of-the-wakening-sun?utm_source=api>`
    At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life.
 
    |mana_3|\ |mana_w|\ |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library.
 
 
-:mtgtip:`Pterodon Knight<https://img.scryfall.com/cards/border_crop/front/4/1/41f00a04-1336-4830-a6c2-514848afefd2.jpg?1562554195|https://scryfall.com/card/xln/28/pterodon-knight?utm_source=api>`
+:mtgtip:`Pterodon Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41f00a04-1336-4830-a6c2-514848afefd2.jpg?1562554195|https://scryfall.com/card/xln/28/pterodon-knight?utm_source=api>`
    Pterodon Knight has flying as long as you control a Dinosaur.
 
 
-:mtgtip:`Queen's Commission<https://img.scryfall.com/cards/border_crop/front/f/0/f06c0007-299e-4d71-99c3-f905d942759d.jpg?1562566385|https://scryfall.com/card/xln/29/queens-commission?utm_source=api>`
+:mtgtip:`Queen's Commission<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f06c0007-299e-4d71-99c3-f905d942759d.jpg?1562566385|https://scryfall.com/card/xln/29/queens-commission?utm_source=api>`
    Create two 1/1 white Vampire creature tokens with lifelink.
 
 
-:mtgtip:`Rallying Roar<https://img.scryfall.com/cards/border_crop/front/d/0/d03a5efb-fde9-4bba-be80-d073eba2ad8d.jpg?1562564264|https://scryfall.com/card/xln/30/rallying-roar?utm_source=api>`
+:mtgtip:`Rallying Roar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d03a5efb-fde9-4bba-be80-d073eba2ad8d.jpg?1562564264|https://scryfall.com/card/xln/30/rallying-roar?utm_source=api>`
    Creatures you control get +1/+1 until end of turn. Untap them.
 
 
-:mtgtip:`Raptor Companion<https://img.scryfall.com/cards/border_crop/front/2/d/2d37fc42-0a7c-46b3-9270-333d370e479f.jpg?1562552690|https://scryfall.com/card/xln/31/raptor-companion?utm_source=api>`
+:mtgtip:`Raptor Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d37fc42-0a7c-46b3-9270-333d370e479f.jpg?1562552690|https://scryfall.com/card/xln/31/raptor-companion?utm_source=api>`
    
 
 
-:mtgtip:`Ritual of Rejuvenation<https://img.scryfall.com/cards/border_crop/front/6/9/691c0acb-1882-482f-9513-e7d010cc1d15.jpg?1562556922|https://scryfall.com/card/xln/32/ritual-of-rejuvenation?utm_source=api>`
+:mtgtip:`Ritual of Rejuvenation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/691c0acb-1882-482f-9513-e7d010cc1d15.jpg?1562556922|https://scryfall.com/card/xln/32/ritual-of-rejuvenation?utm_source=api>`
    You gain 4 life.
 
    Draw a card.
 
 
-:mtgtip:`Sanguine Sacrament<https://img.scryfall.com/cards/border_crop/front/f/9/f9fae153-d86a-42b5-9c1c-6dbd56118ecb.jpg?1562567047|https://scryfall.com/card/xln/33/sanguine-sacrament?utm_source=api>`
+:mtgtip:`Sanguine Sacrament<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9fae153-d86a-42b5-9c1c-6dbd56118ecb.jpg?1562567047|https://scryfall.com/card/xln/33/sanguine-sacrament?utm_source=api>`
    You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's library.
 
 
-:mtgtip:`Settle the Wreckage<https://img.scryfall.com/cards/border_crop/front/9/c/9cbd346e-098a-4cf6-a72f-468376fd2e8f.jpg?1562560853|https://scryfall.com/card/xln/34/settle-the-wreckage?utm_source=api>`
+:mtgtip:`Settle the Wreckage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cbd346e-098a-4cf6-a72f-468376fd2e8f.jpg?1562560853|https://scryfall.com/card/xln/34/settle-the-wreckage?utm_source=api>`
    Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library.
 
 
-:mtgtip:`Sheltering Light<https://img.scryfall.com/cards/border_crop/front/b/0/b0c945c7-6c31-4c4f-9203-3dc2aef50820.jpg?1562562304|https://scryfall.com/card/xln/35/sheltering-light?utm_source=api>`
+:mtgtip:`Sheltering Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0c945c7-6c31-4c4f-9203-3dc2aef50820.jpg?1562562304|https://scryfall.com/card/xln/35/sheltering-light?utm_source=api>`
    Target creature gains indestructible until end of turn. Scry 1. (Damage and effects that say "destroy" don't destroy the creature.)
 
 
-:mtgtip:`Shining Aerosaur<https://img.scryfall.com/cards/border_crop/front/8/e/8e900d0d-6f35-4e5d-9365-6ade227d218d.jpg?1562559811|https://scryfall.com/card/xln/36/shining-aerosaur?utm_source=api>`
+:mtgtip:`Shining Aerosaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e900d0d-6f35-4e5d-9365-6ade227d218d.jpg?1562559811|https://scryfall.com/card/xln/36/shining-aerosaur?utm_source=api>`
    Flying
 
 
-:mtgtip:`Skyblade of the Legion<https://img.scryfall.com/cards/border_crop/front/6/7/67e788e2-12e9-4041-8210-753aaef2576c.jpg?1562556870|https://scryfall.com/card/xln/37/skyblade-of-the-legion?utm_source=api>`
+:mtgtip:`Skyblade of the Legion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67e788e2-12e9-4041-8210-753aaef2576c.jpg?1562556870|https://scryfall.com/card/xln/37/skyblade-of-the-legion?utm_source=api>`
    Flying
 
 
-:mtgtip:`Slash of Talons<https://img.scryfall.com/cards/border_crop/front/a/9/a97d474e-83b6-4969-81b4-51f5315057d7.jpg?1562561780|https://scryfall.com/card/xln/38/slash-of-talons?utm_source=api>`
+:mtgtip:`Slash of Talons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a97d474e-83b6-4969-81b4-51f5315057d7.jpg?1562561780|https://scryfall.com/card/xln/38/slash-of-talons?utm_source=api>`
    Slash of Talons deals 2 damage to target attacking or blocking creature.
 
 
-:mtgtip:`Steadfast Armasaur<https://img.scryfall.com/cards/border_crop/front/1/9/197934d5-726c-4cd3-a934-3d6449a5a56e.jpg?1562551405|https://scryfall.com/card/xln/39/steadfast-armasaur?utm_source=api>`
+:mtgtip:`Steadfast Armasaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/197934d5-726c-4cd3-a934-3d6449a5a56e.jpg?1562551405|https://scryfall.com/card/xln/39/steadfast-armasaur?utm_source=api>`
    Vigilance
 
    |mana_1|\ |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it.
 
 
-:mtgtip:`Sunrise Seeker<https://img.scryfall.com/cards/border_crop/front/7/0/709d87b3-bf42-47ed-961d-d0e86d3e1d90.jpg?1562557417|https://scryfall.com/card/xln/40/sunrise-seeker?utm_source=api>`
+:mtgtip:`Sunrise Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/709d87b3-bf42-47ed-961d-d0e86d3e1d90.jpg?1562557417|https://scryfall.com/card/xln/40/sunrise-seeker?utm_source=api>`
    Vigilance
 
    When Sunrise Seeker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Territorial Hammerskull<https://img.scryfall.com/cards/border_crop/front/a/f/af5a237a-31e7-43ee-8d47-3eb12dd1a60c.jpg?1562562190|https://scryfall.com/card/xln/41/territorial-hammerskull?utm_source=api>`
+:mtgtip:`Territorial Hammerskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af5a237a-31e7-43ee-8d47-3eb12dd1a60c.jpg?1562562190|https://scryfall.com/card/xln/41/territorial-hammerskull?utm_source=api>`
    Whenever Territorial Hammerskull attacks, tap target creature an opponent controls.
 
 
-:mtgtip:`Tocatli Honor Guard<https://img.scryfall.com/cards/border_crop/front/a/3/a3fc3501-e7bd-4589-98c5-4476258842ea.jpg?1562561363|https://scryfall.com/card/xln/42/tocatli-honor-guard?utm_source=api>`
+:mtgtip:`Tocatli Honor Guard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3fc3501-e7bd-4589-98c5-4476258842ea.jpg?1562561363|https://scryfall.com/card/xln/42/tocatli-honor-guard?utm_source=api>`
    Creatures entering the battlefield don't cause abilities to trigger.
 
 
-:mtgtip:`Vampire's Zeal<https://img.scryfall.com/cards/border_crop/front/8/8/88c507f6-c178-40be-bca7-3bd5adb1c5b1.jpg?1562559490|https://scryfall.com/card/xln/43/vampires-zeal?utm_source=api>`
+:mtgtip:`Vampire's Zeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88c507f6-c178-40be-bca7-3bd5adb1c5b1.jpg?1562559490|https://scryfall.com/card/xln/43/vampires-zeal?utm_source=api>`
    Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains first strike until end of turn.
 
 
-:mtgtip:`Wakening Sun's Avatar<https://img.scryfall.com/cards/border_crop/front/7/4/7434abe4-87eb-4709-a26d-4e23154b4d31.jpg?1562558098|https://scryfall.com/card/xln/44/wakening-suns-avatar?utm_source=api>`
+:mtgtip:`Wakening Sun's Avatar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7434abe4-87eb-4709-a26d-4e23154b4d31.jpg?1562558098|https://scryfall.com/card/xln/44/wakening-suns-avatar?utm_source=api>`
    When Wakening Sun's Avatar enters the battlefield, if you cast it from your hand, destroy all non-Dinosaur creatures.
 
 
-:mtgtip:`Air Elemental<https://img.scryfall.com/cards/border_crop/front/0/f/0fc9ba0a-2840-48cb-8cf4-ef2a5f273849.jpg?1562550802|https://scryfall.com/card/xln/45/air-elemental?utm_source=api>`
+:mtgtip:`Air Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fc9ba0a-2840-48cb-8cf4-ef2a5f273849.jpg?1562550802|https://scryfall.com/card/xln/45/air-elemental?utm_source=api>`
    Flying
 
 
-:mtgtip:`Arcane Adaptation<https://img.scryfall.com/cards/border_crop/front/b/f/bf3edaaf-cf63-4e17-94ae-9d9991d9fb5f.jpg?1562563280|https://scryfall.com/card/xln/46/arcane-adaptation?utm_source=api>`
+:mtgtip:`Arcane Adaptation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf3edaaf-cf63-4e17-94ae-9d9991d9fb5f.jpg?1562563280|https://scryfall.com/card/xln/46/arcane-adaptation?utm_source=api>`
    As Arcane Adaptation enters the battlefield, choose a creature type.
 
    Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.
 
 
-:mtgtip:`Cancel<https://img.scryfall.com/cards/border_crop/front/c/f/cf6e5ad6-ffe2-4588-b357-c415c33fbc11.jpg?1562564222|https://scryfall.com/card/xln/47/cancel?utm_source=api>`
+:mtgtip:`Cancel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf6e5ad6-ffe2-4588-b357-c415c33fbc11.jpg?1562564222|https://scryfall.com/card/xln/47/cancel?utm_source=api>`
    Counter target spell.
 
 
-:mtgtip:`Chart a Course<https://img.scryfall.com/cards/border_crop/front/9/8/98291778-2ec2-47e2-ac99-5f8cfbb3cf24.jpg?1562560509|https://scryfall.com/card/xln/48/chart-a-course?utm_source=api>`
-   Draw two cards. Then discard a card unless you attacked with a creature this turn.
+:mtgtip:`Chart a Course<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98291778-2ec2-47e2-ac99-5f8cfbb3cf24.jpg?1562560509|https://scryfall.com/card/xln/48/chart-a-course?utm_source=api>`
+   Draw two cards. Then discard a card unless you attacked this turn.
 
 
-:mtgtip:`Daring Saboteur<https://img.scryfall.com/cards/border_crop/front/5/7/57cb012c-947c-4281-8619-1384acf6df54.jpg?1562555782|https://scryfall.com/card/xln/49/daring-saboteur?utm_source=api>`
+:mtgtip:`Daring Saboteur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57cb012c-947c-4281-8619-1384acf6df54.jpg?1562555782|https://scryfall.com/card/xln/49/daring-saboteur?utm_source=api>`
    |mana_2|\ |mana_u|: Daring Saboteur can't be blocked this turn.
 
    Whenever Daring Saboteur deals combat damage to a player, you may draw a card. If you do, discard a card.
 
 
-:mtgtip:`Deadeye Quartermaster<https://img.scryfall.com/cards/border_crop/front/5/b/5ba70d58-69fd-4675-85d2-90bc2595c01c.jpg?1562556037|https://scryfall.com/card/xln/50/deadeye-quartermaster?utm_source=api>`
+:mtgtip:`Deadeye Quartermaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5ba70d58-69fd-4675-85d2-90bc2595c01c.jpg?1562556037|https://scryfall.com/card/xln/50/deadeye-quartermaster?utm_source=api>`
    When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle your library.
 
 
-:mtgtip:`Deeproot Waters<https://img.scryfall.com/cards/border_crop/front/2/4/24bec3b7-5dfc-4b48-ae8f-5bf49470d030.jpg?1562552168|https://scryfall.com/card/xln/51/deeproot-waters?utm_source=api>`
+:mtgtip:`Deeproot Waters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24bec3b7-5dfc-4b48-ae8f-5bf49470d030.jpg?1562552168|https://scryfall.com/card/xln/51/deeproot-waters?utm_source=api>`
    Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token with hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)
 
 
-:mtgtip:`Depths of Desire<https://img.scryfall.com/cards/border_crop/front/6/3/63420437-76a9-40cf-aedc-0ca1e73fcc0b.jpg?1562556492|https://scryfall.com/card/xln/52/depths-of-desire?utm_source=api>`
+:mtgtip:`Depths of Desire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63420437-76a9-40cf-aedc-0ca1e73fcc0b.jpg?1562556492|https://scryfall.com/card/xln/52/depths-of-desire?utm_source=api>`
    Return target creature to its owner's hand. Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Dive Down<https://img.scryfall.com/cards/border_crop/front/b/3/b33e493e-1aef-43b3-9716-52158b002430.jpg?1562562509|https://scryfall.com/card/xln/53/dive-down?utm_source=api>`
+:mtgtip:`Dive Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b33e493e-1aef-43b3-9716-52158b002430.jpg?1562562509|https://scryfall.com/card/xln/53/dive-down?utm_source=api>`
    Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
 
 
-:mtgtip:`Dreamcaller Siren<https://img.scryfall.com/cards/border_crop/front/5/4/548c92c8-1ae1-48b4-8cbe-aa18f59c1efb.jpg?1562555546|https://scryfall.com/card/xln/54/dreamcaller-siren?utm_source=api>`
+:mtgtip:`Dreamcaller Siren<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/548c92c8-1ae1-48b4-8cbe-aa18f59c1efb.jpg?1562555546|https://scryfall.com/card/xln/54/dreamcaller-siren?utm_source=api>`
    Flash
 
    Flying
@@ -277,27 +277,27 @@
    When Dreamcaller Siren enters the battlefield, if you control another Pirate, tap up to two target nonland permanents.
 
 
-:mtgtip:`Entrancing Melody<https://img.scryfall.com/cards/border_crop/front/1/5/15732049-7e56-432f-881f-215e45b7a70e.jpg?1562551124|https://scryfall.com/card/xln/55/entrancing-melody?utm_source=api>`
+:mtgtip:`Entrancing Melody<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15732049-7e56-432f-881f-215e45b7a70e.jpg?1562551124|https://scryfall.com/card/xln/55/entrancing-melody?utm_source=api>`
    Gain control of target creature with converted mana cost X.
 
 
-:mtgtip:`Favorable Winds<https://img.scryfall.com/cards/border_crop/front/a/d/adfe8174-4e75-4e8f-b59c-f80a98492b5f.jpg?1562562093|https://scryfall.com/card/xln/56/favorable-winds?utm_source=api>`
+:mtgtip:`Favorable Winds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adfe8174-4e75-4e8f-b59c-f80a98492b5f.jpg?1591563596|https://scryfall.com/card/xln/56/favorable-winds?utm_source=api>`
    Creatures you control with flying get +1/+1.
 
 
-:mtgtip:`Fleet Swallower<https://img.scryfall.com/cards/border_crop/front/7/e/7edbde38-1653-4eb5-b196-8881375781cb.jpg?1562558856|https://scryfall.com/card/xln/57/fleet-swallower?utm_source=api>`
-   Whenever Fleet Swallower attacks, target player puts the top half of their library, rounded up, into their graveyard.
+:mtgtip:`Fleet Swallower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7edbde38-1653-4eb5-b196-8881375781cb.jpg?1562558856|https://scryfall.com/card/xln/57/fleet-swallower?utm_source=api>`
+   Whenever Fleet Swallower attacks, target player mills half their library, rounded up.
 
 
-:mtgtip:`Headwater Sentries<https://img.scryfall.com/cards/border_crop/front/2/a/2af2c338-f5e9-4596-9435-c6aa965ae541.jpg?1562552575|https://scryfall.com/card/xln/58/headwater-sentries?utm_source=api>`
+:mtgtip:`Headwater Sentries<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2af2c338-f5e9-4596-9435-c6aa965ae541.jpg?1562552575|https://scryfall.com/card/xln/58/headwater-sentries?utm_source=api>`
    
 
 
-:mtgtip:`Herald of Secret Streams<https://img.scryfall.com/cards/border_crop/front/1/6/168cbca9-0124-478b-8dd7-0bd9dc711c6d.jpg?1562551203|https://scryfall.com/card/xln/59/herald-of-secret-streams?utm_source=api>`
+:mtgtip:`Herald of Secret Streams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/168cbca9-0124-478b-8dd7-0bd9dc711c6d.jpg?1562551203|https://scryfall.com/card/xln/59/herald-of-secret-streams?utm_source=api>`
    Creatures you control with +1/+1 counters on them can't be blocked.
 
 
-:mtgtip:`Jace, Cunning Castaway<https://img.scryfall.com/cards/border_crop/front/b/7/b75f56f2-88fd-44ba-ad02-56ea3391f173.jpg?1562562793|https://scryfall.com/card/xln/60/jace-cunning-castaway?utm_source=api>`
+:mtgtip:`Jace, Cunning Castaway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b75f56f2-88fd-44ba-ad02-56ea3391f173.jpg?1562562793|https://scryfall.com/card/xln/60/jace-cunning-castaway?utm_source=api>`
    +1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
 
    −2: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
@@ -305,73 +305,73 @@
    −5: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.
 
 
-:mtgtip:`Kopala, Warden of Waves<https://img.scryfall.com/cards/border_crop/front/3/4/34561f87-09d9-4f23-8a05-907fe1303e70.jpg?1562553174|https://scryfall.com/card/xln/61/kopala-warden-of-waves?utm_source=api>`
+:mtgtip:`Kopala, Warden of Waves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34561f87-09d9-4f23-8a05-907fe1303e70.jpg?1562553174|https://scryfall.com/card/xln/61/kopala-warden-of-waves?utm_source=api>`
    Spells your opponents cast that target a Merfolk you control cost |mana_2| more to cast.
 
    Abilities your opponents activate that target a Merfolk you control cost |mana_2| more to activate.
 
 
-:mtgtip:`Lookout's Dispersal<https://img.scryfall.com/cards/border_crop/front/f/5/f5751a3c-7695-4c47-9cbd-92fd5b1b7ec9.jpg?1562566719|https://scryfall.com/card/xln/62/lookouts-dispersal?utm_source=api>`
+:mtgtip:`Lookout's Dispersal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5751a3c-7695-4c47-9cbd-92fd5b1b7ec9.jpg?1562566719|https://scryfall.com/card/xln/62/lookouts-dispersal?utm_source=api>`
    This spell costs |mana_1| less to cast if you control a Pirate.
 
    Counter target spell unless its controller pays |mana_4|.
 
 
-:mtgtip:`Navigator's Ruin<https://img.scryfall.com/cards/border_crop/front/e/b/eb082e5e-770a-4c5a-8976-ee394ab73c86.jpg?1562566039|https://scryfall.com/card/xln/63/navigators-ruin?utm_source=api>`
-   Raid — At the beginning of your end step, if you attacked with a creature this turn, target opponent puts the top four cards of their library into their graveyard.
+:mtgtip:`Navigator's Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb082e5e-770a-4c5a-8976-ee394ab73c86.jpg?1562566039|https://scryfall.com/card/xln/63/navigators-ruin?utm_source=api>`
+   Raid — At the beginning of your end step, if you attacked this turn, target opponent mills four cards.
 
 
-:mtgtip:`One With the Wind<https://img.scryfall.com/cards/border_crop/front/2/c/2c00f8bf-0088-44ad-b40b-26a2951a2428.jpg?1562552635|https://scryfall.com/card/xln/64/one-with-the-wind?utm_source=api>`
+:mtgtip:`One With the Wind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c00f8bf-0088-44ad-b40b-26a2951a2428.jpg?1562552635|https://scryfall.com/card/xln/64/one-with-the-wind?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+2 and has flying.
 
 
-:mtgtip:`Opt<https://img.scryfall.com/cards/border_crop/front/6/6/66c3aa9f-5cb0-4c8d-a050-42938398071b.jpg?1562556805|https://scryfall.com/card/xln/65/opt?utm_source=api>`
+:mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66c3aa9f-5cb0-4c8d-a050-42938398071b.jpg?1562556805|https://scryfall.com/card/xln/65/opt?utm_source=api>`
    Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    Draw a card.
 
 
-:mtgtip:`Overflowing Insight<https://img.scryfall.com/cards/border_crop/front/f/6/f6b3dd8f-902e-45b8-a422-370705621294.jpg?1562566847|https://scryfall.com/card/xln/66/overflowing-insight?utm_source=api>`
+:mtgtip:`Overflowing Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6b3dd8f-902e-45b8-a422-370705621294.jpg?1562566847|https://scryfall.com/card/xln/66/overflowing-insight?utm_source=api>`
    Target player draws seven cards.
 
 
-:mtgtip:`Perilous Voyage<https://img.scryfall.com/cards/border_crop/front/c/9/c9f6623e-2784-4bc9-9d8c-3eee9c78c350.jpg?1562563911|https://scryfall.com/card/xln/67/perilous-voyage?utm_source=api>`
+:mtgtip:`Perilous Voyage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9f6623e-2784-4bc9-9d8c-3eee9c78c350.jpg?1562563911|https://scryfall.com/card/xln/67/perilous-voyage?utm_source=api>`
    Return target nonland permanent you don't control to its owner's hand. If its converted mana cost was 2 or less, scry 2.
 
 
-:mtgtip:`Pirate's Prize<https://img.scryfall.com/cards/border_crop/front/4/8/48d97373-9b55-4eb7-99b6-8912f09bd0bb.jpg?1562554686|https://scryfall.com/card/xln/68/pirates-prize?utm_source=api>`
+:mtgtip:`Pirate's Prize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48d97373-9b55-4eb7-99b6-8912f09bd0bb.jpg?1562554686|https://scryfall.com/card/xln/68/pirates-prize?utm_source=api>`
    Draw two cards. Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Prosperous Pirates<https://img.scryfall.com/cards/border_crop/front/4/f/4fed2d67-fc51-45e8-825b-fe7565e8a65d.jpg?1562555103|https://scryfall.com/card/xln/69/prosperous-pirates?utm_source=api>`
+:mtgtip:`Prosperous Pirates<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fed2d67-fc51-45e8-825b-fe7565e8a65d.jpg?1562555103|https://scryfall.com/card/xln/69/prosperous-pirates?utm_source=api>`
    When Prosperous Pirates enters the battlefield, create two Treasure tokens. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`River Sneak<https://img.scryfall.com/cards/border_crop/front/2/b/2be32ffc-dc1d-4bb2-926f-51d110392b06.jpg?1562552630|https://scryfall.com/card/xln/70/river-sneak?utm_source=api>`
+:mtgtip:`River Sneak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2be32ffc-dc1d-4bb2-926f-51d110392b06.jpg?1562552630|https://scryfall.com/card/xln/70/river-sneak?utm_source=api>`
    River Sneak can't be blocked.
 
    Whenever another Merfolk enters the battlefield under your control, River Sneak gets +1/+1 until end of turn.
 
 
-:mtgtip:`River's Rebuke<https://img.scryfall.com/cards/border_crop/front/f/d/fda8ef30-bbfa-4857-9750-0dd0def8b13f.jpg?1562567315|https://scryfall.com/card/xln/71/rivers-rebuke?utm_source=api>`
+:mtgtip:`River's Rebuke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fda8ef30-bbfa-4857-9750-0dd0def8b13f.jpg?1562567315|https://scryfall.com/card/xln/71/rivers-rebuke?utm_source=api>`
    Return all nonland permanents target player controls to their owner's hand.
 
 
-:mtgtip:`Run Aground<https://img.scryfall.com/cards/border_crop/front/9/e/9ed573c6-2b95-4052-8b43-106cbaacb721.jpg?1562561058|https://scryfall.com/card/xln/72/run-aground?utm_source=api>`
+:mtgtip:`Run Aground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ed573c6-2b95-4052-8b43-106cbaacb721.jpg?1562561058|https://scryfall.com/card/xln/72/run-aground?utm_source=api>`
    Put target artifact or creature on top of its owner's library.
 
 
-:mtgtip:`Sailor of Means<https://img.scryfall.com/cards/border_crop/front/6/7/67f15157-6017-4b05-8c74-b3f8728d764b.jpg?1562556881|https://scryfall.com/card/xln/73/sailor-of-means?utm_source=api>`
+:mtgtip:`Sailor of Means<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67f15157-6017-4b05-8c74-b3f8728d764b.jpg?1562556881|https://scryfall.com/card/xln/73/sailor-of-means?utm_source=api>`
    When Sailor of Means enters the battlefield, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Search for Azcanta<https://img.scryfall.com/cards/border_crop/front/1/a/1a7e242e-bb48-4134-a1c2-6033713d658f.jpg?1562551479|https://scryfall.com/card/xln/74/search-for-azcanta-azcanta-the-sunken-ruin?utm_source=api>`
+:mtgtip:`Search for Azcanta<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a7e242e-bb48-4134-a1c2-6033713d658f.jpg?1562551479|https://scryfall.com/card/xln/74/search-for-azcanta-azcanta-the-sunken-ruin?utm_source=api>`
    At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta.
 
 
-:mtgtip:`Azcanta, the Sunken Ruin<https://img.scryfall.com/cards/border_crop/back/1/a/1a7e242e-bb48-4134-a1c2-6033713d658f.jpg?1562551479|https://scryfall.com/card/xln/74/search-for-azcanta-azcanta-the-sunken-ruin?utm_source=api>`
+:mtgtip:`Azcanta, the Sunken Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/a/1a7e242e-bb48-4134-a1c2-6033713d658f.jpg?1562551479|https://scryfall.com/card/xln/74/search-for-azcanta-azcanta-the-sunken-ruin?utm_source=api>`
    (Transforms from Search for Azcanta.)
 
    |tap|: Add |mana_u|.
@@ -379,83 +379,83 @@
    |mana_2|\ |mana_u|, |tap|: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Shaper Apprentice<https://img.scryfall.com/cards/border_crop/front/0/2/02955471-5ffc-4c7b-83fe-a69816415ca1.jpg?1562549837|https://scryfall.com/card/xln/75/shaper-apprentice?utm_source=api>`
+:mtgtip:`Shaper Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02955471-5ffc-4c7b-83fe-a69816415ca1.jpg?1562549837|https://scryfall.com/card/xln/75/shaper-apprentice?utm_source=api>`
    Shaper Apprentice has flying as long as you control another Merfolk.
 
 
-:mtgtip:`Shipwreck Looter<https://img.scryfall.com/cards/border_crop/front/8/9/891cbde7-0dff-4877-b373-03f9f4332002.jpg?1562559506|https://scryfall.com/card/xln/76/shipwreck-looter?utm_source=api>`
-   Raid — When Shipwreck Looter enters the battlefield, if you attacked with a creature this turn, you may draw a card. If you do, discard a card.
+:mtgtip:`Shipwreck Looter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/891cbde7-0dff-4877-b373-03f9f4332002.jpg?1562559506|https://scryfall.com/card/xln/76/shipwreck-looter?utm_source=api>`
+   Raid — When Shipwreck Looter enters the battlefield, if you attacked this turn, you may draw a card. If you do, discard a card.
 
 
-:mtgtip:`Shore Keeper<https://img.scryfall.com/cards/border_crop/front/1/3/135d1145-8640-44e1-8079-45832fa2556d.jpg?1562551024|https://scryfall.com/card/xln/77/shore-keeper?utm_source=api>`
+:mtgtip:`Shore Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/135d1145-8640-44e1-8079-45832fa2556d.jpg?1562551024|https://scryfall.com/card/xln/77/shore-keeper?utm_source=api>`
    |mana_7|\ |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards.
 
 
-:mtgtip:`Siren Lookout<https://img.scryfall.com/cards/border_crop/front/0/0/0000cd57-91fe-411f-b798-646e965eec37.jpg?1562549609|https://scryfall.com/card/xln/78/siren-lookout?utm_source=api>`
+:mtgtip:`Siren Lookout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0000cd57-91fe-411f-b798-646e965eec37.jpg?1562549609|https://scryfall.com/card/xln/78/siren-lookout?utm_source=api>`
    Flying
 
    When Siren Lookout enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Siren Stormtamer<https://img.scryfall.com/cards/border_crop/front/7/2/72f7375c-2d9b-4738-b539-00e1949980e7.jpg?1562557567|https://scryfall.com/card/xln/79/siren-stormtamer?utm_source=api>`
+:mtgtip:`Siren Stormtamer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72f7375c-2d9b-4738-b539-00e1949980e7.jpg?1562557567|https://scryfall.com/card/xln/79/siren-stormtamer?utm_source=api>`
    Flying
 
    |mana_u|, Sacrifice Siren Stormtamer: Counter target spell or ability that targets you or a creature you control.
 
 
-:mtgtip:`Siren's Ruse<https://img.scryfall.com/cards/border_crop/front/8/f/8f389872-d1f4-4828-a527-e820a6f2ac21.jpg?1562559873|https://scryfall.com/card/xln/80/sirens-ruse?utm_source=api>`
+:mtgtip:`Siren's Ruse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f389872-d1f4-4828-a527-e820a6f2ac21.jpg?1562559873|https://scryfall.com/card/xln/80/sirens-ruse?utm_source=api>`
    Exile target creature you control, then return that card to the battlefield under its owner's control. If a Pirate was exiled this way, draw a card.
 
 
-:mtgtip:`Spell Pierce<https://img.scryfall.com/cards/border_crop/front/6/b/6bf4dfc0-c58b-4535-b660-54ceaa6e0217.jpg?1562557054|https://scryfall.com/card/xln/81/spell-pierce?utm_source=api>`
+:mtgtip:`Spell Pierce<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bf4dfc0-c58b-4535-b660-54ceaa6e0217.jpg?1562557054|https://scryfall.com/card/xln/81/spell-pierce?utm_source=api>`
    Counter target noncreature spell unless its controller pays |mana_2|.
 
 
-:mtgtip:`Spell Swindle<https://img.scryfall.com/cards/border_crop/front/6/e/6e619ada-e9ce-4758-afd8-8def853877eb.jpg?1562557238|https://scryfall.com/card/xln/82/spell-swindle?utm_source=api>`
+:mtgtip:`Spell Swindle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e619ada-e9ce-4758-afd8-8def853877eb.jpg?1562557238|https://scryfall.com/card/xln/82/spell-swindle?utm_source=api>`
    Counter target spell. Create X Treasure tokens, where X is that spell's converted mana cost. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Storm Fleet Aerialist<https://img.scryfall.com/cards/border_crop/front/9/d/9de1acd5-bee4-48fe-951d-7936e20f0a71.jpg?1562560947|https://scryfall.com/card/xln/83/storm-fleet-aerialist?utm_source=api>`
+:mtgtip:`Storm Fleet Aerialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9de1acd5-bee4-48fe-951d-7936e20f0a71.jpg?1562560947|https://scryfall.com/card/xln/83/storm-fleet-aerialist?utm_source=api>`
    Flying
 
-   Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.
+   Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter on it if you attacked this turn.
 
 
-:mtgtip:`Storm Fleet Spy<https://img.scryfall.com/cards/border_crop/front/f/7/f7c33ef4-60bb-4f95-92a5-7abedaac6767.jpg?1562566906|https://scryfall.com/card/xln/84/storm-fleet-spy?utm_source=api>`
-   Raid — When Storm Fleet Spy enters the battlefield, if you attacked with a creature this turn, draw a card.
+:mtgtip:`Storm Fleet Spy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7c33ef4-60bb-4f95-92a5-7abedaac6767.jpg?1562566906|https://scryfall.com/card/xln/84/storm-fleet-spy?utm_source=api>`
+   Raid — When Storm Fleet Spy enters the battlefield, if you attacked this turn, draw a card.
 
 
-:mtgtip:`Storm Sculptor<https://img.scryfall.com/cards/border_crop/front/9/5/9532b735-8390-4379-ae43-2bd00d281dd6.jpg?1562560270|https://scryfall.com/card/xln/85/storm-sculptor?utm_source=api>`
+:mtgtip:`Storm Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9532b735-8390-4379-ae43-2bd00d281dd6.jpg?1562560270|https://scryfall.com/card/xln/85/storm-sculptor?utm_source=api>`
    Storm Sculptor can't be blocked.
 
    When Storm Sculptor enters the battlefield, return a creature you control to its owner's hand.
 
 
-:mtgtip:`Tempest Caller<https://img.scryfall.com/cards/border_crop/front/6/4/64d0f22d-0448-4039-b6f3-75d12e10f48c.jpg?1562556586|https://scryfall.com/card/xln/86/tempest-caller?utm_source=api>`
+:mtgtip:`Tempest Caller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64d0f22d-0448-4039-b6f3-75d12e10f48c.jpg?1562556586|https://scryfall.com/card/xln/86/tempest-caller?utm_source=api>`
    When Tempest Caller enters the battlefield, tap all creatures target opponent controls.
 
 
-:mtgtip:`Watertrap Weaver<https://img.scryfall.com/cards/border_crop/front/0/d/0d973568-d7b0-443f-a09d-44f6b02da5d4.jpg?1562550617|https://scryfall.com/card/xln/87/watertrap-weaver?utm_source=api>`
+:mtgtip:`Watertrap Weaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d973568-d7b0-443f-a09d-44f6b02da5d4.jpg?1562550617|https://scryfall.com/card/xln/87/watertrap-weaver?utm_source=api>`
    When Watertrap Weaver enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`Wind Strider<https://img.scryfall.com/cards/border_crop/front/6/1/613a8ab1-9c5e-4b56-aa51-daeb8c1983b9.jpg?1562556389|https://scryfall.com/card/xln/88/wind-strider?utm_source=api>`
+:mtgtip:`Wind Strider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/613a8ab1-9c5e-4b56-aa51-daeb8c1983b9.jpg?1562556389|https://scryfall.com/card/xln/88/wind-strider?utm_source=api>`
    Flash
 
    Flying
 
 
-:mtgtip:`Anointed Deacon<https://img.scryfall.com/cards/border_crop/front/9/b/9bae5e75-0048-41fd-8bbb-89607ab96d6e.jpg?1562560768|https://scryfall.com/card/xln/89/anointed-deacon?utm_source=api>`
+:mtgtip:`Anointed Deacon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bae5e75-0048-41fd-8bbb-89607ab96d6e.jpg?1562560768|https://scryfall.com/card/xln/89/anointed-deacon?utm_source=api>`
    At the beginning of combat on your turn, you may have target Vampire get +2/+0 until end of turn.
 
 
-:mtgtip:`Arguel's Blood Fast<https://img.scryfall.com/cards/border_crop/front/c/4/c4ac7570-e74e-4081-ac53-cf41e695b7eb.jpg?1562563598|https://scryfall.com/card/xln/90/arguels-blood-fast-temple-of-aclazotz?utm_source=api>`
+:mtgtip:`Arguel's Blood Fast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4ac7570-e74e-4081-ac53-cf41e695b7eb.jpg?1562563598|https://scryfall.com/card/xln/90/arguels-blood-fast-temple-of-aclazotz?utm_source=api>`
    |mana_1|\ |mana_b|, Pay 2 life: Draw a card.
 
    At the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.
 
 
-:mtgtip:`Temple of Aclazotz<https://img.scryfall.com/cards/border_crop/back/c/4/c4ac7570-e74e-4081-ac53-cf41e695b7eb.jpg?1562563598|https://scryfall.com/card/xln/90/arguels-blood-fast-temple-of-aclazotz?utm_source=api>`
+:mtgtip:`Temple of Aclazotz<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/4/c4ac7570-e74e-4081-ac53-cf41e695b7eb.jpg?1562563598|https://scryfall.com/card/xln/90/arguels-blood-fast-temple-of-aclazotz?utm_source=api>`
    (Transforms from Arguel's Blood Fast.)
 
    |tap|: Add |mana_b|.
@@ -463,109 +463,109 @@
    |tap|, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
 
 
-:mtgtip:`Bishop of the Bloodstained<https://img.scryfall.com/cards/border_crop/front/3/7/373131be-bd66-49f5-80fa-836ced03fedf.jpg?1562553407|https://scryfall.com/card/xln/91/bishop-of-the-bloodstained?utm_source=api>`
+:mtgtip:`Bishop of the Bloodstained<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/373131be-bd66-49f5-80fa-836ced03fedf.jpg?1562553407|https://scryfall.com/card/xln/91/bishop-of-the-bloodstained?utm_source=api>`
    When Bishop of the Bloodstained enters the battlefield, target opponent loses 1 life for each Vampire you control.
 
 
-:mtgtip:`Blight Keeper<https://img.scryfall.com/cards/border_crop/front/3/b/3bcabe2d-82d2-4c1b-8f28-21dc29c9dbf2.jpg?1562553781|https://scryfall.com/card/xln/92/blight-keeper?utm_source=api>`
+:mtgtip:`Blight Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bcabe2d-82d2-4c1b-8f28-21dc29c9dbf2.jpg?1562553781|https://scryfall.com/card/xln/92/blight-keeper?utm_source=api>`
    Flying
 
    |mana_7|\ |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 life and you gain 4 life.
 
 
-:mtgtip:`Bloodcrazed Paladin<https://img.scryfall.com/cards/border_crop/front/3/e/3e2160e9-14a0-4c75-b7b0-fb09051ddb32.jpg?1562553984|https://scryfall.com/card/xln/93/bloodcrazed-paladin?utm_source=api>`
+:mtgtip:`Bloodcrazed Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e2160e9-14a0-4c75-b7b0-fb09051ddb32.jpg?1562553984|https://scryfall.com/card/xln/93/bloodcrazed-paladin?utm_source=api>`
    Flash
 
    Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for each creature that died this turn.
 
 
-:mtgtip:`Boneyard Parley<https://img.scryfall.com/cards/border_crop/front/3/5/35989b1e-9bad-4f8d-a559-bf14d1342aa3.jpg?1562553301|https://scryfall.com/card/xln/94/boneyard-parley?utm_source=api>`
+:mtgtip:`Boneyard Parley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35989b1e-9bad-4f8d-a559-bf14d1342aa3.jpg?1562553301|https://scryfall.com/card/xln/94/boneyard-parley?utm_source=api>`
    Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners' graveyards.
 
 
-:mtgtip:`Contract Killing<https://img.scryfall.com/cards/border_crop/front/d/1/d1f20feb-b1ed-4d80-bef9-f3cc44ffb7b0.jpg?1562564388|https://scryfall.com/card/xln/95/contract-killing?utm_source=api>`
+:mtgtip:`Contract Killing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f20feb-b1ed-4d80-bef9-f3cc44ffb7b0.jpg?1562564388|https://scryfall.com/card/xln/95/contract-killing?utm_source=api>`
    Destroy target creature. Create two Treasure tokens. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Costly Plunder<https://img.scryfall.com/cards/border_crop/front/c/3/c3f1f41e-98fc-4f6b-b287-c8899dff8ab0.jpg?1562563557|https://scryfall.com/card/xln/96/costly-plunder?utm_source=api>`
+:mtgtip:`Costly Plunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3f1f41e-98fc-4f6b-b287-c8899dff8ab0.jpg?1562563557|https://scryfall.com/card/xln/96/costly-plunder?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact or creature.
 
    Draw two cards.
 
 
-:mtgtip:`Dark Nourishment<https://img.scryfall.com/cards/border_crop/front/0/5/053c4cf0-992b-4f76-b8d1-cd67f894172c.jpg?1562550007|https://scryfall.com/card/xln/97/dark-nourishment?utm_source=api>`
+:mtgtip:`Dark Nourishment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/053c4cf0-992b-4f76-b8d1-cd67f894172c.jpg?1562550007|https://scryfall.com/card/xln/97/dark-nourishment?utm_source=api>`
    Dark Nourishment deals 3 damage to any target. You gain 3 life.
 
 
-:mtgtip:`Deadeye Tormentor<https://img.scryfall.com/cards/border_crop/front/d/2/d219fb0a-49a3-4711-9b37-a0c1b36f68d0.jpg?1562564403|https://scryfall.com/card/xln/98/deadeye-tormentor?utm_source=api>`
-   Raid — When Deadeye Tormentor enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.
+:mtgtip:`Deadeye Tormentor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d219fb0a-49a3-4711-9b37-a0c1b36f68d0.jpg?1562564403|https://scryfall.com/card/xln/98/deadeye-tormentor?utm_source=api>`
+   Raid — When Deadeye Tormentor enters the battlefield, if you attacked this turn, target opponent discards a card.
 
 
-:mtgtip:`Deadeye Tracker<https://img.scryfall.com/cards/border_crop/front/8/4/848902db-7a10-4754-b50a-57a9e845705a.jpg?1562559208|https://scryfall.com/card/xln/99/deadeye-tracker?utm_source=api>`
+:mtgtip:`Deadeye Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/848902db-7a10-4754-b50a-57a9e845705a.jpg?1562559208|https://scryfall.com/card/xln/99/deadeye-tracker?utm_source=api>`
    |mana_1|\ |mana_b|, |tap|: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Deathless Ancient<https://img.scryfall.com/cards/border_crop/front/8/a/8adc1cd9-22ff-4263-856b-0aaa990a3893.jpg?1562559603|https://scryfall.com/card/xln/100/deathless-ancient?utm_source=api>`
+:mtgtip:`Deathless Ancient<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8adc1cd9-22ff-4263-856b-0aaa990a3893.jpg?1562559603|https://scryfall.com/card/xln/100/deathless-ancient?utm_source=api>`
    Flying
 
    Tap three untapped Vampires you control: Return Deathless Ancient from your graveyard to your hand.
 
 
-:mtgtip:`Desperate Castaways<https://img.scryfall.com/cards/border_crop/front/9/8/98a92dde-7a84-40fb-a11e-54c7d3057126.jpg?1562560554|https://scryfall.com/card/xln/101/desperate-castaways?utm_source=api>`
+:mtgtip:`Desperate Castaways<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98a92dde-7a84-40fb-a11e-54c7d3057126.jpg?1562560554|https://scryfall.com/card/xln/101/desperate-castaways?utm_source=api>`
    Desperate Castaways can't attack unless you control an artifact.
 
 
-:mtgtip:`Dire Fleet Hoarder<https://img.scryfall.com/cards/border_crop/front/0/f/0fcd719e-fa21-42bb-968b-ccc0cd3829c6.jpg?1562550807|https://scryfall.com/card/xln/102/dire-fleet-hoarder?utm_source=api>`
+:mtgtip:`Dire Fleet Hoarder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fcd719e-fa21-42bb-968b-ccc0cd3829c6.jpg?1562550807|https://scryfall.com/card/xln/102/dire-fleet-hoarder?utm_source=api>`
    When Dire Fleet Hoarder dies, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Dire Fleet Interloper<https://img.scryfall.com/cards/border_crop/front/e/2/e2e3f7ee-98d0-45bd-97ae-3dc8050085a1.jpg?1562565555|https://scryfall.com/card/xln/103/dire-fleet-interloper?utm_source=api>`
+:mtgtip:`Dire Fleet Interloper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2e3f7ee-98d0-45bd-97ae-3dc8050085a1.jpg?1562565555|https://scryfall.com/card/xln/103/dire-fleet-interloper?utm_source=api>`
    Menace
 
    When Dire Fleet Interloper enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Dire Fleet Ravager<https://img.scryfall.com/cards/border_crop/front/5/3/53bd7ccc-aa71-4a3f-a86e-936cb3b2cce3.jpg?1562555476|https://scryfall.com/card/xln/104/dire-fleet-ravager?utm_source=api>`
+:mtgtip:`Dire Fleet Ravager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53bd7ccc-aa71-4a3f-a86e-936cb3b2cce3.jpg?1562555476|https://scryfall.com/card/xln/104/dire-fleet-ravager?utm_source=api>`
    Menace, deathtouch
 
    When Dire Fleet Ravager enters the battlefield, each player loses a third of their life, rounded up.
 
 
-:mtgtip:`Duress<https://img.scryfall.com/cards/border_crop/front/0/0/006cbb74-7447-45fb-b44b-bac31832b392.jpg?1562549670|https://scryfall.com/card/xln/105/duress?utm_source=api>`
+:mtgtip:`Duress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/006cbb74-7447-45fb-b44b-bac31832b392.jpg?1562549670|https://scryfall.com/card/xln/105/duress?utm_source=api>`
    Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
 
 
-:mtgtip:`Fathom Fleet Captain<https://img.scryfall.com/cards/border_crop/front/3/6/36cd7467-ff8c-4a92-ae55-6894213d6c0b.jpg?1562553381|https://scryfall.com/card/xln/106/fathom-fleet-captain?utm_source=api>`
+:mtgtip:`Fathom Fleet Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36cd7467-ff8c-4a92-ae55-6894213d6c0b.jpg?1562553381|https://scryfall.com/card/xln/106/fathom-fleet-captain?utm_source=api>`
    Menace
 
    Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, you may pay |mana_2|. If you do, create a 2/2 black Pirate creature token with menace.
 
 
-:mtgtip:`Fathom Fleet Cutthroat<https://img.scryfall.com/cards/border_crop/front/e/8/e83500ed-8c46-488e-bd8e-197bedb8f4bd.jpg?1562565877|https://scryfall.com/card/xln/107/fathom-fleet-cutthroat?utm_source=api>`
+:mtgtip:`Fathom Fleet Cutthroat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83500ed-8c46-488e-bd8e-197bedb8f4bd.jpg?1562565877|https://scryfall.com/card/xln/107/fathom-fleet-cutthroat?utm_source=api>`
    When Fathom Fleet Cutthroat enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn.
 
 
-:mtgtip:`Grim Captain's Call<https://img.scryfall.com/cards/border_crop/front/0/0/0055934f-1567-4207-aaad-d32d0fe1cdba.jpg?1562549649|https://scryfall.com/card/xln/108/grim-captains-call?utm_source=api>`
+:mtgtip:`Grim Captain's Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0055934f-1567-4207-aaad-d32d0fe1cdba.jpg?1562549649|https://scryfall.com/card/xln/108/grim-captains-call?utm_source=api>`
    Return a Pirate card from your graveyard to your hand, then do the same for Vampire, Dinosaur, and Merfolk.
 
 
-:mtgtip:`Heartless Pillage<https://img.scryfall.com/cards/border_crop/front/c/5/c5e791ce-1380-4de0-b314-246ea6dfc3cc.jpg?1562563688|https://scryfall.com/card/xln/109/heartless-pillage?utm_source=api>`
+:mtgtip:`Heartless Pillage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5e791ce-1380-4de0-b314-246ea6dfc3cc.jpg?1562563688|https://scryfall.com/card/xln/109/heartless-pillage?utm_source=api>`
    Target opponent discards two cards.
 
-   Raid — If you attacked with a creature this turn, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+   Raid — If you attacked this turn, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Kitesail Freebooter<https://img.scryfall.com/cards/border_crop/front/f/6/f62fd592-4910-417d-a500-e7029f3d119f.jpg?1562566793|https://scryfall.com/card/xln/110/kitesail-freebooter?utm_source=api>`
+:mtgtip:`Kitesail Freebooter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f62fd592-4910-417d-a500-e7029f3d119f.jpg?1562566793|https://scryfall.com/card/xln/110/kitesail-freebooter?utm_source=api>`
    Flying
 
    When Kitesail Freebooter enters the battlefield, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until Kitesail Freebooter leaves the battlefield.
 
 
-:mtgtip:`Lurking Chupacabra<https://img.scryfall.com/cards/border_crop/front/a/b/abdbaa34-1ee5-4a2a-bdb3-2f04809a5b42.jpg?1562561935|https://scryfall.com/card/xln/111/lurking-chupacabra?utm_source=api>`
+:mtgtip:`Lurking Chupacabra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abdbaa34-1ee5-4a2a-bdb3-2f04809a5b42.jpg?1562561935|https://scryfall.com/card/xln/111/lurking-chupacabra?utm_source=api>`
    Whenever a creature you control explores, target creature an opponent controls gets -2/-2 until end of turn.
 
 
-:mtgtip:`March of the Drowned<https://img.scryfall.com/cards/border_crop/front/3/d/3dfb8ae9-c6ea-4fab-ac9e-b25c62c540c6.jpg?1562553966|https://scryfall.com/card/xln/112/march-of-the-drowned?utm_source=api>`
+:mtgtip:`March of the Drowned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dfb8ae9-c6ea-4fab-ac9e-b25c62c540c6.jpg?1562553966|https://scryfall.com/card/xln/112/march-of-the-drowned?utm_source=api>`
    Choose one —
 
    • Return target creature card from your graveyard to your hand.
@@ -573,113 +573,113 @@
    • Return two target Pirate cards from your graveyard to your hand.
 
 
-:mtgtip:`Mark of the Vampire<https://img.scryfall.com/cards/border_crop/front/5/5/55fec80c-81d5-4d3b-bc07-6fc6c2513ef8.jpg?1562555637|https://scryfall.com/card/xln/113/mark-of-the-vampire?utm_source=api>`
+:mtgtip:`Mark of the Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55fec80c-81d5-4d3b-bc07-6fc6c2513ef8.jpg?1591310185|https://scryfall.com/card/xln/113/mark-of-the-vampire?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+2 and has lifelink.
 
 
-:mtgtip:`Queen's Agent<https://img.scryfall.com/cards/border_crop/front/3/5/3562f65a-bd69-47e4-9d9d-ab5c2c6ceb35.jpg?1562553265|https://scryfall.com/card/xln/114/queens-agent?utm_source=api>`
+:mtgtip:`Queen's Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/3562f65a-bd69-47e4-9d9d-ab5c2c6ceb35.jpg?1562553265|https://scryfall.com/card/xln/114/queens-agent?utm_source=api>`
    Lifelink
 
    When Queen's Agent enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Queen's Bay Soldier<https://img.scryfall.com/cards/border_crop/front/c/e/ce2ca2e6-f920-4529-88d2-d984bdb7490a.jpg?1562564130|https://scryfall.com/card/xln/115/queens-bay-soldier?utm_source=api>`
+:mtgtip:`Queen's Bay Soldier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce2ca2e6-f920-4529-88d2-d984bdb7490a.jpg?1562564130|https://scryfall.com/card/xln/115/queens-bay-soldier?utm_source=api>`
    
 
 
-:mtgtip:`Raiders' Wake<https://img.scryfall.com/cards/border_crop/front/f/d/fd81dd41-a982-46d2-a572-432580be73c5.jpg?1562567300|https://scryfall.com/card/xln/116/raiders-wake?utm_source=api>`
+:mtgtip:`Raiders' Wake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd81dd41-a982-46d2-a572-432580be73c5.jpg?1562567300|https://scryfall.com/card/xln/116/raiders-wake?utm_source=api>`
    Whenever an opponent discards a card, that player loses 2 life.
 
-   Raid — At the beginning of your end step, if you attacked with a creature this turn, target opponent discards a card.
+   Raid — At the beginning of your end step, if you attacked this turn, target opponent discards a card.
 
 
-:mtgtip:`Revel in Riches<https://img.scryfall.com/cards/border_crop/front/7/9/79b0e035-8716-469d-99ae-a530cd96ef09.jpg?1562558471|https://scryfall.com/card/xln/117/revel-in-riches?utm_source=api>`
+:mtgtip:`Revel in Riches<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79b0e035-8716-469d-99ae-a530cd96ef09.jpg?1562558471|https://scryfall.com/card/xln/117/revel-in-riches?utm_source=api>`
    Whenever a creature an opponent controls dies, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
    At the beginning of your upkeep, if you control ten or more Treasures, you win the game.
 
 
-:mtgtip:`Ruin Raider<https://img.scryfall.com/cards/border_crop/front/4/5/457ba695-3637-40de-a8a8-e3a43a71674f.jpg?1562554428|https://scryfall.com/card/xln/118/ruin-raider?utm_source=api>`
-   Raid — At the beginning of your end step, if you attacked with a creature this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's converted mana cost.
+:mtgtip:`Ruin Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/457ba695-3637-40de-a8a8-e3a43a71674f.jpg?1562554428|https://scryfall.com/card/xln/118/ruin-raider?utm_source=api>`
+   Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's converted mana cost.
 
 
-:mtgtip:`Ruthless Knave<https://img.scryfall.com/cards/border_crop/front/1/c/1ce91e38-4601-4354-ad1b-2c5c1c70da17.jpg?1562551661|https://scryfall.com/card/xln/119/ruthless-knave?utm_source=api>`
+:mtgtip:`Ruthless Knave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1ce91e38-4601-4354-ad1b-2c5c1c70da17.jpg?1562551661|https://scryfall.com/card/xln/119/ruthless-knave?utm_source=api>`
    |mana_2|\ |mana_b|, Sacrifice a creature: Create two Treasure tokens. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
    Sacrifice three Treasures: Draw a card.
 
 
-:mtgtip:`Sanctum Seeker<https://img.scryfall.com/cards/border_crop/front/7/2/72150779-0bb6-4d20-a898-cda93a66e7cd.jpg?1562557504|https://scryfall.com/card/xln/120/sanctum-seeker?utm_source=api>`
+:mtgtip:`Sanctum Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72150779-0bb6-4d20-a898-cda93a66e7cd.jpg?1562557504|https://scryfall.com/card/xln/120/sanctum-seeker?utm_source=api>`
    Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life.
 
 
-:mtgtip:`Seekers' Squire<https://img.scryfall.com/cards/border_crop/front/e/3/e37a6802-7a1d-4d37-bd65-f3e3e5127aca.jpg?1562565640|https://scryfall.com/card/xln/121/seekers-squire?utm_source=api>`
+:mtgtip:`Seekers' Squire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e37a6802-7a1d-4d37-bd65-f3e3e5127aca.jpg?1562565640|https://scryfall.com/card/xln/121/seekers-squire?utm_source=api>`
    When Seekers' Squire enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Skittering Heartstopper<https://img.scryfall.com/cards/border_crop/front/0/7/0722fbdf-c092-4e80-913f-29390177cdcb.jpg?1562550153|https://scryfall.com/card/xln/122/skittering-heartstopper?utm_source=api>`
+:mtgtip:`Skittering Heartstopper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0722fbdf-c092-4e80-913f-29390177cdcb.jpg?1562550153|https://scryfall.com/card/xln/122/skittering-heartstopper?utm_source=api>`
    |mana_b|: Skittering Heartstopper gains deathtouch until end of turn.
 
 
-:mtgtip:`Skulduggery<https://img.scryfall.com/cards/border_crop/front/b/a/ba30343b-1637-490f-810e-d614219789e3.jpg?1575629239|https://scryfall.com/card/xln/123/skulduggery?utm_source=api>`
+:mtgtip:`Skulduggery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba30343b-1637-490f-810e-d614219789e3.jpg?1575629239|https://scryfall.com/card/xln/123/skulduggery?utm_source=api>`
    Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1.
 
 
-:mtgtip:`Skymarch Bloodletter<https://img.scryfall.com/cards/border_crop/front/1/f/1f4b41d7-30fa-43ab-8f8d-c1de68a19add.jpg?1562551868|https://scryfall.com/card/xln/124/skymarch-bloodletter?utm_source=api>`
+:mtgtip:`Skymarch Bloodletter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f4b41d7-30fa-43ab-8f8d-c1de68a19add.jpg?1562551868|https://scryfall.com/card/xln/124/skymarch-bloodletter?utm_source=api>`
    Flying
 
    When Skymarch Bloodletter enters the battlefield, target opponent loses 1 life and you gain 1 life.
 
 
-:mtgtip:`Spreading Rot<https://img.scryfall.com/cards/border_crop/front/c/a/ca8a160c-5e89-4347-8e88-3541b6d221e0.jpg?1562563945|https://scryfall.com/card/xln/125/spreading-rot?utm_source=api>`
+:mtgtip:`Spreading Rot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca8a160c-5e89-4347-8e88-3541b6d221e0.jpg?1562563945|https://scryfall.com/card/xln/125/spreading-rot?utm_source=api>`
    Destroy target land. Its controller loses 2 life.
 
 
-:mtgtip:`Sword-Point Diplomacy<https://img.scryfall.com/cards/border_crop/front/2/5/25750098-02a1-48e4-917d-187c41e111b6.jpg?1562552215|https://scryfall.com/card/xln/126/sword-point-diplomacy?utm_source=api>`
+:mtgtip:`Sword-Point Diplomacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25750098-02a1-48e4-917d-187c41e111b6.jpg?1562552215|https://scryfall.com/card/xln/126/sword-point-diplomacy?utm_source=api>`
    Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest.
 
 
-:mtgtip:`Vanquish the Weak<https://img.scryfall.com/cards/border_crop/front/e/5/e599ed0b-4b3b-4341-b6ac-7fdfdc6799a3.jpg?1562565757|https://scryfall.com/card/xln/127/vanquish-the-weak?utm_source=api>`
+:mtgtip:`Vanquish the Weak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e599ed0b-4b3b-4341-b6ac-7fdfdc6799a3.jpg?1562565757|https://scryfall.com/card/xln/127/vanquish-the-weak?utm_source=api>`
    Destroy target creature with power 3 or less.
 
 
-:mtgtip:`Vicious Conquistador<https://img.scryfall.com/cards/border_crop/front/2/a/2a4b6ced-e8d3-47e9-bd27-3e0cb644afe4.jpg?1562552539|https://scryfall.com/card/xln/128/vicious-conquistador?utm_source=api>`
+:mtgtip:`Vicious Conquistador<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a4b6ced-e8d3-47e9-bd27-3e0cb644afe4.jpg?1592652364|https://scryfall.com/card/xln/128/vicious-conquistador?utm_source=api>`
    Whenever Vicious Conquistador attacks, each opponent loses 1 life.
 
 
-:mtgtip:`Vraska's Contempt<https://img.scryfall.com/cards/border_crop/front/b/d/bd7550dd-dfc5-43cd-a117-1244ee3086a8.jpg?1562563183|https://scryfall.com/card/xln/129/vraskas-contempt?utm_source=api>`
+:mtgtip:`Vraska's Contempt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd7550dd-dfc5-43cd-a117-1244ee3086a8.jpg?1562563183|https://scryfall.com/card/xln/129/vraskas-contempt?utm_source=api>`
    Exile target creature or planeswalker. You gain 2 life.
 
 
-:mtgtip:`Walk the Plank<https://img.scryfall.com/cards/border_crop/front/0/0/0038ac6a-318f-44fb-bb64-7ae172c4aca3.jpg?1562549640|https://scryfall.com/card/xln/130/walk-the-plank?utm_source=api>`
+:mtgtip:`Walk the Plank<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0038ac6a-318f-44fb-bb64-7ae172c4aca3.jpg?1562549640|https://scryfall.com/card/xln/130/walk-the-plank?utm_source=api>`
    Destroy target non-Merfolk creature.
 
 
-:mtgtip:`Wanted Scoundrels<https://img.scryfall.com/cards/border_crop/front/6/7/6704e4c9-3b5e-4ba5-a5bc-6d684e2983e9.jpg?1562556829|https://scryfall.com/card/xln/131/wanted-scoundrels?utm_source=api>`
+:mtgtip:`Wanted Scoundrels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6704e4c9-3b5e-4ba5-a5bc-6d684e2983e9.jpg?1562556829|https://scryfall.com/card/xln/131/wanted-scoundrels?utm_source=api>`
    When Wanted Scoundrels dies, target opponent creates two Treasure tokens. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Angrath's Marauders<https://img.scryfall.com/cards/border_crop/front/f/0/f0bfc9e0-14e8-43ce-8fca-773b7f2387dc.jpg?1562566421|https://scryfall.com/card/xln/132/angraths-marauders?utm_source=api>`
+:mtgtip:`Angrath's Marauders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0bfc9e0-14e8-43ce-8fca-773b7f2387dc.jpg?1562566421|https://scryfall.com/card/xln/132/angraths-marauders?utm_source=api>`
    If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
 
 
-:mtgtip:`Bonded Horncrest<https://img.scryfall.com/cards/border_crop/front/a/5/a50ad54a-73f8-4b97-b890-2be9a178bc42.jpg?1562561447|https://scryfall.com/card/xln/133/bonded-horncrest?utm_source=api>`
+:mtgtip:`Bonded Horncrest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a50ad54a-73f8-4b97-b890-2be9a178bc42.jpg?1562561447|https://scryfall.com/card/xln/133/bonded-horncrest?utm_source=api>`
    Bonded Horncrest can't attack or block alone.
 
 
-:mtgtip:`Brazen Buccaneers<https://img.scryfall.com/cards/border_crop/front/9/c/9ca29a73-9606-4422-9187-67e00dcd52aa.jpg?1562560844|https://scryfall.com/card/xln/134/brazen-buccaneers?utm_source=api>`
+:mtgtip:`Brazen Buccaneers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9ca29a73-9606-4422-9187-67e00dcd52aa.jpg?1562560844|https://scryfall.com/card/xln/134/brazen-buccaneers?utm_source=api>`
    Haste
 
    When Brazen Buccaneers enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Burning Sun's Avatar<https://img.scryfall.com/cards/border_crop/front/1/4/146c0cab-5f6b-425d-9f50-33d8da266235.jpg?1562551077|https://scryfall.com/card/xln/135/burning-suns-avatar?utm_source=api>`
+:mtgtip:`Burning Sun's Avatar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/146c0cab-5f6b-425d-9f50-33d8da266235.jpg?1562551077|https://scryfall.com/card/xln/135/burning-suns-avatar?utm_source=api>`
    When Burning Sun's Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature.
 
 
-:mtgtip:`Captain Lannery Storm<https://img.scryfall.com/cards/border_crop/front/5/a/5ab86a8a-7a0a-473e-9a97-da2fe0ab866c.jpg?1562555989|https://scryfall.com/card/xln/136/captain-lannery-storm?utm_source=api>`
+:mtgtip:`Captain Lannery Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ab86a8a-7a0a-473e-9a97-da2fe0ab866c.jpg?1562555989|https://scryfall.com/card/xln/136/captain-lannery-storm?utm_source=api>`
    Haste
 
    Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
@@ -687,85 +687,85 @@
    Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.
 
 
-:mtgtip:`Captivating Crew<https://img.scryfall.com/cards/border_crop/front/c/7/c76e66c1-dbe2-4346-b4b3-20e8386e7d76.jpg?1562563744|https://scryfall.com/card/xln/137/captivating-crew?utm_source=api>`
+:mtgtip:`Captivating Crew<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c76e66c1-dbe2-4346-b4b3-20e8386e7d76.jpg?1562563744|https://scryfall.com/card/xln/137/captivating-crew?utm_source=api>`
    |mana_3|\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
 
 
-:mtgtip:`Charging Monstrosaur<https://img.scryfall.com/cards/border_crop/front/d/5/d5222448-95d1-4b63-ab76-d5060febcf38.jpg?1562564658|https://scryfall.com/card/xln/138/charging-monstrosaur?utm_source=api>`
+:mtgtip:`Charging Monstrosaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5222448-95d1-4b63-ab76-d5060febcf38.jpg?1562564658|https://scryfall.com/card/xln/138/charging-monstrosaur?utm_source=api>`
    Trample, haste
 
 
-:mtgtip:`Demolish<https://img.scryfall.com/cards/border_crop/front/d/4/d48aa427-b2d5-4562-bd69-e98913d53fb1.jpg?1562564599|https://scryfall.com/card/xln/139/demolish?utm_source=api>`
+:mtgtip:`Demolish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d48aa427-b2d5-4562-bd69-e98913d53fb1.jpg?1562564599|https://scryfall.com/card/xln/139/demolish?utm_source=api>`
    Destroy target artifact or land.
 
 
-:mtgtip:`Dinosaur Stampede<https://img.scryfall.com/cards/border_crop/front/a/3/a31bda74-8455-45ab-8142-65fbde2f39c3.jpg?1562561328|https://scryfall.com/card/xln/140/dinosaur-stampede?utm_source=api>`
+:mtgtip:`Dinosaur Stampede<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a31bda74-8455-45ab-8142-65fbde2f39c3.jpg?1562561328|https://scryfall.com/card/xln/140/dinosaur-stampede?utm_source=api>`
    Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain trample until end of turn.
 
 
-:mtgtip:`Dual Shot<https://img.scryfall.com/cards/border_crop/front/0/b/0bb504d2-d3de-4b09-9007-3d403fc9a216.jpg?1562550459|https://scryfall.com/card/xln/141/dual-shot?utm_source=api>`
+:mtgtip:`Dual Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0bb504d2-d3de-4b09-9007-3d403fc9a216.jpg?1562550459|https://scryfall.com/card/xln/141/dual-shot?utm_source=api>`
    Dual Shot deals 1 damage to each of up to two target creatures.
 
 
-:mtgtip:`Fathom Fleet Firebrand<https://img.scryfall.com/cards/border_crop/front/5/2/52280963-ba5b-4735-b5cb-67866f8624c9.jpg?1562555362|https://scryfall.com/card/xln/142/fathom-fleet-firebrand?utm_source=api>`
+:mtgtip:`Fathom Fleet Firebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52280963-ba5b-4735-b5cb-67866f8624c9.jpg?1562555362|https://scryfall.com/card/xln/142/fathom-fleet-firebrand?utm_source=api>`
    |mana_1|\ |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn.
 
 
-:mtgtip:`Fiery Cannonade<https://img.scryfall.com/cards/border_crop/front/6/6/664d21c9-4b6c-4797-845f-7bca79c2b76b.jpg?1562556766|https://scryfall.com/card/xln/143/fiery-cannonade?utm_source=api>`
+:mtgtip:`Fiery Cannonade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/664d21c9-4b6c-4797-845f-7bca79c2b76b.jpg?1562556766|https://scryfall.com/card/xln/143/fiery-cannonade?utm_source=api>`
    Fiery Cannonade deals 2 damage to each non-Pirate creature.
 
 
-:mtgtip:`Fire Shrine Keeper<https://img.scryfall.com/cards/border_crop/front/5/4/54135905-9b15-4bf9-8f4d-4ea7a0c75b77.jpg?1562555501|https://scryfall.com/card/xln/144/fire-shrine-keeper?utm_source=api>`
+:mtgtip:`Fire Shrine Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54135905-9b15-4bf9-8f4d-4ea7a0c75b77.jpg?1562555501|https://scryfall.com/card/xln/144/fire-shrine-keeper?utm_source=api>`
    Menace
 
    |mana_7|\ |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage to each of up to two target creatures.
 
 
-:mtgtip:`Firecannon Blast<https://img.scryfall.com/cards/border_crop/front/b/1/b1f083c3-d7b0-4d3d-8551-af52c7883d83.jpg?1562562389|https://scryfall.com/card/xln/145/firecannon-blast?utm_source=api>`
+:mtgtip:`Firecannon Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1f083c3-d7b0-4d3d-8551-af52c7883d83.jpg?1562562389|https://scryfall.com/card/xln/145/firecannon-blast?utm_source=api>`
    Firecannon Blast deals 3 damage to target creature.
 
-   Raid — Firecannon Blast deals 6 damage instead if you attacked with a creature this turn.
+   Raid — Firecannon Blast deals 6 damage instead if you attacked this turn.
 
 
-:mtgtip:`Frenzied Raptor<https://img.scryfall.com/cards/border_crop/front/a/7/a7c3a1c9-ffa2-4990-aa4b-db9d688f1ed4.jpg?1562561647|https://scryfall.com/card/xln/146/frenzied-raptor?utm_source=api>`
+:mtgtip:`Frenzied Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7c3a1c9-ffa2-4990-aa4b-db9d688f1ed4.jpg?1562561647|https://scryfall.com/card/xln/146/frenzied-raptor?utm_source=api>`
    
 
 
-:mtgtip:`Headstrong Brute<https://img.scryfall.com/cards/border_crop/front/6/6/66973e90-0c8b-4438-bc22-6e78930c194d.jpg?1562556781|https://scryfall.com/card/xln/147/headstrong-brute?utm_source=api>`
+:mtgtip:`Headstrong Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66973e90-0c8b-4438-bc22-6e78930c194d.jpg?1562556781|https://scryfall.com/card/xln/147/headstrong-brute?utm_source=api>`
    Headstrong Brute can't block.
 
    Headstrong Brute has menace as long as you control another Pirate.
 
 
-:mtgtip:`Hijack<https://img.scryfall.com/cards/border_crop/front/5/1/519c5660-4daf-4404-b808-66d1c840ab70.jpg?1562555301|https://scryfall.com/card/xln/148/hijack?utm_source=api>`
+:mtgtip:`Hijack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/519c5660-4daf-4404-b808-66d1c840ab70.jpg?1562555301|https://scryfall.com/card/xln/148/hijack?utm_source=api>`
    Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.
 
 
-:mtgtip:`Lightning Strike<https://img.scryfall.com/cards/border_crop/front/f/0/f0f55dee-7e39-4183-8e74-844d9c299bf5.jpg?1562566447|https://scryfall.com/card/xln/149/lightning-strike?utm_source=api>`
+:mtgtip:`Lightning Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0f55dee-7e39-4183-8e74-844d9c299bf5.jpg?1562566447|https://scryfall.com/card/xln/149/lightning-strike?utm_source=api>`
    Lightning Strike deals 3 damage to any target.
 
 
-:mtgtip:`Lightning-Rig Crew<https://img.scryfall.com/cards/border_crop/front/e/b/eb4a34ce-94d5-4e4d-97cc-1326cf5241f5.jpg?1562566048|https://scryfall.com/card/xln/150/lightning-rig-crew?utm_source=api>`
+:mtgtip:`Lightning-Rig Crew<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb4a34ce-94d5-4e4d-97cc-1326cf5241f5.jpg?1562566048|https://scryfall.com/card/xln/150/lightning-rig-crew?utm_source=api>`
    |tap|: Lightning-Rig Crew deals 1 damage to each opponent.
 
    Whenever you cast a Pirate spell, untap Lightning-Rig Crew.
 
 
-:mtgtip:`Makeshift Munitions<https://img.scryfall.com/cards/border_crop/front/6/5/65689442-e679-4844-91a8-f6a39a7c1f9b.jpg?1562556667|https://scryfall.com/card/xln/151/makeshift-munitions?utm_source=api>`
+:mtgtip:`Makeshift Munitions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65689442-e679-4844-91a8-f6a39a7c1f9b.jpg?1562556667|https://scryfall.com/card/xln/151/makeshift-munitions?utm_source=api>`
    |mana_1|, Sacrifice an artifact or creature: Makeshift Munitions deals 1 damage to any target.
 
 
-:mtgtip:`Nest Robber<https://img.scryfall.com/cards/border_crop/front/5/7/576d3845-f45a-4db0-9f7c-845cedb64c49.jpg?1562555717|https://scryfall.com/card/xln/152/nest-robber?utm_source=api>`
+:mtgtip:`Nest Robber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/576d3845-f45a-4db0-9f7c-845cedb64c49.jpg?1562555717|https://scryfall.com/card/xln/152/nest-robber?utm_source=api>`
    Haste
 
 
-:mtgtip:`Otepec Huntmaster<https://img.scryfall.com/cards/border_crop/front/c/3/c334e6f3-1378-4429-b4f1-fa8ed7ab7123.jpg?1562563501|https://scryfall.com/card/xln/153/otepec-huntmaster?utm_source=api>`
+:mtgtip:`Otepec Huntmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c334e6f3-1378-4429-b4f1-fa8ed7ab7123.jpg?1562563501|https://scryfall.com/card/xln/153/otepec-huntmaster?utm_source=api>`
    Dinosaur spells you cast cost |mana_1| less to cast.
 
    |tap|: Target Dinosaur gains haste until end of turn.
 
 
-:mtgtip:`Rampaging Ferocidon<https://img.scryfall.com/cards/border_crop/front/3/9/39d3c658-1927-4af3-9077-88c4a669c730.jpg?1566819584|https://scryfall.com/card/xln/154/rampaging-ferocidon?utm_source=api>`
+:mtgtip:`Rampaging Ferocidon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39d3c658-1927-4af3-9077-88c4a669c730.jpg?1566819584|https://scryfall.com/card/xln/154/rampaging-ferocidon?utm_source=api>`
    Menace
 
    Players can't gain life.
@@ -773,99 +773,99 @@
    Whenever another creature enters the battlefield, Rampaging Ferocidon deals 1 damage to that creature's controller.
 
 
-:mtgtip:`Raptor Hatchling<https://img.scryfall.com/cards/border_crop/front/8/0/8093e88d-fd3c-43d3-a025-9ebb9f02a84f.jpg?1562558980|https://scryfall.com/card/xln/155/raptor-hatchling?utm_source=api>`
+:mtgtip:`Raptor Hatchling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/8093e88d-fd3c-43d3-a025-9ebb9f02a84f.jpg?1562558980|https://scryfall.com/card/xln/155/raptor-hatchling?utm_source=api>`
    Enrage — Whenever Raptor Hatchling is dealt damage, create a 3/3 green Dinosaur creature token with trample.
 
 
-:mtgtip:`Repeating Barrage<https://img.scryfall.com/cards/border_crop/front/b/a/ba90a2d6-8292-4ff1-91d0-b30ae9775f12.jpg?1562562987|https://scryfall.com/card/xln/156/repeating-barrage?utm_source=api>`
+:mtgtip:`Repeating Barrage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba90a2d6-8292-4ff1-91d0-b30ae9775f12.jpg?1562562987|https://scryfall.com/card/xln/156/repeating-barrage?utm_source=api>`
    Repeating Barrage deals 3 damage to any target.
 
-   Raid — |mana_3|\ |mana_r|\ |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked with a creature this turn.
+   Raid — |mana_3|\ |mana_r|\ |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked this turn.
 
 
-:mtgtip:`Rigging Runner<https://img.scryfall.com/cards/border_crop/front/e/b/eb9983ce-8ca6-450a-9cac-5396ba8e1690.jpg?1562566069|https://scryfall.com/card/xln/157/rigging-runner?utm_source=api>`
+:mtgtip:`Rigging Runner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb9983ce-8ca6-450a-9cac-5396ba8e1690.jpg?1562566069|https://scryfall.com/card/xln/157/rigging-runner?utm_source=api>`
    First strike
 
-   Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.
+   Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it if you attacked this turn.
 
 
-:mtgtip:`Rile<https://img.scryfall.com/cards/border_crop/front/8/0/80925750-6c90-42d1-9525-27f1f0313398.jpg?1562558975|https://scryfall.com/card/xln/158/rile?utm_source=api>`
+:mtgtip:`Rile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80925750-6c90-42d1-9525-27f1f0313398.jpg?1562558975|https://scryfall.com/card/xln/158/rile?utm_source=api>`
    Rile deals 1 damage to target creature you control. That creature gains trample until end of turn.
 
    Draw a card.
 
 
-:mtgtip:`Rowdy Crew<https://img.scryfall.com/cards/border_crop/front/b/d/bdb3821a-ecc8-478d-93de-57200476868c.jpg?1562563198|https://scryfall.com/card/xln/159/rowdy-crew?utm_source=api>`
+:mtgtip:`Rowdy Crew<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdb3821a-ecc8-478d-93de-57200476868c.jpg?1562563198|https://scryfall.com/card/xln/159/rowdy-crew?utm_source=api>`
    Trample
 
    When Rowdy Crew enters the battlefield, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on Rowdy Crew.
 
 
-:mtgtip:`Rummaging Goblin<https://img.scryfall.com/cards/border_crop/front/8/3/8342ad27-f2cd-47c3-bc30-6fae8523f250.jpg?1562559139|https://scryfall.com/card/xln/160/rummaging-goblin?utm_source=api>`
+:mtgtip:`Rummaging Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8342ad27-f2cd-47c3-bc30-6fae8523f250.jpg?1562559139|https://scryfall.com/card/xln/160/rummaging-goblin?utm_source=api>`
    |tap|, Discard a card: Draw a card.
 
 
-:mtgtip:`Star of Extinction<https://img.scryfall.com/cards/border_crop/front/0/2/021f57dc-80f3-4ede-99d5-4a44aade44e2.jpg?1562549822|https://scryfall.com/card/xln/161/star-of-extinction?utm_source=api>`
+:mtgtip:`Star of Extinction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/021f57dc-80f3-4ede-99d5-4a44aade44e2.jpg?1562549822|https://scryfall.com/card/xln/161/star-of-extinction?utm_source=api>`
    Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.
 
 
-:mtgtip:`Storm Fleet Arsonist<https://img.scryfall.com/cards/border_crop/front/8/d/8d8ecb6d-f794-468b-8399-60a50aaa13ac.jpg?1562559744|https://scryfall.com/card/xln/162/storm-fleet-arsonist?utm_source=api>`
-   Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked with a creature this turn, target opponent sacrifices a permanent.
+:mtgtip:`Storm Fleet Arsonist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d8ecb6d-f794-468b-8399-60a50aaa13ac.jpg?1562559744|https://scryfall.com/card/xln/162/storm-fleet-arsonist?utm_source=api>`
+   Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked this turn, target opponent sacrifices a permanent.
 
 
-:mtgtip:`Storm Fleet Pyromancer<https://img.scryfall.com/cards/border_crop/front/a/b/ab5f5e45-2abb-43e1-aecb-97f0390282a7.jpg?1562561891|https://scryfall.com/card/xln/163/storm-fleet-pyromancer?utm_source=api>`
-   Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked with a creature this turn, Storm Fleet Pyromancer deals 2 damage to any target.
+:mtgtip:`Storm Fleet Pyromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab5f5e45-2abb-43e1-aecb-97f0390282a7.jpg?1562561891|https://scryfall.com/card/xln/163/storm-fleet-pyromancer?utm_source=api>`
+   Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked this turn, Storm Fleet Pyromancer deals 2 damage to any target.
 
 
-:mtgtip:`Sun-Crowned Hunters<https://img.scryfall.com/cards/border_crop/front/3/c/3cab793e-0e17-4940-9cab-a30d62df5c20.jpg?1562553854|https://scryfall.com/card/xln/164/sun-crowned-hunters?utm_source=api>`
+:mtgtip:`Sun-Crowned Hunters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cab793e-0e17-4940-9cab-a30d62df5c20.jpg?1562553854|https://scryfall.com/card/xln/164/sun-crowned-hunters?utm_source=api>`
    Enrage — Whenever Sun-Crowned Hunters is dealt damage, it deals 3 damage to target opponent or planeswalker.
 
 
-:mtgtip:`Sunbird's Invocation<https://img.scryfall.com/cards/border_crop/front/1/e/1ee52480-8faf-4418-af70-fd999096e3bb.jpg?1562551811|https://scryfall.com/card/xln/165/sunbirds-invocation?utm_source=api>`
-   Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's converted mana cost. You may cast a card revealed this way with converted mana cost X or less without paying its mana cost. Put the rest on the bottom of your library in a random order.
+:mtgtip:`Sunbird's Invocation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1ee52480-8faf-4418-af70-fd999096e3bb.jpg?1562551811|https://scryfall.com/card/xln/165/sunbirds-invocation?utm_source=api>`
+   Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's converted mana cost. You may cast a spell with converted mana cost X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Sure Strike<https://img.scryfall.com/cards/border_crop/front/5/3/5370060a-653b-453d-8daf-bef46f9bb4d5.jpg?1562555467|https://scryfall.com/card/xln/166/sure-strike?utm_source=api>`
-   Target creature gets +3/+0 and gains first strike until end of turn.
+:mtgtip:`Sure Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/5370060a-653b-453d-8daf-bef46f9bb4d5.jpg?1562555467|https://scryfall.com/card/xln/166/sure-strike?utm_source=api>`
+   Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
 
 
-:mtgtip:`Swashbuckling<https://img.scryfall.com/cards/border_crop/front/0/1/01ed59b1-968b-4297-9e98-42d940f9478c.jpg?1562549791|https://scryfall.com/card/xln/167/swashbuckling?utm_source=api>`
+:mtgtip:`Swashbuckling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01ed59b1-968b-4297-9e98-42d940f9478c.jpg?1562549791|https://scryfall.com/card/xln/167/swashbuckling?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+2 and has haste.
 
 
-:mtgtip:`Thrash of Raptors<https://img.scryfall.com/cards/border_crop/front/2/a/2a03b859-811c-45ff-8d8a-9e87e4bbf113.jpg?1562552519|https://scryfall.com/card/xln/168/thrash-of-raptors?utm_source=api>`
+:mtgtip:`Thrash of Raptors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a03b859-811c-45ff-8d8a-9e87e4bbf113.jpg?1562552519|https://scryfall.com/card/xln/168/thrash-of-raptors?utm_source=api>`
    As long as you control another Dinosaur, Thrash of Raptors gets +2/+0 and has trample.
 
 
-:mtgtip:`Tilonalli's Knight<https://img.scryfall.com/cards/border_crop/front/b/2/b25c2f33-1707-4ff3-a22e-58f51936b733.jpg?1562562437|https://scryfall.com/card/xln/169/tilonallis-knight?utm_source=api>`
+:mtgtip:`Tilonalli's Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b25c2f33-1707-4ff3-a22e-58f51936b733.jpg?1562562437|https://scryfall.com/card/xln/169/tilonallis-knight?utm_source=api>`
    Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's Knight gets +1/+1 until end of turn.
 
 
-:mtgtip:`Tilonalli's Skinshifter<https://img.scryfall.com/cards/border_crop/front/a/a/aab2765d-cfc4-4381-8cce-adce5aaf05ad.jpg?1562561848|https://scryfall.com/card/xln/170/tilonallis-skinshifter?utm_source=api>`
+:mtgtip:`Tilonalli's Skinshifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aab2765d-cfc4-4381-8cce-adce5aaf05ad.jpg?1562561848|https://scryfall.com/card/xln/170/tilonallis-skinshifter?utm_source=api>`
    Haste
 
    Whenever Tilonalli's Skinshifter attacks, it becomes a copy of another target nonlegendary attacking creature until end of turn.
 
 
-:mtgtip:`Trove of Temptation<https://img.scryfall.com/cards/border_crop/front/f/b/fb2df914-bb56-449e-9ef8-8b1012a76f64.jpg?1562567104|https://scryfall.com/card/xln/171/trove-of-temptation?utm_source=api>`
+:mtgtip:`Trove of Temptation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb2df914-bb56-449e-9ef8-8b1012a76f64.jpg?1562567104|https://scryfall.com/card/xln/171/trove-of-temptation?utm_source=api>`
    Each opponent must attack you or a planeswalker you control with at least one creature each combat if able.
 
    At the beginning of your end step, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Unfriendly Fire<https://img.scryfall.com/cards/border_crop/front/7/a/7a61b274-0499-4cb6-a2e4-f5e18ad7fd2d.jpg?1562558512|https://scryfall.com/card/xln/172/unfriendly-fire?utm_source=api>`
+:mtgtip:`Unfriendly Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a61b274-0499-4cb6-a2e4-f5e18ad7fd2d.jpg?1562558512|https://scryfall.com/card/xln/172/unfriendly-fire?utm_source=api>`
    Unfriendly Fire deals 4 damage to any target.
 
 
-:mtgtip:`Vance's Blasting Cannons<https://img.scryfall.com/cards/border_crop/front/9/e/9e8c0009-787f-480b-84b6-bf297f1fb466.jpg?1562561009|https://scryfall.com/card/xln/173/vances-blasting-cannons-spitfire-bastion?utm_source=api>`
+:mtgtip:`Vance's Blasting Cannons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e8c0009-787f-480b-84b6-bf297f1fb466.jpg?1562561009|https://scryfall.com/card/xln/173/vances-blasting-cannons-spitfire-bastion?utm_source=api>`
    At the beginning of your upkeep, exile the top card of your library. If it's a nonland card, you may cast that card this turn.
 
    Whenever you cast your third spell in a turn, you may transform Vance's Blasting Cannons.
 
 
-:mtgtip:`Spitfire Bastion<https://img.scryfall.com/cards/border_crop/back/9/e/9e8c0009-787f-480b-84b6-bf297f1fb466.jpg?1562561009|https://scryfall.com/card/xln/173/vances-blasting-cannons-spitfire-bastion?utm_source=api>`
+:mtgtip:`Spitfire Bastion<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/e/9e8c0009-787f-480b-84b6-bf297f1fb466.jpg?1562561009|https://scryfall.com/card/xln/173/vances-blasting-cannons-spitfire-bastion?utm_source=api>`
    (Transforms from Vance's Blasting Cannons.)
 
    |tap|: Add |mana_r|.
@@ -873,47 +873,47 @@
    |mana_2|\ |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target.
 
 
-:mtgtip:`Wily Goblin<https://img.scryfall.com/cards/border_crop/front/a/1/a175b24c-c256-45a8-b24a-6b83e42d5efa.jpg?1562561233|https://scryfall.com/card/xln/174/wily-goblin?utm_source=api>`
+:mtgtip:`Wily Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a175b24c-c256-45a8-b24a-6b83e42d5efa.jpg?1562561233|https://scryfall.com/card/xln/174/wily-goblin?utm_source=api>`
    When Wily Goblin enters the battlefield, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Ancient Brontodon<https://img.scryfall.com/cards/border_crop/front/3/9/39421ce8-86d5-4739-b6fd-78d63c0bb258.jpg?1562553559|https://scryfall.com/card/xln/175/ancient-brontodon?utm_source=api>`
+:mtgtip:`Ancient Brontodon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39421ce8-86d5-4739-b6fd-78d63c0bb258.jpg?1562553559|https://scryfall.com/card/xln/175/ancient-brontodon?utm_source=api>`
    
 
 
-:mtgtip:`Atzocan Archer<https://img.scryfall.com/cards/border_crop/front/3/e/3e214e0d-bd3d-467b-83fb-d8a232e166e4.jpg?1562553980|https://scryfall.com/card/xln/176/atzocan-archer?utm_source=api>`
+:mtgtip:`Atzocan Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e214e0d-bd3d-467b-83fb-d8a232e166e4.jpg?1562553980|https://scryfall.com/card/xln/176/atzocan-archer?utm_source=api>`
    Reach
 
    When Atzocan Archer enters the battlefield, you may have it fight another target creature. (Each deals damage equal to its power to the other.)
 
 
-:mtgtip:`Blinding Fog<https://img.scryfall.com/cards/border_crop/front/b/a/bae7d501-72a1-43c2-9f72-d768ac5e9320.jpg?1562563001|https://scryfall.com/card/xln/177/blinding-fog?utm_source=api>`
+:mtgtip:`Blinding Fog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bae7d501-72a1-43c2-9f72-d768ac5e9320.jpg?1562563001|https://scryfall.com/card/xln/177/blinding-fog?utm_source=api>`
    Prevent all damage that would be dealt to creatures this turn. Creatures you control gain hexproof until end of turn. (They can't be the targets of spells or abilities your opponents control.)
 
 
-:mtgtip:`Blossom Dryad<https://img.scryfall.com/cards/border_crop/front/6/6/66a3645f-2b71-4816-a1f2-6cd4e987882f.jpg?1562556790|https://scryfall.com/card/xln/178/blossom-dryad?utm_source=api>`
+:mtgtip:`Blossom Dryad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66a3645f-2b71-4816-a1f2-6cd4e987882f.jpg?1562556790|https://scryfall.com/card/xln/178/blossom-dryad?utm_source=api>`
    |tap|: Untap target land.
 
 
-:mtgtip:`Carnage Tyrant<https://img.scryfall.com/cards/border_crop/front/3/b/3bd78731-949c-464a-826a-92f86d784911.jpg?1562553791|https://scryfall.com/card/xln/179/carnage-tyrant?utm_source=api>`
+:mtgtip:`Carnage Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bd78731-949c-464a-826a-92f86d784911.jpg?1562553791|https://scryfall.com/card/xln/179/carnage-tyrant?utm_source=api>`
    This spell can't be countered.
 
    Trample, hexproof
 
 
-:mtgtip:`Colossal Dreadmaw<https://img.scryfall.com/cards/border_crop/front/7/6/76ac5b70-47db-4cdb-91e7-e5c18c42e516.jpg?1562558297|https://scryfall.com/card/xln/180/colossal-dreadmaw?utm_source=api>`
+:mtgtip:`Colossal Dreadmaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76ac5b70-47db-4cdb-91e7-e5c18c42e516.jpg?1562558297|https://scryfall.com/card/xln/180/colossal-dreadmaw?utm_source=api>`
    Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 
 
-:mtgtip:`Commune with Dinosaurs<https://img.scryfall.com/cards/border_crop/front/d/e/de4b9a07-6631-477a-8c77-3b04f211439d.jpg?1562565270|https://scryfall.com/card/xln/181/commune-with-dinosaurs?utm_source=api>`
+:mtgtip:`Commune with Dinosaurs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de4b9a07-6631-477a-8c77-3b04f211439d.jpg?1562565270|https://scryfall.com/card/xln/181/commune-with-dinosaurs?utm_source=api>`
    Look at the top five cards of your library. You may reveal a Dinosaur or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Crash the Ramparts<https://img.scryfall.com/cards/border_crop/front/2/0/20b52d17-7efb-4c6e-9e6a-4763d1ef1daa.jpg?1562551952|https://scryfall.com/card/xln/182/crash-the-ramparts?utm_source=api>`
+:mtgtip:`Crash the Ramparts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20b52d17-7efb-4c6e-9e6a-4763d1ef1daa.jpg?1562551952|https://scryfall.com/card/xln/182/crash-the-ramparts?utm_source=api>`
    Target creature gets +3/+3 and gains trample until end of turn.
 
 
-:mtgtip:`Crushing Canopy<https://img.scryfall.com/cards/border_crop/front/a/6/a66b0e45-e585-44f3-8d2b-e887330ba138.jpg?1562561563|https://scryfall.com/card/xln/183/crushing-canopy?utm_source=api>`
+:mtgtip:`Crushing Canopy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a66b0e45-e585-44f3-8d2b-e887330ba138.jpg?1562561563|https://scryfall.com/card/xln/183/crushing-canopy?utm_source=api>`
    Choose one —
 
    • Destroy target creature with flying.
@@ -921,43 +921,43 @@
    • Destroy target enchantment.
 
 
-:mtgtip:`Deathgorge Scavenger<https://img.scryfall.com/cards/border_crop/front/a/0/a0e9d8a4-dfc2-4451-a15f-98592b817155.jpg?1562561196|https://scryfall.com/card/xln/184/deathgorge-scavenger?utm_source=api>`
+:mtgtip:`Deathgorge Scavenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0e9d8a4-dfc2-4451-a15f-98592b817155.jpg?1562561196|https://scryfall.com/card/xln/184/deathgorge-scavenger?utm_source=api>`
    Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn.
 
 
-:mtgtip:`Deeproot Champion<https://img.scryfall.com/cards/border_crop/front/e/a/ea1e7fed-e6f3-4445-8d01-dca3971f726f.jpg?1562565986|https://scryfall.com/card/xln/185/deeproot-champion?utm_source=api>`
+:mtgtip:`Deeproot Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea1e7fed-e6f3-4445-8d01-dca3971f726f.jpg?1562565986|https://scryfall.com/card/xln/185/deeproot-champion?utm_source=api>`
    Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion.
 
 
-:mtgtip:`Deeproot Warrior<https://img.scryfall.com/cards/border_crop/front/7/c/7c1a1963-ec46-4ed3-9be1-e4cc09687922.jpg?1562558614|https://scryfall.com/card/xln/186/deeproot-warrior?utm_source=api>`
+:mtgtip:`Deeproot Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c1a1963-ec46-4ed3-9be1-e4cc09687922.jpg?1562558614|https://scryfall.com/card/xln/186/deeproot-warrior?utm_source=api>`
    Whenever Deeproot Warrior becomes blocked, it gets +1/+1 until end of turn.
 
 
-:mtgtip:`Drover of the Mighty<https://img.scryfall.com/cards/border_crop/front/5/1/51fdf2fc-d948-4c64-a34e-2f90eab83212.jpg?1562555343|https://scryfall.com/card/xln/187/drover-of-the-mighty?utm_source=api>`
+:mtgtip:`Drover of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51fdf2fc-d948-4c64-a34e-2f90eab83212.jpg?1562555343|https://scryfall.com/card/xln/187/drover-of-the-mighty?utm_source=api>`
    Drover of the Mighty gets +2/+2 as long as you control a Dinosaur.
 
    |tap|: Add one mana of any color.
 
 
-:mtgtip:`Emergent Growth<https://img.scryfall.com/cards/border_crop/front/8/e/8e396762-fe76-4b2d-b571-373ab2c240ad.jpg?1562559796|https://scryfall.com/card/xln/188/emergent-growth?utm_source=api>`
+:mtgtip:`Emergent Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e396762-fe76-4b2d-b571-373ab2c240ad.jpg?1562559796|https://scryfall.com/card/xln/188/emergent-growth?utm_source=api>`
    Target creature gets +5/+5 until end of turn and must be blocked this turn if able.
 
 
-:mtgtip:`Emperor's Vanguard<https://img.scryfall.com/cards/border_crop/front/f/1/f10c22b9-bdb7-4933-a58a-c53d040ae3bb.jpg?1562566456|https://scryfall.com/card/xln/189/emperors-vanguard?utm_source=api>`
+:mtgtip:`Emperor's Vanguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f10c22b9-bdb7-4933-a58a-c53d040ae3bb.jpg?1562566456|https://scryfall.com/card/xln/189/emperors-vanguard?utm_source=api>`
    Whenever Emperor's Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Grazing Whiptail<https://img.scryfall.com/cards/border_crop/front/7/5/75cbd690-4d6e-49a7-bded-e6ecee2c76b6.jpg?1562558237|https://scryfall.com/card/xln/190/grazing-whiptail?utm_source=api>`
+:mtgtip:`Grazing Whiptail<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75cbd690-4d6e-49a7-bded-e6ecee2c76b6.jpg?1562558237|https://scryfall.com/card/xln/190/grazing-whiptail?utm_source=api>`
    Reach
 
 
-:mtgtip:`Growing Rites of Itlimoc<https://img.scryfall.com/cards/border_crop/front/b/3/b3b87bfc-f97f-4734-94f6-e3e2f335fc4d.jpg?1562562539|https://scryfall.com/card/xln/191/growing-rites-of-itlimoc-itlimoc-cradle-of-the-sun?utm_source=api>`
+:mtgtip:`Growing Rites of Itlimoc<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3b87bfc-f97f-4734-94f6-e3e2f335fc4d.jpg?1562562539|https://scryfall.com/card/xln/191/growing-rites-of-itlimoc-itlimoc-cradle-of-the-sun?utm_source=api>`
    When Growing Rites of Itlimoc enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
    At the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc.
 
 
-:mtgtip:`Itlimoc, Cradle of the Sun<https://img.scryfall.com/cards/border_crop/back/b/3/b3b87bfc-f97f-4734-94f6-e3e2f335fc4d.jpg?1562562539|https://scryfall.com/card/xln/191/growing-rites-of-itlimoc-itlimoc-cradle-of-the-sun?utm_source=api>`
+:mtgtip:`Itlimoc, Cradle of the Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/3/b3b87bfc-f97f-4734-94f6-e3e2f335fc4d.jpg?1562562539|https://scryfall.com/card/xln/191/growing-rites-of-itlimoc-itlimoc-cradle-of-the-sun?utm_source=api>`
    (Transforms from Growing Rites of Itlimoc.)
 
    |tap|: Add |mana_g|.
@@ -965,33 +965,33 @@
    |tap|: Add |mana_g| for each creature you control.
 
 
-:mtgtip:`Ixalli's Diviner<https://img.scryfall.com/cards/border_crop/front/b/2/b22b55f6-681f-45da-bc57-a0cf7b8f671d.jpg?1562562416|https://scryfall.com/card/xln/192/ixallis-diviner?utm_source=api>`
+:mtgtip:`Ixalli's Diviner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b22b55f6-681f-45da-bc57-a0cf7b8f671d.jpg?1562562416|https://scryfall.com/card/xln/192/ixallis-diviner?utm_source=api>`
    When Ixalli's Diviner enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Ixalli's Keeper<https://img.scryfall.com/cards/border_crop/front/e/5/e5b98537-abf4-46cb-853f-9561811ab439.jpg?1562565766|https://scryfall.com/card/xln/193/ixallis-keeper?utm_source=api>`
+:mtgtip:`Ixalli's Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5b98537-abf4-46cb-853f-9561811ab439.jpg?1562565766|https://scryfall.com/card/xln/193/ixallis-keeper?utm_source=api>`
    |mana_7|\ |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn.
 
 
-:mtgtip:`Jade Guardian<https://img.scryfall.com/cards/border_crop/front/a/c/aca83e48-6e32-477f-8714-6103e77c06df.jpg?1562561992|https://scryfall.com/card/xln/194/jade-guardian?utm_source=api>`
+:mtgtip:`Jade Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/aca83e48-6e32-477f-8714-6103e77c06df.jpg?1562561992|https://scryfall.com/card/xln/194/jade-guardian?utm_source=api>`
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 
    When Jade Guardian enters the battlefield, put a +1/+1 counter on target Merfolk you control.
 
 
-:mtgtip:`Jungle Delver<https://img.scryfall.com/cards/border_crop/front/b/e/be0e3547-d8cb-4b68-a396-8c8fbc3b2b1c.jpg?1562563218|https://scryfall.com/card/xln/195/jungle-delver?utm_source=api>`
+:mtgtip:`Jungle Delver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be0e3547-d8cb-4b68-a396-8c8fbc3b2b1c.jpg?1562563218|https://scryfall.com/card/xln/195/jungle-delver?utm_source=api>`
    |mana_3|\ |mana_g|: Put a +1/+1 counter on Jungle Delver.
 
 
-:mtgtip:`Kumena's Speaker<https://img.scryfall.com/cards/border_crop/front/5/2/52e96ddf-ac9e-4cc5-8c9a-afee421d99a6.jpg?1562555420|https://scryfall.com/card/xln/196/kumenas-speaker?utm_source=api>`
+:mtgtip:`Kumena's Speaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52e96ddf-ac9e-4cc5-8c9a-afee421d99a6.jpg?1562555420|https://scryfall.com/card/xln/196/kumenas-speaker?utm_source=api>`
    Kumena's Speaker gets +1/+1 as long as you control another Merfolk or an Island.
 
 
-:mtgtip:`Merfolk Branchwalker<https://img.scryfall.com/cards/border_crop/front/2/c/2c6f0d4a-4827-47b6-8af6-803949c195f8.jpg?1562552655|https://scryfall.com/card/xln/197/merfolk-branchwalker?utm_source=api>`
+:mtgtip:`Merfolk Branchwalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c6f0d4a-4827-47b6-8af6-803949c195f8.jpg?1562552655|https://scryfall.com/card/xln/197/merfolk-branchwalker?utm_source=api>`
    When Merfolk Branchwalker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`New Horizons<https://img.scryfall.com/cards/border_crop/front/1/5/15b12c75-1248-4c81-90cf-28e341a885cf.jpg?1562551143|https://scryfall.com/card/xln/198/new-horizons?utm_source=api>`
+:mtgtip:`New Horizons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15b12c75-1248-4c81-90cf-28e341a885cf.jpg?1562551143|https://scryfall.com/card/xln/198/new-horizons?utm_source=api>`
    Enchant land
 
    When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control.
@@ -999,123 +999,123 @@
    Enchanted land has "|tap|: Add two mana of any one color."
 
 
-:mtgtip:`Old-Growth Dryads<https://img.scryfall.com/cards/border_crop/front/0/6/06458882-94c8-4d92-a21c-955e9d70f0d4.jpg?1562550095|https://scryfall.com/card/xln/199/old-growth-dryads?utm_source=api>`
+:mtgtip:`Old-Growth Dryads<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06458882-94c8-4d92-a21c-955e9d70f0d4.jpg?1562550095|https://scryfall.com/card/xln/199/old-growth-dryads?utm_source=api>`
    When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.
 
 
-:mtgtip:`Pounce<https://img.scryfall.com/cards/border_crop/front/2/b/2b96cba6-33d7-4e1d-88f7-da3da681540d.jpg?1562552622|https://scryfall.com/card/xln/200/pounce?utm_source=api>`
+:mtgtip:`Pounce<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b96cba6-33d7-4e1d-88f7-da3da681540d.jpg?1562552622|https://scryfall.com/card/xln/200/pounce?utm_source=api>`
    Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
 
-:mtgtip:`Ranging Raptors<https://img.scryfall.com/cards/border_crop/front/9/e/9e91efc6-0e6a-4a9e-a486-adf53e53d3f1.jpg?1562561017|https://scryfall.com/card/xln/201/ranging-raptors?utm_source=api>`
+:mtgtip:`Ranging Raptors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e91efc6-0e6a-4a9e-a486-adf53e53d3f1.jpg?1562561017|https://scryfall.com/card/xln/201/ranging-raptors?utm_source=api>`
    Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 
-:mtgtip:`Ravenous Daggertooth<https://img.scryfall.com/cards/border_crop/front/3/0/309b204b-774a-47bc-aead-c78db90f3be2.jpg?1562552903|https://scryfall.com/card/xln/202/ravenous-daggertooth?utm_source=api>`
+:mtgtip:`Ravenous Daggertooth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/309b204b-774a-47bc-aead-c78db90f3be2.jpg?1562552903|https://scryfall.com/card/xln/202/ravenous-daggertooth?utm_source=api>`
    Enrage — Whenever Ravenous Daggertooth is dealt damage, you gain 2 life.
 
 
-:mtgtip:`Ripjaw Raptor<https://img.scryfall.com/cards/border_crop/front/7/c/7c5368c6-87e0-4f83-aaf7-f4af96d2bf30.jpg?1562558624|https://scryfall.com/card/xln/203/ripjaw-raptor?utm_source=api>`
+:mtgtip:`Ripjaw Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c5368c6-87e0-4f83-aaf7-f4af96d2bf30.jpg?1562558624|https://scryfall.com/card/xln/203/ripjaw-raptor?utm_source=api>`
    Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card.
 
 
-:mtgtip:`River Heralds' Boon<https://img.scryfall.com/cards/border_crop/front/e/3/e355a98d-093d-4ab2-84f2-f560d08f1fca.jpg?1562565614|https://scryfall.com/card/xln/204/river-heralds-boon?utm_source=api>`
+:mtgtip:`River Heralds' Boon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e355a98d-093d-4ab2-84f2-f560d08f1fca.jpg?1562565614|https://scryfall.com/card/xln/204/river-heralds-boon?utm_source=api>`
    Put a +1/+1 counter on target creature and a +1/+1 counter on up to one target Merfolk.
 
 
-:mtgtip:`Savage Stomp<https://img.scryfall.com/cards/border_crop/front/c/b/cb862587-8821-43c7-ad08-2b7d2b82cc71.jpg?1562563995|https://scryfall.com/card/xln/205/savage-stomp?utm_source=api>`
+:mtgtip:`Savage Stomp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb862587-8821-43c7-ad08-2b7d2b82cc71.jpg?1562563995|https://scryfall.com/card/xln/205/savage-stomp?utm_source=api>`
    This spell costs |mana_2| less to cast if it targets a Dinosaur you control.
 
    Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
 
-:mtgtip:`Shapers' Sanctuary<https://img.scryfall.com/cards/border_crop/front/9/3/930240dc-9c8c-4857-b6ce-85f1689c60e5.jpg?1562560126|https://scryfall.com/card/xln/206/shapers-sanctuary?utm_source=api>`
+:mtgtip:`Shapers' Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/930240dc-9c8c-4857-b6ce-85f1689c60e5.jpg?1562560126|https://scryfall.com/card/xln/206/shapers-sanctuary?utm_source=api>`
    Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card.
 
 
-:mtgtip:`Slice in Twain<https://img.scryfall.com/cards/border_crop/front/4/3/433634b9-b26c-4935-a4f1-735373415548.jpg?1562554269|https://scryfall.com/card/xln/207/slice-in-twain?utm_source=api>`
+:mtgtip:`Slice in Twain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/433634b9-b26c-4935-a4f1-735373415548.jpg?1562554269|https://scryfall.com/card/xln/207/slice-in-twain?utm_source=api>`
    Destroy target artifact or enchantment.
 
    Draw a card.
 
 
-:mtgtip:`Snapping Sailback<https://img.scryfall.com/cards/border_crop/front/0/a/0af1eadf-f7ea-40be-a0cc-b79e4161db34.jpg?1562550413|https://scryfall.com/card/xln/208/snapping-sailback?utm_source=api>`
+:mtgtip:`Snapping Sailback<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0af1eadf-f7ea-40be-a0cc-b79e4161db34.jpg?1562550413|https://scryfall.com/card/xln/208/snapping-sailback?utm_source=api>`
    Flash
 
    Enrage — Whenever Snapping Sailback is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)
 
 
-:mtgtip:`Spike-Tailed Ceratops<https://img.scryfall.com/cards/border_crop/front/4/1/41a3b5f2-0b0b-42e0-a15b-4bb2fce05927.jpg?1562554159|https://scryfall.com/card/xln/209/spike-tailed-ceratops?utm_source=api>`
+:mtgtip:`Spike-Tailed Ceratops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41a3b5f2-0b0b-42e0-a15b-4bb2fce05927.jpg?1562554159|https://scryfall.com/card/xln/209/spike-tailed-ceratops?utm_source=api>`
    Spike-Tailed Ceratops can block an additional creature each combat.
 
 
-:mtgtip:`Thundering Spineback<https://img.scryfall.com/cards/border_crop/front/3/5/35711da6-aac4-4c2a-b324-aebeaa843adc.jpg?1562553270|https://scryfall.com/card/xln/210/thundering-spineback?utm_source=api>`
+:mtgtip:`Thundering Spineback<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35711da6-aac4-4c2a-b324-aebeaa843adc.jpg?1562553270|https://scryfall.com/card/xln/210/thundering-spineback?utm_source=api>`
    Other Dinosaurs you control get +1/+1.
 
    |mana_5|\ |mana_g|: Create a 3/3 green Dinosaur creature token with trample.
 
 
-:mtgtip:`Tishana's Wayfinder<https://img.scryfall.com/cards/border_crop/front/a/f/af52383b-545e-4b64-93f9-317ba6dcf5a8.jpg?1562562186|https://scryfall.com/card/xln/211/tishanas-wayfinder?utm_source=api>`
+:mtgtip:`Tishana's Wayfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af52383b-545e-4b64-93f9-317ba6dcf5a8.jpg?1562562186|https://scryfall.com/card/xln/211/tishanas-wayfinder?utm_source=api>`
    When Tishana's Wayfinder enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-:mtgtip:`Verdant Rebirth<https://img.scryfall.com/cards/border_crop/front/9/9/993f4343-8f0a-4c50-b6fd-49f1f11d96f0.jpg?1562560607|https://scryfall.com/card/xln/212/verdant-rebirth?utm_source=api>`
+:mtgtip:`Verdant Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/993f4343-8f0a-4c50-b6fd-49f1f11d96f0.jpg?1562560607|https://scryfall.com/card/xln/212/verdant-rebirth?utm_source=api>`
    Until end of turn, target creature gains "When this creature dies, return it to its owner's hand."
 
    Draw a card.
 
 
-:mtgtip:`Verdant Sun's Avatar<https://img.scryfall.com/cards/border_crop/front/9/d/9dbb5b6a-dc74-4e3e-9de1-5b379abdf2b4.jpg?1562560942|https://scryfall.com/card/xln/213/verdant-suns-avatar?utm_source=api>`
+:mtgtip:`Verdant Sun's Avatar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9dbb5b6a-dc74-4e3e-9de1-5b379abdf2b4.jpg?1562560942|https://scryfall.com/card/xln/213/verdant-suns-avatar?utm_source=api>`
    Whenever Verdant Sun's Avatar or another creature enters the battlefield under your control, you gain life equal to that creature's toughness.
 
 
-:mtgtip:`Vineshaper Mystic<https://img.scryfall.com/cards/border_crop/front/c/4/c4a27502-f6f4-4c12-af0e-eab00d942ada.jpg?1562563582|https://scryfall.com/card/xln/214/vineshaper-mystic?utm_source=api>`
+:mtgtip:`Vineshaper Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4a27502-f6f4-4c12-af0e-eab00d942ada.jpg?1562563582|https://scryfall.com/card/xln/214/vineshaper-mystic?utm_source=api>`
    When Vineshaper Mystic enters the battlefield, put a +1/+1 counter on each of up to two target Merfolk you control.
 
 
-:mtgtip:`Waker of the Wilds<https://img.scryfall.com/cards/border_crop/front/7/d/7d46c4db-e12e-4c79-a17f-2166ed78e9bc.jpg?1562558712|https://scryfall.com/card/xln/215/waker-of-the-wilds?utm_source=api>`
+:mtgtip:`Waker of the Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d46c4db-e12e-4c79-a17f-2166ed78e9bc.jpg?1562558712|https://scryfall.com/card/xln/215/waker-of-the-wilds?utm_source=api>`
    |mana_x|\ |mana_g|\ |mana_g|: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land.
 
 
-:mtgtip:`Wildgrowth Walker<https://img.scryfall.com/cards/border_crop/front/5/2/52e4c0f8-d5f0-4224-9974-190606911480.jpg?1562555416|https://scryfall.com/card/xln/216/wildgrowth-walker?utm_source=api>`
+:mtgtip:`Wildgrowth Walker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52e4c0f8-d5f0-4224-9974-190606911480.jpg?1562555416|https://scryfall.com/card/xln/216/wildgrowth-walker?utm_source=api>`
    Whenever a creature you control explores, put a +1/+1 counter on Wildgrowth Walker and you gain 3 life.
 
 
-:mtgtip:`Admiral Beckett Brass<https://img.scryfall.com/cards/border_crop/front/9/8/9854c2ec-0e53-4ac7-b417-554a9331c5e0.jpg?1562560523|https://scryfall.com/card/xln/217/admiral-beckett-brass?utm_source=api>`
+:mtgtip:`Admiral Beckett Brass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9854c2ec-0e53-4ac7-b417-554a9331c5e0.jpg?1562560523|https://scryfall.com/card/xln/217/admiral-beckett-brass?utm_source=api>`
    Other Pirates you control get +1/+1.
 
    At the beginning of your end step, gain control of target nonland permanent controlled by a player who was dealt combat damage by three or more Pirates this turn.
 
 
-:mtgtip:`Belligerent Brontodon<https://img.scryfall.com/cards/border_crop/front/3/9/39bab75a-2c1f-4ff1-a26e-134e52f61d39.jpg?1562553604|https://scryfall.com/card/xln/218/belligerent-brontodon?utm_source=api>`
+:mtgtip:`Belligerent Brontodon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39bab75a-2c1f-4ff1-a26e-134e52f61d39.jpg?1562553604|https://scryfall.com/card/xln/218/belligerent-brontodon?utm_source=api>`
    Each creature you control assigns combat damage equal to its toughness rather than its power.
 
 
-:mtgtip:`Call to the Feast<https://img.scryfall.com/cards/border_crop/front/f/7/f7226de1-0e05-4baf-8c2f-54297fee43c1.jpg?1562566877|https://scryfall.com/card/xln/219/call-to-the-feast?utm_source=api>`
+:mtgtip:`Call to the Feast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7226de1-0e05-4baf-8c2f-54297fee43c1.jpg?1562566877|https://scryfall.com/card/xln/219/call-to-the-feast?utm_source=api>`
    Create three 1/1 white Vampire creature tokens with lifelink.
 
 
-:mtgtip:`Deadeye Plunderers<https://img.scryfall.com/cards/border_crop/front/6/3/63a7a1a4-aec2-467d-91a1-1a2605718c7c.jpg?1562556523|https://scryfall.com/card/xln/220/deadeye-plunderers?utm_source=api>`
+:mtgtip:`Deadeye Plunderers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63a7a1a4-aec2-467d-91a1-1a2605718c7c.jpg?1562556523|https://scryfall.com/card/xln/220/deadeye-plunderers?utm_source=api>`
    Deadeye Plunderers gets +1/+1 for each artifact you control.
 
    |mana_2|\ |mana_u|\ |mana_b|: Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Dire Fleet Captain<https://img.scryfall.com/cards/border_crop/front/8/2/8200f8a3-d60b-470a-a558-0c3555d1f10b.jpg?1562559016|https://scryfall.com/card/xln/221/dire-fleet-captain?utm_source=api>`
+:mtgtip:`Dire Fleet Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8200f8a3-d60b-470a-a558-0c3555d1f10b.jpg?1562559016|https://scryfall.com/card/xln/221/dire-fleet-captain?utm_source=api>`
    Whenever Dire Fleet Captain attacks, it gets +1/+1 until end of turn for each other attacking Pirate.
 
 
-:mtgtip:`Gishath, Sun's Avatar<https://img.scryfall.com/cards/border_crop/front/7/3/7335e500-342d-476d-975c-817512e6e3d6.jpg?1562558022|https://scryfall.com/card/xln/222/gishath-suns-avatar?utm_source=api>`
+:mtgtip:`Gishath, Sun's Avatar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7335e500-342d-476d-975c-817512e6e3d6.jpg?1562558022|https://scryfall.com/card/xln/222/gishath-suns-avatar?utm_source=api>`
    Vigilance, trample, haste
 
    Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Hostage Taker<https://img.scryfall.com/cards/border_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924|https://scryfall.com/card/xln/223/hostage-taker?utm_source=api>`
+:mtgtip:`Hostage Taker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924|https://scryfall.com/card/xln/223/hostage-taker?utm_source=api>`
    When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.
 
 
-:mtgtip:`Huatli, Warrior Poet<https://img.scryfall.com/cards/border_crop/front/a/0/a0cc61ba-e91a-4b30-841c-cae8dd288b40.jpg?1562561182|https://scryfall.com/card/xln/224/huatli-warrior-poet?utm_source=api>`
+:mtgtip:`Huatli, Warrior Poet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0cc61ba-e91a-4b30-841c-cae8dd288b40.jpg?1562561182|https://scryfall.com/card/xln/224/huatli-warrior-poet?utm_source=api>`
    +2: You gain life equal to the greatest power among creatures you control.
 
    0: Create a 3/3 green Dinosaur creature token with trample.
@@ -1123,33 +1123,33 @@
    −X: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn.
 
 
-:mtgtip:`Marauding Looter<https://img.scryfall.com/cards/border_crop/front/3/c/3c41fee8-7b03-4dc8-babb-f8c8369a74c2.jpg?1562553806|https://scryfall.com/card/xln/225/marauding-looter?utm_source=api>`
-   Raid — At the beginning of your end step, if you attacked with a creature this turn, you may draw a card. If you do, discard a card.
+:mtgtip:`Marauding Looter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c41fee8-7b03-4dc8-babb-f8c8369a74c2.jpg?1562553806|https://scryfall.com/card/xln/225/marauding-looter?utm_source=api>`
+   Raid — At the beginning of your end step, if you attacked this turn, you may draw a card. If you do, discard a card.
 
 
-:mtgtip:`Raging Swordtooth<https://img.scryfall.com/cards/border_crop/front/1/5/15a79137-9589-4c24-9bea-31041fd3c9ae.jpg?1562551139|https://scryfall.com/card/xln/226/raging-swordtooth?utm_source=api>`
+:mtgtip:`Raging Swordtooth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15a79137-9589-4c24-9bea-31041fd3c9ae.jpg?1562551139|https://scryfall.com/card/xln/226/raging-swordtooth?utm_source=api>`
    Trample
 
    When Raging Swordtooth enters the battlefield, it deals 1 damage to each other creature.
 
 
-:mtgtip:`Regisaur Alpha<https://img.scryfall.com/cards/border_crop/front/d/6/d6a322c5-aa4c-4a99-a3ca-48c1353104f0.jpg?1562564727|https://scryfall.com/card/xln/227/regisaur-alpha?utm_source=api>`
+:mtgtip:`Regisaur Alpha<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6a322c5-aa4c-4a99-a3ca-48c1353104f0.jpg?1562564727|https://scryfall.com/card/xln/227/regisaur-alpha?utm_source=api>`
    Other Dinosaurs you control have haste.
 
    When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur creature token with trample.
 
 
-:mtgtip:`Shapers of Nature<https://img.scryfall.com/cards/border_crop/front/7/a/7aa682fb-f5b6-41c1-9428-6043b0b76744.jpg?1562558548|https://scryfall.com/card/xln/228/shapers-of-nature?utm_source=api>`
+:mtgtip:`Shapers of Nature<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7aa682fb-f5b6-41c1-9428-6043b0b76744.jpg?1562558548|https://scryfall.com/card/xln/228/shapers-of-nature?utm_source=api>`
    |mana_3|\ |mana_g|: Put a +1/+1 counter on target creature.
 
    |mana_2|\ |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card.
 
 
-:mtgtip:`Sky Terror<https://img.scryfall.com/cards/border_crop/front/1/6/167ed739-2953-47af-841f-bc1a092b3aa6.jpg?1562551197|https://scryfall.com/card/xln/229/sky-terror?utm_source=api>`
+:mtgtip:`Sky Terror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/167ed739-2953-47af-841f-bc1a092b3aa6.jpg?1562551197|https://scryfall.com/card/xln/229/sky-terror?utm_source=api>`
    Flying, menace
 
 
-:mtgtip:`Tishana, Voice of Thunder<https://img.scryfall.com/cards/border_crop/front/1/9/19c5cfbe-3972-4d2e-a37f-e96cca33bb33.jpg?1562551433|https://scryfall.com/card/xln/230/tishana-voice-of-thunder?utm_source=api>`
+:mtgtip:`Tishana, Voice of Thunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19c5cfbe-3972-4d2e-a37f-e96cca33bb33.jpg?1562551433|https://scryfall.com/card/xln/230/tishana-voice-of-thunder?utm_source=api>`
    Tishana, Voice of Thunder's power and toughness are each equal to the number of cards in your hand.
 
    You have no maximum hand size.
@@ -1157,13 +1157,13 @@
    When Tishana enters the battlefield, draw a card for each creature you control.
 
 
-:mtgtip:`Vona, Butcher of Magan<https://img.scryfall.com/cards/border_crop/front/c/1/c1fd4101-d531-43aa-9cb6-79e36a8121d8.jpg?1562563396|https://scryfall.com/card/xln/231/vona-butcher-of-magan?utm_source=api>`
+:mtgtip:`Vona, Butcher of Magan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1fd4101-d531-43aa-9cb6-79e36a8121d8.jpg?1562563396|https://scryfall.com/card/xln/231/vona-butcher-of-magan?utm_source=api>`
    Vigilance, lifelink
 
    |tap|, Pay 7 life: Destroy target nonland permanent. Activate this ability only during your turn.
 
 
-:mtgtip:`Vraska, Relic Seeker<https://img.scryfall.com/cards/border_crop/front/9/6/967b7272-33a6-46e9-b0aa-4757aee54b3a.jpg?1562560392|https://scryfall.com/card/xln/232/vraska-relic-seeker?utm_source=api>`
+:mtgtip:`Vraska, Relic Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/967b7272-33a6-46e9-b0aa-4757aee54b3a.jpg?1562560392|https://scryfall.com/card/xln/232/vraska-relic-seeker?utm_source=api>`
    +2: Create a 2/2 black Pirate creature token with menace.
 
    −3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
@@ -1171,19 +1171,19 @@
    −10: Target player's life total becomes 1.
 
 
-:mtgtip:`Cobbled Wings<https://img.scryfall.com/cards/border_crop/front/3/b/3b2ff4f0-0dd1-4551-826b-68e8ff1e5860.jpg?1562553698|https://scryfall.com/card/xln/233/cobbled-wings?utm_source=api>`
+:mtgtip:`Cobbled Wings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b2ff4f0-0dd1-4551-826b-68e8ff1e5860.jpg?1562553698|https://scryfall.com/card/xln/233/cobbled-wings?utm_source=api>`
    Equipped creature has flying.
 
    Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Conqueror's Galleon<https://img.scryfall.com/cards/border_crop/front/0/2/02bb4b2a-3c9f-48ab-b2a5-ae31f06b82d9.jpg?1562549847|https://scryfall.com/card/xln/234/conquerors-galleon-conquerors-foothold?utm_source=api>`
+:mtgtip:`Conqueror's Galleon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02bb4b2a-3c9f-48ab-b2a5-ae31f06b82d9.jpg?1562549847|https://scryfall.com/card/xln/234/conquerors-galleon-conquerors-foothold?utm_source=api>`
    When Conqueror's Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control.
 
    Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Conqueror's Foothold<https://img.scryfall.com/cards/border_crop/back/0/2/02bb4b2a-3c9f-48ab-b2a5-ae31f06b82d9.jpg?1562549847|https://scryfall.com/card/xln/234/conquerors-galleon-conquerors-foothold?utm_source=api>`
+:mtgtip:`Conqueror's Foothold<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/2/02bb4b2a-3c9f-48ab-b2a5-ae31f06b82d9.jpg?1562549847|https://scryfall.com/card/xln/234/conquerors-galleon-conquerors-foothold?utm_source=api>`
    (Transforms from Conqueror's Galleon.)
 
    |tap|: Add |colorless|.
@@ -1195,7 +1195,7 @@
    |mana_6|, |tap|: Return target card from your graveyard to your hand.
 
 
-:mtgtip:`Dowsing Dagger<https://img.scryfall.com/cards/border_crop/front/5/1/514d53be-6ade-4f73-a844-e9ae2dafd6ce.jpg?1562555239|https://scryfall.com/card/xln/235/dowsing-dagger-lost-vale?utm_source=api>`
+:mtgtip:`Dowsing Dagger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/514d53be-6ade-4f73-a844-e9ae2dafd6ce.jpg?1562555239|https://scryfall.com/card/xln/235/dowsing-dagger-lost-vale?utm_source=api>`
    When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender.
 
    Equipped creature gets +2/+1.
@@ -1205,19 +1205,19 @@
    Equip |mana_2|
 
 
-:mtgtip:`Lost Vale<https://img.scryfall.com/cards/border_crop/back/5/1/514d53be-6ade-4f73-a844-e9ae2dafd6ce.jpg?1562555239|https://scryfall.com/card/xln/235/dowsing-dagger-lost-vale?utm_source=api>`
+:mtgtip:`Lost Vale<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/1/514d53be-6ade-4f73-a844-e9ae2dafd6ce.jpg?1562555239|https://scryfall.com/card/xln/235/dowsing-dagger-lost-vale?utm_source=api>`
    (Transforms from Dowsing Dagger.)
 
    |tap|: Add three mana of any one color.
 
 
-:mtgtip:`Dusk Legion Dreadnought<https://img.scryfall.com/cards/border_crop/front/a/e/aec26144-9acf-43b7-8614-1a2952df613d.jpg?1562562161|https://scryfall.com/card/xln/236/dusk-legion-dreadnought?utm_source=api>`
+:mtgtip:`Dusk Legion Dreadnought<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/aec26144-9acf-43b7-8614-1a2952df613d.jpg?1562562161|https://scryfall.com/card/xln/236/dusk-legion-dreadnought?utm_source=api>`
    Vigilance
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Elaborate Firecannon<https://img.scryfall.com/cards/border_crop/front/4/b/4b9170f0-d332-42ba-98c7-7e99922fa3fb.jpg?1562554825|https://scryfall.com/card/xln/237/elaborate-firecannon?utm_source=api>`
+:mtgtip:`Elaborate Firecannon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b9170f0-d332-42ba-98c7-7e99922fa3fb.jpg?1562554825|https://scryfall.com/card/xln/237/elaborate-firecannon?utm_source=api>`
    Elaborate Firecannon doesn't untap during your untap step.
 
    |mana_4|, |tap|: Elaborate Firecannon deals 2 damage to any target.
@@ -1225,7 +1225,7 @@
    At the beginning of your upkeep, you may discard a card. If you do, untap Elaborate Firecannon.
 
 
-:mtgtip:`Fell Flagship<https://img.scryfall.com/cards/border_crop/front/2/7/2774bdb6-7a02-43c9-9e6f-75d0b09570ca.jpg?1562552332|https://scryfall.com/card/xln/238/fell-flagship?utm_source=api>`
+:mtgtip:`Fell Flagship<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/2774bdb6-7a02-43c9-9e6f-75d0b09570ca.jpg?1562552332|https://scryfall.com/card/xln/238/fell-flagship?utm_source=api>`
    Pirates you control get +1/+0.
 
    Whenever Fell Flagship deals combat damage to a player, that player discards a card.
@@ -1233,23 +1233,23 @@
    Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Gilded Sentinel<https://img.scryfall.com/cards/border_crop/front/0/1/01cc1a59-76bf-4721-b4a7-ef746f3d3990.jpg?1562549782|https://scryfall.com/card/xln/239/gilded-sentinel?utm_source=api>`
+:mtgtip:`Gilded Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01cc1a59-76bf-4721-b4a7-ef746f3d3990.jpg?1562549782|https://scryfall.com/card/xln/239/gilded-sentinel?utm_source=api>`
    
 
 
-:mtgtip:`Hierophant's Chalice<https://img.scryfall.com/cards/border_crop/front/6/e/6e8be52c-25ce-49da-8435-58797550f058.jpg?1562557259|https://scryfall.com/card/xln/240/hierophants-chalice?utm_source=api>`
+:mtgtip:`Hierophant's Chalice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e8be52c-25ce-49da-8435-58797550f058.jpg?1562557259|https://scryfall.com/card/xln/240/hierophants-chalice?utm_source=api>`
    When Hierophant's Chalice enters the battlefield, target opponent loses 1 life and you gain 1 life.
 
    |tap|: Add |colorless|.
 
 
-:mtgtip:`Pillar of Origins<https://img.scryfall.com/cards/border_crop/front/f/8/f888facd-e462-4794-a774-d765d1a1edfd.jpg?1562566965|https://scryfall.com/card/xln/241/pillar-of-origins?utm_source=api>`
+:mtgtip:`Pillar of Origins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f888facd-e462-4794-a774-d765d1a1edfd.jpg?1562566965|https://scryfall.com/card/xln/241/pillar-of-origins?utm_source=api>`
    As Pillar of Origins enters the battlefield, choose a creature type.
 
    |tap|: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.
 
 
-:mtgtip:`Pirate's Cutlass<https://img.scryfall.com/cards/border_crop/front/b/3/b3e7e871-19cf-486d-bacb-1499fe066974.jpg?1562562558|https://scryfall.com/card/xln/242/pirates-cutlass?utm_source=api>`
+:mtgtip:`Pirate's Cutlass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3e7e871-19cf-486d-bacb-1499fe066974.jpg?1562562558|https://scryfall.com/card/xln/242/pirates-cutlass?utm_source=api>`
    When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control.
 
    Equipped creature gets +2/+1.
@@ -1257,19 +1257,19 @@
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Primal Amulet<https://img.scryfall.com/cards/border_crop/front/d/4/d4d379b5-7f56-4a7d-a4ac-131fc3d579c6.jpg?1562564625|https://scryfall.com/card/xln/243/primal-amulet-primal-wellspring?utm_source=api>`
+:mtgtip:`Primal Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4d379b5-7f56-4a7d-a4ac-131fc3d579c6.jpg?1562564625|https://scryfall.com/card/xln/243/primal-amulet-primal-wellspring?utm_source=api>`
    Instant and sorcery spells you cast cost |mana_1| less to cast.
 
    Whenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it.
 
 
-:mtgtip:`Primal Wellspring<https://img.scryfall.com/cards/border_crop/back/d/4/d4d379b5-7f56-4a7d-a4ac-131fc3d579c6.jpg?1562564625|https://scryfall.com/card/xln/243/primal-amulet-primal-wellspring?utm_source=api>`
+:mtgtip:`Primal Wellspring<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/4/d4d379b5-7f56-4a7d-a4ac-131fc3d579c6.jpg?1562564625|https://scryfall.com/card/xln/243/primal-amulet-primal-wellspring?utm_source=api>`
    (Transforms from Primal Amulet.)
 
    |tap|: Add one mana of any color. When that mana is spent to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy.
 
 
-:mtgtip:`Prying Blade<https://img.scryfall.com/cards/border_crop/front/a/d/ad45720e-2870-414d-8119-8e48c5600d3b.jpg?1562562057|https://scryfall.com/card/xln/244/prying-blade?utm_source=api>`
+:mtgtip:`Prying Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad45720e-2870-414d-8119-8e48c5600d3b.jpg?1562562057|https://scryfall.com/card/xln/244/prying-blade?utm_source=api>`
    Equipped creature gets +1/+0.
 
    Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
@@ -1277,35 +1277,35 @@
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Sentinel Totem<https://img.scryfall.com/cards/border_crop/front/0/d/0d8097eb-518a-4b8e-8d6a-a139d4ddcc8f.jpg?1562550594|https://scryfall.com/card/xln/245/sentinel-totem?utm_source=api>`
+:mtgtip:`Sentinel Totem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d8097eb-518a-4b8e-8d6a-a139d4ddcc8f.jpg?1562550594|https://scryfall.com/card/xln/245/sentinel-totem?utm_source=api>`
    When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    |tap|, Exile Sentinel Totem: Exile all cards from all graveyards.
 
 
-:mtgtip:`Shadowed Caravel<https://img.scryfall.com/cards/border_crop/front/b/2/b28ab3ed-32cd-4168-9763-96884491aaa1.jpg?1562562453|https://scryfall.com/card/xln/246/shadowed-caravel?utm_source=api>`
+:mtgtip:`Shadowed Caravel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b28ab3ed-32cd-4168-9763-96884491aaa1.jpg?1562562453|https://scryfall.com/card/xln/246/shadowed-caravel?utm_source=api>`
    Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel.
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Sleek Schooner<https://img.scryfall.com/cards/border_crop/front/7/6/767e2bfb-bcf5-442c-b092-bdb1f4f13561.jpg?1562558283|https://scryfall.com/card/xln/247/sleek-schooner?utm_source=api>`
+:mtgtip:`Sleek Schooner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/767e2bfb-bcf5-442c-b092-bdb1f4f13561.jpg?1562558283|https://scryfall.com/card/xln/247/sleek-schooner?utm_source=api>`
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Sorcerous Spyglass<https://img.scryfall.com/cards/border_crop/front/8/5/85506a24-8d60-475c-9f43-65994caca7d4.jpg?1564096143|https://scryfall.com/card/xln/248/sorcerous-spyglass?utm_source=api>`
+:mtgtip:`Sorcerous Spyglass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85506a24-8d60-475c-9f43-65994caca7d4.jpg?1564096143|https://scryfall.com/card/xln/248/sorcerous-spyglass?utm_source=api>`
    As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
 
    Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
 
 
-:mtgtip:`Thaumatic Compass<https://img.scryfall.com/cards/border_crop/front/3/9/392af78e-34d5-4b1b-8b29-0e702271e4d7.jpg?1562553540|https://scryfall.com/card/xln/249/thaumatic-compass-spires-of-orazca?utm_source=api>`
+:mtgtip:`Thaumatic Compass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/392af78e-34d5-4b1b-8b29-0e702271e4d7.jpg?1562553540|https://scryfall.com/card/xln/249/thaumatic-compass-spires-of-orazca?utm_source=api>`
    |mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
    At the beginning of your end step, if you control seven or more lands, transform Thaumatic Compass.
 
 
-:mtgtip:`Spires of Orazca<https://img.scryfall.com/cards/border_crop/back/3/9/392af78e-34d5-4b1b-8b29-0e702271e4d7.jpg?1562553540|https://scryfall.com/card/xln/249/thaumatic-compass-spires-of-orazca?utm_source=api>`
+:mtgtip:`Spires of Orazca<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/9/392af78e-34d5-4b1b-8b29-0e702271e4d7.jpg?1562553540|https://scryfall.com/card/xln/249/thaumatic-compass-spires-of-orazca?utm_source=api>`
    (Transforms from Thaumatic Compass.)
 
    |tap|: Add |colorless|.
@@ -1313,11 +1313,11 @@
    |tap|: Untap target attacking creature an opponent controls and remove it from combat.
 
 
-:mtgtip:`Treasure Map<https://img.scryfall.com/cards/border_crop/front/c/0/c0f9c733-0818-4a03-8f0c-a163d09e0fff.jpg?1562563368|https://scryfall.com/card/xln/250/treasure-map-treasure-cove?utm_source=api>`
+:mtgtip:`Treasure Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0f9c733-0818-4a03-8f0c-a163d09e0fff.jpg?1562563368|https://scryfall.com/card/xln/250/treasure-map-treasure-cove?utm_source=api>`
    |mana_1|, |tap|: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Treasure Cove<https://img.scryfall.com/cards/border_crop/back/c/0/c0f9c733-0818-4a03-8f0c-a163d09e0fff.jpg?1562563368|https://scryfall.com/card/xln/250/treasure-map-treasure-cove?utm_source=api>`
+:mtgtip:`Treasure Cove<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/0/c0f9c733-0818-4a03-8f0c-a163d09e0fff.jpg?1562563368|https://scryfall.com/card/xln/250/treasure-map-treasure-cove?utm_source=api>`
    (Transforms from Treasure Map.)
 
    |tap|: Add |colorless|.
@@ -1325,7 +1325,7 @@
    |tap|, Sacrifice a Treasure: Draw a card.
 
 
-:mtgtip:`Vanquisher's Banner<https://img.scryfall.com/cards/border_crop/front/6/0/60b7a85f-3a30-4ece-9bbb-61f3c4b796b8.jpg?1562556353|https://scryfall.com/card/xln/251/vanquishers-banner?utm_source=api>`
+:mtgtip:`Vanquisher's Banner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60b7a85f-3a30-4ece-9bbb-61f3c4b796b8.jpg?1562556353|https://scryfall.com/card/xln/251/vanquishers-banner?utm_source=api>`
    As Vanquisher's Banner enters the battlefield, choose a creature type.
 
    Creatures you control of the chosen type get +1/+1.
@@ -1333,43 +1333,43 @@
    Whenever you cast a creature spell of the chosen type, draw a card.
 
 
-:mtgtip:`Dragonskull Summit<https://img.scryfall.com/cards/border_crop/front/9/1/91570836-9e36-4774-8d5d-7cbcee0012ba.jpg?1562559972|https://scryfall.com/card/xln/252/dragonskull-summit?utm_source=api>`
+:mtgtip:`Dragonskull Summit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91570836-9e36-4774-8d5d-7cbcee0012ba.jpg?1562559972|https://scryfall.com/card/xln/252/dragonskull-summit?utm_source=api>`
    Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
 
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Drowned Catacomb<https://img.scryfall.com/cards/border_crop/front/8/e/8ef728f1-5153-47d6-8f9c-dfd473ee0750.jpg?1562559858|https://scryfall.com/card/xln/253/drowned-catacomb?utm_source=api>`
+:mtgtip:`Drowned Catacomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8ef728f1-5153-47d6-8f9c-dfd473ee0750.jpg?1562559858|https://scryfall.com/card/xln/253/drowned-catacomb?utm_source=api>`
    Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
 
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Field of Ruin<https://img.scryfall.com/cards/border_crop/front/d/7/d72afb21-7bb0-4fd8-a529-ada92a654f61.jpg?1562564773|https://scryfall.com/card/xln/254/field-of-ruin?utm_source=api>`
+:mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d72afb21-7bb0-4fd8-a529-ada92a654f61.jpg?1562564773|https://scryfall.com/card/xln/254/field-of-ruin?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library.
 
 
-:mtgtip:`Glacial Fortress<https://img.scryfall.com/cards/border_crop/front/c/e/cef133d9-26d2-4a1e-8d6a-829f1067c169.jpg?1562564197|https://scryfall.com/card/xln/255/glacial-fortress?utm_source=api>`
+:mtgtip:`Glacial Fortress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cef133d9-26d2-4a1e-8d6a-829f1067c169.jpg?1562564197|https://scryfall.com/card/xln/255/glacial-fortress?utm_source=api>`
    Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
 
    |tap|: Add |mana_w| or |mana_u|.
 
 
-:mtgtip:`Rootbound Crag<https://img.scryfall.com/cards/border_crop/front/b/6/b6f59e19-9ac1-4f86-893e-5b3364122fc6.jpg?1562562757|https://scryfall.com/card/xln/256/rootbound-crag?utm_source=api>`
+:mtgtip:`Rootbound Crag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6f59e19-9ac1-4f86-893e-5b3364122fc6.jpg?1562562757|https://scryfall.com/card/xln/256/rootbound-crag?utm_source=api>`
    Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
 
    |tap|: Add |mana_r| or |mana_g|.
 
 
-:mtgtip:`Sunpetal Grove<https://img.scryfall.com/cards/border_crop/front/0/f/0f234312-00e8-49f7-a489-f4c316b0a81a.jpg?1562550765|https://scryfall.com/card/xln/257/sunpetal-grove?utm_source=api>`
+:mtgtip:`Sunpetal Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f234312-00e8-49f7-a489-f4c316b0a81a.jpg?1562550765|https://scryfall.com/card/xln/257/sunpetal-grove?utm_source=api>`
    Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
 
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Unclaimed Territory<https://img.scryfall.com/cards/border_crop/front/f/f/ff765732-6fe3-4594-bff5-6ce47a79f45a.jpg?1562567438|https://scryfall.com/card/xln/258/unclaimed-territory?utm_source=api>`
+:mtgtip:`Unclaimed Territory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff765732-6fe3-4594-bff5-6ce47a79f45a.jpg?1562567438|https://scryfall.com/card/xln/258/unclaimed-territory?utm_source=api>`
    As Unclaimed Territory enters the battlefield, choose a creature type.
 
    |tap|: Add |colorless|.
@@ -1377,33 +1377,33 @@
    |tap|: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.
 
 
-:mtgtip:`Unknown Shores<https://img.scryfall.com/cards/border_crop/front/5/1/517315dc-591f-4af4-a319-542ad9a2e4b8.jpg?1562555274|https://scryfall.com/card/xln/259/unknown-shores?utm_source=api>`
+:mtgtip:`Unknown Shores<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/517315dc-591f-4af4-a319-542ad9a2e4b8.jpg?1562555274|https://scryfall.com/card/xln/259/unknown-shores?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_1|, |tap|: Add one mana of any color.
 
 
-:mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/front/5/1/51ff6ee0-01f4-432f-916b-ed771904d64c.jpg?1562555352|https://scryfall.com/card/xln/260/plains?utm_source=api>`
+:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51ff6ee0-01f4-432f-916b-ed771904d64c.jpg?1562555352|https://scryfall.com/card/xln/260/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://img.scryfall.com/cards/border_crop/front/4/0/40c840af-9a13-4716-8458-09071239cc26.jpg?1562554098|https://scryfall.com/card/xln/264/island?utm_source=api>`
+:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40c840af-9a13-4716-8458-09071239cc26.jpg?1562554098|https://scryfall.com/card/xln/264/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/front/d/b/db69a637-5770-4eea-9b04-c00e6f90a12a.jpg?1562565109|https://scryfall.com/card/xln/268/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db69a637-5770-4eea-9b04-c00e6f90a12a.jpg?1562565109|https://scryfall.com/card/xln/268/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/1/5/15c96b83-d0b3-4da9-bb2d-249cc18b55e9.jpg?1562551157|https://scryfall.com/card/xln/272/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15c96b83-d0b3-4da9-bb2d-249cc18b55e9.jpg?1562551157|https://scryfall.com/card/xln/272/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/front/7/e/7eef5e5c-27be-45f2-a9c8-4e0a65c984d4.jpg?1562558876|https://scryfall.com/card/xln/276/forest?utm_source=api>`
+:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eef5e5c-27be-45f2-a9c8-4e0a65c984d4.jpg?1562558876|https://scryfall.com/card/xln/276/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Jace, Ingenious Mind-Mage<https://img.scryfall.com/cards/border_crop/front/e/3/e3b274f6-833f-430f-ac1a-d1d1d5b03e71.jpg?1562565659|https://scryfall.com/card/xln/280/jace-ingenious-mind-mage?utm_source=api>`
+:mtgtip:`Jace, Ingenious Mind-Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3b274f6-833f-430f-ac1a-d1d1d5b03e71.jpg?1562565659|https://scryfall.com/card/xln/280/jace-ingenious-mind-mage?utm_source=api>`
    +1: Draw a card.
 
    +1: Untap all creatures you control.
@@ -1411,7 +1411,7 @@
    −9: Gain control of up to three target creatures.
 
 
-:mtgtip:`Castaway's Despair<https://img.scryfall.com/cards/border_crop/front/b/3/b3a26ba9-84b8-4f54-918c-f75d4cacad0b.jpg?1562562534|https://scryfall.com/card/xln/281/castaways-despair?utm_source=api>`
+:mtgtip:`Castaway's Despair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3a26ba9-84b8-4f54-918c-f75d4cacad0b.jpg?1562562534|https://scryfall.com/card/xln/281/castaways-despair?utm_source=api>`
    Enchant creature
 
    When Castaway's Despair enters the battlefield, tap enchanted creature.
@@ -1419,23 +1419,23 @@
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Grasping Current<https://img.scryfall.com/cards/border_crop/front/e/7/e7344ffb-aada-4be1-bc82-2ed96e6cb5bf.jpg?1562565841|https://scryfall.com/card/xln/282/grasping-current?utm_source=api>`
+:mtgtip:`Grasping Current<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7344ffb-aada-4be1-bc82-2ed96e6cb5bf.jpg?1562565841|https://scryfall.com/card/xln/282/grasping-current?utm_source=api>`
    Return up to two target creatures to their owner's hand.
 
    Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle it.
 
 
-:mtgtip:`Jace's Sentinel<https://img.scryfall.com/cards/border_crop/front/9/1/9131361b-ec1e-4390-82c9-b9b9f77792a8.jpg?1562559963|https://scryfall.com/card/xln/283/jaces-sentinel?utm_source=api>`
+:mtgtip:`Jace's Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/9131361b-ec1e-4390-82c9-b9b9f77792a8.jpg?1562559963|https://scryfall.com/card/xln/283/jaces-sentinel?utm_source=api>`
    As long as you control a Jace planeswalker, Jace's Sentinel gets +1/+0 and can't be blocked.
 
 
-:mtgtip:`Woodland Stream<https://img.scryfall.com/cards/border_crop/front/7/4/740bb19c-0c91-4fc1-9b3c-be84425a3523.jpg?1562558089|https://scryfall.com/card/xln/284/woodland-stream?utm_source=api>`
+:mtgtip:`Woodland Stream<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/740bb19c-0c91-4fc1-9b3c-be84425a3523.jpg?1562558089|https://scryfall.com/card/xln/284/woodland-stream?utm_source=api>`
    Woodland Stream enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_u|.
 
 
-:mtgtip:`Huatli, Dinosaur Knight<https://img.scryfall.com/cards/border_crop/front/6/a/6a5a6f7b-149d-46d3-9814-d38a302db17c.jpg?1562556991|https://scryfall.com/card/xln/285/huatli-dinosaur-knight?utm_source=api>`
+:mtgtip:`Huatli, Dinosaur Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a5a6f7b-149d-46d3-9814-d38a302db17c.jpg?1562556991|https://scryfall.com/card/xln/285/huatli-dinosaur-knight?utm_source=api>`
    +2: Put two +1/+1 counters on up to one target Dinosaur you control.
 
    −3: Target Dinosaur you control deals damage equal to its power to target creature you don't control.
@@ -1443,19 +1443,19 @@
    −7: Dinosaurs you control get +4/+4 until end of turn.
 
 
-:mtgtip:`Huatli's Snubhorn<https://img.scryfall.com/cards/border_crop/front/e/2/e2d88e6c-4aa8-4175-9f5d-a4c0182cdf74.jpg?1562565551|https://scryfall.com/card/xln/286/huatlis-snubhorn?utm_source=api>`
+:mtgtip:`Huatli's Snubhorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2d88e6c-4aa8-4175-9f5d-a4c0182cdf74.jpg?1562565551|https://scryfall.com/card/xln/286/huatlis-snubhorn?utm_source=api>`
    Vigilance (Attacking doesn't cause this creature to tap.)
 
 
-:mtgtip:`Huatli's Spurring<https://img.scryfall.com/cards/border_crop/front/a/1/a19440e2-855f-4f60-a443-b99500394611.jpg?1562561243|https://scryfall.com/card/xln/287/huatlis-spurring?utm_source=api>`
+:mtgtip:`Huatli's Spurring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a19440e2-855f-4f60-a443-b99500394611.jpg?1562561243|https://scryfall.com/card/xln/287/huatlis-spurring?utm_source=api>`
    Target creature gets +2/+0 until end of turn. If you control a Huatli planeswalker, that creature gets +4/+0 until end of turn instead.
 
 
-:mtgtip:`Sun-Blessed Mount<https://img.scryfall.com/cards/border_crop/front/6/f/6f06ac1f-0bae-4aaa-9ff4-28c806828c40.jpg?1562557291|https://scryfall.com/card/xln/288/sun-blessed-mount?utm_source=api>`
+:mtgtip:`Sun-Blessed Mount<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f06ac1f-0bae-4aaa-9ff4-28c806828c40.jpg?1562557291|https://scryfall.com/card/xln/288/sun-blessed-mount?utm_source=api>`
    When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle it.
 
 
-:mtgtip:`Stone Quarry<https://img.scryfall.com/cards/border_crop/front/0/6/06da82de-fd37-4c8f-a37d-61da66db567e.jpg?1562550143|https://scryfall.com/card/xln/289/stone-quarry?utm_source=api>`
+:mtgtip:`Stone Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06da82de-fd37-4c8f-a37d-61da66db567e.jpg?1562550143|https://scryfall.com/card/xln/289/stone-quarry?utm_source=api>`
    Stone Quarry enters the battlefield tapped.
 
    |tap|: Add |mana_r| or |mana_w|.

@@ -835,7 +835,7 @@
    Search your library for a land card, put that card onto the battlefield, then shuffle your library.
 
 
-:mtgtip:`Crushing Vines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fa22a85-1c92-48f3-921a-867a73a6bbf7.jpg?1599707112|https://scryfall.com/card/2xm/162/crushing-vines?utm_source=api>`
+:mtgtip:`Crushing Vines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fa22a85-1c92-48f3-921a-867a73a6bbf7.jpg?1613437203|https://scryfall.com/card/2xm/162/crushing-vines?utm_source=api>`
    Choose one —
 
    • Destroy target creature with flying.

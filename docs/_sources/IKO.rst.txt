@@ -1291,7 +1291,7 @@
    When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with converted mana cost 3 or greater.
 
 
-:mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1591228429|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
+:mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1613387006|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
    Companion — Each permanent card in your starting deck has converted mana cost 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Lifelink
