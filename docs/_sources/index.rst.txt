@@ -169,9 +169,10 @@ Kwestie prawne
 
 * Niniejszy serwis działa zgodnie z zasadami zawartymi w dokumencie
   `Wizards of the Coast's Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_.
+* Część materiałów w tym serwisie jest własnością Wizards of the Coast. ©Wizards of the Coast LLC.
 * Zawartość niniejszego serwisu NIE JEST zatwierdzona lub sponsorowana przez Wizards of the Coast LLC.
 * Tłumaczenia zawarte w tym serwisie (CC) copyleft Dominik Kozaczko. Some rights reversed.
-* Licencja tłumaczeń: `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl>`_ (licencja ta nie dotyczy Wizards of the Coast LLC.)
+* Licencja tłumaczeń: `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl>`_
 
 Legal notice
 ------------
