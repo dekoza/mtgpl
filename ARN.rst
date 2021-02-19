@@ -5,25 +5,25 @@
 =============================
 
 
-:mtgtip:`Abu Ja'far<https://img.scryfall.com/cards/border_crop/front/0/e/0e9ad288-d164-44a6-96ec-4185a1587f1a.jpg?1562897827|https://scryfall.com/card/arn/1/abu-jafar?utm_source=api>`
+:mtgtip:`Abu Ja'far<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e9ad288-d164-44a6-96ec-4185a1587f1a.jpg?1562897827|https://scryfall.com/card/arn/1/abu-jafar?utm_source=api>`
    When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.
 
 
-:mtgtip:`Army of Allah<https://img.scryfall.com/cards/border_crop/front/3/d/3d170015-b125-49a6-a15e-8fd116bbcb14.jpg?1562906251|https://scryfall.com/card/arn/2/army-of-allah?utm_source=api>`
+:mtgtip:`Army of Allah<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d170015-b125-49a6-a15e-8fd116bbcb14.jpg?1562906251|https://scryfall.com/card/arn/2/army-of-allah?utm_source=api>`
    Attacking creatures get +2/+0 until end of turn.
 
 
-:mtgtip:`Camel<https://img.scryfall.com/cards/border_crop/front/e/0/e0078aa8-bfb8-43b0-a6b7-1991596c21e1.jpg?1562936810|https://scryfall.com/card/arn/3/camel?utm_source=api>`
+:mtgtip:`Camel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0078aa8-bfb8-43b0-a6b7-1991596c21e1.jpg?1562936810|https://scryfall.com/card/arn/3/camel?utm_source=api>`
    Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
 
    As long as Camel is attacking, prevent all damage Deserts would deal to Camel and to creatures banded with Camel.
 
 
-:mtgtip:`Eye for an Eye<https://img.scryfall.com/cards/border_crop/front/2/9/2933ca2a-097b-44f4-ae56-ad524d26fd06.jpg?1562902609|https://scryfall.com/card/arn/4/eye-for-an-eye?utm_source=api>`
+:mtgtip:`Eye for an Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/2933ca2a-097b-44f4-ae56-ad524d26fd06.jpg?1562902609|https://scryfall.com/card/arn/4/eye-for-an-eye?utm_source=api>`
    The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.
 
 
-:mtgtip:`Jihad<https://img.scryfall.com/cards/border_crop/front/b/6/b6c7705a-2987-4ef1-92b1-2c55d989ec6f.jpg?1562929014|https://scryfall.com/card/arn/5/jihad?utm_source=api>`
+:mtgtip:`Jihad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6c7705a-2987-4ef1-92b1-2c55d989ec6f.jpg?1591989175|https://scryfall.com/card/arn/5/jihad?utm_source=api>`
    As Jihad enters the battlefield, choose a color and an opponent.
 
    White creatures get +2/+1 as long as the chosen player controls a nontoken permanent of the chosen color.
@@ -31,51 +31,51 @@
    When the chosen player controls no nontoken permanents of the chosen color, sacrifice Jihad.
 
 
-:mtgtip:`King Suleiman<https://img.scryfall.com/cards/border_crop/front/4/d/4d3dce0f-2168-4f63-b2f9-156a11beeea7.jpg?1562909141|https://scryfall.com/card/arn/6/king-suleiman?utm_source=api>`
+:mtgtip:`King Suleiman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d3dce0f-2168-4f63-b2f9-156a11beeea7.jpg?1592364322|https://scryfall.com/card/arn/6/king-suleiman?utm_source=api>`
    |tap|: Destroy target Djinn or Efreet.
 
 
-:mtgtip:`Moorish Cavalry<https://img.scryfall.com/cards/border_crop/front/f/8/f86f0781-7614-4779-a58d-f13ce96bdf33.jpg?1562941680|https://scryfall.com/card/arn/7/moorish-cavalry?utm_source=api>`
+:mtgtip:`Moorish Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f86f0781-7614-4779-a58d-f13ce96bdf33.jpg?1562941680|https://scryfall.com/card/arn/7/moorish-cavalry?utm_source=api>`
    Trample
 
 
-:mtgtip:`Piety<https://img.scryfall.com/cards/border_crop/front/f/6/f649c571-d7ec-4ebc-9e18-b0657cab495b.jpg?1562941252|https://scryfall.com/card/arn/8/piety?utm_source=api>`
+:mtgtip:`Piety<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f649c571-d7ec-4ebc-9e18-b0657cab495b.jpg?1562941252|https://scryfall.com/card/arn/8/piety?utm_source=api>`
    Blocking creatures get +0/+3 until end of turn.
 
 
-:mtgtip:`Repentant Blacksmith<https://img.scryfall.com/cards/border_crop/front/6/1/61fc30b6-1355-425b-a86f-18f59f83141c.jpg?1562913111|https://scryfall.com/card/arn/9/repentant-blacksmith?utm_source=api>`
+:mtgtip:`Repentant Blacksmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61fc30b6-1355-425b-a86f-18f59f83141c.jpg?1562913111|https://scryfall.com/card/arn/9/repentant-blacksmith?utm_source=api>`
    Protection from red
 
 
-:mtgtip:`Shahrazad<https://img.scryfall.com/cards/border_crop/front/0/0/0014def3-4063-4929-ac51-76aef1bb2a68.jpg?1562895012|https://scryfall.com/card/arn/10/shahrazad?utm_source=api>`
+:mtgtip:`Shahrazad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0014def3-4063-4929-ac51-76aef1bb2a68.jpg?1562895012|https://scryfall.com/card/arn/10/shahrazad?utm_source=api>`
    Players play a Magic subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half their life, rounded up.
 
 
-:mtgtip:`War Elephant<https://img.scryfall.com/cards/border_crop/front/7/4/7416c366-95cc-4799-b6c6-34d8fad8c202.jpg?1562916537|https://scryfall.com/card/arn/11/war-elephant?utm_source=api>`
+:mtgtip:`War Elephant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7416c366-95cc-4799-b6c6-34d8fad8c202.jpg?1562916537|https://scryfall.com/card/arn/11/war-elephant?utm_source=api>`
    Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
 
 
-:mtgtip:`Dandân<https://img.scryfall.com/cards/border_crop/front/4/1/414d3cae-b8cf-4d53-bd6b-1aa83a828ba9.jpg?1562906979|https://scryfall.com/card/arn/12/dand%C3%A2n?utm_source=api>`
+:mtgtip:`Dandân<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/414d3cae-b8cf-4d53-bd6b-1aa83a828ba9.jpg?1562906979|https://scryfall.com/card/arn/12/dand%C3%A2n?utm_source=api>`
    Dandân can't attack unless defending player controls an Island.
 
    When you control no Islands, sacrifice Dandân.
 
 
-:mtgtip:`Fishliver Oil<https://img.scryfall.com/cards/border_crop/front/d/e/deb6ed87-aa07-4b5e-ac40-1e16dc2a817a.jpg?1562936572|https://scryfall.com/card/arn/13/fishliver-oil?utm_source=api>`
+:mtgtip:`Fishliver Oil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/deb6ed87-aa07-4b5e-ac40-1e16dc2a817a.jpg?1562936572|https://scryfall.com/card/arn/13/fishliver-oil?utm_source=api>`
    Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 
    Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)
 
 
-:mtgtip:`Flying Men<https://img.scryfall.com/cards/border_crop/front/2/5/25ab9a2b-e248-4ae2-aac3-b49fdb3e260a.jpg?1562902022|https://scryfall.com/card/arn/14/flying-men?utm_source=api>`
+:mtgtip:`Flying Men<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25ab9a2b-e248-4ae2-aac3-b49fdb3e260a.jpg?1562902022|https://scryfall.com/card/arn/14/flying-men?utm_source=api>`
    Flying
 
 
-:mtgtip:`Giant Tortoise<https://img.scryfall.com/cards/border_crop/front/0/9/096f7ac8-c639-4347-9767-7305eaf490ba.jpg?1562896822|https://scryfall.com/card/arn/15/giant-tortoise?utm_source=api>`
+:mtgtip:`Giant Tortoise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/096f7ac8-c639-4347-9767-7305eaf490ba.jpg?1562896822|https://scryfall.com/card/arn/15/giant-tortoise?utm_source=api>`
    Giant Tortoise gets +0/+3 as long as it's untapped.
 
 
-:mtgtip:`Island Fish Jasconius<https://img.scryfall.com/cards/border_crop/front/8/5/8537cb0f-4821-417b-80cc-ea57d51ee9b8.jpg?1562919710|https://scryfall.com/card/arn/16/island-fish-jasconius?utm_source=api>`
+:mtgtip:`Island Fish Jasconius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8537cb0f-4821-417b-80cc-ea57d51ee9b8.jpg?1562919710|https://scryfall.com/card/arn/16/island-fish-jasconius?utm_source=api>`
    Island Fish Jasconius doesn't untap during your untap step.
 
    At the beginning of your upkeep, you may pay |mana_u|\ |mana_u|\ |mana_u|. If you do, untap Island Fish Jasconius.
@@ -85,7 +85,7 @@
    When you control no Islands, sacrifice Island Fish Jasconius.
 
 
-:mtgtip:`Merchant Ship<https://img.scryfall.com/cards/border_crop/front/2/b/2b827094-fb2c-46db-b898-02e0c308601f.jpg?1562903045|https://scryfall.com/card/arn/17/merchant-ship?utm_source=api>`
+:mtgtip:`Merchant Ship<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b827094-fb2c-46db-b898-02e0c308601f.jpg?1562903045|https://scryfall.com/card/arn/17/merchant-ship?utm_source=api>`
    Merchant Ship can't attack unless defending player controls an Island.
 
    Whenever Merchant Ship attacks and isn't blocked, you gain 2 life.
@@ -93,13 +93,13 @@
    When you control no Islands, sacrifice Merchant Ship.
 
 
-:mtgtip:`Old Man of the Sea<https://img.scryfall.com/cards/border_crop/front/d/1/d10f8a05-78b0-42a7-adcd-83f6bafe5417.jpg?1562934067|https://scryfall.com/card/arn/18/old-man-of-the-sea?utm_source=api>`
+:mtgtip:`Old Man of the Sea<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d10f8a05-78b0-42a7-adcd-83f6bafe5417.jpg?1562934067|https://scryfall.com/card/arn/18/old-man-of-the-sea?utm_source=api>`
    You may choose not to untap Old Man of the Sea during your untap step.
 
    |tap|: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.
 
 
-:mtgtip:`Serendib Djinn<https://img.scryfall.com/cards/border_crop/front/0/4/0458b733-d689-4cb5-8970-3b675c67fc4d.jpg?1562895874|https://scryfall.com/card/arn/19/serendib-djinn?utm_source=api>`
+:mtgtip:`Serendib Djinn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0458b733-d689-4cb5-8970-3b675c67fc4d.jpg?1562895874|https://scryfall.com/card/arn/19/serendib-djinn?utm_source=api>`
    Flying
 
    At the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you.
@@ -107,17 +107,17 @@
    When you control no lands, sacrifice Serendib Djinn.
 
 
-:mtgtip:`Serendib Efreet<https://img.scryfall.com/cards/border_crop/front/c/f/cf56e862-3169-4f63-acd0-731080fa32f2.jpg?1562933763|https://scryfall.com/card/arn/20/serendib-efreet?utm_source=api>`
+:mtgtip:`Serendib Efreet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf56e862-3169-4f63-acd0-731080fa32f2.jpg?1562933763|https://scryfall.com/card/arn/20/serendib-efreet?utm_source=api>`
    Flying
 
    At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.
 
 
-:mtgtip:`Sindbad<https://img.scryfall.com/cards/border_crop/front/7/b/7b112a10-ac40-4353-bbdd-e5efd4546330.jpg?1562917732|https://scryfall.com/card/arn/21/sindbad?utm_source=api>`
+:mtgtip:`Sindbad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b112a10-ac40-4353-bbdd-e5efd4546330.jpg?1562917732|https://scryfall.com/card/arn/21/sindbad?utm_source=api>`
    |tap|: Draw a card and reveal it. If it isn't a land card, discard it.
 
 
-:mtgtip:`Unstable Mutation<https://img.scryfall.com/cards/border_crop/front/a/7/a79e9236-a39e-471a-b18a-2c2ba16e7774.jpg?1562926311|https://scryfall.com/card/arn/22/unstable-mutation?utm_source=api>`
+:mtgtip:`Unstable Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a79e9236-a39e-471a-b18a-2c2ba16e7774.jpg?1562926311|https://scryfall.com/card/arn/22/unstable-mutation?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +3/+3.
@@ -125,203 +125,201 @@
    At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.
 
 
-:mtgtip:`Cuombajj Witches<https://img.scryfall.com/cards/border_crop/front/7/9/7995c3f9-a147-43c9-9f82-470924818a4c.jpg?1562917470|https://scryfall.com/card/arn/23/cuombajj-witches?utm_source=api>`
+:mtgtip:`Cuombajj Witches<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/7995c3f9-a147-43c9-9f82-470924818a4c.jpg?1562917470|https://scryfall.com/card/arn/23/cuombajj-witches?utm_source=api>`
    |tap|: Cuombajj Witches deals 1 damage to any target and 1 damage to any target of an opponent's choice.
 
 
-:mtgtip:`El-Hajjâj<https://img.scryfall.com/cards/border_crop/front/c/4/c4b610d3-2005-4347-bcda-c30b5b7972e5.jpg?1562931818|https://scryfall.com/card/arn/24/el-hajj%C3%A2j?utm_source=api>`
+:mtgtip:`El-Hajjâj<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4b610d3-2005-4347-bcda-c30b5b7972e5.jpg?1562931818|https://scryfall.com/card/arn/24/el-hajj%C3%A2j?utm_source=api>`
    Whenever El-Hajjâj deals damage, you gain that much life.
 
 
-:mtgtip:`Erg Raiders<https://img.scryfall.com/cards/border_crop/front/3/5/35c73a97-531d-4dd5-8236-39b89c183c38.jpg?1562904951|https://scryfall.com/card/arn/25/erg-raiders?utm_source=api>`
+:mtgtip:`Erg Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35c73a97-531d-4dd5-8236-39b89c183c38.jpg?1562904951|https://scryfall.com/card/arn/25/erg-raiders?utm_source=api>`
    At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
 
 
-:mtgtip:`Guardian Beast<https://img.scryfall.com/cards/border_crop/front/9/9/9941f83b-2903-4eab-ac6d-5313e3978fa3.jpg?1562923479|https://scryfall.com/card/arn/26/guardian-beast?utm_source=api>`
+:mtgtip:`Guardian Beast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9941f83b-2903-4eab-ac6d-5313e3978fa3.jpg?1562923479|https://scryfall.com/card/arn/26/guardian-beast?utm_source=api>`
    As long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they have indestructible, and other players can't gain control of them. This effect doesn't remove Auras already attached to those artifacts.
 
 
-:mtgtip:`Hasran Ogress<https://img.scryfall.com/cards/border_crop/front/9/f/9f310cf5-0985-4826-9779-19a713089d6d.jpg?1562924693|https://scryfall.com/card/arn/27/hasran-ogress?utm_source=api>`
+:mtgtip:`Hasran Ogress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f310cf5-0985-4826-9779-19a713089d6d.jpg?1562924693|https://scryfall.com/card/arn/27/hasran-ogress?utm_source=api>`
    Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay |mana_2|.
 
 
-:mtgtip:`Junún Efreet<https://img.scryfall.com/cards/border_crop/front/5/f/5f46783a-b91e-4829-a173-5515b09ca615.jpg?1562912566|https://scryfall.com/card/arn/28/jun%C3%BAn-efreet?utm_source=api>`
+:mtgtip:`Junún Efreet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f46783a-b91e-4829-a173-5515b09ca615.jpg?1562912566|https://scryfall.com/card/arn/28/jun%C3%BAn-efreet?utm_source=api>`
    Flying
 
    At the beginning of your upkeep, sacrifice Junún Efreet unless you pay |mana_b|\ |mana_b|.
 
 
-:mtgtip:`Juzám Djinn<https://img.scryfall.com/cards/border_crop/front/3/1/31bf3f14-b5df-498b-a1bb-965885c82401.jpg?1562904228|https://scryfall.com/card/arn/29/juz%C3%A1m-djinn?utm_source=api>`
+:mtgtip:`Juzám Djinn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31bf3f14-b5df-498b-a1bb-965885c82401.jpg?1562904228|https://scryfall.com/card/arn/29/juz%C3%A1m-djinn?utm_source=api>`
    At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.
 
 
-:mtgtip:`Khabál Ghoul<https://img.scryfall.com/cards/border_crop/front/1/8/18607bf6-ce11-41cb-b001-0c9538406ba0.jpg?1562899601|https://scryfall.com/card/arn/30/khab%C3%A1l-ghoul?utm_source=api>`
+:mtgtip:`Khabál Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18607bf6-ce11-41cb-b001-0c9538406ba0.jpg?1562899601|https://scryfall.com/card/arn/30/khab%C3%A1l-ghoul?utm_source=api>`
    At the beginning of each end step, put a +1/+1 counter on Khabál Ghoul for each creature that died this turn.
 
 
-:mtgtip:`Oubliette<https://img.scryfall.com/cards/border_crop/front/3/0/30d1450f-2909-410e-9920-731278fa74de.jpg?1562904037|https://scryfall.com/card/arn/31/oubliette?utm_source=api>`
-   When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.
-
-   When Oubliette leaves the battlefield, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.
+:mtgtip:`Oubliette<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30d1450f-2909-410e-9920-731278fa74de.jpg?1562904037|https://scryfall.com/card/arn/31/oubliette?utm_source=api>`
+   When Oubliette enters the battlefield, target creature phases out until Oubliette leaves the battlefield. Tap that creature as it phases in this way. (Auras and Equipment phase out with it. While permanents are phased out, they're treated as though they don't exist.)
 
 
-:mtgtip:`Sorceress Queen<https://img.scryfall.com/cards/border_crop/front/9/4/94742003-f0f1-4483-b1a0-e7163995db1b.jpg?1562922545|https://scryfall.com/card/arn/32/sorceress-queen?utm_source=api>`
+:mtgtip:`Sorceress Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94742003-f0f1-4483-b1a0-e7163995db1b.jpg?1562922545|https://scryfall.com/card/arn/32/sorceress-queen?utm_source=api>`
    |tap|: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.
 
 
-:mtgtip:`Stone-Throwing Devils<https://img.scryfall.com/cards/border_crop/front/d/1/d1c387dd-1347-4443-91ce-b71f7ccdceba.jpg?1562934174|https://scryfall.com/card/arn/33/stone-throwing-devils?utm_source=api>`
+:mtgtip:`Stone-Throwing Devils<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1c387dd-1347-4443-91ce-b71f7ccdceba.jpg?1591989129|https://scryfall.com/card/arn/33/stone-throwing-devils?utm_source=api>`
    First strike
 
 
-:mtgtip:`Aladdin<https://img.scryfall.com/cards/border_crop/front/d/b/db52bad2-a3ec-4f6f-9418-12e8c40703f6.jpg?1562935954|https://scryfall.com/card/arn/34/aladdin?utm_source=api>`
+:mtgtip:`Aladdin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db52bad2-a3ec-4f6f-9418-12e8c40703f6.jpg?1562935954|https://scryfall.com/card/arn/34/aladdin?utm_source=api>`
    |mana_1|\ |mana_r|\ |mana_r|, |tap|: Gain control of target artifact for as long as you control Aladdin.
 
 
-:mtgtip:`Ali Baba<https://img.scryfall.com/cards/border_crop/front/2/9/29cd7064-3703-43e0-8702-d1ba13703fd8.jpg?1562902720|https://scryfall.com/card/arn/35/ali-baba?utm_source=api>`
+:mtgtip:`Ali Baba<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29cd7064-3703-43e0-8702-d1ba13703fd8.jpg?1562902720|https://scryfall.com/card/arn/35/ali-baba?utm_source=api>`
    |mana_r|: Tap target Wall.
 
 
-:mtgtip:`Ali from Cairo<https://img.scryfall.com/cards/border_crop/front/4/2/42027613-d261-4ce2-8ba1-7a2480c660f8.jpg?1562907105|https://scryfall.com/card/arn/36/ali-from-cairo?utm_source=api>`
+:mtgtip:`Ali from Cairo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42027613-d261-4ce2-8ba1-7a2480c660f8.jpg?1562907105|https://scryfall.com/card/arn/36/ali-from-cairo?utm_source=api>`
    Damage that would reduce your life total to less than 1 reduces it to 1 instead.
 
 
-:mtgtip:`Bird Maiden<https://img.scryfall.com/cards/border_crop/front/5/c/5c1ba0b9-db01-447f-90cc-a2fc2c24146e.jpg?1562912017|https://scryfall.com/card/arn/37/bird-maiden?utm_source=api>`
+:mtgtip:`Bird Maiden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c1ba0b9-db01-447f-90cc-a2fc2c24146e.jpg?1562912017|https://scryfall.com/card/arn/37/bird-maiden?utm_source=api>`
    Flying
 
 
-:mtgtip:`Desert Nomads<https://img.scryfall.com/cards/border_crop/front/e/4/e46d0c10-ec09-48ba-9e93-1392dca8111a.jpg?1562937684|https://scryfall.com/card/arn/38/desert-nomads?utm_source=api>`
+:mtgtip:`Desert Nomads<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e46d0c10-ec09-48ba-9e93-1392dca8111a.jpg?1562937684|https://scryfall.com/card/arn/38/desert-nomads?utm_source=api>`
    Desertwalk
 
    Prevent all damage that would be dealt to Desert Nomads by Deserts.
 
 
-:mtgtip:`Hurr Jackal<https://img.scryfall.com/cards/border_crop/front/f/4/f4aadda8-8577-480d-8186-532d2b173c15.jpg?1562940974|https://scryfall.com/card/arn/39/hurr-jackal?utm_source=api>`
+:mtgtip:`Hurr Jackal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4aadda8-8577-480d-8186-532d2b173c15.jpg?1562940974|https://scryfall.com/card/arn/39/hurr-jackal?utm_source=api>`
    |tap|: Target creature can't be regenerated this turn.
 
 
-:mtgtip:`Kird Ape<https://img.scryfall.com/cards/border_crop/front/e/b/ebe8845e-df1c-481c-949c-aab84af99a05.jpg?1562939239|https://scryfall.com/card/arn/40/kird-ape?utm_source=api>`
+:mtgtip:`Kird Ape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebe8845e-df1c-481c-949c-aab84af99a05.jpg?1562939239|https://scryfall.com/card/arn/40/kird-ape?utm_source=api>`
    Kird Ape gets +1/+2 as long as you control a Forest.
 
 
-:mtgtip:`Magnetic Mountain<https://img.scryfall.com/cards/border_crop/front/9/5/95fde48b-e40a-4183-b324-1ec276dde015.jpg?1562922858|https://scryfall.com/card/arn/41/magnetic-mountain?utm_source=api>`
+:mtgtip:`Magnetic Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95fde48b-e40a-4183-b324-1ec276dde015.jpg?1562922858|https://scryfall.com/card/arn/41/magnetic-mountain?utm_source=api>`
    Blue creatures don't untap during their controllers' untap steps.
 
    At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures they control and pay |mana_4| for each creature chosen this way. If the player does, untap those creatures.
 
 
-:mtgtip:`Mijae Djinn<https://img.scryfall.com/cards/border_crop/front/d/3/d3ddbe51-cd1a-4b2c-849a-7c82d622122a.jpg?1562934600|https://scryfall.com/card/arn/42/mijae-djinn?utm_source=api>`
+:mtgtip:`Mijae Djinn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3ddbe51-cd1a-4b2c-849a-7c82d622122a.jpg?1562934600|https://scryfall.com/card/arn/42/mijae-djinn?utm_source=api>`
    Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
 
 
-:mtgtip:`Rukh Egg<https://img.scryfall.com/cards/border_crop/front/b/2/b28f9e63-e5e4-44b5-a17e-8301ff17c623.jpg?1562928213|https://scryfall.com/card/arn/43/rukh-egg?utm_source=api>`
+:mtgtip:`Rukh Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b28f9e63-e5e4-44b5-a17e-8301ff17c623.jpg?1562928213|https://scryfall.com/card/arn/43/rukh-egg?utm_source=api>`
    When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.
 
 
-:mtgtip:`Ydwen Efreet<https://img.scryfall.com/cards/border_crop/front/e/f/efdba2a9-d171-45ed-8dd4-9d0046128f68.jpg?1562940066|https://scryfall.com/card/arn/44/ydwen-efreet?utm_source=api>`
+:mtgtip:`Ydwen Efreet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efdba2a9-d171-45ed-8dd4-9d0046128f68.jpg?1562940066|https://scryfall.com/card/arn/44/ydwen-efreet?utm_source=api>`
    Whenever Ydwen Efreet blocks, flip a coin. If you lose the flip, remove Ydwen Efreet from combat and it can't block this turn. Creatures it was blocking that had become blocked by only Ydwen Efreet this combat become unblocked.
 
 
-:mtgtip:`Cyclone<https://img.scryfall.com/cards/border_crop/front/f/1/f11684d6-5b74-47a7-a2d0-256c9e437aa6.jpg?1562940349|https://scryfall.com/card/arn/45/cyclone?utm_source=api>`
+:mtgtip:`Cyclone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f11684d6-5b74-47a7-a2d0-256c9e437aa6.jpg?1562940349|https://scryfall.com/card/arn/45/cyclone?utm_source=api>`
    At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay |mana_g| for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.
 
 
-:mtgtip:`Desert Twister<https://img.scryfall.com/cards/border_crop/front/0/d/0d77c149-cca2-45c7-bc83-5ba1872ad5e0.jpg?1562897613|https://scryfall.com/card/arn/46/desert-twister?utm_source=api>`
+:mtgtip:`Desert Twister<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d77c149-cca2-45c7-bc83-5ba1872ad5e0.jpg?1562897613|https://scryfall.com/card/arn/46/desert-twister?utm_source=api>`
    Destroy target permanent.
 
 
-:mtgtip:`Drop of Honey<https://img.scryfall.com/cards/border_crop/front/2/6/26e090d4-e7fe-403c-9aca-05c1b45ed238.jpg?1562902230|https://scryfall.com/card/arn/47/drop-of-honey?utm_source=api>`
+:mtgtip:`Drop of Honey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26e090d4-e7fe-403c-9aca-05c1b45ed238.jpg?1562902230|https://scryfall.com/card/arn/47/drop-of-honey?utm_source=api>`
    At the beginning of your upkeep, destroy the creature with the least power. It can't be regenerated. If two or more creatures are tied for least power, you choose one of them.
 
    When there are no creatures on the battlefield, sacrifice Drop of Honey.
 
 
-:mtgtip:`Erhnam Djinn<https://img.scryfall.com/cards/border_crop/front/4/2/42bc0c3f-0a52-4bdc-83da-6484bf3102f3.jpg?1562907201|https://scryfall.com/card/arn/48/erhnam-djinn?utm_source=api>`
+:mtgtip:`Erhnam Djinn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42bc0c3f-0a52-4bdc-83da-6484bf3102f3.jpg?1562907201|https://scryfall.com/card/arn/48/erhnam-djinn?utm_source=api>`
    At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)
 
 
-:mtgtip:`Ghazbán Ogre<https://img.scryfall.com/cards/border_crop/front/f/9/f9d613d5-36a2-4633-b5af-64511bb29cc2.jpg?1562941972|https://scryfall.com/card/arn/49/ghazb%C3%A1n-ogre?utm_source=api>`
+:mtgtip:`Ghazbán Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9d613d5-36a2-4633-b5af-64511bb29cc2.jpg?1562941972|https://scryfall.com/card/arn/49/ghazb%C3%A1n-ogre?utm_source=api>`
    At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.
 
 
-:mtgtip:`Ifh-Bíff Efreet<https://img.scryfall.com/cards/border_crop/front/c/0/c0b10fb7-8667-42bf-aeb6-35767a82917b.jpg?1562930986|https://scryfall.com/card/arn/50/ifh-b%C3%ADff-efreet?utm_source=api>`
+:mtgtip:`Ifh-Bíff Efreet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0b10fb7-8667-42bf-aeb6-35767a82917b.jpg?1562930986|https://scryfall.com/card/arn/50/ifh-b%C3%ADff-efreet?utm_source=api>`
    Flying
 
    |mana_g|: Ifh-Bíff Efreet deals 1 damage to each creature with flying and each player. Any player may activate this ability.
 
 
-:mtgtip:`Metamorphosis<https://img.scryfall.com/cards/border_crop/front/f/b/fbc6cfc3-b232-40bf-bc0c-4618f6f5c9a5.jpg?1562942451|https://scryfall.com/card/arn/51/metamorphosis?utm_source=api>`
+:mtgtip:`Metamorphosis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fbc6cfc3-b232-40bf-bc0c-4618f6f5c9a5.jpg?1562942451|https://scryfall.com/card/arn/51/metamorphosis?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Add X mana of any one color, where X is 1 plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.
 
 
-:mtgtip:`Nafs Asp<https://img.scryfall.com/cards/border_crop/front/9/6/965f722c-2b18-4c22-8c30-12552def5940.jpg?1562922939|https://scryfall.com/card/arn/52/nafs-asp?utm_source=api>`
+:mtgtip:`Nafs Asp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/965f722c-2b18-4c22-8c30-12552def5940.jpg?1562922939|https://scryfall.com/card/arn/52/nafs-asp?utm_source=api>`
    Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay |mana_1| before that draw step.
 
 
-:mtgtip:`Sandstorm<https://img.scryfall.com/cards/border_crop/front/7/3/73cba9cd-73d9-442e-bd99-9cba9f398b64.jpg?1562916488|https://scryfall.com/card/arn/53/sandstorm?utm_source=api>`
+:mtgtip:`Sandstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73cba9cd-73d9-442e-bd99-9cba9f398b64.jpg?1562916488|https://scryfall.com/card/arn/53/sandstorm?utm_source=api>`
    Sandstorm deals 1 damage to each attacking creature.
 
 
-:mtgtip:`Singing Tree<https://img.scryfall.com/cards/border_crop/front/3/0/3003bf1e-8085-45d8-882b-c449109e7631.jpg?1562903854|https://scryfall.com/card/arn/54/singing-tree?utm_source=api>`
+:mtgtip:`Singing Tree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3003bf1e-8085-45d8-882b-c449109e7631.jpg?1562903854|https://scryfall.com/card/arn/54/singing-tree?utm_source=api>`
    |tap|: Target attacking creature has base power 0 until end of turn.
 
 
-:mtgtip:`Wyluli Wolf<https://img.scryfall.com/cards/border_crop/front/1/5/15ccebe1-ef08-4805-a65f-a1c57abed9f2.jpg?1562899181|https://scryfall.com/card/arn/55/wyluli-wolf?utm_source=api>`
+:mtgtip:`Wyluli Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15ccebe1-ef08-4805-a65f-a1c57abed9f2.jpg?1595373876|https://scryfall.com/card/arn/55/wyluli-wolf?utm_source=api>`
    |tap|: Target creature gets +1/+1 until end of turn.
 
 
-:mtgtip:`Aladdin's Lamp<https://img.scryfall.com/cards/border_crop/front/8/f/8fecc5d2-5298-4d47-b085-f160603f220e.jpg?1562921727|https://scryfall.com/card/arn/56/aladdins-lamp?utm_source=api>`
+:mtgtip:`Aladdin's Lamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8fecc5d2-5298-4d47-b085-f160603f220e.jpg?1562921727|https://scryfall.com/card/arn/56/aladdins-lamp?utm_source=api>`
    |mana_x|, |tap|: The next time you would draw a card this turn, instead look at the top X cards of your library, put all but one of them on the bottom of your library in a random order, then draw a card. X can't be 0.
 
 
-:mtgtip:`Aladdin's Ring<https://img.scryfall.com/cards/border_crop/front/b/b/bb2b74a2-cb74-4b54-b9c6-78c63f14cf5b.jpg?1562929937|https://scryfall.com/card/arn/57/aladdins-ring?utm_source=api>`
+:mtgtip:`Aladdin's Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb2b74a2-cb74-4b54-b9c6-78c63f14cf5b.jpg?1562929937|https://scryfall.com/card/arn/57/aladdins-ring?utm_source=api>`
    |mana_8|, |tap|: Aladdin's Ring deals 4 damage to any target.
 
 
-:mtgtip:`Bottle of Suleiman<https://img.scryfall.com/cards/border_crop/front/c/4/c474cd6b-5610-49eb-ac98-918d900efe8b.jpg?1562931775|https://scryfall.com/card/arn/58/bottle-of-suleiman?utm_source=api>`
+:mtgtip:`Bottle of Suleiman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c474cd6b-5610-49eb-ac98-918d900efe8b.jpg?1562931775|https://scryfall.com/card/arn/58/bottle-of-suleiman?utm_source=api>`
    |mana_1|, Sacrifice Bottle of Suleiman: Flip a coin. If you win the flip, create a 5/5 colorless Djinn artifact creature token with flying. If you lose the flip, Bottle of Suleiman deals 5 damage to you.
 
 
-:mtgtip:`Brass Man<https://img.scryfall.com/cards/border_crop/front/1/a/1a364362-e42b-415c-9d95-b6ec7139f5e7.jpg?1562899900|https://scryfall.com/card/arn/59/brass-man?utm_source=api>`
+:mtgtip:`Brass Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a364362-e42b-415c-9d95-b6ec7139f5e7.jpg?1562899900|https://scryfall.com/card/arn/59/brass-man?utm_source=api>`
    Brass Man doesn't untap during your untap step.
 
    At the beginning of your upkeep, you may pay |mana_1|. If you do, untap Brass Man.
 
 
-:mtgtip:`City in a Bottle<https://img.scryfall.com/cards/border_crop/front/9/5/9598b346-a47d-4c4c-9571-156824e86b9c.jpg?1562922771|https://scryfall.com/card/arn/60/city-in-a-bottle?utm_source=api>`
-   Whenever another nontoken permanent with a name originally printed in the Arabian Nights expansion is on the battlefield, its controller sacrifices it.
+:mtgtip:`City in a Bottle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9598b346-a47d-4c4c-9571-156824e86b9c.jpg?1562922771|https://scryfall.com/card/arn/60/city-in-a-bottle?utm_source=api>`
+   Whenever one or more other nontoken permanents with a name originally printed in the Arabian Nights expansion are on the battlefield, their controllers sacrifice them.
 
    Players can't cast spells or play lands with a name originally printed in the Arabian Nights expansion.
 
 
-:mtgtip:`Dancing Scimitar<https://img.scryfall.com/cards/border_crop/front/1/e/1eb2e494-1414-4d1f-91d2-7cb20acdb128.jpg?1562900683|https://scryfall.com/card/arn/61/dancing-scimitar?utm_source=api>`
+:mtgtip:`Dancing Scimitar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1eb2e494-1414-4d1f-91d2-7cb20acdb128.jpg?1562900683|https://scryfall.com/card/arn/61/dancing-scimitar?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
 
-:mtgtip:`Ebony Horse<https://img.scryfall.com/cards/border_crop/front/9/a/9ae81ec7-2b7d-4301-8114-032be5e6b663.jpg?1562923807|https://scryfall.com/card/arn/62/ebony-horse?utm_source=api>`
+:mtgtip:`Ebony Horse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9ae81ec7-2b7d-4301-8114-032be5e6b663.jpg?1562923807|https://scryfall.com/card/arn/62/ebony-horse?utm_source=api>`
    |mana_2|, |tap|: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
 
 
-:mtgtip:`Flying Carpet<https://img.scryfall.com/cards/border_crop/front/4/b/4b71ff49-ee0a-4065-9131-380468d62a30.jpg?1562908777|https://scryfall.com/card/arn/63/flying-carpet?utm_source=api>`
+:mtgtip:`Flying Carpet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b71ff49-ee0a-4065-9131-380468d62a30.jpg?1562908777|https://scryfall.com/card/arn/63/flying-carpet?utm_source=api>`
    |mana_2|, |tap|: Target creature gains flying until end of turn.
 
 
-:mtgtip:`Jandor's Ring<https://img.scryfall.com/cards/border_crop/front/7/1/71504078-a16f-4dc4-9626-0ecc42b1e93b.jpg?1562916016|https://scryfall.com/card/arn/64/jandors-ring?utm_source=api>`
+:mtgtip:`Jandor's Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71504078-a16f-4dc4-9626-0ecc42b1e93b.jpg?1562916016|https://scryfall.com/card/arn/64/jandors-ring?utm_source=api>`
    |mana_2|, |tap|, Discard the last card you drew this turn: Draw a card.
 
 
-:mtgtip:`Jandor's Saddlebags<https://img.scryfall.com/cards/border_crop/front/b/c/bc4f4b92-7d4e-4b03-8cb4-e6b356c338b4.jpg?1562930191|https://scryfall.com/card/arn/65/jandors-saddlebags?utm_source=api>`
+:mtgtip:`Jandor's Saddlebags<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc4f4b92-7d4e-4b03-8cb4-e6b356c338b4.jpg?1562930191|https://scryfall.com/card/arn/65/jandors-saddlebags?utm_source=api>`
    |mana_3|, |tap|: Untap target creature.
 
 
-:mtgtip:`Jeweled Bird<https://img.scryfall.com/cards/border_crop/front/b/f/bfffb65d-851d-4dc9-9233-d53abf955dcd.jpg?1562930857|https://scryfall.com/card/arn/66/jeweled-bird?utm_source=api>`
+:mtgtip:`Jeweled Bird<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfffb65d-851d-4dc9-9233-d53abf955dcd.jpg?1562930857|https://scryfall.com/card/arn/66/jeweled-bird?utm_source=api>`
    Remove Jeweled Bird from your deck before playing if you're not playing for ante.
 
    |tap|: Ante Jeweled Bird. If you do, put all other cards you own from the ante into your graveyard, then draw a card.
 
 
-:mtgtip:`Pyramids<https://img.scryfall.com/cards/border_crop/front/d/2/d2e9decf-47b7-44e0-b380-8055b6011021.jpg?1562934392|https://scryfall.com/card/arn/67/pyramids?utm_source=api>`
+:mtgtip:`Pyramids<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2e9decf-47b7-44e0-b380-8055b6011021.jpg?1562934392|https://scryfall.com/card/arn/67/pyramids?utm_source=api>`
    |mana_2|: Choose one —
 
    • Destroy target Aura attached to a land.
@@ -329,54 +327,54 @@
    • The next time target land would be destroyed this turn, remove all damage marked on it instead.
 
 
-:mtgtip:`Ring of Ma'rûf<https://img.scryfall.com/cards/border_crop/front/f/c/fcc1004f-7cee-420a-9f0e-2986ed3ab852.jpg?1562942644|https://scryfall.com/card/arn/68/ring-of-mar%C3%BBf?utm_source=api>`
-   |mana_5|, |tap|, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.
+:mtgtip:`Ring of Ma'rûf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcc1004f-7cee-420a-9f0e-2986ed3ab852.jpg?1562942644|https://scryfall.com/card/arn/68/ring-of-mar%C3%BBf?utm_source=api>`
+   |mana_5|, |tap|, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead put a card you own from outside the game into your hand.
 
 
-:mtgtip:`Sandals of Abdallah<https://img.scryfall.com/cards/border_crop/front/8/f/8f99a520-b8a9-40b0-9854-48aac297c5ee.jpg?1562921667|https://scryfall.com/card/arn/69/sandals-of-abdallah?utm_source=api>`
+:mtgtip:`Sandals of Abdallah<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f99a520-b8a9-40b0-9854-48aac297c5ee.jpg?1562921667|https://scryfall.com/card/arn/69/sandals-of-abdallah?utm_source=api>`
    |mana_2|, |tap|: Target creature gains islandwalk until end of turn. When that creature dies this turn, destroy Sandals of Abdallah. (A creature with islandwalk can't be blocked as long as defending player controls an Island.)
 
 
-:mtgtip:`Bazaar of Baghdad<https://img.scryfall.com/cards/border_crop/front/f/f/ff37b863-f8c4-4584-8cc2-ac0e096e583f.jpg?1562943098|https://scryfall.com/card/arn/70/bazaar-of-baghdad?utm_source=api>`
+:mtgtip:`Bazaar of Baghdad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff37b863-f8c4-4584-8cc2-ac0e096e583f.jpg?1562943098|https://scryfall.com/card/arn/70/bazaar-of-baghdad?utm_source=api>`
    |tap|: Draw two cards, then discard three cards.
 
 
-:mtgtip:`City of Brass<https://img.scryfall.com/cards/border_crop/front/f/4/f4e32327-380d-471e-813b-4c27477787ce.jpg?1562941005|https://scryfall.com/card/arn/71/city-of-brass?utm_source=api>`
+:mtgtip:`City of Brass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4e32327-380d-471e-813b-4c27477787ce.jpg?1562941005|https://scryfall.com/card/arn/71/city-of-brass?utm_source=api>`
    Whenever City of Brass becomes tapped, it deals 1 damage to you.
 
    |tap|: Add one mana of any color.
 
 
-:mtgtip:`Desert<https://img.scryfall.com/cards/border_crop/front/2/0/201155ea-f474-4e13-acda-cb071a6ca977.jpg?1562900934|https://scryfall.com/card/arn/72/desert?utm_source=api>`
+:mtgtip:`Desert<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/201155ea-f474-4e13-acda-cb071a6ca977.jpg?1562900934|https://scryfall.com/card/arn/72/desert?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.
 
 
-:mtgtip:`Diamond Valley<https://img.scryfall.com/cards/border_crop/front/e/8/e85f6f21-15a0-4a36-be95-5a0299cd01a5.jpg?1562938500|https://scryfall.com/card/arn/73/diamond-valley?utm_source=api>`
+:mtgtip:`Diamond Valley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e85f6f21-15a0-4a36-be95-5a0299cd01a5.jpg?1562938500|https://scryfall.com/card/arn/73/diamond-valley?utm_source=api>`
    |tap|, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
 
 
-:mtgtip:`Elephant Graveyard<https://img.scryfall.com/cards/border_crop/front/1/8/18348df2-9037-4db4-bddb-76dc933229bf.jpg?1562899580|https://scryfall.com/card/arn/74/elephant-graveyard?utm_source=api>`
+:mtgtip:`Elephant Graveyard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18348df2-9037-4db4-bddb-76dc933229bf.jpg?1562899580|https://scryfall.com/card/arn/74/elephant-graveyard?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Regenerate target Elephant.
 
 
-:mtgtip:`Island of Wak-Wak<https://img.scryfall.com/cards/border_crop/front/f/0/f09cbd18-79f1-49a0-a3bd-b380ff5ecf03.jpg?1562940263|https://scryfall.com/card/arn/75/island-of-wak-wak?utm_source=api>`
+:mtgtip:`Island of Wak-Wak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f09cbd18-79f1-49a0-a3bd-b380ff5ecf03.jpg?1562940263|https://scryfall.com/card/arn/75/island-of-wak-wak?utm_source=api>`
    |tap|: Target creature with flying has base power 0 until end of turn.
 
 
-:mtgtip:`Library of Alexandria<https://img.scryfall.com/cards/border_crop/front/e/e/ee266113-34ce-4189-84e7-ee2c86a2722c.jpg?1562939686|https://scryfall.com/card/arn/76/library-of-alexandria?utm_source=api>`
+:mtgtip:`Library of Alexandria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee266113-34ce-4189-84e7-ee2c86a2722c.jpg?1562939686|https://scryfall.com/card/arn/76/library-of-alexandria?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Draw a card. Activate this ability only if you have exactly seven cards in hand.
 
 
-:mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/front/c/3/c321d0e1-ff30-4424-979b-25e1a33e45d5.jpg?1562931505|https://scryfall.com/card/arn/77/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c321d0e1-ff30-4424-979b-25e1a33e45d5.jpg?1562931505|https://scryfall.com/card/arn/77/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Oasis<https://img.scryfall.com/cards/border_crop/front/6/f/6f38565e-88b9-433d-b0e9-a3b9734f183f.jpg?1562915597|https://scryfall.com/card/arn/78/oasis?utm_source=api>`
+:mtgtip:`Oasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f38565e-88b9-433d-b0e9-a3b9734f183f.jpg?1562915597|https://scryfall.com/card/arn/78/oasis?utm_source=api>`
    |tap|: Prevent the next 1 damage that would be dealt to target creature this turn.
 

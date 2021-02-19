@@ -933,7 +933,7 @@
    Squash deals 6 damage to target creature or planeswalker.
 
 
-:mtgtip:`Tibalt's Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1610391556|https://scryfall.com/card/khm/153/tibalts-trickery?utm_source=api>`
+:mtgtip:`Tibalt's Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1613386926|https://scryfall.com/card/khm/153/tibalts-trickery?utm_source=api>`
    Counter target spell. Choose 1, 2, or 3 at random. Its controller mills that many cards, then exiles cards from the top of their library until they exile a nonland card with a different name than that spell. They may cast that card without paying its mana cost. Then they put the exiled cards on the bottom of their library in a random order.
 
 
@@ -1615,11 +1615,11 @@
    |mana_1|\ |mana_r|\ |mana_r|\ |mana_w|, |tap|, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle your library.
 
 
-:mtgtip:`Barkchannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1608226844|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
+:mtgtip:`Barkchannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1613329753|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Tidechannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1608226844|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
+:mtgtip:`Tidechannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1613329753|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 
