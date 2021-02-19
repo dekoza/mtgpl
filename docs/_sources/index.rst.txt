@@ -19,7 +19,7 @@ Spolszczenie Magic Arena
 .. image:: images/MTGA_Teaser.png
 
 
-Tak, w końcu jest to możliwe. Szczegóły już niebawem!
+Chcesz grać w Arenę po polsku? `Tutaj znajdziesz instrukcję<mtga_pl>`.
 
 
 Instrukcje
