@@ -1,10 +1,26 @@
-#
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-20 13:51+0200\n"
+"PO-Revision-Date: 2021-02-20 12:51+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/social/"
+"pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
+
+#
 
 msgctxt "Social/Challenge/Request_Message"
 msgid "{playerName} is challenging you to a match!"
-msgstr ""
+msgstr "{playerName} wyzywa cię na pojedynek!"
 
 msgctxt "Social/Challenge/Request_TitleDiscord"
 msgid "Discord Join Request"
@@ -24,7 +40,7 @@ msgstr ""
 
 msgctxt "Social/Chat/PressTabHint"
 msgid "Press TAB to cycle chat"
-msgstr ""
+msgstr "Wciśnij TAB, żeby przeglądać czat"
 
 msgctxt "Social/Chat/SpamHint"
 msgid "You are sending messages too quickly"
@@ -57,7 +73,7 @@ msgstr ""
 
 msgctxt "Social/Errors/Wizards/CannotFriendSelf/Title"
 msgid "That's you."
-msgstr ""
+msgstr "To ty."
 
 msgctxt "Social/Errors/Wizards/FriendLimit/Body"
 msgid ""
@@ -71,31 +87,31 @@ msgstr ""
 
 msgctxt "Social/Friends/ConnectionState/Away"
 msgid "Away"
-msgstr ""
+msgstr "Nieobecny"
 
 msgctxt "Social/Friends/ConnectionState/Busy"
 msgid "Busy"
-msgstr ""
+msgstr "Zajęty"
 
 msgctxt "Social/Friends/ConnectionState/Busy_NotificationsOff"
 msgid "Busy (Notifications Off)"
-msgstr ""
+msgstr "Zajęty (Wyłączenie powiadomień)"
 
 msgctxt "Social/Friends/ConnectionState/Busy_Tooltip"
 msgid "Busy — Notifications will be suppressed."
-msgstr ""
+msgstr "Zajęty — Powiadomienia będą wyciszane."
 
 msgctxt "Social/Friends/ConnectionState/Offline"
 msgid "Offline"
-msgstr ""
+msgstr "Niezalogowany"
 
 msgctxt "Social/Friends/ConnectionState/Offline_Tooltip"
 msgid "Offline — Go online to see your friends."
-msgstr ""
+msgstr "Niezalogowany — Połącz się, żeby zobaczyć znajomych."
 
 msgctxt "Social/Friends/ConnectionState/Online"
 msgid "Online"
-msgstr ""
+msgstr "Połączony"
 
 msgctxt "Social/Friends/Prompt/ConfirmBlock/Body"
 msgid "Do you really want to block {displayName}?"
