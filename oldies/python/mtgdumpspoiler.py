@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-#coding: utf-8
+# coding: utf-8
 from mtglib.gatherer_request import SearchRequest
 from mtglib.card_extractor import CardExtractor
 from django.utils.encoding import smart_str
@@ -8,22 +8,29 @@ import re
 
 def manarepl(match):
     d = match.groupdict()
-    symbol = d['symbol'].replace('{', '').replace('}', '').replace('(', '').replace(')', '').replace('/', '')
-    if symbol == 'T':
-        return '|tap|'
-    elif symbol == 'Q':
-        return '|untap|'
+    symbol = (
+        d["symbol"]
+        .replace("{", "")
+        .replace("}", "")
+        .replace("(", "")
+        .replace(")", "")
+        .replace("/", "")
+    )
+    if symbol == "T":
+        return "|tap|"
+    elif symbol == "Q":
+        return "|untap|"
     else:
-        return '|mana_%s|' % symbol.lower()
+        return "|mana_%s|" % symbol.lower()
 
 
 sets = [
-        # ('Journey into Nyx', 'JOU'),
-         ('Fate Reforged', 'FRF'),
-        ]
+    # ('Journey into Nyx', 'JOU'),
+    ("Fate Reforged", "FRF"),
+]
 for s in sets:
-#
-    request = SearchRequest({'set': s[0]})
+    #
+    request = SearchRequest({"set": s[0]})
     cards = []
     oldcards = []
     for i in range(20):
@@ -34,27 +41,36 @@ for s in sets:
             cards.extend(tmp)
             oldcards = tmp
 
-            #~ with open("%s.pot" % s[1], 'wb') as dumpfile:
-            #~ dumpfile.write("#. Please leave mana costs and tap symbol intact!\n")
-            #~ for card in cards:
-            #~ dumpfile.write("#: %s\n" % smart_str(card.name))
-            #~ lines = smart_str(card.rules_text).replace(' ; ', ';').replace('"', r'\"').split(';')
-            #~ for l in lines:
-            #~ dumpfile.write('msgid "%s"\nmsgstr ""\n\n' % l)
-            #~ dumpfile.write('\n')
-        #~
+            # ~ with open("%s.pot" % s[1], 'wb') as dumpfile:
+            # ~ dumpfile.write("#. Please leave mana costs and tap symbol intact!\n")
+            # ~ for card in cards:
+            # ~ dumpfile.write("#: %s\n" % smart_str(card.name))
+            # ~ lines = smart_str(card.rules_text).replace(' ; ', ';').replace('"', r'\"').split(';')
+            # ~ for l in lines:
+            # ~ dumpfile.write('msgid "%s"\nmsgstr ""\n\n' % l)
+            # ~ dumpfile.write('\n')
+        # ~
 
-    pat = re.compile(r'(?P<symbol>\{[WUBRGTXPQ]{1}\}|\{[0-9]+\}|\{\([2wubrg]{1}/[wubrgp]{1}\)\})')
+    pat = re.compile(
+        r"(?P<symbol>\{[WUBRGTXPQ]{1}\}|\{[0-9]+\}|\{\([2wubrg]{1}/[wubrgp]{1}\)\})"
+    )
 
-    with open("%s.rst" % s[1], 'wb') as dumpfile:
-        dumpfile.write(".. %(name)s auto-download\n.. include:: symbols.rst\n\n%(name)s\n" % {'name': s[0]})
-        dumpfile.write("".join(['=' for i in s[0]]) + '\n\n')
+    with open("%s.rst" % s[1], "wb") as dumpfile:
+        dumpfile.write(
+            ".. %(name)s auto-download\n.. include:: symbols.rst\n\n%(name)s\n"
+            % {"name": s[0]}
+        )
+        dumpfile.write("".join(["=" for i in s[0]]) + "\n\n")
         for card in cards:
             dumpfile.write("%s\n" % smart_str(card.name))
             card_rules = smart_str(card.rules_text)
             card_rules = re.sub(pat, manarepl, card_rules)
-            lines = card_rules.replace(' ; ', ';').replace('||', '| |').replace('"', r'\"').split(';')
+            lines = (
+                card_rules.replace(" ; ", ";")
+                .replace("||", "| |")
+                .replace('"', r"\"")
+                .split(";")
+            )
             for l in lines:
-                dumpfile.write('    %s\n\n' % l)
-            dumpfile.write('\n')
-
+                dumpfile.write("    %s\n\n" % l)
+            dumpfile.write("\n")

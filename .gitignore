@@ -1,4 +1,5 @@
 _build
+.env
 *.pyc
 .doctrees
 .idea
@@ -8,4 +9,3 @@ weblate.db
 Pipfile
 Pipfile.lock
 poetry.lock
-
