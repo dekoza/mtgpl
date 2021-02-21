@@ -8,6 +8,8 @@ import json
 import hashlib
 import os
 import re
+import zipfile
+from datetime import date
 
 MTGA_DIR = config("MTGA_DIR")
 SUBSTITUTE_LANG = config("SUBSTITUTE_LANG", default="pt-BR")
@@ -374,7 +376,25 @@ def translate():
 @app.command()
 def build():
     path = get_valid_mtga_dl_path()
-    # copy original files to tempdir
+    dist_path = CURRENT_DIR / "_mtga_dist"
+    os.makedirs(dist_path, exist_ok=True)
+
+    loc_path = path / "Loc"
+    data_path = path / "Data"
+
+    dt = date.today()
+
+    filename_base = dt.strftime("%Y.%m.%d")
+    release = 1
+    while (filename := (dist_path / f"{filename_base}.{release:02d}.zip")).exists():
+        release += 1
+
+    with zipfile.ZipFile(filename, "w", compression=zipfile.ZIP_BZIP2, compresslevel=9) as archive:
+        for filename in (i for i in os.listdir(data_path) if i.startswith("data_loc_")):
+            archive.write(data_path/filename, arcname=f"MTGA_Data/Downloads/Data/{filename}")
+        for filename in (i for i in os.listdir(loc_path) if i.startswith("loc_")):
+            archive.write(loc_path/filename, arcname=f"MTGA_Data/Downloads/Loc/{filename}")
+
     # prepare zipfile with translations for distribution
     # save zipfile in `build` dir with proper name
     typer.echo("Done!")
