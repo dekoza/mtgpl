@@ -2,6 +2,15 @@
 ***********
 Spis zmian
 ***********
+
+2021-02-22
+   * Duża zmiana słownictwa. Combat to teraz "potyczka", battlefield to "pole bitwy",
+     a fight to "walka". Dzięki temu znika konflikt nazw między tłumaczeniami
+     combat i fight.
+   * Pełna instrukcja spolszczenia gry Magic Arena. Tłumaczenie nie jest jeszcze
+     kompletne ze względu na sporo tekstów pobocznych, jak np. komunikaty dotyczące
+     potiwerdzania rozpatrywania zdolności. Tym niemniej działa.
+
 2021-02-19
    * Zendikar Rising - 100%
 
