@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -62,7 +62,7 @@ msgstr ""
 #: ../../ZNR.rst:21
 msgid "When Angelheart Protector enters the battlefield, target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
 "\" nie niszczą go.)"
 
@@ -100,7 +100,7 @@ msgstr "Każdy gracz nie może rzucać więcej niż jednego czaru na turę."
 #: ../../ZNR.rst:29
 msgid "Nonbasic lands your opponents control enter the battlefield tapped."
 msgstr ""
-"Niebazowe lądy pod władaniem twoich przeciwników wchodzą na pole walki "
+"Niebazowe lądy pod władaniem twoich przeciwników wchodzą na pole bitwy "
 "przekręcone."
 
 #: ../../ZNR.rst:36
@@ -117,8 +117,8 @@ msgstr ""
 #: ../../ZNR.rst:35
 msgid "At the beginning of combat on your turn, if you have a full party, target creature gets +1/+1 and gains flying until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, jeśli masz pełną drużynę, wskazany stwór "
-"dostaje do końca tury +1/+1 i latanie."
+"Na początku potyczki w twojej turze, jeśli masz pełną drużynę, wskazany "
+"stwór dostaje do końca tury +1/+1 i latanie."
 
 #: ../../ZNR.rst:42
 msgid ":mtgtip:`Attended Healer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6ca80b5a-3943-41ca-8cd1-8e3db1b2a1c8.jpg?1604195482|https://scryfall.com/card/znr/6/attended-healer?utm_source=api>`"
@@ -142,7 +142,7 @@ msgstr ""
 #: ../../ZNR.rst:45
 msgid "Landfall — Whenever a land enters the battlefield under your control, creatures you control get +1/+1 until end of turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, stwory "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwory "
 "pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../ZNR.rst:48
@@ -184,7 +184,7 @@ msgstr "Latanie, czujność"
 #: ../../ZNR.rst:65
 msgid "When Emeria Captain enters the battlefield, put a +1/+1 counter on it for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść na nim znacznik +1/+1 za "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść na nim znacznik +1/+1 za "
 "każdego stwora w twojej drużynie. (Na drużynę składa się po jednym stworze "
 "spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -205,8 +205,8 @@ msgstr ""
 #: ../../ZNR.rst:73
 msgid "As Emeria, Shattered Skyclave enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, możesz zapłacić 3 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Kiedy ten ląd wejdzie na pole bitwy, możesz zapłacić 3 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:75
 #: ../../ZNR.rst:117
@@ -242,7 +242,7 @@ msgstr ""
 #: ../../ZNR.rst:85
 msgid "When Farsight Adept enters the battlefield, you and target opponent each draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, ty i wskazany przeciwnik dobieracie "
+"Kiedy ten stwór wejdzie na pole bitwy, ty i wskazany przeciwnik dobieracie "
 "po karcie."
 
 #: ../../ZNR.rst:90
@@ -252,7 +252,7 @@ msgstr ""
 #: ../../ZNR.rst:89
 msgid "Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Fearless Fledgling. It gains flying until end of turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, umieść "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na tym stworze. Do końca tury zyskuje on latanie."
 
 #: ../../ZNR.rst:98
@@ -262,7 +262,7 @@ msgstr ""
 #: ../../ZNR.rst:93
 msgid "Landfall — Whenever a land enters the battlefield under your control, choose one —"
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, wybierz "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, wybierz "
 "jedno —"
 
 #: ../../ZNR.rst:95
@@ -295,8 +295,8 @@ msgstr ""
 #: ../../ZNR.rst:103
 msgid "When Journey to Oblivion enters the battlefield, exile target nonland permanent an opponent controls until Journey to Oblivion leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nielądowy permanent "
-"pod władaniem przeciwnika do czasu opuszczenia przez ten urok pola walki."
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nielądowy permanent "
+"pod władaniem przeciwnika do czasu opuszczenia przez ten urok pola bitwy."
 
 #: ../../ZNR.rst:108
 msgid ":mtgtip:`Kabira Outrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53c81719-f820-4674-9cfb-cd5eaf0c1f0d.jpg?1604195914|https://scryfall.com/card/znr/18/kabira-outrider?utm_source=api>`"
@@ -305,7 +305,7 @@ msgstr ""
 #: ../../ZNR.rst:107
 msgid "When Kabira Outrider enters the battlefield, target creature gets +1/+1 until end of turn for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
 "1/+1 za każdego stwora w twojej drużynie. (Na drużynę składa się po jednym "
 "stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -325,7 +325,7 @@ msgstr ""
 
 #: ../../ZNR.rst:115
 msgid "Kabira Plateau enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:126
 msgid ":mtgtip:`Kitesail Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16626f84-00d3-4ec9-b62c-19fff380cd3a.jpg?1604195997|https://scryfall.com/card/znr/20/kitesail-cleric?utm_source=api>`"
@@ -340,7 +340,7 @@ msgstr ""
 #: ../../ZNR.rst:125
 msgid "When Kitesail Cleric enters the battlefield, if it was kicked, tap up to two target creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przekręć co "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przekręć co "
 "najwyżej dwa wskazane stwory."
 
 #: ../../ZNR.rst:132
@@ -362,7 +362,7 @@ msgstr ""
 #: ../../ZNR.rst:135
 msgid "Whenever Kor Celebrant or another creature enters the battlefield under your control, you gain 1 life."
 msgstr ""
-"Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj "
+"Ilekroć ten lub inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj "
 "1 życie."
 
 #: ../../ZNR.rst:142
@@ -372,7 +372,7 @@ msgstr ""
 #: ../../ZNR.rst:141
 msgid "When Legion Angel enters the battlefield, you may reveal a card you own named Legion Angel from outside the game and put it into your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz ujawnić własną kartę o nazwie "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz ujawnić własną kartę o nazwie "
 "Legion Angel spoza gry i umieścić ją w twojej ręce."
 
 #: ../../ZNR.rst:146
@@ -382,8 +382,8 @@ msgstr ""
 #: ../../ZNR.rst:145
 msgid "At the beginning of combat on your turn, put a +1/+1 counter on target creature you control."
 msgstr ""
-"Na początku walki w twojej turze, umieść znacznik +1/+1 na wskazanym stworze "
-"pod twoim władaniem."
+"Na początku potyczki w twojej turze, umieść znacznik +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../ZNR.rst:150
 msgid ":mtgtip:`Makindi Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd0d164a-bce2-4474-abe0-b735eb6c9442.jpg?1604192569|https://scryfall.com/card/znr/25/makindi-ox?utm_source=api>`"
@@ -392,7 +392,7 @@ msgstr ""
 #: ../../ZNR.rst:149
 msgid "Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, przekręć "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, przekręć "
 "wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../ZNR.rst:154
@@ -409,7 +409,7 @@ msgstr ""
 
 #: ../../ZNR.rst:157
 msgid "Makindi Mesas enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:168
 msgid ":mtgtip:`Maul of the Skyclaves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f18f2608-0d44-442c-97a1-12ac94b7abac.jpg?1604192639|https://scryfall.com/card/znr/27/maul-of-the-skyclaves?utm_source=api>`"
@@ -418,7 +418,7 @@ msgstr ""
 #: ../../ZNR.rst:163
 msgid "When Maul of the Skyclaves enters the battlefield, attach it to target creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:165
@@ -465,7 +465,7 @@ msgstr ""
 
 #: ../../ZNR.rst:185
 msgid "Ondu Skyruins enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:192
 msgid ":mtgtip:`Paired Tactician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67930e10-4de8-4d40-af27-4a38d35ab16f.jpg?1604192873|https://scryfall.com/card/znr/31/paired-tactician?utm_source=api>`"
@@ -511,7 +511,7 @@ msgstr ""
 #: ../../ZNR.rst:207
 msgid "Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Prowling Felidar."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, umieść "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na tym stworze."
 
 #: ../../ZNR.rst:212
@@ -549,7 +549,7 @@ msgstr ""
 
 #: ../../ZNR.rst:223
 msgid "Sejiri Glacier enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:232
 msgid ":mtgtip:`Shepherd of Heroes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f70baa3-5232-4e10-80b4-a9ead6ed6ec3.jpg?1604235790|https://scryfall.com/card/znr/38/shepherd-of-heroes?utm_source=api>`"
@@ -558,7 +558,7 @@ msgstr ""
 #: ../../ZNR.rst:231
 msgid "When Shepherd of Heroes enters the battlefield, you gain 2 life for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj po 2 życia za każdego stwora w "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 2 życia za każdego stwora w "
 "twojej drużynie. (Na drużynę składa się po jednym stworze spośród danego "
 "typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -569,14 +569,14 @@ msgstr ""
 #: ../../ZNR.rst:235
 msgid "When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with converted mana cost 4 or less."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj co najwyżej jeden wskazany "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj co najwyżej jeden wskazany "
 "nielądowy, nieżetonowy permanent poza twoim władaniem o skróconym koszcie "
 "many 4 lub mniejszym."
 
 #: ../../ZNR.rst:237
 msgid "When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the converted mana cost of the exiled card."
 msgstr ""
-"Kiedy ten stwór opuści pole walki, właściciel wygnanej karty tworzy żeton "
+"Kiedy ten stwór opuści pole bitwy, właściciel wygnanej karty tworzy żeton "
 "niebieskiego stwora Iluzja X/X, gdzie X jest skróconym kosztem many owej "
 "wygnanej karty."
 
@@ -586,7 +586,7 @@ msgstr ""
 
 #: ../../ZNR.rst:241
 msgid "When Skyclave Cleric enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../ZNR.rst:248
 msgid ":mtgtip:`Skyclave Basilica<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/1/014027c4-7f9d-4096-b308-ea4be574c0d4.jpg?1604243887|https://scryfall.com/card/znr/40/skyclave-cleric-skyclave-basilica?utm_source=api>`"
@@ -594,7 +594,7 @@ msgstr ""
 
 #: ../../ZNR.rst:245
 msgid "Skyclave Basilica enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:254
 msgid ":mtgtip:`Squad Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2ce186d-c9cd-41e9-bac2-ad9d36c4939f.jpg?1604193386|https://scryfall.com/card/znr/41/squad-commander?utm_source=api>`"
@@ -603,7 +603,7 @@ msgstr ""
 #: ../../ZNR.rst:251
 msgid "When Squad Commander enters the battlefield, create a 1/1 white Kor Warrior creature token for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Kor "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Kor "
 "Wojownik 1/1 za każdego stwora w twojej drużynie. (Na drużynę składa się po "
 "jednym stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i "
 "Czarodzieja.)"
@@ -611,8 +611,8 @@ msgstr ""
 #: ../../ZNR.rst:253
 msgid "At the beginning of combat on your turn, if you have a full party, creatures you control get +1/+0 and gain indestructible until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, jeśli masz pełną drużynę, stwory pod twoim "
-"władaniem dostają do końca tury +1/+0 i niezniszczalność."
+"Na początku potyczki w twojej turze, jeśli masz pełną drużynę, stwory pod "
+"twoim władaniem dostają do końca tury +1/+0 i niezniszczalność."
 
 #: ../../ZNR.rst:258
 msgid ":mtgtip:`Smite the Monstrous<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c103163-31b7-4d25-aa2c-02ca082ee1bf.jpg?1604193448|https://scryfall.com/card/znr/42/smite-the-monstrous?utm_source=api>`"
@@ -629,7 +629,7 @@ msgstr ""
 #: ../../ZNR.rst:263
 msgid "When Tazeem Raptor enters the battlefield, you may return a land you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić ląd pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić ląd pod twoim "
 "władaniem do ręki właściciela."
 
 #: ../../ZNR.rst:270
@@ -677,7 +677,7 @@ msgstr ""
 
 #: ../../ZNR.rst:281
 msgid "Beyeen Coast enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:283
 #: ../../ZNR.rst:365
@@ -710,7 +710,7 @@ msgstr "Zaurocz stwora"
 #: ../../ZNR.rst:291
 msgid "When Bubble Snare enters the battlefield, if it was kicked, tap enchanted creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, jeśli został podbity, przekręć "
+"Kiedy ten urok wejdzie na pole bitwy, jeśli został podbity, przekręć "
 "zauroczonego stwora."
 
 #: ../../ZNR.rst:293
@@ -724,7 +724,7 @@ msgstr ""
 #: ../../ZNR.rst:297
 msgid "When Cascade Seer enters the battlefield, scry X, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wróż X, gdzie X jest liczbą stworów w "
+"Kiedy ten stwór wejdzie na pole bitwy, wróż X, gdzie X jest liczbą stworów w "
 "twojej drużynie. (Na drużynę składa się po jednym stworze spośród danego "
 "typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -782,13 +782,13 @@ msgstr ""
 
 #: ../../ZNR.rst:319
 msgid "When Confounding Conundrum enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ZNR.rst:321
 msgid "Whenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under their control this turn, they return a land they control to its owner's hand."
 msgstr ""
-"Ilekroć ląd wejdzie na pole walki pod władaniem przeciwnika, jeśli w tej "
-"turze na pole walki wszedł już inny ląd pod władaniem owego gracza, ów gracz "
+"Ilekroć ląd wejdzie na pole bitwy pod władaniem przeciwnika, jeśli w tej "
+"turze na pole bitwy wszedł już inny ląd pod władaniem owego gracza, ów gracz "
 "przywraca ląd pod swoim władaniem do ręki właściciela."
 
 #: ../../ZNR.rst:328
@@ -802,7 +802,7 @@ msgstr "Ilekroć rzucisz podbity czar, dobierz kartę, następnie odrzuć kartę
 #: ../../ZNR.rst:327
 msgid "When Coralhelm Chronicler enters the battlefield, look at the top five cards of your library. You may reveal a card with a kicker ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na pięć wierzchnich kart "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na pięć wierzchnich kart "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę z podbiciem i umieścić "
 "ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
@@ -813,7 +813,7 @@ msgstr ""
 #: ../../ZNR.rst:333
 msgid "When Cunning Geysermage enters the battlefield, if it was kicked, return up to one other target creature to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć co "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć co "
 "najwyżej jednego innego wskazanego stwora do ręki właściciela."
 
 #: ../../ZNR.rst:338
@@ -862,7 +862,7 @@ msgstr ""
 #: ../../ZNR.rst:359
 msgid "You may have Glasspool Mimic enter the battlefield as a copy of a creature you control, except it's a Shapeshifter Rogue in addition to its other types."
 msgstr ""
-"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia stwora pod "
+"Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia stwora pod "
 "twoim władaniem, ale ma typy Przemieniec Łotrzyk oprócz swoich pozostałych "
 "typów."
 
@@ -872,7 +872,7 @@ msgstr ""
 
 #: ../../ZNR.rst:363
 msgid "Glasspool Shore enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:378
 msgid ":mtgtip:`Inscription of Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/281cdb1c-21ae-4430-8e0f-c993f52ba891.jpg?1604194137|https://scryfall.com/card/znr/61/inscription-of-insight?utm_source=api>`"
@@ -932,7 +932,7 @@ msgstr "Podbicie |mana_2|"
 #: ../../ZNR.rst:389
 msgid "When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a token that's a copy of Jace, Mirror Mage except it's not legendary and its starting loyalty is 1."
 msgstr ""
-"Kiedy ten wędrowiec wejdzie na pole walki, jeśli został podbity, stwórz "
+"Kiedy ten wędrowiec wejdzie na pole bitwy, jeśli został podbity, stwórz "
 "żeton będący jego kopią z tą różnicą, że nie jest legendarny i jego "
 "początkowa lojalność wynosi 1."
 
@@ -960,7 +960,7 @@ msgstr ""
 
 #: ../../ZNR.rst:401
 msgid "Jwari Ruins enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:410
 msgid ":mtgtip:`Living Tempest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a05ed233-9b53-4c67-ab1c-0217386c9fe4.jpg?1604194351|https://scryfall.com/card/znr/65/living-tempest?utm_source=api>`"
@@ -1009,7 +1009,7 @@ msgstr ""
 #: ../../ZNR.rst:427
 msgid "When Master of Winds enters the battlefield, draw two cards, then discard a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz dwie karty, następnie odrzuć "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty, następnie odrzuć "
 "kartę."
 
 #: ../../ZNR.rst:429
@@ -1058,7 +1058,7 @@ msgstr ""
 #: ../../ZNR.rst:451
 msgid "Nimble Trapfinder can't be blocked if you had another Cleric, Rogue, Warrior, or Wizard enter the battlefield under your control this turn."
 msgstr ""
-"Ten stwór nie może być blokowany jeśli w tej turze na pole walki pod twoim "
+"Ten stwór nie może być blokowany jeśli w tej turze na pole bitwy pod twoim "
 "władaniem wszedł inny Kleryk, Łotrzyk, Wojownik lub Czarodziej."
 
 #: ../../ZNR.rst:453
@@ -1085,7 +1085,7 @@ msgstr ""
 #: ../../ZNR.rst:463
 msgid "When Roost of Drakes enters the battlefield, if it was kicked, create a 2/2 blue Drake creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, stwórz żeton "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
 "niebieskiego stwora Drak 2/2 z lataniem."
 
 #: ../../ZNR.rst:465
@@ -1101,7 +1101,7 @@ msgstr ""
 #: ../../ZNR.rst:469
 msgid "Landfall — Whenever a land enters the battlefield under your control, each opponent mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)"
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, każdy "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, każdy "
 "przeciwnik mieli trzy karty. (By zmielić kartę, gracz umieszcza wierzchnią "
 "kartę swojej biblioteki w swoim cmentarzu.)"
 
@@ -1122,8 +1122,8 @@ msgstr ""
 #: ../../ZNR.rst:477
 msgid "As Sea Gate, Reborn enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 3 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 3 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:486
 msgid ":mtgtip:`Sea Gate Stormcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e14e677-9bfa-4bcc-9772-8e7758d7538a.jpg?1604194815|https://scryfall.com/card/znr/77/sea-gate-stormcaller?utm_source=api>`"
@@ -1136,7 +1136,7 @@ msgstr "Podbicie |mana_4|\\ |mana_u|"
 #: ../../ZNR.rst:485
 msgid "When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with converted mana cost 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, skopiuj podczas jego rzucania twój "
+"Kiedy ten stwór wejdzie na pole bitwy, skopiuj podczas jego rzucania twój "
 "następny rzucony w tej turze czar sztuczki lub obrzędu o skróconym koszcie "
 "many 2 lub mniejszym. Jeśli niniejszy stwór został podbity, zamiast tego "
 "skopiuj ów czar dwukrotnie. Możesz wskazać nowe cele dla owych kopii."
@@ -1187,7 +1187,7 @@ msgstr ""
 
 #: ../../ZNR.rst:503
 msgid "Silundi Isle enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:510
 msgid ":mtgtip:`Skyclave Plunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3ff05312-787e-4e5e-a0d5-8f3fb576fc49.jpg?1604194953|https://scryfall.com/card/znr/81/skyclave-plunder?utm_source=api>`"
@@ -1213,7 +1213,7 @@ msgstr "Obronność"
 #: ../../ZNR.rst:515
 msgid "Landfall — Whenever a land enters the battlefield under your control, Skyclave Squid can attack this turn as though it didn't have defender."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "może atakować w tej turze tak, jakby nie miał obronności."
 
 #: ../../ZNR.rst:522
@@ -1244,7 +1244,7 @@ msgstr ""
 #: ../../ZNR.rst:527
 msgid "When Tazeem Roilmage enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć "
 "wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../ZNR.rst:536
@@ -1260,7 +1260,7 @@ msgstr ""
 #: ../../ZNR.rst:535
 msgid "When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with converted mana cost X or less. If that artifact is an Equipment, attach it to Thieving Skydiver."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, zyskaj władanie "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zyskaj władanie "
 "nad wskazanym artefaktem o skróconym koszcie many X lub mniejszy. Jeśli ów "
 "artefakt to Wyposażenie, dołącz go do tego stwora."
 
@@ -1280,7 +1280,7 @@ msgstr ""
 
 #: ../../ZNR.rst:543
 msgid "Umara Skyfalls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:552
 msgid ":mtgtip:`Windrider Wizard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c790a86d-db91-4a87-aa3a-3f9fc4d4b662.jpg?1604195132|https://scryfall.com/card/znr/87/windrider-wizard?utm_source=api>`"
@@ -1299,7 +1299,7 @@ msgstr ""
 #: ../../ZNR.rst:557
 msgid "When Zulaport Duelist enters the battlefield, up to one target creature gets -2/-0 until end of turn. Its controller mills two cards. (They put the top two cards of their library into their graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, co najwyżej jeden wskazany stwór "
+"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej jeden wskazany stwór "
 "dostaje do końca tury -2/-0. Jego władca mieli dwie karty. (Umieszcza dwie "
 "wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
@@ -1310,7 +1310,7 @@ msgstr ""
 #: ../../ZNR.rst:561
 msgid "When Acquisitions Expert enters the battlefield, target opponent reveals a number of cards from their hand equal to the number of creatures in your party. You choose one of those cards. That player discards that card. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia tyle kart "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik ujawnia tyle kart "
 "ze swojej ręki, ile stworów jest w twojej drużynie. Wybierz jedną z owych "
 "kart. Ów gracz odrzuca ową kartę. (Na drużynę składa się po jednym stworze "
 "spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
@@ -1322,7 +1322,7 @@ msgstr ""
 #: ../../ZNR.rst:565
 msgid "Return from your graveyard to the battlefield any number of target creature cards that each have a different converted mana cost X or less."
 msgstr ""
-"Przywróć z twojego cmentarza na pole walki dowolną liczbę wskazanych kart "
+"Przywróć z twojego cmentarza na pole bitwy dowolną liczbę wskazanych kart "
 "stworów, z których każda ma inny skrócony kosz many X lub mniejszy."
 
 #: ../../ZNR.rst:572
@@ -1332,8 +1332,8 @@ msgstr ""
 #: ../../ZNR.rst:569
 msgid "As Agadeem, the Undercrypt enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 3 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 3 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:571
 #: ../../ZNR.rst:583
@@ -1368,7 +1368,7 @@ msgstr ""
 
 #: ../../ZNR.rst:581
 msgid "Blackbloom Bog enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:590
 msgid ":mtgtip:`Blood Beckoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cb88075-14f8-4ac9-b947-5ca1d30938f1.jpg?1604195307|https://scryfall.com/card/znr/92/blood-beckoning?utm_source=api>`"
@@ -1442,7 +1442,7 @@ msgstr ""
 #: ../../ZNR.rst:615
 msgid "When Demon's Disciple enters the battlefield, each player sacrifices a creature or planeswalker."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora lub "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora lub "
 "wędrowca."
 
 #: ../../ZNR.rst:622
@@ -1453,7 +1453,7 @@ msgstr ""
 msgid "Whenever Drana, the Last Bloodchief attacks, defending player chooses a nonlegendary creature card in your graveyard. You return that card to the battlefield with an additional +1/+1 counter on it. The creature is a Vampire in addition to its other types."
 msgstr ""
 "Ilekroć ten stwór atakuje, broniący się gracz wybiera kartę nielegendarnego "
-"stwora w twoim cmentarzu. Przywróć ową kartę na pole walki z dodatkowym "
+"stwora w twoim cmentarzu. Przywróć ową kartę na pole bitwy z dodatkowym "
 "znacznikiem +1/+1. Ów stwór jest dodatkowo Wampirem poza swoimi innymi "
 "typami."
 
@@ -1464,7 +1464,7 @@ msgstr ""
 #: ../../ZNR.rst:625
 msgid "When Drana's Silencer enters the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -X/-X, gdzie X jest liczbą stworów w "
 "twojej drużynie. (Na drużynę składa się po jednym stworze spośród danego "
 "typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
@@ -1476,7 +1476,7 @@ msgstr ""
 #: ../../ZNR.rst:629
 msgid "Landfall — Whenever a land enters the battlefield under your control, Dreadwurm gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
 "\" nie niszczą go.)"
 
@@ -1515,7 +1515,7 @@ msgstr "Latanie, więź życia"
 #: ../../ZNR.rst:645
 msgid "If Ghastly Gloomhunter was kicked, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi na pole walki z dwoma znacznikami +1/"
+"Jeśli ten stwór został podbity, wchodzi na pole bitwy z dwoma znacznikami +1/"
 "+1."
 
 #: ../../ZNR.rst:650
@@ -1534,7 +1534,7 @@ msgstr ""
 
 #: ../../ZNR.rst:653
 msgid "Hagra Constrictor enters the battlefield with two +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../ZNR.rst:655
 msgid "Each creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)"
@@ -1563,7 +1563,7 @@ msgstr ""
 
 #: ../../ZNR.rst:665
 msgid "Hagra Broodpit enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:670
 msgid ":mtgtip:`Highborn Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24c40082-516e-4381-a4cc-e61c5a9a6cac.jpg?1604231440|https://scryfall.com/card/znr/107/highborn-vampire?utm_source=api>`"
@@ -1585,7 +1585,7 @@ msgstr "Wskazany przeciwnik odrzuca dwie karty."
 msgid "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
 msgstr ""
 "Przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub mniejszym z "
-"twojego cmentarza na pole walki."
+"twojego cmentarza na pole bitwy."
 
 #: ../../ZNR.rst:683
 msgid "Destroy target creature with converted mana cost 3 or less."
@@ -1602,7 +1602,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../ZNR.rst:689
 msgid "When Lithoform Blight enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ZNR.rst:691
 msgid "Enchanted land loses all land types and abilities and has \"|tap|: Add |colorless|\" and \"|tap|, Pay 1 life: Add one mana of any color.\""
@@ -1618,7 +1618,7 @@ msgstr ""
 #: ../../ZNR.rst:695
 msgid "When Malakir Blood-Priest enters the battlefield, each opponent loses X life and you gain X life, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po X żyć, a ty "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, a ty "
 "zyskaj X żyć, gdzie X jest liczbą stworów w twojej drużynie. (Na drużynę "
 "składa się po jednym stworze spośród danego typu: Kleryka, Łotrzyka, "
 "Wojownika i Czarodzieja.)"
@@ -1631,7 +1631,7 @@ msgstr ""
 msgid "Choose target creature. You lose 2 life. Until end of turn, that creature gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
 "Wskaż stwora. Strać 2 życia. Do końca tury ów stwór zyskuje \"Kiedy ten "
-"stwór umrze, przywróć go przekręconego na pole walki pod władaniem jego "
+"stwór umrze, przywróć go przekręconego na pole bitwy pod władaniem jego "
 "właściciela.\""
 
 #: ../../ZNR.rst:706
@@ -1640,7 +1640,7 @@ msgstr ""
 
 #: ../../ZNR.rst:703
 msgid "Malakir Mire enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:710
 msgid ":mtgtip:`Marauding Blight-Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/730ddbcd-0814-4e22-85e9-78b0878324b6.jpg?1604195999|https://scryfall.com/card/znr/112/marauding-blight-priest?utm_source=api>`"
@@ -1657,7 +1657,7 @@ msgstr ""
 #: ../../ZNR.rst:713
 msgid "When Mind Carver enters the battlefield, attach it to target creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:715
@@ -1714,7 +1714,7 @@ msgstr ""
 #: ../../ZNR.rst:739
 msgid "When Nimana Skydancer enters the battlefield, target opponent mills two cards. (They put the top two cards of their library into their graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik mieli dwie karty. "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik mieli dwie karty. "
 "(Umieszcza dwie wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:748
@@ -1732,8 +1732,8 @@ msgstr "Złowrogość, więź życia"
 #: ../../ZNR.rst:747
 msgid "When Nullpriest of Oblivion enters the battlefield, if it was kicked, return target creature card from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
-"wskazaną kartę stwora z twojego cmentarza na pole walki."
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć "
+"wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../ZNR.rst:752
 msgid ":mtgtip:`Oblivion's Hunger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/faf65512-8228-48f4-ba7b-d861b66d28c9.jpg?1604196298|https://scryfall.com/card/znr/119/oblivions-hunger?utm_source=api>`"
@@ -1762,7 +1762,7 @@ msgstr ""
 
 #: ../../ZNR.rst:759
 msgid "Pelakka Caverns enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:768
 msgid ":mtgtip:`Scion of the Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/043926fe-d25f-40b4-b556-181503434e68.jpg?1604196403|https://scryfall.com/card/znr/121/scion-of-the-swarm?utm_source=api>`"
@@ -1816,7 +1816,7 @@ msgstr ""
 msgid "Exile all creatures and all planeswalkers with converted mana cost 3 or less from the battlefield and all creature and planeswalker cards with converted mana cost 3 or less from all graveyards."
 msgstr ""
 "Wygnaj wszystkie stwory i wszystkich wędrowców o skróconych kosztach many 3 "
-"lub mniejszych z pola walki oraz wszystkie karty stworów i karty wędrowców o "
+"lub mniejszych z pola bitwy oraz wszystkie karty stworów i karty wędrowców o "
 "kosztach many 3 lub mniejszy z cmentarzy."
 
 #: ../../ZNR.rst:796
@@ -1834,13 +1834,13 @@ msgstr "Ten stwór nie może blokować."
 #: ../../ZNR.rst:793
 msgid "If Skyclave Shade was kicked, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi on na pole walki z dwoma znacznikami "
+"Jeśli ten stwór został podbity, wchodzi on na pole bitwy z dwoma znacznikami "
 "+1/+1."
 
 #: ../../ZNR.rst:795
 msgid "Landfall — Whenever a land enters the battlefield under your control, if Skyclave Shade is in your graveyard and it's your turn, you may cast it from your graveyard this turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, jeśli ta "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, jeśli ta "
 "karta jest w twoim cmentarzu i jest twoja tura, w tej turze możesz rzucić go "
 "z cmentarza."
 
@@ -1910,7 +1910,7 @@ msgid "Return target creature card and up to one target Cleric, Rogue, Warrior, 
 msgstr ""
 "Przywróć wskazaną kartę stwora i co najwyżej jedną wskazaną kartę stwora "
 "typu Kleryk, Łotrzyk, Wojownik lub Czarodziej z twojego cmentarza na pole "
-"walki."
+"bitwy."
 
 #: ../../ZNR.rst:832
 msgid ":mtgtip:`Vanquish the Weak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c15852d4-2c79-4841-bb65-6661d88fdfab.jpg?1604196688|https://scryfall.com/card/znr/131/vanquish-the-weak?utm_source=api>`"
@@ -1934,7 +1934,7 @@ msgstr ""
 
 #: ../../ZNR.rst:839
 msgid "Zof Bloodbog enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:846
 msgid ":mtgtip:`Akoum Hellhound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a5ad1c8-3d70-43ed-9539-2aa6289c5c4a.jpg?1604196803|https://scryfall.com/card/znr/133/akoum-hellhound?utm_source=api>`"
@@ -1943,7 +1943,7 @@ msgstr ""
 #: ../../ZNR.rst:845
 msgid "Landfall — Whenever a land enters the battlefield under your control, Akoum Hellhound gets +2/+2 until end of turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "dostaje do końca tury +2/+2."
 
 #: ../../ZNR.rst:850
@@ -1964,7 +1964,7 @@ msgstr ""
 
 #: ../../ZNR.rst:853
 msgid "Akoum Teeth enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:855
 #: ../../ZNR.rst:927
@@ -1985,7 +1985,7 @@ msgstr ""
 #: ../../ZNR.rst:859
 msgid "When Ardent Electromancer enters the battlefield, add |mana_r| for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, weź |mana_r| za każdego stwora w "
+"Kiedy ten stwór wejdzie na pole bitwy, weź |mana_r| za każdego stwora w "
 "twojej drużynie. (Na drużynę składa się po jednym stworze spośród danego "
 "typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -2012,7 +2012,7 @@ msgstr ""
 msgid "Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library."
 msgstr ""
 "Zniszcz wskazany ląd. Jego władca może wyszukać w swojej bibliotece kartę "
-"bazowego lądu, umieścić ją przekręconą na polu walki, następnie przetasować "
+"bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie przetasować "
 "swoją bibliotekę."
 
 #: ../../ZNR.rst:876
@@ -2044,7 +2044,7 @@ msgstr ""
 #: ../../ZNR.rst:885
 msgid "When Fissure Wizard enters the battlefield, you may discard a card. If you do, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz odrzucić kartę. Jeśli tak "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz kartę."
 
 #: ../../ZNR.rst:890
@@ -2130,7 +2130,7 @@ msgstr ""
 
 #: ../../ZNR.rst:925
 msgid "Kazuul's Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:936
 msgid ":mtgtip:`Leyline Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/847ae75b-1c0f-4d0a-9933-9a302c88dc27.jpg?1604197374|https://scryfall.com/card/znr/147/leyline-tyrant?utm_source=api>`"
@@ -2191,7 +2191,7 @@ msgstr ""
 #: ../../ZNR.rst:955
 msgid "Landfall — Whenever a land enters the battlefield under your control, if it's your main phase, there's an additional combat phase after this phase. At the beginning of that combat, untap all creatures you control."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, jeśli "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, jeśli "
 "jest twoja faza główna, po tej fazie jest dodatkowa faza bitwy. Na początku "
 "owej bitwy, odkręć wszystkie stwory pod twoim władaniem."
 
@@ -2204,7 +2204,7 @@ msgid "Sacrifice X lands. For each land sacrificed this way, draw a card. You ma
 msgstr ""
 "Poświęć X lądów. Za każdy ląd poświęcony w ten sposób, dobierz kartę. W tej "
 "turze możesz zagrać X dodatkowych lądów. W tej turze lądy pod twoim "
-"władaniem wchodzą przekręcone na pole walki."
+"władaniem wchodzą przekręcone na pole bitwy."
 
 #: ../../ZNR.rst:964
 msgid ":mtgtip:`Pyroclastic Hellion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/5929c89b-8c61-47f5-a8ec-b64bf41e9d5b.jpg?1604263001|https://scryfall.com/card/znr/152/pyroclastic-hellion?utm_source=api>`"
@@ -2213,7 +2213,7 @@ msgstr ""
 #: ../../ZNR.rst:963
 msgid "When Pyroclastic Hellion enters the battlefield, you may return a land you control to its owner's hand. When you do, Pyroclastic Hellion deals 2 damage to each opponent."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić ląd pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić ląd pod twoim "
 "władaniem do ręki właściciela. Kiedy tak zrobisz, ten stwór zadaje każdemu "
 "przeciwnikowi po 2 obrażenia."
 
@@ -2287,7 +2287,7 @@ msgstr ""
 #: ../../ZNR.rst:991
 msgid "When Scavenged Blade enters the battlefield, attach it to target creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:993
@@ -2313,7 +2313,7 @@ msgstr ""
 #: ../../ZNR.rst:1001
 msgid "When Scorch Rider enters the battlefield, if it was kicked, it gains haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, zyskuje on do "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zyskuje on do "
 "końca tury pośpiech."
 
 #: ../../ZNR.rst:1012
@@ -2328,7 +2328,7 @@ msgstr "Tratowanie, pośpiech"
 #: ../../ZNR.rst:1009
 msgid "If Shatterskull Charger was kicked, it enters the battlefield with a +1/+1 counter on it."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi na pole walki ze znacznikiem +1/+1."
+"Jeśli ten stwór został podbity, wchodzi na pole bitwy ze znacznikiem +1/+1."
 
 #: ../../ZNR.rst:1011
 msgid "At the beginning of your end step, if Shatterskull Charger doesn't have a +1/+1 counter on it, return it to its owner's hand."
@@ -2359,8 +2359,8 @@ msgstr ""
 #: ../../ZNR.rst:1025
 msgid "As Shatterskull, the Hammer Pass enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki, możesz zapłacić 3 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy, możesz zapłacić 3 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1032
 msgid ":mtgtip:`Sizzling Barrage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bf5843a-a01f-4d1c-b8fe-c586d5160f6e.jpg?1604197870|https://scryfall.com/card/znr/162/sizzling-barrage?utm_source=api>`"
@@ -2378,7 +2378,7 @@ msgstr ""
 #: ../../ZNR.rst:1037
 msgid "Landfall — Whenever a land enters the battlefield under your control, Skyclave Geopede gets +2/+2 until end of turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "dostaje do końca tury +2/+2."
 
 #: ../../ZNR.rst:1042
@@ -2407,7 +2407,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1049
 msgid "Song-Mad Ruins enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1056
 msgid ":mtgtip:`Spikefield Hazard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a69541db-3f4e-412f-aa8e-dec1e74f74dc.jpg?1604198070|https://scryfall.com/card/znr/166/spikefield-hazard-spikefield-cave?utm_source=api>`"
@@ -2425,7 +2425,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1059
 msgid "Spikefield Cave enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1066
 msgid ":mtgtip:`Spitfire Lagac<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47f26493-812f-4c14-91c4-d2ab549a7b8a.jpg?1604198100|https://scryfall.com/card/znr/167/spitfire-lagac?utm_source=api>`"
@@ -2434,7 +2434,7 @@ msgstr ""
 #: ../../ZNR.rst:1065
 msgid "Landfall — Whenever a land enters the battlefield under your control, Spitfire Lagac deals 1 damage to each opponent."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../ZNR.rst:1070
@@ -2472,7 +2472,7 @@ msgstr ""
 #: ../../ZNR.rst:1081
 msgid "When Thundering Sparkmage enters the battlefield, it deals X damage to target creature or planeswalker, where X is the number of creatures in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu stworowi lub "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu stworowi lub "
 "wędrowcowi X obrażeń, gdzie X jest liczbą stworów w twojej drużynie. (Na "
 "drużynę składa się po jednym stworze spośród danego typu: Kleryka, Łotrzyka, "
 "Wojownika i Czarodzieja.)"
@@ -2517,7 +2517,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1101
 msgid "Valakut Stoneforge enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1110
 msgid ":mtgtip:`Valakut Exploration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18cb7bf6-9c7c-4e62-a678-7b75862e2f64.jpg?1604263135|https://scryfall.com/card/znr/175/valakut-exploration?utm_source=api>`"
@@ -2526,7 +2526,7 @@ msgstr ""
 #: ../../ZNR.rst:1107
 msgid "Landfall — Whenever a land enters the battlefield under your control, exile the top card of your library. You may play that card for as long as it remains exiled."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, wygnaj "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, wygnaj "
 "wierzchnią kartę twojej biblioteki. Możesz zagrać tę kartę przez cały czas "
 "jej wygnania."
 
@@ -2575,7 +2575,7 @@ msgstr "Możesz zagrywać lądy z twojego cmentarza."
 #: ../../ZNR.rst:1127
 msgid "If a land entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
 msgstr ""
-"Jeśli ląd wchodzący na pole walki wyzwala zdolność permanentu pod twoim "
+"Jeśli ląd wchodzący na pole bitwy wyzwala zdolność permanentu pod twoim "
 "władanie, owa zdolność wyzwalana jest dodatkowy raz."
 
 #: ../../ZNR.rst:1134
@@ -2608,7 +2608,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1141
 msgid "Bala Ged Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1143
 #: ../../ZNR.rst:1203
@@ -2637,7 +2637,7 @@ msgstr ""
 #: ../../ZNR.rst:1151
 msgid "Landfall — Whenever a land enters the battlefield under your control, Canopy Baloth gets +2/+2 until end of turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "dostaje do końca tury +2/+2."
 
 #: ../../ZNR.rst:1162
@@ -2660,7 +2660,7 @@ msgstr "Antyklątwa, pośpiech"
 #: ../../ZNR.rst:1161
 msgid "If Cragplate Baloth was kicked, it enters the battlefield with four +1/+1 counters on it."
 msgstr ""
-"Jeśli ten stwór został podbity,wchodzi on na pole walki z czterema "
+"Jeśli ten stwór został podbity,wchodzi on na pole bitwy z czterema "
 "znacznikami +1/+1."
 
 #: ../../ZNR.rst:1166
@@ -2670,7 +2670,7 @@ msgstr ""
 #: ../../ZNR.rst:1165
 msgid "When Dauntless Survivor enters the battlefield, put a +1/+1 counter on target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../ZNR.rst:1174
@@ -2687,7 +2687,7 @@ msgstr ""
 #: ../../ZNR.rst:1171
 msgid "If Gnarlid Colony was kicked, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi na pole walki z dwoma znacznikami +1/"
+"Jeśli ten stwór został podbity, wchodzi na pole bitwy z dwoma znacznikami +1/"
 "+1."
 
 #: ../../ZNR.rst:1173
@@ -2731,7 +2731,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1193
 msgid "When Joraga Visionary enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ZNR.rst:1198
 msgid ":mtgtip:`Kazandu Mammoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f632537-63bf-4490-86e6-e6067b9c1a3b.jpg?1604198971|https://scryfall.com/card/znr/189/kazandu-mammoth-kazandu-valley?utm_source=api>`"
@@ -2740,7 +2740,7 @@ msgstr ""
 #: ../../ZNR.rst:1197
 msgid "Landfall — Whenever a land enters the battlefield under your control, Kazandu Mammoth gets +2/+2 until end of turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "dostaje do końca tury +2/+2."
 
 #: ../../ZNR.rst:1204
@@ -2749,7 +2749,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1201
 msgid "Kazandu Valley enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1208
 msgid ":mtgtip:`Kazandu Nectarpot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c9d3f4a-ef83-454e-b8a1-1fc5d5f44be8.jpg?1604198994|https://scryfall.com/card/znr/190/kazandu-nectarpot?utm_source=api>`"
@@ -2758,7 +2758,7 @@ msgstr ""
 #: ../../ZNR.rst:1207
 msgid "Landfall — Whenever a land enters the battlefield under your control, you gain 1 life."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, zyskaj 1 "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 "
 "życie."
 
 #: ../../ZNR.rst:1214
@@ -2768,7 +2768,7 @@ msgstr ""
 #: ../../ZNR.rst:1213
 msgid "When Kazandu Stomper enters the battlefield, return up to two lands you control to their owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć co najwyżej dwa wskazane "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć co najwyżej dwa wskazane "
 "lądy pod twoim władanie do ręki właściciela."
 
 #: ../../ZNR.rst:1218
@@ -2787,7 +2787,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1221
 msgid "Khalni Territory enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1228
 msgid ":mtgtip:`Lotus Cobra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4b759f0-901f-4be3-93fa-224609b08d48.jpg?1604199124|https://scryfall.com/card/znr/193/lotus-cobra?utm_source=api>`"
@@ -2796,7 +2796,7 @@ msgstr ""
 #: ../../ZNR.rst:1227
 msgid "Landfall — Whenever a land enters the battlefield under your control, add one mana of any color."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, weź jedną "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, weź jedną "
 "manę dowolnego koloru."
 
 #: ../../ZNR.rst:1234
@@ -2826,7 +2826,7 @@ msgstr ""
 #: ../../ZNR.rst:1243
 msgid "When Murasa Sproutling enters the battlefield, if it was kicked, return target card with a kicker ability from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć "
 "wskazaną kartę z podbiciem z twojego cmentarza do twojej ręki."
 
 #: ../../ZNR.rst:1252
@@ -2850,7 +2850,7 @@ msgstr ""
 #: ../../ZNR.rst:1255
 msgid "When Oran-Rief Ooze enters the battlefield, put a +1/+1 counter on target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../ZNR.rst:1257
@@ -2889,7 +2889,7 @@ msgstr ""
 msgid "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Poświęć ląd. Wyszukaj w twojej bibliotece dwie karty bazowych lądów, umieść "
-"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../ZNR.rst:1278
 msgid ":mtgtip:`Scale the Heights<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e781d6ad-950e-49bf-9645-e2354086ae49.jpg?1604199378|https://scryfall.com/card/znr/202/scale-the-heights?utm_source=api>`"
@@ -2908,7 +2908,7 @@ msgstr ""
 #: ../../ZNR.rst:1281
 msgid "Landfall — Whenever a land enters the battlefield under your control, create a 1/1 green Insect creature token. If you control six or more lands, create a token that's a copy of Scute Swarm instead."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, stwórz "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
 "żeton zielonego stwora Owad 1/1. Jeśli władasz co najmniej sześcioma lądami, "
 "zamiast tego stwórz żeton będący kopią niniejszego stwora."
 
@@ -2919,13 +2919,13 @@ msgstr ""
 #: ../../ZNR.rst:1285
 msgid "When Skyclave Pick-Axe enters the battlefield, attach it to target creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:1287
 msgid "Landfall — Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, "
 "wyposażony stwór dostaje do końca tury +2/+2."
 
 #: ../../ZNR.rst:1289
@@ -2939,7 +2939,7 @@ msgstr ""
 #: ../../ZNR.rst:1293
 msgid "Springmantle Cleric enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1 ile kolorów many "
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1 ile kolorów many "
 "wydano na rzucenie go."
 
 #: ../../ZNR.rst:1298
@@ -2959,7 +2959,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1301
 msgid "Swarm Shambler enters the battlefield with a +1/+1 counter on it."
-msgstr "Ten stwór wchodzi na pole walki ze znacznikiem +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy ze znacznikiem +1/+1."
 
 #: ../../ZNR.rst:1303
 msgid "Whenever a creature you control with a +1/+1 counter on it becomes the target of a spell an opponent controls, create a 1/1 green Insect creature token."
@@ -2996,7 +2996,7 @@ msgstr "Podbicie |mana_3|"
 #: ../../ZNR.rst:1317
 msgid "When Tajuru Paragon enters the battlefield, if it was kicked, reveal the top six cards of your library. You may put a card that shares a creature type with it from among them into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, ujawnij sześć "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, ujawnij sześć "
 "wierzchnich kart twojej biblioteki. Możesz spośród nich umieścić w twojej "
 "ręce kartę współdzielącą z nim typ stwora. Umieść pozostałe losowo na "
 "spodzie twojej biblioteki."
@@ -3015,7 +3015,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1329
 msgid "Tangled Vale enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1338
 msgid ":mtgtip:`Taunting Arbormage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca6f8996-bf72-4e55-944f-5b8202b6068c.jpg?1604199668|https://scryfall.com/card/znr/212/taunting-arbormage?utm_source=api>`"
@@ -3024,7 +3024,7 @@ msgstr ""
 #: ../../ZNR.rst:1337
 msgid "When Taunting Arbormage enters the battlefield, if it was kicked, all creatures able to block target creature this turn do so."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, wszystkie "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, wszystkie "
 "stwory mogące blokować wskazanego stwora w tej turze, robią to."
 
 #: ../../ZNR.rst:1344
@@ -3034,7 +3034,7 @@ msgstr ""
 #: ../../ZNR.rst:1343
 msgid "Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Territorial Scythecat."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, umieść "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na tym stworze."
 
 #: ../../ZNR.rst:1348
@@ -3043,7 +3043,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1347
 msgid "When Turntimber Ascetic enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../ZNR.rst:1352
 msgid ":mtgtip:`Turntimber Symbiosis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg?1604199791|https://scryfall.com/card/znr/215/turntimber-symbiosis-turntimber-serpentine-wood?utm_source=api>`"
@@ -3053,7 +3053,7 @@ msgstr ""
 msgid "Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has converted mana cost 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić spośród "
-"nich kartę stwora na polu walki. Jeśli owa karta ma skrócony koszt many 3 "
+"nich kartę stwora na polu bitwy. Jeśli owa karta ma skrócony koszt many 3 "
 "lub mniejszy, wchodzi z dodatkowym znacznikiem +1/+1. Umieść pozostałe "
 "losowo na spodzie twojej biblioteki."
 
@@ -3064,8 +3064,8 @@ msgstr ""
 #: ../../ZNR.rst:1355
 msgid "As Turntimber, Serpentine Wood enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 3 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 3 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1362
 msgid ":mtgtip:`Vastwood Fortification<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a7fd24e-84d8-405d-86e4-0571a9e23cc2.jpg?1604199835|https://scryfall.com/card/znr/216/vastwood-fortification-vastwood-thicket?utm_source=api>`"
@@ -3077,7 +3077,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1365
 msgid "Vastwood Thicket enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1374
 msgid ":mtgtip:`Vastwood Surge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6974363c-0d0d-4270-a25e-ab84b0c03f4e.jpg?1604199881|https://scryfall.com/card/znr/217/vastwood-surge?utm_source=api>`"
@@ -3087,7 +3087,7 @@ msgstr ""
 msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library. If this spell was kicked, put two +1/+1 counters on each creature you control."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę. Jeśli "
+"je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę. Jeśli "
 "ten czar został podbity, umieść po dwa znaczniki +1/+1 na każdym stworze pod "
 "twoim władaniem."
 
@@ -3141,7 +3141,7 @@ msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej.
 #: ../../ZNR.rst:1401
 msgid "Landfall — Whenever a land enters the battlefield under your control, Brushfire Elemental gets +2/+2 until end of turn."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "dostaje do końca tury +2/+2."
 
 #: ../../ZNR.rst:1408
@@ -3151,7 +3151,7 @@ msgstr ""
 #: ../../ZNR.rst:1405
 msgid "Whenever another Cleric enters the battlefield under your control, you gain 1 life."
 msgstr ""
-"Ilekroć inny Kleryk wejdzie na pole walki pod twoim władaniem, zyskaj 1 "
+"Ilekroć inny Kleryk wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 "
 "życie."
 
 #: ../../ZNR.rst:1407
@@ -3166,7 +3166,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1411
 msgid "Grakmaw, Skyclave Ravager enters the battlefield with three +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki z trzema znacznikami +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy z trzema znacznikami +1/+1."
 
 #: ../../ZNR.rst:1413
 msgid "Whenever another creature you control dies, if it had a +1/+1 counter on it, put a +1/+1 counter on Grakmaw."
@@ -3244,7 +3244,7 @@ msgstr ""
 #: ../../ZNR.rst:1445
 msgid "If Moss-Pit Skeleton was kicked, it enters the battlefield with three +1/+1 counters on it."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi na pole walki z trzema znacznikami +"
+"Jeśli ten stwór został podbity, wchodzi na pole bitwy z trzema znacznikami +"
 "1/+1."
 
 #: ../../ZNR.rst:1447
@@ -3260,7 +3260,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1453
 msgid "|tap|: You may put a basic land card from your hand onto the battlefield."
-msgstr "|tap|: Możesz umieścić bazowy ląd z twojej ręki na polu walki."
+msgstr "|tap|: Możesz umieścić bazowy ląd z twojej ręki na polu bitwy."
 
 #: ../../ZNR.rst:1455
 msgid "|tap|: Return target basic land you control to its owner's hand."
@@ -3297,7 +3297,7 @@ msgstr ""
 #: ../../ZNR.rst:1467
 msgid "Landfall — Whenever a land enters the battlefield under your control, put a loyalty counter on Nissa of Shadowed Boughs."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, umieść "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik lojalności na tym wędrowcu."
 
 #: ../../ZNR.rst:1469
@@ -3310,7 +3310,7 @@ msgstr ""
 #: ../../ZNR.rst:1471
 msgid "−5: You may put a creature card with converted mana cost less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it."
 msgstr ""
-"–5: Możesz z twojej ręki lub cmentarza umieścić na polu walki kartę stwora o "
+"–5: Możesz z twojej ręki lub cmentarza umieścić na polu bitwy kartę stwora o "
 "skróconym koszcie many równym lub mniejszym od liczby lądów pod twoim "
 "władaniem. Wchodzi z dwoma znacznikami +1/+1."
 
@@ -3320,12 +3320,12 @@ msgstr ""
 
 #: ../../ZNR.rst:1475
 msgid "When Omnath, Locus of Creation enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ZNR.rst:1477
 msgid "Landfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add |mana_r|\\ |mana_g|\\ |mana_w|\\ |mana_u|. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, zyskaj 4 "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, zyskaj 4 "
 "życia jeśli jest to pierwszy raz, gdy ta zdolność jest rozpatrywana w tej "
 "turze. Jeśli jest to drugi raz, weź |mana_r|\\ |mana_g|\\ |mana_w|\\ |mana_u|"
 ". Jeśli trzeci raz, ten stwór zadaje każdemu przeciwnikowi i każdemu "
@@ -3344,7 +3344,7 @@ msgid "Whenever Orah, Skyclave Hierophant or another Cleric you control dies, re
 msgstr ""
 "Kiedy umrze ten stwór lub inny Kleryk pod twoim władaniem, przywróć wskazaną "
 "kartę Kleryka o mniejszym skróconym koszcie many z twojego cmentarza na pole "
-"walki."
+"bitwy."
 
 #: ../../ZNR.rst:1490
 msgid ":mtgtip:`Phylath, World Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7af88c9-70ca-484c-bddf-b705e0ea7bc7.jpg?1604200396|https://scryfall.com/card/znr/234/phylath-world-sculptor?utm_source=api>`"
@@ -3353,13 +3353,13 @@ msgstr ""
 #: ../../ZNR.rst:1487
 msgid "When Phylath, World Sculptor enters the battlefield, create a 0/1 green Plant creature token for each basic land you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora Roślina "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina "
 "0/1 za każdy bazowy ląd pod twoim władaniem."
 
 #: ../../ZNR.rst:1489
 msgid "Landfall — Whenever a land enters the battlefield under your control, put four +1/+1 counters on target Plant you control."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, umieść "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść "
 "cztery znaczniki +1/+1 na wskazanej Roślinie pod twoim władaniem."
 
 #: ../../ZNR.rst:1498
@@ -3369,7 +3369,7 @@ msgstr ""
 #: ../../ZNR.rst:1493
 msgid "When Ravager's Mace enters the battlefield, attach it to target creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:1495
@@ -3424,7 +3424,7 @@ msgstr ""
 #: ../../ZNR.rst:1523
 msgid "Verazol, the Split Current enters the battlefield with a +1/+1 counter on it for each mana spent to cast it."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile many wydano "
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile many wydano "
 "na jego rzucenie."
 
 #: ../../ZNR.rst:1525
@@ -3441,7 +3441,7 @@ msgstr ""
 #: ../../ZNR.rst:1529
 msgid "When Yasharn, Implacable Earth enters the battlefield, search your library for a basic Forest card and a basic Plains card, reveal those cards, put them into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wyszukaj w twojej bibliotece kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "bazowego Lasu oraz kartę bazowej Równiny, ujawnij owe karty, umieść je w "
 "twojej ręce, następnie przetasuj twoją bibliotekę."
 
@@ -3477,14 +3477,14 @@ msgstr ""
 msgid "|mana_2|\\ |mana_u|\\ |mana_b|, Return an unblocked attacking Rogue you control to its owner's hand: Put Zareth San, the Trickster from your hand onto the battlefield tapped and attacking."
 msgstr ""
 "|mana_2|\\ |mana_u|\\ |mana_b|, przywróć niezablokowanego Łotrzyka pod twoim "
-"władaniem do ręki właściciela: Umieść tę kartę z twojej ręki na polu walki "
+"władaniem do ręki właściciela: Umieść tę kartę z twojej ręki na polu bitwy "
 "przekręconą i atakującą."
 
 #: ../../ZNR.rst:1549
 msgid "Whenever Zareth San deals combat damage to a player, you may put target permanent card from that player's graveyard onto the battlefield under your control."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz umieścić wskazaną "
-"kartę permanentu z cmentarza owego gracza na polu walki pod twoim władaniem."
+"kartę permanentu z cmentarza owego gracza na polu bitwy pod twoim władaniem."
 
 #: ../../ZNR.rst:1558
 msgid ":mtgtip:`Cliffhaven Kitesail<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eebf8f67-49d0-42de-a5cc-ad13d19d2c55.jpg?1604200689|https://scryfall.com/card/znr/243/cliffhaven-kitesail?utm_source=api>`"
@@ -3493,7 +3493,7 @@ msgstr ""
 #: ../../ZNR.rst:1553
 msgid "When Cliffhaven Kitesail enters the battlefield, attach it to target creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:1555
@@ -3553,7 +3553,7 @@ msgstr ""
 #: ../../ZNR.rst:1579
 msgid "If Myriad Construct was kicked, it enters the battlefield with a +1/+1 counter on it for each nonbasic land your opponents control."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi on na pole walki mając tyle "
+"Jeśli ten stwór został podbity, wchodzi on na pole bitwy mając tyle "
 "znaczników +1/+1 ile jest niebazowych lądów pod władaniem twoich "
 "przeciwników."
 
@@ -3587,7 +3587,7 @@ msgstr ""
 #: ../../ZNR.rst:1591
 msgid "When Relic Axe enters the battlefield, attach it to target creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:1593
@@ -3645,7 +3645,7 @@ msgstr "Niezniszczalność"
 #: ../../ZNR.rst:1619
 msgid "When Skyclave Relic enters the battlefield, if it was kicked, create two tapped tokens that are copies of Skyclave Relic."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, jeśli został podbity, stwórz dwa "
+"Kiedy ten artefakt wejdzie na pole bitwy, jeśli został podbity, stwórz dwa "
 "przekręcone żetony będące kopią tego artefaktu."
 
 #: ../../ZNR.rst:1621
@@ -3663,7 +3663,7 @@ msgstr "Latanie, obronność"
 #: ../../ZNR.rst:1629
 msgid "If Skyclave Sentinel was kicked, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi na pole walki z dwoma znacznikami +1/"
+"Jeśli ten stwór został podbity, wchodzi na pole bitwy z dwoma znacznikami +1/"
 "+1."
 
 #: ../../ZNR.rst:1631
@@ -3677,11 +3677,11 @@ msgstr ""
 
 #: ../../ZNR.rst:1635
 msgid "Spare Supplies enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole walki."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNR.rst:1637
 msgid "When Spare Supplies enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ZNR.rst:1639
 msgid "|mana_2|, |tap|, Sacrifice Spare Supplies: Draw a card."
@@ -3706,7 +3706,7 @@ msgstr ""
 #: ../../ZNR.rst:1649
 msgid "When Utility Knife enters the battlefield, attach it to target creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego stwora pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:1651
@@ -3725,7 +3725,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1657
 msgid "Base Camp enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../ZNR.rst:1659
 #: ../../ZNR.rst:1697

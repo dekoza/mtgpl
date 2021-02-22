@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:49+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -55,7 +55,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Kiedy rzucisz ten czar, możesz przywrócić wskazaną kartę stwora z twojego "
-"cmentarza na pole walki."
+"cmentarza na pole bitwy."
 
 #: ../../UMA.rst:15 ../../UMA.rst:61
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 msgstr ""
 "–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
 "będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
-"karty na polu walki pod twoim władaniem."
+"karty na polu bitwy pod twoim władaniem."
 
 #: ../../UMA.rst:48
 msgid ""
@@ -225,7 +225,7 @@ msgid ""
 "When Ancestor's Chosen enters the battlefield, you gain 1 life for each card "
 "in your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj 1 życie za każdą kartę w twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 1 życie za każdą kartę w twoim "
 "cmentarzu."
 
 #: ../../UMA.rst:74
@@ -240,8 +240,8 @@ msgid ""
 "Whenever a creature is put into your graveyard from the battlefield, you may "
 "sacrifice Angelic Renewal. If you do, return that card to the battlefield."
 msgstr ""
-"Ilekroć stwór jest umieszczany w twoim cmentarzu z pola walki, możesz "
-"poświęcić ten urok. Jeśli tak zrobisz, przywróć ową kartę na pole walki."
+"Ilekroć stwór jest umieszczany w twoim cmentarzu z pola bitwy, możesz "
+"poświęcić ten urok. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy."
 
 #: ../../UMA.rst:80
 msgid ""
@@ -260,7 +260,7 @@ msgid ""
 "If a nontoken creature would enter the battlefield and it wasn't cast, exile "
 "it instead."
 msgstr ""
-"Jeśli nieżetonowy stwór miałby wejść na pole walki, a nie został rzucony, "
+"Jeśli nieżetonowy stwór miałby wejść na pole bitwy, a nie został rzucony, "
 "zamiast tego wygnaj go."
 
 #: ../../UMA.rst:88
@@ -342,7 +342,7 @@ msgid ""
 "When Emancipation Angel enters the battlefield, return a permanent you "
 "control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć permanent pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć permanent pod twoim "
 "władaniem do ręki właściciela."
 
 #: ../../UMA.rst:118
@@ -358,7 +358,7 @@ msgstr "Zaurocz permanent"
 
 #: ../../UMA.rst:115
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 4 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../UMA.rst:117
 msgid ""
@@ -380,14 +380,14 @@ msgid ""
 "When Fiend Hunter enters the battlefield, you may exile another target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki możesz wygnać innego wskazanego stwora."
+"Kiedy ten stwór wejdzie na pole bitwy możesz wygnać innego wskazanego stwora."
 
 #: ../../UMA.rst:123
 msgid ""
 "When Fiend Hunter leaves the battlefield, return the exiled card to the "
 "battlefield under its owner's control."
 msgstr ""
-"Kiedy ten stwór opuści pole walki, przywróć wygnaną kartę na pole walki pod "
+"Kiedy ten stwór opuści pole bitwy, przywróć wygnaną kartę na pole bitwy pod "
 "władaniem jej właściciela."
 
 #: ../../UMA.rst:130
@@ -428,7 +428,7 @@ msgid ""
 "for an Aura card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Aury, ujawnij ją i umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -506,7 +506,7 @@ msgid ""
 "When Lotus-Eye Mystics enters the battlefield, return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę uroku z "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę uroku z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../UMA.rst:166
@@ -547,7 +547,7 @@ msgid ""
 "Return target creature card from your graveyard to the battlefield. Put a +1/"
 "+1 counter on it."
 msgstr ""
-"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Umieść na "
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Umieść na "
 "nim znacznik +1/+1."
 
 #: ../../UMA.rst:178
@@ -609,7 +609,7 @@ msgstr ""
 
 #: ../../UMA.rst:193 ../../UMA.rst:661
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../UMA.rst:202
 msgid ""
@@ -623,8 +623,8 @@ msgid ""
 "When Reveillark leaves the battlefield, return up to two target creature "
 "cards with power 2 or less from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór opuści pole walki, przywróć co najwyżej dwie wskazane karty "
-"stworów o sile 2 lub mniejszej z twojego cmentarza na pole walki."
+"Kiedy ten stwór opuści pole bitwy, przywróć co najwyżej dwie wskazane karty "
+"stworów o sile 2 lub mniejszej z twojego cmentarza na pole bitwy."
 
 #: ../../UMA.rst:201
 msgid ""
@@ -632,7 +632,7 @@ msgid ""
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_5|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
-"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../UMA.rst:208
 msgid ""
@@ -647,7 +647,7 @@ msgid ""
 "your graveyard to the battlefield."
 msgstr ""
 "Na początku twojego kroku utrzymania, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza na pole walki."
+"stwora z twojego cmentarza na pole bitwy."
 
 #: ../../UMA.rst:212
 msgid ""
@@ -669,7 +669,7 @@ msgstr ""
 
 #: ../../UMA.rst:215
 msgid "As Runed Halo enters the battlefield, choose a card name."
-msgstr "Umieszczając ten urok na polu walki, wybierz nazwę karty."
+msgstr "Umieszczając ten urok na polu bitwy, wybierz nazwę karty."
 
 #: ../../UMA.rst:217
 msgid ""
@@ -691,7 +691,7 @@ msgid ""
 "Whenever a creature is put into your graveyard from the battlefield, you may "
 "pay |mana_1|\\ |mana_w|. If you do, return that card to your hand."
 msgstr ""
-"Ilekroć jakiś stwór trafi do twojego cmentarza z pola walki, możesz zapłacić "
+"Ilekroć jakiś stwór trafi do twojego cmentarza z pola bitwy, możesz zapłacić "
 "|mana_1|\\ |mana_w|. Jeśli tak zrobisz, przywróć ową kartę do twojej ręki."
 
 #: ../../UMA.rst:228
@@ -783,7 +783,7 @@ msgid ""
 msgstr ""
 "Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, przywróć wskazaną "
 "kartę stwora o skróconym koszcie many 2 lub mniejszym z twojego cmentarza na "
-"pole walki."
+"pole bitwy."
 
 #: ../../UMA.rst:256
 msgid ""
@@ -847,7 +847,7 @@ msgid ""
 "When Aethersnipe enters the battlefield, return target nonland permanent to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany nie-lądowy "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany nie-lądowy "
 "permanent do ręki właściciela."
 
 #: ../../UMA.rst:271
@@ -857,7 +857,7 @@ msgid ""
 msgstr ""
 "Przyzwanie |mana_1|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar za jego "
 "koszt przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole "
-"walki.)"
+"bitwy.)"
 
 #: ../../UMA.rst:276
 msgid ""
@@ -871,7 +871,7 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę sztuczki lub "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../UMA.rst:280
@@ -944,7 +944,7 @@ msgid ""
 "|tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of "
 "your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść dwie wierzchnie karty twojej "
 "biblioteki w twoim cmentarzu."
 
 #: ../../UMA.rst:302
@@ -1100,7 +1100,7 @@ msgid ""
 "it to the battlefield under its owner's control with a -1/-1 counter on it.)"
 msgstr ""
 "Wytrwałość (Kiedy ten stwór umrze, jeśli nie miał znaczników -1/-1, przywróć "
-"go na pole walki ze znacznikiem -1/-1 pod władaniem właściciela.)"
+"go na pole bitwy ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../UMA.rst:360
 msgid ""
@@ -1154,7 +1154,7 @@ msgid ""
 "As Living Lore enters the battlefield, exile an instant or sorcery card from "
 "your graveyard."
 msgstr ""
-"Umieszczając tego stwora na polu walki wygnaj kartę sztuczki lub obrzędu z "
+"Umieszczając tego stwora na polu bitwy wygnaj kartę sztuczki lub obrzędu z "
 "twojego cmentarza."
 
 #: ../../UMA.rst:375
@@ -1297,6 +1297,10 @@ msgid ""
 "equal to its mana cost. (You may cast that card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
+"twoim cmentarzu zyskuje wspomnienie do końca tury. Koszt wspomnienia jest "
+"równy jej kosztowi many. (Możesz zagrać ową kartę z twojego cmentarza za "
+"koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:428
 msgid ""
@@ -1348,7 +1352,7 @@ msgstr ""
 
 #: ../../UMA.rst:439
 msgid "When Sultai Skullkeeper enters the battlefield, mill two cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
 
 #: ../../UMA.rst:444
 msgid ""
@@ -1562,7 +1566,7 @@ msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. "
 "(Put the top two cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki lub umrze, zmiel dwie karty. (Umieść "
+"Kiedy ten stwór wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
 "dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../UMA.rst:522
@@ -1580,7 +1584,7 @@ msgid ""
 msgstr ""
 "Zregeneruj wskazanego stwora. Dobierz kartę. (Najbliższym razem, kiedy ów "
 "stwór miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć "
-"go, usuń z niego obrażenia i usuń go z walki.)"
+"go, usuń z niego obrażenia i usuń go z potyczki.)"
 
 #: ../../UMA.rst:521
 msgid ""
@@ -1669,7 +1673,7 @@ msgid ""
 "graveyard to the battlefield tapped."
 msgstr ""
 "|mana_2|\\ |mana_b|, odrzuć dwie karty: Przywróć tę kartę z twojego "
-"cmentarza przekręconą na pole walki."
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../UMA.rst:552
 msgid ""
@@ -1742,7 +1746,7 @@ msgid ""
 "When Grave Scrabbler enters the battlefield, if its madness cost was paid, "
 "you may return target creature card from a graveyard to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli zapłacono jego koszt "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli zapłacono jego koszt "
 "szaleństwa, możesz przywrócić wskazaną kartę stwora z cmentarza do ręki "
 "właściciela."
 
@@ -1836,9 +1840,9 @@ msgid ""
 "creature with undying dies, if it had no +1/+1 counters on it, return it to "
 "the battlefield under its owner's control with a +1/+1 counter on it.)"
 msgstr ""
-"Inne stwory pod twoim władaniem nie będące typu Człowiek mają bezśmierć. "
-"(Kiedy stwór z bezśmiercią umrze, jeśli nie miał znaczników +1/+1, przywróć "
-"go na pole walki ze znacznikiem +1/+1 pod władaniem właściciela.)"
+"Inne stwory pod twoim władaniem nie będące typu Człowiek mają bezśmierć. ("
+"Kiedy stwór z bezśmiercią umrze, jeśli nie miał znaczników +1/+1, przywróć "
+"go na pole bitwy ze znacznikiem +1/+1 pod władaniem właściciela.)"
 
 #: ../../UMA.rst:604
 msgid ""
@@ -1869,7 +1873,7 @@ msgid ""
 "sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_b| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
-"tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../UMA.rst:616
 msgid ""
@@ -1894,7 +1898,7 @@ msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
 "control. You lose life equal to its converted mana cost."
 msgstr ""
-"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
 "władaniem. Strać tyle żyć, ile wynosi jej skrócony koszt many."
 
 #: ../../UMA.rst:624
@@ -1951,7 +1955,7 @@ msgid ""
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_1|\\ |mana_b| (Możesz rzucić ten czar za jego koszt "
-"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../UMA.rst:640
 msgid ""
@@ -1963,7 +1967,7 @@ msgstr ""
 #: ../../UMA.rst:639
 msgid ""
 "When Slum Reaper enters the battlefield, each player sacrifices a creature."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../UMA.rst:644
 msgid ""
@@ -2276,7 +2280,7 @@ msgid ""
 "sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_r| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
-"tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../UMA.rst:750
 msgid ""
@@ -2828,7 +2832,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu walki, a drugą w twojej ręce. Następnie przetasuj "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../UMA.rst:944
@@ -2963,7 +2967,7 @@ msgid ""
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, ujawnij cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij cztery wierzchnie karty "
 "twojej biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. "
 "Umieść pozostałe w twoim cmentarzu."
 
@@ -3132,7 +3136,7 @@ msgid ""
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_4|\\ |mana_g| (Możesz rzucić ten czar za jego koszt "
-"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../UMA.rst:1054
 msgid ""
@@ -3254,7 +3258,7 @@ msgid ""
 "When Garna, the Bloodflame enters the battlefield, return to your hand all "
 "creature cards in your graveyard that were put there from anywhere this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć do twojej ręki wszystkie "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć do twojej ręki wszystkie "
 "karty stworów z twojego cmentarza, które został tam umieszczone skądkolwiek "
 "w tej turze."
 
@@ -3775,7 +3779,7 @@ msgstr ""
 
 #: ../../UMA.rst:1297
 msgid "As Cavern of Souls enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten ląd na polu walki, wybierz typ stwora."
+msgstr "Umieszczając ten ląd na polu bitwy, wybierz typ stwora."
 
 #: ../../UMA.rst:1301
 msgid ""
@@ -4048,7 +4052,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../UMA.rst:1414
 msgid ""

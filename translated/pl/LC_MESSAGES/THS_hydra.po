@@ -2,23 +2,23 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <Kozaczko>, 2013.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2020-01-29 23:27+0000\n"
+"PO-Revision-Date: 2021-02-22 09:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/pozostale/"
-"ths_hydra/pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ths_hydra/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 4.4.2\n"
 "X-POOTLE-MTIME: 1380636022.231352\n"
 
 # 26e07668bf534cb692867a6f0b00c9c2
@@ -51,7 +51,7 @@ msgid ""
 msgstr ""
 "Możesz walczyć z Hydrą samodzielnie lub z przyjaciółmi (po prostu wszystkie "
 "poniższe zasady odnoszą się do wszystkich graczy). **Jeśli na końcu każdej "
-"tury na polu walki nie ma żadnej Głowy, wygrywasz!**"
+"tury na polu bitwy nie ma żadnej Głowy, wygrywasz!**"
 
 # 4f95e6e0d3894964b178b5897d50466b
 #: ../../THS_hydra.rst:16
@@ -64,7 +64,7 @@ msgid ""
 "You start with up to two Hero cards on the battlefield. (You don't need a "
 "Hero to play.)"
 msgstr ""
-"Zaczynasz z maksymalnie dwiema kartami Bohatera na polu walki. (Nie "
+"Zaczynasz z maksymalnie dwiema kartami Bohatera na polu bitwy. (Nie "
 "potrzebujesz Bohatera, aby grać.)"
 
 # 17428a987076432dac7af75397e98f06
@@ -75,7 +75,7 @@ msgid ""
 "remaining cards to form the Hydra's Library."
 msgstr ""
 "Wybierz początkową liczbę Głów. Weź tyle **kart nazwanych Głowa Hydry** z "
-"Talii Wyzwania i umieść je na polu walki. Przetasuj pozostałe karty tworząc "
+"Talii Wyzwania i umieść je na polu bitwy. Przetasuj pozostałe karty tworząc "
 "bibliotekę Hydry."
 
 # 6ebc7539fe104f83a55a0673c54b86dc
@@ -104,8 +104,8 @@ msgid ""
 "top two cards of the Hydra's library. Put any Heads onto the battlefield and "
 "any sorcery cards into the Hydra's graveyard."
 msgstr ""
-"**Wyrastanie nowych Głów:** Ilekroć Głowa opuści pole walki, ujawnij dwie "
-"wierzchnie karty z biblioteki Hydry. Umieść wszystkie Głowy na polu walki, a "
+"**Wyrastanie nowych Głów:** Ilekroć Głowa opuści pole bitwy, ujawnij dwie "
+"wierzchnie karty z biblioteki Hydry. Umieść wszystkie Głowy na polu bitwy, a "
 "wszystkie karty obrzędów w cmentarzu Hydry."
 
 # 617822ac82234213a7431f8da50a4b9b
@@ -126,7 +126,7 @@ msgid ""
 "sorcery, follow its instructions and then put it into the Hydra's graveyard."
 msgstr ""
 "Ujawnij wierzchnią kartę biblioteki Hydry. Hydra rzuca ową kartę. Kiedy czar "
-"zostanie rozpatrzony, jeśli to Głowa, umieść ją na polu walki. Jeśli to "
+"zostanie rozpatrzony, jeśli to Głowa, umieść ją na polu bitwy. Jeśli to "
 "obrzęd, podążaj za instrukcjami i następnie umieść go w cmentarzu Hydry."
 
 # a4d45cc3aa4e42aaaab1e10927dfcd69
@@ -197,7 +197,7 @@ msgid ""
 "*Hero's Reward* — When Hydra Head leaves the battlefield, each player gains "
 "2 life."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole walki, każdy gracz zyskuje "
+"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole bitwy, każdy gracz zyskuje "
 "po 2 życia."
 
 # e6beef356d404d5391a80b1f41c0c427
@@ -211,7 +211,7 @@ msgid ""
 "*Hero's Reward* — When Ravenous Brute Head leaves the battlefield, each "
 "player gains 2 life and draws a card."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole walki, każdy gracz zyskuje "
+"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole bitwy, każdy gracz zyskuje "
 "po 2 życia i dobiera kartę."
 
 # 96b44785bc284820bc475d8ceb332503
@@ -234,7 +234,7 @@ msgid ""
 "*Hero's Reward* — When Savage Vigor Head leaves the battlefield, each player "
 "gains 4 life and draws a card."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole walki, każdy gracz zyskuje "
+"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole bitwy, każdy gracz zyskuje "
 "po 4 życia i dobiera kartę."
 
 # d8d481b3fa974e089516caf1068087c3
@@ -253,7 +253,7 @@ msgid ""
 "*Hero's Reward* — When Shrieking Titan Head leaves the battlefield, each "
 "player gains 4 life and draws a card."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole walki, każdy gracz zyskuje "
+"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole bitwy, każdy gracz zyskuje "
 "po 4 życia i dobiera kartę."
 
 # d9fa047526df44d7addb645b03e0bec7
@@ -276,7 +276,7 @@ msgid ""
 "*Hero's Reward* — When Snapping Fang Head leaves the battlefield, each "
 "player gains 4 life and draws a card."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole walki, każdy gracz zyskuje "
+"*Nagroda Bohatera* — Kiedy ta Głowa opuści pole bitwy, każdy gracz zyskuje "
 "po 4 życia i dobiera kartę."
 
 # 79b854521ac04e00a02a82150b1aeb2e
@@ -323,9 +323,9 @@ msgid ""
 "until you reveal a Head card. Put that card onto the battlefield and the "
 "rest into the Hydra's graveyard."
 msgstr ""
-"Umieść na polu walki dokładnie dwie karty nazwane Głowa Hydry z cmentarza "
+"Umieść na polu bitwy dokładnie dwie karty nazwane Głowa Hydry z cmentarza "
 "Hydry. Jeśli nie możesz, ujawniaj karty z wierzchu biblioteki Hydry aż "
-"ujawnisz kartę Głowy. Umieść ową kartę na polu walki, a pozostałe umieść w "
+"ujawnisz kartę Głowy. Umieść ową kartę na polu bitwy, a pozostałe umieść w "
 "cmentarzu Hydry."
 
 # 59e1ed28139c41d9b398e81bb3e5c322
@@ -350,7 +350,7 @@ msgid ""
 "don't untap during the Hydra's next untap step. Otherwise, reveal the top "
 "card of the Hydra's library and the Hydra casts that card."
 msgstr ""
-"Jeśli na polu walki jest pięć lub więcej Głów, przekręć dwie z nich. Nie "
+"Jeśli na polu bitwy jest pięć lub więcej Głów, przekręć dwie z nich. Nie "
 "odkręcą się one w następnym kroku odkręcania Hydry. W przeciwnym razie "
 "ujawnij wierzchnią kartę z biblioteki Hydry i Hydra rzuca ową kartę."
 
@@ -399,7 +399,7 @@ msgid ""
 "battlefield under their owners' control."
 msgstr ""
 "Każdy gracz wygania stwora pod swoim władaniem. Do końca następnej tury "
-"Hydry, kiedy Głowa opuści pole walki, zwróć wygnane karty na pole walki pod "
+"Hydry, kiedy Głowa opuści pole bitwy, zwróć wygnane karty na pole bitwy pod "
 "władaniem ich właścicieli."
 
 # 908428a97d454320ba90dab331e1c9e7
@@ -428,4 +428,4 @@ msgid ""
 "on the battlefield."
 msgstr ""
 "Ten czar zadaje każdemu graczowi po X obrażeń, gdzie X jest liczbą Głów na "
-"polu walki."
+"polu bitwy."

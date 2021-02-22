@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -54,7 +54,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Kiedy rzucisz ten czar, możesz przywrócić wskazaną kartę stwora z twojego "
-"cmentarza na pole walki."
+"cmentarza na pole bitwy."
 
 #: ../../MM2.rst:15 ../../MM2.rst:55
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 msgstr ""
 "–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
 "będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
-"karty na polu walki pod twoim władaniem."
+"karty na polu bitwy pod twoim władaniem."
 
 #: ../../MM2.rst:42
 msgid ""
@@ -456,7 +456,7 @@ msgid ""
 "it on the battlefield."
 msgstr ""
 "Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
-"na polu walki."
+"na polu bitwy."
 
 #: ../../MM2.rst:153
 msgid ""
@@ -570,7 +570,7 @@ msgid ""
 "card to the battlefield under its owner's control with a +1/+1 counter on it."
 msgstr ""
 "Wygnaj wskazanego stwora. Na początku najbliższego kroku końcowego przywróć "
-"ową kartę z umieszczonym znacznikiem +1/+1 na pole walki pod władaniem "
+"ową kartę z umieszczonym znacznikiem +1/+1 na pole bitwy pod władaniem "
 "właściciela."
 
 #: ../../MM2.rst:192
@@ -686,7 +686,7 @@ msgid ""
 "When Aethersnipe enters the battlefield, return target nonland permanent to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany nie-lądowy "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany nie-lądowy "
 "permanent do ręki właściciela."
 
 #: ../../MM2.rst:227
@@ -696,7 +696,7 @@ msgid ""
 msgstr ""
 "Przyzwanie |mana_1|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar za jego "
 "koszt przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole "
-"walki.)"
+"bitwy.)"
 
 #: ../../MM2.rst:234
 msgid ""
@@ -1474,7 +1474,7 @@ msgid ""
 "it to the battlefield under its owner's control with a -1/-1 counter on it.)"
 msgstr ""
 "Wytrwałość (Kiedy ten stwór umrze, jeśli nie miał znaczników -1/-1, przywróć "
-"go na pole walki ze znacznikiem -1/-1 pod władaniem właściciela.)"
+"go na pole bitwy ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../MM2.rst:538
 msgid ""
@@ -1488,7 +1488,7 @@ msgid ""
 "|mana_1|\\ |mana_b|: Return Reassembling Skeleton from your graveyard to the "
 "battlefield tapped."
 msgstr ""
-"|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole walki, "
+"|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy, "
 "przekręconą."
 
 #: ../../MM2.rst:544
@@ -2227,7 +2227,7 @@ msgid ""
 "When Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each "
 "other creature you control with a +1/+1 counter on it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym innym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym innym "
 "stworze pod twoim władaniem mającym znacznik +1/+1."
 
 #: ../../MM2.rst:803
@@ -2382,7 +2382,7 @@ msgstr "Tratowanie"
 
 #: ../../MM2.rst:861
 msgid "When Pelakka Wurm enters the battlefield, you gain 7 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 7 żyć."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 7 żyć."
 
 #: ../../MM2.rst:863
 msgid "When Pelakka Wurm dies, draw a card."
@@ -2703,7 +2703,7 @@ msgid ""
 "Whenever another artifact enters the battlefield under your control, "
 "Glassdust Hulk gets +1/+1 until end of turn and can't be blocked this turn."
 msgstr ""
-"Ilekroć inny artefakt wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Ilekroć inny artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "dostaje +1/+1 do końca tury i nie może być blokowany w tej turze."
 
 #: ../../MM2.rst:979
@@ -3617,14 +3617,14 @@ msgstr ""
 
 #: ../../MM2.rst:1325
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../MM2.rst:1327
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../MM2.rst:1329
@@ -3647,14 +3647,14 @@ msgstr ""
 
 #: ../../MM2.rst:1339
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../MM2.rst:1341
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../MM2.rst:1343
@@ -3687,7 +3687,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../MM2.rst:1360
 msgid ""
@@ -3715,14 +3715,14 @@ msgstr ""
 
 #: ../../MM2.rst:1363
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../MM2.rst:1365
 msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../MM2.rst:1367
@@ -3759,14 +3759,14 @@ msgstr ""
 
 #: ../../MM2.rst:1379
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../MM2.rst:1381
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../MM2.rst:1383
@@ -3824,14 +3824,14 @@ msgstr ""
 
 #: ../../MM2.rst:1403
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../MM2.rst:1405
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../MM2.rst:1407

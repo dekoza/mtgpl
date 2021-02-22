@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:05+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -949,7 +949,7 @@ msgid ""
 "library.)"
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj  w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:360
 msgid ""
@@ -1001,7 +1001,7 @@ msgid ""
 "Artifacts and creatures your opponents control enter the battlefield tapped."
 msgstr ""
 "Artefakty i stwory pod władaniem twoich przeciwników wchodzą przekręcone na "
-"pole walki."
+"pole bitwy."
 
 #: ../../C16.rst:378
 msgid ""
@@ -1032,8 +1032,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/"
-"+1 na każdym stworze pod twoim władaniem."
+"Ilekroć stwór wchodzi na pole bitwy pod twoim władaniem, umieść znacznik +1/+"
+"1 na każdym stworze pod twoim władaniem."
 
 #: ../../C16.rst:390
 msgid ""
@@ -1044,22 +1044,22 @@ msgstr ""
 
 #: ../../C16.rst:385
 msgid "As Citadel Siege enters the battlefield, choose Khans or Dragons."
-msgstr "Umieszczając ten urok na polu walki wybierz Chanów lub Smoki."
+msgstr "Umieszczając ten urok na polu bitwy wybierz Chanów lub Smoki."
 
 #: ../../C16.rst:387
 msgid ""
 "Khans — At the beginning of combat on your turn, put two +1/+1 counters on "
 "target creature you control."
 msgstr ""
-"Chanowie — Na początku walki w twojej turze, umieść dwa znaczniki +1/+1 na "
-"wskazanym stworze pod twoim władaniem."
+"Chanowie — Na początku potyczki w twojej turze, umieść dwa znaczniki +1/+1 "
+"na wskazanym stworze pod twoim władaniem."
 
 #: ../../C16.rst:389
 msgid ""
 "Dragons — At the beginning of combat on each opponent's turn, tap target "
 "creature that player controls."
 msgstr ""
-"Smoki — Na początku walki w turze każdego z przeciwników, przekręć "
+"Smoki — Na początku potyczki w turze każdego z przeciwników, przekręć "
 "wskazanego stwora pod władaniem owego gracza."
 
 #: ../../C16.rst:396
@@ -1107,7 +1107,7 @@ msgid ""
 "with the least toughness among creatures you control and put two +1/+1 "
 "counters on it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wzmocnij 2. (Wybierz stwora z "
+"Kiedy ten stwór wejdzie na pole bitwy, wzmocnij 2. (Wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
 "nim dwa znaczniki +1/+1.)"
 
@@ -1163,7 +1163,7 @@ msgstr ""
 
 #: ../../C16.rst:423
 msgid "Creatures entering the battlefield don't cause abilities to trigger."
-msgstr "Stwory wchodzące na pole walki nie powodują wyzwalania zdolności."
+msgstr "Stwory wchodzące na pole bitwy nie powodują wyzwalania zdolności."
 
 #: ../../C16.rst:428
 msgid ""
@@ -1177,7 +1177,7 @@ msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, you may pay |mana_1|. If you do, draw a card."
 msgstr ""
-"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole walki pod twoim "
+"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole bitwy pod twoim "
 "władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../C16.rst:434
@@ -1249,8 +1249,8 @@ msgid ""
 "When Reveillark leaves the battlefield, return up to two target creature "
 "cards with power 2 or less from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór opuści pole walki, przywróć co najwyżej dwie wskazane karty "
-"stworów o sile 2 lub mniejszej z twojego cmentarza na pole walki."
+"Kiedy ten stwór opuści pole bitwy, przywróć co najwyżej dwie wskazane karty "
+"stworów o sile 2 lub mniejszej z twojego cmentarza na pole bitwy."
 
 #: ../../C16.rst:453
 msgid ""
@@ -1258,7 +1258,7 @@ msgid ""
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przyzwanie |mana_5|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
-"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole walki.)"
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../C16.rst:458
 msgid ""
@@ -1708,8 +1708,11 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:605
+#, fuzzy
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
 msgstr ""
+"Umieść na polu bitwy trzynaście przekręconych żetonów czarnego stwora Zombi "
+"2/2."
 
 #: ../../C16.rst:607
 msgid ""
@@ -1820,7 +1823,7 @@ msgid ""
 msgstr ""
 "Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
 "zakrytego stosu, przetasuj ów stos, następnie objaw owe karty. (Aby objawić "
-"kartę, umieść ją zakrytą na polu walki jako stwora 2/2. Odkryj ją w dowolnym "
+"kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj ją w dowolnym "
 "momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 #: ../../C16.rst:644
@@ -1970,7 +1973,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli "
 "tak zrobisz, przywróć wskazaną kartę stwora o sile 2 lub mniejszej z twojego "
-"cmentarza na pole walki przekręconą i atakującą."
+"cmentarza na pole bitwy przekręconą i atakującą."
 
 #: ../../C16.rst:692
 msgid ""
@@ -2276,7 +2279,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt."
 
 #: ../../C16.rst:789
 msgid "Return target artifact card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę artefaktu z twojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną kartę artefaktu z twojego cmentarza na pole bitwy."
 
 #: ../../C16.rst:794
 msgid ""
@@ -2347,10 +2350,13 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:811
+#, fuzzy
 msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
+"Zniszcz wskazany permanent. Jego władca kładzie na polu bitwy żeton "
+"zielonego stwora Bestia 3/3."
 
 #: ../../C16.rst:818
 msgid ""
@@ -2404,7 +2410,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, put a "
 "+1/+1 counter on Champion of Lambholt."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na niniejszym stworze."
 
 #: ../../C16.rst:832
@@ -2436,7 +2442,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu walki, a drugą w twojej ręce. Następnie przetasuj "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../C16.rst:844
@@ -2573,7 +2579,7 @@ msgstr ""
 
 #: ../../C16.rst:877
 msgid "Kalonian Hydra enters the battlefield with four +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając cztery znaczniki +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1."
 
 #: ../../C16.rst:879
 msgid ""
@@ -2604,7 +2610,7 @@ msgid ""
 "that card on the bottom of your library."
 msgstr ""
 "Ilekroć przeciwnik rzuci czar, ujawnij wierzchnią kartę twojej biblioteki. "
-"Jeśli jest to karta stwora, umieść ją na polu walki. W przeciwnym razie "
+"Jeśli jest to karta stwora, umieść ją na polu bitwy. W przeciwnym razie "
 "możesz umieścić ową kartę na spodzie twojej biblioteki."
 
 #: ../../C16.rst:894
@@ -2632,8 +2638,8 @@ msgid ""
 "creatures. This creature enters the battlefield with twice that many +1/+1 "
 "counters on it.)"
 msgstr ""
-"Pożarcie 2 (Umieszczając tego stwora na polu walki możesz poświęcić dowolną "
-"liczbę stworów. Ten stwór wchodzi na pole walki mając dwukrotnie tyle "
+"Pożarcie 2 (Umieszczając tego stwora na polu bitwy możesz poświęcić dowolną "
+"liczbę stworów. Ten stwór wchodzi na pole bitwy mając dwukrotnie tyle "
 "znaczników +1/+1.)"
 
 #: ../../C16.rst:899
@@ -2749,7 +2755,7 @@ msgid ""
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, ujawnij cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij cztery wierzchnie karty "
 "twojej biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. "
 "Umieść pozostałe w twoim cmentarzu."
 
@@ -2915,7 +2921,7 @@ msgstr "Obronność"
 
 #: ../../C16.rst:985
 msgid "When Wall of Blossoms enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../C16.rst:990
 msgid ""
@@ -3006,7 +3012,7 @@ msgstr "Latanie, dotyk śmierci"
 
 #: ../../C16.rst:1019
 msgid "When Baleful Strix enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../C16.rst:1026
 msgid ""
@@ -3274,7 +3280,7 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Ewoluuje (Ilekroć jakiś stwór wejdzie na pole walki pod twoim władaniem, "
+"Ewoluuje (Ilekroć jakiś stwór wejdzie na pole bitwy pod twoim władaniem, "
 "jeśli ów stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść "
 "znacznik +1/+1 na niniejszym stworze.)"
 
@@ -3296,7 +3302,7 @@ msgid ""
 "When Filigree Angel enters the battlefield, you gain 3 life for each "
 "artifact you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia za każdy artefakt pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia za każdy artefakt pod "
 "twoim władaniem."
 
 #: ../../C16.rst:1130
@@ -3494,7 +3500,7 @@ msgid ""
 "additional +1/+1 counters on it equal to Master Biomancer's power and as a "
 "Mutant in addition to its other types."
 msgstr ""
-"Każdy inny stwór pod twoim władaniem wchodzi na pole walki mając tyle "
+"Każdy inny stwór pod twoim władaniem wchodzi na pole bitwy mając tyle "
 "dodatkowych znaczników +1/+1, ile wynosi siła niniejszego stwora oraz jest "
 "dodatkowo typu Mutant oprócz swoich pozostałych typów."
 
@@ -3597,8 +3603,8 @@ msgid ""
 "upkeep, if this creature isn't a token, create a token that's a copy of this "
 "creature.\""
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
-"stwora na polu walki, ale dodatkowo ma zdolność \"Na początku twojego kroku "
+"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale dodatkowo ma zdolność \"Na początku twojego kroku "
 "utrzymania, jeśli ten stwór nie jest żetonem, stwórz żeton będący kopią tego "
 "stwora.\""
 
@@ -4001,7 +4007,7 @@ msgstr ""
 msgid ""
 "When Akroan Horse enters the battlefield, an opponent gains control of it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przeciwnik zyskuje nad nim władanie."
+"Kiedy ten stwór wejdzie na pole bitwy, przeciwnik zyskuje nad nim władanie."
 
 #: ../../C16.rst:1375
 msgid ""
@@ -4043,7 +4049,7 @@ msgstr ""
 
 #: ../../C16.rst:1387
 msgid "Astral Cornucopia enters the battlefield with X charge counters on it."
-msgstr "Ten artefakt wchodzi na pole walki mając X znaczników ładowania."
+msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładowania."
 
 #: ../../C16.rst:1389
 msgid ""
@@ -4101,7 +4107,7 @@ msgid ""
 msgstr ""
 "|tap|: Wskaż dowolne stwory. Każdy z owych stworów zyskuje wytrwałość do "
 "końca tury. (Kiedy umrze, jeśli nie miał znaczników -1/-1, przywróć go na "
-"pole walki ze znacznikiem -1/-1 pod władaniem właściciela.)"
+"pole bitwy ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../C16.rst:1412
 msgid ""
@@ -4338,7 +4344,7 @@ msgid ""
 "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr "
 "artifact creature tokens."
 msgstr ""
-"Kiedy Kwasowy Szlam wejdzie na pole walki, zniszcz wskazany artefakt, urok "
+"Kiedy Kwasowy Szlam wejdzie na pole bitwy, zniszcz wskazany artefakt, urok "
 "albo ląd."
 
 #: ../../C16.rst:1497
@@ -4476,8 +4482,8 @@ msgid ""
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu walki, następnie "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:1549
@@ -4646,14 +4652,14 @@ msgstr ""
 
 #: ../../C16.rst:1615
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../C16.rst:1617
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C16.rst:1619
@@ -4702,7 +4708,7 @@ msgstr ""
 
 #: ../../C16.rst:1639
 msgid "Crumbling Necropolis enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1641
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
@@ -4735,14 +4741,14 @@ msgstr ""
 
 #: ../../C16.rst:1655
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../C16.rst:1657
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C16.rst:1659
@@ -4758,11 +4764,11 @@ msgstr ""
 
 #: ../../C16.rst:1663
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1665
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C16.rst:1667
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4780,7 +4786,7 @@ msgid ""
 "Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
 "or a Mountain."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Bagnem lub Górą."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Bagnem lub Górą."
 
 #: ../../C16.rst:1673
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4816,7 +4822,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:1690
 msgid ""
@@ -4847,7 +4853,7 @@ msgstr ""
 
 #: ../../C16.rst:1699
 msgid "Frontier Bivouac enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1701
 msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
@@ -4862,14 +4868,14 @@ msgstr ""
 
 #: ../../C16.rst:1705
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../C16.rst:1707
 msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C16.rst:1709
@@ -4932,14 +4938,14 @@ msgstr ""
 
 #: ../../C16.rst:1735
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../C16.rst:1737
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C16.rst:1739
@@ -4955,11 +4961,11 @@ msgstr ""
 
 #: ../../C16.rst:1743
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1745
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C16.rst:1747
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4974,7 +4980,7 @@ msgstr ""
 
 #: ../../C16.rst:1751
 msgid "Jungle Shrine enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1753
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
@@ -5078,7 +5084,7 @@ msgstr ""
 
 #: ../../C16.rst:1795
 msgid "Mystic Monastery enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1797
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
@@ -5093,7 +5099,7 @@ msgstr ""
 
 #: ../../C16.rst:1801
 msgid "Nomad Outpost enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1803
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
@@ -5123,7 +5129,7 @@ msgstr ""
 
 #: ../../C16.rst:1813
 msgid "Opulent Palace enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1815
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
@@ -5190,7 +5196,7 @@ msgid ""
 "Rootbound Crag enters the battlefield tapped unless you control a Mountain "
 "or a Forest."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Górą lub Lasem."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Górą lub Lasem."
 
 #: ../../C16.rst:1843 ../../C16.rst:1851
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -5205,11 +5211,11 @@ msgstr ""
 
 #: ../../C16.rst:1847
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1849
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C16.rst:1860
 msgid ""
@@ -5220,15 +5226,15 @@ msgstr ""
 
 #: ../../C16.rst:1855
 msgid "Rupture Spire enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1857
 msgid ""
 "When Rupture Spire enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, poświęć ją, chyba że zapłacisz |"
-"mana_1|."
+"Kiedy ta karta wejdzie na pole bitwy, poświęć ją, chyba że zapłacisz "
+"|mana_1|."
 
 #: ../../C16.rst:1866
 msgid ""
@@ -5239,7 +5245,7 @@ msgstr ""
 
 #: ../../C16.rst:1863
 msgid "Sandsteppe Citadel enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1865
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
@@ -5299,14 +5305,14 @@ msgstr ""
 
 #: ../../C16.rst:1887
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../C16.rst:1889
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C16.rst:1891
@@ -5381,7 +5387,7 @@ msgid ""
 "Sunpetal Grove enters the battlefield tapped unless you control a Forest or "
 "a Plains."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Lasem lub "
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Lasem lub "
 "Równiną."
 
 #: ../../C16.rst:1921
@@ -5397,11 +5403,11 @@ msgstr ""
 
 #: ../../C16.rst:1925
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1927
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C16.rst:1929
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -5433,7 +5439,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:1946
 msgid ""
@@ -5444,11 +5450,11 @@ msgstr ""
 
 #: ../../C16.rst:1941
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1943
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C16.rst:1945
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -5463,14 +5469,14 @@ msgstr ""
 
 #: ../../C16.rst:1949
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1951
 msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you "
 "pay |mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki poświęć go, chyba że zapłacisz |mana_1|."
+"Kiedy ten ląd wejdzie na pole bitwy poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../C16.rst:1960
 msgid ""

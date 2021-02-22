@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/pls/pl/>\n"
 "Language: pl\n"
@@ -309,7 +309,7 @@ msgstr ""
 
 #: ../../PLS.rst:101
 msgid "Cast this spell only during combat."
-msgstr "Możesz rzucić ten czar tylko podczas walki."
+msgstr "Możesz rzucić ten czar tylko podczas potyczki."
 
 #: ../../PLS.rst:103
 msgid ""
@@ -939,7 +939,7 @@ msgid ""
 "When Flametongue Kavu enters the battlefield, it deals 4 damage to target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu stworowi 4 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu stworowi 4 "
 "obrażenia."
 
 #: ../../PLS.rst:336
@@ -1756,8 +1756,7 @@ msgstr ""
 
 #: ../../PLS.rst:631
 msgid "As Meddling Mage enters the battlefield, choose a nonland card name."
-msgstr ""
-"Umieszczając tego stwora na polu walki wybierz nazwę nie-lądowej karty."
+msgstr "Umieszczając tego stwora na polu bitwy wybierz nazwę nie-lądowej karty."
 
 #: ../../PLS.rst:633
 msgid "Spells with the chosen name can't be cast."

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rna/pl/>\n"
 "Language: pl\n"
@@ -48,7 +48,7 @@ msgid ""
 "When Angel of Grace enters the battlefield, until end of turn, damage that "
 "would reduce your life total to less than 1 reduces it to 1 instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, do końca tury obrażenia mogące "
+"Kiedy ten stwór wejdzie na pole bitwy, do końca tury obrażenia mogące "
 "zredukować twoje życia do mniej niż 1 zamiast tego redukują je do 1."
 
 #: ../../RNA.rst:15
@@ -86,7 +86,7 @@ msgid ""
 "When Archway Angel enters the battlefield, you gain 2 life for each Gate you "
 "control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia za każdą Bramę pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia za każdą Bramę pod "
 "twoim władaniem."
 
 #: ../../RNA.rst:32
@@ -131,7 +131,7 @@ msgid ""
 "When Civic Stalwart enters the battlefield, creatures you control get +1/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają +1/"
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają +1/"
 "+1 do końca tury."
 
 #: ../../RNA.rst:44
@@ -165,7 +165,7 @@ msgid ""
 "creatures can't attack you or a planeswalker you control unless their "
 "controller pays |mana_2| for each of those creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, do twojej następnej tury stwory nie "
+"Kiedy ten stwór wejdzie na pole bitwy, do twojej następnej tury stwory nie "
 "mogą atakować ciebie ani wędrowców pod twoim władaniem, chyba że ich władca "
 "zapłaci |mana_2| za każdego z owych stworów."
 
@@ -181,7 +181,7 @@ msgid ""
 "When Haazda Officer enters the battlefield, target creature you control gets "
 "+1/+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "dostaje do końca tury +1/+1."
 
 #: ../../RNA.rst:60
@@ -210,7 +210,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj 1 życie."
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../RNA.rst:68
 msgid ""
@@ -225,7 +225,7 @@ msgid ""
 "under its owner's control. It gains first strike until end of turn."
 msgstr ""
 "Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole walki pod władaniem właściciela. Zyskuje on pierwszy cios do końca "
+"na pole bitwy pod władaniem właściciela. Zyskuje on pierwszy cios do końca "
 "tury."
 
 #: ../../RNA.rst:74
@@ -264,8 +264,8 @@ msgid ""
 "When Lumbering Battlement enters the battlefield, exile any number of other "
 "nontoken creatures you control until it leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj dowolną liczbę innych "
-"nieżetonowych stworów pod twoim władaniem dopóki nie opuści on pola walki."
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj dowolną liczbę innych "
+"nieżetonowych stworów pod twoim władaniem dopóki nie opuści on pola bitwy."
 
 #: ../../RNA.rst:81
 msgid "Lumbering Battlement gets +2/+2 for each card exiled with it."
@@ -347,7 +347,7 @@ msgid ""
 "Addendum — When Sentinel's Mark enters the battlefield, if you cast it "
 "during your main phase, enchanted creature gains lifelink until end of turn."
 msgstr ""
-"Dopisek — Kiedy ten urok wejdzie na pole walki, jeśli został rzucony w "
+"Dopisek — Kiedy ten urok wejdzie na pole bitwy, jeśli został rzucony w "
 "twojej fazie głównej, zauroczony stwór zyskuje więź życia do końca tury."
 
 #: ../../RNA.rst:116
@@ -489,7 +489,7 @@ msgid ""
 "When Watchful Giant enters the battlefield, create a 1/1 white Human "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Człowiek "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Człowiek "
 "1/1."
 
 #: ../../RNA.rst:170
@@ -543,7 +543,7 @@ msgid ""
 "When Chillbringer enters the battlefield, tap target creature an opponent "
 "controls. It doesn't untap during its controller's next untap step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Nie odkręci się on w najbliższym kroku odkręcania "
 "jego władcy."
 
@@ -635,7 +635,7 @@ msgid ""
 "When Faerie Duelist enters the battlefield, target creature an opponent "
 "controls gets -2/-0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -2/-0."
 
 #: ../../RNA.rst:224
@@ -650,7 +650,7 @@ msgid ""
 "Whenever a Gate enters the battlefield under your control, Gateway Sneak "
 "can't be blocked this turn."
 msgstr ""
-"Ilekroć Brama wejdzie na pole walki pod twoim władaniem, ten stwór nie może "
+"Ilekroć Brama wejdzie na pole bitwy pod twoim władaniem, ten stwór nie może "
 "być blokowany w tej turze."
 
 #: ../../RNA.rst:223
@@ -696,7 +696,7 @@ msgid ""
 "Illusion creature tokens with \"Whenever this creature blocks a creature, "
 "that creature doesn't untap during its controller's next untap step.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony niebieskiego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony niebieskiego stwora "
 "Iluzja 0/2 mające \"Ilekroć ten stwór zablokuje stwora, ów stwór nie odkręci "
 "się w najbliższym kroku odkręcania jego władcy.\""
 
@@ -794,7 +794,7 @@ msgstr ""
 
 #: ../../RNA.rst:269
 msgid "When Sage's Row Savant enters the battlefield, scry 2."
-msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 2."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
 
 #: ../../RNA.rst:276
 msgid ""
@@ -939,7 +939,7 @@ msgid ""
 "When Wall of Lost Thoughts enters the battlefield, target player mills four "
 "cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz mieli cztery karty."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli cztery karty."
 
 #: ../../RNA.rst:336
 msgid ""
@@ -998,7 +998,7 @@ msgid ""
 "When Blade Juggler enters the battlefield, it deals 1 damage to you and you "
 "draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje tobie 1 obrażenie, dobierz "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje tobie 1 obrażenie, dobierz "
 "kartę."
 
 #: ../../RNA.rst:358
@@ -1039,7 +1039,7 @@ msgid ""
 "When Carrion Imp enters the battlefield, you may exile target creature card "
 "from a graveyard. If you do, you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazaną kartę stwora z "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazaną kartę stwora z "
 "dowolnego cmentarza. Jeśli tak zrobisz, zyskaj 2 życia."
 
 #: ../../RNA.rst:370
@@ -1094,7 +1094,7 @@ msgid ""
 "would die this turn, exile it instead."
 msgstr ""
 "Wszystkie stwory dostają do końca tury -2/-2. Wygnaj ze wszystkich cmentarzy "
-"wszystkie karty stworów, które zostały tam umieszczone z pola walki w tej "
+"wszystkie karty stworów, które zostały tam umieszczone z pola bitwy w tej "
 "turze. Jeśli stwór miałby umrzeć w ten sposób, zamiast tego wygnaj go."
 
 #: ../../RNA.rst:390
@@ -1188,7 +1188,7 @@ msgstr ""
 
 #: ../../RNA.rst:413
 msgid "Gutterbones enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../RNA.rst:415
 msgid ""
@@ -1365,7 +1365,7 @@ msgid ""
 "When Spire Mangler enters the battlefield, target creature with flying you "
 "control gets +2/+0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór z lataniem pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór z lataniem pod twoim "
 "władaniem dostaje do końca tury +2/+0."
 
 #: ../../RNA.rst:480
@@ -1396,7 +1396,7 @@ msgid ""
 "creature. If you do, put two +1/+1 counters on Undercity Scavenger, then "
 "scry 2."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić innego stwora. Jeśli "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić innego stwora. Jeśli "
 "tak zrobisz, umieść dwa znaczniki +1/+1 na niniejszym stworze, następnie "
 "wróż 2."
 
@@ -1491,7 +1491,7 @@ msgid ""
 "Riot (This creature enters the battlefield with your choice of a +1/+1 "
 "counter or haste.)"
 msgstr ""
-"Zamieszki (Możesz wybrać, czy ten stwór wejdzie na pole walki mając znacznik "
+"Zamieszki (Możesz wybrać, czy ten stwór wejdzie na pole bitwy mając znacznik "
 "+1/+1, czy pośpiech.)"
 
 #: ../../RNA.rst:509
@@ -1546,7 +1546,7 @@ msgid ""
 "When Dagger Caster enters the battlefield, it deals 1 damage to each "
 "opponent and 1 damage to each creature your opponents control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje każdemu przeciwnikowi oraz "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje każdemu przeciwnikowi oraz "
 "każdemu stworowi pod ich władaniem po 1 obrażeniu."
 
 #: ../../RNA.rst:532
@@ -1715,7 +1715,7 @@ msgid ""
 "copy of that creature. Those tokens gain haste. Exile them at the beginning "
 "of the next end step."
 msgstr ""
-"Ilekroć nie-żetonowy stwór wejdzie na pole walki pod twoim władaniem, rzucaj "
+"Ilekroć nie-żetonowy stwór wejdzie na pole bitwy pod twoim władaniem, rzucaj "
 "monetą dopóki nie przegrasz rzutu. Za każdy wygrany rzut stwórz żeton będący "
 "kopią owego stwora. Owe żetony zyskują pośpiech. Wygnaj je na początku "
 "najbliższego kroku końcowego."
@@ -1742,7 +1742,7 @@ msgid ""
 "card. If Rix Maadi Reveler's spectacle cost was paid, instead discard your "
 "hand, then draw three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, odrzuć kartę, następnie dobierz "
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć kartę, następnie dobierz "
 "kartę. Jeśli został opłacony koszt widowiska tego stwora, zamiast tego "
 "odrzuć rękę, następnie dobierz trzy karty."
 
@@ -1781,7 +1781,7 @@ msgid ""
 "counters on creatures you control. Creatures your opponents control with "
 "power less than or equal to that number can't block this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, policz znaczniki +1/+1 na stworach "
+"Kiedy ten stwór wejdzie na pole bitwy, policz znaczniki +1/+1 na stworach "
 "pod twoim władaniem. Stwory pod władaniem twoich przeciwników mające siłę "
 "równą owej liczbie lub mniejszą, nie mogą blokować w tej turze."
 
@@ -1922,8 +1922,8 @@ msgid ""
 "When Biogenic Ooze enters the battlefield, create a 2/2 green Ooze creature "
 "token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora Szlam "
-"2/2."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Szlam 2/"
+"2."
 
 #: ../../RNA.rst:647
 msgid ""
@@ -1972,7 +1972,7 @@ msgid ""
 "When End-Raze Forerunners enters the battlefield, other creatures you "
 "control get +2/+2 and gain vigilance and trample until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, inne stwory pod twoim władaniem "
 "dostają do końca tury +2/+2 oraz czujność i tratowanie."
 
 #: ../../RNA.rst:664
@@ -2068,7 +2068,7 @@ msgid ""
 "it doesn't have the same name as another creature you control or a creature "
 "card in your graveyard, draw a card."
 msgstr ""
-"Ilekroć nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, jeśli "
+"Ilekroć nieżetonowy stwór wejdzie na pole bitwy pod twoim władaniem, jeśli "
 "nie ma on tej samej nazwy, co inna karta stwora pod twoim władaniem lub w "
 "twoim cmentarzu, dobierz kartę."
 
@@ -2227,7 +2227,7 @@ msgid ""
 "it on top of your library. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora lub lądu i "
 "umieścić ją na wierzchu twojej biblioteki. Umieść pozostałe losowo na "
 "spodzie twojej biblioteki."
@@ -2266,7 +2266,7 @@ msgstr ""
 
 #: ../../RNA.rst:749
 msgid "When Sylvan Brushstrider enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../RNA.rst:754
 msgid ""
@@ -2281,7 +2281,7 @@ msgid ""
 "your control, Territorial Boar gets +1/+1 and gains vigilance until end of "
 "turn."
 msgstr ""
-"Ilekroć stwór o sile 4 lub większej wejdzie na pole walki pod twoim "
+"Ilekroć stwór o sile 4 lub większej wejdzie na pole bitwy pod twoim "
 "władaniem, niniejszy stwór dostaje do końca tury +1/+1 oraz czujność."
 
 #: ../../RNA.rst:760
@@ -2429,7 +2429,7 @@ msgid ""
 "When Basilica Bell-Haunt enters the battlefield, each opponent discards a "
 "card and you gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik odrzuca kartę, a ty "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę, a ty "
 "zyskaj 3 życia."
 
 #: ../../RNA.rst:818
@@ -2570,7 +2570,7 @@ msgid ""
 "battlefield with an additional +1/+1 counter on it."
 msgstr ""
 "|mana_1|\\ |mana_g|, |tap|: W tej turze każdy stwór pod twoim władaniem "
-"wchodzi na pole walki mając dodatkowy znacznik +1/+1."
+"wchodzi na pole bitwy mając dodatkowy znacznik +1/+1."
 
 #: ../../RNA.rst:857
 msgid ""
@@ -2617,10 +2617,10 @@ msgid ""
 "controls with the same name as that permanent until Deputy of Detention "
 "leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
 "pod władaniem przeciwnika oraz wszystkie inne nie-lądowe permanenty władane "
 "przez owego gracza mające taką samą nazwę jak ów permanent dopóki niniejszy "
-"stwór nie opuści pola walki."
+"stwór nie opuści pola bitwy."
 
 #: ../../RNA.rst:876
 msgid ""
@@ -2636,7 +2636,7 @@ msgid ""
 "or haste.)"
 msgstr ""
 "+1: Weź |mana_r| lub |mana_g|. Jeśli owa mana zostanie użyta na czar stwora, "
-"zyskuje on zamieszki. (Możesz wybrać, czy wejdzie na pole walki mając "
+"zyskuje on zamieszki. (Możesz wybrać, czy wejdzie na pole bitwy mając "
 "znacznik +1/+1, czy pośpiech.)"
 
 #: ../../RNA.rst:873
@@ -2698,7 +2698,7 @@ msgstr ""
 #: ../../RNA.rst:887
 msgid ""
 "When Dovin's Acuity enters the battlefield, you gain 2 life and draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia i dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia i dobierz kartę."
 
 #: ../../RNA.rst:889
 msgid ""
@@ -2731,7 +2731,7 @@ msgid ""
 msgstr ""
 "Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, możesz umieścić "
 "kartę permanentu o skróconym koszcie many 7 lub mniejszym z twojej ręki na "
-"polu walki."
+"polu bitwy."
 
 #: ../../RNA.rst:904
 msgid ""
@@ -2815,8 +2815,7 @@ msgstr ""
 #: ../../RNA.rst:929
 msgid ""
 "When Frilled Mystic enters the battlefield, you may counter target spell."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz skontrować wskazany czar."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, możesz skontrować wskazany czar."
 
 #: ../../RNA.rst:936
 msgid ""
@@ -2831,7 +2830,7 @@ msgid ""
 "+1/+1 counters from among creatures you control. If you do, put twice that "
 "many +1/+1 counters on Galloping Lizrog."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz usunąć dowolną liczbę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz usunąć dowolną liczbę "
 "znaczników +1/+1 spośród stworów pod twoim władaniem. Jeśli tak zrobisz, "
 "umieść dwukrotnie tyle znaczników +1/+1 na tym stworze."
 
@@ -2858,7 +2857,7 @@ msgid ""
 "When Grasping Thrull enters the battlefield, it deals 2 damage to each "
 "opponent and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje każdemu przeciwnikowi po 2 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje każdemu przeciwnikowi po 2 "
 "obrażenia, a ty zyskaj 2 życia."
 
 #: ../../RNA.rst:950
@@ -2871,7 +2870,7 @@ msgstr ""
 #: ../../RNA.rst:949
 msgid ""
 "Draw a card. You may put a land card from your hand onto the battlefield."
-msgstr "Dobierz kartę. Możesz umieścić kartę lądu z twojej ręki na polu walki."
+msgstr "Dobierz kartę. Możesz umieścić kartę lądu z twojej ręki na polu bitwy."
 
 #: ../../RNA.rst:958
 msgid ""
@@ -2959,7 +2958,7 @@ msgstr ""
 
 #: ../../RNA.rst:985
 msgid "Hydroid Krasis enters the battlefield with X +1/+1 counters on it."
-msgstr "Ta karta wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ta karta wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../RNA.rst:992
 msgid ""
@@ -3108,7 +3107,7 @@ msgid ""
 "under your control. It gets +2/+0 and gains haste until end of turn. "
 "Sacrifice it at the beginning of the next end step."
 msgstr ""
-"Umieść na polu walki pod twoim władaniem wskazaną kartę stwora z cmentarza "
+"Umieść na polu bitwy pod twoim władaniem wskazaną kartę stwora z cmentarza "
 "przeciwnika. Dostaje ona do końca tury +2/+0 oraz pośpiech. Poświęć ją na "
 "początku najbliższego kroku końcowego."
 
@@ -3175,7 +3174,7 @@ msgid ""
 msgstr ""
 "|tap|, poświęć innego stwora: Wyszukaj w twojej bibliotece kartę stwora o "
 "skróconym koszcie many większym o 1 od skróconego kosztu many poświęconego "
-"stwora, umieść ową kartę na polu walki, następnie przetasuj twoją "
+"stwora, umieść ową kartę na polu bitwy, następnie przetasuj twoją "
 "bibliotekę. Aktywuj jako obrzęd."
 
 #: ../../RNA.rst:1058
@@ -3199,7 +3198,7 @@ msgid ""
 "When Rafter Demon enters the battlefield, if its spectacle cost was paid, "
 "each opponent discards a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli opłacono jego koszt widowiska, "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli opłacono jego koszt widowiska, "
 "każdy przeciwnik odrzuca kartę."
 
 #: ../../RNA.rst:1062
@@ -3214,7 +3213,7 @@ msgid ""
 "When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target "
 "opponent and 2 damage to up to one target creature or planeswalker."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu przeciwnikowi 2 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu przeciwnikowi 2 "
 "obrażenia oraz 2 obrażenia co najwyżej jednemu wskazanemu stworowi lub "
 "wędrowcowi."
 
@@ -3246,7 +3245,7 @@ msgid ""
 "creature that isn't a Demon, Devil, or Imp. Destroy each creature whose coin "
 "comes up tails."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, rzuć monetą za każdego stwora nie "
+"Kiedy ten stwór wejdzie na pole bitwy, rzuć monetą za każdego stwora nie "
 "będącego Demonem, Diabłem lub Impem. Zniszcz każdego stwora, dla którego "
 "wygrasz rzut."
 
@@ -3259,7 +3258,7 @@ msgstr ""
 
 #: ../../RNA.rst:1077
 msgid "When Ravager Wurm enters the battlefield, choose up to one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz co najwyżej jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz co najwyżej jedno —"
 
 #: ../../RNA.rst:1079
 msgid "Ravager Wurm fights target creature you don't control."
@@ -3287,7 +3286,7 @@ msgid ""
 "your choice of a +1/+1 counter or haste.)"
 msgstr ""
 "Nie-żetonowe stwory pod twoim władaniem mają zamieszki. (Dla każdego z nich "
-"wybierz, czy wchodzi na pole walki ze znacznikiem +1/+1, czy z pośpiechem.)"
+"wybierz, czy wchodzi na pole bitwy ze znacznikiem +1/+1, czy z pośpiechem.)"
 
 #: ../../RNA.rst:1092
 msgid ""
@@ -3531,7 +3530,7 @@ msgid ""
 "When Zegana, Utopian Speaker enters the battlefield, if you control another "
 "creature with a +1/+1 counter on it, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym stworem mającym "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym stworem mającym "
 "znacznik +1/+1, dobierz kartę."
 
 #: ../../RNA.rst:1169
@@ -3602,7 +3601,7 @@ msgstr ""
 
 #: ../../RNA.rst:1197
 msgid "When Senate Griffin enters the battlefield, scry 1."
-msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 1."
 
 #: ../../RNA.rst:1202
 msgid ""
@@ -3811,7 +3810,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Przywróć wskazaną kartę stwora o skróconym koszcie many 3 lub mniejszym z "
-"twojego cmentarza na pole walki."
+"twojego cmentarza na pole bitwy."
 
 #: ../../RNA.rst:1270
 msgid ""
@@ -3921,7 +3920,7 @@ msgid ""
 "Whenever a Gate enters the battlefield under your control, you may put Gate "
 "Colossus from your graveyard on top of your library."
 msgstr ""
-"Ilekroć Brama wejdzie na pole walki pod twoim władaniem, możesz umieścić tę "
+"Ilekroć Brama wejdzie na pole bitwy pod twoim władaniem, możesz umieścić tę "
 "kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../RNA.rst:1304
@@ -4109,7 +4108,7 @@ msgstr ""
 
 #: ../../RNA.rst:1363
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1372
 msgid ""
@@ -4127,8 +4126,8 @@ msgid ""
 "As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it "
 "enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1378
 msgid ""
@@ -4146,8 +4145,8 @@ msgid ""
 "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1386
 msgid ""
@@ -4158,14 +4157,14 @@ msgstr ""
 
 #: ../../RNA.rst:1381
 msgid "Gateway Plaza enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1383
 msgid ""
 "When Gateway Plaza enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, poświęć go, chyba że zapłacisz |mana_1|."
+"Kiedy ten ląd wejdzie na pole bitwy, poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../RNA.rst:1392
 msgid ""
@@ -4183,8 +4182,8 @@ msgid ""
 "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1398
 msgid ""
@@ -4195,7 +4194,7 @@ msgstr ""
 
 #: ../../RNA.rst:1395
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1404
 msgid ""
@@ -4213,8 +4212,8 @@ msgid ""
 "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you "
 "don't, it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1410
 msgid ""
@@ -4225,7 +4224,7 @@ msgstr ""
 
 #: ../../RNA.rst:1407
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1418
 msgid ""
@@ -4239,7 +4238,7 @@ msgid ""
 "When Plaza of Harmony enters the battlefield, if you control two or more "
 "Gates, you gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli władasz co najmniej dwiema "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz co najmniej dwiema "
 "Bramami, zyskaj 3 życia."
 
 #: ../../RNA.rst:1415
@@ -4261,7 +4260,7 @@ msgstr ""
 
 #: ../../RNA.rst:1421
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1430
 msgid ""
@@ -4272,7 +4271,7 @@ msgstr ""
 
 #: ../../RNA.rst:1427
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1436
 msgid ""
@@ -4290,8 +4289,8 @@ msgid ""
 "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RNA.rst:1440
 msgid ""
@@ -4493,7 +4492,7 @@ msgid ""
 "or graveyard for a card named Domri, City Smasher, reveal it, and put it "
 "into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Domri, City Smasher, ujawnij ją i umieść w "
 "twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 

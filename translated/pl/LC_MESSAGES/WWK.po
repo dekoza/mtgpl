@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -70,7 +70,7 @@ msgid ""
 "Apex Hawks enters the battlefield with a +1/+1 counter on it for each time "
 "it was kicked."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile razy został "
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
 "podbity."
 
 #: ../../WWK.rst:28
@@ -86,7 +86,7 @@ msgid ""
 "battlefield under your control, you may gain life equal to that creature's "
 "power."
 msgstr ""
-"Ilekroć ten lub inny stwór mający latanie wejdzie na pole walki pod twoim "
+"Ilekroć ten lub inny stwór mający latanie wejdzie na pole bitwy pod twoim "
 "władaniem, możesz zyskać życia równe sile owego stwora."
 
 #: ../../WWK.rst:32
@@ -217,7 +217,7 @@ msgid ""
 "When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each "
 "time it was kicked."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj po 2 życia za każde podbicie "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 2 życia za każde podbicie "
 "go."
 
 #: ../../WWK.rst:78
@@ -744,7 +744,7 @@ msgid ""
 "flying until end of turn, where X is the number of times Voyager Drake was "
 "kicked."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, co najwyżej X wskazanych stworów "
+"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej X wskazanych stworów "
 "zyskuje latanie do końca tury, gdzie X jest liczbą podbić niniejszego stwora."
 
 #: ../../WWK.rst:260
@@ -822,7 +822,7 @@ msgid ""
 "When Bloodhusk Ritualist enters the battlefield, target opponent discards a "
 "card for each time it was kicked."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik odrzuca tyle "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca tyle "
 "kart, ile razy został podibty."
 
 #: ../../WWK.rst:286
@@ -1488,17 +1488,20 @@ msgid ""
 msgstr ""
 
 #: ../../WWK.rst:515
+#, fuzzy
 msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
+"Lądowanie — Ilekroć ląd wchodzi na pole bitwy pod twoim władaniem, możesz "
+"położyć na polu bitwy żeton zielonego stwora Bestia 4/4."
 
 #: ../../WWK.rst:517
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may put a +1/+1 counter on each Plant creature you control."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, możesz "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
 "umieścić znacznik +1/+1 na każdej Roślinie pod twoim władaniem."
 
 #: ../../WWK.rst:522
@@ -1972,7 +1975,7 @@ msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -2001,7 +2004,7 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may pay |mana_2|. If you do, draw a card."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, możesz "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
 "zapłacić |mana_2|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../WWK.rst:706
@@ -2013,7 +2016,7 @@ msgstr ""
 
 #: ../../WWK.rst:705
 msgid "|tap|: You may put a land card from your hand onto the battlefield."
-msgstr "|tap|: Możesz umieścić kartę lądu z twojej ręki na polu walki."
+msgstr "|tap|: Możesz umieścić kartę lądu z twojej ręki na polu bitwy."
 
 #: ../../WWK.rst:714
 msgid ""
@@ -2024,14 +2027,14 @@ msgstr ""
 
 #: ../../WWK.rst:709
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../WWK.rst:711
 msgid ""
 "When Bojuka Bog enters the battlefield, exile all cards from target player's "
 "graveyard."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, wygnaj wszystkie karty z cmentarza "
+"Kiedy ten ląd wejdzie na pole bitwy, wygnaj wszystkie karty z cmentarza "
 "wskazanego gracza."
 
 #: ../../WWK.rst:713
@@ -2153,7 +2156,7 @@ msgstr ""
 msgid ""
 "When Khalni Garden enters the battlefield, create a 0/1 green Plant creature "
 "token."
-msgstr "Kiedy Baleful Strix wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy Baleful Strix wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../WWK.rst:757
 msgid "|tap|: Add |mana_g|."

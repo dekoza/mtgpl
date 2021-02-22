@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2021-02-21 21:41+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jou_god/"
 "pl/>\n"
@@ -85,7 +85,7 @@ msgid ""
 "You start with up to three different Hero cards on the battlefield. (You "
 "don't need a Hero to play.)"
 msgstr ""
-"Zaczynasz z maksymalnie trzema różnymi kartami Bohatera na polu walki. (Nie "
+"Zaczynasz z maksymalnie trzema różnymi kartami Bohatera na polu bitwy. (Nie "
 "potrzebujesz Bohatera do gry.)"
 
 # 44b613d9dcf74b3e98b6186a61299b7c
@@ -111,7 +111,7 @@ msgid ""
 "the battlefield.** Shuffle the rest of Xenagos's deck to begin the game."
 msgstr ""
 "**Xenagos Ascended oraz dwie karty o nazwie Rollicking Throng rozpoczynają "
-"grę na polu walki.** Potasuj resztę talii Xenagosa by rozpocząć grę."
+"grę na polu bitwy.** Potasuj resztę talii Xenagosa by rozpocząć grę."
 
 # 949089bf8d8f46dab175e2c1f566693e
 #: ../../JOU_god.rst:37
@@ -165,8 +165,8 @@ msgid ""
 "**You win the game if Xenagos leaves the battlefield, which can happen only "
 "if there are no Revelers on the battlefield.**"
 msgstr ""
-"**Wygrywasz grę jeśli Xenagos opuści pole walki, co może się stać tylko "
-"jeśli nie ma Biesiadników na polu walki.**"
+"**Wygrywasz grę jeśli Xenagos opuści pole bitwy, co może się stać tylko "
+"jeśli nie ma Biesiadników na polu bitwy.**"
 
 # 7f8b8c5305fc4afca3fc3a15e52ea766
 #: ../../JOU_god.rst:49
@@ -185,7 +185,7 @@ msgid ""
 "with only one."
 msgstr ""
 "Wyzwanie będzie trudniejsze, jeśli zaczniesz grę z trzema kartami Rollicking "
-"Throng na polu walki. Jeśli chcesz łatwiejsze wyzwanie, spróbuj z tylko "
+"Throng na polu bitwy. Jeśli chcesz łatwiejsze wyzwanie, spróbuj z tylko "
 "jedną."
 
 # 363664426e4d4e7d9415293299b9c36c
@@ -209,13 +209,13 @@ msgid ""
 "Xenagos Ascended can't leave the battlefield as long as a Reveler is on the "
 "battlefield."
 msgstr ""
-"Ta karta nie może opuścić pola walki o ile Biesiadnik jest na polu walki."
+"Ta karta nie może opuścić pola bitwy o ile Biesiadnik jest na polu bitwy."
 
 # fb8179b201b345ca87ddd6908b8c11b4
 #: ../../JOU_god.rst:64
 msgid ""
 "When Xenagos Ascended leaves the battlefield, each player wins the game."
-msgstr "Kiedy ta karta opuści pole walki, każdy gracz wygrywa grę."
+msgstr "Kiedy ta karta opuści pole bitwy, każdy gracz wygrywa grę."
 
 # db5679190c0d42b39130addd49725189
 #: ../../JOU_god.rst:67
@@ -234,7 +234,7 @@ msgid ""
 "Xenagos's library and Xenagos casts that card. (This ability doesn't trigger "
 "as the game begins.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, ujawnij wierzchnią kartę biblioteki "
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę biblioteki "
 "Xenagosa i Xenagos rzuca ową kartę. (Ta zdolność nie jest wyzwalana na "
 "początku gry.)"
 
@@ -249,7 +249,7 @@ msgid ""
 "When Ecstatic Piper enters the battlefield, Xenagos Ascended attacks this "
 "turn if able."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, Xenagos Wyniesiony atakuje w tej "
+"Kiedy ten stwór wejdzie na pole bitwy, Xenagos Wyniesiony atakuje w tej "
 "turze, jeśli może."
 
 #: ../../JOU_god.rst:76
@@ -257,7 +257,7 @@ msgid ""
 "*Hero's Reward* - When Ecstatic Piper leaves the battlefield, each player "
 "gains 2 life."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz zyskuje "
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole bitwy, każdy gracz zyskuje "
 "po 2 życia."
 
 # b1afdb29885142d296fa1d68a072fe26
@@ -271,7 +271,7 @@ msgid ""
 "As long as five or more Revelers are on the battlefield, Maddened Oread "
 "attacks each turn if able."
 msgstr ""
-"O ile na polu walki jest co najmniej pięć Biesiadników, ten stwór atakuje w "
+"O ile na polu bitwy jest co najmniej pięć Biesiadników, ten stwór atakuje w "
 "każdej turze, jeśli może."
 
 #: ../../JOU_god.rst:81
@@ -279,7 +279,7 @@ msgid ""
 "*Hero's Reward* - When Maddened Oread leaves the battlefield, each player "
 "gains 3 life."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz zyskuje "
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole bitwy, każdy gracz zyskuje "
 "po 3 życia."
 
 # 01da3b15a2974326bcdf1f82d9ad622a
@@ -292,7 +292,7 @@ msgid ""
 "*Hero's Reward* - When Pheres-Band Revelers leaves the battlefield, each "
 "player draws a card."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz dobiera "
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole bitwy, każdy gracz dobiera "
 "kartę."
 
 # 27dc30ffbe5042289150ef7e9e8bc842
@@ -310,7 +310,7 @@ msgid ""
 "*Hero's Reward* - When Serpent Dancers leaves the battlefield, each player "
 "draws a card."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz dobiera "
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole bitwy, każdy gracz dobiera "
 "kartę."
 
 # 68892038f4344dc4b8b242c2c81dc960
@@ -328,7 +328,7 @@ msgid ""
 "*Hero's Reward* - When Wild Maenads leaves the battlefield, each player "
 "gains 3 life."
 msgstr ""
-"*Nagroda Bohatera* — Kiedy ten stwór opuści pole walki, każdy gracz zyskuje "
+"*Nagroda Bohatera* — Kiedy ten stwór opuści pole bitwy, każdy gracz zyskuje "
 "po 3 życia."
 
 # 7f7ee365689f41c2a76127bbf0312dd4
@@ -347,8 +347,8 @@ msgid ""
 "At the beginning of combat this turn, all Revelers gain haste until end of "
 "turn and attack this combat if able."
 msgstr ""
-"Na początku walki w tej turze, wszyscy Biesiadnicy zyskują pośpiech do końca "
-"tury i atakuję w tej walce, jeśli mogą."
+"Na początku potyczki w tej turze, wszyscy Biesiadnicy zyskują pośpiech do "
+"końca tury i atakuję w tej walce, jeśli mogą."
 
 # 0a7bd25c7b5f495f8ba7846e114822a6
 #: ../../JOU_god.rst:104
@@ -377,8 +377,8 @@ msgid ""
 "damage to each player equal to the number of Revelers on the battlefield."
 msgstr ""
 "Przywróć dwie karty o nazwie Ekstatyczny Flecista z cmentarza Xenagosa na "
-"pole walki. Na początku walki w tej turze, ten czar zadaje każdemu graczowi "
-"tyle obrażeń, ile jest Biesiadników na polu walki."
+"pole bitwy. Na początku potyczki w tej turze, ten czar zadaje każdemu "
+"graczowi tyle obrażeń, ile jest Biesiadników na polu bitwy."
 
 # d3cd776d1ad14901b71acd02e39df33a
 #: ../../JOU_god.rst:111
@@ -391,7 +391,7 @@ msgid ""
 "At the beginning of combat this turn, each Reveler deals 1 damage to each "
 "player and each creature those players control."
 msgstr ""
-"Na początku walki w tej turze, każdy Biesiadnik zadaje po 1 obrażeniu "
+"Na początku potyczki w tej turze, każdy Biesiadnik zadaje po 1 obrażeniu "
 "każdemu graczowi i każdemu stworowi pod władaniem owych graczy."
 
 # cb42625bbb2d41018ae8e1f0688fe47d
@@ -446,5 +446,5 @@ msgid ""
 "As long as five or more Revelers are on the battlefield, all Revelers have "
 "haste and attack each turn if able."
 msgstr ""
-"O ile na polu walki jest co najmniej pięć Biesiadników, wszyscy Biesiadnicy "
+"O ile na polu bitwy jest co najmniej pięć Biesiadników, wszyscy Biesiadnicy "
 "mają pośpiech i atakują w każdej turze, jeśli mogą."

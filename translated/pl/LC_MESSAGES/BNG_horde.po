@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-13 20:04+0100\n"
-"PO-Revision-Date: 2020-01-29 20:35+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/pozostale/"
-"bng_horde/pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng_horde/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 4.4.2\n"
 
 # 29e1cf1561cf4240a695ee2a05529858
 #: ../../BNG_horde.rst:5
@@ -51,7 +51,7 @@ msgstr ""
 "W trakcie walki coraz więcej i więcej Minotaurów będzie powiększać oddziały "
 "Hordy. Będą atakować przy każdej okazji, ale mocna obrona może obrócić ich "
 "agresję przeciwko nim. Horda sprowadzi bożki, talizmany oraz inne "
-"pozostałości poprzednich podbojów. Na polu walki owe artefakty będą "
+"pozostałości poprzednich podbojów. Na polu bitwy owe artefakty będą "
 "zagrzewać Hordę do boju, przyspieszając szturm. Ale jeśli potrafisz posłać "
 "te artefakty na cmentarz, zgarniesz nagrody. Obrzędy Hordy sprawią, że jej "
 "stworom będą niezrównane w walce, ale mogą one też czasami odnieść odwrotny "
@@ -82,7 +82,7 @@ msgid ""
 "You start with up to three different Hero cards on the battlefield. (You "
 "don't need a Hero to play.)"
 msgstr ""
-"Zaczynasz z maksymalnie trzema różnymi kartami Bohatera na polu walki. (Nie "
+"Zaczynasz z maksymalnie trzema różnymi kartami Bohatera na polu bitwy. (Nie "
 "potrzebujesz Bohatera do gry.)"
 
 # bf33a009bcb44b1cb6193e41703d601d
@@ -143,7 +143,7 @@ msgstr ""
 "Na początku każdej przedbitewnej fazy głównej Hordy, ujawnij dwie wierzchnie "
 "karty z biblioteki Hordy. Horda rzuca owe karty. (Każdy z artefaktów Hordy "
 "powoduje ujawnienie i rzucenie dodatkowej karty począwszy od następnej tury "
-"po wejściu artefaktu na pole walki.)"
+"po wejściu artefaktu na pole bitwy.)"
 
 # b59dabc8fc3f47e6b2c8b4c41520263d
 #: ../../BNG_horde.rst:41
@@ -180,7 +180,7 @@ msgid ""
 "controls no creatures on the battlefield."
 msgstr ""
 "Wygrywasz grę jeśli Horda nie ma już kart w bibliotece oraz nie włada "
-"żadnymi stworami na polu walki."
+"żadnymi stworami na polu bitwy."
 
 # e98d366c3fea48a6be29ce6ee73a516c
 #: ../../BNG_horde.rst:51
@@ -247,7 +247,7 @@ msgstr "Mogis's Chosen (Wybraniec Mogisa)"
 # df570b86fedd466b9f32fe4e650a512f
 #: ../../BNG_horde.rst:76
 msgid "Mogis's Chosen enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 # 24d3f6146f644dc3a8cdb4d8b5f3ec6f
 #: ../../BNG_horde.rst:78
@@ -296,7 +296,7 @@ msgid ""
 "Destroy that creature at the end of combat."
 msgstr ""
 "Ilekroć Minotaur zaatakuje w tej turze, dostaje on do końca tury +2/+0. "
-"Zniszcz owego stwora na koniec walki."
+"Zniszcz owego stwora na koniec potyczki."
 
 # 93b5deda6b4242baa30bf11286dec4ca
 #: ../../BNG_horde.rst:103
@@ -323,7 +323,7 @@ msgid ""
 "At the beginning of combat this turn, Intervention of Keranos deals 3 damage "
 "to each creature."
 msgstr ""
-"Na początku walki w tej turze, ten czar zadaje każdemu stworowi po 3 "
+"Na początku potyczki w tej turze, ten czar zadaje każdemu stworowi po 3 "
 "obrażenia."
 
 # 3856222d2c0c437aaeec8c009994249a
@@ -440,4 +440,4 @@ msgid ""
 msgstr ""
 "*Nagroda Bohatera* - Kiedy ten artefakt zostanie umieszczony skądkolwiek w "
 "cmentarzu, każdy gracz przywraca kartę stwora ze swojego cmentarza na pole "
-"walki."
+"bitwy."

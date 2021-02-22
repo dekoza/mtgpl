@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:49+0000\n"
+"PO-Revision-Date: 2021-02-22 09:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -256,7 +256,7 @@ msgstr "Zaurocz permanent"
 
 #: ../../RAV.rst:89
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 4 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../RAV.rst:91
 msgid ""
@@ -1334,7 +1334,7 @@ msgid ""
 "When Mausoleum Turnkey enters the battlefield, return target creature card "
 "of an opponent's choice from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora "
 "wybraną przez przeciwnika z twojego cmentarza do twojej ręki."
 
 #: ../../RAV.rst:496
@@ -1419,7 +1419,7 @@ msgid ""
 "When Netherborn Phalanx enters the battlefield, each opponent loses 1 life "
 "for each creature they control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po 1 życiu za "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po 1 życiu za "
 "każdego stwora pod swoim władaniem."
 
 #: ../../RAV.rst:526
@@ -1596,8 +1596,8 @@ msgid ""
 "mana_g| was spent to cast this spell, that creature enters the battlefield "
 "with an additional +1/+1 counter on it."
 msgstr ""
-"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli do "
-"rzucenia tego czaru użyto |mana_g|, ów stwór wchodzi na pole walki z "
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Jeśli do "
+"rzucenia tego czaru użyto |mana_g|, ów stwór wchodzi na pole bitwy z "
 "dodatkowym znacznikiem +1/+1."
 
 #: ../../RAV.rst:590
@@ -2045,7 +2045,7 @@ msgid ""
 "When Sparkmage Apprentice enters the battlefield, it deals 1 damage to any "
 "target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu celowi 1 obrażenie."
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../RAV.rst:746
 msgid ""
@@ -2181,7 +2181,7 @@ msgstr ""
 
 #: ../../RAV.rst:791
 msgid "When Carven Caryatid enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../RAV.rst:798
 msgid ""
@@ -2196,7 +2196,7 @@ msgid ""
 "and put it onto the battlefield. Then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skróconym koszcie many X lub "
-"mniejszym i umieść ją na polu walki. Następnie przetasuj twoją bibliotekę."
+"mniejszym i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../RAV.rst:802
 msgid ""
@@ -2641,7 +2641,7 @@ msgid ""
 "Whenever a land enters the battlefield under your control, put a +1/+1 "
 "counter on Vinelasher Kudzu."
 msgstr ""
-"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, umieść znacznik +1/+1 "
+"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść znacznik +1/+1 "
 "na tym stworze."
 
 #: ../../RAV.rst:970
@@ -2899,7 +2899,7 @@ msgid ""
 "on the battlefield, you may gain 1 life."
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli ta karta jest w twoim cmentarzu "
-"lub na polu walki, możesz zyskać 1 życie."
+"lub na polu bitwy, możesz zyskać 1 życie."
 
 #: ../../RAV.rst:1049
 msgid ""
@@ -2908,7 +2908,7 @@ msgid ""
 "your upkeep."
 msgstr ""
 "|mana_6|\\ |mana_r|\\ |mana_r|\\ |mana_w|\\ |mana_w|: Przywróć tę kartę z "
-"twojego cmentarza na pole walki. Aktywuj tylko podczas twojego kroku "
+"twojego cmentarza na pole bitwy. Aktywuj tylko podczas twojego kroku "
 "utrzymania."
 
 #: ../../RAV.rst:1054
@@ -3021,7 +3021,7 @@ msgstr ""
 
 #: ../../RAV.rst:1089
 msgid "When Loxodon Hierarch enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 4 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../RAV.rst:1091
 msgid ""
@@ -3273,7 +3273,7 @@ msgid ""
 "onto the battlefield under your control."
 msgstr ""
 "|mana_2|\\ |mana_b|: Umieść kartę stwora wygnaną z użyciem tego stwora na "
-"polu walki pod twoim władaniem."
+"polu bitwy pod twoim władaniem."
 
 #: ../../RAV.rst:1190
 msgid ""
@@ -3893,7 +3893,7 @@ msgstr ""
 
 #: ../../RAV.rst:1425
 msgid "Terrarion enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole walki."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../RAV.rst:1427
 msgid ""
@@ -3907,7 +3907,7 @@ msgstr ""
 msgid ""
 "When Terrarion is put into a graveyard from the battlefield, draw a card."
 msgstr ""
-"Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola walki, dobierz "
+"Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola bitwy, dobierz "
 "kartę."
 
 #: ../../RAV.rst:1434
@@ -3933,14 +3933,14 @@ msgstr ""
 
 #: ../../RAV.rst:1437
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../RAV.rst:1439
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../RAV.rst:1441
@@ -3956,14 +3956,14 @@ msgstr ""
 
 #: ../../RAV.rst:1445
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../RAV.rst:1447
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../RAV.rst:1449
@@ -3995,14 +3995,14 @@ msgstr ""
 
 #: ../../RAV.rst:1459
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../RAV.rst:1461
 msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../RAV.rst:1463
@@ -4025,8 +4025,8 @@ msgid ""
 "As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RAV.rst:1476
 msgid ""
@@ -4044,8 +4044,8 @@ msgid ""
 "As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RAV.rst:1484
 msgid ""
@@ -4056,14 +4056,14 @@ msgstr ""
 
 #: ../../RAV.rst:1479
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../RAV.rst:1481
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../RAV.rst:1483
@@ -4118,8 +4118,8 @@ msgid ""
 "As Temple Garden enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RAV.rst:1508
 msgid ""
@@ -4151,8 +4151,8 @@ msgid ""
 "As Watery Grave enters the battlefield, you may pay 2 life. If you don't, it "
 "enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../RAV.rst:1518
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m15/pl/>\n"
 "Language: pl\n"
@@ -151,8 +151,8 @@ msgid ""
 "attached to Boonweaver Giant. If you search your library this way, shuffle "
 "it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twoim cmentarzu, "
-"ręce i/lub bibliotece kartę typu Aura i umieść ją na polu walki dołączoną do "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twoim cmentarzu, "
+"ręce i/lub bibliotece kartę typu Aura i umieść ją na polu bitwy dołączoną do "
 "tego stwora. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../M15.rst:40
@@ -165,7 +165,7 @@ msgstr ""
 # 61253aadb3a94f73bc83c575c5b56296
 #: ../../M15.rst:39
 msgid "Target player gains 2 life for each creature on the battlefield."
-msgstr "Wskazany gracz zyskuje po 2 życia za każdego stwora na polu walki."
+msgstr "Wskazany gracz zyskuje po 2 życia za każdego stwora na polu bitwy."
 
 #: ../../M15.rst:44
 msgid ""
@@ -180,9 +180,9 @@ msgid ""
 "battlefield, you may exile target creature an opponent controls until this "
 "creature leaves the battlefield.\""
 msgstr ""
-"Drzazgacze pod twoim władaniem mają \"Kiedy ten stwór wejdzie na pole walki, "
+"Drzazgacze pod twoim władaniem mają \"Kiedy ten stwór wejdzie na pole bitwy, "
 "możesz wygnać wskazanego stwora pod władaniem przeciwnika dopóki niniejszy "
-"stwór nie opuści pola walki.\""
+"stwór nie opuści pola bitwy.\""
 
 #: ../../M15.rst:50
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 # e0208112857d4ec3a0093934559f5216
 #: ../../M15.rst:61
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 3 życia."
 
 # deed217d815844a3b21ce3bd4661a4c8
 #: ../../M15.rst:63
@@ -344,7 +344,7 @@ msgid ""
 "for an Aura card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Aury, ujawnij ją i umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -362,7 +362,7 @@ msgstr "Błysk"
 # 639b32bdc5cf40efbc2078234f0c7056
 #: ../../M15.rst:89
 msgid "Creatures entering the battlefield don't cause abilities to trigger."
-msgstr "Stwory wchodzące na pole walki nie powodują wyzwalania zdolności."
+msgstr "Stwory wchodzące na pole bitwy nie powodują wyzwalania zdolności."
 
 #: ../../M15.rst:94
 msgid ""
@@ -377,8 +377,8 @@ msgid ""
 "When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury "
-"+1/+1."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
+"1/+1."
 
 #: ../../M15.rst:100
 msgid ""
@@ -430,7 +430,7 @@ msgstr ""
 # 794119b1a1234d6d95ca61e75f60881f
 #: ../../M15.rst:113
 msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
-msgstr "Ilekroć inny stwór wejdzie na pole walki, odkręć tego stwora."
+msgstr "Ilekroć inny stwór wejdzie na pole bitwy, odkręć tego stwora."
 
 #: ../../M15.rst:122
 msgid ""
@@ -518,7 +518,7 @@ msgid ""
 "Whenever Preeminent Captain attacks, you may put a Soldier creature card "
 "from your hand onto the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, możesz umieścić na polu walki przekręconą i "
+"Ilekroć ten stwór zaatakuje, możesz umieścić na polu bitwy przekręconą i "
 "atakującą kartę stwora typu Piechur z twojej ręki."
 
 #: ../../M15.rst:146
@@ -569,7 +569,7 @@ msgid ""
 "When Resolute Archangel enters the battlefield, if your life total is less "
 "than your starting life total, it becomes equal to your starting life total."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli liczba twoich punktów życia "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli liczba twoich punktów życia "
 "jest mniejsza niż wartość startowa, otrzymuje wartość startową."
 
 #: ../../M15.rst:164
@@ -586,7 +586,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Przywróć X wskazanych kart stworów o skróconym koszcie many 2 lub mniejszym "
-"z twojego cmentarza na pole walki."
+"z twojego cmentarza na pole bitwy."
 
 #: ../../M15.rst:168
 msgid ""
@@ -723,7 +723,7 @@ msgid ""
 "may pay |mana_w|. If you do, create a 1/1 white Spirit creature token with "
 "flying."
 msgstr ""
-"Ilekroć nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, możesz "
+"Ilekroć nieżetonowy stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
 "zapłacić |mana_w|. Jeśli tak zrobisz, stwórz żeton białego stwora Duch 1/1 z "
 "lataniem."
 
@@ -764,7 +764,7 @@ msgstr ""
 # 6dfc755d575b447884748b16846b6a7a
 #: ../../M15.rst:217
 msgid "When Tireless Missionaries enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../M15.rst:224
 msgid ""
@@ -945,7 +945,7 @@ msgid ""
 "token with islandwalk. (It can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton niebieskiego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton niebieskiego stwora "
 "Kalmar 1/1 z podbojem wysp. (Nie może być blokowany, o ile broniący się "
 "gracz włada Wyspą.)"
 
@@ -1051,7 +1051,7 @@ msgid ""
 "controls. That creature doesn't untap during its controller's next untap "
 "step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
 "odkręcania jego władcy."
 
@@ -1081,7 +1081,7 @@ msgstr ""
 #: ../../M15.rst:305
 msgid ""
 "Glacial Crasher can't attack unless there is a Mountain on the battlefield."
-msgstr "Ten stwór nie może atakować, chyba że jest Góra na polu walki."
+msgstr "Ten stwór nie może atakować, chyba że jest Góra na polu bitwy."
 
 #: ../../M15.rst:310
 msgid ""
@@ -1189,7 +1189,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_u|, |tap|, poświęć innego stwora: Ujawniaj karty z wierzchu "
 "twojej biblioteki aż ujawnisz kartę nielegendarnego stwora. Umieść ową kartę "
-"na polu walki, a pozostałe losowo na spodzie twojej biblioteki."
+"na polu bitwy, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../M15.rst:348
 msgid ""
@@ -1227,7 +1227,7 @@ msgid ""
 "Whenever Kapsho Kitefins or another creature enters the battlefield under "
 "your control, tap target creature an opponent controls."
 msgstr ""
-"Ilekroć ten albo inny stwór wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć ten albo inny stwór wejdzie na pole bitwy pod twoim władaniem, "
 "przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../M15.rst:360
@@ -1263,7 +1263,7 @@ msgid ""
 "creature you control, except it has \"|mana_2|\\ |mana_u|\\ |mana_u|: Return "
 "this creature to its owner's hand.\""
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
+"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
 "stwora pod twoim władaniem, ale ma też \"|mana_2|\\ |mana_u|\\ |mana_u|: "
 "Przywróć tego stwora do ręki właściciela.\""
 
@@ -1382,7 +1382,7 @@ msgid ""
 "When Quickling enters the battlefield, sacrifice it unless you return "
 "another creature you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, poświęć go, chyba że przywrócisz "
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że przywrócisz "
 "innego stwora pod twoim władaniem do ręki właściciela."
 
 #: ../../M15.rst:406
@@ -1575,7 +1575,7 @@ msgstr ""
 # 682b0da083fe4e238d7254f417f246b6
 #: ../../M15.rst:463
 msgid "Carrion Crow enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../M15.rst:470
 msgid ""
@@ -1661,7 +1661,7 @@ msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
 "control."
 msgstr ""
-"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
 "władaniem."
 
 #: ../../M15.rst:504
@@ -1736,7 +1736,7 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M15.rst:524
@@ -1812,7 +1812,7 @@ msgid ""
 "−8: Put all creature cards from all graveyards onto the battlefield under "
 "your control."
 msgstr ""
-"−8: Umieść wszystkie karty stworów ze wszystkich cmentarzy na polu walki pod "
+"−8: Umieść wszystkie karty stworów ze wszystkich cmentarzy na polu bitwy pod "
 "twoim władaniem."
 
 #: ../../M15.rst:546
@@ -1842,10 +1842,10 @@ msgid ""
 "remove all damage from it, and remove it from combat. Any amount of damage a "
 "creature with deathtouch deals to a creature is enough to destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go. "
-"(Następnym razem, gdy miałby zostać zniszczony w tej turze, nie jest. "
-"Zamiast tego przekręć go, usuń z niego wszystkie obrażenia i usuń go z "
-"walki. Dowolna liczba obrażeń zadana innemu stworowi przez stwora z dotykiem "
+"Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go. ("
+"Następnym razem, gdy miałby zostać zniszczony w tej turze, nie jest. Zamiast "
+"tego przekręć go, usuń z niego wszystkie obrażenia i usuń go z potyczki. "
+"Dowolna liczba obrażeń zadana innemu stworowi przez stwora z dotykiem "
 "śmierci wystarcza, by go zniszczyć.)"
 
 #: ../../M15.rst:556
@@ -1858,7 +1858,7 @@ msgstr ""
 # 298fcbb440cb417dbb4ea3884ffb7330
 #: ../../M15.rst:555
 msgid "When Necrogen Scudder enters the battlefield, you lose 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, strać 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, strać 3 życia."
 
 #: ../../M15.rst:560
 msgid ""
@@ -1870,7 +1870,7 @@ msgstr ""
 # 00ef83f6d4a445abad83e37a57d5fbbf
 #: ../../M15.rst:559
 msgid "When Necromancer's Assistant enters the battlefield, mill three cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel trzy karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty."
 
 #: ../../M15.rst:564
 msgid ""
@@ -1967,7 +1967,7 @@ msgid ""
 "When Rotfeaster Maggot enters the battlefield, exile target creature card "
 "from a graveyard. You gain life equal to that card's toughness."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę stwora z "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę stwora z "
 "dowolnego cmentarza. Zyskaj tyle żyć, ile wynosi wytrzymałość owej karty."
 
 #: ../../M15.rst:592
@@ -2456,7 +2456,7 @@ msgid ""
 "When Forge Devil enters the battlefield, it deals 1 damage to target "
 "creature and 1 damage to you."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu stworowi 1 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 1 "
 "obrażenie oraz tobie 1 obrażenie."
 
 #: ../../M15.rst:736
@@ -2472,7 +2472,7 @@ msgid ""
 "Whenever another red creature enters the battlefield under your control, "
 "Foundry Street Denizen gets +1/+0 until end of turn."
 msgstr ""
-"Ilekroć inny czerwony stwór wejdzie na pole walki pod twoim władaniem, ten "
+"Ilekroć inny czerwony stwór wejdzie na pole bitwy pod twoim władaniem, ten "
 "stwór dostaje do końca tury +1/+0."
 
 #: ../../M15.rst:740
@@ -2543,8 +2543,8 @@ msgid ""
 "At the beginning of combat on your turn, create a 1/1 red Goblin creature "
 "token with haste."
 msgstr ""
-"Na początku walki w twojej turze, stwórz żeton czerwonego stwora Goblin 1/1 "
-"z pośpiechem."
+"Na początku potyczki w twojej turze, stwórz żeton czerwonego stwora Goblin 1/"
+"1 z pośpiechem."
 
 # 3a4d99e9688d451d8e72c7de9f3216a3
 #: ../../M15.rst:755
@@ -2575,7 +2575,7 @@ msgid ""
 "When Hammerhand enters the battlefield, target creature can't block this "
 "turn."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wskazany stwór nie może blokować w tej "
+"Kiedy ten urok wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
 "turze."
 
 # b3461bb0c72840c891773a79e26aaf63
@@ -2612,7 +2612,7 @@ msgid ""
 "When Hoarding Dragon enters the battlefield, you may search your library for "
 "an artifact card, exile it, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu, wygnaj ją, następnie przetasuj twoją bibliotekę."
 
 # 63be9b1ef8fe4600a2b925701ca10707
@@ -2729,10 +2729,10 @@ msgid ""
 "opponent controls until end of turn. Untap that creature. It gains haste "
 "until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Na początku walki w twojej turze, jeśli władasz każdym stworem na polu walki "
-"o największej sile, zyskaj do końca tury władanie nad wskazanym stworem pod "
-"władaniem przeciwnika. Odkręć owego stwora. Zyskuje on pośpiech do końca "
-"tury. (Może atakować i |tap| w tej turze.)"
+"Na początku potyczki w twojej turze, jeśli władasz każdym stworem na polu "
+"bitwy o największej sile, zyskaj do końca tury władanie nad wskazanym "
+"stworem pod władaniem przeciwnika. Odkręć owego stwora. Zyskuje on pośpiech "
+"do końca tury. (Może atakować i |tap| w tej turze.)"
 
 #: ../../M15.rst:818
 msgid ""
@@ -2828,7 +2828,7 @@ msgid ""
 "When Siege Dragon enters the battlefield, destroy all Walls your opponents "
 "control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wszystkie Ściany pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wszystkie Ściany pod "
 "władaniem twoich przeciwników."
 
 # 603221000bca42c19a83a61d9a48c784
@@ -2942,7 +2942,7 @@ msgid ""
 msgstr ""
 "|mana_g|: Zregeneruj tego stwora. (Następnym razem w tej turze, gdy ten "
 "stwór miałby zostać zniszczony, zamiast tego przekręć go, usuń z niego "
-"wszystkie obrażenia i usuń go z walki.)"
+"wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../M15.rst:882
 msgid ""
@@ -2995,7 +2995,7 @@ msgid ""
 "and put it onto the battlefield. Then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skróconym koszcie many X lub "
-"mniejszym i umieść ją na polu walki. Następnie przetasuj twoją bibliotekę."
+"mniejszym i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../M15.rst:900
 msgid ""
@@ -3055,13 +3055,13 @@ msgid ""
 msgstr ""
 "Kiedy rzucisz ten czar, ujawnij X wierzchnich kart twojej biblioteki. Możesz "
 "spośród nich umieścić kartę nie-lądowego permanentu o skróconym koszcie many "
-"X lub mniejszym na polu walki. Następnie wtasuj pozostałe do twojej "
+"X lub mniejszym na polu bitwy. Następnie wtasuj pozostałe do twojej "
 "biblioteki."
 
 # 3105ae63eb5b4636929aed2bb7716758
 #: ../../M15.rst:917
 msgid "Genesis Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../M15.rst:924
 msgid ""
@@ -3092,7 +3092,7 @@ msgid ""
 "When Hornet Queen enters the battlefield, create four 1/1 green Insect "
 "creature tokens with flying and deathtouch."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz cztery żetony stwora Owad 1/1 "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz cztery żetony stwora Owad 1/1 "
 "z lataniem i dotykiem śmierci."
 
 #: ../../M15.rst:936
@@ -3142,7 +3142,7 @@ msgid ""
 "When Invasive Species enters the battlefield, return another permanent you "
 "control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć inny permanent pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć inny permanent pod twoim "
 "władaniem do ręki właściciela."
 
 #: ../../M15.rst:950
@@ -3167,7 +3167,7 @@ msgid ""
 "Warrior creature token with \"This creature's power and toughness are each "
 "equal to the number of Forests you control.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora "
 "Drzewiec Wojownik mającego \"Siła i wytrzymałość tego stwora są obie równe "
 "liczbie Lasów pod twoim władaniem.\""
 
@@ -3200,7 +3200,7 @@ msgid ""
 "When Living Totem enters the battlefield, you may put a +1/+1 counter on "
 "another target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz umieścić znacznik +1/+1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić znacznik +1/+1 na "
 "innym wskazanym stworze."
 
 #: ../../M15.rst:966
@@ -3264,7 +3264,7 @@ msgid ""
 "creatures with trample. They're still lands."
 msgstr ""
 "–7: Wyszukaj w twojej bibliotece dowolną liczbę kart bazowych lądów, umieść "
-"je na polu walki, następnie przetasuj twoją bibliotekę. Owe lądu stają się "
+"je na polu bitwy, następnie przetasuj twoją bibliotekę. Owe lądu stają się "
 "stworami Żywiołak 4/4 z tratowaniem. Nadal są lądami."
 
 #: ../../M15.rst:986
@@ -3281,7 +3281,7 @@ msgid ""
 "battlefield tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../M15.rst:992
 msgid ""
@@ -3330,7 +3330,7 @@ msgid ""
 "When Phytotitan dies, return it to the battlefield tapped under its owner's "
 "control at the beginning of their next upkeep."
 msgstr ""
-"Kiedy ten stwór umrze, przywróć go przekręconego na pole walki pod władaniem "
+"Kiedy ten stwór umrze, przywróć go przekręconego na pole bitwy pod władaniem "
 "właściciela na początku najbliższego kroku utrzymania owego gracza."
 
 #: ../../M15.rst:1006
@@ -3375,7 +3375,7 @@ msgid ""
 "When Reclamation Sage enters the battlefield, you may destroy target "
 "artifact or enchantment."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz zniszczyć wskazany artefakt lub "
+"Kiedy ta karta wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt lub "
 "urok."
 
 #: ../../M15.rst:1018
@@ -3430,7 +3430,7 @@ msgid ""
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, ujawnij cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij cztery wierzchnie karty "
 "twojej biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. "
 "Umieść pozostałe w twoim cmentarzu."
 
@@ -3444,7 +3444,7 @@ msgstr ""
 # 6b2f13c595b84715a934a182f103020f
 #: ../../M15.rst:1033
 msgid "When Shaman of Spring enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M15.rst:1040
 msgid ""
@@ -3528,7 +3528,7 @@ msgid ""
 "Undergrowth Scavenger enters the battlefield with a number of +1/+1 counters "
 "on it equal to the number of creature cards in all graveyards."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile jest kart "
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile jest kart "
 "stworów we wszystkich cmentarzach."
 
 #: ../../M15.rst:1066
@@ -3557,7 +3557,7 @@ msgstr ""
 # 5b3ceaeaaa2f4ffc84889d9cd275d62a
 #: ../../M15.rst:1071
 msgid "When Verdant Haven enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 2 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../M15.rst:1073
 msgid ""
@@ -3615,7 +3615,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, umieść znacznik zwrotki na tym stworze: Wyszukaj "
 "w twojej bibliotece kartę stwora o skróconym koszcie many równym liczbie "
-"znaczników zwrotki na niniejszym stworze, umieść ją na polu walki, następnie "
+"znaczników zwrotki na niniejszym stworze, umieść ją na polu bitwy, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../M15.rst:1102
@@ -3867,7 +3867,7 @@ msgstr ""
 #: ../../M15.rst:1167
 msgid "When Meteorite enters the battlefield, it deals 2 damage to any target."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, zadaje wskazanemu celowi 2 "
+"Kiedy ten artefakt wejdzie na pole bitwy, zadaje wskazanemu celowi 2 "
 "obrażenia."
 
 # e02cf6b228aa446a9a64b0f0bd2138d1
@@ -3885,7 +3885,7 @@ msgstr ""
 # 5e070dfbac6e43a9a2b503b98168d7aa
 #: ../../M15.rst:1175
 msgid "As Obelisk of Urd enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten artefakt na polu walki, wybierz typ stwora."
+msgstr "Umieszczając ten artefakt na polu bitwy, wybierz typ stwora."
 
 # b05bd73e43bc477a9d484082129a7bfb
 #: ../../M15.rst:1177
@@ -3922,7 +3922,7 @@ msgstr ""
 #: ../../M15.rst:1189
 msgid ""
 "As Phyrexian Revoker enters the battlefield, choose a nonland card name."
-msgstr "Umieszczając tego stwora na polu walki nazwij nie-lądową kartę."
+msgstr "Umieszczając tego stwora na polu bitwy nazwij nie-lądową kartę."
 
 # 0d5824b413d94bf29a974a85346ce645
 #: ../../M15.rst:1191
@@ -4047,7 +4047,7 @@ msgid ""
 "Whenever you cast a black spell or a Swamp enters the battlefield under your "
 "control, you gain 1 life."
 msgstr ""
-"Ilekroć rzucisz czarny czar albo gdy Bagno wejdzie na pole walki pod twoim "
+"Ilekroć rzucisz czarny czar albo gdy Bagno wejdzie na pole bitwy pod twoim "
 "władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1234
@@ -4064,7 +4064,7 @@ msgid ""
 "Whenever you cast a red spell or a Mountain enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
-"Ilekroć rzucisz czerwony czar albo gdy Góra wejdzie na pole walki pod twoim "
+"Ilekroć rzucisz czerwony czar albo gdy Góra wejdzie na pole bitwy pod twoim "
 "władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1238
@@ -4080,7 +4080,7 @@ msgid ""
 "Whenever you cast a blue spell or an Island enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
-"Ilekroć rzucisz niebieski czar albo gdy Wyspa wejdzie na pole walki pod "
+"Ilekroć rzucisz niebieski czar albo gdy Wyspa wejdzie na pole bitwy pod "
 "twoim władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1242
@@ -4096,7 +4096,7 @@ msgid ""
 "Whenever you cast a white spell or a Plains enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
-"Ilekroć rzucisz biały czar albo gdy Równina wejdzie na pole walki pod twoim "
+"Ilekroć rzucisz biały czar albo gdy Równina wejdzie na pole bitwy pod twoim "
 "władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1246
@@ -4112,7 +4112,7 @@ msgid ""
 "Whenever you cast a green spell or a Forest enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
-"Ilekroć rzucisz zielony czar albo gdy Las wejdzie na pole walki pod twoim "
+"Ilekroć rzucisz zielony czar albo gdy Las wejdzie na pole bitwy pod twoim "
 "władaniem, zyskaj 1 życie."
 
 #: ../../M15.rst:1250
@@ -4203,7 +4203,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../M15.rst:1286
 msgid ""
@@ -4226,7 +4226,7 @@ msgstr ""
 # 6dc5dcfa1a4044f697725e264e8d5de9
 #: ../../M15.rst:1289
 msgid "When Radiant Fountain enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 2 życia."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../M15.rst:1298
 msgid ""
@@ -4396,7 +4396,7 @@ msgid ""
 "\"destroy\" don't destroy it. A creature with indestructible can't be "
 "destroyed by damage.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, inny wskazany permanent zyskuje "
+"Kiedy ten stwór wejdzie na pole bitwy, inny wskazany permanent zyskuje "
 "niezniszczalność dopóki władasz niniejszym stworem. (Efekty mówiące \"zniszcz"
 "\" nie niszczą go. Stwór z niezniszczalnością nie może być zniszczony przez "
 "obrażenia.)"
@@ -4549,7 +4549,7 @@ msgid ""
 "Whenever another creature with power 3 or greater enters the battlefield "
 "under your control, you may draw a card."
 msgstr ""
-"Ilekroć inny stwór o sile 3 lub większej wejdzie na pole walki pod twoim "
+"Ilekroć inny stwór o sile 3 lub większej wejdzie na pole bitwy pod twoim "
 "władaniem, możesz dobrać kartę."
 
 #: ../../M15.rst:1407

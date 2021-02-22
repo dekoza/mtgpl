@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -46,7 +46,7 @@ msgid ""
 "When Ancestor's Chosen enters the battlefield, you gain 1 life for each card "
 "in your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj 1 życie za każdą kartę w twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 1 życie za każdą kartę w twoim "
 "cmentarzu."
 
 #: ../../10E.rst:18
@@ -65,7 +65,7 @@ msgstr "Latanie"
 
 #: ../../10E.rst:17
 msgid "When Angel of Mercy enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../10E.rst:22
 msgid ""
@@ -143,7 +143,7 @@ msgstr ""
 #: ../../10E.rst:43
 msgid ""
 "When Aven Cloudchaser enters the battlefield, destroy target enchantment."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany urok."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany urok."
 
 #: ../../10E.rst:48
 msgid ""
@@ -429,8 +429,11 @@ msgid "Soldier creatures have vigilance."
 msgstr ""
 
 #: ../../10E.rst:141
+#, fuzzy
 msgid "|mana_2|\\ |mana_w|: Create a 1/1 white Soldier creature token."
 msgstr ""
+"|mana_1|, |tap|, zapłać 1 życie: Umieść na polu bitwy żeton białego stwora "
+"Goat 0/1."
 
 #: ../../10E.rst:146
 msgid ""
@@ -506,7 +509,7 @@ msgid ""
 "your graveyard to the battlefield."
 msgstr ""
 "Na początku twojego kroku utrzymania, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza na pole walki."
+"stwora z twojego cmentarza na pole bitwy."
 
 #: ../../10E.rst:178
 msgid ""
@@ -611,7 +614,7 @@ msgstr ""
 
 #: ../../10E.rst:211
 msgid "Whenever another creature enters the battlefield, you gain 1 life."
-msgstr "Ilekroć inny stwór wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Ilekroć inny stwór wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../10E.rst:218
 msgid ""
@@ -944,8 +947,8 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the "
 "battlefield."
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
-"stwora znajdującego się na polu walki."
+"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
+"stwora znajdującego się na polu bitwy."
 
 #: ../../10E.rst:352
 msgid ""
@@ -1827,7 +1830,7 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../10E.rst:682
@@ -2110,7 +2113,7 @@ msgstr ""
 msgid ""
 "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 "
 "life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../10E.rst:782
 msgid ""
@@ -2897,7 +2900,7 @@ msgid ""
 "When Siege-Gang Commander enters the battlefield, create three 1/1 red "
 "Goblin creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz trzy żetony czerwonego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony czerwonego stwora "
 "Goblin 1/1."
 
 #: ../../10E.rst:1073
@@ -3269,7 +3272,7 @@ msgid ""
 "|mana_g|, |tap|: You may put a creature card from your hand onto the "
 "battlefield."
 msgstr ""
-"|mana_g|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu walki."
+"|mana_g|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu bitwy."
 
 #: ../../10E.rst:1212
 msgid ""
@@ -4217,7 +4220,7 @@ msgstr ""
 
 #: ../../10E.rst:1549
 msgid "As Pithing Needle enters the battlefield, choose a card name."
-msgstr "Umieszczając ten artefakt na polu walki nazwij kartę."
+msgstr "Umieszczając ten artefakt na polu bitwy nazwij kartę."
 
 #: ../../10E.rst:1551
 msgid ""
@@ -4535,7 +4538,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../10E.rst:1690
 msgid ""

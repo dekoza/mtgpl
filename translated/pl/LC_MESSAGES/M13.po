@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -112,8 +112,8 @@ msgid ""
 "When Attended Knight enters the battlefield, create a 1/1 white Soldier "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Piechur "
-"1/1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/"
+"1."
 
 #: ../../M13.rst:40
 msgid ""
@@ -163,7 +163,7 @@ msgid ""
 "When Captain of the Watch enters the battlefield, create three 1/1 white "
 "Soldier creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz trzy żetony białego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony białego stwora "
 "Piechur 1/1."
 
 #: ../../M13.rst:58
@@ -204,7 +204,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../M13.rst:67
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../M13.rst:69
 msgid "Enchanted creature gets +1/+3."
@@ -268,7 +268,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, Griffin "
 "Protector gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, niniejszy "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
 "stwór dostaje do końca tury +1/+1."
 
 #: ../../M13.rst:96
@@ -579,7 +579,7 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę sztuczki lub "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../M13.rst:226
@@ -613,7 +613,7 @@ msgid ""
 "put it into your hand. Put the rest on the bottom of your library in any "
 "order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na trzy wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę sztuczki lub obrzędu i "
 "umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
 "dowolnej kolejności."
@@ -643,8 +643,8 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the "
 "battlefield."
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
-"stwora znajdującego się na polu walki."
+"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
+"stwora znajdującego się na polu bitwy."
 
 #: ../../M13.rst:244
 msgid ""
@@ -1114,7 +1114,7 @@ msgid ""
 "When Bloodhunter Bat enters the battlefield, target player loses 2 life and "
 "you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz traci 2 życia, a ty "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz traci 2 życia, a ty "
 "zyskaj 2 życia."
 
 #: ../../M13.rst:418
@@ -1159,7 +1159,7 @@ msgstr ""
 
 #: ../../M13.rst:433
 msgid "When Dark Favor enters the battlefield, you lose 1 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, strać 1 życie."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, strać 1 życie."
 
 #: ../../M13.rst:435
 msgid "Enchanted creature gets +3/+1."
@@ -1423,7 +1423,7 @@ msgid ""
 "As Phylactery Lich enters the battlefield, put a phylactery counter on an "
 "artifact you control."
 msgstr ""
-"Umieszczając tę kartę na polu walki umieść znacznik filakterium na "
+"Umieszczając tę kartę na polu bitwy umieść znacznik filakterium na "
 "artefakcie pod twoim władaniem."
 
 #: ../../M13.rst:531
@@ -1472,7 +1472,7 @@ msgid ""
 "control. That creature is a black Zombie in addition to its other colors and "
 "types."
 msgstr ""
-"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
 "władaniem. Ów stwór jest dodatkowo czarnym Zombi oprócz swoich pozostałych "
 "kolorów i typów."
 
@@ -1840,7 +1840,7 @@ msgid ""
 "Whenever another creature enters the battlefield, you may put X +1/+1 "
 "counters on Hamletback Goliath, where X is that creature's power."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki, możesz umieścić X znaczników +1/+1 "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz umieścić X znaczników +1/+1 "
 "na niniejszym stworze, gdzie X jest siłą owego stwora."
 
 #: ../../M13.rst:684
@@ -2133,7 +2133,7 @@ msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok albo "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt, urok albo "
 "ląd."
 
 #: ../../M13.rst:794
@@ -2265,7 +2265,7 @@ msgstr ""
 
 #: ../../M13.rst:837
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M13.rst:842
 msgid ""
@@ -2353,7 +2353,7 @@ msgid ""
 "Whenever another creature with power 3 or greater enters the battlefield "
 "under your control, you may draw a card."
 msgstr ""
-"Ilekroć inny stwór o sile 3 lub większej wejdzie na pole walki pod twoim "
+"Ilekroć inny stwór o sile 3 lub większej wejdzie na pole bitwy pod twoim "
 "władaniem, możesz dobrać kartę."
 
 #: ../../M13.rst:874
@@ -2504,7 +2504,7 @@ msgid ""
 "When Rancor is put into a graveyard from the battlefield, return Rancor to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten urok jest umieszczany w cmentarzu z pola walki, przywróć go do "
+"Kiedy ten urok jest umieszczany w cmentarzu z pola bitwy, przywróć go do "
 "ręki właściciela."
 
 #: ../../M13.rst:922
@@ -2605,14 +2605,14 @@ msgstr ""
 
 #: ../../M13.rst:951
 msgid "When Thragtusk enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 5 żyć."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../M13.rst:953
 msgid ""
 "When Thragtusk leaves the battlefield, create a 3/3 green Beast creature "
 "token."
 msgstr ""
-"Kiedy ten stwór opuści pole walki, stwórz żeton zielonego stwora Bestia 3/3."
+"Kiedy ten stwór opuści pole bitwy, stwórz żeton zielonego stwora Bestia 3/3."
 
 #: ../../M13.rst:958
 msgid ""
@@ -2670,8 +2670,8 @@ msgid ""
 "When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury "
-"+2/+2."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
+"2/+2."
 
 #: ../../M13.rst:984
 msgid ""
@@ -3060,7 +3060,7 @@ msgid ""
 "Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
 "or a Mountain."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Bagnem lub Górą."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Bagnem lub Górą."
 
 #: ../../M13.rst:1119
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -3078,7 +3078,7 @@ msgid ""
 "Drowned Catacomb enters the battlefield tapped unless you control an Island "
 "or a Swamp."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Wyspą lub Bagnem."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Wyspą lub Bagnem."
 
 #: ../../M13.rst:1125
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3097,7 +3097,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../M13.rst:1136
 msgid ""
@@ -3111,7 +3111,7 @@ msgid ""
 "Glacial Fortress enters the battlefield tapped unless you control a Plains "
 "or an Island."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Równiną lub "
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Równiną lub "
 "Wyspą."
 
 #: ../../M13.rst:1135
@@ -3159,7 +3159,7 @@ msgid ""
 "Rootbound Crag enters the battlefield tapped unless you control a Mountain "
 "or a Forest."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Górą lub Lasem."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Górą lub Lasem."
 
 #: ../../M13.rst:1155
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3177,7 +3177,7 @@ msgid ""
 "Sunpetal Grove enters the battlefield tapped unless you control a Forest or "
 "a Plains."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Lasem lub "
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Lasem lub "
 "Równiną."
 
 #: ../../M13.rst:1161

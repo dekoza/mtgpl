@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rix/pl/>\n"
 "Language: pl\n"
@@ -35,7 +35,7 @@ msgid ""
 "When Baffling End enters the battlefield, exile target creature an opponent "
 "controls with converted mana cost 3 or less."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego stwora o skróconym "
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora o skróconym "
 "koszcie many 3 lub mniejszym pod władaniem przeciwnika."
 
 #: ../../RIX.rst:11
@@ -43,7 +43,7 @@ msgid ""
 "When Baffling End leaves the battlefield, target opponent creates a 3/3 "
 "green Dinosaur creature token with trample."
 msgstr ""
-"Kiedy ten urok opuści pole walki, wskazany przeciwnik tworzy żeton zielonego "
+"Kiedy ten urok opuści pole bitwy, wskazany przeciwnik tworzy żeton zielonego "
 "stwora Dinozaur 3/3 z tratowaniem."
 
 #: ../../RIX.rst:18
@@ -58,8 +58,8 @@ msgid ""
 "When Bishop of Binding enters the battlefield, exile target creature an "
 "opponent controls until Bishop of Binding leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazanego stwora pod "
-"władaniem przeciwnika dopóki niniejszy stwór nie opuści pola walki."
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazanego stwora pod "
+"władaniem przeciwnika dopóki niniejszy stwór nie opuści pola bitwy."
 
 #: ../../RIX.rst:17
 msgid ""
@@ -166,7 +166,7 @@ msgid ""
 "library for a Vampire card, reveal it, then shuffle your library and put "
 "that card on top of it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wampira, ujawnij ją, następnie przetasuj twoją biblioteką i umieścić "
 "ową kartę na jej wierzchu."
 
@@ -175,7 +175,7 @@ msgid ""
 "Whenever another Vampire enters the battlefield under your control, target "
 "creature gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny Wampir wejdzie na pole walki pod twoim władaniem, wskazany "
+"Ilekroć inny Wampir wejdzie na pole bitwy pod twoim władaniem, wskazany "
 "stwór dostaje do końca tury +1/+1."
 
 #: ../../RIX.rst:58
@@ -202,7 +202,7 @@ msgid ""
 "for any number of cards named Legion Conquistador, reveal them, put them "
 "into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "dowolną liczbę kart o nazwie Legion Conquistador, ujawnij je i umieść je w "
 "twojej ręce, następnie przetasuj twoją bibliotekę."
 
@@ -318,7 +318,7 @@ msgstr ""
 
 #: ../../RIX.rst:99
 msgid "As Radiant Destiny enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten urok na polu walki wybierz typ stwora."
+msgstr "Umieszczając ten urok na polu bitwy wybierz typ stwora."
 
 #: ../../RIX.rst:101
 msgid ""
@@ -347,7 +347,7 @@ msgid ""
 "When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on "
 "another target Vampire you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na innym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na innym "
 "wskazanym Wampirze pod twoim władaniem."
 
 #: ../../RIX.rst:116
@@ -419,7 +419,7 @@ msgid ""
 "When Squire's Devotion enters the battlefield, create a 1/1 white Vampire "
 "creature token with lifelink."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Wampir 1/1 "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton białego stwora Wampir 1/1 "
 "z więzią życia."
 
 #: ../../RIX.rst:142
@@ -473,7 +473,7 @@ msgid ""
 "opponent controls until Trapjaw Tyrant leaves the battlefield."
 msgstr ""
 "Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, wygnaj wskazanego stwora "
-"pod władaniem przeciwnika dopóki niniejszy stwór nie opuści pola walki."
+"pod władaniem przeciwnika dopóki niniejszy stwór nie opuści pola bitwy."
 
 #: ../../RIX.rst:160
 msgid ""
@@ -518,7 +518,7 @@ msgid ""
 "creature tokens with hexproof. (They can't be the targets of spells or "
 "abilities your opponents control.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony niebieskiego stwora "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony niebieskiego stwora "
 "Wodnik 1/1 z antyklątwą. (Nie mogą być celami czarów lub zdolności pod "
 "władaniem twoich przeciwników.)"
 
@@ -544,7 +544,7 @@ msgid ""
 "created under an opponent's control this turn is created under your control "
 "instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy żeton, który miałby zostać "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy żeton, który miałby zostać "
 "stworzony pod władaniem któregokolwiek z przeciwników, jest zamiast tego "
 "tworzony pod twoim władaniem."
 
@@ -602,7 +602,7 @@ msgid ""
 "Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked this "
 "turn, you may return target creature to its owner's hand."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej "
+"Najazd — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej "
 "turze, możesz przywrócić wskazanego stwora do ręki właściciela."
 
 #: ../../RIX.rst:204
@@ -663,7 +663,7 @@ msgid ""
 "When Induced Amnesia enters the battlefield, target player exiles all cards "
 "from their hand face down, then draws that many cards."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wskazany gracz wygania jako zakryte "
+"Kiedy ten urok wejdzie na pole bitwy, wskazany gracz wygania jako zakryte "
 "wszystkie karty ze swojej ręki, następnie dobiera tyle samo kart."
 
 #: ../../RIX.rst:217
@@ -671,7 +671,7 @@ msgid ""
 "When Induced Amnesia is put into a graveyard from the battlefield, return "
 "the exiled cards to their owner's hand."
 msgstr ""
-"Kiedy ten urok zostanie umieszczony w cmentarzu z pola walki, przywróć "
+"Kiedy ten urok zostanie umieszczony w cmentarzu z pola bitwy, przywróć "
 "wygnane karty do ręki właściciela."
 
 #: ../../RIX.rst:222
@@ -748,7 +748,7 @@ msgid ""
 "end step."
 msgstr ""
 "Odrzuć trzy karty: Wygnaj tego stwora. Przywróć go przekręconego na pole "
-"walki pod władaniem właściciela na początku najbliższego kroku końcowego."
+"bitwy pod władaniem właściciela na początku najbliższego kroku końcowego."
 
 #: ../../RIX.rst:250
 msgid ""
@@ -788,7 +788,7 @@ msgid ""
 "When Riverwise Augur enters the battlefield, draw three cards, then put two "
 "cards from your hand on top of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz trzy karty, następnie umieść "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz trzy karty, następnie umieść "
 "dwie karty z twojej ręki na wierzchu twojej biblioteki w dowolnej kolejności."
 
 #: ../../RIX.rst:262
@@ -804,7 +804,7 @@ msgid ""
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:270
@@ -868,7 +868,7 @@ msgstr ""
 
 #: ../../RIX.rst:285
 msgid "When Silvergill Adept enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../RIX.rst:292
 msgid ""
@@ -973,7 +973,7 @@ msgstr ""
 
 #: ../../RIX.rst:333
 msgid "When Waterknot enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../RIX.rst:335
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1013,7 +1013,7 @@ msgid ""
 "When Champion of Dusk enters the battlefield, you draw X cards and you lose "
 "X life, where X is the number of Vampires you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz X kart i strać X żyć, gdzie X "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz X kart i strać X żyć, gdzie X "
 "jest liczbą Wampirów pod twoim władaniem."
 
 #: ../../RIX.rst:352
@@ -1082,7 +1082,7 @@ msgid ""
 "When Dire Fleet Poisoner enters the battlefield, target attacking Pirate you "
 "control gets +1/+1 and gains deathtouch until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany atakujący Pirat pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany atakujący Pirat pod twoim "
 "władaniem dostaje do końca tury +1/+1 i dotyk śmierci."
 
 #: ../../RIX.rst:376
@@ -1107,7 +1107,7 @@ msgstr ""
 msgid ""
 "When Dusk Legion Zealot enters the battlefield, you draw a card and you lose "
 "1 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../RIX.rst:384
 msgid ""
@@ -1121,7 +1121,7 @@ msgid ""
 "When Fathom Fleet Boarder enters the battlefield, you lose 2 life unless you "
 "control another Pirate."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, strać 2 życia, chyba że władasz innym "
+"Kiedy ten stwór wejdzie na pole bitwy, strać 2 życia, chyba że władasz innym "
 "Piratem."
 
 #: ../../RIX.rst:390
@@ -1138,7 +1138,7 @@ msgid ""
 "library for a Pirate card, reveal it, then shuffle your library and put that "
 "card on top of it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Pirata, ujawnij ją, następnie przetasuj twoją bibliotekę i umieść ową "
 "kartę na jej wierzchu."
 
@@ -1147,7 +1147,7 @@ msgid ""
 "Whenever another Pirate enters the battlefield under your control, each "
 "opponent loses 1 life."
 msgstr ""
-"Ilekroć inny Pirat wejdzie na pole walki pod twoim władaniem, każdy "
+"Ilekroć inny Pirat wejdzie na pole bitwy pod twoim władaniem, każdy "
 "przeciwnik traci po 1 życiu."
 
 #: ../../RIX.rst:396
@@ -1255,7 +1255,7 @@ msgstr ""
 
 #: ../../RIX.rst:431
 msgid "Oathsworn Vampire enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../RIX.rst:433
 msgid ""
@@ -1294,7 +1294,7 @@ msgid ""
 "When Ravenous Chupacabra enters the battlefield, destroy target creature an "
 "opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego stwora pod "
 "władaniem przeciwnika."
 
 #: ../../RIX.rst:446
@@ -1358,7 +1358,7 @@ msgid ""
 "When Tetzimoc enters the battlefield, destroy each creature your opponents "
 "control with a prey counter on it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz każdego stwora mającego "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz każdego stwora mającego "
 "znacznik ofiary pod władaniem twoich przeciwników."
 
 #: ../../RIX.rst:472
@@ -1437,7 +1437,7 @@ msgid ""
 "When Voracious Vampire enters the battlefield, target Vampire you control "
 "gets +1/+1 and gains menace until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany Wampir pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany Wampir pod twoim władaniem "
 "dostaje do końca tury +1/+1 oraz złowrogość."
 
 #: ../../RIX.rst:502
@@ -1449,7 +1449,7 @@ msgstr ""
 
 #: ../../RIX.rst:499
 msgid "When Blood Sun enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../RIX.rst:501
 msgid "All lands lose all abilities except mana abilities."
@@ -1495,7 +1495,7 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../RIX.rst:522
@@ -1565,7 +1565,7 @@ msgid ""
 "you may spend mana as though it were mana of any type to cast that spell. If "
 "that spell would be put into a graveyard this turn, exile it instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę sztuczki lub "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę sztuczki lub "
 "obrzędu z cmentarza przeciwnika. Możesz rzucić ją w tej turze wydając manę "
 "tak, jakby była maną dowolnego koloru. Jeśli ów czar miałby trafić do "
 "cmentarza w tej turze, zamiast tego wygnaj go."
@@ -1616,7 +1616,7 @@ msgid ""
 "library for a Dinosaur card, reveal it, then shuffle your library and put "
 "that card on top of it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Dinozaura, ujawnij ją, następnie przetasuj twoją bibliotekę i umieścić "
 "ową kartę na jej wierzchu."
 
@@ -1625,7 +1625,7 @@ msgid ""
 "Whenever a Dinosaur enters the battlefield under your control, you may have "
 "Forerunner of the Empire deal 1 damage to each creature."
 msgstr ""
-"Ilekroć Dinozaur wejdzie na pole walki pod twoim władaniem, możesz sprawić, "
+"Ilekroć Dinozaur wejdzie na pole bitwy pod twoim władaniem, możesz sprawić, "
 "by niniejszy stwór zadał każdemu stworowi po 1 obrażeniu."
 
 #: ../../RIX.rst:560
@@ -1638,8 +1638,7 @@ msgstr ""
 #: ../../RIX.rst:557
 msgid ""
 "When Form of the Dinosaur enters the battlefield, your life total becomes 15."
-msgstr ""
-"Kiedy ten urok wejdzie na pole walki, twoje życia otrzymują wartość 15."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, twoje życia otrzymują wartość 15."
 
 #: ../../RIX.rst:559
 msgid ""
@@ -1768,7 +1767,7 @@ msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Żywiołak 0/1 mający "
 "\"Na początku twojego kroku utrzymania, poświęć tego stwora i przywróć "
 "wskazaną kartę o nazwie Rekindling Phoenix z twojego cmentarza na pole "
-"walki. Zyskuje ona pośpiech do końca tury.\""
+"bitwy. Zyskuje ona pośpiech do końca tury.\""
 
 #: ../../RIX.rst:604
 msgid ""
@@ -1874,7 +1873,7 @@ msgid ""
 "Raid — Swaggering Corsair enters the battlefield with a +1/+1 counter on it "
 "if you attacked this turn."
 msgstr ""
-"Najazd — Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1 jeśli "
+"Najazd — Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1 jeśli "
 "atakowałeś w tej turze."
 
 #: ../../RIX.rst:646
@@ -1889,7 +1888,7 @@ msgid ""
 "When Tilonalli's Crown enters the battlefield, it deals 1 damage to "
 "enchanted creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje zauroczonemu stworowi 1 "
+"Kiedy ten urok wejdzie na pole bitwy, zadaje zauroczonemu stworowi 1 "
 "obrażenie."
 
 #: ../../RIX.rst:645
@@ -1954,7 +1953,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór umrze, możesz w tej turze rzucać czary Dinozaurów, jakby "
 "miały błysk i ilekroć rzucisz czar Dinozaura w tej turze, zyskuje on \"Kiedy "
-"ten stwór wejdzie na pole walki, możesz sprawić, by walczył z innym "
+"ten stwór wejdzie na pole bitwy, możesz sprawić, by walczył z innym "
 "wskazanym stworem.\""
 
 #: ../../RIX.rst:670
@@ -1984,7 +1983,7 @@ msgid ""
 "When Crested Herdcaller enters the battlefield, create a 3/3 green Dinosaur "
 "creature token with trample."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora "
 "Dinozaur 3/3 z tratowaniem."
 
 #: ../../RIX.rst:680
@@ -1999,7 +1998,7 @@ msgid ""
 "Whenever another Merfolk enters the battlefield under your control, put a +1/"
 "+1 counter on target Merfolk you control."
 msgstr ""
-"Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, umieść "
+"Ilekroć inny Wodnik wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/1+ na wskazanym Wodniku pod twoim władaniem."
 
 #: ../../RIX.rst:686
@@ -2038,7 +2037,7 @@ msgid ""
 "library for a Merfolk card, reveal it, then shuffle your library and put "
 "that card on top of it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wodnika, ujawnij ją, następnie przetasuj twoją bibliotekę i umieść ową "
 "kartę na jej wierzchu."
 
@@ -2047,7 +2046,7 @@ msgid ""
 "Whenever another Merfolk enters the battlefield under your control, put a +1/"
 "+1 counter on Forerunner of the Heralds."
 msgstr ""
-"Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, umieść "
+"Ilekroć inny Wodnik wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na niniejszym stworze."
 
 #: ../../RIX.rst:698
@@ -2116,7 +2115,7 @@ msgid ""
 "When Jade Bearer enters the battlefield, put a +1/+1 counter on another "
 "target Merfolk you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "Wodniku pod twoim władaniem."
 
 #: ../../RIX.rst:718
@@ -2131,8 +2130,8 @@ msgid ""
 "When Jadecraft Artisan enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury "
-"+2/+2."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
+"2/+2."
 
 #: ../../RIX.rst:722
 msgid ""
@@ -2148,7 +2147,7 @@ msgid ""
 "it's a land. Otherwise, put a +1/+1 counter on this creature, then put the "
 "card back or put it into your graveyard. Then repeat this process.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, eksploruje, następnie eksploruje "
+"Kiedy ten stwór wejdzie na pole bitwy, eksploruje, następnie eksploruje "
 "ponownie. (Ujawnij wierzchnią kartę twojej biblioteki. Umieść ową kartę w "
 "twojej ręce jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na tym "
 "stworze, następnie umieść ową kartę z powrotem lub umieść ją w twoim "
@@ -2167,7 +2166,7 @@ msgid ""
 "creature token with hexproof. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton niebieskiego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton niebieskiego stwora "
 "Wodnik 1/1 z antyklątwą. (Nie może on być celem czarów lub zdolności pod "
 "władaniem twoich przeciwników.)"
 
@@ -2229,7 +2228,7 @@ msgid ""
 "land. Otherwise, put a +1/+1 counter on the creature, then put the card back "
 "or put it into your graveyard.)"
 msgstr ""
-"Ilekroć jakiś stwór wejdzie na pole walki pod twoim władaniem, ów stwór "
+"Ilekroć jakiś stwór wejdzie na pole bitwy pod twoim władaniem, ów stwór "
 "eksploruje. (Ujawnij wierzchnią kartę twojej biblioteki. Umieść ową kartę w "
 "twojej ręce jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na tym "
 "stworze, następnie umieść ową kartę z powrotem lub umieść ją w twoim "
@@ -2285,7 +2284,7 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany Wodnik pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany Wodnik pod twoim władaniem "
 "zyskuje antyklątwę do końca tury. (Nie może on być celem czarów lub "
 "zdolności pod władaniem twoich przeciwników.)"
 
@@ -2344,7 +2343,7 @@ msgid ""
 "tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu walki, następnie przetasuj twoją bibliotekę."
+"polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:790
 msgid ""
@@ -2381,7 +2380,7 @@ msgid ""
 "battlefield tapped."
 msgstr ""
 "Kiedy ten stwór umrze, przywróć wszystkie karty lądów z twojego cmentarza "
-"przekręcone na pole walki."
+"przekręcone na pole bitwy."
 
 #: ../../RIX.rst:804
 msgid ""
@@ -2442,7 +2441,7 @@ msgid ""
 "When Azor, the Lawbringer enters the battlefield, each opponent can't cast "
 "instant or sorcery spells during that player's next turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy z przeciwników nie może rzucać "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy z przeciwników nie może rzucać "
 "czarów sztuczek ani obrzędów w ciągu swojej najbliższej tury."
 
 #: ../../RIX.rst:817
@@ -2517,9 +2516,9 @@ msgid ""
 "creature you control. Then if that creature has three or more +1/+1 counters "
 "on it, transform Hadana's Climb."
 msgstr ""
-"Na początku walki w twojej turze umieść znacznik +1/1+ na wskazanym stworze "
-"pod twoim władaniem. Następnie jeśli ów stwór ma trzy lub więcej znaczników "
-"+1/+1, transformuj ten urok."
+"Na początku potyczki w twojej turze umieść znacznik +1/1+ na wskazanym "
+"stworze pod twoim władaniem. Następnie jeśli ów stwór ma trzy lub więcej "
+"znaczników +1/+1, transformuj ten urok."
 
 #: ../../RIX.rst:850
 msgid ""
@@ -2570,7 +2569,7 @@ msgid ""
 "−8: You get an emblem with \"Whenever a creature enters the battlefield "
 "under your control, you may draw a card.\""
 msgstr ""
-"–8: Dostajesz emblemat mający \"Ilekroć stwór wejdzie na pole walki pod "
+"–8: Dostajesz emblemat mający \"Ilekroć stwór wejdzie na pole bitwy pod "
 "twoim władaniem, możesz dobrać kartę.\""
 
 #: ../../RIX.rst:864
@@ -2591,8 +2590,8 @@ msgid ""
 "control, then return Journey to Eternity to the battlefield transformed "
 "under your control."
 msgstr ""
-"Kiedy zauroczony stwór umrze, przywróć go na pole walki pod twoim władaniem, "
-"następnie przywróć niniejszą kartę na pole walki pod twoim władaniem, "
+"Kiedy zauroczony stwór umrze, przywróć go na pole bitwy pod twoim władaniem, "
+"następnie przywróć niniejszą kartę na pole bitwy pod twoim władaniem, "
 "transformowaną."
 
 #: ../../RIX.rst:872
@@ -2613,7 +2612,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "|mana_3|\\ |mana_b|\\ |mana_g|, |tap|: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza na pole walki."
+"twojego cmentarza na pole bitwy."
 
 #: ../../RIX.rst:876
 msgid ""
@@ -2694,7 +2693,7 @@ msgid ""
 "When Path of Mettle enters the battlefield, it deals 1 damage to each "
 "creature that doesn't have first strike, double strike, vigilance, or haste."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje on po 1 obrażeniu każdemu "
+"Kiedy ten urok wejdzie na pole bitwy, zadaje on po 1 obrażeniu każdemu "
 "stworowi nie posiadającemu pierwszego ciosu, podwójnego ciosu, czujności lub "
 "pośpiechu."
 
@@ -2767,7 +2766,7 @@ msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Put a creature card exiled with this "
 "permanent onto the battlefield under your control."
 msgstr ""
-"|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Umieść na polu walki pod twoim "
+"|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Umieść na polu bitwy pod twoim "
 "władaniem kartę stwora wygnaną tym permanentem."
 
 #: ../../RIX.rst:924
@@ -2783,7 +2782,7 @@ msgid ""
 "battlefield as a copy of any creature on the battlefield."
 msgstr ""
 "Najazd — Jeśli atakowałeś w tej turze, możesz sprawić, że ta karta wejdzie "
-"na pole walki jako kopia innego stwora będącego na polu walki."
+"na pole bitwy jako kopia innego stwora będącego na polu bitwy."
 
 #: ../../RIX.rst:928
 msgid ""
@@ -2910,7 +2909,7 @@ msgid ""
 "When Zacama, Primal Calamity enters the battlefield, if you cast it, untap "
 "all lands you control."
 msgstr ""
-"Kiedy ten stwór wjedzie na pole walki, jeśli został rzucony, odkręć "
+"Kiedy ten stwór wjedzie na pole bitwy, jeśli został rzucony, odkręć "
 "wszystkie lądy pod twoim władaniem."
 
 #: ../../RIX.rst:973
@@ -3035,7 +3034,7 @@ msgid ""
 "under your control."
 msgstr ""
 "|mana_2|: Ten stwór walczy z innym wskazanym stworem pod twoim władaniem. "
-"Kiedy ten stwór umrze w tej turze, przywróć go na pole walki pod twoim "
+"Kiedy ten stwór umrze w tej turze, przywróć go na pole bitwy pod twoim "
 "władaniem, transformowany."
 
 #: ../../RIX.rst:1020
@@ -3183,7 +3182,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:1072
 msgid ""
@@ -3194,7 +3193,7 @@ msgstr ""
 
 #: ../../RIX.rst:1069
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RIX.rst:1071
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -3209,7 +3208,7 @@ msgstr ""
 
 #: ../../RIX.rst:1075
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RIX.rst:1077
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -3224,7 +3223,7 @@ msgstr ""
 
 #: ../../RIX.rst:1081
 msgid "Highland Lake enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RIX.rst:1083
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3239,7 +3238,7 @@ msgstr ""
 
 #: ../../RIX.rst:1087
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RIX.rst:1089
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3254,7 +3253,7 @@ msgstr ""
 
 #: ../../RIX.rst:1093
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RIX.rst:1095
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3406,7 +3405,7 @@ msgstr ""
 
 #: ../../RIX.rst:1141
 msgid "−3: Return target Pirate card from your graveyard to the battlefield."
-msgstr "–3: Przywróć wskazaną kartę Pirata z twojego cmentarza na pole walki."
+msgstr "–3: Przywróć wskazaną kartę Pirata z twojego cmentarza na pole bitwy."
 
 #: ../../RIX.rst:1143
 msgid ""
@@ -3463,7 +3462,7 @@ msgstr ""
 
 #: ../../RIX.rst:1159
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RIX.rst:1161
 msgid "|tap|: Add |mana_b| or |mana_r|."

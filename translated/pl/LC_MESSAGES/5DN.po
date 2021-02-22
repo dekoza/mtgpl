@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5dn/pl/>\n"
 "Language: pl\n"
@@ -76,7 +76,7 @@ msgstr "Ochrona przed czarnym i czerwonym"
 
 #: ../../5DN.rst:25
 msgid "Whenever another creature enters the battlefield, you may gain 1 life."
-msgstr "Ilekroć inny stwór wejdzie na pole walki, możesz zyskać 1 życie."
+msgstr "Ilekroć inny stwór wejdzie na pole bitwy, możesz zyskać 1 życie."
 
 #: ../../5DN.rst:30
 msgid ""
@@ -1818,7 +1818,7 @@ msgstr ""
 
 #: ../../5DN.rst:655
 msgid "Guardian Idol enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole walki."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../5DN.rst:657
 msgid "|tap|: Add |colorless|."

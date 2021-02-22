@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bbd/pl/>\n"
 "Language: pl\n"
@@ -664,7 +664,7 @@ msgid ""
 "When Together Forever enters the battlefield, support 2. (Put a +1/+1 "
 "counter on each of up to two target creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Umieść znacznik +1/+1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, wesprzyj 2. (Umieść znacznik +1/+1 na "
 "każdym z co najwyżej dwóch innych wskazanych stworów.)"
 
 #: ../../BBD.rst:225
@@ -1486,7 +1486,7 @@ msgstr ""
 
 #: ../../BBD.rst:519
 msgid "When Angelic Gift enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../BBD.rst:521
 msgid "Enchanted creature has flying."
@@ -1547,7 +1547,7 @@ msgid ""
 "When Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 "
 "counter on each of up to two other target creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Umieść znacznik +1/+1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, wesprzyj 2. (Umieść znacznik +1/+1 na "
 "każdym z co najwyżej dwóch innych wskazanych stworów.)"
 
 #: ../../BBD.rst:548
@@ -1603,7 +1603,7 @@ msgid ""
 "card to the battlefield under its owner's control with a +1/+1 counter on it."
 msgstr ""
 "Wygnaj wskazanego stwora. Na początku najbliższego kroku końcowego przywróć "
-"ową kartę z umieszczonym znacznikiem +1/+1 na pole walki pod władaniem "
+"ową kartę z umieszczonym znacznikiem +1/+1 na pole bitwy pod władaniem "
 "właściciela."
 
 #: ../../BBD.rst:566
@@ -1637,7 +1637,7 @@ msgstr ""
 
 #: ../../BBD.rst:573
 msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
-msgstr "Ilekroć inny stwór wejdzie na pole walki, odkręć tego stwora."
+msgstr "Ilekroć inny stwór wejdzie na pole bitwy, odkręć tego stwora."
 
 #: ../../BBD.rst:578
 msgid ""
@@ -1742,7 +1742,7 @@ msgstr ""
 
 #: ../../BBD.rst:613
 msgid "When Sparring Mummy enters the battlefield, untap target creature."
-msgstr "Kiedy ten stwór wejdzie na pole walki, odkręć wskazanego stwora."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, odkręć wskazanego stwora."
 
 #: ../../BBD.rst:620
 msgid ""
@@ -1835,7 +1835,7 @@ msgstr ""
 
 #: ../../BBD.rst:645
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../BBD.rst:647
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1881,7 +1881,7 @@ msgid ""
 "controls. That creature doesn't untap during its controller's next untap "
 "step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
 "odkręcania jego władcy."
 
@@ -1976,7 +1976,7 @@ msgid ""
 "of your library, then put any number of them on the bottom of your library "
 "and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
 "twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -2199,7 +2199,7 @@ msgid ""
 "When Eyeblight Assassin enters the battlefield, target creature an opponent "
 "controls gets -1/-1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -1/-1."
 
 #: ../../BBD.rst:786
@@ -2311,7 +2311,7 @@ msgstr ""
 
 #: ../../BBD.rst:817
 msgid "Noosegraf Mob enters the battlefield with five +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając pięć znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników +1/+1."
 
 #: ../../BBD.rst:819
 msgid ""
@@ -2345,7 +2345,7 @@ msgstr ""
 
 #: ../../BBD.rst:829
 msgid "As Nyxathid enters the battlefield, choose an opponent."
-msgstr "Umieszczając tę kartę na polu walki wybierz przeciwnika."
+msgstr "Umieszczając tę kartę na polu bitwy wybierz przeciwnika."
 
 #: ../../BBD.rst:831
 msgid "Nyxathid gets -1/-1 for each card in the chosen player's hand."
@@ -2400,7 +2400,7 @@ msgid ""
 "When Rotfeaster Maggot enters the battlefield, exile target creature card "
 "from a graveyard. You gain life equal to that card's toughness."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę stwora z "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę stwora z "
 "dowolnego cmentarza. Zyskaj tyle żyć, ile wynosi wytrzymałość owej karty."
 
 #: ../../BBD.rst:856
@@ -2423,7 +2423,7 @@ msgstr ""
 
 #: ../../BBD.rst:859
 msgid "Shambling Ghoul enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../BBD.rst:864
 msgid ""
@@ -2435,7 +2435,7 @@ msgstr ""
 #: ../../BBD.rst:863
 msgid ""
 "When Slum Reaper enters the battlefield, each player sacrifices a creature."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../BBD.rst:872
 msgid ""
@@ -2447,7 +2447,7 @@ msgstr ""
 #: ../../BBD.rst:869
 msgid ""
 "Swarm of Bloodflies enters the battlefield with two +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../BBD.rst:871
 msgid ""
@@ -2478,7 +2478,7 @@ msgid ""
 "it to the battlefield tapped under its owner's control."
 msgstr ""
 "Kiedy ten stwór umrze, możesz zapłacić |mana_1|\\ |mana_b|. Jeśli tak "
-"zrobisz, przywróć go przekręconego na pole walki pod władaniem jego "
+"zrobisz, przywróć go przekręconego na pole bitwy pod władaniem jego "
 "właściciela."
 
 #: ../../BBD.rst:884
@@ -2519,8 +2519,8 @@ msgid ""
 "At the beginning of combat on your turn, you may have target creature get +2/"
 "+0 until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, możesz sprawić, że wskazany stwór dostanie "
-"do końca tury +2/+0."
+"Na początku potyczki w twojej turze, możesz sprawić, że wskazany stwór "
+"dostanie do końca tury +2/+0."
 
 #: ../../BBD.rst:898
 msgid ""
@@ -2661,7 +2661,7 @@ msgid ""
 "that creature. It gains haste until end of turn. (It can attack and |tap| "
 "this turn.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj do końca tury władanie nad "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
 "wskazanym stworem o sile 2 lub mniejszej pod władaniem przeciwnika. Odkręć "
 "owego stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w "
 "tej turze.)"
@@ -2855,10 +2855,13 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:1009
+#, fuzzy
 msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
+"Zniszcz wskazany permanent. Jego władca kładzie na polu bitwy żeton "
+"zielonego stwora Bestia 3/3."
 
 #: ../../BBD.rst:1014
 msgid ""
@@ -2926,7 +2929,7 @@ msgstr ""
 
 #: ../../BBD.rst:1035
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../BBD.rst:1042
 msgid ""
@@ -2937,7 +2940,7 @@ msgstr ""
 
 #: ../../BBD.rst:1039
 msgid "Feral Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../BBD.rst:1041
 msgid ""
@@ -2975,7 +2978,7 @@ msgstr ""
 
 #: ../../BBD.rst:1051
 msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../BBD.rst:1053
 msgid ""
@@ -2985,7 +2988,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"walki, następnie tasuje swoją bibliotekę."
+"bitwy, następnie tasuje swoją bibliotekę."
 
 #: ../../BBD.rst:1058
 msgid ""
@@ -3033,7 +3036,7 @@ msgstr ""
 
 #: ../../BBD.rst:1071
 msgid "When Karametra's Favor enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../BBD.rst:1073
 msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
@@ -3120,7 +3123,7 @@ msgid ""
 "When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 "
 "counter on each of up to two other target creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Umieść znacznik +1/+1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, wesprzyj 2. (Umieść znacznik +1/+1 na "
 "każdym z co najwyżej dwóch innych wskazanych stworów.)"
 
 #: ../../BBD.rst:1112
@@ -3232,7 +3235,7 @@ msgstr ""
 
 #: ../../BBD.rst:1145
 msgid "When Centaur Healer enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../BBD.rst:1150
 msgid ""
@@ -3246,7 +3249,7 @@ msgid ""
 "When Dinrova Horror enters the battlefield, return target permanent to its "
 "owner's hand, then that player discards a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany permanent do ręki "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
 "właściciela, następnie ów gracz odrzuca kartę."
 
 #: ../../BBD.rst:1156
@@ -3435,7 +3438,7 @@ msgid ""
 "scry 1, look at the top card of your library, then you may put that card on "
 "the bottom of your library.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy gracz może wróżyć 1. (By wróżyć "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może wróżyć 1. (By wróżyć "
 "1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz umieścić "
 "ową kartę na spodzie twojej biblioteki.)"
 

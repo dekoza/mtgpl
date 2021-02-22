@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/akh/pl/>\n"
 "Language: pl\n"
@@ -46,8 +46,8 @@ msgid ""
 "permanent an opponent controls until Angel of Sanctions leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazany nie-lądowy "
-"permanent pod władaniem przeciwnika, dopóki ten stwór nie opuści pola walki."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazany nie-lądowy "
+"permanent pod władaniem przeciwnika, dopóki ten stwór nie opuści pola bitwy."
 
 #: ../../AKH.rst:13
 msgid ""
@@ -86,7 +86,7 @@ msgid ""
 "Whenever a creature token enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
-"Ilekroć żeton stwora wejdzie na pole walki pod twoim władaniem, zyskaj 1 "
+"Ilekroć żeton stwora wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 "
 "życie."
 
 #: ../../AKH.rst:23
@@ -150,7 +150,7 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, you may "
 "tap target artifact or creature."
 msgstr ""
-"Ilekroć inny Zombi wejdzie na pole walki pod twoim władaniem, możesz "
+"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, możesz "
 "przekręcić wskazany artefakt lub stwora."
 
 #: ../../AKH.rst:48
@@ -170,8 +170,8 @@ msgid ""
 "When Cartouche of Solidarity enters the battlefield, create a 1/1 white "
 "Warrior creature token with vigilance."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Wojownik "
-"1/1 z czujnością."
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton białego stwora Wojownik 1/"
+"1 z czujnością."
 
 #: ../../AKH.rst:47
 msgid "Enchanted creature gets +1/+1 and has first strike."
@@ -189,8 +189,8 @@ msgid ""
 "When Cast Out enters the battlefield, exile target nonland permanent an "
 "opponent controls until Cast Out leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika, dopóki ten urok nie opuści pola walki."
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
+"pod władaniem przeciwnika, dopóki ten urok nie opuści pola bitwy."
 
 #: ../../AKH.rst:55 ../../AKH.rst:225
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
@@ -232,7 +232,7 @@ msgid ""
 msgstr ""
 "Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, przywróć wskazaną "
 "kartę stwora o skróconym koszcie many 2 lub mniejszym z twojego cmentarza na "
-"pole walki. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
+"pole bitwy. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
 "odkręcania.)"
 
 #: ../../AKH.rst:74
@@ -321,7 +321,7 @@ msgstr ""
 
 #: ../../AKH.rst:95
 msgid "As Gideon's Intervention enters the battlefield, choose a card name."
-msgstr "Umieszczając ten urok na polu walki, nazwij kartę."
+msgstr "Umieszczając ten urok na polu bitwy, nazwij kartę."
 
 #: ../../AKH.rst:97
 msgid "Your opponents can't cast spells with the chosen name."
@@ -484,7 +484,7 @@ msgid ""
 "When Regal Caracal enters the battlefield, create two 1/1 white Cat creature "
 "tokens with lifelink."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony białego stwora Kot "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony białego stwora Kot "
 "1/1 z więzią życia."
 
 #: ../../AKH.rst:154
@@ -574,7 +574,7 @@ msgstr ""
 
 #: ../../AKH.rst:173
 msgid "When Sparring Mummy enters the battlefield, untap target creature."
-msgstr "Kiedy ten stwór wejdzie na pole walki, odkręć wskazanego stwora."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, odkręć wskazanego stwora."
 
 #: ../../AKH.rst:178
 msgid ""
@@ -588,7 +588,7 @@ msgid ""
 "When Supply Caravan enters the battlefield, if you control a tapped "
 "creature, create a 1/1 white Warrior creature token with vigilance."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli władasz przekręconym stworem, "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz przekręconym stworem, "
 "stwórz żeton białego stwora Wojownik 1/1 z czujnością."
 
 #: ../../AKH.rst:184
@@ -641,7 +641,7 @@ msgid ""
 "When Trial of Solidarity enters the battlefield, creatures you control get "
 "+2/+1 and gain vigilance until end of turn."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"Kiedy ten urok wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury +2/+1 oraz czujność."
 
 #: ../../AKH.rst:197
@@ -649,7 +649,7 @@ msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Solidarity to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć ten urok "
+"Kiedy Kartusz wejdzie na pole bitwy pod twoim władaniem, przywróć ten urok "
 "do ręki właściciela."
 
 #: ../../AKH.rst:204
@@ -709,9 +709,9 @@ msgid ""
 "creature if it attacked or blocked this turn. Return that card to the "
 "battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wygnać wskazanego stwora, "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazanego stwora, "
 "jeśli w tej turze ów stwór atakował lub blokował. Na początku następnego "
-"kroku końcowego, przywróć owego stwora na pole walki pod władaniem "
+"kroku końcowego, przywróć owego stwora na pole bitwy pod władaniem "
 "właściciela."
 
 #: ../../AKH.rst:220
@@ -760,7 +760,7 @@ msgid ""
 "When Angler Drake enters the battlefield, you may return target creature to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazanego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazanego stwora "
 "do ręki właściciela."
 
 #: ../../AKH.rst:242
@@ -822,7 +822,7 @@ msgstr ""
 
 #: ../../AKH.rst:257
 msgid "When Cartouche of Knowledge enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../AKH.rst:259
 msgid "Enchanted creature gets +1/+1 and has flying."
@@ -1088,7 +1088,7 @@ msgid ""
 "library. Put any number of them into your graveyard and the rest back on top "
 "of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na trzy wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
 "twojej biblioteki. Umieść dowolne z nich w twoim cmentarzu, a pozostałe z "
 "powrotem na wierzchu twojej biblioteki w dowolnej kolejności."
 
@@ -1101,7 +1101,7 @@ msgstr ""
 
 #: ../../AKH.rst:361
 msgid "When New Perspectives enters the battlefield, draw three cards."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz trzy karty."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz trzy karty."
 
 #: ../../AKH.rst:363
 msgid ""
@@ -1253,7 +1253,7 @@ msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Knowledge to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć ten urok "
+"Kiedy Kartusz wejdzie na pole bitwy pod twoim władaniem, przywróć ten urok "
 "do ręki właściciela."
 
 #: ../../AKH.rst:416
@@ -1270,8 +1270,8 @@ msgid ""
 "the token has no mana cost, it's white, and it's a Zombie in addition to its "
 "other types."
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
-"stwora na polu walki, ale jeśli niniejszy stwór był balsamowany, żeton nie "
+"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale jeśli niniejszy stwór był balsamowany, żeton nie "
 "ma kosztu many, jest biały i jest dodatkowo Zombi oprócz swoich pozostałych "
 "typów."
 
@@ -1360,7 +1360,7 @@ msgid ""
 "When Baleful Ammit enters the battlefield, put a -1/-1 counter on target "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../AKH.rst:454
@@ -1429,7 +1429,7 @@ msgid ""
 "When Cartouche of Ambition enters the battlefield, you may put a -1/-1 "
 "counter on target creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, możesz umieścić znacznik -1/-1 na "
+"Kiedy ten urok wejdzie na pole bitwy, możesz umieścić znacznik -1/-1 na "
 "wskazanym stworze."
 
 #: ../../AKH.rst:475
@@ -1506,7 +1506,7 @@ msgstr ""
 
 #: ../../AKH.rst:497
 msgid "Dread Wanderer enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:499
 msgid ""
@@ -1514,7 +1514,7 @@ msgid ""
 "battlefield. Activate this ability only any time you could cast a sorcery "
 "and only if you have one or fewer cards in hand."
 msgstr ""
-"|mana_2|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole walki. "
+"|mana_2|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy. "
 "Aktywuj jako obrzęd i tylko jeśli masz co najwyżej jedną kartę w ręce."
 
 #: ../../AKH.rst:502
@@ -1575,7 +1575,7 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../AKH.rst:524
@@ -1641,7 +1641,7 @@ msgid ""
 "−3: Return target creature card from your graveyard to the battlefield. That "
 "creature is a black Zombie in addition to its other colors and types."
 msgstr ""
-"–3: Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Ów "
+"–3: Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Ów "
 "stwór jest dodatkowo czarnym Zombi oprócz swoich pozostałych kolorów i typów."
 
 #: ../../AKH.rst:541
@@ -1664,7 +1664,7 @@ msgid ""
 "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony czarnego stwora "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
 "Zombi 2/2."
 
 #: ../../AKH.rst:554
@@ -1692,7 +1692,7 @@ msgstr ""
 
 #: ../../AKH.rst:557
 msgid "When Miasmic Mummy enters the battlefield, each player discards a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz odrzuca kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz odrzuca kartę."
 
 #: ../../AKH.rst:562
 msgid ""
@@ -1755,7 +1755,7 @@ msgid ""
 "When Plague Belcher enters the battlefield, put two -1/-1 counters on target "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść dwa znaczniki -1/-1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść dwa znaczniki -1/-1 na "
 "wskazanym stworze pod twoim władaniem."
 
 #: ../../AKH.rst:577
@@ -1817,7 +1817,7 @@ msgid ""
 "When Soulstinger enters the battlefield, put two -1/-1 counters on target "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść dwa znaczniki -1/-1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść dwa znaczniki -1/-1 na "
 "wskazanym stworze pod twoim władaniem."
 
 #: ../../AKH.rst:597
@@ -1876,7 +1876,7 @@ msgid ""
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
 "Do końca tury wskazany stwór dostaje +2/+0 oraz \"Kiedy ten stwór umrze, "
-"przywróć go przekręconego na pole walki pod władaniem właściciela.\""
+"przywróć go przekręconego na pole bitwy pod władaniem właściciela.\""
 
 #: ../../AKH.rst:620
 msgid ""
@@ -1890,7 +1890,7 @@ msgid ""
 "Whenever a creature enters the battlefield under enchanted player's control, "
 "that player loses 1 life and you gain 1 life."
 msgstr ""
-"Ilekroć stwór wejdzie na pole walki pod władaniem zauroczonego gracza, ów "
+"Ilekroć stwór wejdzie na pole bitwy pod władaniem zauroczonego gracza, ów "
 "gracz traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../AKH.rst:626
@@ -1905,14 +1905,14 @@ msgid ""
 "When Trial of Ambition enters the battlefield, target opponent sacrifices a "
 "creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wskazany przeciwnik poświęca stwora."
+"Kiedy ten urok wejdzie na pole bitwy, wskazany przeciwnik poświęca stwora."
 
 #: ../../AKH.rst:625
 msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Ambition to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć niniejszy "
+"Kiedy Kartusz wejdzie na pole bitwy pod twoim władaniem, przywróć niniejszy "
 "urok do ręki właściciela."
 
 #: ../../AKH.rst:632
@@ -2028,7 +2028,7 @@ msgstr ""
 
 #: ../../AKH.rst:667
 msgid "When Bloodrage Brawler enters the battlefield, discard a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, odrzuć kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, odrzuć kartę."
 
 #: ../../AKH.rst:672
 msgid ""
@@ -2064,7 +2064,7 @@ msgid ""
 "When Cartouche of Zeal enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wskazany stwór nie może blokować w tej "
+"Kiedy ten urok wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
 "turze."
 
 #: ../../AKH.rst:683
@@ -2087,7 +2087,7 @@ msgid ""
 msgstr ""
 "Atakując tym stworem, jeśli nie był on wytężony w tej turze, możesz go "
 "wytężyć. Kiedy to zrobisz, odkręć wszystkie inne stwory pod twoim władaniem. "
-"Po tej fazie jest dodatkowa faza walki. (Wytężony stwór nie odkręci się w "
+"Po tej fazie jest dodatkowa faza potyczki. (Wytężony stwór nie odkręci się w "
 "twoim najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:694
@@ -2258,7 +2258,7 @@ msgid ""
 "to that player."
 msgstr ""
 "Ilekroć przeciwnik aktywuje zdolność artefaktu, stwora lub lądu na polu "
-"walki, jeśli nie jest to zdolność dająca manę, ten stwór zadaje 2 obrażenia "
+"bitwy, jeśli nie jest to zdolność dająca manę, ten stwór zadaje 2 obrażenia "
 "owemu graczowi."
 
 #: ../../AKH.rst:750
@@ -2300,9 +2300,9 @@ msgid ""
 "control get +2/+0 and gain haste until end of turn. If you do, sacrifice it "
 "at the beginning of the next end step."
 msgstr ""
-"Na początku walki w twojej turze możesz sprawić, że wskazany stwór pod twoim "
-"władaniem odstanie do końca tury +2/+0 oraz pośpiech. Jeśli tak zrobisz, "
-"poświęć go na początku najbliższego kroku końcowego."
+"Na początku potyczki w twojej turze możesz sprawić, że wskazany stwór pod "
+"twoim władaniem odstanie do końca tury +2/+0 oraz pośpiech. Jeśli tak "
+"zrobisz, poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../AKH.rst:760
 msgid ""
@@ -2317,7 +2317,7 @@ msgid ""
 "another creature. When you do, Heart-Piercer Manticore deals damage equal to "
 "that creature's power to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić innego stwora. Kiedy "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić innego stwora. Kiedy "
 "tak zrobisz, niniejszy stwór zadaje wskazanemu celowi obrażenia równe sile "
 "poświęconego stwora."
 
@@ -2382,7 +2382,7 @@ msgid ""
 "on target creature you control. Manticore of the Gauntlet deals 3 damage to "
 "target opponent or planeswalker."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
 "stworze pod twoim władaniem. Ten stwór zadaje wskazanemu przeciwnikowi lub "
 "wędrowcowi 3 obrażenia."
 
@@ -2530,14 +2530,14 @@ msgstr ""
 msgid ""
 "When Trial of Zeal enters the battlefield, it deals 3 damage to any target."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje wskazanemu celowi 3 obrażenia."
+"Kiedy ten urok wejdzie na pole bitwy, zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../AKH.rst:831
 msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Zeal to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć ten urok "
+"Kiedy Kartusz wejdzie na pole bitwy pod twoim władaniem, przywróć ten urok "
 "do ręki właściciela."
 
 #: ../../AKH.rst:838
@@ -2587,7 +2587,7 @@ msgid ""
 "creature an opponent controls, where X is the number of instant and sorcery "
 "cards in your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu stworowi pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi pod "
 "władaniem przeciwnika X obrażeń, gdzie X jest liczbą kart sztuczek i "
 "obrzędów w twoim cmentarzu."
 
@@ -2638,7 +2638,7 @@ msgid ""
 "creature fight target creature an opponent controls. (Each deals damage "
 "equal to its power to the other.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, możesz sprawić, że zauroczony stwór "
+"Kiedy ten urok wejdzie na pole bitwy, możesz sprawić, że zauroczony stwór "
 "będzie walczyć ze wskazanym stworem pod władaniem przeciwnika. (Każdy zadaje "
 "drugiemu obrażenia równe swojej sile.)"
 
@@ -2660,7 +2660,7 @@ msgid ""
 "won't untap during your next untap step.)"
 msgstr ""
 "Atakując tym stworem, możesz go wytężyć. Kiedy to zrobisz, możesz umieścić "
-"kartę stwora z twojej ręki na polu walki. (Wytężony stwór nie odkręci się w "
+"kartę stwora z twojej ręki na polu bitwy. (Wytężony stwór nie odkręci się w "
 "twoim najbliższym kroku odkręcania.)"
 
 #: ../../AKH.rst:874
@@ -2675,7 +2675,7 @@ msgid ""
 "When Channeler Initiate enters the battlefield, put three -1/-1 counters on "
 "target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść trzy znaczniki -1/-1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść trzy znaczniki -1/-1 na "
 "wskazanym stworze pod twoim władaniem."
 
 #: ../../AKH.rst:873
@@ -2705,7 +2705,7 @@ msgid ""
 "When Crocodile of the Crossing enters the battlefield, put a -1/-1 counter "
 "on target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../AKH.rst:890
@@ -2720,7 +2720,7 @@ msgid ""
 "When Defiant Greatmaw enters the battlefield, put two -1/-1 counters on "
 "target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść dwa znaczniki -1/-1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść dwa znaczniki -1/-1 na "
 "wskazanym stworze pod twoim władaniem."
 
 #: ../../AKH.rst:889
@@ -2758,7 +2758,7 @@ msgid ""
 "When Exemplar of Strength enters the battlefield, put three -1/-1 counters "
 "on target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść trzy znaczniki -1/-1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść trzy znaczniki -1/-1 na "
 "wskazanym stworze pod twoim władaniem."
 
 #: ../../AKH.rst:901
@@ -2789,7 +2789,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../AKH.rst:911
 msgid "When Gift of Paradise enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../AKH.rst:913
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
@@ -2838,7 +2838,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
 "liczbą przekręconych stworów pod twoim władaniem, i umieść owe karty "
-"przekręcone na polu walki. Następnie przetasuj twoją bibliotekę."
+"przekręcone na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:934
 msgid ""
@@ -2911,13 +2911,13 @@ msgstr ""
 msgid ""
 "When Manglehorn enters the battlefield, you may destroy target artifact."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz zniszczyć wskazany artefakt."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt."
 
 #: ../../AKH.rst:953
 msgid "Artifacts your opponents control enter the battlefield tapped."
 msgstr ""
 "Artefakty pod władaniem twoich przeciwników wchodzą przekręcone na pole "
-"walki."
+"bitwy."
 
 #: ../../AKH.rst:958
 msgid ""
@@ -2945,7 +2945,7 @@ msgid ""
 "library."
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, poświęć tego stwora: Wyszukaj w twojej "
-"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu walki, "
+"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, "
 "następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:966
@@ -2960,7 +2960,7 @@ msgid ""
 "When Ornery Kudu enters the battlefield, put a -1/-1 counter on target "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../AKH.rst:970
@@ -2998,7 +2998,7 @@ msgid ""
 "target permanent, put another counter of that kind on it or remove one from "
 "it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dla każdego rodzaju znacznika na "
+"Kiedy ten stwór wejdzie na pole bitwy, dla każdego rodzaju znacznika na "
 "wskazanym permanencie, umieść na nim kolejny tego samego rodzaju lub usuń "
 "zeń jeden."
 
@@ -3099,7 +3099,7 @@ msgid ""
 "library. (Do this before you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
-"bazowego lądu lub Pustyni, umieść ją na polu walki, następnie przetasuj "
+"bazowego lądu lub Pustyni, umieść ją na polu bitwy, następnie przetasuj "
 "twoją bibliotekę. (Zrób to zanim dobierzesz.)"
 
 #: ../../AKH.rst:1014
@@ -3169,15 +3169,15 @@ msgid ""
 "When Trial of Strength enters the battlefield, create a 4/2 green Beast "
 "creature token."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton zielonego stwora Bestia "
-"4/2."
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton zielonego stwora Bestia 4/"
+"2."
 
 #: ../../AKH.rst:1033
 msgid ""
 "When a Cartouche enters the battlefield under your control, return Trial of "
 "Strength to its owner's hand."
 msgstr ""
-"Kiedy Kartusz wejdzie na pole walki pod twoim władaniem, przywróć niniejszy "
+"Kiedy Kartusz wejdzie na pole bitwy pod twoim władaniem, przywróć niniejszy "
 "urok do ręki właściciela."
 
 #: ../../AKH.rst:1042
@@ -3290,7 +3290,7 @@ msgid ""
 "When Decimator Beetle enters the battlefield, put a -1/-1 counter on target "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik -1/-1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../AKH.rst:1067
@@ -3433,7 +3433,7 @@ msgid ""
 msgstr ""
 "0: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to karta lądu lub "
 "stwora o skróconym koszcie many nie większym niż liczba znaczników "
-"lojalności na tym wędrowcu, możesz umieścić ową kartę na polu walki."
+"lojalności na tym wędrowcu, możesz umieścić ową kartę na polu bitwy."
 
 #: ../../AKH.rst:1111
 msgid ""
@@ -3490,8 +3490,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature token you control "
 "gets +1/+1 until end of turn and can't be blocked this turn."
 msgstr ""
-"Na początku walki w twojej turze, wskazany żeton stwora pod twoim władaniem "
-"dostaje do końca tury +1/+1 i nie może być blokowany w tej turze."
+"Na początku potyczki w twojej turze, wskazany żeton stwora pod twoim "
+"władaniem dostaje do końca tury +1/+1 i nie może być blokowany w tej turze."
 
 #: ../../AKH.rst:1133
 msgid ""
@@ -3517,7 +3517,7 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, each "
 "opponent loses 1 life and you gain 1 life."
 msgstr ""
-"Ilekroć inny Zombi wejdzie na pole walki pod twoim władaniem, każdy "
+"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, każdy "
 "przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../AKH.rst:1142
@@ -3784,7 +3784,7 @@ msgid ""
 "tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu walki, następnie przetasuj twoją bibliotekę."
+"polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:1244
 msgid ""
@@ -4004,7 +4004,7 @@ msgid ""
 "ability only if there are six or more creature cards in your graveyard."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twoim cmentarzu, ręce i/"
-"lub bibliotece kartę o nazwie God-Pharaoh's Gift i umieść ją na polu walki. "
+"lub bibliotece kartę o nazwie God-Pharaoh's Gift i umieść ją na polu bitwy. "
 "Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją. Możesz "
 "aktywować tę zdolność tylko jeśli w twoim cmentarzu jest co najmniej sześć "
 "kart stworów."
@@ -4217,7 +4217,7 @@ msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../AKH.rst:1379
 msgid "Canyon Slough enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1390
 msgid ""
@@ -4267,7 +4267,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:1408
 msgid ""
@@ -4282,7 +4282,7 @@ msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../AKH.rst:1405
 msgid "Fetid Pools enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1414
 msgid ""
@@ -4312,7 +4312,7 @@ msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../AKH.rst:1419
 msgid "Irrigated Farmland enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1428
 msgid ""
@@ -4338,7 +4338,7 @@ msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../AKH.rst:1433
 msgid "Scattered Groves enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1444
 msgid ""
@@ -4353,7 +4353,7 @@ msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../AKH.rst:1441
 msgid "Sheltered Thicket enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1450
 msgid ""
@@ -4367,7 +4367,7 @@ msgid ""
 "When Sunscorched Desert enters the battlefield, it deals 1 damage to target "
 "player or planeswalker."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, zadaje on wskazanemu graczowi lub "
+"Kiedy ten ląd wejdzie na pole bitwy, zadaje on wskazanemu graczowi lub "
 "wędrowcowi 1 obrażenie."
 
 #: ../../AKH.rst:1454
@@ -4486,7 +4486,7 @@ msgid ""
 "and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten urok wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Gideon, Martial Paragon, ujawnij ją i umieść ją "
 "w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
@@ -4514,7 +4514,7 @@ msgstr ""
 
 #: ../../AKH.rst:1497
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1499
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -4538,7 +4538,7 @@ msgstr "–3: Zniszcz wskazanego stwora mającego znacznik -1/-1."
 #: ../../AKH.rst:1507
 msgid "−10: Return all creature cards from your graveyard to the battlefield."
 msgstr ""
-"–10: Przywróć wszystkie karty stworów z twojego cmentarza na pole walki."
+"–10: Przywróć wszystkie karty stworów z twojego cmentarza na pole bitwy."
 
 #: ../../AKH.rst:1512
 msgid ""
@@ -4593,7 +4593,7 @@ msgstr ""
 
 #: ../../AKH.rst:1523
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1525
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4608,7 +4608,7 @@ msgstr ""
 
 #: ../../AKH.rst:1529
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1531
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4623,7 +4623,7 @@ msgstr ""
 
 #: ../../AKH.rst:1535
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1537
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -4638,7 +4638,7 @@ msgstr ""
 
 #: ../../AKH.rst:1541
 msgid "Highland Lake enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1543
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4653,7 +4653,7 @@ msgstr ""
 
 #: ../../AKH.rst:1547
 msgid "Meandering River enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1549
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4668,7 +4668,7 @@ msgstr ""
 
 #: ../../AKH.rst:1553
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1555
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4683,7 +4683,7 @@ msgstr ""
 
 #: ../../AKH.rst:1559
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1561
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4698,7 +4698,7 @@ msgstr ""
 
 #: ../../AKH.rst:1565
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1567
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -4713,7 +4713,7 @@ msgstr ""
 
 #: ../../AKH.rst:1571
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:1573
 msgid "|tap|: Add |mana_g| or |mana_u|."

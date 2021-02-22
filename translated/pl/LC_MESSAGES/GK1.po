@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:49+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk1/pl/>\n"
 "Language: pl\n"
@@ -126,7 +126,7 @@ msgid ""
 "When Netherborn Phalanx enters the battlefield, each opponent loses 1 life "
 "for each creature they control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po 1 życiu za "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po 1 życiu za "
 "każdego stwora pod swoim władaniem."
 
 #: ../../GK1.rst:35
@@ -304,7 +304,7 @@ msgid ""
 "When Dinrova Horror enters the battlefield, return target permanent to its "
 "owner's hand, then that player discards a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany permanent do ręki "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
 "właściciela, następnie ów gracz odrzuca kartę."
 
 #: ../../GK1.rst:90
@@ -448,14 +448,14 @@ msgstr ""
 
 #: ../../GK1.rst:133
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../GK1.rst:135
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../GK1.rst:137
@@ -871,14 +871,14 @@ msgstr ""
 
 #: ../../GK1.rst:279
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../GK1.rst:281
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../GK1.rst:283
@@ -909,7 +909,7 @@ msgid ""
 "black and green Insect creature token for each creature card in your "
 "graveyard."
 msgstr ""
-"Ściółka — Kiedy ten stwór wejdzie na pole walki, stwórz po jednym żetonie "
+"Ściółka — Kiedy ten stwór wejdzie na pole bitwy, stwórz po jednym żetonie "
 "czarno-zielonego stwora Insekt 1/1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GK1.rst:293
@@ -950,7 +950,7 @@ msgstr ""
 #: ../../GK1.rst:303
 msgid ""
 "When Slum Reaper enters the battlefield, each player sacrifices a creature."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../GK1.rst:312
 msgid ""
@@ -989,8 +989,8 @@ msgid ""
 "mana_g| was spent to cast this spell, that creature enters the battlefield "
 "with an additional +1/+1 counter on it."
 msgstr ""
-"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli do "
-"rzucenia tego czaru użyto |mana_g|, ów stwór wchodzi na pole walki z "
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Jeśli do "
+"rzucenia tego czaru użyto |mana_g|, ów stwór wchodzi na pole bitwy z "
 "dodatkowym znacznikiem +1/+1."
 
 #: ../../GK1.rst:320
@@ -1047,7 +1047,7 @@ msgstr ""
 
 #: ../../GK1.rst:333
 msgid "When Deadbridge Chant enters the battlefield, mill ten cards."
-msgstr "Kiedy ta karta wejdzie na pole walki, zmiel dziesięć kart."
+msgstr "Kiedy ta karta wejdzie na pole bitwy, zmiel dziesięć kart."
 
 #: ../../GK1.rst:335
 msgid ""
@@ -1056,7 +1056,7 @@ msgid ""
 "your hand."
 msgstr ""
 "Na początku twojego kroku utrzymania wybierz losową kartę z twojego "
-"cmentarza. Jeśli to karta stwora, umieść ją na polu walki. W przeciwnym "
+"cmentarza. Jeśli to karta stwora, umieść ją na polu bitwy. W przeciwnym "
 "razie umieść ją w twojej ręce."
 
 #: ../../GK1.rst:344
@@ -1314,7 +1314,7 @@ msgid ""
 "onto the battlefield under your control."
 msgstr ""
 "|mana_2|\\ |mana_b|: Umieść kartę stwora wygnaną z użyciem tego stwora na "
-"polu walki pod twoim władaniem."
+"polu bitwy pod twoim władaniem."
 
 #: ../../GK1.rst:422
 msgid ""
@@ -1350,14 +1350,14 @@ msgstr ""
 
 #: ../../GK1.rst:429
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../GK1.rst:431
 msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../GK1.rst:433
@@ -1393,7 +1393,7 @@ msgid ""
 "phase."
 msgstr ""
 "Ilekroć ten stwór zaatakuje po raz pierwszy w danej turze, odkręć wszystkie "
-"stwory pod twoim władaniem. Po tej fazie następuje dodatkowa faza walki."
+"stwory pod twoim władaniem. Po tej fazie następuje dodatkowa faza potyczki."
 
 #: ../../GK1.rst:448
 msgid ""
@@ -1575,7 +1575,7 @@ msgid ""
 "on the battlefield, you may gain 1 life."
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli ta karta jest w twoim cmentarzu "
-"lub na polu walki, możesz zyskać 1 życie."
+"lub na polu bitwy, możesz zyskać 1 życie."
 
 #: ../../GK1.rst:501
 msgid ""
@@ -1584,7 +1584,7 @@ msgid ""
 "your upkeep."
 msgstr ""
 "|mana_6|\\ |mana_r|\\ |mana_r|\\ |mana_w|\\ |mana_w|: Przywróć tę kartę z "
-"twojego cmentarza na pole walki. Aktywuj tylko podczas twojego kroku "
+"twojego cmentarza na pole bitwy. Aktywuj tylko podczas twojego kroku "
 "utrzymania."
 
 #: ../../GK1.rst:508
@@ -1744,14 +1744,14 @@ msgstr ""
 
 #: ../../GK1.rst:557
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../GK1.rst:559
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../GK1.rst:561
@@ -1802,7 +1802,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain life equal to that creature's toughness."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, zyskaj życia "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj życia "
 "równe wytrzymałości owego stwora."
 
 #: ../../GK1.rst:577
@@ -1890,8 +1890,8 @@ msgid ""
 "When Armada Wurm enters the battlefield, create a 5/5 green Wurm creature "
 "token with trample."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora Żmij "
-"5/5 z tratowaniem."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Żmij 5/"
+"5 z tratowaniem."
 
 #: ../../GK1.rst:616
 msgid ""
@@ -1913,7 +1913,7 @@ msgstr ""
 
 #: ../../GK1.rst:619
 msgid "When Centaur Healer enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../GK1.rst:624
 msgid ""
@@ -1967,7 +1967,7 @@ msgstr ""
 
 #: ../../GK1.rst:635
 msgid "When Loxodon Hierarch enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 4 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../GK1.rst:637
 msgid ""
@@ -2149,14 +2149,14 @@ msgstr ""
 
 #: ../../GK1.rst:701
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../GK1.rst:703
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, przywróć ląd pod twoim władaniem do "
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../GK1.rst:705

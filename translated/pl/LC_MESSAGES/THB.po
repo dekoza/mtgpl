@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:47+0100\n"
-"PO-Revision-Date: 2021-02-21 21:41+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/thb/pl/>\n"
 "Language: pl\n"
@@ -63,7 +63,7 @@ msgid ""
 "from your graveyard to the battlefield."
 msgstr ""
 "Kiedy ten stwór umrze, możesz przywrócić wskazaną kartę uroku z twojego "
-"cmentarza na pole walki."
+"cmentarza na pole bitwy."
 
 #: ../../THB.rst:26
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, create a 2/2 white Pegasus creature token with flying."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, stwórz "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, stwórz "
 "żeton białego stwora Pegaz 2/2 z lataniem."
 
 #: ../../THB.rst:30
@@ -100,8 +100,8 @@ msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki."
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
+"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../THB.rst:40
 msgid ""
@@ -149,7 +149,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, tap target creature an opponent controls."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, "
 "przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../THB.rst:50
@@ -214,7 +214,7 @@ msgid ""
 "Whenever another creature you control enters the battlefield or dies, you "
 "gain 1 life."
 msgstr ""
-"Ilekroć inny stwór pod twoim władaniem wejdzie na pole walki lub umrze, "
+"Ilekroć inny stwór pod twoim władaniem wejdzie na pole bitwy lub umrze, "
 "zyskaj 1 życie."
 
 #: ../../THB.rst:66
@@ -297,7 +297,7 @@ msgid ""
 "battlefield. Put a +1/+1 counter or a loyalty counter on it."
 msgstr ""
 "III — Przywróć wskazaną kartę stwora lub wędrowca z twojego cmentarza na "
-"pole walki. Umieść na niej znacznik +1/+1 lub lojalności."
+"pole bitwy. Umieść na niej znacznik +1/+1 lub lojalności."
 
 #: ../../THB.rst:100
 msgid ""
@@ -341,7 +341,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, Favored of Iroas gains double strike until end of turn."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, ten "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, ten "
 "stwór zyskuje podwójny cios do końca tury."
 
 #: ../../THB.rst:108
@@ -356,7 +356,7 @@ msgid ""
 "Exile target creature or enchantment, then return it to the battlefield "
 "under its owner's control."
 msgstr ""
-"Wygnaj wskazanego stwora lu urok, następnie przywróć go na pole walki pod "
+"Wygnaj wskazanego stwora lu urok, następnie przywróć go na pole bitwy pod "
 "władaniem jego właściciela."
 
 #: ../../THB.rst:112
@@ -440,7 +440,7 @@ msgid ""
 "for an Aura card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Aury, ujawnij ją i umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -454,7 +454,7 @@ msgstr ""
 #: ../../THB.rst:139
 msgid ""
 "Heliod's Punishment enters the battlefield with four task counters on it."
-msgstr "Ten urok wchodzi na pole walki mając cztery znaczniki zadania."
+msgstr "Ten urok wchodzi na pole bitwy mając cztery znaczniki zadania."
 
 #: ../../THB.rst:141
 msgid ""
@@ -563,7 +563,7 @@ msgid ""
 "enchantment card from your graveyard on top of your library. If you do, you "
 "gain life equal to its converted mana cost."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz umieścić wskazaną kartę uroku "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić wskazaną kartę uroku "
 "z twojego cmentarza na wierzchu twojej biblioteki. Jeśli tak zrobisz, zyskaj "
 "tyle żyć, ile wynosi jej skrócony koszt many."
 
@@ -600,7 +600,7 @@ msgid ""
 "When Omen of the Sun enters the battlefield, create two 1/1 white Human "
 "Soldier creature tokens and you gain 2 life."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony białego stwora "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
 "Człowiek Piechur 1/1 i zyskaj 2 życia."
 
 #: ../../THB.rst:187
@@ -634,7 +634,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, target creature gets +1/+1 until end of turn."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, "
 "wskazany stwór dostaje do końca tury +1/+1."
 
 #: ../../THB.rst:200
@@ -651,7 +651,7 @@ msgid ""
 "mana_w| in the mana costs of permanents you control counts toward your "
 "devotion to white.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów białego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów białego stwora "
 "Człowiek Piechur 1/1, ile wynosi twój kult białego. (Każdy symbol |mana_w| w "
 "kosztach permanentów pod twoim władaniem wlicza się do twojego kultu "
 "białego.)"
@@ -676,7 +676,7 @@ msgstr ""
 
 #: ../../THB.rst:207
 msgid "When Rumbling Sentry enters the battlefield, scry 1."
-msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 1."
 
 #: ../../THB.rst:216
 msgid ""
@@ -779,7 +779,7 @@ msgstr ""
 
 #: ../../THB.rst:245
 msgid "Alirios, Enraptured enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:247
 msgid ""
@@ -793,7 +793,7 @@ msgid ""
 "When Alirios enters the battlefield, create a 3/2 blue Reflection creature "
 "token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton niebieskiego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton niebieskiego stwora "
 "Odbicie 3/2."
 
 #: ../../THB.rst:260
@@ -805,7 +805,7 @@ msgstr ""
 
 #: ../../THB.rst:255
 msgid "When Ashiok's Erasure enters the battlefield, exile target spell."
-msgstr "Kiedy ten urok wejdzie na pole walki, wygnaj wskazany czar."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany czar."
 
 #: ../../THB.rst:257
 msgid "Your opponents can't cast spells with the same name as the exiled card."
@@ -818,7 +818,7 @@ msgid ""
 "When Ashiok's Erasure leaves the battlefield, return the exiled card to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten urok opuści pole walki, przywróć wygnaną kartę do ręki jej "
+"Kiedy ten urok opuści pole bitwy, przywróć wygnaną kartę do ręki jej "
 "właściciela."
 
 #: ../../THB.rst:264
@@ -909,7 +909,7 @@ msgid ""
 "When Elite Instructor enters the battlefield, draw a card, then discard a "
 "card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz kartę, następnie odrzuć kartę."
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę, następnie odrzuć kartę."
 
 #: ../../THB.rst:292
 msgid ""
@@ -1062,7 +1062,7 @@ msgstr ""
 
 #: ../../THB.rst:341
 msgid "When Omen of the Sea enters the battlefield, scry 2, then draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, wróż 2, następnie dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, wróż 2, następnie dobierz kartę."
 
 #: ../../THB.rst:343
 msgid "|mana_2|\\ |mana_u|, Sacrifice Omen of the Sea: Scry 2."
@@ -1100,7 +1100,7 @@ msgid ""
 "control, you may have Protean Thaumaturge become a copy of another target "
 "creature, except it has this ability."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, możesz "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, możesz "
 "sprawić, że niniejszy stwór stanie się kopią innego wskazanego stwora "
 "zachowując niniejszą zdolność."
 
@@ -1127,7 +1127,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, target player mills two cards."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, "
 "wskazany gracz mieli dwie karty."
 
 #: ../../THB.rst:368
@@ -1171,7 +1171,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, you may draw a card. If you do, discard a card."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, możesz "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, możesz "
 "dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../THB.rst:384
@@ -1215,7 +1215,7 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zauroczony stwór dostaje do końca tury "
+"Kiedy ten urok wejdzie na pole bitwy, zauroczony stwór dostaje do końca tury "
 "antyklątwę. (Nie może być wskazany przez czary ani zdolności pod władaniem "
 "twoich przeciwników.)"
 
@@ -1292,7 +1292,7 @@ msgid ""
 "control, then return that card to the battlefield under your control."
 msgstr ""
 "Na początku twojego kroku końcowego wygnaj co najwyżej jednego innego stwora "
-"pod twoim władaniem, następnie przywróć ową kartę na pole walki pod twoim "
+"pod twoim władaniem, następnie przywróć ową kartę na pole bitwy pod twoim "
 "władaniem."
 
 #: ../../THB.rst:417
@@ -1335,7 +1335,7 @@ msgid ""
 "win the game. (Each |mana_u| in the mana costs of permanents you control "
 "counts toward your devotion to blue.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na X wierzchnich kart twojej "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na X wierzchnich kart twojej "
 "biblioteki, gdzie X jest twoim kultem niebieskiego. Umieść co najwyżej jedną "
 "z nich na wierzchu twojej biblioteki, a pozostałe losowo na spodzie twojej "
 "biblioteki. Jeśli X jest większe lub równe liczbie kart w twojej bibliotece, "
@@ -1371,7 +1371,7 @@ msgid ""
 "(Each |mana_u| in the mana costs of permanents you control counts toward "
 "your devotion to blue.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -X/-0, gdzie X jest twoim kultem "
 "niebieskiego. (Każdy symbol |mana_u| w kosztach permanentów pod twoim "
 "władaniem wlicza się do twojego kultu niebieskiego.)"
@@ -1416,7 +1416,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, Triton Waverider gains flying until end of turn."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, ten "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, ten "
 "stwór zyskuje latanie do końca tury."
 
 #: ../../THB.rst:464
@@ -1508,7 +1508,7 @@ msgid ""
 "When Aspect of Lamprey enters the battlefield, target opponent discards two "
 "cards."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wskazany przeciwnik odrzuca dwie karty."
+"Kiedy ten urok wejdzie na pole bitwy, wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../THB.rst:495
 msgid "Enchanted creature has lifelink."
@@ -1529,7 +1529,7 @@ msgid ""
 "black. (Each |mana_b| in the mana costs of permanents you control counts "
 "toward your devotion to black.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -X/-X, gdzie X jest twoim kultem czarnego. "
 "(Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem wlicza się "
 "do twojego kultu czarnego.)"
@@ -1742,7 +1742,7 @@ msgid ""
 "When Gravebreaker Lamia enters the battlefield, search your library for a "
 "card, put it into your graveyard, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wyszukaj w twojej bibliotece dowolną "
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece dowolną "
 "kartę, umieść ją w twoim cmentarzu, następnie przetasuj twoją bibliotekę."
 
 #: ../../THB.rst:577
@@ -1764,7 +1764,7 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po X żyć, "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, "
 "gdzie X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten "
 "sposób. (Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem "
 "wlicza się do twojego kultu czarnego.)"
@@ -1839,7 +1839,7 @@ msgid ""
 "When enchanted creature dies, return that card to the battlefield under your "
 "control."
 msgstr ""
-"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole walki pod twoim "
+"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole bitwy pod twoim "
 "władaniem."
 
 #: ../../THB.rst:616
@@ -1857,7 +1857,7 @@ msgstr "Dotyk śmierci"
 msgid ""
 "When Mire Triton enters the battlefield, mill two cards and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty i zyskaj 2 życia."
+"Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty i zyskaj 2 życia."
 
 #: ../../THB.rst:622
 msgid ""
@@ -1925,7 +1925,7 @@ msgid ""
 "When Omen of the Dead enters the battlefield, return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, przywróć wskazaną kartę stwora z "
+"Kiedy ten urok wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../THB.rst:647
@@ -1967,7 +1967,7 @@ msgid ""
 "Pharika's Spawn escapes with two +1/+1 counters on it. When it enters the "
 "battlefield this way, each opponent sacrifices a non-Gorgon creature."
 msgstr ""
-"Ten stwór ucieka mając dwa znaczniki +1/+1. Kiedy wejdzie na pole walki w "
+"Ten stwór ucieka mając dwa znaczniki +1/+1. Kiedy wejdzie na pole bitwy w "
 "ten sposób, każdy przeciwnik poświęca stwora bez typu Gorgon."
 
 #: ../../THB.rst:666
@@ -1983,7 +1983,7 @@ msgid ""
 "control gets +1/+0 and gains indestructible until end of turn. (Damage and "
 "effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "dostaje do końca tury +1/+0 oraz niezniszczalność. (Obrażenia i efekty "
 "mówiące \"zniszcz\" nie zniszczą go.)"
 
@@ -1999,7 +1999,7 @@ msgid ""
 "When Scavenging Harpy enters the battlefield, exile target card from an "
 "opponent's graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę z cmentarza "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza "
 "przeciwnika."
 
 #: ../../THB.rst:676
@@ -2036,7 +2036,7 @@ msgstr ""
 
 #: ../../THB.rst:683
 msgid "When Treacherous Blessing enters the battlefield, draw three cards."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz trzy karty."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz trzy karty."
 
 #: ../../THB.rst:685
 msgid "Whenever you cast a spell, you lose 1 life."
@@ -2143,7 +2143,7 @@ msgstr ""
 
 #: ../../THB.rst:719
 msgid "When Venomous Hierophant enters the battlefield, mill three cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel trzy karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty."
 
 #: ../../THB.rst:730
 msgid ""
@@ -2157,7 +2157,7 @@ msgid ""
 "When Woe Strider enters the battlefield, create a 0/1 white Goat creature "
 "token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Koza 0/1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Koza 0/1."
 
 #: ../../THB.rst:725
 msgid "Sacrifice another creature: Scry 1."
@@ -2189,7 +2189,7 @@ msgid ""
 "the battlefield."
 msgstr ""
 "I — Zyskaj władanie nad wskazanym stworem na czas pozostawania tego uroku na "
-"polu walki."
+"polu bitwy."
 
 #: ../../THB.rst:737
 msgid ""
@@ -2258,7 +2258,7 @@ msgid ""
 "When Aspect of Manticore enters the battlefield, enchanted creature gains "
 "first strike until end of turn."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zauroczony stwór zyskuje pierwszy cios "
+"Kiedy ten urok wejdzie na pole bitwy, zauroczony stwór zyskuje pierwszy cios "
 "do końca tury."
 
 #: ../../THB.rst:759
@@ -2318,7 +2318,7 @@ msgstr ""
 "Na początku twojego kroku końcowego możesz zapłacić |mana_2|\\ |mana_r| i "
 "poświęcić nie-lądowy permanent. Jeśli tak zrobisz, ujawniaj karty z wierzchu "
 "twojej biblioteki, aż ujawnisz kartę nie-lądowego permanentu. Umieść ją na "
-"polu walki, a pozostałem losowo na spodzie twojej biblioteki."
+"polu bitwy, a pozostałem losowo na spodzie twojej biblioteki."
 
 #: ../../THB.rst:778
 msgid ""
@@ -2445,7 +2445,7 @@ msgid ""
 "When Heroes of the Revel enters the battlefield, create a 1/1 red Satyr "
 "creature token with \"This creature can't block.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton czerwonego stwora Satyr "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton czerwonego stwora Satyr "
 "1/1 mający \"Ten stwór nie może blokować.\""
 
 #: ../../THB.rst:815
@@ -2517,7 +2517,7 @@ msgid ""
 "When Iroas's Blessing enters the battlefield, it deals 4 damage to target "
 "creature or planeswalker an opponent controls."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje on wskazanemu stworowi lub "
+"Kiedy ten urok wejdzie na pole bitwy, zadaje on wskazanemu stworowi lub "
 "wędrowcowi pod władaniem przeciwnika 4 obrażenia."
 
 #: ../../THB.rst:850
@@ -2529,7 +2529,7 @@ msgstr ""
 
 #: ../../THB.rst:845
 msgid "When Irreverent Revelers enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../THB.rst:847 ../../THB.rst:1175
 msgid "Destroy target artifact."
@@ -2558,7 +2558,7 @@ msgid ""
 "When Omen of the Forge enters the battlefield, it deals 2 damage to any "
 "target."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje wskazanemu celowi 2 obrażenia."
+"Kiedy ten urok wejdzie na pole bitwy, zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../THB.rst:861
 msgid "|mana_2|\\ |mana_r|, Sacrifice Omen of the Forge: Scry 2."
@@ -2588,7 +2588,7 @@ msgid ""
 "When Ox of Agonas enters the battlefield, discard your hand, then draw three "
 "cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, odrzuć twoją rękę, następnie dobierz "
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, następnie dobierz "
 "trzy karty."
 
 #: ../../THB.rst:871
@@ -2674,7 +2674,7 @@ msgid ""
 "the next end step."
 msgstr ""
 "|mana_2|\\ |mana_r|: Możesz umieścić kartę czerwonego stwora lub "
-"artefaktowego stwora z twojej ręki na polu walki. Poświęć go na początku "
+"artefaktowego stwora z twojej ręki na polu bitwy. Poświęć go na początku "
 "najbliższego kroku końcowego."
 
 #: ../../THB.rst:906
@@ -2777,7 +2777,7 @@ msgid ""
 "At the beginning of each combat, if you control a creature with power 4 or "
 "greater, Stampede Rider gets +1/+1 until end of turn."
 msgstr ""
-"Na początku każdej walki, jeśli władasz stworem o sile 4 lub większej, "
+"Na początku każdej potyczki, jeśli władasz stworem o sile 4 lub większej, "
 "niniejszy stwór dostaje do końca tury +1/+1."
 
 #: ../../THB.rst:934
@@ -2799,10 +2799,10 @@ msgid ""
 "would leave the battlefield, exile them instead of putting them anywhere "
 "else."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć dowolną liczbę kart typu "
-"Aura z twojego cmentarza na pole walki dołączając je do stworów pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć dowolną liczbę kart typu "
+"Aura z twojego cmentarza na pole bitwy dołączając je do stworów pod twoim "
 "władaniem. Wygnaj owe Aury na początku twojego najbliższego kroku końcowego. "
-"Jeśli owe Aury miałyby opuścić pole walki, wygnaj je zamiast umieszczać je "
+"Jeśli owe Aury miałyby opuścić pole bitwy, wygnaj je zamiast umieszczać je "
 "gdziekolwiek indziej."
 
 #: ../../THB.rst:938
@@ -3012,7 +3012,7 @@ msgid ""
 "When Chainweb Aracnir enters the battlefield, it deals damage equal to its "
 "power to target creature with flying an opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje obrażenia równe swojej sile "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje obrażenia równe swojej sile "
 "wskazanemu stworowi z lataniem pod władaniem przeciwnika."
 
 #: ../../THB.rst:1005
@@ -3118,7 +3118,7 @@ msgid ""
 "When Hydra's Growth enters the battlefield, put a +1/+1 counter on enchanted "
 "creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, umieść znacznik +1/+1 na zauroczonym "
+"Kiedy ten urok wejdzie na pole bitwy, umieść znacznik +1/+1 na zauroczonym "
 "stworze."
 
 #: ../../THB.rst:1043
@@ -3138,7 +3138,7 @@ msgstr ""
 
 #: ../../THB.rst:1047
 msgid "When Hyrax Tower Scout enters the battlefield, untap target creature."
-msgstr "Kiedy ten stwór wejdzie na pole walki, odkręć wskazanego stwora."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, odkręć wskazanego stwora."
 
 #: ../../THB.rst:1052
 msgid ""
@@ -3223,7 +3223,7 @@ msgid ""
 "When Mantle of the Wolf is put into a graveyard from the battlefield, create "
 "two 2/2 green Wolf creature tokens."
 msgstr ""
-"Kiedy ten urok zostanie umieszczony w cmentarzu z pola walki, stwórz dwa "
+"Kiedy ten urok zostanie umieszczony w cmentarzu z pola bitwy, stwórz dwa "
 "żetony zielonego stwora Wilk 2/2."
 
 #: ../../THB.rst:1078
@@ -3275,8 +3275,8 @@ msgid ""
 "At the beginning of combat on your turn, if you control another creature "
 "with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle."
 msgstr ""
-"Na początku walki w twojej turze, jeśli władasz innym stworem o sile 4 lub "
-"większej, umieść znacznik +1/+1 na niniejszym stworze."
+"Na początku potyczki w twojej turze, jeśli władasz innym stworem o sile 4 "
+"lub większej, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../THB.rst:1096
 msgid ""
@@ -3292,7 +3292,7 @@ msgid ""
 "card from among them and put that card into your hand. Put the rest on the "
 "bottom of your library in a random order."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, spójrz "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, spójrz "
 "na trzy wierzchnie karty twojej biblioteki. Możesz ujawnić spośród nich "
 "kartę lądu i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie "
 "twojej biblioteki."
@@ -3309,7 +3309,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, you gain 2 life."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, zyskaj "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, zyskaj "
 "2 życia."
 
 #: ../../THB.rst:1112
@@ -3363,7 +3363,7 @@ msgid ""
 "mana_g| in the mana costs of permanents you control counts toward your "
 "devotion to green.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "dostaje do końca tury +X/+0, gdzie X jest twoim kultem zielonego. (Każdy "
 "symbol |mana_g| w kosztach permanentów pod twoim władaniem wlicza się do "
 "twojego kultu zielonego.)"
@@ -3400,8 +3400,8 @@ msgid ""
 "enchantment creature you control gets +1/+1 and gains trample until end of "
 "turn."
 msgstr ""
-"Na początku walki w twojej turze, wskazany zauroczony stwór lub stwór-urok "
-"pod twoim władaniem dostaje do końca tury +1/+1 oraz tratowanie."
+"Na początku potyczki w twojej turze, wskazany zauroczony stwór lub stwór-"
+"urok pod twoim władaniem dostaje do końca tury +1/+1 oraz tratowanie."
 
 #: ../../THB.rst:1140
 msgid ""
@@ -3438,8 +3438,8 @@ msgid ""
 "for a basic land card, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu walki, następnie "
+"Kiedy ten urok wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../THB.rst:1151
@@ -3459,7 +3459,7 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, walczy on z co najwyżej jednym "
+"Kiedy ten stwór wejdzie na pole bitwy, walczy on z co najwyżej jednym "
 "wskazanym stworem poza twoim władaniem. (Każdy z nich zadaje drugiemu "
 "obrażenia równe swojej sile.)"
 
@@ -3513,7 +3513,7 @@ msgid ""
 "Each other creature you control enters the battlefield with an additional +1/"
 "+1 counter on it."
 msgstr ""
-"Każdy inny stwór pod twoim władaniem wchodzi na pole walki mając dodatkowy "
+"Każdy inny stwór pod twoim władaniem wchodzi na pole bitwy mając dodatkowy "
 "znacznik +1/+1."
 
 #: ../../THB.rst:1180
@@ -3543,7 +3543,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, put a +1/+1 counter on Setessan Champion and draw a card."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, umieść "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na tym stworze i dobierz kartę."
 
 #: ../../THB.rst:1188
@@ -3559,7 +3559,7 @@ msgid ""
 "devotion to green. (Each |mana_g| in the mana costs of permanents you "
 "control counts toward your devotion to green.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj tyle żyć, ile wynosi twój kult "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi twój kult "
 "zielonego. (Każdy symbol |mana_g| w kosztach permanentów pod twoim władaniem "
 "wlicza się do twojego kultu zielonego.)"
 
@@ -3575,7 +3575,7 @@ msgid ""
 "Constellation — Whenever an enchantment enters the battlefield under your "
 "control, Setessan Skirmisher gets +1/+1 until end of turn."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, ten "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, ten "
 "stwór dostaje do końca tury +1/+1."
 
 #: ../../THB.rst:1200
@@ -3587,7 +3587,7 @@ msgstr ""
 
 #: ../../THB.rst:1197
 msgid "When Setessan Training enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../THB.rst:1199
 msgid ""
@@ -3649,7 +3649,7 @@ msgid ""
 "to one target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zauroczony stwór walczy z co najwyżej "
+"Kiedy ten urok wejdzie na pole bitwy, zauroczony stwór walczy z co najwyżej "
 "jednym wskazanym stworem poza twoim władaniem. (Każdy z nich zadaje drugiemu "
 "obrażenia równe swojej sile.)"
 
@@ -3696,7 +3696,7 @@ msgid ""
 "When Acolyte of Affliction enters the battlefield, mill two cards, then you "
 "may return a permanent card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty, następnie możesz "
+"Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty, następnie możesz "
 "przywrócić kartę permanentu z twojego cmentarza do twojej ręki."
 
 #: ../../THB.rst:1236
@@ -3768,7 +3768,7 @@ msgid ""
 "down pile and a face-up pile. Put one pile into your hand and the other into "
 "your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik patrzy na trzy "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik patrzy na trzy "
 "wierzchnie karty twojej biblioteki i dzieli je na zakryty i odkryty stos. "
 "Umieść jeden stos w twojej ręce, a drugi w twoim cmentarzu."
 
@@ -3791,10 +3791,10 @@ msgid ""
 "Enchanted creature gains indestructible until end of turn,\" and it loses "
 "all other abilities."
 msgstr ""
-"Kiedy ten stwór umrze, przywróć go na pole walki. Jest urokiem typu Aura "
-"zauroczenia stwora pod twoim władaniem oraz zdolnością \"|mana_g|\\ |"
-"mana_w|: Zauroczony stwór zyskuje niezniszczalność do końca tury\" i traci "
-"wszystkie inne zdolności."
+"Kiedy ten stwór umrze, przywróć go na pole bitwy. Jest urokiem typu Aura "
+"zauroczenia stwora pod twoim władaniem oraz zdolnością \"|mana_g|\\ |mana_w|:"
+" Zauroczony stwór zyskuje niezniszczalność do końca tury\" i traci wszystkie "
+"inne zdolności."
 
 #: ../../THB.rst:1264
 msgid ""
@@ -3819,12 +3819,12 @@ msgid ""
 "enchantment you control leaves the battlefield."
 msgstr ""
 "–3: Wygnaj wskazanego stwora lub urok poza twoim władaniem dopóki wskazany "
-"urok pod twoim władaniem nie opuści pola walki."
+"urok pod twoim władaniem nie opuści pola bitwy."
 
 #: ../../THB.rst:1263
 msgid ""
 "−7: Return all enchantment cards from your graveyard to the battlefield."
-msgstr "–7: Przywróć wszystkie karty uroku z twojego cmentarza na pole walki."
+msgstr "–7: Przywróć wszystkie karty uroku z twojego cmentarza na pole bitwy."
 
 #: ../../THB.rst:1270
 msgid ""
@@ -3903,7 +3903,7 @@ msgstr ""
 "Na początku twojego kroku końcowego możesz poświęcić inny urok. Jeśli tak "
 "zrobisz, wyszukaj w twojej bibliotece kartę stwora o skróconym koszcie many "
 "o 1 większym niż skrócony koszt many poświęconego uroku, umieść ową kartę na "
-"polu walki, następnie przetasuj twoją bibliotekę."
+"polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../THB.rst:1294
 msgid ""
@@ -3919,7 +3919,7 @@ msgid ""
 "control, put a +1/+1 counter on target creature. That creature gains flying "
 "until end of turn."
 msgstr ""
-"Konstelacja — Ilekroć urok wejdzie na pole walki pod twoim władaniem, umieść "
+"Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na wskazanym stworze. Ów stwór zyskuje latanie do końca tury."
 
 #: ../../THB.rst:1302
@@ -3955,7 +3955,7 @@ msgstr "Ten stwór atakuje w każdej walce, jeśli może."
 
 #: ../../THB.rst:1307
 msgid "As Haktos enters the battlefield, choose 2, 3, or 4 at random."
-msgstr "Umieszczając tego stwora na polu walki wybierz losowo 2, 3 lub 4."
+msgstr "Umieszczając tego stwora na polu bitwy wybierz losowo 2, 3 lub 4."
 
 #: ../../THB.rst:1309
 msgid ""
@@ -3977,7 +3977,7 @@ msgid ""
 "When Hero of the Nyxborn enters the battlefield, create a 1/1 white Human "
 "Soldier creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Człowiek "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Człowiek "
 "Piechur 1/1."
 
 #: ../../THB.rst:1315
@@ -4024,7 +4024,7 @@ msgstr ""
 
 #: ../../THB.rst:1327
 msgid "When Kroxa enters the battlefield, sacrifice it unless it escaped."
-msgstr "Kiedy ten stwór wejdzie na pole walki, poświęć go jeśli nie uciekł."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, poświęć go jeśli nie uciekł."
 
 #: ../../THB.rst:1329
 msgid ""
@@ -4032,7 +4032,7 @@ msgid ""
 "card, then each opponent who didn't discard a nonland card this way loses 3 "
 "life."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, każdy przeciwnik "
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, każdy przeciwnik "
 "odrzuca kartę, następnie każdy przeciwnik, który nie odrzucił w ten sposób "
 "nie-lądowej karty, traci po 3 życia."
 
@@ -4060,7 +4060,7 @@ msgstr "Czujność, złowrogość, więź życia"
 
 #: ../../THB.rst:1337
 msgid "Creature cards in graveyards can't enter the battlefield."
-msgstr "Karty stworów w cmentarzach nie mogą wejść na pole walki."
+msgstr "Karty stworów w cmentarzach nie mogą wejść na pole bitwy."
 
 #: ../../THB.rst:1339
 msgid "Players can't cast spells from graveyards."
@@ -4093,7 +4093,7 @@ msgid ""
 "Polukranos enters the battlefield with six +1/+1 counters on it. It escapes "
 "with twelve +1/+1 counters on it instead."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając sześć znaczników +1/+1. Ucieka mając "
+"Ten stwór wchodzi na pole bitwy mając sześć znaczników +1/+1. Ucieka mając "
 "zamiast tego dwanaście znaczników +1/+1."
 
 #: ../../THB.rst:1351
@@ -4131,11 +4131,11 @@ msgstr "Wybierz jedno lub oba —"
 
 #: ../../THB.rst:1361
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../THB.rst:1363
 msgid "Return target Aura card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę Aury z twojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną kartę Aury z twojego cmentarza na pole bitwy."
 
 #: ../../THB.rst:1370
 msgid ""
@@ -4152,7 +4152,7 @@ msgid ""
 "put it into your hand. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na siedem wierzchnich kart "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na siedem wierzchnich kart "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę Aury i umieścić ją w "
 "twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
@@ -4211,16 +4211,16 @@ msgstr ""
 
 #: ../../THB.rst:1385
 msgid "When Uro enters the battlefield, sacrifice it unless it escaped."
-msgstr "Kiedy ten stwór wejdzie na pole walki, poświęć go jeśli nie uciekł."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, poświęć go jeśli nie uciekł."
 
 #: ../../THB.rst:1387
 msgid ""
 "Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a "
 "card, then you may put a land card from your hand onto the battlefield."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, zyskaj 3 życia i "
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zyskaj 3 życia i "
 "dobierz kartę, następnie możesz umieścić kartę lądu z twojej ręki na polu "
-"walki."
+"bitwy."
 
 #: ../../THB.rst:1389
 msgid ""
@@ -4343,7 +4343,7 @@ msgstr ""
 
 #: ../../THB.rst:1423
 msgid "Nyx Lotus enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole walki."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1425
 msgid ""
@@ -4390,7 +4390,7 @@ msgid ""
 "When Soul-Guide Lantern enters the battlefield, exile target card from a "
 "graveyard."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, wygnaj wskazaną kartę z cmentarza."
+"Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
 #: ../../THB.rst:1439
 msgid "|tap|, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard."
@@ -4409,7 +4409,7 @@ msgstr ""
 
 #: ../../THB.rst:1447
 msgid "When Thaumaturge's Familiar enters the battlefield, scry 1."
-msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 1."
 
 #: ../../THB.rst:1454
 msgid ""
@@ -4492,7 +4492,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Zniszcz wskazany nie-bazowy ląd pod "
 "władaniem przeciwnika. Każdy gracz szuka w swojej bibliotece kartę bazowego "
-"lądu, umieszcza ją na polu walki, następnie tasuje swoją bibliotekę."
+"lądu, umieszcza ją na polu bitwy, następnie tasuje swoją bibliotekę."
 
 #: ../../THB.rst:1478
 msgid ""
@@ -4505,7 +4505,8 @@ msgstr ""
 msgid ""
 "|mana_4|, |tap|: Remove target attacking or blocking creature from combat."
 msgstr ""
-"|mana_4|, |tap|: Usuń wskazanego atakującego lub blokującego stwora z walki."
+"|mana_4|, |tap|: Usuń wskazanego atakującego lub blokującego stwora z "
+"potyczki."
 
 #: ../../THB.rst:1486
 msgid ""
@@ -4516,14 +4517,14 @@ msgstr ""
 
 #: ../../THB.rst:1481
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1483
 msgid ""
 "When Temple of Abandon enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../THB.rst:1485
@@ -4539,14 +4540,14 @@ msgstr ""
 
 #: ../../THB.rst:1489
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1491
 msgid ""
 "When Temple of Deceit enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../THB.rst:1493
@@ -4562,7 +4563,7 @@ msgstr ""
 
 #: ../../THB.rst:1497
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1499
 msgid ""
@@ -4570,7 +4571,7 @@ msgid ""
 "top card of your library. You may put that card on the bottom of your "
 "library.)"
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../THB.rst:1501
@@ -4586,14 +4587,14 @@ msgstr ""
 
 #: ../../THB.rst:1505
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1507
 msgid ""
 "When Temple of Malice enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../THB.rst:1509
@@ -4609,14 +4610,14 @@ msgstr ""
 
 #: ../../THB.rst:1513
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1515
 msgid ""
 "When Temple of Plenty enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ten ląd wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../THB.rst:1517
@@ -4718,7 +4719,7 @@ msgid ""
 "return that card to the battlefield under your control."
 msgstr ""
 "Ilekroć stwór mający znacznik monety umrze lub zostanie wygnany, przywróć "
-"ową kartę na pole walki pod twoim władaniem."
+"ową kartę na pole bitwy pod twoim władaniem."
 
 #: ../../THB.rst:1562
 msgid ""
@@ -4738,7 +4739,7 @@ msgid ""
 "put it onto the battlefield. If you search your library this way, shuffle it."
 msgstr ""
 "–2: Wyszukaj w twojej bibliotece i/lub cmentarzu kartę o nazwie Sunlit "
-"Hoplite i umieść ją na polu walki. Jeśli przeszukasz twoją bibliotekę w ten "
+"Hoplite i umieść ją na polu bitwy. Jeśli przeszukasz twoją bibliotekę w ten "
 "sposób, przetasuj ją."
 
 #: ../../THB.rst:1561
@@ -4761,8 +4762,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature you control gets +2/"
 "+0 until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, wskazany stwór pod twoim władaniem dostaje "
-"do końca tury +2/+0."
+"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem "
+"dostaje do końca tury +2/+0."
 
 #: ../../THB.rst:1570
 msgid ""
@@ -4777,7 +4778,7 @@ msgid ""
 "and/or graveyard for a card named Elspeth, Undaunted Hero, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzy kartę o nazwie Elspeth, Undaunted Hero, ujawnij ją i umieść w "
 "twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
@@ -4814,7 +4815,7 @@ msgid ""
 "−5: Put target creature card from a graveyard onto the battlefield under "
 "your control."
 msgstr ""
-"–5: Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod "
+"–5: Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod "
 "twoim władaniem."
 
 #: ../../THB.rst:1583
@@ -4854,7 +4855,7 @@ msgstr ""
 
 #: ../../THB.rst:1595
 msgid "At the beginning of combat on your turn, each player mills three cards."
-msgstr "Na początku walki w twojej turze, każdy gracz mieli trzy karty."
+msgstr "Na początku potyczki w twojej turze, każdy gracz mieli trzy karty."
 
 #: ../../THB.rst:1602
 msgid ""
@@ -4869,7 +4870,7 @@ msgid ""
 "and/or graveyard for a card named Ashiok, Sculptor of Fears, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Ashiok, Sculptor of Fears, ujawnij ją i umieść "
 "w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
@@ -4886,7 +4887,7 @@ msgid ""
 "until Grasping Giant leaves the battlefield."
 msgstr ""
 "Ilekroć ten stwór zostanie zablokowany przez stwora, wygnaj owego stwora "
-"dopóki niniejszy stwór nie opuście pola walki."
+"dopóki niniejszy stwór nie opuście pola bitwy."
 
 #: ../../THB.rst:1612
 msgid ""
@@ -4915,7 +4916,7 @@ msgid ""
 "When Sphinx Mindbreaker enters the battlefield, each opponent mills ten "
 "cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik mieli dziesięć kart."
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik mieli dziesięć kart."
 
 #: ../../THB.rst:1622
 msgid ""
@@ -4972,7 +4973,7 @@ msgid ""
 "battlefield."
 msgstr ""
 "Kiedy ten stwór umrze, umieść wszystkie wygnane przez niego karty na polu "
-"walki."
+"bitwy."
 
 #: ../../THB.rst:1638
 msgid ""
@@ -4987,7 +4988,7 @@ msgid ""
 "names, put them onto the battlefield, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej cztery karty stwora o typie "
-"Minotaur i różnych nazwach, umieść je na polu walki, następnie przetasuj "
+"Minotaur i różnych nazwach, umieść je na polu bitwy, następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../THB.rst:1644
@@ -5006,7 +5007,7 @@ msgid ""
 "When Terror of Mount Velus enters the battlefield, creatures you control "
 "gain double strike until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem zyskują do "
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem zyskują do "
 "końca tury podwójny cios."
 
 #: ../../THB.rst:1648

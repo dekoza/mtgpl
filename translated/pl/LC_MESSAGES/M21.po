@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -39,7 +39,7 @@ msgstr ""
 #: ../../M21.rst:13
 msgid "−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield."
 msgstr ""
-"–10: Zyskaj 7 żyć, dobierz siedem kart, następnie umieść na polu walki co "
+"–10: Zyskaj 7 żyć, dobierz siedem kart, następnie umieść na polu bitwy co "
 "najwyżej siedem kart permanentów z twojej ręki."
 
 #: ../../M21.rst:18
@@ -109,7 +109,7 @@ msgstr "Latanie"
 #: ../../M21.rst:33
 msgid "When Aven Gagglemaster enters the battlefield, you gain 2 life for each creature you control with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj po 2 życia za każdego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 2 życia za każdego stwora "
 "pod twoim władaniem mającego latanie."
 
 #: ../../M21.rst:38
@@ -140,7 +140,7 @@ msgstr ""
 #: ../../M21.rst:45
 msgid "−6: You get an emblem with \"At the beginning of combat on your turn, create a 1/1 white Soldier creature token, then put a +1/+1 counter on each creature you control.\""
 msgstr ""
-"–6: Dostajesz emblemat mający \"Na początku walki w twojej turze, stwórz "
+"–6: Dostajesz emblemat mający \"Na początku potyczki w twojej turze, stwórz "
 "żeton białego stwora Piechur +1/+1, następnie umieść znacznik +1/+1 na "
 "każdym stworze pod twoim władaniem.\""
 
@@ -151,7 +151,7 @@ msgstr ""
 #: ../../M21.rst:51
 msgid "When Basri's Acolyte enters the battlefield, put a +1/+1 counter on each of up to two other target creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym z co "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym z co "
 "najwyżej dwóch innych wskazanych stworów pod twoim władaniem."
 
 #: ../../M21.rst:60
@@ -165,7 +165,7 @@ msgstr "Czujność, ochrona przed wielokolorowym"
 #: ../../M21.rst:57
 msgid "When Basri's Lieutenant enters the battlefield, put a +1/+1 counter on target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../M21.rst:59
@@ -211,7 +211,7 @@ msgstr "Błysk"
 #: ../../M21.rst:77
 msgid "If a nontoken creature would enter the battlefield and it wasn't cast, exile it instead."
 msgstr ""
-"Jeśli nieżetonowy stwór miałby wejść na pole walki, a nie został rzucony, "
+"Jeśli nieżetonowy stwór miałby wejść na pole bitwy, a nie został rzucony, "
 "zamiast tego wygnaj go."
 
 #: ../../M21.rst:82
@@ -221,7 +221,7 @@ msgstr ""
 #: ../../M21.rst:81
 msgid "When Daybreak Charger enters the battlefield, target creature gets +2/+0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
 "2/+0."
 
 #: ../../M21.rst:88
@@ -272,7 +272,7 @@ msgstr "Zaurocz permanent"
 
 #: ../../M21.rst:99
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 4 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../M21.rst:101
 msgid "Enchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities."
@@ -308,7 +308,7 @@ msgstr ""
 #: ../../M21.rst:115
 msgid "When Gale Swooper enters the battlefield, target creature gains flying until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór do końca tury zyskuje "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór do końca tury zyskuje "
 "latanie."
 
 #: ../../M21.rst:120
@@ -336,9 +336,9 @@ msgstr ""
 #: ../../M21.rst:127
 msgid "When Idol of Endurance enters the battlefield, exile all creature cards with converted mana cost 3 or less from your graveyard until Idol of Endurance leaves the battlefield."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, wygnaj wszystkie karty stworów o "
+"Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wszystkie karty stworów o "
 "skróconym koszcie many 3 lub mniejszym z twojego cmentarza dopóki ten "
-"artefakt nie opuści pola walki."
+"artefakt nie opuści pola bitwy."
 
 #: ../../M21.rst:129
 msgid "|mana_1|\\ |mana_w|, |tap|: Until end of turn, you may cast a creature spell from among cards exiled with Idol of Endurance without paying its mana cost."
@@ -413,7 +413,7 @@ msgstr ""
 
 #: ../../M21.rst:161
 msgid "When Nine Lives leaves the battlefield, you lose the game."
-msgstr "Kiedy ten urok opuści pole walki, przegrywasz grę."
+msgstr "Kiedy ten urok opuści pole bitwy, przegrywasz grę."
 
 #: ../../M21.rst:168
 msgid ":mtgtip:`Pack Leader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8b94bc1-68d1-41dc-914c-a33ecb9aeb49.jpg?1594735110|https://scryfall.com/card/m21/29/pack-leader?utm_source=api>`"
@@ -436,7 +436,7 @@ msgstr ""
 #: ../../M21.rst:171
 msgid "When Rambunctious Mutt enters the battlefield, destroy target artifact or enchantment an opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt lub urok "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt lub urok "
 "pod władaniem przeciwnika."
 
 #: ../../M21.rst:178
@@ -454,7 +454,7 @@ msgstr ""
 
 #: ../../M21.rst:181
 msgid "As Runed Halo enters the battlefield, choose a card name."
-msgstr "Umieszczając ten urok na polu walki, wybierz nazwę karty."
+msgstr "Umieszczając ten urok na polu bitwy, wybierz nazwę karty."
 
 #: ../../M21.rst:183
 msgid "You have protection from the chosen card name. (You can't be targeted, dealt damage, or enchanted by anything with that name.)"
@@ -570,7 +570,7 @@ msgstr ""
 #: ../../M21.rst:231
 msgid "When Valorous Steed enters the battlefield, create a 2/2 white Knight creature token with vigilance."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/"
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/"
 "2 z czujnością."
 
 #: ../../M21.rst:238
@@ -603,14 +603,14 @@ msgstr ""
 #: ../../M21.rst:247
 msgid "When Barrin, Tolarian Archmage enters the battlefield, return up to one other target creature or planeswalker to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć co najwyżej jednego innego "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć co najwyżej jednego innego "
 "wskazanego stwora lub wędrowca do ręki właściciela."
 
 #: ../../M21.rst:249
 msgid "At the beginning of your end step, if a permanent was put into your hand from the battlefield this turn, draw a card."
 msgstr ""
 "Na początku twojego kroku końcowego, jeśli w tej turze permanent został "
-"umieszczony w twojej ręce z pola walki, dobierz kartę."
+"umieszczony w twojej ręce z pola bitwy, dobierz kartę."
 
 #: ../../M21.rst:254
 msgid ":mtgtip:`Cancel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59e14910-ee2e-49ae-855e-46a8ab6cad82.jpg?1594735420|https://scryfall.com/card/m21/46/cancel?utm_source=api>`"
@@ -632,7 +632,7 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../M21.rst:261
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../M21.rst:263
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -785,7 +785,7 @@ msgstr ""
 #: ../../M21.rst:331
 msgid "When Pursued Whale enters the battlefield, each opponent creates a 1/1 red Pirate creature token with \"This creature can't block\" and \"Creatures you control attack each combat if able.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik tworzy żeton "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik tworzy żeton "
 "czerwonego stwora Pirat 1/1 mający \"Ten stwór nie może blokować\" oraz "
 "\"Stwory pod twoim władaniem atakują w każdej walce, jeśli mogą.\""
 
@@ -853,7 +853,7 @@ msgstr ""
 #: ../../M21.rst:361
 msgid "When Roaming Ghostlight enters the battlefield, return up to one target non-Spirit creature to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć co najwyżej jednego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć co najwyżej jednego stwora "
 "bez typu Duch do ręki właściciela."
 
 #: ../../M21.rst:366
@@ -873,7 +873,7 @@ msgstr ""
 #: ../../M21.rst:371
 msgid "When Rousing Read enters the battlefield, draw two cards, then discard a card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, dobierz dwie karty, następnie odrzuć "
+"Kiedy ten urok wejdzie na pole bitwy, dobierz dwie karty, następnie odrzuć "
 "kartę."
 
 #: ../../M21.rst:373
@@ -923,7 +923,7 @@ msgstr ""
 #: ../../M21.rst:395
 msgid "When Shipwreck Dowser enters the battlefield, return target instant or sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę sztuczki lub "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../M21.rst:402
@@ -954,7 +954,7 @@ msgstr ""
 
 #: ../../M21.rst:411
 msgid "When Stormwing Entity enters the battlefield, scry 2."
-msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 2."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
 
 #: ../../M21.rst:426
 msgid ":mtgtip:`Sublime Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad1bcb44-a562-4f66-b862-6d0ef3546ab4.jpg?1594735795|https://scryfall.com/card/m21/74/sublime-epiphany?utm_source=api>`"
@@ -1030,7 +1030,7 @@ msgstr ""
 #: ../../M21.rst:447
 msgid "When Teferi's Tutelage enters the battlefield, draw a card, then discard a card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, dobierz kartę, następnie odrzuć kartę."
+"Kiedy ten urok wejdzie na pole bitwy, dobierz kartę, następnie odrzuć kartę."
 
 #: ../../M21.rst:449
 msgid "Whenever you draw a card, target opponent mills two cards. (They put the top two cards of their library into their graveyard.)"
@@ -1106,7 +1106,7 @@ msgstr ""
 #: ../../M21.rst:483
 msgid "When Wall of Runes enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../M21.rst:486
@@ -1132,7 +1132,7 @@ msgstr ""
 #: ../../M21.rst:497
 msgid "When Archfiend's Vessel enters the battlefield, if it entered from your graveyard or you cast it from your graveyard, exile it. If you do, create a 5/5 black Demon creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli wszedł z twojego cmentarza lub "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli wszedł z twojego cmentarza lub "
 "rzuciłeś go z cmentarza, wygnaj go. Jeśli tak zrobisz, stwórz żeton czarnego "
 "stwora Demon 5/5 z lataniem."
 
@@ -1173,7 +1173,7 @@ msgstr ""
 #: ../../M21.rst:515
 msgid "When Carrion Grub enters the battlefield, mill four cards. (Put the top four cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zmiel cztery karty. (Umieść cztery "
+"Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty. (Umieść cztery "
 "wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../M21.rst:520
@@ -1183,7 +1183,7 @@ msgstr ""
 #: ../../M21.rst:519
 msgid "When Crypt Lurker enters the battlefield, you may sacrifice a creature or discard a creature card. If you do, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić stwora lub odrzucić "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora lub odrzucić "
 "kartę stwora. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../M21.rst:524
@@ -1280,7 +1280,7 @@ msgstr ""
 #: ../../M21.rst:563
 msgid "When Goremand enters the battlefield, each opponent sacrifices a creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik poświęca stwora."
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik poświęca stwora."
 
 #: ../../M21.rst:568
 msgid ":mtgtip:`Grasp of Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/7737b578-8ae3-4846-b508-93ef40f25244.jpg?1594736166|https://scryfall.com/card/m21/102/grasp-of-darkness?utm_source=api>`"
@@ -1344,9 +1344,9 @@ msgstr ""
 #: ../../M21.rst:595
 msgid "When Kitesail Freebooter enters the battlefield, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until Kitesail Freebooter leaves the battlefield."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"Kiedy ta karta wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją "
 "rękę. Wybierz z niej kartę nie będącą stworem ani lądem. Wygnaj ową kartę "
-"dopóki ta karta nie opuści pola walki."
+"dopóki ta karta nie opuści pola bitwy."
 
 #: ../../M21.rst:604
 msgid ":mtgtip:`Liliana, Waker of the Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e329a3e2-6702-4758-8aac-c3017e77b619.jpg?1594739061|https://scryfall.com/card/m21/108/liliana-waker-of-the-dead?utm_source=api>`"
@@ -1367,8 +1367,8 @@ msgstr ""
 #: ../../M21.rst:603
 msgid "−7: You get an emblem with \"At the beginning of combat on your turn, put target creature card from a graveyard onto the battlefield under your control. It gains haste.\""
 msgstr ""
-"–7: Dostajesz emblemat mający \"Na początku walki w twojej turze umieść "
-"wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"–7: Dostajesz emblemat mający \"Na początku potyczki w twojej turze umieść "
+"wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
 "władaniem. Zyskuje on pośpiech.\""
 
 #: ../../M21.rst:610
@@ -1393,7 +1393,7 @@ msgstr ""
 #: ../../M21.rst:615
 msgid "When Liliana's Standard Bearer enters the battlefield, draw X cards, where X is the number of creatures that died under your control this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz X kart, gdzie X jest liczbą "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz X kart, gdzie X jest liczbą "
 "stworów, które umarły pod twoim władaniem w tej turze."
 
 #: ../../M21.rst:620
@@ -1412,7 +1412,7 @@ msgstr ""
 
 #: ../../M21.rst:623
 msgid "Malefic Scythe enters the battlefield with a soul counter on it."
-msgstr "Ten artefakt wchodzi na pole walki mając znacznik duszy."
+msgstr "Ten artefakt wchodzi na pole bitwy mając znacznik duszy."
 
 #: ../../M21.rst:625
 msgid "Equipped creature gets +1/+1 for each soul counter on Malefic Scythe."
@@ -1446,7 +1446,7 @@ msgstr ""
 #: ../../M21.rst:639
 msgid "When Massacre Wurm enters the battlefield, creatures your opponents control get -2/-2 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory pod władaniem twoich "
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod władaniem twoich "
 "przeciwników dostają do końca tury -2/-2."
 
 #: ../../M21.rst:641
@@ -1501,7 +1501,7 @@ msgstr ""
 
 #: ../../M21.rst:665
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../M21.rst:670
 msgid ":mtgtip:`Sanctum of Stone Fangs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1439412-618c-483d-89b9-5ea37f0f1edc.jpg?1594736357|https://scryfall.com/card/m21/120/sanctum-of-stone-fangs?utm_source=api>`"
@@ -1537,7 +1537,7 @@ msgstr ""
 msgid "At the beginning of your end step, if you gained 3 or more life this turn, return Silversmote Ghoul from your graveyard to the battlefield tapped."
 msgstr ""
 "Na początku twojego kroku końcowego, jeśli zyskałeś co najmniej 3 życia w "
-"tej turze, przywróć tę kartę z twojego cmentarza przekręconą na pole walki."
+"tej turze, przywróć tę kartę z twojego cmentarza przekręconą na pole bitwy."
 
 #: ../../M21.rst:681
 msgid "|mana_1|\\ |mana_b|, Sacrifice Silversmote Ghoul: Draw a card."
@@ -1550,7 +1550,7 @@ msgstr ""
 #: ../../M21.rst:685
 msgid "When Skeleton Archer enters the battlefield, it deals 1 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu celowi 1 obrażenie."
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M21.rst:690
 msgid ":mtgtip:`Tavern Swindler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00850e4-6be3-4246-ae45-c0e990e6d6e1.jpg?1594736401|https://scryfall.com/card/m21/124/tavern-swindler?utm_source=api>`"
@@ -1567,7 +1567,7 @@ msgstr ""
 #: ../../M21.rst:695
 msgid "Whenever Thieves' Guild Enforcer or another Rogue enters the battlefield under your control, each opponent mills two cards."
 msgstr ""
-"Ilekroć ten stwór lub inny Łotrzyk wejdzie na pole walki pod twoim "
+"Ilekroć ten stwór lub inny Łotrzyk wejdzie na pole bitwy pod twoim "
 "władaniem, każdy przeciwnik mieli po dwie karty."
 
 #: ../../M21.rst:697
@@ -1619,8 +1619,8 @@ msgstr ""
 #: ../../M21.rst:721
 msgid "At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, możesz sprawić, że wskazany stwór dostanie "
-"do końca tury +2/+0."
+"Na początku potyczki w twojej turze, możesz sprawić, że wskazany stwór "
+"dostanie do końca tury +2/+0."
 
 #: ../../M21.rst:728
 msgid ":mtgtip:`Bolt Hound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f8cf3f9-4e3b-4af2-b5ef-a97eb1d2b674.jpg?1594736483|https://scryfall.com/card/m21/131/bolt-hound?utm_source=api>`"
@@ -1651,7 +1651,7 @@ msgstr ""
 #: ../../M21.rst:733
 msgid "When Bone Pit Brute enters the battlefield, target creature gets +4/+0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
 "4/+0."
 
 #: ../../M21.rst:742
@@ -1914,7 +1914,7 @@ msgstr ""
 #: ../../M21.rst:859
 msgid "When Kinetic Augur enters the battlefield, discard up to two cards, then draw that many cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, odrzuć co najwyżej dwie karty, "
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć co najwyżej dwie karty, "
 "następnie dobierz tyle samo kart."
 
 #: ../../M21.rst:862
@@ -2022,7 +2022,7 @@ msgstr ""
 #: ../../M21.rst:907
 msgid "Whenever another creature enters the battlefield under your control, Terror of the Peaks deals damage equal to that creature's power to any target."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, niniejszy "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
 "stwór zadaje wskazanemu celowi obrażenia równe sile owego stwora."
 
 #: ../../M21.rst:914
@@ -2054,7 +2054,7 @@ msgid "Exile target creature. That creature's controller reveals cards from the 
 msgstr ""
 "Wygnaj wskazanego stwora. Władca owego stwora ujawnia karty z wierzchu "
 "swojej biblioteki aż ujawni kartę stwora. Ów gracz umieszcza ową kartę na "
-"polu walki, następnie wtasowuje pozostałe do swojej biblioteki."
+"polu bitwy, następnie wtasowuje pozostałe do swojej biblioteki."
 
 #: ../../M21.rst:926
 msgid ":mtgtip:`Turn to Slag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38c18541-e95e-4ae0-be18-3bfcafa24ca2.jpg?1594736842|https://scryfall.com/card/m21/168/turn-to-slag?utm_source=api>`"
@@ -2080,7 +2080,7 @@ msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 #: ../../M21.rst:931
 msgid "When Turret Ogre enters the battlefield, if you control another creature with power 4 or greater, Turret Ogre deals 2 damage to each opponent."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym stworem o sile 4 "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym stworem o sile 4 "
 "lub większej, niniejszy stwór zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../M21.rst:936
@@ -2157,7 +2157,7 @@ msgstr ""
 msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu walki, a drugą w twojej ręce. Następnie przetasuj "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../M21.rst:974
@@ -2208,7 +2208,7 @@ msgstr ""
 #: ../../M21.rst:995
 msgid "When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skróconym koszcie many 6 lub większym, ujawnij ją, umieść w "
 "twojej ręce, następnie przetasuj twoją bibliotekę."
 
@@ -2243,7 +2243,7 @@ msgstr ""
 msgid "−7: You get an emblem with \"At the beginning of your end step, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.\""
 msgstr ""
 "–7: Dostajesz emblemat mający \"Na początku twojego kroku końcowego możesz "
-"wyszukać w twojej bibliotece kartę stwora, umieść ją na polu walki, "
+"wyszukać w twojej bibliotece kartę stwora, umieść ją na polu bitwy, "
 "następnie przetasuj twoją bibliotekę.\""
 
 #: ../../M21.rst:1010
@@ -2273,7 +2273,7 @@ msgstr ""
 #: ../../M21.rst:1021
 msgid "When Garruk's Uprising enters the battlefield, if you control a creature with power 4 or greater, draw a card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, jeśli władasz stworem o sile 4 lub "
+"Kiedy ten urok wejdzie na pole bitwy, jeśli władasz stworem o sile 4 lub "
 "większej, dobierz kartę."
 
 #: ../../M21.rst:1023
@@ -2285,7 +2285,7 @@ msgstr ""
 #: ../../M21.rst:1025
 msgid "Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card."
 msgstr ""
-"Ilekroć stwór o sile 4 lub większej wejdzie na pole walki pod twoim "
+"Ilekroć stwór o sile 4 lub większej wejdzie na pole bitwy pod twoim "
 "władaniem, dobierz kartę."
 
 #: ../../M21.rst:1032
@@ -2360,7 +2360,7 @@ msgstr ""
 
 #: ../../M21.rst:1057
 msgid "When Llanowar Visionary enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M21.rst:1059
 msgid "|tap|: Add |mana_g|."
@@ -2397,7 +2397,7 @@ msgstr ""
 #: ../../M21.rst:1075
 msgid "When Pridemalkin enters the battlefield, put a +1/+1 counter on target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../M21.rst:1077
@@ -2497,7 +2497,7 @@ msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../M21.rst:1121
 msgid "When Setessan Training enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M21.rst:1123
 msgid "Enchanted creature gets +1/+0 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
@@ -2573,7 +2573,7 @@ msgstr ""
 
 #: ../../M21.rst:1157
 msgid "When Trufflesnout enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../M21.rst:1159
 msgid "Put a +1/+1 counter on Trufflesnout."
@@ -2599,7 +2599,7 @@ msgstr ""
 
 #: ../../M21.rst:1171
 msgid "Wildwood Scourge enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../M21.rst:1173
 msgid "Whenever one or more +1/+1 counters are put on another non-Hydra creature you control, put a +1/+1 counter on Wildwood Scourge."
@@ -2615,7 +2615,7 @@ msgstr ""
 #: ../../M21.rst:1177
 msgid "When Alpine Houndmaster enters the battlefield, you may search your library for a card named Alpine Watchdog and/or a card named Igneous Cur, reveal them, put them into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę o nazwie Alpine Watchdog i/lub kartę o nazwie Igneous Cur, ujawnij je, "
 "umieść je w twojej ręce, następnie przetasuj twoją bibliotekę."
 
@@ -2646,8 +2646,8 @@ msgstr ""
 #: ../../M21.rst:1189
 msgid "At the beginning of combat on your turn, you may sacrifice another creature. If you do, Dire Fleet Warmonger gets +2/+2 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"Na początku walki w twojej turze, możesz poświęcić innego stwora. Jeśli tak "
-"zrobisz, niniejszy stwór dostaje do końca tury +2/+2 i tratowanie. (Może "
+"Na początku potyczki w twojej turze, możesz poświęcić innego stwora. Jeśli "
+"tak zrobisz, niniejszy stwór dostaje do końca tury +2/+2 i tratowanie. (Może "
 "zadań nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../M21.rst:1194
@@ -2703,7 +2703,7 @@ msgstr ""
 #: ../../M21.rst:1217
 msgid "When Niambi, Esteemed Speaker enters the battlefield, you may return another target creature you control to its owner's hand. If you do, you gain life equal to that creature's converted mana cost."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić innego wskazanego "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić innego wskazanego "
 "stwora pod twoim władaniem do ręki właściciela. Jeśli tak zrobisz, zyskaj "
 "życia równe skróconemu kosztowi many owego stwora."
 
@@ -2725,7 +2725,7 @@ msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
 msgid "|mana_2|\\ |mana_u|\\ |mana_b|, |tap|, Sacrifice Obsessive Stitcher: Return target creature card from your graveyard to the battlefield."
 msgstr ""
 "|mana_2|\\ |mana_u|\\ |mana_b|, |tap|, poświęć tego stwora: Przywróć "
-"wskazaną kartę stwora z twojego cmentarza na pole walki."
+"wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../M21.rst:1234
 msgid ":mtgtip:`Radha, Heart of Keld<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bbd37b1-49cb-4295-9a1f-fb85368a8f12.jpg?1594737431|https://scryfall.com/card/m21/224/radha-heart-of-keld?utm_source=api>`"
@@ -2755,7 +2755,7 @@ msgstr ""
 msgid "At the beginning of your upkeep, you may search your library and/or graveyard for a Shrine card and put it onto the battlefield. If you search your library this way, shuffle it."
 msgstr ""
 "Na początku twojego kroku utrzymania możesz wyszukać w twojej bibliotece i/"
-"lub cmentarzu kartę Kapliczki i umieścić ją na polu walki. Jeśli przeszukasz "
+"lub cmentarzu kartę Kapliczki i umieścić ją na polu bitwy. Jeśli przeszukasz "
 "twoją bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../M21.rst:1239
@@ -2786,7 +2786,7 @@ msgstr "Rzucanie czarów stworów mających latanie kosztuje cię o |mana_1| mni
 #: ../../M21.rst:1251
 msgid "Whenever another creature with flying enters the battlefield under your control, Watcher of the Spheres gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny stwór mający latanie wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć inny stwór mający latanie wejdzie na pole bitwy pod twoim władaniem, "
 "niniejszy stwór dostaje do końca tury +1/+1."
 
 #: ../../M21.rst:1260
@@ -2816,7 +2816,7 @@ msgstr ""
 #: ../../M21.rst:1263
 msgid "When Chrome Replicator enters the battlefield, if you control two or more nonland, nontoken permanents with the same name as one another, create a 4/4 colorless Construct artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli władasz co najmniej dwoma "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz co najmniej dwoma "
 "nielądowymi nieżetonowymi permanentami mającymi tę samą nazwę, stwórz żeton "
 "bezkolorowego artefaktycznego stwora Konstrukt 4/4."
 
@@ -2836,7 +2836,7 @@ msgstr ""
 
 #: ../../M21.rst:1271
 msgid "Forgotten Sentinel enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1280
 msgid ":mtgtip:`Mazemind Tome<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fd761f3-6b43-4150-8595-dc3abd85b06c.jpg?1594737505|https://scryfall.com/card/m21/232/mazemind-tome?utm_source=api>`"
@@ -2864,7 +2864,7 @@ msgstr ""
 #: ../../M21.rst:1283
 msgid "When Meteorite enters the battlefield, it deals 2 damage to any target."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, zadaje wskazanemu celowi 2 "
+"Kiedy ten artefakt wejdzie na pole bitwy, zadaje wskazanemu celowi 2 "
 "obrażenia."
 
 #: ../../M21.rst:1285
@@ -2911,7 +2911,7 @@ msgstr ""
 
 #: ../../M21.rst:1309
 msgid "When Skyscanner enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M21.rst:1316
 msgid ":mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bbd2cab-538e-4932-a828-150e3e9d52ad.jpg?1594737564|https://scryfall.com/card/m21/239/solemn-simulacrum?utm_source=api>`"
@@ -2920,8 +2920,8 @@ msgstr ""
 #: ../../M21.rst:1313
 msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu walki, następnie "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../M21.rst:1315
@@ -2975,11 +2975,11 @@ msgstr ""
 
 #: ../../M21.rst:1339
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1341
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1343
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -2991,11 +2991,11 @@ msgstr ""
 
 #: ../../M21.rst:1347
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1349
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1351
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -3007,11 +3007,11 @@ msgstr ""
 
 #: ../../M21.rst:1355
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1357
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1359
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3025,7 +3025,7 @@ msgstr ""
 msgid "|tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę. "
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę. "
 "Następnie jeśli władasz przynajmniej czterema lądami, odkręć ów ląd."
 
 #: ../../M21.rst:1372
@@ -3034,11 +3034,11 @@ msgstr ""
 
 #: ../../M21.rst:1367
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1369
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1371
 #: ../../M21.rst:1417
@@ -3051,7 +3051,7 @@ msgstr ""
 
 #: ../../M21.rst:1375
 msgid "When Radiant Fountain enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 2 życia."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../M21.rst:1386
 msgid ":mtgtip:`Rugged Highlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9daef8db-56a5-4b1e-b4bf-734d0516557c.jpg?1594737663|https://scryfall.com/card/m21/249/rugged-highlands?utm_source=api>`"
@@ -3059,11 +3059,11 @@ msgstr ""
 
 #: ../../M21.rst:1381
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1383
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1385
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3075,11 +3075,11 @@ msgstr ""
 
 #: ../../M21.rst:1389
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1391
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1393
 #: ../../M21.rst:1433
@@ -3092,11 +3092,11 @@ msgstr ""
 
 #: ../../M21.rst:1397
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1399
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1401
 #: ../../M21.rst:1409
@@ -3109,11 +3109,11 @@ msgstr ""
 
 #: ../../M21.rst:1405
 msgid "Temple of Epiphany enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1407
 msgid "When Temple of Epiphany enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../M21.rst:1418
 msgid ":mtgtip:`Temple of Malady<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c97929f8-ae80-4b4a-9d9b-2f3c7605edc8.jpg?1594737701|https://scryfall.com/card/m21/253/temple-of-malady?utm_source=api>`"
@@ -3121,11 +3121,11 @@ msgstr ""
 
 #: ../../M21.rst:1413
 msgid "Temple of Malady enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1415
 msgid "When Temple of Malady enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../M21.rst:1426
 msgid ":mtgtip:`Temple of Mystery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81634185-eb67-4d13-8b82-a662b8c9a7f0.jpg?1594737710|https://scryfall.com/card/m21/254/temple-of-mystery?utm_source=api>`"
@@ -3133,11 +3133,11 @@ msgstr ""
 
 #: ../../M21.rst:1421
 msgid "Temple of Mystery enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1423
 msgid "When Temple of Mystery enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../M21.rst:1425
 #: ../../M21.rst:1449
@@ -3150,11 +3150,11 @@ msgstr ""
 
 #: ../../M21.rst:1429
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1431
 msgid "When Temple of Silence enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../M21.rst:1442
 msgid ":mtgtip:`Temple of Triumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2366499c-9d07-46bb-8488-6cd60056fa16.jpg?1594737727|https://scryfall.com/card/m21/256/temple-of-triumph?utm_source=api>`"
@@ -3162,11 +3162,11 @@ msgstr ""
 
 #: ../../M21.rst:1437
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1439
 msgid "When Temple of Triumph enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../M21.rst:1441
 #: ../../M21.rst:1465
@@ -3179,11 +3179,11 @@ msgstr ""
 
 #: ../../M21.rst:1445
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1447
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1458
 msgid ":mtgtip:`Tranquil Cove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fee9b4b-1510-4b78-bdde-2e0bb319ee33.jpg?1594737751|https://scryfall.com/card/m21/258/tranquil-cove?utm_source=api>`"
@@ -3191,11 +3191,11 @@ msgstr ""
 
 #: ../../M21.rst:1453
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1455
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1457
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -3207,11 +3207,11 @@ msgstr ""
 
 #: ../../M21.rst:1461
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M21.rst:1463
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../M21.rst:1470
 msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4be96696-aff8-4ef9-97dc-8221ef745de9.jpg?1594737767|https://scryfall.com/card/m21/260/plains?utm_source=api>`"
@@ -3297,7 +3297,7 @@ msgstr ""
 #: ../../M21.rst:1505
 msgid "At the beginning of combat on your turn, if you control a Basri planeswalker, put a +1/+1 counter on Adherent of Hope."
 msgstr ""
-"Na początku walki w tej turze, jeśli władasz wędrowcem typu Basri, umieść "
+"Na początku potyczki w tej turze, jeśli władasz wędrowcem typu Basri, umieść "
 "znacznik +1/+1 na tym stworze."
 
 #: ../../M21.rst:1510
@@ -3368,7 +3368,7 @@ msgstr ""
 #: ../../M21.rst:1535
 msgid "When Teferi's Wavecaster enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timeless Voyager, reveal it, and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Teferi, Timeless Voyager, ujawnij ją i umieść w "
 "twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
@@ -3451,7 +3451,7 @@ msgstr ""
 #: ../../M21.rst:1569
 msgid "When Chandra's Firemaw enters the battlefield, you may search your library and/or graveyard for a card named Chandra, Flame's Catalyst, reveal it, and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Chandra, Flame's Catalyst, ujawnij ją i mieść w "
 "twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
@@ -3472,7 +3472,7 @@ msgstr ""
 #: ../../M21.rst:1577
 msgid "When Storm Caller enters the battlefield, it deals 2 damage to each opponent."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje on każdemu przeciwnikowi po 2 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po 2 "
 "obrażenia."
 
 #: ../../M21.rst:1586
@@ -3509,7 +3509,7 @@ msgstr "Czujność"
 #: ../../M21.rst:1591
 msgid "When Garruk's Warsteed enters the battlefield, you may search your library and/or graveyard for a card named Garruk, Savage Herald, reveal it, and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Garruk, Savage Herald, ujawnij ją i umieść w "
 "twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:47+0100\n"
-"PO-Revision-Date: 2021-02-21 21:41+0000\n"
+"PO-Revision-Date: 2021-02-22 09:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -131,7 +131,7 @@ msgid ""
 "When Codespell Cleric enters the battlefield, if it was the second spell you "
 "cast this turn, put a +1/+1 counter on target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli był drugim czarem rzuconym "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli był drugim czarem rzuconym "
 "przez ciebie w tej turze, umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../KHM.rst:42
@@ -147,7 +147,7 @@ msgid ""
 "player may put a permanent card from their hand onto the battlefield."
 msgstr ""
 "Wygnaj wskazany artefakt, stwora lub urok pod władaniem przeciwnika. Ów "
-"gracz może umieścić kartę permanentu ze swojej ręki na polu walki."
+"gracz może umieścić kartę permanentu ze swojej ręki na polu bitwy."
 
 #: ../../KHM.rst:48
 msgid ""
@@ -226,9 +226,9 @@ msgid ""
 "non-Angel creatures you control until Glorious Protector leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wygnać dowolną liczbę stworów "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać dowolną liczbę stworów "
 "bez typu Anioł pod twoim władaniem dopóki niniejszy stwór nie opuści pola "
-"walki."
+"bitwy."
 
 #: ../../KHM.rst:67
 msgid "Foretell |mana_2|\\ |mana_w|"
@@ -286,7 +286,7 @@ msgid ""
 "At the beginning of each combat, you may attach target Aura or Equipment "
 "attached to a creature you control to target creature you control."
 msgstr ""
-"Na początku każdej walki możesz dołączyć do wskazanego stwora pod twoim "
+"Na początku każdej potyczki możesz dołączyć do wskazanego stwora pod twoim "
 "władaniem wskazaną Aurę lub Wyposażenie dołączone do stwora pod twoim "
 "władaniem."
 
@@ -356,7 +356,7 @@ msgid ""
 "your graveyard. If you do, return target artifact or enchantment card from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wygnać kartę stwora z twojego "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać kartę stwora z twojego "
 "cmentarza. Jeśli tak zrobisz, przywróć wskazaną kartę artefaktu lub uroku z "
 "twojego cmentarza do twojej ręki."
 
@@ -369,7 +369,7 @@ msgstr ""
 
 #: ../../KHM.rst:115
 msgid "As Rally the Ranks enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten urok na polu walki wybierz typ stwora."
+msgstr "Umieszczając ten urok na polu bitwy wybierz typ stwora."
 
 #: ../../KHM.rst:117
 msgid "Creatures you control of the chosen type get +1/+1."
@@ -391,7 +391,7 @@ msgstr "Latanie, czujność"
 msgid "Snow lands your opponents control enter the battlefield tapped."
 msgstr ""
 "Śnieżne lądy pod władaniem twoich przeciwników wchodzą przekręcone na pole "
-"walki."
+"bitwy."
 
 #: ../../KHM.rst:125
 msgid ""
@@ -441,7 +441,7 @@ msgid ""
 "on each creature you control other than Resplendent Marshal that shares a "
 "creature type with the exiled card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki lub umrze, możesz wygnać inną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy lub umrze, możesz wygnać inną kartę "
 "stwora z twojego cmentarza. Kiedy tak zrobisz, umieść znacznik +1/+1 na "
 "każdym stworze pod twoim władaniem innym niż niniejszy stwór współdzielącym "
 "typ stwora z wygnaną kartą."
@@ -473,7 +473,7 @@ msgid ""
 "Whenever another Angel or Cleric enters the battlefield under your control, "
 "you gain life equal to that creature's toughness."
 msgstr ""
-"Ilekroć inny Anioł lub Kleryk wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć inny Anioł lub Kleryk wejdzie na pole bitwy pod twoim władaniem, "
 "zyskaj tyle żyć, ile wynosi wytrzymałość owego stwora."
 
 #: ../../KHM.rst:151
@@ -493,7 +493,7 @@ msgstr ""
 
 #: ../../KHM.rst:157
 msgid "When Rune of Sustenance enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KHM.rst:159
 msgid "As long as enchanted permanent is a creature, it has lifelink."
@@ -520,7 +520,7 @@ msgid ""
 "and/or graveyard for a Rune card, reveal it, and put it into your hand. If "
 "you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę typu Runa, ujawnij ją i umieść ją w twojej ręce. Jeśli "
 "przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
@@ -563,8 +563,8 @@ msgid ""
 "card with converted mana cost 2 or less from your graveyard to the "
 "battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę permanentu o "
-"skróconym koszcie many 2 lub mniejszym z twojego cmentarza na pole walki."
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę permanentu o "
+"skróconym koszcie many 2 lub mniejszym z twojego cmentarza na pole bitwy."
 
 #: ../../KHM.rst:188
 msgid ""
@@ -582,9 +582,9 @@ msgid ""
 "When Sigrid, God-Favored enters the battlefield, exile up to one target "
 "attacking or blocking creature until Sigrid leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj co najwyżej jednego "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj co najwyżej jednego "
 "atakującego lub blokującego stwora dopóki niniejszy stwór nie opuści pola "
-"walki."
+"bitwy."
 
 #: ../../KHM.rst:196
 msgid ""
@@ -702,8 +702,8 @@ msgid ""
 "mana_w|. If you do, create a 4/4 white Angel Warrior creature token with "
 "flying and vigilance, then attach Valkyrie's Sword to it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, możesz zapłacić |mana_4|\\ |"
-"mana_w|. Jeśli tak zrobisz, stwórz żeton białego stwora Anioł Wojownik 4/4 z "
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_4|\\ |mana_w|"
+". Jeśli tak zrobisz, stwórz żeton białego stwora Anioł Wojownik 4/4 z "
 "lataniem i czujnością, następnie dołącz do niego ten artefakt."
 
 #: ../../KHM.rst:227
@@ -730,8 +730,8 @@ msgid ""
 "When enchanted creature leaves the battlefield, create a 1/1 white Spirit "
 "creature token with flying."
 msgstr ""
-"Kiedy zauroczony stwór opuści pole walki, stwórz żeton białego stwora Duch "
-"1/1 z lataniem."
+"Kiedy zauroczony stwór opuści pole bitwy, stwórz żeton białego stwora Duch 1/"
+"1 z lataniem."
 
 #: ../../KHM.rst:244
 msgid ""
@@ -940,10 +940,10 @@ msgid ""
 "doesn't untap during its controller's next untap step. (|mana_s| is mana "
 "from a snow source.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wskazany artefakt lub stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazany artefakt lub stwora "
 "pod władaniem przeciwnika. Jeśli do rzucenia tego czaru użyto |mana_s|, ów "
-"permanent nie odkręci się w najbliższym kroku odkręcania swojego władcy. (|"
-"mana_s| to mana ze śnieżnego źródła.)"
+"permanent nie odkręci się w najbliższym kroku odkręcania swojego władcy. "
+"(|mana_s| to mana ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:306
 msgid ""
@@ -957,7 +957,7 @@ msgid ""
 "When Bind the Monster enters the battlefield, tap enchanted creature. It "
 "deals damage to you equal to its power."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora. Zadaje "
+"Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora. Zadaje "
 "on tobie obrażenia równe jego sile."
 
 #: ../../KHM.rst:305
@@ -976,7 +976,7 @@ msgid ""
 "When Brinebarrow Intruder enters the battlefield, target creature an "
 "opponent controls gets -2/-0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -2/-0."
 
 #: ../../KHM.rst:316
@@ -996,9 +996,9 @@ msgid ""
 "number of voyage counters on it.\""
 msgstr ""
 "Na początku twojego kroku utrzymania, możesz wygnać tego stwora. Jeśli tak "
-"zrobisz zyskuje on \"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, "
+"zrobisz zyskuje on \"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, "
 "a ta karta jest na wygnaniu, możesz umieścić na niej znacznik podróży. Jeśli "
-"tego nie zrobisz, przywróć tę kartę na pole walki mającą X znaczników +1/+1 "
+"tego nie zrobisz, przywróć tę kartę na pole bitwy mającą X znaczników +1/+1 "
 "i dobierz X kart, gdzie X jest liczbą znaczników podróży na tej karcie.\""
 
 #: ../../KHM.rst:322
@@ -1061,7 +1061,7 @@ msgid ""
 "return all permanents to their owners' hands except for Giants, Wizards, and "
 "lands."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został rzucony z twojej ręki, "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony z twojej ręki, "
 "przywróć wszystkie permanenty do rąk ich właścicieli z wyjątkiem Gigantów, "
 "Czarodziei i lądów."
 
@@ -1108,7 +1108,7 @@ msgid ""
 "When Draugr Thought-Thief enters the battlefield, look at the top card of "
 "target player's library. You may put that card into their graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na wierzchnią kartę biblioteki "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na wierzchnią kartę biblioteki "
 "wskazanego gracza. Możesz umieścić ową kartę w ich cmentarzu."
 
 #: ../../KHM.rst:354
@@ -1163,7 +1163,7 @@ msgid ""
 "instant or sorcery card with the same name as a card in your graveyard, "
 "reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wyszukaj w twojej bibliotece kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "sztuczki lub obrzędu mającą taką samą nazwę co karta w twoim cmentarzu, "
 "ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
@@ -1180,9 +1180,9 @@ msgid ""
 "If you do, create a 4/4 blue Giant Wizard creature token, then attach "
 "Giant's Amulet to it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, możesz zapłacić |mana_3|\\ |"
-"mana_u|. Jeśli tak zrobisz stwórz żeton niebieskiego stwora Gigant "
-"Czarodziej 4/4, następnie dołącz do niego ten artefakt."
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_3|\\ |mana_u|"
+". Jeśli tak zrobisz stwórz żeton niebieskiego stwora Gigant Czarodziej 4/4, "
+"następnie dołącz do niego ten artefakt."
 
 #: ../../KHM.rst:369
 msgid ""
@@ -1273,7 +1273,7 @@ msgid ""
 "When Icebreaker Kraken enters the battlefield, artifacts and creatures "
 "target opponent controls don't untap during that player's next untap step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, artefakty i stwory pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, artefakty i stwory pod władaniem "
 "wskazanego przeciwnika nie odkręcą się w najbliższym kroku odkręcania owego "
 "gracza."
 
@@ -1294,7 +1294,7 @@ msgstr ""
 
 #: ../../KHM.rst:397
 msgid "When Inga Rune-Eyes enters the battlefield, scry 3."
-msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 3."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 3."
 
 #: ../../KHM.rst:399
 msgid ""
@@ -1338,7 +1338,7 @@ msgid ""
 "more creatures that share a creature type, put a +1/+1 counter on Littjara "
 "Kinseekers, then scry 1."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli władasz co najmniej trzema "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz co najmniej trzema "
 "stworami współdzielącymi typ stwora, umieść znacznik +1/+1 na niniejszym "
 "stworze, następnie wróż 1."
 
@@ -1382,7 +1382,7 @@ msgid ""
 "chosen creature."
 msgstr ""
 "Wskaż nielegendarnego stwora. Kiedy następnym razem jeden lub więcej stworów "
-"lub wędrowców wejdzie na pole walki w tej turze, wchodzą one jako kopie "
+"lub wędrowców wejdzie na pole bitwy w tej turze, wchodzą one jako kopie "
 "wybranego stwora."
 
 #: ../../KHM.rst:440
@@ -1454,7 +1454,7 @@ msgstr ""
 #: ../../KHM.rst:455
 msgid ""
 "As Reflections of Littjara enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten urok na polu walki, wybierz typ stwora."
+msgstr "Umieszczając ten urok na polu bitwy, wybierz typ stwora."
 
 #: ../../KHM.rst:457
 msgid ""
@@ -1492,7 +1492,7 @@ msgstr ""
 
 #: ../../KHM.rst:471
 msgid "When Rune of Flight enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KHM.rst:473
 msgid "As long as enchanted permanent is a creature, it has flying."
@@ -1541,7 +1541,7 @@ msgstr ""
 
 #: ../../KHM.rst:491
 msgid "Undersea Invader enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:502
 msgid ""
@@ -1565,7 +1565,7 @@ msgid ""
 "mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
 msgstr ""
 "Następnie przywróć kartę stwora lub wędrowca o skróconym koszcie many X lub "
-"mniejszym z twojego cmentarza na pole walki, gdzie X jest liczbą |mana_s| "
+"mniejszym z twojego cmentarza na pole bitwy, gdzie X jest liczbą |mana_s| "
 "użytej do rzucenia tego czaru. (|mana_s| jest maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:506
@@ -1600,7 +1600,7 @@ msgid ""
 "the chosen card into your hand and the other into your graveyard, then "
 "shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "dokładnie dwie karty o nazwach innych niż niniejszy stwór i mających różne "
 "nazwy. Jeśli tak zrobisz, ujawnij owe karty. Przeciwnik wybiera jedną z "
 "nich. Umieść wybraną kartę w twojej ręce, a pozostałą w twoim cmentarzu, "
@@ -1649,7 +1649,7 @@ msgid ""
 "dies, return it to the battlefield under its owner's control.\""
 msgstr ""
 "Do końca tury wskazany stwór dostaje +2/+0 oraz \"Kiedy ten stwór umrze, "
-"przywróć go na pole walki pod władaniem właściciela.\""
+"przywróć go na pole bitwy pod władaniem właściciela.\""
 
 #: ../../KHM.rst:528
 msgid ""
@@ -1721,8 +1721,8 @@ msgid ""
 "If you do, create a 2/2 black Zombie Berserker creature token, then attach "
 "Draugr's Helm to it."
 msgstr ""
-"Kiedy ten artefalt wejdzie na pole walki, możesz zapłacić |mana_2|\\ |"
-"mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi Berserk 2/2, "
+"Kiedy ten artefalt wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_b|"
+". Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi Berserk 2/2, "
 "następnie dołącz do niego ten artefakt."
 
 #: ../../KHM.rst:543
@@ -1844,7 +1844,7 @@ msgstr ""
 msgid ""
 "When Elderfang Disciple enters the battlefield, each opponent discards a "
 "card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik odrzuca kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
 
 #: ../../KHM.rst:582
 msgid ""
@@ -1928,9 +1928,9 @@ msgid ""
 "creature cards of that type from your graveyard to the battlefield instead."
 msgstr ""
 "Wybierz typ stwora. Przywróć co najwyżej dwie karty stwór owego typu z "
-"twojego cmentarza na pole walki. Jeśli ten czar był przepowiedziany, zamiast "
+"twojego cmentarza na pole bitwy. Jeśli ten czar był przepowiedziany, zamiast "
 "tego przywróć wszystkie karty stworów owego typu z twojego cmentarza na pole "
-"walki."
+"bitwy."
 
 #: ../../KHM.rst:601
 msgid ""
@@ -1969,7 +1969,7 @@ msgid ""
 "When Jarl of the Forsaken enters the battlefield, destroy target creature or "
 "planeswalker an opponent controls that was dealt damage this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego stwora lub "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego stwora lub "
 "wędrowca pod władaniem przeciwnika, który otrzymał obrażenia w tej turze."
 
 #: ../../KHM.rst:613 ../../KHM.rst:629 ../../KHM.rst:681 ../../KHM.rst:727
@@ -1995,7 +1995,7 @@ msgid ""
 "creatures each get +1/+0 and gain indestructible until end of turn. (Damage "
 "and effects that say \"destroy\" don't destroy them.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy z co najwyżej dwóch wskazanych "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy z co najwyżej dwóch wskazanych "
 "stworów dostaje do końca tury +1/+0 i niezniszczalność. (Obrażenia oraz "
 "efekty mówiące \"zniszcz\" nie zniszczą ich.)"
 
@@ -2073,7 +2073,7 @@ msgid ""
 "Return target creature card from your graveyard to the battlefield. If it's "
 "an Elf, create two 1/1 green Elf Warrior creature tokens."
 msgstr ""
-"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli to "
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Jeśli to "
 "Elf, stwórz dwa żetony zielonego stwora Elf Wojownik 1/1."
 
 #: ../../KHM.rst:647
@@ -2119,7 +2119,7 @@ msgstr ""
 
 #: ../../KHM.rst:659
 msgid "When Rune of Mortality enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KHM.rst:661
 msgid "As long as enchanted permanent is a creature, it has deathtouch."
@@ -2157,7 +2157,7 @@ msgstr ""
 
 #: ../../KHM.rst:671
 msgid "When Skemfar Shadowsage enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../KHM.rst:673
 msgid ""
@@ -2209,7 +2209,7 @@ msgid ""
 "control."
 msgstr ""
 "Ilekroć przeciwnik poświęci nieżetonowy permanent lub odrzuci kartę "
-"permanentu, możesz umieścić ową kartę z cmentarza na polu walki pod twoim "
+"permanentu, możesz umieścić ową kartę z cmentarza na polu bitwy pod twoim "
 "władaniem."
 
 #: ../../KHM.rst:694
@@ -2267,9 +2267,9 @@ msgid ""
 "each opponent, exile a creature card they revealed this way until Valki "
 "leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik ujawnia swoją rękę. "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik ujawnia swoją rękę. "
 "U przeciwnika wygnaj kartę stwora spośród ujawnionych w ten sposób dopóki "
-"ten stwór nie opuści pola walki."
+"ten stwór nie opuści pola bitwy."
 
 #: ../../KHM.rst:705
 msgid ""
@@ -2293,7 +2293,7 @@ msgid ""
 "cards exiled with Tibalt, Cosmic Impostor, and you may spend mana as though "
 "it were mana of any color to cast those spells.\""
 msgstr ""
-"Umieszczając tego wędrowca na polu walki otrzymujesz emblemat o treści "
+"Umieszczając tego wędrowca na polu bitwy otrzymujesz emblemat o treści "
 "\"Możesz zagrywać karty wygnane z pomocą Tibalt, Cosmic Impostor i możesz "
 "użwać many tak, jakby była maną dowolnego koloru potrzebnego do rzucenia "
 "owych czarów.\""
@@ -2440,7 +2440,7 @@ msgid ""
 "where X is the greatest number of creatures you control that have a creature "
 "type in common."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu celowi X "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu celowi X "
 "obrażeń, gdzie X jest największą liczbą stworów pod twoim władaniem mających "
 "wspólny typ stwora."
 
@@ -2585,7 +2585,7 @@ msgid ""
 "When Doomskar Titan enters the battlefield, creatures you control get +1/+0 "
 "and gain haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, inne stwory pod twoim władaniem "
 "dostają do końca tury +1/+0 oraz pośpiech."
 
 #: ../../KHM.rst:805
@@ -2656,7 +2656,7 @@ msgid ""
 "create a 2/1 red Dwarf Berserker creature token, then attach Dwarven Hammer "
 "to it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, możesz zapłacić |mana_2|. Jeśli "
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_2|. Jeśli "
 "tak zrobisz, stwórz żeton czerwonego stwora Krasnolud Berserk 2/1 i dołącz "
 "do niego ten artefakt."
 
@@ -2804,7 +2804,7 @@ msgid ""
 "When Immersturm Raider enters the battlefield, you may discard a card. If "
 "you do, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki możesz odrzucić kartę. Jeśli tak "
+"Kiedy ten stwór wejdzie na pole bitwy możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz kartę."
 
 #: ../../KHM.rst:876
@@ -2830,7 +2830,7 @@ msgid ""
 "card, put that card onto the battlefield, then shuffle your library."
 msgstr ""
 "Poświęć pięć Skarbów: Wyszukaj w twojej bibliotece kartę artefaktu lub "
-"Smoka, umieść ową kartę na polu walki, następnie przetasuj twoją bibliotekę."
+"Smoka, umieść ową kartę na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../KHM.rst:884
 msgid ""
@@ -2885,7 +2885,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, ten stwór zadaje każdemu przeciwnikowi "
 "po 2 obrażenia. Ta zdolność wyzwala się tylko jeśli ten stwór jest na polu "
-"walki lub gdy ta karta jest w twoim cmentarzu, a ty władasz Gigantem."
+"bitwy lub gdy ta karta jest w twoim cmentarzu, a ty władasz Gigantem."
 
 #: ../../KHM.rst:895
 msgid "Foretell |mana_2|\\ |mana_r|\\ |mana_r|"
@@ -2929,7 +2929,7 @@ msgstr ""
 
 #: ../../KHM.rst:909
 msgid "When Rune of Speed enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KHM.rst:911
 msgid ""
@@ -3241,7 +3241,7 @@ msgid ""
 "additional +1/+1 counter on it. (|mana_s| is mana from a snow source.)"
 msgstr ""
 "Ilekroć rzucisz czar stwora, jeśli |mana_s| któregokolwiek z kolorów owego "
-"czaru została wydana na jego rzucenie, ów stwór wchodzi na pole walki z "
+"czaru została wydana na jego rzucenie, ów stwór wchodzi na pole bitwy z "
 "dodatkowym znacznikiem +1/+1. (|mana_s| to mana ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:1002
@@ -3267,7 +3267,7 @@ msgid ""
 "When Elderleaf Mentor enters the battlefield, create a 1/1 green Elf Warrior "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora Elf "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Elf "
 "Wojownik 1/1."
 
 #: ../../KHM.rst:1014
@@ -3282,7 +3282,7 @@ msgid ""
 "When Elven Bow enters the battlefield, you may pay |mana_2|. If you do, "
 "create a 1/1 green Elf Warrior creature token, then attach Elven Bow to it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, możesz zapłacić |mana_2|. Jeśli "
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_2|. Jeśli "
 "tak zrobisz, stwórz żeton zielonego stwora Elf Wojownik 1/1 i dołącz ten "
 "artefakt do niego."
 
@@ -3303,7 +3303,7 @@ msgid ""
 "create a 1/1 green Elf Warrior creature token. This ability triggers only "
 "once each turn."
 msgstr ""
-"Ilekroć co najmniej jeden inny Elf wejdzie na pole walki pod twoim "
+"Ilekroć co najmniej jeden inny Elf wejdzie na pole bitwy pod twoim "
 "władaniem, stwórz żeton zielonego stwora Elf Wojownik 1/1. Ta zdolność "
 "wyzwala się tylko raz na turę."
 
@@ -3351,7 +3351,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, ujawniaj karty z wierzchu twojej "
 "biblioteki aż ujawnisz kartę stwora lub wędrowca. Umieść ową kartę na polu "
-"walki a pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"bitwy a pozostałe na spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../KHM.rst:1040
 msgid ""
@@ -3365,7 +3365,7 @@ msgid ""
 "When Esika's Chariot enters the battlefield, create two 2/2 green Cat "
 "creature tokens."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, stwórz dwa żetony zielonego stwora "
+"Kiedy ten artefakt wejdzie na pole bitwy, stwórz dwa żetony zielonego stwora "
 "Kot 2/2."
 
 #: ../../KHM.rst:1037
@@ -3450,7 +3450,7 @@ msgid ""
 "When Guardian Gladewalker enters the battlefield, put a +1/+1 counter on "
 "target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../KHM.rst:1072
@@ -3547,7 +3547,7 @@ msgid ""
 "turn. If you do, it enters the battlefield tapped."
 msgstr ""
 "|tap|: W tej turze możesz zagrać wskazaną kartę śnieżnego permanentu z "
-"twojego cmentarza. Jeśli tak zrobisz, wchodzi ona przekręcona na pole walki."
+"twojego cmentarza. Jeśli tak zrobisz, wchodzi ona przekręcona na pole bitwy."
 
 #: ../../KHM.rst:1098
 msgid ""
@@ -3601,7 +3601,7 @@ msgstr ""
 
 #: ../../KHM.rst:1107
 msgid "As The Ringhart Crest enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten artefakt na polu walki, wybierz typ stwora."
+msgstr "Umieszczając ten artefakt na polu bitwy, wybierz typ stwora."
 
 #: ../../KHM.rst:1109
 msgid ""
@@ -3660,7 +3660,7 @@ msgid ""
 "from your graveyard. If you do, exile target artifact or enchantment an "
 "opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wygnać kartę stwora z twojego "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać kartę stwora z twojego "
 "cmentarza. Jeśli tak zrobisz, wygnaj wskazany władany przez przeciwnika "
 "artefakt lub urok."
 
@@ -3679,11 +3679,10 @@ msgid ""
 "tap|, Sacrifice this land: Create a tapped 4/4 green Troll Warrior creature "
 "token with trample.'\""
 msgstr ""
-"Kiedy ten permanent umrze, jeśli był stworem, przywróć go na pole walki. "
-"Jest urokiem typu Aura zauroczenia Lasu pod twoim władaniem i ma "
-"\"Zauroczony Las ma '|tap|: Weź |mana_g|\\ |mana_g|' oraz '|mana_1|, |tap|, "
-"poświęć ten ląd: Stwórz żeton zielonego stwora Troll Wojownik 4/4 z "
-"tratowaniem.'\""
+"Kiedy ten permanent umrze, jeśli był stworem, przywróć go na pole bitwy. "
+"Jest urokiem typu Aura zauroczenia Lasu pod twoim władaniem i ma \"Zauroczony"
+" Las ma '|tap|: Weź |mana_g|\\ |mana_g|' oraz '|mana_1|, |tap|, poświęć ten "
+"ląd: Stwórz żeton zielonego stwora Troll Wojownik 4/4 z tratowaniem.'\""
 
 #: ../../KHM.rst:1140
 msgid ""
@@ -3698,7 +3697,7 @@ msgid ""
 "a basic land card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wyszukaj w twojej bibliotece kartę "
+"Kiedy ten urok wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -3723,7 +3722,7 @@ msgstr ""
 
 #: ../../KHM.rst:1143
 msgid "When Ravenous Lindwurm enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 4 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../KHM.rst:1154
 msgid ""
@@ -3734,7 +3733,7 @@ msgstr ""
 
 #: ../../KHM.rst:1149
 msgid "As Realmwalker enters the battlefield, choose a creature type."
-msgstr "Umieszczając tego stwora na polu walki wybierz typ stwora."
+msgstr "Umieszczając tego stwora na polu bitwy wybierz typ stwora."
 
 #: ../../KHM.rst:1151
 msgid "You may look at the top card of your library any time."
@@ -3790,7 +3789,7 @@ msgstr ""
 
 #: ../../KHM.rst:1167
 msgid "When Rune of Might enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KHM.rst:1169
 msgid ""
@@ -3815,7 +3814,7 @@ msgstr ""
 
 #: ../../KHM.rst:1175
 msgid "When Sarulf's Packmate enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KHM.rst:1177
 msgid ""
@@ -3868,7 +3867,7 @@ msgid ""
 "a snow land card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wyszukaj w twojej bibliotece kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "śnieżnego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -4065,7 +4064,7 @@ msgid ""
 "with a flying counter on it. That creature is an Angel Warrior in addition "
 "to its other types."
 msgstr ""
-"III — Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki ze "
+"III — Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy ze "
 "znacznikiem latania. Ów stwór jest Aniołem Wojownikiem oprócz swoich "
 "pozostałych typów."
 
@@ -4169,7 +4168,7 @@ msgid ""
 "tapped, then shuffle your library."
 msgstr ""
 "II — Wyszukaj w twojej bibliotece kartę Lasu, umieść ją przekręconą na polu "
-"walki, następnie przetasuj twoją bibliotekę."
+"bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../KHM.rst:1287
 msgid "III — Creatures you control gain deathtouch until end of turn."
@@ -4309,7 +4308,7 @@ msgid ""
 "among them and put it into your hand. Put the rest on the bottom of your "
 "library in a random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na pięć wierzchnich kart "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na pięć wierzchnich kart "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę o typie Elf, Wojownik "
 "lub Tyvar i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie "
 "twojej biblioteki."
@@ -4327,7 +4326,7 @@ msgid ""
 "onto the battlefield."
 msgstr ""
 "I — Zmiel trzy karty. Możesz umieścić kartę typu Elf lub Tyvar z twojego "
-"cmentarza na polu walki."
+"cmentarza na polu bitwy."
 
 #: ../../KHM.rst:1343
 msgid "II — Put a +1/+1 counter on each Elf you control."
@@ -4404,7 +4403,7 @@ msgid ""
 "creatures your opponents control attack each combat if able and attack a "
 "player other than you if able."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, do twojej następnej tury stwory pod "
+"Kiedy ten stwór wejdzie na pole bitwy, do twojej następnej tury stwory pod "
 "władaniem twoich przeciwników atakują w każdej bitwie jeśli mogą i atakują "
 "gracza innego niż ty jeśli to możliwe."
 
@@ -4440,7 +4439,7 @@ msgid ""
 "III — Return target creature card from your graveyard to the battlefield. "
 "Put a +1/+1 counter on it. It gains haste until your next turn."
 msgstr ""
-"III — Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. "
+"III — Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. "
 "Umieść na nim znacznik +1/+1. Do końca tury zyskuje on pośpiech."
 
 #: ../../KHM.rst:1388
@@ -4565,7 +4564,7 @@ msgid ""
 "Whenever a land enters the battlefield under your control, create a 1/1 "
 "white Human Warrior creature token."
 msgstr ""
-"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, stwórz żeton białego "
+"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz żeton białego "
 "stwora Człowiek Wojownik 1/1."
 
 #: ../../KHM.rst:1426
@@ -4582,7 +4581,7 @@ msgid ""
 "other types and, if it's a creature, it enters with two additional +1/+1 "
 "counters on it and has changeling."
 msgstr ""
-"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia permanentu pod "
+"Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia permanentu pod "
 "twoim władaniem z tą różnicą, że jest dodatkowo legendardny i śnieżny oprócz "
 "swoich innych typów, a jeśli jest stworem, wchodzi z dodatkowymi dwoma "
 "znacznikami +1/+1 i ma zmiennokształtność."
@@ -4605,7 +4604,7 @@ msgid ""
 "from a snow source.)"
 msgstr ""
 "|mana_s|\\ |mana_s|\\ |mana_s|: Przywróć tę kartę z twojego cmentarza "
-"przekręconą na pole walki. (|mana_s| można opłacić maną ze śnieżnego źródła.)"
+"przekręconą na pole bitwy. (|mana_s| można opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:1442
 msgid ""
@@ -4620,7 +4619,7 @@ msgid ""
 "enchantments with \"|mana_2|, Sacrifice this enchantment: Scry 1, then draw "
 "a card.\")"
 msgstr ""
-"Kiedy ten wędrowiec wejdzie na pole walki, stwórz X żetonów Odłamków. (Są "
+"Kiedy ten wędrowiec wejdzie na pole bitwy, stwórz X żetonów Odłamków. (Są "
 "urokami mającymi \"|mana_2|, poświęć ten urok: Wróż 1, następnie dobierz "
 "kartę.\")"
 
@@ -4714,7 +4713,7 @@ msgid ""
 "battlefield, put a +1/+1 counter on Sarulf, Realm Eater."
 msgstr ""
 "Ilekroć permanent pod władaniem przeciwnika jest umieszczony w cmentarzu z "
-"pola walki, umieść znacznik +1/+1 na niniejszym stworze."
+"pola bitwy, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../KHM.rst:1467
 msgid ""
@@ -4855,7 +4854,7 @@ msgid ""
 "II — Put target land card from a graveyard onto the battlefield under your "
 "control."
 msgstr ""
-"II — Umieść wskazaną kartę lądu z dowolnego cmentarza na pole walki pod "
+"II — Umieść wskazaną kartę lądu z dowolnego cmentarza na pole bitwy pod "
 "twoim władaniem."
 
 #: ../../KHM.rst:1517
@@ -4877,14 +4876,14 @@ msgstr ""
 
 #: ../../KHM.rst:1523
 msgid "As Bloodline Pretender enters the battlefield, choose a creature type."
-msgstr "Umieszczając tego stwora na polu walki, wybierz typ stwora."
+msgstr "Umieszczając tego stwora na polu bitwy, wybierz typ stwora."
 
 #: ../../KHM.rst:1525
 msgid ""
 "Whenever another creature of the chosen type enters the battlefield under "
 "your control, put a +1/+1 counter on Bloodline Pretender."
 msgstr ""
-"Ilekroć inny stwór wybranego typu wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć inny stwór wybranego typu wejdzie na pole bitwy pod twoim władaniem, "
 "umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../KHM.rst:1532
@@ -4971,7 +4970,7 @@ msgid ""
 "spells you control and creature cards you own that aren't on the battlefield."
 msgstr ""
 "Stwory pod twoim władaniem mają każdy typ stwora. To samo tyczy się czarów "
-"stworów pod twoim władaniem oraz twoich kart stworów poza polem walki."
+"stworów pod twoim władaniem oraz twoich kart stworów poza polem bitwy."
 
 #: ../../KHM.rst:1555
 msgid ""
@@ -4998,7 +4997,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć stwora: Wyszukaj w twojej bibliotece kartę stwora "
 "współdzielącą typ stwora z poświęconym i o skróconym koszcie many większym o "
-"1 od jego skróconego kosztu many. Umieść ową kartę na polu walki, następnie "
+"1 od jego skróconego kosztu many. Umieść ową kartę na polu bitwy, następnie "
 "przetasuj twoją bibliotekę. Aktywuj jako obrzęd."
 
 #: ../../KHM.rst:1566
@@ -5014,7 +5013,7 @@ msgid ""
 "it's a land card, you may put it onto the battlefield tapped."
 msgstr ""
 "Ilekroć ten Pojazd zaatakuje, spójrz na wierzchnią kartę twojej biblioteki. "
-"Jeśli to karta lądu, możesz umieścić ją przekręconą na polu walki."
+"Jeśli to karta lądu, możesz umieścić ją przekręconą na polu bitwy."
 
 #: ../../KHM.rst:1565
 msgid ""
@@ -5079,8 +5078,8 @@ msgid ""
 "and/or graveyard for a Rune card and put it onto the battlefield attached to "
 "Runed Crown. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, możesz wyszukać w twojej "
-"bibliotece, ręce i/lub cmentarzu kartę typu Runa i umieścić ją na polu walki "
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz wyszukać w twojej "
+"bibliotece, ręce i/lub cmentarzu kartę typu Runa i umieścić ją na polu bitwy "
 "dołączoną do tego artefaktu. Jeśli przeszukasz swoją bibliotekę w ten "
 "sposób, przetasuj ją."
 
@@ -5113,7 +5112,7 @@ msgid ""
 "battlefield."
 msgstr ""
 "Karty nielądowych permanentów w cmentarzach i bibliotekach nie mogą wejść na "
-"pole walki."
+"pole bitwy."
 
 #: ../../KHM.rst:1595
 msgid "Players can't cast spells from graveyards or libraries."
@@ -5132,7 +5131,7 @@ msgstr "(|tap|: Weź |mana_r| lub |mana_w|.)"
 
 #: ../../KHM.rst:1601
 msgid "Alpine Meadow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1608
 msgid ""
@@ -5147,7 +5146,7 @@ msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../KHM.rst:1607
 msgid "Arctic Treeline enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1616
 msgid ""
@@ -5158,7 +5157,7 @@ msgstr ""
 
 #: ../../KHM.rst:1611
 msgid "Axgard Armory enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1613 ../../KHM.rst:1659 ../../KHM.rst:1687
 msgid "|tap|: Add |mana_w|."
@@ -5232,7 +5231,7 @@ msgstr ""
 
 #: ../../KHM.rst:1635
 msgid "Bretagard Stronghold enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1639
 msgid ""
@@ -5291,7 +5290,7 @@ msgstr ""
 
 #: ../../KHM.rst:1657
 msgid "Gates of Istfell enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1661
 msgid ""
@@ -5314,7 +5313,7 @@ msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../KHM.rst:1667
 msgid "Glacial Floodplain enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1676
 msgid ""
@@ -5325,7 +5324,7 @@ msgstr ""
 
 #: ../../KHM.rst:1671
 msgid "Gnottvold Slumbermound enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1675
 msgid ""
@@ -5345,7 +5344,7 @@ msgstr ""
 
 #: ../../KHM.rst:1679
 msgid "Great Hall of Starnheim enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1683
 msgid ""
@@ -5386,7 +5385,7 @@ msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../KHM.rst:1697
 msgid "Highland Forest enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1704
 msgid ""
@@ -5401,7 +5400,7 @@ msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../KHM.rst:1703
 msgid "Ice Tunnel enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1712
 msgid ""
@@ -5412,7 +5411,7 @@ msgstr ""
 
 #: ../../KHM.rst:1707
 msgid "Immersturm Skullcairn enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1711
 msgid ""
@@ -5432,7 +5431,7 @@ msgstr ""
 
 #: ../../KHM.rst:1715
 msgid "Littjara Mirrorlake enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1719
 msgid ""
@@ -5443,7 +5442,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_u|, |tap|, poświęć ten ląd: Stwórz "
 "żeton będący kopią wskazanego stwora pod twoim władaniem, ale wchodzi on na "
-"pole walki z dodatkowym znacznikiem +1/+1. Aktywuj jako obrzęd."
+"pole bitwy z dodatkowym znacznikiem +1/+1. Aktywuj jako obrzęd."
 
 #: ../../KHM.rst:1728
 msgid ""
@@ -5454,7 +5453,7 @@ msgstr ""
 
 #: ../../KHM.rst:1723
 msgid "Port of Karfell enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1727
 msgid ""
@@ -5465,7 +5464,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_u|\\ |mana_b|\\ |mana_b|, |tap|, poświęć ten ląd: Zmiel "
 "cztery karty, następnie przywróć kartę stwora z twojego cmentarza "
-"przekręconą na pole walki. (Aby zmielić kartę umieść wierzchnią kartę twojej "
+"przekręconą na pole bitwy. (Aby zmielić kartę umieść wierzchnią kartę twojej "
 "biblioteki w twoim cmentarzu.)"
 
 #: ../../KHM.rst:1734
@@ -5481,7 +5480,7 @@ msgstr "(|tap|: Weź |mana_g| lub |mana_u|.)"
 
 #: ../../KHM.rst:1733
 msgid "Rimewood Falls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1742
 msgid ""
@@ -5492,11 +5491,11 @@ msgstr ""
 
 #: ../../KHM.rst:1737
 msgid "Shimmerdrift Vale enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1739
 msgid "As Shimmerdrift Vale enters the battlefield, choose a color."
-msgstr "Umieszczając ten ląd na polu walki wybierz kolor."
+msgstr "Umieszczając ten ląd na polu bitwy wybierz kolor."
 
 #: ../../KHM.rst:1741
 msgid "|tap|: Add one mana of the chosen color."
@@ -5511,7 +5510,7 @@ msgstr ""
 
 #: ../../KHM.rst:1745
 msgid "Skemfar Elderhall enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1749
 msgid ""
@@ -5537,7 +5536,7 @@ msgstr "(|tap|: Weź |mana_w| lub |mana_b|.)"
 
 #: ../../KHM.rst:1755
 msgid "Snowfield Sinkhole enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1762
 msgid ""
@@ -5552,7 +5551,7 @@ msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../KHM.rst:1761
 msgid "Sulfurous Mire enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1770
 msgid ""
@@ -5563,7 +5562,7 @@ msgstr ""
 
 #: ../../KHM.rst:1765
 msgid "Surtland Frostpyre enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1769
 msgid ""
@@ -5610,7 +5609,7 @@ msgstr "(|tap|: Weź |mana_u| lub |mana_r|.)"
 
 #: ../../KHM.rst:1783
 msgid "Volatile Fjord enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1790
 msgid ""
@@ -5625,7 +5624,7 @@ msgstr "(|tap|: Weź |mana_b| lub |mana_g|.)"
 
 #: ../../KHM.rst:1789
 msgid "Woodland Chasm enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1800
 msgid ""
@@ -5636,7 +5635,7 @@ msgstr ""
 
 #: ../../KHM.rst:1793
 msgid "The World Tree enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1797
 msgid ""
@@ -5655,7 +5654,7 @@ msgid ""
 msgstr ""
 "|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ "
 "|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej "
-"bibliotece dowolną liczbę kart Bogów, umieść je na polu walki, następnie "
+"bibliotece dowolną liczbę kart Bogów, umieść je na polu bitwy, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../KHM.rst:1804
@@ -5766,7 +5765,7 @@ msgid ""
 msgstr ""
 "Zapłać 3 życia: Przywróć tę kartę z twojego cmentarza do twojej ręki. Możesz "
 "aktywować tę zdolność tylko jeśli Anioł lub Berserk wszedł w tej turze na "
-"pole walki pod twoim władaniem."
+"pole bitwy pod twoim władaniem."
 
 #: ../../KHM.rst:1842
 msgid ""
@@ -5856,7 +5855,7 @@ msgid ""
 "Whenever another Angel enters the battlefield under your control, put a +1/"
 "+1 counter on Youthful Valkyrie."
 msgstr ""
-"Ilekroć inny Anioł wejdzie na pole walki pod twoim władaniem, umieść "
+"Ilekroć inny Anioł wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na niniejszym stworze."
 
 #: ../../KHM.rst:1870
@@ -5890,8 +5889,8 @@ msgid ""
 "When Giant's Grasp enters the battlefield, gain control of target nonland "
 "permanent for as long as Giant's Grasp remains on the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zyskaj władanie nad wskazanym "
-"nielądowym permanentem na czas przebywania tego uroku na polu walki."
+"Kiedy ten urok wejdzie na pole bitwy, zyskaj władanie nad wskazanym "
+"nielądowym permanentem na czas przebywania tego uroku na polu bitwy."
 
 #: ../../KHM.rst:1880
 msgid ""
@@ -5921,7 +5920,7 @@ msgid ""
 "one Angel card is milled this way, you gain 4 life. (To mill a card, put the "
 "top card of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zmiel cztery karty. Jeśli co najmniej "
+"Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty. Jeśli co najmniej "
 "jedna karta Anioła została zmielona w ten sposób, zyskaj 4 życia. (By "
 "zmielić kartę, umieść wierzchnią kartę twojej biblioteki w twoim cmentarzu.)"
 
@@ -5934,7 +5933,7 @@ msgstr ""
 
 #: ../../KHM.rst:1889
 msgid "When Thornmantle Striker enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../KHM.rst:1891
 msgid ""
@@ -6033,7 +6032,7 @@ msgid ""
 "Whenever another creature named Gladewalker Ritualist enters the battlefield "
 "under your control, draw a card."
 msgstr ""
-"Ilekroć inny stwór o nazwie Gladewalker Ritualist wejdzie na pole walki pod "
+"Ilekroć inny stwór o nazwie Gladewalker Ritualist wejdzie na pole bitwy pod "
 "twoim władaniem, dobierz kartę."
 
 #: ../../KHM.rst:1928
@@ -6049,7 +6048,7 @@ msgid ""
 "When Rampage of the Valkyries enters the battlefield, create a 4/4 white "
 "Angel creature token with flying and vigilance."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Anioł 4/4 "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton białego stwora Anioł 4/4 "
 "z lataniem i czujnością."
 
 #: ../../KHM.rst:1927

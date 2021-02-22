@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -48,7 +48,7 @@ msgid ""
 msgstr ""
 "–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
 "będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
-"karty na polu walki pod twoim władaniem."
+"karty na polu bitwy pod twoim władaniem."
 
 #: ../../NPH.rst:20
 msgid ""
@@ -129,7 +129,7 @@ msgid ""
 "When Cathedral Membrane dies during combat, it deals 6 damage to each "
 "creature it blocked this combat."
 msgstr ""
-"Kiedy ten stwór umrze w trakcie walki, zadaje 6 obrażeń każdemu stworowi, "
+"Kiedy ten stwór umrze w trakcie potyczki, zadaje 6 obrażeń każdemu stworowi, "
 "którego blokował w tej walce."
 
 #: ../../NPH.rst:46
@@ -206,7 +206,7 @@ msgstr ""
 # 7026f0838a074e42a5656c2797ff5a85
 #: ../../NPH.rst:55
 msgid "Permanents enter the battlefield tapped this turn."
-msgstr "W tej turze permanenty wchodzą na pole walki przekręcone."
+msgstr "W tej turze permanenty wchodzą na pole bitwy przekręcone."
 
 # bebfab61af8a4746aca95624c8ac5d80
 # b4445deb78854be58856e88455303bc0
@@ -251,7 +251,7 @@ msgid ""
 "Imprint — When Exclusion Ritual enters the battlefield, exile target nonland "
 "permanent."
 msgstr ""
-"Odlew — Kiedy ta karta wejdzie na pole walki, wygnaj wskazany permanent nie "
+"Odlew — Kiedy ta karta wejdzie na pole bitwy, wygnaj wskazany permanent nie "
 "będący lądem."
 
 # 25d8b2283e4e4792b6db6536f862803a
@@ -294,7 +294,7 @@ msgstr ""
 
 #: ../../NPH.rst:83
 msgid "When Inquisitor Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ta karta wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ta karta wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../NPH.rst:85
 msgid "You gain 2 life."
@@ -367,7 +367,7 @@ msgid ""
 "When Master Splicer enters the battlefield, create a 3/3 colorless Golem "
 "artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Golem 3/3."
 
 # 87ba05e1ace247cfa26b2e3b39bd8081
@@ -653,7 +653,7 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 #: ../../NPH.rst:207
 #, fuzzy
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr "Kiedy Baleful Strix wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy Baleful Strix wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../NPH.rst:209
 msgid "Untap target permanent you control."
@@ -1069,7 +1069,7 @@ msgstr ""
 
 #: ../../NPH.rst:363
 msgid "When Entomber Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../NPH.rst:367
 msgid ""
@@ -1312,7 +1312,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Na początku twojego kroku utrzymania, przywróć wskazaną kartę stwora z "
-"twojego cmentarza na pole walki."
+"twojego cmentarza na pole bitwy."
 
 # dc2f94833d4e48e4952d18d24d7d16d2
 #: ../../NPH.rst:449
@@ -1674,7 +1674,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../NPH.rst:593
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory pod władaniem twoich przeciwników wchodzą przekręcone na pole walki."
+"Stwory pod władaniem twoich przeciwników wchodzą przekręcone na pole bitwy."
 
 #: ../../NPH.rst:598
 msgid ""
@@ -1740,7 +1740,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca kładzie na polu walki żeton "
+"Zniszcz wskazany permanent. Jego władca kładzie na polu bitwy żeton "
 "zielonego stwora Bestia 3/3."
 
 #: ../../NPH.rst:620
@@ -2689,7 +2689,7 @@ msgstr ""
 # e3e1a14e527d48918290c43abb78aa78
 #: ../../NPH.rst:933
 msgid "Creatures entering the battlefield don't cause abilities to trigger."
-msgstr "Stwory wchodzące na pole walki nie powodują wyzwalania zdolności."
+msgstr "Stwory wchodzące na pole bitwy nie powodują wyzwalania zdolności."
 
 #: ../../NPH.rst:938
 msgid ""

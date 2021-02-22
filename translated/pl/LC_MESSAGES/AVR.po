@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -45,8 +45,8 @@ msgid ""
 "When Angel of Glory's Rise enters the battlefield, exile all Zombies, then "
 "return all Human creature cards from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wszystkie Zombi, następnie "
-"przywróć wszystkie stwory typu Człowiek z twojego cmentarza na pole walki."
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie Zombi, następnie "
+"przywróć wszystkie stwory typu Człowiek z twojego cmentarza na pole bitwy."
 
 #: ../../AVR.rst:20
 msgid ""
@@ -179,8 +179,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/"
-"+1 na każdym stworze pod twoim władaniem."
+"Ilekroć stwór wchodzi na pole bitwy pod twoim władaniem, umieść znacznik +1/+"
+"1 na każdym stworze pod twoim władaniem."
 
 #: ../../AVR.rst:64
 msgid ""
@@ -191,7 +191,7 @@ msgstr ""
 
 #: ../../AVR.rst:63
 msgid "When Cathedral Sanctifier enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../AVR.rst:68
 msgid ""
@@ -206,7 +206,7 @@ msgid ""
 "under your control."
 msgstr ""
 "Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole walki pod twoim władaniem."
+"na pole bitwy pod twoim władaniem."
 
 #: ../../AVR.rst:74
 msgid ""
@@ -266,7 +266,7 @@ msgid ""
 "Return target creature card from your graveyard to the battlefield. If it's "
 "an Angel, put two +1/+1 counters on it."
 msgstr ""
-"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli to "
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Jeśli to "
 "Anioł, umieść na nim dwa znaczniki +1/+1."
 
 #: ../../AVR.rst:92
@@ -314,7 +314,7 @@ msgid ""
 "When Emancipation Angel enters the battlefield, return a permanent you "
 "control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć permanent pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć permanent pod twoim "
 "władaniem do ręki właściciela."
 
 #: ../../AVR.rst:108
@@ -364,7 +364,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "creatures you control get +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, stwory pod "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, stwory pod "
 "twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../AVR.rst:122
@@ -379,7 +379,7 @@ msgid ""
 "When Goldnight Redeemer enters the battlefield, you gain 2 life for each "
 "other creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia za każdego innego "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia za każdego innego "
 "stwora pod twoim władaniem."
 
 #: ../../AVR.rst:130
@@ -454,7 +454,7 @@ msgid ""
 "When Midvast Protector enters the battlefield, target creature you control "
 "gains protection from the color of your choice until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../AVR.rst:152
@@ -505,7 +505,7 @@ msgid ""
 "both of them.)"
 msgstr ""
 "Więź dusz (Możesz sparować tego stwora z innym niesparowanym stworem gdy "
-"którykolwiek wejdzie na pole walki. Pozostają parą dopóki władasz oboma.)"
+"którykolwiek wejdzie na pole bitwy. Pozostają parą dopóki władasz oboma.)"
 
 #: ../../AVR.rst:161
 msgid ""
@@ -530,9 +530,9 @@ msgid ""
 "Angel creature you control, then return that card to the battlefield under "
 "your control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wygnać innego nie będącego "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać innego nie będącego "
 "Aniołem stwora pod twoim władaniem, następnie przywróć ową kartę na pole "
-"walki pod twoim władaniem."
+"bitwy pod twoim władaniem."
 
 #: ../../AVR.rst:178
 msgid ""
@@ -547,7 +547,7 @@ msgstr "Czujność"
 
 #: ../../AVR.rst:175
 msgid "As Riders of Gavony enters the battlefield, choose a creature type."
-msgstr "Umieszczając tego stwora na polu walki wybierz typ stwora."
+msgstr "Umieszczając tego stwora na polu bitwy wybierz typ stwora."
 
 #: ../../AVR.rst:177
 msgid ""
@@ -636,7 +636,7 @@ msgid ""
 "When Voice of the Provinces enters the battlefield, create a 1/1 white Human "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Człowiek "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Człowiek "
 "1/1."
 
 #: ../../AVR.rst:218
@@ -699,7 +699,7 @@ msgid ""
 "Whenever another Human enters the battlefield under your control, untap "
 "Captain of the Mists."
 msgstr ""
-"Ilekroć inny Człowiek wchodzi na pole walki pod twoim władaniem, odznacz "
+"Ilekroć inny Człowiek wchodzi na pole bitwy pod twoim władaniem, odznacz "
 "Kapitana Mgieł."
 
 #: ../../AVR.rst:235
@@ -876,7 +876,7 @@ msgid ""
 "those cards to the battlefield under your control."
 msgstr ""
 "Wygnaj dwa wskazane artefakty, stwory i/lub lądy pod twoim władaniem, "
-"następnie przywróć owe karty na pole walki pod twoim władaniem."
+"następnie przywróć owe karty na pole bitwy pod twoim władaniem."
 
 #: ../../AVR.rst:304
 msgid ""
@@ -902,7 +902,7 @@ msgstr ""
 
 #: ../../AVR.rst:309
 msgid "When Gryff Vanguard enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../AVR.rst:314
 msgid ""
@@ -931,7 +931,7 @@ msgid ""
 "When Infinite Reflection enters the battlefield attached to a creature, each "
 "other nontoken creature you control becomes a copy of that creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki dołączony do stwora, każdy inny "
+"Kiedy ten urok wejdzie na pole bitwy dołączony do stwora, każdy inny "
 "nieżetonowy stwór pod twoim władaniem staje się kopią owego stwora."
 
 #: ../../AVR.rst:321
@@ -939,7 +939,7 @@ msgid ""
 "Nontoken creatures you control enter the battlefield as a copy of enchanted "
 "creature."
 msgstr ""
-"Nieżetonowe stwory pod twoim władaniem wchodzą na pole walki jako kopia "
+"Nieżetonowe stwory pod twoim władaniem wchodzą na pole bitwy jako kopia "
 "zauroczonego stwora."
 
 #: ../../AVR.rst:326
@@ -1028,7 +1028,7 @@ msgid ""
 "When Mist Raven enters the battlefield, return target creature to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora do ręki "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora do ręki "
 "właściciela."
 
 #: ../../AVR.rst:356
@@ -1055,7 +1055,7 @@ msgid ""
 "return that card to the battlefield under your control."
 msgstr ""
 "|mana_3|\\ |mana_u|, |tap|: Wygnaj innego wskazanego stwora pod twoim "
-"władaniem, następnie przywróć ową kartę na pole walki pod twoim władaniem."
+"władaniem, następnie przywróć ową kartę na pole bitwy pod twoim władaniem."
 
 #: ../../AVR.rst:364
 msgid ""
@@ -1319,8 +1319,8 @@ msgid ""
 "Whenever Blood Artist or another creature dies, target player loses 1 life "
 "and you gain 1 life."
 msgstr ""
-"Ilekroć Artysta Krwi lub inny stwór umrze, wskazany gracz traci 1 życie, a "
-"ty zyskaj 1 życie."
+"Ilekroć umrze ten lub inny stwór, wskazany gracz traci 1 życie, a ty zyskaj "
+"1 życie."
 
 #: ../../AVR.rst:456
 msgid ""
@@ -1362,7 +1362,7 @@ msgid ""
 "it to the battlefield under its owner's control with a +1/+1 counter on it.)"
 msgstr ""
 "Bezśmierć (Kiedy ten stwór umrze, jeśli nie miał znaczników +1/+1, przywróć "
-"go na pole walki ze znacznikiem +1/+1 pod władaniem właściciela.)"
+"go na pole bitwy ze znacznikiem +1/+1 pod władaniem właściciela.)"
 
 #: ../../AVR.rst:470
 msgid ""
@@ -1697,10 +1697,10 @@ msgid ""
 "remove all damage from it, and remove it from combat. Any amount of damage a "
 "creature with deathtouch deals to a creature is enough to destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go. "
-"(Następnym razem, gdy miałby zostać zniszczony w tej turze, nie jest. "
-"Zamiast tego przekręć go, usuń z niego wszystkie obrażenia i usuń go z "
-"walki. Dowolna liczba obrażeń zadana innemu stworowi przez stwora z dotykiem "
+"Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go. ("
+"Następnym razem, gdy miałby zostać zniszczony w tej turze, nie jest. Zamiast "
+"tego przekręć go, usuń z niego wszystkie obrażenia i usuń go z potyczki. "
+"Dowolna liczba obrażeń zadana innemu stworowi przez stwora z dotykiem "
 "śmierci wystarcza, by go zniszczyć.)"
 
 #: ../../AVR.rst:592
@@ -1817,7 +1817,7 @@ msgid ""
 "When enchanted creature dies, return that card to the battlefield under your "
 "control."
 msgstr ""
-"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole walki pod twoim "
+"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole bitwy pod twoim "
 "władaniem."
 
 #: ../../AVR.rst:638
@@ -2408,7 +2408,7 @@ msgid ""
 "Whenever a Human enters the battlefield under your control, Vigilante "
 "Justice deals 1 damage to any target."
 msgstr ""
-"Ilekroć inny Człowiek wejdzie na pole walki pod twoim władaniem, niniejszy "
+"Ilekroć inny Człowiek wejdzie na pole bitwy pod twoim władaniem, niniejszy "
 "stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../AVR.rst:850
@@ -2476,7 +2476,7 @@ msgid ""
 "for a basic land card, reveal it, and put it into your hand. If you do, "
 "shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
 "przetasuj twoją bibliotekę."
 
@@ -2511,7 +2511,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, put a "
 "+1/+1 counter on Champion of Lambholt."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na niniejszym stworze."
 
 #: ../../AVR.rst:884
@@ -2527,7 +2527,7 @@ msgid ""
 "trample and get +X/+X until end of turn, where X is the number of creatures "
 "you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury tratowanie i +X/+X, gdzie X jest liczbą stworów pod twoim "
 "władaniem."
 
@@ -2846,7 +2846,7 @@ msgid ""
 "Whenever another nontoken creature enters the battlefield under your "
 "control, you may draw a card."
 msgstr ""
-"Ilekroć inny nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć inny nieżetonowy stwór wejdzie na pole bitwy pod twoim władaniem, "
 "możesz dobrać kartę."
 
 #: ../../AVR.rst:1008
@@ -3015,7 +3015,7 @@ msgid ""
 "graveyard and/or hand."
 msgstr ""
 "Ilekroć ten stwór zaatakuje lub zablokuje, możesz do niej dołączyć dowolną "
-"liczbę Aur na polu walki oraz możesz umieścić na polu walki dołączone do "
+"liczbę Aur na polu bitwy oraz możesz umieścić na polu bitwy dołączone do "
 "niej dowolną liczbę Aur, które mogłyby ją zauroczyć ze swojego cmentarza i/"
 "lub ręki."
 
@@ -3074,7 +3074,7 @@ msgid ""
 "Angel's Tomb become a 3/3 white Angel artifact creature with flying until "
 "end of turn."
 msgstr ""
-"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, możesz sprawić, że "
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, możesz sprawić, że "
 "ten artefakt stanie się do końca tury białym stworem Anioł 3/3 z lataniem."
 
 #: ../../AVR.rst:1088
@@ -3317,7 +3317,7 @@ msgstr ""
 
 #: ../../AVR.rst:1161
 msgid "As Cavern of Souls enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten ląd na polu walki, wybierz typ stwora."
+msgstr "Umieszczając ten ląd na polu bitwy, wybierz typ stwora."
 
 #: ../../AVR.rst:1165
 msgid ""

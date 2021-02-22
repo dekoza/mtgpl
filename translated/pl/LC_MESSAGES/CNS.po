@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -133,7 +133,7 @@ msgid ""
 "Each creature you control with the chosen name enters the battlefield with "
 "an additional +1/+1 counter on it."
 msgstr ""
-"Każdy stwór o wybranej nazwie pod twoim władaniem wchodzi na pole walki z "
+"Każdy stwór o wybranej nazwie pod twoim władaniem wchodzi na pole bitwy z "
 "dodatkowym znacznikiem +1/+1."
 
 #: ../../CNS.rst:54
@@ -164,7 +164,7 @@ msgid ""
 "control, you may search your library for any number of cards with that name, "
 "reveal them, put them into your hand, then shuffle your library."
 msgstr ""
-"Ilekroć stwór o wybranej nazwie wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć stwór o wybranej nazwie wejdzie na pole bitwy pod twoim władaniem, "
 "możesz wyszukać w twojej bibliotece dowolną liczbę kart o owej nazwie, "
 "ujawnić je, umieścić w twojej ręce, następnie przetasować twoją bibliotekę."
 
@@ -716,7 +716,7 @@ msgid ""
 "Each player mills two cards. Then you put a creature card from a graveyard "
 "onto the battlefield under your control."
 msgstr ""
-"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole walki pod twoim "
+"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole bitwy pod twoim "
 "władaniem."
 
 #: ../../CNS.rst:250
@@ -1121,7 +1121,7 @@ msgid ""
 "Apex Hawks enters the battlefield with a +1/+1 counter on it for each time "
 "it was kicked."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając tyle znaczników +1/+1, ile razy został "
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
 "podbity."
 
 #: ../../CNS.rst:384
@@ -1239,7 +1239,7 @@ msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Plains card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
+"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, następnie przetasować twoją bibliotekę."
 
@@ -1295,7 +1295,7 @@ msgid ""
 "your graveyard to the battlefield."
 msgstr ""
 "Na początku twojego kroku utrzymania, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza na pole walki."
+"stwora z twojego cmentarza na pole bitwy."
 
 #: ../../CNS.rst:450
 msgid ""
@@ -1507,7 +1507,7 @@ msgid ""
 "When Crookclaw Transmuter enters the battlefield, switch target creature's "
 "power and toughness until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zamień do końca tury siłę z "
+"Kiedy ten stwór wejdzie na pole bitwy, zamień do końca tury siłę z "
 "wytrzymałością wskazanego stwora."
 
 #: ../../CNS.rst:528
@@ -2041,7 +2041,7 @@ msgid ""
 "When enchanted creature dies, return that card to the battlefield under your "
 "control."
 msgstr ""
-"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole walki pod twoim "
+"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole bitwy pod twoim "
 "władaniem."
 
 #: ../../CNS.rst:726
@@ -2475,7 +2475,7 @@ msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Forest card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
+"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, następnie przetasować twoją bibliotekę."
 
@@ -2604,7 +2604,7 @@ msgstr ""
 
 #: ../../CNS.rst:931
 msgid "When Pelakka Wurm enters the battlefield, you gain 7 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 7 żyć."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 7 żyć."
 
 #: ../../CNS.rst:933
 msgid "When Pelakka Wurm dies, draw a card."

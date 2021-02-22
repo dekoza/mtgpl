@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-21 21:41+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hou/pl/>\n"
 "Language: pl\n"
@@ -82,7 +82,7 @@ msgid ""
 "end step."
 msgstr ""
 "|mana_2|\\ |mana_w|, |tap|: Wygnaj innego wskazanego stwora. Przywróć ową "
-"kartę na pole walki pod władaniem jej właściciela na początku najbliższego "
+"kartę na pole bitwy pod władaniem jej właściciela na początku najbliższego "
 "kroku końcowego."
 
 #: ../../HOU.rst:23
@@ -92,7 +92,7 @@ msgid ""
 "exerted creature won't untap during your next untap step.)"
 msgstr ""
 "|mana_2|\\ |mana_w|, |tap|, wytęż tego stwora: Wygnaj innego wskazanego "
-"stwora dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odkręci "
+"stwora dopóki ten stwór nie opuści pola bitwy. (Wytężony stwór nie odkręci "
 "się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:30
@@ -125,7 +125,7 @@ msgstr ""
 
 #: ../../HOU.rst:35
 msgid "When Aven of Enduring Hope enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../HOU.rst:42
 msgid ""
@@ -174,7 +174,7 @@ msgid ""
 "When Desert's Hold enters the battlefield, if you control a Desert or there "
 "is a Desert card in your graveyard, you gain 3 life."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, jeśli władasz Pustynią lub w twoim "
+"Kiedy ten urok wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
 "cmentarzu jest karta Pustyni, zyskaj 3 życia."
 
 #: ../../HOU.rst:55
@@ -197,7 +197,7 @@ msgid ""
 "When Disposal Mummy enters the battlefield, exile target card from an "
 "opponent's graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę z cmentarza "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza "
 "przeciwnika."
 
 #: ../../HOU.rst:68
@@ -217,7 +217,7 @@ msgid ""
 "library for a planeswalker card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę wędrowca, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -289,7 +289,7 @@ msgid ""
 "This spell costs |mana_3| less to cast if there are ten or more nonland "
 "permanents on the battlefield."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_3| mniej, jeśli na polu walki jest co "
+"Rzucenie tego czaru kosztuje o |mana_3| mniej, jeśli na polu bitwy jest co "
 "najmniej dziesięć nie-lądowych permanentów."
 
 #: ../../HOU.rst:91
@@ -308,7 +308,7 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, Mummy "
 "Paramount gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny Zombi wejdzie na pole walki pod twoim władaniem, ten stwór "
+"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "dostaje do końca tury +1/+1."
 
 #: ../../HOU.rst:100
@@ -403,7 +403,7 @@ msgid ""
 "this turn to you and permanents you control is dealt to enchanted creature "
 "instead."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wszystkie obrażenia, jakie miałyby "
+"Kiedy ten urok wejdzie na pole bitwy, wszystkie obrażenia, jakie miałyby "
 "zostać w tej turze zadane tobie i permanentom pod twoim władaniem, zamiast "
 "tego zostają zadane zauroczonemu stworowi."
 
@@ -493,7 +493,7 @@ msgid ""
 "When Sunscourge Champion enters the battlefield, you gain life equal to its "
 "power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj tyle żyć, ile wynosi jego siła."
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi jego siła."
 
 #: ../../HOU.rst:151
 msgid ""
@@ -524,8 +524,8 @@ msgid ""
 "mana_w|. If you do, return Unconventional Tactics from your graveyard to "
 "your hand."
 msgstr ""
-"Ilekroć Zombi wejdzie na pole walki pod twoim władaniem, możesz zapłacić |"
-"mana_w|. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
+"Ilekroć Zombi wejdzie na pole bitwy pod twoim władaniem, możesz zapłacić "
+"|mana_w|. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
 "twojej ręki."
 
 #: ../../HOU.rst:164
@@ -584,7 +584,7 @@ msgid ""
 "When Champion of Wits enters the battlefield, you may draw cards equal to "
 "its power. If you do, discard two cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz dobrać tyle kart, ile wynosi "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz dobrać tyle kart, ile wynosi "
 "jego siła. Jeśli tak zrobisz, odrzuć dwie karty."
 
 #: ../../HOU.rst:181
@@ -961,7 +961,7 @@ msgid ""
 "An opponent separates those cards into two piles. Put one pile into your "
 "hand and the other into your graveyard."
 msgstr ""
-"Ilekroć ten stwór lub inny Sfinks wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć ten stwór lub inny Sfinks wejdzie na pole bitwy pod twoim władaniem, "
 "ujawnij cztery wierzchnie karty twojej biblioteki. Przeciwnik rozdziela owe "
 "karty na dwa stosy. Umieść jeden z nich w twojej ręce, a pozostały w twoim "
 "cmentarzu."
@@ -978,7 +978,7 @@ msgid ""
 "When Unquenchable Thirst enters the battlefield, if you control a Desert or "
 "there is a Desert card in your graveyard, tap enchanted creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, jeśli władasz Pustynią lub w twoim "
+"Kiedy ten urok wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
 "cmentarzu jest karta Pustyni, przekręć zauroczonego stwora."
 
 #: ../../HOU.rst:305
@@ -1009,7 +1009,7 @@ msgid ""
 "library for a creature card with eternalize or embalm, put that card into "
 "your graveyard, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora z uwiecznieniem lub balsamowaniem, umieść ową kartę w twoim "
 "cmentarzu, następnie przetasuj twoją bibliotekę."
 
@@ -1098,7 +1098,7 @@ msgid ""
 "When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter "
 "on target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz umieścić znacznik -1/-1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić znacznik -1/-1 na "
 "wskazanym stworze."
 
 #: ../../HOU.rst:341
@@ -1540,7 +1540,7 @@ msgid ""
 "When Chaos Maw enters the battlefield, it deals 3 damage to each other "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje każdemu innemu stworowi po 3 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje każdemu innemu stworowi po 3 "
 "obrażenia."
 
 #: ../../HOU.rst:492
@@ -1587,7 +1587,7 @@ msgid ""
 "When Earthshaker Khenra enters the battlefield, target creature with power "
 "less than or equal to Earthshaker Khenra's power can't block this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór o sile mniejszej lub "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór o sile mniejszej lub "
 "równej sile tego stwora nie może blokować w tej turze."
 
 #: ../../HOU.rst:503
@@ -1713,7 +1713,7 @@ msgstr ""
 
 #: ../../HOU.rst:541
 msgid "Imminent Doom enters the battlefield with a doom counter on it."
-msgstr "Ten urok wchodzi na pole walki ze znacznikiem zagłady."
+msgstr "Ten urok wchodzi na pole bitwy ze znacznikiem zagłady."
 
 #: ../../HOU.rst:543
 msgid ""
@@ -1846,7 +1846,7 @@ msgid ""
 "is a Desert card in your graveyard, you may have Sand Strangler deal 3 "
 "damage to target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli władasz Pustynią lub w twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
 "cmentarzu jest karta Pustyni, możesz sprawić, by ten stwór zadał wskazanemu "
 "stworowi 3 obrażenia."
 
@@ -1912,7 +1912,7 @@ msgid ""
 "tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu walki, następnie przetasuj twoją bibliotekę."
+"polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:616
 msgid ""
@@ -2026,7 +2026,7 @@ msgid ""
 "Deserts, create two 2/2 black Zombie creature tokens."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwóch kart lądów, umieść je "
-"przekręcone na polu walki, następnie przetasuj twoją bibliotekę. Następnie "
+"przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę. Następnie "
 "jeśli władasz co najmniej trzema Pustyniami, stwórz dwa żetony czarnego "
 "stwora Zombi 2/2."
 
@@ -2064,7 +2064,7 @@ msgid ""
 "strike, double strike, deathtouch, haste, hexproof, indestructible, "
 "lifelink, menace, reach, trample, and vigilance."
 msgstr ""
-"Na początku każdej walki, jeśli władasz stworem z lataniem, ten stwór "
+"Na początku każdej potyczki, jeśli władasz stworem z lataniem, ten stwór "
 "zyskuje latanie. To samo dotyczy pierwszego ciosu, podwójnego ciosu, dotyku "
 "śmierci, pośpiechu, antyklątwy, niezniszczalności, więzi życia, złowrogości, "
 "zasięgu, tratowania i czujności."
@@ -2152,8 +2152,8 @@ msgid ""
 "When Quarry Beetle enters the battlefield, you may return target land card "
 "from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę lądu "
-"z twojego cmentarza na pole walki."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę lądu "
+"z twojego cmentarza na pole bitwy."
 
 #: ../../HOU.rst:690
 msgid ""
@@ -2209,7 +2209,7 @@ msgid ""
 "When Resilient Khenra enters the battlefield, you may have target creature "
 "get +X/+X until end of turn, where X is Resilient Khenra's power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, by wskazany stwór "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, by wskazany stwór "
 "dostał do końca tury +X/+X , gdzie X jest siłą niniejszego stwora."
 
 #: ../../HOU.rst:707
@@ -2284,7 +2284,7 @@ msgid ""
 "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of "
 "your library. You gain life equal to that card's converted mana cost."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wróż 3, następnie ujawnij wierzchnią "
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 3, następnie ujawnij wierzchnią "
 "kartę twojej biblioteki. Zyskaj tyle żyć, ile wynosi skrócony koszt many "
 "owej karty."
 
@@ -2332,7 +2332,7 @@ msgid ""
 "When Bloodwater Entity enters the battlefield, you may put target instant or "
 "sorcery card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz umieścić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić wskazaną kartę "
 "sztuczki lub obrzędu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../HOU.rst:752
@@ -2485,7 +2485,7 @@ msgid ""
 "put them onto the battlefield, then shuffle your library."
 msgstr ""
 "–7: Wyszukaj w twojej bibliotece co najwyżej dwie karty stworów i/lub "
-"wędrowców, umieść je na polu walki, następnie przetasuj twoją bibliotekę."
+"wędrowców, umieść je na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:798
 msgid ""
@@ -2633,7 +2633,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub mniejszym z "
-"twojego cmentarza na pole walki."
+"twojego cmentarza na pole bitwy."
 
 #: ../../HOU.rst:842
 msgid ""
@@ -2749,7 +2749,7 @@ msgid ""
 "it's a creature card. If you don't, put it into your hand."
 msgstr ""
 "Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to karta stwora, możesz "
-"umieścić ją na polu walki. Jeśli tego nie zrobisz, umieść ją w twojej ręce."
+"umieścić ją na polu bitwy. Jeśli tego nie zrobisz, umieść ją w twojej ręce."
 
 #: ../../HOU.rst:886
 msgid ""
@@ -2907,7 +2907,7 @@ msgid ""
 "your graveyard. If you do, create a token that's a copy of that card, except "
 "it's a 4/4 black Zombie. It gains haste until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, możesz wygnać kartę stwora z twojego "
+"Na początku potyczki w twojej turze, możesz wygnać kartę stwora z twojego "
 "cmentarza. Jeśli tak zrobisz, stwórz żeton będący jej kopią z wyjątkiem "
 "tego, że jest to czarny Zombi 4/4. Ów żeton zyskuje pośpiech do końca tury."
 
@@ -2972,7 +2972,7 @@ msgstr ""
 
 #: ../../HOU.rst:955
 msgid "Sunset Pyramid enters the battlefield with three brick counters on it."
-msgstr "Ten artefakt wchodzi na pole walki mając trzy znaczniki cegły."
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki cegły."
 
 #: ../../HOU.rst:957
 msgid ""
@@ -3026,7 +3026,7 @@ msgstr ""
 
 #: ../../HOU.rst:973
 msgid "When Crypt of the Eternals enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../HOU.rst:975 ../../HOU.rst:1021 ../../HOU.rst:1027 ../../HOU.rst:1035
 #: ../../HOU.rst:1043 ../../HOU.rst:1049 ../../HOU.rst:1057 ../../HOU.rst:1065
@@ -3047,7 +3047,7 @@ msgstr ""
 
 #: ../../HOU.rst:981
 msgid "Desert of the Fervent enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../HOU.rst:983
 msgid "|tap|: Add |mana_r|."
@@ -3070,7 +3070,7 @@ msgstr ""
 
 #: ../../HOU.rst:989
 msgid "Desert of the Glorified enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../HOU.rst:991
 msgid "|tap|: Add |mana_b|."
@@ -3094,7 +3094,7 @@ msgstr ""
 
 #: ../../HOU.rst:997
 msgid "Desert of the Indomitable enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../HOU.rst:999
 msgid "|tap|: Add |mana_g|."
@@ -3117,7 +3117,7 @@ msgstr ""
 
 #: ../../HOU.rst:1005
 msgid "Desert of the Mindful enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../HOU.rst:1007
 msgid "|tap|: Add |mana_u|."
@@ -3140,7 +3140,7 @@ msgstr ""
 
 #: ../../HOU.rst:1013
 msgid "Desert of the True enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../HOU.rst:1015
 msgid "|tap|: Add |mana_w|."
@@ -3166,7 +3166,7 @@ msgid ""
 "When Dunes of the Dead is put into a graveyard from the battlefield, create "
 "a 2/2 black Zombie creature token."
 msgstr ""
-"Kiedy ten ląd zostanie umieszczony w cmentarzu z pola walki, stwórz żeton "
+"Kiedy ten ląd zostanie umieszczony w cmentarzu z pola bitwy, stwórz żeton "
 "czarnego stwora Zombi 2/2."
 
 #: ../../HOU.rst:1032
@@ -3186,7 +3186,7 @@ msgid ""
 "with Endless Sands to the battlefield under its owner's control."
 msgstr ""
 "|mana_4|, |tap|, poświęć ten ląd: Przywróć wszystkie karty stworów wygnane "
-"przez ten ląd na pole walki pod władaniem ich właścicieli."
+"przez ten ląd na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../HOU.rst:1040
 msgid ""
@@ -3407,7 +3407,7 @@ msgid ""
 "rest on the bottom of your library in a random order."
 msgstr ""
 "–10: Spójrz na dziesięć wierzchnich kart twojej biblioteki. Możesz spośród "
-"nich umieścić dowolną liczbę kart stworów i/lub lądów na polu walki. Umieść "
+"nich umieścić dowolną liczbę kart stworów i/lub lądów na polu bitwy. Umieść "
 "pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../HOU.rst:1122
@@ -3466,7 +3466,7 @@ msgstr ""
 
 #: ../../HOU.rst:1133
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../HOU.rst:1135
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3544,7 +3544,7 @@ msgid ""
 "or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put "
 "it into your hand. If you search your library this way, shuffle it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, możesz wyszukać w twojej "
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz wyszukać w twojej "
 "bibliotece i/lub cmentarzu kartę o nazwie Nicol Bolas, the Deceiver, ujawnij "
 "ją i umieść w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, "
 "przetasuj ją."
@@ -3562,7 +3562,7 @@ msgstr ""
 
 #: ../../HOU.rst:1163
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../HOU.rst:1165
 msgid "|tap|: Add |mana_b| or |mana_r|."

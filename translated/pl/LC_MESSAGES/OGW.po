@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ogw/pl/>\n"
 "Language: pl\n"
@@ -44,7 +44,7 @@ msgid ""
 "control other than Deceiver of Form become copies of that card until end of "
 "turn. You may put that card on the bottom of your library."
 msgstr ""
-"Na początku walki w twojej turze, ujawnij wierzchnią kratę twojej "
+"Na początku potyczki w twojej turze, ujawnij wierzchnią kratę twojej "
 "biblioteki. Jeśli karta stwora zostanie ujawniona w ten sposób, możesz "
 "sprawić, że inne stwory niż niniejszy pod twoim władaniem staną się do końca "
 "tury kopią owej karty. Możesz umieścić ową kartę na spodzie twojej "
@@ -63,7 +63,7 @@ msgid ""
 "control, you may change Eldrazi Mimic's base power and toughness to that "
 "creature's power and toughness until end of turn."
 msgstr ""
-"Ilekroć inny bezkolorowy stwór wejdzie na pole walki pod twoim władanie, "
+"Ilekroć inny bezkolorowy stwór wejdzie na pole bitwy pod twoim władanie, "
 "możesz zmienić do końca tury bazową siłę i wytrzymałość niniejszego stwora "
 "na siłę i wytrzymałość owego stwora."
 
@@ -149,7 +149,7 @@ msgid ""
 "cost 3 or less. Otherwise, put that card into your hand."
 msgstr ""
 "Kiedy ten stwór umrze, ujawnij wierzchnią kartę twojej biblioteki. Możesz "
-"umieścić ową kartę na polu walki jeśli jest kartą permanentu o skróconym "
+"umieścić ową kartę na polu bitwy jeśli jest kartą permanentu o skróconym "
 "koszcie many nie większym niż 3. W przeciwnym razie umieść ową kartę w "
 "twojej ręce."
 
@@ -195,13 +195,13 @@ msgid ""
 "When Thought-Knot Seer enters the battlefield, target opponent reveals their "
 "hand. You choose a nonland card from it and exile that card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją "
 "rękę. Wybierz z niej nie-lądową kartę i wygnaj ją."
 
 #: ../../OGW.rst:65
 msgid ""
 "When Thought-Knot Seer leaves the battlefield, target opponent draws a card."
-msgstr "Kiedy ten stwór opuści pole walki, wskazany przeciwnik dobiera kartę."
+msgstr "Kiedy ten stwór opuści pole bitwy, wskazany przeciwnik dobiera kartę."
 
 #: ../../OGW.rst:74
 msgid ""
@@ -290,7 +290,7 @@ msgid ""
 "colorless mana.)"
 msgstr ""
 "|mana_2|\\ |colorless|: Wygnaj innego wskazanego stwora, następnie przywróć "
-"go przekręconego na pole walki pod władaniem właściciela. (|colorless| "
+"go przekręconego na pole bitwy pod władaniem właściciela. (|colorless| "
 "oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:102
@@ -360,7 +360,7 @@ msgid ""
 "When Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 "
 "counter on each of up to two other target creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Umieść znacznik +1/+1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, wesprzyj 2. (Umieść znacznik +1/+1 na "
 "każdym z co najwyżej dwóch innych wskazanych stworów.)"
 
 #: ../../OGW.rst:126
@@ -376,7 +376,7 @@ msgid ""
 "an Ally creature card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora typu Sojusznik, ujawnij ja, umieść ją w twojej ręce, następnie "
 "przetasuj twoją bibliotekę."
 
@@ -433,8 +433,8 @@ msgid ""
 "enchantment an opponent controls until Isolation Zone leaves the "
 "battlefield. (That permanent returns under its owner's control.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego stwora lub urok pod "
-"władaniem przeciwnika dopóki niniejszy urok nie opuści pola walki. (Ów "
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora lub urok pod "
+"władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy. (Ów "
 "permanent wróci pod władanie swojego władcy.)"
 
 #: ../../OGW.rst:144
@@ -471,7 +471,7 @@ msgid ""
 "When Linvala, the Preserver enters the battlefield, if an opponent has more "
 "life than you, you gain 5 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli przeciwnik ma więcej żyć niż "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma więcej żyć niż "
 "ty, zyskaj 5 żyć."
 
 #: ../../OGW.rst:155
@@ -479,7 +479,7 @@ msgid ""
 "When Linvala enters the battlefield, if an opponent controls more creatures "
 "than you, create a 3/3 white Angel creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli przeciwnik ma we władaniu "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
 "więcej stworów niż ty, stwórz żeton białego stwora Anioł 3/3 z lataniem."
 
 #: ../../OGW.rst:160
@@ -542,7 +542,7 @@ msgid ""
 "When Oath of Gideon enters the battlefield, create two 1/1 white Kor Ally "
 "creature tokens."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony białego stwora Kor "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony białego stwora Kor "
 "Sojusznik 1/1."
 
 #: ../../OGW.rst:177
@@ -550,7 +550,7 @@ msgid ""
 "Each planeswalker you control enters the battlefield with an additional "
 "loyalty counter on it."
 msgstr ""
-"Każdy wędrowiec pod twoim władaniem wchodzi na pole walki mając dodatkowy "
+"Każdy wędrowiec pod twoim władaniem wchodzi na pole bitwy mając dodatkowy "
 "znacznik lojalności."
 
 #: ../../OGW.rst:182
@@ -578,7 +578,7 @@ msgid ""
 "When Relief Captain enters the battlefield, support 3. (Put a +1/+1 counter "
 "on each of up to three other target creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wesprzyj 3. (Umieść znacznik +1/+1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, wesprzyj 3. (Umieść znacznik +1/+1 na "
 "każdym z co najwyżej trzech innych wskazanych stworów.)"
 
 #: ../../OGW.rst:190
@@ -693,7 +693,7 @@ msgid ""
 "counters on target land you control. If you do, that land becomes a 0/0 "
 "Elemental creature with haste that's still a land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz umieścić trzy znaczniki +1/+1 "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić trzy znaczniki +1/+1 "
 "na wskazanym lądzie pod twoim władaniem. Jeśli tak zrobisz, ów ląd staje się "
 "stworem Żywiołak 0/0 z pośpiechem i pozostaje on lądem."
 
@@ -1006,7 +1006,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania możesz ujawnić swoją rękę. Jeśli tak "
 "zrobisz, wygrywasz grę jeśli posiadasz kartę o nazwie Hedron Alignment na "
-"wygnaniu, w twojej ręce, w twoim cmentarzu i na polu walki."
+"wygnaniu, w twojej ręce, w twoim cmentarzu i na polu bitwy."
 
 #: ../../OGW.rst:343
 msgid "|mana_1|\\ |mana_u|: Scry 1."
@@ -1042,7 +1042,7 @@ msgid ""
 "When Oath of Jace enters the battlefield, draw three cards, then discard two "
 "cards."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, dobierz trzy karty, następnie odrzuć "
+"Kiedy ten urok wejdzie na pole bitwy, dobierz trzy karty, następnie odrzuć "
 "dwie karty."
 
 #: ../../OGW.rst:359
@@ -1244,7 +1244,7 @@ msgid ""
 "library face down, then shuffle all cards from your graveyard into your "
 "library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wszystkie karty twojej "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie karty twojej "
 "biblioteki zakryte, następnie wtasuj wszystkie karty z twojego cmentarza do "
 "twojej biblioteki."
 
@@ -1756,7 +1756,7 @@ msgid ""
 "When Cinder Hellion enters the battlefield, it deals 2 damage to target "
 "opponent or planeswalker."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu przeciwnikowi "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu przeciwnikowi "
 "lub wędrowcowi 2 obrażenia."
 
 #: ../../OGW.rst:638
@@ -1795,7 +1795,7 @@ msgid ""
 "may have target land you control become a 3/3 Elemental creature with haste "
 "until end of turn. It's still a land."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, możesz "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
 "sprawić, że wskazany ląd pod twoim władaniem stanie się do końca tury "
 "stworem Żywiołak 3/3 z pośpiechem. Nadal pozostaje on lądem."
 
@@ -1844,7 +1844,7 @@ msgid ""
 "graveyard without paying its mana cost. If that spell would be put into your "
 "graveyard this turn, exile it instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz rzucić wskazaną kartę sztuczki "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz rzucić wskazaną kartę sztuczki "
 "lub obrzędu o skróconym koszcie many 3 lub mniejszym z twojego cmentarza bez "
 "płacenia kosztu many. Jeśli ów czar miałby zostać umieszczony w cmentarzu w "
 "tej turze, zamiast tego wygnaj go."
@@ -1890,7 +1890,7 @@ msgid ""
 "When Oath of Chandra enters the battlefield, it deals 3 damage to target "
 "creature an opponent controls."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje wskazanemu stworowi pod "
+"Kiedy ten urok wejdzie na pole bitwy, zadaje wskazanemu stworowi pod "
 "władaniem przeciwnika 3 obrażenia."
 
 #: ../../OGW.rst:679
@@ -1899,7 +1899,7 @@ msgid ""
 "under your control this turn, Oath of Chandra deals 2 damage to each "
 "opponent."
 msgstr ""
-"Na początku każdego kroku końcowego, jeśli wędrowiec wszedł na pole walki "
+"Na początku każdego kroku końcowego, jeśli wędrowiec wszedł na pole bitwy "
 "pod twoim władaniem w tej turze, ten urok zadaje każdemu przeciwnikowi po 2 "
 "obrażenia."
 
@@ -1945,7 +1945,7 @@ msgid ""
 "When Reckless Bushwhacker enters the battlefield, if its surge cost was "
 "paid, other creatures you control get +1/+0 and gain haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli opłacono jego koszt wezbrania, "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli opłacono jego koszt wezbrania, "
 "inne stwory pod twoim władaniem dostają do końca tury +1/+0 oraz pośpiech."
 
 #: ../../OGW.rst:702
@@ -1995,7 +1995,7 @@ msgid ""
 "When Tyrant of Valakut enters the battlefield, if its surge cost was paid, "
 "it deals 3 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli opłacono jego koszt wezbrania, "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli opłacono jego koszt wezbrania, "
 "zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../OGW.rst:722
@@ -2030,9 +2030,9 @@ msgid ""
 "Scion creature tokens. They have \"Sacrifice this creature: Add |colorless|."
 "\" (|colorless| represents colorless mana.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
-"stwora Pomiot Eldrazi mające \"Poświęć tego stwora: Weź |colorless|.\" (|"
-"colorless| oznacza bezkolorową manę.)"
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"stwora Pomiot Eldrazi mające \"Poświęć tego stwora: Weź |colorless|.\" "
+"(|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:729
 msgid "|mana_1|\\ |colorless|: Regenerate Birthing Hulk."
@@ -2052,7 +2052,7 @@ msgid ""
 "Otherwise, put that card into your hand. Then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu i ujawnij ją. Możesz ją "
-"umieścić przekręconą na polu walki jeśli władasz lądem o nazwie Wastes. W "
+"umieścić przekręconą na polu bitwy jeśli władasz lądem o nazwie Wastes. W "
 "przeciwnym razie umieść ową kartę w twojej ręce. Następnie przetasuj twoją "
 "bibliotekę."
 
@@ -2069,7 +2069,7 @@ msgid ""
 "Scion creature token. It has \"Sacrifice this creature: Add |colorless|.\" (|"
 "colorless| represents colorless mana.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Pomiot Eldrazi mający \"Poświęć tego stwora: Weź |colorless|.\" (|colorless| "
 "oznacza bezkolorową manę.)"
 
@@ -2150,7 +2150,7 @@ msgstr ""
 
 #: ../../OGW.rst:773
 msgid "When Bonds of Mortality enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../OGW.rst:775
 msgid ""
@@ -2206,7 +2206,7 @@ msgid ""
 "When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 "
 "counter on each of up to six other target creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wesprzyj 6. (Umieść znacznik +1/+1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, wesprzyj 6. (Umieść znacznik +1/+1 na "
 "każdym z co najwyżej sześciu innych wskazanych stworach.)"
 
 #: ../../OGW.rst:797
@@ -2229,7 +2229,7 @@ msgid ""
 "When Harvester Troll enters the battlefield, you may sacrifice a creature or "
 "land. If you do, put two +1/+1 counters on Harvester Troll."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić stwora lub ląd. "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora lub ląd. "
 "Jeśli tak zrobisz, umieść dwa znaczniki +1/+1 na tym stworze."
 
 #: ../../OGW.rst:806
@@ -2252,7 +2252,7 @@ msgid ""
 "basic land card, reveal it, then shuffle your library and put that card on "
 "top of it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukaj w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukaj w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, następnie przetasuj twoją bibliotekę i "
 "umieść ową kartę na jej wierzchu."
 
@@ -2342,7 +2342,7 @@ msgid ""
 "among them and put it into your hand. Put the rest on the bottom of your "
 "library in any order."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, spójrz na trzy wierzchnie karty twojej "
+"Kiedy ten urok wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
 "biblioteki. Możesz ujawnić spośród nich kartę lądu lub wędrowca i umieścić "
 "ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
 "kolejności."
@@ -2382,7 +2382,7 @@ msgid ""
 "When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 "
 "counter on each of up to two other target creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wesprzyj 2. (Umieść znacznik +1/+1 na "
+"Kiedy ten stwór wejdzie na pole bitwy, wesprzyj 2. (Umieść znacznik +1/+1 na "
 "każdym z co najwyżej dwóch innych wskazanych stworów.)"
 
 #: ../../OGW.rst:854
@@ -2474,7 +2474,7 @@ msgid ""
 "Whenever another colorless creature enters the battlefield under your "
 "control, target opponent loses 1 life."
 msgstr ""
-"Ilekroć inny bezkolorowy stwór wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć inny bezkolorowy stwór wejdzie na pole bitwy pod twoim władaniem, "
 "wskazany przeciwnik traci 1 życie."
 
 #: ../../OGW.rst:890
@@ -2513,7 +2513,7 @@ msgid ""
 "When Void Grafter enters the battlefield, another target creature you "
 "control gains hexproof until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, inny wskazany stwór pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, inny wskazany stwór pod twoim "
 "władaniem zyskuje antyklątwę do końca tury."
 
 #: ../../OGW.rst:906
@@ -2557,7 +2557,7 @@ msgid ""
 "When Baloth Null enters the battlefield, return up to two target creature "
 "cards from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć o najwyżej dwie wskazane "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć o najwyżej dwie wskazane "
 "karty stworów z twojego cmentarza do twojej ręki."
 
 #: ../../OGW.rst:916
@@ -2629,7 +2629,7 @@ msgid ""
 "opponent controls to its owner's hand. That creature's owner can't cast "
 "spells with the same name as that creature until your next turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora pod "
 "władaniem przeciwnika do ręki właściciela. Właściciel owego stwora do twojej "
 "następnej tury nie może rzucać czarów o takiej samej nazwie jak ów stwór."
 
@@ -2794,7 +2794,7 @@ msgstr ""
 
 #: ../../OGW.rst:993
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:995
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -2824,12 +2824,12 @@ msgstr ""
 
 #: ../../OGW.rst:1005
 msgid "Crumbling Vestige enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1007
 msgid ""
 "When Crumbling Vestige enters the battlefield, add one mana of any color."
-msgstr "Kiedy ten ląd wejdzie na pole walki, weź jedną manę dowolnego koloru."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, weź jedną manę dowolnego koloru."
 
 #: ../../OGW.rst:1018
 msgid ""
@@ -2840,7 +2840,7 @@ msgstr ""
 
 #: ../../OGW.rst:1013
 msgid "Hissing Quagmire enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1015
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -2877,7 +2877,7 @@ msgstr ""
 
 #: ../../OGW.rst:1027
 msgid "Meandering River enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1029
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -2892,7 +2892,7 @@ msgstr ""
 
 #: ../../OGW.rst:1033
 msgid "Mirrorpool enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1037
 msgid ""
@@ -2919,7 +2919,7 @@ msgstr ""
 
 #: ../../OGW.rst:1043
 msgid "Needle Spires enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1045
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -2942,7 +2942,7 @@ msgstr ""
 
 #: ../../OGW.rst:1051
 msgid "Ruins of Oran-Rief enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1055
 msgid ""
@@ -2950,7 +2950,7 @@ msgid ""
 "battlefield this turn."
 msgstr ""
 "|tap|: Umieść znacznik +1/+1 na wskazanym bezkolorowym stworze, który wszedł "
-"na pole walki w tej turze."
+"na pole bitwy w tej turze."
 
 #: ../../OGW.rst:1062
 msgid ""
@@ -2976,7 +2976,7 @@ msgstr ""
 
 #: ../../OGW.rst:1065
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1067
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -2991,7 +2991,7 @@ msgstr ""
 
 #: ../../OGW.rst:1071
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1073
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3006,7 +3006,7 @@ msgstr ""
 
 #: ../../OGW.rst:1077
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1079
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -3032,7 +3032,7 @@ msgstr ""
 
 #: ../../OGW.rst:1089
 msgid "Wandering Fumarole enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../OGW.rst:1091
 msgid "|tap|: Add |mana_u| or |mana_r|."

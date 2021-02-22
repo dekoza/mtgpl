@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:47+0100\n"
-"PO-Revision-Date: 2021-02-15 19:22+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -39,7 +39,7 @@ msgstr "Błysk"
 #: ../../IKO.rst:11
 msgid ""
 "Adaptive Shimmerer enters the battlefield with three +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki z trzema znacznikami +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy z trzema znacznikami +1/+1."
 
 #: ../../IKO.rst:18
 msgid ""
@@ -58,7 +58,7 @@ msgid ""
 "When Farfinder enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -157,7 +157,7 @@ msgid ""
 "When Daysquad Marshal enters the battlefield, create a 1/1 white Human "
 "Soldier creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Człowiek "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Człowiek "
 "Piechur 1/1."
 
 #: ../../IKO.rst:52
@@ -264,7 +264,7 @@ msgid ""
 "Helica Glider enters the battlefield with your choice of a flying counter or "
 "a first strike counter on it."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając dowolny znacznik spośród latania albo "
+"Ten stwór wchodzi na pole bitwy mając dowolny znacznik spośród latania albo "
 "pierwszego ciosu."
 
 #: ../../IKO.rst:90
@@ -312,7 +312,7 @@ msgid ""
 "When Keensight Mentor enters the battlefield, put a vigilance counter on "
 "target non-Human creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik czujności na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik czujności na "
 "wskazanym stworze bez typu Człowiek pod twoim władaniem."
 
 #: ../../IKO.rst:101
@@ -335,7 +335,7 @@ msgid ""
 "As Lavabrink Venturer enters the battlefield, choose odd or even. (Zero is "
 "even.)"
 msgstr ""
-"Umieszczając tę kartę na polu walki wybierz parzyste lub nieparzyste. (Zero "
+"Umieszczając tę kartę na polu bitwy wybierz parzyste lub nieparzyste. (Zero "
 "jest parzyste.)"
 
 #: ../../IKO.rst:107
@@ -388,7 +388,7 @@ msgid ""
 "battlefield under its owner's control with a flying counter on it."
 msgstr ""
 "Ilekroć umrze stwór pod twoim władaniem nie mający latanie, przywróć go na "
-"pole walki pod władaniem właściciela i ze znacznikiem latania."
+"pole bitwy pod władaniem właściciela i ze znacznikiem latania."
 
 #: ../../IKO.rst:132
 msgid ""
@@ -466,7 +466,7 @@ msgid ""
 "When Patagia Tiger enters the battlefield, target Human you control gets +2/"
 "+2 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany Człowiek pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany Człowiek pod twoim władaniem "
 "dostaje do końca tury +2/+2."
 
 #: ../../IKO.rst:156
@@ -752,7 +752,7 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../IKO.rst:259
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../IKO.rst:261
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -813,7 +813,7 @@ msgid ""
 msgstr ""
 "Ilekroć recyklujesz kartę możesz zapłacić |mana_1|. Kiedy tak zrobisz, "
 "wygnaj wskazany artefakt lub stwora pod twoim władaniem, następnie przywróć "
-"go na pole walki pod władaniem właściciela."
+"go na pole bitwy pod władaniem właściciela."
 
 #: ../../IKO.rst:286
 msgid ""
@@ -850,7 +850,7 @@ msgid ""
 "controls. That creature doesn't untap during its controller's next untap "
 "step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
 "odkręcania jego władcy."
 
@@ -959,7 +959,7 @@ msgid ""
 msgstr ""
 "Stwórz żeton będący kopią wskazanego permanentu. Jeśli do rzucenia tego "
 "czaru użyto |mana_r|\\ |mana_g|, zamiast tego stwórz żeton będący kopią "
-"owego permanentu, ale ma on \"Kiedy ten permanent wejdzie na pole walki, "
+"owego permanentu, ale ma on \"Kiedy ten permanent wejdzie na pole bitwy, "
 "jeśli jest stworem, walczy on z co najwyżej jednym wskazanym stworem poza "
 "twoim władaniem.\""
 
@@ -1168,7 +1168,7 @@ msgid ""
 "When Voracious Greatshark enters the battlefield, counter target artifact or "
 "creature spell."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, skontruj wskazany czar artefaktu lub "
+"Kiedy ten stwór wejdzie na pole bitwy, skontruj wskazany czar artefaktu lub "
 "stwora."
 
 #: ../../IKO.rst:418
@@ -1184,7 +1184,7 @@ msgid ""
 "or a hexproof counter on it. (A creature with hexproof can't be the target "
 "of spells or abilities your opponents control.)"
 msgstr ""
-"Ten stwór wchodzi na pole walki mając dowolny znacznik spośród latania i "
+"Ten stwór wchodzi na pole bitwy mając dowolny znacznik spośród latania i "
 "antyklątwy. (Stwór z antyklątwą nie może być wskazywany przez czary lub "
 "zdolności pod władaniem twoich przeciwników.)"
 
@@ -1200,7 +1200,7 @@ msgid ""
 "When Wingspan Mentor enters the battlefield, put a flying counter on target "
 "non-Human creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik latania na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik latania na wskazanym "
 "stworze bez typu Człowiek pod twoim władaniem."
 
 #: ../../IKO.rst:423
@@ -1223,7 +1223,7 @@ msgid ""
 "When Bastion of Remembrance enters the battlefield, create a 1/1 white Human "
 "Soldier creature token."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Człowiek "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton białego stwora Człowiek "
 "Piechur 1/1."
 
 #: ../../IKO.rst:429
@@ -1247,7 +1247,7 @@ msgid ""
 "controls gets -2/-2 until end of turn. Remove all counters from that "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -2/-2. Usuń wszystkie znaczniki z owego "
 "stwora."
 
@@ -1278,7 +1278,7 @@ msgid ""
 "Boot Nipper enters the battlefield with your choice of a deathtouch counter "
 "or a lifelink counter on it."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając dowolny znacznik spośród dotyku "
+"Ten stwór wchodzi na pole bitwy mając dowolny znacznik spośród dotyku "
 "śmierci i więzi życia."
 
 #: ../../IKO.rst:448
@@ -1311,7 +1311,7 @@ msgid ""
 "either of them. Then put a menace counter on either of them."
 msgstr ""
 "Przywróć co najwyżej dwie wskazane karty stworów o łącznym skróconym koszcie "
-"many 3 lub mniejszym z twojego cmentarza na pole walki. Umieść znacznik "
+"many 3 lub mniejszym z twojego cmentarza na pole bitwy. Umieść znacznik "
 "dotyku śmierci na jednym z nich. Następnie umieść znacznik złowrogości na "
 "jednym z nich."
 
@@ -1461,7 +1461,7 @@ msgid ""
 "When Duskfang Mentor enters the battlefield, put a lifelink counter on "
 "target non-Human creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik więzi życia na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik więzi życia na "
 "wskazanym stworze bez typu Człowiek pod twoim władaniem."
 
 #: ../../IKO.rst:499
@@ -1517,7 +1517,7 @@ msgid ""
 "Grimdancer enters the battlefield with your choice of two different counters "
 "on it from among menace, deathtouch, and lifelink."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając dwa dowolne różne znaczniki spośród "
+"Ten stwór wchodzi na pole bitwy mając dwa dowolne różne znaczniki spośród "
 "złowrogości, dotyku śmierci i więzi życia."
 
 #: ../../IKO.rst:526
@@ -1551,7 +1551,7 @@ msgid ""
 "When Hunted Nightmare enters the battlefield, target opponent puts a "
 "deathtouch counter on a creature they control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik umieszcza "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik umieszcza "
 "znacznik dotyku śmierci na stworze pod swoim władaniem."
 
 #: ../../IKO.rst:540
@@ -1596,7 +1596,7 @@ msgid ""
 "When Lurking Deadeye enters the battlefield, destroy target creature that "
 "was dealt damage this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego stwora, który "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego stwora, który "
 "otrzymał obrażenia w tej turze."
 
 #: ../../IKO.rst:552
@@ -1660,7 +1660,7 @@ msgid ""
 "When Nightsquad Commando enters the battlefield, if you attacked this turn, "
 "create a 1/1 white Human Soldier creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w tej turze, stwórz "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej turze, stwórz "
 "żeton białego stwora Człowiek Piechur 1/1."
 
 #: ../../IKO.rst:572
@@ -1701,7 +1701,7 @@ msgid ""
 "Return target creature card from your graveyard to the battlefield with a "
 "lifelink counter on it."
 msgstr ""
-"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki ze "
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy ze "
 "znacznikiem więzi życia."
 
 #: ../../IKO.rst:586
@@ -1766,7 +1766,7 @@ msgid ""
 "it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_1|\\ |mana_b|: Wyszukaj w twojej bibliotece kartę Whisper Squad, "
-"umieść je przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść je przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../IKO.rst:606
 msgid ""
@@ -1920,7 +1920,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór mutuje, stwórz żeton czerwonego artefaktu o nazwie Pióro "
 "mający \"|mana_1|, poświęć ten artefakt: Przywróć wskazaną kartę Feniksa z "
-"twojego cmentarza przekręconą na pole walki.\""
+"twojego cmentarza przekręconą na pole bitwy.\""
 
 #: ../../IKO.rst:656
 msgid ""
@@ -1935,7 +1935,7 @@ msgid ""
 "counter or a menace counter on it. (A creature with menace can't be blocked "
 "except by two or more creatures.)"
 msgstr ""
-"Ten stwór wchodzi na pole walki mając dowolny znacznik spośród tratowania i "
+"Ten stwór wchodzi na pole bitwy mając dowolny znacznik spośród tratowania i "
 "złowrogości. (Stwór ze złowrogością nie może być blokowany, chyba że przez "
 "co najmniej dwa stwory.)"
 
@@ -2023,7 +2023,7 @@ msgid ""
 "target non-Human creature you control. (It can't be blocked except by two or "
 "more creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik złowrogości na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik złowrogości na "
 "wskazanym stworze bez typu Człowiek pod twoim władaniem. (Nie może być "
 "blokowany, chyba że przez co najmniej dwa stwory.)"
 
@@ -2103,7 +2103,7 @@ msgid ""
 msgstr ""
 "–2: Wygnaj wskazanego stwora pod twoim władaniem, następnie ujawniaj karty z "
 "wierzchu twojej biblioteki aż ujawnisz kartę stwora o większym skróconym "
-"koszcie many. Umieść ową kartę na polu walki, a pozostałe na spodzie twojej "
+"koszcie many. Umieść ową kartę na polu bitwy, a pozostałe na spodzie twojej "
 "biblioteki w losowej kolejności."
 
 #: ../../IKO.rst:709
@@ -2256,7 +2256,7 @@ msgid ""
 "ability from your graveyard. Until the end of your next turn, you may play "
 "that card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazaną kartę z recyklingiem "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę z recyklingiem "
 "z twojego cmentarza. Do końca tury możesz zagrać ową kartę."
 
 #: ../../IKO.rst:758
@@ -2410,7 +2410,7 @@ msgid ""
 msgstr ""
 "Kiedy recyklujesz tę kartę, wtasuj ją do twojej biblioteki z twojego "
 "cmentarza. Jeśli recklowałeś kartę o tej nazwie co najmniej cztery razy w "
-"tej grze, zamiast tego umieść ją na polu walki z twojego cmentarza. (Zrób to "
+"tej grze, zamiast tego umieść ją na polu bitwy z twojego cmentarza. (Zrób to "
 "przed dobraniem.)"
 
 #: ../../IKO.rst:808
@@ -2467,7 +2467,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór mutuje, wygnaj karty z wierzchu twojej biblioteki aż "
 "wygnasz X kart permanentów, gdzie X jest liczbą mutacji tego stwora. Umieść "
-"owe karty permanentów na polu walki."
+"owe karty permanentów na polu bitwy."
 
 #: ../../IKO.rst:826
 msgid ""
@@ -2523,7 +2523,7 @@ msgstr ""
 
 #: ../../IKO.rst:841
 msgid "When Colossification enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../IKO.rst:843
 msgid "Enchanted creature gets +20/+20."
@@ -2553,7 +2553,7 @@ msgstr ""
 
 #: ../../IKO.rst:853
 msgid "When Excavation Mole enters the battlefield, mill three cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel trzy karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty."
 
 #: ../../IKO.rst:858
 msgid ""
@@ -2581,7 +2581,7 @@ msgstr ""
 
 #: ../../IKO.rst:861
 msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../IKO.rst:863
 msgid ""
@@ -2591,7 +2591,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"walki, następnie tasuje swoją bibliotekę."
+"bitwy, następnie tasuje swoją bibliotekę."
 
 #: ../../IKO.rst:868
 msgid ""
@@ -2605,7 +2605,7 @@ msgid ""
 "Flycatcher Giraffid enters the battlefield with your choice of a vigilance "
 "counter or a reach counter on it."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając dowolny znacznik spośród czujności i "
+"Ten stwór wchodzi na pole bitwy mając dowolny znacznik spośród czujności i "
 "zasięgu."
 
 #: ../../IKO.rst:872
@@ -2694,7 +2694,7 @@ msgstr ""
 
 #: ../../IKO.rst:897
 msgid "When Honey Mammoth enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 4 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../IKO.rst:904
 msgid ""
@@ -2708,7 +2708,7 @@ msgid ""
 "When Hornbash Mentor enters the battlefield, put a trample counter on target "
 "non-Human creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik tratowania na "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik tratowania na "
 "wskazanym stworze bez typu Człowiek pod twoim władaniem."
 
 #: ../../IKO.rst:903
@@ -2743,7 +2743,7 @@ msgstr ""
 
 #: ../../IKO.rst:911
 msgid "Ivy Elemental enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../IKO.rst:920
 msgid ""
@@ -2757,7 +2757,7 @@ msgid ""
 "When Kogla, the Titan Ape enters the battlefield, it fights up to one target "
 "creature you don't control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, walczy on z co najwyżej jednym "
+"Kiedy ten stwór wejdzie na pole bitwy, walczy on z co najwyżej jednym "
 "wskazanym stworem poza twoim władaniem."
 
 #: ../../IKO.rst:917
@@ -2806,7 +2806,7 @@ msgid ""
 "battlefield tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../IKO.rst:936
 msgid ""
@@ -2832,7 +2832,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Ilekroć ten stwór mutuje, wyszykaj w twojej bibliotece kartę bazowego lądu, "
-"umieść je przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść je przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../IKO.rst:942
 msgid ""
@@ -3011,7 +3011,7 @@ msgid ""
 msgstr ""
 "–2: Kiedy rzucisz swój najbliższy czar stwora w tej turze, wyszukaj w twojej "
 "bibliotece kartę stwora o mniejszym skróconym koszcie many, umieść ją na "
-"polu walki, następnie przetasuj twoją bibliotekę."
+"polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../IKO.rst:1000
 msgid ""
@@ -3037,7 +3037,7 @@ msgid ""
 "do, it fights up to one target creature you don't control. (Each deals "
 "damage equal to its power to the other.)"
 msgstr ""
-"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Kiedy tak "
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Kiedy tak "
 "zrobisz, walczy ona z co najwyżej jednym wskazanym stworem poza twoim "
 "władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
@@ -3191,7 +3191,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Przywróć dowolną liczbę kart permanentów o różnych nazwach z twojego "
-"cmentarza na pole walki."
+"cmentarza na pole bitwy."
 
 #: ../../IKO.rst:1050
 msgid ""
@@ -3244,7 +3244,7 @@ msgid ""
 "Whenever General Kudro of Drannith or another Human enters the battlefield "
 "under your control, exile target card from an opponent's graveyard."
 msgstr ""
-"Ilekroć ten stwór lub inny Człowiek wejdzie na pole walki pod twoim "
+"Ilekroć ten stwór lub inny Człowiek wejdzie na pole bitwy pod twoim "
 "władaniem, wygnaj wskazaną kartę z cmentarza przeciwnika."
 
 #: ../../IKO.rst:1063
@@ -3289,7 +3289,7 @@ msgid ""
 "Exile Genesis Ultimatum."
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść dowolną liczbę "
-"kart permanentów spośród nich na polu walki, a pozostałe w twojej ręce. "
+"kart permanentów spośród nich na polu bitwy, a pozostałe w twojej ręce. "
 "Wygnaj niniejszy czar."
 
 #: ../../IKO.rst:1082
@@ -3321,7 +3321,7 @@ msgid ""
 "or into your hand."
 msgstr ""
 "Ilekroć ten stwór mutuje, wygnaj karty z wierzchu twojej biblioteki aż "
-"wygnasz kartę nielądowego permanentu. Umieść ową kartę na polu walki lub w "
+"wygnasz kartę nielądowego permanentu. Umieść ową kartę na polu bitwy lub w "
 "twojej ręce."
 
 #: ../../IKO.rst:1086
@@ -3362,7 +3362,7 @@ msgid ""
 msgstr ""
 "|mana_5|\\ |mana_g|\\ |mana_u|: Spójrz na pięć wierzchnich kart twojej "
 "biblioteki. Możesz umieścić kartę stwora bez typu Człowiek spośród nich na "
-"polu walki. Umieść pozostałe na spodzie twojej biblioteki w losowej "
+"polu bitwy. Umieść pozostałe na spodzie twojej biblioteki w losowej "
 "kolejności."
 
 #: ../../IKO.rst:1100
@@ -3470,7 +3470,7 @@ msgid ""
 "mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
 "Ilekroć ten stwór mutuje, przywróć wskazaną kartę stwora o skróconym koszcie "
-"many 3 lub mniejszym z twojego cmentarza na pole walki."
+"many 3 lub mniejszym z twojego cmentarza na pole bitwy."
 
 #: ../../IKO.rst:1128
 msgid ""
@@ -3500,7 +3500,7 @@ msgid ""
 "with total power 10 or less from your graveyard to the battlefield."
 msgstr ""
 "Ilekroć ten stwór mutuje, przywróć dowolną liczbę wskazanych kart stworów o "
-"łącznej sile 10 lub mniejszej z twojego cmentarza na pole walki."
+"łącznej sile 10 lub mniejszej z twojego cmentarza na pole bitwy."
 
 #: ../../IKO.rst:1132
 msgid ""
@@ -3515,9 +3515,9 @@ msgid ""
 "creature card from your graveyard. Create a token that's a copy of that "
 "card, except it's 1/1. It gains haste until your next turn."
 msgstr ""
-"Na początku walki w twojej turze, wygnaj wskazaną kartę czerwonego, białego "
-"lub czarnego stwora z twojego cmentarza. Stwórz żeton będący kopią owej "
-"karty, ale jest on 1/1. Do twojej następnej tury zyskuje on pośpiech."
+"Na początku potyczki w twojej turze, wygnaj wskazaną kartę czerwonego, "
+"białego lub czarnego stwora z twojego cmentarza. Stwórz żeton będący kopią "
+"owej karty, ale jest on 1/1. Do twojej następnej tury zyskuje on pośpiech."
 
 #: ../../IKO.rst:1138
 msgid ""
@@ -3543,8 +3543,8 @@ msgid ""
 "battlefield, put it into your hand."
 msgstr ""
 "|mana_1|, |tap|: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to "
-"karta lądu, możesz ją umieścić na polu walki. Jeśli nie umieścisz owej karty "
-"na polu walki, umieść ją w twojej ręce."
+"karta lądu, możesz ją umieścić na polu bitwy. Jeśli nie umieścisz owej karty "
+"na polu bitwy, umieść ją w twojej ręce."
 
 #: ../../IKO.rst:1142
 msgid ""
@@ -3560,7 +3560,7 @@ msgid ""
 "+1 counter on a creature you control."
 msgstr ""
 "Na początku twojego kroku utrzymania, dobierz kartę jeśli władasz stworem o "
-"największej sile spośród stworów na polu walki. W przeciwnym razie umieść "
+"największej sile spośród stworów na polu bitwy. W przeciwnym razie umieść "
 "znacznik +1/+1 na stworze pod twoim władaniem."
 
 #: ../../IKO.rst:1148
@@ -3881,7 +3881,7 @@ msgid ""
 msgstr ""
 "Ilekroć atakuje stwór bez typu Człowiek pod twoim władaniem, spójrz na sześć "
 "wierzchnich kart twojej biblioteki. Możesz umieścić spośród nich kartę "
-"stwora typu Człowiek na polu walki przekręconą i atakującą. Do końca tury "
+"stwora typu Człowiek na polu bitwy przekręconą i atakującą. Do końca tury "
 "zyskuje ona niezniszczalność. Umieść pozostałe karty na spodzie twojej "
 "biblioteki w losowej kolejności."
 
@@ -3949,7 +3949,7 @@ msgid ""
 msgstr ""
 "|mana_x|\\ |mana_bg|, |tap|, poświęć innego stwora: Wyszukaj w twojej "
 "bibliotece kartę stwora o skróconym koszcie many X lub mniejszym, umieść ją "
-"na polu walki, następnie przetasuj twoją bibliotekę. Aktywuj jako obrzęd."
+"na polu bitwy, następnie przetasuj twoją bibliotekę. Aktywuj jako obrzęd."
 
 #: ../../IKO.rst:1266
 msgid ""
@@ -3974,9 +3974,9 @@ msgid ""
 "creature card with an even converted mana cost from among the milled cards "
 "onto the battlefield under your control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy gracz mieli cztery karty. "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz mieli cztery karty. "
 "Umieść kartę stwora z parzystym skróconym kosztem many spośród zmielonych "
-"kart na polu walki pod twoim władaniem."
+"kart na polu bitwy pod twoim władaniem."
 
 #: ../../IKO.rst:1272
 msgid ""
@@ -4072,7 +4072,7 @@ msgid ""
 "When Keruga, the Macrosage enters the battlefield, draw a card for each "
 "other permanent you control with converted mana cost 3 or greater."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz kartę za każdy inny permanent "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę za każdy inny permanent "
 "pod twoim władaniem mający skrócony koszt many 3 lub większy."
 
 #: ../../IKO.rst:1300
@@ -4124,7 +4124,7 @@ msgid ""
 "target instant or sorcery spell you control. You may choose new targets for "
 "the copy."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został rzucony, skopiuj "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony, skopiuj "
 "wskazany czar sztuczki lub obrzędu pod twoim władaniem. Możesz wskazać nowe "
 "cele dla kopii."
 
@@ -4205,7 +4205,7 @@ msgstr ""
 
 #: ../../IKO.rst:1331
 msgid "As Umori, the Collector enters the battlefield, choose a card type."
-msgstr "Umieszczając tę kartę na polu walki wybierz typ karty."
+msgstr "Umieszczając tę kartę na polu bitwy wybierz typ karty."
 
 #: ../../IKO.rst:1333
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
@@ -4235,9 +4235,9 @@ msgid ""
 "permanents you own and control. Return those cards to the battlefield at the "
 "beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj dowolną liczbę innych "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj dowolną liczbę innych "
 "nielądowych permanentów pod twoim władaniem będących twoją własnością. "
-"Przywróć owe karty na pole walki na początku najbliższego kroku końcowego."
+"Przywróć owe karty na pole bitwy na początku najbliższego kroku końcowego."
 
 #: ../../IKO.rst:1350
 msgid ""
@@ -4283,10 +4283,10 @@ msgid ""
 "deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/"
 "+1. Put a counter of that kind on Crystalline Giant."
 msgstr ""
-"Na początku walki w twojej turze wybierz losowo rodzaj znacznika, jakiego "
+"Na początku potyczki w twojej turze wybierz losowo rodzaj znacznika, jakiego "
 "ten stwór jeszcze nie ma spośród latania, pierwszego ciosu, dotyku śmierci, "
-"antyklątwy, więzi życia, złowrogości, zasięgu, tratowania, czujności i +1/"
-"+1. Umieść znacznik owego rodzaju na tym stworze."
+"antyklątwy, więzi życia, złowrogości, zasięgu, tratowania, czujności i +1/+"
+"1. Umieść znacznik owego rodzaju na tym stworze."
 
 #: ../../IKO.rst:1360
 msgid ""
@@ -4322,7 +4322,7 @@ msgid ""
 "Whenever a creature you control leaves the battlefield, if it had counters "
 "on it, put those counters on The Ozolith."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem opuści pole walki, jeśli miał on na sobie "
+"Ilekroć stwór pod twoim władaniem opuści pole bitwy, jeśli miał on na sobie "
 "znaczniki, umieść owe znaczniki na niniejszym artefakcie."
 
 #: ../../IKO.rst:1371
@@ -4330,8 +4330,9 @@ msgid ""
 "At the beginning of combat on your turn, if The Ozolith has counters on it, "
 "you may move all counters from The Ozolith onto target creature."
 msgstr ""
-"Na początku walki w twojej turze, jeśli ten artefakt ma na sobie znaczniki, "
-"możesz przenieść wszystkie znaczniki z tego artefaktu na wskazanego stwora."
+"Na początku potyczki w twojej turze, jeśli ten artefakt ma na sobie "
+"znaczniki, możesz przenieść wszystkie znaczniki z tego artefaktu na "
+"wskazanego stwora."
 
 #: ../../IKO.rst:1378
 msgid ""
@@ -4364,7 +4365,7 @@ msgstr ""
 
 #: ../../IKO.rst:1387
 msgid "When Sleeper Dart enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../IKO.rst:1389
 msgid ""
@@ -4408,11 +4409,11 @@ msgstr ""
 
 #: ../../IKO.rst:1405
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1407
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1409
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4427,11 +4428,11 @@ msgstr ""
 
 #: ../../IKO.rst:1413
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1415
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1417
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -4465,11 +4466,11 @@ msgstr ""
 
 #: ../../IKO.rst:1427
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1429
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1431
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4488,7 +4489,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../IKO.rst:1444
 msgid ""
@@ -4503,7 +4504,7 @@ msgstr "(|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|.)"
 
 #: ../../IKO.rst:1441
 msgid "Indatha Triome enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1443 ../../IKO.rst:1459 ../../IKO.rst:1467 ../../IKO.rst:1483
 #: ../../IKO.rst:1531
@@ -4519,11 +4520,11 @@ msgstr ""
 
 #: ../../IKO.rst:1447
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1449
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1460
 msgid ""
@@ -4538,7 +4539,7 @@ msgstr "(|tap|: Weź |mana_g|, |mana_u|, or |mana_r|.)"
 
 #: ../../IKO.rst:1457
 msgid "Ketria Triome enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1468
 msgid ""
@@ -4553,7 +4554,7 @@ msgstr "(|tap|: Weź |mana_u|, |mana_r| lub |mana_w|.)"
 
 #: ../../IKO.rst:1465
 msgid "Raugrin Triome enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1476
 msgid ""
@@ -4564,11 +4565,11 @@ msgstr ""
 
 #: ../../IKO.rst:1471
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1473
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1475
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4587,7 +4588,7 @@ msgstr "(|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|.)"
 
 #: ../../IKO.rst:1481
 msgid "Savai Triome enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1492
 msgid ""
@@ -4598,11 +4599,11 @@ msgstr ""
 
 #: ../../IKO.rst:1487
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1489
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1491
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -4617,11 +4618,11 @@ msgstr ""
 
 #: ../../IKO.rst:1495
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1497
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1499
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -4636,11 +4637,11 @@ msgstr ""
 
 #: ../../IKO.rst:1503
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1505
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1507
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -4655,11 +4656,11 @@ msgstr ""
 
 #: ../../IKO.rst:1511
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1513
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1515
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4674,11 +4675,11 @@ msgstr ""
 
 #: ../../IKO.rst:1519
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1521
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../IKO.rst:1523
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -4697,7 +4698,7 @@ msgstr "(|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|.)"
 
 #: ../../IKO.rst:1529
 msgid "Zagoth Triome enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../IKO.rst:1536
 msgid ""

@@ -9,17 +9,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2020-03-02 23:18+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/dodatki/gnt/"
-"pl/>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gnt/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../../GNT.rst:5
 msgid ":mtgexp:`GNT` Game Night"
@@ -42,7 +41,7 @@ msgid ""
 "Knight creature tokens with vigilance equal to the number of opponents you "
 "attacked this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów białego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów białego stwora "
 "Rycerz 2/2 z czujnością, ilu przeciwników atakowałeś w tej turze."
 
 #: ../../GNT.rst:20
@@ -62,7 +61,7 @@ msgid ""
 "When Inspired Sphinx enters the battlefield, draw cards equal to the number "
 "of opponents you have."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz tyle kart, ilu masz "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz tyle kart, ilu masz "
 "przeciwników."
 
 #: ../../GNT.rst:19
@@ -90,8 +89,8 @@ msgid ""
 "from your graveyard to the battlefield, where X is the number of opponents "
 "you have."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć co najwyżej X wskazanych "
-"kart Zombi z twojego cmentarza na pole walki, gdzie X jest liczbą twoich "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć co najwyżej X wskazanych "
+"kart Zombi z twojego cmentarza na pole bitwy, gdzie X jest liczbą twoich "
 "przeciwników."
 
 #: ../../GNT.rst:32
@@ -106,7 +105,7 @@ msgid ""
 "When Goblin Goliath enters the battlefield, create a number of 1/1 red "
 "Goblin creature tokens equal to the number of opponents you have."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów czerwonego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów czerwonego stwora "
 "Goblin 1/1, ilu masz przeciwników."
 
 #: ../../GNT.rst:31
@@ -141,8 +140,8 @@ msgid ""
 "library for up to two basic land cards, puts them onto the battlefield, then "
 "shuffles their library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy gracz szuka w swojej bibliotece "
-"co najwyżej dwóch kart bazowych lądów, umieszcza je na polu walki, następnie "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz szuka w swojej bibliotece "
+"co najwyżej dwóch kart bazowych lądów, umieszcza je na polu bitwy, następnie "
 "tasuje swoją bibliotekę."
 
 #: ../../GNT.rst:44
@@ -250,7 +249,7 @@ msgid ""
 "When Inspiring Captain enters the battlefield, creatures you control get +1/"
 "+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1."
 
 #: ../../GNT.rst:82
@@ -287,7 +286,7 @@ msgid ""
 "When Subjugator Angel enters the battlefield, tap all creatures your "
 "opponents control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wszystkie stwory pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie stwory pod "
 "władaniem twoich przeciwników."
 
 #: ../../GNT.rst:98
@@ -303,7 +302,7 @@ msgid ""
 "graveyard to the battlefield tapped."
 msgstr ""
 "|mana_2|\\ |mana_u|, odrzuć dwie karty: Przywróć tę kartę z twojego "
-"cmentarza przekręconą na pole walki."
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../GNT.rst:102
 msgid ""
@@ -325,7 +324,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../GNT.rst:107
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../GNT.rst:109
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -391,7 +390,7 @@ msgid ""
 "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter "
 "artifact creature tokens with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
 "artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../GNT.rst:135
@@ -460,7 +459,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../GNT.rst:160
 msgid ""
@@ -501,7 +500,7 @@ msgid ""
 "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz dwa żetony czarnego stwora "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
 "Zombi 2/2."
 
 #: ../../GNT.rst:176
@@ -622,7 +621,7 @@ msgid ""
 "When Seismic Elemental enters the battlefield, creatures without flying "
 "can't block this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory bez latania nie mogą blokować "
+"Kiedy ten stwór wejdzie na pole bitwy, stwory bez latania nie mogą blokować "
 "w tej turze."
 
 #: ../../GNT.rst:214
@@ -637,7 +636,7 @@ msgid ""
 "When Siege-Gang Commander enters the battlefield, create three 1/1 red "
 "Goblin creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz trzy żetony czerwonego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony czerwonego stwora "
 "Goblin 1/1."
 
 #: ../../GNT.rst:213
@@ -775,7 +774,7 @@ msgid ""
 "scry 1, look at the top card of your library, then you may put that card on "
 "the bottom of your library.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy gracz może wróżyć 1. (By wróżyć "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może wróżyć 1. (By wróżyć "
 "1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz umieścić "
 "ową kartę na spodzie twojej biblioteki.)"
 
@@ -788,7 +787,7 @@ msgstr ""
 
 #: ../../GNT.rst:257
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../GNT.rst:259
 msgid "When Filigree Familiar dies, draw a card."
@@ -828,7 +827,7 @@ msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 

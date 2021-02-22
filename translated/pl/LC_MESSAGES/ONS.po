@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -655,8 +655,11 @@ msgid "Soldier creatures have vigilance."
 msgstr ""
 
 #: ../../ONS.rst:247
+#, fuzzy
 msgid "|mana_2|\\ |mana_w|: Create a 1/1 white Soldier creature token."
 msgstr ""
+"|mana_1|, |tap|, zapłać 1 życie: Umieść na polu bitwy żeton białego stwora "
+"Goat 0/1."
 
 #: ../../ONS.rst:252
 msgid ""
@@ -828,7 +831,7 @@ msgid ""
 "Whenever a creature is put into your graveyard from the battlefield, you may "
 "pay |mana_1|\\ |mana_w|. If you do, return that card to your hand."
 msgstr ""
-"Ilekroć jakiś stwór trafi do twojego cmentarza z pola walki, możesz zapłacić "
+"Ilekroć jakiś stwór trafi do twojego cmentarza z pola bitwy, możesz zapłacić "
 "|mana_1|\\ |mana_w|. Jeśli tak zrobisz, przywróć ową kartę do twojej ręki."
 
 #: ../../ONS.rst:320
@@ -1138,8 +1141,8 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the "
 "battlefield."
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
-"stwora znajdującego się na polu walki."
+"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
+"stwora znajdującego się na polu bitwy."
 
 #: ../../ONS.rst:430
 msgid ""
@@ -2712,8 +2715,8 @@ msgid ""
 "main phase. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_r|\\ |mana_r|: Odkręć wszystkie stwory pod twoim władaniem. "
-"Po tej fazie głównej jest dodatkowa faza walki, po której nastąpi dodatkowa "
-"faza główna. Aktywuj jako obrzęd."
+"Po tej fazie głównej jest dodatkowa faza potyczki, po której nastąpi "
+"dodatkowa faza główna. Aktywuj jako obrzęd."
 
 #: ../../ONS.rst:996
 msgid ""
@@ -3861,7 +3864,7 @@ msgid ""
 "battlefield tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu walki, następnie przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../ONS.rst:1402
 msgid ""
@@ -4545,7 +4548,7 @@ msgstr ""
 
 #: ../../ONS.rst:1637
 msgid "Barren Moor enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../ONS.rst:1639
 msgid "|tap|: Add |mana_b|."
@@ -4565,7 +4568,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Bagna lub Góry i umieść ją na polu walki. Następnie przetasuj twoją "
+"Bagna lub Góry i umieść ją na polu bitwy. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../ONS.rst:1652
@@ -4613,7 +4616,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Równiny lub Wyspy i umieść ją na polu walki. Następnie przetasuj twoją "
+"Równiny lub Wyspy i umieść ją na polu bitwy. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../ONS.rst:1670
@@ -4625,7 +4628,7 @@ msgstr ""
 
 #: ../../ONS.rst:1665
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../ONS.rst:1667
 msgid "|tap|: Add |mana_r|."
@@ -4672,7 +4675,7 @@ msgstr ""
 
 #: ../../ONS.rst:1687
 msgid "Lonely Sandbar enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../ONS.rst:1689
 msgid "|tap|: Add |mana_u|."
@@ -4691,7 +4694,7 @@ msgid ""
 "Island or Swamp card, put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Wyspy lub Bagien i umieść ją na polu walki. Następnie przetasuj twoją "
+"Wyspy lub Bagien i umieść ją na polu bitwy. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../ONS.rst:1702
@@ -4729,7 +4732,7 @@ msgstr ""
 
 #: ../../ONS.rst:1711
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../ONS.rst:1713
 msgid "|tap|: Add |mana_w|."
@@ -4763,7 +4766,7 @@ msgstr ""
 
 #: ../../ONS.rst:1727
 msgid "Tranquil Thicket enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki przekręcony."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../ONS.rst:1731
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
@@ -4796,7 +4799,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Równiny i umieść ją na polu walki. Następnie przetasuj twoją "
+"Lasu lub Równiny i umieść ją na polu bitwy. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../ONS.rst:1748
@@ -4824,7 +4827,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Góry lub Lasu i umieść ją na polu walki. Następnie przetasuj twoją "
+"Góry lub Lasu i umieść ją na polu bitwy. Następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../ONS.rst:1756

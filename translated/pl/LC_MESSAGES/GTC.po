@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gtc/pl/>\n"
 "Language: pl\n"
@@ -90,7 +90,7 @@ msgid ""
 "At the beginning of each combat, choose first strike, vigilance, or "
 "lifelink. Creatures you control gain that ability until end of turn."
 msgstr ""
-"Na początku każdej walki wybierz pierwszy cios, czujność lub więź życia. "
+"Na początku każdej potyczki wybierz pierwszy cios, czujność lub więź życia. "
 "Stwory pod twoim władaniem zyskują ową zdolność do końca tury."
 
 #: ../../GTC.rst:24
@@ -148,7 +148,7 @@ msgid ""
 "Artifacts and creatures your opponents control enter the battlefield tapped."
 msgstr ""
 "Artefakty i stwory pod władaniem twoich przeciwników wchodzą przekręcone na "
-"pole walki."
+"pole bitwy."
 
 #: ../../GTC.rst:40
 msgid ""
@@ -179,7 +179,7 @@ msgid ""
 "Whenever another white creature enters the battlefield under your control, "
 "tap target creature an opponent controls."
 msgstr ""
-"Ilekroć inny biały stwór wejdzie na pole walki pod twoim władaniem, przekręć "
+"Ilekroć inny biały stwór wejdzie na pole bitwy pod twoim władaniem, przekręć "
 "wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../GTC.rst:48
@@ -410,7 +410,7 @@ msgid ""
 "to one target creature that player controls and that player gains life equal "
 "to its power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, u każdego z przeciwników wygnaj co "
+"Kiedy ten stwór wejdzie na pole bitwy, u każdego z przeciwników wygnaj co "
 "najwyżej jednego stwora władanego przez owego gracza i ów gracz zyskuje tyle "
 "żyć, ile siły miał wygnany stwór."
 
@@ -510,7 +510,7 @@ msgid ""
 "When Urbis Protector enters the battlefield, create a 4/4 white Angel "
 "creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Anioł 4/4 "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Anioł 4/4 "
 "z lataniem."
 
 #: ../../GTC.rst:146
@@ -580,7 +580,7 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Ewoluuje (Ilekroć jakiś stwór wejdzie na pole walki pod twoim władaniem, "
+"Ewoluuje (Ilekroć jakiś stwór wejdzie na pole bitwy pod twoim władaniem, "
 "jeśli ów stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść "
 "znacznik +1/+1 na niniejszym stworze.)"
 
@@ -606,7 +606,7 @@ msgid ""
 "without paying its mana cost. If a spell cast this way would be put into a "
 "graveyard this turn, exile it instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, za każdego przeciwnika możesz rzucić "
+"Kiedy ten stwór wejdzie na pole bitwy, za każdego przeciwnika możesz rzucić "
 "co najwyżej jedną kartę sztuczki lub obrzędu z cmentarza owego gracza bez "
 "płacenia jej kosztu many. Jeśli czar rzucony w ten sposób miłby zostać "
 "umieszczony w cmentarzu w tej turze, zamiast tego wygnaj go."
@@ -730,7 +730,7 @@ msgid ""
 "When Keymaster Rogue enters the battlefield, return a creature you control "
 "to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć stwora pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
 "do ręki właściciela."
 
 #: ../../GTC.rst:210
@@ -812,7 +812,7 @@ msgstr ""
 # c10ab51da48c42bfbe695e48aa211a57
 #: ../../GTC.rst:233
 msgid "As Realmwright enters the battlefield, choose a basic land type."
-msgstr "Umieszczając tego stwora na polu walki wybierz typ zwykłego lądu."
+msgstr "Umieszczając tego stwora na polu bitwy wybierz typ zwykłego lądu."
 
 # 4b4c6732d3db49ae9355f696c9c8b6e9
 #: ../../GTC.rst:235
@@ -834,7 +834,7 @@ msgid ""
 "Whenever another blue creature enters the battlefield under your control, "
 "target player mills two cards."
 msgstr ""
-"Ilekroć inny niebieski stwór wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć inny niebieski stwór wejdzie na pole bitwy pod twoim władaniem, "
 "wskazany gracz mieli dwie karty."
 
 #: ../../GTC.rst:246
@@ -966,7 +966,7 @@ msgid ""
 "control at the beginning of the next end step."
 msgstr ""
 "Wygnaj wskazanego stwora. Na początku najbliższego kroku końcowego przywróć "
-"go na pole walki pod władaniem właściciela."
+"go na pole bitwy pod władaniem właściciela."
 
 #: ../../GTC.rst:298
 msgid ""
@@ -999,7 +999,7 @@ msgid ""
 "the top of their library until they reveal a land card, then puts those "
 "cards into their graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz ujawnia karty z "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz ujawnia karty z "
 "wierzchu swojej biblioteki, aż ujawni kartę lądu, następnie umieszcza owe "
 "karty w swoim cmentarzu."
 
@@ -1201,7 +1201,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj siedem wierzchnich "
 "kart biblioteki owego gracza, następnie wybierz spośród nich kartę stwora i "
-"umieść ją na polu walki pod twoim władaniem."
+"umieść ją na polu bitwy pod twoim władaniem."
 
 #: ../../GTC.rst:384
 msgid ""
@@ -1272,8 +1272,8 @@ msgid ""
 "may put up to one target creature card from that player's graveyard onto the "
 "battlefield under your control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, za każdego z przeciwników możesz "
-"umieścić na polu walki pod twoim władaniem co najwyżej jedną wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, za każdego z przeciwników możesz "
+"umieścić na polu bitwy pod twoim władaniem co najwyżej jedną wskazaną kartę "
 "stwora z cmentarza owego gracza."
 
 #: ../../GTC.rst:406
@@ -1290,7 +1290,7 @@ msgid ""
 "target creature gains intimidate until end of turn. (It can't be blocked "
 "except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
-"Ilekroć inny czarny stwór wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć inny czarny stwór wejdzie na pole bitwy pod twoim władaniem, "
 "wskazany stwór zyskuje zastraszenie do końca tury. (Może być blokowany tylko "
 "przez stwory artefaktowe lub współdzielące z nim kolor.)"
 
@@ -1531,7 +1531,7 @@ msgid ""
 "Whenever another red creature enters the battlefield under your control, "
 "Foundry Street Denizen gets +1/+0 until end of turn."
 msgstr ""
-"Ilekroć inny czerwony stwór wejdzie na pole walki pod twoim władaniem, ten "
+"Ilekroć inny czerwony stwór wejdzie na pole bitwy pod twoim władaniem, ten "
 "stwór dostaje do końca tury +1/+0."
 
 #: ../../GTC.rst:484
@@ -1689,7 +1689,7 @@ msgid ""
 "control of up to one target creature that player controls until end of turn. "
 "Untap those creatures. They gain haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, za każdego z przeciwników zyskaj do "
+"Kiedy ten stwór wejdzie na pole bitwy, za każdego z przeciwników zyskaj do "
 "końca tury władanie nad co najwyżej jednym wskazanym stworem pod władaniem "
 "owego gracza. Odkręć owe stwory. Zyskują one pośpiech do końca tury."
 
@@ -2050,7 +2050,7 @@ msgid ""
 "Whenever another green creature enters the battlefield under your control, "
 "put a +1/+1 counter on target creature."
 msgstr ""
-"Ilekroć inny zielony stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"Ilekroć inny zielony stwór wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na wskazanym stworze."
 
 #: ../../GTC.rst:646
@@ -2228,10 +2228,10 @@ msgid ""
 "destroyed this way, search your library for a Forest card and put that card "
 "onto the battlefield tapped. Then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, za każdego z przeciwników, zniszcz "
+"Kiedy ten stwór wejdzie na pole bitwy, za każdego z przeciwników, zniszcz "
 "wskazany permanent nie będący stworem pod włądaniem owego gracza. Za każdy "
 "permanent zniszczony w ten sposób, wyszukaj w twojej bibliotece kartę Lasu i "
-"umieść ją przekręconą na polu walki. Następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../GTC.rst:694
 msgid ""
@@ -2255,7 +2255,7 @@ msgstr ""
 # fcc6ddb6342e4e25bb97ae8cb14f2751
 #: ../../GTC.rst:699
 msgid "When Verdant Haven enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten urok wejdzie na pole walki, zyskaj 2 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 2 życia."
 
 # 6a881fe9c11c486eb540515f0fd7ac8c
 #: ../../GTC.rst:701
@@ -2344,7 +2344,7 @@ msgid ""
 "phase."
 msgstr ""
 "Ilekroć ten stwór zaatakuje po raz pierwszy w danej turze, odkręć wszystkie "
-"stwory pod twoim władaniem. Po tej fazie następuje dodatkowa faza walki."
+"stwory pod twoim władaniem. Po tej fazie następuje dodatkowa faza potyczki."
 
 #: ../../GTC.rst:730
 msgid ""
@@ -2549,7 +2549,7 @@ msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton biało-czarnego stwora Kleryk 1/1 "
 "mającego \"|mana_3|\\ |mana_w|\\ |mana_b|\\ |mana_b|, |tap|, poświęć tego "
 "stwora: Przywróć kartę o nazwie Deathpact Angel z twojego cmentarza na pole "
-"walki.\""
+"bitwy.\""
 
 #: ../../GTC.rst:802
 msgid ""
@@ -2589,7 +2589,7 @@ msgid ""
 "When Dinrova Horror enters the battlefield, return target permanent to its "
 "owner's hand, then that player discards a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany permanent do ręki "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
 "właściciela, następnie ów gracz odrzuca kartę."
 
 #: ../../GTC.rst:814
@@ -2756,7 +2756,7 @@ msgid ""
 "When Foundry Champion enters the battlefield, it deals damage to any target "
 "equal to the number of creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu celowi obrażenia "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi obrażenia "
 "równe liczbie stworów pod twoim władaniem."
 
 # ea9f515a109740d1a8d2be7d88613854
@@ -2783,7 +2783,7 @@ msgid ""
 "card onto the battlefield tapped. Then shuffle your library."
 msgstr ""
 "Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu i "
-"umieść ją przekręconą na polu walki. Następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../GTC.rst:876
 msgid ""
@@ -2848,7 +2848,7 @@ msgid ""
 "Whenever Gruul Ragebeast or another creature enters the battlefield under "
 "your control, that creature fights target creature an opponent controls."
 msgstr ""
-"Ilekroć ten lub inny stwór wejdzie na pole walki pod twoim władaniem, ów "
+"Ilekroć ten lub inny stwór wejdzie na pole bitwy pod twoim władaniem, ów "
 "stwór walczy ze wskazanym stworem pod władaniem przeciwnika."
 
 #: ../../GTC.rst:898
@@ -2946,7 +2946,7 @@ msgid ""
 "additional +1/+1 counters on it equal to Master Biomancer's power and as a "
 "Mutant in addition to its other types."
 msgstr ""
-"Każdy inny stwór pod twoim władaniem wchodzi na pole walki mając tyle "
+"Każdy inny stwór pod twoim władaniem wchodzi na pole bitwy mając tyle "
 "dodatkowych znaczników +1/+1, ile wynosi siła niniejszego stwora oraz jest "
 "dodatkowo typu Mutant oprócz swoich pozostałych typów."
 
@@ -3030,7 +3030,7 @@ msgstr ""
 # f6d2a486eb2a4784985a2210b46e78f5
 #: ../../GTC.rst:953
 msgid "Nimbus Swimmer enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../GTC.rst:960
 msgid ""
@@ -3045,7 +3045,7 @@ msgid ""
 "When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 "
 "life and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik traci 2 życia, a "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia, a "
 "ty zyskaj 2 życia."
 
 # 218d1d9a594d4575b2b037924e7b4149
@@ -3056,7 +3056,7 @@ msgid ""
 "next upkeep. It gains haste."
 msgstr ""
 "Na początku twojego kroku końcowego możesz wygnać tego stwora. Jeśli tak "
-"zrobisz, przywróć go na pole walki pod władaniem właściciela na początku "
+"zrobisz, przywróć go na pole bitwy pod władaniem właściciela na początku "
 "twojego najbliższego kroku utrzymania. Zyskuje on pośpiech."
 
 #: ../../GTC.rst:968
@@ -3131,7 +3131,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Przywróć wskazaną kartę stwora o skróconym koszcie many 1 lub mniejszym z "
-"twojego cmentarza na pole walki."
+"twojego cmentarza na pole bitwy."
 
 #: ../../GTC.rst:988
 msgid ""
@@ -3170,7 +3170,7 @@ msgid ""
 "Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, "
 "where X is the greatest power among other creatures you control."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając X znaczników +1/+1, gdzie X to "
+"Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X to "
 "najwyższa siła spośród stworów pod twoim władaniem."
 
 # 94f11b29f4294d318b1cd1ea0211bf3a
@@ -3179,7 +3179,7 @@ msgid ""
 "When Prime Speaker Zegana enters the battlefield, draw cards equal to its "
 "power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz tyle kart, ile wynosi jego "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz tyle kart, ile wynosi jego "
 "siła."
 
 #: ../../GTC.rst:1004
@@ -3440,7 +3440,7 @@ msgid ""
 msgstr ""
 "Przetasuj twoją bibliotekę i ujawnij jej wierzchnią kartę. Jeśli to nie-"
 "lądowa karta, możesz ją rzucić bez płacenia jej kosztu many. Jeśli to karta "
-"lądu, możesz umieścić ją na polu walki i zwrócić niniejszy czar do ręki "
+"lądu, możesz umieścić ją na polu bitwy i zwrócić niniejszy czar do ręki "
 "właściciela."
 
 #: ../../GTC.rst:1090
@@ -3469,7 +3469,7 @@ msgid ""
 "Target opponent reveals that many cards from their hand. You choose one of "
 "them and exile it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zapłać dowolną liczbę żyć. Wskazany "
+"Kiedy ten stwór wejdzie na pole bitwy, zapłać dowolną liczbę żyć. Wskazany "
 "gracz ujawnia tyle samo kart ze swojej ręki. Wybierz jedną z nich i wygnaj "
 "ją."
 
@@ -3544,7 +3544,7 @@ msgid ""
 "battlefield with an additional +1/+1 counter on it."
 msgstr ""
 "|mana_g|\\ |mana_u|: W tej turze każdy stwór pod twoim władaniem wchodzi na "
-"pole walki mając dodatkowy znacznik +1/+1."
+"pole bitwy mając dodatkowy znacznik +1/+1."
 
 # 0f24e60ab55f4eb5a24fc04bc30a6ad2
 #: ../../GTC.rst:1117
@@ -3663,7 +3663,7 @@ msgstr ""
 #: ../../GTC.rst:1147
 msgid ""
 "When Burning-Tree Emissary enters the battlefield, add |mana_r|\\ |mana_g|."
-msgstr "Kiedy ten stwór wejdzie na pole walki, weź |mana_r|\\ |mana_g|."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, weź |mana_r|\\ |mana_g|."
 
 #: ../../GTC.rst:1152
 msgid ""
@@ -3719,7 +3719,7 @@ msgid ""
 "the battlefield."
 msgstr ""
 "Zwróć każdą kartę stwora o skróconym koszcie many X z twojego cmentarza na "
-"pole walki."
+"pole bitwy."
 
 #: ../../GTC.rst:1170
 msgid ""
@@ -3967,7 +3967,7 @@ msgstr ""
 # 178504c1a45242178270a1f52daf207e
 #: ../../GTC.rst:1237
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 # 3133e8ee159b4d3baf96351c170914f4
 #: ../../GTC.rst:1239
@@ -4069,7 +4069,7 @@ msgstr ""
 # a303781413a341c487e1f8d439eb00a4
 #: ../../GTC.rst:1265
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1274
 msgid ""
@@ -4089,8 +4089,8 @@ msgid ""
 "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1280
 msgid ""
@@ -4102,7 +4102,7 @@ msgstr ""
 # 6ea92957886b4a7ca5445808e11fee79
 #: ../../GTC.rst:1277
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1286
 msgid ""
@@ -4122,8 +4122,8 @@ msgid ""
 "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1292
 msgid ""
@@ -4135,7 +4135,7 @@ msgstr ""
 # 88cffb06b8304954940c9c632c3255ae
 #: ../../GTC.rst:1289
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1298
 msgid ""
@@ -4147,7 +4147,7 @@ msgstr ""
 # 3f6fecbfa1b4498593f72dbda57c3f62
 #: ../../GTC.rst:1295
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1304
 msgid ""
@@ -4167,8 +4167,8 @@ msgid ""
 "As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1310
 msgid ""
@@ -4180,7 +4180,7 @@ msgstr ""
 # d16c0d2b846b4f19a211e019b386d356
 #: ../../GTC.rst:1307
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1316
 msgid ""
@@ -4200,8 +4200,8 @@ msgid ""
 "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../GTC.rst:1322
 msgid ""
@@ -4241,8 +4241,8 @@ msgid ""
 "As Watery Grave enters the battlefield, you may pay 2 life. If you don't, it "
 "enters the battlefield tapped."
 msgstr ""
-"Umieszczając ten ląd na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi on przekręcony na pole walki."
+"Umieszczając ten ląd na polu bitwy możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi on przekręcony na pole bitwy."
 
 # b5091ae1dfd04bc5b06911dea7d4a325
 #~ msgid ""

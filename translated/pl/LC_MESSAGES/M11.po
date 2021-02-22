@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m11/pl/>\n"
 "Language: pl\n"
@@ -294,7 +294,7 @@ msgid ""
 "it on the battlefield."
 msgstr ""
 "Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
-"na polu walki."
+"na polu bitwy."
 
 #: ../../M11.rst:109
 msgid ""
@@ -487,7 +487,7 @@ msgstr ""
 
 #: ../../M11.rst:179
 msgid "When Tireless Missionaries enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../M11.rst:186
 msgid ""
@@ -634,8 +634,8 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the "
 "battlefield."
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
-"stwora znajdującego się na polu walki."
+"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
+"stwora znajdującego się na polu bitwy."
 
 #: ../../M11.rst:246
 msgid ""
@@ -815,7 +815,7 @@ msgid ""
 "with it on the battlefield."
 msgstr ""
 "Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
-"na polu walki."
+"na polu bitwy."
 
 #: ../../M11.rst:305
 msgid "You may cast spells as though they had flash."
@@ -1298,7 +1298,7 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M11.rst:480
@@ -1325,7 +1325,7 @@ msgstr ""
 
 #: ../../M11.rst:485
 msgid "When Howling Banshee enters the battlefield, each player loses 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz traci po 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz traci po 3 życia."
 
 #: ../../M11.rst:492
 msgid ""
@@ -1340,7 +1340,7 @@ msgid ""
 "it on the battlefield."
 msgstr ""
 "Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
-"na polu walki."
+"na polu bitwy."
 
 #: ../../M11.rst:491
 msgid ""
@@ -1374,7 +1374,7 @@ msgid ""
 "−8: Put all creature cards from all graveyards onto the battlefield under "
 "your control."
 msgstr ""
-"−8: Umieść wszystkie karty stworów ze wszystkich cmentarzy na polu walki pod "
+"−8: Umieść wszystkie karty stworów ze wszystkich cmentarzy na polu bitwy pod "
 "twoim władaniem."
 
 #: ../../M11.rst:504
@@ -1476,7 +1476,7 @@ msgid ""
 "As Phylactery Lich enters the battlefield, put a phylactery counter on an "
 "artifact you control."
 msgstr ""
-"Umieszczając tę kartę na polu walki umieść znacznik filakterium na "
+"Umieszczając tę kartę na polu bitwy umieść znacznik filakterium na "
 "artefakcie pod twoim władaniem."
 
 #: ../../M11.rst:543
@@ -1510,7 +1510,7 @@ msgid ""
 "|mana_1|\\ |mana_b|: Return Reassembling Skeleton from your graveyard to the "
 "battlefield tapped."
 msgstr ""
-"|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole walki, "
+"|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy, "
 "przekręconą."
 
 #: ../../M11.rst:560
@@ -1543,7 +1543,7 @@ msgid ""
 "control. That creature is a black Zombie in addition to its other colors and "
 "types."
 msgstr ""
-"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
 "władaniem. Ów stwór jest dodatkowo czarnym Zombi oprócz swoich pozostałych "
 "kolorów i typów."
 
@@ -1938,7 +1938,7 @@ msgid ""
 "When Hoarding Dragon enters the battlefield, you may search your library for "
 "an artifact card, exile it, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu, wygnaj ją, następnie przetasuj twoją bibliotekę."
 
 #: ../../M11.rst:707
@@ -2183,7 +2183,7 @@ msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany artefakt, urok albo "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt, urok albo "
 "ląd."
 
 #: ../../M11.rst:798
@@ -2212,7 +2212,7 @@ msgid ""
 "green Treefolk creature for as long as Awakener Druid remains on the "
 "battlefield. It's still a land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, do czasu aż opuści on pole walki, "
+"Kiedy ten stwór wejdzie na pole bitwy, do czasu aż opuści on pole bitwy, "
 "wskazany Las staje się zielonym stworem Drzewiec 4/5, ale nadal jest lądem."
 
 #: ../../M11.rst:806
@@ -2276,7 +2276,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu walki, a drugą w twojej ręce. Następnie przetasuj "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../M11.rst:830
@@ -2405,7 +2405,7 @@ msgid ""
 "Whenever another creature with power 3 or greater enters the battlefield "
 "under your control, you may draw a card."
 msgstr ""
-"Ilekroć inny stwór o sile 3 lub większej wejdzie na pole walki pod twoim "
+"Ilekroć inny stwór o sile 3 lub większej wejdzie na pole bitwy pod twoim "
 "władaniem, możesz dobrać kartę."
 
 #: ../../M11.rst:876
@@ -2626,7 +2626,7 @@ msgstr ""
 
 #: ../../M11.rst:951
 msgid "Protean Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../M11.rst:953
 msgid ""
@@ -2681,7 +2681,7 @@ msgid ""
 "When Sylvan Ranger enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -2991,7 +2991,7 @@ msgid ""
 "Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
 "or a Mountain."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Bagnem lub Górą."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Bagnem lub Górą."
 
 #: ../../M11.rst:1091
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -3009,7 +3009,7 @@ msgid ""
 "Drowned Catacomb enters the battlefield tapped unless you control an Island "
 "or a Swamp."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Wyspą lub Bagnem."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Wyspą lub Bagnem."
 
 #: ../../M11.rst:1097
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3027,7 +3027,7 @@ msgid ""
 "Glacial Fortress enters the battlefield tapped unless you control a Plains "
 "or an Island."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Równiną lub "
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Równiną lub "
 "Wyspą."
 
 #: ../../M11.rst:1103
@@ -3064,7 +3064,7 @@ msgid ""
 "Rootbound Crag enters the battlefield tapped unless you control a Mountain "
 "or a Forest."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Górą lub Lasem."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Górą lub Lasem."
 
 #: ../../M11.rst:1115
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3082,7 +3082,7 @@ msgid ""
 "Sunpetal Grove enters the battlefield tapped unless you control a Forest or "
 "a Plains."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz Lasem lub "
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Lasem lub "
 "Równiną."
 
 #: ../../M11.rst:1121
@@ -3102,7 +3102,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../M11.rst:1130
 msgid ""

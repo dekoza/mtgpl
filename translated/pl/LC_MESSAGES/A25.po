@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -111,7 +111,7 @@ msgid ""
 "When Auramancer enters the battlefield, you may return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "uroku z twojego cmentarza do twojej ręki."
 
 #: ../../A25.rst:38
@@ -127,7 +127,7 @@ msgid ""
 "under your control."
 msgstr ""
 "Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole walki pod twoim władaniem."
+"na pole bitwy pod twoim władaniem."
 
 #: ../../A25.rst:42
 msgid ""
@@ -138,7 +138,7 @@ msgstr ""
 
 #: ../../A25.rst:41
 msgid "Target player gains 2 life for each creature on the battlefield."
-msgstr "Wskazany gracz zyskuje po 2 życia za każdego stwora na polu walki."
+msgstr "Wskazany gracz zyskuje po 2 życia za każdego stwora na polu bitwy."
 
 #: ../../A25.rst:46
 msgid ""
@@ -228,14 +228,14 @@ msgid ""
 "When Fiend Hunter enters the battlefield, you may exile another target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki możesz wygnać innego wskazanego stwora."
+"Kiedy ten stwór wejdzie na pole bitwy możesz wygnać innego wskazanego stwora."
 
 #: ../../A25.rst:71
 msgid ""
 "When Fiend Hunter leaves the battlefield, return the exiled card to the "
 "battlefield under its owner's control."
 msgstr ""
-"Kiedy ten stwór opuści pole walki, przywróć wygnaną kartę na pole walki pod "
+"Kiedy ten stwór opuści pole bitwy, przywróć wygnaną kartę na pole bitwy pod "
 "władaniem jej właściciela."
 
 #: ../../A25.rst:76
@@ -282,7 +282,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, Griffin "
 "Protector gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, niniejszy "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
 "stwór dostaje do końca tury +1/+1."
 
 #: ../../A25.rst:94
@@ -418,7 +418,7 @@ msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Plains card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
+"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, następnie przetasować twoją bibliotekę."
 
@@ -522,7 +522,7 @@ msgid ""
 "When Rest in Peace enters the battlefield, exile all cards from all "
 "graveyards."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wygnaj wszystkie karty ze wszystkich "
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wszystkie karty ze wszystkich "
 "cmentarzy."
 
 #: ../../A25.rst:169
@@ -593,7 +593,7 @@ msgid ""
 "When Urbis Protector enters the battlefield, create a 4/4 white Angel "
 "creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Anioł 4/4 "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Anioł 4/4 "
 "z lataniem."
 
 #: ../../A25.rst:198
@@ -608,7 +608,7 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, creatures you "
 "control get +1/+1 until end of turn."
 msgstr ""
-"Ilekroć stwór wejdzie na pole walki pod twoim władaniem, stwory pod twoim "
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, stwory pod twoim "
 "władaniem dostają do końca tury +1/+1."
 
 #: ../../A25.rst:204
@@ -1027,7 +1027,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_u|, |tap|, poświęć innego stwora: Ujawniaj karty z wierzchu "
 "twojej biblioteki aż ujawnisz kartę nielegendarnego stwora. Umieść ową kartę "
-"na polu walki, a pozostałe losowo na spodzie twojej biblioteki."
+"na polu bitwy, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../A25.rst:346
 msgid ""
@@ -1041,7 +1041,7 @@ msgid ""
 "When Man-o'-War enters the battlefield, return target creature to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora do ręki "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora do ręki "
 "właściciela."
 
 #: ../../A25.rst:350
@@ -1267,7 +1267,7 @@ msgid ""
 "When Bloodhunter Bat enters the battlefield, target player loses 2 life and "
 "you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz traci 2 życia, a ty "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz traci 2 życia, a ty "
 "zyskaj 2 życia."
 
 #: ../../A25.rst:436
@@ -1401,7 +1401,7 @@ msgstr ""
 msgid ""
 "When Dusk Legion Zealot enters the battlefield, you draw a card and you lose "
 "1 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../A25.rst:480
 msgid ""
@@ -1618,7 +1618,7 @@ msgid ""
 "When Ravenous Chupacabra enters the battlefield, destroy target creature an "
 "opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego stwora pod "
 "władaniem przeciwnika."
 
 #: ../../A25.rst:558
@@ -1713,7 +1713,7 @@ msgid ""
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
 "Do końca tury wskazany stwór dostaje +2/+0 oraz \"Kiedy ten stwór umrze, "
-"przywróć go przekręconego na pole walki pod władaniem właściciela.\""
+"przywróć go przekręconego na pole bitwy pod władaniem właściciela.\""
 
 #: ../../A25.rst:590
 msgid ""
@@ -1785,7 +1785,7 @@ msgid ""
 "graveyard to the battlefield."
 msgstr ""
 "Przywróć wskazaną kartę stwora o skróconym koszcie many 3 lub mniejszym z "
-"twojego cmentarza na pole walki."
+"twojego cmentarza na pole bitwy."
 
 #: ../../A25.rst:607 ../../A25.rst:933
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
@@ -1835,7 +1835,7 @@ msgstr ""
 
 #: ../../A25.rst:621
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../A25.rst:626
 msgid ""
@@ -2044,7 +2044,7 @@ msgid ""
 "that creature. It gains haste until end of turn. (It can attack and |tap| "
 "this turn.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj do końca tury władanie nad "
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
 "wskazanym stworem o sile 2 lub mniejszej pod władaniem przeciwnika. Odkręć "
 "owego stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w "
 "tej turze.)"
@@ -2489,7 +2489,7 @@ msgid ""
 "When Ambassador Oak enters the battlefield, create a 1/1 green Elf Warrior "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora Elf "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Elf "
 "Wojownik 1/1."
 
 #: ../../A25.rst:830
@@ -2573,7 +2573,7 @@ msgstr "Możesz zagrywać lądy z wierzchu twojej biblioteki."
 #: ../../A25.rst:855
 msgid ""
 "Whenever a land enters the battlefield under your control, you gain 1 life."
-msgstr "Ilekroć ląd wejdzie na pole walki pod twoim władaniem, zyskaj 1 życie."
+msgstr "Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../A25.rst:860
 msgid ""
@@ -2589,7 +2589,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu walki, a drugą w twojej ręce. Następnie przetasuj "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../A25.rst:864
@@ -2622,7 +2622,7 @@ msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Forest card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole walki, możesz przeszukać twoją "
+"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, następnie przetasować twoją bibliotekę."
 
@@ -2638,7 +2638,7 @@ msgid ""
 "|mana_g|, |tap|: You may put a creature card from your hand onto the "
 "battlefield."
 msgstr ""
-"|mana_g|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu walki."
+"|mana_g|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu bitwy."
 
 #: ../../A25.rst:880
 msgid ""
@@ -2687,7 +2687,7 @@ msgid ""
 "creature card with converted mana cost 6 or greater, reveal it, put it into "
 "your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skróconym koszcie many 6 lub większym, ujawnij ją, umieść w "
 "twojej ręce, następnie przetasuj twoją bibliotekę."
 
@@ -2911,7 +2911,7 @@ msgid ""
 "When Rancor is put into a graveyard from the battlefield, return Rancor to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten urok jest umieszczany w cmentarzu z pola walki, przywróć go do "
+"Kiedy ten urok jest umieszczany w cmentarzu z pola bitwy, przywróć go do "
 "ręki właściciela."
 
 #: ../../A25.rst:972
@@ -3085,7 +3085,7 @@ msgid ""
 "When Baloth Null enters the battlefield, return up to two target creature "
 "cards from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć o najwyżej dwie wskazane "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć o najwyżej dwie wskazane "
 "karty stworów z twojego cmentarza do twojej ręki."
 
 #: ../../A25.rst:1028
@@ -3148,7 +3148,7 @@ msgstr ""
 msgid ""
 "When Cloudblazer enters the battlefield, you gain 2 life and draw two cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia i dobierz dwie karty."
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia i dobierz dwie karty."
 
 #: ../../A25.rst:1054
 msgid ""
@@ -3578,7 +3578,7 @@ msgstr ""
 
 #: ../../A25.rst:1207
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../A25.rst:1209
 msgid "|mana_1|, |tap|: Add one mana of any color."
@@ -3618,7 +3618,7 @@ msgid ""
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora typu Składacz, ujawnij ją, umieść ją w twojej ręce, następnie "
 "przetasuj twoją bibliotekę."
 
@@ -3711,7 +3711,7 @@ msgid ""
 "library.)"
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj  w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../A25.rst:1252
 msgid ""

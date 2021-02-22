@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -266,9 +266,9 @@ msgid ""
 "controls more lands than you, you may search your library for a Plains card, "
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli przeciwnik ma we władaniu "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
 "więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../ALA.rst:96
 msgid ""
@@ -1102,7 +1102,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz poświęca stwora."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../ALA.rst:394
 msgid ""
@@ -1291,8 +1291,8 @@ msgid ""
 "creatures. This creature enters the battlefield with twice that many +1/+1 "
 "counters on it.)"
 msgstr ""
-"Pożarcie 2 (Umieszczając tego stwora na polu walki możesz poświęcić dowolną "
-"liczbę stworów. Ten stwór wchodzi na pole walki mając dwukrotnie tyle "
+"Pożarcie 2 (Umieszczając tego stwora na polu bitwy możesz poświęcić dowolną "
+"liczbę stworów. Ten stwór wchodzi na pole bitwy mając dwukrotnie tyle "
 "znaczników +1/+1.)"
 
 #: ../../ALA.rst:461
@@ -1320,8 +1320,8 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Odkopanie |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Przywróć tę kartę z "
-"twojego cmentarza na pole walki. Zyskuje ona pośpiech. Wygnaj ją na początku "
-"najbliższego kroku końcowego lub gdyby miała opuścić pole walki. Aktywuj "
+"twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
+"najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "jako obrzęd.)"
 
 #: ../../ALA.rst:476
@@ -1774,10 +1774,13 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:635
+#, fuzzy
 msgid ""
 "Whenever a creature with power 5 or greater enters the battlefield under "
 "your control, you may have Where Ancients Tread deal 5 damage to any target."
 msgstr ""
+"Lądowanie — Ilekroć ląd wchodzi na pole bitwy pod twoim władaniem, możesz "
+"położyć na polu bitwy żeton zielonego stwora Bestia 4/4."
 
 #: ../../ALA.rst:642
 msgid ""
@@ -1871,7 +1874,7 @@ msgstr ""
 
 #: ../../ALA.rst:673
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ALA.rst:680
 msgid ""
@@ -1882,7 +1885,7 @@ msgstr ""
 
 #: ../../ALA.rst:677
 msgid "Feral Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../ALA.rst:679
 msgid ""
@@ -3138,7 +3141,7 @@ msgstr ""
 
 #: ../../ALA.rst:1173
 msgid "Crumbling Necropolis enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ALA.rst:1182
 msgid ""
@@ -3191,7 +3194,7 @@ msgstr ""
 
 #: ../../ALA.rst:1197
 msgid "Jungle Shrine enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ALA.rst:1206
 msgid ""

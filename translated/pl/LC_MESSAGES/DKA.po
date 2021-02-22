@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -318,7 +318,7 @@ msgstr ""
 # ddcfcbeed6f046209da24e422b733d2b
 #: ../../DKA.rst:87
 msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
-msgstr "Ilekroć inny stwór wejdzie na pole walki, odkręć tego stwora."
+msgstr "Ilekroć inny stwór wejdzie na pole bitwy, odkręć tego stwora."
 
 #: ../../DKA.rst:94
 msgid ""
@@ -647,7 +647,7 @@ msgid ""
 "controls. That creature doesn't untap during its controller's untap step for "
 "as long as you control Dungeon Geists."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręca się w kroku odkręcania swojego "
 "władcy dopóki władasz niniejszym stworem."
 
@@ -666,7 +666,7 @@ msgstr ""
 msgid ""
 "When Geralf's Mindcrusher enters the battlefield, target player mills five "
 "cards."
-msgstr "Ilekroć inny stwór wejdzie na pole walki, odkręć tego stwora."
+msgstr "Ilekroć inny stwór wejdzie na pole bitwy, odkręć tego stwora."
 
 # 8e03ba834d904d708fea93b998a03e14
 # 3eac7452db5b4489b67f789376476917
@@ -688,7 +688,7 @@ msgid ""
 "it to the battlefield under its owner's control with a +1/+1 counter on it.)"
 msgstr ""
 "Bezśmierć (Kiedy ten stwór umrze, jeśli nie miał znaczników +1/+1, przywróć "
-"go na pole walki ze znacznikiem +1/+1 pod władaniem właściciela.)"
+"go na pole bitwy ze znacznikiem +1/+1 pod władaniem właściciela.)"
 
 #: ../../DKA.rst:212
 msgid ""
@@ -838,7 +838,7 @@ msgstr ""
 # b2c4618ab86b47e8a5c73aa49a2e9ea1
 #: ../../DKA.rst:261
 msgid "When Screeching Skaab enters the battlefield, mill two cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
 
 #: ../../DKA.rst:266
 msgid ""
@@ -931,7 +931,7 @@ msgid ""
 "When Tower Geist enters the battlefield, look at the top two cards of your "
 "library. Put one of them into your hand and the other into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na dwie wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na dwie wierzchnie karty "
 "twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą w twoim "
 "cmentarzu."
 
@@ -1212,9 +1212,9 @@ msgid ""
 "creature with undying dies, if it had no +1/+1 counters on it, return it to "
 "the battlefield under its owner's control with a +1/+1 counter on it.)"
 msgstr ""
-"Inne stwory pod twoim władaniem nie będące typu Człowiek mają bezśmierć. "
-"(Kiedy stwór z bezśmiercią umrze, jeśli nie miał znaczników +1/+1, przywróć "
-"go na pole walki ze znacznikiem +1/+1 pod władaniem właściciela.)"
+"Inne stwory pod twoim władaniem nie będące typu Człowiek mają bezśmierć. ("
+"Kiedy stwór z bezśmiercią umrze, jeśli nie miał znaczników +1/+1, przywróć "
+"go na pole bitwy ze znacznikiem +1/+1 pod władaniem właściciela.)"
 
 #: ../../DKA.rst:406
 msgid ""
@@ -1341,7 +1341,7 @@ msgid ""
 "with a +1/+1 counter on it.)"
 msgstr ""
 "Wskazany stwór zyskuje bezśmierć do końca tury. (Kiedy umrze, jeśli nie miał "
-"znaczników +1/+1, przywróć go na pole walki ze znacznikiem +1/+1 pod "
+"znaczników +1/+1, przywróć go na pole bitwy ze znacznikiem +1/+1 pod "
 "władaniem właściciela.)"
 
 #: ../../DKA.rst:450
@@ -1576,7 +1576,7 @@ msgid ""
 "When Forge Devil enters the battlefield, it deals 1 damage to target "
 "creature and 1 damage to you."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu stworowi 1 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 1 "
 "obrażenie oraz tobie 1 obrażenie."
 
 #: ../../DKA.rst:526
@@ -1852,8 +1852,8 @@ msgid ""
 "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury "
-"+2/+2."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
+"2/+2."
 
 #: ../../DKA.rst:628
 msgid ""
@@ -1908,7 +1908,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_g|, poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego "
-"lądu, umieść ją przekręconą na polu walki, następnie przetasuj twoją "
+"lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../DKA.rst:644
@@ -2675,7 +2675,7 @@ msgstr ""
 #: ../../DKA.rst:891
 msgid "Creature cards in graveyards and libraries can't enter the battlefield."
 msgstr ""
-"Karty stworów w cmentarzach i bibliotekach nie mogą wejść na pole walki."
+"Karty stworów w cmentarzach i bibliotekach nie mogą wejść na pole bitwy."
 
 #: ../../DKA.rst:893
 msgid "Players can't cast spells from graveyards or libraries."
@@ -2799,7 +2799,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../DKA.rst:940
 msgid ""

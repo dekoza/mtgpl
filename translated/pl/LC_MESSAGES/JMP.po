@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-15 18:06+0100\n"
-"PO-Revision-Date: 2021-02-19 23:34+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -35,7 +35,7 @@ msgstr ""
 #: ../../JMP.rst:11
 msgid "Whenever a nontoken creature enters the battlefield under your control, create a 2/2 white Unicorn creature token."
 msgstr ""
-"Ilekroć nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, stwórz "
+"Ilekroć nieżetonowy stwór wejdzie na pole bitwy pod twoim władaniem, stwórz "
 "żeton białego stwora Jednorożec 2/2."
 
 #: ../../JMP.rst:16
@@ -45,7 +45,7 @@ msgstr ""
 #: ../../JMP.rst:15
 msgid "When Brightmare enters the battlefield, tap up to one target creature. You gain life equal to that creature's power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć co najwyżej jednego "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć co najwyżej jednego "
 "wskazanego stwora. Zyskaj tyle żyć ile ów stwór ma siły."
 
 #: ../../JMP.rst:22
@@ -56,12 +56,12 @@ msgstr ""
 msgid "|mana_3|: Exile another target creature you control, then return it to the battlefield under its owner's control."
 msgstr ""
 "|mana_3|: Wygnaj innego stwora pod twoim władaniem, następnie przywróć go na "
-"pole walki pod władaniem właściciela."
+"pole bitwy pod władaniem właściciela."
 
 #: ../../JMP.rst:21
 msgid "Whenever another creature enters the battlefield under your control, you may pay |mana_gw|. If you do, put a +1/+1 counter on it. If it's a Unicorn, put two +1/+1 counters on it instead. (|mana_gw| can be paid with either |mana_g| or |mana_w|.)"
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, możesz "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
 "zapłacić |mana_gw|. Jeśli tak zrobisz, umieść na nim znacznik +1/+1. Jeśli "
 "jest Jednorożcem, zamiast tego umieść na nim dwa znaczniki +1/+1. (|mana_gw| "
 "może być zapłacona przy użyciu |mana_g| lub |mana_w|.)"
@@ -153,7 +153,7 @@ msgstr ""
 #: ../../JMP.rst:39
 msgid "When Supply Runners enters the battlefield, put a +1/+1 counter on each other creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym innym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym innym "
 "stworze pod twoim władaniem."
 
 #: ../../JMP.rst:48
@@ -162,7 +162,7 @@ msgstr ""
 
 #: ../../JMP.rst:43
 msgid "When Trusty Retriever enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../JMP.rst:45
 msgid "Put a +1/+1 counter on Trusty Retriever."
@@ -181,7 +181,7 @@ msgstr ""
 #: ../../JMP.rst:51
 msgid "When Archaeomender enters the battlefield, return target artifact card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę artefaktu z "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../JMP.rst:56
@@ -202,7 +202,7 @@ msgstr ""
 #: ../../JMP.rst:59
 msgid "When Corsair Captain enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../JMP.rst:61
@@ -248,7 +248,7 @@ msgstr ""
 #: ../../JMP.rst:83
 msgid "When Scholar of the Lost Trove enters the battlefield, you may cast target instant, sorcery, or artifact card from your graveyard without paying its mana cost. If an instant or sorcery spell cast this way would be put into your graveyard this turn, exile it instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz rzucić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz rzucić wskazaną kartę "
 "sztuczki, obrzędu lub artefaktu z twojego cmentarza bez płacenia jej kosztu "
 "many. Jeśli czar sztuczki lub obrzędu rzucony w ten sposób miałby być "
 "umieszczony w cmentarzu w tej turze, zamiast tego wygnaj go."
@@ -360,7 +360,7 @@ msgid "At the beginning of your end step, if an opponent was dealt 3 or more dam
 msgstr ""
 "Na początku twojego kroku końcowego, jeśli przeciwnik otrzymał co najmniej 3 "
 "obrażenia w tej turze, możesz zapłacić |mana_r|. Jeśli tak zrobisz, przywróć "
-"tę kartę z twojego cmentarza na pole walki."
+"tę kartę z twojego cmentarza na pole bitwy."
 
 #: ../../JMP.rst:132
 msgid ":mtgtip:`Lightning Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af648aaf-a8e0-4291-acf9-5f8533728f92.jpg?1600693972|https://scryfall.com/card/jmp/22/lightning-visionary?utm_source=api>`"
@@ -389,9 +389,9 @@ msgstr ""
 #: ../../JMP.rst:139
 msgid "When Muxus, Goblin Grandee enters the battlefield, reveal the top six cards of your library. Put all Goblin creature cards with converted mana cost 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, ujawnij sześć wierzchnich kart twojej "
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij sześć wierzchnich kart twojej "
 "biblioteki. Umieść spośród nich wszystkie karty stworów typu Goblin o "
-"skróconych kosztach many 5 lun mniejszych na polu walki, a pozostałe na "
+"skróconych kosztach many 5 lun mniejszych na polu bitwy, a pozostałe na "
 "spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../JMP.rst:141
@@ -407,7 +407,7 @@ msgstr ""
 #: ../../JMP.rst:145
 msgid "Whenever Sethron, Hurloon General or another nontoken Minotaur enters the battlefield under your control, create a 2/3 red Minotaur creature token."
 msgstr ""
-"Ilekroć ten lub inny nieżetonowy stwór wejdzie na pole walki pod twoim "
+"Ilekroć ten lub inny nieżetonowy stwór wejdzie na pole bitwy pod twoim "
 "władaniem, stwórz żeton czerwonego stwora Minotaur 2/3."
 
 #: ../../JMP.rst:147
@@ -491,7 +491,7 @@ msgstr ""
 #: ../../JMP.rst:177
 msgid "At the beginning of combat on your turn, you may pay |mana_2|\\ |mana_rg|. If you do, double target creature's power until end of turn. That creature must be blocked this combat if able. (|mana_rg| can be paid with either |mana_r| or |mana_g|.)"
 msgstr ""
-"Na początku walki w twojej turze, możesz zapłacić |mana_2|\\ |mana_rg|. "
+"Na początku potyczki w twojej turze, możesz zapłacić |mana_2|\\ |mana_rg|. "
 "Jeśli tak zrobisz, podwój do końca tury siłę wskazanego stwora. Ów stwór "
 "musi być blokowany w tej walce jeśli to możliwe. (|mana_rg| można opłacić "
 "używając |mana_r| lub |mana_g|.)"
@@ -503,7 +503,7 @@ msgstr ""
 #: ../../JMP.rst:181
 msgid "Towering Titan enters the battlefield with X +1/+1 counters on it, where X is the total toughness of other creatures you control."
 msgstr ""
-"Ten stwór wchodzi na pole walki mając X znaczników +1/+1, gdzie X jest "
+"Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest "
 "całkowitą wytrzymałością innych stworów pod twoim władaniem."
 
 #: ../../JMP.rst:183
@@ -528,11 +528,11 @@ msgstr ""
 
 #: ../../JMP.rst:191
 msgid "Thriving Bluff enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:193
 msgid "As Thriving Bluff enters the battlefield, choose a color other than red."
-msgstr "Umieszczając ten ląd na polu walki wybierz kolor inny niż czerwony."
+msgstr "Umieszczając ten ląd na polu bitwy wybierz kolor inny niż czerwony."
 
 #: ../../JMP.rst:195
 msgid "|tap|: Add |mana_r| or one mana of the chosen color."
@@ -544,11 +544,11 @@ msgstr ""
 
 #: ../../JMP.rst:199
 msgid "Thriving Grove enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:201
 msgid "As Thriving Grove enters the battlefield, choose a color other than green."
-msgstr "Umieszczając ten ląd na polu walki wybierz kolor inny niż zielony."
+msgstr "Umieszczając ten ląd na polu bitwy wybierz kolor inny niż zielony."
 
 #: ../../JMP.rst:203
 msgid "|tap|: Add |mana_g| or one mana of the chosen color."
@@ -560,11 +560,11 @@ msgstr ""
 
 #: ../../JMP.rst:207
 msgid "Thriving Heath enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:209
 msgid "As Thriving Heath enters the battlefield, choose a color other than white."
-msgstr "Umieszczając ten ląd na polu walki wybierz kolor inny niż biały."
+msgstr "Umieszczając ten ląd na polu bitwy wybierz kolor inny niż biały."
 
 #: ../../JMP.rst:211
 msgid "|tap|: Add |mana_w| or one mana of the chosen color."
@@ -576,11 +576,11 @@ msgstr ""
 
 #: ../../JMP.rst:215
 msgid "Thriving Isle enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:217
 msgid "As Thriving Isle enters the battlefield, choose a color other than blue."
-msgstr "Umieszczając ten ląd na polu walki wybierz kolor inny niż niebieski."
+msgstr "Umieszczając ten ląd na polu bitwy wybierz kolor inny niż niebieski."
 
 #: ../../JMP.rst:219
 msgid "|tap|: Add |mana_u| or one mana of the chosen color."
@@ -592,11 +592,11 @@ msgstr ""
 
 #: ../../JMP.rst:223
 msgid "Thriving Moor enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:225
 msgid "As Thriving Moor enters the battlefield, choose a color other than black."
-msgstr "Umieszczając ten ląd na polu walki wybierz kolor inny niż czarny."
+msgstr "Umieszczając ten ląd na polu bitwy wybierz kolor inny niż czarny."
 
 #: ../../JMP.rst:227
 msgid "|tap|: Add |mana_b| or one mana of the chosen color."
@@ -650,7 +650,7 @@ msgstr ""
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../JMP.rst:256
 msgid ":mtgtip:`Aegis of the Heavens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a94f356d-4714-4500-8fb0-1ac68ec5c1cf.jpg?1600715302|https://scryfall.com/card/jmp/79/aegis-of-the-heavens?utm_source=api>`"
@@ -685,7 +685,7 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 #: ../../JMP.rst:265
 msgid "When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury +"
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
 "0/+3."
 
 #: ../../JMP.rst:270
@@ -695,7 +695,7 @@ msgstr ""
 #: ../../JMP.rst:269
 msgid "Whenever an enchantment enters the battlefield under your control, create a 2/2 white Cat creature token. If that enchantment is an Aura, you may attach it to the token."
 msgstr ""
-"Ilekroć na pole walki pod twoim władaniem wejdzie urok, stwórz żeton białego "
+"Ilekroć na pole bitwy pod twoim władaniem wejdzie urok, stwórz żeton białego "
 "stwora Kot 2/2. Jeśli ów urok jest Aurą, możesz dołączyć go do owego żetonu."
 
 #: ../../JMP.rst:274
@@ -715,7 +715,7 @@ msgstr ""
 
 #: ../../JMP.rst:279
 msgid "When Angel of Mercy enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../JMP.rst:288
 msgid ":mtgtip:`Angel of the Dire Hour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7ab81d4-aaf7-4c72-9651-5e1482126928.jpg?1600695858|https://scryfall.com/card/jmp/85/angel-of-the-dire-hour?utm_source=api>`"
@@ -733,7 +733,7 @@ msgstr "Błysk"
 #: ../../JMP.rst:287
 msgid "When Angel of the Dire Hour enters the battlefield, if you cast it from your hand, exile all attacking creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli rzuciłeś go z twojej ręki, "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli rzuciłeś go z twojej ręki, "
 "wygnaj wszystkie atakujące stwory."
 
 #: ../../JMP.rst:296
@@ -782,7 +782,7 @@ msgstr ""
 #: ../../JMP.rst:317
 msgid "Whenever Archon of Redemption or another creature with flying enters the battlefield under your control, you may gain life equal to that creature's power."
 msgstr ""
-"Ilekroć ten lub inny stwór mający latanie wejdzie na pole walki pod twoim "
+"Ilekroć ten lub inny stwór mający latanie wejdzie na pole bitwy pod twoim "
 "władaniem, możesz zyskać życia równe sile owego stwora."
 
 #: ../../JMP.rst:322
@@ -809,7 +809,7 @@ msgstr ""
 
 #: ../../JMP.rst:331
 msgid "When Bulwark Giant enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 5 żyć."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../JMP.rst:336
 msgid ":mtgtip:`Cathar's Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0291a964-1117-4fbd-9193-9719b273c348.jpg?1600696143|https://scryfall.com/card/jmp/94/cathars-companion?utm_source=api>`"
@@ -828,7 +828,7 @@ msgstr ""
 #: ../../JMP.rst:339
 msgid "Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/+"
+"Ilekroć stwór wchodzi na pole bitwy pod twoim władaniem, umieść znacznik +1/+"
 "1 na każdym stworze pod twoim władaniem."
 
 #: ../../JMP.rst:348
@@ -877,7 +877,7 @@ msgstr ""
 msgid "Exile target creature you control, then return that card to the battlefield under your control."
 msgstr ""
 "Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole walki pod twoim władaniem."
+"na pole bitwy pod twoim władaniem."
 
 #: ../../JMP.rst:356
 msgid ":mtgtip:`Cradle of Vitality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4caae1f4-dfb0-466f-9fa6-eb014767e3c8.jpg?1600716975|https://scryfall.com/card/jmp/98/cradle-of-vitality?utm_source=api>`"
@@ -924,7 +924,7 @@ msgstr ""
 #: ../../JMP.rst:373
 msgid "When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć permanent pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć permanent pod twoim "
 "władaniem do ręki właściciela."
 
 #: ../../JMP.rst:382
@@ -1026,7 +1026,7 @@ msgstr ""
 #: ../../JMP.rst:429
 msgid "When Inspiring Captain enters the battlefield, creatures you control get +1/+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1."
 
 #: ../../JMP.rst:434
@@ -1058,7 +1058,7 @@ msgstr ""
 #: ../../JMP.rst:447
 msgid "When Knightly Valor enters the battlefield, create a 2/2 white Knight creature token with vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/2 "
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
 "z czujnością. (Atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../JMP.rst:449
@@ -1084,7 +1084,7 @@ msgstr ""
 #: ../../JMP.rst:459
 msgid "When Lena, Selfless Champion enters the battlefield, create a 1/1 white Soldier creature token for each nontoken creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Piechur 1/"
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/"
 "1 za każdego nieżetonowego stwora pod twoim władaniem."
 
 #: ../../JMP.rst:461
@@ -1119,7 +1119,7 @@ msgstr ""
 msgid "Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it."
 msgstr ""
 "Wygnaj wskazanego stwora. Na początku najbliższego kroku końcowego przywróć "
-"ową kartę z umieszczonym znacznikiem +1/+1 na pole walki pod władaniem "
+"ową kartę z umieszczonym znacznikiem +1/+1 na pole bitwy pod władaniem "
 "właściciela."
 
 #: ../../JMP.rst:480
@@ -1129,7 +1129,7 @@ msgstr ""
 #: ../../JMP.rst:479
 msgid "Whenever another creature with power 2 or less enters the battlefield under your control, you may pay |mana_1|. If you do, draw a card."
 msgstr ""
-"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole walki pod twoim "
+"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole bitwy pod twoim "
 "władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../JMP.rst:484
@@ -1147,7 +1147,7 @@ msgstr ""
 
 #: ../../JMP.rst:487
 msgid "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../JMP.rst:489
 msgid "|tap|: Put a +1/+1 counter on Mikaeus."
@@ -1202,7 +1202,7 @@ msgstr ""
 msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu walki, następnie "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie "
 "przetasować swoją bibliotekę."
 
 #: ../../JMP.rst:518
@@ -1212,7 +1212,7 @@ msgstr ""
 #: ../../JMP.rst:517
 msgid "When Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na każdym "
+"Kiedy ta karta wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
 "stworze pod twoim władaniem posiadającym znacznik +1/+1."
 
 #: ../../JMP.rst:522
@@ -1300,7 +1300,7 @@ msgstr ""
 #: ../../JMP.rst:563
 msgid "When Voice of the Provinces enters the battlefield, create a 1/1 white Human creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Człowiek "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Człowiek "
 "1/1."
 
 #: ../../JMP.rst:566
@@ -1361,7 +1361,7 @@ msgstr ""
 #: ../../JMP.rst:595
 msgid "When Cloudreader Sphinx enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
 "twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1382,7 +1382,7 @@ msgstr ""
 #: ../../JMP.rst:607
 msgid "When Crookclaw Transmuter enters the battlefield, switch target creature's power and toughness until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zamień do końca tury siłę z "
+"Kiedy ten stwór wejdzie na pole bitwy, zamień do końca tury siłę z "
 "wytrzymałością wskazanego stwora."
 
 #: ../../JMP.rst:612
@@ -1454,7 +1454,7 @@ msgstr ""
 msgid "Exile target creature you control, then return that card to the battlefield under its owner's control. If it's a Spirit, put a +1/+1 counter on it."
 msgstr ""
 "Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole walki pod władaniem właściciela. Jeśli to Duch, umieść na nim "
+"na pole bitwy pod władaniem właściciela. Jeśli to Duch, umieść na nim "
 "znacznik +1/+1."
 
 #: ../../JMP.rst:648
@@ -1472,7 +1472,7 @@ msgstr ""
 #: ../../JMP.rst:651
 msgid "When Exclusion Mage enters the battlefield, return target creature an opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, przywróć wskazanego stwora pod "
+"Kiedy ta karta wejdzie na pole bitwy, przywróć wskazanego stwora pod "
 "władaniem przeciwnika do ręki właściciela."
 
 #: ../../JMP.rst:658
@@ -1541,7 +1541,7 @@ msgstr ""
 #: ../../JMP.rst:689
 msgid "Whenever Nebelgast Herald or another Spirit enters the battlefield under your control, tap target creature an opponent controls."
 msgstr ""
-"Ilekroć ten stwór lub inny Duch wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć ten stwór lub inny Duch wejdzie na pole bitwy pod twoim władaniem, "
 "przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../JMP.rst:694
@@ -1551,7 +1551,7 @@ msgstr ""
 #: ../../JMP.rst:693
 msgid "When Octoprophet enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
 "twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1591,7 +1591,7 @@ msgstr ""
 #: ../../JMP.rst:713
 msgid "When Prosperous Pirates enters the battlefield, create two Treasure tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony Skarbu. (To "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (To "
 "artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
 "koloru.\")"
 
@@ -1602,7 +1602,7 @@ msgstr ""
 #: ../../JMP.rst:721
 msgid "When Rattlechains enters the battlefield, target Spirit gains hexproof until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany Duch zyskuje antyklątwę do "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany Duch zyskuje antyklątwę do "
 "końca tury."
 
 #: ../../JMP.rst:723
@@ -1651,7 +1651,7 @@ msgstr ""
 
 #: ../../JMP.rst:745
 msgid "When Sage's Row Savant enters the battlefield, scry 2."
-msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 2."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
 
 #: ../../JMP.rst:750
 msgid ":mtgtip:`Sailor of Means<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10c1e6ad-1227-4049-89bf-69ace48c3076.jpg?1600698508|https://scryfall.com/card/jmp/172/sailor-of-means?utm_source=api>`"
@@ -1660,7 +1660,7 @@ msgstr ""
 #: ../../JMP.rst:749
 msgid "When Sailor of Means enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../JMP.rst:754
@@ -1670,7 +1670,7 @@ msgstr ""
 #: ../../JMP.rst:753
 msgid "When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na dwie wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na dwie wierzchnie karty "
 "twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie "
 "twojej biblioteki."
 
@@ -1731,7 +1731,7 @@ msgstr "Ten stwór nie może być blokowany."
 #: ../../JMP.rst:787
 msgid "When Storm Sculptor enters the battlefield, return a creature you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazanego stwora pod twoim "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora pod twoim "
 "władaniem do ręki właściciela."
 
 #: ../../JMP.rst:792
@@ -1830,7 +1830,7 @@ msgstr ""
 #: ../../JMP.rst:835
 msgid "When Wall of Lost Thoughts enters the battlefield, target player mills four cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz mieli cztery karty."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli cztery karty."
 
 #: ../../JMP.rst:842
 msgid ":mtgtip:`Warden of Evos Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c58807d-1663-486a-ac94-627a8677f2b3.jpg?1600714160|https://scryfall.com/card/jmp/191/warden-of-evos-isle?utm_source=api>`"
@@ -1846,7 +1846,7 @@ msgstr ""
 
 #: ../../JMP.rst:847
 msgid "When Waterknot enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../JMP.rst:849
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1986,8 +1986,8 @@ msgstr ""
 #: ../../JMP.rst:919
 msgid "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life."
 msgstr ""
-"Ilekroć Artysta Krwi lub inny stwór umrze, wskazany gracz traci 1 życie, a "
-"ty zyskaj 1 życie."
+"Ilekroć umrze ten lub inny stwór, wskazany gracz traci 1 życie, a ty zyskaj "
+"1 życie."
 
 #: ../../JMP.rst:926
 msgid ":mtgtip:`Blood Divination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51278b56-5056-4a37-a1e8-daca45d8e360.jpg?1600699541|https://scryfall.com/card/jmp/207/blood-divination?utm_source=api>`"
@@ -2031,7 +2031,7 @@ msgstr ""
 #: ../../JMP.rst:939
 msgid "When Bloodhunter Bat enters the battlefield, target player loses 2 life and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany gracz traci 2 życia, a ty "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz traci 2 życia, a ty "
 "zyskaj 2 życia."
 
 #: ../../JMP.rst:944
@@ -2042,7 +2042,7 @@ msgstr ""
 msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_2|, |tap|: Wyszukaj w twojej bibliotece kartę Festering Newt lub "
-"Bubbling Cauldron, umieść ją przekręconą na polu walki, następnie przetasuj "
+"Bubbling Cauldron, umieść ją przekręconą na polu bitwy, następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../JMP.rst:950
@@ -2073,7 +2073,7 @@ msgstr ""
 
 #: ../../JMP.rst:959
 msgid "When Burglar Rat enters the battlefield, each opponent discards a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik odrzuca kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
 
 #: ../../JMP.rst:966
 msgid ":mtgtip:`Cadaver Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fefd7f9-57ff-41bb-aef6-b1d568a7588b.jpg?1600714348|https://scryfall.com/card/jmp/215/cadaver-imp?utm_source=api>`"
@@ -2082,7 +2082,7 @@ msgstr ""
 #: ../../JMP.rst:965
 msgid "When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../JMP.rst:972
@@ -2092,12 +2092,12 @@ msgstr ""
 #: ../../JMP.rst:969
 msgid "When Cauldron Familiar enters the battlefield, each opponent loses 1 life and you gain 1 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy przeciwnik traci po 1 życiu, a "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po 1 życiu, a "
 "ty zyskaj 1 życie."
 
 #: ../../JMP.rst:971
 msgid "Sacrifice a Food: Return Cauldron Familiar from your graveyard to the battlefield."
-msgstr "Poświęć Jadło: Przywróć tę kartę z twojego cmentarza na pole walki."
+msgstr "Poświęć Jadło: Przywróć tę kartę z twojego cmentarza na pole bitwy."
 
 #: ../../JMP.rst:976
 msgid ":mtgtip:`Cemetery Recruitment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88531c36-2330-474b-9426-1e4dd0fe4e3e.jpg?1600699843|https://scryfall.com/card/jmp/217/cemetery-recruitment?utm_source=api>`"
@@ -2140,7 +2140,7 @@ msgstr ""
 #: ../../JMP.rst:993
 msgid "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. (Put the top two cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki lub umrze, zmiel dwie karty. (Umieść "
+"Kiedy ten stwór wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
 "dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../JMP.rst:1000
@@ -2201,7 +2201,7 @@ msgstr ""
 
 #: ../../JMP.rst:1021
 msgid "When Entomber Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../JMP.rst:1023
 msgid "Return target creature card from your graveyard to your hand."
@@ -2219,7 +2219,7 @@ msgstr ""
 
 #: ../../JMP.rst:1029
 msgid "Eternal Taskmaster enters the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole walki."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:1031
 msgid "Whenever Eternal Taskmaster attacks, you may pay |mana_2|\\ |mana_b|. If you do, return target creature card from your graveyard to your hand."
@@ -2245,7 +2245,7 @@ msgstr ""
 
 #: ../../JMP.rst:1041
 msgid "Each player puts a creature card from their graveyard onto the battlefield."
-msgstr "Każdy gracz umieszcza kartę stwora ze swojego cmentarza na polu walki."
+msgstr "Każdy gracz umieszcza kartę stwora ze swojego cmentarza na polu bitwy."
 
 #: ../../JMP.rst:1046
 msgid ":mtgtip:`Exquisite Blood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1653811-1c2c-4e6c-bf1c-287d1b496d51.jpg?1600700252|https://scryfall.com/card/jmp/231/exquisite-blood?utm_source=api>`"
@@ -2272,7 +2272,7 @@ msgstr ""
 #: ../../JMP.rst:1057
 msgid "When Fell Specter enters the battlefield, target opponent discards a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik odrzuca kartę."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
 
 #: ../../JMP.rst:1059
 msgid "Whenever an opponent discards a card, that player loses 2 life."
@@ -2324,7 +2324,7 @@ msgstr ""
 #: ../../JMP.rst:1079
 msgid "When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć losową kartę Zombi z twojego "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć losową kartę Zombi z twojego "
 "cmentarza do twojej ręki."
 
 #: ../../JMP.rst:1084
@@ -2342,7 +2342,7 @@ msgstr ""
 #: ../../JMP.rst:1089
 msgid "When Gonti, Lord of Luxury enters the battlefield, look at the top four cards of target opponent's library, exile one of them face down, then put the rest on the bottom of that library in a random order. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "biblioteki wskazanego przeciwnika, wygnaj jedną z nich zakrytą, następnie "
 "umieść pozostałe losowo na spodzie owej biblioteki. Przez czas jej wygnania "
 "możesz patrzeć na ową kartę oraz rzucić ją wydając manę tak, jakby była maną "
@@ -2364,7 +2364,7 @@ msgstr ""
 msgid "|mana_5|\\ |mana_b|\\ |mana_b|: Return target creature card from your graveyard to the battlefield tapped."
 msgstr ""
 "|mana_5|\\ |mana_b|\\ |mana_b|: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza przekręconą na pole walki."
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../JMP.rst:1100
 msgid ":mtgtip:`Gristle Grinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1d6e32e-6479-48b3-93ae-da5378c09bb1.jpg?1600700508|https://scryfall.com/card/jmp/242/gristle-grinner?utm_source=api>`"
@@ -2483,7 +2483,7 @@ msgstr ""
 #: ../../JMP.rst:1161
 msgid "When Mausoleum Turnkey enters the battlefield, return target creature card of an opponent's choice from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazaną kartę stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora "
 "wybraną przez przeciwnika z twojego cmentarza do twojej ręki."
 
 #: ../../JMP.rst:1166
@@ -2492,7 +2492,7 @@ msgstr ""
 
 #: ../../JMP.rst:1165
 msgid "When Miasmic Mummy enters the battlefield, each player discards a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, każdy gracz odrzuca kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz odrzuca kartę."
 
 #: ../../JMP.rst:1172
 msgid ":mtgtip:`Mire Triton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9dc87b3-60b2-4cf8-b620-334700db1aa9.jpg?1600700912|https://scryfall.com/card/jmp/257/mire-triton?utm_source=api>`"
@@ -2501,7 +2501,7 @@ msgstr ""
 #: ../../JMP.rst:1171
 msgid "When Mire Triton enters the battlefield, mill two cards and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty i zyskaj 2 życia."
+"Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty i zyskaj 2 życia."
 
 #: ../../JMP.rst:1178
 msgid ":mtgtip:`Nightshade Stinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c894372f-7d28-4035-b45a-384c5bf8fd1f.jpg?1600700929|https://scryfall.com/card/jmp/258/nightshade-stinger?utm_source=api>`"
@@ -2517,7 +2517,7 @@ msgstr ""
 
 #: ../../JMP.rst:1181
 msgid "As Nyxathid enters the battlefield, choose an opponent."
-msgstr "Umieszczając tę kartę na polu walki wybierz przeciwnika."
+msgstr "Umieszczając tę kartę na polu bitwy wybierz przeciwnika."
 
 #: ../../JMP.rst:1183
 msgid "Nyxathid gets -1/-1 for each card in the chosen player's hand."
@@ -2544,7 +2544,7 @@ msgstr ""
 #: ../../JMP.rst:1195
 msgid "Each other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it."
 msgstr ""
-"Każdy inny Łotrzyk pod twoim władaniem wchodzi na pole walki z dodatkowym "
+"Każdy inny Łotrzyk pod twoim władaniem wchodzi na pole bitwy z dodatkowym "
 "znacznikiem +1/+1."
 
 #: ../../JMP.rst:1197
@@ -2586,7 +2586,7 @@ msgstr ""
 #: ../../JMP.rst:1217
 msgid "When Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz dwie karty i strać 2 życia."
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty i strać 2 życia."
 
 #: ../../JMP.rst:1222
 msgid ":mtgtip:`Phyrexian Rager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86eb76e0-11ed-4f89-a2f4-04bc67f3c94d.jpg?1600714630|https://scryfall.com/card/jmp/266/phyrexian-rager?utm_source=api>`"
@@ -2594,7 +2594,7 @@ msgstr ""
 
 #: ../../JMP.rst:1221
 msgid "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../JMP.rst:1226
 msgid ":mtgtip:`Phyrexian Reclamation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb0271e4-8ad1-4ad9-9b3e-7abf911f3059.jpg?1600701185|https://scryfall.com/card/jmp/267/phyrexian-reclamation?utm_source=api>`"
@@ -2621,7 +2621,7 @@ msgstr ""
 #: ../../JMP.rst:1233
 msgid "When Ravenous Chupacabra enters the battlefield, destroy target creature an opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazanego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego stwora pod "
 "władaniem przeciwnika."
 
 #: ../../JMP.rst:1238
@@ -2631,7 +2631,7 @@ msgstr ""
 #: ../../JMP.rst:1237
 msgid "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost."
 msgstr ""
-"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
 "władaniem. Strać tyle żyć, ile wynosi jej skrócony koszt many."
 
 #: ../../JMP.rst:1242
@@ -2641,7 +2641,7 @@ msgstr ""
 #: ../../JMP.rst:1241
 msgid "Put all creature cards from all graveyards onto the battlefield under your control."
 msgstr ""
-"Umieść na polu walki pod twoim władaniem wszystkie karty stworów ze "
+"Umieść na polu bitwy pod twoim władaniem wszystkie karty stworów ze "
 "wszystkich cmentarzy."
 
 #: ../../JMP.rst:1250
@@ -2719,7 +2719,7 @@ msgstr ""
 msgid "At the beginning of your upkeep, return target creature card from your graveyard to the battlefield."
 msgstr ""
 "Na początku twojego kroku utrzymania, przywróć wskazaną kartę stwora z "
-"twojego cmentarza na pole walki."
+"twojego cmentarza na pole bitwy."
 
 #: ../../JMP.rst:1281
 msgid "At the beginning of each opponent's upkeep, that player sacrifices a creature."
@@ -2765,7 +2765,7 @@ msgstr ""
 
 #: ../../JMP.rst:1303
 msgid "Swarm of Bloodflies enters the battlefield with two +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../JMP.rst:1305
 msgid "Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies."
@@ -2778,7 +2778,7 @@ msgstr ""
 #: ../../JMP.rst:1309
 msgid "When Tempting Witch enters the battlefield, create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton Jadła. (To artefakt "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt "
 "mający \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../JMP.rst:1311
@@ -2792,7 +2792,7 @@ msgstr ""
 #: ../../JMP.rst:1315
 msgid "When Tithebearer Giant enters the battlefield, you draw a card and you lose 1 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz jedną kartę i strać 1 życie."
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz jedną kartę i strać 1 życie."
 
 #: ../../JMP.rst:1320
 msgid ":mtgtip:`Vampire Neonate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7649d57-3537-45a2-b57e-98e7d32025c9.jpg?1600701711|https://scryfall.com/card/jmp/285/vampire-neonate?utm_source=api>`"
@@ -2809,7 +2809,7 @@ msgstr ""
 
 #: ../../JMP.rst:1323
 msgid "When Wailing Ghoul enters the battlefield, mill two cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
 
 #: ../../JMP.rst:1328
 msgid ":mtgtip:`Wight of Precinct Six<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32aec0ec-0feb-4276-ab9c-5bb18b5005a0.jpg?1600701742|https://scryfall.com/card/jmp/287/wight-of-precinct-six?utm_source=api>`"
@@ -2896,7 +2896,7 @@ msgstr ""
 #: ../../JMP.rst:1359
 msgid "When Beetleback Chief enters the battlefield, create two 1/1 red Goblin creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony czerwonego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony czerwonego stwora "
 "Goblin 1/1."
 
 #: ../../JMP.rst:1366
@@ -2915,7 +2915,7 @@ msgstr ""
 
 #: ../../JMP.rst:1369
 msgid "When Bloodrage Brawler enters the battlefield, discard a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, odrzuć kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, odrzuć kartę."
 
 #: ../../JMP.rst:1374
 msgid ":mtgtip:`Bloodrock Cyclops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/128f37ff-eb63-4417-87c2-96a3a026fcf4.jpg?1600702048|https://scryfall.com/card/jmp/297/bloodrock-cyclops?utm_source=api>`"
@@ -3078,7 +3078,7 @@ msgstr ""
 #: ../../JMP.rst:1447
 msgid "When Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, skopiuj wskazany czar sztuczki lub "
+"Kiedy ten stwór wejdzie na pole bitwy, skopiuj wskazany czar sztuczki lub "
 "obrzędu. Możesz wskazać nowe cele dla kopii."
 
 #: ../../JMP.rst:1452
@@ -3144,7 +3144,7 @@ msgstr ""
 #: ../../JMP.rst:1473
 msgid "When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu stworowi 4 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu stworowi 4 "
 "obrażenia."
 
 #: ../../JMP.rst:1480
@@ -3171,7 +3171,7 @@ msgstr ""
 #: ../../JMP.rst:1487
 msgid "When Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu stworowi 1 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 1 "
 "obrażenie oraz tobie 1 obrażenie."
 
 #: ../../JMP.rst:1494
@@ -3198,7 +3198,7 @@ msgstr ""
 #: ../../JMP.rst:1503
 msgid "When Goblin Commando enters the battlefield, it deals 2 damage to target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje on wskazanemu stworowi 2 "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu stworowi 2 "
 "obrażenia."
 
 #: ../../JMP.rst:1510
@@ -3224,7 +3224,7 @@ msgstr ""
 #: ../../JMP.rst:1513
 msgid "When Goblin Instigator enters the battlefield, create a 1/1 red Goblin creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton czerwonego stwora Goblin "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton czerwonego stwora Goblin "
 "1/1."
 
 #: ../../JMP.rst:1518
@@ -3250,7 +3250,7 @@ msgstr ""
 #: ../../JMP.rst:1525
 msgid "When Goblin Shortcutter enters the battlefield, target creature can't block this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór nie może blokować w "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może blokować w "
 "tej turze."
 
 #: ../../JMP.rst:1530
@@ -3270,7 +3270,7 @@ msgstr ""
 #: ../../JMP.rst:1533
 msgid "Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki, możesz umieścić X znaczników +1/+1 "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz umieścić X znaczników +1/+1 "
 "na niniejszym stworze, gdzie X jest siłą owego stwora."
 
 #: ../../JMP.rst:1540
@@ -3352,7 +3352,7 @@ msgstr ""
 #: ../../JMP.rst:1573
 msgid "Whenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying."
 msgstr ""
-"Ilekroć inny nie-żetonowy Smok wejdzie na pole walki pod twoim władaniem , "
+"Ilekroć inny nie-żetonowy Smok wejdzie na pole bitwy pod twoim władaniem , "
 "stwórz żeton czerwonego stwora Smok 5/5 z lataniem."
 
 #: ../../JMP.rst:1575
@@ -3388,7 +3388,7 @@ msgstr ""
 #: ../../JMP.rst:1591
 msgid "When Lightning Diadem enters the battlefield, it deals 2 damage to any target."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, zadaje wskazanemu celowi 2 obrażenia."
+"Kiedy ten urok wejdzie na pole bitwy, zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../JMP.rst:1598
 msgid ":mtgtip:`Lightning Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f2a959e-7c17-4226-afcb-bc0bb5a4492b.jpg?1601078310|https://scryfall.com/card/jmp/344/lightning-elemental?utm_source=api>`"
@@ -3442,7 +3442,7 @@ msgstr ""
 
 #: ../../JMP.rst:1621
 msgid "When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dostaje do końca tury +2/+0."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dostaje do końca tury +2/+0."
 
 #: ../../JMP.rst:1628
 msgid ":mtgtip:`Minotaur Sureshot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbd65150-a698-4f23-836c-5cd0fb153eb3.jpg?1601078394|https://scryfall.com/card/jmp/350/minotaur-sureshot?utm_source=api>`"
@@ -3537,7 +3537,7 @@ msgstr ""
 #: ../../JMP.rst:1663
 msgid "When Rapacious Dragon enters the battlefield, create two Treasure tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony Skarbu. (Są "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (Są "
 "artefaktami ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
 "dowolnego koloru.\")"
 
@@ -3588,7 +3588,7 @@ msgstr ""
 #: ../../JMP.rst:1681
 msgid "When Seismic Elemental enters the battlefield, creatures without flying can't block this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory bez latania nie mogą blokować "
+"Kiedy ten stwór wejdzie na pole bitwy, stwory bez latania nie mogą blokować "
 "w tej turze."
 
 #: ../../JMP.rst:1688
@@ -3665,7 +3665,7 @@ msgstr ""
 #: ../../JMP.rst:1719
 msgid "When Volley Veteran enters the battlefield, it deals damage to target creature an opponent controls equal to the number of Goblins you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu stworowi pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi pod "
 "władaniem przeciwnika tyle obrażeń, iloma Goblinami władasz."
 
 #: ../../JMP.rst:1724
@@ -3675,7 +3675,7 @@ msgstr ""
 #: ../../JMP.rst:1723
 msgid "When Warfire Javelineer enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje wskazanemu stworowi pod "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi pod "
 "władaniem przeciwnika X obrażeń, gdzie X jest liczbą kart sztuczek i "
 "obrzędów w twoim cmentarzu."
 
@@ -3711,7 +3711,7 @@ msgstr ""
 #: ../../JMP.rst:1737
 msgid "When Affectionate Indrik enters the battlefield, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz kazać mu walczyć ze wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz kazać mu walczyć ze wskazanym "
 "stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia równe swojej "
 "sile.)"
 
@@ -3730,7 +3730,7 @@ msgstr ""
 #: ../../JMP.rst:1747
 msgid "When Ambassador Oak enters the battlefield, create a 1/1 green Elf Warrior creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton zielonego stwora Elf "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Elf "
 "Wojownik 1/1."
 
 #: ../../JMP.rst:1752
@@ -3750,7 +3750,7 @@ msgstr ""
 #: ../../JMP.rst:1755
 msgid "When Armorcraft Judge enters the battlefield, draw a card for each creature you control with a +1/+1 counter on it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz kartę za każdego stwora pod "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę za każdego stwora pod "
 "twoim władaniem mającego znacznik +1/+1."
 
 #: ../../JMP.rst:1764
@@ -3781,7 +3781,7 @@ msgstr ""
 #: ../../JMP.rst:1767
 msgid "When Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid remains on the battlefield. It's still a land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, do czasu aż opuści on pole walki, "
+"Kiedy ten stwór wejdzie na pole bitwy, do czasu aż opuści on pole bitwy, "
 "wskazany Las staje się zielonym stworem Drzewiec 4/5, ale nadal jest lądem."
 
 #: ../../JMP.rst:1772
@@ -3814,7 +3814,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../JMP.rst:1781
 msgid "When Carven Caryatid enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../JMP.rst:1788
 msgid ":mtgtip:`Champion of Lambholt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8d851d8-d7d0-4b8a-b520-f3863b78bc66.jpg?1601082292|https://scryfall.com/card/jmp/383/champion-of-lambholt?utm_source=api>`"
@@ -3829,7 +3829,7 @@ msgstr ""
 #: ../../JMP.rst:1787
 msgid "Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, umieść "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, umieść "
 "znacznik +1/+1 na niniejszym stworze."
 
 #: ../../JMP.rst:1792
@@ -3850,7 +3850,7 @@ msgstr ""
 #: ../../JMP.rst:1797
 msgid "When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury tratowanie i +X/+X, gdzie X jest liczbą stworów pod twoim "
 "władaniem."
 
@@ -3874,7 +3874,7 @@ msgstr ""
 msgid "|mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_g|, poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego "
-"lądu, umieść ją przekręconą na polu walki, następnie przetasuj twoją "
+"lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../JMP.rst:1816
@@ -3900,7 +3900,7 @@ msgstr ""
 #: ../../JMP.rst:1819
 msgid "When Dwynen's Elite enters the battlefield, if you control another Elf, create a 1/1 green Elf Warrior creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli władasz innym Elfem, stwórz "
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym Elfem, stwórz "
 "żeton zielonego stwora Elf 1/1."
 
 #: ../../JMP.rst:1824
@@ -3960,7 +3960,7 @@ msgstr ""
 
 #: ../../JMP.rst:1847
 msgid "Feral Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając X znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../JMP.rst:1849
 msgid "|mana_3|: Put a +1/+1 counter on Feral Hydra. Any player may activate this ability."
@@ -3986,14 +3986,14 @@ msgstr ""
 
 #: ../../JMP.rst:1865
 msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../JMP.rst:1867
 msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"walki, następnie tasuje swoją bibliotekę."
+"bitwy, następnie tasuje swoją bibliotekę."
 
 #: ../../JMP.rst:1874
 msgid ":mtgtip:`Ghalta, Primal Hunger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c342309-aef7-4733-ac1c-ff0b704539a7.jpg?1601079606|https://scryfall.com/card/jmp/399/ghalta-primal-hunger?utm_source=api>`"
@@ -4060,7 +4060,7 @@ msgstr ""
 #: ../../JMP.rst:1897
 msgid "When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../JMP.rst:1904
@@ -4107,7 +4107,7 @@ msgstr ""
 msgid "Whenever an opponent casts a spell, reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, you may put that card on the bottom of your library."
 msgstr ""
 "Ilekroć przeciwnik rzuci czar, ujawnij wierzchnią kartę twojej biblioteki. "
-"Jeśli jest to karta stwora, umieść ją na polu walki. W przeciwnym razie "
+"Jeśli jest to karta stwora, umieść ją na polu bitwy. W przeciwnym razie "
 "możesz umieścić ową kartę na spodzie twojej biblioteki."
 
 #: ../../JMP.rst:1926
@@ -4138,8 +4138,8 @@ msgstr ""
 #: ../../JMP.rst:1933
 msgid "At the beginning of combat on your turn, if you control another creature with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle."
 msgstr ""
-"Na początku walki w twojej turze, jeśli władasz innym stworem o sile 4 lub "
-"większej, umieść znacznik +1/+1 na niniejszym stworze."
+"Na początku potyczki w twojej turze, jeśli władasz innym stworem o sile 4 "
+"lub większej, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../JMP.rst:1942
 msgid ":mtgtip:`New Horizons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7df29a3-c40f-4cd8-a6fe-c1b95085cfed.jpg?1601079825|https://scryfall.com/card/jmp/414/new-horizons?utm_source=api>`"
@@ -4153,7 +4153,7 @@ msgstr "Zaurocz ląd"
 #: ../../JMP.rst:1939
 msgid "When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten urok wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../JMP.rst:1941
@@ -4227,7 +4227,7 @@ msgstr ""
 
 #: ../../JMP.rst:1981
 msgid "Whenever a land enters the battlefield under your control, you gain 3 life."
-msgstr "Ilekroć na pole walki wejdzie ląd pod twoim władaniem, zyskaj 3 życia."
+msgstr "Ilekroć na pole bitwy wejdzie ląd pod twoim władaniem, zyskaj 3 życia."
 
 #: ../../JMP.rst:1986
 msgid ":mtgtip:`Primordial Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b0d8dec-e139-4565-9259-3c24c54c1d45.jpg?1601079960|https://scryfall.com/card/jmp/422/primordial-sage?utm_source=api>`"
@@ -4262,7 +4262,7 @@ msgstr ""
 #: ../../JMP.rst:1999
 msgid "When Rishkar, Peema Renegade enters the battlefield, put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, umieść znacznik +1/+1 na każdym z co "
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym z co "
 "najwyżej dwóch wskazanych stworów."
 
 #: ../../JMP.rst:2001
@@ -4298,7 +4298,7 @@ msgstr ""
 
 #: ../../JMP.rst:2015
 msgid "Scrounging Bandar enters the battlefield with two +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając dwa znaczniki +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../JMP.rst:2017
 msgid "At the beginning of your upkeep, you may move any number of +1/+1 counters from Scrounging Bandar onto another target creature."
@@ -4313,7 +4313,7 @@ msgstr ""
 #: ../../JMP.rst:2021
 msgid "Whenever another creature enters the battlefield, its controller may draw a card if its power is greater than each other creature's power."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki, jego władca może dobrać kartę "
+"Ilekroć inny stwór wejdzie na pole bitwy, jego władca może dobrać kartę "
 "jeśli jego siła jest większa niż siła każdego innego stwora."
 
 #: ../../JMP.rst:2023
@@ -4329,7 +4329,7 @@ msgstr ""
 #: ../../JMP.rst:2027
 msgid "When Silhana Wayfinder enters the battlefield, look at the top four cards of your library. You may reveal a creature or land card from among them and put it on top of your library. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora lub lądu i "
 "umieścić ją na wierzchu twojej biblioteki. Umieść pozostałe losowo na "
 "spodzie twojej biblioteki."
@@ -4341,7 +4341,7 @@ msgstr ""
 #: ../../JMP.rst:2031
 msgid "When Somberwald Stag enters the battlefield, you may have it fight target creature you don't control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, że będzie walczyć ze "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że będzie walczyć ze "
 "wskazanym stworem poza twoim władaniem."
 
 #: ../../JMP.rst:2038
@@ -4351,7 +4351,7 @@ msgstr ""
 #: ../../JMP.rst:2037
 msgid "Whenever another nontoken creature enters the battlefield under your control, you may draw a card."
 msgstr ""
-"Ilekroć inny nieżetonowy stwór wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć inny nieżetonowy stwór wejdzie na pole bitwy pod twoim władaniem, "
 "możesz dobrać kartę."
 
 #: ../../JMP.rst:2042
@@ -4361,7 +4361,7 @@ msgstr ""
 #: ../../JMP.rst:2041
 msgid "Landfall — Whenever a land enters the battlefield under your control, create a 1/1 green Saproling creature token."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole walki pod twoim władaniem, stwórz "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
 "żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../JMP.rst:2046
@@ -4370,7 +4370,7 @@ msgstr ""
 
 #: ../../JMP.rst:2045
 msgid "When Sylvan Brushstrider enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 2 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../JMP.rst:2050
 msgid ":mtgtip:`Sylvan Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e36a5be0-a730-4cb7-9d1e-6ae84b5bc872.jpg?1601080165|https://scryfall.com/card/jmp/435/sylvan-ranger?utm_source=api>`"
@@ -4379,7 +4379,7 @@ msgstr ""
 #: ../../JMP.rst:2049
 msgid "When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -4389,12 +4389,12 @@ msgstr ""
 
 #: ../../JMP.rst:2053
 msgid "When Thragtusk enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 5 żyć."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../JMP.rst:2055
 msgid "When Thragtusk leaves the battlefield, create a 3/3 green Beast creature token."
 msgstr ""
-"Kiedy ten stwór opuści pole walki, stwórz żeton zielonego stwora Bestia 3/3."
+"Kiedy ten stwór opuści pole bitwy, stwórz żeton zielonego stwora Bestia 3/3."
 
 #: ../../JMP.rst:2062
 msgid ":mtgtip:`Thundering Spineback<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2e40ded-6daf-423e-8d74-2c6d448e0853.jpg?1601083033|https://scryfall.com/card/jmp/437/thundering-spineback?utm_source=api>`"
@@ -4434,8 +4434,8 @@ msgstr ""
 #: ../../JMP.rst:2073
 msgid "When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
-"kartę lądu, umieść ją przekręconą na polu walki, następnie przetasuj twoją "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../JMP.rst:2082
@@ -4466,7 +4466,7 @@ msgstr ""
 
 #: ../../JMP.rst:2093
 msgid "When Wall of Blossoms enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../JMP.rst:2100
 msgid ":mtgtip:`Wall of Vines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f7b7563-752b-4391-95d1-f5e3960d35c1.jpg?1601080308|https://scryfall.com/card/jmp/443/wall-of-vines?utm_source=api>`"
@@ -4522,7 +4522,7 @@ msgstr ""
 #: ../../JMP.rst:2123
 msgid "Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token."
 msgstr ""
-"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, stwórz żeton "
+"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz żeton "
 "zielonego stwora Żywiołak 2/2."
 
 #: ../../JMP.rst:2128
@@ -4540,7 +4540,7 @@ msgstr ""
 #: ../../JMP.rst:2131
 msgid "When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć wskazany permanent do ręki "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
 "właściciela, następnie ów gracz odrzuca kartę."
 
 #: ../../JMP.rst:2134
@@ -4612,7 +4612,7 @@ msgstr ""
 #: ../../JMP.rst:2173
 msgid "When Ancestral Statue enters the battlefield, return a nonland permanent you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przywróć nie-lądowy permanent pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć nie-lądowy permanent pod "
 "twoim władaniem do ręki właściciela."
 
 #: ../../JMP.rst:2178
@@ -4644,7 +4644,7 @@ msgstr ""
 #: ../../JMP.rst:2187
 msgid "Chamber Sentry enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it."
 msgstr ""
-"Ten stwór wchodzi na pole walki tyloma znacznikami +1/+1, ile kolorów many "
+"Ten stwór wchodzi na pole bitwy tyloma znacznikami +1/+1, ile kolorów many "
 "użyto do jego rzucenia."
 
 #: ../../JMP.rst:2189
@@ -4718,7 +4718,7 @@ msgstr ""
 
 #: ../../JMP.rst:2223
 msgid "Guardian Idol enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole walki."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:2225
 #: ../../JMP.rst:2349
@@ -4753,7 +4753,7 @@ msgstr ""
 
 #: ../../JMP.rst:2237
 msgid "As Herald's Horn enters the battlefield, choose a creature type."
-msgstr "Umieszczając tę kartę na polu walki wybierz typ stwora."
+msgstr "Umieszczając tę kartę na polu bitwy wybierz typ stwora."
 
 #: ../../JMP.rst:2239
 msgid "Creature spells you cast of the chosen type cost |mana_1| less to cast."
@@ -4792,7 +4792,7 @@ msgstr ""
 
 #: ../../JMP.rst:2255
 msgid "When Mana Geode enters the battlefield, scry 1."
-msgstr "Kiedy ten artefakt wejdzie na pole walki, wróż 1."
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, wróż 1."
 
 #: ../../JMP.rst:2264
 msgid ":mtgtip:`Marauder's Axe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49d8aa8a-3e87-42ac-9c79-2baec771c1ef.jpg?1601080796|https://scryfall.com/card/jmp/473/marauders-axe?utm_source=api>`"
@@ -4817,7 +4817,7 @@ msgstr ""
 #: ../../JMP.rst:2267
 msgid "When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany nie-lądowy permanent "
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-lądowy permanent "
 "pod władaniem przeciwnika."
 
 #: ../../JMP.rst:2272
@@ -4845,7 +4845,7 @@ msgstr ""
 #: ../../JMP.rst:2279
 msgid "When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole walki, dołącz go do wskazanego Pirata pod "
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego Pirata pod "
 "twoim władaniem."
 
 #: ../../JMP.rst:2281
@@ -4858,7 +4858,7 @@ msgstr ""
 
 #: ../../JMP.rst:2287
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole walki, dobierz kartę."
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../JMP.rst:2289
 msgid "|mana_1|, |tap|: Add one mana of any color."
@@ -4903,7 +4903,7 @@ msgstr "|mana_1|, poświęć Stracha: Dobierz kartę."
 msgid "|mana_4|, |tap|: Return target artifact creature card from your graveyard to the battlefield."
 msgstr ""
 "|mana_4|, |tap|: Przywróć wskazaną kartę artefaktu z twojego cmentarza na "
-"pole walki."
+"pole bitwy."
 
 #: ../../JMP.rst:2316
 msgid ":mtgtip:`Scroll of Avacyn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a2d0981-0af6-42d6-b926-16f8f2327320.jpg?1601080969|https://scryfall.com/card/jmp/483/scroll-of-avacyn?utm_source=api>`"
@@ -4940,7 +4940,7 @@ msgstr ""
 #: ../../JMP.rst:2331
 msgid "When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -4958,7 +4958,7 @@ msgstr ""
 
 #: ../../JMP.rst:2341
 msgid "Terrarion enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole walki."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:2343
 msgid "|mana_2|, |tap|, Sacrifice Terrarion: Add two mana in any combination of colors."
@@ -4969,7 +4969,7 @@ msgstr ""
 #: ../../JMP.rst:2345
 msgid "When Terrarion is put into a graveyard from the battlefield, draw a card."
 msgstr ""
-"Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola walki, dobierz "
+"Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola bitwy, dobierz "
 "kartę."
 
 #: ../../JMP.rst:2352
@@ -5047,10 +5047,10 @@ msgstr ""
 
 #: ../../JMP.rst:2389
 msgid "Rupture Spire enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole walki."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../JMP.rst:2391
 msgid "When Rupture Spire enters the battlefield, sacrifice it unless you pay |mana_1|."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, poświęć ją, chyba że zapłacisz "
+"Kiedy ta karta wejdzie na pole bitwy, poświęć ją, chyba że zapłacisz "
 "|mana_1|."

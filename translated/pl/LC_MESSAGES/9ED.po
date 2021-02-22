@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -40,7 +40,7 @@ msgstr "Latanie"
 
 #: ../../9ED.rst:11
 msgid "When Angel of Mercy enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../9ED.rst:14
 msgid ""
@@ -96,7 +96,7 @@ msgstr ""
 #: ../../9ED.rst:29
 msgid ""
 "When Aven Cloudchaser enters the battlefield, destroy target enchantment."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zniszcz wskazany urok."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany urok."
 
 #: ../../9ED.rst:32
 msgid ""
@@ -651,7 +651,7 @@ msgstr ""
 
 #: ../../9ED.rst:239
 msgid "Whenever another creature enters the battlefield, you gain 1 life."
-msgstr "Ilekroć inny stwór wejdzie na pole walki, zyskaj 1 życie."
+msgstr "Ilekroć inny stwór wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../9ED.rst:246
 msgid ""
@@ -905,8 +905,8 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the "
 "battlefield."
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole walki jako kopia dowolnego "
-"stwora znajdującego się na polu walki."
+"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
+"stwora znajdującego się na polu bitwy."
 
 #: ../../9ED.rst:340
 msgid ""
@@ -1720,7 +1720,7 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../9ED.rst:646
@@ -1945,7 +1945,7 @@ msgid ""
 "When Phyrexian Gargantua enters the battlefield, you draw two cards and you "
 "lose 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, dobierz dwie karty i strać 2 życia."
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty i strać 2 życia."
 
 #: ../../9ED.rst:724
 msgid ""
@@ -2145,7 +2145,7 @@ msgstr ""
 
 #: ../../9ED.rst:803
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../9ED.rst:808
 msgid ""
@@ -2840,7 +2840,7 @@ msgid ""
 msgstr ""
 "|mana_g|: Zregeneruj tego stwora. (Następnym razem w tej turze, gdy ten "
 "stwór miałby zostać zniszczony, zamiast tego przekręć go, usuń z niego "
-"wszystkie obrażenia i usuń go z walki.)"
+"wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../9ED.rst:1070
 msgid ""
@@ -2942,7 +2942,7 @@ msgid ""
 "|mana_g|, |tap|: You may put a creature card from your hand onto the "
 "battlefield."
 msgstr ""
-"|mana_g|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu walki."
+"|mana_g|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu bitwy."
 
 #: ../../9ED.rst:1106
 msgid ""

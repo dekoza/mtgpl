@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-19 23:33+0000\n"
+"PO-Revision-Date: 2021-02-22 09:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/emn/pl/>\n"
 "Language: pl\n"
@@ -129,7 +129,7 @@ msgstr ""
 msgid ""
 "Drownyard Behemoth has hexproof as long as it entered the battlefield this "
 "turn."
-msgstr "Ten stwór ma antyklątwę o ile wszedł na pole walki w tej turze."
+msgstr "Ten stwór ma antyklątwę o ile wszedł na pole bitwy w tej turze."
 
 #: ../../EMN.rst:42
 msgid ""
@@ -392,7 +392,7 @@ msgid ""
 "from your graveyard to the battlefield."
 msgstr ""
 "Kiedy rzucisz ten czar, możesz przywrócić wskazaną kartę Anioła lub "
-"Człowieka z twojego cmentarza na pole walki."
+"Człowieka z twojego cmentarza na pole bitwy."
 
 #: ../../EMN.rst:115
 msgid "Flying, vigilance"
@@ -484,7 +484,7 @@ msgid ""
 "of your library. You may reveal a Human card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę Człowieka i umieścić ją "
 "w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
 "kolejności."
@@ -510,7 +510,7 @@ msgid ""
 "your library in a random order."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść spośród nich co "
-"najwyżej dwie karty wędrowców na polu walki. Umieść pozostałe losowo na "
+"najwyżej dwie karty wędrowców na polu bitwy. Umieść pozostałe losowo na "
 "spodzie twojej biblioteki."
 
 #: ../../EMN.rst:162
@@ -547,7 +547,7 @@ msgid ""
 "When Drogskol Shieldmate enters the battlefield, other creatures you control "
 "get +0/+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, inne stwory pod twoim władaniem "
 "dostają do końca tury +0/+1."
 
 #: ../../EMN.rst:174
@@ -563,7 +563,7 @@ msgid ""
 "When Extricator of Sin enters the battlefield, you may sacrifice another "
 "permanent. If you do, create a 3/2 colorless Eldrazi Horror creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz poświęcić inny permanent. "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić inny permanent. "
 "Jeśli tak zrobisz, stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:173
@@ -610,8 +610,8 @@ msgid ""
 "When Faith Unbroken enters the battlefield, exile target creature an "
 "opponent controls until Faith Unbroken leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wygnaj wskazanego stwora pod władaniem "
-"przeciwnika dopóki niniejszy urok nie opuści pola walki."
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../EMN.rst:187 ../../EMN.rst:1095
 msgid "Enchanted creature gets +2/+2."
@@ -716,8 +716,8 @@ msgid ""
 "When Guardian of Pilgrims enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór dostaje do końca tury "
-"+1/+1."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
+"1/+1."
 
 #: ../../EMN.rst:220
 msgid ""
@@ -731,7 +731,7 @@ msgid ""
 "When Ironclad Slayer enters the battlefield, you may return target Aura or "
 "Equipment card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę Aury "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę Aury "
 "lub Wyposażenia z twojego cmentarza do twojej ręki."
 
 #: ../../EMN.rst:224
@@ -789,7 +789,7 @@ msgid ""
 "card to the battlefield under its owner's control with a +1/+1 counter on it."
 msgstr ""
 "Wygnaj wskazanego stwora. Na początku najbliższego kroku końcowego przywróć "
-"ową kartę z umieszczonym znacznikiem +1/+1 na pole walki pod władaniem "
+"ową kartę z umieszczonym znacznikiem +1/+1 na pole bitwy pod władaniem "
 "właściciela."
 
 #: ../../EMN.rst:244
@@ -862,7 +862,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Sanctifier of Souls gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole walki pod twoim władaniem, niniejszy "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
 "stwór dostaje do końca tury +1/+1."
 
 #: ../../EMN.rst:263
@@ -904,7 +904,7 @@ msgid ""
 "Whenever an Equipment enters the battlefield under your control, you may "
 "attach it to target creature you control."
 msgstr ""
-"Ilekroć Wyposażenie wejdzie na pole walki pod twoim władaniem, możesz "
+"Ilekroć Wyposażenie wejdzie na pole bitwy pod twoim władaniem, możesz "
 "dołączyć je do wskazanego stwora pod twoim władaniem."
 
 #: ../../EMN.rst:280
@@ -953,7 +953,7 @@ msgid ""
 "When Subjugator Angel enters the battlefield, tap all creatures your "
 "opponents control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wszystkie stwory pod "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie stwory pod "
 "władaniem twoich przeciwników."
 
 #: ../../EMN.rst:300
@@ -973,7 +973,7 @@ msgid ""
 "tapped."
 msgstr ""
 "Stwory i niebazowe lądy pod władaniem twoich przeciwników wchodzą "
-"przekręcone na pole walki."
+"przekręcone na pole bitwy."
 
 #: ../../EMN.rst:306
 msgid ""
@@ -988,7 +988,7 @@ msgid ""
 "for a legendary card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "legendarną kartę, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -1020,7 +1020,7 @@ msgid ""
 "graveyard to the battlefield tapped."
 msgstr ""
 "|mana_2|\\ |mana_u|, odrzuć dwie karty: Przywróć tę kartę z twojego "
-"cmentarza przekręconą na pole walki."
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../EMN.rst:322
 msgid ""
@@ -1147,7 +1147,7 @@ msgid ""
 "battlefield under their owner's control."
 msgstr ""
 "Wygnaj co najwyżej dwa wskazane stwory pod twoim władaniem, następnie "
-"przywróć owe karty na pole walki pod władaniem ich właścicieli."
+"przywróć owe karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../EMN.rst:356
 msgid ""
@@ -1214,7 +1214,7 @@ msgid ""
 "When Enlightened Maniac enters the battlefield, create a 3/2 colorless "
 "Eldrazi Horror creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton bezkolorowego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:378
@@ -1245,7 +1245,7 @@ msgid ""
 "When Fogwalker enters the battlefield, target creature an opponent controls "
 "doesn't untap during its controller's next untap step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika nie odkręci się podczas następnego kroku odkręcania swojego "
 "władcy."
 
@@ -1331,7 +1331,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz wygnać innego wskazanego nieżetonowego "
 "stwora. Jeśli tak zrobisz, ten stwór do końca tury staje się kopią owego "
-"stwora. Przywróć wygnaną kartę na pole walki pod władaniem jej właściciela "
+"stwora. Przywróć wygnaną kartę na pole bitwy pod władaniem jej właściciela "
 "na początku najbliższego kroku końcowego."
 
 #: ../../EMN.rst:412
@@ -1373,7 +1373,7 @@ msgstr ""
 
 #: ../../EMN.rst:421
 msgid "When Laboratory Brute enters the battlefield, mill four cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel cztery karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../EMN.rst:426
 msgid ""
@@ -1399,7 +1399,7 @@ msgid ""
 "Whenever another Spirit enters the battlefield under your control, Mausoleum "
 "Wanderer gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny Duch wejdzie na pole walki pod twoim władaniem, niniejszy stwór "
+"Ilekroć inny Duch wejdzie na pole bitwy pod twoim władaniem, niniejszy stwór "
 "dostaje do końca tury +1/+1."
 
 #: ../../EMN.rst:433
@@ -1439,7 +1439,7 @@ msgid ""
 "Whenever Nebelgast Herald or another Spirit enters the battlefield under "
 "your control, tap target creature an opponent controls."
 msgstr ""
-"Ilekroć ten stwór lub inny Duch wejdzie na pole walki pod twoim władaniem, "
+"Ilekroć ten stwór lub inny Duch wejdzie na pole bitwy pod twoim władaniem, "
 "przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../EMN.rst:454
@@ -1755,7 +1755,7 @@ msgid ""
 "Rats and a creature named Midnight Scavengers, exile them, then meld them "
 "into Chittering Host."
 msgstr ""
-"Na początku walki w twojej turze, jeśli jednocześnie masz w posiadaniu i "
+"Na początku potyczki w twojej turze, jeśli jednocześnie masz w posiadaniu i "
 "władaniu tego stwora oraz stwora o nazwie Midnight Scavengers, wygnaj je, "
 "następnie połącz je tworząc Chittering Host."
 
@@ -1771,7 +1771,7 @@ msgid ""
 "When Haunted Dead enters the battlefield, create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Duch 1/1 "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 "
 "z lataniem."
 
 #: ../../EMN.rst:569
@@ -1780,7 +1780,7 @@ msgid ""
 "graveyard to the battlefield tapped."
 msgstr ""
 "|mana_1|\\ |mana_b|, odrzuć dwie karty: Przywróć niniejszą kartę z twojego "
-"cmentarza przekręconą na pole walki."
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../EMN.rst:578
 msgid ""
@@ -1851,7 +1851,7 @@ msgid ""
 "creature card with converted mana cost 3 or less from your graveyard to your "
 "hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "stwora o skróconym koszcie many 3 lub mniejszym z twojego cmentarza do "
 "twojej ręki."
 
@@ -1882,7 +1882,7 @@ msgid ""
 "When Chittering Host enters the battlefield, other creatures you control get "
 "+1/+0 and gain menace until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, inne stwory pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, inne stwory pod twoim władaniem "
 "dostają do końca tury +1/+0 oraz złowrogość."
 
 #: ../../EMN.rst:606
@@ -1905,7 +1905,7 @@ msgstr ""
 
 #: ../../EMN.rst:609
 msgid "Noosegraf Mob enters the battlefield with five +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole walki mając pięć znaczników +1/+1."
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników +1/+1."
 
 #: ../../EMN.rst:611
 msgid ""
@@ -1926,15 +1926,14 @@ msgstr ""
 msgid ""
 "When Oath of Liliana enters the battlefield, each opponent sacrifices a "
 "creature."
-msgstr ""
-"Kiedy ten urok wejdzie na pole walki, każdy przeciwnik poświęca stwora."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, każdy przeciwnik poświęca stwora."
 
 #: ../../EMN.rst:617
 msgid ""
 "At the beginning of each end step, if a planeswalker entered the battlefield "
 "under your control this turn, create a 2/2 black Zombie creature token."
 msgstr ""
-"Na początku każdego kroku końcowego, jeśli w tej turze na pole walki wszedł "
+"Na początku każdego kroku końcowego, jeśli w tej turze na pole bitwy wszedł "
 "wędrowiec pod twoim władaniem, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../EMN.rst:622
@@ -1976,7 +1975,7 @@ msgid ""
 "control. That creature is a black Zombie in addition to its other colors and "
 "types."
 msgstr ""
-"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
 "władaniem. Ów stwór jest dodatkowo czarnym Zombi oprócz swoich pozostałych "
 "kolorów i typów."
 
@@ -2139,7 +2138,7 @@ msgstr ""
 
 #: ../../EMN.rst:689
 msgid "When Wailing Ghoul enters the battlefield, mill two cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel dwie karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
 
 #: ../../EMN.rst:694
 msgid ""
@@ -2249,7 +2248,7 @@ msgid ""
 "When Bedlam Reveler enters the battlefield, discard your hand, then draw "
 "three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, odrzuć twoją rękę, następnie dobierz "
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, następnie dobierz "
 "trzy karty."
 
 #: ../../EMN.rst:728
@@ -2264,8 +2263,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature you control gains "
 "double strike until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, wskazany stwór pod twoim władaniem zyskuje "
-"podwójny cios do końca tury."
+"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem "
+"zyskuje podwójny cios do końca tury."
 
 #: ../../EMN.rst:732
 msgid ""
@@ -2423,8 +2422,8 @@ msgid ""
 "At the beginning of combat on your turn, you may discard a card. If you do, "
 "Furyblade Vampire gets +3/+0 until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, możesz odrzucić kartę. Jeśli tak zrobisz, "
-"ten stwór dostaje do końca tury +3/+0."
+"Na początku potyczki w twojej turze, możesz odrzucić kartę. Jeśli tak "
+"zrobisz, ten stwór dostaje do końca tury +3/+0."
 
 #: ../../EMN.rst:792
 msgid ""
@@ -2678,7 +2677,7 @@ msgid ""
 "When Smoldering Werewolf enters the battlefield, it deals 1 damage to each "
 "of up to two target creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, zadaje on każdemu z co najwyżej dwóch "
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu z co najwyżej dwóch "
 "wskazanych stworów po 1 obrażeniu."
 
 #: ../../EMN.rst:873
@@ -2739,7 +2738,7 @@ msgid ""
 "When Stensia Innkeeper enters the battlefield, tap target land an opponent "
 "controls. That land doesn't untap during its controller's next untap step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, przekręć wskazany ląd pod władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazany ląd pod władaniem "
 "przeciwnika. Ów ląd nie odkręci się podczas najbliższego kroku odkręcania "
 "swojego władcy."
 
@@ -2918,7 +2917,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skróconym koszcie many X lub "
 "mniejszym, gdzie X jest skróconym kosztem many poświęconego stwora plus 2. "
-"Umieść ową kartę na polu walki, następnie przetasuj twoją bibliotekę. Wygnaj "
+"Umieść ową kartę na polu bitwy, następnie przetasuj twoją bibliotekę. Wygnaj "
 "niniejszy czar."
 
 #: ../../EMN.rst:960
@@ -2966,7 +2965,7 @@ msgid ""
 "your library. You may reveal a creature card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić ją w "
 "twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
 "kolejności."
@@ -3041,7 +3040,7 @@ msgid ""
 "four or more card types among cards in your graveyard, create three 1/2 "
 "green Spider creature tokens with reach."
 msgstr ""
-"Delirium — Kiedy ten stwór wejdzie na pole walki, jeśli w twoim cmentarzu są "
+"Delirium — Kiedy ten stwór wejdzie na pole bitwy, jeśli w twoim cmentarzu są "
 "karty należące do przynajmniej czterech typów kart, stwórz trzy żetony "
 "zielonego stwora Pająk 1/2 z zasięgiem."
 
@@ -3131,7 +3130,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece kartę bazowego "
-"lądu, umieść ją przekręconą na polu walki, następnie przetasuj twoją "
+"lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
 "bibliotekę."
 
 #: ../../EMN.rst:1024
@@ -3182,7 +3181,7 @@ msgid ""
 "When Somberwald Stag enters the battlefield, you may have it fight target "
 "creature you don't control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, że będzie walczyć ze "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że będzie walczyć ze "
 "wskazanym stworem poza twoim władaniem."
 
 #: ../../EMN.rst:1040
@@ -3197,7 +3196,7 @@ msgid ""
 "When Spirit of the Hunt enters the battlefield, each other creature you "
 "control that's a Wolf or a Werewolf gets +0/+3 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, każdy inny stwór pod twoim władaniem "
+"Kiedy ten stwór wejdzie na pole bitwy, każdy inny stwór pod twoim władaniem "
 "będący Wilkiem lub Wilkołakiem dostaje do końca tury +0/+3."
 
 #: ../../EMN.rst:1044
@@ -3210,7 +3209,7 @@ msgstr ""
 #: ../../EMN.rst:1043
 msgid "Return all land cards from your graveyard to the battlefield tapped."
 msgstr ""
-"Przywróć wszystkie karty lądów z twojego cmentarza przekręcone na pole walki."
+"Przywróć wszystkie karty lądów z twojego cmentarza przekręcone na pole bitwy."
 
 #: ../../EMN.rst:1048
 msgid ""
@@ -3340,7 +3339,7 @@ msgid ""
 "When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf creature "
 "token."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, stwórz żeton zielonego stwora Wilk 2/2."
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../EMN.rst:1100
 msgid ""
@@ -3376,7 +3375,7 @@ msgid ""
 "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no "
 "cards in hand, Bloodhall Priest deals 2 damage to any target."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, jeśli nie masz kart w "
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, jeśli nie masz kart w "
 "ręce, ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../EMN.rst:1109
@@ -3413,7 +3412,7 @@ msgstr ""
 
 #: ../../EMN.rst:1117
 msgid "When Gisa and Geralf enters the battlefield, mill four cards."
-msgstr "Kiedy ten stwór wejdzie na pole walki, zmiel cztery karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../EMN.rst:1119
 msgid ""
@@ -3460,7 +3459,7 @@ msgid ""
 "When Heron's Grace Champion enters the battlefield, other Humans you control "
 "get +1/+1 and gain lifelink until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, pozostałe stwory typu Człowiek pod "
+"Kiedy ten stwór wejdzie na pole bitwy, pozostałe stwory typu Człowiek pod "
 "twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
 
 #: ../../EMN.rst:1142
@@ -3491,7 +3490,7 @@ msgid ""
 "more card types among cards in your graveyard, creatures with power 2 or "
 "less can't block this turn."
 msgstr ""
-"Delirium — Kiedy ten stwór wejdzie na pole walki, jeśli w twoim cmentarzu są "
+"Delirium — Kiedy ten stwór wejdzie na pole bitwy, jeśli w twoim cmentarzu są "
 "karty należące do przynajmniej czterech typów kart, stwory o sile 2 lub "
 "mniejszej nie mogą blokować w tej turze."
 
@@ -3522,7 +3521,7 @@ msgid ""
 "When Spell Queller enters the battlefield, exile target spell with converted "
 "mana cost 4 or less."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazany czar o skróconym "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazany czar o skróconym "
 "koszcie many 4 lub mniejszym."
 
 #: ../../EMN.rst:1161
@@ -3530,7 +3529,7 @@ msgid ""
 "When Spell Queller leaves the battlefield, the exiled card's owner may cast "
 "that card without paying its mana cost."
 msgstr ""
-"Kiedy ten stwór opuści pole walki, właściciel owej wygnanej karty może ją "
+"Kiedy ten stwór opuści pole bitwy, właściciel owej wygnanej karty może ją "
 "rzucić bez płacenia jej kosztu many."
 
 #: ../../EMN.rst:1170
@@ -3578,7 +3577,7 @@ msgid ""
 "Whenever this creature enters the battlefield or transforms into Ulrich of "
 "the Krallenhorde, target creature gets +4/+4 until end of turn."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole walki lub transformuje w tę formę, "
+"Ilekroć ten stwór wejdzie na pole bitwy lub transformuje w tę formę, "
 "wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../EMN.rst:1175
@@ -3642,7 +3641,7 @@ msgstr ""
 
 #: ../../EMN.rst:1191
 msgid "Cryptolith Fragment enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole walki."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../EMN.rst:1193
 msgid "|tap|: Add one mana of any color. Each player loses 1 life."
@@ -3792,7 +3791,7 @@ msgstr ""
 
 #: ../../EMN.rst:1243
 msgid "Terrarion enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole walki."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../EMN.rst:1245
 msgid ""
@@ -3806,7 +3805,7 @@ msgstr ""
 msgid ""
 "When Terrarion is put into a graveyard from the battlefield, draw a card."
 msgstr ""
-"Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola walki, dobierz "
+"Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola bitwy, dobierz "
 "kartę."
 
 #: ../../EMN.rst:1256
