@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m14/pl/>\n"
 "Language: pl\n"
@@ -1282,8 +1282,8 @@ msgid ""
 "Counter target spell with converted mana cost X. (For example, if that "
 "spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
-"Skontruj wskazany czar o skróconym koszcie many równym X. (Np. jeśli koszt "
-"owego czaru to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
+"Skontruj wskazany czar o skrócie many równym X. (Np. jeśli koszt owego czaru "
+"to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
 #: ../../M14.rst:374
 msgid ""
@@ -1437,7 +1437,7 @@ msgstr ""
 # 189810cce4414dc7903511692239f13e
 #: ../../M14.rst:419
 msgid "|mana_1|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr "|mana_1|\\ |mana_u|: Wskazany stwór zyskuje latanie do końca tury."
+msgstr "|mana_1|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../M14.rst:424
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/grn/pl/>\n"
 "Language: pl\n"
@@ -374,8 +374,8 @@ msgid ""
 "Whenever Roc Charger attacks, target attacking creature without flying gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania zyskuje "
-"latanie do końca tury."
+"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania zyskuje do "
+"końca tury latanie."
 
 #: ../../GRN.rst:136
 msgid ""
@@ -581,7 +581,7 @@ msgstr ""
 
 #: ../../GRN.rst:199
 msgid "Counter target spell with converted mana cost 4 or greater."
-msgstr "Skontruj wskazany czar o skróconym koszcie many 4 lub większym."
+msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 
 #: ../../GRN.rst:208
 msgid ""
@@ -1084,9 +1084,9 @@ msgid ""
 "the same for creature cards with converted mana costs 2 and 3. Return those "
 "cards to the battlefield."
 msgstr ""
-"Wybierz w twoim cmentarzu kartę stwora o skróconym koszcie many 1, następnie "
-"zrób to samo dla kart stworów o skróconych kosztach many 2 i 3. Przywróć owe "
-"karty na pole bitwy."
+"Wybierz w twoim cmentarzu kartę stwora o skrócie many 1, następnie zrób to "
+"samo dla kart stworów o skrótach many 2 i 3. Przywróć owe karty na pole "
+"bitwy."
 
 #: ../../GRN.rst:384
 msgid ""
@@ -1142,9 +1142,9 @@ msgid ""
 "less than or equal to the number of creature cards in your graveyard, reveal "
 "it, put it into your hand, then shuffle your library."
 msgstr ""
-"Ściółka — Wyszukaj w twojej bibliotece czarną kartę o skróconym koszcie many "
-"mniejszym lub równym liczbie kart stworów w twoim cmentarzu, ujawnij ją i "
-"umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
+"Ściółka — Wyszukaj w twojej bibliotece czarną kartę o skrócie many mniejszym "
+"lub równym liczbie kart stworów w twoim cmentarzu, ujawnij ją i umieść w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../GRN.rst:404
 msgid ""
@@ -1277,7 +1277,7 @@ msgstr ""
 
 #: ../../GRN.rst:441
 msgid "Destroy all creatures with converted mana cost 3 or less."
-msgstr "Zniszcz wszystkie stwory o skróconym koszcie many 3 lub mniejszym."
+msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
 #: ../../GRN.rst:448
 msgid ""
@@ -2000,8 +2000,8 @@ msgstr ""
 "Ściółka — Kiedy rzucisz ten czar, ujawnij X wierzchnich kart twojej "
 "biblioteki, gdzie X jest liczbą kart stworów w twoim cmentarzu. Spośród "
 "owych kart możesz umieścić na polu bitwy kartę zielonego permanentu o "
-"skróconym koszcie many X lub mniejszym. Umieść pozostałe losowo na spodzie "
-"twojej biblioteki."
+"skrócie many X lub mniejszym. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../GRN.rst:702
 msgid ""
@@ -2763,7 +2763,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ściółka — Kiedy ten stwór wejdzie na pole bitwy, stwórz po jednym żetonie "
-"czarno-zielonego stwora Insekt 1/1 za każdą kartę stwora w twoim cmentarzu."
+"czarno-zielonego stwora Owad 1/1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:963
 msgid ""
@@ -2844,9 +2844,9 @@ msgid ""
 "Multifarious, it's legendary in addition to its other types, and it has this "
 "ability."
 msgstr ""
-"|mana_x|: Ten stwór staje się kopią wskazanej karty stwora o skróconym "
-"koszcie many X w twoim cmentarzu, z wyjątkiem tego, że jego nazwa to 'Lazav, "
-"the Multifarious', jest dodatkowo legendarny oprócz swoich innych typów oraz "
+"|mana_x|: Ten stwór staje się kopią wskazanej karty stwora o skrócie many X "
+"w twoim cmentarzu, z wyjątkiem tego, że jego nazwa to 'Lazav, the "
+"Multifarious', jest dodatkowo legendarny oprócz swoich innych typów oraz "
 "posiada niniejszą zdolność."
 
 #: ../../GRN.rst:994
@@ -2866,7 +2866,7 @@ msgid ""
 "with converted mana cost X. You may choose new targets for the copy."
 msgstr ""
 "|mana_x|\\ |mana_r|, |tap|: Skopiuj wskazany czar sztuczki lub obrzędu o "
-"skróconym koszcie X pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
+"skrócie X pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../GRN.rst:1000
 msgid ""
@@ -3366,8 +3366,7 @@ msgstr ""
 msgid ""
 "−3: Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
-"–3: Zniszcz wskazany nie-lądowy permanent o skróconym koszcie many 3 lub "
-"mniejszym."
+"–3: Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
 
 #: ../../GRN.rst:1159
 msgid ""
@@ -3542,9 +3541,9 @@ msgid ""
 "converted mana cost among permanents they control to its owner's hand, then "
 "discards a card."
 msgstr ""
-"Każdy przeciwnik przywraca nie-lądowy permanent o najwyższym skróconym "
-"koszcie many spośród permanentów pod swoim władaniem do ręki właścicela, "
-"następnie odrzuca kartę."
+"Każdy przeciwnik przywraca nie-lądowy permanent o najwyższym skrócie many "
+"spośród permanentów pod swoim władaniem do ręki właścicela, następnie "
+"odrzuca kartę."
 
 #: ../../GRN.rst:1224
 msgid ""
@@ -3558,8 +3557,8 @@ msgid ""
 "Copy target instant or sorcery spell with converted mana cost 4 or less. You "
 "may choose new targets for the copy."
 msgstr ""
-"Skopiuj wskazany czar sztuczki lub obrzędu o skróconym koszcie many 4 lub "
-"mniejszym. Możesz wskazać nowe cele dla kopii."
+"Skopiuj wskazany czar sztuczki lub obrzędu o skrócie many 4 lub mniejszym. "
+"Możesz wskazać nowe cele dla kopii."
 
 #: ../../GRN.rst:1228
 msgid ""

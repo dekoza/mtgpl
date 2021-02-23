@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-23 01:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ima/pl/>\n"
 "Language: pl\n"
@@ -188,7 +188,7 @@ msgstr "Zniszcz wszystkie uroki."
 
 #: ../../IMA.rst:65
 msgid "Destroy all creatures with converted mana cost 3 or less."
-msgstr "Zniszcz wszystkie stwory o skróconym koszcie many 3 lub mniejszym."
+msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
 #: ../../IMA.rst:67
 msgid "Destroy all creatures with converted mana cost 4 or greater."
@@ -1512,8 +1512,8 @@ msgid ""
 "When Noxious Dragon dies, you may destroy target creature with converted "
 "mana cost 3 or less."
 msgstr ""
-"Kiedy ten stwór umrze, możesz zniszczyć wskazanego stwora o skróconym "
-"koszcie many 3 lub mniejszym."
+"Kiedy ten stwór umrze, możesz zniszczyć wskazanego stwora o skrócie many 3 "
+"lub mniejszym."
 
 #: ../../IMA.rst:570
 msgid ""
@@ -2439,9 +2439,8 @@ msgid ""
 "them onto the battlefield. Then shuffle the rest into your library."
 msgstr ""
 "Kiedy rzucisz ten czar, ujawnij X wierzchnich kart twojej biblioteki. Możesz "
-"spośród nich umieścić kartę nie-lądowego permanentu o skróconym koszcie many "
-"X lub mniejszym na polu bitwy. Następnie wtasuj pozostałe do twojej "
-"biblioteki."
+"spośród nich umieścić kartę nie-lądowego permanentu o skrócie many X lub "
+"mniejszym na polu bitwy. Następnie wtasuj pozostałe do twojej biblioteki."
 
 #: ../../IMA.rst:901
 msgid "Genesis Hydra enters the battlefield with X +1/+1 counters on it."

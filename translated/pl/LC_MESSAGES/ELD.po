@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:47+0100\n"
-"PO-Revision-Date: 2021-02-22 09:44+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eld/pl/>\n"
 "Language: pl\n"
@@ -332,8 +332,8 @@ msgid ""
 "battlefield."
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wskazanego władanego przez "
-"przeciwnika stwora o skróconym koszcie many 3 lub mniejszym dopóki ten "
-"artefakt nie opuści pola bitwy."
+"przeciwnika stwora o skrócie many 3 lub mniejszym dopóki ten artefakt nie "
+"opuści pola bitwy."
 
 #: ../../ELD.rst:106
 msgid ""
@@ -962,8 +962,8 @@ msgid ""
 "Counter target spell with converted mana cost 3 or less. (Then exile this "
 "card. You may cast the creature later from exile.)"
 msgstr ""
-"Skontruj wskazany czar o skróconym koszcie many 3 lub mniejszym. (Następnie "
-"wygnaj tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
+"Skontruj wskazany czar o skrócie many 3 lub mniejszym. (Następnie wygnaj tę "
+"kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:328
 msgid ""
@@ -1285,8 +1285,8 @@ msgid ""
 "Return target creature with converted mana cost X to its owner's hand. You "
 "create X 1/1 blue Faerie creature tokens with flying."
 msgstr ""
-"Przywróć wskazanego stwora o skróconym koszcie many X do ręki właściciela. "
-"Stwórz X żetonów niebieskiego stwora Wróżka 1/1 z lataniem."
+"Przywróć wskazanego stwora o skrócie many X do ręki właściciela. Stwórz X "
+"żetonów niebieskiego stwora Wróżka 1/1 z lataniem."
 
 #: ../../ELD.rst:432
 msgid ""
@@ -1663,7 +1663,7 @@ msgstr ""
 
 #: ../../ELD.rst:541
 msgid "Exile target creature with converted mana cost 3 or greater."
-msgstr "Wygnaj wskazanego stwora o skróconym koszcie many 3 lub większym."
+msgstr "Wygnaj wskazanego stwora o skrócie many 3 lub większym."
 
 #: ../../ELD.rst:548
 msgid ""
@@ -1998,7 +1998,7 @@ msgid ""
 "in hand, it gains flying until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, jeśli broniący się gracz ma co najwyżej dwie "
-"karty w ręce, ten stwór zyskuje latanie do końca tury."
+"karty w ręce, ten stwór zyskuje do końca tury latanie."
 
 #: ../../ELD.rst:658
 msgid ""
@@ -2299,8 +2299,8 @@ msgid ""
 "Gain control of target creature with converted mana cost 3 or less until end "
 "of turn. Untap that creature. It gains haste until end of turn."
 msgstr ""
-"Zyskaj do końca tury władanie nad wskazanym stworem o skróconym koszcie many "
-"3 lub mniejszym. Odkręć owego stwora. Zyskuje on pośpiech do końca tury."
+"Zyskaj do końca tury władanie nad wskazanym stworem o skrócie many 3 lub "
+"mniejszym. Odkręć owego stwora. Zyskuje on pośpiech do końca tury."
 
 #: ../../ELD.rst:748
 msgid ""
@@ -2455,8 +2455,8 @@ msgid ""
 "You may cast spells with converted mana cost less than or equal to the "
 "number of lands you control without paying their mana costs."
 msgstr ""
-"Możesz rzucać czary o skróconych kosztach many mniejszych lub równych "
-"liczbie lądów pod twoim władaniem bez płacenia ich kosztów many."
+"Możesz rzucać czary o skrótach many mniejszych lub równych liczbie lądów pod "
+"twoim władaniem bez płacenia ich kosztów many."
 
 #: ../../ELD.rst:798
 msgid ""
@@ -3679,9 +3679,9 @@ msgid ""
 "types."
 msgstr ""
 "Przywróć co najwyżej X wskazanych kart artefaktu i/lub uroku bez typu Aura o "
-"skróconym koszcie many X lub mniejszym z twojego cmentarza na pole bitwy. "
-"Jeśli X wynosi 6 lub więcej, owe permanenty są dodatkowo stworami 4/4 oprócz "
-"swoich innych typów."
+"skrócie many X lub mniejszym z twojego cmentarza na pole bitwy. Jeśli X "
+"wynosi 6 lub więcej, owe permanenty są dodatkowo stworami 4/4 oprócz swoich "
+"innych typów."
 
 #: ../../ELD.rst:1156
 msgid ""
@@ -3714,16 +3714,16 @@ msgid ""
 "Counter target spell with converted mana cost less than or equal to the "
 "number of cards in its controller's graveyard."
 msgstr ""
-"Skontruj wskazany czar o skróconym koszcie many mniejszym lub równym liczbie "
-"kart w cmentarzu jego władcy."
+"Skontruj wskazany czar o skrócie many mniejszym lub równym liczbie kart w "
+"cmentarzu jego władcy."
 
 #: ../../ELD.rst:1163
 msgid ""
 "Destroy target creature with converted mana cost less than or equal to the "
 "number of cards in its controller's graveyard."
 msgstr ""
-"Zniszcz wskazanego stwora o skróconym koszcie many mniejszym lub równym "
-"liczbie kart w cmentarzu jego władcy."
+"Zniszcz wskazanego stwora o skrócie many mniejszym lub równym liczbie kart w "
+"cmentarzu jego władcy."
 
 #: ../../ELD.rst:1170
 msgid ""
@@ -4235,8 +4235,7 @@ msgstr ""
 #: ../../ELD.rst:1337
 msgid ""
 "Whenever you cast a spell with converted mana cost 5 or greater, draw a card."
-msgstr ""
-"Ilekroć rzucisz czar o skróconym koszcie many 5 lub większym, dobierz kartę."
+msgstr "Ilekroć rzucisz czar o skrócie many 5 lub większym, dobierz kartę."
 
 #: ../../ELD.rst:1342
 msgid ""
@@ -4983,8 +4982,8 @@ msgid ""
 "Whenever Garrison Griffin attacks, target Knight you control gains flying "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany Rycerz pod twoim władaniem zyskuje "
-"latanie do końca tury."
+"Ilekroć ten stwór zaatakuje, wskazany Rycerz pod twoim władaniem zyskuje do "
+"końca tury latanie."
 
 #: ../../ELD.rst:1598
 msgid ""

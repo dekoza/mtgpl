@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:44+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/war/pl/>\n"
 "Language: pl\n"
@@ -42,7 +42,7 @@ msgid ""
 msgstr ""
 "+1: Do twojej następnej tury co najwyżej jeden wskazany artefakt nie-"
 "stworowy staje się artefaktowym stworem o sile i wytrzymałości równych "
-"swojemu skróconemu kosztowi many każdy."
+"swojemu skrótowi many każdy."
 
 #: ../../WAR.rst:13
 msgid ""
@@ -372,8 +372,7 @@ msgstr ""
 msgid ""
 "|mana_1|, |tap|: Tap target creature with converted mana cost 2 or greater."
 msgstr ""
-"|mana_1|, |tap|: Przekręć wskazanego stwora o skróconym koszcie many 2 lub "
-"większym."
+"|mana_1|, |tap|: Przekręć wskazanego stwora o skrócie many 2 lub większym."
 
 #: ../../WAR.rst:118
 msgid ""
@@ -637,8 +636,8 @@ msgid ""
 "Whenever Trusted Pegasus attacks, target attacking creature without flying "
 "gains flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania zyskuje "
-"latanie do końca tury."
+"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania zyskuje do "
+"końca tury latanie."
 
 #: ../../WAR.rst:200
 msgid ""
@@ -1432,8 +1431,8 @@ msgid ""
 "control."
 msgstr ""
 "Wskaż dowolną liczbę kart stworów i/lub wędrowców w cmentarzach. Ten czar "
-"zadaje tobie obrażenia równe łącznemu skróconemu kosztowi many owych kart. "
-"Umieść je na polu bitwy pod twoim władaniem."
+"zadaje tobie obrażenia równe łącznemu skrótowi many owych kart. Umieść je na "
+"polu bitwy pod twoim władaniem."
 
 #: ../../WAR.rst:440
 msgid ""
@@ -2206,10 +2205,10 @@ msgid ""
 msgstr ""
 "Możesz rzucić bez płacenia kosztów many co najwyżej jedną wskazaną kartę "
 "sztuczki i/lub co najwyżej jedną wskazaną kartę obrzędu z twojego cmentarza, "
-"każda o skróconym koszcie many X lub mniejszym. Jeśli czar rzucony w ten "
-"sposób miałby trafić do cmentarza w tej turze, zamiast tego wygnaj ga. Jeśli "
-"X wynosi 10 lub więcej, skopiuj dwukrotnie każdy z owych czarów. Możesz "
-"wskazać nowe cale dla kopii."
+"każda o skrócie many X lub mniejszym. Jeśli czar rzucony w ten sposób miałby "
+"trafić do cmentarza w tej turze, zamiast tego wygnaj ga. Jeśli X wynosi 10 "
+"lub więcej, skopiuj dwukrotnie każdy z owych czarów. Możesz wskazać nowe "
+"cale dla kopii."
 
 #: ../../WAR.rst:664
 msgid ""
@@ -2762,10 +2761,10 @@ msgid ""
 "this way, shuffle it. If X is 10 or more, creatures you control get +X/+X "
 "and gain haste until end of turn."
 msgstr ""
-"Wyszukaj w twojej bibliotece i/lub cmentarzu kartę stwora o skróconym "
-"koszcie many X lub niższym i umieść ją na polu bitwy. Jeśli przeszukasz "
-"twoją bibliotekę w ten sposób, przetasuj ją. Jeśli X wynosi 10 lub więcej, "
-"stwory pod twoim władaniem dostają do końca tury +X/+X oraz pośpiech."
+"Wyszukaj w twojej bibliotece i/lub cmentarzu kartę stwora o skrócie many X "
+"lub niższym i umieść ją na polu bitwy. Jeśli przeszukasz twoją bibliotekę w "
+"ten sposób, przetasuj ją. Jeśli X wynosi 10 lub więcej, stwory pod twoim "
+"władaniem dostają do końca tury +X/+X oraz pośpiech."
 
 #: ../../WAR.rst:834
 msgid ""
@@ -3143,8 +3142,8 @@ msgid ""
 msgstr ""
 "|mana_x|, |tap|, odrzuć kartę: Spójrz na X wierzchnich kart twojej "
 "biblioteki. Możesz spośród nich umieścić na polu bitwy kartę stwora o "
-"skróconym koszcie many X lub mniejszym. Umieść pozostałe losowo na spodzie "
-"twojej biblioteki."
+"skrócie many X lub mniejszym. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../WAR.rst:964
 msgid ""
@@ -3308,7 +3307,7 @@ msgstr ""
 
 #: ../../WAR.rst:1019
 msgid "Exile target permanent with converted mana cost 4 or greater."
-msgstr "Wygnaj wskazany permanent o skróconym koszcie many 4 lub większym."
+msgstr "Wygnaj wskazany permanent o skrócie many 4 lub większym."
 
 #: ../../WAR.rst:1028
 msgid ""
@@ -3595,9 +3594,9 @@ msgid ""
 "battlefield with an additional +1/+1 counter on it, then shuffle your "
 "library."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę stwora o skróconym koszcie many większym "
-"o 1 od skróconego kosztu many poświęconego stwora, umieść ową kartę na polu "
-"bitwy z dodatkowym znacznikiem +1/+1, następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę stwora o skrócie many większym o 1 od "
+"skróconego kosztu many poświęconego stwora, umieść ową kartę na polu bitwy z "
+"dodatkowym znacznikiem +1/+1, następnie przetasuj twoją bibliotekę."
 
 #: ../../WAR.rst:1122
 msgid ""
@@ -3832,9 +3831,8 @@ msgid ""
 "graveyard to the battlefield. That creature is a Vampire in addition to its "
 "other types."
 msgstr ""
-"–X: Przywróć wskazaną kartę stwora o skróconym koszcie many X z twojego "
-"cmentarza na pole bitwy. Ów stwór jest dodatkowo Wampirem oprócz swoich "
-"pozostałych typów."
+"–X: Przywróć wskazaną kartę stwora o skrócie many X z twojego cmentarza na "
+"pole bitwy. Ów stwór jest dodatkowo Wampirem oprócz swoich pozostałych typów."
 
 #: ../../WAR.rst:1184
 msgid ""
@@ -3989,7 +3987,7 @@ msgstr ""
 
 #: ../../WAR.rst:1227
 msgid "Destroy target creature with converted mana cost 3 or less."
-msgstr "Zniszcz wskazanego stwora o skróconym koszcie many 3 lub mniejszym."
+msgstr "Zniszcz wskazanego stwora o skrócie many 3 lub mniejszym."
 
 #: ../../WAR.rst:1229
 msgid "Return target creature to its owner's hand."
@@ -4356,7 +4354,7 @@ msgid ""
 "converted mana cost equal to the number of charge counters on Blast Zone."
 msgstr ""
 "|mana_3|, |tap|, poświęć ten ląd: Zniszcz każdy nie-lądowy permanent o "
-"skróconym koszcie many równym liczbie znaczników ładunku na tym lądzie."
+"skrócie many równym liczbie znaczników ładunku na tym lądzie."
 
 #: ../../WAR.rst:1350
 msgid ""

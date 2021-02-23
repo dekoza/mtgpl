@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -1574,8 +1574,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_u|: This creature gains flying "
 "until end of turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 i ma \"|mana_u|: Ten stwór zyskuje latanie do "
-"końca tury.\""
+"Zauroczony stwór dostaje +2/+2 i ma \"|mana_u|: Ten stwór zyskuje do końca "
+"tury latanie.\""
 
 #: ../../RTR.rst:528
 msgid ""
@@ -2153,9 +2153,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../RTR.rst:709
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
-msgstr ""
-"Zniszcz wskazany nie-lądowy permanent o skróconym koszcie many 3 lub "
-"mniejszym."
+msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
 
 #: ../../RTR.rst:716
 msgid ""
@@ -2474,10 +2472,9 @@ msgid ""
 "it, and put it into your hand. Then repeat this process for instant cards "
 "with converted mana costs 2 and 1. Then shuffle your library."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę sztuczki o skróconym koszcie many 3, "
-"ujawnij ją i umieść w twojej ręce. Następnie powtórz ten proces dla kart "
-"sztuczek o skróconym koszcie many 2 i 1. Następnie przetasuj twoją "
-"bibliotekę."
+"Wyszukaj w twojej bibliotece kartę sztuczki o skrócie many 3, ujawnij ją i "
+"umieść w twojej ręce. Następnie powtórz ten proces dla kart sztuczek o "
+"skrócie many 2 i 1. Następnie przetasuj twoją bibliotekę."
 
 #: ../../RTR.rst:822
 msgid ""
@@ -2782,7 +2779,7 @@ msgid ""
 "creature equal to the discarded card's converted mana cost."
 msgstr ""
 "|mana_r|, |tap|, odrzuć kartę: Ten stwór zadaje wskazanemu stworowi "
-"obrażenia równe skróconemu kosztowi many odrzuconej karty."
+"obrażenia równe skrótowi many odrzuconej karty."
 
 #: ../../RTR.rst:938
 msgid ""
@@ -2793,7 +2790,7 @@ msgstr ""
 
 #: ../../RTR.rst:935
 msgid "|mana_w|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr "|mana_w|\\ |mana_u|: Wskazany stwór zyskuje latanie do końca tury."
+msgstr "|mana_w|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../RTR.rst:937
 msgid ""

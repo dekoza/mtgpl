@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:44+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m19/pl/>\n"
 "Language: pl\n"
@@ -69,8 +69,8 @@ msgid ""
 "−2: Return target creature card with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
-"–2: Przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub mniej z "
-"twojego cmentarza na pole bitwy."
+"–2: Przywróć wskazaną kartę stwora o skrócie many 2 lub mniej z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../M19.rst:21
 msgid ""
@@ -301,7 +301,7 @@ msgstr ""
 
 #: ../../M19.rst:89
 msgid "Exile target permanent with converted mana cost 1."
-msgstr "Wygnaj wskazany permanent o skróconym koszcie many równym 1."
+msgstr "Wygnaj wskazany permanent o skrócie many równym 1."
 
 #: ../../M19.rst:94
 msgid ""
@@ -515,8 +515,8 @@ msgid ""
 "Whenever Pegasus Courser attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór zyskuje latanie "
-"do końca tury."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór zyskuje do końca "
+"tury latanie."
 
 #: ../../M19.rst:172
 msgid ""
@@ -1549,9 +1549,9 @@ msgid ""
 "the battlefield, exile it instead of putting it anywhere else."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_x|. Kiedy tak zrobisz, "
-"przywróć wskazaną kartę stwora o skróconym koszcie many X z twojego "
-"cmentarza na pole bitwy ze znacznikiem zwłok. Jeśli ów stwór miałby opuścić "
-"pole bitwy, wygnaj go zamiast umieszczać go gdziekolwiek indziej."
+"przywróć wskazaną kartę stwora o skrócie many X z twojego cmentarza na pole "
+"bitwy ze znacznikiem zwłok. Jeśli ów stwór miałby opuścić pole bitwy, wygnaj "
+"go zamiast umieszczać go gdziekolwiek indziej."
 
 #: ../../M19.rst:528
 msgid ""
@@ -3346,7 +3346,7 @@ msgid ""
 msgstr ""
 "Na początku potyczki w twojej turze możesz zapłacić |mana_g|\\ |mana_u|. "
 "Kiedy to zrobisz, umieść znacznik +1/+1 na innym wskazanym stworze pod twoim "
-"władaniem i ów stwór zyskuje latanie do końca tury."
+"władaniem i ów stwór zyskuje do końca tury latanie."
 
 #: ../../M19.rst:1150
 msgid ""

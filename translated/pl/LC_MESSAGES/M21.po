@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-22 09:56+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -33,7 +33,7 @@ msgstr "+2: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia."
 #: ../../M21.rst:11
 msgid "−X: Exile each permanent with converted mana cost X or less that's one or more colors."
 msgstr ""
-"–X: Wygnaj każdy permanent o skróconym koszcie many X lub mniejszym mający "
+"–X: Wygnaj każdy permanent o skrócie many X lub mniejszym mający "
 "przynajmniej jeden kolor."
 
 #: ../../M21.rst:13
@@ -337,8 +337,8 @@ msgstr ""
 msgid "When Idol of Endurance enters the battlefield, exile all creature cards with converted mana cost 3 or less from your graveyard until Idol of Endurance leaves the battlefield."
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wszystkie karty stworów o "
-"skróconym koszcie many 3 lub mniejszym z twojego cmentarza dopóki ten "
-"artefakt nie opuści pola bitwy."
+"skrócie many 3 lub mniejszym z twojego cmentarza dopóki ten artefakt nie "
+"opuści pola bitwy."
 
 #: ../../M21.rst:129
 msgid "|mana_1|\\ |mana_w|, |tap|: Until end of turn, you may cast a creature spell from among cards exiled with Idol of Endurance without paying its mana cost."
@@ -1226,9 +1226,7 @@ msgstr ""
 
 #: ../../M21.rst:539
 msgid "Destroy target creature or planeswalker with converted mana cost 3 or less."
-msgstr ""
-"Zniszcz wskazanego stwora lub wędrowca o skróconym koszcie many 3 lub "
-"mniejszym."
+msgstr "Zniszcz wskazanego stwora lub wędrowca o skrócie many 3 lub mniejszym."
 
 #: ../../M21.rst:546
 msgid ":mtgtip:`Fetid Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56a95546-c45a-4da5-b1e8-d5658b5b7d53.jpg?1594736117|https://scryfall.com/card/m21/98/fetid-imp?utm_source=api>`"
@@ -2209,8 +2207,8 @@ msgstr ""
 msgid "When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę stwora o skróconym koszcie many 6 lub większym, ujawnij ją, umieść w "
-"twojej ręce, następnie przetasuj twoją bibliotekę."
+"kartę stwora o skrócie many 6 lub większym, ujawnij ją, umieść w twojej "
+"ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../M21.rst:1000
 msgid ":mtgtip:`Fungal Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4037e3b2-cb62-4f88-943d-3edcd6827c23.jpg?1594736973|https://scryfall.com/card/m21/182/fungal-rebirth?utm_source=api>`"
@@ -2705,7 +2703,7 @@ msgid "When Niambi, Esteemed Speaker enters the battlefield, you may return anot
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić innego wskazanego "
 "stwora pod twoim władaniem do ręki właściciela. Jeśli tak zrobisz, zyskaj "
-"życia równe skróconemu kosztowi many owego stwora."
+"życia równe skrótowi many owego stwora."
 
 #: ../../M21.rst:1219
 msgid "|mana_1|\\ |mana_w|\\ |mana_u|, |tap|, Discard a legendary card: Draw two cards."
@@ -3358,8 +3356,8 @@ msgstr ""
 #: ../../M21.rst:1529
 msgid "Whenever you draw your second card each turn, Mystic Skyfish gains flying until end of turn."
 msgstr ""
-"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór zyskuje "
-"latanie do końca tury."
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór zyskuje do "
+"końca tury latanie."
 
 #: ../../M21.rst:1536
 msgid ":mtgtip:`Teferi's Wavecaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d67e4c42-a44f-456b-87e7-21ca56dc4630.jpg?1596250030|https://scryfall.com/card/m21/327/teferis-wavecaster?utm_source=api>`"

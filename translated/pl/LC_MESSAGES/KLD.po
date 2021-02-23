@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/kld/pl/>\n"
 "Language: pl\n"
@@ -274,7 +274,7 @@ msgid ""
 "target attacking creature gains flying until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |energy|. Jeśli tak zrobisz, "
-"inny wskazany atakujący stwór zyskuje latanie do końca tury."
+"inny wskazany atakujący stwór zyskuje do końca tury latanie."
 
 #: ../../KLD.rst:84
 msgid ""
@@ -301,8 +301,7 @@ msgstr ""
 #: ../../KLD.rst:87
 msgid ""
 "Destroy target artifact or enchantment with converted mana cost 4 or less."
-msgstr ""
-"Zniszcz wskazany artefakt lub urok o skróconym koszcie many 4 lub mniejszym."
+msgstr "Zniszcz wskazany artefakt lub urok o skrócie many 4 lub mniejszym."
 
 #: ../../KLD.rst:92
 msgid ""
@@ -1022,7 +1021,7 @@ msgid ""
 "draw a card."
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli władasz artefaktem o najwyższym "
-"skróconym koszcie many lub jednym z takowych, dobierz kartę."
+"skrócie many lub jednym z takowych, dobierz kartę."
 
 #: ../../KLD.rst:334
 msgid ""
@@ -1190,7 +1189,7 @@ msgid ""
 "Wingsmith gains flying until end of turn."
 msgstr ""
 "Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"zyskuje latanie do końca tury."
+"zyskuje do końca tury latanie."
 
 #: ../../KLD.rst:382
 msgid ""
@@ -2207,8 +2206,8 @@ msgid ""
 "converted mana cost. If you don't, you may play that card until end of turn."
 msgstr ""
 "Wskaż stwora. Wygnaj wierzchnią kartę twojej biblioteki. Możesz sprawić, że "
-"ten czar zada owemu stworowi obrażenia równe skróconemu kosztowi many "
-"wygnanej karty. Jeśli tak nie zrobisz, możesz zagrać ową kartę do końca tury."
+"ten czar zada owemu stworowi obrażenia równe skrótowi many wygnanej karty. "
+"Jeśli tak nie zrobisz, możesz zagrać ową kartę do końca tury."
 
 #: ../../KLD.rst:712
 msgid ""
@@ -3479,7 +3478,7 @@ msgstr ""
 
 #: ../../KLD.rst:1113
 msgid "|mana_u|: Dukhara Peafowl gains flying until end of turn."
-msgstr "|mana_u|: Ten stwór zyskuje latanie do końca tury."
+msgstr "|mana_u|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../KLD.rst:1120
 msgid ""

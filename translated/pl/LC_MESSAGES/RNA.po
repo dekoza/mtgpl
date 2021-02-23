@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rna/pl/>\n"
 "Language: pl\n"
@@ -105,8 +105,8 @@ msgid ""
 "Addendum — If you cast this spell during your main phase, that creature "
 "gains flying until end of turn."
 msgstr ""
-"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, ów stwór zyskuje "
-"latanie do końca tury."
+"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, ów stwór zyskuje do "
+"końca tury latanie."
 
 #: ../../RNA.rst:36
 msgid ""
@@ -2241,7 +2241,7 @@ msgstr ""
 
 #: ../../RNA.rst:741
 msgid "|mana_3|\\ |mana_u|: Steeple Creeper gains flying until end of turn."
-msgstr "|mana_3|\\ |mana_u|: Ten stwór zyskuje latanie do końca tury."
+msgstr "|mana_3|\\ |mana_u|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../RNA.rst:746
 msgid ""
@@ -2730,8 +2730,7 @@ msgid ""
 "battlefield."
 msgstr ""
 "Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, możesz umieścić "
-"kartę permanentu o skróconym koszcie many 7 lub mniejszym z twojej ręki na "
-"polu bitwy."
+"kartę permanentu o skrócie many 7 lub mniejszym z twojej ręki na polu bitwy."
 
 #: ../../RNA.rst:904
 msgid ""
@@ -3005,8 +3004,7 @@ msgstr ""
 #: ../../RNA.rst:1003
 msgid "−1: Exile target nonland permanent with converted mana cost 1 or less."
 msgstr ""
-"–1: Wygnaj wskazany nie-lądowy permanent o skróconym koszcie many 1 lub "
-"mniejszym."
+"–1: Wygnaj wskazany nie-lądowy permanent o skrócie many 1 lub mniejszym."
 
 #: ../../RNA.rst:1005
 msgid ""
@@ -3068,8 +3066,8 @@ msgid ""
 "Each opponent can't cast noncreature spells with converted mana cost greater "
 "than the number of lands that player controls."
 msgstr ""
-"Każdy z przeciwników nie może rzucać nie-stworowych czarów o skróconym "
-"koszcie many większym niż liczba lądów pod władaniem owego gracza."
+"Każdy z przeciwników nie może rzucać nie-stworowych czarów o skrócie many "
+"większym niż liczba lądów pod władaniem owego gracza."
 
 #: ../../RNA.rst:1021
 msgid ""
@@ -3173,9 +3171,9 @@ msgid ""
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|tap|, poświęć innego stwora: Wyszukaj w twojej bibliotece kartę stwora o "
-"skróconym koszcie many większym o 1 od skróconego kosztu many poświęconego "
-"stwora, umieść ową kartę na polu bitwy, następnie przetasuj twoją "
-"bibliotekę. Aktywuj jako obrzęd."
+"skrócie many większym o 1 od skróconego kosztu many poświęconego stwora, "
+"umieść ową kartę na polu bitwy, następnie przetasuj twoją bibliotekę. "
+"Aktywuj jako obrzęd."
 
 #: ../../RNA.rst:1058
 msgid ""
@@ -3809,8 +3807,8 @@ msgid ""
 "Return target creature card with converted mana cost 3 or less from your "
 "graveyard to the battlefield."
 msgstr ""
-"Przywróć wskazaną kartę stwora o skróconym koszcie many 3 lub mniejszym z "
-"twojego cmentarza na pole bitwy."
+"Przywróć wskazaną kartę stwora o skrócie many 3 lub mniejszym z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../RNA.rst:1270
 msgid ""

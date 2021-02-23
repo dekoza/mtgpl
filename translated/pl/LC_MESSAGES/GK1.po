@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:44+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk1/pl/>\n"
 "Language: pl\n"
@@ -137,9 +137,9 @@ msgid ""
 "your library. Transmute only as a sorcery.)"
 msgstr ""
 "Transmutuj |mana_1|\\ |mana_b|\\ |mana_b| (|mana_1|\\ |mana_b|\\ |mana_b|, "
-"odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę o takim samym skróconym "
-"koszcie many co ta karta, ujawnij ją i umieść w twojej ręce. Następnie "
-"przetasuj twoją biblioteką. Transmutuj tylko jako obrzęd.)"
+"odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę o takim samym skrócie "
+"many co ta karta, ujawnij ją i umieść w twojej ręce. Następnie przetasuj "
+"twoją biblioteką. Transmutuj tylko jako obrzęd.)"
 
 #: ../../GK1.rst:40
 msgid ""
@@ -811,7 +811,7 @@ msgid ""
 "Whenever you cast a blue spell, target creature gains flying until end of "
 "turn."
 msgstr ""
-"Ilekroć rzucisz niebieski czar, wskazany stwór zyskuje latanie do końca tury."
+"Ilekroć rzucisz niebieski czar, wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../GK1.rst:259
 msgid ""
@@ -910,7 +910,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ściółka — Kiedy ten stwór wejdzie na pole bitwy, stwórz po jednym żetonie "
-"czarno-zielonego stwora Insekt 1/1 za każdą kartę stwora w twoim cmentarzu."
+"czarno-zielonego stwora Owad 1/1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GK1.rst:293
 msgid ""
@@ -1034,9 +1034,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../GK1.rst:329
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
-msgstr ""
-"Zniszcz wskazany nie-lądowy permanent o skróconym koszcie many 3 lub "
-"mniejszym."
+msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
 
 #: ../../GK1.rst:336
 msgid ""
@@ -1112,8 +1110,7 @@ msgstr ""
 
 #: ../../GK1.rst:351
 msgid "Destroy each nonland permanent with converted mana cost X or less."
-msgstr ""
-"Zniszcz każdy nie-lądowy permanent o skróconym koszcie many X lub mniejszym."
+msgstr "Zniszcz każdy nie-lądowy permanent o skrócie many X lub mniejszym."
 
 #: ../../GK1.rst:362
 msgid ""
@@ -1423,7 +1420,7 @@ msgid ""
 "Daring Skyjek gains flying until end of turn."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór zyskuje latanie do końca tury."
+"stworami, niniejszy stwór zyskuje do końca tury latanie."
 
 #: ../../GK1.rst:456
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-22 09:46+0000\n"
+"PO-Revision-Date: 2021-02-23 01:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -570,8 +570,8 @@ msgstr ""
 msgid "When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with converted mana cost 4 or less."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wygnaj co najwyżej jeden wskazany "
-"nielądowy, nieżetonowy permanent poza twoim władaniem o skróconym koszcie "
-"many 4 lub mniejszym."
+"nielądowy, nieżetonowy permanent poza twoim władaniem o skrócie many 4 lub "
+"mniejszym."
 
 #: ../../ZNR.rst:237
 msgid "When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the converted mana cost of the exiled card."
@@ -986,7 +986,7 @@ msgstr ""
 
 #: ../../ZNR.rst:415
 msgid "Gain control of target creature with converted mana cost X."
-msgstr "Zyskaj władanie nad wskazanym stworem o skróconym koszcie many X."
+msgstr "Zyskaj władanie nad wskazanym stworem o skrócie many X."
 
 #: ../../ZNR.rst:422
 msgid ":mtgtip:`Maddening Cacophony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10a79733-702c-4611-b073-71db7f1158b2.jpg?1604194415|https://scryfall.com/card/znr/67/maddening-cacophony?utm_source=api>`"
@@ -1137,9 +1137,9 @@ msgstr "Podbicie |mana_4|\\ |mana_u|"
 msgid "When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with converted mana cost 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, skopiuj podczas jego rzucania twój "
-"następny rzucony w tej turze czar sztuczki lub obrzędu o skróconym koszcie "
-"many 2 lub mniejszym. Jeśli niniejszy stwór został podbity, zamiast tego "
-"skopiuj ów czar dwukrotnie. Możesz wskazać nowe cele dla owych kopii."
+"następny rzucony w tej turze czar sztuczki lub obrzędu o skrócie many 2 lub "
+"mniejszym. Jeśli niniejszy stwór został podbity, zamiast tego skopiuj ów "
+"czar dwukrotnie. Możesz wskazać nowe cele dla owych kopii."
 
 #: ../../ZNR.rst:490
 msgid ":mtgtip:`Seafloor Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/985e9696-6c76-4241-97fc-f166fe2420ce.jpg?1604231466|https://scryfall.com/card/znr/78/seafloor-stalker?utm_source=api>`"
@@ -1261,8 +1261,8 @@ msgstr ""
 msgid "When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with converted mana cost X or less. If that artifact is an Equipment, attach it to Thieving Skydiver."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zyskaj władanie "
-"nad wskazanym artefaktem o skróconym koszcie many X lub mniejszy. Jeśli ów "
-"artefakt to Wyposażenie, dołącz go do tego stwora."
+"nad wskazanym artefaktem o skrócie many X lub mniejszy. Jeśli ów artefakt to "
+"Wyposażenie, dołącz go do tego stwora."
 
 #: ../../ZNR.rst:540
 msgid ":mtgtip:`Umara Wizard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/890eee8d-a339-4143-adfa-1b17ec10c099.jpg?1604195112|https://scryfall.com/card/znr/86/umara-wizard-umara-skyfalls?utm_source=api>`"
@@ -1411,9 +1411,8 @@ msgstr ""
 #: ../../ZNR.rst:599
 msgid "Destroy target creature or planeswalker with converted mana cost 2 or less. If this spell was kicked, instead destroy target creature or planeswalker."
 msgstr ""
-"Zniszcz wskazanego stwora lub wędrowca o skróconym koszcie many 2 lub "
-"mniejszym. Jeśli ten czar został podbity, zamiast tego zniszcz wskazanego "
-"stwora lub wędrowca."
+"Zniszcz wskazanego stwora lub wędrowca o skrócie many 2 lub mniejszym. Jeśli "
+"ten czar został podbity, zamiast tego zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../ZNR.rst:606
 msgid ":mtgtip:`Coveted Prize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5afbc5d3-318f-4545-88d6-fc81e5466238.jpg?1604195385|https://scryfall.com/card/znr/95/coveted-prize?utm_source=api>`"
@@ -1424,8 +1423,7 @@ msgid "Search your library for a card, put it into your hand, then shuffle your 
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę, umieść ją w twojej ręce, następnie "
 "przetasuj twoją bibliotekę. Jeśli masz pełną drużynę, możesz rzucić z twojej "
-"ręki czar o skróconym koszcie many 4 lub mniejszym bez płacenia jego kosztu "
-"many."
+"ręki czar o skrócie many 4 lub mniejszym bez płacenia jego kosztu many."
 
 #: ../../ZNR.rst:612
 msgid ":mtgtip:`Deadly Alliance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/007a5c8c-ed0b-4844-9393-a3d25d4ffa1d.jpg?1604195436|https://scryfall.com/card/znr/96/deadly-alliance?utm_source=api>`"
@@ -1584,12 +1582,12 @@ msgstr "Wskazany przeciwnik odrzuca dwie karty."
 #: ../../ZNR.rst:681
 msgid "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
 msgstr ""
-"Przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub mniejszym z "
-"twojego cmentarza na pole bitwy."
+"Przywróć wskazaną kartę stwora o skrócie many 2 lub mniejszym z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../ZNR.rst:683
 msgid "Destroy target creature with converted mana cost 3 or less."
-msgstr "Zniszcz wskazanego stwora o skróconym koszcie many 3 lub mniejszym."
+msgstr "Zniszcz wskazanego stwora o skrócie many 3 lub mniejszym."
 
 #: ../../ZNR.rst:692
 msgid ":mtgtip:`Lithoform Blight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b36d12e-9a68-4d3d-92e8-9840cd5320bc.jpg?1604195880|https://scryfall.com/card/znr/109/lithoform-blight?utm_source=api>`"
@@ -1753,8 +1751,8 @@ msgstr ""
 #: ../../ZNR.rst:755
 msgid "Target opponent reveals their hand. You choose a card from it with converted mana cost 3 or greater. That player discards that card."
 msgstr ""
-"Wskazany gracz ujawnia swoją rękę. Wybierz z niej kartę o skróconym koszcie "
-"many 3 lub większym. Ów gracz odrzuca ową kartę."
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej kartę o skrócie many 3 lub "
+"większym. Ów gracz odrzuca ową kartę."
 
 #: ../../ZNR.rst:762
 msgid ":mtgtip:`Pelakka Caverns<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`"
@@ -1815,8 +1813,8 @@ msgstr ""
 #: ../../ZNR.rst:785
 msgid "Exile all creatures and all planeswalkers with converted mana cost 3 or less from the battlefield and all creature and planeswalker cards with converted mana cost 3 or less from all graveyards."
 msgstr ""
-"Wygnaj wszystkie stwory i wszystkich wędrowców o skróconych kosztach many 3 "
-"lub mniejszych z pola bitwy oraz wszystkie karty stworów i karty wędrowców o "
+"Wygnaj wszystkie stwory i wszystkich wędrowców o skrótach many 3 lub "
+"mniejszych z pola bitwy oraz wszystkie karty stworów i karty wędrowców o "
 "kosztach many 3 lub mniejszy z cmentarzy."
 
 #: ../../ZNR.rst:796
@@ -1866,8 +1864,8 @@ msgstr ""
 #: ../../ZNR.rst:805
 msgid "Each opponent sacrifices a creature or planeswalker with the highest converted mana cost among creatures and planeswalkers they control."
 msgstr ""
-"Każdy przeciwnik poświęca stwora lub wędrowca o największym skróconym "
-"koszcie many spośród stworów i wędrowców pod swoim władaniem."
+"Każdy przeciwnik poświęca stwora lub wędrowca o największym skrócie many "
+"spośród stworów i wędrowców pod swoim władaniem."
 
 #: ../../ZNR.rst:814
 msgid ":mtgtip:`Subtle Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d3f531a-ce45-4cba-be24-6db749e38abd.jpg?1604196642|https://scryfall.com/card/znr/128/subtle-strike?utm_source=api>`"
@@ -3311,8 +3309,8 @@ msgstr ""
 msgid "−5: You may put a creature card with converted mana cost less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it."
 msgstr ""
 "–5: Możesz z twojej ręki lub cmentarza umieścić na polu bitwy kartę stwora o "
-"skróconym koszcie many równym lub mniejszym od liczby lądów pod twoim "
-"władaniem. Wchodzi z dwoma znacznikami +1/+1."
+"skrócie many równym lub mniejszym od liczby lądów pod twoim władaniem. "
+"Wchodzi z dwoma znacznikami +1/+1."
 
 #: ../../ZNR.rst:1478
 msgid ":mtgtip:`Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1610109729|https://scryfall.com/card/znr/232/omnath-locus-of-creation?utm_source=api>`"
@@ -3343,8 +3341,7 @@ msgstr "Więź życia"
 msgid "Whenever Orah, Skyclave Hierophant or another Cleric you control dies, return target Cleric card with lesser converted mana cost from your graveyard to the battlefield."
 msgstr ""
 "Kiedy umrze ten stwór lub inny Kleryk pod twoim władaniem, przywróć wskazaną "
-"kartę Kleryka o mniejszym skróconym koszcie many z twojego cmentarza na pole "
-"bitwy."
+"kartę Kleryka o mniejszym skrócie many z twojego cmentarza na pole bitwy."
 
 #: ../../ZNR.rst:1490
 msgid ":mtgtip:`Phylath, World Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7af88c9-70ca-484c-bddf-b705e0ea7bc7.jpg?1604200396|https://scryfall.com/card/znr/234/phylath-world-sculptor?utm_source=api>`"
