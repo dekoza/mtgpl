@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-23 19:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh1/pl/>\n"
 "Language: pl\n"
@@ -1062,18 +1062,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:329
-#, fuzzy
-#| msgid ""
-#| "Whenever another snow permanent enters the battlefield under your "
-#| "control, you may have target player put the top two cards of their "
-#| "library into their graveyard."
 msgid ""
 "Whenever another snow permanent enters the battlefield under your control, "
 "you may have target player mill two cards."
 msgstr ""
 "Ilekroć inny śnieżny permanent wejdzie na pole bitwy pod twoim władaniem, "
-"możesz sprawić, że wskazany gracz umieść dwie wierzchnie karty swojej "
-"biblioteki w swoim cmentarzu."
+"możesz sprawić, że wskazany gracz zmieli dwie karty."
 
 #: ../../MH1.rst:334
 msgid ""
@@ -1209,9 +1203,9 @@ msgid ""
 "toughness 3/3, gain flying, and become blue Illusions in addition to their "
 "other colors and types."
 msgstr ""
-"Do końca tury, każdy z co co najwyżej dwóch wskazanych stworów ma bazowe "
-"siłę i wytrzymałość 3/3, zyskuje latanie i staje się dodatkowo niebieską "
-"Iluzją oprócz swoich innych kolorów i typów."
+"Do końca tury, każdy z co najwyżej dwóch wskazanych stworów ma bazowe siłę i "
+"wytrzymałość 3/3, zyskuje latanie i staje się dodatkowo niebieską Iluzją "
+"oprócz swoich innych kolorów i typów."
 
 #: ../../MH1.rst:376
 msgid ""
@@ -1354,18 +1348,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:423
-#, fuzzy
-#| msgid ""
-#| "Target player puts the top four cards of their library into their "
-#| "graveyard. You shuffle up to four cards from your graveyard into your "
-#| "library."
 msgid ""
 "Target player mills four cards. You shuffle up to four cards from your "
 "graveyard into your library."
 msgstr ""
-"Wskazany gracz umieszcza cztery wierzchnie karty swojej biblioteki w swoim "
-"cmentarzu. Wtasuj co najwyżej cztery karty z twojego cmentarza do twojej "
-"biblioteki.."
+"Wskazany gracz mieli cztery karty. Wtasuj co najwyżej cztery karty z twojego "
+"cmentarza do twojej biblioteki."
 
 #: ../../MH1.rst:425
 msgid ""
@@ -3642,12 +3630,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1141
-#, fuzzy
-#| msgid ""
-#| "Exile the top six cards of your library. You may cast up to two sorcery "
-#| "cards with converted mana cost 3 or less from among them without paying "
-#| "their mana costs. Put the exiled cards not cast this way on the bottom of "
-#| "your library in a random order."
 msgid ""
 "Exile the top six cards of your library. You may cast up to two sorcery "
 "spells with converted mana cost 3 or less from among them without paying "
@@ -3655,7 +3637,7 @@ msgid ""
 "your library in a random order."
 msgstr ""
 "Wygnaj sześć wierzchnich kart twojej biblioteki. Możesz rzucić spośród nich "
-"co najwyżej dwie karty obrzędu o skrócie many 3 lub mniejszym bez płacenia "
+"co najwyżej dwa czary obrzędu o skrócie many 3 lub mniejszym bez płacenia "
 "ich kosztu many. Umieść nie rzucone z tych wygnanych kart losowo na spodzie "
 "twojej biblioteki."
 
@@ -3859,19 +3841,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1215
-#, fuzzy
-#| msgid ""
-#| "During each of your turns, you may cast an instant or sorcery card from "
-#| "your graveyard. If a card cast this way would be put into your graveyard, "
-#| "exile it instead."
 msgid ""
 "During each of your turns, you may cast an instant or sorcery spell from "
 "your graveyard. If a spell cast this way would be put into your graveyard, "
 "exile it instead."
 msgstr ""
-"W trakcie każdej ze swoich tur możesz rzucić kartę sztuczki lub obrzędu z "
-"twojego cmentarza. Jeśli karta rzucona w ten sposób miałaby zostać "
-"umieszczona w twoim cmentarzu, zamiast tego wygnaj ją."
+"W trakcie każdej ze swoich tur możesz rzucić czar sztuczki lub obrzędu z "
+"twojego cmentarza. Jeśli czar rzucony w ten sposób miałby zostać umieszczona "
+"w twoim cmentarzu, zamiast tego wygnaj ją."
 
 #: ../../MH1.rst:1220
 msgid ""
@@ -4073,17 +4050,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1281
-#, fuzzy
-#| msgid ""
-#| "Sacrifice a creature: Target player puts a number of cards equal to the "
-#| "sacrificed creature's power from the top of their library into their "
-#| "graveyard."
 msgid ""
 "Sacrifice a creature: Target player mills cards equal to the sacrificed "
 "creature's power."
 msgstr ""
-"Poświęć stwora: Wskazany gracz umieszcza w swoim cmentarzu liczbę kart z "
-"wierzchu swojej biblioteki równą sile poświęconego stwora."
+"Poświęć stwora: Wskazany gracz mieli tyle kart, ile wynosiła siła "
+"poświęconego stwora."
 
 #: ../../MH1.rst:1288
 msgid ""

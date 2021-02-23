@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-23 19:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -371,12 +371,17 @@ msgid ""
 "your library, then put one of them into your hand and the rest on the bottom "
 "of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
+"twojej biblioteki, następnie umieść jedną z nich w twojej ręce, a pozostałe "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../DIS.rst:131
 msgid ""
 "When Court Hussar enters the battlefield, sacrifice it unless |mana_w| was "
 "spent to cast it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
+"została wydana |mana_w|."
 
 #: ../../DIS.rst:138
 msgid ""
@@ -2194,13 +2199,15 @@ msgstr ""
 
 #: ../../DIS.rst:791
 msgid "|mana_2|\\ |mana_w|: Tap target creature."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|: Przekręć wskazanego stwora."
 
 #: ../../DIS.rst:793
 msgid ""
 "|mana_2|\\ |mana_u|: Counter target activated ability. (Mana abilities can't "
 "be targeted.)"
 msgstr ""
+"|mana_2|\\ |mana_u|: Skontruj wskazaną aktywowaną zdolność. (Zdolności "
+"dające manę nie mogą być wskazywane.)"
 
 #: ../../DIS.rst:798
 msgid ""
@@ -2232,6 +2239,9 @@ msgid ""
 "creates X 1/1 white and blue Bird creature tokens with flying, where X is "
 "the spell's converted mana cost."
 msgstr ""
+"Ilekroć gracz rzuci nie-stworowy czar, skontruj ów czar. Ów gracz tworzy X "
+"żetonów biało-niebieskiego stwora Ptak 1/1 z lataniem, gdzie X jest skrótem "
+"many owego czaru."
 
 #: ../../DIS.rst:810
 msgid ""

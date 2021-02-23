@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-23 19:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -2931,17 +2931,12 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:1049
-#, fuzzy
-#| msgid ""
-#| "Sacrifice a creature: Target player puts a number of cards equal to the "
-#| "sacrificed creature's power from the top of their library into their "
-#| "graveyard."
 msgid ""
 "Sacrifice a creature: Target player mills cards equal to the sacrificed "
 "creature's power."
 msgstr ""
-"Poświęć stwora: Wskazany gracz umieszcza w swoim cmentarzu liczbę kart z "
-"wierzchu swojej biblioteki równą sile poświęconego stwora."
+"Poświęć stwora: Wskazany gracz mieli tyle kart, ile wynosiła siła "
+"poświęconego stwora."
 
 #: ../../CNS.rst:1058
 msgid ""
