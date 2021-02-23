@@ -21,7 +21,7 @@ Ręczna instalacja tłumaczenia
 3. Na samym dole danego wydania jest sekcja Assets, rozwiń ją.
 4. Pobierz plik, którego nazwa zaczyna się od ``MTGA_DATA`` - tam są pliki używane przez grę.
 5. Znajdź katalog instalacji gry na swoim komputerze. Domyślnie powinien to być ``C:\Program Files\Wizards of the Coast\MTGA\``
-6. Wewnątrz znajduje się katalog ``MTGA_Data``. Skopiuj znajdujące się w nim katalogi ``Data`` oraz ``Loc`` w jakieś bezpieczne miejsce.
+6. Wewnątrz znajduje się katalog ``MTGA_Data``. Skopiuj znajdujące się w nim katalogi ``Data`` oraz ``Loc`` w jakieś bezpieczne miejsce. Niczego nie przenoś ani nie kasuj! Nie wszystkie pliki zostaną podmienione i reszta ma zostać!
 7. Rozpakuj pobrane archiwum. Jego struktura odzwierciedla zawartość powyższego katalogu ``MTGA_Data`` - przekopiuj pliki w odpowiednie miejsca nadpisując oryginalne plilki.
 8. Uruchom grę. Wejdź do opcji (trybik na górze po prawej), wybierz Graphic. Rozwiń listę opcji "Locale" - w miejscu portugalskiego powinna być opcja ``Polski + English``,
    a w miejscu francuskiego – ``Pl + En (DEBUG)``. Pierwsza opcja jest dla normalnych graczy. Teksty, które nie zostały jeszcze przetłumaczone na polski będą się wyświetlać po angielsku
