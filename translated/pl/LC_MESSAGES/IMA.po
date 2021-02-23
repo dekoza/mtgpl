@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:42+0000\n"
+"PO-Revision-Date: 2021-02-23 19:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ima/pl/>\n"
 "Language: pl\n"
@@ -3034,10 +3034,8 @@ msgid ""
 msgstr ""
 
 #: ../../IMA.rst:1111
-#, fuzzy
-#| msgid "Target player sacrifices an attacking creature."
 msgid "Target player mills ten cards."
-msgstr "Wskazany gracz poświęca atakującego stwora."
+msgstr "Wskazany gracz mieli dziesięć kart."
 
 #: ../../IMA.rst:1118
 msgid ""
