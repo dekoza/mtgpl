@@ -3,6 +3,7 @@ Pionier
 *******
 
 .. include:: progress.rst
+.. include:: percentages.inc
 
 Standard
 --------
@@ -21,35 +22,35 @@ Standard jest ich podzbiorem.
 Dodatki poza Standardem
 -----------------------
 
-* :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |p100|
-* :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |p100|
-* :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
-* :mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|
-* :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|
-* :mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|
-* :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p100|
-* :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p100|
-* :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p100|
-* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p100|
-* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p100|
-* :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p100|
-* :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p100|
-* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p100|
-* :mtgexp:`ORI` :doc:`Origins<ORI>` |p100|
-* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p100|
-* :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|
-* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p100|
-* :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p100|
-* :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|
-* :mtgexp:`THS` :doc:`Theros<THS>` |p100|
-* :mtgexp:`DGM` :doc:`Dragon's Maze<DGM>` |p100|
-* :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|
-* :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|
+* :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |WAR_percent|
+* :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |RNA_percent|
+* :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |GRN_percent|
+* :mtgexp:`DOM` :doc:`Dominaria<DOM>` |DOM_percent|
+* :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |RIX_percent|
+* :mtgexp:`XLN` :doc:`Ixalan<XLN>` |XLN_percent|
+* :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |HOU_percent|
+* :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |AKH_percent|
+* :mtgexp:`AER` :doc:`Aether Revolt<AER>` |AER_percent|
+* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |KLD_percent|
+* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |EMN_percent|
+* :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |SOI_percent|
+* :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |OGW_percent|
+* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |BFZ_percent|
+* :mtgexp:`ORI` :doc:`Origins<ORI>` |ORI_percent|
+* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |DTK_percent|
+* :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |FRF_percent|
+* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |KTK_percent|
+* :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |JOU_percent|
+* :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |BNG_percent|
+* :mtgexp:`THS` :doc:`Theros<THS>` |THS_percent|
+* :mtgexp:`DGM` :doc:`Dragon's Maze<DGM>` |DGM_percent|
+* :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |GTC_percent|
+* :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |RTR_percent|
 
 Edycje bazowe
 -------------
 
-* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |p100|
-* :mtgexp:`M19` :doc:`Core Set 2019<M19>` |p100|
-* :mtgexp:`M15` :doc:`Magic 2015<M15>` |p100|
-* :mtgexp:`M14` :doc:`Magic 2014<M14>` |p100|
+* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |M20_percent|
+* :mtgexp:`M19` :doc:`Core Set 2019<M19>` |M19_percent|
+* :mtgexp:`M15` :doc:`Magic 2015<M15>` |M15_percent|
+* :mtgexp:`M14` :doc:`Magic 2014<M14>` |M14_percent|

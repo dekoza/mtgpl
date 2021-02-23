@@ -1,4 +1,5 @@
 .. include:: progress.rst
+.. include:: percentages.inc
 
 ***************************************************
  Nieoficjalne tłumaczenie gry Magic: The Gathering
@@ -40,12 +41,12 @@ Nadchodzące
 Standard
 --------
 
-* :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |p100|
-* :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |p100|
-* :mtgexp:`M21` :doc:`Core Set 2021<M21>` |p100|
-* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |p100|
-* :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |p100|
-* :mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |p100|
+* :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
+* :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|
+* :mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|
+* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |IKO_percent|
+* :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|
+* :mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |ELD_percent|
 
 Pioneer
 -------
@@ -63,7 +64,7 @@ Modern jest jednym z formatów pozbawionych rotacji. Należą do niego wszystkie
 
 Oprócz tego format otrzymał specjalny dodatek, który nigdy nie był częścią Standardu:
 
-* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |p100|
+* :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |MH1_percent|
 
 Legacy / Vintage
 ----------------
@@ -82,51 +83,51 @@ Jumpstart
 
 Jumpstart jest ciekawym sposobem na szybką grę w MTG. Dodatek zwiera niemal 500 przedruków z innych dodatków. Oprócz tego zawiera 37 nowych kart legalnych tylko w formatach Eternal (Legacy, Vintage, Commander). Karty z symbolem :mtgexp:`M21` są legalne w Standardzie 2021.
 
-* :mtgexp:`JMP` :doc:`Jumpstart<JMP>` |p100|
+* :mtgexp:`JMP` :doc:`Jumpstart<JMP>` |JMP_percent|
 
 Zestawy gildyjne
 ----------------
 
-* :mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` |p25|
-* :mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |p100|
+* :mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` |GK2_percent|
+* :mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |GK1_percent|
 
 
 Seria 'Masters'
 ---------------
 
-* :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |p25|
-* :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 |p25|
-* :mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 |p25|
-* :mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` |p25|
-* :mtgexp:`EMA` :doc:`Eternal Masters<EMA>` 2016 |p25|
-* :mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` |p25|
-* :mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 |p25|
+* :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |UMA_percent|
+* :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 |A25_percent|
+* :mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 |IMA_percent|
+* :mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` |MM3_percent|
+* :mtgexp:`EMA` :doc:`Eternal Masters<EMA>` 2016 |EMA_percent|
+* :mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` |MM2_percent|
+* :mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 |MMA_percent|
 
 Commander i pokrewne
 --------------------
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
-* :mtgexp:`C19` :doc:`Commander 2019<C19>` |p50|
-* :mtgexp:`C18` :doc:`Commander 2018<C18>` |p25|
-* :mtgexp:`BBD` :doc:`Battlebond<BBD>` |p25|
-* :mtgexp:`C17` :doc:`Commander 2017<C17>` |p25|
-* :mtgexp:`C16` :doc:`Commander 2016<C16>` |p25|
-* :mtgexp:`C15` :doc:`Commander 2015<C15>` |p25|
-* :mtgexp:`C14` :doc:`Commander 2014<C14>` |p25|
-* :mtgexp:`C13` :doc:`Commander 2013<C13>` |p25|
+* :mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|
+* :mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|
+* :mtgexp:`BBD` :doc:`Battlebond<BBD>` |BBD_percent|
+* :mtgexp:`C17` :doc:`Commander 2017<C17>` |C17_percent|
+* :mtgexp:`C16` :doc:`Commander 2016<C16>` |C16_percent|
+* :mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|
+* :mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|
+* :mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|
 
 Conspiracy
 ----------
 
-* :mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` |p25|
-* :mtgexp:`CNS` :doc:`Conspiracy<CNS>` |p25|
+* :mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` |CN2_percent|
+* :mtgexp:`CNS` :doc:`Conspiracy<CNS>` |CNS_percent|
 
 Pozostałe produkty
 ==================
 
-* :mtgexp:`GNT` :doc:`Game Night<GNT>` |p100|
-* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |p100|
+* :mtgexp:`GNT` :doc:`Game Night<GNT>` |GNT_percent|
+* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |E02_percent|
 
 Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek.
 

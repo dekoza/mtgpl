@@ -413,9 +413,9 @@ def build():
 
     dt = date.today()
 
-    filename_base = dt.strftime("%Y.%m.%d")
+    date_part = dt.strftime("%Y.%m.%d")
     release = 1
-    while (filename := (dist_path / f"{filename_base}.{release:02d}.zip")).exists():
+    while (filename := (dist_path / f"MTGA_Data-{date_part}.{release:02d}.zip")).exists():
         release += 1
 
     with zipfile.ZipFile(
