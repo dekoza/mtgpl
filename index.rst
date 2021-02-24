@@ -36,7 +36,7 @@ Tłumaczenie dodatków
 Nadchodzące
 ------------
 
-* :mtgexp:`STX` Strixhaven: School of Mages (2021-04-23)
+* :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` (2021-04-23)
 
 Standard
 --------

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-13 20:04+0100\n"
+"POT-Creation-Date: 2021-02-24 14:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,158 +28,158 @@ msgstr ""
 msgid "UWAGA: Teksty kart poniższych dodatków tłumaczone są na podstawie ich treści z bazy wiedzy o kartach \"Oracle\", która jest głównym wyznacznikiem reguł kart. Mogą przez to znacząco odbiegać od oryginalnie wydrukowanych treści."
 msgstr ""
 
-#: ../../legacy.rst:15
+#: ../../legacy.rst:17
 msgid "Dodatki"
 msgstr ""
 
-#: ../../legacy.rst:17
-msgid ":mtgexp:`SCG` :doc:`Scourge<SCG>` |p25|"
-msgstr ""
-
-#: ../../legacy.rst:18
-msgid ":mtgexp:`LGN` :doc:`Legions<LGN>` |p25|"
-msgstr ""
-
 #: ../../legacy.rst:19
-msgid ":mtgexp:`ONS` :doc:`Onslaught<ONS>` |p25|"
+msgid ":mtgexp:`SCG` :doc:`Scourge<SCG>` |SCG_percent|"
 msgstr ""
 
 #: ../../legacy.rst:20
-msgid ":mtgexp:`JUD` :doc:`Judgement<JUD>` |p25|"
+msgid ":mtgexp:`LGN` :doc:`Legions<LGN>` |LGN_percent|"
 msgstr ""
 
 #: ../../legacy.rst:21
-msgid ":mtgexp:`TOR` :doc:`Torment<TOR>` |p25|"
+msgid ":mtgexp:`ONS` :doc:`Onslaught<ONS>` |ONS_percent|"
 msgstr ""
 
 #: ../../legacy.rst:22
-msgid ":mtgexp:`ODY` :doc:`Odyssey<ODY>` |p25|"
+msgid ":mtgexp:`JUD` :doc:`Judgement<JUD>` |JUD_percent|"
 msgstr ""
 
 #: ../../legacy.rst:23
-msgid ":mtgexp:`APC` :doc:`Apocalypse<APC>` |p25|"
+msgid ":mtgexp:`TOR` :doc:`Torment<TOR>` |TOR_percent|"
 msgstr ""
 
 #: ../../legacy.rst:24
-msgid ":mtgexp:`PLS` :doc:`Planeshift<PLS>` |p25|"
+msgid ":mtgexp:`ODY` :doc:`Odyssey<ODY>` |ODY_percent|"
 msgstr ""
 
 #: ../../legacy.rst:25
-msgid ":mtgexp:`INV` :doc:`Invasion<INV>` |p25|"
+msgid ":mtgexp:`APC` :doc:`Apocalypse<APC>` |APC_percent|"
 msgstr ""
 
 #: ../../legacy.rst:26
-msgid ":mtgexp:`PCY` :doc:`Prophecy<PCY>` |p25|"
+msgid ":mtgexp:`PLS` :doc:`Planeshift<PLS>` |PLS_percent|"
 msgstr ""
 
 #: ../../legacy.rst:27
-msgid ":mtgexp:`NEM` :doc:`Nemesis<NEM>` |p25|"
+msgid ":mtgexp:`INV` :doc:`Invasion<INV>` |INV_percent|"
 msgstr ""
 
 #: ../../legacy.rst:28
-msgid ":mtgexp:`MMQ` :doc:`Mercadian Masques<MMQ>` |p25|"
+msgid ":mtgexp:`PCY` :doc:`Prophecy<PCY>` |PCY_percent|"
 msgstr ""
 
 #: ../../legacy.rst:29
-msgid ":mtgexp:`UDS` :doc:`Urza's Destiny<UDS>` |p25|"
+msgid ":mtgexp:`NEM` :doc:`Nemesis<NEM>` |NEM_percent|"
 msgstr ""
 
 #: ../../legacy.rst:30
-msgid ":mtgexp:`ULG` :doc:`Urza's Legacy<ULG>` |p25|"
+msgid ":mtgexp:`MMQ` :doc:`Mercadian Masques<MMQ>` |MMQ_percent|"
 msgstr ""
 
 #: ../../legacy.rst:31
-msgid ":mtgexp:`USG` :doc:`Urza's Saga<USG>` |p25|"
+msgid ":mtgexp:`UDS` :doc:`Urza's Destiny<UDS>` |UDS_percent|"
 msgstr ""
 
 #: ../../legacy.rst:32
-msgid ":mtgexp:`EXO` :doc:`Exodus<EXO>` |p25|"
+msgid ":mtgexp:`ULG` :doc:`Urza's Legacy<ULG>` |ULG_percent|"
 msgstr ""
 
 #: ../../legacy.rst:33
-msgid ":mtgexp:`STH` :doc:`Stronghold<STH>` |p25|"
+msgid ":mtgexp:`USG` :doc:`Urza's Saga<USG>` |USG_percent|"
 msgstr ""
 
 #: ../../legacy.rst:34
-msgid ":mtgexp:`TMP` :doc:`Tempest<TMP>` |p25|"
+msgid ":mtgexp:`EXO` :doc:`Exodus<EXO>` |EXO_percent|"
 msgstr ""
 
 #: ../../legacy.rst:35
-msgid ":mtgexp:`WTH` :doc:`Weatherlight<WTH>` |p25|"
+msgid ":mtgexp:`STH` :doc:`Stronghold<STH>` |STH_percent|"
 msgstr ""
 
 #: ../../legacy.rst:36
-msgid ":mtgexp:`VIS` :doc:`Visions<VIS>` |p25|"
+msgid ":mtgexp:`TMP` :doc:`Tempest<TMP>` |TMP_percent|"
 msgstr ""
 
 #: ../../legacy.rst:37
-msgid ":mtgexp:`MIR` :doc:`Mirage<MIR>` |p25|"
+msgid ":mtgexp:`WTH` :doc:`Weatherlight<WTH>` |WTH_percent|"
 msgstr ""
 
 #: ../../legacy.rst:38
-msgid ":mtgexp:`ALL` :doc:`Alliances<ALL>` |p25|"
+msgid ":mtgexp:`VIS` :doc:`Visions<VIS>` |VIS_percent|"
 msgstr ""
 
 #: ../../legacy.rst:39
-msgid ":mtgexp:`HML` :doc:`Homelands<HML>` |p25|"
+msgid ":mtgexp:`MIR` :doc:`Mirage<MIR>` |MIR_percent|"
 msgstr ""
 
 #: ../../legacy.rst:40
-msgid ":mtgexp:`ICE` :doc:`Ice Age<ICE>` |p25|"
+msgid ":mtgexp:`ALL` :doc:`Alliances<ALL>` |ALL_percent|"
 msgstr ""
 
 #: ../../legacy.rst:41
-msgid ":mtgexp:`FEM` :doc:`Fallen Empires<FEM>` |p25|"
+msgid ":mtgexp:`HML` :doc:`Homelands<HML>` |HML_percent|"
 msgstr ""
 
 #: ../../legacy.rst:42
-msgid ":mtgexp:`DRK` :doc:`The Dark<DRK>` |p25|"
+msgid ":mtgexp:`ICE` :doc:`Ice Age<ICE>` |ICE_percent|"
 msgstr ""
 
 #: ../../legacy.rst:43
-msgid ":mtgexp:`LEG` :doc:`Legends<LEG>` |p25|"
+msgid ":mtgexp:`FEM` :doc:`Fallen Empires<FEM>` |FEM_percent|"
 msgstr ""
 
 #: ../../legacy.rst:44
-msgid ":mtgexp:`ATQ` :doc:`Antiquities<ATQ>` |p25|"
+msgid ":mtgexp:`DRK` :doc:`The Dark<DRK>` |DRK_percent|"
 msgstr ""
 
 #: ../../legacy.rst:45
-msgid ":mtgexp:`ARN` :doc:`Arabian Nights<ARN>` |p25|"
+msgid ":mtgexp:`LEG` :doc:`Legends<LEG>` |LEG_percent|"
 msgstr ""
 
-#: ../../legacy.rst:48
-msgid "Edycje bazowe"
+#: ../../legacy.rst:46
+msgid ":mtgexp:`ATQ` :doc:`Antiquities<ATQ>` |ATQ_percent|"
 msgstr ""
 
-#: ../../legacy.rst:50
-msgid ":mtgexp:`7ED` :doc:`Seventh Edition<7ED>` |p25|"
+#: ../../legacy.rst:47
+msgid ":mtgexp:`ARN` :doc:`Arabian Nights<ARN>` |ARN_percent|"
 msgstr ""
 
 #: ../../legacy.rst:51
-msgid ":mtgexp:`6ED` :doc:`Sixth Edition<6ED>` |p25|"
-msgstr ""
-
-#: ../../legacy.rst:52
-msgid ":mtgexp:`5ED` :doc:`Fifth Edition<5ED>` |p25|"
+msgid "Edycje bazowe"
 msgstr ""
 
 #: ../../legacy.rst:53
-msgid ":mtgexp:`4ED` :doc:`Fourth Edition<4ED>` |p25|"
+msgid ":mtgexp:`7ED` :doc:`Seventh Edition<7ED>` |7ED_percent|"
 msgstr ""
 
 #: ../../legacy.rst:54
-msgid ":mtgexp:`3ED` :doc:`Revised Edition<3ED>` |p25|"
+msgid ":mtgexp:`6ED` :doc:`Sixth Edition<6ED>` |6ED_percent|"
 msgstr ""
 
 #: ../../legacy.rst:55
-msgid ":mtgexp:`2ED` :doc:`Unlimited Edition<2ED>` |p25|"
+msgid ":mtgexp:`5ED` :doc:`Fifth Edition<5ED>` |5ED_percent|"
 msgstr ""
 
 #: ../../legacy.rst:56
-msgid ":mtgexp:`LEB` :doc:`Beta (Limited Edition)<LEB>` |p25|"
+msgid ":mtgexp:`4ED` :doc:`Fourth Edition<4ED>` |4ED_percent|"
 msgstr ""
 
 #: ../../legacy.rst:57
-msgid ":mtgexp:`LEA` :doc:`Alpha (Limited Edition)<LEA>` |p25|"
+msgid ":mtgexp:`3ED` :doc:`Revised Edition<3ED>` |3ED_percent|"
+msgstr ""
+
+#: ../../legacy.rst:58
+msgid ":mtgexp:`2ED` :doc:`Unlimited Edition<2ED>` |2ED_percent|"
+msgstr ""
+
+#: ../../legacy.rst:59
+msgid ":mtgexp:`LEB` :doc:`Beta (Limited Edition)<LEB>` |LEB_percent|"
+msgstr ""
+
+#: ../../legacy.rst:60
+msgid ":mtgexp:`LEA` :doc:`Alpha (Limited Edition)<LEA>` |LEA_percent|"
 msgstr ""
