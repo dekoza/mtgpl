@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-20 10:54+0200\n"
-"PO-Revision-Date: 2021-02-20 12:51+0000\n"
+"PO-Revision-Date: 2021-02-24 09:10+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/quests/"
 "pl/>\n"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Boros_Vigor_Text"
 msgid "Cast {quantity} red or white spells."
-msgstr ""
+msgstr "Rzuć {quantity} czerwonych lub białych czarów."
 
 msgctxt "Quests/Quest_Creature_Champion_Text"
 msgid "Cast {quantity} creature spells."
@@ -163,7 +163,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Dimir_Cunning_Text"
 msgid "Win {quantity} games with a blue-black deck."
-msgstr ""
+msgstr "Wygraj {quantity} gier niebiesko-czarną talią."
 
 msgctxt "Quests/Quest_Dimir_Cunning_Title"
 msgid "Dimir Cunning"
@@ -203,7 +203,7 @@ msgstr "Rzuć {quantity} czarnych lub zielonych czarów."
 
 msgctxt "Quests/Quest_Golgari_Salvage_Text"
 msgid "Win {quantity} games with a black-green deck."
-msgstr ""
+msgstr "Wygraj {quantity} gier czarno-zieloną talią."
 
 msgctxt "Quests/Quest_Golgari_Salvage_Title"
 msgid "Golgari Salvage"
@@ -215,7 +215,7 @@ msgstr "Rzuć {quantity} czerwonych lub zielonych czarów."
 
 msgctxt "Quests/Quest_Gruul_OnSlaught_Text"
 msgid "Win {quantity} games with a red-green deck."
-msgstr ""
+msgstr "Wygraj {quantity} gier czerwono-zieloną talią."
 
 msgctxt "Quests/Quest_Gruul_OnSlaught_Title"
 msgid "Gruul Onslaught"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Izzet_Chronarch_Text"
 msgid "Cast {quantity} blue or red spells."
-msgstr ""
+msgstr "Rzuć {quantity} niebieskich lub czerwonych czarów."
 
 msgctxt "Quests/Quest_Izzet_Chronarch_Title"
 msgid "Izzet Chronarch"
@@ -239,11 +239,11 @@ msgstr ""
 
 msgctxt "Quests/Quest_Izzet_Comprehension_Text"
 msgid "Cast {quantity} blue or red spells."
-msgstr ""
+msgstr "Rzuć {quantity} niebieskich lub czerwonych czarów."
 
 msgctxt "Quests/Quest_Izzet_Genius_Text"
 msgid "Win {quantity} games with a blue-red deck."
-msgstr ""
+msgstr "Wygraj {quantity} gier niebiesko-czerwoną talią."
 
 msgctxt "Quests/Quest_Izzet_Genius_Title"
 msgid "Izzet Genius"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Orzhov_Advokist_Text"
 msgid "Cast {quantity} white or black spells."
-msgstr ""
+msgstr "Rzuć {quantity} białych lub czarnych czarów."
 
 msgctxt "Quests/Quest_Orzhov_Advokist_Title"
 msgid "Orzhov Advokist"
@@ -283,11 +283,11 @@ msgstr ""
 
 msgctxt "Quests/Quest_Orzhov_Domination_Text"
 msgid "Cast {quantity} white or black spells."
-msgstr ""
+msgstr "Rzuć {quantity} białych lub czarnych czarów."
 
 msgctxt "Quests/Quest_Orzhov_Obedience_Text"
 msgid "Win {quantity} games with a white-black deck."
-msgstr ""
+msgstr "Wygraj {quantity} gier biało-czarną talią."
 
 msgctxt "Quests/Quest_Orzhov_Obedience_Title"
 msgid "Orzhov Obedience"
@@ -295,7 +295,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Raiding_Party_Text"
 msgid "Attack with {quantity} creatures."
-msgstr ""
+msgstr "Zaatakuj {quantity} stworami."
 
 msgctxt "Quests/Quest_Raiding_Party_Title"
 msgid "Raiding Party"
@@ -303,7 +303,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Rakdos_Cackler_Text"
 msgid "Cast {quantity} black or red spells."
-msgstr ""
+msgstr "Rzuć {quantity} czarnych lub czerwonych czarów."
 
 msgctxt "Quests/Quest_Rakdos_Cackler_Title"
 msgid "Rakdos Cackler"
@@ -311,7 +311,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Rakdos_Chaos_Text"
 msgid "Win {quantity} games with a black-red deck."
-msgstr ""
+msgstr "Wygraj {quantity} gier czarno-czerwoną talią."
 
 msgctxt "Quests/Quest_Rakdos_Chaos_Title"
 msgid "Rakdos Chaos"
@@ -319,15 +319,15 @@ msgstr ""
 
 msgctxt "Quests/Quest_Rakdos_Destruction_Text"
 msgid "Cast {quantity} black or red spells."
-msgstr ""
+msgstr "Rzuć {quantity} czarnych lub czerwonych czarów."
 
 msgctxt "Quests/Quest_Selesnya_Reverence_Text"
 msgid "Win {quantity} games with a white-green deck."
-msgstr ""
+msgstr "Wygraj {quantity} gier biało-zieloną talią."
 
 msgctxt "Quests/Quest_Selesnya_Sentry_Text"
 msgid "Cast {quantity} white or green spells."
-msgstr ""
+msgstr "Rzuć {quantity} białych lub zielonych czarów."
 
 msgctxt "Quests/Quest_Selesnya_Sentry_Title"
 msgid "Selesnya Sentry"
@@ -335,7 +335,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Selesnya_Silence_Text"
 msgid "Cast {quantity} green or white spells."
-msgstr ""
+msgstr "Rzuć {quantity} białych lub zielonych czarów."
 
 msgctxt "Quests/Quest_Selesyna_Reverence_Title"
 msgid "Selesnya Reverence"
@@ -355,7 +355,7 @@ msgstr ""
 
 msgctxt "Quests/Quest_Simic_Progress_Text"
 msgid "Win {quantity} games with a blue-green deck."
-msgstr ""
+msgstr "Wygraj {quantity} gier niebiesko-zieloną talią."
 
 msgctxt "Quests/Quest_Simic_Progress_Title"
 msgid "Simic Progress"
