@@ -16,14 +16,14 @@ def percent_translated(obj):
     if total == 0:
         return 100
     translated = len(obj.translated_entries())
-    return int(translated * 100 / float(total)) or 1
+    return int(translated * 100 / float(total))
 
 
 with open("percentages.inc", "w") as outfile:
     for filename in mtg_exps:
         expansion = filename[:3]
         pofile = polib.pofile(trans_dir / filename)
-        percentage = percent_translated(pofile) // 5 * 5
+        percentage = (percent_translated(pofile) // 5 * 5) or 5
         pie = f"pie{percentage:02d}" if percentage < 100 else "done"
         outfile.write(f"""
 .. |{expansion}_percent| image:: images/{pie}.png        

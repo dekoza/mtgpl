@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2021, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2021.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../TSR.rst:5
+msgid ":mtgexp:`TSR` Time Spiral Remastered"
+msgstr ""
+
+#: ../../TSR.rst:10
+msgid ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1609506086|https://scryfall.com/card/tsr/299/path-to-exile?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:9
+msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library."
+msgstr ""
+
+#: ../../TSR.rst:16
+msgid ":mtgtip:`Relentless Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28de0281-0370-44df-9ee0-6e1bb9925a92.jpg?1609506091|https://scryfall.com/card/tsr/329/relentless-rats?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:13
+msgid "Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats."
+msgstr ""
+
+#: ../../TSR.rst:15
+msgid "A deck can have any number of cards named Relentless Rats."
+msgstr ""
+
+#: ../../TSR.rst:22
+msgid ":mtgtip:`Chalice of the Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25674e46-e15b-4fc0-9813-39b4e1c23de4.jpg?1609506096|https://scryfall.com/card/tsr/390/chalice-of-the-void?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:19
+msgid "Chalice of the Void enters the battlefield with X charge counters on it."
+msgstr ""
+
+#: ../../TSR.rst:21
+msgid "Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell."
+msgstr ""
+
+#: ../../TSR.rst:30
+msgid ":mtgtip:`Cranial Plating<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd26d52d-7437-44cf-90b7-b536a5b8c94d.jpg?1612367931|https://scryfall.com/card/tsr/392/cranial-plating?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:25
+msgid "Equipped creature gets +1/+0 for each artifact you control."
+msgstr ""
+
+#: ../../TSR.rst:27
+msgid "|mana_b|\\ |mana_b|: Attach Cranial Plating to target creature you control."
+msgstr ""
+
+#: ../../TSR.rst:29
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../TSR.rst:35
+msgid ":mtgtip:`Lotus Bloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7466be25-5d41-408d-90eb-6de47ea11484.jpg?1609505974|https://scryfall.com/card/tsr/411/lotus-bloom?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:33
+msgid "Suspend 3—|mana_0| (Rather than cast this card from your hand, pay |mana_0| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+msgstr ""
+
+#: ../../TSR.rst:35
+msgid "|tap|, Sacrifice Lotus Bloom: Add three mana of any one color."
+msgstr ""

@@ -95,6 +95,8 @@ Zestawy gildyjne
 Seria 'Masters'
 ---------------
 
+* :mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` (2021-03-19)
+* :mtgexp:`2XM` :doc:`Double Masters<2XM>` |2XM_percent|
 * :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |UMA_percent|
 * :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 |A25_percent|
 * :mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 |IMA_percent|

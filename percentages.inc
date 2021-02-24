@@ -56,6 +56,9 @@
 
 .. |5DN_percent| image:: images/pie15.png        
 
+.. |STX_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
+
 .. |C19_percent| image:: images/pie60.png        
 
 .. |M10_percent| image:: images/pie65.png        
@@ -90,6 +93,8 @@
 
 .. |ORI_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
+
+.. |TSR_percent| image:: images/pie05.png        
 
 .. |ISD_percent| image:: images/pie45.png        
 
@@ -219,6 +224,8 @@
 
 .. |DGM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
+
+.. |2XM_percent| image:: images/pie05.png        
 
 .. |DTK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
