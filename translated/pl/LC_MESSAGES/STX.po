@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-24 14:21+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-02-24 14:04+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../../STX.rst:5
 msgid ":mtgexp:`STX` Strixhaven: School of Mages"
@@ -29,23 +31,27 @@ msgstr ""
 #: ../../STX.rst:33
 #: ../../STX.rst:45
 msgid "Choose two —"
-msgstr ""
+msgstr "Wybierz dwie —"
 
 #: ../../STX.rst:11
 msgid "Create a 3/2 red and white Spirit creature token."
-msgstr ""
+msgstr "Stwórz żeton czerwono-białego stwora Duch 3/2."
 
 #: ../../STX.rst:13
 msgid "Creatures you control get +1/+0 and gain indestructible and haste until end of turn."
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +1/+0, niezniszczalność i "
+"pośpiech."
 
 #: ../../STX.rst:15
 msgid "Lorehold Command deals 3 damage to any target. Target player gains 3 life."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Wskazany gracz zyskuje 3 "
+"życia."
 
 #: ../../STX.rst:17
 msgid "Sacrifice a permanent, then draw two cards."
-msgstr ""
+msgstr "Poświęć permanent, następnie dobierz dwie karty."
 
 #: ../../STX.rst:30
 msgid ":mtgtip:`Prismari Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/866b7fd4-86e3-4b42-b1ea-33bad0db1f9f.jpg?1614152891|https://scryfall.com/card/stx/214/prismari-command?utm_source=api>`"
@@ -53,19 +59,19 @@ msgstr ""
 
 #: ../../STX.rst:23
 msgid "Prismari Command deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../STX.rst:25
 msgid "Target player draws two cards, then discards two cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty, następnie odrzuca dwie karty."
 
 #: ../../STX.rst:27
 msgid "Target player creates a Treasure token."
-msgstr ""
+msgstr "Wskazany gracz tworzy żeton Skarbu."
 
 #: ../../STX.rst:29
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../STX.rst:42
 msgid ":mtgtip:`Quandrix Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/021b62d8-d160-47f5-bc51-0474f160d13f.jpg?1614152862|https://scryfall.com/card/stx/217/quandrix-command?utm_source=api>`"
@@ -73,19 +79,21 @@ msgstr ""
 
 #: ../../STX.rst:35
 msgid "Return target creature or planeswalker to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazanego stwora lub wędrowca do ręki właściciela."
 
 #: ../../STX.rst:37
 msgid "Counter target artifact or enchantment spell."
-msgstr ""
+msgstr "Skontruj wskazany czar artefaktu lub uroku."
 
 #: ../../STX.rst:39
 msgid "Put two +1/+1 counters on target creature."
-msgstr ""
+msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
 #: ../../STX.rst:41
 msgid "Target player shuffles up to three target cards from their graveyard into their library."
 msgstr ""
+"Wskazany gracz wtasowuje co najwyżej trzy wskazane karty z jego cmentarza do "
+"swojej biblioteki."
 
 #: ../../STX.rst:54
 msgid ":mtgtip:`Silverquill Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c55f533-9d31-4ad1-b336-927aba6e74d6.jpg?1614152919|https://scryfall.com/card/stx/232/silverquill-command?utm_source=api>`"
@@ -93,19 +101,21 @@ msgstr ""
 
 #: ../../STX.rst:47
 msgid "Target creature gets +3/+3 and gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz latanie."
 
 #: ../../STX.rst:49
 msgid "Return target creature card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę o skrócie many 2 lub mniejszym z twojego cmentarza "
+"na pole bitwy."
 
 #: ../../STX.rst:51
 msgid "Target player draws a card and loses 1 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera kartę i traci 1 życie."
 
 #: ../../STX.rst:53
 msgid "Target opponent sacrifices a creature."
-msgstr ""
+msgstr "Wskazany przeciwnik poświęca stwora."
 
 #: ../../STX.rst:65
 msgid ":mtgtip:`Witherbloom Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87d5e94b-0b35-4efd-9158-1767dcaea38c.jpg?1614152945|https://scryfall.com/card/stx/248/witherbloom-command?utm_source=api>`"
@@ -113,20 +123,24 @@ msgstr ""
 
 #: ../../STX.rst:57
 msgid "Choose two -"
-msgstr ""
+msgstr "Wybierz dwa —"
 
 #: ../../STX.rst:59
 msgid "Target player mills three cards, then you return a land card from your graveyard to your hand."
 msgstr ""
+"Wskazany gracz mieli trzy karty, następnie przywróć kartę lądu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../STX.rst:61
 msgid "Destroy target noncreature, nonland permanent with mana value 2 or less."
 msgstr ""
+"Zniszcz wskazany nie-stworowy, nie-lądowy permanent o skrócie many 2 lub "
+"mniejszym."
 
 #: ../../STX.rst:63
 msgid "Target creature gets -3/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -3/-1."
 
 #: ../../STX.rst:65
 msgid "Target opponent loses 2 life and you gain 2 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 2 życia, a ty zyskaj 2 życia."
