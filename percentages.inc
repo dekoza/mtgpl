@@ -80,7 +80,8 @@
 
 .. |ATQ_percent| image:: images/pie10.png        
 
-.. |M15_percent| image:: images/pie95.png        
+.. |M15_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |THS_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -136,7 +137,8 @@
 
 .. |7ED_percent| image:: images/pie30.png        
 
-.. |SOI_percent| image:: images/pie95.png        
+.. |SOI_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |CON_percent| image:: images/pie25.png        
 
@@ -253,7 +255,8 @@
 
 .. |4ED_percent| image:: images/pie20.png        
 
-.. |M20_percent| image:: images/pie95.png        
+.. |M20_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |C13_percent| image:: images/pie40.png        
 
