@@ -146,7 +146,7 @@
 .. |SOI_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |CON_percent| image:: images/pie25.png        
+.. |CON_percent| image:: images/pie30.png        
 
 .. |STH_percent| image:: images/pie20.png        
 
@@ -174,7 +174,7 @@
 
 .. |IMA_percent| image:: images/pie60.png        
 
-.. |NPH_percent| image:: images/pie30.png        
+.. |NPH_percent| image:: images/pie35.png        
 
 .. |DKA_percent| image:: images/pie35.png        
 
@@ -207,7 +207,7 @@
 .. |RNA_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |EMA_percent| image:: images/pie40.png        
+.. |EMA_percent| image:: images/pie45.png        
 
 .. |BNG_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -277,7 +277,7 @@
 
 .. |DRK_percent| image:: images/pie10.png        
 
-.. |ALA_percent| image:: images/pie25.png        
+.. |ALA_percent| image:: images/pie30.png        
 
 .. |ICE_percent| image:: images/pie10.png        
 
