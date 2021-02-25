@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:24+0000\n"
+"PO-Revision-Date: 2021-02-25 10:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -777,6 +777,9 @@ msgid ""
 "your library. You may reveal an artifact card from among them and put it "
 "into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją "
+"w twojej ręce. Umieść pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../MM2.rst:268
 msgid ""
@@ -1064,7 +1067,7 @@ msgstr ""
 
 #: ../../MM2.rst:371
 msgid "(|mana_up| can be paid with either |mana_u| or 2 life.)"
-msgstr ""
+msgstr "(|mana_up| można zapłacić |mana_u| lub 2 życiami.)"
 
 #: ../../MM2.rst:373
 msgid ""
@@ -3496,6 +3499,8 @@ msgid ""
 "|mana_up|: Change a target of target spell or ability to Spellskite. (|"
 "mana_up| can be paid with either |mana_u| or 2 life.)"
 msgstr ""
+"|mana_up|: Zmień wskazanie wskazanego czaru lub zdolności na tego stwora. "
+"(|mana_up| można zapłacić |mana_u| lub 2 życiami.)"
 
 #: ../../MM2.rst:1288
 msgid ""

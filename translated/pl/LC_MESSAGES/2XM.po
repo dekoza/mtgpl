@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:25+0000\n"
+"PO-Revision-Date: 2021-02-25 10:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -247,7 +247,7 @@ msgstr ""
 #: ../../2XM.rst:99
 msgid "When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wygnaj inny wskazany permanent. "
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj inny wskazany permanent. "
 "Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
 "najbliższego kroku końcowego."
 
@@ -370,7 +370,7 @@ msgstr ""
 #: ../../2XM.rst:145
 msgid "Whenever an Equipment enters the battlefield under your control, you may draw a card."
 msgstr ""
-"Ilekroć Wyposażenie wchodzi na pole walki pod twoim władaniem, możesz dobrać "
+"Ilekroć Wyposażenie wchodzi na pole bitwy pod twoim władaniem, możesz dobrać "
 "kartę."
 
 #: ../../2XM.rst:147
@@ -434,7 +434,7 @@ msgstr ""
 #: ../../2XM.rst:175
 msgid "When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wyposażenia, ujawnić ją, umieścić w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -442,7 +442,7 @@ msgstr ""
 msgid "|mana_1|\\ |mana_w|, |tap|: You may put an Equipment card from your hand onto the battlefield."
 msgstr ""
 "|mana_1|\\ |mana_w|, |tap|: Możesz umieścić kartę Wyposażenia z twojej ręki "
-"na polu walki."
+"na polu bitwy."
 
 #: ../../2XM.rst:184
 msgid ":mtgtip:`Stonehewer Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0efda05d-01ea-4478-b075-00a31d7037f8.jpg?1599710515|https://scryfall.com/card/2xm/32/stonehewer-giant?utm_source=api>`"
@@ -547,7 +547,7 @@ msgstr ""
 msgid "|tap|: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle their library."
 msgstr ""
 "|tap|: Władca wskazanego artefaktu poświęca go. Ów gracz może wyszukać w "
-"swojej bibliotece kartę nie-stworowego artefaktu, umieścić ją na polu walki, "
+"swojej bibliotece kartę nie-stworowego artefaktu, umieścić ją na polu bitwy, "
 "następnie tasuje swoją bibliotekę."
 
 #: ../../2XM.rst:230
@@ -632,6 +632,8 @@ msgstr ""
 #: ../../2XM.rst:263
 msgid "At the beginning of your upkeep, return an artifact you control to its owner's hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć artefakt pod twoim władaniem "
+"do ręki właściciela."
 
 #: ../../2XM.rst:270
 msgid ":mtgtip:`Faerie Mechanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3b14d57-a856-49d4-931f-ff5a0407b135.jpg?1598303878|https://scryfall.com/card/2xm/50/faerie-mechanist?utm_source=api>`"
@@ -640,6 +642,9 @@ msgstr ""
 #: ../../2XM.rst:269
 msgid "When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją "
+"w twojej ręce. Umieść pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../2XM.rst:276
 msgid ":mtgtip:`Force of Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd60b291-0a88-4e8e-bef8-76cdfd6c8183.jpg?1598303900|https://scryfall.com/card/2xm/51/force-of-will?utm_source=api>`"
@@ -648,6 +653,8 @@ msgstr ""
 #: ../../2XM.rst:273
 msgid "You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost."
 msgstr ""
+"Możesz zapłacić 1 życie i wygnać niebieską kartę z twojej ręki zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../2XM.rst:275
 msgid "Counter target spell."
@@ -678,11 +685,14 @@ msgstr "Inne niebieskie stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../2XM.rst:287
 msgid "|mana_u|: Target artifact creature becomes blue until end of turn."
-msgstr ""
+msgstr "|mana_u|: Wskazany artefaktowy stwór staje się do końca tury niebieski."
 
 #: ../../2XM.rst:289
 msgid "Tap an untapped blue creature you control: Add |colorless|\\ |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts."
 msgstr ""
+"Przekręć odkręconego niebieskiego stwora pod twoim władaniem: Weź |colorless|"
+"\\ |colorless|. Wydaj tę manę tylko na rzucanie czarów artefaktów lub "
+"aktywację zdolności artefaktów."
 
 #: ../../2XM.rst:294
 msgid ":mtgtip:`Hinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ebaedfd-3f65-4867-bb59-df548a6eb113.jpg?1598303981|https://scryfall.com/card/2xm/54/hinder?utm_source=api>`"
@@ -691,6 +701,9 @@ msgstr ""
 #: ../../2XM.rst:293
 msgid "Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jeśli ów czar zostanie skontrowany w ten sposób, "
+"umieść ową kartę na wierzchu lub spodzie biblioteki jej właściciela zamiast "
+"w cmentarzu."
 
 #: ../../2XM.rst:302
 msgid ":mtgtip:`Inkwell Leviathan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f7a6dfb-a8f8-4899-b2db-c48d542dfd55.jpg?1598304010|https://scryfall.com/card/2xm/55/inkwell-leviathan?utm_source=api>`"
@@ -721,18 +734,24 @@ msgstr ""
 #: ../../2XM.rst:305
 msgid "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library."
 msgstr ""
+"+2: Spójrz na wierzchnią kartę biblioteki wskazanego gracza. Możesz umieścić "
+"ową kartę na spodzie biblioteki owego gracza."
 
 #: ../../2XM.rst:307
 msgid "0: Draw three cards, then put two cards from your hand on top of your library in any order."
 msgstr ""
+"0: Dobierz trzy karty, następnie umieść dwie karty z twojej ręki dowolnie na "
+"wierzchu twojej biblioteki."
 
 #: ../../2XM.rst:309
 msgid "−1: Return target creature to its owner's hand."
-msgstr ""
+msgstr "–1: Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../2XM.rst:311
 msgid "−12: Exile all cards from target player's library, then that player shuffles their hand into their library."
 msgstr ""
+"–12: Wygnaj wszystkie karty z biblioteki wskazanego gracza, następnie ów "
+"gracz wtasowuje swoją rękę do swojej biblioteki."
 
 #: ../../2XM.rst:318
 msgid ":mtgtip:`Master of Etherium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c860286-9807-4ab5-b66f-e8696e9e6ac9.jpg?1598304058|https://scryfall.com/card/2xm/57/master-of-etherium?utm_source=api>`"
@@ -741,6 +760,8 @@ msgstr ""
 #: ../../2XM.rst:315
 msgid "Master of Etherium's power and toughness are each equal to the number of artifacts you control."
 msgstr ""
+"Siła i wytrzymałość tego stwora są obie równa liczbie artefaktów pod twoim "
+"władaniem."
 
 #: ../../2XM.rst:317
 #: ../../2XM.rst:1277
@@ -754,6 +775,8 @@ msgstr ""
 #: ../../2XM.rst:321
 msgid "|mana_u|, |tap|, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield."
 msgstr ""
+"|mana_u|, |tap|, przywróć artefakt pod twoim władaniem do ręki właściciela: "
+"Możesz umieścić kartę artefaktu z twojej ręki na polu bitwy."
 
 #: ../../2XM.rst:328
 msgid ":mtgtip:`Metallic Rebuke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34785944-7b51-48a9-855c-3e656cd78251.jpg?1598304101|https://scryfall.com/card/2xm/59/metallic-rebuke?utm_source=api>`"
@@ -777,6 +800,8 @@ msgstr ""
 #: ../../2XM.rst:333
 msgid "When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz czarnym permanentem, "
+"wskazany gracz traci 2 życia, zyskaj 2 życia."
 
 #: ../../2XM.rst:340
 msgid ":mtgtip:`Phyrexian Metamorph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6afeb07-ed44-4e15-99b6-436f8365326f.jpg?1598304141|https://scryfall.com/card/2xm/61/phyrexian-metamorph?utm_source=api>`"
@@ -784,7 +809,7 @@ msgstr ""
 
 #: ../../2XM.rst:337
 msgid "(|mana_up| can be paid with either |mana_u| or 2 life.)"
-msgstr ""
+msgstr "(|mana_up| można zapłacić |mana_u| lub 2 życiami.)"
 
 #: ../../2XM.rst:339
 msgid "You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
@@ -3289,6 +3314,8 @@ msgstr ""
 #: ../../2XM.rst:1565
 msgid "|mana_up|: Change a target of target spell or ability to Spellskite. (|mana_up| can be paid with either |mana_u| or 2 life.)"
 msgstr ""
+"|mana_up|: Zmień wskazanie wskazanego czaru lub zdolności na tego stwora. "
+"(|mana_up| można zapłacić |mana_u| lub 2 życiami.)"
 
 #: ../../2XM.rst:1574
 msgid ":mtgtip:`Sphinx of the Guildpact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f31cab5f-c05e-4688-b300-33ab0dd98598.jpg?1599709924|https://scryfall.com/card/2xm/290/sphinx-of-the-guildpact?utm_source=api>`"

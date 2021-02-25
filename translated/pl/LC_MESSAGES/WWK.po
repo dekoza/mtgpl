@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:24+0000\n"
+"PO-Revision-Date: 2021-02-25 10:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -343,7 +343,7 @@ msgid ""
 "for an Equipment card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wyposażenia, ujawnić ją, umieścić w twojej ręce, następnie przetasuj "
 "twoją bibliotekę."
 
@@ -353,7 +353,7 @@ msgid ""
 "onto the battlefield."
 msgstr ""
 "|mana_1|\\ |mana_w|, |tap|: Możesz umieścić kartę Wyposażenia z twojej ręki "
-"na polu walki."
+"na polu bitwy."
 
 #: ../../WWK.rst:122
 msgid ""
@@ -505,22 +505,28 @@ msgid ""
 "+2: Look at the top card of target player's library. You may put that card "
 "on the bottom of that player's library."
 msgstr ""
+"+2: Spójrz na wierzchnią kartę biblioteki wskazanego gracza. Możesz umieścić "
+"ową kartę na spodzie biblioteki owego gracza."
 
 #: ../../WWK.rst:169
 msgid ""
 "0: Draw three cards, then put two cards from your hand on top of your "
 "library in any order."
 msgstr ""
+"0: Dobierz trzy karty, następnie umieść dwie karty z twojej ręki dowolnie na "
+"wierzchu twojej biblioteki."
 
 #: ../../WWK.rst:171
 msgid "−1: Return target creature to its owner's hand."
-msgstr ""
+msgstr "–1: Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../WWK.rst:173
 msgid ""
 "−12: Exile all cards from target player's library, then that player shuffles "
 "their hand into their library."
 msgstr ""
+"–12: Wygnaj wszystkie karty z biblioteki wskazanego gracza, następnie ów "
+"gracz wtasowuje swoją rękę do swojej biblioteki."
 
 #: ../../WWK.rst:178
 msgid ""

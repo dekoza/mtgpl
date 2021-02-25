@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:24+0000\n"
+"PO-Revision-Date: 2021-02-25 10:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -1530,6 +1530,8 @@ msgid ""
 "Master of Etherium's power and toughness are each equal to the number of "
 "artifacts you control."
 msgstr ""
+"Siła i wytrzymałość tego stwora są obie równa liczbie artefaktów pod twoim "
+"władaniem."
 
 #: ../../C16.rst:547
 msgid "Other artifact creatures you control get +1/+1."
@@ -1622,7 +1624,7 @@ msgstr ""
 
 #: ../../C16.rst:575
 msgid "(|mana_up| can be paid with either |mana_u| or 2 life.)"
-msgstr ""
+msgstr "(|mana_up| można zapłacić |mana_u| lub 2 życiami.)"
 
 #: ../../C16.rst:577
 msgid ""
