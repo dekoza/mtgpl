@@ -374,7 +374,8 @@ def translate_loc(path: pathlib.Path, use_alt: bool = False):
                             po_entry.msgstr or key, use_alt=use_alt
                         )
                     else:
-                        raise ZeroDivisionError
+                        pass
+
 
                 json.dump(fp=outfile, obj=data, ensure_ascii=False, indent=2)
             create_datfile(filepath)
