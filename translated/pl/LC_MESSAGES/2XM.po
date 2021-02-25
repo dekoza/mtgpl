@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:57+0000\n"
+"PO-Revision-Date: 2021-02-25 11:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -955,7 +955,7 @@ msgstr ""
 
 #: ../../2XM.rst:407
 msgid "At the beginning of your draw step, draw two additional cards."
-msgstr ""
+msgstr "Na początku twojego kroku dobieranie, dobierz dwie dodatkowe karty."
 
 #: ../../2XM.rst:412
 msgid ":mtgtip:`Ad Nauseam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9f2c53e-ff58-4aa8-89a6-4f45628cc571.jpg?1598306470|https://scryfall.com/card/2xm/76/ad-nauseam?utm_source=api>`"
@@ -964,6 +964,9 @@ msgstr ""
 #: ../../2XM.rst:411
 msgid "Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times."
 msgstr ""
+"Ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. Strać "
+"tyle żyć, ile wynosi jej skrót many. Możesz powtórzyć ten proces dowolną "
+"liczbę razy."
 
 #: ../../2XM.rst:416
 msgid ":mtgtip:`Beacon of Unrest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06bd199b-1855-4208-8bf7-8930e91ab139.jpg?1598304450|https://scryfall.com/card/2xm/77/beacon-of-unrest?utm_source=api>`"
@@ -972,6 +975,8 @@ msgstr ""
 #: ../../2XM.rst:415
 msgid "Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library."
 msgstr ""
+"Umieść wskazaną kartę artefaktu lub stwora z cmentarza na pole bitwy pod "
+"twoim władaniem. Wtasuj niniejszego stwora do biblioteki właściciela."
 
 #: ../../2XM.rst:422
 msgid ":mtgtip:`Bone Picker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7de3d27-f3e0-4aea-a737-6577de1bd1c5.jpg?1598304462|https://scryfall.com/card/2xm/78/bone-picker?utm_source=api>`"
@@ -1014,6 +1019,9 @@ msgstr ""
 #: ../../2XM.rst:435
 msgid "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost."
 msgstr ""
+"Na początku twojego kroku utrzymania, ujawnij wierzchnią kartę twojej "
+"biblioteki i umieść ją w twojej ręce. Strać tyle żyć, ile wynosi jej skrót "
+"many."
 
 #: ../../2XM.rst:440
 msgid ":mtgtip:`Death's Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5526ff6e-c079-4ad4-ac8d-5e26ecacf50d.jpg?1598304517|https://scryfall.com/card/2xm/82/deaths-shadow?utm_source=api>`"
@@ -1021,7 +1029,7 @@ msgstr ""
 
 #: ../../2XM.rst:439
 msgid "Death's Shadow gets -X/-X, where X is your life total."
-msgstr ""
+msgstr "Ten stwór dostaje -X/-X, gdzie X to liczba twoich żyć."
 
 #: ../../2XM.rst:444
 msgid ":mtgtip:`Defiant Salvager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f113f11-9b87-4219-a106-9f6595d85b81.jpg?1598304537|https://scryfall.com/card/2xm/83/defiant-salvager?utm_source=api>`"
@@ -1050,6 +1058,8 @@ msgstr ""
 #: ../../2XM.rst:451
 msgid "When Disciple of Bolas enters the battlefield, sacrifice another creature. You gain X life and draw X cards, where X is that creature's power."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć innego stwora. Zyskaj X żyć i "
+"dobierz X kart, gdzie X jest siłą owego stwora."
 
 #: ../../2XM.rst:456
 msgid ":mtgtip:`Disciple of the Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1598304605|https://scryfall.com/card/2xm/86/disciple-of-the-vault?utm_source=api>`"
@@ -1058,6 +1068,8 @@ msgstr ""
 #: ../../2XM.rst:455
 msgid "Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life."
 msgstr ""
+"Ilekroć artefakt jest umieszczany w cmentarzu z pola bitwy, możesz sprawić, "
+"że wskazany gracz straci 1 życie."
 
 #: ../../2XM.rst:460
 msgid ":mtgtip:`Divest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4494cb6d-1a99-40b6-96cc-0dc2ddec102f.jpg?1598304621|https://scryfall.com/card/2xm/87/divest?utm_source=api>`"
@@ -1076,6 +1088,8 @@ msgstr ""
 #: ../../2XM.rst:463
 msgid "|mana_b|, |tap|, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield."
 msgstr ""
+"|mana_b|, |tap|, poświęć tego stwora: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../2XM.rst:470
 msgid ":mtgtip:`Dread Return<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96aa9e00-e73e-4a6e-9607-77533aac4be4.jpg?1598304655|https://scryfall.com/card/2xm/89/dread-return?utm_source=api>`"
@@ -1088,6 +1102,8 @@ msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 #: ../../2XM.rst:469
 msgid "Flashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—Poświęć trzy stwory. (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../2XM.rst:474
 msgid ":mtgtip:`Driver of the Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef46f4e7-ec58-4542-94b3-785bc46d26ea.jpg?1598304676|https://scryfall.com/card/2xm/90/driver-of-the-dead?utm_source=api>`"
@@ -1096,6 +1112,8 @@ msgstr ""
 #: ../../2XM.rst:473
 msgid "When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć wskazaną kartę stwora o skrócie many 2 lub "
+"mniejszym z twojego cmentarza na pole bitwy."
 
 #: ../../2XM.rst:478
 msgid ":mtgtip:`Drown in Sorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe1e8a62-5b8c-432a-bb8f-c09048c51e0b.jpg?1598304687|https://scryfall.com/card/2xm/91/drown-in-sorrow?utm_source=api>`"
@@ -1145,6 +1163,9 @@ msgstr ""
 #: ../../2XM.rst:493
 msgid "|mana_x|\\ |mana_b|: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player mills X cards."
 msgstr ""
+"|mana_x|\\ |mana_b|: Umieść wskazaną kartę artefaktu lub stwora o skrócie "
+"many X z cmentarza przeciwnika przekręconą na pole walki pod twoim "
+"władaniem. Następnie ów gracz mieli X kart."
 
 #: ../../2XM.rst:500
 msgid ":mtgtip:`Glaze Fiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07f9a946-f961-4e19-a30a-6e1a95683340.jpg?1598304774|https://scryfall.com/card/2xm/95/glaze-fiend?utm_source=api>`"
@@ -1153,6 +1174,8 @@ msgstr ""
 #: ../../2XM.rst:499
 msgid "Whenever another artifact enters the battlefield under your control, Glaze Fiend gets +2/+2 until end of turn."
 msgstr ""
+"Ilekroć inny artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
+"dostaje do końca tury +2/+2."
 
 #: ../../2XM.rst:506
 msgid ":mtgtip:`Heartless Pillage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b705cd6-da20-4f0a-bb94-2acd1cecd64c.jpg?1598304790|https://scryfall.com/card/2xm/96/heartless-pillage?utm_source=api>`"
@@ -1175,6 +1198,9 @@ msgstr ""
 #: ../../2XM.rst:509
 msgid "At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of their choice. It can't be regenerated."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, zniszcz wskazanego "
+"nieartefaktowego stwora pod władaniem owego gracza i według jego wyboru. Nie "
+"może zostać zregenerowany."
 
 #: ../../2XM.rst:514
 msgid ":mtgtip:`Magus of the Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24c41068-59d8-4ef4-aae4-a93b0a9ee19e.jpg?1598304824|https://scryfall.com/card/2xm/98/magus-of-the-will?utm_source=api>`"
@@ -1183,6 +1209,10 @@ msgstr ""
 #: ../../2XM.rst:513
 msgid "|mana_2|\\ |mana_b|, |tap|, Exile Magus of the Will: Until end of turn, you may play lands and cast spells from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|, wygnaj tego stwora: Do końca tury możesz "
+"zagrywać karty lądów i rzucać karty czarów z twojego cmentarza. Jeśli w tej "
+"turze karta miałaby trafić skądkolwiek do twojego cmentarza, zamiast tego "
+"wygnaj ją."
 
 #: ../../2XM.rst:518
 msgid ":mtgtip:`Morkrut Banshee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de6fd09e-55af-41dd-a0c0-ba1064737c90.jpg?1598304842|https://scryfall.com/card/2xm/99/morkrut-banshee?utm_source=api>`"

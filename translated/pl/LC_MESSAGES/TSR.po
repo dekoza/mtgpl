@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-25 12:03+0100\n"
-"PO-Revision-Date: 2021-02-25 10:57+0000\n"
+"PO-Revision-Date: 2021-02-25 11:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: ../../TSR.rst:11 ../../TSR.rst:47
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../TSR.rst:13
 msgid ""
@@ -59,22 +59,16 @@ msgid "When Ivory Giant enters the battlefield, tap all nonwhite creatures."
 msgstr ""
 
 #: ../../TSR.rst:19
-#, fuzzy
-#| msgid ""
-#| "Suspend 3—|mana_0| (Rather than cast this card from your hand, pay |"
-#| "mana_0| and exile it with three time counters on it. At the beginning of "
-#| "your upkeep, remove a time counter. When the last is removed, cast it "
-#| "without paying its mana cost.)"
 msgid ""
 "Suspend 5—|mana_w| (Rather than cast this card from your hand, you may pay |"
 "mana_w| and exile it with five time counters on it. At the beginning of your "
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost. It has haste.)"
 msgstr ""
-"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
-"mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
-"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu jest usunięty, "
-"rzuć ją bez płacenia kosztu many.)"
+"Zawieszenie 5—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_w| i wygnaj ją z pięcioma znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"jest usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../TSR.rst:24
 msgid ""
@@ -85,7 +79,7 @@ msgstr ""
 
 #: ../../TSR.rst:23
 msgid "Counter target spell unless its controller pays |mana_1|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|."
 
 #: ../../TSR.rst:30
 msgid ""
@@ -131,6 +125,8 @@ msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
+"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../TSR.rst:42
 msgid ""
@@ -158,7 +154,7 @@ msgstr ""
 
 #: ../../TSR.rst:45
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../TSR.rst:49
 msgid ""
@@ -166,6 +162,9 @@ msgid ""
 "Angel creature you control, then return that card to the battlefield under "
 "your control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać innego nie będącego "
+"Aniołem stwora pod twoim władaniem, następnie przywróć ową kartę na pole "
+"bitwy pod twoim władaniem."
 
 #: ../../TSR.rst:56
 msgid ""
