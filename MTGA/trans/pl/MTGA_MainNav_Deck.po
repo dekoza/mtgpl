@@ -17,7 +17,6 @@ msgstr ""
 "X-Generator: Weblate 4.4.2\n"
 
 #
-
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Black"
 msgid "Black"
 msgstr "Czarny"
@@ -395,7 +394,8 @@ msgid "Event Card Pool"
 msgstr ""
 
 msgctxt ""
-"MainNav/DeckBuilder/DeckBuilder_Header_SearchAndFilter_Row1_Col4_Search_TextArea_Placeholder"
+"MainNav/DeckBuilder/"
+"DeckBuilder_Header_SearchAndFilter_Row1_Col4_Search_TextArea_Placeholder"
 msgid "Search..."
 msgstr ""
 
@@ -425,7 +425,8 @@ msgid "Deck should not have a Commander."
 msgstr ""
 
 msgctxt ""
-"MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_HasInvalidCardsForCommander"
+"MainNav/DeckBuilder/"
+"DeckBuilder_InvalidDeckReasons_HasInvalidCardsForCommander"
 msgid ""
 "Deck contains cards that do not match the color identity of your commander."
 msgstr ""
@@ -441,7 +442,8 @@ msgid "Deck must have a Commander."
 msgstr ""
 
 msgctxt ""
-"MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_HasSideboardLoadingCardWithoutSideboard"
+"MainNav/DeckBuilder/"
+"DeckBuilder_InvalidDeckReasons_HasSideboardLoadingCardWithoutSideboard"
 msgid "{[OffendingCardTitle]} requires the deck to have a sideboard."
 msgstr ""
 
@@ -495,12 +497,12 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_RequiresSideboard"
 msgid ""
-"It is recommended that decks in this format have 15 cards in their "
-"sideboard."
+"It is recommended that decks in this format have 15 cards in their sideboard."
 msgstr ""
 
 msgctxt ""
-"MainNav/DeckBuilder/DeckBuilder_MainLayout_LeftPane_Collection_Foreground_LeftWidgets_Loading"
+"MainNav/DeckBuilder/"
+"DeckBuilder_MainLayout_LeftPane_Collection_Foreground_LeftWidgets_Loading"
 msgid "Loading Data"
 msgstr "Ładowanie danych"
 
@@ -967,8 +969,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Basic_Streamer"
 msgid "Sphere of the Suns Basic Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/Cardback_Basic_Thunderstorm_Bitterblossom"
+msgctxt "MainNav/Deckbuilder/Sleeves/Cardback_Basic_Thunderstorm_Bitterblossom"
 msgid "Bitterblossom Sleeve"
 msgstr ""
 
@@ -985,8 +986,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/Cardback_Basic_Thunderstorm_RegalCaracal"
 msgid "<nobr>Regal Caracal Sleeve</nobr>"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/Cardback_Basic_Thunderstorm_SerumVisions2"
+msgctxt "MainNav/Deckbuilder/Sleeves/Cardback_Basic_Thunderstorm_SerumVisions2"
 msgid "Serum Visions Sleeve"
 msgstr ""
 
@@ -1032,8 +1032,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_ChandraFireArtisan"
 msgid "Chandra Ryota-H Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_DavrielRogueShadowmage"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_DavrielRogueShadowmage"
 msgid "Davriel HAGIYA Kaoru Sleeve"
 msgstr ""
 
@@ -1053,8 +1052,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_HuatliTheSunsHeart"
 msgid "Huatli Masuda Mikio Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_JaceWielderOfMysteries"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_JaceWielderOfMysteries"
 msgid "Jace toshiaki takayama Sleeve"
 msgstr ""
 
@@ -1062,8 +1060,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_JayaVeneratedFiremage"
 msgid "Jaya Maekawa Yichi Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_JiangYangguWildcrafter"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_JiangYangguWildcrafter"
 msgid "Jiang Yanggu Daisuke Izuka Sleeve"
 msgstr ""
 
@@ -1075,8 +1072,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_KarnTheGreatCreator"
 msgid "Karn NAOCHIKA MORISHITA Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_KasminaEnigmaticMentor"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_KasminaEnigmaticMentor"
 msgid "Kasmina MID Sleeve"
 msgstr ""
 
@@ -1105,8 +1101,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_NicolBolasDragonGod"
 msgid "Nicol Bolas KAIDA YUJI Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_NissaWhoShakesTheWorld"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_NissaWhoShakesTheWorld"
 msgid "Nissa Hitowa Sleeve"
 msgstr ""
 
@@ -1132,13 +1127,11 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_SarkhanTheMasterless"
 msgid "Sarkhan lack Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_SorinVengefulBloodlord"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_SorinVengefulBloodlord"
 msgid "Sorin Yukie TAJIMA Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_TamiyoCollectorOfTales"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_TamiyoCollectorOfTales"
 msgid "Tamiyo fuzichoco Sleeve"
 msgstr ""
 
@@ -1154,8 +1147,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_TheWanderer"
 msgid "The Wanderer Norikatsu Miyoshi Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_TibaltRakishInstigator"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_CardArtJP_TibaltRakishInstigator"
 msgid "Tibalt Clover.K Sleeve"
 msgstr ""
 
@@ -1241,8 +1233,7 @@ msgctxt ""
 msgid "Seb McKinnon Enchanted Kingdom Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_ELD_Basic_EnchantedKingdom_Right"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_ELD_Basic_EnchantedKingdom_Right"
 msgid "Seb McKinnon Enchanted Kingdom Sleeve"
 msgstr ""
 
@@ -1508,7 +1499,8 @@ msgid "Greatshark Basic Sleeve"
 msgstr ""
 
 msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_InternationalWomensDay_SaskiaTheUnyielding"
+"MainNav/Deckbuilder/Sleeves/"
+"CardBack_InternationalWomensDay_SaskiaTheUnyielding"
 msgid "Saskia the Unyielding Basic Sleeve"
 msgstr ""
 
@@ -1772,8 +1764,7 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Raindrop_May1"
 msgid "Godzilla Island Sleeve"
 msgstr ""
 
-msgctxt ""
-"MainNav/Deckbuilder/Sleeves/CardBack_Raindrop_ThaliaGuardianOfThraben"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Raindrop_ThaliaGuardianOfThraben"
 msgid "Thalia, Guardian of Thraben Sleeve"
 msgstr ""
 
@@ -1939,13 +1930,15 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Warning_NoCommander"
 msgid ""
-"You have one or more cards that have limited functionality outside of a Brawl deck.\n"
+"You have one or more cards that have limited functionality outside of a "
+"Brawl deck.\n"
 "{cardList}"
 msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Warning_NoSideboard"
 msgid ""
-"Your sideboard is currently empty and your deck has one or more cards that can access your sideboard.\n"
+"Your sideboard is currently empty and your deck has one or more cards that "
+"can access your sideboard.\n"
 "{cardList}"
 msgstr ""
 
@@ -1955,6 +1948,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/100CardStandard"
 msgid "100-Card Standard"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/3Sets"
+msgid "Festival: 3 Sets"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/ArtisanFuture"
@@ -2029,6 +2026,10 @@ msgctxt "MainNav/DeckFormat/HistoricBrawl"
 msgid "Historic Brawl"
 msgstr ""
 
+msgctxt "MainNav/DeckFormat/HistoricBrawl100"
+msgid "100-Card Historic Brawl"
+msgstr ""
+
 msgctxt "MainNav/DeckFormat/HistoricPauper"
 msgid "Historic Pauper"
 msgstr ""
@@ -2051,6 +2052,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/Ixalan"
 msgid "Ixalan Block"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/Kaldheim"
+msgid "Kaldheim Constructed"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/MoreBans"
@@ -2125,8 +2130,8 @@ msgctxt "MainNav/DeckFormat/Zendikar"
 msgid "Zendikar Constructed"
 msgstr ""
 
-msgctxt "MainNav/DeckFormat/ZNR_3Sets"
-msgid "Festival: 3 Sets"
+msgctxt "MainNav/DeckFormat/ZombieStandard"
+msgid "Zombie Standard"
 msgstr ""
 
 msgctxt "MainNav/DeckManager/Add_Deck_Text"
