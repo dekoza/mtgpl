@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -1223,6 +1223,9 @@ msgid ""
 "battlefield under their owners' control. (Auras with nothing to enchant "
 "remain in graveyards.)"
 msgstr ""
+"Przywróć wszystkie karty artefaktów i uroków ze wszystkich cmentarzy na pole "
+"bitwy pod władaniem ich właścicieli. (Aury nie mające niczego do zauroczenia "
+"pozostają w cmentarzach.)"
 
 #: ../../C16.rst:446
 msgid ""
@@ -1285,6 +1288,8 @@ msgid ""
 "When Sanctum Gargoyle enters the battlefield, you may return target artifact "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../C16.rst:468
 msgid ""
@@ -4150,12 +4155,14 @@ msgstr ""
 
 #: ../../C16.rst:1421
 msgid "Equipped creature gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../C16.rst:1423
 msgid ""
 "|mana_b|\\ |mana_b|: Attach Cranial Plating to target creature you control."
 msgstr ""
+"|mana_b|\\ |mana_b|: Dołącz ten artefakt do wskazanego stwora pod twoim "
+"władaniem."
 
 #: ../../C16.rst:1425 ../../C16.rst:1539 ../../C16.rst:1571
 msgid "Equip |mana_1|"

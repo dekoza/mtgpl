@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -239,6 +239,8 @@ msgid ""
 "Infect (This creature deals damage to creatures in the form of -1/-1 "
 "counters and to players in the form of poison counters.)"
 msgstr ""
+"Zatruwanie (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
+"graczom w postaci znaczników zatrucia.)"
 
 #: ../../MBS.rst:86
 msgid ""
@@ -1038,7 +1040,7 @@ msgstr ""
 
 #: ../../MBS.rst:387
 msgid "Destroy all artifacts."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty."
 
 #: ../../MBS.rst:392
 msgid ""

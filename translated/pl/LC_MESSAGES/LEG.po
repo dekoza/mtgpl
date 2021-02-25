@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-17 12:06+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leg/pl/>\n"
 "Language: pl\n"
@@ -303,10 +303,8 @@ msgid ""
 msgstr ""
 
 #: ../../LEG.rst:97
-#, fuzzy
-#| msgid "Switch target creature's power and toughness until end of turn."
 msgid "One or more target creatures become white until end of turn."
-msgstr "Zamień u wskazanego stwora siłę z wytrzymałością do końca tury."
+msgstr "Jeden lub więcej wskazanych stworów jest białych do końca tury."
 
 #: ../../LEG.rst:102
 msgid ""
@@ -398,6 +396,10 @@ msgid ""
 "you, you may search your library for up to three basic land cards, reveal "
 "them, put them into your hand, then shuffle your library."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli przeciwnik ma pod władaniem "
+"więcej lądów niż ty, możesz wyszukać w swojej bibliotece co najwyżej trzy "
+"karty bazowych lądów, umieścić je w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../LEG.rst:134
 msgid ""

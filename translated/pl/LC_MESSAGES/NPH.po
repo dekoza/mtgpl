@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -103,11 +103,11 @@ msgid ""
 "When Blade Splicer enters the battlefield, create a 3/3 colorless Golem "
 "artifact creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Golem 3/3."
 
 # 780f0cbf1c33448fba5a772868d314c8
 #: ../../NPH.rst:29
-#, fuzzy
-#| msgid "Golem creatures you control have first strike."
 msgid "Golems you control have first strike."
 msgstr "Golemy pod twoim władaniem mają pierwszy cios."
 
@@ -440,6 +440,8 @@ msgid ""
 "Whenever an Equipment enters the battlefield under your control, you may "
 "draw a card."
 msgstr ""
+"Ilekroć Wyposażenie wchodzi na pole walki pod twoim władaniem, możesz dobrać "
+"kartę."
 
 # 5edac844ded24a5d8bdada2c69791e2e
 #: ../../NPH.rst:131

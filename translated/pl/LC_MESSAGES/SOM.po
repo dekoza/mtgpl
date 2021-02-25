@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:44+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -215,6 +215,8 @@ msgid ""
 "At the beginning of your upkeep, create a 2/2 white Cat creature token for "
 "each Equipment attached to Kemba, Kha Regent."
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz żeton białego stwora Kot 2/2 za "
+"każde Wyposażenie dołączone do niniejszego stwora."
 
 #: ../../SOM.rst:76
 msgid ""
@@ -259,6 +261,8 @@ msgid ""
 "Whenever you cast an artifact spell, you may pay |mana_1|. If you do, create "
 "a 1/1 colorless Myr artifact creature token."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"stwórz żeton bezkolorowego artefaktowego stwora Myr 1/1."
 
 #: ../../SOM.rst:94
 msgid ""
@@ -353,7 +357,7 @@ msgstr ""
 
 #: ../../SOM.rst:123
 msgid "Artifact creatures you control get +2/+2."
-msgstr ""
+msgstr "Artefaktowe stwory pod twoim władaniem dostają +2/+2."
 
 #: ../../SOM.rst:128
 msgid ""
@@ -766,6 +770,8 @@ msgid ""
 "Infect (This creature deals damage to creatures in the form of -1/-1 "
 "counters and to players in the form of poison counters.)"
 msgstr ""
+"Zatruwanie (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
+"graczom w postaci znaczników zatrucia.)"
 
 #: ../../SOM.rst:284
 msgid ""

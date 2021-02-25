@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -107,6 +107,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost 1 "
 "or less from your graveyard to your hand."
 msgstr ""
+"|mana_1|\\ |mana_w|: Przywróć wskazaną kartę artefaktu o skrócie many 1 lub "
+"mniejszym z twojego cmentarza do twojej ręki."
 
 #: ../../MMA.rst:36
 msgid ""
@@ -265,6 +267,8 @@ msgid ""
 "Each player who has cast a nonartifact spell this turn can't cast additional "
 "nonartifact spells."
 msgstr ""
+"Każdy gracz, który rzucił w tej turze nieartefaktowy czar, nie może rzucać "
+"dodatkowych nieartefaktowych czarów."
 
 #: ../../MMA.rst:88
 msgid ""
@@ -292,6 +296,9 @@ msgid ""
 "Return that card to the battlefield under its owner's control at the "
 "beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj inny wskazany permanent. "
+"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../MMA.rst:100
 msgid ""
@@ -498,6 +505,8 @@ msgid ""
 "When Sanctum Gargoyle enters the battlefield, you may return target artifact "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../MMA.rst:162
 msgid ""
@@ -551,6 +560,9 @@ msgid ""
 "put it onto the battlefield. Attach it to a creature you control. Then "
 "shuffle your library."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę Wyposażenia i "
+"umieść ją na polu bitwy. Dołącz ją do stwora pod twoim władaniem. Następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../MMA.rst:182
 msgid ""
@@ -3242,13 +3254,15 @@ msgstr ""
 #: ../../MMA.rst:1165
 msgid ""
 "Chalice of the Void enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki mając X znaczników ładowania."
 
 #: ../../MMA.rst:1167
 msgid ""
 "Whenever a player casts a spell with converted mana cost equal to the number "
 "of charge counters on Chalice of the Void, counter that spell."
 msgstr ""
+"Ilekroć grać rzuci czar o skrócie many równym liczbie znaczników ładowania "
+"na tym artefakcie, skontruj ów czar."
 
 #: ../../MMA.rst:1174
 msgid ""
@@ -3343,7 +3357,7 @@ msgstr ""
 
 #: ../../MMA.rst:1195
 msgid "|tap|, Sacrifice Lotus Bloom: Add three mana of any one color."
-msgstr ""
+msgstr "|tap|, poświęć ten artefakt: Weź trzy many jednego dowolnego koloru."
 
 #: ../../MMA.rst:1200
 msgid ""

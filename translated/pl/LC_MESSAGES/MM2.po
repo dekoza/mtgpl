@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:44+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -537,6 +537,8 @@ msgid ""
 "Whenever you cast an artifact spell, you may pay |mana_1|. If you do, create "
 "a 1/1 colorless Myr artifact creature token."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"stwórz żeton bezkolorowego artefaktowego stwora Myr 1/1."
 
 #: ../../MM2.rst:184
 msgid ""
@@ -3134,12 +3136,14 @@ msgstr ""
 
 #: ../../MM2.rst:1143
 msgid "Equipped creature gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../MM2.rst:1145
 msgid ""
 "|mana_b|\\ |mana_b|: Attach Cranial Plating to target creature you control."
 msgstr ""
+"|mana_b|\\ |mana_b|: Dołącz ten artefakt do wskazanego stwora pod twoim "
+"władaniem."
 
 #: ../../MM2.rst:1147
 msgid "Equip |mana_1|"

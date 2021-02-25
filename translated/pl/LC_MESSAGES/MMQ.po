@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:56+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mmq/pl/>\n"
 "Language: pl\n"
@@ -839,6 +839,8 @@ msgid ""
 "Draw three cards, then put two cards from your hand on top of your library "
 "in any order."
 msgstr ""
+"Dobierz trzy karty, następnie umieść dwie karty z twojej ręki dowolnie na "
+"wierzchu twojej biblioteki."
 
 #: ../../MMQ.rst:290
 msgid ""
@@ -2832,7 +2834,7 @@ msgstr ""
 
 #: ../../MMQ.rst:997
 msgid "Destroy all artifacts."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty."
 
 #: ../../MMQ.rst:1002
 msgid ""

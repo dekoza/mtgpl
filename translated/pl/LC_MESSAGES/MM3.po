@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 08:34+0000\n"
+"PO-Revision-Date: 2021-02-25 10:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -79,10 +79,10 @@ msgid ""
 "When Blade Splicer enters the battlefield, create a 3/3 colorless Golem "
 "artifact creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Golem 3/3."
 
 #: ../../MM3.rst:23
-#, fuzzy
-#| msgid "Golem creatures you control have first strike."
 msgid "Golems you control have first strike."
 msgstr "Golemy pod twoim władaniem mają pierwszy cios."
 
@@ -142,6 +142,9 @@ msgid ""
 "Return that card to the battlefield under its owner's control at the "
 "beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj inny wskazany permanent. "
+"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../MM3.rst:44
 msgid ""
