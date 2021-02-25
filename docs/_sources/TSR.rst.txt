@@ -5,8 +5,48 @@
 =====================================
 
 
+:mtgtip:`Angel of Salvation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a55cdee5-134f-4008-91ce-9e7d0fdb5750.jpg?1614230787|https://scryfall.com/card/tsr/3/angel-of-salvation?utm_source=api>`
+   Flash; convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)
+
+   Flying
+
+   When Angel of Salvation enters the battlefield, prevent the next 5 damage that would be dealt this turn to any number of targets, divided as you choose.
+
+
+:mtgtip:`Ivory Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1b1b580-4a2c-41a4-a1e0-85b659b3a30e.jpg?1614230779|https://scryfall.com/card/tsr/20/ivory-giant?utm_source=api>`
+   When Ivory Giant enters the battlefield, tap all nonwhite creatures.
+
+   Suspend 5—|mana_w| (Rather than cast this card from your hand, you may pay |mana_w| and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+
+
+:mtgtip:`Mana Tithe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9ae707d5-d81d-4320-b947-6016dc188898.jpg?1614229875|https://scryfall.com/card/tsr/26/mana-tithe?utm_source=api>`
+   Counter target spell unless its controller pays |mana_1|.
+
+
+:mtgtip:`Porphyry Nodes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe6f333-ccb4-44ea-be59-bba6335acf99.jpg?1614229902|https://scryfall.com/card/tsr/32/porphyry-nodes?utm_source=api>`
+   At the beginning of your upkeep, destroy the creature with the least power. It can't be regenerated. If two or more creatures are tied for least power, you choose one of them.
+
+   When there are no creatures on the battlefield, sacrifice Porphyry Nodes.
+
+
+:mtgtip:`Return to Dust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5efa90c9-ff9a-4a99-b991-8e4dc54bb131.jpg?1614229943|https://scryfall.com/card/tsr/37/return-to-dust?utm_source=api>`
+   Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment.
+
+
+:mtgtip:`Banishing Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f27dd19-a475-4024-aecf-ba6142806656.jpg?1614230729|https://scryfall.com/card/tsr/291/banishing-light?utm_source=api>`
+   When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield.
+
+
 :mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1609506086|https://scryfall.com/card/tsr/299/path-to-exile?utm_source=api>`
    Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
+
+
+:mtgtip:`Restoration Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc1266de-3a58-4579-9781-78aaf852bbac.jpg?1614230774|https://scryfall.com/card/tsr/300/restoration-angel?utm_source=api>`
+   Flash
+
+   Flying
+
+   When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.
 
 
 :mtgtip:`Relentless Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28de0281-0370-44df-9ee0-6e1bb9925a92.jpg?1609506091|https://scryfall.com/card/tsr/329/relentless-rats?utm_source=api>`
@@ -21,7 +61,7 @@
    Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.
 
 
-:mtgtip:`Cranial Plating<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd26d52d-7437-44cf-90b7-b536a5b8c94d.jpg?1612367931|https://scryfall.com/card/tsr/392/cranial-plating?utm_source=api>`
+:mtgtip:`Cranial Plating<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd26d52d-7437-44cf-90b7-b536a5b8c94d.jpg?1614230477|https://scryfall.com/card/tsr/392/cranial-plating?utm_source=api>`
    Equipped creature gets +1/+0 for each artifact you control.
 
    |mana_b|\ |mana_b|: Attach Cranial Plating to target creature you control.
