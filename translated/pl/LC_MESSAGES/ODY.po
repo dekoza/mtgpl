@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 15:17+0000\n"
+"PO-Revision-Date: 2021-02-25 15:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ody/pl/>\n"
 "Language: pl\n"
@@ -3694,9 +3694,8 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:1283
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_g|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |mana_g|."
 
 #: ../../ODY.rst:1288
 msgid ""
@@ -4088,6 +4087,8 @@ msgid ""
 "Threshold — Werebear gets +3/+3 as long as seven or more cards are in your "
 "graveyard."
 msgstr ""
+"Próg — Ten stwór dostaje +3/+3 o ile w twoim cmentarzu jest co najmniej "
+"siedem kart."
 
 #: ../../ODY.rst:1428
 msgid ""
@@ -4527,6 +4528,9 @@ msgid ""
 "any target. Activate this ability only if seven or more cards are in your "
 "graveyard."
 msgstr ""
+"Próg — |mana_r|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu celowi 2 "
+"obrażenia. Możesz aktywować tylko gdy w twoim cmentarzu jest co najmniej "
+"siedem kart."
 
 #: ../../ODY.rst:1590
 msgid ""
@@ -4564,6 +4568,9 @@ msgid ""
 "until end of turn. Activate this ability only if seven or more cards are in "
 "your graveyard."
 msgstr ""
+"Próg — |mana_b|, |tap|, poświęć ten ląd: Wskazany stwór dostaje do końca "
+"tury -2/-2. Możesz aktywować tylko gdy w twoim cmentarzu jest co najmniej "
+"siedem kart."
 
 #: ../../ODY.rst:1602
 msgid ""
@@ -4582,6 +4589,9 @@ msgid ""
 "+3/+3 until end of turn. Activate this ability only if seven or more cards "
 "are in your graveyard."
 msgstr ""
+"Próg — |mana_g|, |tap|, poświęć ten ląd: Wskazany stwór dostaje do końca "
+"tury +3/+3. Możesz aktywować tylko gdy w twoim cmentarzu jest co najmniej "
+"siedem kart."
 
 #: ../../ODY.rst:1608
 msgid ""
@@ -4600,6 +4610,9 @@ msgid ""
 "draws three cards, then discards three cards. Activate this ability only if "
 "seven or more cards are in your graveyard."
 msgstr ""
+"Próg — |mana_u|, |tap|, poświęć ten ląd: Wskazany gracz dobiera trzy karty, "
+"następnie odrzuca trzy karty. Możesz aktywować tylko gdy w twoim cmentarzu "
+"jest co najmniej siedem kart."
 
 #: ../../ODY.rst:1614
 msgid ""
@@ -4666,6 +4679,8 @@ msgid ""
 "Threshold — |mana_w|, |tap|, Sacrifice Nomad Stadium: You gain 4 life. "
 "Activate this ability only if seven or more cards are in your graveyard."
 msgstr ""
+"Próg — |mana_w|, |tap|, poświęć ten ląd: Zyskaj 4 życia. Możesz aktywować "
+"tylko gdy w twoim cmentarzu jest co najmniej siedem kart."
 
 #: ../../ODY.rst:1640
 msgid ""
