@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2021, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2021.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: szl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../BNG_horde.rst:5
+msgid "Battle the Horde!"
+msgstr ""
+
+#: ../../BNG_horde.rst:7
+msgid "You have come far, hero, but the next step on your Hero's Path is the deadliest yet. You will face the Horde, an onslaught of savage and fierce Minotaurs, an unyielding tide of destruction."
+msgstr ""
+
+#: ../../BNG_horde.rst:10
+msgid "As the battle progresses, more and more Minotaurs will join the ranks of the Horde. They will attack at every opportunitym but a strong defense can turn their aggression against them. The Horde will bring idols, talismans, and other remnants of previous conquests. On the battlefield, these artifacts will inspire the Horde to frenzy, speeding up the assault. But if you can send those artifacts to the graveyard, you'll reap the rewards. The Horde's sorceries make its creatures difficult to handle in combat, but these sorceries can backfire at times."
+msgstr ""
+
+#: ../../BNG_horde.rst:17
+msgid "Can you defeat the Horde? To battle!"
+msgstr ""
+
+#: ../../BNG_horde.rst:20
+msgid "**The \"Battle the Horde\" Challenge uses the Regular Magic rules, with the following exceptions:**"
+msgstr ""
+
+#: ../../BNG_horde.rst:23
+msgid "Special Rules for the Player"
+msgstr ""
+
+#: ../../BNG_horde.rst:25
+msgid "You start with up to three different Hero cards on the battlefield. (You don't need a Hero to play.)"
+msgstr ""
+
+#: ../../BNG_horde.rst:26
+msgid "**You take three turns at the start of the game, before the Horde takes its first turn.**"
+msgstr ""
+
+#: ../../BNG_horde.rst:27
+msgid "You can attack the Horde with your creatures as thought it were a player, even before the Horde takes a turn."
+msgstr ""
+
+#: ../../BNG_horde.rst:28
+msgid "The Horde doesn't have a life total, but its library serves a similar purpose. **If the Horde would lose life, put that many cards from the top of its library into its graveyard.** Watch for artifact cards in the Horde's library. They each have a \"hero's reward\" ability that triggers when the artifact card is put into the graveyard."
+msgstr ""
+
+#: ../../BNG_horde.rst:32
+msgid "You can target the Horde with spells and abilities a thought it were a player, even before the Horde takes a turn."
+msgstr ""
+
+#: ../../BNG_horde.rst:36
+msgid "Special Rules for the Horde"
+msgstr ""
+
+#: ../../BNG_horde.rst:38
+msgid "At the beginning of the Horde's precombat main phase each turn, reveal the top two cards of the Horde's library. Then the Horde casts those cards. (The Horde's artifacts each cause an additional card to be revealed and cast, starting the turn after the artifact enters the battlefield.)"
+msgstr ""
+
+#: ../../BNG_horde.rst:41
+msgid "You make the choice if the Horde needs to make a decision."
+msgstr ""
+
+#: ../../BNG_horde.rst:42
+msgid "Ignore effects that would cause Horde to draw or discard cards, or perform any impossible actions."
+msgstr ""
+
+#: ../../BNG_horde.rst:43
+msgid "If on of the Horde's permanents would move to any zone other than its library or graveyard, that card is put into the Horde's graveyard."
+msgstr ""
+
+#: ../../BNG_horde.rst:47
+msgid "Winning the Challenge"
+msgstr ""
+
+#: ../../BNG_horde.rst:49
+msgid "You win the game if the Horde has no cards left in its library and the Horde controls no creatures on the battlefield."
+msgstr ""
+
+#: ../../BNG_horde.rst:51
+msgid "You lose the game if you have 0 or less life or if you have to draw a card and your library is empty."
+msgstr ""
+
+#: ../../BNG_horde.rst:53
+msgid "For a more difficult challenge, try taking only two turns before the Horde's first turn. For an easier challenge, take four turns."
+msgstr ""
+
+#: ../../BNG_horde.rst:58
+msgid "Horde Cards"
+msgstr ""
+
+#: ../../BNG_horde.rst:61
+msgid "Creatures"
+msgstr ""
+
+#: ../../BNG_horde.rst:67
+msgid "Minotaur Goreseeker"
+msgstr ""
+
+#: ../../BNG_horde.rst:64
+#: ../../BNG_horde.rst:70
+#: ../../BNG_horde.rst:82
+#: ../../BNG_horde.rst:88
+msgid "Haste"
+msgstr ""
+
+#: ../../BNG_horde.rst:66
+msgid "Minotaur Goreseeker attacks each turn if able."
+msgstr ""
+
+#: ../../BNG_horde.rst:73
+msgid "Minotaur Younghorn"
+msgstr ""
+
+#: ../../BNG_horde.rst:72
+msgid "Minotaur Younghorn attacks each turn if able"
+msgstr ""
+
+#: ../../BNG_horde.rst:79
+msgid "Mogis's Chosen"
+msgstr ""
+
+#: ../../BNG_horde.rst:76
+msgid "Mogis's Chosen enters the battlefield tapped."
+msgstr ""
+
+#: ../../BNG_horde.rst:78
+msgid "Mogis's Chosen attacks each turn if able."
+msgstr ""
+
+#: ../../BNG_horde.rst:85
+msgid "Phoberos Reaver"
+msgstr ""
+
+#: ../../BNG_horde.rst:84
+msgid "Phoberos Reaver attacks each turn if able."
+msgstr ""
+
+#: ../../BNG_horde.rst:93
+msgid "Reckless Minotaur"
+msgstr ""
+
+#: ../../BNG_horde.rst:90
+msgid "Reckless Minotaur attacks each turn if able."
+msgstr ""
+
+#: ../../BNG_horde.rst:93
+msgid "At the beginning of the end step, destroy Reckless Minotaur"
+msgstr ""
+
+#: ../../BNG_horde.rst:96
+msgid "Sorceries"
+msgstr ""
+
+#: ../../BNG_horde.rst:100
+msgid "Consuming Rage"
+msgstr ""
+
+#: ../../BNG_horde.rst:99
+msgid "Whenever a Minotaur attacks this turn, it gets +2/+0 until end of turn. Destroy that creature at the end of combat."
+msgstr ""
+
+#: ../../BNG_horde.rst:103
+msgid "Descend on the Prey"
+msgstr ""
+
+#: ../../BNG_horde.rst:103
+msgid "Whenever a Minotaur attacks this turn, it gains first strike until end of turn and must be blocked this turn if able."
+msgstr ""
+
+#: ../../BNG_horde.rst:106
+msgid "Intervention of Keranos"
+msgstr ""
+
+#: ../../BNG_horde.rst:106
+msgid "At the beginning of combat this turn, Intervention of Keranos deals 3 damage to each creature."
+msgstr ""
+
+#: ../../BNG_horde.rst:109
+msgid "Touch of the Horned God"
+msgstr ""
+
+#: ../../BNG_horde.rst:109
+msgid "Whenever a Minotaur attacks this turn, it gets deathtouch until end of turn."
+msgstr ""
+
+#: ../../BNG_horde.rst:112
+msgid "Unquenchable Fury"
+msgstr ""
+
+#: ../../BNG_horde.rst:112
+msgid "Each Minotaur can't be blocked this turn except by two or more creatures."
+msgstr ""
+
+#: ../../BNG_horde.rst:115
+msgid "Artifacts"
+msgstr ""
+
+#: ../../BNG_horde.rst:123
+msgid "Altar of Mogis"
+msgstr ""
+
+#: ../../BNG_horde.rst:118
+#: ../../BNG_horde.rst:126
+#: ../../BNG_horde.rst:134
+#: ../../BNG_horde.rst:142
+#: ../../BNG_horde.rst:150
+msgid "At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card."
+msgstr ""
+
+#: ../../BNG_horde.rst:120
+msgid "*Hero's Reward* - When Altar of Mogis is put into a graveyard from anywhere, the Horde sacrifices two Minotaurs."
+msgstr ""
+
+#: ../../BNG_horde.rst:131
+msgid "Massacre Totem"
+msgstr ""
+
+#: ../../BNG_horde.rst:128
+msgid "*Hero's Reward* - When Massacre Totem is put into a graveyard from anywhere, put the top seven cards of the Horde's library into its graveyard."
+msgstr ""
+
+#: ../../BNG_horde.rst:139
+msgid "Plundered Statue"
+msgstr ""
+
+#: ../../BNG_horde.rst:136
+msgid "*Hero's Reward* - When Plundered Statue is put into a graveyard from anywhere, each player draws a card."
+msgstr ""
+
+#: ../../BNG_horde.rst:147
+msgid "Refreshing Elixir"
+msgstr ""
+
+#: ../../BNG_horde.rst:144
+msgid "*Hero's Reward* - When Refreshing Elixir is put into a graveyard from anywhere, each player gains 5 life."
+msgstr ""
+
+#: ../../BNG_horde.rst:154
+msgid "Vitality Salve"
+msgstr ""
+
+#: ../../BNG_horde.rst:152
+msgid "*Hero's Reward* - When Vitality Salve is put into a graveyard from anywhere, each player returns a creature card from his or her graveyard to the battlefield."
+msgstr ""

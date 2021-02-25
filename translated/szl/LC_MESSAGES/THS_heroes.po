@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2021, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2021.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-13 20:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: szl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../THS_heroes.rst:6
+msgid "Heroes of Theros"
+msgstr ""
+
+#: ../../THS_heroes.rst:10
+msgid "Theros"
+msgstr ""
+
+#: ../../THS_heroes.rst:13
+msgid "The Avenger"
+msgstr ""
+
+#: ../../THS_heroes.rst:13
+msgid "|mana_3| |tap|: Target creature you control gains deathtouch until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:16
+msgid "The Harvester"
+msgstr ""
+
+#: ../../THS_heroes.rst:16
+msgid "|tap|: Draw a card, then discard a card."
+msgstr ""
+
+#: ../../THS_heroes.rst:19
+msgid "The Hunter"
+msgstr ""
+
+#: ../../THS_heroes.rst:19
+msgid "|tap|: Target creature you control gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:22
+msgid "The Philosopher"
+msgstr ""
+
+#: ../../THS_heroes.rst:22
+msgid "|mana_2| |tap|: Tap target creature."
+msgstr ""
+
+#: ../../THS_heroes.rst:25
+msgid "The Protector"
+msgstr ""
+
+#: ../../THS_heroes.rst:25
+msgid "|tap|: Prevent the next 1 damage that would be dealt to target creature or player this turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:28
+msgid "The Slayer"
+msgstr ""
+
+#: ../../THS_heroes.rst:28
+msgid "You start the game with additional 7 life."
+msgstr ""
+
+#: ../../THS_heroes.rst:32
+msgid "The Warrior"
+msgstr ""
+
+#: ../../THS_heroes.rst:31
+msgid "|tap|: Target creature you control gains haste until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:35
+msgid "Born of the Gods"
+msgstr ""
+
+#: ../../THS_heroes.rst:38
+msgid "The Explorer"
+msgstr ""
+
+#: ../../THS_heroes.rst:38
+msgid "You may play an additional land on each of your turns."
+msgstr ""
+
+#: ../../THS_heroes.rst:41
+msgid "The General"
+msgstr ""
+
+#: ../../THS_heroes.rst:41
+msgid "Exile The General: Creatures you control get +1/+1 until end of turn. Untap them."
+msgstr ""
+
+#: ../../THS_heroes.rst:44
+msgid "The Provider"
+msgstr ""
+
+#: ../../THS_heroes.rst:44
+msgid "Exile The Provider: Put two +1/+1 counters on target creature you control. You gain life equal to that creature's toughness."
+msgstr ""
+
+#: ../../THS_heroes.rst:47
+msgid "The Savant"
+msgstr ""
+
+#: ../../THS_heroes.rst:47
+msgid "Exile The Savant: Tap all creatures yout opponents control. Those creatures don't untap during their controller's next untap steps."
+msgstr ""
+
+#: ../../THS_heroes.rst:50
+msgid "The Tyrant"
+msgstr ""
+
+#: ../../THS_heroes.rst:50
+msgid "Exile The Tyrant: Creatures your opponents control get -1/-1 until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:55
+msgid "The Vanquisher"
+msgstr ""
+
+#: ../../THS_heroes.rst:53
+msgid "Your starting hand size is increased by one."
+msgstr ""
+
+#: ../../THS_heroes.rst:55
+msgid "Your maximum hand size is increased by one."
+msgstr ""
+
+#: ../../THS_heroes.rst:59
+msgid "The Warmonger"
+msgstr ""
+
+#: ../../THS_heroes.rst:58
+msgid "Exile The Warmonger: Creatures you control get +2/+0 and gain haste until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:62
+msgid "Journey into Nyx"
+msgstr ""
+
+#: ../../THS_heroes.rst:65
+msgid "Hero Artifacts"
+msgstr ""
+
+#: ../../THS_heroes.rst:70
+msgid "Spear of the General"
+msgstr ""
+
+#: ../../THS_heroes.rst:68
+msgid "Equipped creature gets +2/+0 and has first strike."
+msgstr ""
+
+#: ../../THS_heroes.rst:70
+#: ../../THS_heroes.rst:77
+#: ../../THS_heroes.rst:82
+#: ../../THS_heroes.rst:87
+#: ../../THS_heroes.rst:92
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../THS_heroes.rst:77
+msgid "Cloak of the Philosopher"
+msgstr ""
+
+#: ../../THS_heroes.rst:73
+msgid "Equipped creature gets +1/+1."
+msgstr ""
+
+#: ../../THS_heroes.rst:75
+msgid "|mana_2|: Untap equipped creature."
+msgstr ""
+
+#: ../../THS_heroes.rst:82
+msgid "Lash of the Tyrant"
+msgstr ""
+
+#: ../../THS_heroes.rst:80
+msgid "Equipped creature gets +1/+2 and has deathtouch."
+msgstr ""
+
+#: ../../THS_heroes.rst:87
+msgid "Axe of the Warmonger"
+msgstr ""
+
+#: ../../THS_heroes.rst:85
+msgid "Equipped creature gets +2/+1 and has haste."
+msgstr ""
+
+#: ../../THS_heroes.rst:92
+msgid "Bow of the Hunter"
+msgstr ""
+
+#: ../../THS_heroes.rst:90
+msgid "Equipped creature has \"|tap|: This creature deals 2 damage to target creature or player.\""
+msgstr ""
+
+#: ../../THS_heroes.rst:95
+msgid "\"Forge a Godslayer\" Stickers"
+msgstr ""
+
+#: ../../THS_heroes.rst:97
+msgid "Equipped creature has double strike."
+msgstr ""
+
+#: ../../THS_heroes.rst:98
+msgid "Whenever equipped creature deals damage, untap two target lands."
+msgstr ""
+
+#: ../../THS_heroes.rst:99
+msgid "Equipped creature has vigilance and can block an additional creature each combat."
+msgstr ""
+
+#: ../../THS_heroes.rst:100
+msgid "Whenever equipped creature deals damage, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../THS_heroes.rst:101
+msgid "Whenever equipped creature deals damage, scry 1."
+msgstr ""
+
+#: ../../THS_heroes.rst:102
+msgid "Equipped creature has protection from enchantments."
+msgstr ""
+
+#: ../../THS_heroes.rst:103
+msgid "Whenever equipped creature deals damage, put a 1/1 white Soldier creature token onto the battlefield."
+msgstr ""
+
+#: ../../THS_heroes.rst:106
+msgid "Heroes"
+msgstr ""
+
+#: ../../THS_heroes.rst:109
+msgid "The Destined"
+msgstr ""
+
+#: ../../THS_heroes.rst:109
+msgid "Spells you cast that target a creature you control cost |mana_2| less to cast."
+msgstr ""
+
+#: ../../THS_heroes.rst:112
+msgid "The Champion"
+msgstr ""
+
+#: ../../THS_heroes.rst:112
+msgid "|mana_2|, |tap|, Exile The Champion: Search your library for a legendary artifact card that isn't a creature, reveal it, and put it onto the battlefield. Then shuffle your library"
+msgstr ""
