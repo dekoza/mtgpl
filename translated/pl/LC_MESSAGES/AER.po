@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-25 12:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/aer/pl/>\n"
 "Language: pl\n"
@@ -1380,7 +1380,7 @@ msgstr ""
 
 #: ../../AER.rst:461
 msgid "Frontline Rebel attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../AER.rst:470
 msgid ""
@@ -2476,7 +2476,7 @@ msgstr ""
 
 #: ../../AER.rst:797
 msgid "Barricade Breaker attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../AER.rst:802
 msgid ""
@@ -2555,9 +2555,9 @@ msgid ""
 "a velocity counter on it. Then if it has two or more velocity counters on "
 "it, sacrifice it and draw two cards."
 msgstr ""
-"Na koniec potyczki, jeśli ten stwór zaatakował lub zablokował w tej walce, "
-"umieść na nim znacznik prędkości. Następnie jeśli ma co najmniej dwa "
-"znaczniki prędkości, poświęć go i dobierz dwie karty."
+"Na koniec potyczki, jeśli ten stwór zaatakował lub zablokował w tej "
+"potyczce, umieść na nim znacznik prędkości. Następnie jeśli ma co najmniej "
+"dwa znaczniki prędkości, poświęć go i dobierz dwie karty."
 
 #: ../../AER.rst:821 ../../AER.rst:911
 msgid ""
@@ -2874,7 +2874,7 @@ msgstr ""
 
 #: ../../AER.rst:915
 msgid "Night Market Guard can block an additional creature each combat."
-msgstr "Ten stwór może blokować dodatkowego stwora w każdej walce."
+msgstr "Ten stwór może blokować dodatkowego stwora w każdej potyczce."
 
 #: ../../AER.rst:920
 msgid ""

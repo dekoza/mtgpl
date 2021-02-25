@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 11:32+0000\n"
+"PO-Revision-Date: 2021-02-25 12:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cn2/pl/>\n"
 "Language: pl\n"
@@ -1681,7 +1681,7 @@ msgid ""
 "additional ninety-nine creatures each combat."
 msgstr ""
 "O ile ten stwór jest monstrualny, ma zasięg i może blokować dodatkowych "
-"dziewięćdziesiąt dziewięć stworów w każdej walce."
+"dziewięćdziesiąt dziewięć stworów w każdej potyczce."
 
 #: ../../CN2.rst:574
 msgid ""
@@ -1826,9 +1826,8 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:635
-#, fuzzy
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr "Kiedy Baleful Strix wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
 
 #: ../../CN2.rst:637
 msgid "Untap target permanent you control."
@@ -2764,13 +2763,12 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:971
-#, fuzzy
 msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca kładzie na polu bitwy żeton "
-"zielonego stwora Bestia 3/3."
+"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Bestia "
+"3/3."
 
 #: ../../CN2.rst:978
 msgid ""

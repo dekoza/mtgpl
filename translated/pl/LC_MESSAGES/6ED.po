@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-25 12:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/6ed/pl/>\n"
 "Language: pl\n"
@@ -2869,9 +2869,8 @@ msgid ""
 msgstr ""
 
 #: ../../6ED.rst:1049
-#, fuzzy
 msgid "|tap|: Add |mana_g|\\ |mana_g|."
-msgstr "|tap|: Weź |mana_g|."
+msgstr "|tap|: Weź |mana_g|\\ |mana_g|."
 
 #: ../../6ED.rst:1054
 msgid ""

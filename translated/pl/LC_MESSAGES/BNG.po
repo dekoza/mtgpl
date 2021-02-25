@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-25 12:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng/pl/>\n"
 "Language: pl\n"
@@ -2054,7 +2054,7 @@ msgid ""
 "Forgestoker Dragon is attacking."
 msgstr ""
 "|mana_1|\\ |mana_r|: Ten stwór zadaje wskazanemu stworowi 1 obrażenie. Ów "
-"stwór nie może blokować w tej walce. Możesz aktywować tę zdolność tylko "
+"stwór nie może blokować w tej potyczce. Możesz aktywować tę zdolność tylko "
 "jeśli ten stwór zaatakuje."
 
 #: ../../BNG.rst:538
@@ -2074,7 +2074,7 @@ msgstr "Latanie, pośpiech"
 # 96ff31c7c3394a318f16dab4d3dd5902
 #: ../../BNG.rst:537
 msgid "Impetuous Sunchaser attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../BNG.rst:542
 msgid ""

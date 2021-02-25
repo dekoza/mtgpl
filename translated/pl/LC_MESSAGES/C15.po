@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:24+0000\n"
+"PO-Revision-Date: 2021-02-25 12:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -2290,6 +2290,8 @@ msgid ""
 "Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C15.rst:780
 msgid ""
@@ -2481,6 +2483,8 @@ msgstr "Zaurocz gracza"
 #: ../../C15.rst:835
 msgid "Creatures enchanted player controls attack each combat if able."
 msgstr ""
+"Stwory pod włądaniem zauroczonego atakują w każdej potyczce, jeśli to "
+"możliwe."
 
 #: ../../C15.rst:842
 msgid ""
@@ -3394,6 +3398,8 @@ msgid ""
 "Flashback |mana_6|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_6|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C15.rst:1140
 msgid ""
@@ -4741,7 +4747,7 @@ msgstr ""
 #: ../../C15.rst:1619
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, poświęć stwora: Dobierz kartę."
 
 #: ../../C15.rst:1626
 msgid ""

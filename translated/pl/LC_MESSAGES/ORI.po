@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-25 12:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ori/pl/>\n"
 "Language: pl\n"
@@ -406,8 +406,8 @@ msgid ""
 "transformed under his owner's control."
 msgstr ""
 "Na koniec potyczki, jeśli ten stwór i przynajmniej dwa inne stwory atakowały "
-"w tej walce, wygnaj niniejszą kartę, następnie przywróć ją transformowaną na "
-"pole bitwy pod władaniem właściciela."
+"w tej potyczce, wygnaj niniejszą kartę, następnie przywróć ją transformowaną "
+"na pole bitwy pod władaniem właściciela."
 
 #: ../../ORI.rst:129
 msgid "|mana_2|\\ |mana_w|: Kytheon gains indestructible until end of turn."
@@ -2636,8 +2636,8 @@ msgstr ""
 msgid ""
 "Enchanted creature gets +2/+1, has haste, and attacks each combat if able."
 msgstr ""
-"Zauroczony stwór dostaje +2/+1, ma pośpiech i atakuje w każdej walce, jeśli "
-"może."
+"Zauroczony stwór dostaje +2/+1, ma pośpiech i atakuje w każdej potyczce, "
+"jeśli może."
 
 #: ../../ORI.rst:851
 msgid ""
@@ -2673,7 +2673,7 @@ msgstr ""
 
 #: ../../ORI.rst:861
 msgid "Mage-Ring Bully attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../ORI.rst:868
 msgid ""
@@ -3996,7 +3996,7 @@ msgstr ""
 
 #: ../../ORI.rst:1287
 msgid "Ramroller attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../ORI.rst:1289
 msgid "Ramroller gets +2/+0 as long as you control another artifact."

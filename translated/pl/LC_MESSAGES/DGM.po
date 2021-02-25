@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-25 12:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dgm/pl/>\n"
 "Language: pl\n"
@@ -662,7 +662,7 @@ msgstr "Pierwszy cios"
 # 6027f7e56ea54562999de453286c2460
 #: ../../DGM.rst:187
 msgid "Riot Piker attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../DGM.rst:192
 msgid ""
@@ -1013,8 +1013,8 @@ msgid ""
 "combat."
 msgstr ""
 "Na początku każdej potyczki, co najwyżej jeden wskazany stwór atakuje lub "
-"blokuje w tej walce, jeśli może, i co najwyżej jeden wskazany stwór nie może "
-"atakować lub blokować w tej walce."
+"blokuje w tej potyczce, jeśli może, i co najwyżej jeden wskazany stwór nie "
+"może atakować lub blokować w tej potyczce."
 
 #: ../../DGM.rst:294
 msgid ""
@@ -1464,7 +1464,8 @@ msgid ""
 "this combat."
 msgstr ""
 "Ilekroć ten stwór zaatakuje gracza i nie jest blokowany, liczba żyć owego "
-"gracza staje się równa 1. Ten stwór nie zadaje obrażeń bojowych w tej walce."
+"gracza staje się równa 1. Ten stwór nie zadaje obrażeń bojowych w tej "
+"potyczce."
 
 #: ../../DGM.rst:428
 msgid ""
@@ -1757,7 +1758,7 @@ msgstr "Czujność, zasięg"
 # 112ee48f86e64955a4d2da5b15525d91
 #: ../../DGM.rst:509
 msgid "Ruric Thar, the Unbowed attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 # 354e09e617c840188d2c1e830c9b7299
 #: ../../DGM.rst:511

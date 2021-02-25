@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-15 18:06+0100\n"
-"PO-Revision-Date: 2021-02-25 10:25+0000\n"
+"PO-Revision-Date: 2021-02-25 12:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -493,7 +493,7 @@ msgid "At the beginning of combat on your turn, you may pay |mana_2|\\ |mana_rg|
 msgstr ""
 "Na początku potyczki w twojej turze, możesz zapłacić |mana_2|\\ |mana_rg|. "
 "Jeśli tak zrobisz, podwój do końca tury siłę wskazanego stwora. Ów stwór "
-"musi być blokowany w tej walce jeśli to możliwe. (|mana_rg| można opłacić "
+"musi być blokowany w tej potyczce jeśli to możliwe. (|mana_rg| można opłacić "
 "używając |mana_r| lub |mana_g|.)"
 
 #: ../../JMP.rst:184
@@ -2923,7 +2923,7 @@ msgstr ""
 
 #: ../../JMP.rst:1373
 msgid "Bloodrock Cyclops attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../JMP.rst:1378
 msgid ":mtgtip:`Bloodshot Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd1a398b-4551-4522-a90a-620c90bd92c7.jpg?1600714884|https://scryfall.com/card/jmp/298/bloodshot-trainee?utm_source=api>`"
@@ -4780,7 +4780,7 @@ msgstr ""
 
 #: ../../JMP.rst:2249
 msgid "Juggernaut attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../JMP.rst:2251
 msgid "Juggernaut can't be blocked by Walls."

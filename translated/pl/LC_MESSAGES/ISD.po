@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:44+0000\n"
+"PO-Revision-Date: 2021-02-25 12:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -294,7 +294,7 @@ msgid ""
 "Flashback |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_1|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:86
@@ -522,7 +522,7 @@ msgid ""
 "Flashback |mana_w| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_w| (Możesz zagrać tę kartę z twojego cmentarza za koszt "
+"Wspomnienie |mana_w| (Możesz rzucić tę kartę z twojego cmentarza za koszt "
 "wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:158
@@ -768,10 +768,8 @@ msgstr ""
 
 # 17e9b2aa69f24df2a809f3883ce36609
 #: ../../ISD.rst:225
-#, fuzzy
-#| msgid "As Nevermore enters the battlefield, choose a nonland card name."
 msgid "When Armored Skaab enters the battlefield, mill four cards."
-msgstr "Umieszczając ten urok na polu bitwy nazwij nie-lądową kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../ISD.rst:230
 msgid ""
@@ -816,7 +814,7 @@ msgid ""
 "Flashback |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_5|\\ |mana_u|\\ |mana_u| (Możesz zagrać tę kartę z twojego "
+"Wspomnienie |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:246
@@ -943,16 +941,12 @@ msgid ""
 msgstr ""
 
 #: ../../ISD.rst:281
-#, fuzzy
-#| msgid ""
-#| "|tap|: Each player puts the top card of their library into their "
-#| "graveyard."
 msgid ""
 "|tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of "
 "your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść dwie wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+"|tap|, zmiel kartę: Weź |colorless|. (By zmielić kartę, umieść wierzchnią "
+"kartę twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../ISD.rst:286
 msgid ""
@@ -1001,7 +995,7 @@ msgid ""
 "Flashback |mana_6|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_6|\\ |mana_b| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_6|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:300
@@ -1043,7 +1037,7 @@ msgid ""
 "Flashback |mana_7|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_7|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:316
@@ -1193,7 +1187,7 @@ msgid ""
 "Flashback |mana_g| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_g| (Możesz zagrać tę kartę z twojego cmentarza za koszt "
+"Wspomnienie |mana_g| (Możesz rzucić tę kartę z twojego cmentarza za koszt "
 "wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:362
@@ -1281,16 +1275,10 @@ msgstr ""
 
 # 6d2b794217284833812e73fb281e7964
 #: ../../ISD.rst:389
-#, fuzzy
-#| msgid ""
-#| "Whenever Falkenrath Noble or another creature dies, target player loses 1 "
-#| "life and you gain 1 life."
 msgid ""
 "Whenever Selhoff Occultist or another creature dies, target player mills a "
 "card."
-msgstr ""
-"Ilekroć ten lub inny stwór umrze, wskazany gracz traci 1 życie, a ty zyskaj "
-"1 życie."
+msgstr "Ilekroć umrze ten lub inny stwór, wskazany gracz mieli kartę."
 
 #: ../../ISD.rst:396
 msgid ""
@@ -1322,7 +1310,7 @@ msgid ""
 "Flashback |mana_4|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_4|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:408
@@ -1380,7 +1368,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
 "twoim cmentarzu zyskuje wspomnienie do końca tury. Koszt wspomnienia jest "
-"równy jej kosztowi many. (Możesz zagrać ową kartę z twojego cmentarza za "
+"równy jej kosztowi many. (Możesz rzucić ową kartę z twojego cmentarza za "
 "koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:428
@@ -1464,16 +1452,12 @@ msgstr ""
 
 # 4d3222a05bd8421784249b7d18ffdafa
 #: ../../ISD.rst:455
-#, fuzzy
-#| msgid ""
-#| "Whenever a Vampire you control deals combat damage to a player, put a +1/"
-#| "+1 counter on it."
 msgid ""
 "If a Zombie you control would deal combat damage to a player, instead that "
 "player mills that many cards."
 msgstr ""
-"Ilekroć Wampir pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
-"nim znacznik +1/+1."
+"Jeśli Zombi pod twoim władaniem miałby zadać graczowi obrażenia bojowe, "
+"zamiast tego ów gracz mieli tyle samo kart."
 
 #: ../../ISD.rst:457
 msgid ""
@@ -1528,11 +1512,8 @@ msgstr ""
 
 # 351cc44912784b47b35c4c6f622c8e8d
 #: ../../ISD.rst:473
-#, fuzzy
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
-msgstr ""
-"Umieść na polu bitwy trzynaście przekręconych żetonów czarnego stwora Zombi "
-"2/2."
+msgstr "Stwórz trzynaście przekręconych żetonów czarnego stwora Zombi 2/2."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:475
@@ -1540,7 +1521,7 @@ msgid ""
 "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card "
 "from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę "
 "kartę z twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:482
@@ -1586,11 +1567,8 @@ msgstr ""
 
 # 351cc44912784b47b35c4c6f622c8e8d
 #: ../../ISD.rst:493 ../../ISD.rst:503
-#, fuzzy
 msgid "|tap|: Create a 2/2 black Vampire creature token with flying."
-msgstr ""
-"Umieść na polu bitwy trzynaście przekręconych żetonów czarnego stwora Zombi "
-"2/2."
+msgstr "|tap|: Stwórz żeton czarnego stwora Wampir 2/2 z lataniem."
 
 # dd5991cf83974c56a2a7833faac00bb5
 #: ../../ISD.rst:495
@@ -1646,7 +1624,7 @@ msgid ""
 "Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_5|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_5|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:522
@@ -1908,7 +1886,7 @@ msgid ""
 "Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_5|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę kartę z twojego "
+"Wspomnienie |mana_5|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:614
@@ -2111,7 +2089,7 @@ msgid ""
 "Flashback |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_w| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_3|\\ |mana_w| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:684
@@ -2227,7 +2205,7 @@ msgstr ""
 
 #: ../../ISD.rst:721
 msgid "Bloodcrazed Neonate attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 # a00061db7557406cb95107eb5cedabcd
 #: ../../ISD.rst:723
@@ -2329,9 +2307,10 @@ msgstr ""
 
 # 4d4d62724442459ebb50a5147243b51d
 #: ../../ISD.rst:755
-#, fuzzy
 msgid "Creatures enchanted player controls attack each combat if able."
-msgstr "Stwory władane przez zauroczonego gracza dostają -1/-1."
+msgstr ""
+"Stwory pod włądaniem zauroczonego atakują w każdej potyczce, jeśli to "
+"możliwe."
 
 #: ../../ISD.rst:762
 msgid ""
@@ -2376,7 +2355,7 @@ msgid ""
 "Flashback |mana_x|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this card "
 "from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_x|\\ |mana_r|\\ |mana_r|\\ |mana_r| (Możesz zagrać tę "
+"Wspomnienie |mana_x|\\ |mana_r|\\ |mana_r|\\ |mana_r| (Możesz rzucić tę "
 "kartę z twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:780
@@ -2419,7 +2398,7 @@ msgstr ""
 # 24616a928d61421ea3ee260c599ea1df
 #: ../../ISD.rst:791
 msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
-msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej walce, jeśli może."
+msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej potyczce, jeśli może."
 
 #: ../../ISD.rst:798
 msgid ""
@@ -2438,7 +2417,7 @@ msgid ""
 "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_3|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:804
@@ -2466,7 +2445,7 @@ msgstr ""
 
 #: ../../ISD.rst:807
 msgid "Bane of Hanweir attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 # 42ed983796f74e61a67413be64b763f9
 #: ../../ISD.rst:809
@@ -2669,7 +2648,7 @@ msgid ""
 "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_4|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:882
@@ -2767,7 +2746,7 @@ msgid ""
 "Flashback |mana_4|\\ |mana_r|\\ |mana_r| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_r|\\ |mana_r| (Możesz zagrać tę kartę z twojego "
+"Wspomnienie |mana_4|\\ |mana_r|\\ |mana_r| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:912
@@ -2989,7 +2968,7 @@ msgid ""
 "Flashback |mana_5|\\ |mana_g|\\ |mana_g| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_5|\\ |mana_g|\\ |mana_g| (Możesz zagrać tę kartę z twojego "
+"Wspomnienie |mana_5|\\ |mana_g|\\ |mana_g| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:984
@@ -3203,7 +3182,7 @@ msgid ""
 "Flashback |mana_2|\\ |mana_g| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_2|\\ |mana_g| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_2|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:1052
@@ -3584,7 +3563,7 @@ msgid ""
 "Flashback |mana_1|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_1|\\ |mana_w| (Możesz zagrać tę kartę z twojego cmentarza "
+"Wspomnienie |mana_1|\\ |mana_w| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ISD.rst:1174
@@ -3890,7 +3869,7 @@ msgstr ""
 
 #: ../../ISD.rst:1269
 msgid "Galvanic Juggernaut attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 # b92452927edc483baab48a7e05673c87
 #: ../../ISD.rst:1271
@@ -3925,7 +3904,7 @@ msgstr ""
 
 #: ../../ISD.rst:1281
 msgid "|tap|: Each player mills a card."
-msgstr ""
+msgstr "|tap|: Każdy gracz mieli kartę."
 
 #: ../../ISD.rst:1286
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-25 12:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hou/pl/>\n"
 "Language: pl\n"
@@ -1790,7 +1790,7 @@ msgstr ""
 
 #: ../../HOU.rst:571
 msgid "Manticore Eternal attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli może."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../HOU.rst:578
 msgid ""
@@ -1804,7 +1804,7 @@ msgid ""
 "At the beginning of your postcombat main phase, add |mana_r| for each 1 life "
 "your opponents have lost this turn."
 msgstr ""
-"Na początku twojej fazy głównej po walce, weź |mana_r| za każde 1 życie, "
+"Na początku twojej fazy głównej po potyczce, weź |mana_r| za każde 1 życie, "
 "które w tej turze stracili twoi przeciwnicy."
 
 #: ../../HOU.rst:582

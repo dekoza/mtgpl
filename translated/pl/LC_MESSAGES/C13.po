@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:57+0000\n"
+"PO-Revision-Date: 2021-02-25 12:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -696,9 +696,8 @@ msgstr ""
 
 # eb69607d046b4fbd9ed0f54424ab87f1
 #: ../../C13.rst:209
-#, fuzzy
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr "Kiedy Baleful Strix wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
 
 #: ../../C13.rst:211
 msgid "Untap target permanent you control."
@@ -1273,11 +1272,8 @@ msgstr ""
 
 # 7f01fea1299b499babee2fb8f84694f5
 #: ../../C13.rst:407
-#, fuzzy
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
-msgstr ""
-"Umieść na polu bitwy trzynaście przekręconych żetonów czarnego stwora Zombi "
-"2/2."
+msgstr "Stwórz trzynaście przekręconych żetonów czarnego stwora Zombi 2/2."
 
 # 4dc371cb4d4a420db836abecf46c4361
 #: ../../C13.rst:409
@@ -1285,7 +1281,7 @@ msgid ""
 "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card "
 "from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę "
 "kartę z twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C13.rst:414
@@ -4242,7 +4238,7 @@ msgstr ""
 # d388a0a3478f4a1e97b471cedaf91f23
 #: ../../C13.rst:1381
 msgid "No more than two creatures can attack you each combat."
-msgstr "Nie więcej niż dwa stwory mogą cię atakować w każdej walce."
+msgstr "Nie więcej niż dwa stwory mogą cię atakować w każdej potyczce."
 
 #: ../../C13.rst:1388
 msgid ""
@@ -5138,12 +5134,9 @@ msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:1681
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
-msgstr ""
-"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
-"kartę.)"
+msgstr "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, poświęć stwora: Dobierz kartę."
 
 #: ../../C13.rst:1688
 msgid ""

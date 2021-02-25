@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-25 12:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -203,7 +203,7 @@ msgstr ""
 
 #: ../../UMA.rst:63
 msgid "Ulamog's Crusher attacks each combat if able."
-msgstr "Ten stwór atakuje w każdej walce, jeśli to możliwe."
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli to możliwe."
 
 #: ../../UMA.rst:70
 msgid ""
@@ -936,16 +936,12 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:295
-#, fuzzy
-#| msgid ""
-#| "When Sultai Skullkeeper enters the battlefield, put the top two cards of "
-#| "your library into your graveyard."
 msgid ""
 "|tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of "
 "your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść dwie wierzchnie karty twojej "
-"biblioteki w twoim cmentarzu."
+"|tap|, zmiel kartę: Weź |colorless|. (By zmielić kartę, umieść wierzchnią "
+"kartę twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../UMA.rst:302
 msgid ""
@@ -1069,6 +1065,8 @@ msgid ""
 "Flashback |mana_6|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_6|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:346
 msgid ""
@@ -1298,7 +1296,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
 "twoim cmentarzu zyskuje wspomnienie do końca tury. Koszt wspomnienia jest "
-"równy jej kosztowi many. (Możesz zagrać ową kartę z twojego cmentarza za "
+"równy jej kosztowi many. (Możesz rzucić ową kartę z twojego cmentarza za "
 "koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:428
@@ -1552,6 +1550,8 @@ msgid ""
 "Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:516
 msgid ""
@@ -2039,6 +2039,8 @@ msgid ""
 "Flashback |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_3|\\ |mana_w| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:670
 msgid ""
@@ -2371,6 +2373,8 @@ msgid ""
 "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_3|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:780
 msgid ""
@@ -2435,6 +2439,8 @@ msgid ""
 "Flashback |mana_4|\\ |mana_r|\\ |mana_r| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_4|\\ |mana_r|\\ |mana_r| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:802
 msgid ""
@@ -3085,6 +3091,8 @@ msgid ""
 "Flashback |mana_1|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_1|\\ |mana_w| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../UMA.rst:1036
 msgid ""

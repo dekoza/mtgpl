@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:57+0000\n"
+"PO-Revision-Date: 2021-02-25 12:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -130,7 +130,7 @@ msgid ""
 "creature it blocked this combat."
 msgstr ""
 "Kiedy ten stwór umrze w trakcie potyczki, zadaje 6 obrażeń każdemu stworowi, "
-"którego blokował w tej walce."
+"którego blokował w tej potyczce."
 
 #: ../../NPH.rst:46
 msgid ""
@@ -372,8 +372,6 @@ msgstr ""
 
 # 87ba05e1ace247cfa26b2e3b39bd8081
 #: ../../NPH.rst:107
-#, fuzzy
-#| msgid "Golem creatures you control get +1/+1."
 msgid "Golems you control get +1/+1."
 msgstr "Golemy pod twoim władaniem dostają +1/+1."
 
@@ -606,18 +604,12 @@ msgid ""
 msgstr ""
 
 #: ../../NPH.rst:193
-#, fuzzy
-#| msgid ""
-#| "You may reveal this card from your opening hand. If you do, when each "
-#| "opponent casts their first spell of the game, counter that spell unless "
-#| "that player pays |mana_1|."
 msgid ""
 "You may reveal this card from your opening hand. If you do, at the beginning "
 "of the first upkeep, each opponent mills seven cards."
 msgstr ""
-"Możesz ujawnić tę kartę z twojej początkowej ręki. Jeśli tak zrobisz, kiedy "
-"każdy z przeciwników rzuci swój pierwszy czar w grze, skontruj ów czar, "
-"chyba że gracz rzucający go zapłaci |mana_1|."
+"Możesz ujawnić tę kartę z twojej początkowej ręki. Jeśli tak zrobisz, na "
+"początku pierwszego kroku utrzymania, każdy przeciwnik mieli siedem kart."
 
 # a48ad0a1b372402aa79020fbfd53f5e4
 #: ../../NPH.rst:197
@@ -653,9 +645,8 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../NPH.rst:207
-#, fuzzy
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr "Kiedy Baleful Strix wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
 
 #: ../../NPH.rst:209
 msgid "Untap target permanent you control."
@@ -1737,13 +1728,12 @@ msgstr ""
 
 # 7f0e0e9d73b14d1a94efcd160e963d83
 #: ../../NPH.rst:613
-#, fuzzy
 msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca kładzie na polu bitwy żeton "
-"zielonego stwora Bestia 3/3."
+"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Bestia "
+"3/3."
 
 #: ../../NPH.rst:620
 msgid ""
@@ -1983,13 +1973,12 @@ msgstr ""
 
 # edf43fe566aa469a82eba224224b7077
 #: ../../NPH.rst:701
-#, fuzzy
 msgid ""
 "At the beginning of your upkeep, create a 1/1 green Insect creature token "
 "with infect for each poison counter your opponents have."
 msgstr ""
-"Na początku twojego utrzymania za każdy znacznik zatrucia posiadany przez "
-"twoich przeciwników stwórz żeton zielonego stwora Owad 1/1 z zatruwaniem."
+"Na początku twojego utrzymania, stwórz tyle żetonów zielonego stwora Owad 1/"
+"1 z zatruwaniem, ile łącznie żetonów zatrucia mają twoi przeciwnicy."
 
 #: ../../NPH.rst:704
 msgid ""
@@ -2043,15 +2032,13 @@ msgstr ""
 
 # 2875dcb1f8f94e6c85e1d0b8d8ac2ae0
 #: ../../NPH.rst:725
-#, fuzzy
 msgid ""
 "Viridian Betrayers has infect as long as an opponent is poisoned. (It deals "
 "damage to creatures in the form of -1/-1 counters and to players in the form "
 "of poison counters.)"
 msgstr ""
-"Viridian Betrayers ma zatruwanie dopóki przeciwnik jest zatruty. (Zadaje "
-"obrażenia stworom w postaci znaczników -1/-1, a graczom w postaci znaczników "
-"zatrucia.)"
+"Ten stwór ma zatruwanie dopóki przeciwnik jest zatruty. (Zadaje obrażenia "
+"stworom w postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../NPH.rst:732
 msgid ""
@@ -2384,14 +2371,12 @@ msgstr ""
 
 # c71ffe9e713b4fbbb6155c4d79fdead1
 #: ../../NPH.rst:835
-#, fuzzy
 msgid ""
 "Whenever an opponent loses life, that player mills that many cards. (Damage "
 "dealt by sources without infect causes loss of life.)"
 msgstr ""
-"Ilekroć przeciwnik traci życie, ów gracz przekłada tyle kart z wierzchu "
-"swojej biblioteki do swojego cmentarza. (Obrażenia zadane przez źródła bez "
-"zatruwania powodują utratę życia.)"
+"Ilekroć przeciwnik traci życie, ów gracz mieli tyle samo kart. (Obrażenia "
+"zadane przez źródła bez zatruwania powodują utratę życia.)"
 
 #: ../../NPH.rst:840
 msgid ""
