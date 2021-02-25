@@ -1,0 +1,1672 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2021, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2021.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-19 18:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: szl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../BNG.rst:5
+msgid ":mtgexp:`BNG` Born of the Gods"
+msgstr ""
+
+#: ../../BNG.rst:10
+msgid ":mtgtip:`Acolyte's Reward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd8980af-c3fa-4027-917a-4a3d441c0a75.jpg?1593091337|https://scryfall.com/card/bng/1/acolytes-reward?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:9
+msgid "Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to any target. (Each |mana_w| in the mana costs of permanents you control counts toward your devotion to white.)"
+msgstr ""
+
+#: ../../BNG.rst:16
+msgid ":mtgtip:`Akroan Phalanx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe23019a-e432-4a27-8acb-b17728a1e8b0.jpg?1593091348|https://scryfall.com/card/bng/2/akroan-phalanx?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:13
+#: ../../BNG.rst:31
+#: ../../BNG.rst:159
+msgid "Vigilance"
+msgstr ""
+
+#: ../../BNG.rst:15
+msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:22
+msgid ":mtgtip:`Akroan Skyguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d55e85c3-234e-49c4-a307-96fb4497eea8.jpg?1593091357|https://scryfall.com/card/bng/3/akroan-skyguard?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:19
+#: ../../BNG.rst:91
+#: ../../BNG.rst:107
+#: ../../BNG.rst:127
+#: ../../BNG.rst:143
+#: ../../BNG.rst:169
+#: ../../BNG.rst:181
+#: ../../BNG.rst:267
+#: ../../BNG.rst:275
+#: ../../BNG.rst:355
+#: ../../BNG.rst:403
+#: ../../BNG.rst:445
+#: ../../BNG.rst:521
+#: ../../BNG.rst:529
+#: ../../BNG.rst:845
+msgid "Flying"
+msgstr ""
+
+#: ../../BNG.rst:21
+msgid "Heroic — Whenever you cast a spell that targets Akroan Skyguard, put a +1/+1 counter on Akroan Skyguard."
+msgstr ""
+
+#: ../../BNG.rst:28
+msgid ":mtgtip:`Archetype of Courage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e6c4afb-6a94-4519-91c6-9824fed2892c.jpg?1593091364|https://scryfall.com/card/bng/4/archetype-of-courage?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:25
+msgid "Creatures you control have first strike."
+msgstr ""
+
+#: ../../BNG.rst:27
+msgid "Creatures your opponents control lose first strike and can't have or gain first strike."
+msgstr ""
+
+#: ../../BNG.rst:36
+msgid ":mtgtip:`Brimaz, King of Oreskos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f54eb705-6326-4bac-bf0e-68d42db7a270.jpg?1593091372|https://scryfall.com/card/bng/5/brimaz-king-of-oreskos?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:33
+msgid "Whenever Brimaz, King of Oreskos attacks, create a 1/1 white Cat Soldier creature token with vigilance that's attacking."
+msgstr ""
+
+#: ../../BNG.rst:35
+msgid "Whenever Brimaz blocks a creature, create a 1/1 white Cat Soldier creature token with vigilance that's blocking that creature."
+msgstr ""
+
+#: ../../BNG.rst:44
+msgid ":mtgtip:`Dawn to Dusk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/026ee3ff-bfd3-42d7-a4fa-2a6372599aef.jpg?1593091380|https://scryfall.com/card/bng/6/dawn-to-dusk?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:39
+msgid "Choose one or both —"
+msgstr ""
+
+#: ../../BNG.rst:41
+msgid "Return target enchantment card from your graveyard to your hand."
+msgstr ""
+
+#: ../../BNG.rst:43
+msgid "Destroy target enchantment."
+msgstr ""
+
+#: ../../BNG.rst:50
+msgid ":mtgtip:`Eidolon of Countless Battles<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d16283b-b5bb-48e8-8c97-db5ad74fd544.jpg?1593091389|https://scryfall.com/card/bng/7/eidolon-of-countless-battles?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:47
+msgid "Bestow |mana_2|\\ |mana_w|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:49
+msgid "Eidolon of Countless Battles and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control."
+msgstr ""
+
+#: ../../BNG.rst:54
+msgid ":mtgtip:`Elite Skirmisher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/982eed00-e9fe-4d0f-a2b7-9606aa7926a1.jpg?1593091397|https://scryfall.com/card/bng/8/elite-skirmisher?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:53
+msgid "Heroic — Whenever you cast a spell that targets Elite Skirmisher, you may tap target creature."
+msgstr ""
+
+#: ../../BNG.rst:60
+msgid ":mtgtip:`Ephara's Radiance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0741582-0c7b-4d5b-83a9-dd8862de1f24.jpg?1593091407|https://scryfall.com/card/bng/9/epharas-radiance?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:57
+#: ../../BNG.rst:153
+#: ../../BNG.rst:199
+#: ../../BNG.rst:207
+#: ../../BNG.rst:253
+#: ../../BNG.rst:281
+#: ../../BNG.rst:345
+#: ../../BNG.rst:393
+#: ../../BNG.rst:465
+#: ../../BNG.rst:489
+#: ../../BNG.rst:511
+#: ../../BNG.rst:613
+#: ../../BNG.rst:667
+#: ../../BNG.rst:721
+#: ../../BNG.rst:783
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../BNG.rst:59
+msgid "Enchanted creature has \"|mana_1|\\ |mana_w|, |tap|: You gain 3 life.\""
+msgstr ""
+
+#: ../../BNG.rst:64
+msgid ":mtgtip:`Excoriate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d5023a5-b77c-48c6-9e84-ef525300ecdf.jpg?1593091422|https://scryfall.com/card/bng/10/excoriate?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:63
+msgid "Exile target tapped creature."
+msgstr ""
+
+#: ../../BNG.rst:68
+msgid ":mtgtip:`Fated Retribution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/8158b330-2868-4147-907e-4d86e44cfaad.jpg?1593091437|https://scryfall.com/card/bng/11/fated-retribution?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:67
+msgid "Destroy all creatures and planeswalkers. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:76
+msgid ":mtgtip:`Ghostblade Eidolon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73b1e720-c7cd-450a-a8af-61fcbca7eb24.jpg?1593091446|https://scryfall.com/card/bng/12/ghostblade-eidolon?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:71
+msgid "Bestow |mana_5|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:73
+msgid "Double strike (This creature deals both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../BNG.rst:75
+msgid "Enchanted creature gets +1/+1 and has double strike."
+msgstr ""
+
+#: ../../BNG.rst:80
+msgid ":mtgtip:`Glimpse the Sun God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f241e5f7-3168-4bd2-b586-185aad3ae9d9.jpg?1593091455|https://scryfall.com/card/bng/13/glimpse-the-sun-god?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:79
+msgid "Tap X target creatures. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:84
+msgid ":mtgtip:`God-Favored General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/984c2db0-5a79-47b8-8a42-5674c6d9d0fd.jpg?1593091464|https://scryfall.com/card/bng/14/god-favored-general?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:83
+msgid "Inspired — Whenever God-Favored General becomes untapped, you may pay |mana_2|\\ |mana_w|. If you do, create two 1/1 white Soldier enchantment creature tokens."
+msgstr ""
+
+#: ../../BNG.rst:86
+msgid ":mtgtip:`Great Hart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70cd7d2b-e9c4-4900-89a0-f6eb0c6cb22b.jpg?1593860910|https://scryfall.com/card/bng/15/great-hart?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:94
+msgid ":mtgtip:`Griffin Dreamfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b569fadd-d9ca-4b0d-bee2-9d45574e56f0.jpg?1593091479|https://scryfall.com/card/bng/16/griffin-dreamfinder?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:93
+msgid "When Griffin Dreamfinder enters the battlefield, return target enchantment card from your graveyard to your hand."
+msgstr ""
+
+#: ../../BNG.rst:100
+msgid ":mtgtip:`Hero of Iroas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/7917f2ee-f093-4ffb-83ed-a181b14b5957.jpg?1593091488|https://scryfall.com/card/bng/17/hero-of-iroas?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:97
+msgid "Aura spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../BNG.rst:99
+msgid "Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 counter on Hero of Iroas."
+msgstr ""
+
+#: ../../BNG.rst:104
+msgid ":mtgtip:`Hold at Bay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffeb407d-6a42-488a-9869-83da3047e45d.jpg?1593091497|https://scryfall.com/card/bng/18/hold-at-bay?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:103
+msgid "Prevent the next 7 damage that would be dealt to any target this turn."
+msgstr ""
+
+#: ../../BNG.rst:110
+msgid ":mtgtip:`Loyal Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6b29f36-e84d-402e-9ab7-935fd2e7532d.jpg?1593091507|https://scryfall.com/card/bng/19/loyal-pegasus?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:109
+msgid "Loyal Pegasus can't attack or block alone."
+msgstr ""
+
+#: ../../BNG.rst:114
+msgid ":mtgtip:`Mortal's Ardor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e29f95c-aeed-4cb6-a43b-2748a5dd6138.jpg?1593091515|https://scryfall.com/card/bng/20/mortals-ardor?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:113
+msgid "Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
+msgstr ""
+
+#: ../../BNG.rst:120
+msgid ":mtgtip:`Nyxborn Shieldmate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64204816-6e1d-4bf8-acd0-8f83ca7eb8c7.jpg?1593091524|https://scryfall.com/card/bng/21/nyxborn-shieldmate?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:117
+msgid "Bestow |mana_2|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:119
+msgid "Enchanted creature gets +1/+2."
+msgstr ""
+
+#: ../../BNG.rst:124
+msgid ":mtgtip:`Oreskos Sun Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/064435e7-20ea-4ba4-b039-a945afeeb5c6.jpg?1593091531|https://scryfall.com/card/bng/22/oreskos-sun-guide?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:123
+msgid "Inspired — Whenever Oreskos Sun Guide becomes untapped, you gain 2 life."
+msgstr ""
+
+#: ../../BNG.rst:132
+msgid ":mtgtip:`Ornitharch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f95a0bf4-10c7-4afa-8cf6-e31196cc2bd5.jpg?1593091541|https://scryfall.com/card/bng/23/ornitharch?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:129
+#: ../../BNG.rst:447
+#: ../../BNG.rst:523
+#: ../../BNG.rst:557
+#: ../../BNG.rst:563
+msgid "Tribute 2 (As this creature enters the battlefield, an opponent of your choice may put two +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../BNG.rst:131
+msgid "When Ornitharch enters the battlefield, if tribute wasn't paid, create two 1/1 white Bird creature tokens with flying."
+msgstr ""
+
+#: ../../BNG.rst:136
+msgid ":mtgtip:`Plea for Guidance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d1d6d76-f399-475a-b5cd-544bd7c6d967.jpg?1593091549|https://scryfall.com/card/bng/24/plea-for-guidance?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:135
+msgid "Search your library for up to two enchantment cards, reveal them, and put them into your hand. Then shuffle your library."
+msgstr ""
+
+#: ../../BNG.rst:140
+msgid ":mtgtip:`Revoke Existence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/597916e4-0294-4911-98e0-6ac5993533ae.jpg?1593091556|https://scryfall.com/card/bng/25/revoke-existence?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:139
+msgid "Exile target artifact or enchantment."
+msgstr ""
+
+#: ../../BNG.rst:146
+msgid ":mtgtip:`Silent Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/177ece7c-b979-4a31-ba5f-6a8a382f2862.jpg?1593091563|https://scryfall.com/card/bng/26/silent-sentinel?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:145
+msgid "Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:150
+msgid ":mtgtip:`Spirit of the Labyrinth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f44e5128-e146-4e46-b313-a40d82719d1d.jpg?1593091571|https://scryfall.com/card/bng/27/spirit-of-the-labyrinth?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:149
+msgid "Each player can't draw more than one card each turn."
+msgstr ""
+
+#: ../../BNG.rst:156
+msgid ":mtgtip:`Sunbond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f14bbff-8a3c-4aa0-a5aa-0dd6cb23b2a3.jpg?1593091578|https://scryfall.com/card/bng/28/sunbond?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:155
+msgid "Enchanted creature has \"Whenever you gain life, put that many +1/+1 counters on this creature.\""
+msgstr ""
+
+#: ../../BNG.rst:162
+msgid ":mtgtip:`Vanguard of Brimaz<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adb38717-97d5-4763-9e6c-46251df704ed.jpg?1593091588|https://scryfall.com/card/bng/29/vanguard-of-brimaz?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:161
+msgid "Heroic — Whenever you cast a spell that targets Vanguard of Brimaz, create a 1/1 white Cat Soldier creature token with vigilance."
+msgstr ""
+
+#: ../../BNG.rst:166
+msgid ":mtgtip:`Aerie Worshippers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06c8b3b9-f0fb-4cc1-8916-82ee2c74f089.jpg?1593091596|https://scryfall.com/card/bng/30/aerie-worshippers?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:165
+msgid "Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2|\\ |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token with flying."
+msgstr ""
+
+#: ../../BNG.rst:172
+msgid ":mtgtip:`Arbiter of the Ideal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32e58ba3-4202-4f91-b27f-7528d27c1d5c.jpg?1593091603|https://scryfall.com/card/bng/31/arbiter-of-the-ideal?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:171
+msgid "Inspired — Whenever Arbiter of the Ideal becomes untapped, reveal the top card of your library. If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it. That permanent is an enchantment in addition to its other types."
+msgstr ""
+
+#: ../../BNG.rst:178
+msgid ":mtgtip:`Archetype of Imagination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3de0f770-b62b-4a9d-bea7-6bb7bc2020ad.jpg?1593091610|https://scryfall.com/card/bng/32/archetype-of-imagination?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:175
+msgid "Creatures you control have flying."
+msgstr ""
+
+#: ../../BNG.rst:177
+msgid "Creatures your opponents control lose flying and can't have or gain flying."
+msgstr ""
+
+#: ../../BNG.rst:184
+msgid ":mtgtip:`Chorus of the Tides<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e576f7a-0390-4514-aaed-20406fe6acdf.jpg?1593091617|https://scryfall.com/card/bng/33/chorus-of-the-tides?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:183
+msgid "Heroic — Whenever you cast a spell that targets Chorus of the Tides, scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:188
+msgid ":mtgtip:`Crypsis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd445b01-34af-4132-a9fe-a03858624492.jpg?1593091623|https://scryfall.com/card/bng/34/crypsis?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:187
+msgid "Target creature you control gains protection from creatures your opponents control until end of turn. Untap it."
+msgstr ""
+
+#: ../../BNG.rst:192
+msgid ":mtgtip:`Deepwater Hypnotist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab7c6a7-8214-4644-8f2e-ec74d2aff27e.jpg?1593091631|https://scryfall.com/card/bng/35/deepwater-hypnotist?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:191
+msgid "Inspired — Whenever Deepwater Hypnotist becomes untapped, target creature an opponent controls gets -3/-0 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:196
+msgid ":mtgtip:`Divination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65b9964e-cfe0-4400-b903-3f590889f88d.jpg?1593091638|https://scryfall.com/card/bng/36/divination?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:195
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../BNG.rst:204
+msgid ":mtgtip:`Eternity Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa167147-68ca-49af-98d3-538474ea1158.jpg?1593091646|https://scryfall.com/card/bng/37/eternity-snare?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:201
+msgid "When Eternity Snare enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:203
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../BNG.rst:210
+msgid ":mtgtip:`Evanescent Intellect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d38cfe97-77b3-4423-95ac-88eb850cf854.jpg?1593091654|https://scryfall.com/card/bng/38/evanescent-intellect?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:209
+msgid "Enchanted creature has \"|mana_1|\\ |mana_u|, |tap|: Target player mills three cards.\""
+msgstr ""
+
+#: ../../BNG.rst:214
+msgid ":mtgtip:`Fated Infatuation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e5ba99d-d95d-4a3b-b6b6-a5e2589d538e.jpg?1593091661|https://scryfall.com/card/bng/39/fated-infatuation?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:213
+msgid "Create a token that's a copy of target creature you control. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:222
+msgid ":mtgtip:`Flitterstep Eidolon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a79cee0-6023-42bc-a934-69b99fd5fb02.jpg?1593091670|https://scryfall.com/card/bng/40/flitterstep-eidolon?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:217
+msgid "Bestow |mana_5|\\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:219
+msgid "Flitterstep Eidolon can't be blocked."
+msgstr ""
+
+#: ../../BNG.rst:221
+msgid "Enchanted creature gets +1/+1 and can't be blocked."
+msgstr ""
+
+#: ../../BNG.rst:226
+msgid ":mtgtip:`Floodtide Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a2a4b24-096a-4d36-a872-73fa4552bb35.jpg?1593091679|https://scryfall.com/card/bng/41/floodtide-serpent?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:225
+msgid "Floodtide Serpent can't attack unless you return an enchantment you control to its owner's hand. (This cost is paid as attackers are declared.)"
+msgstr ""
+
+#: ../../BNG.rst:230
+msgid ":mtgtip:`Kraken of the Straits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12ae69b3-afa5-4763-a0c8-c3d9d96f6ddc.jpg?1593091689|https://scryfall.com/card/bng/42/kraken-of-the-straits?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:229
+msgid "Creatures with power less than the number of Islands you control can't block Kraken of the Straits."
+msgstr ""
+
+#: ../../BNG.rst:234
+msgid ":mtgtip:`Meletis Astronomer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af9adca9-3e69-474f-896d-bb05b1d67252.jpg?1593091699|https://scryfall.com/card/bng/43/meletis-astronomer?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:233
+msgid "Heroic — Whenever you cast a spell that targets Meletis Astronomer, look at the top three cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../BNG.rst:240
+msgid ":mtgtip:`Mindreaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87912ae7-3edc-4ea2-9b4b-caf2bc149ad1.jpg?1593091707|https://scryfall.com/card/bng/44/mindreaver?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:237
+msgid "Heroic — Whenever you cast a spell that targets Mindreaver, exile the top three cards of target player's library."
+msgstr ""
+
+#: ../../BNG.rst:239
+msgid "|mana_u|\\ |mana_u|, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver."
+msgstr ""
+
+#: ../../BNG.rst:244
+msgid ":mtgtip:`Nullify<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a940d859-3fb1-4946-8277-b7c503605b1e.jpg?1593091715|https://scryfall.com/card/bng/45/nullify?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:243
+msgid "Counter target creature or Aura spell."
+msgstr ""
+
+#: ../../BNG.rst:250
+msgid ":mtgtip:`Nyxborn Triton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65371de6-13a2-401f-9334-ae9e19619487.jpg?1593091723|https://scryfall.com/card/bng/46/nyxborn-triton?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:247
+msgid "Bestow |mana_4|\\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:249
+msgid "Enchanted creature gets +2/+3."
+msgstr ""
+
+#: ../../BNG.rst:256
+msgid ":mtgtip:`Oracle's Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/546dae51-070c-4f3f-b0b4-6b88ff314af1.jpg?1593091733|https://scryfall.com/card/bng/47/oracles-insight?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:255
+msgid "Enchanted creature has \"|tap|: Scry 1, then draw a card.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:260
+msgid ":mtgtip:`Perplexing Chimera<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9cff40b-9cae-47d0-8df4-c287a17a33e4.jpg?1593091744|https://scryfall.com/card/bng/48/perplexing-chimera?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:259
+msgid "Whenever an opponent casts a spell, you may exchange control of Perplexing Chimera and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)"
+msgstr ""
+
+#: ../../BNG.rst:264
+msgid ":mtgtip:`Retraction Helix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fe8c0b9-fdf4-4fc0-aa7c-774546cdd792.jpg?1593091758|https://scryfall.com/card/bng/49/retraction-helix?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:263
+msgid "Until end of turn, target creature gains \"|tap|: Return target nonland permanent to its owner's hand.\""
+msgstr ""
+
+#: ../../BNG.rst:272
+msgid ":mtgtip:`Siren of the Fanged Coast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5ba93d9a-94cd-4d90-860a-f567793a5be4.jpg?1593091768|https://scryfall.com/card/bng/50/siren-of-the-fanged-coast?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:269
+#: ../../BNG.rst:607
+#: ../../BNG.rst:683
+#: ../../BNG.rst:753
+msgid "Tribute 3 (As this creature enters the battlefield, an opponent of your choice may put three +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../BNG.rst:271
+msgid "When Siren of the Fanged Coast enters the battlefield, if tribute wasn't paid, gain control of target creature."
+msgstr ""
+
+#: ../../BNG.rst:278
+msgid ":mtgtip:`Sphinx's Disciple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba33f00d-dbed-4bfb-a295-90f729be98de.jpg?1593091779|https://scryfall.com/card/bng/51/sphinxs-disciple?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:277
+msgid "Inspired — Whenever Sphinx's Disciple becomes untapped, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:288
+msgid ":mtgtip:`Stratus Walk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44744725-6ba7-40bd-b25b-788a1032ecf4.jpg?1593091786|https://scryfall.com/card/bng/52/stratus-walk?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:283
+msgid "When Stratus Walk enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:285
+msgid "Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)"
+msgstr ""
+
+#: ../../BNG.rst:287
+msgid "Enchanted creature can block only creatures with flying."
+msgstr ""
+
+#: ../../BNG.rst:292
+msgid ":mtgtip:`Sudden Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6beffc33-58fd-4364-b87b-d4573ecaf4bd.jpg?1593091796|https://scryfall.com/card/bng/53/sudden-storm?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:291
+msgid "Tap up to two target creatures. Those creatures don't untap during their controllers' next untap steps. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:296
+msgid ":mtgtip:`Thassa's Rebuff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/816a6ff7-cede-4346-b3e6-aee33aefac3a.jpg?1593091807|https://scryfall.com/card/bng/54/thassas-rebuff?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:295
+msgid "Counter target spell unless its controller pays |mana_x|, where X is your devotion to blue. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)"
+msgstr ""
+
+#: ../../BNG.rst:302
+msgid ":mtgtip:`Tromokratis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69fcad7f-2740-49ff-a448-4b232c456e16.jpg?1593091817|https://scryfall.com/card/bng/55/tromokratis?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:299
+msgid "Tromokratis has hexproof unless it's attacking or blocking."
+msgstr ""
+
+#: ../../BNG.rst:301
+msgid "Tromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)"
+msgstr ""
+
+#: ../../BNG.rst:308
+msgid ":mtgtip:`Vortex Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb7ca2b-c5de-4c8a-91cb-8dd8ab5387d8.jpg?1593091827|https://scryfall.com/card/bng/56/vortex-elemental?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:305
+msgid "|mana_u|: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries."
+msgstr ""
+
+#: ../../BNG.rst:307
+msgid "|mana_3|\\ |mana_u|\\ |mana_u|: Target creature blocks Vortex Elemental this turn if able."
+msgstr ""
+
+#: ../../BNG.rst:312
+msgid ":mtgtip:`Whelming Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcabd4c7-093f-4ef6-8b89-b08565c48e3c.jpg?1593091836|https://scryfall.com/card/bng/57/whelming-wave?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:311
+msgid "Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents."
+msgstr ""
+
+#: ../../BNG.rst:318
+msgid ":mtgtip:`Archetype of Finality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f326b9c5-063b-4c53-a696-11cd89fc88d8.jpg?1593091847|https://scryfall.com/card/bng/58/archetype-of-finality?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:315
+msgid "Creatures you control have deathtouch."
+msgstr ""
+
+#: ../../BNG.rst:317
+msgid "Creatures your opponents control lose deathtouch and can't have or gain deathtouch."
+msgstr ""
+
+#: ../../BNG.rst:322
+msgid ":mtgtip:`Ashiok's Adept<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86acd1cc-5238-4734-a324-b4cecffc0bab.jpg?1593091857|https://scryfall.com/card/bng/59/ashioks-adept?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:321
+msgid "Heroic — Whenever you cast a spell that targets Ashiok's Adept, each opponent discards a card."
+msgstr ""
+
+#: ../../BNG.rst:326
+msgid ":mtgtip:`Asphyxiate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/894f3f5f-586d-45e4-9af7-4de80e44dfae.jpg?1593091866|https://scryfall.com/card/bng/60/asphyxiate?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:325
+msgid "Destroy target untapped creature."
+msgstr ""
+
+#: ../../BNG.rst:330
+msgid ":mtgtip:`Bile Blight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3ca11057-e50a-4817-924a-5bb504d0780f.jpg?1593091873|https://scryfall.com/card/bng/61/bile-blight?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:329
+msgid "Target creature and all other creatures with the same name as that creature get -3/-3 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:336
+msgid ":mtgtip:`Black Oak of Odunos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f1e9195-a711-4f4d-9d53-d5d230c092ef.jpg?1593091882|https://scryfall.com/card/bng/62/black-oak-of-odunos?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:333
+#: ../../BNG.rst:877
+msgid "Defender"
+msgstr ""
+
+#: ../../BNG.rst:335
+msgid "|mana_b|, Tap another untapped creature you control: Black Oak of Odunos gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:342
+msgid ":mtgtip:`Champion of Stray Souls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/342196b9-ab65-4922-864e-00f067153261.jpg?1593091890|https://scryfall.com/card/bng/63/champion-of-stray-souls?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:339
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:341
+msgid "|mana_5|\\ |mana_b|\\ |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard."
+msgstr ""
+
+#: ../../BNG.rst:348
+msgid ":mtgtip:`Claim of Erebos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a51db556-b3e8-4628-9e39-6353023b0696.jpg?1593091901|https://scryfall.com/card/bng/64/claim-of-erebos?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:347
+msgid "Enchanted creature has \"|mana_1|\\ |mana_b|, |tap|: Target player loses 2 life.\""
+msgstr ""
+
+#: ../../BNG.rst:352
+msgid ":mtgtip:`Drown in Sorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/287c7570-8080-43dc-a586-963e15566446.jpg?1593091908|https://scryfall.com/card/bng/65/drown-in-sorrow?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:351
+msgid "All creatures get -2/-2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:360
+msgid ":mtgtip:`Eater of Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f75f3d3f-925d-45ef-92e6-22aca22e5451.jpg?1593091916|https://scryfall.com/card/bng/66/eater-of-hope?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:357
+msgid "|mana_b|, Sacrifice another creature: Regenerate Eater of Hope."
+msgstr ""
+
+#: ../../BNG.rst:359
+msgid "|mana_2|\\ |mana_b|, Sacrifice two other creatures: Destroy target creature."
+msgstr ""
+
+#: ../../BNG.rst:364
+msgid ":mtgtip:`Eye Gouge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94d4eb34-0529-48a0-ac52-b57cead7b651.jpg?1593091932|https://scryfall.com/card/bng/67/eye-gouge?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:363
+msgid "Target creature gets -1/-1 until end of turn. If it's a Cyclops, destroy it."
+msgstr ""
+
+#: ../../BNG.rst:368
+msgid ":mtgtip:`Fate Unraveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f15cd233-e27b-4cfd-aa4e-18040d1de22f.jpg?1593091946|https://scryfall.com/card/bng/68/fate-unraveler?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:367
+msgid "Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that player."
+msgstr ""
+
+#: ../../BNG.rst:372
+msgid ":mtgtip:`Fated Return<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a55878ec-a903-4694-8709-e29fa88b2c28.jpg?1593091957|https://scryfall.com/card/bng/69/fated-return?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:371
+msgid "Put target creature card from a graveyard onto the battlefield under your control. It gains indestructible. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:376
+msgid ":mtgtip:`Felhide Brawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a829bb0-6a84-46de-9c2d-14176cf542e6.jpg?1593091966|https://scryfall.com/card/bng/70/felhide-brawler?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:375
+msgid "Felhide Brawler can't block unless you control another Minotaur."
+msgstr ""
+
+#: ../../BNG.rst:382
+msgid ":mtgtip:`Forlorn Pseudamma<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c236a33-fb20-41f4-8946-beb65d1cf684.jpg?1593091974|https://scryfall.com/card/bng/71/forlorn-pseudamma?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:379
+msgid "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../BNG.rst:381
+msgid "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2|\\ |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token."
+msgstr ""
+
+#: ../../BNG.rst:386
+msgid ":mtgtip:`Forsaken Drifters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05445d18-3590-4216-9392-9438d9f9395d.jpg?1593091984|https://scryfall.com/card/bng/72/forsaken-drifters?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:385
+msgid "When Forsaken Drifters dies, mill four cards."
+msgstr ""
+
+#: ../../BNG.rst:390
+msgid ":mtgtip:`Gild<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8ce5e6c4-02c8-4602-96d6-19dad34f7804.jpg?1593091996|https://scryfall.com/card/bng/73/gild?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:389
+msgid "Exile target creature. Create a Gold token. (It's an artifact with \"Sacrifice this artifact: Add one mana of any color.\")"
+msgstr ""
+
+#: ../../BNG.rst:398
+msgid ":mtgtip:`Grisly Transformation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4eb0ce84-560f-4e39-a0ab-7bd710d541cc.jpg?1593092015|https://scryfall.com/card/bng/74/grisly-transformation?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:395
+msgid "When Grisly Transformation enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:397
+msgid "Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../BNG.rst:408
+msgid ":mtgtip:`Herald of Torment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bb7e5ab-57d7-4a86-b7c2-262932ac3344.jpg?1593092027|https://scryfall.com/card/bng/75/herald-of-torment?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:401
+msgid "Bestow |mana_3|\\ |mana_b|\\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:405
+msgid "At the beginning of your upkeep, you lose 1 life."
+msgstr ""
+
+#: ../../BNG.rst:407
+msgid "Enchanted creature gets +3/+3 and has flying."
+msgstr ""
+
+#: ../../BNG.rst:412
+msgid ":mtgtip:`Marshmist Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/093d2e4c-f2c4-4d4e-a1b7-200327ce23b0.jpg?1593092035|https://scryfall.com/card/bng/76/marshmist-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:411
+msgid "This spell costs |mana_x| less to cast, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
+msgstr ""
+
+#: ../../BNG.rst:416
+msgid ":mtgtip:`Necrobite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0955932-8ca9-4896-882c-2969fe7c7818.jpg?1593092044|https://scryfall.com/card/bng/77/necrobite?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:415
+msgid "Target creature gains deathtouch until end of turn. Regenerate it. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../BNG.rst:422
+msgid ":mtgtip:`Nyxborn Eidolon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76f79804-cd90-472b-9d09-3c71e4c6be22.jpg?1593092056|https://scryfall.com/card/bng/78/nyxborn-eidolon?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:419
+msgid "Bestow |mana_4|\\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:421
+msgid "Enchanted creature gets +2/+1."
+msgstr ""
+
+#: ../../BNG.rst:428
+msgid ":mtgtip:`Odunos River Trawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5d1eda4-ac34-4905-9022-59f91d38dbb3.jpg?1593092065|https://scryfall.com/card/bng/79/odunos-river-trawler?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:425
+msgid "When Odunos River Trawler enters the battlefield, return target enchantment creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../BNG.rst:427
+msgid "|mana_w|, Sacrifice Odunos River Trawler: Return target enchantment creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../BNG.rst:432
+msgid ":mtgtip:`Pain Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8ce8891f-b44c-4be4-878e-9fc45a9dc9cb.jpg?1593092076|https://scryfall.com/card/bng/80/pain-seer?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:431
+msgid "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost."
+msgstr ""
+
+#: ../../BNG.rst:436
+msgid ":mtgtip:`Sanguimancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb129def-4055-4b12-9944-39406b451553.jpg?1593092085|https://scryfall.com/card/bng/81/sanguimancy?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:435
+msgid "You draw X cards and you lose X life, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
+msgstr ""
+
+#: ../../BNG.rst:442
+msgid ":mtgtip:`Servant of Tymaret<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfb16d4f-ed42-4b19-9e45-330db88eea9b.jpg?1593092093|https://scryfall.com/card/bng/82/servant-of-tymaret?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:439
+msgid "Inspired — Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way."
+msgstr ""
+
+#: ../../BNG.rst:441
+msgid "|mana_2|\\ |mana_b|: Regenerate Servant of Tymaret."
+msgstr ""
+
+#: ../../BNG.rst:450
+msgid ":mtgtip:`Shrike Harpy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c2b1eeb-6cc9-48a7-a068-afa1011c45f2.jpg?1593092105|https://scryfall.com/card/bng/83/shrike-harpy?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:449
+msgid "When Shrike Harpy enters the battlefield, if tribute wasn't paid, target opponent sacrifices a creature."
+msgstr ""
+
+#: ../../BNG.rst:458
+msgid ":mtgtip:`Spiteful Returned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/017e8cfb-7cb0-403c-b8be-abee22369661.jpg?1593092115|https://scryfall.com/card/bng/84/spiteful-returned?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:453
+msgid "Bestow |mana_3|\\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:455
+msgid "Whenever Spiteful Returned or enchanted creature attacks, defending player loses 2 life."
+msgstr ""
+
+#: ../../BNG.rst:457
+#: ../../BNG.rst:499
+#: ../../BNG.rst:551
+#: ../../BNG.rst:699
+msgid "Enchanted creature gets +1/+1."
+msgstr ""
+
+#: ../../BNG.rst:462
+msgid ":mtgtip:`Warchanter of Mogis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/757948b3-8cb2-4709-9bbf-031c2bf6d4c5.jpg?1593092126|https://scryfall.com/card/bng/85/warchanter-of-mogis?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:461
+msgid "Inspired — Whenever Warchanter of Mogis becomes untapped, target creature you control gains intimidate until end of turn. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../BNG.rst:468
+msgid ":mtgtip:`Weight of the Underworld<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a99bcecd-0b5a-4806-824b-4885fcad1449.jpg?1593092136|https://scryfall.com/card/bng/86/weight-of-the-underworld?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:467
+msgid "Enchanted creature gets -3/-2."
+msgstr ""
+
+#: ../../BNG.rst:472
+msgid ":mtgtip:`Akroan Conscriptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/decb529f-44fd-409d-932f-be9c403f12f6.jpg?1593092147|https://scryfall.com/card/bng/87/akroan-conscriptor?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:471
+msgid "Heroic — Whenever you cast a spell that targets Akroan Conscriptor, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:478
+msgid ":mtgtip:`Archetype of Aggression<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13946413-c76d-41a8-a699-404fd56b2067.jpg?1593092162|https://scryfall.com/card/bng/88/archetype-of-aggression?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:475
+msgid "Creatures you control have trample."
+msgstr ""
+
+#: ../../BNG.rst:477
+msgid "Creatures your opponents control lose trample and can't have or gain trample."
+msgstr ""
+
+#: ../../BNG.rst:482
+msgid ":mtgtip:`Bolt of Keranos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4df70b14-5d67-4a92-aaba-72480c621d10.jpg?1593092169|https://scryfall.com/card/bng/89/bolt-of-keranos?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:481
+msgid "Bolt of Keranos deals 3 damage to any target. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:484
+msgid ":mtgtip:`Cyclops of One-Eyed Pass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71a25c69-8e57-4a44-955a-da1541bbe0fe.jpg?1593860905|https://scryfall.com/card/bng/90/cyclops-of-one-eyed-pass?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:492
+msgid ":mtgtip:`Epiphany Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd3a0128-4499-498d-9721-b1fd70ea84b4.jpg?1593092184|https://scryfall.com/card/bng/91/epiphany-storm?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:491
+msgid "Enchanted creature has \"|mana_r|, |tap|, Discard a card: Draw a card.\""
+msgstr ""
+
+#: ../../BNG.rst:500
+msgid ":mtgtip:`Everflame Eidolon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a018d5ea-5229-40ca-b7c5-31d3e8ebb894.jpg?1593092193|https://scryfall.com/card/bng/92/everflame-eidolon?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:495
+msgid "Bestow |mana_2|\\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:497
+msgid "|mana_r|: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura, enchanted creature gets +1/+0 until end of turn instead."
+msgstr ""
+
+#: ../../BNG.rst:504
+msgid ":mtgtip:`Fall of the Hammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed6f1a4b-db3b-4dfc-8d3a-cc73b011a5dd.jpg?1593092201|https://scryfall.com/card/bng/93/fall-of-the-hammer?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:503
+msgid "Target creature you control deals damage equal to its power to another target creature."
+msgstr ""
+
+#: ../../BNG.rst:508
+msgid ":mtgtip:`Fated Conflagration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66ea1aeb-bd42-4960-b40f-e7c2fd1efb5c.jpg?1593092210|https://scryfall.com/card/bng/94/fated-conflagration?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:507
+msgid "Fated Conflagration deals 5 damage to target creature or planeswalker. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:514
+msgid ":mtgtip:`Fearsome Temper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6e7884c-2d66-42d1-87d1-1341a6fa52d8.jpg?1593092219|https://scryfall.com/card/bng/95/fearsome-temper?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:513
+msgid "Enchanted creature gets +2/+2 and has \"|mana_2|\\ |mana_r|: Target creature can't block this creature this turn.\""
+msgstr ""
+
+#: ../../BNG.rst:518
+msgid ":mtgtip:`Felhide Spiritbinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbbbe4ce-d6a6-428d-aeee-1c316f358777.jpg?1593092229|https://scryfall.com/card/bng/96/felhide-spiritbinder?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:517
+msgid "Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |mana_1|\\ |mana_r|. If you do, create a token that's a copy of another target creature, except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step."
+msgstr ""
+
+#: ../../BNG.rst:526
+msgid ":mtgtip:`Flame-Wreathed Phoenix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a36bca58-e92f-4496-92d6-5ecba7a0424d.jpg?1593092239|https://scryfall.com/card/bng/97/flame-wreathed-phoenix?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:525
+msgid "When Flame-Wreathed Phoenix enters the battlefield, if tribute wasn't paid, it gains haste and \"When this creature dies, return it to its owner's hand.\""
+msgstr ""
+
+#: ../../BNG.rst:532
+msgid ":mtgtip:`Forgestoker Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fd44170-ded7-4895-8950-bfa9d19e471d.jpg?1593092247|https://scryfall.com/card/bng/98/forgestoker-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:531
+msgid "|mana_1|\\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking."
+msgstr ""
+
+#: ../../BNG.rst:538
+msgid ":mtgtip:`Impetuous Sunchaser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6d4c13b-95ef-49df-b349-26e0fec109ad.jpg?1593092255|https://scryfall.com/card/bng/99/impetuous-sunchaser?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:535
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../BNG.rst:537
+msgid "Impetuous Sunchaser attacks each combat if able."
+msgstr ""
+
+#: ../../BNG.rst:542
+msgid ":mtgtip:`Kragma Butcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56d1dcab-7e46-4ff1-91f6-77352ef0cd90.jpg?1593092263|https://scryfall.com/card/bng/100/kragma-butcher?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:541
+msgid "Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:546
+msgid ":mtgtip:`Lightning Volley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2af8746-033d-4a8a-b62d-ab5addb33d4d.jpg?1593092270|https://scryfall.com/card/bng/101/lightning-volley?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:545
+msgid "Until end of turn, creatures you control gain \"|tap|: This creature deals 1 damage to any target.\""
+msgstr ""
+
+#: ../../BNG.rst:552
+msgid ":mtgtip:`Nyxborn Rollicker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2081bf0-09f5-4c95-b4cc-48a8784294d4.jpg?1593092278|https://scryfall.com/card/bng/102/nyxborn-rollicker?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:549
+msgid "Bestow |mana_1|\\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:560
+msgid ":mtgtip:`Oracle of Bones<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddb1931e-c282-47a7-9382-608de6ec8efa.jpg?1593092303|https://scryfall.com/card/bng/103/oracle-of-bones?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:555
+#: ../../BNG.rst:585
+#: ../../BNG.rst:599
+msgid "Haste"
+msgstr ""
+
+#: ../../BNG.rst:559
+msgid "When Oracle of Bones enters the battlefield, if tribute wasn't paid, you may cast an instant or sorcery spell from your hand without paying its mana cost."
+msgstr ""
+
+#: ../../BNG.rst:566
+msgid ":mtgtip:`Pharagax Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9eef1b9b-58f1-40af-a7c2-06cdaf1ec974.jpg?1593092311|https://scryfall.com/card/bng/104/pharagax-giant?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:565
+msgid "When Pharagax Giant enters the battlefield, if tribute wasn't paid, Pharagax Giant deals 5 damage to each opponent."
+msgstr ""
+
+#: ../../BNG.rst:570
+msgid ":mtgtip:`Pinnacle of Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b26ff2fa-82de-4831-9341-a446abf9ed03.jpg?1593092319|https://scryfall.com/card/bng/105/pinnacle-of-rage?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:569
+msgid "Pinnacle of Rage deals 3 damage to each of two targets."
+msgstr ""
+
+#: ../../BNG.rst:574
+msgid ":mtgtip:`Reckless Reveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/188adefd-a808-4991-80be-53249c24df8f.jpg?1593092327|https://scryfall.com/card/bng/106/reckless-reveler?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:573
+msgid "|mana_r|, Sacrifice Reckless Reveler: Destroy target artifact."
+msgstr ""
+
+#: ../../BNG.rst:578
+msgid ":mtgtip:`Rise to the Challenge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c656ad1b-e85b-4b0c-b538-506afe4a9da5.jpg?1593092334|https://scryfall.com/card/bng/107/rise-to-the-challenge?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:577
+msgid "Target creature gets +2/+0 and gains first strike until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:582
+msgid ":mtgtip:`Satyr Firedancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fc6a735-cbf5-4af2-b15c-7ced82f0d9da.jpg?1593092344|https://scryfall.com/card/bng/108/satyr-firedancer?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:581
+msgid "Whenever an instant or sorcery spell you control deals damage to an opponent, Satyr Firedancer deals that much damage to target creature that player controls."
+msgstr ""
+
+#: ../../BNG.rst:588
+msgid ":mtgtip:`Satyr Nyx-Smith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bc2c65e-3cba-4813-9949-87e15f592247.jpg?1593092351|https://scryfall.com/card/bng/109/satyr-nyx-smith?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:587
+msgid "Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2|\\ |mana_r|. If you do, create a 3/1 red Elemental enchantment creature token with haste."
+msgstr ""
+
+#: ../../BNG.rst:592
+msgid ":mtgtip:`Scouring Sands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/273f25fc-9c9f-4b73-a28b-1461d8fcd443.jpg?1593092358|https://scryfall.com/card/bng/110/scouring-sands?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:591
+msgid "Scouring Sands deals 1 damage to each creature your opponents control. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:596
+msgid ":mtgtip:`Searing Blood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb43fd07-d281-447d-88bf-c53498c2cf20.jpg?1593092367|https://scryfall.com/card/bng/111/searing-blood?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:595
+msgid "Searing Blood deals 2 damage to target creature. When that creature dies this turn, Searing Blood deals 3 damage to the creature's controller."
+msgstr ""
+
+#: ../../BNG.rst:602
+msgid ":mtgtip:`Stormcaller of Keranos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d397bdc3-a866-45be-8740-185d9ccf29c4.jpg?1593092376|https://scryfall.com/card/bng/112/stormcaller-of-keranos?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:601
+msgid "|mana_1|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:610
+msgid ":mtgtip:`Thunder Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c28fa4f8-4b87-41dc-802d-dfd160ccf1a8.jpg?1593092387|https://scryfall.com/card/bng/113/thunder-brute?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:605
+#: ../../BNG.rst:633
+#: ../../BNG.rst:733
+#: ../../BNG.rst:793
+msgid "Trample"
+msgstr ""
+
+#: ../../BNG.rst:609
+msgid "When Thunder Brute enters the battlefield, if tribute wasn't paid, it gains haste until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:616
+msgid ":mtgtip:`Thunderous Might<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d361851d-e2d4-4912-ba08-81913f6b6e08.jpg?1593092394|https://scryfall.com/card/bng/114/thunderous-might?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:615
+msgid "Whenever enchanted creature attacks, it gets +X/+0 until end of turn, where X is your devotion to red. (Each |mana_r| in the mana costs of permanents you control counts toward your devotion to red.)"
+msgstr ""
+
+#: ../../BNG.rst:620
+msgid ":mtgtip:`Whims of the Fates<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7ef2fc3-0072-450b-acab-7d19c4903128.jpg?1593092405|https://scryfall.com/card/bng/115/whims-of-the-fates?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:619
+msgid "Starting with you, each player separates all permanents they control into three piles. Then each player chooses one of their piles at random and sacrifices those permanents. (Piles can be empty.)"
+msgstr ""
+
+#: ../../BNG.rst:626
+msgid ":mtgtip:`Archetype of Endurance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/3145ca68-7a9d-4161-9456-518591251b56.jpg?1593092414|https://scryfall.com/card/bng/116/archetype-of-endurance?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:623
+msgid "Creatures you control have hexproof."
+msgstr ""
+
+#: ../../BNG.rst:625
+msgid "Creatures your opponents control lose hexproof and can't have or gain hexproof."
+msgstr ""
+
+#: ../../BNG.rst:630
+msgid ":mtgtip:`Aspect of Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19353629-07be-47e2-a7d5-3a5e5e1120c8.jpg?1593092421|https://scryfall.com/card/bng/117/aspect-of-hydra?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:629
+msgid "Target creature gets +X/+X until end of turn, where X is your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
+msgstr ""
+
+#: ../../BNG.rst:634
+msgid ":mtgtip:`Charging Badger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d88ad54-43fc-45e0-8e00-db6be0c021ea.jpg?1593092429|https://scryfall.com/card/bng/118/charging-badger?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:642
+msgid ":mtgtip:`Courser of Kruphix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da5a807f-58e8-4d92-a61c-47bb9b28977f.jpg?1593092436|https://scryfall.com/card/bng/119/courser-of-kruphix?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:637
+msgid "Play with the top card of your library revealed."
+msgstr ""
+
+#: ../../BNG.rst:639
+msgid "You may play lands from the top of your library."
+msgstr ""
+
+#: ../../BNG.rst:641
+msgid "Whenever a land enters the battlefield under your control, you gain 1 life."
+msgstr ""
+
+#: ../../BNG.rst:646
+msgid ":mtgtip:`Culling Mark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4c45eda-9f00-4b40-b91d-0ed00151923c.jpg?1593092447|https://scryfall.com/card/bng/120/culling-mark?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:645
+msgid "Target creature blocks this turn if able."
+msgstr ""
+
+#: ../../BNG.rst:650
+msgid ":mtgtip:`Fated Intervention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/622e1afc-0d06-4c01-abef-3b3e93bd21c3.jpg?1593092457|https://scryfall.com/card/bng/121/fated-intervention?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:649
+msgid "Create two 3/3 green Centaur enchantment creature tokens. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:656
+msgid ":mtgtip:`Graverobber Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41810472-ba24-44b6-886c-f8906ff0a7df.jpg?1593092470|https://scryfall.com/card/bng/122/graverobber-spider?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:653
+msgid "Reach"
+msgstr ""
+
+#: ../../BNG.rst:655
+msgid "|mana_3|\\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../BNG.rst:660
+msgid ":mtgtip:`Hero of Leina Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f022c0c3-6331-47be-b07f-9768930afd3a.jpg?1593092480|https://scryfall.com/card/bng/123/hero-of-leina-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:659
+msgid "Heroic — Whenever you cast a spell that targets Hero of Leina Tower, you may pay |mana_x|. If you do, put X +1/+1 counters on Hero of Leina Tower."
+msgstr ""
+
+#: ../../BNG.rst:664
+msgid ":mtgtip:`Hunter's Prowess<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cef2323c-3e35-4ac6-9f07-2c0584371f9e.jpg?1593092488|https://scryfall.com/card/bng/124/hunters-prowess?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:663
+msgid "Until end of turn, target creature gets +3/+3 and gains trample and \"Whenever this creature deals combat damage to a player, draw that many cards.\""
+msgstr ""
+
+#: ../../BNG.rst:672
+msgid ":mtgtip:`Karametra's Favor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc036932-38c2-42df-9922-2d901028f2b8.jpg?1593092496|https://scryfall.com/card/bng/125/karametras-favor?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:669
+msgid "When Karametra's Favor enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:671
+msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
+msgstr ""
+
+#: ../../BNG.rst:676
+msgid ":mtgtip:`Mischief and Mayhem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9daa44b4-5c30-41d8-b4d6-6219c5729a5f.jpg?1593092504|https://scryfall.com/card/bng/126/mischief-and-mayhem?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:675
+msgid "Up to two target creatures each get +4/+4 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:680
+msgid ":mtgtip:`Mortal's Resolve<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/131a96b4-393d-4e8e-9b6a-f15f3804febb.jpg?1593092513|https://scryfall.com/card/bng/127/mortals-resolve?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:679
+msgid "Target creature gets +1/+1 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+msgstr ""
+
+#: ../../BNG.rst:686
+msgid ":mtgtip:`Nessian Demolok<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee0683b2-8bc2-4c6a-964e-b909693b68c1.jpg?1593092523|https://scryfall.com/card/bng/128/nessian-demolok?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:685
+msgid "When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent."
+msgstr ""
+
+#: ../../BNG.rst:692
+msgid ":mtgtip:`Nessian Wilds Ravager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65368cf0-7d92-4248-b930-633fd023065b.jpg?1593092537|https://scryfall.com/card/bng/129/nessian-wilds-ravager?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:689
+msgid "Tribute 6 (As this creature enters the battlefield, an opponent of your choice may put six +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../BNG.rst:691
+msgid "When Nessian Wilds Ravager enters the battlefield, if tribute wasn't paid, you may have Nessian Wilds Ravager fight another target creature. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../BNG.rst:700
+msgid ":mtgtip:`Noble Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd8447c3-4fce-4971-a3d7-e5671fe269f5.jpg?1593092554|https://scryfall.com/card/bng/130/noble-quarry?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:695
+msgid "Bestow |mana_5|\\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:697
+msgid "All creatures able to block Noble Quarry or enchanted creature do so."
+msgstr ""
+
+#: ../../BNG.rst:706
+msgid ":mtgtip:`Nyxborn Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91a78895-5e09-46a5-8a74-a07f0befc4e5.jpg?1593092568|https://scryfall.com/card/bng/131/nyxborn-wolf?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:703
+msgid "Bestow |mana_4|\\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:705
+msgid "Enchanted creature gets +3/+1."
+msgstr ""
+
+#: ../../BNG.rst:710
+msgid ":mtgtip:`Peregrination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03835e3e-9fd1-47c7-86a5-a5481420f2d3.jpg?1593092579|https://scryfall.com/card/bng/132/peregrination?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:709
+msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Shuffle your library, then scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:714
+msgid ":mtgtip:`Pheres-Band Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80856020-f569-4d73-8c44-7b48535a69e8.jpg?1593092589|https://scryfall.com/card/bng/133/pheres-band-raiders?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:713
+msgid "Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |mana_2|\\ |mana_g|. If you do, create a 3/3 green Centaur enchantment creature token."
+msgstr ""
+
+#: ../../BNG.rst:718
+msgid ":mtgtip:`Pheres-Band Tromper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2d7e7d1-70ee-450b-8018-ff373cc91c68.jpg?1593092598|https://scryfall.com/card/bng/134/pheres-band-tromper?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:717
+msgid "Inspired — Whenever Pheres-Band Tromper becomes untapped, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../BNG.rst:726
+msgid ":mtgtip:`Raised by Wolves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcfaace7-86e2-427e-97b1-b09dfdd30fee.jpg?1593092609|https://scryfall.com/card/bng/135/raised-by-wolves?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:723
+msgid "When Raised by Wolves enters the battlefield, create two 2/2 green Wolf creature tokens."
+msgstr ""
+
+#: ../../BNG.rst:725
+msgid "Enchanted creature gets +1/+1 for each Wolf you control."
+msgstr ""
+
+#: ../../BNG.rst:730
+msgid ":mtgtip:`Satyr Wayfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13c5a1ce-932a-4b3d-8b86-ed920e646afc.jpg?1593092623|https://scryfall.com/card/bng/136/satyr-wayfinder?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:729
+msgid "When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard."
+msgstr ""
+
+#: ../../BNG.rst:738
+msgid ":mtgtip:`Scourge of Skola Vale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/baef76dc-7cef-449b-b8a7-e038887129d9.jpg?1593092636|https://scryfall.com/card/bng/137/scourge-of-skola-vale?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:735
+msgid "Scourge of Skola Vale enters the battlefield with two +1/+1 counters on it."
+msgstr ""
+
+#: ../../BNG.rst:737
+msgid "|tap|, Sacrifice another creature: Put a number of +1/+1 counters on Scourge of Skola Vale equal to the sacrificed creature's toughness."
+msgstr ""
+
+#: ../../BNG.rst:742
+msgid ":mtgtip:`Setessan Oathsworn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5579755-4718-406a-bba6-27f1f2811e59.jpg?1593092648|https://scryfall.com/card/bng/138/setessan-oathsworn?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:741
+msgid "Heroic — Whenever you cast a spell that targets Setessan Oathsworn, put two +1/+1 counters on Setessan Oathsworn."
+msgstr ""
+
+#: ../../BNG.rst:746
+msgid ":mtgtip:`Setessan Starbreaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03af8b3b-a897-43e2-a87d-833da93edc41.jpg?1593092657|https://scryfall.com/card/bng/139/setessan-starbreaker?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:745
+msgid "When Setessan Starbreaker enters the battlefield, you may destroy target Aura."
+msgstr ""
+
+#: ../../BNG.rst:750
+msgid ":mtgtip:`Skyreaping<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40eb76b3-b527-4ed8-8ce3-d3de48562b6e.jpg?1593092666|https://scryfall.com/card/bng/140/skyreaping?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:749
+msgid "Skyreaping deals damage to each creature with flying equal to your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
+msgstr ""
+
+#: ../../BNG.rst:756
+msgid ":mtgtip:`Snake of the Golden Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08b10bd7-3f8b-426f-acdf-5a9559b9bc7d.jpg?1593092675|https://scryfall.com/card/bng/141/snake-of-the-golden-grove?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:755
+msgid "When Snake of the Golden Grove enters the battlefield, if tribute wasn't paid, you gain 4 life."
+msgstr ""
+
+#: ../../BNG.rst:758
+msgid ":mtgtip:`Swordwise Centaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/1776ebd7-91fc-49e1-a978-f2012162d1cf.jpg?1593860945|https://scryfall.com/card/bng/142/swordwise-centaur?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:764
+msgid ":mtgtip:`Unravel the Aether<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5584c26f-62ac-4d0b-9142-5159f2a05734.jpg?1593092698|https://scryfall.com/card/bng/143/unravel-the-aether?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:763
+msgid "Choose target artifact or enchantment. Its owner shuffles it into their library."
+msgstr ""
+
+#: ../../BNG.rst:772
+msgid ":mtgtip:`Chromanticore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d171b46-69e7-4e39-b3b2-97ed022cd933.jpg?1593092710|https://scryfall.com/card/bng/144/chromanticore?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:767
+msgid "Bestow |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:769
+msgid "Flying, first strike, vigilance, trample, lifelink"
+msgstr ""
+
+#: ../../BNG.rst:771
+msgid "Enchanted creature gets +4/+4 and has flying, first strike, vigilance, trample, and lifelink."
+msgstr ""
+
+#: ../../BNG.rst:780
+msgid ":mtgtip:`Ephara, God of the Polis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6832e495-7ee9-43e0-94ea-03c88344080e.jpg?1593092720|https://scryfall.com/card/bng/145/ephara-god-of-the-polis?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:775
+#: ../../BNG.rst:801
+#: ../../BNG.rst:821
+#: ../../BNG.rst:829
+#: ../../BNG.rst:851
+msgid "Indestructible"
+msgstr ""
+
+#: ../../BNG.rst:777
+msgid "As long as your devotion to white and blue is less than seven, Ephara isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:779
+msgid "At the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:790
+msgid ":mtgtip:`Ephara's Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e480d04-9a35-463e-928e-8da3556629e6.jpg?1593092729|https://scryfall.com/card/bng/146/epharas-enlightenment?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:785
+msgid "When Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on enchanted creature."
+msgstr ""
+
+#: ../../BNG.rst:787
+msgid "Enchanted creature has flying."
+msgstr ""
+
+#: ../../BNG.rst:789
+msgid "Whenever a creature enters the battlefield under your control, you may return Ephara's Enlightenment to its owner's hand."
+msgstr ""
+
+#: ../../BNG.rst:798
+msgid ":mtgtip:`Fanatic of Xenagos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3687799c-81bd-4c49-902a-2a96863629c3.jpg?1593092739|https://scryfall.com/card/bng/147/fanatic-of-xenagos?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:795
+msgid "Tribute 1 (As this creature enters the battlefield, an opponent of your choice may put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../BNG.rst:797
+msgid "When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:806
+msgid ":mtgtip:`Karametra, God of Harvests<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74050cb3-ba99-475d-9124-726e498fb68e.jpg?1593092748|https://scryfall.com/card/bng/148/karametra-god-of-harvests?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:803
+msgid "As long as your devotion to green and white is less than seven, Karametra isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:805
+msgid "Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../BNG.rst:814
+msgid ":mtgtip:`Kiora, the Crashing Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f77ac7fa-718d-425f-a0aa-2f8e2bfc0950.jpg?1593092760|https://scryfall.com/card/bng/149/kiora-the-crashing-wave?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:809
+msgid "+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls."
+msgstr ""
+
+#: ../../BNG.rst:811
+msgid "−1: Draw a card. You may play an additional land this turn."
+msgstr ""
+
+#: ../../BNG.rst:813
+msgid "−5: You get an emblem with \"At the beginning of your end step, create a 9/9 blue Kraken creature token.\""
+msgstr ""
+
+#: ../../BNG.rst:818
+msgid ":mtgtip:`Kiora's Follower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec9ce307-8ec3-4db6-a4a3-49f92ebcc783.jpg?1593092775|https://scryfall.com/card/bng/150/kioras-follower?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:817
+msgid "|tap|: Untap another target permanent."
+msgstr ""
+
+#: ../../BNG.rst:826
+msgid ":mtgtip:`Mogis, God of Slaughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a0417bf-b735-46d7-9985-2d991051020f.jpg?1593092789|https://scryfall.com/card/bng/151/mogis-god-of-slaughter?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:823
+msgid "As long as your devotion to black and red is less than seven, Mogis isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:825
+msgid "At the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless they sacrifice a creature."
+msgstr ""
+
+#: ../../BNG.rst:834
+msgid ":mtgtip:`Phenax, God of Deception<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dfcb129-4665-40e4-b5cb-a79f3f40ae5c.jpg?1593092799|https://scryfall.com/card/bng/152/phenax-god-of-deception?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:831
+msgid "As long as your devotion to blue and black is less than seven, Phenax isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:833
+msgid "Creatures you control have \"|tap|: Target player mills X cards, where X is this creature's toughness.\""
+msgstr ""
+
+#: ../../BNG.rst:838
+msgid ":mtgtip:`Ragemonger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1eb6eda2-e3df-440a-8900-8310f11db6e9.jpg?1593092810|https://scryfall.com/card/bng/153/ragemonger?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:837
+msgid "Minotaur spells you cast cost |mana_b|\\ |mana_r| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Minotaur spell with mana cost |mana_2|\\ |mana_r|, it costs |mana_2| to cast.)"
+msgstr ""
+
+#: ../../BNG.rst:842
+msgid ":mtgtip:`Reap What Is Sown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/120babed-841f-4bf1-ac2d-3ab097c0760b.jpg?1593092818|https://scryfall.com/card/bng/154/reap-what-is-sown?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:841
+msgid "Put a +1/+1 counter on each of up to three target creatures."
+msgstr ""
+
+#: ../../BNG.rst:848
+msgid ":mtgtip:`Siren of the Silent Song<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/990f4438-aa74-4460-8bac-93480d0bb0dc.jpg?1593092828|https://scryfall.com/card/bng/155/siren-of-the-silent-song?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:847
+msgid "Inspired — Whenever Siren of the Silent Song becomes untapped, each opponent discards a card, then each opponent mills a card."
+msgstr ""
+
+#: ../../BNG.rst:856
+msgid ":mtgtip:`Xenagos, God of Revels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/3184b138-1109-4195-9d96-4f190164e98b.jpg?1593092838|https://scryfall.com/card/bng/156/xenagos-god-of-revels?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:853
+msgid "As long as your devotion to red and green is less than seven, Xenagos isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:855
+msgid "At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power."
+msgstr ""
+
+#: ../../BNG.rst:862
+msgid ":mtgtip:`Astral Cornucopia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a72b8011-c712-418f-869e-42fda3dc0830.jpg?1593092852|https://scryfall.com/card/bng/157/astral-cornucopia?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:859
+msgid "Astral Cornucopia enters the battlefield with X charge counters on it."
+msgstr ""
+
+#: ../../BNG.rst:861
+msgid "|tap|: Choose a color. Add one mana of that color for each charge counter on Astral Cornucopia."
+msgstr ""
+
+#: ../../BNG.rst:868
+msgid ":mtgtip:`Gorgon's Head<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d745dd92-9f7a-44a4-a27f-2ff17753db1c.jpg?1593092861|https://scryfall.com/card/bng/158/gorgons-head?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:865
+msgid "Equipped creature has deathtouch."
+msgstr ""
+
+#: ../../BNG.rst:867
+#: ../../BNG.rst:885
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../BNG.rst:874
+msgid ":mtgtip:`Heroes' Podium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3cb14f9-343c-4672-b4ee-db7f1d1a98ff.jpg?1593092870|https://scryfall.com/card/bng/159/heroes-podium?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:871
+msgid "Each legendary creature you control gets +1/+1 for each other legendary creature you control."
+msgstr ""
+
+#: ../../BNG.rst:873
+msgid "|mana_x|, |tap|: Look at the top X cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../BNG.rst:880
+msgid ":mtgtip:`Pillar of War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4c1371b-ffec-41c7-8fc1-acb2bd538080.jpg?1593092878|https://scryfall.com/card/bng/160/pillar-of-war?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:879
+msgid "As long as Pillar of War is enchanted, it can attack as though it didn't have defender."
+msgstr ""
+
+#: ../../BNG.rst:886
+msgid ":mtgtip:`Siren Song Lyre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfeca720-3163-4391-b90d-5f7aa5f5987b.jpg?1593092887|https://scryfall.com/card/bng/161/siren-song-lyre?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:883
+msgid "Equipped creature has \"|mana_2|, |tap|: Tap target creature.\""
+msgstr ""
+
+#: ../../BNG.rst:890
+msgid ":mtgtip:`Springleaf Drum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bc9d645-0220-4a65-bbc7-abc64ded548e.jpg?1593092897|https://scryfall.com/card/bng/162/springleaf-drum?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:889
+msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
+msgstr ""
+
+#: ../../BNG.rst:898
+msgid ":mtgtip:`Temple of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c657a645-f454-4eaf-be0d-15c9989fa4ef.jpg?1593092908|https://scryfall.com/card/bng/163/temple-of-enlightenment?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:893
+msgid "Temple of Enlightenment enters the battlefield tapped."
+msgstr ""
+
+#: ../../BNG.rst:895
+msgid "When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:897
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../BNG.rst:906
+msgid ":mtgtip:`Temple of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52f50818-aede-4667-883a-e0339d86d870.jpg?1593092918|https://scryfall.com/card/bng/164/temple-of-malice?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:901
+msgid "Temple of Malice enters the battlefield tapped."
+msgstr ""
+
+#: ../../BNG.rst:903
+msgid "When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:905
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../BNG.rst:913
+msgid ":mtgtip:`Temple of Plenty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0830054-b140-49c3-90cb-24e2502757be.jpg?1593092928|https://scryfall.com/card/bng/165/temple-of-plenty?utm_source=api>`"
+msgstr ""
+
+#: ../../BNG.rst:909
+msgid "Temple of Plenty enters the battlefield tapped."
+msgstr ""
+
+#: ../../BNG.rst:911
+msgid "When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:913
+msgid "|tap|: Add |mana_g| or |mana_w|."
+msgstr ""
