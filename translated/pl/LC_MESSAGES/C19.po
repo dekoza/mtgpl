@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:12+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -3850,15 +3850,14 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:1237
-#, fuzzy
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
 "two basic land cards, reveal them, put them into your hand, then shuffle "
 "your library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1244
 msgid ""
@@ -4155,14 +4154,11 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:1337
-#, fuzzy
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle your "
 "library.)"
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj  w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1346
 msgid ""

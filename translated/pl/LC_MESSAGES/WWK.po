@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 11:32+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -1499,13 +1499,12 @@ msgid ""
 msgstr ""
 
 #: ../../WWK.rst:515
-#, fuzzy
 msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
-"Lądowanie — Ilekroć ląd wchodzi na pole bitwy pod twoim władaniem, możesz "
-"położyć na polu bitwy żeton zielonego stwora Bestia 4/4."
+"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów zielonego stwora "
+"Roślina 0/1, iloma lądami władasz."
 
 #: ../../WWK.rst:517
 msgid ""
@@ -2163,11 +2162,12 @@ msgid "Khalni Garden enters the battlefield tapped."
 msgstr ""
 
 #: ../../WWK.rst:755
-#, fuzzy
 msgid ""
 "When Khalni Garden enters the battlefield, create a 0/1 green Plant creature "
 "token."
-msgstr "Kiedy Baleful Strix wejdzie na pole bitwy, dobierz kartę."
+msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina 0/"
+"1."
 
 #: ../../WWK.rst:757
 msgid "|tap|: Add |mana_g|."

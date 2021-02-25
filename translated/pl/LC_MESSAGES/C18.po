@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:12+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -192,16 +192,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:53
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +3/+3, has trample, and can't attack you or a "
-#| "planeswalker you control."
 msgid ""
 "Whenever an opponent attacks, if they attacked you and/or a planeswalker you "
 "control, draw a card."
 msgstr ""
-"Zauroczony stwór dostaje +3/+3, ma tratowanie i nie może atakować ciebie ani "
-"wędrowców pod twoim władaniem."
+"Ilekroć przeciwnik atauje, jeśli atakuje ciebie lub wędrowca pod twoim "
+"władaniem, dobierz kartę."
 
 #: ../../C18.rst:60
 msgid ""
@@ -774,16 +770,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:253
-#, fuzzy
-#| msgid ""
-#| "Whenever Silent Sentinel attacks, you may return target enchantment card "
-#| "from your graveyard to the battlefield."
 msgid ""
 "−7: Mill seven cards. Return all non-Aura enchantment cards from your "
 "graveyard to the battlefield, then do the same for Aura cards."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, możesz przywrócić wskazaną kartę uroku z "
-"twojego cmentarza na pole bitwy."
+"–7: Zmiel siedem kart. Przywróć wszystkie uroki bez typu Aura z twojego "
+"cmentarza na pole bitwy, następnie zrób to sam dla kart typu Aura."
 
 #: ../../C18.rst:255
 msgid "Estrid, the Masked can be your commander."
@@ -1776,14 +1768,12 @@ msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgstr ""
 
 #: ../../C18.rst:593
-#, fuzzy
 msgid ""
 "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
-"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli tak zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przyzwanie |mana_2|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../C18.rst:600
 msgid ""
@@ -2365,13 +2355,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:785
-#, fuzzy
 msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
-"Lądowanie — Ilekroć ląd wchodzi na pole bitwy pod twoim władaniem, możesz "
-"położyć na polu bitwy żeton zielonego stwora Bestia 4/4."
+"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów zielonego stwora "
+"Roślina 0/1, iloma lądami władasz."
 
 #: ../../C18.rst:787
 msgid ""
@@ -2661,15 +2650,14 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:885
-#, fuzzy
 msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu i umieścić ją przekręconą na polu walki, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../C18.rst:892
 msgid ""
@@ -3682,13 +3670,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1247
-#, fuzzy
 msgid ""
 "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr "
 "artifact creature tokens."
 msgstr ""
-"Kiedy Kwasowy Szlam wejdzie na pole bitwy, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
+"artefaktowego stwora Myr 1/1."
 
 #: ../../C18.rst:1249
 msgid ""
@@ -4480,11 +4467,12 @@ msgid "Khalni Garden enters the battlefield tapped."
 msgstr ""
 
 #: ../../C18.rst:1569
-#, fuzzy
 msgid ""
 "When Khalni Garden enters the battlefield, create a 0/1 green Plant creature "
 "token."
-msgstr "Kiedy Baleful Strix wejdzie na pole bitwy, dobierz kartę."
+msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina 0/"
+"1."
 
 #: ../../C18.rst:1571 ../../C18.rst:1607 ../../C18.rst:1767
 msgid "|tap|: Add |mana_g|."

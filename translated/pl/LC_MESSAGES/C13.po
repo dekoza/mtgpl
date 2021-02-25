@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:12+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -90,13 +90,12 @@ msgstr "Latanie"
 
 # d78deae43c8c4a48bc1069a4e358c915
 #: ../../C13.rst:17
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_u|: Creatures you control gain shroud until end "
 "of turn. (They can't be the targets of spells or abilities.)"
 msgstr ""
-"|mana_1|\\ |mana_g|\\ |mana_u|: Stwory pod twoim władaniem zyskują antymagię "
-"do końca tury. (Nie mogą być wskazywane przez czary lub zdolności.)"
+"|mana_1|\\ |mana_g|\\ |mana_u|: Stwory pod twoim władaniem zyskują do końca "
+"tury antymagię. (Nie mogą być wskazywane przez czary lub zdolności.)"
 
 #: ../../C13.rst:22
 msgid ""
@@ -236,14 +235,10 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:63
-#, fuzzy
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Plains card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
 
 #: ../../C13.rst:70
 msgid ""
@@ -348,6 +343,9 @@ msgid ""
 "all creatures, then create two 1/1 white Spirit creature tokens with flying. "
 "Creatures destroyed this way can't be regenerated."
 msgstr ""
+"Próg — Jeśli w twoim cmentarzu jest co najmniej siedem kart, zamiast tego "
+"zniszcz wszystkie stwory, następnie stwórz dwa żetony białego stwora Duch 1/"
+"1 z lataniem. Stwory zniszczone w ten sposób nie mogą regenerować."
 
 #: ../../C13.rst:100
 msgid ""
@@ -1101,13 +1099,12 @@ msgstr ""
 
 # 0d7b8d76cf5a4d039279d93302d665c0
 #: ../../C13.rst:349
-#, fuzzy
 msgid ""
 "Kicker |mana_w| and/or |mana_2|\\ |mana_b| (You may pay an additional |"
 "mana_w| and/or |mana_2|\\ |mana_b| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_r| (Możesz zapłacić dodatkowo |mana_r| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_w| i/lub |mana_2|\\ |mana_b| (Rzucając ten czar możesz "
+"zapłacić dodatkowo |mana_w| i/lub |mana_2|\\ |mana_b|.)"
 
 # 52657c397f844e3c8da8cf23f0ac4e7e
 #: ../../C13.rst:351
@@ -1325,13 +1322,12 @@ msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:425
-#, fuzzy
 msgid ""
 "Cycling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, "
 "Discard this card: Draw a card.)"
 msgstr ""
-"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
-"kartę.)"
+"Recykling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, "
+"odrzuć tę kartę: Dobierz kartę.)"
 
 # 90dfc073005a477dbac86290c3307ea7
 #: ../../C13.rst:427
@@ -1546,7 +1542,6 @@ msgstr ""
 
 # a6865b3ac2074e08b66f1c2ab1adb408
 #: ../../C13.rst:493
-#, fuzzy
 msgid ""
 "Suspend 5—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
 "you may pay |mana_1|\\ |mana_b| and exile it with five time counters on it. "
@@ -1554,9 +1549,9 @@ msgid ""
 "removed, cast it without paying its mana cost.)"
 msgstr ""
 "Zawieszenie 5 — |mana_1|\\ |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
-"zapłacić |mana_1|\\ |mana_b| i wypędzić go z pięcioma znacznikami czasu. Na "
-"początku twojego utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik "
-"zostanie usunięty, rzuć go bez płacenia kosztu many.)"
+"zapłacić |mana_1|\\ |mana_b| i wygnać go z pięcioma znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"znacznik zostanie usunięty, rzuć go bez płacenia kosztu many.)"
 
 #: ../../C13.rst:498
 msgid ""
@@ -1912,9 +1907,8 @@ msgstr "Zniszcz wskazany artefakt."
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
 #: ../../C13.rst:601 ../../C13.rst:635
-#, fuzzy
 msgid "Destroy target nonbasic land."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany niebazowy ląd."
 
 #: ../../C13.rst:606
 msgid ""
@@ -2009,9 +2003,8 @@ msgstr ""
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
 #: ../../C13.rst:633
-#, fuzzy
 msgid "Incendiary Command deals 2 damage to each creature."
-msgstr "Klęska Głodu zadaje 3 obrażenia każdemu stworowi i każdemu graczowi."
+msgstr "Ten czar zadaje każdemu stworowi po 2 obrażenia."
 
 #: ../../C13.rst:637
 msgid ""
@@ -2426,13 +2419,12 @@ msgstr ""
 
 # 32d70781d5c54b4eb7c1bf0af512b476
 #: ../../C13.rst:753
-#, fuzzy
 msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
-"Lądowanie — Ilekroć ląd wchodzi na pole bitwy pod twoim władaniem, możesz "
-"położyć na polu bitwy żeton zielonego stwora Bestia 4/4."
+"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów zielonego stwora "
+"Roślina 0/1, iloma lądami władasz."
 
 # 40b91369c1474c41a082265a54d719ad
 #: ../../C13.rst:755
@@ -2586,15 +2578,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:797
-#, fuzzy
 msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu i umieścić ją przekręconą na polu walki, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:802
 msgid ""
@@ -3965,15 +3956,11 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1293
-#, fuzzy
 msgid ""
 "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this "
 "card: Search your library for a Mountain or Forest card, reveal it, put it "
 "into your hand, then shuffle your library.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
 
 #: ../../C13.rst:1300
 msgid ""
@@ -4151,15 +4138,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1355
-#, fuzzy
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
 "two basic land cards, reveal them, put them into your hand, then shuffle "
 "your library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1362
 msgid ""
@@ -4354,13 +4340,12 @@ msgstr ""
 
 # df512c6484d943edae58daa7445f10cd
 #: ../../C13.rst:1417
-#, fuzzy
 msgid ""
 "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr "
 "artifact creature tokens."
 msgstr ""
-"Kiedy Kwasowy Szlam wejdzie na pole bitwy, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
+"artefaktowego stwora Myr 1/1."
 
 #: ../../C13.rst:1419
 msgid ""
@@ -5306,11 +5291,12 @@ msgstr ""
 
 # eb69607d046b4fbd9ed0f54424ab87f1
 #: ../../C13.rst:1747
-#, fuzzy
 msgid ""
 "When Khalni Garden enters the battlefield, create a 0/1 green Plant creature "
 "token."
-msgstr "Kiedy Baleful Strix wejdzie na pole bitwy, dobierz kartę."
+msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina 0/"
+"1."
 
 #: ../../C13.rst:1749 ../../C13.rst:1761 ../../C13.rst:1785 ../../C13.rst:1905
 #: ../../C13.rst:1937 ../../C13.rst:1981

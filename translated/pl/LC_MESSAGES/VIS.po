@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-22 09:45+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vis/pl/>\n"
 "Language: pl\n"
@@ -735,10 +735,8 @@ msgid ""
 msgstr ""
 
 #: ../../VIS.rst:257
-#, fuzzy
-#| msgid "Target player draws two cards."
 msgid "Target player mills four cards."
-msgstr "Wskazany gracz dobiera dwie karty."
+msgstr "Wskazany gracz mieli cztery karty."
 
 #: ../../VIS.rst:259
 msgid ""

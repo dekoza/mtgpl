@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 10:57+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
 "Language: pl\n"
@@ -45,6 +45,8 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_u|: Creatures you control gain shroud until end "
 "of turn. (They can't be the targets of spells or abilities.)"
 msgstr ""
+"|mana_1|\\ |mana_g|\\ |mana_u|: Stwory pod twoim władaniem zyskują do końca "
+"tury antymagię. (Nie mogą być wskazywane przez czary lub zdolności.)"
 
 #: ../../CON.rst:18
 msgid ""
@@ -1698,6 +1700,8 @@ msgid ""
 "Whenever Maelstrom Archangel deals combat damage to a player, you may cast a "
 "spell from your hand without paying its mana cost."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz rzucić czar z "
+"twojej ręki bez płacenia jego kosztu many."
 
 #: ../../CON.rst:612
 msgid ""
@@ -1953,15 +1957,14 @@ msgid ""
 msgstr ""
 
 #: ../../CON.rst:701
-#, fuzzy
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
 "two basic land cards, reveal them, put them into your hand, then shuffle "
 "your library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../CON.rst:708
 msgid ""

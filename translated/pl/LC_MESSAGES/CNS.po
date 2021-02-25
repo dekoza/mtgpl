@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:03+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -708,16 +708,12 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:243
-#, fuzzy
-#| msgid ""
-#| "When enchanted creature dies, return that card to the battlefield under "
-#| "your control."
 msgid ""
 "Each player mills two cards. Then you put a creature card from a graveyard "
 "onto the battlefield under your control."
 msgstr ""
-"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole bitwy pod twoim "
-"władaniem."
+"Każdy gracz mieli dwie karty. Następnie umieść kartę stwora z dowolnego "
+"cmentarza na polu bitwy pod twoim władaniem."
 
 #: ../../CNS.rst:250
 msgid ""
@@ -1234,14 +1230,10 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:419
-#, fuzzy
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Plains card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
 
 #: ../../CNS.rst:422
 msgid ""
@@ -1617,7 +1609,7 @@ msgstr ""
 
 #: ../../CNS.rst:559
 msgid "Your maximum hand size is increased by one."
-msgstr ""
+msgstr "Maksymalny rozmiar twojej ręki jest zwiększony o jeden."
 
 #: ../../CNS.rst:566
 msgid ""
@@ -2472,14 +2464,10 @@ msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../CNS.rst:889
-#, fuzzy
 msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Forest card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
-"Kiedy Oko Pielgrzyma wejdzie na pole bitwy, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, następnie przetasować twoją bibliotekę."
 
 #: ../../CNS.rst:894
 msgid ""

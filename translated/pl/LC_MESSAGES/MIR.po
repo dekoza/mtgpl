@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:03+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -591,12 +591,9 @@ msgid ""
 msgstr ""
 
 #: ../../MIR.rst:207
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_w|: Create a 1/1 white Pegasus creature token with flying."
-msgstr ""
-"|mana_1|, |tap|, zapłać 1 życie: Umieść na polu bitwy żeton białego stwora "
-"Goat 0/1."
+msgstr "|mana_1|\\ |mana_w|: Stwórz żeton białego stwora Pegaz 1/1 z lataniem."
 
 #: ../../MIR.rst:212
 msgid ""

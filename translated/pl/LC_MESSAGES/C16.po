@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:12+0000\n"
+"PO-Revision-Date: 2021-02-25 15:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -943,17 +943,11 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../C16.rst:353
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle your "
 "library.)"
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj  w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:360
 msgid ""
@@ -1899,19 +1893,13 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:659
-#, fuzzy
-#| msgid ""
-#| "Dredge 2 (If you would draw a card, instead you may put exactly two cards "
-#| "from the top of your library into your graveyard. If you do, return this "
-#| "card from your graveyard to your hand. Otherwise, draw a card.)"
 msgid ""
 "Dredge 2 (If you would draw a card, you may mill two cards instead. If you "
 "do, return this card from your graveyard to your hand.)"
 msgstr ""
-"Czerpak 2 (Jeśli miałbyś dobrać kartę, zamiast tego możesz umieścić "
-"dokładnie dwie karty z wierzchu twojej biblioteki w twoim cmentarzu. Jeśli "
-"tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do twojej ręki. W "
-"przeciwnym razie dobierz kartę.)"
+"Czerpak 2 (Jeśli miałbyś dobrać kartę, zamiast tego możesz zmielić dwie "
+"karty. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
+"twojej ręki.)"
 
 #: ../../C16.rst:668
 msgid ""
@@ -4350,13 +4338,12 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1495
-#, fuzzy
 msgid ""
 "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr "
 "artifact creature tokens."
 msgstr ""
-"Kiedy Kwasowy Szlam wejdzie na pole bitwy, zniszcz wskazany artefakt, urok "
-"albo ląd."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
+"artefaktowego stwora Myr 1/1."
 
 #: ../../C16.rst:1497
 msgid ""
