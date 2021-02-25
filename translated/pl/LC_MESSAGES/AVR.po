@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 15:17+0000\n"
+"PO-Revision-Date: 2021-02-25 19:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -842,6 +842,8 @@ msgid ""
 "As long as Galvanic Alchemist is paired with another creature, each of those "
 "creatures has \"|mana_2|\\ |mana_u|: Untap this creature.\""
 msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, każdy z nich ma \"|mana_2|\\ "
+"|mana_u|: Odkręć tego stwora.\""
 
 #: ../../AVR.rst:290
 msgid ""
@@ -1174,6 +1176,8 @@ msgid ""
 "As long as Stern Mentor is paired with another creature, each of those "
 "creatures has \"|tap|: Target player mills two cards.\""
 msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, każdy z nich ma \"|tap|: "
+"Wskazany gracz mieli dwie karty.\""
 
 #: ../../AVR.rst:408
 msgid ""
@@ -1236,6 +1240,8 @@ msgid ""
 "creatures has \"Whenever this creature deals damage to an opponent, draw a "
 "card.\""
 msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, każdy z nich ma \"Ilekroć "
+"ten stwór zada przeciwnikowi obrażenia, dobierz kartę.\""
 
 #: ../../AVR.rst:428
 msgid ""
@@ -1280,6 +1286,7 @@ msgid ""
 "As long as Wingcrafter is paired with another creature, both creatures have "
 "flying."
 msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, każdy z nich ma latanie."
 
 #: ../../AVR.rst:444
 msgid ""
@@ -1389,7 +1396,7 @@ msgstr ""
 
 #: ../../AVR.rst:473
 msgid "Sacrifice Crypt Creeper: Exile target card from a graveyard."
-msgstr ""
+msgstr "Poświęć tego stwora: Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../AVR.rst:480
 msgid ""
@@ -1403,12 +1410,15 @@ msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_b|: Exile target creature and put a +1/+1 "
 "counter on Dark Impostor."
 msgstr ""
+"|mana_4|\\ |mana_b|\\ |mana_b|: Wygnaj wskazanego stwora i umieść znacznik +"
+"1/+1 na niniejszym stworze."
 
 #: ../../AVR.rst:479
 msgid ""
 "Dark Impostor has all activated abilities of all creature cards exiled with "
 "it."
 msgstr ""
+"Ten stwór ma wszystkie aktywowane zdolności stworów przez siebie wygnanych."
 
 #: ../../AVR.rst:484
 msgid ""
@@ -1448,6 +1458,7 @@ msgid ""
 "At the beginning of your upkeep, sacrifice a creature other than Demonic "
 "Taskmaster."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć stwora innego niż niniejszy."
 
 #: ../../AVR.rst:502
 msgid ""
@@ -1461,6 +1472,8 @@ msgid ""
 "When Demonlord of Ashmouth enters the battlefield, exile it unless you "
 "sacrifice another creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj go, chyba że poświęcisz innego "
+"stwora."
 
 #: ../../AVR.rst:506
 msgid ""
@@ -1476,6 +1489,9 @@ msgid ""
 "their hand, where X is the number of despair counters on Descent into "
 "Madness."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik desperacji na tym "
+"uroku, następnie każdy gracz wygania X permanentów pod swoim władaniem i/lub "
+"kart ze swojej ręki, gdzie X jest liczbą znaczników desperacji na tym uroku."
 
 #: ../../AVR.rst:510
 msgid ""
@@ -1490,6 +1506,9 @@ msgid ""
 "to the battlefield under your control. That creature is a black Zombie in "
 "addition to its other colors and types."
 msgstr ""
+"Ilekroć umrze stwór uszkodzony przez tego stwora w tej turze, przywróć go na "
+"pole walki pod twoim władaniem. Ów stwór jest dodatkowo czarnym Zombi oprócz "
+"swoich innych kolorów i typów."
 
 #: ../../AVR.rst:514
 msgid ""
@@ -1518,6 +1537,8 @@ msgid ""
 "Target player loses X life and you gain X life, where X is the greatest "
 "power among creatures you control."
 msgstr ""
+"Wskazany gracz traci X żyć, a ty zyskaj X żyć, gdzie X jest największą siłą "
+"pośród stworów pod twoim władaniem."
 
 #: ../../AVR.rst:524
 msgid ""
@@ -1528,7 +1549,7 @@ msgstr ""
 
 #: ../../AVR.rst:521
 msgid "|mana_b|: Evernight Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../AVR.rst:528
 msgid ""
@@ -1553,6 +1574,8 @@ msgid ""
 "Enchanted creature gets -1/-1 and is a black Zombie in addition to its other "
 "colors and types."
 msgstr ""
+"Zauroczony stwór dostaje -1/-1 i jest czarnym Zombi oprócz swoich innych "
+"kolorów i typów."
 
 #: ../../AVR.rst:538
 msgid ""
@@ -1566,6 +1589,8 @@ msgid ""
 "If combat damage would be dealt to Gloom Surgeon, prevent that damage and "
 "exile that many cards from the top of your library."
 msgstr ""
+"Jeśli ten stwór miałby otrzymać obrażenia bojowe, zażegnaj je i wygnaj tyle "
+"samo kart z wierzchu twojej biblioteki."
 
 #: ../../AVR.rst:542
 msgid ""
@@ -1579,6 +1604,8 @@ msgid ""
 "Return target creature card from your graveyard to your hand. Target player "
 "sacrifices a creature."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. Wskazany "
+"gracz poświęca stwora."
 
 #: ../../AVR.rst:548
 msgid ""
@@ -1589,7 +1616,7 @@ msgstr ""
 
 #: ../../AVR.rst:547
 msgid "Pay 7 life: Draw seven cards."
-msgstr ""
+msgstr "Zapłać 7 żyć: Dobierz siedem kart."
 
 #: ../../AVR.rst:554
 msgid ""
@@ -1618,6 +1645,8 @@ msgid ""
 "As long as you control exactly one creature, that creature gets +3/+1 and "
 "has lifelink."
 msgstr ""
+"O ile władasz dokładnie jednym stworem, ów stwór dostaje +3/+1 i ma więź "
+"życia."
 
 #: ../../AVR.rst:562
 msgid ""
@@ -1628,7 +1657,7 @@ msgstr ""
 
 #: ../../AVR.rst:561
 msgid "Destroy target Human creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o typie Człowiek."
 
 #: ../../AVR.rst:566
 msgid ""
@@ -1639,7 +1668,7 @@ msgstr ""
 
 #: ../../AVR.rst:565
 msgid "Hunted Ghoul can't block Humans."
-msgstr ""
+msgstr "Ten stwór nie może blokować stworów z typem Człowiek."
 
 #: ../../AVR.rst:570
 msgid ""
@@ -1650,7 +1679,7 @@ msgstr ""
 
 #: ../../AVR.rst:569
 msgid "For each creature, its controller sacrifices it unless they pay X life."
-msgstr ""
+msgstr "Dla każdego stwora, jego władca poświęca go, chyba że zapłaci X żyć."
 
 #: ../../AVR.rst:574
 msgid ""
@@ -1661,7 +1690,7 @@ msgstr ""
 
 #: ../../AVR.rst:573
 msgid "When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../AVR.rst:580
 msgid ""
@@ -1672,7 +1701,7 @@ msgstr ""
 
 #: ../../AVR.rst:579
 msgid "Pay 4 life: Regenerate Marrow Bats."
-msgstr ""
+msgstr "Zapłać 4 życia: Zregeneruj tego stwora."
 
 #: ../../AVR.rst:584
 msgid ""
@@ -1714,7 +1743,7 @@ msgstr ""
 
 #: ../../AVR.rst:591
 msgid "When Polluted Dead dies, destroy target land."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zniszcz wskazany ląd."
 
 #: ../../AVR.rst:600
 msgid ""

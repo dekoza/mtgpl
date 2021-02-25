@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:03+0000\n"
+"PO-Revision-Date: 2021-02-25 19:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ths/pl/>\n"
 "Language: pl\n"
@@ -139,7 +139,7 @@ msgstr ""
 # 84717832617f4da8afafc8c9165e7a6f
 #: ../../THS.rst:27
 msgid "Enchant Mountain you control"
-msgstr "Zaurocz górę pod twoim władaniem"
+msgstr "Zaurocz Górę pod twoim władaniem"
 
 # 5347822644d146188c98415924f26148
 # 2fd54baad4e943c292f36f838a792e86
@@ -400,9 +400,9 @@ msgid ""
 "until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, "
 "or equipped by anything of that color.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje ochronę przed wybranym kolorem do "
-"końca tury. (Nic w owym kolorze nie może blokować, wskazać, zadać obrażeń, "
-"zauroczyć ani wyposażyć tego stwora.)"
+"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"wybranym przez ciebie kolorem. (Nic w owym kolorze nie może blokować, "
+"wskazać, zadać obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../THS.rst:93
 msgid ""
@@ -657,7 +657,7 @@ msgid ""
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod."
 msgstr ""
 "Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
-"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
+"jeśli ma on co najmniej trzy znaczniki +1/+1, poświęć ten urok."
 
 # 794c890c02c64b8cb247386afba87f07
 # 2cd14f89b5b84f14adf2b9285e9b4325
@@ -894,7 +894,7 @@ msgid ""
 "ability."
 msgstr ""
 "Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, możesz sprawić, by "
-"stał się on kopią wskazanego stwora, ale miał niniejszą zdolność."
+"stał się on kopią wskazanego stwora, ale zachowuje niniejszą zdolność."
 
 #: ../../THS.rst:232
 msgid ""
@@ -1254,13 +1254,13 @@ msgid ""
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa."
 msgstr ""
 "Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
-"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
+"jeśli ma on co najmniej trzy znaczniki +1/+1, poświęć ten urok."
 
 # 7d34209d88cc4d28991779690201a34f
 # daf9ea0cd8d2477a9f49e88c4a1bcee1
 #: ../../THS.rst:325
 msgid "When you sacrifice Ordeal of Thassa, draw two cards."
-msgstr "Kiedy poświęcisz urok, dobierz dwie karty."
+msgstr "Kiedy poświęcisz ten urok, dobierz dwie karty."
 
 #: ../../THS.rst:332
 msgid ""
@@ -1337,8 +1337,7 @@ msgstr ""
 #: ../../THS.rst:347
 msgid ""
 "Sealock Monster can't attack unless defending player controls an Island."
-msgstr ""
-"Ten stwór nie może atakować, chyba że broniący się gracz nie włada Wyspą."
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
 # a4a903369a804d6f81e49d37af43c0dd
 # 7d52796230aa49bab0e8c224ca10f85e
@@ -1859,8 +1858,8 @@ msgid ""
 "Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of "
 "turn instead."
 msgstr ""
-"Odrzuć kartę stwora: Ten stwór dostaje do końca tury +2/+2. Jeśli ta karta "
-"jest Aurą, zamiast tego zauroczony stwór dostaje do końca tury +2/+2."
+"Odrzuć kartę stwora: Ten stwór dostaje do końca tury +2/+2. Jeśli niniejsza "
+"karta jest Aurą, zamiast tego zauroczony stwór dostaje do końca tury +2/+2."
 
 #: ../../THS.rst:490
 msgid ""
@@ -1980,8 +1979,8 @@ msgid ""
 "When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature "
 "an opponent controls."
 msgstr ""
-"Kiedy ten stwór stanie się monstrualny, zniszcz wskazanego stwora nie "
-"będącego typu Gorgon pod władaniem przeciwnika."
+"Kiedy ten stwór stanie się monstrualny, zniszcz wskazanego stwora bez typu "
+"Gorgon pod władaniem przeciwnika."
 
 #: ../../THS.rst:528
 msgid ""
@@ -2104,7 +2103,7 @@ msgid ""
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos."
 msgstr ""
 "Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
-"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
+"jeśli ma on co najmniej trzy znaczniki +1/+1, poświęć ten urok."
 
 # 20a9d8517aab422187ca05841b63a71d
 # 026046ce158d4624b31c676dd98f31d1
@@ -2646,7 +2645,7 @@ msgstr ""
 
 #: ../../THS.rst:699
 msgid "Magma Jet deals 2 damage to any target. Scry 2."
-msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia. Wróż 2."
 
 #: ../../THS.rst:706
 msgid ""
@@ -2697,7 +2696,7 @@ msgid ""
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros."
 msgstr ""
 "Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
-"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
+"jeśli ma on co najmniej trzy znaczniki +1/+1, poświęć ten urok."
 
 # bb415f90eb9c4edc8dc1c67ac018e787
 # 73b2c941952242b38b18738ba74d870b
@@ -2957,7 +2956,7 @@ msgid ""
 "When Stormbreath Dragon becomes monstrous, it deals damage to each opponent "
 "equal to the number of cards in that player's hand."
 msgstr ""
-"Kiedy ten stwór stanie się monstrualny, zadaje każdemu przeciwnikowi po tyle "
+"Kiedy ten stwór stanie się monstrualny, zadaje każdemu przeciwnikowi tyle "
 "obrażeń, ile kart jest w ręce owego gracza."
 
 #: ../../THS.rst:794
@@ -3216,8 +3215,8 @@ msgid ""
 "enchantment card from among them into your hand. Put the rest into your "
 "graveyard."
 msgstr ""
-"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić spośród "
-"nich kartę stwora lub uroku w twojej ręce. Umieść pozostałe w twoim "
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora lub uroku spośród nich w twojej ręce. Umieść pozostałe w twoim "
 "cmentarzu."
 
 #: ../../THS.rst:860
@@ -3361,7 +3360,7 @@ msgid ""
 "This spell costs |mana_1| less to cast for each creature card in your "
 "graveyard."
 msgstr ""
-"Rzucenie tego czaru = kosztuje o |mana_1| mniej za każdego stwora w twoim "
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twoim "
 "cmentarzu."
 
 # 107e388660104f5a8f1082f7e3c5e6ee
@@ -3518,7 +3517,7 @@ msgid ""
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea."
 msgstr ""
 "Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
-"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć ten urok."
+"jeśli ma on co najmniej trzy znaczniki +1/+1, poświęć ten urok."
 
 # bb21336691f44b49b1cbaec8c1f506fe
 # cd994ea5e38448d9ac3c6ae2b3dd1782
@@ -3564,7 +3563,7 @@ msgid ""
 "of those creatures deals damage equal to its power to Polukranos."
 msgstr ""
 "Kiedy ten stwór stanie się monstrualny, zadaje on X obrażeń dowolnie "
-"rozdzielonych pomiędzy dowolną liczbę wskazanych stworów pod władaniem "
+"rozdzielonych pomiędzy dowolną liczbą wskazanych stworów pod władaniem "
 "twoich przeciwników. Każdy z owych stworów zadaje niniejszemu stworowi "
 "obrażenia równe swojej sile."
 
@@ -3662,8 +3661,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put "
 "two +1/+1 counters on Staunch-Hearted Warrior."
 msgstr ""
-"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść dwa znaczniki "
-"+1/+1 na tym stworze."
+"Heroizm — Ilekroć rzucisz czar wskazujący tego stwora, umieść na nim dwa "
+"znaczniki +1/+1."
 
 #: ../../THS.rst:994
 msgid ""
