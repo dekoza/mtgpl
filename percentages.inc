@@ -252,7 +252,7 @@
 
 .. |CN2_percent| image:: images/pie40.png        
 
-.. |AVR_percent| image:: images/pie60.png        
+.. |AVR_percent| image:: images/pie70.png        
 
 .. |FUT_percent| image:: images/pie25.png        
 
