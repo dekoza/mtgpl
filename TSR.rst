@@ -5,6 +5,14 @@
 =====================================
 
 
+:mtgtip:`Amrou Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da2b6d3a-15e7-4305-9384-3635159cb421.jpg?1614278356|https://scryfall.com/card/tsr/1/amrou-scout?utm_source=api>`
+   |mana_4|, |tap|: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+
+
+:mtgtip:`Amrou Seekers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/379c3c08-a91d-48cc-8837-993614b6a32e.jpg?1614278390|https://scryfall.com/card/tsr/2/amrou-seekers?utm_source=api>`
+   Amrou Seekers can't be blocked except by artifact creatures and/or white creatures.
+
+
 :mtgtip:`Angel of Salvation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a55cdee5-134f-4008-91ce-9e7d0fdb5750.jpg?1614230787|https://scryfall.com/card/tsr/3/angel-of-salvation?utm_source=api>`
    Flash; convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)
 
@@ -13,14 +21,122 @@
    When Angel of Salvation enters the battlefield, prevent the next 5 damage that would be dealt this turn to any number of targets, divided as you choose.
 
 
+:mtgtip:`Angel's Grace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e78e39ea-20be-4196-992c-7ed2cb8150c1.jpg?1614272723|https://scryfall.com/card/tsr/4/angels-grace?utm_source=api>`
+   Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+
+   You can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+
+
+:mtgtip:`Aven Mindcensor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76cf42b4-f767-48b7-b38c-b98306909f06.jpg?1614281788|https://scryfall.com/card/tsr/5/aven-mindcensor?utm_source=api>`
+   Flash
+
+   Flying
+
+   If an opponent would search a library, that player searches the top four cards of that library instead.
+
+
+:mtgtip:`Aven Riftwatcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/261691c8-371d-49b6-9c9b-50ece5984aa2.jpg?1614272110|https://scryfall.com/card/tsr/6/aven-riftwatcher?utm_source=api>`
+   Flying
+
+   Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+
+   When Aven Riftwatcher enters the battlefield or leaves the battlefield, you gain 2 life.
+
+
+:mtgtip:`Benalish Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a8d57fb-abe1-483b-8b94-85d39a1c31e1.jpg?1614273551|https://scryfall.com/card/tsr/8/benalish-commander?utm_source=api>`
+   Benalish Commander's power and toughness are each equal to the number of Soldiers you control.
+
+   Suspend X—|mana_x|\ |mana_w|\ |mana_w|. X can't be 0. (Rather than cast this card from your hand, you may pay |mana_x|\ |mana_w|\ |mana_w| and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+
+   Whenever a time counter is removed from Benalish Commander while it's exiled, create a 1/1 white Soldier creature token.
+
+
+:mtgtip:`Blade of the Sixth Pride<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8b1b493-2dec-4816-a427-4813a00ca3e9.jpg?1614278495|https://scryfall.com/card/tsr/9/blade-of-the-sixth-pride?utm_source=api>`
+   
+
+
+:mtgtip:`Bound in Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41a0a78e-08cc-4eb0-8891-6c3eec5b595b.jpg?1614273723|https://scryfall.com/card/tsr/10/bound-in-silence?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature can't attack or block.
+
+
+:mtgtip:`Celestial Crusader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56f371f5-9c2a-4a00-a4d2-e4f97ac0f3e0.jpg?1614273533|https://scryfall.com/card/tsr/13/celestial-crusader?utm_source=api>`
+   Flash (You may cast this spell any time you could cast an instant.)
+
+   Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+
+   Flying
+
+   Other white creatures get +1/+1.
+
+
+:mtgtip:`Duskrider Peregrine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/321ff631-54f0-4501-852a-569790d05cf1.jpg?1614278526|https://scryfall.com/card/tsr/16/duskrider-peregrine?utm_source=api>`
+   Flying, protection from black
+
+   Suspend 3—|mana_1|\ |mana_w| (Rather than cast this card from your hand, you may pay |mana_1|\ |mana_w| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+
+
+:mtgtip:`Fortify<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b47af529-6ba1-4900-a6f6-7647c9632e11.jpg?1614273509|https://scryfall.com/card/tsr/18/fortify?utm_source=api>`
+   Choose one —
+
+   • Creatures you control get +2/+0 until end of turn.
+
+   • Creatures you control get +0/+2 until end of turn.
+
+
+:mtgtip:`Griffin Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.jpg?1614278115|https://scryfall.com/card/tsr/19/griffin-guide?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature gets +2/+2 and has flying.
+
+   When enchanted creature dies, create a 2/2 white Griffin creature token with flying.
+
+
 :mtgtip:`Ivory Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1b1b580-4a2c-41a4-a1e0-85b659b3a30e.jpg?1614230779|https://scryfall.com/card/tsr/20/ivory-giant?utm_source=api>`
    When Ivory Giant enters the battlefield, tap all nonwhite creatures.
 
    Suspend 5—|mana_w| (Rather than cast this card from your hand, you may pay |mana_w| and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
 
 
+:mtgtip:`Knight of Sursi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/8693bec1-9bd9-4840-9d7f-954f92d968c9.jpg?1614278867|https://scryfall.com/card/tsr/22/knight-of-sursi?utm_source=api>`
+   Flying; flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+
+   Suspend 3—|mana_w| (Rather than cast this card from your hand, you may pay |mana_w| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+
+
+:mtgtip:`Knight of the Holy Nimbus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ac76c0-54ce-41b2-9000-e21eecaf7e99.jpg?1614278422|https://scryfall.com/card/tsr/23/knight-of-the-holy-nimbus?utm_source=api>`
+   Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+
+   If Knight of the Holy Nimbus would be destroyed, regenerate it.
+
+   |mana_2|: Knight of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.
+
+
+:mtgtip:`Lost Auramancers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0595c72-5b32-4d7b-8efc-7ce5c83504dd.jpg?1614273694|https://scryfall.com/card/tsr/24/lost-auramancers?utm_source=api>`
+   Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+
+   When Lost Auramancers dies, if it had no time counters on it, you may search your library for an enchantment card and put it onto the battlefield. If you do, shuffle your library.
+
+
 :mtgtip:`Mana Tithe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9ae707d5-d81d-4320-b947-6016dc188898.jpg?1614229875|https://scryfall.com/card/tsr/26/mana-tithe?utm_source=api>`
    Counter target spell unless its controller pays |mana_1|.
+
+
+:mtgtip:`Mycologist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cca60d13-137f-4438-bc51-7ea02ec3c515.jpg?1614272152|https://scryfall.com/card/tsr/29/mycologist?utm_source=api>`
+   At the beginning of your upkeep, put a spore counter on Mycologist.
+
+   Remove three spore counters from Mycologist: Create a 1/1 green Saproling creature token.
+
+   Sacrifice a Saproling: You gain 2 life.
+
+
+:mtgtip:`Pallid Mycoderm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29a2a28e-c241-4228-9ece-2e49d4d3733a.jpg?1614272132|https://scryfall.com/card/tsr/31/pallid-mycoderm?utm_source=api>`
+   At the beginning of your upkeep, put a spore counter on Pallid Mycoderm.
+
+   Remove three spore counters from Pallid Mycoderm: Create a 1/1 green Saproling creature token.
+
+   Sacrifice a Saproling: Each creature you control that's a Fungus or a Saproling gets +1/+1 until end of turn.
 
 
 :mtgtip:`Porphyry Nodes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe6f333-ccb4-44ea-be59-bba6335acf99.jpg?1614229902|https://scryfall.com/card/tsr/32/porphyry-nodes?utm_source=api>`
@@ -33,11 +149,59 @@
    Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment.
 
 
-:mtgtip:`Banishing Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f27dd19-a475-4024-aecf-ba6142806656.jpg?1614230729|https://scryfall.com/card/tsr/291/banishing-light?utm_source=api>`
+:mtgtip:`Riftmarked Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20c4cb76-c895-4862-8099-d306b1bb06e9.jpg?1614278900|https://scryfall.com/card/tsr/38/riftmarked-knight?utm_source=api>`
+   Protection from black; flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+
+   Suspend 3—|mana_1|\ |mana_w|\ |mana_w| (Rather than cast this card from your hand, you may pay |mana_1|\ |mana_w|\ |mana_w| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+
+   When the last time counter is removed from Riftmarked Knight while it's exiled, create a 2/2 black Knight creature token with flanking, protection from white, and haste.
+
+
+:mtgtip:`Saltfield Recluse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ecb21c04-d3f7-4960-9b9b-2354e98becb7.jpg?1614278451|https://scryfall.com/card/tsr/40/saltfield-recluse?utm_source=api>`
+   |tap|: Target creature gets -2/-0 until end of turn.
+
+
+:mtgtip:`Sunlance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82ab72c3-1f76-45ff-84b4-05f403866d44.jpg?1614273671|https://scryfall.com/card/tsr/47/sunlance?utm_source=api>`
+   Sunlance deals 3 damage to target nonwhite creature.
+
+
+:mtgtip:`Lotus Bloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db89ae4d-1cc2-41d8-a4de-a54b958c4429.jpg?1614277064|https://scryfall.com/card/tsr/270/lotus-bloom?utm_source=api>`
+   Suspend 3—|mana_0| (Rather than cast this card from your hand, pay |mana_0| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+
+   |tap|, Sacrifice Lotus Bloom: Add three mana of any one color.
+
+
+:mtgtip:`Ajani's Pridemate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aab58d83-5930-4d28-a26c-225c7a872216.jpg?1614278168|https://scryfall.com/card/tsr/290/ajanis-pridemate?utm_source=api>`
+   Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.
+
+
+:mtgtip:`Banishing Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f27dd19-a475-4024-aecf-ba6142806656.jpg?1614278172|https://scryfall.com/card/tsr/291/banishing-light?utm_source=api>`
    When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield.
 
 
-:mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1609506086|https://scryfall.com/card/tsr/299/path-to-exile?utm_source=api>`
+:mtgtip:`Containment Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65975f50-70b1-4d64-8d81-5ef2da479c48.jpg?1614278929|https://scryfall.com/card/tsr/292/containment-priest?utm_source=api>`
+   Flash
+
+   If a nontoken creature would enter the battlefield and it wasn't cast, exile it instead.
+
+
+:mtgtip:`Flickerwisp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6931aad2-aa2c-4069-9e5a-2566b9f3eae4.jpg?1614281829|https://scryfall.com/card/tsr/294/flickerwisp?utm_source=api>`
+   Flying
+
+   When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+
+:mtgtip:`Intangible Virtue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edfa180a-772d-4d4a-9c1b-22b3cf18e2b0.jpg?1614285006|https://scryfall.com/card/tsr/295/intangible-virtue?utm_source=api>`
+   Creature tokens you control get +1/+1 and have vigilance.
+
+
+:mtgtip:`Lingering Souls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/278e97cf-312d-4e9e-bc39-023f4e547121.jpg?1614281521|https://scryfall.com/card/tsr/296/lingering-souls?utm_source=api>`
+   Create two 1/1 white Spirit creature tokens with flying.
+
+   Flashback |mana_1|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+
+:mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1614278184|https://scryfall.com/card/tsr/299/path-to-exile?utm_source=api>`
    Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
 
 
@@ -49,28 +213,44 @@
    When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.
 
 
-:mtgtip:`Relentless Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28de0281-0370-44df-9ee0-6e1bb9925a92.jpg?1609506091|https://scryfall.com/card/tsr/329/relentless-rats?utm_source=api>`
+:mtgtip:`Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d93c1860-a27e-426c-9fbb-3bd20ead1afc.jpg?1614272753|https://scryfall.com/card/tsr/302/silence?utm_source=api>`
+   Your opponents can't cast spells this turn. (Spells cast before this resolves are unaffected.)
+
+
+:mtgtip:`Sram, Senior Edificer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adc08ef6-61fc-4d01-a78b-df0cf99585d9.jpg?1614273752|https://scryfall.com/card/tsr/303/sram-senior-edificer?utm_source=api>`
+   Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.
+
+
+:mtgtip:`Thraben Inspector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec18fa41-6948-4d94-8dcc-31fb63fb53ec.jpg?1614278753|https://scryfall.com/card/tsr/305/thraben-inspector?utm_source=api>`
+   When Thraben Inspector enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+
+
+:mtgtip:`Mystic Confluence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/337214ad-2976-4692-89c4-2c5001bf087f.jpg?1614290661|https://scryfall.com/card/tsr/312/mystic-confluence?utm_source=api>`
+   Choose three. You may choose the same mode more than once.
+
+   • Counter target spell unless its controller pays |mana_3|.
+
+   • Return target creature to its owner's hand.
+
+   • Draw a card.
+
+
+:mtgtip:`Relentless Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28de0281-0370-44df-9ee0-6e1bb9925a92.jpg?1614278190|https://scryfall.com/card/tsr/329/relentless-rats?utm_source=api>`
    Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.
 
    A deck can have any number of cards named Relentless Rats.
 
 
-:mtgtip:`Chalice of the Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25674e46-e15b-4fc0-9813-39b4e1c23de4.jpg?1609506096|https://scryfall.com/card/tsr/390/chalice-of-the-void?utm_source=api>`
+:mtgtip:`Chalice of the Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25674e46-e15b-4fc0-9813-39b4e1c23de4.jpg?1614278193|https://scryfall.com/card/tsr/390/chalice-of-the-void?utm_source=api>`
    Chalice of the Void enters the battlefield with X charge counters on it.
 
    Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.
 
 
-:mtgtip:`Cranial Plating<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd26d52d-7437-44cf-90b7-b536a5b8c94d.jpg?1614230477|https://scryfall.com/card/tsr/392/cranial-plating?utm_source=api>`
+:mtgtip:`Cranial Plating<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd26d52d-7437-44cf-90b7-b536a5b8c94d.jpg?1614278199|https://scryfall.com/card/tsr/392/cranial-plating?utm_source=api>`
    Equipped creature gets +1/+0 for each artifact you control.
 
    |mana_b|\ |mana_b|: Attach Cranial Plating to target creature you control.
 
    Equip |mana_1|
-
-
-:mtgtip:`Lotus Bloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7466be25-5d41-408d-90eb-6de47ea11484.jpg?1609505974|https://scryfall.com/card/tsr/411/lotus-bloom?utm_source=api>`
-   Suspend 3—|mana_0| (Rather than cast this card from your hand, pay |mana_0| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
-
-   |tap|, Sacrifice Lotus Bloom: Add three mana of any one color.
 
