@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-26 08:36+0000\n"
+"PO-Revision-Date: 2021-02-26 14:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gtc/pl/>\n"
 "Language: pl\n"
@@ -411,7 +411,7 @@ msgid ""
 "to its power."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, u każdego z przeciwników wygnaj co "
-"najwyżej jednego stwora władanego przez owego gracza i ów gracz zyskuje tyle "
+"najwyżej jednego stwora pod władaniem owego gracza i ów gracz zyskuje tyle "
 "żyć, ile siły miał wygnany stwór."
 
 #: ../../GTC.rst:118
@@ -580,9 +580,9 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Ewoluuje (Ilekroć jakiś stwór wejdzie na pole bitwy pod twoim władaniem, "
-"jeśli ów stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść "
-"znacznik +1/+1 na niniejszym stworze.)"
+"Ewoluuje (Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, jeśli ów "
+"stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść znacznik +1/+1 "
+"na niniejszym stworze.)"
 
 #: ../../GTC.rst:170
 msgid ""
@@ -608,8 +608,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, za każdego przeciwnika możesz rzucić "
 "co najwyżej jedną kartę sztuczki lub obrzędu z cmentarza owego gracza bez "
-"płacenia jej kosztu many. Jeśli czar rzucony w ten sposób miłby zostać "
-"umieszczony w cmentarzu w tej turze, zamiast tego wygnaj go."
+"płacenia jej kosztu many. Jeśli czar rzucony w ten sposób miałby trafić do "
+"cmentarza w tej turze, zamiast tego wygnaj go."
 
 #: ../../GTC.rst:180
 msgid ""
@@ -671,7 +671,7 @@ msgid ""
 "its controller's next untap step."
 msgstr ""
 "Przekręć wskazanego stwora pod władaniem przeciwnika. Ów stwór nie odkręci "
-"się podczas następnego kroku odkręcania swojego władcy."
+"się podczas najbliższego kroku odkręcania swojego władcy."
 
 # 626a9431614044d0be1ffaf686325200
 # ca8e72d3fa404caea986b9c8b85bf467
@@ -709,8 +709,8 @@ msgid ""
 "Whenever you cast your second spell each turn, Incursion Specialist gets +2/"
 "+0 until end of turn and can't be blocked this turn."
 msgstr ""
-"Ilekroć rzucisz swój drugi czar w turze, ten stwór dostaje do końca tury +2/"
-"+0 i nie może być blokowany w tej turze."
+"Ilekroć rzucisz swój drugi czar w danej turze, ten stwór dostaje do końca "
+"tury +2/+0 i nie może być blokowany w tej turze."
 
 #: ../../GTC.rst:204
 msgid ""
@@ -759,8 +759,8 @@ msgid ""
 "When Leyline Phantom deals combat damage, return it to its owner's hand. "
 "(Return it only if it survived combat.)"
 msgstr ""
-"Kiedy ten stwór zada obrażenia bojowem przywróć go do ręki właściciela. "
-"(Zwróć go tylko jeśli przeżył bitwę.)"
+"Kiedy ten stwór zada obrażenia bojowe, przywróć go do ręki właściciela. ("
+"Zwróć go tylko jeśli przeżył potyczkę.)"
 
 #: ../../GTC.rst:220
 msgid ""
@@ -1099,7 +1099,7 @@ msgid ""
 "When enchanted creature dies, target player loses X life and you gain X "
 "life, where X is its power."
 msgstr ""
-"Kiedy zauroczony stwór umrze, wskazany gracz traci X żyć, ty zyskaj X żyć, "
+"Kiedy zauroczony stwór umrze, wskazany gracz traci X żyć, a ty zyskaj X żyć, "
 "gdzie X to siła owego stwora."
 
 #: ../../GTC.rst:352
@@ -1119,7 +1119,7 @@ msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 msgid ""
 "Tap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn."
 msgstr ""
-"Przekręć odkręconą bramę pod twoim władaniem: Ten stwór dostaje do końca "
+"Przekręć odkręconą Bramę pod twoim władaniem: Ten stwór dostaje do końca "
 "tury +2/+2."
 
 #: ../../GTC.rst:356
@@ -1158,8 +1158,8 @@ msgid ""
 "|mana_u|: Horror of the Dim gains hexproof until end of turn. (It can't be "
 "the target of spells or abilities your opponents control.)"
 msgstr ""
-"|mana_u|: Ten stwór zyskuje antyklątwę do końca tury. (Nie może zostać "
-"wskazany przez czary i zdolności władane przez twoich przeciwników.)"
+"|mana_u|: Ten stwór zyskuje antyklątwę do końca tury. (Nie może być "
+"wskazywany przez czary i zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../GTC.rst:368
 msgid ""
@@ -1171,7 +1171,7 @@ msgstr ""
 # c7032c2cada34bd4ba545c2b57624f7e
 #: ../../GTC.rst:367
 msgid "Creature tokens get -1/-1."
-msgstr "Żeton stworów dostają -1/-1."
+msgstr "Żetony stworów dostają -1/-1."
 
 #: ../../GTC.rst:372
 msgid ""
@@ -1350,8 +1350,7 @@ msgstr ""
 #: ../../GTC.rst:431
 msgid "|tap|, Pay 2 life: Remove a counter from target nonland permanent."
 msgstr ""
-"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanego nie-lądowego "
-"permanentu."
+"|tap|, zapłać 2 życia: Usuń znacznik ze wskazanego nie-lądowego permanentu."
 
 #: ../../GTC.rst:436
 msgid ""
@@ -1952,7 +1951,7 @@ msgstr ""
 #: ../../GTC.rst:605
 msgid ""
 "|mana_r|: Disciple of the Old Ways gains first strike until end of turn."
-msgstr "|mana_r|: Ten stwór zyskuje pierwszy cios do końca tury."
+msgstr "|mana_r|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../GTC.rst:612
 msgid ""
@@ -2230,7 +2229,7 @@ msgid ""
 "onto the battlefield tapped. Then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, za każdego z przeciwników, zniszcz "
-"wskazany permanent nie będący stworem pod włądaniem owego gracza. Za każdy "
+"wskazany permanent nie będący stworem pod władaniem owego gracza. Za każdy "
 "permanent zniszczony w ten sposób, wyszukaj w twojej bibliotece kartę Lasu i "
 "umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
@@ -2362,9 +2361,9 @@ msgid ""
 "way can't cast noncreature spells this turn."
 msgstr ""
 "Ten czar zadaje X obrażeń rozdzielonych według twojego wyboru pomiędzy "
-"dowolną liczbę wskazanych celów. Przekręć wszystkie stwory, które otrzymały "
-"w ten sposób obrażenia. Gracze, którzy otrzymali w ten sposób obrażenia nie "
-"mogą w tej turze rzucać nie-stworowych czarów."
+"dowolną liczbę wskazanych celów. Przekręć każdego stwora uszkodzonego w ten "
+"sposób. Gracze, którzy otrzymali w ten sposób obrażenia nie mogą w tej turze "
+"rzucać nie-stworowych czarów."
 
 #: ../../GTC.rst:738
 msgid ""
@@ -2449,11 +2448,11 @@ msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
 #: ../../GTC.rst:757
 msgid "Permanents you control gain indestructible until end of turn."
-msgstr "Permanenty pod twoim władaniem zyskują niezniszczalność do końca tury."
+msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalność."
 
 #: ../../GTC.rst:759
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje podwójny cios do końca tury."
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../GTC.rst:766
 msgid ""
@@ -2643,8 +2642,8 @@ msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_b|: Whenever a card is put into an opponent's "
 "graveyard from anywhere this turn, that player loses 1 life."
 msgstr ""
-"|mana_1|\\ |mana_u|\\ |mana_b|: Ilekroć w tej turze karta zostanie "
-"skądkolwiek umieszczona w cmentarzu przeciwnika, ów gracz traci 1 życie."
+"|mana_1|\\ |mana_u|\\ |mana_b|: Ilekroć w tej turze karta trafi skądkolwiek "
+"do cmentarza przeciwnika, ów gracz traci 1 życie."
 
 # 2b3501486a3844e5beebb352dfa77e53
 #: ../../GTC.rst:823
@@ -2724,8 +2723,8 @@ msgid ""
 "attack, Firemane Avenger deals 3 damage to any target and you gain 3 life."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór zadaje 3 obrażenia we wskazany cel, a ty zyskaj 3 "
-"życia."
+"stworami, niniejszy stwór zadaje wskazanemu celowi 3 obrażenia, a ty zyskaj "
+"3 życia."
 
 #: ../../GTC.rst:858
 msgid ""
@@ -2911,10 +2910,9 @@ msgid ""
 "name is Lazav, Dimir Mastermind, it's legendary in addition to its other "
 "types, and it has hexproof and this ability."
 msgstr ""
-"Ilekroć karta stwora zostanie umieszczona skądkolwiek w cmentarzu "
-"przeciwnika, możesz sprawić, by niniejszy stwór stał się kopią owej karty, "
-"ale zachowuje swoją nazwę, jest dodatkowo legendarny, ma antyklątwę i "
-"niniejszą zdolność."
+"Ilekroć karta stwora trafi skądkolwiek do cmentarza przeciwnika, możesz "
+"sprawić, by niniejszy stwór stał się kopią owej karty, ale zachowuje swoją "
+"nazwę, jest dodatkowo legendarny, ma antyklątwę i niniejszą zdolność."
 
 #: ../../GTC.rst:920
 msgid ""
@@ -3285,7 +3283,7 @@ msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 
 #: ../../GTC.rst:1035
 msgid "Permanents you control gain hexproof until end of turn."
-msgstr "Permanenty pod twoim władaniem zyskują antyklątwę do końca tury."
+msgstr "Permanenty pod twoim władaniem zyskują do końca tury antyklątwę."
 
 # 68620a65d8c5400094575d043d6050f7
 #: ../../GTC.rst:1037
@@ -3304,8 +3302,8 @@ msgstr ""
 msgid ""
 "|mana_r|\\ |mana_g|: Creatures you control gain trample until end of turn."
 msgstr ""
-"|mana_r|\\ |mana_g|: Stwory pod twoim władaniem zyskują tratowanie do końca "
-"tury."
+"|mana_r|\\ |mana_g|: Stwory pod twoim władaniem zyskują do końca tury "
+"tratowanie."
 
 # 941ded0e6f564ce48a7f183c2e3128ec
 #: ../../GTC.rst:1043
@@ -3423,7 +3421,7 @@ msgstr "|mana_r|\\ |mana_w|: Ten stwór dostaje do końca tury +2/+0."
 #: ../../GTC.rst:1081
 msgid ""
 "|mana_r|\\ |mana_w|: Truefire Paladin gains first strike until end of turn."
-msgstr "|mana_r|\\ |mana_w|: Ten stwór zyskuje pierwszy cios do końca tury."
+msgstr "|mana_r|\\ |mana_w|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../GTC.rst:1086
 msgid ""
@@ -3512,8 +3510,8 @@ msgid ""
 "Each player discards their hand, then draws cards equal to the greatest "
 "number of cards a player discarded this way."
 msgstr ""
-"Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile zostało "
-"najwięcej odrzuconych w ten sposób."
+"Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile najwięcej "
+"zostało odrzuconych w ten sposób."
 
 #: ../../GTC.rst:1112
 msgid ""
@@ -3529,7 +3527,7 @@ msgid ""
 "attack, Wojek Halberdiers gains first strike until end of turn."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór zyskuje pierwszy cios do końca tury."
+"stworami, niniejszy stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../GTC.rst:1118
 msgid ""
@@ -3584,7 +3582,7 @@ msgstr ""
 msgid ""
 "Arrows of Justice deals 4 damage to target attacking or blocking creature."
 msgstr ""
-"Ten stwór zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
+"Ten stwór zadaje wskazanemu atakującemu lub blokującemu stworowi 4 obrażenia."
 
 #: ../../GTC.rst:1130
 msgid ""
@@ -3651,7 +3649,7 @@ msgstr ""
 # 6b12e084605d41d5acb3f8d6c0887d90
 #: ../../GTC.rst:1143
 msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
-msgstr "|mana_rw|: Ten stwór zyskuje pierwszy cios do końca tury."
+msgstr "|mana_rw|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../GTC.rst:1148
 msgid ""
@@ -3704,7 +3702,7 @@ msgstr ""
 # 8af01e2c5c1646a990c9f3b4780f22f3
 #: ../../GTC.rst:1161
 msgid "Enchanted creature gets +1/+1 and has flying and lifelink."
-msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie i więź życia."
+msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie oraz więź życia."
 
 #: ../../GTC.rst:1166
 msgid ""
@@ -4033,7 +4031,7 @@ msgid ""
 msgstr ""
 "|mana_g|\\ |mana_u|: Do końca tury ten artefakt staje się zielono-niebieskim "
 "artefaktowym stworem Krab 2/3 z antyklątwą. (Nie może być wskazywany przez "
-"czary i zdolności władane przez twoich przeciwników.)"
+"czary i zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../GTC.rst:1262
 msgid ""
@@ -4220,8 +4218,8 @@ msgid ""
 "|mana_2|, |tap|: Thespian's Stage becomes a copy of target land, except it "
 "has this ability."
 msgstr ""
-"|mana_2|, |tap|: Ten ląd staje się kopią wskazanego lądu i zyskuje niniejszą "
-"zdolność."
+"|mana_2|, |tap|: Ten ląd staje się kopią wskazanego lądu, ale nadal ma "
+"niniejszą zdolność."
 
 #: ../../GTC.rst:1327
 msgid ""
