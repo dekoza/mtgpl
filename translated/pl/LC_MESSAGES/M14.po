@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 20:36+0000\n"
+"PO-Revision-Date: 2021-02-26 08:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m14/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 "X-POOTLE-MTIME: 1385404032.966664\n"
 
 #: ../../M14.rst:5
@@ -850,7 +850,7 @@ msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 # af7de5d6a54c405885b7e8d436477120
 #: ../../M14.rst:237
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../M14.rst:242
 msgid ""
@@ -1001,7 +1001,7 @@ msgid ""
 "its mana cost. X is the converted mana cost of the exiled card."
 msgstr ""
 "|mana_x|, |tap|: Skopiuj ową wygnaną kartę. Możesz rzucić jej kopię bez "
-"płacenia kosztu many. X jest skróconym kosztem many owej wygnanej karty."
+"płacenia kosztu many. X jest skrótem many owej wygnanej karty."
 
 #: ../../M14.rst:282
 msgid ""

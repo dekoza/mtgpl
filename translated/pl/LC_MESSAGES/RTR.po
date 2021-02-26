@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:03+0000\n"
+"PO-Revision-Date: 2021-02-26 08:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../RTR.rst:5
@@ -144,8 +144,8 @@ msgid ""
 "Whenever Bazaar Krovod attacks, another target attacking creature gets +0/+2 "
 "until end of turn. Untap that creature."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny atakujący stwór dostaje do końca tury +0/"
-"+2. Odkręć owego stwora."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór dostaje do końca "
+"tury +0/+2. Odkręć owego stwora."
 
 #: ../../RTR.rst:44
 msgid ""
@@ -182,7 +182,7 @@ msgid ""
 "token that's a copy of a creature token you control.)"
 msgstr ""
 "Stwórz żeton białego stwora Ptak 1/1 z lataniem, następnie zaludnij. (Stwórz "
-"żeton będący kopią żetonowego stwora pod twoim władaniem.)"
+"żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:58
 msgid ""
@@ -322,9 +322,8 @@ msgid ""
 "Populate. Creatures you control gain indestructible until end of turn. (To "
 "populate, create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Zaludnij. Stwory pod twoim władaniem zyskują niezniszczalność do końca tury. "
-"(By zaludnić, stwórz żeton będący kopią żetonowego stwora pod twoim "
-"władaniem.)"
+"Zaludnij. Stwory pod twoim władaniem zyskują do końca tury niezniszczalność. "
+"(By zaludnić, stwórz żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:106
 msgid ""
@@ -352,7 +351,7 @@ msgid ""
 "you this turn.\""
 msgstr ""
 "Zauroczony ląd ma \"|tap|: Zażegnaj następne 1 obrażenie, jakie mogłoby "
-"zostać tobie zadane w tej turze.\""
+"zostać zadane tobie w tej turze.\""
 
 #: ../../RTR.rst:110
 msgid ""
@@ -398,8 +397,7 @@ msgid ""
 "cost."
 msgstr ""
 "Na początku kroku utrzymania władcy zauroczonego permanentu, ów gracz "
-"poświęca go, chyba że zapłaci |mana_x|, gdzie X jest jego skróconym kosztem "
-"many."
+"poświęca go, chyba że zapłaci |mana_x|, gdzie X jest jego skrótem many."
 
 #: ../../RTR.rst:124
 msgid ""
@@ -467,7 +465,7 @@ msgid ""
 "creature token you control.)"
 msgstr ""
 "Wygnaj wskazanego stwora, następnie zaludnij. (Stwórz żeton będący kopią "
-"żetonowego stwora pod twoim władaniem.)"
+"żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:144
 msgid ""
@@ -645,8 +643,8 @@ msgid ""
 "When Faerie Impostor enters the battlefield, sacrifice it unless you return "
 "another creature you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że zwrócisz innego "
-"stwora pod twoim władaniem do ręki właściciela."
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że przywrócisz "
+"innego stwora pod twoim władaniem do ręki właściciela."
 
 #: ../../RTR.rst:200
 msgid ""
@@ -721,7 +719,7 @@ msgid ""
 "+1: Until your next turn, whenever a creature an opponent controls attacks, "
 "it gets -1/-0 until end of turn."
 msgstr ""
-"+1: Do twojej następnej tury ilekroć stwór władany przez przeciwnika "
+"+1: Do twojej następnej tury ilekroć stwór pod władaniem przeciwnika "
 "zaatakuje, dostaje on do końca tury -1/-0."
 
 #: ../../RTR.rst:221
@@ -742,7 +740,7 @@ msgid ""
 msgstr ""
 "–8: Dla każdego gracza, wyszukaj w bibliotece owego gracza nie-lądową kartę "
 "i wygnaj ją, następnie ów gracz tasuje swoją bibliotekę. Możesz rzucić owe "
-"karty bez płacenia ich kosztu many."
+"karty bez płacenia ich kosztów many."
 
 #: ../../RTR.rst:230
 msgid ""
@@ -777,7 +775,7 @@ msgstr ""
 
 #: ../../RTR.rst:235
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../RTR.rst:240
 msgid ""
@@ -928,8 +926,8 @@ msgid ""
 "When Voidwielder enters the battlefield, you may return target creature to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zwrócić wskazanego stwora do "
-"ręki właściciela."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazanego stwora "
+"do ręki właściciela."
 
 #: ../../RTR.rst:292
 msgid ""
@@ -1039,8 +1037,8 @@ msgid ""
 "Enchanted creature gets +2/+1 and has \"|mana_r|: This creature gains "
 "trample until end of turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+1 i ma \"|mana_r|: Ten stwór zyskuje tratowanie "
-"do końca tury.\""
+"Zauroczony stwór dostaje +2/+1 i ma \"|mana_r|: Ten stwór zyskuje do końca "
+"tury tratowanie.\""
 
 #: ../../RTR.rst:338
 msgid ""
@@ -1139,7 +1137,7 @@ msgstr ""
 msgid ""
 "Ogre Jailbreaker can attack as though it didn't have defender as long as you "
 "control a Gate."
-msgstr "Ten stwór może atakować jakby nie miał obronności o ile władasz Bramą."
+msgstr "O ile władasz Bramą ten stwór może atakować jakby nie miał obronności."
 
 #: ../../RTR.rst:376
 msgid ""
@@ -1213,7 +1211,7 @@ msgid ""
 "cards in hand, they lose 3 life."
 msgstr ""
 "Na początku kroku utrzymania każdego z przeciwników, jeśli ów gracz ma w "
-"ręce nie więcej niż jedną kartę, traci 3 życia."
+"ręce jedną kartę lub mniej, traci 3 życia."
 
 #: ../../RTR.rst:394
 msgid ""
@@ -1872,7 +1870,7 @@ msgid ""
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
 "Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane tobie w tej "
-"turze. Zaludnij. (Stwórz żeton będący kopią żetonowego stwora pod twoim "
+"turze. Zaludnij. (Stwórz żeton będący kopią żetonu stwora pod twoim "
 "władaniem.)"
 
 #: ../../RTR.rst:626
@@ -1949,7 +1947,7 @@ msgid ""
 "a token that's a copy of a creature token you control.)"
 msgstr ""
 "Stwórz żeton zielonego stwora Nosorożec 4/4 z tratowaniem, następnie "
-"zaludnij. (Stwórz żeton będący kopią żetonowego stwora pod twoim władaniem.)"
+"zaludnij. (Stwórz żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:650
 msgid ""
@@ -2033,7 +2031,7 @@ msgstr ""
 
 #: ../../RTR.rst:669
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2. Odkręć owego stwora."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2. Odkręć go."
 
 #: ../../RTR.rst:674
 msgid ""
@@ -2348,7 +2346,7 @@ msgid ""
 "that's a copy of a creature token you control.)"
 msgstr ""
 "Stwórz żeton zielonego stwora Centaur 3/3, następnie zaludnij. (Stwórz żeton "
-"będący kopią żetonowego stwora pod twoim władaniem.)"
+"będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:788
 msgid ""
@@ -2364,7 +2362,7 @@ msgid ""
 "name as that permanent."
 msgstr ""
 "Kiedy ten urok wejdzie na pole bitwy, możesz wygnać wskazany nie-lądowy "
-"permanent o nazwie innej niż Detention Sphere oraz wszystkie inne permanenty "
+"permanent o innej nazwie niż Detention Sphere oraz wszystkie inne permanenty "
 "o takiej samej nazwie jak ów permanent."
 
 #: ../../RTR.rst:787
@@ -2429,7 +2427,7 @@ msgid ""
 "your graveyard."
 msgstr ""
 "Wygnaj X wierzchnich kart twojej biblioteki. Możesz rzucić spośród nich "
-"czary sztuczek i obrzędów mające wartość many X lub mniej bez płacenia ich "
+"czary sztuczek i obrzędów mające skrót many X lub mniej bez płacenia ich "
 "kosztów many. Następnie umieść w twoim cmentarzu wszystkie karty wygnane w "
 "ten sposób, które nie zostały rzucone."
 
@@ -2711,7 +2709,7 @@ msgid ""
 "toughness."
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Stwórz X "
-"żetonów zielonego stwora Saproling 1/1, gdzie X jest wytrzymałością "
+"żetonów zielonego stwora Sadzonka 1/1, gdzie X jest wytrzymałością "
 "poświęconego stwora."
 
 #: ../../RTR.rst:914
@@ -2742,7 +2740,7 @@ msgid ""
 "Smiter, put it onto the battlefield instead of putting it into your "
 "graveyard."
 msgstr ""
-"Jeśli czar lub zdolność władane przez przeciwnika spowodują, że odrzucisz tę "
+"Jeśli czar lub zdolność pod władaniem przeciwnika spowodują, że odrzucisz tę "
 "kartę, umieść ją na polu bitwy zamiast umieszczać ją w twoim cmentarzu."
 
 #: ../../RTR.rst:926
@@ -2985,8 +2983,8 @@ msgstr ""
 msgid ""
 "|mana_b|\\ |mana_r|: Target player who lost life this turn loses 1 life."
 msgstr ""
-"|mana_b|\\ |mana_r|: Wskazany gracz, który stracił punkty życia w tej turze, "
-"traci 1 życie."
+"|mana_b|\\ |mana_r|: Wskazany gracz, który stracił życia w tej turze, traci "
+"1 życie."
 
 #: ../../RTR.rst:1012
 msgid ""
@@ -3049,8 +3047,8 @@ msgid ""
 "Whenever Skymark Roc attacks, you may return target creature defending "
 "player controls with toughness 2 or less to its owner's hand."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, możesz zwrócić wskazanego stwora o "
-"wytrzymałości 2 lub mniejszej władanego przez broniącego się gracza do ręki "
+"Ilekroć ten stwór zaatakuje, możesz przywrócić wskazanego stwora o "
+"wytrzymałości 2 lub mniejszej pod władaniem broniącego się gracza do ręki "
 "właściciela."
 
 #: ../../RTR.rst:1038
@@ -3197,7 +3195,7 @@ msgid ""
 "copy of a creature token you control.)"
 msgstr ""
 "|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Zaludnij. (Stwórz żeton będący kopią "
-"żetonowego stwora pod twoim władaniem.)"
+"żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1092
 msgid ""
@@ -3217,8 +3215,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_w|: Populate. (Create a token that's a copy of a "
 "creature token you control.)"
 msgstr ""
-"|mana_2|\\ |mana_g|\\ |mana_w|: Zaludnij. (Stwórz żeton będący kopią "
-"żetonowego stwora pod twoim władaniem.)"
+"|mana_2|\\ |mana_g|\\ |mana_w|: Zaludnij. (Stwórz żeton będący kopią żetonu "
+"stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1100
 msgid ""
@@ -3268,7 +3266,7 @@ msgid ""
 "a token that's a copy of a creature token you control.)"
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, zaludnij. (Stwórz żeton "
-"będący kopią żetonowego stwora pod twoim władaniem.)"
+"będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1112
 msgid ""
@@ -3400,7 +3398,7 @@ msgid ""
 "a creature token you control.)"
 msgstr ""
 "Na początku twojego kroku utrzymania, zaludnij. (Stwórz żeton będący kopią "
-"żetonowego stwora pod twoim władaniem.)"
+"żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1152
 msgid ""
@@ -3476,7 +3474,7 @@ msgid ""
 "that's a copy of a creature token you control.)"
 msgstr ""
 "Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Stwórz żeton będący "
-"kopią żetonowego stwora pod twoim władaniem.)"
+"kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1176
 msgid ""

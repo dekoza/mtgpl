@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:47+0100\n"
-"PO-Revision-Date: 2021-02-23 01:41+0000\n"
+"PO-Revision-Date: 2021-02-26 08:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../IKO.rst:5
 msgid ":mtgexp:`IKO` Ikoria: Lair of Behemoths"
@@ -342,9 +342,7 @@ msgstr ""
 msgid ""
 "Lavabrink Venturer has protection from each converted mana cost of the "
 "chosen value."
-msgstr ""
-"Ten stwór ma ochronę przed każdym skróconym kosztem many o wybranej "
-"własności."
+msgstr "Ten stwór ma ochronę przed każdym skrótem many o wybranej własności."
 
 #: ../../IKO.rst:118
 msgid ""
@@ -756,7 +754,7 @@ msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../IKO.rst:261
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../IKO.rst:266
 msgid ""
@@ -1112,7 +1110,7 @@ msgid ""
 "token with flying, where X is that spell's converted mana cost."
 msgstr ""
 "Ilekroć rzucisz czar nie będący stworem, stwórz żeton niebieskiego stwora "
-"Rekin X/X z lataniem, gdzie X jest skróconym kosztem many owego czaru."
+"Rekin X/X z lataniem, gdzie X jest skrótem many owego czaru."
 
 #: ../../IKO.rst:395
 msgid ""
@@ -3160,8 +3158,8 @@ msgid ""
 "|mana_1|, Sacrifice Death's Oasis: You gain life equal to the highest "
 "converted mana cost among creatures you control."
 msgstr ""
-"|mana_1|, poświęć ten urok: Zyskaj tyle żyć, ile wynosi największy skrócony "
-"koszt many spośród stworów pod twoim władaniem."
+"|mana_1|, poświęć ten urok: Zyskaj tyle żyć, ile wynosi największy skrót "
+"many spośród stworów pod twoim władaniem."
 
 #: ../../IKO.rst:1042
 msgid ""
@@ -3437,7 +3435,7 @@ msgid ""
 msgstr ""
 "–2: Dobierz kartę, następnie możesz odrzucić kartę. Kiedy odrzucisz w ten "
 "sposób nielądową kartę, ten wędrowiec zadaje wskazanemu stworowi lub "
-"wędrowcowi tyle obrażeń, ile wynosi skrócony koszt many owej karty."
+"wędrowcowi tyle obrażeń, ile wynosi skrót many owej karty."
 
 #: ../../IKO.rst:1113
 msgid ""
@@ -3974,8 +3972,8 @@ msgid ""
 "onto the battlefield under your control."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz mieli cztery karty. "
-"Umieść kartę stwora z parzystym skróconym kosztem many spośród zmielonych "
-"kart na polu bitwy pod twoim władaniem."
+"Umieść kartę stwora z parzystym skrótem many spośród zmielonych kart na polu "
+"bitwy pod twoim władaniem."
 
 #: ../../IKO.rst:1272
 msgid ""
@@ -4072,7 +4070,7 @@ msgid ""
 "other permanent you control with converted mana cost 3 or greater."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę za każdy inny permanent "
-"pod twoim władaniem mający skrócony koszt many 3 lub większy."
+"pod twoim władaniem mający skrót many 3 lub większy."
 
 #: ../../IKO.rst:1300
 msgid ""
@@ -4088,9 +4086,9 @@ msgid ""
 "your hand from outside the game for |mana_3| any time you could cast a "
 "sorcery.)"
 msgstr ""
-"Kompan — Każda karta permanentu w twojej startowej talii ma skrócony koszt "
-"many 2 lub mniejszy. (Jeśli ta karta jest twoim wybranym kompanem, możesz "
-"jako obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
+"Kompan — Każda karta permanentu w twojej startowej talii ma skrót many 2 lub "
+"mniejszy. (Jeśli ta karta jest twoim wybranym kompanem, możesz jako obrzęd "
+"umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1299
 msgid ""

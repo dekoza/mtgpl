@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 19:42+0000\n"
+"PO-Revision-Date: 2021-02-26 08:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../MM3.rst:5
@@ -119,7 +119,7 @@ msgid ""
 "token that's a copy of a creature token you control.)"
 msgstr ""
 "Stwórz żeton białego stwora Ptak 1/1 z lataniem, następnie zaludnij. (Stwórz "
-"żeton będący kopią żetonowego stwora pod twoim władaniem.)"
+"żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../MM3.rst:40
 msgid ""
@@ -374,9 +374,8 @@ msgid ""
 "Populate. Creatures you control gain indestructible until end of turn. (To "
 "populate, create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Zaludnij. Stwory pod twoim władaniem zyskują niezniszczalność do końca tury. "
-"(By zaludnić, stwórz żeton będący kopią żetonowego stwora pod twoim "
-"władaniem.)"
+"Zaludnij. Stwory pod twoim władaniem zyskują do końca tury niezniszczalność. "
+"(By zaludnić, stwórz żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../MM3.rst:120
 msgid ""
@@ -1270,7 +1269,7 @@ msgstr ""
 msgid ""
 "Ogre Jailbreaker can attack as though it didn't have defender as long as you "
 "control a Gate."
-msgstr "Ten stwór może atakować jakby nie miał obronności o ile władasz Bramą."
+msgstr "O ile władasz Bramą ten stwór może atakować jakby nie miał obronności."
 
 #: ../../MM3.rst:422
 msgid ""
@@ -1966,7 +1965,7 @@ msgid ""
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
 "Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane tobie w tej "
-"turze. Zaludnij. (Stwórz żeton będący kopią żetonowego stwora pod twoim "
+"turze. Zaludnij. (Stwórz żeton będący kopią żetonu stwora pod twoim "
 "władaniem.)"
 
 #: ../../MM3.rst:652
@@ -2705,7 +2704,7 @@ msgid ""
 "that spell's converted mana cost."
 msgstr ""
 "Skontruj wskazany czar. Stwórz żeton zielonego stwora Szlam X/X, gdzie X "
-"jest skróconym kosztem many owego czaru."
+"jest skrótem many owego czaru."
 
 #: ../../MM3.rst:912
 msgid ""
@@ -3117,7 +3116,7 @@ msgid ""
 "a token that's a copy of a creature token you control.)"
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, zaludnij. (Stwórz żeton "
-"będący kopią żetonowego stwora pod twoim władaniem.)"
+"będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../MM3.rst:1054
 msgid ""
@@ -3249,7 +3248,7 @@ msgid ""
 "that's a copy of a creature token you control.)"
 msgstr ""
 "Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Stwórz żeton będący "
-"kopią żetonowego stwora pod twoim władaniem.)"
+"kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../MM3.rst:1102
 msgid ""

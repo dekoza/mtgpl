@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 20:36+0000\n"
+"PO-Revision-Date: 2021-02-26 08:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/xln/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../XLN.rst:5
 msgid ":mtgexp:`XLN` Ixalan"
@@ -1043,7 +1043,7 @@ msgid ""
 "its converted mana cost was 2 or less, scry 2."
 msgstr ""
 "Przywróć wskazany nie-lądowy permanent poza twoim władaniem do ręki "
-"właściciela. Jeśli jego skrócony koszt many to 2 lub mniej, wróż 2."
+"właściciela. Jeśli jego skrót many to 2 lub mniej, wróż 2."
 
 #: ../../XLN.rst:346
 msgid ""
@@ -1295,9 +1295,9 @@ msgid ""
 "converted mana cost. (They're artifacts with \"|tap|, Sacrifice this "
 "artifact: Add one mana of any color.\")"
 msgstr ""
-"Skontruj wskazany czar. Stwórz X żetonów Skarbu, gdzie X jest skróconym "
-"kosztem many owego czaru. (To artefakty mające \"|tap|, poświęć ten "
-"artefakt: Weź jedną manę dowolnego koloru.\")"
+"Skontruj wskazany czar. Stwórz X żetonów Skarbu, gdzie X jest skrótem many "
+"owego czaru. (To artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną "
+"manę dowolnego koloru.\")"
 
 #: ../../XLN.rst:422
 msgid ""
@@ -1901,7 +1901,7 @@ msgid ""
 msgstr ""
 "Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś w tej turze, "
 "ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
-"Tracisz tyle żyć, ile wynosi wartość many owej karty."
+"Tracisz tyle żyć, ile wynosi skrót many owej karty."
 
 #: ../../XLN.rst:612
 msgid ""
@@ -2583,9 +2583,9 @@ msgid ""
 "a random order."
 msgstr ""
 "Ilekroć rzucisz czar z twojej ręki, ujawnij X wierzchnich kart twojej "
-"biblioteki, gdzie X jest skróconym kosztem many owego czaru. Możesz rzucić "
-"ujawniony w ten sposób czar o wartości many X lub mniejszej bez płacenia "
-"jego kosztu many. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"biblioteki, gdzie X jest skrótem many owego czaru. Możesz rzucić ujawniony w "
+"ten sposób czar o wartości many X lub mniejszej bez płacenia jego kosztu "
+"many. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../XLN.rst:830
 msgid ""
@@ -4429,7 +4429,7 @@ msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../XLN.rst:1419
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../XLN.rst:1426
 msgid ""

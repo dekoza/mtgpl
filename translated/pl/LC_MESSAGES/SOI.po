@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 20:36+0000\n"
+"PO-Revision-Date: 2021-02-26 08:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/soi/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SOI.rst:5
@@ -1565,7 +1565,7 @@ msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../SOI.rst:503
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../SOI.rst:510
 msgid ""
@@ -3556,7 +3556,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_1|\\ |mana_r| i odrzucić "
 "kartę. Jeśli tak zrobisz, ten stwór zadaje wskazanemu stworowi lub "
-"wędrowcowi tyle obrażeń, ile wynosi skrócony koszt many odrzuconej karty."
+"wędrowcowi tyle obrażeń, ile wynosi skrót many odrzuconej karty."
 
 #: ../../SOI.rst:1140
 msgid ""
@@ -4749,7 +4749,7 @@ msgid ""
 "Each opponent loses life equal to its converted mana cost."
 msgstr ""
 "+1: Ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
-"Każdy przeciwnik traci po tyle żyć, ile wynosi jej skrócony koszt many."
+"Każdy przeciwnik traci po tyle żyć, ile wynosi jej skrót many."
 
 #: ../../SOI.rst:1497
 msgid ""

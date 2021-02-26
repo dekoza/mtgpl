@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 20:36+0000\n"
+"PO-Revision-Date: 2021-02-26 08:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../2XM.rst:5
 msgid ":mtgexp:`2XM` Double Masters"
@@ -1140,15 +1140,14 @@ msgstr ""
 #: ../../2XM.rst:485
 msgid "Destroy target creature if it has converted mana cost 2 or less."
 msgstr ""
-"Zniszcz wskazanego stwora, jeśli jego skrócony koszt many jest mniejszy lub "
-"równy 2."
+"Zniszcz wskazanego stwora, jeśli jego skrót many jest mniejszy lub równy 2."
 
 #: ../../2XM.rst:487
 msgid "Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn."
 msgstr ""
 "Rewolta — Jeśli permanent pod twoim władaniem opuścił pole bitwy w tej "
-"turze, zamiast tego zniszcz owego stwora jeśli jego skrócony koszt many jest "
-"mniejszy lub równy 4."
+"turze, zamiast tego zniszcz owego stwora jeśli jego skrót many jest mniejszy "
+"lub równy 4."
 
 #: ../../2XM.rst:494
 msgid ":mtgtip:`Geth, Lord of the Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/920d56a4-fc94-43d8-9d65-361b66172a5f.jpg?1598304744|https://scryfall.com/card/2xm/94/geth-lord-of-the-vault?utm_source=api>`"

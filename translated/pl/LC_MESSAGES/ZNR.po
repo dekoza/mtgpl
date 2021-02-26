@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-11 21:37+0100\n"
-"PO-Revision-Date: 2021-02-25 20:36+0000\n"
+"PO-Revision-Date: 2021-02-26 08:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../ZNR.rst:5
 msgid ":mtgexp:`ZNR` Zendikar Rising"
@@ -577,8 +577,8 @@ msgstr ""
 msgid "When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the converted mana cost of the exiled card."
 msgstr ""
 "Kiedy ten stwór opuści pole bitwy, właściciel wygnanej karty tworzy żeton "
-"niebieskiego stwora Iluzja X/X, gdzie X jest skróconym kosztem many owej "
-"wygnanej karty."
+"niebieskiego stwora Iluzja X/X, gdzie X jest skrótem many owej wygnanej "
+"karty."
 
 #: ../../ZNR.rst:242
 msgid ":mtgtip:`Skyclave Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/014027c4-7f9d-4096-b308-ea4be574c0d4.jpg?1604243887|https://scryfall.com/card/znr/40/skyclave-cleric-skyclave-basilica?utm_source=api>`"
@@ -715,7 +715,7 @@ msgstr ""
 
 #: ../../ZNR.rst:293
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../ZNR.rst:298
 msgid ":mtgtip:`Cascade Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13105c88-2926-40ad-bc7a-09d515aa36c6.jpg?1604193685|https://scryfall.com/card/znr/48/cascade-seer?utm_source=api>`"
@@ -944,7 +944,7 @@ msgstr "+1: Wróż 2."
 msgid "0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's converted mana cost from Jace, Mirror Mage."
 msgstr ""
 "0: Dobierz kartę i ujawnij ją. Usuń z tego wędrowca tyle znaczników "
-"lojalności, ile wynosi jej skrócony koszt many."
+"lojalności, ile wynosi jej skrót many."
 
 #: ../../ZNR.rst:398
 msgid ":mtgtip:`Jwari Disruption<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757|https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins?utm_source=api>`"
@@ -1494,7 +1494,7 @@ msgstr ""
 msgid "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's converted mana cost."
 msgstr ""
 "Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
-"żyć, ile wynosił skrócony koszt many owego permanentu."
+"żyć, ile wynosił skrót many owego permanentu."
 
 #: ../../ZNR.rst:646
 msgid ":mtgtip:`Ghastly Gloomhunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f272ac54-fea8-4044-83e2-f8fdc10f467d.jpg?1604195684|https://scryfall.com/card/znr/103/ghastly-gloomhunter?utm_source=api>`"
@@ -3051,9 +3051,9 @@ msgstr ""
 msgid "Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has converted mana cost 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić spośród "
-"nich kartę stwora na polu bitwy. Jeśli owa karta ma skrócony koszt many 3 "
-"lub mniejszy, wchodzi z dodatkowym znacznikiem +1/+1. Umieść pozostałe "
-"losowo na spodzie twojej biblioteki."
+"nich kartę stwora na polu bitwy. Jeśli owa karta ma skrót many 3 lub "
+"mniejszy, wchodzi z dodatkowym znacznikiem +1/+1. Umieść pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../ZNR.rst:1358
 msgid ":mtgtip:`Turntimber, Serpentine Wood<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg?1604199791|https://scryfall.com/card/znr/215/turntimber-symbiosis-turntimber-serpentine-wood?utm_source=api>`"

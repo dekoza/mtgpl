@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:03+0000\n"
+"PO-Revision-Date: 2021-02-26 08:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rix/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../RIX.rst:5
 msgid ":mtgexp:`RIX` Rivals of Ixalan"
@@ -977,7 +977,7 @@ msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../RIX.rst:335
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../RIX.rst:340
 msgid ""
@@ -1399,8 +1399,8 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli masz błogosławieństwo miasta, "
 "ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. Każdy "
-"przeciwnik traci po X żyć, a ty zyskaj X żyć, gdzie X jest skróconym kosztem "
-"many owej karty."
+"przeciwnik traci po X żyć, a ty zyskaj X żyć, gdzie X jest skrótem many owej "
+"karty."
 
 #: ../../RIX.rst:484
 msgid ""
@@ -2402,7 +2402,7 @@ msgid ""
 msgstr ""
 "–3: Zyskaj władanie nad wskazanym stworem do końca tury. Odkręć go. Zyskuje "
 "on pośpiech do końca tury. Poświęć go na początku najbliższego kroku "
-"końcowego jeśli jego skrócony koszt many wynosi 3 lub mniej."
+"końcowego jeśli jego skrót many wynosi 3 lub mniej."
 
 #: ../../RIX.rst:803
 msgid ""

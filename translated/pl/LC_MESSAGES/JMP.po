@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-15 18:06+0100\n"
-"PO-Revision-Date: 2021-02-25 20:36+0000\n"
+"PO-Revision-Date: 2021-02-26 08:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../JMP.rst:5
 msgid ":mtgexp:`JMP` Jumpstart"
@@ -1850,7 +1850,7 @@ msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../JMP.rst:849
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../JMP.rst:854
 msgid ":mtgtip:`Whelming Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc84fb92-bb66-4f1a-b360-f87fdbcd45b7.jpg?1600699129|https://scryfall.com/card/jmp/193/whelming-wave?utm_source=api>`"
@@ -2632,7 +2632,7 @@ msgstr ""
 msgid "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost."
 msgstr ""
 "Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
-"władaniem. Strać tyle żyć, ile wynosi jej skrócony koszt many."
+"władaniem. Strać tyle żyć, ile wynosi jej skrót many."
 
 #: ../../JMP.rst:1242
 msgid ":mtgtip:`Rise of the Dark Realms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c0e1064-47c3-4f03-a1f2-3bcb356db82b.jpg?1600701321|https://scryfall.com/card/jmp/271/rise-of-the-dark-realms?utm_source=api>`"
@@ -3549,9 +3549,9 @@ msgstr ""
 msgid "Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that permanent or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Wskaż dowolny cel. Wróż 3, następnie ujawnij wierzchnią kartę twojej "
-"biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile wynosi skrócony "
-"koszt many ujawnionej karty. (By wróżyć 3, spójrz na trzy wierzchnie karty "
-"twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile wynosi skrót many "
+"ujawnionej karty. (By wróżyć 3, spójrz na trzy wierzchnie karty twojej "
+"biblioteki, następnie umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../JMP.rst:1672

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 20:36+0000\n"
+"PO-Revision-Date: 2021-02-26 08:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m19/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../M19.rst:5
 msgid ":mtgexp:`M19` Core Set 2019"
@@ -1017,8 +1017,8 @@ msgid ""
 "Draw cards equal to the highest converted mana cost among artifacts you "
 "control."
 msgstr ""
-"Dobierz tyle kart, ile wynosi najwyższy skrócony koszt many spośród "
-"artefaktów pod twoim władaniem."
+"Dobierz tyle kart, ile wynosi najwyższy skrót many spośród artefaktów pod "
+"twoim władaniem."
 
 #: ../../M19.rst:346
 msgid ""
@@ -4453,7 +4453,7 @@ msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../M19.rst:1545
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../M19.rst:1550
 msgid ""

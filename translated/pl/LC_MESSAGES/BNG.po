@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:03+0000\n"
+"PO-Revision-Date: 2021-02-26 08:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 "X-POOTLE-MTIME: 1391098335.778030\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
@@ -806,7 +806,7 @@ msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 # 209c6fc406084fb1a47f761ed0a99140
 #: ../../BNG.rst:203
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../BNG.rst:210
 msgid ""
@@ -1698,7 +1698,7 @@ msgid ""
 msgstr ""
 "Natchniony — Ilekroć ten stwór zostanie odkręcony, ujawnij wierzchnią kartę "
 "twojej biblioteki i umieść ją w twojej ręce. Strać tyle żyć, ile wynosi "
-"skrócony koszt many owej karty."
+"skrót many owej karty."
 
 #: ../../BNG.rst:436
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-23 19:44+0000\n"
+"PO-Revision-Date: 2021-02-26 08:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk1/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../GK1.rst:5
@@ -1219,7 +1219,7 @@ msgid ""
 "toughness."
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Stwórz X "
-"żetonów zielonego stwora Saproling 1/1, gdzie X jest wytrzymałością "
+"żetonów zielonego stwora Sadzonka 1/1, gdzie X jest wytrzymałością "
 "poświęconego stwora."
 
 #: ../../GK1.rst:394
@@ -1808,7 +1808,7 @@ msgid ""
 "copy of a creature token you control.)"
 msgstr ""
 "|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Zaludnij. (Stwórz żeton będący kopią "
-"żetonowego stwora pod twoim władaniem.)"
+"żetonu stwora pod twoim władaniem.)"
 
 #: ../../GK1.rst:584
 msgid ""
@@ -1953,7 +1953,7 @@ msgid ""
 "a creature token you control.)"
 msgstr ""
 "Na początku twojego kroku utrzymania, zaludnij. (Stwórz żeton będący kopią "
-"żetonowego stwora pod twoim władaniem.)"
+"żetonu stwora pod twoim władaniem.)"
 
 #: ../../GK1.rst:638
 msgid ""
@@ -2079,7 +2079,7 @@ msgid ""
 "that's a copy of a creature token you control.)"
 msgstr ""
 "Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Stwórz żeton będący "
-"kopią żetonowego stwora pod twoim władaniem.)"
+"kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../GK1.rst:684
 msgid ""
