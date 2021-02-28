@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-26 14:06+0000\n"
+"PO-Revision-Date: 2021-02-28 23:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh1/pl/>\n"
 "Language: pl\n"
@@ -349,7 +349,7 @@ msgstr ""
 "Zawieszenie 5—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
 "zapłacić |mana_w| i wygnaj ją z pięcioma znacznikami czasu. Na początku "
 "twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
-"jest usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../MH1.rst:103
 msgid ""
@@ -1052,7 +1052,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../MH1.rst:325
 msgid "You may play lands and cast spells from the top of your library."
-msgstr "Możesz zagrywać lądy i rzucać czaru z wierzchu twojej biblioteki."
+msgstr "Możesz zagrywać lądy i rzucać czary z wierzchu twojej biblioteki."
 
 #: ../../MH1.rst:330
 msgid ""
@@ -2976,7 +2976,7 @@ msgstr ""
 "Zawieszenie 4—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, możesz "
 "zapłacić |mana_g| i wygnać ją z czterema znacznikami czasu. Na początku "
 "twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
-"jest usunięty, rzuć ją bez płacenia kosztu many.)"
+"zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH1.rst:939
 msgid "Create two 4/4 green Rhino creature tokens with trample."
@@ -4187,10 +4187,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
-"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
-"mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
-"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu jest usunięty, "
-"rzuć ją bez płacenia kosztu many.)"
+"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH1.rst:1336
 msgid ""

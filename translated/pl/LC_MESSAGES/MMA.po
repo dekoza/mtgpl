@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 15:17+0000\n"
+"PO-Revision-Date: 2021-02-28 23:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../MMA.rst:5
@@ -58,6 +58,9 @@ msgid ""
 "converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
 "your library."
 msgstr ""
+"|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
+"Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../MMA.rst:20
 msgid ""
@@ -71,6 +74,8 @@ msgid ""
 "Amrou Seekers can't be blocked except by artifact creatures and/or white "
 "creatures."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez stwory artefaktowe i/lub "
+"białe."
 
 #: ../../MMA.rst:26
 msgid ""
@@ -94,6 +99,9 @@ msgid ""
 "turn. Until end of turn, damage that would reduce your life total to less "
 "than 1 reduces it to 1 instead."
 msgstr ""
+"Nie możesz przegrać gry w tej turze, a twoi przeciwnicy nie mogą wygrać gry "
+"w tej turze. Do końca tury obrażenia, które mogłyby zmniejszyć sumę twoich "
+"żyć do mniej niż 1, zamiast tego redukują ją do 1."
 
 #: ../../MMA.rst:30
 msgid ""
@@ -344,6 +352,7 @@ msgstr ""
 #: ../../MMA.rst:107
 msgid "When Ivory Giant enters the battlefield, tap all nonwhite creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie nie-białe stwory."
 
 #: ../../MMA.rst:109
 msgid ""
@@ -355,7 +364,7 @@ msgstr ""
 "Zawieszenie 5—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
 "zapłacić |mana_w| i wygnaj ją z pięcioma znacznikami czasu. Na początku "
 "twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
-"jest usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../MMA.rst:114
 msgid ""
@@ -441,6 +450,8 @@ msgid ""
 "Sacrifice a Saproling: Each creature you control that's a Fungus or a "
 "Saproling gets +1/+1 until end of turn."
 msgstr ""
+"Poświęć Sadzonkę: Każdy stwór pod twoim władaniem będący Grzybem lub "
+"Sadzonką dostaje do końca tury +1/+1."
 
 #: ../../MMA.rst:140
 msgid ""
@@ -3352,10 +3363,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
-"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
-"mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
-"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu jest usunięty, "
-"rzuć ją bez płacenia kosztu many.)"
+"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MMA.rst:1195
 msgid "|tap|, Sacrifice Lotus Bloom: Add three mana of any one color."

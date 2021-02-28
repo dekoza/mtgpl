@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-28 22:09+0000\n"
+"PO-Revision-Date: 2021-02-28 23:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/plc/pl/>\n"
 "Language: pl\n"
@@ -54,6 +54,7 @@ msgid ""
 "When Aven Riftwatcher enters the battlefield or leaves the battlefield, you "
 "gain 2 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub opuści pole bitwy, zyskaj 2 życia."
 
 #: ../../PLC.rst:22
 msgid ""
@@ -67,6 +68,8 @@ msgid ""
 "Benalish Commander's power and toughness are each equal to the number of "
 "Soldiers you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie Piechurów pod twoim "
+"władaniem."
 
 #: ../../PLC.rst:19
 msgid ""
@@ -79,14 +82,16 @@ msgstr ""
 "Zawieszenie X—|mana_x|\\ |mana_w|\\ |mana_w|. X nie może być 0. (Zamiast "
 "rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_w|\\ |mana_w|"
 " i wygnaj ją z X znacznikami czasu. Na początku twojego kroku utrzymania, "
-"usuń znacznik czasu. Kiedy ostatni znacznik czasu jest usunięty, rzuć ją bez "
-"płacenia kosztu many. Ma pośpiech.)"
+"usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją "
+"bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../PLC.rst:21
 msgid ""
 "Whenever a time counter is removed from Benalish Commander while it's "
 "exiled, create a 1/1 white Soldier creature token."
 msgstr ""
+"Ilekroć znacznik czasu zostanie usunięty z tej karty podczas jej wygnania, "
+"stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../PLC.rst:30
 msgid ""
@@ -97,15 +102,15 @@ msgstr ""
 
 #: ../../PLC.rst:25
 msgid "Other white creatures get +1/+1."
-msgstr ""
+msgstr "Inne białe stwory dostają +1/+1."
 
 #: ../../PLC.rst:27
 msgid "Nonwhite creatures get -1/-1."
-msgstr ""
+msgstr "Nie-białe stwory dostają -1/-1."
 
 #: ../../PLC.rst:29
 msgid "Pay 2 life: Return Crovax, Ascendant Hero to its owner's hand."
-msgstr ""
+msgstr "Zapłać 2 życia: Przywróć tego stwora do ręki właściciela."
 
 #: ../../PLC.rst:40
 msgid ""
@@ -243,6 +248,8 @@ msgid ""
 "Sacrifice a Saproling: Each creature you control that's a Fungus or a "
 "Saproling gets +1/+1 until end of turn."
 msgstr ""
+"Poświęć Sadzonkę: Każdy stwór pod twoim władaniem będący Grzybem lub "
+"Sadzonką dostaje do końca tury +1/+1."
 
 #: ../../PLC.rst:82
 msgid ""
@@ -306,7 +313,7 @@ msgstr ""
 "Zawieszenie 3—|mana_1|\\ |mana_w|\\ |mana_w| (Zamiast rzucać tę kartę z "
 "twojej ręki, możesz zapłacić |mana_1|\\ |mana_w|\\ |mana_w| i wygnaj ją z "
 "trzema znacznikami czasu. Na początku twojego kroku utrzymania, usuń "
-"znacznik czasu. Kiedy ostatni znacznik czasu jest usunięty, rzuć ją bez "
+"znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez "
 "płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../PLC.rst:97
@@ -372,7 +379,7 @@ msgstr ""
 "Zawieszenie 3—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
 "zapłacić |mana_w| i wygnaj ją z trzema znacznikami czasu. Na początku "
 "twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
-"jest usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../PLC.rst:128
 msgid ""
@@ -514,7 +521,7 @@ msgstr ""
 
 #: ../../PLC.rst:179
 msgid "Sacrifice a Saproling: You gain 2 life."
-msgstr ""
+msgstr "Poświęć Sadzonką: Zyskaj 2 życia."
 
 #: ../../PLC.rst:186
 msgid ""
@@ -589,6 +596,11 @@ msgid ""
 "a time counter. When the last is removed, cast it without paying its mana "
 "cost. It has haste.)"
 msgstr ""
+"Zawieszenie X—|mana_x|\\ |mana_3|\\ |mana_u|. X nie może być 0. (Zamiast "
+"rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_3|\\ |mana_u|"
+" i wygnaj ją z X znacznikami czasu. Na początku twojego kroku utrzymania, "
+"usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją "
+"bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../PLC.rst:205
 msgid ""
@@ -1092,6 +1104,9 @@ msgid ""
 "converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
 "your library."
 msgstr ""
+"|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
+"Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../PLC.rst:382
 msgid ""

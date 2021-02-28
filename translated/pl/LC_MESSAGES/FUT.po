@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-28 22:10+0000\n"
+"PO-Revision-Date: 2021-02-28 23:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -38,6 +38,9 @@ msgid ""
 "tap while casting this spell pays for |mana_1| or one mana of that "
 "creature's color.)"
 msgstr ""
+"Błysk, współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór "
+"przekręcony podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"kolorze owego stwora.)"
 
 #: ../../FUT.rst:11 ../../FUT.rst:111 ../../FUT.rst:143 ../../FUT.rst:183
 #: ../../FUT.rst:189 ../../FUT.rst:221 ../../FUT.rst:311 ../../FUT.rst:357
@@ -51,6 +54,9 @@ msgid ""
 "that would be dealt this turn to any number of targets, divided as you "
 "choose."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zażegnaj najbliższe 5 obrażeń, jakie "
+"miałyby zostać zadane w tej turze dowolnej liczbie wskazanych celów, "
+"rozdzielone według twojego uznania."
 
 #: ../../FUT.rst:20
 msgid ""
@@ -221,7 +227,7 @@ msgstr ""
 "Zawieszenie 3—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
 "zapłacić |mana_w| i wygnaj ją z trzema znacznikami czasu. Na początku "
 "twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
-"jest usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../FUT.rst:74
 msgid ""
@@ -604,6 +610,12 @@ msgid ""
 "removed, the player plays it without paying its mana cost. If it's a "
 "creature, it has haste.)"
 msgstr ""
+"Skontruj wskazany czar. Jeśli czar zostanie skontrowany w ten sposób, wygnaj "
+"go z trzema znacznikami czasu zamiast umieszczać go w cmentarzu właściciela. "
+"Jeśli nie ma zawieszenia, zyskuje zawieszenie. (Na początku kroku utrzymania "
+"właściciela owej karty, ów gracz usuwa z owej karty znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, ów gracz rzuca ją bez płacenia "
+"kosztu many. Jeśli jest stworem, ma pośpiech.)"
 
 #: ../../FUT.rst:204
 msgid ""
@@ -633,6 +645,11 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 2—|mana_1|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_u| i wygnaj ją z dwoma znacznikami czasu. "
+"Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma "
+"pośpiech.)"
 
 #: ../../FUT.rst:218
 msgid ""
@@ -682,7 +699,7 @@ msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 #: ../../FUT.rst:231
 msgid "You may play lands and cast spells from the top of your library."
-msgstr "Możesz zagrywać lądy i rzucać czaru z wierzchu twojej biblioteki."
+msgstr "Możesz zagrywać lądy i rzucać czary z wierzchu twojej biblioteki."
 
 #: ../../FUT.rst:238
 msgid ""

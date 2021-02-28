@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-26 08:35+0000\n"
+"PO-Revision-Date: 2021-02-28 23:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -1785,6 +1785,8 @@ msgid ""
 "|mana_3|\\ |mana_b|: Searchlight Geist gains deathtouch until end of turn. "
 "(Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"|mana_3|\\ |mana_b|: Ten stwór zyskuje do końca tury dotyk śmierci. (Stwór "
+"otrzymujący od niniejszego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../AVR.rst:614
 msgid ""
@@ -1795,7 +1797,7 @@ msgstr ""
 
 #: ../../AVR.rst:613
 msgid "When Soulcage Fiend dies, each player loses 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy gracz traci po 3 życia."
 
 #: ../../AVR.rst:620
 msgid ""
@@ -1809,6 +1811,8 @@ msgid ""
 "When Treacherous Pit-Dweller enters the battlefield from a graveyard, target "
 "opponent gains control of it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy z cmentarza, wskazany gracz zyskuje "
+"nad nim władanie."
 
 #: ../../AVR.rst:624
 msgid ""
@@ -1835,6 +1839,8 @@ msgid ""
 "When Undead Executioner dies, you may have target creature get -2/-2 until "
 "end of turn."
 msgstr ""
+"Kiedy ten stwór umrze, możesz sprawić, że wskazany stwór dostanie do końca "
+"tury -2/-2."
 
 #: ../../AVR.rst:634
 msgid ""
@@ -1863,6 +1869,9 @@ msgid ""
 "Aggravate deals 1 damage to each creature target player controls. Each "
 "creature dealt damage this way attacks this turn if able."
 msgstr ""
+"Ten czar zadaje każdemu stworowi pod władaniem wskazanego gracza 1 "
+"obrażenie. Każdy stwór uszkodzony w ten sposób atakuje w tej turze, jeśli "
+"może."
 
 #: ../../AVR.rst:644
 msgid ""
@@ -1878,7 +1887,7 @@ msgstr "Latanie, pośpiech"
 #: ../../AVR.rst:643
 msgid ""
 "At the beginning of the end step, return Archwing Dragon to its owner's hand."
-msgstr ""
+msgstr "Na początku kroku końcowego, przywróć tego stwora do ręki właściciela."
 
 #: ../../AVR.rst:648
 msgid ""
@@ -1900,7 +1909,7 @@ msgstr ""
 
 #: ../../AVR.rst:651
 msgid "Add |mana_r| for each creature you control."
-msgstr ""
+msgstr "Weź |mana_r| za każdego stwora twoim władaniem."
 
 #: ../../AVR.rst:658
 msgid ""
@@ -1914,6 +1923,8 @@ msgid ""
 "Bonfire of the Damned deals X damage to target player or planeswalker and "
 "each creature that player or that planeswalker's controller controls."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi i każdemu stworowi pod "
+"władaniem owego gracza lub władcy owego wędrowca po X obrażeń."
 
 #: ../../AVR.rst:657
 msgid ""
@@ -1980,6 +1991,8 @@ msgid ""
 "Enchanted creature has \"|mana_r|, |tap|: Copy target instant or sorcery "
 "spell you control. You may choose new targets for the copy.\""
 msgstr ""
+"Zauroczony stwór ma \"|mana_r|, |tap|: Skopiuj wskazany czar sztuczki lub "
+"obrzędu pod twoim władaniem. Możesz wskazać nowe cele dla kopii.\""
 
 #: ../../AVR.rst:684
 msgid ""
@@ -1993,12 +2006,16 @@ msgid ""
 "Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/"
 "+1 counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść znacznik +1/+1 na "
+"tym stworze."
 
 #: ../../AVR.rst:683
 msgid ""
 "|mana_2|\\ |mana_r|: Falkenrath Exterminator deals damage to target creature "
 "equal to the number of +1/+1 counters on Falkenrath Exterminator."
 msgstr ""
+"|mana_2|\\ |mana_r|: Ten stwór zadaje wskazanemu stworowi tyle obrażeń, ile "
+"ma znaczników +1/+1."
 
 #: ../../AVR.rst:690
 msgid ""
@@ -2016,6 +2033,8 @@ msgid ""
 "When Fervent Cathar enters the battlefield, target creature can't block this "
 "turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może blokować w "
+"tej turze."
 
 #: ../../AVR.rst:694
 msgid ""
@@ -2029,6 +2048,8 @@ msgid ""
 "When Gang of Devils dies, it deals 3 damage divided as you choose among one, "
 "two, or three targets."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje 3 obrażenia rozdzielone dowolnie pomiędzy "
+"jeden, dwa lub trzy wskazane cele."
 
 #: ../../AVR.rst:700
 msgid ""
@@ -2052,7 +2073,7 @@ msgstr ""
 msgid ""
 "As long as Hanweir Lancer is paired with another creature, both creatures "
 "have first strike."
-msgstr ""
+msgstr "O ile ten stwór jest sparowany z innym stworem, oba mają pierwszy cios."
 
 #: ../../AVR.rst:712
 msgid ""
@@ -2066,11 +2087,13 @@ msgid ""
 "Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść znacznik +1/+1 na "
+"tym stworze."
 
 #: ../../AVR.rst:711
 msgid ""
 "Whenever another creature dies, put a +1/+1 counter on Havengul Vampire."
-msgstr ""
+msgstr "Ilekroć umrze inny stwór, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../AVR.rst:718
 msgid ""
@@ -2092,6 +2115,8 @@ msgid ""
 "Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść znacznik +1/+1 na "
+"tym stworze."
 
 #: ../../AVR.rst:724
 msgid ""
@@ -2116,6 +2141,8 @@ msgid ""
 "When Kessig Malcontents enters the battlefield, it deals damage to target "
 "player or planeswalker equal to the number of Humans you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu graczowi lub "
+"wędrowcowi tyle obrażeń, ile masz pod władaniem stworów o typie Człowiek."
 
 #: ../../AVR.rst:732
 msgid ""
@@ -2129,6 +2156,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, Kruin "
 "Striker gets +1/+0 and gains trample until end of turn."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
+"stwór dostaje do końca tury +1/+0 i tratowanie."
 
 #: ../../AVR.rst:738
 msgid ""
@@ -2141,7 +2170,7 @@ msgstr ""
 msgid ""
 "As long as Lightning Mauler is paired with another creature, both creatures "
 "have haste."
-msgstr ""
+msgstr "O ile ten stwór jest sparowany z innym stworem, oba mają pośpiech."
 
 #: ../../AVR.rst:744
 msgid ""
@@ -2155,6 +2184,8 @@ msgid ""
 "Enchanted creature has haste and \"|tap|: This creature deals 1 damage to "
 "any target.\""
 msgstr ""
+"Zauroczony stwór ma pośpiech oraz \"|tap|: Ten stwór zadaje wskazanemu "
+"celowi 1 obrażenie.\""
 
 #: ../../AVR.rst:750
 msgid ""
@@ -2178,6 +2209,7 @@ msgstr ""
 msgid ""
 "Enchanted creature has \"|tap|: Target creature can't block this turn.\""
 msgstr ""
+"Zauroczony stwór ma \"|tap|: Wskazany stwór nie może blokować w tej turze.\""
 
 #: ../../AVR.rst:762
 msgid ""
