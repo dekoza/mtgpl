@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:57+0000\n"
+"PO-Revision-Date: 2021-03-01 14:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -794,7 +794,7 @@ msgid ""
 "ability, sacrifice it.\""
 msgstr ""
 "Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia stwora na polu "
-"walki, ale jest Iluzją oprócz swoich innych typów i ma \"Kiedy ten stwór "
+"bitwy, ale jest Iluzją oprócz swoich innych typów i ma \"Kiedy ten stwór "
 "zostanie wskazany przez czar lub zdolność, poświęć go.\""
 
 #: ../../MM3.rst:242
@@ -1335,6 +1335,9 @@ msgid ""
 "cards in your graveyard, you may return target creature card from your "
 "graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli masz co najmniej cztery karty "
+"stworów w cmentarzu, możesz przywrócić wskazana kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../MM3.rst:428
 msgid ""
@@ -1355,6 +1358,8 @@ msgid ""
 "Sacrifice Seal of Doom: Destroy target nonblack creature. It can't be "
 "regenerated."
 msgstr ""
+"Poświęć ten urok: Zniszcz wskazanego nie-czarnego stwora. Nie może być "
+"zregenerowany."
 
 #: ../../MM3.rst:438
 msgid ""
@@ -1367,7 +1372,7 @@ msgstr ""
 msgid ""
 "Exile target creature and all other creatures with the same name as that "
 "creature."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora i każdego innego stwora o tej samej nazwie."
 
 #: ../../MM3.rst:437
 msgid ""
@@ -1461,7 +1466,7 @@ msgstr ""
 
 #: ../../MM3.rst:465
 msgid "Nonbasic lands are Mountains."
-msgstr ""
+msgstr "Niebazowe lądy są Górami."
 
 #: ../../MM3.rst:472
 msgid ""
@@ -1545,10 +1550,12 @@ msgid ""
 "At the beginning of your upkeep, create a 1/1 red Goblin creature token with "
 "haste."
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz żeton czerwonego stwora Goblin "
+"1/1 z pośpiechem."
 
 #: ../../MM3.rst:491
 msgid "Goblin creatures attack each combat if able."
-msgstr ""
+msgstr "Gobliny atakują w każdej potyczce, jeśli mogą."
 
 #: ../../MM3.rst:498
 msgid ""
@@ -1567,6 +1574,8 @@ msgid ""
 "Whenever Goblin Guide attacks, defending player reveals the top card of "
 "their library. If it's a land card, that player puts it into their hand."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, broniący się gracz ujawnia wierzchnią kartę "
+"swojej biblioteki. Jeśli to karta lądu, ów gracz umieszcza ją w swojej ręce."
 
 #: ../../MM3.rst:504
 msgid ""
@@ -1653,7 +1662,7 @@ msgstr ""
 
 #: ../../MM3.rst:529
 msgid "Mogg Flunkies can't attack or block alone."
-msgstr ""
+msgstr "Ten stwór nie może atakować lub blokować samotnie."
 
 #: ../../MM3.rst:534
 msgid ""
@@ -1667,6 +1676,8 @@ msgid ""
 "Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage "
 "to the land's controller."
 msgstr ""
+"Zniszcz wskazany ląd. Jeśli ów ląd był niebazowy, ten czar zadaje władcy "
+"owego lądu 2 obrażenia."
 
 #: ../../MM3.rst:538
 msgid ""
@@ -1677,7 +1688,7 @@ msgstr ""
 
 #: ../../MM3.rst:537
 msgid "When Mudbutton Torchrunner dies, it deals 3 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../MM3.rst:544
 msgid ""
@@ -1750,6 +1761,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell that has the same name as a "
 "card in your graveyard, you may put a quest counter on Pyromancer Ascension."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu o tej samej nazwie, co karta w "
+"twoim cmentarzu, możesz umieścić znacznik wyprawy na tym uroku."
 
 #: ../../MM3.rst:559
 msgid ""
@@ -1757,6 +1770,9 @@ msgid ""
 "two or more quest counters on it, you may copy that spell. You may choose "
 "new targets for the copy."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu gdy ten urok ma co najmniej dwa "
+"znaczniki wyprawy, możesz skopiować ów czar. Możesz wskazać nowe cele dla "
+"kopii."
 
 #: ../../MM3.rst:564
 msgid ""
@@ -1785,6 +1801,8 @@ msgid ""
 "|mana_r|, Sacrifice a creature: Scorched Rusalka deals 1 damage to target "
 "player or planeswalker."
 msgstr ""
+"|mana_r|, poświęć stwora: Niniejszy stwór zadaje wskazanemu graczowi lub "
+"wędrowcowi 1 obrażenie."
 
 #: ../../MM3.rst:574
 msgid ""
@@ -1798,6 +1816,8 @@ msgid ""
 "When Scourge Devil enters the battlefield, creatures you control get +1/+0 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
+"końca tury +1/+0."
 
 #: ../../MM3.rst:573
 msgid ""
@@ -1819,6 +1839,8 @@ msgid ""
 "|mana_r|, |tap|, Sacrifice a creature: Skirsdag Cultist deals 2 damage to "
 "any target."
 msgstr ""
+"|mana_r|, |tap|, poświęć stwora: Niniejszy stwór zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../MM3.rst:584
 msgid ""
@@ -1863,7 +1885,7 @@ msgstr ""
 
 #: ../../MM3.rst:591
 msgid "|tap|: Vithian Stinger deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../MM3.rst:593
 msgid ""
@@ -1907,6 +1929,10 @@ msgid ""
 "a card named Arachnus Web and put it onto the battlefield attached to target "
 "creature. If you search your library this way, shuffle it."
 msgstr ""
+"Przekręć odkręconego Pająka pod twoim władaniem: Wyszukaj w twoim cmentarzu "
+"i/lub bibliotece kartę o nazwie Arachnus Web i umieść ją na polu bitwy "
+"dołączoną do wskazanego stwora. Jeśli przeszukasz twoją bibliotekę w ten "
+"sposób, przetasuj ją."
 
 #: ../../MM3.rst:614
 msgid ""
@@ -1928,6 +1954,8 @@ msgid ""
 "At the beginning of the end step, if enchanted creature's power is 4 or "
 "greater, destroy Arachnus Web."
 msgstr ""
+"Na początku kroku końcowego, jeśli zauroczony stwór ma siłę 4 lub większą, "
+"zniszcz ten urok."
 
 #: ../../MM3.rst:618
 msgid ""
@@ -1953,10 +1981,12 @@ msgid ""
 "this turn, you may pay |mana_1|\\ |mana_g| rather than pay this spell's mana "
 "cost."
 msgstr ""
+"Jeśli przeciwnik umieścił artefakt na polu bitwy w tej turze, możesz "
+"zapłacić |mana_1|\\ |mana_g| zamiast płacić koszt many tego czaru."
 
 #: ../../MM3.rst:623
 msgid "Create a 4/4 green Beast creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Bestia 4/4."
 
 #: ../../MM3.rst:630
 msgid ""
@@ -1974,6 +2004,8 @@ msgid ""
 "Flashback |mana_3|\\ |mana_g| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_3|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:636
 msgid ""
@@ -2001,12 +2033,12 @@ msgstr ""
 
 #: ../../MM3.rst:639
 msgid "|mana_1|\\ |mana_g|: Death-Hood Cobra gains reach until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Ten stwór zyskuje do końca tury zasięg."
 
 #: ../../MM3.rst:641
 msgid ""
 "|mana_1|\\ |mana_g|: Death-Hood Cobra gains deathtouch until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Ten stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../MM3.rst:646
 msgid ""
@@ -2050,7 +2082,7 @@ msgstr ""
 
 #: ../../MM3.rst:659
 msgid "Enchanted creature has trample."
-msgstr ""
+msgstr "Zauroczony stwór ma tratowanie."
 
 #: ../../MM3.rst:664
 msgid ""
@@ -2087,7 +2119,7 @@ msgstr "Tratowanie"
 
 #: ../../MM3.rst:673
 msgid "Whenever Hungry Spriggan attacks, it gets +3/+3 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +3/+3."
 
 #: ../../MM3.rst:678
 msgid ""
@@ -2101,6 +2133,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If you cast this spell during "
 "your main phase, that creature gets +4/+4 until end of turn instead."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli rzucasz ten czar w swojej "
+"fazie głównej, zamiast tego ów stwór dostaje do końca tury +4/+4."
 
 #: ../../MM3.rst:684
 msgid ""
@@ -2114,6 +2148,7 @@ msgid ""
 "When Penumbra Spider dies, create a 2/4 black Spider creature token with "
 "reach."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton czarnego stwora Pająk 2/4 z zasięgiem."
 
 #: ../../MM3.rst:696
 msgid ""
@@ -2133,6 +2168,7 @@ msgstr "Wskazany gracz zyskuje 7 żyć."
 #: ../../MM3.rst:691
 msgid "Put target noncreature permanent on top of its owner's library."
 msgstr ""
+"Umieść wskazany nie-stworowy permanent na wierzchu biblioteki właściciela."
 
 #: ../../MM3.rst:693
 msgid "Target player shuffles their graveyard into their library."
@@ -2143,6 +2179,8 @@ msgid ""
 "Search your library for a creature card, reveal it, put it into your hand, "
 "then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, umieść w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../MM3.rst:700
 msgid ""
@@ -2153,7 +2191,7 @@ msgstr ""
 
 #: ../../MM3.rst:699
 msgid "Return target green card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną zieloną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../MM3.rst:704
 msgid ""
@@ -2179,7 +2217,7 @@ msgstr ""
 
 #: ../../MM3.rst:707
 msgid "Sacrifice Seal of Primordium: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Poświęć ten urok: Zniszcz wskazany artefakt lub urok."
 
 #: ../../MM3.rst:712
 msgid ""
@@ -2219,6 +2257,8 @@ msgid ""
 "Until end of turn, target creature gains trample and gets +X/+X, where X is "
 "the number of attacking creatures."
 msgstr ""
+"Do końca tury wskazany stwór zyskuje tratowanie i dostaje +X/+X, gdzie X "
+"jest liczbą atakujących stworów."
 
 #: ../../MM3.rst:726
 msgid ""
@@ -2233,6 +2273,9 @@ msgid ""
 "an opponent controlled, you may pay |mana_0| rather than pay this spell's "
 "mana cost."
 msgstr ""
+"Jeśli rzucony przez ciebie w tej turze czar stwora został skontrowany przez "
+"czar lub zdolność pod władaniem przeciwnika, możesz zapłacić |mana_0| "
+"zamiast płacić koszt many niniejszego czaru."
 
 #: ../../MM3.rst:725
 msgid ""
@@ -2240,6 +2283,9 @@ msgid ""
 "from among them onto the battlefield. Put the rest on the bottom of your "
 "library in any order."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora spośród nich na polu bitwy. Umieść pozostałe dowolnie na spodzie "
+"twojej biblioteki."
 
 #: ../../MM3.rst:730
 msgid ""
@@ -2269,6 +2315,8 @@ msgid ""
 "Tarmogoyf's power is equal to the number of card types among cards in all "
 "graveyards and its toughness is equal to that number plus 1."
 msgstr ""
+"Siła tej karty jest równa liczbie typów kart spośród kart we wszystkich "
+"cmentarzach, a jej wytrzymałość jest równa tej liczbie plus 1."
 
 #: ../../MM3.rst:742
 msgid ""
@@ -2282,18 +2330,24 @@ msgid ""
 "Kicker |mana_r| and/or |mana_w| (You may pay an additional |mana_r| and/or |"
 "mana_w| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| i/lub |mana_w| (Rzucając ten czar możesz zapłacić "
+"dodatkowe |mana_r| i/lub |mana_w|.)"
 
 #: ../../MM3.rst:739
 msgid ""
 "When Thornscape Battlemage enters the battlefield, if it was kicked with its "
 "|mana_r| kicker, it deals 2 damage to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity przez |mana_r|, "
+"zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../MM3.rst:741
 msgid ""
 "When Thornscape Battlemage enters the battlefield, if it was kicked with its "
 "|mana_w| kicker, destroy target artifact."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity przez |mana_w|, "
+"zniszcz wskazany artefakt."
 
 #: ../../MM3.rst:748
 msgid ""
@@ -2343,7 +2397,7 @@ msgstr ""
 
 #: ../../MM3.rst:757
 msgid "|mana_1|: Regenerate target Golem you control."
-msgstr ""
+msgstr "|mana_1|: Zregeneruj wskazanego Golema pod twoim władaniem."
 
 #: ../../MM3.rst:764
 msgid ""
@@ -2398,6 +2452,8 @@ msgid ""
 "At the beginning of your upkeep, each opponent loses 1 life. You gain life "
 "equal to the life lost this way."
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy przeciwnik traci po 1 życiu. "
+"Zyskaj tyle żyć, ile stracono w ten sposób."
 
 #: ../../MM3.rst:782
 msgid ""
@@ -2412,7 +2468,7 @@ msgstr "Wskazany stwór dostaje do końca tury -3/-0."
 
 #: ../../MM3.rst:781
 msgid "Target creature gets -0/-3 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -0/-3."
 
 #: ../../MM3.rst:786
 msgid ""
@@ -2452,6 +2508,8 @@ msgid ""
 "When Broodmate Dragon enters the battlefield, create a 4/4 red Dragon "
 "creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton czerwonego stwora Smok 4/"
+"4 z lataniem."
 
 #: ../../MM3.rst:800
 msgid ""
@@ -2503,6 +2561,9 @@ msgid ""
 "library. If it's a land card, put it onto the battlefield. Otherwise, put "
 "that card into your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta lądu, umieść ją na polu bitwy. W przeciwnym razie "
+"umieść ją w twojej ręce."
 
 #: ../../MM3.rst:818
 msgid ""
@@ -2517,6 +2578,9 @@ msgid ""
 "life. You return a creature card from your graveyard to your hand, draw "
 "three cards, then gain 5 life."
 msgstr ""
+"Wskazany przeciwnik poświęca stwora, odrzuca trzy karty, następnie traci 5 "
+"żyć. Przywróć kartę stwora z twojego cmentarza do twojej ręki, dobierz trzy "
+"karty, następnie zyskaj 5 żyć."
 
 #: ../../MM3.rst:824
 msgid ""
@@ -2589,6 +2653,9 @@ msgid ""
 "the battlefield, except it has \"|mana_u|\\ |mana_b|, |tap|: Destroy target "
 "creature with the same name as this creature.\""
 msgstr ""
+"Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia stwora na polu "
+"bitwy, ale ma także \"|mana_u|\\ |mana_b|, |tap|: Zniszcz wskazanego stwora "
+"o takiej samej nazwie jak niniejszy stwór.\""
 
 #: ../../MM3.rst:846
 msgid ""
@@ -2607,6 +2674,9 @@ msgid ""
 "of turn. If the sacrificed creature was a Human, put a +1/+1 counter on "
 "Falkenrath Aristocrat."
 msgstr ""
+"Poświęć stwora: Ten stwór zyskuje do końca tury niezniszczalność. Jeśli "
+"poświęcony stwór był Człowiekiem, umieść znacznik +1/+1 na niniejszym "
+"stworze."
 
 #: ../../MM3.rst:850
 msgid ""
@@ -2620,6 +2690,8 @@ msgid ""
 "Fiery Justice deals 5 damage divided as you choose among any number of "
 "targets. Target opponent gains 5 life."
 msgstr ""
+"Ten czar zadaje 5 obrażeń rozdzielone dowolnie między dowolną liczbę "
+"wskazanych celów. Wskazany przeciwnik zyskuje 5 żyć."
 
 #: ../../MM3.rst:856
 msgid ""
@@ -2659,6 +2731,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, create a 1/1 green Saproling "
 "creature token."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, stwórz żeton zielonego "
+"stwora Sadzonka 1/1."
 
 #: ../../MM3.rst:868
 msgid ""
@@ -2669,7 +2743,7 @@ msgstr ""
 
 #: ../../MM3.rst:867
 msgid "|mana_b|, Sacrifice a creature: Target player loses 1 life."
-msgstr ""
+msgstr "|mana_b|, poświęć stwora: Wskazany gracz traci 1 życie."
 
 #: ../../MM3.rst:872
 msgid ""
@@ -2727,6 +2801,8 @@ msgid ""
 "When Kathari Bomber deals combat damage to a player, create two 1/1 red "
 "Goblin creature tokens and sacrifice Kathari Bomber."
 msgstr ""
+"Kiedy ten stwór zada graczowi obrażenia bojowe, stwórz dwa żetony czerwonego "
+"stwora Goblin 1/1 i poświęć niniejszego stwora."
 
 #: ../../MM3.rst:893
 msgid ""
@@ -2818,12 +2894,17 @@ msgid ""
 "creature. That creature becomes a Vampire in addition to its other types. "
 "Put a +1/+1 counter on Olivia Voldaren."
 msgstr ""
+"|mana_1|\\ |mana_r|: Ten stwór zadaje innemu wskazanemu stworowi 1 "
+"obrażenie. Ów stwór staje się Wampirem oprócz swoich innych typów. Umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../MM3.rst:925
 msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|: Gain control of target Vampire for as long "
 "as you control Olivia Voldaren."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_b|: Zyskaj władanie nad wskazanym Wampirem na "
+"czas twojego władania niniejszym stworem."
 
 #: ../../MM3.rst:930
 msgid ""
@@ -2871,6 +2952,7 @@ msgid ""
 "Whenever Sedraxis Specter deals combat damage to a player, that player "
 "discards a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
 
 #: ../../MM3.rst:945
 msgid ""
@@ -2981,6 +3063,7 @@ msgid ""
 "When Sprouting Thrinax dies, create three 1/1 green Saproling creature "
 "tokens."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz trzy żetony zielonego stwora Sadzonka 1/1."
 
 #: ../../MM3.rst:994
 msgid ""
@@ -2996,6 +3079,7 @@ msgstr "Latanie, czujność"
 #: ../../MM3.rst:993
 msgid "Players can't untap more than one creature during their untap steps."
 msgstr ""
+"Gracze nie mogą w swoim kroku odkręcania odkręcić więcej niż jednego stwora."
 
 #: ../../MM3.rst:1000
 msgid ""
@@ -3072,7 +3156,7 @@ msgstr ""
 
 #: ../../MM3.rst:1017
 msgid "|tap|: Target creature can't attack or block this turn."
-msgstr ""
+msgstr "|tap|: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../MM3.rst:1022
 msgid ""
@@ -3121,6 +3205,10 @@ msgid ""
 "beginning of your next upkeep, return that card to the battlefield under its "
 "owner's control. If you do, discard cards equal to that creature's toughness."
 msgstr ""
+"Wygnaj wskazanego stwora. Dobierz tyle kart, ile ów stwór miał siły. Na "
+"początku twojego najbliższego kroku utrzymania, przywróć ową kartę pod "
+"władaniem jej właściciela. Jeśli tak zrobisz odrzuć tyle kart, ile ów stwór "
+"ma wytrzymałości."
 
 #: ../../MM3.rst:1040
 msgid ""
@@ -3194,6 +3282,9 @@ msgid ""
 "enchantment card with converted mana cost 3 or less and put it onto the "
 "battlefield. If you do, shuffle your library."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz wyszukać w twojej bibliotece kartę uroku "
+"o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. Jeśli tak zrobisz, "
+"przetasuj twoją bibliotekę."
 
 #: ../../MM3.rst:1068
 msgid ""
@@ -3259,6 +3350,8 @@ msgid ""
 "Create a 4/4 red and green Giant Warrior creature token with haste. Exile it "
 "at the beginning of the next end step."
 msgstr ""
+"Stwórz żeton czerwono-zielonego stwora Gigant Wojownik 4/4 z pośpiechem. "
+"Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../MM3.rst:1083
 msgid ""
@@ -3290,6 +3383,9 @@ msgid ""
 "the battlefield under its owner's control at the beginning of the next end "
 "step."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_u|: Wygnaj wskazanego stwora. Przywróć ową kartę "
+"na pole bitwy pod władaniem właściciela na początku najbliższego kroku "
+"końcowego."
 
 #: ../../MM3.rst:1098
 msgid ""
@@ -3318,6 +3414,8 @@ msgid ""
 "|mana_r|\\ |mana_g|: Each blocked creature gets +1/+0 and gains trample "
 "until end of turn."
 msgstr ""
+"|mana_r|\\ |mana_g|: Każdy zablokowany stwór dostaje do końca tury +1/+0 i "
+"tratowanie."
 
 #: ../../MM3.rst:1106
 msgid ""
@@ -3346,6 +3444,8 @@ msgid ""
 "When Wort, the Raidmother enters the battlefield, create two 1/1 red and "
 "green Goblin Warrior creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony czerwono-zielonego "
+"stwora Goblin Wojownik 1/1."
 
 #: ../../MM3.rst:1111
 msgid ""
@@ -3375,7 +3475,7 @@ msgstr ""
 
 #: ../../MM3.rst:1119
 msgid "Equipped creature has deathtouch and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór ma dotyk śmierci i więź życia."
 
 #: ../../MM3.rst:1121
 msgid "Equip |mana_2|"
@@ -3518,7 +3618,7 @@ msgstr ""
 
 #: ../../MM3.rst:1171
 msgid "Arcane Sanctum enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MM3.rst:1173
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
@@ -3536,6 +3636,9 @@ msgid ""
 "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain "
 "or Plains card, put it onto the battlefield, then shuffle your library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Góry lub Równiny, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../MM3.rst:1184
 msgid ""
@@ -3692,6 +3795,9 @@ msgid ""
 "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains "
 "or Swamp card, put it onto the battlefield, then shuffle your library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Równiny lub Bagna, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../MM3.rst:1242
 msgid ""
@@ -3706,6 +3812,9 @@ msgid ""
 "Forest or Island card, put it onto the battlefield, then shuffle your "
 "library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Lasu lub Wyspy, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../MM3.rst:1248
 msgid ""
@@ -3746,7 +3855,7 @@ msgstr ""
 
 #: ../../MM3.rst:1257
 msgid "Savage Lands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MM3.rst:1259
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
@@ -3765,6 +3874,9 @@ msgid ""
 "Island or Mountain card, put it onto the battlefield, then shuffle your "
 "library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Wyspy lub Góry, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../MM3.rst:1270
 msgid ""
@@ -3775,7 +3887,7 @@ msgstr ""
 
 #: ../../MM3.rst:1267
 msgid "Seaside Citadel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MM3.rst:1269
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
@@ -3834,6 +3946,9 @@ msgid ""
 "|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a "
 "Swamp or Forest card, put it onto the battlefield, then shuffle your library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Bagna lub Lasu, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #~ msgid ""
 #~ "Target player puts the top two cards of their library into their "
