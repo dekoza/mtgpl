@@ -175,7 +175,7 @@
 
 .. |NPH_percent| image:: images/pie35.png        
 
-.. |DKA_percent| image:: images/pie35.png        
+.. |DKA_percent| image:: images/pie40.png        
 
 .. |C17_percent| image:: images/pie50.png        
 
@@ -252,7 +252,8 @@
 
 .. |CN2_percent| image:: images/pie40.png        
 
-.. |AVR_percent| image:: images/pie85.png        
+.. |AVR_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |FUT_percent| image:: images/pie30.png        
 
