@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-28 23:08+0000\n"
+"PO-Revision-Date: 2021-03-01 09:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -2295,6 +2295,9 @@ msgid ""
 "one permanent of the first type, sacrifices two of the second type, then "
 "sacrifices three of the third type."
 msgstr ""
+"Wybierz kolejność dla artefaktów, stworów i lądów. Każdy gracz poświęca "
+"jeden permanent pierwszego typu, dwa drugiego typu, następnie trzy trzeciego "
+"typu."
 
 #: ../../AVR.rst:788
 msgid ""
@@ -2319,6 +2322,8 @@ msgid ""
 "|mana_2|\\ |mana_r|: Scalding Devil deals 1 damage to target player or "
 "planeswalker."
 msgstr ""
+"|mana_2|\\ |mana_r|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 1 "
+"obrażenie."
 
 #: ../../AVR.rst:796
 msgid ""
@@ -2332,6 +2337,8 @@ msgid ""
 "Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald "
 "Vigilante deals 1 damage to that creature."
 msgstr ""
+"Kiedy ten stwór zostanie zablokowany przez stwora, zadaje owemu stworowi 1 "
+"obrażenie."
 
 #: ../../AVR.rst:802
 msgid ""
@@ -2345,6 +2352,8 @@ msgid ""
 "As long as Stonewright is paired with another creature, each of those "
 "creatures has \"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, oba mają \"|mana_r|: Ten "
+"stwór dostaje do końca tury +1/+0.\""
 
 #: ../../AVR.rst:806
 msgid ""
@@ -2358,6 +2367,8 @@ msgid ""
 "Create three 1/1 red Human creature tokens with haste. Sacrifice those "
 "tokens at the beginning of the next end step."
 msgstr ""
+"Stwórz trzy żetony czerwonego stwora Człowiek 1/1 z pośpiechem. Poświęć owe "
+"żetony na początku najbliższego kroku końcowego."
 
 #: ../../AVR.rst:814
 msgid ""
@@ -2372,11 +2383,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../AVR.rst:811
 msgid "Thunderbolt deals 3 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia."
 
 #: ../../AVR.rst:813
 msgid "Thunderbolt deals 4 damage to target creature with flying."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu stworowi z lataniem 4 obrażenia."
 
 #: ../../AVR.rst:820
 msgid ""
@@ -2387,7 +2398,7 @@ msgstr ""
 
 #: ../../AVR.rst:817
 msgid "Thunderous Wrath deals 5 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 5 obrażeń."
 
 #: ../../AVR.rst:819
 msgid ""
@@ -2407,19 +2418,23 @@ msgstr ""
 
 #: ../../AVR.rst:823
 msgid "+1: Draw a card, then discard a card at random."
-msgstr ""
+msgstr "+1: Dobierz kartę, następnie odrzuć losową kartę."
 
 #: ../../AVR.rst:825
 msgid ""
 "−4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in "
 "target player's hand to that player."
 msgstr ""
+"–4: Ten wędrowiec zadaje wskazanemu graczowi tyle obrażeń, ile ów gracz ma "
+"kart w ręce."
 
 #: ../../AVR.rst:827
 msgid ""
 "−6: Gain control of all creatures until end of turn. Untap them. They gain "
 "haste until end of turn."
 msgstr ""
+"–6: Zyskaj do końca tury władanie nad wszystkimi stworami. Odkręć je. Do "
+"końca tury zyskują one pośpiech."
 
 #: ../../AVR.rst:832
 msgid ""
@@ -2434,6 +2449,9 @@ msgid ""
 "permanent they control at random and sacrifices it. If a nonland permanent "
 "is sacrificed this way, repeat this process."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz wybiera losowo "
+"permanent pod swoim władaniem i poświęca go. Jeśli nielądowy permanent "
+"został poświęcony w ten sposób, powtórz ten proces."
 
 #: ../../AVR.rst:836
 msgid ""
@@ -2458,6 +2476,8 @@ msgid ""
 "When Vexing Devil enters the battlefield, any opponent may have it deal 4 "
 "damage to them. If a player does, sacrifice Vexing Devil."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dowolny przeciwnik może zechcieć "
+"otrzymać od niego 4 obrażenia. Jeśli gracz to zrobi, poświęć tego stwora."
 
 #: ../../AVR.rst:844
 msgid ""
@@ -2487,6 +2507,9 @@ msgid ""
 "permanent until end of turn. Untap that permanent. It gains haste until end "
 "of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
+"wskazanym permanentem. Odkręć ów permanent. Zyskuje on pośpiech do końca "
+"tury."
 
 #: ../../AVR.rst:858
 msgid ""
@@ -2501,7 +2524,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../AVR.rst:855
 msgid "When Abundant Growth enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../AVR.rst:857
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
@@ -2517,6 +2540,7 @@ msgstr ""
 #: ../../AVR.rst:861
 msgid "Distribute four +1/+1 counters among any number of target creatures."
 msgstr ""
+"Rozmieść cztery znaczniki +1/+1 pomiędzy dowolną liczbą wskazanych stworów."
 
 #: ../../AVR.rst:863 ../../AVR.rst:985
 msgid ""
@@ -2608,6 +2632,10 @@ msgid ""
 "shares a creature type with a creature you control. Otherwise, put that card "
 "on the bottom of your library."
 msgstr ""
+"Na początku twojego kroku utrzymania, ujawnij wierzchnią kartę twojej "
+"biblioteki. Możesz rzucić ją bez płacenia jej kosztu many jeśli jest czarem "
+"stwora mającym wspólny typ stwora ze stworem pod twoim władaniem. W "
+"przeciwnym razie umieść ową kartę na spodzie twojej biblioteki."
 
 #: ../../AVR.rst:894
 msgid ""
@@ -2621,6 +2649,7 @@ msgid ""
 "As long as Diregraf Escort is paired with another creature, both creatures "
 "have protection from Zombies."
 msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, oba mają ochronę przed Zombi."
 
 #: ../../AVR.rst:900
 msgid ""
@@ -2633,7 +2662,7 @@ msgstr ""
 msgid ""
 "As long as Druid's Familiar is paired with another creature, each of those "
 "creatures gets +2/+2."
-msgstr ""
+msgstr "O ile ten stwór jest sparowany z innym stworem, oba dostają +2/+2."
 
 #: ../../AVR.rst:906
 msgid ""
@@ -2647,11 +2676,13 @@ msgid ""
 "Whenever a creature you control attacks, put a charge counter on Druids' "
 "Repository."
 msgstr ""
+"Ilekroć zaatakuje stwór pod twoim władaniem, umieść znacznik ładowania na "
+"tym uroku."
 
 #: ../../AVR.rst:905
 msgid ""
 "Remove a charge counter from Druids' Repository: Add one mana of any color."
-msgstr ""
+msgstr "Usuń znacznik ładowania z tego uroku: Weź jedną manę dowolnego koloru."
 
 #: ../../AVR.rst:910
 msgid ""
@@ -2665,6 +2696,7 @@ msgid ""
 "Destroy target creature with flying and all Equipment attached to that "
 "creature."
 msgstr ""
+"Zniszcz wskazanego stwora z lataniem i całe Wyposażenie do niego dołączone."
 
 #: ../../AVR.rst:914
 msgid ""
@@ -2692,7 +2724,7 @@ msgstr ""
 msgid ""
 "As long as Geist Trappers is paired with another creature, both creatures "
 "have reach."
-msgstr ""
+msgstr "O ile ten stwór jest sparowany z innym stworem, oba mają zasięg."
 
 #: ../../AVR.rst:926
 msgid ""
@@ -2718,7 +2750,7 @@ msgstr ""
 
 #: ../../AVR.rst:931
 msgid "Enchanted creature loses flying."
-msgstr ""
+msgstr "Zauroczony stwór traci latanie."
 
 #: ../../AVR.rst:938
 msgid ""
@@ -2729,7 +2761,7 @@ msgstr ""
 
 #: ../../AVR.rst:935
 msgid "Creatures with power less than Howlgeist's power can't block it."
-msgstr ""
+msgstr "Stwory o sile mniejszej niż siła tego stwora nie mogą go blokować."
 
 #: ../../AVR.rst:942
 msgid ""
@@ -2743,6 +2775,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If it's paired with a "
 "creature, that creature also gets +2/+2 until end of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest sparowany ze stworem, "
+"ów stwór również dostaje do końca tury +2/+2."
 
 #: ../../AVR.rst:946
 msgid ""
@@ -2757,6 +2791,9 @@ msgid ""
 "revealed this way into your hand and the rest on the bottom of your library "
 "in any order."
 msgstr ""
+"Ujawnij dwie wierzchnie karty twojej biblioteki. Umieść wszystkie karty "
+"stworów i lądów ujawnione w ten sposób w twojej ręce, a pozostałe dowolnie "
+"na spodzie twojej biblioteki."
 
 #: ../../AVR.rst:950
 msgid ""
@@ -2787,7 +2824,7 @@ msgstr ""
 msgid ""
 "As long as Nightshade Peddler is paired with another creature, both "
 "creatures have deathtouch."
-msgstr ""
+msgstr "O ile ten stwór jest sparowany z innym stworem, oba mają dotyk śmierci."
 
 #: ../../AVR.rst:966
 msgid ""

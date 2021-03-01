@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-28 23:08+0000\n"
+"PO-Revision-Date: 2021-03-01 09:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -638,6 +638,8 @@ msgid ""
 "All Slivers have \"If this permanent would be put into a graveyard, you may "
 "put it on top of its owner's library instead.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"Jeśli ten permanent miałby trafić do cmentarza, "
+"zamiast tego możesz go umieścić na wierzchu biblioteki właściciela.\""
 
 #: ../../TSP.rst:234
 msgid ""
@@ -677,6 +679,9 @@ msgid ""
 "lands controlled by the player who controls the fewest, then sacrifices the "
 "rest. Players sacrifice creatures and discard cards the same way."
 msgstr ""
+"Każdy gracz wybiera tyle lądów pod swoim władaniem, ile ma we władaniu gracz "
+"władający najmniejszą liczbą lądów, następnie poświęca pozostałe. Gracze "
+"poświęcają stwory i odrzucają karty w ten sam sposób."
 
 #: ../../TSP.rst:244
 msgid ""
@@ -690,6 +695,8 @@ msgid ""
 "Exile target artifact or enchantment. If you cast this spell during your "
 "main phase, you may exile up to one other target artifact or enchantment."
 msgstr ""
+"Wygnaj wskazany artefakt lub urok. Jeśli rzucasz ten czar w twojej fazie "
+"głównej, możesz wygnać co najwyżej jeden inny wskazany artefakt lub urok."
 
 #: ../../TSP.rst:252
 msgid ""
@@ -703,6 +710,8 @@ msgid ""
 "You can't cast this spell during your first, second, or third turns of the "
 "game."
 msgstr ""
+"Nie możesz rzucić tego czaru w trakcie twojej pierwszej, drugiej lub "
+"trzeciej tury gry."
 
 #: ../../TSP.rst:251
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
@@ -754,6 +763,8 @@ msgid ""
 "Enchanted creature has shadow. (It can block or be blocked by only creatures "
 "with shadow.)"
 msgstr ""
+"Zauroczony stwór ma cień. (Może blokować i być blokowany tylko przez stwory "
+"z cieniem.)"
 
 #: ../../TSP.rst:273
 msgid "Prevent all damage that would be dealt by enchanted creature."
@@ -785,7 +796,7 @@ msgstr ""
 
 #: ../../TSP.rst:283
 msgid "All Sliver creatures get +0/+2."
-msgstr ""
+msgstr "Wszystkie Drzazgacze dostają +0/+2."
 
 #: ../../TSP.rst:290
 msgid ""
