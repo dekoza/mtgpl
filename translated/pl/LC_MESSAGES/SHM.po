@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-26 08:35+0000\n"
+"PO-Revision-Date: 2021-03-01 14:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -1624,7 +1624,7 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu i umieścić ją przekręconą na polu walki, następnie "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../SHM.rst:596
@@ -1718,7 +1718,7 @@ msgstr "Tratowanie"
 
 #: ../../SHM.rst:625
 msgid "Whenever Hungry Spriggan attacks, it gets +3/+3 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +3/+3."
 
 #: ../../SHM.rst:632
 msgid ""
@@ -2035,6 +2035,9 @@ msgid ""
 "the battlefield under its owner's control at the beginning of the next end "
 "step."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_u|: Wygnaj wskazanego stwora. Przywróć ową kartę "
+"na pole bitwy pod władaniem właściciela na początku najbliższego kroku "
+"końcowego."
 
 #: ../../SHM.rst:756
 msgid ""
@@ -2880,6 +2883,8 @@ msgid ""
 "Create a 4/4 red and green Giant Warrior creature token with haste. Exile it "
 "at the beginning of the next end step."
 msgstr ""
+"Stwórz żeton czerwono-zielonego stwora Gigant Wojownik 4/4 z pośpiechem. "
+"Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../SHM.rst:1090
 msgid ""
@@ -3036,6 +3041,8 @@ msgid ""
 "|mana_r|\\ |mana_g|: Each blocked creature gets +1/+0 and gains trample "
 "until end of turn."
 msgstr ""
+"|mana_r|\\ |mana_g|: Każdy zablokowany stwór dostaje do końca tury +1/+0 i "
+"tratowanie."
 
 #: ../../SHM.rst:1156
 msgid ""
@@ -3082,6 +3089,8 @@ msgid ""
 "When Wort, the Raidmother enters the battlefield, create two 1/1 red and "
 "green Goblin Warrior creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony czerwono-zielonego "
+"stwora Goblin Wojownik 1/1."
 
 #: ../../SHM.rst:1167
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:57+0000\n"
+"PO-Revision-Date: 2021-03-01 14:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -2361,7 +2361,7 @@ msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów zielonego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
 "Roślina 0/1, iloma lądami władasz."
 
 #: ../../C18.rst:787
@@ -2658,7 +2658,7 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu i umieścić ją przekręconą na polu walki, następnie "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../C18.rst:892
@@ -3984,7 +3984,7 @@ msgstr ""
 
 #: ../../C18.rst:1365
 msgid "Arcane Sanctum enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1367
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
@@ -4700,7 +4700,7 @@ msgstr ""
 
 #: ../../C18.rst:1663
 msgid "Savage Lands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1665
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
@@ -4730,7 +4730,7 @@ msgstr ""
 
 #: ../../C18.rst:1677
 msgid "Seaside Citadel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1679
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."

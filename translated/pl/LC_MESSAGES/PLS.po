@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:58+0000\n"
+"PO-Revision-Date: 2021-03-01 14:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/pls/pl/>\n"
 "Language: pl\n"
@@ -1418,18 +1418,24 @@ msgid ""
 "Kicker |mana_r| and/or |mana_w| (You may pay an additional |mana_r| and/or |"
 "mana_w| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| i/lub |mana_w| (Rzucając ten czar możesz zapłacić "
+"dodatkowe |mana_r| i/lub |mana_w|.)"
 
 #: ../../PLS.rst:501
 msgid ""
 "When Thornscape Battlemage enters the battlefield, if it was kicked with its "
 "|mana_r| kicker, it deals 2 damage to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity przez |mana_r|, "
+"zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../PLS.rst:503
 msgid ""
 "When Thornscape Battlemage enters the battlefield, if it was kicked with its "
 "|mana_w| kicker, destroy target artifact."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity przez |mana_w|, "
+"zniszcz wskazany artefakt."
 
 #: ../../PLS.rst:508
 msgid ""

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:57+0000\n"
+"PO-Revision-Date: 2021-03-01 14:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -3138,6 +3138,9 @@ msgid ""
 "library. If it's a land card, put it onto the battlefield. Otherwise, put "
 "that card into your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta lądu, umieść ją na polu bitwy. W przeciwnym razie "
+"umieść ją w twojej ręce."
 
 #: ../../C16.rst:1074
 msgid ""
@@ -4623,7 +4626,7 @@ msgstr ""
 
 #: ../../C16.rst:1601
 msgid "Arcane Sanctum enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1603
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
@@ -5267,7 +5270,7 @@ msgstr ""
 
 #: ../../C16.rst:1869
 msgid "Savage Lands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1871
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
@@ -5282,7 +5285,7 @@ msgstr ""
 
 #: ../../C16.rst:1875
 msgid "Seaside Citadel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1877
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."

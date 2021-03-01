@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:58+0000\n"
+"PO-Revision-Date: 2021-03-01 14:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cn2/pl/>\n"
 "Language: pl\n"
@@ -1830,7 +1830,7 @@ msgstr ""
 
 #: ../../CN2.rst:635
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../CN2.rst:637
 msgid "Untap target permanent you control."
@@ -3038,6 +3038,8 @@ msgid ""
 "Until end of turn, target creature gains trample and gets +X/+X, where X is "
 "the number of attacking creatures."
 msgstr ""
+"Do końca tury wskazany stwór zyskuje tratowanie i dostaje +X/+X, gdzie X "
+"jest liczbą atakujących stworów."
 
 #: ../../CN2.rst:1070
 msgid ""
@@ -3141,6 +3143,9 @@ msgid ""
 "library. If it's a land card, put it onto the battlefield. Otherwise, put "
 "that card into your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta lądu, umieść ją na polu bitwy. W przeciwnym razie "
+"umieść ją w twojej ręce."
 
 #: ../../CN2.rst:1104
 msgid ""

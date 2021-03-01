@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:57+0000\n"
+"PO-Revision-Date: 2021-03-01 14:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -1965,6 +1965,8 @@ msgid ""
 "Whenever Goblin Guide attacks, defending player reveals the top card of "
 "their library. If it's a land card, that player puts it into their hand."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, broniący się gracz ujawnia wierzchnią kartę "
+"swojej biblioteki. Jeśli to karta lądu, ów gracz umieszcza ją w swojej ręce."
 
 #: ../../ZEN.rst:690
 msgid ""
@@ -2211,6 +2213,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell that has the same name as a "
 "card in your graveyard, you may put a quest counter on Pyromancer Ascension."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu o tej samej nazwie, co karta w "
+"twoim cmentarzu, możesz umieścić znacznik wyprawy na tym uroku."
 
 #: ../../ZEN.rst:769
 msgid ""
@@ -2218,6 +2222,9 @@ msgid ""
 "two or more quest counters on it, you may copy that spell. You may choose "
 "new targets for the copy."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu gdy ten urok ma co najmniej dwa "
+"znaczniki wyprawy, możesz skopiować ów czar. Możesz wskazać nowe cele dla "
+"kopii."
 
 #: ../../ZEN.rst:776
 msgid ""
@@ -2422,10 +2429,12 @@ msgid ""
 "this turn, you may pay |mana_1|\\ |mana_g| rather than pay this spell's mana "
 "cost."
 msgstr ""
+"Jeśli przeciwnik umieścił artefakt na polu bitwy w tej turze, możesz "
+"zapłacić |mana_1|\\ |mana_g| zamiast płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:837
 msgid "Create a 4/4 green Beast creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Bestia 4/4."
 
 #: ../../ZEN.rst:842
 msgid ""
@@ -2869,6 +2878,9 @@ msgid ""
 "an opponent controlled, you may pay |mana_0| rather than pay this spell's "
 "mana cost."
 msgstr ""
+"Jeśli rzucony przez ciebie w tej turze czar stwora został skontrowany przez "
+"czar lub zdolność pod władaniem przeciwnika, możesz zapłacić |mana_0| "
+"zamiast płacić koszt many niniejszego czaru."
 
 #: ../../ZEN.rst:991
 msgid ""
@@ -2876,6 +2888,9 @@ msgid ""
 "from among them onto the battlefield. Put the rest on the bottom of your "
 "library in any order."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora spośród nich na polu bitwy. Umieść pozostałe dowolnie na spodzie "
+"twojej biblioteki."
 
 #: ../../ZEN.rst:996
 msgid ""
@@ -3290,6 +3305,9 @@ msgid ""
 "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain "
 "or Plains card, put it onto the battlefield, then shuffle your library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Góry lub Równiny, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:1144
 msgid ""
@@ -3443,6 +3461,9 @@ msgid ""
 "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains "
 "or Swamp card, put it onto the battlefield, then shuffle your library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Równiny lub Bagna, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:1202
 msgid ""
@@ -3457,6 +3478,9 @@ msgid ""
 "Forest or Island card, put it onto the battlefield, then shuffle your "
 "library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Lasu lub Wyspy, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:1210
 msgid ""
@@ -3507,6 +3531,9 @@ msgid ""
 "Island or Mountain card, put it onto the battlefield, then shuffle your "
 "library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Wyspy lub Góry, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:1230
 msgid ""
@@ -3613,6 +3640,9 @@ msgid ""
 "|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a "
 "Swamp or Forest card, put it onto the battlefield, then shuffle your library."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Bagna lub Lasu, umieść ją na polu bitwy, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:1270
 msgid ""

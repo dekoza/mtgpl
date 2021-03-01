@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:58+0000\n"
+"PO-Revision-Date: 2021-03-01 14:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -93,7 +93,7 @@ msgstr "Zaurocz stwora"
 # 12afd27ed9fb4425b37c099e20e31e25
 #: ../../DKA.rst:25
 msgid "|mana_1|: Tap enchanted creature."
-msgstr ""
+msgstr "|mana_1|: Przekręć zauroczonego stwora."
 
 #: ../../DKA.rst:32
 msgid ""
@@ -115,7 +115,7 @@ msgstr "Zaurocz gracza"
 # 8024d73405b94d81abbb20b1f7a19763
 #: ../../DKA.rst:31
 msgid "Enchanted player can't cast more than one spell each turn."
-msgstr ""
+msgstr "Zauroczony gracz nie może rzucać więcej niż jednego czaru na turę."
 
 #: ../../DKA.rst:38
 msgid ""
@@ -2407,6 +2407,9 @@ msgid ""
 "of turn. If the sacrificed creature was a Human, put a +1/+1 counter on "
 "Falkenrath Aristocrat."
 msgstr ""
+"Poświęć stwora: Ten stwór zyskuje do końca tury niezniszczalność. Jeśli "
+"poświęcony stwór był Człowiekiem, umieść znacznik +1/+1 na niniejszym "
+"stworze."
 
 #: ../../DKA.rst:810
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:58+0000\n"
+"PO-Revision-Date: 2021-03-01 14:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -698,7 +698,7 @@ msgstr ""
 # eb69607d046b4fbd9ed0f54424ab87f1
 #: ../../C13.rst:209
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole walki, wybierz jedno —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../C13.rst:211
 msgid "Untap target permanent you control."
@@ -2426,7 +2426,7 @@ msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, stwórz tyle żetonów zielonego stwora "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
 "Roślina 0/1, iloma lądami władasz."
 
 # 40b91369c1474c41a082265a54d719ad
@@ -2587,7 +2587,7 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu i umieścić ją przekręconą na polu walki, następnie "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:802
@@ -3243,6 +3243,9 @@ msgid ""
 "life. You return a creature card from your graveyard to your hand, draw "
 "three cards, then gain 5 life."
 msgstr ""
+"Wskazany przeciwnik poświęca stwora, odrzuca trzy karty, następnie traci 5 "
+"żyć. Przywróć kartę stwora z twojego cmentarza do twojej ręki, dobierz trzy "
+"karty, następnie zyskaj 5 żyć."
 
 #: ../../C13.rst:1030
 msgid ""
@@ -3337,6 +3340,8 @@ msgid ""
 "Fiery Justice deals 5 damage divided as you choose among any number of "
 "targets. Target opponent gains 5 life."
 msgstr ""
+"Ten czar zadaje 5 obrażeń rozdzielone dowolnie między dowolną liczbę "
+"wskazanych celów. Wskazany przeciwnik zyskuje 5 żyć."
 
 #: ../../C13.rst:1068
 msgid ""
@@ -3896,6 +3901,7 @@ msgid ""
 "When Sprouting Thrinax dies, create three 1/1 green Saproling creature "
 "tokens."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz trzy żetony zielonego stwora Sadzonka 1/1."
 
 #: ../../C13.rst:1272
 msgid ""
@@ -4063,6 +4069,9 @@ msgid ""
 "the battlefield under its owner's control at the beginning of the next end "
 "step."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_u|: Wygnaj wskazanego stwora. Przywróć ową kartę "
+"na pole bitwy pod władaniem właściciela na początku najbliższego kroku "
+"końcowego."
 
 #: ../../C13.rst:1336
 msgid ""
@@ -4776,7 +4785,7 @@ msgstr ""
 # 442ecc0f608b41228442e86913a78dc0
 #: ../../C13.rst:1553
 msgid "Arcane Sanctum enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C13.rst:1564
 msgid ""
@@ -5573,7 +5582,7 @@ msgstr ""
 # 5c0c7765cb404fd6bf98ef454f5dcb3d
 #: ../../C13.rst:1855
 msgid "Savage Lands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C13.rst:1864
 msgid ""
@@ -5585,7 +5594,7 @@ msgstr ""
 # 5188fba277fd47c0af22dca0c90e2437
 #: ../../C13.rst:1861
 msgid "Seaside Citadel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1863
