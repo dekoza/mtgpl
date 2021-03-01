@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 14:06+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -232,6 +232,8 @@ msgid ""
 "|mana_1|: The next time a black source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie czarne "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../9ED.rst:88
 msgid ""
@@ -253,6 +255,8 @@ msgid ""
 "|mana_1|: The next time a red source of your choice would deal damage to you "
 "this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie czerwone "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../9ED.rst:98
 msgid ""
@@ -574,6 +578,8 @@ msgstr ""
 msgid ""
 "|tap|: Prevent the next 1 damage that would be dealt to any target this turn."
 msgstr ""
+"|tap|: Zażegnaj najbliższe 1 obrażenie, jakie miałoby zostać zadane w tej "
+"turze wskazanemu celowi."
 
 #: ../../9ED.rst:216
 msgid ""
@@ -3404,7 +3410,7 @@ msgstr ""
 
 #: ../../9ED.rst:1273
 msgid "Whenever you cast an enchantment spell, you may draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, możesz dobrać kartę."
 
 #: ../../9ED.rst:1278
 msgid ""

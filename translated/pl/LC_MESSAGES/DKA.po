@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 15:29+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -70,6 +70,8 @@ msgid ""
 "indestructible until end of turn. (Damage and effects that say \"destroy\" "
 "don't destroy them.)"
 msgstr ""
+"Pamiętna godzina — Jeśli masz 5 żyć lub mniej, owe stwory zyskują do końca "
+"niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą ich.)"
 
 #: ../../DKA.rst:26
 msgid ""
@@ -161,6 +163,9 @@ msgid ""
 "Fateful hour — If you have 5 or less life, instead you and each permanent "
 "you control gain protection from the color of your choice until end of turn."
 msgstr ""
+"Pamiętna godzina — Jeśli masz 5 żyć lub mniej, zamiast tego ty i każdy "
+"permanent pod twoim władaniem zyskuje do końca tury ochronę przed wybranym "
+"przez ciebie kolorem."
 
 #: ../../DKA.rst:50
 msgid ""
@@ -178,6 +183,8 @@ msgid ""
 "Fateful hour — If you have 5 or less life, create five of those tokens "
 "instead."
 msgstr ""
+"Pamiętna godzina — Jeśli masz 5 żyć lub mniej, zamiast tego stwórz pięć "
+"takich żetonów."
 
 #: ../../DKA.rst:54
 msgid ""
@@ -192,6 +199,8 @@ msgid ""
 "Fateful hour — As long as you have 5 or less life, other creatures you "
 "control get +1/+4."
 msgstr ""
+"Pamiętna godzina — O ile masz 5 żyć lub mniej, inne stwory pod twoim "
+"władaniem dostają +1/+4."
 
 #: ../../DKA.rst:62
 msgid ""
@@ -457,6 +466,9 @@ msgid ""
 "to the battlefield under their owner's control at the beginning of the next "
 "end step."
 msgstr ""
+"Wygnaj wszystkie nielądowe permanenty pod władaniem wskazanego gracza. "
+"Przywróć owe karty na pole bitwy pod władaniem właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../DKA.rst:138
 msgid ""
@@ -486,7 +498,7 @@ msgstr ""
 
 #: ../../DKA.rst:141
 msgid "|tap|: Create a 1/1 white Human creature token."
-msgstr ""
+msgstr "|tap|: Stwórz żeton białego stwora Człowiek 1/1."
 
 # 6dc71e2c063a47f189c019d950bcedba
 #: ../../DKA.rst:143
@@ -494,6 +506,8 @@ msgid ""
 "Fateful hour — As long as you have 5 or less life, other creatures you "
 "control get +2/+2."
 msgstr ""
+"Pamiętna godzina — O ile masz 5 żyć lub mniej, inne stwory pod twoim "
+"władaniem dostają +2/+2."
 
 #: ../../DKA.rst:148
 msgid ""
@@ -505,7 +519,7 @@ msgstr ""
 # 806f47d74f874a57b09da901f5bae2f2
 #: ../../DKA.rst:147
 msgid "|tap|: Exile target creature card from a graveyard."
-msgstr ""
+msgstr "|tap|: Wygnaj wskazaną kartę stwora z cmentarza."
 
 #: ../../DKA.rst:154
 msgid ""
@@ -541,6 +555,8 @@ msgid ""
 "|tap|: Gain control of target creature with power less than or equal to the "
 "number of creatures you control."
 msgstr ""
+"|tap|: Zyskaj władanie nad wskazanym stworem o sile mniejszej lub równej "
+"liczbie stworów pod twoim władaniem."
 
 #: ../../DKA.rst:164
 msgid ""

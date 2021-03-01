@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 14:07+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -1237,13 +1237,15 @@ msgstr ""
 
 #: ../../C15.rst:439
 msgid "Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór blokuje, dostaje do końca tury +7/+7."
 
 #: ../../C15.rst:441
 msgid ""
 "|mana_w|: Jareth gains protection from the color of your choice until end of "
 "turn."
 msgstr ""
+"|mana_w|: Ten stwór zyskuje do końca tury ochronę przed wybranym przez "
+"ciebie kolorem."
 
 #: ../../C15.rst:446
 msgid ""
@@ -1312,7 +1314,7 @@ msgstr ""
 
 #: ../../C15.rst:463
 msgid "Whenever you cast an enchantment spell, you may draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, możesz dobrać kartę."
 
 #: ../../C15.rst:468
 msgid ""
@@ -1326,6 +1328,8 @@ msgid ""
 "When Monk Idealist enters the battlefield, return target enchantment card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę uroku z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../C15.rst:472
 msgid ""
@@ -1372,7 +1376,7 @@ msgstr ""
 
 #: ../../C15.rst:481
 msgid "Sacrifice Seal of Cleansing: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Poświęć ten urok: Zniszcz wskazany artefakt lub urok."
 
 #: ../../C15.rst:486
 msgid ""

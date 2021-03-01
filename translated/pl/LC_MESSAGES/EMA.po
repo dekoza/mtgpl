@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 15:29+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
 "Language: pl\n"
@@ -71,6 +71,9 @@ msgid ""
 "lands controlled by the player who controls the fewest, then sacrifices the "
 "rest. Players discard cards and sacrifice creatures the same way."
 msgstr ""
+"Każdy gracz wybiera tyle lądów pod swoim władaniem, iloma lądami włada gracz "
+"władający najmniejszą ich liczbą, następnie poświęca pozostałe. Gracze "
+"odrzucają karty i poświęcają stwory w ten sam sposób."
 
 #: ../../EMA.rst:24
 msgid ""
@@ -100,6 +103,8 @@ msgid ""
 "Sacrifice Benevolent Bodyguard: Target creature you control gains protection "
 "from the color of your choice until end of turn."
 msgstr ""
+"Poświęć tego stwora: Wskazany stwór pod twoim władaniem zyskuje do końca "
+"tury ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../EMA.rst:34
 msgid ""
@@ -118,6 +123,9 @@ msgid ""
 "it. At the beginning of your upkeep, remove a time counter from it. When the "
 "last is removed, sacrifice it.)"
 msgstr ""
+"Zanikanie 4 (Ten stwór wchodzi na pole walki z czterema znacznikami czasu. "
+"Na początku twojego kroku utrzymania, usuń z niego znacznik czasu. Kiedy "
+"ostatni zostanie usunięty, poświęć go.)"
 
 #: ../../EMA.rst:38
 msgid ""
@@ -132,6 +140,9 @@ msgid ""
 "control or activating an ability they control, that player must choose at "
 "least one Flagbearer on the battlefield if able."
 msgstr ""
+"Przeciwnik wskazujący cele rzucanego czaru pod swoim władaniem lub "
+"aktywujący zdolność pod swoim władaniem, musi wybrać przynajmniej jednego "
+"Chorążego na polu walki, jeśli to możliwe."
 
 #: ../../EMA.rst:44
 msgid ""
@@ -145,10 +156,12 @@ msgid ""
 "|mana_1|\\ |mana_w|: Target permanent you control gains protection from "
 "white until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Wskazany permanent pod twoim władaniem zyskuje do końca "
+"tury ochronę przed białym."
 
 #: ../../EMA.rst:43
 msgid "|mana_1|: Target spell or permanent becomes white until end of turn."
-msgstr ""
+msgstr "|mana_1|: Wskazany czar lub permanent staje się biały do końca tury."
 
 #: ../../EMA.rst:46
 msgid ""
@@ -169,6 +182,8 @@ msgid ""
 "Search your library for an artifact or enchantment card and reveal that "
 "card. Shuffle your library, then put the card on top of it."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę artefaktu lub uroku i ujawnij ją. "
+"Przetasuj twoją bibliotekę i umieść ową kartę na jej wierzchu."
 
 #: ../../EMA.rst:60
 msgid ""
@@ -205,6 +220,8 @@ msgid ""
 "Whenever a nontoken creature is put into your graveyard from the "
 "battlefield, create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć nieżetonowy stwór trafia do twojego cmentarza z pola bitwy, stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../EMA.rst:70
 msgid ""
@@ -223,6 +240,9 @@ msgid ""
 "permanent. Return that card to the battlefield under its owner's control at "
 "the beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj inny wskazany permanent. "
+"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../EMA.rst:74
 msgid ""
@@ -236,6 +256,8 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, you gain 2 life for each Shrine you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, zyskaj 2 życia za każdą Kapliczkę pod "
+"twoim władaniem."
 
 #: ../../EMA.rst:78
 msgid ""
@@ -249,6 +271,8 @@ msgid ""
 "Until end of turn, target creature loses all abilities and has base power "
 "and toughness 0/1."
 msgstr ""
+"Do końca tury wskazany stwór traci wszystkie zdolności i ma bazowe siłę i "
+"wytrzymałość 0/1."
 
 #: ../../EMA.rst:82
 msgid ""
@@ -270,13 +294,15 @@ msgstr ""
 
 #: ../../EMA.rst:85
 msgid "Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór blokuje, dostaje do końca tury +7/+7."
 
 #: ../../EMA.rst:87
 msgid ""
 "|mana_w|: Jareth gains protection from the color of your choice until end of "
 "turn."
 msgstr ""
+"|mana_w|: Ten stwór zyskuje do końca tury ochronę przed wybranym przez "
+"ciebie kolorem."
 
 #: ../../EMA.rst:96
 msgid ""
@@ -295,12 +321,17 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_3|\\ |mana_w|\\ |mana_w| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po twoim poprzednim kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../EMA.rst:95
 msgid ""
 "When Karmic Guide enters the battlefield, return target creature card from "
 "your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../EMA.rst:100
 msgid ""
@@ -328,7 +359,7 @@ msgstr ""
 
 #: ../../EMA.rst:103
 msgid "Whenever you cast an enchantment spell, you may draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, możesz dobrać kartę."
 
 #: ../../EMA.rst:108
 msgid ""
@@ -349,6 +380,8 @@ msgid ""
 "When Monk Idealist enters the battlefield, return target enchantment card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę uroku z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../EMA.rst:116
 msgid ""
@@ -362,6 +395,8 @@ msgid ""
 "|tap|: Target creature you control gains protection from the color of your "
 "choice until end of turn."
 msgstr ""
+"|tap|: Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę "
+"przed wybranym przez ciebie kolorem."
 
 #: ../../EMA.rst:122
 msgid ""
@@ -419,7 +454,7 @@ msgstr ""
 
 #: ../../EMA.rst:135
 msgid "Sacrifice Seal of Cleansing: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Poświęć ten urok: Zniszcz wskazany artefakt lub urok."
 
 #: ../../EMA.rst:142
 msgid ""
@@ -430,7 +465,7 @@ msgstr ""
 
 #: ../../EMA.rst:139
 msgid "Exile target attacking creature."
-msgstr ""
+msgstr "Wygnaj wskazanego atakującego stwora."
 
 #: ../../EMA.rst:141 ../../EMA.rst:151 ../../EMA.rst:423 ../../EMA.rst:581
 #: ../../EMA.rst:889
@@ -474,6 +509,8 @@ msgstr ""
 msgid ""
 "Whenever a creature with flying dies, put a +1/+1 counter on Soulcatcher."
 msgstr ""
+"Ilekroć umrze stwór mający latanie, umieść znacznik +1/+1 na niniejszym "
+"stworze."
 
 #: ../../EMA.rst:164
 msgid ""
@@ -488,6 +525,9 @@ msgid ""
 "up to three cards named Squadron Hawk, reveal them, put them into your hand, "
 "then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"co najwyżej trzy karty o nazwie Squadron Hawk, ujawnij je, umieść w twojej "
+"ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../EMA.rst:168
 msgid ""
@@ -498,7 +538,7 @@ msgstr ""
 
 #: ../../EMA.rst:167
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życie równe jego sile."
 
 #: ../../EMA.rst:172
 msgid ""
@@ -512,6 +552,8 @@ msgid ""
 "Put target nonland permanent into its owner's library just beneath the top X "
 "cards of that library."
 msgstr ""
+"Umieść wskazany nielądowy permanent w bibliotece właściciela zaraz pod X "
+"wierzchnimi kartami owej biblioteki."
 
 #: ../../EMA.rst:178
 msgid ""
@@ -526,7 +568,7 @@ msgstr "Obronność"
 
 #: ../../EMA.rst:177
 msgid "When Wall of Omens enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../EMA.rst:182
 msgid ""
@@ -539,7 +581,7 @@ msgstr ""
 msgid ""
 "When War Priest of Thune enters the battlefield, you may destroy target "
 "enchantment."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany urok."
 
 #: ../../EMA.rst:188
 msgid ""
@@ -553,6 +595,8 @@ msgid ""
 "When Welkin Guide enters the battlefield, target creature gets +2/+2 and "
 "gains flying until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
+"2/+2 i latanie."
 
 #: ../../EMA.rst:194
 msgid ""
@@ -570,6 +614,8 @@ msgid ""
 "When Whitemane Lion enters the battlefield, return a creature you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
+"do ręki właściciela."
 
 #: ../../EMA.rst:198
 msgid ""
@@ -591,13 +637,14 @@ msgstr ""
 
 #: ../../EMA.rst:201
 msgid "|tap|: Draw three cards."
-msgstr ""
+msgstr "|tap|: Dobierz trzy karty."
 
 #: ../../EMA.rst:203
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_u|: Return Arcanis the Omnipotent to its owner's "
 "hand."
 msgstr ""
+"|mana_2|\\ |mana_u|\\ |mana_u|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../EMA.rst:208
 msgid ""
@@ -665,6 +712,8 @@ msgid ""
 "You may return an Island you control to its owner's hand rather than pay "
 "this spell's mana cost."
 msgstr ""
+"Możesz przywrócić Wyspę pod twoim władaniem do ręki właściciela zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../EMA.rst:227
 msgid "Counter target spell unless its controller pays |mana_1|."

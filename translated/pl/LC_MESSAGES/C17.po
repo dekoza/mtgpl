@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 14:07+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -1122,13 +1122,15 @@ msgstr ""
 
 #: ../../C17.rst:383
 msgid "Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór blokuje, dostaje do końca tury +7/+7."
 
 #: ../../C17.rst:385
 msgid ""
 "|mana_w|: Jareth gains protection from the color of your choice until end of "
 "turn."
 msgstr ""
+"|mana_w|: Ten stwór zyskuje do końca tury ochronę przed wybranym przez "
+"ciebie kolorem."
 
 #: ../../C17.rst:392
 msgid ""
@@ -1362,7 +1364,7 @@ msgstr ""
 
 #: ../../C17.rst:463
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życie równe jego sile."
 
 #: ../../C17.rst:468
 msgid ""
@@ -1419,13 +1421,14 @@ msgstr ""
 
 #: ../../C17.rst:481
 msgid "|tap|: Draw three cards."
-msgstr ""
+msgstr "|tap|: Dobierz trzy karty."
 
 #: ../../C17.rst:483
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_u|: Return Arcanis the Omnipotent to its owner's "
 "hand."
 msgstr ""
+"|mana_2|\\ |mana_u|\\ |mana_u|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../C17.rst:488
 msgid ""

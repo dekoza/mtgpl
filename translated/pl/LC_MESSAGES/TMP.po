@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-26 08:35+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tmp/pl/>\n"
 "Language: pl\n"
@@ -39,7 +39,7 @@ msgstr "Pierwszy cios"
 
 #: ../../TMP.rst:11
 msgid "|mana_w|: Target creature gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_w|: Wskazany stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../TMP.rst:18
 msgid ""
@@ -62,6 +62,8 @@ msgid ""
 "Whenever Angelic Protector becomes the target of a spell or ability, Angelic "
 "Protector gets +0/+3 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zostanie wskazany przez czar lub zdolność, dostaje on do "
+"końca tury +0/+3."
 
 #: ../../TMP.rst:24
 msgid ""
@@ -83,6 +85,8 @@ msgstr ""
 msgid ""
 "Prevent the next 3 damage that would be dealt to target creature this turn."
 msgstr ""
+"Zażegnaj najbliższe 3 obrażenia, jakie mogłyby zostać zadane w tej turze "
+"wskazanemu stworowi."
 
 #: ../../TMP.rst:28
 msgid ""
@@ -115,7 +119,7 @@ msgstr ""
 
 #: ../../TMP.rst:35
 msgid "Sacrifice an enchantment: Auratog gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć urok: Ten stwór dostaje do końca tury +2/+2."
 
 #: ../../TMP.rst:42
 msgid ""
@@ -127,6 +131,7 @@ msgstr ""
 #: ../../TMP.rst:41
 msgid "When Avenging Angel dies, you may put it on top of its owner's library."
 msgstr ""
+"Kiedy ten stwór umrze, możesz umieścić go na wierzchu biblioteki właściciela."
 
 #: ../../TMP.rst:46
 msgid ""
@@ -141,6 +146,8 @@ msgid ""
 "|mana_1|: The next time a black source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie czarne "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../TMP.rst:50
 msgid ""
@@ -155,6 +162,8 @@ msgid ""
 "|mana_1|: The next time a blue source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie "
+"niebieskie źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../TMP.rst:54
 msgid ""
@@ -169,6 +178,8 @@ msgid ""
 "|mana_1|: The next time a green source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie zielone "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../TMP.rst:58
 msgid ""
@@ -183,6 +194,8 @@ msgid ""
 "|mana_1|: The next time a red source of your choice would deal damage to you "
 "this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie czerwone "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../TMP.rst:62
 msgid ""
@@ -197,6 +210,8 @@ msgid ""
 "|mana_1|: The next time a creature of your choice with shadow would deal "
 "damage to you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrany przez ciebie stwór z "
+"cieniem miałby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../TMP.rst:66
 msgid ""
@@ -211,6 +226,8 @@ msgid ""
 "|mana_1|: The next time a white source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie białe "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../TMP.rst:70
 msgid ""
@@ -223,6 +240,8 @@ msgstr ""
 msgid ""
 "|tap|: Prevent the next 1 damage that would be dealt to any target this turn."
 msgstr ""
+"|tap|: Zażegnaj najbliższe 1 obrażenie, jakie miałoby zostać zadane w tej "
+"turze wskazanemu celowi."
 
 #: ../../TMP.rst:76
 msgid ""
@@ -234,7 +253,7 @@ msgstr ""
 #: ../../TMP.rst:75
 msgid ""
 "When Cloudchaser Eagle enters the battlefield, destroy target enchantment."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany urok."
 
 #: ../../TMP.rst:80
 msgid ""
@@ -259,6 +278,8 @@ msgid ""
 "Whenever Elite Javelineer blocks, it deals 1 damage to target attacking "
 "creature."
 msgstr ""
+"Ilekroć ten stwór blokuje, zadaje 1 obrażenie wskazanemu atakującemu "
+"stworowi."
 
 #: ../../TMP.rst:88
 msgid ""
@@ -272,6 +293,8 @@ msgid ""
 "Whenever a nontoken creature is put into your graveyard from the "
 "battlefield, create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć nieżetonowy stwór trafia do twojego cmentarza z pola bitwy, stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../TMP.rst:98
 msgid ""
@@ -288,17 +311,19 @@ msgstr "Zaurocz stwora"
 
 #: ../../TMP.rst:93
 msgid "As Flickering Ward enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu bitwy, wybierz kolor."
 
 #: ../../TMP.rst:95
 msgid ""
 "Enchanted creature has protection from the chosen color. This effect doesn't "
 "remove Flickering Ward."
 msgstr ""
+"Zauroczony stwór ma ochronę przed wybranym kolorem. Ten efekt nie usuwa "
+"niniejszego uroku."
 
 #: ../../TMP.rst:97
 msgid "|mana_w|: Return Flickering Ward to its owner's hand."
-msgstr ""
+msgstr "|mana_w|: Przywróć ten urok do ręki właściciela."
 
 #: ../../TMP.rst:104
 msgid ""
@@ -309,7 +334,7 @@ msgstr ""
 
 #: ../../TMP.rst:101
 msgid "Target blocking creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany blokujący stwór dostaje do końca tury +4/+4."
 
 #: ../../TMP.rst:103 ../../TMP.rst:287 ../../TMP.rst:349 ../../TMP.rst:423
 #: ../../TMP.rst:497 ../../TMP.rst:521 ../../TMP.rst:1035 ../../TMP.rst:1213
@@ -326,6 +351,7 @@ msgstr ""
 #: ../../TMP.rst:107
 msgid "|mana_2|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_w|: Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../TMP.rst:112
 msgid ""
@@ -339,6 +365,8 @@ msgid ""
 "All artifacts have shroud. (They can't be the targets of spells or "
 "abilities.)"
 msgstr ""
+"Wszystkie artefakty mają antymagię. (Nie mogą być wskazywane przez czary lub "
+"zdolności.)"
 
 #: ../../TMP.rst:118
 msgid ""
@@ -349,7 +377,7 @@ msgstr ""
 
 #: ../../TMP.rst:117
 msgid "Enchanted creature gets +1/+5."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+5."
 
 #: ../../TMP.rst:122
 msgid ""
@@ -361,6 +389,8 @@ msgstr ""
 #: ../../TMP.rst:121
 msgid "All creatures lose all abilities and have base power and toughness 1/1."
 msgstr ""
+"Wsztstkie stwory tracą wszystkie zdolności i mają bazowe siłę i wytrzymałość "
+"1/1."
 
 #: ../../TMP.rst:128
 msgid ""
@@ -3147,16 +3177,12 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:1173
-#, fuzzy
-#| msgid ""
-#| "At the beginning of each upkeep, create a 1/1 green Saproling creature "
-#| "token."
 msgid ""
 "When Mongrel Pack dies during combat, create four 1/1 green Dog creature "
 "tokens."
 msgstr ""
-"Na początku każdego kroku utrzymania, stwórz żeton zielonego stwora Sadzonka "
-"1/1."
+"Kiedy ten stwór umrze podczas potyczki, stwórz cztery żetony zielonego "
+"stwora Pies 1/1."
 
 #: ../../TMP.rst:1178
 msgid ""

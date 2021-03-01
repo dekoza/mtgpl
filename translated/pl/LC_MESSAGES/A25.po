@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 14:07+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -549,6 +549,9 @@ msgid ""
 "up to three cards named Squadron Hawk, reveal them, put them into your hand, "
 "then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"co najwyżej trzy karty o nazwie Squadron Hawk, ujawnij je, umieść w twojej "
+"ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../A25.rst:184
 msgid ""
@@ -559,7 +562,7 @@ msgstr ""
 
 #: ../../A25.rst:183
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życie równe jego sile."
 
 #: ../../A25.rst:190
 msgid ""
@@ -623,6 +626,8 @@ msgid ""
 "When Whitemane Lion enters the battlefield, return a creature you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
+"do ręki właściciela."
 
 #: ../../A25.rst:208
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 14:07+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/8ed/pl/>\n"
 "Language: pl\n"
@@ -220,6 +220,8 @@ msgid ""
 "|mana_1|: The next time a black source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie czarne "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../8ED.rst:92
 msgid ""
@@ -234,6 +236,8 @@ msgid ""
 "|mana_1|: The next time a blue source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie "
+"niebieskie źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../8ED.rst:96
 msgid ""
@@ -248,6 +252,8 @@ msgid ""
 "|mana_1|: The next time a green source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie zielone "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../8ED.rst:100
 msgid ""
@@ -262,6 +268,8 @@ msgid ""
 "|mana_1|: The next time a red source of your choice would deal damage to you "
 "this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie czerwone "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../8ED.rst:104
 msgid ""
@@ -276,6 +284,8 @@ msgid ""
 "|mana_1|: The next time a white source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_1|: Kiedy najbliższym razem w tej turze wybrane przez ciebie białe "
+"źródło miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../8ED.rst:108
 msgid ""
@@ -336,6 +346,8 @@ msgid ""
 "Whenever Elite Javelineer blocks, it deals 1 damage to target attacking "
 "creature."
 msgstr ""
+"Ilekroć ten stwór blokuje, zadaje 1 obrażenie wskazanemu atakującemu "
+"stworowi."
 
 #: ../../8ED.rst:128
 msgid ""
@@ -604,6 +616,8 @@ msgstr ""
 msgid ""
 "|tap|: Prevent the next 1 damage that would be dealt to any target this turn."
 msgstr ""
+"|tap|: Zażegnaj najbliższe 1 obrażenie, jakie miałoby zostać zadane w tej "
+"turze wskazanemu celowi."
 
 #: ../../8ED.rst:226
 msgid ""
@@ -3454,7 +3468,7 @@ msgstr ""
 
 #: ../../8ED.rst:1311
 msgid "Whenever you cast an enchantment spell, you may draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, możesz dobrać kartę."
 
 #: ../../8ED.rst:1316
 msgid ""

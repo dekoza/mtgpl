@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 11:58+0000\n"
+"PO-Revision-Date: 2021-03-01 23:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/chk/pl/>\n"
 "Language: pl\n"
@@ -167,10 +167,12 @@ msgid ""
 "|mana_1|\\ |mana_w|: Target permanent you control gains protection from "
 "white until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Wskazany permanent pod twoim władaniem zyskuje do końca "
+"tury ochronę przed białym."
 
 #: ../../CHK.rst:51
 msgid "|mana_1|: Target spell or permanent becomes white until end of turn."
-msgstr ""
+msgstr "|mana_1|: Wskazany czar lub permanent staje się biały do końca tury."
 
 #: ../../CHK.rst:56
 msgid ""
@@ -265,6 +267,8 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, you gain 2 life for each Shrine you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, zyskaj 2 życia za każdą Kapliczkę pod "
+"twoim władaniem."
 
 #: ../../CHK.rst:84
 msgid ""
@@ -422,6 +426,8 @@ msgstr ""
 msgid ""
 "|tap|: Prevent the next 1 damage that would be dealt to any target this turn."
 msgstr ""
+"|tap|: Zażegnaj najbliższe 1 obrażenie, jakie miałoby zostać zadane w tej "
+"turze wskazanemu celowi."
 
 #: ../../CHK.rst:147
 msgid ""
