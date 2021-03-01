@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 10:50+0000\n"
+"PO-Revision-Date: 2021-03-01 11:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -822,6 +822,8 @@ msgstr ""
 #: ../../2XM.rst:343
 msgid "Destroy target creature. It can't be regenerated. Its controller creates a 3/3 green Ape creature token."
 msgstr ""
+"Zniszcz wskazanego stwora. Nie może być regenerowany. Jego władca tworzy "
+"żeton zielonego stwora Małpa 3/3."
 
 #: ../../2XM.rst:348
 msgid ":mtgtip:`Relic Runner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fbced19d-7035-4284-93b3-cf2d4bcf9734.jpg?1598304179|https://scryfall.com/card/2xm/63/relic-runner?utm_source=api>`"
@@ -2053,7 +2055,7 @@ msgstr ""
 
 #: ../../2XM.rst:915
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|, |mana_w|, lub |mana_u|."
 
 #: ../../2XM.rst:920
 msgid ":mtgtip:`Reclamation Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/564e378a-f033-44ca-8295-855382cc838d.jpg?1599707426|https://scryfall.com/card/2xm/178/reclamation-sage?utm_source=api>`"

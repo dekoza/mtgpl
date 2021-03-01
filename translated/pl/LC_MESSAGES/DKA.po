@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 10:50+0000\n"
+"PO-Revision-Date: 2021-03-01 11:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -267,13 +267,15 @@ msgstr ""
 
 #: ../../DKA.rst:71
 msgid "Create two 1/1 white Spirit creature tokens with flying."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
 
 #: ../../DKA.rst:73
 msgid ""
 "Flashback |mana_1|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_1|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:80
 msgid ""
@@ -403,6 +405,10 @@ msgid ""
 "it's a Spirit in addition to its other types. Exile it at the beginning of "
 "the next end step."
 msgstr ""
+"Na początku każdego kroku utrzymania, możesz wygnać wskazaną kartę stwora z "
+"twojego cmentarza. Jeśli tak zrobisz, stwórz żeton będący kopią owej karty, "
+"ale jest on Duchem oprócz swoich innych typów. Wygnaj go na początku "
+"najbliższego kroku końcowego."
 
 #: ../../DKA.rst:124
 msgid ""
@@ -1523,6 +1529,8 @@ msgid ""
 "Flashback |mana_5|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej kort wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:512
 msgid ""

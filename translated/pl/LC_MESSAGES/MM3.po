@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 09:06+0000\n"
+"PO-Revision-Date: 2021-03-01 11:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -169,6 +169,8 @@ msgid ""
 "When target creature dies this turn, return that card to the battlefield "
 "under its owner's control."
 msgstr ""
+"Kiedy wskazany stwór umrze w tej turze, przywróć ową kartę na pole bitwy pod "
+"władaniem właściciela."
 
 #: ../../MM3.rst:52
 msgid ""
@@ -194,6 +196,9 @@ msgid ""
 "controls. That creature doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../MM3.rst:62
 msgid ""
@@ -207,6 +212,8 @@ msgid ""
 "When Kor Skyfisher enters the battlefield, return a permanent you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć permanent pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../MM3.rst:68
 msgid ""
@@ -217,13 +224,15 @@ msgstr ""
 
 #: ../../MM3.rst:65
 msgid "Create two 1/1 white Spirit creature tokens with flying."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
 
 #: ../../MM3.rst:67
 msgid ""
 "Flashback |mana_1|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_1|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:74
 msgid ""
@@ -249,7 +258,7 @@ msgstr ""
 
 #: ../../MM3.rst:77
 msgid "When Lone Missionary enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../MM3.rst:84
 msgid ""
@@ -322,10 +331,12 @@ msgid ""
 "If exactly one creature is attacking, you may pay |mana_w| rather than pay "
 "this spell's mana cost."
 msgstr ""
+"Jeśli dokładnie jeden stwór atakuje, możesz zapłacić |mana_w| zamiast płacić "
+"koszt many tego czaru."
 
 #: ../../MM3.rst:99
 msgid "Destroy target attacking creature without flying."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora nie mającego latania."
 
 #: ../../MM3.rst:104
 msgid ""
@@ -340,6 +351,9 @@ msgid ""
 "up to two creature cards with converted mana cost 1 or less, reveal them, "
 "and put them into your hand. If you do, shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"co najwyżej dwie karty stworów o skrótach many 1 lub mniejszych, ujawnij je "
+"i umieścić w twojej ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
 
 #: ../../MM3.rst:112
 msgid ""
@@ -391,6 +405,10 @@ msgid ""
 "it's a Spirit in addition to its other types. Exile it at the beginning of "
 "the next end step."
 msgstr ""
+"Na początku każdego kroku utrzymania, możesz wygnać wskazaną kartę stwora z "
+"twojego cmentarza. Jeśli tak zrobisz, stwórz żeton będący kopią owej karty, "
+"ale jest on Duchem oprócz swoich innych typów. Wygnaj go na początku "
+"najbliższego kroku końcowego."
 
 #: ../../MM3.rst:126
 msgid ""
@@ -404,10 +422,12 @@ msgid ""
 "When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem "
 "artifact creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Golem 3/3."
 
 #: ../../MM3.rst:125
 msgid "Golem creatures you control have vigilance."
-msgstr ""
+msgstr "Golemy pod twoim władaniem mają czujność."
 
 #: ../../MM3.rst:130
 msgid ""
@@ -538,6 +558,8 @@ msgid ""
 "Target player draws three cards. Then that player discards two cards unless "
 "they discard a land card."
 msgstr ""
+"Wskazany gracz dobiera trzy karty. Następnie ów gracz odrzuca dwie karty, "
+"chyba że odrzuci kartę lądu."
 
 #: ../../MM3.rst:176
 msgid ""
@@ -619,6 +641,8 @@ msgid ""
 "As an additional cost to cast this spell, return a creature you control to "
 "its owner's hand."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — przywróć stwora pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../MM3.rst:193
 msgid "Counter target spell."
@@ -636,6 +660,8 @@ msgid ""
 "Look at the top four cards of your library. Put one of them into your hand "
 "and the rest into your graveyard."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../MM3.rst:199
 msgid ""
@@ -673,6 +699,10 @@ msgid ""
 "them. Target opponent chooses two of those cards. Put the chosen cards into "
 "your graveyard and the rest into your hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej cztery karty o różnych nazwach i "
+"ujawnij je. Wskazany przeciwnik wybiera dwie z owych kart. Umieść wybrane "
+"karty w twoim cmentarzu, a pozostałe w twojej ręce. Następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../MM3.rst:214
 msgid ""
@@ -727,12 +757,16 @@ msgid ""
 "Search your library for an instant card or a card with flash, reveal it, and "
 "put it into your hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę sztuczki lub kartę z błyskiem, ujawnij ją "
+"i umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../MM3.rst:229
 msgid ""
 "Flashback |mana_5|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej kort wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MM3.rst:234
 msgid ""
@@ -759,6 +793,9 @@ msgid ""
 "other types and it has \"When this creature becomes the target of a spell or "
 "ability, sacrifice it.\""
 msgstr ""
+"Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia stwora na polu "
+"walki, ale jest Iluzją oprócz swoich innych typów i ma \"Kiedy ten stwór "
+"zostanie wskazany przez czar lub zdolność, poświęć go.\""
 
 #: ../../MM3.rst:242
 msgid ""
@@ -797,7 +834,7 @@ msgstr ""
 
 #: ../../MM3.rst:249
 msgid "Draw a card. Scry 2."
-msgstr ""
+msgstr "Dobierz kartę. Wróż 2."
 
 #: ../../MM3.rst:256
 msgid ""
@@ -888,6 +925,8 @@ msgid ""
 "When Venser, Shaper Savant enters the battlefield, return target spell or "
 "permanent to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany czar lub permanent "
+"do ręki właściciela."
 
 #: ../../MM3.rst:290
 msgid ""
@@ -920,10 +959,12 @@ msgid ""
 "When Wing Splicer enters the battlefield, create a 3/3 colorless Golem "
 "artifact creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Golem 3/3."
 
 #: ../../MM3.rst:295
 msgid "Golem creatures you control have flying."
-msgstr ""
+msgstr "Golemy pod twoim władaniem mają latanie."
 
 #: ../../MM3.rst:302
 msgid ""
@@ -950,7 +991,7 @@ msgstr ""
 msgid ""
 "Whenever Abyssal Specter deals damage to a player, that player discards a "
 "card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia, ów gracz odrzuca kartę."
 
 #: ../../MM3.rst:314
 msgid ""
@@ -980,6 +1021,9 @@ msgid ""
 "for a creature card and put that card into your graveyard. If you do, "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę stwora i umieścić ją w twoim cmentarzu. Jeśli tak zrobisz, przetasuj "
+"twoją bibliotekę."
 
 #: ../../MM3.rst:319 ../../MM3.rst:387
 msgid ""
@@ -1031,7 +1075,7 @@ msgstr ""
 
 #: ../../MM3.rst:335
 msgid "Each player discards three cards."
-msgstr ""
+msgstr "Każdy gracz odrzuca trzy karty."
 
 #: ../../MM3.rst:342
 msgid ""
@@ -1093,13 +1137,12 @@ msgid ""
 msgstr ""
 
 #: ../../MM3.rst:359
-#, fuzzy
-#| msgid "Whenever another creature enters the battlefield, you gain 1 life."
 msgid ""
 "Whenever another creature leaves the battlefield, you may have target player "
 "mill two cards."
 msgstr ""
-"Ilekroć stwór wejdzie na pole bitwy, możesz dołączyć do niego ten artefakt."
+"Ilekroć inny stwór opuści pole bitwy, możesz sprawić, że wskazany gracz "
+"zmieli dwie karty."
 
 #: ../../MM3.rst:361
 msgid ""
@@ -1185,6 +1228,7 @@ msgid ""
 "When Grixis Slavedriver leaves the battlefield, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../MM3.rst:392
 msgid ""
@@ -1198,6 +1242,8 @@ msgid ""
 "Target player reveals their hand. You choose a nonland card from it with "
 "converted mana cost 3 or less. That player discards that card."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej nielądową kartę o skrócie "
+"many 3 lub mniejszym. Ów gracz odrzuca ową kartę."
 
 #: ../../MM3.rst:400
 msgid ""
@@ -1208,17 +1254,19 @@ msgstr ""
 
 #: ../../MM3.rst:395
 msgid "+1: Each player discards a card."
-msgstr ""
+msgstr "+1: Każdy gracz odrzuca kartę."
 
 #: ../../MM3.rst:397
 msgid "−2: Target player sacrifices a creature."
-msgstr ""
+msgstr "–2: Wskazany gracz poświęca stwora."
 
 #: ../../MM3.rst:399
 msgid ""
 "−6: Separate all permanents target player controls into two piles. That "
 "player sacrifices all permanents in the pile of their choice."
 msgstr ""
+"–6: Rozdziel wszystkie permanenty pod władaniem wskazanego gracza na dwa "
+"stosy. Ów gracz poświęca wszystkie permanenty w wybranym przez siebie stosie."
 
 #: ../../MM3.rst:404
 msgid ""
@@ -1229,7 +1277,7 @@ msgstr ""
 
 #: ../../MM3.rst:403
 msgid "Target player discards X cards at random."
-msgstr ""
+msgstr "Wskazany gracz odrzuca X losowych kart."
 
 #: ../../MM3.rst:408
 msgid ""
@@ -1243,6 +1291,8 @@ msgid ""
 "Whenever a player sacrifices a creature, you may put a +1/+1 counter on "
 "Mortician Beetle."
 msgstr ""
+"Ilekroć gracz poświęca stwora, możesz umieścić znacznik +1/+1 na niniejszym "
+"stworze."
 
 #: ../../MM3.rst:412
 msgid ""
@@ -1256,6 +1306,8 @@ msgid ""
 "Target player reveals their hand. You choose a nonland card from it. Exile "
 "that card."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej nielądową kartę. Wygnaj "
+"ową kartę."
 
 #: ../../MM3.rst:418
 msgid ""
@@ -3470,7 +3522,7 @@ msgstr ""
 
 #: ../../MM3.rst:1173
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|, |mana_u|, lub |mana_b|."
 
 #: ../../MM3.rst:1178
 msgid ""
@@ -3698,7 +3750,7 @@ msgstr ""
 
 #: ../../MM3.rst:1259
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|, |mana_r|, lub |mana_g|."
 
 #: ../../MM3.rst:1264
 msgid ""
@@ -3727,7 +3779,7 @@ msgstr ""
 
 #: ../../MM3.rst:1269
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|, |mana_w|, lub |mana_u|."
 
 #: ../../MM3.rst:1276
 msgid ""

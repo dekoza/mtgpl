@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 09:06+0000\n"
+"PO-Revision-Date: 2021-03-01 11:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -919,6 +919,9 @@ msgid ""
 "spell during your main phase, instead that player draws four cards, then "
 "discards two cards."
 msgstr ""
+"Wskazany gracz dobiera cztery karty, następnie odrzuca trzy karty. Jeśli "
+"rzucasz ten czar w twojej fazie głównej, zamiast tego ów gracz dobiera "
+"cztery karty, następnie odrzuca dwie karty."
 
 #: ../../TSP.rst:328
 msgid ""
@@ -1014,6 +1017,8 @@ msgid ""
 "When Draining Whelk enters the battlefield, counter target spell. Put X +1/"
 "+1 counters on Draining Whelk, where X is that spell's converted mana cost."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, skontruj wskazany czar. Umieść X "
+"znaczników +1/+1 na tym stworze, gdzie X jest skrótem many owego czaru."
 
 #: ../../TSP.rst:362
 msgid ""
@@ -1040,6 +1045,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Drifter il-Dal unless you pay |"
 "mana_u|."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"zapłacisz |mana_u|."
 
 #: ../../TSP.rst:374
 msgid ""
@@ -1158,6 +1165,8 @@ msgid ""
 "Whenever Looter il-Kor deals damage to an opponent, draw a card, then "
 "discard a card."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia przeciwnikowi, dobierz kartę, następnie "
+"odrzuć kartę."
 
 #: ../../TSP.rst:420
 msgid ""
@@ -1197,12 +1206,16 @@ msgid ""
 "Search your library for an instant card or a card with flash, reveal it, and "
 "put it into your hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę sztuczki lub kartę z błyskiem, ujawnij ją "
+"i umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../TSP.rst:429
 msgid ""
 "Flashback |mana_5|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej kort wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../TSP.rst:438
 msgid ""
@@ -1339,6 +1352,8 @@ msgid ""
 "You may exile a blue card from your hand rather than pay this spell's mana "
 "cost."
 msgstr ""
+"Możesz wygnać niebieską kartę z twojej ręki zamiast płacić koszt many tego "
+"czaru."
 
 #: ../../TSP.rst:481
 msgid "Return target creature to its owner's hand."
@@ -1412,7 +1427,7 @@ msgstr ""
 
 #: ../../TSP.rst:515
 msgid "Creature cards you own that aren't on the battlefield have flash."
-msgstr ""
+msgstr "Twoje karty stworów nie będące na polu bitwy mają błysk."
 
 #: ../../TSP.rst:517
 msgid "Each opponent can cast spells only any time they could cast a sorcery."
@@ -1467,6 +1482,8 @@ msgid ""
 "|mana_u|, |tap|, Discard a card: Return target permanent you control to its "
 "owner's hand."
 msgstr ""
+"|mana_u|, |tap|, odrzuć kartę: Przywróć wskazany permanent pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../TSP.rst:544
 msgid ""
@@ -1570,6 +1587,9 @@ msgid ""
 "addition to any other costs as you cast this spell. If you do, put this card "
 "into your hand as it resolves.)"
 msgstr ""
+"Wykup—Poświęć trzy wyspy. (Rzucając ten czar możesz poświęcić trzy wyspy "
+"jako dodatek do innych kosztów. Jeśli tak zrobisz, umieść ją w twojej ręce "
+"podczas rozpatrzenia.)"
 
 #: ../../TSP.rst:573
 msgid "Target player takes an extra turn after this one."
@@ -2298,6 +2318,8 @@ msgid ""
 "Flashback |mana_1|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_1|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../TSP.rst:834
 msgid ""
@@ -3847,6 +3869,8 @@ msgid ""
 "If damage would be dealt to Dralnu, Lich Lord, sacrifice that many "
 "permanents instead."
 msgstr ""
+"Jeśli ten stwór miałby otrzymać obrażenia, zamiast tego poświęć tyle samo "
+"permanentów."
 
 #: ../../TSP.rst:1393
 msgid ""

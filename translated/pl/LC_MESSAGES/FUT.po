@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 09:06+0000\n"
+"PO-Revision-Date: 2021-03-01 11:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -579,6 +579,9 @@ msgid ""
 "named Cloud Sprite. It has flying and \"Cloud Sprite can block only "
 "creatures with flying.\""
 msgstr ""
+"|mana_u|, |tap|, odrzuć kartę: Stwórz żeton niebieskiego stwora Wróżka 1/1 o "
+"nazwie Cloud Sprite. Ma on latanie i \"Ten stwór może blokować tylko stwory "
+"z lataniem.\""
 
 #: ../../FUT.rst:196
 msgid ""
@@ -593,6 +596,10 @@ msgid ""
 "3. (To scry X, look at the top X cards of your library, then put any number "
 "of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 1, następnie wróż 2, następnie "
+"wróż 3. (By wróżyć X, spójrz na X wierzchnich kart twojej biblioteki, "
+"następnie umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
+"jej wierzchu w dowolnej kolejności.)"
 
 #: ../../FUT.rst:200
 msgid ""
@@ -630,6 +637,10 @@ msgid ""
 "library, then put any number of them on the bottom of your library and the "
 "rest on top in any order.)"
 msgstr ""
+"Wróż 4, następnie dobierz dwie karty. (By wróżyć 4, spójrz na cztery "
+"wierzchnie karty twojej biblioteki, następnie umieść dowolne z nich na "
+"spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../FUT.rst:210
 msgid ""
@@ -812,6 +823,8 @@ msgid ""
 "When Venser, Shaper Savant enters the battlefield, return target spell or "
 "permanent to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany czar lub permanent "
+"do ręki właściciela."
 
 #: ../../FUT.rst:274
 msgid ""
@@ -952,11 +965,11 @@ msgstr ""
 
 #: ../../FUT.rst:321
 msgid "|mana_2|: Sarcomite Myr gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../FUT.rst:323
 msgid "|mana_2|, Sacrifice Sarcomite Myr: Draw a card."
-msgstr ""
+msgstr "|mana_2|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../FUT.rst:332
 msgid ""

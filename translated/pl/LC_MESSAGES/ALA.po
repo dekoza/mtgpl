@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 11:32+0000\n"
+"PO-Revision-Date: 2021-03-01 11:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../ALA.rst:5
@@ -345,6 +345,9 @@ msgid ""
 "up to two creature cards with converted mana cost 1 or less, reveal them, "
 "and put them into your hand. If you do, shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"co najwyżej dwie karty stworów o skrótach many 1 lub mniejszych, ujawnij je "
+"i umieścić w twojej ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
 
 #: ../../ALA.rst:122
 msgid ""
@@ -1006,6 +1009,9 @@ msgid ""
 "for a creature card and put that card into your graveyard. If you do, "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę stwora i umieścić ją w twoim cmentarzu. Jeśli tak zrobisz, przetasuj "
+"twoją bibliotekę."
 
 #: ../../ALA.rst:355
 msgid ""
@@ -3017,7 +3023,7 @@ msgstr ""
 
 #: ../../ALA.rst:1119 ../../ALA.rst:1217
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|, |mana_w|, lub |mana_u|."
 
 #: ../../ALA.rst:1124
 msgid ""
@@ -3028,7 +3034,7 @@ msgstr ""
 
 #: ../../ALA.rst:1123 ../../ALA.rst:1163
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|, |mana_u|, lub |mana_b|."
 
 #: ../../ALA.rst:1128
 msgid ""
@@ -3050,7 +3056,7 @@ msgstr ""
 
 #: ../../ALA.rst:1131 ../../ALA.rst:1211
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|, |mana_r|, lub |mana_g|."
 
 #: ../../ALA.rst:1136
 msgid ""

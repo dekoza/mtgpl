@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-26 08:36+0000\n"
+"PO-Revision-Date: 2021-03-01 11:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
 "Language: pl\n"
@@ -666,12 +666,12 @@ msgid ""
 msgstr ""
 
 #: ../../CON.rst:233
-#, fuzzy
 msgid ""
 "Whenever another creature leaves the battlefield, you may have target player "
 "mill two cards."
 msgstr ""
-"Ilekroć stwór wejdzie na pole bitwy, możesz dołączyć do niego ten artefakt."
+"Ilekroć inny stwór opuści pole bitwy, możesz sprawić, że wskazany gracz "
+"zmieli dwie karty."
 
 #: ../../CON.rst:235
 msgid ""
@@ -712,6 +712,7 @@ msgid ""
 "When Grixis Slavedriver leaves the battlefield, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../CON.rst:245
 msgid ""
@@ -1304,7 +1305,7 @@ msgstr ""
 
 #: ../../CON.rst:457
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|, |mana_w|, lub |mana_u|."
 
 #: ../../CON.rst:462
 msgid ""

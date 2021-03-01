@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-28 23:12+0100\n"
-"PO-Revision-Date: 2021-03-01 09:06+0000\n"
+"PO-Revision-Date: 2021-03-01 11:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -858,6 +858,9 @@ msgid ""
 "spell during your main phase, instead that player draws four cards, then "
 "discards two cards."
 msgstr ""
+"Wskazany gracz dobiera cztery karty, następnie odrzuca trzy karty. Jeśli "
+"rzucasz ten czar w twojej fazie głównej, zamiast tego ów gracz dobiera "
+"cztery karty, następnie odrzuca dwie karty."
 
 #: ../../TSR.rst:282
 msgid ""
@@ -872,6 +875,9 @@ msgid ""
 "named Cloud Sprite. It has flying and \"Cloud Sprite can block only "
 "creatures with flying.\""
 msgstr ""
+"|mana_u|, |tap|, odrzuć kartę: Stwórz żeton niebieskiego stwora Wróżka 1/1 o "
+"nazwie Cloud Sprite. Ma on latanie i \"Ten stwór może blokować tylko stwory "
+"z lataniem.\""
 
 #: ../../TSR.rst:288
 msgid ""
@@ -907,6 +913,10 @@ msgid ""
 "3. (To scry X, look at the top X cards of your library, then put any number "
 "of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 1, następnie wróż 2, następnie "
+"wróż 3. (By wróżyć X, spójrz na X wierzchnich kart twojej biblioteki, "
+"następnie umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
+"jej wierzchu w dowolnej kolejności.)"
 
 #: ../../TSR.rst:296
 msgid ""
@@ -943,6 +953,8 @@ msgid ""
 "When Draining Whelk enters the battlefield, counter target spell. Put X +1/"
 "+1 counters on Draining Whelk, where X is that spell's converted mana cost."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, skontruj wskazany czar. Umieść X "
+"znaczników +1/+1 na tym stworze, gdzie X jest skrótem many owego czaru."
 
 #: ../../TSR.rst:310
 msgid ""
@@ -962,6 +974,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Drifter il-Dal unless you pay |"
 "mana_u|."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"zapłacisz |mana_u|."
 
 #: ../../TSR.rst:314
 msgid ""
@@ -977,6 +991,10 @@ msgid ""
 "is that card's converted mana cost. Put all cards revealed this way on the "
 "bottom of your library in any order."
 msgstr ""
+"Wskaż stwora. Ujawnij karty z wierzchu twojej biblioteki dopóki nie ujawnisz "
+"nielądowej karty. Ów stwór dostaje do końca tury +X/-X, gdzie X jest skrótem "
+"many owej karty. Umieść wszystkie karty ujawnione w ten sposób dowolnie na "
+"spodzie twojej biblioteki."
 
 #: ../../TSR.rst:320
 msgid ""
@@ -1009,6 +1027,10 @@ msgid ""
 "library, then put any number of them on the bottom of your library and the "
 "rest on top in any order.)"
 msgstr ""
+"Wróż 4, następnie dobierz dwie karty. (By wróżyć 4, spójrz na cztery "
+"wierzchnie karty twojej biblioteki, następnie umieść dowolne z nich na "
+"spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../TSR.rst:330
 msgid ""
@@ -1021,7 +1043,7 @@ msgstr ""
 msgid ""
 "When Gossamer Phantasm becomes the target of a spell or ability, sacrifice "
 "it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../TSR.rst:336
 msgid ""
@@ -1074,6 +1096,8 @@ msgid ""
 "Whenever Looter il-Kor deals damage to an opponent, draw a card, then "
 "discard a card."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia przeciwnikowi, dobierz kartę, następnie "
+"odrzuć kartę."
 
 #: ../../TSR.rst:354
 msgid ""
@@ -1102,12 +1126,16 @@ msgid ""
 "Search your library for an instant card or a card with flash, reveal it, and "
 "put it into your hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę sztuczki lub kartę z błyskiem, ujawnij ją "
+"i umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:359
 msgid ""
 "Flashback |mana_5|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej kort wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../TSR.rst:366
 msgid ""
@@ -1140,10 +1168,12 @@ msgid ""
 "Target creature gains islandwalk until end of turn. (It can't be blocked as "
 "long as defending player controls an Island.)"
 msgstr ""
+"Wskazany stwór zyskuje do końca tury podbój wysp. (Nie może być blokowany o "
+"ile broniący się gracz włada Wyspą.)"
 
 #: ../../TSR.rst:373
 msgid "Target creature gets +2/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/-1."
 
 #: ../../TSR.rst:375
 msgid "Target player discards a card."
@@ -1161,6 +1191,8 @@ msgid ""
 "Destroy target creature. It can't be regenerated. Its controller creates a "
 "3/3 green Ape creature token."
 msgstr ""
+"Zniszcz wskazanego stwora. Nie może być regenerowany. Jego władca tworzy "
+"żeton zielonego stwora Małpa 3/3."
 
 #: ../../TSR.rst:386
 msgid ""
@@ -1174,6 +1206,7 @@ msgid ""
 "Whenever Riptide Pilferer deals combat damage to a player, that player "
 "discards a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
 
 #: ../../TSR.rst:392
 msgid ""
@@ -1184,11 +1217,11 @@ msgstr ""
 
 #: ../../TSR.rst:389
 msgid "|mana_2|: Sarcomite Myr gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../TSR.rst:391
 msgid "|mana_2|, Sacrifice Sarcomite Myr: Draw a card."
-msgstr ""
+msgstr "|mana_2|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../TSR.rst:398
 msgid ""
@@ -1223,6 +1256,8 @@ msgid ""
 "You may exile a blue card from your hand rather than pay this spell's mana "
 "cost."
 msgstr ""
+"Możesz wygnać niebieską kartę z twojej ręki zamiast płacić koszt many tego "
+"czaru."
 
 #: ../../TSR.rst:403 ../../TSR.rst:601
 msgid "Return target creature to its owner's hand."
@@ -1271,7 +1306,7 @@ msgstr ""
 
 #: ../../TSR.rst:421
 msgid "Creature cards you own that aren't on the battlefield have flash."
-msgstr ""
+msgstr "Twoje karty stworów nie będące na polu bitwy mają błysk."
 
 #: ../../TSR.rst:423
 msgid "Each opponent can cast spells only any time they could cast a sorcery."
@@ -1309,6 +1344,8 @@ msgid ""
 "|mana_u|, |tap|, Discard a card: Return target permanent you control to its "
 "owner's hand."
 msgstr ""
+"|mana_u|, |tap|, odrzuć kartę: Przywróć wskazany permanent pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../TSR.rst:442
 msgid ""
@@ -1322,6 +1359,8 @@ msgid ""
 "When Venser, Shaper Savant enters the battlefield, return target spell or "
 "permanent to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany czar lub permanent "
+"do ręki właściciela."
 
 #: ../../TSR.rst:448
 msgid ""
@@ -1358,6 +1397,9 @@ msgid ""
 "addition to any other costs as you cast this spell. If you do, put this card "
 "into your hand as it resolves.)"
 msgstr ""
+"Wykup—Poświęć trzy wyspy. (Rzucając ten czar możesz poświęcić trzy wyspy "
+"jako dodatek do innych kosztów. Jeśli tak zrobisz, umieść ją w twojej ręce "
+"podczas rozpatrzenia.)"
 
 #: ../../TSR.rst:453
 msgid "Target player takes an extra turn after this one."
@@ -1386,6 +1428,8 @@ msgid ""
 "If damage would be dealt to Dralnu, Lich Lord, sacrifice that many "
 "permanents instead."
 msgstr ""
+"Jeśli ten stwór miałby otrzymać obrażenia, zamiast tego poświęć tyle samo "
+"permanentów."
 
 #: ../../TSR.rst:465
 msgid ""
@@ -1535,13 +1579,15 @@ msgstr ""
 
 #: ../../TSR.rst:515
 msgid "Create two 1/1 white Spirit creature tokens with flying."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
 
 #: ../../TSR.rst:517
 msgid ""
 "Flashback |mana_1|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_1|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../TSR.rst:524
 msgid ""
