@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-28 23:12+0100\n"
+"POT-Creation-Date: 2021-03-02 00:31+0100\n"
 "PO-Revision-Date: 2021-03-01 14:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
@@ -29,7 +29,7 @@ msgid ""
 "scryfall.com/card/tsr/1/amrou-scout?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:9
+#: ../../TSR.rst:9 ../../TSR.rst:495
 msgid ""
 "|mana_4|, |tap|: Search your library for a Rebel permanent card with "
 "converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
@@ -73,8 +73,9 @@ msgstr ""
 
 #: ../../TSR.rst:19 ../../TSR.rst:33 ../../TSR.rst:39 ../../TSR.rst:69
 #: ../../TSR.rst:209 ../../TSR.rst:221 ../../TSR.rst:229 ../../TSR.rst:279
-#: ../../TSR.rst:301 ../../TSR.rst:327 ../../TSR.rst:413 ../../TSR.rst:433
-#: ../../TSR.rst:505 ../../TSR.rst:539 ../../TSR.rst:589
+#: ../../TSR.rst:293 ../../TSR.rst:309 ../../TSR.rst:339 ../../TSR.rst:433
+#: ../../TSR.rst:453 ../../TSR.rst:623 ../../TSR.rst:673 ../../TSR.rst:729
+#: ../../TSR.rst:763 ../../TSR.rst:813
 msgid "Flying"
 msgstr "Latanie"
 
@@ -95,7 +96,8 @@ msgid ""
 "https://scryfall.com/card/tsr/4/angels-grace?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:25 ../../TSR.rst:67 ../../TSR.rst:457
+#: ../../TSR.rst:25 ../../TSR.rst:67 ../../TSR.rst:477 ../../TSR.rst:547
+#: ../../TSR.rst:657 ../../TSR.rst:663
 msgid ""
 "Split second (As long as this spell is on the stack, players can't cast "
 "spells or activate abilities that aren't mana abilities.)"
@@ -120,7 +122,7 @@ msgid ""
 "https://scryfall.com/card/tsr/5/aven-mindcensor?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:31 ../../TSR.rst:439 ../../TSR.rst:493 ../../TSR.rst:537
+#: ../../TSR.rst:31 ../../TSR.rst:459 ../../TSR.rst:717 ../../TSR.rst:761
 msgid "Flash"
 msgstr "Błysk"
 
@@ -180,10 +182,10 @@ msgid ""
 "cost. It has haste.)"
 msgstr ""
 "Zawieszenie X—|mana_x|\\ |mana_w|\\ |mana_w|. X nie może być 0. (Zamiast "
-"rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_w|\\ |mana_w|"
-" i wygnaj ją z X znacznikami czasu. Na początku twojego kroku utrzymania, "
-"usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją "
-"bez płacenia kosztu many. Ma pośpiech.)"
+"rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_w|\\ |"
+"mana_w| i wygnaj ją z X znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../TSR.rst:51
 msgid ""
@@ -208,7 +210,8 @@ msgid ""
 "https://scryfall.com/card/tsr/10/bound-in-silence?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:59 ../../TSR.rst:97 ../../TSR.rst:243 ../../TSR.rst:499
+#: ../../TSR.rst:59 ../../TSR.rst:97 ../../TSR.rst:243 ../../TSR.rst:539
+#: ../../TSR.rst:563 ../../TSR.rst:723
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
@@ -223,8 +226,8 @@ msgid ""
 "https://scryfall.com/card/tsr/13/celestial-crusader?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:65 ../../TSR.rst:219 ../../TSR.rst:241 ../../TSR.rst:299
-#: ../../TSR.rst:419
+#: ../../TSR.rst:65 ../../TSR.rst:219 ../../TSR.rst:241 ../../TSR.rst:291
+#: ../../TSR.rst:307 ../../TSR.rst:439 ../../TSR.rst:561
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
@@ -278,7 +281,7 @@ msgid ""
 "scryfall.com/card/tsr/18/fortify?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:89 ../../TSR.rst:369
+#: ../../TSR.rst:89 ../../TSR.rst:381
 msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
@@ -571,9 +574,9 @@ msgid ""
 "remove a time counter. When the last is removed, cast it without paying its "
 "mana cost.)"
 msgstr ""
-"Zawieszenie 6—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
-"|mana_w| i wygnaj ją z sześcioma znacznikami czasu. Na początku twojego "
-"kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"Zawieszenie 6—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
+"mana_w| i wygnaj ją z sześcioma znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
 "usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../TSR.rst:183
@@ -785,7 +788,8 @@ msgstr ""
 msgid ""
 "Aeon Chronicler's power and toughness are each equal to the number of cards "
 "in your hand."
-msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
+msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../TSR.rst:257
 msgid ""
@@ -796,10 +800,10 @@ msgid ""
 "cost. It has haste.)"
 msgstr ""
 "Zawieszenie X—|mana_x|\\ |mana_3|\\ |mana_u|. X nie może być 0. (Zamiast "
-"rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_3|\\ |mana_u|"
-" i wygnaj ją z X znacznikami czasu. Na początku twojego kroku utrzymania, "
-"usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją "
-"bez płacenia kosztu many. Ma pośpiech.)"
+"rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_3|\\ |"
+"mana_u| i wygnaj ją z X znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../TSR.rst:259
 msgid ""
@@ -836,8 +840,8 @@ msgid ""
 "Morph |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za "
-"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+"Przemiana |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |"
+"mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSR.rst:271
 msgid ""
@@ -886,13 +890,13 @@ msgid ""
 "https://scryfall.com/card/tsr/58/coral-trickster?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:285 ../../TSR.rst:385
+#: ../../TSR.rst:285 ../../TSR.rst:405
 msgid ""
 "Morph |mana_u| (You may cast this card face down as a 2/2 creature for |"
 "mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/"
-"2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+"Przemiana |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora "
+"2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSR.rst:287
 msgid ""
@@ -900,14 +904,33 @@ msgid ""
 "permanent."
 msgstr ""
 
-#: ../../TSR.rst:292
+#: ../../TSR.rst:296
+msgid ""
+":mtgtip:`Crookclaw Transmuter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/b/aba5f411-668b-4344-be2f-c8f6cc3255e8.jpg?1614622940|"
+"https://scryfall.com/card/tsr/59/crookclaw-transmuter?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:295
+#, fuzzy
+#| msgid ""
+#| "When Stonecloaker enters the battlefield, return a creature you control "
+#| "to its owner's hand."
+msgid ""
+"When Crookclaw Transmuter enters the battlefield, switch target creature's "
+"power and toughness until end of turn."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
+"do ręki właściciela."
+
+#: ../../TSR.rst:300
 msgid ""
 ":mtgtip:`Cryptic Annelid<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/3/5377e2d9-a846-4533-aeaf-9144ca8765da.jpg?1614362566|"
 "https://scryfall.com/card/tsr/60/cryptic-annelid?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:291
+#: ../../TSR.rst:299
 msgid ""
 "When Cryptic Annelid enters the battlefield, scry 1, then scry 2, then scry "
 "3. (To scry X, look at the top X cards of your library, then put any number "
@@ -918,14 +941,14 @@ msgstr ""
 "następnie umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
 "jej wierzchu w dowolnej kolejności.)"
 
-#: ../../TSR.rst:296
+#: ../../TSR.rst:304
 msgid ""
 ":mtgtip:`Delay<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/9/3906d538-f1ca-4799-b91c-2e0d2934f241.jpg?1614359744|https://"
 "scryfall.com/card/tsr/61/delay?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:295
+#: ../../TSR.rst:303
 msgid ""
 "Counter target spell. If the spell is countered this way, exile it with "
 "three time counters on it instead of putting it into its owner's graveyard. "
@@ -941,14 +964,14 @@ msgstr ""
 "ostatni znacznik czasu zostanie usunięty, ów gracz rzuca ją bez płacenia "
 "kosztu many. Jeśli jest stworem, ma pośpiech.)"
 
-#: ../../TSR.rst:304
+#: ../../TSR.rst:312
 msgid ""
 ":mtgtip:`Draining Whelk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/1/51eca246-591e-4ea8-8432-9f4c1f16a65e.jpg?1614359914|"
 "https://scryfall.com/card/tsr/62/draining-whelk?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:303
+#: ../../TSR.rst:311
 msgid ""
 "When Draining Whelk enters the battlefield, counter target spell. Put X +1/"
 "+1 counters on Draining Whelk, where X is that spell's converted mana cost."
@@ -956,20 +979,40 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, skontruj wskazany czar. Umieść X "
 "znaczników +1/+1 na tym stworze, gdzie X jest skrótem many owego czaru."
 
-#: ../../TSR.rst:310
+#: ../../TSR.rst:316
+msgid ""
+":mtgtip:`Dream Stalker<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/5/e59b4729-74c1-4aa9-937d-27cda960f157.jpg?1614622965|"
+"https://scryfall.com/card/tsr/63/dream-stalker?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:315
+#, fuzzy
+#| msgid ""
+#| "When Stonecloaker enters the battlefield, return a creature you control "
+#| "to its owner's hand."
+msgid ""
+"When Dream Stalker enters the battlefield, return a permanent you control to "
+"its owner's hand."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
+"do ręki właściciela."
+
+#: ../../TSR.rst:322
 msgid ""
 ":mtgtip:`Drifter il-Dal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/4/d40c45e7-f157-4b3f-a627-09b5c27473ae.jpg?1614360943|"
 "https://scryfall.com/card/tsr/65/drifter-il-dal?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:307 ../../TSR.rst:333 ../../TSR.rst:345
+#: ../../TSR.rst:319 ../../TSR.rst:345 ../../TSR.rst:357 ../../TSR.rst:553
+#: ../../TSR.rst:601 ../../TSR.rst:651
 msgid ""
 "Shadow (This creature can block or be blocked by only creatures with shadow.)"
 msgstr ""
 "Cień (Ten stwór może blokować i być blokowany tylko przez stwory z cieniem.)"
 
-#: ../../TSR.rst:309
+#: ../../TSR.rst:321
 msgid ""
 "At the beginning of your upkeep, sacrifice Drifter il-Dal unless you pay |"
 "mana_u|."
@@ -977,14 +1020,14 @@ msgstr ""
 "Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
 "zapłacisz |mana_u|."
 
-#: ../../TSR.rst:314
+#: ../../TSR.rst:326
 msgid ""
 ":mtgtip:`Erratic Mutation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/a/3ac93762-9377-49c3-9593-6d02bfb66903.jpg?1614361309|"
 "https://scryfall.com/card/tsr/67/erratic-mutation?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:313
+#: ../../TSR.rst:325
 msgid ""
 "Choose target creature. Reveal cards from the top of your library until you "
 "reveal a nonland card. That creature gets +X/-X until end of turn, where X "
@@ -996,32 +1039,32 @@ msgstr ""
 "many owej karty. Umieść wszystkie karty ujawnione w ten sposób dowolnie na "
 "spodzie twojej biblioteki."
 
-#: ../../TSR.rst:320
+#: ../../TSR.rst:332
 msgid ""
 ":mtgtip:`Fathom Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/c/6c0f831e-2eb0-499f-9502-418c04ac34a0.jpg?1614360535|https://"
 "scryfall.com/card/tsr/68/fathom-seer?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:317
+#: ../../TSR.rst:329
 msgid ""
 "Morph—Return two Islands you control to their owner's hand. (You may cast "
 "this card face down as a 2/2 creature for |mana_3|. Turn it face up any time "
 "for its morph cost.)"
 msgstr ""
 
-#: ../../TSR.rst:319
+#: ../../TSR.rst:331
 msgid "When Fathom Seer is turned face up, draw two cards."
 msgstr ""
 
-#: ../../TSR.rst:324
+#: ../../TSR.rst:336
 msgid ""
 ":mtgtip:`Foresee<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/e/2ecf2ee8-6b93-4757-89c4-f1e76509a217.jpg?1614360071|https://"
 "scryfall.com/card/tsr/69/foresee?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:323
+#: ../../TSR.rst:335
 msgid ""
 "Scry 4, then draw two cards. (To scry 4, look at the top four cards of your "
 "library, then put any number of them on the bottom of your library and the "
@@ -1032,27 +1075,27 @@ msgstr ""
 "spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
 "kolejności.)"
 
-#: ../../TSR.rst:330
+#: ../../TSR.rst:342
 msgid ""
 ":mtgtip:`Gossamer Phantasm<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/f/bf05ed80-8abf-4c2c-97d7-a96961c35f35.jpg?1614360370|"
 "https://scryfall.com/card/tsr/70/gossamer-phantasm?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:329
+#: ../../TSR.rst:341
 msgid ""
 "When Gossamer Phantasm becomes the target of a spell or ability, sacrifice "
 "it."
 msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
-#: ../../TSR.rst:336
+#: ../../TSR.rst:348
 msgid ""
 ":mtgtip:`Infiltrator il-Kor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/3/c3ab190b-c96f-4b00-8e97-33a11bb2ed08.jpg?1614360963|"
 "https://scryfall.com/card/tsr/71/infiltrator-il-kor?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:335
+#: ../../TSR.rst:347
 msgid ""
 "Suspend 2—|mana_1|\\ |mana_u| (Rather than cast this card from your hand, "
 "you may pay |mana_1|\\ |mana_u| and exile it with two time counters on it. "
@@ -1065,14 +1108,15 @@ msgstr ""
 "znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma "
 "pośpiech.)"
 
-#: ../../TSR.rst:342
+#: ../../TSR.rst:354
 msgid ""
 ":mtgtip:`Logic Knot<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/2/624feb0e-f683-4eb6-a63b-7872d0e28f1f.jpg?1614359793|https://"
 "scryfall.com/card/tsr/73/logic-knot?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:339 ../../TSR.rst:639
+#: ../../TSR.rst:351 ../../TSR.rst:675 ../../TSR.rst:863 ../../TSR.rst:885
+#: ../../TSR.rst:945
 msgid ""
 "Delve (Each card you exile from your graveyard while casting this spell pays "
 "for |mana_1|.)"
@@ -1080,18 +1124,18 @@ msgstr ""
 "Wykopywanie (Każda karta, którą wygnasz z twojego cmentarza podczas rzucania "
 "tego czaru opłaca |mana_1|.)"
 
-#: ../../TSR.rst:341
+#: ../../TSR.rst:353
 msgid "Counter target spell unless its controller pays |mana_x|."
 msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|."
 
-#: ../../TSR.rst:348
+#: ../../TSR.rst:360
 msgid ""
 ":mtgtip:`Looter il-Kor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/d/0d891cb5-c575-4c63-b053-a2315947c3e0.jpg?1614361009|"
 "https://scryfall.com/card/tsr/74/looter-il-kor?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:347
+#: ../../TSR.rst:359
 msgid ""
 "Whenever Looter il-Kor deals damage to an opponent, draw a card, then "
 "discard a card."
@@ -1099,29 +1143,29 @@ msgstr ""
 "Ilekroć ten stwór zada obrażenia przeciwnikowi, dobierz kartę, następnie "
 "odrzuć kartę."
 
-#: ../../TSR.rst:354
+#: ../../TSR.rst:366
 msgid ""
 ":mtgtip:`Magus of the Future<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/7/27ba1ea5-c861-4bb4-a681-fc0633268bd9.jpg?1614361105|"
 "https://scryfall.com/card/tsr/75/magus-of-the-future?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:351
+#: ../../TSR.rst:363
 msgid "Play with the top card of your library revealed."
 msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
-#: ../../TSR.rst:353
+#: ../../TSR.rst:365
 msgid "You may play lands and cast spells from the top of your library."
 msgstr "Możesz zagrywać lądy i rzucać czary z wierzchu twojej biblioteki."
 
-#: ../../TSR.rst:360
+#: ../../TSR.rst:372
 msgid ""
 ":mtgtip:`Mystical Teachings<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/7/f7cb51cd-8418-43ee-bf4f-6b959cc5b131.jpg?1614389983|"
 "https://scryfall.com/card/tsr/76/mystical-teachings?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:357
+#: ../../TSR.rst:369
 msgid ""
 "Search your library for an instant card or a card with flash, reveal it, and "
 "put it into your hand. Then shuffle your library."
@@ -1129,7 +1173,7 @@ msgstr ""
 "Wyszukaj w twojej bibliotece kartę sztuczki lub kartę z błyskiem, ujawnij ją "
 "i umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
-#: ../../TSR.rst:359
+#: ../../TSR.rst:371
 msgid ""
 "Flashback |mana_5|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
@@ -1137,18 +1181,18 @@ msgstr ""
 "Wspomnienie |mana_5|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
 "za jej kort wspomnienia. Następnie wygnaj ją.)"
 
-#: ../../TSR.rst:366
+#: ../../TSR.rst:378
 msgid ""
 ":mtgtip:`Pact of Negation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/e/1ed4c0bb-b710-44a1-b8bc-6bd11c27b8b8.jpg?1614360286|"
 "https://scryfall.com/card/tsr/77/pact-of-negation?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:363
+#: ../../TSR.rst:375
 msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
-#: ../../TSR.rst:365
+#: ../../TSR.rst:377
 msgid ""
 "At the beginning of your next upkeep, pay |mana_3|\\ |mana_u|\\ |mana_u|. If "
 "you don't, you lose the game."
@@ -1156,14 +1200,14 @@ msgstr ""
 "Na początku twojego najbliższego kroku utrzymania, zapłać |mana_3|\\ |mana_u|"
 "\\ |mana_u|. Jeśli tego nie zrobisz, przegrywasz grę."
 
-#: ../../TSR.rst:376
+#: ../../TSR.rst:388
 msgid ""
 ":mtgtip:`Piracy Charm<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9cb19ac2-edf9-4f9a-b9ba-2a33ba96a4d8.jpg?1614361278|"
 "https://scryfall.com/card/tsr/78/piracy-charm?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:371
+#: ../../TSR.rst:383
 msgid ""
 "Target creature gains islandwalk until end of turn. (It can't be blocked as "
 "long as defending player controls an Island.)"
@@ -1171,22 +1215,22 @@ msgstr ""
 "Wskazany stwór zyskuje do końca tury podbój wysp. (Nie może być blokowany o "
 "ile broniący się gracz włada Wyspą.)"
 
-#: ../../TSR.rst:373
+#: ../../TSR.rst:385
 msgid "Target creature gets +2/-1 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +2/-1."
 
-#: ../../TSR.rst:375
+#: ../../TSR.rst:387
 msgid "Target player discards a card."
 msgstr "Wskazany gracz odrzuca kartę."
 
-#: ../../TSR.rst:380
+#: ../../TSR.rst:392
 msgid ""
 ":mtgtip:`Pongify<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/1/a1501dea-4e0e-49b0-86b5-e8a01f77077d.jpg?1614360111|https://"
 "scryfall.com/card/tsr/79/pongify?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:379
+#: ../../TSR.rst:391
 msgid ""
 "Destroy target creature. It can't be regenerated. Its controller creates a "
 "3/3 green Ape creature token."
@@ -1194,43 +1238,77 @@ msgstr ""
 "Zniszcz wskazanego stwora. Nie może być regenerowany. Jego władca tworzy "
 "żeton zielonego stwora Małpa 3/3."
 
-#: ../../TSR.rst:386
+#: ../../TSR.rst:400
+msgid ""
+":mtgtip:`Reality Acid<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/8/a8510381-e05c-4cc4-98aa-c9327e18ec02.jpg?1614622998|"
+"https://scryfall.com/card/tsr/81/reality-acid?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:395
+#, fuzzy
+#| msgid "Enchant creature"
+msgid "Enchant permanent"
+msgstr "Zaurocz stwora"
+
+#: ../../TSR.rst:397
+#, fuzzy
+#| msgid ""
+#| "Vanishing 3 (This creature enters the battlefield with three time "
+#| "counters on it. At the beginning of your upkeep, remove a time counter "
+#| "from it. When the last is removed, sacrifice it.)"
+msgid ""
+"Vanishing 3 (This Aura enters the battlefield with three time counters on "
+"it. At the beginning of your upkeep, remove a time counter from it. When the "
+"last is removed, sacrifice it.)"
+msgstr ""
+"Zanikanie 3 (Ten stwór wchodzi na pole bitwy z trzema znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń z niego znacznik czasu. Kiedy "
+"zostanie usunięty ostatnie, poświęć go.)"
+
+#: ../../TSR.rst:399
+msgid ""
+"When Reality Acid leaves the battlefield, enchanted permanent's controller "
+"sacrifices it."
+msgstr ""
+
+#: ../../TSR.rst:406
 msgid ""
 ":mtgtip:`Riptide Pilferer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/5/b5fb9744-79cc-48d6-9e3b-f16073dde1e4.jpg?1614360570|"
 "https://scryfall.com/card/tsr/83/riptide-pilferer?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:383
+#: ../../TSR.rst:403
 msgid ""
 "Whenever Riptide Pilferer deals combat damage to a player, that player "
 "discards a card."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
 
-#: ../../TSR.rst:392
+#: ../../TSR.rst:412
 msgid ""
 ":mtgtip:`Sarcomite Myr<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/6/8636ba4f-07ef-4327-8e4a-6c2d8f90b264.jpg?1614360224|"
 "https://scryfall.com/card/tsr/84/sarcomite-myr?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:389
+#: ../../TSR.rst:409
 msgid "|mana_2|: Sarcomite Myr gains flying until end of turn."
 msgstr "|mana_2|: Ten stwór zyskuje do końca tury latanie."
 
-#: ../../TSR.rst:391
+#: ../../TSR.rst:411
 msgid "|mana_2|, Sacrifice Sarcomite Myr: Draw a card."
 msgstr "|mana_2|, poświęć tego stwora: Dobierz kartę."
 
-#: ../../TSR.rst:398
+#: ../../TSR.rst:418
 msgid ""
 ":mtgtip:`Shaper Parasite<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/0/d0bc15d7-9e3f-4293-978e-809a6a5b9aa0.jpg?1614361147|"
 "https://scryfall.com/card/tsr/85/shaper-parasite?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:395
+#: ../../TSR.rst:415
 msgid ""
 "Morph |mana_2|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
@@ -1238,20 +1316,20 @@ msgstr ""
 "Przemiana |mana_2|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
 "jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
-#: ../../TSR.rst:397
+#: ../../TSR.rst:417
 msgid ""
 "When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 "
 "until end of turn."
 msgstr ""
 
-#: ../../TSR.rst:404
+#: ../../TSR.rst:424
 msgid ""
 ":mtgtip:`Snapback<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/6/367d46d1-fa7a-403d-8949-b478a1f83f46.jpg?1614359988|https://"
 "scryfall.com/card/tsr/87/snapback?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:401
+#: ../../TSR.rst:421
 msgid ""
 "You may exile a blue card from your hand rather than pay this spell's mana "
 "cost."
@@ -1259,18 +1337,18 @@ msgstr ""
 "Możesz wygnać niebieską kartę z twojej ręki zamiast płacić koszt many tego "
 "czaru."
 
-#: ../../TSR.rst:403 ../../TSR.rst:601
+#: ../../TSR.rst:423 ../../TSR.rst:825
 msgid "Return target creature to its owner's hand."
 msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
-#: ../../TSR.rst:410
+#: ../../TSR.rst:430
 msgid ""
 ":mtgtip:`Spell Burst<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/1/8169929c-641f-41c8-a48e-1a7d0c57726b.jpg?1614359958|https://"
 "scryfall.com/card/tsr/88/spell-burst?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:407
+#: ../../TSR.rst:427
 msgid ""
 "Buyback |mana_3| (You may pay an additional |mana_3| as you cast this spell. "
 "If you do, put this card into your hand as it resolves.)"
@@ -1278,53 +1356,53 @@ msgstr ""
 "Wykup |mana_3| (Rzucając ten czar możesz zapłacić dodatkowo |mana_3|. Jeśli "
 "tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
-#: ../../TSR.rst:409
+#: ../../TSR.rst:429
 msgid "Counter target spell with converted mana cost X."
 msgstr "Skontruj wskazany czar o skrócie many X."
 
-#: ../../TSR.rst:416
+#: ../../TSR.rst:436
 msgid ""
 ":mtgtip:`Spiketail Drakeling<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/4/e43a696a-11fb-4573-bf95-1fec643bf418.jpg?1614362379|"
 "https://scryfall.com/card/tsr/90/spiketail-drakeling?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:415
+#: ../../TSR.rst:435
 msgid ""
 "Sacrifice Spiketail Drakeling: Counter target spell unless its controller "
 "pays |mana_2|."
 msgstr ""
-"Poświęć tego stwora: Skontruj wskazany czar, chyba że jego władca zapłaci "
-"|mana_2|."
+"Poświęć tego stwora: Skontruj wskazany czar, chyba że jego władca zapłaci |"
+"mana_2|."
 
-#: ../../TSR.rst:424
+#: ../../TSR.rst:444
 msgid ""
 ":mtgtip:`Teferi, Mage of Zhalfir<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/f/8fc5e4a8-ea7b-4803-a7ed-3b915708661f.jpg?1614360261|"
+"border_crop/front/8/f/8fc5e4a8-ea7b-4803-a7ed-3b915708661f.jpg?1614598392|"
 "https://scryfall.com/card/tsr/91/teferi-mage-of-zhalfir?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:421
+#: ../../TSR.rst:441
 msgid "Creature cards you own that aren't on the battlefield have flash."
 msgstr "Twoje karty stworów nie będące na polu bitwy mają błysk."
 
-#: ../../TSR.rst:423
+#: ../../TSR.rst:443
 msgid "Each opponent can cast spells only any time they could cast a sorcery."
 msgstr "Każdy przeciwnik może rzucać czary tylko jako obrzędy."
 
-#: ../../TSR.rst:430
+#: ../../TSR.rst:450
 msgid ""
 ":mtgtip:`Think Twice<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/0/50e1d85b-f094-40e2-8811-640076d7d546.jpg?1614360194|https://"
 "scryfall.com/card/tsr/92/think-twice?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:427 ../../TSR.rst:603 ../../TSR.rst:619 ../../TSR.rst:625
-#: ../../TSR.rst:631
+#: ../../TSR.rst:447 ../../TSR.rst:827 ../../TSR.rst:843 ../../TSR.rst:849
+#: ../../TSR.rst:855
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-#: ../../TSR.rst:429
+#: ../../TSR.rst:449
 msgid ""
 "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
@@ -1332,14 +1410,14 @@ msgstr ""
 "Wspomnienie |mana_2|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
-#: ../../TSR.rst:436
+#: ../../TSR.rst:456
 msgid ""
 ":mtgtip:`Tolarian Sentinel<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/a/da4d6572-4748-4242-98d2-62e668a59a48.jpg?1614360624|"
 "https://scryfall.com/card/tsr/94/tolarian-sentinel?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:435
+#: ../../TSR.rst:455
 msgid ""
 "|mana_u|, |tap|, Discard a card: Return target permanent you control to its "
 "owner's hand."
@@ -1347,14 +1425,14 @@ msgstr ""
 "|mana_u|, |tap|, odrzuć kartę: Przywróć wskazany permanent pod twoim "
 "władaniem do ręki właściciela."
 
-#: ../../TSR.rst:442
+#: ../../TSR.rst:462
 msgid ""
 ":mtgtip:`Venser, Shaper Savant<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/0/c08dabd1-c043-4bcf-afa8-271225a099e1.jpg?1614362427|"
 "https://scryfall.com/card/tsr/96/venser-shaper-savant?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:441
+#: ../../TSR.rst:461
 msgid ""
 "When Venser, Shaper Savant enters the battlefield, return target spell or "
 "permanent to its owner's hand."
@@ -1362,14 +1440,14 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany czar lub permanent "
 "do ręki właściciela."
 
-#: ../../TSR.rst:448
+#: ../../TSR.rst:468
 msgid ""
 ":mtgtip:`Vesuvan Shapeshifter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/b/0b1b59d2-ad4b-4dc6-a730-0d19f2774ae9.jpg?1614360596|"
 "https://scryfall.com/card/tsr/97/vesuvan-shapeshifter?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:445
+#: ../../TSR.rst:465
 msgid ""
 "As Vesuvan Shapeshifter enters the battlefield or is turned face up, you may "
 "choose another creature on the battlefield. If you do, until Vesuvan "
@@ -1378,20 +1456,20 @@ msgid ""
 "down.\""
 msgstr ""
 
-#: ../../TSR.rst:447
+#: ../../TSR.rst:467
 msgid ""
 "Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
-#: ../../TSR.rst:454
+#: ../../TSR.rst:474
 msgid ""
 ":mtgtip:`Walk the Aeons<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/9/794d09ae-a995-482f-848e-7f99477bd6f3.jpg?1614361201|"
 "https://scryfall.com/card/tsr/98/walk-the-aeons?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:451
+#: ../../TSR.rst:471
 msgid ""
 "Buyback—Sacrifice three Islands. (You may sacrifice three Islands in "
 "addition to any other costs as you cast this spell. If you do, put this card "
@@ -1401,29 +1479,681 @@ msgstr ""
 "jako dodatek do innych kosztów. Jeśli tak zrobisz, umieść ją w twojej ręce "
 "podczas rozpatrzenia.)"
 
-#: ../../TSR.rst:453
+#: ../../TSR.rst:473
 msgid "Target player takes an extra turn after this one."
 msgstr "Wskazany gracz bierze dodatkową turę po obecnej."
 
-#: ../../TSR.rst:460
+#: ../../TSR.rst:480
 msgid ""
 ":mtgtip:`Wipe Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/e/2ece0707-72f7-4a0a-8c37-9fbe0c694f9b.jpg?1614361031|https://"
 "scryfall.com/card/tsr/100/wipe-away?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:459
+#: ../../TSR.rst:479
 msgid "Return target permanent to its owner's hand."
 msgstr "Przywróć wskazany permanent do ręki właściciela."
 
-#: ../../TSR.rst:466
+#: ../../TSR.rst:484
+msgid ""
+":mtgtip:`Assassinate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/a/c/ac0a1dc6-215f-4738-8ae4-7b6aa1c7d80b.jpg?1614622608|https://"
+"scryfall.com/card/tsr/101/assassinate?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:483
+#, fuzzy
+#| msgid "Destroy target nonwhite permanent."
+msgid "Destroy target tapped creature."
+msgstr "Zniszcz wskazany nie-biały permanent."
+
+#: ../../TSR.rst:490
+msgid ""
+":mtgtip:`Big Game Hunter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.jpg?1614623394|"
+"https://scryfall.com/card/tsr/102/big-game-hunter?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:487
+#, fuzzy
+#| msgid ""
+#| "When Stonecloaker enters the battlefield, return a creature you control "
+#| "to its owner's hand."
+msgid ""
+"When Big Game Hunter enters the battlefield, destroy target creature with "
+"power 4 or greater. It can't be regenerated."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
+"do ręki właściciela."
+
+#: ../../TSR.rst:489 ../../TSR.rst:515
+msgid ""
+"Madness |mana_b| (If you discard this card, discard it into exile. When you "
+"do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../TSR.rst:496
+msgid ""
+":mtgtip:`Blightspeaker<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/7/17ab3455-f464-41b0-ac63-d40d27abbfb1.jpg?1614623317|"
+"https://scryfall.com/card/tsr/103/blightspeaker?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:493
+msgid "|tap|: Target player loses 1 life."
+msgstr ""
+
+#: ../../TSR.rst:502
+msgid ""
+":mtgtip:`Corpulent Corpse<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/8/c8680e7c-f180-45b9-9af6-a8e93037b851.jpg?1614622448|"
+"https://scryfall.com/card/tsr/104/corpulent-corpse?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:499 ../../TSR.rst:919
+#, fuzzy
+#| msgid ""
+#| "Amrou Seekers can't be blocked except by artifact creatures and/or white "
+#| "creatures."
+msgid ""
+"Fear (This creature can't be blocked except by artifact creatures and/or "
+"black creatures.)"
+msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez stwory artefaktowe i/lub "
+"białe."
+
+#: ../../TSR.rst:501
+#, fuzzy
+#| msgid ""
+#| "Suspend 5—|mana_w| (Rather than cast this card from your hand, you may "
+#| "pay |mana_w| and exile it with five time counters on it. At the beginning "
+#| "of your upkeep, remove a time counter. When the last is removed, cast it "
+#| "without paying its mana cost. It has haste.)"
+msgid ""
+"Suspend 5—|mana_b| (Rather than cast this card from your hand, you may pay |"
+"mana_b| and exile it with five time counters on it. At the beginning of your "
+"upkeep, remove a time counter. When the last is removed, cast it without "
+"paying its mana cost. It has haste.)"
+msgstr ""
+"Zawieszenie 5—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_w| i wygnaj ją z pięcioma znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
+
+#: ../../TSR.rst:506
+msgid ""
+":mtgtip:`Cutthroat il-Dal<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/4/d4123bab-d61e-4d69-b9ca-1fff3a11335a.jpg?1614622472|"
+"https://scryfall.com/card/tsr/105/cutthroat-il-dal?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:505
+#, fuzzy
+#| msgid ""
+#| "Enchanted creature has shadow. (It can block or be blocked by only "
+#| "creatures with shadow.)"
+msgid ""
+"Hellbent — Cutthroat il-Dal has shadow as long as you have no cards in hand. "
+"(It can block or be blocked by only creatures with shadow.)"
+msgstr ""
+"Zauroczony stwór ma cień. (Może blokować i być blokowany tylko przez stwory "
+"z cieniem.)"
+
+#: ../../TSR.rst:510
+msgid ""
+":mtgtip:`Damnation<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/9/4/941b65da-b9b3-4e15-bab5-bcbfd20dbe05.jpg?1614623075|https://"
+"scryfall.com/card/tsr/106/damnation?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:509
+msgid "Destroy all creatures. They can't be regenerated."
+msgstr ""
+
+#: ../../TSR.rst:516
+msgid ""
+":mtgtip:`Dark Withering<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/9/c9366fa8-f0af-4eb4-a063-7869ca85b9c2.jpg?1614622643|"
+"https://scryfall.com/card/tsr/107/dark-withering?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:513 ../../TSR.rst:629
+#, fuzzy
+#| msgid "Destroy target nonwhite permanent."
+msgid "Destroy target nonblack creature."
+msgstr "Zniszcz wskazany nie-biały permanent."
+
+#: ../../TSR.rst:524
+msgid ""
+":mtgtip:`Deathspore Thallid<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/4/74c1b368-6fb0-4430-807e-d124f3077361.jpg?1614623345|"
+"https://scryfall.com/card/tsr/109/deathspore-thallid?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:519
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your upkeep, sacrifice Drifter il-Dal unless you pay |"
+#| "mana_u|."
+msgid ""
+"At the beginning of your upkeep, put a spore counter on Deathspore Thallid."
+msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"zapłacisz |mana_u|."
+
+#: ../../TSR.rst:521
+#, fuzzy
+#| msgid ""
+#| "Whenever a time counter is removed from Benalish Commander while it's "
+#| "exiled, create a 1/1 white Soldier creature token."
+msgid ""
+"Remove three spore counters from Deathspore Thallid: Create a 1/1 green "
+"Saproling creature token."
+msgstr ""
+"Ilekroć znacznik czasu zostanie usunięty z tej karty podczas jej wygnania, "
+"stwórz żeton białego stwora Piechur 1/1."
+
+#: ../../TSR.rst:523
+#, fuzzy
+#| msgid "|tap|: Target creature gets -2/-0 until end of turn."
+msgid "Sacrifice a Saproling: Target creature gets -1/-1 until end of turn."
+msgstr "|tap|: Wskazany stwór dostaje do końca tury -2/-0."
+
+#: ../../TSR.rst:530
+msgid ""
+":mtgtip:`Dread Return<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/a/3a548c9b-bdea-4c11-891e-e472fc63ae9b.jpg?1614623152|"
+"https://scryfall.com/card/tsr/111/dread-return?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:527
+#, fuzzy
+#| msgid "Return target creature to its owner's hand."
+msgid "Return target creature card from your graveyard to the battlefield."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
+
+#: ../../TSR.rst:529
+#, fuzzy
+#| msgid ""
+#| "Flashback |mana_3|\\ |mana_u| (You may cast this card from your graveyard "
+#| "for its flashback cost. Then exile it.)"
+msgid ""
+"Flashback—Sacrifice three creatures. (You may cast this card from your "
+"graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+"Wspomnienie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
+
+#: ../../TSR.rst:536
+msgid ""
+":mtgtip:`Dunerider Outlaw<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/2/42f6f584-9ed3-4e93-ac1a-31878a6b7118.jpg?1614622294|"
+"https://scryfall.com/card/tsr/112/dunerider-outlaw?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:533
+#, fuzzy
+#| msgid "Flying, protection from black"
+msgid "Protection from green"
+msgstr "Latanie, ochrona przed czarnym"
+
+#: ../../TSR.rst:535
+msgid ""
+"At the beginning of each end step, if Dunerider Outlaw dealt damage to an "
+"opponent this turn, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../TSR.rst:544
+msgid ""
+":mtgtip:`Enslave<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/a/0/a00440fc-e3e1-4a1c-b32b-f7946a76cd62.jpg?1614622490|https://"
+"scryfall.com/card/tsr/113/enslave?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:541
+#, fuzzy
+#| msgid "Enchant creature"
+msgid "You control enchanted creature."
+msgstr "Zaurocz stwora"
+
+#: ../../TSR.rst:543
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your upkeep, sacrifice Drifter il-Dal unless you pay |"
+#| "mana_u|."
+msgid ""
+"At the beginning of your upkeep, enchanted creature deals 1 damage to its "
+"owner."
+msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"zapłacisz |mana_u|."
+
+#: ../../TSR.rst:550
+msgid ""
+":mtgtip:`Extirpate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/1/4171dbd3-96d6-4e7a-afac-5b2882bf3872.jpg?1614622344|https://"
+"scryfall.com/card/tsr/114/extirpate?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:549
+msgid ""
+"Choose target card in a graveyard other than a basic land card. Search its "
+"owner's graveyard, hand, and library for all cards with the same name as "
+"that card and exile them. Then that player shuffles their library."
+msgstr ""
+
+#: ../../TSR.rst:558
+msgid ""
+":mtgtip:`Faceless Devourer<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/4/c49d6139-fc0c-41db-be08-dfa87c685092.jpg?1614622886|"
+"https://scryfall.com/card/tsr/115/faceless-devourer?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:555
+#, fuzzy
+#| msgid ""
+#| "When Stonecloaker enters the battlefield, exile target card from a "
+#| "graveyard."
+msgid ""
+"When Faceless Devourer enters the battlefield, exile another target creature "
+"with shadow."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
+
+#: ../../TSR.rst:557
+#, fuzzy
+#| msgid ""
+#| "Exile target creature you control, then return it to the battlefield "
+#| "under its owner's control."
+msgid ""
+"When Faceless Devourer leaves the battlefield, return the exiled card to the "
+"battlefield under its owner's control."
+msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć go na pole "
+"bitwy pod władaniem jego właściciela."
+
+#: ../../TSR.rst:566
+msgid ""
+":mtgtip:`Feebleness<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/2/6/265960a9-bea6-4111-b9a7-b6a37194b1c5.jpg?1614622662|https://"
+"scryfall.com/card/tsr/116/feebleness?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:565
+#, fuzzy
+#| msgid "Nonwhite creatures get -1/-1."
+msgid "Enchanted creature gets -2/-1."
+msgstr "Nie-białe stwory dostają -1/-1."
+
+#: ../../TSR.rst:572
+msgid ""
+":mtgtip:`Grave Scrabbler<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/6/d6c53e52-8d63-4628-bfb9-8abe4c7c7f4a.jpg?1614623227|"
+"https://scryfall.com/card/tsr/118/grave-scrabbler?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:569 ../../TSR.rst:611
+msgid ""
+"Madness |mana_1|\\ |mana_b| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
+msgstr ""
+
+#: ../../TSR.rst:571
+#, fuzzy
+#| msgid ""
+#| "When Stonecloaker enters the battlefield, return a creature you control "
+#| "to its owner's hand."
+msgid ""
+"When Grave Scrabbler enters the battlefield, if its madness cost was paid, "
+"you may return target creature card from a graveyard to its owner's hand."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
+"do ręki właściciela."
+
+#: ../../TSR.rst:580
+msgid ""
+":mtgtip:`Ichor Slick<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/3/3/33faa287-2a12-4a94-8d42-77da2b24d86f.jpg?1614622681|https://"
+"scryfall.com/card/tsr/119/ichor-slick?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:575
+#, fuzzy
+#| msgid "Target creature gets +2/-1 until end of turn."
+msgid "Target creature gets -3/-3 until end of turn."
+msgstr "Wskazany stwór dostaje do końca tury +2/-1."
+
+#: ../../TSR.rst:577
+msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../TSR.rst:579
+msgid ""
+"Madness |mana_3|\\ |mana_b| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
+msgstr ""
+
+#: ../../TSR.rst:584
+msgid ""
+":mtgtip:`Kor Dirge<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/tsr/120/kor-dirge?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:583
+msgid ""
+"All damage that would be dealt this turn to target creature you control by a "
+"source of your choice is dealt to another target creature instead."
+msgstr ""
+
+#: ../../TSR.rst:590
+msgid ""
+":mtgtip:`Mindstab<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/tsr/123/mindstab?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:587
+#, fuzzy
+#| msgid "Target player discards a card."
+msgid "Target player discards three cards."
+msgstr "Wskazany gracz odrzuca kartę."
+
+#: ../../TSR.rst:589
+#, fuzzy
+#| msgid ""
+#| "Suspend 3—|mana_0| (Rather than cast this card from your hand, pay |"
+#| "mana_0| and exile it with three time counters on it. At the beginning of "
+#| "your upkeep, remove a time counter. When the last is removed, cast it "
+#| "without paying its mana cost.)"
+msgid ""
+"Suspend 4—|mana_b| (Rather than cast this card from your hand, you may pay |"
+"mana_b| and exile it with four time counters on it. At the beginning of your "
+"upkeep, remove a time counter. When the last is removed, cast it without "
+"paying its mana cost.)"
+msgstr ""
+"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
+"mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
+
+#: ../../TSR.rst:596
+msgid ""
+":mtgtip:`Mirri the Cursed<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/4/24c1706d-2faa-452b-a192-204386df29f6.jpg?1614622260|"
+"https://scryfall.com/card/tsr/125/mirri-the-cursed?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:593
+msgid "Flying, first strike, haste"
+msgstr ""
+
+#: ../../TSR.rst:595
+#, fuzzy
+#| msgid ""
+#| "Whenever Riptide Pilferer deals combat damage to a player, that player "
+#| "discards a card."
+msgid ""
+"Whenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 "
+"counter on Mirri the Cursed."
+msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
+
+#: ../../TSR.rst:604
+msgid ""
+":mtgtip:`Nether Traitor<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/f/8f3482ec-8466-4680-bfdc-e1029c0fbe89.jpg?1614623125|"
+"https://scryfall.com/card/tsr/127/nether-traitor?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:599
+msgid "Haste"
+msgstr ""
+
+#: ../../TSR.rst:603
+msgid ""
+"Whenever another creature is put into your graveyard from the battlefield, "
+"you may pay |mana_b|. If you do, return Nether Traitor from your graveyard "
+"to the battlefield."
+msgstr ""
+
+#: ../../TSR.rst:612
+msgid ""
+":mtgtip:`Nightshade Assassin<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/d/cd610675-f8ab-47a7-a4db-c1bfb0e9d5c8.jpg?1614622858|"
+"https://scryfall.com/card/tsr/128/nightshade-assassin?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:607 ../../TSR.rst:931
+msgid "First strike"
+msgstr ""
+
+#: ../../TSR.rst:609
+msgid ""
+"When Nightshade Assassin enters the battlefield, you may reveal X black "
+"cards in your hand. If you do, target creature gets -X/-X until end of turn."
+msgstr ""
+
+#: ../../TSR.rst:616
+msgid ""
+":mtgtip:`Pit Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/5/f/5f731d16-d969-40a8-a002-4d40eb8f6bac.jpg?1614623254|https://"
+"scryfall.com/card/tsr/130/pit-keeper?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:615
+msgid ""
+"When Pit Keeper enters the battlefield, if you have four or more creature "
+"cards in your graveyard, you may return target creature card from your "
+"graveyard to your hand."
+msgstr ""
+
+#: ../../TSR.rst:620
+msgid ""
+":mtgtip:`Premature Burial<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/4/b42f83e3-631b-432e-8d2f-f62d3207e95e.jpg?1614623417|"
+"https://scryfall.com/card/tsr/131/premature-burial?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:619
+#, fuzzy
+#| msgid ""
+#| "When there are no creatures on the battlefield, sacrifice Porphyry Nodes."
+msgid ""
+"Destroy target nonblack creature that entered the battlefield since your "
+"last turn ended."
+msgstr "Kiedy na polu bitwy nie ma stworów, poświęć ten urok."
+
+#: ../../TSR.rst:626
+msgid ""
+":mtgtip:`Sengir Nosferatu<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/1/71dc9f1e-b889-402d-a5a1-fa0d7d493246.jpg?1614622512|"
+"https://scryfall.com/card/tsr/136/sengir-nosferatu?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:625
+msgid ""
+"|mana_1|\\ |mana_b|, Exile Sengir Nosferatu: Create a 1/2 black Bat creature "
+"token with flying. It has \"|mana_1|\\ |mana_b|, Sacrifice this creature: "
+"Return an exiled card named Sengir Nosferatu to the battlefield under its "
+"owner's control.\""
+msgstr ""
+
+#: ../../TSR.rst:632
+msgid ""
+":mtgtip:`Slaughter Pact<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/1/81e00341-030f-433e-b22b-aca42e0a88d2.jpg?1614622712|"
+"https://scryfall.com/card/tsr/138/slaughter-pact?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:631
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your next upkeep, pay |mana_3|\\ |mana_u|\\ |mana_u|. "
+#| "If you don't, you lose the game."
+msgid ""
+"At the beginning of your next upkeep, pay |mana_2|\\ |mana_b|. If you don't, "
+"you lose the game."
+msgstr ""
+"Na początku twojego najbliższego kroku utrzymania, zapłać |mana_3|\\ |mana_u|"
+"\\ |mana_u|. Jeśli tego nie zrobisz, przegrywasz grę."
+
+#: ../../TSR.rst:636
+msgid ""
+":mtgtip:`Smallpox<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/2/c28db9a4-6696-460b-a9d3-98f4a31abe75.jpg?1614623273|https://"
+"scryfall.com/card/tsr/139/smallpox?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:635
+msgid ""
+"Each player loses 1 life, discards a card, sacrifices a creature, then "
+"sacrifices a land."
+msgstr ""
+
+#: ../../TSR.rst:642
+msgid ""
+":mtgtip:`Strangling Soot<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/7/872d8f4d-6ee5-4494-9900-db62d3e4cedd.jpg?1614622733|"
+"https://scryfall.com/card/tsr/140/strangling-soot?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:639
+#, fuzzy
+#| msgid "Return target creature to its owner's hand."
+msgid "Destroy target creature with toughness 3 or less."
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
+
+#: ../../TSR.rst:641
+#, fuzzy
+#| msgid ""
+#| "Flashback |mana_5|\\ |mana_b| (You may cast this card from your graveyard "
+#| "for its flashback cost. Then exile it.)"
+msgid ""
+"Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
+msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej kort wspomnienia. Następnie wygnaj ją.)"
+
+#: ../../TSR.rst:648
+msgid ""
+":mtgtip:`Street Wraith<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1614622099|"
+"https://scryfall.com/card/tsr/141/street-wraith?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:645
+#, fuzzy
+#| msgid ""
+#| "Target creature gains islandwalk until end of turn. (It can't be blocked "
+#| "as long as defending player controls an Island.)"
+msgid ""
+"Swampwalk (This creature can't be blocked as long as defending player "
+"controls a Swamp.)"
+msgstr ""
+"Wskazany stwór zyskuje do końca tury podbój wysp. (Nie może być blokowany o "
+"ile broniący się gracz włada Wyspą.)"
+
+#: ../../TSR.rst:647
+msgid "Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../TSR.rst:654
+msgid ""
+":mtgtip:`Stronghold Rats<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/7/87761f00-bfbc-42dc-b96d-9f4258b43a8b.jpg?1614623297|"
+"https://scryfall.com/card/tsr/142/stronghold-rats?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:653
+#, fuzzy
+#| msgid ""
+#| "Whenever Riptide Pilferer deals combat damage to a player, that player "
+#| "discards a card."
+msgid ""
+"Whenever Stronghold Rats deals combat damage to a player, each player "
+"discards a card."
+msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
+
+#: ../../TSR.rst:660
+msgid ""
+":mtgtip:`Sudden Death<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/d/5d724faa-a988-4c08-875d-d18f48926a0a.jpg?1614622754|"
+"https://scryfall.com/card/tsr/143/sudden-death?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:659
+#, fuzzy
+#| msgid "Target creature gets +2/-1 until end of turn."
+msgid "Target creature gets -4/-4 until end of turn."
+msgstr "Wskazany stwór dostaje do końca tury +2/-1."
+
+#: ../../TSR.rst:666
+msgid ""
+":mtgtip:`Sudden Spoiling<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/tsr/144/sudden-spoiling?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:665
+msgid ""
+"Until end of turn, creatures target player controls lose all abilities and "
+"have base power and toughness 0/2."
+msgstr ""
+
+#: ../../TSR.rst:670
+msgid ""
+":mtgtip:`Tendrils of Corruption<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/3/c338b459-6bb8-4bc7-a6b5-945a09589c05.jpg?1614623049|"
+"https://scryfall.com/card/tsr/145/tendrils-of-corruption?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:669
+msgid ""
+"Tendrils of Corruption deals X damage to target creature and you gain X "
+"life, where X is the number of Swamps you control."
+msgstr ""
+
+#: ../../TSR.rst:676
+msgid ""
+":mtgtip:`Tombstalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/7/8/78f02d59-0786-41c8-940b-4ef6ef01c646.jpg?1614622127|https://"
+"scryfall.com/card/tsr/146/tombstalker?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:680
+msgid ""
+":mtgtip:`Urborg Syphon-Mage<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/2/a2c7b098-82ba-4015-aaa5-df9aa0a05e40.jpg?1614622419|"
+"https://scryfall.com/card/tsr/148/urborg-syphon-mage?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:679
+msgid ""
+"|mana_2|\\ |mana_b|, |tap|, Discard a card: Each other player loses 2 life. "
+"You gain life equal to the life lost this way."
+msgstr ""
+
+#: ../../TSR.rst:684
+msgid ""
+":mtgtip:`Yixlid Jailer<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/f/3f2ef91f-d113-4e8d-a164-c6e261aa9c12.jpg?1614622363|"
+"https://scryfall.com/card/tsr/149/yixlid-jailer?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:683
+msgid "Cards in graveyards lose all abilities."
+msgstr ""
+
+#: ../../TSR.rst:690
 msgid ""
 ":mtgtip:`Dralnu, Lich Lord<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/5/9554f402-35d4-43ac-9494-9d17d2a79092.jpg?1614360342|"
 "https://scryfall.com/card/tsr/251/dralnu-lich-lord?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:463
+#: ../../TSR.rst:687
 msgid ""
 "If damage would be dealt to Dralnu, Lich Lord, sacrifice that many "
 "permanents instead."
@@ -1431,80 +2161,80 @@ msgstr ""
 "Jeśli ten stwór miałby otrzymać obrażenia, zamiast tego poświęć tyle samo "
 "permanentów."
 
-#: ../../TSR.rst:465
+#: ../../TSR.rst:689
 msgid ""
 "|tap|: Target instant or sorcery card in your graveyard gains flashback "
 "until end of turn. The flashback cost is equal to its mana cost. (You may "
 "cast that card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
-#: ../../TSR.rst:472
+#: ../../TSR.rst:696
 msgid ""
 ":mtgtip:`Lotus Bloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/b/db89ae4d-1cc2-41d8-a4de-a54b958c4429.jpg?1614277064|https://"
 "scryfall.com/card/tsr/270/lotus-bloom?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:469
+#: ../../TSR.rst:693
 msgid ""
 "Suspend 3—|mana_0| (Rather than cast this card from your hand, pay |mana_0| "
 "and exile it with three time counters on it. At the beginning of your "
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
-"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
-"|mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
+"Zawieszenie 3—|mana_0| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
+"mana_0| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
 "utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
 "usunięty, rzuć ją bez płacenia kosztu many.)"
 
-#: ../../TSR.rst:471
+#: ../../TSR.rst:695
 msgid "|tap|, Sacrifice Lotus Bloom: Add three mana of any one color."
 msgstr "|tap|, poświęć ten artefakt: Weź trzy many jednego dowolnego koloru."
 
-#: ../../TSR.rst:482
+#: ../../TSR.rst:706
 msgid ""
 ":mtgtip:`Stuffy Doll<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/e/ce427213-4ce5-478e-83d8-fe80ec446a58.jpg?1614360849|https://"
 "scryfall.com/card/tsr/274/stuffy-doll?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:475
+#: ../../TSR.rst:699
 msgid "Indestructible"
 msgstr "Niezniszczalność"
 
-#: ../../TSR.rst:477
+#: ../../TSR.rst:701
 msgid "As Stuffy Doll enters the battlefield, choose a player."
 msgstr ""
 
-#: ../../TSR.rst:479
+#: ../../TSR.rst:703
 msgid ""
 "Whenever Stuffy Doll is dealt damage, it deals that much damage to the "
 "chosen player."
 msgstr ""
 
-#: ../../TSR.rst:481
+#: ../../TSR.rst:705
 msgid "|tap|: Stuffy Doll deals 1 damage to itself."
 msgstr ""
 
-#: ../../TSR.rst:486
+#: ../../TSR.rst:710
 msgid ""
 ":mtgtip:`Ajani's Pridemate<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/a/aab58d83-5930-4d28-a26c-225c7a872216.jpg?1614278168|"
 "https://scryfall.com/card/tsr/290/ajanis-pridemate?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:485
+#: ../../TSR.rst:709
 msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
 msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
-#: ../../TSR.rst:490
+#: ../../TSR.rst:714
 msgid ""
 ":mtgtip:`Banishing Light<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/f/9f27dd19-a475-4024-aecf-ba6142806656.jpg?1614366662|"
 "https://scryfall.com/card/tsr/291/banishing-light?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:489
+#: ../../TSR.rst:713
 msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
@@ -1512,14 +2242,14 @@ msgstr ""
 "Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
 "pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
-#: ../../TSR.rst:496
+#: ../../TSR.rst:720
 msgid ""
 ":mtgtip:`Containment Priest<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/5/65975f50-70b1-4d64-8d81-5ef2da479c48.jpg?1614278929|"
 "https://scryfall.com/card/tsr/292/containment-priest?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:495
+#: ../../TSR.rst:719
 msgid ""
 "If a nontoken creature would enter the battlefield and it wasn't cast, exile "
 "it instead."
@@ -1527,14 +2257,14 @@ msgstr ""
 "Jeśli nieżetonowy stwór miałby wejść na pole bitwy, a nie został rzucony, "
 "zamiast tego wygnaj go."
 
-#: ../../TSR.rst:502
+#: ../../TSR.rst:726
 msgid ""
 ":mtgtip:`Ethereal Armor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/1/2167e245-dbdc-4a4b-b475-05b23f84a98b.jpg?1614360868|"
 "https://scryfall.com/card/tsr/293/ethereal-armor?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:501
+#: ../../TSR.rst:725
 msgid ""
 "Enchanted creature gets +1/+1 for each enchantment you control and has first "
 "strike."
@@ -1542,14 +2272,14 @@ msgstr ""
 "Zauroczony stwór ma pierwszy cios oraz dostaje +1/+1 za każdy urok pod twoim "
 "władaniem."
 
-#: ../../TSR.rst:508
+#: ../../TSR.rst:732
 msgid ""
 ":mtgtip:`Flickerwisp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/9/6931aad2-aa2c-4069-9e5a-2566b9f3eae4.jpg?1614281829|https://"
 "scryfall.com/card/tsr/294/flickerwisp?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:507
+#: ../../TSR.rst:731
 msgid ""
 "When Flickerwisp enters the battlefield, exile another target permanent. "
 "Return that card to the battlefield under its owner's control at the "
@@ -1559,29 +2289,29 @@ msgstr ""
 "Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
 "najbliższego kroku końcowego."
 
-#: ../../TSR.rst:512
+#: ../../TSR.rst:736
 msgid ""
 ":mtgtip:`Intangible Virtue<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/d/edfa180a-772d-4d4a-9c1b-22b3cf18e2b0.jpg?1614367000|"
 "https://scryfall.com/card/tsr/295/intangible-virtue?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:511
+#: ../../TSR.rst:735
 msgid "Creature tokens you control get +1/+1 and have vigilance."
 msgstr "Żetony stworów pod twoim władaniem dostają +1/+1 i mają czujność."
 
-#: ../../TSR.rst:518
+#: ../../TSR.rst:742
 msgid ""
 ":mtgtip:`Lingering Souls<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/7/278e97cf-312d-4e9e-bc39-023f4e547121.jpg?1614366916|"
 "https://scryfall.com/card/tsr/296/lingering-souls?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:515
+#: ../../TSR.rst:739
 msgid "Create two 1/1 white Spirit creature tokens with flying."
 msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
 
-#: ../../TSR.rst:517
+#: ../../TSR.rst:741
 msgid ""
 "Flashback |mana_1|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
@@ -1589,35 +2319,35 @@ msgstr ""
 "Wspomnienie |mana_1|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
 "za jej koszt wspomnienia. Następnie wygnaj ją.)"
 
-#: ../../TSR.rst:524
+#: ../../TSR.rst:748
 msgid ""
 ":mtgtip:`Mirror Entity<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/6/76f71a96-94d1-4cbb-b21c-0e5075840777.jpg?1614360891|"
 "https://scryfall.com/card/tsr/297/mirror-entity?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:521
+#: ../../TSR.rst:745
 msgid "Changeling (This card is every creature type.)"
 msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 
-#: ../../TSR.rst:523
+#: ../../TSR.rst:747
 msgid ""
 "|mana_x|: Until end of turn, creatures you control have base power and "
 "toughness X/X and gain all creature types."
 msgstr ""
 
-#: ../../TSR.rst:530
+#: ../../TSR.rst:754
 msgid ""
 ":mtgtip:`Palace Jailer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/d/ed869151-02e9-4daa-994d-ccdf9f9dc3c8.jpg?1614361734|"
 "https://scryfall.com/card/tsr/298/palace-jailer?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:527
+#: ../../TSR.rst:751
 msgid "When Palace Jailer enters the battlefield, you become the monarch."
 msgstr ""
 
-#: ../../TSR.rst:529
+#: ../../TSR.rst:753
 msgid ""
 "When Palace Jailer enters the battlefield, exile target creature an opponent "
 "controls until an opponent becomes the monarch. (That creature returns under "
@@ -1627,14 +2357,14 @@ msgstr ""
 "władaniem przeciwnika dopóki przeciwnik nie zostanie monarchą. (Ów stwór "
 "wróci pod władanie właściciela.)"
 
-#: ../../TSR.rst:534
+#: ../../TSR.rst:758
 msgid ""
 ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1614278184|"
 "https://scryfall.com/card/tsr/299/path-to-exile?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:533
+#: ../../TSR.rst:757
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle their "
@@ -1644,14 +2374,14 @@ msgstr ""
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie "
 "przetasować swoją bibliotekę."
 
-#: ../../TSR.rst:542
+#: ../../TSR.rst:766
 msgid ""
 ":mtgtip:`Restoration Angel<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/c/fc1266de-3a58-4579-9781-78aaf852bbac.jpg?1614366699|"
 "https://scryfall.com/card/tsr/300/restoration-angel?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:541
+#: ../../TSR.rst:765
 msgid ""
 "When Restoration Angel enters the battlefield, you may exile target non-"
 "Angel creature you control, then return that card to the battlefield under "
@@ -1661,7 +2391,7 @@ msgstr ""
 "Aniołem stwora pod twoim władaniem, następnie przywróć ową kartę na pole "
 "bitwy pod twoim władaniem."
 
-#: ../../TSR.rst:546
+#: ../../TSR.rst:770
 msgid ""
 ":mtgtip:`Sigil of the Empty Throne<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/3/5/3584cdf0-9e46-480d-bc73-78e1180d32d3.jpg?"
@@ -1669,20 +2399,21 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:545
+#: ../../TSR.rst:769
 msgid ""
 "Whenever you cast an enchantment spell, create a 4/4 white Angel creature "
 "token with flying."
-msgstr "Ilekroć rzucisz urok, stwórz żeton białego stwora Anioł 4/4 z lataniem."
+msgstr ""
+"Ilekroć rzucisz urok, stwórz żeton białego stwora Anioł 4/4 z lataniem."
 
-#: ../../TSR.rst:550
+#: ../../TSR.rst:774
 msgid ""
 ":mtgtip:`Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/9/d93c1860-a27e-426c-9fbb-3bd20ead1afc.jpg?1614366744|https://"
 "scryfall.com/card/tsr/302/silence?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:549
+#: ../../TSR.rst:773
 msgid ""
 "Your opponents can't cast spells this turn. (Spells cast before this "
 "resolves are unaffected.)"
@@ -1690,48 +2421,48 @@ msgstr ""
 "Twoi przeciwnicy nie mogą rzucać czarów w tej turze. (Nie wpływa na czary "
 "rzucone przed rozpatrzeniem niniejszego.)"
 
-#: ../../TSR.rst:554
+#: ../../TSR.rst:778
 msgid ""
 ":mtgtip:`Sram, Senior Edificer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/d/adc08ef6-61fc-4d01-a78b-df0cf99585d9.jpg?1614366960|"
 "https://scryfall.com/card/tsr/303/sram-senior-edificer?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:553
+#: ../../TSR.rst:777
 msgid "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
 msgstr "Ilekroć rzucisz czar Aury, Wyposażenia lub Pojazdu, dobierz kartę."
 
-#: ../../TSR.rst:558
+#: ../../TSR.rst:782
 msgid ""
 ":mtgtip:`Stonehorn Dignitary<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/0/e04d14bf-78dd-4a51-a8df-04636d2141f3.jpg?1614359670|"
 "https://scryfall.com/card/tsr/304/stonehorn-dignitary?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:557
+#: ../../TSR.rst:781
 msgid ""
 "When Stonehorn Dignitary enters the battlefield, target opponent skips their "
 "next combat phase."
 msgstr ""
 
-#: ../../TSR.rst:562
+#: ../../TSR.rst:786
 msgid ""
 ":mtgtip:`Thraben Inspector<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/c/ec18fa41-6948-4d94-8dcc-31fb63fb53ec.jpg?1614278753|"
 "https://scryfall.com/card/tsr/305/thraben-inspector?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:561
+#: ../../TSR.rst:785
 msgid ""
 "When Thraben Inspector enters the battlefield, investigate. (Create a "
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
-")"
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
-#: ../../TSR.rst:568
+#: ../../TSR.rst:792
 msgid ""
 ":mtgtip:`Baral, Chief of Compliance<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/a/1/a103a725-4750-4d9e-8792-6fbbb81bba0e.jpg?"
@@ -1739,11 +2470,11 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:565
+#: ../../TSR.rst:789
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
 msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
-#: ../../TSR.rst:567
+#: ../../TSR.rst:791
 msgid ""
 "Whenever a spell or ability you control counters a spell, you may draw a "
 "card. If you do, discard a card."
@@ -1751,25 +2482,25 @@ msgstr ""
 "Ilekroć czar lub zdolność pod twoim władaniem skontruje czar, możesz dobrać "
 "kartę. Jeśli tak zrobisz, odrzuć kartę."
 
-#: ../../TSR.rst:572
+#: ../../TSR.rst:796
 msgid ""
 ":mtgtip:`Disdainful Stroke<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/8/f83fbd7f-1757-4dcf-9972-0c8f71843f03.jpg?1614359850|"
 "https://scryfall.com/card/tsr/307/disdainful-stroke?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:571
+#: ../../TSR.rst:795
 msgid "Counter target spell with converted mana cost 4 or greater."
 msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 
-#: ../../TSR.rst:578
+#: ../../TSR.rst:802
 msgid ""
 ":mtgtip:`Fblthp, the Lost<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.jpg?1614361344|"
 "https://scryfall.com/card/tsr/308/fblthp-the-lost?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:575
+#: ../../TSR.rst:799
 msgid ""
 "When Fblthp, the Lost enters the battlefield, draw a card. If it entered "
 "from your library or was cast from your library, draw two cards instead."
@@ -1778,21 +2509,21 @@ msgstr ""
 "biblioteki albo został rzucony z twojej biblioteki, zamiast tego dobierz "
 "dwie karty."
 
-#: ../../TSR.rst:577
+#: ../../TSR.rst:801
 msgid ""
 "When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's "
 "library."
 msgstr ""
 "Kiedy ten stwór zostanie wskazany przez czar, wtasuj go do talii właściciela."
 
-#: ../../TSR.rst:582
+#: ../../TSR.rst:806
 msgid ""
 ":mtgtip:`Laboratory Maniac<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/8/5840b48c-7a14-481e-9d21-0c68aee16020.jpg?1614362455|"
 "https://scryfall.com/card/tsr/309/laboratory-maniac?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:581
+#: ../../TSR.rst:805
 msgid ""
 "If you would draw a card while your library has no cards in it, you win the "
 "game instead."
@@ -1800,7 +2531,7 @@ msgstr ""
 "Jeśli miałbyś dobrać kartę gdy twoja biblioteka nie zawiera kart, zamiast "
 "tego wygrywasz grę."
 
-#: ../../TSR.rst:586
+#: ../../TSR.rst:810
 msgid ""
 ":mtgtip:`Master of the Pearl Trident<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/3/3/3367f862-cd88-4e6d-8e87-693080e5c431.jpg?"
@@ -1808,24 +2539,24 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:585
+#: ../../TSR.rst:809
 msgid ""
 "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They "
 "can't be blocked as long as defending player controls an Island.)"
 msgstr ""
 
-#: ../../TSR.rst:594
+#: ../../TSR.rst:818
 msgid ""
 ":mtgtip:`Mulldrifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/a/ea86b5bf-c38f-4168-a4dd-96859948423c.jpg?1614362451|https://"
 "scryfall.com/card/tsr/311/mulldrifter?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:591
+#: ../../TSR.rst:815
 msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgstr ""
 
-#: ../../TSR.rst:593
+#: ../../TSR.rst:817
 msgid ""
 "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
@@ -1833,49 +2564,49 @@ msgstr ""
 "Przyzwanie |mana_2|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
 "przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
-#: ../../TSR.rst:604
+#: ../../TSR.rst:828
 msgid ""
 ":mtgtip:`Mystic Confluence<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/3/337214ad-2976-4692-89c4-2c5001bf087f.jpg?1614290661|"
 "https://scryfall.com/card/tsr/312/mystic-confluence?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:597
+#: ../../TSR.rst:821
 msgid "Choose three. You may choose the same mode more than once."
 msgstr ""
 
-#: ../../TSR.rst:599
+#: ../../TSR.rst:823
 msgid "Counter target spell unless its controller pays |mana_3|."
 msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
-#: ../../TSR.rst:610
+#: ../../TSR.rst:834
 msgid ""
 ":mtgtip:`Ninja of the Deep Hours<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/1/2101b32f-2a7f-4cfa-80a4-fdae3756a7f1.jpg?1614361426|"
 "https://scryfall.com/card/tsr/313/ninja-of-the-deep-hours?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:607
+#: ../../TSR.rst:831
 msgid ""
 "Ninjutsu |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Return an unblocked "
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
 
-#: ../../TSR.rst:609
+#: ../../TSR.rst:833
 msgid ""
 "Whenever Ninja of the Deep Hours deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
 
-#: ../../TSR.rst:614
+#: ../../TSR.rst:838
 msgid ""
 ":mtgtip:`Paradoxical Outcome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/a/8ad659f3-11c8-4cc0-a716-43bb3ad18a9c.jpg?1614361126|"
 "https://scryfall.com/card/tsr/314/paradoxical-outcome?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:613
+#: ../../TSR.rst:837
 msgid ""
 "Return any number of target nonland, nontoken permanents you control to "
 "their owners' hands. Draw a card for each card returned to your hand this "
@@ -1885,53 +2616,53 @@ msgstr ""
 "rąk ich właścicieli. Dobierz kartę za każdy z nich przywrócony do twojej "
 "ręki w ten sposób."
 
-#: ../../TSR.rst:620
+#: ../../TSR.rst:844
 msgid ""
 ":mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/f/af450adb-23be-4332-a54c-d647a1fd0248.jpg?1614360424|https://"
 "scryfall.com/card/tsr/315/ponder?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:617
+#: ../../TSR.rst:841
 msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle your library."
 msgstr ""
 
-#: ../../TSR.rst:626
+#: ../../TSR.rst:850
 msgid ""
 ":mtgtip:`Remand<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.jpg?1614362443|https://"
 "scryfall.com/card/tsr/316/remand?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:623
+#: ../../TSR.rst:847
 msgid ""
 "Counter target spell. If that spell is countered this way, put it into its "
 "owner's hand instead of into that player's graveyard."
 msgstr ""
 
-#: ../../TSR.rst:632
+#: ../../TSR.rst:856
 msgid ""
 ":mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/7/67954eb1-1c61-432c-9113-104909511ad4.jpg?1614405828|https://"
 "scryfall.com/card/tsr/317/repeal?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:629
+#: ../../TSR.rst:853
 msgid ""
 "Return target nonland permanent with converted mana cost X to its owner's "
 "hand."
 msgstr ""
 
-#: ../../TSR.rst:636
+#: ../../TSR.rst:860
 msgid ""
 ":mtgtip:`Talrand, Sky Summoner<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/4/24c7f794-71b7-433f-9d43-863058efa134.jpg?1614361167|"
 "https://scryfall.com/card/tsr/318/talrand-sky-summoner?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:635
+#: ../../TSR.rst:859
 msgid ""
 "Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake "
 "creature token with flying."
@@ -1939,25 +2670,25 @@ msgstr ""
 "Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton niebieskiego stwora "
 "Drak 2/2 z lataniem."
 
-#: ../../TSR.rst:642
+#: ../../TSR.rst:866
 msgid ""
 ":mtgtip:`Treasure Cruise<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/4/84e86d8e-8d58-41e8-8c4d-b73482bcba45.jpg?1614361435|"
 "https://scryfall.com/card/tsr/319/treasure-cruise?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:641
+#: ../../TSR.rst:865
 msgid "Draw three cards."
 msgstr "Dobierz trzy karty."
 
-#: ../../TSR.rst:646
+#: ../../TSR.rst:870
 msgid ""
 ":mtgtip:`Trinket Mage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/e/2e006682-5236-4a32-9f3d-7337b2c42b21.jpg?1614360046|"
 "https://scryfall.com/card/tsr/320/trinket-mage?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:645
+#: ../../TSR.rst:869
 msgid ""
 "When Trinket Mage enters the battlefield, you may search your library for an "
 "artifact card with converted mana cost 1 or less, reveal that card, and put "
@@ -1967,32 +2698,126 @@ msgstr ""
 "kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją i umieść w twojej "
 "ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
 
-#: ../../TSR.rst:652
+#: ../../TSR.rst:876
 msgid ""
 ":mtgtip:`True-Name Nemesis<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/3/33ad086b-9bf2-4086-b820-a4ff7854a674.jpg?1614361077|"
 "https://scryfall.com/card/tsr/321/true-name-nemesis?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:649
+#: ../../TSR.rst:873
 msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgstr ""
 
-#: ../../TSR.rst:651
+#: ../../TSR.rst:875
 msgid ""
 "True-Name Nemesis has protection from the chosen player. (This creature "
 "can't be blocked, targeted, dealt damage, or enchanted by anything "
 "controlled by that player.)"
 msgstr ""
 
-#: ../../TSR.rst:658
+#: ../../TSR.rst:882
+msgid ""
+":mtgtip:`Dismember<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/0/8/08d405dc-180f-4edb-8c53-80a034ee622e.jpg?1614622777|https://"
+"scryfall.com/card/tsr/322/dismember?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:879
+msgid "(|mana_bp| can be paid with either |mana_b| or 2 life.)"
+msgstr ""
+
+#: ../../TSR.rst:881
+#, fuzzy
+#| msgid "Target creature gets +2/-1 until end of turn."
+msgid "Target creature gets -5/-5 until end of turn."
+msgstr "Wskazany stwór dostaje do końca tury +2/-1."
+
+#: ../../TSR.rst:886
+msgid ""
+":mtgtip:`Gurmag Angler<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/6/361fe303-34a5-4d12-b927-dfb858699c6c.jpg?1614622049|"
+"https://scryfall.com/card/tsr/324/gurmag-angler?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:892
+msgid ""
+":mtgtip:`Harvester of Souls<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/d/5d222691-1eb4-407e-a94a-5a71c0f1e376.jpg?1614623175|"
+"https://scryfall.com/card/tsr/325/harvester-of-souls?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:889
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../TSR.rst:891
+msgid "Whenever another nontoken creature dies, you may draw a card."
+msgstr ""
+
+#: ../../TSR.rst:898
+msgid ""
+":mtgtip:`Leyline of the Void<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/8/186eea73-46c5-4532-ac94-326db7d6f0cb.jpg?1614622318|"
+"https://scryfall.com/card/tsr/326/leyline-of-the-void?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:895
+msgid ""
+"If Leyline of the Void is in your opening hand, you may begin the game with "
+"it on the battlefield."
+msgstr ""
+
+#: ../../TSR.rst:897
+msgid ""
+"If a card would be put into an opponent's graveyard from anywhere, exile it "
+"instead."
+msgstr ""
+
+#: ../../TSR.rst:902
+msgid ""
+":mtgtip:`Zulaport Cutthroat<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/c/bc8a6636-eab2-4aee-bd55-4d62c2e2e266.jpg?1614622540|"
+"https://scryfall.com/card/tsr/327/zulaport-cutthroat?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:901
+msgid ""
+"Whenever Zulaport Cutthroat or another creature you control dies, each "
+"opponent loses 1 life and you gain 1 life."
+msgstr ""
+
+#: ../../TSR.rst:906
+msgid ""
+":mtgtip:`Read the Bones<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/d/4daf00e8-f95b-410f-9e6f-a7fd6c2b8588.jpg?1614623441|"
+"https://scryfall.com/card/tsr/328/read-the-bones?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:905
+#, fuzzy
+#| msgid ""
+#| "Scry 4, then draw two cards. (To scry 4, look at the top four cards of "
+#| "your library, then put any number of them on the bottom of your library "
+#| "and the rest on top in any order.)"
+msgid ""
+"Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top "
+"two cards of your library, then put any number of them on the bottom of your "
+"library and the rest on top in any order.)"
+msgstr ""
+"Wróż 4, następnie dobierz dwie karty. (By wróżyć 4, spójrz na cztery "
+"wierzchnie karty twojej biblioteki, następnie umieść dowolne z nich na "
+"spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
+
+#: ../../TSR.rst:912
 msgid ""
 ":mtgtip:`Relentless Rats<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/8/28de0281-0370-44df-9ee0-6e1bb9925a92.jpg?1614278190|"
 "https://scryfall.com/card/tsr/329/relentless-rats?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:655
+#: ../../TSR.rst:909
 msgid ""
 "Relentless Rats gets +1/+1 for each other creature on the battlefield named "
 "Relentless Rats."
@@ -2000,23 +2825,129 @@ msgstr ""
 "Ten stwór dostaje +1/+1 za każdego innego stwora na polu bitwy o nazwie "
 "Relentless Rats."
 
-#: ../../TSR.rst:657
+#: ../../TSR.rst:911
 msgid "A deck can have any number of cards named Relentless Rats."
 msgstr "Talia może mieć dowolną liczbę kart o nazwie Relentless Rats."
 
-#: ../../TSR.rst:664
+#: ../../TSR.rst:916
+msgid ""
+":mtgtip:`Sanguine Bond<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/f/ff0c16b0-bdab-44e1-b235-47fe8d32f4d2.jpg?1614622383|"
+"https://scryfall.com/card/tsr/330/sanguine-bond?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:915
+#, fuzzy
+#| msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
+msgid "Whenever you gain life, target opponent loses that much life."
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
+
+#: ../../TSR.rst:924
+msgid ""
+":mtgtip:`Shriekmaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/d/0/d007da5a-6bd9-433b-b04e-b740e61dfc50.jpg?1614622917|https://"
+"scryfall.com/card/tsr/331/shriekmaw?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:921
+#, fuzzy
+#| msgid "When Ivory Giant enters the battlefield, tap all nonwhite creatures."
+msgid ""
+"When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack "
+"creature."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie nie-białe stwory."
+
+#: ../../TSR.rst:923
+#, fuzzy
+#| msgid ""
+#| "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If "
+#| "you do, it's sacrificed when it enters the battlefield.)"
+msgid ""
+"Evoke |mana_1|\\ |mana_b| (You may cast this spell for its evoke cost. If "
+"you do, it's sacrificed when it enters the battlefield.)"
+msgstr ""
+"Przyzwanie |mana_2|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
+
+#: ../../TSR.rst:928
+msgid ""
+":mtgtip:`Thoughtseize<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/6/e6e76c6b-9d60-4bc8-b88d-6c9c7fade9a6.jpg?1614623097|"
+"https://scryfall.com/card/tsr/334/thoughtseize?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:927
+msgid ""
+"Target player reveals their hand. You choose a nonland card from it. That "
+"player discards that card. You lose 2 life."
+msgstr ""
+
+#: ../../TSR.rst:934
+msgid ""
+":mtgtip:`Vampire Hexmage<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/9/d945e64f-cbe9-4b72-aaec-0b97be1e12d2.jpg?1614623369|"
+"https://scryfall.com/card/tsr/335/vampire-hexmage?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:933
+msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
+msgstr ""
+
+#: ../../TSR.rst:942
+msgid ""
+":mtgtip:`Yawgmoth, Thran Physician<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/8/1/81564970-23ad-41a3-b5e0-21bdf13f6248.jpg?"
+"1614623201|https://scryfall.com/card/tsr/336/yawgmoth-thran-physician?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:937
+#, fuzzy
+#| msgid "Flying, protection from black"
+msgid "Protection from Humans"
+msgstr "Latanie, ochrona przed czarnym"
+
+#: ../../TSR.rst:939
+msgid ""
+"Pay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one "
+"target creature and draw a card."
+msgstr ""
+
+#: ../../TSR.rst:941
+msgid ""
+"|mana_b|\\ |mana_b|, Discard a card: Proliferate. (Choose any number of "
+"permanents and/or players, then give each another counter of each kind "
+"already there.)"
+msgstr ""
+
+#: ../../TSR.rst:948
+msgid ""
+":mtgtip:`Tasigur, the Golden Fang<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/0/9/095b6fd9-d0e5-4026-895a-851a462cbf90.jpg?"
+"1614622158|https://scryfall.com/card/tsr/353/tasigur-the-golden-fang?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:947
+msgid ""
+"|mana_2|\\ |mana_gu|\\ |mana_gu|: Mill two cards, then return a nonland card "
+"of an opponent's choice from your graveyard to your hand."
+msgstr ""
+
+#: ../../TSR.rst:954
 msgid ""
 ":mtgtip:`Chalice of the Void<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/5/25674e46-e15b-4fc0-9813-39b4e1c23de4.jpg?1614278193|"
 "https://scryfall.com/card/tsr/390/chalice-of-the-void?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:661
+#: ../../TSR.rst:951
 msgid ""
 "Chalice of the Void enters the battlefield with X charge counters on it."
 msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładowania."
 
-#: ../../TSR.rst:663
+#: ../../TSR.rst:953
 msgid ""
 "Whenever a player casts a spell with converted mana cost equal to the number "
 "of charge counters on Chalice of the Void, counter that spell."
@@ -2024,24 +2955,43 @@ msgstr ""
 "Ilekroć grać rzuci czar o skrócie many równym liczbie znaczników ładowania "
 "na tym artefakcie, skontruj ów czar."
 
-#: ../../TSR.rst:671
+#: ../../TSR.rst:962
 msgid ""
 ":mtgtip:`Cranial Plating<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/d/bd26d52d-7437-44cf-90b7-b536a5b8c94d.jpg?1614278199|"
 "https://scryfall.com/card/tsr/392/cranial-plating?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:667
+#: ../../TSR.rst:957
 msgid "Equipped creature gets +1/+0 for each artifact you control."
 msgstr "Wyposażony stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
-#: ../../TSR.rst:669
+#: ../../TSR.rst:959
 msgid ""
 "|mana_b|\\ |mana_b|: Attach Cranial Plating to target creature you control."
 msgstr ""
 "|mana_b|\\ |mana_b|: Dołącz ten artefakt do wskazanego stwora pod twoim "
 "władaniem."
 
-#: ../../TSR.rst:671
+#: ../../TSR.rst:961
 msgid "Equip |mana_1|"
 msgstr "Wyposaż |mana_1|"
+
+#: ../../TSR.rst:965
+msgid ""
+":mtgtip:`Crystal Shard<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/d/cd9b7bf9-4087-4235-a21e-33f52ae69b48.jpg?1614623026|"
+"https://scryfall.com/card/tsr/393/crystal-shard?utm_source=api>`"
+msgstr ""
+
+#: ../../TSR.rst:965
+#, fuzzy
+#| msgid ""
+#| "|mana_u|, |tap|, Discard a card: Return target permanent you control to "
+#| "its owner's hand."
+msgid ""
+"|mana_3|, |tap| or |mana_u|, |tap|: Return target creature to its owner's "
+"hand unless its controller pays |mana_1|."
+msgstr ""
+"|mana_u|, |tap|, odrzuć kartę: Przywróć wskazany permanent pod twoim "
+"władaniem do ręki właściciela."
