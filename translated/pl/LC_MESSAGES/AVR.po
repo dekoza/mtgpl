@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 09:06+0000\n"
+"PO-Revision-Date: 2021-03-01 10:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -1826,6 +1826,8 @@ msgid ""
 "At the beginning of your upkeep, target opponent discards a card if you "
 "control the creature with the greatest power or tied for the greatest power."
 msgstr ""
+"Na początku twojego kroku utrzymania, wskazany przeciwnik odrzuca kartę "
+"jeśli władasz stworem o największej sile lub jednym z takowych."
 
 #: ../../AVR.rst:628
 msgid ""
@@ -2223,10 +2225,12 @@ msgid ""
 "Malignus's power and toughness are each equal to half the highest life total "
 "among your opponents, rounded up."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe połowie najwyższej wartości żyć "
+"pośród twoich przeciwników, zaokrąglając wzwyż."
 
 #: ../../AVR.rst:761
 msgid "Damage that would be dealt by Malignus can't be prevented."
-msgstr ""
+msgstr "Obrażeń zadawanych przez tego stwora nie można zażegnać."
 
 #: ../../AVR.rst:766
 msgid ""
@@ -2281,6 +2285,8 @@ msgid ""
 "Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwory typu Człowiek pod twoim władaniem "
+"dostają do końca tury +1/+0."
 
 #: ../../AVR.rst:784
 msgid ""
@@ -2837,7 +2843,7 @@ msgstr ""
 msgid ""
 "As long as Pathbreaker Wurm is paired with another creature, both creatures "
 "have trample."
-msgstr ""
+msgstr "O ile ten stwór jest sparowany z innym stworem, oba mają tratowanie."
 
 #: ../../AVR.rst:970
 msgid ""
@@ -2851,6 +2857,8 @@ msgid ""
 "Exile the top card of your library. If it's a permanent card, you may put it "
 "onto the battlefield. If you do, repeat this process."
 msgstr ""
+"Wygnaj wierzchnią kartę twojej biblioteki. Jeśli to karta permanentu, możesz "
+"umieścić ją na polu bitwy. Jeśli tak zrobisz, powtórz ten proces."
 
 #: ../../AVR.rst:980
 msgid ""
@@ -2887,6 +2895,8 @@ msgid ""
 "Until end of turn, target creature gets +6/+6 and gains trample, and all "
 "creatures able to block it this turn do so."
 msgstr ""
+"Do końca tury, wskazany stwór dostaje +6/+6, zyskuje tratowanie i wszystkie "
+"stwory mogące go blokować w tej turze, robią to."
 
 #: ../../AVR.rst:990
 msgid ""
@@ -2901,6 +2911,9 @@ msgid ""
 "equal to that creature's toughness. (A creature with hexproof can't be the "
 "target of spells or abilities your opponents control.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje do końca tury antyklątwę. Zyskaj "
+"tyle żyć, ile ma on wytrzymałości. (Stwór z antyklątwą nie może być "
+"wskazywany przez czary i zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../AVR.rst:994
 msgid ""
@@ -2914,6 +2927,8 @@ msgid ""
 "Target creature gets +1/+1 and gains reach until end of turn. (It can block "
 "creatures with flying.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+1 i zasięg. (Może blokować stwory z "
+"lataniem.)"
 
 #: ../../AVR.rst:998
 msgid ""
@@ -2961,6 +2976,8 @@ msgid ""
 "Prevent all combat damage that would be dealt by creatures other than target "
 "creature this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane w tej turze przez "
+"stwory inne niż wskazany stwór."
 
 #: ../../AVR.rst:1012
 msgid ""
@@ -2974,6 +2991,8 @@ msgid ""
 "When Timberland Guide enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../AVR.rst:1016
 msgid ""
@@ -2987,6 +3006,8 @@ msgid ""
 "At the beginning of your upkeep, draw a card if you control the creature "
 "with the greatest power or tied for the greatest power."
 msgstr ""
+"Na początku twojego kroku utrzymania, dobierz kartę jeśli władasz stworem o "
+"największej sile lub jednym z takowych."
 
 #: ../../AVR.rst:1022
 msgid ""
@@ -2999,7 +3020,7 @@ msgstr ""
 msgid ""
 "As long as Trusted Forcemage is paired with another creature, each of those "
 "creatures gets +1/+1."
-msgstr ""
+msgstr "O ile ten stwór jest sparowany z innym stworem, oba dostają +1/+1."
 
 #: ../../AVR.rst:1026
 msgid ""
@@ -3032,7 +3053,7 @@ msgstr ""
 
 #: ../../AVR.rst:1033
 msgid "Creatures with power less than Wandering Wolf's power can't block it."
-msgstr ""
+msgstr "Stwory o sile mniejszej niż siła tego stwora nie mogą go blokować."
 
 #: ../../AVR.rst:1038
 msgid ""
@@ -3046,6 +3067,8 @@ msgid ""
 "Whenever a creature you control becomes the target of an instant or sorcery "
 "spell, that creature gets +3/+3 until end of turn."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zostanie wskazany przez czar sztuczki lub "
+"obrzędu, ów stwór dostaje do końca tury +3/+3."
 
 #: ../../AVR.rst:1042
 msgid ""
@@ -3056,7 +3079,7 @@ msgstr ""
 
 #: ../../AVR.rst:1041
 msgid "Wildwood Geist gets +2/+2 as long as it's your turn."
-msgstr ""
+msgstr "O ile jest twoje tura, ten stwór dostaje +2/+2."
 
 #: ../../AVR.rst:1048
 msgid ""
@@ -3071,7 +3094,7 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../AVR.rst:1047
 msgid "|mana_1|\\ |mana_g|: Regenerate Wolfir Avenger."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../AVR.rst:1054
 msgid ""
@@ -3084,7 +3107,7 @@ msgstr ""
 msgid ""
 "As long as Wolfir Silverheart is paired with another creature, each of those "
 "creatures gets +4/+4."
-msgstr ""
+msgstr "O ile ten stwór jest sparowany z innym stworem, oba dostają +4/+4."
 
 #: ../../AVR.rst:1058
 msgid ""
@@ -3098,6 +3121,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Yew Spirit gets +X/+X until end of turn, "
 "where X is its power."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|: Ten stwór dostaje do końca tury +X/+X, gdzie "
+"X jest jego siłą."
 
 #: ../../AVR.rst:1064
 msgid ""
@@ -3137,12 +3162,17 @@ msgid ""
 "controls, that source deals double that damage to that player or permanent "
 "instead."
 msgstr ""
+"Jeśli źródło miałoby zadać obrażenia przeciwnikowi lub permanentowi pod "
+"władaniem przeciwnika, owo źródło zadaje owemu celowi dwukrotnie tyle "
+"obrażeń."
 
 #: ../../AVR.rst:1071
 msgid ""
 "If a source would deal damage to you or a permanent you control, prevent "
 "half that damage, rounded up."
 msgstr ""
+"Jeśli źródło miałoby zadać obrażenia tobie lub permanentowi pod twoim "
+"władaniem, zażegnaj połowę owych obrażeń, zaokrąglając w górę."
 
 #: ../../AVR.rst:1078
 msgid ""
@@ -3160,6 +3190,8 @@ msgid ""
 "Spells and abilities your opponents control can't cause you to sacrifice "
 "permanents."
 msgstr ""
+"Czary i zdolności pod władaniem twoich przeciwników nie mogą sprawiać, że "
+"poświęcisz permanent."
 
 #: ../../AVR.rst:1082
 msgid ""
@@ -3189,6 +3221,8 @@ msgid ""
 "Equipped creature gets +2/+2, has flying, and is a white Angel in addition "
 "to its other colors and types."
 msgstr ""
+"Wyposażony stwór dostaje +2/+2, ma latanie i jest białym Aniołem oprócz "
+"swoich pozostałych kolorów i typów."
 
 #: ../../AVR.rst:1087
 msgid ""
@@ -3211,7 +3245,7 @@ msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../AVR.rst:1093
 msgid "As long as equipped creature is a Human or an Angel, it has vigilance."
-msgstr ""
+msgstr "O ile wyposażony stwór jest Człowiekiem lub Aniołem, ma czujność."
 
 #: ../../AVR.rst:1095
 msgid ""
@@ -3233,6 +3267,9 @@ msgid ""
 "At the beginning of your end step, you may exile target creature you "
 "control, then return that card to the battlefield under your control."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz wygnać wskazanego stwora pod "
+"twoim władaniem, następnie przywróć ową kartę na pole bitwy pod twoim "
+"władaniem."
 
 #: ../../AVR.rst:1104
 msgid ""
@@ -3247,6 +3284,9 @@ msgid ""
 "creature. Its controller creates a 1/1 white Spirit creature token with "
 "flying."
 msgstr ""
+"|mana_3|, |tap|, przekręć trzy odkręcone stwory typu Człowiek pod twoim "
+"władaniem: Zniszcz wskazanego stwora. Jego władca tworzy żeton białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../AVR.rst:1108
 msgid ""
@@ -3268,13 +3308,15 @@ msgstr ""
 
 #: ../../AVR.rst:1111
 msgid "Equipped creature has first strike."
-msgstr ""
+msgstr "Wyposażony stwór ma pierwszy cios."
 
 #: ../../AVR.rst:1113
 msgid ""
 "Whenever equipped creature attacks, create a 4/4 white Angel creature token "
 "with flying."
 msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, stwórz żeton białego stwora Anioł 4/4 z "
+"lataniem."
 
 #: ../../AVR.rst:1115
 msgid "Equip |mana_4|"
@@ -3289,7 +3331,7 @@ msgstr ""
 
 #: ../../AVR.rst:1119
 msgid "|mana_2|: Narstad Scrapper gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../AVR.rst:1126
 msgid ""
@@ -3300,12 +3342,14 @@ msgstr ""
 
 #: ../../AVR.rst:1123
 msgid "|tap|: Put a charge counter on Otherworld Atlas."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładowania na tym artefakcie."
 
 #: ../../AVR.rst:1125
 msgid ""
 "|tap|: Each player draws a card for each charge counter on Otherworld Atlas."
 msgstr ""
+"|tap|: Każdy gracz dobiera kartę za każdy znacznik ładowania na tym "
+"artefakcie."
 
 #: ../../AVR.rst:1130
 msgid ""
@@ -3334,6 +3378,8 @@ msgid ""
 "|mana_1|, Sacrifice Scroll of Griselbrand: Target opponent discards a card. "
 "If you control a Demon, that player loses 3 life."
 msgstr ""
+"|mana_1|, poświęć ten artefakt: Wskazany przeciwnik odrzuca kartę. Jeśli "
+"władasz Demonem, ów gracz traci 3 życia."
 
 #: ../../AVR.rst:1140
 msgid ""
@@ -3362,6 +3408,8 @@ msgid ""
 "Equipped creature gets +0/+3 and can block an additional creature each "
 "combat."
 msgstr ""
+"Wyposażony stwór dostaje +0/+3 i może blokować dodatkowego stwora w każdej "
+"potyczce."
 
 #: ../../AVR.rst:1145
 msgid ""
@@ -3383,6 +3431,8 @@ msgid ""
 "When Vessel of Endless Rest enters the battlefield, put target card from a "
 "graveyard on the bottom of its owner's library."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, umieść wskazaną kartę z cmentarza "
+"na spodzie biblioteki właściciela."
 
 #: ../../AVR.rst:1151
 msgid "|tap|: Add one mana of any color."
@@ -3438,6 +3488,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_r|, |tap|: Draw a card, then discard a card."
 msgstr ""
+"|mana_1|\\ |mana_u|\\ |mana_r|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../AVR.rst:1180
 msgid ""
@@ -3448,12 +3499,13 @@ msgstr ""
 
 #: ../../AVR.rst:1175
 msgid "When Seraph Sanctuary enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../AVR.rst:1177
 msgid ""
 "Whenever an Angel enters the battlefield under your control, you gain 1 life."
 msgstr ""
+"Ilekroć Anioł wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../AVR.rst:1186
 msgid ""
@@ -3467,6 +3519,8 @@ msgid ""
 "|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance "
 "and haste until end of turn."
 msgstr ""
+"|mana_r|\\ |mana_w|, |tap|: Wskazany stwór dostaje do końca tury +2/+0, "
+"czujność i pośpiech."
 
 #: ../../AVR.rst:1190
 msgid ""

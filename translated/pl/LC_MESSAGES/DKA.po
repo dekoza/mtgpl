@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-02-25 20:36+0000\n"
+"PO-Revision-Date: 2021-03-01 10:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../DKA.rst:5
 msgid ":mtgexp:`DKA` Dark Ascension"
@@ -37,6 +37,8 @@ msgid ""
 "You gain 2 life for each card in your graveyard, then shuffle your graveyard "
 "into your library."
 msgstr ""
+"Zyskaj po 2 życia za każdą kartę w twoim cmentarzu, następnie wtasuj twój "
+"cmentarz do twojej biblioteki."
 
 #: ../../DKA.rst:14
 msgid ""
@@ -48,7 +50,7 @@ msgstr ""
 # c8d25c0d61c74526a98010cc94f82b55
 #: ../../DKA.rst:13
 msgid "Creatures you control get +0/+4 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+4."
 
 #: ../../DKA.rst:20
 msgid ""
@@ -855,6 +857,7 @@ msgid ""
 "Whenever Shriekgeist deals combat damage to a player, that player mills two "
 "cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz mieli dwie karty."
 
 #: ../../DKA.rst:278
 msgid ""
