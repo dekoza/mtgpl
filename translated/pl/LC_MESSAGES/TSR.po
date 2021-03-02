@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 00:31+0100\n"
-"PO-Revision-Date: 2021-03-02 09:18+0000\n"
+"PO-Revision-Date: 2021-03-02 10:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -1759,6 +1759,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_3|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../TSR.rst:584
 msgid ""
@@ -1840,7 +1843,7 @@ msgstr ""
 
 #: ../../TSR.rst:607 ../../TSR.rst:931
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../TSR.rst:609
 msgid ""
@@ -2618,7 +2621,7 @@ msgstr ""
 
 #: ../../TSR.rst:879
 msgid "(|mana_bp| can be paid with either |mana_b| or 2 life.)"
-msgstr ""
+msgstr "(|mana_bp| można opłacić |mana_b| lub 2 życiami.)"
 
 #: ../../TSR.rst:881
 msgid "Target creature gets -5/-5 until end of turn."
@@ -2640,7 +2643,7 @@ msgstr ""
 
 #: ../../TSR.rst:889
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../TSR.rst:891
 msgid "Whenever another nontoken creature dies, you may draw a card."
