@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-20 19:39+0200\n"
-"PO-Revision-Date: 2021-02-20 18:39+0000\n"
+"PO-Revision-Date: 2021-03-02 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
 "duelscene/pl/>\n"
@@ -14,10 +14,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #
-
 msgctxt "DuelScene/Browsers/Assign_Damage_Text"
 msgid "Assign damage for {attacker}."
 msgstr ""
@@ -32,7 +31,7 @@ msgstr ""
 
 msgctxt "DuelScene/Browsers/Browser_CancelText"
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 msgctxt "DuelScene/Browsers/BrowserCardInfo_ActivateAbility"
 msgid "Activate Ability"
@@ -1068,7 +1067,7 @@ msgstr ""
 
 msgctxt "DuelScene/EndMatch/Defeat"
 msgid "Defeat"
-msgstr ""
+msgstr "Porażka"
 
 msgctxt "DuelScene/EndMatch/Draw"
 msgid "Draw"

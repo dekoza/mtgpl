@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 21:28+0000\n"
+"PO-Revision-Date: 2021-03-02 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -1077,12 +1077,16 @@ msgid ""
 "Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, "
 "where X is the number of other creatures on the battlefield."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest "
+"liczbą innych stworów na polu bitwy."
 
 #: ../../C16.rst:395
 msgid ""
 "|mana_2|\\ |mana_w|, Remove a +1/+1 counter from Custodi Soulbinders: Create "
 "a 1/1 white Spirit creature token with flying."
 msgstr ""
+"|mana_2|\\ |mana_w|, usuń znacznik +1/+1 z tego stwora: Stwórz żeton białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../C16.rst:400
 msgid ""
@@ -1354,12 +1358,16 @@ msgid ""
 "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is "
 "the number of instant and sorcery cards in all graveyards."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest "
+"liczbą kart sztuczek i obrzędów we wszystkich cmentarzach."
 
 #: ../../C16.rst:487
 msgid ""
 "|mana_2|\\ |mana_u|, Remove a +1/+1 counter from Academy Elite: Draw a card, "
 "then discard a card."
 msgstr ""
+"|mana_2|\\ |mana_u|, usuń znacznik +1/+1 z tego stwora: Dobierz kartę, "
+"następnie odrzuć kartę."
 
 #: ../../C16.rst:496
 msgid ""
