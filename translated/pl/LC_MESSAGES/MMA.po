@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -438,12 +438,16 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Pallid Mycoderm."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../MMA.rst:133
 msgid ""
 "Remove three spore counters from Pallid Mycoderm: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../MMA.rst:135
 msgid ""
@@ -942,7 +946,7 @@ msgstr ""
 
 #: ../../MMA.rst:309
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../MMA.rst:311
 msgid ""
@@ -1229,7 +1233,7 @@ msgstr ""
 
 #: ../../MMA.rst:425
 msgid "|tap|: Target player loses 1 life."
-msgstr ""
+msgstr "|tap|: Wskazany gracz traci 1 życie."
 
 #: ../../MMA.rst:434
 msgid ""
@@ -1392,6 +1396,9 @@ msgid ""
 "owner's graveyard, hand, and library for all cards with the same name as "
 "that card and exile them. Then that player shuffles their library."
 msgstr ""
+"Wskaż kartę w cmentarzu nie będącą bazowym lądem. Wyszukaj w cmentarzu, ręce "
+"i bibliotece jej właściciela wszystkich kart o takiej samej nazwie i wygnaj "
+"je. Następnie ów gracz tasuje swoją bibliotekę."
 
 #: ../../MMA.rst:488
 msgid ""
@@ -1641,6 +1648,7 @@ msgstr ""
 #: ../../MMA.rst:573
 msgid "Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling—Zapłać 2 życia. (Zapłać 2 życia, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../MMA.rst:580
 msgid ""

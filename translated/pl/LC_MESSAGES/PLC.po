@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 12:49+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/plc/pl/>\n"
 "Language: pl\n"
@@ -236,12 +236,16 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Pallid Mycoderm."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../PLC.rst:75
 msgid ""
 "Remove three spore counters from Pallid Mycoderm: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../PLC.rst:77
 msgid ""
@@ -301,6 +305,8 @@ msgid ""
 "Protection from black; flanking (Whenever a creature without flanking blocks "
 "this creature, the blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Ochrona przed czarnym, flankowanie. (Ilekroć stwór bez flankowania blokuje "
+"tego stwora, blokujący stwór dostaje do końca tury -1/-1.)"
 
 #: ../../PLC.rst:95
 msgid ""
@@ -322,6 +328,9 @@ msgid ""
 "exiled, create a 2/2 black Knight creature token with flanking, protection "
 "from white, and haste."
 msgstr ""
+"Kiedy ostatni znacznik czasu zostanie usunięty z tej karty podczas jej "
+"wygnania, stwórz żeton czarnego stwora Rycerz 2/2 z flankowaniem, ochroną "
+"przed czarnym i pośpiechem."
 
 #: ../../PLC.rst:102
 msgid ""
@@ -524,12 +533,16 @@ msgstr ""
 #: ../../PLC.rst:175
 msgid "At the beginning of your upkeep, put a spore counter on Mycologist."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../PLC.rst:177
 msgid ""
 "Remove three spore counters from Mycologist: Create a 1/1 green Saproling "
 "creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../PLC.rst:179
 msgid "Sacrifice a Saproling: You gain 2 life."
@@ -548,6 +561,9 @@ msgid ""
 "It can't be regenerated. If two or more creatures are tied for least power, "
 "you choose one of them."
 msgstr ""
+"Na początku twojego kroku utrzymania, zniszcz stwora o najmniejszej sile. "
+"Nie może być zregenerowany. Jeśli co najmniej dwa stwory mają najniższą "
+"siłę, wybierz jednego z nich."
 
 #: ../../PLC.rst:185
 msgid ""
@@ -829,6 +845,7 @@ msgid ""
 "When Reality Acid leaves the battlefield, enchanted permanent's controller "
 "sacrifices it."
 msgstr ""
+"Kiedy ten urok opuści pole bitwy, władca zauroczonego permanentu poświęca go."
 
 #: ../../PLC.rst:278
 msgid ""
@@ -842,6 +859,8 @@ msgid ""
 "When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, wskazany stwór dostaje do końca tury +2/-2 "
+"lub -2/+2."
 
 #: ../../PLC.rst:282
 msgid ""
@@ -1126,7 +1145,7 @@ msgstr ""
 
 #: ../../PLC.rst:373
 msgid "|tap|: Target player loses 1 life."
-msgstr ""
+msgstr "|tap|: Wskazany gracz traci 1 życie."
 
 #: ../../PLC.rst:375
 msgid ""
@@ -1261,6 +1280,9 @@ msgid ""
 "owner's graveyard, hand, and library for all cards with the same name as "
 "that card and exile them. Then that player shuffles their library."
 msgstr ""
+"Wskaż kartę w cmentarzu nie będącą bazowym lądem. Wyszukaj w cmentarzu, ręce "
+"i bibliotece jej właściciela wszystkich kart o takiej samej nazwie i wygnaj "
+"je. Następnie ów gracz tasuje swoją bibliotekę."
 
 #: ../../PLC.rst:422
 msgid ""
@@ -1504,6 +1526,8 @@ msgid ""
 "At the beginning of each end step, if Dunerider Outlaw dealt damage to an "
 "opponent this turn, put a +1/+1 counter on it."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli ten stwór zadał przeciwnikowi "
+"obrażenia w tej turze, umieść na nim znacznik +1/+1."
 
 #: ../../PLC.rst:506
 msgid ""
@@ -1517,6 +1541,9 @@ msgid ""
 "All damage that would be dealt this turn to target creature you control by a "
 "source of your choice is dealt to another target creature instead."
 msgstr ""
+"Wszystkie obrażenia, jakie miałyby zostać zadane w tej turze wskazanemu "
+"stworowi pod twoim władaniem przez wybrane przez ciebie źródło, są zamiast "
+"tego zadawane innemu wskazanemu stworowi."
 
 #: ../../PLC.rst:516
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -1716,6 +1716,8 @@ msgid ""
 "When Brine Elemental is turned face up, each opponent skips their next untap "
 "step."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, każdy przeciwnik pomija swój najbliższy "
+"krok odkręcania."
 
 #: ../../C14.rst:582
 msgid ""
@@ -1871,10 +1873,13 @@ msgid ""
 "this card face down as a 2/2 creature for |mana_3|. Turn it face up any time "
 "for its morph cost.)"
 msgstr ""
+"Przemiana—Przywróć dwie Wyspy pod twoim władaniem do ręki właściciela. ("
+"Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w "
+"dowolnym momencie za koszt przemiany.)"
 
 #: ../../C14.rst:629
 msgid "When Fathom Seer is turned face up, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, dobierz dwie karty."
 
 #: ../../C14.rst:636
 msgid ""
@@ -2038,7 +2043,7 @@ msgstr ""
 
 #: ../../C14.rst:685
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../C14.rst:687
 msgid ""
@@ -2170,6 +2175,8 @@ msgid ""
 "When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, wskazany stwór dostaje do końca tury +2/-2 "
+"lub -2/+2."
 
 #: ../../C14.rst:732
 msgid ""
@@ -2252,6 +2259,8 @@ msgid ""
 "Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_1|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C14.rst:757
 msgid ""
@@ -2516,6 +2525,8 @@ msgid ""
 "Morbid — When Morkrut Banshee enters the battlefield, if a creature died "
 "this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../C14.rst:854
 msgid ""
@@ -2679,6 +2690,8 @@ msgid ""
 "Morbid — At the beginning of each end step, if a creature died this turn, "
 "destroy target non-Demon creature."
 msgstr ""
+"Okropność — Na początku każdego kroku końcowego, jeśli w tej turze umarł "
+"stwór, zniszcz wskazanego stwora bez typu Demon."
 
 #: ../../C14.rst:920
 msgid ""
@@ -2751,6 +2764,9 @@ msgid ""
 "Demon creature token with flying. Activate this ability only if a creature "
 "died this turn."
 msgstr ""
+"Okropność — |tap|, przekręć dwa odkręcone stwory pod twoim władaniem: Stwórz "
+"żeton czarnego stwora Demon 5/5 z lataniem. Możesz aktywować tę zdolność "
+"tylko jeśli w tej turze umarł stwór."
 
 #: ../../C14.rst:940
 msgid ""
@@ -2764,6 +2780,8 @@ msgid ""
 "Until end of turn, creatures target player controls lose all abilities and "
 "have base power and toughness 0/2."
 msgstr ""
+"Do końca tury stwory pod władaniem wskazanego gracza tracą wszystkie "
+"zdolności i mają bazowe siłę i wytrzymałość 0/2."
 
 #: ../../C14.rst:944
 msgid ""
@@ -2790,6 +2808,8 @@ msgid ""
 "Tendrils of Corruption deals X damage to target creature and you gain X "
 "life, where X is the number of Swamps you control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi X obrażeń, a ty zyskaj X żyć, gdzie X "
+"jest liczbą Bagien pod twoim władaniem."
 
 #: ../../C14.rst:954
 msgid ""
@@ -2817,7 +2837,7 @@ msgstr ""
 
 #: ../../C14.rst:959
 msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
-msgstr ""
+msgstr "Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego permanentu."
 
 #: ../../C14.rst:964
 msgid ""

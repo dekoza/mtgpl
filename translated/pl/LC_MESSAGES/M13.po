@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -844,6 +844,8 @@ msgid ""
 "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They "
 "can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Inne Wodniki pod twoim władaniem dostają +1/+1 i mają podbój wysp. (Nie mogą "
+"być blokowane o ile broniący się gracz włada Wyspą.)"
 
 #: ../../M13.rst:312
 msgid ""
@@ -2989,17 +2991,19 @@ msgstr ""
 
 #: ../../M13.rst:1087
 msgid "As Stuffy Doll enters the battlefield, choose a player."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu bitwy, wybierz gracza."
 
 #: ../../M13.rst:1089
 msgid ""
 "Whenever Stuffy Doll is dealt damage, it deals that much damage to the "
 "chosen player."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje tyle samo obrażeń wybranemu "
+"graczowi."
 
 #: ../../M13.rst:1091
 msgid "|tap|: Stuffy Doll deals 1 damage to itself."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje sobie 1 obrażenie."
 
 #: ../../M13.rst:1096
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 00:31+0100\n"
-"PO-Revision-Date: 2021-03-02 20:01+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -348,6 +348,8 @@ msgid ""
 "Flying; flanking (Whenever a creature without flanking blocks this creature, "
 "the blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Latanie, flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, "
+"blokujący stwór dostaje do końca tury -1/-1.)"
 
 #: ../../TSR.rst:113
 msgid ""
@@ -374,6 +376,8 @@ msgid ""
 "Flanking (Whenever a creature without flanking blocks this creature, the "
 "blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
+"stwór dostaje do końca tury -1/-1.)"
 
 #: ../../TSR.rst:119
 msgid "If Knight of the Holy Nimbus would be destroyed, regenerate it."
@@ -416,6 +420,8 @@ msgid ""
 "All Sliver creatures have absorb 1. (If a source would deal damage to a "
 "Sliver, prevent 1 of that damage.)"
 msgstr ""
+"Wszystkie Drzazgacze mają absorbcję 1. (Jeśli źródło miałoby zadać obrażenia "
+"Drzazgaczowi, zażegnaj 1 z owych obrażeń.)"
 
 #: ../../TSR.rst:136
 msgid ""
@@ -472,12 +478,16 @@ msgstr ""
 #: ../../TSR.rst:149
 msgid "At the beginning of your upkeep, put a spore counter on Mycologist."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../TSR.rst:151
 msgid ""
 "Remove three spore counters from Mycologist: Create a 1/1 green Saproling "
 "creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../TSR.rst:153
 msgid "Sacrifice a Saproling: You gain 2 life."
@@ -494,12 +504,16 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Pallid Mycoderm."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../TSR.rst:159
 msgid ""
 "Remove three spore counters from Pallid Mycoderm: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../TSR.rst:161
 msgid ""
@@ -522,6 +536,9 @@ msgid ""
 "It can't be regenerated. If two or more creatures are tied for least power, "
 "you choose one of them."
 msgstr ""
+"Na początku twojego kroku utrzymania, zniszcz stwora o najmniejszej sile. "
+"Nie może być zregenerowany. Jeśli co najmniej dwa stwory mają najniższą "
+"siłę, wybierz jednego z nich."
 
 #: ../../TSR.rst:167
 msgid ""
@@ -616,6 +633,8 @@ msgid ""
 "Protection from black; flanking (Whenever a creature without flanking blocks "
 "this creature, the blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Ochrona przed czarnym, flankowanie. (Ilekroć stwór bez flankowania blokuje "
+"tego stwora, blokujący stwór dostaje do końca tury -1/-1.)"
 
 #: ../../TSR.rst:193
 msgid ""
@@ -637,6 +656,9 @@ msgid ""
 "exiled, create a 2/2 black Knight creature token with flanking, protection "
 "from white, and haste."
 msgstr ""
+"Kiedy ostatni znacznik czasu zostanie usunięty z tej karty podczas jej "
+"wygnania, stwórz żeton czarnego stwora Rycerz 2/2 z flankowaniem, ochroną "
+"przed czarnym i pośpiechem."
 
 #: ../../TSR.rst:200
 msgid ""
@@ -848,6 +870,8 @@ msgid ""
 "When Brine Elemental is turned face up, each opponent skips their next untap "
 "step."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, każdy przeciwnik pomija swój najbliższy "
+"krok odkręcania."
 
 #: ../../TSR.rst:276
 msgid ""
@@ -903,6 +927,8 @@ msgid ""
 "When Coral Trickster is turned face up, you may tap or untap target "
 "permanent."
 msgstr ""
+"Kiedy ten stwór zostaje odkryty, możesz przekręcić lub odkręcić wskazany "
+"permanent."
 
 #: ../../TSR.rst:296
 msgid ""
@@ -1044,10 +1070,13 @@ msgid ""
 "this card face down as a 2/2 creature for |mana_3|. Turn it face up any time "
 "for its morph cost.)"
 msgstr ""
+"Przemiana—Przywróć dwie Wyspy pod twoim władaniem do ręki właściciela. ("
+"Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w "
+"dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSR.rst:331
 msgid "When Fathom Seer is turned face up, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, dobierz dwie karty."
 
 #: ../../TSR.rst:336
 msgid ""
@@ -1256,6 +1285,7 @@ msgid ""
 "When Reality Acid leaves the battlefield, enchanted permanent's controller "
 "sacrifices it."
 msgstr ""
+"Kiedy ten urok opuści pole bitwy, władca zauroczonego permanentu poświęca go."
 
 #: ../../TSR.rst:406
 msgid ""
@@ -1306,6 +1336,8 @@ msgid ""
 "When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, wskazany stwór dostaje do końca tury +2/-2 "
+"lub -2/+2."
 
 #: ../../TSR.rst:424
 msgid ""
@@ -1440,12 +1472,18 @@ msgid ""
 "it has \"At the beginning of your upkeep, you may turn this creature face "
 "down.\""
 msgstr ""
+"Umieszczając tego stwora na polu bitwy lub odkrywając go możesz wybrać "
+"innego stwora na polu bitwy. Jeśli tak zrobisz, dopóki niniejszy stwór nie "
+"zostanie zakryty, staje się kopią owego stwora, ale ma \"Na początku twojego "
+"kroku utrzymania możesz zakryć tego stwora.\""
 
 #: ../../TSR.rst:467
 msgid ""
 "Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_1|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSR.rst:474
 msgid ""
@@ -1522,7 +1560,7 @@ msgstr ""
 
 #: ../../TSR.rst:493
 msgid "|tap|: Target player loses 1 life."
-msgstr ""
+msgstr "|tap|: Wskazany gracz traci 1 życie."
 
 #: ../../TSR.rst:502
 msgid ""
@@ -1649,6 +1687,8 @@ msgid ""
 "At the beginning of each end step, if Dunerider Outlaw dealt damage to an "
 "opponent this turn, put a +1/+1 counter on it."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli ten stwór zadał przeciwnikowi "
+"obrażenia w tej turze, umieść na nim znacznik +1/+1."
 
 #: ../../TSR.rst:544
 msgid ""
@@ -1682,6 +1722,9 @@ msgid ""
 "owner's graveyard, hand, and library for all cards with the same name as "
 "that card and exile them. Then that player shuffles their library."
 msgstr ""
+"Wskaż kartę w cmentarzu nie będącą bazowym lądem. Wyszukaj w cmentarzu, ręce "
+"i bibliotece jej właściciela wszystkich kart o takiej samej nazwie i wygnaj "
+"je. Następnie ów gracz tasuje swoją bibliotekę."
 
 #: ../../TSR.rst:558
 msgid ""
@@ -1779,6 +1822,9 @@ msgid ""
 "All damage that would be dealt this turn to target creature you control by a "
 "source of your choice is dealt to another target creature instead."
 msgstr ""
+"Wszystkie obrażenia, jakie miałyby zostać zadane w tej turze wskazanemu "
+"stworowi pod twoim władaniem przez wybrane przez ciebie źródło, są zamiast "
+"tego zadawane innemu wskazanemu stworowi."
 
 #: ../../TSR.rst:590
 msgid ""
@@ -1811,7 +1857,7 @@ msgstr ""
 
 #: ../../TSR.rst:593
 msgid "Flying, first strike, haste"
-msgstr ""
+msgstr "Latanie, pierwszy cios, pośpiech"
 
 #: ../../TSR.rst:595
 msgid ""
@@ -1838,6 +1884,9 @@ msgid ""
 "you may pay |mana_b|. If you do, return Nether Traitor from your graveyard "
 "to the battlefield."
 msgstr ""
+"Ilekroć inny stwór trafi do twojego cmentarza z pola walki, możesz zapłacić "
+"|mana_b|. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza na "
+"pole bitwy."
 
 #: ../../TSR.rst:612
 msgid ""
@@ -1855,6 +1904,8 @@ msgid ""
 "When Nightshade Assassin enters the battlefield, you may reveal X black "
 "cards in your hand. If you do, target creature gets -X/-X until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz ujawnić X czarnych kart z "
+"twojej ręki. Jeśli tak zrobisz, wskazany stwór dostaje do końca tury -X/-X."
 
 #: ../../TSR.rst:616
 msgid ""
@@ -1869,6 +1920,9 @@ msgid ""
 "cards in your graveyard, you may return target creature card from your "
 "graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli masz co najmniej cztery karty "
+"stworów w cmentarzu, możesz przywrócić wskazana kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../TSR.rst:620
 msgid ""
@@ -1899,6 +1953,10 @@ msgid ""
 "Return an exiled card named Sengir Nosferatu to the battlefield under its "
 "owner's control.\""
 msgstr ""
+"|mana_1|\\ |mana_b|, wygnaj tego stwora: Stwórz żeton czarnego stwora "
+"Nietoperz 1/2 z lataniem. Ma on \"|mana_1|\\ |mana_b|, poświęć tego stwora: "
+"Przywróć wygnaną kartę o nazwie Sengir Nosferatu\" na pole bitwy pod "
+"władaniem właściciela.\""
 
 #: ../../TSR.rst:632
 msgid ""
@@ -1927,6 +1985,8 @@ msgid ""
 "Each player loses 1 life, discards a card, sacrifices a creature, then "
 "sacrifices a land."
 msgstr ""
+"Każdy gracz traci 1 życie, odrzuca kartę, poświęca stwora, następnie "
+"poświęca ląd."
 
 #: ../../TSR.rst:642
 msgid ""
@@ -1965,6 +2025,7 @@ msgstr ""
 #: ../../TSR.rst:647
 msgid "Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling—Zapłać 2 życia. (Zapłać 2 życia, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../TSR.rst:654
 msgid ""
@@ -2002,6 +2063,8 @@ msgid ""
 "Until end of turn, creatures target player controls lose all abilities and "
 "have base power and toughness 0/2."
 msgstr ""
+"Do końca tury stwory pod władaniem wskazanego gracza tracą wszystkie "
+"zdolności i mają bazowe siłę i wytrzymałość 0/2."
 
 #: ../../TSR.rst:670
 msgid ""
@@ -2015,6 +2078,8 @@ msgid ""
 "Tendrils of Corruption deals X damage to target creature and you gain X "
 "life, where X is the number of Swamps you control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi X obrażeń, a ty zyskaj X żyć, gdzie X "
+"jest liczbą Bagien pod twoim władaniem."
 
 #: ../../TSR.rst:676
 msgid ""
@@ -2035,6 +2100,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Discard a card: Each other player loses 2 life. "
 "You gain life equal to the life lost this way."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|, odrzuć kartę: Każdy inny gracz traci 2 życia. "
+"Zyskaj tyle żyć, ile stracono w ten sposób."
 
 #: ../../TSR.rst:684
 msgid ""
@@ -2045,7 +2112,7 @@ msgstr ""
 
 #: ../../TSR.rst:683
 msgid "Cards in graveyards lose all abilities."
-msgstr ""
+msgstr "Karty w cmentarzach tracą wszystkie zdolności."
 
 #: ../../TSR.rst:690
 msgid ""
@@ -2068,6 +2135,10 @@ msgid ""
 "until end of turn. The flashback cost is equal to its mana cost. (You may "
 "cast that card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"|tap|: Wskazana karta sztuczki lub obrzędu w twoim cmentarzu zyskuje do "
+"końca tury wspomnienie. Koszt wspomnienia jest równy jej kosztowi many. ("
+"Możesz zagrać ową kartę z twojego cmentarza za jej koszt wspomnienia. "
+"Następnie wygnaj ją.)"
 
 #: ../../TSR.rst:696
 msgid ""
@@ -2105,17 +2176,19 @@ msgstr "Niezniszczalność"
 
 #: ../../TSR.rst:701
 msgid "As Stuffy Doll enters the battlefield, choose a player."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu bitwy, wybierz gracza."
 
 #: ../../TSR.rst:703
 msgid ""
 "Whenever Stuffy Doll is dealt damage, it deals that much damage to the "
 "chosen player."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje tyle samo obrażeń wybranemu "
+"graczowi."
 
 #: ../../TSR.rst:705
 msgid "|tap|: Stuffy Doll deals 1 damage to itself."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje sobie 1 obrażenie."
 
 #: ../../TSR.rst:710
 msgid ""
@@ -2248,7 +2321,7 @@ msgstr ""
 
 #: ../../TSR.rst:751
 msgid "When Palace Jailer enters the battlefield, you become the monarch."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stajesz się monarchą."
 
 #: ../../TSR.rst:753
 msgid ""
@@ -2347,6 +2420,8 @@ msgid ""
 "When Stonehorn Dignitary enters the battlefield, target opponent skips their "
 "next combat phase."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik pomija swoją "
+"najbliższą fazę potyczki."
 
 #: ../../TSR.rst:786
 msgid ""
@@ -2447,6 +2522,8 @@ msgid ""
 "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They "
 "can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Inne Wodniki pod twoim władaniem dostają +1/+1 i mają podbój wysp. (Nie mogą "
+"być blokowane o ile broniący się gracz włada Wyspą.)"
 
 #: ../../TSR.rst:818
 msgid ""
@@ -2457,7 +2534,7 @@ msgstr ""
 
 #: ../../TSR.rst:815
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../TSR.rst:817
 msgid ""
@@ -2476,7 +2553,7 @@ msgstr ""
 
 #: ../../TSR.rst:821
 msgid "Choose three. You may choose the same mode more than once."
-msgstr ""
+msgstr "Wybierz trzy. Możesz wybrać ten sam tryb więcej niż raz."
 
 #: ../../TSR.rst:823
 msgid "Counter target spell unless its controller pays |mana_3|."
@@ -2495,12 +2572,15 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę z twojej ręki na "
+"polu bitwy przekręconą i atakującą.)"
 
 #: ../../TSR.rst:833
 msgid ""
 "Whenever Ninja of the Deep Hours deals combat damage to a player, you may "
 "draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: ../../TSR.rst:838
 msgid ""
@@ -2531,6 +2611,8 @@ msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle your library."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki, następnie umieść je z "
+"powrotem w dowolnej kolejności. Możesz przetasować twoją bibliotekę."
 
 #: ../../TSR.rst:850
 msgid ""
@@ -2544,6 +2626,8 @@ msgid ""
 "Counter target spell. If that spell is countered this way, put it into its "
 "owner's hand instead of into that player's graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jeśli ów czar zostanie skontrowany w ten sposób, "
+"umieść go w ręce właściciela zamiast w jego cmentarzu."
 
 #: ../../TSR.rst:856
 msgid ""
@@ -2557,6 +2641,7 @@ msgid ""
 "Return target nonland permanent with converted mana cost X to its owner's "
 "hand."
 msgstr ""
+"Przywróć wskazany nielądowy permanent o skrócie many X do ręki właściciela."
 
 #: ../../TSR.rst:860
 msgid ""
@@ -2610,7 +2695,7 @@ msgstr ""
 
 #: ../../TSR.rst:873
 msgid "As True-Name Nemesis enters the battlefield, choose a player."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
 
 #: ../../TSR.rst:875
 msgid ""
@@ -2618,6 +2703,8 @@ msgid ""
 "can't be blocked, targeted, dealt damage, or enchanted by anything "
 "controlled by that player.)"
 msgstr ""
+"Ten stwór ma ochronę przed wybranym graczem. (Nic pod władaniem owego gracza "
+"nie może blokować, wskazywać, zadawać obrażeń ani zauroczyć tego stwora.)"
 
 #: ../../TSR.rst:882
 msgid ""
@@ -2789,7 +2876,7 @@ msgstr ""
 
 #: ../../TSR.rst:933
 msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
-msgstr ""
+msgstr "Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego permanentu."
 
 #: ../../TSR.rst:942
 msgid ""
@@ -2808,6 +2895,8 @@ msgid ""
 "Pay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one "
 "target creature and draw a card."
 msgstr ""
+"Zapłać 1 życie, poświęć innego stwora: Umieść znacznik -1/-1 na co najwyżej "
+"jednym wskazanym stworze i dobierz kartę."
 
 #: ../../TSR.rst:941
 msgid ""
@@ -2815,6 +2904,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
+"|mana_b|\\ |mana_b|, odrzuć kartę: Rozpleń. (Wybierz dowolną liczbę "
+"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"każdego z już obecnych tam rodzajów.)"
 
 #: ../../TSR.rst:948
 msgid ""

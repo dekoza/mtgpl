@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1256,7 +1256,7 @@ msgstr ""
 # 304c492d60374bf0b09c7c25077867c1
 #: ../../C13.rst:375
 msgid "As True-Name Nemesis enters the battlefield, choose a player."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
 
 # b3aa723e9f094efc80233aed3e715b1a
 #: ../../C13.rst:377
@@ -1265,6 +1265,8 @@ msgid ""
 "can't be blocked, targeted, dealt damage, or enchanted by anything "
 "controlled by that player.)"
 msgstr ""
+"Ten stwór ma ochronę przed wybranym graczem. (Nic pod władaniem owego gracza "
+"nie może blokować, wskazywać, zadawać obrażeń ani zauroczyć tego stwora.)"
 
 #: ../../C13.rst:384
 msgid ""
@@ -1762,6 +1764,8 @@ msgid ""
 "Until end of turn, creatures target player controls lose all abilities and "
 "have base power and toughness 0/2."
 msgstr ""
+"Do końca tury stwory pod władaniem wskazanego gracza tracą wszystkie "
+"zdolności i mają bazowe siłę i wytrzymałość 0/2."
 
 #: ../../C13.rst:538
 msgid ""

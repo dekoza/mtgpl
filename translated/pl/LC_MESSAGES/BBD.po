@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bbd/pl/>\n"
 "Language: pl\n"
@@ -1929,7 +1929,7 @@ msgstr ""
 
 #: ../../BBD.rst:677
 msgid "Choose three. You may choose the same mode more than once."
-msgstr ""
+msgstr "Wybierz trzy. Możesz wybrać ten sam tryb więcej niż raz."
 
 #: ../../BBD.rst:679
 msgid "Counter target spell unless its controller pays |mana_3|."
@@ -2110,7 +2110,7 @@ msgstr ""
 
 #: ../../BBD.rst:747
 msgid "As True-Name Nemesis enters the battlefield, choose a player."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
 
 #: ../../BBD.rst:749
 msgid ""
@@ -2118,6 +2118,8 @@ msgid ""
 "can't be blocked, targeted, dealt damage, or enchanted by anything "
 "controlled by that player.)"
 msgstr ""
+"Ten stwór ma ochronę przed wybranym graczem. (Nic pod władaniem owego gracza "
+"nie może blokować, wskazywać, zadawać obrażeń ani zauroczyć tego stwora.)"
 
 #: ../../BBD.rst:754
 msgid ""

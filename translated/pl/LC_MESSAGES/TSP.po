@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 12:49+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -97,6 +97,8 @@ msgid ""
 "Flanking (Whenever a creature without flanking blocks this creature, the "
 "blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
+"stwór dostaje do końca tury -1/-1.)"
 
 #: ../../TSP.rst:30
 msgid ""
@@ -896,6 +898,8 @@ msgid ""
 "When Brine Elemental is turned face up, each opponent skips their next untap "
 "step."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, każdy przeciwnik pomija swój najbliższy "
+"krok odkręcania."
 
 #: ../../TSP.rst:318
 msgid ""
@@ -966,6 +970,8 @@ msgid ""
 "When Coral Trickster is turned face up, you may tap or untap target "
 "permanent."
 msgstr ""
+"Kiedy ten stwór zostaje odkryty, możesz przekręcić lub odkręcić wskazany "
+"permanent."
 
 #: ../../TSP.rst:342
 msgid ""
@@ -1095,10 +1101,13 @@ msgid ""
 "this card face down as a 2/2 creature for |mana_3|. Turn it face up any time "
 "for its morph cost.)"
 msgstr ""
+"Przemiana—Przywróć dwie Wyspy pod twoim władaniem do ręki właściciela. ("
+"Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w "
+"dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSP.rst:387
 msgid "When Fathom Seer is turned face up, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, dobierz dwie karty."
 
 #: ../../TSP.rst:396
 msgid ""
@@ -1533,12 +1542,18 @@ msgid ""
 "it has \"At the beginning of your upkeep, you may turn this creature face "
 "down.\""
 msgstr ""
+"Umieszczając tego stwora na polu bitwy lub odkrywając go możesz wybrać "
+"innego stwora na polu bitwy. Jeśli tak zrobisz, dopóki niniejszy stwór nie "
+"zostanie zakryty, staje się kopią owego stwora, ale ma \"Na początku twojego "
+"kroku utrzymania możesz zakryć tego stwora.\""
 
 #: ../../TSP.rst:553
 msgid ""
 "Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_1|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSP.rst:560
 msgid ""
@@ -2082,6 +2097,9 @@ msgid ""
 "you may pay |mana_b|. If you do, return Nether Traitor from your graveyard "
 "to the battlefield."
 msgstr ""
+"Ilekroć inny stwór trafi do twojego cmentarza z pola walki, możesz zapłacić "
+"|mana_b|. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza na "
+"pole bitwy."
 
 #: ../../TSP.rst:746
 msgid ""
@@ -2099,6 +2117,8 @@ msgid ""
 "When Nightshade Assassin enters the battlefield, you may reveal X black "
 "cards in your hand. If you do, target creature gets -X/-X until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz ujawnić X czarnych kart z "
+"twojej ręki. Jeśli tak zrobisz, wskazany stwór dostaje do końca tury -X/-X."
 
 #: ../../TSP.rst:745 ../../TSP.rst:769
 msgid ""
@@ -2221,6 +2241,10 @@ msgid ""
 "Return an exiled card named Sengir Nosferatu to the battlefield under its "
 "owner's control.\""
 msgstr ""
+"|mana_1|\\ |mana_b|, wygnaj tego stwora: Stwórz żeton czarnego stwora "
+"Nietoperz 1/2 z lataniem. Ma on \"|mana_1|\\ |mana_b|, poświęć tego stwora: "
+"Przywróć wygnaną kartę o nazwie Sengir Nosferatu\" na pole bitwy pod "
+"władaniem właściciela.\""
 
 #: ../../TSP.rst:784
 msgid ""
@@ -2257,6 +2281,8 @@ msgid ""
 "Each player loses 1 life, discards a card, sacrifices a creature, then "
 "sacrifices a land."
 msgstr ""
+"Każdy gracz traci 1 życie, odrzuca kartę, poświęca stwora, następnie "
+"poświęca ląd."
 
 #: ../../TSP.rst:800
 msgid ""
@@ -2313,6 +2339,8 @@ msgid ""
 "Until end of turn, creatures target player controls lose all abilities and "
 "have base power and toughness 0/2."
 msgstr ""
+"Do końca tury stwory pod władaniem wskazanego gracza tracą wszystkie "
+"zdolności i mają bazowe siłę i wytrzymałość 0/2."
 
 #: ../../TSP.rst:824
 msgid ""
@@ -2326,6 +2354,8 @@ msgid ""
 "Tendrils of Corruption deals X damage to target creature and you gain X "
 "life, where X is the number of Swamps you control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi X obrażeń, a ty zyskaj X żyć, gdzie X "
+"jest liczbą Bagien pod twoim władaniem."
 
 #: ../../TSP.rst:830
 msgid ""
@@ -2373,6 +2403,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Discard a card: Each other player loses 2 life. "
 "You gain life equal to the life lost this way."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|, odrzuć kartę: Każdy inny gracz traci 2 życia. "
+"Zyskaj tyle żyć, ile stracono w ten sposób."
 
 #: ../../TSP.rst:842
 msgid ""
@@ -3912,6 +3944,10 @@ msgid ""
 "until end of turn. The flashback cost is equal to its mana cost. (You may "
 "cast that card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"|tap|: Wskazana karta sztuczki lub obrzędu w twoim cmentarzu zyskuje do "
+"końca tury wspomnienie. Koszt wspomnienia jest równy jej kosztowi many. ("
+"Możesz zagrać ową kartę z twojego cmentarza za jej koszt wspomnienia. "
+"Następnie wygnaj ją.)"
 
 #: ../../TSP.rst:1400
 msgid ""
@@ -4358,17 +4394,19 @@ msgstr "Niezniszczalność"
 
 #: ../../TSP.rst:1549
 msgid "As Stuffy Doll enters the battlefield, choose a player."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu bitwy, wybierz gracza."
 
 #: ../../TSP.rst:1551
 msgid ""
 "Whenever Stuffy Doll is dealt damage, it deals that much damage to the "
 "chosen player."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje tyle samo obrażeń wybranemu "
+"graczowi."
 
 #: ../../TSP.rst:1553
 msgid "|tap|: Stuffy Doll deals 1 damage to itself."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje sobie 1 obrażenie."
 
 #: ../../TSP.rst:1560
 msgid ""

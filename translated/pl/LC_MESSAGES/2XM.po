@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:01+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -1222,6 +1222,8 @@ msgstr ""
 #: ../../2XM.rst:517
 msgid "Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../2XM.rst:522
 msgid ":mtgtip:`Oubliette<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4800a7d-c229-4ced-97ff-0e58645d58d6.jpg?1599705817|https://scryfall.com/card/2xm/100/oubliette?utm_source=api>`"
@@ -1296,6 +1298,9 @@ msgstr ""
 #: ../../2XM.rst:553
 msgid "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate this ability only if a creature died this turn."
 msgstr ""
+"Okropność — |tap|, przekręć dwa odkręcone stwory pod twoim władaniem: Stwórz "
+"żeton czarnego stwora Demon 5/5 z lataniem. Możesz aktywować tę zdolność "
+"tylko jeśli w tej turze umarł stwór."
 
 #: ../../2XM.rst:564
 msgid ":mtgtip:`Skithiryx, the Blight Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cab61c7e-e00a-413b-a0b5-7718b479582f.jpg?1599705958|https://scryfall.com/card/2xm/107/skithiryx-the-blight-dragon?utm_source=api>`"
@@ -1369,7 +1374,7 @@ msgstr "Pierwszy cios"
 
 #: ../../2XM.rst:589
 msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
-msgstr ""
+msgstr "Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego permanentu."
 
 #: ../../2XM.rst:594
 msgid ":mtgtip:`Wound Reflection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b14a82c-877a-445f-8910-33aaa6fe3d15.jpg?1599706125|https://scryfall.com/card/2xm/113/wound-reflection?utm_source=api>`"
@@ -1455,6 +1460,8 @@ msgstr ""
 #: ../../2XM.rst:631
 msgid "Morbid — Brimstone Volley deals 5 damage instead if a creature died this turn."
 msgstr ""
+"Okropność — Zamiast tego ten czar zadaje 5 obrażeń jeśli w tej turze umarł "
+"stwór."
 
 #: ../../2XM.rst:638
 msgid ":mtgtip:`Cathartic Reunion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b36fa6f3-29e8-4788-bfcd-59576187c399.jpg?1599706266|https://scryfall.com/card/2xm/121/cathartic-reunion?utm_source=api>`"

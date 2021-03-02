@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:04+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -1810,7 +1810,7 @@ msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../ISD.rst:565
 msgid "Return two target Zombie cards from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć dwie wskazane karty Zombi z twojego cmentarza do twojej ręki."
 
 #: ../../ISD.rst:570
 msgid ""
@@ -1854,12 +1854,12 @@ msgstr ""
 # 69c8ae09373c4d00be2e5341f3a29170
 #: ../../ISD.rst:579
 msgid "Creature spells you cast cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów kosztuje cię o |mana_2| mniej."
 
 # 6918269ecff24fbdafa538b4f8f5b1cc
 #: ../../ISD.rst:581
 msgid "Creatures you control get -1/-1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają -1/-1."
 
 #: ../../ISD.rst:590
 msgid ""
@@ -1899,7 +1899,7 @@ msgstr "Pośpiech"
 
 #: ../../ISD.rst:595
 msgid "|mana_1|\\ |mana_b|: Regenerate Manor Skeleton."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Zregeneruj tego stwora."
 
 #: ../../ISD.rst:600
 msgid ""
@@ -1927,7 +1927,7 @@ msgstr ""
 # e446791451904d8f9cc4b1113d001f35
 #: ../../ISD.rst:603
 msgid "Destroy target land. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany ląd. Zyskaj 4 życia."
 
 #: ../../ISD.rst:610
 msgid ""
@@ -1963,6 +1963,8 @@ msgid ""
 "Morbid — When Morkrut Banshee enters the battlefield, if a creature died "
 "this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../ISD.rst:618
 msgid ""
@@ -1992,6 +1994,8 @@ msgid ""
 "Morbid — At the beginning of each end step, if a creature died this turn, "
 "destroy target non-Demon creature."
 msgstr ""
+"Okropność — Na początku każdego kroku końcowego, jeśli w tej turze umarł "
+"stwór, zniszcz wskazanego stwora bez typu Demon."
 
 #: ../../ISD.rst:626
 msgid ""
@@ -2013,6 +2017,8 @@ msgid ""
 "At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|\\ |mana_b|. "
 "If you do, transform Screeching Bat."
 msgstr ""
+"Na początku twojego kroku utrzymania możesz zapłacić |mana_2|\\ |mana_b|\\ "
+"|mana_b|. Jeśli tak zrobisz, transformuj tego stwora."
 
 #: ../../ISD.rst:638
 msgid ""
@@ -2027,6 +2033,8 @@ msgid ""
 "At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|\\ |mana_b|. "
 "If you do, transform Stalking Vampire."
 msgstr ""
+"Na początku twojego kroku utrzymania możesz zapłacić |mana_2|\\ |mana_b|\\ "
+"|mana_b|. Jeśli tak zrobisz, transformuj tego stwora."
 
 #: ../../ISD.rst:644
 msgid ""
@@ -2053,6 +2061,7 @@ msgstr ""
 msgid ""
 "Enchanted creature gets +1/+1 and has \"|mana_b|: Regenerate this creature.\""
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i ma \"|mana_b|: Zregeneruj tego stwora.\""
 
 #: ../../ISD.rst:654
 msgid ""
@@ -2067,6 +2076,9 @@ msgid ""
 "Demon creature token with flying. Activate this ability only if a creature "
 "died this turn."
 msgstr ""
+"Okropność — |tap|, przekręć dwa odkręcone stwory pod twoim władaniem: Stwórz "
+"żeton czarnego stwora Demon 5/5 z lataniem. Możesz aktywować tę zdolność "
+"tylko jeśli w tej turze umarł stwór."
 
 #: ../../ISD.rst:658
 msgid ""
@@ -2081,6 +2093,8 @@ msgid ""
 "Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../ISD.rst:662
 msgid ""
@@ -2095,6 +2109,8 @@ msgid ""
 "Target opponent sacrifices a creature. You gain life equal to that "
 "creature's toughness."
 msgstr ""
+"Wskazany przeciwnik poświęca stwora. Zyskaj tyle żyć, ile ów stwór miał "
+"wytrzymałości."
 
 #: ../../ISD.rst:666
 msgid ""
@@ -2293,6 +2309,8 @@ msgid ""
 "Morbid — Brimstone Volley deals 5 damage instead if a creature died this "
 "turn."
 msgstr ""
+"Okropność — Zamiast tego ten czar zadaje 5 obrażeń jeśli w tej turze umarł "
+"stwór."
 
 #: ../../ISD.rst:734
 msgid ""
@@ -3012,6 +3030,8 @@ msgid ""
 "Morbid — You may put that card onto the battlefield instead of putting it "
 "into your hand if a creature died this turn."
 msgstr ""
+"Okropność — Możesz zamiast tego ową kartę na polu bitwy zamiast w twojej "
+"ręce jeśli w tej turze umarł stwór."
 
 #: ../../ISD.rst:980
 msgid ""
@@ -3130,6 +3150,8 @@ msgid ""
 "Morbid — Festerhide Boar enters the battlefield with two +1/+1 counters on "
 "it if a creature died this turn."
 msgstr ""
+"Okropność — Ten stwór wchodzi na pole bitwy z dwoma znacznikami +1/+1 jeśli "
+"w tej turze umarł stwór."
 
 #: ../../ISD.rst:1016
 msgid ""
@@ -3335,6 +3357,8 @@ msgid ""
 "Morbid — When Hollowhenge Scavenger enters the battlefield, if a creature "
 "died this turn, you gain 5 life."
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, zyskaj 5 żyć."
 
 #: ../../ISD.rst:1076
 msgid ""
@@ -3561,6 +3585,8 @@ msgid ""
 "Morbid — Somberwald Spider enters the battlefield with two +1/+1 counters on "
 "it if a creature died this turn."
 msgstr ""
+"Okropność — Ten stwór wchodzi na pole bitwy z dwoma znacznikami +1/+1 jeśli "
+"w tej turze umarł stwór."
 
 #: ../../ISD.rst:1150
 msgid ""
@@ -3721,6 +3747,8 @@ msgid ""
 "Morbid — When Woodland Sleuth enters the battlefield, if a creature died "
 "this turn, return a creature card at random from your graveyard to your hand."
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, przywróć losową kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../ISD.rst:1202
 msgid ""

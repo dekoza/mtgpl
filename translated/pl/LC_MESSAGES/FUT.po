@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 12:49+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -216,6 +216,8 @@ msgid ""
 "Flying; flanking (Whenever a creature without flanking blocks this creature, "
 "the blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Latanie, flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, "
+"blokujący stwór dostaje do końca tury -1/-1.)"
 
 #: ../../FUT.rst:67
 msgid ""
@@ -478,6 +480,8 @@ msgid ""
 "All Sliver creatures have absorb 1. (If a source would deal damage to a "
 "Sliver, prevent 1 of that damage.)"
 msgstr ""
+"Wszystkie Drzazgacze mają absorbcję 1. (Jeśli źródło miałoby zadać obrażenia "
+"Drzazgaczowi, zażegnaj 1 z owych obrażeń.)"
 
 #: ../../FUT.rst:158
 msgid ""
@@ -1544,6 +1548,7 @@ msgstr ""
 #: ../../FUT.rst:519
 msgid "Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling—Zapłać 2 życia. (Zapłać 2 życia, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../FUT.rst:526
 msgid ""
@@ -1574,7 +1579,7 @@ msgstr ""
 
 #: ../../FUT.rst:533
 msgid "Cards in graveyards lose all abilities."
-msgstr ""
+msgstr "Karty w cmentarzach tracą wszystkie zdolności."
 
 #: ../../FUT.rst:540
 msgid ""
@@ -1615,6 +1620,8 @@ msgid ""
 "Flanking (Whenever a creature without flanking blocks this creature, the "
 "blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
+"stwór dostaje do końca tury -1/-1.)"
 
 #: ../../FUT.rst:552
 msgid ""

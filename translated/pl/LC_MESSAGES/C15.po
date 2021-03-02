@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -142,7 +142,7 @@ msgstr ""
 #: ../../C15.rst:41 ../../C15.rst:85 ../../C15.rst:133 ../../C15.rst:153
 #: ../../C15.rst:235
 msgid "Choose three. You may choose the same mode more than once."
-msgstr ""
+msgstr "Wybierz trzy. Możesz wybrać ten sam tryb więcej niż raz."
 
 #: ../../C15.rst:43
 msgid "Create a 2/2 white Knight creature token with vigilance."
@@ -1656,7 +1656,7 @@ msgstr ""
 
 #: ../../C15.rst:571
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../C15.rst:573
 msgid ""
@@ -1698,12 +1698,15 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę z twojej ręki na "
+"polu bitwy przekręconą i atakującą.)"
 
 #: ../../C15.rst:585
 msgid ""
 "Whenever Ninja of the Deep Hours deals combat damage to a player, you may "
 "draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: ../../C15.rst:594
 msgid ""
@@ -1779,6 +1782,7 @@ msgid ""
 "Return target nonland permanent with converted mana cost X to its owner's "
 "hand."
 msgstr ""
+"Przywróć wskazany nielądowy permanent o skrócie many X do ręki właściciela."
 
 #: ../../C15.rst:618
 msgid ""

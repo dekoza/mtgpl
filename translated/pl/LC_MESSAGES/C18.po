@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -1769,7 +1769,7 @@ msgstr ""
 
 #: ../../C18.rst:591
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../C18.rst:593
 msgid ""
@@ -1792,12 +1792,15 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę z twojej ręki na "
+"polu bitwy przekręconą i atakującą.)"
 
 #: ../../C18.rst:599
 msgid ""
 "Whenever Ninja of the Deep Hours deals combat damage to a player, you may "
 "draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: ../../C18.rst:606
 msgid ""
@@ -1811,6 +1814,8 @@ msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle your library."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki, następnie umieść je z "
+"powrotem w dowolnej kolejności. Możesz przetasować twoją bibliotekę."
 
 #: ../../C18.rst:605 ../../C18.rst:871
 msgid "Draw a card."
