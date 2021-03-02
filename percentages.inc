@@ -120,7 +120,7 @@
 
 .. |WTH_percent| image:: images/pie15.png        
 
-.. |SCG_percent| image:: images/pie20.png        
+.. |SCG_percent| image:: images/pie25.png        
 
 .. |TSP_percent| image:: images/pie35.png        
 
@@ -159,7 +159,7 @@
 .. |RTR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MMA_percent| image:: images/pie30.png        
+.. |MMA_percent| image:: images/pie35.png        
 
 .. |AER_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
