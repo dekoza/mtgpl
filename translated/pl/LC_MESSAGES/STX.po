@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-24 14:21+0100\n"
+"POT-Creation-Date: 2021-03-02 22:39+0100\n"
 "PO-Revision-Date: 2021-02-25 08:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
@@ -23,13 +23,13 @@ msgid ":mtgexp:`STX` Strixhaven: School of Mages"
 msgstr ""
 
 #: ../../STX.rst:18
-msgid ":mtgtip:`Lorehold Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4f0885f-1049-4a19-853d-f4e6d4bec29e.jpg?1614152837|https://scryfall.com/card/stx/199/lorehold-command?utm_source=api>`"
+msgid ""
+":mtgtip:`Lorehold Command<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/4/e4f0885f-1049-4a19-853d-f4e6d4bec29e.jpg?1614152837|"
+"https://scryfall.com/card/stx/199/lorehold-command?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:9
-#: ../../STX.rst:21
-#: ../../STX.rst:33
-#: ../../STX.rst:45
+#: ../../STX.rst:9 ../../STX.rst:21 ../../STX.rst:33 ../../STX.rst:45
 msgid "Choose two —"
 msgstr "Wybierz dwie —"
 
@@ -38,13 +38,16 @@ msgid "Create a 3/2 red and white Spirit creature token."
 msgstr "Stwórz żeton czerwono-białego stwora Duch 3/2."
 
 #: ../../STX.rst:13
-msgid "Creatures you control get +1/+0 and gain indestructible and haste until end of turn."
+msgid ""
+"Creatures you control get +1/+0 and gain indestructible and haste until end "
+"of turn."
 msgstr ""
 "Stwory pod twoim władaniem dostają do końca tury +1/+0, niezniszczalność i "
 "pośpiech."
 
 #: ../../STX.rst:15
-msgid "Lorehold Command deals 3 damage to any target. Target player gains 3 life."
+msgid ""
+"Lorehold Command deals 3 damage to any target. Target player gains 3 life."
 msgstr ""
 "Ten czar zadaje wskazanemu celowi 3 obrażenia. Wskazany gracz zyskuje 3 "
 "życia."
@@ -54,7 +57,10 @@ msgid "Sacrifice a permanent, then draw two cards."
 msgstr "Poświęć permanent, następnie dobierz dwie karty."
 
 #: ../../STX.rst:30
-msgid ":mtgtip:`Prismari Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/866b7fd4-86e3-4b42-b1ea-33bad0db1f9f.jpg?1614152891|https://scryfall.com/card/stx/214/prismari-command?utm_source=api>`"
+msgid ""
+":mtgtip:`Prismari Command<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/6/866b7fd4-86e3-4b42-b1ea-33bad0db1f9f.jpg?1614152891|"
+"https://scryfall.com/card/stx/214/prismari-command?utm_source=api>`"
 msgstr ""
 
 #: ../../STX.rst:23
@@ -74,7 +80,10 @@ msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
 #: ../../STX.rst:42
-msgid ":mtgtip:`Quandrix Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/021b62d8-d160-47f5-bc51-0474f160d13f.jpg?1614152862|https://scryfall.com/card/stx/217/quandrix-command?utm_source=api>`"
+msgid ""
+":mtgtip:`Quandrix Command<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/2/021b62d8-d160-47f5-bc51-0474f160d13f.jpg?1614152862|"
+"https://scryfall.com/card/stx/217/quandrix-command?utm_source=api>`"
 msgstr ""
 
 #: ../../STX.rst:35
@@ -90,13 +99,18 @@ msgid "Put two +1/+1 counters on target creature."
 msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
 #: ../../STX.rst:41
-msgid "Target player shuffles up to three target cards from their graveyard into their library."
+msgid ""
+"Target player shuffles up to three target cards from their graveyard into "
+"their library."
 msgstr ""
 "Wskazany gracz wtasowuje co najwyżej trzy wskazane karty z jego cmentarza do "
 "swojej biblioteki."
 
 #: ../../STX.rst:54
-msgid ":mtgtip:`Silverquill Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c55f533-9d31-4ad1-b336-927aba6e74d6.jpg?1614152919|https://scryfall.com/card/stx/232/silverquill-command?utm_source=api>`"
+msgid ""
+":mtgtip:`Silverquill Command<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/c/5c55f533-9d31-4ad1-b336-927aba6e74d6.jpg?1614152919|"
+"https://scryfall.com/card/stx/232/silverquill-command?utm_source=api>`"
 msgstr ""
 
 #: ../../STX.rst:47
@@ -104,7 +118,9 @@ msgid "Target creature gets +3/+3 and gains flying until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz latanie."
 
 #: ../../STX.rst:49
-msgid "Return target creature card with mana value 2 or less from your graveyard to the battlefield."
+msgid ""
+"Return target creature card with mana value 2 or less from your graveyard to "
+"the battlefield."
 msgstr ""
 "Przywróć wskazaną kartę o skrócie many 2 lub mniejszym z twojego cmentarza "
 "na pole bitwy."
@@ -118,7 +134,10 @@ msgid "Target opponent sacrifices a creature."
 msgstr "Wskazany przeciwnik poświęca stwora."
 
 #: ../../STX.rst:65
-msgid ":mtgtip:`Witherbloom Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87d5e94b-0b35-4efd-9158-1767dcaea38c.jpg?1614152945|https://scryfall.com/card/stx/248/witherbloom-command?utm_source=api>`"
+msgid ""
+":mtgtip:`Witherbloom Command<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/7/87d5e94b-0b35-4efd-9158-1767dcaea38c.jpg?1614152945|"
+"https://scryfall.com/card/stx/248/witherbloom-command?utm_source=api>`"
 msgstr ""
 
 #: ../../STX.rst:57
@@ -126,13 +145,16 @@ msgid "Choose two -"
 msgstr "Wybierz dwie —"
 
 #: ../../STX.rst:59
-msgid "Target player mills three cards, then you return a land card from your graveyard to your hand."
+msgid ""
+"Target player mills three cards, then you return a land card from your "
+"graveyard to your hand."
 msgstr ""
 "Wskazany gracz mieli trzy karty, następnie przywróć kartę lądu z twojego "
 "cmentarza do twojej ręki."
 
 #: ../../STX.rst:61
-msgid "Destroy target noncreature, nonland permanent with mana value 2 or less."
+msgid ""
+"Destroy target noncreature, nonland permanent with mana value 2 or less."
 msgstr ""
 "Zniszcz wskazany nie-stworowy, nie-lądowy permanent o skrócie many 2 lub "
 "mniejszym."

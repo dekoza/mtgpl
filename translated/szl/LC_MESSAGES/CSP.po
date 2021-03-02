@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-19 18:59+0100\n"
+"POT-Creation-Date: 2021-03-02 22:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -21,7 +21,10 @@ msgid ":mtgexp:`CSP` Coldsnap"
 msgstr ""
 
 #: ../../CSP.rst:12
-msgid ":mtgtip:`Adarkar Valkyrie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee4336a9-c904-44a3-8cbd-a1fd5fdbcd74.jpg?1593274705|https://scryfall.com/card/csp/1/adarkar-valkyrie?utm_source=api>`"
+msgid ""
+":mtgtip:`Adarkar Valkyrie<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/e/ee4336a9-c904-44a3-8cbd-a1fd5fdbcd74.jpg?1593274705|"
+"https://scryfall.com/card/csp/1/adarkar-valkyrie?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:9
@@ -29,45 +32,51 @@ msgid "Flying, vigilance"
 msgstr ""
 
 #: ../../CSP.rst:11
-msgid "|tap|: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control."
+msgid ""
+"|tap|: When target creature other than Adarkar Valkyrie dies this turn, "
+"return that card to the battlefield under your control."
 msgstr ""
 
 #: ../../CSP.rst:18
-msgid ":mtgtip:`Boreal Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36638e20-0a1d-4ea3-936c-2ea74add868a.jpg?1593274711|https://scryfall.com/card/csp/2/boreal-griffin?utm_source=api>`"
+msgid ""
+":mtgtip:`Boreal Griffin<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/6/36638e20-0a1d-4ea3-936c-2ea74add868a.jpg?1593274711|"
+"https://scryfall.com/card/csp/2/boreal-griffin?utm_source=api>`"
 msgstr ""
 
-#: ../../CSP.rst:15
-#: ../../CSP.rst:95
-#: ../../CSP.rst:155
-#: ../../CSP.rst:193
-#: ../../CSP.rst:223
-#: ../../CSP.rst:247
-#: ../../CSP.rst:297
-#: ../../CSP.rst:315
-#: ../../CSP.rst:363
-#: ../../CSP.rst:431
-#: ../../CSP.rst:553
-#: ../../CSP.rst:731
-#: ../../CSP.rst:745
-#: ../../CSP.rst:781
+#: ../../CSP.rst:15 ../../CSP.rst:95 ../../CSP.rst:155 ../../CSP.rst:193
+#: ../../CSP.rst:223 ../../CSP.rst:247 ../../CSP.rst:297 ../../CSP.rst:315
+#: ../../CSP.rst:363 ../../CSP.rst:431 ../../CSP.rst:553 ../../CSP.rst:731
+#: ../../CSP.rst:745 ../../CSP.rst:781
 msgid "Flying"
 msgstr ""
 
 #: ../../CSP.rst:17
-msgid "|mana_s|: Boreal Griffin gains first strike until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_s|: Boreal Griffin gains first strike until end of turn. (|mana_s| can "
+"be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:26
-msgid ":mtgtip:`Cover of Winter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91d9bb89-d8f8-4dff-8b94-3f7b8aa8f299.jpg?1593274717|https://scryfall.com/card/csp/3/cover-of-winter?utm_source=api>`"
+msgid ""
+":mtgtip:`Cover of Winter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/1/91d9bb89-d8f8-4dff-8b94-3f7b8aa8f299.jpg?1593274717|"
+"https://scryfall.com/card/csp/3/cover-of-winter?utm_source=api>`"
 msgstr ""
 
-#: ../../CSP.rst:21
-#: ../../CSP.rst:47
-msgid "Cumulative upkeep |mana_s| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. |mana_s| can be paid with one mana from a snow permanent.)"
+#: ../../CSP.rst:21 ../../CSP.rst:47
+msgid ""
+"Cumulative upkeep |mana_s| (At the beginning of your upkeep, put an age "
+"counter on this permanent, then sacrifice it unless you pay its upkeep cost "
+"for each age counter on it. |mana_s| can be paid with one mana from a snow "
+"permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:23
-msgid "If a creature would deal combat damage to you and/or one or more creatures you control, prevent X of that damage, where X is the number of age counters on Cover of Winter."
+msgid ""
+"If a creature would deal combat damage to you and/or one or more creatures "
+"you control, prevent X of that damage, where X is the number of age counters "
+"on Cover of Winter."
 msgstr ""
 
 #: ../../CSP.rst:25
@@ -75,45 +84,60 @@ msgid "|mana_s|: Put an age counter on Cover of Winter."
 msgstr ""
 
 #: ../../CSP.rst:30
-msgid ":mtgtip:`Darien, King of Kjeldor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ea571ae-b9bd-4bd2-9357-52915f0d2f15.jpg?1593274723|https://scryfall.com/card/csp/4/darien-king-of-kjeldor?utm_source=api>`"
+msgid ""
+":mtgtip:`Darien, King of Kjeldor<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/e/5ea571ae-b9bd-4bd2-9357-52915f0d2f15.jpg?1593274723|"
+"https://scryfall.com/card/csp/4/darien-king-of-kjeldor?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:29
-msgid "Whenever you're dealt damage, you may create that many 1/1 white Soldier creature tokens."
+msgid ""
+"Whenever you're dealt damage, you may create that many 1/1 white Soldier "
+"creature tokens."
 msgstr ""
 
 #: ../../CSP.rst:34
-msgid ":mtgtip:`Field Marshal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/421648a0-51c8-45c4-9771-0fd3ccdc69c9.jpg?1593274730|https://scryfall.com/card/csp/5/field-marshal?utm_source=api>`"
+msgid ""
+":mtgtip:`Field Marshal<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/2/421648a0-51c8-45c4-9771-0fd3ccdc69c9.jpg?1593274730|"
+"https://scryfall.com/card/csp/5/field-marshal?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:33
-msgid "Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.)"
+msgid ""
+"Other Soldier creatures get +1/+1 and have first strike. (They deal combat "
+"damage before creatures without first strike.)"
 msgstr ""
 
 #: ../../CSP.rst:42
-msgid ":mtgtip:`Gelid Shackles<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d372bb70-2d2a-4c44-8f69-4abff8ba7c2a.jpg?1593274736|https://scryfall.com/card/csp/6/gelid-shackles?utm_source=api>`"
+msgid ""
+":mtgtip:`Gelid Shackles<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/3/d372bb70-2d2a-4c44-8f69-4abff8ba7c2a.jpg?1593274736|"
+"https://scryfall.com/card/csp/6/gelid-shackles?utm_source=api>`"
 msgstr ""
 
-#: ../../CSP.rst:37
-#: ../../CSP.rst:45
-#: ../../CSP.rst:199
-#: ../../CSP.rst:229
-#: ../../CSP.rst:401
-#: ../../CSP.rst:695
-#: ../../CSP.rst:723
+#: ../../CSP.rst:37 ../../CSP.rst:45 ../../CSP.rst:199 ../../CSP.rst:229
+#: ../../CSP.rst:401 ../../CSP.rst:695 ../../CSP.rst:723
 msgid "Enchant creature"
 msgstr ""
 
 #: ../../CSP.rst:39
-msgid "Enchanted creature can't block, and its activated abilities can't be activated."
+msgid ""
+"Enchanted creature can't block, and its activated abilities can't be "
+"activated."
 msgstr ""
 
 #: ../../CSP.rst:41
-msgid "|mana_s|: Enchanted creature gains defender until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_s|: Enchanted creature gains defender until end of turn. (|mana_s| can "
+"be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:50
-msgid ":mtgtip:`Glacial Plating<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55742f0f-a894-48c3-82b1-dfc3d8390dc3.jpg?1593274743|https://scryfall.com/card/csp/7/glacial-plating?utm_source=api>`"
+msgid ""
+":mtgtip:`Glacial Plating<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/5/55742f0f-a894-48c3-82b1-dfc3d8390dc3.jpg?1593274743|"
+"https://scryfall.com/card/csp/7/glacial-plating?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:49
@@ -121,27 +145,45 @@ msgid "Enchanted creature gets +3/+3 for each age counter on Glacial Plating."
 msgstr ""
 
 #: ../../CSP.rst:54
-msgid ":mtgtip:`Jötun Grunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5526c510-bd33-4fac-8941-f19bd0997557.jpg?1593274750|https://scryfall.com/card/csp/8/j%C3%B6tun-grunt?utm_source=api>`"
+msgid ""
+":mtgtip:`Jötun Grunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/5/5/5526c510-bd33-4fac-8941-f19bd0997557.jpg?1593274750|https://"
+"scryfall.com/card/csp/8/j%C3%B6tun-grunt?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:53
-msgid "Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep—Put two cards from a single graveyard on the bottom of "
+"their owner's library. (At the beginning of your upkeep, put an age counter "
+"on this permanent, then sacrifice it unless you pay its upkeep cost for each "
+"age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:60
-msgid ":mtgtip:`Jötun Owl Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/1566c8a2-aaca-4ce0-a36b-620ea6f135cb.jpg?1593274758|https://scryfall.com/card/csp/9/j%C3%B6tun-owl-keeper?utm_source=api>`"
+msgid ""
+":mtgtip:`Jötun Owl Keeper<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/5/1566c8a2-aaca-4ce0-a36b-620ea6f135cb.jpg?1593274758|"
+"https://scryfall.com/card/csp/9/j%C3%B6tun-owl-keeper?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:57
-msgid "Cumulative upkeep |mana_w| or |mana_u| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep |mana_w| or |mana_u| (At the beginning of your upkeep, put "
+"an age counter on this permanent, then sacrifice it unless you pay its "
+"upkeep cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:59
-msgid "When Jötun Owl Keeper dies, create a 1/1 white Bird creature token with flying for each age counter on it."
+msgid ""
+"When Jötun Owl Keeper dies, create a 1/1 white Bird creature token with "
+"flying for each age counter on it."
 msgstr ""
 
 #: ../../CSP.rst:66
-msgid ":mtgtip:`Kjeldoran Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/484a4892-fba0-459d-9e72-e82f7e079d78.jpg?1593274765|https://scryfall.com/card/csp/10/kjeldoran-gargoyle?utm_source=api>`"
+msgid ""
+":mtgtip:`Kjeldoran Gargoyle<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/8/484a4892-fba0-459d-9e72-e82f7e079d78.jpg?1593274765|"
+"https://scryfall.com/card/csp/10/kjeldoran-gargoyle?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:63
@@ -153,23 +195,31 @@ msgid "Whenever Kjeldoran Gargoyle deals damage, you gain that much life."
 msgstr ""
 
 #: ../../CSP.rst:72
-msgid ":mtgtip:`Kjeldoran Javelineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48b0776b-d1ed-4b0d-9684-99978e3e3b46.jpg?1593274773|https://scryfall.com/card/csp/11/kjeldoran-javelineer?utm_source=api>`"
+msgid ""
+":mtgtip:`Kjeldoran Javelineer<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/8/48b0776b-d1ed-4b0d-9684-99978e3e3b46.jpg?1593274773|"
+"https://scryfall.com/card/csp/11/kjeldoran-javelineer?utm_source=api>`"
 msgstr ""
 
-#: ../../CSP.rst:69
-#: ../../CSP.rst:305
-#: ../../CSP.rst:535
-#: ../../CSP.rst:639
+#: ../../CSP.rst:69 ../../CSP.rst:305 ../../CSP.rst:535 ../../CSP.rst:639
 #: ../../CSP.rst:691
-msgid "Cumulative upkeep |mana_1| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep |mana_1| (At the beginning of your upkeep, put an age "
+"counter on this permanent, then sacrifice it unless you pay its upkeep cost "
+"for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:71
-msgid "|tap|: Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature."
+msgid ""
+"|tap|: Kjeldoran Javelineer deals damage equal to the number of age counters "
+"on it to target attacking or blocking creature."
 msgstr ""
 
 #: ../../CSP.rst:76
-msgid ":mtgtip:`Kjeldoran Outrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd641b1d-dab8-415b-9655-09e033df761d.jpg?1593274782|https://scryfall.com/card/csp/12/kjeldoran-outrider?utm_source=api>`"
+msgid ""
+":mtgtip:`Kjeldoran Outrider<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/d/bd641b1d-dab8-415b-9655-09e033df761d.jpg?1593274782|"
+"https://scryfall.com/card/csp/12/kjeldoran-outrider?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:75
@@ -177,31 +227,48 @@ msgid "|mana_w|: Kjeldoran Outrider gets +0/+1 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:80
-msgid ":mtgtip:`Kjeldoran War Cry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/320b2b02-a3ff-4f68-93e6-8539d7caa005.jpg?1593274788|https://scryfall.com/card/csp/13/kjeldoran-war-cry?utm_source=api>`"
+msgid ""
+":mtgtip:`Kjeldoran War Cry<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/2/320b2b02-a3ff-4f68-93e6-8539d7caa005.jpg?1593274788|"
+"https://scryfall.com/card/csp/13/kjeldoran-war-cry?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:79
-msgid "Creatures you control get +X/+X until end of turn, where X is 1 plus the number of cards named Kjeldoran War Cry in all graveyards."
+msgid ""
+"Creatures you control get +X/+X until end of turn, where X is 1 plus the "
+"number of cards named Kjeldoran War Cry in all graveyards."
 msgstr ""
 
 #: ../../CSP.rst:84
-msgid ":mtgtip:`Luminesce<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38e8fe10-a4b7-4504-849f-a5c8379e587d.jpg?1593274796|https://scryfall.com/card/csp/14/luminesce?utm_source=api>`"
+msgid ""
+":mtgtip:`Luminesce<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/3/8/38e8fe10-a4b7-4504-849f-a5c8379e587d.jpg?1593274796|https://"
+"scryfall.com/card/csp/14/luminesce?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:83
-msgid "Prevent all damage that black sources and red sources would deal this turn."
+msgid ""
+"Prevent all damage that black sources and red sources would deal this turn."
 msgstr ""
 
 #: ../../CSP.rst:88
-msgid ":mtgtip:`Martyr of Sands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59c55105-bffc-43dc-b5f3-2e6bb9323230.jpg?1593274803|https://scryfall.com/card/csp/15/martyr-of-sands?utm_source=api>`"
+msgid ""
+":mtgtip:`Martyr of Sands<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/9/59c55105-bffc-43dc-b5f3-2e6bb9323230.jpg?1593274803|"
+"https://scryfall.com/card/csp/15/martyr-of-sands?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:87
-msgid "|mana_1|, Reveal X white cards from your hand, Sacrifice Martyr of Sands: You gain three times X life."
+msgid ""
+"|mana_1|, Reveal X white cards from your hand, Sacrifice Martyr of Sands: "
+"You gain three times X life."
 msgstr ""
 
 #: ../../CSP.rst:92
-msgid ":mtgtip:`Ronom Unicorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae4764e1-e47c-4934-86a5-9b432c29a158.jpg?1593274811|https://scryfall.com/card/csp/16/ronom-unicorn?utm_source=api>`"
+msgid ""
+":mtgtip:`Ronom Unicorn<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/e/ae4764e1-e47c-4934-86a5-9b432c29a158.jpg?1593274811|"
+"https://scryfall.com/card/csp/16/ronom-unicorn?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:91
@@ -209,7 +276,10 @@ msgid "Sacrifice Ronom Unicorn: Destroy target enchantment."
 msgstr ""
 
 #: ../../CSP.rst:98
-msgid ":mtgtip:`Squall Drifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3ecb728-4b54-47d0-bbef-d39e5f7d172f.jpg?1593274818|https://scryfall.com/card/csp/17/squall-drifter?utm_source=api>`"
+msgid ""
+":mtgtip:`Squall Drifter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/3/b3ecb728-4b54-47d0-bbef-d39e5f7d172f.jpg?1593274818|"
+"https://scryfall.com/card/csp/17/squall-drifter?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:97
@@ -217,7 +287,10 @@ msgid "|mana_w|, |tap|: Tap target creature."
 msgstr ""
 
 #: ../../CSP.rst:104
-msgid ":mtgtip:`Sun's Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bde59b0e-c75e-455b-b375-e0dac430a6d1.jpg?1593274825|https://scryfall.com/card/csp/18/suns-bounty?utm_source=api>`"
+msgid ""
+":mtgtip:`Sun's Bounty<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/d/bde59b0e-c75e-455b-b375-e0dac430a6d1.jpg?1593274825|"
+"https://scryfall.com/card/csp/18/suns-bounty?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:101
@@ -225,15 +298,23 @@ msgid "You gain 4 life."
 msgstr ""
 
 #: ../../CSP.rst:103
-msgid "Recover |mana_1|\\ |mana_w| (When a creature is put into your graveyard from the battlefield, you may pay |mana_1|\\ |mana_w|. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)"
+msgid ""
+"Recover |mana_1|\\ |mana_w| (When a creature is put into your graveyard from "
+"the battlefield, you may pay |mana_1|\\ |mana_w|. If you do, return this "
+"card from your graveyard to your hand. Otherwise, exile this card.)"
 msgstr ""
 
 #: ../../CSP.rst:110
-msgid ":mtgtip:`Sunscour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44c726db-a30a-4e76-9fbf-ec6d5cd7a1ba.jpg?1593274832|https://scryfall.com/card/csp/19/sunscour?utm_source=api>`"
+msgid ""
+":mtgtip:`Sunscour<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/4/44c726db-a30a-4e76-9fbf-ec6d5cd7a1ba.jpg?1593274832|https://"
+"scryfall.com/card/csp/19/sunscour?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:107
-msgid "You may exile two white cards from your hand rather than pay this spell's mana cost."
+msgid ""
+"You may exile two white cards from your hand rather than pay this spell's "
+"mana cost."
 msgstr ""
 
 #: ../../CSP.rst:109
@@ -241,38 +322,45 @@ msgid "Destroy all creatures."
 msgstr ""
 
 #: ../../CSP.rst:116
-msgid ":mtgtip:`Surging Sentinels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/264d120a-d7e2-4b9e-ac85-c66e976c577b.jpg?1593274838|https://scryfall.com/card/csp/20/surging-sentinels?utm_source=api>`"
+msgid ""
+":mtgtip:`Surging Sentinels<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/6/264d120a-d7e2-4b9e-ac85-c66e976c577b.jpg?1593274838|"
+"https://scryfall.com/card/csp/20/surging-sentinels?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:113
 msgid "First strike"
 msgstr ""
 
-#: ../../CSP.rst:115
-#: ../../CSP.rst:275
-#: ../../CSP.rst:425
-#: ../../CSP.rst:575
+#: ../../CSP.rst:115 ../../CSP.rst:275 ../../CSP.rst:425 ../../CSP.rst:575
 #: ../../CSP.rst:727
-msgid "Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)"
+msgid ""
+"Ripple 4 (When you cast this spell, you may reveal the top four cards of "
+"your library. You may cast spells with the same name as this spell from "
+"among those cards without paying their mana costs. Put the rest on the "
+"bottom of your library.)"
 msgstr ""
 
 #: ../../CSP.rst:122
-msgid ":mtgtip:`Swift Maneuver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f97ef40-9d07-47fa-ad4b-45f26f7351c9.jpg?1593274843|https://scryfall.com/card/csp/21/swift-maneuver?utm_source=api>`"
+msgid ""
+":mtgtip:`Swift Maneuver<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/f/1f97ef40-9d07-47fa-ad4b-45f26f7351c9.jpg?1593274843|"
+"https://scryfall.com/card/csp/21/swift-maneuver?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:119
 msgid "Prevent the next 2 damage that would be dealt to any target this turn."
 msgstr ""
 
-#: ../../CSP.rst:121
-#: ../../CSP.rst:293
-#: ../../CSP.rst:453
-#: ../../CSP.rst:659
+#: ../../CSP.rst:121 ../../CSP.rst:293 ../../CSP.rst:453 ../../CSP.rst:659
 msgid "Draw a card at the beginning of the next turn's upkeep."
 msgstr ""
 
 #: ../../CSP.rst:130
-msgid ":mtgtip:`Ursine Fylgja<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1ad7c141-2e20-4891-93a8-1cf309d3b979.jpg?1593274849|https://scryfall.com/card/csp/22/ursine-fylgja?utm_source=api>`"
+msgid ""
+":mtgtip:`Ursine Fylgja<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/a/1ad7c141-2e20-4891-93a8-1cf309d3b979.jpg?1593274849|"
+"https://scryfall.com/card/csp/22/ursine-fylgja?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:125
@@ -280,7 +368,9 @@ msgid "Ursine Fylgja enters the battlefield with four healing counters on it."
 msgstr ""
 
 #: ../../CSP.rst:127
-msgid "Remove a healing counter from Ursine Fylgja: Prevent the next 1 damage that would be dealt to Ursine Fylgja this turn."
+msgid ""
+"Remove a healing counter from Ursine Fylgja: Prevent the next 1 damage that "
+"would be dealt to Ursine Fylgja this turn."
 msgstr ""
 
 #: ../../CSP.rst:129
@@ -288,7 +378,10 @@ msgid "|mana_2|\\ |mana_w|: Put a healing counter on Ursine Fylgja."
 msgstr ""
 
 #: ../../CSP.rst:136
-msgid ":mtgtip:`Wall of Shards<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/884ee8d8-4c0d-4e44-8321-bccd18195693.jpg?1593274857|https://scryfall.com/card/csp/23/wall-of-shards?utm_source=api>`"
+msgid ""
+":mtgtip:`Wall of Shards<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/8/884ee8d8-4c0d-4e44-8321-bccd18195693.jpg?1593274857|"
+"https://scryfall.com/card/csp/23/wall-of-shards?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:133
@@ -296,11 +389,17 @@ msgid "Defender, flying"
 msgstr ""
 
 #: ../../CSP.rst:135
-msgid "Cumulative upkeep—An opponent gains 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep—An opponent gains 1 life. (At the beginning of your "
+"upkeep, put an age counter on this permanent, then sacrifice it unless you "
+"pay its upkeep cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:144
-msgid ":mtgtip:`White Shield Crusader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/368322d7-d399-45e1-8d7f-8001d048071e.jpg?1593274864|https://scryfall.com/card/csp/24/white-shield-crusader?utm_source=api>`"
+msgid ""
+":mtgtip:`White Shield Crusader<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/6/368322d7-d399-45e1-8d7f-8001d048071e.jpg?1593274864|"
+"https://scryfall.com/card/csp/24/white-shield-crusader?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:139
@@ -312,11 +411,15 @@ msgid "|mana_w|: White Shield Crusader gains flying until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:143
-msgid "|mana_w|\\ |mana_w|: White Shield Crusader gets +1/+0 until end of turn."
+msgid ""
+"|mana_w|\\ |mana_w|: White Shield Crusader gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:152
-msgid ":mtgtip:`Woolly Razorback<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95ed6354-161e-496e-9ac7-74432f9b0818.jpg?1593274871|https://scryfall.com/card/csp/25/woolly-razorback?utm_source=api>`"
+msgid ""
+":mtgtip:`Woolly Razorback<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/5/95ed6354-161e-496e-9ac7-74432f9b0818.jpg?1593274871|"
+"https://scryfall.com/card/csp/25/woolly-razorback?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:147
@@ -324,7 +427,9 @@ msgid "Woolly Razorback enters the battlefield with three ice counters on it."
 msgstr ""
 
 #: ../../CSP.rst:149
-msgid "As long as Woolly Razorback has an ice counter on it, prevent all combat damage it would deal and it has defender."
+msgid ""
+"As long as Woolly Razorback has an ice counter on it, prevent all combat "
+"damage it would deal and it has defender."
 msgstr ""
 
 #: ../../CSP.rst:151
@@ -332,43 +437,70 @@ msgid "Whenever Woolly Razorback blocks, remove an ice counter from it."
 msgstr ""
 
 #: ../../CSP.rst:158
-msgid ":mtgtip:`Adarkar Windform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c18bce4a-9afb-4b91-bc9a-d62634b0f8dd.jpg?1593274877|https://scryfall.com/card/csp/26/adarkar-windform?utm_source=api>`"
+msgid ""
+":mtgtip:`Adarkar Windform<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/1/c18bce4a-9afb-4b91-bc9a-d62634b0f8dd.jpg?1593274877|"
+"https://scryfall.com/card/csp/26/adarkar-windform?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:157
-msgid "|mana_1|\\ |mana_s|: Target creature loses flying until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_1|\\ |mana_s|: Target creature loses flying until end of turn. (|"
+"mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:162
-msgid ":mtgtip:`Arcum Dagsson<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd9d3ce7-53db-4808-88bc-03c120211f81.jpg?1593274883|https://scryfall.com/card/csp/27/arcum-dagsson?utm_source=api>`"
+msgid ""
+":mtgtip:`Arcum Dagsson<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/d/dd9d3ce7-53db-4808-88bc-03c120211f81.jpg?1593274883|"
+"https://scryfall.com/card/csp/27/arcum-dagsson?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:161
-msgid "|tap|: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle their library."
+msgid ""
+"|tap|: Target artifact creature's controller sacrifices it. That player may "
+"search their library for a noncreature artifact card, put it onto the "
+"battlefield, then shuffle their library."
 msgstr ""
 
 #: ../../CSP.rst:166
-msgid ":mtgtip:`Balduvian Frostwaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18096cdb-0ba9-41e0-b597-c5ed819e7497.jpg?1593274889|https://scryfall.com/card/csp/28/balduvian-frostwaker?utm_source=api>`"
+msgid ""
+":mtgtip:`Balduvian Frostwaker<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/8/18096cdb-0ba9-41e0-b597-c5ed819e7497.jpg?1593274889|"
+"https://scryfall.com/card/csp/28/balduvian-frostwaker?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:165
-msgid "|mana_u|, |tap|: Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land."
+msgid ""
+"|mana_u|, |tap|: Target snow land becomes a 2/2 blue Elemental creature with "
+"flying. It's still a land."
 msgstr ""
 
 #: ../../CSP.rst:172
-msgid ":mtgtip:`Commandeer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e6e6204-c622-4efe-ac4f-8195528cec9c.jpg?1593274896|https://scryfall.com/card/csp/29/commandeer?utm_source=api>`"
+msgid ""
+":mtgtip:`Commandeer<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/7/e/7e6e6204-c622-4efe-ac4f-8195528cec9c.jpg?1593274896|https://"
+"scryfall.com/card/csp/29/commandeer?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:169
-msgid "You may exile two blue cards from your hand rather than pay this spell's mana cost."
+msgid ""
+"You may exile two blue cards from your hand rather than pay this spell's "
+"mana cost."
 msgstr ""
 
 #: ../../CSP.rst:171
-msgid "Gain control of target noncreature spell. You may choose new targets for it. (If that spell is an artifact, enchantment, or planeswalker, the permanent enters the battlefield under your control.)"
+msgid ""
+"Gain control of target noncreature spell. You may choose new targets for it. "
+"(If that spell is an artifact, enchantment, or planeswalker, the permanent "
+"enters the battlefield under your control.)"
 msgstr ""
 
 #: ../../CSP.rst:178
-msgid ":mtgtip:`Controvert<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e670f6b-d16e-47fc-a5b7-7ca0d8763644.jpg?1593274904|https://scryfall.com/card/csp/30/controvert?utm_source=api>`"
+msgid ""
+":mtgtip:`Controvert<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/0/e/0e670f6b-d16e-47fc-a5b7-7ca0d8763644.jpg?1593274904|https://"
+"scryfall.com/card/csp/30/controvert?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:175
@@ -376,19 +508,32 @@ msgid "Counter target spell."
 msgstr ""
 
 #: ../../CSP.rst:177
-msgid "Recover |mana_2|\\ |mana_u|\\ |mana_u| (When a creature is put into your graveyard from the battlefield, you may pay |mana_2|\\ |mana_u|\\ |mana_u|. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)"
+msgid ""
+"Recover |mana_2|\\ |mana_u|\\ |mana_u| (When a creature is put into your "
+"graveyard from the battlefield, you may pay |mana_2|\\ |mana_u|\\ |mana_u|. "
+"If you do, return this card from your graveyard to your hand. Otherwise, "
+"exile this card.)"
 msgstr ""
 
 #: ../../CSP.rst:182
-msgid ":mtgtip:`Counterbalance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c329ff2b-0331-4934-a8df-870dd7bf402b.jpg?1593274911|https://scryfall.com/card/csp/31/counterbalance?utm_source=api>`"
+msgid ""
+":mtgtip:`Counterbalance<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/3/c329ff2b-0331-4934-a8df-870dd7bf402b.jpg?1593274911|"
+"https://scryfall.com/card/csp/31/counterbalance?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:181
-msgid "Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card."
+msgid ""
+"Whenever an opponent casts a spell, you may reveal the top card of your "
+"library. If you do, counter that spell if it has the same converted mana "
+"cost as the revealed card."
 msgstr ""
 
 #: ../../CSP.rst:186
-msgid ":mtgtip:`Drelnoch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/954a1e9c-ed2f-4774-b2b7-166052a5c59a.jpg?1593274916|https://scryfall.com/card/csp/32/drelnoch?utm_source=api>`"
+msgid ""
+":mtgtip:`Drelnoch<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/9/5/954a1e9c-ed2f-4774-b2b7-166052a5c59a.jpg?1593274916|https://"
+"scryfall.com/card/csp/32/drelnoch?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:185
@@ -396,7 +541,10 @@ msgid "Whenever Drelnoch becomes blocked, you may draw two cards."
 msgstr ""
 
 #: ../../CSP.rst:190
-msgid ":mtgtip:`Flashfreeze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cefd9955-a195-4855-a00e-3809b96ca92b.jpg?1593274923|https://scryfall.com/card/csp/33/flashfreeze?utm_source=api>`"
+msgid ""
+":mtgtip:`Flashfreeze<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/e/cefd9955-a195-4855-a00e-3809b96ca92b.jpg?1593274923|https://"
+"scryfall.com/card/csp/33/flashfreeze?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:189
@@ -404,15 +552,24 @@ msgid "Counter target red or green spell."
 msgstr ""
 
 #: ../../CSP.rst:196
-msgid ":mtgtip:`Frost Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab2f81a-fcbe-44d1-8281-04dd78bb9ea3.jpg?1593274931|https://scryfall.com/card/csp/34/frost-raptor?utm_source=api>`"
+msgid ""
+":mtgtip:`Frost Raptor<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/a/4ab2f81a-fcbe-44d1-8281-04dd78bb9ea3.jpg?1593274931|"
+"https://scryfall.com/card/csp/34/frost-raptor?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:195
-msgid "|mana_s|\\ |mana_s|: Frost Raptor gains shroud until end of turn. (|mana_s| can be paid with one mana from a snow permanent. A creature with shroud can't be the target of spells or abilities.)"
+msgid ""
+"|mana_s|\\ |mana_s|: Frost Raptor gains shroud until end of turn. (|mana_s| "
+"can be paid with one mana from a snow permanent. A creature with shroud "
+"can't be the target of spells or abilities.)"
 msgstr ""
 
 #: ../../CSP.rst:204
-msgid ":mtgtip:`Frozen Solid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72c00743-d208-4aed-939a-d70de2d759b9.jpg?1593274938|https://scryfall.com/card/csp/35/frozen-solid?utm_source=api>`"
+msgid ""
+":mtgtip:`Frozen Solid<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/2/72c00743-d208-4aed-939a-d70de2d759b9.jpg?1593274938|"
+"https://scryfall.com/card/csp/35/frozen-solid?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:201
@@ -424,27 +581,28 @@ msgid "When enchanted creature is dealt damage, destroy it."
 msgstr ""
 
 #: ../../CSP.rst:208
-msgid ":mtgtip:`Heidar, Rimewind Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.jpg?1593274946|https://scryfall.com/card/csp/36/heidar-rimewind-master?utm_source=api>`"
+msgid ""
+":mtgtip:`Heidar, Rimewind Master<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.jpg?1593274946|"
+"https://scryfall.com/card/csp/36/heidar-rimewind-master?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:207
-msgid "|mana_2|, |tap|: Return target permanent to its owner's hand. Activate this ability only if you control four or more snow permanents."
+msgid ""
+"|mana_2|, |tap|: Return target permanent to its owner's hand. Activate this "
+"ability only if you control four or more snow permanents."
 msgstr ""
 
 #: ../../CSP.rst:220
-msgid ":mtgtip:`Jokulmorder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8bd1c2f-dab8-4f22-9400-a0e45618757a.jpg?1593274954|https://scryfall.com/card/csp/37/jokulmorder?utm_source=api>`"
+msgid ""
+":mtgtip:`Jokulmorder<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/a/8/a8bd1c2f-dab8-4f22-9400-a0e45618757a.jpg?1593274954|https://"
+"scryfall.com/card/csp/37/jokulmorder?utm_source=api>`"
 msgstr ""
 
-#: ../../CSP.rst:211
-#: ../../CSP.rst:437
-#: ../../CSP.rst:469
-#: ../../CSP.rst:593
-#: ../../CSP.rst:601
-#: ../../CSP.rst:621
-#: ../../CSP.rst:669
-#: ../../CSP.rst:681
-#: ../../CSP.rst:703
-#: ../../CSP.rst:775
+#: ../../CSP.rst:211 ../../CSP.rst:437 ../../CSP.rst:469 ../../CSP.rst:593
+#: ../../CSP.rst:601 ../../CSP.rst:621 ../../CSP.rst:669 ../../CSP.rst:681
+#: ../../CSP.rst:703 ../../CSP.rst:775
 msgid "Trample"
 msgstr ""
 
@@ -453,7 +611,9 @@ msgid "Jokulmorder enters the battlefield tapped."
 msgstr ""
 
 #: ../../CSP.rst:215
-msgid "When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands."
+msgid ""
+"When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice "
+"five lands."
 msgstr ""
 
 #: ../../CSP.rst:217
@@ -465,19 +625,30 @@ msgid "Whenever you play an Island, you may untap Jokulmorder."
 msgstr ""
 
 #: ../../CSP.rst:226
-msgid ":mtgtip:`Krovikan Mist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43e09469-205d-4a60-821c-ceb7ae2e01be.jpg?1593274960|https://scryfall.com/card/csp/38/krovikan-mist?utm_source=api>`"
+msgid ""
+":mtgtip:`Krovikan Mist<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/3/43e09469-205d-4a60-821c-ceb7ae2e01be.jpg?1593274960|"
+"https://scryfall.com/card/csp/38/krovikan-mist?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:225
-msgid "Krovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield."
+msgid ""
+"Krovikan Mist's power and toughness are each equal to the number of "
+"Illusions on the battlefield."
 msgstr ""
 
 #: ../../CSP.rst:236
-msgid ":mtgtip:`Krovikan Whispers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9ac2469-db92-44e4-8930-96f2c40c60f1.jpg?1593274966|https://scryfall.com/card/csp/39/krovikan-whispers?utm_source=api>`"
+msgid ""
+":mtgtip:`Krovikan Whispers<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/9/e9ac2469-db92-44e4-8930-96f2c40c60f1.jpg?1593274966|"
+"https://scryfall.com/card/csp/39/krovikan-whispers?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:231
-msgid "Cumulative upkeep |mana_u| or |mana_b| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep |mana_u| or |mana_b| (At the beginning of your upkeep, put "
+"an age counter on this permanent, then sacrifice it unless you pay its "
+"upkeep cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:233
@@ -485,19 +656,29 @@ msgid "You control enchanted creature."
 msgstr ""
 
 #: ../../CSP.rst:235
-msgid "When Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 life for each age counter on it."
+msgid ""
+"When Krovikan Whispers is put into a graveyard from the battlefield, you "
+"lose 2 life for each age counter on it."
 msgstr ""
 
 #: ../../CSP.rst:240
-msgid ":mtgtip:`Martyr of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b249136c-94d4-4f65-95a4-d45b4f20429b.jpg?1593274973|https://scryfall.com/card/csp/40/martyr-of-frost?utm_source=api>`"
+msgid ""
+":mtgtip:`Martyr of Frost<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/2/b249136c-94d4-4f65-95a4-d45b4f20429b.jpg?1593274973|"
+"https://scryfall.com/card/csp/40/martyr-of-frost?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:239
-msgid "|mana_2|, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays |mana_x|."
+msgid ""
+"|mana_2|, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: "
+"Counter target spell unless its controller pays |mana_x|."
 msgstr ""
 
 #: ../../CSP.rst:244
-msgid ":mtgtip:`Perilous Research<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0669285c-5560-4f49-8d0a-44b8c33e23d0.jpg?1593274979|https://scryfall.com/card/csp/41/perilous-research?utm_source=api>`"
+msgid ""
+":mtgtip:`Perilous Research<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/6/0669285c-5560-4f49-8d0a-44b8c33e23d0.jpg?1593274979|"
+"https://scryfall.com/card/csp/41/perilous-research?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:243
@@ -505,11 +686,16 @@ msgid "Draw two cards, then sacrifice a permanent."
 msgstr ""
 
 #: ../../CSP.rst:254
-msgid ":mtgtip:`Rimefeather Owl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e8e3552-a251-4a80-b0bb-a96a9f8a4c56.jpg?1593274984|https://scryfall.com/card/csp/42/rimefeather-owl?utm_source=api>`"
+msgid ""
+":mtgtip:`Rimefeather Owl<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/e/7e8e3552-a251-4a80-b0bb-a96a9f8a4c56.jpg?1593274984|"
+"https://scryfall.com/card/csp/42/rimefeather-owl?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:249
-msgid "Rimefeather Owl's power and toughness are each equal to the number of snow permanents on the battlefield."
+msgid ""
+"Rimefeather Owl's power and toughness are each equal to the number of snow "
+"permanents on the battlefield."
 msgstr ""
 
 #: ../../CSP.rst:251
@@ -521,27 +707,42 @@ msgid "Permanents with ice counters on them are snow."
 msgstr ""
 
 #: ../../CSP.rst:258
-msgid ":mtgtip:`Rimewind Cryomancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4433653d-5ba9-4cdb-8a0b-69026301bc6f.jpg?1593274990|https://scryfall.com/card/csp/43/rimewind-cryomancer?utm_source=api>`"
+msgid ""
+":mtgtip:`Rimewind Cryomancer<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/4/4433653d-5ba9-4cdb-8a0b-69026301bc6f.jpg?1593274990|"
+"https://scryfall.com/card/csp/43/rimewind-cryomancer?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:257
-msgid "|mana_1|, |tap|: Counter target activated ability. Activate this ability only if you control four or more snow permanents. (Mana abilities can't be targeted.)"
+msgid ""
+"|mana_1|, |tap|: Counter target activated ability. Activate this ability "
+"only if you control four or more snow permanents. (Mana abilities can't be "
+"targeted.)"
 msgstr ""
 
 #: ../../CSP.rst:262
-msgid ":mtgtip:`Rimewind Taskmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9cdc06e-1458-4b19-a272-28a3d0453643.jpg?1593274996|https://scryfall.com/card/csp/44/rimewind-taskmage?utm_source=api>`"
+msgid ""
+":mtgtip:`Rimewind Taskmage<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/9/e9cdc06e-1458-4b19-a272-28a3d0453643.jpg?1593274996|"
+"https://scryfall.com/card/csp/44/rimewind-taskmage?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:261
-msgid "|mana_1|, |tap|: You may tap or untap target permanent. Activate this ability only if you control four or more snow permanents."
+msgid ""
+"|mana_1|, |tap|: You may tap or untap target permanent. Activate this "
+"ability only if you control four or more snow permanents."
 msgstr ""
 
 #: ../../CSP.rst:268
-msgid ":mtgtip:`Ronom Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bf81a39-0a6e-4253-81eb-a24f48253343.jpg?1593275002|https://scryfall.com/card/csp/45/ronom-serpent?utm_source=api>`"
+msgid ""
+":mtgtip:`Ronom Serpent<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/b/3bf81a39-0a6e-4253-81eb-a24f48253343.jpg?1593275002|"
+"https://scryfall.com/card/csp/45/ronom-serpent?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:265
-msgid "Ronom Serpent can't attack unless defending player controls a snow land."
+msgid ""
+"Ronom Serpent can't attack unless defending player controls a snow land."
 msgstr ""
 
 #: ../../CSP.rst:267
@@ -549,15 +750,23 @@ msgid "When you control no snow lands, sacrifice Ronom Serpent."
 msgstr ""
 
 #: ../../CSP.rst:272
-msgid ":mtgtip:`Rune Snag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45b6cadf-1974-47c8-98d8-ba413486c3b5.jpg?1593275010|https://scryfall.com/card/csp/46/rune-snag?utm_source=api>`"
+msgid ""
+":mtgtip:`Rune Snag<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/5/45b6cadf-1974-47c8-98d8-ba413486c3b5.jpg?1593275010|https://"
+"scryfall.com/card/csp/46/rune-snag?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:271
-msgid "Counter target spell unless its controller pays |mana_2| plus an additional |mana_2| for each card named Rune Snag in each graveyard."
+msgid ""
+"Counter target spell unless its controller pays |mana_2| plus an additional |"
+"mana_2| for each card named Rune Snag in each graveyard."
 msgstr ""
 
 #: ../../CSP.rst:278
-msgid ":mtgtip:`Surging Aether<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfba9fc2-8746-4693-bb75-01b5d78f7fee.jpg?1593275016|https://scryfall.com/card/csp/47/surging-aether?utm_source=api>`"
+msgid ""
+":mtgtip:`Surging Aether<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/f/bfba9fc2-8746-4693-bb75-01b5d78f7fee.jpg?1593275016|"
+"https://scryfall.com/card/csp/47/surging-aether?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:277
@@ -565,20 +774,29 @@ msgid "Return target permanent to its owner's hand."
 msgstr ""
 
 #: ../../CSP.rst:284
-msgid ":mtgtip:`Survivor of the Unseen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a28c9cb-ae41-4f9c-b3f6-151ef95c81b3.jpg?1593275023|https://scryfall.com/card/csp/48/survivor-of-the-unseen?utm_source=api>`"
+msgid ""
+":mtgtip:`Survivor of the Unseen<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/a/8a28c9cb-ae41-4f9c-b3f6-151ef95c81b3.jpg?1593275023|"
+"https://scryfall.com/card/csp/48/survivor-of-the-unseen?utm_source=api>`"
 msgstr ""
 
-#: ../../CSP.rst:281
-#: ../../CSP.rst:627
-msgid "Cumulative upkeep |mana_2| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+#: ../../CSP.rst:281 ../../CSP.rst:627
+msgid ""
+"Cumulative upkeep |mana_2| (At the beginning of your upkeep, put an age "
+"counter on this permanent, then sacrifice it unless you pay its upkeep cost "
+"for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:283
-msgid "|tap|: Draw two cards, then put a card from your hand on top of your library."
+msgid ""
+"|tap|: Draw two cards, then put a card from your hand on top of your library."
 msgstr ""
 
 #: ../../CSP.rst:294
-msgid ":mtgtip:`Thermal Flux<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/523ab8a0-906a-43b3-a554-db0d3dcd62d3.jpg?1593275030|https://scryfall.com/card/csp/49/thermal-flux?utm_source=api>`"
+msgid ""
+":mtgtip:`Thermal Flux<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/2/523ab8a0-906a-43b3-a554-db0d3dcd62d3.jpg?1593275030|"
+"https://scryfall.com/card/csp/49/thermal-flux?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:287
@@ -594,11 +812,17 @@ msgid "Target snow permanent isn't snow until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:302
-msgid ":mtgtip:`Vexing Sphinx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81cc1248-85c8-428f-ba08-96d188167eaa.jpg?1593275036|https://scryfall.com/card/csp/50/vexing-sphinx?utm_source=api>`"
+msgid ""
+":mtgtip:`Vexing Sphinx<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/1/81cc1248-85c8-428f-ba08-96d188167eaa.jpg?1593275036|"
+"https://scryfall.com/card/csp/50/vexing-sphinx?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:299
-msgid "Cumulative upkeep—Discard a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep—Discard a card. (At the beginning of your upkeep, put an "
+"age counter on this permanent, then sacrifice it unless you pay its upkeep "
+"cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:301
@@ -606,15 +830,23 @@ msgid "When Vexing Sphinx dies, draw a card for each age counter on it."
 msgstr ""
 
 #: ../../CSP.rst:308
-msgid ":mtgtip:`Balduvian Fallen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a52b952-6e3b-403b-b355-2af47a282ab6.jpg?1593275042|https://scryfall.com/card/csp/51/balduvian-fallen?utm_source=api>`"
+msgid ""
+":mtgtip:`Balduvian Fallen<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/a/6a52b952-6e3b-403b-b355-2af47a282ab6.jpg?1593275042|"
+"https://scryfall.com/card/csp/51/balduvian-fallen?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:307
-msgid "Whenever Balduvian Fallen's cumulative upkeep is paid, it gets +1/+0 until end of turn for each |mana_b| or |mana_r| spent this way."
+msgid ""
+"Whenever Balduvian Fallen's cumulative upkeep is paid, it gets +1/+0 until "
+"end of turn for each |mana_b| or |mana_r| spent this way."
 msgstr ""
 
 #: ../../CSP.rst:312
-msgid ":mtgtip:`Chill to the Bone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/312505d7-362e-43cf-bd23-28c248a8b7e1.jpg?1593275049|https://scryfall.com/card/csp/52/chill-to-the-bone?utm_source=api>`"
+msgid ""
+":mtgtip:`Chill to the Bone<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/1/312505d7-362e-43cf-bd23-28c248a8b7e1.jpg?1593275049|"
+"https://scryfall.com/card/csp/52/chill-to-the-bone?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:311
@@ -622,15 +854,23 @@ msgid "Destroy target nonsnow creature."
 msgstr ""
 
 #: ../../CSP.rst:318
-msgid ":mtgtip:`Chilling Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.jpg?1593275055|https://scryfall.com/card/csp/53/chilling-shade?utm_source=api>`"
+msgid ""
+":mtgtip:`Chilling Shade<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.jpg?1593275055|"
+"https://scryfall.com/card/csp/53/chilling-shade?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:317
-msgid "|mana_s|: Chilling Shade gets +1/+1 until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_s|: Chilling Shade gets +1/+1 until end of turn. (|mana_s| can be paid "
+"with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:322
-msgid ":mtgtip:`Deathmark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e72e8728-d0a0-4ee5-87c3-092ca94225e0.jpg?1593275062|https://scryfall.com/card/csp/54/deathmark?utm_source=api>`"
+msgid ""
+":mtgtip:`Deathmark<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/e/7/e72e8728-d0a0-4ee5-87c3-092ca94225e0.jpg?1593275062|https://"
+"scryfall.com/card/csp/54/deathmark?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:321
@@ -638,7 +878,10 @@ msgid "Destroy target green or white creature."
 msgstr ""
 
 #: ../../CSP.rst:328
-msgid ":mtgtip:`Disciple of Tevesh Szat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f99ec07-8af7-4e80-9f0e-fa304a94d4b4.jpg?1593275068|https://scryfall.com/card/csp/55/disciple-of-tevesh-szat?utm_source=api>`"
+msgid ""
+":mtgtip:`Disciple of Tevesh Szat<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/f/8f99ec07-8af7-4e80-9f0e-fa304a94d4b4.jpg?1593275068|"
+"https://scryfall.com/card/csp/55/disciple-of-tevesh-szat?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:325
@@ -646,19 +889,29 @@ msgid "|tap|: Target creature gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:327
-msgid "|mana_4|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice Disciple of Tevesh Szat: Target creature gets -6/-6 until end of turn."
+msgid ""
+"|mana_4|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice Disciple of Tevesh Szat: "
+"Target creature gets -6/-6 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:332
-msgid ":mtgtip:`Feast of Flesh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d344791-5d5c-40c5-99c7-931954ea39d1.jpg?1593275073|https://scryfall.com/card/csp/56/feast-of-flesh?utm_source=api>`"
+msgid ""
+":mtgtip:`Feast of Flesh<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/d/2d344791-5d5c-40c5-99c7-931954ea39d1.jpg?1593275073|"
+"https://scryfall.com/card/csp/56/feast-of-flesh?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:331
-msgid "Feast of Flesh deals X damage to target creature and you gain X life, where X is 1 plus the number of cards named Feast of Flesh in all graveyards."
+msgid ""
+"Feast of Flesh deals X damage to target creature and you gain X life, where "
+"X is 1 plus the number of cards named Feast of Flesh in all graveyards."
 msgstr ""
 
 #: ../../CSP.rst:338
-msgid ":mtgtip:`Garza's Assassin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3407ccbd-788d-4fe3-a039-0497724a94b5.jpg?1593275079|https://scryfall.com/card/csp/57/garzas-assassin?utm_source=api>`"
+msgid ""
+":mtgtip:`Garza's Assassin<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/4/3407ccbd-788d-4fe3-a039-0497724a94b5.jpg?1593275079|"
+"https://scryfall.com/card/csp/57/garzas-assassin?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:335
@@ -666,11 +919,18 @@ msgid "Sacrifice Garza's Assassin: Destroy target nonblack creature."
 msgstr ""
 
 #: ../../CSP.rst:337
-msgid "Recover—Pay half your life, rounded up. (When another creature is put into your graveyard from the battlefield, you may pay half your life, rounded up. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)"
+msgid ""
+"Recover—Pay half your life, rounded up. (When another creature is put into "
+"your graveyard from the battlefield, you may pay half your life, rounded up. "
+"If you do, return this card from your graveyard to your hand. Otherwise, "
+"exile this card.)"
 msgstr ""
 
 #: ../../CSP.rst:344
-msgid ":mtgtip:`Grim Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdb1972f-2ef7-4fe2-8c8e-ab07f48a3176.jpg?1593275085|https://scryfall.com/card/csp/58/grim-harvest?utm_source=api>`"
+msgid ""
+":mtgtip:`Grim Harvest<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/d/bdb1972f-2ef7-4fe2-8c8e-ab07f48a3176.jpg?1593275085|"
+"https://scryfall.com/card/csp/58/grim-harvest?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:341
@@ -678,11 +938,17 @@ msgid "Return target creature card from your graveyard to your hand."
 msgstr ""
 
 #: ../../CSP.rst:343
-msgid "Recover |mana_2|\\ |mana_b| (When a creature is put into your graveyard from the battlefield, you may pay |mana_2|\\ |mana_b|. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)"
+msgid ""
+"Recover |mana_2|\\ |mana_b| (When a creature is put into your graveyard from "
+"the battlefield, you may pay |mana_2|\\ |mana_b|. If you do, return this "
+"card from your graveyard to your hand. Otherwise, exile this card.)"
 msgstr ""
 
 #: ../../CSP.rst:348
-msgid ":mtgtip:`Gristle Grinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff8b607d-56c5-4a18-88b5-d5d0f50ef403.jpg?1593275091|https://scryfall.com/card/csp/59/gristle-grinner?utm_source=api>`"
+msgid ""
+":mtgtip:`Gristle Grinner<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/f/ff8b607d-56c5-4a18-88b5-d5d0f50ef403.jpg?1593275091|"
+"https://scryfall.com/card/csp/59/gristle-grinner?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:347
@@ -690,7 +956,10 @@ msgid "Whenever a creature dies, Gristle Grinner gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:352
-msgid ":mtgtip:`Gutless Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8bb97ce-d9cf-47db-93cb-02745ebeb05e.jpg?1593275097|https://scryfall.com/card/csp/60/gutless-ghoul?utm_source=api>`"
+msgid ""
+":mtgtip:`Gutless Ghoul<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/8/b8bb97ce-d9cf-47db-93cb-02745ebeb05e.jpg?1593275097|"
+"https://scryfall.com/card/csp/60/gutless-ghoul?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:351
@@ -698,15 +967,23 @@ msgid "|mana_1|, Sacrifice a creature: You gain 2 life."
 msgstr ""
 
 #: ../../CSP.rst:360
-msgid ":mtgtip:`Haakon, Stromgald Scourge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10a7101e-e6c7-40d6-82cb-daa84701d1f8.jpg?1593275103|https://scryfall.com/card/csp/61/haakon-stromgald-scourge?utm_source=api>`"
+msgid ""
+":mtgtip:`Haakon, Stromgald Scourge<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/1/0/10a7101e-e6c7-40d6-82cb-daa84701d1f8.jpg?"
+"1593275103|https://scryfall.com/card/csp/61/haakon-stromgald-scourge?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:355
-msgid "You may cast Haakon, Stromgald Scourge from your graveyard, but not from anywhere else."
+msgid ""
+"You may cast Haakon, Stromgald Scourge from your graveyard, but not from "
+"anywhere else."
 msgstr ""
 
 #: ../../CSP.rst:357
-msgid "As long as Haakon is on the battlefield, you may cast Knight spells from your graveyard."
+msgid ""
+"As long as Haakon is on the battlefield, you may cast Knight spells from "
+"your graveyard."
 msgstr ""
 
 #: ../../CSP.rst:359
@@ -714,11 +991,17 @@ msgid "When Haakon dies, you lose 2 life."
 msgstr ""
 
 #: ../../CSP.rst:370
-msgid ":mtgtip:`Herald of Leshrac<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad6080b1-b032-4172-8594-4d894a60a80d.jpg?1593275109|https://scryfall.com/card/csp/62/herald-of-leshrac?utm_source=api>`"
+msgid ""
+":mtgtip:`Herald of Leshrac<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/d/ad6080b1-b032-4172-8594-4d894a60a80d.jpg?1593275109|"
+"https://scryfall.com/card/csp/62/herald-of-leshrac?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:365
-msgid "Cumulative upkeep—Gain control of a land you don't control. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep—Gain control of a land you don't control. (At the "
+"beginning of your upkeep, put an age counter on this permanent, then "
+"sacrifice it unless you pay its upkeep cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:367
@@ -726,11 +1009,16 @@ msgid "Herald of Leshrac gets +1/+1 for each land you control but don't own."
 msgstr ""
 
 #: ../../CSP.rst:369
-msgid "When Herald of Leshrac leaves the battlefield, each player gains control of each land they own that you control."
+msgid ""
+"When Herald of Leshrac leaves the battlefield, each player gains control of "
+"each land they own that you control."
 msgstr ""
 
 #: ../../CSP.rst:376
-msgid ":mtgtip:`Krovikan Rot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17597c66-0d9f-41af-9160-0d92be88f450.jpg?1593275116|https://scryfall.com/card/csp/63/krovikan-rot?utm_source=api>`"
+msgid ""
+":mtgtip:`Krovikan Rot<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/7/17597c66-0d9f-41af-9160-0d92be88f450.jpg?1593275116|"
+"https://scryfall.com/card/csp/63/krovikan-rot?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:373
@@ -738,68 +1026,110 @@ msgid "Destroy target creature with power 2 or less."
 msgstr ""
 
 #: ../../CSP.rst:375
-msgid "Recover |mana_1|\\ |mana_b|\\ |mana_b| (When a creature is put into your graveyard from the battlefield, you may pay |mana_1|\\ |mana_b|\\ |mana_b|. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)"
+msgid ""
+"Recover |mana_1|\\ |mana_b|\\ |mana_b| (When a creature is put into your "
+"graveyard from the battlefield, you may pay |mana_1|\\ |mana_b|\\ |mana_b|. "
+"If you do, return this card from your graveyard to your hand. Otherwise, "
+"exile this card.)"
 msgstr ""
 
 #: ../../CSP.rst:378
-msgid ":mtgtip:`Krovikan Scoundrel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd9f046c-b416-4d80-8998-047b98361352.jpg?1593275125|https://scryfall.com/card/csp/64/krovikan-scoundrel?utm_source=api>`"
+msgid ""
+":mtgtip:`Krovikan Scoundrel<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/d/bd9f046c-b416-4d80-8998-047b98361352.jpg?1593275125|"
+"https://scryfall.com/card/csp/64/krovikan-scoundrel?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:384
-msgid ":mtgtip:`Martyr of Bones<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bba602e-5a81-4da2-99c0-6082f8a981e1.jpg?1593275131|https://scryfall.com/card/csp/65/martyr-of-bones?utm_source=api>`"
+msgid ""
+":mtgtip:`Martyr of Bones<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/b/8bba602e-5a81-4da2-99c0-6082f8a981e1.jpg?1593275131|"
+"https://scryfall.com/card/csp/65/martyr-of-bones?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:383
-msgid "|mana_1|, Reveal X black cards from your hand, Sacrifice Martyr of Bones: Exile up to X target cards from a single graveyard."
+msgid ""
+"|mana_1|, Reveal X black cards from your hand, Sacrifice Martyr of Bones: "
+"Exile up to X target cards from a single graveyard."
 msgstr ""
 
 #: ../../CSP.rst:390
-msgid ":mtgtip:`Phobian Phantasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a14802be-f9d4-4984-86e0-537467f37fd7.jpg?1593275139|https://scryfall.com/card/csp/66/phobian-phantasm?utm_source=api>`"
+msgid ""
+":mtgtip:`Phobian Phantasm<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/1/a14802be-f9d4-4984-86e0-537467f37fd7.jpg?1593275139|"
+"https://scryfall.com/card/csp/66/phobian-phantasm?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:387
-msgid "Flying; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)"
+msgid ""
+"Flying; fear (This creature can't be blocked except by artifact creatures "
+"and/or black creatures.)"
 msgstr ""
 
-#: ../../CSP.rst:389
-#: ../../CSP.rst:393
-msgid "Cumulative upkeep |mana_b| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+#: ../../CSP.rst:389 ../../CSP.rst:393
+msgid ""
+"Cumulative upkeep |mana_b| (At the beginning of your upkeep, put an age "
+"counter on this permanent, then sacrifice it unless you pay its upkeep cost "
+"for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:398
-msgid ":mtgtip:`Phyrexian Etchings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/978dbf63-0842-4abd-9950-a33aa080971c.jpg?1593275148|https://scryfall.com/card/csp/67/phyrexian-etchings?utm_source=api>`"
+msgid ""
+":mtgtip:`Phyrexian Etchings<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/7/978dbf63-0842-4abd-9950-a33aa080971c.jpg?1593275148|"
+"https://scryfall.com/card/csp/67/phyrexian-etchings?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:395
-msgid "At the beginning of your end step, draw a card for each age counter on Phyrexian Etchings."
+msgid ""
+"At the beginning of your end step, draw a card for each age counter on "
+"Phyrexian Etchings."
 msgstr ""
 
 #: ../../CSP.rst:397
-msgid "When Phyrexian Etchings is put into a graveyard from the battlefield, you lose 2 life for each age counter on it."
+msgid ""
+"When Phyrexian Etchings is put into a graveyard from the battlefield, you "
+"lose 2 life for each age counter on it."
 msgstr ""
 
 #: ../../CSP.rst:404
-msgid ":mtgtip:`Rime Transfusion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e18318fe-b429-459f-9b70-d444b48b8dc7.jpg?1593275154|https://scryfall.com/card/csp/68/rime-transfusion?utm_source=api>`"
+msgid ""
+":mtgtip:`Rime Transfusion<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/1/e18318fe-b429-459f-9b70-d444b48b8dc7.jpg?1593275154|"
+"https://scryfall.com/card/csp/68/rime-transfusion?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:403
-msgid "Enchanted creature gets +2/+1 and has \"|mana_s|: This creature can't be blocked this turn except by snow creatures.\" (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"Enchanted creature gets +2/+1 and has \"|mana_s|: This creature can't be "
+"blocked this turn except by snow creatures.\" (|mana_s| can be paid with one "
+"mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:408
-msgid ":mtgtip:`Rimebound Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6877469b-f14e-4121-aa5d-6cea92ab7278.jpg?1593275160|https://scryfall.com/card/csp/69/rimebound-dead?utm_source=api>`"
+msgid ""
+":mtgtip:`Rimebound Dead<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/8/6877469b-f14e-4121-aa5d-6cea92ab7278.jpg?1593275160|"
+"https://scryfall.com/card/csp/69/rimebound-dead?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:407
-msgid "|mana_s|: Regenerate Rimebound Dead. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_s|: Regenerate Rimebound Dead. (|mana_s| can be paid with one mana "
+"from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:414
-msgid ":mtgtip:`Soul Spike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b14b97d-122b-453a-9e5f-129404f96440.jpg?1593275167|https://scryfall.com/card/csp/70/soul-spike?utm_source=api>`"
+msgid ""
+":mtgtip:`Soul Spike<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/b/4b14b97d-122b-453a-9e5f-129404f96440.jpg?1593275167|https://"
+"scryfall.com/card/csp/70/soul-spike?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:411
-msgid "You may exile two black cards from your hand rather than pay this spell's mana cost."
+msgid ""
+"You may exile two black cards from your hand rather than pay this spell's "
+"mana cost."
 msgstr ""
 
 #: ../../CSP.rst:413
@@ -807,7 +1137,10 @@ msgid "Soul Spike deals 4 damage to any target and you gain 4 life."
 msgstr ""
 
 #: ../../CSP.rst:422
-msgid ":mtgtip:`Stromgald Crusader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5baeff5-40e9-47b6-85a8-3a6548565b5f.jpg?1593275173|https://scryfall.com/card/csp/71/stromgald-crusader?utm_source=api>`"
+msgid ""
+":mtgtip:`Stromgald Crusader<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/5/a5baeff5-40e9-47b6-85a8-3a6548565b5f.jpg?1593275173|"
+"https://scryfall.com/card/csp/71/stromgald-crusader?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:417
@@ -823,7 +1156,10 @@ msgid "|mana_b|\\ |mana_b|: Stromgald Crusader gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:428
-msgid ":mtgtip:`Surging Dementia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1eb7cb72-24f7-433b-9858-26009189daaa.jpg?1593275180|https://scryfall.com/card/csp/72/surging-dementia?utm_source=api>`"
+msgid ""
+":mtgtip:`Surging Dementia<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/e/1eb7cb72-24f7-433b-9858-26009189daaa.jpg?1593275180|"
+"https://scryfall.com/card/csp/72/surging-dementia?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:427
@@ -831,15 +1167,23 @@ msgid "Target player discards a card."
 msgstr ""
 
 #: ../../CSP.rst:434
-msgid ":mtgtip:`Tresserhorn Skyknight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b852d9f9-069d-419a-b8d1-db30c72aaac6.jpg?1593275186|https://scryfall.com/card/csp/73/tresserhorn-skyknight?utm_source=api>`"
+msgid ""
+":mtgtip:`Tresserhorn Skyknight<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/8/b852d9f9-069d-419a-b8d1-db30c72aaac6.jpg?1593275186|"
+"https://scryfall.com/card/csp/73/tresserhorn-skyknight?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:433
-msgid "Prevent all damage that would be dealt to Tresserhorn Skyknight by creatures with first strike."
+msgid ""
+"Prevent all damage that would be dealt to Tresserhorn Skyknight by creatures "
+"with first strike."
 msgstr ""
 
 #: ../../CSP.rst:442
-msgid ":mtgtip:`Void Maw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba464b81-2633-4422-a4b5-3593dfb7e7aa.jpg?1593275192|https://scryfall.com/card/csp/74/void-maw?utm_source=api>`"
+msgid ""
+":mtgtip:`Void Maw<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/b/a/ba464b81-2633-4422-a4b5-3593dfb7e7aa.jpg?1593275192|https://"
+"scryfall.com/card/csp/74/void-maw?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:439
@@ -847,23 +1191,35 @@ msgid "If another creature would die, exile it instead."
 msgstr ""
 
 #: ../../CSP.rst:441
-msgid "Put a card exiled with Void Maw into its owner's graveyard: Void Maw gets +2/+2 until end of turn."
+msgid ""
+"Put a card exiled with Void Maw into its owner's graveyard: Void Maw gets +2/"
+"+2 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:448
-msgid ":mtgtip:`Zombie Musher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51cf9ade-1c3d-4104-98fa-3c6a8cccc088.jpg?1593275198|https://scryfall.com/card/csp/75/zombie-musher?utm_source=api>`"
+msgid ""
+":mtgtip:`Zombie Musher<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/1/51cf9ade-1c3d-4104-98fa-3c6a8cccc088.jpg?1593275198|"
+"https://scryfall.com/card/csp/75/zombie-musher?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:445
-msgid "Snow landwalk (This creature can't be blocked as long as defending player controls a snow land.)"
+msgid ""
+"Snow landwalk (This creature can't be blocked as long as defending player "
+"controls a snow land.)"
 msgstr ""
 
 #: ../../CSP.rst:447
-msgid "|mana_s|: Regenerate Zombie Musher. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_s|: Regenerate Zombie Musher. (|mana_s| can be paid with one mana from "
+"a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:454
-msgid ":mtgtip:`Balduvian Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6716c980-bd89-4297-a843-9c3e18178b47.jpg?1593275203|https://scryfall.com/card/csp/76/balduvian-rage?utm_source=api>`"
+msgid ""
+":mtgtip:`Balduvian Rage<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/7/6716c980-bd89-4297-a843-9c3e18178b47.jpg?1593275203|"
+"https://scryfall.com/card/csp/76/balduvian-rage?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:451
@@ -871,35 +1227,59 @@ msgid "Target attacking creature gets +X/+0 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:458
-msgid ":mtgtip:`Balduvian Warlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3286dbd-c8b8-45cb-98e4-d572289f2c14.jpg?1593275209|https://scryfall.com/card/csp/77/balduvian-warlord?utm_source=api>`"
+msgid ""
+":mtgtip:`Balduvian Warlord<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/3/a3286dbd-c8b8-45cb-98e4-d572289f2c14.jpg?1593275209|"
+"https://scryfall.com/card/csp/77/balduvian-warlord?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:457
-msgid "|tap|: Remove target blocking creature from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate this ability only during the declare blockers step."
+msgid ""
+"|tap|: Remove target blocking creature from combat. Creatures it was "
+"blocking that hadn't become blocked by another creature this combat become "
+"unblocked, then it blocks an attacking creature of your choice. Activate "
+"this ability only during the declare blockers step."
 msgstr ""
 
 #: ../../CSP.rst:462
-msgid ":mtgtip:`Braid of Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41bab8de-6e0f-4ccd-a303-01e9c8c82d3f.jpg?1593275214|https://scryfall.com/card/csp/78/braid-of-fire?utm_source=api>`"
+msgid ""
+":mtgtip:`Braid of Fire<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/1/41bab8de-6e0f-4ccd-a303-01e9c8c82d3f.jpg?1593275214|"
+"https://scryfall.com/card/csp/78/braid-of-fire?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:461
-msgid "Cumulative upkeep—Add |mana_r|. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep—Add |mana_r|. (At the beginning of your upkeep, put an age "
+"counter on this permanent, then sacrifice it unless you pay its upkeep cost "
+"for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:466
-msgid ":mtgtip:`Cryoclasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a892711-a1a4-4402-957f-92077d00320d.jpg?1593275219|https://scryfall.com/card/csp/79/cryoclasm?utm_source=api>`"
+msgid ""
+":mtgtip:`Cryoclasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/a/6a892711-a1a4-4402-957f-92077d00320d.jpg?1593275219|https://"
+"scryfall.com/card/csp/79/cryoclasm?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:465
-msgid "Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller."
+msgid ""
+"Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's "
+"controller."
 msgstr ""
 
 #: ../../CSP.rst:474
-msgid ":mtgtip:`Earthen Goo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b347f1bf-6167-4c59-bfa6-3e921874ab9a.jpg?1593275225|https://scryfall.com/card/csp/80/earthen-goo?utm_source=api>`"
+msgid ""
+":mtgtip:`Earthen Goo<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/b/3/b347f1bf-6167-4c59-bfa6-3e921874ab9a.jpg?1593275225|https://"
+"scryfall.com/card/csp/80/earthen-goo?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:471
-msgid "Cumulative upkeep |mana_r| or |mana_g| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep |mana_r| or |mana_g| (At the beginning of your upkeep, put "
+"an age counter on this permanent, then sacrifice it unless you pay its "
+"upkeep cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:473
@@ -907,19 +1287,29 @@ msgid "Earthen Goo gets +1/+1 for each age counter on it."
 msgstr ""
 
 #: ../../CSP.rst:480
-msgid ":mtgtip:`Fury of the Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3223ef9-787a-40ac-8ab2-79ac75664aa2.jpg?1593275231|https://scryfall.com/card/csp/81/fury-of-the-horde?utm_source=api>`"
+msgid ""
+":mtgtip:`Fury of the Horde<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/3/f3223ef9-787a-40ac-8ab2-79ac75664aa2.jpg?1593275231|"
+"https://scryfall.com/card/csp/81/fury-of-the-horde?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:477
-msgid "You may exile two red cards from your hand rather than pay this spell's mana cost."
+msgid ""
+"You may exile two red cards from your hand rather than pay this spell's mana "
+"cost."
 msgstr ""
 
 #: ../../CSP.rst:479
-msgid "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
+msgid ""
+"Untap all creatures that attacked this turn. After this main phase, there is "
+"an additional combat phase followed by an additional main phase."
 msgstr ""
 
 #: ../../CSP.rst:484
-msgid ":mtgtip:`Goblin Furrier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f8ec9c1-da73-44fb-9e30-5279a7ed4e7e.jpg?1593275238|https://scryfall.com/card/csp/82/goblin-furrier?utm_source=api>`"
+msgid ""
+":mtgtip:`Goblin Furrier<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/f/4f8ec9c1-da73-44fb-9e30-5279a7ed4e7e.jpg?1593275238|"
+"https://scryfall.com/card/csp/82/goblin-furrier?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:483
@@ -927,7 +1317,10 @@ msgid "Prevent all damage that Goblin Furrier would deal to snow creatures."
 msgstr ""
 
 #: ../../CSP.rst:490
-msgid ":mtgtip:`Goblin Rimerunner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0254a437-5240-40ca-bf7b-d30b95942bf5.jpg?1593275244|https://scryfall.com/card/csp/83/goblin-rimerunner?utm_source=api>`"
+msgid ""
+":mtgtip:`Goblin Rimerunner<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/2/0254a437-5240-40ca-bf7b-d30b95942bf5.jpg?1593275244|"
+"https://scryfall.com/card/csp/83/goblin-rimerunner?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:487
@@ -935,11 +1328,16 @@ msgid "|tap|: Target creature can't block this turn."
 msgstr ""
 
 #: ../../CSP.rst:489
-msgid "|mana_s|: Goblin Rimerunner gains haste until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_s|: Goblin Rimerunner gains haste until end of turn. (|mana_s| can be "
+"paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:496
-msgid ":mtgtip:`Greater Stone Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77697b16-7faa-400d-a865-732c8b0d3d41.jpg?1593275251|https://scryfall.com/card/csp/84/greater-stone-spirit?utm_source=api>`"
+msgid ""
+":mtgtip:`Greater Stone Spirit<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/7/77697b16-7faa-400d-a865-732c8b0d3d41.jpg?1593275251|"
+"https://scryfall.com/card/csp/84/greater-stone-spirit?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:493
@@ -947,11 +1345,16 @@ msgid "Greater Stone Spirit can't be blocked by creatures with flying."
 msgstr ""
 
 #: ../../CSP.rst:495
-msgid "|mana_2|\\ |mana_r|: Until end of turn, target creature gets +0/+2 and gains \"|mana_r|: This creature gets +1/+0 until end of turn.\""
+msgid ""
+"|mana_2|\\ |mana_r|: Until end of turn, target creature gets +0/+2 and gains "
+"\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 
 #: ../../CSP.rst:502
-msgid ":mtgtip:`Icefall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cf90fc3-b08b-4261-a194-d6b06fdd59d8.jpg?1593275257|https://scryfall.com/card/csp/85/icefall?utm_source=api>`"
+msgid ""
+":mtgtip:`Icefall<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/c/6cf90fc3-b08b-4261-a194-d6b06fdd59d8.jpg?1593275257|https://"
+"scryfall.com/card/csp/85/icefall?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:499
@@ -959,35 +1362,56 @@ msgid "Destroy target artifact or land."
 msgstr ""
 
 #: ../../CSP.rst:501
-msgid "Recover |mana_r|\\ |mana_r| (When a creature is put into your graveyard from the battlefield, you may pay |mana_r|\\ |mana_r|. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)"
+msgid ""
+"Recover |mana_r|\\ |mana_r| (When a creature is put into your graveyard from "
+"the battlefield, you may pay |mana_r|\\ |mana_r|. If you do, return this "
+"card from your graveyard to your hand. Otherwise, exile this card.)"
 msgstr ""
 
 #: ../../CSP.rst:510
-msgid ":mtgtip:`Karplusan Minotaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/963f45d7-ce84-47af-ae1c-727172a31f0f.jpg?1593275262|https://scryfall.com/card/csp/86/karplusan-minotaur?utm_source=api>`"
+msgid ""
+":mtgtip:`Karplusan Minotaur<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/6/963f45d7-ce84-47af-ae1c-727172a31f0f.jpg?1593275262|"
+"https://scryfall.com/card/csp/86/karplusan-minotaur?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:505
-msgid "Cumulative upkeep—Flip a coin. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep—Flip a coin. (At the beginning of your upkeep, put an age "
+"counter on this permanent, then sacrifice it unless you pay its upkeep cost "
+"for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:507
-msgid "Whenever you win a coin flip, Karplusan Minotaur deals 1 damage to any target."
+msgid ""
+"Whenever you win a coin flip, Karplusan Minotaur deals 1 damage to any "
+"target."
 msgstr ""
 
 #: ../../CSP.rst:509
-msgid "Whenever you lose a coin flip, Karplusan Minotaur deals 1 damage to any target of an opponent's choice."
+msgid ""
+"Whenever you lose a coin flip, Karplusan Minotaur deals 1 damage to any "
+"target of an opponent's choice."
 msgstr ""
 
 #: ../../CSP.rst:514
-msgid ":mtgtip:`Karplusan Wolverine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/602610ce-8f42-4a1d-8f6e-92424d9d637c.jpg?1593275267|https://scryfall.com/card/csp/87/karplusan-wolverine?utm_source=api>`"
+msgid ""
+":mtgtip:`Karplusan Wolverine<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/0/602610ce-8f42-4a1d-8f6e-92424d9d637c.jpg?1593275267|"
+"https://scryfall.com/card/csp/87/karplusan-wolverine?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:513
-msgid "Whenever Karplusan Wolverine becomes blocked, you may have it deal 1 damage to any target."
+msgid ""
+"Whenever Karplusan Wolverine becomes blocked, you may have it deal 1 damage "
+"to any target."
 msgstr ""
 
 #: ../../CSP.rst:522
-msgid ":mtgtip:`Lightning Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6b4f4b6-51cd-4ae0-9585-82ad964853ba.jpg?1593275273|https://scryfall.com/card/csp/88/lightning-serpent?utm_source=api>`"
+msgid ""
+":mtgtip:`Lightning Serpent<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/6/f6b4f4b6-51cd-4ae0-9585-82ad964853ba.jpg?1593275273|"
+"https://scryfall.com/card/csp/88/lightning-serpent?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:517
@@ -1003,99 +1427,162 @@ msgid "At the beginning of the end step, sacrifice Lightning Serpent."
 msgstr ""
 
 #: ../../CSP.rst:528
-msgid ":mtgtip:`Lightning Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9c0388e-a04c-4757-a06d-8e8046f5a783.jpg?1593275279|https://scryfall.com/card/csp/89/lightning-storm?utm_source=api>`"
+msgid ""
+":mtgtip:`Lightning Storm<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/9/c9c0388e-a04c-4757-a06d-8e8046f5a783.jpg?1593275279|"
+"https://scryfall.com/card/csp/89/lightning-storm?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:525
-msgid "Lightning Storm deals X damage to any target, where X is 3 plus the number of charge counters on Lightning Storm."
+msgid ""
+"Lightning Storm deals X damage to any target, where X is 3 plus the number "
+"of charge counters on Lightning Storm."
 msgstr ""
 
 #: ../../CSP.rst:527
-msgid "Discard a land card: Put two charge counters on Lightning Storm. You may choose a new target for it. Any player may activate this ability but only if Lightning Storm is on the stack."
+msgid ""
+"Discard a land card: Put two charge counters on Lightning Storm. You may "
+"choose a new target for it. Any player may activate this ability but only if "
+"Lightning Storm is on the stack."
 msgstr ""
 
 #: ../../CSP.rst:532
-msgid ":mtgtip:`Lovisa Coldeyes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b11bdd7d-0b85-4b63-89c9-9e865c680bd4.jpg?1593275284|https://scryfall.com/card/csp/90/lovisa-coldeyes?utm_source=api>`"
+msgid ""
+":mtgtip:`Lovisa Coldeyes<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/1/b11bdd7d-0b85-4b63-89c9-9e865c680bd4.jpg?1593275284|"
+"https://scryfall.com/card/csp/90/lovisa-coldeyes?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:531
-msgid "Each creature that's a Barbarian, a Warrior, or a Berserker gets +2/+2 and has haste."
+msgid ""
+"Each creature that's a Barbarian, a Warrior, or a Berserker gets +2/+2 and "
+"has haste."
 msgstr ""
 
 #: ../../CSP.rst:538
-msgid ":mtgtip:`Magmatic Core<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98db70f9-1feb-4932-97be-02db824eda70.jpg?1593275289|https://scryfall.com/card/csp/91/magmatic-core?utm_source=api>`"
+msgid ""
+":mtgtip:`Magmatic Core<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/8/98db70f9-1feb-4932-97be-02db824eda70.jpg?1593275289|"
+"https://scryfall.com/card/csp/91/magmatic-core?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:537
-msgid "At the beginning of your end step, Magmatic Core deals X damage divided as you choose among any number of target creatures, where X is the number of age counters on it."
+msgid ""
+"At the beginning of your end step, Magmatic Core deals X damage divided as "
+"you choose among any number of target creatures, where X is the number of "
+"age counters on it."
 msgstr ""
 
 #: ../../CSP.rst:542
-msgid ":mtgtip:`Martyr of Ashes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/600a2cd2-166a-4fd8-838d-e513534b7cb0.jpg?1593275294|https://scryfall.com/card/csp/92/martyr-of-ashes?utm_source=api>`"
+msgid ""
+":mtgtip:`Martyr of Ashes<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/0/600a2cd2-166a-4fd8-838d-e513534b7cb0.jpg?1593275294|"
+"https://scryfall.com/card/csp/92/martyr-of-ashes?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:541
-msgid "|mana_2|, Reveal X red cards from your hand, Sacrifice Martyr of Ashes: Martyr of Ashes deals X damage to each creature without flying."
+msgid ""
+"|mana_2|, Reveal X red cards from your hand, Sacrifice Martyr of Ashes: "
+"Martyr of Ashes deals X damage to each creature without flying."
 msgstr ""
 
 #: ../../CSP.rst:546
-msgid ":mtgtip:`Ohran Yeti<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d6cfa21-75b1-4380-b0fc-a7450699660f.jpg?1593275300|https://scryfall.com/card/csp/93/ohran-yeti?utm_source=api>`"
+msgid ""
+":mtgtip:`Ohran Yeti<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/8/d/8d6cfa21-75b1-4380-b0fc-a7450699660f.jpg?1593275300|https://"
+"scryfall.com/card/csp/93/ohran-yeti?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:545
-msgid "|mana_2|\\ |mana_s|: Target snow creature gains first strike until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_2|\\ |mana_s|: Target snow creature gains first strike until end of "
+"turn. (|mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:550
-msgid ":mtgtip:`Orcish Bloodpainter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/746eaf30-3ded-4a9f-a4ec-1925edcc8e94.jpg?1593275306|https://scryfall.com/card/csp/94/orcish-bloodpainter?utm_source=api>`"
+msgid ""
+":mtgtip:`Orcish Bloodpainter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/4/746eaf30-3ded-4a9f-a4ec-1925edcc8e94.jpg?1593275306|"
+"https://scryfall.com/card/csp/94/orcish-bloodpainter?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:549
-msgid "|tap|, Sacrifice a creature: Orcish Bloodpainter deals 1 damage to any target."
+msgid ""
+"|tap|, Sacrifice a creature: Orcish Bloodpainter deals 1 damage to any "
+"target."
 msgstr ""
 
 #: ../../CSP.rst:558
-msgid ":mtgtip:`Rimescale Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/113d0342-0ba2-46b0-bda5-6a9fe4dcad3e.jpg?1593275312|https://scryfall.com/card/csp/95/rimescale-dragon?utm_source=api>`"
+msgid ""
+":mtgtip:`Rimescale Dragon<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/1/113d0342-0ba2-46b0-bda5-6a9fe4dcad3e.jpg?1593275312|"
+"https://scryfall.com/card/csp/95/rimescale-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:555
-msgid "|mana_2|\\ |mana_s|: Tap target creature and put an ice counter on it. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_2|\\ |mana_s|: Tap target creature and put an ice counter on it. (|"
+"mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:557
-msgid "Creatures with ice counters on them don't untap during their controllers' untap steps."
+msgid ""
+"Creatures with ice counters on them don't untap during their controllers' "
+"untap steps."
 msgstr ""
 
 #: ../../CSP.rst:562
-msgid ":mtgtip:`Rite of Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c062caf7-f0eb-44db-9f74-e6711a13fada.jpg?1593275318|https://scryfall.com/card/csp/96/rite-of-flame?utm_source=api>`"
+msgid ""
+":mtgtip:`Rite of Flame<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/0/c062caf7-f0eb-44db-9f74-e6711a13fada.jpg?1593275318|"
+"https://scryfall.com/card/csp/96/rite-of-flame?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:561
-msgid "Add |mana_r|\\ |mana_r|, then add |mana_r| for each card named Rite of Flame in each graveyard."
+msgid ""
+"Add |mana_r|\\ |mana_r|, then add |mana_r| for each card named Rite of Flame "
+"in each graveyard."
 msgstr ""
 
 #: ../../CSP.rst:566
-msgid ":mtgtip:`Skred<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3d6d42a-7607-4361-acc4-7f3cb956bfc9.jpg?1593275323|https://scryfall.com/card/csp/97/skred?utm_source=api>`"
+msgid ""
+":mtgtip:`Skred<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
+"b/3/b3d6d42a-7607-4361-acc4-7f3cb956bfc9.jpg?1593275323|https://scryfall.com/"
+"card/csp/97/skred?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:565
-msgid "Skred deals damage to target creature equal to the number of snow permanents you control."
+msgid ""
+"Skred deals damage to target creature equal to the number of snow permanents "
+"you control."
 msgstr ""
 
 #: ../../CSP.rst:572
-msgid ":mtgtip:`Stalking Yeti<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4af53d0b-ac60-4519-a6f4-c67899bcfdd6.jpg?1593275329|https://scryfall.com/card/csp/98/stalking-yeti?utm_source=api>`"
+msgid ""
+":mtgtip:`Stalking Yeti<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/a/4af53d0b-ac60-4519-a6f4-c67899bcfdd6.jpg?1593275329|"
+"https://scryfall.com/card/csp/98/stalking-yeti?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:569
-msgid "When Stalking Yeti enters the battlefield, if it's on the battlefield, it deals damage equal to its power to target creature an opponent controls and that creature deals damage equal to its power to Stalking Yeti."
+msgid ""
+"When Stalking Yeti enters the battlefield, if it's on the battlefield, it "
+"deals damage equal to its power to target creature an opponent controls and "
+"that creature deals damage equal to its power to Stalking Yeti."
 msgstr ""
 
 #: ../../CSP.rst:571
-msgid "|mana_2|\\ |mana_s|: Return Stalking Yeti to its owner's hand. Activate this ability only any time you could cast a sorcery. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_2|\\ |mana_s|: Return Stalking Yeti to its owner's hand. Activate this "
+"ability only any time you could cast a sorcery. (|mana_s| can be paid with "
+"one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:578
-msgid ":mtgtip:`Surging Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9974a543-7429-458b-a24f-c84cbffbb54d.jpg?1593275335|https://scryfall.com/card/csp/99/surging-flame?utm_source=api>`"
+msgid ""
+":mtgtip:`Surging Flame<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/9/9974a543-7429-458b-a24f-c84cbffbb54d.jpg?1593275335|"
+"https://scryfall.com/card/csp/99/surging-flame?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:577
@@ -1103,11 +1590,16 @@ msgid "Surging Flame deals 2 damage to any target."
 msgstr ""
 
 #: ../../CSP.rst:584
-msgid ":mtgtip:`Thermopod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c09475e9-d6c1-4d4b-905e-40bc30405725.jpg?1593275340|https://scryfall.com/card/csp/100/thermopod?utm_source=api>`"
+msgid ""
+":mtgtip:`Thermopod<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/0/c09475e9-d6c1-4d4b-905e-40bc30405725.jpg?1593275340|https://"
+"scryfall.com/card/csp/100/thermopod?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:581
-msgid "|mana_s|: Thermopod gains haste until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_s|: Thermopod gains haste until end of turn. (|mana_s| can be paid "
+"with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:583
@@ -1115,23 +1607,36 @@ msgid "Sacrifice a creature: Add |mana_r|."
 msgstr ""
 
 #: ../../CSP.rst:590
-msgid ":mtgtip:`Allosaurus Rider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0f3ba39-5b4d-4a7c-9215-7e349aecbeb3.jpg?1593275346|https://scryfall.com/card/csp/101/allosaurus-rider?utm_source=api>`"
+msgid ""
+":mtgtip:`Allosaurus Rider<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/0/e0f3ba39-5b4d-4a7c-9215-7e349aecbeb3.jpg?1593275346|"
+"https://scryfall.com/card/csp/101/allosaurus-rider?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:587
-msgid "You may exile two green cards from your hand rather than pay this spell's mana cost."
+msgid ""
+"You may exile two green cards from your hand rather than pay this spell's "
+"mana cost."
 msgstr ""
 
 #: ../../CSP.rst:589
-msgid "Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control."
+msgid ""
+"Allosaurus Rider's power and toughness are each equal to 1 plus the number "
+"of lands you control."
 msgstr ""
 
 #: ../../CSP.rst:598
-msgid ":mtgtip:`Arctic Nishoba<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8da62ada-b7cd-4110-a213-281f00fca3e7.jpg?1593275351|https://scryfall.com/card/csp/102/arctic-nishoba?utm_source=api>`"
+msgid ""
+":mtgtip:`Arctic Nishoba<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/d/8da62ada-b7cd-4110-a213-281f00fca3e7.jpg?1593275351|"
+"https://scryfall.com/card/csp/102/arctic-nishoba?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:595
-msgid "Cumulative upkeep |mana_g| or |mana_w| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep |mana_g| or |mana_w| (At the beginning of your upkeep, put "
+"an age counter on this permanent, then sacrifice it unless you pay its "
+"upkeep cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:597
@@ -1139,53 +1644,81 @@ msgid "When Arctic Nishoba dies, you gain 2 life for each age counter on it."
 msgstr ""
 
 #: ../../CSP.rst:606
-msgid ":mtgtip:`Aurochs Herd<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d757b3ad-b808-4506-934e-727e065f66c1.jpg?1593275357|https://scryfall.com/card/csp/103/aurochs-herd?utm_source=api>`"
+msgid ""
+":mtgtip:`Aurochs Herd<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/7/d757b3ad-b808-4506-934e-727e065f66c1.jpg?1593275357|"
+"https://scryfall.com/card/csp/103/aurochs-herd?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:603
-msgid "When Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid ""
+"When Aurochs Herd enters the battlefield, you may search your library for an "
+"Aurochs card, reveal it, and put it into your hand. If you do, shuffle your "
+"library."
 msgstr ""
 
 #: ../../CSP.rst:605
-msgid "Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs."
+msgid ""
+"Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each "
+"other attacking Aurochs."
 msgstr ""
 
 #: ../../CSP.rst:610
-msgid ":mtgtip:`Boreal Centaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05231fa1-47b8-49aa-9393-ec4d8384c41b.jpg?1593275363|https://scryfall.com/card/csp/104/boreal-centaur?utm_source=api>`"
+msgid ""
+":mtgtip:`Boreal Centaur<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/5/05231fa1-47b8-49aa-9393-ec4d8384c41b.jpg?1593275363|"
+"https://scryfall.com/card/csp/104/boreal-centaur?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:609
-msgid "|mana_s|: Boreal Centaur gets +1/+1 until end of turn. Activate this ability only once each turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_s|: Boreal Centaur gets +1/+1 until end of turn. Activate this ability "
+"only once each turn. (|mana_s| can be paid with one mana from a snow "
+"permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:614
-msgid ":mtgtip:`Boreal Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1593275370|https://scryfall.com/card/csp/105/boreal-druid?utm_source=api>`"
+msgid ""
+":mtgtip:`Boreal Druid<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1593275370|"
+"https://scryfall.com/card/csp/105/boreal-druid?utm_source=api>`"
 msgstr ""
 
-#: ../../CSP.rst:613
-#: ../../CSP.rst:857
-#: ../../CSP.rst:863
+#: ../../CSP.rst:613 ../../CSP.rst:857 ../../CSP.rst:863
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../CSP.rst:618
-msgid ":mtgtip:`Brooding Saurian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/252ef807-f861-4dcf-8e52-9260301c729a.jpg?1593275375|https://scryfall.com/card/csp/106/brooding-saurian?utm_source=api>`"
+msgid ""
+":mtgtip:`Brooding Saurian<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/5/252ef807-f861-4dcf-8e52-9260301c729a.jpg?1593275375|"
+"https://scryfall.com/card/csp/106/brooding-saurian?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:617
-msgid "At the beginning of each end step, each player gains control of all nontoken permanents they own."
+msgid ""
+"At the beginning of each end step, each player gains control of all nontoken "
+"permanents they own."
 msgstr ""
 
 #: ../../CSP.rst:624
-msgid ":mtgtip:`Bull Aurochs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d59bd4a-006b-4dd8-ab33-d931196f3a8a.jpg?1593275381|https://scryfall.com/card/csp/107/bull-aurochs?utm_source=api>`"
+msgid ""
+":mtgtip:`Bull Aurochs<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/d/2d59bd4a-006b-4dd8-ab33-d931196f3a8a.jpg?1593275381|"
+"https://scryfall.com/card/csp/107/bull-aurochs?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:623
-msgid "Whenever Bull Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs."
+msgid ""
+"Whenever Bull Aurochs attacks, it gets +1/+0 until end of turn for each "
+"other attacking Aurochs."
 msgstr ""
 
 #: ../../CSP.rst:630
-msgid ":mtgtip:`Freyalise's Radiance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bafb0b4-9f01-4c67-add4-a0ffe0a3a691.jpg?1593275386|https://scryfall.com/card/csp/108/freyalises-radiance?utm_source=api>`"
+msgid ""
+":mtgtip:`Freyalise's Radiance<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/b/4bafb0b4-9f01-4c67-add4-a0ffe0a3a691.jpg?1593275386|"
+"https://scryfall.com/card/csp/108/freyalises-radiance?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:629
@@ -1193,36 +1726,55 @@ msgid "Snow permanents don't untap during their controllers' untap steps."
 msgstr ""
 
 #: ../../CSP.rst:636
-msgid ":mtgtip:`Frostweb Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48574974-bdbb-40e8-916a-44c54b08b501.jpg?1593275391|https://scryfall.com/card/csp/109/frostweb-spider?utm_source=api>`"
+msgid ""
+":mtgtip:`Frostweb Spider<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/8/48574974-bdbb-40e8-916a-44c54b08b501.jpg?1593275391|"
+"https://scryfall.com/card/csp/109/frostweb-spider?utm_source=api>`"
 msgstr ""
 
-#: ../../CSP.rst:633
-#: ../../CSP.rst:717
+#: ../../CSP.rst:633 ../../CSP.rst:717
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 #: ../../CSP.rst:635
-msgid "Whenever Frostweb Spider blocks a creature with flying, put a +1/+1 counter on Frostweb Spider at end of combat."
+msgid ""
+"Whenever Frostweb Spider blocks a creature with flying, put a +1/+1 counter "
+"on Frostweb Spider at end of combat."
 msgstr ""
 
 #: ../../CSP.rst:642
-msgid ":mtgtip:`Hibernation's End<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/093ab03a-99e3-4596-a19a-033845f77a93.jpg?1593275398|https://scryfall.com/card/csp/110/hibernations-end?utm_source=api>`"
+msgid ""
+":mtgtip:`Hibernation's End<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/9/093ab03a-99e3-4596-a19a-033845f77a93.jpg?1593275398|"
+"https://scryfall.com/card/csp/110/hibernations-end?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:641
-msgid "Whenever you pay Hibernation's End's cumulative upkeep, you may search your library for a creature card with converted mana cost equal to the number of age counters on Hibernation's End and put it onto the battlefield. If you do, shuffle your library."
+msgid ""
+"Whenever you pay Hibernation's End's cumulative upkeep, you may search your "
+"library for a creature card with converted mana cost equal to the number of "
+"age counters on Hibernation's End and put it onto the battlefield. If you "
+"do, shuffle your library."
 msgstr ""
 
 #: ../../CSP.rst:646
-msgid ":mtgtip:`Into the North<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79cea55d-8ef3-44a5-894e-967f1e97fc02.jpg?1593275405|https://scryfall.com/card/csp/111/into-the-north?utm_source=api>`"
+msgid ""
+":mtgtip:`Into the North<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/9/79cea55d-8ef3-44a5-894e-967f1e97fc02.jpg?1593275405|"
+"https://scryfall.com/card/csp/111/into-the-north?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:645
-msgid "Search your library for a snow land card and put it onto the battlefield tapped. Then shuffle your library."
+msgid ""
+"Search your library for a snow land card and put it onto the battlefield "
+"tapped. Then shuffle your library."
 msgstr ""
 
 #: ../../CSP.rst:650
-msgid ":mtgtip:`Karplusan Strider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44d27fdf-690b-4e93-8412-4f6fb0ed43db.jpg?1593275410|https://scryfall.com/card/csp/112/karplusan-strider?utm_source=api>`"
+msgid ""
+":mtgtip:`Karplusan Strider<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/4/44d27fdf-690b-4e93-8412-4f6fb0ed43db.jpg?1593275410|"
+"https://scryfall.com/card/csp/112/karplusan-strider?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:649
@@ -1230,15 +1782,23 @@ msgid "Karplusan Strider can't be the target of blue or black spells."
 msgstr ""
 
 #: ../../CSP.rst:654
-msgid ":mtgtip:`Martyr of Spores<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/375fc47b-9a1b-4540-9c07-09e4e92ab974.jpg?1593275417|https://scryfall.com/card/csp/113/martyr-of-spores?utm_source=api>`"
+msgid ""
+":mtgtip:`Martyr of Spores<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/7/375fc47b-9a1b-4540-9c07-09e4e92ab974.jpg?1593275417|"
+"https://scryfall.com/card/csp/113/martyr-of-spores?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:653
-msgid "|mana_1|, Reveal X green cards from your hand, Sacrifice Martyr of Spores: Target creature gets +X/+X until end of turn."
+msgid ""
+"|mana_1|, Reveal X green cards from your hand, Sacrifice Martyr of Spores: "
+"Target creature gets +X/+X until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:660
-msgid ":mtgtip:`Mystic Melting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf4ff91d-acc1-4be7-a327-58fcb036b452.jpg?1593275424|https://scryfall.com/card/csp/114/mystic-melting?utm_source=api>`"
+msgid ""
+":mtgtip:`Mystic Melting<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/f/bf4ff91d-acc1-4be7-a327-58fcb036b452.jpg?1593275424|"
+"https://scryfall.com/card/csp/114/mystic-melting?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:657
@@ -1246,27 +1806,41 @@ msgid "Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../CSP.rst:666
-msgid ":mtgtip:`Ohran Viper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd5fd0ee-2350-4eb0-8417-700459879f74.jpg?1593275431|https://scryfall.com/card/csp/115/ohran-viper?utm_source=api>`"
+msgid ""
+":mtgtip:`Ohran Viper<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/b/d/bd5fd0ee-2350-4eb0-8417-700459879f74.jpg?1593275431|https://"
+"scryfall.com/card/csp/115/ohran-viper?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:663
-msgid "Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat."
+msgid ""
+"Whenever Ohran Viper deals combat damage to a creature, destroy that "
+"creature at end of combat."
 msgstr ""
 
 #: ../../CSP.rst:665
-msgid "Whenever Ohran Viper deals combat damage to a player, you may draw a card."
+msgid ""
+"Whenever Ohran Viper deals combat damage to a player, you may draw a card."
 msgstr ""
 
 #: ../../CSP.rst:672
-msgid ":mtgtip:`Panglacial Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/063bb28b-5e32-4f31-a208-16b653edf413.jpg?1593275437|https://scryfall.com/card/csp/116/panglacial-wurm?utm_source=api>`"
+msgid ""
+":mtgtip:`Panglacial Wurm<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/6/063bb28b-5e32-4f31-a208-16b653edf413.jpg?1593275437|"
+"https://scryfall.com/card/csp/116/panglacial-wurm?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:671
-msgid "While you're searching your library, you may cast Panglacial Wurm from your library."
+msgid ""
+"While you're searching your library, you may cast Panglacial Wurm from your "
+"library."
 msgstr ""
 
 #: ../../CSP.rst:678
-msgid ":mtgtip:`Resize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5dded16-e516-430e-a528-c49a483f03b4.jpg?1593275443|https://scryfall.com/card/csp/117/resize?utm_source=api>`"
+msgid ""
+":mtgtip:`Resize<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/5/c5dded16-e516-430e-a528-c49a483f03b4.jpg?1593275443|https://"
+"scryfall.com/card/csp/117/resize?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:675
@@ -1274,23 +1848,36 @@ msgid "Target creature gets +3/+3 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:677
-msgid "Recover |mana_1|\\ |mana_g| (When a creature is put into your graveyard from the battlefield, you may pay |mana_1|\\ |mana_g|. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)"
+msgid ""
+"Recover |mana_1|\\ |mana_g| (When a creature is put into your graveyard from "
+"the battlefield, you may pay |mana_1|\\ |mana_g|. If you do, return this "
+"card from your graveyard to your hand. Otherwise, exile this card.)"
 msgstr ""
 
 #: ../../CSP.rst:686
-msgid ":mtgtip:`Rimehorn Aurochs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3844b3f8-2d42-4265-b2dd-fa888492efff.jpg?1593275450|https://scryfall.com/card/csp/118/rimehorn-aurochs?utm_source=api>`"
+msgid ""
+":mtgtip:`Rimehorn Aurochs<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/8/3844b3f8-2d42-4265-b2dd-fa888492efff.jpg?1593275450|"
+"https://scryfall.com/card/csp/118/rimehorn-aurochs?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:683
-msgid "Whenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs."
+msgid ""
+"Whenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each "
+"other attacking Aurochs."
 msgstr ""
 
 #: ../../CSP.rst:685
-msgid "|mana_2|\\ |mana_s|: Target creature blocks target creature this turn if able. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_2|\\ |mana_s|: Target creature blocks target creature this turn if "
+"able. (|mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:692
-msgid ":mtgtip:`Ronom Hulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5b4b14c-e6fa-4cd2-9be7-fa2a2df05de1.jpg?1593275458|https://scryfall.com/card/csp/119/ronom-hulk?utm_source=api>`"
+msgid ""
+":mtgtip:`Ronom Hulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/e/5/e5b4b14c-e6fa-4cd2-9be7-fa2a2df05de1.jpg?1593275458|https://"
+"scryfall.com/card/csp/119/ronom-hulk?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:689
@@ -1298,27 +1885,44 @@ msgid "Protection from snow"
 msgstr ""
 
 #: ../../CSP.rst:700
-msgid ":mtgtip:`Shape of the Wiitigo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/5436d55d-d2d0-4f22-b399-93f1d48e080f.jpg?1593275466|https://scryfall.com/card/csp/120/shape-of-the-wiitigo?utm_source=api>`"
+msgid ""
+":mtgtip:`Shape of the Wiitigo<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/4/5436d55d-d2d0-4f22-b399-93f1d48e080f.jpg?1593275466|"
+"https://scryfall.com/card/csp/120/shape-of-the-wiitigo?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:697
-msgid "When Shape of the Wiitigo enters the battlefield, put six +1/+1 counters on enchanted creature."
+msgid ""
+"When Shape of the Wiitigo enters the battlefield, put six +1/+1 counters on "
+"enchanted creature."
 msgstr ""
 
 #: ../../CSP.rst:699
-msgid "At the beginning of your upkeep, put a +1/+1 counter on enchanted creature if it attacked or blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it."
+msgid ""
+"At the beginning of your upkeep, put a +1/+1 counter on enchanted creature "
+"if it attacked or blocked since your last upkeep. Otherwise, remove a +1/+1 "
+"counter from it."
 msgstr ""
 
 #: ../../CSP.rst:706
-msgid ":mtgtip:`Sheltering Ancient<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d16535ae-6e03-4992-9459-d31626a3222e.jpg?1593275472|https://scryfall.com/card/csp/121/sheltering-ancient?utm_source=api>`"
+msgid ""
+":mtgtip:`Sheltering Ancient<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/1/d16535ae-6e03-4992-9459-d31626a3222e.jpg?1593275472|"
+"https://scryfall.com/card/csp/121/sheltering-ancient?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:705
-msgid "Cumulative upkeep—Put a +1/+1 counter on a creature an opponent controls. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep—Put a +1/+1 counter on a creature an opponent controls. "
+"(At the beginning of your upkeep, put an age counter on this permanent, then "
+"sacrifice it unless you pay its upkeep cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:710
-msgid ":mtgtip:`Simian Brawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df2ed9f3-50b1-493b-9c14-0f8ddb4d8c57.jpg?1593275477|https://scryfall.com/card/csp/122/simian-brawler?utm_source=api>`"
+msgid ""
+":mtgtip:`Simian Brawler<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/f/df2ed9f3-50b1-493b-9c14-0f8ddb4d8c57.jpg?1593275477|"
+"https://scryfall.com/card/csp/122/simian-brawler?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:709
@@ -1326,15 +1930,23 @@ msgid "Discard a land card: Simian Brawler gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:714
-msgid ":mtgtip:`Sound the Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae586221-c13c-4f4e-83ae-9b1ab0aeae61.jpg?1593275486|https://scryfall.com/card/csp/123/sound-the-call?utm_source=api>`"
+msgid ""
+":mtgtip:`Sound the Call<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/e/ae586221-c13c-4f4e-83ae-9b1ab0aeae61.jpg?1593275486|"
+"https://scryfall.com/card/csp/123/sound-the-call?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:713
-msgid "Create a 1/1 green Wolf creature token. It has \"This creature gets +1/+1 for each card named Sound the Call in each graveyard.\""
+msgid ""
+"Create a 1/1 green Wolf creature token. It has \"This creature gets +1/+1 "
+"for each card named Sound the Call in each graveyard.\""
 msgstr ""
 
 #: ../../CSP.rst:720
-msgid ":mtgtip:`Steam Spitter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8aa585b7-cf7e-4f04-9490-1e6c53631647.jpg?1593275495|https://scryfall.com/card/csp/124/steam-spitter?utm_source=api>`"
+msgid ""
+":mtgtip:`Steam Spitter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/a/8aa585b7-cf7e-4f04-9490-1e6c53631647.jpg?1593275495|"
+"https://scryfall.com/card/csp/124/steam-spitter?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:719
@@ -1342,7 +1954,10 @@ msgid "|mana_r|: Steam Spitter gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../CSP.rst:728
-msgid ":mtgtip:`Surging Might<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa51adee-b343-4a03-8fa0-0d86244db5b7.jpg?1593275503|https://scryfall.com/card/csp/125/surging-might?utm_source=api>`"
+msgid ""
+":mtgtip:`Surging Might<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/a/aa51adee-b343-4a03-8fa0-0d86244db5b7.jpg?1593275503|"
+"https://scryfall.com/card/csp/125/surging-might?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:725
@@ -1350,7 +1965,10 @@ msgid "Enchanted creature gets +2/+2."
 msgstr ""
 
 #: ../../CSP.rst:738
-msgid ":mtgtip:`Blizzard Specter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d925746c-4bba-4d50-aeee-3a3bfd165a2e.jpg?1593275510|https://scryfall.com/card/csp/126/blizzard-specter?utm_source=api>`"
+msgid ""
+":mtgtip:`Blizzard Specter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/9/d925746c-4bba-4d50-aeee-3a3bfd165a2e.jpg?1593275510|"
+"https://scryfall.com/card/csp/126/blizzard-specter?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:733
@@ -1366,23 +1984,36 @@ msgid "That player discards a card."
 msgstr ""
 
 #: ../../CSP.rst:742
-msgid ":mtgtip:`Deepfire Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a26cf431-b79b-4619-9d19-bc4557f2f9bf.jpg?1593275516|https://scryfall.com/card/csp/127/deepfire-elemental?utm_source=api>`"
+msgid ""
+":mtgtip:`Deepfire Elemental<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/2/a26cf431-b79b-4619-9d19-bc4557f2f9bf.jpg?1593275516|"
+"https://scryfall.com/card/csp/127/deepfire-elemental?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:741
-msgid "|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target artifact or creature with converted mana cost X."
+msgid ""
+"|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target artifact or creature with "
+"converted mana cost X."
 msgstr ""
 
 #: ../../CSP.rst:748
-msgid ":mtgtip:`Diamond Faerie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0072cf13-284b-4fb8-ab2c-b2e15388a30a.jpg?1593275523|https://scryfall.com/card/csp/128/diamond-faerie?utm_source=api>`"
+msgid ""
+":mtgtip:`Diamond Faerie<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/0/0072cf13-284b-4fb8-ab2c-b2e15388a30a.jpg?1593275523|"
+"https://scryfall.com/card/csp/128/diamond-faerie?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:747
-msgid "|mana_1|\\ |mana_s|: Snow creatures you control get +1/+1 until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_1|\\ |mana_s|: Snow creatures you control get +1/+1 until end of turn. "
+"(|mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:756
-msgid ":mtgtip:`Garza Zol, Plague Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/3570143b-183b-4ae2-8806-3d0c4cd7406e.jpg?1593275530|https://scryfall.com/card/csp/129/garza-zol-plague-queen?utm_source=api>`"
+msgid ""
+":mtgtip:`Garza Zol, Plague Queen<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/5/3570143b-183b-4ae2-8806-3d0c4cd7406e.jpg?1593275530|"
+"https://scryfall.com/card/csp/129/garza-zol-plague-queen?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:751
@@ -1390,63 +2021,101 @@ msgid "Flying, haste"
 msgstr ""
 
 #: ../../CSP.rst:753
-msgid "Whenever a creature dealt damage by Garza Zol, Plague Queen this turn dies, put a +1/+1 counter on Garza Zol."
+msgid ""
+"Whenever a creature dealt damage by Garza Zol, Plague Queen this turn dies, "
+"put a +1/+1 counter on Garza Zol."
 msgstr ""
 
 #: ../../CSP.rst:755
-msgid "Whenever Garza Zol deals combat damage to a player, you may draw a card."
+msgid ""
+"Whenever Garza Zol deals combat damage to a player, you may draw a card."
 msgstr ""
 
 #: ../../CSP.rst:760
-msgid ":mtgtip:`Juniper Order Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce582ff6-6a21-418d-b72c-4402a43be7dc.jpg?1593275537|https://scryfall.com/card/csp/130/juniper-order-ranger?utm_source=api>`"
+msgid ""
+":mtgtip:`Juniper Order Ranger<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/e/ce582ff6-6a21-418d-b72c-4402a43be7dc.jpg?1593275537|"
+"https://scryfall.com/card/csp/130/juniper-order-ranger?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:759
-msgid "Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger."
+msgid ""
+"Whenever another creature enters the battlefield under your control, put a "
+"+1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger."
 msgstr ""
 
 #: ../../CSP.rst:764
-msgid ":mtgtip:`Sek'Kuar, Deathkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/9257bb20-de32-460c-96cf-375acb6a0b1d.jpg?1593275543|https://scryfall.com/card/csp/131/sekkuar-deathkeeper?utm_source=api>`"
+msgid ""
+":mtgtip:`Sek'Kuar, Deathkeeper<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/2/9257bb20-de32-460c-96cf-375acb6a0b1d.jpg?1593275543|"
+"https://scryfall.com/card/csp/131/sekkuar-deathkeeper?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:763
-msgid "Whenever another nontoken creature you control dies, create a 3/1 black and red Graveborn creature token with haste."
+msgid ""
+"Whenever another nontoken creature you control dies, create a 3/1 black and "
+"red Graveborn creature token with haste."
 msgstr ""
 
 #: ../../CSP.rst:768
-msgid ":mtgtip:`Tamanoa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d32955b-cbf6-429b-9513-17ca75d4ec2c.jpg?1593275551|https://scryfall.com/card/csp/132/tamanoa?utm_source=api>`"
+msgid ""
+":mtgtip:`Tamanoa<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/d/6d32955b-cbf6-429b-9513-17ca75d4ec2c.jpg?1593275551|https://"
+"scryfall.com/card/csp/132/tamanoa?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:767
-msgid "Whenever a noncreature source you control deals damage, you gain that much life."
+msgid ""
+"Whenever a noncreature source you control deals damage, you gain that much "
+"life."
 msgstr ""
 
 #: ../../CSP.rst:772
-msgid ":mtgtip:`Vanish into Memory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6da89cfe-274f-452d-a5ca-b034534898c7.jpg?1593275559|https://scryfall.com/card/csp/133/vanish-into-memory?utm_source=api>`"
+msgid ""
+":mtgtip:`Vanish into Memory<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/d/6da89cfe-274f-452d-a5ca-b034534898c7.jpg?1593275559|"
+"https://scryfall.com/card/csp/133/vanish-into-memory?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:771
-msgid "Exile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to that creature's toughness."
+msgid ""
+"Exile target creature. You draw cards equal to that creature's power. At the "
+"beginning of your next upkeep, return that card to the battlefield under its "
+"owner's control. If you do, discard cards equal to that creature's toughness."
 msgstr ""
 
 #: ../../CSP.rst:778
-msgid ":mtgtip:`Wilderness Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b63632a0-1493-4a72-917c-aae1600c6230.jpg?1593275566|https://scryfall.com/card/csp/134/wilderness-elemental?utm_source=api>`"
+msgid ""
+":mtgtip:`Wilderness Elemental<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/6/b63632a0-1493-4a72-917c-aae1600c6230.jpg?1593275566|"
+"https://scryfall.com/card/csp/134/wilderness-elemental?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:777
-msgid "Wilderness Elemental's power is equal to the number of nonbasic lands your opponents control."
+msgid ""
+"Wilderness Elemental's power is equal to the number of nonbasic lands your "
+"opponents control."
 msgstr ""
 
 #: ../../CSP.rst:784
-msgid ":mtgtip:`Zur the Enchanter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b1255e9-c0b8-4757-a857-b27a99dd4930.jpg?1593275574|https://scryfall.com/card/csp/135/zur-the-enchanter?utm_source=api>`"
+msgid ""
+":mtgtip:`Zur the Enchanter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/b/4b1255e9-c0b8-4757-a857-b27a99dd4930.jpg?1593275574|"
+"https://scryfall.com/card/csp/135/zur-the-enchanter?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:783
-msgid "Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library."
+msgid ""
+"Whenever Zur the Enchanter attacks, you may search your library for an "
+"enchantment card with converted mana cost 3 or less and put it onto the "
+"battlefield. If you do, shuffle your library."
 msgstr ""
 
 #: ../../CSP.rst:792
-msgid ":mtgtip:`Coldsteel Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdd5015e-fe31-42e3-923d-44b9cdece273.jpg?1593275580|https://scryfall.com/card/csp/136/coldsteel-heart?utm_source=api>`"
+msgid ""
+":mtgtip:`Coldsteel Heart<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/d/cdd5015e-fe31-42e3-923d-44b9cdece273.jpg?1593275580|"
+"https://scryfall.com/card/csp/136/coldsteel-heart?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:787
@@ -1462,27 +2131,43 @@ msgid "|tap|: Add one mana of the chosen color."
 msgstr ""
 
 #: ../../CSP.rst:798
-msgid ":mtgtip:`Jester's Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/7118c2e0-04d6-4a71-8ffd-b9365b154050.jpg?1593275588|https://scryfall.com/card/csp/137/jesters-scepter?utm_source=api>`"
+msgid ""
+":mtgtip:`Jester's Scepter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/1/7118c2e0-04d6-4a71-8ffd-b9365b154050.jpg?1593275588|"
+"https://scryfall.com/card/csp/137/jesters-scepter?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:795
-msgid "When Jester's Scepter enters the battlefield, exile the top five cards of target player's library face down. You may look at those cards for as long as they remain exiled."
+msgid ""
+"When Jester's Scepter enters the battlefield, exile the top five cards of "
+"target player's library face down. You may look at those cards for as long "
+"as they remain exiled."
 msgstr ""
 
 #: ../../CSP.rst:797
-msgid "|mana_2|, |tap|, Put a card exiled with Jester's Scepter into its owner's graveyard: Counter target spell if it has the same name as that card."
+msgid ""
+"|mana_2|, |tap|, Put a card exiled with Jester's Scepter into its owner's "
+"graveyard: Counter target spell if it has the same name as that card."
 msgstr ""
 
 #: ../../CSP.rst:802
-msgid ":mtgtip:`Mishra's Bauble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a720448-017f-4f4a-9501-678245eaed17.jpg?1593275595|https://scryfall.com/card/csp/138/mishras-bauble?utm_source=api>`"
+msgid ""
+":mtgtip:`Mishra's Bauble<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/a/8a720448-017f-4f4a-9501-678245eaed17.jpg?1593275595|"
+"https://scryfall.com/card/csp/138/mishras-bauble?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:801
-msgid "|tap|, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep."
+msgid ""
+"|tap|, Sacrifice Mishra's Bauble: Look at the top card of target player's "
+"library. Draw a card at the beginning of the next turn's upkeep."
 msgstr ""
 
 #: ../../CSP.rst:808
-msgid ":mtgtip:`Phyrexian Ironfoot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49ff9859-92a4-4732-94bf-6c02b0a57338.jpg?1593275601|https://scryfall.com/card/csp/139/phyrexian-ironfoot?utm_source=api>`"
+msgid ""
+":mtgtip:`Phyrexian Ironfoot<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/9/49ff9859-92a4-4732-94bf-6c02b0a57338.jpg?1593275601|"
+"https://scryfall.com/card/csp/139/phyrexian-ironfoot?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:805
@@ -1490,11 +2175,16 @@ msgid "Phyrexian Ironfoot doesn't untap during your untap step."
 msgstr ""
 
 #: ../../CSP.rst:807
-msgid "|mana_1|\\ |mana_s|: Untap Phyrexian Ironfoot. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_1|\\ |mana_s|: Untap Phyrexian Ironfoot. (|mana_s| can be paid with "
+"one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:814
-msgid ":mtgtip:`Phyrexian Snowcrusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f3cf3d3-101e-4649-9495-8a95507d0283.jpg?1593275607|https://scryfall.com/card/csp/140/phyrexian-snowcrusher?utm_source=api>`"
+msgid ""
+":mtgtip:`Phyrexian Snowcrusher<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/f/9f3cf3d3-101e-4649-9495-8a95507d0283.jpg?1593275607|"
+"https://scryfall.com/card/csp/140/phyrexian-snowcrusher?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:811
@@ -1502,27 +2192,45 @@ msgid "Phyrexian Snowcrusher attacks each combat if able."
 msgstr ""
 
 #: ../../CSP.rst:813
-msgid "|mana_1|\\ |mana_s|: Phyrexian Snowcrusher gets +1/+0 until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_1|\\ |mana_s|: Phyrexian Snowcrusher gets +1/+0 until end of turn. (|"
+"mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:818
-msgid ":mtgtip:`Phyrexian Soulgorger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d4325ea-2e84-4871-a8d6-a42b1d3d6765.jpg?1593275614|https://scryfall.com/card/csp/141/phyrexian-soulgorger?utm_source=api>`"
+msgid ""
+":mtgtip:`Phyrexian Soulgorger<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/d/9d4325ea-2e84-4871-a8d6-a42b1d3d6765.jpg?1593275614|"
+"https://scryfall.com/card/csp/141/phyrexian-soulgorger?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:817
-msgid "Cumulative upkeep—Sacrifice a creature. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+msgid ""
+"Cumulative upkeep—Sacrifice a creature. (At the beginning of your upkeep, "
+"put an age counter on this permanent, then sacrifice it unless you pay its "
+"upkeep cost for each age counter on it.)"
 msgstr ""
 
 #: ../../CSP.rst:822
-msgid ":mtgtip:`Thrumming Stone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31412335-110c-449a-9c2f-bff8763a6504.jpg?1593275623|https://scryfall.com/card/csp/142/thrumming-stone?utm_source=api>`"
+msgid ""
+":mtgtip:`Thrumming Stone<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/1/31412335-110c-449a-9c2f-bff8763a6504.jpg?1593275623|"
+"https://scryfall.com/card/csp/142/thrumming-stone?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:821
-msgid "Spells you cast have ripple 4. (Whenever you cast a spell, you may reveal the top four cards of your library. You may cast spells with the same name as that spell from among the revealed cards without paying their mana costs. Put the rest on the bottom of your library.)"
+msgid ""
+"Spells you cast have ripple 4. (Whenever you cast a spell, you may reveal "
+"the top four cards of your library. You may cast spells with the same name "
+"as that spell from among the revealed cards without paying their mana costs. "
+"Put the rest on the bottom of your library.)"
 msgstr ""
 
 #: ../../CSP.rst:828
-msgid ":mtgtip:`Arctic Flats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/609b15f6-e65b-46d6-95e8-dc39f25d7efa.jpg?1593860368|https://scryfall.com/card/csp/143/arctic-flats?utm_source=api>`"
+msgid ""
+":mtgtip:`Arctic Flats<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/0/609b15f6-e65b-46d6-95e8-dc39f25d7efa.jpg?1593860368|"
+"https://scryfall.com/card/csp/143/arctic-flats?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:825
@@ -1534,7 +2242,10 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../CSP.rst:834
-msgid ":mtgtip:`Boreal Shelf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f2f8396-72ab-4387-9276-987836427107.jpg?1593860370|https://scryfall.com/card/csp/144/boreal-shelf?utm_source=api>`"
+msgid ""
+":mtgtip:`Boreal Shelf<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/f/3f2f8396-72ab-4387-9276-987836427107.jpg?1593860370|"
+"https://scryfall.com/card/csp/144/boreal-shelf?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:831
@@ -1546,7 +2257,10 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../CSP.rst:842
-msgid ":mtgtip:`Dark Depths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92409c3a-fb1a-4205-9fe1-0f5affc7b21d.jpg?1593275643|https://scryfall.com/card/csp/145/dark-depths?utm_source=api>`"
+msgid ""
+":mtgtip:`Dark Depths<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/9/2/92409c3a-fb1a-4205-9fe1-0f5affc7b21d.jpg?1593275643|https://"
+"scryfall.com/card/csp/145/dark-depths?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:837
@@ -1558,11 +2272,17 @@ msgid "|mana_3|: Remove an ice counter from Dark Depths."
 msgstr ""
 
 #: ../../CSP.rst:841
-msgid "When Dark Depths has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible."
+msgid ""
+"When Dark Depths has no ice counters on it, sacrifice it. If you do, create "
+"Marit Lage, a legendary 20/20 black Avatar creature token with flying and "
+"indestructible."
 msgstr ""
 
 #: ../../CSP.rst:848
-msgid ":mtgtip:`Frost Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9320033-d8d7-4a01-80db-60de222040e6.jpg?1593860372|https://scryfall.com/card/csp/146/frost-marsh?utm_source=api>`"
+msgid ""
+":mtgtip:`Frost Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/e/9/e9320033-d8d7-4a01-80db-60de222040e6.jpg?1593860372|https://"
+"scryfall.com/card/csp/146/frost-marsh?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:845
@@ -1574,7 +2294,10 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../CSP.rst:854
-msgid ":mtgtip:`Highland Weald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38bcd111-0830-4fc0-a113-37eb306fb1a0.jpg?1593860374|https://scryfall.com/card/csp/147/highland-weald?utm_source=api>`"
+msgid ""
+":mtgtip:`Highland Weald<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/8/38bcd111-0830-4fc0-a113-37eb306fb1a0.jpg?1593860374|"
+"https://scryfall.com/card/csp/147/highland-weald?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:851
@@ -1586,23 +2309,37 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../CSP.rst:860
-msgid ":mtgtip:`Mouth of Ronom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d8f7396-23d3-48e2-8686-2b59ccbfc7e5.jpg?1593275662|https://scryfall.com/card/csp/148/mouth-of-ronom?utm_source=api>`"
+msgid ""
+":mtgtip:`Mouth of Ronom<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/d/2d8f7396-23d3-48e2-8686-2b59ccbfc7e5.jpg?1593275662|"
+"https://scryfall.com/card/csp/148/mouth-of-ronom?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:859
-msgid "|mana_4|\\ |mana_s|, |tap|, Sacrifice Mouth of Ronom: It deals 4 damage to target creature. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_4|\\ |mana_s|, |tap|, Sacrifice Mouth of Ronom: It deals 4 damage to "
+"target creature. (|mana_s| can be paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:866
-msgid ":mtgtip:`Scrying Sheets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19e95422-c6fe-4750-916b-43bf22ae193a.jpg?1593275668|https://scryfall.com/card/csp/149/scrying-sheets?utm_source=api>`"
+msgid ""
+":mtgtip:`Scrying Sheets<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/9/19e95422-c6fe-4750-916b-43bf22ae193a.jpg?1593275668|"
+"https://scryfall.com/card/csp/149/scrying-sheets?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:865
-msgid "|mana_1|\\ |mana_s|, |tap|: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. (|mana_s| can be paid with one mana from a snow permanent.)"
+msgid ""
+"|mana_1|\\ |mana_s|, |tap|: Look at the top card of your library. If that "
+"card is snow, you may reveal it and put it into your hand. (|mana_s| can be "
+"paid with one mana from a snow permanent.)"
 msgstr ""
 
 #: ../../CSP.rst:872
-msgid ":mtgtip:`Tresserhorn Sinks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bd8fe2c-2297-4e19-8a87-01eb99b8c6dc.jpg?1593860376|https://scryfall.com/card/csp/150/tresserhorn-sinks?utm_source=api>`"
+msgid ""
+":mtgtip:`Tresserhorn Sinks<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/b/4bd8fe2c-2297-4e19-8a87-01eb99b8c6dc.jpg?1593860376|"
+"https://scryfall.com/card/csp/150/tresserhorn-sinks?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:869
@@ -1614,7 +2351,10 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
 #: ../../CSP.rst:876
-msgid ":mtgtip:`Snow-Covered Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1e3a010-dae3-41b6-8dd8-e31d14c3ac4a.jpg?1593274769|https://scryfall.com/card/csp/151/snow-covered-plains?utm_source=api>`"
+msgid ""
+":mtgtip:`Snow-Covered Plains<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/1/b1e3a010-dae3-41b6-8dd8-e31d14c3ac4a.jpg?1593274769|"
+"https://scryfall.com/card/csp/151/snow-covered-plains?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:875
@@ -1622,7 +2362,10 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
 #: ../../CSP.rst:880
-msgid ":mtgtip:`Snow-Covered Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6abf0692-07d1-4b72-af06-93d0e338589d.jpg?1593274999|https://scryfall.com/card/csp/152/snow-covered-island?utm_source=api>`"
+msgid ""
+":mtgtip:`Snow-Covered Island<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/a/6abf0692-07d1-4b72-af06-93d0e338589d.jpg?1593274999|"
+"https://scryfall.com/card/csp/152/snow-covered-island?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:879
@@ -1630,7 +2373,10 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
 #: ../../CSP.rst:884
-msgid ":mtgtip:`Snow-Covered Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4dacaf1-09b8-42bb-8064-990190fdaf81.jpg?1593274997|https://scryfall.com/card/csp/153/snow-covered-swamp?utm_source=api>`"
+msgid ""
+":mtgtip:`Snow-Covered Swamp<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/4/c4dacaf1-09b8-42bb-8064-990190fdaf81.jpg?1593274997|"
+"https://scryfall.com/card/csp/153/snow-covered-swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:883
@@ -1638,7 +2384,10 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
 #: ../../CSP.rst:888
-msgid ":mtgtip:`Snow-Covered Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79.jpg?1593274901|https://scryfall.com/card/csp/154/snow-covered-mountain?utm_source=api>`"
+msgid ""
+":mtgtip:`Snow-Covered Mountain<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/d/0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79.jpg?1593274901|"
+"https://scryfall.com/card/csp/154/snow-covered-mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:887
@@ -1646,7 +2395,10 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
 #: ../../CSP.rst:891
-msgid ":mtgtip:`Snow-Covered Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/838c915d-8153-43c2-b513-dfbe4e9388a5.jpg?1593274762|https://scryfall.com/card/csp/155/snow-covered-forest?utm_source=api>`"
+msgid ""
+":mtgtip:`Snow-Covered Forest<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/3/838c915d-8153-43c2-b513-dfbe4e9388a5.jpg?1593274762|"
+"https://scryfall.com/card/csp/155/snow-covered-forest?utm_source=api>`"
 msgstr ""
 
 #: ../../CSP.rst:891

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-19 18:59+0100\n"
+"POT-Creation-Date: 2021-03-02 22:39+0100\n"
 "PO-Revision-Date: 2021-03-02 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
@@ -179,8 +179,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
-"Ilekroć stwór wchodzi na pole bitwy pod twoim władaniem, umieść znacznik +1/+"
-"1 na każdym stworze pod twoim władaniem."
+"Ilekroć stwór wchodzi na pole bitwy pod twoim władaniem, umieść znacznik +1/"
+"+1 na każdym stworze pod twoim władaniem."
 
 #: ../../AVR.rst:64
 msgid ""
@@ -591,7 +591,8 @@ msgstr ""
 msgid ""
 "As long as Silverblade Paladin is paired with another creature, both "
 "creatures have double strike."
-msgstr "O ile ten stwór jest sparowany z innym stworem, oba mają podwójny cios."
+msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, oba mają podwójny cios."
 
 #: ../../AVR.rst:198
 msgid ""
@@ -740,8 +741,8 @@ msgid ""
 "creatures has \"|mana_1|\\ |mana_u|: Exile this creature, then return it to "
 "the battlefield under your control.\""
 msgstr ""
-"O ile ten stwór jest sparowany z innym stworem, oba mają \"|mana_1|\\ "
-"|mana_u|: Wygnaj tego stwora, następnie przywróć go na pole bitwy pod twoim "
+"O ile ten stwór jest sparowany z innym stworem, oba mają \"|mana_1|\\ |"
+"mana_u|: Wygnaj tego stwora, następnie przywróć go na pole bitwy pod twoim "
 "władaniem.\""
 
 #: ../../AVR.rst:254
@@ -1410,8 +1411,8 @@ msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_b|: Exile target creature and put a +1/+1 "
 "counter on Dark Impostor."
 msgstr ""
-"|mana_4|\\ |mana_b|\\ |mana_b|: Wygnaj wskazanego stwora i umieść znacznik +"
-"1/+1 na niniejszym stworze."
+"|mana_4|\\ |mana_b|\\ |mana_b|: Wygnaj wskazanego stwora i umieść znacznik "
+"+1/+1 na niniejszym stworze."
 
 #: ../../AVR.rst:479
 msgid ""
@@ -1728,11 +1729,11 @@ msgid ""
 "remove all damage from it, and remove it from combat. Any amount of damage a "
 "creature with deathtouch deals to a creature is enough to destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go. ("
-"Następnym razem, gdy miałby zostać zniszczony w tej turze, nie jest. Zamiast "
-"tego przekręć go, usuń z niego wszystkie obrażenia i usuń go z potyczki. "
-"Dowolna liczba obrażeń zadana innemu stworowi przez stwora z dotykiem "
-"śmierci wystarcza, by go zniszczyć.)"
+"Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go. "
+"(Następnym razem, gdy miałby zostać zniszczony w tej turze, nie jest. "
+"Zamiast tego przekręć go, usuń z niego wszystkie obrażenia i usuń go z "
+"potyczki. Dowolna liczba obrażeń zadana innemu stworowi przez stwora z "
+"dotykiem śmierci wystarcza, by go zniszczyć.)"
 
 #: ../../AVR.rst:592
 msgid ""
@@ -2062,7 +2063,8 @@ msgstr ""
 
 #: ../../AVR.rst:699
 msgid "Enchanted creature gets +1/-1 and attacks each combat if able."
-msgstr "Zauroczony stwór dostaje +1/-1 i atakuje w każdej potyczce, jeśli może."
+msgstr ""
+"Zauroczony stwór dostaje +1/-1 i atakuje w każdej potyczce, jeśli może."
 
 #: ../../AVR.rst:706
 msgid ""
@@ -2075,7 +2077,8 @@ msgstr ""
 msgid ""
 "As long as Hanweir Lancer is paired with another creature, both creatures "
 "have first strike."
-msgstr "O ile ten stwór jest sparowany z innym stworem, oba mają pierwszy cios."
+msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, oba mają pierwszy cios."
 
 #: ../../AVR.rst:712
 msgid ""
@@ -2830,7 +2833,8 @@ msgstr ""
 msgid ""
 "As long as Nightshade Peddler is paired with another creature, both "
 "creatures have deathtouch."
-msgstr "O ile ten stwór jest sparowany z innym stworem, oba mają dotyk śmierci."
+msgstr ""
+"O ile ten stwór jest sparowany z innym stworem, oba mają dotyk śmierci."
 
 #: ../../AVR.rst:966
 msgid ""
@@ -3390,7 +3394,8 @@ msgstr ""
 
 #: ../../AVR.rst:1137
 msgid "Equipped creature gets +3/+0 and attacks each combat if able."
-msgstr "Zauroczony stwór dostaje +3/+0 i atakuje w każdej potyczce, jeśli może."
+msgstr ""
+"Zauroczony stwór dostaje +3/+0 i atakuje w każdej potyczce, jeśli może."
 
 #: ../../AVR.rst:1139
 msgid "Equip |mana_3|"

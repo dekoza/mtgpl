@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-13 20:04+0100\n"
+"POT-Creation-Date: 2021-03-02 22:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -29,7 +29,9 @@ msgid "The Avenger"
 msgstr ""
 
 #: ../../THS_heroes.rst:13
-msgid "|mana_3| |tap|: Target creature you control gains deathtouch until end of turn."
+msgid ""
+"|mana_3| |tap|: Target creature you control gains deathtouch until end of "
+"turn."
 msgstr ""
 
 #: ../../THS_heroes.rst:16
@@ -61,7 +63,9 @@ msgid "The Protector"
 msgstr ""
 
 #: ../../THS_heroes.rst:25
-msgid "|tap|: Prevent the next 1 damage that would be dealt to target creature or player this turn."
+msgid ""
+"|tap|: Prevent the next 1 damage that would be dealt to target creature or "
+"player this turn."
 msgstr ""
 
 #: ../../THS_heroes.rst:28
@@ -97,7 +101,9 @@ msgid "The General"
 msgstr ""
 
 #: ../../THS_heroes.rst:41
-msgid "Exile The General: Creatures you control get +1/+1 until end of turn. Untap them."
+msgid ""
+"Exile The General: Creatures you control get +1/+1 until end of turn. Untap "
+"them."
 msgstr ""
 
 #: ../../THS_heroes.rst:44
@@ -105,7 +111,9 @@ msgid "The Provider"
 msgstr ""
 
 #: ../../THS_heroes.rst:44
-msgid "Exile The Provider: Put two +1/+1 counters on target creature you control. You gain life equal to that creature's toughness."
+msgid ""
+"Exile The Provider: Put two +1/+1 counters on target creature you control. "
+"You gain life equal to that creature's toughness."
 msgstr ""
 
 #: ../../THS_heroes.rst:47
@@ -113,7 +121,9 @@ msgid "The Savant"
 msgstr ""
 
 #: ../../THS_heroes.rst:47
-msgid "Exile The Savant: Tap all creatures yout opponents control. Those creatures don't untap during their controller's next untap steps."
+msgid ""
+"Exile The Savant: Tap all creatures yout opponents control. Those creatures "
+"don't untap during their controller's next untap steps."
 msgstr ""
 
 #: ../../THS_heroes.rst:50
@@ -121,7 +131,9 @@ msgid "The Tyrant"
 msgstr ""
 
 #: ../../THS_heroes.rst:50
-msgid "Exile The Tyrant: Creatures your opponents control get -1/-1 until end of turn."
+msgid ""
+"Exile The Tyrant: Creatures your opponents control get -1/-1 until end of "
+"turn."
 msgstr ""
 
 #: ../../THS_heroes.rst:55
@@ -141,7 +153,9 @@ msgid "The Warmonger"
 msgstr ""
 
 #: ../../THS_heroes.rst:58
-msgid "Exile The Warmonger: Creatures you control get +2/+0 and gain haste until end of turn."
+msgid ""
+"Exile The Warmonger: Creatures you control get +2/+0 and gain haste until "
+"end of turn."
 msgstr ""
 
 #: ../../THS_heroes.rst:62
@@ -160,11 +174,8 @@ msgstr ""
 msgid "Equipped creature gets +2/+0 and has first strike."
 msgstr ""
 
-#: ../../THS_heroes.rst:70
-#: ../../THS_heroes.rst:77
-#: ../../THS_heroes.rst:82
-#: ../../THS_heroes.rst:87
-#: ../../THS_heroes.rst:92
+#: ../../THS_heroes.rst:70 ../../THS_heroes.rst:77 ../../THS_heroes.rst:82
+#: ../../THS_heroes.rst:87 ../../THS_heroes.rst:92
 msgid "Equip |mana_2|"
 msgstr ""
 
@@ -201,7 +212,9 @@ msgid "Bow of the Hunter"
 msgstr ""
 
 #: ../../THS_heroes.rst:90
-msgid "Equipped creature has \"|tap|: This creature deals 2 damage to target creature or player.\""
+msgid ""
+"Equipped creature has \"|tap|: This creature deals 2 damage to target "
+"creature or player.\""
 msgstr ""
 
 #: ../../THS_heroes.rst:95
@@ -217,7 +230,9 @@ msgid "Whenever equipped creature deals damage, untap two target lands."
 msgstr ""
 
 #: ../../THS_heroes.rst:99
-msgid "Equipped creature has vigilance and can block an additional creature each combat."
+msgid ""
+"Equipped creature has vigilance and can block an additional creature each "
+"combat."
 msgstr ""
 
 #: ../../THS_heroes.rst:100
@@ -233,7 +248,9 @@ msgid "Equipped creature has protection from enchantments."
 msgstr ""
 
 #: ../../THS_heroes.rst:103
-msgid "Whenever equipped creature deals damage, put a 1/1 white Soldier creature token onto the battlefield."
+msgid ""
+"Whenever equipped creature deals damage, put a 1/1 white Soldier creature "
+"token onto the battlefield."
 msgstr ""
 
 #: ../../THS_heroes.rst:106
@@ -245,7 +262,9 @@ msgid "The Destined"
 msgstr ""
 
 #: ../../THS_heroes.rst:109
-msgid "Spells you cast that target a creature you control cost |mana_2| less to cast."
+msgid ""
+"Spells you cast that target a creature you control cost |mana_2| less to "
+"cast."
 msgstr ""
 
 #: ../../THS_heroes.rst:112
@@ -253,5 +272,8 @@ msgid "The Champion"
 msgstr ""
 
 #: ../../THS_heroes.rst:112
-msgid "|mana_2|, |tap|, Exile The Champion: Search your library for a legendary artifact card that isn't a creature, reveal it, and put it onto the battlefield. Then shuffle your library"
+msgid ""
+"|mana_2|, |tap|, Exile The Champion: Search your library for a legendary "
+"artifact card that isn't a creature, reveal it, and put it onto the "
+"battlefield. Then shuffle your library"
 msgstr ""
