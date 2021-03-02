@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 00:31+0100\n"
-"PO-Revision-Date: 2021-03-02 10:50+0000\n"
+"PO-Revision-Date: 2021-03-02 12:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -1510,6 +1510,8 @@ msgid ""
 "Madness |mana_b| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../TSR.rst:496
 msgid ""
@@ -1573,7 +1575,7 @@ msgstr ""
 
 #: ../../TSR.rst:509
 msgid "Destroy all creatures. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory. Nie mogą być zregenerowane."
 
 #: ../../TSR.rst:516
 msgid ""
@@ -1728,6 +1730,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../TSR.rst:571
 msgid ""
@@ -1751,7 +1756,7 @@ msgstr "Wskazany stwór dostaje do końca tury -3/-3."
 
 #: ../../TSR.rst:577
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../TSR.rst:579
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 09:17+0000\n"
+"PO-Revision-Date: 2021-03-02 12:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -3884,7 +3884,7 @@ msgstr ""
 
 #: ../../ONS.rst:1399
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
+msgstr "Antymagia (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../ONS.rst:1401
 msgid ""
@@ -4325,6 +4325,8 @@ msgid ""
 "Morph |mana_3|\\ |mana_g|\\ |mana_g| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_3|\\ |mana_g|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za "
+"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../ONS.rst:1566
 msgid ""
@@ -4557,7 +4559,7 @@ msgstr ""
 
 #: ../../ONS.rst:1637
 msgid "Barren Moor enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONS.rst:1639
 msgid "|tap|: Add |mana_b|."
@@ -4637,7 +4639,7 @@ msgstr ""
 
 #: ../../ONS.rst:1665
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONS.rst:1667
 msgid "|tap|: Add |mana_r|."
@@ -4684,7 +4686,7 @@ msgstr ""
 
 #: ../../ONS.rst:1687
 msgid "Lonely Sandbar enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONS.rst:1689
 msgid "|tap|: Add |mana_u|."
@@ -4741,7 +4743,7 @@ msgstr ""
 
 #: ../../ONS.rst:1711
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONS.rst:1713
 msgid "|tap|: Add |mana_w|."
@@ -4775,7 +4777,7 @@ msgstr ""
 
 #: ../../ONS.rst:1727
 msgid "Tranquil Thicket enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONS.rst:1731
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"

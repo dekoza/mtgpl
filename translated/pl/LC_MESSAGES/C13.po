@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 10:49+0000\n"
+"PO-Revision-Date: 2021-03-02 12:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -47,6 +47,8 @@ msgid ""
 "At the beginning of your upkeep, you may exile target artifact or "
 "enchantment. If you do, its controller gains control of Act of Authority."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz wygnać wskazany artefakt lub "
+"urok. Jeśli tak zrobisz, jego władca zyskuje władanie nad niniejszym urokiem."
 
 #: ../../C13.rst:18
 msgid ""
@@ -121,6 +123,8 @@ msgid ""
 "When Angel of Finality enters the battlefield, exile all cards from target "
 "player's graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie karty z cmentarza "
+"wskazanego gracza."
 
 #: ../../C13.rst:32
 msgid ""
@@ -197,6 +201,7 @@ msgstr "Zaurocz gracza"
 msgid ""
 "Whenever a creature attacks enchanted player, its controller gains 1 life."
 msgstr ""
+"Ilekroć stwór zaatakuje zauroczonego gracza, jego władca zyskuje 1 życie."
 
 #: ../../C13.rst:56
 msgid ""
@@ -239,6 +244,9 @@ msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Plains card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
+"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../C13.rst:70
 msgid ""
@@ -916,7 +924,7 @@ msgstr "3/3"
 
 #: ../../C13.rst:285
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
+msgstr "Antymagia (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../C13.rst:294
 msgid ""
@@ -2166,14 +2174,13 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:681
-#, fuzzy
 msgid ""
 "Evoke |mana_1|\\ |mana_r|\\ |mana_r| (You may cast this spell for its evoke "
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
-"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli tak zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przyzwanie |mana_1|\\ |mana_r|\\ |mana_r| (Możesz rzucić ten czar za jego "
+"koszt przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole "
+"bitwy.)"
 
 #: ../../C13.rst:688
 msgid ""
@@ -2318,8 +2325,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, it deals "
 "damage equal to its power to any target."
 msgstr ""
-"Ilekroć stwór wejdzie na pole bitwy pod twoim władanie, zadaje on wskazanemu "
-"celowi obrażenia równe swojej sile."
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, zadaje on "
+"wskazanemu celowi obrażenia równe swojej sile."
 
 #: ../../C13.rst:728
 msgid ""
@@ -2330,13 +2337,12 @@ msgstr ""
 
 # 32d70781d5c54b4eb7c1bf0af512b476
 #: ../../C13.rst:727
-#, fuzzy
 msgid ""
 "Whenever a creature with power 5 or greater enters the battlefield under "
 "your control, you may have Where Ancients Tread deal 5 damage to any target."
 msgstr ""
-"Lądowanie — Ilekroć ląd wchodzi na pole bitwy pod twoim władaniem, możesz "
-"położyć na polu bitwy żeton zielonego stwora Bestia 4/4."
+"Ilekroć stwór o sile 5 lub większej wejdzie na pole bitwy pod twoim "
+"władaniem, możesz sprawić, że ten urok zada wskazanemu celowi 5 obrażeń."
 
 #: ../../C13.rst:732
 msgid ""
@@ -2964,7 +2970,7 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may create a 4/4 green Beast creature token."
 msgstr ""
-"Lądowanie — Ilekroć ląd wchodzi na pole bitwy pod twoim władaniem, możesz "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
 "stworzyć żeton zielonego stwora Bestia 4/4."
 
 #: ../../C13.rst:930
@@ -3185,9 +3191,8 @@ msgstr ""
 
 # 3791fe90945e4dcdaa67a3ebfeaf4c33
 #: ../../C13.rst:993
-#, fuzzy
 msgid "Equipped creature gets +2/+2 and has trample and lifelink."
-msgstr "Ekwipowany stwór dostaje +2/+2 oraz ma więź życia oraz tratowanie."
+msgstr "Wyposażony stwór dostaje +2/+2 i ma tratowanie oraz więź życia."
 
 # 405bd70f7fb2444db0ffc0e34c1e6ff8
 # f1e76643096d4ec0910c851ea361fa1a
@@ -3427,9 +3432,8 @@ msgstr ""
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
 #: ../../C13.rst:1097
-#, fuzzy
 msgid "Destroy target artifact and target enchantment."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany artefakt i wskazany urok."
 
 #: ../../C13.rst:1106
 msgid ""
@@ -3465,9 +3469,8 @@ msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
 #: ../../C13.rst:1113
-#, fuzzy
 msgid "Jund Charm deals 2 damage to each creature."
-msgstr "Klęska Głodu zadaje 3 obrażenia każdemu stworowi i każdemu graczowi."
+msgstr "Ten czar zadaje każdemu stworowi po 2 obrażenia."
 
 #: ../../C13.rst:1115
 msgid "Put two +1/+1 counters on target creature."
@@ -3557,17 +3560,13 @@ msgstr ""
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
 #: ../../C13.rst:1147
-#, fuzzy
 msgid "Naya Charm deals 3 damage to target creature."
-msgstr "Klęska Głodu zadaje 3 obrażenia każdemu stworowi i każdemu graczowi."
+msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia."
 
 # d198f92a685445b8a36e9398093a758a
 #: ../../C13.rst:1149
-#, fuzzy
 msgid "Return target card from a graveyard to its owner's hand."
-msgstr ""
-"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną kartę z cmentarza do ręki właściciela."
 
 #: ../../C13.rst:1151
 msgid "Tap all creatures target player controls."
@@ -3980,6 +3979,9 @@ msgid ""
 "card: Search your library for a Mountain or Forest card, reveal it, put it "
 "into your hand, then shuffle your library.)"
 msgstr ""
+"Górocykling |mana_2|, lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: "
+"Wyszukaj w twojej bibliotece kartę Góry lub Lasu, ujawnij ją, umieść w "
+"twojej ręce, następnie przetasuj twoją bibliotekę.)"
 
 #: ../../C13.rst:1300
 msgid ""
@@ -4053,18 +4055,16 @@ msgstr ""
 
 # d198f92a685445b8a36e9398093a758a
 #: ../../C13.rst:1321
-#, fuzzy
 msgid ""
 "|mana_4|\\ |mana_b|, Sacrifice a creature: Return target creature card from "
 "your graveyard to your hand."
 msgstr ""
-"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"|mana_4|\\ |mana_b|, poświęć stwora: Przywróć wskazaną kartę stwora z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../C13.rst:1323
-#, fuzzy
 msgid "|mana_4|\\ |mana_g|: Put a +1/+1 counter on target creature."
-msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
+msgstr "|mana_4|\\ |mana_g|: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../C13.rst:1328
 msgid ""
@@ -4116,7 +4116,7 @@ msgstr ""
 
 #: ../../C13.rst:1339
 msgid "|mana_3|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr "|mana_3|\\ |mana_g|: Stwórz żeton zielonego stwora Saproling 1/1."
+msgstr "|mana_3|\\ |mana_g|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 # c14e0e501fb9403ab74ef577e02f7c51
 #: ../../C13.rst:1341
@@ -4858,7 +4858,7 @@ msgstr ""
 # d2c37d1092c9484fb90ed3bff1e30f58
 #: ../../C13.rst:1579
 msgid "Barren Moor enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C13.rst:1581 ../../C13.rst:1591 ../../C13.rst:1989
 msgid "|tap|: Add |mana_b|."
@@ -4900,7 +4900,7 @@ msgstr ""
 # 893f0eaf3b8d43058b4635fa325ac17f
 #: ../../C13.rst:1595
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 85286dc295ba49c0b0e2d30bc9ab80c3
 #: ../../C13.rst:1597
@@ -5077,7 +5077,7 @@ msgstr ""
 # e8323cc68807405eabd65f2a773173ad
 #: ../../C13.rst:1657
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C13.rst:1659 ../../C13.rst:1913 ../../C13.rst:1965
 msgid "|tap|: Add |mana_r|."
@@ -5116,7 +5116,7 @@ msgstr ""
 # a896c1affb6f4256a9fb88f142c004ef
 #: ../../C13.rst:1671
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 03112a9f11e246959e5fb7ad1f2259d1
 #: ../../C13.rst:1673
@@ -5199,7 +5199,7 @@ msgstr ""
 # a37a87b03c1445b3839855e2c62b7798
 #: ../../C13.rst:1703
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # d899366d3fbe4742ad5cbf7eba33d59b
 #: ../../C13.rst:1705
@@ -5369,7 +5369,7 @@ msgstr ""
 # 58c48a54527d4e869a5be67924011ba9
 #: ../../C13.rst:1767
 msgid "Lonely Sandbar enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 16a94884c25444ccbec70c51b14490e0
 #: ../../C13.rst:1771
@@ -5621,7 +5621,7 @@ msgstr ""
 # ce095eb17fdb4a7d9f3ba1f0a788645f
 #: ../../C13.rst:1867
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # f2a01065e91f4825a9e18f1f6e48b90c
 #: ../../C13.rst:1871
@@ -5672,7 +5672,7 @@ msgstr ""
 # bc0007215ab64e83bb167a093ec8d96e
 #: ../../C13.rst:1889
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 5dcf45c6a6ca4e25870816e71325a84d
 #: ../../C13.rst:1891
@@ -5745,9 +5745,9 @@ msgstr ""
 # 4fcf17f0b062433495e49bf9a382dbbf
 # eb58dedf784c407b855dfda133d03ec7
 #: ../../C13.rst:1923
-#, fuzzy
 msgid "|tap|, Sacrifice X Goats: Add X mana of any one color. You gain X life."
-msgstr "|tap|: Dodaj jedną manę dowolnego koloru do swojej puli many."
+msgstr ""
+"|tap|, poświęć X Kóz: Weź X many w jednym dowolnym kolorze. Zyskaj X żyć."
 
 #: ../../C13.rst:1928
 msgid ""
@@ -5788,7 +5788,7 @@ msgstr ""
 # a31505a2ed3b4dac9c9e3b301b28ac39
 #: ../../C13.rst:1935
 msgid "Tranquil Thicket enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 8c1148b16f214805a2b8fbebb102c843
 #: ../../C13.rst:1939

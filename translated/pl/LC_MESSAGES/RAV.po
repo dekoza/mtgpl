@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 09:17+0000\n"
+"PO-Revision-Date: 2021-03-02 12:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -3520,10 +3520,12 @@ msgid ""
 "|mana_4|\\ |mana_b|, Sacrifice a creature: Return target creature card from "
 "your graveyard to your hand."
 msgstr ""
+"|mana_4|\\ |mana_b|, poświęć stwora: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../RAV.rst:1281
 msgid "|mana_4|\\ |mana_g|: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "|mana_4|\\ |mana_g|: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../RAV.rst:1288
 msgid ""
@@ -3582,7 +3584,7 @@ msgstr ""
 
 #: ../../RAV.rst:1305
 msgid "|mana_3|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr "|mana_3|\\ |mana_g|: Stwórz żeton zielonego stwora Saproling 1/1."
+msgstr "|mana_3|\\ |mana_g|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../RAV.rst:1307
 msgid "|mana_3|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
@@ -3938,7 +3940,7 @@ msgstr ""
 
 #: ../../RAV.rst:1437
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RAV.rst:1439
 msgid ""
@@ -4000,7 +4002,7 @@ msgstr ""
 
 #: ../../RAV.rst:1459
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RAV.rst:1461
 msgid ""
@@ -4061,7 +4063,7 @@ msgstr ""
 
 #: ../../RAV.rst:1479
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../RAV.rst:1481
 msgid ""

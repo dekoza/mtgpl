@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 23:34+0000\n"
+"PO-Revision-Date: 2021-03-02 12:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -1816,13 +1816,12 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:635
-#, fuzzy
 msgid ""
 "Whenever a creature with power 5 or greater enters the battlefield under "
 "your control, you may have Where Ancients Tread deal 5 damage to any target."
 msgstr ""
-"Lądowanie — Ilekroć ląd wchodzi na pole bitwy pod twoim władaniem, możesz "
-"położyć na polu bitwy żeton zielonego stwora Bestia 4/4."
+"Ilekroć stwór o sile 5 lub większej wejdzie na pole bitwy pod twoim "
+"władaniem, możesz sprawić, że ten urok zada wskazanemu celowi 5 obrażeń."
 
 #: ../../ALA.rst:642
 msgid ""
@@ -1833,7 +1832,7 @@ msgstr ""
 
 #: ../../ALA.rst:639 ../../ALA.rst:861 ../../ALA.rst:867
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr "Osłona (Ten stwór nie może być wskazany przez czary i zdolności.)"
+msgstr "Antymagia (Ten stwór nie może być wskazany przez czary i zdolności.)"
 
 #: ../../ALA.rst:641
 msgid ""
@@ -2558,7 +2557,7 @@ msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../ALA.rst:931
 msgid "Jund Charm deals 2 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 2 obrażenia."
 
 #: ../../ALA.rst:933
 msgid "Put two +1/+1 counters on target creature."
@@ -2634,11 +2633,11 @@ msgstr ""
 
 #: ../../ALA.rst:957
 msgid "Naya Charm deals 3 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia."
 
 #: ../../ALA.rst:959
 msgid "Return target card from a graveyard to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z cmentarza do ręki właściciela."
 
 #: ../../ALA.rst:961
 msgid "Tap all creatures target player controls."
