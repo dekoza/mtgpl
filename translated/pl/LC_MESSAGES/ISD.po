@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 09:17+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -243,7 +243,7 @@ msgstr ""
 msgid ""
 "When Doomed Traveler dies, create a 1/1 white Spirit creature token with "
 "flying."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../ISD.rst:68
 msgid ""
@@ -258,6 +258,9 @@ msgid ""
 "When Elder Cathar dies, put a +1/+1 counter on target creature you control. "
 "If that creature is a Human, put two +1/+1 counters on it instead."
 msgstr ""
+"Kiedy ten stwór umrze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"władaniem. Jeśli ów stwór to Człowiek, zamiast tego umieść na nim dwa "
+"znaczniki +1/+1."
 
 #: ../../ISD.rst:74
 msgid ""
@@ -274,7 +277,7 @@ msgstr "Pierwszy cios, czujność"
 # a82de430a9f7477e92eaf202568adeed
 #: ../../ISD.rst:73
 msgid "Protection from Vampires, from Werewolves, and from Zombies"
-msgstr ""
+msgstr "Ochrona przed Wampirami, Wilkołakami i Zombi"
 
 #: ../../ISD.rst:80
 msgid ""
@@ -331,7 +334,7 @@ msgstr ""
 # 72a2c6a2df1041fe86b47b0d2cbbc223
 #: ../../ISD.rst:91
 msgid "Other Spirit creatures you control get +0/+1."
-msgstr ""
+msgstr "Inne Duchy pod twoim władaniem dostają +0/+1."
 
 #: ../../ISD.rst:100
 msgid ""
@@ -352,12 +355,16 @@ msgid ""
 "Geist-Honored Monk's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../ISD.rst:99
 msgid ""
 "When Geist-Honored Monk enters the battlefield, create two 1/1 white Spirit "
 "creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony białego stwora Duch "
+"1/1 z lataniem."
 
 #: ../../ISD.rst:108
 msgid ""
@@ -377,6 +384,8 @@ msgid ""
 "Prevent all combat damage that would be dealt to and dealt by enchanted "
 "creature."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie zauroczony stwór mógłby zadać lub "
+"mogłyby zostać zadane przez niego."
 
 #: ../../ISD.rst:112
 msgid ""
@@ -402,6 +411,7 @@ msgid ""
 "When Mausoleum Guard dies, create two 1/1 white Spirit creature tokens with "
 "flying."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
 
 #: ../../ISD.rst:120
 msgid ""
@@ -503,6 +513,8 @@ msgid ""
 "Destroy all enchantments. You gain 1 life for each enchantment destroyed "
 "this way."
 msgstr ""
+"Zniszcz wszystkie uroki. Zyskaj po 1 życiu za każdy urok zniszczony w ten "
+"sposób."
 
 #: ../../ISD.rst:152
 msgid ""
@@ -583,7 +595,7 @@ msgstr ""
 #: ../../ISD.rst:169
 msgid ""
 "|mana_1|\\ |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|, poświęć tego stwora: Wygnaj wskazany urok."
 
 #: ../../ISD.rst:174
 msgid ""
@@ -598,6 +610,8 @@ msgid ""
 "When Slayer of the Wicked enters the battlefield, you may destroy target "
 "Vampire, Werewolf, or Zombie."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego Wampira, "
+"Wilkołaka lub Zombi."
 
 #: ../../ISD.rst:178
 msgid ""
@@ -624,6 +638,8 @@ msgid ""
 "Creatures you control gain protection from non-Human creatures until end of "
 "turn."
 msgstr ""
+"Stwory pod twoim władaniem zyskują do końca tury ochronę przed stworami bez "
+"typu Człowiek."
 
 #: ../../ISD.rst:186
 msgid ""
@@ -725,7 +741,7 @@ msgstr ""
 # 2968ec7c8496493cad10726c4db3a696
 #: ../../ISD.rst:211
 msgid "Destroy target Spirit or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazanego Ducha lub urok."
 
 #: ../../ISD.rst:218
 msgid ""
@@ -746,6 +762,8 @@ msgid ""
 "When Village Bell-Ringer enters the battlefield, untap all creatures you "
 "control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, odkręć wszystkie stwory pod twoim "
+"władaniem."
 
 #: ../../ISD.rst:222
 msgid ""
@@ -784,6 +802,8 @@ msgid ""
 "token that's a copy of that card. Activate this ability only any time you "
 "could cast a sorcery."
 msgstr ""
+"Wygnaj kartę stwora z twojego cmentarza i opłać jej koszt many: Stwórz żeton "
+"będący kopią owej karty. Aktywuj jako obrzęd."
 
 #: ../../ISD.rst:236
 msgid ""
@@ -905,6 +925,7 @@ msgstr "Zaurocz gracza"
 msgid ""
 "At the beginning of enchanted player's upkeep, that player mills two cards."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, ów gracz mieli dwie karty."
 
 #: ../../ISD.rst:274
 msgid ""
@@ -1020,6 +1041,8 @@ msgid ""
 "Counter target spell unless its controller pays |mana_1|. That player "
 "discards a card."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|. Ów gracz "
+"odrzuca kartę."
 
 #: ../../ISD.rst:312
 msgid ""
@@ -1075,7 +1098,7 @@ msgstr ""
 # 29b6526039f642408ece8030bd89bae2
 #: ../../ISD.rst:321
 msgid "Invisible Stalker can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../ISD.rst:326
 msgid ""
@@ -1103,7 +1126,7 @@ msgstr ""
 # 1dda7886f9564f49a3f4e17f5c8e9b81
 #: ../../ISD.rst:331
 msgid "|mana_u|: Return Lantern Spirit to its owner's hand."
-msgstr ""
+msgstr "|mana_u|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../ISD.rst:336
 msgid ""
@@ -1116,6 +1139,7 @@ msgstr ""
 #: ../../ISD.rst:335
 msgid "Counter target spell. Return target permanent to its owner's hand."
 msgstr ""
+"Skontruj wskazany czar. Przywróć wskazany permanent do ręki właściciela."
 
 #: ../../ISD.rst:342
 msgid ""
@@ -1204,6 +1228,8 @@ msgid ""
 "|mana_2|: Target player mills a card. Mindshrieker gets +X/+X until end of "
 "turn, where X is the milled card's converted mana cost."
 msgstr ""
+"|mana_2|: Wskazany gracz mieli kartę. Ten stwór dostaje do końca tury +X/+X, "
+"gdzie X jest skrótem many zmielonej karty."
 
 #: ../../ISD.rst:368
 msgid ""
@@ -1220,6 +1246,10 @@ msgid ""
 "card onto the battlefield and all other cards revealed this way into their "
 "graveyard."
 msgstr ""
+"|mana_1|\\ |mana_u|: Władca tego stwora wtasowuje go do swojej biblioteki. "
+"Jeśli ów gracz tak zrobi, ujawnia karty z wierzchu owej biblioteki aż ujawni "
+"kartę o nazwie Mirror-Mad Phantasm. Ów gracz umieszcza ową kartę na polu "
+"bitwy, a pozostałe karty ujawnione w ten sposób w swoim cmentarzu."
 
 #: ../../ISD.rst:372
 msgid ""
@@ -1241,6 +1271,8 @@ msgid ""
 "Whenever another creature dies, you may draw a card. If you do, discard a "
 "card."
 msgstr ""
+"Ilekroć umrze inny stwór, możesz dobrać kartę. Jeśli tak zrobisz, odrzuć "
+"kartę."
 
 #: ../../ISD.rst:382
 msgid ""
@@ -1255,6 +1287,8 @@ msgid ""
 "You may pay |mana_0| rather than pay the mana cost for Zombie creature "
 "spells you cast."
 msgstr ""
+"Rzucając czary stworów typu Zombi możesz płacić |mana_0| zamiast ich kosztu "
+"many."
 
 #: ../../ISD.rst:386
 msgid ""
@@ -1342,11 +1376,13 @@ msgid ""
 "As an additional cost to cast this spell, exile three creature cards from "
 "your graveyard."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — wygnaj trzy karty stwora z "
+"twojego cmentarza."
 
 # 886b0260b01949abae7247de567a6416
 #: ../../ISD.rst:415
 msgid "You may cast Skaab Ruinator from your graveyard."
-msgstr ""
+msgstr "Możesz rzucić tę kartę z twojego cmentarza."
 
 #: ../../ISD.rst:422
 msgid ""
@@ -1404,6 +1440,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, "
 "then sacrifice a creature."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Stwórz żeton niebieskiego stwora Homunculus 2/2, "
+"następnie poświęć stwora."
 
 #: ../../ISD.rst:446
 msgid ""
@@ -1417,12 +1455,12 @@ msgstr ""
 msgid ""
 "Sturmgeist's power and toughness are each equal to the number of cards in "
 "your hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 # d9d6abaa2b21421f9401ef2f9ba29f59
 #: ../../ISD.rst:445
 msgid "Whenever Sturmgeist deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../ISD.rst:452
 msgid ""
@@ -1466,6 +1504,8 @@ msgid ""
 "Whenever a creature card is put into an opponent's graveyard from their "
 "library, exile that card and create a 2/2 black Zombie creature token."
 msgstr ""
+"Ilekroć karta stwora trafi z biblioteki do cmentarza przeciwnika, wygnaj ową "
+"kartę i stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../ISD.rst:464
 msgid ""
@@ -1488,6 +1528,8 @@ msgid ""
 "Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain "
 "life equal to that creature's toughness."
 msgstr ""
+"Ilekroć umrze stwór uszkodzony przez niniejszego w tej turze, zyskaj tyle "
+"żyć, ile miał on wytrzymałości."
 
 #: ../../ISD.rst:470
 msgid ""
@@ -1545,6 +1587,9 @@ msgid ""
 "put it onto the battlefield attached to target player, then shuffle your "
 "library."
 msgstr ""
+"Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece kartę Klątwy, "
+"umieść ją na polu bitwy dołączoną do wskazanego gracza, następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../ISD.rst:488
 msgid ""
@@ -1558,6 +1603,8 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, target player draws a card and loses 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, wskazany gracz dobiera kartę i traci 1 "
+"życie."
 
 #: ../../ISD.rst:496
 msgid ""
@@ -1592,7 +1639,7 @@ msgstr ""
 # 297a2ee8474843a593e2bec80c6acb8d
 #: ../../ISD.rst:501
 msgid "Other Vampire creatures you control get +2/+2."
-msgstr ""
+msgstr "Inne Wampiry pod twoim władaniem dostają +2/+2."
 
 #: ../../ISD.rst:510
 msgid ""
@@ -1607,6 +1654,7 @@ msgid ""
 "Sacrifice Brain Weevil: Target player discards two cards. Activate this "
 "ability only any time you could cast a sorcery."
 msgstr ""
+"Poświęć tego stwora: Wskazany gracz odrzuca dwie karty. Aktywuj jako obrzęd."
 
 #: ../../ISD.rst:516
 msgid ""
@@ -1642,6 +1690,8 @@ msgid ""
 "Corpse Lunge deals damage equal to the exiled card's power to target "
 "creature."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi tyle obrażeń, ile siły miała wygnana "
+"karta."
 
 #: ../../ISD.rst:528
 msgid ""
@@ -1667,6 +1717,8 @@ msgid ""
 "At the beginning of enchanted player's upkeep, that player exiles two cards "
 "from their graveyard."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, ów gracz wygania dwie "
+"karty ze swojego cmentarza."
 
 #: ../../ISD.rst:540
 msgid ""
@@ -1705,6 +1757,8 @@ msgid ""
 "|mana_1|, Sacrifice a creature: You gain life equal to the sacrificed "
 "creature's toughness."
 msgstr ""
+"|mana_1|, poświęć stwora: Zyskaj tyle żyć, ile wytrzymałości miał poświęcony "
+"stwór."
 
 #: ../../ISD.rst:552
 msgid ""

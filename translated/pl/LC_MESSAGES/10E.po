@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 12:48+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -429,11 +429,8 @@ msgid "Soldier creatures have vigilance."
 msgstr ""
 
 #: ../../10E.rst:141
-#, fuzzy
 msgid "|mana_2|\\ |mana_w|: Create a 1/1 white Soldier creature token."
-msgstr ""
-"|mana_1|, |tap|, zapłać 1 życie: Umieść na polu bitwy żeton białego stwora "
-"Goat 0/1."
+msgstr "|mana_2|\\ |mana_w|: Stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../10E.rst:146
 msgid ""
@@ -844,10 +841,8 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:307
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "|mana_3|: Target player mills three cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "|mana_3|: Wskazany gracz mieli trzy karty."
 
 #: ../../10E.rst:314
 msgid ""

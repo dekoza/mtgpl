@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 09:18+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -518,6 +518,8 @@ msgid ""
 "|mana_x|: Until end of turn, creatures you control have base power and "
 "toughness X/X and gain all creature types."
 msgstr ""
+"|mana_x|: Do końca tury stwory pod twoim władaniem mają bazowe siłę i "
+"wytrzymałość X/X i zyskują wszystkie typy stwora."
 
 #: ../../LRW.rst:180
 msgid ""
@@ -3481,13 +3483,12 @@ msgid "When Masked Admirers enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../LRW.rst:1269
-#, fuzzy
 msgid ""
 "Whenever you cast a creature spell, you may pay |mana_g|\\ |mana_g|. If you "
 "do, return Masked Admirers from your graveyard to your hand."
 msgstr ""
-"Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
-"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskaj tyle samo życia.)"
+"Ilekroć rzucisz czar stwora, możesz zapłacić |mana_g|\\ |mana_g|. Jeśli tak "
+"zrobisz, przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../LRW.rst:1276
 msgid ""
@@ -3702,11 +3703,8 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:1345
-#, fuzzy
 msgid "|mana_2|\\ |mana_g|: Create a 2/2 green Wolf creature token."
-msgstr ""
-"|mana_1|, |tap|, zapłać 1 życie: Umieść na polu bitwy żeton białego stwora "
-"Goat 0/1."
+msgstr "|mana_2|\\ |mana_g|: Stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../LRW.rst:1347
 msgid "Wolves you control have deathtouch."

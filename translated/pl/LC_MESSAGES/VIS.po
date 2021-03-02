@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 09:18+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vis/pl/>\n"
 "Language: pl\n"
@@ -2345,9 +2345,8 @@ msgid ""
 msgstr ""
 
 #: ../../VIS.rst:851
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_u|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |mana_u|."
 
 #: ../../VIS.rst:860
 msgid ""
@@ -2367,9 +2366,8 @@ msgid ""
 msgstr ""
 
 #: ../../VIS.rst:859
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_r|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |mana_r|."
 
 #: ../../VIS.rst:868
 msgid ""
@@ -2389,9 +2387,8 @@ msgid ""
 msgstr ""
 
 #: ../../VIS.rst:867
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_b|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |mana_b|."
 
 #: ../../VIS.rst:874
 msgid ""
@@ -2449,9 +2446,8 @@ msgid ""
 msgstr ""
 
 #: ../../VIS.rst:889
-#, fuzzy
 msgid "|tap|: Add |colorless|\\ |mana_w|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |mana_w|."
 
 #: ../../VIS.rst:896
 msgid ""

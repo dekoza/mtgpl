@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 12:49+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
 "Language: pl\n"
@@ -646,13 +646,15 @@ msgstr ""
 
 #: ../../USG.rst:225
 msgid "Serra Avatar's power and toughness are each equal to your life total."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie twoich żyć."
 
 #: ../../USG.rst:227
 msgid ""
 "When Serra Avatar is put into a graveyard from anywhere, shuffle it into its "
 "owner's library."
 msgstr ""
+"Kiedy ta karta trafi skądkolwiek do cmentarza, wtasuj ją do biblioteki "
+"właściciela."
 
 #: ../../USG.rst:232
 msgid ""
@@ -1029,6 +1031,8 @@ msgstr "Obronność, latanie"
 #: ../../USG.rst:369
 msgid "Prevent all combat damage that would be dealt to and dealt by Fog Bank."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane temu "
+"stworowi i przez tego stwora."
 
 #: ../../USG.rst:376
 msgid ""

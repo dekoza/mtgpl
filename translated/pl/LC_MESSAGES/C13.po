@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 12:49+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -224,6 +224,9 @@ msgid ""
 "toughness 0/1 and has indestructible, and it loses all other abilities, card "
 "types, and creature types."
 msgstr ""
+"Zauroczony stwór jest artefaktowym stworem Owad o bazowych sile i "
+"wytrzymałości 0/1, ma niezniszczalność, traci wszystkie inne zdolności, typy "
+"karty i typy stwora."
 
 #: ../../C13.rst:64
 msgid ""
@@ -237,6 +240,8 @@ msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard to "
 "your hand. Activate this ability only during your upkeep."
 msgstr ""
+"|mana_3|\\ |mana_w|\\ |mana_w|: Przywróć tę kartę z twojego cmentarza do "
+"twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:63
@@ -287,6 +292,11 @@ msgid ""
 "exiled this way to the battlefield under their owners' control attached to "
 "that creature."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_w|: Wygnaj zauroczonego stwora i wszystkie Aury "
+"do niego dołączone. Na początku najbliższego kroku końcowego przywróć ową "
+"kartę na pole bitwy pod władaniem właściciela. Jeśli tak zrobisz, przywróć "
+"inne karty wygnane w ten sposób na pole bitwy pod władaniem właścicieli "
+"dołączone do owego stwora."
 
 #: ../../C13.rst:82
 msgid ""
@@ -389,6 +399,8 @@ msgid ""
 "|mana_x|: Until end of turn, creatures you control have base power and "
 "toughness X/X and gain all creature types."
 msgstr ""
+"|mana_x|: Do końca tury stwory pod twoim władaniem mają bazowe siłę i "
+"wytrzymałość X/X i zyskują wszystkie typy stwora."
 
 #: ../../C13.rst:112
 msgid ""
@@ -403,12 +415,16 @@ msgid ""
 "When Mystic Barrier enters the battlefield or at the beginning of your "
 "upkeep, choose left or right."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub na początku twojego kroku "
+"utrzymania, wybierz lewo lub prawo."
 
 #: ../../C13.rst:111
 msgid ""
 "Each player may attack only the nearest opponent in the last chosen "
 "direction and planeswalkers controlled by that opponent."
 msgstr ""
+"Każdy gracz może atakować tylko najbliższego przeciwnika w ostatnio wybranym "
+"kierunku oraz wędrowców pod władaniem owego przeciwnika."
 
 #: ../../C13.rst:118
 msgid ""
@@ -424,6 +440,9 @@ msgid ""
 "from your graveyard to your hand. You gain life equal to that card's "
 "converted mana cost."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
+"twojego cmentarza do twojej ręki. Zyskaj tyle żyć, ile wynosi skrót many "
+"owej karty."
 
 #: ../../C13.rst:122
 msgid ""
@@ -438,6 +457,8 @@ msgid ""
 "Whenever Serene Master blocks, exchange its power and the power of target "
 "creature it's blocking until end of combat."
 msgstr ""
+"Ilekroć ten stwór blokuje, zamień do końca potyczki jego siłę z siłą "
+"wskazanego blokowanego przez niego stwora."
 
 #: ../../C13.rst:128
 msgid ""
@@ -449,7 +470,7 @@ msgstr ""
 # cb8b8124cd114420972e601edecf39bd
 #: ../../C13.rst:125
 msgid "Serra Avatar's power and toughness are each equal to your life total."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie twoich żyć."
 
 # e23ffc28d2c74041874093364b3589f4
 #: ../../C13.rst:127
@@ -457,6 +478,8 @@ msgid ""
 "When Serra Avatar is put into a graveyard from anywhere, shuffle it into its "
 "owner's library."
 msgstr ""
+"Kiedy ta karta trafi skądkolwiek do cmentarza, wtasuj ją do biblioteki "
+"właściciela."
 
 #: ../../C13.rst:138
 msgid ""
@@ -501,6 +524,8 @@ msgstr ""
 msgid ""
 "You gain 2 life. Then if you have more life than an opponent, draw a card."
 msgstr ""
+"Zyskaj 2 życia. Następnie jeśli masz więcej żyć niż którykolwiek przeciwnik, "
+"dobierz kartę."
 
 # 9f7a334079a44a2d83a1dc4e1bc943e2
 #: ../../C13.rst:143
@@ -526,6 +551,10 @@ msgid ""
 "opponent may put a +1/+1 counter on each creature they control. For each "
 "opponent who does, put a +1/+1 counter on each creature you control."
 msgstr ""
+"Kusząca oferta — Umieść znacznik +1/+1 na każdym stworze pod twoim "
+"władaniem. Każdy przeciwnik może umieścić znacznik +1/+1 na każdym stworze "
+"pod swoim władaniem. Dla każdego przeciwnika, który tak zrobi, umieść "
+"znacznik +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../C13.rst:152
 msgid ""
@@ -586,6 +615,8 @@ msgid ""
 "Counter target spell. Its controller may draw up to two cards at the "
 "beginning of the next turn's upkeep."
 msgstr ""
+"Skontruj wskazany czar. Jego władca może dobrać co najwyżej dwie karty na "
+"początku kroku utrzymania następnej tury."
 
 # 58dae172f89641b189d4e6d6a102150e
 #: ../../C13.rst:167
@@ -664,6 +695,7 @@ msgstr ""
 #: ../../C13.rst:187
 msgid "Draw a card for each tapped creature target opponent controls."
 msgstr ""
+"Dobierz tyle kart, ile przekręconych stworów ma we władaniu wskazany gracz."
 
 #: ../../C13.rst:192
 msgid ""
@@ -702,6 +734,8 @@ msgid ""
 "Whenever a player attacks enchanted player with one or more creatures, that "
 "attacking player may tap or untap target permanent of their choice."
 msgstr ""
+"Ilekroć gracz atakuje zauroczonego gracza co najmniej jednym stworem, ów "
+"atakujący gracz może przekręcić lub odkręcić wskazany przez siebie permanent."
 
 #: ../../C13.rst:214
 msgid ""
@@ -717,11 +751,11 @@ msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../C13.rst:211
 msgid "Untap target permanent you control."
-msgstr ""
+msgstr "Odkręć wskazany permanent pod twoim władaniem."
 
 #: ../../C13.rst:213
 msgid "Tap target permanent an opponent controls."
-msgstr ""
+msgstr "Przekręć wskazany permanent pod władaniem przeciwnika."
 
 #: ../../C13.rst:220
 msgid ""
@@ -776,6 +810,8 @@ msgid ""
 "Whenever Diviner Spirit deals combat damage to a player, you and that player "
 "each draw that many cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ty i ów gracz dobieracie "
+"po tyle samo kart."
 
 #: ../../C13.rst:236
 msgid ""
@@ -791,6 +827,8 @@ msgid ""
 "|tap|: Exchange control of two target nonlegendary creatures. You can't "
 "activate this ability during combat."
 msgstr ""
+"|tap|: Zamień władaniem nad dwoma wskazanymi nielegendarnymi stworami. Nie "
+"możesz aktywować tej zdolności podczas potyczki."
 
 #: ../../C13.rst:242
 msgid ""
@@ -840,6 +878,8 @@ msgid ""
 "|mana_u|\\ |mana_u|, |tap|: Copy target instant or sorcery spell. You may "
 "choose new targets for the copy."
 msgstr ""
+"|mana_u|\\ |mana_u|, |tap|: Skopiuj wskazany czar sztuczki lub obrzędu. "
+"Możesz wskazać nowe cele dla kopii."
 
 # ed723c39ec1a4a40b7975c0850dbf718
 #: ../../C13.rst:253
@@ -849,13 +889,15 @@ msgstr "POZIOM 4+"
 # 66b1f0618e7b47f48e9f2f17ea6971f1
 #: ../../C13.rst:255
 msgid "2/5"
-msgstr ""
+msgstr "2/5"
 
 #: ../../C13.rst:257
 msgid ""
 "|mana_u|\\ |mana_u|, |tap|: Copy target instant or sorcery spell twice. You "
 "may choose new targets for the copies."
 msgstr ""
+"|mana_u|\\ |mana_u|, |tap|: Skopiuj wskazany czar sztuczki lub obrzędu "
+"dwukrotnie. Możesz wskazać nowe cele dla kopii."
 
 #: ../../C13.rst:264
 msgid ""
@@ -868,6 +910,8 @@ msgstr ""
 #: ../../C13.rst:263
 msgid "Prevent all combat damage that would be dealt to and dealt by Fog Bank."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane temu "
+"stworowi i przez tego stwora."
 
 #: ../../C13.rst:270
 msgid ""
@@ -880,6 +924,8 @@ msgstr ""
 #: ../../C13.rst:269
 msgid "Prevent all combat damage that would be dealt to Guard Gomazoa."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane temu "
+"stworowi."
 
 #: ../../C13.rst:288
 msgid ""
@@ -910,7 +956,7 @@ msgstr "2/2"
 # 0903b5133a4b4c86b50f779d3a6a5fd1
 #: ../../C13.rst:279 ../../C13.rst:287
 msgid "Hada Spy Patrol can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 # fbd194ed48644c7593733c3957db9c2d
 #: ../../C13.rst:281
@@ -937,6 +983,8 @@ msgstr ""
 msgid ""
 "Cast this spell only during the declare blockers step on an opponent's turn."
 msgstr ""
+"Ten czar można rzucić tylko podczas kroku deklaracji blokujących w turze "
+"przeciwnika."
 
 # 30c2f4a8d9594277bd18b93835d47f2c
 #: ../../C13.rst:293
@@ -946,6 +994,10 @@ msgid ""
 "combat if able. They can't attack you or a planeswalker you control that "
 "combat."
 msgstr ""
+"Usuń wszystkie atakujące stwory z potyczki i odkręć je. Po tej fazie jest "
+"dodatkowa faza potyczki. Każdy z owych stworów atakuje w owej potyczce, "
+"jeśli może. Nie mogą one w owej potyczce atakować ciebie lub wędrowca pod "
+"twoim władaniem."
 
 #: ../../C13.rst:298
 msgid ""
@@ -959,6 +1011,8 @@ msgid ""
 "|mana_u|, |tap|: Each player discards their hand, then draws cards equal to "
 "the greatest number of cards a player discarded this way."
 msgstr ""
+"|mana_u|, |tap|: Każdy gracz odrzuca swoją rękę, następnie dobiera tyle "
+"kart, ile najwięcej kart odrzucił któryś gracz w ten sposób."
 
 #: ../../C13.rst:304
 msgid ""
@@ -1396,6 +1450,8 @@ msgid ""
 "|mana_1|, Sacrifice a creature: You gain life equal to the sacrificed "
 "creature's toughness."
 msgstr ""
+"|mana_1|, poświęć stwora: Zyskaj tyle żyć, ile wytrzymałości miał poświęcony "
+"stwór."
 
 #: ../../C13.rst:444
 msgid ""

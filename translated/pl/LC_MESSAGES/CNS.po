@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 12:49+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -1142,7 +1142,7 @@ msgstr ""
 msgid ""
 "When Doomed Traveler dies, create a 1/1 white Spirit creature token with "
 "flying."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../CNS.rst:394
 msgid ""
@@ -1324,7 +1324,7 @@ msgstr ""
 #: ../../CNS.rst:453
 msgid ""
 "|mana_1|\\ |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|, poświęć tego stwora: Wygnaj wskazany urok."
 
 #: ../../CNS.rst:460
 msgid ""
@@ -2518,6 +2518,8 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |"
 "mana_g| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_g| (Rzucając ten czar możesz zapłacić "
+"dodatkowe |mana_1|\\ |mana_g| dowolną liczbę razy.)"
 
 #: ../../CNS.rst:903
 msgid ""

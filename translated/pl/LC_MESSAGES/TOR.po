@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-01 23:34+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tor/pl/>\n"
 "Language: pl\n"
@@ -400,10 +400,8 @@ msgid ""
 msgstr ""
 
 #: ../../TOR.rst:139
-#, fuzzy
-#| msgid "Target player draws two cards."
 msgid "|mana_3|: Target player mills three cards."
-msgstr "Wskazany gracz dobiera dwie karty."
+msgstr "|mana_3|: Wskazany gracz mieli trzy karty."
 
 #: ../../TOR.rst:144
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 18:59+0100\n"
-"PO-Revision-Date: 2021-03-02 12:48+0000\n"
+"PO-Revision-Date: 2021-03-02 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -33,8 +33,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:9
-#, fuzzy
-#| msgid "Each player sacrifices all colored permanents they control."
 msgid ""
 "Each player sacrifices all permanents they control that are one or more "
 "colors."
@@ -104,11 +102,9 @@ msgid "When you cast this spell, take an extra turn after this one."
 msgstr "Kiedy rzucisz ten czar, weź dodatkową turę po obecnej."
 
 #: ../../ROE.rst:29
-#, fuzzy
-#| msgid "Flying, protection from colored spells, annihilator 6"
 msgid ""
 "Flying, protection from spells that are one or more colors, annihilator 6"
-msgstr "Latanie, ochrona przed kolorowymi czarami, anihilacja 6"
+msgstr "Latanie, ochrona przed czarami posiadającymi kolor, anihilacja 6"
 
 #: ../../ROE.rst:31
 msgid ""
@@ -506,7 +502,7 @@ msgstr ""
 
 #: ../../ROE.rst:177 ../../ROE.rst:469
 msgid "2/5"
-msgstr ""
+msgstr "2/5"
 
 #: ../../ROE.rst:179
 msgid ""
@@ -868,6 +864,8 @@ msgstr ""
 msgid ""
 "You gain 2 life. Then if you have more life than an opponent, draw a card."
 msgstr ""
+"Zyskaj 2 życia. Następnie jeśli masz więcej żyć niż którykolwiek przeciwnik, "
+"dobierz kartę."
 
 #: ../../ROE.rst:346
 msgid ""
@@ -1133,12 +1131,16 @@ msgid ""
 "|mana_u|\\ |mana_u|, |tap|: Copy target instant or sorcery spell. You may "
 "choose new targets for the copy."
 msgstr ""
+"|mana_u|\\ |mana_u|, |tap|: Skopiuj wskazany czar sztuczki lub obrzędu. "
+"Możesz wskazać nowe cele dla kopii."
 
 #: ../../ROE.rst:471
 msgid ""
 "|mana_u|\\ |mana_u|, |tap|: Copy target instant or sorcery spell twice. You "
 "may choose new targets for the copies."
 msgstr ""
+"|mana_u|\\ |mana_u|, |tap|: Skopiuj wskazany czar sztuczki lub obrzędu "
+"dwukrotnie. Możesz wskazać nowe cele dla kopii."
 
 #: ../../ROE.rst:482
 msgid ""
@@ -1227,6 +1229,8 @@ msgstr ""
 #: ../../ROE.rst:521
 msgid "Prevent all combat damage that would be dealt to Guard Gomazoa."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane temu "
+"stworowi."
 
 #: ../../ROE.rst:540
 msgid ""
@@ -1245,7 +1249,7 @@ msgstr ""
 
 #: ../../ROE.rst:531 ../../ROE.rst:539
 msgid "Hada Spy Patrol can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../ROE.rst:537
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
