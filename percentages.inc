@@ -35,7 +35,7 @@
 
 .. |EXO_percent| image:: images/pie15.png        
 
-.. |M13_percent| image:: images/pie55.png        
+.. |M13_percent| image:: images/pie60.png        
 
 .. |BBD_percent| image:: images/pie45.png        
 
@@ -61,7 +61,7 @@
 
 .. |C19_percent| image:: images/pie65.png        
 
-.. |M10_percent| image:: images/pie65.png        
+.. |M10_percent| image:: images/pie70.png        
 
 .. |GK1_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -94,9 +94,10 @@
 .. |ORI_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |TSR_percent| image:: images/pie75.png        
+.. |TSR_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
-.. |ISD_percent| image:: images/pie60.png        
+.. |ISD_percent| image:: images/pie65.png        
 
 .. |DIS_percent| image:: images/pie20.png        
 
@@ -121,7 +122,7 @@
 
 .. |SCG_percent| image:: images/pie20.png        
 
-.. |TSP_percent| image:: images/pie30.png        
+.. |TSP_percent| image:: images/pie35.png        
 
 .. |10E_percent| image:: images/pie40.png        
 
@@ -256,7 +257,7 @@
 .. |AVR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |FUT_percent| image:: images/pie30.png        
+.. |FUT_percent| image:: images/pie35.png        
 
 .. |ONS_percent| image:: images/pie25.png        
 
@@ -267,7 +268,7 @@
 .. |M20_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C13_percent| image:: images/pie50.png        
+.. |C13_percent| image:: images/pie55.png        
 
 .. |WAR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -284,7 +285,7 @@
 
 .. |NEM_percent| image:: images/pie10.png        
 
-.. |CNS_percent| image:: images/pie35.png        
+.. |CNS_percent| image:: images/pie40.png        
 
 .. |ULG_percent| image:: images/pie25.png        
 
@@ -296,7 +297,7 @@
 .. |DOM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |PLC_percent| image:: images/pie35.png        
+.. |PLC_percent| image:: images/pie40.png        
 
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
