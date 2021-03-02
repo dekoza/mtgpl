@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 21:28+0000\n"
+"PO-Revision-Date: 2021-03-02 22:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -843,28 +843,20 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:263
-#, fuzzy
-#| msgid ""
-#| "Suspend 4—|mana_b| (Rather than cast this card from your hand, you may "
-#| "pay |mana_b| and exile it with four time counters on it. At the beginning "
-#| "of your upkeep, remove a time counter. When the last is removed, cast it "
-#| "without paying its mana cost.)"
 msgid ""
 "Suspend 4—|mana_u| (Rather than cast this card from your hand, pay |mana_u| "
 "and exile it with four time counters on it. At the beginning of your upkeep, "
 "remove a time counter. When the last is removed, cast it without paying its "
 "mana cost.)"
 msgstr ""
-"Zawieszenie 4—|mana_b| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
-"mana_b| i wygnaj ją z czterema znacznikami czasu. Na początku twojego kroku "
+"Zawieszenie 4—|mana_u| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_u| i wygnaj ją z czterema znacznikami czasu. Na początku twojego kroku "
 "utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
 "usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../TSR.rst:265
-#, fuzzy
-#| msgid "Target player discards three cards."
 msgid "Target player draws three cards."
-msgstr "Wskazany gracz odrzuca trzy karty."
+msgstr "Wskazany gracz dobiera trzy karty."
 
 #: ../../TSR.rst:272
 msgid ""
@@ -1077,23 +1069,17 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:333 ../../TSR.rst:481
-#, fuzzy
-#| msgid ""
-#| "Suspend 2—|mana_1|\\ |mana_u| (Rather than cast this card from your hand, "
-#| "you may pay |mana_1|\\ |mana_u| and exile it with two time counters on "
-#| "it. At the beginning of your upkeep, remove a time counter. When the last "
-#| "is removed, cast it without paying its mana cost. It has haste.)"
 msgid ""
 "Suspend 4—|mana_1|\\ |mana_u| (Rather than cast this card from your hand, "
 "you may pay |mana_1|\\ |mana_u| and exile it with four time counters on it. "
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
-"Zawieszenie 2—|mana_1|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
-"możesz zapłacić |mana_1|\\ |mana_u| i wygnaj ją z dwoma znacznikami czasu. "
-"Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
-"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma "
-"pośpiech.)"
+"Zawieszenie 4—|mana_1|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_u| i wygnaj ją z czterema znacznikami "
+"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
+"Ma pośpiech.)"
 
 #: ../../TSR.rst:338
 msgid ""
@@ -1492,20 +1478,21 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:467
-#, fuzzy
-#| msgid "When Fathom Seer is turned face up, draw two cards."
 msgid "When Timebender is turned face up, choose one —"
-msgstr "Kiedy ten stwór zostanie odkryty, dobierz dwie karty."
+msgstr "Kiedy ten stwór zostanie odkryty, wybierz jedno —"
 
 #: ../../TSR.rst:469
 msgid "Remove two time counters from target permanent or suspended card."
 msgstr ""
+"Usuń dwa znaczniki czasu ze wskazanego permanentu lub zawieszonej karty."
 
 #: ../../TSR.rst:471
 msgid ""
 "Put two time counters on target permanent with a time counter on it or "
 "suspended card."
 msgstr ""
+"Umieść dwa znaczniki czasu na wskazanym permanencie mającym znacznik czasu "
+"lub na zawieszonej karcie."
 
 #: ../../TSR.rst:478
 msgid ""
@@ -1530,16 +1517,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:483
-#, fuzzy
-#| msgid ""
-#| "Whenever a time counter is removed from Benalish Commander while it's "
-#| "exiled, create a 1/1 white Soldier creature token."
 msgid ""
 "When the last time counter is removed from Veiling Oddity while it's exiled, "
 "creatures can't be blocked this turn."
 msgstr ""
-"Ilekroć znacznik czasu zostanie usunięty z tej karty podczas jej wygnania, "
-"stwórz żeton białego stwora Piechur 1/1."
+"Kiedy ostatni znacznik czasu zostanie usunięty z tej karty podczas jej "
+"wygnania, stwory nie mogą być blokowane w tej turze."
 
 #: ../../TSR.rst:490
 msgid ""
@@ -2947,22 +2930,21 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:953
-#, fuzzy
-#| msgid ""
-#| "Whenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 "
-#| "counter on Mirri the Cursed."
 msgid ""
 "Whenever Stinkweed Imp deals combat damage to a creature, destroy that "
 "creature."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść znacznik +1/+1 na "
-"tym stworze."
+"Kiedy ten stwór zada jakiemuś stworowi obrażenia bojowe, zniszcz owego "
+"stwora."
 
 #: ../../TSR.rst:955
 msgid ""
 "Dredge 5 (If you would draw a card, you may mill five cards instead. If you "
 "do, return this card from your graveyard to your hand.)"
 msgstr ""
+"Czerpak 5 (Jeśli miałbyś dobrać kartę, zamiast tego możesz zmielić pięć "
+"kart. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
+"twojej ręki.)"
 
 #: ../../TSR.rst:962
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 21:28+0000\n"
+"PO-Revision-Date: 2021-03-02 22:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/plc/pl/>\n"
 "Language: pl\n"
@@ -931,17 +931,20 @@ msgstr ""
 
 #: ../../PLC.rst:299
 msgid "When Timebender is turned face up, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór zostanie odkryty, wybierz jedno —"
 
 #: ../../PLC.rst:301 ../../PLC.rst:589
 msgid "Remove two time counters from target permanent or suspended card."
 msgstr ""
+"Usuń dwa znaczniki czasu ze wskazanego permanentu lub zawieszonej karty."
 
 #: ../../PLC.rst:303
 msgid ""
 "Put two time counters on target permanent with a time counter on it or "
 "suspended card."
 msgstr ""
+"Umieść dwa znaczniki czasu na wskazanym permanencie mającym znacznik czasu "
+"lub na zawieszonej karcie."
 
 #: ../../PLC.rst:310
 msgid ""
@@ -957,12 +960,19 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 4—|mana_1|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_u| i wygnaj ją z czterema znacznikami "
+"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
+"Ma pośpiech.)"
 
 #: ../../PLC.rst:309
 msgid ""
 "When the last time counter is removed from Veiling Oddity while it's exiled, "
 "creatures can't be blocked this turn."
 msgstr ""
+"Kiedy ostatni znacznik czasu zostanie usunięty z tej karty podczas jej "
+"wygnania, stwory nie mogą być blokowane w tej turze."
 
 #: ../../PLC.rst:314
 msgid ""
