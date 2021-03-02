@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-03-02 13:19+0000\n"
+"PO-Revision-Date: 2021-03-02 14:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -45195,15 +45195,15 @@ msgstr ""
 
 msgctxt "263197"
 msgid "Shapeshifter Cleric"
-msgstr ""
+msgstr "Przemieniec Kleryk"
 
 msgctxt "263201"
 msgid "Zombie Shapeshifter Cleric"
-msgstr ""
+msgstr "Zombi Przemieniec Kleryk"
 
 msgctxt "263216"
 msgid "Crocodile Demon"
-msgstr ""
+msgstr "Krokodyl Demon"
 
 msgctxt "263220"
 msgid "Zombie Bat"
@@ -45283,23 +45283,23 @@ msgstr ""
 
 msgctxt "263738"
 msgid "Swamp Mountain"
-msgstr ""
+msgstr "Bagno Góra"
 
 msgctxt "263749"
 msgid "Island Swamp"
-msgstr ""
+msgstr "Wyspa Bagno"
 
 msgctxt "263755"
 msgid "Plains Island"
-msgstr ""
+msgstr "Równina Wyspa"
 
 msgctxt "263759"
 msgid "Forest Plains"
-msgstr ""
+msgstr "Las Równina"
 
 msgctxt "263762"
 msgid "Mountain Forest"
-msgstr ""
+msgstr "Góra Las"
 
 msgctxt "263786"
 msgid "Zombie Naga"
@@ -45431,7 +45431,7 @@ msgstr ""
 
 msgctxt "265410"
 msgid "NONE"
-msgstr ""
+msgstr "BRAK"
 
 msgctxt "265511"
 msgid "Legendary Sorcery"
@@ -45443,7 +45443,7 @@ msgstr ""
 
 msgctxt "265577"
 msgid "Merfolk Soldier"
-msgstr ""
+msgstr "Wodnik Piechur"
 
 msgctxt "265632"
 msgid "Elder Demon"
@@ -45507,15 +45507,15 @@ msgstr ""
 
 msgctxt "266182"
 msgid "Horse Fish"
-msgstr ""
+msgstr "Koń Ryba"
 
 msgctxt "266207"
 msgid "Dragon Skeleton"
-msgstr ""
+msgstr "Smok Szkielet"
 
 msgctxt "266225"
 msgid "Zombie Soldier"
-msgstr ""
+msgstr "Zombi Piechur"
 
 msgctxt "266228"
 msgid "Human Assassin"
@@ -45535,7 +45535,7 @@ msgstr ""
 
 msgctxt "266354"
 msgid "Ogre Warrior"
-msgstr ""
+msgstr "Ogr Wojownik"
 
 msgctxt "266380"
 msgid "Viashino Wizard"
@@ -45543,11 +45543,11 @@ msgstr ""
 
 msgctxt "266392"
 msgid "Centaur Warrior"
-msgstr ""
+msgstr "Centaur Wojownik"
 
 msgctxt "266437"
 msgid "Elf Shaman"
-msgstr ""
+msgstr "Elf Szaman"
 
 msgctxt "266443"
 msgid "Rhino Monk"
@@ -45575,19 +45575,19 @@ msgstr ""
 
 msgctxt "266623"
 msgid "Bird Spirit"
-msgstr ""
+msgstr "Ptak Duch"
 
 msgctxt "266650"
 msgid "Wolf Spirit"
-msgstr ""
+msgstr "Wilk Duch"
 
 msgctxt "266657"
 msgid "Cat Spirit"
-msgstr ""
+msgstr "Kot Duch"
 
 msgctxt "266684"
 msgid "Goblin Knight"
-msgstr ""
+msgstr "Goblin Rycerz"
 
 msgctxt "266686"
 msgid "Human Monk"
@@ -45599,15 +45599,15 @@ msgstr ""
 
 msgctxt "266707"
 msgid "Zombie Warrior"
-msgstr ""
+msgstr "Zombi Wojownik"
 
 msgctxt "266709"
 msgid "Faerie Wizard"
-msgstr ""
+msgstr "Wróżka Czarodziej"
 
 msgctxt "266721"
 msgid "Vampire Rogue"
-msgstr ""
+msgstr "Wampir Łotrzyk"
 
 msgctxt "266723"
 msgid "Vampire Shaman"
@@ -45627,7 +45627,7 @@ msgstr ""
 
 msgctxt "267221"
 msgid "Plant Elemental"
-msgstr ""
+msgstr "Roślina Żywiołak"
 
 msgctxt "267317"
 msgid "Viashino Rogue"
@@ -45659,11 +45659,11 @@ msgstr ""
 
 msgctxt "267552"
 msgid "Elf Rogue"
-msgstr ""
+msgstr "Elf Łotrzyk"
 
 msgctxt "267556"
 msgid "Elf Berserker"
-msgstr ""
+msgstr "Elf Berserk"
 
 msgctxt "267618"
 msgid "Elf Wizard"
@@ -45671,19 +45671,19 @@ msgstr ""
 
 msgctxt "267708"
 msgid "Boar Beast"
-msgstr ""
+msgstr "Knur Bestia"
 
 msgctxt "267762"
 msgid "Forest Island"
-msgstr ""
+msgstr "Las Wyspa"
 
 msgctxt "267787"
 msgid "Cat Cleric"
-msgstr ""
+msgstr "Kot Kleryk"
 
 msgctxt "267813"
 msgid "Golem Warrior"
-msgstr ""
+msgstr "Golem Wojownik"
 
 msgctxt "267888"
 msgid "Spirit Avatar"
@@ -45705,7 +45705,7 @@ msgstr ""
 
 msgctxt "267956"
 msgid "Attach {1, CardId}."
-msgstr ""
+msgstr "Dołącz {1, CardId}."
 
 msgctxt "267959"
 msgid ""
@@ -45713,6 +45713,8 @@ msgid ""
 "card with converted mana cost X. Activate this ability only any time you "
 "could cast a sorcery and only once each turn."
 msgstr ""
+"|mana_x|, odrzuć kartę: Stwórz żeton będący kopią losowej karty stwora o "
+"skrócie many X. Aktywuj jako obrzęd i tylko raz na turę."
 
 msgctxt "267961"
 msgid ""
@@ -45757,26 +45759,28 @@ msgstr ""
 msgctxt "269313"
 msgid "Put two cards into your library. (ordering will be done in next step)"
 msgstr ""
+"Umieść dwie karty w twojej bibliotece. (kolejność będzie ustalona w kolejnym "
+"kroku)"
 
 msgctxt "269436"
 msgid "Put a -1/-1 counter on a creature you control."
-msgstr ""
+msgstr "Umieść znacznik -1/-1 na stworze pod twoim władaniem."
 
 msgctxt "270224"
 msgid "Put any number of Dinosaur creature cards onto the battlefield."
-msgstr ""
+msgstr "Umieść dowolną liczbę kart Dinozaurów na polu bitwy."
 
 msgctxt "271009"
 msgid "Put a land card onto the battlefield."
-msgstr ""
+msgstr "Umieść kartę lądu na polu bitwy."
 
 msgctxt "271721"
 msgid "Put any number of cards onto the battlefield."
-msgstr ""
+msgstr "Umieść dowolną liczbę kart na polu bitwy."
 
 msgctxt "271723"
 msgid "Put up to two creature cards onto the battlefield."
-msgstr ""
+msgstr "Umieść co najwyżej dwie karty stworów na polu bitwy."
 
 msgctxt "271726"
 msgid "When Sleep Paralysis enters the battlefield, tap enchanted creature."
@@ -45792,7 +45796,7 @@ msgstr ""
 
 msgctxt "272416"
 msgid "Target a permanent you don't control."
-msgstr ""
+msgstr "Wskaż permanent poza twoim władaniem."
 
 msgctxt "272418"
 msgid "Tactical Advantage"
@@ -45800,7 +45804,7 @@ msgstr ""
 
 msgctxt "272428"
 msgid "Target a blocking or blocked creature you control."
-msgstr ""
+msgstr "Wskaż blokującego lub zablokowanego stwora pod twoim władaniem."
 
 msgctxt "272432"
 msgid "Ogre Rogue"
@@ -45860,7 +45864,7 @@ msgstr ""
 
 msgctxt "272562"
 msgid "Target a Human you control."
-msgstr ""
+msgstr "Wskaż Człowieka pod twoim władaniem."
 
 msgctxt "272570"
 msgid "When CARDNAME enters the battlefield, it deals 3 damage to each player."
