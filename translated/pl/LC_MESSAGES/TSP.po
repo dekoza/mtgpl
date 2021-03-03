@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 09:55+0000\n"
+"PO-Revision-Date: 2021-03-03 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -2031,6 +2031,9 @@ msgid ""
 "all creatures they control, then puts all cards they exiled this way onto "
 "the battlefield."
 msgstr ""
+"Każdy gracz wygania wszystkie karty stworów ze swojego cmentarza, następnie "
+"poświęca wszystkie stwory pod swoim władaniem, następnie umieszcza wszystkie "
+"karty wygnane w ten sposób na polu bitwy."
 
 #: ../../TSP.rst:714
 msgid ""
@@ -2512,6 +2515,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_2|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSP.rst:873
 msgid "|mana_r|: Basalt Gargoyle gets +0/+1 until end of turn."
@@ -2581,6 +2587,8 @@ msgid ""
 "When Coal Stoker enters the battlefield, if you cast it from your hand, add |"
 "mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli rzuciłeś go z ręki, weź |mana_r|"
+"\\ |mana_r|\\ |mana_r|."
 
 #: ../../TSP.rst:908
 msgid ""
@@ -2593,6 +2601,8 @@ msgstr ""
 msgid ""
 "Conflagrate deals X damage divided as you choose among any number of targets."
 msgstr ""
+"Ten stwór zadaje X obrażeń rozdzielonych dowolnie pomiędzy dowolną liczbę "
+"celów."
 
 #: ../../TSP.rst:907
 msgid ""
@@ -2634,6 +2644,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_5|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSP.rst:919
 msgid ""
@@ -2764,13 +2777,15 @@ msgstr ""
 
 #: ../../TSP.rst:963
 msgid "Suspend 10—|mana_r|"
-msgstr ""
+msgstr "Zawieszenie 10—|mana_r|"
 
 #: ../../TSP.rst:965
 msgid ""
 "Sacrifice an artifact, creature, or land: Remove a time counter from Greater "
 "Gargadon. Activate this ability only if Greater Gargadon is suspended."
 msgstr ""
+"Poświęć artefakt, stwora lub ląd: Usuń znacznik czasu z tej karty. Możesz "
+"aktywować tylko jeśli ta karta jest zawieszona."
 
 #: ../../TSP.rst:972
 msgid ""
@@ -2846,12 +2861,17 @@ msgid ""
 "damage to any target. A creature dealt damage this way can't be regenerated "
 "this turn."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|, odrzuć kartę: Ten stwór zadaje wskazanemu celowi "
+"3 obrażenia. Stwór uszkodzony w ten sposób nie może być w tej turze "
+"zregenerowany."
 
 #: ../../TSP.rst:997
 msgid ""
 "|mana_5|\\ |mana_r|\\ |mana_r|, |tap|, Discard a card: Jaya Ballard deals 6 "
 "damage to each creature and each player."
 msgstr ""
+"|mana_5|\\ |mana_r|\\ |mana_r|, |tap|, odrzuć kartę: Ten stwór zadaje "
+"każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
 #: ../../TSP.rst:1004
 msgid ""
@@ -2916,6 +2936,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_1|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSP.rst:1019
 msgid ""
@@ -3040,6 +3063,7 @@ msgid ""
 "All Sliver creatures have \"This creature gets +1/+1 as long as you control "
 "a Swamp.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"Ten stwór dostaje +1/+1 o ile władasz Bagnem.\""
 
 #: ../../TSP.rst:1063
 msgid "All Slivers have \"|mana_b|: Regenerate this permanent.\""
@@ -3058,6 +3082,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_3|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSP.rst:1069
 msgid ""
@@ -3120,6 +3147,8 @@ msgid ""
 "You may pay |mana_0| rather than pay the echo cost for permanents you "
 "control."
 msgstr ""
+"Możesz płacić |mana_0| zamiast płacić koszt echa permanentów pod twoim "
+"władaniem."
 
 #: ../../TSP.rst:1091
 msgid ""

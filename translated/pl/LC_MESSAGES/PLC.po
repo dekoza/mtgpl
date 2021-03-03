@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 09:55+0000\n"
+"PO-Revision-Date: 2021-03-03 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/plc/pl/>\n"
 "Language: pl\n"
@@ -1783,6 +1783,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_5|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../PLC.rst:595
 msgid ""
@@ -1885,6 +1888,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_3|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../PLC.rst:627
 msgid ""
@@ -1980,6 +1986,7 @@ msgstr ""
 #: ../../PLC.rst:665
 msgid "Destroy target land you control and target land you don't control."
 msgstr ""
+"Zniszcz wskazany ląd pod twoim władaniem i wskazany ląd poza twoim władaniem."
 
 #: ../../PLC.rst:670
 msgid ""
@@ -2023,7 +2030,7 @@ msgstr ""
 
 #: ../../PLC.rst:681
 msgid "Rough deals 2 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania 2 obrażenia."
 
 #: ../../PLC.rst:686
 msgid ""
@@ -2147,7 +2154,7 @@ msgstr ""
 
 #: ../../PLC.rst:727
 msgid "Exile Simian Spirit Guide from your hand: Add |mana_r|."
-msgstr ""
+msgstr "Wygnaj tę kartę z twojej ręki: Weź |mana_r|."
 
 #: ../../PLC.rst:732
 msgid ""

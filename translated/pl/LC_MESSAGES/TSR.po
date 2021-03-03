@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-03 09:46+0100\n"
-"PO-Revision-Date: 2021-03-03 09:55+0000\n"
+"PO-Revision-Date: 2021-03-03 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -1936,6 +1936,9 @@ msgid ""
 "all creatures they control, then puts all cards they exiled this way onto "
 "the battlefield."
 msgstr ""
+"Każdy gracz wygania wszystkie karty stworów ze swojego cmentarza, następnie "
+"poświęca wszystkie stwory pod swoim władaniem, następnie umieszcza wszystkie "
+"karty wygnane w ten sposób na polu bitwy."
 
 #: ../../TSR.rst:624
 msgid ""
@@ -2316,6 +2319,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_2|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:747
 msgid "|mana_r|: Basalt Gargoyle gets +0/+1 until end of turn."
@@ -2353,6 +2359,7 @@ msgstr ""
 #: ../../TSR.rst:759
 msgid "Destroy target land you control and target land you don't control."
 msgstr ""
+"Zniszcz wskazany ląd pod twoim władaniem i wskazany ląd poza twoim władaniem."
 
 #: ../../TSR.rst:764
 msgid ""
@@ -2403,6 +2410,8 @@ msgid ""
 "When Coal Stoker enters the battlefield, if you cast it from your hand, add |"
 "mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli rzuciłeś go z ręki, weź |mana_r|"
+"\\ |mana_r|\\ |mana_r|."
 
 #: ../../TSR.rst:784
 msgid ""
@@ -2415,6 +2424,8 @@ msgstr ""
 msgid ""
 "Conflagrate deals X damage divided as you choose among any number of targets."
 msgstr ""
+"Ten stwór zadaje X obrażeń rozdzielonych dowolnie pomiędzy dowolną liczbę "
+"celów."
 
 #: ../../TSR.rst:783
 msgid ""
@@ -2478,6 +2489,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_5|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:803
 msgid ""
@@ -2516,7 +2530,7 @@ msgstr ""
 #: ../../TSR.rst:813
 msgid ""
 "Hellbent — Gathan Raiders gets +2/+2 as long as you have no cards in hand."
-msgstr ""
+msgstr "Zaślepienie — Ten stwór dostaje +2/+2 o ile nie masz kart w ręce."
 
 #: ../../TSR.rst:815
 msgid ""
@@ -2554,13 +2568,15 @@ msgstr ""
 
 #: ../../TSR.rst:825
 msgid "Suspend 10—|mana_r|"
-msgstr ""
+msgstr "Zawieszenie 10—|mana_r|"
 
 #: ../../TSR.rst:827
 msgid ""
 "Sacrifice an artifact, creature, or land: Remove a time counter from Greater "
 "Gargadon. Activate this ability only if Greater Gargadon is suspended."
 msgstr ""
+"Poświęć artefakt, stwora lub ląd: Usuń znacznik czasu z tej karty. Możesz "
+"aktywować tylko jeśli ta karta jest zawieszona."
 
 #: ../../TSR.rst:832
 msgid ""
@@ -2575,6 +2591,8 @@ msgid ""
 "colorless|\\ |mana_r|. Activate this ability only any time you could cast a "
 "sorcery."
 msgstr ""
+"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ "
+"|colorless|\\ |mana_r|. Aktywuj jako obrzęd."
 
 #: ../../TSR.rst:840
 msgid ""
@@ -2608,6 +2626,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_1|\\ |mana_b| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:847
 msgid "|mana_br|: Henchfiend of Ukor gets +1/+0 until end of turn."
@@ -2623,6 +2644,7 @@ msgstr ""
 #: ../../TSR.rst:851
 msgid "Each Sliver card in each player's hand has slivercycling |mana_3|."
 msgstr ""
+"Każda karta Drzazgacza w ręce każdego z graczy ma drzazgaczocykling |mana_3|."
 
 #: ../../TSR.rst:853
 msgid ""
@@ -2650,12 +2672,17 @@ msgid ""
 "damage to any target. A creature dealt damage this way can't be regenerated "
 "this turn."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|, odrzuć kartę: Ten stwór zadaje wskazanemu celowi "
+"3 obrażenia. Stwór uszkodzony w ten sposób nie może być w tej turze "
+"zregenerowany."
 
 #: ../../TSR.rst:861
 msgid ""
 "|mana_5|\\ |mana_r|\\ |mana_r|, |tap|, Discard a card: Jaya Ballard deals 6 "
 "damage to each creature and each player."
 msgstr ""
+"|mana_5|\\ |mana_r|\\ |mana_r|, |tap|, odrzuć kartę: Ten stwór zadaje "
+"każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
 #: ../../TSR.rst:868
 msgid ""
@@ -2717,6 +2744,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_1|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:883
 msgid ""
@@ -2845,7 +2875,7 @@ msgstr ""
 
 #: ../../TSR.rst:919
 msgid "Rough deals 2 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania 2 obrażenia."
 
 #: ../../TSR.rst:924
 msgid ""
@@ -2870,6 +2900,7 @@ msgid ""
 "All Sliver creatures have \"This creature gets +1/+1 as long as you control "
 "a Swamp.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"Ten stwór dostaje +1/+1 o ile władasz Bagnem.\""
 
 #: ../../TSR.rst:929
 msgid "All Slivers have \"|mana_b|: Regenerate this permanent.\""
@@ -2919,7 +2950,7 @@ msgstr ""
 
 #: ../../TSR.rst:949
 msgid "Exile Simian Spirit Guide from your hand: Add |mana_r|."
-msgstr ""
+msgstr "Wygnaj tę kartę z twojej ręki: Weź |mana_r|."
 
 #: ../../TSR.rst:954
 msgid ""
@@ -2949,6 +2980,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_3|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:959
 msgid ""
@@ -2970,6 +3004,8 @@ msgid ""
 "Storm Entity enters the battlefield with a +1/+1 counter on it for each "
 "other spell cast this turn."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile czarów "
+"rzucono przed nim w tej turze."
 
 #: ../../TSR.rst:974
 msgid ""
@@ -2994,6 +3030,8 @@ msgid ""
 "You may pay |mana_0| rather than pay the echo cost for permanents you "
 "control."
 msgstr ""
+"Możesz płacić |mana_0| zamiast płacić koszt echa permanentów pod twoim "
+"władaniem."
 
 #: ../../TSR.rst:979
 msgid ""
@@ -4106,6 +4144,9 @@ msgid ""
 "card in your graveyard, except it's an artifact in addition to its other "
 "types. It gains haste. Sacrifice it at the beginning of the next end step."
 msgstr ""
+"|mana_2|\\ |mana_r|, |tap|: Stwórz żeton będący kopią wskazanej karty stwora "
+"w twoim cmentarzu, ale jest on artefaktem oprócz swoich pozostałych typów. "
+"Zyskuje on pośpiech. Poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../TSR.rst:1340
 msgid ""
@@ -4145,6 +4186,9 @@ msgid ""
 "control, except it has haste. Sacrifice it at the beginning of the next end "
 "step."
 msgstr ""
+"|tap|: Stwórz żeton będący kopią wskazanego nielegendarnego stwora pod twoim "
+"władaniem, ale ma on pośpiech. Poświęć go na początku najbliższego kroku "
+"końcowego."
 
 #: ../../TSR.rst:1350
 msgid ""
