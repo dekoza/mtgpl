@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 20:50+0000\n"
+"PO-Revision-Date: 2021-03-03 21:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m10/pl/>\n"
 "Language: pl\n"
@@ -41,12 +41,16 @@ msgid ""
 "−1: Put a +1/+1 counter on each creature you control. Those creatures gain "
 "vigilance until end of turn."
 msgstr ""
+"–1: Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Owe stwory "
+"zyskują do końca tury czujność."
 
 #: ../../M10.rst:13
 msgid ""
 "−6: Create a white Avatar creature token. It has \"This creature's power and "
 "toughness are each equal to your life total.\""
 msgstr ""
+"–6: Stwórz żeton białego stwora Awatar mający \"Siła i wytrzymałość tego "
+"stwora są obie równe liczbie twoich żyć.\""
 
 #: ../../M10.rst:18
 msgid ""
@@ -217,6 +221,9 @@ msgid ""
 "The next 2 damage that a source of your choice would deal to you and/or "
 "permanents you control this turn is dealt to any target instead."
 msgstr ""
+"Najbliższe 2 obrażenia, jakie mogłyby zostać zadane przez wybrane przez "
+"ciebie źródło tobie i/lub permanentom pod twoim władaniem, jest zamiast tego "
+"zadane wskazanemu celowi."
 
 #: ../../M10.rst:82
 msgid ""
@@ -273,6 +280,8 @@ msgid ""
 "Enchanted creature has lifelink. (Damage dealt by the creature also causes "
 "its controller to gain that much life.)"
 msgstr ""
+"Zauroczony stwór ma więź życia. (Obrażenia zadane przez niego powodują, że "
+"jego władca zyskuje tyle samo żyć.)"
 
 #: ../../M10.rst:104
 msgid ""
@@ -295,6 +304,8 @@ msgid ""
 "Whenever Lightwielder Paladin deals combat damage to a player, you may exile "
 "target black or red permanent that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz wygnać wskazany "
+"czarny lub czerwony permanent pod władaniem owego gracza."
 
 #: ../../M10.rst:108
 msgid ""
@@ -344,7 +355,7 @@ msgstr ""
 
 #: ../../M10.rst:121
 msgid "Palace Guard can block any number of creatures."
-msgstr ""
+msgstr "Ten stwór może blokować dowolną liczbę stworów."
 
 #: ../../M10.rst:126
 msgid ""
@@ -381,7 +392,7 @@ msgstr ""
 
 #: ../../M10.rst:137
 msgid "Other Soldier creatures you control have first strike."
-msgstr ""
+msgstr "Inni Piechurzy pod twoim władaniem mają pierwszy cios."
 
 #: ../../M10.rst:142
 msgid ""
@@ -498,7 +509,7 @@ msgstr ""
 
 #: ../../M10.rst:181
 msgid "|mana_w|, |tap|: Exile target Skeleton, Vampire, or Zombie."
-msgstr ""
+msgstr "|mana_w|, |tap|: Wygnaj wskazany Szkielet, Wampira lub Zombi."
 
 #: ../../M10.rst:186
 msgid ""
@@ -549,6 +560,8 @@ msgid ""
 "Protection from black (This creature can't be blocked, targeted, dealt "
 "damage, or enchanted by anything black.)"
 msgstr ""
+"Ochrona przed czarnym (Nic czarnego nie może blokować, wskazywać, zadać "
+"obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../M10.rst:206
 msgid ""
@@ -568,6 +581,8 @@ msgstr ""
 msgid ""
 "|tap|: Target creature an opponent controls attacks you this turn if able."
 msgstr ""
+"|tap|: Wskazany stwór pod władaniem przeciwnika atakuje w tej turze jeśli "
+"może."
 
 #: ../../M10.rst:214
 msgid ""
@@ -687,6 +702,8 @@ msgid ""
 "Search your library for an artifact card, reveal it, and put it into your "
 "hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę artefaktu, ujawnij ją i umieść w twojej "
+"ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../M10.rst:258
 msgid ""
@@ -712,6 +729,8 @@ msgid ""
 "copies that spell. Each of those players may choose new targets for their "
 "copy."
 msgstr ""
+"Ilekroć gracz rzuci czar sztuczki lub obrzędu, każdy inny gracz kopiuje ów "
+"czar. Każdy z owych graczy może wskazać nowe cele dla swojej kopii."
 
 #: ../../M10.rst:264
 msgid ""
@@ -740,6 +759,8 @@ msgid ""
 "When enchanted creature becomes the target of a spell or ability, destroy "
 "Ice Cage."
 msgstr ""
+"Kiedy zauroczony stwór zostanie wskazany przez czar lub zdolność, poświęć "
+"ten urok."
 
 #: ../../M10.rst:280
 msgid ""
@@ -752,7 +773,7 @@ msgstr ""
 msgid ""
 "When Illusionary Servant becomes the target of a spell or ability, sacrifice "
 "it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../M10.rst:288
 msgid ""
@@ -767,7 +788,7 @@ msgstr "+2: Każdy gracz dobiera kartę."
 
 #: ../../M10.rst:285
 msgid "−1: Target player draws a card."
-msgstr ""
+msgstr "–1: Wskazany gracz dobiera kartę."
 
 #: ../../M10.rst:287
 msgid "−10: Target player mills twenty cards."

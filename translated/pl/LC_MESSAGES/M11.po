@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 20:50+0000\n"
+"PO-Revision-Date: 2021-03-03 21:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m11/pl/>\n"
 "Language: pl\n"
@@ -41,12 +41,16 @@ msgid ""
 "−1: Put a +1/+1 counter on each creature you control. Those creatures gain "
 "vigilance until end of turn."
 msgstr ""
+"–1: Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Owe stwory "
+"zyskują do końca tury czujność."
 
 #: ../../M11.rst:13
 msgid ""
 "−6: Create a white Avatar creature token. It has \"This creature's power and "
 "toughness are each equal to your life total.\""
 msgstr ""
+"–6: Stwórz żeton białego stwora Awatar mający \"Siła i wytrzymałość tego "
+"stwora są obie równe liczbie twoich żyć.\""
 
 #: ../../M11.rst:18
 msgid ""
@@ -335,7 +339,7 @@ msgstr ""
 
 #: ../../M11.rst:123
 msgid "Palace Guard can block any number of creatures."
-msgstr ""
+msgstr "Ten stwór może blokować dowolną liczbę stworów."
 
 #: ../../M11.rst:130
 msgid ""
@@ -531,6 +535,8 @@ msgid ""
 "Protection from black (This creature can't be blocked, targeted, dealt "
 "damage, or enchanted by anything black.)"
 msgstr ""
+"Ochrona przed czarnym (Nic czarnego nie może blokować, wskazywać, zadać "
+"obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../M11.rst:200
 msgid ""
@@ -574,6 +580,8 @@ msgstr ""
 msgid ""
 "|tap|: Target creature an opponent controls attacks you this turn if able."
 msgstr ""
+"|tap|: Wskazany stwór pod władaniem przeciwnika atakuje w tej turze jeśli "
+"może."
 
 #: ../../M11.rst:216
 msgid ""
@@ -766,6 +774,8 @@ msgid ""
 "When enchanted creature becomes the target of a spell or ability, destroy "
 "Ice Cage."
 msgstr ""
+"Kiedy zauroczony stwór zostanie wskazany przez czar lub zdolność, poświęć "
+"ten urok."
 
 #: ../../M11.rst:292
 msgid ""
@@ -780,7 +790,7 @@ msgstr "+2: Każdy gracz dobiera kartę."
 
 #: ../../M11.rst:289
 msgid "−1: Target player draws a card."
-msgstr ""
+msgstr "–1: Wskazany gracz dobiera kartę."
 
 #: ../../M11.rst:291
 msgid "−10: Target player mills twenty cards."

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 21:28+0000\n"
+"PO-Revision-Date: 2021-03-03 21:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -38,12 +38,16 @@ msgid ""
 "−1: Put a +1/+1 counter on each creature you control. Those creatures gain "
 "vigilance until end of turn."
 msgstr ""
+"–1: Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Owe stwory "
+"zyskują do końca tury czujność."
 
 #: ../../LRW.rst:13
 msgid ""
 "−6: Create a white Avatar creature token. It has \"This creature's power and "
 "toughness are each equal to your life total.\""
 msgstr ""
+"–6: Stwórz żeton białego stwora Awatar mający \"Siła i wytrzymałość tego "
+"stwora są obie równe liczbie twoich żyć.\""
 
 #: ../../LRW.rst:20
 msgid ""
@@ -1139,7 +1143,7 @@ msgstr "+2: Każdy gracz dobiera kartę."
 
 #: ../../LRW.rst:407
 msgid "−1: Target player draws a card."
-msgstr ""
+msgstr "–1: Wskazany gracz dobiera kartę."
 
 #: ../../LRW.rst:409
 msgid "−10: Target player mills twenty cards."
