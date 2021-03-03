@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 21:28+0000\n"
+"PO-Revision-Date: 2021-03-03 09:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1624,10 +1624,10 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 5 — |mana_1|\\ |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
-"zapłacić |mana_1|\\ |mana_b| i wygnać go z pięcioma znacznikami czasu. Na "
-"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
-"znacznik zostanie usunięty, rzuć go bez płacenia kosztu many.)"
+"Zawieszenie 5—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_b| i wygnaj ją z pięcioma znacznikami "
+"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../C13.rst:498
 msgid ""
@@ -2189,7 +2189,7 @@ msgstr ""
 # d14cb906ea6b4ae2a8f39aca470f6e8a
 #: ../../C13.rst:667
 msgid "Tumble deals 6 damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z lataniem 6 obrażeń."
 
 #: ../../C13.rst:676
 msgid ""

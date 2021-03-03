@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-03 09:46+0100\n"
-"PO-Revision-Date: 2021-03-02 22:19+0000\n"
+"PO-Revision-Date: 2021-03-03 09:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -1918,24 +1918,17 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:615
-#, fuzzy
-#| msgid ""
-#| "Suspend 3—|mana_1|\\ |mana_w|\\ |mana_w| (Rather than cast this card from "
-#| "your hand, you may pay |mana_1|\\ |mana_w|\\ |mana_w| and exile it with "
-#| "three time counters on it. At the beginning of your upkeep, remove a time "
-#| "counter. When the last is removed, cast it without paying its mana cost. "
-#| "It has haste.)"
 msgid ""
 "Suspend 3—|mana_2|\\ |mana_b|\\ |mana_b| (Rather than cast this card from "
 "your hand, pay |mana_2|\\ |mana_b|\\ |mana_b| and exile it with three time "
 "counters on it. At the beginning of your upkeep, remove a time counter. When "
 "the last is removed, cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 3—|mana_1|\\ |mana_w|\\ |mana_w| (Zamiast rzucać tę kartę z "
-"twojej ręki, możesz zapłacić |mana_1|\\ |mana_w|\\ |mana_w| i wygnaj ją z "
-"trzema znacznikami czasu. Na początku twojego kroku utrzymania, usuń "
-"znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez "
-"płacenia kosztu many. Ma pośpiech.)"
+"Zawieszenie 3—|mana_2|\\ |mana_b|\\ |mana_b| (Zamiast rzucać tę kartę z "
+"twojej ręki, zapłać |mana_2|\\ |mana_b|\\ |mana_b| i wygnaj ją z trzema "
+"znacznikami czasu. Na początku twojego kroku utrzymania, usuń znacznik "
+"czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia "
+"kosztu many. Ma pośpiech.)"
 
 #: ../../TSR.rst:617
 msgid ""
@@ -2039,25 +2032,20 @@ msgid ""
 "Destroy target creature. Its controller loses life equal to its power plus "
 "its toughness."
 msgstr ""
+"Zniszcz wskazanego stwora. Jego władca traci punkty życia równe sumie jego "
+"siły i wytrzymałości."
 
 #: ../../TSR.rst:651
-#, fuzzy
-#| msgid ""
-#| "Suspend 4—|mana_1|\\ |mana_u| (Rather than cast this card from your hand, "
-#| "you may pay |mana_1|\\ |mana_u| and exile it with four time counters on "
-#| "it. At the beginning of your upkeep, remove a time counter. When the last "
-#| "is removed, cast it without paying its mana cost. It has haste.)"
 msgid ""
 "Suspend 5—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
 "you may pay |mana_1|\\ |mana_b| and exile it with five time counters on it. "
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 4—|mana_1|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
-"możesz zapłacić |mana_1|\\ |mana_u| i wygnaj ją z czterema znacznikami "
+"Zawieszenie 5—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_b| i wygnaj ją z pięcioma znacznikami "
 "czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
-"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
-"Ma pośpiech.)"
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../TSR.rst:656
 msgid ""
@@ -2276,32 +2264,25 @@ msgstr ""
 
 #: ../../TSR.rst:727
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../TSR.rst:729
-#, fuzzy
-#| msgid "Flying, protection from black"
 msgid "Flying, trample, protection from white and from blue"
-msgstr "Latanie, ochrona przed czarnym"
+msgstr "Latanie, tratowanie, ochrona przed białym i niebieskim"
 
 #: ../../TSR.rst:731
-#, fuzzy
-#| msgid "|tap|: Target creature gets -2/-0 until end of turn."
 msgid "|mana_r|: Akroma, Angel of Fury gets +1/+0 until end of turn."
-msgstr "|tap|: Wskazany stwór dostaje do końca tury -2/-0."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../TSR.rst:733
-#, fuzzy
-#| msgid ""
-#| "Morph |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card face down as "
-#| "a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgid ""
 "Morph |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this card face "
 "down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph "
 "cost.)"
 msgstr ""
-"Przemiana |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |"
-"mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+"Przemiana |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (Możesz rzucić tę kartę "
+"zakrytą za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"przemiany.)"
 
 #: ../../TSR.rst:740
 msgid ""
@@ -2311,22 +2292,16 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:737
-#, fuzzy
-#| msgid "Destroy target tapped creature."
 msgid "Destroy target artifact."
-msgstr "Zniszcz wskazanego przekręconego stwora."
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../TSR.rst:739
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_u| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_g| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
-"za koszt wspomnienia. Następnie wygnaj ją.)"
+"Wspomnienie |mana_g| (Możesz rzucić tę kartę z twojego cmentarza za koszt "
+"wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../TSR.rst:748
 msgid ""
@@ -2343,10 +2318,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:747
-#, fuzzy
-#| msgid "Target creature gets +2/-1 until end of turn."
 msgid "|mana_r|: Basalt Gargoyle gets +0/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/-1."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../TSR.rst:752
 msgid ""
@@ -2356,10 +2329,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:751
-#, fuzzy
-#| msgid "All Sliver creatures have flying."
 msgid "All Sliver creatures have trample."
-msgstr "Wszystkie Drzazgacze mają latanie."
+msgstr "Wszystkie Drzazgacze mają tratowanie."
 
 #: ../../TSR.rst:756
 msgid ""
@@ -2369,10 +2340,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:755
-#, fuzzy
-#| msgid "All Sliver creatures get +1/+1."
 msgid "All Sliver creatures get +2/+0."
-msgstr "Wszystkie Drzazgacze dostają +1/+1."
+msgstr "Wszystkie Drzazgacze dostają +2/+0."
 
 #: ../../TSR.rst:760
 msgid ""
@@ -2394,7 +2363,7 @@ msgstr ""
 
 #: ../../TSR.rst:763
 msgid "Destroy all lands."
-msgstr ""
+msgstr "Zniszcz wszystkie lądy."
 
 #: ../../TSR.rst:768
 msgid ""
@@ -2404,10 +2373,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:767
-#, fuzzy
-#| msgid "Target creature gets -3/-3 until end of turn."
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 
 #: ../../TSR.rst:774
 msgid ""
@@ -2418,13 +2385,11 @@ msgstr ""
 
 #: ../../TSR.rst:771
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../TSR.rst:773
-#, fuzzy
-#| msgid "|tap|: Target creature gets -2/-0 until end of turn."
 msgid "|mana_r|: Char-Rumbler gets +1/+0 until end of turn."
-msgstr "|tap|: Wskazany stwór dostaje do końca tury -2/-0."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../TSR.rst:778
 msgid ""
@@ -2452,16 +2417,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:783
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback—|mana_r|\\ |mana_r|, Discard X cards. (You may cast this card from "
 "your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_5|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
-"za koszt wspomnienia. Następnie wygnaj ją.)"
+"Wspomnienie—|mana_r|\\ |mana_r|, odrzuć X kart. (Możesz rzucić tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../TSR.rst:788
 msgid ""
@@ -2471,10 +2432,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:787
-#, fuzzy
-#| msgid "Sunlance deals 3 damage to target nonwhite creature."
 msgid "Dead deals 2 damage to target creature."
-msgstr "Ten czar zadaje wskazanemu nie-białemu stworowi 3 obrażenia."
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../TSR.rst:792
 msgid ""
@@ -2484,10 +2443,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:791
-#, fuzzy
-#| msgid "Return target creature to its owner's hand."
 msgid "Return target creature you don't control to its owner's hand."
-msgstr "Przywróć wskazanego stwora do ręki właściciela."
+msgstr "Przywróć wskazanego stwora poza twoim władaniem do ręki właściciela."
 
 #: ../../TSR.rst:798
 msgid ""
@@ -2497,16 +2454,16 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:795
-#, fuzzy
-#| msgid "Create two 1/1 white Spirit creature tokens with flying."
 msgid "Create two 1/1 red Goblin creature tokens."
-msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
+msgstr "Stwórz dwa żetony czerwonego stwora Goblin 1/1."
 
 #: ../../TSR.rst:797 ../../TSR.rst:839
 msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn.)"
 msgstr ""
+"Sztorm (Rzucając ten czar skopiuj go za każdy czar rzucony przed nim w tej "
+"turze.)"
 
 #: ../../TSR.rst:806
 msgid ""
@@ -2523,28 +2480,20 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:803
-#, fuzzy
-#| msgid ""
-#| "When Shriekmaw enters the battlefield, destroy target nonartifact, "
-#| "nonblack creature."
 msgid ""
 "When Firemaw Kavu enters the battlefield, it deals 2 damage to target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
-"nie-czarnego stwora."
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 2 "
+"obrażenia."
 
 #: ../../TSR.rst:805
-#, fuzzy
-#| msgid ""
-#| "When Shriekmaw enters the battlefield, destroy target nonartifact, "
-#| "nonblack creature."
 msgid ""
 "When Firemaw Kavu leaves the battlefield, it deals 4 damage to target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
-"nie-czarnego stwora."
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 4 "
+"obrażenia."
 
 #: ../../TSR.rst:810
 msgid ""
@@ -2554,10 +2503,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:809
-#, fuzzy
-#| msgid "All Sliver creatures have flying."
 msgid "All Sliver creatures have double strike."
-msgstr "Wszystkie Drzazgacze mają latanie."
+msgstr "Wszystkie Drzazgacze mają podwójny cios."
 
 #: ../../TSR.rst:816
 msgid ""
@@ -2572,16 +2519,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:815
-#, fuzzy
-#| msgid ""
-#| "Morph |mana_u| (You may cast this card face down as a 2/2 creature for |"
-#| "mana_3|. Turn it face up any time for its morph cost.)"
 msgid ""
 "Morph—Discard a card. (You may cast this card face down as a 2/2 creature "
 "for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora "
-"2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+"Przemiana—Odrzuć kartę. (Możesz rzucić tę kartę zakrytą za |mana_3| jako "
+"stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSR.rst:822
 msgid ""
@@ -2591,16 +2534,16 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:819
-#, fuzzy
-#| msgid "|tap|: Stuffy Doll deals 1 damage to itself."
 msgid "Grapeshot deals 1 damage to any target."
-msgstr "|tap|: Ten stwór zadaje sobie 1 obrażenie."
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TSR.rst:821
 msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn. You may choose new targets for the copies.)"
 msgstr ""
+"Sztorm (Kiedy rzucisz ten czar, skopiuj go tylekroć, ile czarów rzucono "
+"przed nim w tej turze. Możesz wskazać nowe cele dla kopii)"
 
 #: ../../TSR.rst:828
 msgid ""
@@ -2641,22 +2584,16 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:835
-#, fuzzy
-#| msgid ""
-#| "Buyback |mana_3| (You may pay an additional |mana_3| as you cast this "
-#| "spell. If you do, put this card into your hand as it resolves.)"
 msgid ""
 "Buyback |mana_2| (You may pay an additional |mana_2| as you cast this spell. "
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
-"Wykup |mana_3| (Rzucając ten czar możesz zapłacić dodatkowo |mana_3|. Jeśli "
+"Wykup |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2|. Jeśli "
 "tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../TSR.rst:837
-#, fuzzy
-#| msgid "Creatures you control get +2/+0 until end of turn."
 msgid "Creatures you control get +1/+0 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+0."
 
 #: ../../TSR.rst:848
 msgid ""
@@ -2673,10 +2610,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:847
-#, fuzzy
-#| msgid "Creatures you control get +2/+0 until end of turn."
 msgid "|mana_br|: Henchfiend of Ukor gets +1/+0 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
+msgstr "|mana_br|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../TSR.rst:854
 msgid ""
@@ -2690,16 +2625,13 @@ msgid "Each Sliver card in each player's hand has slivercycling |mana_3|."
 msgstr ""
 
 #: ../../TSR.rst:853
-#, fuzzy
-#| msgid ""
-#| "Search your library for an instant card or a card with flash, reveal it, "
-#| "and put it into your hand. Then shuffle your library."
 msgid ""
 "Slivercycling |mana_3| (|mana_3|, Discard this card: Search your library for "
 "a Sliver card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę sztuczki lub kartę z błyskiem, ujawnij ją "
-"i umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"Drzazgaczocykling |mana_3| (|mana_3|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Drzazgacza, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../TSR.rst:862
 msgid ""
@@ -2709,14 +2641,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:857
-#, fuzzy
-#| msgid ""
-#| "|mana_u|, |tap|, Discard a card: Return target permanent you control to "
-#| "its owner's hand."
 msgid "|mana_r|, |tap|, Discard a card: Destroy target blue permanent."
-msgstr ""
-"|mana_u|, |tap|, odrzuć kartę: Przywróć wskazany permanent pod twoim "
-"władaniem do ręki właściciela."
+msgstr "|mana_r|, |tap|, odrzuć kartę: Zniszcz wskazany niebieski permanent."
 
 #: ../../TSR.rst:859
 msgid ""
@@ -2739,20 +2665,14 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:867 ../../TSR.rst:945
-#, fuzzy
-#| msgid ""
-#| "Suspend 5—|mana_w| (Rather than cast this card from your hand, you may "
-#| "pay |mana_w| and exile it with five time counters on it. At the beginning "
-#| "of your upkeep, remove a time counter. When the last is removed, cast it "
-#| "without paying its mana cost. It has haste.)"
 msgid ""
 "Suspend 4—|mana_r| (Rather than cast this card from your hand, you may pay |"
 "mana_r| and exile it with four time counters on it. At the beginning of your "
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost. It has haste.)"
 msgstr ""
-"Zawieszenie 5—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
-"zapłacić |mana_w| i wygnaj ją z pięcioma znacznikami czasu. Na początku "
+"Zawieszenie 4—|mana_r| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_r| i wygnaj ją z czterema znacznikami czasu. Na początku "
 "twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
 "zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
@@ -2767,12 +2687,11 @@ msgstr ""
 msgid ""
 "As an additional cost to cast this spell, discard a card or pay |mana_5|."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę lub zapłać |mana_5|."
 
 #: ../../TSR.rst:873
-#, fuzzy
-#| msgid "Sunlance deals 3 damage to target nonwhite creature."
 msgid "Lightning Axe deals 5 damage to target creature."
-msgstr "Ten czar zadaje wskazanemu nie-białemu stworowi 3 obrażenia."
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../TSR.rst:878
 msgid ""
@@ -2783,7 +2702,7 @@ msgstr ""
 
 #: ../../TSR.rst:877
 msgid "Nonbasic lands are Mountains."
-msgstr ""
+msgstr "Niebazowe lądy są Górami."
 
 #: ../../TSR.rst:884
 msgid ""
@@ -2800,13 +2719,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:883
-#, fuzzy
-#| msgid "When Ivory Giant enters the battlefield, tap all nonwhite creatures."
 msgid ""
 "When Mogg War Marshal enters the battlefield or dies, create a 1/1 red "
 "Goblin creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie nie-białe stwory."
+"Kiedy ten stwór wejdzie na pole bitwy lub umrze, stwórz żeton czerwonego "
+"stwora Goblin 1/1."
 
 #: ../../TSR.rst:890
 msgid ""
@@ -2816,22 +2734,16 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:887
-#, fuzzy
-#| msgid "Create two 1/1 white Spirit creature tokens with flying."
 msgid "Create a 4/4 red Giant creature token."
-msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
+msgstr "Stwórz żeton czerwonego stwora Gigant 4/4."
 
 #: ../../TSR.rst:889
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your next upkeep, pay |mana_2|\\ |mana_b|. If you "
-#| "don't, you lose the game."
 msgid ""
 "At the beginning of your next upkeep, pay |mana_4|\\ |mana_r|. If you don't, "
 "you lose the game."
 msgstr ""
-"Na początku twojego najbliższego kroku utrzymania, zapłać |mana_2|\\ |"
-"mana_b|. Jeśli tego nie zrobisz, przegrywasz grę."
+"Na początku twojego najbliższego kroku utrzymania, zapłać |mana_4|\\ |mana_r|"
+". Jeśli tego nie zrobisz, przegrywasz grę."
 
 #: ../../TSR.rst:894
 msgid ""
@@ -2841,10 +2753,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:893
-#, fuzzy
-#| msgid "|tap|: Stuffy Doll deals 1 damage to itself."
 msgid "|tap|: Prodigal Pyromancer deals 1 damage to any target."
-msgstr "|tap|: Ten stwór zadaje sobie 1 obrażenie."
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TSR.rst:900
 msgid ""
@@ -2855,20 +2765,15 @@ msgstr ""
 
 #: ../../TSR.rst:897 ../../TSR.rst:1317
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../TSR.rst:899
-#, fuzzy
-#| msgid ""
-#| "Madness |mana_1|\\ |mana_b| (If you discard this card, discard it into "
-#| "exile. When you do, cast it for its madness cost or put it into your "
-#| "graveyard.)"
 msgid ""
 "Madness |mana_2|\\ |mana_r| (If you discard this card, discard it into "
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
-"Szaleństwo |mana_1|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Szaleństwo |mana_2|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
 "Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
 "cmentarzu.)"
 
@@ -2884,6 +2789,8 @@ msgid ""
 "Copy target instant or sorcery spell. You may choose new targets for the "
 "copy."
 msgstr ""
+"Skopiuj wskazany czar sztuczki lub obrzędu. Możesz wskazać nowe cele dla "
+"kopii."
 
 #: ../../TSR.rst:910
 msgid ""
@@ -2893,11 +2800,6 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:909
-#, fuzzy
-#| msgid ""
-#| "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top "
-#| "two cards of your library, then put any number of them on the bottom of "
-#| "your library and the rest on top in any order.)"
 msgid ""
 "Choose any target. Scry 3, then reveal the top card of your library. Riddle "
 "of Lightning deals damage equal to that card's converted mana cost to that "
@@ -2905,10 +2807,11 @@ msgid ""
 "library, then put any number of them on the bottom of your library and the "
 "rest on top in any order.)"
 msgstr ""
-"Wróż 2, następnie dobierz dwie karty. Strać 2 życia. (By wróżyć 2, spójrz na "
-"dwie wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę "
-"na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
-"kolejności.)"
+"Wskaż dowolny cel. Wróż 3, następnie ujawnij wierzchnią kartę twojej "
+"biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile wynosi skrót many "
+"ujawnionej karty. (By wróżyć 3, spójrz na trzy wierzchnie karty twojej "
+"biblioteki, następnie umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../TSR.rst:916
 msgid ""
@@ -2918,26 +2821,18 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:913
-#, fuzzy
-#| msgid "|tap|: Stuffy Doll deals 1 damage to itself."
 msgid "Rift Bolt deals 3 damage to any target."
-msgstr "|tap|: Ten stwór zadaje sobie 1 obrażenie."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../TSR.rst:915
-#, fuzzy
-#| msgid ""
-#| "Suspend 4—|mana_b| (Rather than cast this card from your hand, you may "
-#| "pay |mana_b| and exile it with four time counters on it. At the beginning "
-#| "of your upkeep, remove a time counter. When the last is removed, cast it "
-#| "without paying its mana cost.)"
 msgid ""
 "Suspend 1—|mana_r| (Rather than cast this card from your hand, you may pay |"
 "mana_r| and exile it with a time counter on it. At the beginning of your "
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
-"Zawieszenie 4—|mana_b| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
-"mana_b| i wygnaj ją z czterema znacznikami czasu. Na początku twojego kroku "
+"Zawieszenie 1—|mana_r| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_r| i wygnaj ją ze znacznikiem czasu. Na początku twojego kroku "
 "utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
 "usunięty, rzuć ją bez płacenia kosztu many.)"
 
@@ -2960,10 +2855,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:923
-#, fuzzy
-#| msgid "Sunlance deals 3 damage to target nonwhite creature."
 msgid "Tumble deals 6 damage to each creature with flying."
-msgstr "Ten czar zadaje wskazanemu nie-białemu stworowi 3 obrażenia."
+msgstr "Ten czar zadaje każdemu stworowi z lataniem 6 obrażeń."
 
 #: ../../TSR.rst:930
 msgid ""
@@ -2979,12 +2872,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:929
-#, fuzzy
-#| msgid "All Slivers have \"|mana_2|, |tap|: Regenerate target Sliver.\""
 msgid "All Slivers have \"|mana_b|: Regenerate this permanent.\""
-msgstr ""
-"Wszystkie Drzazgacze mają |mana_2|, |tap|: Zregeneruj wskazanego Drzazgacza."
-"\""
+msgstr "Wszystkie Drzazgacze mają |mana_b|: Zregeneruj ten permanent.\""
 
 #: ../../TSR.rst:936
 msgid ""
@@ -2994,30 +2883,21 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:933
-#, fuzzy
-#| msgid "Sunlance deals 3 damage to target nonwhite creature."
 msgid "Shivan Meteor deals 13 damage to target creature."
-msgstr "Ten czar zadaje wskazanemu nie-białemu stworowi 3 obrażenia."
+msgstr "Ten czar zadaje wskazanemu stworowi 13 obrażeń."
 
 #: ../../TSR.rst:935
-#, fuzzy
-#| msgid ""
-#| "Suspend 3—|mana_1|\\ |mana_w|\\ |mana_w| (Rather than cast this card from "
-#| "your hand, you may pay |mana_1|\\ |mana_w|\\ |mana_w| and exile it with "
-#| "three time counters on it. At the beginning of your upkeep, remove a time "
-#| "counter. When the last is removed, cast it without paying its mana cost. "
-#| "It has haste.)"
 msgid ""
 "Suspend 2—|mana_1|\\ |mana_r|\\ |mana_r| (Rather than cast this card from "
 "your hand, you may pay |mana_1|\\ |mana_r|\\ |mana_r| and exile it with two "
 "time counters on it. At the beginning of your upkeep, remove a time counter. "
 "When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 3—|mana_1|\\ |mana_w|\\ |mana_w| (Zamiast rzucać tę kartę z "
-"twojej ręki, możesz zapłacić |mana_1|\\ |mana_w|\\ |mana_w| i wygnaj ją z "
-"trzema znacznikami czasu. Na początku twojego kroku utrzymania, usuń "
-"znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez "
-"płacenia kosztu many. Ma pośpiech.)"
+"Zawieszenie 2—|mana_1|\\ |mana_r|\\ |mana_r| (Zamiast rzucać tę kartę z "
+"twojej ręki, możesz zapłacić |mana_1|\\ |mana_r|\\ |mana_r| i wygnaj ją z "
+"dwoma znacznikami czasu. Na początku twojego kroku utrzymania, usuń znacznik "
+"czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia "
+"kosztu many.)"
 
 #: ../../TSR.rst:946
 msgid ""
@@ -3027,10 +2907,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:939
-#, fuzzy
-#| msgid "When Palace Jailer enters the battlefield, you become the monarch."
 msgid "When Shivan Sand-Mage enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, stajesz się monarchą."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../TSR.rst:950
 msgid ""
@@ -3051,16 +2929,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:953
-#, fuzzy
-#| msgid ""
-#| "Amrou Seekers can't be blocked except by artifact creatures and/or white "
-#| "creatures."
 msgid ""
 "Skirk Shaman can't be blocked except by artifact creatures and/or red "
 "creatures."
 msgstr ""
 "Ten stwór nie może być blokowany, chyba że przez stwory artefaktowe i/lub "
-"białe."
+"czerwone."
 
 #: ../../TSR.rst:960
 msgid ""
@@ -3077,16 +2951,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:959
-#, fuzzy
-#| msgid ""
-#| "When Stonecloaker enters the battlefield, return a creature you control "
-#| "to its owner's hand."
 msgid ""
 "When Stingscourger enters the battlefield, return target creature an "
 "opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
-"do ręki właściciela."
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora pod "
+"władaniem przeciwnika do ręki właściciela."
 
 #: ../../TSR.rst:966
 msgid ""
@@ -3109,10 +2979,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:973
-#, fuzzy
-#| msgid "Nonwhite creatures get -1/-1."
 msgid "White creatures get +1/-1."
-msgstr "Nie-białe stwory dostają -1/-1."
+msgstr "Białe stwory dostają +1/-1."
 
 #: ../../TSR.rst:980
 msgid ""
@@ -3128,11 +2996,9 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:979
-#, fuzzy
-#| msgid "|mana_2|: Sarcomite Myr gains flying until end of turn."
 msgid ""
 "|mana_r|: Thick-Skinned Goblin gains protection from red until end of turn."
-msgstr "|mana_2|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_r|: Ten stwór zyskuje do końca tury ochronę przed czerwonym."
 
 #: ../../TSR.rst:984
 msgid ""
@@ -3142,16 +3008,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:983
-#, fuzzy
-#| msgid ""
-#| "Fear (This creature can't be blocked except by artifact creatures and/or "
-#| "black creatures.)"
 msgid ""
 "All Sliver creatures have menace. (They can't be blocked except by two or "
 "more creatures.)"
 msgstr ""
-"Straszny (Ten stwór nie może być blokowany, chyba że przez stwory "
-"artefaktowe lub czarne.)"
+"Wszystkie Drzazgacze mają złowrogość. (Nie mogą być blokowane, chyba że "
+"przez co najmniej dwa stwory.)"
 
 #: ../../TSR.rst:990
 msgid ""
@@ -3161,29 +3023,20 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:987
-#, fuzzy
-#| msgid ""
-#| "Suspend 4—|mana_1|\\ |mana_u| (Rather than cast this card from your hand, "
-#| "you may pay |mana_1|\\ |mana_u| and exile it with four time counters on "
-#| "it. At the beginning of your upkeep, remove a time counter. When the last "
-#| "is removed, cast it without paying its mana cost. It has haste.)"
 msgid ""
 "Suspend 4—|mana_1|\\ |mana_r| (Rather than cast this card from your hand, "
 "pay |mana_1|\\ |mana_r| and exile it with four time counters on it. At the "
 "beginning of your upkeep, remove a time counter. When the last is removed, "
 "cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 4—|mana_1|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
-"możesz zapłacić |mana_1|\\ |mana_u| i wygnaj ją z czterema znacznikami "
-"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
-"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
-"Ma pośpiech.)"
+"Zawieszenie 4—|mana_1|\\ |mana_r| (Zamiast rzucać tę kartę z twojej ręki, "
+"zapłać |mana_1|\\ |mana_r| i wygnaj ją z czterema znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../TSR.rst:989
-#, fuzzy
-#| msgid "Target player discards three cards."
 msgid "Each player discards their hand, then draws seven cards."
-msgstr "Wskazany gracz odrzuca trzy karty."
+msgstr "Każdy gracz odrzuca swoją rękę, następnie dobiera siedem kart."
 
 #: ../../TSR.rst:996
 msgid ""
@@ -3193,13 +3046,10 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:995
-#, fuzzy
-#| msgid ""
-#| "Whenever Ninja of the Deep Hours deals combat damage to a player, you may "
-#| "draw a card."
 msgid ""
 "Whenever enchanted creature deals damage to an opponent, you may draw a card."
-msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę."
+msgstr ""
+"Ilekroć zauroczony stwór zada przeciwnikowi obrażenia, możesz dobrać kartę."
 
 #: ../../TSR.rst:1000
 msgid ""
@@ -3209,18 +3059,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:999
-#, fuzzy
-#| msgid ""
-#| "|mana_u|, |tap|, Discard a card: Create a 1/1 blue Faerie creature token "
-#| "named Cloud Sprite. It has flying and \"Cloud Sprite can block only "
-#| "creatures with flying.\""
 msgid ""
 "|mana_g|, |tap|, Discard a card: Create a 1/1 green Elf Druid creature token "
 "named Llanowar Elves. It has \"|tap|: Add |mana_g|.\""
 msgstr ""
-"|mana_u|, |tap|, odrzuć kartę: Stwórz żeton niebieskiego stwora Wróżka 1/1 o "
-"nazwie Cloud Sprite. Ma on latanie i \"Ten stwór może blokować tylko stwory "
-"z lataniem.\""
+"|mana_g|, |tap|, odrzuć kartę: Stwórz żeton zielonego stwora Elf Druid 1/1 o "
+"nazwie Llanowar Elves. Ma on \"|tap|: Weź |mana_g|.\""
 
 #: ../../TSR.rst:1004
 msgid ""
@@ -3230,10 +3074,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1003
-#, fuzzy
-#| msgid "Creatures you control get +0/+2 until end of turn."
 msgid "|tap|: Each 1/1 creature you control gets +1/+2 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+2."
+msgstr "|tap|: Każdy stwór 1/1 pod twoim władaniem dostaje do końca tury +1/+2."
 
 #: ../../TSR.rst:1008
 msgid ""
@@ -3247,6 +3089,8 @@ msgid ""
 "Tarmogoyf's power is equal to the number of card types among cards in all "
 "graveyards and its toughness is equal to that number plus 1."
 msgstr ""
+"Siła tej karty jest równa liczbie typów kart spośród kart we wszystkich "
+"cmentarzach, a jej wytrzymałość jest równa tej liczbie plus 1."
 
 #: ../../TSR.rst:1016
 msgid ""
@@ -3256,10 +3100,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1015
-#, fuzzy
-#| msgid "Enchanted creature can't attack or block."
 msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
-msgstr "Zauroczony stwór nie może atakować ani blokować."
+msgstr "Zauroczony stwór ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../TSR.rst:1022
 msgid ""
@@ -3883,6 +3725,10 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, "
+"gdzie X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten "
+"sposób. (Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem "
+"wlicza się do twojego kultu czarnego.)"
 
 #: ../../TSR.rst:1222
 msgid ""
@@ -3941,6 +3787,8 @@ msgid ""
 "Each opponent sacrifices a creature. If you control a Liliana planeswalker, "
 "each opponent also discards a card."
 msgstr ""
+"Każdy przeciwnik poświęca stwora. Jeśli władasz wędrowcem typu Liliana, "
+"każdy przeciwnik także odrzuca kartę."
 
 #: ../../TSR.rst:1242
 msgid ""
@@ -4134,19 +3982,14 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1301
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature is put into your graveyard from the "
-#| "battlefield, you may pay |mana_b|. If you do, return Nether Traitor from "
-#| "your graveyard to the battlefield."
 msgid ""
 "Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\\ |"
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć inny stwór trafi do twojego cmentarza z pola walki, możesz zapłacić |"
-"mana_b|. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza na "
-"pole bitwy."
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli "
+"tak zrobisz, przywróć wskazaną kartę stwora o sile 2 lub mniejszej z twojego "
+"cmentarza na pole bitwy przekręconą i atakującą."
 
 #: ../../TSR.rst:1306
 msgid ""
@@ -4160,6 +4003,8 @@ msgid ""
 "Anger of the Gods deals 3 damage to each creature. If a creature dealt "
 "damage this way would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje każdemu stworowi po 3 obrażenia. Jeśli stwór uszkodzony w "
+"ten sposób miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../TSR.rst:1314
 msgid ""
@@ -4173,26 +4018,24 @@ msgid ""
 "This spell costs |mana_1| less to cast for each instant and sorcery card in "
 "your graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą kartę sztuczki lub "
+"obrzędu w twoim cmentarzu."
 
 #: ../../TSR.rst:1311 ../../TSR.rst:1359
-#, fuzzy
-#| msgid ""
-#| "Flanking (Whenever a creature without flanking blocks this creature, the "
-#| "blocking creature gets -1/-1 until end of turn.)"
 msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
-"stwór dostaje do końca tury -1/-1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
+"tury +1/+1.)"
 
 #: ../../TSR.rst:1313
-#, fuzzy
-#| msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgid ""
 "When Bedlam Reveler enters the battlefield, discard your hand, then draw "
 "three cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, następnie dobierz "
+"trzy karty."
 
 #: ../../TSR.rst:1320
 msgid ""
@@ -4208,6 +4051,10 @@ msgid ""
 "power from your graveyard without paying its mana cost. If that spell would "
 "be put into your graveyard this turn, exile it instead."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz rzucić bez płacenia kosztu many wskazaną "
+"kartę sztuczki lub obrzędu z twojego cmentarza o wartości many mniejszej lub "
+"równej sile niniejszego stwora. Jeśli ów czar miałby zostać umieszczony w "
+"cmentarzu w tej turze, zamiast tego wygnaj go."
 
 #: ../../TSR.rst:1324
 msgid ""
@@ -4222,6 +4069,9 @@ msgid ""
 "library, then you may cast any number of spells from among those cards "
 "without paying their mana costs."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę biblioteki każdego z "
+"graczy, następnie możesz rzucić dowolną liczbę czarów spośród kart wygnanych "
+"w ten sposób bez płacenia ich kosztów many."
 
 #: ../../TSR.rst:1330
 msgid ""
@@ -4232,13 +4082,15 @@ msgstr ""
 
 #: ../../TSR.rst:1327
 msgid "Exquisite Firecraft deals 4 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../TSR.rst:1329
 msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
 "your graveyard, this spell can't be countered."
 msgstr ""
+"Czaromistrzostwo — Jeśli w twoim cmentarzu są co najmniej dwie karty "
+"sztuczki i/lub obrzędu, ten czar nie może być skontrowany."
 
 #: ../../TSR.rst:1334
 msgid ""
@@ -4263,32 +4115,21 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1337
-#, fuzzy
-#| msgid ""
-#| "When Trinket Mage enters the battlefield, you may search your library for "
-#| "an artifact card with converted mana cost 1 or less, reveal that card, "
-#| "and put it into your hand. If you do, shuffle your library."
 msgid ""
 "When Goblin Engineer enters the battlefield, you may search your library for "
 "an artifact card, put it into your graveyard, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją i umieść w twojej "
-"ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
+"kartę artefaktu, ujawnić ją, umieścić ją w twoim cmentarzu, następnie "
+"przetasować bibliotekę."
 
 #: ../../TSR.rst:1339
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|: Search your library for a Rebel permanent card with "
-#| "converted mana cost 3 or less and put it onto the battlefield. Then "
-#| "shuffle your library."
 msgid ""
 "|mana_r|, |tap|, Sacrifice an artifact: Return target artifact card with "
 "converted mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
-"|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
-"Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"|mana_r|, |tap|, poświęć artefakt: Przywróć wskazaną kartę artefaktu o "
+"skrócie many 3 lub mniejszym z twojego cmentarza na pole bitwy."
 
 #: ../../TSR.rst:1346
 msgid ""
@@ -4313,10 +4154,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1349
-#, fuzzy
-#| msgid "Sunlance deals 3 damage to target nonwhite creature."
 msgid "Lava Spike deals 3 damage to target player or planeswalker."
-msgstr "Ten czar zadaje wskazanemu nie-białemu stworowi 3 obrażenia."
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia."
 
 #: ../../TSR.rst:1354
 msgid ""
@@ -4330,6 +4169,8 @@ msgid ""
 "Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage "
 "to the land's controller."
 msgstr ""
+"Zniszcz wskazany ląd. Jeśli ów ląd był niebazowy, ten czar zadaje władcy "
+"owego lądu 2 obrażenia."
 
 #: ../../TSR.rst:1360
 msgid ""
@@ -4346,30 +4187,19 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1363
-#, fuzzy
-#| msgid ""
-#| "|tap|: Target instant or sorcery card in your graveyard gains flashback "
-#| "until end of turn. The flashback cost is equal to its mana cost. (You may "
-#| "cast that card from your graveyard for its flashback cost. Then exile it.)"
 msgid ""
 "Each instant and sorcery card in your graveyard gains flashback until end of "
 "turn. The flashback cost is equal to its mana cost."
 msgstr ""
-"|tap|: Wskazana karta sztuczki lub obrzędu w twoim cmentarzu zyskuje do "
-"końca tury wspomnienie. Koszt wspomnienia jest równy jej kosztowi many. "
-"(Możesz zagrać ową kartę z twojego cmentarza za jej koszt wspomnienia. "
-"Następnie wygnaj ją.)"
+"Każda karta sztuczki i obrzędu w twoim cmentarzu zyskuje wspomnienie do "
+"końca tury. Koszt wspomnienia jest równy jej kosztowi many."
 
 #: ../../TSR.rst:1365
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_5|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
+"Wspomnienie |mana_4|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../TSR.rst:1372
@@ -4380,22 +4210,20 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1369
-#, fuzzy
-#| msgid ""
-#| "Target creature gains islandwalk until end of turn. (It can't be blocked "
-#| "as long as defending player controls an Island.)"
 msgid ""
 "Target creature gains double strike until end of turn. (It deals both first-"
 "strike and regular combat damage.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury podbój wysp. (Nie może być blokowany o "
-"ile broniący się gracz włada Wyspą.)"
+"Wskazany stwór zyskuje podwójny cios do końca tury. (Zadaje obrażenia bojowe "
+"zarówno jako pierwszy cios oraz normalnie.)"
 
 #: ../../TSR.rst:1371
 msgid ""
 "Ferocious — That creature also gains trample until end of turn if you "
 "control a creature with power 4 or greater."
 msgstr ""
+"Zaciekłość — Ów stwór zyskuje do końca tury także tratowanie jeśli władasz "
+"stworem o sile 4 lub większej."
 
 #: ../../TSR.rst:1378
 msgid ""
@@ -4405,23 +4233,18 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1375
-#, fuzzy
-#| msgid "Destroy target tapped creature."
 msgid "Destroy target artifact you don't control."
-msgstr "Zniszcz wskazanego przekręconego stwora."
+msgstr "Zniszcz wskazany artefakt poza twoim władaniem."
 
 #: ../../TSR.rst:1377
-#, fuzzy
-#| msgid ""
-#| "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If "
-#| "you do, it's sacrificed when it enters the battlefield.)"
 msgid ""
 "Overload |mana_4|\\ |mana_r| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przyzwanie |mana_2|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
-"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
+"Przeciążenie |mana_4|\\ |mana_r| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../TSR.rst:1382
 msgid ""
@@ -4431,16 +4254,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1381
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake "
-#| "creature token with flying."
 msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental "
 "creature token."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton niebieskiego stwora "
-"Drak 2/2 z lataniem."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton czerwonego stwora "
+"Żywiołak 1/1."
 
 #: ../../TSR.rst:1388
 msgid ""
@@ -4450,17 +4269,14 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1387
-#, fuzzy
-#| msgid ""
-#| "When Crookclaw Transmuter enters the battlefield, switch target "
-#| "creature's power and toughness until end of turn."
 msgid ""
 "When Zealous Conscripts enters the battlefield, gain control of target "
 "permanent until end of turn. Untap that permanent. It gains haste until end "
 "of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zamień do końca tury siłę z "
-"wytrzymałością wskazanego stwora."
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
+"wskazanym permanentem. Odkręć ów permanent. Zyskuje on pośpiech do końca "
+"tury."
 
 #: ../../TSR.rst:1392
 msgid ""
@@ -4471,7 +4287,7 @@ msgstr ""
 
 #: ../../TSR.rst:1391
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../TSR.rst:1398
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 22:19+0000\n"
+"PO-Revision-Date: 2021-03-03 09:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -728,6 +728,8 @@ msgid ""
 "Buyback |mana_2| (You may pay an additional |mana_2| as you cast this spell. "
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2|. Jeśli "
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../FUT.rst:237
 msgid ""
@@ -1636,7 +1638,7 @@ msgstr "Podwójny cios"
 
 #: ../../FUT.rst:551
 msgid "|mana_r|: Char-Rumbler gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../FUT.rst:556
 msgid ""
@@ -1687,6 +1689,8 @@ msgid ""
 "Morph—Discard a card. (You may cast this card face down as a 2/2 creature "
 "for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana—Odrzuć kartę. (Możesz rzucić tę kartę zakrytą za |mana_3| jako "
+"stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../FUT.rst:578
 msgid ""
@@ -1753,13 +1757,15 @@ msgstr ""
 
 #: ../../FUT.rst:593
 msgid "Create a 4/4 red Giant creature token."
-msgstr ""
+msgstr "Stwórz żeton czerwonego stwora Gigant 4/4."
 
 #: ../../FUT.rst:595
 msgid ""
 "At the beginning of your next upkeep, pay |mana_4|\\ |mana_r|. If you don't, "
 "you lose the game."
 msgstr ""
+"Na początku twojego najbliższego kroku utrzymania, zapłać |mana_4|\\ |mana_r|"
+". Jeśli tego nie zrobisz, przegrywasz grę."
 
 #: ../../FUT.rst:602
 msgid ""
@@ -1841,7 +1847,7 @@ msgstr ""
 
 #: ../../FUT.rst:621
 msgid "When Shivan Sand-Mage enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../FUT.rst:623
 msgid "Remove two time counters from target permanent or suspended card."
@@ -1863,6 +1869,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 4—|mana_r| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_r| i wygnaj ją z czterema znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../FUT.rst:632
 msgid ""
@@ -1995,7 +2005,7 @@ msgstr ""
 
 #: ../../FUT.rst:677
 msgid "|mana_br|: Henchfiend of Ukor gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_br|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../FUT.rst:684
 msgid ""
@@ -2013,6 +2023,9 @@ msgid ""
 "Slivercycling |mana_3| (|mana_3|, Discard this card: Search your library for "
 "a Sliver card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
+"Drzazgaczocykling |mana_3| (|mana_3|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Drzazgacza, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../FUT.rst:692
 msgid ""
@@ -2229,6 +2242,8 @@ msgid ""
 "|mana_g|, |tap|, Discard a card: Create a 1/1 green Elf Druid creature token "
 "named Llanowar Elves. It has \"|tap|: Add |mana_g|.\""
 msgstr ""
+"|mana_g|, |tap|, odrzuć kartę: Stwórz żeton zielonego stwora Elf Druid 1/1 o "
+"nazwie Llanowar Elves. Ma on \"|tap|: Weź |mana_g|.\""
 
 #: ../../FUT.rst:760
 msgid ""

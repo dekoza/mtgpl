@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 22:19+0000\n"
+"PO-Revision-Date: 2021-03-03 09:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -2019,6 +2019,11 @@ msgid ""
 "counters on it. At the beginning of your upkeep, remove a time counter. When "
 "the last is removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 3—|mana_2|\\ |mana_b|\\ |mana_b| (Zamiast rzucać tę kartę z "
+"twojej ręki, zapłać |mana_2|\\ |mana_b|\\ |mana_b| i wygnaj ją z trzema "
+"znacznikami czasu. Na początku twojego kroku utrzymania, usuń znacznik "
+"czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia "
+"kosztu many. Ma pośpiech.)"
 
 #: ../../TSP.rst:709
 msgid ""
@@ -2161,10 +2166,10 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 5 — |mana_1|\\ |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
-"zapłacić |mana_1|\\ |mana_b| i wygnać go z pięcioma znacznikami czasu. Na "
-"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
-"znacznik zostanie usunięty, rzuć go bez płacenia kosztu many.)"
+"Zawieszenie 5—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_b| i wygnaj ją z pięcioma znacznikami "
+"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../TSP.rst:756
 msgid ""
@@ -2510,7 +2515,7 @@ msgstr ""
 
 #: ../../TSP.rst:873
 msgid "|mana_r|: Basalt Gargoyle gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../TSP.rst:880
 msgid ""
@@ -2562,7 +2567,7 @@ msgstr ""
 
 #: ../../TSP.rst:897
 msgid "All Sliver creatures get +2/+0."
-msgstr ""
+msgstr "Wszystkie Drzazgacze dostają +2/+0."
 
 #: ../../TSP.rst:902
 msgid ""
@@ -2594,6 +2599,8 @@ msgid ""
 "Flashback—|mana_r|\\ |mana_r|, Discard X cards. (You may cast this card from "
 "your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—|mana_r|\\ |mana_r|, odrzuć X kart. (Możesz rzucić tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../TSP.rst:914
 msgid ""
@@ -2633,12 +2640,16 @@ msgid ""
 "When Firemaw Kavu enters the battlefield, it deals 2 damage to target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 2 "
+"obrażenia."
 
 #: ../../TSP.rst:921
 msgid ""
 "When Firemaw Kavu leaves the battlefield, it deals 4 damage to target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 4 "
+"obrażenia."
 
 #: ../../TSP.rst:926
 msgid ""
@@ -2695,7 +2706,7 @@ msgstr ""
 
 #: ../../TSP.rst:939
 msgid "All Sliver creatures have double strike."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają podwójny cios."
 
 #: ../../TSP.rst:950
 msgid ""
@@ -2734,7 +2745,7 @@ msgstr ""
 
 #: ../../TSP.rst:957
 msgid "Grapeshot deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TSP.rst:959 ../../TSP.rst:971 ../../TSP.rst:983 ../../TSP.rst:1115
 msgid ""
@@ -2827,7 +2838,7 @@ msgstr ""
 
 #: ../../TSP.rst:993
 msgid "|mana_r|, |tap|, Discard a card: Destroy target blue permanent."
-msgstr ""
+msgstr "|mana_r|, |tap|, odrzuć kartę: Zniszcz wskazany niebieski permanent."
 
 #: ../../TSP.rst:995
 msgid ""
@@ -2856,6 +2867,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 4—|mana_r| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_r| i wygnaj ją z czterema znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../TSP.rst:1010
 msgid ""
@@ -2907,6 +2922,8 @@ msgid ""
 "When Mogg War Marshal enters the battlefield or dies, create a 1/1 red "
 "Goblin creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub umrze, stwórz żeton czerwonego "
+"stwora Goblin 1/1."
 
 #: ../../TSP.rst:1024
 msgid ""
@@ -2997,7 +3014,7 @@ msgstr ""
 
 #: ../../TSP.rst:1055
 msgid "Rift Bolt deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../TSP.rst:1057
 msgid ""
@@ -3006,6 +3023,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
+"Zawieszenie 1—|mana_r| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_r| i wygnaj ją ze znacznikiem czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../TSP.rst:1064
 msgid ""
@@ -3022,7 +3043,7 @@ msgstr ""
 
 #: ../../TSP.rst:1063
 msgid "All Slivers have \"|mana_b|: Regenerate this permanent.\""
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają |mana_b|: Zregeneruj ten permanent.\""
 
 #: ../../TSP.rst:1070
 msgid ""
@@ -3103,7 +3124,7 @@ msgstr ""
 #: ../../TSP.rst:1091
 msgid ""
 "|mana_r|: Thick-Skinned Goblin gains protection from red until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje do końca tury ochronę przed czerwonym."
 
 #: ../../TSP.rst:1096
 msgid ""
@@ -3117,6 +3138,8 @@ msgid ""
 "All Sliver creatures have menace. (They can't be blocked except by two or "
 "more creatures.)"
 msgstr ""
+"Wszystkie Drzazgacze mają złowrogość. (Nie mogą być blokowane, chyba że "
+"przez co najmniej dwa stwory.)"
 
 #: ../../TSP.rst:1104
 msgid ""
@@ -3173,6 +3196,10 @@ msgid ""
 "beginning of your upkeep, remove a time counter. When the last is removed, "
 "cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 4—|mana_1|\\ |mana_r| (Zamiast rzucać tę kartę z twojej ręki, "
+"zapłać |mana_1|\\ |mana_r| i wygnaj ją z czterema znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../TSP.rst:1121
 msgid "Each player discards their hand, then draws seven cards."
@@ -3473,7 +3500,7 @@ msgstr ""
 
 #: ../../TSP.rst:1227
 msgid "|tap|: Each 1/1 creature you control gets +1/+2 until end of turn."
-msgstr ""
+msgstr "|tap|: Każdy stwór 1/1 pod twoim władaniem dostaje do końca tury +1/+2."
 
 #: ../../TSP.rst:1234
 msgid ""
