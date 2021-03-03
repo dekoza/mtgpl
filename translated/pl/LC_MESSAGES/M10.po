@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 09:55+0000\n"
+"PO-Revision-Date: 2021-03-03 20:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m10/pl/>\n"
 "Language: pl\n"
@@ -770,10 +770,8 @@ msgid "−1: Target player draws a card."
 msgstr ""
 
 #: ../../M10.rst:287
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "−10: Target player mills twenty cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "–10: Wskazany gracz mieli dwadzieścia kart."
 
 #: ../../M10.rst:292
 msgid ""
@@ -1002,10 +1000,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:371
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "Target player mills five cards."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "Wskazany gracz mieli pięć kart."
 
 #: ../../M10.rst:376
 msgid ""
@@ -1015,14 +1011,8 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:375
-#, fuzzy
-#| msgid ""
-#| "Target player puts the top half of their library, rounded down, into "
-#| "their graveyard."
 msgid "Target player mills half their library, rounded down."
-msgstr ""
-"Wskazany gracz umieszcza wierzchnią połowę swojej biblioteki, zaokrąglając w "
-"dół, w swoim cmentarzu."
+msgstr "Wskazany gracz mieli połowę swojej biblioteki, zaokrąglając w dół."
 
 #: ../../M10.rst:380
 msgid ""
@@ -1633,16 +1623,12 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:595
-#, fuzzy
-#| msgid ""
-#| "Gain control of target creature until end of turn. Untap that creature. "
-#| "It gains haste until end of turn."
 msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Zyskuje on "
-"pośpiech do końca tury."
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć owego stwora. "
+"Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
 #: ../../M10.rst:604
 msgid ""
