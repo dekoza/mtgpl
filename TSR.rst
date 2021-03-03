@@ -1387,7 +1387,7 @@
    When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
 
 
-:mtgtip:`Elvish Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d50fa57-db11-419e-b73b-666a6b25f7de.jpg?1614738753|https://scryfall.com/card/tsr/360/elvish-mystic?utm_source=api>`
+:mtgtip:`Elvish Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d50fa57-db11-419e-b73b-666a6b25f7de.jpg?1614770259|https://scryfall.com/card/tsr/360/elvish-mystic?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
