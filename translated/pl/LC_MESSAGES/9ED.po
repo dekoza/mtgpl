@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 09:17+0000\n"
+"PO-Revision-Date: 2021-03-03 23:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -1174,6 +1174,10 @@ msgid ""
 "player puts that card onto the battlefield, then shuffles all other cards "
 "revealed this way into their library."
 msgstr ""
+"Zniszcz wskazanego stwora. Nie może zregenerować. Jego władca ujawnia karty "
+"z wierzchu swojej biblioteki aż ujawni kartę stwora. Ów gracz umieszcza ową "
+"kartę na polu bitwy, następnie tasuje pozostałe ujawnione w ten sposób karty "
+"do swojej biblioteki."
 
 #: ../../9ED.rst:440
 msgid ""
@@ -1296,7 +1300,7 @@ msgstr ""
 
 #: ../../9ED.rst:483
 msgid "Your opponents play with their hands revealed."
-msgstr ""
+msgstr "Twoi przeciwnicy grają z ujawnionymi rękami."
 
 #: ../../9ED.rst:488
 msgid ""
@@ -1511,11 +1515,11 @@ msgstr ""
 
 #: ../../9ED.rst:561
 msgid "Spend only black mana on X."
-msgstr ""
+msgstr "Opłać X tylko czarną maną."
 
 #: ../../9ED.rst:563
 msgid "Consume Spirit deals X damage to any target and you gain X life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń, zyskaj X żyć."
 
 #: ../../9ED.rst:570
 msgid ""
@@ -1605,6 +1609,9 @@ msgid ""
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_b|: Zregeneruj tego stwora.( Następnym razem, gdy miałby zostać "
+"zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
+"wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../9ED.rst:600
 msgid ""
@@ -1794,6 +1801,8 @@ msgid ""
 "Whenever Hypnotic Specter deals damage to an opponent, that player discards "
 "a card at random."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca losową "
+"kartę."
 
 #: ../../9ED.rst:668
 msgid ""
@@ -1834,6 +1843,7 @@ msgstr ""
 msgid ""
 "Whenever an opponent discards a card, Megrim deals 2 damage to that player."
 msgstr ""
+"Ilekroć przeciwnik odrzuci kartę, ten urok zadaje owemu graczowi 2 obrażenia."
 
 #: ../../9ED.rst:682
 msgid ""
@@ -2573,7 +2583,7 @@ msgstr ""
 
 #: ../../9ED.rst:957
 msgid "Up to three target creatures can't block this turn."
-msgstr ""
+msgstr "Co najwyżej trzy wskazane stwory nie mogą blokować w tej turze."
 
 #: ../../9ED.rst:962
 msgid ""
@@ -3230,6 +3240,8 @@ msgid ""
 "Search your library for a basic land card and put that card onto the "
 "battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../9ED.rst:1208
 msgid ""
@@ -3512,7 +3524,7 @@ msgstr ""
 
 #: ../../9ED.rst:1307
 msgid "Whenever a player casts a white spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci biały czar, możesz zyskać 1 życie."
 
 #: ../../9ED.rst:1312
 msgid ""
@@ -3574,6 +3586,10 @@ msgid ""
 "shares at least one creature type with it. (For example, if two Goblin "
 "Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
 msgstr ""
+"Każdy stwór dostaje +1/+1 za każdego innego stwora na polu bitwy "
+"współdzielącego z nim przynajmniej jeden typ stwora. (Na przykład jeśli na "
+"polu bitwy są dwa Gobliny Wojownicy oraz Goblin Szaman, każdy z nich dostaje "
+"+2/+2.)"
 
 #: ../../9ED.rst:1332
 msgid ""
@@ -3603,7 +3619,7 @@ msgstr ""
 
 #: ../../9ED.rst:1339
 msgid "Whenever a player casts a black spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czarny czar, możesz zyskać 1 życie."
 
 #: ../../9ED.rst:1344
 msgid ""
@@ -3627,7 +3643,7 @@ msgstr ""
 
 #: ../../9ED.rst:1347
 msgid "Whenever a player casts a red spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czerwony czar, możesz zyskać 1 życie."
 
 #: ../../9ED.rst:1352
 msgid ""
@@ -3654,6 +3670,8 @@ msgid ""
 "At the beginning of each player's draw step, if Howling Mine is untapped, "
 "that player draws an additional card."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, jeśli ten artefakt jest "
+"odkręcony, ów gracz dobiera dodatkową kartę."
 
 #: ../../9ED.rst:1360
 msgid ""
@@ -3701,7 +3719,7 @@ msgstr ""
 
 #: ../../9ED.rst:1371
 msgid "Whenever a player casts a blue spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci niebieski czar, możesz zyskać 1 życie."
 
 #: ../../9ED.rst:1378
 msgid ""
@@ -3869,7 +3887,7 @@ msgstr ""
 
 #: ../../9ED.rst:1431
 msgid "Whenever a player casts a green spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci zielony czar, możesz zyskać 1 życie."
 
 #: ../../9ED.rst:1438
 msgid ""

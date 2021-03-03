@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 21:28+0000\n"
+"PO-Revision-Date: 2021-03-03 23:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -1275,6 +1275,10 @@ msgid ""
 "player puts that card onto the battlefield, then shuffles all other cards "
 "revealed this way into their library."
 msgstr ""
+"Zniszcz wskazanego stwora. Nie może zregenerować. Jego władca ujawnia karty "
+"z wierzchu swojej biblioteki aż ujawni kartę stwora. Ów gracz umieszcza ową "
+"kartę na polu bitwy, następnie tasuje pozostałe ujawnione w ten sposób karty "
+"do swojej biblioteki."
 
 #: ../../MIR.rst:460
 msgid ""
@@ -1782,7 +1786,7 @@ msgstr ""
 
 #: ../../MIR.rst:653
 msgid "Spend only black mana on X."
-msgstr ""
+msgstr "Opłać X tylko czarną maną."
 
 #: ../../MIR.rst:655
 msgid ""
@@ -3434,6 +3438,8 @@ msgid ""
 "Search your library for a basic land card and put that card onto the "
 "battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../MIR.rst:1276
 msgid ""

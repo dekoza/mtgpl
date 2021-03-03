@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 09:17+0000\n"
+"PO-Revision-Date: 2021-03-03 23:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/8ed/pl/>\n"
 "Language: pl\n"
@@ -1247,6 +1247,8 @@ msgid ""
 "When Sage Owl enters the battlefield, look at the top four cards of your "
 "library, then put them back in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"twojej biblioteki, następnie umieść je z powrotem w dowolnej kolejności."
 
 #: ../../8ED.rst:482
 msgid ""
@@ -1331,7 +1333,7 @@ msgstr ""
 
 #: ../../8ED.rst:511
 msgid "Your opponents play with their hands revealed."
-msgstr ""
+msgstr "Twoi przeciwnicy grają z ujawnionymi rękami."
 
 #: ../../8ED.rst:516
 msgid ""
@@ -1632,6 +1634,9 @@ msgid ""
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_b|: Zregeneruj tego stwora.( Następnym razem, gdy miałby zostać "
+"zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
+"wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../8ED.rst:626
 msgid ""
@@ -1803,6 +1808,7 @@ msgstr ""
 msgid ""
 "Whenever an opponent discards a card, Megrim deals 2 damage to that player."
 msgstr ""
+"Ilekroć przeciwnik odrzuci kartę, ten urok zadaje owemu graczowi 2 obrażenia."
 
 #: ../../8ED.rst:690
 msgid ""
@@ -2583,7 +2589,7 @@ msgstr ""
 
 #: ../../8ED.rst:975
 msgid "Up to three target creatures can't block this turn."
-msgstr ""
+msgstr "Co najwyżej trzy wskazane stwory nie mogą blokować w tej turze."
 
 #: ../../8ED.rst:980
 msgid ""
@@ -3327,6 +3333,8 @@ msgid ""
 "Search your library for a basic land card and put that card onto the "
 "battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../8ED.rst:1264
 msgid ""
@@ -3591,6 +3599,10 @@ msgid ""
 "shares at least one creature type with it. (For example, if two Goblin "
 "Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
 msgstr ""
+"Każdy stwór dostaje +1/+1 za każdego innego stwora na polu bitwy "
+"współdzielącego z nim przynajmniej jeden typ stwora. (Na przykład jeśli na "
+"polu bitwy są dwa Gobliny Wojownicy oraz Goblin Szaman, każdy z nich dostaje "
+"+2/+2.)"
 
 #: ../../8ED.rst:1358
 msgid ""
@@ -3704,6 +3716,8 @@ msgid ""
 "At the beginning of each player's draw step, if Howling Mine is untapped, "
 "that player draws an additional card."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, jeśli ten artefakt jest "
+"odkręcony, ów gracz dobiera dodatkową kartę."
 
 #: ../../8ED.rst:1394
 msgid ""

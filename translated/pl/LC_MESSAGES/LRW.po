@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 21:09+0000\n"
+"PO-Revision-Date: 2021-03-03 23:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -2462,6 +2462,8 @@ msgid ""
 "−8: Chandra Nalaar deals 10 damage to target player or planeswalker and each "
 "creature that player or that planeswalker's controller controls."
 msgstr ""
+"–8: Ten wędrowiec zadaje po 10 obrażeń wskazanemu graczowi lub wędrowcowi i "
+"każdemu stworowi pod władaniem owego gracza lub władcy owego wędrowca."
 
 #: ../../LRW.rst:904
 msgid ""
@@ -3251,7 +3253,7 @@ msgstr "+1: Odkręć dwa wskazane lądy."
 
 #: ../../LRW.rst:1185
 msgid "−1: Create a 3/3 green Beast creature token."
-msgstr ""
+msgstr "–1: Stwórz żeton zielonego stwora Bestia 3/3."
 
 #: ../../LRW.rst:1187
 msgid "−4: Creatures you control get +3/+3 and gain trample until end of turn."

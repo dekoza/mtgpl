@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 09:55+0000\n"
+"PO-Revision-Date: 2021-03-03 23:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -1303,6 +1303,8 @@ msgid ""
 "When Sage Owl enters the battlefield, look at the top four cards of your "
 "library, then put them back in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"twojej biblioteki, następnie umieść je z powrotem w dowolnej kolejności."
 
 #: ../../10E.rst:492
 msgid ""
@@ -1414,7 +1416,7 @@ msgstr ""
 
 #: ../../10E.rst:529
 msgid "Your opponents play with their hands revealed."
-msgstr ""
+msgstr "Twoi przeciwnicy grają z ujawnionymi rękami."
 
 #: ../../10E.rst:534
 msgid ""
@@ -1645,11 +1647,11 @@ msgstr ""
 
 #: ../../10E.rst:611
 msgid "Spend only black mana on X."
-msgstr ""
+msgstr "Opłać X tylko czarną maną."
 
 #: ../../10E.rst:613
 msgid "Consume Spirit deals X damage to any target and you gain X life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń, zyskaj X żyć."
 
 #: ../../10E.rst:620
 msgid ""
@@ -1750,6 +1752,9 @@ msgid ""
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_b|: Zregeneruj tego stwora.( Następnym razem, gdy miałby zostać "
+"zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
+"wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../10E.rst:652
 msgid ""
@@ -1898,6 +1903,8 @@ msgid ""
 "Whenever Hypnotic Specter deals damage to an opponent, that player discards "
 "a card at random."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca losową "
+"kartę."
 
 #: ../../10E.rst:704
 msgid ""
@@ -1973,6 +1980,7 @@ msgstr ""
 msgid ""
 "Whenever an opponent discards a card, Megrim deals 2 damage to that player."
 msgstr ""
+"Ilekroć przeciwnik odrzuci kartę, ten urok zadaje owemu graczowi 2 obrażenia."
 
 #: ../../10E.rst:732
 msgid ""
@@ -2721,6 +2729,8 @@ msgid ""
 "Whenever a player taps a land for mana, Manabarbs deals 1 damage to that "
 "player."
 msgstr ""
+"Ilekroć gracz przekręca ląd pobierając manę, ten urok zadaje owemu graczowi "
+"1 obrażenie."
 
 #: ../../10E.rst:1008
 msgid ""
@@ -3102,6 +3112,11 @@ msgid ""
 "then does the same for enchantment cards, then puts all cards revealed this "
 "way that weren't put onto the battlefield on the bottom of their library."
 msgstr ""
+"Każdy gracz wtasowuje wszystkie własne permanenty do swojej biblioteki, "
+"następnie ujawnia tyle samo kart z wierzchu swojej biblioteki. Każdy gracz "
+"umieszcza wszystkie karty artefaktów, stworów i lądów ujawnione w ten sposób "
+"na polu bitwy, następnie robi to samo z kartami uroków, następnie umieszcza "
+"pozostałe ujawnione w ten sposób karty na spodzie swojej biblioteki."
 
 #: ../../10E.rst:1150
 msgid ""
@@ -3584,6 +3599,8 @@ msgid ""
 "Search your library for a basic land card and put that card onto the "
 "battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../10E.rst:1324
 msgid ""
@@ -3869,7 +3886,7 @@ msgstr ""
 
 #: ../../10E.rst:1423
 msgid "Whenever a player casts a white spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci biały czar, możesz zyskać 1 życie."
 
 #: ../../10E.rst:1428
 msgid ""
@@ -3939,6 +3956,10 @@ msgid ""
 "shares at least one creature type with it. (For example, if two Goblin "
 "Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
 msgstr ""
+"Każdy stwór dostaje +1/+1 za każdego innego stwora na polu bitwy "
+"współdzielącego z nim przynajmniej jeden typ stwora. (Na przykład jeśli na "
+"polu bitwy są dwa Gobliny Wojownicy oraz Goblin Szaman, każdy z nich dostaje "
+"+2/+2.)"
 
 #: ../../10E.rst:1454
 msgid ""
@@ -3990,7 +4011,7 @@ msgstr ""
 
 #: ../../10E.rst:1465
 msgid "Whenever a player casts a black spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czarny czar, możesz zyskać 1 życie."
 
 #: ../../10E.rst:1470
 msgid ""
@@ -4013,7 +4034,7 @@ msgstr ""
 
 #: ../../10E.rst:1473
 msgid "Whenever a player casts a red spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czerwony czar, możesz zyskać 1 życie."
 
 #: ../../10E.rst:1478
 msgid ""
@@ -4052,6 +4073,8 @@ msgid ""
 "At the beginning of each player's draw step, if Howling Mine is untapped, "
 "that player draws an additional card."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, jeśli ten artefakt jest "
+"odkręcony, ów gracz dobiera dodatkową kartę."
 
 #: ../../10E.rst:1490
 msgid ""
@@ -4099,7 +4122,7 @@ msgstr ""
 
 #: ../../10E.rst:1503
 msgid "Whenever a player casts a blue spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci niebieski czar, możesz zyskać 1 życie."
 
 #: ../../10E.rst:1510
 msgid ""
@@ -4246,7 +4269,7 @@ msgstr ""
 
 #: ../../10E.rst:1557
 msgid "You can't lose the game and your opponents can't win the game."
-msgstr ""
+msgstr "Nie możesz przegrać gry, a twoi przeciwnicy nie mogą wygrać gry."
 
 #: ../../10E.rst:1566
 msgid ""
@@ -4325,6 +4348,8 @@ msgid ""
 "Equipped creature can't be blocked and has shroud. (It can't be the target "
 "of spells or abilities.)"
 msgstr ""
+"Wyposażony stwór nie może być blokowany i ma antymagię. (Nie może być "
+"wskazywany przez czary lub zdolności.)"
 
 #: ../../10E.rst:1587
 msgid "Equip |mana_2|"
@@ -4339,7 +4364,7 @@ msgstr ""
 
 #: ../../10E.rst:1591
 msgid "Whenever a player casts a green spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci zielony czar, możesz zyskać 1 życie."
 
 #: ../../10E.rst:1598
 msgid ""

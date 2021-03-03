@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 21:09+0000\n"
+"PO-Revision-Date: 2021-03-03 23:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leb/pl/>\n"
 "Language: pl\n"
@@ -1313,6 +1313,8 @@ msgid ""
 "Protection from white (This creature can't be blocked, targeted, dealt "
 "damage, or enchanted by anything white.)"
 msgstr ""
+"Ochrona przed białym (Nic białego nie może zablokować, wskazywać, zadać "
+"obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../LEB.rst:478
 msgid ""
@@ -1469,7 +1471,7 @@ msgstr ""
 
 #: ../../LEB.rst:527
 msgid "Spend only black mana on X."
-msgstr ""
+msgstr "Opłać X tylko czarną maną."
 
 #: ../../LEB.rst:529
 msgid ""
@@ -1492,6 +1494,9 @@ msgid ""
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_b|: Zregeneruj tego stwora.( Następnym razem, gdy miałby zostać "
+"zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
+"wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../LEB.rst:540
 msgid ""
@@ -1573,6 +1578,8 @@ msgid ""
 "Whenever Hypnotic Specter deals damage to an opponent, that player discards "
 "a card at random."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca losową "
+"kartę."
 
 #: ../../LEB.rst:578
 msgid ""
@@ -1871,6 +1878,9 @@ msgid ""
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_b|: Zregeneruj tego stwora. (Następnym razem, gdy miałby zostać "
+"zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
+"wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../LEB.rst:684
 msgid ""
@@ -1996,6 +2006,9 @@ msgid ""
 "been activated four or more times this turn, sacrifice Dragon Whelp at the "
 "beginning of the next end step."
 msgstr ""
+"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Jeśli ta zdolność została "
+"aktywowana co najmniej cztery razy w tej turze, poświęć tego stwora na "
+"początku najbliższego kroku końcowego."
 
 #: ../../LEB.rst:730
 msgid ""
@@ -2053,6 +2066,7 @@ msgstr ""
 msgid ""
 "Earthquake deals X damage to each creature without flying and each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez latania i każdemu graczowi po X obrażeń."
 
 #: ../../LEB.rst:754
 msgid ""
@@ -2090,12 +2104,15 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| more to cast for each target beyond the first."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy cel poza pierwszym."
 
 #: ../../LEB.rst:763
 msgid ""
 "Fireball deals X damage divided evenly, rounded down, among any number of "
 "targets."
 msgstr ""
+"Ten czar zadaje X obrażeń rozdzielonych po równo, zaokrąglając w dół, "
+"pomiędzy dowolną liczbę wskazanych celów."
 
 #: ../../LEB.rst:770
 msgid ""
@@ -2248,6 +2265,8 @@ msgid ""
 "Whenever a player taps a land for mana, Manabarbs deals 1 damage to that "
 "player."
 msgstr ""
+"Ilekroć gracz przekręca ląd pobierając manę, ten urok zadaje owemu graczowi "
+"1 obrażenie."
 
 #: ../../LEB.rst:826
 msgid ""
@@ -2422,6 +2441,9 @@ msgid ""
 "power gains flying until end of turn. Destroy that creature at the beginning "
 "of the next end step."
 msgstr ""
+"|tap|: Wskazany stwór pod twoim władaniem o wytrzymałości mniejszej niż siła "
+"niniejszego stwora zyskuje do końca tury latanie. Zniszcz owego stwora na "
+"początku najbliższego kroku końcowego."
 
 #: ../../LEB.rst:894
 msgid ""
@@ -3325,6 +3347,8 @@ msgid ""
 "At the beginning of each player's draw step, if Howling Mine is untapped, "
 "that player draws an additional card."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, jeśli ten artefakt jest "
+"odkręcony, ów gracz dobiera dodatkową kartę."
 
 #: ../../LEB.rst:1234
 msgid ""
