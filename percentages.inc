@@ -42,7 +42,7 @@
 .. |KTK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |M11_percent| image:: images/pie60.png        
+.. |M11_percent| image:: images/pie65.png        
 
 .. |PCY_percent| image:: images/pie10.png        
 
@@ -61,7 +61,7 @@
 
 .. |C19_percent| image:: images/pie65.png        
 
-.. |M10_percent| image:: images/pie70.png        
+.. |M10_percent| image:: images/pie75.png        
 
 .. |GK1_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
