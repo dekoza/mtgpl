@@ -883,6 +883,12 @@
    When Mogg War Marshal enters the battlefield or dies, create a 1/1 red Goblin creature token.
 
 
+:mtgtip:`Orcish Cannonade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0afae574-aa96-4500-9882-a4b10337b6f5.jpg?1614801780|https://scryfall.com/card/tsr/178/orcish-cannonade?utm_source=api>`
+   Orcish Cannonade deals 2 damage to any target and 3 damage to you.
+
+   Draw a card.
+
+
 :mtgtip:`Pact of the Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/4612effe-8ca2-4c27-90d2-d9255acc80d9.jpg?1614707916|https://scryfall.com/card/tsr/179/pact-of-the-titan?utm_source=api>`
    Create a 4/4 red Giant creature token.
 
@@ -965,6 +971,12 @@
    Storm Entity enters the battlefield with a +1/+1 counter on it for each other spell cast this turn.
 
 
+:mtgtip:`Sudden Shock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b659a3b-0f66-40f2-8e2e-f13b694e270e.jpg?1614801777|https://scryfall.com/card/tsr/194/sudden-shock?utm_source=api>`
+   Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+
+   Sudden Shock deals 2 damage to any target.
+
+
 :mtgtip:`Sulfur Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0aed10f9-8c52-400b-a432-a0d8c6458e87.jpg?1614707568|https://scryfall.com/card/tsr/195/sulfur-elemental?utm_source=api>`
    Flash (You may cast this spell any time you could cast an instant.)
 
@@ -989,22 +1001,244 @@
    Each player discards their hand, then draws seven cards.
 
 
+:mtgtip:`Citanul Woodreaders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0cd9af6-3729-4c9c-9669-a2800a693b39.jpg?1614801844|https://scryfall.com/card/tsr/199/citanul-woodreaders?utm_source=api>`
+   Kicker |mana_2|\ |mana_g| (You may pay an additional |mana_2|\ |mana_g| as you cast this spell.)
+
+   When Citanul Woodreaders enters the battlefield, if it was kicked, draw two cards.
+
+
+:mtgtip:`Durkwood Baloth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dce39dd1-ca51-420f-a627-1511192d34c2.jpg?1614803388|https://scryfall.com/card/tsr/200/durkwood-baloth?utm_source=api>`
+   Suspend 5—|mana_g| (Rather than cast this card from your hand, you may pay |mana_g| and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+
+
+:mtgtip:`Edge of Autumn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c72229c-f3da-4e35-af79-14452efe581b.jpg?1614832946|https://scryfall.com/card/tsr/201/edge-of-autumn?utm_source=api>`
+   If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+
+   Cycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)
+
+
+:mtgtip:`Evolution Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/723d21cb-f506-4ad4-89d8-ecfdaed5952f.jpg?1614802941|https://scryfall.com/card/tsr/202/evolution-charm?utm_source=api>`
+   Choose one —
+
+   • Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+
+   • Return target creature card from your graveyard to your hand.
+
+   • Target creature gains flying until end of turn.
+
+
+:mtgtip:`Fungus Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/864a67e4-5deb-45d5-bd42-3078716e142b.jpg?1614801495|https://scryfall.com/card/tsr/203/fungus-sliver?utm_source=api>`
+   All Sliver creatures have "Whenever this creature is dealt damage, put a +1/+1 counter on it." (The damage is dealt before the counter is put on.)
+
+
+:mtgtip:`Gaea's Anthem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43febc63-597d-4392-b8ea-a00841148c45.jpg?1614802959|https://scryfall.com/card/tsr/204/gaeas-anthem?utm_source=api>`
+   Creatures you control get +1/+1.
+
+
+:mtgtip:`Gemhide Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/110887a5-cbfd-431f-9208-06acc4ed2602.jpg?1614801507|https://scryfall.com/card/tsr/205/gemhide-sliver?utm_source=api>`
+   All Slivers have "|tap|: Add one mana of any color."
+
+
+:mtgtip:`Giant Dustwasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8aec78a-9fd4-4cf9-a9ec-e234f6a552e4.jpg?1614803360|https://scryfall.com/card/tsr/206/giant-dustwasp?utm_source=api>`
+   Flying
+
+   Suspend 4—|mana_1|\ |mana_g| (Rather than cast this card from your hand, you may pay |mana_1|\ |mana_g| and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+
+
+:mtgtip:`Greenseeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423d0c1d-1791-4c80-86d1-f87f3c6a8611.jpg?1614802186|https://scryfall.com/card/tsr/207/greenseeker?utm_source=api>`
+   |mana_g|, |tap|, Discard a card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+
+
+:mtgtip:`Harmonize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdcb8138-0d0c-43bd-a3d3-1a57c0a19764.jpg?1614833181|https://scryfall.com/card/tsr/208/harmonize?utm_source=api>`
+   Draw three cards.
+
+
+:mtgtip:`Heartwood Storyteller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a5e2f7a-8cfe-4d1b-a68d-7e6d8d10bd27.jpg?1614802080|https://scryfall.com/card/tsr/209/heartwood-storyteller?utm_source=api>`
+   Whenever a player casts a noncreature spell, each of that player's opponents may draw a card.
+
+
+:mtgtip:`Hypergenesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65757321-2f26-44dc-a4f8-31d40fbf1681.jpg?1614803412|https://scryfall.com/card/tsr/210/hypergenesis?utm_source=api>`
+   Suspend 3—|mana_1|\ |mana_g|\ |mana_g| (Rather than cast this card from your hand, pay |mana_1|\ |mana_g|\ |mana_g| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+
+   Starting with you, each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield. Repeat this process until no one puts a card onto the battlefield.
+
+
+:mtgtip:`Imperiosaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f189aaf0-474a-4701-9bda-e67dc057e347.jpg?1614802425|https://scryfall.com/card/tsr/211/imperiosaur?utm_source=api>`
+   Spend only mana produced by basic lands to cast this spell.
+
+
+:mtgtip:`Kavu Primarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/475c3439-74a9-4a53-9e8b-c1c84b60ea35.jpg?1614802473|https://scryfall.com/card/tsr/212/kavu-primarch?utm_source=api>`
+   Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)
+
+   Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)
+
+   If Kavu Primarch was kicked, it enters the battlefield with four +1/+1 counters on it.
+
+
 :mtgtip:`Keen Sense<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d16e927d-0f23-4fac-9b35-3cfcb22ebc26.jpg?1614738400|https://scryfall.com/card/tsr/213/keen-sense?utm_source=api>`
    Enchant creature
 
    Whenever enchanted creature deals damage to an opponent, you may draw a card.
 
 
+:mtgtip:`Krosan Grip<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/253352d1-26e1-4074-94d8-f88c697e910e.jpg?1614802535|https://scryfall.com/card/tsr/214/krosan-grip?utm_source=api>`
+   Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+
+   Destroy target artifact or enchantment.
+
+
+:mtgtip:`Life and Limb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/2721724d-92ae-4c0c-88dd-628888c468bf.jpg?1614802256|https://scryfall.com/card/tsr/215/life-and-limb?utm_source=api>`
+   All Forests and all Saprolings are 1/1 green Saproling creatures and Forest lands in addition to their other types.
+
+
 :mtgtip:`Llanowar Mentor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0f894e7-adf7-4fe5-811a-8e2d8c8a88d6.jpg?1614738729|https://scryfall.com/card/tsr/216/llanowar-mentor?utm_source=api>`
    |mana_g|, |tap|, Discard a card: Create a 1/1 green Elf Druid creature token named Llanowar Elves. It has "|tap|: Add |mana_g|."
+
+
+:mtgtip:`Might of Old Krosa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4246cfd0-f150-4142-8dd4-7ebeb707b6f4.jpg?1614802952|https://scryfall.com/card/tsr/217/might-of-old-krosa?utm_source=api>`
+   Target creature gets +2/+2 until end of turn. If you cast this spell during your main phase, that creature gets +4/+4 until end of turn instead.
+
+
+:mtgtip:`Might Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97c72fc3-72ac-4727-9872-33dc71049894.jpg?1614801513|https://scryfall.com/card/tsr/218/might-sliver?utm_source=api>`
+   All Sliver creatures get +2/+2.
+
+
+:mtgtip:`Mire Boa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab20019-d4b7-4bbb-b258-c9cc14bf2b3a.jpg?1614801545|https://scryfall.com/card/tsr/219/mire-boa?utm_source=api>`
+   Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+
+   |mana_g|: Regenerate Mire Boa.
+
+
+:mtgtip:`Muraganda Petroglyphs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b103cb22-93b2-4206-9f80-5f966155e07e.jpg?1614802969|https://scryfall.com/card/tsr/220/muraganda-petroglyphs?utm_source=api>`
+   Creatures with no abilities get +2/+2.
+
+
+:mtgtip:`Nantuko Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3370c6d-a743-49b3-b869-da65b49391d9.jpg?1614802077|https://scryfall.com/card/tsr/221/nantuko-shaman?utm_source=api>`
+   When Nantuko Shaman enters the battlefield, if you control no tapped lands, draw a card.
+
+   Suspend 1—|mana_2|\ |mana_g|\ |mana_g| (Rather than cast this card from your hand, you may pay |mana_2|\ |mana_g|\ |mana_g| and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
 
 
 :mtgtip:`Pendelhaven Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aafc1724-af33-491e-b834-9a3cf30039ca.jpg?1614738362|https://scryfall.com/card/tsr/222/pendelhaven-elder?utm_source=api>`
    |tap|: Each 1/1 creature you control gets +1/+2 until end of turn.
 
 
+:mtgtip:`Penumbra Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c862a2f7-673e-44bd-b8ee-e4295da1e0d5.jpg?1614803255|https://scryfall.com/card/tsr/223/penumbra-spider?utm_source=api>`
+   Reach
+
+   When Penumbra Spider dies, create a 2/4 black Spider creature token with reach.
+
+
+:mtgtip:`Phantom Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68f48a57-5005-46c7-8b52-97e2f9112b85.jpg?1614802456|https://scryfall.com/card/tsr/224/phantom-wurm?utm_source=api>`
+   Phantom Wurm enters the battlefield with four +1/+1 counters on it.
+
+   If damage would be dealt to Phantom Wurm, prevent that damage. Remove a +1/+1 counter from Phantom Wurm.
+
+
+:mtgtip:`Reflex Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e14da2f-0e35-4586-8435-de0859aad060.jpg?1614801566|https://scryfall.com/card/tsr/226/reflex-sliver?utm_source=api>`
+   All Sliver creatures have haste.
+
+
+:mtgtip:`Scryb Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/885c122a-d350-420f-ba7b-4523a28e48a6.jpg?1614802206|https://scryfall.com/card/tsr/227/scryb-ranger?utm_source=api>`
+   Flash (You may cast this spell any time you could cast an instant.)
+
+   Flying, protection from blue
+
+   Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+
+
+:mtgtip:`Seal of Primordium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd5592ab-6883-4c5a-8d50-d9530d905b19.jpg?1614801836|https://scryfall.com/card/tsr/228/seal-of-primordium?utm_source=api>`
+   Sacrifice Seal of Primordium: Destroy target artifact or enchantment.
+
+
+:mtgtip:`Search for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c65336f-f735-4c35-9278-ad97255eb5bb.jpg?1614832878|https://scryfall.com/card/tsr/229/search-for-tomorrow?utm_source=api>`
+   Search your library for a basic land card, put it onto the battlefield, then shuffle your library.
+
+   Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |mana_g| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+
+
+:mtgtip:`Spinneret Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f86e30d-d9e8-48f7-8bd1-f2645f0ab3f4.jpg?1614801584|https://scryfall.com/card/tsr/230/spinneret-sliver?utm_source=api>`
+   All Sliver creatures have reach. (They can block creatures with flying.)
+
+
+:mtgtip:`Sporesower Thallid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/babc8043-bfed-45e3-9d04-1967534f77b2.jpg?1614803128|https://scryfall.com/card/tsr/231/sporesower-thallid?utm_source=api>`
+   At the beginning of your upkeep, put a spore counter on each Fungus you control.
+
+   Remove three spore counters from Sporesower Thallid: Create a 1/1 green Saproling creature token.
+
+
+:mtgtip:`Sporoloth Ancient<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57a96041-1b20-464e-9119-93c19675ac46.jpg?1614803127|https://scryfall.com/card/tsr/232/sporoloth-ancient?utm_source=api>`
+   At the beginning of your upkeep, put a spore counter on Sporoloth Ancient.
+
+   Creatures you control have "Remove two spore counters from this creature: Create a 1/1 green Saproling creature token."
+
+
+:mtgtip:`Strength in Numbers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51d900d0-3f3a-4716-bcc7-b27a0cbbc339.jpg?1614802986|https://scryfall.com/card/tsr/233/strength-in-numbers?utm_source=api>`
+   Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures.
+
+
+:mtgtip:`Summoner's Pact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee0f88ac-8a90-4057-b0e6-c15fbd02da38.jpg?1614802875|https://scryfall.com/card/tsr/234/summoners-pact?utm_source=api>`
+   Search your library for a green creature card, reveal it, put it into your hand, then shuffle your library.
+
+   At the beginning of your next upkeep, pay |mana_2|\ |mana_g|\ |mana_g|. If you don't, you lose the game.
+
+
 :mtgtip:`Tarmogoyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69daba76-96e8-4bcc-ab79-2f00189ad8fb.jpg?1614736098|https://scryfall.com/card/tsr/235/tarmogoyf?utm_source=api>`
    Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+
+
+:mtgtip:`Thallid Germinator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799e835b-98ad-41b2-a8a9-a7c661efd86f.jpg?1614803118|https://scryfall.com/card/tsr/236/thallid-germinator?utm_source=api>`
+   At the beginning of your upkeep, put a spore counter on Thallid Germinator.
+
+   Remove three spore counters from Thallid Germinator: Create a 1/1 green Saproling creature token.
+
+   Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+
+
+:mtgtip:`Thallid Shell-Dweller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e1fd5ff-79a2-43d9-bd69-94be175d19b4.jpg?1614803103|https://scryfall.com/card/tsr/237/thallid-shell-dweller?utm_source=api>`
+   Defender
+
+   At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller.
+
+   Remove three spore counters from Thallid Shell-Dweller: Create a 1/1 green Saproling creature token.
+
+
+:mtgtip:`Thelon of Havenwood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/783f1b9f-9866-4ead-96cf-88babf459ce2.jpg?1614803114|https://scryfall.com/card/tsr/238/thelon-of-havenwood?utm_source=api>`
+   Each Fungus creature gets +1/+1 for each spore counter on it.
+
+   |mana_b|\ |mana_g|, Exile a Fungus card from a graveyard: Put a spore counter on each Fungus on the battlefield.
+
+
+:mtgtip:`Thelonite Hermit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f803ebda-2f6b-41e4-9ffe-b1f2888996b6.jpg?1614802539|https://scryfall.com/card/tsr/239/thelonite-hermit?utm_source=api>`
+   All Saprolings get +1/+1.
+
+   Morph |mana_3|\ |mana_g|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+
+   When Thelonite Hermit is turned face up, create four 1/1 green Saproling creature tokens.
+
+
+:mtgtip:`Thrill of the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bed96ea-f509-40eb-80b7-71a02d9ac69f.jpg?1614802978|https://scryfall.com/card/tsr/241/thrill-of-the-hunt?utm_source=api>`
+   Target creature gets +1/+2 until end of turn.
+
+   Flashback |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+
+:mtgtip:`Tromp the Domains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef40007b-47eb-4881-9467-30ce5b9a0fa3.jpg?1614802054|https://scryfall.com/card/tsr/242/tromp-the-domains?utm_source=api>`
+   Domain — Until end of turn, creatures you control gain trample and get +1/+1 for each basic land type among lands you control.
+
+
+:mtgtip:`Uktabi Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b8c401a-8c66-4054-894f-afd866b3b95b.jpg?1614803225|https://scryfall.com/card/tsr/243/uktabi-drake?utm_source=api>`
+   Flying, haste
+
+   Echo |mana_1|\ |mana_g|\ |mana_g| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+
+
+:mtgtip:`Utopia Mycon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/5664e121-d3f1-4ff5-9576-ef515e22bde7.jpg?1614803109|https://scryfall.com/card/tsr/244/utopia-mycon?utm_source=api>`
+   At the beginning of your upkeep, put a spore counter on Utopia Mycon.
+
+   Remove three spore counters from Utopia Mycon: Create a 1/1 green Saproling creature token.
+
+   Sacrifice a Saproling: Add one mana of any color.
 
 
 :mtgtip:`Utopia Vow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55dcec32-6ff2-4f47-b3e2-ab621f58d498.jpg?1614738421|https://scryfall.com/card/tsr/245/utopia-vow?utm_source=api>`
@@ -1015,10 +1249,34 @@
    Enchanted creature has "|tap|: Add one mana of any color."
 
 
+:mtgtip:`Virulent Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5082a2a-e8b1-4799-ad29-a632d95ae1da.jpg?1614801588|https://scryfall.com/card/tsr/246/virulent-sliver?utm_source=api>`
+   All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)
+
+
+:mtgtip:`Yavimaya Dryad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9807f9a8-a994-4fb2-ad33-3d80d9702bfe.jpg?1614801839|https://scryfall.com/card/tsr/247/yavimaya-dryad?utm_source=api>`
+   Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+
+   When Yavimaya Dryad enters the battlefield, you may search your library for a Forest card and put it onto the battlefield tapped under target player's control. If you do, shuffle your library.
+
+
 :mtgtip:`Dralnu, Lich Lord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9554f402-35d4-43ac-9494-9d17d2a79092.jpg?1614360342|https://scryfall.com/card/tsr/251/dralnu-lich-lord?utm_source=api>`
    If damage would be dealt to Dralnu, Lich Lord, sacrifice that many permanents instead.
 
    |tap|: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+
+
+:mtgtip:`Glittering Wish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c89645b-5e53-48c0-b4bb-9f22332c7658.jpg?1614801941|https://scryfall.com/card/tsr/253/glittering-wish?utm_source=api>`
+   You may reveal a multicolored card you own from outside the game and put it into your hand. Exile Glittering Wish.
+
+
+:mtgtip:`Akroma's Memorial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/950ee61d-0bc1-4d7b-ba68-157061aa98eb.jpg?1614832671|https://scryfall.com/card/tsr/262/akromas-memorial?utm_source=api>`
+   Creatures you control have flying, first strike, vigilance, trample, haste, and protection from black and from red.
+
+
+:mtgtip:`Cloud Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f880de5-8fc5-4e4e-a4bb-cc3e61a7697b.jpg?1614832978|https://scryfall.com/card/tsr/265/cloud-key?utm_source=api>`
+   As Cloud Key enters the battlefield, choose artifact, creature, enchantment, instant, or sorcery.
+
+   Spells you cast of the chosen type cost |mana_1| less to cast.
 
 
 :mtgtip:`Lotus Bloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db89ae4d-1cc2-41d8-a4de-a54b958c4429.jpg?1614277064|https://scryfall.com/card/tsr/270/lotus-bloom?utm_source=api>`
@@ -1035,6 +1293,14 @@
    Whenever Stuffy Doll is dealt damage, it deals that much damage to the chosen player.
 
    |tap|: Stuffy Doll deals 1 damage to itself.
+
+
+:mtgtip:`Tolaria West<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b005eef6-75f3-454f-a42b-d851bc84ac4e.jpg?1614840763|https://scryfall.com/card/tsr/286/tolaria-west?utm_source=api>`
+   Tolaria West enters the battlefield tapped.
+
+   |tap|: Add |mana_u|.
+
+   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with converted mana cost 0, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
 
 
 :mtgtip:`Ajani's Pridemate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aab58d83-5930-4d28-a26c-225c7a872216.jpg?1614278168|https://scryfall.com/card/tsr/290/ajanis-pridemate?utm_source=api>`
@@ -1387,8 +1653,100 @@
    When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
 
 
+:mtgtip:`Ancient Stirrings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e2a4717-3914-46bc-886e-1eddee94e098.jpg?1614801994|https://scryfall.com/card/tsr/355/ancient-stirrings?utm_source=api>`
+   Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)
+
+
+:mtgtip:`Beast Whisperer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17fbebd9-9faf-4a7b-8e79-b67c074eba8c.jpg?1614801500|https://scryfall.com/card/tsr/356/beast-whisperer?utm_source=api>`
+   Whenever you cast a creature spell, draw a card.
+
+
+:mtgtip:`Beast Within<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/299f1f93-ecee-4ed8-a77e-6ebc4b85328d.jpg?1614802542|https://scryfall.com/card/tsr/357/beast-within?utm_source=api>`
+   Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
+
+
+:mtgtip:`Become Immense<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2cbd578-4b3c-4de8-8418-0dd6f85972ae.jpg?1614802991|https://scryfall.com/card/tsr/358/become-immense?utm_source=api>`
+   Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
+
+   Target creature gets +6/+6 until end of turn.
+
+
+:mtgtip:`Courser of Kruphix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c341be76-664f-4665-a4c3-708d97605a16.jpg?1614803244|https://scryfall.com/card/tsr/359/courser-of-kruphix?utm_source=api>`
+   Play with the top card of your library revealed.
+
+   You may play lands from the top of your library.
+
+   Whenever a land enters the battlefield under your control, you gain 1 life.
+
+
 :mtgtip:`Elvish Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d50fa57-db11-419e-b73b-666a6b25f7de.jpg?1614770259|https://scryfall.com/card/tsr/360/elvish-mystic?utm_source=api>`
    |tap|: Add |mana_g|.
+
+
+:mtgtip:`Eternal Witness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/584dfb52-4a6c-4a33-9ae1-12227b938f9a.jpg?1614801834|https://scryfall.com/card/tsr/361/eternal-witness?utm_source=api>`
+   When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+
+
+:mtgtip:`Evolutionary Leap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c731ba3b-3c48-472b-88ec-05205690e703.jpg?1614802871|https://scryfall.com/card/tsr/362/evolutionary-leap?utm_source=api>`
+   |mana_g|, Sacrifice a creature: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Farseek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74db0dd4-3bb6-41f7-803c-a04647327dec.jpg?1614815287|https://scryfall.com/card/tsr/363/farseek?utm_source=api>`
+   Search your library for a Plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
+
+
+:mtgtip:`Nature's Claim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0faca514-b7f3-4d34-a259-d03bad50611b.jpg?1614803133|https://scryfall.com/card/tsr/364/natures-claim?utm_source=api>`
+   Destroy target artifact or enchantment. Its controller gains 4 life.
+
+
+:mtgtip:`Primeval Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53760940-50e4-45d4-8297-353c9fc896e9.jpg?1614802158|https://scryfall.com/card/tsr/365/primeval-titan?utm_source=api>`
+   Trample
+
+   Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.
+
+
+:mtgtip:`Reclamation Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6fba2e4-ea27-4ef0-9b27-bc61a7c6b0ab.jpg?1614802038|https://scryfall.com/card/tsr/366/reclamation-sage?utm_source=api>`
+   When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.
+
+
+:mtgtip:`Sylvan Scrying<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f882c71-dd90-4eac-9756-0bf487cba625.jpg?1614832786|https://scryfall.com/card/tsr/367/sylvan-scrying?utm_source=api>`
+   Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+
+
+:mtgtip:`Thragtusk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c30267b1-a7ea-45cd-99a8-6b0e6ddbc395.jpg?1614802338|https://scryfall.com/card/tsr/368/thragtusk?utm_source=api>`
+   When Thragtusk enters the battlefield, you gain 5 life.
+
+   When Thragtusk leaves the battlefield, create a 3/3 green Beast creature token.
+
+
+:mtgtip:`Time of Need<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a42d3fb-fc5b-4b8e-bc23-167bc21b5194.jpg?1614803750|https://scryfall.com/card/tsr/369/time-of-need?utm_source=api>`
+   Search your library for a legendary creature card, reveal it, and put it into your hand. Then shuffle your library.
+
+
+:mtgtip:`Arcades, the Strategist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0652f9e2-ba2a-4c0a-bbfc-9b00ee5d28d4.jpg?1614832649|https://scryfall.com/card/tsr/371/arcades-the-strategist?utm_source=api>`
+   Flying, vigilance
+
+   Whenever a creature with defender enters the battlefield under your control, draw a card.
+
+   Each creature you control with defender assigns combat damage equal to its toughness rather than its power and can attack as though it didn't have defender.
+
+
+:mtgtip:`Bloodbraid Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/9445d57a-da77-4456-9e69-c898c4d57853.jpg?1614840790|https://scryfall.com/card/tsr/372/bloodbraid-elf?utm_source=api>`
+   Haste
+
+   Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+
+
+:mtgtip:`Feather, the Redeemed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be4e8bb8-fa07-4858-aafb-7eab7f01ddae.jpg?1614833484|https://scryfall.com/card/tsr/379/feather-the-redeemed?utm_source=api>`
+   Flying
+
+   Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.
+
+
+:mtgtip:`Qasali Pridemage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f749c4-3a00-4a9f-b8ad-5c7c3a96e8f0.jpg?1614832554|https://scryfall.com/card/tsr/383/qasali-pridemage?utm_source=api>`
+   Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+
+   |mana_1|, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
 
 
 :mtgtip:`Chalice of the Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25674e46-e15b-4fc0-9813-39b4e1c23de4.jpg?1614278193|https://scryfall.com/card/tsr/390/chalice-of-the-void?utm_source=api>`
@@ -1407,4 +1765,12 @@
 
 :mtgtip:`Crystal Shard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd9b7bf9-4087-4235-a21e-33f52ae69b48.jpg?1614624197|https://scryfall.com/card/tsr/393/crystal-shard?utm_source=api>`
    |mana_3|, |tap| or |mana_u|, |tap|: Return target creature to its owner's hand unless its controller pays |mana_1|.
+
+
+:mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27875258-47af-4105-9ded-56e03dcbd9e7.jpg?1614832694|https://scryfall.com/card/tsr/394/everflowing-chalice?utm_source=api>`
+   Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)
+
+   Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
+
+   |tap|: Add |colorless| for each charge counter on Everflowing Chalice.
 
