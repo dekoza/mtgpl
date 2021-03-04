@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -2603,6 +2603,8 @@ msgstr ""
 msgid ""
 "Whenever a creature attacks enchanted player, put a +1/+1 counter on it."
 msgstr ""
+"Ilekroć stwór zaatakuje zauroczonego gracza, umieść znacznik +1/+1 na owym "
+"stworze."
 
 #: ../../C13.rst:784
 msgid ""
@@ -4590,7 +4592,7 @@ msgstr ""
 
 #: ../../C13.rst:1461
 msgid "|tap|: Add |colorless|. You gain 1 life."
-msgstr ""
+msgstr "|tap|: Weź |colorless|. Zyskaj 1 życie."
 
 #: ../../C13.rst:1466
 msgid ""
@@ -4890,7 +4892,7 @@ msgstr ""
 # ee1da16b2c484bb7bbefa07736c1ea8b
 #: ../../C13.rst:1559
 msgid "Azorius Chancery enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 5677bf659d0f41efa512bd0531ce7ae1
 #: ../../C13.rst:1561
@@ -4898,6 +4900,8 @@ msgid ""
 "When Azorius Chancery enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1563
@@ -5558,7 +5562,7 @@ msgstr ""
 # ecba8d814d42487ea9675ec7ed62aab3
 #: ../../C13.rst:1811
 msgid "Orzhov Basilica enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 74002360eb9141c695b408cc58a8ea4a
 #: ../../C13.rst:1813
@@ -5566,6 +5570,8 @@ msgid ""
 "When Orzhov Basilica enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1815
@@ -5599,7 +5605,7 @@ msgstr ""
 # 622a72fefd2b41dc8c016e3409fbabca
 #: ../../C13.rst:1825
 msgid "Rakdos Carnarium enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 0ca204e211f842199a5e87975bbd737e
 #: ../../C13.rst:1827
@@ -5607,6 +5613,8 @@ msgid ""
 "When Rakdos Carnarium enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c

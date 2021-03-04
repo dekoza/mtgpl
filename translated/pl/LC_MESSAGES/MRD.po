@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -1212,7 +1212,7 @@ msgstr ""
 
 #: ../../MRD.rst:455
 msgid "Target player discards two cards unless they discard an artifact card."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty, chyba że odrzuci kartę artefaktu."
 
 #: ../../MRD.rst:460
 msgid ""
@@ -3154,7 +3154,7 @@ msgstr ""
 
 #: ../../MRD.rst:1151
 msgid "|mana_4|, |tap|: Put a fate counter on target permanent."
-msgstr ""
+msgstr "|mana_4|, |tap|: Umieść znacznik losu na wskazanym permanencie."
 
 #: ../../MRD.rst:1153
 msgid ""
@@ -3162,6 +3162,9 @@ msgid ""
 "without a fate counter on it, then remove all fate counters from all "
 "permanents."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent bez "
+"znacznika losu, następnie usuń wszystkie znaczniki losu ze wszystkich "
+"permanentów."
 
 #: ../../MRD.rst:1156
 msgid ""

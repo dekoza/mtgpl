@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 21:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -210,6 +210,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may create a 1/1 white Bird creature token with flying."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"stworzyć żeton białego stwora Ptak 1/1 z lataniem."
 
 #: ../../ZEN.rst:70
 msgid ""
@@ -1294,17 +1296,19 @@ msgstr ""
 
 #: ../../ZEN.rst:447
 msgid "Bloodghast can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../ZEN.rst:449
 msgid "Bloodghast has haste as long as an opponent has 10 or less life."
-msgstr ""
+msgstr "Ten stwór ma pośpiech o ile przeciwnik ma 10 żyć lub mniej."
 
 #: ../../ZEN.rst:451
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may return Bloodghast from your graveyard to the battlefield."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"przywrócić tę kartę z twojego cmentarza na pole bitwy."
 
 #: ../../ZEN.rst:456
 msgid ""
@@ -1665,6 +1669,9 @@ msgid ""
 "may have target player lose 3 life. If you do, put three +1/+1 counters on "
 "Ob Nixilis, the Fallen."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"sprawić, że wskazany gracz straci 3 życia. Jeśli tak zrobisz, umieść trzy "
+"znaczniki +1/+1 na tym stworze."
 
 #: ../../ZEN.rst:584
 msgid ""
@@ -2128,6 +2135,9 @@ msgid ""
 "and untap it. That creature gains haste until end of turn. (It can attack "
 "and |tap| this turn.)"
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Umieść na nim znacznik +"
+"1/+1 i odkręć go. Ów stwór zyskuje do końca tury pośpiech. (Może atakować i "
+"|tap| w tej turze.)"
 
 #: ../../ZEN.rst:744
 msgid ""

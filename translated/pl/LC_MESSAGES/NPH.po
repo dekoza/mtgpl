@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 16:20+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -724,12 +724,12 @@ msgstr "Błysk"
 # 49072cb4bb0240609d0ba3b029ae2ef7
 #: ../../NPH.rst:237
 msgid "At the beginning of your end step, draw seven cards."
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, dobierz siedem kart."
 
 # 7aa514bccba84c0eb2769e65a72e0fcc
 #: ../../NPH.rst:239
 msgid "Each opponent's maximum hand size is reduced by seven."
-msgstr ""
+msgstr "Limit kart na ręce każdego z przeciwników jest mniejszy o siedem."
 
 #: ../../NPH.rst:246
 msgid ""
@@ -2241,6 +2241,7 @@ msgstr ""
 msgid ""
 "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)"
 msgstr ""
+"Niezniszczalność (Efekty mówiące \"zniszcz\" nie niszczą tego artefaktu.)"
 
 #: ../../NPH.rst:794
 msgid ""
@@ -2490,7 +2491,7 @@ msgstr ""
 
 #: ../../NPH.rst:869
 msgid "|tap|: Add |colorless|. You gain 1 life."
-msgstr ""
+msgstr "|tap|: Weź |colorless|. Zyskaj 1 życie."
 
 #: ../../NPH.rst:876
 msgid ""

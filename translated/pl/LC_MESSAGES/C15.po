@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -232,7 +232,7 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../C15.rst:75
 msgid "Whenever Illusory Ambusher is dealt damage, draw that many cards."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzymuje obrażenia, dobierz tyle samo kart."
 
 #: ../../C15.rst:82
 msgid ""
@@ -894,6 +894,8 @@ msgid ""
 "When Sandstone Oracle enters the battlefield, choose an opponent. If that "
 "player has more cards in hand than you, draw cards equal to the difference."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wybierz przeciwnika. Jeśli ów gracz "
+"ma więcej kart w ręce niż ty, dobierz tyle kart, ile wynosi różnica."
 
 #: ../../C15.rst:326
 msgid ""
@@ -1561,12 +1563,18 @@ msgid ""
 "When Day of the Dragons enters the battlefield, exile all creatures you "
 "control. Then create that many 5/5 red Dragon creature tokens with flying."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wszystkie stwory pod twoim "
+"władaniem. Następnie stwórz tyle samo żetonów czerwonego stwora Smok 5/5 z "
+"lataniem."
 
 #: ../../C15.rst:543
 msgid ""
 "When Day of the Dragons leaves the battlefield, sacrifice all Dragons you "
 "control. Then return the exiled cards to the battlefield under your control."
 msgstr ""
+"Kiedy ten urok opuści pole bitwy, poświęć wszystkie Smoki pod twoim "
+"władaniem. Następnie przywróć wygnane nim karty na pole bitwy pod twoim "
+"władaniem."
 
 #: ../../C15.rst:548
 msgid ""
@@ -4346,7 +4354,7 @@ msgstr ""
 
 #: ../../C15.rst:1447
 msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../C15.rst:1454
 msgid ""
@@ -4954,13 +4962,15 @@ msgstr ""
 
 #: ../../C15.rst:1689
 msgid "Orzhov Basilica enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C15.rst:1691
 msgid ""
 "When Orzhov Basilica enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C15.rst:1693
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
@@ -5045,13 +5055,15 @@ msgstr ""
 
 #: ../../C15.rst:1739
 msgid "Simic Growth Chamber enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C15.rst:1741
 msgid ""
 "When Simic Growth Chamber enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../C15.rst:1743
 msgid "|tap|: Add |mana_g|\\ |mana_u|."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/apc/pl/>\n"
 "Language: pl\n"
@@ -1805,15 +1805,17 @@ msgid ""
 "Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on "
 "Spiritmonger."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia stworowi, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../APC.rst:641
 msgid "|mana_b|: Regenerate Spiritmonger."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../APC.rst:643
 msgid ""
 "|mana_g|: Spiritmonger becomes the color of your choice until end of turn."
-msgstr ""
+msgstr "|mana_g|: Ten stwór do końca tury jest wybranego przez ciebie koloru."
 
 #: ../../APC.rst:652
 msgid ""

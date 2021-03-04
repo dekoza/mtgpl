@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/scg/pl/>\n"
 "Language: pl\n"
@@ -517,12 +517,18 @@ msgid ""
 "When Day of the Dragons enters the battlefield, exile all creatures you "
 "control. Then create that many 5/5 red Dragon creature tokens with flying."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wszystkie stwory pod twoim "
+"władaniem. Następnie stwórz tyle samo żetonów czerwonego stwora Smok 5/5 z "
+"lataniem."
 
 #: ../../SCG.rst:185
 msgid ""
 "When Day of the Dragons leaves the battlefield, sacrifice all Dragons you "
 "control. Then return the exiled cards to the battlefield under your control."
 msgstr ""
+"Kiedy ten urok opuści pole bitwy, poświęć wszystkie Smoki pod twoim "
+"władaniem. Następnie przywróć wygnane nim karty na pole bitwy pod twoim "
+"władaniem."
 
 #: ../../SCG.rst:194
 msgid ""
@@ -917,13 +923,15 @@ msgstr ""
 
 #: ../../SCG.rst:329
 msgid "Bladewing's Thrall has flying as long as you control a Dragon."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile władasz Smokiem."
 
 #: ../../SCG.rst:331
 msgid ""
 "When a Dragon enters the battlefield, you may return Bladewing's Thrall from "
 "your graveyard to the battlefield."
 msgstr ""
+"Kiedy Smok wejdzie na pole bitwy, możesz przywróć tę kartę z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../SCG.rst:336
 msgid ""
@@ -2142,6 +2150,8 @@ msgid ""
 "When Bladewing the Risen enters the battlefield, you may return target "
 "Dragon permanent card from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Smoka z twojego cmentarza na pole bitwy."
 
 #: ../../SCG.rst:779
 msgid "|mana_b|\\ |mana_r|: Dragon creatures get +1/+1 until end of turn."

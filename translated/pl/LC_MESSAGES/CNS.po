@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -2429,6 +2429,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Vent Sentinel deals damage to target player or "
 "planeswalker equal to the number of creatures with defender you control."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|: Ten stwór zadaje wskazanemu graczowi lub "
+"wędrowcowi tyle obrażeń, ile masz stworów z obronnością we władaniu."
 
 #: ../../CNS.rst:860
 msgid ""
@@ -2943,15 +2945,17 @@ msgid ""
 "Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on "
 "Spiritmonger."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia stworowi, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../CNS.rst:1033
 msgid "|mana_b|: Regenerate Spiritmonger."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../CNS.rst:1035
 msgid ""
 "|mana_g|: Spiritmonger becomes the color of your choice until end of turn."
-msgstr ""
+msgstr "|mana_g|: Ten stwór do końca tury jest wybranego przez ciebie koloru."
 
 #: ../../CNS.rst:1042
 msgid ""

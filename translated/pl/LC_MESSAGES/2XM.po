@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -4117,6 +4117,7 @@ msgstr ""
 msgid ""
 "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)"
 msgstr ""
+"Niezniszczalność (Efekty mówiące \"zniszcz\" nie niszczą tego artefaktu.)"
 
 #: ../../2XM.rst:1329
 msgid "Equipped creature gets +2/+0."
@@ -4578,6 +4579,8 @@ msgid ""
 "|tap|, Sacrifice Mishra's Bauble: Look at the top card of target player's "
 "library. Draw a card at the beginning of the next turn's upkeep."
 msgstr ""
+"|tap|, poświęć ten artefakt: Spójrz na wierzchnią kartę biblioteki "
+"wskazanego gracza. Dobierz kartę na początku kroku utrzymania następnej tury."
 
 #: ../../2XM.rst:1484
 msgid ""
@@ -4659,7 +4662,7 @@ msgstr ""
 
 #: ../../2XM.rst:1505
 msgid "|mana_4|, |tap|: Put a fate counter on target permanent."
-msgstr ""
+msgstr "|mana_4|, |tap|: Umieść znacznik losu na wskazanym permanencie."
 
 #: ../../2XM.rst:1507
 msgid ""
@@ -4667,6 +4670,9 @@ msgid ""
 "without a fate counter on it, then remove all fate counters from all "
 "permanents."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent bez "
+"znacznika losu, następnie usuń wszystkie znaczniki losu ze wszystkich "
+"permanentów."
 
 #: ../../2XM.rst:1512
 msgid ""
@@ -4752,6 +4758,8 @@ msgid ""
 "When Sandstone Oracle enters the battlefield, choose an opponent. If that "
 "player has more cards in hand than you, draw cards equal to the difference."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wybierz przeciwnika. Jeśli ów gracz "
+"ma więcej kart w ręce niż ty, dobierz tyle kart, ile wynosi różnica."
 
 #: ../../2XM.rst:1546
 msgid ""

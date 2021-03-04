@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -172,6 +172,8 @@ msgid ""
 "Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your "
 "choice would deal this turn."
 msgstr ""
+"Poświęć tego stwora: Zażegnaj wszystkie obrażenia, jakie wybrane przez "
+"ciebie czerwone źródło mogłoby zadać w tej turze."
 
 #: ../../LRW.rst:60
 msgid ""
@@ -923,7 +925,7 @@ msgstr "Przywróć wskazany permanent do ręki właściciela."
 
 #: ../../LRW.rst:323
 msgid "Tap all creatures your opponents control."
-msgstr ""
+msgstr "Przekręć wszystkie stwory pod władaniem twoich przeciwników."
 
 #: ../../LRW.rst:325 ../../LRW.rst:461 ../../LRW.rst:665 ../../LRW.rst:1047
 #: ../../LRW.rst:1243 ../../LRW.rst:1249
@@ -3935,7 +3937,7 @@ msgstr ""
 
 #: ../../LRW.rst:1427
 msgid "Sacrifice Moonglove Extract: It deals 2 damage to any target."
-msgstr ""
+msgstr "Poświęć ten artefakt: Zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../LRW.rst:1432
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 16:20+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -3079,12 +3079,12 @@ msgstr ""
 #: ../../FUT.rst:1031
 msgid ""
 "|tap|: Add |mana_w|. Activate this ability only if you control an Island."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|. Możesz aktywować tylko jeśli władasz Wyspą."
 
 #: ../../FUT.rst:1033
 msgid ""
 "|tap|: Add |mana_u|. Activate this ability only if you control a Plains."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|. Możesz aktywować tylko jeśli władasz Równiną."
 
 #: ../../FUT.rst:1038
 msgid ""
@@ -3097,6 +3097,8 @@ msgstr ""
 msgid ""
 "|tap|: Add |mana_u|. If you played a land this turn, add |mana_b| instead."
 msgstr ""
+"|tap|: Weź |mana_u|. Jeśli zagrałeś ten ląd w tej turze, zamiast tego weź "
+"|mana_b|."
 
 #: ../../FUT.rst:1043
 msgid ""

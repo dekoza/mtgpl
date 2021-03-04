@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-04 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/chk/pl/>\n"
 "Language: pl\n"
@@ -748,6 +748,9 @@ msgid ""
 "When Yosei, the Morning Star dies, target player skips their next untap "
 "step. Tap up to five target permanents that player controls."
 msgstr ""
+"Kiedy ten stwór umrze, wskazany gracz pomija swój najbliższy krok "
+"odkręcania. Przekręć co najwyżej pięć wskazanych permanentów pod władaniem "
+"owego gracza."
 
 #: ../../CHK.rst:276
 msgid ""
@@ -1064,7 +1067,7 @@ msgstr ""
 
 #: ../../CHK.rst:377
 msgid "When Keiga, the Tide Star dies, gain control of target creature."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zyskaj władanie nad wskazanym stworem."
 
 #: ../../CHK.rst:384
 msgid ""
@@ -1776,6 +1779,8 @@ msgid ""
 "When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain "
 "life equal to the life lost this way."
 msgstr ""
+"Kiedy ten stwór umrze, każdy przeciwnik traci po 5 żyć. Zyskaj tyle żyć, ile "
+"stracono w ten sposób."
 
 #: ../../CHK.rst:660
 msgid ""
@@ -1974,7 +1979,7 @@ msgstr ""
 
 #: ../../CHK.rst:719
 msgid "All creatures get -1/-1."
-msgstr ""
+msgstr "Wszystkie stwory dostają -1/-1."
 
 #: ../../CHK.rst:726
 msgid ""
@@ -2728,6 +2733,7 @@ msgid ""
 "When Ryusei, the Falling Star dies, it deals 5 damage to each creature "
 "without flying."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje on każdemu stworowi bez latania po 5 obrażeń."
 
 #: ../../CHK.rst:998
 msgid ""
@@ -3163,6 +3169,8 @@ msgid ""
 "When Jugan, the Rising Star dies, you may distribute five +1/+1 counters "
 "among any number of target creatures."
 msgstr ""
+"Kiedy ten stwór umrze, możesz rozmieścić pięć znaczników +1/+1 między "
+"dowolną liczbą wskazanych stworów."
 
 #: ../../CHK.rst:1146
 msgid ""
