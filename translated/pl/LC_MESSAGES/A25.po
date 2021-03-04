@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -1183,6 +1183,9 @@ msgid ""
 "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "an Island card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
+"Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../A25.rst:390
 msgid ""
@@ -1792,13 +1795,16 @@ msgstr ""
 
 #: ../../A25.rst:593
 msgid "|mana_b|: Regenerate Twisted Abomination."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../A25.rst:595
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
+"Bagnocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../A25.rst:602
 msgid ""
@@ -2667,6 +2673,9 @@ msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Forest card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
+"Lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"twoją bibliotekę.)"
 
 #: ../../A25.rst:874
 msgid ""

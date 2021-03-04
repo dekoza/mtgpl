@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/7ed/pl/>\n"
 "Language: pl\n"
@@ -1069,6 +1069,9 @@ msgid ""
 "Counter target spell. If that spell is countered this way, put it on top of "
 "its owner's library instead of into that player's graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jeśli ów czar zostanie skontrowany w ten sposób, "
+"umieść go na wierzchu biblioteki właściciela zamiast w cmentarzu owego "
+"gracza."
 
 #: ../../7ED.rst:402
 msgid ""
@@ -1132,7 +1135,7 @@ msgstr ""
 
 #: ../../7ED.rst:421
 msgid "|tap|: Prodigal Sorcerer deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../7ED.rst:426
 msgid ""
@@ -1785,7 +1788,7 @@ msgstr ""
 
 #: ../../7ED.rst:671
 msgid "As an additional cost to cast this spell, pay X life."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — zapłać X żyć."
 
 #: ../../7ED.rst:673
 msgid "Draw X cards."

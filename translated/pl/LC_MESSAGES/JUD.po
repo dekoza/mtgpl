@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jud/pl/>\n"
 "Language: pl\n"
@@ -391,7 +391,7 @@ msgstr ""
 
 #: ../../JUD.rst:129
 msgid "Skip your draw step."
-msgstr ""
+msgstr "Pomiń swój krok dobierania."
 
 #: ../../JUD.rst:131
 msgid "You have shroud. (You can't be the target of spells or abilities.)"
@@ -748,6 +748,9 @@ msgid ""
 "Search target player's library for up to three cards with flashback and put "
 "them into that player's graveyard. Then the player shuffles their library."
 msgstr ""
+"Wyszukaj w bibliotece wskazanego gracza co najwyżej trzy karty mające "
+"wspomnienie i umieść je w cmentarzu owego gracza. Następnie ów gracz tasuje "
+"swoją bibliotekę."
 
 #: ../../JUD.rst:266
 msgid ""
@@ -825,6 +828,8 @@ msgid ""
 "As long as Wonder is in your graveyard and you control an Island, creatures "
 "you control have flying."
 msgstr ""
+"O ile ta karta jest w twoim cmentarzu oraz władasz Wyspą, stwory pod twoim "
+"władaniem mają latanie."
 
 #: ../../JUD.rst:290
 msgid ""
@@ -968,12 +973,16 @@ msgid ""
 "Choose a nonland card name. Target player reveals their hand and discards "
 "all cards with that name."
 msgstr ""
+"Nazwij nielądową kartę. Wskazany gracz ujawnia swoją rękę i odrzuca "
+"wszystkie karty o tej nazwie."
 
 #: ../../JUD.rst:337
 msgid ""
 "Flashback—Sacrifice a creature. (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—Poświęć stwora. (Możesz rzucić tę kartę z twojego cmentarza za "
+"koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../JUD.rst:342
 msgid ""

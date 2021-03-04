@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1320,6 +1320,8 @@ msgid ""
 "As long as Wonder is in your graveyard and you control an Island, creatures "
 "you control have flying."
 msgstr ""
+"O ile ta karta jest w twoim cmentarzu oraz władasz Wyspą, stwory pod twoim "
+"władaniem mają latanie."
 
 #: ../../C13.rst:404
 msgid ""
@@ -1791,12 +1793,12 @@ msgstr ""
 
 #: ../../C13.rst:541
 msgid "As an additional cost to cast this spell, pay X life."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — zapłać X żyć."
 
 # 6f14148884f249e78ff607f764c50ef5
 #: ../../C13.rst:543
 msgid "All creatures get -X/-X until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają do końca tury -X/-X."
 
 #: ../../C13.rst:548
 msgid ""

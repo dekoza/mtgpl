@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 23:26+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -231,7 +231,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../TSP.rst:73
 msgid "Enchanted creature's activated abilities can't be activated."
-msgstr ""
+msgstr "Nie można aktywować zdolności zauroczonego stwora."
 
 #: ../../TSP.rst:75
 msgid "|mana_1|\\ |mana_w|: Attach Detainment Spell to target creature."
@@ -1422,6 +1422,8 @@ msgstr "Inne stwory pod twoim władaniem mające latanie dostają +0/+1."
 msgid ""
 "|tap|: Other creatures you control with flying get +1/+0 until end of turn."
 msgstr ""
+"|tap|: Inne stwory mające latanie pod twoim władaniem dostają do końca tury +"
+"1/+0."
 
 #: ../../TSP.rst:510
 msgid ""

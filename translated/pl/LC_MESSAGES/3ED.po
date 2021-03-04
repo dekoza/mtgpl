@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/3ed/pl/>\n"
 "Language: pl\n"
@@ -365,7 +365,7 @@ msgstr "Zauroczony stwór dostaje +0/+2."
 
 #: ../../3ED.rst:119
 msgid "|mana_w|: Enchanted creature gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Zauroczony stwór dostaje do końca tury +0/+1."
 
 #: ../../3ED.rst:126
 msgid ""
@@ -1051,7 +1051,7 @@ msgstr ""
 
 #: ../../3ED.rst:373
 msgid "|tap|: Prodigal Sorcerer deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../3ED.rst:380
 msgid ""
@@ -1296,7 +1296,7 @@ msgstr ""
 
 #: ../../3ED.rst:465
 msgid "Enchant creature card in a graveyard"
-msgstr ""
+msgstr "Zaurocz kartę stwora w cmentarzu"
 
 #: ../../3ED.rst:467
 msgid ""
@@ -1307,10 +1307,15 @@ msgid ""
 "Animate Dead leaves the battlefield, that creature's controller sacrifices "
 "it."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, jeśli jest na polu bitwy, traci "
+"\"zaurocz kartę stwora w cmentarzu\" i zyskuje \"zaurocz kartę stwora "
+"umieszczonego tą kartą na polu bitwy.\" Przywróć zauroczoną kartę stwora z "
+"cmentarza na pole bitwy pod twoim władaniem i dołącz do niego ten urok. "
+"Kiedy ten urok opuści pole bitwy, władca owego stwora poświęca go."
 
 #: ../../3ED.rst:469
 msgid "Enchanted creature gets -1/-0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -1/-0."
 
 #: ../../3ED.rst:474
 msgid ""

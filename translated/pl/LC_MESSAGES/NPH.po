@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -793,6 +793,8 @@ msgid ""
 "Imprint — When Phyrexian Ingester enters the battlefield, you may exile "
 "target nontoken creature."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazanego "
+"nieżetonowego stwora."
 
 # f92a126fea994c72b437f15bcb0561fc
 #: ../../NPH.rst:263
@@ -800,6 +802,8 @@ msgid ""
 "Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power "
 "and Y is its toughness."
 msgstr ""
+"Ten stwór dostaje +X/+Y, gdzie X jest siłą wygnanej karty, a Y jej "
+"wytrzymałością."
 
 #: ../../NPH.rst:270
 msgid ""

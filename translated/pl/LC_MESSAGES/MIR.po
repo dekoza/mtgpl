@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -1147,6 +1147,9 @@ msgid ""
 "Counter target spell. If that spell is countered this way, put it on top of "
 "its owner's library instead of into that player's graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jeśli ów czar zostanie skontrowany w ten sposób, "
+"umieść go na wierzchu biblioteki właściciela zamiast w cmentarzu owego "
+"gracza."
 
 #: ../../MIR.rst:420
 msgid ""
@@ -1247,6 +1250,8 @@ msgid ""
 "Search your library for an instant or sorcery card and reveal that card. "
 "Shuffle your library, then put the card on top of it."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu i ujawnij ją. "
+"Przetasuj twoją bibliotekę, następnie umieść ową kartę na jej wierzchu."
 
 #: ../../MIR.rst:452
 msgid ""
@@ -1545,6 +1550,8 @@ msgid ""
 "Create a 5/5 blue Wall creature token with defender. Sacrifice it at the "
 "beginning of the next end step."
 msgstr ""
+"Stwórz żeton niebieskiego stwora Ściana 5/5 z obronnością. Poświęć go na "
+"początku najbliższego kroku końcowego."
 
 #: ../../MIR.rst:572
 msgid ""
@@ -2149,7 +2156,7 @@ msgstr ""
 #: ../../MIR.rst:789
 msgid ""
 "When Skulking Ghost becomes the target of a spell or ability, sacrifice it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../MIR.rst:796
 msgid ""

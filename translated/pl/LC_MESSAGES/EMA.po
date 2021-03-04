@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 20:24+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
 "Language: pl\n"
@@ -844,7 +844,7 @@ msgstr ""
 
 #: ../../EMA.rst:269
 msgid "Giant Tortoise gets +0/+3 as long as it's untapped."
-msgstr ""
+msgstr "Ten stwór dostaje +0/+3 o ile jest odkręcony."
 
 #: ../../EMA.rst:274
 msgid ""
@@ -868,6 +868,8 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, draw a card for each Shrine you control."
 msgstr ""
+"Na początku twojego kroku utrzymania dobierz kartę za każdą Kapliczkę pod "
+"twoim władaniem."
 
 #: ../../EMA.rst:286
 msgid ""
@@ -882,11 +884,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../EMA.rst:283
 msgid "Counter target spell if it's red."
-msgstr ""
+msgstr "Skontruj wskazany czar jeśli jest czerwony."
 
 #: ../../EMA.rst:285
 msgid "Destroy target permanent if it's red."
-msgstr ""
+msgstr "Zniszcz wskazany permanent jeśli jest czerwony."
 
 #: ../../EMA.rst:294
 msgid ""
@@ -954,6 +956,8 @@ msgid ""
 "Whenever Jetting Glasskite becomes the target of a spell or ability for the "
 "first time each turn, counter that spell or ability."
 msgstr ""
+"Ilekroć ten stwór zostanie wskazany przez czar lub zdolność po raz pierwszy "
+"w danej turze, skontruj ów czar lub zdolność."
 
 #: ../../EMA.rst:314
 msgid ""
@@ -982,6 +986,9 @@ msgid ""
 "Counter target spell. If that spell is countered this way, put it on top of "
 "its owner's library instead of into that player's graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jeśli ów czar zostanie skontrowany w ten sposób, "
+"umieść go na wierzchu biblioteki właściciela zamiast w cmentarzu owego "
+"gracza."
 
 #: ../../EMA.rst:322
 msgid ""
@@ -1006,6 +1013,8 @@ msgid ""
 "Search your library for an instant or sorcery card and reveal that card. "
 "Shuffle your library, then put the card on top of it."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu i ujawnij ją. "
+"Przetasuj twoją bibliotekę, następnie umieść ową kartę na jej wierzchu."
 
 #: ../../EMA.rst:332
 msgid ""
@@ -1035,7 +1044,7 @@ msgstr ""
 
 #: ../../EMA.rst:337
 msgid "When Peregrine Drake enters the battlefield, untap up to five lands."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, odkręć co najwyżej sześć lądów."
 
 #: ../../EMA.rst:342
 msgid ""
@@ -1056,12 +1065,16 @@ msgid ""
 "Imprint — When Phyrexian Ingester enters the battlefield, you may exile "
 "target nontoken creature."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazanego "
+"nieżetonowego stwora."
 
 #: ../../EMA.rst:347
 msgid ""
 "Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power "
 "and Y is its toughness."
 msgstr ""
+"Ten stwór dostaje +X/+Y, gdzie X jest siłą wygnanej karty, a Y jej "
+"wytrzymałością."
 
 #: ../../EMA.rst:352
 msgid ""
@@ -1072,7 +1085,7 @@ msgstr ""
 
 #: ../../EMA.rst:351
 msgid "|tap|: Prodigal Sorcerer deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../EMA.rst:356
 msgid ""
@@ -1086,6 +1099,9 @@ msgid ""
 "Search target player's library for up to three cards with flashback and put "
 "them into that player's graveyard. Then the player shuffles their library."
 msgstr ""
+"Wyszukaj w bibliotece wskazanego gracza co najwyżej trzy karty mające "
+"wspomnienie i umieść je w cmentarzu owego gracza. Następnie ów gracz tasuje "
+"swoją bibliotekę."
 
 #: ../../EMA.rst:360
 msgid ""
@@ -1122,6 +1138,9 @@ msgid ""
 "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "an Island card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
+"Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../EMA.rst:378
 msgid ""
@@ -1157,6 +1176,8 @@ msgstr "Inne stwory pod twoim władaniem mające latanie dostają +0/+1."
 msgid ""
 "|tap|: Other creatures you control with flying get +1/+0 until end of turn."
 msgstr ""
+"|tap|: Inne stwory mające latanie pod twoim władaniem dostają do końca tury +"
+"1/+0."
 
 #: ../../EMA.rst:394
 msgid ""
@@ -1167,11 +1188,11 @@ msgstr ""
 
 #: ../../EMA.rst:391
 msgid "When Stupefying Touch enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../EMA.rst:393
 msgid "Enchanted creature's activated abilities can't be activated."
-msgstr ""
+msgstr "Nie można aktywować zdolności zauroczonego stwora."
 
 #: ../../EMA.rst:398
 msgid ""
@@ -1185,6 +1206,8 @@ msgid ""
 "Create a 5/5 blue Wall creature token with defender. Sacrifice it at the "
 "beginning of the next end step."
 msgstr ""
+"Stwórz żeton niebieskiego stwora Ściana 5/5 z obronnością. Poświęć go na "
+"początku najbliższego kroku końcowego."
 
 #: ../../EMA.rst:404
 msgid ""
@@ -1210,6 +1233,8 @@ msgid ""
 "As long as Wonder is in your graveyard and you control an Island, creatures "
 "you control have flying."
 msgstr ""
+"O ile ta karta jest w twoim cmentarzu oraz władasz Wyspą, stwory pod twoim "
+"władaniem mają latanie."
 
 #: ../../EMA.rst:418
 msgid ""
@@ -1220,7 +1245,7 @@ msgstr ""
 
 #: ../../EMA.rst:413
 msgid "Enchant creature card in a graveyard"
-msgstr ""
+msgstr "Zaurocz kartę stwora w cmentarzu"
 
 #: ../../EMA.rst:415
 msgid ""
@@ -1231,10 +1256,15 @@ msgid ""
 "Animate Dead leaves the battlefield, that creature's controller sacrifices "
 "it."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, jeśli jest na polu bitwy, traci "
+"\"zaurocz kartę stwora w cmentarzu\" i zyskuje \"zaurocz kartę stwora "
+"umieszczonego tą kartą na polu bitwy.\" Przywróć zauroczoną kartę stwora z "
+"cmentarza na pole bitwy pod twoim władaniem i dołącz do niego ten urok. "
+"Kiedy ten urok opuści pole bitwy, władca owego stwora poświęca go."
 
 #: ../../EMA.rst:417
 msgid "Enchanted creature gets -1/-0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -1/-0."
 
 #: ../../EMA.rst:424
 msgid ""
@@ -1286,6 +1316,8 @@ msgid ""
 "At the beginning of each player's upkeep, that player sacrifices an "
 "artifact, creature, or land."
 msgstr ""
+"Na początku kroku utrzymania każdego gracza, ów gracz poświęca artefakt, "
+"stwora lub ląd."
 
 #: ../../EMA.rst:442
 msgid ""
@@ -1299,12 +1331,16 @@ msgid ""
 "Choose a nonland card name. Target player reveals their hand and discards "
 "all cards with that name."
 msgstr ""
+"Nazwij nielądową kartę. Wskazany gracz ujawnia swoją rękę i odrzuca "
+"wszystkie karty o tej nazwie."
 
 #: ../../EMA.rst:441
 msgid ""
 "Flashback—Sacrifice a creature. (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—Poświęć stwora. (Możesz rzucić tę kartę z twojego cmentarza za "
+"koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../EMA.rst:448
 msgid ""
@@ -1359,6 +1395,8 @@ msgid ""
 "Search your library for a card and put that card into your graveyard. Then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj kartę w twojej bibliotece i umieść ją w twoim cmentarzu. Następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../EMA.rst:464
 msgid ""
@@ -1369,7 +1407,7 @@ msgstr ""
 
 #: ../../EMA.rst:463
 msgid "Destroy target non-Elf creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora bez typu Elf."
 
 #: ../../EMA.rst:468
 msgid ""
@@ -1395,7 +1433,7 @@ msgstr ""
 
 #: ../../EMA.rst:473
 msgid "When Havoc Demon dies, all creatures get -5/-5 until end of turn."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wszystkie stwory dostają do końca tury -5/-5."
 
 #: ../../EMA.rst:478
 msgid ""
@@ -1409,6 +1447,8 @@ msgid ""
 "At the beginning of your upkeep, target opponent discards a card for each "
 "Shrine you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, wskazany przeciwnik odrzuca tyle kart, "
+"iloma Kapliczkami władasz."
 
 #: ../../EMA.rst:482
 msgid ""
@@ -1419,7 +1459,7 @@ msgstr ""
 
 #: ../../EMA.rst:481
 msgid "Target player discards two cards at random."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie losowe karty."
 
 #: ../../EMA.rst:490
 msgid ""
@@ -1435,7 +1475,7 @@ msgstr "Pośpiech"
 
 #: ../../EMA.rst:487
 msgid "At the beginning of the end step, sacrifice Ichorid."
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, poświęć tego stwora."
 
 #: ../../EMA.rst:489
 msgid ""
@@ -1443,6 +1483,9 @@ msgid ""
 "exile a black creature card other than Ichorid from your graveyard. If you "
 "do, return Ichorid to the battlefield."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ta karta jest w twoim cmentarzu, "
+"możesz wygnać z twojego cmentarza kartę czarnego stwora inną niż niniejsza. "
+"Jeśli tak zrobisz, przywróć niniejszą kartę na pole bitwy."
 
 #: ../../EMA.rst:494
 msgid ""
@@ -1467,6 +1510,8 @@ msgid ""
 "|tap|, Discard an Elf card: Target creature gets -X/-X until end of turn, "
 "where X is the number of Elves you control."
 msgstr ""
+"|tap|, odrzuć kartę Elfa: Wskazany stwór dostaje do końca tury -X/-X, gdzie "
+"X jest liczbą Elfów pod twoim władaniem."
 
 #: ../../EMA.rst:504
 msgid ""
@@ -1480,6 +1525,8 @@ msgid ""
 "Morbid — When you cast this spell, if a creature died this turn, you may "
 "copy Malicious Affliction and may choose a new target for the copy."
 msgstr ""
+"Okropność — Kiedy rzucisz ten czar, jeśli w tej turze umarł stwór, możesz "
+"skopiować ten czar i możesz wskazać nowe cele dla kopii."
 
 #: ../../EMA.rst:503
 msgid "Destroy target nonblack creature."
@@ -1505,7 +1552,7 @@ msgstr ""
 
 #: ../../EMA.rst:511
 msgid "Skip your draw step."
-msgstr ""
+msgstr "Pomiń swój krok dobierania."
 
 #: ../../EMA.rst:513
 msgid "Whenever you discard a card, exile that card from your graveyard."
@@ -1516,6 +1563,8 @@ msgid ""
 "Pay 1 life: Exile the top card of your library face down. Put that card into "
 "your hand at the beginning of your next end step."
 msgstr ""
+"Zapłać 1 życie: Wygnaj wierzchnią kartę twojej biblioteki jako zakrytą. "
+"Umieść ją w twojej ręce na początku twojego najbliższego kroku końcowego."
 
 #: ../../EMA.rst:522
 msgid ""
@@ -1529,6 +1578,8 @@ msgid ""
 "When Nekrataal enters the battlefield, destroy target nonartifact, nonblack "
 "creature. That creature can't be regenerated."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
+"nieczarnego stwora. Ów stwór nie może zregenerować."
 
 #: ../../EMA.rst:526
 msgid ""
@@ -1580,6 +1631,7 @@ msgid ""
 "|mana_b|, |tap|, Discard a card: Target creature gets -1/-1 until end of "
 "turn."
 msgstr ""
+"|mana_b|, |tap|, odrzuć kartę: Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../EMA.rst:542
 msgid ""
@@ -1593,6 +1645,8 @@ msgid ""
 "When Prowling Pangolin enters the battlefield, any player may sacrifice two "
 "creatures. If a player does, sacrifice Prowling Pangolin."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dowolny gracz może poświęcić dwa "
+"stwory. Jeśli tak zrobi, poświęć tego stwora."
 
 #: ../../EMA.rst:548
 msgid ""
@@ -1606,10 +1660,12 @@ msgid ""
 "When Sengir Autocrat enters the battlefield, create three 0/1 black Serf "
 "creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony czarnego stwora "
+"Kmieć 0/1."
 
 #: ../../EMA.rst:547
 msgid "When Sengir Autocrat leaves the battlefield, exile all Serf tokens."
-msgstr ""
+msgstr "Kiedy ten stwór opuści pole bitwy, wygnaj wszystkie żetony Kmieci."
 
 #: ../../EMA.rst:552
 msgid ""
@@ -1632,7 +1688,7 @@ msgstr ""
 #: ../../EMA.rst:557
 msgid ""
 "When Skulking Ghost becomes the target of a spell or ability, sacrifice it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../EMA.rst:564
 msgid ""
@@ -1643,11 +1699,11 @@ msgstr ""
 
 #: ../../EMA.rst:561
 msgid "As an additional cost to cast this spell, pay X life."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — zapłać X żyć."
 
 #: ../../EMA.rst:563
 msgid "All creatures get -X/-X until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają do końca tury -X/-X."
 
 #: ../../EMA.rst:570
 msgid ""
@@ -1665,6 +1721,8 @@ msgid ""
 "Morbid — That creature gets -13/-13 until end of turn instead if a creature "
 "died this turn."
 msgstr ""
+"Okropność — Ów stwór zamiast tego dostaje do końca tury -13/-13 jeśli w tej "
+"turze umarł stwór."
 
 #: ../../EMA.rst:576
 msgid ""
@@ -1675,13 +1733,16 @@ msgstr ""
 
 #: ../../EMA.rst:573
 msgid "|mana_b|: Regenerate Twisted Abomination."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../EMA.rst:575
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
+"Bagnocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../EMA.rst:582
 msgid ""
@@ -1709,6 +1770,8 @@ msgid ""
 "Search your library for a card, then shuffle your library and put that card "
 "on top of it. You lose 2 life."
 msgstr ""
+"Wyszukaj kartę w twojej bibliotece, następnie przetasuj twoją bibliotekę i "
+"umieść ową kartę na jej wierzchu. Strać 2 życia."
 
 #: ../../EMA.rst:590
 msgid ""
@@ -1722,6 +1785,8 @@ msgid ""
 "Choose two target creature cards in your graveyard. Sacrifice a creature. If "
 "you do, return the chosen cards to the battlefield tapped."
 msgstr ""
+"Wskaż dwie karty stworów w twoim cmentarzu. Poświęć stwora. Jeśli tak "
+"zrobisz, przywróć wybrane karty przekręcone na pole bitwy."
 
 #: ../../EMA.rst:596
 msgid ""
@@ -1732,7 +1797,7 @@ msgstr ""
 
 #: ../../EMA.rst:595
 msgid "|tap|: Destroy target creature. It can't be regenerated."
-msgstr ""
+msgstr "|tap|: Zniszcz wskazanego stwora. Nie może regenerować."
 
 #: ../../EMA.rst:602
 msgid ""
@@ -1743,7 +1808,7 @@ msgstr ""
 
 #: ../../EMA.rst:601
 msgid "|mana_1|\\ |mana_b|, Sacrifice a creature: Regenerate Wake of Vultures."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć stwora: Zregeneruj tego stwora."
 
 #: ../../EMA.rst:606
 msgid ""
@@ -1757,6 +1822,8 @@ msgid ""
 "Morbid — When Wakedancer enters the battlefield, if a creature died this "
 "turn, create a 2/2 black Zombie creature token."
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../EMA.rst:614
 msgid ""

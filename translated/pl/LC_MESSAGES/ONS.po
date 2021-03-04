@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -2451,6 +2451,8 @@ msgid ""
 "When Prowling Pangolin enters the battlefield, any player may sacrifice two "
 "creatures. If a player does, sacrifice Prowling Pangolin."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dowolny gracz może poświęcić dwa "
+"stwory. Jeśli tak zrobi, poświęć tego stwora."
 
 #: ../../ONS.rst:888
 msgid ""
@@ -2642,7 +2644,7 @@ msgstr ""
 
 #: ../../ONS.rst:961
 msgid "|tap|: Destroy target creature. It can't be regenerated."
-msgstr ""
+msgstr "|tap|: Zniszcz wskazanego stwora. Nie może regenerować."
 
 #: ../../ONS.rst:966
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -113,11 +113,11 @@ msgstr ""
 
 #: ../../5ED.rst:37
 msgid "|mana_w|, Sacrifice an enchantment: Destroy target enchantment."
-msgstr ""
+msgstr "|mana_w|, poświęć urok: Zniszcz wskazany urok."
 
 #: ../../5ED.rst:39
 msgid "|mana_3|\\ |mana_u|\\ |mana_u|: Counter target enchantment spell."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|\\ |mana_u|: Skontruj wskazany czar uroku."
 
 #: ../../5ED.rst:44
 msgid ""
@@ -154,7 +154,7 @@ msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../5ED.rst:51
 msgid "|mana_w|: Enchanted creature gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Zauroczony stwór dostaje do końca tury +0/+1."
 
 #: ../../5ED.rst:56
 msgid ""
@@ -1305,11 +1305,11 @@ msgstr ""
 
 #: ../../5ED.rst:473
 msgid "Counter target spell if it's red."
-msgstr ""
+msgstr "Skontruj wskazany czar jeśli jest czerwony."
 
 #: ../../5ED.rst:475
 msgid "Destroy target permanent if it's red."
-msgstr ""
+msgstr "Zniszcz wskazany permanent jeśli jest czerwony."
 
 #: ../../5ED.rst:480
 msgid ""
@@ -1445,6 +1445,9 @@ msgid ""
 "Counter target spell. If that spell is countered this way, put it on top of "
 "its owner's library instead of into that player's graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jeśli ów czar zostanie skontrowany w ten sposób, "
+"umieść go na wierzchu biblioteki właściciela zamiast w cmentarzu owego "
+"gracza."
 
 #: ../../5ED.rst:522
 msgid ""
@@ -1562,7 +1565,7 @@ msgstr ""
 
 #: ../../5ED.rst:567
 msgid "|tap|: Prodigal Sorcerer deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../5ED.rst:574
 msgid ""
@@ -1930,7 +1933,7 @@ msgstr ""
 
 #: ../../5ED.rst:707
 msgid "Enchant creature card in a graveyard"
-msgstr ""
+msgstr "Zaurocz kartę stwora w cmentarzu"
 
 #: ../../5ED.rst:709
 msgid ""
@@ -1941,10 +1944,15 @@ msgid ""
 "Animate Dead leaves the battlefield, that creature's controller sacrifices "
 "it."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, jeśli jest na polu bitwy, traci "
+"\"zaurocz kartę stwora w cmentarzu\" i zyskuje \"zaurocz kartę stwora "
+"umieszczonego tą kartą na polu bitwy.\" Przywróć zauroczoną kartę stwora z "
+"cmentarza na pole bitwy pod twoim władaniem i dołącz do niego ten urok. "
+"Kiedy ten urok opuści pole bitwy, władca owego stwora poświęca go."
 
 #: ../../5ED.rst:711
 msgid "Enchanted creature gets -1/-0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -1/-0."
 
 #: ../../5ED.rst:716
 msgid ""
@@ -2516,7 +2524,7 @@ msgstr ""
 
 #: ../../5ED.rst:923
 msgid "Skip your draw step."
-msgstr ""
+msgstr "Pomiń swój krok dobierania."
 
 #: ../../5ED.rst:925
 msgid "Whenever you discard a card, exile that card from your graveyard."
@@ -2527,6 +2535,8 @@ msgid ""
 "Pay 1 life: Exile the top card of your library face down. Put that card into "
 "your hand at the beginning of your next end step."
 msgstr ""
+"Zapłać 1 życie: Wygnaj wierzchnią kartę twojej biblioteki jako zakrytą. "
+"Umieść ją w twojej ręce na początku twojego najbliższego kroku końcowego."
 
 #: ../../5ED.rst:934
 msgid ""
@@ -2683,10 +2693,12 @@ msgid ""
 "When Sengir Autocrat enters the battlefield, create three 0/1 black Serf "
 "creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony czarnego stwora "
+"Kmieć 0/1."
 
 #: ../../5ED.rst:985
 msgid "When Sengir Autocrat leaves the battlefield, exile all Serf tokens."
-msgstr ""
+msgstr "Kiedy ten stwór opuści pole bitwy, wygnaj wszystkie żetony Kmieci."
 
 #: ../../5ED.rst:990
 msgid ""

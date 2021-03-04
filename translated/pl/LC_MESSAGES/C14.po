@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 13:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -469,6 +469,8 @@ msgid ""
 "Morbid — When you cast this spell, if a creature died this turn, you may "
 "copy Malicious Affliction and may choose a new target for the copy."
 msgstr ""
+"Okropność — Kiedy rzucisz ten czar, jeśli w tej turze umarł stwór, możesz "
+"skopiować ten czar i możesz wskazać nowe cele dla kopii."
 
 #: ../../C14.rst:151
 msgid "Destroy target nonblack creature."
@@ -2083,12 +2085,16 @@ msgid ""
 "Imprint — When Phyrexian Ingester enters the battlefield, you may exile "
 "target nontoken creature."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazanego "
+"nieżetonowego stwora."
 
 #: ../../C14.rst:693
 msgid ""
 "Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power "
 "and Y is its toughness."
 msgstr ""
+"Ten stwór dostaje +X/+Y, gdzie X jest siłą wygnanej karty, a Y jej "
+"wytrzymałością."
 
 #: ../../C14.rst:698
 msgid ""
@@ -2585,6 +2591,8 @@ msgid ""
 "When Nekrataal enters the battlefield, destroy target nonartifact, nonblack "
 "creature. That creature can't be regenerated."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
+"nieczarnego stwora. Ów stwór nie może zregenerować."
 
 #: ../../C14.rst:870
 msgid ""
@@ -2850,6 +2858,8 @@ msgid ""
 "Morbid — That creature gets -13/-13 until end of turn instead if a creature "
 "died this turn."
 msgstr ""
+"Okropność — Ów stwór zamiast tego dostaje do końca tury -13/-13 jeśli w tej "
+"turze umarł stwór."
 
 #: ../../C14.rst:960
 msgid ""
@@ -2875,6 +2885,8 @@ msgid ""
 "Choose two target creature cards in your graveyard. Sacrifice a creature. If "
 "you do, return the chosen cards to the battlefield tapped."
 msgstr ""
+"Wskaż dwie karty stworów w twoim cmentarzu. Poświęć stwora. Jeśli tak "
+"zrobisz, przywróć wybrane karty przekręcone na pole bitwy."
 
 #: ../../C14.rst:970
 msgid ""
