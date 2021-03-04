@@ -3,6 +3,16 @@
 Spis zmian
 ***********
 
+2021-03-04
+   * Magic 2010 - 100%
+   * Magic 2011 - 100%
+   * Magic 2012 - 100%
+   * Eternal Masters - 100%
+
+2021-03-01
+   * Modern Masters 2017 - 100%
+   * Avacyn Restored - 100%
+
 2021-02-22
    * Duża zmiana słownictwa. Combat to teraz "potyczka", battlefield to "pole bitwy",
      a fight to "walka". Dzięki temu znika konflikt nazw między tłumaczeniami
