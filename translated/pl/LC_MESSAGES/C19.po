@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 20:24+0000\n"
+"PO-Revision-Date: 2021-03-04 08:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -1417,7 +1417,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../C19.rst:459
 msgid "When Roc Egg dies, create a 3/3 white Bird creature token with flying."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton białego stwora Ptak 3/3 z lataniem."
 
 #: ../../C19.rst:464
 msgid ""
@@ -1460,6 +1460,9 @@ msgid ""
 "permanent card with converted mana cost 3 or less from your graveyard to the "
 "battlefield."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz przywrócić "
+"wskazaną kartę permanentu o skrócie many 3 lub mniejszy z twojego cmentarza "
+"na pole bitwy."
 
 #: ../../C19.rst:478
 msgid ""
@@ -1707,6 +1710,8 @@ msgstr ""
 #: ../../C19.rst:547
 msgid "Return target instant or sorcery card from your graveyard to your hand."
 msgstr ""
+"Przywróć wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../C19.rst:549 ../../C19.rst:837
 msgid ""
@@ -3257,6 +3262,8 @@ msgid ""
 "Until end of turn, creatures you control gain trample and get +X/+X, where X "
 "is the greatest power among creatures you control."
 msgstr ""
+"Do końca tury stwory pod twoim władaniem zyskują tratowanie i dostają +X/+X, "
+"gdzie X jest największą siłą pośród stworów pod twoim władaniem."
 
 #: ../../C19.rst:1036
 msgid ""

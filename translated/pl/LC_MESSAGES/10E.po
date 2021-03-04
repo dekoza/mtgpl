@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 23:26+0000\n"
+"PO-Revision-Date: 2021-03-04 08:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -224,6 +224,8 @@ msgid ""
 "Put target attacking creature on the bottom of its owner's library. Its "
 "controller gains life equal to its toughness."
 msgstr ""
+"Umieść wskazanego atakującego stwora na spodzie biblioteki właściciela. Jego "
+"władca zyskuje tyle żyć, ile miał wytrzymałości."
 
 #: ../../10E.rst:76
 msgid ""
@@ -957,7 +959,7 @@ msgstr ""
 
 #: ../../10E.rst:351
 msgid "Cloud Elemental can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../10E.rst:358
 msgid ""

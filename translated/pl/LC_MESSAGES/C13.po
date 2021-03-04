@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 23:26+0000\n"
+"PO-Revision-Date: 2021-03-04 08:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1843,6 +1843,8 @@ msgid ""
 "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may "
 "put that card on the bottom of your library.)"
 msgstr ""
+"Poświęć stwora: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../C13.rst:562
 msgid ""
@@ -2105,13 +2107,15 @@ msgstr ""
 # 8d241b80d6074bdeb2084f26d0f0bad9
 #: ../../C13.rst:641
 msgid "|mana_r|: Inferno Titan gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../C13.rst:643
 msgid ""
 "Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage "
 "divided as you choose among one, two, or three targets."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zadaje 3 obrażenia "
+"rozdzielone dowolnie pomiędzy jeden, dwa lub trzy wskazane cele."
 
 #: ../../C13.rst:648
 msgid ""
@@ -4734,7 +4738,7 @@ msgstr ""
 # 3da10629d50543d6ba965bc5adf22a21
 #: ../../C13.rst:1513
 msgid "|tap|: Each player draws a card."
-msgstr ""
+msgstr "|tap|: Każdy gracz dobiera kartę."
 
 #: ../../C13.rst:1520
 msgid ""

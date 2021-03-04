@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 23:26+0000\n"
+"PO-Revision-Date: 2021-03-04 08:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m12/pl/>\n"
 "Language: pl\n"
@@ -462,7 +462,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../M12.rst:163
 msgid "When Roc Egg dies, create a 3/3 white Bird creature token with flying."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton białego stwora Ptak 3/3 z lataniem."
 
 #: ../../M12.rst:168
 msgid ""
@@ -545,6 +545,9 @@ msgid ""
 "permanent card with converted mana cost 3 or less from your graveyard to the "
 "battlefield."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz przywrócić "
+"wskazaną kartę permanentu o skrócie many 3 lub mniejszy z twojego cmentarza "
+"na pole bitwy."
 
 #: ../../M12.rst:200
 msgid ""
@@ -572,6 +575,8 @@ msgid ""
 "When Aether Adept enters the battlefield, return target creature to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora do ręki "
+"właściciela."
 
 #: ../../M12.rst:208
 msgid ""
@@ -747,12 +752,17 @@ msgid ""
 "Whenever Frost Titan becomes the target of a spell or ability an opponent "
 "controls, counter that spell or ability unless its controller pays |mana_2|."
 msgstr ""
+"Ilekroć ten stwór zostanie wskazany przez czar lub zdolność pod władaniem "
+"przeciwnika, skontruj ów czar lub zdolność, chyba że jego władca zapłaci "
+"|mana_2|."
 
 #: ../../M12.rst:273
 msgid ""
 "Whenever Frost Titan enters the battlefield or attacks, tap target "
 "permanent. It doesn't untap during its controller's next untap step."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, przekręć wskazany "
+"permanent. Nie odkręci się on w najbliższym kroku odkręcania swojego władcy."
 
 #: ../../M12.rst:280
 msgid ""
@@ -774,6 +784,8 @@ msgid ""
 "Harbor Serpent can't attack unless there are five or more Islands on the "
 "battlefield."
 msgstr ""
+"Ten stwór nie może atakować, chyba że na polu bitwy jest co najmniej pięć "
+"Wysp."
 
 #: ../../M12.rst:288
 msgid ""
@@ -1060,6 +1072,8 @@ msgid ""
 "Each player shuffles their hand and graveyard into their library, then draws "
 "seven cards. Exile Time Reversal."
 msgstr ""
+"Każdy gracz wtasowuje swoją rękę i cmentarz do swojej biblioteki, następnie "
+"dobiera siedem kart. Wygnaj ten czar."
 
 #: ../../M12.rst:386
 msgid ""
@@ -1345,6 +1359,8 @@ msgid ""
 "Whenever Grave Titan enters the battlefield or attacks, create two 2/2 black "
 "Zombie creature tokens."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, stwórz dwa żetony "
+"czarnego stwora Zombi 2/2."
 
 #: ../../M12.rst:494
 msgid ""
@@ -1775,6 +1791,8 @@ msgid ""
 "Combust deals 5 damage to target white or blue creature. The damage can't be "
 "prevented."
 msgstr ""
+"Ten czar zadaje wskazanemu białemu lub niebieskiemu stworowi 5 obrażeń. Nie "
+"mogą być zażegnane."
 
 #: ../../M12.rst:642
 msgid ""
@@ -2015,13 +2033,15 @@ msgstr ""
 
 #: ../../M12.rst:729
 msgid "|mana_r|: Inferno Titan gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../M12.rst:731
 msgid ""
 "Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage "
 "divided as you choose among one, two, or three targets."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zadaje 3 obrażenia "
+"rozdzielone dowolnie pomiędzy jeden, dwa lub trzy wskazane cele."
 
 #: ../../M12.rst:736
 msgid ""
@@ -2065,7 +2085,7 @@ msgstr ""
 
 #: ../../M12.rst:747
 msgid "When Manic Vandal enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../M12.rst:752
 msgid ""
@@ -2245,6 +2265,9 @@ msgid ""
 "Spells you control can't be countered by blue or black spells this turn, and "
 "creatures you control can't be the targets of blue or black spells this turn."
 msgstr ""
+"Czary pod twoim władaniem nie mogą być w tej turze skontrowane przez "
+"niebieskie lub czarne czary, a stwory pod twoim władaniem nie mogą być w tej "
+"turze wskazywane przez niebieskie lub czarne czary."
 
 #: ../../M12.rst:816
 msgid ""
@@ -2537,6 +2560,9 @@ msgid ""
 "your library for up to two land cards, put them onto the battlefield tapped, "
 "then shuffle your library."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
+"twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../M12.rst:936
 msgid ""
