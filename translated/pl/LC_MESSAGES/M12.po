@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 08:02+0000\n"
+"PO-Revision-Date: 2021-03-04 10:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m12/pl/>\n"
 "Language: pl\n"
@@ -88,11 +88,13 @@ msgid ""
 "Enchanted creature gets +4/+4, has flying and first strike, and is an Angel "
 "in addition to its other types."
 msgstr ""
+"Zauroczony stwór dostaje +4/+4, ma latanie i pierwszy cios oraz jest Aniołem "
+"oprócz swoich innych typów."
 
 #: ../../M12.rst:23
 msgid ""
 "When enchanted creature dies, return Angelic Destiny to its owner's hand."
-msgstr ""
+msgstr "Kiedy zauroczony stwór umrze, przywróć ten urok do ręki właściciela."
 
 #: ../../M12.rst:28
 msgid ""
@@ -118,6 +120,9 @@ msgid ""
 "attacking or blocking creature. Arbalest Elite doesn't untap during your "
 "next untap step."
 msgstr ""
+"|mana_2|\\ |mana_w|, |tap|: Ten stwór zadaje wskazanemu atakującemu lub "
+"blokującemu stworowi 3 obrażenia. Niniejszy stwór nie odkręci się w twoim "
+"następnym kroku odkręcania."
 
 #: ../../M12.rst:38
 msgid ""
@@ -177,7 +182,7 @@ msgstr ""
 
 #: ../../M12.rst:53
 msgid "Whenever Benalish Veteran attacks, it gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1."
 
 #: ../../M12.rst:58
 msgid ""
@@ -246,10 +251,12 @@ msgid ""
 "+2: During target opponent's next turn, creatures that player controls "
 "attack Gideon Jura if able."
 msgstr ""
+"+2: Podczas najbliższej tury wskazanego przeciwnika, stwory pod władaniem "
+"owego gracza atakują niniejszego wędrowca jeśli mogą."
 
 #: ../../M12.rst:83
 msgid "−2: Destroy target tapped creature."
-msgstr ""
+msgstr "–2: Zniszcz wskazanego przekręconego stwora."
 
 #: ../../M12.rst:85
 msgid ""
@@ -257,6 +264,9 @@ msgid ""
 "that's still a planeswalker. Prevent all damage that would be dealt to him "
 "this turn."
 msgstr ""
+"0: Do końca tury ten wędrowiec staje się stworem Człowiek Piechur 6/6 nadal "
+"pozostając wędrowcem. Zażegnaj wszystkie obrażenia, jakie mogłyby mu zostać "
+"zadane w tej turze."
 
 #: ../../M12.rst:90
 msgid ""
@@ -270,6 +280,8 @@ msgid ""
 "Whenever a creature an opponent controls becomes tapped, put a +1/+1 counter "
 "on Gideon's Avenger."
 msgstr ""
+"Ilekroć stwór pod władaniem przeciwnika zostanie przekręcony, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../M12.rst:94
 msgid ""
@@ -294,6 +306,8 @@ msgid ""
 "During your turn, your opponents can't cast spells or activate abilities of "
 "artifacts, creatures, or enchantments."
 msgstr ""
+"Podczas twojej tury twoi przeciwnicy nie mogą rzucać czarów ani aktywować "
+"zdolności artefaktów, stworów lub uroków."
 
 #: ../../M12.rst:102
 msgid ""
@@ -306,7 +320,7 @@ msgstr ""
 msgid ""
 "As long as you control a Griffin creature, Griffin Rider gets +3/+3 and has "
 "flying."
-msgstr ""
+msgstr "O ile władasz Gryfem, niniejszy stwór dostaje +3/+3 i ma latanie."
 
 #: ../../M12.rst:108
 msgid ""
@@ -328,7 +342,7 @@ msgstr ""
 
 #: ../../M12.rst:111
 msgid "White creatures you control get +2/+2 until end of turn."
-msgstr ""
+msgstr "Białe stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../M12.rst:116
 msgid ""
@@ -390,12 +404,16 @@ msgid ""
 "When Oblivion Ring enters the battlefield, exile another target nonland "
 "permanent."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj inny wskazany nielądowy "
+"permanent."
 
 #: ../../M12.rst:135
 msgid ""
 "When Oblivion Ring leaves the battlefield, return the exiled card to the "
 "battlefield under its owner's control."
 msgstr ""
+"Kiedy ten urok opuści pole bitwy, przywróć wygnaną kartę na pole bitwy pod "
+"władaniem właściciela."
 
 #: ../../M12.rst:142
 msgid ""
@@ -433,6 +451,8 @@ msgstr ""
 #: ../../M12.rst:151
 msgid "During your turn, prevent all damage that would be dealt to you."
 msgstr ""
+"Podczas twojej tury zażegnaj wszystkie obrażenia, jakie mogłyby zostać tobie "
+"zadane."
 
 #: ../../M12.rst:158
 msgid ""
@@ -447,7 +467,7 @@ msgstr "Obronność"
 
 #: ../../M12.rst:157
 msgid "Whenever Pride Guardian blocks, you gain 3 life."
-msgstr ""
+msgstr "Ilekroć ten stwór zablokuje, zyskaj 3 życia."
 
 #: ../../M12.rst:164
 msgid ""
@@ -491,7 +511,7 @@ msgstr ""
 
 #: ../../M12.rst:177
 msgid "Enchanted creature gets +1/+1 and has protection from creatures."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma ochronę przed stworami."
 
 #: ../../M12.rst:182
 msgid ""
@@ -505,6 +525,8 @@ msgid ""
 "Target creature gains protection from the color of your choice until end of "
 "turn."
 msgstr ""
+"Wskazany stwór zyskuje do końca tury ochronę przez wybranym przez ciebie "
+"kolorem."
 
 #: ../../M12.rst:186
 msgid ""
@@ -562,6 +584,8 @@ msgid ""
 "fewer creatures than an opponent, create three 1/1 white Soldier creature "
 "tokens."
 msgstr ""
+"Jeśli masz mniej żyć niż przeciwnik, zyskaj 6 żyć. Jeśli masz we władaniu "
+"mniej stworów niż przeciwnik, stwórz trzy żetony białego stwora Piechur 1/1."
 
 #: ../../M12.rst:204
 msgid ""
@@ -663,6 +687,8 @@ msgid ""
 "Whenever Chasm Drake attacks, target creature you control gains flying until "
 "end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wskazany stwór pod twoim władaniem zyskuje do "
+"końca tury latanie."
 
 #: ../../M12.rst:240
 msgid ""
@@ -880,6 +906,8 @@ msgid ""
 "Illusion creatures you control get +1/+1 and have hexproof. (They can't be "
 "the targets of spells or abilities your opponents control.)"
 msgstr ""
+"Iluzje pod twoim władaniem dostają +1/+1 i mają antyklątwę. (Nie mogą być "
+"wskazywane przez czary i zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../M12.rst:316
 msgid ""
@@ -904,6 +932,8 @@ msgid ""
 "When Master Thief enters the battlefield, gain control of target artifact "
 "for as long as you control Master Thief."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie nad wskazanym "
+"artefaktem na czas pozostawania tego stwora pod twoim władaniem."
 
 #: ../../M12.rst:324
 msgid ""
@@ -950,6 +980,8 @@ msgid ""
 "At the beginning of your upkeep, put a lore counter on Mind Unbound, then "
 "draw a card for each lore counter on Mind Unbound."
 msgstr ""
+"Na początku twojego kroku utrzymania umieść znacznik opowieści na tym uroku, "
+"następnie dobierz kartę za każdy znacznik opowieści na tym uroku."
 
 #: ../../M12.rst:342
 msgid ""
@@ -972,7 +1004,7 @@ msgstr ""
 #: ../../M12.rst:345
 msgid ""
 "When Phantasmal Bear becomes the target of a spell or ability, sacrifice it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../M12.rst:352
 msgid ""
@@ -985,7 +1017,7 @@ msgstr ""
 msgid ""
 "When Phantasmal Dragon becomes the target of a spell or ability, sacrifice "
 "it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../M12.rst:356
 msgid ""
@@ -1044,7 +1076,7 @@ msgstr ""
 
 #: ../../M12.rst:371
 msgid "Skywinder Drake can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../M12.rst:378
 msgid ""
@@ -1059,6 +1091,9 @@ msgid ""
 "your library. An opponent separates those cards into two piles. Put one pile "
 "into your hand and the other into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij pięć wierzchnich kart twojej "
+"biblioteki. Przeciwnik dzieli owe karty na dwa stosy. Umieść jeden stos w "
+"twojej ręce, a pozostały w twoim cmentarzu."
 
 #: ../../M12.rst:382
 msgid ""
@@ -1113,6 +1148,8 @@ msgid ""
 "Draw a card. If a graveyard has twenty or more cards in it, draw three cards "
 "instead."
 msgstr ""
+"Dobierz kartę. Jeśli jakiś cmentarz ma co najmniej dwadzieścia kart, zamiast "
+"tego dobierz trzy karty."
 
 #: ../../M12.rst:398
 msgid ""
@@ -1126,6 +1163,8 @@ msgid ""
 "Whenever a creature enters the battlefield under an opponent's control, you "
 "may have that player lose 1 life."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod władaniem przeciwnika, możesz "
+"sprawić, że ów gracz straci 1 życie."
 
 #: ../../M12.rst:406
 msgid ""
@@ -1139,10 +1178,12 @@ msgid ""
 "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature "
 "enters the battlefield with three +1/+1 counters on it.)"
 msgstr ""
+"Głód krwi 3 (Jeśli przeciwnik otrzymał obrażenia w tej turze, ten stwór "
+"wchodzi na pole bitwy mając trzy znaczniki +1/+1.)"
 
 #: ../../M12.rst:405
 msgid "Whenever you cast a Vampire creature spell, it gains bloodthirst 3."
-msgstr ""
+msgstr "Ilekroć rzucisz czar Wampira, zyskuje on głód krwi 3."
 
 #: ../../M12.rst:410
 msgid ""
@@ -1156,6 +1197,8 @@ msgid ""
 "Bloodthirst 1 (If an opponent was dealt damage this turn, this creature "
 "enters the battlefield with a +1/+1 counter on it.)"
 msgstr ""
+"Głód krwi 1 (Jeśli przeciwnik otrzymał obrażenia w tej turze, ten stwór "
+"wchodzi na pole bitwy mając znacznik +1/+1.)"
 
 #: ../../M12.rst:416
 msgid ""
@@ -1166,11 +1209,11 @@ msgstr ""
 
 #: ../../M12.rst:413
 msgid "Enchant creature or land"
-msgstr ""
+msgstr "Zaurocz stwora lub ląd"
 
 #: ../../M12.rst:415
 msgid "When enchanted permanent becomes tapped, destroy it."
-msgstr ""
+msgstr "Kiedy zauroczony permanent zostanie przekręcony, zniszcz go."
 
 #: ../../M12.rst:422
 msgid ""
@@ -1184,12 +1227,16 @@ msgid ""
 "At the beginning of each player's upkeep, that player sacrifices a non-"
 "Zombie creature."
 msgstr ""
+"Na początku kroku utrzymania każdego gracza, ów gracz poświęca stwora bez "
+"typu Zombi."
 
 #: ../../M12.rst:421
 msgid ""
 "At the beginning of the end step, if no creatures are on the battlefield, "
 "sacrifice Call to the Grave."
 msgstr ""
+"Na początku najbliższego kroku końcowego, jeśli nie ma stworów na polu "
+"bitwy, poświęć ten urok."
 
 #: ../../M12.rst:428
 msgid ""
@@ -1271,7 +1318,7 @@ msgstr ""
 
 #: ../../M12.rst:455
 msgid "Sacrifice a creature: Devouring Swarm gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../M12.rst:460
 msgid ""
@@ -1334,7 +1381,7 @@ msgstr ""
 
 #: ../../M12.rst:477
 msgid "|mana_b|: Drifting Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../M12.rst:484
 msgid ""
@@ -1414,7 +1461,7 @@ msgstr ""
 
 #: ../../M12.rst:505
 msgid "Target player chooses a card in their hand and discards the rest."
-msgstr ""
+msgstr "Wskazany gracz wybiera kartę w swojej ręce i odrzuca pozostałe."
 
 #: ../../M12.rst:510
 msgid ""
@@ -1429,6 +1476,9 @@ msgid ""
 "of turn. (Any amount of damage it deals to a creature is enough to destroy "
 "it.)"
 msgstr ""
+"|mana_1|\\ |mana_b|: Wskazany stwór pod twoim władaniem zyskuje do końca "
+"tury dotyk śmierci. (Stwór otrzymujący od niego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../M12.rst:514
 msgid ""
@@ -1468,6 +1518,8 @@ msgid ""
 "When Rune-Scarred Demon enters the battlefield, search your library for a "
 "card, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę, "
+"umieść ją w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../M12.rst:530
 msgid ""
@@ -1508,15 +1560,15 @@ msgstr ""
 
 #: ../../M12.rst:537
 msgid "+2: Sorin Markov deals 2 damage to any target and you gain 2 life."
-msgstr ""
+msgstr "+2: Ten wędrowiec zadaje wskazanemu celowi 2 obrażenia, zyskaj 2 życia."
 
 #: ../../M12.rst:539
 msgid "−3: Target opponent's life total becomes 10."
-msgstr ""
+msgstr "–3: Liczba żyć wskazanego przeciwnika przyjmuje wartość 10."
 
 #: ../../M12.rst:541
 msgid "−7: You control target player during that player's next turn."
-msgstr ""
+msgstr "–7: Masz władanie nad wskazanym graczem podczas jego następnej tury."
 
 #: ../../M12.rst:546
 msgid ""
@@ -1541,6 +1593,7 @@ msgid ""
 "Sorin's Vengeance deals 10 damage to target player or planeswalker and you "
 "gain 10 life."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi 10 obrażeń, zyskaj 10 żyć."
 
 #: ../../M12.rst:558
 msgid ""
@@ -1558,12 +1611,16 @@ msgid ""
 "As Sutured Ghoul enters the battlefield, exile any number of creature cards "
 "from your graveyard."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy, wygnaj dowolną liczbę kart stworów z "
+"twojego cmentarza."
 
 #: ../../M12.rst:557
 msgid ""
 "Sutured Ghoul's power is equal to the total power of the exiled cards and "
 "its toughness is equal to their total toughness."
 msgstr ""
+"Siła tego stwora jest równa łącznej sile wygnanych kart, a jego wytrzymałość "
+"jest równa ich łącznej wytrzymałości."
 
 #: ../../M12.rst:562
 msgid ""
@@ -1577,6 +1634,8 @@ msgid ""
 "Taste of Blood deals 1 damage to target player or planeswalker and you gain "
 "1 life."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie, zyskaj 1 "
+"życie."
 
 #: ../../M12.rst:566
 msgid ""
@@ -1587,7 +1646,7 @@ msgstr ""
 
 #: ../../M12.rst:565
 msgid "Tormented Soul can't block and can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może blokować i nie może być blokowany."
 
 #: ../../M12.rst:572
 msgid ""
@@ -1601,6 +1660,8 @@ msgid ""
 "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature "
 "enters the battlefield with two +1/+1 counters on it.)"
 msgstr ""
+"Głód krwi 2 (Jeśli przeciwnik otrzymał obrażenia w tej turze, ten stwór "
+"wchodzi na pole bitwy mając 2 znaczniki +1/+1.)"
 
 #: ../../M12.rst:571
 msgid ""
@@ -1631,6 +1692,10 @@ msgid ""
 "Vengeful Pharaoh is in your graveyard, destroy target attacking creature, "
 "then put Vengeful Pharaoh on top of your library."
 msgstr ""
+"Ilekroć obrażenia bojowe zostaną zadane tobie lub wędrowcowi pod twoim "
+"władaniem, jeśli niniejsza karta jest w twoim cmentarzu, zniszcz wskazanego "
+"atakującego stwora, następnie umieść niniejszą kartę na wierzchu twojej "
+"biblioteki."
 
 #: ../../M12.rst:580
 msgid ""
@@ -1706,7 +1771,7 @@ msgstr ""
 
 #: ../../M12.rst:611
 msgid "+1: Chandra, the Firebrand deals 1 damage to any target."
-msgstr ""
+msgstr "+1: Ten wędrowiec zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M12.rst:613
 msgid ""
@@ -1719,6 +1784,8 @@ msgstr ""
 #: ../../M12.rst:615
 msgid "−6: Chandra, the Firebrand deals 6 damage to each of up to six targets."
 msgstr ""
+"–6: Ten wędrowiec zadaje po 6 obrażeń każdemu z co najwyżej sześciu "
+"wskazanych celów."
 
 #: ../../M12.rst:620
 msgid ""
@@ -1806,6 +1873,8 @@ msgid ""
 "|mana_r|: Target creature you control gains haste until end of turn. (It can "
 "attack and |tap| this turn.)"
 msgstr ""
+"|mana_r|: Wskazany stwór pod twoim władaniem zyskuje do końca tury pośpiech. "
+"(Może atakować i |tap| w tej turze.)"
 
 #: ../../M12.rst:646
 msgid ""
@@ -1862,6 +1931,8 @@ msgid ""
 "Whenever Flameblast Dragon attacks, you may pay |mana_x|\\ |mana_r|. If you "
 "do, Flameblast Dragon deals X damage to any target."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_x|\\ |mana_r|. Jeśli tak "
+"zrobisz, ten stwór zadaje wskazanemu celowi X obrażeń."
 
 #: ../../M12.rst:670
 msgid ""
@@ -1892,6 +1963,8 @@ msgid ""
 "Bloodthirst 6 (If an opponent was dealt damage this turn, this creature "
 "enters the battlefield with six +1/+1 counters on it.)"
 msgstr ""
+"Głód krwi 6 (Jeśli przeciwnik otrzymał obrażenia w tej turze, ten stwór "
+"wchodzi na pole bitwy mając sześć znaczników +1/+1.)"
 
 #: ../../M12.rst:680
 msgid ""
@@ -1918,6 +1991,8 @@ msgid ""
 "to any target. If you lose the flip, Goblin Bangchuckers deals 2 damage to "
 "itself."
 msgstr ""
+"|tap|: Rzuć monetą. Jeśli wygrasz rzut, ten stwór zadaje wskazanemu celowi 2 "
+"obrażenia. Jeśli przegrasz, zadaje on sobie 2 obrażenia."
 
 #: ../../M12.rst:690
 msgid ""
@@ -1941,7 +2016,7 @@ msgstr ""
 #: ../../M12.rst:693
 msgid ""
 "|tap|: Goblin Fireslinger deals 1 damage to target player or planeswalker."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie."
 
 #: ../../M12.rst:700
 msgid ""
@@ -1952,11 +2027,11 @@ msgstr ""
 
 #: ../../M12.rst:697
 msgid "As an additional cost to cast this spell, sacrifice a Goblin."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć Goblina."
 
 #: ../../M12.rst:699
 msgid "Goblin Grenade deals 5 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 5 obrażeń."
 
 #: ../../M12.rst:702
 msgid ""
@@ -2023,6 +2098,8 @@ msgid ""
 "Incinerate deals 3 damage to any target. A creature dealt damage this way "
 "can't be regenerated this turn."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Stwór uszkodzony w ten sposób "
+"nie może w tej turze regenerować."
 
 #: ../../M12.rst:732
 msgid ""
@@ -2115,6 +2192,9 @@ msgid ""
 "gains control of each permanent for which they were chosen. Untap those "
 "permanents."
 msgstr ""
+"Wylosuj gracza dla każdego nielądowego permanentu. Następnie każdy gracz "
+"zyskuje władanie nad każdym permanentem, dla którego zostali wylosowani. "
+"Odkręć owe permanenty."
 
 #: ../../M12.rst:760
 msgid ""
@@ -2347,6 +2427,9 @@ msgid ""
 "card with the same name as that creature. Put those cards onto the "
 "battlefield, then shuffle your library."
 msgstr ""
+"Dla każdego stwora pod twoim władaniem możesz wyszukać w twojej bibliotece "
+"kartę stwora o tej samej nazwie. Umieść ową kartę na polu bitwy, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../M12.rst:844
 msgid ""
@@ -2360,6 +2443,8 @@ msgid ""
 "Dungrove Elder's power and toughness are each equal to the number of Forests "
 "you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie Lasów pod twoim "
+"władaniem."
 
 #: ../../M12.rst:850
 msgid ""
@@ -2397,15 +2482,18 @@ msgstr ""
 
 #: ../../M12.rst:857
 msgid "+1: Create a 3/3 green Beast creature token."
-msgstr ""
+msgstr "+1: Stwórz żeton zielonego stwora Bestia 3/3."
 
 #: ../../M12.rst:859
 msgid "−3: Draw cards equal to the greatest power among creatures you control."
 msgstr ""
+"–3: Dobierz tyle kart, ile wynosi największa siła pośród stworów pod twoim "
+"władaniem."
 
 #: ../../M12.rst:861
 msgid "−6: Create a 6/6 green Wurm creature token for each land you control."
 msgstr ""
+"–6: Stwórz tyle żetonów zielonego stwora Żmij 6/6, iloma lądami władasz."
 
 #: ../../M12.rst:866
 msgid ""
@@ -2483,7 +2571,7 @@ msgstr ""
 
 #: ../../M12.rst:893
 msgid "|mana_2|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../M12.rst:898
 msgid ""
@@ -2505,7 +2593,7 @@ msgstr ""
 
 #: ../../M12.rst:903
 msgid "All creatures able to block enchanted creature do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować zauroczonego stwora, robią to."
 
 #: ../../M12.rst:910
 msgid ""
@@ -2573,19 +2661,21 @@ msgstr ""
 
 #: ../../M12.rst:931
 msgid "Primordial Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../M12.rst:933
 msgid ""
 "At the beginning of your upkeep, double the number of +1/+1 counters on "
 "Primordial Hydra."
 msgstr ""
+"Na początku twojego kroku utrzymania podwój liczbę znaczników +1/+1 na tym "
+"stworze."
 
 #: ../../M12.rst:935
 msgid ""
 "Primordial Hydra has trample as long as it has ten or more +1/+1 counters on "
 "it."
-msgstr ""
+msgstr "Ten stwór ma tratowanie o ile ma co najmniej dziesięć znaczników +1/+1."
 
 #: ../../M12.rst:940
 msgid ""
@@ -2656,7 +2746,7 @@ msgstr ""
 
 #: ../../M12.rst:961
 msgid "|mana_g|: Choose one. Activate this ability only once each turn."
-msgstr ""
+msgstr "|mana_g|: Wybierz jedno. Możesz aktywować tylko raz na turę."
 
 #: ../../M12.rst:963
 msgid ""
@@ -2701,6 +2791,8 @@ msgid ""
 "When Stingerfling Spider enters the battlefield, you may destroy target "
 "creature with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora z "
+"lataniem."
 
 #: ../../M12.rst:982
 msgid ""
@@ -2780,6 +2872,9 @@ msgid ""
 "|mana_3|, |tap|: Tap target creature. Gain control of that creature instead "
 "if you control artifacts named Scepter of Empires and Throne of Empires."
 msgstr ""
+"|mana_3|, |tap|: Przekręć wskazanego stwora. Zamiast tego zyskaj władanie "
+"nad owym stworem jeśli władasz artefaktami o nazwach Scepter of Empires oraz "
+"Throne of Empires."
 
 #: ../../M12.rst:1014
 msgid ""
@@ -2790,7 +2885,7 @@ msgstr ""
 
 #: ../../M12.rst:1013
 msgid "When Crumbling Colossus attacks, sacrifice it at end of combat."
-msgstr ""
+msgstr "Kiedy ten stwór zaatakuje, poświęć go na koniec potyczki."
 
 #: ../../M12.rst:1018
 msgid ""
@@ -2828,6 +2923,10 @@ msgid ""
 "that card onto the battlefield under your control. If it's a noncreature, "
 "nonland card, you gain 2 life."
 msgstr ""
+"|mana_2|, |tap|: Ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
+"stwora, stwórz żeton zielonego stwora Sadzonka 1/1. Jeśli to karta lądu, "
+"umieść ją na polu bitwy pod twoim władaniem. Jeśli to nielądowa nie-stworowa "
+"karta, zyskaj 2 życia."
 
 #: ../../M12.rst:1030
 msgid ""
@@ -2872,7 +2971,7 @@ msgstr ""
 
 #: ../../M12.rst:1039
 msgid "Equipped creature gets +0/+3."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +0/+3."
 
 #: ../../M12.rst:1046
 msgid ""
@@ -2901,17 +3000,20 @@ msgstr ""
 
 #: ../../M12.rst:1053
 msgid "Pentavus enters the battlefield with five +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników +1/+1."
 
 #: ../../M12.rst:1055
 msgid ""
 "|mana_1|, Remove a +1/+1 counter from Pentavus: Create a 1/1 colorless "
 "Pentavite artifact creature token with flying."
 msgstr ""
+"|mana_1|, usuń znacznik +1/+1 z tego stwora: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Pentawit 1/1 z lataniem."
 
 #: ../../M12.rst:1057
 msgid "|mana_1|, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus."
 msgstr ""
+"|mana_1|, poświęć Pentawit: Umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../M12.rst:1062
 msgid ""
@@ -2936,7 +3038,7 @@ msgstr ""
 
 #: ../../M12.rst:1065
 msgid "Rusted Sentinel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../M12.rst:1070
 msgid ""
@@ -2951,6 +3053,9 @@ msgid ""
 "It deals 3 damage instead if you control artifacts named Crown of Empires "
 "and Throne of Empires."
 msgstr ""
+"|tap|: Ten artefakt zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie. "
+"Zamiast tego zadaje 3 obrażenia jeśli władasz artefaktami o nazwach Crown of "
+"Empires oraz Throne of Empires."
 
 #: ../../M12.rst:1076
 msgid ""
@@ -2987,6 +3092,10 @@ msgid ""
 "hand size. Damage wears off, and \"this turn\" and \"until end of turn\" "
 "effects end.)"
 msgstr ""
+"|mana_1|, |tap|: Zakończ turę. Możesz aktywować tę zdolność tylko w twojej "
+"turze. (Wygnaj wszystkie czary i zdolności ze stosu. Odrzuć do maksymalnego "
+"rozmiaru ręki. Obrażenia znikają, a efekty \"w tej turze\" i \"do końca "
+"tury\" kończą się.)"
 
 #: ../../M12.rst:1086
 msgid ""
@@ -3015,6 +3124,8 @@ msgid ""
 "As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first "
 "strike, and trample."
 msgstr ""
+"O ile ten stwór jest zauroczony, dostaje +2/+2 i ma latanie, pierwszy cios i "
+"tratowanie."
 
 #: ../../M12.rst:1094
 msgid ""
@@ -3029,6 +3140,9 @@ msgid ""
 "those tokens instead if you control artifacts named Crown of Empires and "
 "Scepter of Empires."
 msgstr ""
+"|mana_1|, |tap|: Stwórz żeton białego stwora Piechur 1/1. Zamiast tego "
+"stwórz pięć takich żetonów jeśli władasz artefaktami o nazwach Crown of "
+"Empires oraz Scepter of Empires."
 
 #: ../../M12.rst:1100
 msgid ""
@@ -3042,6 +3156,8 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, destroy all "
 "permanents other than Worldslayer."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, zniszcz wszystkie "
+"permanenty oprócz niniejszego."
 
 #: ../../M12.rst:1099
 msgid ""

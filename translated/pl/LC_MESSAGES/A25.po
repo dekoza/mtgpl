@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 23:26+0000\n"
+"PO-Revision-Date: 2021-03-04 10:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -1140,7 +1140,7 @@ msgstr ""
 #: ../../A25.rst:371
 msgid ""
 "When Phantasmal Bear becomes the target of a spell or ability, sacrifice it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../A25.rst:376
 msgid ""
@@ -2057,6 +2057,8 @@ msgid ""
 "|mana_r|: Target creature you control gains haste until end of turn. (It can "
 "attack and |tap| this turn.)"
 msgstr ""
+"|mana_r|: Wskazany stwór pod twoim władaniem zyskuje do końca tury pośpiech. "
+"(Może atakować i |tap| w tej turze.)"
 
 #: ../../A25.rst:682
 msgid ""

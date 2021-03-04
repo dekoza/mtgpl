@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 08:02+0000\n"
+"PO-Revision-Date: 2021-03-04 10:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -2764,7 +2764,7 @@ msgstr ""
 
 #: ../../C13.rst:827
 msgid "|mana_2|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../C13.rst:844
 msgid ""
@@ -4354,6 +4354,10 @@ msgid ""
 "that card onto the battlefield under your control. If it's a noncreature, "
 "nonland card, you gain 2 life."
 msgstr ""
+"|mana_2|, |tap|: Ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
+"stwora, stwórz żeton zielonego stwora Sadzonka 1/1. Jeśli to karta lądu, "
+"umieść ją na polu bitwy pod twoim władaniem. Jeśli to nielądowa nie-stworowa "
+"karta, zyskaj 2 życia."
 
 #: ../../C13.rst:1398
 msgid ""

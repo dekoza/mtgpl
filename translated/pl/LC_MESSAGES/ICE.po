@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-01 23:34+0000\n"
+"PO-Revision-Date: 2021-03-04 10:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -2951,6 +2951,8 @@ msgid ""
 "Incinerate deals 3 damage to any target. A creature dealt damage this way "
 "can't be regenerated this turn."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Stwór uszkodzony w ten sposób "
+"nie może w tej turze regenerować."
 
 #: ../../ICE.rst:1084
 msgid ""
@@ -3722,7 +3724,7 @@ msgstr ""
 
 #: ../../ICE.rst:1369
 msgid "All creatures able to block enchanted creature do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować zauroczonego stwora, robią to."
 
 #: ../../ICE.rst:1378
 msgid ""

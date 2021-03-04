@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 08:02+0000\n"
+"PO-Revision-Date: 2021-03-04 10:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -432,10 +432,12 @@ msgid ""
 "+2: During target opponent's next turn, creatures that player controls "
 "attack Gideon Jura if able."
 msgstr ""
+"+2: Podczas najbliższej tury wskazanego przeciwnika, stwory pod władaniem "
+"owego gracza atakują niniejszego wędrowca jeśli mogą."
 
 #: ../../ROE.rst:147
 msgid "−2: Destroy target tapped creature."
-msgstr ""
+msgstr "–2: Zniszcz wskazanego przekręconego stwora."
 
 #: ../../ROE.rst:149
 msgid ""
@@ -443,6 +445,9 @@ msgid ""
 "that's still a planeswalker. Prevent all damage that would be dealt to him "
 "this turn."
 msgstr ""
+"0: Do końca tury ten wędrowiec staje się stworem Człowiek Piechur 6/6 nadal "
+"pozostając wędrowcem. Zażegnaj wszystkie obrażenia, jakie mogłyby mu zostać "
+"zadane w tej turze."
 
 #: ../../ROE.rst:152
 msgid ""

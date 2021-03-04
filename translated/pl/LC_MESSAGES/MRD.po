@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 08:02+0000\n"
+"PO-Revision-Date: 2021-03-04 10:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -3183,17 +3183,20 @@ msgstr ""
 
 #: ../../MRD.rst:1169
 msgid "Pentavus enters the battlefield with five +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników +1/+1."
 
 #: ../../MRD.rst:1171
 msgid ""
 "|mana_1|, Remove a +1/+1 counter from Pentavus: Create a 1/1 colorless "
 "Pentavite artifact creature token with flying."
 msgstr ""
+"|mana_1|, usuń znacznik +1/+1 z tego stwora: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Pentawit 1/1 z lataniem."
 
 #: ../../MRD.rst:1173
 msgid "|mana_1|, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus."
 msgstr ""
+"|mana_1|, poświęć Pentawit: Umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../MRD.rst:1178
 msgid ""
@@ -3910,6 +3913,8 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, destroy all "
 "permanents other than Worldslayer."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, zniszcz wszystkie "
+"permanenty oprócz niniejszego."
 
 #: ../../MRD.rst:1445
 msgid ""
