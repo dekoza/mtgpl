@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 20:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jud/pl/>\n"
 "Language: pl\n"
@@ -1631,12 +1631,16 @@ msgid ""
 "When Worldgorger Dragon enters the battlefield, exile all other permanents "
 "you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie inne permanenty pod "
+"twoim władaniem."
 
 #: ../../JUD.rst:559
 msgid ""
 "When Worldgorger Dragon leaves the battlefield, return the exiled cards to "
 "the battlefield under their owners' control."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, przywróć wygnane karty na pole bitwy pod "
+"władaniem ich właścicieli."
 
 #: ../../JUD.rst:564
 msgid ""
@@ -1695,6 +1699,8 @@ msgid ""
 "As long as Brawn is in your graveyard and you control a Forest, creatures "
 "you control have trample."
 msgstr ""
+"O ile ta karta jest w twoim cmentarza oraz władasz Lasem, stwory pod twoim "
+"władaniem mają tratowanie."
 
 #: ../../JUD.rst:586
 msgid ""
@@ -1752,7 +1758,7 @@ msgstr "Zauroczony stwór dostaje +3/+3."
 #: ../../JUD.rst:603
 msgid ""
 "When enchanted creature dies, create a 3/3 green Elephant creature token."
-msgstr ""
+msgstr "Kiedy zauroczony stwór umrze, stwórz żeton zielonego stwora Słoń 3/3."
 
 #: ../../JUD.rst:608
 msgid ""
