@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:19+0000\n"
+"PO-Revision-Date: 2021-03-04 20:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -2858,6 +2858,8 @@ msgid ""
 "If you control a Forest, rather than pay this spell's mana cost, you may "
 "have an opponent gain 3 life."
 msgstr ""
+"Jeśli władasz Lasem, możesz sprawić, że przeciwnik zyska 3 życia zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../2XM.rst:891
 msgid "Target creature gets +4/+4 until end of turn."
@@ -3001,6 +3003,8 @@ msgid ""
 "Flashback |mana_2|\\ |mana_g|\\ |mana_g| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_2|\\ |mana_g|\\ |mana_g| (Możesz rzucić ową kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../2XM.rst:942
 msgid ""
@@ -3824,7 +3828,7 @@ msgstr "Masz władanie nad zauroczonym stworem."
 
 #: ../../2XM.rst:1221
 msgid "Enchanted creature gets +2/+2 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma tratowanie."
 
 #: ../../2XM.rst:1226
 msgid ""
@@ -3990,10 +3994,12 @@ msgid ""
 "Imprint — When Chrome Mox enters the battlefield, you may exile a "
 "nonartifact, nonland card from your hand."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać "
+"nieartefaktową, nielądową kartę z twojej ręki."
 
 #: ../../2XM.rst:1289
 msgid "|tap|: Add one mana of any of the exiled card's colors."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów wygnanej karty."
 
 #: ../../2XM.rst:1296
 msgid ""
@@ -4145,6 +4151,8 @@ msgid ""
 "Imprint — When Duplicant enters the battlefield, you may exile target "
 "nontoken creature."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy możesz wygnać wskazanego "
+"nieżetonowego stwora."
 
 #: ../../2XM.rst:1341
 msgid ""
@@ -4152,6 +4160,9 @@ msgid ""
 "the power, toughness, and creature types of the last creature card exiled "
 "with Duplicant. It's still a Shapeshifter."
 msgstr ""
+"O ile karta wygnana tym stworem jest kartą stwora, niniejszy stwór ma jej "
+"siłę, wytrzymałość i typy stwora ostatnio wygnanej przez siebie karty "
+"stwora. Nadal jest Przemieńcem."
 
 #: ../../2XM.rst:1346
 msgid ""
@@ -4392,12 +4403,16 @@ msgid ""
 "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
 "instant card with converted mana cost 2 or less from your hand."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać kartę "
+"sztuczki o skrócie many 2 lub mniejszym z twojej ręki."
 
 #: ../../2XM.rst:1427
 msgid ""
 "|mana_2|, |tap|: You may copy the exiled card. If you do, you may cast the "
 "copy without paying its mana cost."
 msgstr ""
+"|mana_2|, |tap|: Możesz skopiować wygnaną kartę. Jeśli tak zrobisz, możesz "
+"rzucić ową kopię bez płacenia jej kosztu many."
 
 #: ../../2XM.rst:1434
 msgid ""
@@ -4496,6 +4511,8 @@ msgid ""
 "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana "
 "Crypt deals 3 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, rzuć monetą. Jeśli przegrasz rzut, ten "
+"artefakt zadaje tobie 3 obrażenia."
 
 #: ../../2XM.rst:1461
 msgid "|tap|: Add |colorless|\\ |colorless|."
@@ -5324,6 +5341,9 @@ msgid ""
 "|tap|: Untap target attacking creature. Prevent all combat damage that would "
 "be dealt to and dealt by that creature this turn."
 msgstr ""
+"|tap|: Odkręć wskazanego atakującego stwora. Zażegnaj wszystkie obrażenia "
+"bojowe, jakie mógłby otrzymać lub mogłyby zostać przez niego zadane w tej "
+"turze."
 
 #: ../../2XM.rst:1780
 msgid ""
@@ -5337,10 +5357,12 @@ msgid ""
 "|mana_1|: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature "
 "until end of turn. It's still a land."
 msgstr ""
+"|mana_1|: Ten ląd staje się do końca tury artefaktowym stworem Składacz 2/2. "
+"Nadal jest lądem."
 
 #: ../../2XM.rst:1779
 msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany Składacz dostaje do końca tury +1/+1."
 
 #: ../../2XM.rst:1786
 msgid ""

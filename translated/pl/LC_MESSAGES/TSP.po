@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:19+0000\n"
+"PO-Revision-Date: 2021-03-04 20:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -502,7 +502,7 @@ msgstr ""
 
 #: ../../TSP.rst:173
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
-msgstr ""
+msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 
 #: ../../TSP.rst:178
 msgid ""
@@ -747,7 +747,7 @@ msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../TSP.rst:261
 msgid "Whenever enchanted creature deals damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć zauroczony stwór zada obrażenia, zyskaj tyle samo żyć."
 
 #: ../../TSP.rst:263
 msgid ""
@@ -4134,6 +4134,9 @@ msgid ""
 "|tap|: Untap target attacking creature. Prevent all combat damage that would "
 "be dealt to and dealt by that creature this turn."
 msgstr ""
+"|tap|: Odkręć wskazanego atakującego stwora. Zażegnaj wszystkie obrażenia "
+"bojowe, jakie mógłby otrzymać lub mogłyby zostać przez niego zadane w tej "
+"turze."
 
 #: ../../TSP.rst:1415
 msgid ""
@@ -4233,7 +4236,7 @@ msgstr ""
 
 #: ../../TSP.rst:1447
 msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany Składacz dostaje do końca tury +1/+1."
 
 #: ../../TSP.rst:1456
 msgid ""

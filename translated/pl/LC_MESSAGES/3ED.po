@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:18+0000\n"
+"PO-Revision-Date: 2021-03-04 20:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/3ed/pl/>\n"
 "Language: pl\n"
@@ -2614,7 +2614,7 @@ msgstr ""
 
 #: ../../3ED.rst:955
 msgid "Destroy target permanent."
-msgstr ""
+msgstr "Zniszcz wskazany permanent."
 
 #: ../../3ED.rst:960
 msgid ""
@@ -3588,11 +3588,11 @@ msgstr ""
 
 #: ../../3ED.rst:1313
 msgid "Nevinyrral's Disk enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../3ED.rst:1315
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
-msgstr ""
+msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 
 #: ../../3ED.rst:1318
 msgid ""
@@ -3750,6 +3750,8 @@ msgid ""
 "As long as Winter Orb is untapped, players can't untap more than one land "
 "during their untap steps."
 msgstr ""
+"O ile ten artefakt jest odkręcony, gracze nie mogą odkręcić więcej niż "
+"jednego lądu podczas swoich kroków odkręcania."
 
 #: ../../3ED.rst:1374
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:19+0000\n"
+"PO-Revision-Date: 2021-03-04 20:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -663,6 +663,9 @@ msgid ""
 "number of target nonland permanents you control, then return those cards to "
 "the battlefield under their owner's control."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj dowolną liczbę "
+"wskazanych nielądowych permanentów pod twoim władaniem, następnie przywróć "
+"owe karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../CNS.rst:232
 msgid ""
@@ -673,17 +676,19 @@ msgstr ""
 
 #: ../../CNS.rst:227
 msgid "+1: Target player draws two cards, then discards two cards."
-msgstr ""
+msgstr "+1: Wskazany gracz dobiera dwie karty, następnie odrzuca dwie karty."
 
 #: ../../CNS.rst:229
 msgid "−2: Gain control of target artifact."
-msgstr ""
+msgstr "–2: Zyskaj władanie nad wskazanym artefaktem."
 
 #: ../../CNS.rst:231
 msgid ""
 "−6: You get an emblem with \"Whenever you cast a spell that targets one or "
 "more permanents, gain control of those permanents.\""
 msgstr ""
+"–6: Dostajesz emblemat mający \"Ilekroć rzucisz czar wskazujący jeden lub "
+"więcej permanentów, zyskaj władanie nad owymi permanentami.\""
 
 #: ../../CNS.rst:236
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 20:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -2993,7 +2993,7 @@ msgstr ""
 #: ../../C18.rst:1001
 msgid ""
 "Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdy urok na polu bitwy."
 
 #: ../../C18.rst:1006
 msgid ""
@@ -3594,6 +3594,8 @@ msgid ""
 "Imprint — When Duplicant enters the battlefield, you may exile target "
 "nontoken creature."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy możesz wygnać wskazanego "
+"nieżetonowego stwora."
 
 #: ../../C18.rst:1211
 msgid ""
@@ -3601,6 +3603,9 @@ msgid ""
 "the power, toughness, and creature types of the last creature card exiled "
 "with Duplicant. It's still a Shapeshifter."
 msgstr ""
+"O ile karta wygnana tym stworem jest kartą stwora, niniejszy stwór ma jej "
+"siłę, wytrzymałość i typy stwora ostatnio wygnanej przez siebie karty "
+"stwora. Nadal jest Przemieńcem."
 
 #: ../../C18.rst:1218
 msgid ""
@@ -3977,7 +3982,7 @@ msgstr ""
 
 #: ../../C18.rst:1351
 msgid "Worn Powerstone enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1362
 msgid ""

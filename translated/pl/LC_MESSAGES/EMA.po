@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:18+0000\n"
+"PO-Revision-Date: 2021-03-04 20:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
 "Language: pl\n"
@@ -2747,6 +2747,8 @@ msgid ""
 "At the beginning of your upkeep, create a 1/1 colorless Spirit creature "
 "token for each Shrine you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz tyle żetonów bezkolorowego "
+"stwora Duch 1/1, iloma Kapliczkami władasz."
 
 #: ../../EMA.rst:914
 msgid ""
@@ -2761,7 +2763,7 @@ msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../EMA.rst:913
 msgid "|mana_g|, |tap|: Create a 1/1 green Elf Warrior creature token."
-msgstr ""
+msgstr "|mana_g|, |tap|: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
 
 #: ../../EMA.rst:920
 msgid ""
@@ -2775,6 +2777,8 @@ msgid ""
 "If you control a Forest, rather than pay this spell's mana cost, you may "
 "have an opponent gain 3 life."
 msgstr ""
+"Jeśli władasz Lasem, możesz sprawić, że przeciwnik zyska 3 życia zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../EMA.rst:919
 msgid "Target creature gets +4/+4 until end of turn."
@@ -2803,6 +2807,8 @@ msgid ""
 "Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior "
 "creature token."
 msgstr ""
+"Ilekroć rzucisz czar Elfa, możesz stworzyć żeton zielonego stwora Elf "
+"Wojownik 1/1."
 
 #: ../../EMA.rst:934
 msgid ""
@@ -2813,13 +2819,15 @@ msgstr ""
 
 #: ../../EMA.rst:931
 msgid "As an additional cost to cast this spell, sacrifice a green creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć zielonego stwora."
 
 #: ../../EMA.rst:933
 msgid ""
 "Search your library for a green creature card and put it onto the "
 "battlefield. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę zielonego stwora i umieść ją na polu "
+"bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../EMA.rst:938
 msgid ""
@@ -2878,6 +2886,8 @@ msgid ""
 "When Regal Force enters the battlefield, draw a card for each green creature "
 "you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz tyle kart, ile masz zielonych "
+"stworów pod władaniem."
 
 #: ../../EMA.rst:962
 msgid ""
@@ -2888,7 +2898,7 @@ msgstr ""
 
 #: ../../EMA.rst:959
 msgid "Create a 6/6 green Wurm creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Żmij 6/6."
 
 #: ../../EMA.rst:961
 msgid ""
@@ -2911,7 +2921,7 @@ msgstr "Zaurocz stwora bez latania"
 
 #: ../../EMA.rst:967
 msgid "When Roots enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../EMA.rst:969
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -2927,7 +2937,7 @@ msgstr ""
 #: ../../EMA.rst:973
 msgid ""
 "Sacrifice Seal of Strength: Target creature gets +3/+3 until end of turn."
-msgstr ""
+msgstr "Poświęć ten urok: Wskazany stwór dostaje do końca tury +3/+3."
 
 #: ../../EMA.rst:978
 msgid ""
@@ -2949,7 +2959,7 @@ msgstr ""
 
 #: ../../EMA.rst:983
 msgid "|mana_g|: Regenerate Silvos, Rogue Elemental."
-msgstr ""
+msgstr "|mana_g|: Zregeneruj tego stwora."
 
 #: ../../EMA.rst:988
 msgid ""
@@ -2964,6 +2974,9 @@ msgid ""
 "you do, choose two cards in your hand drawn this turn. For each of those "
 "cards, pay 4 life or put the card on top of your library."
 msgstr ""
+"Na początku twojego kroku dobierania, możesz dobrać dwie dodatkowe karty. "
+"Jeśli tak zrobisz, wybierz dwie karty dobrane w tej turze w twojej ręce. Za "
+"każdą z nich zapłać 4 życia lub umieść ją na wierzchu twojej biblioteki."
 
 #: ../../EMA.rst:994
 msgid ""
@@ -2981,6 +2994,8 @@ msgid ""
 "Flashback |mana_2|\\ |mana_g|\\ |mana_g| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_2|\\ |mana_g|\\ |mana_g| (Możesz rzucić ową kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../EMA.rst:1000
 msgid ""
@@ -3013,6 +3028,8 @@ msgid ""
 "|tap|: Target creature gets +X/+X until end of turn, where X is the number "
 "of Elves on the battlefield."
 msgstr ""
+"|tap|: Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest liczbą Elfów "
+"na polu bitwy."
 
 #: ../../EMA.rst:1010
 msgid ""
@@ -3041,6 +3058,8 @@ msgid ""
 "Return an Elf you control to its owner's hand: Untap target creature. "
 "Activate this ability only once each turn."
 msgstr ""
+"Przywróć Elfa pod twoim władaniem do ręki właściciela: Odkręć wskazanego "
+"stwora. Możesz aktywować tylko raz na turę."
 
 #: ../../EMA.rst:1020
 msgid ""
@@ -3053,6 +3072,8 @@ msgstr ""
 msgid ""
 "Whenever Xantid Swarm attacks, defending player can't cast spells this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, broniący się gracz nie może rzucać czarów w tej "
+"turze."
 
 #: ../../EMA.rst:1024
 msgid ""
@@ -3064,7 +3085,7 @@ msgstr ""
 #: ../../EMA.rst:1023
 msgid ""
 "Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdy urok na polu bitwy."
 
 #: ../../EMA.rst:1032
 msgid ""
@@ -3075,11 +3096,11 @@ msgstr ""
 
 #: ../../EMA.rst:1029
 msgid "Enchanted creature gets +2/+2 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma tratowanie."
 
 #: ../../EMA.rst:1031
 msgid "Whenever enchanted creature deals damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć zauroczony stwór zada obrażenia, zyskaj tyle samo żyć."
 
 #: ../../EMA.rst:1038
 msgid ""
@@ -3128,6 +3149,9 @@ msgid ""
 "number of target nonland permanents you control, then return those cards to "
 "the battlefield under their owner's control."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj dowolną liczbę "
+"wskazanych nielądowych permanentów pod twoim władaniem, następnie przywróć "
+"owe karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../EMA.rst:1058
 msgid ""
@@ -3138,17 +3162,19 @@ msgstr ""
 
 #: ../../EMA.rst:1053
 msgid "+1: Target player draws two cards, then discards two cards."
-msgstr ""
+msgstr "+1: Wskazany gracz dobiera dwie karty, następnie odrzuca dwie karty."
 
 #: ../../EMA.rst:1055
 msgid "−2: Gain control of target artifact."
-msgstr ""
+msgstr "–2: Zyskaj władanie nad wskazanym artefaktem."
 
 #: ../../EMA.rst:1057
 msgid ""
 "−6: You get an emblem with \"Whenever you cast a spell that targets one or "
 "more permanents, gain control of those permanents.\""
 msgstr ""
+"–6: Dostajesz emblemat mający \"Ilekroć rzucisz czar wskazujący jeden lub "
+"więcej permanentów, zyskaj władanie nad owymi permanentami.\""
 
 #: ../../EMA.rst:1062
 msgid ""
@@ -3177,6 +3203,8 @@ msgid ""
 "When Flame-Kin Zealot enters the battlefield, creatures you control get +1/"
 "+1 and gain haste until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1 i pośpiech."
 
 #: ../../EMA.rst:1070
 msgid ""
@@ -3203,6 +3231,8 @@ msgid ""
 "|mana_2|, Sacrifice a land: Create two 1/1 red and white Goblin Soldier "
 "creature tokens."
 msgstr ""
+"|mana_2|, poświęć ląd: Stwórz dwa żetony czerwono-białego stwora Goblin "
+"Piechur 1/1."
 
 #: ../../EMA.rst:1080
 msgid ""
@@ -3222,6 +3252,10 @@ msgid ""
 "without paying its mana cost. Put the exiled cards on the bottom of your "
 "library in a random order. Then do it again.)"
 msgstr ""
+"Kaskada, kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej "
+"biblioteki aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową "
+"kartę bez płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie "
+"twojej biblioteki. Następnie zrób to jeszcze raz.)"
 
 #: ../../EMA.rst:1084
 msgid ""
@@ -3283,6 +3317,8 @@ msgid ""
 "Whenever Trygon Predator deals combat damage to a player, you may destroy "
 "target artifact or enchantment that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zniszczyć wskazany "
+"artefakt lub urok pod władaniem owego gracza."
 
 #: ../../EMA.rst:1110
 msgid ""
@@ -3293,7 +3329,7 @@ msgstr ""
 
 #: ../../EMA.rst:1109
 msgid "Destroy target permanent."
-msgstr ""
+msgstr "Zniszcz wskazany permanent."
 
 #: ../../EMA.rst:1114
 msgid ""
@@ -3308,6 +3344,9 @@ msgid ""
 "cost equal to that number. Then target player reveals their hand and "
 "discards all nonland cards with converted mana cost equal to the number."
 msgstr ""
+"Wybierz liczbę. Zniszcz wszystkie artefakty i stwory o skrótach many równych "
+"tej liczbie. Następnie wskazany gracz ujawnia swoją rękę i odrzuca wszystkie "
+"nielądowe karty o skrótach many równych tej liczbie."
 
 #: ../../EMA.rst:1120
 msgid ""
@@ -3348,7 +3387,7 @@ msgstr ""
 
 #: ../../EMA.rst:1127
 msgid "Create a 5/5 blue and red Elemental creature token with flying."
-msgstr ""
+msgstr "Stwórz żeton niebiesko-czerwonego stwora Żywiołak 5/5 z lataniem."
 
 #: ../../EMA.rst:1138
 msgid ""
@@ -3395,6 +3434,8 @@ msgid ""
 "Trample; haste; shroud (This creature can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Tratowanie, pośpiech, antymagia (Ten stwór nie mogą być wskazywany przez "
+"czary lub zdolności.)"
 
 #: ../../EMA.rst:1148
 msgid ""
@@ -3424,7 +3465,7 @@ msgstr ""
 
 #: ../../EMA.rst:1151
 msgid "Sacrifice a creature: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "Poświęć stwora: Weź |colorless|\\ |colorless|."
 
 #: ../../EMA.rst:1158
 msgid ""
@@ -3438,10 +3479,12 @@ msgid ""
 "Imprint — When Chrome Mox enters the battlefield, you may exile a "
 "nonartifact, nonland card from your hand."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać "
+"nieartefaktową, nielądową kartę z twojej ręki."
 
 #: ../../EMA.rst:1157
 msgid "|tap|: Add one mana of any of the exiled card's colors."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów wygnanej karty."
 
 #: ../../EMA.rst:1164
 msgid ""
@@ -3455,6 +3498,8 @@ msgid ""
 "Imprint — When Duplicant enters the battlefield, you may exile target "
 "nontoken creature."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy możesz wygnać wskazanego "
+"nieżetonowego stwora."
 
 #: ../../EMA.rst:1163
 msgid ""
@@ -3462,6 +3507,9 @@ msgid ""
 "the power, toughness, and creature types of the last creature card exiled "
 "with Duplicant. It's still a Shapeshifter."
 msgstr ""
+"O ile karta wygnana tym stworem jest kartą stwora, niniejszy stwór ma jej "
+"siłę, wytrzymałość i typy stwora ostatnio wygnanej przez siebie karty "
+"stwora. Nadal jest Przemieńcem."
 
 #: ../../EMA.rst:1168
 msgid ""
@@ -3472,7 +3520,7 @@ msgstr ""
 
 #: ../../EMA.rst:1167
 msgid "|mana_5|, |tap|: Draw two cards, then discard a card."
-msgstr ""
+msgstr "|mana_5|, |tap|: Dobierz dwie karty, następnie odrzuć kartę."
 
 #: ../../EMA.rst:1172
 msgid ""
@@ -3489,6 +3537,11 @@ msgid ""
 "Mountain, Goblin Charbelcher deals double that damage instead. Put the "
 "revealed cards on the bottom of your library in any order."
 msgstr ""
+"|mana_3|, |tap|: Ujawnij karty z wierzchu twojej biblioteki aż ujawnisz "
+"kartę lądu. Ten stwór zadaje wskazanemu celowi tyle obrażeń, ile ujawniono w "
+"ten sposób nielądowych kart. Jeśli ujawniona karta jest Górą, ten stwór "
+"zamiast tego zadaje dwukrotność owych obrażeń. Umieść ujawnione karty "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../EMA.rst:1178
 msgid ""
@@ -3502,12 +3555,16 @@ msgid ""
 "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
 "instant card with converted mana cost 2 or less from your hand."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać kartę "
+"sztuczki o skrócie many 2 lub mniejszym z twojej ręki."
 
 #: ../../EMA.rst:1177
 msgid ""
 "|mana_2|, |tap|: You may copy the exiled card. If you do, you may cast the "
 "copy without paying its mana cost."
 msgstr ""
+"|mana_2|, |tap|: Możesz skopiować wygnaną kartę. Jeśli tak zrobisz, możesz "
+"rzucić ową kopię bez płacenia jej kosztu many."
 
 #: ../../EMA.rst:1184
 msgid ""
@@ -3536,6 +3593,8 @@ msgid ""
 "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana "
 "Crypt deals 3 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, rzuć monetą. Jeśli przegrasz rzut, ten "
+"artefakt zadaje tobie 3 obrażenia."
 
 #: ../../EMA.rst:1189 ../../EMA.rst:1247
 msgid "|tap|: Add |colorless|\\ |colorless|."
@@ -3562,15 +3621,15 @@ msgstr ""
 #: ../../EMA.rst:1197
 msgid ""
 "Mindless Automaton enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../EMA.rst:1199
 msgid "|mana_1|, Discard a card: Put a +1/+1 counter on Mindless Automaton."
-msgstr ""
+msgstr "|mana_1|, odrzuć kartę: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../EMA.rst:1201
 msgid "Remove two +1/+1 counters from Mindless Automaton: Draw a card."
-msgstr ""
+msgstr "Usuń dwa znaczniki +1/+1 z tego stwora: Dobierz kartę."
 
 #: ../../EMA.rst:1208
 msgid ""
@@ -3581,11 +3640,11 @@ msgstr ""
 
 #: ../../EMA.rst:1205
 msgid "Nevinyrral's Disk enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../EMA.rst:1207
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
-msgstr ""
+msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 
 #: ../../EMA.rst:1214
 msgid ""
@@ -3634,6 +3693,8 @@ msgid ""
 "|mana_1|, Exile Relic of Progenitus: Exile all cards from all graveyards. "
 "Draw a card."
 msgstr ""
+"|mana_1|, wygnaj ten artefakt: Wygnaj wszystkie karty ze wszystkich "
+"cmentarzy. Dobierz kartę."
 
 #: ../../EMA.rst:1232
 msgid ""
@@ -3647,12 +3708,16 @@ msgid ""
 "|mana_1|: Look at the top three cards of your library, then put them back in "
 "any order."
 msgstr ""
+"|mana_1|: Spójrz na trzy wierzchnie karty twojej biblioteki, następnie odłóż "
+"je w dowolnej kolejności."
 
 #: ../../EMA.rst:1231
 msgid ""
 "|tap|: Draw a card, then put Sensei's Divining Top on top of its owner's "
 "library."
 msgstr ""
+"|tap|: Dobierz kartę, następnie umieść ten artefakt na wierzchu biblioteki "
+"właściciela."
 
 #: ../../EMA.rst:1238
 msgid ""
@@ -3667,10 +3732,13 @@ msgid ""
 "control since the beginning of your last upkeep, sacrifice it unless you pay "
 "its echo cost.)"
 msgstr ""
+"Echo |mana_3| (Na początku twojego kroku utrzymania, jeśli ten permanent "
+"wszedł pod twoje władanie po początku twojego poprzedniego kroku utrzymania, "
+"poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../EMA.rst:1237
 msgid "Sacrifice Ticking Gnomes: It deals 1 damage to any target."
-msgstr ""
+msgstr "Poświęć tego stwora: Zadaje on wskazanemu celowi 1 obrażenie."
 
 #: ../../EMA.rst:1242
 msgid ""
@@ -3684,6 +3752,8 @@ msgid ""
 "As long as Winter Orb is untapped, players can't untap more than one land "
 "during their untap steps."
 msgstr ""
+"O ile ten artefakt jest odkręcony, gracze nie mogą odkręcić więcej niż "
+"jednego lądu podczas swoich kroków odkręcania."
 
 #: ../../EMA.rst:1248
 msgid ""
@@ -3694,7 +3764,7 @@ msgstr ""
 
 #: ../../EMA.rst:1245
 msgid "Worn Powerstone enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../EMA.rst:1256
 msgid ""
@@ -3785,7 +3855,7 @@ msgstr "|tap|: Weź |mana_w|."
 
 #: ../../EMA.rst:1285
 msgid "|tap|: Return target legendary creature to its owner's hand."
-msgstr ""
+msgstr "|tap|: Przywróć wskazanego legendarnego stwora do ręki właściciela."
 
 #: ../../EMA.rst:1290
 msgid ""
@@ -3799,6 +3869,9 @@ msgid ""
 "|tap|: Untap target attacking creature. Prevent all combat damage that would "
 "be dealt to and dealt by that creature this turn."
 msgstr ""
+"|tap|: Odkręć wskazanego atakującego stwora. Zażegnaj wszystkie obrażenia "
+"bojowe, jakie mógłby otrzymać lub mogłyby zostać przez niego zadane w tej "
+"turze."
 
 #: ../../EMA.rst:1298
 msgid ""
@@ -3812,10 +3885,12 @@ msgid ""
 "|mana_1|: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature "
 "until end of turn. It's still a land."
 msgstr ""
+"|mana_1|: Ten ląd staje się do końca tury artefaktowym stworem Składacz 2/2. "
+"Nadal jest lądem."
 
 #: ../../EMA.rst:1297
 msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany Składacz dostaje do końca tury +1/+1."
 
 #: ../../EMA.rst:1306
 msgid ""
@@ -3921,7 +3996,7 @@ msgstr ""
 
 #: ../../EMA.rst:1343
 msgid "|tap|, Sacrifice Wasteland: Destroy target nonbasic land."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Zniszcz wskazany niebazowy ląd."
 
 #: ../../EMA.rst:1351
 msgid ""

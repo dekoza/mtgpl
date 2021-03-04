@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:18+0000\n"
+"PO-Revision-Date: 2021-03-04 20:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -913,7 +913,7 @@ msgstr ""
 
 #: ../../5ED.rst:319
 msgid "Whenever enchanted creature deals damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć zauroczony stwór zada obrażenia, zyskaj tyle samo żyć."
 
 #: ../../5ED.rst:324
 msgid ""
@@ -3907,7 +3907,7 @@ msgstr ""
 
 #: ../../5ED.rst:1453
 msgid "Destroy target permanent."
-msgstr ""
+msgstr "Zniszcz wskazany permanent."
 
 #: ../../5ED.rst:1456
 msgid ""
@@ -4374,6 +4374,9 @@ msgid ""
 "you do, choose two cards in your hand drawn this turn. For each of those "
 "cards, pay 4 life or put the card on top of your library."
 msgstr ""
+"Na początku twojego kroku dobierania, możesz dobrać dwie dodatkowe karty. "
+"Jeśli tak zrobisz, wybierz dwie karty dobrane w tej turze w twojej ręce. Za "
+"każdą z nich zapłać 4 życia lub umieść ją na wierzchu twojej biblioteki."
 
 #: ../../5ED.rst:1642
 msgid ""
@@ -4609,7 +4612,7 @@ msgstr ""
 
 #: ../../5ED.rst:1727
 msgid "Sacrifice a creature: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "Poświęć stwora: Weź |colorless|\\ |colorless|."
 
 #: ../../5ED.rst:1732
 msgid ""
@@ -5200,11 +5203,11 @@ msgstr ""
 
 #: ../../5ED.rst:1923
 msgid "Nevinyrral's Disk enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../5ED.rst:1925
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
-msgstr ""
+msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 
 #: ../../5ED.rst:1930
 msgid ""
@@ -5437,6 +5440,8 @@ msgid ""
 "As long as Winter Orb is untapped, players can't untap more than one land "
 "during their untap steps."
 msgstr ""
+"O ile ten artefakt jest odkręcony, gracze nie mogą odkręcić więcej niż "
+"jednego lądu podczas swoich kroków odkręcania."
 
 #: ../../5ED.rst:2008
 msgid ""

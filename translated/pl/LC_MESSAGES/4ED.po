@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 20:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/4ed/pl/>\n"
 "Language: pl\n"
@@ -746,7 +746,7 @@ msgstr ""
 
 #: ../../4ED.rst:255
 msgid "Whenever enchanted creature deals damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć zauroczony stwór zada obrażenia, zyskaj tyle samo żyć."
 
 #: ../../4ED.rst:260
 msgid ""
@@ -3230,7 +3230,7 @@ msgstr ""
 
 #: ../../4ED.rst:1199
 msgid "Destroy target permanent."
-msgstr ""
+msgstr "Zniszcz wskazany permanent."
 
 #: ../../4ED.rst:1202
 msgid ""
@@ -3619,6 +3619,9 @@ msgid ""
 "you do, choose two cards in your hand drawn this turn. For each of those "
 "cards, pay 4 life or put the card on top of your library."
 msgstr ""
+"Na początku twojego kroku dobierania, możesz dobrać dwie dodatkowe karty. "
+"Jeśli tak zrobisz, wybierz dwie karty dobrane w tej turze w twojej ręce. Za "
+"każdą z nich zapłać 4 życia lub umieść ją na wierzchu twojej biblioteki."
 
 #: ../../4ED.rst:1356
 msgid ""
@@ -4526,11 +4529,11 @@ msgstr ""
 
 #: ../../4ED.rst:1671
 msgid "Nevinyrral's Disk enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../4ED.rst:1673
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
-msgstr ""
+msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 
 #: ../../4ED.rst:1676
 msgid ""
@@ -4819,6 +4822,8 @@ msgid ""
 "As long as Winter Orb is untapped, players can't untap more than one land "
 "during their untap steps."
 msgstr ""
+"O ile ten artefakt jest odkręcony, gracze nie mogą odkręcić więcej niż "
+"jednego lądu podczas swoich kroków odkręcania."
 
 #: ../../4ED.rst:1780
 msgid ""
@@ -4860,10 +4865,12 @@ msgid ""
 "|mana_1|: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature "
 "until end of turn. It's still a land."
 msgstr ""
+"|mana_1|: Ten ląd staje się do końca tury artefaktowym stworem Składacz 2/2. "
+"Nadal jest lądem."
 
 #: ../../4ED.rst:1791
 msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany Składacz dostaje do końca tury +1/+1."
 
 #: ../../4ED.rst:1796
 msgid ""
