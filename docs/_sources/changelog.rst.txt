@@ -8,6 +8,7 @@ Spis zmian
    * Magic 2011 - 100%
    * Magic 2012 - 100%
    * Eternal Masters - 100%
+   * Iconic Masters - 100%
 
 2021-03-01
    * Modern Masters 2017 - 100%
