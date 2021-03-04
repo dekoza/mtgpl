@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -1816,7 +1816,7 @@ msgid ""
 "Infect (This creature deals damage to creatures in the form of -1/-1 "
 "counters and to players in the form of poison counters.)"
 msgstr ""
-"Zatruwanie (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
+"Infekcja (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
 "graczom w postaci znaczników zatrucia.)"
 
 #: ../../2XM.rst:561
@@ -2505,6 +2505,10 @@ msgid ""
 "of your library in any order. (Cards with no colored mana in their mana "
 "costs are colorless. Lands are also colorless.)"
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz spośród nich "
+"ujawnić bezkolorową kartę i umieścić ją w twojej ręce. Następnie umieść "
+"pozostałe dowolnie na spodzie twojej biblioteki. (Karty bez symboli "
+"kolorowej many w ich kosztach many są bezkolorowe. Lądy też są bezkolorowe.)"
 
 #: ../../2XM.rst:790
 msgid ""
@@ -4222,16 +4226,20 @@ msgid ""
 "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2| "
+"dowolną liczbę razy.)"
 
 #: ../../2XM.rst:1365
 msgid ""
 "Everflowing Chalice enters the battlefield with a charge counter on it for "
 "each time it was kicked."
 msgstr ""
+"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładowania, ile razy "
+"został podbity."
 
 #: ../../2XM.rst:1367
 msgid "|tap|: Add |colorless| for each charge counter on Everflowing Chalice."
-msgstr ""
+msgstr "|tap|: Weź |colorless| za każdy znacznik ładowania na tym artefakcie."
 
 #: ../../2XM.rst:1372
 msgid ""

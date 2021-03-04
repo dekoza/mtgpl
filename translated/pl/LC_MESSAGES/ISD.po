@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 21:28+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -2326,6 +2326,8 @@ msgid ""
 "Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 "
 "damage to any target."
 msgstr ""
+"Ilekroć rzucisz czar z twojego cmentarza, ten urok zadaje wskazanemu celowi "
+"2 obrażenia."
 
 #: ../../ISD.rst:740
 msgid ""
@@ -2419,7 +2421,7 @@ msgstr ""
 # 5beacf5e2faa45b7a9dd2f3bd7480675
 #: ../../ISD.rst:765
 msgid "Draw two cards, then discard a card at random."
-msgstr ""
+msgstr "Dobierz dwie karty, następnie odrzuć losową kartę."
 
 #: ../../ISD.rst:774
 msgid ""

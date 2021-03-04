@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -333,7 +333,7 @@ msgid ""
 "Infect (This creature deals damage to creatures in the form of -1/-1 "
 "counters and to players in the form of poison counters.)"
 msgstr ""
-"Zatruwanie (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
+"Infekcja (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
 "graczom w postaci znaczników zatrucia.)"
 
 #: ../../NPH.rst:94
@@ -408,8 +408,8 @@ msgid ""
 "source had infect. (Damage is dealt to you in the form of poison counters.)"
 msgstr ""
 "Dopóki masz 0 lub mniej życia, wszystkie obrażenia tobie zadawane są "
-"traktowane jakby ich źródło miało zatruwanie (Otrzymujesz obrażenia w "
-"postaci znaczników zatrucia.)"
+"traktowane jakby ich źródło miało infekcję (Otrzymujesz obrażenia w postaci "
+"znaczników zatrucia.)"
 
 #: ../../NPH.rst:126
 msgid ""
@@ -1123,13 +1123,15 @@ msgstr ""
 # a489d12e66f54ac2821da001a5d7f126
 #: ../../NPH.rst:383
 msgid "Enchanted creature has infect."
-msgstr "Zauroczony stwór ma zatruwanie."
+msgstr "Zauroczony stwór ma infekcję."
 
 # 3572d8fb05f84ac58affa51e1274ac2e
 #: ../../NPH.rst:385
 msgid ""
 "At the beginning of your upkeep, put a -1/-1 counter on enchanted creature."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik -1/-1 na zauroczonym "
+"stworze."
 
 # d218c40b0ebb4ce7b7096c0b10420be0
 #: ../../NPH.rst:387
@@ -1938,7 +1940,7 @@ msgstr ""
 # 991929f85d6145de891bcdf3c178d912
 #: ../../NPH.rst:679
 msgid "Creatures your opponents control lose infect."
-msgstr "Stwory pod władaniem twoich przeciwników tracą zatruwanie."
+msgstr "Stwory pod władaniem twoich przeciwników tracą infekcję."
 
 #: ../../NPH.rst:686
 msgid ""
@@ -1989,8 +1991,8 @@ msgid ""
 "At the beginning of your upkeep, create a 1/1 green Insect creature token "
 "with infect for each poison counter your opponents have."
 msgstr ""
-"Na początku twojego utrzymania, stwórz tyle żetonów zielonego stwora Owad "
-"1/1 z zatruwaniem, ile łącznie żetonów zatrucia mają twoi przeciwnicy."
+"Na początku twojego utrzymania, stwórz tyle żetonów zielonego stwora Owad 1/"
+"1 z infekcją, ile łącznie żetonów zatrucia mają twoi przeciwnicy."
 
 #: ../../NPH.rst:704
 msgid ""
@@ -2049,7 +2051,7 @@ msgid ""
 "damage to creatures in the form of -1/-1 counters and to players in the form "
 "of poison counters.)"
 msgstr ""
-"Ten stwór ma zatruwanie dopóki przeciwnik jest zatruty. (Zadaje obrażenia "
+"Ten stwór ma infekcję o ile przeciwnik jest zatruty. (Zadaje obrażenia "
 "stworom w postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../NPH.rst:732

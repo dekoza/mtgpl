@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -2177,6 +2177,8 @@ msgid ""
 "Whenever a player casts a noncreature spell, each of that player's opponents "
 "may draw a card."
 msgstr ""
+"Ilekroć gracz rzuci nie-stworowy czar, każdy z przeciwników owego gracza "
+"może dobrać kartę."
 
 #: ../../FUT.rst:744
 msgid ""
@@ -2206,6 +2208,8 @@ msgid ""
 "If Kavu Primarch was kicked, it enters the battlefield with four +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ten stwór został podbity, wchodzi na pole walki mając cztery znaczniki "
+"+1/+1."
 
 #: ../../FUT.rst:748
 msgid ""
@@ -2286,6 +2290,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../FUT.rst:778
 msgid ""
@@ -2323,6 +2331,9 @@ msgid ""
 "it. At the beginning of your upkeep, remove a time counter from it. When the "
 "last is removed, sacrifice it.)"
 msgstr ""
+"Zanikanie 2 (Ten stwór wchodzi na pole walki z dwoma znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń z niego znacznik czasu. Kiedy "
+"ostatni zostanie usunięty, poświęć go.)"
 
 #: ../../FUT.rst:785
 msgid ""
@@ -2393,12 +2404,16 @@ msgid ""
 "Search your library for a green creature card, reveal it, put it into your "
 "hand, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../FUT.rst:809
 msgid ""
 "At the beginning of your next upkeep, pay |mana_2|\\ |mana_g|\\ |mana_g|. If "
 "you don't, you lose the game."
 msgstr ""
+"Na początku twojego najbliższego kroku utrzymania, zapłać |mana_2|\\ |mana_g|"
+"\\ |mana_g|. Jeśli tego nie zrobisz, przegrywasz grę."
 
 #: ../../FUT.rst:818
 msgid ""
@@ -2410,16 +2425,20 @@ msgstr ""
 #: ../../FUT.rst:813
 msgid "At the beginning of your upkeep, put a spore counter on Utopia Mycon."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../FUT.rst:815
 msgid ""
 "Remove three spore counters from Utopia Mycon: Create a 1/1 green Saproling "
 "creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../FUT.rst:817
 msgid "Sacrifice a Saproling: Add one mana of any color."
-msgstr ""
+msgstr "Poświęć Sadzonkę: Weź jedną manę dowolnego koloru."
 
 #: ../../FUT.rst:822
 msgid ""
@@ -2476,11 +2495,14 @@ msgid ""
 "If you control four or fewer lands, search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Jeśli władasz nie więcej niż czterema lądami, wyszukaj w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../FUT.rst:837
 msgid ""
 "Cycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling—Poświęć ląd (Poświęć ląd, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../FUT.rst:842
 msgid ""
@@ -2491,7 +2513,7 @@ msgstr ""
 
 #: ../../FUT.rst:841
 msgid "Spend only mana produced by basic lands to cast this spell."
-msgstr ""
+msgstr "Do rzucenia tego czaru wydaj wyłącznie manę wziętą z bazowych lądów."
 
 #: ../../FUT.rst:846
 msgid ""
@@ -2502,7 +2524,7 @@ msgstr ""
 
 #: ../../FUT.rst:845
 msgid "Creatures with no abilities get +2/+2."
-msgstr ""
+msgstr "Stwory bez zdolności dostają +2/+2."
 
 #: ../../FUT.rst:852
 msgid ""
@@ -2582,12 +2604,16 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Sporoloth Ancient."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../FUT.rst:877
 msgid ""
 "Creatures you control have \"Remove two spore counters from this creature: "
 "Create a 1/1 green Saproling creature token.\""
 msgstr ""
+"Stwory pod twoim władaniem mają \"Usuń dwa znaczniki zarodnika z tego stwora:"
+" Stwórz żeton zielonego stwora Sadzonka 1/1.\""
 
 #: ../../FUT.rst:882
 msgid ""
@@ -2636,6 +2662,9 @@ msgid ""
 "damage to a player, that player gets a poison counter. A player with ten or "
 "more poison counters loses the game.)"
 msgstr ""
+"Wszystkie Drzazgacze mają zatruwanie 1. (Ilekroć Drzazgacz zada graczowi "
+"obrażenia bojowe, ów gracz dostaje znacznik zatrucia. Gracz mający co "
+"najmniej dziesięć znaczników zatrucia przegrywa grę.)"
 
 #: ../../FUT.rst:896
 msgid ""
@@ -2649,6 +2678,8 @@ msgid ""
 "You may reveal a multicolored card you own from outside the game and put it "
 "into your hand. Exile Glittering Wish."
 msgstr ""
+"Możesz ujawnić własną wielokolorową kartę spoza gry i umieścić ją w twojej "
+"ręce. Wygnaj ten czar."
 
 #: ../../FUT.rst:900
 msgid ""
@@ -2690,6 +2721,8 @@ msgid ""
 "Creatures you control have flying, first strike, vigilance, trample, haste, "
 "and protection from black and from red."
 msgstr ""
+"Stwory pod twoim władaniem mają latanie, pierwszy cios, czujność, "
+"tratowanie, pośpiech i ochronę przed czarnym i czerwonym."
 
 #: ../../FUT.rst:914
 msgid ""
@@ -2703,6 +2736,8 @@ msgid ""
 "As Cloud Key enters the battlefield, choose artifact, creature, enchantment, "
 "instant, or sorcery."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy wybierz artefakt, stwór, urok, sztuczka "
+"lub obrzęd."
 
 #: ../../FUT.rst:913
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
@@ -2956,7 +2991,7 @@ msgstr ""
 
 #: ../../FUT.rst:999
 msgid "Tolaria West enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi prekręcony na pole bitwy."
 
 #: ../../FUT.rst:1001
 msgid "|tap|: Add |mana_u|."

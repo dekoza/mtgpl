@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 10:25+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -2301,6 +2301,8 @@ msgid ""
 "If Kavu Primarch was kicked, it enters the battlefield with four +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ten stwór został podbity, wchodzi na pole walki mając cztery znaczniki "
+"+1/+1."
 
 #: ../../MM2.rst:826
 msgid ""
@@ -3280,16 +3282,20 @@ msgid ""
 "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2| "
+"dowolną liczbę razy.)"
 
 #: ../../MM2.rst:1183
 msgid ""
 "Everflowing Chalice enters the battlefield with a charge counter on it for "
 "each time it was kicked."
 msgstr ""
+"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładowania, ile razy "
+"został podbity."
 
 #: ../../MM2.rst:1185
 msgid "|tap|: Add |colorless| for each charge counter on Everflowing Chalice."
-msgstr ""
+msgstr "|tap|: Weź |colorless| za każdy znacznik ładowania na tym artefakcie."
 
 #: ../../MM2.rst:1190
 msgid ""

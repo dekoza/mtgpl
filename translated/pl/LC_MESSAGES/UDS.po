@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uds/pl/>\n"
 "Language: pl\n"
@@ -340,7 +340,7 @@ msgstr ""
 
 #: ../../UDS.rst:119
 msgid "Flying, protection from blue"
-msgstr ""
+msgstr "Latanie, ochrona przed niebieskim"
 
 #: ../../UDS.rst:126
 msgid ""
@@ -1143,6 +1143,9 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_4|\\ |mana_r|\\ |mana_r| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po początku twojego "
+"poprzedniego kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../UDS.rst:421
 msgid ""
@@ -1220,12 +1223,17 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_2|\\ |mana_r|\\ |mana_r| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po początku twojego "
+"poprzedniego kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../UDS.rst:449
 msgid ""
 "When Keldon Champion enters the battlefield, it deals 3 damage to target "
 "player or planeswalker."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu graczowi lub "
+"wędrowcowi 3 obrażenia."
 
 #: ../../UDS.rst:456
 msgid ""

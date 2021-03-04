@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 08:02+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -2536,6 +2536,8 @@ msgid ""
 "Search your library for a Plains, Island, Swamp, or Mountain card and put it "
 "onto the battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Równiny, Wyspy, Bagna lub Góry i umieść "
+"ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:860
 msgid ""
@@ -2880,7 +2882,7 @@ msgstr ""
 
 #: ../../C16.rst:959
 msgid "All Saprolings get +1/+1."
-msgstr ""
+msgstr "Wszystkie Sadzonki dostają +1/+1."
 
 #: ../../C16.rst:961
 msgid ""
@@ -2895,6 +2897,8 @@ msgid ""
 "When Thelonite Hermit is turned face up, create four 1/1 green Saproling "
 "creature tokens."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, stwórz cztery żetony zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../C16.rst:970
 msgid ""
@@ -4249,16 +4253,20 @@ msgid ""
 "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2| "
+"dowolną liczbę razy.)"
 
 #: ../../C16.rst:1449
 msgid ""
 "Everflowing Chalice enters the battlefield with a charge counter on it for "
 "each time it was kicked."
 msgstr ""
+"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładowania, ile razy "
+"został podbity."
 
 #: ../../C16.rst:1451
 msgid "|tap|: Add |colorless| for each charge counter on Everflowing Chalice."
-msgstr ""
+msgstr "|tap|: Weź |colorless| za każdy znacznik ładowania na tym artefakcie."
 
 #: ../../C16.rst:1456
 msgid ""

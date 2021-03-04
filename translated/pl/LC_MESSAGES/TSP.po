@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -2681,6 +2681,9 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_2|\\ |mana_r|\\ |mana_r| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po początku twojego "
+"poprzedniego kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSP.rst:930
 msgid ""
@@ -2975,7 +2978,7 @@ msgstr ""
 
 #: ../../TSP.rst:1027
 msgid "Orcish Cannonade deals 2 damage to any target and 3 damage to you."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia oraz 3 obrażenia tobie."
 
 #: ../../TSP.rst:1040
 msgid ""
@@ -3105,7 +3108,7 @@ msgstr ""
 
 #: ../../TSP.rst:1075
 msgid "Sudden Shock deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../TSP.rst:1080
 msgid ""
@@ -3134,6 +3137,9 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_4|\\ |mana_r|\\ |mana_r| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po początku twojego "
+"poprzedniego kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSP.rst:1085
 msgid "Tectonic Fiend attacks each combat if able."
@@ -3316,6 +3322,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 5—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_g| i wygnaj ją z pięcioma znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../TSP.rst:1160
 msgid ""
@@ -3343,6 +3353,9 @@ msgid ""
 "All Sliver creatures have \"Whenever this creature is dealt damage, put a +1/"
 "+1 counter on it.\" (The damage is dealt before the counter is put on.)"
 msgstr ""
+"Wszystkie Drzazgacze mają \"Ilekroć ten stwór otrzyma obrażenia, umieść na "
+"nim znacznik +1/+1.\" (Obrażenia są zadawane zanim znacznik zostanie "
+"umieszczony.)"
 
 #: ../../TSP.rst:1168
 msgid ""
@@ -3353,7 +3366,7 @@ msgstr ""
 
 #: ../../TSP.rst:1167
 msgid "All Slivers have \"|tap|: Add one mana of any color.\""
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../TSP.rst:1172
 msgid ""
@@ -3381,6 +3394,8 @@ msgid ""
 "|mana_g|, |tap|, Discard a card: Search your library for a basic land card, "
 "reveal it, and put it into your hand. Then shuffle your library."
 msgstr ""
+"|mana_g|, |tap|, odrzuć kartę: Wyszukaj w twojej bibliotece kartę bazowego "
+"lądu, ujawnij ją, umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../TSP.rst:1182
 msgid ""
@@ -3420,6 +3435,11 @@ msgid ""
 "counters on it. At the beginning of your upkeep, remove a time counter. When "
 "the last is removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 3—|mana_1|\\ |mana_g|\\ |mana_g| (Zamiast rzucać tę kartę z "
+"twojej ręki, zapłać |mana_1|\\ |mana_g|\\ |mana_g| i wygnaj ją z trzema "
+"znacznikami czasu. Na początku twojego kroku utrzymania, usuń znacznik "
+"czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia "
+"kosztu many. Ma pośpiech.)"
 
 #: ../../TSP.rst:1191
 msgid ""
@@ -3427,6 +3447,9 @@ msgid ""
 "or land card from their hand onto the battlefield. Repeat this process until "
 "no one puts a card onto the battlefield."
 msgstr ""
+"Zaczynając od ciebie, każdy gracz może umieścić kartę artefaktu, stwora, "
+"uroku lub lądu ze swojej ręki na polu bitwy. Powtórz ten proces dopóki nikt "
+"nie umieści karty na polu bitwy."
 
 #: ../../TSP.rst:1198
 msgid ""
@@ -3474,7 +3497,7 @@ msgstr ""
 
 #: ../../TSP.rst:1209
 msgid "All Sliver creatures get +2/+2."
-msgstr ""
+msgstr "Wszystkie Drzazgacze dostają +2/+2."
 
 #: ../../TSP.rst:1214
 msgid ""
@@ -3514,6 +3537,8 @@ msgid ""
 "When Nantuko Shaman enters the battlefield, if you control no tapped lands, "
 "draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie masz we władaniu "
+"przekręconych lądów, dobierz kartę."
 
 #: ../../TSP.rst:1223
 msgid ""
@@ -3523,6 +3548,11 @@ msgid ""
 "When the last is removed, cast it without paying its mana cost. It has "
 "haste.)"
 msgstr ""
+"Zawieszenie 1—|mana_2|\\ |mana_g|\\ |mana_g| (Zamiast rzucać tę kartę z "
+"twojej ręki, możesz zapłacić |mana_2|\\ |mana_g|\\ |mana_g| i wygnaj ją ze "
+"znacznikiem czasu. Na początku twojego kroku utrzymania, usuń znacznik "
+"czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia "
+"kosztu many. Ma pośpiech.)"
 
 #: ../../TSP.rst:1228
 msgid ""
@@ -3562,13 +3592,15 @@ msgstr ""
 
 #: ../../TSP.rst:1237
 msgid "Phantom Wurm enters the battlefield with four +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1."
 
 #: ../../TSP.rst:1239
 msgid ""
 "If damage would be dealt to Phantom Wurm, prevent that damage. Remove a +1/"
 "+1 counter from Phantom Wurm."
 msgstr ""
+"Jeśli obrażenia miałyby zostać zadane temu stworowi, zażegnaj je. Usuń z "
+"tego stwora znacznik +1/+1."
 
 #: ../../TSP.rst:1244
 msgid ""
@@ -3624,13 +3656,15 @@ msgstr ""
 
 #: ../../TSP.rst:1261
 msgid "Flying, protection from blue"
-msgstr ""
+msgstr "Latanie, ochrona przed niebieskim"
 
 #: ../../TSP.rst:1263
 msgid ""
 "Return a Forest you control to its owner's hand: Untap target creature. "
 "Activate this ability only once each turn."
 msgstr ""
+"Przywróć Las pod twoim władaniem do ręki właściciela: Odkręć wskazanego "
+"stwora. Możesz aktywować tylko raz na turę."
 
 #: ../../TSP.rst:1270
 msgid ""
@@ -3644,6 +3678,8 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../TSP.rst:1269
 msgid ""
@@ -3652,6 +3688,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../TSP.rst:1276
 msgid ""
@@ -3699,7 +3739,7 @@ msgstr ""
 #: ../../TSP.rst:1287
 msgid ""
 "All Sliver creatures have reach. (They can block creatures with flying.)"
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają zasięg. (Mogą blokować stwory z lataniem.)"
 
 #: ../../TSP.rst:1294
 msgid ""
@@ -3713,12 +3753,16 @@ msgid ""
 "At the beginning of your upkeep, put a spore counter on each Fungus you "
 "control."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../TSP.rst:1293
 msgid ""
 "Remove three spore counters from Sporesower Thallid: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton niebieskiego "
+"stwora Sadzonka 1/1."
 
 #: ../../TSP.rst:1298
 msgid ""
@@ -3782,16 +3826,20 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Thallid Germinator."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../TSP.rst:1317
 msgid ""
 "Remove three spore counters from Thallid Germinator: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../TSP.rst:1319
 msgid "Sacrifice a Saproling: Target creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć Sadzonkę: Wskazany stwór dostaje do końca tury +1/+1."
 
 #: ../../TSP.rst:1328
 msgid ""
@@ -3805,12 +3853,16 @@ msgid ""
 "At the beginning of your upkeep, put a spore counter on Thallid Shell-"
 "Dweller."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../TSP.rst:1327
 msgid ""
 "Remove three spore counters from Thallid Shell-Dweller: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../TSP.rst:1334
 msgid ""
@@ -3821,13 +3873,15 @@ msgstr ""
 
 #: ../../TSP.rst:1331
 msgid "Each Fungus creature gets +1/+1 for each spore counter on it."
-msgstr ""
+msgstr "Każdy Grzyb dostaje +1/+1 za każdy znacznik zarodnika na nim."
 
 #: ../../TSP.rst:1333
 msgid ""
 "|mana_b|\\ |mana_g|, Exile a Fungus card from a graveyard: Put a spore "
 "counter on each Fungus on the battlefield."
 msgstr ""
+"|mana_b|\\ |mana_g|, wygnaj kartę Grzyba z cmentarza: Umieść znacznik "
+"zarodnika na każdym Grzybie na polu bitwy."
 
 #: ../../TSP.rst:1342
 msgid ""
@@ -3838,7 +3892,7 @@ msgstr ""
 
 #: ../../TSP.rst:1337
 msgid "All Saprolings get +1/+1."
-msgstr ""
+msgstr "Wszystkie Sadzonki dostają +1/+1."
 
 #: ../../TSP.rst:1339
 msgid ""
@@ -3853,6 +3907,8 @@ msgid ""
 "When Thelonite Hermit is turned face up, create four 1/1 green Saproling "
 "creature tokens."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, stwórz cztery żetony zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../TSP.rst:1348
 msgid ""
@@ -3863,7 +3919,7 @@ msgstr ""
 
 #: ../../TSP.rst:1345
 msgid "Target creature gets +1/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+2."
 
 #: ../../TSP.rst:1347
 msgid ""
@@ -3885,6 +3941,8 @@ msgid ""
 "Domain — Until end of turn, creatures you control gain trample and get +1/+1 "
 "for each basic land type among lands you control."
 msgstr ""
+"Domena — Do końca tury stwory pod twoim władaniem zyskują tratowanie i "
+"dostają +1/+1 za każdy typ bazowego lądu pośród lądów pod twoim władaniem."
 
 #: ../../TSP.rst:1360
 msgid ""
@@ -3977,6 +4035,9 @@ msgid ""
 "a Forest card and put it onto the battlefield tapped under target player's "
 "control. If you do, shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę Lasu i umieścić ją przekręconą na polu bitwy pod władaniem wskazanego "
+"gracza. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
 
 #: ../../TSP.rst:1388
 msgid ""
@@ -4027,7 +4088,7 @@ msgstr ""
 
 #: ../../TSP.rst:1397
 msgid "All Sliver creatures have haste."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają pośpiech."
 
 #: ../../TSP.rst:1399
 msgid ""

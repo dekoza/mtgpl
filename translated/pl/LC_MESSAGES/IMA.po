@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ima/pl/>\n"
 "Language: pl\n"
@@ -2426,6 +2426,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 5—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_g| i wygnaj ją z pięcioma znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../IMA.rst:892
 msgid ""
@@ -2674,6 +2678,8 @@ msgid ""
 "When Nantuko Shaman enters the battlefield, if you control no tapped lands, "
 "draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie masz we władaniu "
+"przekręconych lądów, dobierz kartę."
 
 #: ../../IMA.rst:965
 msgid ""
@@ -2683,6 +2689,11 @@ msgid ""
 "When the last is removed, cast it without paying its mana cost. It has "
 "haste.)"
 msgstr ""
+"Zawieszenie 1—|mana_2|\\ |mana_g|\\ |mana_g| (Zamiast rzucać tę kartę z "
+"twojej ręki, możesz zapłacić |mana_2|\\ |mana_g|\\ |mana_g| i wygnaj ją ze "
+"znacznikiem czasu. Na początku twojego kroku utrzymania, usuń znacznik "
+"czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia "
+"kosztu many. Ma pośpiech.)"
 
 #: ../../IMA.rst:970
 msgid ""
@@ -2693,7 +2704,7 @@ msgstr ""
 
 #: ../../IMA.rst:969
 msgid "Destroy target artifact or enchantment. Its controller gains 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Jego władca zyskuje 4 życia."
 
 #: ../../IMA.rst:976
 msgid ""
@@ -2817,6 +2828,8 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../IMA.rst:1017
 msgid ""
@@ -2825,6 +2838,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../IMA.rst:1022
 msgid ""

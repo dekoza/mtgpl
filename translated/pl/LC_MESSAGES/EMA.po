@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
 "Language: pl\n"
@@ -1838,10 +1838,13 @@ msgid ""
 "named Avarax, reveal it, and put it into your hand. If you do, shuffle your "
 "library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
+"przetasuj twoją bibliotekę."
 
 #: ../../EMA.rst:613
 msgid "|mana_1|\\ |mana_r|: Avarax gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../EMA.rst:620
 msgid ""
@@ -1855,6 +1858,8 @@ msgid ""
 "Battle Squadron's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../EMA.rst:624
 msgid ""
@@ -1894,6 +1899,8 @@ msgid ""
 "Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 "
 "damage to any target."
 msgstr ""
+"Ilekroć rzucisz czar z twojego cmentarza, ten urok zadaje wskazanemu celowi "
+"2 obrażenia."
 
 #: ../../EMA.rst:636
 msgid ""
@@ -1907,6 +1914,8 @@ msgid ""
 "Carbonize deals 3 damage to any target. If it's a creature, it can't be "
 "regenerated this turn, and if it would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Jeśli to stwór, nie może on "
+"regenerować w tej turze i jeśli miałby umrzeć, zamiast tego wygnaj go."
 
 #: ../../EMA.rst:640
 msgid ""
@@ -1938,12 +1947,17 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_4|\\ |mana_r|\\ |mana_r| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po początku twojego "
+"poprzedniego kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../EMA.rst:645
 msgid ""
 "When Crater Hellion enters the battlefield, it deals 4 damage to each other "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje po 4 obrażenia każdemu innemu "
+"stworowi."
 
 #: ../../EMA.rst:652
 msgid ""
@@ -1954,7 +1968,7 @@ msgstr ""
 
 #: ../../EMA.rst:649
 msgid "Draw two cards, then discard a card at random."
-msgstr ""
+msgstr "Dobierz dwie karty, następnie odrzuć losową kartę."
 
 #: ../../EMA.rst:651
 msgid ""
@@ -2052,7 +2066,7 @@ msgstr ""
 
 #: ../../EMA.rst:685
 msgid "Flame Jab deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../EMA.rst:692
 msgid ""
@@ -2066,6 +2080,8 @@ msgid ""
 "Search your library for a card, put that card into your hand, discard a card "
 "at random, then shuffle your library."
 msgstr ""
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, odrzuć losową "
+"kartę, następnie przetasuj twoją bibliotekę."
 
 #: ../../EMA.rst:698
 msgid ""
@@ -2088,6 +2104,7 @@ msgstr ""
 msgid ""
 "When Ghitu Slinger enters the battlefield, it deals 2 damage to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../EMA.rst:702
 msgid ""
@@ -2101,6 +2118,8 @@ msgid ""
 "At the beginning of your upkeep, Honden of Infinite Rage deals damage to any "
 "target equal to the number of Shrines you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten urok zadaje wskazanemu celowi tyle "
+"obrażeń, iloma Kapliczkami władasz."
 
 #: ../../EMA.rst:710
 msgid ""
@@ -2115,12 +2134,17 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_2|\\ |mana_r|\\ |mana_r| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po początku twojego "
+"poprzedniego kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../EMA.rst:709
 msgid ""
 "When Keldon Champion enters the battlefield, it deals 3 damage to target "
 "player or planeswalker."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu graczowi lub "
+"wędrowcowi 3 obrażenia."
 
 #: ../../EMA.rst:716
 msgid ""
@@ -2135,6 +2159,9 @@ msgid ""
 "it. At the beginning of your upkeep, remove a time counter from it. When the "
 "last is removed, sacrifice it.)"
 msgstr ""
+"Zanikanie 2 (Ten stwór wchodzi na pole walki z dwoma znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń z niego znacznik czasu. Kiedy "
+"ostatni zostanie usunięty, poświęć go.)"
 
 #: ../../EMA.rst:715
 msgid ""
@@ -2769,7 +2796,7 @@ msgstr ""
 
 #: ../../EMA.rst:937
 msgid "Destroy target artifact or enchantment. Its controller gains 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Jego władca zyskuje 4 życia."
 
 #: ../../EMA.rst:944
 msgid ""

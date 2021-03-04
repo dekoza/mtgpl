@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1933,6 +1933,9 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_4|\\ |mana_r|\\ |mana_r| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po początku twojego "
+"poprzedniego kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 # f42631b918cb4fd7ba7186711117de34
 #: ../../C13.rst:581
@@ -1940,6 +1943,8 @@ msgid ""
 "When Crater Hellion enters the battlefield, it deals 4 damage to each other "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje po 4 obrażenia każdemu innemu "
+"stworowi."
 
 #: ../../C13.rst:588
 msgid ""

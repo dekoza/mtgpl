@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-03 20:24+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -2203,7 +2203,7 @@ msgstr ""
 
 #: ../../MMA.rst:765
 msgid "Sudden Shock deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../MMA.rst:770
 msgid ""
@@ -2306,6 +2306,8 @@ msgid ""
 "When Citanul Woodreaders enters the battlefield, if it was kicked, draw two "
 "cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, dobierz dwie "
+"karty."
 
 #: ../../MMA.rst:806
 msgid ""
@@ -2342,6 +2344,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 5—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_g| i wygnaj ją z pięcioma znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../MMA.rst:814
 msgid ""
@@ -2368,6 +2374,8 @@ msgid ""
 "When Eternal Witness enters the battlefield, you may return target card from "
 "your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../MMA.rst:824
 msgid ""
@@ -2383,6 +2391,11 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 4—|mana_1|\\ |mana_g| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_g| i wygnaj ją z czterema znacznikami "
+"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
+"Ma pośpiech.)"
 
 #: ../../MMA.rst:828
 msgid ""
@@ -2422,7 +2435,7 @@ msgstr ""
 
 #: ../../MMA.rst:835
 msgid "Spend only mana produced by basic lands to cast this spell."
-msgstr ""
+msgstr "Do rzucenia tego czaru wydaj wyłącznie manę wziętą z bazowych lądów."
 
 #: ../../MMA.rst:840
 msgid ""
@@ -2542,6 +2555,8 @@ msgid ""
 "When Nantuko Shaman enters the battlefield, if you control no tapped lands, "
 "draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie masz we władaniu "
+"przekręconych lądów, dobierz kartę."
 
 #: ../../MMA.rst:881
 msgid ""
@@ -2551,6 +2566,11 @@ msgid ""
 "When the last is removed, cast it without paying its mana cost. It has "
 "haste.)"
 msgstr ""
+"Zawieszenie 1—|mana_2|\\ |mana_g|\\ |mana_g| (Zamiast rzucać tę kartę z "
+"twojej ręki, możesz zapłacić |mana_2|\\ |mana_g|\\ |mana_g| i wygnaj ją ze "
+"znacznikiem czasu. Na początku twojego kroku utrzymania, usuń znacznik "
+"czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia "
+"kosztu many. Ma pośpiech.)"
 
 #: ../../MMA.rst:888
 msgid ""
@@ -2633,6 +2653,8 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
 "shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../MMA.rst:913
 msgid ""
@@ -2641,6 +2663,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MMA.rst:920
 msgid ""
@@ -2654,12 +2680,16 @@ msgid ""
 "At the beginning of your upkeep, put a spore counter on each Fungus you "
 "control."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../MMA.rst:919
 msgid ""
 "Remove three spore counters from Sporesower Thallid: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton niebieskiego "
+"stwora Sadzonka 1/1."
 
 #: ../../MMA.rst:926
 msgid ""
@@ -2672,12 +2702,16 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Sporoloth Ancient."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../MMA.rst:925
 msgid ""
 "Creatures you control have \"Remove two spore counters from this creature: "
 "Create a 1/1 green Saproling creature token.\""
 msgstr ""
+"Stwory pod twoim władaniem mają \"Usuń dwa znaczniki zarodnika z tego stwora:"
+" Stwórz żeton zielonego stwora Sadzonka 1/1.\""
 
 #: ../../MMA.rst:932
 msgid ""
@@ -2691,12 +2725,16 @@ msgid ""
 "Search your library for a green creature card, reveal it, put it into your "
 "hand, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
+"twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../MMA.rst:931
 msgid ""
 "At the beginning of your next upkeep, pay |mana_2|\\ |mana_g|\\ |mana_g|. If "
 "you don't, you lose the game."
 msgstr ""
+"Na początku twojego najbliższego kroku utrzymania, zapłać |mana_2|\\ |mana_g|"
+"\\ |mana_g|. Jeśli tego nie zrobisz, przegrywasz grę."
 
 #: ../../MMA.rst:938
 msgid ""
@@ -2759,16 +2797,20 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Thallid Germinator."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../MMA.rst:953
 msgid ""
 "Remove three spore counters from Thallid Germinator: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../MMA.rst:955
 msgid "Sacrifice a Saproling: Target creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć Sadzonkę: Wskazany stwór dostaje do końca tury +1/+1."
 
 #: ../../MMA.rst:964
 msgid ""
@@ -2786,12 +2828,16 @@ msgid ""
 "At the beginning of your upkeep, put a spore counter on Thallid Shell-"
 "Dweller."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym "
+"stworze."
 
 #: ../../MMA.rst:963
 msgid ""
 "Remove three spore counters from Thallid Shell-Dweller: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego stwora: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../MMA.rst:974
 msgid ""
@@ -2826,6 +2872,8 @@ msgid ""
 "Domain — Until end of turn, creatures you control gain trample and get +1/+1 "
 "for each basic land type among lands you control."
 msgstr ""
+"Domena — Do końca tury stwory pod twoim władaniem zyskują tratowanie i "
+"dostają +1/+1 za każdy typ bazowego lądu pośród lądów pod twoim władaniem."
 
 #: ../../MMA.rst:986
 msgid ""

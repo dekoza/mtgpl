@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-04 16:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -2561,6 +2561,8 @@ msgid ""
 "Search your library for a Plains, Island, Swamp, or Mountain card and put it "
 "onto the battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Równiny, Wyspy, Bagna lub Góry i umieść "
+"ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../C17.rst:860
 msgid ""
@@ -3273,7 +3275,7 @@ msgstr ""
 #: ../../C17.rst:1099
 msgid ""
 "|mana_1|, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../C17.rst:1110
 msgid ""
