@@ -109,7 +109,7 @@
 
 .. |ARB_percent| image:: images/pie35.png        
 
-.. |ALL_percent| image:: images/pie10.png        
+.. |ALL_percent| image:: images/pie15.png        
 
 .. |GK2_percent| image:: images/pie65.png        
 
@@ -193,7 +193,7 @@
 
 .. |JUD_percent| image:: images/pie25.png        
 
-.. |MBS_percent| image:: images/pie25.png        
+.. |MBS_percent| image:: images/pie30.png        
 
 .. |PLS_percent| image:: images/pie20.png        
 
@@ -210,7 +210,7 @@
 .. |RNA_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |EMA_percent| image:: images/pie75.png        
+.. |EMA_percent| image:: images/pie80.png        
 
 .. |BNG_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
