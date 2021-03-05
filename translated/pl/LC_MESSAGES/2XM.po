@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-05 00:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -4248,12 +4248,12 @@ msgid ""
 "Everflowing Chalice enters the battlefield with a charge counter on it for "
 "each time it was kicked."
 msgstr ""
-"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładowania, ile razy "
+"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładunku, ile razy "
 "został podbity."
 
 #: ../../2XM.rst:1367
 msgid "|tap|: Add |colorless| for each charge counter on Everflowing Chalice."
-msgstr "|tap|: Weź |colorless| za każdy znacznik ładowania na tym artefakcie."
+msgstr "|tap|: Weź |colorless| za każdy znacznik ładunku na tym artefakcie."
 
 #: ../../2XM.rst:1372
 msgid ""
@@ -4736,7 +4736,7 @@ msgstr ""
 
 #: ../../2XM.rst:1533
 msgid "|tap|: Put a charge counter on Ratchet Bomb."
-msgstr "|tap|: Umieść znacznik ładowania na tym artefakcie."
+msgstr "|tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../2XM.rst:1535
 msgid ""
@@ -4744,7 +4744,7 @@ msgid ""
 "mana cost equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
 "|tap|, poświęć ten artefakt: Zniszcz każdy nie-lądowy permanent, o skrócie "
-"many równym liczbie znaczników ładowania na tym artefakcie."
+"many równym liczbie znaczników ładunku na tym artefakcie."
 
 #: ../../2XM.rst:1542
 msgid ""

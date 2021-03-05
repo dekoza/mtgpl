@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-02-26 08:35+0000\n"
+"PO-Revision-Date: 2021-03-05 00:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -1975,14 +1975,14 @@ msgstr ""
 
 #: ../../RTR.rst:653
 msgid "Mana Bloom enters the battlefield with X charge counters on it."
-msgstr "Mana Bloom wchodzi na pole bitwy mając X znaczników ładowania."
+msgstr "Mana Bloom wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../RTR.rst:655
 msgid ""
 "Remove a charge counter from Mana Bloom: Add one mana of any color. Activate "
 "this ability only once each turn."
 msgstr ""
-"Usuń znacznik ładowania z tego artefaktu: Weź jedną manę dowolnego koloru. "
+"Usuń znacznik ładunku z tego artefaktu: Weź jedną manę dowolnego koloru. "
 "Możesz aktywować tę zdolność tylko raz na turę."
 
 #: ../../RTR.rst:657
@@ -1991,7 +1991,7 @@ msgid ""
 "return it to its owner's hand."
 msgstr ""
 "Na początku twojego utrzymania, jeśli ten artefakt nie ma znaczników "
-"ładowania, przywróć go do ręki właściciela."
+"ładunku, przywróć go do ręki właściciela."
 
 #: ../../RTR.rst:662
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-05 00:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -3291,12 +3291,12 @@ msgid ""
 "Everflowing Chalice enters the battlefield with a charge counter on it for "
 "each time it was kicked."
 msgstr ""
-"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładowania, ile razy "
+"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładunku, ile razy "
 "został podbity."
 
 #: ../../MM2.rst:1185
 msgid "|tap|: Add |colorless| for each charge counter on Everflowing Chalice."
-msgstr "|tap|: Weź |colorless| za każdy znacznik ładowania na tym artefakcie."
+msgstr "|tap|: Weź |colorless| za każdy znacznik ładunku na tym artefakcie."
 
 #: ../../MM2.rst:1190
 msgid ""

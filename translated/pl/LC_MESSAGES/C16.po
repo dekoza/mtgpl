@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-05 00:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -4090,7 +4090,7 @@ msgstr ""
 
 #: ../../C16.rst:1387
 msgid "Astral Cornucopia enters the battlefield with X charge counters on it."
-msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładowania."
+msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../C16.rst:1389
 msgid ""
@@ -4098,7 +4098,7 @@ msgid ""
 "Astral Cornucopia."
 msgstr ""
 "|tap|: Wybierz kolor. Weź jedną manę wybranego koloru za każdy znacznik "
-"ładowania na tym artefakcie."
+"ładunku na tym artefakcie."
 
 #: ../../C16.rst:1394
 msgid ""
@@ -4261,12 +4261,12 @@ msgid ""
 "Everflowing Chalice enters the battlefield with a charge counter on it for "
 "each time it was kicked."
 msgstr ""
-"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładowania, ile razy "
+"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładunku, ile razy "
 "został podbity."
 
 #: ../../C16.rst:1451
 msgid "|tap|: Add |colorless| for each charge counter on Everflowing Chalice."
-msgstr "|tap|: Weź |colorless| za każdy znacznik ładowania na tym artefakcie."
+msgstr "|tap|: Weź |colorless| za każdy znacznik ładunku na tym artefakcie."
 
 #: ../../C16.rst:1456
 msgid ""
