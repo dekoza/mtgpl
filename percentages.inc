@@ -125,7 +125,7 @@
 
 .. |SCG_percent| image:: images/pie30.png        
 
-.. |TSP_percent| image:: images/pie50.png        
+.. |TSP_percent| image:: images/pie60.png        
 
 .. |10E_percent| image:: images/pie45.png        
 
@@ -273,7 +273,7 @@
 .. |M20_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C13_percent| image:: images/pie55.png        
+.. |C13_percent| image:: images/pie60.png        
 
 .. |WAR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -302,7 +302,7 @@
 .. |DOM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |PLC_percent| image:: images/pie50.png        
+.. |PLC_percent| image:: images/pie55.png        
 
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone

@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2021-03-06
+   * Time Spiral Remastered - 100%
+
 2021-03-04
    * Magic 2010 - 100%
    * Magic 2011 - 100%
