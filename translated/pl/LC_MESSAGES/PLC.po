@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-05 23:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/plc/pl/>\n"
 "Language: pl\n"
@@ -2700,6 +2700,8 @@ msgid ""
 "All Slivers have \"|mana_1|, Sacrifice this permanent: This permanent deals "
 "1 damage to any target.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten permanent: Zadaje on "
+"wskazanemu celowi 1 obrażenie.\""
 
 #: ../../PLC.rst:919
 msgid ""
@@ -2707,6 +2709,9 @@ msgid ""
 "damage that would be dealt to target player, planeswalker, or Sliver "
 "creature this turn.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten permanent: Zażegnaj "
+"najbliższe 1 obrażenie jakie mogłoby zostać zadane w tej turze wskazanemu "
+"graczowi, wędrowcowi lub Drzazgaczowi.\""
 
 #: ../../PLC.rst:924
 msgid ""
@@ -2717,7 +2722,7 @@ msgstr ""
 
 #: ../../PLC.rst:923
 msgid "All Slivers have \"Sacrifice this permanent: You gain 3 life.\""
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają \"Poświęć ten permanent: Zyskaj 3 życia.\""
 
 #: ../../PLC.rst:930
 msgid ""
@@ -2728,12 +2733,14 @@ msgstr ""
 
 #: ../../PLC.rst:927
 msgid "All Sliver creatures have defender."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają obronność."
 
 #: ../../PLC.rst:929
 msgid ""
 "All Slivers have \"When this permanent enters the battlefield, draw a card.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"Kiedy ten permanent wejdzie na pole bitwy, "
+"dobierz kartę.\""
 
 #: ../../PLC.rst:934
 msgid ""
@@ -2778,6 +2785,8 @@ msgid ""
 "All Slivers have \"|mana_3|, Sacrifice this permanent: Destroy target "
 "permanent.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_3|, poświęć ten permanent: Zniszcz "
+"wskazany permanent.\""
 
 #: ../../PLC.rst:950
 msgid ""
@@ -2814,7 +2823,7 @@ msgstr ""
 
 #: ../../PLC.rst:959
 msgid "Whenever Radha, Heir to Keld attacks, you may add |mana_r|\\ |mana_r|."
-msgstr ""
+msgstr "Kiedy ten stwór zaatakuje, możesz wziąć |mana_r|\\ |mana_r|."
 
 #: ../../PLC.rst:961
 msgid "|tap|: Add |mana_g|."

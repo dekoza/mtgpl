@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-05 00:12+0000\n"
+"PO-Revision-Date: 2021-03-05 23:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -4853,13 +4853,15 @@ msgstr ""
 
 #: ../../C16.rst:1679
 msgid "|mana_1|, |tap|: Put a storage counter on Dreadship Reef."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../C16.rst:1681
 msgid ""
 "|mana_1|, Remove X storage counters from Dreadship Reef: Add X mana in any "
 "combination of |mana_u| and/or |mana_b|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_u| i/lub |mana_b|."
 
 #: ../../C16.rst:1686
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-05 23:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -5425,6 +5425,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Create a 0/1 red Kobold creature token named "
 "Kobolds of Kher Keep."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|: Stwórz żeton czerwonego stwora Kobold 0/1 o "
+"nazwie Kobolds of Kher Keep."
 
 #: ../../C13.rst:1764
 msgid ""
@@ -5473,13 +5475,15 @@ msgstr ""
 # d0d69916335c470c96efb59ce9d5816c
 #: ../../C13.rst:1777
 msgid "|mana_1|, |tap|: Put a storage counter on Molten Slagheap."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../C13.rst:1779
 msgid ""
 "|mana_1|, Remove X storage counters from Molten Slagheap: Add X mana in any "
 "combination of |mana_b| and/or |mana_r|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_b| i/lub |mana_r|."
 
 #: ../../C13.rst:1788
 msgid ""
@@ -5665,13 +5669,15 @@ msgstr ""
 # a2a78494eca1415bb9f89a9fbf47d73b
 #: ../../C13.rst:1849
 msgid "|mana_1|, |tap|: Put a storage counter on Saltcrusted Steppe."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../C13.rst:1851
 msgid ""
 "|mana_1|, Remove X storage counters from Saltcrusted Steppe: Add X mana in "
 "any combination of |mana_g| and/or |mana_w|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_g| i/lub |mana_w|."
 
 #: ../../C13.rst:1858
 msgid ""
@@ -5918,6 +5924,8 @@ msgid ""
 "|mana_7|, |tap|: Create a 2/2 colorless Assembly-Worker artifact creature "
 "token."
 msgstr ""
+"|mana_7|, |tap|: Stwórz żeton bezkolorowego artefaktowego stwora Składacz 2/"
+"2."
 
 #: ../../C13.rst:1960
 msgid ""

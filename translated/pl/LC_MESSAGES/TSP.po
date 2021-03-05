@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-05 23:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -4101,6 +4101,8 @@ msgid ""
 "All Slivers have \"|mana_1|, Sacrifice this permanent: Target Sliver "
 "creature gets +2/+2 until end of turn.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten permanent: Wskazany "
+"Drzazgacz dostaje do końca tury +2/+2.\""
 
 #: ../../TSP.rst:1404
 msgid ""
@@ -4125,6 +4127,8 @@ msgid ""
 "All Slivers have \"When this permanent enters the battlefield, destroy "
 "target artifact or enchantment.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"Kiedy ten permanent wejdzie na pole bitwy, "
+"zniszcz wskazany artefakt lub urok.\""
 
 #: ../../TSP.rst:1416
 msgid ""
@@ -4149,6 +4153,11 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 4—|mana_w|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_w|\\ |mana_u| i wygnaj ją z czterema znacznikami "
+"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
+"Ma pośpiech.)"
 
 #: ../../TSP.rst:1420
 msgid ""
@@ -4162,6 +4171,8 @@ msgid ""
 "Whenever an opponent casts a spell, Kaervek the Merciless deals damage to "
 "any target equal to that spell's converted mana cost."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, ten stwór zadaje wskazanemu celowi obrażenia "
+"równe skrótowi many owego czaru."
 
 #: ../../TSP.rst:1424
 msgid ""
@@ -4282,13 +4293,13 @@ msgstr ""
 
 #: ../../TSP.rst:1463
 msgid "|mana_1|, |tap|, Sacrifice Chromatic Star: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
 
 #: ../../TSP.rst:1465
 msgid ""
 "When Chromatic Star is put into a graveyard from the battlefield, draw a "
 "card."
-msgstr ""
+msgstr "Kiedy ten artefakt trafi do cmentarza z pola bitwy, dobierz kartę."
 
 #: ../../TSP.rst:1474
 msgid ""
@@ -4323,17 +4334,19 @@ msgstr ""
 
 #: ../../TSP.rst:1477
 msgid "Clockwork Hydra enters the battlefield with four +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1."
 
 #: ../../TSP.rst:1479
 msgid ""
 "Whenever Clockwork Hydra attacks or blocks, remove a +1/+1 counter from it. "
 "If you do, Clockwork Hydra deals 1 damage to any target."
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, usuń z niego znacznik +1/+1. "
+"Jeśli tak zrobisz, ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TSP.rst:1481
 msgid "|tap|: Put a +1/+1 counter on Clockwork Hydra."
-msgstr ""
+msgstr "|tap|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../TSP.rst:1490
 msgid ""
@@ -4367,17 +4380,19 @@ msgstr ""
 
 #: ../../TSP.rst:1493
 msgid "As Gauntlet of Power enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten artefakt na polu bitwy, wybierz kolor."
 
 #: ../../TSP.rst:1495
 msgid "Creatures of the chosen color get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego koloru dostają +1/+1."
 
 #: ../../TSP.rst:1497
 msgid ""
 "Whenever a basic land is tapped for mana of the chosen color, its controller "
 "adds an additional one mana of that color."
 msgstr ""
+"Ilekroć bazowy ląd jest przekręcany przy pobieraniu many wybranego koloru, "
+"jego władca bierze dodatkową manę owego koloru."
 
 #: ../../TSP.rst:1502
 msgid ""
@@ -4390,6 +4405,7 @@ msgstr ""
 msgid ""
 "Creatures you control are Slivers in addition to their other creature types."
 msgstr ""
+"Stwory pod twoim władaniem są Drzazgaczami oprócz swoich innych typów stwora."
 
 #: ../../TSP.rst:1506
 msgid ""
@@ -4404,6 +4420,9 @@ msgid ""
 "that permanent or card has a time counter on it, you may remove a time "
 "counter from it or put another time counter on it."
 msgstr ""
+"|tap|: Wskaż permanent pod twoim władaniem lub wybierz własną zawieszoną "
+"kartę. Jeśli ów permanent lub karta ma znacznik czasu, możesz zeń usunąć lub "
+"dodać kolejny znacznik czasu."
 
 #: ../../TSP.rst:1510
 msgid ""
@@ -4634,13 +4653,15 @@ msgstr ""
 
 #: ../../TSP.rst:1591
 msgid "|mana_1|, |tap|: Put a storage counter on Calciform Pools."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../TSP.rst:1593
 msgid ""
 "|mana_1|, Remove X storage counters from Calciform Pools: Add X mana in any "
 "combination of |mana_w| and/or |mana_u|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_w| i/lub |mana_u|."
 
 #: ../../TSP.rst:1602
 msgid ""
@@ -4651,13 +4672,15 @@ msgstr ""
 
 #: ../../TSP.rst:1599
 msgid "|mana_1|, |tap|: Put a storage counter on Dreadship Reef."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../TSP.rst:1601
 msgid ""
 "|mana_1|, Remove X storage counters from Dreadship Reef: Add X mana in any "
 "combination of |mana_u| and/or |mana_b|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_u| i/lub |mana_b|."
 
 #: ../../TSP.rst:1608
 msgid ""
@@ -4672,6 +4695,9 @@ msgid ""
 "may search your library for a Plains card, put it onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
+"Kiedy ten ląd trafi do cmentarza z pola bitwy, możesz wyszukać w twojej "
+"bibliotece kartę Równiny, umieść ją przekręconą na polu bitwy, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../TSP.rst:1616
 msgid ""
@@ -4682,13 +4708,15 @@ msgstr ""
 
 #: ../../TSP.rst:1613
 msgid "|mana_1|, |tap|: Put a storage counter on Fungal Reaches."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../TSP.rst:1615
 msgid ""
 "|mana_1|, Remove X storage counters from Fungal Reaches: Add X mana in any "
 "combination of |mana_r| and/or |mana_g|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_r| i/lub |mana_g|."
 
 #: ../../TSP.rst:1622
 msgid ""
@@ -4703,12 +4731,17 @@ msgid ""
 "you may begin the game with Gemstone Caverns on the battlefield with a luck "
 "counter on it. If you do, exile a card from your hand."
 msgstr ""
+"Jeśli ta karta jest w twojej startowej ręce i nie rozpoczynasz, możesz "
+"zacząć grę z tą kartą na polu bitwy mającą znacznik szczęścia. Jeśli tak "
+"zrobisz, wygnaj kartę z twojej ręki."
 
 #: ../../TSP.rst:1621
 msgid ""
 "|tap|: Add |colorless|. If Gemstone Caverns has a luck counter on it, "
 "instead add one mana of any color."
 msgstr ""
+"|tap|: Weź |colorless|. Jeśli ten ląd ma znacznik szczęścia, zamiast tego "
+"weź jedną manę dowolnego koloru."
 
 #: ../../TSP.rst:1628
 msgid ""
@@ -4722,6 +4755,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Create a 0/1 red Kobold creature token named "
 "Kobolds of Kher Keep."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|: Stwórz żeton czerwonego stwora Kobold 0/1 o "
+"nazwie Kobolds of Kher Keep."
 
 #: ../../TSP.rst:1636
 msgid ""
@@ -4732,13 +4767,15 @@ msgstr ""
 
 #: ../../TSP.rst:1633
 msgid "|mana_1|, |tap|: Put a storage counter on Molten Slagheap."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../TSP.rst:1635
 msgid ""
 "|mana_1|, Remove X storage counters from Molten Slagheap: Add X mana in any "
 "combination of |mana_b| and/or |mana_r|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_b| i/lub |mana_r|."
 
 #: ../../TSP.rst:1644
 msgid ""
@@ -4749,13 +4786,15 @@ msgstr ""
 
 #: ../../TSP.rst:1641
 msgid "|mana_1|, |tap|: Put a storage counter on Saltcrusted Steppe."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../TSP.rst:1643
 msgid ""
 "|mana_1|, Remove X storage counters from Saltcrusted Steppe: Add X mana in "
 "any combination of |mana_g| and/or |mana_w|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_g| i/lub |mana_w|."
 
 #: ../../TSP.rst:1650
 msgid ""
@@ -4766,7 +4805,7 @@ msgstr ""
 
 #: ../../TSP.rst:1649
 msgid "|tap|: Regenerate target Insect, Rat, Spider, or Squirrel."
-msgstr ""
+msgstr "|tap|: Zregeneruj wskazanego Owada, Pająka lub Wiewióra."
 
 #: ../../TSP.rst:1654
 msgid ""
@@ -4795,6 +4834,8 @@ msgid ""
 "|mana_7|, |tap|: Create a 2/2 colorless Assembly-Worker artifact creature "
 "token."
 msgstr ""
+"|mana_7|, |tap|: Stwórz żeton bezkolorowego artefaktowego stwora Składacz 2/"
+"2."
 
 #: ../../TSP.rst:1664
 msgid ""
@@ -4808,6 +4849,8 @@ msgid ""
 "You may have Vesuva enter the battlefield tapped as a copy of any land on "
 "the battlefield."
 msgstr ""
+"Możesz sprawić, że ten ląd wejdzie na pole bitwy jako kopia innego lądu na "
+"polu bitwy."
 
 #: ../../TSP.rst:1668
 msgid ""

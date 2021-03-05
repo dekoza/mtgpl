@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-05 00:12+0000\n"
+"PO-Revision-Date: 2021-03-05 23:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -4634,13 +4634,15 @@ msgstr ""
 
 #: ../../C17.rst:1641
 msgid "|mana_1|, |tap|: Put a storage counter on Saltcrusted Steppe."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../C17.rst:1643
 msgid ""
 "|mana_1|, Remove X storage counters from Saltcrusted Steppe: Add X mana in "
 "any combination of |mana_g| and/or |mana_w|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_g| i/lub |mana_w|."
 
 #: ../../C17.rst:1650
 msgid ""

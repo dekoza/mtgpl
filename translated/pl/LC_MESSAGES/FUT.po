@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-05 23:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -2696,6 +2696,11 @@ msgid ""
 "removed, cast it without paying its mana cost. If it's a creature, it has "
 "haste.)"
 msgstr ""
+"|mana_2|, wygnaj nielądową kartę z twojej ręki: Umieść na owej wygnanej "
+"karcie cztery znaczniki czasu. Jeśli nie ma zawieszenia, zyskuje "
+"zawieszenie. (Na początku twojego kroku utrzymania, usuń z owej karty "
+"znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez "
+"płacenia jej kosztu many. Jeśli jest stworem, ma pośpiech.)"
 
 #: ../../FUT.rst:904
 msgid ""
@@ -2708,6 +2713,8 @@ msgstr ""
 msgid ""
 "All Sliver creatures get +1/+1 for each other Sliver on the battlefield."
 msgstr ""
+"Wszystkie Drzazgacze dostają +1/+1 za każdego innego Drzazgacza na polu "
+"bitwy."
 
 #: ../../FUT.rst:908
 msgid ""
@@ -2797,6 +2804,8 @@ msgid ""
 "|mana_1|, |tap|, Discard a card: Create a 1/1 colorless Sliver artifact "
 "creature token named Metallic Sliver."
 msgstr ""
+"|mana_1|, |tap|, odrzuć kartę: Stwórz żeton bezkolorowego artefaktowego "
+"stwora Drzazgacz 1/1 o nazwie Metallic Sliver."
 
 #: ../../FUT.rst:938
 msgid ""
@@ -2991,7 +3000,7 @@ msgstr ""
 
 #: ../../FUT.rst:999
 msgid "Tolaria West enters the battlefield tapped."
-msgstr "Ten ląd wchodzi prekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../FUT.rst:1001
 msgid "|tap|: Add |mana_u|."
@@ -3021,6 +3030,8 @@ msgid ""
 "(Dryad Arbor isn't a spell, it's affected by summoning sickness, and it has "
 "\"|tap|: Add |mana_g|.\")"
 msgstr ""
+"(Ten stwór nie jest czarem, podlega chorobie przywołania i ma \"|tap|: Weź "
+"|mana_g|.\")"
 
 #: ../../FUT.rst:1014
 msgid ""
