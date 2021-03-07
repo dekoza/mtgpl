@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import itertools
+
 import typer
 from decouple import config
 import pathlib
@@ -419,6 +421,8 @@ def build():
     while (filename := (dist_path / f"MTGA_Data-{date_part}.{release:02d}.zip")).exists():
         release += 1
 
+    add_tag_to_dat_files(path, version=f"{date_part}.{release:02d}")
+
     with zipfile.ZipFile(
         filename, "w", compression=zipfile.ZIP_BZIP2, compresslevel=9
     ) as archive:
@@ -432,6 +436,21 @@ def build():
             )
 
     typer.echo("Done!")
+
+
+def tag_dats_in_path(filelist, path, version):
+    for filename in filelist:
+        with open(path / filename, "a") as datfile:
+            datfile.write(f"\nmtgapl:{version}\n")
+
+
+def add_tag_to_dat_files(path, version=""):
+    loc_path = path / "Loc"
+    data_path = path / "Data"
+    loc_files = (i for i in os.listdir(loc_path) if i.startswith("loc_") and i.endswith(".dat"))
+    data_files = (i for i in os.listdir(data_path) if i.startswith("data_loc_") and i.endswith(".dat"))
+    tag_dats_in_path(loc_files, loc_path, version)
+    tag_dats_in_path(data_files, data_path, version)
 
 
 def find_data_trans_obj(trans_list, lang="en-US"):
