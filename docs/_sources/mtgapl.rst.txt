@@ -11,10 +11,30 @@ jest całkowicie hobbystyczny. Przed graniem jakiegoś ważnego turnieju lepiej 
 Program instalujący spolszczenie
 --------------------------------
 
-Program jest w trakcie przygotowania.
+.. image:: images/polonizator.png
+
+Jeśli wcześniej instalowano spolszczenie ręcznie, to teraz jest ostatni moment, żeby przywrócić pliki do pierwotnej postaci.
+
+1. Wejdź na `stronę, gdzie publikuję program spolszczający <https://github.com/dekoza/mtga_polonize/releases>`_.
+2. Zobaczysz listę wydań. Najnowsze jest na samej górze.
+3. Na dole danego wydania jest sekcja Assets, rozwiń ją.
+4. Pobierz plik ``polonizator.exe``.
+5. Uruchom polonizator.
+6. Przy pierwszym uruchomieniu Windows zwróci uwagę, że kod nie jest podpisany i czy na pewno chcesz program uruchomić. Możesz też dostać komunikat od antywirusa, że wykonuje on skanowanie pliku. To normalne. Nie powinien wykryć zagrożeń. Program budowany jest na sterylnym systemie (Linux).
+7. Jeśli program poprosi o podanie ścieżki do Areny, to znaczy, że Twoja Arena jest w innym miejscu niż standardowe ``C:\Program Files\Wizards of the Coast\MTGA\`` - podaj zatem prawidłową lokalizację.
+8. Program sprawdza zainstalowaną wersję tłumaczenia (dopiero od wersji 2021.03.07.01) oraz najnowszą dostępną do pobrania.
+9. Kliknij "Instaluj/Aktualizuj".
+10. Uruchom Arenę, wejdź do opcji -> Graphics -> rozwiń listę języków. W miejscu portugalskiego i francuskiego powinny być "Polski" i "PL+EN DEBUG" - ta druga opcja jest dla pomocników.
+
+W razie awarii programu lub nie działania spolszczenia, proszę o `zgłoszenie błędu poprzez formularz w repozytorium programu <https://github.com/dekoza/mtga_polonize/issues>`_ (wymaga rejestracji) i załączenie pliku ``polonizator.log``
+
+Wszelkie błędy w tłumaczniu (literówki, ortograficzne, językowe itd.) proszę zgłaszać poprzez `formularz w repozytorium projektu <https://github.com/dekoza/mtgpl/issues>`_ (wymaga rejestracji).
+
 
 Ręczna instalacja tłumaczenia
 -----------------------------
+
+Jeśli program instalujący spolszczenie z jakiegoś powodu nie działa, zawsze można zainstalować spolszczenie ręcznie:
 
 1. Wejdź na `stronę, gdzie publikuję wydania <https://github.com/dekoza/mtgpl/releases/>`_.
 2. Na samej górze jest najnowsza wersja. Dla ułatwienia dodaję do tytułu datę wydania.
