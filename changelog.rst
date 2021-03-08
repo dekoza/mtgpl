@@ -3,6 +3,9 @@
 Spis zmian
 ***********
 
+2021-03-07
+   * Publikacja :doc:`programu instalującego spolszczenie<mtgapl>`.
+
 2021-03-06
    * Time Spiral Remastered - 100%
 
