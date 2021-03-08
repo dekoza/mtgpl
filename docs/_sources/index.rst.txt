@@ -23,8 +23,8 @@ Spolszczenie Magic Arena
 Chcesz grać w Arenę po polsku? :doc:`Tutaj znajdziesz instrukcję<mtgapl>`.
 
 
-Instrukcje
-==========
+Instrukcja gry
+==============
 
 :doc:`Podstawowy podręcznik zasad<rulebook>` |p100|
 
@@ -34,12 +34,16 @@ Tłumaczenie dodatków
 ====================
 
 Nadchodzące
-------------
+-----------
 
-* :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` (Premiera: 2021-04-23)
+* Modern: :mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent| (Premiera: 2021-03-19)
+* Standard: :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` (Premiera: 2021-04-23)
 
 Standard
 --------
+
+Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
+Jest podzbiorem wszystkich innych formatów.
 
 * :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
 * :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|
@@ -48,17 +52,17 @@ Standard
 * :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|
 * :mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |ELD_percent|
 
-Pioneer
+Pionier
 -------
 
-Pionier jest nowym formatem bez rotacji. Należą do niego wszystkie dodatki wydane od :doc:`Return to Ravnica<RTR>`.
+Nowy format bez rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Return to Ravnica<RTR>` do teraz. Jest podzbiorem formatu Modern. Na poniższej liście znajdują się dodatki poza Standardem.
 
 * :doc:`Pionier<pioneer>`
 
 Modern
 ------
 
-Modern jest jednym z formatów pozbawionych rotacji. Należą do niego wszystkie dodatki wydane od :doc:`Mirrodin<MRD>`.
+Starszy format pozbawiony rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Mirrodin<MRD>` do teraz. Na poniższej liście znajdują się dodatki nie wymienione wcześniej.
 
 * :doc:`Pełna lista dodatków wchodzących w skład formatu Modern<modern>`
 
@@ -70,7 +74,7 @@ Legacy / Vintage
 ----------------
 
 Formaty Legacy i Vintage zawierają wszystkie karty wydane od początku istnienia
-gry. Na poniższej liście znajdują się te, które są starsze od wymienionych powyżej.
+gry. Na poniższej liście znajdują się te dodatki, które nie znalazły się na wcześniejszych listach.
 
 * :doc:`Lista dodatków<legacy>`
 
@@ -95,7 +99,6 @@ Zestawy gildyjne
 Seria 'Masters'
 ---------------
 
-* :mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent| (Premiera: 2021-03-19)
 * :mtgexp:`2XM` :doc:`Double Masters<2XM>` |2XM_percent|
 * :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |UMA_percent|
 * :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 |A25_percent|
@@ -155,6 +158,12 @@ Glosariusz
 Ostatnie zmiany
 ===============
 Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`
+
+Sponsorzy
+=========
+
+* `Centrum hobbystyczne "Strefa" <https://strefamarzen.pl/>`_ z Bielska-Białej.
+* `Wspierający poprzez Patronite <https://patronite.pl/mtgpl>`_.
 
 Ekipa
 =====
