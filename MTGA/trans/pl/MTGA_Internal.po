@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-02-25 08:34+0000\n"
+"PO-Revision-Date: 2021-03-08 22:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/internal/"
 "pl/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #
 msgctxt "Ajani"
@@ -1463,7 +1463,7 @@ msgstr ""
 
 msgctxt "MainNav/CardViewer/Crafting/CraftButton"
 msgid "Craft"
-msgstr ""
+msgstr "Stwórz"
 
 msgctxt "MainNav/CardViewer/Crafting/WildcardsConsumed_Plural"
 msgid "Crafting will consume {quantity} {rarity} Wildcards."
@@ -1516,11 +1516,11 @@ msgstr ""
 
 msgctxt "MainNav/Collection/Collection_Back_Text"
 msgid "BACK"
-msgstr ""
+msgstr "WRÓĆ"
 
 msgctxt "MainNav/Collection/Collection_DeckBuilder_Text"
 msgid "Deck Builder"
-msgstr ""
+msgstr "Budowa talii"
 
 msgctxt "MainNav/Collection/Collection_Foreground_Loading"
 msgid "Loading Data"
@@ -1528,7 +1528,7 @@ msgstr "Ładowanie danych"
 
 msgctxt "MainNav/Collection/Collection_Foreground_Search_Placeholder"
 msgid "Search…"
-msgstr ""
+msgstr "Wyszukaj…"
 
 msgctxt "MainNav/Collection/Collection_Forgreound_Row2_Sort"
 msgid "Sort by Cost"
@@ -1670,7 +1670,7 @@ msgstr ""
 
 msgctxt "MainNav/Draft/Pack_Indicator"
 msgid "Pack"
-msgstr ""
+msgstr "Paczka"
 
 msgctxt "MainNav/Draft/Sideboard_CardQuantity_Label_Plural"
 msgid "{currentQuantity} Cards"
@@ -1728,27 +1728,27 @@ msgstr ""
 
 msgctxt "MainNav/EventPage/Event_Popup_Text_Constructed_Four_To_Five_Win"
 msgid "Cards will be at least 1 rare and 2 uncommons"
-msgstr ""
+msgstr "1 rzadka i 2 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventPage/Event_Popup_Text_Constructed_Six_To_Seven_Win"
 msgid "Cards will be at least 2 rares and 1 uncommon"
-msgstr ""
+msgstr "2 rzadkie i 1 niepospolita lub lepsze"
 
 msgctxt "MainNav/EventPage/Event_Popup_Text_Constructed_Zero_To_Three_Win"
 msgid "Cards will be at least 3 uncommons"
-msgstr ""
+msgstr "3 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventPage/Event_Popup_Text_Historic_1R_ICR"
 msgid "Card will be at least one rare not in Standard"
-msgstr ""
+msgstr "1 rzadka lub lepsza spoza Standardu"
 
 msgctxt "MainNav/EventPage/Event_Popup_Text_Historic_1R2U_ICR"
 msgid "Cards will be at least one rare and two uncommons not in Standard"
-msgstr ""
+msgstr "1 rzadka i 2 niepospolite lub lepsze spoza Standardu"
 
 msgctxt "MainNav/EventPage/Event_Popup_Text_Historic_1U_ICR"
 msgid "Card will be at least one uncommon not in Standard"
-msgstr ""
+msgstr "1 niepospolita lub lepsza spoza Standardu"
 
 msgctxt "MainNav/EventPage/Event_Popup_Text_Historic_2R1U_ICR"
 msgid "Card will be at least 2 rares and 1 uncommon not in Standard"
@@ -1764,7 +1764,7 @@ msgstr ""
 
 msgctxt "MainNav/EventPage/EventEndTimer"
 msgid "Ends in {timeLeft}"
-msgstr ""
+msgstr "Koniec za {timeLeft}"
 
 msgctxt "MainNav/EventPage/EventNotActive"
 msgid "This event is not active"
@@ -2032,7 +2032,7 @@ msgstr ""
 
 msgctxt "MainNav/HomePage/Billboards/EventEndTimer"
 msgid "Ends in {timeLeft}"
-msgstr ""
+msgstr "Koniec za {timeLeft}"
 
 msgctxt "MainNav/HomePage/Billboards/EventStartTimer"
 msgid "Starts in {timeLeft}"
@@ -2048,7 +2048,7 @@ msgstr ""
 
 msgctxt "MainNav/HomePage/Billboards/Resume"
 msgid "Resume"
-msgstr ""
+msgstr "Kontynuuj"
 
 msgctxt "MainNav/HomePage/Billboards/SignUpEndTimer"
 msgid "Sign-up ends in {timeLeft}"
@@ -2790,7 +2790,7 @@ msgstr ""
 
 msgctxt "MainNav/MOTD/MOTD_GrowingBar_Text"
 msgid "CONTINUE"
-msgstr ""
+msgstr "KONTYNUUJ"
 
 msgctxt "MainNav/MOTD/MOTD_MOTDOverlayText_Text"
 msgid "HERE IS YOUR PLACEHOLDER MESSAGE"
@@ -2846,7 +2846,7 @@ msgstr ""
 
 msgctxt "MainNav/NavBar/DeckLayout_Tooltip"
 msgid "Change Deck Layout"
-msgstr ""
+msgstr "Zmień układ talii"
 
 msgctxt "MainNav/NavBar/Gems_Tooltip"
 msgid "Gems can be purchased in the store"
@@ -3324,7 +3324,7 @@ msgstr ""
 
 msgctxt "MainNav/Popups/QuestRewardPopup/QuestRewardPopup_Back"
 msgid "BACK"
-msgstr ""
+msgstr "WRÓĆ"
 
 msgctxt "MainNav/Popups/QuestRewardPopup/QuestRewardPopup_Description_Text"
 msgid ""
@@ -3350,30 +3350,30 @@ msgstr ""
 
 msgctxt "MainNav/PreconDeckSelect/PreconDeckSelect_Top_Back_Text"
 msgid "BACK"
-msgstr ""
+msgstr "WRÓĆ"
 
 msgctxt ""
 "MainNav/PreconDeckSelect/PreconDeckSelect_Top_HeaderBar_Center_ContentLeft_TitleLabel"
 msgid "choose your deck"
-msgstr ""
+msgstr "wybierz swoją talię"
 
 msgctxt "MainNav/PreconDeckSelect/PreconDeckSelect_Top_Play_Text"
 msgid "PLAY DECK"
-msgstr ""
+msgstr "TALIA"
 
 msgctxt "MainNav/PreconDeckSelect/PreconDeckSelect_Top_ViewDeck_Text"
 msgid "VIEW DECK"
-msgstr ""
+msgstr "OBEJRZYJ"
 
 msgctxt ""
 "MainNav/PreconEvent/PreconEvent_BottomPanelJoinedEvent_CourseStatusPanel_Back_Text"
 msgid "BACK"
-msgstr ""
+msgstr "WRÓĆ"
 
 msgctxt ""
 "MainNav/PreconEvent/PreconEvent_BottomPanelJoinedEvent_CourseStatusPanel_DropFromEvent_Text"
 msgid "DROP FROM EVENT"
-msgstr ""
+msgstr "OPUŚĆ WYDARZENIE"
 
 msgctxt ""
 "MainNav/PreconEvent/PreconEvent_BottomPanelJoinedEvent_CourseStatusPanel_Label"
@@ -3387,21 +3387,21 @@ msgstr ""
 
 msgctxt "MainNav/PreconEvent/PreconEvent_BottomPanelJoinEvent_Back_Text"
 msgid "BACK"
-msgstr ""
+msgstr "WRÓĆ"
 
 msgctxt ""
 "MainNav/PreconEvent/PreconEvent_BottomPanelJoinEvent_CostToJoinCoin_Text"
 msgid "FREE"
-msgstr ""
+msgstr "DARMO"
 
 msgctxt ""
 "MainNav/PreconEvent/PreconEvent_BottomPanelJoinEvent_InformationalText_Text"
 msgid "THIS EVENT IS FREE TO PLAY"
-msgstr ""
+msgstr "W TYM WYDARZENIU GRASZ ZA DARMO"
 
 msgctxt "MainNav/PreconEvent/PreconEvent_BottomPanelJoinEvent_JoinEvent_Text"
 msgid "JOIN EVENT"
-msgstr ""
+msgstr "DOŁĄCZ"
 
 msgctxt ""
 "MainNav/PreconEvent/PreconEvent_LeftPanel_LeftBottomPanelJoin_RewardText"
@@ -3630,11 +3630,11 @@ msgstr ""
 
 msgctxt "MainNav/ProdcutContent/ProductContent_Back_Text"
 msgid "BACK"
-msgstr ""
+msgstr "WRÓĆ"
 
 msgctxt "MainNav/ProdcutContent/ProductContent_Header_Title"
 msgid "Products"
-msgstr ""
+msgstr "Produkty"
 
 msgctxt "MainNav/Quest/ColorChallenge"
 msgid "Color Challenge"
@@ -3656,19 +3656,19 @@ msgstr ""
 
 msgctxt "MainNav/Quest/Quest_Back_Text"
 msgid "BACK"
-msgstr ""
+msgstr "WRÓĆ"
 
 msgctxt "MainNav/Quest/Quest_Continue_Text"
 msgid "CONTINUE"
-msgstr ""
+msgstr "KONTYNUUJ"
 
 msgctxt "MainNav/Quest/Quest_Daily_Gold_Text"
 msgid "Resets daily"
-msgstr ""
+msgstr "Odnawia się codziennie"
 
 msgctxt "MainNav/Quest/Quest_NoActiveQuests_Image_Text"
 msgid "Come back tomorrow for a new quest!"
-msgstr ""
+msgstr "Przyjdź jutro po nowe wyzwania!"
 
 msgctxt "MainNav/Quest/Quest_NoActiveQuests_Title_Title"
 msgid "NO QUESTS AVAILABLE"
@@ -3680,7 +3680,7 @@ msgstr ""
 
 msgctxt "MainNav/Quest/Quest_Wait_Text"
 msgid "Waiting for new quest"
-msgstr ""
+msgstr "Oczekiwanie na nowe zadanie"
 
 msgctxt "MainNav/Quest/Quest_Weekly_Reward_Text"
 msgid "Resets Weekly"

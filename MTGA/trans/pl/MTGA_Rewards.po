@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-20 20:17+0200\n"
-"PO-Revision-Date: 2021-02-20 19:17+0000\n"
+"PO-Revision-Date: 2021-03-08 22:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/rewards/"
 "pl/>\n"
@@ -14,42 +14,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #
-
 msgctxt "MainNav/EventRewards/1R"
 msgid "Card will be at least 1 rare"
-msgstr "Karta będzie co najmniej 1 rzadka"
+msgstr "1 co najmniej rzadka"
 
 msgctxt "MainNav/EventRewards/1R_1U"
 msgid "Cards will be at least 1 rare and 1 uncommon"
-msgstr ""
+msgstr "1 rzadka i 1 niepospolita lub lepsze"
 
 msgctxt "MainNav/EventRewards/1R_2U"
 msgid "Cards will be at least 1 rare and 2 uncommons"
-msgstr ""
+msgstr "1 rzadka i 2 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/2U"
 msgid "Cards will be at least 2 uncommons"
-msgstr ""
+msgstr "2 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/Basic_Land"
 msgid "Basic Land"
-msgstr ""
+msgstr "Bazowy ląd"
 
 msgctxt "MainNav/EventRewards/Basic_Land_And_Generic_XP"
 msgid "Basic Land & XP"
-msgstr ""
+msgstr "Bazowy ląd i XP"
 
 msgctxt "MainNav/EventRewards/Basic_Land_And_XP"
 msgid "Basic Land & {number1} XP"
-msgstr ""
+msgstr "Bazowy ląd i {number1} XP"
 
 msgctxt "MainNav/EventRewards/Basic_Land_Desc"
 msgid ""
 "Once collected, put any number of copies of a basic land in your decks."
 msgstr ""
+"Po zdobyciu możesz w swoich taliach umieścić dowolną liczbę kart danego "
+"bazowego lądu."
 
 msgctxt "MainNav/EventRewards/Booster_Pack_Generic"
 msgid "Pack"
@@ -133,11 +134,11 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/Cash1"
 msgid "$1,000 USD"
-msgstr ""
+msgstr "$1,000 USD"
 
 msgctxt "MainNav/EventRewards/Cash2"
 msgid "$2,000 USD"
-msgstr ""
+msgstr "$2,000 USD"
 
 msgctxt "MainNav/EventRewards/Claim_Prizes"
 msgid "Claim Prizes"
@@ -153,27 +154,27 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/CompetitiveConstructedPrize_0Wins"
 msgid "Cards will be at least 3 uncommons"
-msgstr ""
+msgstr "3 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/CompetitiveConstructedPrize_1Wins"
 msgid "Cards will be at least 3 uncommons"
-msgstr ""
+msgstr "3 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/CompetitiveConstructedPrize_2Wins"
 msgid "Cards will be at least 3 uncommons"
-msgstr ""
+msgstr "3 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/CompetitiveConstructedPrize_3Wins"
 msgid "Cards will be at least 1 rare and 2 uncommons"
-msgstr ""
+msgstr "1 rzadka i 2 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/CompetitiveConstructedPrize_4Wins"
 msgid "Cards will be at least 1 rare and 2 uncommons"
-msgstr ""
+msgstr "1 rzadka i 2 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/CompetitiveConstructedPrize_5Wins"
 msgid "Cards will be at least 2 rares and 1 uncommon"
-msgstr ""
+msgstr "2 rzadkie i 1 niepospolita lub lepsze"
 
 msgctxt "MainNav/EventRewards/CompleteChallenge1_Text"
 msgid "Complete one Color Challenge."
@@ -225,7 +226,7 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/Daily_Wins_Title"
 msgid "Daily Win Rewards"
-msgstr ""
+msgstr "Codzienne nagrody"
 
 msgctxt "MainNav/EventRewards/DeckTomorrow_Title"
 msgid "Earn a new deck tomorrow!"
@@ -277,15 +278,15 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/DominariaFestivalPrize_1Wins"
 msgid "Cards will be at least 2 uncommons"
-msgstr ""
+msgstr "2 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/DominariaFestivalPrize_2Wins"
 msgid "Cards will be at least 3 uncommons"
-msgstr ""
+msgstr "3 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/DominariaFestivalPrize_3Wins"
 msgid "Cards will be at least 1 rare and 2 uncommons"
-msgstr ""
+msgstr "1 rzadka i 2 niepospolite lub lepsze"
 
 msgctxt "MainNav/EventRewards/DominariaFestivalPrize_4Wins"
 msgid "Cards will be at least 2 rares and 1 uncommon"
@@ -326,7 +327,7 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/EventRewards_Top_GrowingBar_Text"
 msgid "CONTINUE"
-msgstr ""
+msgstr "KONTYNUUJ"
 
 msgctxt "MainNav/EventRewards/EventRewards_Top_TitleBar_Title"
 msgid "{[LeagueName]} Completed"
@@ -512,19 +513,19 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/Reward"
 msgid "Reward:"
-msgstr ""
+msgstr "Nagroda:"
 
 msgctxt "MainNav/EventRewards/Reward_Daily_Reset"
 msgid "Obtain wins in Standard Play, ranked modes, or events!"
-msgstr ""
+msgstr "Zwyciężaj w Standardzie, trybach z rankingiem lub wydarzeniach!"
 
 msgctxt "MainNav/EventRewards/Reward_Weekly_Desc"
 msgid "Obtain wins in Standard Play, ranked modes, or events!"
-msgstr ""
+msgstr "Zwyciężaj w Standardzie, trybach z rankingiem lub wydarzeniach!"
 
 msgctxt "MainNav/EventRewards/Reward_Win_Bonus"
 msgid "Daily Win Rewards"
-msgstr ""
+msgstr "Codzienne nagrody"
 
 msgctxt "MainNav/EventRewards/Skin"
 msgid "1 Card Style"
@@ -664,7 +665,7 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/Weekly_Wins_Title"
 msgid "Weekly Win Rewards"
-msgstr ""
+msgstr "Cotygodniowe nagrody"
 
 msgctxt "MainNav/EventRewards/WinsLabel"
 msgid "Wins"

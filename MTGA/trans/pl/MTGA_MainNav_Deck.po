@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-19 09:30+0200\n"
-"PO-Revision-Date: 2021-02-19 08:30+0000\n"
+"PO-Revision-Date: 2021-03-08 22:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
 "mainnav_deck/pl/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Black"
@@ -134,19 +134,20 @@ msgstr "Zielony"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_LesserOrEqual"
 msgid "Lesser or Equal to"
-msgstr ""
+msgstr "Mniejsze lub równe"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_LessThan"
 msgid "Less Than"
-msgstr ""
+msgstr "Mniejsze niż"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_MoreInfoText"
 msgid "More information about advanced search terms can be found here. "
 msgstr ""
+"Więcej informacji na temat zaawansowanego wyszukiwania można znaleźć tutaj. "
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Mythic"
 msgid "Mythic"
-msgstr ""
+msgstr "Mityczna"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Name"
 msgid "Name"
@@ -178,11 +179,11 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Power"
 msgid "Power"
-msgstr ""
+msgstr "Siła"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Quantity"
 msgid "Quantity Collected"
-msgstr ""
+msgstr "Liczba zebranych"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Quotation"
 msgid "For Exact Phrases"
@@ -190,63 +191,63 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Rare"
 msgid "Rare"
-msgstr ""
+msgstr "Rzadka"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Rarity"
 msgid "Rarity"
-msgstr ""
+msgstr "Rzadkość"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Red"
 msgid "Red"
-msgstr ""
+msgstr "Czerwony"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_RulesText"
 msgid "Rules Text"
-msgstr ""
+msgstr "Treść zasad"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_SearchTermHeader"
 msgid "Search Term"
-msgstr ""
+msgstr "Szukana fraza"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_TextComparisons"
 msgid "Text Comparisions"
-msgstr ""
+msgstr "Porównania tekstowe"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Title"
 msgid "Title"
-msgstr ""
+msgstr "Tytuł"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_TitleofCard"
 msgid "Title of Card"
-msgstr ""
+msgstr "Tytuł karty"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Toughness"
 msgid "Toughness"
-msgstr ""
+msgstr "Wytrzymałość"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_TypeSubtypeorSupertype"
 msgid "Type, Subtype, or Supertype"
-msgstr ""
+msgstr "Typ, podtyp lub nadtyp"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_Uncommon"
 msgid "Uncommon"
-msgstr ""
+msgstr "Niepospolita"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_UseColor"
 msgid "All cards that use this color"
-msgstr ""
+msgstr "Wszystkie karty używające tego koloru"
 
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_White"
 msgid "White"
-msgstr ""
+msgstr "Biały"
 
 msgctxt "MainNav/Deckbuilder/ApplyStyles"
 msgid "Apply Styles"
-msgstr ""
+msgstr "Zaaplikuj style"
 
 msgctxt "MainNav/DeckBuilder/Banned_Cards"
 msgid "These cards are banned in this event."
-msgstr ""
+msgstr "Te karty są zakazane w tym wydarzeniu."
 
 msgctxt "MainNav/DeckBuilder/BatchCrafting_MessageContent_HasUncraftableCards"
 msgid "One or more cards can not be redeemed."
@@ -305,7 +306,7 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/Companion"
 msgid "Companion"
-msgstr ""
+msgstr "Kompan"
 
 msgctxt "MainNav/DeckBuilder/CompanionError_FixedCards"
 msgid ""
@@ -355,7 +356,7 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/CraftLabel"
 msgid "Craft"
-msgstr ""
+msgstr "Twórz"
 
 msgctxt "MainNav/DeckBuilder/Deck_Label"
 msgid "Deck"

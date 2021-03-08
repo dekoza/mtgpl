@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-25 09:34+0200\n"
-"PO-Revision-Date: 2021-02-25 08:34+0000\n"
+"PO-Revision-Date: 2021-03-08 22:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/mtga-npe/"
 "pl/>\n"
@@ -14,10 +14,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.5\n"
 
 #
-
 msgctxt "EPP/ColorMastery/LossHints/Black01_Description"
 msgid ""
 "Killing creatures that tap for mana may stop your opponent from ever casting"
@@ -300,7 +299,7 @@ msgstr ""
 
 msgctxt "EPP/Level/XPNextLevel"
 msgid "XP to Next Level:"
-msgstr ""
+msgstr "XP do następnego poziomu:"
 
 msgctxt "EPP/Nodes/B1A_Desc"
 msgid "Play a game with a Black deck to unlock."
@@ -577,7 +576,7 @@ msgstr ""
 
 msgctxt "EPP/Objective/XPFraction"
 msgid "{value1}/{value2} XP"
-msgstr ""
+msgstr "{value1}/{value2} XP"
 
 msgctxt "EPP/Practice/4ormorecreaturesdie_116"
 msgid "Wow, that was wicked."
