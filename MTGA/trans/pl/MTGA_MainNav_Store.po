@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-03-08 22:57+0000\n"
+"PO-Revision-Date: 2021-03-09 22:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
 "mainnav_store/pl/>\n"
@@ -68,31 +68,31 @@ msgstr ""
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-001"
 msgid "3 Packs"
-msgstr ""
+msgstr "3 paczki"
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-002"
 msgid "6 Packs"
-msgstr ""
+msgstr "6 paczek"
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-003"
 msgid "15 Packs"
-msgstr ""
+msgstr "15 paczek"
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-004"
 msgid "45 Packs"
-msgstr ""
+msgstr "45 paczek"
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-005"
 msgid "90 Packs"
-msgstr ""
+msgstr "90 paczek"
 
 msgctxt "MainNav/Store/BoosterCount/Gold-Packs-001"
 msgid "1 Pack"
-msgstr ""
+msgstr "1 paczka"
 
 msgctxt "MainNav/Store/BoosterCount/PacksCount"
 msgid "{count} Packs"
-msgstr ""
+msgstr "{count} paczek"
 
 msgctxt "MainNav/Store/BoosterDescription/Gem-Packs-001"
 msgid ""
@@ -1730,7 +1730,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/Buy_Packs_Title"
 msgid "Buy Packs"
-msgstr ""
+msgstr "Kup paczki"
 
 msgctxt "MainNav/Store/Cancel"
 msgid "Cancel"
@@ -1750,7 +1750,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/CardStyles_Tab"
 msgid "Card Styles"
-msgstr ""
+msgstr "Style kart"
 
 msgctxt "MainNav/Store/ChangePaymentMethod"
 msgid "Change Payment Method"
@@ -1804,7 +1804,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/Crafting_Unowned_Skin_Message"
 msgid "This style can only be applied to a card you have not collected yet."
-msgstr ""
+msgstr "Ten styl można zastosować tylko do karty, której jeszcze nie zdobyto."
 
 msgctxt "MainNav/Store/Crafting_Unowned_Skin_Title"
 msgid " "
@@ -1852,11 +1852,11 @@ msgstr ""
 
 msgctxt "MainNav/Store/Featured"
 msgid "Featured"
-msgstr ""
+msgstr "Polecane"
 
 msgctxt "MainNav/Store/FeaturedSale_Callout"
 msgid "New Offers Every Day"
-msgstr ""
+msgstr "Codziennie nowe okazje"
 
 msgctxt "MainNav/Store/FilterCosmetic"
 msgid "Cosmetic"
@@ -2239,23 +2239,27 @@ msgstr ""
 
 msgctxt "MainNav/Store/Popups/Gems/PurchaseSuccessful_Title"
 msgid "Purchase Successful!"
-msgstr ""
+msgstr "Zakup pomyślny!"
 
 msgctxt "MainNav/Store/Popups/Historic/DuplicateWarning_Description"
 msgid ""
 "Important Note: {number1} of the {number2} cards in this bundle are already "
 "in your collection."
 msgstr ""
+"Ważna informacja: {number1} spośród {number2} kart w tym pakiecie znajduje "
+"się już w twojej kolekcji."
 
 msgctxt "MainNav/Store/Popups/Historic/DuplicateWarning_Description_Alt"
 msgid ""
 "Important Note: This purchase may result in duplicates if Wildcards were "
 "already utilized to craft the cards in this offer."
 msgstr ""
+"Ważna informacja: Ten zakup może skutkować duplikatami jeśli już użyto "
+"dzikich kart do stworzenia kart z tej oferty."
 
 msgctxt "MainNav/Store/Popups/Historic/DuplicateWarning_Title"
 msgid "Avoid Duplication"
-msgstr ""
+msgstr "Uniknij duplikatów"
 
 msgctxt "MainNav/Store/Popups/Pet/DuplicateWarning_Description"
 msgid ""
@@ -2268,21 +2272,23 @@ msgstr ""
 
 msgctxt "MainNav/Store/Popups/SetRotation/Warning_Craft"
 msgid "Craft"
-msgstr ""
+msgstr "Twórz"
 
 msgctxt "MainNav/Store/Popups/SetRotation/Warning_LearnMoreButton"
 msgid "Learn More"
-msgstr ""
+msgstr "Dowiedz się więcej"
 
 msgctxt "MainNav/Store/Popups/SetRotation/Warning_Message"
 msgid ""
 "Warning: Cards from this set will rotate out of Standard in the fall. They "
 "will remain playable in Historic."
 msgstr ""
+"Uwaga: Karty z tego dodatku wyrotują ze Standardu jesienią. Pozostaną "
+"grywalne w formacie Historycznym."
 
 msgctxt "MainNav/Store/Popups/SetRotation/Warning_Purchase"
 msgid "Purchase"
-msgstr ""
+msgstr "Kup"
 
 msgctxt "MainNav/Store/Popups/SetRotation/Warning_Title"
 msgid "Set Rotation"
@@ -2845,11 +2851,11 @@ msgstr "Gemy"
 
 msgctxt "MainNav/Store/Store_2ndCol_GuildBundles_Bottom_Center"
 msgid "Guild Bundles"
-msgstr ""
+msgstr "Pakiety gildyjne"
 
 msgctxt "MainNav/Store/Store_2ndCol_Packs_Bottom_Center"
 msgid "Packs"
-msgstr ""
+msgstr "Paczki"
 
 msgctxt "MainNav/Store/Store_2ndCol_Redeem_Bottom_Center"
 msgid "Redeem"
@@ -2857,27 +2863,27 @@ msgstr ""
 
 msgctxt "MainNav/Store/Store_Bundles"
 msgid "Bundles"
-msgstr ""
+msgstr "Pakiety"
 
 msgctxt "MainNav/Store/Store_Header_Title"
 msgid "Store"
-msgstr ""
+msgstr "Sklep"
 
 msgctxt "MainNav/Store/Store_Not_Enabled"
 msgid "Store is not currently available."
-msgstr ""
+msgstr "Sklep jest chwilowo niedostępny."
 
 msgctxt "MainNav/Store/Store_Unavailable"
 msgid "Store is not currently available"
-msgstr ""
+msgstr "Sklep jest chwilowo niedostępny"
 
 msgctxt "MainNav/Store/Store_Unavailable_Title"
 msgid "Store Unavailable"
-msgstr ""
+msgstr "Sklep niedostępny"
 
 msgctxt "MainNav/Store/TabSkinsLabel"
 msgid "Card Styles"
-msgstr ""
+msgstr "Style kart"
 
 msgctxt "MainNav/Store/Tags/1_Full_Art_Land"
 msgid "+1 Full-Art Land"
@@ -2917,19 +2923,19 @@ msgstr ""
 
 msgctxt "MainNav/Store/Tags/GreatDeal"
 msgid "Great Deal"
-msgstr ""
+msgstr "Świetna okazja"
 
 msgctxt "MainNav/Store/Tags/LeavingSoon"
 msgid "Leaving Soon"
-msgstr ""
+msgstr "Wkrótce się kończy"
 
 msgctxt "MainNav/Store/Tags/LimitedOffer"
 msgid "Limited Offer!"
-msgstr ""
+msgstr "Oferta ograniczona!"
 
 msgctxt "MainNav/Store/Tags/LimitedTimeOffer"
 msgid "Limited Time Offer"
-msgstr ""
+msgstr "Oferta ograniczona czasowo"
 
 msgctxt "MainNav/Store/Tags/MoreAvatars"
 msgid "Find more inside \"Avatars\""
@@ -2957,23 +2963,23 @@ msgstr ""
 
 msgctxt "MainNav/Store/Tags/New"
 msgid "New!"
-msgstr ""
+msgstr "Nowość!"
 
 msgctxt "MainNav/Store/Tags/OfferEndsSoon"
 msgid "Offer Ends Soon"
-msgstr ""
+msgstr "Oferta wkrótce się kończy"
 
 msgctxt "MainNav/Store/Tags/PercentOff"
 msgid "{number1}% Off!"
-msgstr ""
+msgstr "{number1}% zniżki!"
 
 msgctxt "MainNav/Store/Tags/PercentValue"
 msgid "{number1}% Value!"
-msgstr ""
+msgstr "{number1}% wartości!"
 
 msgctxt "MainNav/Store/Tags/PetOnly"
 msgid "Pet Only"
-msgstr ""
+msgstr "Tylko pupil"
 
 msgctxt "MainNav/Store/Tags/Preorder"
 msgid "Pre-order"
@@ -3001,19 +3007,19 @@ msgstr ""
 
 msgctxt "MainNav/Store/Tax_Text"
 msgid "Tax: {amount}"
-msgstr ""
+msgstr "Podatek: {amount}"
 
 msgctxt "MainNav/Store/TaxDisclaimerEuro"
 msgid "Prices presented include VAT"
-msgstr ""
+msgstr "Przedstawione ceny zawierają VAT"
 
 msgctxt "MainNav/Store/TaxDisclaimerUSD"
 msgid "Prices presented do not include taxes"
-msgstr ""
+msgstr "Przedstawione ceny nie zawierają podatków"
 
 msgctxt "MainNav/Store/TermsAndConditionsAgree"
 msgid "I Agree"
-msgstr ""
+msgstr "Zgadzam się"
 
 msgctxt "MainNav/Store/TermsAndConditionsButton"
 msgid "Terms and Conditions"
@@ -3021,7 +3027,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/THBPreorder/BuyBothAndPet"
 msgid "Buy both and get a bonus pet!"
-msgstr ""
+msgstr "Kup oba by otrzymać dodatkowego pupila!"
 
 msgctxt "MainNav/Store/THBPreorder/BuyBothAndPet_Alt"
 msgid "Buy both and unlock Kunoros!"
@@ -3041,7 +3047,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/Total_Text"
 msgid "Total: {amount}"
-msgstr ""
+msgstr "Razem: {amount}"
 
 msgctxt "MainNav/Store/Verifying_Purchase"
 msgid "'Verifying Purchase:'"
@@ -3059,7 +3065,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/WelcomeBundle"
 msgid "Welcome Bundle"
-msgstr ""
+msgstr "Pakiet powitalny"
 
 msgctxt "MainNav/Store/WelcomeBundle4x"
 msgid "4x"
@@ -3067,7 +3073,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/WelcomeBundleCallout"
 msgid "One Time Purchase - 2500 Gems & 5 Packs"
-msgstr ""
+msgstr "Jednorazowy zakup - 2500 gemów i 5 paczek"
 
 msgctxt "MainNav/Store/WelcomeBundleDesctription"
 msgid "5 Magic Core Set 2020 Packs, 2500 Gems"

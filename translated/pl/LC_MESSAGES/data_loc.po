@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-03-09 09:15+0000\n"
+"PO-Revision-Date: 2021-03-09 22:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -6413,7 +6413,7 @@ msgstr "Wyposażony stwór dostaje +0/+2 i ma czujność."
 
 msgctxt "8865"
 msgid "Cycling |mana_2|\\ |mana_w|"
-msgstr ""
+msgstr "Recykling |mana_2|\\ |mana_w|"
 
 msgctxt "8871"
 msgid "Cycling |mana_2|\\ |mana_r|"
@@ -6421,15 +6421,15 @@ msgstr ""
 
 msgctxt "8875"
 msgid "Cycling |mana_2|\\ |mana_u|"
-msgstr ""
+msgstr "Recykling |mana_2|\\ |mana_u|"
 
 msgctxt "8884"
 msgid "Cycling |mana_2|\\ |mana_g|"
-msgstr ""
+msgstr "Recykling |mana_2|\\ |mana_g|"
 
 msgctxt "8887"
 msgid "Cycling |mana_2|\\ |mana_b|"
-msgstr ""
+msgstr "Recykling |mana_2|\\ |mana_b|"
 
 msgctxt "8938"
 msgid "|tap|: Untap another target permanent."
@@ -6717,7 +6717,7 @@ msgstr "Recykling |mana_3|"
 
 msgctxt "10808"
 msgid "Cycling |mana_1|\\ |mana_u|"
-msgstr ""
+msgstr "Recykling |mana_1|\\ |mana_u|"
 
 msgctxt "10823"
 msgid "Secluded Steppe"
@@ -7642,7 +7642,7 @@ msgstr ""
 
 msgctxt "17394"
 msgid "Cycling |mana_b|\\ |mana_b|"
-msgstr ""
+msgstr "Recykling |mana_b|\\ |mana_b|"
 
 msgctxt "17565"
 msgid "Silvergill Adept"
@@ -8679,7 +8679,7 @@ msgstr ""
 
 msgctxt "27414"
 msgid "Cycling |mana_1|\\ |mana_b|"
-msgstr ""
+msgstr "Recykling |mana_1|\\ |mana_b|"
 
 msgctxt "27429"
 msgid "Target player loses 2 life."
@@ -15816,7 +15816,7 @@ msgstr ""
 
 msgctxt "58143"
 msgid "May"
-msgstr ""
+msgstr "Maj"
 
 msgctxt "58144"
 msgid "Mining"
@@ -18250,7 +18250,7 @@ msgstr ""
 
 msgctxt "76776"
 msgid "Cycling |mana_3|\\ |mana_g|"
-msgstr ""
+msgstr "Recykling |mana_3|\\ |mana_g|"
 
 msgctxt "76777"
 msgid ""
@@ -22989,7 +22989,7 @@ msgstr ""
 
 msgctxt "125226"
 msgid "CARDNAME gets +1/+0 for each card with cycling in your graveyard."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+0 za każdą kartę z recyklingiem w twoim cmentarzu."
 
 msgctxt "125232"
 msgid "Abrade"
@@ -74470,7 +74470,7 @@ msgstr ""
 
 msgctxt "418466"
 msgid "Adventure"
-msgstr ""
+msgstr "Przygoda"
 
 msgctxt "418467"
 msgid "Gift of the Fae"
@@ -81314,7 +81314,7 @@ msgstr ""
 
 msgctxt "428067"
 msgid "Cycling |mana_x|\\ |mana_1|\\ |mana_u|"
-msgstr ""
+msgstr "Recykling |mana_x|\\ |mana_1|\\ |mana_u|"
 
 msgctxt "428068"
 msgid ""
@@ -84089,6 +84089,8 @@ msgid ""
 "CARDNAME deals X damage to any target and you gain X life, where X is the "
 "number of cards with a cycling ability in your graveyard."
 msgstr ""
+"CARDNAME zadaje wskazanemu celowi X obrażeń, a ty zyskaj X żyć, gdzie X jest "
+"liczbą kart z recyklingiem w twoim cmentarzu."
 
 msgctxt "428557"
 msgid ""
@@ -85277,7 +85279,7 @@ msgstr ""
 
 msgctxt "433567"
 msgid "Target a card with a cycling ability."
-msgstr ""
+msgstr "Wskaż kartę z recyklingiem."
 
 msgctxt "433568"
 msgid "Alpine Watchdog"
@@ -97940,11 +97942,11 @@ msgstr ""
 
 msgctxt "477005"
 msgid "CARDNAME crews Vehicles using its toughness rather than its power."
-msgstr ""
+msgstr "CARDNAME załoguje Pojazdy używając swojej wytrzymałości zamiast siły."
 
 msgctxt "477006"
 msgid "Giant Ox crews Vehicles using its toughness rather than its power."
-msgstr "Ten stwór załoguje Pojazdy używając wytrzymałości zamiast siły."
+msgstr "Ten stwór załoguje Pojazdy używając swojej wytrzymałości zamiast siły."
 
 msgctxt "477007"
 msgid "Glorious Protector"

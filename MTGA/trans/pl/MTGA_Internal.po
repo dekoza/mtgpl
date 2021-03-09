@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-03-09 09:14+0000\n"
+"PO-Revision-Date: 2021-03-09 22:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/internal/"
 "pl/>\n"
@@ -1503,11 +1503,11 @@ msgstr "Stwórz"
 
 msgctxt "MainNav/CardViewer/Crafting/WildcardsConsumed_Plural"
 msgid "Crafting will consume {quantity} {rarity} Wildcards."
-msgstr ""
+msgstr "Tworzenie pochłonie {quantity} {rarity} dzikich kart."
 
 msgctxt "MainNav/CardViewer/Crafting/WildcardsConsumed_Singular"
 msgid "Crafting will consume 1 {rarity} Wildcard."
-msgstr ""
+msgstr "Tworzenie pochłonie 1 {rarity} dziką kartę."
 
 msgctxt "MainNav/ChangeDeckPoptart/BottomLine"
 msgid ""
@@ -1672,23 +1672,23 @@ msgstr ""
 
 msgctxt "MainNav/ConstructedDeckSelect/Tooltip_Mythic"
 msgid "Mythic:"
-msgstr ""
+msgstr "Mitycznych:"
 
 msgctxt "MainNav/ConstructedDeckSelect/Tooltip_NonFormatCards"
 msgid "Non-format Cards:"
-msgstr ""
+msgstr "Spoza formatu:"
 
 msgctxt "MainNav/ConstructedDeckSelect/Tooltip_Rare"
 msgid "Rare:"
-msgstr ""
+msgstr "Rzadkich:"
 
 msgctxt "MainNav/ConstructedDeckSelect/Tooltip_Uncommon"
 msgid "Uncommon:"
-msgstr ""
+msgstr "Niepospolitych:"
 
 msgctxt "MainNav/ConstructedDeckSelect/Tooltip_WildcardsNeeded"
 msgid "Wildcards needed to complete deck"
-msgstr ""
+msgstr "Do skończenia talii potrzeba dzikich kart"
 
 msgctxt "MainNav/Draft/EventDescription"
 msgid ""
@@ -1698,11 +1698,11 @@ msgstr ""
 
 msgctxt "MainNav/Draft/MainDeck_CardQuantity_Label_Plural"
 msgid "{currentQuantity}/{expectedQuantity} Cards"
-msgstr ""
+msgstr "{currentQuantity}/{expectedQuantity} kart"
 
 msgctxt "MainNav/Draft/MainDeck_CardQuantity_Label_Singular"
 msgid "{currentQuantity}/{expectedQuantity} Card"
-msgstr ""
+msgstr "{currentQuantity}/{expectedQuantity} karta"
 
 msgctxt "MainNav/Draft/Pack_Indicator"
 msgid "Pack"
@@ -1710,11 +1710,11 @@ msgstr "Paczka"
 
 msgctxt "MainNav/Draft/Sideboard_CardQuantity_Label_Plural"
 msgid "{currentQuantity} Cards"
-msgstr ""
+msgstr "{currentQuantity} kart"
 
 msgctxt "MainNav/Draft/Sideboard_CardQuantity_Label_Singular"
 msgid "{currentQuantity} Card"
-msgstr ""
+msgstr "{currentQuantity} karta"
 
 msgctxt "MainNav/Draft/Warning_TooManyOfSingleCard"
 msgid ""
@@ -2961,7 +2961,7 @@ msgstr "{quantity} Niepospolitych"
 
 msgctxt "MainNav/NewTags/First_label"
 msgid "First"
-msgstr ""
+msgstr "Pierwsza"
 
 msgctxt "MainNav/NewTags/New_label"
 msgid "New"
