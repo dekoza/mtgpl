@@ -24,7 +24,8 @@ Jeśli wcześniej instalowano spolszczenie ręcznie, to teraz jest ostatni momen
 7. Jeśli program poprosi o podanie ścieżki do Areny, to znaczy, że Twoja Arena jest w innym miejscu niż standardowe ``C:\Program Files\Wizards of the Coast\MTGA\`` - podaj zatem prawidłową lokalizację.
 8. Program sprawdza zainstalowaną wersję tłumaczenia (dopiero od wersji 2021.03.07.01) oraz najnowszą dostępną do pobrania.
 9. Kliknij "Instaluj/Aktualizuj".
-10. Uruchom Arenę, wejdź do opcji -> Graphics -> rozwiń listę języków. W miejscu portugalskiego i francuskiego powinny być "Polski" i "PL+EN DEBUG" - ta druga opcja jest dla pomocników.
+10. Uruchom Arenę. UWAGA - podczas pierwszego uruchomienia po instalacji, Arena robi jakąś analizę/reindeksację plików. Skutkuje to
+    czarnym ekranem przez kilkadziesiąt sekund (tzw. dłuższa chwila). Cierpliwości! Po uruchomieniu wejdź do opcji -> Graphics -> rozwiń listę języków. W miejscu portugalskiego i francuskiego powinny być "Polski" i "PL+EN DEBUG" - ta druga opcja jest dla pomocników.
 
 W razie awarii programu lub nie działania spolszczenia, proszę o `zgłoszenie błędu poprzez formularz w repozytorium programu <https://github.com/dekoza/mtga_polonize/issues>`_ (wymaga rejestracji) i załączenie pliku ``polonizator.log``
 

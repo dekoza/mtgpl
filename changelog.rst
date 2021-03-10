@@ -1,7 +1,13 @@
-
 ***********
 Spis zmian
 ***********
+
+2021-03-10
+   * Ravnica Allegiance Kits - 100%
+   * Magic 2013 - 100%
+
+2021-03-09
+   * Aktualizacja spolszczenia Areny
 
 2021-03-07
    * Publikacja :doc:`programu instalującego spolszczenie<mtgapl>`.
