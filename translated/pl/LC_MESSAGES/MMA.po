@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-05 23:07+0000\n"
+"PO-Revision-Date: 2021-03-10 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -1592,10 +1592,12 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|, Sacrifice a Bat: Create two 1/1 black Bat "
 "creature tokens with flying."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_b|, poświęć Nietoperza: Stwórz dwa żetony "
+"czarnego stwora Nietoperz 1/1 z lataniem."
 
 #: ../../MMA.rst:553
 msgid "Sacrifice a Bat: Regenerate Skeletal Vampire."
-msgstr ""
+msgstr "Poświęć Nietoperza: Zregeneruj tego stwora."
 
 #: ../../MMA.rst:560
 msgid ""

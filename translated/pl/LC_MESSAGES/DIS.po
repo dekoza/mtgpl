@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-10 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -454,6 +454,9 @@ msgid ""
 "it. Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 3 (Ten stwór wchodzi na pole bitwy mając trzy znaczniki +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../DIS.rst:155
 msgid ""
@@ -474,6 +477,9 @@ msgid ""
 "it. Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 4 (Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../DIS.rst:161
 msgid ""
@@ -678,12 +684,16 @@ msgid ""
 "When Crypt Champion enters the battlefield, each player puts a creature card "
 "with converted mana cost 3 or less from their graveyard onto the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz umieszcza na polu bitwy "
+"ze swojego cmentarza kartę stwora o skrócie many 3 lub mniejszym."
 
 #: ../../DIS.rst:243
 msgid ""
 "When Crypt Champion enters the battlefield, sacrifice it unless |mana_r| was "
 "spent to cast it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
+"użyto |mana_r|."
 
 #: ../../DIS.rst:248
 msgid ""
@@ -960,13 +970,15 @@ msgstr ""
 
 #: ../../DIS.rst:339
 msgid "Cackling Flames deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../DIS.rst:341
 msgid ""
 "Hellbent — Cackling Flames deals 5 damage instead if you have no cards in "
 "hand."
 msgstr ""
+"Zaślepienie — Ten czar zamiast tego zadaje 5 obrażeń jeśli nie masz kart w "
+"ręce."
 
 #: ../../DIS.rst:348
 msgid ""
@@ -980,12 +992,16 @@ msgid ""
 "Demonfire deals X damage to any target. If a creature dealt damage this way "
 "would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi X obrażeń. Jeśli stwór uszkodzony w ten "
+"sposób miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../DIS.rst:347
 msgid ""
 "Hellbent — If you have no cards in hand, this spell can't be countered and "
 "the damage can't be prevented."
 msgstr ""
+"Zaślepienie — Jeśli nie masz kart w ręce, ten czar nie może być skontrowany, "
+"a obrażeń nie można zażegnać."
 
 #: ../../DIS.rst:352
 msgid ""
@@ -1101,17 +1117,17 @@ msgstr ""
 
 #: ../../DIS.rst:387
 msgid "|mana_r|\\ |mana_r|: Rakdos Pit Dragon gains flying until end of turn."
-msgstr ""
+msgstr "|mana_r|\\ |mana_r|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../DIS.rst:389
 msgid "|mana_r|: Rakdos Pit Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../DIS.rst:391
 msgid ""
 "Hellbent — Rakdos Pit Dragon has double strike as long as you have no cards "
 "in hand."
-msgstr ""
+msgstr "Zaślepienie — Ten stwór ma podwójny cios o ile nie masz kart w ręce."
 
 #: ../../DIS.rst:398
 msgid ""
@@ -1298,6 +1314,8 @@ msgid ""
 "|mana_2|: Move a +1/+1 counter from target creature you control onto "
 "Cytoplast Root-Kin."
 msgstr ""
+"|mana_2|: Przenieś na tego stwora znacznik +1/+1 ze wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../DIS.rst:468
 msgid ""
@@ -1440,6 +1458,9 @@ msgid ""
 "with total converted mana cost 6 or less and put them onto the battlefield. "
 "Then shuffle your library."
 msgstr ""
+"Kiedy ten stwór umrze, wyszukaj w twojej bibliotece dowolną liczbę kart "
+"stworów o łącznym skrócie many 6 lub mniej i umieść je na polu bitwy. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../DIS.rst:516
 msgid ""
@@ -1725,10 +1746,12 @@ msgid ""
 "Experiment Kraj has all activated abilities of each other creature with a +1/"
 "+1 counter on it."
 msgstr ""
+"Ten stwór ma wszystkie aktywowane zdolności każdego innego stwora mającego "
+"znacznik +1/+1."
 
 #: ../../DIS.rst:611
 msgid "|tap|: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "|tap|: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../DIS.rst:616
 msgid ""
@@ -1791,6 +1814,10 @@ msgid ""
 "revealed this way, search your library for a creature card with flying, "
 "reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, nazwij kartę. Ów gracz "
+"ujawnia swoją rękę. Jeśli nazwana karta zostanie ujawniona w ten sposób, "
+"wyszukaj w twojej bibliotece kartę stwora mającego latanie, ujawnij ją, "
+"umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../DIS.rst:642
 msgid ""
@@ -1801,13 +1828,15 @@ msgstr ""
 
 #: ../../DIS.rst:639
 msgid "Whenever Jagged Poppet is dealt damage, discard that many cards."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzyma obrażenia, odrzuć tyle samo kart."
 
 #: ../../DIS.rst:641
 msgid ""
 "Hellbent — Whenever Jagged Poppet deals combat damage to a player, if you "
 "have no cards in hand, that player discards cards equal to the damage."
 msgstr ""
+"Zaślepienie — Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli nie "
+"masz kart w ręce, ów gracz odrzuca tyle kart, ile otrzymał obrażeń."
 
 #: ../../DIS.rst:648
 msgid ""
@@ -1840,6 +1869,9 @@ msgid ""
 "any target if the sacrificed creature was red. Draw a card if the sacrificed "
 "creature was black."
 msgstr ""
+"|mana_2|, poświęć stwora: Ten stwór zadaje wskazanemu celowi 2 obrażenia "
+"jeśli poświęcony stwór był czerwony. Dobierz kartę jeśli poświęcony stwór "
+"był czarny."
 
 #: ../../DIS.rst:658
 msgid ""
@@ -1855,12 +1887,17 @@ msgid ""
 "creature card and reveal it. If you do, shuffle your library and put that "
 "card on top of it."
 msgstr ""
+"Ilekroć rzucisz czar zielonego stwora, możesz wyszukać w twojej bibliotece "
+"kartę stwora i ujawnić ją. Jeśli tak zrobisz, przetasuj twoją bibliotekę i "
+"umieść ową kartę na jej wierzchu."
 
 #: ../../DIS.rst:657
 msgid ""
 "Whenever you cast a blue creature spell, reveal the top card of your "
 "library. If it's a creature card, put that card into your hand."
 msgstr ""
+"Ilekroć rzucisz czar niebieskiego stwora, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta stwora, umieść ową kartę w twojej ręce."
 
 #: ../../DIS.rst:662
 msgid ""
@@ -1874,6 +1911,8 @@ msgid ""
 "|tap|: Target creature becomes a Frog with base power and toughness 3/3 "
 "until end of turn."
 msgstr ""
+"|tap|: Wskazany stwór do końca tury staje się Żabą o bazowych sile i "
+"wytrzymałości 3/3."
 
 #: ../../DIS.rst:666
 msgid ""
@@ -1931,6 +1970,8 @@ msgid ""
 "|mana_2|: Target creature with a +1/+1 counter on it gains shroud until end "
 "of turn. (It can't be the target of spells or abilities.)"
 msgstr ""
+"|mana_2|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury "
+"antymagię. (Nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../DIS.rst:690
 msgid ""
@@ -1962,6 +2003,7 @@ msgid ""
 "Pride of the Clouds gets +1/+1 for each other creature with flying on the "
 "battlefield."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdego innego stwora z lataniem na polu bitwy."
 
 #: ../../DIS.rst:697
 msgid ""
@@ -1969,6 +2011,9 @@ msgid ""
 "your hand: Create a 1/1 white and blue Bird creature token with flying. "
 "(Activate this ability only during your upkeep and only once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
+"Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
+"aktywować tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:702
 msgid ""
@@ -2026,12 +2071,16 @@ msgid ""
 "Whenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents "
 "you control, rounded up."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, poświęć połowę permanentów bez typu Demon pod "
+"twoim władaniem, zaokrąglając w górę."
 
 #: ../../DIS.rst:719
 msgid ""
 "Whenever Rakdos deals combat damage to a player, that player sacrifices half "
 "the non-Demon permanents they control, rounded up."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz poświęca połowę "
+"permanentów bez typu Demon pod swoim władaniem, zaokrąglając w górę."
 
 #: ../../DIS.rst:726
 msgid ""
@@ -2055,6 +2104,8 @@ msgstr ""
 msgid ""
 "When Sky Hussar enters the battlefield, untap all creatures you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, odkręć wszystkie stwory pod twoim "
+"władaniem."
 
 #: ../../DIS.rst:733
 msgid ""
@@ -2062,6 +2113,9 @@ msgid ""
 "Sky Hussar from your hand: Draw a card. (Activate this ability only during "
 "your upkeep and only once each turn.)"
 msgstr ""
+"Zapowiedź — Przekręć dwa odkręcone białe i/lub niebieskie stwory pod twoim "
+"władaniem, ujawnij tę kartę z twojej ręki: Dobierz kartę. (Możesz aktywować "
+"tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:738
 msgid ""
@@ -2163,19 +2217,19 @@ msgstr ""
 
 #: ../../DIS.rst:769
 msgid "|mana_w|: Windreaver gains vigilance until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór zyskuje do końca tury czujność."
 
 #: ../../DIS.rst:771
 msgid "|mana_w|: Windreaver gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../DIS.rst:773
 msgid "|mana_u|: Switch Windreaver's power and toughness until end of turn."
-msgstr ""
+msgstr "|mana_u|: Zamień do końca tury u tego stwora siłę z wytrzymałością."
 
 #: ../../DIS.rst:775
 msgid "|mana_u|: Return Windreaver to its owner's hand."
-msgstr ""
+msgstr "|mana_u|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../DIS.rst:780
 msgid ""
@@ -2186,7 +2240,7 @@ msgstr ""
 
 #: ../../DIS.rst:779
 msgid "Destroy target creature or land."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub ląd."
 
 #: ../../DIS.rst:788
 msgid ""
@@ -2204,6 +2258,8 @@ msgid ""
 "When Avatar of Discord enters the battlefield, sacrifice it unless you "
 "discard two cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz dwie "
+"karty."
 
 #: ../../DIS.rst:794
 msgid ""
@@ -2281,12 +2337,16 @@ msgid ""
 "|mana_3|\\ |mana_b|, Discard a card: Target creature gets -2/-2 until end of "
 "turn."
 msgstr ""
+"|mana_3|\\ |mana_b|, odrzuć kartę: Wskazany stwór dostaje do końca tury -2/"
+"-2."
 
 #: ../../DIS.rst:817
 msgid ""
 "|mana_3|\\ |mana_r|: Create a 2/1 red Goblin creature token with haste. "
 "Exile it at the beginning of the next end step."
 msgstr ""
+"|mana_3|\\ |mana_r|: Stwórz żeton czerwonego stwora Goblin 2/1 z pośpiechem. "
+"Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../DIS.rst:826
 msgid ""

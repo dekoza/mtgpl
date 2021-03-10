@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-05 00:12+0000\n"
+"PO-Revision-Date: 2021-03-10 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -830,6 +830,9 @@ msgid ""
 "it. Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 3 (Ten stwór wchodzi na pole bitwy mając trzy znaczniki +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../MM2.rst:281
 msgid ""
@@ -918,6 +921,9 @@ msgid ""
 "it. Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 4 (Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../MM2.rst:313
 msgid ""
@@ -1967,6 +1973,9 @@ msgid ""
 "to your hand. Activate this ability only if an opponent was dealt damage "
 "this turn."
 msgstr ""
+"|mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego cmentarza do "
+"twojej ręki. Możesz aktywować tylko jeśli przeciwnik otrzymał obrażenia w "
+"tej turze."
 
 #: ../../MM2.rst:706
 msgid ""
@@ -2256,6 +2265,8 @@ msgid ""
 "|mana_2|: Move a +1/+1 counter from target creature you control onto "
 "Cytoplast Root-Kin."
 msgstr ""
+"|mana_2|: Przenieś na tego stwora znacznik +1/+1 ze wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../MM2.rst:810
 msgid ""
@@ -2717,6 +2728,8 @@ msgid ""
 "When Ghost Council of Orzhova enters the battlefield, target opponent loses "
 "1 life and you gain 1 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 1 życie, a "
+"ty zyskaj 1 życie."
 
 #: ../../MM2.rst:973
 msgid ""
@@ -2724,6 +2737,8 @@ msgid ""
 "the battlefield under its owner's control at the beginning of the next end "
 "step."
 msgstr ""
+"|mana_1|, poświęć stwora: Wygnaj tego stwora. Przywróć go na pole bitwy pod "
+"władaniem właściciela na początku najbliższego kroku końcowego."
 
 #: ../../MM2.rst:980
 msgid ""
@@ -2831,6 +2846,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 msgid ""
 "Enchanted creature has \"At the beginning of your upkeep, you lose 1 life.\""
 msgstr ""
+"Zauroczony stwór ma \"Na początku twojego kroku utrzymania, strać 1 życie.\""
 
 #: ../../MM2.rst:1022
 msgid ""
@@ -2844,6 +2860,8 @@ msgid ""
 "|mana_2|: Target creature with a +1/+1 counter on it gains shroud until end "
 "of turn. (It can't be the target of spells or abilities.)"
 msgstr ""
+"|mana_2|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury "
+"antymagię. (Nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../MM2.rst:1026
 msgid ""
@@ -2854,7 +2872,7 @@ msgstr ""
 
 #: ../../MM2.rst:1025
 msgid "Savage Twister deals X damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po X obrażeń."
 
 #: ../../MM2.rst:1032
 msgid ""
@@ -2917,7 +2935,7 @@ msgstr ""
 
 #: ../../MM2.rst:1045
 msgid "Destroy target creature or land."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub ląd."
 
 #: ../../MM2.rst:1050
 msgid ""

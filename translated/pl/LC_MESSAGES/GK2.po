@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-10 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk2/pl/>\n"
 "Language: pl\n"
@@ -280,6 +280,10 @@ msgid ""
 "revealed this way, search your library for a creature card with flying, "
 "reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, nazwij kartę. Ów gracz "
+"ujawnia swoją rękę. Jeśli nazwana karta zostanie ujawniona w ten sposób, "
+"wyszukaj w twojej bibliotece kartę stwora mającego latanie, ujawnij ją, "
+"umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../GK2.rst:94
 msgid ""
@@ -348,6 +352,7 @@ msgid ""
 "Pride of the Clouds gets +1/+1 for each other creature with flying on the "
 "battlefield."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdego innego stwora z lataniem na polu bitwy."
 
 #: ../../GK2.rst:113
 msgid ""
@@ -355,6 +360,9 @@ msgid ""
 "your hand: Create a 1/1 white and blue Bird creature token with flying. "
 "(Activate this ability only during your upkeep and only once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
+"Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
+"aktywować tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../GK2.rst:118
 msgid ""
@@ -379,6 +387,8 @@ msgstr ""
 msgid ""
 "When Sky Hussar enters the battlefield, untap all creatures you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, odkręć wszystkie stwory pod twoim "
+"władaniem."
 
 #: ../../GK2.rst:125
 msgid ""
@@ -386,6 +396,9 @@ msgid ""
 "Sky Hussar from your hand: Draw a card. (Activate this ability only during "
 "your upkeep and only once each turn.)"
 msgstr ""
+"Zapowiedź — Przekręć dwa odkręcone białe i/lub niebieskie stwory pod twoim "
+"władaniem, ujawnij tę kartę z twojej ręki: Dobierz kartę. (Możesz aktywować "
+"tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../GK2.rst:132
 msgid ""
@@ -423,19 +436,19 @@ msgstr ""
 
 #: ../../GK2.rst:141
 msgid "|mana_w|: Windreaver gains vigilance until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór zyskuje do końca tury czujność."
 
 #: ../../GK2.rst:143
 msgid "|mana_w|: Windreaver gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../GK2.rst:145
 msgid "|mana_u|: Switch Windreaver's power and toughness until end of turn."
-msgstr ""
+msgstr "|mana_u|: Zamień do końca tury u tego stwora siłę z wytrzymałością."
 
 #: ../../GK2.rst:147
 msgid "|mana_u|: Return Windreaver to its owner's hand."
-msgstr ""
+msgstr "|mana_u|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../GK2.rst:154
 msgid ""
@@ -560,7 +573,7 @@ msgstr ""
 
 #: ../../GK2.rst:191
 msgid "|mana_w|, Sacrifice a creature: Target creature can't attack this turn."
-msgstr ""
+msgstr "|mana_w|, poświęć stwora: Wskazany stwór nie może atakować w tej turze."
 
 #: ../../GK2.rst:198
 msgid ""
@@ -574,6 +587,8 @@ msgid ""
 "When Keening Banshee enters the battlefield, target creature gets -2/-2 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
+"-2/-2."
 
 #: ../../GK2.rst:202
 msgid ""
@@ -630,10 +645,12 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|, Sacrifice a Bat: Create two 1/1 black Bat "
 "creature tokens with flying."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_b|, poświęć Nietoperza: Stwórz dwa żetony "
+"czarnego stwora Nietoperz 1/1 z lataniem."
 
 #: ../../GK2.rst:217
 msgid "Sacrifice a Bat: Regenerate Skeletal Vampire."
-msgstr ""
+msgstr "Poświęć Nietoperza: Zregeneruj tego stwora."
 
 #: ../../GK2.rst:226
 msgid ""
@@ -678,7 +695,7 @@ msgstr ""
 
 #: ../../GK2.rst:235
 msgid "When Angel of Despair enters the battlefield, destroy target permanent."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany permanent."
 
 #: ../../GK2.rst:242
 msgid ""
@@ -715,6 +732,8 @@ msgid ""
 "At the beginning of your upkeep, put target creature card from a graveyard "
 "onto the battlefield under your control."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść wskazaną kartę stwora z "
+"cmentarza na polu bitwy pod twoim władaniem."
 
 #: ../../GK2.rst:254
 msgid ""
@@ -729,6 +748,8 @@ msgid ""
 "When Ghost Council of Orzhova enters the battlefield, target opponent loses "
 "1 life and you gain 1 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 1 życie, a "
+"ty zyskaj 1 życie."
 
 #: ../../GK2.rst:253
 msgid ""
@@ -736,6 +757,8 @@ msgid ""
 "the battlefield under its owner's control at the beginning of the next end "
 "step."
 msgstr ""
+"|mana_1|, poświęć stwora: Wygnaj tego stwora. Przywróć go na pole bitwy pod "
+"władaniem właściciela na początku najbliższego kroku końcowego."
 
 #: ../../GK2.rst:262
 msgid ""
@@ -799,6 +822,8 @@ msgid ""
 "When Orzhov Pontiff enters the battlefield or the creature it haunts dies, "
 "choose one —"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub umrze nawiedzany przezeń stwór, "
+"wybierz jedno —"
 
 #: ../../GK2.rst:279
 msgid "Creatures you control get +1/+1 until end of turn."
@@ -824,6 +849,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 msgid ""
 "Enchanted creature has \"At the beginning of your upkeep, you lose 1 life.\""
 msgstr ""
+"Zauroczony stwór ma \"Na początku twojego kroku utrzymania, strać 1 życie.\""
 
 #: ../../GK2.rst:294
 msgid ""
@@ -963,12 +989,16 @@ msgid ""
 "When Crypt Champion enters the battlefield, each player puts a creature card "
 "with converted mana cost 3 or less from their graveyard onto the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz umieszcza na polu bitwy "
+"ze swojego cmentarza kartę stwora o skrócie many 3 lub mniejszym."
 
 #: ../../GK2.rst:337
 msgid ""
 "When Crypt Champion enters the battlefield, sacrifice it unless |mana_r| was "
 "spent to cast it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
+"użyto |mana_r|."
 
 #: ../../GK2.rst:344
 msgid ""
@@ -998,13 +1028,15 @@ msgstr ""
 
 #: ../../GK2.rst:347
 msgid "Cackling Flames deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../GK2.rst:349
 msgid ""
 "Hellbent — Cackling Flames deals 5 damage instead if you have no cards in "
 "hand."
 msgstr ""
+"Zaślepienie — Ten czar zamiast tego zadaje 5 obrażeń jeśli nie masz kart w "
+"ręce."
 
 #: ../../GK2.rst:356
 msgid ""
@@ -1018,12 +1050,16 @@ msgid ""
 "Demonfire deals X damage to any target. If a creature dealt damage this way "
 "would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi X obrażeń. Jeśli stwór uszkodzony w ten "
+"sposób miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../GK2.rst:355
 msgid ""
 "Hellbent — If you have no cards in hand, this spell can't be countered and "
 "the damage can't be prevented."
 msgstr ""
+"Zaślepienie — Jeśli nie masz kart w ręce, ten czar nie może być skontrowany, "
+"a obrażeń nie można zażegnać."
 
 #: ../../GK2.rst:364
 msgid ""
@@ -1034,17 +1070,17 @@ msgstr ""
 
 #: ../../GK2.rst:359
 msgid "|mana_r|\\ |mana_r|: Rakdos Pit Dragon gains flying until end of turn."
-msgstr ""
+msgstr "|mana_r|\\ |mana_r|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../GK2.rst:361
 msgid "|mana_r|: Rakdos Pit Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../GK2.rst:363
 msgid ""
 "Hellbent — Rakdos Pit Dragon has double strike as long as you have no cards "
 "in hand."
-msgstr ""
+msgstr "Zaślepienie — Ten stwór ma podwójny cios o ile nie masz kart w ręce."
 
 #: ../../GK2.rst:370
 msgid ""
@@ -1099,6 +1135,8 @@ msgid ""
 "When Avatar of Discord enters the battlefield, sacrifice it unless you "
 "discard two cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz dwie "
+"karty."
 
 #: ../../GK2.rst:394
 msgid ""
@@ -1131,13 +1169,15 @@ msgstr ""
 
 #: ../../GK2.rst:401
 msgid "Whenever Jagged Poppet is dealt damage, discard that many cards."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzyma obrażenia, odrzuć tyle samo kart."
 
 #: ../../GK2.rst:403
 msgid ""
 "Hellbent — Whenever Jagged Poppet deals combat damage to a player, if you "
 "have no cards in hand, that player discards cards equal to the damage."
 msgstr ""
+"Zaślepienie — Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli nie "
+"masz kart w ręce, ów gracz odrzuca tyle kart, ile otrzymał obrażeń."
 
 #: ../../GK2.rst:408
 msgid ""
@@ -1153,6 +1193,9 @@ msgid ""
 "any target if the sacrificed creature was red. Draw a card if the sacrificed "
 "creature was black."
 msgstr ""
+"|mana_2|, poświęć stwora: Ten stwór zadaje wskazanemu celowi 2 obrażenia "
+"jeśli poświęcony stwór był czerwony. Dobierz kartę jeśli poświęcony stwór "
+"był czarny."
 
 #: ../../GK2.rst:416
 msgid ""
@@ -1217,12 +1260,16 @@ msgid ""
 "|mana_3|\\ |mana_b|, Discard a card: Target creature gets -2/-2 until end of "
 "turn."
 msgstr ""
+"|mana_3|\\ |mana_b|, odrzuć kartę: Wskazany stwór dostaje do końca tury -2/"
+"-2."
 
 #: ../../GK2.rst:437
 msgid ""
 "|mana_3|\\ |mana_r|: Create a 2/1 red Goblin creature token with haste. "
 "Exile it at the beginning of the next end step."
 msgstr ""
+"|mana_3|\\ |mana_r|: Stwórz żeton czerwonego stwora Goblin 2/1 z pośpiechem. "
+"Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../GK2.rst:442
 msgid ""
@@ -1247,12 +1294,16 @@ msgid ""
 "Whenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents "
 "you control, rounded up."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, poświęć połowę permanentów bez typu Demon pod "
+"twoim władaniem, zaokrąglając w górę."
 
 #: ../../GK2.rst:449
 msgid ""
 "Whenever Rakdos deals combat damage to a player, that player sacrifices half "
 "the non-Demon permanents they control, rounded up."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz poświęca połowę "
+"permanentów bez typu Demon pod swoim władaniem, zaokrąglając w górę."
 
 #: ../../GK2.rst:454
 msgid ""
@@ -1289,7 +1340,7 @@ msgstr ""
 
 #: ../../GK2.rst:465
 msgid "Destroy target creature or land."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub ląd."
 
 #: ../../GK2.rst:472
 msgid ""
@@ -1399,6 +1450,9 @@ msgid ""
 "to your hand. Activate this ability only if an opponent was dealt damage "
 "this turn."
 msgstr ""
+"|mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego cmentarza do "
+"twojej ręki. Możesz aktywować tylko jeśli przeciwnik otrzymał obrażenia w "
+"tej turze."
 
 #: ../../GK2.rst:510
 msgid ""
@@ -1424,6 +1478,9 @@ msgid ""
 "with total converted mana cost 6 or less and put them onto the battlefield. "
 "Then shuffle your library."
 msgstr ""
+"Kiedy ten stwór umrze, wyszukaj w twojej bibliotece dowolną liczbę kart "
+"stworów o łącznym skrócie many 6 lub mniej i umieść je na polu bitwy. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../GK2.rst:520
 msgid ""
@@ -1443,7 +1500,7 @@ msgstr ""
 #: ../../GK2.rst:519
 msgid ""
 "Creatures with power less than Skarrgan Pit-Skulk's power can't block it."
-msgstr ""
+msgstr "Stwory o sile mniejszej niż siła tego stwora, nie mogą go blokować."
 
 #: ../../GK2.rst:526
 msgid ""
@@ -1469,17 +1526,19 @@ msgstr ""
 
 #: ../../GK2.rst:529
 msgid "Enchant green creature"
-msgstr ""
+msgstr "Zaurocz zielonego stwora"
 
 #: ../../GK2.rst:531
 msgid "Enchanted creature gets +6/+6."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +6/+6."
 
 #: ../../GK2.rst:533
 msgid ""
 "|mana_g|\\ |mana_g|\\ |mana_g|, Sacrifice Wurmweaver Coil: Create a 6/6 "
 "green Wurm creature token."
 msgstr ""
+"|mana_g|\\ |mana_g|\\ |mana_g|, poświęć ten urok: Stwórz żeton zielonego "
+"stwora Żmij 6/6."
 
 #: ../../GK2.rst:540
 msgid ""
@@ -1497,6 +1556,8 @@ msgid ""
 "Whenever Borborygmos deals combat damage to a player, put a +1/+1 counter on "
 "each creature you control."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia, umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../GK2.rst:544
 msgid ""
@@ -1643,6 +1704,8 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten stwór zadaje każdemu graczowi 1 "
+"obrażenie."
 
 #: ../../GK2.rst:592
 msgid ""
@@ -1653,7 +1716,7 @@ msgstr ""
 
 #: ../../GK2.rst:591
 msgid "Savage Twister deals X damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po X obrażeń."
 
 #: ../../GK2.rst:600
 msgid ""
@@ -1702,18 +1765,21 @@ msgid ""
 "each other red creature you control and a +1/+1 counter on it for each other "
 "green creature you control."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za każdego innego "
+"czerwonego stwora pod twoim władaniem i znacznik +1/+1 za każdego innego "
+"zielonego stwora pod twoim władaniem."
 
 #: ../../GK2.rst:611
 msgid "|mana_1|, Remove a +1/+1 counter from Ulasht: Choose one —"
-msgstr ""
+msgstr "|mana_1|, usuń znacznik +1/+1 z tego stwora: Wybierz jedno —"
 
 #: ../../GK2.rst:613
 msgid "Ulasht deals 1 damage to target creature."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu stworowi 1 obrażenie."
 
 #: ../../GK2.rst:615
 msgid "Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../GK2.rst:622
 msgid ""
@@ -1866,6 +1932,9 @@ msgid ""
 "it. Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 4 (Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../GK2.rst:665
 msgid ""
@@ -1880,6 +1949,8 @@ msgid ""
 "|mana_2|: Move a +1/+1 counter from target creature you control onto "
 "Cytoplast Root-Kin."
 msgstr ""
+"|mana_2|: Przenieś na tego stwora znacznik +1/+1 ze wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../GK2.rst:674
 msgid ""
@@ -1974,10 +2045,12 @@ msgid ""
 "Experiment Kraj has all activated abilities of each other creature with a +1/"
 "+1 counter on it."
 msgstr ""
+"Ten stwór ma wszystkie aktywowane zdolności każdego innego stwora mającego "
+"znacznik +1/+1."
 
 #: ../../GK2.rst:703
 msgid "|tap|: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "|tap|: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../GK2.rst:710
 msgid ""
@@ -2006,12 +2079,17 @@ msgid ""
 "creature card and reveal it. If you do, shuffle your library and put that "
 "card on top of it."
 msgstr ""
+"Ilekroć rzucisz czar zielonego stwora, możesz wyszukać w twojej bibliotece "
+"kartę stwora i ujawnić ją. Jeśli tak zrobisz, przetasuj twoją bibliotekę i "
+"umieść ową kartę na jej wierzchu."
 
 #: ../../GK2.rst:715
 msgid ""
 "Whenever you cast a blue creature spell, reveal the top card of your "
 "library. If it's a creature card, put that card into your hand."
 msgstr ""
+"Ilekroć rzucisz czar niebieskiego stwora, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta stwora, umieść ową kartę w twojej ręce."
 
 #: ../../GK2.rst:722
 msgid ""
@@ -2036,6 +2114,8 @@ msgid ""
 "|tap|: Target creature becomes a Frog with base power and toughness 3/3 "
 "until end of turn."
 msgstr ""
+"|tap|: Wskazany stwór do końca tury staje się Żabą o bazowych sile i "
+"wytrzymałości 3/3."
 
 #: ../../GK2.rst:732
 msgid ""
@@ -2050,12 +2130,17 @@ msgid ""
 "it. Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 3 (Ten stwór wchodzi na pole bitwy mając trzy znaczniki +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../GK2.rst:731
 msgid ""
 "|mana_2|: Target creature with a +1/+1 counter on it gains shroud until end "
 "of turn. (It can't be the target of spells or abilities.)"
 msgstr ""
+"|mana_2|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury "
+"antymagię. (Nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../GK2.rst:736
 msgid ""
