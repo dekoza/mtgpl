@@ -101,7 +101,7 @@
 .. |TSR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ISD_percent| image:: images/pie65.png        
+.. |ISD_percent| image:: images/pie75.png        
 
 .. |DIS_percent| image:: images/pie35.png        
 
@@ -233,7 +233,7 @@
 .. |DGM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |2XM_percent| image:: images/pie60.png        
+.. |2XM_percent| image:: images/pie65.png        
 
 .. |DTK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
