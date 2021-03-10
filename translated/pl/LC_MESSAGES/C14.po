@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 19:59+0000\n"
+"PO-Revision-Date: 2021-03-10 21:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -2935,10 +2935,12 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each creature on the battlefield."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora na polu "
+"bitwy."
 
 #: ../../C14.rst:979
 msgid "Blasphemous Act deals 13 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 13 obrażeń."
 
 #: ../../C14.rst:988
 msgid ""

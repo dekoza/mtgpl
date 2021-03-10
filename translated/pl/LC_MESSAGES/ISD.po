@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:54+0000\n"
+"PO-Revision-Date: 2021-03-10 21:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -2144,6 +2144,8 @@ msgid ""
 "Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each "
 "other Zombie you control and each Zombie card in your graveyard."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za każdego innego Zombi "
+"pod twoim władaniem oraz każdą kartę Zombi w twoim cmentarzu."
 
 # 1df14e9bcab74a298d09fb6966e9005e
 #: ../../ISD.rst:671
@@ -2151,6 +2153,8 @@ msgid ""
 "If Unbreathing Horde would be dealt damage, prevent that damage and remove a "
 "+1/+1 counter from it."
 msgstr ""
+"Jeśli ten stwór miałby otrzymać obrażenia, zażegnaj je i usuń z niego "
+"znacznik +1/+1."
 
 #: ../../ISD.rst:678
 msgid ""
@@ -2195,7 +2199,7 @@ msgstr ""
 # ee6173c8857b4a9f996dac8a00db592f
 #: ../../ISD.rst:687
 msgid "Destroy target non-Vampire, non-Werewolf, non-Zombie creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora bez typu Wampir, Wilkołak ani Zombi."
 
 #: ../../ISD.rst:692
 msgid ""
@@ -2209,7 +2213,7 @@ msgstr ""
 msgid ""
 "Whenever another Human creature dies, put a +1/+1 counter on Village "
 "Cannibals."
-msgstr ""
+msgstr "Ilekroć umrze inny Człowiek, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ISD.rst:694
 msgid ""
@@ -2259,6 +2263,8 @@ msgid ""
 "Whenever Balefire Dragon deals combat damage to a player, it deals that much "
 "damage to each creature that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, zadaje on po tyle samo "
+"obrażeń każdemu stworowi pod władaniem owego gracza."
 
 #: ../../ISD.rst:718
 msgid ""
@@ -2271,11 +2277,13 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each creature on the battlefield."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora na polu "
+"bitwy."
 
 # b1f7ae9217c444f08f9e92246b117b23
 #: ../../ISD.rst:717
 msgid "Blasphemous Act deals 13 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 13 obrażeń."
 
 #: ../../ISD.rst:724
 msgid ""
@@ -2294,6 +2302,8 @@ msgid ""
 "Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../ISD.rst:730
 msgid ""
@@ -2304,7 +2314,7 @@ msgstr ""
 
 #: ../../ISD.rst:727
 msgid "Brimstone Volley deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../ISD.rst:729
 msgid ""
@@ -2367,6 +2377,8 @@ msgid ""
 "When Crossway Vampire enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może blokować w "
+"tej turze."
 
 #: ../../ISD.rst:750
 msgid ""
@@ -2381,6 +2393,8 @@ msgid ""
 "Whenever a creature deals combat damage to enchanted player, put a +1/+1 "
 "counter on that creature."
 msgstr ""
+"Ilekroć stwór zada zauroczonemu graczowi obrażenia bojowe, umieść znacznik +"
+"1/+1 na owym stworze."
 
 #: ../../ISD.rst:756
 msgid ""
@@ -2410,6 +2424,8 @@ msgid ""
 "At the beginning of enchanted player's upkeep, Curse of the Pierced Heart "
 "deals 1 damage to that player or a planeswalker that player controls."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, ten urok zadaje owemu "
+"graczowi lub wędrowcowi pod władaniem owego gracza 1 obrażenie."
 
 #: ../../ISD.rst:768
 msgid ""
@@ -2432,7 +2448,7 @@ msgstr ""
 
 #: ../../ISD.rst:771
 msgid "Devil's Play deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:773
@@ -2461,6 +2477,8 @@ msgid ""
 "Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 "
 "counters on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim dwa "
+"znaczniki +1/+1."
 
 #: ../../ISD.rst:786
 msgid ""
@@ -2471,7 +2489,7 @@ msgstr ""
 
 #: ../../ISD.rst:785
 msgid "|mana_1|\\ |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../ISD.rst:792
 msgid ""
@@ -2495,7 +2513,7 @@ msgstr ""
 
 #: ../../ISD.rst:795
 msgid "Geistflame deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:797 ../../ISD.rst:871
@@ -2520,6 +2538,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Hanweir Watchkeep."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:810
 msgid ""
@@ -2539,6 +2559,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Bane of Hanweir."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:816
 msgid ""
@@ -2602,6 +2624,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Instigator Gang."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:840
 msgid ""
@@ -2622,6 +2646,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Wildblood Pack."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:844
 msgid ""
@@ -2661,6 +2687,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Kruin Outlaw."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:862
 msgid ""
@@ -2687,6 +2715,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Terror of Kruin Pass."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:866
 msgid ""
@@ -2791,6 +2821,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Reckless Waif."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:898
 msgid ""
@@ -2806,6 +2838,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Merciless Predator."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:900
 msgid ""
@@ -2896,6 +2930,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Tormented Pariah."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:930
 msgid ""
@@ -2911,6 +2947,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Rampaging Werewolf."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:934
 msgid ""
@@ -2953,6 +2991,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Village Ironsmith."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:950
 msgid ""
@@ -2967,6 +3007,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Ironfang."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:956
 msgid ""
@@ -3093,6 +3135,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Daybreak Ranger."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:996
 msgid ""
@@ -3115,6 +3159,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Nightfall Predator."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:1000
 msgid ""
@@ -3190,6 +3236,7 @@ msgid ""
 "When Garruk Relentless has two or fewer loyalty counters on him, transform "
 "him."
 msgstr ""
+"Kiedy ten wędrowiec ma dwa znaczniki lojalności lub mniej, transformuj go."
 
 # a89b70ace1934c6480d6ed72fb9afb7b
 #: ../../ISD.rst:1021
@@ -3240,6 +3287,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Gatstaf Shepherd."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:1042
 msgid ""
@@ -3255,6 +3304,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Gatstaf Howler."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:1048
 msgid ""
@@ -3303,6 +3354,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Grizzled Outcasts."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:1060
 msgid ""
@@ -3318,6 +3371,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Krallenhorde Wantons."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:1064
 msgid ""
@@ -3428,6 +3483,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Mayor of Avabruck."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:1104
 msgid ""
@@ -3453,6 +3510,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Howlpack Alpha."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:1110
 msgid ""
@@ -3482,6 +3541,9 @@ msgid ""
 "turn by creatures other than Werewolves and Wolves. (Only double-faced cards "
 "can be transformed.)"
 msgstr ""
+"Transformuj wszystkie stwory typu Człowiek. Zażegnaj wszystkie obrażenia, "
+"jakie mogłyby zostać zadane w tej turze przez stwory inne niż Wiłkołaki i "
+"Wilki. (Tylko dwustronne karty mogą być transformowane.)"
 
 #: ../../ISD.rst:1118
 msgid ""
@@ -3688,6 +3750,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Ulvenwald Mystics."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:1184
 msgid ""
@@ -3708,6 +3772,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Ulvenwald Primordials."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:1188
 msgid ""
@@ -3723,6 +3789,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Villagers of Estwald."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie rzucono czarów w poprzedniej "
+"turze, transformuj tego stwora."
 
 #: ../../ISD.rst:1192
 msgid ""
@@ -3738,6 +3806,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Howlpack of Estwald."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli gracz rzucił w poprzedniej turze "
+"co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../ISD.rst:1196
 msgid ""
