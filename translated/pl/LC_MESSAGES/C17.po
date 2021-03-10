@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 11:24+0000\n"
+"PO-Revision-Date: 2021-03-10 19:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -1659,6 +1659,9 @@ msgid ""
 "or sorcery card from an opponent's graveyard. Copy those cards. Cast the "
 "copies if able without paying their mana costs. Exile Spelltwine."
 msgstr ""
+"Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego cmentarza i wskazaną "
+"kartę sztuczki lub obrzędu z cmentarza przeciwnika. Skopiuj owe karty. Rzuć "
+"owe kopie bez płacenia ich kosztów many jeśli to możliwe. Wygnaj ten czar."
 
 #: ../../C17.rst:552
 msgid ""
@@ -3835,11 +3838,11 @@ msgstr ""
 
 #: ../../C17.rst:1315
 msgid "At the beginning of your upkeep, draw a card."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, dobierz kartę."
 
 #: ../../C17.rst:1317
 msgid "|tap|: Staff of Nin deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../C17.rst:1326
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 11:24+0000\n"
+"PO-Revision-Date: 2021-03-10 19:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -976,6 +976,9 @@ msgid ""
 "or sorcery card from an opponent's graveyard. Copy those cards. Cast the "
 "copies if able without paying their mana costs. Exile Spelltwine."
 msgstr ""
+"Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego cmentarza i wskazaną "
+"kartę sztuczki lub obrzędu z cmentarza przeciwnika. Skopiuj owe karty. Rzuć "
+"owe kopie bez płacenia ich kosztów many jeśli to możliwe. Wygnaj ten czar."
 
 #: ../../M13.rst:352
 msgid ""
@@ -1055,7 +1058,7 @@ msgstr ""
 
 #: ../../M13.rst:377
 msgid "Enchanted creature gets +2/+0 and can't be blocked."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+0 i nie może być blokowany."
 
 #: ../../M13.rst:382
 msgid ""
@@ -1091,6 +1094,9 @@ msgid ""
 "|mana_2|\\ |mana_u|, |tap|: Put Void Stalker and target creature on top of "
 "their owners' libraries, then those players shuffle their libraries."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|: Umieść tego stwora i wskazanego stwora na "
+"wierzchu bibliotek ich właścicieli, następnie owi gracze tasują swoje "
+"biblioteki."
 
 #: ../../M13.rst:394
 msgid ""
@@ -1141,6 +1147,8 @@ msgid ""
 "Whenever a creature attacks you or a planeswalker you control, that "
 "creature's controller loses 1 life."
 msgstr ""
+"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, władca "
+"owego stwora traci 1 życie."
 
 #: ../../M13.rst:414
 msgid ""
@@ -1217,6 +1225,8 @@ msgid ""
 "Search your library for up to X cards and put those cards into your hand. "
 "Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej X kart i umieść je w twojej ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../M13.rst:444
 msgid ""
@@ -1287,6 +1297,9 @@ msgid ""
 "creature would be destroyed this turn, it isn't. Instead tap it, remove all "
 "damage from it, and remove it from combat.)"
 msgstr ""
+"|mana_3|\\ |mana_b|: Zregeneruj tego stwora. (Następnym razem, gdy miałby "
+"zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z "
+"niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../M13.rst:468
 msgid ""
@@ -1297,7 +1310,7 @@ msgstr ""
 
 #: ../../M13.rst:467
 msgid "Essence Drain deals 3 damage to any target and you gain 3 life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia, a ty zyskaj 3 życia."
 
 #: ../../M13.rst:472
 msgid ""
@@ -1323,11 +1336,11 @@ msgstr ""
 
 #: ../../M13.rst:475
 msgid "Harbor Bandit gets +1/+1 as long as you control an Island."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz Wyspą."
 
 #: ../../M13.rst:477
 msgid "|mana_1|\\ |mana_u|: Harbor Bandit can't be blocked this turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../M13.rst:484
 msgid ""
@@ -1388,10 +1401,13 @@ msgid ""
 "When Liliana's Shade enters the battlefield, you may search your library for "
 "a Swamp card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę Bagna, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../M13.rst:497
 msgid "|mana_b|: Liliana's Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../M13.rst:504
 msgid ""
@@ -1436,6 +1452,8 @@ msgstr ""
 #: ../../M13.rst:515
 msgid "All creatures get -1/-1 until end of turn for each Swamp you control."
 msgstr ""
+"Wszystkie stwory dostają do końca tury -1/-1 za każde Bagno pod twoim "
+"władaniem."
 
 #: ../../M13.rst:524
 msgid ""
@@ -1449,7 +1467,7 @@ msgstr ""
 msgid ""
 "Whenever Nefarox, Overlord of Grixis attacks alone, defending player "
 "sacrifices a creature."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje samotnie, broniący się gracz poświęca stwora."
 
 #: ../../M13.rst:532
 msgid ""
@@ -1490,6 +1508,8 @@ msgid ""
 "Destroy target creature an opponent controls. Each other creature that "
 "player controls gets -2/-0 until end of turn."
 msgstr ""
+"Zniszcz wskazanego stwora pod władaniem przeciwnika. Każdy inny stwór pod "
+"władaniem owego gracza dostaje do końca tury -2/-0."
 
 #: ../../M13.rst:540
 msgid ""
@@ -1502,6 +1522,7 @@ msgstr ""
 msgid ""
 "When Ravenous Rats enters the battlefield, target opponent discards a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
 
 #: ../../M13.rst:544
 msgid ""
@@ -1541,6 +1562,10 @@ msgid ""
 "graveyard, hand, and library for all cards with the same name as that card "
 "and exile them. Then that player shuffles their library."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz ujawnia swoją "
+"rękę. Wybierz z niej nielądową kartę. Wyszukaj w cmentarzu, ręce i "
+"bibliotece owego gracza wszystkie karty o tej samej nazwie i wygnaj je. "
+"Następnie ów gracz tasuje swoją bibliotekę."
 
 #: ../../M13.rst:558
 msgid ""
@@ -1603,13 +1628,15 @@ msgstr ""
 
 #: ../../M13.rst:575
 msgid "Veilborn Ghoul can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../M13.rst:577
 msgid ""
 "Whenever a Swamp enters the battlefield under your control, you may return "
 "Veilborn Ghoul from your graveyard to your hand."
 msgstr ""
+"Ilekroć Bagno wejdzie na pole bitwy pod twoim władaniem, możesz przywrócić "
+"tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../M13.rst:582
 msgid ""
@@ -1642,7 +1669,7 @@ msgstr ""
 
 #: ../../M13.rst:589
 msgid "Target player discards their hand."
-msgstr ""
+msgstr "Wskazany gracz odrzuca swoją rękę."
 
 #: ../../M13.rst:596
 msgid ""
@@ -1658,6 +1685,10 @@ msgid ""
 "types. Its activated abilities can't be activated. (A creature with defender "
 "can't attack.)"
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|: Umieść znacznik petryfikacji na wskazanym "
+"stworze. Zyskuje on obronność i staje się bezkolorowym artefaktem oprócz "
+"swoich innych typów. Jego aktywowane zdolności nie mogą być aktywowane. ("
+"Stwór z obronnością nie może atakować.)"
 
 #: ../../M13.rst:598
 msgid ""
@@ -1678,6 +1709,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Arms Dealer deals 4 damage to "
 "target creature."
 msgstr ""
+"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje wskazanemu stworowi 4 "
+"obrażenia."
 
 #: ../../M13.rst:608
 msgid ""
@@ -1753,6 +1786,8 @@ msgid ""
 "Creatures you control gain double strike until end of turn. (They deal both "
 "first-strike and regular combat damage.)"
 msgstr ""
+"Stwory pod twoim władaniem zyskują do końca tury podwójny cios. (Zadają "
+"obrażenia bojowe zarówno w pierwszym ciosie i normalnie.)"
 
 #: ../../M13.rst:632
 msgid ""
@@ -1774,7 +1809,7 @@ msgstr ""
 
 #: ../../M13.rst:635
 msgid "Crimson Muckwader gets +1/+1 as long as you control a Swamp."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz Bagnem."
 
 #: ../../M13.rst:637
 msgid ""
@@ -1782,6 +1817,9 @@ msgid ""
 "creature would be destroyed this turn, it isn't. Instead tap it, remove all "
 "damage from it, and remove it from combat.)"
 msgstr ""
+"|mana_2|\\ |mana_b|: Zregeneruj tego stwora. (Następnym razem, gdy miałby "
+"zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z "
+"niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../M13.rst:644
 msgid ""
@@ -1806,6 +1844,8 @@ msgid ""
 "Creatures you control have haste. (They can attack and |tap| as soon as they "
 "come under your control.)"
 msgstr ""
+"Stwory pod twoim władaniem mają pośpiech. (Mogą atakować i |tap| zaraz po "
+"wejściu pod twoje władanie.)"
 
 #: ../../M13.rst:650
 msgid ""
@@ -1826,6 +1866,8 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Firewing Phoenix from your "
 "graveyard to your hand."
 msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../M13.rst:662
 msgid ""
@@ -1875,6 +1917,7 @@ msgstr ""
 #: ../../M13.rst:675
 msgid "Whenever you cast a red spell, target creature can't block this turn."
 msgstr ""
+"Ilekroć rzucisz czerwony czar, wskazany stwór nie może blokować w tej turze."
 
 #: ../../M13.rst:680
 msgid ""
@@ -1973,6 +2016,9 @@ msgid ""
 "hand. You may cast an instant or sorcery spell from among those cards "
 "without paying its mana cost."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją "
+"rękę. Możesz spośród owych kart rzucić czar sztuczki lub obrzędu bez "
+"płacenia jego kosztu many."
 
 #: ../../M13.rst:708
 msgid ""
@@ -2031,7 +2077,7 @@ msgstr ""
 
 #: ../../M13.rst:725
 msgid "Searing Spear deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../M13.rst:734
 msgid ""
@@ -2045,12 +2091,16 @@ msgid ""
 "Slumbering Dragon can't attack or block unless it has five or more +1/+1 "
 "counters on it."
 msgstr ""
+"Ten stwór nie może atakować lub blokować, chyba że ma co najmniej pięć "
+"znaczników +1/+1."
 
 #: ../../M13.rst:733
 msgid ""
 "Whenever a creature attacks you or a planeswalker you control, put a +1/+1 "
 "counter on Slumbering Dragon."
 msgstr ""
+"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../M13.rst:738
 msgid ""
@@ -2175,6 +2225,8 @@ msgid ""
 "Exile all permanents. Exile all cards from all hands and graveyards. Each "
 "player's life total becomes 1."
 msgstr ""
+"Wygnaj wszystkie permanenty. Wygnaj wszystkie karty ze wszystkich rąk i "
+"cmentarzy. Każdy gracz ma 1 życie."
 
 #: ../../M13.rst:790
 msgid ""
@@ -2200,7 +2252,7 @@ msgstr ""
 
 #: ../../M13.rst:793
 msgid "|tap|: Untap target Forest."
-msgstr ""
+msgstr "|tap|: Odkręć wskazany Las."
 
 #: ../../M13.rst:798
 msgid ""
@@ -2214,6 +2266,8 @@ msgid ""
 "When Bond Beetle enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../M13.rst:802
 msgid ""
@@ -2228,6 +2282,9 @@ msgid ""
 "lands you control, and put them onto the battlefield tapped. Then shuffle "
 "your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
+"liczbą lądów pod twoim władaniem, i umieść je przekręcone na polu bitwy. "
+"Następnie przetasuj twoją bibliotekę."
 
 #: ../../M13.rst:806
 msgid ""
@@ -2289,12 +2346,16 @@ msgid ""
 "When Elderscale Wurm enters the battlefield, if your life total is less than "
 "7, your life total becomes 7."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli masz mniej niż 7 żyć, liczba "
+"twoich żyć ma wartość 7."
 
 #: ../../M13.rst:827
 msgid ""
 "As long as you have 7 or more life, damage that would reduce your life total "
 "to less than 7 reduces it to 7 instead."
 msgstr ""
+"O ile masz co najmniej 7 żyć, obrażenia które mogłyby zmniejszyć liczbę "
+"twoich żyć do mniej niż 7, zamiast tego zmniejszają ją do 7."
 
 #: ../../M13.rst:834
 msgid ""
@@ -2380,6 +2441,8 @@ msgid ""
 "Create X 1/1 green Saproling creature tokens, where X is the greatest power "
 "among creatures you control."
 msgstr ""
+"Stwórz X żetonów zielonego stwora Sadzonka 1/1, gdzie X jest największą siłą "
+"pośród stworów pod twoim władaniem."
 
 #: ../../M13.rst:864
 msgid ""
@@ -2427,7 +2490,7 @@ msgstr ""
 
 #: ../../M13.rst:871
 msgid "When Ground Seal enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M13.rst:873
 msgid "Cards in graveyards can't be the targets of spells or abilities."
@@ -2446,6 +2509,9 @@ msgid ""
 "a creature card with deathtouch, hexproof, reach, or trample and reveal it. "
 "Shuffle your library and put that card on top of it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"stwora z dotykiem śmierci, antyklątwą, zasięgiem lub tratowaniem i ujawnij "
+"ją. Przetasuj twoją bibliotekę i umieść ową kartę na jej wierzchu."
 
 #: ../../M13.rst:882
 msgid ""
@@ -2481,6 +2547,8 @@ msgid ""
 "Creatures you control get +3/+3 until end of turn. Each creature your "
 "opponents control blocks this turn if able."
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +3/+3. Każdy stwór pod "
+"władaniem twoich przeciwników blokuje w tej turze jeśli może."
 
 #: ../../M13.rst:894
 msgid ""
@@ -2583,6 +2651,8 @@ msgid ""
 "Search your library for up to two Forest cards and put them onto the "
 "battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty Lasu i umieść je "
+"przekręcone na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../M13.rst:926
 msgid ""
@@ -2652,6 +2722,8 @@ msgid ""
 "|mana_x|\\ |mana_g|\\ |mana_g|: Silklash Spider deals X damage to each "
 "creature with flying."
 msgstr ""
+"|mana_x|\\ |mana_g|\\ |mana_g|: Ten stwór zadaje każdemu stworowi z lataniem "
+"po X obrażeń."
 
 #: ../../M13.rst:948
 msgid ""
@@ -2720,7 +2792,7 @@ msgstr ""
 
 #: ../../M13.rst:971
 msgid "You may cast green creature spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary zielonych stworów jakby miały błysk."
 
 #: ../../M13.rst:976
 msgid ""
@@ -2747,11 +2819,11 @@ msgstr ""
 
 #: ../../M13.rst:979
 msgid "+3: Destroy target noncreature permanent."
-msgstr ""
+msgstr "+3: Zniszcz wskazany nie-stworowy permanent."
 
 #: ../../M13.rst:981
 msgid "−2: Gain control of target creature."
-msgstr ""
+msgstr "–2: Zyskaj władanie nad wskazanym stworem."
 
 #: ../../M13.rst:983
 msgid ""
@@ -2759,6 +2831,9 @@ msgid ""
 "planeswalker. That player or that planeswalker's controller discards seven "
 "cards, then sacrifices seven permanents."
 msgstr ""
+"–9: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 7 obrażeń. Ów "
+"gracz lub władca owego wędrowca odrzuca siedem kart, następnie poświęca "
+"siedem permanentów."
 
 #: ../../M13.rst:988
 msgid ""
@@ -2784,7 +2859,7 @@ msgstr ""
 
 #: ../../M13.rst:991
 msgid "|mana_1|, |tap|: Put a +1/+1 counter on Chronomaton."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../M13.rst:996
 msgid ""
@@ -2796,6 +2871,8 @@ msgstr ""
 #: ../../M13.rst:995
 msgid "Tap two untapped artifacts you control: Untap target artifact."
 msgstr ""
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Odkręć wskazany "
+"artefakt."
 
 #: ../../M13.rst:1002
 msgid ""
@@ -2806,7 +2883,7 @@ msgstr ""
 
 #: ../../M13.rst:999
 msgid "Door to Nothingness enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../M13.rst:1001
 msgid ""
@@ -2814,6 +2891,9 @@ msgid ""
 "|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice Door to Nothingness: Target "
 "player loses the game."
 msgstr ""
+"|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ "
+"|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, poświęć ten artefakt: Wskazany gracz "
+"przegrywa grę."
 
 #: ../../M13.rst:1006
 msgid ""
@@ -2843,6 +2923,9 @@ msgid ""
 "Island card, a Swamp card, and a Mountain card. Reveal those cards and put "
 "them into your hand. Then shuffle your library."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"Wyspy, kartę Bagna i kartę Góry. Ujawnij owe karty i umieść je w twojej "
+"ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../M13.rst:1014
 msgid ""
@@ -2875,7 +2958,7 @@ msgstr ""
 
 #: ../../M13.rst:1021
 msgid "Equipped creature gets +1/+0 and has flying."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 i ma latanie."
 
 #: ../../M13.rst:1023
 msgid ""
@@ -2906,6 +2989,10 @@ msgid ""
 "artifact creature with defender in addition to its other types. (A creature "
 "with defender can't attack.)"
 msgstr ""
+"Umieszczając tę kartę na polu bitwy zdecyduj, czy wejdzie jako artefaktowy "
+"stwór 3/3, artefaktowy stwór 2/2 z lataniem lub jako artefaktowy stwór "
+"Ściana 1/6 z obronnością oprócz swoich innych typów. (Stwór z obronnością "
+"nie może atakować.)"
 
 #: ../../M13.rst:1040
 msgid ""
@@ -2919,12 +3006,16 @@ msgid ""
 "|mana_2|: Equipped creature gains hexproof until end of turn. (It can't be "
 "the target of spells or abilities your opponents control.)"
 msgstr ""
+"|mana_2|: Wyposażony stwór zyskuje do końca tury antyklątwę. (Nie może być "
+"wskazywany przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../M13.rst:1037
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on equipped creature if "
 "it's blue."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na wyposażonym "
+"stworze jeśli jest niebieski."
 
 #: ../../M13.rst:1039 ../../M13.rst:1047 ../../M13.rst:1055 ../../M13.rst:1063
 #: ../../M13.rst:1071
@@ -2947,12 +3038,16 @@ msgid ""
 "Equipped creature has trample. (It can deal excess combat damage to the "
 "player or planeswalker it's attacking.)"
 msgstr ""
+"Wyposażony stwór ma tratowanie. (Może zadać nadmiarowe obrażenia bojowe "
+"atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../M13.rst:1045
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on equipped creature if "
 "it's green."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na wyposażonym "
+"stworze jeśli jest zielony."
 
 #: ../../M13.rst:1056
 msgid ""
@@ -2963,13 +3058,15 @@ msgstr ""
 
 #: ../../M13.rst:1051
 msgid "Equipped creature has vigilance. (Attacking doesn't cause it to tap.)"
-msgstr ""
+msgstr "Wyposażony stwór ma czujność. (Atakowanie nie przekręca go.)"
 
 #: ../../M13.rst:1053
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on equipped creature if "
 "it's white."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na wyposażonym "
+"stworze jeśli jest biały."
 
 #: ../../M13.rst:1064
 msgid ""
@@ -2983,12 +3080,16 @@ msgid ""
 "Equipped creature has haste. (It can attack and |tap| no matter when it came "
 "under your control.)"
 msgstr ""
+"Wyposażony stwór ma pośpiech (Może atakować i |tap| od razu po wejściu pod "
+"twoje władanie.)"
 
 #: ../../M13.rst:1061
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on equipped creature if "
 "it's red."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na wyposażonym "
+"stworze jeśli jest czerwony."
 
 #: ../../M13.rst:1072
 msgid ""
@@ -3003,12 +3104,17 @@ msgid ""
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_2|: Zregeneruj wyposażonego stwora. (Następnym razem, gdy miałby "
+"zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z "
+"niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../M13.rst:1069
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on equipped creature if "
 "it's black."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na wyposażonym "
+"stworze jeśli jest czarny."
 
 #: ../../M13.rst:1076
 msgid ""
@@ -3030,11 +3136,11 @@ msgstr ""
 
 #: ../../M13.rst:1079
 msgid "At the beginning of your upkeep, draw a card."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, dobierz kartę."
 
 #: ../../M13.rst:1081
 msgid "|tap|: Staff of Nin deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M13.rst:1092
 msgid ""
@@ -3110,7 +3216,7 @@ msgstr ""
 
 #: ../../M13.rst:1109
 msgid "Cathedral of War enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../M13.rst:1113 ../../M13.rst:1139 ../../M13.rst:1149
 msgid "|tap|: Add |colorless|."
@@ -3195,7 +3301,7 @@ msgstr ""
 
 #: ../../M13.rst:1141
 msgid "|mana_1|\\ |mana_r|, |tap|: Put a pressure counter on Hellion Crucible."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|, |tap|: Umieść znacznik ciśnienia na tym lądzie."
 
 #: ../../M13.rst:1143
 msgid ""
@@ -3203,6 +3309,9 @@ msgid ""
 "Crucible and sacrifice it: Create a 4/4 red Hellion creature token with "
 "haste. (It can attack and |tap| as soon as it comes under your control.)"
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|, usuń dwa znaczniki ciśnienia z tego lądu i "
+"poświęć go: Stwórz żeton czerwonego stwora Piekielstwo 4/4 z pośpiechem. ("
+"Może atakować i |tap| od razu po wejściu pod twoje władanie.)"
 
 #: ../../M13.rst:1150
 msgid ""

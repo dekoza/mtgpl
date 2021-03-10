@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-10 19:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5dn/pl/>\n"
 "Language: pl\n"
@@ -1549,6 +1549,8 @@ msgstr ""
 #: ../../5DN.rst:555
 msgid "Tap two untapped artifacts you control: Untap target artifact."
 msgstr ""
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Odkręć wskazany "
+"artefakt."
 
 #: ../../5DN.rst:560
 msgid ""
@@ -1618,7 +1620,7 @@ msgstr ""
 
 #: ../../5DN.rst:579
 msgid "Door to Nothingness enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../5DN.rst:581
 msgid ""
@@ -1626,6 +1628,9 @@ msgid ""
 "|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice Door to Nothingness: Target "
 "player loses the game."
 msgstr ""
+"|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ "
+"|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, poświęć ten artefakt: Wskazany gracz "
+"przegrywa grę."
 
 #: ../../5DN.rst:586
 msgid ""
