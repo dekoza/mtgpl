@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 11:24+0000\n"
+"PO-Revision-Date: 2021-03-11 18:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -3669,11 +3669,14 @@ msgid ""
 "|mana_1|: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with "
 "flying until end of turn. It's still a land."
 msgstr ""
+"|mana_1|: Ten ląd staje się do końca tury stworem Świetlik 1/1 z lataniem. "
+"Nadal jest lądem."
 
 #: ../../MMA.rst:1269
 msgid ""
 "|mana_1|, |tap|: Target Blinkmoth creature gets +1/+1 until end of turn."
 msgstr ""
+"|mana_1|, |tap|: Wskazany stwór typu Świetlik dostaje do końca tury +1/+1."
 
 #: ../../MMA.rst:1276
 msgid ""
