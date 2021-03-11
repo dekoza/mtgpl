@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2021-03-11
+   * Innistrad - 100%
+
 2021-03-10
    * Ravnica Allegiance Kits - 100%
    * Magic 2013 - 100%
