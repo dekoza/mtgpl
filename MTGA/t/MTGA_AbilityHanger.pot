@@ -442,6 +442,10 @@ msgctxt "AbilityHanger/Keyword/Changeling"
 msgid "This creature is every creature type."
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/Changeling_Title"
+msgid "Changeling"
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/Convoke"
 msgid ""
 "Your creatures can help you cast this spell. Each creature you tap while "
@@ -784,6 +788,10 @@ msgid ""
 "its foretell cost."
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/Foretell_Title"
+msgid "Foretell"
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/Haste"
 msgid ""
 "A creature with haste can attack and {oT} as soon as it comes under your "
@@ -856,6 +864,16 @@ msgctxt "AbilityHanger/Keyword/Indestructible"
 msgid ""
 "Effects that say \"destroy\" don't destroy a permanent with indestructible, "
 "and if it's a creature, it can't be destroyed by damage."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Investigate"
+msgid ""
+"Create a colorless Clue artifact token with \"{o2}, Sacrifice this artifact:"
+" Draw a card.\""
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Investigate_Title"
+msgid "Investigate"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Jump-start"

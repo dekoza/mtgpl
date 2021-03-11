@@ -539,6 +539,18 @@ msgctxt "MainNav/Profile/Emotes/Emote_Button"
 msgid "Emotes"
 msgstr ""
 
+msgctxt "MainNav/Profile/Emotes/EquippedPhrasesCount_Header"
+msgid "Phrases {currentEquippedCount}/{maxEquippedCount}"
+msgstr ""
+
+msgctxt "MainNav/Profile/Emotes/EquippedStickersCount_Header"
+msgid "Stickers {currentEquippedCount}/{maxEquippedCount}"
+msgstr ""
+
+msgctxt "MainNav/Profile/Emotes/ExceededMaxEquippedEmotes_Header"
+msgid "Cannot equip more than {maxEquippedCount} emotes of type {emoteType}."
+msgstr ""
+
 msgctxt "MainNav/Profile/Emotes/Expansion_Header"
 msgid "Phrases"
 msgstr ""
@@ -547,6 +559,16 @@ msgctxt "MainNav/Profile/Emotes/Instructions"
 msgid ""
 "Click to select or deselect an emote. All selected emotes will be available "
 "during matches."
+msgstr ""
+
+msgctxt "MainNav/Profile/Emotes/MaxEquippedEmoteCapReached_Body"
+msgid ""
+"One of your emote types has gone over the equip cap. Would you like to "
+"discard changes?"
+msgstr ""
+
+msgctxt "MainNav/Profile/Emotes/MaxEquippedEmoteCapReached_Header"
+msgid "Equip Cap Reached"
 msgstr ""
 
 msgctxt "MainNav/Profile/Emotes/SelectActiveEmotes"
@@ -559,6 +581,12 @@ msgstr ""
 
 msgctxt "MainNav/Profile/Emotes/UnlockNewEmotes"
 msgid "Unlock new Emotes through the Mastery Pass."
+msgstr ""
+
+msgctxt "MainNav/Profile/Emotes/UnsavedChanges_Body"
+msgid ""
+"You have unsaved changes. Would you like to discard changes or save and "
+"exit?"
 msgstr ""
 
 msgctxt "MainNav/Profile/MythicQualifier/MoreInfoTooltip"

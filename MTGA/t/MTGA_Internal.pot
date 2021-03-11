@@ -2956,6 +2956,10 @@ msgctxt "MainNav/PetNames/ELD_BattlePass"
 msgid "Fae Fox"
 msgstr ""
 
+msgctxt "MainNav/PetNames/HA4_Cat"
+msgid "Amon-cat"
+msgstr ""
+
 msgctxt "MainNav/PetNames/IKO_BattlePass_1"
 msgid "Regal Cub"
 msgstr ""
@@ -3283,6 +3287,10 @@ msgctxt "MainNav/Popups/CollectionFilterPopup/Historic_Anthology_3"
 msgid "Historic Anthology 3"
 msgstr ""
 
+msgctxt "MainNav/Popups/CollectionFilterPopup/Historic_Anthology_4"
+msgid "Historic Anthology 4"
+msgstr ""
+
 msgctxt "MainNav/Popups/CollectionFilterPopup/Historic_Anthology_Alt_A"
 msgid "Historic Anthology"
 msgstr ""
@@ -3305,6 +3313,14 @@ msgstr ""
 
 msgctxt "MainNav/Popups/CollectionFilterPopup/QuantityOwned_4"
 msgid "x4"
+msgstr ""
+
+msgctxt "MainNav/Popups/Handheld_MOZ_Tutorial_Subtitle"
+msgid "Inspect the card to continue."
+msgstr ""
+
+msgctxt "MainNav/Popups/Handheld_MOZ_Tutorial_Title"
+msgid "Tap and hold cards to inspect their details."
 msgstr ""
 
 msgctxt "MainNav/Popups/QuestRewardPopup/QuestRewardPopup_Back"
@@ -4316,8 +4332,16 @@ msgctxt "Match/Match_Wait_Time"
 msgid "Currently Waiting:"
 msgstr ""
 
+msgctxt "Match/PreGame/Matchmaking_ConfigFound"
+msgid "Entering Match..."
+msgstr ""
+
 msgctxt "Match/PreGame/Matchmaking_MatchReady"
 msgid "Ready!"
+msgstr ""
+
+msgctxt "Match/PreGame/Matchmaking_Waiting_For_Opponent"
+msgid "Waiting For Opponent..."
 msgstr ""
 
 msgctxt "Match/PreGame/OpponentDetails"
@@ -4929,6 +4953,54 @@ msgstr ""
 
 msgctxt "Nissa"
 msgid ""
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_BR_Body"
+msgid "Unlock a new Black and Red deck by completing your latest quest."
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_BR_Title"
+msgid "New Deck to Unlock (3/10)"
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_Five_Body"
+msgid "Unlock the final five decks by completing one more quest."
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_Five_Title"
+msgid "5 New Decks to Unlock!"
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_GW_Body"
+msgid "Unlock a new Green and White deck by completing your latest quest."
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_GW_Title"
+msgid "New Deck to Unlock (4/10)"
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_RG_Body"
+msgid "Unlock a new Red and Green deck by completing your latest quest."
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_RG_Title"
+msgid "New Deck to Unlock (1/10)"
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_UB_Body"
+msgid "Unlock a new Blue and Black deck by completing your latest quest."
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_UB_Title"
+msgid "New Deck to Unlock (5/10)"
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_WU_Body"
+msgid "Unlock a new White and Blue deck by completing your latest quest."
+msgstr ""
+
+msgctxt "Notification/Notification_ColorChallenge_Quest_WU_Title"
+msgid "New Deck to Unlock (2/10)"
 msgstr ""
 
 msgctxt "Objective/Bubble/LevelUp"
