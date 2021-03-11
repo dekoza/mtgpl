@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 21:19+0000\n"
+"PO-Revision-Date: 2021-03-11 15:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -2382,7 +2382,7 @@ msgstr ""
 
 #: ../../UMA.rst:773
 msgid "Up to two target creatures can't block this turn."
-msgstr ""
+msgstr "Co najwyżej dwa wskazane stwory nie mogą blokować w tej turze."
 
 #: ../../UMA.rst:775 ../../UMA.rst:1059
 msgid ""
@@ -2448,7 +2448,7 @@ msgstr ""
 
 #: ../../UMA.rst:795
 msgid "Rolling Temblor deals 2 damage to each creature without flying."
-msgstr ""
+msgstr "Ten stwór zadaje każdemu stworowi bez latania po 2 obrażenia."
 
 #: ../../UMA.rst:797
 msgid ""
@@ -2663,6 +2663,8 @@ msgid ""
 "Boneyard Wurm's power and toughness are each equal to the number of creature "
 "cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart stworów w twoim "
+"cmentarzu."
 
 #: ../../UMA.rst:880
 msgid ""
@@ -3031,6 +3033,8 @@ msgid ""
 "Create a 1/2 green Spider creature token with reach for each creature card "
 "in your graveyard."
 msgstr ""
+"Stwórz tyle żetonów zielonego stwora Pająk 1/2 z zasięgiem, ile jest kart "
+"stworów w twoim cmentarzu."
 
 #: ../../UMA.rst:1010
 msgid ""

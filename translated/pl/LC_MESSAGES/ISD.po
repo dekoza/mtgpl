@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 21:19+0000\n"
+"PO-Revision-Date: 2021-03-11 15:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -2573,11 +2573,12 @@ msgstr ""
 msgid ""
 "As an additional cost to cast this spell, exile X cards from your graveyard."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — wygnaj X kart z twojego cmentarza."
 
 # f378d5b4dd1f4093ae8db734dbdda091
 #: ../../ISD.rst:815
 msgid "Harvest Pyre deals X damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi X obrażeń."
 
 #: ../../ISD.rst:820
 msgid ""
@@ -2592,6 +2593,9 @@ msgid ""
 "Punishment deals damage to that permanent or player equal to the highest "
 "converted mana cost among the milled cards."
 msgstr ""
+"|mana_3|\\ |mana_r|: Wskaż dowolny cel, następnie zmiel trzy karty. Ten urok "
+"zadaje owemu permanentowi lub graczowi tyle obrażeń, ile wynosił największy "
+"skrót many spośród owych zmielonych kart."
 
 #: ../../ISD.rst:826
 msgid ""
@@ -2638,7 +2642,7 @@ msgstr ""
 # 4f3281d4df7d481e98fb84445f1b1a51
 #: ../../ISD.rst:837
 msgid "Attacking creatures you control get +3/+0."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem dostają +3/+0."
 
 # ff9def8867dc41c8aa9ce256937490cc
 #: ../../ISD.rst:839
@@ -2660,7 +2664,7 @@ msgstr ""
 #: ../../ISD.rst:843
 msgid ""
 "Destroy target land. Into the Maw of Hell deals 13 damage to target creature."
-msgstr ""
+msgstr "Zniszcz wskazany ląd. Ten czar zadaje wskazanemu stworowi 13 obrażeń."
 
 #: ../../ISD.rst:848
 msgid ""
@@ -2671,7 +2675,7 @@ msgstr ""
 
 #: ../../ISD.rst:847
 msgid "|mana_1|\\ |mana_r|: Kessig Wolf gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../ISD.rst:854
 msgid ""
@@ -2708,6 +2712,8 @@ msgid ""
 "Werewolves you control have menace. (They can't be blocked except by two or "
 "more creatures.)"
 msgstr ""
+"Wilkołaki pod twoim władaniem mają złowrogość. (Nie mogą być blokowane, "
+"chyba że przez co najmniej dwa stwory.)"
 
 # f4fb08a23f794530ac0cac380c4adba5
 #: ../../ISD.rst:861
@@ -2728,7 +2734,7 @@ msgstr ""
 # 83816e2cc19b4d9abae5618fc82737a2
 #: ../../ISD.rst:865
 msgid "Night Revelers has haste as long as an opponent controls a Human."
-msgstr ""
+msgstr "Ten stwór ma pośpiech o ile przeciwnik włada Człowiekiem."
 
 #: ../../ISD.rst:872
 msgid ""
@@ -2740,7 +2746,7 @@ msgstr ""
 # b134db3eda5e4191941f3f0318c4491c
 #: ../../ISD.rst:869
 msgid "Up to two target creatures can't block this turn."
-msgstr ""
+msgstr "Co najwyżej dwa wskazane stwory nie mogą blokować w tej turze."
 
 #: ../../ISD.rst:878
 msgid ""
@@ -2790,6 +2796,8 @@ msgid ""
 "Whenever another creature dies, Rage Thrower deals 2 damage to target player "
 "or planeswalker."
 msgstr ""
+"Ilekroć umrze inny stwór, ten stwór zadaje wskazanemu graczowi lub "
+"wędrowcowi 2 obrażenia."
 
 #: ../../ISD.rst:890
 msgid ""
@@ -2858,7 +2866,7 @@ msgstr ""
 # 49b5345585bb4ddea6926a7db9251d42
 #: ../../ISD.rst:905
 msgid "Rolling Temblor deals 2 damage to each creature without flying."
-msgstr ""
+msgstr "Ten stwór zadaje każdemu stworowi bez latania po 2 obrażenia."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:907
@@ -2881,6 +2889,7 @@ msgstr ""
 msgid ""
 "Scourge of Geier Reach gets +1/+1 for each creature your opponents control."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdego stwora pod władaniem twoich przeciwników."
 
 #: ../../ISD.rst:916
 msgid ""
@@ -2907,7 +2916,7 @@ msgstr ""
 # 006b51373460413c8fba6a477cb4db9e
 #: ../../ISD.rst:919
 msgid "Stromkirk Noble can't be blocked by Humans."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory typu Człowiek."
 
 # 373ff1aa6e3b400ca0011f574f86c4e4
 #: ../../ISD.rst:921
@@ -2915,6 +2924,8 @@ msgid ""
 "Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../ISD.rst:926
 msgid ""
@@ -2963,6 +2974,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap it. It gains "
 "trample and haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
+"tury zyskuje on tratowanie i pośpiech."
 
 #: ../../ISD.rst:938
 msgid ""
@@ -2977,6 +2990,7 @@ msgid ""
 "Vampire creatures you control get +2/+0 and gain first strike until end of "
 "turn."
 msgstr ""
+"Wampiry pod twoim władaniem dostają do końca tury +2/+0 i pierwszy cios."
 
 #: ../../ISD.rst:944
 msgid ""
@@ -3042,6 +3056,8 @@ msgid ""
 "Boneyard Wurm's power and toughness are each equal to the number of creature "
 "cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart stworów w twoim "
+"cmentarzu."
 
 #: ../../ISD.rst:968
 msgid ""
@@ -3093,6 +3109,8 @@ msgid ""
 "Choose a permanent type. Return all cards of the chosen type from your "
 "graveyard to your hand."
 msgstr ""
+"Wybierz typ permanentu. Przywróć wszystkie karty wybranego typu z twojego "
+"cmentarza do twojej ręki."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:979
@@ -3115,6 +3133,8 @@ msgid ""
 "|mana_2|\\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate "
 "this ability only once each turn."
 msgstr ""
+"|mana_2|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Można aktywować "
+"tylko raz na turę."
 
 #: ../../ISD.rst:990
 msgid ""
@@ -3127,7 +3147,7 @@ msgstr ""
 # 9e041aa786a44e51bb0d0119c2e3c4ec
 #: ../../ISD.rst:987
 msgid "|tap|: Daybreak Ranger deals 2 damage to target creature with flying."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu stworowi z lataniem 2 obrażenia."
 
 # 677ccb0e5fd740f9ac226e10c6e1173e
 #: ../../ISD.rst:989
@@ -3152,6 +3172,8 @@ msgid ""
 "|mana_r|, |tap|: Nightfall Predator fights target creature. (Each deals "
 "damage equal to its power to the other.)"
 msgstr ""
+"|mana_r|, |tap|: Ten stwór walczy ze wskazanym stworem. (Każdy zadaje "
+"drugiemu obrażenia równe swojej sile.)"
 
 # 191510b0991c44e2be821bdc3bdc8156
 #: ../../ISD.rst:995
@@ -3174,6 +3196,8 @@ msgid ""
 "|mana_3|\\ |mana_g|: Target creature gets +X/+X until end of turn, where X "
 "is the number of creatures you control."
 msgstr ""
+"|mana_3|\\ |mana_g|: Wskazany stwór dostaje do końca tury +X/+X, gdzie X "
+"jest liczbą stworów pod twoim władaniem."
 
 #: ../../ISD.rst:1004
 msgid ""
@@ -3187,6 +3211,7 @@ msgstr ""
 msgid ""
 "Creatures you control enter the battlefield as a copy of Essence of the Wild."
 msgstr ""
+"Stwory pod twoim władaniem wchodzą na pole bitwy jako kopia tego stwora."
 
 #: ../../ISD.rst:1010
 msgid ""
@@ -3214,13 +3239,15 @@ msgstr ""
 # c3ef30ba358c4a7eab7f112747498021
 #: ../../ISD.rst:1013
 msgid "Werewolf creatures you control get +1/+0 and have trample."
-msgstr ""
+msgstr "Wilkołaki pod twoim władaniem dostają +1/+0 i mają tratowanie."
 
 # 3cb48ca7cf6f46cc8271df772738d49e
 #: ../../ISD.rst:1015
 msgid ""
 "Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control."
 msgstr ""
+"Poświęć ten urok: Zregeneruj wszystkie stwory typu Wilkołak pod twoim "
+"władaniem."
 
 #: ../../ISD.rst:1024
 msgid ""
@@ -3244,10 +3271,12 @@ msgid ""
 "0: Garruk Relentless deals 3 damage to target creature. That creature deals "
 "damage equal to its power to him."
 msgstr ""
+"0: Ten wędrowiec zadaje wskazanemu stworowi 3 obrażenia. Ów stwór zadaje "
+"temu wędrowcowi obrażenia równe swojej sile."
 
 #: ../../ISD.rst:1023
 msgid "0: Create a 2/2 green Wolf creature token."
-msgstr ""
+msgstr "0: Stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../ISD.rst:1032
 msgid ""
@@ -3259,19 +3288,24 @@ msgstr ""
 
 #: ../../ISD.rst:1027
 msgid "+1: Create a 1/1 black Wolf creature token with deathtouch."
-msgstr ""
+msgstr "+1: Stwórz żeton czarnego stwora Wilk 1/1 z dotykiem śmierci."
 
 #: ../../ISD.rst:1029
 msgid ""
 "−1: Sacrifice a creature. If you do, search your library for a creature "
 "card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"–1: Poświęć stwora. Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę "
+"stwora, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ISD.rst:1031
 msgid ""
 "−3: Creatures you control gain trample and get +X/+X until end of turn, "
 "where X is the number of creature cards in your graveyard."
 msgstr ""
+"–3: Stwory pod twoim władaniem zyskują do końca tury tratowanie oraz +X/+X, "
+"gdzie X jest liczbą kart stworów w twoim cmentarzu."
 
 #: ../../ISD.rst:1036
 msgid ""
@@ -3317,7 +3351,7 @@ msgstr ""
 # 0b0a08db310e412394187ba16a053178
 #: ../../ISD.rst:1045
 msgid "You gain 2 life for each creature card in your graveyard."
-msgstr ""
+msgstr "Zyskaj 2 życia za każdą kartę stwora w twoim cmentarzu."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:1047
@@ -3388,6 +3422,10 @@ msgid ""
 "and toughness are each equal to the number of slime counters on Gutter Grime."
 "\""
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, umieść znacznik śluzu "
+"na tym uroku, następnie stwórz żeton zielonego stwora Szlam mający \"Siła i "
+"wytrzymałość tego stwora są obie równe liczbie znaczników śluzu na Gutter "
+"Grime.\""
 
 #: ../../ISD.rst:1068
 msgid ""
@@ -3432,6 +3470,8 @@ msgid ""
 "Whenever Kessig Cagebreakers attacks, create a 2/2 green Wolf creature token "
 "that's tapped and attacking for each creature card in your graveyard."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz tyle przekręconych i atakujących żetonów "
+"zielonego stwora Wilk 2/2, ile masz kart stworów w twoim cmentarzu."
 
 #: ../../ISD.rst:1078
 msgid ""
@@ -3450,7 +3490,7 @@ msgstr ""
 # 67472de06dbf4737b605535be4e5a907
 #: ../../ISD.rst:1085
 msgid "Whenever a creature dies, put a +1/+1 counter on Lumberknot."
-msgstr ""
+msgstr "Ilekroć umrze stwór, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ISD.rst:1090
 msgid ""
@@ -3462,7 +3502,7 @@ msgstr ""
 # 9930dcc691a449a0a06c7447b4215d11
 #: ../../ISD.rst:1089
 msgid "Return two cards at random from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć dwie losowe karty z twojego cmentarza do twojej ręki."
 
 #: ../../ISD.rst:1096
 msgid ""
@@ -3475,7 +3515,7 @@ msgstr ""
 # aba49728e4eb4bbd9ae5c01c8ed5cb9b
 #: ../../ISD.rst:1093
 msgid "Other Human creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory typu Człowiek pod twoim władaniem dostają +1/+1."
 
 # c5c1c27af4ab44088046f18f1dc90c07
 #: ../../ISD.rst:1095
@@ -3498,11 +3538,13 @@ msgstr ""
 #: ../../ISD.rst:1099
 msgid "Each other creature you control that's a Werewolf or a Wolf gets +1/+1."
 msgstr ""
+"Każdy inny stwór typu Wilkołak lub Wilk pod twoim władaniem dostaje +1/+1."
 
 #: ../../ISD.rst:1101
 msgid ""
 "At the beginning of your end step, create a 2/2 green Wolf creature token."
 msgstr ""
+"Na początku twojego kroku końcowego, stwórz żeton zielonego stwora Wilk 2/2."
 
 # bd3512e6ada0419b88ee06757a5f926d
 #: ../../ISD.rst:1103
@@ -3526,6 +3568,8 @@ msgid ""
 "When Moldgraf Monstrosity dies, exile it, then return two creature cards at "
 "random from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór umrze, wygnaj go, następnie przywróć dwie losowe karty "
+"stworów z twojego cmentarza na pole bitwy."
 
 #: ../../ISD.rst:1114
 msgid ""
@@ -3558,6 +3602,8 @@ msgid ""
 "Reveal the top four cards of your library. Put all land cards revealed this "
 "way into your hand and the rest into your graveyard."
 msgstr ""
+"Ujawnij cztery wierzchnie karty twojej biblioteki. Umieść wszystkie karty "
+"lądów ujawnione w ten sposób w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../ISD.rst:1122
 msgid ""
@@ -3667,6 +3713,8 @@ msgid ""
 "Create a 1/2 green Spider creature token with reach for each creature card "
 "in your graveyard."
 msgstr ""
+"Stwórz tyle żetonów zielonego stwora Pająk 1/2 z zasięgiem, ile jest kart "
+"stworów w twoim cmentarzu."
 
 #: ../../ISD.rst:1154
 msgid ""
@@ -3697,6 +3745,8 @@ msgid ""
 "Splinterfright's power and toughness are each equal to the number of "
 "creature cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart stworów w twoim "
+"cmentarzu."
 
 # a8665694776e42958db258befaddbc5f
 #: ../../ISD.rst:1161
@@ -3734,7 +3784,7 @@ msgstr ""
 # 21f128a5cf8d4131947b82a5eebd3ee6
 #: ../../ISD.rst:1173
 msgid "|tap|: Exchange your life total with Tree of Redemption's toughness."
-msgstr ""
+msgstr "|tap|: Zamień liczbę twoich żyć z wytrzymałością tego stwora."
 
 #: ../../ISD.rst:1178
 msgid ""
@@ -3764,7 +3814,7 @@ msgstr ""
 # 47c2b61a671142d7b291c0d3c5db0087
 #: ../../ISD.rst:1181
 msgid "|mana_g|: Regenerate Ulvenwald Primordials."
-msgstr ""
+msgstr "|mana_g|: Zregeneruj tego stwora."
 
 # 5f35ca995c9e4b4ca68cb294bf140201
 #: ../../ISD.rst:1183
@@ -3838,6 +3888,8 @@ msgid ""
 "Enchanted creature gets +X/+X, where X is the number of creature cards in "
 "your graveyard."
 msgstr ""
+"Zauroczony stwór dostaje +X/+X, gdzie X jest liczbą kart stworów w twoim "
+"cmentarzu."
 
 #: ../../ISD.rst:1206
 msgid ""
@@ -3869,6 +3921,8 @@ msgid ""
 "token with flying that's tapped and attacking. Exile that token at end of "
 "combat."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz przekręcony i atakujący żeton białego "
+"stwora Anioł 4/4 z lataniem. Wygnaj ów żeton na końcu potyczki."
 
 #: ../../ISD.rst:1220
 msgid ""
@@ -3883,12 +3937,15 @@ msgid ""
 "Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during "
 "your untap step."
 msgstr ""
+"Ten stwór wchodzi przekręcony na pole bitwy i nie odkręca się w twoim kroku "
+"odkręcania."
 
 # e8f2c579491242d5af5c1a2e955dbd92
 #: ../../ISD.rst:1217
 msgid ""
 "Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it."
 msgstr ""
+"Poświęć innego stwora: Odkręć tego stwora i umieść na nim znacznik +1/+1."
 
 # 5872c587e5b141969636fb4c0151598f
 #: ../../ISD.rst:1219
@@ -3896,6 +3953,8 @@ msgid ""
 "Whenever Grimgrin attacks, destroy target creature defending player "
 "controls, then put a +1/+1 counter on Grimgrin."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zniszcz wskazanego stwora pod władaniem "
+"broniącego się gracza, następnie umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ISD.rst:1228
 msgid ""
@@ -3939,6 +3998,8 @@ msgid ""
 "Equipped creature has \"|tap|, Sacrifice Blazing Torch: Blazing Torch deals "
 "2 damage to any target.\""
 msgstr ""
+"Wyposażony stwór ma \"|tap|, poświęć ten artefakt: Zadaje on wskazanemu "
+"celowi 2 obrażenia.\""
 
 # 22f0276c6e3a4b5f8bf2751376bd3429
 # b9be2840e89b4c34a7870e46504dd4ec
@@ -3966,7 +4027,7 @@ msgstr "Wyposażony stwór dostaje +3/+0."
 # e3702e862d20473490f94d4916ba3dae
 #: ../../ISD.rst:1241
 msgid "As long as equipped creature is a Human, it has lifelink."
-msgstr ""
+msgstr "O ile wyposażony stwór jest Człowiekiem, ma więź życia."
 
 # be7f06aabb4c4efb948c89b053ec4e65
 # aa8fe12dcd0340d4a70f3bdbb616da12
@@ -3987,6 +4048,9 @@ msgid ""
 "their graveyard. If it's a creature card, you create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"|mana_3|, |tap|: Wskazany gracz umieszcza spodnią kartę swojej biblioteki w "
+"swoim cmentarzu. Jeśli to karta stwora, stwórz żeton czarnego stwora Zombi 2/"
+"2."
 
 #: ../../ISD.rst:1254
 msgid ""
@@ -4018,6 +4082,8 @@ msgid ""
 "Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you "
 "win the flip, destroy that creature."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia bojowe, rzuć monetą. Jeśli wygrasz "
+"rzut, zniszcz owego stwora."
 
 #: ../../ISD.rst:1266
 msgid ""
@@ -4034,7 +4100,7 @@ msgstr "Wyposażony stwór dostaje +4/+2."
 # 2dba73f88f374668b934b64040e6a331
 #: ../../ISD.rst:1265
 msgid "Equip—Sacrifice a creature."
-msgstr ""
+msgstr "Wyposaż—Poświęć stwora."
 
 #: ../../ISD.rst:1274
 msgid ""
@@ -4070,6 +4136,8 @@ msgid ""
 "When Geistcatcher's Rig enters the battlefield, you may have it deal 4 "
 "damage to target creature with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że zada wskazanemu "
+"stworowi z lataniem 4 obrażenia."
 
 #: ../../ISD.rst:1282
 msgid ""
@@ -4094,6 +4162,8 @@ msgid ""
 "|mana_2|, |tap|: Target player exiles a card from their graveyard. If it's a "
 "creature card, you gain 2 life."
 msgstr ""
+"|mana_2|, |tap|: Wskazany gracz wygania kartę ze swojego cmentarza. Jeśli to "
+"karta stwora, zyskaj 2 życia."
 
 #: ../../ISD.rst:1292
 msgid ""
@@ -4107,6 +4177,7 @@ msgstr ""
 msgid ""
 "|mana_1|, |tap|, Discard a card: Put a study counter on Grimoire of the Dead."
 msgstr ""
+"|mana_1|, |tap|, odrzuć kartę: Umieść znacznik studium na tym artefakcie."
 
 # 2288d0b806b44f9fa5ff01130751d50e
 #: ../../ISD.rst:1291
@@ -4116,6 +4187,9 @@ msgid ""
 "your control. They're black Zombies in addition to their other colors and "
 "types."
 msgstr ""
+"|tap|, usuń trzy znaczniki studium z tego artefaktu i poświęć go: Umieść "
+"wszystkie karty stworów ze wszystkich cmentarzy na polu bitwy pod twoim "
+"władaniem. Są one czarnymi Zombi oprócz swoich innych kolorów i typów."
 
 #: ../../ISD.rst:1300
 msgid ""
@@ -4130,6 +4204,8 @@ msgid ""
 "If equipped creature would deal combat damage, it deals double that damage "
 "instead."
 msgstr ""
+"Jeśli wyposażony stwór miałby zadać obrażenia, zamiast tego zadaje ich "
+"dwukrotność."
 
 # 90db43e0b36040dea53b9989e89a9f13
 #: ../../ISD.rst:1297
@@ -4137,6 +4213,8 @@ msgid ""
 "If another creature would deal combat damage to equipped creature, it deals "
 "double that damage to equipped creature instead."
 msgstr ""
+"Jeśli inny stwór miałby zadać wyposażonemu stworowi obrażenia bojowe, "
+"zamiast tego zadaje mu ich dwukrotność."
 
 # 2351e4b3d2444e8da940ac2a0d12b63a
 # 65fab56edb84425689c91983dc41d46c
@@ -4156,13 +4234,13 @@ msgstr ""
 # 50ce093b4f7946d9ac3441f525217c6e
 #: ../../ISD.rst:1305
 msgid "Manor Gargoyle has indestructible as long as it has defender."
-msgstr ""
+msgstr "Ten stwór ma niezniszczalność o ile ma obronność."
 
 # 1b6fe536f93a4beeb9c702f0116ba191
 #: ../../ISD.rst:1307
 msgid ""
 "|mana_1|: Until end of turn, Manor Gargoyle loses defender and gains flying."
-msgstr ""
+msgstr "|mana_1|: Do końca tury ten stwór traci obronność i zyskuje latanie."
 
 #: ../../ISD.rst:1314
 msgid ""
@@ -4177,6 +4255,8 @@ msgid ""
 "Equipped creature gets +1/+2 and has hexproof. (It can't be the target of "
 "spells or abilities your opponents control.)"
 msgstr ""
+"Wyposażony stwór dostaje +1/+2 i ma antyklątwę. (Nie może być wskazywany "
+"przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../ISD.rst:1320
 msgid ""
@@ -4188,7 +4268,7 @@ msgstr ""
 # f0be7956bbab40c78a44337fb81087d3
 #: ../../ISD.rst:1319
 msgid "Creatures with flying your opponents control get -1/-0."
-msgstr ""
+msgstr "Stwory mające latanie pod władaniem twoich przeciwników dostają -1/-0."
 
 #: ../../ISD.rst:1326
 msgid ""
@@ -4203,6 +4283,8 @@ msgid ""
 "Equipped creature has first strike and gets +X/+0, where X is the number of "
 "instant and sorcery cards in your graveyard."
 msgstr ""
+"Wyposażony stwór ma pierwszy cios i dostaje +X/+0, gdzie X jest liczbą kart "
+"sztuczek i obrzędów w twoim cmentarzu."
 
 #: ../../ISD.rst:1334
 msgid ""
@@ -4219,7 +4301,7 @@ msgstr "Wyposażony stwór ma pierwszy cios."
 # 01aff6bf80ca46e18d84030582027265
 #: ../../ISD.rst:1331
 msgid "As long as equipped creature is a Human, it gets +1/+1."
-msgstr ""
+msgstr "O ile wyposażony stwór jest Człowiekiem, dostaje +1/+1."
 
 # f02c2cc463e4426f9d950acc27585c24
 #: ../../ISD.rst:1333
@@ -4291,6 +4373,8 @@ msgid ""
 "When Witchbane Orb enters the battlefield, destroy all Curses attached to "
 "you."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, zniszcz wszystkie Klątwy dołączone "
+"do ciebie."
 
 # 42c8dec81b0e4659b65fde230ae0489a
 #: ../../ISD.rst:1357
@@ -4298,6 +4382,8 @@ msgid ""
 "You have hexproof. (You can't be the target of spells or abilities your "
 "opponents control, including Aura spells.)"
 msgstr ""
+"Masz antyklątwę. (Nie możesz być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników, włączając Aury.)"
 
 #: ../../ISD.rst:1366
 msgid ""
@@ -4317,6 +4403,8 @@ msgid ""
 "Whenever equipped creature blocks or becomes blocked by a Vampire, destroy "
 "that creature. It can't be regenerated."
 msgstr ""
+"Ilekroć wyposażony stwór blokuje lub zostaje zablokowany przez Wampira, "
+"zniszcz owego stwora. Nie może być zregenerowany."
 
 #: ../../ISD.rst:1372
 msgid ""
@@ -4355,6 +4443,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_w|, |tap|: Put a +1/+1 counter on each creature "
 "you control."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_w|, |tap|: Umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../ISD.rst:1384
 msgid ""
@@ -4369,6 +4459,9 @@ msgid ""
 "search their library for a basic land card, put it onto the battlefield, "
 "then shuffle their library."
 msgstr ""
+"|tap|, poświęć ten ląd: Zniszcz wskazany ląd. Jego władca może wyszukać w "
+"swojej bibliotece kartę bazowego lądu, umieścić ją na polu bitwy, następnie "
+"tasuje swoją bibliotekę."
 
 #: ../../ISD.rst:1390
 msgid ""
@@ -4423,6 +4516,8 @@ msgid ""
 "|mana_x|\\ |mana_r|\\ |mana_g|, |tap|: Target creature gets +X/+0 and gains "
 "trample until end of turn."
 msgstr ""
+"|mana_x|\\ |mana_r|\\ |mana_g|, |tap|: Wskazany stwór dostaje do końca tury +"
+"X/+0 u tratowanie."
 
 #: ../../ISD.rst:1408
 msgid ""
@@ -4436,6 +4531,8 @@ msgid ""
 "|mana_w|\\ |mana_u|, |tap|, Exile a creature card from your graveyard: "
 "Create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"|mana_w|\\ |mana_u|, |tap|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../ISD.rst:1414
 msgid ""
@@ -4446,7 +4543,7 @@ msgstr ""
 
 #: ../../ISD.rst:1413
 msgid "|mana_1|\\ |mana_u|\\ |mana_b|, |tap|: Target player mills three cards."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|\\ |mana_b|, |tap|: Wskazany gracz mieli trzy karty."
 
 #: ../../ISD.rst:1420
 msgid ""
@@ -4471,6 +4568,8 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to "
 "target player or planeswalker."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_r|, |tap|: Ten ląd zadaje wskazanemu graczowi "
+"lub wędrowcowi 2 obrażenia."
 
 #: ../../ISD.rst:1432
 msgid ""

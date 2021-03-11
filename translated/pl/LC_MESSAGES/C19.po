@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 21:19+0000\n"
+"PO-Revision-Date: 2021-03-11 15:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -2846,7 +2846,7 @@ msgstr ""
 
 #: ../../C19.rst:893
 msgid "Rolling Temblor deals 2 damage to each creature without flying."
-msgstr ""
+msgstr "Ten stwór zadaje każdemu stworowi bez latania po 2 obrażenia."
 
 #: ../../C19.rst:895
 msgid ""
@@ -3949,6 +3949,7 @@ msgstr ""
 msgid ""
 "|mana_1|, |tap|, Discard a card: Put a study counter on Grimoire of the Dead."
 msgstr ""
+"|mana_1|, |tap|, odrzuć kartę: Umieść znacznik studium na tym artefakcie."
 
 #: ../../C19.rst:1259
 msgid ""
@@ -3957,6 +3958,9 @@ msgid ""
 "your control. They're black Zombies in addition to their other colors and "
 "types."
 msgstr ""
+"|tap|, usuń trzy znaczniki studium z tego artefaktu i poświęć go: Umieść "
+"wszystkie karty stworów ze wszystkich cmentarzy na polu bitwy pod twoim "
+"władaniem. Są one czarnymi Zombi oprócz swoich innych kolorów i typów."
 
 #: ../../C19.rst:1266
 msgid ""
