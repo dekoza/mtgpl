@@ -416,6 +416,10 @@ msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Below60"
 msgid "Decks in this format must be at least 60 cards."
 msgstr ""
 
+msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Brawl_Needs60"
+msgid "Brawl decks must contain exactly 60 cards."
+msgstr ""
+
 msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_HasBannedCards"
 msgid "Deck contains banned or suspended cards."
 msgstr ""
@@ -2023,6 +2027,10 @@ msgctxt "MainNav/DeckFormat/Historic"
 msgid "Historic"
 msgstr ""
 
+msgctxt "MainNav/DeckFormat/HistoricAprilFoolLimited"
+msgid "New Historic"
+msgstr ""
+
 msgctxt "MainNav/DeckFormat/HistoricBrawl"
 msgid "Historic Brawl"
 msgstr ""
@@ -2037,6 +2045,14 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricShakeup"
 msgid "Historic Shakeup"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/HistoricShakeup2"
+msgid "Historic Shakeup: Week 2"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/HistoricShakeup3"
+msgid "Historic Shakeup: Week 3"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricSingleton100"
@@ -2129,6 +2145,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/Zendikar"
 msgid "Zendikar Constructed"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/ZNR_3Sets"
+msgid "Festival: 3 Sets"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/ZombieStandard"
