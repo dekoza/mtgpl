@@ -130,40 +130,41 @@ cost_map = {
 
 
 def substr(text: str, use_alt: bool = False) -> str:
-    if use_alt:
-        trans_src = {
-            "ą": "á",
-            "Ą": "Á",
-            "ć": "c",
-            "ę": "é",
-            "Ę": "É",
-            "Ł": "L",
-            "Ń": "Ñ",
-            "ś": "š",
-            "Ś": "Š",
-            "ź": "ž",
-            "Ź": "Ž",
-            "ż": "ž",
-            "Ż": "Ž",
-        }
-    else:
-        trans_src = {
-            "ą": "a",
-            "Ą": "A",
-            "ć": "c",
-            "ę": "e",
-            "Ę": "E",
-            "Ł": "L",
-            "Ń": "N",
-            "ś": "s",
-            "Ś": "S",
-            "ź": "z",
-            "Ź": "Z",
-            "ż": "z",
-            "Ż": "Z",
-        }
+    return text
+    # if use_alt:
+    #     trans_src = {
+    #         "ą": "á",
+    #         "Ą": "Á",
+    #         "ć": "c",
+    #         "ę": "é",
+    #         "Ę": "É",
+    #         "Ł": "L",
+    #         "Ń": "Ñ",
+    #         "ś": "š",
+    #         "Ś": "Š",
+    #         "ź": "ž",
+    #         "Ź": "Ž",
+    #         "ż": "ž",
+    #         "Ż": "Ž",
+    #     }
+    # else:
+    #     trans_src = {
+    #         "ą": "a",
+    #         "Ą": "A",
+    #         "ć": "c",
+    #         "ę": "e",
+    #         "Ę": "E",
+    #         "Ł": "L",
+    #         "Ń": "N",
+    #         "ś": "s",
+    #         "Ś": "S",
+    #         "ź": "z",
+    #         "Ź": "Z",
+    #         "ż": "z",
+    #         "Ż": "Z",
+    #     }
 
-    return text.translate({ord(k): ord(v) for k, v in trans_src.items()})
+    # return text.translate({ord(k): ord(v) for k, v in trans_src.items()})
 
 
 def get_valid_mtga_dl_path() -> pathlib.Path:

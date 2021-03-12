@@ -48,9 +48,7 @@ Jeśli program instalujący spolszczenie z jakiegoś powodu nie działa, zawsze 
    a w miejscu francuskiego – ``Pl + En (DEBUG)``. Pierwsza opcja jest dla normalnych graczy. Teksty, które nie zostały jeszcze przetłumaczone na polski będą się wyświetlać po angielsku
    (za wyjątkiem pierwszych kilku komunikatów tuż po uruchomieniu gry, których z jakichś powodów nie da się przetłumaczyć). Druga opcja jest przeznaczona dla osób chcących pomóc
    przy tłumaczeniu programu. Nieprzetłumaczone teksty są tam zastąpione identyfikatorami pozwalającymi szybko znaleźć dany tekst w plikach językowych.
-9. Tak, nie ma (większości) polskich znaków. Niestety czcionka używana w grze zawiera póki co tylko litery "ł", "ó" oraz "ń". Pozostałe nie są w ogóle wyświetlane.
-   Jeśli możesz, `wesprzyj prośbę dodania pozostałych polskich znaków <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/42713978-please-add-more-diacritics-to-ingame-font>`_.
-   Jak tylko czcionka zostanie uzupełniona, pliki zostaną zaktualizowane.
+9. Tak, polskie znaki wyglądają dziwnie, ale SĄ! Jeszcze niedawno konieczne było wycinanie ogonków, bo inaczej nie byłyby wyświetlane i zamiast "ląd" był "lad" ;)
 10. Miłej zabawy!
 
 Sprawdzaj co jakiś czas stronę z punktu 1 - proces tłumaczenia będzie trwał dopóki wszystko nie zostanie przetłumaczone. Możesz więc spodziewać się
