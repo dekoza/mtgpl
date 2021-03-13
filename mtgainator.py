@@ -20,7 +20,7 @@ SUBSTITUTE_LANG_DEBUG = config("SUBSTITUTE_LANG_DEBUG", default="fr-FR")
 assert "en-US" not in [
     SUBSTITUTE_LANG,
     SUBSTITUTE_LANG_DEBUG,
-], "Proszę nie usuwać oryginalnego tłumaczenia."
+], "Dla własnego spokoju proszę nie usuwać angielskiego."
 
 CURRENT_DIR = pathlib.Path(__file__).absolute().parent
 _main_lang = SUBSTITUTE_LANG.split("-")[0]
@@ -127,44 +127,6 @@ cost_map = {
     "(G/W)": "|mana_gw|",
     "(G/U)": "|mana_gu|",
 }
-
-
-def substr(text: str, use_alt: bool = False) -> str:
-    return text
-    # if use_alt:
-    #     trans_src = {
-    #         "ą": "á",
-    #         "Ą": "Á",
-    #         "ć": "c",
-    #         "ę": "é",
-    #         "Ę": "É",
-    #         "Ł": "L",
-    #         "Ń": "Ñ",
-    #         "ś": "š",
-    #         "Ś": "Š",
-    #         "ź": "ž",
-    #         "Ź": "Ž",
-    #         "ż": "ž",
-    #         "Ż": "Ž",
-    #     }
-    # else:
-    #     trans_src = {
-    #         "ą": "a",
-    #         "Ą": "A",
-    #         "ć": "c",
-    #         "ę": "e",
-    #         "Ę": "E",
-    #         "Ł": "L",
-    #         "Ń": "N",
-    #         "ś": "s",
-    #         "Ś": "S",
-    #         "ź": "z",
-    #         "Ź": "Z",
-    #         "ż": "z",
-    #         "Ż": "Z",
-    #     }
-
-    # return text.translate({ord(k): ord(v) for k, v in trans_src.items()})
 
 
 def get_valid_mtga_dl_path() -> pathlib.Path:
@@ -287,7 +249,7 @@ def get_en_trans(data, loc="en-US"):
             return i["keys"]
 
 
-def translate_data(path: pathlib.Path, use_alt: bool = False):
+def translate_data(path: pathlib.Path):
     podir = CURRENT_DIR / "translated" / "pl" / "LC_MESSAGES"
     orig_path = path / "orig"
 
@@ -314,15 +276,15 @@ def translate_data(path: pathlib.Path, use_alt: bool = False):
             po = polib.pofile(podir / poname)
             data = json.load(source)
 
-            do_the_trans(data, po, lang=SUBSTITUTE_LANG, use_alt=use_alt)
-            do_the_trans(data, po, lang=SUBSTITUTE_LANG_DEBUG, use_alt=use_alt)
+            do_the_trans(data, po, lang=SUBSTITUTE_LANG)
+            do_the_trans(data, po, lang=SUBSTITUTE_LANG_DEBUG)
 
             json.dump(fp=outfile, obj=data, ensure_ascii=False, indent=2)
 
         create_datfile(filepath)
 
 
-def translate_loc(path: pathlib.Path, use_alt: bool = False):
+def translate_loc(path: pathlib.Path):
     popath = CURRENT_DIR / "MTGA" / "trans" / "pl"
     orig_path = path / "orig"
 
@@ -366,19 +328,15 @@ def translate_loc(path: pathlib.Path, use_alt: bool = False):
 
                     elif po_entry:
                         trans_obj = find_loc_trans_obj(trans_list, lang=SUBSTITUTE_LANG)
-                        trans_obj["translation"] = substr(
-                            po_entry.msgstr or po_entry.msgid, use_alt=use_alt
-                        )
+                        trans_obj["translation"] = po_entry.msgstr or po_entry.msgid
 
                         debug_trans_obj = find_loc_trans_obj(
                             trans_list, lang=SUBSTITUTE_LANG_DEBUG
                         )
-                        debug_trans_obj["translation"] = substr(
-                            po_entry.msgstr or key, use_alt=use_alt
-                        )
+                        debug_trans_obj["translation"] = po_entry.msgstr or key
+
                     else:
                         pass
-
 
                 json.dump(fp=outfile, obj=data, ensure_ascii=False, indent=2)
             create_datfile(filepath)
@@ -396,12 +354,10 @@ def extract_pots():
 @app.command(name="t", hidden=True)
 @app.command(name="trans", hidden=True)
 @app.command()
-def translate(
-    alt: bool = typer.Option(False, help="Podmień polskie znaki na inne specjalne. Przynajmniej będą się bardziej wyróżniać ;)")
-):
+def translate():
     path = get_valid_mtga_dl_path()
-    translate_loc(path / "Loc", use_alt=alt)
-    translate_data(path / "Data", use_alt=alt)
+    translate_loc(path / "Loc")
+    translate_data(path / "Data")
     typer.echo("Done!")
 
 
@@ -419,7 +375,9 @@ def build():
 
     date_part = dt.strftime("%Y.%m.%d")
     release = 1
-    while (filename := (dist_path / f"MTGA_Data-{date_part}.{release:02d}.zip")).exists():
+    while (
+        filename := (dist_path / f"MTGA_Data-{date_part}.{release:02d}.zip")
+    ).exists():
         release += 1
 
     add_tag_to_dat_files(path, version=f"{date_part}.{release:02d}")
@@ -448,8 +406,14 @@ def tag_dats_in_path(filelist, path, version):
 def add_tag_to_dat_files(path, version=""):
     loc_path = path / "Loc"
     data_path = path / "Data"
-    loc_files = (i for i in os.listdir(loc_path) if i.startswith("loc_") and i.endswith(".dat"))
-    data_files = (i for i in os.listdir(data_path) if i.startswith("data_loc_") and i.endswith(".dat"))
+    loc_files = (
+        i for i in os.listdir(loc_path) if i.startswith("loc_") and i.endswith(".dat")
+    )
+    data_files = (
+        i
+        for i in os.listdir(data_path)
+        if i.startswith("data_loc_") and i.endswith(".dat")
+    )
     tag_dats_in_path(loc_files, loc_path, version)
     tag_dats_in_path(data_files, data_path, version)
 
@@ -494,7 +458,7 @@ def restore_loyalty(match) -> str:
     return s.replace("–", "-")
 
 
-def do_the_trans(data, pofile, lang="en-US", use_alt: bool = False):
+def do_the_trans(data, pofile, lang="en-US"):
     translation_objs = find_data_trans_obj(data, lang=lang)["keys"]
 
     with typer.progressbar(
@@ -505,7 +469,7 @@ def do_the_trans(data, pofile, lang="en-US", use_alt: bool = False):
             po_entry = pofile.find(obj_id, by="msgctxt")
             if po_entry:
                 text = revert_costs(po_entry.msgstr or po_entry.msgid)
-                obj["text"] = substr(text, use_alt=use_alt)
+                obj["text"] = text
 
 
 if __name__ == "__main__":

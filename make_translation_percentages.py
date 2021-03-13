@@ -25,8 +25,10 @@ with open("percentages.inc", "w") as outfile:
         pofile = polib.pofile(trans_dir / filename)
         percentage = (percent_translated(pofile) // 5 * 5) or 5
         pie = f"pie{percentage:02d}" if percentage < 100 else "done"
-        outfile.write(f"""
+        outfile.write(
+            f"""
 .. |{expansion}_percent| image:: images/{pie}.png        
-""")
+"""
+        )
         if percentage == 100:
             outfile.write("   :alt: Tłumaczenie zakończone\n")
