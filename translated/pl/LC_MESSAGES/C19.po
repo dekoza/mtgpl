@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-11 15:15+0000\n"
+"PO-Revision-Date: 2021-03-13 15:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -78,6 +78,9 @@ msgid ""
 "creature token with \"This creature's power and toughness are each equal to "
 "the number of Sculptures you control.\""
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz żeton bezkolorowego "
+"artefaktowego stwora Rzeźba mający \"Siła i wytrzymałość tego stwora są obie "
+"równe liczbie Rzeźb pod twoim władaniem.\""
 
 #: ../../C19.rst:30
 msgid ""
@@ -99,6 +102,8 @@ msgid ""
 "End the combat phase. (Remove all attackers and blockers from combat. Exile "
 "all spells and abilities from the stack, including this spell.)"
 msgstr ""
+"Zakończ fazę potyczki. (Usuń wszystkich atakujących i blokujących z "
+"potyczki. Wygnaj wszystkie czary i zdolności ze stosu włącznie z tym czarem.)"
 
 #: ../../C19.rst:36
 msgid ""
@@ -113,6 +118,9 @@ msgid ""
 "graveyard to the battlefield. If this spell was cast from a graveyard, you "
 "may copy this spell and may choose a new target for the copy."
 msgstr ""
+"Przywróć wskazaną kartę permanentu o skrócie many 3 lub mniejszym z twojego "
+"cmentarza na pole bitwy, Jeśli ten czas został rzucony z cmentarza, możesz "
+"skopiować ten czar i możesz wskazać nowy cel dla kopii."
 
 #: ../../C19.rst:35
 msgid ""
@@ -134,6 +142,8 @@ msgid ""
 "Whenever you cast a spell, populate. (Create a token that's a copy of a "
 "creature token you control.)"
 msgstr ""
+"Ilekroć rzucisz czar, zaludnij. (Stwórz żeton będący kopią żetony stwora pod "
+"twoim władaniem.)"
 
 #: ../../C19.rst:48
 msgid ""
@@ -151,12 +161,14 @@ msgid ""
 "Whenever you cast a spell from your graveyard, create a 1/1 white Spirit "
 "creature token with flying."
 msgstr ""
+"Ilekroć rzucisz czar z cmentarza, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../C19.rst:47
 msgid ""
 "Sacrifice a Spirit: Thalia's Geistcaller gains indestructible until end of "
 "turn."
-msgstr ""
+msgstr "Poświęć Ducha: Ten stwór zyskuje do końca tury niezniszczalność."
 
 #: ../../C19.rst:54
 msgid ""
@@ -170,6 +182,8 @@ msgid ""
 "When Kadena's Silencer is turned face up, counter all abilities your "
 "opponents control."
 msgstr ""
+"Kiedy ten stwór zostanie odkryty, skontruj wszystkie zdolności pod władaniem "
+"twoich przeciwników."
 
 #: ../../C19.rst:53 ../../C19.rst:581
 msgid ""
@@ -193,6 +207,8 @@ msgid ""
 "Target player returns each commander they control from the battlefield to "
 "the command zone."
 msgstr ""
+"Wskazany gracz przywraca każdego dowódcę pod swoim władaniem z pola bitwy do "
+"strefy dowodzenia."
 
 #: ../../C19.rst:59 ../../C19.rst:597 ../../C19.rst:965 ../../C19.rst:1059
 msgid "Draw a card."
@@ -210,6 +226,8 @@ msgid ""
 "Until your next turn, creatures target player controls have base power and "
 "toughness 1/1."
 msgstr ""
+"Do twojej następnej tury, stwory pod władaniem wskazanego gracza mają bazową "
+"siłę i wytrzymałość 1/1."
 
 #: ../../C19.rst:65
 msgid ""
@@ -239,6 +257,8 @@ msgid ""
 "Exchange control of target noncreature spell and target creature. Then the "
 "spell's controller may choose new targets for it."
 msgstr ""
+"Zamień władanie nad wskazanym niestworowym czarem i wskazanym stworem. "
+"Następnie władca owego czaru może wskazać dla niego nowe cele."
 
 #: ../../C19.rst:80
 msgid ""
@@ -256,10 +276,12 @@ msgid ""
 "Thought Sponge enters the battlefield with a number of +1/+1 counters on it "
 "equal to the greatest number of cards an opponent has drawn this turn."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile najwięcej "
+"kart zostało dobrane przez przeciwnika w tej turze."
 
 #: ../../C19.rst:79
 msgid "When Thought Sponge dies, draw cards equal to its power."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz tyle kart, ile miał siły."
 
 #: ../../C19.rst:84
 msgid ""

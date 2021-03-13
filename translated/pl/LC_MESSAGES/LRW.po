@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-13 15:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -65,6 +65,8 @@ msgid ""
 "When Arbiter of Knollridge enters the battlefield, each player's life total "
 "becomes the highest life total among all players."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, liczba żyć każdego gracza otrzymuje "
+"wartość największej liczby żyć pośród wszystkich graczy."
 
 #: ../../LRW.rst:32
 msgid ""
@@ -155,6 +157,8 @@ msgid ""
 "|tap|: Brigid, Hero of Kinsbaile deals 2 damage to each attacking or "
 "blocking creature target player controls."
 msgstr ""
+"|tap|: Ten stwór zadaje każdemu atakującemu lub blokującemu stworowi pod "
+"władaniem wskazanego gracza po 2 obrażenia."
 
 #: ../../LRW.rst:56
 msgid ""
@@ -187,6 +191,8 @@ msgid ""
 "Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other "
 "attacking Kithkin."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1 za każdego innego "
+"atakującego Krewniołka."
 
 #: ../../LRW.rst:68
 msgid ""
@@ -222,12 +228,16 @@ msgid ""
 "When Cloudgoat Ranger enters the battlefield, create three 1/1 white Kithkin "
 "Soldier creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony białego stwora "
+"Krewniołek Piechur 1/1."
 
 #: ../../LRW.rst:73
 msgid ""
 "Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and "
 "gains flying until end of turn."
 msgstr ""
+"Przekręć trzech odkręconych Krewniołków pod twoim władaniem: Ten stwór "
+"dostaje do końca tury +2/+0 i latanie."
 
 #: ../../LRW.rst:80
 msgid ""
@@ -262,12 +272,16 @@ msgid ""
 "When Dawnfluke enters the battlefield, prevent the next 3 damage that would "
 "be dealt to any target this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zażegnaj najbliższe 3 obrażenia, "
+"jakie mogłyby zostać zadane w tej turze wskazanemu celowi."
 
 #: ../../LRW.rst:87 ../../LRW.rst:275
 msgid ""
 "Evoke |mana_w| (You may cast this spell for its evoke cost. If you do, it's "
 "sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_w| (Możesz rzucić ten czar za jego koszt przyzwania. Jeśli "
+"tak zrobisz, zostaje on poświęcony po wejściu na pole bitwy.)"
 
 #: ../../LRW.rst:92
 msgid ""
@@ -953,13 +967,9 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:333
-#, fuzzy
-#| msgid ""
-#| "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgid "Tap an untapped Merfolk you control: Target player mills a card."
 msgstr ""
-"|tap|, przekręć odkręconego stwora pod twoim władaniem: Weź jedną manę "
-"dowolnego koloru."
+"Przekręć odkręconego Wodnika pod twoim włądaniem: Wskazany gracz mieli kartę."
 
 #: ../../LRW.rst:340
 msgid ""
