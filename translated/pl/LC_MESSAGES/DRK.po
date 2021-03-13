@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:52+0000\n"
+"PO-Revision-Date: 2021-03-13 21:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/drk/pl/>\n"
 "Language: pl\n"
@@ -42,6 +42,9 @@ msgid ""
 "2 plus the number of Swamps your opponents control. As long as it's not your "
 "turn, Angry Mob's power and toughness are each 2."
 msgstr ""
+"O ile jest twoja tura, siła i wytrzymałość tego stwora są obie równe 2 plus "
+"liczba Bagien pod władaniem twoich przeciwników. O ile nie jest twoja tura, "
+"siła i wytrzymałość tego stwora są obie równe 2."
 
 #: ../../DRK.rst:16
 msgid ""
@@ -70,6 +73,7 @@ msgstr "Zaurocz stwora"
 #: ../../DRK.rst:21
 msgid "Enchanted creature can't attack unless its controller pays |mana_3|."
 msgstr ""
+"Zauroczony stwór nie może atakować, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../DRK.rst:26
 msgid ""
@@ -91,7 +95,7 @@ msgstr ""
 
 #: ../../DRK.rst:29
 msgid "Exile two target artifacts."
-msgstr ""
+msgstr "Wygnaj dwa wskazane artefakty."
 
 #: ../../DRK.rst:34
 msgid ""

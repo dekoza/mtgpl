@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 20:19+0000\n"
+"PO-Revision-Date: 2021-03-13 21:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: ../../ICE.rst:45
 msgid "You gain 1 life."
-msgstr ""
+msgstr "Zyskaj 1 życie."
 
 #: ../../ICE.rst:47 ../../ICE.rst:149 ../../ICE.rst:181 ../../ICE.rst:237
 #: ../../ICE.rst:353 ../../ICE.rst:371 ../../ICE.rst:391 ../../ICE.rst:459
@@ -144,7 +144,7 @@ msgstr ""
 #: ../../ICE.rst:825 ../../ICE.rst:933 ../../ICE.rst:1033 ../../ICE.rst:1169
 #: ../../ICE.rst:1295 ../../ICE.rst:1457
 msgid "Draw a card at the beginning of the next turn's upkeep."
-msgstr ""
+msgstr "Dobierz kartę na początku kroku utrzymania najbliższej tury."
 
 #: ../../ICE.rst:52
 msgid ""
@@ -155,7 +155,7 @@ msgstr ""
 
 #: ../../ICE.rst:51
 msgid "|mana_0|: Return Blinking Spirit to its owner's hand."
-msgstr ""
+msgstr "|mana_0|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../ICE.rst:60
 msgid ""
@@ -208,17 +208,19 @@ msgstr ""
 
 #: ../../ICE.rst:71 ../../ICE.rst:489 ../../ICE.rst:1261 ../../ICE.rst:1345
 msgid "Enchant land you control"
-msgstr ""
+msgstr "Zaurocz ląd pod twoim władaniem"
 
 #: ../../ICE.rst:73
 msgid ""
 "Enchanted land has \"|mana_w|\\ |mana_w|, |tap|: Create a 0/1 white Caribou "
 "creature token.\""
 msgstr ""
+"Zauroczony ląd ma \"|mana_w|\\ |mana_w|, |tap|: Stwórz żeton białego stwora "
+"Karibu 0/1.\""
 
 #: ../../ICE.rst:75
 msgid "Sacrifice a Caribou token: You gain 1 life."
-msgstr ""
+msgstr "Poświęć żeton Karibu: Zyskaj 1 życie."
 
 #: ../../ICE.rst:80
 msgid ""
@@ -538,6 +540,8 @@ msgstr ""
 #: ../../ICE.rst:179
 msgid "Prevent the next 1 damage that would be dealt to any target this turn."
 msgstr ""
+"Zażegnaj najbliższe 1 obrażenie, jakie miałoby zostać zadane w tej turze "
+"wskazanemu celowi."
 
 #: ../../ICE.rst:186
 msgid ""
@@ -1629,7 +1633,7 @@ msgstr ""
 
 #: ../../ICE.rst:607 ../../ICE.rst:1165
 msgid "Cast this spell only during combat before blockers are declared."
-msgstr ""
+msgstr "Rzuć ten czar tylko podczas potyczki po deklaracji blokujących."
 
 #: ../../ICE.rst:609
 msgid "X can't be greater than the number of snow lands you control."

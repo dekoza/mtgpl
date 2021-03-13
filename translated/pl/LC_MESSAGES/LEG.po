@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-13 21:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leg/pl/>\n"
 "Language: pl\n"
@@ -37,6 +37,8 @@ msgid ""
 "Except for creatures named Akron Legionnaire and artifact creatures, "
 "creatures you control can't attack."
 msgstr ""
+"Za wyjątkiem stworów o nazwie Akron Legionnaire oraz artefaktowych, stwory "
+"pod twoim władaniem nie mogą atakować."
 
 #: ../../LEG.rst:18
 msgid ""
@@ -124,6 +126,8 @@ msgid ""
 "|tap|: D'Avenant Archer deals 1 damage to target attacking or blocking "
 "creature."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu atakującemu lub blokującemu stworowi 1 "
+"obrażenie."
 
 #: ../../LEG.rst:48
 msgid ""
@@ -160,7 +164,7 @@ msgstr ""
 #: ../../LEG.rst:51
 msgid ""
 "Destroy target artifact. You gain life equal to its converted mana cost."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt. Zyskaj tyle żyć, ile wynosi jego skrót many."
 
 #: ../../LEG.rst:58
 msgid ""
@@ -2003,7 +2007,7 @@ msgstr ""
 
 #: ../../LEG.rst:697
 msgid "Cast this spell only during combat before blockers are declared."
-msgstr ""
+msgstr "Rzuć ten czar tylko podczas potyczki po deklaracji blokujących."
 
 #: ../../LEG.rst:699
 msgid ""
