@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-import itertools
-
 import typer
 from decouple import config
 import pathlib
