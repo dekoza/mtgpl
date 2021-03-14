@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-11 15:15+0000\n"
+"PO-Revision-Date: 2021-03-14 13:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -368,13 +368,15 @@ msgstr ""
 
 #: ../../C14.rst:117
 msgid "When Well of Ideas enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../C14.rst:119
 msgid ""
 "At the beginning of each other player's draw step, that player draws an "
 "additional card."
 msgstr ""
+"Na początku kroku dobierania każdego innego gracza, ów gracz dobiera "
+"dodatkową kartę."
 
 #: ../../C14.rst:121
 msgid "At the beginning of your draw step, draw two additional cards."
@@ -2161,6 +2163,8 @@ msgid ""
 "Draw cards equal to the highest converted mana cost among permanents you "
 "control."
 msgstr ""
+"Dobierz tyle kart, ile wynosi największy skrót many spośród permanentów pod "
+"twoim władaniem."
 
 #: ../../C14.rst:718
 msgid ""
@@ -3121,6 +3125,8 @@ msgid ""
 "When Tuktuk the Explorer dies, create Tuktuk the Returned, a legendary 5/5 "
 "colorless Goblin Golem artifact creature token."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz legendarny żeton bezkolorowego artefaktowego "
+"stwora Goblin Golem 5/5 o nazwie Tuktuk Powrócony."
 
 #: ../../C14.rst:1044
 msgid ""
@@ -3329,7 +3335,7 @@ msgstr ""
 
 #: ../../C14.rst:1113
 msgid "As an additional cost to cast this spell, sacrifice a land."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../C14.rst:1115
 msgid ""
@@ -3617,6 +3623,9 @@ msgid ""
 "noncreature permanents. For each permanent put into a graveyard this way, "
 "its controller creates a 3/3 green Elephant creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
+"wskazane nie-stworowe peranenty. Za każdy permanent umieszczony w cmentarzu "
+"w ten sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../C14.rst:1214
 msgid ""

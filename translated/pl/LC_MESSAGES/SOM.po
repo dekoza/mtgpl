@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-11 18:33+0000\n"
+"PO-Revision-Date: 2021-03-14 13:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -500,7 +500,7 @@ msgstr ""
 
 #: ../../SOM.rst:175
 msgid "Counter target artifact spell."
-msgstr ""
+msgstr "Skontruj wskazany czar artefaktu."
 
 #: ../../SOM.rst:177 ../../SOM.rst:231 ../../SOM.rst:257 ../../SOM.rst:353
 #: ../../SOM.rst:641 ../../SOM.rst:653
@@ -582,6 +582,8 @@ msgid ""
 "Whenever you cast an artifact spell, you may draw a card. If you do, discard "
 "a card."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz dobrać kartę. Jeśli tak zrobisz, "
+"odrzuć kartę."
 
 #: ../../SOM.rst:210
 msgid ""
@@ -1056,6 +1058,8 @@ msgid ""
 "Whenever you cast an artifact spell, you may have target creature get +2/+0 "
 "and gain deathtouch until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz sprawić, że wskazany stwór dostanie "
+"do końca tury +2/+0 i dotyk śmierci."
 
 #: ../../SOM.rst:386
 msgid ""
@@ -1117,11 +1121,11 @@ msgstr ""
 
 #: ../../SOM.rst:407
 msgid "|mana_b|: Skithiryx, the Blight Dragon gains haste until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór zyskuje do końca tury pośpiech."
 
 #: ../../SOM.rst:409
 msgid "|mana_b|\\ |mana_b|: Regenerate Skithiryx."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|: Zregeneruj tego stwora."
 
 #: ../../SOM.rst:414
 msgid ""
@@ -1277,13 +1281,15 @@ msgstr ""
 
 #: ../../SOM.rst:459
 msgid "Galvanic Blast deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../SOM.rst:461
 msgid ""
 "Metalcraft — Galvanic Blast deals 4 damage instead if you control three or "
 "more artifacts."
 msgstr ""
+"Metalurgia — Ten czar zamiast tego zadaje 4 obrażenia jeśli władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../SOM.rst:468
 msgid ""
@@ -1298,7 +1304,7 @@ msgstr "Tratowanie"
 
 #: ../../SOM.rst:467
 msgid "Goblin Gaveleer gets +2/+0 for each Equipment attached to it."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+0 za każde Wyposażenie dołączone do niego."
 
 #: ../../SOM.rst:474
 msgid ""
@@ -1725,6 +1731,10 @@ msgid ""
 "of them. Each of those lands is an 8/8 green Elemental creature for as long "
 "as it has an awakening counter on it. They're still lands."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz wskazać dowolną "
+"liczbą kart lądów pod twoim władaniem i umieścić na każdym z nich znacznik "
+"przebudzenia. Każdy z owych lądów jest stworem Żywiołak 8/8 o ile ma "
+"znacznik przebudzenia. Nadal są lądami."
 
 #: ../../SOM.rst:622
 msgid ""

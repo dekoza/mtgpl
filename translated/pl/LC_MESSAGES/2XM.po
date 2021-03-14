@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-13 21:54+0000\n"
+"PO-Revision-Date: 2021-03-14 13:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -833,6 +833,8 @@ msgid ""
 "When Deepglow Skate enters the battlefield, double the number of each kind "
 "of counter on any number of target permanents."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, podwój liczbę znaczników każdego "
+"rodzaju na dowolnej liczbie wskazanych permanentów."
 
 #: ../../2XM.rst:264
 msgid ""
@@ -1092,6 +1094,9 @@ msgid ""
 "artifact or creature on the battlefield, except it's an artifact in addition "
 "to its other types."
 msgstr ""
+"Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia dowolnego "
+"artefaktu lub stwora na polu bitwy, ale jest artefaktem oprócz swoich innych "
+"typów."
 
 #: ../../2XM.rst:344
 msgid ""
@@ -1139,6 +1144,8 @@ msgid ""
 "Search your library for an artifact card with converted mana cost X or less "
 "and put it onto the battlefield. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub mniejszy i "
+"umieść go na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:358
 msgid ""
@@ -1152,6 +1159,8 @@ msgid ""
 "Whenever you cast an artifact spell, you may draw a card. If you do, discard "
 "a card."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz dobrać kartę. Jeśli tak zrobisz, "
+"odrzuć kartę."
 
 #: ../../2XM.rst:362
 msgid ""
@@ -1165,6 +1174,8 @@ msgid ""
 "Draw cards equal to the highest converted mana cost among permanents you "
 "control."
 msgstr ""
+"Dobierz tyle kart, ile wynosi największy skrót many spośród permanentów pod "
+"twoim władaniem."
 
 #: ../../2XM.rst:368
 msgid ""
@@ -1221,11 +1232,11 @@ msgstr ""
 
 #: ../../2XM.rst:381
 msgid "Counter target artifact spell."
-msgstr ""
+msgstr "Skontruj wskazany czar artefaktu."
 
 #: ../../2XM.rst:383
 msgid "Return target artifact to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany artefakt do ręki właściciela."
 
 #: ../../2XM.rst:388
 msgid ""
@@ -1250,7 +1261,7 @@ msgstr ""
 
 #: ../../2XM.rst:391
 msgid "If you would draw a card, draw two cards instead."
-msgstr ""
+msgstr "Jeśli miałbyś dobrać kartę, zamiast tego dobierz dwie karty."
 
 #: ../../2XM.rst:396
 msgid ""
@@ -1265,6 +1276,9 @@ msgid ""
 "an artifact card with converted mana cost 6 or greater, reveal it, put it "
 "into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"karę o skrócie many 3 lub większym, ujawnij ją, umieść ją w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:400
 msgid ""
@@ -1278,6 +1292,8 @@ msgid ""
 "At the beginning of your upkeep, you may put a charge counter on target "
 "artifact."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz umieścić znacznik ładunku na "
+"wskazanym artefakcie."
 
 #: ../../2XM.rst:408
 msgid ""
@@ -1288,13 +1304,15 @@ msgstr ""
 
 #: ../../2XM.rst:403
 msgid "When Well of Ideas enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../2XM.rst:405
 msgid ""
 "At the beginning of each other player's draw step, that player draws an "
 "additional card."
 msgstr ""
+"Na początku kroku dobierania każdego innego gracza, ów gracz dobiera "
+"dodatkową kartę."
 
 #: ../../2XM.rst:407
 msgid "At the beginning of your draw step, draw two additional cards."
@@ -1554,6 +1572,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy target "
 "nonblack creature."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|, poświęć ten artefakt: Zniszcz wskazanego "
+"nieczarnego stwora."
 
 #: ../../2XM.rst:488
 msgid ""
@@ -1698,6 +1718,10 @@ msgid ""
 "way. (Auras and Equipment phase out with it. While permanents are phased "
 "out, they're treated as though they don't exist.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wskazany stwór wycofuje się dopóki ten "
+"urok jest na polu bitwy. Przekręć owego stwora podczas wycofywania w ten "
+"sposób. (Aury i Ekwipunek wyofuje się razem z nim. Wycofane permanenty "
+"traktuję się tak, jakby nie istniały.)"
 
 #: ../../2XM.rst:526
 msgid ""
@@ -1726,6 +1750,8 @@ msgid ""
 "Whenever you cast an artifact spell, you may have target creature get +2/+0 "
 "and gain deathtouch until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz sprawić, że wskazany stwór dostanie "
+"do końca tury +2/+0 i dotyk śmierci."
 
 #: ../../2XM.rst:536
 msgid ""
@@ -1755,13 +1781,15 @@ msgstr ""
 #: ../../2XM.rst:539
 msgid ""
 "You may sacrifice three artifacts rather than pay this spell's mana cost."
-msgstr ""
+msgstr "Możesz poświęcić trzy artefakty zamiast płacić koszt many tego czaru."
 
 #: ../../2XM.rst:541
 msgid ""
 "Exile three artifact cards from your graveyard: Return Salvage Titan from "
 "your graveyard to your hand."
 msgstr ""
+"Wygnaj trzy karty artefaktów z twojego cmentarza: Przywróć tę kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../2XM.rst:550
 msgid ""
@@ -1821,11 +1849,11 @@ msgstr ""
 
 #: ../../2XM.rst:561
 msgid "|mana_b|: Skithiryx, the Blight Dragon gains haste until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór zyskuje do końca tury pośpiech."
 
 #: ../../2XM.rst:563
 msgid "|mana_b|\\ |mana_b|: Regenerate Skithiryx."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|: Zregeneruj tego stwora."
 
 #: ../../2XM.rst:568
 msgid ""
@@ -1920,6 +1948,8 @@ msgid ""
 "At the beginning of each end step, each opponent loses life equal to the "
 "life they lost this turn. (Damage causes loss of life.)"
 msgstr ""
+"Na początku każdego kroku końcowego każdy przeciwnik traci tyle żyć, ile "
+"stracił żyć w tej turze. (Obrażenia powodują utratę żyć.)"
 
 #: ../../2XM.rst:602
 msgid ""
@@ -1945,7 +1975,7 @@ msgstr ""
 
 #: ../../2XM.rst:605
 msgid "Target attacking creature gets +X/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany atakujący stwór dostaje do końca tury +X/+0."
 
 #: ../../2XM.rst:607
 msgid "Draw a card at the beginning of the next turn's upkeep."
@@ -2057,6 +2087,9 @@ msgid ""
 "If you discard a creature card this way, Cragganwick Cremator deals damage "
 "equal to that card's power to target player or planeswalker."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć losową kartę. Jeśli odrzucisz "
+"w ten sposób kartę stwora, niniejszy stwór zadaje wskazanemu graczowi lub "
+"wędrowcowi obrażenia równe sile owej karty."
 
 #: ../../2XM.rst:646
 msgid ""
@@ -2070,6 +2103,8 @@ msgid ""
 "Destroy target artifact. If that artifact had counters on it, put that many "
 "+1/+1 counters or charge counters on an artifact you control."
 msgstr ""
+"Zniszcz wskazany artefakt. Jeśli ów artefakt miał znaczniki, umieść tyle "
+"samo znaczników +1/+1 lub ładunku na artefakcie pod twoim władaniem."
 
 #: ../../2XM.rst:652
 msgid ""
@@ -2095,13 +2130,15 @@ msgstr ""
 
 #: ../../2XM.rst:655
 msgid "Galvanic Blast deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../2XM.rst:657
 msgid ""
 "Metalcraft — Galvanic Blast deals 4 damage instead if you control three or "
 "more artifacts."
 msgstr ""
+"Metalurgia — Ten czar zamiast tego zadaje 4 obrażenia jeśli władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../2XM.rst:664
 msgid ""
@@ -2112,7 +2149,7 @@ msgstr ""
 
 #: ../../2XM.rst:663
 msgid "Goblin Gaveleer gets +2/+0 for each Equipment attached to it."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+0 za każde Wyposażenie dołączone do niego."
 
 #: ../../2XM.rst:670
 msgid ""
@@ -2146,12 +2183,18 @@ msgid ""
 "library for an Equipment card and put it onto the battlefield. If you do, "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę Wyposażenia i umieścić ją na polu bitwy. Jeśli tak zrobisz, przetasuj "
+"twoją bibliotekę."
 
 #: ../../2XM.rst:675
 msgid ""
 "Whenever Godo attacks for the first time each turn, untap it and all Samurai "
 "you control. After this phase, there is an additional combat phase."
 msgstr ""
+"Ilekroć ten stwór zaatakuje po raz pierwszy w danej turze, odkręć go i "
+"wszystkich Samurajów pod twoim władaniem. Po tej fazie jest dodatkowa faza "
+"potyczki."
 
 #: ../../2XM.rst:680
 msgid ""
@@ -2180,6 +2223,8 @@ msgid ""
 "Create a token that's a copy of target creature, except it has haste and "
 "\"At the beginning of the end step, exile this permanent.\""
 msgstr ""
+"Stwórz żeton będący kopią wskazanego stwora, ale ma pośpiech oraz \"Na "
+"początku kroku końcowego, wygnaj ten permanent.\""
 
 #: ../../2XM.rst:688
 msgid ""
@@ -2194,6 +2239,9 @@ msgid ""
 "creature card with power 2 or less, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"stwora o sile 2 lub mniejszej, ujawnij ją, umieść w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:692
 msgid ""
@@ -2207,6 +2255,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Remove a +1/+1 counter or a charge counter from a "
 "permanent you control: Ion Storm deals 2 damage to any target."
 msgstr ""
+"|mana_1|\\ |mana_r|, usuń znacznik +1/+1 lub znacznik ładunku z permanentu "
+"pod twoim władaniem: Ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../2XM.rst:696
 msgid ""
@@ -2236,6 +2286,9 @@ msgid ""
 "artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you "
 "choose among any number of targets."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić artefakt. Jeśli tak "
+"zrobisz, ten stwór zadaje 4 obrażenia rozdzielone dowolnie pomiędzy "
+"jakiekolwiek wskazane cele."
 
 #: ../../2XM.rst:706
 msgid ""
@@ -2267,6 +2320,8 @@ msgid ""
 "colorless| equal to the number of creatures you control that share a "
 "creature type with it."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy, możesz wziąć tyle |colorless|, iloma "
+"stworami mającymi wspólny typ stwora władasz."
 
 #: ../../2XM.rst:714
 msgid ""
@@ -2315,7 +2370,7 @@ msgstr ""
 
 #: ../../2XM.rst:723
 msgid "Creatures you control have double strike."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają podwójny cios."
 
 #: ../../2XM.rst:730
 msgid ""
@@ -2357,6 +2412,8 @@ msgid ""
 "Rolling Earthquake deals X damage to each creature without horsemanship and "
 "each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez jazdy konnej i każdemu graczowi po X "
+"obrażeń."
 
 #: ../../2XM.rst:742
 msgid ""
@@ -2469,6 +2526,8 @@ msgid ""
 "When Tuktuk the Explorer dies, create Tuktuk the Returned, a legendary 5/5 "
 "colorless Goblin Golem artifact creature token."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz legendarny żeton bezkolorowego artefaktowego "
+"stwora Goblin Golem 5/5 o nazwie Tuktuk Powrócony."
 
 #: ../../2XM.rst:780
 msgid ""
@@ -2549,6 +2608,8 @@ msgid ""
 "At the beginning of your upkeep, you may create a 0/1 colorless Eldrazi "
 "Spawn creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz stworzyć żeton bezkolorowego "
+"stwora Pomiot Eldrazi 0/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../2XM.rst:798
 msgid ""
@@ -2576,6 +2637,9 @@ msgid ""
 "creatures. This creature enters the battlefield with that many +1/+1 "
 "counters on it.)"
 msgstr ""
+"Pożarcie 1 (Umieszczając tego stwora na polu bitwy możesz poświęcić dowolną "
+"liczbę stworów. Ten stwór wchodzi na pole bitwy mając tyle samo znaczników +"
+"1/+1.)"
 
 #: ../../2XM.rst:803
 msgid ""
@@ -2583,6 +2647,8 @@ msgid ""
 "+1/+1 counters on it, where X is the number of +1/+1 counters on Bloodspore "
 "Thrinax."
 msgstr ""
+"Każdy inny stwór pod twoim władaniem wchodzi na pole bitwy mając dodatkowych "
+"X znaczników +1/+1, gdzie X jest liczbą znaczników +1/+1 na tym stworze."
 
 #: ../../2XM.rst:810
 msgid ""
@@ -2616,13 +2682,15 @@ msgstr ""
 
 #: ../../2XM.rst:813
 msgid "Create a 1/1 green Squirrel creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Wiewiór 1/1."
 
 #: ../../2XM.rst:815
 msgid ""
 "Flashback |mana_1|\\ |mana_g| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_1|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../2XM.rst:822
 msgid ""
@@ -2688,13 +2756,15 @@ msgstr ""
 
 #: ../../2XM.rst:833
 msgid "As an additional cost to cast this spell, sacrifice a land."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../2XM.rst:835
 msgid ""
 "Search your library for a land card, put that card onto the battlefield, "
 "then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę lądu, umieść ją na polu bitwy, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:844
 msgid ""
@@ -2743,6 +2813,8 @@ msgid ""
 "If an effect would put one or more counters on a permanent you control, it "
 "puts twice that many of those counters on that permanent instead."
 msgstr ""
+"Jeśli jakiś efekt miałby umieścić co najmniej jeden znacznik na permanencie "
+"pod twoim władaniem, zamiast tego umieszcza tam dwukrotność owych znaczników."
 
 #: ../../2XM.rst:862
 msgid ""
@@ -2818,7 +2890,7 @@ msgstr ""
 
 #: ../../2XM.rst:877
 msgid "Create X X/X green Ooze creature tokens."
-msgstr ""
+msgstr "Stwórz X żetonów zielonego stwora Szlam X/X."
 
 #: ../../2XM.rst:882
 msgid ""
@@ -2832,6 +2904,8 @@ msgid ""
 "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, "
 "then discard three cards."
 msgstr ""
+"Poświęć stwora: Dobierz tyle kart, ile siły miał poświęcony stwór, następnie "
+"odrzuć trzy karty."
 
 #: ../../2XM.rst:886
 msgid ""
@@ -2880,6 +2954,8 @@ msgid ""
 "Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorwego stwora "
+"Pomiot Eldrazi 0/1 mającego \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../2XM.rst:902
 msgid ""
@@ -2895,6 +2971,10 @@ msgid ""
 "of them. Each of those lands is an 8/8 green Elemental creature for as long "
 "as it has an awakening counter on it. They're still lands."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz wskazać dowolną "
+"liczbą kart lądów pod twoim władaniem i umieścić na każdym z nich znacznik "
+"przebudzenia. Każdy z owych lądów jest stworem Żywiołak 8/8 o ile ma "
+"znacznik przebudzenia. Nadal są lądami."
 
 #: ../../2XM.rst:906
 msgid ""
@@ -2908,6 +2988,8 @@ msgid ""
 "If you tap a permanent for mana, it produces twice as much of that mana "
 "instead."
 msgstr ""
+"Jeśli przekręcisz permanent biorąc manę, zamiast tego produkuje on "
+"dwukrotność owej many."
 
 #: ../../2XM.rst:910
 msgid ""
@@ -2988,6 +3070,8 @@ msgid ""
 "When Skullmulcher enters the battlefield, draw a card for each creature it "
 "devoured."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę za każdego stwora, "
+"którego pożarł."
 
 #: ../../2XM.rst:938
 msgid ""
@@ -3021,6 +3105,9 @@ msgid ""
 "noncreature permanents. For each permanent put into a graveyard this way, "
 "its controller creates a 3/3 green Elephant creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
+"wskazane nie-stworowe peranenty. Za każdy permanent umieszczony w cmentarzu "
+"w ten sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../2XM.rst:948
 msgid ""
@@ -3077,6 +3164,8 @@ msgid ""
 "Whenever you cast a spell, if it's the second creature spell you cast this "
 "turn, you may return Vengevine from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć rzucisz czar, jeśli jest to drugi czar stwora rzucony przez ciebie w "
+"tej turze, możesz przywrócić tę kartę z twojego cmentarza na pole bitwy."
 
 #: ../../2XM.rst:964
 msgid ""
@@ -3091,6 +3180,9 @@ msgid ""
 "two basic land cards and put them onto the battlefield. Then each player who "
 "searched their library this way shuffles it."
 msgstr ""
+"Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece co "
+"najwyżej dwie karty bazowych lądów i umieścić je na polu bitwy. Następnie "
+"każdy gracz, który przeszukał swoją bibliotekę, tasuje ją."
 
 #: ../../2XM.rst:970
 msgid ""
@@ -3139,17 +3231,20 @@ msgid ""
 "Arixmethes, Slumbering Isle enters the battlefield tapped with five slumber "
 "counters on it."
 msgstr ""
+"Ten permanent wchodzi przekręcony na pole bitwy z pięcioma znacznikami "
+"drzemki."
 
 #: ../../2XM.rst:979
 msgid ""
 "As long as Arixmethes has a slumber counter on it, it's a land. (It's not a "
 "creature.)"
 msgstr ""
+"O ile ten permanent ma znacznik drzemki, jest lądem. (Nie jest stworem.)"
 
 #: ../../2XM.rst:981
 msgid ""
 "Whenever you cast a spell, you may remove a slumber counter from Arixmethes."
-msgstr ""
+msgstr "Ilekroć rzucisz czar, możesz usunąć znacznik drzemki z tego permanentu."
 
 #: ../../2XM.rst:983
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
@@ -3164,7 +3259,7 @@ msgstr ""
 
 #: ../../2XM.rst:987
 msgid "Flying, vigilance, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, czujność, dotyk śmierci, więź życia"
 
 #: ../../2XM.rst:989
 msgid ""
@@ -3172,6 +3267,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
+"Na początku twojego kroku końcowego, rozpleń. (Wybierz dowolną liczbę "
+"permanentów i/lub graczy, następnie daj każdemu kolejny znacznik każdego "
+"posiadanego przezeń rodzaju.)"
 
 #: ../../2XM.rst:996
 msgid ""

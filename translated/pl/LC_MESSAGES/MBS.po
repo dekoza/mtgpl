@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-13 21:54+0000\n"
+"PO-Revision-Date: 2021-03-14 13:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -467,11 +467,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../MBS.rst:167
 msgid "Counter target artifact spell."
-msgstr ""
+msgstr "Skontruj wskazany czar artefaktu."
 
 #: ../../MBS.rst:169
 msgid "Return target artifact to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany artefakt do ręki właściciela."
 
 #: ../../MBS.rst:174
 msgid ""
@@ -486,6 +486,9 @@ msgid ""
 "an artifact card with converted mana cost 6 or greater, reveal it, put it "
 "into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"karę o skrócie many 3 lub większym, ujawnij ją, umieść ją w twojej ręce, "
+"następnie przetasuj twoją bibliotekę."
 
 #: ../../MBS.rst:178
 msgid ""
@@ -523,6 +526,8 @@ msgid ""
 "At the beginning of your upkeep, you may put a charge counter on target "
 "artifact."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz umieścić znacznik ładunku na "
+"wskazanym artefakcie."
 
 #: ../../MBS.rst:192
 msgid ""
@@ -935,6 +940,9 @@ msgid ""
 "artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you "
 "choose among any number of targets."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić artefakt. Jeśli tak "
+"zrobisz, ten stwór zadaje 4 obrażenia rozdzielone dowolnie pomiędzy "
+"jakiekolwiek wskazane cele."
 
 #: ../../MBS.rst:350
 msgid ""

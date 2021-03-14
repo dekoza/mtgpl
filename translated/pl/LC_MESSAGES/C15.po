@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-13 15:39+0000\n"
+"PO-Revision-Date: 2021-03-14 13:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -554,6 +554,9 @@ msgid ""
 "creatures. This creature enters the battlefield with that many +1/+1 "
 "counters on it.)"
 msgstr ""
+"Pożarcie 1 (Umieszczając tego stwora na polu bitwy możesz poświęcić dowolną "
+"liczbę stworów. Ten stwór wchodzi na pole bitwy mając tyle samo znaczników +"
+"1/+1.)"
 
 #: ../../C15.rst:195
 msgid ""
@@ -561,6 +564,8 @@ msgid ""
 "+1/+1 counters on it, where X is the number of +1/+1 counters on Bloodspore "
 "Thrinax."
 msgstr ""
+"Każdy inny stwór pod twoim władaniem wchodzi na pole bitwy mając dodatkowych "
+"X znaczników +1/+1, gdzie X jest liczbą znaczników +1/+1 na tym stworze."
 
 #: ../../C15.rst:202
 msgid ""
@@ -1888,7 +1893,7 @@ msgstr ""
 
 #: ../../C15.rst:637
 msgid "If you would draw a card, draw two cards instead."
-msgstr ""
+msgstr "Jeśli miałbyś dobrać kartę, zamiast tego dobierz dwie karty."
 
 #: ../../C15.rst:642
 msgid ""
@@ -3471,6 +3476,9 @@ msgid ""
 "noncreature permanents. For each permanent put into a graveyard this way, "
 "its controller creates a 3/3 green Elephant creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
+"wskazane nie-stworowe peranenty. Za każdy permanent umieszczony w cmentarzu "
+"w ten sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../C15.rst:1152
 msgid ""

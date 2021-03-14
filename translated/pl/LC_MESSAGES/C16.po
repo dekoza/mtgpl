@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 21:19+0000\n"
+"PO-Revision-Date: 2021-03-14 13:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -131,6 +131,8 @@ msgid ""
 "When Deepglow Skate enters the battlefield, double the number of each kind "
 "of counter on any number of target permanents."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, podwój liczbę znaczników każdego "
+"rodzaju na dowolnej liczbie wskazanych permanentów."
 
 #: ../../C16.rst:48
 msgid ""
@@ -476,7 +478,7 @@ msgstr ""
 
 #: ../../C16.rst:157
 msgid "Flying, vigilance, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, czujność, dotyk śmierci, więź życia"
 
 #: ../../C16.rst:159
 msgid ""
@@ -484,6 +486,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
+"Na początku twojego kroku końcowego, rozpleń. (Wybierz dowolną liczbę "
+"permanentów i/lub graczy, następnie daj każdemu kolejny znacznik każdego "
+"posiadanego przezeń rodzaju.)"
 
 #: ../../C16.rst:172
 msgid ""
@@ -1824,6 +1829,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy target "
 "nonblack creature."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|, poświęć ten artefakt: Zniszcz wskazanego "
+"nieczarnego stwora."
 
 #: ../../C16.rst:634
 msgid ""
@@ -2113,12 +2120,18 @@ msgid ""
 "library for an Equipment card and put it onto the battlefield. If you do, "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę Wyposażenia i umieścić ją na polu bitwy. Jeśli tak zrobisz, przetasuj "
+"twoją bibliotekę."
 
 #: ../../C16.rst:723
 msgid ""
 "Whenever Godo attacks for the first time each turn, untap it and all Samurai "
 "you control. After this phase, there is an additional combat phase."
 msgstr ""
+"Ilekroć ten stwór zaatakuje po raz pierwszy w danej turze, odkręć go i "
+"wszystkich Samurajów pod twoim władaniem. Po tej fazie jest dodatkowa faza "
+"potyczki."
 
 #: ../../C16.rst:734
 msgid ""
@@ -2950,6 +2963,9 @@ msgid ""
 "two basic land cards and put them onto the battlefield. Then each player who "
 "searched their library this way shuffles it."
 msgstr ""
+"Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece co "
+"najwyżej dwie karty bazowych lądów i umieścić je na polu bitwy. Następnie "
+"każdy gracz, który przeszukał swoją bibliotekę, tasuje ją."
 
 #: ../../C16.rst:986
 msgid ""

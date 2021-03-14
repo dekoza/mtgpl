@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 21:55+0000\n"
+"PO-Revision-Date: 2021-03-14 13:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -807,7 +807,7 @@ msgstr ""
 
 #: ../../SHM.rst:279
 msgid "If you would draw a card, draw two cards instead."
-msgstr ""
+msgstr "Jeśli miałbyś dobrać kartę, zamiast tego dobierz dwie karty."
 
 #: ../../SHM.rst:284
 msgid ""
@@ -1205,6 +1205,8 @@ msgid ""
 "At the beginning of each end step, each opponent loses life equal to the "
 "life they lost this turn. (Damage causes loss of life.)"
 msgstr ""
+"Na początku każdego kroku końcowego każdy przeciwnik traci tyle żyć, ile "
+"stracił żyć w tej turze. (Obrażenia powodują utratę żyć.)"
 
 #: ../../SHM.rst:430
 msgid ""
@@ -1284,6 +1286,9 @@ msgid ""
 "If you discard a creature card this way, Cragganwick Cremator deals damage "
 "equal to that card's power to target player or planeswalker."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć losową kartę. Jeśli odrzucisz "
+"w ten sposób kartę stwora, niniejszy stwór zadaje wskazanemu graczowi lub "
+"wędrowcowi obrażenia równe sile owej karty."
 
 #: ../../SHM.rst:462
 msgid ""
@@ -1517,7 +1522,7 @@ msgstr ""
 
 #: ../../SHM.rst:547
 msgid "Creatures you control have double strike."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają podwójny cios."
 
 #: ../../SHM.rst:554
 msgid ""
@@ -1754,6 +1759,8 @@ msgid ""
 "If you tap a permanent for mana, it produces twice as much of that mana "
 "instead."
 msgstr ""
+"Jeśli przekręcisz permanent biorąc manę, zamiast tego produkuje on "
+"dwukrotność owej many."
 
 #: ../../SHM.rst:642
 msgid ""

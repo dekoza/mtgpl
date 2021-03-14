@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-13 21:54+0000\n"
+"PO-Revision-Date: 2021-03-14 13:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -717,17 +717,20 @@ msgid ""
 "Arixmethes, Slumbering Isle enters the battlefield tapped with five slumber "
 "counters on it."
 msgstr ""
+"Ten permanent wchodzi przekręcony na pole bitwy z pięcioma znacznikami "
+"drzemki."
 
 #: ../../C18.rst:235
 msgid ""
 "As long as Arixmethes has a slumber counter on it, it's a land. (It's not a "
 "creature.)"
 msgstr ""
+"O ile ten permanent ma znacznik drzemki, jest lądem. (Nie jest stworem.)"
 
 #: ../../C18.rst:237
 msgid ""
 "Whenever you cast a spell, you may remove a slumber counter from Arixmethes."
-msgstr ""
+msgstr "Ilekroć rzucisz czar, możesz usunąć znacznik drzemki z tego permanentu."
 
 #: ../../C18.rst:239 ../../C18.rst:1717
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
@@ -2735,7 +2738,7 @@ msgstr ""
 
 #: ../../C18.rst:905
 msgid "As an additional cost to cast this spell, sacrifice a land."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../C18.rst:907
 msgid ""
