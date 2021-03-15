@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-10 19:59+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -3868,6 +3868,8 @@ msgid ""
 "When Sharuum the Hegemon enters the battlefield, you may return target "
 "artifact card from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"artefaktu z twojego cmentarza na pole bitwy."
 
 #: ../../C13.rst:1232
 msgid ""
@@ -4233,6 +4235,8 @@ msgid ""
 "|mana_1|, Sacrifice a nontoken artifact: Create a 1/1 blue Thopter artifact "
 "creature token with flying. You gain 1 life."
 msgstr ""
+"|mana_1|, poświęć nieżetonowy artefakt. Stwórz żeton niebieskiego "
+"artefaktowego stwora Topter 1/1 z lataniem. Zyskaj 1 życie."
 
 #: ../../C13.rst:1356
 msgid ""
@@ -4282,7 +4286,7 @@ msgstr ""
 # 34089dee52e743e6a929f67ce82457ac
 #: ../../C13.rst:1365
 msgid "Basalt Monolith doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../C13.rst:1367
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
@@ -4291,7 +4295,7 @@ msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 # 552073d7aa2e4c518ebae22d9042b2c1
 #: ../../C13.rst:1369
 msgid "|mana_3|: Untap Basalt Monolith."
-msgstr ""
+msgstr "|mana_3|: Odkręć tego stwora."
 
 #: ../../C13.rst:1374
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-05 23:07+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -2074,6 +2074,8 @@ msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
 "equal to the sacrificed artifact's converted mana cost to any target."
 msgstr ""
+"|mana_3|\\ |mana_r|, poświęć artefakt: Ten stwór zadaje wskazanemu celowi "
+"obrażenia równe skrótowi many poświęconego artefaktu."
 
 #: ../../MRD.rst:776
 msgid ""
@@ -2095,7 +2097,7 @@ msgstr ""
 
 #: ../../MRD.rst:779
 msgid "When Cathodion dies, add |colorless|\\ |colorless|\\ |colorless|."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../MRD.rst:786
 msgid ""

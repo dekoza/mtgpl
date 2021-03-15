@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:48+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bbd/pl/>\n"
 "Language: pl\n"
@@ -3430,13 +3430,15 @@ msgstr ""
 
 #: ../../BBD.rst:1217
 msgid "|tap|, Sacrifice a creature: Put a charge counter on Culling Dais."
-msgstr ""
+msgstr "|tap|, poświęć stwora: Umieść znacznik ładunku na ty, artefakcie."
 
 #: ../../BBD.rst:1219
 msgid ""
 "|mana_1|, Sacrifice Culling Dais: Draw a card for each charge counter on "
 "Culling Dais."
 msgstr ""
+"|mana_1|, poświęć ten artefakt: Dobierz kartę za każdy znacznik ładunku na "
+"tym artefakcie."
 
 #: ../../BBD.rst:1224
 msgid ""

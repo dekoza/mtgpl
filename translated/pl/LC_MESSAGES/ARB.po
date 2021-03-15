@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:48+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/arb/pl/>\n"
 "Language: pl\n"
@@ -523,7 +523,7 @@ msgstr ""
 
 #: ../../ARB.rst:185
 msgid "|tap|, Sacrifice five artifacts: Take an extra turn after this one."
-msgstr ""
+msgstr "|tap|, poświęć pięć artefaktów: Weź dodatkową turę po obecnej."
 
 #: ../../ARB.rst:190
 msgid ""
@@ -1362,6 +1362,8 @@ msgid ""
 "Destroy target nonland permanent and all other permanents with the same name "
 "as that permanent."
 msgstr ""
+"Zniszcz wskazany nielądowy permanent i wszystkie inne permanenty mające tę "
+"samą nazwę co on."
 
 #: ../../ARB.rst:506
 msgid ""
@@ -1617,6 +1619,9 @@ msgid ""
 "revealed. You may play lands and cast spells from that player's hand this "
 "turn."
 msgstr ""
+"Na początku twojego kroku utrzymania, wskaż przeciwnika. W tej turze ów "
+"gracz nie może rzucać czarów ani aktywować zdolności i gra z ujawnioną ręką. "
+"Możesz w tej turze zagrywać lądy i rzucać czary z ręki owego gracza."
 
 #: ../../ARB.rst:592
 msgid ""
@@ -1754,10 +1759,12 @@ msgid ""
 "When Karrthus, Tyrant of Jund enters the battlefield, gain control of all "
 "Dragons, then untap all Dragons."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie nad wszystkimi "
+"Smokami, następnie odkręć wszystkie Smoki."
 
 #: ../../ARB.rst:637
 msgid "Other Dragon creatures you control have haste."
-msgstr ""
+msgstr "Inne Smoki pod twoim władaniem mają pośpiech."
 
 #: ../../ARB.rst:642
 msgid ""
@@ -1950,6 +1957,10 @@ msgid ""
 "card that costs less. You may cast it without paying its mana cost. Put the "
 "exiled cards on the bottom of your library in a random order.)"
 msgstr ""
+"Pierwszy czar rzucony przez cienie w danej turze ma kaskadę. (Kiedy rzucisz "
+"swój pierwszy czar, wyganiaj karty z wierzchu twojej biblioteki aż wygnasz "
+"nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez płacenia jej "
+"kosztu many. Umieść wygnane karty losowo na spodzie twojej biblioteki.)"
 
 #: ../../ARB.rst:706
 msgid ""
@@ -1990,6 +2001,8 @@ msgid ""
 "|mana_1|, Sacrifice a nontoken artifact: Create a 1/1 blue Thopter artifact "
 "creature token with flying. You gain 1 life."
 msgstr ""
+"|mana_1|, poświęć nieżetonowy artefakt. Stwórz żeton niebieskiego "
+"artefaktowego stwora Topter 1/1 z lataniem. Zyskaj 1 życie."
 
 #: ../../ARB.rst:718
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:47+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -3356,6 +3356,8 @@ msgid ""
 "Destroy target nonland permanent and all other permanents with the same name "
 "as that permanent."
 msgstr ""
+"Zniszcz wskazany nielądowy permanent i wszystkie inne permanenty mające tę "
+"samą nazwę co on."
 
 #: ../../UMA.rst:1128
 msgid ""
@@ -3523,7 +3525,7 @@ msgstr ""
 
 #: ../../UMA.rst:1177
 msgid "Sacrifice Fulminator Mage: Destroy target nonbasic land."
-msgstr ""
+msgstr "Poświęć tego stwora: Zniszcz wskazany niebazowy ląd."
 
 #: ../../UMA.rst:1184
 msgid ""
@@ -3649,7 +3651,7 @@ msgstr ""
 
 #: ../../UMA.rst:1241
 msgid "When Cathodion dies, add |colorless|\\ |colorless|\\ |colorless|."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../UMA.rst:1248
 msgid ""

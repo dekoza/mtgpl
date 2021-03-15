@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-13 21:54+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/3ed/pl/>\n"
 "Language: pl\n"
@@ -3151,7 +3151,7 @@ msgstr ""
 
 #: ../../3ED.rst:1159
 msgid "Basalt Monolith doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../3ED.rst:1161 ../../3ED.rst:1295
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
@@ -3159,7 +3159,7 @@ msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../3ED.rst:1163
 msgid "|mana_3|: Untap Basalt Monolith."
-msgstr ""
+msgstr "|mana_3|: Odkręć tego stwora."
 
 #: ../../3ED.rst:1170
 msgid ""

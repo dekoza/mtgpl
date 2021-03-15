@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:48+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -3294,14 +3294,16 @@ msgid ""
 "When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue "
 "Thopter artifact creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony niebieskiego "
+"artefaktowego stwora Topter 1/1 z lataniem."
 
 #: ../../2XM.rst:1001
 msgid "|mana_2|, Sacrifice two artifacts: Choose one —"
-msgstr ""
+msgstr "|mana_2|, poświęć dwa artefakty: Wybierz jedno —"
 
 #: ../../2XM.rst:1003
 msgid "Breya deals 3 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia."
 
 #: ../../2XM.rst:1005
 msgid "Target creature gets -4/-4 until end of turn."
@@ -3321,7 +3323,7 @@ msgstr ""
 
 #: ../../2XM.rst:1011
 msgid "Creature tokens you control have haste."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem mają pośpiech."
 
 #: ../../2XM.rst:1013
 msgid ""
@@ -3329,6 +3331,10 @@ msgid ""
 "creature token. Then you may choose a token you control. If you do, each "
 "other token you control becomes a copy of that token."
 msgstr ""
+"Na początku potyczki w twojej turze, stwórz żeton niebieskiego artefaktowego "
+"stwora Myr 1/1. Następnie możesz wskazać żeton pod twoim władaniem. Jeśli "
+"tak zrobisz, każdy inny żeton pod twoim władaniem staje się kopią owego "
+"żetonu."
 
 #: ../../2XM.rst:1018
 msgid ""
@@ -3342,6 +3348,8 @@ msgid ""
 "Morbid — At the beginning of each end step, if a creature died this turn, "
 "you may draw a card."
 msgstr ""
+"Okropność — Na początku każdego kroku końcowego, jeśli w tej turze umarł "
+"stwór, możesz dobrać kartę."
 
 #: ../../2XM.rst:1024
 msgid ""
@@ -3373,7 +3381,7 @@ msgstr ""
 
 #: ../../2XM.rst:1027
 msgid "Sacrifice Fulminator Mage: Destroy target nonbasic land."
-msgstr ""
+msgstr "Poświęć tego stwora: Zniszcz wskazany niebazowy ląd."
 
 #: ../../2XM.rst:1034
 msgid ""
@@ -3518,6 +3526,9 @@ msgid ""
 "Demon, or Dragon creature card from your hand onto the battlefield tapped "
 "and attacking that opponent."
 msgstr ""
+"Ilekroć ten stwór zaatakuje przeciwnika, możesz umieść na polu bitwy kartę "
+"Anioła, Demona lub Smoka z twojej ręki przekręconą i atakującą owego "
+"przeciwnika."
 
 #: ../../2XM.rst:1084
 msgid ""
@@ -3532,10 +3543,12 @@ msgid ""
 "When Karrthus, Tyrant of Jund enters the battlefield, gain control of all "
 "Dragons, then untap all Dragons."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie nad wszystkimi "
+"Smokami, następnie odkręć wszystkie Smoki."
 
 #: ../../2XM.rst:1083
 msgid "Other Dragon creatures you control have haste."
-msgstr ""
+msgstr "Inne Smoki pod twoim władaniem mają pośpiech."
 
 #: ../../2XM.rst:1088
 msgid ""
@@ -3551,6 +3564,10 @@ msgid ""
 "card that costs less. You may cast it without paying its mana cost. Put the "
 "exiled cards on the bottom of your library in a random order.)"
 msgstr ""
+"Pierwszy czar rzucony przez cienie w danej turze ma kaskadę. (Kiedy rzucisz "
+"swój pierwszy czar, wyganiaj karty z wierzchu twojej biblioteki aż wygnasz "
+"nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez płacenia jej "
+"kosztu many. Umieść wygnane karty losowo na spodzie twojej biblioteki.)"
 
 #: ../../2XM.rst:1092
 msgid ""
@@ -3564,6 +3581,8 @@ msgid ""
 "Destroy target nonland permanent and all other permanents with the same name "
 "as that permanent."
 msgstr ""
+"Zniszcz wskazany nielądowy permanent i wszystkie inne permanenty mające tę "
+"samą nazwę co on."
 
 #: ../../2XM.rst:1098
 msgid ""
@@ -3574,7 +3593,7 @@ msgstr ""
 
 #: ../../2XM.rst:1095
 msgid "Add two mana in any combination of colors."
-msgstr ""
+msgstr "Weź dwie many w dowolnej kombinacji kolorów."
 
 #: ../../2XM.rst:1104
 msgid ""
@@ -3589,6 +3608,8 @@ msgid ""
 "Whenever a player sacrifices another permanent, put a +1/+1 counter on each "
 "creature you control."
 msgstr ""
+"Ilekroć gracz poświęci inny permanent, umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../2XM.rst:1110
 msgid ""
@@ -3668,6 +3689,8 @@ msgid ""
 "|mana_4|\\ |mana_gw|\\ |mana_gw|, |tap|: For each creature token you "
 "control, create a token that's a copy of that creature."
 msgstr ""
+"|mana_4|\\ |mana_gw|\\ |mana_gw|, |tap|: Dla każdego żetonu stwora pod twoim "
+"władaniem, stwórz żeton będący jego kopią."
 
 #: ../../2XM.rst:1138
 msgid ""
@@ -3681,6 +3704,9 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may pay |mana_u|\\ |"
 "mana_r|. If you do, copy that spell. You may choose new targets for the copy."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz zapłacić |mana_u|\\ "
+"|mana_r|. Jeśli tak zrobisz, skopiuj ów czar. Możesz wskazać nowe cele dla "
+"kopii."
 
 #: ../../2XM.rst:1137
 msgid ""
@@ -3688,6 +3714,9 @@ msgid ""
 "control, you may pay |mana_g|\\ |mana_u|. If you do, create a token that's a "
 "copy of that creature."
 msgstr ""
+"Ilekroć inny nieżetonowy stwór wejdzie na pole bitwy pod twoim władaniem, "
+"możesz zapłacić |mana_g|\\ |mana_u|. Jeśli tak zrobisz, stwórz żeton będący "
+"kopią owego stwora."
 
 #: ../../2XM.rst:1146
 msgid ""
@@ -3769,6 +3798,9 @@ msgid ""
 "revealed. You may play lands and cast spells from that player's hand this "
 "turn."
 msgstr ""
+"Na początku twojego kroku utrzymania, wskaż przeciwnika. W tej turze ów "
+"gracz nie może rzucać czarów ani aktywować zdolności i gra z ujawnioną ręką. "
+"Możesz w tej turze zagrywać lądy i rzucać czary z ręki owego gracza."
 
 #: ../../2XM.rst:1170
 msgid ""
@@ -3782,6 +3814,8 @@ msgid ""
 "When Sharuum the Hegemon enters the battlefield, you may return target "
 "artifact card from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"artefaktu z twojego cmentarza na pole bitwy."
 
 #: ../../2XM.rst:1176
 msgid ""
@@ -3796,6 +3830,9 @@ msgid ""
 "an artifact creature card, reveal it, and put it into your hand. If you do, "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę artefaktu lub stwora, ujawnij ją i umieść w twojej ręce. Jeśli tak "
+"zrobisz, przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:1180
 msgid ""
@@ -3820,6 +3857,8 @@ msgid ""
 "|mana_1|, Sacrifice a nontoken artifact: Create a 1/1 blue Thopter artifact "
 "creature token with flying. You gain 1 life."
 msgstr ""
+"|mana_1|, poświęć nieżetonowy artefakt. Stwórz żeton niebieskiego "
+"artefaktowego stwora Topter 1/1 z lataniem. Zyskaj 1 życie."
 
 #: ../../2XM.rst:1188
 msgid ""
@@ -3830,7 +3869,7 @@ msgstr ""
 
 #: ../../2XM.rst:1187
 msgid "|tap|, Sacrifice five artifacts: Take an extra turn after this one."
-msgstr ""
+msgstr "|tap|, poświęć pięć artefaktów: Weź dodatkową turę po obecnej."
 
 #: ../../2XM.rst:1192
 msgid ""
@@ -3861,7 +3900,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../2XM.rst:1197
 msgid "|mana_rg|: Target spell can't be countered."
-msgstr ""
+msgstr "|mana_rg|: Wskazany czar nie może być skontrowany."
 
 #: ../../2XM.rst:1206
 msgid ""
@@ -3879,12 +3918,16 @@ msgid ""
 "Sacrifice a creature: Put X +1/+1 counters on Vish Kal, Blood Arbiter, where "
 "X is the sacrificed creature's power."
 msgstr ""
+"Poświęć stwora: Umieść X znaczników +1/+1 na tym stworze, gdzie X jest siłą "
+"poświęconego stwora."
 
 #: ../../2XM.rst:1205
 msgid ""
 "Remove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until "
 "end of turn for each +1/+1 counter removed this way."
 msgstr ""
+"Usuń wszystkie znaczniki +1/+1 z tego stwora: Wskazany stwór dostaje do "
+"końca tury -1/-1 za każdy znacznik +1/+1 usunięty w ten sposób."
 
 #: ../../2XM.rst:1210
 msgid ""
@@ -3967,7 +4010,7 @@ msgstr ""
 
 #: ../../2XM.rst:1237
 msgid "Basalt Monolith doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../2XM.rst:1239
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
@@ -3975,7 +4018,7 @@ msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../2XM.rst:1241
 msgid "|mana_3|: Untap Basalt Monolith."
-msgstr ""
+msgstr "|mana_3|: Odkręć tego stwora."
 
 #: ../../2XM.rst:1248
 msgid ""
@@ -4006,14 +4049,16 @@ msgid ""
 "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
 "black Germ creature token, then attach this to it.)"
 msgstr ""
+"Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
+"stwora Bakcyl 0/0 i dołącz to do niego.)"
 
 #: ../../2XM.rst:1253
 msgid "Equipped creature gets +4/+4 and has vigilance and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+4 i ma czujność oraz więź życia."
 
 #: ../../2XM.rst:1255
 msgid "|mana_3|: Return Batterskull to its owner's hand."
-msgstr ""
+msgstr "|mana_3|: Przywróć ten artefakt do ręki właściciela."
 
 #: ../../2XM.rst:1257
 msgid "Equip |mana_5|"
@@ -4028,13 +4073,15 @@ msgstr ""
 
 #: ../../2XM.rst:1261
 msgid "Trample, infect, indestructible"
-msgstr ""
+msgstr "Tratowanie, infekcja, niezniszczalność"
 
 #: ../../2XM.rst:1263
 msgid ""
 "If Blightsteel Colossus would be put into a graveyard from anywhere, reveal "
 "Blightsteel Colossus and shuffle it into its owner's library instead."
 msgstr ""
+"Jeśli ten stwór miałby trafić skądkolwiek do cmentarza, zamiast tego ujawnij "
+"go i wtasuj do biblioteki właściciela."
 
 #: ../../2XM.rst:1270
 msgid ""
@@ -4048,6 +4095,8 @@ msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
 "equal to the sacrificed artifact's converted mana cost to any target."
 msgstr ""
+"|mana_3|\\ |mana_r|, poświęć artefakt: Ten stwór zadaje wskazanemu celowi "
+"obrażenia równe skrótowi many poświęconego artefaktu."
 
 #: ../../2XM.rst:1274
 msgid ""
@@ -4058,7 +4107,7 @@ msgstr ""
 
 #: ../../2XM.rst:1273
 msgid "When Cathodion dies, add |colorless|\\ |colorless|\\ |colorless|."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../2XM.rst:1278
 msgid ""
@@ -4116,12 +4165,17 @@ msgid ""
 "cards of your library, exile one face down, then put the rest on the bottom "
 "of your library in any order."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, następnie umieść pozostałe "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../2XM.rst:1295
 msgid ""
 "When Clone Shell dies, turn the exiled card face up. If it's a creature "
 "card, put it onto the battlefield under your control."
 msgstr ""
+"Kiedy ten stwór umrze, odkryj wygnaną kartę. Jeśli to karta stwora, umieść "
+"ją na polu bitwy pod twoim władaniem."
 
 #: ../../2XM.rst:1300
 msgid ""
@@ -4163,11 +4217,12 @@ msgstr ""
 
 #: ../../2XM.rst:1307
 msgid "|tap|: Put a charge counter on target artifact."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładunku na wskazanym artefakcie."
 
 #: ../../2XM.rst:1309
 msgid "Sacrifice Coretapper: Put two charge counters on target artifact."
 msgstr ""
+"Poświęć tego stwora: Umieść dwa znaczniki ładunku na wskazanym artefakcie."
 
 #: ../../2XM.rst:1318
 msgid ""
@@ -4200,13 +4255,15 @@ msgstr ""
 
 #: ../../2XM.rst:1321
 msgid "|tap|, Sacrifice a creature: Put a charge counter on Culling Dais."
-msgstr ""
+msgstr "|tap|, poświęć stwora: Umieść znacznik ładunku na ty, artefakcie."
 
 #: ../../2XM.rst:1323
 msgid ""
 "|mana_1|, Sacrifice Culling Dais: Draw a card for each charge counter on "
 "Culling Dais."
 msgstr ""
+"|mana_1|, poświęć ten artefakt: Dobierz kartę za każdy znacznik ładunku na "
+"tym artefakcie."
 
 #: ../../2XM.rst:1332
 msgid ""
@@ -4296,6 +4353,8 @@ msgid ""
 "|mana_2|, |tap|: Draw a card. Activate this ability only if you control "
 "three or more lands with the same name."
 msgstr ""
+"|mana_2|, |tap|: Dobierz kartę. Możesz aktywować tylko jeśli co najmniej "
+"trzema lądami o tej samej nazwie."
 
 #: ../../2XM.rst:1356
 msgid ""

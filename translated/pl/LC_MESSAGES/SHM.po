@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:47+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -2656,7 +2656,7 @@ msgstr ""
 
 #: ../../SHM.rst:985
 msgid "Sacrifice Fulminator Mage: Destroy target nonbasic land."
-msgstr ""
+msgstr "Poświęć tego stwora: Zniszcz wskazany niebazowy ląd."
 
 #: ../../SHM.rst:992
 msgid ""
@@ -2950,7 +2950,7 @@ msgstr ""
 
 #: ../../SHM.rst:1101
 msgid "Add two mana in any combination of colors."
-msgstr ""
+msgstr "Weź dwie many w dowolnej kombinacji kolorów."
 
 #: ../../SHM.rst:1110
 msgid ""
@@ -3099,7 +3099,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../SHM.rst:1161
 msgid "|mana_rg|: Target spell can't be countered."
-msgstr ""
+msgstr "|mana_rg|: Wskazany czar nie może być skontrowany."
 
 #: ../../SHM.rst:1168
 msgid ""
@@ -3299,6 +3299,8 @@ msgid ""
 "|mana_4|\\ |mana_gw|\\ |mana_gw|, |tap|: For each creature token you "
 "control, create a token that's a copy of that creature."
 msgstr ""
+"|mana_4|\\ |mana_gw|\\ |mana_gw|, |tap|: Dla każdego żetonu stwora pod twoim "
+"władaniem, stwórz żeton będący jego kopią."
 
 #: ../../SHM.rst:1238
 msgid ""

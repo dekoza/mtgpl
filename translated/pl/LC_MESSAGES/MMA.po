@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:47+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -3051,6 +3051,8 @@ msgid ""
 "Destroy target nonland permanent and all other permanents with the same name "
 "as that permanent."
 msgstr ""
+"Zniszcz wskazany nielądowy permanent i wszystkie inne permanenty mające tę "
+"samą nazwę co on."
 
 #: ../../MMA.rst:1036
 msgid ""
@@ -3237,7 +3239,7 @@ msgstr ""
 
 #: ../../MMA.rst:1097
 msgid "Add two mana in any combination of colors."
-msgstr ""
+msgstr "Weź dwie many w dowolnej kombinacji kolorów."
 
 #: ../../MMA.rst:1106
 msgid ""

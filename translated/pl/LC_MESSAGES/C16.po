@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:47+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -502,14 +502,16 @@ msgid ""
 "When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue "
 "Thopter artifact creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony niebieskiego "
+"artefaktowego stwora Topter 1/1 z lataniem."
 
 #: ../../C16.rst:165
 msgid "|mana_2|, Sacrifice two artifacts: Choose one —"
-msgstr ""
+msgstr "|mana_2|, poświęć dwa artefakty: Wybierz jedno —"
 
 #: ../../C16.rst:167
 msgid "Breya deals 3 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia."
 
 #: ../../C16.rst:169
 msgid "Target creature gets -4/-4 until end of turn."
@@ -3752,6 +3754,8 @@ msgid ""
 "When Sharuum the Hegemon enters the battlefield, you may return target "
 "artifact card from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"artefaktu z twojego cmentarza na pole bitwy."
 
 #: ../../C16.rst:1264
 msgid ""
@@ -3780,6 +3784,9 @@ msgid ""
 "an artifact creature card, reveal it, and put it into your hand. If you do, "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę artefaktu lub stwora, ujawnij ją i umieść w twojej ręce. Jeśli tak "
+"zrobisz, przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:1276
 msgid ""
@@ -3998,6 +4005,8 @@ msgid ""
 "|mana_1|, Sacrifice a nontoken artifact: Create a 1/1 blue Thopter artifact "
 "creature token with flying. You gain 1 life."
 msgstr ""
+"|mana_1|, poświęć nieżetonowy artefakt. Stwórz żeton niebieskiego "
+"artefaktowego stwora Topter 1/1 z lataniem. Zyskaj 1 życie."
 
 #: ../../C16.rst:1352
 msgid ""
@@ -4146,6 +4155,8 @@ msgid ""
 "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
 "black Germ creature token, then attach this to it.)"
 msgstr ""
+"Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
+"stwora Bakcyl 0/0 i dołącz to do niego.)"
 
 #: ../../C16.rst:1399
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:48+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -3800,6 +3800,8 @@ msgid ""
 "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
 "black Germ creature token, then attach this to it.)"
 msgstr ""
+"Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
+"stwora Bakcyl 0/0 i dołącz to do niego.)"
 
 #: ../../C14.rst:1267
 msgid ""
@@ -3823,6 +3825,8 @@ msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
 "equal to the sacrificed artifact's converted mana cost to any target."
 msgstr ""
+"|mana_3|\\ |mana_r|, poświęć artefakt: Ten stwór zadaje wskazanemu celowi "
+"obrażenia równe skrótowi many poświęconego artefaktu."
 
 #: ../../C14.rst:1280
 msgid ""
@@ -3881,7 +3885,7 @@ msgstr ""
 
 #: ../../C14.rst:1295
 msgid "When Cathodion dies, add |colorless|\\ |colorless|\\ |colorless|."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../C14.rst:1302
 msgid ""

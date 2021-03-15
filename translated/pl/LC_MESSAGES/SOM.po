@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:47+0000\n"
+"PO-Revision-Date: 2021-03-15 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -2021,12 +2021,17 @@ msgid ""
 "cards of your library, exile one face down, then put the rest on the bottom "
 "of your library in any order."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, następnie umieść pozostałe "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../SOM.rst:729
 msgid ""
 "When Clone Shell dies, turn the exiled card face up. If it's a creature "
 "card, put it onto the battlefield under your control."
 msgstr ""
+"Kiedy ten stwór umrze, odkryj wygnaną kartę. Jeśli to karta stwora, umieść "
+"ją na polu bitwy pod twoim władaniem."
 
 #: ../../SOM.rst:736
 msgid ""
@@ -2105,13 +2110,15 @@ msgstr ""
 
 #: ../../SOM.rst:755
 msgid "|tap|, Sacrifice a creature: Put a charge counter on Culling Dais."
-msgstr ""
+msgstr "|tap|, poświęć stwora: Umieść znacznik ładunku na ty, artefakcie."
 
 #: ../../SOM.rst:757
 msgid ""
 "|mana_1|, Sacrifice Culling Dais: Draw a card for each charge counter on "
 "Culling Dais."
 msgstr ""
+"|mana_1|, poświęć ten artefakt: Dobierz kartę za każdy znacznik ładunku na "
+"tym artefakcie."
 
 #: ../../SOM.rst:766
 msgid ""
