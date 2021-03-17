@@ -127,6 +127,16 @@ cost_map = {
 }
 
 
+def substr(text: str) -> str:
+    trans_src = {
+        "�": "'",
+        "…": ".",
+        "’": "'",
+    }
+
+    return text.translate({ord(k): ord(v) for k, v in trans_src.items()})
+
+
 def get_valid_mtga_dl_path() -> pathlib.Path:
     path = pathlib.Path(MTGA_DIR)
     assert path.exists()
@@ -374,14 +384,14 @@ def build():
     date_part = dt.strftime("%Y.%m.%d")
     release = 1
     while (
-        filename := (dist_path / f"MTGA_Data-{date_part}.{release:02d}.zip")
+            filename := (dist_path / f"MTGA_Data-{date_part}.{release:02d}.zip")
     ).exists():
         release += 1
 
     add_tag_to_dat_files(path, version=f"{date_part}.{release:02d}")
 
     with zipfile.ZipFile(
-        filename, "w", compression=zipfile.ZIP_BZIP2, compresslevel=9
+            filename, "w", compression=zipfile.ZIP_BZIP2, compresslevel=9
     ) as archive:
         for filename in (i for i in os.listdir(data_path) if i.startswith("data_loc_")):
             archive.write(
@@ -460,7 +470,7 @@ def do_the_trans(data, pofile, lang="en-US"):
     translation_objs = find_data_trans_obj(data, lang=lang)["keys"]
 
     with typer.progressbar(
-        translation_objs, label=f"Substituting cards for {lang}"
+            translation_objs, label=f"Substituting cards for {lang}"
     ) as progress:
         for obj in progress:
             obj_id = str(obj["id"])

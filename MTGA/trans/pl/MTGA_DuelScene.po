@@ -1,22 +1,17 @@
-# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-20 19:39+0200\n"
-"PO-Revision-Date: 2021-03-13 21:54+0000\n"
-"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
-"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
-"duelscene/pl/>\n"
+"PO-Revision-Date: 2021-03-17 23:04+0100\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"Language-Team: MTGA Po Polsku <mtgapl@kozaczko.info>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
-#
 msgctxt "DuelScene/Browsers/Assign_Damage_Text"
 msgid "Assign damage for {attacker}."
 msgstr "Przypisz obrażenia od {attacker}."
