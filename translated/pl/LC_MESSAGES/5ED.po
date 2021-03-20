@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-13 21:54+0000\n"
+"PO-Revision-Date: 2021-03-20 00:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -275,6 +275,8 @@ msgid ""
 "|mana_2|: The next time an artifact source of your choice would deal damage "
 "to you this turn, prevent that damage."
 msgstr ""
+"|mana_2|: Kiedy następnym razem wybrane przez ciebie artefaktowe źródło "
+"miałoby zadać tobie obrażenia w tej turze, zażegnaj owe obrażenia."
 
 #: ../../5ED.rst:96
 msgid ""
@@ -1186,6 +1188,8 @@ msgid ""
 "All artifacts have \"At the beginning of your upkeep, sacrifice this "
 "artifact unless you pay |mana_2|.\""
 msgstr ""
+"Wszystkie artefakty mają \"Na początku twojego kroku utrzymania, poświęć ten "
+"artefakt, chyba że zapłacisz |mana_2|.\""
 
 #: ../../5ED.rst:426
 msgid ""
@@ -1307,6 +1311,8 @@ msgstr ""
 #: ../../5ED.rst:467
 msgid "Return all artifacts target player owns to their hand."
 msgstr ""
+"Przywróć wszystkie artefakty będące własnością wskazanego gracza do jego "
+"ręki."
 
 #: ../../5ED.rst:476
 msgid ""

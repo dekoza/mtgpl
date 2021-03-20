@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:48+0000\n"
+"PO-Revision-Date: 2021-03-20 00:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/atq/pl/>\n"
 "Language: pl\n"
@@ -37,6 +37,8 @@ msgid ""
 "|mana_w|\\ |mana_w|, |tap|: Return target artifact card from your graveyard "
 "to your hand."
 msgstr ""
+"|mana_w|\\ |mana_w|, |tap|: Przywróć wskazaną kartę artefaktu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../ATQ.rst:14
 msgid ""
@@ -50,6 +52,8 @@ msgid ""
 "|tap|: Prevent the next 2 damage that would be dealt to target artifact "
 "creature this turn."
 msgstr ""
+"|tap|: Zażegnaj najbliższe 2 obrażenia jakie mogłyby zostać zadane w tej "
+"turze wskazanemu artefaktowemu stworowi."
 
 #: ../../ATQ.rst:24
 msgid ""
@@ -64,18 +68,22 @@ msgstr "Zaurocz stwora"
 
 #: ../../ATQ.rst:19
 msgid "Enchanted creature can't be blocked by artifact creatures."
-msgstr ""
+msgstr "Zauroczony stwór nie może być blokowany przez artefaktowe stwory."
 
 #: ../../ATQ.rst:21
 msgid ""
 "Prevent all damage that would be dealt to enchanted creature by artifact "
 "sources."
 msgstr ""
+"Zażegnaj wszystkie obrażenia jakie mogłyby zostać zadane zauroczonemu "
+"stworowi przez artefaktowe źródła."
 
 #: ../../ATQ.rst:23
 msgid ""
 "Enchanted creature can't be the target of abilities from artifact sources."
 msgstr ""
+"Zauroczony stwór nie może być wskazywany przez zdolności z artefaktowych "
+"źródeł."
 
 #: ../../ATQ.rst:28
 msgid ""
@@ -90,6 +98,8 @@ msgid ""
 "|mana_2|: The next time an artifact source of your choice would deal damage "
 "to you this turn, prevent that damage."
 msgstr ""
+"|mana_2|: Kiedy następnym razem wybrane przez ciebie artefaktowe źródło "
+"miałoby zadać tobie obrażenia w tej turze, zażegnaj owe obrażenia."
 
 #: ../../ATQ.rst:32
 msgid ""
@@ -101,6 +111,7 @@ msgstr ""
 #: ../../ATQ.rst:31
 msgid "Players can't untap more than one artifact during their untap steps."
 msgstr ""
+"Gracze nie mogą odkręcić więcej niż jeden artefakt w swoim kroku odkręcania."
 
 #: ../../ATQ.rst:36
 msgid ""
@@ -114,6 +125,8 @@ msgid ""
 "As long as Martyrs of Korlis is untapped, all damage that would be dealt to "
 "you by artifacts is dealt to Martyrs of Korlis instead."
 msgstr ""
+"O ile ten stwór jest odkręcony, wszystkie obrażenia jakie mogłyby zostać "
+"zadane tobie przez artefakty, zamiast tego są zadawane temu stworowi."
 
 #: ../../ATQ.rst:40
 msgid ""
@@ -127,6 +140,8 @@ msgid ""
 "You gain X life, where X is twice the damage dealt to you so far this turn "
 "by artifacts."
 msgstr ""
+"Zyskaj X żyć, gdzie X jest dwukrotnością obrażeń zadanych tobie dotychczas w "
+"tej turze przez artefakty."
 
 #: ../../ATQ.rst:44
 msgid ""
@@ -140,6 +155,8 @@ msgid ""
 "Put any number of target artifact cards from target player's graveyard on "
 "top of their library in any order."
 msgstr ""
+"Umieść dowolną liczbę wskazanych kart artefaktów z cmentarza wskazanego "
+"gracza w dowolnej kolejności na wierzchu jego biblioteki."
 
 #: ../../ATQ.rst:48
 msgid ""
@@ -153,6 +170,8 @@ msgid ""
 "All artifacts have \"At the beginning of your upkeep, sacrifice this "
 "artifact unless you pay |mana_2|.\""
 msgstr ""
+"Wszystkie artefakty mają \"Na początku twojego kroku utrzymania, poświęć ten "
+"artefakt, chyba że zapłacisz |mana_2|.\""
 
 #: ../../ATQ.rst:52
 msgid ""
@@ -164,6 +183,8 @@ msgstr ""
 #: ../../ATQ.rst:51
 msgid "Return all artifacts target player owns to their hand."
 msgstr ""
+"Przywróć wszystkie artefakty będące własnością wskazanego gracza do jego "
+"ręki."
 
 #: ../../ATQ.rst:58
 msgid ""
@@ -181,6 +202,8 @@ msgid ""
 "Enchanted artifact's activated abilities cost |mana_2| less to activate. "
 "This effect can't reduce the mana in that cost to less than one mana."
 msgstr ""
+"Aktywacja zdolności zauroczonego artefaktu kosztuje o |mana_2| mniej. Efekt "
+"ten nie może zmniejszyć many w owym koszcie do mniej niż jednej."
 
 #: ../../ATQ.rst:62
 msgid ""
@@ -220,6 +243,12 @@ msgid ""
 "onto the battlefield. If you don't, put it into its owner's graveyard. Then "
 "shuffle your library."
 msgstr ""
+"Poświęć artefakt. Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę "
+"artefaktu. Jeśli skrót many owej karty jest mniejszy lub równy skrótowi many "
+"poświęconego artefaktu, umieść ją na polu bitwy. Jeśli jest większy, możesz "
+"zapłacić |mana_x|, gdzie X jest różnicą. Jeśli tak zrobisz, umieść ją na "
+"polu bitwy. Jeśli nie, umieść ją w cmentarzu właściciela. Następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../ATQ.rst:76
 msgid ""
@@ -234,6 +263,9 @@ msgid ""
 "of enchanted artifact without |tap| in its activation cost, Artifact "
 "Possession deals 2 damage to that artifact's controller."
 msgstr ""
+"Ilekroć zauroczony artefakt zostanie przekręcony lub gracz aktywuje zdolność "
+"zauroczonego artefaktu nie posiadającą |tap| w koszcie, ten urok zadaje "
+"władcy owego artefaktu 2 obrażenia."
 
 #: ../../ATQ.rst:80
 msgid ""
@@ -247,6 +279,8 @@ msgid ""
 "Sacrifice a creature: Destroy target artifact. Activate this ability only "
 "during your upkeep and only once each turn."
 msgstr ""
+"Poświęć stwora: Zniszcz wskazany artefakt. Możesz zaktywować tę zdolność "
+"tylko w twoim kroku utrzymania i tylko raz na turę."
 
 #: ../../ATQ.rst:84
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-15 22:14+0000\n"
+"PO-Revision-Date: 2021-03-20 00:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/3ed/pl/>\n"
 "Language: pl\n"
@@ -531,6 +531,8 @@ msgid ""
 "You gain X life, where X is twice the damage dealt to you so far this turn "
 "by artifacts."
 msgstr ""
+"Zyskaj X żyć, gdzie X jest dwukrotnością obrażeń zadanych tobie dotychczas w "
+"tej turze przez artefakty."
 
 #: ../../3ED.rst:184
 msgid ""
@@ -805,6 +807,8 @@ msgid ""
 "All artifacts have \"At the beginning of your upkeep, sacrifice this "
 "artifact unless you pay |mana_2|.\""
 msgstr ""
+"Wszystkie artefakty mają \"Na początku twojego kroku utrzymania, poświęć ten "
+"artefakt, chyba że zapłacisz |mana_2|.\""
 
 #: ../../3ED.rst:286
 msgid ""
@@ -844,6 +848,8 @@ msgstr ""
 #: ../../3ED.rst:295
 msgid "Return all artifacts target player owns to their hand."
 msgstr ""
+"Przywróć wszystkie artefakty będące własnością wskazanego gracza do jego "
+"ręki."
 
 #: ../../3ED.rst:306
 msgid ""

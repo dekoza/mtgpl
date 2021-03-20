@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-15 22:14+0000\n"
+"PO-Revision-Date: 2021-03-20 00:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bbd/pl/>\n"
 "Language: pl\n"
@@ -37,18 +37,24 @@ msgid ""
 "+2: Until your next turn, up to two target creatures each have base power "
 "and toughness 0/3 and lose all abilities."
 msgstr ""
+"+2: Do twojej następnej tury każdy z co najwyżej dwóch wskazanych stworów ma "
+"bazową siłę i wytrzymałość 0/3 i traci wszystkie zdolności."
 
 #: ../../BBD.rst:11
 msgid ""
 "−2: Target player draws two cards. Until your next turn, instant, sorcery, "
 "and planeswalker spells that player casts cost |mana_2| less to cast."
 msgstr ""
+"–2: Wskazany gracz dobiera dwie karty. Do twojej następnej tury rzucanie "
+"kart sztuczek, obrzędów i wędrowców kosztuje owego gracza o |mana_2| mniej."
 
 #: ../../BBD.rst:13
 msgid ""
 "−8: Target player gets an emblem with \"Whenever you cast an instant or "
 "sorcery spell, copy it. You may choose new targets for the copy.\""
 msgstr ""
+"–8: Wskazany gracz dostaje emblemat mający \"Ilekroć rzucisz czar sztuczki "
+"lub obrzędu, skopiuj go. Możesz wskazać nowe cele dla kopii.\""
 
 #: ../../BBD.rst:15
 msgid "Partner with Rowan Kenrith"
@@ -56,7 +62,7 @@ msgstr ""
 
 #: ../../BBD.rst:17
 msgid "Will Kenrith can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../BBD.rst:30
 msgid ""
@@ -70,12 +76,16 @@ msgid ""
 "+2: During target player's next turn, each creature that player controls "
 "attacks if able."
 msgstr ""
+"+2: Podczas najbliższej tury wskazanego gracza, każdy stwór pod władaniem "
+"owego gracza atakuje jeśli może."
 
 #: ../../BBD.rst:23
 msgid ""
 "−2: Rowan Kenrith deals 3 damage to each tapped creature target player "
 "controls."
 msgstr ""
+"–2: Ten wędrowiec zadaje każdemu przekręconemu stworowi pod władaniem "
+"wskazanego gracza po 3 obrażenia."
 
 #: ../../BBD.rst:25
 msgid ""
@@ -83,6 +93,8 @@ msgid ""
 "that isn't a mana ability, copy it. You may choose new targets for the copy."
 "\""
 msgstr ""
+"–8: Wskazany gracz dostaje emblemat mający \"Ilekroć aktywujesz zdolność nie "
+"dającą many, skopiuj ją. Możesz wskazać nowe cele dla kopii.\""
 
 #: ../../BBD.rst:27
 msgid "Partner with Will Kenrith"
@@ -90,7 +102,7 @@ msgstr ""
 
 #: ../../BBD.rst:29
 msgid "Rowan Kenrith can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../BBD.rst:38
 msgid ""
@@ -140,6 +152,8 @@ msgid ""
 "|mana_b|, Sacrifice X creatures: Target player draws X cards and gains X "
 "life. Put X +1/+1 counters on Krav, the Unredeemed."
 msgstr ""
+"|mana_b|, poświęć X stworów: Wskazany gracz dobiera X kart i zyskuje X żyć. "
+"Umieść X znaczników +1/+1 na tym stworze."
 
 #: ../../BBD.rst:52
 msgid ""
@@ -158,11 +172,11 @@ msgstr ""
 #: ../../BBD.rst:49 ../../BBD.rst:57
 msgid ""
 "At the beginning of combat on your turn, flip a coin until you lose a flip."
-msgstr ""
+msgstr "Na początku potyczki w twojej turze, rzucaj monetą aż przegrasz rzut."
 
 #: ../../BBD.rst:51
 msgid "Whenever a player wins a coin flip, draw a card."
-msgstr ""
+msgstr "Ilekroć gracz wygra rzut monetą, dobierz kartę."
 
 #: ../../BBD.rst:60
 msgid ""
@@ -183,6 +197,8 @@ msgid ""
 "Whenever a player wins a coin flip, double Okaun's power and toughness until "
 "end of turn."
 msgstr ""
+"Ilekroć gracz wygra rzut monetą, podwój do końca tury siłę i wytrzymałość "
+"tego stwora."
 
 #: ../../BBD.rst:68
 msgid ""
@@ -206,6 +222,8 @@ msgid ""
 "Whenever Virtus the Veiled deals combat damage to a player, that player "
 "loses half their life, rounded up."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz traci połowę "
+"swoich żyć, zaokrąglając w górę."
 
 #: ../../BBD.rst:76
 msgid ""
@@ -314,12 +332,14 @@ msgstr ""
 #: ../../BBD.rst:103
 msgid ""
 "Whenever you draw a card, put a +1/+1 counter on Toothy, Imaginary Friend."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../BBD.rst:105
 msgid ""
 "When Toothy leaves the battlefield, draw a card for each +1/+1 counter on it."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, dobierz kartę za każdy znacznik +1/+1, "
+"który posiadał."
 
 #: ../../BBD.rst:112
 msgid ""
@@ -337,7 +357,7 @@ msgstr ""
 
 #: ../../BBD.rst:111
 msgid "|mana_2|\\ |mana_w|: Create a 1/1 white Warrior creature token."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|: Stwórz żeton białego stwora Wojownik 1/1."
 
 #: ../../BBD.rst:118
 msgid ""
@@ -358,6 +378,7 @@ msgid ""
 "Whenever Blaring Captain attacks, attacking Warriors get +1/+1 until end of "
 "turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, atakujący Wojownicy dostają do końca tury +1/+1."
 
 #: ../../BBD.rst:124
 msgid ""
@@ -375,7 +396,7 @@ msgstr ""
 
 #: ../../BBD.rst:123
 msgid "Whenever you cast a spell during your turn, untap target creature."
-msgstr ""
+msgstr "Ilekroć rzucisz czar w swojej turze, odkręć wskazanego stwora."
 
 #: ../../BBD.rst:130
 msgid ""
@@ -396,6 +417,8 @@ msgid ""
 "|mana_r|, |tap|: Chakram Slinger deals 2 damage to target player or "
 "planeswalker."
 msgstr ""
+"|mana_r|, |tap|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 2 "
+"obrażenia."
 
 #: ../../BBD.rst:138
 msgid ""
@@ -416,6 +439,8 @@ msgid ""
 "Whenever a creature with a +1/+1 counter on it attacks one of your "
 "opponents, that creature gains deathtouch until end of turn."
 msgstr ""
+"Ilekroć stwór mający znacznik +1/+1 zaatakuje jednego z twoich przeciwników, "
+"ów stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../BBD.rst:144
 msgid ""
