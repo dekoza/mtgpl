@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-21 00:39+0000\n"
+"PO-Revision-Date: 2021-03-21 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -798,7 +798,7 @@ msgid ""
 "Flashback |mana_x|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_x|\\ |mana_u| (Możesz rzucić ową kartę z twojego cmentarza "
+"Wspomnienie |mana_x|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:234
@@ -1364,6 +1364,7 @@ msgstr ""
 #: ../../DKA.rst:427
 msgid "|mana_3|\\ |mana_b|, |tap|, Sacrifice a Human: Destroy target creature."
 msgstr ""
+"|mana_3|\\ |mana_b|, |tap|, poświęć Człowieka: Zniszcz wskazanego stwora."
 
 #: ../../DKA.rst:434
 msgid ""
@@ -1378,6 +1379,8 @@ msgid ""
 "Whenever enchanted creature is dealt damage, it deals that much damage to "
 "its controller."
 msgstr ""
+"Ilekroć zauroczony stwór otrzyma obrażenia, zadaje tyle samo obrażeń swojemu "
+"władcy."
 
 #: ../../DKA.rst:440
 msgid ""
@@ -1453,6 +1456,8 @@ msgid ""
 "Return all Zombie creature cards from your graveyard to the battlefield "
 "tapped, then destroy all Humans."
 msgstr ""
+"Przywróć wszystkie karty Zombi z twojego cmentarza przekręcone na pole "
+"bitwy, następnie zniszcz wszystkie stwory typu Człowiek."
 
 #: ../../DKA.rst:462
 msgid ""
@@ -1468,6 +1473,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Afflicted Deserter."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../DKA.rst:468
 msgid ""
@@ -1484,6 +1491,9 @@ msgid ""
 "target artifact. If that artifact is put into a graveyard this way, Werewolf "
 "Ransacker deals 3 damage to that artifact's controller."
 msgstr ""
+"Ilekroć ten stwór transformuję na tę stronę, możesz zniszczyć wskazany "
+"artefakt. Jeśli ów artefakt trafi do cmentarza w ten sposób, ten stwór "
+"zadaje władcy owego artefaktu 3 obrażenia."
 
 # 9edbfaebcbf64d0baf22cf4e5a20fffa
 #: ../../DKA.rst:467
@@ -1491,6 +1501,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Werewolf Ransacker."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../DKA.rst:472
 msgid ""
@@ -1506,6 +1518,9 @@ msgid ""
 "other creature that player controls, then each of those creatures deals "
 "damage equal to its power to that creature."
 msgstr ""
+"Wskazany stwór pod władaniem przeciwnika zadaje obrażenia równe swojej sile "
+"każdemu innemu stworowi pod władaniem owego gracza, następnie każdy z owych "
+"stworów zadaje mu obrażenia równe swojej sile."
 
 #: ../../DKA.rst:476
 msgid ""
@@ -1534,6 +1549,7 @@ msgstr ""
 #: ../../DKA.rst:479
 msgid "Burning Oil deals 3 damage to target attacking or blocking creature."
 msgstr ""
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 3 obrażenia."
 
 #: ../../DKA.rst:481
 msgid ""
@@ -1556,6 +1572,8 @@ msgid ""
 "If a source would deal damage to enchanted player, it deals double that "
 "damage to that player instead."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać obrażenia zauroczonemu graczowi, zamiast "
+"tego zadaje owemu graczowi dwukrotność owych obrażeń."
 
 #: ../../DKA.rst:494
 msgid ""
@@ -1578,6 +1596,8 @@ msgid ""
 "Whenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter "
 "on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../DKA.rst:500
 msgid ""
@@ -1600,7 +1620,7 @@ msgstr ""
 
 #: ../../DKA.rst:503
 msgid "Fires of Undeath deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../DKA.rst:505
 msgid ""
@@ -1623,6 +1643,8 @@ msgid ""
 "from your graveyard, that creature deals damage equal to its power to any "
 "target."
 msgstr ""
+"Ilekroć ten lub inny stwór wejdzie na pole bitwy z twojego cmentarza, ów "
+"stwór zadaje wskazanemu celowi obrażenia równe swojej sile."
 
 #: ../../DKA.rst:518
 msgid ""
@@ -1666,7 +1688,7 @@ msgstr ""
 
 #: ../../DKA.rst:525
 msgid "|mana_2|\\ |mana_r|: Target creature attacks this turn if able."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|: Wskazany stwór atakuje w tej turze jeśli może."
 
 #: ../../DKA.rst:532
 msgid ""
@@ -1697,6 +1719,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Hinterland Hermit."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../DKA.rst:542
 msgid ""
@@ -1709,7 +1733,7 @@ msgstr ""
 # a02bb385d18f4ad4b3e496ddcde05adf
 #: ../../DKA.rst:539
 msgid "Hinterland Scourge must be blocked if able."
-msgstr ""
+msgstr "Ten stwór musi być blokowany jeśli to możliwe."
 
 # 2fb208025acb486881bccfbfc20f983f
 #: ../../DKA.rst:541
@@ -1717,6 +1741,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Hinterland Scourge."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../DKA.rst:548
 msgid ""
@@ -1731,12 +1757,17 @@ msgid ""
 "from a graveyard, copy that spell twice instead. You may choose new targets "
 "for the copies."
 msgstr ""
+"Skopiuj wskazany czar sztuczki lub obrzędu pod twoim władaniem. Jeśli ten "
+"czar został rzucony z cmentarza, zamiast tego skopiuj ów czar dwukrotnie. "
+"Możesz wskazać nowe cele dla kopii."
 
 #: ../../DKA.rst:547
 msgid ""
 "Flashback |mana_3|\\ |mana_r|\\ |mana_r| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_3|\\ |mana_r|\\ |mana_r| (Możesz zagrać tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:554
 msgid ""
@@ -1756,6 +1787,8 @@ msgid ""
 "Whenever Markov Blademaster deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../DKA.rst:560
 msgid ""
@@ -1770,6 +1803,8 @@ msgid ""
 "When Markov Warlord enters the battlefield, up to two target creatures can't "
 "block this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej dwa wskazane stwory nie "
+"mogą blokować w tej turze."
 
 #: ../../DKA.rst:564
 msgid ""
@@ -1785,6 +1820,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Mondronen Shaman."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../DKA.rst:570
 msgid ""
@@ -1800,6 +1837,7 @@ msgid ""
 "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to "
 "that player."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, ten stwór zadaje owemu graczowi 2 obrażenia."
 
 # 9093b13edf0e4f9581a514129289dcea
 #: ../../DKA.rst:569
@@ -1807,6 +1845,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Tovolar's Magehunter."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../DKA.rst:576
 msgid ""
@@ -1818,7 +1858,7 @@ msgstr ""
 # d870aa5a0f684718a0fe443494911f00
 #: ../../DKA.rst:575
 msgid "|mana_r|: Each creature you control gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Każdy stwór pod twoim władaniem dostaje do końca tury +1/+0."
 
 #: ../../DKA.rst:580
 msgid ""
@@ -1839,6 +1879,9 @@ msgid ""
 "Whenever Pyreheart Wolf attacks, creatures you control gain menace until end "
 "of turn. (They can't be blocked except by two or more creatures.)"
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwory pod twoim władaniem zyskują do końca "
+"tury złowrogość. (Nie mogą być blokowane, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../DKA.rst:588
 msgid ""
@@ -1859,6 +1902,7 @@ msgstr ""
 msgid ""
 "Destroy target land. Scorch the Fields deals 1 damage to each Human creature."
 msgstr ""
+"Zniszcz wskazany ląd. Ten czar zadaje każdemu Człowiekowi po 1 obrażeniu."
 
 #: ../../DKA.rst:600
 msgid ""
@@ -1870,7 +1914,7 @@ msgstr ""
 # ee13bb729dce4e2799f8ad08ca837a52
 #: ../../DKA.rst:597
 msgid "Discard all the cards in your hand, then draw that many cards."
-msgstr ""
+msgstr "Odrzuć wszystkie karty z twojej ręki, następnie dobierz tyle samo kart."
 
 #: ../../DKA.rst:599
 msgid ""
@@ -1892,6 +1936,8 @@ msgid ""
 "Enchanted creature has \"|mana_1|\\ |mana_r|: This creature gets +2/+0 until "
 "end of turn.\""
 msgstr ""
+"Zauroczony stwór ma \"|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +"
+"2/+0.\""
 
 #: ../../DKA.rst:612
 msgid ""
@@ -1952,6 +1998,9 @@ msgid ""
 "Fateful hour — If you have 5 or less life, tap all attacking creatures. "
 "Those creatures don't untap during their controller's next untap step."
 msgstr ""
+"Pamiętna godzina — Jeśli masz 5 żyć lub mniej, przekręć wszystkie atakujące "
+"stwory. Owe stwory nie odkręcą się w najbliższym kroku odkręcania swojego "
+"władcy."
 
 #: ../../DKA.rst:636
 msgid ""
@@ -2015,7 +2064,7 @@ msgstr ""
 # 11d4203d5cda4ffbb308be25fa3e3f35
 #: ../../DKA.rst:649
 msgid "Whenever enchanted creature blocks, you gain 3 life."
-msgstr ""
+msgstr "Ilekroć zauroczony stwór blokuje, zyskaj 3 życia."
 
 #: ../../DKA.rst:654
 msgid ""
@@ -2030,6 +2079,9 @@ msgid ""
 "you do, create X 2/2 green Wolf creature tokens, where X is the sacrificed "
 "creature's toughness."
 msgstr ""
+"Na początku twojego kroku końcowego możesz poświęcić nieżetonowego stwora. "
+"Jeśli tak zrobisz, stwórz X żetonów zielonego stwora Wilk 2/2, gdzie X jest "
+"wytrzymałością poświęconego stwora."
 
 #: ../../DKA.rst:658
 msgid ""
@@ -2065,6 +2117,8 @@ msgid ""
 "Morbid — Gravetiller Wurm enters the battlefield with four +1/+1 counters on "
 "it if a creature died this turn."
 msgstr ""
+"Okropność — Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1 "
+"jeśli w tej turze umarł stwór."
 
 #: ../../DKA.rst:668
 msgid ""
@@ -2076,7 +2130,7 @@ msgstr ""
 # be04c269960f4684b695f71145a3ae7d
 #: ../../DKA.rst:667
 msgid "Draw a card for each creature card in your graveyard."
-msgstr ""
+msgstr "Dobierz kartę za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../DKA.rst:670
 msgid ""
@@ -2103,6 +2157,8 @@ msgid ""
 "Morbid — Put three +1/+1 counters on that creature instead if a creature "
 "died this turn."
 msgstr ""
+"Okropność — Zamiast tego umieść trzy znaczniki +1/+1 na owym stworze jeśli w "
+"tej turze umarł stwór."
 
 #: ../../DKA.rst:684
 msgid ""
@@ -2116,6 +2172,9 @@ msgid ""
 "Put five +1/+1 counters on target creature. If this spell was cast from a "
 "graveyard, put ten +1/+1 counters on that creature instead."
 msgstr ""
+"Umieść pięć znaczników +1/+1 na wskazanym stworze. Jeśli ten czar został "
+"rzucony z cmentarza, zamiast tego umieść dziesięć znaczników +1/+1 na owym "
+"stworze."
 
 #: ../../DKA.rst:683
 msgid ""
@@ -2160,6 +2219,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Lambholt Elder."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../DKA.rst:700
 msgid ""
@@ -2173,7 +2234,7 @@ msgstr ""
 #: ../../DKA.rst:697
 msgid ""
 "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 # 959f69cd26764b80a9bc9e24e6089397
 #: ../../DKA.rst:699
@@ -2181,6 +2242,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Silverpelt Werewolf."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../DKA.rst:704
 msgid ""
@@ -2196,6 +2259,9 @@ msgid ""
 "top card of your library. If it's a Forest card, remove that creature from "
 "combat. Then put the revealed card on the bottom of your library."
 msgstr ""
+"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, ujawnij "
+"wierzchnią kartę twojej biblioteki. Jeśli to karta Lasu, usuń owego stwora z "
+"potyczki. Następnie umieść ujawnioną kartę na spodzie twojej biblioteki."
 
 #: ../../DKA.rst:712
 msgid ""
@@ -2212,7 +2278,7 @@ msgstr "Niezniszczalność"
 # 0df5c88f0db6493fa371dd1a798cc4ab
 #: ../../DKA.rst:709
 msgid "Whenever Predator Ooze attacks, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, umieść na nim znacznik +1/+1."
 
 # c98efee51f6649bbbbb4c1e370569312
 #: ../../DKA.rst:711
@@ -2220,6 +2286,8 @@ msgid ""
 "Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/"
 "+1 counter on Predator Ooze."
 msgstr ""
+"Ilekroć umrze stwór uszkodzony w tej turze przez niniejszego, umieść na "
+"niniejszym stworze znacznik +1/+1."
 
 #: ../../DKA.rst:718
 msgid ""
@@ -2239,6 +2307,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Scorned Villager."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../DKA.rst:726
 msgid ""
@@ -2258,6 +2328,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Moonscarred Werewolf."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../DKA.rst:730
 msgid ""
@@ -2295,6 +2367,8 @@ msgid ""
 "Reveal the top four cards of your library. Put a creature card from among "
 "them into your hand and the rest into your graveyard."
 msgstr ""
+"Ujawnij cztery wierzchnie karty twojej biblioteki. Umieść spośród nich kartę "
+"stwora w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../DKA.rst:741
 msgid ""
@@ -2317,6 +2391,8 @@ msgid ""
 "Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this "
 "turn, put two +1/+1 counters on target creature."
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, umieść na wskazanym stworze dwa znaczniki +1/+1."
 
 #: ../../DKA.rst:752
 msgid ""
@@ -2331,6 +2407,8 @@ msgid ""
 "Fateful hour — As long as you have 5 or less life, other creatures you "
 "control have vigilance."
 msgstr ""
+"Pamiętna godzina — O ile masz 5 żyć lub mniej, inne stwory pod twoim "
+"władaniem mają czujność."
 
 #: ../../DKA.rst:758
 msgid ""
@@ -2377,6 +2455,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tę zdolność tylko raz na turę."
 
 # ba1577fc1fe94793b681ecd2907db56e
 #: ../../DKA.rst:769
@@ -2384,6 +2464,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Wolfbitten Captive."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../DKA.rst:776
 msgid ""
@@ -2398,6 +2480,8 @@ msgid ""
 "|mana_3|\\ |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
+"|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +4/+4. Możesz aktywować "
+"tę zdolność tylko raz na turę."
 
 # 2f2240c1d83e4ae695340e5636847aa6
 #: ../../DKA.rst:775
@@ -2405,6 +2489,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Krallenhorde Killer."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../DKA.rst:780
 msgid ""
@@ -2434,6 +2520,8 @@ msgstr "Inne Zombi pod twoim władaniem dostają +1/+1."
 #: ../../DKA.rst:787
 msgid "Whenever another Zombie you control dies, target opponent loses 1 life."
 msgstr ""
+"Ilekroć umrze inne Zombi pod twoim władaniem, wskazany przeciwnik traci 1 "
+"życie."
 
 #: ../../DKA.rst:794
 msgid ""
@@ -2448,6 +2536,8 @@ msgid ""
 "Other Spirit creatures you control get +1/+1 and have hexproof. (They can't "
 "be the targets of spells or abilities your opponents control.)"
 msgstr ""
+"Inne Duchy pod twoim władaniem dostają +1/+1 i mają antyklątwę. (Nie mogą "
+"być wskazywane przez czary i zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../DKA.rst:800
 msgid ""
@@ -2459,12 +2549,12 @@ msgstr ""
 # 40b6eb8b8f0e4a45bde06fc7d3607886
 #: ../../DKA.rst:797
 msgid "Flying, double strike, lifelink"
-msgstr ""
+msgstr "Latanie, podwójny cios, więź życia"
 
 # 224028e314344111a225208338d7db99
 #: ../../DKA.rst:799
 msgid "Whenever you gain life, draw a card."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, dobierz kartę."
 
 #: ../../DKA.rst:806
 msgid ""
@@ -2502,6 +2592,9 @@ msgid ""
 "you cast it this turn, Havengul Lich gains all activated abilities of that "
 "card until end of turn."
 msgstr ""
+"|mana_1|: Możesz w tej turze rzucić wskazaną kartę stwora z twojego "
+"cmentarza. Kiedy go rzucisz w tej turze, niniejszy stwór zyskuje do końca "
+"tury wszystkie aktywowane zdolności owej karty."
 
 #: ../../DKA.rst:816
 msgid ""
@@ -2516,6 +2609,8 @@ msgid ""
 "Whenever this creature enters the battlefield or transforms into Huntmaster "
 "of the Fells, create a 2/2 green Wolf creature token and you gain 2 life."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub transformuje na tę stronę, "
+"stwórz żeton zielonego stwora Wilk 2/2 i zyskaj 2 życia."
 
 # 3fd6ae1017d14daa9969162f9aaeff98
 #: ../../DKA.rst:815
@@ -2523,6 +2618,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Huntmaster of the Fells."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../DKA.rst:824
 msgid ""
@@ -2538,6 +2635,9 @@ msgid ""
 "damage to target opponent or planeswalker and 2 damage to up to one target "
 "creature that player or that planeswalker's controller controls."
 msgstr ""
+"Ilekroć ten stwór transformuje na tę stronę, zadaje wskazanemu przeciwnikowi "
+"lub wędrowcowi 2 obrażenia oraz 2 obrażenia co najwyżej jednemu wskazanemu "
+"stworowi pod władaniem owego gracza lub władcy owego wędrowca."
 
 # a4f1036df9b241a791c70082036538b0
 #: ../../DKA.rst:823
@@ -2545,6 +2645,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Ravager of the Fells."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../DKA.rst:832
 msgid ""
@@ -2557,11 +2659,13 @@ msgstr ""
 #: ../../DKA.rst:829
 msgid "Each other creature you control that's a Wolf or a Werewolf gets +1/+1."
 msgstr ""
+"Każdy inny stwór pod twoim władaniem mający typ Wilk lub Wilkołak dostaje +1/"
+"+1."
 
 # a2a116e420024e3995a4e0aed3608bb9
 #: ../../DKA.rst:831
 msgid "Non-Human Werewolves you control can't transform."
-msgstr ""
+msgstr "Wilkołaki bez typu Człowiek pod twoim władaniem nie mogą transformować."
 
 #: ../../DKA.rst:840
 msgid ""
@@ -2573,11 +2677,12 @@ msgstr ""
 
 #: ../../DKA.rst:835
 msgid "+1: Create a 1/1 black Vampire creature token with lifelink."
-msgstr ""
+msgstr "+1: Stwórz żeton czarnego stwora Wampir 1/1 z więzią życia."
 
 #: ../../DKA.rst:837
 msgid "−2: You get an emblem with \"Creatures you control get +1/+0.\""
 msgstr ""
+"–2: Dostajesz emblemat mający \"Stwory pod twoim władaniem dostają +1/+0.\""
 
 #: ../../DKA.rst:839
 msgid ""
@@ -2585,6 +2690,9 @@ msgid ""
 "each card put into a graveyard this way to the battlefield under your "
 "control."
 msgstr ""
+"–6: Zniszcz co najwyżej trzy wskazane stwory i/lub wędrowców. Przywróć na "
+"pole bitwy pod twoim władaniem każdą kartę umieszczoną w ten sposób w "
+"cmentarzu."
 
 #: ../../DKA.rst:846
 msgid ""
@@ -2596,7 +2704,7 @@ msgstr ""
 # 6e41baf12f90419eaf8e98a53932c65c
 #: ../../DKA.rst:845
 msgid "Other Vampire creatures you control get +1/+1 and have first strike."
-msgstr ""
+msgstr "Inne Wampiry pod twoim władaniem dostają +1/+1 i mają pierwszy cios."
 
 #: ../../DKA.rst:852
 msgid ""
@@ -2608,13 +2716,15 @@ msgstr ""
 # 623510ae61794fb0bb80d2e1704b8a56
 #: ../../DKA.rst:849
 msgid "Altar of the Lost enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../DKA.rst:851
 msgid ""
 "|tap|: Add two mana in any combination of colors. Spend this mana only to "
 "cast spells with flashback from a graveyard."
 msgstr ""
+"|tap|: Weź dwie many w dowolnej kombinacji kolorów. Wydaj ową manę tylko na "
+"rzucanie czarów ze wspomnieniem z cmentarza."
 
 #: ../../DKA.rst:860
 msgid ""
@@ -2626,7 +2736,7 @@ msgstr ""
 # 25f7053eea054cf7bb84153c79efecf6
 #: ../../DKA.rst:855
 msgid "Equipped creature gets +1/+0 and has vigilance."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 i ma czujność."
 
 #: ../../DKA.rst:857
 msgid ""
@@ -2655,6 +2765,8 @@ msgid ""
 "|tap|: You gain 1 life. Then if you have at least 10 life more than your "
 "starting life total, transform Chalice of Life."
 msgstr ""
+"|tap|: Zyskaj 1 życie. Następnie jeśli masz co najmniej o 10 żyć więcej niż "
+"wynosi wartość startowa, transformuj ten artefakt."
 
 #: ../../DKA.rst:868
 msgid ""
@@ -2667,7 +2779,7 @@ msgstr ""
 # 339d5d8fc8d74ae8b402ceb6db94e9cf
 #: ../../DKA.rst:867
 msgid "|tap|: Target player loses 5 life."
-msgstr ""
+msgstr "|tap|: Wskazany gracz traci 5 żyć."
 
 #: ../../DKA.rst:876
 msgid ""
@@ -2688,6 +2800,8 @@ msgid ""
 "When equipped creature deals combat damage to a player, unattach Elbrus, the "
 "Binding Blade, then transform it."
 msgstr ""
+"Kiedy wyposażony stwór zada graczowi obrażenia bojowe, odłącz ten artefakt, "
+"następnie transformuj go."
 
 # e095d069e9f84336876800eee8634a08
 #: ../../DKA.rst:875
@@ -2776,7 +2890,7 @@ msgstr "Wyposażony stwór dostaje +1/+1."
 # 5d1150a99b8e42d2825ce073378e9563
 #: ../../DKA.rst:899
 msgid "As long as equipped creature is a Human, it gets an additional +1/+1."
-msgstr ""
+msgstr "O ile wyposażony stwór jest Człowiekiem, dostaje dodatkowe +1/+1."
 
 #: ../../DKA.rst:910
 msgid ""
@@ -2788,12 +2902,12 @@ msgstr ""
 # 8681343117af4a158be84def4978a11b
 #: ../../DKA.rst:905
 msgid "|mana_1|, |tap|: Exile target creature you control."
-msgstr ""
+msgstr "|mana_1|, |tap|: Wygnaj wskazanego stwora pod twoim władaniem."
 
 # 9175e8fc09f94c76bab0f9abfa8c2816
 #: ../../DKA.rst:907
 msgid "|mana_7|, |tap|: Exile target creature you don't control."
-msgstr ""
+msgstr "|mana_7|, |tap|: Wygnaj wskazanego stwora poza twoim władaniem."
 
 # 3ecfb2ded04e4728a4fb2d836123c03d
 #: ../../DKA.rst:909
@@ -2801,6 +2915,8 @@ msgid ""
 "When Helvault is put into a graveyard from the battlefield, return all cards "
 "exiled with it to the battlefield under their owners' control."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, przywróć wszystkie "
+"wygnane nim karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../DKA.rst:916
 msgid ""
@@ -2815,6 +2931,8 @@ msgid ""
 "Whenever a creature you control dies, put two eyeball counters on Jar of "
 "Eyeballs."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, umieść dwa znaczniki oka na tym "
+"artefakcie."
 
 # cb2d97a5351a4b9680969597b63d72de
 #: ../../DKA.rst:915
@@ -2824,6 +2942,10 @@ msgid ""
 "removed this way. Put one of them into your hand and the rest on the bottom "
 "of your library in any order."
 msgstr ""
+"|mana_3|, |tap|, usuń wszystkie znaczniki oczu z tego artefaktu: Spójrz na X "
+"wierzchnich kart twojej biblioteki, gdzie X jest liczbą znaczników oczu "
+"usuniętych w ten sposób. Umieść jedną z nich w twojej ręce, a pozostałe "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../DKA.rst:924
 msgid ""
@@ -2835,7 +2957,7 @@ msgstr ""
 # eb7fee6f73314b96a072f33361334304
 #: ../../DKA.rst:919
 msgid "Warden of the Wall enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../DKA.rst:921 ../../DKA.rst:937 ../../DKA.rst:943 ../../DKA.rst:949
 msgid "|tap|: Add |colorless|."
@@ -2847,6 +2969,8 @@ msgid ""
 "As long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact "
 "creature with flying."
 msgstr ""
+"O ile nie jest twoje tura, ten artefakt jest artefaktowym stworem Gargules 2/"
+"3 z lataniem."
 
 #: ../../DKA.rst:930
 msgid ""
@@ -2860,6 +2984,8 @@ msgid ""
 "Equipped creature has \"|tap|: This creature deals 1 damage to any target\" "
 "and \"|tap|: This creature deals 3 damage to target Werewolf creature.\""
 msgstr ""
+"Wyposażony stwór ma \"|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie\""
+" oraz \"|tap|: Ten stwór zadaje wskazanemu Wilkołakowi 3 obrażenia.\""
 
 # 2f90d3e98f724ef2bc02ac7c1f771294
 #: ../../DKA.rst:929
@@ -2906,6 +3032,8 @@ msgid ""
 "|mana_3|, |tap|, Sacrifice Haunted Fengraf: Return a creature card at random "
 "from your graveyard to your hand."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten ląd: Przywróć losową kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DKA.rst:951
 msgid ""
@@ -2919,3 +3047,5 @@ msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Creatures you control gain deathtouch "
 "and lifelink until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Stwory pod twoim władaniem zyskują do "
+"końca tury dotyk śmierci i więź życia."

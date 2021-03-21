@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-15 22:14+0000\n"
+"PO-Revision-Date: 2021-03-21 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -4410,6 +4410,8 @@ msgid ""
 "Whenever a creature you control dies, put two eyeball counters on Jar of "
 "Eyeballs."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, umieść dwa znaczniki oka na tym "
+"artefakcie."
 
 # 17d1d26af3ff4e2a87964bfe0bf0e27b
 #: ../../C13.rst:1403
@@ -4419,6 +4421,10 @@ msgid ""
 "removed this way. Put one of them into your hand and the rest on the bottom "
 "of your library in any order."
 msgstr ""
+"|mana_3|, |tap|, usuń wszystkie znaczniki oczu z tego artefaktu: Spójrz na X "
+"wierzchnich kart twojej biblioteki, gdzie X jest liczbą znaczników oczu "
+"usuniętych w ten sposób. Umieść jedną z nich w twojej ręce, a pozostałe "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../C13.rst:1410
 msgid ""
