@@ -183,7 +183,8 @@
 
 .. |NPH_percent| image:: images/pie45.png        
 
-.. |DKA_percent| image:: images/pie65.png        
+.. |DKA_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |C17_percent| image:: images/pie60.png        
 
@@ -220,7 +221,7 @@
 .. |BNG_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C14_percent| image:: images/pie50.png        
+.. |C14_percent| image:: images/pie55.png        
 
 .. |LEA_percent| image:: images/pie40.png        
 

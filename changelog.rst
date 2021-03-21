@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2021-03-21
+   * Dark Ascension - 100%
+
 2021-03-11
    * Innistrad - 100%
 
