@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-15 22:14+0000\n"
+"PO-Revision-Date: 2021-03-21 00:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -63,6 +63,8 @@ msgid ""
 "Lieutenant — As long as you control your commander, Angelic Field Marshal "
 "gets +2/+2 and creatures you control have vigilance."
 msgstr ""
+"Porucznik — O ile władasz swoim dowódcą, niniejszy stwór dostaje +2/+2 oraz "
+"stwory pod twoim władaniem mają czujność."
 
 #: ../../C14.rst:26
 msgid ""
@@ -160,6 +162,8 @@ msgid ""
 "When Hallowed Spiritkeeper dies, create X 1/1 white Spirit creature tokens "
 "with flying, where X is the number of creature cards in your graveyard."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz X żetonów białego stwora Duch 1/1 z lataniem, "
+"gdzie X jest liczbą kart stworów w twoim cmentarzu."
 
 #: ../../C14.rst:56
 msgid ""
@@ -177,6 +181,8 @@ msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Attacking creatures you control get +X/+X "
 "until end of turn, where X is the number of attacking creatures."
 msgstr ""
+"|mana_3|\\ |mana_w|\\ |mana_w|: Atakujące stwory pod twoim władaniem dostają "
+"do końca tury +X/+X, gdzie X jest liczbą atakujących stworów."
 
 #: ../../C14.rst:66
 msgid ""
@@ -190,12 +196,16 @@ msgid ""
 "+2: Create a 1/1 white Kor Soldier creature token. You may attach an "
 "Equipment you control to it."
 msgstr ""
+"+2: Stwórz żeton białego stwora Kor Piechur 1/1. Możesz dołączyć do niego "
+"jedno Wyposażenie pod twoim władaniem."
 
 #: ../../C14.rst:61
 msgid ""
 "−2: You may put an Equipment card from your hand or graveyard onto the "
 "battlefield."
 msgstr ""
+"–2: Możesz umieścić na polu bitwy kartę Wyposażenia z twojej ręki lub "
+"cmentarza."
 
 #: ../../C14.rst:63
 msgid ""
@@ -203,10 +213,13 @@ msgid ""
 "has indestructible, \"Equipped creature gets +5/+5 and has double strike,\" "
 "and equip |mana_0|."
 msgstr ""
+"–10: Stwórz żeton bezkolorowego artefaktu Wyposażenie o nazwie Stoneforged "
+"Blade. Ma niezniszczalność, \"Wyposażony stwór dostaje +5/+5 i ma podwójny "
+"cios\" oraz wyposaż |mana_0|."
 
 #: ../../C14.rst:65
 msgid "Nahiri, the Lithomancer can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../C14.rst:70
 msgid ""
@@ -233,6 +246,9 @@ msgid ""
 "hand, tap all nonblue creatures. Those creatures don't untap during their "
 "controllers' next untap steps."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został przez ciebie rzucony z "
+"twojej ręki, przekręć wszystkie nie-niebieskie stwory. Owe stwory nie "
+"odkręcą się w najbliższych krokach odkręcania swoich władców."
 
 #: ../../C14.rst:78
 msgid ""

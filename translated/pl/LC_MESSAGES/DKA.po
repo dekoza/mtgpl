@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-04 13:35+0000\n"
+"PO-Revision-Date: 2021-03-21 00:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -593,6 +593,11 @@ msgid ""
 "with enchanted creature from among them onto the battlefield, then you put "
 "the rest of those cards on the bottom of your library in any order."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz spojrzeć na pięć wierzchnich "
+"kart twojej biblioteki. Jeśli tak zrobisz, możesz umieścić spośród nich na "
+"polu bitwy kartę stwora współdzielącą typ stwora z zauroczonym stworem, "
+"następnie umieść pozostałe z owych kart dowolnie na spodzie twojej "
+"biblioteki."
 
 #: ../../DKA.rst:176
 msgid ""
@@ -604,7 +609,7 @@ msgstr ""
 # 159684054f02491b88f1689cf7668000
 #: ../../DKA.rst:175
 msgid "Enchanted creature gets -13/-0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -13/-0."
 
 #: ../../DKA.rst:182
 msgid ""
@@ -638,6 +643,8 @@ msgid ""
 "Counter target spell. You may cast a spell that shares a card type with it "
 "from your hand without paying its mana cost."
 msgstr ""
+"Skontruj wskazany czar. Możesz rzucić z twojej ręki bez płacenia kosztu many "
+"czar mający z nim wspólny typ karty."
 
 #: ../../DKA.rst:192
 msgid ""
@@ -652,6 +659,9 @@ msgid ""
 "player may copy that spell and may choose new targets for the copy they "
 "control."
 msgstr ""
+"Ilekroć zauroczony gracz rzuci czar sztuczki lub obrzędów, każdy inny gracz "
+"może skopiować ów czar i może wskazać nowe cele dla kopii pod swoim "
+"władaniem."
 
 #: ../../DKA.rst:196
 msgid ""
@@ -744,6 +754,9 @@ msgid ""
 "Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each "
 "Zombie creature you control."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
+"żeton czarnego stwora Zombi 2/2, następnie umieść znacznik +1/+1 na każdym "
+"Zombi pod twoim władaniem."
 
 #: ../../DKA.rst:222
 msgid ""
@@ -763,7 +776,7 @@ msgstr ""
 # 46b996465f484a14a5a3639c9a32ffff
 #: ../../DKA.rst:221
 msgid "Headless Skaab enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../DKA.rst:228
 msgid ""
@@ -785,6 +798,8 @@ msgid ""
 "Flashback |mana_x|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_x|\\ |mana_u| (Możesz rzucić ową kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:234
 msgid ""
@@ -825,7 +840,7 @@ msgstr ""
 # 8de359fa50e64baea9e865a0b2c56296
 #: ../../DKA.rst:245
 msgid "|mana_u|, |tap|: You may tap or untap target creature."
-msgstr ""
+msgstr "|mana_u|, |tap|: Możesz przekręcić lub odkręcić wskazanego stwora."
 
 #: ../../DKA.rst:252
 msgid ""
@@ -844,7 +859,7 @@ msgstr ""
 # e2946891702940d7805c854a08ba8e0d
 #: ../../DKA.rst:255
 msgid "Return target creature you own to your hand."
-msgstr ""
+msgstr "Przywróć wskazanego własnego stwora do twojej ręki."
 
 # 0517e7e0202a41bf8079480bae0c9c5a
 #: ../../DKA.rst:257
@@ -877,7 +892,7 @@ msgstr ""
 # 4ad8744c5b024b068f337e168216b25f
 #: ../../DKA.rst:265
 msgid "Whenever you cast a spell from your graveyard, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar z twojego cmentarza, dobierz kartę."
 
 #: ../../DKA.rst:272
 msgid ""
@@ -906,6 +921,8 @@ msgid ""
 "When Soul Seizer deals combat damage to a player, you may transform it. If "
 "you do, attach it to target creature that player controls."
 msgstr ""
+"Kiedy ten stwór zada graczowi obrażenia bojowe, możesz go transfomować. "
+"Jeśli tak zrobisz, dołącz go do wskazanego stwora pod władaniem owego gracza."
 
 #: ../../DKA.rst:284
 msgid ""
@@ -930,7 +947,7 @@ msgstr ""
 # df866c8d53754d7fa38adc34fbcd4cd4
 #: ../../DKA.rst:289
 msgid "Stormbound Geist can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../DKA.rst:298
 msgid ""
@@ -985,6 +1002,8 @@ msgstr ""
 #: ../../DKA.rst:311
 msgid "|tap|, Tap an untapped Vampire you control: Transform Chosen of Markov."
 msgstr ""
+"|tap|, przekręć odkręconego Wampira pod twoim władaniem: Transformuj tego "
+"stwora."
 
 #: ../../DKA.rst:314
 msgid ""
@@ -1009,6 +1028,10 @@ msgid ""
 "player, put it onto the battlefield attached to that player, then shuffle "
 "your library."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz wyszukać w twojej bibliotece "
+"kartę Klątwy mającej inną nazwę niż Klątwa dołączona do zauroczonego gracza, "
+"umieść ją na polu bitwy dołączoną do owego gracza, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../DKA.rst:328
 msgid ""
@@ -1022,6 +1045,8 @@ msgid ""
 "At the beginning of enchanted player's upkeep, Curse of Thirst deals damage "
 "to that player equal to the number of Curses attached to them."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, ten urok zadaje owemu "
+"graczowi obrażenia równe liczbie Klątw dołączony go niego."
 
 #: ../../DKA.rst:334
 msgid ""
@@ -1036,6 +1061,8 @@ msgid ""
 "Target creature gains deathtouch until end of turn and must be blocked this "
 "turn if able."
 msgstr ""
+"Wskazany stwór zyskuje do końca tury dotyk śmierci i musi być blokowany w "
+"tej turze jeśli to możliwe."
 
 #: ../../DKA.rst:338
 msgid ""
@@ -1050,6 +1077,8 @@ msgid ""
 "Destroy target creature. If that creature was a Human, you gain life equal "
 "to its toughness."
 msgstr ""
+"Zniszcz wskazanego stwora. Jeśli ów stwór był Człowiekiem, zyskaj życia "
+"równe jego wytrzymałości."
 
 #: ../../DKA.rst:342
 msgid ""
@@ -1065,6 +1094,8 @@ msgid ""
 "the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath "
 "Torturer."
 msgstr ""
+"Poświęć stwora: Ten stwór zyskuje do końca tury latanie. Jeśli poświęcony "
+"stwór był Człowiekiem, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../DKA.rst:346
 msgid ""
@@ -1079,6 +1110,8 @@ msgid ""
 "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
+"-2/-2."
 
 #: ../../DKA.rst:354
 msgid ""
@@ -1093,11 +1126,13 @@ msgid ""
 "exiles a card from their hand. You may play that card for as long as it "
 "remains exiled."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz wygania kartę ze "
+"swojej ręki. Możesz zagrać ową kartę przez czas jej wygnania."
 
 # 7682a7966d3c483fb76093044ec47e21
 #: ../../DKA.rst:353
 msgid "Sacrifice a Human: Regenerate Fiend of the Shadows."
-msgstr ""
+msgstr "Poświęć Człowieka: Zregeneruj tego stwora."
 
 #: ../../DKA.rst:362
 msgid ""
@@ -1109,13 +1144,14 @@ msgstr ""
 # 8b4337ef4e9247fd937560485f2dc19c
 #: ../../DKA.rst:357
 msgid "Geralf's Messenger enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 # b527dcf21aee48f593cdbd37a7a38b1f
 #: ../../DKA.rst:359
 msgid ""
 "When Geralf's Messenger enters the battlefield, target opponent loses 2 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia."
 
 #: ../../DKA.rst:368
 msgid ""
@@ -1127,14 +1163,14 @@ msgstr ""
 # 30f3aa3818754846a37c2c039ff6cedf
 #: ../../DKA.rst:365
 msgid "Gravecrawler can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 # 845c18c181d843549f99cae845a024d7
 #: ../../DKA.rst:367
 msgid ""
 "You may cast Gravecrawler from your graveyard as long as you control a "
 "Zombie."
-msgstr ""
+msgstr "Możesz rzucić tego stwora z twojego cmentarza o ile władasz Zombi."
 
 #: ../../DKA.rst:374
 msgid ""
@@ -1169,6 +1205,9 @@ msgid ""
 "Morbid — If a creature died this turn, instead that player reveals their "
 "hand, you choose two cards from it, then that player discards those cards."
 msgstr ""
+"Okropność — Jeśli w tej turze umarł stwór, zamiast tego ów gracz ujawnia "
+"swoją rękę, a ty wybierasz z niej dwie karty, następnie ów gracz odrzuca owe "
+"karty."
 
 #: ../../DKA.rst:384
 msgid ""
@@ -1180,7 +1219,7 @@ msgstr ""
 # a7983ff9342349b0a54fe941bf6d1c43
 #: ../../DKA.rst:383
 msgid "Target player draws three cards and loses 3 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera trzy karty i traci 3 życia."
 
 #: ../../DKA.rst:388
 msgid ""
@@ -1212,12 +1251,17 @@ msgid ""
 "spell was cast from a graveyard, instead search your library for two cards "
 "and put those cards into your hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę i umieść ją w twojej ręce. Jeśli ten czar "
+"został rzucony z cmentarza, zamiast tego wyszukaj w twojej bibliotece dwie "
+"karty i umieść je w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../DKA.rst:393
 msgid ""
 "Flashback |mana_7|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:402
 msgid ""
@@ -1229,7 +1273,7 @@ msgstr ""
 # f87ee13d39a040b9aef3319fa1dc81a4
 #: ../../DKA.rst:399
 msgid "Whenever a Human deals damage to you, destroy it."
-msgstr ""
+msgstr "Ilekroć Człowiek zada ci obrażenia, zniszcz go."
 
 # bfcf16adef444c33972556cba4897379
 #: ../../DKA.rst:401
@@ -1255,7 +1299,7 @@ msgstr ""
 msgid ""
 "Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any "
 "time you could cast a sorcery."
-msgstr ""
+msgstr "Poświęć Człowieka: Transformuj tego stwora. Aktywuj jako obrzęd."
 
 #: ../../DKA.rst:412
 msgid ""
@@ -1276,6 +1320,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice a Human. If you can't, tap "
 "Archdemon of Greed and it deals 9 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć Człowieka. Jeśli nie możesz, "
+"przekręć tego stwora i zadaje on tobie 9 obrażeń."
 
 #: ../../DKA.rst:418
 msgid ""
@@ -1286,7 +1332,7 @@ msgstr ""
 
 #: ../../DKA.rst:415
 msgid "Create a 2/2 black Zombie creature token."
-msgstr ""
+msgstr "Stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../DKA.rst:417
 msgid ""
@@ -1306,7 +1352,7 @@ msgstr ""
 # 18abc54cadd94e9c844e2dbaa69e7c78
 #: ../../DKA.rst:421
 msgid "Sightless Ghoul can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../DKA.rst:428
 msgid ""
