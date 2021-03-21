@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-09 19:52+0100\n"
+"POT-Creation-Date: 2021-03-21 22:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,73 +69,73 @@ msgid "Kliknij \"Instaluj/Aktualizuj\"."
 msgstr ""
 
 #: ../../mtgapl.rst:27
-msgid "Uruchom Arenę, wejdź do opcji -> Graphics -> rozwiń listę języków. W miejscu portugalskiego i francuskiego powinny być \"Polski\" i \"PL+EN DEBUG\" - ta druga opcja jest dla pomocników."
+msgid "Uruchom Arenę. UWAGA - podczas pierwszego uruchomienia po instalacji, Arena robi jakąś analizę/reindeksację plików. Skutkuje to czarnym ekranem przez kilkadziesiąt sekund (tzw. dłuższa chwila). Cierpliwości! Po uruchomieniu wejdź do opcji -> Graphics -> rozwiń listę języków. W miejscu portugalskiego i francuskiego powinny być \"Polski\" i \"PL+EN DEBUG\" - ta druga opcja jest dla pomocników."
 msgstr ""
 
-#: ../../mtgapl.rst:29
+#: ../../mtgapl.rst:30
 msgid "W razie awarii programu lub nie działania spolszczenia, proszę o `zgłoszenie błędu poprzez formularz w repozytorium programu <https://github.com/dekoza/mtga_polonize/issues>`_ (wymaga rejestracji) i załączenie pliku ``polonizator.log``"
 msgstr ""
 
-#: ../../mtgapl.rst:31
+#: ../../mtgapl.rst:32
 msgid "Wszelkie błędy w tłumaczniu (literówki, ortograficzne, językowe itd.) proszę zgłaszać poprzez `formularz w repozytorium projektu <https://github.com/dekoza/mtgpl/issues>`_ (wymaga rejestracji)."
 msgstr ""
 
-#: ../../mtgapl.rst:35
+#: ../../mtgapl.rst:36
 msgid "Ręczna instalacja tłumaczenia"
 msgstr ""
 
-#: ../../mtgapl.rst:37
+#: ../../mtgapl.rst:38
 msgid "Jeśli program instalujący spolszczenie z jakiegoś powodu nie działa, zawsze można zainstalować spolszczenie ręcznie:"
 msgstr ""
 
-#: ../../mtgapl.rst:39
+#: ../../mtgapl.rst:40
 msgid "Wejdź na `stronę, gdzie publikuję wydania <https://github.com/dekoza/mtgpl/releases/>`_."
 msgstr ""
 
-#: ../../mtgapl.rst:40
+#: ../../mtgapl.rst:41
 msgid "Na samej górze jest najnowsza wersja. Dla ułatwienia dodaję do tytułu datę wydania."
 msgstr ""
 
-#: ../../mtgapl.rst:41
+#: ../../mtgapl.rst:42
 msgid "Na samym dole danego wydania jest sekcja Assets, rozwiń ją."
 msgstr ""
 
-#: ../../mtgapl.rst:42
+#: ../../mtgapl.rst:43
 msgid "Pobierz plik, którego nazwa zaczyna się od ``MTGA_DATA`` - tam są pliki używane przez grę."
 msgstr ""
 
-#: ../../mtgapl.rst:43
+#: ../../mtgapl.rst:44
 msgid "Znajdź katalog instalacji gry na swoim komputerze. Domyślnie powinien to być ``C:\\Program Files\\Wizards of the Coast\\MTGA\\``"
 msgstr ""
 
-#: ../../mtgapl.rst:44
+#: ../../mtgapl.rst:45
 msgid "Wewnątrz znajduje się katalog ``MTGA_Data``. Skopiuj znajdujące się w nim katalogi ``Data`` oraz ``Loc`` w jakieś bezpieczne miejsce. Niczego nie przenoś ani nie kasuj! Nie wszystkie pliki zostaną podmienione i reszta ma zostać!"
 msgstr ""
 
-#: ../../mtgapl.rst:45
+#: ../../mtgapl.rst:46
 msgid "Rozpakuj pobrane archiwum. Jego struktura odzwierciedla zawartość powyższego katalogu ``MTGA_Data`` - przekopiuj pliki w odpowiednie miejsca nadpisując oryginalne plilki."
 msgstr ""
 
-#: ../../mtgapl.rst:46
+#: ../../mtgapl.rst:47
 msgid "Uruchom grę. Wejdź do opcji (trybik na górze po prawej), wybierz Graphic. Rozwiń listę opcji \"Locale\" - w miejscu portugalskiego powinna być opcja ``Polski + English``, a w miejscu francuskiego – ``Pl + En (DEBUG)``. Pierwsza opcja jest dla normalnych graczy. Teksty, które nie zostały jeszcze przetłumaczone na polski będą się wyświetlać po angielsku (za wyjątkiem pierwszych kilku komunikatów tuż po uruchomieniu gry, których z jakichś powodów nie da się przetłumaczyć). Druga opcja jest przeznaczona dla osób chcących pomóc przy tłumaczeniu programu. Nieprzetłumaczone teksty są tam zastąpione identyfikatorami pozwalającymi szybko znaleźć dany tekst w plikach językowych."
 msgstr ""
 
-#: ../../mtgapl.rst:50
-msgid "Tak, nie ma (większości) polskich znaków. Niestety czcionka używana w grze zawiera póki co tylko litery \"ł\", \"ó\" oraz \"ń\". Pozostałe nie są w ogóle wyświetlane. Jeśli możesz, `wesprzyj prośbę dodania pozostałych polskich znaków <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/42713978-please-add-more-diacritics-to-ingame-font>`_. Jak tylko czcionka zostanie uzupełniona, pliki zostaną zaktualizowane."
+#: ../../mtgapl.rst:51
+msgid "Tak, polskie znaki wyglądają dziwnie, ale SĄ! Jeszcze niedawno konieczne było wycinanie ogonków, bo inaczej nie byłyby wyświetlane i zamiast \"ląd\" był \"lad\" ;)"
 msgstr ""
 
-#: ../../mtgapl.rst:53
+#: ../../mtgapl.rst:52
 msgid "Miłej zabawy!"
 msgstr ""
 
-#: ../../mtgapl.rst:55
+#: ../../mtgapl.rst:54
 msgid "Sprawdzaj co jakiś czas stronę z punktu 1 - proces tłumaczenia będzie trwał dopóki wszystko nie zostanie przetłumaczone. Możesz więc spodziewać się regularnych aktualizacji."
 msgstr ""
 
-#: ../../mtgapl.rst:58
+#: ../../mtgapl.rst:57
 msgid "Przygotowuję program, który sam wykona wszystkie powyższe operacje, ale to jeszcze trochę potrwa - cierpliwości!"
 msgstr ""
 
-#: ../../mtgapl.rst:60
+#: ../../mtgapl.rst:59
 msgid "PS. Mobilna wersja gry korzysta z tej samej struktury plików. Może się zatem okazać, że te same pliki zadziałają po przekopiowaniu ich na urządzenie mobilne. Tak czy inaczej ta opcja też jest na tapecie i wkrótce pojawi się szczegółowa instrukcja spolszczenia wersji mobilnej."
 msgstr ""
