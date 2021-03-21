@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-21 22:29+0100\n"
-"PO-Revision-Date: 2021-03-21 22:01+0000\n"
+"PO-Revision-Date: 2021-03-21 23:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -1787,6 +1787,8 @@ msgid ""
 "Destroy target nonblack creature. Create two 0/1 colorless Eldrazi Spawn "
 "creature tokens. They have \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Zniszcz wskazanego nie-czarnego stwora. Stwórz dwa żetony bezkolorowego "
+"stwora Pomiot Eldrazi 0/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:734
 msgid ""
@@ -1797,13 +1799,13 @@ msgstr ""
 
 #: ../../ROE.rst:731
 msgid "As Curse of Wizardry enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten urok na polu bitwy, wybierz kolor."
 
 #: ../../ROE.rst:733
 msgid ""
 "Whenever a player casts a spell of the chosen color, that player loses 1 "
 "life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czar wybranego koloru, ów gracz traci 1 życie."
 
 #: ../../ROE.rst:738
 msgid ""
@@ -1815,7 +1817,7 @@ msgstr ""
 #: ../../ROE.rst:737
 msgid ""
 "Sacrifice Death Cultist: Target player loses 1 life and you gain 1 life."
-msgstr ""
+msgstr "Poświęć tego stwora: Wskazany gracz traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../ROE.rst:746
 msgid ""
@@ -1849,6 +1851,8 @@ msgid ""
 "|mana_x|\\ |mana_b|\\ |mana_b|: Target creature gets -0/-X until end of turn "
 "and Drana, Kalastria Bloodchief gets +X/+0 until end of turn."
 msgstr ""
+"|mana_x|\\ |mana_b|\\ |mana_b|: Wskazany stwór dostaje do końca tury -0/-X, "
+"a ten stwór dostaje do końca tury +X/+0."
 
 #: ../../ROE.rst:756
 msgid ""
@@ -1863,6 +1867,8 @@ msgid ""
 "Spawn creature tokens. They have \"Sacrifice this creature: Add |colorless|."
 "\""
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"stwora Pomiot Eldrazi 0/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:762
 msgid ""
@@ -1876,6 +1882,8 @@ msgid ""
 "Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of "
 "turn."
 msgstr ""
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany, dostaje do końca tury +"
+"5/+0."
 
 #: ../../ROE.rst:766
 msgid ""
@@ -1890,6 +1898,9 @@ msgid ""
 "Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
+"Wskazany gracz traci 3 życia. Zyskaj 3 życia i stwórz trzy żetony "
+"bezkolorowego stwora Pomiot Eldrazi mające \"Poświęć tego stwora: Weź "
+"|colorless|.\""
 
 #: ../../ROE.rst:770
 msgid ""
@@ -1915,11 +1926,11 @@ msgstr ""
 
 #: ../../ROE.rst:779
 msgid "|mana_b|, |tap|: Target creature gets -2/-2 until end of turn."
-msgstr ""
+msgstr "|mana_b|, |tap|: Wskazany stwór dostaje do końca tury -2/-2."
 
 #: ../../ROE.rst:785
 msgid "|mana_b|, |tap|: Target creature gets -4/-4 until end of turn."
-msgstr ""
+msgstr "|mana_b|, |tap|: Wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../ROE.rst:792
 msgid ""
@@ -1935,6 +1946,10 @@ msgid ""
 "of your library. You may cast any number of spells from among cards exiled "
 "this way without paying their mana costs."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, poświęć wszystkie inne "
+"peranenty pod twoim władaniem i odrzuć twoją rękę. Wygnaj sześć wierzchnich "
+"kart twojej biblioteki. Możesz rzucić dowolną liczbę czarów spośród kart "
+"wygnanych w ten sposób bez płacenia ich kosztów many."
 
 #: ../../ROE.rst:798
 msgid ""
@@ -1955,6 +1970,8 @@ msgid ""
 "Target creature gets -X/-X until end of turn, where X is the revealed card's "
 "converted mana cost."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -X/-X, gdzie X jest skrótem many "
+"ujawnionej karty."
 
 #: ../../ROE.rst:802
 msgid ""
@@ -1980,7 +1997,7 @@ msgstr ""
 
 #: ../../ROE.rst:805
 msgid "Last Kiss deals 2 damage to target creature and you gain 2 life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia, zyskaj 2 życia."
 
 #: ../../ROE.rst:810
 msgid ""
@@ -2009,6 +2026,8 @@ msgid ""
 "Target creature gains swampwalk until end of turn. (It can't be blocked as "
 "long as defending player controls a Swamp.)"
 msgstr ""
+"Wskazany stwór zyskuje do końca tury podbój bagien. (Nie może być blokowany "
+"o ile broniący się gracz włada Bagnem.)"
 
 #: ../../ROE.rst:832
 msgid ""
@@ -2027,7 +2046,7 @@ msgstr ""
 
 #: ../../ROE.rst:823
 msgid "4/3"
-msgstr ""
+msgstr "4/3"
 
 #: ../../ROE.rst:825
 msgid "Deathtouch"
@@ -2035,7 +2054,7 @@ msgstr "Dotyk śmierci"
 
 #: ../../ROE.rst:829
 msgid "5/4"
-msgstr ""
+msgstr "5/4"
 
 #: ../../ROE.rst:831
 msgid "First strike, deathtouch"
@@ -2054,7 +2073,7 @@ msgstr "Ilekroć przekręcisz Bagno pobierając manę, weź dodatkowo |mana_b|."
 
 #: ../../ROE.rst:837
 msgid "|mana_b|: Nirkana Revenant gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../ROE.rst:852
 msgid ""
@@ -2065,11 +2084,11 @@ msgstr ""
 
 #: ../../ROE.rst:849
 msgid "7/3"
-msgstr ""
+msgstr "7/3"
 
 #: ../../ROE.rst:851
 msgid "|mana_b|: Regenerate Null Champion."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../ROE.rst:856
 msgid ""
@@ -2084,6 +2103,9 @@ msgid ""
 "may create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice "
 "this creature: Add |colorless|.\""
 msgstr ""
+"Ilekroć umrze ten lub inny nieżetonowy stwór pod twoim władaniem, możesz "
+"stworzyć żeton bezkolorowego stwora Pomiot Eldrazi 0/1 mający \"Poświęć tego "
+"stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:860
 msgid ""
@@ -2097,6 +2119,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a card from it. That player "
 "shuffles that card into their library."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Ów gracz "
+"wtasowuje ową kartę do swojej biblioteki."
 
 #: ../../ROE.rst:866
 msgid ""
@@ -2109,6 +2133,8 @@ msgstr ""
 msgid ""
 "|mana_b|: Pestilence Demon deals 1 damage to each creature and each player."
 msgstr ""
+"|mana_b|: Ten stwór zadaje każdemu stworowi i każdemu graczowi po 1 "
+"obrażeniu."
 
 #: ../../ROE.rst:870
 msgid ""
@@ -2121,6 +2147,8 @@ msgstr ""
 msgid ""
 "Each player's life total becomes the lowest life total among all players."
 msgstr ""
+"Liczba żyć każdego z graczy przyjmuje wartość najniższej liczby żyć pośród "
+"wszystkich graczy."
 
 #: ../../ROE.rst:874
 msgid ""
@@ -2142,7 +2170,7 @@ msgstr ""
 
 #: ../../ROE.rst:877
 msgid "|mana_b|: Regenerate Skeletal Wurm."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../ROE.rst:882
 msgid ""
@@ -2156,6 +2184,8 @@ msgid ""
 "Exile X target cards from target player's graveyard. For each card exiled "
 "this way, that player loses 1 life and you gain 1 life."
 msgstr ""
+"Wygnaj X wskazanych kart z cmentarza wskazanego gracza. Za każdą kartę "
+"wygnaną w ten sposób, ów gracz traci 1 życie a ty zyskaj 1 życie."
 
 #: ../../ROE.rst:890
 msgid ""
@@ -2174,12 +2204,16 @@ msgid ""
 "When Thought Gorger enters the battlefield, put a +1/+1 counter on it for "
 "each card in your hand. If you do, discard your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść na nim tyle znacznikó1 +1/+1, "
+"ile masz kart w ręce. Jeśli tak zrobisz, odrzuć twoją rękę."
 
 #: ../../ROE.rst:889
 msgid ""
 "When Thought Gorger leaves the battlefield, draw a card for each +1/+1 "
 "counter on it."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, dobierz kartę za każdy jego znacznik +1/"
+"+1."
 
 #: ../../ROE.rst:894
 msgid ""
@@ -2193,6 +2227,8 @@ msgid ""
 "Destroy target nonblack creature. It can't be regenerated. You lose life "
 "equal to that creature's toughness."
 msgstr ""
+"Zniszcz wskazanego nie-czarnego stwora. Nie może być zregenerowany. Strać "
+"tyle żyć, ile miał wytrzymałości."
 
 #: ../../ROE.rst:900
 msgid ""
@@ -2225,7 +2261,7 @@ msgstr ""
 
 #: ../../ROE.rst:917
 msgid "Zulaport Enforcer can't be blocked except by black creatures."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany, chyba że przez czarne stwory."
 
 #: ../../ROE.rst:922
 msgid ""
@@ -2239,6 +2275,7 @@ msgid ""
 "When Akoum Boulderfoot enters the battlefield, it deals 1 damage to any "
 "target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../ROE.rst:928
 msgid ""
@@ -2287,7 +2324,7 @@ msgstr "|tap|: Ten stwór zadaje 1 obrażenie w dowolnie wskazany cel."
 
 #: ../../ROE.rst:947
 msgid "|tap|: Brimstone Mage deals 3 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../ROE.rst:952
 msgid ""
@@ -2302,6 +2339,9 @@ msgid ""
 "creature tokens. They have \"Sacrifice this creature: Add |colorless|.\" "
 "Otherwise, create one of those tokens."
 msgstr ""
+"Jeśli władasz Pomiotem Eldrazi, stwórz trzy żetony bezkolorowego stwora "
+"Pomiot Eldrazi 0/1 mające \"Poświęć tego stwora: Weź |colorless|.\" W "
+"przeciwnym razie stwórz jeden taki żeton."
 
 #: ../../ROE.rst:958
 msgid ""
@@ -2316,6 +2356,9 @@ msgid ""
 "creature an opponent controls until end of turn. Untap that creature. It "
 "gains haste until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
+"wskazanym stworem pod władaniem przeciwnika. Odkręć go. Do końca tury "
+"zyskuje on pośpiech."
 
 #: ../../ROE.rst:964
 msgid ""
@@ -2326,11 +2369,11 @@ msgstr ""
 
 #: ../../ROE.rst:961
 msgid "As an additional cost to cast this spell, sacrifice X lands."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć X lądów."
 
 #: ../../ROE.rst:963
 msgid "Create two X/X red Elemental creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony czerwonego stwora Żywiołak X/X."
 
 #: ../../ROE.rst:970
 msgid ""
@@ -2360,6 +2403,8 @@ msgid ""
 "Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony bezkolorowego "
+"stwora Pomiot Eldrazi 0/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:978
 msgid ""
@@ -2375,6 +2420,10 @@ msgid ""
 "card's converted mana cost to that permanent or player. Put the nonland card "
 "into your hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Wskaż dowolny cel. Ujawniaj karty z wierzchu twojej biblioteki aż ujawnisz "
+"nielądową kartę. Ten czar zadaje owemu celowi obrażenia równe skrótowi many "
+"ujawnionej karty. Umieść ową kartę w twojej ręce, a pozostałe dowolnie na "
+"spodzie twojej biblioteki."
 
 #: ../../ROE.rst:986
 msgid ""
@@ -2404,7 +2453,7 @@ msgstr ""
 
 #: ../../ROE.rst:989
 msgid "Flame Slash deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../ROE.rst:994
 msgid ""
@@ -2417,6 +2466,8 @@ msgstr ""
 msgid ""
 "Forked Bolt deals 2 damage divided as you choose among one or two targets."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone dowolnie między jeden lub dwa "
+"wskazane cele."
 
 #: ../../ROE.rst:998
 msgid ""
