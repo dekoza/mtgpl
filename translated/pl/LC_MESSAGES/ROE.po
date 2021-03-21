@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-21 22:29+0100\n"
-"PO-Revision-Date: 2021-03-21 21:38+0000\n"
+"PO-Revision-Date: 2021-03-21 22:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -254,6 +254,8 @@ msgid ""
 "|mana_20|: Cast any number of Eldrazi spells from among cards you own "
 "outside the game without paying their mana costs."
 msgstr ""
+"|mana_20|: Rzuć bez płacenia ich kosztów many dowolną liczbę czarów Eldrazi "
+"spośród kart posiadanych przez ciebie poza grą."
 
 #: ../../ROE.rst:86
 msgid ""
@@ -777,6 +779,8 @@ msgid ""
 "Put target creature into its owner's library second from the top. Its "
 "controller gains 3 life."
 msgstr ""
+"Umieść wskazanego stwora w bibliotece właściciela jako drugą od wierzchu. "
+"Jego władca zyskuje 3 życia."
 
 #: ../../ROE.rst:296
 msgid ""
@@ -854,7 +858,7 @@ msgstr "Obronność"
 
 #: ../../ROE.rst:319
 msgid "Other creatures you control with defender get +0/+2."
-msgstr ""
+msgstr "Inne stwory z obronnością pod twoim władaniem dostają +0/+2."
 
 #: ../../ROE.rst:336
 msgid ""
@@ -982,6 +986,9 @@ msgid ""
 "permanent you control would be destroyed, instead remove all damage from it "
 "and destroy an Aura attached to it.)"
 msgstr ""
+"Aury dołączone do permanentów pod twoim władaniem mają zbroję totemową. ("
+"Jeśli zauroczony permanent pod twoim władaniem miałby zostać zniszczony, "
+"zamiast tego usuń z niego obrażenia i zniszcz dołączoną do niego Aurę.)"
 
 #: ../../ROE.rst:376
 msgid ""
@@ -1003,7 +1010,7 @@ msgstr ""
 
 #: ../../ROE.rst:379
 msgid "Attach target Aura you control to target creature."
-msgstr ""
+msgstr "Dołącz wskazaną Aurę pod twoim władaniem do wskazanego stwora."
 
 #: ../../ROE.rst:386
 msgid ""
@@ -1018,6 +1025,10 @@ msgid ""
 "resolves if you cast it from your hand. At the beginning of your next "
 "upkeep, you may cast that card from exile without paying its mana cost.)"
 msgstr ""
+"Czary sztuczek i obrzędów pod twoim władaniem mają rykoszet. (Jeśli rzucisz "
+"taki czar z twojej ręki, wygnaj go podczas rozpatrzenia. Na początku twojego "
+"najbliższego kroku utrzymania możesz rzucić ową kartę z wygnania bez "
+"płacenia jej kosztu many.)"
 
 #: ../../ROE.rst:392
 msgid ""
@@ -1058,7 +1069,7 @@ msgstr ""
 
 #: ../../ROE.rst:415
 msgid "|mana_2|\\ |mana_u|: Untap enchanted creature."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Odkręć zauroczonego stwora."
 
 #: ../../ROE.rst:424
 msgid ""
@@ -1121,16 +1132,16 @@ msgstr ""
 
 #: ../../ROE.rst:443
 msgid "Dormant Gomazoa enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../ROE.rst:445
 msgid "Dormant Gomazoa doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../ROE.rst:447
 msgid ""
 "Whenever you become the target of a spell, you may untap Dormant Gomazoa."
-msgstr ""
+msgstr "Ilekroć zostaniesz wskazany przez czar, możesz odkręcić tego stwora."
 
 #: ../../ROE.rst:456
 msgid ""
@@ -1203,7 +1214,7 @@ msgstr "POZIOM 1-2"
 
 #: ../../ROE.rst:489 ../../ROE.rst:495
 msgid "0/1"
-msgstr ""
+msgstr "0/1"
 
 #: ../../ROE.rst:491
 msgid "|tap|: Draw a card, then discard a card."
@@ -1238,7 +1249,7 @@ msgstr ""
 
 #: ../../ROE.rst:509
 msgid "|mana_8|: Creatures you control gain flying until end of turn."
-msgstr ""
+msgstr "|mana_8|: Stwory pod twoim władaniem zyskują do końca tury latanie."
 
 #: ../../ROE.rst:516
 msgid ""
@@ -1249,11 +1260,11 @@ msgstr ""
 
 #: ../../ROE.rst:513
 msgid "Creatures with flying get +2/+0."
-msgstr ""
+msgstr "Stwory z lataniem dostają +2/+0."
 
 #: ../../ROE.rst:515
 msgid "Creatures without flying get -2/-0."
-msgstr ""
+msgstr "Stwory bez latania dostają -2/-0."
 
 #: ../../ROE.rst:522
 msgid ""
@@ -1300,7 +1311,7 @@ msgstr ""
 
 #: ../../ROE.rst:547
 msgid "0/6"
-msgstr ""
+msgstr "0/6"
 
 #: ../../ROE.rst:553
 msgid ""
@@ -1326,7 +1337,7 @@ msgstr ""
 
 #: ../../ROE.rst:561
 msgid "Counter target spell. Look at its controller's hand."
-msgstr ""
+msgstr "Skontruj wskazany czar. Spójrz na rękę jego władcy."
 
 #: ../../ROE.rst:576
 msgid ""
@@ -1356,6 +1367,8 @@ msgid ""
 "At the beginning of each end step, if it's not your turn, take an extra turn "
 "after this one."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli nie jest twoja tura, weź "
+"dodatkową turę po obecnej."
 
 #: ../../ROE.rst:580
 msgid ""
@@ -1369,6 +1382,8 @@ msgid ""
 "When Merfolk Observer enters the battlefield, look at the top card of target "
 "player's library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na wierzchnią kartę biblioteki "
+"wskazanego gracza."
 
 #: ../../ROE.rst:586
 msgid ""
@@ -1379,7 +1394,7 @@ msgstr ""
 
 #: ../../ROE.rst:585
 msgid "Whenever Merfolk Skyscout attacks or blocks, untap target permanent."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, odkręć wskazany permanent."
 
 #: ../../ROE.rst:592
 msgid ""
@@ -1421,7 +1436,7 @@ msgstr ""
 msgid ""
 "When Phantasmal Abomination becomes the target of a spell or ability, "
 "sacrifice it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../ROE.rst:612
 msgid ""
@@ -1436,11 +1451,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../ROE.rst:609
 msgid "Tap X target permanents."
-msgstr ""
+msgstr "Przekręć X wskazanych permanentów."
 
 #: ../../ROE.rst:611
 msgid "Untap X target permanents."
-msgstr ""
+msgstr "Odkręć X wskazanych permanentów."
 
 #: ../../ROE.rst:618
 msgid ""
@@ -1451,7 +1466,7 @@ msgstr ""
 
 #: ../../ROE.rst:615
 msgid "Draw cards equal to the number of cards in target opponent's hand."
-msgstr ""
+msgstr "Dobierz tyle kart, ile kart w ręce ma wskazany przeciwnik."
 
 #: ../../ROE.rst:622
 msgid ""
@@ -1477,6 +1492,9 @@ msgid ""
 "have Renegade Doppelganger become a copy of that creature until end of turn. "
 "(If it does, it loses this ability for the rest of the turn.)"
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
+"sprawić, że niniejszy stwór stanie się do końca tury kopią owego stwora. ("
+"Jeśli tak się stanie, traci tę zdolność na resztę tury.)"
 
 #: ../../ROE.rst:630
 msgid ""
@@ -1505,6 +1523,8 @@ msgstr ""
 #: ../../ROE.rst:633
 msgid "Draw two cards, then shuffle a card from your hand into your library."
 msgstr ""
+"Dobierz dwie karty, następnie wtasuj kartę z twojej ręki do twojej "
+"biblioteki."
 
 #: ../../ROE.rst:640
 msgid ""
@@ -1518,6 +1538,8 @@ msgid ""
 "As an additional cost to cast this spell, tap four untapped creatures you "
 "control."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — przekręć cztery odkręcone stwory "
+"pod twoim władaniem."
 
 #: ../../ROE.rst:639
 msgid "Draw three cards."
@@ -1532,7 +1554,7 @@ msgstr ""
 
 #: ../../ROE.rst:653 ../../ROE.rst:845
 msgid "4/2"
-msgstr ""
+msgstr "4/2"
 
 #: ../../ROE.rst:662
 msgid ""
@@ -1546,6 +1568,8 @@ msgid ""
 "|mana_2|\\ |mana_u|: Draw a card, then put a +1/+1 counter on Sphinx of "
 "Magosi."
 msgstr ""
+"|mana_2|\\ |mana_u|: Dobierz kartę, następnie umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../ROE.rst:668
 msgid ""
@@ -1559,12 +1583,16 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may put a charge counter "
 "on Surrakar Spellblade."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz umieścić znacznik ładunku "
+"na tym stworze."
 
 #: ../../ROE.rst:667
 msgid ""
 "Whenever Surrakar Spellblade deals combat damage to a player, you may draw X "
 "cards, where X is the number of charge counters on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać X kart, "
+"gdzie X jest liczbą znaczników ładunku na nim."
 
 #: ../../ROE.rst:672
 msgid ""
@@ -1579,6 +1607,9 @@ msgid ""
 "activate. This effect can't reduce the mana in that cost to less than one "
 "mana."
 msgstr ""
+"Aktywowanie zdolności stworów pod twoim władaniem kosztuje o |mana_2| mniej. "
+"Ten efekt nie może zmniejszyć kosztu many w owym koszcie do mniej niż jednej "
+"many."
 
 #: ../../ROE.rst:676
 msgid ""
@@ -1592,6 +1623,8 @@ msgid ""
 "Counter target spell if you control more creatures than that spell's "
 "controller."
 msgstr ""
+"Skontruj wskazany czar jeśli masz we władaniu więcej stworów niż władca "
+"owego czaru."
 
 #: ../../ROE.rst:680
 msgid ""
@@ -1620,6 +1653,8 @@ msgid ""
 "Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with "
 "power 1 or less, destroy Arrogant Bloodlord at end of combat."
 msgstr ""
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany przez stwora o sile 1 "
+"lub mniejszej, zniszcz niniejszego stwora na końcu potyczki."
 
 #: ../../ROE.rst:688
 msgid ""
@@ -1649,6 +1684,9 @@ msgid ""
 "library. If you do, each opponent loses life equal to that card's converted "
 "mana cost."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz ujawnić wierzchnią kartę twojej "
+"biblioteki. Jeśli tak zrobisz, każdy przeciwnik traci tyle żyć, ile wynosi "
+"jej skrót many."
 
 #: ../../ROE.rst:696
 msgid ""
@@ -1659,7 +1697,7 @@ msgstr ""
 
 #: ../../ROE.rst:695
 msgid "|mana_8|: Target player loses 3 life and you gain 3 life."
-msgstr ""
+msgstr "|mana_8|: Wskazany gracz traci 3 życia, a ty zyskaj 3 życia."
 
 #: ../../ROE.rst:700
 msgid ""
@@ -1699,6 +1737,8 @@ msgid ""
 "Destroy each creature with converted mana cost 3 or less. They can't be "
 "regenerated."
 msgstr ""
+"Zniszcz każdego stwora o skrócie many 3 lub mniej. Nie mogą być "
+"zregenerowane."
 
 #: ../../ROE.rst:716
 msgid ""
@@ -1712,6 +1752,8 @@ msgid ""
 "Target player sacrifices a creature. You gain life equal to that creature's "
 "toughness."
 msgstr ""
+"Wskazany gracz poświęca stwora. Zyskaj życia równe wytrzymałości owego "
+"stwora."
 
 #: ../../ROE.rst:724
 msgid ""
