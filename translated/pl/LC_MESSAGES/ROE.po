@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-14 13:47+0000\n"
+"PO-Revision-Date: 2021-03-21 21:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -125,12 +125,15 @@ msgstr ""
 msgid ""
 "You may sacrifice four Eldrazi Spawn rather than pay this spell's mana cost."
 msgstr ""
+"Możesz poświęcić cztery Pomioty Eldrazi zamiast płacić koszt many tego czaru."
 
 #: ../../ROE.rst:37 ../../ROE.rst:71
 msgid ""
 "Annihilator 1 (Whenever this creature attacks, defending player sacrifices a "
 "permanent.)"
 msgstr ""
+"Anihilacja 1 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca "
+"permanent.)"
 
 #: ../../ROE.rst:46
 msgid ""
@@ -172,6 +175,8 @@ msgid ""
 "Whenever an opponent sacrifices a nontoken permanent, put that card onto the "
 "battlefield under your control."
 msgstr ""
+"Ilekroć przeciwnik poświęci nieżetonowy permanent, umieść ową kartę na polu "
+"bitwy pod twoim władaniem."
 
 #: ../../ROE.rst:58
 msgid ""
@@ -183,12 +188,16 @@ msgstr ""
 #: ../../ROE.rst:55
 msgid "Counter target spell or ability that targets a permanent you control."
 msgstr ""
+"Skontruj wskazany czar lub zdolność, które wskazuje permanent pod twoim "
+"władaniem."
 
 #: ../../ROE.rst:57
 msgid ""
 "This spell costs |mana_7| less to cast if it targets a spell or ability that "
 "targets a creature you control with power 7 or greater."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_7| mniej jeśli wskazuje czar lub "
+"zdolność, które wskazuje stwora o sile 7 lub większej pod twoim władaniem."
 
 #: ../../ROE.rst:64
 msgid ""
@@ -202,10 +211,13 @@ msgid ""
 "Annihilator 3 (Whenever this creature attacks, defending player sacrifices "
 "three permanents.)"
 msgstr ""
+"Anihilacja 3 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca trzy "
+"permanenty.)"
 
 #: ../../ROE.rst:63
 msgid "Pathrazer of Ulamog can't be blocked except by three or more creatures."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez co najmniej trzy stwory."
 
 #: ../../ROE.rst:68
 msgid ""
@@ -219,6 +231,8 @@ msgid ""
 "Create five 0/1 colorless Eldrazi Spawn creature tokens. They have "
 "\"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Stwórz pięć żetonów bezkolorowego stwora Pomiot Eldrazi 1/1 mające \"Poświęć "
+"tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:76
 msgid ""
@@ -232,6 +246,8 @@ msgid ""
 "|mana_4|: Create two 0/1 colorless Eldrazi Spawn creature tokens. They have "
 "\"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"|mana_4|: Stwórz dwa żetony bezkolorowego stwora Pomiot Eldrazi 1/1 mające "
+"\"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:75
 msgid ""
