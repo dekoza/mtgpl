@@ -160,7 +160,7 @@
 
 .. |9ED_percent| image:: images/pie45.png        
 
-.. |ROE_percent| image:: images/pie55.png        
+.. |ROE_percent| image:: images/pie60.png        
 
 .. |RTR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone

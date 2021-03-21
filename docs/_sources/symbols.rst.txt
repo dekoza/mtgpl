@@ -72,6 +72,10 @@
    :alt: {14}
 .. |mana_15| image:: images/mana_15.png
    :alt: {15}
+.. |mana_16| image:: images/mana_16.png
+   :alt: {16}
+.. |mana_20| image:: images/mana_20.png
+   :alt: {20}
 .. |mana_rg| image:: images/mana_rg.png
    :alt: {(r/g)}
 .. |mana_rw| image:: images/mana_rw.png

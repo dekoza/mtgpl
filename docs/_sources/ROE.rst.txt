@@ -72,7 +72,7 @@
 
    |mana_4|: Create two 0/1 colorless Eldrazi Spawn creature tokens. They have "Sacrifice this creature: Add |colorless|."
 
-   {20}: Cast any number of Eldrazi spells from among cards you own outside the game without paying their mana costs.
+   |mana_20|: Cast any number of Eldrazi spells from among cards you own outside the game without paying their mana costs.
 
 
 :mtgtip:`Ulamog, the Infinite Gyre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/225e3cc6-34d0-4f81-9f49-162d97e2ea59.jpg?1562701936|https://scryfall.com/card/roe/12/ulamog-the-infinite-gyre?utm_source=api>`
