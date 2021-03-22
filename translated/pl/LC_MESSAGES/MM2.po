@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 14:28+0000\n"
+"PO-Revision-Date: 2021-03-22 19:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -1238,6 +1238,8 @@ msgid ""
 "Until end of turn, target creature has base power and toughness 4/4, gains "
 "all creature types, and gains flying."
 msgstr ""
+"Do końca tury wskazany stwór ma bazową siłę i wytrzymałość 4/4, zyskuje "
+"wszystkie typy stwora i latanie."
 
 #: ../../MM2.rst:420
 msgid ""
@@ -1251,6 +1253,8 @@ msgid ""
 "At the beginning of your upkeep, you lose 1 life and create a 1/1 black "
 "Faerie Rogue creature token with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, strać 1 życie i stwórz żeton czarnego "
+"stwora Wróżka Łotrzyk 1/1 z lataniem."
 
 #: ../../MM2.rst:424
 msgid ""
@@ -1287,7 +1291,7 @@ msgstr ""
 
 #: ../../MM2.rst:435
 msgid "Daggerclaw Imp can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../MM2.rst:440
 msgid ""
@@ -1314,7 +1318,7 @@ msgstr ""
 
 #: ../../MM2.rst:443
 msgid "Return X target creature cards from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć X wskazanych kart stworów z twojego cmentarza do twojej ręki."
 
 #: ../../MM2.rst:448
 msgid ""
@@ -1339,12 +1343,16 @@ msgid ""
 "As an additional cost to cast this spell, you may sacrifice any number of "
 "Spirits."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz poświęcić dowolną liczbę "
+"Duchów."
 
 #: ../../MM2.rst:453
 msgid ""
 "Target player loses 2 life plus 2 life for each Spirit sacrificed this way. "
 "You gain that much life."
 msgstr ""
+"Wskazany stwór traci 2 życia plus po 2 życia za każdego Ducha poświęconego w "
+"ten sposób. Zyskaj tyle samo żyć."
 
 #: ../../MM2.rst:460
 msgid ""
@@ -1405,12 +1413,15 @@ msgid ""
 "Whenever you cast a creature spell, create X 1/1 black Thrull creature "
 "tokens, where X is that spell's converted mana cost."
 msgstr ""
+"Ilekroć rzucisz czar stwora, stwórz X żetonów czarnego stwora Thrull 1/1, "
+"gdzie X jest skrótem many owego czaru."
 
 #: ../../MM2.rst:475
 msgid ""
 "When you control seven or more Thrulls, sacrifice Endrek Sahr, Master "
 "Breeder."
 msgstr ""
+"Kiedy władasz co najmniej siedmioma Thrullami, poświęć niniejszego stwora."
 
 #: ../../MM2.rst:482
 msgid ""
@@ -1421,7 +1432,7 @@ msgstr ""
 
 #: ../../MM2.rst:481
 msgid "|mana_1|\\ |mana_b|: Ghostly Changeling gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../MM2.rst:486
 msgid ""
@@ -1436,6 +1447,9 @@ msgid ""
 "of permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
+"Umieść znacznik -1/-1 na wskazanym stworze, następnie rozpleń. (Wybierz "
+"dowolną liczbę permanentów i/lub graczy, następnie daj im kolejny znacznik "
+"każdego z już obecnych tam rodzajów.)"
 
 #: ../../MM2.rst:492
 msgid ""
@@ -1446,7 +1460,7 @@ msgstr ""
 
 #: ../../MM2.rst:489
 msgid "Put a -1/-1 counter on target creature."
-msgstr ""
+msgstr "Umieść znacznik -1/-1 na wskazanym stworze."
 
 #: ../../MM2.rst:498
 msgid ""
@@ -1457,13 +1471,15 @@ msgstr ""
 
 #: ../../MM2.rst:495 ../../MM2.rst:507 ../../MM2.rst:557
 msgid "Wither (This deals damage to creatures in the form of -1/-1 counters.)"
-msgstr ""
+msgstr "Zasuszanie (Zadaje obrażenia stworom w postaci znaczników -1/-1.)"
 
 #: ../../MM2.rst:497
 msgid ""
 "At the beginning of your upkeep, put a -1/-1 counter on each nonblack "
 "creature."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik -1/-1 na każdym nie-"
+"czarnym stworze."
 
 #: ../../MM2.rst:504
 msgid ""
@@ -1476,6 +1492,7 @@ msgstr ""
 msgid ""
 "Target creature gets +3/-3 and loses all creature types until end of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/-3 i traci wszystkie typy stwora."
 
 #: ../../MM2.rst:510
 msgid ""
@@ -1489,6 +1506,8 @@ msgid ""
 "Whenever a creature an opponent controls with a -1/-1 counter on it dies, "
 "you may return that card to the battlefield under your control."
 msgstr ""
+"Ilekroć umrze stwór pod władaniem przeciwnika mający znacznik -1/-1, możesz "
+"przywrócić ową kartę na pole bitwy pod twoim władaniem."
 
 #: ../../MM2.rst:514
 msgid ""
@@ -1511,13 +1530,15 @@ msgstr ""
 
 #: ../../MM2.rst:519
 msgid "Target player loses X life."
-msgstr ""
+msgstr "Wskazany gracz traci X żyć."
 
 #: ../../MM2.rst:521
 msgid ""
 "Return target creature card with converted mana cost X or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę stwora o skrócie many X lub mniejszym z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../MM2.rst:523
 msgid "Target creature gets -X/-X until end of turn."
@@ -1542,6 +1563,9 @@ msgid ""
 "an opponent's graveyard onto the battlefield under your control. It gains "
 "haste. At the beginning of your next end step, exile it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść wskazaną kartę stwora z "
+"cmentarza przeciwnika na polu bitwy pod twoim władaniem. Zyskuje on "
+"pośpiech. Na początku twojego najbliższego kroku końcowego, wygnaj go."
 
 #: ../../MM2.rst:533 ../../MM2.rst:743 ../../MM2.rst:1085
 msgid ""
@@ -1578,6 +1602,7 @@ msgid ""
 "Whenever another creature dies, you may put a +1/+1 counter on Scavenger "
 "Drake."
 msgstr ""
+"Ilekroć umrze inny stwór, możesz umieścić znacznik +1/+1 na tym stworze."
 
 #: ../../MM2.rst:550
 msgid ""
@@ -1589,7 +1614,7 @@ msgstr ""
 #: ../../MM2.rst:547
 msgid ""
 "Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Poświęć tego stwora: Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../MM2.rst:549
 msgid ""
@@ -1638,6 +1663,9 @@ msgid ""
 "Destroy target creature, then proliferate. (Choose any number of permanents "
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
+"Zniszcz wskazanego stwora, następnie rozpleń. (Wybierz dowolną liczbę "
+"permanentów i/lub graczy, następnie daj im kolejny znacznik każdego z już "
+"obecnych tam rodzajów.)"
 
 #: ../../MM2.rst:572
 msgid ""

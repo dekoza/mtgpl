@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 08:35+0000\n"
+"PO-Revision-Date: 2021-03-22 19:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1482,6 +1482,8 @@ msgid ""
 "Whenever you cast a creature spell, create X 1/1 black Thrull creature "
 "tokens, where X is that spell's converted mana cost."
 msgstr ""
+"Ilekroć rzucisz czar stwora, stwórz X żetonów czarnego stwora Thrull 1/1, "
+"gdzie X jest skrótem many owego czaru."
 
 # 0ad3dd97a39f4bc8a8612ed4c992a98c
 #: ../../C13.rst:449
@@ -1489,6 +1491,7 @@ msgid ""
 "When you control seven or more Thrulls, sacrifice Endrek Sahr, Master "
 "Breeder."
 msgstr ""
+"Kiedy władasz co najmniej siedmioma Thrullami, poświęć niniejszego stwora."
 
 #: ../../C13.rst:454
 msgid ""

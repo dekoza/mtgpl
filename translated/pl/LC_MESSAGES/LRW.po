@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 14:28+0000\n"
+"PO-Revision-Date: 2021-03-22 19:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -1548,6 +1548,8 @@ msgid ""
 "Until end of turn, target creature has base power and toughness 4/4, gains "
 "all creature types, and gains flying."
 msgstr ""
+"Do końca tury wskazany stwór ma bazową siłę i wytrzymałość 4/4, zyskuje "
+"wszystkie typy stwora i latanie."
 
 #: ../../LRW.rst:570
 msgid ""
@@ -1841,7 +1843,7 @@ msgstr ""
 
 #: ../../LRW.rst:671
 msgid "|mana_1|\\ |mana_b|: Ghostly Changeling gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../LRW.rst:676
 msgid ""
@@ -2036,6 +2038,7 @@ msgstr ""
 msgid ""
 "Target creature gets +3/-3 and loses all creature types until end of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/-3 i traci wszystkie typy stwora."
 
 #: ../../LRW.rst:740
 msgid ""
@@ -2125,13 +2128,15 @@ msgstr ""
 
 #: ../../LRW.rst:773
 msgid "Target player loses X life."
-msgstr ""
+msgstr "Wskazany gracz traci X żyć."
 
 #: ../../LRW.rst:775
 msgid ""
 "Return target creature card with converted mana cost X or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę stwora o skrócie many X lub mniejszym z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../LRW.rst:777
 msgid "Target creature gets -X/-X until end of turn."

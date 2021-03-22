@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 14:28+0000\n"
+"PO-Revision-Date: 2021-03-22 19:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eve/pl/>\n"
 "Language: pl\n"
@@ -582,13 +582,15 @@ msgstr ""
 #: ../../EVE.rst:289 ../../EVE.rst:317 ../../EVE.rst:329 ../../EVE.rst:419
 #: ../../EVE.rst:487 ../../EVE.rst:681 ../../EVE.rst:697
 msgid "Wither (This deals damage to creatures in the form of -1/-1 counters.)"
-msgstr ""
+msgstr "Zasuszanie (Zadaje obrażenia stworom w postaci znaczników -1/-1.)"
 
 #: ../../EVE.rst:205
 msgid ""
 "Whenever a creature an opponent controls with a -1/-1 counter on it dies, "
 "you may return that card to the battlefield under your control."
 msgstr ""
+"Ilekroć umrze stwór pod władaniem przeciwnika mający znacznik -1/-1, możesz "
+"przywrócić ową kartę na pole bitwy pod twoim władaniem."
 
 #: ../../EVE.rst:214
 msgid ""

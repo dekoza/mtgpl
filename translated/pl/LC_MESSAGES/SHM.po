@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 14:28+0000\n"
+"PO-Revision-Date: 2021-03-22 19:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -891,7 +891,7 @@ msgstr ""
 #: ../../SHM.rst:903 ../../SHM.rst:997 ../../SHM.rst:1065 ../../SHM.rst:1135
 #: ../../SHM.rst:1325
 msgid "Wither (This deals damage to creatures in the form of -1/-1 counters.)"
-msgstr ""
+msgstr "Zasuszanie (Zadaje obrażenia stworom w postaci znaczników -1/-1.)"
 
 #: ../../SHM.rst:309
 msgid "|mana_1|\\ |mana_b|: Regenerate Cinderbones."
@@ -1081,6 +1081,8 @@ msgid ""
 "At the beginning of your upkeep, put a -1/-1 counter on each nonblack "
 "creature."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik -1/-1 na każdym nie-"
+"czarnym stworze."
 
 #: ../../SHM.rst:380
 msgid ""
@@ -1122,6 +1124,9 @@ msgid ""
 "an opponent's graveyard onto the battlefield under your control. It gains "
 "haste. At the beginning of your next end step, exile it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść wskazaną kartę stwora z "
+"cmentarza przeciwnika na polu bitwy pod twoim władaniem. Zyskuje on "
+"pośpiech. Na początku twojego najbliższego kroku końcowego, wygnaj go."
 
 #: ../../SHM.rst:398
 msgid ""
@@ -2735,7 +2740,7 @@ msgstr ""
 
 #: ../../SHM.rst:1017
 msgid "Put a -1/-1 counter on target creature."
-msgstr ""
+msgstr "Umieść znacznik -1/-1 na wskazanym stworze."
 
 #: ../../SHM.rst:1024
 msgid ""
