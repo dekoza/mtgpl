@@ -1,6 +1,8 @@
 ***********
 Spis zmian
 ***********
+2021-03-22
+   * Rise of the Eldrazi - 100%
 
 2021-03-21
    * Dark Ascension - 100%
