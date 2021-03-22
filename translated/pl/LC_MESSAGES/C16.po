@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 08:35+0000\n"
+"PO-Revision-Date: 2021-03-22 14:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -1664,6 +1664,9 @@ msgid ""
 "Draw two cards, then proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
+"Dobierz dwie karty, następnie rozpleń. (Wybierz dowolną liczbę permanentów i/"
+"lub graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../C16.rst:584
 msgid ""
@@ -1678,6 +1681,9 @@ msgid ""
 "any number of permanents and/or players, then give each another counter of "
 "each kind already there.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, rozpleń. (Wybierz dowolną "
+"liczbę permanentów i/lub graczy, następnie daj im kolejny znacznik każdego z "
+"już obecnych tam rodzajów.)"
 
 #: ../../C16.rst:590
 msgid ""
@@ -2075,13 +2081,15 @@ msgstr ""
 
 #: ../../C16.rst:705
 msgid "+2: Discard up to two cards, then draw that many cards."
-msgstr ""
+msgstr "+2: Odrzuć co najwyżej dwie karty, następnie dobierz tyle samo kart."
 
 #: ../../C16.rst:707
 msgid ""
 "−2: Sacrifice an artifact. If you do, return target artifact card from your "
 "graveyard to the battlefield."
 msgstr ""
+"–2: Poświęć artefakt. Jeśli tak zrobisz, przywróć wskazaną kartę artefaktu z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../C16.rst:709
 msgid ""
@@ -2089,10 +2097,13 @@ msgid ""
 "graveyard from the battlefield, return that card to the battlefield at the "
 "beginning of the next end step.\""
 msgstr ""
+"–10: Dostajesz emblemat mający \"Ilekroć artefakt trafi do twojego cmentarza "
+"z pola bitwy, przywróć ową kartę na pole bitwy na początku najbliższego "
+"kroku końcowego.\""
 
 #: ../../C16.rst:711
 msgid "Daretti, Scrap Savant can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../C16.rst:718
 msgid ""

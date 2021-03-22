@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 08:35+0000\n"
+"PO-Revision-Date: 2021-03-22 14:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -246,6 +246,8 @@ msgid ""
 "Whenever a creature you control attacks alone, it gains lifelink until end "
 "of turn."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zaatakuje samotnie, zyskuje do końca tury "
+"więź życia."
 
 #: ../../MM2.rst:82
 msgid ""
@@ -281,6 +283,8 @@ msgid ""
 "When Conclave Phalanx enters the battlefield, you gain 1 life for each "
 "creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 1 życiu za każdego stwora "
+"pod twoim władaniem."
 
 #: ../../MM2.rst:92
 msgid ""
@@ -399,6 +403,9 @@ msgid ""
 "or more artifacts. (An artifact with shroud can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Metalurgia — Artefakty pod twoim władaniem mają antymagię o ile władasz co "
+"najmniej trzema artefaktami. (Artefakt z antymagią nie może być wskazywany "
+"przez czary i zdolności.)"
 
 #: ../../MM2.rst:140
 msgid ""
@@ -409,11 +416,11 @@ msgstr ""
 
 #: ../../MM2.rst:137
 msgid "As Iona, Shield of Emeria enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy, wybierz kolor."
 
 #: ../../MM2.rst:139
 msgid "Your opponents can't cast spells of the chosen color."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów o wybranym kolorze."
 
 #: ../../MM2.rst:144
 msgid ""
@@ -424,7 +431,7 @@ msgstr ""
 
 #: ../../MM2.rst:143
 msgid "Sacrifice Kami of Ancient Law: Destroy target enchantment."
-msgstr ""
+msgstr "Poświęć tego stwora: Zniszcz wskazany urok."
 
 #: ../../MM2.rst:148
 msgid ""
@@ -438,6 +445,8 @@ msgid ""
 "As long as Kor Duelist is equipped, it has double strike. (It deals both "
 "first-strike and regular combat damage.)"
 msgstr ""
+"O ile ten stwór jest wyposażony, ma podwójny cios. (Zadaje obrażenia bojowe "
+"zarówno w pierwszym ciosie i normalnie.)"
 
 #: ../../MM2.rst:154
 msgid ""
@@ -482,7 +491,7 @@ msgstr ""
 
 #: ../../MM2.rst:161
 msgid "Double strike, protection from black and from green"
-msgstr ""
+msgstr "Podwójny cios, ochrona przez czarnym i zielonym"
 
 #: ../../MM2.rst:168
 msgid ""
@@ -516,6 +525,8 @@ msgid ""
 "Sacrifice Moonlit Strider: Target creature you control gains protection from "
 "the color of your choice until end of turn."
 msgstr ""
+"Poświęć tego stwora: Wskazany stwór pod twoim władaniem zyskuje do końca "
+"tury ochronę przed wybranym przez cienie kolorem."
 
 #: ../../MM2.rst:173
 msgid ""
@@ -608,7 +619,7 @@ msgstr ""
 
 #: ../../MM2.rst:199
 msgid "Create three 1/1 white Spirit creature tokens with flying."
-msgstr ""
+msgstr "Stwórz trzy żetony białego stwora Duch 1/1 z lataniem."
 
 #: ../../MM2.rst:204
 msgid ""
@@ -631,7 +642,7 @@ msgstr ""
 #: ../../MM2.rst:207
 msgid ""
 "As long as Sunspear Shikari is equipped, it has first strike and lifelink."
-msgstr ""
+msgstr "O ile ten stwór jest wyposażony, ma pierwszy cios i więź życia."
 
 #: ../../MM2.rst:212
 msgid ""
@@ -659,6 +670,7 @@ msgid ""
 "Destroy target artifact or enchantment. You gain life equal to its converted "
 "mana cost."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok. Zyskaj życia równe jego skrótowi many."
 
 #: ../../MM2.rst:222
 msgid ""
@@ -726,6 +738,9 @@ msgid ""
 "under your control at the beginning of the next end step. Activate this "
 "ability only if you control three or more artifacts."
 msgstr ""
+"Metalurgia — |mana_u|: Wygnaj tego stwora. Przywróć go na pole bitwy pod "
+"twoim władaniem na początku najbliższego kroku końcowego. Możesz aktywować "
+"tylko jeśli władasz co najmniej trzema artefaktami."
 
 #: ../../MM2.rst:246
 msgid ""
@@ -804,18 +819,23 @@ msgstr ""
 #: ../../MM2.rst:271
 msgid "Guile can't be blocked except by three or more creatures."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez co najmniej trzy stwory."
 
 #: ../../MM2.rst:273
 msgid ""
 "If a spell or ability you control would counter a spell, instead exile that "
 "spell and you may play that card without paying its mana cost."
 msgstr ""
+"Jeśli czar lub zdolność pod twoim władaniem miałby skontrować czar, zamiast "
+"tego wygnaj ów czar i możesz zagrać ową kartę bez płacenia jej kosztu many."
 
 #: ../../MM2.rst:275
 msgid ""
 "When Guile is put into a graveyard from anywhere, shuffle it into its "
 "owner's library."
 msgstr ""
+"Kiedy ten stwór jest umieszczany skądkolwiek w cmentarzu, wtasuj go do "
+"biblioteki właściciela."
 
 #: ../../MM2.rst:282
 msgid ""
@@ -839,6 +859,7 @@ msgid ""
 "|mana_1|: Target creature with a +1/+1 counter on it gains flying until end "
 "of turn."
 msgstr ""
+"|mana_1|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury latanie."
 
 #: ../../MM2.rst:286
 msgid ""
@@ -865,6 +886,9 @@ msgid ""
 "Whenever you cast a spell, proliferate. (Choose any number of permanents and/"
 "or players, then give each another counter of each kind already there.)"
 msgstr ""
+"Ilekroć rzucisz czar, rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
+"graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../MM2.rst:294
 msgid ""
@@ -932,6 +956,8 @@ msgid ""
 "|mana_1|, Remove two +1/+1 counters from among creatures you control: Draw a "
 "card."
 msgstr ""
+"|mana_1|, usuń dwa znaczniki +1/+1 spośród stworów pod twoim władaniem: "
+"Dobierz kartę."
 
 #: ../../MM2.rst:320
 msgid ""
@@ -946,6 +972,8 @@ msgid ""
 "Affinity for artifacts (This spell costs |mana_1| less to cast for each "
 "artifact you control.)"
 msgstr ""
+"Koligacja z artefaktami (Rzucenie tego czaru kosztuje o |mana_1| za każdy "
+"artefakt pod twoim władaniem.)"
 
 #: ../../MM2.rst:326
 msgid ""
@@ -1010,6 +1038,8 @@ msgid ""
 "Metalcraft — This spell costs |mana_1| less to cast if you control three or "
 "more artifacts."
 msgstr ""
+"Metalurgia — Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../MM2.rst:356
 msgid ""
@@ -1059,19 +1089,23 @@ msgstr ""
 
 #: ../../MM2.rst:363
 msgid "+1: Untap up to two target artifacts."
-msgstr ""
+msgstr "+1: Odkręć co najwyżej dwa wskazane artefakty."
 
 #: ../../MM2.rst:365
 msgid ""
 "−X: Search your library for an artifact card with converted mana cost X or "
 "less and put it onto the battlefield. Then shuffle your library."
 msgstr ""
+"–X: Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub "
+"mniejszym i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../MM2.rst:367
 msgid ""
 "−5: Artifacts you control become artifact creatures with base power and "
 "toughness 5/5 until end of turn."
 msgstr ""
+"–5: Artefakty pod twoim władaniem stają się do końca tury artefaktowymi "
+"stworami o bazowej sile i wtrzymałości 5/5."
 
 #: ../../MM2.rst:374
 msgid ""
@@ -1089,6 +1123,9 @@ msgid ""
 "Draw two cards, then proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
+"Dobierz dwie karty, następnie rozpleń. (Wybierz dowolną liczbę permanentów i/"
+"lub graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../MM2.rst:380
 msgid ""
@@ -1114,6 +1151,9 @@ msgid ""
 "any number of permanents and/or players, then give each another counter of "
 "each kind already there.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, rozpleń. (Wybierz dowolną "
+"liczbę permanentów i/lub graczy, następnie daj im kolejny znacznik każdego z "
+"już obecnych tam rodzajów.)"
 
 #: ../../MM2.rst:390
 msgid ""
@@ -1126,6 +1166,7 @@ msgstr ""
 msgid ""
 "Return target creature to its owner's hand. Its controller loses 1 life."
 msgstr ""
+"Przywróć wskazanego stwora do ręki właściciela. Jego władca traci 1 życie."
 
 #: ../../MM2.rst:398
 msgid ""
@@ -1144,6 +1185,10 @@ msgid ""
 "You may choose a nonland card from it. If you do, that player reveals the "
 "chosen card, puts it on the bottom of their library, then draws a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na rękę wskazanego gracza. "
+"Możesz wybrać z niej nielądową kartę. Jeśli tak zrobisz, ów gracz ujawnia "
+"ową kartę, umieszcza ją na spodzie swojej biblioteki, następnie dobiera "
+"kartę."
 
 #: ../../MM2.rst:404
 msgid ""
@@ -1158,10 +1203,13 @@ msgid ""
 "Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 2 (Ten stwór wchodzi na pole bitwy mając 2 znaczniki +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../MM2.rst:403
 msgid "|mana_1|\\ |mana_u|: Untap target creature with a +1/+1 counter on it."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Odkręć wskazanego stwora mającego znacznik +1/+1."
 
 #: ../../MM2.rst:410
 msgid ""

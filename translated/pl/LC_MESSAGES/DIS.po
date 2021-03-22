@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-11 15:15+0000\n"
+"PO-Revision-Date: 2021-03-22 14:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -398,6 +398,9 @@ msgid ""
 "Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 2 (Ten stwór wchodzi na pole bitwy mając 2 znaczniki +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../DIS.rst:137
 msgid ""
@@ -463,6 +466,7 @@ msgid ""
 "|mana_1|: Target creature with a +1/+1 counter on it gains flying until end "
 "of turn."
 msgstr ""
+"|mana_1|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury latanie."
 
 #: ../../DIS.rst:162
 msgid ""
@@ -486,6 +490,8 @@ msgid ""
 "|mana_1|, Remove two +1/+1 counters from among creatures you control: Draw a "
 "card."
 msgstr ""
+"|mana_1|, usuń dwa znaczniki +1/+1 spośród stworów pod twoim władaniem: "
+"Dobierz kartę."
 
 #: ../../DIS.rst:170
 msgid ""
@@ -607,7 +613,7 @@ msgstr ""
 
 #: ../../DIS.rst:213
 msgid "|mana_1|\\ |mana_u|: Untap target creature with a +1/+1 counter on it."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Odkręć wskazanego stwora mającego znacznik +1/+1."
 
 #: ../../DIS.rst:218
 msgid ""

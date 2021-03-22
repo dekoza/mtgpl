@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-20 00:00+0000\n"
+"PO-Revision-Date: 2021-03-22 14:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -209,6 +209,9 @@ msgid ""
 "or more artifacts. (An artifact with shroud can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Metalurgia — Artefakty pod twoim władaniem mają antymagię o ile władasz co "
+"najmniej trzema artefaktami. (Artefakt z antymagią nie może być wskazywany "
+"przez czary i zdolności.)"
 
 #: ../../SOM.rst:70
 msgid ""
@@ -356,7 +359,7 @@ msgstr ""
 #: ../../SOM.rst:119
 msgid ""
 "As long as Sunspear Shikari is equipped, it has first strike and lifelink."
-msgstr ""
+msgstr "O ile ten stwór jest wyposażony, ma pierwszy cios i więź życia."
 
 #: ../../SOM.rst:124
 msgid ""
@@ -417,6 +420,9 @@ msgid ""
 "under your control at the beginning of the next end step. Activate this "
 "ability only if you control three or more artifacts."
 msgstr ""
+"Metalurgia — |mana_u|: Wygnaj tego stwora. Przywróć go na pole bitwy pod "
+"twoim władaniem na początku najbliższego kroku końcowego. Możesz aktywować "
+"tylko jeśli władasz co najmniej trzema artefaktami."
 
 #: ../../SOM.rst:150
 msgid ""
@@ -521,6 +527,9 @@ msgid ""
 "Whenever you cast a spell, proliferate. (Choose any number of permanents and/"
 "or players, then give each another counter of each kind already there.)"
 msgstr ""
+"Ilekroć rzucisz czar, rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
+"graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../SOM.rst:188
 msgid ""
@@ -667,6 +676,8 @@ msgid ""
 "Metalcraft — This spell costs |mana_1| less to cast if you control three or "
 "more artifacts."
 msgstr ""
+"Metalurgia — Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../SOM.rst:237
 msgid "Counter target spell."
@@ -685,6 +696,9 @@ msgid ""
 "any number of permanents and/or players, then give each another counter of "
 "each kind already there.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, rozpleń. (Wybierz dowolną "
+"liczbę permanentów i/lub graczy, następnie daj im kolejny znacznik każdego z "
+"już obecnych tam rodzajów.)"
 
 #: ../../SOM.rst:248
 msgid ""
