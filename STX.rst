@@ -5,6 +5,16 @@
 ==========================================
 
 
+:mtgtip:`Kasmina, Enigma Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/178bf300-38cf-4ab2-9e66-6fcaa112b649.jpg?1616416456|https://scryfall.com/card/stx/196/kasmina-enigma-sage?utm_source=api>`
+   Each other planeswalker you control has the loyalty abilities of Kasmina, Enigma Sage.
+
+   +2: Scry 1.
+
+   −X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it.
+
+   −8: Search your library for an instant or sorcery card that shares a color with this planeswalker, exile that card, then shuffle. You may cast that card without paying its mana cost.
+
+
 :mtgtip:`Lorehold Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4f0885f-1049-4a19-853d-f4e6d4bec29e.jpg?1614152837|https://scryfall.com/card/stx/199/lorehold-command?utm_source=api>`
    Choose two —
 
@@ -53,8 +63,8 @@
    • Target opponent sacrifices a creature.
 
 
-:mtgtip:`Witherbloom Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87d5e94b-0b35-4efd-9158-1767dcaea38c.jpg?1614152945|https://scryfall.com/card/stx/248/witherbloom-command?utm_source=api>`
-   Choose two -
+:mtgtip:`Witherbloom Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87d5e94b-0b35-4efd-9158-1767dcaea38c.jpg?1616399908|https://scryfall.com/card/stx/248/witherbloom-command?utm_source=api>`
+   Choose two —
 
    • Target player mills three cards, then you return a land card from your graveyard to your hand.
 
