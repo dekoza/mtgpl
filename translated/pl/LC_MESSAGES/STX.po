@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 01:32+0100\n"
-"PO-Revision-Date: 2021-03-23 00:33+0000\n"
+"PO-Revision-Date: 2021-03-23 00:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -34,24 +34,32 @@ msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, each "
 "opponent loses 2 life and you gain 2 life."
 msgstr ""
+"Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
+"każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../STX.rst:11
 msgid ""
 "+1: You lose 1 life. Look at the top three cards of your library. Put one of "
 "them into your hand and the rest into your graveyard."
 msgstr ""
+"+1: Strać 1 życie. Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść "
+"jedną z nich w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../STX.rst:13
 msgid ""
 "−3: Each opponent sacrifices a creature with the greatest power among "
 "creatures that player controls."
 msgstr ""
+"–3: Każdy przeciwnik poświęca stwora o największej sile spośród stworów pod "
+"swoim władaniem."
 
 #: ../../STX.rst:15
 msgid ""
 "−8: Each opponent may discard a card. If they don't, they lose 3 life. "
 "Repeat this process six more times."
 msgstr ""
+"–8: Każdy przeciwnik może odrzucić kartę. Jeśli tego nie zrobi, traci 3 "
+"życia. Powtórz ten proces jeszcze sześć razy."
 
 #: ../../STX.rst:26
 msgid ""
@@ -65,6 +73,8 @@ msgid ""
 "Each other planeswalker you control has the loyalty abilities of Kasmina, "
 "Enigma Sage."
 msgstr ""
+"Każdy inny wędrowiec pod twoim władaniem ma zdolności lojalnościowe tego "
+"wędrowca."
 
 #: ../../STX.rst:21
 msgid "+2: Scry 1."
@@ -75,6 +85,8 @@ msgid ""
 "−X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters "
 "on it."
 msgstr ""
+"–X: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
+"znaczników +1/+1."
 
 #: ../../STX.rst:25
 msgid ""
@@ -82,6 +94,9 @@ msgid ""
 "with this planeswalker, exile that card, then shuffle. You may cast that "
 "card without paying its mana cost."
 msgstr ""
+"–8: Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu mającą wspólny "
+"kolor z tym wędrowcem, wygnaj ową kartę, następnie przetasuj. Możesz rzucić "
+"ową kartę bez płacenia jej kosztu many."
 
 #: ../../STX.rst:38
 msgid ""
