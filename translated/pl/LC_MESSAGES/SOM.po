@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 00:31+0000\n"
+"PO-Revision-Date: 2021-03-23 15:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -1951,7 +1951,7 @@ msgstr ""
 
 #: ../../SOM.rst:697
 msgid "Equip |mana_6|"
-msgstr ""
+msgstr "Wyposaż |mana_6|"
 
 #: ../../SOM.rst:702
 msgid ""
@@ -2616,6 +2616,8 @@ msgid ""
 "Metalcraft — |tap|: Add one mana of any color. Activate this ability only if "
 "you control three or more artifacts."
 msgstr ""
+"Metalurgia — |tap|: Weź jedną manę dowolnego koloru. Możesz aktywować tylko "
+"jeśli władasz co najmniej trzema artefaktami."
 
 #: ../../SOM.rst:938
 msgid ""
@@ -2638,6 +2640,9 @@ msgid ""
 "If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage "
 "to the player or planeswalker it's attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
+"władaniem. Jeśli tak zrobisz, ten stwór dostaje do końca tury +X/+0 i zadaje "
+"atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../SOM.rst:944
 msgid ""
@@ -3070,6 +3075,7 @@ msgstr ""
 msgid ""
 "Equipped creature gets +2/+2 and has protection from green and from blue."
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma ochronę przed zielonym i niebieskim."
 
 #: ../../SOM.rst:1089
 msgid ""
@@ -3118,6 +3124,9 @@ msgid ""
 "|tap|, Sacrifice an artifact: Proliferate. (Choose any number of permanents "
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
+"|tap|, poświęć artefakt: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
+"graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../SOM.rst:1112
 msgid ""
@@ -3251,13 +3260,15 @@ msgstr ""
 
 #: ../../SOM.rst:1155
 msgid "Tumble Magnet enters the battlefield with three charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki ładunku."
 
 #: ../../SOM.rst:1157
 msgid ""
 "|tap|, Remove a charge counter from Tumble Magnet: Tap target artifact or "
 "creature."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego artefaktu: Przekręć wskazany artefakt "
+"lub stwora."
 
 #: ../../SOM.rst:1162
 msgid ""
@@ -3336,6 +3347,9 @@ msgid ""
 "token with deathtouch and a 3/3 colorless Wurm artifact creature token with "
 "lifelink."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Żmij "
+"3/3 z dotykiem śmierci oraz żeton bezkolorowego artefaktowego stwora Żmij 3/"
+"3 z więzią życia."
 
 #: ../../SOM.rst:1190
 msgid ""

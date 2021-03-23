@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 00:31+0000\n"
+"PO-Revision-Date: 2021-03-23 15:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -3430,6 +3430,8 @@ msgid ""
 "Sunburst (This enters the battlefield with a charge counter on it for each "
 "color of mana spent to cast it.)"
 msgstr ""
+"Rozbłysk słońca (Ten permanent wchodzi na pole bitwy mając tyle znaczników "
+"ładunku, ile kolorów many użyto do rzucenia go.)"
 
 #: ../../MMA.rst:1173
 msgid ""
@@ -3536,6 +3538,8 @@ msgid ""
 "When Myr Retriever dies, return another target artifact card from your "
 "graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć inną wskazaną kartę artefaktu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../MMA.rst:1210
 msgid ""
@@ -3558,10 +3562,11 @@ msgstr ""
 #: ../../MMA.rst:1213
 msgid "|mana_r|, Sacrifice Pyrite Spellbomb: It deals 2 damage to any target."
 msgstr ""
+"|mana_r|, poświęć ten artefakt: Zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../MMA.rst:1215
 msgid "|mana_1|, Sacrifice Pyrite Spellbomb: Draw a card."
-msgstr ""
+msgstr "|mana_1|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../MMA.rst:1222
 msgid ""
@@ -3614,12 +3619,15 @@ msgstr ""
 #: ../../MMA.rst:1237
 msgid "Equipped creature gets +2/+2 and has protection from red and from blue."
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma ochronę przed czerwonym i niebieskim."
 
 #: ../../MMA.rst:1239
 msgid ""
 "Whenever equipped creature deals combat damage to a player, Sword of Fire "
 "and Ice deals 2 damage to any target and you draw a card."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ten artefakt zadaje "
+"wskazanemu celowi 2 obrażenia, a ty dobierz kartę."
 
 #: ../../MMA.rst:1250
 msgid ""
@@ -3632,7 +3640,7 @@ msgstr ""
 #: ../../MMA.rst:1245
 msgid ""
 "Equipped creature gets +2/+2 and has protection from white and from black."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma ochronę przed białym i czarnym."
 
 #: ../../MMA.rst:1247
 msgid ""
@@ -3640,6 +3648,9 @@ msgid ""
 "and you may return up to one target creature card from your graveyard to "
 "your hand."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, zyskaj 3 życia i "
+"możesz przywrócić co najwyżej jedną wskazaną kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../MMA.rst:1256
 msgid ""
@@ -3675,6 +3686,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Put target artifact card from your graveyard on "
 "top of your library."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Umieść wskazana kartę artefaktu z twojego "
+"cmentarza na wierzchu twojej biblioteki."
 
 #: ../../MMA.rst:1270
 msgid ""
@@ -3739,6 +3752,7 @@ msgid ""
 "At the beginning of the end step, if you control no artifacts, sacrifice "
 "Glimmervoid."
 msgstr ""
+"Na początku kroku końcowego, jeśli nie władasz artefaktem, poświęć ten ląd."
 
 #: ../../MMA.rst:1294
 msgid ""

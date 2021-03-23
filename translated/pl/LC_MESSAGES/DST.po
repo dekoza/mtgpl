@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 14:28+0000\n"
+"PO-Revision-Date: 2021-03-23 15:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dst/pl/>\n"
 "Language: pl\n"
@@ -2000,6 +2000,9 @@ msgid ""
 "as a sorcery. This card enters the battlefield unattached and stays on the "
 "battlefield if the creature leaves.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd. Ta karta wchodzi na pole bitwy odłączona i zostaje na "
+"polu bitwy po opuszczeniu go przez stwora.)"
 
 #: ../../DST.rst:726
 msgid ""
@@ -2208,6 +2211,8 @@ msgid ""
 "When Sundering Titan enters the battlefield or leaves the battlefield, "
 "choose a land of each basic land type, then destroy those lands."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub je opuści, wybierz po lądzie "
+"każdego bazowego typu, następnie zniszcz owe lądy."
 
 #: ../../DST.rst:804
 msgid ""
@@ -2240,12 +2245,15 @@ msgstr ""
 #: ../../DST.rst:807
 msgid "Equipped creature gets +2/+2 and has protection from red and from blue."
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma ochronę przed czerwonym i niebieskim."
 
 #: ../../DST.rst:809
 msgid ""
 "Whenever equipped creature deals combat damage to a player, Sword of Fire "
 "and Ice deals 2 damage to any target and you draw a card."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ten artefakt zadaje "
+"wskazanemu celowi 2 obrażenia, a ty dobierz kartę."
 
 #: ../../DST.rst:811 ../../DST.rst:819 ../../DST.rst:873
 msgid "Equip |mana_2|"
@@ -2262,7 +2270,7 @@ msgstr ""
 #: ../../DST.rst:815
 msgid ""
 "Equipped creature gets +2/+2 and has protection from white and from black."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma ochronę przed białym i czarnym."
 
 #: ../../DST.rst:817
 msgid ""
@@ -2270,6 +2278,9 @@ msgid ""
 "and you may return up to one target creature card from your graveyard to "
 "your hand."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, zyskaj 3 życia i "
+"możesz przywrócić co najwyżej jedną wskazaną kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DST.rst:826
 msgid ""
@@ -2351,6 +2362,11 @@ msgid ""
 "that would cost |mana_1|\\ |mana_b| to cast costs |mana_2|\\ |mana_b| to "
 "cast instead.)"
 msgstr ""
+"O ile ten artefakt jest odkręcony każdy czar, którego rzucenie miałoby "
+"kosztować mniej niż trzy many, kosztuje trzy many. (Dodatkowa mana w koszcie "
+"może być płacona dowolnym kolorem many lub maną bezkolorową. Na przykład "
+"jeśli rzucenie czaru miałoby kosztować |mana_1|\\ |mana_b|, zamiast tego "
+"kosztuje |mana_2|\\ |mana_b|.)"
 
 #: ../../DST.rst:848
 msgid ""

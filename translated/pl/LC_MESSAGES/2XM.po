@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 01:02+0000\n"
+"PO-Revision-Date: 2021-03-23 15:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -4374,6 +4374,8 @@ msgid ""
 "Sunburst (This enters the battlefield with a charge counter on it for each "
 "color of mana spent to cast it.)"
 msgstr ""
+"Rozbłysk słońca (Ten permanent wchodzi na pole bitwy mając tyle znaczników "
+"ładunku, ile kolorów many użyto do rzucenia go.)"
 
 #: ../../2XM.rst:1355
 msgid ""
@@ -4733,7 +4735,7 @@ msgstr ""
 msgid ""
 "Whenever a permanent becomes untapped, that permanent's controller mills a "
 "card."
-msgstr ""
+msgstr "Ilekroć permanent zostanie odkręcony, jego władca mieli kartę."
 
 #: ../../2XM.rst:1476
 msgid ""
@@ -4784,6 +4786,8 @@ msgid ""
 "Metalcraft — |tap|: Add one mana of any color. Activate this ability only if "
 "you control three or more artifacts."
 msgstr ""
+"Metalurgia — |tap|: Weź jedną manę dowolnego koloru. Możesz aktywować tylko "
+"jeśli władasz co najmniej trzema artefaktami."
 
 #: ../../2XM.rst:1490
 msgid ""
@@ -4806,6 +4810,9 @@ msgid ""
 "If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage "
 "to the player or planeswalker it's attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
+"władaniem. Jeśli tak zrobisz, ten stwór dostaje do końca tury +X/+0 i zadaje "
+"atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../2XM.rst:1494
 msgid ""
@@ -4819,6 +4826,8 @@ msgid ""
 "When Myr Retriever dies, return another target artifact card from your "
 "graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć inną wskazaną kartę artefaktu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../2XM.rst:1502
 msgid ""
@@ -4829,7 +4838,7 @@ msgstr ""
 
 #: ../../2XM.rst:1497
 msgid "O-Naginata can be attached only to a creature with power 3 or greater."
-msgstr ""
+msgstr "Ten artefakt może być dołączony tylko do stwora o sile 3 lub większej."
 
 #: ../../2XM.rst:1499
 msgid "Equipped creature gets +3/+0 and has trample."
@@ -4873,7 +4882,7 @@ msgstr ""
 
 #: ../../2XM.rst:1511
 msgid "When Peace Strider enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../2XM.rst:1518
 msgid ""
@@ -4885,6 +4894,7 @@ msgstr ""
 #: ../../2XM.rst:1517
 msgid "Remove a charge counter from Pentad Prism: Add one mana of any color."
 msgstr ""
+"Usuń znacznik ładunku z tego artefaktu: Weź jedną manę dowolnego koloru."
 
 #: ../../2XM.rst:1524
 msgid ""
@@ -4912,10 +4922,11 @@ msgstr ""
 #: ../../2XM.rst:1527
 msgid "|mana_r|, Sacrifice Pyrite Spellbomb: It deals 2 damage to any target."
 msgstr ""
+"|mana_r|, poświęć ten artefakt: Zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../2XM.rst:1529
 msgid "|mana_1|, Sacrifice Pyrite Spellbomb: Draw a card."
-msgstr ""
+msgstr "|mana_1|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../2XM.rst:1536
 msgid ""
@@ -4963,6 +4974,8 @@ msgid ""
 "You may have Sculpting Steel enter the battlefield as a copy of any artifact "
 "on the battlefield."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy możesz ją zmienić w kopię artefaktu "
+"obecnego na polu bitwy."
 
 #: ../../2XM.rst:1554
 msgid ""
@@ -4984,11 +4997,11 @@ msgstr ""
 
 #: ../../2XM.rst:1559
 msgid "Equipped creature gets +2/+2 and has flying."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma latanie."
 
 #: ../../2XM.rst:1561
 msgid "Equip |mana_6|"
-msgstr ""
+msgstr "Wyposaż |mana_6|"
 
 #: ../../2XM.rst:1566
 msgid ""
@@ -5049,6 +5062,8 @@ msgid ""
 "When Sundering Titan enters the battlefield or leaves the battlefield, "
 "choose a land of each basic land type, then destroy those lands."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub je opuści, wybierz po lądzie "
+"każdego bazowego typu, następnie zniszcz owe lądy."
 
 #: ../../2XM.rst:1590
 msgid ""
@@ -5067,6 +5082,9 @@ msgid ""
 "white instant card with converted mana cost 4 or less and cast that card "
 "without paying its mana cost. Then shuffle your library."
 msgstr ""
+"|mana_r|\\ |mana_w|, odłącz ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"czerwonej lub białej sztuczki o skrócie many 4 lub mniejszym i rzuć ją beż "
+"płacenia jej kosztu many. Następnie przetasuj."
 
 #: ../../2XM.rst:1589
 msgid "Equip |mana_3|"
@@ -5081,13 +5099,15 @@ msgstr ""
 
 #: ../../2XM.rst:1593
 msgid "Surge Node enters the battlefield with six charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając sześć znaczników ładunku."
 
 #: ../../2XM.rst:1595
 msgid ""
 "|mana_1|, |tap|, Remove a charge counter from Surge Node: Put a charge "
 "counter on target artifact."
 msgstr ""
+"|mana_1|, |tap|, usuń znacznik ładunku z tego artefaktu: Umieść znacznik "
+"ładunku na wskazanym artefakcie."
 
 #: ../../2XM.rst:1604
 msgid ""
@@ -5100,6 +5120,7 @@ msgstr ""
 msgid ""
 "Equipped creature gets +2/+2 and has protection from green and from blue."
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma ochronę przed zielonym i niebieskim."
 
 #: ../../2XM.rst:1601
 msgid ""
@@ -5120,13 +5141,15 @@ msgstr ""
 #: ../../2XM.rst:1607
 msgid ""
 "Equipped creature gets +2/+2 and has protection from black and from green."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma ochronę przed czarnym i zielonym."
 
 #: ../../2XM.rst:1609
 msgid ""
 "Whenever equipped creature deals combat damage to a player, that player "
 "discards a card and you untap all lands you control."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ów gracz odrzuca "
+"kartę, a ty odkręć wszystkie lądy pod twoim władaniem."
 
 #: ../../2XM.rst:1620
 msgid ""
@@ -5138,12 +5161,15 @@ msgstr ""
 #: ../../2XM.rst:1615
 msgid "Equipped creature gets +2/+2 and has protection from red and from blue."
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma ochronę przed czerwonym i niebieskim."
 
 #: ../../2XM.rst:1617
 msgid ""
 "Whenever equipped creature deals combat damage to a player, Sword of Fire "
 "and Ice deals 2 damage to any target and you draw a card."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ten artefakt zadaje "
+"wskazanemu celowi 2 obrażenia, a ty dobierz kartę."
 
 #: ../../2XM.rst:1628
 msgid ""
@@ -5156,7 +5182,7 @@ msgstr ""
 #: ../../2XM.rst:1623
 msgid ""
 "Equipped creature gets +2/+2 and has protection from white and from black."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma ochronę przed białym i czarnym."
 
 #: ../../2XM.rst:1625
 msgid ""
@@ -5164,6 +5190,9 @@ msgid ""
 "and you may return up to one target creature card from your graveyard to "
 "your hand."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, zyskaj 3 życia i "
+"możesz przywrócić co najwyżej jedną wskazaną kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../2XM.rst:1636
 msgid ""
@@ -5182,6 +5211,9 @@ msgid ""
 "return Sword of the Meek from your graveyard to the battlefield, then attach "
 "it to that creature."
 msgstr ""
+"Ilekroć na pole walki pod twoim władaniem wejdzie stwór 1/1, możesz "
+"przywrócić tę kartę z twojego cmentarza na pole bitwy, następnie dołączyć ją "
+"do owego stwora."
 
 #: ../../2XM.rst:1644
 msgid ""
@@ -5193,7 +5225,7 @@ msgstr ""
 #: ../../2XM.rst:1639
 msgid ""
 "Equipped creature gets +2/+2 and has protection from red and from white."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma ochronę przed czerwonym i białym."
 
 #: ../../2XM.rst:1641
 msgid ""
@@ -5201,6 +5233,9 @@ msgid ""
 "Peace deals damage to that player equal to the number of cards in their hand "
 "and you gain 1 life for each card in your hand."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ten artefakt zadaje "
+"owemu graczowi obrażenia równe liczbie kart w jego ręce, a ty zyskaj po 1 "
+"życiu za każdą kartę w twojej ręce."
 
 #: ../../2XM.rst:1648
 msgid ""
@@ -5214,6 +5249,9 @@ msgid ""
 "|tap|, Sacrifice an artifact: Proliferate. (Choose any number of permanents "
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
+"|tap|, poświęć artefakt: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
+"graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../2XM.rst:1652
 msgid ""
@@ -5249,6 +5287,11 @@ msgid ""
 "that would cost |mana_1|\\ |mana_b| to cast costs |mana_2|\\ |mana_b| to "
 "cast instead.)"
 msgstr ""
+"O ile ten artefakt jest odkręcony każdy czar, którego rzucenie miałoby "
+"kosztować mniej niż trzy many, kosztuje trzy many. (Dodatkowa mana w koszcie "
+"może być płacona dowolnym kolorem many lub maną bezkolorową. Na przykład "
+"jeśli rzucenie czaru miałoby kosztować |mana_1|\\ |mana_b|, zamiast tego "
+"kosztuje |mana_2|\\ |mana_b|.)"
 
 #: ../../2XM.rst:1662
 msgid ""
@@ -5259,13 +5302,15 @@ msgstr ""
 
 #: ../../2XM.rst:1659
 msgid "Tumble Magnet enters the battlefield with three charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki ładunku."
 
 #: ../../2XM.rst:1661
 msgid ""
 "|tap|, Remove a charge counter from Tumble Magnet: Tap target artifact or "
 "creature."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego artefaktu: Przekręć wskazany artefakt "
+"lub stwora."
 
 #: ../../2XM.rst:1668
 msgid ""
@@ -5279,6 +5324,8 @@ msgid ""
 "Equipped creature gets +4/+2 and doesn't untap during its controller's untap "
 "step."
 msgstr ""
+"Wyposażony stwór dostaje +4/+2 i nie odkręca się w kroku odkręcania swojego "
+"władcy."
 
 #: ../../2XM.rst:1667
 msgid ""
@@ -5286,6 +5333,9 @@ msgid ""
 "as a sorcery. This card enters the battlefield unattached and stays on the "
 "battlefield if the creature leaves.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd. Ta karta wchodzi na pole bitwy odłączona i zostaje na "
+"polu bitwy po opuszczeniu go przez stwora.)"
 
 #: ../../2XM.rst:1676
 msgid ""
@@ -5318,7 +5368,7 @@ msgstr ""
 
 #: ../../2XM.rst:1679
 msgid "Sacrifice Welding Jar: Regenerate target artifact."
-msgstr ""
+msgstr "Poświęć ten artefakt: Zregeneruj wskazany artefakt."
 
 #: ../../2XM.rst:1686
 msgid ""
@@ -5337,6 +5387,9 @@ msgid ""
 "token with deathtouch and a 3/3 colorless Wurm artifact creature token with "
 "lifelink."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Żmij "
+"3/3 z dotykiem śmierci oraz żeton bezkolorowego artefaktowego stwora Żmij 3/"
+"3 z więzią życia."
 
 #: ../../2XM.rst:1692
 msgid ""
@@ -5350,6 +5403,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Put target artifact card from your graveyard on "
 "top of your library."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Umieść wskazana kartę artefaktu z twojego "
+"cmentarza na wierzchu twojej biblioteki."
 
 #: ../../2XM.rst:1698
 msgid ""
@@ -5416,6 +5471,8 @@ msgid ""
 "|mana_ur|, |tap|: Add |mana_u|\\ |mana_u|, |mana_u|\\ |mana_r|, or |mana_r|"
 "\\ |mana_r|."
 msgstr ""
+"|mana_ur|, |tap|: Weź |mana_u|\\ |mana_u|, |mana_u|\\ |mana_r| lub |mana_r|\\"
+" |mana_r|."
 
 #: ../../2XM.rst:1726
 msgid ""
@@ -5426,11 +5483,11 @@ msgstr ""
 
 #: ../../2XM.rst:1721
 msgid "Dark Depths enters the battlefield with ten ice counters on it."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole bitwy mając dziesięć znaczników lodu."
 
 #: ../../2XM.rst:1723
 msgid "|mana_3|: Remove an ice counter from Dark Depths."
-msgstr ""
+msgstr "|mana_3|: Usuń znacznik lodu z tego lądu."
 
 #: ../../2XM.rst:1725
 msgid ""
@@ -5438,6 +5495,9 @@ msgid ""
 "Marit Lage, a legendary 20/20 black Avatar creature token with flying and "
 "indestructible."
 msgstr ""
+"Kiedy ten ląd nie ma znaczników lodu, poświęć go. Jeśli tak zrobisz, stwórz "
+"żeton legendarnego stwora Awatar 20/20 o nazwie Marit Lage z lataniem i "
+"niezniszczalnością."
 
 #: ../../2XM.rst:1732
 msgid ""
@@ -5462,6 +5522,8 @@ msgid ""
 "|mana_wb|, |tap|: Add |mana_w|\\ |mana_w|, |mana_w|\\ |mana_b|, or |mana_b|"
 "\\ |mana_b|."
 msgstr ""
+"|mana_wb|, |tap|: Weź |mana_w|\\ |mana_w|, |mana_w|\\ |mana_b| lub |mana_b|\\"
+" |mana_b|."
 
 #: ../../2XM.rst:1744
 msgid ""
@@ -5475,6 +5537,8 @@ msgid ""
 "|mana_rg|, |tap|: Add |mana_r|\\ |mana_r|, |mana_r|\\ |mana_g|, or |mana_g|"
 "\\ |mana_g|."
 msgstr ""
+"|mana_rg|, |tap|: Weź |mana_r|\\ |mana_r|, |mana_r|\\ |mana_g| lub |mana_g|\\"
+" |mana_g|."
 
 #: ../../2XM.rst:1750
 msgid ""
@@ -5488,6 +5552,8 @@ msgid ""
 "|mana_gu|, |tap|: Add |mana_g|\\ |mana_g|, |mana_g|\\ |mana_u|, or |mana_u|"
 "\\ |mana_u|."
 msgstr ""
+"|mana_gu|, |tap|: Weź |mana_g|\\ |mana_g|, |mana_g|\\ |mana_u| lub |mana_u|\\"
+" |mana_u|."
 
 #: ../../2XM.rst:1756
 msgid ""
@@ -5501,6 +5567,7 @@ msgid ""
 "At the beginning of the end step, if you control no artifacts, sacrifice "
 "Glimmervoid."
 msgstr ""
+"Na początku kroku końcowego, jeśli nie władasz artefaktem, poświęć ten ląd."
 
 #: ../../2XM.rst:1755
 msgid "|tap|: Add one mana of any color."
@@ -5530,7 +5597,7 @@ msgstr ""
 
 #: ../../2XM.rst:1767
 msgid "|tap|, Sacrifice a creature: You gain 1 life."
-msgstr ""
+msgstr "|tap|, poświęć stwora: Zyskaj 1 życie."
 
 #: ../../2XM.rst:1772
 msgid ""
@@ -5579,6 +5646,8 @@ msgid ""
 "|mana_wu|, |tap|: Add |mana_w|\\ |mana_w|, |mana_w|\\ |mana_u|, or |mana_u|"
 "\\ |mana_u|."
 msgstr ""
+"|mana_wu|, |tap|: Weź |mana_w|\\ |mana_w|, |mana_w|\\ |mana_u| lub |mana_u|\\"
+" |mana_u|."
 
 #: ../../2XM.rst:1792
 msgid ""
@@ -5592,6 +5661,8 @@ msgid ""
 "|mana_rw|, |tap|: Add |mana_r|\\ |mana_r|, |mana_r|\\ |mana_w|, or |mana_w|"
 "\\ |mana_w|."
 msgstr ""
+"|mana_rw|, |tap|: Weź |mana_r|\\ |mana_r|, |mana_r|\\ |mana_w| lub |mana_w|\\"
+" |mana_w|."
 
 #: ../../2XM.rst:1798
 msgid ""
@@ -5605,6 +5676,8 @@ msgid ""
 "|mana_ub|, |tap|: Add |mana_u|\\ |mana_u|, |mana_u|\\ |mana_b|, or |mana_b|"
 "\\ |mana_b|."
 msgstr ""
+"|mana_ub|, |tap|: Weź |mana_u|\\ |mana_u|, |mana_u|\\ |mana_b| lub |mana_b|\\"
+" |mana_b|."
 
 #: ../../2XM.rst:1804
 msgid ""
@@ -5633,6 +5706,8 @@ msgid ""
 "|mana_bg|, |tap|: Add |mana_b|\\ |mana_b|, |mana_b|\\ |mana_g|, or |mana_g|"
 "\\ |mana_g|."
 msgstr ""
+"|mana_bg|, |tap|: Weź |mana_b|\\ |mana_b|, |mana_b|\\ |mana_g| lub |mana_g|\\"
+" |mana_g|."
 
 #: ../../2XM.rst:1814
 msgid ""
@@ -5646,6 +5721,8 @@ msgid ""
 "|tap|: Add |colorless|. If you control an Urza's Power-Plant and an Urza's "
 "Tower, add |colorless|\\ |colorless| instead."
 msgstr ""
+"|tap|: Weź |colorless|. Jeśli masz we władaniu Urza's Power-Plant oraz "
+"Urza's Tower, zamiast tego weź |colorless|\\ |colorless|."
 
 #: ../../2XM.rst:1818
 msgid ""
@@ -5659,6 +5736,8 @@ msgid ""
 "|tap|: Add |colorless|. If you control an Urza's Mine and an Urza's Tower, "
 "add |colorless|\\ |colorless| instead."
 msgstr ""
+"|tap|: Weź |colorless|. Jeśli masz we władaniu Urza's Mine oraz Urza's "
+"Tower, zamiast tego weź |colorless|\\ |colorless|."
 
 #: ../../2XM.rst:1822
 msgid ""
@@ -5672,6 +5751,8 @@ msgid ""
 "|tap|: Add |colorless|. If you control an Urza's Mine and an Urza's Power-"
 "Plant, add |colorless|\\ |colorless|\\ |colorless| instead."
 msgstr ""
+"|tap|: Weź |colorless|. Jeśli masz we władaniu Urza's Mine oraz Urza's Power-"
+"Plant, zamiast tego weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../2XM.rst:1828
 msgid ""
@@ -5685,6 +5766,8 @@ msgid ""
 "|mana_gw|, |tap|: Add |mana_g|\\ |mana_g|, |mana_g|\\ |mana_w|, or |mana_w|"
 "\\ |mana_w|."
 msgstr ""
+"|mana_gw|, |tap|: Weź |mana_g|\\ |mana_g|, |mana_g|\\ |mana_w| lub |mana_w|\\"
+" |mana_w|."
 
 #: ../../2XM.rst:1832
 msgid ""

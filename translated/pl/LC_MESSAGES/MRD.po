@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 00:31+0000\n"
+"PO-Revision-Date: 2021-03-23 15:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -2926,7 +2926,7 @@ msgstr ""
 msgid ""
 "Whenever a permanent becomes untapped, that permanent's controller mills a "
 "card."
-msgstr ""
+msgstr "Ilekroć permanent zostanie odkręcony, jego władca mieli kartę."
 
 #: ../../MRD.rst:1070
 msgid ""
@@ -3080,6 +3080,8 @@ msgid ""
 "When Myr Retriever dies, return another target artifact card from your "
 "graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć inną wskazaną kartę artefaktu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../MRD.rst:1122
 msgid ""
@@ -3304,10 +3306,11 @@ msgstr ""
 #: ../../MRD.rst:1203
 msgid "|mana_r|, Sacrifice Pyrite Spellbomb: It deals 2 damage to any target."
 msgstr ""
+"|mana_r|, poświęć ten artefakt: Zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../MRD.rst:1205
 msgid "|mana_1|, Sacrifice Pyrite Spellbomb: Draw a card."
-msgstr ""
+msgstr "|mana_1|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../MRD.rst:1212
 msgid ""
@@ -3395,6 +3398,8 @@ msgid ""
 "You may have Sculpting Steel enter the battlefield as a copy of any artifact "
 "on the battlefield."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy możesz ją zmienić w kopię artefaktu "
+"obecnego na polu bitwy."
 
 #: ../../MRD.rst:1248
 msgid ""
@@ -3476,6 +3481,9 @@ msgid ""
 "as a sorcery. This card enters the battlefield unattached and stays on the "
 "battlefield if the creature leaves.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd. Ta karta wchodzi na pole bitwy odłączona i zostaje na "
+"polu bitwy po opuszczeniu go przez stwora.)"
 
 #: ../../MRD.rst:1272
 msgid ""
@@ -3906,6 +3914,8 @@ msgid ""
 "Equipped creature gets +4/+2 and doesn't untap during its controller's untap "
 "step."
 msgstr ""
+"Wyposażony stwór dostaje +4/+2 i nie odkręca się w kroku odkręcania swojego "
+"władcy."
 
 #: ../../MRD.rst:1434
 msgid ""
@@ -3916,7 +3926,7 @@ msgstr ""
 
 #: ../../MRD.rst:1433
 msgid "Sacrifice Welding Jar: Regenerate target artifact."
-msgstr ""
+msgstr "Poświęć ten artefakt: Zregeneruj wskazany artefakt."
 
 #: ../../MRD.rst:1440
 msgid ""
@@ -4014,6 +4024,7 @@ msgid ""
 "At the beginning of the end step, if you control no artifacts, sacrifice "
 "Glimmervoid."
 msgstr ""
+"Na początku kroku końcowego, jeśli nie władasz artefaktem, poświęć ten ląd."
 
 #: ../../MRD.rst:1473
 msgid "|tap|: Add one mana of any color."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 00:31+0000\n"
+"PO-Revision-Date: 2021-03-23 15:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -3676,6 +3676,8 @@ msgid ""
 "Sunburst (This enters the battlefield with a charge counter on it for each "
 "color of mana spent to cast it.)"
 msgstr ""
+"Rozbłysk słońca (Ten permanent wchodzi na pole bitwy mając tyle znaczników "
+"ładunku, ile kolorów many użyto do rzucenia go.)"
 
 #: ../../UMA.rst:1247
 msgid ""
@@ -3907,11 +3909,11 @@ msgstr ""
 
 #: ../../UMA.rst:1329
 msgid "Dark Depths enters the battlefield with ten ice counters on it."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole bitwy mając dziesięć znaczników lodu."
 
 #: ../../UMA.rst:1331
 msgid "|mana_3|: Remove an ice counter from Dark Depths."
-msgstr ""
+msgstr "|mana_3|: Usuń znacznik lodu z tego lądu."
 
 #: ../../UMA.rst:1333
 msgid ""
@@ -3919,6 +3921,9 @@ msgid ""
 "Marit Lage, a legendary 20/20 black Avatar creature token with flying and "
 "indestructible."
 msgstr ""
+"Kiedy ten ląd nie ma znaczników lodu, poświęć go. Jeśli tak zrobisz, stwórz "
+"żeton legendarnego stwora Awatar 20/20 o nazwie Marit Lage z lataniem i "
+"niezniszczalnością."
 
 #: ../../UMA.rst:1340
 msgid ""
