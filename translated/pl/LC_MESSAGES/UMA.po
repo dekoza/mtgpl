@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 18:54+0000\n"
+"PO-Revision-Date: 2021-03-23 18:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -1966,6 +1966,9 @@ msgid ""
 "battlefield, you may return that card to the battlefield at the beginning of "
 "the next end step if Shirei, Shizo's Caretaker is still on the battlefield."
 msgstr ""
+"Ilekroć stwór o sile 1 lub mniejszej trafi do twojego cmentarza z pola "
+"bitwy, możesz przywrócić ową kartę na pole bitwy na początku najbliższego "
+"kroku końcowego jeśli niniejszy stwór nadal jest na polu bitwy."
 
 #: ../../UMA.rst:636
 msgid ""
@@ -2019,7 +2022,7 @@ msgstr ""
 
 #: ../../UMA.rst:643
 msgid "Add |mana_b| for each creature card in your graveyard."
-msgstr ""
+msgstr "Weź |mana_b| za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../UMA.rst:648
 msgid ""
@@ -2035,6 +2038,10 @@ msgid ""
 "other cards revealed this way, and you lose 1 life for each of the exiled "
 "cards."
 msgstr ""
+"Nazwij kartę. Ujawniaj karty z wierzchu twojej biblioteki aż ujawnisz kartę "
+"o owej nazwie, następnie umieść ową kartę w twojej ręce. Wygnaj pozostałe "
+"karty ujawnione w ten sposób i strać po 1 życiu za każdą z owych wygnanych "
+"kart."
 
 #: ../../UMA.rst:654
 msgid ""
@@ -2135,6 +2142,8 @@ msgid ""
 "As long as Anger is in your graveyard and you control a Mountain, creatures "
 "you control have haste."
 msgstr ""
+"O ile ta karta jest w twoim cmentarzu oraz władasz Górą, stwory pod twoim "
+"władaniem mają pośpiech."
 
 #: ../../UMA.rst:684
 msgid ""
@@ -2273,6 +2282,8 @@ msgid ""
 "Whenever you sacrifice another permanent, you may pay |mana_2|. If you do, "
 "Furnace Celebration deals 2 damage to any target."
 msgstr ""
+"Ilekroć poświęcisz inny permanent, możesz zapłacić |mana_2|. Jeśli tak "
+"zrobisz, ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../UMA.rst:732
 msgid ""
@@ -2318,6 +2329,8 @@ msgid ""
 "Whenever another creature dies, you may have Hissing Iguanar deal 1 damage "
 "to target player or planeswalker."
 msgstr ""
+"Ilekroć umrze inny stwór, możesz sprawić, że ten stwór zada wskazanemu "
+"graczowi lub wędrowcowi 1 obrażenie."
 
 #: ../../UMA.rst:746
 msgid ""
@@ -2328,7 +2341,7 @@ msgstr ""
 
 #: ../../UMA.rst:743
 msgid "When Ingot Chewer enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../UMA.rst:745
 msgid ""
@@ -2511,7 +2524,7 @@ msgstr ""
 
 #: ../../UMA.rst:801
 msgid "Discard a land card: Seismic Assault deals 2 damage to any target."
-msgstr ""
+msgstr "Odrzuć kartę lądu: Ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../UMA.rst:808
 msgid ""
@@ -2525,6 +2538,8 @@ msgid ""
 "Untap target creature. After this main phase, there is an additional combat "
 "phase followed by an additional main phase."
 msgstr ""
+"Odkręć wskazanego stwora. Po tej fazie głównej jest dodatkowa faza potyczki, "
+"po której następuje dodatkowa faza główna."
 
 #: ../../UMA.rst:812
 msgid ""
