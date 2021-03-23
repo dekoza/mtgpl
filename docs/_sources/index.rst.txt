@@ -36,7 +36,6 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* Modern: :mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent| (Premiera: 2021-03-19)
 * Standard: :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` (Premiera: 2021-04-23)
 
 Standard
@@ -99,6 +98,7 @@ Zestawy gildyjne
 Seria 'Masters'
 ---------------
 
+* :mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent|
 * :mtgexp:`2XM` :doc:`Double Masters<2XM>` |2XM_percent|
 * :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |UMA_percent|
 * :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 |A25_percent|
