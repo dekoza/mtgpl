@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 19:49+0000\n"
+"PO-Revision-Date: 2021-03-23 00:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -2303,13 +2303,15 @@ msgstr ""
 
 #: ../../SOM.rst:821
 msgid "|mana_2|: Target artifact creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Wskazany artefaktowy stwór dostaje do końca tury +1/+1."
 
 #: ../../SOM.rst:823
 msgid ""
 "|mana_2|: Target artifact creature gains your choice of flying, trample, or "
 "haste until end of turn."
 msgstr ""
+"|mana_2|: Wskazany artefaktowy stwór zyskuje do końca tury zdolność wybraną "
+"przez cienie spośród latania, tratowania i pośpiechu."
 
 #: ../../SOM.rst:830
 msgid ""
@@ -2467,6 +2469,8 @@ msgid ""
 "|tap|, Sacrifice three artifacts: Search your library for an artifact card "
 "and put it onto the battlefield. Then shuffle your library."
 msgstr ""
+"|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu "
+"i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../SOM.rst:886
 msgid ""
@@ -2514,13 +2518,15 @@ msgstr ""
 
 #: ../../SOM.rst:899
 msgid "|tap|: Put a charge counter on Lux Cannon."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../SOM.rst:901
 msgid ""
 "|tap|, Remove three charge counters from Lux Cannon: Destroy target "
 "permanent."
 msgstr ""
+"|tap|, usuń trzy znaczniki ładunku z tego artefaktu: Zniszcz wskazany "
+"permanent."
 
 #: ../../SOM.rst:904
 msgid ""

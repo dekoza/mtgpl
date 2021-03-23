@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-22 14:28+0000\n"
+"PO-Revision-Date: 2021-03-23 00:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -2035,6 +2035,9 @@ msgid ""
 "as a sorcery. This card enters the battlefield unattached and stays on the "
 "battlefield if the creature leaves.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd. Ta karta wchodzi na pole bitwy odłączona i "
+"zostaje na polu bitwy po opuszczeniu go przez stwora.)"
 
 #: ../../MRD.rst:760
 msgid ""
@@ -2589,7 +2592,7 @@ msgstr ""
 
 #: ../../MRD.rst:949
 msgid "Equipped creature gets +1/+0 for each Equipment attached to it."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 za każde Wyposażenie dołączone do niego."
 
 #: ../../MRD.rst:956
 msgid ""
@@ -2853,10 +2856,12 @@ msgid ""
 "Equipped creature has haste and shroud. (It can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Wyposażony stwór ma pośpiech i antymagię. (Nie może być wskazywany przez "
+"czary lub zdolności.)"
 
 #: ../../MRD.rst:1039
 msgid "Equip |mana_0|"
-msgstr ""
+msgstr "Wyposaż |mana_0|"
 
 #: ../../MRD.rst:1046
 msgid ""
