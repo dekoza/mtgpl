@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 15:47+0000\n"
+"PO-Revision-Date: 2021-03-23 18:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -722,6 +722,9 @@ msgid ""
 "reveal this card from your hand and pay its splice cost. If you do, add this "
 "card's effects to that spell.)"
 msgstr ""
+"Spleć z Arkanami |mana_1|\\ |mana_u| (Rzucając czar Arkanów możesz ujawnić "
+"tę kartę z twojej ręki i zapłacić jej koszt splatania. Jeśli tak zrobisz "
+"dodaj efekt tej karty do owego czaru.)"
 
 #: ../../MMA.rst:228
 msgid ""
@@ -846,7 +849,7 @@ msgstr ""
 #: ../../MMA.rst:263
 msgid ""
 "|mana_u|, Sacrifice Glen Elendra Archmage: Counter target noncreature spell."
-msgstr ""
+msgstr "|mana_u|, poświęć tego stwora: Skontruj wskazany nie-stworowy czar."
 
 #: ../../MMA.rst:265 ../../MMA.rst:999 ../../MMA.rst:1093 ../../MMA.rst:1105
 msgid ""
@@ -1265,12 +1268,16 @@ msgid ""
 "battlefield, if Bridge from Below is in your graveyard, create a 2/2 black "
 "Zombie creature token."
 msgstr ""
+"Ilekroć nieżetonowy stwór trafi do twojego cmentarza z pola bitwy, jeśli ta "
+"karta jest w twoim cmentarzu, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../MMA.rst:433
 msgid ""
 "When a creature is put into an opponent's graveyard from the battlefield, if "
 "Bridge from Below is in your graveyard, exile Bridge from Below."
 msgstr ""
+"Jeśli stwór trafia do cmentarza przeciwnika z pola bitwy, jeśli ta karta "
+"jest w twoim cmentarzu, wygnaj tę kartę."
 
 #: ../../MMA.rst:438
 msgid ""
@@ -1470,6 +1477,9 @@ msgid ""
 "Arcane spell, you may reveal this card from your hand and pay its splice "
 "cost. If you do, add this card's effects to that spell.)"
 msgstr ""
+"Spleć z Arkanami — Wygnaj cztery karty z twojego cmentarza. (Rzucając czar "
+"Arkanów możesz ujawnić tę kartę z twojej ręki i zapłacić jej koszt "
+"splatania. Jeśli tak zrobisz dodaj efekt tej karty do owego czaru.)"
 
 #: ../../MMA.rst:510
 msgid ""
@@ -1816,6 +1826,9 @@ msgid ""
 "reveal this card from your hand and pay its splice cost. If you do, add this "
 "card's effects to that spell.)"
 msgstr ""
+"Spleć z Arkanami |mana_1|\\ |mana_r| (Rzucając czar Arkanów możesz ujawnić "
+"tę kartę z twojej ręki i zapłacić jej koszt splatania. Jeśli tak zrobisz "
+"dodaj efekt tej karty do owego czaru.)"
 
 #: ../../MMA.rst:634
 msgid ""
@@ -2280,6 +2293,9 @@ msgid ""
 "you may reveal this card from your hand and pay its splice cost. If you do, "
 "add this card's effects to that spell.)"
 msgstr ""
+"Spleć z Arkanami — Poświęć dwie Góry. (Rzucając czar Arkanów możesz ujawnić "
+"tę kartę z twojej ręki i zapłacić jej koszt splatania. Jeśli tak zrobisz "
+"dodaj efekt tej karty do owego czaru.)"
 
 #: ../../MMA.rst:788
 msgid ""

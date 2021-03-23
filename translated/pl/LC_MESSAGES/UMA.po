@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 15:47+0000\n"
+"PO-Revision-Date: 2021-03-23 18:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -995,6 +995,9 @@ msgid ""
 "library for up to two basic land cards, put them onto the battlefield, then "
 "shuffle your library."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|, odrzuć kartę, poświęć ląd: Wyszukaj w twojej "
+"bibliotece co najwyżej dwie karty bazowych lądów, umieść je na polu bitwy, "
+"następnie przetasuj."
 
 #: ../../UMA.rst:322
 msgid ""
@@ -1020,7 +1023,7 @@ msgstr ""
 
 #: ../../UMA.rst:327
 msgid "When Flight of Fancy enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../UMA.rst:329
 msgid "Enchanted creature has flying."
@@ -1038,6 +1041,8 @@ msgid ""
 "You may discard an Island card and another card rather than pay this spell's "
 "mana cost."
 msgstr ""
+"Możesz odrzucić kartę Wyspy oraz inną kartę zamiast płacić koszt many tego "
+"czaru."
 
 #: ../../UMA.rst:335
 msgid "Counter target spell."
@@ -1076,6 +1081,8 @@ msgstr ""
 #: ../../UMA.rst:345
 msgid "Draw two cards, then discard two cards. Untap up to three lands."
 msgstr ""
+"Dobierz dwie karty, następnie odrzuć dwie karty. Odkręć co najwyżej trzy "
+"lądy."
 
 #: ../../UMA.rst:354
 msgid ""
@@ -1087,7 +1094,7 @@ msgstr ""
 #: ../../UMA.rst:351
 msgid ""
 "|mana_u|, Sacrifice Glen Elendra Archmage: Counter target noncreature spell."
-msgstr ""
+msgstr "|mana_u|, poświęć tego stwora: Skontruj wskazany nie-stworowy czar."
 
 #: ../../UMA.rst:353 ../../UMA.rst:1071 ../../UMA.rst:1183 ../../UMA.rst:1189
 #: ../../UMA.rst:1203 ../../UMA.rst:1209
@@ -1111,6 +1118,8 @@ msgid ""
 "graveyard onto the battlefield under your control attached to Iridescent "
 "Drake."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść wskazaną kartę Aury z "
+"cmentarza na pole bitwy pod twoim władaniem dołączoną do tego stwora."
 
 #: ../../UMA.rst:366
 msgid ""
@@ -1177,7 +1186,7 @@ msgstr ""
 
 #: ../../UMA.rst:381
 msgid "|tap|: Draw two cards, then discard three cards."
-msgstr ""
+msgstr "|tap|: Dobierz dwie karty, następnie odrzuć trzy karty."
 
 #: ../../UMA.rst:386
 msgid ""
@@ -1253,6 +1262,8 @@ msgid ""
 "Counter target spell unless its controller pays |mana_2| plus an additional |"
 "mana_2| for each card named Rune Snag in each graveyard."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_2| plus dodatkowe "
+"|mana_2| za każdą kartę o nazwie Rune Snag w każdym cmentarzu."
 
 #: ../../UMA.rst:412
 msgid ""
@@ -1263,7 +1274,7 @@ msgstr ""
 
 #: ../../UMA.rst:411
 msgid "Discard a card: Return Skywing Aven to its owner's hand."
-msgstr ""
+msgstr "Odrzuć kartę: Przywróć tego stwora do ręki właściciela."
 
 #: ../../UMA.rst:416
 msgid ""
@@ -1341,6 +1352,8 @@ msgid ""
 "Target player shuffles up to four target cards from their graveyard into "
 "their library."
 msgstr ""
+"Wskazany gracz wtasowuje co najwyżej cztery wskazane karty ze swojego "
+"cmentarza do swojej biblioteki."
 
 #: ../../UMA.rst:440
 msgid ""
@@ -1421,6 +1434,8 @@ msgid ""
 "At the beginning of the upkeep of enchanted creature's controller, put a "
 "-1/-1 counter on that creature."
 msgstr ""
+"Na początku kroku rozliczania władcy zauroczonego stwora, umieść znacznik -1/"
+"-1 na owym stworze."
 
 #: ../../UMA.rst:472
 msgid ""
@@ -1480,6 +1495,9 @@ msgid ""
 "card from your graveyard to the battlefield. That creature gains haste. At "
 "the beginning of the next end step, sacrifice it."
 msgstr ""
+"|mana_b|, |tap|, poświęć tego stwora: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy. Ów stwór zyskuje pośpiech. Na początku "
+"najbliższego kroku końcowego, poświęć go."
 
 #: ../../UMA.rst:490
 msgid ""
@@ -1520,12 +1538,16 @@ msgid ""
 "battlefield, if Bridge from Below is in your graveyard, create a 2/2 black "
 "Zombie creature token."
 msgstr ""
+"Ilekroć nieżetonowy stwór trafi do twojego cmentarza z pola bitwy, jeśli ta "
+"karta jest w twoim cmentarzu, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../UMA.rst:499
 msgid ""
 "When a creature is put into an opponent's graveyard from the battlefield, if "
 "Bridge from Below is in your graveyard, exile Bridge from Below."
 msgstr ""
+"Jeśli stwór trafia do cmentarza przeciwnika z pola bitwy, jeśli ta karta "
+"jest w twoim cmentarzu, wygnaj tę kartę."
 
 #: ../../UMA.rst:504
 msgid ""
@@ -1539,6 +1561,8 @@ msgid ""
 "Search your library for up to three creature cards, put them into your "
 "graveyard, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej trzy karty stworów, umieść je w "
+"twoim cmentarzu, następnie przetasuj twoją bibliotekę."
 
 #: ../../UMA.rst:510
 msgid ""
@@ -1623,6 +1647,8 @@ msgid ""
 "Search your library for a card, put that card into your hand, then shuffle "
 "your library."
 msgstr ""
+"Wyszuka kartę w twojej bibliotece, umieść ją w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../UMA.rst:534
 msgid ""
@@ -1648,7 +1674,7 @@ msgstr ""
 
 #: ../../UMA.rst:537
 msgid "Sacrifice Fume Spitter: Put a -1/-1 counter on target creature."
-msgstr ""
+msgstr "Poświęć tego stwora: Umieść znacznik -1/-1 na wskazanym stworze."
 
 #: ../../UMA.rst:542
 msgid ""
@@ -1694,6 +1720,8 @@ msgid ""
 "When Golgari Thug dies, put target creature card from your graveyard on top "
 "of your library."
 msgstr ""
+"Kiedy ten stwór umrze, umieść wskazaną kartę stwora z twojego cmentarza na "
+"wierzchu twojej biblioteki."
 
 #: ../../UMA.rst:551
 msgid ""
@@ -1717,6 +1745,9 @@ msgid ""
 "battlefield. That creature gains haste. Exile it at the beginning of the "
 "next end step."
 msgstr ""
+"Przywróć wskazaną kartę legendarnego stwora z twojego cmentarza na pole "
+"bitwy. Ów stwór zyskuje pośpiech. Wygnaj go na początku najbliższego kroku "
+"końcowego."
 
 #: ../../UMA.rst:557
 msgid ""
@@ -1724,6 +1755,9 @@ msgid ""
 "reveal this card from your hand and pay its splice cost. If you do, add this "
 "card's effects to that spell.)"
 msgstr ""
+"Spleć z Arkanami |mana_2|\\ |mana_b| (Rzucając czar Arkanów możesz ujawnić "
+"tę kartę z twojej ręki i zapłacić jej koszt splatania. Jeśli tak zrobisz "
+"dodaj efekt tej karty do owego czaru.)"
 
 #: ../../UMA.rst:564
 msgid ""
@@ -1868,7 +1902,7 @@ msgstr ""
 #: ../../UMA.rst:609
 msgid ""
 "When Offalsnout leaves the battlefield, exile target card from a graveyard."
-msgstr ""
+msgstr "Kiedy ten stwór opuści pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
 #: ../../UMA.rst:611
 msgid ""
@@ -2178,6 +2212,9 @@ msgid ""
 "reveal this card from your hand and pay its splice cost. If you do, add this "
 "card's effects to that spell.)"
 msgstr ""
+"Spleć z Arkanami |mana_1|\\ |mana_r| (Rzucając czar Arkanów możesz ujawnić "
+"tę kartę z twojej ręki i zapłacić jej koszt splatania. Jeśli tak zrobisz "
+"dodaj efekt tej karty do owego czaru.)"
 
 #: ../../UMA.rst:712
 msgid ""
@@ -2569,6 +2606,9 @@ msgid ""
 "spell, you may reveal this card from your hand and pay its splice cost. If "
 "you do, add this card's effects to that spell.)"
 msgstr ""
+"Spleć z Arkanami |mana_2|\\ |mana_r|\\ |mana_r| (Rzucając czar Arkanów "
+"możesz ujawnić tę kartę z twojej ręki i zapłacić jej koszt splatania. Jeśli "
+"tak zrobisz dodaj efekt tej karty do owego czaru.)"
 
 #: ../../UMA.rst:842
 msgid ""
