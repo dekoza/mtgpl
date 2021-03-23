@@ -1,6 +1,10 @@
 ***********
 Spis zmian
 ***********
+
+2021-03-23
+   * Double Masters - 100%
+
 2021-03-22
    * Rise of the Eldrazi - 100%
 
