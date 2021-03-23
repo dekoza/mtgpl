@@ -17,7 +17,7 @@
 
 .. |USG_percent| image:: images/pie25.png        
 
-.. |MRD_percent| image:: images/pie25.png        
+.. |MRD_percent| image:: images/pie30.png        
 
 .. |EMN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -271,7 +271,7 @@
 
 .. |ONS_percent| image:: images/pie25.png        
 
-.. |MM2_percent| image:: images/pie65.png        
+.. |MM2_percent| image:: images/pie70.png        
 
 .. |4ED_percent| image:: images/pie30.png        
 
@@ -295,7 +295,7 @@
 
 .. |NEM_percent| image:: images/pie10.png        
 
-.. |CNS_percent| image:: images/pie50.png        
+.. |CNS_percent| image:: images/pie55.png        
 
 .. |ULG_percent| image:: images/pie30.png        
 
