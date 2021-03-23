@@ -5,7 +5,17 @@
 ==========================================
 
 
-:mtgtip:`Kasmina, Enigma Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/178bf300-38cf-4ab2-9e66-6fcaa112b649.jpg?1616416456|https://scryfall.com/card/stx/196/kasmina-enigma-sage?utm_source=api>`
+:mtgtip:`Professor Onyx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/013eeb99-1b66-4fba-ad96-78deee901ea4.jpg?1616430491|https://scryfall.com/card/stx/83/professor-onyx?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, each opponent loses 2 life and you gain 2 life.
+
+   +1: You lose 1 life. Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+
+   −3: Each opponent sacrifices a creature with the greatest power among creatures that player controls.
+
+   −8: Each opponent may discard a card. If they don't, they lose 3 life. Repeat this process six more times.
+
+
+:mtgtip:`Kasmina, Enigma Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/178bf300-38cf-4ab2-9e66-6fcaa112b649.jpg?1616430435|https://scryfall.com/card/stx/196/kasmina-enigma-sage?utm_source=api>`
    Each other planeswalker you control has the loyalty abilities of Kasmina, Enigma Sage.
 
    +2: Scry 1.
