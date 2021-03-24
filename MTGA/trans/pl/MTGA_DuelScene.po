@@ -1,16 +1,18 @@
-#
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-03-17 23:04+0100\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: MTGA Po Polsku <mtgapl@kozaczko.info>\n"
+"PO-Revision-Date: 2021-03-24 23:37+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
+"duelscene/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5\n"
 
 msgctxt "DuelScene/Browsers/Assign_Damage_Text"
 msgid "Assign damage for {attacker}."
@@ -1107,7 +1109,7 @@ msgstr "Twoje uwagi mają znacznie. Dziękujemy za pomoc!"
 
 msgctxt "DuelScene/EndMatch/PostMatchSurvey_Ask"
 msgid "Did you have fun in the match?"
-msgstr ""
+msgstr "Czy dobrze ci się grało w tym meczu?"
 
 msgctxt "DuelScene/EndMatch/PostMatchSurvey_Skip"
 msgid "Skip"
