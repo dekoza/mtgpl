@@ -4,6 +4,7 @@ Spis zmian
 
 2021-03-24
    * Ultimate Masters - 100%
+   * Uzupełnienie braków w TSR
 
 2021-03-23
    * Double Masters - 100%
