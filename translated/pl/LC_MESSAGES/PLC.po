@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 18:53+0000\n"
+"PO-Revision-Date: 2021-03-24 22:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/plc/pl/>\n"
 "Language: pl\n"
@@ -376,7 +376,7 @@ msgstr ""
 
 #: ../../PLC.rst:115
 msgid "|mana_w|: Shade of Trokair gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../PLC.rst:117
 msgid ""
@@ -478,7 +478,7 @@ msgstr ""
 
 #: ../../PLC.rst:155
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr "Antymagia (Ten stwór nie może być wskazany przez czary i zdolności.)"
+msgstr "Antymagia (Ten stwór nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../PLC.rst:157
 msgid ""
@@ -796,6 +796,9 @@ msgid ""
 "choice of double strike, protection from red, vigilance, or shadow. (A "
 "creature with shadow can block or be blocked by only creatures with shadow.)"
 msgstr ""
+"|mana_0|: Do końca tury ten stwór dostaje -1/-1 oraz zdolność wybraną "
+"spośród podwójnego ciosu, ochrony przed czerwonym, czujności i cienia. ("
+"Stwór z cieniem może blokować i być blokowany tylko przez stwory z cieniem.)"
 
 #: ../../PLC.rst:260
 msgid ""
@@ -1088,6 +1091,8 @@ msgid ""
 "As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 "
 "creature, a 2/2 creature with flying, or a 1/6 creature with defender."
 msgstr ""
+"Ta karta wchodząc na pole bitwy staje się dowolnym spośród: stwór 3/3, stwór "
+"2/2 z lataniem, stwór 1/6 z obronnością."
 
 #: ../../PLC.rst:356
 msgid ""
@@ -1253,6 +1258,9 @@ msgid ""
 "Insect creature token with shroud. (It can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Kiedy ten stwór umrze, jeśli nie miał znacznika czasu, stwórz żeton "
+"zielonego stwora Owad 6/1 z antymagią. (Nie może być wskazywany przez czary "
+"i zdolności.)"
 
 #: ../../PLC.rst:412
 msgid ""
@@ -1372,6 +1380,8 @@ msgid ""
 "When Muck Drubb enters the battlefield, change the target of target spell "
 "that targets only a single creature to Muck Drubb."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zmień wskazanie wskazanego czaru "
+"wskazującego tylko jednego stwora na niniejszego stwora."
 
 #: ../../PLC.rst:449
 msgid ""
@@ -1413,6 +1423,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, |tap|, Discard a card: Target creature gets +1/+0 and "
 "gains first strike until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|, odrzuć kartę: Wskazany stwór dostaje do końca "
+"tury +1/+0 i pierwszy cios."
 
 #: ../../PLC.rst:468
 msgid ""
@@ -1611,7 +1623,7 @@ msgstr ""
 
 #: ../../PLC.rst:527
 msgid "|mana_b|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_b|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../PLC.rst:532
 msgid ""

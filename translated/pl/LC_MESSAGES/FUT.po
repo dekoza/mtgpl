@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 19:22+0000\n"
+"PO-Revision-Date: 2021-03-24 22:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -203,6 +203,12 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
+"Wskaż atakującego lub blokującego stwora. Wróż 3, następnie ujawnij "
+"wierzchnią kartę twojej biblioteki. Ten czar zadaje owemu celowi tyle "
+"obrażeń, ile wynosi skrót many ujawnionej karty. (By wróżyć 3, spójrz na "
+"trzy wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę "
+"na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../FUT.rst:68
 msgid ""
@@ -1071,6 +1077,8 @@ msgid ""
 "Morph |mana_2|\\ |mana_w| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2|\\ |mana_w| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../FUT.rst:366
 msgid ""
@@ -1224,6 +1232,8 @@ msgid ""
 "You draw X cards and you lose X life, where X is the number of creatures you "
 "control."
 msgstr ""
+"Dobierz X kart i strać X żyć, gdzie X jest liczbą stworów pod twoim "
+"władaniem."
 
 #: ../../FUT.rst:416
 msgid ""
@@ -1439,6 +1449,9 @@ msgid ""
 "your control since the beginning of your last upkeep, sacrifice it unless "
 "you pay its echo cost.)"
 msgstr ""
+"Echo—Odrzuć kartę. (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../FUT.rst:486
 msgid ""
@@ -1603,6 +1616,8 @@ msgid ""
 "Arc Blade deals 2 damage to any target. Exile Arc Blade with three time "
 "counters on it."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 2 obrażenia. Wygnaj ten czar z trzema "
+"znacznikami czasu."
 
 #: ../../FUT.rst:539
 msgid ""
@@ -1611,6 +1626,10 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 3—|mana_2|\\ |mana_r| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_2|\\ |mana_r| i wygnaj ją z trzema znacznikami czasu. "
+"Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../FUT.rst:546
 msgid ""
@@ -1828,6 +1847,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Remove a time counter from a permanent you control or "
 "suspended card you own: Rift Elemental gets +2/+0 until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|, usuń znacznik czasu z permanentu pod twoim władaniem "
+"lub własnej zawieszonej karty: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../FUT.rst:618
 msgid ""
@@ -2585,7 +2606,7 @@ msgstr ""
 
 #: ../../FUT.rst:865
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
-msgstr "Antymagia (Ten stwór nie może być wskazany przez czary i zdolności.)"
+msgstr "Antymagia (Ten stwór nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../FUT.rst:867
 msgid ""
@@ -2774,7 +2795,7 @@ msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../FUT.rst:919
 msgid "|tap|: Put a charge counter on Coalition Relic."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../FUT.rst:921
 msgid ""
@@ -2782,6 +2803,9 @@ msgid ""
 "from Coalition Relic. Add one mana of any color for each charge counter "
 "removed this way."
 msgstr ""
+"Na początku twojej fazy głównej przed potyczką, usuń wszystkie znaczniki "
+"ładunku z tego artefaktu. Weź jedną manę dowolnego koloru za każdy znacznik "
+"ładunku usunięty w ten sposób."
 
 #: ../../FUT.rst:928
 msgid ""

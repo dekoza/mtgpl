@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 15:47+0000\n"
+"PO-Revision-Date: 2021-03-24 22:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -119,7 +119,7 @@ msgstr "Latanie"
 
 #: ../../TSP.rst:29
 msgid "As long as Castle Raptors is untapped, it gets +0/+2."
-msgstr ""
+msgstr "O ile ten stwór jest odkręcony, dostaje +0/+2."
 
 #: ../../TSP.rst:36
 msgid ""
@@ -165,6 +165,8 @@ msgid ""
 "Sacrifice Children of Korlis: You gain life equal to the life you've lost "
 "this turn. (Damage causes loss of life.)"
 msgstr ""
+"Poświęć tego stwora: Zyskaj życia równe liczbie żyć straconych przez ciebie "
+"w tej turze. (Obrażenia powodują utratę żyć.)"
 
 #: ../../TSP.rst:54
 msgid ""
@@ -289,7 +291,7 @@ msgstr ""
 
 #: ../../TSP.rst:91
 msgid "|tap|: Tap target creature with toughness 2 or less."
-msgstr ""
+msgstr "|tap|: Przekręć wskazanego stwora o wytrzymałości 2 lub mniejszej."
 
 #: ../../TSP.rst:98
 msgid ""
@@ -564,6 +566,9 @@ msgid ""
 "|mana_0|: The next 1 damage that would be dealt to Outrider en-Kor this turn "
 "is dealt to target creature you control instead."
 msgstr ""
+"|mana_0|: Najbliższe 1 obrażenie, jakie mogłoby zostać zadane w tej turze "
+"temu stworowi jest zamiast tego zadane wskazanemu stworowi pod twoim "
+"władaniem."
 
 #: ../../TSP.rst:202
 msgid ""
@@ -735,6 +740,8 @@ msgid ""
 "All Sliver creatures have flanking. (Whenever a creature without flanking "
 "blocks a Sliver, the blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Wszystkie Drzazgacze mają flankowanie (Ilekroć stwór bez flankowania blokuje "
+"Drzazgacza, blokujący stwór dostaje do końca tury -1/-1.)"
 
 #: ../../TSP.rst:264
 msgid ""
@@ -1296,6 +1303,8 @@ msgid ""
 "When Riftwing Cloudskate enters the battlefield, return target permanent to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
+"właściciela."
 
 #: ../../TSP.rst:455
 msgid ""
@@ -1304,6 +1313,11 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie 3—|mana_1|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_w| i wygnaj ją z trzema znacznikami czasu. "
+"Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma "
+"pośpiech.)"
 
 #: ../../TSP.rst:460
 msgid ""
@@ -1352,17 +1366,19 @@ msgstr ""
 #: ../../TSP.rst:471
 msgid ""
 "Slipstream Serpent can't attack unless defending player controls an Island."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
 #: ../../TSP.rst:473
 msgid "When you control no Islands, sacrifice Slipstream Serpent."
-msgstr ""
+msgstr "Kiedy nie masz we władaniu Wyspy, poświęć tego stwora."
 
 #: ../../TSP.rst:475
 msgid ""
 "Morph |mana_5|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_5|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../TSP.rst:482
 msgid ""
@@ -1436,13 +1452,15 @@ msgstr ""
 
 #: ../../TSP.rst:507
 msgid "Stormcloud Djinn can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../TSP.rst:509
 msgid ""
 "|mana_r|\\ |mana_r|: Stormcloud Djinn gets +2/+0 until end of turn and deals "
 "1 damage to you."
 msgstr ""
+"|mana_r|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0 i zadaje tobie 1 "
+"obrażenie."
 
 #: ../../TSP.rst:518
 msgid ""
@@ -1948,6 +1966,8 @@ msgid ""
 "Whenever Gorgon Recluse blocks or becomes blocked by a nonblack creature, "
 "destroy that creature at end of combat."
 msgstr ""
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany przez nieczarnego "
+"stwora, zniszcz owego stwora na końcu potyczki."
 
 #: ../../TSP.rst:685
 msgid ""
@@ -1955,6 +1975,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../TSP.rst:690
 msgid ""
@@ -2241,6 +2264,9 @@ msgid ""
 "choose a card revealed this way. That player puts the chosen card on the "
 "bottom of their library."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę i wierzchnią kartę swojej biblioteki. "
+"Wybierz kartę ujawnioną w ten sposób. Ów gracz umieszcza ową kartę na "
+"spodzie swojej biblioteki."
 
 #: ../../TSP.rst:774
 msgid ""
@@ -2252,6 +2278,8 @@ msgstr ""
 #: ../../TSP.rst:773
 msgid "At the beginning of your upkeep, tap Sangrophage unless you pay 2 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, przekręć tego stwora, chyba że "
+"zapłacisz 2 życia."
 
 #: ../../TSP.rst:780
 msgid ""
@@ -2281,7 +2309,7 @@ msgstr ""
 
 #: ../../TSP.rst:783
 msgid "When you cast a creature spell, sacrifice Skittering Monstrosity."
-msgstr ""
+msgstr "Kiedy rzucisz czar stwora, poświęć tego stwora."
 
 #: ../../TSP.rst:790
 msgid ""
@@ -2416,6 +2444,8 @@ msgid ""
 "Discard a card: Trespasser il-Vec gains shadow until end of turn. (It can "
 "block or be blocked by only creatures with shadow.)"
 msgstr ""
+"Odrzuć kartę: Ten stwór zyskuje do końca tury cień. (Może blokować i być "
+"blokowany tylko przez stwory z cieniem.)"
 
 #: ../../TSP.rst:838
 msgid ""
@@ -3622,6 +3652,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, that "
 "creature gets +3/+3 until end of turn."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, ów stwór "
+"dostaje do końca tury +3/+3."
 
 #: ../../TSP.rst:1252
 msgid ""
@@ -4216,6 +4248,8 @@ msgid ""
 "Sacrifice Saffi Eriksdotter: When target creature is put into your graveyard "
 "from the battlefield this turn, return that card to the battlefield."
 msgstr ""
+"Poświęć tego stwora: Kiedy wskazany stwór trafi w tej turze z pola bitwy do "
+"cmentarza, przywróć ową kartę na pole bitwy."
 
 #: ../../TSP.rst:1438
 msgid ""
@@ -4471,12 +4505,12 @@ msgstr ""
 
 #: ../../TSP.rst:1519
 msgid "As Paradise Plume enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten artefakt na polu bitwy, wybierz kolor."
 
 #: ../../TSP.rst:1521
 msgid ""
 "Whenever a player casts a spell of the chosen color, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czar wybranego koloru, możesz zyskać 1 życie."
 
 #: ../../TSP.rst:1523
 msgid "|tap|: Add one mana of the chosen color."

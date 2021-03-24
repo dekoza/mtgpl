@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 15:47+0000\n"
+"PO-Revision-Date: 2021-03-24 22:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -3569,7 +3569,7 @@ msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../A25.rst:1175
 msgid "|tap|: Put a charge counter on Coalition Relic."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../A25.rst:1177
 msgid ""
@@ -3577,6 +3577,9 @@ msgid ""
 "from Coalition Relic. Add one mana of any color for each charge counter "
 "removed this way."
 msgstr ""
+"Na początku twojej fazy głównej przed potyczką, usuń wszystkie znaczniki "
+"ładunku z tego artefaktu. Weź jedną manę dowolnego koloru za każdy znacznik "
+"ładunku usunięty w ten sposób."
 
 #: ../../A25.rst:1182
 msgid ""
