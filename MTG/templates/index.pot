@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-09 19:52+0100\n"
+"POT-Creation-Date: 2021-03-24 22:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,120 +57,120 @@ msgid "Nadchodzące"
 msgstr ""
 
 #: ../../index.rst:39
-msgid "Modern: :mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent| (Premiera: 2021-03-19)"
-msgstr ""
-
-#: ../../index.rst:40
 msgid "Standard: :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` (Premiera: 2021-04-23)"
 msgstr ""
 
-#: ../../index.rst:43
+#: ../../index.rst:42
 msgid "Standard"
 msgstr ""
 
-#: ../../index.rst:45
+#: ../../index.rst:44
 msgid "Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar. Jest podzbiorem wszystkich innych formatów."
 msgstr ""
 
-#: ../../index.rst:48
+#: ../../index.rst:47
 msgid ":mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|"
 msgstr ""
 
-#: ../../index.rst:49
+#: ../../index.rst:48
 msgid ":mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|"
 msgstr ""
 
-#: ../../index.rst:50
+#: ../../index.rst:49
 msgid ":mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|"
 msgstr ""
 
-#: ../../index.rst:51
+#: ../../index.rst:50
 msgid ":mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |IKO_percent|"
 msgstr ""
 
-#: ../../index.rst:52
+#: ../../index.rst:51
 msgid ":mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|"
 msgstr ""
 
-#: ../../index.rst:53
+#: ../../index.rst:52
 msgid ":mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |ELD_percent|"
 msgstr ""
 
-#: ../../index.rst:56
+#: ../../index.rst:55
 msgid "Pionier"
 msgstr ""
 
-#: ../../index.rst:58
+#: ../../index.rst:57
 msgid "Nowy format bez rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Return to Ravnica<RTR>` do teraz. Jest podzbiorem formatu Modern. Na poniższej liście znajdują się dodatki poza Standardem."
 msgstr ""
 
-#: ../../index.rst:60
+#: ../../index.rst:59
 msgid ":doc:`Pionier<pioneer>`"
 msgstr ""
 
-#: ../../index.rst:63
+#: ../../index.rst:62
 msgid "Modern"
 msgstr ""
 
-#: ../../index.rst:65
+#: ../../index.rst:64
 msgid "Starszy format pozbawiony rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Mirrodin<MRD>` do teraz. Na poniższej liście znajdują się dodatki nie wymienione wcześniej."
 msgstr ""
 
-#: ../../index.rst:67
+#: ../../index.rst:66
 msgid ":doc:`Pełna lista dodatków wchodzących w skład formatu Modern<modern>`"
 msgstr ""
 
-#: ../../index.rst:69
+#: ../../index.rst:68
 msgid "Oprócz tego format otrzymał specjalny dodatek, który nigdy nie był częścią Standardu:"
 msgstr ""
 
-#: ../../index.rst:71
+#: ../../index.rst:70
 msgid ":mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |MH1_percent|"
 msgstr ""
 
-#: ../../index.rst:74
+#: ../../index.rst:73
 msgid "Legacy / Vintage"
 msgstr ""
 
-#: ../../index.rst:76
+#: ../../index.rst:75
 msgid "Formaty Legacy i Vintage zawierają wszystkie karty wydane od początku istnienia gry. Na poniższej liście znajdują się te dodatki, które nie znalazły się na wcześniejszych listach."
 msgstr ""
 
-#: ../../index.rst:79
+#: ../../index.rst:78
 msgid ":doc:`Lista dodatków<legacy>`"
 msgstr ""
 
-#: ../../index.rst:83
+#: ../../index.rst:82
 #: ../../index.rst:132
 msgid "Pozostałe produkty"
 msgstr ""
 
-#: ../../index.rst:86
+#: ../../index.rst:85
 msgid "Jumpstart"
 msgstr ""
 
-#: ../../index.rst:88
+#: ../../index.rst:87
 msgid "Jumpstart jest ciekawym sposobem na szybką grę w MTG. Dodatek zwiera niemal 500 przedruków z innych dodatków. Oprócz tego zawiera 37 nowych kart legalnych tylko w formatach Eternal (Legacy, Vintage, Commander). Karty z symbolem :mtgexp:`M21` są legalne w Standardzie 2021."
 msgstr ""
 
-#: ../../index.rst:90
+#: ../../index.rst:89
 msgid ":mtgexp:`JMP` :doc:`Jumpstart<JMP>` |JMP_percent|"
 msgstr ""
 
-#: ../../index.rst:93
+#: ../../index.rst:92
 msgid "Zestawy gildyjne"
 msgstr ""
 
-#: ../../index.rst:95
+#: ../../index.rst:94
 msgid ":mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` |GK2_percent|"
 msgstr ""
 
-#: ../../index.rst:96
+#: ../../index.rst:95
 msgid ":mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |GK1_percent|"
 msgstr ""
 
-#: ../../index.rst:100
+#: ../../index.rst:99
 msgid "Seria 'Masters'"
+msgstr ""
+
+#: ../../index.rst:101
+msgid ":mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent|"
 msgstr ""
 
 #: ../../index.rst:102
