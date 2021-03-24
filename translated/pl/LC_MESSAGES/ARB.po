@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-15 22:14+0000\n"
+"PO-Revision-Date: 2021-03-24 19:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/arb/pl/>\n"
 "Language: pl\n"
@@ -249,6 +249,10 @@ msgid ""
 "for an Aura card that could enchant that creature, put it onto the "
 "battlefield attached to that creature, then shuffle your library."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zaatakuje samotnie, możesz wyszukać w "
+"twojej bibliotece kartę Aury, która mogłaby zauroczyć owego stwora, umieść "
+"ją na polu bitwy dołączoną do owego stwora, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ARB.rst:84
 msgid ""
@@ -984,10 +988,13 @@ msgid ""
 "card to your hand this way, Vengeful Rebirth deals damage equal to that "
 "card's converted mana cost to any target."
 msgstr ""
+"Przywróć wskazaną kartę z twojego cmentarza do twojej ręki. Jeśli "
+"przywrócisz w ten sposób nielądową kartę, ten czar zadaje wskazanemu celowi "
+"obrażenia równe skrótowi many owej karty."
 
 #: ../../ARB.rst:355
 msgid "Exile Vengeful Rebirth."
-msgstr ""
+msgstr "Wygnaj ten czar."
 
 #: ../../ARB.rst:362
 msgid ""
@@ -1349,6 +1356,8 @@ msgid ""
 "Lord of Extinction's power and toughness are each equal to the number of "
 "cards in all graveyards."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart we wszystkich "
+"cmentarzach."
 
 #: ../../ARB.rst:500
 msgid ""

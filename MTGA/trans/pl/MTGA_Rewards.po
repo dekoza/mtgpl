@@ -1,16 +1,18 @@
-#
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-03-17 23:04+0100\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: MTGA Po Polsku <mtgapl@kozaczko.info>\n"
+"PO-Revision-Date: 2021-03-24 19:22+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/rewards/"
+"pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5\n"
 
 msgctxt "MainNav/EventRewards/1R"
 msgid "Card will be at least 1 rare"
@@ -48,11 +50,11 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/Booster_Pack_Generic"
 msgid "Pack"
-msgstr "Paczka"
+msgstr "Pakiet"
 
 msgctxt "MainNav/EventRewards/Booster_Pack_Set"
 msgid "{setName} Pack"
-msgstr "Paczka dodatku {setName}"
+msgstr "Pakiet z dodatku {setName}"
 
 msgctxt "MainNav/EventRewards/Brewers_0Win"
 msgid "2 uncommons outside the current meta to make fun decks for Quick Play"
@@ -451,19 +453,19 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/Pack"
 msgid "1 Pack"
-msgstr ""
+msgstr "1 pakiet"
 
 msgctxt "MainNav/EventRewards/Pack_And_Card"
 msgid "1 Pack & 1 Card"
-msgstr ""
+msgstr "1 pakiet i 1 karta"
 
 msgctxt "MainNav/EventRewards/Pack_And_Cards"
 msgid "1 Pack & {number1} Cards"
-msgstr ""
+msgstr "1 pakiet i {number1} kart(y)"
 
 msgctxt "MainNav/EventRewards/Pack_And_Skin"
 msgid "1 Pack & 1 Card Style"
-msgstr ""
+msgstr "1 pakiet i 1 styl karty"
 
 msgctxt "MainNav/EventRewards/Pack_And_Skins"
 msgid "1 Pack & {number1} Card Styles"

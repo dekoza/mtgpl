@@ -1,16 +1,18 @@
-#
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-03-17 23:04+0100\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: MTGA Po Polsku <mtgapl@kozaczko.info>\n"
+"PO-Revision-Date: 2021-03-24 19:22+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
+"mainnav_store/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5\n"
 
 msgctxt "MainNav/Store/AetherRevolt"
 msgid "Aether Revolt"
@@ -63,31 +65,31 @@ msgstr ""
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-001"
 msgid "3 Packs"
-msgstr "3 paczki"
+msgstr "3 pakiety"
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-002"
 msgid "6 Packs"
-msgstr "6 paczek"
+msgstr "6 pakietów"
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-003"
 msgid "15 Packs"
-msgstr "15 paczek"
+msgstr "15 pakietów"
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-004"
 msgid "45 Packs"
-msgstr "45 paczek"
+msgstr "45 pakietów"
 
 msgctxt "MainNav/Store/BoosterCount/Gem-Packs-005"
 msgid "90 Packs"
-msgstr "90 paczek"
+msgstr "90 pakietów"
 
 msgctxt "MainNav/Store/BoosterCount/Gold-Packs-001"
 msgid "1 Pack"
-msgstr "1 paczka"
+msgstr "1 pakiet"
 
 msgctxt "MainNav/Store/BoosterCount/PacksCount"
 msgid "{count} Packs"
-msgstr "{count} paczek"
+msgstr "{count} pakietów"
 
 msgctxt "MainNav/Store/BoosterDescription/Gem-Packs-001"
 msgid ""
@@ -1822,7 +1824,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/Buy_Packs_Title"
 msgid "Buy Packs"
-msgstr "Kup paczki"
+msgstr "Kup pakiety"
 
 msgctxt "MainNav/Store/Cancel"
 msgid "Cancel"
@@ -2342,7 +2344,7 @@ msgid ""
 "Important Note: {number1} of the {number2} cards in this bundle are already "
 "in your collection."
 msgstr ""
-"Ważna informacja: {number1} spośród {number2} kart w tym pakiecie znajduje "
+"Ważna informacja: {number1} spośród {number2} kart w tym zestawie znajduje "
 "się już w twojej kolekcji."
 
 msgctxt "MainNav/Store/Popups/Historic/DuplicateWarning_Description_Alt"
@@ -2958,19 +2960,19 @@ msgstr "Gemy"
 
 msgctxt "MainNav/Store/Store_2ndCol_GuildBundles_Bottom_Center"
 msgid "Guild Bundles"
-msgstr "Pakiety gildyjne"
+msgstr "Zestawy gildyjne"
 
 msgctxt "MainNav/Store/Store_2ndCol_Packs_Bottom_Center"
 msgid "Packs"
-msgstr "Paczki"
+msgstr "Pakiety"
 
 msgctxt "MainNav/Store/Store_2ndCol_Redeem_Bottom_Center"
 msgid "Redeem"
-msgstr ""
+msgstr "Odbierz"
 
 msgctxt "MainNav/Store/Store_Bundles"
 msgid "Bundles"
-msgstr "Pakiety"
+msgstr "Zestawy"
 
 msgctxt "MainNav/Store/Store_Header_Title"
 msgid "Store"
@@ -3172,7 +3174,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/WelcomeBundle"
 msgid "Welcome Bundle"
-msgstr "Pakiet powitalny"
+msgstr "Zestaw powitalny"
 
 msgctxt "MainNav/Store/WelcomeBundle4x"
 msgid "4x"
@@ -3180,7 +3182,7 @@ msgstr ""
 
 msgctxt "MainNav/Store/WelcomeBundleCallout"
 msgid "One Time Purchase - 2500 Gems & 5 Packs"
-msgstr "Jednorazowy zakup - 2500 gemów i 5 paczek"
+msgstr "Jednorazowy zakup - 2500 gemów i 5 pakietów"
 
 msgctxt "MainNav/Store/WelcomeBundleDesctription"
 msgid "5 Magic Core Set 2020 Packs, 2500 Gems"

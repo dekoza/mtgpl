@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 18:53+0000\n"
+"PO-Revision-Date: 2021-03-24 19:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/3ed/pl/>\n"
 "Language: pl\n"
@@ -3541,19 +3541,23 @@ msgstr ""
 
 #: ../../3ED.rst:1289
 msgid "Mana Vault doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten artefakt nie odkręca się w twoim kroku odkręcania."
 
 #: ../../3ED.rst:1291
 msgid ""
 "At the beginning of your upkeep, you may pay |mana_4|. If you do, untap Mana "
 "Vault."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz zapłacić |mana_4|. Jeśli tak "
+"zrobisz, odkręć ten artefakt."
 
 #: ../../3ED.rst:1293
 msgid ""
 "At the beginning of your draw step, if Mana Vault is tapped, it deals 1 "
 "damage to you."
 msgstr ""
+"Na początku twojego kroku dobierania, jeśli ten artefakt jest przekręcony, "
+"zadaje tobie 1 obrażenie."
 
 #: ../../3ED.rst:1300
 msgid ""
