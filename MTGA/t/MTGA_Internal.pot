@@ -1,19 +1,25 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-03-17 23:04+0100\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: MTGA Po Polsku <mtgapl@kozaczko.info>\n"
-"Language: pl\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
 
 msgctxt "Ajani"
 msgid ""
+msgstr ""
+
+msgctxt "Apple/Preorder_STX_1_ShortDesc"
+msgid "Pre-order featuring 50x Strixhaven Boosters"
+msgstr ""
+
+msgctxt "Apple/Preorder_STX_1_ShortName"
+msgid "Kasmina Pack Pre-order"
+msgstr ""
+
+msgctxt "Apple/Preorder_STX_2_ShortDesc"
+msgid "Pre-order featuring Strixhaven Set Mastery"
+msgstr ""
+
+msgctxt "Apple/Preorder_STX_2_ShortName"
+msgid "Professor Onyx Play Pre-order"
 msgstr ""
 
 msgctxt "AutoAssignCombatDamage_Label"
@@ -564,6 +570,10 @@ msgctxt "Beleren2016SmallCaps-Bold SDF"
 msgid ""
 msgstr ""
 
+msgctxt "BP/RewardTrack/RewardOrb_ELD"
+msgid "Eldraine Mastery Orb"
+msgstr ""
+
 msgctxt "Buy_Avatars_Title"
 msgid "<color=white>Buy Avatars</color>*"
 msgstr ""
@@ -996,6 +1006,10 @@ msgstr ""
 
 msgctxt "Event_Title_Treasure_Constructed"
 msgid "Treasure Constructed"
+msgstr ""
+
+msgctxt "FakeThing"
+msgid "FakeThing"
 msgstr ""
 
 msgctxt "General/Sets/AER"
@@ -1522,7 +1536,7 @@ msgid "Loading Data"
 msgstr ""
 
 msgctxt "MainNav/Collection/Collection_Foreground_Search_Placeholder"
-msgid "Search…"
+msgid "Search..."
 msgstr ""
 
 msgctxt "MainNav/Collection/Collection_Forgreound_Row2_Sort"
@@ -2970,6 +2984,10 @@ msgctxt "MainNav/PetNames/HA4_Cat"
 msgid "Amon-cat"
 msgstr ""
 
+msgctxt "MainNav/PetNames/HA4_Thopter"
+msgid "Thopter"
+msgstr ""
+
 msgctxt "MainNav/PetNames/IKO_BattlePass_1"
 msgid "Regal Cub"
 msgstr ""
@@ -3052,6 +3070,10 @@ msgstr ""
 
 msgctxt "MainNav/PetNames/SkycatCub"
 msgid "Azizi"
+msgstr ""
+
+msgctxt "MainNav/PetNames/STX_Preorder"
+msgid "Codie, Vociferous Codex"
 msgstr ""
 
 msgctxt "MainNav/PetNames/THB_BattlePass"
@@ -3873,6 +3895,18 @@ msgctxt "MainNav/Rewards/QualifierTokenDescription_Header"
 msgid "Qualified"
 msgstr ""
 
+msgctxt "MainNav/Rewards/QualifierTokenDescription_StartTime"
+msgid "Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/Rewards/QualifierTokenDescription_StartTime_DuringDST"
+msgid "Join between 6am and 8am Pacific (1300 UTC - 1500 UTC)"
+msgstr ""
+
+msgctxt "MainNav/Rewards/QualifierTokenDescription_StartTime_NotDuringDST"
+msgid "Join between 6am and 8am Pacific"
+msgstr ""
+
 msgctxt "MainNav/Rewards/Rewards_SeasonEnd_Title"
 msgid "Season Rankings"
 msgstr ""
@@ -4002,31 +4036,31 @@ msgid "Throne of Eldraine Season 3"
 msgstr ""
 
 msgctxt "MainNav/Season/Season13Name"
-msgid "January 2020"
+msgid "Jan-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season14Name"
-msgid "February 2020"
+msgid "Feb-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season15Name"
-msgid "March 2020"
+msgid "Mar-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season16Name"
-msgid "April 2020"
+msgid "Apr-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season17Name"
-msgid "May 2020"
+msgid "May-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season18Name"
-msgid "June 2020"
+msgid "Jun-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season19Name"
-msgid "July 2020"
+msgid "Jul-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season1Name"
@@ -4034,15 +4068,15 @@ msgid "Preseason 1"
 msgstr ""
 
 msgctxt "MainNav/Season/Season20Name"
-msgid "August 2020"
+msgid "Aug-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season21Name"
-msgid "September 2020"
+msgid "Sep-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season22Name"
-msgid "October 2020"
+msgid "Oct-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season23Name"
@@ -4050,7 +4084,7 @@ msgid "\"November 2020\""
 msgstr ""
 
 msgctxt "MainNav/Season/Season24Name"
-msgid "December 2020"
+msgid "Dec-20"
 msgstr ""
 
 msgctxt "MainNav/Season/Season25Name"
@@ -4965,6 +4999,30 @@ msgctxt "Nissa"
 msgid ""
 msgstr ""
 
+msgctxt "Notification/Channel/Main_Default_Body"
+msgid "General notifications from Magic the Gathering: Arena."
+msgstr ""
+
+msgctxt "Notification/Channel/Main_Default_Title"
+msgid "General"
+msgstr ""
+
+msgctxt "Notification/Channel/Main_High_Body"
+msgid "Alerts from Magic the Gathering: Arena."
+msgstr ""
+
+msgctxt "Notification/Channel/Main_High_Title"
+msgid "Alerts"
+msgstr ""
+
+msgctxt "Notification/Channel/News_Body"
+msgid "News and updates about Magic the Gathering: Arena."
+msgstr ""
+
+msgctxt "Notification/Channel/News_Title"
+msgid "News"
+msgstr ""
+
 msgctxt "Notification/Notification_ColorChallenge_Quest_BR_Body"
 msgid "Unlock a new Black and Red deck by completing your latest quest."
 msgstr ""
@@ -5158,6 +5216,10 @@ msgctxt "System_Network_IdleDisconnect_Title"
 msgid "Time-out"
 msgstr ""
 
+msgctxt "TBD"
+msgid "Privacy Policy"
+msgstr ""
+
 msgctxt "Text for Merchant Center"
 msgid ""
 "Explorer Bundle:\n"
@@ -5249,6 +5311,27 @@ msgid ""
 "Master of Time Sleeve"
 msgstr ""
 
+msgctxt "Xsolla/Preorder_STX_1_Description"
+msgid ""
+"Kasmina Pack Pre-order:\n"
+"50x <i>Strixhaven</i> Boosters\n"
+"1x Kasmina, Enigma Sage\n"
+"1x Kasmina, Enigma Sage Style\n"
+"Enigma Sage Sleeve"
+msgstr ""
+
+msgctxt "Xsolla/Preorder_STX_2_Description"
+msgid ""
+"Professor Onyx Play Pre-order:\n"
+"<i>Strixhaven</i> Set Mastery Pass\n"
+"3x Player Draft Token\n"
+"1x Sealed Token\n"
+"1x Professor Onyx Card\n"
+"1x Professor Onyx Style\n"
+"Professor Onyx Sleeve\n"
+"Codie the Codex Pet"
+msgstr ""
+
 msgctxt "Xsolla/Preorder_ZNR_1_Description"
 msgid ""
 "Jace Pack Pre-order:  \n"
@@ -5296,9 +5379,9 @@ msgctxt "Xsolla/PreorderIKO2_Description"
 msgid ""
 "Vivien Pack Pre-order: \n"
 "50x Ikoria: Lair of Behemoths Boosters\n"
-"1x Vivien, Monsters� Advocate Card\n"
+"1x Vivien, Monsters  Advocate Card\n"
 "10x Bonus Godzilla Series Monster Card Styles\n"
-"Vivien, Monsters� Advocate Card Style\n"
+"Vivien, Monsters  Advocate Card Style\n"
 "Vivien Tracker Sleeve"
 msgstr ""
 
