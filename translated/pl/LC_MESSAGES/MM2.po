@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 15:47+0000\n"
+"PO-Revision-Date: 2021-03-24 19:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -3011,10 +3011,13 @@ msgid ""
 "card to your hand this way, Vengeful Rebirth deals damage equal to that "
 "card's converted mana cost to any target."
 msgstr ""
+"Przywróć wskazaną kartę z twojego cmentarza do twojej ręki. Jeśli "
+"przywrócisz w ten sposób nielądową kartę, ten czar zadaje wskazanemu celowi "
+"obrażenia równe skrótowi many owej karty."
 
 #: ../../MM2.rst:1041
 msgid "Exile Vengeful Rebirth."
-msgstr ""
+msgstr "Wygnaj ten czar."
 
 #: ../../MM2.rst:1046
 msgid ""

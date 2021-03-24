@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 18:58+0000\n"
+"PO-Revision-Date: 2021-03-24 19:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -2568,6 +2568,9 @@ msgid ""
 "named Spark Elemental. It has trample, haste, and \"At the beginning of the "
 "end step, sacrifice Spark Elemental.\""
 msgstr ""
+"|mana_r|, |tap|, odrzuć kartę: Stwórz żeton czerwonego stwora Żywiołak 3/1 o "
+"nazwie Spark Elemental. Ma in tratowanie, pośpiech oraz \"Na początku kroku "
+"końcowego, poświęć tego stwora.\""
 
 #: ../../UMA.rst:820
 msgid ""
@@ -2581,6 +2584,8 @@ msgid ""
 "At the beginning of your upkeep, you may return Squee, Goblin Nabob from "
 "your graveyard to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz przywrócić tę kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../UMA.rst:828
 msgid ""
@@ -2614,6 +2619,8 @@ msgid ""
 "creature gains haste. Sacrifice that creature at the beginning of the next "
 "end step."
 msgstr ""
+"Możesz umieścić kartę stwora z twojej ręki na polu bitwy. Ów stwór zyskuje "
+"pośpiech. Poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../UMA.rst:833
 msgid ""
@@ -2686,6 +2693,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tylko raz na turę."
 
 #: ../../UMA.rst:855
 msgid ""
@@ -2771,7 +2780,7 @@ msgstr "|tap|: Weź |mana_g|."
 
 #: ../../UMA.rst:893
 msgid "Put a -1/-1 counter on Devoted Druid: Untap Devoted Druid."
-msgstr ""
+msgstr "Umieść znacznik -1/-1 na tym stworze: Odkręć tego stwora."
 
 #: ../../UMA.rst:898
 msgid ""
@@ -2813,7 +2822,7 @@ msgstr ""
 
 #: ../../UMA.rst:905
 msgid "Whenever a creature dies, that creature's controller may draw a card."
-msgstr ""
+msgstr "Ilekroć umrze stwór, władca owego stwora może dobrać kartę."
 
 #: ../../UMA.rst:912
 msgid ""
@@ -2827,6 +2836,7 @@ msgid ""
 "When Golgari Brownscale is put into your hand from your graveyard, you gain "
 "2 life."
 msgstr ""
+"Kiedy ta karta trafi z twojego cmentarza do twojej ręki, zyskaj 2 życia."
 
 #: ../../UMA.rst:911 ../../UMA.rst:1325
 msgid ""
@@ -2849,12 +2859,14 @@ msgid ""
 "Golgari Grave-Troll enters the battlefield with a +1/+1 counter on it for "
 "each creature card in your graveyard."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za każdą kartę stwora w "
+"twoim cmentarzu."
 
 #: ../../UMA.rst:917
 msgid ""
 "|mana_1|, Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate "
 "Golgari Grave-Troll."
-msgstr ""
+msgstr "|mana_1|, usuń znacznik +1/+1 z tego stwora: Zregeneruj tego stwora."
 
 #: ../../UMA.rst:919
 msgid ""
@@ -2929,6 +2941,8 @@ msgstr ""
 #: ../../UMA.rst:941
 msgid "Return up to three target land cards from your graveyard to your hand."
 msgstr ""
+"Przywróć co najwyżej trzy wskazane karty lądów z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../UMA.rst:943
 msgid ""
@@ -2977,10 +2991,12 @@ msgid ""
 "You may exile a green card with converted mana cost X from your hand rather "
 "than pay this spell's mana cost."
 msgstr ""
+"Możesz wygnać zieloną kartę o skrócie many X z twojej ręki zamiast płacić "
+"koszt many tego czaru."
 
 #: ../../UMA.rst:959
 msgid "You gain X life."
-msgstr ""
+msgstr "Zyskaj X żyć."
 
 #: ../../UMA.rst:966
 msgid ""
@@ -2995,6 +3011,9 @@ msgid ""
 "library for a creature card, put that card onto the battlefield, then "
 "shuffle their library."
 msgstr ""
+"Kiedy zauroczony stwór umrze, władca owego stwora może wyszukać w swojej "
+"bibliotece kartę stwora, umieścić ją na polu bitwy, następnie tasuje swoją "
+"bibliotekę."
 
 #: ../../UMA.rst:972
 msgid ""
@@ -3007,6 +3026,7 @@ msgstr ""
 msgid ""
 "When Penumbra Wurm dies, create a 6/6 black Wurm creature token with trample."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton zielonego stwora Żmij 6/6 z tratowaniem."
 
 #: ../../UMA.rst:976
 msgid ""
@@ -3207,13 +3227,15 @@ msgstr ""
 
 #: ../../UMA.rst:1039
 msgid "|mana_g|, Sacrifice Verdant Eidolon: Add three mana of any one color."
-msgstr ""
+msgstr "|mana_g|, poświęć tego stwora: Weź trzy many w jednym dowolnym kolorze."
 
 #: ../../UMA.rst:1041
 msgid ""
 "Whenever you cast a multicolored spell, you may return Verdant Eidolon from "
 "your graveyard to your hand."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, możesz przywrócić tę kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../UMA.rst:1048
 msgid ""
@@ -3227,6 +3249,8 @@ msgid ""
 "When Walker of the Grove leaves the battlefield, create a 4/4 green "
 "Elemental creature token."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, stwórz żeton zielonego stwora Żywiołak 4/"
+"4."
 
 #: ../../UMA.rst:1047
 msgid ""
@@ -3245,13 +3269,15 @@ msgstr ""
 
 #: ../../UMA.rst:1051
 msgid "Wickerbough Elder enters the battlefield with a -1/-1 counter on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając znacznik -1/-1."
 
 #: ../../UMA.rst:1053
 msgid ""
 "|mana_g|, Remove a -1/-1 counter from Wickerbough Elder: Destroy target "
 "artifact or enchantment."
 msgstr ""
+"|mana_g|, usuń znacznik -1/-1 z tego stwora: Zniszcz wskazany artefakt lub "
+"urok."
 
 #: ../../UMA.rst:1060
 msgid ""
@@ -3276,6 +3302,8 @@ msgid ""
 "Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice "
 "until end of turn."
 msgstr ""
+"Odrzuć kartę: Ten stwór do końca tury dostaje +1/+1 i staje się wybranego "
+"przez cienie koloru."
 
 #: ../../UMA.rst:1072
 msgid ""
@@ -3289,6 +3317,8 @@ msgid ""
 "When Woodfall Primus enters the battlefield, destroy target noncreature "
 "permanent."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-stworowy "
+"permanent."
 
 #: ../../UMA.rst:1078
 msgid ""
@@ -3326,7 +3356,7 @@ msgstr ""
 
 #: ../../UMA.rst:1085
 msgid "Counter target noncreature spell. Its controller loses 2 life."
-msgstr ""
+msgstr "Skontruj wskazany nie-stworowy czar. Jego władca traci 2 życia."
 
 #: ../../UMA.rst:1092
 msgid ""
@@ -3337,11 +3367,11 @@ msgstr ""
 
 #: ../../UMA.rst:1089
 msgid "Noncreature spells with converted mana cost 4 or greater can't be cast."
-msgstr ""
+msgstr "Nie można rzucać nie-stworowych czarów o skrótach many 4 lub większych."
 
 #: ../../UMA.rst:1091
 msgid "Noncreature spells with |mana_x| in their mana costs can't be cast."
-msgstr ""
+msgstr "Nie można rzucać nie-stworowych czarów mających |mana_x| w koszcie."
 
 #: ../../UMA.rst:1100
 msgid ""
@@ -3396,6 +3426,8 @@ msgid ""
 "Whenever you or a permanent you control becomes the target of a spell or "
 "ability an opponent controls, you may draw a card."
 msgstr ""
+"Ilekroć ty lub permanent pod twoim władaniem zostanie wskazany przez czar "
+"lub zdolność pod władaniem przeciwnika, możesz dobrać kartę."
 
 #: ../../UMA.rst:1120
 msgid ""
@@ -3409,6 +3441,8 @@ msgid ""
 "Lord of Extinction's power and toughness are each equal to the number of "
 "cards in all graveyards."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart we wszystkich "
+"cmentarzach."
 
 #: ../../UMA.rst:1124
 msgid ""
@@ -3438,6 +3472,9 @@ msgid ""
 "hand. You gain life equal to that card's converted mana cost. Put all other "
 "cards revealed this way into your graveyard."
 msgstr ""
+"Ujawnij trzy wierzchnie karty twojej biblioteki i umieść jedną z nich w "
+"twojej ręce. Zyskaj życia równe jej skrótowi many. Umieść pozostałe karty "
+"ujawnione w ten sposób w twoim cmentarzu."
 
 #: ../../UMA.rst:1134
 msgid ""
@@ -3472,6 +3509,10 @@ msgid ""
 "for an Aura card that could enchant that creature, put it onto the "
 "battlefield attached to that creature, then shuffle your library."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zaatakuje samotnie, możesz wyszukać w "
+"twojej bibliotece kartę Aury, która mogłaby zauroczyć owego stwora, umieść "
+"ją na polu bitwy dołączoną do owego stwora, następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../UMA.rst:1144
 msgid ""
@@ -3497,10 +3538,13 @@ msgid ""
 "card to your hand this way, Vengeful Rebirth deals damage equal to that "
 "card's converted mana cost to any target."
 msgstr ""
+"Przywróć wskazaną kartę z twojego cmentarza do twojej ręki. Jeśli "
+"przywrócisz w ten sposób nielądową kartę, ten czar zadaje wskazanemu celowi "
+"obrażenia równe skrótowi many owej karty."
 
 #: ../../UMA.rst:1149
 msgid "Exile Vengeful Rebirth."
-msgstr ""
+msgstr "Wygnaj ten czar."
 
 #: ../../UMA.rst:1154
 msgid ""
@@ -3541,6 +3585,8 @@ msgid ""
 "Abomination enters the battlefield with a -1/-1 counter on it for each "
 "creature that player controls."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy wybierz przeciwnika. Ten stwór wchodzi "
+"na pole bitwy mając tyle znaczników -1/-1, iloma stworami włada ów gracz."
 
 #: ../../UMA.rst:1170
 msgid ""
@@ -3602,7 +3648,7 @@ msgstr ""
 
 #: ../../UMA.rst:1181
 msgid "When Kitchen Finks enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../UMA.rst:1190
 msgid ""
@@ -3616,6 +3662,8 @@ msgid ""
 "When Murderous Redcap enters the battlefield, it deals damage equal to its "
 "power to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi obrażenia "
+"równe swojej sile."
 
 #: ../../UMA.rst:1196
 msgid ""
@@ -3658,13 +3706,15 @@ msgstr "(|mana_gu| można opłacić używając |mana_g| albo |mana_u|.)"
 
 #: ../../UMA.rst:1217
 msgid "When Shielding Plax enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../UMA.rst:1219
 msgid ""
 "Enchanted creature can't be the target of spells or abilities your opponents "
 "control."
 msgstr ""
+"Zauroczony stwór nie może być wskazywany przez czary i zdolności pod "
+"władaniem twoich przeciwników."
 
 #: ../../UMA.rst:1224
 msgid ""
@@ -3685,6 +3735,8 @@ msgid ""
 "Exile target creature. Return that card to the battlefield under its owner's "
 "control at the beginning of the next end step."
 msgstr ""
+"Wygnaj wskazanego stwora. Przywróć ową kartę na pole bitwy pod władaniem jej "
+"właściciela na początku najbliższego kroku końcowego."
 
 #: ../../UMA.rst:1232
 msgid ""
@@ -3696,6 +3748,8 @@ msgstr ""
 #: ../../UMA.rst:1231
 msgid "Fire deals 2 damage divided as you choose among one or two targets."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone dowolnie pomiędzy jeden lub dwa "
+"wskazane cele."
 
 #: ../../UMA.rst:1238
 msgid ""
@@ -3706,7 +3760,7 @@ msgstr ""
 
 #: ../../UMA.rst:1235
 msgid "Tap target permanent."
-msgstr ""
+msgstr "Przekręć wskazany permanent."
 
 #: ../../UMA.rst:1242
 msgid ""
@@ -3752,7 +3806,7 @@ msgstr ""
 
 #: ../../UMA.rst:1251
 msgid "Sacrifice Heap Doll: Exile target card from a graveyard."
-msgstr ""
+msgstr "Poświęć tego stwora: Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../UMA.rst:1262
 msgid ""
@@ -3763,19 +3817,23 @@ msgstr ""
 
 #: ../../UMA.rst:1255
 msgid "Mana Vault doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten artefakt nie odkręca się w twoim kroku odkręcania."
 
 #: ../../UMA.rst:1257
 msgid ""
 "At the beginning of your upkeep, you may pay |mana_4|. If you do, untap Mana "
 "Vault."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz zapłacić |mana_4|. Jeśli tak "
+"zrobisz, odkręć ten artefakt."
 
 #: ../../UMA.rst:1259
 msgid ""
 "At the beginning of your draw step, if Mana Vault is tapped, it deals 1 "
 "damage to you."
 msgstr ""
+"Na początku twojego kroku dobierania, jeśli ten artefakt jest przekręcony, "
+"zadaje tobie 1 obrażenie."
 
 #: ../../UMA.rst:1261
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
@@ -3794,6 +3852,9 @@ msgid ""
 "player returns all cards named Myr Servitor from their graveyard to the "
 "battlefield."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ta karta jest na polu bitwy, "
+"każdy gracz przywraca każdą kartę o nazwie Myr Servitor ze swojego cmentarza "
+"na pole bitwy."
 
 #: ../../UMA.rst:1270
 msgid ""
@@ -3804,7 +3865,7 @@ msgstr ""
 
 #: ../../UMA.rst:1269
 msgid "Discard a card: Regenerate Patchwork Gnomes."
-msgstr ""
+msgstr "Odrzuć kartę: Zregeneruj tego stwora."
 
 #: ../../UMA.rst:1274
 msgid ""
@@ -3815,7 +3876,7 @@ msgstr ""
 
 #: ../../UMA.rst:1273
 msgid "Sacrifice a creature: Add one mana of any color."
-msgstr ""
+msgstr "Poświęć stwora: Weź jedną manę dowolnego koloru."
 
 #: ../../UMA.rst:1278
 msgid ""
@@ -3829,6 +3890,8 @@ msgid ""
 "Your life total can't change. (You can't gain or lose life. You can't pay "
 "any amount of life except 0.)"
 msgstr ""
+"Twoja liczba żyć nie może się zmienić. (Nie możesz zyskać lub stracić żyć. "
+"Nie możesz opłacać życiem żadnych wartości poza 0.)"
 
 #: ../../UMA.rst:1284
 msgid ""
@@ -3876,6 +3939,7 @@ msgstr ""
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Ancient Tomb deals 2 damage to you."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Ten artefakt zadaje tobie 2 obrażenia."
 
 #: ../../UMA.rst:1302
 msgid ""
@@ -3905,7 +3969,7 @@ msgstr ""
 
 #: ../../UMA.rst:1305
 msgid "Celestial Colonnade enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../UMA.rst:1307
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -3917,6 +3981,8 @@ msgid ""
 "becomes a 4/4 white and blue Elemental creature with flying and vigilance. "
 "It's still a land."
 msgstr ""
+"|mana_3|\\ |mana_w|\\ |mana_u|: Do końca tury ten ląd staje się biało-"
+"niebieskim stworem Żywiołak 4/4 z lataniem i czujnością. Nadal jest lądem."
 
 #: ../../UMA.rst:1318
 msgid ""
@@ -3927,7 +3993,7 @@ msgstr ""
 
 #: ../../UMA.rst:1313
 msgid "Creeping Tar Pit enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../UMA.rst:1315
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3939,6 +4005,8 @@ msgid ""
 "black Elemental creature until end of turn and can't be blocked this turn. "
 "It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_u|\\ |mana_b|: Do końca tury ten ląd staje się czarnym "
+"stworem Żywiołak 3/2 i nie może być blokowany w tej turze. Nadal jest lądem."
 
 #: ../../UMA.rst:1326
 msgid ""
@@ -3949,7 +4017,7 @@ msgstr ""
 
 #: ../../UMA.rst:1321
 msgid "Dakmor Salvage enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../UMA.rst:1323
 msgid "|tap|: Add |mana_b|."
@@ -4034,7 +4102,7 @@ msgstr ""
 
 #: ../../UMA.rst:1355
 msgid "Lavaclaw Reaches enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../UMA.rst:1357
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4046,6 +4114,9 @@ msgid ""
 "a 2/2 black and red Elemental creature with \"|mana_x|: This creature gets "
 "+X/+0 until end of turn.\" It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_r|: Do końca tury ten ląd staje się czarno-"
+"czerwonym stworem Żywiołak 2/2 mającym \"|mana_x|: Ten stwór dostaje do "
+"końca tury +X/+0.\" Nadal jest lądem."
 
 #: ../../UMA.rst:1368
 msgid ""
@@ -4079,7 +4150,7 @@ msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../UMA.rst:1373
 msgid "Mistveil Plains enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../UMA.rst:1375
 msgid ""
@@ -4087,6 +4158,9 @@ msgid ""
 "library. Activate this ability only if you control two or more white "
 "permanents."
 msgstr ""
+"|mana_w|, |tap|: Umieść wskazaną kartę z cmentarza na spodzie twojej "
+"biblioteki. Możesz aktywować tylko jeśli władasz co najmniej dwoma białymi "
+"permanentami."
 
 #: ../../UMA.rst:1382
 msgid ""
@@ -4108,7 +4182,7 @@ msgstr ""
 
 #: ../../UMA.rst:1385
 msgid "Raging Ravine enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../UMA.rst:1387
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4120,6 +4194,9 @@ msgid ""
 "3/3 red and green Elemental creature with \"Whenever this creature attacks, "
 "put a +1/+1 counter on it.\" It's still a land."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_g|: Do końca tury ten ląd staje się czerwono-"
+"zielonym stworem Żywiołak 3/3 mającym \"Ilekroć ten stwór zaatakuje, umieść "
+"na nim znacznik +1/+1.\" Nadal jest lądem."
 
 #: ../../UMA.rst:1396
 msgid ""
@@ -4141,7 +4218,7 @@ msgstr ""
 
 #: ../../UMA.rst:1399
 msgid "Stirring Wildwood enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../UMA.rst:1401
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -4152,6 +4229,8 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_w|: Until end of turn, Stirring Wildwood becomes "
 "a 3/4 green and white Elemental creature with reach. It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_g|\\ |mana_w|: Do końca tury ten ląd staje się zielono-"
+"białym stworem Żywiołak 3/4 z zasięgiem. Nadal jest lądem."
 
 #: ../../UMA.rst:1408
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 18:53+0000\n"
+"PO-Revision-Date: 2021-03-24 19:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -2360,6 +2360,7 @@ msgid ""
 "When Golgari Brownscale is put into your hand from your graveyard, you gain "
 "2 life."
 msgstr ""
+"Kiedy ta karta trafi z twojego cmentarza do twojej ręki, zyskaj 2 życia."
 
 #: ../../RAV.rst:856
 msgid ""
@@ -2373,12 +2374,14 @@ msgid ""
 "Golgari Grave-Troll enters the battlefield with a +1/+1 counter on it for "
 "each creature card in your graveyard."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za każdą kartę stwora w "
+"twoim cmentarzu."
 
 #: ../../RAV.rst:853
 msgid ""
 "|mana_1|, Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate "
 "Golgari Grave-Troll."
-msgstr ""
+msgstr "|mana_1|, usuń znacznik +1/+1 z tego stwora: Zregeneruj tego stwora."
 
 #: ../../RAV.rst:855
 msgid ""
@@ -2447,6 +2450,8 @@ msgstr ""
 #: ../../RAV.rst:877
 msgid "Return up to three target land cards from your graveyard to your hand."
 msgstr ""
+"Przywróć co najwyżej trzy wskazane karty lądów z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../RAV.rst:888
 msgid ""
