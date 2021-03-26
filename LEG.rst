@@ -1511,7 +1511,7 @@
    All creatures have "At the beginning of your upkeep, destroy this creature unless you pay |mana_1|."
 
 
-:mtgtip:`Tolaria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d43c01b7-443d-4061-a934-6863d230c9b8.jpg?1587910653|https://scryfall.com/card/leg/308/tolaria?utm_source=api>`
+:mtgtip:`Tolaria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d43c01b7-443d-4061-a934-6863d230c9b8.jpg?1616399923|https://scryfall.com/card/leg/308/tolaria?utm_source=api>`
    |tap|: Add |mana_u|.
 
    |tap|: Target creature loses banding and all "bands with other" abilities until end of turn. Activate this ability only during any upkeep step.

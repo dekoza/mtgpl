@@ -51,7 +51,7 @@
    Creatures you control get +1/+1 until end of turn.
 
 
-:mtgtip:`D'Avenant Trapper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5881ab3-566b-4999-997e-cd5ecb84282b.jpg?1562740739|https://scryfall.com/card/dom/11/davenant-trapper?utm_source=api>`
+:mtgtip:`D'Avenant Trapper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5881ab3-566b-4999-997e-cd5ecb84282b.jpg?1615334479|https://scryfall.com/card/dom/11/davenant-trapper?utm_source=api>`
    Whenever you cast a historic spell, tap target creature an opponent controls. (Artifacts, legendaries, and Sagas are historic.)
 
 
@@ -813,7 +813,7 @@
    Sacrifice a Goblin: Add |mana_r|.
 
 
-:mtgtip:`Skizzik<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77af9d28-1639-47bd-b925-7f3d2eefd352.jpg?1562738023|https://scryfall.com/card/dom/145/skizzik?utm_source=api>`
+:mtgtip:`Skizzik<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77af9d28-1639-47bd-b925-7f3d2eefd352.jpg?1615334491|https://scryfall.com/card/dom/145/skizzik?utm_source=api>`
    Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)
 
    Trample, haste
@@ -867,7 +867,7 @@
    Put a +1/+1 counter on target creature you control if it's legendary. Then it fights target creature an opponent controls. (Each deals damage equal to its power to the other.)
 
 
-:mtgtip:`Arbor Armament<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bceb365c-5de6-47ae-b42d-7fbce7781f8e.jpg?1562742057|https://scryfall.com/card/dom/155/arbor-armament?utm_source=api>`
+:mtgtip:`Arbor Armament<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bceb365c-5de6-47ae-b42d-7fbce7781f8e.jpg?1615334447|https://scryfall.com/card/dom/155/arbor-armament?utm_source=api>`
    Put a +1/+1 counter on target creature. That creature gains reach until end of turn.
 
 

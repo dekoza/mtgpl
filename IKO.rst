@@ -101,7 +101,7 @@
    |mana_1|\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you control with vigilance.
 
 
-:mtgtip:`Lavabrink Venturer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38c0d9d6-c9c7-4169-8106-400445643a1a.jpg?1591230294|https://scryfall.com/card/iko/19/lavabrink-venturer?utm_source=api>`
+:mtgtip:`Lavabrink Venturer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38c0d9d6-c9c7-4169-8106-400445643a1a.jpg?1615646020|https://scryfall.com/card/iko/19/lavabrink-venturer?utm_source=api>`
    As Lavabrink Venturer enters the battlefield, choose odd or even. (Zero is even.)
 
    Lavabrink Venturer has protection from each converted mana cost of the chosen value.
@@ -465,7 +465,7 @@
    Whenever this creature mutates, each opponent sacrifices a creature.
 
 
-:mtgtip:`Corpse Churn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1c0c764-791d-4181-8f7a-147554d97d97.jpg?1591226690|https://scryfall.com/card/iko/81/corpse-churn?utm_source=api>`
+:mtgtip:`Corpse Churn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1c0c764-791d-4181-8f7a-147554d97d97.jpg?1615672043|https://scryfall.com/card/iko/81/corpse-churn?utm_source=api>`
    Mill three cards, then you may return a creature card from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)
 
 
@@ -853,7 +853,7 @@
    When Excavation Mole enters the battlefield, mill three cards.
 
 
-:mtgtip:`Exuberant Wolfbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c8ff0da-fbe3-4c95-bc39-c975c55b6aea.jpg?1591227595|https://scryfall.com/card/iko/151/exuberant-wolfbear?utm_source=api>`
+:mtgtip:`Exuberant Wolfbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c8ff0da-fbe3-4c95-bc39-c975c55b6aea.jpg?1615720626|https://scryfall.com/card/iko/151/exuberant-wolfbear?utm_source=api>`
    Whenever Exuberant Wolfbear attacks, you may change the base power and toughness of target Human you control to Exuberant Wolfbear's power and toughness until end of turn.
 
 
@@ -1247,7 +1247,7 @@
    At the beginning of your end step, you gain 1 life for each creature you control with vigilance.
 
 
-:mtgtip:`Cunning Nightbonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adb202e7-f9a4-4785-840d-18aa6aa663b4.jpg?1591228341|https://scryfall.com/card/iko/219/cunning-nightbonder?utm_source=api>`
+:mtgtip:`Cunning Nightbonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adb202e7-f9a4-4785-840d-18aa6aa663b4.jpg?1614877603|https://scryfall.com/card/iko/219/cunning-nightbonder?utm_source=api>`
    Flash
 
    Spells with flash you cast cost |mana_1| less to cast and can't be countered.
@@ -1291,7 +1291,7 @@
    When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with converted mana cost 3 or greater.
 
 
-:mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1613387006|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
+:mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1616182245|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
    Companion — Each permanent card in your starting deck has converted mana cost 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Lifelink
@@ -1333,7 +1333,7 @@
    Spells you cast of the chosen type cost |mana_1| less to cast.
 
 
-:mtgtip:`Yorion, Sky Nomad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/275426c4-c14e-47d0-a9d4-24da7f6f6911.jpg?1591228496|https://scryfall.com/card/iko/232/yorion-sky-nomad?utm_source=api>`
+:mtgtip:`Yorion, Sky Nomad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/275426c4-c14e-47d0-a9d4-24da7f6f6911.jpg?1616182288|https://scryfall.com/card/iko/232/yorion-sky-nomad?utm_source=api>`
    Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Flying
@@ -1341,7 +1341,7 @@
    When Yorion enters the battlefield, exile any number of other nonland permanents you own and control. Return those cards to the battlefield at the beginning of the next end step.
 
 
-:mtgtip:`Zirda, the Dawnwaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bd8e61c-2ee8-4243-a848-7008810db8a0.jpg?1591789867|https://scryfall.com/card/iko/233/zirda-the-dawnwaker?utm_source=api>`
+:mtgtip:`Zirda, the Dawnwaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bd8e61c-2ee8-4243-a848-7008810db8a0.jpg?1615132391|https://scryfall.com/card/iko/233/zirda-the-dawnwaker?utm_source=api>`
    Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Abilities you activate that aren't mana abilities cost |mana_2| less to activate. This effect can't reduce the mana in that cost to less than one mana.
@@ -1431,7 +1431,7 @@
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e3d6745-8904-4905-a98f-d43f18b51d6d.jpg?1591228633|https://scryfall.com/card/iko/247/evolving-wilds?utm_source=api>`
+:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e3d6745-8904-4905-a98f-d43f18b51d6d.jpg?1615738130|https://scryfall.com/card/iko/247/evolving-wilds?utm_source=api>`
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 

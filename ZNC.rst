@@ -5,7 +5,7 @@
 ========================================
 
 
-:mtgtip:`Anowon, the Ruin Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bca84fc4-4710-44c8-b90a-73ef888714d8.jpg?1604195218|https://scryfall.com/card/znc/1/anowon-the-ruin-thief?utm_source=api>`
+:mtgtip:`Anowon, the Ruin Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bca84fc4-4710-44c8-b90a-73ef888714d8.jpg?1615171221|https://scryfall.com/card/znc/1/anowon-the-ruin-thief?utm_source=api>`
    Other Rogues you control get +1/+1.
 
    Whenever one or more Rogues you control deal combat damage to a player, that player mills a card for each 1 damage dealt to them. If the player mills at least one creature card this way, you draw a card. (To mill a card, a player puts the top card of their library into their graveyard.)
@@ -317,7 +317,7 @@
    |mana_1|\ |mana_b|: Each player mills a card.
 
 
-:mtgtip:`Zulaport Cutthroat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a264eb1-9fd4-4cf3-8eff-0def0ccbfbd7.jpg?1604193635|https://scryfall.com/card/znc/57/zulaport-cutthroat?utm_source=api>`
+:mtgtip:`Zulaport Cutthroat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a264eb1-9fd4-4cf3-8eff-0def0ccbfbd7.jpg?1614441662|https://scryfall.com/card/znc/57/zulaport-cutthroat?utm_source=api>`
    Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.
 
 
@@ -485,8 +485,8 @@
    |mana_2|, Sacrifice Yavimaya Elder: Draw a card.
 
 
-:mtgtip:`Zendikar's Roil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60297593-2438-48d7-9414-48af114a93d2.jpg?1604194770|https://scryfall.com/card/znc/88/zendikars-roil?utm_source=api>`
-   Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token.
+:mtgtip:`Zendikar's Roil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60297593-2438-48d7-9414-48af114a93d2.jpg?1616041698|https://scryfall.com/card/znc/88/zendikars-roil?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token.
 
 
 :mtgtip:`Consuming Aberration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72c72aef-1e32-48af-b8e4-afe1bc9ed346.jpg?1610769147|https://scryfall.com/card/znc/89/consuming-aberration?utm_source=api>`

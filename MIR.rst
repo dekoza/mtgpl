@@ -1299,7 +1299,7 @@
    • Target creature gains trample until end of turn.
 
 
-:mtgtip:`Seeds of Innocence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9c868f5-0f90-4f7e-bafb-c45d2372fe06.jpg?1562722863|https://scryfall.com/card/mir/241/seeds-of-innocence?utm_source=api>`
+:mtgtip:`Seeds of Innocence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9c868f5-0f90-4f7e-bafb-c45d2372fe06.jpg?1614021484|https://scryfall.com/card/mir/241/seeds-of-innocence?utm_source=api>`
    Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its converted mana cost.
 
 

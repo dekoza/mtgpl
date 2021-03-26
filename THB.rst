@@ -231,7 +231,7 @@
    Whenever Taranika, Akroan Veteran attacks, untap another target creature you control. Until end of turn, that creature has base power and toughness 4/4 and gains indestructible.
 
 
-:mtgtip:`Transcendent Envoy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9241289-28d2-4827-970e-81bdecbb5c16.jpg?1592345502|https://scryfall.com/card/thb/40/transcendent-envoy?utm_source=api>`
+:mtgtip:`Transcendent Envoy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9241289-28d2-4827-970e-81bdecbb5c16.jpg?1615522768|https://scryfall.com/card/thb/40/transcendent-envoy?utm_source=api>`
    Flying
 
    Aura spells you cast cost |mana_1| less to cast.
@@ -495,7 +495,7 @@
    Enchanted creature has lifelink.
 
 
-:mtgtip:`Blight-Breath Catoblepas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/7865c079-1d91-48d4-852d-d104b6e0c157.jpg?1581479705|https://scryfall.com/card/thb/86/blight-breath-catoblepas?utm_source=api>`
+:mtgtip:`Blight-Breath Catoblepas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/7865c079-1d91-48d4-852d-d104b6e0c157.jpg?1616399490|https://scryfall.com/card/thb/86/blight-breath-catoblepas?utm_source=api>`
    When Blight-Breath Catoblepas enters the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)
 
 
@@ -671,7 +671,7 @@
    When Scavenging Harpy enters the battlefield, exile target card from an opponent's graveyard.
 
 
-:mtgtip:`Soulreaper of Mogis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1581479959|https://scryfall.com/card/thb/115/soulreaper-of-mogis?utm_source=api>`
+:mtgtip:`Soulreaper of Mogis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1616399505|https://scryfall.com/card/thb/115/soulreaper-of-mogis?utm_source=api>`
    |mana_2|\ |mana_b|, Sacrifice a creature: Draw a card.
 
 
@@ -853,7 +853,7 @@
    
 
 
-:mtgtip:`Omen of the Forge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70388773-709b-4cd8-a8b7-56093fd77a1d.jpg?1581480322|https://scryfall.com/card/thb/145/omen-of-the-forge?utm_source=api>`
+:mtgtip:`Omen of the Forge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70388773-709b-4cd8-a8b7-56093fd77a1d.jpg?1616399518|https://scryfall.com/card/thb/145/omen-of-the-forge?utm_source=api>`
    Flash
 
    When Omen of the Forge enters the battlefield, it deals 2 damage to any target.
@@ -1073,7 +1073,7 @@
    When Mantle of the Wolf is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens.
 
 
-:mtgtip:`Moss Viper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4d35ec4-0e0d-4611-8ad9-39d2c8a2ad6e.jpg?1581480700|https://scryfall.com/card/thb/179/moss-viper?utm_source=api>`
+:mtgtip:`Moss Viper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4d35ec4-0e0d-4611-8ad9-39d2c8a2ad6e.jpg?1616399569|https://scryfall.com/card/thb/179/moss-viper?utm_source=api>`
    Deathtouch
 
 
@@ -1611,7 +1611,7 @@
    At the beginning of your upkeep, put a +1/+1 counter on each other creature you control.
 
 
-:mtgtip:`Sphinx Mindbreaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d70c50ce-48f0-49a6-9653-42b8ccb9a647.jpg?1580181508|https://scryfall.com/card/thb/290/sphinx-mindbreaker?utm_source=api>`
+:mtgtip:`Sphinx Mindbreaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d70c50ce-48f0-49a6-9653-42b8ccb9a647.jpg?1616399611|https://scryfall.com/card/thb/290/sphinx-mindbreaker?utm_source=api>`
    Flying
 
    When Sphinx Mindbreaker enters the battlefield, each opponent mills ten cards.
@@ -1637,7 +1637,7 @@
    Search your library for up to four Minotaur creature cards with different names, put them onto the battlefield, then shuffle your library.
 
 
-:mtgtip:`Terror of Mount Velus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/332dc6c3-7802-4bde-aa4e-0feab70c216f.jpg?1580182434|https://scryfall.com/card/thb/295/terror-of-mount-velus?utm_source=api>`
+:mtgtip:`Terror of Mount Velus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/332dc6c3-7802-4bde-aa4e-0feab70c216f.jpg?1616399631|https://scryfall.com/card/thb/295/terror-of-mount-velus?utm_source=api>`
    Flying, double strike
 
    When Terror of Mount Velus enters the battlefield, creatures you control gain double strike until end of turn.

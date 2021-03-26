@@ -517,7 +517,7 @@
    |mana_2|\ |mana_g|: Target green creature gains protection from black until end of turn.
 
 
-:mtgtip:`Apocalypse Chime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cef20d8f-6e80-4fca-b6a7-541981f6a112.jpg?1562588246|https://scryfall.com/card/hml/101/apocalypse-chime?utm_source=api>`
+:mtgtip:`Apocalypse Chime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cef20d8f-6e80-4fca-b6a7-541981f6a112.jpg?1615259919|https://scryfall.com/card/hml/101/apocalypse-chime?utm_source=api>`
    |mana_2|, |tap|, Sacrifice Apocalypse Chime: Destroy all nontoken permanents with a name originally printed in the Homelands expansion. They can't be regenerated.
 
 

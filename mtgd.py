@@ -1,7 +1,7 @@
 #!env python3
 import os
 import shutil
-from typing import Optional
+from typing import Optional, Iterable
 
 import typer
 import trio
@@ -16,7 +16,7 @@ def main(
 ):
     selected_expansions = expansions
     if exps_input:
-        selected_expansions = [exp.strip() for exp in exps_input.split(",")]
+        selected_expansions = {exp.strip() for exp in exps_input.split(",")}
     elif not all_exps:
         typer.echo("Plese specify expansions or use --all")
         raise typer.Exit()
@@ -24,7 +24,7 @@ def main(
     trio.run(queue_downloads, selected_expansions)
 
 
-async def queue_downloads(exp_list: list):
+async def queue_downloads(exp_list: Iterable):
     async with trio.open_nursery() as nursery:
         for exp in exp_list:
             nursery.start_soon(download_expansion, exp)

@@ -1061,7 +1061,7 @@
    Draw a card.
 
 
-:mtgtip:`Pact of the Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/4612effe-8ca2-4c27-90d2-d9255acc80d9.jpg?1616275407|https://scryfall.com/card/tsr/179/pact-of-the-titan?utm_source=api>`
+:mtgtip:`Pact of the Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/4612effe-8ca2-4c27-90d2-d9255acc80d9.jpg?1616692347|https://scryfall.com/card/tsr/179/pact-of-the-titan?utm_source=api>`
    Create a 4/4 red Giant creature token.
 
    At the beginning of your next upkeep, pay |mana_4|\ |mana_r|. If you don't, you lose the game.

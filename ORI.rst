@@ -1138,7 +1138,7 @@
 
 
 :mtgtip:`Zendikar's Roil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f75c0783-936d-4fa2-bdcb-01dae7a67fdb.jpg?1592470281|https://scryfall.com/card/ori/209/zendikars-roil?utm_source=api>`
-   Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token.
+   Landfall — Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token.
 
 
 :mtgtip:`Blazing Hellhound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/332769b1-1eb5-4c77-8317-27addc28650b.jpg?1562013794|https://scryfall.com/card/ori/210/blazing-hellhound?utm_source=api>`

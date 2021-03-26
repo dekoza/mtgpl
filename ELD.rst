@@ -239,7 +239,7 @@
    Target noncreature artifact you control becomes a 0/0 artifact creature. Put four +1/+1 counters on it.
 
 
-:mtgtip:`Brazen Borrower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1572489838|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`
+:mtgtip:`Brazen Borrower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1616182088|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`
    Flash
 
    Flying
@@ -247,7 +247,7 @@
    Brazen Borrower can block only creatures with flying.
 
 
-:mtgtip:`Petty Theft<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1572489838|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`
+:mtgtip:`Petty Theft<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1616182088|https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api>`
    Return target nonland permanent an opponent controls to its owner's hand.
 
 
@@ -401,7 +401,7 @@
    Choose two target creatures controlled by different players. Return those creatures to their owners' hands.
 
 
-:mtgtip:`Sage of the Falls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/274e3aa4-4b46-4daa-a7a8-400a20c59435.jpg?1572489985|https://scryfall.com/card/eld/63/sage-of-the-falls?utm_source=api>`
+:mtgtip:`Sage of the Falls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/274e3aa4-4b46-4daa-a7a8-400a20c59435.jpg?1615508412|https://scryfall.com/card/eld/63/sage-of-the-falls?utm_source=api>`
    Whenever Sage of the Falls or another non-Human creature enters the battlefield under your control, you may draw a card. If you do, discard a card.
 
 
@@ -471,7 +471,7 @@
    |mana_1|\ |mana_u|: Wishful Merfolk loses defender and becomes a Human until end of turn.
 
 
-:mtgtip:`Witching Well<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1572490052|https://scryfall.com/card/eld/74/witching-well?utm_source=api>`
+:mtgtip:`Witching Well<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1615508418|https://scryfall.com/card/eld/74/witching-well?utm_source=api>`
    When Witching Well enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
    |mana_3|\ |mana_u|, Sacrifice Witching Well: Draw two cards.
@@ -715,11 +715,11 @@
    Up to three target creatures can't block this turn. Destroy any of them that are Walls.
 
 
-:mtgtip:`Bonecrusher Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09fd2d9c-1793-4beb-a3fb-7a869f660cd4.jpg?1572490299|https://scryfall.com/card/eld/115/bonecrusher-giant-stomp?utm_source=api>`
+:mtgtip:`Bonecrusher Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09fd2d9c-1793-4beb-a3fb-7a869f660cd4.jpg?1616182066|https://scryfall.com/card/eld/115/bonecrusher-giant-stomp?utm_source=api>`
    Whenever Bonecrusher Giant becomes the target of a spell, Bonecrusher Giant deals 2 damage to that spell's controller.
 
 
-:mtgtip:`Stomp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09fd2d9c-1793-4beb-a3fb-7a869f660cd4.jpg?1572490299|https://scryfall.com/card/eld/115/bonecrusher-giant-stomp?utm_source=api>`
+:mtgtip:`Stomp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09fd2d9c-1793-4beb-a3fb-7a869f660cd4.jpg?1616182066|https://scryfall.com/card/eld/115/bonecrusher-giant-stomp?utm_source=api>`
    Damage can't be prevented this turn. Stomp deals 2 damage to any target.
 
 
@@ -893,7 +893,7 @@
    |tap|: Syr Carah deals 1 damage to any target.
 
 
-:mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9021f85-7ab4-4a78-a398-1611fe09cd14.jpg?1572490485|https://scryfall.com/card/eld/146/thrill-of-possibility?utm_source=api>`
+:mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9021f85-7ab4-4a78-a398-1611fe09cd14.jpg?1615522697|https://scryfall.com/card/eld/146/thrill-of-possibility?utm_source=api>`
    As an additional cost to cast this spell, discard a card.
 
    Draw two cards.
@@ -939,7 +939,7 @@
    Fell the Pheasant deals 5 damage to target creature with flying. Create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
 
-:mtgtip:`Fierce Witchstalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.jpg?1572490537|https://scryfall.com/card/eld/154/fierce-witchstalker?utm_source=api>`
+:mtgtip:`Fierce Witchstalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.jpg?1615522751|https://scryfall.com/card/eld/154/fierce-witchstalker?utm_source=api>`
    Trample
 
    When Fierce Witchstalker enters the battlefield, create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")

@@ -617,7 +617,7 @@
    Whenever enchanted creature deals damage to an opponent, you may draw a card.
 
 
-:mtgtip:`Curious Obsession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04cf3030-dc92-45ab-9c26-f2e6aef67e56.jpg?1600697782|https://scryfall.com/card/jmp/148/curious-obsession?utm_source=api>`
+:mtgtip:`Curious Obsession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04cf3030-dc92-45ab-9c26-f2e6aef67e56.jpg?1616182119|https://scryfall.com/card/jmp/148/curious-obsession?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+1 and has "Whenever this creature deals combat damage to a player, you may draw a card."
@@ -1747,7 +1747,7 @@
    When Ambassador Oak enters the battlefield, create a 1/1 green Elf Warrior creature token.
 
 
-:mtgtip:`Arbor Armament<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71c10923-a5b3-4b50-ae51-59982e05963a.jpg?1601078936|https://scryfall.com/card/jmp/376/arbor-armament?utm_source=api>`
+:mtgtip:`Arbor Armament<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71c10923-a5b3-4b50-ae51-59982e05963a.jpg?1615334431|https://scryfall.com/card/jmp/376/arbor-armament?utm_source=api>`
    Put a +1/+1 counter on target creature. That creature gains reach until end of turn.
 
 
@@ -1929,7 +1929,7 @@
    Target creature you control gains vigilance and trample until end of turn. It deals damage equal to its power to target creature you don't control.
 
 
-:mtgtip:`Nessian Hornbeetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1900efd-262a-4eef-a8e8-238801466a88.jpg?1601079799|https://scryfall.com/card/jmp/413/nessian-hornbeetle?utm_source=api>`
+:mtgtip:`Nessian Hornbeetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1900efd-262a-4eef-a8e8-238801466a88.jpg?1616399591|https://scryfall.com/card/jmp/413/nessian-hornbeetle?utm_source=api>`
    At the beginning of combat on your turn, if you control another creature with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle.
 
 
@@ -2120,7 +2120,7 @@
 
 
 :mtgtip:`Zendikar's Roil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/180aa3d6-8475-4c98-a140-af736a9c135e.jpg?1601080369|https://scryfall.com/card/jmp/448/zendikars-roil?utm_source=api>`
-   Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token.
+   Landfall — Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token.
 
 
 :mtgtip:`Auger Spree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05f0092a-b642-41be-a907-4c8931962ef9.jpg?1601080392|https://scryfall.com/card/jmp/449/auger-spree?utm_source=api>`
@@ -2219,7 +2219,7 @@
    |mana_2|, |tap|, Sacrifice Gingerbrute: You gain 3 life.
 
 
-:mtgtip:`Guardian Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/393ef742-6968-4266-ae07-a4564b7f6ede.jpg?1601080688|https://scryfall.com/card/jmp/467/guardian-idol?utm_source=api>`
+:mtgtip:`Guardian Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/393ef742-6968-4266-ae07-a4564b7f6ede.jpg?1616182167|https://scryfall.com/card/jmp/467/guardian-idol?utm_source=api>`
    Guardian Idol enters the battlefield tapped.
 
    |tap|: Add |colorless|.

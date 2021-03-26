@@ -313,7 +313,7 @@
    Enchanted creature gets +2/+2 as long as an opponent controls a white permanent.
 
 
-:mtgtip:`Arnjlot's Ascent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2307fb16-8b77-45b5-8a02-51a13214791d.jpg?1587911792|https://scryfall.com/card/ice/57/arnjlots-ascent?utm_source=api>`
+:mtgtip:`Arnjlot's Ascent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2307fb16-8b77-45b5-8a02-51a13214791d.jpg?1616400605|https://scryfall.com/card/ice/57/arnjlots-ascent?utm_source=api>`
    Cumulative upkeep |mana_u| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 
    |mana_1|: Target creature gains flying until end of turn.
@@ -337,7 +337,7 @@
    Enchanted creature gets +0/+1.
 
 
-:mtgtip:`Brainstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d42d7aa-7f53-4cfc-842a-086aab2448d1.jpg?1562921206|https://scryfall.com/card/ice/61/brainstorm?utm_source=api>`
+:mtgtip:`Brainstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d42d7aa-7f53-4cfc-842a-086aab2448d1.jpg?1616400136|https://scryfall.com/card/ice/61/brainstorm?utm_source=api>`
    Draw three cards, then put two cards from your hand on top of your library in any order.
 
 
@@ -597,7 +597,7 @@
    Draw a card at the beginning of the next turn's upkeep.
 
 
-:mtgtip:`Wind Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d882447-9594-4aab-b1a7-8bb275f250cf.jpg?1562909211|https://scryfall.com/card/ice/106/wind-spirit?utm_source=api>`
+:mtgtip:`Wind Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d882447-9594-4aab-b1a7-8bb275f250cf.jpg?1615204644|https://scryfall.com/card/ice/106/wind-spirit?utm_source=api>`
    Flying
 
    Menace (This creature can't be blocked except by two or more creatures.)
@@ -977,7 +977,7 @@
    Nongreen creatures you control get +1/+0 until end of turn.
 
 
-:mtgtip:`Bone Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a5e3d54-4dc4-482b-8ecc-bb819ba03d2c.jpg?1562896992|https://scryfall.com/card/ice/176/bone-shaman?utm_source=api>`
+:mtgtip:`Bone Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a5e3d54-4dc4-482b-8ecc-bb819ba03d2c.jpg?1616404924|https://scryfall.com/card/ice/176/bone-shaman?utm_source=api>`
    |mana_b|: Until end of turn, Bone Shaman gains "Creatures dealt damage by Bone Shaman this turn can't be regenerated this turn."
 
 
