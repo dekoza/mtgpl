@@ -5,6 +5,50 @@
 ==========================================
 
 
+:mtgtip:`Expanded Anatomy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5642b9d-0daa-4e6b-ad48-f88dd37d6574.jpg?1616723321|https://scryfall.com/card/stx/2/expanded-anatomy?utm_source=api>`
+   Put two +1/+1 counters on target creature. It gains vigilance until end of turn.
+
+
+:mtgtip:`Introduction to Annihilation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0bc4682-bcaf-4f51-be0b-9f2851a16e3b.jpg?1616723512|https://scryfall.com/card/stx/3/introduction-to-annihilation?utm_source=api>`
+   Exile target nonland permanent. Its controller draws a card.
+
+
+:mtgtip:`Introduction to Prophecy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/7820923e-bad2-4d6a-92b3-97b9737d2ca9.jpg?1616723571|https://scryfall.com/card/stx/4/introduction-to-prophecy?utm_source=api>`
+   Scry 2, then draw a card.
+
+
+:mtgtip:`Eager First-Year<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a83543b-3b6f-4e28-96f9-007b814bcfd6.jpg?1616694066|https://scryfall.com/card/stx/16/eager-first-year?utm_source=api>`
+   Magecraft - Whenever you cast or copy an instant or sorcery spell, Eager First-Year gets +1/+0 until end of turn.
+
+
+:mtgtip:`Professor of Symbology<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57.jpg?1616695655|https://scryfall.com/card/stx/24/professor-of-symbology?utm_source=api>`
+   When Professor of Symbology enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+
+
+:mtgtip:`Archmage Emeritus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/761df6cd-0928-4167-8902-58fdb50181a0.jpg?1616693970|https://scryfall.com/card/stx/37/archmage-emeritus?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, draw a card.
+
+
+:mtgtip:`Pop Quiz<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d16892d8-9d10-45de-ab79-0e645c4b5588.jpg?1616695449|https://scryfall.com/card/stx/49/pop-quiz?utm_source=api>`
+   Draw a card.
+
+   Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+
+
+:mtgtip:`Waterfall Aerialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bc6966c-18d9-4675-9594-6f0b2d11c405.jpg?1616724732|https://scryfall.com/card/stx/61/waterfall-aerialist?utm_source=api>`
+   Flying
+
+   Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
+
+
+:mtgtip:`Confront the Past<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1951763-be97-400c-aa95-6b101f47bddf.jpg?1616694148|https://scryfall.com/card/stx/67/confront-the-past?utm_source=api>`
+   Choose one —
+
+   • Return target planeswalker card with mana value X from your graveyard to the battlefield.
+
+   • Remove twice X loyalty counters from target planeswalker an opponent controls.
+
+
 :mtgtip:`Professor Onyx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/013eeb99-1b66-4fba-ad96-78deee901ea4.jpg?1616430491|https://scryfall.com/card/stx/83/professor-onyx?utm_source=api>`
    Magecraft — Whenever you cast or copy an instant or sorcery spell, each opponent loses 2 life and you gain 2 life.
 
@@ -15,6 +59,108 @@
    −8: Each opponent may discard a card. If they don't, they lose 3 life. Repeat this process six more times.
 
 
+:mtgtip:`First Day of Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/091eb13d-9318-4b12-9f94-6276b11981d1.jpg?1616723400|https://scryfall.com/card/stx/102/first-day-of-class?utm_source=api>`
+   Whenever a creature enters the battlefield under your control this turn, put a +1/+1 counter on it and it gains haste until end of turn.
+
+   Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+
+
+:mtgtip:`Storm-Kiln Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa96b8dc-233a-4884-ab84-235cbc7df0b6.jpg?1616705421|https://scryfall.com/card/stx/115/storm-kiln-artist?utm_source=api>`
+   Storm-Kiln Artist gets +1/+0 for each artifact you control.
+
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, create a Treasure token.
+
+
+:mtgtip:`Dragonsguard Elite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/658ec634-3eb2-4967-b938-d20d31ab77e3.jpg?1616692835|https://scryfall.com/card/stx/127/dragonsguard-elite?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Dragonsguard Elite.
+
+   |mana_4|\ |mana_g|\ |mana_g|: Double the number of +1/+1 counters on Dragonsguard Elite.
+
+
+:mtgtip:`Kianne, Dean fo Substance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1616724526|https://scryfall.com/card/stx/152/kianne-dean-fo-substance-imbraham-dean-of-theory?utm_source=api>`
+   |tap|: Exile the top card of your library. If it's a land card, put it into your hand. Otherwise, put a study counter on it.
+
+
+:mtgtip:`Imbraham, Dean of Theory<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1616724526|https://scryfall.com/card/stx/152/kianne-dean-fo-substance-imbraham-dean-of-theory?utm_source=api>`
+   Flying
+
+   |mana_x|\ |mana_u|\ |mana_u|, |tap|: Exile the top X cards of your library and put a study counter on each of them. Then you may put a card you own in exile with a study counter on it into your hand.
+
+
+:mtgtip:`Plargg, Dean of Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616724652|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
+   |tap|, Discard a card: Draw a card.
+
+   |mana_4|\ |mana_r|, |tap|: Reveal cards from the top of your library until you reveal a nonlegenday, nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this on the bottom of your library in a random order.
+
+
+:mtgtip:`Augusta, Dean of Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616724652|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
+   Other tapped creatures you control get +1/+0.
+
+   Other untapped creatures you control get +0/+1.
+
+   Whenever you attack, untap each creature you control, then tap any number of creatures you control.
+
+
+:mtgtip:`Rowan, Scholar of Sparks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg?1616704137|https://scryfall.com/card/stx/156/rowan-scholar-of-sparks-will-scholar-of-frost?utm_source=api>`
+   Instant and sorcery spells you cast cost |mana_1| less to cast.
+
+   +1: Rowan, Scholar of Sparks deals 1 damage to each opponent. If you've drawn three or more cards this turn, she deals 3 damage to each opponent instead.
+
+   −4: You get an emblem with "Whenever you cast an instant or sorcery spell, you may pay |mana_2|. If you do, copy that spell. You may choose new targets for the copy."
+
+
+:mtgtip:`Will, Scholar of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg?1616704137|https://scryfall.com/card/stx/156/rowan-scholar-of-sparks-will-scholar-of-frost?utm_source=api>`
+   Instant and sorcery spells you cast cost |mana_1| less to cast.
+
+   +1: Up to one target creature has base power and toughness 0/2 until your next turn.
+
+   −3: Draw two cards.
+
+   −7: Exile up to five target permanents. For each permanent exiled this way, its controller creates a 4/4 blue and red Elemental Creature token.
+
+
+:mtgtip:`Shalie, Dean of Radiance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1616724590|https://scryfall.com/card/stx/158/shalie-dean-of-radiance-embrose-dean-of-shadow?utm_source=api>`
+   Flying, vigilance
+
+   |tap|: Put a +1/+1 counter on each creature that entered the battlefield under your control this turn.
+
+
+:mtgtip:`Embrose, Dean of Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1616724590|https://scryfall.com/card/stx/158/shalie-dean-of-radiance-embrose-dean-of-shadow?utm_source=api>`
+   |tap|: Put a +1/+1 counter on another target creature, then Embrose, Dean of Shadow deals 2 damage to that creature.
+
+   Whenever a creature you control wit ha +1/+1 counter on it dies, draw a card.
+
+
+:mtgtip:`Torrent Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87463b68-3642-41c7-a11c-67d524759b60.jpg?1616724262|https://scryfall.com/card/stx/159/torrent-sculptor-flamethrower-sonata?utm_source=api>`
+   Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
+
+   When Torrent Sculptor enters the battlefield, exile an instant or sorcery card from your graveyard. Put a number of +1/+1 counters on Torrent Sculptor equal to half that card's mana value, rounded up.
+
+
+:mtgtip:`Flamethrower Sonata<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/7/87463b68-3642-41c7-a11c-67d524759b60.jpg?1616724262|https://scryfall.com/card/stx/159/torrent-sculptor-flamethrower-sonata?utm_source=api>`
+   Discard a card, then draw a card. When you discard an instant or sorcery card this way, Flamethrower Sonata deals damage equal to that card's mana value to target creature or planeswalker you don't control.
+
+
+:mtgtip:`Uvilda, Dean of Perfection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cfd0887-0c83-4b33-a85e-8b8ec5bf758d.jpg?1616726512|https://scryfall.com/card/stx/160/uvilda-dean-of-perfection-nassari-dean-of-expression?utm_source=api>`
+   |tap|: You may exile an instant or sorcery card from your hand and put three hone counters on it. It gains "At the beginning of your upkeep, if this card is exiled, remove a hone counter from it" and "When the last hone counter is removed from this card, if it's exiled, you may cast it. It costs |mana_4| less to cast this way."
+
+
+:mtgtip:`Nassari, Dean of Expression<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/c/8cfd0887-0c83-4b33-a85e-8b8ec5bf758d.jpg?1616726512|https://scryfall.com/card/stx/160/uvilda-dean-of-perfection-nassari-dean-of-expression?utm_source=api>`
+   At the begging of your upkeep, exile the top card of each opponent's library. Until end of turn, you may cast spells from among those exiled cards, and you many spend mana as though it were mana of any color to cast those spells.
+
+   Whenever you cast a spell from exile, put a +1/+1 counter on Nassari, Dean of Expression.
+
+
+:mtgtip:`Valentin, Dean of the Vein<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65008352-bc7e-40b2-a832-b46813e5dc4c.jpg?1616724464|https://scryfall.com/card/stx/161/valentin-dean-of-the-vein-lisette-dean-of-the-root?utm_source=api>`
+   Menace, lifelink
+
+   If a nontoken creature an opponent controls would die, exile it instead. When you do, you may pay |mana_2|. If you do, create a 1/1 black and green Pest creature token with "When this creature dies, you gain 1 life."
+
+
+:mtgtip:`Lisette, Dean of the Root<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/5/65008352-bc7e-40b2-a832-b46813e5dc4c.jpg?1616724464|https://scryfall.com/card/stx/161/valentin-dean-of-the-vein-lisette-dean-of-the-root?utm_source=api>`
+   Whenever you gain life, you may pay |mana_1|. If you do, put a +1/+1 counter on each creature you control and those creatures gain trample until end of turn.
+
+
 :mtgtip:`Kasmina, Enigma Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/178bf300-38cf-4ab2-9e66-6fcaa112b649.jpg?1616430435|https://scryfall.com/card/stx/196/kasmina-enigma-sage?utm_source=api>`
    Each other planeswalker you control has the loyalty abilities of Kasmina, Enigma Sage.
 
@@ -23,6 +169,10 @@
    −X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it.
 
    −8: Search your library for an instant or sorcery card that shares a color with this planeswalker, exile that card, then shuffle. You may cast that card without paying its mana cost.
+
+
+:mtgtip:`Lorehold Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/048157c6-4626-4881-ba19-deddd13622dc.jpg?1616696210|https://scryfall.com/card/stx/198/lorehold-apprentice?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, until end of turn, Spirit creatures you control gain "|tap|: This creature deals 1 damage to each opponent."
 
 
 :mtgtip:`Lorehold Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4f0885f-1049-4a19-853d-f4e6d4bec29e.jpg?1614152837|https://scryfall.com/card/stx/199/lorehold-command?utm_source=api>`
@@ -37,7 +187,15 @@
    • Sacrifice a permanent, then draw two cards.
 
 
-:mtgtip:`Prismari Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/866b7fd4-86e3-4b42-b1ea-33bad0db1f9f.jpg?1614152891|https://scryfall.com/card/stx/214/prismari-command?utm_source=api>`
+:mtgtip:`Pest Summoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6267e19a-a777-4767-8433-86b6624362b6.jpg?1616705365|https://scryfall.com/card/stx/211/pest-summoning?utm_source=api>`
+   Create two 1/1 black and green Pest creature tokens with "When this creature dies, you gain 1 life."
+
+
+:mtgtip:`Prismari Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dca3aa59-c8ac-4930-abf7-0a74d657122a.jpg?1616696099|https://scryfall.com/card/stx/213/prismari-apprentice?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, Prismari Apprentice can't be blocked this. turn. If that spell has mana value 5 or greater, put a +1/+1 counter on Prismari Apprentice.
+
+
+:mtgtip:`Prismari Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/866b7fd4-86e3-4b42-b1ea-33bad0db1f9f.jpg?1616705407|https://scryfall.com/card/stx/214/prismari-command?utm_source=api>`
    Choose two —
 
    • Prismari Command deals 2 damage to any target.
@@ -47,6 +205,10 @@
    • Target player creates a Treasure token.
 
    • Destroy target artifact.
+
+
+:mtgtip:`Quandrix Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0291c909-bb87-47cb-9b06-5e409e654f15.jpg?1616696014|https://scryfall.com/card/stx/216/quandrix-apprentice?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, look at the top three cards of your library. You may reveal a land card from among them and put that card into your hand. Put the rest on the bottom of your library in any order.
 
 
 :mtgtip:`Quandrix Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/021b62d8-d160-47f5-bc51-0474f160d13f.jpg?1614152862|https://scryfall.com/card/stx/217/quandrix-command?utm_source=api>`
@@ -61,6 +223,22 @@
    • Target player shuffles up to three target cards from their graveyard into their library.
 
 
+:mtgtip:`Shadrix Silverquill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab701909-83d6-4d39-9a84-e6a9b2cb38d6.jpg?1616704070|https://scryfall.com/card/stx/230/shadrix-silverquill?utm_source=api>`
+   Flying, double strike
+
+   At the beginning of combat on your turn, you may choose two. Each mode must target a different player.
+
+   • Target player creates a 2/1 white and black Inkling creature token with flying.
+
+   • Target player draws a card and loses 1 life.
+
+   • Target player puts a +1/+1 counter on each creature they control.
+
+
+:mtgtip:`Silverquill Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42d0770e-9084-4aa7-b543-2b6ba18378dc.jpg?1616695902|https://scryfall.com/card/stx/231/silverquill-apprentice?utm_source=api>`
+   Magecraft — Whenever you cast or copy and instant or sorcery spell, target creature gets +1/+0 until end of turn.
+
+
 :mtgtip:`Silverquill Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c55f533-9d31-4ad1-b336-927aba6e74d6.jpg?1614152919|https://scryfall.com/card/stx/232/silverquill-command?utm_source=api>`
    Choose two —
 
@@ -73,6 +251,10 @@
    • Target opponent sacrifices a creature.
 
 
+:mtgtip:`Witherbloom Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f80a11b-188b-464c-b00d-c9d1cfb8ddee.jpg?1616695802|https://scryfall.com/card/stx/247/witherbloom-apprentice?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, each opponent loses 1 life and you gain 1 life.
+
+
 :mtgtip:`Witherbloom Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87d5e94b-0b35-4efd-9158-1767dcaea38c.jpg?1616399908|https://scryfall.com/card/stx/248/witherbloom-command?utm_source=api>`
    Choose two —
 
@@ -83,4 +265,34 @@
    • Target creature gets -3/-1 until end of turn.
 
    • Target opponent loses 2 life and you gain 2 life.
+
+
+:mtgtip:`Frostboil Snarl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c22ba565-da08-4957-93bb-8d266fe0b0d8.jpg?1616699438|https://scryfall.com/card/stx/265/frostboil-snarl?utm_source=api>`
+   As Frostboil Snarl enters the battlefield, you may reveal an Island or Mountain card from your hand. If you don't, Frostboil Snarl enters the battlefield tapped.
+
+   |tap|: Add |mana_u| or |mana_r|.
+
+
+:mtgtip:`Furycalm Snarl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53e33f37-7fd1-4431-a032-cd61b644401c.jpg?1616699476|https://scryfall.com/card/stx/266/furycalm-snarl?utm_source=api>`
+   As Furycalm Snarl enters the battlefield, you may reveal a Mountain or Plains card from your hand. If you don't, Furycalm Snarl enters the battlefield tapped.
+
+   |tap|: Add |mana_r| or |mana_w|.
+
+
+:mtgtip:`Necroblossom Snarl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0aed316-c28a-4c1a-a0a3-ab75ceba3ee7.jpg?1616705298|https://scryfall.com/card/stx/269/necroblossom-snarl?utm_source=api>`
+   As Necroblossom Snarl enters the battlefield, you may reveal a Swamp or Forest card from your hand. If you don't, Necroblossom Snarl enters the battlefield tapped.
+
+   |tap|: Add |mana_b| or |mana_g|.
+
+
+:mtgtip:`Shineshadow Snarl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84a46ebf-6938-4100-8f5f-0605ad2be4fc.jpg?1616705330|https://scryfall.com/card/stx/272/shineshadow-snarl?utm_source=api>`
+   As Shineshadow Snarl enters the battlefield, you may reveal a Plains or Swamp card from your hand. If you don't, Shineshadow Snarl enters the battlefield tapped.
+
+   |tap|: Add |mana_w| or |mana_b|.
+
+
+:mtgtip:`Vineglimmer Snarl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f77e5ca7-dde1-435f-9b40-87558dd88749.jpg?1616699358|https://scryfall.com/card/stx/274/vineglimmer-snarl?utm_source=api>`
+   As Vineglimmer Snarl enters the battlefield, you may reveal a Forest or Island card from your hand. If you don't, Vineglimmer Snarl enters the battlefield tapped.
+
+   |tap|: Add |mana_g| or |mana_u|.
 
