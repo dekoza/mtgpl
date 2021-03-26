@@ -489,7 +489,7 @@
    Flying
 
 
-:mtgtip:`Wind Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9041dc6-7521-4ae3-b8b3-5134fea97581.jpg?1562823387|https://scryfall.com/card/6ed/107/wind-spirit?utm_source=api>`
+:mtgtip:`Wind Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9041dc6-7521-4ae3-b8b3-5134fea97581.jpg?1616400275|https://scryfall.com/card/6ed/107/wind-spirit?utm_source=api>`
    Flying
 
    Menace (This creature can't be blocked except by two or more creatures.)

@@ -17,6 +17,7 @@ pre-commit = "^2.11.1"
 trio = "^0.18.0"
 anyio = "^2.2.0"
 httpx = "^0.17.1"
+rich = "^9.13.0"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.1.1"

@@ -1,4 +1,4 @@
-expansions = {
+expansions = [
     "10E",
     "2ED",
     "2XM",
@@ -133,7 +133,7 @@ expansions = {
     "ZEN",
     "ZNC",
     "ZNR",
-}
+]
 
 card_template = """
 :mtgtip:`{card[name]}<{image}|{card_uri}>`

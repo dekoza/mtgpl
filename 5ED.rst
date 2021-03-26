@@ -141,7 +141,7 @@
    Enchanted creature gets +3/+3.
 
 
-:mtgtip:`Dust to Dust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e8a9a5c-0e5f-4498-88d8-6aac465923b1.jpg?1562591815|https://scryfall.com/card/5ed/29/dust-to-dust?utm_source=api>`
+:mtgtip:`Dust to Dust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e8a9a5c-0e5f-4498-88d8-6aac465923b1.jpg?1616400076|https://scryfall.com/card/5ed/29/dust-to-dust?utm_source=api>`
    Exile two target artifacts.
 
 
@@ -377,7 +377,7 @@
    Return target permanent to its owner's hand.
 
 
-:mtgtip:`Brainstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d6603e3-0680-4ba3-951b-cd9919eefd4f.jpg?1562589682|https://scryfall.com/card/5ed/76/brainstorm?utm_source=api>`
+:mtgtip:`Brainstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d6603e3-0680-4ba3-951b-cd9919eefd4f.jpg?1616400137|https://scryfall.com/card/5ed/76/brainstorm?utm_source=api>`
    Draw three cards, then put two cards from your hand on top of your library in any order.
 
 
@@ -681,7 +681,7 @@
    Defender, flying (This creature can't attack, and it can block creatures with flying.)
 
 
-:mtgtip:`Wind Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b70495b9-3fec-4eea-addf-1f401a1f49ed.jpg?1562593746|https://scryfall.com/card/5ed/136/wind-spirit?utm_source=api>`
+:mtgtip:`Wind Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b70495b9-3fec-4eea-addf-1f401a1f49ed.jpg?1616400244|https://scryfall.com/card/5ed/136/wind-spirit?utm_source=api>`
    Flying
 
    Menace (This creature can't be blocked except by two or more creatures.)
@@ -1999,7 +1999,7 @@
    First strike
 
 
-:mtgtip:`Winter Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a674ec8-5531-4d06-aa57-929c6ac29238.jpg?1562590619|https://scryfall.com/card/5ed/408/winter-orb?utm_source=api>`
+:mtgtip:`Winter Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a674ec8-5531-4d06-aa57-929c6ac29238.jpg?1616400302|https://scryfall.com/card/5ed/408/winter-orb?utm_source=api>`
    As long as Winter Orb is untapped, players can't untap more than one land during their untap steps.
 
 
