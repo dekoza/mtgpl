@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-03-24 21:37+0000\n"
+"PO-Revision-Date: 2021-03-26 00:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/binary/"
 "pl/>\n"
@@ -1926,11 +1926,11 @@ msgstr ""
 
 msgctxt "MainNav/General/Timers/HH_MM_plural_plural"
 msgid "{hours} Hours and {minutes} Minutes"
-msgstr ""
+msgstr "{hours} godzin(y) i {minutes} minut(y)"
 
 msgctxt "MainNav/General/Timers/HH_MM_plural_singular"
 msgid "{hours} Hours and 1 minute"
-msgstr ""
+msgstr "{hours} godzin(y) i 1 minutę"
 
 msgctxt "MainNav/General/Timers/HH_MM_singular_plural"
 msgid "1 Hour and {minutes} Minutes"
