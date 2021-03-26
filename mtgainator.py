@@ -11,6 +11,8 @@ import re
 import zipfile
 from datetime import date
 
+from toolbox.mtg_vars import mtga_rev_map, mtga_cost_map
+
 MTGA_DIR = config("MTGA_DIR")
 SUBSTITUTE_LANG = config("SUBSTITUTE_LANG", default="pt-BR")
 SUBSTITUTE_LANG_DEBUG = config("SUBSTITUTE_LANG_DEBUG", default="fr-FR")
@@ -25,106 +27,6 @@ _main_lang = SUBSTITUTE_LANG.split("-")[0]
 _debug_lang = SUBSTITUTE_LANG_DEBUG.split("-")[0]
 
 app = typer.Typer()
-rev_map = {
-    "|energy|": "E",
-    "|colorless|": "C",
-    "|tap|": "T",
-    "|untap|": "Q",
-    "|mana_u|": "U",
-    "|mana_w|": "W",
-    "|mana_g|": "G",
-    "|mana_b|": "B",
-    "|mana_r|": "R",
-    "|mana_p|": "P",
-    "|mana_s|": "Si",
-    "|mana_2u|": "(2/U)",
-    "|mana_2w|": "(2/W)",
-    "|mana_2b|": "(2/B)",
-    "|mana_2g|": "(2/G)",
-    "|mana_2r|": "(2/R)",
-    "|mana_up|": "(U/P)",
-    "|mana_wp|": "(W/P)",
-    "|mana_bp|": "(B/P)",
-    "|mana_gp|": "(G/P)",
-    "|mana_rp|": "(R/P)",
-    "|mana_x|": "X",
-    "|mana_0|": "0",
-    "|mana_1|": "1",
-    "|mana_2|": "2",
-    "|mana_3|": "3",
-    "|mana_4|": "4",
-    "|mana_5|": "5",
-    "|mana_6|": "6",
-    "|mana_7|": "7",
-    "|mana_8|": "8",
-    "|mana_9|": "9",
-    "|mana_10|": "10",
-    "|mana_11|": "11",
-    "|mana_12|": "12",
-    "|mana_13|": "13",
-    "|mana_14|": "14",
-    "|mana_15|": "15",
-    "|mana_rg|": "(R/G)",
-    "|mana_rw|": "(R/W)",
-    "|mana_ub|": "(U/B)",
-    "|mana_ur|": "(U/R)",
-    "|mana_wb|": "(W/B)",
-    "|mana_wu|": "(W/U)",
-    "|mana_bg|": "(B/G)",
-    "|mana_br|": "(B/R)",
-    "|mana_gw|": "(G/W)",
-    "|mana_gu|": "(G/U)",
-}
-
-cost_map = {
-    "C": "|colorless|",
-    "T": "|tap|",
-    "Q": "|untap|",
-    "U": "|mana_u|",
-    "W": "|mana_w|",
-    "G": "|mana_g|",
-    "B": "|mana_b|",
-    "R": "|mana_r|",
-    "P": "|mana_p|",
-    "Si": "|mana_s|",
-    "(2/U)": "|mana_2u|",
-    "(2/W)": "|mana_2w|",
-    "(2/B)": "|mana_2b|",
-    "(2/G)": "|mana_2g|",
-    "(2/R)": "|mana_2r|",
-    "(U/P)": "|mana_up|",
-    "(W/P)": "|mana_wp|",
-    "(B/P)": "|mana_bp|",
-    "(G/P)": "|mana_gp|",
-    "(R/P)": "|mana_rp|",
-    "X": "|mana_x|",
-    "0": "|mana_0|",
-    "1": "|mana_1|",
-    "2": "|mana_2|",
-    "3": "|mana_3|",
-    "4": "|mana_4|",
-    "5": "|mana_5|",
-    "6": "|mana_6|",
-    "7": "|mana_7|",
-    "8": "|mana_8|",
-    "9": "|mana_9|",
-    "10": "|mana_10|",
-    "11": "|mana_11|",
-    "12": "|mana_12|",
-    "13": "|mana_13|",
-    "14": "|mana_14|",
-    "15": "|mana_15|",
-    "(R/G)": "|mana_rg|",
-    "(R/W)": "|mana_rw|",
-    "(U/B)": "|mana_ub|",
-    "(U/R)": "|mana_ur|",
-    "(W/B)": "|mana_wb|",
-    "(W/U)": "|mana_wu|",
-    "(B/G)": "|mana_bg|",
-    "(B/R)": "|mana_br|",
-    "(G/W)": "|mana_gw|",
-    "(G/U)": "|mana_gu|",
-}
 
 
 def substr(text: str) -> str:
@@ -243,7 +145,7 @@ def convert_loyalty(match) -> str:
 
 def convert_mana(match) -> str:
     s = match.group().strip("{o}")
-    return r"\ ".join(cost_map[cost] for cost in s.split("o"))
+    return r"\ ".join(mtga_cost_map[cost] for cost in s.split("o"))
 
 
 def convert_energy(match) -> str:
@@ -444,7 +346,7 @@ def revert_costs(string: str) -> str:
 def restore_energy(match) -> str:
     s = match.group().split(r"\ ")
     try:
-        return "{%s}" % "".join(rev_map[cost] for cost in s)
+        return "{%s}" % "".join(mtga_rev_map[cost] for cost in s)
     except KeyError:
         print(match.string)
         print(s)
@@ -454,7 +356,7 @@ def restore_energy(match) -> str:
 def restore_mana(match) -> str:
     s = match.group().split(r"\ ")
     try:
-        return "{%s}" % "".join(f"o{rev_map[cost]}" for cost in s)
+        return "{%s}" % "".join(f"o{mtga_rev_map[cost]}" for cost in s)
     except KeyError:
         print(match.string)
         print(s)
