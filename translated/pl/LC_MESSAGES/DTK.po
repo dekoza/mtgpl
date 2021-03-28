@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-12 08:58+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dtk/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../DTK.rst:5
 msgid ":mtgexp:`DTK` Dragons of Tarkir"
@@ -493,7 +493,7 @@ msgid ""
 "Exile Ojutai Exemplars, then return it to the battlefield tapped under its "
 "owner's control."
 msgstr ""
-"Wygnaj tego stwora, następnie przywróć go przekręconego na pole bitwy pod "
+"Wygnaj tego stwora, po czym przywróć go przekręconego na pole bitwy pod "
 "władaniem jego właściciela."
 
 #: ../../DTK.rst:168
@@ -610,7 +610,7 @@ msgid ""
 "+1 counter on it. (To bolster 1, choose a creature with the least toughness "
 "among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
-"Wzmocnij 1, następnie umieść znacznik +1/+1 na każdym stworze pod twoim "
+"Wzmocnij 1, po czym umieść znacznik +1/+1 na każdym stworze pod twoim "
 "władaniem mającym znacznik +1/+1. (By wzmocnić 1, wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
 "nim znacznik +1/+1.)"
@@ -801,7 +801,7 @@ msgid ""
 msgstr ""
 "Wygnaj wskazanego stwora pod władaniem przeciwnika. Ów gracz ujawnia karty z "
 "wierzchu swojej biblioteki, aż ujawni kartę stwora. Ów gracz umieszcza ową "
-"kartę na polu bitwy, następnie wtasowuje pozostałe do swojej biblioteki."
+"kartę na polu bitwy, po czym wtasowuje pozostałe do swojej biblioteki."
 
 #: ../../DTK.rst:266
 msgid ""
@@ -1247,7 +1247,7 @@ msgid ""
 "|mana_u|: Exile Shorecrasher Elemental, then return it to the battlefield "
 "face down under its owner's control."
 msgstr ""
-"|mana_u|: Wygnaj tego stwora, następnie przywróć go zakrytego na pole bitwy "
+"|mana_u|: Wygnaj tego stwora, po czym przywróć go zakrytego na pole bitwy "
 "pod władaniem właściciela."
 
 #: ../../DTK.rst:415
@@ -1431,7 +1431,7 @@ msgstr ""
 
 #: ../../DTK.rst:487
 msgid "|mana_u|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../DTK.rst:489
 msgid "Whenever you cast a noncreature spell, untap Zephyr Scribe."
@@ -2014,7 +2014,7 @@ msgid ""
 "for a card, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wyzyska stwora, możesz wyszukać w twojej bibliotece dowolną "
-"kartę i umieścić ją w twojej ręce, następnie przetasuj twoją bibliotekę."
+"kartę i umieścić ją w twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../DTK.rst:676
 msgid ""
@@ -2567,7 +2567,7 @@ msgid ""
 "hand, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę Smoka, ujawnij ją, umieść w twojej ręce, "
-"następnie przetasuj twoją bibliotekę."
+"po czym przetasuj twoją bibliotekę."
 
 #: ../../DTK.rst:848
 msgid ""
@@ -3111,7 +3111,7 @@ msgid ""
 "battlefield tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../DTK.rst:1024
 msgid ""
@@ -3920,7 +3920,7 @@ msgstr ""
 
 #: ../../DTK.rst:1287
 msgid "+1: Draw a card, then add one mana of any color."
-msgstr "+1: Dobierz kartę, następnie weź jedną manę dowolnego koloru."
+msgstr "+1: Dobierz kartę, po czym weź jedną manę dowolnego koloru."
 
 #: ../../DTK.rst:1289
 msgid "−2: Create a 4/4 red Dragon creature token with flying."
@@ -4246,7 +4246,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../DTK.rst:1406
 msgid ""

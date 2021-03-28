@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-02-26 08:36+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rix/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../RIX.rst:5
 msgid ":mtgexp:`RIX` Rivals of Ixalan"
@@ -167,8 +167,8 @@ msgid ""
 "that card on top of it."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Wampira, ujawnij ją, następnie przetasuj twoją biblioteką i umieścić "
-"ową kartę na jej wierzchu."
+"kartę Wampira, ujawnij ją, po czym przetasuj twoją biblioteką i umieścić ową "
+"kartę na jej wierzchu."
 
 #: ../../RIX.rst:53
 msgid ""
@@ -204,7 +204,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "dowolną liczbę kart o nazwie Legion Conquistador, ujawnij je i umieść je w "
-"twojej ręce, następnie przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:68
 msgid ""
@@ -374,8 +374,7 @@ msgid ""
 "or less, then sacrifices all other creatures they control."
 msgstr ""
 "Każdy gracz wybiera dowolną liczbę władanych przez siebie stworów o łącznej "
-"sile 4 lub mniej, następnie poświęca wszystkie inne stwory pod swoim "
-"władaniem."
+"sile 4 lub mniej, po czym poświęca wszystkie inne stwory pod swoim władaniem."
 
 #: ../../RIX.rst:126
 msgid ""
@@ -664,7 +663,7 @@ msgid ""
 "from their hand face down, then draws that many cards."
 msgstr ""
 "Kiedy ten urok wejdzie na pole bitwy, wskazany gracz wygania jako zakryte "
-"wszystkie karty ze swojej ręki, następnie dobiera tyle samo kart."
+"wszystkie karty ze swojej ręki, po czym dobiera tyle samo kart."
 
 #: ../../RIX.rst:217
 msgid ""
@@ -788,7 +787,7 @@ msgid ""
 "When Riverwise Augur enters the battlefield, draw three cards, then put two "
 "cards from your hand on top of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz trzy karty, następnie umieść "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz trzy karty, po czym umieść "
 "dwie karty z twojej ręki na wierzchu twojej biblioteki w dowolnej kolejności."
 
 #: ../../RIX.rst:262
@@ -1139,7 +1138,7 @@ msgid ""
 "card on top of it."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Pirata, ujawnij ją, następnie przetasuj twoją bibliotekę i umieść ową "
+"kartę Pirata, ujawnij ją, po czym przetasuj twoją bibliotekę i umieść ową "
 "kartę na jej wierzchu."
 
 #: ../../RIX.rst:389
@@ -1213,7 +1212,7 @@ msgid ""
 "Search your library for a card, put it into your hand, then shuffle your "
 "library."
 msgstr ""
-"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, następnie "
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
 "przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:415
@@ -1381,7 +1380,7 @@ msgid ""
 msgstr ""
 "|mana_1|, odrzuć kartę: Ten stwór eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, następnie umieść ową kartę z "
+"razie umieść znacznik +1/+1 na tym stworze, po czym umieść ową kartę z "
 "powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:480
@@ -1584,8 +1583,8 @@ msgid ""
 "without paying their mana costs."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę biblioteki każdego z "
-"graczy, następnie możesz rzucić dowolną liczbę czarów spośród kart wygnanych "
-"w ten sposób bez płacenia ich kosztów many."
+"graczy, po czym możesz rzucić dowolną liczbę czarów spośród kart wygnanych w "
+"ten sposób bez płacenia ich kosztów many."
 
 #: ../../RIX.rst:548
 msgid ""
@@ -1617,7 +1616,7 @@ msgid ""
 "that card on top of it."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Dinozaura, ujawnij ją, następnie przetasuj twoją bibliotekę i umieścić "
+"kartę Dinozaura, ujawnij ją, po czym przetasuj twoją bibliotekę i umieścić "
 "ową kartę na jej wierzchu."
 
 #: ../../RIX.rst:553
@@ -2017,7 +2016,7 @@ msgid ""
 msgstr ""
 "Wskazany stwór pod twoim władaniem eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W przeciwnym "
-"razie umieść znacznik +1/+1 na tym stworze, następnie umieść ową kartę z "
+"razie umieść znacznik +1/+1 na tym stworze, po czym umieść ową kartę z "
 "powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:685
@@ -2039,7 +2038,7 @@ msgid ""
 "that card on top of it."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Wodnika, ujawnij ją, następnie przetasuj twoją bibliotekę i umieść ową "
+"kartę Wodnika, ujawnij ją, po czym przetasuj twoją bibliotekę i umieść ową "
 "kartę na jej wierzchu."
 
 #: ../../RIX.rst:691
@@ -2148,10 +2147,10 @@ msgid ""
 "it's a land. Otherwise, put a +1/+1 counter on this creature, then put the "
 "card back or put it into your graveyard. Then repeat this process.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, eksploruje, następnie eksploruje "
+"Kiedy ten stwór wejdzie na pole bitwy, eksploruje, po czym eksploruje "
 "ponownie. (Ujawnij wierzchnią kartę twojej biblioteki. Umieść ową kartę w "
 "twojej ręce jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na tym "
-"stworze, następnie umieść ową kartę z powrotem lub umieść ją w twoim "
+"stworze, po czym umieść ową kartę z powrotem lub umieść ją w twoim "
 "cmentarzu. Następnie powtórz ten proces.)"
 
 #: ../../RIX.rst:726
@@ -2232,7 +2231,7 @@ msgstr ""
 "Ilekroć jakiś stwór wejdzie na pole bitwy pod twoim władaniem, ów stwór "
 "eksploruje. (Ujawnij wierzchnią kartę twojej biblioteki. Umieść ową kartę w "
 "twojej ręce jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na tym "
-"stworze, następnie umieść ową kartę z powrotem lub umieść ją w twoim "
+"stworze, po czym umieść ową kartę z powrotem lub umieść ją w twoim "
 "cmentarzu.)"
 
 #: ../../RIX.rst:750
@@ -2344,7 +2343,7 @@ msgid ""
 "tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, następnie przetasuj twoją bibliotekę."
+"polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:790
 msgid ""
@@ -2592,7 +2591,7 @@ msgid ""
 "under your control."
 msgstr ""
 "Kiedy zauroczony stwór umrze, przywróć go na pole bitwy pod twoim władaniem, "
-"następnie przywróć niniejszą kartę na pole bitwy pod twoim władaniem, "
+"po czym przywróć niniejszą kartę na pole bitwy pod twoim władaniem, "
 "transformowaną."
 
 #: ../../RIX.rst:872
@@ -2954,7 +2953,7 @@ msgid ""
 "with five or more different converted mana costs are exiled with Azor's "
 "Gateway, you gain 5 life, untap Azor's Gateway, and transform it."
 msgstr ""
-"|mana_1|, |tap|: Dobierz kartę, następnie wygnaj kartę z twojej ręki. Jeśli "
+"|mana_1|, |tap|: Dobierz kartę, po czym wygnaj kartę z twojej ręki. Jeśli "
 "karty o co najmniej pięciu różnych skrótach many zostały wygnane przez ten "
 "artefakt, zyskaj 5 żyć, odkręć ten artefakt i transformuj go."
 
@@ -3183,7 +3182,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:1072
 msgid ""

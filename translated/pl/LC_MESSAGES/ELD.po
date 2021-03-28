@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-12 08:58+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eld/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../ELD.rst:5
 msgid ":mtgexp:`ELD` Throne of Eldraine"
@@ -1009,8 +1009,7 @@ msgid ""
 "Mirror, then draw a card for each knowledge counter on The Magic Mirror."
 msgstr ""
 "Na początku twojego kroku utrzymania, umieść znacznik wiedzy na tym "
-"artefakcie, następnie dobierz kartę za każdy znacznik wiedzy na tym "
-"artefakcie."
+"artefakcie, po czym dobierz kartę za każdy znacznik wiedzy na tym artefakcie."
 
 #: ../../ELD.rst:344
 msgid ""
@@ -1082,7 +1081,7 @@ msgid ""
 "and graveyard into your library, then draw seven cards. Exile Midnight Clock."
 msgstr ""
 "Kiedy dwunasty znacznik godziny zostanie umieszczony na tym artefakcie, "
-"wtasuj swoją rękę i cmentarz do twojej biblioteki, następnie dobierz siedem "
+"wtasuj swoją rękę i cmentarz do twojej biblioteki, po czym dobierz siedem "
 "kart. Wygnaj ten artefakt."
 
 #: ../../ELD.rst:366
@@ -1177,9 +1176,9 @@ msgid ""
 "order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik mieli dwie karty. "
-"Następnie wróż 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, "
-"następnie umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
-"jej wierzchu w dowolnej kolejności.)"
+"Następnie wróż 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, po "
+"czym umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na jej "
+"wierzchu w dowolnej kolejności.)"
 
 #: ../../ELD.rst:394
 msgid ""
@@ -1438,8 +1437,8 @@ msgid ""
 "library and the rest on top in any order.)"
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
-"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ELD.rst:477
 msgid "|mana_3|\\ |mana_u|, Sacrifice Witching Well: Draw two cards."
@@ -1819,8 +1818,8 @@ msgid ""
 "and the rest on top in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
-"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ELD.rst:598
 msgid ""
@@ -2158,7 +2157,7 @@ msgid ""
 "during your turn."
 msgstr ""
 "|mana_1|, |tap|, usuń znacznik życzenia z tego artefaktu: Wyszukaj w twojej "
-"bibliotece dowolną kartę, umieść ją w twojej ręce, następnie przetasuj twoją "
+"bibliotece dowolną kartę, umieść ją w twojej ręce, po czym przetasuj twoją "
 "bibliotekę. Przeciwnik zyskuje władanie nad tym artefaktem. Możesz aktywować "
 "tę zdolność tylko w twojej turze."
 
@@ -2893,7 +2892,7 @@ msgid ""
 "from exile.)"
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"następnie przetasuj twoją bibliotekę. (Następnie wygnaj tę kartę. Możesz "
+"po czym przetasuj twoją bibliotekę. (Następnie wygnaj tę kartę. Możesz "
 "później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:918
@@ -3338,7 +3337,7 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem, następnie "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem, po czym "
 "walczy on ze wskazanym stworem poza twoim władaniem. (Każdy zadaje drugiemu "
 "obrażenia równe swojej sile.)"
 
@@ -3700,7 +3699,7 @@ msgstr ""
 "Na początku kroku utrzymania każdego gracza, ów gracz poświęca nie-lądowy, "
 "nieżetonowy permanent. Jeśli ów gracz nie może, odrzuca kartę i traci 2 "
 "życia, a ty dobierz kartę, zyskaj 2 życia, stwórz żeton białego stwora "
-"Rycerz 2/2 z czujnością, następnie poświęć niniejszy urok."
+"Rycerz 2/2 z czujnością, po czym poświęć niniejszy urok."
 
 #: ../../ELD.rst:1164
 msgid ""
@@ -3825,7 +3824,7 @@ msgstr ""
 
 #: ../../ELD.rst:1195
 msgid "|mana_4|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
-msgstr "|mana_4|\\ |mana_u|\\ |mana_r|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_4|\\ |mana_u|\\ |mana_r|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../ELD.rst:1200
 msgid ""
@@ -3945,7 +3944,7 @@ msgstr ""
 
 #: ../../ELD.rst:1237
 msgid "+1: Draw a card, then discard a card."
-msgstr "+1: Dobierz kartę, następnie odrzuć kartę."
+msgstr "+1: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../ELD.rst:1239
 msgid ""
@@ -4426,8 +4425,8 @@ msgid ""
 "library and the rest on top in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
-"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ELD.rst:1410
 msgid ""
@@ -4512,7 +4511,7 @@ msgid ""
 "As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, "
 "then choose any card name."
 msgstr ""
-"Umieszczając tę kartę na polu bitwy, spójrz na rękę przeciwnika, następnie "
+"Umieszczając tę kartę na polu bitwy, spójrz na rękę przeciwnika, po czym "
 "nazwij kartę."
 
 #: ../../ELD.rst:1433
@@ -4679,7 +4678,7 @@ msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Draw a card, then you lose life equal "
 "to the number of cards in your hand."
 msgstr ""
-"|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Dobierz kartę, następnie strać tyle "
+"|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Dobierz kartę, po czym strać tyle "
 "żyć, ile masz kart w ręce."
 
 #: ../../ELD.rst:1496
@@ -4739,7 +4738,7 @@ msgid ""
 "control four or more lands, untap that land."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę. "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę. "
 "Następnie jeśli władasz przynajmniej czterema lądami, odkręć ów ląd."
 
 #: ../../ELD.rst:1516
@@ -5352,8 +5351,7 @@ msgid ""
 "the copies."
 msgstr ""
 "Jeśli rzucisz ten czar z twojej ręki, skopiuj go jeśli władasz artefaktem, "
-"następnie skopiuj go jeśli władasz urokiem. Możesz wskazać nowe cele dla "
-"kopii."
+"po czym skopiuj go jeśli władasz urokiem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../ELD.rst:1715
 msgid ""
@@ -5376,7 +5374,7 @@ msgid ""
 "Whenever you cast a creature spell, draw a card, then you may put a land "
 "card from your hand onto the battlefield."
 msgstr ""
-"Ilekroć rzucisz czar stwora, dobierz kartę, następnie możesz umieścić kartę "
+"Ilekroć rzucisz czar stwora, dobierz kartę, po czym możesz umieścić kartę "
 "lądu z twojej ręki na polu bitwy."
 
 #: ../../ELD.rst:1723

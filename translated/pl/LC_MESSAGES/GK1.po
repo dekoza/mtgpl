@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-12 08:58+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk1/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../GK1.rst:5
@@ -220,7 +220,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ilekroć rzucisz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
-"biblioteki, aż ujawni kartę lądu, następnie umieszcza owe karty w swoim "
+"biblioteki, aż ujawni kartę lądu, po czym umieszcza owe karty w swoim "
 "cmentarzu."
 
 #: ../../GK1.rst:70
@@ -305,7 +305,7 @@ msgid ""
 "owner's hand, then that player discards a card."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
-"właściciela, następnie ów gracz odrzuca kartę."
+"właściciela, po czym ów gracz odrzuca kartę."
 
 #: ../../GK1.rst:90
 msgid ""
@@ -360,8 +360,8 @@ msgid ""
 "land cards, then puts those cards into their graveyard."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz ujawnia karty z "
-"wierzchu swojej biblioteki, aż ujawni cztery karty lądów, następnie "
-"umieszcza owe karty w swoim cmentarzu."
+"wierzchu swojej biblioteki, aż ujawni cztery karty lądów, po czym umieszcza "
+"owe karty w swoim cmentarzu."
 
 #: ../../GK1.rst:108
 msgid ""
@@ -655,7 +655,7 @@ msgid ""
 "Target player draws two cards, then Cerebral Vortex deals damage to that "
 "player equal to the number of cards they've drawn this turn."
 msgstr ""
-"Wskazany gracz dobiera dwie karty, następnie ten czar zadaje owemu graczowi "
+"Wskazany gracz dobiera dwie karty, po czym ten czar zadaje owemu graczowi "
 "tyle obrażeń, ile dobrał on kart w tej turze."
 
 #: ../../GK1.rst:208
@@ -766,7 +766,7 @@ msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../GK1.rst:243
 msgid "Draw two cards, then discard two cards."
-msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../GK1.rst:250
 msgid ""
@@ -777,7 +777,7 @@ msgstr ""
 
 #: ../../GK1.rst:247
 msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
-msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../GK1.rst:249
 msgid ""
@@ -1097,8 +1097,8 @@ msgid ""
 "Choose target creature. Mill four cards, then that creature gets -1/-1 until "
 "end of turn for each land card in your graveyard."
 msgstr ""
-"Wskaż stwora. Zmiel cztery karty, następnie ów stwór dostaje do końca tury "
-"-1/-1 za każdą kartę lądu w twoim cmentarzu."
+"Wskaż stwora. Zmiel cztery karty, po czym ów stwór dostaje do końca tury -1/-"
+"1 za każdą kartę lądu w twoim cmentarzu."
 
 #: ../../GK1.rst:352
 msgid ""
@@ -2077,7 +2077,7 @@ msgid ""
 "Destroy target artifact or enchantment, then populate. (Create a token "
 "that's a copy of a creature token you control.)"
 msgstr ""
-"Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Stwórz żeton będący "
+"Zniszcz wskazany artefakt lub urok, po czym zaludnij. (Stwórz żeton będący "
 "kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../GK1.rst:684

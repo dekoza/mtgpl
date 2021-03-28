@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m10/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../M10.rst:5
@@ -825,7 +825,7 @@ msgstr ""
 
 #: ../../M10.rst:299
 msgid "|tap|: Draw a card, then discard a card."
-msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../M10.rst:306
 msgid ""
@@ -902,7 +902,7 @@ msgid ""
 msgstr ""
 "Zniszcz wskazanego stwora. Nie może zregenerować. Jego władca ujawnia karty "
 "z wierzchu swojej biblioteki aż ujawni kartę stwora. Ów gracz umieszcza ową "
-"kartę na polu bitwy, następnie tasuje pozostałe ujawnione w ten sposób karty "
+"kartę na polu bitwy, po czym tasuje pozostałe ujawnione w ten sposób karty "
 "do swojej biblioteki."
 
 #: ../../M10.rst:334
@@ -917,7 +917,7 @@ msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle your library."
 msgstr ""
-"Spójrz na trzy wierzchnie karty twojej biblioteki, następnie umieść je z "
+"Spójrz na trzy wierzchnie karty twojej biblioteki, po czym umieść je z "
 "powrotem w dowolnej kolejności. Możesz przetasować twoją bibliotekę."
 
 #: ../../M10.rst:333
@@ -937,7 +937,7 @@ msgid ""
 "library, then put them back in any order."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
-"twojej biblioteki, następnie umieść je z powrotem w dowolnej kolejności."
+"twojej biblioteki, po czym umieść je z powrotem w dowolnej kolejności."
 
 #: ../../M10.rst:346
 msgid ""
@@ -998,7 +998,7 @@ msgid ""
 "library."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, wyszukaj w bibliotece "
-"owego gracza kartę, następnie ów gracz wybiera nazwę karty. Jeśli wyszukałeś "
+"owego gracza kartę, po czym ów gracz wybiera nazwę karty. Jeśli wyszukałeś "
 "kartę stwora nie mające owej nazwy, możesz umieścić ją na polu bitwy pod "
 "twoim władaniem. Następnie ów gracz tasuje swoją bibliotekę."
 
@@ -1376,7 +1376,7 @@ msgid ""
 "−2: Search your library for a card, then shuffle your library and put that "
 "card on top of it."
 msgstr ""
-"−2: Wyszukaj w twojej bibliotece dowolną kartę, następnie przetasuj twoją "
+"−2: Wyszukaj w twojej bibliotece dowolną kartę, po czym przetasuj twoją "
 "bibliotekę i umieść ową kartę na jej wierzchu."
 
 #: ../../M10.rst:491
@@ -1657,9 +1657,8 @@ msgid ""
 "life."
 msgstr ""
 "Na początku twojego kroku utrzymania, poświęć stwora innego niż niniejszy, "
-"następnie każdy przeciwnik traci po tyle żyć, ile siły miał poświęcony "
-"stwór. Jeśli nie możesz poświęcić stwora, przekręć niniejszego stwora i "
-"strać 7 żyć."
+"po czym każdy przeciwnik traci po tyle żyć, ile siły miał poświęcony stwór. "
+"Jeśli nie możesz poświęcić stwora, przekręć niniejszego stwora i strać 7 żyć."
 
 #: ../../M10.rst:590
 msgid ""
@@ -1750,7 +1749,7 @@ msgstr ""
 
 #: ../../M10.rst:619
 msgid "Each player draws three cards, then discards three cards at random."
-msgstr "Każdy gracz dobiera trzy karty, następnie odrzuca trzy losowe karty."
+msgstr "Każdy gracz dobiera trzy karty, po czym odrzuca trzy losowe karty."
 
 #: ../../M10.rst:624
 msgid ""
@@ -2212,10 +2211,10 @@ msgid ""
 "then does the same for enchantment cards, then puts all cards revealed this "
 "way that weren't put onto the battlefield on the bottom of their library."
 msgstr ""
-"Każdy gracz wtasowuje wszystkie własne permanenty do swojej biblioteki, "
-"następnie ujawnia tyle samo kart z wierzchu swojej biblioteki. Każdy gracz "
+"Każdy gracz wtasowuje wszystkie własne permanenty do swojej biblioteki, po "
+"czym ujawnia tyle samo kart z wierzchu swojej biblioteki. Każdy gracz "
 "umieszcza wszystkie karty artefaktów, stworów i lądów ujawnione w ten sposób "
-"na polu bitwy, następnie robi to samo z kartami uroków, następnie umieszcza "
+"na polu bitwy, po czym robi to samo z kartami uroków, po czym umieszcza "
 "pozostałe ujawnione w ten sposób karty na spodzie swojej biblioteki."
 
 #: ../../M10.rst:786
@@ -2915,8 +2914,8 @@ msgid ""
 "of your library."
 msgstr ""
 "|tap|, poświęć ten artefakt: Wybierz co najwyżej siedem własnych odkrytych "
-"kart na wygnaniu. Wygnaj wszystkie karty z twojej biblioteki, następnie "
-"umieść wybrane karty na wierzchu twojej biblioteki."
+"kart na wygnaniu. Wygnaj wszystkie karty z twojej biblioteki, po czym umieść "
+"wybrane karty na wierzchu twojej biblioteki."
 
 #: ../../M10.rst:1026
 msgid ""
@@ -3131,7 +3130,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../M10.rst:1100
 msgid ""

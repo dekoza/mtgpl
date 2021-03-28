@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-12 08:58+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/war/pl/>\n"
 "Language: pl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../WAR.rst:5
 msgid ":mtgexp:`WAR` War of the Spark"
@@ -335,9 +335,9 @@ msgid ""
 "planeswalker, proliferate. (Choose any number of permanents and/or players, "
 "then give each another counter of each kind already there.)"
 msgstr ""
-"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń. "
-"(Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj każdemu z "
-"nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń. ("
+"Wybierz dowolną liczbę permanentów i/lub graczy, po czym daj każdemu z nich "
+"kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:104
 msgid ""
@@ -352,7 +352,7 @@ msgid ""
 "into your hand, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty wędrowców, ujawnij je, "
-"umieść je w twojej ręce, następnie przetasuj twoją bibliotekę."
+"umieść je w twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../WAR.rst:106
 msgid ""
@@ -422,7 +422,7 @@ msgid ""
 "already there.)"
 msgstr ""
 "Kiedy ten stwór umrze, rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
-"graczy, następnie daj każdemu z nich kolejny znacznik każdego z już obecnych "
+"graczy, po czym daj każdemu z nich kolejny znacznik każdego z już obecnych "
 "tam rodzajów.)"
 
 #: ../../WAR.rst:134
@@ -536,7 +536,7 @@ msgid ""
 "the rest. Players can't cast creature or planeswalker spells until the end "
 "of your next turn."
 msgstr ""
-"Każdy gracz wybiera stwora lub wędrowca pod swoim władaniem, następnie "
+"Każdy gracz wybiera stwora lub wędrowca pod swoim władaniem, po czym "
 "poświęca pozostałe stwory i wędrowców. Gracze nie mogą rzucać czarów stworów "
 "lub wędrowców do końca twojej następnej tury."
 
@@ -670,8 +670,8 @@ msgid ""
 "Exile target creature, then proliferate. (Choose any number of permanents "
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
-"Wygnaj wskazanego stwora, następnie rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"Wygnaj wskazanego stwora, po czym rozpleń. (Wybierz dowolną liczbę "
+"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:210
@@ -787,7 +787,7 @@ msgid ""
 "(Put X +1/+1 counters on an Army you control. If you don't control one, "
 "create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
-"Dobierz dwie karty, następnie zgromadź X, gdzie X jest liczbą kart w twojej "
+"Dobierz dwie karty, po czym zgromadź X, gdzie X jest liczbą kart w twojej "
 "ręce. (Umieść X znaczników +1/+1 na Armii pod twoim władaniem. Jeśli żadną "
 "nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
@@ -803,7 +803,7 @@ msgid ""
 "Proliferate. (Choose any number of permanents and/or players, then give each "
 "another counter of each kind already there.)"
 msgstr ""
-"Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj "
+"Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, po czym daj "
 "każdemu z nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:252
@@ -834,7 +834,7 @@ msgstr ""
 
 #: ../../WAR.rst:255
 msgid "|mana_1|\\ |mana_u|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../WAR.rst:262
 msgid ""
@@ -915,7 +915,7 @@ msgid ""
 "already there.)"
 msgstr ""
 "Ilekroć rzucisz nie-stworowy czar, rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:286
@@ -1006,8 +1006,8 @@ msgid ""
 "−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a "
 "card."
 msgstr ""
-"–2: Stwórz żeton niebieskiego stwora Czarodziej 2/2. Dobierz kartę, "
-"następnie odrzuć kartę."
+"–2: Stwórz żeton niebieskiego stwora Czarodziej 2/2. Dobierz kartę, po czym "
+"odrzuć kartę."
 
 #: ../../WAR.rst:310
 msgid ""
@@ -1041,7 +1041,7 @@ msgid ""
 "kind already there.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:320
@@ -1101,7 +1101,7 @@ msgid ""
 "Copy target instant or sorcery spell, then return it to its owner's hand. "
 "You may choose new targets for the copy."
 msgstr ""
-"Skopiuj wskazany czar sztuczki lub obrzędu, następnie przywróć go do ręki "
+"Skopiuj wskazany czar sztuczki lub obrzędu, po czym przywróć go do ręki "
 "właściciela. Możesz wskazać nowe cele dla kopii."
 
 #: ../../WAR.rst:340
@@ -1252,7 +1252,7 @@ msgstr ""
 
 #: ../../WAR.rst:377
 msgid "Scry 4, then draw two cards."
-msgstr "Wróż 4, następnie dobierz dwie karty."
+msgstr "Wróż 4, po czym dobierz dwie karty."
 
 #: ../../WAR.rst:382
 msgid ""
@@ -1616,7 +1616,7 @@ msgid ""
 "permanents, then draw that many cards."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, poświęć dowolną liczbę permanentów, "
-"następnie dobierz tyle samo kart."
+"po czym dobierz tyle samo kart."
 
 #: ../../WAR.rst:487
 msgid ""
@@ -2024,8 +2024,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end "
 "of turn, then scry 1."
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje do końca tury +1/"
-"+0, następnie wróż 1."
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje do końca tury +1/+"
+"0, po czym wróż 1."
 
 #: ../../WAR.rst:618
 msgid ""
@@ -2381,7 +2381,7 @@ msgid ""
 "Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then "
 "create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, umieść na nim znacznik +1/+1, następnie stwórz "
+"Ilekroć ten stwór zaatakuje, umieść na nim znacznik +1/+1, po czym stwórz "
 "tyle żetonów czerwonego stwora Goblin 1/1, ile wynosi jego siła."
 
 #: ../../WAR.rst:724
@@ -2662,7 +2662,7 @@ msgid ""
 "already there.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:808
@@ -2726,9 +2726,9 @@ msgid ""
 "of permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworze, następnie rozpleń. (Wybierz "
-"dowolną liczbę permanentów i/lub graczy, następnie daj każdemu z nich "
-"kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"Umieść znacznik +1/+1 na wskazanym stworze, po czym rozpleń. (Wybierz "
+"dowolną liczbę permanentów i/lub graczy, po czym daj każdemu z nich kolejny "
+"znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:826
 msgid ""
@@ -2744,8 +2744,8 @@ msgid ""
 "counter of each kind already there.)"
 msgstr ""
 "Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, rozpleń. (Wybierz "
-"dowolną liczbę permanentów i/lub graczy, następnie daj każdemu z nich "
-"kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"dowolną liczbę permanentów i/lub graczy, po czym daj każdemu z nich kolejny "
+"znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:830
 msgid ""
@@ -2930,7 +2930,7 @@ msgid ""
 msgstr ""
 "–8: Dostajesz emblemat mający \"Lądy pod twoim władaniem mają "
 "niezniszczalność.\" Wyszukaj w twojej bibliotece dowolną liczbę kart Lasu, "
-"umieść je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../WAR.rst:888
 msgid ""
@@ -2947,7 +2947,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowego Lasu. Jeśli "
 "władasz wędrowcem o typie Nissa, zamiast tego wyszukaj co najwyżej trzy "
-"karty lądów. Ujawnij owe karty, umieść je w twojej ręce, następnie przetasuj "
+"karty lądów. Ujawnij owe karty, umieść je w twojej ręce, po czym przetasuj "
 "twoją bibliotekę."
 
 #: ../../WAR.rst:894
@@ -3296,7 +3296,7 @@ msgid ""
 "onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Zniszcz wskazanego stwora. Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../WAR.rst:1020
 msgid ""
@@ -3468,8 +3468,8 @@ msgid ""
 "Discard all the cards in your hand, then draw that many cards plus one. You "
 "gain life equal to the number of cards in your hand."
 msgstr ""
-"Odrzuć wszystkie karty w twojej ręce, następnie dobierz tyle samo plus "
-"jedną. Zyskaj życia równe liczbie kart w twojej ręce."
+"Odrzuć wszystkie karty w twojej ręce, po czym dobierz tyle samo plus jedną. "
+"Zyskaj życia równe liczbie kart w twojej ręce."
 
 #: ../../WAR.rst:1078
 msgid ""
@@ -3485,7 +3485,7 @@ msgid ""
 "already there.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:1082
@@ -3573,7 +3573,7 @@ msgid ""
 "already there.)"
 msgstr ""
 "|mana_3|\\ |mana_g|\\ |mana_u|: Rozpleń. (Wybierz dowolną liczbę permanentów "
-"i/lub graczy, następnie daj każdemu z nich kolejny znacznik każdego z już "
+"i/lub graczy, po czym daj każdemu z nich kolejny znacznik każdego z już "
 "obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:1112
@@ -3596,7 +3596,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skrócie many większym o 1 od "
 "skróconego kosztu many poświęconego stwora, umieść ową kartę na polu bitwy z "
-"dodatkowym znacznikiem +1/+1, następnie przetasuj twoją bibliotekę."
+"dodatkowym znacznikiem +1/+1, po czym przetasuj twoją bibliotekę."
 
 #: ../../WAR.rst:1122
 msgid ""
@@ -3760,9 +3760,9 @@ msgid ""
 "of permanents and/or players, then give each another counter of each kind "
 "already there. Then do it again.)"
 msgstr ""
-"Kiedy ten stwór umrze, rozpleń, następnie rozpleń ponownie. (Wybierz dowolną "
-"liczbę permanentów i/lub graczy, następnie daj każdemu z nich kolejny "
-"znacznik każdego z już obecnych tam rodzajów. Następnie powtórz to.)"
+"Kiedy ten stwór umrze, rozpleń, po czym rozpleń ponownie. (Wybierz dowolną "
+"liczbę permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
+"każdego z już obecnych tam rodzajów. Następnie powtórz to.)"
 
 #: ../../WAR.rst:1162
 msgid ""
@@ -3888,9 +3888,9 @@ msgid ""
 "library. Put all cards with the chosen name from among them into your hand "
 "and the rest into your graveyard."
 msgstr ""
-"+1: Nazwij nie-lądową kartę, następnie ujawnij cztery wierzchnie karty "
-"twojej biblioteki. Wszystkie karty o wybranej nazwie spośród nich umieść w "
-"twojej ręce, a pozostałe w twoim cmentarzu."
+"+1: Nazwij nie-lądową kartę, po czym ujawnij cztery wierzchnie karty twojej "
+"biblioteki. Wszystkie karty o wybranej nazwie spośród nich umieść w twojej "
+"ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../WAR.rst:1197
 msgid "−3: Return target card from your graveyard to your hand."
@@ -3937,7 +3937,7 @@ msgid ""
 "+1 counter on Tenth District Legionnaire, then scry 1."
 msgstr ""
 "Ilekroć rzucisz czar wskazujący tego stwora, umieść na nim znacznik +1/+1, "
-"następnie wróż 1."
+"po czym wróż 1."
 
 #: ../../WAR.rst:1216
 msgid ""
@@ -3951,7 +3951,7 @@ msgid ""
 "Return a creature you control to its owner's hand, then destroy all "
 "creatures."
 msgstr ""
-"Przywróć stwora pod twoim władaniem do ręki jego właściciela, następnie "
+"Przywróć stwora pod twoim władaniem do ręki jego właściciela, po czym "
 "zniszcz wszystkie stwory."
 
 #: ../../WAR.rst:1222
@@ -4007,9 +4007,9 @@ msgid ""
 "control. If you don't control one, create a 0/0 black Zombie Army creature "
 "token first.)"
 msgstr ""
-"Zgromadź 2, następnie zgromadzona Armia zadaje obrażenia równe swojej sile "
-"każdemu stworowi nie będącemu Armią. (By zgromadzić 2, umieść dwa znaczniki "
-"+1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"Zgromadź 2, po czym zgromadzona Armia zadaje obrażenia równe swojej sile "
+"każdemu stworowi nie będącemu Armią. (By zgromadzić 2, umieść dwa znaczniki +"
+"1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
 "żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:1240
@@ -4421,7 +4421,7 @@ msgid ""
 "players, then give each another counter of each kind already there.)"
 msgstr ""
 "|mana_4|, |tap|: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, "
-"następnie daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
+"po czym daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
 "rodzajów.)"
 
 #: ../../WAR.rst:1378
@@ -4628,8 +4628,8 @@ msgid ""
 "then give each another counter of each kind already there.)"
 msgstr ""
 "Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń. ("
-"Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj każdemu z "
-"nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"Wybierz dowolną liczbę permanentów i/lub graczy, po czym daj każdemu z nich "
+"kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../WAR.rst:1446
 msgid ""

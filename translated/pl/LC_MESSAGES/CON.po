@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../CON.rst:5
@@ -253,7 +253,7 @@ msgid ""
 "library."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
 "przetasować swoją bibliotekę."
 
 #: ../../CON.rst:90
@@ -441,7 +441,7 @@ msgstr ""
 
 #: ../../CON.rst:155
 msgid "|mana_u|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../CON.rst:160
 msgid ""
@@ -1698,7 +1698,7 @@ msgid ""
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, poświęć Las lub Równinę: Wyszukaj w twojej bibliotece kartę lądu, "
-"umieść ją na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../CON.rst:600
 msgid ""
@@ -1805,8 +1805,8 @@ msgid ""
 "cards, then sacrifices seven permanents."
 msgstr ""
 "–9: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 7 obrażeń. Ów "
-"gracz lub władca owego wędrowca odrzuca siedem kart, następnie poświęca "
-"siedem permanentów."
+"gracz lub władca owego wędrowca odrzuca siedem kart, po czym poświęca siedem "
+"permanentów."
 
 #: ../../CON.rst:642
 msgid ""
@@ -1994,8 +1994,8 @@ msgid ""
 "your library."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
-"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, "
-"następnie przetasuj twoją bibliotekę."
+"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../CON.rst:708
 msgid ""
@@ -2087,7 +2087,7 @@ msgstr ""
 
 #: ../../CON.rst:733
 msgid "|mana_1|\\ |mana_u|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../CON.rst:735
 msgid ""

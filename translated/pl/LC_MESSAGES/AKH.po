@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-02-26 14:06+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/akh/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AKH.rst:5
@@ -1035,7 +1035,7 @@ msgid ""
 "|mana_3|\\ |mana_u|: Draw a card, then you may return a land you control to "
 "its owner's hand."
 msgstr ""
-"|mana_3|\\ |mana_u|: Dobierz kartę, następnie możesz przywróć ląd pod twoim "
+"|mana_3|\\ |mana_u|: Dobierz kartę, po czym możesz przywróć ląd pod twoim "
 "władaniem do ręki właściciela."
 
 #: ../../AKH.rst:346
@@ -1136,7 +1136,7 @@ msgstr ""
 
 #: ../../AKH.rst:371
 msgid "Draw X cards, then discard a card."
-msgstr "Dobierz X kart, następnie odrzuć kartę."
+msgstr "Dobierz X kart, po czym odrzuć kartę."
 
 #: ../../AKH.rst:378
 msgid ""
@@ -1194,7 +1194,7 @@ msgid ""
 "|tap|: Draw a card, then discard a card. Activate this ability only if "
 "you've cast a noncreature spell this turn."
 msgstr ""
-"|tap|: Dobierz kartę, następnie odrzuć kartę. Możesz aktywować tę zdolność "
+"|tap|: Dobierz kartę, po czym odrzuć kartę. Możesz aktywować tę zdolność "
 "tylko jeśli rzuciłeś w tej turze nie-stworowy czar."
 
 #: ../../AKH.rst:396
@@ -1244,7 +1244,7 @@ msgid ""
 "When Trial of Knowledge enters the battlefield, draw three cards, then "
 "discard a card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole wali, dobierz trzy karty, następnie odrzuć "
+"Kiedy ten urok wejdzie na pole wali, dobierz trzy karty, po czym odrzuć "
 "kartę."
 
 #: ../../AKH.rst:409
@@ -2944,8 +2944,8 @@ msgid ""
 "library."
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, poświęć tego stwora: Wyszukaj w twojej "
-"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, "
-"następnie przetasuj twoją bibliotekę."
+"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:966
 msgid ""
@@ -3098,8 +3098,8 @@ msgid ""
 "library. (Do this before you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
-"bazowego lądu lub Pustyni, umieść ją na polu bitwy, następnie przetasuj "
-"twoją bibliotekę. (Zrób to zanim dobierzesz.)"
+"bazowego lądu lub Pustyni, umieść ją na polu bitwy, po czym przetasuj twoją "
+"bibliotekę. (Zrób to zanim dobierzesz.)"
 
 #: ../../AKH.rst:1014
 msgid ""
@@ -3592,7 +3592,7 @@ msgid ""
 "Each player shuffles their hand and graveyard into their library, then draws "
 "seven cards."
 msgstr ""
-"Każdy gracz wstasowuje swoją rękę i cmentarz do swojej biblioteki, następnie "
+"Każdy gracz wstasowuje swoją rękę i cmentarz do swojej biblioteki, po czym "
 "dobiera siedem kart."
 
 #: ../../AKH.rst:1166
@@ -3783,7 +3783,7 @@ msgid ""
 "tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, następnie przetasuj twoją bibliotekę."
+"polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:1244
 msgid ""
@@ -4266,7 +4266,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:1408
 msgid ""

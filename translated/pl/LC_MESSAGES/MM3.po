@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:07+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../MM3.rst:5
@@ -118,7 +118,7 @@ msgid ""
 "Create a 1/1 white Bird creature token with flying, then populate. (Create a "
 "token that's a copy of a creature token you control.)"
 msgstr ""
-"Stwórz żeton białego stwora Ptak 1/1 z lataniem, następnie zaludnij. (Stwórz "
+"Stwórz żeton białego stwora Ptak 1/1 z lataniem, po czym zaludnij. (Stwórz "
 "żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../MM3.rst:40
@@ -291,7 +291,7 @@ msgid ""
 "Exile target creature you control, then return it to the battlefield under "
 "its owner's control."
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć go na pole "
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć go na pole "
 "bitwy pod władaniem jego właściciela."
 
 #: ../../MM3.rst:89
@@ -316,7 +316,7 @@ msgid ""
 "library."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
 "przetasować swoją bibliotekę."
 
 #: ../../MM3.rst:100
@@ -373,8 +373,8 @@ msgid ""
 "your control."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać innego nie będącego "
-"Aniołem stwora pod twoim władaniem, następnie przywróć ową kartę na pole "
-"bitwy pod twoim władaniem."
+"Aniołem stwora pod twoim władaniem, po czym przywróć ową kartę na pole bitwy "
+"pod twoim władaniem."
 
 #: ../../MM3.rst:116
 msgid ""
@@ -625,8 +625,8 @@ msgid ""
 "creatures has \"|mana_1|\\ |mana_u|: Exile this creature, then return it to "
 "the battlefield under your control.\""
 msgstr ""
-"O ile ten stwór jest sparowany z innym stworem, oba mają \"|mana_1|\\ |"
-"mana_u|: Wygnaj tego stwora, następnie przywróć go na pole bitwy pod twoim "
+"O ile ten stwór jest sparowany z innym stworem, oba mają \"|mana_1|\\ "
+"|mana_u|: Wygnaj tego stwora, po czym przywróć go na pole bitwy pod twoim "
 "władaniem.\""
 
 #: ../../MM3.rst:194
@@ -683,8 +683,8 @@ msgid ""
 "Exile two target artifacts, creatures, and/or lands you control, then return "
 "those cards to the battlefield under your control."
 msgstr ""
-"Wygnaj dwa wskazane artefakty, stwory i/lub lądy pod twoim władaniem, "
-"następnie przywróć owe karty na pole bitwy pod twoim władaniem."
+"Wygnaj dwa wskazane artefakty, stwory i/lub lądy pod twoim władaniem, po "
+"czym przywróć owe karty na pole bitwy pod twoim władaniem."
 
 #: ../../MM3.rst:208
 msgid ""
@@ -2198,7 +2198,7 @@ msgid ""
 "then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, umieść w twojej ręce, "
-"następnie przetasuj twoją bibliotekę."
+"po czym przetasuj twoją bibliotekę."
 
 #: ../../MM3.rst:700
 msgid ""
@@ -2318,7 +2318,7 @@ msgid ""
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, następnie przetasuj "
+"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, po czym przetasuj "
 "twoją bibliotekę."
 
 #: ../../MM3.rst:734
@@ -2602,9 +2602,9 @@ msgid ""
 "life. You return a creature card from your graveyard to your hand, draw "
 "three cards, then gain 5 life."
 msgstr ""
-"Wskazany przeciwnik poświęca stwora, odrzuca trzy karty, następnie traci 5 "
+"Wskazany przeciwnik poświęca stwora, odrzuca trzy karty, po czym traci 5 "
 "żyć. Przywróć kartę stwora z twojego cmentarza do twojej ręki, dobierz trzy "
-"karty, następnie zyskaj 5 żyć."
+"karty, po czym zyskaj 5 żyć."
 
 #: ../../MM3.rst:824
 msgid ""
@@ -2634,7 +2634,7 @@ msgid ""
 "owner's hand, then that player discards a card."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
-"właściciela, następnie ów gracz odrzuca kartę."
+"właściciela, po czym ów gracz odrzuca kartę."
 
 #: ../../MM3.rst:836
 msgid ""
@@ -2811,7 +2811,7 @@ msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../MM3.rst:885
 msgid "Draw two cards, then discard two cards."
-msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../MM3.rst:894
 msgid ""
@@ -3062,7 +3062,7 @@ msgid ""
 "Discard two cards: Soul Ransom's controller sacrifices it, then draws two "
 "cards. Only any opponent may activate this ability."
 msgstr ""
-"Odrzuć dwie karty: Władca tego uroku poświęca go, następnie dobiera dwie "
+"Odrzuć dwie karty: Władca tego uroku poświęca go, po czym dobiera dwie "
 "karty. Tylko przeciwnik może aktywować tę zdolność."
 
 #: ../../MM3.rst:980
@@ -3436,7 +3436,7 @@ msgid ""
 "Destroy target artifact or enchantment, then populate. (Create a token "
 "that's a copy of a creature token you control.)"
 msgstr ""
-"Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Stwórz żeton będący "
+"Zniszcz wskazany artefakt lub urok, po czym zaludnij. (Stwórz żeton będący "
 "kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../MM3.rst:1102
@@ -3684,7 +3684,7 @@ msgid ""
 "or Plains card, put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Góry lub Równiny, umieść ją na polu bitwy, następnie przetasuj twoją "
+"Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../MM3.rst:1184
@@ -3843,7 +3843,7 @@ msgid ""
 "or Swamp card, put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Równiny lub Bagna, umieść ją na polu bitwy, następnie przetasuj twoją "
+"Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../MM3.rst:1242
@@ -3860,8 +3860,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, następnie przetasuj twoją "
-"bibliotekę."
+"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../MM3.rst:1248
 msgid ""
@@ -3922,8 +3921,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Wyspy lub Góry, umieść ją na polu bitwy, następnie przetasuj twoją "
-"bibliotekę."
+"Wyspy lub Góry, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../MM3.rst:1270
 msgid ""
@@ -3994,8 +3992,7 @@ msgid ""
 "Swamp or Forest card, put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Bagna lub Lasu, umieść ją na polu bitwy, następnie przetasuj twoją "
-"bibliotekę."
+"Bagna lub Lasu, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #~ msgid ""
 #~ "Target player puts the top two cards of their library into their "

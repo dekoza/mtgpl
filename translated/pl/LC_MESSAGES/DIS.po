@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../DIS.rst:5
@@ -374,7 +374,7 @@ msgid ""
 "of your library in any order."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
-"twojej biblioteki, następnie umieść jedną z nich w twojej ręce, a pozostałe "
+"twojej biblioteki, po czym umieść jedną z nich w twojej ręce, a pozostałe "
 "dowolnie na spodzie twojej biblioteki."
 
 #: ../../DIS.rst:131
@@ -800,7 +800,7 @@ msgid ""
 "then discard a card."
 msgstr ""
 "Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
-"twojej ręki, następnie odrzuć kartę."
+"twojej ręki, po czym odrzuć kartę."
 
 #: ../../DIS.rst:286
 msgid ""
@@ -1825,7 +1825,7 @@ msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, nazwij kartę. Ów gracz "
 "ujawnia swoją rękę. Jeśli nazwana karta zostanie ujawniona w ten sposób, "
 "wyszukaj w twojej bibliotece kartę stwora mającego latanie, ujawnij ją, "
-"umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
+"umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../DIS.rst:642
 msgid ""
@@ -2897,7 +2897,7 @@ msgid ""
 "then shuffle their library."
 msgstr ""
 "|tap|, poświęć ten ląd: Zniszcz wskazany ląd. Jego władca może wyszukać w "
-"swojej bibliotece kartę bazowego lądu, umieścić ją na polu bitwy, następnie "
+"swojej bibliotece kartę bazowego lądu, umieścić ją na polu bitwy, po czym "
 "tasuje swoją bibliotekę."
 
 #: ../../DIS.rst:1016

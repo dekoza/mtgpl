@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-02-26 14:06+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rna/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../RNA.rst:5
 msgid ":mtgexp:`RNA` Ravnica Allegiance"
@@ -224,9 +224,8 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under its owner's control. It gains first strike until end of turn."
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole bitwy pod władaniem właściciela. Zyskuje on pierwszy cios do końca "
-"tury."
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
+"pole bitwy pod władaniem właściciela. Zyskuje on pierwszy cios do końca tury."
 
 #: ../../RNA.rst:74
 msgid ""
@@ -529,7 +528,7 @@ msgid ""
 "card, then discard a card."
 msgstr ""
 "Ilekroć jeden lub więcej znaczników +1/+1 zostanie umieszczonych na tym "
-"stworze, dobierz kartę, następnie odrzuć kartę."
+"stworze, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../RNA.rst:182
 msgid ""
@@ -744,7 +743,7 @@ msgid ""
 "then draw three cards."
 msgstr ""
 "Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, zamiast tego wróż "
-"3, następnie dobierz trzy karty."
+"3, po czym dobierz trzy karty."
 
 #: ../../RNA.rst:256
 msgid ""
@@ -755,7 +754,7 @@ msgstr ""
 
 #: ../../RNA.rst:255
 msgid "Draw four cards, then discard two cards."
-msgstr "Dobierz cztery karty, następnie odrzuć dwie karty."
+msgstr "Dobierz cztery karty, po czym odrzuć dwie karty."
 
 #: ../../RNA.rst:262
 msgid ""
@@ -964,8 +963,8 @@ msgid ""
 "Each player discards all the cards in their hand, then creates that many 2/2 "
 "black Zombie creature tokens."
 msgstr ""
-"Każdy gracz odrzuca wszystkie karty ze swojej ręki, następnie tworzy tyle "
-"samo żetonów czarnego stwora Zombi 2/2."
+"Każdy gracz odrzuca wszystkie karty ze swojej ręki, po czym tworzy tyle samo "
+"żetonów czarnego stwora Zombi 2/2."
 
 #: ../../RNA.rst:346
 msgid ""
@@ -1397,8 +1396,8 @@ msgid ""
 "scry 2."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić innego stwora. Jeśli "
-"tak zrobisz, umieść dwa znaczniki +1/+1 na niniejszym stworze, następnie "
-"wróż 2."
+"tak zrobisz, umieść dwa znaczniki +1/+1 na niniejszym stworze, po czym wróż "
+"2."
 
 #: ../../RNA.rst:488
 msgid ""
@@ -1742,9 +1741,9 @@ msgid ""
 "card. If Rix Maadi Reveler's spectacle cost was paid, instead discard your "
 "hand, then draw three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć kartę, następnie dobierz "
-"kartę. Jeśli został opłacony koszt widowiska tego stwora, zamiast tego "
-"odrzuć rękę, następnie dobierz trzy karty."
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć kartę, po czym dobierz kartę. "
+"Jeśli został opłacony koszt widowiska tego stwora, zamiast tego odrzuć rękę, "
+"po czym dobierz trzy karty."
 
 #: ../../RNA.rst:588
 msgid ""
@@ -1954,7 +1953,7 @@ msgid ""
 "then double the number of +1/+1 counters on each of those creatures."
 msgstr ""
 "Rozmieść trzy znaczniki +1/+1 pomiędzy jednym, dwoma lub trzema wskazanymi "
-"stworami, następnie podwój liczbę znaczników +1/+1 na każdym z owych stworów."
+"stworami, po czym podwój liczbę znaczników +1/+1 na każdym z owych stworów."
 
 #: ../../RNA.rst:660
 msgid ""
@@ -2038,7 +2037,7 @@ msgid ""
 msgstr ""
 "Ilekroć co najmniej jeden znacznik +1/+ zostanie umieszczony na tym stworze, "
 "możesz wyszukać w twojej bibliotece kartę o nazwie Growth-Chamber Guardian, "
-"ujawnij ją, umieść ją w twojej ręce, następnie przetasuj twoją bibliotekę."
+"ujawnij ją, umieść ją w twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../RNA.rst:686
 msgid ""
@@ -2120,7 +2119,7 @@ msgid ""
 "into your hand, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu lub Bramy, ujawnij ją, "
-"umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
+"umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../RNA.rst:708
 msgid ""
@@ -2720,7 +2719,7 @@ msgid ""
 "Each player shuffles their hand and graveyard into their library, then draws "
 "seven cards. Exile Emergency Powers."
 msgstr ""
-"Każdy gracz wtasowuje swoją rękę i cmentarz do swojej biblioteki, następnie "
+"Każdy gracz wtasowuje swoją rękę i cmentarz do swojej biblioteki, po czym "
 "dobiera siedem kart. Wygnaj niniejszy czar."
 
 #: ../../RNA.rst:895
@@ -3173,8 +3172,8 @@ msgid ""
 msgstr ""
 "|tap|, poświęć innego stwora: Wyszukaj w twojej bibliotece kartę stwora o "
 "skrócie many większym o 1 od skróconego kosztu many poświęconego stwora, "
-"umieść ową kartę na polu bitwy, następnie przetasuj twoją bibliotekę. "
-"Aktywuj jako obrzęd."
+"umieść ową kartę na polu bitwy, po czym przetasuj twoją bibliotekę. Aktywuj "
+"jako obrzęd."
 
 #: ../../RNA.rst:1058
 msgid ""
@@ -3328,7 +3327,7 @@ msgstr "|mana_w|, |tap|: Zyskaj 2 życia."
 
 #: ../../RNA.rst:1101
 msgid "|mana_u|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../RNA.rst:1112
 msgid ""
@@ -3736,7 +3735,7 @@ msgid ""
 "you gain 1 life for each creature you control."
 msgstr ""
 "Stwórz dwa żetony bezkolorowego artefaktowego stwora Thopter 1/1 z lataniem, "
-"następnie zyskaj po 1 życiu za każdego stwora pod twoim władaniem."
+"po czym zyskaj po 1 życiu za każdego stwora pod twoim władaniem."
 
 #: ../../RNA.rst:1250
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/plc/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../PLC.rst:5
@@ -762,7 +762,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_u|, |tap|, odrzuć kartę, poświęć ląd: Wyszukaj w twojej "
 "bibliotece co najwyżej dwie karty bazowych lądów, umieść je na polu bitwy, "
-"następnie przetasuj."
+"po czym przetasuj."
 
 #: ../../PLC.rst:252
 msgid ""
@@ -809,7 +809,7 @@ msgstr ""
 
 #: ../../PLC.rst:259
 msgid "|tap|: Draw two cards, then discard three cards."
-msgstr "|tap|: Dobierz dwie karty, następnie odrzuć trzy karty."
+msgstr "|tap|: Dobierz dwie karty, po czym odrzuć trzy karty."
 
 #: ../../PLC.rst:264
 msgid ""
@@ -2267,7 +2267,7 @@ msgid ""
 "then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, następnie przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../PLC.rst:759
 msgid "Return target creature card from your graveyard to your hand."

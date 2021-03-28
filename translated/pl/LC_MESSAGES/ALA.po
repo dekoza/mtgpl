@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../ALA.rst:5
@@ -272,7 +272,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
 "więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../ALA.rst:96
 msgid ""
@@ -1164,7 +1164,7 @@ msgstr ""
 
 #: ../../ALA.rst:397
 msgid "|mana_u|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../ALA.rst:399
 msgid "|mana_r|, |tap|: Target creature can't block this turn."
@@ -2429,9 +2429,9 @@ msgid ""
 "life. You return a creature card from your graveyard to your hand, draw "
 "three cards, then gain 5 life."
 msgstr ""
-"Wskazany przeciwnik poświęca stwora, odrzuca trzy karty, następnie traci 5 "
+"Wskazany przeciwnik poświęca stwora, odrzuca trzy karty, po czym traci 5 "
 "żyć. Przywróć kartę stwora z twojego cmentarza do twojej ręki, dobierz trzy "
-"karty, następnie zyskaj 5 żyć."
+"karty, po czym zyskaj 5 żyć."
 
 #: ../../ALA.rst:862
 msgid ""

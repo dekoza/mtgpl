@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/chk/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../CHK.rst:5
@@ -1258,7 +1258,7 @@ msgstr ""
 
 #: ../../CHK.rst:443
 msgid "Draw two cards, then discard a card."
-msgstr "Dobierz dwie karty, następnie odrzuć kartę."
+msgstr "Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../CHK.rst:445
 msgid ""
@@ -4007,7 +4007,7 @@ msgid ""
 "|mana_1|: Look at the top three cards of your library, then put them back in "
 "any order."
 msgstr ""
-"|mana_1|: Spójrz na trzy wierzchnie karty twojej biblioteki, następnie odłóż "
+"|mana_1|: Spójrz na trzy wierzchnie karty twojej biblioteki, po czym odłóż "
 "je w dowolnej kolejności."
 
 #: ../../CHK.rst:1421
@@ -4015,7 +4015,7 @@ msgid ""
 "|tap|: Draw a card, then put Sensei's Divining Top on top of its owner's "
 "library."
 msgstr ""
-"|tap|: Dobierz kartę, następnie umieść ten artefakt na wierzchu biblioteki "
+"|tap|: Dobierz kartę, po czym umieść ten artefakt na wierzchu biblioteki "
 "właściciela."
 
 #: ../../CHK.rst:1428

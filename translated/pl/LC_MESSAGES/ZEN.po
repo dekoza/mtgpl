@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:07+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../ZEN.rst:5
@@ -961,7 +961,7 @@ msgstr ""
 
 #: ../../ZEN.rst:321
 msgid "|tap|: Target player draws a card, then discards a card."
-msgstr "|tap|: Wskazany gracz dobiera kartę, następnie odrzuca kartę."
+msgstr "|tap|: Wskazany gracz dobiera kartę, po czym odrzuca kartę."
 
 #: ../../ZEN.rst:328
 msgid ""
@@ -3325,7 +3325,7 @@ msgid ""
 "or Plains card, put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Góry lub Równiny, umieść ją na polu bitwy, następnie przetasuj twoją "
+"Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../ZEN.rst:1144
@@ -3481,7 +3481,7 @@ msgid ""
 "or Swamp card, put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Równiny lub Bagna, umieść ją na polu bitwy, następnie przetasuj twoją "
+"Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../ZEN.rst:1202
@@ -3498,8 +3498,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, następnie przetasuj twoją "
-"bibliotekę."
+"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../ZEN.rst:1210
 msgid ""
@@ -3551,8 +3550,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Wyspy lub Góry, umieść ją na polu bitwy, następnie przetasuj twoją "
-"bibliotekę."
+"Wyspy lub Góry, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../ZEN.rst:1230
 msgid ""
@@ -3660,8 +3658,7 @@ msgid ""
 "Swamp or Forest card, put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Bagna lub Lasu, umieść ją na polu bitwy, następnie przetasuj twoją "
-"bibliotekę."
+"Bagna lub Lasu, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../ZEN.rst:1270
 msgid ""

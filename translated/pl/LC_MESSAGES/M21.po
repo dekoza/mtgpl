@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-21 21:05+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../M21.rst:5
 msgid ":mtgexp:`M21` Core Set 2021"
@@ -46,7 +46,7 @@ msgid ""
 "−10: You gain 7 life, draw seven cards, then put up to seven permanent cards "
 "from your hand onto the battlefield."
 msgstr ""
-"–10: Zyskaj 7 żyć, dobierz siedem kart, następnie umieść na polu bitwy co "
+"–10: Zyskaj 7 żyć, dobierz siedem kart, po czym umieść na polu bitwy co "
 "najwyżej siedem kart permanentów z twojej ręki."
 
 #: ../../M21.rst:18
@@ -160,8 +160,8 @@ msgid ""
 "creature you control.\""
 msgstr ""
 "–6: Dostajesz emblemat mający \"Na początku potyczki w twojej turze, stwórz "
-"żeton białego stwora Piechur +1/+1, następnie umieść znacznik +1/+1 na "
-"każdym stworze pod twoim władaniem.\""
+"żeton białego stwora Piechur +1/+1, po czym umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem.\""
 
 #: ../../M21.rst:52
 msgid ""
@@ -889,7 +889,7 @@ msgid ""
 "Draw a card, then draw cards equal to the number of cards named Frantic "
 "Inventory in your graveyard."
 msgstr ""
-"Dobierz kartę, następnie dobierz tyle kart, ile masz kart o nazwie Frantic "
+"Dobierz kartę, po czym dobierz tyle kart, ile masz kart o nazwie Frantic "
 "Inventory w twoim cmentarzu."
 
 #: ../../M21.rst:286
@@ -1066,7 +1066,7 @@ msgstr ""
 
 #: ../../M21.rst:337
 msgid "Draw three cards, then discard a card."
-msgstr "Dobierz trzy karty, następnie odrzuć kartę."
+msgstr "Dobierz trzy karty, po czym odrzuć kartę."
 
 #: ../../M21.rst:346
 msgid ""
@@ -1163,7 +1163,7 @@ msgid ""
 "When Rousing Read enters the battlefield, draw two cards, then discard a "
 "card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, dobierz dwie karty, następnie odrzuć "
+"Kiedy ten urok wejdzie na pole bitwy, dobierz dwie karty, po czym odrzuć "
 "kartę."
 
 #: ../../M21.rst:373
@@ -1323,7 +1323,7 @@ msgstr ""
 
 #: ../../M21.rst:431
 msgid "+1: Draw a card, then discard a card."
-msgstr "+1: Dobierz kartę, następnie odrzuć kartę."
+msgstr "+1: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../M21.rst:433
 msgid ""
@@ -1363,7 +1363,7 @@ msgstr ""
 
 #: ../../M21.rst:443
 msgid "|mana_1|\\ |mana_u|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../M21.rst:450
 msgid ""
@@ -1377,7 +1377,7 @@ msgid ""
 "When Teferi's Tutelage enters the battlefield, draw a card, then discard a "
 "card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, dobierz kartę, następnie odrzuć kartę."
+"Kiedy ten urok wejdzie na pole bitwy, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../M21.rst:449
 msgid ""
@@ -1761,8 +1761,8 @@ msgid ""
 "Search your library for a card, put that card into your hand, then shuffle "
 "your library. You lose 3 life."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę, umieść ją w twojej ręce, "
-"następnie przetasuj twoją bibliotekę. Strać 3 życia."
+"Wyszukaj w twojej bibliotece dowolną kartę, umieść ją w twojej ręce, po czym "
+"przetasuj twoją bibliotekę. Strać 3 życia."
 
 #: ../../M21.rst:580
 msgid ""
@@ -2003,7 +2003,7 @@ msgid ""
 msgstr ""
 "Wybierz nazwę karty inną niż nazwa bazowego lądu. Wyszukaj w cmentarzu, ręce "
 "i bibliotece wskazanego przeciwnika dowolną liczbę kart o tej nazwie i "
-"wygnaj je. Ów gracz tasuje swoją bibliotekę, następnie tworzy żeton czarnego "
+"wygnaj je. Ów gracz tasuje swoją bibliotekę, po czym tworzy żeton czarnego "
 "stwora Zombi 2/2 za każdą kartę wygnaną w ten sposób ze swojej ręki."
 
 #: ../../M21.rst:654
@@ -2310,7 +2310,7 @@ msgid ""
 "+1: Discard your hand, then exile the top three cards of your library. Until "
 "end of turn, you may play cards exiled this way."
 msgstr ""
-"+1: Odrzuć swoją rękę, następnie wygnaj trzy wierzchnie karty twojej "
+"+1: Odrzuć swoją rękę, po czym wygnaj trzy wierzchnie karty twojej "
 "biblioteki. Do końca tury możesz zagrać karty wygnane w ten sposób."
 
 #: ../../M21.rst:751
@@ -2324,7 +2324,7 @@ msgid ""
 "turn. Add six |mana_r|."
 msgstr ""
 "–9: Wyszukaj w twoim cmentarzu i bibliotece dowolną liczbę kart czerwonych "
-"sztuczek i/lub obrzędów, wygnaj je, następnie przetasuj twoją bibliotekę. "
+"sztuczek i/lub obrzędów, wygnaj je, po czym przetasuj twoją bibliotekę. "
 "Możesz rzucić je w tej turze. Weź sześć |mana_r|."
 
 #: ../../M21.rst:762
@@ -2636,8 +2636,8 @@ msgid ""
 "When Kinetic Augur enters the battlefield, discard up to two cards, then "
 "draw that many cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć co najwyżej dwie karty, "
-"następnie dobierz tyle samo kart."
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć co najwyżej dwie karty, po "
+"czym dobierz tyle samo kart."
 
 #: ../../M21.rst:862
 msgid ""
@@ -2841,7 +2841,7 @@ msgid ""
 msgstr ""
 "Wygnaj wskazanego stwora. Władca owego stwora ujawnia karty z wierzchu "
 "swojej biblioteki aż ujawni kartę stwora. Ów gracz umieszcza ową kartę na "
-"polu bitwy, następnie wtasowuje pozostałe do swojej biblioteki."
+"polu bitwy, po czym wtasowuje pozostałe do swojej biblioteki."
 
 #: ../../M21.rst:926
 msgid ""
@@ -3057,7 +3057,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 6 lub większym, ujawnij ją, umieść w twojej "
-"ręce, następnie przetasuj twoją bibliotekę."
+"ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../M21.rst:1000
 msgid ""
@@ -3104,8 +3104,8 @@ msgid ""
 "shuffle your library.\""
 msgstr ""
 "–7: Dostajesz emblemat mający \"Na początku twojego kroku końcowego możesz "
-"wyszukać w twojej bibliotece kartę stwora, umieść ją na polu bitwy, "
-"następnie przetasuj twoją bibliotekę.\""
+"wyszukać w twojej bibliotece kartę stwora, umieść ją na polu bitwy, po czym "
+"przetasuj twoją bibliotekę.\""
 
 #: ../../M21.rst:1010
 msgid ""
@@ -3225,7 +3225,7 @@ msgid ""
 "Put a +1/+1 counter on target creature you control, then double the number "
 "of +1/+1 counters on that creature."
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem, następnie "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem, po czym "
 "podwój liczbę znaczników +1/+1 na owym stworze."
 
 #: ../../M21.rst:1050
@@ -3564,11 +3564,10 @@ msgid ""
 "then put any number of them on the bottom of your library and the rest on "
 "top in any order.)"
 msgstr ""
-"Wróż 3, następnie ujawnij wierzchnią kartę twojej biblioteki. Jeśli jest to "
+"Wróż 3, po czym ujawnij wierzchnią kartę twojej biblioteki. Jeśli jest to "
 "karta stwora lub lądu, dobierz kartę. (By wróżyć 3, spójrz na trzy "
-"wierzchnie karty twojej biblioteki, następnie umieść dowolne z nich na "
-"spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
-"kolejności.)"
+"wierzchnie karty twojej biblioteki, po czym umieść dowolne z nich na spodzie "
+"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../M21.rst:1162
 msgid ""
@@ -3639,7 +3638,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę o nazwie Alpine Watchdog i/lub kartę o nazwie Igneous Cur, ujawnij je, "
-"umieść je w twojej ręce, następnie przetasuj twoją bibliotekę."
+"umieść je w twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../M21.rst:1179
 msgid ""
@@ -3788,7 +3787,7 @@ msgstr ""
 
 #: ../../M21.rst:1223
 msgid "|tap|: Draw a card, then discard a card."
-msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../M21.rst:1225
 msgid ""
@@ -4066,8 +4065,8 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, następnie "
-"przetasuj twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../M21.rst:1315
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -4197,7 +4196,7 @@ msgid ""
 "control four or more lands, untap that land."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę. "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę. "
 "Następnie jeśli władasz przynajmniej czterema lądami, odkręć ów ląd."
 
 #: ../../M21.rst:1372
@@ -4743,7 +4742,7 @@ msgid ""
 "−8: Discard your hand, then draw seven cards. Until end of turn, you may "
 "cast spells from your hand without paying their mana costs."
 msgstr ""
-"–8: Odrzuć twoją rękę, następnie dobierz siedem kart. Do końca tury możesz "
+"–8: Odrzuć twoją rękę, po czym dobierz siedem kart. Do końca tury możesz "
 "rzucać czary z twojej ręki bez płacenia ich kosztów many."
 
 #: ../../M21.rst:1570
