@@ -39,7 +39,7 @@
    When Civic Stalwart enters the battlefield, creatures you control get +1/+1 until end of turn.
 
 
-:mtgtip:`Concordia Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a7fdf7b-022c-4900-9344-9b13d41c1604.jpg?1584829867|https://scryfall.com/card/rna/7/concordia-pegasus?utm_source=api>`
+:mtgtip:`Concordia Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a7fdf7b-022c-4900-9344-9b13d41c1604.jpg?1615300724|https://scryfall.com/card/rna/7/concordia-pegasus?utm_source=api>`
    Flying
 
 
@@ -217,7 +217,7 @@
    When Faerie Duelist enters the battlefield, target creature an opponent controls gets -2/-0 until end of turn.
 
 
-:mtgtip:`Gateway Sneak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edc0229d-05e6-41b7-b7a9-2a8b2b258add.jpg?1584830218|https://scryfall.com/card/rna/40/gateway-sneak?utm_source=api>`
+:mtgtip:`Gateway Sneak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edc0229d-05e6-41b7-b7a9-2a8b2b258add.jpg?1615300739|https://scryfall.com/card/rna/40/gateway-sneak?utm_source=api>`
    Whenever a Gate enters the battlefield under your control, Gateway Sneak can't be blocked this turn.
 
    Whenever Gateway Sneak deals combat damage to a player, draw a card.
@@ -567,7 +567,7 @@
    |mana_3|\ |mana_r|\ |mana_r|: Immolation Shaman gets +3/+3 and gains menace until end of turn.
 
 
-:mtgtip:`Light Up the Stage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/9287b848-2aeb-4c70-ac4a-acafb871b7a4.jpg?1584830944|https://scryfall.com/card/rna/107/light-up-the-stage?utm_source=api>`
+:mtgtip:`Light Up the Stage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/9287b848-2aeb-4c70-ac4a-acafb871b7a4.jpg?1616182194|https://scryfall.com/card/rna/107/light-up-the-stage?utm_source=api>`
    Spectacle |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 
    Exile the top two cards of your library. Until the end of your next turn, you may play those cards.

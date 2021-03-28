@@ -81,7 +81,7 @@
    |tap|: For as long as Preacher remains tapped, gain control of target creature of an opponent's choice they control.
 
 
-:mtgtip:`Squire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/374df061-ebd2-4f1f-9a6e-7940a49197a9.jpg?1594065152|https://scryfall.com/card/drk/17/squire?utm_source=api>`
+:mtgtip:`Squire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/374df061-ebd2-4f1f-9a6e-7940a49197a9.jpg?1616400021|https://scryfall.com/card/drk/17/squire?utm_source=api>`
    
 
 

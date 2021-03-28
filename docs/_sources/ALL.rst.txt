@@ -113,7 +113,7 @@
    You draw a card at the beginning of the next turn's upkeep.
 
 
-:mtgtip:`Awesome Presence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80017e84-87bc-4eb8-a663-5c263d8df812.jpg?1562769212|https://scryfall.com/card/all/23a/awesome-presence?utm_source=api>`
+:mtgtip:`Awesome Presence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80017e84-87bc-4eb8-a663-5c263d8df812.jpg?1616536884|https://scryfall.com/card/all/23a/awesome-presence?utm_source=api>`
    Enchant creature
 
    Enchanted creature can't be blocked unless defending player pays |mana_3| for each creature they control that's blocking it.

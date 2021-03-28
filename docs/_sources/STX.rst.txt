@@ -77,23 +77,23 @@
    |mana_4|\ |mana_g|\ |mana_g|: Double the number of +1/+1 counters on Dragonsguard Elite.
 
 
-:mtgtip:`Kianne, Dean fo Substance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1616724526|https://scryfall.com/card/stx/152/kianne-dean-fo-substance-imbraham-dean-of-theory?utm_source=api>`
+:mtgtip:`Kianne, Dean fo Substance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1616765486|https://scryfall.com/card/stx/152/kianne-dean-fo-substance-imbraham-dean-of-theory?utm_source=api>`
    |tap|: Exile the top card of your library. If it's a land card, put it into your hand. Otherwise, put a study counter on it.
 
 
-:mtgtip:`Imbraham, Dean of Theory<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1616724526|https://scryfall.com/card/stx/152/kianne-dean-fo-substance-imbraham-dean-of-theory?utm_source=api>`
+:mtgtip:`Imbraham, Dean of Theory<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1616765486|https://scryfall.com/card/stx/152/kianne-dean-fo-substance-imbraham-dean-of-theory?utm_source=api>`
    Flying
 
    |mana_x|\ |mana_u|\ |mana_u|, |tap|: Exile the top X cards of your library and put a study counter on each of them. Then you may put a card you own in exile with a study counter on it into your hand.
 
 
-:mtgtip:`Plargg, Dean of Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616724652|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
+:mtgtip:`Plargg, Dean of Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616765511|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
    |tap|, Discard a card: Draw a card.
 
    |mana_4|\ |mana_r|, |tap|: Reveal cards from the top of your library until you reveal a nonlegenday, nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this on the bottom of your library in a random order.
 
 
-:mtgtip:`Augusta, Dean of Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616724652|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
+:mtgtip:`Augusta, Dean of Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616765511|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
    Other tapped creatures you control get +1/+0.
 
    Other untapped creatures you control get +0/+1.
@@ -119,13 +119,13 @@
    −7: Exile up to five target permanents. For each permanent exiled this way, its controller creates a 4/4 blue and red Elemental Creature token.
 
 
-:mtgtip:`Shalie, Dean of Radiance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1616724590|https://scryfall.com/card/stx/158/shalie-dean-of-radiance-embrose-dean-of-shadow?utm_source=api>`
+:mtgtip:`Shalie, Dean of Radiance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1616765482|https://scryfall.com/card/stx/158/shalie-dean-of-radiance-embrose-dean-of-shadow?utm_source=api>`
    Flying, vigilance
 
    |tap|: Put a +1/+1 counter on each creature that entered the battlefield under your control this turn.
 
 
-:mtgtip:`Embrose, Dean of Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1616724590|https://scryfall.com/card/stx/158/shalie-dean-of-radiance-embrose-dean-of-shadow?utm_source=api>`
+:mtgtip:`Embrose, Dean of Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1616765482|https://scryfall.com/card/stx/158/shalie-dean-of-radiance-embrose-dean-of-shadow?utm_source=api>`
    |tap|: Put a +1/+1 counter on another target creature, then Embrose, Dean of Shadow deals 2 damage to that creature.
 
    Whenever a creature you control wit ha +1/+1 counter on it dies, draw a card.
@@ -151,13 +151,13 @@
    Whenever you cast a spell from exile, put a +1/+1 counter on Nassari, Dean of Expression.
 
 
-:mtgtip:`Valentin, Dean of the Vein<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65008352-bc7e-40b2-a832-b46813e5dc4c.jpg?1616724464|https://scryfall.com/card/stx/161/valentin-dean-of-the-vein-lisette-dean-of-the-root?utm_source=api>`
+:mtgtip:`Valentin, Dean of the Vein<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65008352-bc7e-40b2-a832-b46813e5dc4c.jpg?1616765516|https://scryfall.com/card/stx/161/valentin-dean-of-the-vein-lisette-dean-of-the-root?utm_source=api>`
    Menace, lifelink
 
    If a nontoken creature an opponent controls would die, exile it instead. When you do, you may pay |mana_2|. If you do, create a 1/1 black and green Pest creature token with "When this creature dies, you gain 1 life."
 
 
-:mtgtip:`Lisette, Dean of the Root<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/5/65008352-bc7e-40b2-a832-b46813e5dc4c.jpg?1616724464|https://scryfall.com/card/stx/161/valentin-dean-of-the-vein-lisette-dean-of-the-root?utm_source=api>`
+:mtgtip:`Lisette, Dean of the Root<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/5/65008352-bc7e-40b2-a832-b46813e5dc4c.jpg?1616765516|https://scryfall.com/card/stx/161/valentin-dean-of-the-vein-lisette-dean-of-the-root?utm_source=api>`
    Whenever you gain life, you may pay |mana_1|. If you do, put a +1/+1 counter on each creature you control and those creatures gain trample until end of turn.
 
 

@@ -137,7 +137,7 @@
    As long as it's your turn, Pouncing Lynx has first strike.
 
 
-:mtgtip:`Prison Realm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d476e8e5-2377-464b-b2d5-a3cd66ee2e45.jpg?1557576036|https://scryfall.com/card/war/26/prison-realm?utm_source=api>`
+:mtgtip:`Prison Realm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d476e8e5-2377-464b-b2d5-a3cd66ee2e45.jpg?1615326957|https://scryfall.com/card/war/26/prison-realm?utm_source=api>`
    When Prison Realm enters the battlefield, exile target creature or planeswalker an opponent controls until Prison Realm leaves the battlefield.
 
    When Prison Realm enters the battlefield, scry 1.
@@ -605,7 +605,7 @@
    Change the target of target spell or ability with a single target.
 
 
-:mtgtip:`Bond of Passion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae644e9d-9bc4-4ccd-aef4-3d0559948aa6.jpg?1557576622|https://scryfall.com/card/war/116/bond-of-passion?utm_source=api>`
+:mtgtip:`Bond of Passion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae644e9d-9bc4-4ccd-aef4-3d0559948aa6.jpg?1615391675|https://scryfall.com/card/war/116/bond-of-passion?utm_source=api>`
    Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Bond of Passion deals 2 damage to any other target.
 
 
@@ -913,7 +913,7 @@
    • Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`Primordial Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc0e8298-adac-4922-8824-a1fafa089f72.jpg?1557576992|https://scryfall.com/card/war/174/primordial-wurm?utm_source=api>`
+:mtgtip:`Primordial Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc0e8298-adac-4922-8824-a1fafa089f72.jpg?1615415440|https://scryfall.com/card/war/174/primordial-wurm?utm_source=api>`
    
 
 
@@ -941,7 +941,7 @@
    Until end of turn, creatures you control get +2/+2 and gain "Whenever this creature deals combat damage to a player or planeswalker, destroy target artifact or enchantment defending player controls."
 
 
-:mtgtip:`Thundering Ceratok<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9888d9a4-ad72-43f6-8031-1031877171a9.jpg?1557577026|https://scryfall.com/card/war/179/thundering-ceratok?utm_source=api>`
+:mtgtip:`Thundering Ceratok<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9888d9a4-ad72-43f6-8031-1031877171a9.jpg?1615415451|https://scryfall.com/card/war/179/thundering-ceratok?utm_source=api>`
    Trample
 
    When Thundering Ceratok enters the battlefield, other creatures you control gain trample until end of turn.
@@ -1015,7 +1015,7 @@
    Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 
-:mtgtip:`Despark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32b17dfc-b916-4134-ba77-501cff435e7e.jpg?1557577097|https://scryfall.com/card/war/190/despark?utm_source=api>`
+:mtgtip:`Despark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32b17dfc-b916-4134-ba77-501cff435e7e.jpg?1615415475|https://scryfall.com/card/war/190/despark?utm_source=api>`
    Exile target permanent with converted mana cost 4 or greater.
 
 
@@ -1293,7 +1293,7 @@
    −2: Create a 1/1 black Assassin creature token with deathtouch and "Whenever this creature deals damage to a planeswalker, destroy that planeswalker."
 
 
-:mtgtip:`Firemind Vessel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec0ebb6b-d35a-47db-8071-7fef2a46c17b.jpg?1557577405|https://scryfall.com/card/war/237/firemind-vessel?utm_source=api>`
+:mtgtip:`Firemind Vessel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec0ebb6b-d35a-47db-8071-7fef2a46c17b.jpg?1615429199|https://scryfall.com/card/war/237/firemind-vessel?utm_source=api>`
    Firemind Vessel enters the battlefield tapped.
 
    |tap|: Add two mana of different colors.

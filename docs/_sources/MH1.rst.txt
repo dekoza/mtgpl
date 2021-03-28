@@ -247,7 +247,7 @@
    • Gain control of target nonland permanent with converted mana cost 1 or less.
 
 
-:mtgtip:`Bazaar Trademage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d75faf7-fc27-4fc2-9e80-e35232c42542.jpg?1562201307|https://scryfall.com/card/mh1/41/bazaar-trademage?utm_source=api>`
+:mtgtip:`Bazaar Trademage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d75faf7-fc27-4fc2-9e80-e35232c42542.jpg?1615473180|https://scryfall.com/card/mh1/41/bazaar-trademage?utm_source=api>`
    Flying
 
    When Bazaar Trademage enters the battlefield, draw two cards, then discard three cards.
@@ -643,7 +643,7 @@
    Whenever another creature you control dies, put a +1/+1 counter on Silumgar Scavenger. It gains haste until end of turn if it exploited that creature.
 
 
-:mtgtip:`Sling-Gang Lieutenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f82aec21-441b-4fcd-b666-61723bd79531.jpg?1562201738|https://scryfall.com/card/mh1/108/sling-gang-lieutenant?utm_source=api>`
+:mtgtip:`Sling-Gang Lieutenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f82aec21-441b-4fcd-b666-61723bd79531.jpg?1615475075|https://scryfall.com/card/mh1/108/sling-gang-lieutenant?utm_source=api>`
    When Sling-Gang Lieutenant enters the battlefield, create two 1/1 red Goblin creature tokens.
 
    Sacrifice a Goblin: Target player loses 1 life and you gain 1 life.
@@ -1063,7 +1063,7 @@
    Sliver creatures you control have "Whenever this creature deals combat damage to a player, put a +1/+1 counter on it."
 
 
-:mtgtip:`Thornado<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eadffd6b-d707-4fc5-a600-44eb9124b195.jpg?1562202220|https://scryfall.com/card/mh1/184/thornado?utm_source=api>`
+:mtgtip:`Thornado<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eadffd6b-d707-4fc5-a600-44eb9124b195.jpg?1615475425|https://scryfall.com/card/mh1/184/thornado?utm_source=api>`
    Destroy target creature with flying.
 
    Cycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Draw a card.)

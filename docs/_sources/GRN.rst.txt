@@ -109,7 +109,7 @@
    When Loxodon Restorer enters the battlefield, you gain 4 life.
 
 
-:mtgtip:`Luminous Bonds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d471de4-a7b2-4e13-9492-3fa94f5867ac.jpg?1572892612|https://scryfall.com/card/grn/21/luminous-bonds?utm_source=api>`
+:mtgtip:`Luminous Bonds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d471de4-a7b2-4e13-9492-3fa94f5867ac.jpg?1615068632|https://scryfall.com/card/grn/21/luminous-bonds?utm_source=api>`
    Enchant creature
 
    Enchanted creature can't attack or block.
@@ -307,7 +307,7 @@
    Whenever Vedalken Mesmerist attacks, target creature an opponent controls gets -2/-0 until end of turn.
 
 
-:mtgtip:`Wall of Mist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62a37646-8f7c-40fc-851d-e3fdd205b012.jpg?1572892868|https://scryfall.com/card/grn/58/wall-of-mist?utm_source=api>`
+:mtgtip:`Wall of Mist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62a37646-8f7c-40fc-851d-e3fdd205b012.jpg?1615126311|https://scryfall.com/card/grn/58/wall-of-mist?utm_source=api>`
    Defender
 
 
@@ -383,7 +383,7 @@
    Deathtouch
 
 
-:mtgtip:`Kraul Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/490dc165-b10d-4384-8c13-d7969844b2bb.jpg?1572892971|https://scryfall.com/card/grn/73/kraul-swarm?utm_source=api>`
+:mtgtip:`Kraul Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/490dc165-b10d-4384-8c13-d7969844b2bb.jpg?1615127035|https://scryfall.com/card/grn/73/kraul-swarm?utm_source=api>`
    Flying
 
    |mana_2|\ |mana_b|, Discard a creature card: Return Kraul Swarm from your graveyard to your hand.
@@ -411,7 +411,7 @@
    Undergrowth — When Moodmark Painter enters the battlefield, target creature gains menace and gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. (It can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`Necrotic Wound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9ab636af-5b30-4138-8e68-81f567f10417.jpg?1572893011|https://scryfall.com/card/grn/79/necrotic-wound?utm_source=api>`
+:mtgtip:`Necrotic Wound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9ab636af-5b30-4138-8e68-81f567f10417.jpg?1615301493|https://scryfall.com/card/grn/79/necrotic-wound?utm_source=api>`
    Undergrowth — Target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard. If that creature would die this turn, exile it instead.
 
 
@@ -697,7 +697,7 @@
    Undergrowth — When you cast this spell, reveal the top X cards of your library, where X is the number of creature cards in your graveyard. You may put a green permanent card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Hitchclaw Recluse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe349432-8726-49cf-ad07-6f8add8f78c8.jpg?1572893371|https://scryfall.com/card/grn/133/hitchclaw-recluse?utm_source=api>`
+:mtgtip:`Hitchclaw Recluse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe349432-8726-49cf-ad07-6f8add8f78c8.jpg?1615300690|https://scryfall.com/card/grn/133/hitchclaw-recluse?utm_source=api>`
    Reach
 
 
@@ -787,7 +787,7 @@
    Vigorspore Wurm can't be blocked by more than one creature.
 
 
-:mtgtip:`Vivid Revival<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e67fcfd-0e9e-4b88-8c65-2125fac10a3d.jpg?1572893472|https://scryfall.com/card/grn/148/vivid-revival?utm_source=api>`
+:mtgtip:`Vivid Revival<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e67fcfd-0e9e-4b88-8c65-2125fac10a3d.jpg?1615300703|https://scryfall.com/card/grn/148/vivid-revival?utm_source=api>`
    Return up to three target multicolored cards from your graveyard to your hand. Exile Vivid Revival.
 
 
