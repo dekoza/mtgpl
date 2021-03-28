@@ -4,7 +4,7 @@ from typing import Optional
 import typer
 import trio
 
-from toolbox.dumper import queue_downloads
+from toolbox.dumper import queue_downloads, DumperProgress
 from toolbox.mtg_vars import expansions
 
 
@@ -19,7 +19,7 @@ def main(
         typer.echo("Plese specify expansions or use --all")
         raise typer.Exit()
 
-    trio.run(queue_downloads, selected_expansions)
+    trio.run(queue_downloads, selected_expansions, instruments=[DumperProgress()])
 
 
 if __name__ == "__main__":

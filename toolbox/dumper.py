@@ -2,11 +2,16 @@ import os
 import shutil
 import tempfile
 from typing import Iterable
-
+from rich.live import Live
+from rich.table import Table
 import httpx
 import trio
 
 from toolbox.mtg_vars import card_template, symbols_map
+
+
+class DumperProgress(trio.abc.Instrument):
+    pass
 
 
 async def queue_downloads(exp_list: Iterable):
@@ -19,7 +24,6 @@ async def download_expansion(exp: str):
     cache = []
     fd, path = tempfile.mkstemp(text=True)
     with open(fd, "w") as output:
-        # breakpoint()
         async with httpx.AsyncClient(timeout=15) as client:
             result = await client.get(f"https://api.scryfall.com/sets/{exp.lower()}")
             if result.status_code != 200:
@@ -76,7 +80,6 @@ async def download_expansion(exp: str):
                     break
                 result = await client.get(data["next_page"])
                 data = result.json()
-    # os.close(fd)
     shutil.copy(path, f"{exp}.rst")
     os.remove(path)
 
