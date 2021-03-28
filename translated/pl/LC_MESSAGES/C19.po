@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../C19.rst:5
 msgid ":mtgexp:`C19` Commander 2019"
@@ -1498,7 +1498,7 @@ msgid ""
 "Exile target creature, then populate. (Create a token that's a copy of a "
 "creature token you control.)"
 msgstr ""
-"Wygnaj wskazanego stwora, następnie zaludnij. (Stwórz żeton będący kopią "
+"Wygnaj wskazanego stwora, po czym zaludnij. (Stwórz żeton będący kopią "
 "żetonu stwora pod twoim władaniem.)"
 
 #: ../../C19.rst:486
@@ -1874,8 +1874,8 @@ msgid ""
 "Draw two cards, then proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"Dobierz dwie karty, następnie rozpleń. (Wybierz dowolną liczbę permanentów i/"
-"lub graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
+"Dobierz dwie karty, po czym rozpleń. (Wybierz dowolną liczbę permanentów i/"
+"lub graczy, po czym daj im kolejny znacznik każdego z już obecnych tam "
 "rodzajów.)"
 
 #: ../../C19.rst:600
@@ -2209,7 +2209,7 @@ msgid ""
 "for its mana cost if it's a creature card.)"
 msgstr ""
 "Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
-"zakrytego stosu, przetasuj ów stos, następnie objaw owe karty. (Aby objawić "
+"zakrytego stosu, przetasuj ów stos, po czym objaw owe karty. (Aby objawić "
 "kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj ją w dowolnym "
 "momencie za jej koszt many, jeśli jest to karta stwora.)"
 
@@ -2619,7 +2619,7 @@ msgstr ""
 
 #: ../../C19.rst:819
 msgid "Draw two cards, then discard a card at random."
-msgstr "Dobierz dwie karty, następnie odrzuć losową kartę."
+msgstr "Dobierz dwie karty, po czym odrzuć losową kartę."
 
 #: ../../C19.rst:828
 msgid ""
@@ -2664,7 +2664,7 @@ msgstr ""
 
 #: ../../C19.rst:835 ../../C19.rst:1127
 msgid "Draw two cards, then discard two cards."
-msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../C19.rst:842
 msgid ""
@@ -3274,7 +3274,7 @@ msgid ""
 "You draw cards equal to the sacrificed creature's power, then you gain life "
 "equal to its toughness."
 msgstr ""
-"Dobierz tyle kart, ile wynosiła siła poświęconego stwora, następnie zyskaj "
+"Dobierz tyle kart, ile wynosiła siła poświęconego stwora, po czym zyskaj "
 "tyle żyć, ile wynosiła jego wytrzymałość."
 
 #: ../../C19.rst:1026
@@ -3486,7 +3486,7 @@ msgid ""
 msgstr ""
 "Ilekroć zakryty stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
 "wyszukać w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, następnie przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1091
 msgid ""
@@ -3697,7 +3697,7 @@ msgstr ""
 #: ../../C19.rst:1163
 msgid "+1: Tap target permanent, then untap another target permanent."
 msgstr ""
-"+1: Przekręć wskazany permanent, następnie odkręć inny wskazany permanent."
+"+1: Przekręć wskazany permanent, po czym odkręć inny wskazany permanent."
 
 #: ../../C19.rst:1165
 msgid "−2: Ral Zarek deals 3 damage to any target."
@@ -3787,7 +3787,7 @@ msgstr "Zniszcz wskazanego jednokolorowego stwora."
 
 #: ../../C19.rst:1199
 msgid "Draw two cards, then discard a card."
-msgstr "Dobierz dwie karty, następnie odrzuć kartę."
+msgstr "Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../C19.rst:1204
 msgid ""
@@ -3801,7 +3801,7 @@ msgid ""
 "Destroy target artifact or enchantment, then populate. (Create a token "
 "that's a copy of a creature token you control.)"
 msgstr ""
-"Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Stwórz żeton będący "
+"Zniszcz wskazany artefakt lub urok, po czym zaludnij. (Stwórz żeton będący "
 "kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../C19.rst:1210
@@ -3924,8 +3924,8 @@ msgid ""
 "your library."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
-"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, "
-"następnie przetasuj twoją bibliotekę."
+"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1244
 msgid ""
@@ -3959,8 +3959,8 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, następnie "
-"przetasuj twoją bibliotekę."
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../C19.rst:1254
 msgid ""
@@ -4151,8 +4151,8 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, następnie "
-"przetasuj twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../C19.rst:1309
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -4234,7 +4234,7 @@ msgid ""
 "library.)"
 msgstr ""
 "Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie "
+"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj twoją bibliotekę.)"
 
 #: ../../C19.rst:1346
@@ -4468,7 +4468,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1434
 msgid ""
@@ -4541,7 +4541,7 @@ msgstr ""
 
 #: ../../C19.rst:1459
 msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
-msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, następnie odrzuca kartę."
+msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, po czym odrzuca kartę."
 
 #: ../../C19.rst:1466
 msgid ""
@@ -5102,7 +5102,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C19.rst:1700
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-21 21:04+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/emn/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../EMN.rst:5
@@ -686,7 +686,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku końcowego, jeśli jednocześnie masz w posiadaniu i "
 "władaniu tego stwora oraz stwora o nazwie Bruna, the Fading Light, wygnaj "
-"je, następnie połącz je tworząc Brisela, Voice of Nightmares."
+"je, po czym połącz je tworząc Brisela, Voice of Nightmares."
 
 #: ../../EMN.rst:212
 msgid ""
@@ -988,8 +988,8 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"legendarną kartę, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
-"twoją bibliotekę."
+"legendarną kartę, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../EMN.rst:310
 msgid ""
@@ -1145,8 +1145,8 @@ msgid ""
 "Exile up to two target creatures you control, then return those cards to the "
 "battlefield under their owner's control."
 msgstr ""
-"Wygnaj co najwyżej dwa wskazane stwory pod twoim władaniem, następnie "
-"przywróć owe karty na pole bitwy pod władaniem ich właścicieli."
+"Wygnaj co najwyżej dwa wskazane stwory pod twoim władaniem, po czym przywróć "
+"owe karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../EMN.rst:356
 msgid ""
@@ -1514,7 +1514,7 @@ msgid ""
 "Draw a card, then draw cards equal to the number of cards named Take "
 "Inventory in your graveyard."
 msgstr ""
-"Dobierz kartę, następnie dobierz tyle kart, ile jest kart o nazwie Take "
+"Dobierz kartę, po czym dobierz tyle kart, ile jest kart o nazwie Take "
 "Inventory w twoim cmentarzu."
 
 #: ../../EMN.rst:482
@@ -1692,7 +1692,7 @@ msgid ""
 "target creature gets -1/-1 until end of turn for each Zombie that player "
 "controls."
 msgstr ""
-"Wskazany gracz tworzy X żetonów czarnego stwora Zombi 2/2, następnie co "
+"Wskazany gracz tworzy X żetonów czarnego stwora Zombi 2/2, po czym co "
 "najwyżej jeden wskazany stwór dostaje do końca tury -1/-1 za każdego Zombi "
 "pod władaniem owego gracza."
 
@@ -1755,8 +1755,8 @@ msgid ""
 "into Chittering Host."
 msgstr ""
 "Na początku potyczki w twojej turze, jeśli jednocześnie masz w posiadaniu i "
-"władaniu tego stwora oraz stwora o nazwie Midnight Scavengers, wygnaj je, "
-"następnie połącz je tworząc Chittering Host."
+"władaniu tego stwora oraz stwora o nazwie Midnight Scavengers, wygnaj je, po "
+"czym połącz je tworząc Chittering Host."
 
 #: ../../EMN.rst:570
 msgid ""
@@ -1798,7 +1798,7 @@ msgid ""
 "−2: Mill two cards, then you may return a creature card from your graveyard "
 "to your hand."
 msgstr ""
-"–2: Zmiel dwie karty, następnie możesz przywrócić kartę stwora z twojego "
+"–2: Zmiel dwie karty, po czym możesz przywrócić kartę stwora z twojego "
 "cmentarza do twojej ręki."
 
 #: ../../EMN.rst:577
@@ -2247,7 +2247,7 @@ msgid ""
 "When Bedlam Reveler enters the battlefield, discard your hand, then draw "
 "three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, następnie dobierz "
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, po czym dobierz "
 "trzy karty."
 
 #: ../../EMN.rst:728
@@ -2324,8 +2324,8 @@ msgid ""
 "Target player discards all the cards in their hand, then draws that many "
 "cards."
 msgstr ""
-"Wskazany gracz odrzuca wszystkie karty ze swojej ręki, następnie dobiera "
-"tyle samo kart."
+"Wskazany gracz odrzuca wszystkie karty ze swojej ręki, po czym dobiera tyle "
+"samo kart."
 
 #: ../../EMN.rst:755
 msgid "Collective Defiance deals 4 damage to target creature."
@@ -2660,7 +2660,7 @@ msgid ""
 "your graveyard to your hand, then discard a card. Exile Shreds of Sanity."
 msgstr ""
 "Przywróć co najwyżej jedną wskazaną kartę sztuczki i co najwyżej jedną "
-"wskazaną kartę obrzędu z twojego cmentarza do twojej ręki, następnie odrzuć "
+"wskazaną kartę obrzędu z twojego cmentarza do twojej ręki, po czym odrzuć "
 "kartę. Wygnaj niniejszy czar."
 
 #: ../../EMN.rst:874
@@ -2916,7 +2916,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skrócie many X lub mniejszym, "
 "gdzie X jest skrótem many poświęconego stwora plus 2. Umieść ową kartę na "
-"polu bitwy, następnie przetasuj twoją bibliotekę. Wygnaj niniejszy czar."
+"polu bitwy, po czym przetasuj twoją bibliotekę. Wygnaj niniejszy czar."
 
 #: ../../EMN.rst:960
 msgid ""
@@ -3007,8 +3007,8 @@ msgid ""
 "Mill three cards, then you may return a creature or land card from your "
 "graveyard to your hand."
 msgstr ""
-"Zmiel trzy karty, następnie możesz przywrócić kartę stwora lub lądu z "
-"twojego cmentarza do twojej ręki."
+"Zmiel trzy karty, po czym możesz przywrócić kartę stwora lub lądu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../EMN.rst:984
 msgid ""
@@ -3128,7 +3128,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece kartę bazowego "
-"lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
+"lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../EMN.rst:1024
@@ -3838,7 +3838,7 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../EMN.rst:1261
 msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
-msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, następnie odrzuca kartę."
+msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, po czym odrzuca kartę."
 
 #: ../../EMN.rst:1270
 msgid ""
@@ -3858,8 +3858,8 @@ msgid ""
 "them into Hanweir, the Writhing Township."
 msgstr ""
 "|mana_3|\\ |mana_r|\\ |mana_r|, |tap|: jeśli jednocześnie masz w posiadaniu "
-"i władaniu ten ląd oraz stwora o nazwie Hanweir Garrison, wygnaj je, "
-"następnie połącz je tworząc Hanweir, the Writhing Township."
+"i władaniu ten ląd oraz stwora o nazwie Hanweir Garrison, wygnaj je, po czym "
+"połącz je tworząc Hanweir, the Writhing Township."
 
 #: ../../EMN.rst:1275
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-21 21:05+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../DKA.rst:5
 msgid ":mtgexp:`DKA` Dark Ascension"
@@ -37,7 +37,7 @@ msgid ""
 "You gain 2 life for each card in your graveyard, then shuffle your graveyard "
 "into your library."
 msgstr ""
-"Zyskaj po 2 życia za każdą kartę w twoim cmentarzu, następnie wtasuj twój "
+"Zyskaj po 2 życia za każdą kartę w twoim cmentarzu, po czym wtasuj twój "
 "cmentarz do twojej biblioteki."
 
 #: ../../DKA.rst:14
@@ -595,9 +595,8 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, możesz spojrzeć na pięć wierzchnich "
 "kart twojej biblioteki. Jeśli tak zrobisz, możesz umieścić spośród nich na "
-"polu bitwy kartę stwora współdzielącą typ stwora z zauroczonym stworem, "
-"następnie umieść pozostałe z owych kart dowolnie na spodzie twojej "
-"biblioteki."
+"polu bitwy kartę stwora współdzielącą typ stwora z zauroczonym stworem, po "
+"czym umieść pozostałe z owych kart dowolnie na spodzie twojej biblioteki."
 
 #: ../../DKA.rst:176
 msgid ""
@@ -755,7 +754,7 @@ msgid ""
 "Zombie creature you control."
 msgstr ""
 "|mana_2|\\ |mana_u|, |tap|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
-"żeton czarnego stwora Zombi 2/2, następnie umieść znacznik +1/+1 na każdym "
+"żeton czarnego stwora Zombi 2/2, po czym umieść znacznik +1/+1 na każdym "
 "Zombi pod twoim władaniem."
 
 #: ../../DKA.rst:222
@@ -1030,7 +1029,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, możesz wyszukać w twojej bibliotece "
 "kartę Klątwy mającej inną nazwę niż Klątwa dołączona do zauroczonego gracza, "
-"umieść ją na polu bitwy dołączoną do owego gracza, następnie przetasuj twoją "
+"umieść ją na polu bitwy dołączoną do owego gracza, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../DKA.rst:328
@@ -1206,7 +1205,7 @@ msgid ""
 "hand, you choose two cards from it, then that player discards those cards."
 msgstr ""
 "Okropność — Jeśli w tej turze umarł stwór, zamiast tego ów gracz ujawnia "
-"swoją rękę, a ty wybierasz z niej dwie karty, następnie ów gracz odrzuca owe "
+"swoją rękę, a ty wybierasz z niej dwie karty, po czym ów gracz odrzuca owe "
 "karty."
 
 #: ../../DKA.rst:384
@@ -1457,7 +1456,7 @@ msgid ""
 "tapped, then destroy all Humans."
 msgstr ""
 "Przywróć wszystkie karty Zombi z twojego cmentarza przekręcone na pole "
-"bitwy, następnie zniszcz wszystkie stwory typu Człowiek."
+"bitwy, po czym zniszcz wszystkie stwory typu Człowiek."
 
 #: ../../DKA.rst:462
 msgid ""
@@ -1519,7 +1518,7 @@ msgid ""
 "damage equal to its power to that creature."
 msgstr ""
 "Wskazany stwór pod władaniem przeciwnika zadaje obrażenia równe swojej sile "
-"każdemu innemu stworowi pod władaniem owego gracza, następnie każdy z owych "
+"każdemu innemu stworowi pod władaniem owego gracza, po czym każdy z owych "
 "stworów zadaje mu obrażenia równe swojej sile."
 
 #: ../../DKA.rst:476
@@ -1609,7 +1608,7 @@ msgstr ""
 # 1e8fe64f8a374b71b220428269d432aa
 #: ../../DKA.rst:497
 msgid "Draw two cards, then discard two cards."
-msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../DKA.rst:506
 msgid ""
@@ -1914,7 +1913,7 @@ msgstr ""
 # ee13bb729dce4e2799f8ad08ca837a52
 #: ../../DKA.rst:597
 msgid "Discard all the cards in your hand, then draw that many cards."
-msgstr "Odrzuć wszystkie karty z twojej ręki, następnie dobierz tyle samo kart."
+msgstr "Odrzuć wszystkie karty z twojej ręki, po czym dobierz tyle samo kart."
 
 #: ../../DKA.rst:599
 msgid ""
@@ -2035,7 +2034,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_g|, poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego "
-"lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
+"lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../DKA.rst:644
@@ -2801,7 +2800,7 @@ msgid ""
 "Binding Blade, then transform it."
 msgstr ""
 "Kiedy wyposażony stwór zada graczowi obrażenia bojowe, odłącz ten artefakt, "
-"następnie transformuj go."
+"po czym transformuj go."
 
 # e095d069e9f84336876800eee8634a08
 #: ../../DKA.rst:875
@@ -3005,7 +3004,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../DKA.rst:940
 msgid ""

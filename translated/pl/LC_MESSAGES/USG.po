@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../USG.rst:5
@@ -893,7 +893,7 @@ msgstr ""
 
 #: ../../USG.rst:313
 msgid "Draw two cards, then discard a card."
-msgstr "Dobierz dwie karty, następnie odrzuć kartę."
+msgstr "Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../USG.rst:320
 msgid ""
@@ -1411,7 +1411,7 @@ msgstr ""
 
 #: ../../USG.rst:525
 msgid "Discard all the cards in your hand, then draw that many cards."
-msgstr "Odrzuć wszystkie karty z twojej ręki, następnie dobierz tyle samo kart."
+msgstr "Odrzuć wszystkie karty z twojej ręki, po czym dobierz tyle samo kart."
 
 #: ../../USG.rst:530
 msgid ""
@@ -1508,7 +1508,7 @@ msgid ""
 "Each player discards their hand, then draws cards equal to the greatest "
 "number of cards a player discarded this way."
 msgstr ""
-"Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile najwięcej "
+"Każdy gracz odrzuca swoją rękę, po czym dobiera tyle kart, ile najwięcej "
 "zostało odrzuconych w ten sposób."
 
 #: ../../USG.rst:560
@@ -2557,7 +2557,7 @@ msgid ""
 "at random, then shuffle your library."
 msgstr ""
 "Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, odrzuć losową "
-"kartę, następnie przetasuj twoją bibliotekę."
+"kartę, po czym przetasuj twoją bibliotekę."
 
 #: ../../USG.rst:940
 msgid ""
@@ -2599,7 +2599,7 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Goblina, ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją "
+"kartę Goblina, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../USG.rst:952
@@ -3460,7 +3460,7 @@ msgid ""
 "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, "
 "then discard three cards."
 msgstr ""
-"Poświęć stwora: Dobierz tyle kart, ile siły miał poświęcony stwór, następnie "
+"Poświęć stwora: Dobierz tyle kart, ile siły miał poświęcony stwór, po czym "
 "odrzuć trzy karty."
 
 #: ../../USG.rst:1274

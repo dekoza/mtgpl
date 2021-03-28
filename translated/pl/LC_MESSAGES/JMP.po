@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-12 08:59+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../JMP.rst:5
 msgid ":mtgexp:`JMP` Jumpstart"
@@ -72,7 +72,7 @@ msgid ""
 "|mana_3|: Exile another target creature you control, then return it to the "
 "battlefield under its owner's control."
 msgstr ""
-"|mana_3|: Wygnaj innego stwora pod twoim władaniem, następnie przywróć go na "
+"|mana_3|: Wygnaj innego stwora pod twoim władaniem, po czym przywróć go na "
 "pole bitwy pod władaniem właściciela."
 
 #: ../../JMP.rst:21
@@ -573,7 +573,7 @@ msgid ""
 "those players each draw a card, then discard a card at random."
 msgstr ""
 "Ilekroć co najmniej jeden Diabeł pod twoim władaniem atakuje co najmniej "
-"jednego gracza, ty i owi gracze dobieracie po jednej karcie, następnie "
+"jednego gracza, ty i owi gracze dobieracie po jednej karcie, po czym "
 "odrzucacie po jednej losowej karcie."
 
 #: ../../JMP.rst:168
@@ -851,7 +851,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../JMP.rst:256
 msgid ""
@@ -1141,8 +1141,8 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under your control."
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole bitwy pod twoim władaniem."
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
+"pole bitwy pod twoim władaniem."
 
 #: ../../JMP.rst:356
 msgid ""
@@ -1591,7 +1591,7 @@ msgid ""
 "library."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
 "przetasować swoją bibliotekę."
 
 #: ../../JMP.rst:518
@@ -1807,8 +1807,8 @@ msgid ""
 "library and the rest on top in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
-"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../JMP.rst:600
 msgid ""
@@ -1923,7 +1923,7 @@ msgstr ""
 
 #: ../../JMP.rst:637
 msgid "|mana_1|\\ |mana_u|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../JMP.rst:642
 msgid ""
@@ -1937,9 +1937,9 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under its owner's control. If it's a Spirit, put a +1/+1 counter on it."
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
-"na pole bitwy pod władaniem właściciela. Jeśli to Duch, umieść na nim "
-"znacznik +1/+1."
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
+"pole bitwy pod władaniem właściciela. Jeśli to Duch, umieść na nim znacznik +"
+"1/+1."
 
 #: ../../JMP.rst:648
 msgid ""
@@ -2073,8 +2073,8 @@ msgid ""
 "and the rest on top in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
-"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../JMP.rst:700
 msgid ""
@@ -2178,7 +2178,7 @@ msgstr ""
 
 #: ../../JMP.rst:731
 msgid "|tap|: Target player draws a card, then discards a card."
-msgstr "|tap|: Wskazany gracz dobiera kartę, następnie odrzuca kartę."
+msgstr "|tap|: Wskazany gracz dobiera kartę, po czym odrzuca kartę."
 
 #: ../../JMP.rst:736
 msgid ""
@@ -2766,7 +2766,7 @@ msgid ""
 "library."
 msgstr ""
 "|mana_2|, |tap|: Wyszukaj w twojej bibliotece kartę Festering Newt lub "
-"Bubbling Cauldron, umieść ją przekręconą na polu bitwy, następnie przetasuj "
+"Bubbling Cauldron, umieść ją przekręconą na polu bitwy, po czym przetasuj "
 "twoją bibliotekę."
 
 #: ../../JMP.rst:950
@@ -3128,7 +3128,7 @@ msgstr ""
 
 #: ../../JMP.rst:1067
 msgid "You draw two cards, lose 2 life, then mill two cards."
-msgstr "Dobierz dwie karty, strać 2 życia, następnie zmiel dwie karty."
+msgstr "Dobierz dwie karty, strać 2 życia, po czym zmiel dwie karty."
 
 #: ../../JMP.rst:1072
 msgid ""
@@ -3204,7 +3204,7 @@ msgid ""
 "as though it were mana of any type to cast that spell."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
-"biblioteki wskazanego przeciwnika, wygnaj jedną z nich zakrytą, następnie "
+"biblioteki wskazanego przeciwnika, wygnaj jedną z nich zakrytą, po czym "
 "umieść pozostałe losowo na spodzie owej biblioteki. Przez czas jej wygnania "
 "możesz patrzeć na ową kartę oraz rzucić ją wydając manę tak, jakby była maną "
 "dowolnego typu."
@@ -3363,7 +3363,7 @@ msgid ""
 "then discard a card."
 msgstr ""
 "Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
-"twojej ręki, następnie odrzuć kartę."
+"twojej ręki, po czym odrzuć kartę."
 
 #: ../../JMP.rst:1152
 msgid ""
@@ -4275,8 +4275,8 @@ msgid ""
 "without paying their mana costs."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę biblioteki każdego z "
-"graczy, następnie możesz rzucić dowolną liczbę czarów spośród kart wygnanych "
-"w ten sposób bez płacenia ich kosztów many."
+"graczy, po czym możesz rzucić dowolną liczbę czarów spośród kart wygnanych w "
+"ten sposób bez płacenia ich kosztów many."
 
 #: ../../JMP.rst:1458
 msgid ""
@@ -4476,7 +4476,7 @@ msgstr ""
 
 #: ../../JMP.rst:1517
 msgid "Draw four cards, then discard three cards at random."
-msgstr "Dobierz cztery karty, następnie odrzuć trzy losowe karty."
+msgstr "Dobierz cztery karty, po czym odrzuć trzy losowe karty."
 
 #: ../../JMP.rst:1522
 msgid ""
@@ -4932,11 +4932,11 @@ msgid ""
 "library, then put any number of them on the bottom of your library and the "
 "rest on top in any order.)"
 msgstr ""
-"Wskaż dowolny cel. Wróż 3, następnie ujawnij wierzchnią kartę twojej "
+"Wskaż dowolny cel. Wróż 3, po czym ujawnij wierzchnią kartę twojej "
 "biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile wynosi skrót many "
 "ujawnionej karty. (By wróżyć 3, spójrz na trzy wierzchnie karty twojej "
-"biblioteki, następnie umieść dowolną ich liczbę na spodzie twojej "
-"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej biblioteki, "
+"a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../JMP.rst:1672
 msgid ""
@@ -5389,7 +5389,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_g|, poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego "
-"lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
+"lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../JMP.rst:1816
@@ -5550,7 +5550,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"bitwy, następnie tasuje swoją bibliotekę."
+"bitwy, po czym tasuje swoją bibliotekę."
 
 #: ../../JMP.rst:1874
 msgid ""
@@ -5702,8 +5702,8 @@ msgid ""
 "Put a +1/+1 counter on target creature, then put a +1/+1 counter on each "
 "creature you control with a +1/+1 counter on it."
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworze, następnie umieść znacznik +1/+1 "
-"na każdym stworze mającym znacznik +1/+1 pod twoim władaniem."
+"Umieść znacznik +1/+1 na wskazanym stworze, po czym umieść znacznik +1/+1 na "
+"każdym stworze mającym znacznik +1/+1 pod twoim władaniem."
 
 #: ../../JMP.rst:1920
 msgid ""
@@ -5734,7 +5734,7 @@ msgid ""
 "You draw cards equal to the sacrificed creature's power, then you gain life "
 "equal to its toughness."
 msgstr ""
-"Dobierz tyle kart, ile wynosiła siła poświęconego stwora, następnie zyskaj "
+"Dobierz tyle kart, ile wynosiła siła poświęconego stwora, po czym zyskaj "
 "tyle żyć, ile wynosiła jego wytrzymałość."
 
 #: ../../JMP.rst:1930
@@ -6108,7 +6108,7 @@ msgid ""
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, następnie przetasuj "
+"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, po czym przetasuj "
 "twoją bibliotekę."
 
 #: ../../JMP.rst:2056
@@ -6185,7 +6185,7 @@ msgid ""
 "a land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
+"kartę lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../JMP.rst:2082
@@ -6338,7 +6338,7 @@ msgid ""
 "owner's hand, then that player discards a card."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
-"właściciela, następnie ów gracz odrzuca kartę."
+"właściciela, po czym ów gracz odrzuca kartę."
 
 #: ../../JMP.rst:2134
 msgid ""
@@ -6891,7 +6891,7 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
 "twoją bibliotekę."
 
 #: ../../JMP.rst:2338

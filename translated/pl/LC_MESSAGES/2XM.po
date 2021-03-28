@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-26 17:32+0000\n"
+"PO-Revision-Date: 2021-03-28 12:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../2XM.rst:5
 msgid ":mtgexp:`2XM` Double Masters"
@@ -77,7 +77,7 @@ msgid ""
 "creature token, then attach Ancestral Blade to it."
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton białego stwora "
-"Piechur 1/1, następnie dołącz ten artefakt do niego."
+"Piechur 1/1, po czym dołącz ten artefakt do niego."
 
 #: ../../2XM.rst:23 ../../2XM.rst:1377
 msgid "Equipped creature gets +1/+1."
@@ -382,7 +382,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli przeciwnik ma pod władaniem "
 "więcej lądów niż ty, możesz wyszukać w swojej bibliotece co najwyżej trzy "
-"karty bazowych lądów, umieścić je w twojej ręce, następnie przetasuj twoją "
+"karty bazowych lądów, umieścić je w twojej ręce, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../2XM.rst:124
@@ -465,7 +465,7 @@ msgid ""
 "library."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
 "przetasować swoją bibliotekę."
 
 #: ../../2XM.rst:148
@@ -569,7 +569,7 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Wyposażenia, ujawnić ją, umieścić w twojej ręce, następnie przetasuj "
+"kartę Wyposażenia, ujawnić ją, umieścić w twojej ręce, po czym przetasuj "
 "twoją bibliotekę."
 
 #: ../../2XM.rst:177
@@ -726,7 +726,7 @@ msgid ""
 msgstr ""
 "|tap|: Władca wskazanego artefaktu poświęca go. Ów gracz może wyszukać w "
 "swojej bibliotece kartę nie-stworowego artefaktu, umieścić ją na polu bitwy, "
-"następnie tasuje swoją bibliotekę."
+"po czym tasuje swoją bibliotekę."
 
 #: ../../2XM.rst:230
 msgid ""
@@ -766,7 +766,7 @@ msgid ""
 "Draw three cards, then put two cards from your hand on top of your library "
 "in any order."
 msgstr ""
-"Dobierz trzy karty, następnie umieść dwie karty z twojej ręki dowolnie na "
+"Dobierz trzy karty, po czym umieść dwie karty z twojej ręki dowolnie na "
 "wierzchu twojej biblioteki."
 
 #: ../../2XM.rst:244
@@ -783,8 +783,8 @@ msgid ""
 "library and the rest on top in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
-"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../2XM.rst:248
 msgid ""
@@ -996,7 +996,7 @@ msgid ""
 "0: Draw three cards, then put two cards from your hand on top of your "
 "library in any order."
 msgstr ""
-"0: Dobierz trzy karty, następnie umieść dwie karty z twojej ręki dowolnie na "
+"0: Dobierz trzy karty, po czym umieść dwie karty z twojej ręki dowolnie na "
 "wierzchu twojej biblioteki."
 
 #: ../../2XM.rst:309
@@ -1008,8 +1008,8 @@ msgid ""
 "−12: Exile all cards from target player's library, then that player shuffles "
 "their hand into their library."
 msgstr ""
-"–12: Wygnaj wszystkie karty z biblioteki wskazanego gracza, następnie ów "
-"gracz wtasowuje swoją rękę do swojej biblioteki."
+"–12: Wygnaj wszystkie karty z biblioteki wskazanego gracza, po czym ów gracz "
+"wtasowuje swoją rękę do swojej biblioteki."
 
 #: ../../2XM.rst:318
 msgid ""
@@ -1224,7 +1224,7 @@ msgstr ""
 
 #: ../../2XM.rst:375
 msgid "Draw three cards, then discard a card."
-msgstr "Dobierz trzy karty, następnie odrzuć kartę."
+msgstr "Dobierz trzy karty, po czym odrzuć kartę."
 
 #: ../../2XM.rst:384
 msgid ""
@@ -1280,8 +1280,8 @@ msgid ""
 "into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"karę o skrócie many 3 lub większym, ujawnij ją, umieść ją w twojej ręce, "
-"następnie przetasuj twoją bibliotekę."
+"karę o skrócie many 3 lub większym, ujawnij ją, umieść ją w twojej ręce, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:400
 msgid ""
@@ -1923,8 +1923,8 @@ msgid ""
 "a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
 "Bagnocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, następnie "
-"przetasuj twoją bibliotekę.)"
+"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
+"twoją bibliotekę.)"
 
 #: ../../2XM.rst:590
 msgid ""
@@ -2246,7 +2246,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
-"stwora o sile 2 lub mniejszej, ujawnij ją, umieść w twojej ręce, następnie "
+"stwora o sile 2 lub mniejszej, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:692
@@ -2769,7 +2769,7 @@ msgid ""
 "Search your library for a land card, put that card onto the battlefield, "
 "then shuffle your library."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę lądu, umieść ją na polu bitwy, następnie "
+"Wyszukaj w twojej bibliotece kartę lądu, umieść ją na polu bitwy, po czym "
 "przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:844
@@ -2839,7 +2839,7 @@ msgid ""
 "a Forest card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
 "Lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
 "twoją bibliotekę.)"
 
 #: ../../2XM.rst:866
@@ -2885,7 +2885,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 6 lub większym, ujawnij ją, umieść w twojej "
-"ręce, następnie przetasuj twoją bibliotekę."
+"ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../2XM.rst:878
 msgid ""
@@ -2910,7 +2910,7 @@ msgid ""
 "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, "
 "then discard three cards."
 msgstr ""
-"Poświęć stwora: Dobierz tyle kart, ile siły miał poświęcony stwór, następnie "
+"Poświęć stwora: Dobierz tyle kart, ile siły miał poświęcony stwór, po czym "
 "odrzuć trzy karty."
 
 #: ../../2XM.rst:886
@@ -3274,7 +3274,7 @@ msgid ""
 "already there.)"
 msgstr ""
 "Na początku twojego kroku końcowego, rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, następnie daj każdemu kolejny znacznik każdego "
+"permanentów i/lub graczy, po czym daj każdemu kolejny znacznik każdego "
 "posiadanego przezeń rodzaju.)"
 
 #: ../../2XM.rst:996
@@ -3501,7 +3501,7 @@ msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../2XM.rst:1065
 msgid "Draw two cards, then discard two cards."
-msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../2XM.rst:1070
 msgid ""
@@ -3550,7 +3550,7 @@ msgid ""
 "Dragons, then untap all Dragons."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie nad wszystkimi "
-"Smokami, następnie odkręć wszystkie Smoki."
+"Smokami, po czym odkręć wszystkie Smoki."
 
 #: ../../2XM.rst:1083
 msgid "Other Dragon creatures you control have haste."
@@ -4172,7 +4172,7 @@ msgid ""
 "of your library in any order."
 msgstr ""
 "Odlew — Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie "
-"karty twojej biblioteki, wygnaj jedną zakrytą, następnie umieść pozostałe "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
 "dowolnie na spodzie twojej biblioteki."
 
 #: ../../2XM.rst:1295
@@ -4211,7 +4211,7 @@ msgid ""
 "control, then return that card to the battlefield under your control."
 msgstr ""
 "Na początku twojego kroku końcowego, możesz wygnać wskazanego stwora pod "
-"twoim władaniem, następnie przywróć ową kartę na pole bitwy pod twoim "
+"twoim władaniem, po czym przywróć ową kartę na pole bitwy pod twoim "
 "władaniem."
 
 #: ../../2XM.rst:1310
@@ -4344,8 +4344,8 @@ msgid ""
 "the bottom of your library.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może wróżyć 1. (By wróżyć "
-"1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz umieścić "
-"ową kartę na spodzie twojej biblioteki.)"
+"1, spójrz na wierzchnią kartę twojej biblioteki, po czym możesz umieścić ową "
+"kartę na spodzie twojej biblioteki.)"
 
 #: ../../2XM.rst:1350
 msgid ""
@@ -4870,7 +4870,7 @@ msgid ""
 "permanents."
 msgstr ""
 "|mana_5|, |tap|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent bez "
-"znacznika losu, następnie usuń wszystkie znaczniki losu ze wszystkich "
+"znacznika losu, po czym usuń wszystkie znaczniki losu ze wszystkich "
 "permanentów."
 
 #: ../../2XM.rst:1512
@@ -5063,7 +5063,7 @@ msgid ""
 "choose a land of each basic land type, then destroy those lands."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy lub je opuści, wybierz po lądzie "
-"każdego bazowego typu, następnie zniszcz owe lądy."
+"każdego bazowego typu, po czym zniszcz owe lądy."
 
 #: ../../2XM.rst:1590
 msgid ""
@@ -5212,7 +5212,7 @@ msgid ""
 "it to that creature."
 msgstr ""
 "Ilekroć na pole walki pod twoim władaniem wejdzie stwór 1/1, możesz "
-"przywrócić tę kartę z twojego cmentarza na pole bitwy, następnie dołączyć ją "
+"przywrócić tę kartę z twojego cmentarza na pole bitwy, po czym dołączyć ją "
 "do owego stwora."
 
 #: ../../2XM.rst:1644
@@ -5250,8 +5250,7 @@ msgid ""
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
 "|tap|, poświęć artefakt: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
-"graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
-"rodzajów.)"
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../2XM.rst:1652
 msgid ""
@@ -5420,7 +5419,7 @@ msgid ""
 "library.)"
 msgstr ""
 "Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie "
+"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj twoją bibliotekę.)"
 
 #: ../../2XM.rst:1706

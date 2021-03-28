@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-26 15:25+0100\n"
-"PO-Revision-Date: 2021-03-26 17:46+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../STX.rst:5
 msgid ":mtgexp:`STX` Strixhaven: School of Mages"
@@ -59,7 +59,7 @@ msgstr ""
 
 #: ../../STX.rst:17
 msgid "Scry 2, then draw a card."
-msgstr "Wróż 2, następnie dobierz kartę."
+msgstr "Wróż 2, po czym dobierz kartę."
 
 #: ../../STX.rst:22
 msgid ""
@@ -551,7 +551,7 @@ msgid ""
 "card without paying its mana cost."
 msgstr ""
 "–8: Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu mającą wspólny "
-"kolor z tym wędrowcem, wygnaj ową kartę, następnie przetasuj. Możesz rzucić "
+"kolor z tym wędrowcem, wygnaj ową kartę, po czym przetasuj. Możesz rzucić "
 "ową kartę bez płacenia jej kosztu many."
 
 #: ../../STX.rst:176
@@ -604,7 +604,7 @@ msgstr ""
 
 #: ../../STX.rst:187
 msgid "Sacrifice a permanent, then draw two cards."
-msgstr "Poświęć permanent, następnie dobierz dwie karty."
+msgstr "Poświęć permanent, po czym dobierz dwie karty."
 
 #: ../../STX.rst:192
 msgid ""
@@ -649,7 +649,7 @@ msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../STX.rst:203
 msgid "Target player draws two cards, then discards two cards."
-msgstr "Wskazany gracz dobiera dwie karty, następnie odrzuca dwie karty."
+msgstr "Wskazany gracz dobiera dwie karty, po czym odrzuca dwie karty."
 
 #: ../../STX.rst:205
 msgid "Target player creates a Treasure token."
@@ -797,7 +797,7 @@ msgid ""
 "Target player mills three cards, then you return a land card from your "
 "graveyard to your hand."
 msgstr ""
-"Wskazany gracz mieli trzy karty, następnie przywróć kartę lądu z twojego "
+"Wskazany gracz mieli trzy karty, po czym przywróć kartę lądu z twojego "
 "cmentarza do twojej ręki."
 
 #: ../../STX.rst:263

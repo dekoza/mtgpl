@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 01:02+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../RTR.rst:5
@@ -181,7 +181,7 @@ msgid ""
 "Create a 1/1 white Bird creature token with flying, then populate. (Create a "
 "token that's a copy of a creature token you control.)"
 msgstr ""
-"Stwórz żeton białego stwora Ptak 1/1 z lataniem, następnie zaludnij. (Stwórz "
+"Stwórz żeton białego stwora Ptak 1/1 z lataniem, po czym zaludnij. (Stwórz "
 "żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:58
@@ -464,7 +464,7 @@ msgid ""
 "Exile target creature, then populate. (Create a token that's a copy of a "
 "creature token you control.)"
 msgstr ""
-"Wygnaj wskazanego stwora, następnie zaludnij. (Stwórz żeton będący kopią "
+"Wygnaj wskazanego stwora, po czym zaludnij. (Stwórz żeton będący kopią "
 "żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:144
@@ -739,7 +739,7 @@ msgid ""
 "without paying their mana costs."
 msgstr ""
 "–8: Dla każdego gracza, wyszukaj w bibliotece owego gracza nie-lądową kartę "
-"i wygnaj ją, następnie ów gracz tasuje swoją bibliotekę. Możesz rzucić owe "
+"i wygnaj ją, po czym ów gracz tasuje swoją bibliotekę. Możesz rzucić owe "
 "karty bez płacenia ich kosztów many."
 
 #: ../../RTR.rst:230
@@ -1022,8 +1022,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Zniszcz wskazany ląd. Jego władca ujawnia karty z wierzchu swojej biblioteki "
-"dopóki nie ujawni karty lądu, następnie umieszcza owe karty w swoim "
-"cmentarzu."
+"dopóki nie ujawni karty lądu, po czym umieszcza owe karty w swoim cmentarzu."
 
 #: ../../RTR.rst:334
 msgid ""
@@ -1498,9 +1497,9 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania wskazany przeciwnik ujawnia trzy "
 "wierzchnie karty swojej biblioteki, może umieścić spośród nich kartę stwora "
-"na polu bitwy, następnie umieszcza pozostałe karty w swoim cmentarzu. Zrób "
-"to samo z trzema wierzchnimi kartami twojej biblioteki. Jeśli w ten sposób "
-"na polu bitwy umieszczone zostaną dwa stwory, owe stwory walczą ze sobą."
+"na polu bitwy, po czym umieszcza pozostałe karty w swoim cmentarzu. Zrób to "
+"samo z trzema wierzchnimi kartami twojej biblioteki. Jeśli w ten sposób na "
+"polu bitwy umieszczone zostaną dwa stwory, owe stwory walczą ze sobą."
 
 #: ../../RTR.rst:500
 msgid ""
@@ -1887,7 +1886,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu lub Bramy, ujawnij ją i umieść w twojej ręce, następnie "
+"kartę bazowego lądu lub Bramy, ujawnij ją i umieść w twojej ręce, po czym "
 "przetasuj twoją bibliotekę."
 
 #: ../../RTR.rst:630
@@ -1946,8 +1945,8 @@ msgid ""
 "Create a 4/4 green Rhino creature token with trample, then populate. (Create "
 "a token that's a copy of a creature token you control.)"
 msgstr ""
-"Stwórz żeton zielonego stwora Nosorożec 4/4 z tratowaniem, następnie "
-"zaludnij. (Stwórz żeton będący kopią żetonu stwora pod twoim władaniem.)"
+"Stwórz żeton zielonego stwora Nosorożec 4/4 z tratowaniem, po czym zaludnij. "
+"(Stwórz żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:650
 msgid ""
@@ -2345,7 +2344,7 @@ msgid ""
 "Create a 3/3 green Centaur creature token, then populate. (Create a token "
 "that's a copy of a creature token you control.)"
 msgstr ""
-"Stwórz żeton zielonego stwora Centaur 3/3, następnie zaludnij. (Stwórz żeton "
+"Stwórz żeton zielonego stwora Centaur 3/3, po czym zaludnij. (Stwórz żeton "
 "będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:788
@@ -2624,7 +2623,7 @@ msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../RTR.rst:879
 msgid "Draw two cards, then discard two cards."
-msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../RTR.rst:888
 msgid ""
@@ -2809,7 +2808,7 @@ msgstr ""
 
 #: ../../RTR.rst:941
 msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
-msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../RTR.rst:943
 msgid ""
@@ -3146,7 +3145,7 @@ msgstr ""
 
 #: ../../RTR.rst:1067
 msgid "Draw four cards, then discard two cards."
-msgstr "Dobierz cztery karty, następnie odrzuć dwie karty."
+msgstr "Dobierz cztery karty, po czym odrzuć dwie karty."
 
 #: ../../RTR.rst:1072
 msgid ""
@@ -3473,7 +3472,7 @@ msgid ""
 "Destroy target artifact or enchantment, then populate. (Create a token "
 "that's a copy of a creature token you control.)"
 msgstr ""
-"Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Stwórz żeton będący "
+"Zniszcz wskazany artefakt lub urok, po czym zaludnij. (Stwórz żeton będący "
 "kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../RTR.rst:1176

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 19:22+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SOM.rst:5
@@ -528,8 +528,7 @@ msgid ""
 "or players, then give each another counter of each kind already there.)"
 msgstr ""
 "Ilekroć rzucisz czar, rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
-"graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
-"rodzajów.)"
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../SOM.rst:188
 msgid ""
@@ -661,7 +660,7 @@ msgid ""
 "Proliferate. (Choose any number of permanents and/or players, then give each "
 "another counter of each kind already there.)"
 msgstr ""
-"Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, następnie daj "
+"Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, po czym daj "
 "każdemu z nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../SOM.rst:238
@@ -697,7 +696,7 @@ msgid ""
 "each kind already there.)"
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, rozpleń. (Wybierz dowolną "
-"liczbę permanentów i/lub graczy, następnie daj im kolejny znacznik każdego z "
+"liczbę permanentów i/lub graczy, po czym daj im kolejny znacznik każdego z "
 "już obecnych tam rodzajów.)"
 
 #: ../../SOM.rst:248
@@ -2040,7 +2039,7 @@ msgid ""
 "of your library in any order."
 msgstr ""
 "Odlew — Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie "
-"karty twojej biblioteki, wygnaj jedną zakrytą, następnie umieść pozostałe "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
 "dowolnie na spodzie twojej biblioteki."
 
 #: ../../SOM.rst:729
@@ -2072,7 +2071,7 @@ msgid ""
 "players, then give each another counter of each kind already there.)"
 msgstr ""
 "|mana_4|, |tap|: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, "
-"następnie daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
+"po czym daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
 "rodzajów.)"
 
 #: ../../SOM.rst:742
@@ -3129,8 +3128,7 @@ msgid ""
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
 "|tap|, poświęć artefakt: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
-"graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
-"rodzajów.)"
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../SOM.rst:1112
 msgid ""

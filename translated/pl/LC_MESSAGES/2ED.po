@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 19:22+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2ed/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../2ED.rst:5
@@ -65,7 +65,7 @@ msgid ""
 "rest. Players discard cards and sacrifice creatures the same way."
 msgstr ""
 "Każdy gracz wybiera tyle lądów pod swoim władaniem, iloma lądami włada gracz "
-"władający najmniejszą ich liczbą, następnie poświęca pozostałe. Gracze "
+"władający najmniejszą ich liczbą, po czym poświęca pozostałe. Gracze "
 "odrzucają karty i poświęcają stwory w ten sam sposób."
 
 #: ../../2ED.rst:24
@@ -1466,7 +1466,7 @@ msgid ""
 "Search your library for a card, put that card into your hand, then shuffle "
 "your library."
 msgstr ""
-"Wyszuka kartę w twojej bibliotece, umieść ją w twojej ręce, następnie "
+"Wyszuka kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
 "przetasuj twoją bibliotekę."
 
 #: ../../2ED.rst:530
@@ -2527,7 +2527,7 @@ msgstr ""
 
 #: ../../2ED.rst:921
 msgid "Each player discards their hand, then draws seven cards."
-msgstr "Każdy gracz odrzuca swoją rękę, następnie dobiera siedem kart."
+msgstr "Każdy gracz odrzuca swoją rękę, po czym dobiera siedem kart."
 
 #: ../../2ED.rst:928
 msgid ""

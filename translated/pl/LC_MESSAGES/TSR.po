@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-24 22:34+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../TSR.rst:5
 msgid ":mtgexp:`TSR` Time Spiral Remastered"
@@ -428,12 +428,11 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Wskaż atakującego lub blokującego stwora. Wróż 3, następnie ujawnij "
-"wierzchnią kartę twojej biblioteki. Ten czar zadaje owemu celowi tyle "
-"obrażeń, ile wynosi skrót many ujawnionej karty. (By wróżyć 3, spójrz na "
-"trzy wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę "
-"na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
-"kolejności.)"
+"Wskaż atakującego lub blokującego stwora. Wróż 3, po czym ujawnij wierzchnią "
+"kartę twojej biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile "
+"wynosi skrót many ujawnionej karty. (By wróżyć 3, spójrz na trzy wierzchnie "
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../TSR.rst:142
 msgid ""
@@ -548,7 +547,7 @@ msgid ""
 "Exile target creature you control, then return it to the battlefield under "
 "its owner's control."
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć go na pole "
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć go na pole "
 "bitwy pod władaniem jego właściciela."
 
 #: ../../TSR.rst:173
@@ -721,7 +720,7 @@ msgid ""
 "rest. Players sacrifice creatures and discard cards the same way."
 msgstr ""
 "Każdy gracz wybiera tyle lądów pod swoim władaniem, ile ma we władaniu gracz "
-"władający najmniejszą liczbą lądów, następnie poświęca pozostałe. Gracze "
+"władający najmniejszą liczbą lądów, po czym poświęca pozostałe. Gracze "
 "poświęcają stwory i odrzucają karty w ten sam sposób."
 
 #: ../../TSR.rst:226
@@ -1046,7 +1045,7 @@ msgstr "Obronność, pośpiech"
 
 #: ../../TSR.rst:331
 msgid "|tap|: Draw a card, then discard a card."
-msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../TSR.rst:338
 msgid ""
@@ -1084,9 +1083,9 @@ msgid ""
 "spell during your main phase, instead that player draws four cards, then "
 "discards two cards."
 msgstr ""
-"Wskazany gracz dobiera cztery karty, następnie odrzuca trzy karty. Jeśli "
+"Wskazany gracz dobiera cztery karty, po czym odrzuca trzy karty. Jeśli "
 "rzucasz ten czar w twojej fazie głównej, zamiast tego ów gracz dobiera "
-"cztery karty, następnie odrzuca dwie karty."
+"cztery karty, po czym odrzuca dwie karty."
 
 #: ../../TSR.rst:348
 msgid ""
@@ -1156,10 +1155,10 @@ msgid ""
 "3. (To scry X, look at the top X cards of your library, then put any number "
 "of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 1, następnie wróż 2, następnie "
-"wróż 3. (By wróżyć X, spójrz na X wierzchnich kart twojej biblioteki, "
-"następnie umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
-"jej wierzchu w dowolnej kolejności.)"
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 1, po czym wróż 2, po czym wróż "
+"3. (By wróżyć X, spójrz na X wierzchnich kart twojej biblioteki, po czym "
+"umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na jej "
+"wierzchu w dowolnej kolejności.)"
 
 #: ../../TSR.rst:370
 msgid ""
@@ -1229,7 +1228,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_u|, |tap|, odrzuć kartę, poświęć ląd: Wyszukaj w twojej "
 "bibliotece co najwyżej dwie karty bazowych lądów, umieść je na polu bitwy, "
-"następnie przetasuj."
+"po czym przetasuj."
 
 #: ../../TSR.rst:392
 msgid ""
@@ -1326,10 +1325,9 @@ msgid ""
 "library, then put any number of them on the bottom of your library and the "
 "rest on top in any order.)"
 msgstr ""
-"Wróż 4, następnie dobierz dwie karty. (By wróżyć 4, spójrz na cztery "
-"wierzchnie karty twojej biblioteki, następnie umieść dowolne z nich na "
-"spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
-"kolejności.)"
+"Wróż 4, po czym dobierz dwie karty. (By wróżyć 4, spójrz na cztery "
+"wierzchnie karty twojej biblioteki, po czym umieść dowolne z nich na spodzie "
+"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../TSR.rst:418
 msgid ""
@@ -1413,7 +1411,7 @@ msgid ""
 "Whenever Looter il-Kor deals damage to an opponent, draw a card, then "
 "discard a card."
 msgstr ""
-"Ilekroć ten stwór zada obrażenia przeciwnikowi, dobierz kartę, następnie "
+"Ilekroć ten stwór zada obrażenia przeciwnikowi, dobierz kartę, po czym "
 "odrzuć kartę."
 
 #: ../../TSR.rst:446
@@ -2303,8 +2301,8 @@ msgid ""
 "all creatures they control, then puts all cards they exiled this way onto "
 "the battlefield."
 msgstr ""
-"Każdy gracz wygania wszystkie karty stworów ze swojego cmentarza, następnie "
-"poświęca wszystkie stwory pod swoim władaniem, następnie umieszcza wszystkie "
+"Każdy gracz wygania wszystkie karty stworów ze swojego cmentarza, po czym "
+"poświęca wszystkie stwory pod swoim władaniem, po czym umieszcza wszystkie "
 "karty wygnane w ten sposób na polu bitwy."
 
 #: ../../TSR.rst:740
@@ -2609,8 +2607,8 @@ msgid ""
 "Each player loses 1 life, discards a card, sacrifices a creature, then "
 "sacrifices a land."
 msgstr ""
-"Każdy gracz traci 1 życie, odrzuca kartę, poświęca stwora, następnie "
-"poświęca ląd."
+"Każdy gracz traci 1 życie, odrzuca kartę, poświęca stwora, po czym poświęca "
+"ląd."
 
 #: ../../TSR.rst:840
 msgid ""
@@ -3174,7 +3172,7 @@ msgid ""
 "a Sliver card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
 "Drzazgaczocykling |mana_3| (|mana_3|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Drzazgacza, ujawnij ją, umieść w twojej ręce, następnie "
+"bibliotece kartę Drzazgacza, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj twoją bibliotekę.)"
 
 #: ../../TSR.rst:1030
@@ -3381,11 +3379,11 @@ msgid ""
 "library, then put any number of them on the bottom of your library and the "
 "rest on top in any order.)"
 msgstr ""
-"Wskaż dowolny cel. Wróż 3, następnie ujawnij wierzchnią kartę twojej "
+"Wskaż dowolny cel. Wróż 3, po czym ujawnij wierzchnią kartę twojej "
 "biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile wynosi skrót many "
 "ujawnionej karty. (By wróżyć 3, spójrz na trzy wierzchnie karty twojej "
-"biblioteki, następnie umieść dowolną ich liczbę na spodzie twojej "
-"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej biblioteki, "
+"a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../TSR.rst:1094
 msgid ""
@@ -3644,7 +3642,7 @@ msgstr ""
 
 #: ../../TSR.rst:1177
 msgid "Each player discards their hand, then draws seven cards."
-msgstr "Każdy gracz odrzuca swoją rękę, następnie dobiera siedem kart."
+msgstr "Każdy gracz odrzuca swoją rękę, po czym dobiera siedem kart."
 
 #: ../../TSR.rst:1184
 msgid ""
@@ -3701,8 +3699,8 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Jeśli władasz nie więcej niż czterema lądami, wyszukaj w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, następnie "
-"przetasuj twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../TSR.rst:1193
 msgid ""
@@ -3722,7 +3720,7 @@ msgid ""
 "then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, następnie przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:1201
 msgid "Return target creature card from your graveyard to your hand."
@@ -4152,7 +4150,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"następnie przetasuj twoją bibliotekę."
+"po czym przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:1337
 msgid ""
@@ -4251,7 +4249,7 @@ msgid ""
 "hand, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
-"twojej ręce, następnie przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:1363
 msgid ""
@@ -5099,7 +5097,7 @@ msgid ""
 "tapped, then shuffle your library."
 msgstr ""
 "Kiedy ten ląd trafi do cmentarza z pola bitwy, możesz wyszukać w twojej "
-"bibliotece kartę Równiny, umieść ją przekręconą na polu bitwy, następnie "
+"bibliotece kartę Równiny, umieść ją przekręconą na polu bitwy, po czym "
 "przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:1632
@@ -5223,7 +5221,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:1678
 msgid ""
@@ -5451,7 +5449,7 @@ msgid ""
 "library."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
 "przetasować swoją bibliotekę."
 
 #: ../../TSR.rst:1752
@@ -5468,8 +5466,8 @@ msgid ""
 "your control."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać innego nie będącego "
-"Aniołem stwora pod twoim władaniem, następnie przywróć ową kartę na pole "
-"bitwy pod twoim władaniem."
+"Aniołem stwora pod twoim władaniem, po czym przywróć ową kartę na pole bitwy "
+"pod twoim władaniem."
 
 #: ../../TSR.rst:1756
 msgid ""
@@ -5715,7 +5713,7 @@ msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle your library."
 msgstr ""
-"Spójrz na trzy wierzchnie karty twojej biblioteki, następnie umieść je z "
+"Spójrz na trzy wierzchnie karty twojej biblioteki, po czym umieść je z "
 "powrotem w dowolnej kolejności. Możesz przetasować twoją bibliotekę."
 
 #: ../../TSR.rst:1836
@@ -5914,8 +5912,8 @@ msgid ""
 "two cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Wróż 2, następnie dobierz dwie karty. Strać 2 życia. (By wróżyć 2, spójrz na "
-"dwie wierzchnie karty twojej biblioteki, następnie umieść dowolną ich liczbę "
+"Wróż 2, po czym dobierz dwie karty. Strać 2 życia. (By wróżyć 2, spójrz na "
+"dwie wierzchnie karty twojej biblioteki, po czym umieść dowolną ich liczbę "
 "na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
 "kolejności.)"
 
@@ -6009,7 +6007,7 @@ msgid ""
 "|mana_2|\\ |mana_gu|\\ |mana_gu|: Mill two cards, then return a nonland card "
 "of an opponent's choice from your graveyard to your hand."
 msgstr ""
-"|mana_2|\\ |mana_gu|\\ |mana_gu|: Zmiel dwie karty, następnie przywróć z "
+"|mana_2|\\ |mana_gu|\\ |mana_gu|: Zmiel dwie karty, po czym przywróć z "
 "twojego cmentarza do twojej ręki nie-lądową kartę wybraną przez przeciwnika."
 
 #: ../../TSR.rst:1932
@@ -6066,7 +6064,7 @@ msgid ""
 "already there.)"
 msgstr ""
 "|mana_b|\\ |mana_b|, odrzuć kartę: Rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, następnie daj każdemu z nich kolejny znacznik "
+"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
 "każdego z już obecnych tam rodzajów.)"
 
 #: ../../TSR.rst:1950
@@ -6145,7 +6143,7 @@ msgid ""
 "When Bedlam Reveler enters the battlefield, discard your hand, then draw "
 "three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, następnie dobierz "
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, po czym dobierz "
 "trzy karty."
 
 #: ../../TSR.rst:1974
@@ -6181,8 +6179,8 @@ msgid ""
 "without paying their mana costs."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę biblioteki każdego z "
-"graczy, następnie możesz rzucić dowolną liczbę czarów spośród kart wygnanych "
-"w ten sposób bez płacenia ich kosztów many."
+"graczy, po czym możesz rzucić dowolną liczbę czarów spośród kart wygnanych w "
+"ten sposób bez płacenia ich kosztów many."
 
 #: ../../TSR.rst:1984
 msgid ""
@@ -6234,7 +6232,7 @@ msgid ""
 "an artifact card, put it into your graveyard, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę artefaktu, ujawnić ją, umieścić ją w twoim cmentarzu, następnie "
+"kartę artefaktu, ujawnić ją, umieścić ją w twoim cmentarzu, po czym "
 "przetasować bibliotekę."
 
 #: ../../TSR.rst:1993
@@ -6546,8 +6544,8 @@ msgid ""
 "then shuffle your library."
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
-"twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, "
-"następnie przetasuj twoją bibliotekę."
+"twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:2098
 msgid ""
@@ -6704,7 +6702,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ilekroć rzucisz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
-"biblioteki, aż ujawni kartę lądu, następnie umieszcza owe karty w swoim "
+"biblioteki, aż ujawni kartę lądu, po czym umieszcza owe karty w swoim "
 "cmentarzu."
 
 #: ../../TSR.rst:2148
@@ -6796,7 +6794,7 @@ msgid ""
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
 "|tap|, poświęć Las lub Równinę: Wyszukaj w twojej bibliotece kartę lądu, "
-"umieść ją na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:2176
 msgid ""
@@ -7018,7 +7016,7 @@ msgid ""
 "players, then give each another counter of each kind already there.)"
 msgstr ""
 "|mana_4|, |tap|: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, "
-"następnie daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
+"po czym daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
 "rodzajów.)"
 
 #: ../../TSR.rst:2250
@@ -7173,8 +7171,8 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, następnie "
-"przetasuj twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../TSR.rst:2293
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -7192,7 +7190,7 @@ msgid ""
 "As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, "
 "then choose any card name."
 msgstr ""
-"Umieszczając tę kartę na polu bitwy, spójrz na rękę przeciwnika, następnie "
+"Umieszczając tę kartę na polu bitwy, spójrz na rękę przeciwnika, po czym "
 "nazwij kartę."
 
 #: ../../TSR.rst:2299
@@ -7270,8 +7268,8 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
-"najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, "
-"następnie przetasuj twoją bibliotekę."
+"najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../TSR.rst:2336
 msgid ""
@@ -7311,7 +7309,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Zniszcz wskazany nie-bazowy ląd pod "
 "władaniem przeciwnika. Każdy gracz szuka w swojej bibliotece kartę bazowego "
-"lądu, umieszcza ją na polu bitwy, następnie tasuje swoją bibliotekę."
+"lądu, umieszcza ją na polu bitwy, po czym tasuje swoją bibliotekę."
 
 #: ../../TSR.rst:2350
 msgid ""

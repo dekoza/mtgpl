@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-02 20:00+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m20/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../M20.rst:5
 msgid ":mtgexp:`M20` Core Set 2020"
@@ -83,7 +83,7 @@ msgid ""
 "creature token, then attach Ancestral Blade to it."
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton białego stwora "
-"Piechur 1/1, następnie dołącz ten artefakt do niego."
+"Piechur 1/1, po czym dołącz ten artefakt do niego."
 
 #: ../../M20.rst:23
 msgid "Equipped creature gets +1/+1."
@@ -180,7 +180,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "dowolną liczbę kart o nazwie Battalion Foot Soldier, ujawnij je i umieść je "
-"w twojej ręce, następnie przetasuj twoją bibliotekę."
+"w twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../M20.rst:58
 msgid ""
@@ -791,8 +791,7 @@ msgstr ""
 
 #: ../../M20.rst:259
 msgid "|mana_2|\\ |mana_u|, |tap|: Draw two cards, then discard a card."
-msgstr ""
-"|mana_2|\\ |mana_u|, |tap|: Dobierz dwie karty, następnie odrzuć kartę."
+msgstr "|mana_2|\\ |mana_u|, |tap|: Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../M20.rst:261
 msgid ""
@@ -887,15 +886,14 @@ msgid ""
 "When Cavalier of Gales enters the battlefield, draw three cards, then put "
 "two cards from your hand on top of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz trzy karty, następnie umieść "
-"w dowolnej kolejności dwie karty z twojej ręki na wierzchu twojej biblioteki."
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz trzy karty, po czym umieść w "
+"dowolnej kolejności dwie karty z twojej ręki na wierzchu twojej biblioteki."
 
 #: ../../M20.rst:297
 msgid ""
 "When Cavalier of Gales dies, shuffle it into its owner's library, then scry "
 "2."
-msgstr ""
-"Kiedy ten stwór umrze, wtasuj go do twojej biblioteki, następnie wróż 2."
+msgstr "Kiedy ten stwór umrze, wtasuj go do twojej biblioteki, po czym wróż 2."
 
 #: ../../M20.rst:306
 msgid ""
@@ -1052,7 +1050,7 @@ msgid ""
 "Enchanted creature gets +0/+2 and has \"|tap|: Draw a card, then discard a "
 "card.\""
 msgstr ""
-"Zauroczony stwór dostaje +0/+2 i ma \"|tap|: Dobierz kartę, następnie odrzuć "
+"Zauroczony stwór dostaje +0/+2 i ma \"|tap|: Dobierz kartę, po czym odrzuć "
 "kartę.\""
 
 #: ../../M20.rst:360
@@ -1170,8 +1168,8 @@ msgid ""
 "and the rest on top in any order.)"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie umieść dowolną ich liczbę na spodzie "
-"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../M20.rst:398
 msgid ""
@@ -1211,7 +1209,7 @@ msgid ""
 "library."
 msgstr ""
 "|mana_u|, |tap|: Wyszukaj w twojej bibliotece kartę o nazwie Heart-Piercer "
-"Bow lub Vial of Dragonfire, ujawnij ją i umieść w twojej ręce, następnie "
+"Bow lub Vial of Dragonfire, ujawnij ją i umieść w twojej ręce, po czym "
 "przetasuj twoją bibliotekę."
 
 #: ../../M20.rst:408
@@ -1442,7 +1440,7 @@ msgid ""
 "Return a creature card from your graveyard to the battlefield, then return "
 "another creature card from your graveyard to your hand."
 msgstr ""
-"Przywróć kartę stwora z twojego cmentarza na pole bitwy, następnie przywróć "
+"Przywróć kartę stwora z twojego cmentarza na pole bitwy, po czym przywróć "
 "inną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M20.rst:494
@@ -1820,8 +1818,8 @@ msgid ""
 "Choose two target players. Each of them searches their library for a card, "
 "then shuffles their library and puts that card on top of it."
 msgstr ""
-"Wskaż dwóch graczy. Każdy z nich wyszukuje kartę w swojej bibliotece, "
-"następnie tasuje swoją bibliotekę i umieszcza ową kartę na jej wierzchu."
+"Wskaż dwóch graczy. Każdy z nich wyszukuje kartę w swojej bibliotece, po "
+"czym tasuje swoją bibliotekę i umieszcza ową kartę na jej wierzchu."
 
 #: ../../M20.rst:610
 msgid ""
@@ -2025,7 +2023,7 @@ msgid ""
 "When Cavalier of Flame enters the battlefield, discard any number of cards, "
 "then draw that many cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć dowolną liczbę kart, następnie "
+"Kiedy ten stwór wejdzie na pole bitwy, odrzuć dowolną liczbę kart, po czym "
 "dobierz tyle samo kart."
 
 #: ../../M20.rst:673
@@ -2223,7 +2221,7 @@ msgid ""
 "their hand, then draws seven cards."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz odrzuca swoją "
-"rękę, następnie dobiera siedem kart."
+"rękę, po czym dobiera siedem kart."
 
 #: ../../M20.rst:740
 msgid ""
@@ -2482,7 +2480,7 @@ msgid ""
 "creature token, then attach Mask of Immolation to it."
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton czerwonego stwora "
-"Żywiołak 1/1, następnie dołącz ten artefakt do niego."
+"Żywiołak 1/1, po czym dołącz ten artefakt do niego."
 
 #: ../../M20.rst:817
 msgid ""
@@ -2796,7 +2794,7 @@ msgid ""
 "it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_2|, |tap|, poświęć ląd: Wyszukaj w twojej bibliotece kartę lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../M20.rst:918
 msgid ""
@@ -3164,7 +3162,7 @@ msgid ""
 "reveal them, put them into your hand, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty stworów o różnych "
-"nazwach, ujawnij je, umieść w twojej ręce, następnie przetasuj twoją "
+"nazwach, ujawnij je, umieść w twojej ręce, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../M20.rst:1042
@@ -3362,7 +3360,7 @@ msgid ""
 "creature token, then attach Wolfrider's Saddle to it."
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk "
-"2/2, następnie dołącz ten artefakt do niego."
+"2/2, po czym dołącz ten artefakt do niego."
 
 #: ../../M20.rst:1103
 msgid ""
@@ -3627,7 +3625,7 @@ msgid ""
 "player, draw a card, then discard a card."
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole bitwy lub zada graczowi obrażenia bojowe, "
-"dobierz kartę, następnie odrzuć kartę."
+"dobierz kartę, po czym odrzuć kartę."
 
 #: ../../M20.rst:1196
 msgid ""
@@ -3676,7 +3674,7 @@ msgstr "Ilekroć odrzucisz kartę, wygnaj ją z twojego cmentarza."
 
 #: ../../M20.rst:1207
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_2|, |tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_2|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../M20.rst:1209
 msgid ""
@@ -3737,7 +3735,7 @@ msgid ""
 "draw three cards. Activate this ability only any time you could cast a "
 "sorcery."
 msgstr ""
-"|mana_1|, |tap|: Nazwij kartę, następnie ujawnij wierzchnią kartę twojej "
+"|mana_1|, |tap|: Nazwij kartę, po czym ujawnij wierzchnią kartę twojej "
 "biblioteki. Jeśli owa karta ma wybraną nazwę, poświęć ten artefakt i dobierz "
 "trzy karty. Aktywuj jako obrzęd."
 
@@ -3755,7 +3753,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę lądu, umieść ją przekręconą na polu bitwy, następnie przetasuj twoją "
+"kartę lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
 "bibliotekę."
 
 #: ../../M20.rst:1233
@@ -3904,7 +3902,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o takiej samej nazwie, jak inny stwór pod twoim władaniem, "
-"ujawnij ją, umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
+"ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../M20.rst:1286
 msgid ""
@@ -4094,7 +4092,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../M20.rst:1356
 msgid ""

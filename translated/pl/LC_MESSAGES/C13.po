@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:08+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "X-POOTLE-MTIME: 1391098867.903162\n"
 
 #: ../../C13.rst:5
@@ -250,7 +250,7 @@ msgid ""
 "a Plains card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
 "Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, następnie "
+"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj twoją bibliotekę.)"
 
 #: ../../C13.rst:70
@@ -367,8 +367,8 @@ msgid ""
 "Creatures destroyed this way can't be regenerated."
 msgstr ""
 "Próg — Jeśli w twoim cmentarzu jest co najmniej siedem kart, zamiast tego "
-"zniszcz wszystkie stwory, następnie stwórz dwa żetony białego stwora Duch "
-"1/1 z lataniem. Stwory zniszczone w ten sposób nie mogą regenerować."
+"zniszcz wszystkie stwory, po czym stwórz dwa żetony białego stwora Duch 1/1 "
+"z lataniem. Stwory zniszczone w ten sposób nie mogą regenerować."
 
 #: ../../C13.rst:100
 msgid ""
@@ -1011,8 +1011,8 @@ msgid ""
 "|mana_u|, |tap|: Each player discards their hand, then draws cards equal to "
 "the greatest number of cards a player discarded this way."
 msgstr ""
-"|mana_u|, |tap|: Każdy gracz odrzuca swoją rękę, następnie dobiera tyle "
-"kart, ile najwięcej kart odrzucił któryś gracz w ten sposób."
+"|mana_u|, |tap|: Każdy gracz odrzuca swoją rękę, po czym dobiera tyle kart, "
+"ile najwięcej kart odrzucił któryś gracz w ten sposób."
 
 #: ../../C13.rst:304
 msgid ""
@@ -2685,7 +2685,7 @@ msgid ""
 "library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, następnie "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
 "przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:802
@@ -2858,8 +2858,8 @@ msgid ""
 "(Do this before you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
-"bazowego lądu, ujawnić ją, umieścić w twojej ręce, następnie przetasować "
-"twoją bibliotekę. (Zrób to przed dobraniem.)"
+"bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować twoją "
+"bibliotekę. (Zrób to przed dobraniem.)"
 
 #: ../../C13.rst:862
 msgid ""
@@ -3348,9 +3348,9 @@ msgid ""
 "life. You return a creature card from your graveyard to your hand, draw "
 "three cards, then gain 5 life."
 msgstr ""
-"Wskazany przeciwnik poświęca stwora, odrzuca trzy karty, następnie traci 5 "
+"Wskazany przeciwnik poświęca stwora, odrzuca trzy karty, po czym traci 5 "
 "żyć. Przywróć kartę stwora z twojego cmentarza do twojej ręki, dobierz trzy "
-"karty, następnie zyskaj 5 żyć."
+"karty, po czym zyskaj 5 żyć."
 
 #: ../../C13.rst:1030
 msgid ""
@@ -3696,7 +3696,7 @@ msgstr ""
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:1161
 msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
-msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../C13.rst:1163
 msgid ""
@@ -4073,7 +4073,7 @@ msgid ""
 msgstr ""
 "Górocykling |mana_2|, lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: "
 "Wyszukaj w twojej bibliotece kartę Góry lub Lasu, ujawnij ją, umieść w "
-"twojej ręce, następnie przetasuj twoją bibliotekę.)"
+"twojej ręce, po czym przetasuj twoją bibliotekę.)"
 
 #: ../../C13.rst:1300
 msgid ""
@@ -4260,8 +4260,8 @@ msgid ""
 "your library."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
-"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, "
-"następnie przetasuj twoją bibliotekę."
+"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1362
 msgid ""
@@ -4330,7 +4330,7 @@ msgid ""
 "control, then return that card to the battlefield under your control."
 msgstr ""
 "Na początku twojego kroku końcowego, możesz wygnać wskazanego stwora pod "
-"twoim władaniem, następnie przywróć ową kartę na pole bitwy pod twoim "
+"twoim władaniem, po czym przywróć ową kartę na pole bitwy pod twoim "
 "władaniem."
 
 #: ../../C13.rst:1382
@@ -4577,7 +4577,7 @@ msgid ""
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
 "twoją bibliotekę."
 
 #: ../../C13.rst:1458
@@ -5152,7 +5152,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1654
 msgid ""
@@ -5895,7 +5895,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1940
 msgid ""

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 15:47+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../C16.rst:5
@@ -487,7 +487,7 @@ msgid ""
 "already there.)"
 msgstr ""
 "Na początku twojego kroku końcowego, rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, następnie daj każdemu kolejny znacznik każdego "
+"permanentów i/lub graczy, po czym daj każdemu kolejny znacznik każdego "
 "posiadanego przezeń rodzaju.)"
 
 #: ../../C16.rst:172
@@ -958,7 +958,7 @@ msgid ""
 "library.)"
 msgstr ""
 "Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie "
+"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj twoją bibliotekę.)"
 
 #: ../../C16.rst:360
@@ -1373,8 +1373,8 @@ msgid ""
 "|mana_2|\\ |mana_u|, Remove a +1/+1 counter from Academy Elite: Draw a card, "
 "then discard a card."
 msgstr ""
-"|mana_2|\\ |mana_u|, usuń znacznik +1/+1 z tego stwora: Dobierz kartę, "
-"następnie odrzuć kartę."
+"|mana_2|\\ |mana_u|, usuń znacznik +1/+1 z tego stwora: Dobierz kartę, po "
+"czym odrzuć kartę."
 
 #: ../../C16.rst:496
 msgid ""
@@ -1664,8 +1664,8 @@ msgid ""
 "Draw two cards, then proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"Dobierz dwie karty, następnie rozpleń. (Wybierz dowolną liczbę permanentów i/"
-"lub graczy, następnie daj im kolejny znacznik każdego z już obecnych tam "
+"Dobierz dwie karty, po czym rozpleń. (Wybierz dowolną liczbę permanentów i/"
+"lub graczy, po czym daj im kolejny znacznik każdego z już obecnych tam "
 "rodzajów.)"
 
 #: ../../C16.rst:584
@@ -1682,7 +1682,7 @@ msgid ""
 "each kind already there.)"
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, rozpleń. (Wybierz dowolną "
-"liczbę permanentów i/lub graczy, następnie daj im kolejny znacznik każdego z "
+"liczbę permanentów i/lub graczy, po czym daj im kolejny znacznik każdego z "
 "już obecnych tam rodzajów.)"
 
 #: ../../C16.rst:590
@@ -1746,7 +1746,7 @@ msgid ""
 "Each player discards their hand, then draws cards equal to the greatest "
 "number of cards a player discarded this way."
 msgstr ""
-"Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile najwięcej "
+"Każdy gracz odrzuca swoją rękę, po czym dobiera tyle kart, ile najwięcej "
 "zostało odrzuconych w ten sposób."
 
 #: ../../C16.rst:608
@@ -1872,7 +1872,7 @@ msgid ""
 "for its mana cost if it's a creature card.)"
 msgstr ""
 "Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
-"zakrytego stosu, przetasuj ów stos, następnie objaw owe karty. (Aby objawić "
+"zakrytego stosu, przetasuj ów stos, po czym objaw owe karty. (Aby objawić "
 "kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj ją w dowolnym "
 "momencie za jej koszt many, jeśli jest to karta stwora.)"
 
@@ -2081,7 +2081,7 @@ msgstr ""
 
 #: ../../C16.rst:705
 msgid "+2: Discard up to two cards, then draw that many cards."
-msgstr "+2: Odrzuć co najwyżej dwie karty, następnie dobierz tyle samo kart."
+msgstr "+2: Odrzuć co najwyżej dwie karty, po czym dobierz tyle samo kart."
 
 #: ../../C16.rst:707
 msgid ""
@@ -2118,7 +2118,7 @@ msgid ""
 "their hand, then draws seven cards."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz odrzuca swoją "
-"rękę, następnie dobiera siedem kart."
+"rękę, po czym dobiera siedem kart."
 
 #: ../../C16.rst:724
 msgid ""
@@ -2276,7 +2276,7 @@ msgstr ""
 
 #: ../../C16.rst:765 ../../C16.rst:799
 msgid "Each player discards their hand, then draws seven cards."
-msgstr "Każdy gracz odrzuca swoją rękę, następnie dobiera siedem kart."
+msgstr "Każdy gracz odrzuca swoją rękę, po czym dobiera siedem kart."
 
 #: ../../C16.rst:767
 msgid ""
@@ -3230,7 +3230,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ilekroć rzucisz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
-"biblioteki, aż ujawni kartę lądu, następnie umieszcza owe karty w swoim "
+"biblioteki, aż ujawni kartę lądu, po czym umieszcza owe karty w swoim "
 "cmentarzu."
 
 #: ../../C16.rst:1078
@@ -4585,8 +4585,8 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, następnie "
-"przetasuj twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../C16.rst:1549
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -4933,7 +4933,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:1690
 msgid ""
@@ -5558,7 +5558,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:1946
 msgid ""

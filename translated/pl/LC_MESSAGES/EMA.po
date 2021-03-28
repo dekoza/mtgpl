@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-24 22:07+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../EMA.rst:5
@@ -72,7 +72,7 @@ msgid ""
 "rest. Players discard cards and sacrifice creatures the same way."
 msgstr ""
 "Każdy gracz wybiera tyle lądów pod swoim władaniem, iloma lądami włada gracz "
-"władający najmniejszą ich liczbą, następnie poświęca pozostałe. Gracze "
+"władający najmniejszą ich liczbą, po czym poświęca pozostałe. Gracze "
 "odrzucają karty i poświęcają stwory w ten sam sposób."
 
 #: ../../EMA.rst:24
@@ -527,7 +527,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "co najwyżej trzy karty o nazwie Squadron Hawk, ujawnij je, umieść w twojej "
-"ręce, następnie przetasuj twoją bibliotekę."
+"ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../EMA.rst:168
 msgid ""
@@ -658,7 +658,7 @@ msgid ""
 "Draw three cards, then put two cards from your hand on top of your library "
 "in any order."
 msgstr ""
-"Dobierz trzy karty, następnie umieść dwie karty z twojej ręki dowolnie na "
+"Dobierz trzy karty, po czym umieść dwie karty z twojej ręki dowolnie na "
 "wierzchu twojej biblioteki."
 
 #: ../../EMA.rst:212
@@ -675,8 +675,8 @@ msgid ""
 "discard two cards.\""
 msgstr ""
 "Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma "
-"\"Kiedy ten stwór wejdzie na pole bitwy, dobierz trzy karty, następnie "
-"odrzuć dwie karty.\""
+"\"Kiedy ten stwór wejdzie na pole bitwy, dobierz trzy karty, po czym odrzuć "
+"dwie karty.\""
 
 #: ../../EMA.rst:218
 msgid ""
@@ -929,7 +929,7 @@ msgid ""
 "0: Draw three cards, then put two cards from your hand on top of your "
 "library in any order."
 msgstr ""
-"0: Dobierz trzy karty, następnie umieść dwie karty z twojej ręki dowolnie na "
+"0: Dobierz trzy karty, po czym umieść dwie karty z twojej ręki dowolnie na "
 "wierzchu twojej biblioteki."
 
 #: ../../EMA.rst:301
@@ -941,8 +941,8 @@ msgid ""
 "−12: Exile all cards from target player's library, then that player shuffles "
 "their hand into their library."
 msgstr ""
-"–12: Wygnaj wszystkie karty z biblioteki wskazanego gracza, następnie ów "
-"gracz wtasowuje swoją rękę do swojej biblioteki."
+"–12: Wygnaj wszystkie karty z biblioteki wskazanego gracza, po czym ów gracz "
+"wtasowuje swoją rękę do swojej biblioteki."
 
 #: ../../EMA.rst:310
 msgid ""
@@ -999,7 +999,7 @@ msgstr ""
 
 #: ../../EMA.rst:321
 msgid "|tap|: Draw a card, then discard a card."
-msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
+msgstr "|tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../EMA.rst:326
 msgid ""
@@ -1014,7 +1014,7 @@ msgid ""
 "Shuffle your library, then put the card on top of it."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu i ujawnij ją. "
-"Przetasuj twoją bibliotekę, następnie umieść ową kartę na jej wierzchu."
+"Przetasuj twoją bibliotekę, po czym umieść ową kartę na jej wierzchu."
 
 #: ../../EMA.rst:332
 msgid ""
@@ -1139,8 +1139,8 @@ msgid ""
 "an Island card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
 "Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, następnie "
-"przetasuj twoją bibliotekę.)"
+"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
+"twoją bibliotekę.)"
 
 #: ../../EMA.rst:378
 msgid ""
@@ -1741,8 +1741,8 @@ msgid ""
 "a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
 "Bagnocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, następnie "
-"przetasuj twoją bibliotekę.)"
+"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
+"twoją bibliotekę.)"
 
 #: ../../EMA.rst:582
 msgid ""
@@ -1770,7 +1770,7 @@ msgid ""
 "Search your library for a card, then shuffle your library and put that card "
 "on top of it. You lose 2 life."
 msgstr ""
-"Wyszukaj kartę w twojej bibliotece, następnie przetasuj twoją bibliotekę i "
+"Wyszukaj kartę w twojej bibliotece, po czym przetasuj twoją bibliotekę i "
 "umieść ową kartę na jej wierzchu. Strać 2 życia."
 
 #: ../../EMA.rst:590
@@ -1968,7 +1968,7 @@ msgstr ""
 
 #: ../../EMA.rst:649
 msgid "Draw two cards, then discard a card at random."
-msgstr "Dobierz dwie karty, następnie odrzuć losową kartę."
+msgstr "Dobierz dwie karty, po czym odrzuć losową kartę."
 
 #: ../../EMA.rst:651
 msgid ""
@@ -2021,7 +2021,7 @@ msgstr ""
 
 #: ../../EMA.rst:667
 msgid "Draw two cards, then discard two cards."
-msgstr "Dobierz dwie karty, następnie odrzuć dwie karty."
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../EMA.rst:676
 msgid ""
@@ -2081,7 +2081,7 @@ msgid ""
 "at random, then shuffle your library."
 msgstr ""
 "Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, odrzuć losową "
-"kartę, następnie przetasuj twoją bibliotekę."
+"kartę, po czym przetasuj twoją bibliotekę."
 
 #: ../../EMA.rst:698
 msgid ""
@@ -2707,7 +2707,7 @@ msgid ""
 "Sun's Zenith into its owner's library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora o skrócie many X lub "
-"mniejszym, umieść go na polu bitwy, następnie przetasuj twoją bibliotekę. "
+"mniejszym, umieść go na polu bitwy, po czym przetasuj twoją bibliotekę. "
 "Wtasuj ten czar do biblioteki właściciela."
 
 #: ../../EMA.rst:900
@@ -3150,8 +3150,8 @@ msgid ""
 "the battlefield under their owner's control."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj dowolną liczbę "
-"wskazanych nielądowych permanentów pod twoim władaniem, następnie przywróć "
-"owe karty na pole bitwy pod władaniem ich właścicieli."
+"wskazanych nielądowych permanentów pod twoim władaniem, po czym przywróć owe "
+"karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../EMA.rst:1058
 msgid ""
@@ -3162,7 +3162,7 @@ msgstr ""
 
 #: ../../EMA.rst:1053
 msgid "+1: Target player draws two cards, then discards two cards."
-msgstr "+1: Wskazany gracz dobiera dwie karty, następnie odrzuca dwie karty."
+msgstr "+1: Wskazany gracz dobiera dwie karty, po czym odrzuca dwie karty."
 
 #: ../../EMA.rst:1055
 msgid "−2: Gain control of target artifact."
@@ -3520,7 +3520,7 @@ msgstr ""
 
 #: ../../EMA.rst:1167
 msgid "|mana_5|, |tap|: Draw two cards, then discard a card."
-msgstr "|mana_5|, |tap|: Dobierz dwie karty, następnie odrzuć kartę."
+msgstr "|mana_5|, |tap|: Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../EMA.rst:1172
 msgid ""
@@ -3659,7 +3659,7 @@ msgid ""
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, następnie przetasuj "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
 "twoją bibliotekę."
 
 #: ../../EMA.rst:1220
@@ -3708,7 +3708,7 @@ msgid ""
 "|mana_1|: Look at the top three cards of your library, then put them back in "
 "any order."
 msgstr ""
-"|mana_1|: Spójrz na trzy wierzchnie karty twojej biblioteki, następnie odłóż "
+"|mana_1|: Spójrz na trzy wierzchnie karty twojej biblioteki, po czym odłóż "
 "je w dowolnej kolejności."
 
 #: ../../EMA.rst:1231
@@ -3716,7 +3716,7 @@ msgid ""
 "|tap|: Draw a card, then put Sensei's Divining Top on top of its owner's "
 "library."
 msgstr ""
-"|tap|: Dobierz kartę, następnie umieść ten artefakt na wierzchu biblioteki "
+"|tap|: Dobierz kartę, po czym umieść ten artefakt na wierzchu biblioteki "
 "właściciela."
 
 #: ../../EMA.rst:1238

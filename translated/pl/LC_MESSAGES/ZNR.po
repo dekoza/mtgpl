@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 22:39+0100\n"
-"PO-Revision-Date: 2021-03-23 15:47+0000\n"
+"PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../ZNR.rst:5
 msgid ":mtgexp:`ZNR` Zendikar Rising"
@@ -892,7 +892,7 @@ msgid ""
 msgstr ""
 "Skontruj wskazany czar stwora lub wędrowca, chyba że jego właściciel zapłaci "
 "|mana_2|. Jeśli przeciwnik ma co najmniej osiem kart w swoim cmentarzu, "
-"zamiast tego skontruj ów czar, następnie wróż 2."
+"zamiast tego skontruj ów czar, po czym wróż 2."
 
 #: ../../ZNR.rst:278
 msgid ""
@@ -1070,7 +1070,7 @@ msgstr ""
 
 #: ../../ZNR.rst:325
 msgid "Whenever you cast a kicked spell, draw a card, then discard a card."
-msgstr "Ilekroć rzucisz podbity czar, dobierz kartę, następnie odrzuć kartę."
+msgstr "Ilekroć rzucisz podbity czar, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../ZNR.rst:327
 msgid ""
@@ -1107,7 +1107,7 @@ msgstr ""
 
 #: ../../ZNR.rst:337
 msgid "Scry 2, then draw a card."
-msgstr "Wróż 2, następnie dobierz kartę."
+msgstr "Wróż 2, po czym dobierz kartę."
 
 #: ../../ZNR.rst:344
 msgid ""
@@ -1206,7 +1206,7 @@ msgstr "Przywróć co najwyżej dwa wskazane stwory do rąk ich właścicieli."
 
 #: ../../ZNR.rst:375
 msgid "Scry 2, then draw two cards."
-msgstr "Wróż 2, następnie dobierz dwie karty."
+msgstr "Wróż 2, po czym dobierz dwie karty."
 
 #: ../../ZNR.rst:377
 msgid ""
@@ -1357,7 +1357,7 @@ msgid ""
 "When Master of Winds enters the battlefield, draw two cards, then discard a "
 "card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty, następnie odrzuć "
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty, po czym odrzuć "
 "kartę."
 
 #: ../../ZNR.rst:429
@@ -1949,7 +1949,7 @@ msgid ""
 "library. If you have a full party, you may cast a spell with converted mana "
 "cost 4 or less from your hand without paying its mana cost."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę, umieść ją w twojej ręce, następnie "
+"Wyszukaj w twojej bibliotece kartę, umieść ją w twojej ręce, po czym "
 "przetasuj twoją bibliotekę. Jeśli masz pełną ekipę, możesz rzucić z twojej "
 "ręki czar o skrócie many 4 lub mniejszym bez płacenia jego kosztu many."
 
@@ -2773,7 +2773,7 @@ msgid ""
 "land card, put it onto the battlefield tapped, then shuffle their library."
 msgstr ""
 "Zniszcz wskazany ląd. Jego władca może wyszukać w swojej bibliotece kartę "
-"bazowego lądu, umieścić ją przekręconą na polu bitwy, następnie przetasować "
+"bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym przetasować "
 "swoją bibliotekę."
 
 #: ../../ZNR.rst:876
@@ -2978,8 +2978,8 @@ msgid ""
 "|tap|, Discard a card: Exile the top two cards of your library, then choose "
 "one of them. You may play that card this turn."
 msgstr ""
-"|tap|, odrzuć kartę: Wygnaj dwie wierzchnie karty twojej biblioteki, "
-"następnie wybierz jedną z nich. Możesz zagrać ową kartę w tej turze."
+"|tap|, odrzuć kartę: Wygnaj dwie wierzchnie karty twojej biblioteki, po czym "
+"wybierz jedną z nich. Możesz zagrać ową kartę w tej turze."
 
 #: ../../ZNR.rst:950
 msgid ""
@@ -3479,8 +3479,8 @@ msgid ""
 "Put any number of cards from your hand on the bottom of your library, then "
 "draw that many cards plus one."
 msgstr ""
-"Umieść dowolną liczbę kart z twojej ręki na spodzie twojej biblioteki, "
-"następnie dobierz tyle samo kart plus jedną."
+"Umieść dowolną liczbę kart z twojej ręki na spodzie twojej biblioteki, po "
+"czym dobierz tyle samo kart plus jedną."
 
 #: ../../ZNR.rst:1104
 msgid ""
@@ -3518,7 +3518,7 @@ msgid ""
 "deals that much damage to each opponent."
 msgstr ""
 "Na początku twojego kroku końcowego, jeśli na wygnaniu są karty wygnane tym "
-"urokiem, umieść je w cmentarzu ich właściciela, następnie ten urok zadaje "
+"urokiem, umieść je w cmentarzu ich właściciela, po czym ten urok zadaje "
 "każdemu przeciwnikowi tyle samo obrażeń."
 
 #: ../../ZNR.rst:1116
@@ -3997,7 +3997,7 @@ msgid ""
 "two basic land cards instead of one."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego ląduj, ujawnij ją, umieść w "
-"twojej ręce, następnie przetasuj twoją bibliotekę. Jeśli ten czar został "
+"twojej ręce, po czym przetasuj twoją bibliotekę. Jeśli ten czar został "
 "podbity, wyszukaj w twojej bibliotece dwie karty bazowych lądów zamiast "
 "jednej."
 
@@ -4014,7 +4014,7 @@ msgid ""
 "them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Poświęć ląd. Wyszukaj w twojej bibliotece dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../ZNR.rst:1278
 msgid ""
@@ -4308,8 +4308,8 @@ msgid ""
 "two +1/+1 counters on each creature you control."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, następnie przetasuj twoją bibliotekę. Jeśli "
-"ten czar został podbity, umieść po dwa znaczniki +1/+1 na każdym stworze pod "
+"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę. Jeśli ten "
+"czar został podbity, umieść po dwa znaczniki +1/+1 na każdym stworze pod "
 "twoim władaniem."
 
 #: ../../ZNR.rst:1382
@@ -4818,7 +4818,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "bazowego Lasu oraz kartę bazowej Równiny, ujawnij owe karty, umieść je w "
-"twojej ręce, następnie przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../ZNR.rst:1531
 msgid ""
