@@ -111,6 +111,10 @@
    Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 
 
+:mtgtip:`"Nightmare's Beverage"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6789b717-a000-464a-a39b-32c1aeefe560.jpg?1617001571|https://scryfall.com/card/stx/132/nightmares-beverage?utm_source=api>`
+   You gain 2 life. Target creature gets +X/+X until end of turn, where X is the amount of life you gained this turn.
+
+
 :mtgtip:`Kianne, Dean of Substance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1616839355|https://scryfall.com/card/stx/152/kianne-dean-of-substance-imbraham-dean-of-theory?utm_source=api>`
    |tap|: Exile the top card of your library. If it's a land card, put it into your hand. Otherwise, put a study counter on it.
 
