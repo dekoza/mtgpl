@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-26 23:59+0100\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-03-29 07:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../STX.rst:13
 msgid "Exile target nonland permanent. Its controller draws a card."
-msgstr ""
+msgstr "Wygnaj wskazany nielądowy permanent. Jego władca dobiera kartę."
 
 #: ../../STX.rst:18
 msgid ""
@@ -89,6 +89,9 @@ msgid ""
 "Lesson card you own from outside the game and put it into your hand, or "
 "discard a card to draw a card.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić własną "
+"kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo odrzucić kartę by "
+"dobrać kartę.)"
 
 #: ../../STX.rst:30
 msgid ""
@@ -121,6 +124,8 @@ msgid ""
 "Learn. (You may reveal a Lesson card you own from outside the game and put "
 "it into your hand, or discard a card to draw a card.)"
 msgstr ""
+"Ucz się. (Możesz albo ujawnić własną kartę Lekcji spoza gry i umieścić ją w "
+"twojej ręce, albo odrzucić kartę by dobrać kartę.)"
 
 #: ../../STX.rst:42
 msgid ""
@@ -138,6 +143,8 @@ msgid ""
 "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_2|.)"
 msgstr ""
+"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
 
 #: ../../STX.rst:50
 msgid ""
@@ -163,6 +170,8 @@ msgid ""
 "Remove twice X loyalty counters from target planeswalker an opponent "
 "controls."
 msgstr ""
+"Usuń dwukrotność X znaczników lojalności ze wskazanego wędrowca pod "
+"władaniem przeciwnika."
 
 #: ../../STX.rst:60
 msgid ""
@@ -215,6 +224,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control this turn, put "
 "a +1/+1 counter on it and it gains haste until end of turn."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, umieść na nim "
+"znacznik +1/+1 i zyskuje on do końca tury pośpiech."
 
 #: ../../STX.rst:72
 msgid ""
@@ -225,7 +236,7 @@ msgstr ""
 
 #: ../../STX.rst:69
 msgid "Storm-Kiln Artist gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../STX.rst:71
 msgid ""
@@ -255,6 +266,8 @@ msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_g|: Double the number of +1/+1 counters on "
 "Dragonsguard Elite."
 msgstr ""
+"|mana_4|\\ |mana_g|\\ |mana_g|: Podwój liczbę znaczników +1/+1 na tym "
+"stworze."
 
 #: ../../STX.rst:82
 msgid ""
@@ -269,6 +282,8 @@ msgid ""
 "|tap|: Exile the top card of your library. If it's a land card, put it into "
 "your hand. Otherwise, put a study counter on it."
 msgstr ""
+"|tap|: Wygnaj wierzchnią kartę twojej biblioteko. Jeśli to karta lądu, "
+"umieść ją w twojej ręce. W przeciwnym razie umieść na niej znacznik nauki."
 
 #: ../../STX.rst:88
 msgid ""
@@ -284,6 +299,9 @@ msgid ""
 "and put a study counter on each of them. Then you may put a card you own in "
 "exile with a study counter on it into your hand."
 msgstr ""
+"|mana_x|\\ |mana_u|\\ |mana_u|, |tap|: Wygnaj X wierzchnich kart twojej "
+"biblioteki i umieść na każdej znacznik nauki. Następnie możesz przenieść z "
+"wygnania własną kartę mają znacznik nauki do twojej ręki."
 
 #: ../../STX.rst:94
 msgid ""
@@ -304,6 +322,10 @@ msgid ""
 "cast that card without paying its mana cost. Put all revealed cards not cast "
 "this on the bottom of your library in a random order."
 msgstr ""
+"|mana_4|\\ |mana_r|, |tap|: Ujawniaj karty z wierzchu twojej biblioteki aż "
+"ujawnisz nielegendarną nielądową kartę o skrócie many 3 lub mniejszym. "
+"Możesz ją rzucić bez płacenia jej kosztu many. Umieść wszystkie nie rzucone "
+"karty ujawnione w ten sposób losowo na spodzie twojej biblioteki."
 
 #: ../../STX.rst:102
 msgid ""
@@ -315,17 +337,19 @@ msgstr ""
 
 #: ../../STX.rst:97
 msgid "Other tapped creatures you control get +1/+0."
-msgstr ""
+msgstr "Inne przekręcone stwory pod twoim władaniem dostają +1/+0."
 
 #: ../../STX.rst:99
 msgid "Other untapped creatures you control get +0/+1."
-msgstr ""
+msgstr "Inne odkręcony stwory pod twoim władaniem dostają +0/+1."
 
 #: ../../STX.rst:101
 msgid ""
 "Whenever you attack, untap each creature you control, then tap any number of "
 "creatures you control."
 msgstr ""
+"Ilekroć zaatakujesz, odkręć każdego stwora pod twoim władaniem, następnie "
+"przekręć dowolną liczbę stworów pod twoim władaniem."
 
 #: ../../STX.rst:110
 msgid ""
@@ -345,6 +369,8 @@ msgid ""
 "drawn three or more cards this turn, she deals 3 damage to each opponent "
 "instead."
 msgstr ""
+"+1: Ten wędrowiec zadaje każdemu przeciwnikowi po 1 obrażeniu. Jeśli w tej "
+"turze dobrałeś co najmniej trzy karty, zamiast tego zadaje po 3 obrażenia."
 
 #: ../../STX.rst:109
 msgid ""
@@ -352,6 +378,9 @@ msgid ""
 "you may pay |mana_2|. If you do, copy that spell. You may choose new targets "
 "for the copy.\""
 msgstr ""
+"–4: Dostajesz emblemat mający \"Ilekroć rzucisz czar sztuczki lub obrzędu, "
+"możesz zapłacić |mana_2|. Jeśli tak zrobisz, skopiuj ów czar. Możesz wskazać "
+"nowe cele dla kopii.\""
 
 #: ../../STX.rst:120
 msgid ""
@@ -366,16 +395,21 @@ msgid ""
 "+1: Up to one target creature has base power and toughness 0/2 until your "
 "next turn."
 msgstr ""
+"+1: Bazowa siła i wytrzymałość co najwyżej jednego wskazanego stwora stają "
+"się do twojej następnej tury 0/2."
 
 #: ../../STX.rst:117
 msgid "−3: Draw two cards."
-msgstr ""
+msgstr "–3: Dobierz dwie karty."
 
 #: ../../STX.rst:119
 msgid ""
 "−7: Exile up to five target permanents. For each permanent exiled this way, "
 "its controller creates a 4/4 blue and red Elemental Creature token."
 msgstr ""
+"–7L Wygnaj co najwyżej pięć wskazanych permanentów. Za każdy permanent "
+"wygnany w ten sposób, jego władca tworzy żeton niebiesko-czerwonego stwora "
+"Żywiołak 4/4."
 
 #: ../../STX.rst:126
 msgid ""
@@ -394,6 +428,8 @@ msgid ""
 "|tap|: Put a +1/+1 counter on each creature that entered the battlefield "
 "under your control this turn."
 msgstr ""
+"|tap|: Umieść znacznik +1/+1 na każdym stworze, który w tej turze wszedł na "
+"pole bitwy pod twoim władaniem."
 
 #: ../../STX.rst:132
 msgid ""
@@ -408,11 +444,14 @@ msgid ""
 "|tap|: Put a +1/+1 counter on another target creature, then Embrose, Dean of "
 "Shadow deals 2 damage to that creature."
 msgstr ""
+"|tap|: Umieść znacznik +1/+1 na innym wskazanym stworze, następnie niniejszy "
+"stwór zadaje owemu stworowi 2 obrażenia."
 
 #: ../../STX.rst:131
 msgid ""
 "Whenever a creature you control wit ha +1/+1 counter on it dies, draw a card."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem mający znacznik +1/+1, dobierz kartę."
 
 #: ../../STX.rst:138
 msgid ""
@@ -428,6 +467,9 @@ msgid ""
 "card from your graveyard. Put a number of +1/+1 counters on Torrent Sculptor "
 "equal to half that card's mana value, rounded up."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj kartę sztuczki lub obrzędu z "
+"twojego cmentarza. Umieść na tym stworze tyle znaczników +1/+1, ile wynosi "
+"połowa skrótu many owej karty, zaokrąglając wzwyż."
 
 #: ../../STX.rst:142
 msgid ""
@@ -443,6 +485,9 @@ msgid ""
 "card this way, Flamethrower Sonata deals damage equal to that card's mana "
 "value to target creature or planeswalker you don't control."
 msgstr ""
+"Odrzuć kartę, po czym dobierz kartę. Kiedy odrzucisz w ten sposób kartę "
+"sztuczki lub obrzędu, ten czar zadaje wskazanemu stworowi lub wędrowcowi "
+"poza twoim władaniem obrażenia równe skrótowi many owej karty."
 
 #: ../../STX.rst:146
 msgid ""
@@ -460,6 +505,12 @@ msgid ""
 "counter is removed from this card, if it's exiled, you may cast it. It costs "
 "|mana_4| less to cast this way.\""
 msgstr ""
+"|tap|: Możesz wygnać kartę sztuczki lub obrzędu z twojej ręki i umieścić na "
+"niej trzy znaczniki ostrzenia. Zyskuje ona \"Na początku twojego kroku "
+"utrzymania, jeśli ta karta jest wygnana, usuń z niej znacznik ostrzenia\" "
+"oraz \"Kiedy z tej karty zostanie usunięty ostatni znacznik ostrzenia, jeśli "
+"jest ona wygnana, możesz ją rzucić. Rzucenie jej w ten sposób kosztuje o "
+"|mana_4| mniej.\""
 
 #: ../../STX.rst:152
 msgid ""
@@ -476,12 +527,16 @@ msgid ""
 "cards, and you many spend mana as though it were mana of any color to cast "
 "those spells."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę biblioteki "
+"każdego z przeciwników. Do końca tury, możesz rzucać czary spośród owych "
+"wygnanych kart i do ich rzucenia możesz wydawać manę tak, jakby była maną "
+"dowolnego koloru."
 
 #: ../../STX.rst:151
 msgid ""
 "Whenever you cast a spell from exile, put a +1/+1 counter on Nassari, Dean "
 "of Expression."
-msgstr ""
+msgstr "Ilekroć rzucisz czar z wygnania, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../STX.rst:158
 msgid ""
@@ -501,6 +556,10 @@ msgid ""
 "When you do, you may pay |mana_2|. If you do, create a 1/1 black and green "
 "Pest creature token with \"When this creature dies, you gain 1 life.\""
 msgstr ""
+"Jeśli miałby umrzeć nieżetonowy stwór pod władaniem przeciwnika, zamiast "
+"tego wygnaj go. Kiedy tak zrobisz, możesz zapłacić |mana_2|. Jeśli tak "
+"zrobisz, stwórz żeton czarno-zielonego stwora Szkodnik 1/1 mający \"Kiedy "
+"ten stwór umrze, zyskaj 1 życie.\""
 
 #: ../../STX.rst:162
 msgid ""
@@ -516,6 +575,9 @@ msgid ""
 "on each creature you control and those creatures gain trample until end of "
 "turn."
 msgstr ""
+"Ilekroć zyskasz życia, możesz zapłacić |mana_1|. Jeśli tak zrobisz, umieść "
+"znacznik +1/+1 na każdym stworze pod twoim władaniem i owe stwory zyskują do "
+"końca tury tratowanie."
 
 #: ../../STX.rst:172
 msgid ""
@@ -618,6 +680,8 @@ msgid ""
 "Create two 1/1 black and green Pest creature tokens with \"When this "
 "creature dies, you gain 1 life.\""
 msgstr ""
+"Stwórz dwa żetony czarno-zielonego stwora Szkodnik 1/1 mające \"Gdy ten "
+"stwór umrze, zyskaj 1 życie.\""
 
 #: ../../STX.rst:196
 msgid ""
@@ -673,6 +737,10 @@ msgid ""
 "them and put that card into your hand. Put the rest on the bottom of your "
 "library in any order."
 msgstr ""
+"Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
+"spójrz na trzy wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę lądu i umieścić ją w twojej ręce. Umieść pozostałe dowolnie na "
+"spodzie twojej biblioteki."
 
 #: ../../STX.rst:224
 msgid ""
@@ -717,6 +785,8 @@ msgid ""
 "At the beginning of combat on your turn, you may choose two. Each mode must "
 "target a different player."
 msgstr ""
+"Na początku potyczki w twojej turze, możesz wybrać dwa. Każdy tryb musi "
+"wskazywać innego gracza."
 
 #: ../../STX.rst:231
 msgid ""
@@ -732,6 +802,8 @@ msgstr "Wskazany gracz dobiera kartę i traci 1 życie."
 #: ../../STX.rst:235
 msgid "Target player puts a +1/+1 counter on each creature they control."
 msgstr ""
+"Wskazany gracz umieszcza znacznik +1/+1 na każdym stworze pod swoim "
+"władaniem."
 
 #: ../../STX.rst:240
 msgid ""
@@ -829,6 +901,8 @@ msgid ""
 "Mountain card from your hand. If you don't, Frostboil Snarl enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Wyspy lub "
+"Góry. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../STX.rst:273
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -847,6 +921,8 @@ msgid ""
 "Plains card from your hand. If you don't, Furycalm Snarl enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Góry lub "
+"Równiny. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../STX.rst:279
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -865,6 +941,8 @@ msgid ""
 "Forest card from your hand. If you don't, Necroblossom Snarl enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Bagna lub "
+"Lasu. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../STX.rst:285
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -883,6 +961,8 @@ msgid ""
 "Swamp card from your hand. If you don't, Shineshadow Snarl enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Równiny lub "
+"Bagna. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../STX.rst:291
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -901,6 +981,8 @@ msgid ""
 "Island card from your hand. If you don't, Vineglimmer Snarl enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Lasy lub "
+"Wyspy. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../STX.rst:297
 msgid "|tap|: Add |mana_g| or |mana_u|."
