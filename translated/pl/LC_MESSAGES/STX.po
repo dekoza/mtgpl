@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-29 09:21+0200\n"
-"PO-Revision-Date: 2021-03-29 08:24+0000\n"
+"PO-Revision-Date: 2021-03-29 08:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -34,6 +34,8 @@ msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle. You gain 2 life."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść w "
+"twojej ręce, po czym przetasuj. Zyskaj 2 życia."
 
 #: ../../STX.rst:14
 msgid ""
@@ -107,6 +109,10 @@ msgid ""
 "exiled, its owner may play it. A spell cast this way costs |mana_2| more to "
 "cast."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na rękę wskazanego "
+"przeciwnika. Możesz wygnać z niej nielądową kartę. Przez czas wygnania owej "
+"karty jej właściciel może ją zagrać. Rzucenie czaru w ten sposób kosztuje o "
+"|mana_2| więcej."
 
 #: ../../STX.rst:36
 msgid ""
@@ -134,7 +140,7 @@ msgstr ""
 
 #: ../../STX.rst:39
 msgid "Star Pupil enters the battlefield with a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając znacznik +1/+1."
 
 #: ../../STX.rst:41
 msgid "When Star Pupil dies, put its counters on target creature you control."
@@ -349,6 +355,8 @@ msgid ""
 "Search your library for a basic Forest card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego Lasu, umieść ją przekręconą na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../STX.rst:118
 msgid ""
@@ -372,6 +380,9 @@ msgid ""
 "a +1/+1 counter on it for each different mana value among nonland cards you "
 "own in exile with study counters on them."
 msgstr ""
+"|mana_4|\\ |mana_g|: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. "
+"Umieść na nim tyle znaczników +1/+1 ile masz wygnanych własnych nielądowych "
+"kart o różnych skrótach many mających znacznik nauki."
 
 #: ../../STX.rst:124
 msgid ""
@@ -869,6 +880,8 @@ msgid ""
 "Exile target creature. Exile up to one target instant or sorcery card from a "
 "graveyard."
 msgstr ""
+"Wygnaj wskazanego stwora. Wygnaj co najwyżej jedną wskazaną kartę sztuczki "
+"lub obrzędu z cmentarza."
 
 #: ../../STX.rst:278
 msgid ""
@@ -1122,6 +1135,10 @@ msgid ""
 "battlefield, where X is the amount of damage that Venerable Warsinger dealt "
 "to that player."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz przywrócić wskazaną "
+"kartę stwora o skrócie many X lub mniejszym z twojego cmentarza na pole "
+"bitwy, gdzie X jest liczbą obrażeń zadanych owemu graczowi przez niniejszego "
+"stwora."
 
 #: ../../STX.rst:358
 msgid ""
