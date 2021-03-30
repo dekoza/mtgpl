@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-03-29 18:23+0000\n"
+"PO-Revision-Date: 2021-03-30 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/internal/"
 "pl/>\n"
@@ -407,7 +407,7 @@ msgstr ""
 
 msgctxt "BattlePass/Rewards/MythicICR"
 msgid "Mythic Card Reward"
-msgstr ""
+msgstr "Mityczna karta"
 
 msgctxt "BattlePass/Rewards/Orb"
 msgid "1 Orb"
@@ -702,7 +702,7 @@ msgstr ""
 
 msgctxt "Draft/Draft_Ready"
 msgid "Ready!"
-msgstr "Gotów!"
+msgstr "Przygotuj się!"
 
 msgctxt "Draft/Draft_Seat_Number"
 msgid "Seat {0}"
@@ -2325,11 +2325,11 @@ msgstr "Tylko tryby Areny"
 
 msgctxt "MainNav/homepage/PlayModeSliderOff"
 msgid "Advanced Play Modes: Off"
-msgstr ""
+msgstr "Zaawansowane tryby gry: Nie"
 
 msgctxt "MainNav/homepage/PlayModeSliderOn"
 msgid "Advanced Play Modes: On"
-msgstr ""
+msgstr "Zaawansowane tryby gry: Tak"
 
 msgctxt "MainNav/homepage/PlayModeTooltip"
 msgid "Filters advanced play modes"
@@ -2427,11 +2427,11 @@ msgstr ""
 
 msgctxt "MainNav/Landing/Landing_FriendsButton_AddFriends_Label"
 msgid "ADD FRIENDS"
-msgstr ""
+msgstr "DODAJ ZNAJOMYCH"
 
 msgctxt "MainNav/Landing/Landing_FriendsButton_Friends_Label"
 msgid "Friends"
-msgstr ""
+msgstr "Znajomi"
 
 msgctxt "MainNav/Landing/Landing_Marquee_Bottom_GetStarted_Label"
 msgid "Get Started"
@@ -3515,7 +3515,7 @@ msgstr ""
 
 msgctxt "MainNav/Popups/QuestRewardPopupDetailsForWaiting"
 msgid "You can have up to three daily quests at one time."
-msgstr ""
+msgstr "Możesz mieć jednocześnie trzy dzienne zadania."
 
 msgctxt "MainNav/Popups/SetAnnouncement/AvailableNow"
 msgid "Available Now!"

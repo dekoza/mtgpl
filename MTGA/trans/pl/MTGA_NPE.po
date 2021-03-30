@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-03-29 21:49+0000\n"
+"PO-Revision-Date: 2021-03-30 11:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/mtga-npe/"
 "pl/>\n"
@@ -301,7 +301,7 @@ msgstr ""
 
 msgctxt "EPP/Level/XP"
 msgid "{count} XP"
-msgstr ""
+msgstr "{count} XP"
 
 msgctxt "EPP/Level/XPNextLevel"
 msgid "XP to Next Level:"
@@ -557,7 +557,7 @@ msgstr ""
 
 msgctxt "EPP/Objective/ClickToView"
 msgid "Click to view Reward Track"
-msgstr ""
+msgstr "Kliknięcie pokaże Ścieżkę Nagród"
 
 msgctxt "EPP/Objective/EarnThis"
 msgid "Earn this reward by leveling-up!"
@@ -857,7 +857,7 @@ msgstr "Styl dla karty {cardName}"
 
 msgctxt "EPP/RewardTrack/Completed"
 msgid "Completed"
-msgstr ""
+msgstr "Ukończone"
 
 msgctxt "EPP/RewardTrack/CurrentLevel"
 msgid "Current Level"
