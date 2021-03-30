@@ -230,11 +230,11 @@ def translate_loc(path: pathlib.Path):
 
                     if key.startswith(main_lang_key):
                         for trans_obj in obj["translations"]:
-                            trans_obj["translation"] = "Polski+English"
+                            trans_obj["translation"] = "Polski"
 
                     elif key.startswith(debug_lang_key):
                         for trans_obj in obj["translations"]:
-                            trans_obj["translation"] = "Pl+En (DEBUG)"
+                            trans_obj["translation"] = "Polski (DEBUG)"
 
                     elif po_entry:
                         trans_obj = find_loc_trans_obj(trans_list, lang=SUBSTITUTE_LANG)
